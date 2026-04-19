@@ -1,113 +1,392 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 agosto 1964 n. 1219
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 733
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 agosto 1964 n. 1219
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 733
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 -------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, numero 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvate le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Dopo l'art. 124 sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in "Anatomia e istologia patologica" in "Chirurgia".
+
+Scuola di specializzazione in anatomia e istologia patologica
+
+Art. 125. - Alla facolta' di medicina e chirurgia della Universita' di Trieste e' annessa una scuola di specializzazione in anatomia ed istologia patologica che conferisce il diploma di specialista in anatomia ed istologia patologica.
+
+Possono essere ammessi alla scuola cinque laureati in medicina e chirurgia per ogni anno di corso: l'ammissione sara' preceduta da un colloquio con il direttore della scuola per accertare le attitudini ed il possesso delle nozioni di base atte a seguire i corsi.
+
+La durata della scuola e' di tre anni.
+
+Eventuali abbreviazioni di corsi potranno essere accordate dalla facolta' di medicina e chirurgia previo parere favorevole del consiglio della scuola.
+
+La frequenza e' obbligatoria.
+
+Art. 126. - Sono impartiti i seguenti insegnamenti, cosi' distribuiti per ciascun anno di corso:
+
+1° Anno:
+
+Tecnica delle autopsie;
+
+Diagnostica anatomo-patologica macroscopica;
+
+Anatomia patologica sistematica (I);
+
+Tecnica istologica ed istochimica (I).
+
+2° Anno:
+
+Anatomia patologica sistematica (II);
+
+Tecnica istologica ed istochimica (II);
+
+Diagnostica isto-patologica (I);
+
+Elementi di microscopia elettronica.
+
+3° Anno:
+
+Diagnostica isto-patologica (II);
+
+Diagnostica ematologica;
+
+Tecnica e diagnostica citologica;
+
+Legislazione sanitaria tanatologica.
+
+Ad integrazione dei corsi ci sara' la possibilita' di aggiungere altre materie complementari, seminari, cicli di conferenza.
+
+La scuola si riserva di adeguarsi a quanto convenuto dagli Organismi Europei in tema di scuole di specializzazione mediche.
+
+La scuola ha sede nell'istituto di anatomia ed istologia patologica. Gli iscritti alla scuola hanno l'obbligo dell'internato nel predetto istituto per l'intera durata degli studi.
+
+Scuola di specializzazione in chirurgia
+
+Art. 127. - Alla facolta' di medicina e chirurgia della Universita' di Trieste e' annessa una scuola di specializzazione in chirurgia che conferisce il diploma di specialista in chirurgia.
+
+La scuola ha sede nella clinica chirurgica dell'universita'.
+
+Gli anni necessari per il conseguimento del diploma sono 5.
+
+Le materie del corso sono le seguenti:
+
+1) Anatomia chirurgica e corso di operazioni (triennale);
+
+2) Anatomia ed istologia patologica (biennale);
+
+3) Anestesia e rianimazione;
+
+4) Chirurgia cardiovascolare;
+
+5) Chirurgia d'urgenza;
+
+6) Chirurgia ginecologica;
+
+7) Chirurgia pediatrica;
+
+8) Chirurgia riparativa e plastica;
+
+9) Chirurgia sperimentale;
+
+10) Chirurgia toracica;
+
+11) Chirurgia urologica;
+
+12) Clinica chirurgica generale (quinquennale);
+
+13) Fisiopatologia chirurgica;
+
+14) Medicina legale;
+
+15) Neurochirurgia;
+
+16) Patologia speciale chirurgica (triennale);
+
+17) Radiologia;
+
+18) Ricerche di laboratorio;
+
+19) Semeiotica chirurgica;
+
+20) Semeiotica strumentale ed endoscopica;
+
+21) Trattamento pre e post-operatorio;
+
+22) Traumatologia ed ortopedia.
+
+Le materie sopraelencate sono cosi' distribuite:
+
+1° Anno:
+
+Clinica chirurgica generale;
+
+Patologia speciale chirurgica;
+
+Semeiotica chirurgica;
+
+Anatomia chirurgica e corso di operazioni;
+
+Chirurgia sperimentale;
+
+Anestesia e rianimazione;
+
+Ricerche di laboratorio.
+
+2° Anno:
+
+Clinica chirurgica generale;
+
+Patologia speciale chirurgica;
+
+Semeiotica chirurgica;
+
+Anatomia chirurgica e corso di operazioni;
+
+Fisiopatologia chirurgica;
+
+Trattamento pre e post-operatorio;
+
+Anatomia ed istologia patologica.
+
+3° Anno:
+
+Clinica chirurgica generale;
+
+Patologia speciale chirurgica;
+
+Semeiotica strumentale endoscopica;
+
+Anatomia chirurgica e corso di operazioni;
+
+Radiologia;
+
+Anatomia ed istologia patologica.
+
+4° Anno:
+
+Clinica chirurgica generale;
+
+Chirurgia ginecologica;
+
+Chirurgia urologica;
+
+Neurochirurgia;
+
+Traumatologia e ortopedia;
+
+Chirurgia pediatrica.
+
+5° Anno:
+
+Clinica chirurgica generale;
+
+Chirurgia toracica;
+
+Chirurgia cardiovascolare;
+
+Chirurgia riparativa e plastica;
+
+Chirurgia d'urgenza;
+
+Medicina legale.
+
+Art. 128. - Il numero degli iscritti alla scuola di specializzazione e' di quindici per i 5 anni di corso.
+
+La selezione dei candidati aspiranti all'ammissione alla scuola avverra' sulla base di titoli ed esami.
+
+Non sono consentite iscrizioni con abbreviazioni di corso.
+
+La frequenza alle lezioni ed alle esercitazioni e' obbligatoria per tutti gli iscritti.
+
+L'internato e' obbligatorio durante tutti i cinque anni del corso e si svolgera' presso la clinica chirurgica sotto forma di permanenza costante nella detta clinica durante le ore della sua attivita', con presenza giornaliera negli ambulatori e nei reparti di degenza.
+
+Dall'obbligo di tale internato saranno esentati quegli allievi che, in qualita' di assistenti e di aiuti, prestino effettivamente servizio presso reparti di chirurgia generale delle universita' e di ospedali di I e II categoria.
+
+Gli allievi hanno doveri ed attribuzioni analoghi a quelli degli assistenti.
+
+La frequenza delle sale operatorie iniziera' fin dal 1° anno di corso e, dopo un periodo di tirocinio, dovra' trasformarsi in compartecipazione attiva agli interventi operatori.
+
+Per i corsi che non siano della clinica chirurgica generale possono essere stabiliti, su parere del direttore della scuola, periodi di continuativa frequenza presso i relativi reparti specialistici qualora esistano quali reparti indipendenti.
+
+Il direttore e gli insegnanti della scuola si accerteranno, durante l'anno accademico dell'operosita' scolastica degli allievi, con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno.
+
+L'allievo che non abbia ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali.
+
+Alla fine del corso l'allievo, inoltre, dovra' sostenere un esame generale di profitto.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 22 settembre 1972
+
+LEONE
+
+SCALFARO
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 24 novembre 1972 Atti del Governo, registro n. 253, foglio n. 75. - CARUSO
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, numero 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540) e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, numero 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvate le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 39. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti quelli di:  
-Storia delle dottrine politiche;  
-Storia di Trieste e della Regione Giulia;  
-Filologia greco-latina.  
-Gli insegnamenti complementari di "Filologia latina" e di "Filologia greca" sono soppressi.  
-Art. 45. - All'elenco degli Istituti della Facolta' di lettere o filosofia sono aggiunti quelli di:  
-Istituto di studi bizantini e neo-cilenici.  
-Istituto di archeologia e storia dell'arte greca e romana.  
-Istituto di storia dell'arte medioevale e moderna.  
-L'istituto di "Storia dell'arte antica e moderna" e' soppresso.  
-Art. 58. - All'elenco degli insegnamenti complementari del corso di laurea in Chimica (indirizzo organico biologico) sono aggiunti quelli di:  
-Chimica teorica;  
-Strutturistica chimica;  
-Chimica organica superiore;  
-Complementi di matematiche.  
-Art. 61. - All'elenco degli insegnamenti complementari dei corso di laurea in Scienze naturali sono aggiunti quelli di:  
-Statistica;  
-Embriologia sperimentale;  
-Citologia.  
-Art. 76. - La parte riguardante gli insegnamenti del corso di laurea in Ingegneria civile (edile, idraulica e trasporti) e' abrogata e sostituita dal seguente:  
-Per la laurea in Ingegneria civile, comuni alle tre sezioni:  
-1) Architettura tecnica I;  
-2) Architettura tecnica II;  
-3) Costruzioni idrauliche;  
-4) Costruzioni di strade, ferrovie ed aeroporti;  
-5) Elettrotecnica;  
-6) Fisica tecnica;  
-7) Idraulica;  
-8) Meccanica applicata alle macchine e Macchine;  
-9) Scienza delle costruzioni I;  
-10) Scienza delle costruzioni II;  
-11) Tecnica delle costruzioni;  
-12) Topografia;  
-13) Tecnologie dei materiali e chimica applicata.  
-Per la sezione edile:  
-14) Architettura e composizione architettonica;  
-15) Progettazione integrale;  
-16) Tecnica urbanistica;  
-e costituiranno gruppi di indirizzi i seguenti insegnamenti:  
-per l'indirizzo a):  
-17) Pianificazione urbanistica;  
-18) Storia delle tecniche architettoniche;  
-19) Storiografia e critica dell'architettura;  
-per l'indirizzo b):  
-17) Tecnica delle costruzioni II;  
-18) Tecnica delle fondazioni;  
-19) Storia delle tecniche architettoniche.  
-Per la Sezione idraulica:  
-14) Estimo ed economia;  
-15) Impianti speciali idraulici;  
-16) Legislazione del lavoro e delle opere pubbliche;  
-17) Geotecnica;  
-e costituiranno gruppi di indirizzi i seguenti insegnamenti:  
-per l'indirizzo a):  
-18) Complementi di costruzioni idrauliche;  
-19) Costruzioni marittime.  
-per l'indirizzo b):  
-18) Complementi di costruzioni idrauliche;  
-19) Idraulica agraria.  
-Per la Sezione trasporti:  
-14) Estimo ed economia;  
-15) Legislazione del lavoro e delle opere pubbliche;  
-16) Tecnica ed economia dei trasporti;  
-e costituiranno gruppi di indirizzi i seguenti insegnamenti:  
-Per l'indirizzo a):  
-17) Tecnica del traffico e della circolazione;  
-18) Geotecnica;  
-19) Trazione elettrica.  
-Per l'indirizzo b):  
-17) Tecnica delle costruzioni II;  
-18) Costruzioni marittime;  
-19) Tecnica delle fondazioni.  
+Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+  
+Dopo l'art. 124 sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in "Anatomia e istologia patologica" in "Chirurgia".   
+  
+Scuola di specializzazione in anatomia e istologia patologica   
+  
+Art. 125. - Alla facolta' di medicina e chirurgia della Universita' di Trieste e' annessa una scuola di specializzazione in anatomia ed istologia patologica che conferisce il diploma di specialista in anatomia ed istologia patologica.   
+Possono essere ammessi alla scuola cinque laureati in medicina e chirurgia per ogni anno di corso: l'ammissione sara' preceduta da un colloquio con il direttore della scuola per accertare le attitudini ed il possesso delle nozioni di base atte a seguire i corsi.   
+La durata della scuola e' di tre anni.   
+Eventuali abbreviazioni di corsi potranno essere accordate dalla facolta' di medicina e chirurgia previo parere favorevole del consiglio della scuola.   
+La frequenza e' obbligatoria.   
+Art. 126. - Sono impartiti i seguenti insegnamenti, cosi' distribuiti per ciascun anno di corso:   
+1° Anno:   
+Tecnica delle autopsie;   
+Diagnostica anatomo-patologica macroscopica;   
+Anatomia patologica sistematica (I);   
+Tecnica istologica ed istochimica (I).   
+2° Anno:   
+Anatomia patologica sistematica (II);   
+Tecnica istologica ed istochimica (II);   
+Diagnostica isto-patologica (I);   
+Elementi di microscopia elettronica.   
+3° Anno:   
+Diagnostica isto-patologica (II);   
+Diagnostica ematologica;   
+Tecnica e diagnostica citologica;   
+Legislazione sanitaria tanatologica.   
+Ad integrazione dei corsi ci sara' la possibilita' di aggiungere altre materie complementari, seminari, cicli di conferenza.   
+La scuola si riserva di adeguarsi a quanto convenuto dagli Organismi Europei in tema di scuole di specializzazione mediche.   
+La scuola ha sede nell'istituto di anatomia ed istologia patologica. Gli iscritti alla scuola hanno l'obbligo dell'internato nel predetto istituto per l'intera durata degli studi.   
+  
+Scuola di specializzazione in chirurgia   
+  
+Art. 127. - Alla facolta' di medicina e chirurgia della Universita' di Trieste e' annessa una scuola di specializzazione in chirurgia che conferisce il diploma di specialista in chirurgia.   
+La scuola ha sede nella clinica chirurgica dell'universita'.   
+Gli anni necessari per il conseguimento del diploma sono 5.   
+Le materie del corso sono le seguenti:   
+1) Anatomia chirurgica e corso di operazioni (triennale);   
+2) Anatomia ed istologia patologica (biennale);   
+3) Anestesia e rianimazione;   
+4) Chirurgia cardiovascolare;   
+5) Chirurgia d'urgenza;   
+6) Chirurgia ginecologica;   
+7) Chirurgia pediatrica;   
+8) Chirurgia riparativa e plastica;   
+9) Chirurgia sperimentale;   
+10) Chirurgia toracica;   
+11) Chirurgia urologica;   
+12) Clinica chirurgica generale (quinquennale);   
+13) Fisiopatologia chirurgica;   
+14) Medicina legale;   
+15) Neurochirurgia;   
+16) Patologia speciale chirurgica (triennale);   
+17) Radiologia;   
+18) Ricerche di laboratorio;   
+19) Semeiotica chirurgica;   
+20) Semeiotica strumentale ed endoscopica;   
+21) Trattamento pre e post-operatorio;   
+22) Traumatologia ed ortopedia.   
+Le materie sopraelencate sono cosi' distribuite:   
+1° Anno:   
+Clinica chirurgica generale;   
+Patologia speciale chirurgica;   
+Semeiotica chirurgica;   
+Anatomia chirurgica e corso di operazioni;   
+Chirurgia sperimentale;   
+Anestesia e rianimazione;   
+Ricerche di laboratorio.   
+2° Anno:   
+Clinica chirurgica generale;   
+Patologia speciale chirurgica;   
+Semeiotica chirurgica;   
+Anatomia chirurgica e corso di operazioni;   
+Fisiopatologia chirurgica;   
+Trattamento pre e post-operatorio;   
+Anatomia ed istologia patologica.   
+3° Anno:   
+Clinica chirurgica generale;   
+Patologia speciale chirurgica;   
+Semeiotica strumentale endoscopica;   
+Anatomia chirurgica e corso di operazioni;   
+Radiologia;   
+Anatomia ed istologia patologica.   
+4° Anno:   
+Clinica chirurgica generale;   
+Chirurgia ginecologica;   
+Chirurgia urologica;   
+Neurochirurgia;   
+Traumatologia e ortopedia;   
+Chirurgia pediatrica.   
+5° Anno:   
+Clinica chirurgica generale;   
+Chirurgia toracica;   
+Chirurgia cardiovascolare;   
+Chirurgia riparativa e plastica;   
+Chirurgia d'urgenza;   
+Medicina legale.   
+Art. 128. - Il numero degli iscritti alla scuola di specializzazione e' di quindici per i 5 anni di corso.   
+La selezione dei candidati aspiranti all'ammissione alla scuola avverra' sulla base di titoli ed esami.   
+Non sono consentite iscrizioni con abbreviazioni di corso.   
+La frequenza alle lezioni ed alle esercitazioni e' obbligatoria per tutti gli iscritti.   
+L'internato e' obbligatorio durante tutti i cinque anni del corso e si svolgera' presso la clinica chirurgica sotto forma di permanenza costante nella detta clinica durante le ore della sua attivita', con presenza giornaliera negli ambulatori e nei reparti di degenza.   
+Dall'obbligo di tale internato saranno esentati quegli allievi che, in qualita' di assistenti e di aiuti, prestino effettivamente servizio presso reparti di chirurgia generale delle universita' e di ospedali di I e II categoria.   
+Gli allievi hanno doveri ed attribuzioni analoghi a quelli degli assistenti.   
+La frequenza delle sale operatorie iniziera' fin dal 1° anno di corso e, dopo un periodo di tirocinio, dovra' trasformarsi in compartecipazione attiva agli interventi operatori.   
+Per i corsi che non siano della clinica chirurgica generale possono essere stabiliti, su parere del direttore della scuola, periodi di continuativa frequenza presso i relativi reparti specialistici qualora esistano quali reparti indipendenti.   
+Il direttore e gli insegnanti della scuola si accerteranno, durante l'anno accademico dell'operosita' scolastica degli allievi, con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno.   
+L'allievo che non abbia ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali.   
+Alla fine del corso l'allievo, inoltre, dovra' sostenere un esame generale di profitto.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 agosto 1964
+### Dato a Roma, addi' 22 settembre 1972
 
-SEGNI GUI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 21 novembre 1964
+Registrato alla Corte dei conti, addi' 24 novembre 1972
 
-Atti del Governo, registro n. 188, foglio n. 104. - VILLA
+Atti del Governo, registro n. 253, foglio n. 75. - CARUSO

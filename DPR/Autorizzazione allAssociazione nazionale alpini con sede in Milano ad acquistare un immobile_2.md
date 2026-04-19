@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 luglio 1968 n. 905
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 dicembre 1973 n. 1002
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 luglio 1968 n. 905
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 dicembre 1973 n. 1002
+================================================================
 
 Autorizzazione all'Associazione nazionale alpini, con sede in Milano, ad acquistare un immobile.
 ------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-905. Decreto del Presidente della Repubblica 3 luglio 1968, col quale, sulla proposta del Ministro per la difesa, l'Associazione nazionale alpini, con sede in Milano, viene autorizzata ad acquistare, per la sede della dipendente sezione di Ivrea, dal geometra Giovanni Bennati, al prezzo di L. 3.900.000, l'appartamento situato al piano terreno del fabbricato di nuova costruzione che sorge in detta citta', in via da intestare all'on.le Alcide De Gasperi (su terreno contraddistinto nella vigente mappa dei terreni di Ivrea alla partita n. 9002/10383, foglio XXIII, n. 62), composto di due vani e servizi, della superficie effettiva di mq. 65, e l'annessa cantina, posta nel piano interrato del fabbricato stesso.  
+1002. Decreto del Presidente della Repubblica 14 dicembre 1973, col quale, sulla proposta del Ministro per la difesa, l'Associazione nazionale alpini, con sede in Milano, viene autorizzata ad acquistare, per costruirvi una baita da utilizzare come sede per le vacanze estive dei figli degli associati, dal comune di Ferrara di Monte Baldo, al prezzo di L. 250 al metro quadrato, l'appezzamento di terreno della superficie di mq. 3.165 situato in localita' Albare' di quel comune e censito nel catasto del comune stesso alla sezione A, foglio VI, n. 19 v.  
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 17 agosto 1968  
-Atti del Governo, registro n. 222, foglio n. 73. - DI PRETORO
+Visto, il Guardasigilli: ZAGARI  
+Registrato alla Corte dei conti, addi' 8 febbraio 1974  
+Atti di Governo, registro n. 1, foglio n. 61. - CARUSO

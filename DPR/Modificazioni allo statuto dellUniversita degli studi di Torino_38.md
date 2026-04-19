@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1963 n. 873
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1968 n. 796
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1963 n. 873
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1968 n. 796
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
@@ -12,12 +12,12 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1935, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-09-30;1652), e successive modificazioni;  
-Veduto il [decreto del Presidente della Repubblica 26 luglio 1950, n. 1692](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-07-26;1692);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -25,126 +25,62 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 75. - E' abrogato e sostituito dal seguente: "La facolta' di farmacia conferisce la laurea in farmacia e la laurea in chimica e tecnologia farmaceutiche".  
+Dopo l'art. 81 e con il conseguente spostamento della successiva numerazione e' aggiunto il seguente nuovo articolo relativo all'istituzione del corso di laurea in chimica e tecnologia farmaceutiche annesso alla facolta' di farmacia.  
   
-Art. 36. - Il primo comma abrogato e sostituito dal seguente:  
+Laurea in chimica e tecnologia farmaceutiche  
   
-"La Facolta' di Scienze matematiche, fisiche e naturali conferisce la laurea in Chimica, in Chimica industriale, in Fisica, in Matematica ed in Scienze naturali.  
-Gli articoli 41 e 42 relativi al corso di laurea in Scienze matematiche sono abrogati e sostituiti dai seguenti con il conseguente spostamento della numerazione successiva.  
-  
-Laurea in Matematica  
-  
-Art. 41. - La durata del corso degli studi per la laurea in Matematica e' di quattro anni.  
-E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica. Possono essere ammessi i diplomati degli Istituti tecnici industriali, nautici, agrari e per geometri, alle condizioni stabilite dalla legge.  
-Vi sono tre indirizzi: generale, didattico e applicativo.  
-  
-Art. 42. - Sono insegnamenti fondamentali obbligatori comuni a tutti gli indirizzi, per quel che riguarda il primo biennio, i seguenti:  
-  
-1° Anno:  
-1) Analisi matematica I;  
-2) Geometria I;  
-3) Algebra;  
-4) Fisica generale I;  
-  
-2° Anno:  
-1) Analisi matematica I;  
-2) Geometria II;  
-3) Meccanica razionale;  
-4) Fisica generale II.  
-  
-I precedenti insegnamenti sono accompagnati da esercitazioni che ne formano parte integrante e per ciascuno di essi vi e' un esame finale.  
-I corsi di Analisi matematica, Geometria e Fisica generale sono costituiti da due parti annuali distinte, una propedeutica all'altra, con due esami distinti, il primo propedeutico al secondo.  
-  
-Art. 43. - Potranno essere iscritti al secondo anno soltanto quegli studenti che abbiano superato almeno due degli esami di Analisi matematica I, Geometria I, Algebra.  
-  
-Art. 44. - Per il terzo anno sono insegnamenti fondamentali obbligatori, comuni a tutti gli indirizzi, i seguenti:  
-1) Istituzioni di analisi superiore;  
-2) Istituzioni di geometria superiore;  
-3) Istituzioni di fisica matematica.  
-  
-Qualora l'insegnamento di Istituzioni di analisi superiore non venga effettivamente impartito ma venga impartito quello di Metodi matematici della fisica, questo sostituisce il primo a tutti gli effetti.  
-Nel secondo biennio dovranno essere seguiti altri quattro corsi di cui due sono quelli appresso indicati per i tre indirizzi (tabella A) ed altri due dovranno essere corsi, diversi dai precedenti, contemplati nella seguente tabella B comune a tutti e tre gli indirizzi.  
-Poiche' non tutti i corsi cui alla tabella B potranno venire effettivamente impartiti tutti gli anni, il manifesto annuale della Facolta' indichera' quali di detti corsi potranno venire effettivamente scelti ciascun anno. Uno di tali corsi sara' ad indirizzo fisico ed uno di essi dovra' essere seguito nel terzo anno.  
-  
-TABELLA A  
-  
-Indirizzo generale:  
-1) Analisi superiore:  
-2) Geometria superiore.  
-  
-Indirizzo didattico:  
-1) Matematiche complementari;  
-2) Matematiche elementari da un punto di vista superiore.  
-  
-Indirizzo applicativo:  
-1) Calcoli numerici e grafici;  
-2) Calcolo delle probabilita' e statistica.  
-  
-TABELLA B  
-  
-1) Algebra superiore;  
-2) Analisi superiore;  
-3) Astronomia:  
-4) Calcoli numerici e grafici;  
-5) Calcolo delle probabilita' e statistica;  
-6) Chimica con esercitazioni di laboratorio (per fisici);  
-7) Fisica matematica;  
-8) Fisica superiore;  
-9) Fisica teorica;  
-10) Geometria algebrica;  
-11) Geometria differenziale;  
-12) Geometria superiore;  
-13) Istituzioni di fisica teorica;  
-14) Logica matematica;  
-15) Matematica complementare;  
-16) Matematica elementare da un punto di vista superiore;  
-17) Matematiche superiori;  
-18) Meccanica statistica;  
-19) Meccanica superiore;  
-20) Metodi matematici della fisica  
-21) Onde elettromagnetiche;  
-22) Statistica matematica  
-23) Storia della matematica  
-24) Teoria delle funzioni;  
-25) Teoria dei numeri;  
-26) Teoria delle macchine calcolatrici  
-27) Topologia.  
-  
-Degli insegnamenti complementari della precedente tabella B sono ad indirizzo fisico gli insegnamenti di:  
-  
-1) Fisica superiore;  
-2) Fisica teorica;  
-3) Istituzioni di fisica teorica;  
-4) Onde elettromagnetiche.  
-  
-Art. 45. - Gli insegnamenti di cui all'articolo precedente saranno accompagnati da esercitazioni che ne formano parte integrante. Anche gli altri insegnamenti di cui alle tabelle A e B, avuto riguardo al numero degli iscritti, potranno essere accompagnati da esercitazioni.  
-  
-Art. 46. - Per essere ammesso all'esame di laurea lo studente deve avere seguito i corsi e superato gli esami dei quindici insegnamenti di cui agli articoli precedenti.  
-  
-In deroga al vigente art. 7 dello statuto, l'esame di laurea in Matematica e' costituito:  
-a) da una prova orale di cultura;  
-b) da una prova scritta, sotto sorveglianza, per cui sono concesse sei ore di tempo;  
-c) da una breve tesi scritta che, per la laurea, con Indirizzo generale, dovra' avere carattere originale;  
-d) dallo svolgimento di una tesina orale su due proposte.  
-  
-Le prove a) e b) devono precedere la d) e l'eventuale fallimento di una di esse non implica la ripetizioni anche dell'altra.  
-La tesi di cui in c) deve essere presentata in segreteria almeno un mese prima della data stabilita per la prova finale d).  
-  
-Art. 47. - La Facolta' decidera' case per caso quali abbreviazioni di corso possano essere eventualmente concesse a studenti o laureati provenienti da altre Facolta' ed Istituti superiori.  
-  
-Art. 48 (gia' 43), relativo al corso di laurea in Matematica e fisica e' soppresso.  
-  
-Art. 50 (gia' 45), relativo alle propedeuticita' e' modificato nel senso che sono abrogati i commi quarto e quinto concernenti le propedeuticita' del corso di laurea in Scienze matematiche e in Matematica e fisica.  
+Art. 82. - Durata del corso degli studi: cinque anni, divisi in un biennio ed un triennio.  
+Titolo di ammissione: diploma di maturita' classica o scientifica.  
+Insegnamenti fondamentali:  
+Biennio:  
+1) analisi chimico farmaceutica I (analisi qualitativa);  
+(\*) 2) anatomia umana;  
+(\*) 3) botanica farmaceutica;  
+(\*) 4) chimica fisica;  
+(\*) 5) chimica generale ed inorganica;  
+(\*\*) 6) chimica organica I;  
+(\*) 7) fisica;  
+8) fisiologia generale;  
+(\*) 9) istituzioni di matematiche;  
+10) microbiologia e igiene.  
+Triennio:  
+11) analisi chimico farmaceutica II (analisi quantitativa);  
+12) analisi chimico farmaceutica 111 (analisi dei medicamenti); (\*) 13) biochimica applicata;  
+(\*) 14) chimica biologica;  
+(\*) 15) chimica degli alimenti;  
+(\*) 16) chimica farmaceutica applicata;  
+(\*) 17) chimica farmaceutica e tossicologia I;  
+(\*) 18) chimica farmaceutica e tossicologica II;  
+(\*\*) 19) chimica organica II;  
+(\*) 20) farmacologia e farmacognosia;  
+21) impianti dell'industria farmaceutica;  
+22) laboratorio di preparazione estrattiva e sintetica dei farmaci;  
+23) metodi fisici in chimica organica;  
+24) saggi e dosaggi farmacologici;  
+(\*) 25) tecnica e legislazione farmaceutica.  
+Insegnamenti complementari:  
+(\*) chimica delle fermentazioni e microbiologia industriale;  
+chimica delle sostanze organiche naturali;  
+(\*\*) complementi di chimica tossicologica;  
+(\*) microchimica;  
+chimica dei prodotti dietetici;  
+chimica dei prodotti cosmetici.  
+Le materie segnate con un asterisco sono comuni alla laurea in farmacia; quelle segnate con due asterischi sono comuni alla laurea in chimica.  
+Per ottenere l'iscrizione al terzo anno di corso, lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fissati per i due precedenti.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato tutti gli esami dei corsi fondamentali e almeno due esami a scelta fra i corsi complementari.  
+La prova di laurea comporta la discussione di una tesi sperimentale.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella. Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 maggio 1963
+### Dato a Roma, addi' 5 giugno 1968
 
-SEGNI GUI
+SARAGAT GUI
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 28 giugno 1963
+Registrato alla Corte dei conti, addi' 17 luglio 1968
 
-Atti del Governo, registro n. 171, foglio n. 52. - VILLA
+Atti del Governo, registro n. 221, foglio n. 36. - GRECO

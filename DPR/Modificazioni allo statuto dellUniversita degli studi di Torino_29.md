@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1973 n. 74
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 maggio 1970 n. 539
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1973 n. 74
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 maggio 1970 n. 539
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Torino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -28,258 +28,158 @@ Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso;
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-L'art. 140, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola in igiene muta la denominazione in quella di igiene e medicina preventiva.
+Art. 128, relativo alle norme per l'esame di diploma delle scuole di specializzazione in medicina e chirurgia, e' abrogato e sostituito dal seguente:
 
-Nello stesso elenco la scuola in medicina scolastica e' soppressa.
+"Nella commissione degli esami di diploma il preside della facolta' presiede le commissioni che sono composte da sette membri; in caso di impedimento puo' delegare a presiedere un altro professore.
 
-Gli articoli 178-179 relativi alla "Scuola di specializzazione in igiene" che muta la denominazione in quella di "Scuola di specializzazione in igiene e medicina preventiva" sono abrogati e sostituiti dai seguenti:
+I componenti della commissione sono nominati dal preside fra gli insegnanti delle materie contemplate nel programma di studio di ciascuna scuola. Della commissione deve far parte un libero docente".
 
-Scuola di specializzazione in igiene
+Gli articoli 160, 161, 162, 163 relativi alla scuola di specializzazione in medicina legale e delle assicurazioni sono abrogati e sostituiti dai seguenti:
 
-e medicina preventiva
+Scuola di specializzazione in medicina legale e delle assicurazioni
 
-Art. 178. - La scuola di specializzazione in igiene e medicina preventiva ha la durata di tre anni.
+Art. 160. - La scuola ha la durata di tre anni.
 
-La scuola conferisce il diploma di specialista in igiene e medicina preventiva con gli orientamenti di sanita' pubblica, laboratorio, igiene e tecnica ospedaliera, igiene e medicina scolastica.
+Alla scuola sono ammessi i laureati in medicina e chirurgia abilitati all'esercizio della professione.
 
-Alla scuola sono ammessi i laureati in medicina e chirurgia in numero di venti (20) per ogni - anno di corso.
+Il numero degli iscritti e' stabilito in dieci per ogni anno di corso (totale trenta iscritti).
 
-Art. 179. - Gli insegnamenti impartiti sono i seguenti:
+Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni e le esercitazioni, nonche' di prestare servizio di medico interno per almeno sei mesi per ciascun anno.
+
+Art. 161. - Le materie di insegnamento sono le seguenti:
 
 1° Anno:
 
-Metodologia statistica e biometria;
+Medicina legale generale;
 
-Psicologia;
+Elementi di diritto pubblico e privato;
 
-Microbiologia e immunologia;
+Tecnica e diagnostica anatomo-patologica generale e medico-legale;
 
-Parassitologia;
+Traumatologia medico-legale;
 
-Epidemiologia e profilassi generale;
-
-Educazione sanitaria.
+Semeiotica medico-legale.
 
 2° Anno:
 
-Patologia e clinica delle malattie infettive;
+Medicina legale penalistica;
 
-Epidemiologia e profilassi delle malattie infettive;
+Deontologia medica;
 
-Patologia e clinica delle malattie non infettive di importanza sociale;
+Neuropsichiatria medico-legale;
 
-Epidemiologia e profilassi delle malattie non infettive di importanza sociale;
+Elementi di medicina criminologica e di medicina penitenziaria;
 
-Demografia e statistica sanitaria;
+Indagini di sopralluogo;
 
-Legislazione e organizzazione sanitaria.
+Identificazione personale.
 
-3° Anno (con orientamento di sanita' pubblica):
+3° Anno:
 
-Approvigionamento idrico; raccolta e smaltimento dei rifiuti solidi e liquidi;
+Medicina legale civilistica e canonistica;
 
-Inquinamenti atmosferici;
+Tossicologia medico-legale;
 
-Igiene edilizia e urbanistica;
+Tecniche di laboratorio medico-legale ed ematologia forense;
 
-Igiene dell'alimentazione;
+Ostetricia e ginecologia forensi;
 
-Igiene e medicina scolastica;
+Elementi di legislazione del lavoro;
 
-Igiene ospedaliera;
+Elementi di medicina del lavoro;
 
-Servizi di sanita' pubblica;
+Medicina delle assicurazioni;
 
-(con orientamento di laboratorio)
+Medicina legale militare e pensionistica civile.
 
-Microscopia applicata all'igiene;
+Art. 162. - Alla fine di ogni anno gli iscritti sosterranno gli esami di profitto sulle singole materie di insegnamento. Lo specializzando che non abbia superato tutti gli esami dell'anno frequentato non potra' essere iscritto all'anno successivo.
 
-Microbiologia applicata all'igiene;
+Art. 163. - L'esame di diploma consistera' in una dissertazione scritta su un argomento di medicina legale o di medicina delle assicurazioni.
 
-Chimica clinica;
-
-Accertamento diagnostico delle malattie batteriche e parassitarie;
-
-Accertamento diagnostico delle infezioni virali;
-
-Nozioni di anatomia e istologia patologica.
-
-Materie complementari:
-
-Ispezioni delle carni;
-
-Geologia applicata all'igiene;
-
-Igiene mentale;
-
-Malattie mentali e loro prevenzioni;
-
-Diritto sanitario;
-
-Igiene navale e dell'emigrazione;
-
-Antropologia culturale e sociologica;
-
-Malattie tropicali;
-
-Istituzioni di matematica;
-
-Genetica;
-
-Gerontologia e geriatria;
-
-Elementi di economia politica;
-
-(con orientamento di igiene e tecnica e direzione ospedaliera)
-
-Storia degli ospedali e principi metodologici dell'assistenza ospedaliera;
-
-Igiene e tecnica delle costruzioni ospedaliere, arredamento ed impianti sanitari;
-
-Organizzazione e funzione degli ospedali generali e speciali;
-
-Diritto amministrativo e legislazione ospedaliera;
-
-Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospedaliera;
-
-Selezione e istruzione professionale del personale ospedaliero;
-
-Organizzazione e funzione dei laboratori di analisi di accertamento necroscopico;
-
-(con orientamento di igiene e medicina scolastica)
-
-Auxologia normale e patologica;
-
-Epidemiologia e profilassi delle malattie dell'eta' scolare;
-
-Servizi di medicina scolastica;
-
-Elementi di psicologia e pedagogia per l'eta' scolare;
-
-Assistenza para-scolastica;
-
-Edilizia scolastica.
-
-Gli articoli da 236 a 241 relativi al corso di perfezionamento in medicina scolastica sono soppressi, con il conseguente spostamento della numerazione degli articoli successivi.
+I candidati non riconosciuti idonei all'esame di diploma si potranno ripresentare dopo un altro anno di frequenza alla scuola; se al secondo esame non sara' loro riconosciuta l'idoneita' verranno senz'altro esclusi da ulteriori prove.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 2 febbraio 1973
+Dato a Roma, addi' 18 maggio 1970
 
-LEONE
+SARAGAT
 
-SCALFARO
+MISASI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 3 aprile 1973 Atti di Governo, registro n. 257, foglio n. 37. - VALENTINI
+alla Corte dei conti, addi' 24 luglio 1970 Atti del Governo, registro n. 236, foglio n. 181. - IZZI
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso;   
-L'art. 140, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola in igiene muta la denominazione in quella di igiene e medicina preventiva.   
-Nello stesso elenco la scuola in medicina scolastica e' soppressa.   
-Gli articoli 178-179 relativi alla "Scuola di specializzazione in igiene" che muta la denominazione in quella di "Scuola di specializzazione in igiene e medicina preventiva" sono abrogati e sostituiti dai seguenti:   
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Scuola di specializzazione in igiene   
-e medicina preventiva   
-Art. 178. - La scuola di specializzazione in igiene e medicina preventiva ha la durata di tre anni.   
-La scuola conferisce il diploma di specialista in igiene e medicina preventiva con gli orientamenti di sanita' pubblica, laboratorio, igiene e tecnica ospedaliera, igiene e medicina scolastica.   
-Alla scuola sono ammessi i laureati in medicina e chirurgia in numero di venti (20) per ogni - anno di corso.   
-Art. 179. - Gli insegnamenti impartiti sono i seguenti:   
+Art. 128, relativo alle norme per l'esame di diploma delle scuole di specializzazione in medicina e chirurgia, e' abrogato e sostituito dal seguente:  
+"Nella commissione degli esami di diploma il preside della facolta' presiede le commissioni che sono composte da sette membri; in caso di impedimento puo' delegare a presiedere un altro professore.  
+I componenti della commissione sono nominati dal preside fra gli insegnanti delle materie contemplate nel programma di studio di ciascuna scuola. Della commissione deve far parte un libero docente".  
+Gli articoli 160, 161, 162, 163 relativi alla scuola di specializzazione in medicina legale e delle assicurazioni sono abrogati e sostituiti dai seguenti:  
   
-1° Anno:   
-Metodologia statistica e biometria;   
-Psicologia;   
-Microbiologia e immunologia;   
-Parassitologia;   
-Epidemiologia e profilassi generale;   
-Educazione sanitaria.   
-  
-2° Anno:   
-Patologia e clinica delle malattie infettive;   
-Epidemiologia e profilassi delle malattie infettive;   
-Patologia e clinica delle malattie non infettive di importanza sociale;   
-Epidemiologia e profilassi delle malattie non infettive di importanza sociale;   
-Demografia e statistica sanitaria;   
-Legislazione e organizzazione sanitaria.   
-  
-3° Anno (con orientamento di sanita' pubblica):   
-Approvigionamento idrico; raccolta e smaltimento dei rifiuti solidi e liquidi;   
-Inquinamenti atmosferici;   
-Igiene edilizia e urbanistica;   
-Igiene dell'alimentazione;   
-Igiene e medicina scolastica;   
-Igiene ospedaliera;   
-Servizi di sanita' pubblica;   
-(con orientamento di laboratorio)   
-Microscopia applicata all'igiene;   
-Microbiologia applicata all'igiene;   
-Chimica clinica;   
-Accertamento diagnostico delle malattie batteriche e parassitarie;   
-Accertamento diagnostico delle infezioni virali;   
-Nozioni di anatomia e istologia patologica.   
-  
-Materie complementari:   
-Ispezioni delle carni;   
-Geologia applicata all'igiene;   
-Igiene mentale;   
-Malattie mentali e loro prevenzioni;   
-Diritto sanitario;   
-Igiene navale e dell'emigrazione;   
-Antropologia culturale e sociologica;   
-Malattie tropicali;   
-Istituzioni di matematica;   
-Genetica;   
-Gerontologia e geriatria;   
-Elementi di economia politica;   
-(con orientamento di igiene e tecnica e direzione ospedaliera)   
-Storia degli ospedali e principi metodologici dell'assistenza ospedaliera;   
-Igiene e tecnica delle costruzioni ospedaliere, arredamento ed impianti sanitari;   
-Organizzazione e funzione degli ospedali generali e speciali;   
-Diritto amministrativo e legislazione ospedaliera;   
-Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospedaliera;   
-Selezione e istruzione professionale del personale ospedaliero;   
-Organizzazione e funzione dei laboratori di analisi di accertamento necroscopico;   
-(con orientamento di igiene e medicina scolastica)   
-Auxologia normale e patologica;   
-Epidemiologia e profilassi delle malattie dell'eta' scolare;   
-Servizi di medicina scolastica;   
-Elementi di psicologia e pedagogia per l'eta' scolare;   
-Assistenza para-scolastica;   
-Edilizia scolastica.   
-  
-Gli articoli da 236 a 241 relativi al corso di perfezionamento in medicina scolastica sono soppressi, con il conseguente spostamento della numerazione degli articoli successivi.   
+Scuola di specializzazione in medicina legale e delle assicurazioni   
+Art. 160. - La scuola ha la durata di tre anni.  
+Alla scuola sono ammessi i laureati in medicina e chirurgia abilitati all'esercizio della professione.  
+Il numero degli iscritti e' stabilito in dieci per ogni anno di corso (totale trenta iscritti).  
+Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni e le esercitazioni, nonche' di prestare servizio di medico interno per almeno sei mesi per ciascun anno.  
+Art. 161. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+Medicina legale generale;  
+Elementi di diritto pubblico e privato;  
+Tecnica e diagnostica anatomo-patologica generale e medico-legale;  
+Traumatologia medico-legale;  
+Semeiotica medico-legale.  
+2° Anno:  
+Medicina legale penalistica;  
+Deontologia medica;  
+Neuropsichiatria medico-legale;  
+Elementi di medicina criminologica e di medicina penitenziaria;  
+Indagini di sopralluogo;  
+Identificazione personale.  
+3° Anno:  
+Medicina legale civilistica e canonistica;  
+Tossicologia medico-legale;  
+Tecniche di laboratorio medico-legale ed ematologia forense;  
+Ostetricia e ginecologia forensi;  
+Elementi di legislazione del lavoro;  
+Elementi di medicina del lavoro;  
+Medicina delle assicurazioni;  
+Medicina legale militare e pensionistica civile.  
+Art. 162. - Alla fine di ogni anno gli iscritti sosterranno gli esami di profitto sulle singole materie di insegnamento. Lo specializzando che non abbia superato tutti gli esami dell'anno frequentato non potra' essere iscritto all'anno successivo.  
+Art. 163. - L'esame di diploma consistera' in una dissertazione scritta su un argomento di medicina legale o di medicina delle assicurazioni.  
+I candidati non riconosciuti idonei all'esame di diploma si potranno ripresentare dopo un altro anno di frequenza alla scuola; se al secondo esame non sara' loro riconosciuta l'idoneita' verranno senz'altro esclusi da ulteriori prove.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 febbraio 1973
+### Dato a Roma, addi' 18 maggio 1970
 
-LEONE SCALFARO
+SARAGAT MISASI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 3 aprile 1973
+Registrato alla Corte dei conti, addi' 24 luglio 1970
 
-Atti di Governo, registro n. 257, foglio n. 37. - VALENTINI
+Atti del Governo, registro n. 236, foglio n. 181. - IZZI

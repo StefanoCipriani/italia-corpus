@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 novembre 1978 n. 855
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 novembre 1979 n. 854
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 novembre 1978 n. 855
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 novembre 1979 n. 854
 ===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-855. Decreto del Presidente della Repubblica 23 novembre 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, un quarto dell'eredita' disposta dal prof. Manfredo Cagni a favore dei mutilatini don Gnocchi che si identificano con la fondazione "Pro juventute don Carlo Gnocchi", come ha fatto presente la fondazione medesima, con testamento pubblico 10 gennaio 1972, pubblicato a rogito notaio dott. Giorgio Giuriani di Como in data 9 maggio 1972, n. 65077 di repertorio, n. 18612 di raccolta, ed ivi registrato il 29 maggio 1972 con il n. 2617 serie I, consistente nella somma di L. 6.749.023.  
+854. Decreto del Presidente della Repubblica 28 novembre 1979, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in beni mobili e libretti a risparmio, titoli, denaro, preziosi, del valore presunto di L. 13.955.420, disposta dalla sig.ra Virginia De Capitani Da Vimercate con testamento olografo 5 agosto 1970, pubblicato in data 13 ottobre 1975, n. 116583/23193 di repertorio, a rogito dott. Domenico Moretti, notaio in Milano, registrato a Milano in data 22 ottobre 1975, n. 9108, serie H.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 27 dicembre 1978  
-Registro n. 8 Presidenza, foglio n. 129
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti, addi' 21 marzo 1980  
+Registro n. 2 Presidenza, foglio n. 341

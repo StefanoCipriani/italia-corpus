@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1981 n. 77
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1978 n. 623
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1981 n. 77
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1978 n. 623
 =============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
@@ -12,8 +12,12 @@ Art. 1
 
 N.
 
-77. Decreto del Presidente della Repubblica 29 gennaio 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Ternetz Paola Clara, come risulta dalla pubblicazione della disposizione testamentaria di cui all'atto in data 6 novembre 1975, n. 82341 di repertorio, n. 19156 di fascicolo, a rogito dott. Pietro Cassina, notaio in Milano, registrato a Milano il 19 novembre 1975 al n. A/4 -10727, serie M, consistente in titoli obbligazionari del complessivo valore di L. 3.000.000.  
+623. Decreto del Presidente della Repubblica 1 agosto 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.na Miotti Maria con testamento olografo 3 marzo 1973, pubblicato a rogito notaio dott. Carlo D'Este in data 4 febbraio 1975, n. 7308 di repertorio e n. 3126 di raccolta, registrato a Rapallo il 17 febbraio 1975 al n. 261, vol. 180 mod. 1, consistente in beni immobili siti in Rapallo:
+
+a) appartamento sito in via Vespucci 22/9, riportato al nuovo catasto edilizio urbano alla partita 4485, foglio 35, mappale 429 sub 18 di vani 8;
+
+b) magazzino sito in via Vespucci 22/9, riportato nel nuovo catasto edilizio urbano alla partita 4485, foglio 35, mappale 429 sub 6, di mq. 14, il tutto per un valore complessivo di L. 17.000.000.  
   
-Visto, il Guardasigilli: SARTI  
-Registrato alla Corte dei conti, addi' 12 marzo 1981  
-Registro n. 2 Presidenza, foglio n. 215
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 11 ottobre 1978  
+Registro n. 7 Presidenza, foglio n. 13

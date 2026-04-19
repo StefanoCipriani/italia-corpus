@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 ottobre 1979 n. 518
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 gennaio 1982 n. 112
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 ottobre 1979 n. 518
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 gennaio 1982 n. 112
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
@@ -18,7 +18,9 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Veduto l'[art. 16 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art16);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
@@ -26,90 +28,78 @@ Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte,
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Sulla
------
+Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-All'art. 104 dello statuto dell'Universita' di Torino e' aggiunto il seguente comma:  
-  
-La facolta' di agraria rilascia anche la laurea in scienze forestali.  
-Dopo l'art. 106, e con il conseguente spostamento della numerazione degli articoli successivi, e' aggiunto il seguente nuovo articolo relativo alla istituzione del corso di laurea in scienze forestali.  
-Art. 107. - La durata del corso degli studi per la laurea in scienze forestali e' di quattro anni.  
-Titoli di ammissione sono quelli previsti dall'[art. 1 della legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1).  
-Insegnamenti fondamentali:  
-1) alpicoltura I (prati, pascoli, agricoltura nella regione di montagna) (semestrale);  
-2) alpicoltura II (zootecnica nella regione di montagna) (semestrale);  
-3) assestamento forestale;  
-4) botanica forestale;  
-\*5) botanica sistematica;  
-\*6) botanica generale;  
-7) chimica forestale;  
-\*8) chimica generale e inorganica con applicazioni di analitica;  
-\*9) chimica organica;  
-10) costruzioni forestali (semestrale);  
-11) dentometria (semestrale);  
-12) economia ed estimo forestale;  
-\*13) fisica;  
-14) industrie chimico-forestali (semestrale);  
-15) legislazione forestale;  
-\*16) matematica;  
-\*17) mineralogia e geologia;  
-18) patologia vegetale forestale;  
-\*19) principi di economia politica e di statistica;  
-20) selvicoltura I (ecologia e selvicoltura generale);  
-21) selvicoltura II (selvicoltura speciale);  
-22) sistemazioni idraulico-forestali;  
-23) tecnologia e utilizzazione forestale (compresa meccanica applicata);  
-24) topografia;  
-25) zoologia forestale venatoria e acquicoltura;  
-\*26) zoologia generale.  
-Insegnamenti complementari:  
-1) agronomia montana;  
-2) allevamenti minori in zone montane (semestrale);  
-3) alterazioni del legname (semestrale);  
-4) conservazione della natura e delle sue risorse;  
-5) difesa dagli inquinamenti (semestrale);  
-6) ecologia;  
-7) ecologia zootecnica;  
-8) economia di mercato dei prodotti forestali;  
-9) elementi di idraulica e di idrologia;  
-10) fisiologia degli alberi forestali (semestrale);  
-11) geologia applicata;  
-12) idrologia forestale;  
-13) meccanizzazione forestale;  
-14) microbiologia forestale;  
-15) miglioramento genetico degli alberi forestali (semestrale);  
-16) pedologia forestale;  
-17) pianificazione ecologica del territorio;  
-18) protezione dagli incendi boschivi (semestrale);  
-19) protezione della natura e riassetto del paesaggio;  
-20) selvicoltura industriale ed alberature;  
-21) tecniche di rimboschimento nelle zone aride (semestrale);  
-22) tutela del paesaggio agricolo forestale e riassetto del territorio;  
-23) vivaistica forestale e rimboschimento;  
-24) zoologia venatoria.  
-Le materie contrassegnate con un asterisco sono in comune con il corso di laurea in scienze agrarie.  
-Sono inoltre da ritenere complementari del corso di laurea in scienze forestali tutti gli insegnamenti (fondamentali e complementari) impartiti nel corso di laurea in scienze agrarie.  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e almeno in tre complementari a corso annuale. A tale effetto due corsi complementari semestrali sono computati come corso annuale.  
-L'esame di laurea consiste in una discussione orale intorno ad una dissertazione scritta sopra un tema scelto dal candidato su di un argomento forestale o avente stretta attinenza con le discipline impartite nella facolta'.  
-Tutti gli insegnamenti impartiti nella facolta' sono di lezioni teoriche e di esercizi pratici che possono essere integrati da visite a fabbriche industriali e da esercitazioni in foresta.  
-Gli esami di profitto sono orali, ma possono essere integrati da prove pratiche. Il voto e' pero' complessivo.  
+Gli articoli 285, 286 e 287, relativi alla scuola di specializzazione in gerontologia e geriatria, sono sostituiti dai seguenti:  
+Art. 285. - La scuola di specializzazione in geriatria e gerontologia ha sede presso l'istituto di gerontologia e geriatria dell'Universita' di Torino e conferisce il diploma di specialista in geriatria e gerontologia.  
+Art. 286. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.  
+Art. 287. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+Art. 288. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.  
+Art. 289. - Il numero massimo degli allievi e' di dieci per anno di corso e complessivamente di quaranta iscritti per l'intero corso di studi.  
+Art. 290. - L'ammissione al corso avviene per titoli ed esami.  
+Art. 291. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+farmacologia (annuale);  
+principi e tecniche della riabilitazione nella patologia dell'apparato locomotore (annuale);  
+anatomia e istologia patologica (biennale I);  
+biologia della senescenza (biennale I);  
+fisiopatologia (biennale I);  
+geriatria sociale (biennale I);  
+semeiotica (biennale I);  
+principi e tecniche di materie specialistiche in geriatria (triennale I).  
+2° Anno:  
+principi e tecniche della riabilitazione cardiovascolare e respiratoria (annuale);  
+anatomia e istologia patologica (biennale II);  
+biologia della senescenza (biennale II);  
+fisiopatologia (biennale II);  
+geriatria sociale (biennale II);  
+semeiotica (biennale II);  
+radiologia e radioterapia (biennale I);  
+principi e tecniche di materie specialistiche in geriatria (triennale II).  
+3° Anno:  
+neurologia (annuale);  
+principi e tecniche della riabilitazione neurologica (annuale); psicologia (annuale);  
+radiologia e radioterapia (biennale II);  
+principi e tecniche di materie specialistiche in geriatria (triennale III);  
+clinica geriatrica (biennale I);  
+terapia medica (biennale I);  
+pratica geriatrica extraospedaliera (biennale I).  
+4° Anno:  
+chirurgia geriatrica (annuale);  
+formazione degli operatori geriatrici (annuale);  
+principi e tecniche della riabilitazione nel campo  
+delle funzioni cerebrali superiori (annuale);  
+principi e tecniche di riattivazione, terapia occupazionale, geragogia (annuale);  
+psicogeriatria (annuale);  
+clinica geriatrica (biennale II);  
+terapia medica (biennale II);  
+pratica geriatrica extraospedaliera (biennale II).  
+Art. 292. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.  
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove d'esame.  
+Art. 293. - Alla fine di ogni corso gli iscritti per essere ammessi agli esami di corso successivi, devono superare le prove d'esame sulle materie impartite durante l'anno.  
+Al termine del corso di studi per il conseguimento del diploma di specialista in geriatria e gerontologia dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 ottobre 1979
+### Dato a Roma, addi' 6 gennaio 1982
 
-PERTINI VALITUTTI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 20 ottobre 1979
+Registrato alla Corte dei conti, addi' 10 marzo 1982
 
-Registro n. 76 Istruzione, foglio n. 31
+Registro n. 38 Istruzione, foglio n. 276

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 maggio 1980 n. 640
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1980 n. 990
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 maggio 1980 n. 640
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1980 n. 990
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
@@ -35,52 +35,36 @@ Art. 1
 ------
 
   
-Lo statuto dell'Universita' di Catania, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:  
-L'art. 215, secondo comma, relativo al numero degli iscritti alla scuola di specializzazione in odontostomatologia, e' modificato nel modo seguente:  
+Lo statuto dell'Universita' di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+L'art. 221 dello statuto dell'Universita' di Catania di cui al [decreto del Presidente della Repubblica 31 ottobre 1978, n. 1038](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-10-31;1038), relativo alla scuola di specializzazione in igiene e medicina preventiva, e' integrato con il seguente nuovo comma:  
   
-Alla scuola di specializzazione vengono ammessi allievi nel numero di diciotto per ciascun anno di corso per un totale complessivo di cinquantaquattro iscritti.  
+Il conseguimento del diploma di specializzazione in uno degli orientamenti sopra menzionati, offre la possibilita' di accedere agli altri orientamenti mediante l'iscrizione diretta al terzo anno di corso e con la convalida degli studi e degli esami del biennio comune, considerando gli allievi iscritti negli orientamenti in soprannumero.  
 
 Art. 2
 ------
 
   
-L'art. 213, quinto comma, dello statuto dell'Universita' di Catania di cui al [decreto del Presidente della Repubblica 15 settembre 1979, n. 508](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1979-09-15;508), relativo al numero degli iscritti alla scuola di specializzazione in dermatologia e venereologia, e' modificato nel modo seguente:  
-  
-Il numero massimo degli allievi e' di nove per anno di corso e complessivamente di ventisette iscritti per lo intero corso di studi.
+L'art. 269 dello statuto dell'Universita' di Catania di cui al [decreto del Presidente della Repubblica 18 febbraio 1978, n. 585](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-02-18;585), relativo alla scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva, e' soppresso e sostituito dal seguente:  
+Art. 269. - Il numero massimo degli allievi e' di diciassette per anno di corso e complessivamente di ottantacinque iscritti per l'intero corso di studi.  
 
 Art. 3
 ------
 
   
-L'art. 266 dello statuto dell'Universita' di Catania di cui al [decreto del Presidente della Repubblica 25 maggio 1976, n. 697](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-05-25;697), relativo al numero degli iscritti alla scuola di specializzazione in diabetologia e malattie del ricambio, e' soppresso e sostituito dal seguente:  
-Art. 266. - Il numero complessivo degli iscritti alla scuola e' di ventisette unita' ripartite nei tre anni di corso.  
-La selezione dei candidati aspiranti all'ammissione alla scuola avverra' sulla base dei titoli ed esami.  
-
-Art. 4
-------
-
+Il primo comma dell'art. 272 dello statuto dell'Universita' di Catania di cui al [decreto del Presidente della Repubblica 18 febbraio 1978, n. 585](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-02-18;585), relativo alla scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva, e' soppresso e sostituito dal seguente:  
   
-L'art. 356, secondo comma, dello statuto dell'Universita' di Catania di cui al [decreto del Presidente della Repubblica 31 ottobre 1978, n. 882](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-10-31;882), relativo al numero degli iscritti alla scuola di specializzazione in chirurgia d'urgenza e pronto soccorso, e' cosi' modificato:  
-  
-Il numero massimo degli iscritti e' di tredici per anno di corso e complessivamente di sessantacinque iscritti per l'intero corso di studi. Non sono ammesse abbreviazioni di corso. L'ammissione al corso avviene per titoli ed esami.  
-
-Art. 5
-------
-
-  
-L'art. 269 dello statuto dell'Universita' di Catania di cui al [decreto del Presidente della Repubblica 31 ottobre 1977, n. 1046](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-10-31;1046), relativo al numero degli iscritti alla scuola di specializzazione in malattie infettive e' soppresso e sostituito dal seguente:  
-Art. 269. - Il numero massimo degli allievi e' di dieci per anno di corso e complessivamente di quaranta iscritti per l'intero corso di studi.  
+La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria per l'ammissione agli esami.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 maggio 1980
+### Dato a Roma, addi' 31 ottobre 1980
 
-PERTINI SARTI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: SARTI
 
-Registrato alla Corte dei conti, addi' 8 ottobre 1980
+Registrato alla Corte dei conti, addi' 15 gennaio 1981
 
-Registro n. 92 istruzione, foglio n. 133
+Registro n. 2 Istruzione, foglio n. 378

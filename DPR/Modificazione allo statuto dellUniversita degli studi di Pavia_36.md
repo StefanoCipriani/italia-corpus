@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1985 n. 142
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 957
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1985 n. 142
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 957
 ==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Pavia.
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Pavia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -39,30 +39,19 @@ Articolo unico
 --------------
 
   
-Art. 59 - nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono inclusi i seguenti insegnamenti: chimica tossicologica forense;  
-terapia pediatrica sistematica;  
-semeiotica pediatrica;  
-scienze dell'ortogenesi;  
-chirurgia oncologica;  
-chirurgia endocrinologica;  
-chirurgia d'urgenza;  
-neurotraumatologia;  
-parassitologia medica;  
-psicologia dell'eta' evolutiva;  
-allergologia pediatrica.  
+Nell'art. 50, relativo agli istituti annessi alla facolta' di economia e commercio, e' inserito il nuovo seguente istituto:  
+"istituto di lingue straniere, al quale fanno capo gli insegnamenti di lingue".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 gennaio 1985
+### Dato a Roma, addi' 31 ottobre 1981
 
-PERTINI
+PERTINI BODRATO
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: DARIDA
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 9 febbraio 1982
 
-Registrato alla Corte dei conti, addi' 11 aprile 1985
-
-Registro n. 22 Istruzione, foglio n. 144
+Registro n. 20 Istruzione, foglio n. 199

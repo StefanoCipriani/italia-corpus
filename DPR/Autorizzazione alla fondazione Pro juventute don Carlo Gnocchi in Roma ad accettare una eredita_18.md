@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 maggio 1977 n. 328
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 marzo 1974 n. 197
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 maggio 1977 n. 328
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 marzo 1974 n. 197
+============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
 -----------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-328. Decreto del Presidente della Repubblica 9 maggio 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla sig.ra Dinati Margherita con testamento olografo 3 aprile 1969, pubblicato a rogito del notaio dott. Mario Brunelli in data 22 febbraio 1975, numero 736/366 di repertorio, registrato a Orzinuovi (Brescia) il 4 marzo 1975 al n. 66, vol. I, consistente in beni mobili (denaro, titoli di credito, preziosi vari, mobili, suppellettili d'arredamento domestico, buoni del Tesoro novennali 5%) per un totale di lire 6.328.130.  
+197. Decreto del Presidente della Repubblica 30 marzo 1974, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente nella somma di L. 2.155.811, disposta dalla sig.ra Campestrini Maria con testamento olografo del maggio 1967, pubblicato il 14 marzo 1972 con verbale a rogito del dott. Cesare Gallavresi, notaio in Milano, n. 56944 di repertorio, n. 20357 di raccolta e registrato a Milano in data 24 maggio 1972 al numero 563371/M.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 15 giugno 1977  
-Registro n. 5 Presidenza, foglio n. 210
+Visto, il Guardasigilli: ZAGARI  
+Registrato alla Corte dei conti, addi' 15 maggio 1974  
+Atti di Governo, registro n. 3, foglio n. 21. - SCIARRETTA

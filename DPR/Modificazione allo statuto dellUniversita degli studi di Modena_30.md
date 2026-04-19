@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 novembre 1983 n. 1045
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1983 n. 684
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 novembre 1983 n. 1045
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1983 n. 684
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Modena.
 ------------------------------------------------------------------
@@ -40,18 +40,18 @@ Articolo unico
 
   
 Nell'art. 71, relativo al corso di laurea in economia e commercio, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-economia dell'impresa.  
+matematica per economisti.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 novembre 1983
+### Dato a Roma, addi' 17 maggio 1983
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 29 febbraio 1984
+Registrato alla Corte dei conti, addi' 7 dicembre 1983
 
-Registro n. 13 Istruzione, foglio n. 80
+Registro n. 75 Istruzione, foglio n. 286

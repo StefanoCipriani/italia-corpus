@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1976 n. 468
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1978 n. 989
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1976 n. 468
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1978 n. 989
+===============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-468. Decreto del Presidente della Repubblica 12 maggio 1976, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato della donazione disposta dagli eredi del pittore tedesco Karl Guglielmo Diefenbach con atto notarile 11 giugno 1971, n. 7087 di repertorio, a rogito dott. Guido Rega, notaio in Napoli, consistente in trentuno dipinti di cui trenta sono del pittore Karl Guglielmo Diefenbach ed uno, che riproduce il ritratto del pittore stesso, eseguito da E. Ximenes e in cinque gessi dello stesso artista, opere destinate alla Certosa di Capri.  
+989. Decreto del Presidente della Repubblica 5 dicembre 1978, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione della donazione a favore dello Stato e, per esso, della biblioteca statale di Lucca, disposta dal prof. Gaetano Campetti con atto di donazione pubblicato in data 1 febbraio 1978, n. 939/416 di repertorio a rogito dott. Massimo Barsanti, notaio in Lucca, consistente nel registro manoscritto "Cronaca Buonfigli" di complessive carte 256.  
   
 Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 30 giugno 1976  
-Atti di Governo, registro n. 7, foglio n. 37
+Registrato alla Corte dei conti, addi' 7 febbraio 1979  
+Registro n. 1 Beni culturali, foglio n. 232

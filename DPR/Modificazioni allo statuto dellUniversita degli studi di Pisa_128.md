@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1955 n. 1085
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1951 n. 1801
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1955 n. 1085
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1951 n. 1801
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
@@ -12,112 +12,97 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con il [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con i [regi decreti 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-13;2225); [20 settembre 1928, n. 2251](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1928-09-20;2251); [31 ottobre 1929, n. 2473](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1929-10-31;2473); [30 ottobre 1930, n. 1916](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1916); [22 ottobre 1931, n. 1339](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-22;1339); [27 ottobre 1932, n. 2098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2098); [13 dicembre 1934, n. 2408](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-13;2408); [1 ottobre 1936, n. 2462](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2462); [27 ottobre 1937, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1937-10-27;2170); [9 maggio 1939, n. 1314](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-05-09;1314); [5 ottobre 1939, n. 1744](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1744); [26 ottobre 1940, n. 2071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2071); [27 aprile 1942, n. 469](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;469); [24 ottobre 1942, n. 1652, con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1652) [30 dicembre 1947, n. 1689 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-30;1689) [17 febbraio 1949, n. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-17;97); [30 ottobre 1949, n. 1169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1169); [31 ottobre 1950, n. 1309](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1309); [11 aprile 1951, n. 566](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;566), [27 ottobre 1951, n. 1801](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1801); [25 marzo 1952, n. 872](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-03-25;872); [25 luglio 1952, n. 1351](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1351); [12 settembre 1952, n. 3861](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-09-12;3861): [30 ottobre 1952, n. 4558](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-30;4558); [11 marzo 1953, n. 546](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;546); [11 marzo 1953, n. 756](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;756); [6 ottobre 1953, n. 1089](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-10-06;1089); [23 marzo 1954, n. 743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-23;743); [10 aprile 1954, n. 737](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-04-10;737); [26 ottobre 1954, n. 1294](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-26;1294); [11 aprile 1955, n 625](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-04-11;625);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e modificato con i [regi decreti 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-13;2225); [20 settembre 1928, n. 2251](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1928-09-20;2251); [31 ottobre 1929, n. 2473](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1929-10-31;2473); [30 ottobre 1930, n. 1916](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1916); [22 ottobre 1931, n. 1339](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-22;1339); [27 ottobre 1932, n. 2098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2098); [13 dicembre 1934, n. 2408](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-13;2408); [10 ottobre 1936, n. 2462](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-10;2462); [27 ottobre 1937, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1937-10-27;2170); [9 maggio 1939, n. 1314](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-05-09;1314); [5 ottobre 1939, n. 1744](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1744); [26 ottobre 1940, n. 2071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2071); [27 aprile 1942, n. 469](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;469) e [24 ottobre 1942, n. 1652, con il decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1652) [30 dicembre 1947, n. 1689 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-30;1689) [17 febbraio 1949, n. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-17;97); [30 ottobre 1949, n. 1169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1169); [31 ottobre 1950, n. 1309](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1309) e [11 aprile 1951, n. 566](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;566);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni;  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato, come appresso, nella parte relativa all'ordinamento della Facolta' di scienze matematiche, fisiche e naturali:  
-Art. 58. - Il primo comma e' abrogato e sostituito dai seguenti:  
-"Gli insegnamenti sono impartiti in corsi di lezioni cattedratiche o in corsi di laboratorio; i corsi di lezioni cattedratiche sono integrati, per le discipline per cui e' necessario, da esercitazioni orali, grafiche, o sperimentali.  
-L'orario delle lezioni e delle esercitazioni e' stabilito dalla Facolta'".  
-Art. 60. - Gli Istituti di "mineralogia e petrografia" e di "astronomia e geodesia" assumono, rispettivamente, le nuove denominazioni di "Istituto e Museo di mineralogia e petrografia" e di "Istituto di astronomia".  
-Il secondo comma e' abrogato e sostituito dai seguenti:  
-"Gli Istituti di cui ai nn. 10, 11, 12, 13, 14 e 15 costituiscono nel toro complesso l'Istituto di matematica "Leonida Tonelli" dell'Universita' di Pisa.  
-L'Istituto ha patrimonio indivisibile ed e' amministrato collegialmente".  
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:  
+Attuale art. 52. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:  
+10) Anatomia chirurgica e corso di operazioni;  
+11) Parassitologia;  
+12) Clinica ortopedica.  
+Dopo l'attuale art. 217, sono aggiunti i seguenti nuovi articoli, relativi all'istituzione della Scuola di specializzazione in "medicina generale" e della Scuola di perfezionamento in "malattie nervose e mentali".  
   
-Corso di laurea in chimica.  
+Scuola di specializzazione in medicina generale  
   
-Art. 62. - Dall'elenco degli insegnamenti complementari del triennio di studi di applicazione (indirizzo organico-biologico) e' soppresso quello di "chimica applicata (ai materiali da costruzione)".  
-Art. 63. - Il secondo comma e' abrogato e sostituito dal seguente: "L'insegnamento di "analisi matematica" sara' impartito da due professori, ciascuno dei quali insegnera' alternativamente "analisi algebrica" per il primo anno ed "analisi infinitesimale" per il secondo anno; lo studente dovra' sostenere due esami distinti".  
-I commi quinto e sesto sono abrogati e sostituiti dai seguenti:  
-"All'atto dell'iscrizione al primo anno del triennio di applicazione lo studente deve sottoporre all'approvazione della Facolta' l'elenco degli insegnamenti complementari prescelti.  
-La scelta fatta in tale modo e' impegnativa e non puo' comunque subire variazioni durante il corso degli studi".  
+Art. 218. - La Scuola di specializzazione in medicina generale ha la durata di quattro anni.  
+Il direttore della clinica medica e il direttore della Scuola.  
+Il Consiglio della scuola si compone dei professori che vi tengano gli insegnamenti prescritti ed e presieduto dal direttore.  
+Art. 219. - Il numero massimo degli allievi che possono essere accolti annualmente dalla Scuola e' fissato anno per anno dal Consiglio della Facolta, su proposta della Direzione della scuola in rapporto alle possibilita' didattiche dei vari Istituti presso i quali gli allievi debbono compiere gli internati.  
+Art. 220. - Le domande di ammissione, dirette al rettore dell'Universita', sono rimesse poi al direttore della Scuola, il quale, dopo avere valutato i titoli degli aspiranti, sottopone ognuno di essi ad un esame per accertare le attitudini e la preparazione a seguire i corsi della Scuola.  
+In base a questi elementi il direttore procede alla graduatoria degli aspiranti, che deve essere approvata e' resa esecutiva dal preside della Facolta'.  
+Art. 221. - Le discipline specifiche di insegnamento e le esercitazioni di laboratorio sono stabilite dalla Direzione della scuola che, anno per anno, stabilisce i turni degli internati prescritti.  
+Per le materie proprie della Scuola debbono essere tenuti corsi appositi; per le discipline che non formano direttamente oggetto della specializzazione i corsi di insegnamento e le esercitazioni possono essere sostituiti da periodi di internato nei rispettivi Istituti.  
+Art. 222. - Gli insegnamenti vengono conferiti per incarico dal Consiglio della Facolta' a professori di molo ed incaricati, a liberi docenti, ad aiuti ed assistenti ed anche a persona di riconosciuta competenza nella specialita'.  
+Art. 223. - Gli allievi sono tenuti ad osservare scrupolosamente l'orario delle lezioni e delle esercitazioni ed a compiere i turni di internato stabiliti dall'ordinamento della Scuola.  
+Il servizio di internato comporta, sotto la vigilanza del direttore, l'adempimento di tutte le funzioni di assistente. A controllo della presenza degli allievi e' prescritto un registro a firma.  
+Art. 224. - Gli allievi possono ottenere un mese all'anno di vacanze preferibilmente nel periodo estivo. Un numero di assenze superiore, nel complesso, a sessanta giorni in un anno, rende non valido l'anno accademico.  
+Art. 225. - Gli allievi, durante gli anni di corso di specializzazione, non possono, sotto pena di esclusione dalla Scuola, tenere altre occupazioni, anche non di carattere professionale, che li distolgano dai loro doveri verso la Scuola stessa.  
+Art. 226. - Per essere ammessi all'esame di diploma gli iscritti devono aver superato tutti gli esami speciali di profitto stabiliti per ciascuna Scuola. I perfezionandi pagheranno le tasse, sopratasse e contributi che verranno determinati dal Consiglio di amministrazione dell'Universita' di anno in anno, oltre alla tassa di diploma di L. 800.  
+Art. 227. - L'esame di diploma consiste in una discussione sopra una dissertazione originale scritta, ed in una prova teorica e pratica stabilita dalla Commissione giudicatrice.  
+A coloro che hanno superato l'esame di diploma viene rilasciato il "diploma di specialista".  
+Art. 228. - Le materie d'insegnamento sono le seguenti:  
+1° anno:  
+Semeiotica medica;  
+Patologia dei singoli apparati e sistemi;  
+Diagnostica radiologica;  
+Anatomia ed istologia patologica.  
+2° anno:  
+Semeiologia medica strumentale e funzionale;  
+Patologia del ricambio; patologia endocrina;  
+Patologia del sistema emopoietico; patologia dei sistema nervoso;  
+Anatomia ed istologia patologica;  
+Metodologia delle indagini di laboratorio a scopi clinici;  
+Batteriologia clinica.  
+3° anno:  
+Malattie infettive, tisiologia; patologia dell'apparato respiratorio;  
+Terapia;  
+Sierologia;  
+Metodologia delle indagini di laboratorio a scopi clinici.  
+4° anno:  
+Patologia renale; patologia esotica; patologia dell'apparato digerente; patologia del cuore e del circolo; patologia delle articolazioni;  
+Terapia;  
+Elettrocardiografia.  
+Ogni mese gli allievi sono tenuti a riferire su un caso clinico o su un argomento prestabilito dal direttore del corso.  
+La Direzione della scuola potra' integrare i corsi con conferenze su argomenti speciali.  
   
-Corso di laurea in chimica industriale  
+Scuola di perfezionamento in malattie nervose e mentali  
   
-Art. 64. - Dall'elenco degli insegnamenti complementari del triennio di studi di applicazione del corso di laurea in chimica industriale e' soppresso quello di "chimica organica industriale".  
-  
-Corso di laurea in fisica  
-  
-Art. 65. - Agli insegnamenti complementari del corso di laurea, in fisica sono aggiunti quelli di "calcolo delle probabilita'" e "fisica atomica".  
-Art. 67. - E' abrogato e sostituito dal seguente:  
-"Nell'ordine degli esami per il corso di laurea in fisica dovranno essere rispettate le seguenti precedenze:  
-l'esame di analisi matematica algebrica deve precedere l'esame di analisi matematica infinitesimale;  
-gli esami di analisi matematica algebrica e analisi matematica infinitesimale debbono precedere l'esame di analisi superiore;  
-gli esami di analisi matematica algebrica e di geometria analitica debbono precedere l'esame di meccanica razionale;  
-gli esami di analisi matematica algebrica, analisi matematica infinitesimale, geometria analitica, meccanica razionale, fisica, sperimentale debbono precedere gli esami di fisica matematica, fisica teorica, fisica superiore, spettroscopia, fisica tecnica, elettrotecnica, astronomia, geodesia, fisica terrestre, meccanica superiore, meccanica statistica, onde elettromagnetiche, calcolo delle probabilita';  
-gli esami di fisica sperimentale e chimica generale debbono precedere l'esame di chimica fisica;  
-l'esame di chimica generale deve precedere l'esame di chimica organica e mineralogia.  
-  
-Corso di laurea in scienze matematiche  
-  
-Art. 68. - Agli insegnamenti complementari del corso di laurea in scienze matematiche sono aggiunti quelli di "meccanica statistica," "calcolo delle probabilita'" e "topologia".  
-Art. 70. - E' abrogato e sostituito dal seguente:  
-"Nell'ordine degli esami per il corso di laurea in scienze matematiche dovranno essere rispettate, oltre alle precedenze indicate nell'art. 67, per il corso di laurea in fisica, le seguenti precedenze:  
-gli esami di analisi matematica algebrica, analisi matematica infinitesimale, geometria analitica con elementi di proiettiva e geometria descrittiva con disegno debbono precedere gli esami di geometria superiore, matematiche superiori, matematiche complementari, teoria delle funzioni, geometria algebrica, topologia; gli esami di analisi matematica algebrica, analisi matematica infinitesimale, geometria analitica con elementi di proiettiva e geometria descrittiva con disegno, meccanica razionale, debbono precedere gli esami di calcoli numerici e grafici, geometria differenziale, storia delle matematiche".  
-  
-Corso di laurea in matematica e fisica  
-  
-Art. 71. - Agli insegnamenti complementari del corso di laurea in matematica e fisica e' aggiunto quello di "calcolo delle probabilita'".  
-Art. 73. - E' abrogato e sostituito dal seguente:  
-"Nell'ordine degli esami per il corso di laurea in matematica e fisica dovranno essere rispettate le precedenze indicate negli articoli 67 e 70, valevoli per il corso di laurea in scienze matematiche".  
-  
-Corso di laurea in scienze naturali  
-  
-Art. 74. - Agli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti quelli di "biologia generale" e "geochimica".  
-Il comma quinto e' abrogato e sostituito dai seguenti:  
-"Gli insegnamenti biennali di botanica e di zoologia comprendono tanto la parte generale quanto quella sistematica e comportano ciascuno due esami distinti.  
-Il superamento dell'esame di botanica generale e di zoologia generale non e' condizione necessaria per la iscrizione ai corsi di botanica sistematica e di zoologia sistematica".  
-Art. 75. - Il terzo comma e' abrogato e sostituito dal seguente:  
-"Gli esami di botanica generale e di zoologia generale debbono precedere rispettivamente gli esami di botanica sistematica e di zoologia sistematica e questi ultimi debbono precedere l'esame di paleontologia".  
-Sono aggiunti i seguenti commi:  
-"L'esame di chimica generale deve precedere l'esame di mineralogia.  
-L'esame di mineralogia deve precedere l'esame di geologia".  
-Art. 76. - Il primo comma e' abrogato e sostituito dal seguente:  
-"A coloro che ottengono l'iscrizione in base ad una laurea giu' conseguita o che provengono da corsi di studio di altre lauree, e sempreche' siano in possesso del diploma di maturita' classica o scientifica, sono convalidati le iscrizioni delle materie in comune e gli esami relativi eventualmente gia' sostenuti; gli altri corsi o esami sono convalidati nel modo seguente: corsi vari di matematica per istituzioni di matematiche".  
-  
-Corso di laurea in scienze biologiche  
-  
-Art. 77. - Il comma quinto e' abrogato e sostituito dai seguenti:  
-"Gli insegnamenti biennali di botanica e di zoologia comprendono tanto la parte generale quanto quella sistematica e comportano ciascuno due esami distinti.  
-Il superamento dell'esame di botanica generale e di zoologia generale non e' condizione necessaria per la iscrizione ai corsi di botanica sistematica e di zoologia sistematica".  
-Art. 78. - Il comma terzo e' abrogato e sostituito dai seguenti:  
-"Gli esami di botanica generale e di zoologia generale debbono precedere rispettivamente gli esami di botanica sistematica e di zoologia sistematica e questi ultimi debbono precedere l'esame di paleontologia.  
-L'esame di zoologia deve precedere gli esami di anatomia comparata, di parassitologia e di entomologia agraria".  
-E' aggiunto il seguente comma:  
-"L'esame di istologia ed embriologia deve precedere l'esame di anatomia comparata".  
-  
-Corso di laurea in scienze geologiche  
-  
-Art. 79. - Agli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti i seguenti: "giacimenti minerari", "oceanografia", "micropaleontologia", "paleoclimatologia" e "geologia dell'Appennino".  
-Art. 80. - L'ultimo comma e' abrogato e sostituito dal seguente:  
-"L'esame di mineralogia precede gli esami di "petrografia" e di "geologia".  
-Art. 81. - Il punto 4° del primo comma, "geologia e mineralogia applicata, o mineralogia o geologia per geologia applicata", e' soppresso.  
-Art. 84. - La seconda parte del punto b), relativo alle abbreviazioni di corso per l'iscrizione al corso di laurea in fisica, e' abrogata e sostituita dalla seguente:  
-"Dal biennio propedeutico d'ingegneria, gli studenti possono essere ammessi al secondo o al terzo anno a seconda degli studi fatti e degli esami superati, ma comunque a condizione di superare appositi colloqui integrativi sui corsi di analisi matematica e di fisica sperimentale".  
-La seconda parte del punto d), relativo alle abbreviazioni di corso per l'iscrizione al corso di laurea in matematica e fisica, e' abrogata e sostituita dalla seguente:  
-"Dal biennio propedeutico all'ingegneria gli studenti possono essere ammessi al secondo o al terzo anno del corso per la laurea in matematica e fisica a seconda degli studi fatti e degli esami superati, ma comunque a condizione di superare appositi colloqui integrativi sui corsi di analisi matematica e di fisica sperimentale".  
-Art. 87. - E' aggiunto il seguente comma:  
-"Su parere della Facolta' lo studente puo' essere chiamato a sostenere un colloquio di laurea che comprovi la sua cultura sugli argomenti fondamentali del corso di laurea seguito".  
+Art. 229. - Il corso della Scuola ha la durata di tre anni.  
+Le materie d'insegnamento sono le seguenti:  
+a) Anatomia del sistema nervoso;  
+b) Fisiologia, e fisiopatologia del sistema nervoso;  
+c) Istologia e isto-patologia del sistema nervoso;  
+d) Semeiotica neurologica e psichiatrica;  
+e) Patologia speciale delle malattie nervose e mentali;  
+f) Diagnostica delle malattie nervose e mentali g) Nozioni di psicologia, teorica e sperimentale;  
+h) Terapia delle malattie nervose e mentali;  
+i) Nozioni di tecnica manicomiale.  
+Art. 230. - L'insegnamento pratico e impartito dal direttore della clinica coadiuvato dagli assistenti della clinica e da altri professori, liberi docenti della disciplina, che egli indichera' di volta in volta.  
+Art. 231. - Tutti gli iscritti hanno l'obbligo della frequenza alle lezioni delle singole materie e alle esercitazioni.  
+Art. 232. - E' obbligatoria la frequenza giornaliera della clinica, la partecipazione alla visita mattutina degli ammalati ricoverati, alla collaborazione con gli assistenti effettivi nel disbrigo delle cartelle cliniche, alle visite ambulatorie e a tutte quelle altre mansioni che verranno loro affidate.  
+E' obbligatorio altresi' la frequenza alle lezioni del corso ufficiale di clinica delle malattie nervose e mentali tenuto dal direttore ed alle esercitazioni. Ove il direttore lo richiedera', o obbligatorio il servizio di guardia diurno e notturno della clinica seguendo particolari turni che verranno fissati in precedenza.  
+Art. 233. - Al termine del corso gli iscritti dovranno superare una prova di esame generale sulle materie trattate durante il corso stesso e potranno essere ammessi all'esame di diploma consistente nella discussione di una tesi scritta e nella discussione di un caso clinico.  
+Art. 234. - Il numero annuale degli ammessi alla iscrizione e di quattro.  
+Art. 235. - I perfezionandi pagheranno le tasse, sopratasse e contributi che verranno determinati dal Consiglio di amministrazione dell'Universita' di anno in anno, oltre alla tassa di diploma di L. 800.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 ottobre 1955
+### Dato a Roma, addi' 27 ottobre 1951
 
-GRONCHI ROSSI
+EINAUDI SEGNI
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: ZOLI
 
-Registrato alla Corte dei conti, addi' 18 novembre 1955
+Registrato alla Corte dei conti, addi' 23 aprile 1952
 
-Atti del Governo, registro n. 93, foglio n. 184. - CARLOMAGNO
+Atti del Governo, registro n. 53, foglio n. 8. - FRASCA

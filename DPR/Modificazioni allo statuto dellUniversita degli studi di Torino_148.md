@@ -1,79 +1,106 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 954
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1965 n. 1302
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 954
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1965 n. 1302
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con regio decreto 13 ottobre 1.927, n. 2788 e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 18. - Dall'elenco degli insegnamenti complementari del corso di laurea in Economia e commercio sono soppressi quelli di "Economia montana e forestale" e di "Diritto della navigazione".
+
+Nello stesso elenco sono aggiunti quelli di "Diritto fallimentare"; "Sociologia generale" e "Tecnologia dei cicli produttivi".
+
+Art. 19, relativo alle propedeuticita' di esami del corso di laurea in Economia e commercio e' modificato nel senso che e' aggiunto il seguente nuovo comma:
+
+"Gli esami di Ragioneria generale ed applicata (1ª e 2ª prova), Economia politica (1ª e 2ª prova) Statistica (la prova) debbono precedere l'esame di "Tecnica industriale e commerciale).
+
+Art. 32. - All'elenco degli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti i seguenti:
+
+Radiobiologia;
+
+Patologia ostetrica e ginecologica;
+
+Chirurgia pediatrica.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 27 ottobre 1965
+
+SARAGAT
+
+GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 10 dicembre 1965 Atti del Governo, registro n. 198, foglio n. 68. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con regio decreto 13 ottobre 1.927, n. 2788 e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli 214, 215, 216, 217, 218, 219, 220, 221, 222, 223 e 224, riguardanti la scuola di specializzazione in medicina del lavoro, sono soppressi e sostituiti dai seguenti, con il conseguente spostamento della numerazione degli articoli successivi:  
+Art. 18. - Dall'elenco degli insegnamenti complementari del corso di laurea in Economia e commercio sono soppressi quelli di "Economia montana e forestale" e di "Diritto della navigazione".  
+Nello stesso elenco sono aggiunti quelli di "Diritto fallimentare"; "Sociologia generale" e "Tecnologia dei cicli produttivi".  
+Art. 19, relativo alle propedeuticita' di esami del corso di laurea in Economia e commercio e' modificato nel senso che e' aggiunto il seguente nuovo comma:  
+"Gli esami di Ragioneria generale ed applicata (1ª e 2ª prova), Economia politica (1ª e 2ª prova) Statistica (la prova) debbono precedere l'esame di "Tecnica industriale e commerciale).  
+Art. 32. - All'elenco degli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti i seguenti:  
   
-Scuola di specializzazione in medicina del lavoro  
-  
-Art. 214. - La scuola di specializzazione in medicina del lavoro ha sede presso l'Istituto di clinica medica generale e terapia medica e conferisce il diploma di specialista in medicina del lavoro.  
-Art. 215. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Art. 216. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione allo esercizio professionale rilasciato dall'autorita' competente.  
-Art. 217. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.  
-Art. 218. - Il numero massimo degli allievi e' di quindici per anno di corso e complessivamente di sessanta iscritti per l'intero corso di studi.  
-Art. 219. - L'ammissione al corso avviene per titoli ed esami.  
-Art. 220. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-1) igiene del lavoro (I corso);  
-2) fisiologia del lavoro ed ergonomia (I corso);  
-3) tecnologia industriale;  
-4) statistica medica e biometria;  
-5) tecniche di laboratorio.  
-2° Anno:  
-1) patologia e clinica delle malattie del lavoro (I corso);  
-2) igiene del lavoro (II corso);  
-3) fisiologia del lavoro ed ergonomia (II corso);  
-4) psicologia del lavoro;  
-5) tossicologia industriale.  
-3° Anno:  
-1) patologia e clinica delle malattie del lavoro (II corso);  
-2) prevenzione degli infortuni e delle malattie da lavoro (I corso);  
-3) epidemiologia delle malattie da lavoro;  
-4) radiobiologia e radioprotezione;  
-5) dermatologia professionale.  
-4° Anno:  
-1) patologia e clinica delle malattie del lavoro (III corso);  
-2) prevenzione degli infortuni e delle malattie da lavoro (II corso);  
-3) pronto soccorso;  
-4) medicina legale e delle assicurazioni;  
-5) organizzazione dei servizi di medicina e igiene del lavoro.  
-Gli esami delle discipline svolte in corsi pluriennali verranno sostenuti alla fine dell'ultimo corso.  
-Art. 221. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
-Art. 222. - Alla fine del corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie biennali o triennali l'esame sara' sostenuto alla fine del biennio o del triennio.  
-Al termine del corso di studi per il conseguimento del diploma di specialista in medicina del lavoro, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta su un argomento attinente alla specializzazione.  
+Radiobiologia;  
+Patologia ostetrica e ginecologica;  
+Chirurgia pediatrica.  
   
 
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1978
+### Dato a Roma, addi' 27 ottobre 1965
 
-PERTINI PEDINI
+SARAGAT GUI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 30 gennaio 1979
+Registrato alla Corte dei conti, addi' 10 dicembre 1965
 
-Registro n. 4 Istruzione, foglio n. 10
+Atti del Governo, registro n. 198, foglio n. 68. - VILLA

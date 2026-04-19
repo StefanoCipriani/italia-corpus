@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1093
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 dicembre 1983 n. 1059
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1093
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 dicembre 1983 n. 1059
 ================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Catania.
@@ -39,21 +39,19 @@ Articolo unico
 --------------
 
   
-Nell'art. 80, relativo al corso di laurea in farmacia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-microbiologia farmaceutica.  
+Nell'art. 88, relativo al corso di laurea in ingegneria, al punto c) riguardante gli "insegnamenti propri dei singoli indirizzi a scelta sul piano locale" nella sezione edile nei due indirizzi di cui alle lettere a) indirizzo "architettura e pianificazione" e c) indirizzo "produzione e direzione opere edili" e' aggiunto il seguente nuovo insegnamento:  
+progettazione architettonica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 dicembre 1985
+### Dato a Roma, addi' 19 dicembre 1983
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 10 maggio 1986
+Registrato alla Corte dei conti, addi' 29 febbraio 1984
 
-Registro n. 36 Istruzione, foglio n. 198
+Registro n. 13 Istruzione, foglio n. 83

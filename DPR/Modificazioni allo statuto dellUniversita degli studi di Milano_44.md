@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 febbraio 1954 n. 750
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1968 n. 930
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 febbraio 1954 n. 750
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1968 n. 930
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 22 maggio 1939, numero 1166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-22;1166) e modificato con [regi decreti 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2056); [15 aprile 1942, n. 423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;423); [24 ottobre 1942, n. 1847; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1847) [27 luglio 1947, n. 1138 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-07-27;1138) [23 settembre 1949, n. 942](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;942); [21 novembre 1949, numero 1194](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-11-21;1194); [13 marzo 1950, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-03-13;283); [27 ottobre 1951, numero 1825](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1825); [23 aprile 1952, n. 873](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-04-23;873) e [10 febbraio 1953, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;383);
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, numero 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,7 +18,9 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -30,51 +32,58 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 17. - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di:
+Art. 106. - Il secondo comma, relativo ai titoli di ammissione alla scuola di perfezionamento in lingue e letterature straniere moderne, annessa alla facolta' di lettere e filosofia, e' abrogato e sostituito dal seguente:
 
-36) Storia comparata delle lingue classiche.
+"Vi si possono iscrivere i laureati in lingue e letterature straniere e in lingue e letterature straniere moderne, nonche' i laureati in lettere che si siano laureati con una tesi di letteratura o filologia straniera moderna".
 
-Art. 18. - Agli insegnamenti complementari del corso di laurea in filosofia sono aggiunti quelli di:
+Art. 39. - All'elenco degli insegnamenti complementari del corso di laurea in fisica (indirizzo generale, didattico e applicativo) sono aggiunti quelli di:
 
-17) Storia delle dottrine economiche;
+54) Elettronica quantistica;
 
-18) Una lingua e letteratura straniera moderna scelta fra quelle elencate nell'art. 17 per la laurea in lettere.
+55) Algebra.
 
-Art. 25. - Agli insegnamenti complementari del corso di laurea in chimica industriale e' aggiunto quello di:
+Art. 42. - All'elenco degli insegnamenti complementari del corso di laurea in matematica sono aggiunti i seguenti:
 
-10) Chimica applicata.
+Indirizzo generale (Tab. A)
 
-Art. 44. - Agli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti quelli di:
+17) Calcoli numerici e grafici
 
-12) Tecnica commerciale dei prodotti agricoli;
+Indirizzo didattico (Tab. A)
 
-13) Viticoltura (semestrale).
+15) Geometria superiore
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Indirizzo applicativo (Tab. A)
 
-Dato a Roma, addi' 13 febbraio 1954
+17) Geometria superiore;
 
-EINAUDI
+18) Ricerca operativa.
 
-MARTINO
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Visto, il Guardasigilli: DE PIETRO
+Dato a Roma, addi' 5 giugno 1968
+
+SARAGAT
+
+GUI
+
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 28 agosto 1954 Atti del Governo, registro n. 85, foglio n. 99. - CARLOMAGNO
+alla Corte dei conti, addi' 26 agosto 1968 Atti del Governo, registro n. 222, foglio n. 93. - DI PRETORO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 22 maggio 1939, numero 1166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-22;1166) e modificato con [regi decreti 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2056); [15 aprile 1942, n. 423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;423); [24 ottobre 1942, n. 1847; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1847) [27 luglio 1947, n. 1138 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-07-27;1138) [23 settembre 1949, n. 942](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;942); [21 novembre 1949, numero 1194](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-11-21;1194); [13 marzo 1950, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-03-13;283); [27 ottobre 1951, numero 1825](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1825); [23 aprile 1952, n. 873](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-04-23;873) e [10 febbraio 1953, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;383);  
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, numero 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -83,27 +92,30 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 17. - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di:  
-36) Storia comparata delle lingue classiche.  
-Art. 18. - Agli insegnamenti complementari del corso di laurea in filosofia sono aggiunti quelli di:  
-17) Storia delle dottrine economiche;  
-18) Una lingua e letteratura straniera moderna scelta fra quelle elencate nell'art. 17 per la laurea in lettere.  
-Art. 25. - Agli insegnamenti complementari del corso di laurea in chimica industriale e' aggiunto quello di:  
-10) Chimica applicata.  
-Art. 44. - Agli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti quelli di:  
-12) Tecnica commerciale dei prodotti agricoli;  
-13) Viticoltura (semestrale).  
+Art. 106. - Il secondo comma, relativo ai titoli di ammissione alla scuola di perfezionamento in lingue e letterature straniere moderne, annessa alla facolta' di lettere e filosofia, e' abrogato e sostituito dal seguente:  
+"Vi si possono iscrivere i laureati in lingue e letterature straniere e in lingue e letterature straniere moderne, nonche' i laureati in lettere che si siano laureati con una tesi di letteratura o filologia straniera moderna".  
+Art. 39. - All'elenco degli insegnamenti complementari del corso di laurea in fisica (indirizzo generale, didattico e applicativo) sono aggiunti quelli di:  
+54) Elettronica quantistica;  
+55) Algebra.  
+Art. 42. - All'elenco degli insegnamenti complementari del corso di laurea in matematica sono aggiunti i seguenti:  
+Indirizzo generale (Tab. A)  
+17) Calcoli numerici e grafici  
+Indirizzo didattico (Tab. A)  
+15) Geometria superiore  
+Indirizzo applicativo (Tab. A)  
+17) Geometria superiore;  
+18) Ricerca operativa.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 febbraio 1954
+### Dato a Roma, addi' 5 giugno 1968
 
-EINAUDI MARTINO
+SARAGAT GUI
 
-Visto, il Guardasigilli: DE PIETRO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 28 agosto 1954
+Registrato alla Corte dei conti, addi' 26 agosto 1968
 
-Atti del Governo, registro n. 85, foglio n. 99. - CARLOMAGNO
+Atti del Governo, registro n. 222, foglio n. 93. - DI PRETORO

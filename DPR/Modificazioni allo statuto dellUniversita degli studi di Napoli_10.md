@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1248
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 601
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1248
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 601
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -10,21 +10,23 @@ Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 14 ottobre 1926, n. 2090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2090), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto, il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio universitario nazionale nel suo parere;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
 
 Sentito il parere del Consiglio universitario nazionale;
 
@@ -33,231 +35,70 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-  
-Gli articoli 253, 254, 255, 256, 257, 258, 259 e 260, relativi alla facolta' di architettura, sono soppressi e sostituiti dai seguenti nuovi articoli:   
-Art. 253. - La facolta' di architettura promuove e sviluppa gli studi sull'architettura, al fine di assicurare la formazione culturale e professionale degli studenti, il progresso della ricerca teorica ed applicata, la promozione culturale specifica nell'ambito della citta' e del territorio.   
-Art. 254. - La facolta' di architettura conferisce la laurea in architettura. Il corso di laurea in architettura e' articolato nei seguenti indirizzi:   
-a) indirizzo in progettazione architettonica;   
-b) indirizzo tecnologico;   
-c) indirizzo urbanistico;   
-d) indirizzo in tutela e recupero del patrimonio storico-architettonico.   
-Il corso di studi dura cinque anni e prevede trenta esami di profitto in trenta annualita'.   
-Al termine degli studi la facolta' rilascia il titolo di dottore in architettura.   
-Art. 255. - I titoli di studio che danno diritto alla ammissione al primo anno della facolta' sono quelli previsti dalle leggi vigenti.   
-Il consiglio di facolta' determina di volta in volta a quale anno possono essere ammessi gli studenti o i laureati provenienti da altre facolta' universitarie o istituti superiori italiani o stranieri, stabilendo quali degli esami da essi superati siano convalidati ai fini del corso di laurea in architettura.   
-Art. 256. - Nella facolta' di architettura possono essere attivati i seguenti insegnamenti tutti annuali, qui di seguito distinti in aree disciplinari:   
-1) Area progettuale architettonica (13 discipline):   
-composizione architettonica (I annualita');   
-composizione architettonica (II annualita');   
-allestimento e museografia;   
-arredamento e architettura degli interni;   
-arte dei giardini;   
-caratteri tipologici dell'architettura;   
-normative e legislazione per l'edilizia;   
-progettazione architettonica (I annualita');   
-progettazione architettonica (II annualita');   
-scenografia;   
-teoria dei modelli per la progettazione;   
-teoria e tecniche della progettazione architettonica;   
-architettura sociale.   
-2) Area della progettazione territoriale ed urbanistica (15 discipline):   
-urbanistica (I annualita');   
-urbanistica (II annualita');   
-analisi dei sistemi urbani;   
-analisi delle strutture urbanistiche e territoriali (I annualita');   
-analisi delle strutture urbanistiche e territoriali (II annualita');   
-diritto e legislazione urbanistica;   
-ecologia applicata;   
-geologia applicata ed idrogeologia;   
-gestione urbanistica del territorio;   
-pianificazione del territorio;   
-organizzazione del territorio;   
-progettazione urbanistica (I annualita');   
-progettazione urbanistica (II annualita');   
-teoria dell'urbanistica (I annualita');   
-teoria dell'urbanistica (II annualita').   
-3) Area storico-critica e del restauro (15 discipline):   
-storia dell'architettura (I annualita');   
-storia dell'architettura (II annualita');   
-storia dell'urbanistica (I annualita');   
-storia dell'urbanistica (II annualita');   
-storia dell'architettura contemporanea;   
-storia dell'arte;   
-storia della citta' e del territorio;   
-storia della critica e della letteratura architettonica;   
-storia della scienza;   
-storia della tecnologia;   
-restauro architettonico;   
-restauro urbano;   
-teoria del restauro;   
-storia dell'architettura (III annualita');   
-restauro architettonico (II annualita').   
-4) Area tecnologica (16 discipline):   
-tecnologia dell'architettura (I annualita');   
-tecnologia dell'architettura (II annualita');   
-cultura tecnologica della progettazione;   
-disegno industriale;   
-ergonomia;   
-igiene ambientale;   
-morfologia dei componenti;   
-progettazione ambientale;   
-sperimentazione di sistemi e componenti;   
-tecnica ed economia della produzione edilizia;   
-tecnologie dei materiali da costruzione;   
-tipologia strutturale;   
-unificazione edilizia e prefabbricazione;   
-programmazione edilizia;   
-tecnologie del recupero edilizio;   
-disegno industriale (II annualita').   
-5) Area impiantistica (6 discipline):   
-fisica tecnica ed impianti;   
-illuminotecnica, acustica e climatizzazione nell'edilizia;   
-impianti speciali di sicurezza;   
-impianti tecnici urbani;   
-ubicazione e distribuzione della produzione della energia;   
-impianti tecnici nell'edilizia.   
-6) Area fisico-matematica (12 discipline):   
-istituzioni di matematica;   
-istituzioni di matematica (iterato);   
-calcolo numerico e programmazione;   
-elaborazione elettronica della progettazione;   
-elaborazione elettronica dei dati;   
-fisica;   
-geometria descrittiva;   
-istituzioni di statistica;   
-linguaggio per l'uso dei calcolatori;   
-matematica applicata;   
-modelli matematici per la programmazione territoriale;   
-teoria dei sistemi.   
-7) Area della scienza e della tecnica delle costruzioni (11 discipline):   
-statica;   
-consolidamento ed adattamento degli edifici;   
-costruzioni in zone sismiche;   
-dinamica delle costruzioni;   
-geotecnica e tecnica delle fondazioni;   
-progettazione di grandi strutture;   
-scienza delle costruzioni;   
-tecnica delle costruzioni (I annualita');   
-tecnica delle costruzioni (II annualita');   
-complementi di scienza delle costruzioni;   
-sperimentazioni dei materiali e delle strutture.   
-8) Area socio-economica (10 discipline):   
-estimo ed esercizio professionale;   
-economia urbana e regionale;   
-antropologia culturale;   
-demografia;   
-economia dei trasporti;   
-fondamenti di economia;   
-geografia urbana e regionale;   
-sociologia urbana e rurale.   
-9) Area della rappresentazione (12 discipline):   
-disegno e rilievo;   
-applicazioni di geometria descrittiva;   
-cartografia tematica;   
-elementi di fotogrammetria;   
-interpretazione di immagini e telerilevamenti;   
-strumenti e metodi per il rilievo architettonico;   
-strumenti e tecniche di comunicazione visiva;   
-tecniche della cartografia automatica;   
-tecniche di rappresentazione dell'architettura;   
-topografia;   
-disegno e rilievo (II annualita').   
-Art. 257. - Le discipline fondamentali e comuni a tutti gli indirizzi sono:   
-1) composizione architettonica (I annualita');   
-2) composizione architettonica (II annualita');   
-3) progettazione architettonica (I annualita');   
-4) progettazione architettonica (II annualita');   
-5) urbanistica (I annualita');   
-6) urbanistica (II annualita');   
-7) storia dell'architettura (I annualita');   
-8) storia dell'architettura (II annualita');   
-9) restauro architettonico;   
-10) tecnologia dell'architettura (I annualita');   
-11) tecnologia dell'architettura (II annualita');   
-12) fisica tecnica ed impianti;   
-13) istituzioni di matematica;   
-14) statica;   
-15) scienza delle costruzioni;   
-16) estimo ed esercizio professionale;   
-17) disegno e rilievo;   
-18) una annualita' dell'area 8) socio-economica.   
-Art. 258. - La scelta dell'indirizzo e' obbligatoria per lo studente.   
-All'interno di ciascuno indirizzo la facolta' indica annualmente uno o piu' "piani di studio orientati".   
-Fra i vari piani di studio orientati, attivati per lo stesso indirizzo, la facolta' stabilisce le relative equivalenze. Lo studente e' libero, dentro il quadro di tali equivalenze, di scegliere un suo piano di studio.   
-Il manifesto degli studi, prima dell'inizio dell'anno accademico, e precisamente entro il 30 giugno di ciascun anno, riporta i piani di studio che si vanno ad attivare.   
-Lo studente, all'interno dell'indirizzo di laurea prescelto, ferma restando l'obbligatorieta' dell'inserimento nel proprio piano di studio delle discipline elencate al precedente art. 257, puo' elaborare un proprio piano di studio autonomo.   
-I piani di studio sono approvati secondo le procedure delle vigenti norme.   
-Art. 259. - Sono stabilite le seguenti precedenze di esami relative alle materie fondamentali e comuni a tutti gli indirizzi:   
-  
-
-|  |  |
-| --- | --- |
-| Non si puo' essere ammessi a sostenere l'esame di: | Se non e' stato superato l'esame di: |
-| Scienze delle costruzioni | Statica |
-| Restauro architettonico | Storia dell'architettura (II annualita') |
-| Restauro architettonico | Scienza delle costruzioni |
-| Restauro architettonico | Progettazione architettonica (I annualita') |
-| Progettazione architettonica (I annualita') | Composizione architettonica (II annualita') |
-
-  
-  
-  
-Progettazione architettonica (I \_   
-  
-annualita) |Estimo ed esercizio professionale
-
-|  |  |
-| --- | --- |
-| Progettazione architettonica (I annualita') | Storia dell'architettura (II annualita') |
-
-  
-  
-  
-Progettazione architettonica (II \_   
-  
-annualita) |Scienza delle costruzioni  
----------------------------------------------------------------------  
-  
-  
-Tecnologia dell'architettura (II \_   
-  
-annualita') |Statica
-
-|  |  |
-| --- | --- |
-| Urbanistica (I annualita) | Storia dell'architettura (II annualita') |
-| Urbanistica (I annualita') | Composizione architettonica (II annualita') |
-
-  
-  
-  
-  
-Per le materie pluriennali - con la stessa denominazione seguita da indici progressivi - la propedeuticita' interna e' implicita ed in ciascun anno di corso non puo' essere sostenuto piu' di un esame di profitto, relativamente all'anno di iscrizione.   
-La collocazione negli anni di corso delle discipline comuni agli indirizzi e delle discipline caratterizzanti, saranno indicate anno per anno nel manifesto degli studi.   
-Art. 260. - L'attivita' didattica si organizza all'interno dei diversi insegnamenti individuati negli indirizzi e nei piani di studio, in lezioni integrate eventualmente da attivita' seminariali, da esercitazioni pratiche, conferenze, visite, ecc..   
-Le forme sperimentali dell'attivita' didattica, anche nella definizione del contributo differenziato dei docenti e dei ricercatori, in rapporto con le indicazioni della commissione di Ateneo, vanno registrate e specificate all'interno del manifesto d'anno e in relazione agli indirizzi.   
-Lo studente, inoltre, dovra' essere sottoposto all'accertamento della conoscenza di almeno una lingua straniera fra quelle indicate dalla facolta' nel manifesto annuale degli studi, mediante colloquio e traduzione di testi scientifici, da effettuarsi prima dell'assegnazione della tesi di laurea con docenti di discipline attinenti alla tesi stessa.   
-Per ogni insegnamento l'esame di profitto consiste in un colloquio sull'esperienza svolta nei corsi, eventualmente integrato da discussioni sulle esercitazioni condotte durante il corso, da prove grafiche o scritte e da relazioni.   
-L'esame di laurea consiste nella valutazione della esperienza svolta dal candidato nel corso degli studi e nella discussione di una tesi riguardante lo specifico campo disciplinare dell'indirizzo prescelto.   
-La tesi viene redatta dal candidato sotto la guida di un docente ufficiale o di un collegio di docenti, che funge da relatore e viene scelta alla conclusione del terzo anno.   
-La tesi consiste o in una ricerca originale progettuale o in una a carattere monografico sui problemi specifici dei diversi indirizzi di studio.   
+Gli articoli da 1045 a 1054, relativi alla scuola di specializzazione in "fisiopatologia della riproduzione degli animali domestici", afferente alla facolta' di medicina veterinaria, sono abrogati e sostituiti dai seguenti con lo spostamento della numerazione successiva.  
+Scuola di specializzazione in fisiopatologia  
+della riproduzione degli animali domestici  
+Art. 1045. - E' istituita presso l'Universita' di Napoli la scuola di specializzazione in fisiopatologia della riproduzione degli animali domestici, che conferisce il titolo di specialista in fisiopatologia della riproduzione degli animali domestici.  
+Art. 1046. - La direzione della scuola ha sede presso la cattedra di clinica ostetrica e ginecologica della facolta' di medicina veterinaria di Napoli.  
+Art. 1047. - La scuola ha lo scopo di approfondire e qualificare la preparazione teorico-pratica dei laureati in medicina veterinaria nel campo del controllo, condizionamento e recupero produttivo del patrimonio zootecnico, constatata la rilevante funzione economica e sociale rappresentata dall'incremento e dal miglioramento di tale importante risorsa nazionale.  
+La scuola si prefigge inoltre l'aggiornamento sulle piu' recenti tecnologie biologiche specifiche, in continua evoluzione e ormai definite nei risvolti applicativi con risultati di notevole interesse gestionale.  
+Art. 1048. - La durata del corso e' di tre anni e non e' suscettibile di abbreviazioni.  
+Art. 1049. - Il numero degli iscritti e' di venti per ogni anno e complessivamente di sessanta per l'intero corso di studi.  
+Art. 1050. - Alla scuola sono ammessi i laureati in medicina veterinaria, che abbiano conseguito l'abilitazione all'esercizio della libera professione.  
+Art. 1051. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che si svolgera' mediante risposte a domande multiple, integrata eventualmente da un colloquio e dalla valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:  
+a) la tesi di laurea nelle discipline attinenti alla specializzazione;  
+b) il voto di laurea;  
+c) il voto riportato negli esami di profitto nelle discipline del corso di laurea attinenti la specializzazione;  
+d) eventuali pubblicazioni inerenti le discipline predette.  
+Il punteggio dei predetti titoli viene eseguito secondo il disposto del [decreto ministeriale 16 settembre 1982, pubblicato nella Gazzetta Ufficiale n. 275 del 6 ottobre 1982](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1982-10-06&numeroGazzetta=275).  
+Sono ammessi alla scuola coloro che, in relazione al numero di posti disponibili, si siano collocati in posizione utile nella graduatoria compilata sulla base del punteggio complessivo riportato.  
+In caso di eventuali rinunce subentreranno altri candidati secondo l'ordine della graduatoria degli idonei.  
+Art. 1052. - Le materie di insegnamento sono le seguenti, tutte afferenti alla facolta' di medicina veterinaria:  
+1° Anno:  
+1) morfologia ed anatomia topografica degli apparati genitali maschile e femminile;  
+2) fisiologia ed endocrinologia delle funzioni sessuali e riproduttive femminili;  
+3) patologia ostetrico-ginecologica;  
+4) andrologia e andropatologia;  
+5) legislazione veterinaria nazionale e comunitaria.  
+2° Anno:  
+1) genetica e miglioramento animale;  
+2) malattie infettive ed infestive in diretta attinenza con le funzioni sessuali e riproduttive;  
+3) anatomia patologica degli apparati genito-urinari;  
+4) accertamenti e diagnostica di laboratorio.  
+3° Anno:  
+1) clinica e terapia ostetrico-ginecologica;  
+2) basi scientifiche, metodologia e tecnica della inseminazione artificiale e dei trapianti ovulo-embrionali;  
+3) nozioni di alimentazione in relazione alle varie fasi della riproduzione;  
+4) tecnologia degli allevamenti.  
+Art. 1053. - La frequenza ai corsi e' obbligatoria. Alla fine di ciascun anno di corso lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo.  
+Le commissioni d'esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno di corso, esprimono un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso; Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.  
+Art. 1054. - La scuola si articola in lezioni, conferenze, seminari, esercitazioni tecnico-pratiche riguardanti: indagini e riscontri di laboratorio (endocrinologia, citologia, istologia, istopatologia, microbiologia), procedimenti diagnostici e terapeutici, interventi ostetrico-ginecologici, tecniche di inseminazione artificiale e di trapianti embrionali, tecniche di condizionamento delle funzioni sessuali e riproduttive. La frequenza e' obbligatoria, tuttavia lo specializzando per sostenere gli esami dovra' aver frequentato almeno i tre quarti delle lezioni teoriche e pratiche effettuate.  
+E' prevista l'utilizzazione, ai fini di attivita' didattiche particolarmente orientate verso indirizzi pratico-applicativi, di strutture extra-universitarie ai sensi dell'[art. 27 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art27). (Convenzioni d'uso, istituti zooprofilattici, ecc.).  
+Ai fini della frequenza e delle attivita' pratiche viene riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando - in strutture di servizio socio-sanitario attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.  
+Art. 1055. - Superato l'esame teorico-pratico dell'ultimo anno, il corso degli studi si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso.  
+A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.  
+Art. 1056. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.  
+Art. 1057. - La scuola di specializzazione e' costituita da un consiglio presieduto da un direttore. Il consiglio e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali vengono affidate le attivita' didattiche nella scuola, nonche' da una rappresentanza - di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).  
+Il consiglio esercita le competenze spettanti ai sensi dell'[art. 94 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art94), al consiglio di corso di laurea in materia di coordinamento di insegnamenti. La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che insegni nella scuola stessa.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1983
+### Dato a Roma, addi' 17 maggio 1986
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 11 giugno 1984
+Registrato alla Corte dei conti, addi' 17 settembre 1986
 
-Registro n. 34 Istruzione, foglio n. 307
+Registro n. 71 Istruzione, foglio n. 199

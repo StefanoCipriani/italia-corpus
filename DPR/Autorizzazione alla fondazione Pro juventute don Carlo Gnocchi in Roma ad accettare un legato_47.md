@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1982 n. 100
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 aprile 1977 n. 208
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1982 n. 100
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 aprile 1977 n. 208
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-100. Decreto del Presidente della Repubblica 8 febbraio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in un negozio sito in Milano, via G. Pascoli n. 18, distinto nel nuovo catasto edilizio urbano alla partita 64183, foglio 317, mappale 364 sub 1, del valore attribuito di L. 22.000.000 elevato dall'ufficio tecnico erariale di Milano a lire 45.750.000, disposto dalla sig.ra Lucia Ortensia Duilia Ferradini ved. Soresina con testamento olografo 30 ottobre 1972, pubblicato a rogito dott. Gaudenzio Traspadini, notaio in Milano, il 22 marzo 1979, numero 23440/3298 di repertorio, registrato a Milano in data 26 marzo 1979 al n. A/4-08039/71 MN.  
+208. Decreto del Presidente della Repubblica 5 aprile 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Colombo Alessandra con testamento pubblico 20 gennaio 1971, a rogito del notaio dott. Gian Franco Condo' in data 8 marzo 1971, n. 1649/328 di repertorio e registrato il 9 marzo 1971 a Merate (Como) al n. 202, vol. 44, consistente nella somma di L. 500.000.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 20 marzo 1982  
-Registro n. 3 Presidenza, foglio n. 53
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 10 maggio 1977  
+Registro n. 4 Presidenza, foglio n. 271

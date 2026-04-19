@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 giugno 1953 n. 911
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 novembre 1948 n. 1528
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 giugno 1953 n. 911
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 novembre 1948 n. 1528
+================================================================
 
 Autorizzazione al Politecnico di Milano ad accettare una donazione.
 -------------------------------------------------------------------
@@ -12,8 +12,7 @@ Art. 1
 
 N.
 
-911. Decreto del Presidente della Repubblica 25 giugno 1953, col quale, sulla proposta del Ministro per la pubblica istruzione, il Politecnico di Milano viene autorizzato ad accettare la donazione di L. 417.500 nominali, in titoli di Stato rendita italiana 5%, disposta in suo favore dal prof. dott. mg. Piero Portaluppi, con atto pubblico amministrativo in data 28 ottobre 1952, per l'istituzione, con la rendita del capitale donato, di un premio di studio da intitolarsi "Premio dott. ing. Tuccio Portaluppi" e da conferirsi annualmente ad un laureato della Facolta' di architettura del Politecnico di Milano che abbia dato prova di speciale cultura e applicazione nel campo delle scienze e delle tecniche ausiliarie dell'architettura.  
+1528. Decreto del Presidente della Repubblica 2 novembre 1948, col quale, sulla proposta del Ministro per la pubblica istruzione, il Politecnico di Milano viene autorizzato ad accettare la donazione della somma di L. 300.000, disposta in suo favore dai coniugi Cesare e Teresita Cerini, con atto pubblico in data 18 dicembre 1947, per l'istituzione di una borsa di studio di L. 30.000 annue, per la durata di dieci anni, da intitolarsi al nome del figlio "Sottotenente Carlo Cerini" e da conferirsi ad uno studente del Politecnico medesimo, iscritto alla Facolta' di ingegneria o di architettura, di condizioni economiche disagiate, figlio di ufficiale caduto per la Patria, con preferenza per i nati nelle province di Milano e Varese.  
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 7 dicembre 1953  
-Atti del Governo, registro n. 80, foglio n. 64. - PALLA
+Visto, il Guardasigilli: GRASSI  
+Registrato alla Corte dei conti, addi' 27 dicembre 1948

@@ -1,18 +1,99 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1957 n. 1381
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1963 n. 1790
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1957 n. 1381
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1963 n. 1790
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con regio decreto 14 ottobre 1926.
+
+n. 2170, e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successivi;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso;
+
+Dopo l'art. 177, e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della Scuola diretta a fini speciali in Economia e merceologia degli alimenti.
+
+Art. 178. - Alla Facolta' di Economia e commercio e annessa la Scuola di Economia e merceologia degli alimenti. Essa ha sede presso l'Istituto di Merceologia della Facolta' e la sua direzione e' affidata al direttore dell'Istituto stesso.
+
+Art. 179. - La durata del corso degli studi per il conseguimento del diploma e' di due anni; al termine di essi e dopo l'esame previsto nei successivi comma viene rilasciato un diploma in Economia e merceologia alimentare. Sono titoli di ammissione alla Scuola il diploma delle scuole medie superiori di secondo grado.
+
+Sono insegnamenti fondamentali del corso di studi per il conseguimento del diploma di Economia e merceologia alimentare i seguenti:
+
+1° anno:
+
+1) Principi di Chimica generale, inorganica ed organica;
+
+2) Bromatologia e merceologia alimentare (primo corso);
+
+3) Legislazione specifica sugli alimenti;
+
+4) Igiene dell'alimentazione;
+
+5) Imprese industriali e commerciali dei prodotti alimentari;
+
+6) Fisiologia della nutrizione.
+
+2° anno:
+
+1) Bromatologia e merceologia alimentare (secondo corso);
+
+2) Organizzazione e gestione dei servizi alimentari delle collettivita' e tecnica statistica delle indagini alimentari;
+
+3) Tecnologia e preparazione dei cibi (con esercitazioni);
+
+4) Chimica metabolica normale e patologica;
+
+5) Costi e prezzi dei prodotti alimentari;
+
+6) Dietologia normale e speciale.
+
+L'esame di diploma consiste nella discussione orale di una dissertazione scritta svolta su di un tema approvato dal professore della materia; la discussione avviene dinanzi ad una Commissione di sette membri, presieduta dal direttore della Scuola.
+
+Art. 180. - Le tasse e sopratasse per l'iscrizione e la frequenza ai corsi e per gli esami di profitto sono fissati in misura pari a quelle del primo e secondo corso della Facolta'. I contributi di laboratorio verranno fissati annualmente dal Consiglio di Facolta' su proposta del direttore della Scuola.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 30 ottobre 1963
+
+SEGNI
+
+GUI
+
+Visto, il Guardasigilli: BOSCO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 12 dicembre 1963 Atti del governo, registro n. 178, foglio n. 70. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-12;2227), e successivi;  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con regio decreto 14 ottobre 1926.  
+n. 2170, e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successivi;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
@@ -23,48 +104,38 @@ Sulla proposta del Ministro per la pubblica istruzione;
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Scuola di perfezionamento in fisio-chinesiterapia ortopedica  
-  
-Art. 354. - Presso la clinica ortopedica dell'Universita' di Bologna e' istituita una scuola di perfezionamento in fisio-chinesiterapia ortopedica che conferisce il diploma di specialista in fisio-chinesiterapia ortopedica.  
-Il direttore della scuola e' il direttore della clinica ortopedica.  
-I docenti del corso saranno scelti tra i professori della Facolta' di medicina e chirurgia su designazione della Facolta' stessa.  
-Art. 355. - Alla scuola sono ammessi i laureati in medicina e chirurgia. Essa ha indirizzo teorico-pratico con lo scopo di specializzare nella rieducazione e riabilitazione funzionale e professionale di tutti i motulesi.  
-L'ammissione alla scuola avviene attraverso concorso interno con esami ed eventuali prove pratiche.  
-Il numero degli ammessi e' stabilito anno per anno dalla Direzione della scuola, numero che non puo' superare i dieci.  
-Art. 356. - La durata del corso e' di due anni.  
-Gli iscritti hanno l'obbligo di una frequenza continuata ed ininterrotta.  
-Art. 357. - Gli insegnamenti obbligatori sono i seguenti:  
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso;  
+Dopo l'art. 177, e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della Scuola diretta a fini speciali in Economia e merceologia degli alimenti.  
+Art. 178. - Alla Facolta' di Economia e commercio e annessa la Scuola di Economia e merceologia degli alimenti. Essa ha sede presso l'Istituto di Merceologia della Facolta' e la sua direzione e' affidata al direttore dell'Istituto stesso.  
+Art. 179. - La durata del corso degli studi per il conseguimento del diploma e' di due anni; al termine di essi e dopo l'esame previsto nei successivi comma viene rilasciato un diploma in Economia e merceologia alimentare. Sono titoli di ammissione alla Scuola il diploma delle scuole medie superiori di secondo grado.  
+Sono insegnamenti fondamentali del corso di studi per il conseguimento del diploma di Economia e merceologia alimentare i seguenti:  
 1° anno:  
-1) Anatomia dell'apparato motore;  
-2) Fisiologia dell'apparato motore;  
-3) Patologia delle motulesioni;  
-4) Termoterapia;  
-5) Massoterapia;  
-6) Idroterapia, balneoterapia.  
+1) Principi di Chimica generale, inorganica ed organica;  
+2) Bromatologia e merceologia alimentare (primo corso);  
+3) Legislazione specifica sugli alimenti;  
+4) Igiene dell'alimentazione;  
+5) Imprese industriali e commerciali dei prodotti alimentari;  
+6) Fisiologia della nutrizione.  
 2° anno:  
-1) Clinica delle motulesioni;  
-2) Terapia delle radiazioni;  
-3) Elettroterapia;  
-4) Ginnastica, medica (profilattica e correttiva);  
-5) Terapia del movimento e meccanoterapia;  
-6) Rieducazione motoria e riabilitazione.  
-In un manifesto annuale della clinica ortopedica vengono esposte le norme dettagliate riguardanti i vari insegnamenti.  
-Art. 358. - Alla fine del primo anno gli iscritti dovranno sostenere un esame di profitto nel gruppo di materie del primo corso.  
-Alla fine del secondo anno gli iscritti dovranno sostenere un esame di profitto nel gruppo di materie del secondo corso.  
-L'esame di diploma consiste nella discussione di una dissertazione scritta.  
+1) Bromatologia e merceologia alimentare (secondo corso);  
+2) Organizzazione e gestione dei servizi alimentari delle collettivita' e tecnica statistica delle indagini alimentari;  
+3) Tecnologia e preparazione dei cibi (con esercitazioni);  
+4) Chimica metabolica normale e patologica;  
+5) Costi e prezzi dei prodotti alimentari;  
+6) Dietologia normale e speciale.  
+L'esame di diploma consiste nella discussione orale di una dissertazione scritta svolta su di un tema approvato dal professore della materia; la discussione avviene dinanzi ad una Commissione di sette membri, presieduta dal direttore della Scuola.  
+Art. 180. - Le tasse e sopratasse per l'iscrizione e la frequenza ai corsi e per gli esami di profitto sono fissati in misura pari a quelle del primo e secondo corso della Facolta'. I contributi di laboratorio verranno fissati annualmente dal Consiglio di Facolta' su proposta del direttore della Scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 ottobre 1957
+### Dato a Roma, addi' 30 ottobre 1963
 
-GRONCHI MORO
+SEGNI GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 26 novembre 1957
+Registrato alla Corte dei conti, addi' 12 dicembre 1963
 
-Atti del Governo, registro n. 109, foglio n. 55. - DI PRETORO
+Atti del governo, registro n. 178, foglio n. 70. - VILLA

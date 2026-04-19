@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1972 n. 382
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1978 n. 950
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1972 n. 382
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1978 n. 950
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Parma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,292 +18,193 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Parma e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-L'art. 142, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che la "Scuola in malattie veneree e della pelle" e la "Scuola in medicina generale" mutano rispettivamente la denominazione in quelle di "Scuola in clinica dermosifilopatica" e in "Scuola di medicina interna":
+Art. 142 - all'elenco degli insegnamenti complementari del corso di laurea in medicina veterinaria sono aggiunti i seguenti:
 
-Gli articoli 161, 162 e 163, relativi alla "Scuola di specializzazione in medicina generale" che muta la denominazione in quello di "Scuola di specializzazione in medicina interna", sono abrogati e sostituiti dai seguenti:
+biologia molecolare;
 
-Scuola di specializzazione in medicina interna
+radiologia sperimentale;
 
-Art. 161. - La scuola ha la durata di 5 anni.
+radiobiologia veterinaria;
 
-Le materie di insegnamento sono:
+zooeconomia.
 
-1° Anno:
+Gli articoli 333, 334, 336, 337, 338, 339, 340, 341, 342 e 343, relativi all'ordinamento degli studi della scuola speciale di servizio sociale, annessa alla facolta' di giurisprudenza, sono abrogati e sostituiti dai seguenti con lo spostamento della numerazione degli articoli successivi.
 
-Malattie infettive, disreattive e del sangue;
+Scuola speciale di servizio sociale
 
-Istituzioni di terapia;
+Art. 333. - Nella facolta' di giurisprudenza dell'Universita' degli studi di Parma e' istituita una scuola speciale di servizio sociale ai sensi e per gli effetti dell'[art. 20, terzo comma, lettera a), del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20-com3-leta). La scuola si propone di preparare l'esercizio della professione di assistente sociale, mediante l'insegnamento teorico delle discipline necessarie e la sua integrazione con tirocini, esercitazioni o seminari interdisciplinari.
 
-Anatomia ed istologia patologica (biennale);
+La scuola conferisce il diploma di assistente sociale.
 
-Clinica medica generale e terapia medica (quinquennale).
+Art. 334. - Per l'ammissione alla scuola e' richiesto un titolo di scuola media superiore valido per la immatricolazione a un corso universitario.
 
-2° Anno:
+Art. 336. - Il consiglio della scuola e' composto dal direttore, che lo presiede, dai docenti delle materie di insegnamento, da un rappresentante di ciascuno degli enti o privati finanziatori della scuola da questi designato, dagli assistenti ai corsi, da due studenti di ognuno dei corsi, eletti all'interno dei rispettivi corsi e dal direttore delle esercitazioni e dei tirocini professionali, che funge anche da segretario.
 
-Malattie dell'apparato cardiovascolare;
+Il consiglio delibera su tutte le questioni di natura didattica e disciplinare relativa alla scuola.
 
-Microbiologia e sierologia;
+Il consiglio viene convocato dal direttore e si riunisce di diritto all'inizio e alla fine di ciascun anno accademico e ogni qualvolta il direttore lo ritenga necessario ovvero almeno un quinto del consiglio ne faccia richiesta scritta al direttore, indicando gli argomenti da inserire all'ordine del giorno.
 
-Chimica clinica;
+Art. 337. - Il direttore della scuola e' un professore della facolta' di giurisprudenza nominato dal rettore, su proposta della facolta'; dura in carica un triennio ed e' rieleggibile.
 
-Anatomia ed istologia patologica (biennale);
+Il direttore ha la rappresentanza e la direzione della scuola e ne assicura la disciplina.
 
-Clinica medica generale e terapia medica (quinquennale).
+Art. 338. - I docenti, il direttore delle esercitazioni e dei tirocini professionali e gli assistenti ai corsi sono nominati dal rettore su proposta del direttore.
 
-3° Anno:
+I docenti della scuola sono scelti tra i professori e gli assistenti dell'Universita' di Parma e fra coloro che siano di riconosciuta competenza ed esperienza nelle materie che formano oggetto dell'insegnamento.
 
-Malattie dell'apparato digerente;
+L'assistenza alle esercitazioni, ai tirocini professionali e ai seminari e' affidata agli assistenti ai corsi, la cui attivita' e' coordinata dal direttore delle esercitazioni e dei tirocini professionali.
 
-Malattie renali;
+Il direttore delle esercitazioni e dei tirocini professionali e gli assistenti ai corsi debbono possedere il diploma di assistente sociale.
 
-Clinica medica generale e terapia medica (quinquennale).
+Art. 339. - Il corso degli studi per il conseguimento del diploma di assistente sociale ha la durata di tre anni.
 
-4° Anno:
+L'ammissione alla scuola ha luogo in seguito a concorso per soli esami.
 
-Malattie dell'apparato respiratorio:
+Art. 340. - Le materie di insegnamento sono le seguenti:
 
-Malattie del sistema nervoso;
+elementi di diritto pubblico;
 
-Clinica medica generale e terapia medica (quinquennale).
+elementi di diritto di famiglia e di legislazione minorile;
 
-5° Anno:
+diritto del lavoro e legislazione sociale;
 
-Malattie del ricambio;
+economia politica;
 
-Malattie delle ghiandole endocrine;
+storia delle dottrine politiche e sociali;
 
-Clinica medica generale e terapia medica (quinquennale).
+politica sociale;
 
-Gli insegnamenti fondamentali saranno integrati, a giudizio del consiglio della scuola, da almeno tre insegnamenti scelti fra i seguenti, che possono essere stabiliti di anno in anno.
+amministrazione dei servizi sociali;
 
-Insegnamenti complementari:
+sociologia (biennale);
 
-Parassitologia medica;
+metodologia della ricerca sociale (biennale);
 
-Genetica medica;
+psicologia;
 
-Semeiotica dermatologica;
+psicologia sociale;
 
-Radiologia;
+Igiene mentale;
 
-Semeiotica oculistica;
+medicina preventiva e sociale;
 
-Semeiotica ginecologica.
+metodologia del servizio sociale (triennale).
 
-Art. 162. - Il numero complessivo degli specializzandi da ammettere alla scuola e' fissato in sessanta.
+La didattica e' articolata in corsi di insegnamento, seminari anche interdisciplinari, lavoro e ricerche di gruppo.
 
-Art. 163. - Gli iscritti alla scuola debbono sostenere l'esame annuale di profitto e l'esame finale di diploma.
+I tirocini professionali, consistenti in esperienze concrete di lavoro sociale, tramite l'inserimento dello studente in situazioni operanti vengono effettuati nei singoli anni di corso sotto la guida di "supervisori".
 
-Non puo' essere iscritto all'anno successivo chi non abbia superato gli esami delle materie del corso precedente.
+Art. 341. - Le commissioni per gli esami di profitto sono composte di tre membri nominati dal direttore.
 
-Art. 173. - L'ordinamento della "Scuola di specializzazione in radiologia" e' integrato con il seguente comma:
+Per essere ammessi agli esami gli iscritti dovranno aver ottenuto le relative firme di frequenza. Per essere ammessi agli esami di diploma gli iscritti dovranno aver superato gli esami di profitto stabiliti dal programma della scuola.
 
-"Gli specializzati in radiologia diagnostica che intendono conseguire il diploma in radiologia, potranno essere ammessi al 3° o 4° anno del corso di radiologia in base alla valutazione dei titoli e a giudizio della direzione della scuola".
+L'esame di diploma consiste in una discussione sopra una dissertazione originale scelta fra le materie d'insegnamento della scuola. La discussione ha luogo davanti ad una commissione di sette membri nominati dal rettore, su proposta del direttore.
 
-Gli articoli da 181 a 184, relativi alla "Scuola di specializzazione in malattie veneree e della pelle" che muta la denominazione in quella di "Scuola di specializzazione in clinica dermosifilopatica", sono abrogati e sostituiti dai seguenti:
+L'argomento della dissertazione di diploma dovra' essere concordato con l'insegnante della materia prescelta, almeno sei mesi prima della discussione.
 
-Scuola di specializzazione in clinica dermosifilopatica
-
-Art. 181. - La scuola di specializzazione in clinica dermosifilopatica ha la durata di tre anni.
-
-Sono ammessi i laureati in medicina e chirurgia.
-
-Il numero degli iscritti alla scuola e' limitato, per ogni anno accademico, a dieci allievi.
-
-Gli aspiranti alla scuola di specializzazione saranno previamente sottoposti ad un esame di ammissione e saranno valutati i titoli preferenziali che i candidati stessi eventualmente abbiano presentato.
-
-Art. 182. - Le materie di insegnamento sono:
-
-1° Anno:
-
-Anatomia e istologia normale della cute;
-
-Fisiologia della cute e degli annessi cutanei;
-
-Anatomia e fisiologia dell'apparato genitale;
-
-Microbiologia e parassitologia applicata;
-
-Tecnica di laboratorio con particolare riferimento alla sierologia applicata;
-
-Semeiotica dermatologica e venereologica.
-
-2° Anno:
-
-Patologia delle malattie cutanee;
-
-Patologia delle infezioni sessuali;
-
-Anatomia e istologia patologica della cute;
-
-Anatomia patologica delle malattie veneree e sessuali;
-
-Angiologia;
-
-Sessuologia.
-
-3° Anno:
-
-Clinica delle malattie cutanee;
-
-Clinica delle infezioni sessuali;
-
-Farmacologia e terapia medicamentosa;
-
-Fisioterapia dermatologica;
-
-Cosmetologia;
-
-Chirurgia plastica riparatrice;
-
-Igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.
-
-Art. 183. - Il corso di lezioni dovra' essere impartito mediante almeno cinquanta lezioni annuali comprensive delle varie materie e la frequenza giornaliera degli iscritti dovra' essere non inferiore alle quattro ore effettive per tutta la durata dell'anno accademico. Gli specializzandi avranno pertanto obbligo di internato nelle corsie, negli ambulatori e nei laboratori.
-
-Art. 184. - Gli esami di profitto verranno dati in tre gruppi ed in tre sessioni distinte; ogni gruppo comprende le materie proprie di ciascun anno di studio.
-
-L'esame di diploma consistera' nella esposizione e discussione di un argomento della disciplina su un tema dato al candidato 24 ore prima della prova.
+Art. 342. - La scuola potra' avere un regolamento da approvare dal consiglio di amministrazione su proposta del consiglio della scuola.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 7 giugno 1972
+Dato a Roma, addi' 27 ottobre 1978
 
-LEONE
+PERTINI
 
-MISASI
+PEDINI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BONIFACIO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 25 luglio 1972 Atti del Governo, registro n. 250, foglio n. 73. - CARUSO
+alla Corte dei conti, addi' 30 gennaio 1979 Registro n. 4 Istruzione, foglio n. 8
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;  
+Veduto lo statuto dell'Universita' di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Parma e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-L'art. 142, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che la "Scuola in malattie veneree e della pelle" e la "Scuola in medicina generale" mutano rispettivamente la denominazione in quelle di "Scuola in clinica dermosifilopatica" e in "Scuola di medicina interna":  
-Gli articoli 161, 162 e 163, relativi alla "Scuola di specializzazione in medicina generale" che muta la denominazione in quello di "Scuola di specializzazione in medicina interna", sono abrogati e sostituiti dai seguenti:  
-Scuola di specializzazione in medicina interna  
-Art. 161. - La scuola ha la durata di 5 anni.  
-Le materie di insegnamento sono:  
-1° Anno:  
-Malattie infettive, disreattive e del sangue;  
-Istituzioni di terapia;  
-Anatomia ed istologia patologica (biennale);  
-Clinica medica generale e terapia medica (quinquennale).  
-  
-2° Anno:  
-Malattie dell'apparato cardiovascolare;  
-Microbiologia e sierologia;  
-Chimica clinica;  
-Anatomia ed istologia patologica (biennale);  
-Clinica medica generale e terapia medica (quinquennale).  
-  
-3° Anno:  
-Malattie dell'apparato digerente;  
-Malattie renali;  
-Clinica medica generale e terapia medica (quinquennale).  
-  
-4° Anno:  
-Malattie dell'apparato respiratorio:  
-Malattie del sistema nervoso;  
-Clinica medica generale e terapia medica (quinquennale).  
-  
-5° Anno:  
-Malattie del ricambio;  
-Malattie delle ghiandole endocrine;  
-Clinica medica generale e terapia medica (quinquennale).  
-  
-Gli insegnamenti fondamentali saranno integrati, a giudizio del consiglio della scuola, da almeno tre insegnamenti scelti fra i seguenti, che possono essere stabiliti di anno in anno.  
-Insegnamenti complementari:  
-  
-Parassitologia medica;  
-Genetica medica;  
-Semeiotica dermatologica;  
-Radiologia;  
-Semeiotica oculistica;  
-Semeiotica ginecologica.  
-  
-Art. 162. - Il numero complessivo degli specializzandi da ammettere alla scuola e' fissato in sessanta.  
-Art. 163. - Gli iscritti alla scuola debbono sostenere l'esame annuale di profitto e l'esame finale di diploma.  
-Non puo' essere iscritto all'anno successivo chi non abbia superato gli esami delle materie del corso precedente.  
-Art. 173. - L'ordinamento della "Scuola di specializzazione in radiologia" e' integrato con il seguente comma:  
-"Gli specializzati in radiologia diagnostica che intendono conseguire il diploma in radiologia, potranno essere ammessi al 3° o 4° anno del corso di radiologia in base alla valutazione dei titoli e a giudizio della direzione della scuola".  
-Gli articoli da 181 a 184, relativi alla "Scuola di specializzazione in malattie veneree e della pelle" che muta la denominazione in quella di "Scuola di specializzazione in clinica dermosifilopatica", sono abrogati e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in clinica dermosifilopatica  
-Art. 181. - La scuola di specializzazione in clinica dermosifilopatica ha la durata di tre anni.  
-Sono ammessi i laureati in medicina e chirurgia.  
-Il numero degli iscritti alla scuola e' limitato, per ogni anno accademico, a dieci allievi.  
-Gli aspiranti alla scuola di specializzazione saranno previamente sottoposti ad un esame di ammissione e saranno valutati i titoli preferenziali che i candidati stessi eventualmente abbiano presentato.  
-Art. 182. - Le materie di insegnamento sono:  
-  
-1° Anno:  
-Anatomia e istologia normale della cute;  
-Fisiologia della cute e degli annessi cutanei;  
-Anatomia e fisiologia dell'apparato genitale;  
-Microbiologia e parassitologia applicata;  
-Tecnica di laboratorio con particolare riferimento alla sierologia applicata;  
-Semeiotica dermatologica e venereologica.  
-  
-2° Anno:  
-Patologia delle malattie cutanee;  
-Patologia delle infezioni sessuali;  
-Anatomia e istologia patologica della cute;  
-Anatomia patologica delle malattie veneree e sessuali;  
-Angiologia;  
-Sessuologia.  
-  
-3° Anno:  
-Clinica delle malattie cutanee;  
-Clinica delle infezioni sessuali;  
-Farmacologia e terapia medicamentosa;  
-Fisioterapia dermatologica;  
-Cosmetologia;  
-Chirurgia plastica riparatrice;  
-Igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.  
-  
-Art. 183. - Il corso di lezioni dovra' essere impartito mediante almeno cinquanta lezioni annuali comprensive delle varie materie e la frequenza giornaliera degli iscritti dovra' essere non inferiore alle quattro ore effettive per tutta la durata dell'anno accademico. Gli specializzandi avranno pertanto obbligo di internato nelle corsie, negli ambulatori e nei laboratori.  
-Art. 184. - Gli esami di profitto verranno dati in tre gruppi ed in tre sessioni distinte; ogni gruppo comprende le materie proprie di ciascun anno di studio.  
-L'esame di diploma consistera' nella esposizione e discussione di un argomento della disciplina su un tema dato al candidato 24 ore prima della prova.  
+Art. 142 - all'elenco degli insegnamenti complementari del corso di laurea in medicina veterinaria sono aggiunti i seguenti:  
+biologia molecolare;  
+radiologia sperimentale;  
+radiobiologia veterinaria;  
+zooeconomia.  
+Gli articoli 333, 334, 336, 337, 338, 339, 340, 341, 342 e 343, relativi all'ordinamento degli studi della scuola speciale di servizio sociale, annessa alla facolta' di giurisprudenza, sono abrogati e sostituiti dai seguenti con lo spostamento della numerazione degli articoli successivi.  
+Scuola speciale di servizio sociale  
+Art. 333. - Nella facolta' di giurisprudenza dell'Universita' degli studi di Parma e' istituita una scuola speciale di servizio sociale ai sensi e per gli effetti dell'[art. 20, terzo comma, lettera a), del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20-com3-leta). La scuola si propone di preparare l'esercizio della professione di assistente sociale, mediante l'insegnamento teorico delle discipline necessarie e la sua integrazione con tirocini, esercitazioni o seminari interdisciplinari.  
+La scuola conferisce il diploma di assistente sociale.  
+Art. 334. - Per l'ammissione alla scuola e' richiesto un titolo di scuola media superiore valido per la immatricolazione a un corso universitario.  
+Art. 336. - Il consiglio della scuola e' composto dal direttore, che lo presiede, dai docenti delle materie di insegnamento, da un rappresentante di ciascuno degli enti o privati finanziatori della scuola da questi designato, dagli assistenti ai corsi, da due studenti di ognuno dei corsi, eletti all'interno dei rispettivi corsi e dal direttore delle esercitazioni e dei tirocini professionali, che funge anche da segretario.  
+Il consiglio delibera su tutte le questioni di natura didattica e disciplinare relativa alla scuola.  
+Il consiglio viene convocato dal direttore e si riunisce di diritto all'inizio e alla fine di ciascun anno accademico e ogni qualvolta il direttore lo ritenga necessario ovvero almeno un quinto del consiglio ne faccia richiesta scritta al direttore, indicando gli argomenti da inserire all'ordine del giorno.  
+Art. 337. - Il direttore della scuola e' un professore della facolta' di giurisprudenza nominato dal rettore, su proposta della facolta'; dura in carica un triennio ed e' rieleggibile.  
+Il direttore ha la rappresentanza e la direzione della scuola e ne assicura la disciplina.  
+Art. 338. - I docenti, il direttore delle esercitazioni e dei tirocini professionali e gli assistenti ai corsi sono nominati dal rettore su proposta del direttore.  
+I docenti della scuola sono scelti tra i professori e gli assistenti dell'Universita' di Parma e fra coloro che siano di riconosciuta competenza ed esperienza nelle materie che formano oggetto dell'insegnamento.  
+L'assistenza alle esercitazioni, ai tirocini professionali e ai seminari e' affidata agli assistenti ai corsi, la cui attivita' e' coordinata dal direttore delle esercitazioni e dei tirocini professionali.  
+Il direttore delle esercitazioni e dei tirocini professionali e gli assistenti ai corsi debbono possedere il diploma di assistente sociale.  
+Art. 339. - Il corso degli studi per il conseguimento del diploma di assistente sociale ha la durata di tre anni.  
+L'ammissione alla scuola ha luogo in seguito a concorso per soli esami.  
+Art. 340. - Le materie di insegnamento sono le seguenti:  
+elementi di diritto pubblico;  
+elementi di diritto di famiglia e di legislazione minorile;  
+diritto del lavoro e legislazione sociale;  
+economia politica;  
+storia delle dottrine politiche e sociali;  
+politica sociale;  
+amministrazione dei servizi sociali;  
+sociologia (biennale);  
+metodologia della ricerca sociale (biennale);  
+psicologia;  
+psicologia sociale;  
+Igiene mentale;  
+medicina preventiva e sociale;  
+metodologia del servizio sociale (triennale).  
+La didattica e' articolata in corsi di insegnamento, seminari anche interdisciplinari, lavoro e ricerche di gruppo.  
+I tirocini professionali, consistenti in esperienze concrete di lavoro sociale, tramite l'inserimento dello studente in situazioni operanti vengono effettuati nei singoli anni di corso sotto la guida di "supervisori".  
+Art. 341. - Le commissioni per gli esami di profitto sono composte di tre membri nominati dal direttore.  
+Per essere ammessi agli esami gli iscritti dovranno aver ottenuto le relative firme di frequenza. Per essere ammessi agli esami di diploma gli iscritti dovranno aver superato gli esami di profitto stabiliti dal programma della scuola.  
+L'esame di diploma consiste in una discussione sopra una dissertazione originale scelta fra le materie d'insegnamento della scuola. La discussione ha luogo davanti ad una commissione di sette membri nominati dal rettore, su proposta del direttore.  
+L'argomento della dissertazione di diploma dovra' essere concordato con l'insegnante della materia prescelta, almeno sei mesi prima della discussione.  
+Art. 342. - La scuola potra' avere un regolamento da approvare dal consiglio di amministrazione su proposta del consiglio della scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 7 giugno 1972
+### Dato a Roma, addi' 27 ottobre 1978
 
-LEONE MISASI
+PERTINI PEDINI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 25 luglio 1972
+Registrato alla Corte dei conti, addi' 30 gennaio 1979
 
-Atti del Governo, registro n. 250, foglio n. 73. - CARUSO
+Registro n. 4 Istruzione, foglio n. 8

@@ -1,123 +1,85 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 agosto 1982 n. 837
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1968 n. 808
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 agosto 1982 n. 837
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1968 n. 808
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Nell'art. 73, concernente il corso di laurea in chimica, all'elenco degli insegnamenti complementari sono aggiunte le seguenti discipline:  
-Per l'indirizzo organico-biologico:  
-chimica fisica dei polimeri.  
-Per l'indirizzo inorganico chimico-fisico:  
-complementi di chimica organica.  
-Nell'art. 74, concernente il corso di laurea in chimica industriale, all'elenco degli insegnamenti complementari sono aggiunte le seguenti discipline:  
-chimica dei combustibili;  
-chimica e tecnologia degli intermedi;  
-chimica e tecnologia della catalisi;  
-chimica fisica dei polimeri;  
-petrolchimica e tecnologia dei prodotti petroliferi.  
-Nell'art. 75, concernente il corso di laurea in fisica, all'elenco degli insegnamenti complementari per il I gruppo sono aggiunte le seguenti discipline:  
-fisica sperimentale delle particelle elementari;  
-teorie quantistiche.  
-Nell'art. 76, concernente il corso di laurea in matematica, all'elenco degli insegnamenti complementari sono aggiunte le seguenti discipline:  
-Per l'indirizzo generale:  
-primo gruppo:  
-strutture algebriche;  
-teoria dei gruppi;  
-topologia algebrica;  
-algebra commutativa;  
-secondo gruppo:  
-meccanica dei continui;  
-meccanica superiore.  
-Per l'indirizzo applicativo:  
-primo gruppo:  
-meccanica superiore;  
-programmazione matematica;  
-secondo gruppo:  
-meccanica dei continui;  
-metodi per il trattamento dell'informazione;  
-teoria degli algoritmi e della calcolabilita';  
-linguaggi formali e compilatori;  
-ricerca operativa.  
-Inoltre, nello stesso art. 76, nell'elenco degli insegnamenti complementari del primo e secondo gruppo dei tre indirizzi: generale, didattico e applicativo sono soppressi, ove presenti, i seguenti insegnamenti:  
-calcolo delle probabilita';  
-istituzioni di fisica nucleare;  
-struttura della materia;  
-matematica finanziaria ed attuariale;  
-chimica generale ed inorganica con elementi di organica;  
-fisica terrestre;  
-meccanica statistica;  
-teoria delle vibrazioni;  
-astronomia;  
-geodesia.  
-Nell'art. 77, concernente il corso di laurea in scienze naturali, all'elenco degli insegnamenti complementari sono aggiunte le seguenti discipline:  
-esercitazioni di laboratorio di mineralogia;  
-fitosociologia;  
-geologia ambientale;  
-rilevamento geologico;  
-zoologia dei vertebrati.  
-Nell'art. 78, concernente il corso di laurea in scienze biologiche, all'elenco degli Insegnamenti complementari sono aggiunte le seguenti discipline:  
-paleoantropologia;  
-statistica e biometria.  
-Nel medesimo elenco e' soppresso l'insegnamento complementare di statistica.  
-Nell'art. 79, concernente il corso di laurea in scienze geologiche, all'elenco degli insegnamenti complementari sono aggiunte le seguenti discipline:  
-cristallochimica;  
-didattica delle scienze geologiche;  
-esercizi di laboratorio di mineralogia;  
-geofisica applicata;  
-geofisica marina;  
-geologia ambientale;  
-geomagnetismo;  
-geomorfologia applicata;  
-geopedologia;  
-meteorologia e oceanografia;  
-paleontologia dei vertebrati;  
-petrografia regionale.  
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 63. - E' abrogato e sostituito dal seguente: "La facolta' di farmacia conferisce la laurea in farmacia e la laurea in chimica e tecnologia farmaceutiche".  
+Dopo l'art. 71 e con il conseguente spostamento della successiva numerazione e' aggiunto il seguente nuovo articolo relativo all'istituzione del corso di laurea in chimica e tecnologia farmaceutiche annesso alla facolta' di farmacia.  
+  
+Laurea in chimica e tecnologia farmaceutiche  
+  
+Art. 72. - Durata del corso degli studi: cinque anni, divisi in un biennio ed un triennio.  
+Titolo di ammissione: diploma di maturita' classica o scientifica.  
+Insegnamenti fondamentali:  
+Biennio:  
+1) analisi chimico farmaceutica I (analisi qualitativa;  
+(\*) 2) anatomia umana;  
+(\*) 3) botanica farmaceutica;  
+(\*) 4) chimica fisica;  
+(\*) 5) chimica generale ed inorganica;  
+(\*\*) 6) chimica organica I;  
+(\*) 7) fisica;  
+(8) fisiologia generale;  
+(\*) 9) istituzioni di matematiche;  
+Triennio:  
+11) analisi chimico farmaceutica II (analisi quantitativa);  
+12) analisi chimico farmaceutica III (analisi dei medicamenti); (\*) 13) biochimica applicata;  
+(\*) 14) chimica biologica;  
+(\*) 15) chimica degli alimenti;  
+(\*) 16) chimica farmaceutica applicata;  
+(\*) 17) chimica farmaceutica e tossicologica I;  
+(\*) 18) chimica farmaceutica e tossicologica II;  
+(\*\*) 19) chimica organica II;  
+(\*) 20) farmacologia e farmacognosia;  
+21) impianti dell'industria farmaceutica;  
+22) laboratorio di preparazione estrattiva e sintetica dei farmaci;  
+23) metodi fisici in chimica organica;  
+24) saggi e dosaggi farmacologici;  
+(\*) 25) tecnica e legislazione farmaceutica;  
+Insegnamenti complementari:  
+(\*) chimica delle fermentazioni e microbiologia industriale;  
+chimica delle sostanze organiche naturali, chimica dei prodotti dietetici;  
+chimica dei prodotti cosmetici;  
+(\*) complementi di chimica tossicologica;  
+(\*) microchimica;  
+(\*) mineralogia.  
+Le materie segnate con un asterisco sono comuni alla laurea in farmacia; quelle segnate con due asterischi sono comuni alla laurea in chimica.  
+Per ottenere l'iscrizione al 3° anno lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fissati per i due anni precedenti.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato tutti gli esami dei corsi fondamentali e almeno due esami a scelta fra i corsi complementari.  
+La prova di laurea comporta la discussione di una tesi sperimentale.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti e di osservarlo e di farlo osservare.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Selva di Val Gardena, addi' 2 agosto 1982
+### Dato a Roma, addi' 5 giugno 1968
 
-PERTINI BODRATO
+SARAGAT GUI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 8 novembre 1982
+Registrato alla Corte dei conti, addi' 17 luglio 1968
 
-Registro n. 123 Istruzione, foglio n. 231
+Atti del Governo, registro n. 221, foglio n. 35. - GRECO

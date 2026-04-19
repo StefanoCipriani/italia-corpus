@@ -1,200 +1,64 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 955
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1965 n. 862
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 955
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1965 n. 862
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Dopo l'art. 156, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chirurgia toracica:
-
-Scuola di specializzazione in chirurgia toracica
-
-Art. 157. - La scuola di specializzazione in chirurgia toracica ha sede presso l'istituto di patologia chirurgica dell'Universita' degli studi di Ferrara e conferisce il diploma di specialista in chirurgia toracica.
-
-Art. 158. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
-
-Art. 159. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalla autorita' competente.
-
-Art. 160. - La durata del corso di studi e' di cinque anni, non e' suscettibile di abbreviazione e prevede l'insegnamento di tutte le branche della chirurgia toracica, chirurgia polmonare, chirurgia cardiaca, chirurgia esofagea, chirurgia del mediastino e della parete toracica.
-
-Art. 161. - Il numero massimo degli allievi e' di tre per anno di corso e complessivamente di quindici iscritti per l'intero corso di studi.
-
-Art. 162. - L'ammissione al corso avviene per concorso per titoli ed esami.
-
-Art. 163. - Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-1) embriologia, anatomia descrittiva e topografica del torace e degli organi endotoracici;
-
-2) anatomia chirurgica del torace e degli organi endotoracici;
-
-3) anatomia patologica delle malattie del torace (biennale I);
-
-4) anestesia in chirurgia toracica.
-
-2° Anno:
-
-1) fisiopatologia dell'apparato respiratorio;
-
-2) fisiopatologia dell'apparato cardiocircolatorio;
-
-3) semeiotica dell'apparato respiratorio, dell'esofago e del mediastino;
-
-4) semeiotica dell'apparato cardiocircolatorio;
-
-5) anatomia patologica delle malattie del torace (biennale II).
-
-3° Anno:
-
-1) patologia e clinica chirurgica delle affezioni dell'apparato respiratorio, del mediastino e della parete toracica (biennale I);
-
-2) patologia e clinica chirurgica delle affezioni del cuore e dei grossi vasi endotoracici;
-
-3) patologia e clinica chirurgica delle affezioni dell'esofago e del diaframma;
-
-4) elementi di terapia medica delle cardio-angiopatie;
-
-5) elementi di fisioterapia respiratoria;
-
-6) diagnostica radiologica nelle malattie chirurgiche del torace.
-
-4° Anno:
-
-1) patologia e clinica chirurgica delle affezioni dell'apparato respiratorio, del mediastino e della parete toracica (biennale II);
-
-2) tecnica operatoria per le affezioni della parete toracica, dell'apparato respiratorio, dell'esofago, del mediastino e del diaframma (biennale I);
-
-3) tecnica operatoria delle affezioni del cuore, pericardio e grossi vasi endotoracici;
-
-4) principi e tecniche della circolazione extracorporea.
-
-5° Anno:
-
-1) terapia intensiva e rianimazione in chirurgia toracica;
-
-2) tecnica operatoria per le affezioni della parete toracica, dell'apparato respiratorio, dell'esofago, del mediastino e del diaframma (biennale II);
-
-3) terapia chirurgica della tbc pleuropolmonare.
-
-Art. 164. - Il corso si compone di lezioni, di esercitazioni pratiche, di periodo di internato, di conferenze riguardanti argomenti specialistici, di turni in corsia ed in sala operatoria. La frequenza ai corsi, agli interventi, in corsia ed in sala operatoria, alle esercitazioni e' obbligatoria. In caso contrario i candidati non potranno ottenere l'attestazione di frequenza necessaria per l'ammissione agli esami.
-
-Art. 165. - Alla fine di ciascun anno di corso gli specializzandi che abbiano ottenuto la firma di frequenza dovranno sostenere un esame di profitto sulle materie di insegnamento il cui superamento e' condizione necessaria ed indispensabile per ottenere la iscrizione all'anno successivo e, per quelli che sono stati iscritti al quinto anno, per l'ammissione all'esame di diploma. Durante il corso gli specializzandi frequenteranno la sala operatoria in maniera assidua, dovranno assistere a numerosi interventi di chirurgia toracica ed essere in grado di eseguirne essi stessi.
-
-Art. 166. - Per tutti gli specializzandi che hanno superato gli esami dei cinque anni alla fine del quinto anno di corso ha luogo l'esame di diploma, consistente nella presentazione e discussione di una dissertazione scritta su un argomento di chirurgia toracica concordata con la direzione della scuola.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 31 ottobre 1978
-
-PERTINI
-
-PEDINI
-
-Visto, il Guardasigilli: BONIFACIO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 30 gennaio 1979 Registro n. 4 Istruzione, foglio n. 11
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), e modificato con [decreto del Presidente della Repubblica 12 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-12;1207).  
+e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Dopo l'art. 156, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chirurgia toracica:   
+Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Scuola di specializzazione in chirurgia toracica   
+Dopo l'art. 28, sono aggiunti i seguenti nuovi articoli relativi alla creazione dell'Istituto di applicazione forense, annesso alla Facolta' di giurisprudenza con il conseguente spostamento della numerazione degli articoli successivi.  
+Istituto di applicazione forense  
+Art. 29. - Alla Facolta' di giurisprudenza e' annesso un Istituto di applicazione forense, il quale si propone di corrispondere alle esigenze tecniche e pratiche della preparazione all'esercizio della professione forense.  
+L'Istituto funziona anche ai fini dell'[art. 18 del regio decreto-legge 27 novembre 1933, n. 1578](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-27;1578~art18).  
+Art. 30. - I mezzi per il funzionamento dell'Istituto sono tratti dai contributi dell'Universita', da eventuali elargizioni di enti pubblici o di privati, e dalle tasse e contributi degli iscritti.  
+Art. 31. - L'Istituto e' retto da un Consiglio direttivo, composto da un direttore, dal preside della Facolta' e dal direttore dell'Istituto giuridico. Il direttore e' eletto per un triennio dal Consiglio della Facolta' di giurisprudenza fra i professori ordinari e straordinari della Facolta' medesima anche fuori ruolo.  
+Art. 32. - Le esercitazioni si svolgono nelle seguenti materie:  
   
-Art. 157. - La scuola di specializzazione in chirurgia toracica ha sede presso l'istituto di patologia chirurgica dell'Universita' degli studi di Ferrara e conferisce il diploma di specialista in chirurgia toracica.   
-Art. 158. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Art. 159. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalla autorita' competente.   
-Art. 160. - La durata del corso di studi e' di cinque anni, non e' suscettibile di abbreviazione e prevede l'insegnamento di tutte le branche della chirurgia toracica, chirurgia polmonare, chirurgia cardiaca, chirurgia esofagea, chirurgia del mediastino e della parete toracica.   
-Art. 161. - Il numero massimo degli allievi e' di tre per anno di corso e complessivamente di quindici iscritti per l'intero corso di studi.   
-Art. 162. - L'ammissione al corso avviene per concorso per titoli ed esami.   
-Art. 163. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-1) embriologia, anatomia descrittiva e topografica del torace e degli organi endotoracici;   
-2) anatomia chirurgica del torace e degli organi endotoracici;   
-3) anatomia patologica delle malattie del torace (biennale I);   
-4) anestesia in chirurgia toracica.   
-2° Anno:   
-1) fisiopatologia dell'apparato respiratorio;   
-2) fisiopatologia dell'apparato cardiocircolatorio;   
-3) semeiotica dell'apparato respiratorio, dell'esofago e del mediastino;   
-4) semeiotica dell'apparato cardiocircolatorio;   
-5) anatomia patologica delle malattie del torace (biennale II).   
-3° Anno:   
-1) patologia e clinica chirurgica delle affezioni dell'apparato respiratorio, del mediastino e della parete toracica (biennale I);   
-2) patologia e clinica chirurgica delle affezioni del cuore e dei grossi vasi endotoracici;   
-3) patologia e clinica chirurgica delle affezioni dell'esofago e del diaframma;   
-4) elementi di terapia medica delle cardio-angiopatie;   
-5) elementi di fisioterapia respiratoria;   
-6) diagnostica radiologica nelle malattie chirurgiche del torace.   
-4° Anno:   
-1) patologia e clinica chirurgica delle affezioni dell'apparato respiratorio, del mediastino e della parete toracica (biennale II);   
-2) tecnica operatoria per le affezioni della parete toracica, dell'apparato respiratorio, dell'esofago, del mediastino e del diaframma (biennale I);   
-3) tecnica operatoria delle affezioni del cuore, pericardio e grossi vasi endotoracici;   
-4) principi e tecniche della circolazione extracorporea.   
-5° Anno:   
-1) terapia intensiva e rianimazione in chirurgia toracica;   
-2) tecnica operatoria per le affezioni della parete toracica, dell'apparato respiratorio, dell'esofago, del mediastino e del diaframma (biennale II);   
-3) terapia chirurgica della tbc pleuropolmonare.   
-Art. 164. - Il corso si compone di lezioni, di esercitazioni pratiche, di periodo di internato, di conferenze riguardanti argomenti specialistici, di turni in corsia ed in sala operatoria. La frequenza ai corsi, agli interventi, in corsia ed in sala operatoria, alle esercitazioni e' obbligatoria. In caso contrario i candidati non potranno ottenere l'attestazione di frequenza necessaria per l'ammissione agli esami.   
-Art. 165. - Alla fine di ciascun anno di corso gli specializzandi che abbiano ottenuto la firma di frequenza dovranno sostenere un esame di profitto sulle materie di insegnamento il cui superamento e' condizione necessaria ed indispensabile per ottenere la iscrizione all'anno successivo e, per quelli che sono stati iscritti al quinto anno, per l'ammissione all'esame di diploma. Durante il corso gli specializzandi frequenteranno la sala operatoria in maniera assidua, dovranno assistere a numerosi interventi di chirurgia toracica ed essere in grado di eseguirne essi stessi.   
-Art. 166. - Per tutti gli specializzandi che hanno superato gli esami dei cinque anni alla fine del quinto anno di corso ha luogo l'esame di diploma, consistente nella presentazione e discussione di una dissertazione scritta su un argomento di chirurgia toracica concordata con la direzione della scuola.   
+Diritto civile;  
+Diritto commerciale;  
+Diritto processuale civile;  
+Diritto amministrativo;  
+Diritto penale;  
+Diritto processuale penale;  
+Diritto tributario;  
+Diritto internazionale (pubblico e privato);  
+Diritto del lavoro;  
+Diritto costituzionale.  
+Art. 33. - Presso l'Istituto possono tenersi anche, conferenze ed esercitazioni in altre discipline giuridiche.  
+Art. 34. - Possono iscriversi al corso dell'Istituto, i laureati in giurisprudenza.  
+Art. 35. - Agli iscritti che abbiano frequentato lo Istituto per un anno con diligenza e profitto viene, a loro richiesta, rilasciato un certificato finale agli effetti dell'[art. 6 del regio decreto 22 gennaio 1934, n. 37](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-01-22;37~art6), in relazione all'[art. 18 del regio decreto-legge 27 novembre 1933, n. 1578](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-27;1578~art18).  
+Art. 36. - Il funzionamento dell'Istituto e' regolato da apposite norme deliberate dalla Facolta' giuridica su proposta del Consiglio direttivo ed approvate con decreto del rettore dell'Universita'.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1978
+### Dato a Roma, addi' 21 maggio 1965
 
-PERTINI PEDINI
+SARAGAT GUI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 30 gennaio 1979
+Registrato alla Corte dei conti, addi' 14 luglio 1965
 
-Registro n. 4 Istruzione, foglio n. 11
+Atti del Governo, registro n. 195, foglio n. 91. - VILLA

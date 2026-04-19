@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 aprile 1981 n. 294
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 173
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 aprile 1981 n. 294
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 173
+===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-294. Decreto del Presidente della Repubblica 3 aprile 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dal sig. Mazzetta Giuseppe con testamento olografo 1 dicembre 1974, pubblicato a rogito dott. Lorenzo Stucchi, notaio in Milano, in data 9 giugno 1975, n. 130 di fascicolo e n. 714 di repertorio, registrato a Monza il 19 giugno 1975 al n. 3527, vol. 9, mod. I, consistente in un appartamento sito in Milano, via Cremosano n. 6, riportato nel nuovo catasto edilizio urbano alla partita 71779, mappale 12448 sub 18, ctg. A/3, classe 4, V.U. 5.50, R.C. L. 2.728, valore presunto lire 17.000.000, nonche' in beni mobili per un valore presunto di L. 299.880.   
+173. Decreto del Presidente della Repubblica 10 febbraio 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella quota di 1/2 dei beni mobili, libretto a risparmio e conti correnti per complessive L. 127.895.497 - quota di un 1/2 uguale L. 63.943.738 meno L. 21.000.000 di passivita' restano L. 42.943.736 - disposto dal rev. Corengia Antonio con testamento olografo 10 maggio 1982, pubblicato in data 11 novembre 1983, n. 24222/8565 di repertorio, a rogito dott. Achille Cornelio, notaio in Como, registrato a Como in data 16 novembre 1983 al n. 5148.   
   
-Visto, il Guardasigilli: SARTI   
-Registrato alla Corte dei conti, addi' 30 maggio 1981   
-Registro n. 4 Presidenza, foglio n. 124
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 22 aprile 1986   
+Registro n. 4 Presidenza, foglio n. 47

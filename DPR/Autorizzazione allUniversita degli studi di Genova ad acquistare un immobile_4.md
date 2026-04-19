@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1971 n. 1117
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1973 n. 142
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1971 n. 1117
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1973 n. 142
 ===============================================================
 
 Autorizzazione all'Universita' degli studi di Genova ad acquistare un immobile.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1117. Decreto del Presidente della Repubblica 4 ottobre 1971, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Genova viene autorizzata ad acquistare l'intero primo piano di un edificio sito in Genova, via Balbi, 30, al prezzo di L. 70.000.000.  
+142. Decreto del Presidente della Repubblica 2 febbraio 1973, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Genova viene autorizzata ad acquistare un immobile sito in Genova, corso Paganini, 3, iscritto nel nuovo catasto edilizio urbano di Genova alla partita 3442, al prezzo di L. 120.000.000.  
   
-Visto, il Guardasigilli: COLOMBO  
-Registrato alla Corte dei conti, addi' 21 dicembre 1971  
-Atti del Governo registro n. 245, foglio n. 126. - VALENTINI
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 16 aprile 1973  
+Atti di Governo, registro n. 257, foglio n. 99. - VALENTINI

@@ -1,70 +1,55 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1982 n. 677
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1970 n. 512
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1982 n. 677
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1970 n. 512
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Messina approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Nell'art. 51, relativo al corso di laurea in lettere, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-paleografia greca;  
-archivistica;  
-storia dell'arte contemporanea;  
-antichita' ed istituzioni medioevali;  
-storia bizantina;  
-storia dei partiti politici;  
-demografia storica;  
-letteratura e filologia siciliana;  
-filologia dantesca.  
-Nell'art. 52, relativo al corso di laurea in filosofia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-psicologia sociale.  
-Nell'art. 56, relativo al corso di laurea in lingue e letterature straniere moderne (indirizzo europeo), all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-linguistica generale;  
-letteratura umanistica.  
+Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, numero 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e modificato con [regio decreto 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+Art. 21, relativo al corso di laurea in economia e commercio e' modificato nel senso che l'ultimo comma e' abrogato e sostituito dal seguente:  
+"Superata la prova scritta, la prova orale potra' essere sostenuta nella stessa sessione e nelle sessioni successive dell'anno accademico in corso e dei successivi, e senza che l'eventuale esito negativo obblighi alla ripetizione della prova scritta".  
+Art. 22, relativo alle propedeuticita' di esami e' modificato nel senso che l'ultimo comma e' abrogato e sostituito dal seguente:  
+"Gli insegnamenti propedeutici debbono precedere per l'esame gli insegnamenti cui servono di preparazione".  
+Art. 24, relativo alle norme sull'esame di laurea e' modificato nel senso che e' abrogata la lettera b) e pertanto assume la seguente formulazione:  
+"L'esame di laurea consiste nella discussione orale di una dissertazione scritta su un tema che rientri in uno degli insegnamenti fondamentali o complementari impartiti nella facolta', escluse le lingue straniere".  
+Art. 40. - All'elenco degli insegnamenti complementari del corso di laurea in pedagogia e' aggiunto quello di "Psico-pedagogia".  
+Art. 41. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di:  
+Lingue e letterature ispano-americane;  
+Lingue e letterature scandinave.  
+Art. 53. - All'elenco degli insegnamenti complementari del corso di laurea in fisica e' aggiunto quello di "Sismologia" per l'indirizzo applicativo.  
+Art. 54. - All'elenco degli insegnamenti complementari del corso di laurea in chimica, indirizzo organico-biologico, e' aggiunto quello di "Analisi chimiche-biologico-cliniche".  
+Art. 55. - All'elenco degli insegnamenti complementari del corso di laurea in scienze naturali e' aggiunto quello di "Sismologia".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 luglio 1982
+### Dato a Roma, addi' 12 maggio 1970
 
-PERTINI BODRATO
+SARAGAT MISASI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 9 settembre 1982
+Registrato alla Corte dei conti, addi' 10 luglio 1970
 
-Registro n. 105 Istruzione, foglio n. 219
+Atti del Governo, registro n. 236, foglio n. 146. - CARUSO

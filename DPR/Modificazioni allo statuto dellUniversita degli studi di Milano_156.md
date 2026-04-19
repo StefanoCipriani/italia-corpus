@@ -1,128 +1,153 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 908
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 marzo 1962 n. 215
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 908
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 marzo 1962 n. 215
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' degli studi di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Nell'art. 30 dello statuto dell'Universita' degli studi di Milano, all'elenco delle lauree che conferisce la facolta' di scienze matematiche, fisiche e naturali, e' aggiunta la laurea in "Scienze dell'informazione".  
-Dopo l'art. 52, con il conseguente spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo relativo all'istituzione del corso di laurea in scienze dell'informazione:  
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1936, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-11-04;2280), modificato con [regio decreto 25 ottobre 1940, n. 2096](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-25;2096) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Veduto il [decreto del Presidente della Repubblica 26 luglio 1960, n. 1692](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-07-26;1692) Veduta la [legge 21 luglio 1961, n. 685](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-21;685);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Laurea in scienze dell'informazione  
-Art. 53. - Durata del corso: quattro anni.  
-Titolo di ammissione: diploma di maturita' classica, di maturita' scientifica, diploma di abilitazione per i provenienti dagli istituti tecnici industriali, nautici, agrari e per geometri.  
-Il corso si distingue in tre indirizzi: indirizzo generale, indirizzo applicativo (gestione), indirizzo tecnico (sistemi per l'elaborazione).  
-A) Sono insegnamenti fondamentali obbligatori comuni a tutti gli indirizzi per il primo biennio:  
-1° Anno:  
-1) fisica I;  
-2) analisi matematica I;  
-3) algebra (semestrale);  
-4) geometria (semestrale);  
-5) teoria ed applicazioni delle macchine calcolatrici.  
-2° Anno:  
-6) fisica II;  
-7) analisi matematica II;  
-8) calcolo numerico (semestrale);  
-9) calcolo delle probabilita' e statistica (semestrale);  
-10) sistemi per l'elaborazione dell'informazione 1;  
-11) ricerca operativa e gestione aziendale.  
-B) Sono insegnamenti fondamentali obbligatori comuni a tutti gli indirizzi per il secondo biennio:  
-12) sistemi per l'elaborazione dell'informazione II;  
-13) teoria dell'informazione e della trasmissione;  
-14) metodi per il trattamento dell'informazione.  
-C) Sono insegnamenti fondamentali obbligatori:  
-a) per l'indirizzo generale:  
-15ª) linguaggi formali e compilatori;  
-16ª) metodi di approssimazione.  
-b) per l'indirizzo applicativo:  
-15b) teoria e metodi dell'ottimizzazione;  
-16b) economia ed organizzazione aziendale (semestrale);  
-17b) trattamento dell'informazione nell'impresa (semestrale).  
-c) per l'indirizzo tecnico:  
-15c) teoria dei sistemi;  
-16c) tecniche numeriche ed analogiche.  
-Insegnamenti complementari commi ai tre indirizzi:  
-1) analisi numerica;  
-2) bioelettronica;  
-3) calcolo delle probabilita';  
-4) cibernetica e teoria dell'informazione;  
-5) complementi di gestione aziendale;  
-6) comunicazioni elettriche;  
-7) controlli automatici;  
-8) controllo dei processi industriali;  
-9) documentazione automatica;  
-10) econometria;  
-11) elaborazione dell'informazione non numerica;  
-12) elaborazione di immagini;  
-13) elaborazione dei testi letterali;  
-14) elettronica;  
-15) fisica numerica;  
-16) fisica superiore;  
-17) istituzioni di fisica teorica;  
-18) istituzioni di analisi superiore;  
-19) istituzioni di fisica matematica;  
-20) linguaggi speciali di programmazione;  
-21) logica matematica;  
-22) macchine calcolatrici analogiche;  
-23) teoria dei modelli;  
-24) progetto di sistemi numerici;  
-25) simulazione;  
-26) statistica;  
-27) tecniche di progettazione automatica;  
-28) tecniche direzionali;  
-29) tecniche speciali di elaborazione;  
-30) teoria degli algoritmi e calcolabilita';  
-31) teoria degli automi;  
-32) teoria dei giochi;  
-33) teoria dei grafi;  
-34) teoria delle decisioni.  
-Alcuni di questi corsi complementari potranno avere la durata semestrale.  
-Ciascuno degli insegnamenti, sia fondamentali che complementari, comporta un esame finale.  
-Ciascun insegnamento fondamentale di un indirizzo puo' essere scelto come insegnamento complementare per altro indirizzo in cui non sia fondamentale.  
-La scelta delle materie complementari da parte dello studente e' sottoposta alla preventiva approvazione della facolta'.  
-Per ottenere l'iscrizione al secondo biennio, lo studente deve aver seguito i corsi e superato gli esami di almeno cinque materie annuali del primo biennio (due corsi semestrali sono valutati come un corso annuale).  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e almeno in quattro scelti fra i complementari se a corso semestrale, in almeno tre se uno di essi annuale, o in almeno due se ambedue sono annuali.  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+Gli articoli 30 e 31 relativi al corso di laurea in Fisica sono abrogati e sostituiti dai seguenti:  
+  
+Art. 30. - La durata del corso degli studi per la laurea in Fisica e' di 4 anni.  
+E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica. Possono essere ammessi inoltre i diplomati dagli Istituti tecnici industriali, agrari, nautici e per geometri ai sensi delle vigenti disposizioni di legge.  
+Il corso di studi si distingue in tre indirizzi: generale, didattico, applicativo.  
+  
+1° Biennio.  
+  
+Sono insegnamenti fondamentali obbligatori comuni a tutti gli indirizzi:  
+1) Fisica generale I (con esercitazioni);  
+2) Fisica generale II (con esercitazioni);  
+3) Analisi matematica I (con esercitazioni);  
+4) Analisi matematica II (con esercitazioni);  
+5) Geometria I (con esercitazioni);  
+6) Meccanica razionale (con esercitazioni);  
+7) Chimica con esercitazioni di laboratorio (per fisici);  
+8) Esperimentazione fisica (biennale).  
+E' richiesta inoltre una prova di conoscenza di due lingue straniere da scegliersi tra le seguenti: inglese, francese, russo, tedesco.  
+  
+2° Biennio.  
+  
+Gli insegnamenti obbligatori per il secondo biennio sono i seguenti:  
+  
+a) corsi comuni ai tre indirizzi:  
+  
+1) Struttura della materia;  
+2) Istituzioni di fisica teorica (con esercitazioni);  
+3) Metodi matematici della fisica (con esercitazioni);  
+  
+b) corsi per l'indirizzo generale:  
+  
+4) Fisica superiore (con esercitazioni);  
+5) Fisica teorica (con esercitazioni);  
+6) Corso di matematiche superiori;  
+7) Laboratorio di fisica I;  
+8) Laboratorio di fisica II;  
+9) Un corso complementare a scelta;  
+  
+c) corsi per l'indirizzo didattico:  
+  
+4) Complementi di fisica generale I;  
+5) Complementi di fisica generale II;  
+6) Storia della fisica;  
+7) Preparazione di esperienze didattiche I:  
+8) Preparazione di esperienze didattiche II;  
+9) Un corso complementare a scelta;  
+  
+d) corsi per l'indirizzo applicativo:  
+  
+4), 5), 6), 7) Quattro insegnamenti da scegliersi secondo modalita' che verranno indicate nel piano degli studi in corrispondenza dei vari orientamenti che puo' assumere l'indirizzo applicativo;  
+8) Laboratorio di fisica I;  
+9) Laboratorio di fisica II;  
+  
+Elenco dei corsi complementari:  
+  
+1) Acceleratori di particelle;  
+2) Acustica;  
+3) Astrofisica;  
+4) Chimica teorica  
+5) Chimica fisica;  
+6) Cibernetica e teoria dell'informazione;  
+7) Conduzione elettrica nei gas;  
+8) Elettrologia;  
+9) Elettronica;  
+10) Elettronica applicata;  
+11) Fisica dei reattori nucleari;  
+12) Fisica dei neutroni;  
+13) Fisica dello stato solido;  
+14) Fisica delle particelle elementari  
+15) Fisica dei plasmi;  
+16) Fisica matematica;  
+17) Fisica nucleare;  
+18) Fisica superiore;  
+19) Fisica teorica;  
+20) Istituzioni di analisi superiore;  
+21) Istituzioni di fisica nucleare;  
+22) Istituzioni di fisica matematica;  
+23) Macchine calcolatrici;  
+24) Meccanica quantistica;  
+25) Meccanica statistica;  
+26) Onde elettromagnetiche;  
+27) Ottica;  
+28) Ottica elettronica;  
+29) Radioastronomia;  
+30) Radioattivita';  
+31) Relativita';  
+32) Semiconduttori;  
+33) Spettroscopia,;  
+34) Storia della fisica;  
+35) Termodinamica;  
+36) Fisica cosmica;  
+37) Fisica atomica;  
+38) Fisica molecolare;  
+39) Astronomia;  
+40) Calcolo delle probabilita';  
+41) Calcoli numerici e grafici;  
+42) Statistica matematica;  
+43) Analisi superiore;  
+44) Analisi funzionale;  
+45) Matematiche superiori;  
+46) Teoria delle funzioni;  
+47) Meccanica superiore;  
+48) Geometria differenziale.  
+Art. 31. - Per ciascuno dei corsi elencati vi e' un esame finale.  
+Gli insegnamenti di Fisica generale I e II, Analisi matematica I e II, constano ciascuno di due parti annuali distinte, la prima propedeutica alla seconda e comportano ciascuno due distinti esami, il primo propedeutico al secondo.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti prescritti dall'ordinamento per l'indirizzo prescelto.  
+Potranno iscriversi ai corsi del secondo biennio soltanto quegli studenti che abbiano superato gli esami di Fisica generale I e II, Analisi matematica I e II.  
+Art. 32. - L'esame di laurea per gli indirizzi generale ed applicativo consiste nella discussione di una dissertazione scritta riguardante ricerche di regola originali su argomenti riferentisi ad una disciplina del corso di laurea.  
+L'esame di laurea per l'indirizzo didattico consiste nella discussione di una dissertazione scritta riguardante ricerche non necessariamente originali su argomenti riferentisi ad una disciplina del corso di laurea.  
+Detta discussione sara' preceduta da un esame di cultura generale sulle discipline del corso di laurea.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1979
+### Dato a Roma, addi' 9 marzo 1962
 
-PERTINI VALITUTTI
+GRONCHI GUI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 7 maggio 1980
+Registrato alla Corte del conti, addi' 4 maggio 1962
 
-Registro n. 40 Istruzione, foglio n. 362
+Atti del Governo, registro n. 146, foglio n. 5. - VILLA

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1077
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 luglio 1971 n. 713
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1077
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 luglio 1971 n. 713
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
@@ -10,73 +10,60 @@ Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Firenze e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 9 - all'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti i seguenti:   
-storia e sistemi dei rapporti fra Stato e Chiesa;   
-diritto tributario;   
-diritto anglo-americano;   
-diritto dei paesi socialisti.   
-Nello stesso elenco sono soppressi i seguenti insegnamenti complementari:   
-demografia;   
-economia regionale;   
-legislazione della circolazione e dei trasporti;   
-diritto dei popoli germanici.   
-Gli articoli 259, 260 e 262, relativi alla scuola di specializzazione in agricoltura tropicale e sub-tropicale annessa alla facolta' di agraria, sono abrogati e sostituiti dai seguenti:   
-Art. 259. - Con le modalita' previste dall'[art. 6 della legge 6 ottobre 1962, n. 1612](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-10-06;1612~art6), potranno essere stabiliti accordi di collaborazione tra Universita' e Istituto agronomico per l'oltremare di Firenze per il migliore funzionamento della scuola.   
-La direzione della scuola e' affidata ogni anno dal consiglio della facolta' di agraria ad un professore di ruolo, fuori ruolo o incaricato della facolta' stessa, competente nel campo della specializzazione.   
-Gli insegnamenti nella scuola sono affidati anno per anno dalla facolta' di agraria su proposta del direttore della scuola, avvalendosi anche dei docenti di altre facolta' e dell'Istituto agronomico per l'oltremare nonche' di esperti particolarmente qualificati.   
-Art. 260. - Gli insegnamenti impartiti ogni anno saranno scelti dal consiglio dei professori della scuola nel seguente elenco in numero non inferiore a quattordici:   
-biogeografia delle regioni tropicali e sub-tropicali;   
-agronomia dei paesi tropicali e sub-tropicali;   
-coltivazioni erbacee tropicali e sub-tropicali;   
-coltivazioni arboree tropicali e sub-tropicali;   
-zootecnica dei paesi tropicali e sub-tropicali;   
-tecniche di trasformazione dei prodotti agrari tropicali e sub-tropicali;   
-entomologia agraria tropicale e sub-tropicale;   
-patologia delle piante tropicali e sub-tropicali;   
-economia e politica agraria dei paesi tropicali e sub-tropicali; selvicoltura tropicale e sub-tropicale;   
-macchine e meccanizzazione delle colture tropicali e sub-tropicali;   
-tecnologia dei legnami tropicali e sub-tropicali;   
-metodologia e tecnica sperimentale;   
-progetti di sviluppo economico;   
-botanica tropicale;   
-pedologia tropicale;   
-idrologia applicata;   
-uso e governo delle acque;   
-alimentaristica applicata alle zone tropicali e sub-tropicali;   
-aereofotointerpretazione;   
-orticoltura e floricoltura nelle regioni tropicali;   
-climatologia delle regioni tropicali sub-tropicali;   
-pianificazione e sviluppo economico.   
-Possono, inoltre, essere istituiti corsi speciali da designare, in numero non superiore a due, che saranno stabiliti all'inizio di ciascun anno dal consiglio dei docenti della scuola.   
-I suddetti insegnamenti saranno integrati da seminari, colloqui ed esercitazioni su speciali argomenti, nonche' da viaggi di istruzione in zone tropicali e sub-tropicali.   
-Il consiglio della scuola puo' istituire piu' indirizzi di studio e consigliarli agli allievi.   
-Art. 262. - Per essere ammesso all'esame di diploma lo studente deve aver seguito i corsi e superato gli esami di profitto in almeno otto degli insegnamenti di cui al precedente elenco.   
+Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appreso:  
+  
+Art. 31: all'elenco degli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti i seguenti:  
+Complementi matematici per le applicazioni economiche;  
+Controllo statistico della qualita' e statistica industriale (semestrale);  
+Diritto civile;  
+Diritto regionale;  
+Economia della popolazione (semestrale);  
+Economia matematica;  
+Economia regionale (semestrale);  
+Istituzioni di economia politica (biennale con unico esame finale);  
+Revisione aziendale (semestrale);  
+Statistica economica;  
+Storia delle teorie monetarie (semestrale);  
+Storia economica contemporanea;  
+Storia economica dell'antichita' (semestrale);  
+Tecnica amministrativa dell'impresa pubblica.  
+Nello stesso elenco gli insegnamenti di "Organizzazione internazionale" e di "Diritto internazionale" mutano denominazione rispettivamente in quella di: "Organizzazione economica internazionale" e di "Diritto internazionale pubblico e privato"; mentre l'insegnamento di: "Analisi di mercato" da annuale passa semestrale.  
+Art. 43: all'elenco degli insegnamenti complementari relativi alla scuola di statistica, annessa alla facolta' di economia e commercio, sono aggiunti i seguenti:  
+Analisi di mercato (semestrale);  
+Controllo statistico delle qualita' e statistica industriale (semestrale);  
+Demografia storica e storia delle popolazioni (semestrale);  
+Econometria;  
+Economia della popolazione (semestrale);  
+Principi e tecniche delle elaborazioni meccanografiche ed elettroniche;  
+Elementi di calcolo delle probabilita'.  
+Art. 59: all'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti:  
+Pedagogia sperimentale;  
+Letteratura per l'infanzia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1977
+### Dato a Roma, addi' 6 luglio 1971
 
-LEONE MALFATTI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 10 febbraio 1978
+Registrato alla Corte dei conti, addi' 30 agosto 1971
 
-Registro n. 14 Istruzione, foglio n. 102
+Atti del Governo, registro n. 244, foglio n. 44. - PASQUALUCCI

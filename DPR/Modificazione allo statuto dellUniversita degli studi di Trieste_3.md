@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1081
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 355
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1081
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 355
+============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Trieste.
 -------------------------------------------------------------------
@@ -39,19 +39,21 @@ Articolo unico
 --------------
 
   
-Nell'art. 77, relativo al corso di laurea in chimica, all'elenco degli insegnamenti degli indirizzi inorganico-chimico-fisico ed organico-biologico e' aggiunto il seguente insegnamento:  
-stechiometria.  
+Nell'art. 57, relativo al corso di laurea in storia - indirizzo antico - all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+storia dei diritti dell'antichita'.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1983
+### Dato a Roma, addi' 10 marzo 1986
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 15 marzo 1984
+Registrato alla Corte dei conti, addi' 8 luglio 1986
 
-Registro n. 16 Istruzione, foglio n. 178
+Registro n. 54 Istruzione, foglio n. 336

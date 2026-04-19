@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1949 n. 1077
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 marzo 1954 n. 690
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1949 n. 1077
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 marzo 1954 n. 690
+============================================================
 
 Autorizzazione all'Universita' di Roma ad accettare una donazione.
 ------------------------------------------------------------------
@@ -12,7 +12,8 @@ Art. 1
 
 N.
 
-1077. Decreto del Presidente della Repubblica 24 ottobre 1949, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Roma viene autorizzata ad accettare la donazione della somma di L. 100.000 nominati, in titoli del Debito pubblico italiano 5%, disposta in suo favore dal dott. Gaspare Scaglione con atto pubblico in data 14 settembre 1948, per l'istituzione di un premio di studio biennale da intitolarsi "Premio Albertina Pierucci Scaglione" e da conferirsi, per concorso, ad un laureato in medicina in una Universita' italiana, che presenti il migliore lavoro in pediatra basato su personali ricerche.  
+690. Decreto del Presidente della Repubblica 23 marzo 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Roma viene autorizzata ad accettare la donazione di L. 170.000 nominali in titoli del Prestito della Ricostruzione 5% al portatore, disposta in suo favore dall'avv. Giuseppe Ambrosio, anche a nome della moglie, sig.ra Emilia Lafortuna, con atto pubblico amministrativo 26 febbraio 1953, e destinata ad incrementare il capitale del gia' costituito premio "Raffaele Ambrosio". Il premio medesimo viene trasformato in premio quadriennale e sara' conferito secondo le norme fissate da un nuovo regolamento.  
   
-Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 31 gennaio 1950
+Visto, il Guardasigilli: DE PIETRO  
+Registrato alla Corte dei conti, addi' 13 agosto 1954  
+Atti del Governo, registro n. 85, foglio n. 33. - TEMPESTA

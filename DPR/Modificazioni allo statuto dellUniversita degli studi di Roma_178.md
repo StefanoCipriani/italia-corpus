@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1551
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1963 n. 2370
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1551
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1963 n. 2370
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
@@ -12,143 +12,118 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734) e successivi;  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successivi;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulata dalle autorita' accademiche dell'Universita', anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della; pubblica istruzione;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta, la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente in modificato come appresso:  
-Art. 26. - Agli insegnamenti complementari del corso di laurea in scienze politiche sono aggiunti quelli di:  
-"Storia del Risorgimento";  
-"Storia contemporanea".  
-Art. 54. - Agli insegnamenti complementari del corso di laurea in lettere sono aggiunti quelli di:  
-"Protostoria europea";  
-"Estetica";  
-"Sociologia".  
-Sono soppressi, invece, gli insegnamenti complementari di: "Antichita' greche e romane" e "Topografia antica".  
-I seguenti insegnamenti complementari, poi, cambiano cosi' di denominazione: "Archeologia dell'Africa romana e antichita' provinciali" in "Archeologia delle province romane"; "Topografia romana" in "Topografia di Roma e dell'Italia antica"; Epigrafia greca" in "Epigrafia e antichita' greche"; "Epigrafia latina" in "Epigrafia e antichita' romane"; "Numismatica" in "Numismatica greca e romana".  
-Art. 55. - Agli insegnamenti complementari del corso di laurea, in Filosofia sono aggiunti quelli di:  
-"Estetica" e "Sociologia".  
-Art. 56. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere moderne (indirizzo orientale) e' aggiunto quello di "Storia dell'arte dell'Estremo Oriente".  
-L'insegnamento, poi, di "Ebraico" muta di denominazione e assume quella di "Ebraico medioevale e moderno".  
-Art. 61. - Agli Istituti annessi alla Facolta' di Lettere e filosofia e' aggiunto l'Istituto di studi medio latini.  
-L'Istituto di studi orientali e' scisso nei seguenti:  
-"Istituto di studi del vicino Oriente";  
-"Istituto di studi islamici";  
-"Istituto di studi del Medio ed Estremo Oriente".  
-I seguenti Istituti cambiano cosi' di denominazione:  
-"Istituto di epigrafia greca" in "Istituto di epigrafia e antichita' greche e romane";  
-"Istituto di storia romana", suddiviso nelle sezioni: a) storia romana; b) epigrafia latina in "Istituto di storia romana)";  
-"Istituto di archeologia e storia dell'arte antica", suddiviso nelle sezioni: a) archeologia e storia dell'arte antica; b) numismatica; c) archeologia dell'Africa romana" in "Istituto di archeologia e storia, dell'arte antica," "Istituto di topografia antica", suddiviso nelle sezioni: a) topografia antica; b) topografia romana, in "Istituto di topografia antica";  
-"Istituto di studi bizantini" in "Istituto di studi bizantini e neoellenistici".  
-L'"Istituto di antichita' greche e romane" e' soppresso.  
-Art. 65. - Agli insegnamenti complementari del corso di laurea in pedagogia aggiunto quello di "Pedagogia comparata".  
-Art. 85. - Agli insegnamenti complementari del corso di laurea in chimica sono aggiunti i seguenti:  
-Per l'indirizzo organico-biologico:  
-"Spettroscopia";  
-"Radiochimica";  
-"Strutturistica chimica";  
-"Chimica organica, superiore";  
-"Chimica delle sostanze coloranti";  
-"Chimica macromolecolare";  
-"Chimica delle sostanze naturali";  
-"Analisi chimica strumentale";  
-"Chimica teorica";  
-"Spettroscopia e radiofrequenza".  
-Per l'indirizzo inorganico-chimico-fisico:  
-"Radiochimica";  
-"Spettrochimica";  
-"Strutturistica chimica";  
-"Chimica organica superiore";  
-"Chimica macromolecolare";  
-"Analisi chimica strumentale";  
-"Chimica teorica";  
-"Spettroscopia e radiofrequenza";  
-"Chimica quantistica";  
-"Chimica statistica".  
-Art. 89. - Agli insegnamenti complementari del corso di laurea in Fisica sono aggiunti i seguenti:  
-"Metodi matematici per la fisica";  
-"Storia della fisica";  
-"Cibernetica e teorica dell'informazione";  
-"Fisica del plasma";  
-"Fisica nucleare";  
-"Fisica delle basse temperature";  
-"Fisica spaziale".  
-Art. 91. - Agli insegnamenti complementari del corso di laurea in Scienze matematiche sono aggiunti quelli di:  
-"Meccanica, dei fluidi";  
-"Teorie relativistiche";  
-"Strutture algebriche";  
-"Scienze operative".  
-Art. 93. - Agli insegnamenti complementari del corso di laurea in Matematica e fisica sono aggiunti quelli di:  
-"Meccanica dei fluidi";  
-"Teorie relativistiche";  
-"Strutture algebriche";  
-"Scienze operative".  
-Art. 95. - Agli insegnamenti complementari del corso di la urea in Scienze naturali sono aggiunti quelli di:  
-"Chimica delle fermentazioni e batteriologia industriale";  
-"Embriologia degli invertebrati";  
-"Neurologia comparata";  
-"Ecologia".  
-L'insegnamento di "Oceanografia" muta denominazione in quella di:  
-Oceanografia biologica".  
-Art. 97. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti quelli di:  
-"Chimica delle fermentazioni e batteriologia industriale";  
-"Embriologia degli invertebrati";  
-"Neurologia comparata";  
-"Oceanografia, biologica";  
-"Ecologia";  
-"Zootecnica speciale";  
-"Analisi biologiche".  
-Art. 99. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche sono aggiunti quelli di:  
-"Cristallografia, strutturale";  
-"Idrogeologia";  
-"Interpretazione aerofotogeologica";  
-"Mineralogia sistematica";  
-"Paleontologia dei vertebrati";  
-"Petrografia applicata";  
-"Paleontologia umana".  
-Art. 242, relativo agli insegnamenti della Scuola di storia antica annessa alla Facolta' di lettere e filosofia, e' modificato nel senso che i seguenti insegnamenti cambiano cosi' di denominazione:  
-"Epigrafia greca" in "Epigrafia e antichita' greche";  
-"Epigrafia latina" in "Epigrafia e antichita' romane";  
-"Archeologia dell'Africa romana e antichita' provinciali" in "Archeologia delle province romane";  
-"Topografia romana" in "Topografia di Roma e dell'Italia antica"; "Numismatica" in "Numismatica greca e romana", Gli insegnamenti di "Antichita' greche e romane" e di "Topografia antica" sono soppressi.  
-Art. 252. - Agli insegnamenti costitutivi della Scuola di filosofia annessa alla Facolta' di lettere e filosofia, sono aggiunti quelli di: "Estetica" e "Sociologia".  
-Art. 264, relativo agli insegnamenti della Scuola nazionale di archeologia, annessa alla Facolta' di lettere e filosofia e' modificato nel senso che i seguenti insegnamenti cambiano cosi' di denominazione:  
-"Epigrafia latina" in "Epigrafia e antichita' romane";  
-"Epigrafia greca" in "Epigrafia e antichita' greche";  
-"Topografia romana" in "Topografia di Roma e dell'Italia antica"; "Numismatica" in "Numismatica greca e romana";  
-"Archeologia dell'Africa romana e antichita' provinciali" in "Archeologia delle province romane".  
-Gli insegnamenti di "Antichita' greche e romane" e "Topografia antica" sono soppressi.  
-Art. 289, relativo alla Scuola orientale annessa alla Facolta', di lettere e filosofia e' abrogato e sostituito dal seguente:  
-"La "Rivista degli studi orientali" e' l'organo ufficiale dell'attivita' scientifica della Scuola. La Biblioteca degli Istituti di studi del vicino Oriente, di Studi islamici e di Studi del Medio ed Estremo Oriente e' annessa alla Scuola.  
-Il direttore della Scuola e' anche il direttore della Rivista e della Biblioteca".  
-Art. 303. - Agli insegnamenti della Scuola di perfezionamento in Scienze biologiche e' aggiunto quello di "Ecologia".  
-Art. 232, relativo agli insegnamenti della Scuola di Filologia classica, annessa alla Facolta' di lettere e filosofia e' cosi' modificato:  
-L'insegnamento di "Grammatica greco-latina" muta denominazione in "Grammatica greca e latina".  
-Sono aggiunti i seguenti insegnamenti complementari:  
-"Epigrafia e antichita' greche";  
-"Epigrafia, e antichita' romane".  
-L'insegnamento complementare di "Antichita' greche e romane" e' soppresso.  
-Art. 390. - La Scuola di perfezionamento in Pediatria annessa alla Facolta' di medicina e chirurgia muta denominazione in quella di: "Scuola di specializzazione in Pediatria".  
-Art. 391. - Agli insegnamenti del secondo anno della Scuola di specializzazione in Pediatria e' aggiunto quello di "Nozioni di cardiologia infantile".  
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 38. - All'elenco degli istituti della Facolta' di economia e commercio, e' aggiunto il seguente:  
+Istituto di Diritto del lavoro.  
+Art. 56. - All'elenco degli insegnamenti complementari del corso di laurea in Lettere, sono aggiunti i seguenti:  
+Storia e vita culturale in Austria;  
+Storia della lingua latina Dialettologia greca;  
+Filologia micenea;  
+Paleografia greca;  
+Disegno e rilievo dei monumenti.  
+Nello stesso articolo l'ultimo comma: "L'elenco di Letteratura latina e' preceduto da una prova scritta di traduzione da latino" e' abrogato e sostituito dal seguente: "Lo studente deve superare una prova scritta di traduzione latina".  
+Art. 57. - All'elenco degli insegnamenti complementari del corso di laurea in Filosofia sono aggiunti i seguenti Logica;  
+Antropologia culturale;  
+Psicologia sociale;  
+Psicologia dell'eta' evolutiva;  
+Storia della scienza.  
+Nello stesso articolo l'ultimo comma: "L'esame di Letteratura latina comprende una prova scritta di traduzione dal latino" e' abrogato.  
+Art. 67. - All'elenco degli insegnamenti complementari del corso di laurea in Pedagogia e' aggiunto quello di "Pedagogia speciale".  
+Dopo l'art. 226, e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli, relativi alla istituzione della Scuola di perfezionamento in Sociologia e ricerca sociale e del corso di specializzazione in Meccanografia per diplomati e laureati in Statistica.  
+Art. 227. - Presso la Facolta' di scienze statistiche, demografiche ad attuariali sono istituite le Scuole di perfezionamento e di specializzazione appresso indicate:  
+Scuola di perfezionamento in Sociologia e ricerca sociale;  
+Corso di specializzazione in Meccanografia (per diplomati e laureati in statistica).  
+Art. 228. - Le Scuole hanno lo scopo di promuovere l'incremento degli studi ai quali ciascuna s'intitola e di integrare o specializzare la preparazione dei laureati nell'ambito di tali studi.  
+Art. 229. - Le Scuole rilasciano i diplomi di perfezionamento o di specializzazione per ciascuna indicati.  
+La dissertazione prevista per l'esame di diploma deve avere carattere di ricerca originale.  
+Art. 230. - Per quanto non previsto dall'ordinamento delle singole Scuole, si applicano le disposizioni generali di cui al Titolo XV dello statuto dell'Universita' di Roma.  
+  
+Scuola di perfezionamento in Sociologia e ricerca sociale  
+  
+Art. 231. Alla Scuola di perfezionamento in sociologia e ricerca sociale sono ammessi i laureati in Scienze statistiche, e su parere del Consiglio della scuola, i laureati di ogni altra Facolta' di Universita' italiane ed estere, ai quali potra' essere richiesto un colloquio a integrazione del curriculum degli studi e degli eventuali altri titoli presentati dai candidati.  
+Art. 232. - La Scuola di perfezionamento ha la durata di due anni, ma il Consiglio della scuola, cui spetta la formazione dei piani di studio individuali, puo' concedere l'abbreviazione ad un anno a quei candidati gia' in possesso di un'adeguata preparazione agli studi sociologici o alla ricerca sociale.  
+Qualora invece il Consiglio ritenga insufficiente la preparazione specifica del candidato, esso potra' imporre l'obbligo di superare presso la Facolta' un certo numero di esami propedeutici nel campo della Statistica, della Demografia, della Economia, del Diritto e della Sociologia.  
+In tal caso il candidato non potra' essere iscritto al successivo anno di corso se non avra' superato i prescritti esami propedeutici e non avra' sostenuto almeno due colloqui relativi ad insegnamenti della Scuola.  
+Art. 233. - Sono materie fondamentali d'insegnamento:  
+1) Teoria degli equilibri sociali;  
+2) Sociologia economica;  
+3) Sociologia giuridica;  
+4) Metodologia e tecnica della ricerca sociale.  
+Sono materie complementari d'insegnamento:  
+1) Cibernetica e teorica dell'informazione;  
+2) Sociologia dei paesi in via di sviluppo;  
+3) Sociologia rurale e urbana;  
+4) Sociologia politica;  
+5) Sociologia del lavoro;  
+6) Sociologia delle civilizzazioni.  
+Art. 234. - Il Consiglio della scuola potra' inserire anche altri corsi tra gli insegnamenti complementari e determinera' ciascun anno quali insegnamenti complementari saranno semestrali e quali annuali, fermo restando che due insegnamenti semestrali equivalgono ad un insegnamento annuale.  
+Art. 235. - Per essere ammessi all'esame di diploma i candidati devono aver superato un colloquio in ciascuna delle materie fondamentali e in 4 insegnamenti complementari.  
+Art. 236. - L'esame di diploma consiste nella preparazione di una dissertazione scritta e nella discussione orale della dissertazione stessa.  
+Art. 237. - La Scuola rilascia un diploma di specializzazione in Sociologia e ricerca sociale.  
+Art. 238. - I diplomati in Statistica e i funzionari degli enti pubblici e privati addetti ad attivita' di ricerche, questi ultimi su richiesta degli Enti dai quali dipendono, possono essere ammessi a frequentare uno o piu' corsi della Scuola. Essi potranno ottenere alla fine del corso un certificato comprovante gli studi compiuti e i voti di profitto riportati.  
+  
+Corso di specializzazione in Meccanografia  
+  
+Art. 239. - Al corso sono ammessi i diplomati e i laureati in Statistica.  
+Art. 240. - La durata del corso e' di un anno.  
+Art. 241. - Sono materie d'insegnamento:  
+1) Principi e tecnica delle applicazioni meccanografiche ed elettroniche;  
+2) Piano d'indagine ed elaborazione meccanografica;  
+3) Elaborazione e rappresentazione dei dati statistici;  
+4) Meccanizzazione dei servizi amministrativi;  
+5) Meccanizzazione dei servizi contabili bancari;  
+6) Meccanizzazione degli istituti di assicurazione e di previdenza;  
+7) Meccanizzazione dei servizi esattoriali;  
+8) Calcoli statistici con gli elaboratori elettronici.  
+Simulazione con gli elaboratori elettronici (Metodo di Montecarlo);  
+9) Concetti statistici e modelli dinamici nella gestione aziendale.  
+Art. 242. - Per ottenere il certificato comprovante la frequenza e il profitto il candidato dovra' superare gli esami degli insegnamenti 1), 2) e 3) e di due fra gli insegnamenti 4) e 9) che saranno realizzati dalla Scuola nell'anno della sua iscrizione e sostenere l'esame finale consistente nella discussione di un progetto originale di lavoro meccanografico od elettronico e in un colloquio su tutti gli argomenti del corso.  
+Art. 280. - All'elenco degli insegnamenti della Scuola di perfezionamento in Filosofia sono aggiunti quelli di:  
+Storia delle dottrine politiche;  
+Filosofia del diritto.  
+Dopo l'art. 540 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli, relativi alla istituzione del corso di perfezionamento in Medicina nucleare.  
+  
+Corso di perfezionamento in Medicina nucleare  
+  
+Art. 541. - Il corso ha la finalita' di fornire una preparazione specifica, teorica e pratica, per l'impiego diagnostico e terapeutico dei radioisotopi e delle radiazioni di alta energia.  
+Art. 542. - Gli insegnamenti del corso di perfezionamento in Medicina nucleare hanno la durata di un anno e sono impartiti in collaborazione dall'Istituto di patologia medica e dall'Istituto di radiologia medica dell'Universita' di Roma.  
+Art. 543. - Il corso e' suddiviso in due sezioni: una di diagnostica radioisotopica e l'altra terapia.  
+Alla sezione diagnostica possono accedere i laureati in Medicina e chirurgia; alla sezione terapeutica possono accedere solo i medici gia' diplomati in Radiologia.  
+E' previsto un concorso per l'ammissione.  
+Art. 544. - Il numero degli iscritti non potra' essere superiore a dieci.  
+Art. 545. - Il corso di perfezionamento in Medicina nucleare consente il conseguimento di due tipi di certificati di frequenza e di esami con la indicazione della sezione prescelta dal candidato.  
+Art. 546. - La direzione del corso viene assunta ad anni alterni dal direttore dell'Istituto di patologia medica e dal direttore dell'Istituto di radiologia medica, i quali concordano preventivamente ogni anno i programmi.  
+Art. 547. - Le materie di insegnamento sono le seguenti:  
+1) Fondamenti di Matematica, di Fisica e di tecnica (elementi di Matematica e di statistica, Fisica generale; Radioattivita'; Fisica delle radiazioni; Strumentazioni e tecniche di rivelazione, Dosimetria; nozioni di Radiochimica).  
+2) Fondamenti biologici (Radiobiologia; impiego dei radioisotopi come traccianti; protezione dalle radiazioni).  
+3) Applicazioni diagnostiche dei radioisotopi (studio morfologico e funzionale degli organi; fegato, rene, pancreas, ghiandole a secrezione interna; studio dell'apparato circolatorio: studio del sistema emolinfopoietico; studio del ricambio; diagnostica dei tumori).  
+4) Applicazioni terapeutiche (fondamenti generali della radioterapia; terapia con radioisotopi introdotti per via interna, radioterapia esterna con radiazioni di alta energia).  
+Gli insegnamenti sono accompagnati da dimostrazioni e da esercitazioni.  
+Art. 548. - Gli iscritti alla sezione di terapia devono, seguire tutti gli insegnamenti di cui al precedente articolo: quelli iscritti alla sezione di diagnostica radioisotopica seguono gli insegnamenti di cui ai numeri 1), 2) e 3).  
+Art. 549. - Le modalita' di svolgimento degli esami di profitto vengono stabilite di anno in anno e comunicate in un apposito manifesto annuale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma addi' 19 ottobre 1960
+### Dato a Sassari, addi' 31 dicembre 1963
 
-GRONCHI BOSCO
+SEGNI GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 22 dicembre 1960
+Registrato alla corte dei conti, addi' 10 marzo 1964
 
-Atti del Governo, registro n. 132, foglio n. 115. - VILLA
+Atti del Governo, registro n. 182, foglio n. 1. - VILLA

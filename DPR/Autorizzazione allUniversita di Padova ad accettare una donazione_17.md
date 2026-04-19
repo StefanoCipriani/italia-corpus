@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1948 n. 1434
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1954 n. 162
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1948 n. 1434
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1954 n. 162
+============================================================
 
 Autorizzazione all'Universita' di Padova ad accettare una donazione.
 --------------------------------------------------------------------
@@ -12,7 +12,8 @@ Art. 1
 
 N.
 
-1434. Decreto del Presidente della Repubblica 14 settembre 1948, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Padova viene autorizzata ad accettare la donazione della somma di L. 1.000.000 nominali, in titoli di Stato, Rendita 5%, disposta in suo favore dal marchese Antonio da Buzzaccarini, con atto pubblico in data 4 febbraio 1948, per l'istituzione di un premio di studio biennale da intitolarsi "Premio N. H. Marchese Pier Galeazzo de Buzzaccarini".  
+162. Decreto del Presidente della Repubblica 2 marzo 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Padova viene autorizzata ad accettare la donazione di una biblioteca di circa 10.000 volumi del valore di L. 5.000.000 e di un quadro raffigurante le sembianze del defunto prof. Emilio Bodrero, disposta in suo favore dalla signora Nina Romanin Jacur fu Emanuele, consorte del predetto professore, con atto pubblico amministrativo in data 29 novembre 1952.  
   
-Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 15 dicembre 1948
+Visto, il Guardasigilli: DE PIETRO  
+Registrato alla Corte dei conti, addi' 17 aprile 1954  
+Atti del Governo, registro n. 82, foglio n. 124. - CARLOMAGNO

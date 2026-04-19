@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 1116
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1985 n. 586
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 1116
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1985 n. 586
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -26,7 +26,7 @@ Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?
 
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
 
-Veduto il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio universitario nazionale;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
@@ -39,21 +39,22 @@ Articolo unico
 --------------
 
   
-Nell'art. 118, relativo al corso di laurea in scienze geologiche, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-paleontologia stratigrafica;  
-complementi di mineralogia e pietrografia;  
-speleologia.  
+Nell'art. 97, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
+virologia applicata alla epidemiologia;  
+medicina d'urgenza.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 giugno 1983
+### Dato a Roma, addi' 13 maggio 1985
 
-PERTINI FALCUCCI
+PERTINI
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 22 marzo 1984
+Registrato alla Corte dei conti, addi' 17 ottobre 1985
 
-Registro n. 17 Istruzione, foglio n. 357
+Registro n. 69 Istruzione, foglio n. 252

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1966 n. 104
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1963 n. 645
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1966 n. 104
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1963 n. 645
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
@@ -10,576 +10,276 @@ Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
+Veduta lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), modificato con regio, decreto 5 ottobre 1939, n. 1743 e successivi;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico, delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+Veduto, il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche, dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro, per la pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 29. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti quelli di:
+Art. 23. - Agli insegnamenti complementari del corso di laurea in Economia e Commercio sono aggiunti quelli di "Economia e finanza delle imprese di assicurazione" e di "Storia delle dottrine economiche".
 
-Epigrafia greca;
+Art. 35. - Agli insegnamenti complementari del corso di laurea in Materie letterarie e' aggiunto quello di:
 
-Archeologia cristiana;
+"Istituzioni giuridiche ed economiche della Sardegna".
 
-Storia economica;
+Art. 36. - Agli insegnamenti, complementari del corso di laurea in Pedagogia e' aggiunto quello di "Istituzioni giuridiche ed economiche della Sardegna".
 
-Storia della critica letteraria;
+Art. 50. - Agli insegnamenti complementari del corso di laurea in Medicina e Chirurgia sono aggiunti quelli di "Genetica medica" di "Clinica delle malattie infettive" e di "Fisica nucleare applicata alla medicina".
 
-Storia del teatro italiano;
+Art. 51. - E' abrogato e sostituito dal seguente:
 
-Filologia germanica;
+La Facolta' di Scienze matematiche fisiche e naturali conferisce le seguenti lauree:
 
-Antropologia culturale;
+in Matematica;
 
-Sociologia;
+in Fisica;
 
-Papirologia.
+in Chimica;
 
-Art. 30, - Agli insegnamenti complementari del corso di laurea in Filosofia sono aggiunti quelli di:
+in Scienze naturali;
 
-Filosofia della scienza;
+in Scienze biologiche;
 
-Antropologia culturale;
+in Scienze geologiche.
 
-Sociologia;
+Art. 55. - Agli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti quelli di "Oceanografia" e di "Idrobiologia e Pescicoltura".
 
-Logica.
+Art. 58. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti quelli di "Oceanografia" e di "Idrobiologia e pescicoltura".
 
-Art. 52. - Nell'elenco degli insegnamenti fondamentali per l'indirizzo applicativo del corso di laurea in Matematica, l'insegnamento di "Calcolo delle probabilita'", e' spostato al terzo anno degli insegnamenti fondamentali comuni a tutti gli indirizzi.
+Dopo l'art. 58 e con il conseguente spostamento della successiva numerazione e' aggiunto il seguente articolo relativo alla istituzione del corso di laurea in Scienze geologiche.
 
-Art. 62. - L'insegnamento fondamentale di "Mineralogia" (gruppo B) del 2° anno del biennio del corso di laurea in Ingegneria mineraria e' soppresso.
+Art. 59. - La durata del corso di studi per la laurea in Scienze geologiche e' di quattro anni.
 
-L'insegnamento di petrografia (gruppo B) del triennio di applicazione del predetto corso di laurea e' abrogato. Al loro posto viene istituito l'insegnamento di "Mineralogia e petrografia" (gruppo B) che e' collocato tra gli insegnamenti del triennio di applicazione.
+Titolo di ammissione sono il diploma di maturita' classica o il diploma di maturita' scientifica. Sono, inoltre, ammessi i diplomati degli Istituti tecnici industriali, nautici, agrari e per geometri, ai sensi delle vigenti disposizioni di legge.
 
-Nell'orientamento A) gli insegnamenti a scelta dello studente di "Tecnologie generali" (gruppo C) e "Tecnologie speciali minerarie" (gruppo C) sono soppressi e sostituiti dai seguenti:
+Sono insegnamenti fondamentali:
 
-31) Tecnologie meccaniche (gruppo C);
+1) Istituzioni di matematiche;
 
-32) Tecnologie speciali metallurgiche (gruppo C);
+2) Fisica sperimentale (biennale);
 
-33) Controlli automatici (gruppo C).
+3) Chimica generale ed inorganica con elementi di organica;
 
-Nell'orientamento C) a scelta dello studente e' aggiunto l'insegnamento di "Complementi di mineralogia e di petrografia" (gruppo C).
+4) Mineralogia;
 
-Gli articoli 89 e 90, relativi alla Scuola di specializzazione in pediatria sono abrogati e sostituiti dai seguenti:
+5) Geologia;
 
-Art. 92 (gia' 89). - La durata dei corsi e' di tre anni.
+6) Geologia applicata;
 
-Art. 93 (gia' 90). - Le materie d'insegnamento sono le seguenti distribuite nei tre anni di corso:
+7) Paleontologia;
 
-1° Anno:
+8) Geografia;
 
-1) Nozioni di embriologia e di anatomia del periodo evolutivo (annuale);
+9) Geografia fisica;
 
-2) Puericultura con particolare riguardo alla fisiologia di tale periodo evolutivo ed in esso, dei processi dell'accrescimento, dell'alimentazione e della nutrizione (biennale);
+10) Topografia e cartografia;
 
-3) Patologia del neonato (annuale);
+11) Fisica terrestre;
 
-4) Anatomia patologica;
+12) Petrografia.
 
-5) Malattie oculari dei bambini (annuale);
+Sono insegnamenti complementari:
 
-6) Semeiotica e tecnica pediatrica (biennale);
+1) Chimica organica;
 
-7) Genetica medica.
+2) Chimica fisica
 
-2° Anno:
+3) Geochimica;
 
-1) Clinica pediatrica (biennale);
+4) Astronomia;
 
-2) Semeiotica e tecnica pediatrica (biennale);
+5) Geodesia;
 
-3) Anatomia patologica (biennale);
+6) Zoologia;
 
-4) Malattie infettive dell'infanzia (biennale);
+7) Botanica;
 
-5) Otorinolaringoiatria infantile;
+8) Antropologia;
 
-6) Dermosifilopatica;
+9) Etnologia;
 
-7) Puericultura, con particolare estensione ai suoi aspetti sociali ed igienici e legislazione scolastica (biennale).
+10) Geografia economica;
 
-Gli articoli 104 e 105, relativi alla Scuola di specializzazione in clinica oculistica sono abrogati e sostituiti dai seguenti:
+11) Vulcanologia;
 
-Art. 106 (gia' 104). - La durata dei corsi e' di quattro anni e il numero complessivo degli iscritti e' di 25.
+12) Analisi matematica (algebrica e infinitesimale) (biennale);
 
-Art. 107 (gia' 105). - Gli insegnamenti impartiti dalla Scuola sono i seguenti:
+13) Meccanica razionale, con elementi di statica grafica e disegno;
 
-1° Anno:
+14) Statistica;
 
-1) Anatomia ed istologia dell'apparato oculare;
+15) Giacimenti minerari;
 
-2) Nozioni di embriologia e genetica oculare;
+16) Sedimentologia;
 
-3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;
+17) Micropaleontologia;
 
-4) Nozioni di ottica fisiologica, esame della rifrazione;
+18) Geologia regionale, con esercitazioni;
 
-5) Microbiologia ed igiene oculare.
+19) Rilevamento geologico, con esercitazioni di campagna.
 
-2° Anno:
+Gli insegnamenti di Botanica e di Zoologia debbono avere indirizzo biografico.
 
-1) Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmoscopia, perimetria, campimetria, adattometria, senso cromatico, tonometria, tonografia, esami elettrofunzionali, radiologia);
+L'insegnamento di "Analisi matematica" sara' impartito da due professionale ciascuno dei quali insegnera' alternativamente e Analisi algebrica" per il primo anno ed "Analisi infinitesimale" per il secondo anno; lo studente dovra' sostenere due esami distinti.
 
-2) Farmacologia oculare e terapia fisica;
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali, ed almeno in quattro da lui scelti fra i complementari.
 
-3) Anatomia patologica oculare;
+Lo studente deve inoltre frequentare il Laboratorio di geologia (o di mineralogia) per due anni e per un anno quello di mineralogia (o di geologia).
 
-4) Patologia e clinica oculare (malattia delle palpebre, della congiuntiva, delle vie lacrimali, della cornea o della sclera).
+L'ordine delle frequenze e' il seguente: Chimica generale ed inorganica prima di Mineralogia; Analisi matematica (algebrica e infinitesimale) e Meccanica razionale, prima di Geodesia;
 
-3° Anno:
+Mineralogia, prima di Petrografia.
 
-1) Patologia e clinica oculare (malattie del cristallino, del vitreo, dell'urea, della retina, del nervo ottico e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita, glaucoma);
+Negli esami debbono essere rispettate le seguenti precedenze:
 
-2) Anomalie e patologia della motilita' oculare e della visione binoculare. Ortottica e pleottica;
+Istituzioni di matematiche prima di Fisica sperimentale;
 
-3) Affezioni otorinolaringoiatriche e occhio;
+Fisica terrestre e Statistica;
 
-4) Tecnica operatoria (1ª parte).
+Analisi matematica (algebrica e infinitesimale), prima di Geodesia;
 
-4° Anno:
+Chimica generale ed inorganica, prima di Mineralogia;
 
-1) Neurooftalmologia;
+Mineralogia, prima di Petrografia;
 
-2) Malattie oculari in rapporto ad affezioni generali;
+Mineralogia e Petrografia e Paleontologia, prima di Geologia.
 
-3) Malattie professionali. Infortunistica e medicina legale oculare;
+Art. 77, relativo alle abbreviazioni di corso per le scuole di specializzazione annesse alla Facolta' di medicina e chirurgia e' abrogato e sostituito dal seguente:
 
-4) Tecnica operatoria (2ª parte).
+"Il Consiglio della scuola puo' esonerare, su proposta del direttore da uno e piu' anni di frequenza, i laureati che siano stati assistenti effettivi, straordinari, incaricati o volontari, nonche' gli assistenti ospedalieri addetti agli Istituti universitari della materia; la stessa concessione puo' essere fatta ai laureati, che abbiano prestato servizio di assistenti effettivi o incaricati in reparti ospedalieri di I e di II categoria. Per gli assistenti volontari degli Istituti universitari, per gli assistenti ospedalieri e' necessario che la proposta sia preceduta da un colloquio d'esame col direttore della scuola e che la decisione sia convalidata dal Consiglio della Facolta'".
 
-Gli esami di profitto si danno alla fine di ciascun anno.
+Art. 122, relativo alla Scuola di specializzazione in Stomatologia e' abrogato e sostituito dal seguente:
 
-Alla fine del corso gli iscritti, oltre a presentare la dissertazione scritta ed a sostenere la relativa discussione a norma dell'art. 84 del presente statuto, devono sostenere una prova pratica sull'ammalato.
-
-L'art. 111, relativo alla Scuola di specializzazione in neurologia e psichiatria e' abrogato e sostituito dal seguente.
-
-Art. 113 (gia' 111). - Le materie di insegnamento sono le seguenti distribuite in tre anni di corso:
-
-1) Istologia e anatomia umana normale;
-
-2) Fisiologia applicata del sistema nervoso;
-
-3) Istologia ed anatomia patologica;
-
-4) Clinica delle malattie nervose e mentali (triennale);
-
-5) Clinica oculistica (in rapporto alle malattie del sistema nervoso);
-
-6) Semeiologia dell'udito e dell'apparato vestibolare;
-
-7) Psicologia, psicopatologia e psichiatria;
-
-8) Psicopatologia forense, medicina legale e infortunistica inerente al sistema nervoso;
-
-9) Elementi di neurochirurgia;
-
-10) Tecniche diagnostiche e di laboratorio (esercizi) (triennale).
-
-Alla fine del primo anno gli esami verteranno su:
-
-1) Istologia ed anatomia umana normale;
-
-2) Fisiologia applicata del sistema nervoso;
-
-3) Clinica delle malattie nervose e mentali (semeiologia, neurologia e psichiatria) (1° anno);
-
-4) Tecniche diagnostiche e di laboratorio (esercizi).
-
-Alla fine del secondo anno gli esami verteranno su:
-
-1) Istologia ed anatomia patologica;
-
-2) Clinica oculistica (in rapporto alle malattie del sistema nervoso);
-
-3) Semeiologia dell'udito e dell'apparato vestibolare;
-
-4) Clinica delle malattie nervose e mentali (anatomia clinica) (20 anno);
-
-5) Tecniche diagnostiche e di laboratorio (esercizi).
-
-Alla fine del terzo anno gli esami verteranno su:
-
-1) Psicopatologia forense, medicina legale e infortunistica inerente al sistema nervoso;
-
-2) Elementi di neurochirurgia;
-
-3) Psicologia, psicopatologia e psichiatria;
-
-4) Clinica delle malattie nervose e mentali (terzo anno);
-
-5) Tecniche diagnostiche e di laboratorio (esercizi).
-
-Dopo l'art. 147, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione delle Scuole di specializzazione in igiene e medicina scolastica, in malattie endocrine e metaboliche, in gerontologia e geriatria.
-
-Scuola di specializzazione in igiene e medicina scolastica
-
-Art. 148. - Alla Facolta' di medicina e chirurgia e' annessa una Scuola di specializzazione in "Igiene e medicina scolastica" con sede presso l'Istituto di igiene di questa Universita'.
-
-La direzione della Scuola sara' tenuta per un biennio, alternativamente, dal direttore della clinica pediatrica e dal cattedratico, di ruolo o fuori ruolo, di igiene.
-
-Art. 149. - La durata del corso e' di due anni e il numero degli iscritti e' di venti per ogni corso.
-
-Art. 150. - Le materie d'insegnamento sono le seguenti, distribuite nei due anni di corso.
-
-1° Anno:
-
-1) Demografia, statistica sanitaria e medicina sociale;
-
-2) Igiene dell'alimentazione;
-
-3) Igiene scolastica e legislazione scolastica;
-
-4) Patologia e clinica delle malattie proprie dell'eta' scolare (10 corso);
-
-5) Epidemiologia e profilassi delle malattie proprie dell'eta' scolare (10 corso);
-
-6) Diagnostica di laboratorio delle malattie infettive e parassitarie dell'eta' scolare.
-
-2° Anno:
-
-1) Pedagogia e ortofrenia;
-
-2) Psicologia del lavoro mentale e psicologia sperimentale;
-
-3) Auxologia ed educazione fisica;
-
-4) Patologia e clinica delle malattie proprie dell'eta' scolare (20 corso);
-
-5) Epidemiologia e profilassi delle malattie proprie dell'eta' scolare (20 corso);
-
-6) Fisiopatologia dell'eta' puberale;
-
-7) Psiconeurologia dell'eta' scolastica.
-
-Gli insegnamenti sono integrati da esercitazioni teoriche e pratiche. Saranno altresi' tenute conferenze su argomenti attinenti all'igiene, alla organizzazione di assistenza medico-scolastica ed alla neuropsichiatria infantile.
-
-Alla fine di ciascun anno di corso gli studenti iscritti dovranno sostenere le prove degli insegnamenti annuali, mentre quelle degli insegnamenti biennali saranno sostenuti alla fine del secondo corso.
-
-Gli iscritti dovranno seguire turni di internato secondo gli orari stabiliti dalla Direzione della scuola.
-
-L'esame di diploma consiste nella discussione di una dissertazione scritta.
-
-Scuola di specializzazione in malattie endocrine e metaboliche
-
-Art. 151. - Alla Facolta' di medicina e chirurgia e' annessa una Scuola di specializzazione delle malattie endocrine e metaboliche con sede presso l'Istituto di clinica medica generale, il cui direttore e' anche direttore della Scuola.
-
-Art. 152. - Alla Scuola di specializzazione vengono ammessi i laureati in Medicina e chirurgia in numero di 30 per l'intero corso.
-
-Nel caso che le domande di iscrizione al 1° anno superino il numero compatibile con la disposizione di cui sopra, l'ammissione sara' subordinata all'esito di un concorso per titoli ed esami.
-
-Il direttore puo' concedere l'iscrizione al 20 anno di corso a chi, essendo in possesso dei requisiti citati dal titolo X, art. 80, dello statuto dell'Universita' di Cagliari, abbia conseguito l'abilitazione alla libera docenza in Clinica medica generale, Patologia speciale medica o Semeiotica medica.
-
-Art. 153. - La durata dei corsi e' di 2 anni.
-
-Art. 154. - Durante il secondo anno di corso verranno tenute esercitazioni di clinica delle malattie endocrine e del metabolismo, di diagnostica di laboratorio ed altre di indole pratica.
-
-I corsi saranno integrati da conferenze su argomenti scelti dal direttore della Scuola; esse saranno dedicate a problemi endocrinologici e metabolici che interessino branche specialistiche della medicina.
-
-Gli iscritti hanno l'obbligo della frequenza ai corsi, alle conferenze ed alle esercitazioni sia teoriche che pratiche e non possono essere ammessi all'anno di corso successivo se non avranno superato gli esami dell'anno cui sono iscritti.
-
-Art. 155. - L'esame di diploma consistera' nella presentazione e discussione di una dissertazione scritta su un argomento riguardante le malattie endocrine e metaboliche, il cui argomento dovra' essere concordato col direttore della Scuola all'inizio del 20 anno. La dissertazione dovra' essere approvata dallo stesso direttore e depositata presso la Direzione almeno quindici giorni prima dell'esame.
-
-Art. 165. - Le materie di insegnamento sono i seguenti:
-
-1° Anno:
-
-1) Anatomia, istologica ed embriologia delle ghiandole endocrine (annuale);
-
-2) Biochimica e fisiologia delle ghiandole endocrine e del metabolismo (annuale);
-
-3) Semeiotica clinica e funzionale delle malattie endocrine e metaboliche (biennale);
-
-4) Patologia medica delle malattie endocrine a metaboliche (biennale);
-
-5) CLinica e terapia medica delle malattie endocrine e metaboliche (biennale).
-
-2° Anno:
-
-1) Clinica e terapia medica delle malattie endocrine e metaboliche (biennale);
-
-2) Patologia medica delle malattie endocrine 4 metaboliche (biennale); - 3) Semeiotica clinica e funzionale delle malattie endocrine e metaboliche (biennale);
-
-4) Malattie endocrine e metaboliche in ginecologia ed ostetricia (annuale);
-
-5) Malattie endocrine e metaboliche dell'eta' infantile (annuale);
-
-6) Malattie endocrine e metaboliche e neuropsichiatria;
-
-7) Chirurgia delle ghiandole endocrine (annuale);
-
-8) Anatomia patologica delle malattie endocrino e del metabolismo (annuale).
-
-Scuola di specializzazione in gerontologia e geriatria
-
-Art. 157. - Alla Facolta' di medicina e chirurgia e' annessa una Scuola di specializzazione in gerontologia e geriatria con sede presso l'Istituto di clinica medica generale, il cui direttore e' anche direttore della Scuola.
-
-Art. 158. - Alla Scuola di specializzazione vengono ammessi i laureati in Medicina e chirurgia in numero di 30 per l'intero corso.
-
-Nel caso che le domande di iscrizione al 1° anno superino il numero compatibile con la disposizione di cui sopra, l'ammissione sara' subordinata all'esito di un concorso per titoli ed esami.
-
-Il direttore puo' concedere l'iscrizione al 20 anno di corso a chi, essendo in possesso dei requisiti citati dal titolo X, art. 80, dello statuto dell'Universita' di Cagliari, abbia conseguito l'abilitazione alla libera docenza in Clinica medica generale, Patologia speciale medica e Semeiotica medica.
-
-Art. 159. - La durata dei corsi e' di 2 anni.
-
-Art. 160. - Gli iscritti hanno l'obbligo della frequenza ai corsi ed alle esercitazioni teoriche e pratiche e non potranno essere ammessi all'anno di corso successivo se prima non avranno superato gli esami dell'anno cui sono iscritti.
-
-I corsi sono integrati da conferenze dedicate ai problemi geriatrici interessanti le varie branche della medicina e chirurgia (ginecologia, oculistica, dermatologia, otorinolaringologia, stomatologia).
-
-Art. 161. - L'esame di diploma consistera' nella presentazione e discussione di una dissertazione scritta su argomento riguardante la Gerontologia e geriatria, il cui argomento dovra' essere concordato col direttore della Scuola all'inizio del secondo anno. La dissertazione dovra' essere approvata dallo stesso direttore e depositata presso la Direzione almeno quindici giorni prima dell'esame.
-
-Art. 162. - Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-1) Fisiologia della senescenza;
-
-2) Anatomia patologica;
-
-3) Semeiologia fisica e funzionale;
-
-4) Patologia medica geriatrica;
-
-5) Radiologia.
-
-2° Anno:
-
-1) Clinica geriatrica generale e terapia geriatrica;
-
-2) Neuropsichiatria geriatrica;
-
-3) Chirurgia geriatrica;
-
-4) Medicina sociale (assistenziale, gerontocomiale, attitudini lavorative).
+"Alla Scuola di specializzazione vengono ammessi i laureati in Medicina e Chirurgia in numero di dodici per anno. L'ammissione si fa previo concorso per titoli ed esami".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 8 febbraio 1966
+Dato a Roma, addi' 14 marzo 1963
 
-SARAGAT
+SEGNI
 
 GUI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BOSCO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 12 marzo 1966 Atti del Governo, registro n. 202, foglio n. 26. - VILLA
+alla Corte dei conti, addi' 8 maggio 1963 Atti del Governo, registro n. 169, foglio n. 7. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), modificato con regio, decreto 5 ottobre 1939, n. 1743 e successivi;  
+Veduto il testo unico, delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto, il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Vedute le proposte di modifiche, dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro, per la pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 29. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti quelli di:  
-Epigrafia greca;  
-Archeologia cristiana;  
-Storia economica;  
-Storia della critica letteraria;  
-Storia del teatro italiano;  
-Filologia germanica;  
-Antropologia culturale;  
-Sociologia;  
-Papirologia.  
-Art. 30, - Agli insegnamenti complementari del corso di laurea in Filosofia sono aggiunti quelli di:  
-Filosofia della scienza;  
-Antropologia culturale;  
-Sociologia;  
-Logica.  
-Art. 52. - Nell'elenco degli insegnamenti fondamentali per l'indirizzo applicativo del corso di laurea in Matematica, l'insegnamento di "Calcolo delle probabilita'", e' spostato al terzo anno degli insegnamenti fondamentali comuni a tutti gli indirizzi.  
-Art. 62. - L'insegnamento fondamentale di "Mineralogia" (gruppo B) del 2° anno del biennio del corso di laurea in Ingegneria mineraria e' soppresso.  
-L'insegnamento di petrografia (gruppo B) del triennio di applicazione del predetto corso di laurea e' abrogato. Al loro posto viene istituito l'insegnamento di "Mineralogia e petrografia" (gruppo B) che e' collocato tra gli insegnamenti del triennio di applicazione.  
-Nell'orientamento A) gli insegnamenti a scelta dello studente di "Tecnologie generali" (gruppo C) e "Tecnologie speciali minerarie" (gruppo C) sono soppressi e sostituiti dai seguenti:  
-31) Tecnologie meccaniche (gruppo C);  
-32) Tecnologie speciali metallurgiche (gruppo C);  
-33) Controlli automatici (gruppo C).  
-Nell'orientamento C) a scelta dello studente e' aggiunto l'insegnamento di "Complementi di mineralogia e di petrografia" (gruppo C).  
-Gli articoli 89 e 90, relativi alla Scuola di specializzazione in pediatria sono abrogati e sostituiti dai seguenti:  
-Art. 92 (gia' 89). - La durata dei corsi e' di tre anni.  
-Art. 93 (gia' 90). - Le materie d'insegnamento sono le seguenti distribuite nei tre anni di corso:  
-1° Anno:  
-1) Nozioni di embriologia e di anatomia del periodo evolutivo (annuale);  
-2) Puericultura con particolare riguardo alla fisiologia di tale periodo evolutivo ed in esso, dei processi dell'accrescimento, dell'alimentazione e della nutrizione (biennale);  
-3) Patologia del neonato (annuale);  
-4) Anatomia patologica;  
-5) Malattie oculari dei bambini (annuale);  
-6) Semeiotica e tecnica pediatrica (biennale);  
-7) Genetica medica.  
-2° Anno:  
-1) Clinica pediatrica (biennale);  
-2) Semeiotica e tecnica pediatrica (biennale);  
-3) Anatomia patologica (biennale);  
-4) Malattie infettive dell'infanzia (biennale);  
-5) Otorinolaringoiatria infantile;  
-6) Dermosifilopatica;  
-7) Puericultura, con particolare estensione ai suoi aspetti sociali ed igienici e legislazione scolastica (biennale).  
-Gli articoli 104 e 105, relativi alla Scuola di specializzazione in clinica oculistica sono abrogati e sostituiti dai seguenti:  
-Art. 106 (gia' 104). - La durata dei corsi e' di quattro anni e il numero complessivo degli iscritti e' di 25.  
-Art. 107 (gia' 105). - Gli insegnamenti impartiti dalla Scuola sono i seguenti:  
-1° Anno:  
-1) Anatomia ed istologia dell'apparato oculare;  
-2) Nozioni di embriologia e genetica oculare;  
-3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;  
-4) Nozioni di ottica fisiologica, esame della rifrazione;  
-5) Microbiologia ed igiene oculare.  
-2° Anno:  
-1) Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmoscopia, perimetria, campimetria, adattometria, senso cromatico, tonometria, tonografia, esami elettrofunzionali, radiologia);  
-2) Farmacologia oculare e terapia fisica;  
-3) Anatomia patologica oculare;  
-4) Patologia e clinica oculare (malattia delle palpebre, della congiuntiva, delle vie lacrimali, della cornea o della sclera).  
-3° Anno:  
-1) Patologia e clinica oculare (malattie del cristallino, del vitreo, dell'urea, della retina, del nervo ottico e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita, glaucoma);  
-2) Anomalie e patologia della motilita' oculare e della visione binoculare. Ortottica e pleottica;  
-3) Affezioni otorinolaringoiatriche e occhio;  
-4) Tecnica operatoria (1ª parte).  
-4° Anno:  
-1) Neurooftalmologia;  
-2) Malattie oculari in rapporto ad affezioni generali;  
-3) Malattie professionali. Infortunistica e medicina legale oculare;  
-4) Tecnica operatoria (2ª parte).  
-Gli esami di profitto si danno alla fine di ciascun anno.  
-Alla fine del corso gli iscritti, oltre a presentare la dissertazione scritta ed a sostenere la relativa discussione a norma dell'art. 84 del presente statuto, devono sostenere una prova pratica sull'ammalato.  
-L'art. 111, relativo alla Scuola di specializzazione in neurologia e psichiatria e' abrogato e sostituito dal seguente.  
-Art. 113 (gia' 111). - Le materie di insegnamento sono le seguenti distribuite in tre anni di corso:  
-1) Istologia e anatomia umana normale;  
-2) Fisiologia applicata del sistema nervoso;  
-3) Istologia ed anatomia patologica;  
-4) Clinica delle malattie nervose e mentali (triennale);  
-5) Clinica oculistica (in rapporto alle malattie del sistema nervoso);  
-6) Semeiologia dell'udito e dell'apparato vestibolare;  
-7) Psicologia, psicopatologia e psichiatria;  
-8) Psicopatologia forense, medicina legale e infortunistica inerente al sistema nervoso;  
-9) Elementi di neurochirurgia;  
-10) Tecniche diagnostiche e di laboratorio (esercizi) (triennale).  
-Alla fine del primo anno gli esami verteranno su:  
-1) Istologia ed anatomia umana normale;  
-2) Fisiologia applicata del sistema nervoso;  
-3) Clinica delle malattie nervose e mentali (semeiologia, neurologia e psichiatria) (1° anno);  
-4) Tecniche diagnostiche e di laboratorio (esercizi).  
-Alla fine del secondo anno gli esami verteranno su:  
-1) Istologia ed anatomia patologica;  
-2) Clinica oculistica (in rapporto alle malattie del sistema nervoso);  
-3) Semeiologia dell'udito e dell'apparato vestibolare;  
-4) Clinica delle malattie nervose e mentali (anatomia clinica) (20 anno);  
-5) Tecniche diagnostiche e di laboratorio (esercizi).  
-Alla fine del terzo anno gli esami verteranno su:  
-1) Psicopatologia forense, medicina legale e infortunistica inerente al sistema nervoso;  
-2) Elementi di neurochirurgia;  
-3) Psicologia, psicopatologia e psichiatria;  
-4) Clinica delle malattie nervose e mentali (terzo anno);  
-5) Tecniche diagnostiche e di laboratorio (esercizi).  
-Dopo l'art. 147, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione delle Scuole di specializzazione in igiene e medicina scolastica, in malattie endocrine e metaboliche, in gerontologia e geriatria.  
-Scuola di specializzazione in igiene e medicina scolastica  
-Art. 148. - Alla Facolta' di medicina e chirurgia e' annessa una Scuola di specializzazione in "Igiene e medicina scolastica" con sede presso l'Istituto di igiene di questa Universita'.  
-La direzione della Scuola sara' tenuta per un biennio, alternativamente, dal direttore della clinica pediatrica e dal cattedratico, di ruolo o fuori ruolo, di igiene.  
-Art. 149. - La durata del corso e' di due anni e il numero degli iscritti e' di venti per ogni corso.  
-Art. 150. - Le materie d'insegnamento sono le seguenti, distribuite nei due anni di corso.  
-1° Anno:  
-1) Demografia, statistica sanitaria e medicina sociale;  
-2) Igiene dell'alimentazione;  
-3) Igiene scolastica e legislazione scolastica;  
-4) Patologia e clinica delle malattie proprie dell'eta' scolare (10 corso);  
-5) Epidemiologia e profilassi delle malattie proprie dell'eta' scolare (10 corso);  
-6) Diagnostica di laboratorio delle malattie infettive e parassitarie dell'eta' scolare.  
-2° Anno:  
-1) Pedagogia e ortofrenia;  
-2) Psicologia del lavoro mentale e psicologia sperimentale;  
-3) Auxologia ed educazione fisica;  
-4) Patologia e clinica delle malattie proprie dell'eta' scolare (20 corso);  
-5) Epidemiologia e profilassi delle malattie proprie dell'eta' scolare (20 corso);  
-6) Fisiopatologia dell'eta' puberale;  
-7) Psiconeurologia dell'eta' scolastica.  
-Gli insegnamenti sono integrati da esercitazioni teoriche e pratiche. Saranno altresi' tenute conferenze su argomenti attinenti all'igiene, alla organizzazione di assistenza medico-scolastica ed alla neuropsichiatria infantile.  
-Alla fine di ciascun anno di corso gli studenti iscritti dovranno sostenere le prove degli insegnamenti annuali, mentre quelle degli insegnamenti biennali saranno sostenuti alla fine del secondo corso.  
-Gli iscritti dovranno seguire turni di internato secondo gli orari stabiliti dalla Direzione della scuola.  
-L'esame di diploma consiste nella discussione di una dissertazione scritta.  
-Scuola di specializzazione in malattie endocrine e metaboliche  
-Art. 151. - Alla Facolta' di medicina e chirurgia e' annessa una Scuola di specializzazione delle malattie endocrine e metaboliche con sede presso l'Istituto di clinica medica generale, il cui direttore e' anche direttore della Scuola.  
-Art. 152. - Alla Scuola di specializzazione vengono ammessi i laureati in Medicina e chirurgia in numero di 30 per l'intero corso.  
-Nel caso che le domande di iscrizione al 1° anno superino il numero compatibile con la disposizione di cui sopra, l'ammissione sara' subordinata all'esito di un concorso per titoli ed esami.  
-Il direttore puo' concedere l'iscrizione al 20 anno di corso a chi, essendo in possesso dei requisiti citati dal titolo X, art. 80, dello statuto dell'Universita' di Cagliari, abbia conseguito l'abilitazione alla libera docenza in Clinica medica generale, Patologia speciale medica o Semeiotica medica.  
-Art. 153. - La durata dei corsi e' di 2 anni.  
-Art. 154. - Durante il secondo anno di corso verranno tenute esercitazioni di clinica delle malattie endocrine e del metabolismo, di diagnostica di laboratorio ed altre di indole pratica.  
-I corsi saranno integrati da conferenze su argomenti scelti dal direttore della Scuola; esse saranno dedicate a problemi endocrinologici e metabolici che interessino branche specialistiche della medicina.  
-Gli iscritti hanno l'obbligo della frequenza ai corsi, alle conferenze ed alle esercitazioni sia teoriche che pratiche e non possono essere ammessi all'anno di corso successivo se non avranno superato gli esami dell'anno cui sono iscritti.  
-Art. 155. - L'esame di diploma consistera' nella presentazione e discussione di una dissertazione scritta su un argomento riguardante le malattie endocrine e metaboliche, il cui argomento dovra' essere concordato col direttore della Scuola all'inizio del 20 anno. La dissertazione dovra' essere approvata dallo stesso direttore e depositata presso la Direzione almeno quindici giorni prima dell'esame.  
-Art. 165. - Le materie di insegnamento sono i seguenti:  
-1° Anno:  
-1) Anatomia, istologica ed embriologia delle ghiandole endocrine (annuale);  
-2) Biochimica e fisiologia delle ghiandole endocrine e del metabolismo (annuale);  
-3) Semeiotica clinica e funzionale delle malattie endocrine e metaboliche (biennale);  
-4) Patologia medica delle malattie endocrine a metaboliche (biennale);  
-5) CLinica e terapia medica delle malattie endocrine e metaboliche (biennale).  
-2° Anno:  
-1) Clinica e terapia medica delle malattie endocrine e metaboliche (biennale);  
-2) Patologia medica delle malattie endocrine 4 metaboliche (biennale); - 3) Semeiotica clinica e funzionale delle malattie endocrine e metaboliche (biennale);  
-4) Malattie endocrine e metaboliche in ginecologia ed ostetricia (annuale);  
-5) Malattie endocrine e metaboliche dell'eta' infantile (annuale);  
-6) Malattie endocrine e metaboliche e neuropsichiatria;  
-7) Chirurgia delle ghiandole endocrine (annuale);  
-8) Anatomia patologica delle malattie endocrino e del metabolismo (annuale).  
-Scuola di specializzazione in gerontologia e geriatria  
-Art. 157. - Alla Facolta' di medicina e chirurgia e' annessa una Scuola di specializzazione in gerontologia e geriatria con sede presso l'Istituto di clinica medica generale, il cui direttore e' anche direttore della Scuola.  
-Art. 158. - Alla Scuola di specializzazione vengono ammessi i laureati in Medicina e chirurgia in numero di 30 per l'intero corso.  
-Nel caso che le domande di iscrizione al 1° anno superino il numero compatibile con la disposizione di cui sopra, l'ammissione sara' subordinata all'esito di un concorso per titoli ed esami.  
-Il direttore puo' concedere l'iscrizione al 20 anno di corso a chi, essendo in possesso dei requisiti citati dal titolo X, art. 80, dello statuto dell'Universita' di Cagliari, abbia conseguito l'abilitazione alla libera docenza in Clinica medica generale, Patologia speciale medica e Semeiotica medica.  
-Art. 159. - La durata dei corsi e' di 2 anni.  
-Art. 160. - Gli iscritti hanno l'obbligo della frequenza ai corsi ed alle esercitazioni teoriche e pratiche e non potranno essere ammessi all'anno di corso successivo se prima non avranno superato gli esami dell'anno cui sono iscritti.  
-I corsi sono integrati da conferenze dedicate ai problemi geriatrici interessanti le varie branche della medicina e chirurgia (ginecologia, oculistica, dermatologia, otorinolaringologia, stomatologia).  
-Art. 161. - L'esame di diploma consistera' nella presentazione e discussione di una dissertazione scritta su argomento riguardante la Gerontologia e geriatria, il cui argomento dovra' essere concordato col direttore della Scuola all'inizio del secondo anno. La dissertazione dovra' essere approvata dallo stesso direttore e depositata presso la Direzione almeno quindici giorni prima dell'esame.  
-Art. 162. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-1) Fisiologia della senescenza;  
-2) Anatomia patologica;  
-3) Semeiologia fisica e funzionale;  
-4) Patologia medica geriatrica;  
-5) Radiologia.  
-2° Anno:  
-1) Clinica geriatrica generale e terapia geriatrica;  
-2) Neuropsichiatria geriatrica;  
-3) Chirurgia geriatrica;  
-4) Medicina sociale (assistenziale, gerontocomiale, attitudini lavorative).  
+Art. 23. - Agli insegnamenti complementari del corso di laurea in Economia e Commercio sono aggiunti quelli di "Economia e finanza delle imprese di assicurazione" e di "Storia delle dottrine economiche".  
+Art. 35. - Agli insegnamenti complementari del corso di laurea in Materie letterarie e' aggiunto quello di:  
+"Istituzioni giuridiche ed economiche della Sardegna".  
+Art. 36. - Agli insegnamenti, complementari del corso di laurea in Pedagogia e' aggiunto quello di "Istituzioni giuridiche ed economiche della Sardegna".  
+Art. 50. - Agli insegnamenti complementari del corso di laurea in Medicina e Chirurgia sono aggiunti quelli di "Genetica medica" di "Clinica delle malattie infettive" e di "Fisica nucleare applicata alla medicina".  
+Art. 51. - E' abrogato e sostituito dal seguente:  
+La Facolta' di Scienze matematiche fisiche e naturali conferisce le seguenti lauree:  
+in Matematica;  
+in Fisica;  
+in Chimica;  
+in Scienze naturali;  
+in Scienze biologiche;  
+in Scienze geologiche.  
+Art. 55. - Agli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti quelli di "Oceanografia" e di "Idrobiologia e Pescicoltura".  
+Art. 58. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti quelli di "Oceanografia" e di "Idrobiologia e pescicoltura".  
+Dopo l'art. 58 e con il conseguente spostamento della successiva numerazione e' aggiunto il seguente articolo relativo alla istituzione del corso di laurea in Scienze geologiche.  
+Art. 59. - La durata del corso di studi per la laurea in Scienze geologiche e' di quattro anni.  
+Titolo di ammissione sono il diploma di maturita' classica o il diploma di maturita' scientifica. Sono, inoltre, ammessi i diplomati degli Istituti tecnici industriali, nautici, agrari e per geometri, ai sensi delle vigenti disposizioni di legge.  
+Sono insegnamenti fondamentali:  
+1) Istituzioni di matematiche;  
+2) Fisica sperimentale (biennale);  
+3) Chimica generale ed inorganica con elementi di organica;  
+4) Mineralogia;  
+5) Geologia;  
+6) Geologia applicata;  
+7) Paleontologia;  
+8) Geografia;  
+9) Geografia fisica;  
+10) Topografia e cartografia;  
+11) Fisica terrestre;  
+12) Petrografia.  
+Sono insegnamenti complementari:  
+1) Chimica organica;  
+2) Chimica fisica  
+3) Geochimica;  
+4) Astronomia;  
+5) Geodesia;  
+6) Zoologia;  
+7) Botanica;  
+8) Antropologia;  
+9) Etnologia;  
+10) Geografia economica;  
+11) Vulcanologia;  
+12) Analisi matematica (algebrica e infinitesimale) (biennale);  
+13) Meccanica razionale, con elementi di statica grafica e disegno;  
+14) Statistica;  
+15) Giacimenti minerari;  
+16) Sedimentologia;  
+17) Micropaleontologia;  
+18) Geologia regionale, con esercitazioni;  
+19) Rilevamento geologico, con esercitazioni di campagna.  
+Gli insegnamenti di Botanica e di Zoologia debbono avere indirizzo biografico.  
+L'insegnamento di "Analisi matematica" sara' impartito da due professionale ciascuno dei quali insegnera' alternativamente e Analisi algebrica" per il primo anno ed "Analisi infinitesimale" per il secondo anno; lo studente dovra' sostenere due esami distinti.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali, ed almeno in quattro da lui scelti fra i complementari.  
+Lo studente deve inoltre frequentare il Laboratorio di geologia (o di mineralogia) per due anni e per un anno quello di mineralogia (o di geologia).  
+L'ordine delle frequenze e' il seguente: Chimica generale ed inorganica prima di Mineralogia; Analisi matematica (algebrica e infinitesimale) e Meccanica razionale, prima di Geodesia;  
+Mineralogia, prima di Petrografia.  
+Negli esami debbono essere rispettate le seguenti precedenze:  
+Istituzioni di matematiche prima di Fisica sperimentale;  
+Fisica terrestre e Statistica;  
+Analisi matematica (algebrica e infinitesimale), prima di Geodesia;  
+Chimica generale ed inorganica, prima di Mineralogia;  
+Mineralogia, prima di Petrografia;  
+Mineralogia e Petrografia e Paleontologia, prima di Geologia.  
+Art. 77, relativo alle abbreviazioni di corso per le scuole di specializzazione annesse alla Facolta' di medicina e chirurgia e' abrogato e sostituito dal seguente:  
+"Il Consiglio della scuola puo' esonerare, su proposta del direttore da uno e piu' anni di frequenza, i laureati che siano stati assistenti effettivi, straordinari, incaricati o volontari, nonche' gli assistenti ospedalieri addetti agli Istituti universitari della materia; la stessa concessione puo' essere fatta ai laureati, che abbiano prestato servizio di assistenti effettivi o incaricati in reparti ospedalieri di I e di II categoria. Per gli assistenti volontari degli Istituti universitari, per gli assistenti ospedalieri e' necessario che la proposta sia preceduta da un colloquio d'esame col direttore della scuola e che la decisione sia convalidata dal Consiglio della Facolta'".  
+Art. 122, relativo alla Scuola di specializzazione in Stomatologia e' abrogato e sostituito dal seguente:  
+"Alla Scuola di specializzazione vengono ammessi i laureati in Medicina e Chirurgia in numero di dodici per anno. L'ammissione si fa previo concorso per titoli ed esami".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 8 febbraio 1966
+### Dato a Roma, addi' 14 marzo 1963
 
-SARAGAT GUI
+SEGNI GUI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 12 marzo 1966
+Registrato alla Corte dei conti, addi' 8 maggio 1963
 
-Atti del Governo, registro n. 202, foglio n. 26. - VILLA
+Atti del Governo, registro n. 169, foglio n. 7. - VILLA

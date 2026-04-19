@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 giugno 1972 n. 481
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 giugno 1982 n. 991
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 giugno 1972 n. 481
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 giugno 1982 n. 991
 =============================================================
 
 Autorizzazione all'istituto dei ciechi "Rittmeyer" di Trieste ad accettare una eredita'.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-481. Decreto del Presidente della Repubblica 21 giugno 1972, col quale, sulla proposta del Ministro per la pubblica istruzione, l'istituto - dei ciechi "Rittmeyer" di Trieste viene autorizzato ad accettare, con beneficio d'inventario, l'eredita' disposta dalla signora Luisa Cocali, ved. Steiner, con testamento pubblico in data 15 settembre 1969, registrato con repertorio n. 10999 in data 23 gennaio 1970 al n. 119/1/167 dal notaio Bonardi avv. Giovanni Antonio di Salo' (Brescia), costituita dalla nuda proprieta' delle unita' condominiali iscritte nella P.T. 12115 di Trieste, ubicate a Trieste nell'edificio civico di via Valdirivo n. 29, per un valore dichiarato di lire 76.500.000, riservando il diritto di usufrutto sull'immobile a favore del nipote Bruno Dal Sasso. L'ufficio tecnico erariale di Trieste, eseguita una perizia estimativa, ha attribuito all'immobile il Valore residuo di L. 61.498.465, riconoscendolo attivo ai fini assistenziali.  
+991. Decreto del Presidente della Repubblica 29 giugno 1982, col quale, sulla proposta del Ministro della pubblica istruzione, l'istituto dei ciechi "Rittmeyer" di Trieste viene autorizzato ad accettare, con beneficio d'inventario, l'eredita', consistente in due alloggi siti in Trieste, via Soncini n. 59, del valore complessivo di lire 42.884.200, confermato dall'ufficio tecnico erariale di Trieste, disposta dal sig. Turina Alberto con testamento olografo 6 dicembre 1971, pubblicato in data 1 aprile 1980, n. 2216/692 di repertorio, a rogito dottor Sergio Bartolucci, notaio in Roma, registrato a Roma in data 3 aprile 1980 al n. 4721.  
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 10 agosto 1972  
-Atti del Governo, registro n. 250, foglio n. 153. - VALENTINI
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 10 gennaio 1983  
+Registro n. 1 Istruzione, foglio n. 3

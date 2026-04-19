@@ -1,174 +1,41 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1972 n. 135
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 gennaio 1976 n. 512
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1972 n. 135
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 gennaio 1976 n. 512
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 -------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, numero 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Dopo l'art. 124 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in oculistica.
-
-Scuola di specializzazione in oculistica
-
-Art. 125. - E' istituita la scuola di specializzazione in oculistica che conferisce il diploma in oculistica.
-
-La scuola ha sede presso la clinica oculistica.
-
-La durata del corso e' di anni quattro.
-
-Le materie impartite dalla scuola sono:
-
-1° Anno:
-
-1) Anatomia ed istologia dell'apparato oculare;
-
-2) Nozioni di embriologia e genetica oculare;
-
-3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;
-
-4) Nozioni di ottica fisiologia, esame della rifrazione;
-
-5) Microbiologia ed igiene oculare.
-
-2° Anno:
-
-1) Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, gonioscopia, oftalmoscopia, perimetria, campimetria, adattometria, senso cromatico, tonometria, tonografia, esami elettrofunzionali, radiologia);
-
-2) Farmacologia oculare e terapia fisica;
-
-3) Nozioni di patologia generale e di anatomia patologica in rapporto all'oftalmologia;
-
-4) Patologia e clinica oculare (malattie delle palpebre, della congiuntiva, delle vie lacrimali; della cornea e della sclera).
-
-3° Anno:
-
-1) Patologia e clinica oculare (malattie dell'uvea, della retina, del nervo ottico e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita, glaucoma);
-
-2) Anomalie patologiche della motilita' oculare e della visione binoculare. Ortottica e pleottica;
-
-3) Tecnica operatoria ed anestesiologia (1ª parte);
-
-4) Affezioni otorinolaringoiatriche e patologia oculare.
-
-4° Anno:
-
-1) Neuroftalmologia;
-
-2) Malattie oculari in rapporto ad affezioni generali;
-
-3) Malattie professionali. Infortunistica e medicina legale oculare;
-
-4) Tecnica operatoria (2ª parte);
-
-5) Tesi di specializzazione.
-
-Art. 126. - Alla scuola sono ammessi i laureati in medicina e chirurgia ed il numero degli specializzandi e' di otto per i 4 anni di corso.
-
-Gli esami di profitto si danno alla fine di ciascun anno di corso.
-
-Alla fine del corso gli iscritti, oltre a presentare la dissertazione scritta ed a sostenere la relativa discussione, devono sostenere una prova pratica sull'ammalato.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 6 marzo 1972
-
-LEONE
-
-MISASI
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 20 aprile 1972 Atti del Governo, registro n. 248, foglio n. 64. - VALENTINI
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, numero 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 12 giugno 1962, n. 147](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-06-12;147), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta l'opportunita' di apportare la rettifica al [decreto del Presidente della Repubblica 31 ottobre 1974, n. 753](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-10-31;753), in relazione alla richiesta del rettore dell'Universita' di Trieste del 9 dicembre 1975;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Dopo l'art. 124 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in oculistica.  
-  
-Scuola di specializzazione in oculistica  
-  
-Art. 125. - E' istituita la scuola di specializzazione in oculistica che conferisce il diploma in oculistica.  
-La scuola ha sede presso la clinica oculistica.  
-La durata del corso e' di anni quattro.  
-Le materie impartite dalla scuola sono:  
-1° Anno:  
-1) Anatomia ed istologia dell'apparato oculare;  
-2) Nozioni di embriologia e genetica oculare;  
-3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;  
-4) Nozioni di ottica fisiologia, esame della rifrazione;  
-5) Microbiologia ed igiene oculare.  
-2° Anno:  
-1) Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, gonioscopia, oftalmoscopia, perimetria, campimetria, adattometria, senso cromatico, tonometria, tonografia, esami elettrofunzionali, radiologia);  
-2) Farmacologia oculare e terapia fisica;  
-3) Nozioni di patologia generale e di anatomia patologica in rapporto all'oftalmologia;  
-4) Patologia e clinica oculare (malattie delle palpebre, della congiuntiva, delle vie lacrimali; della cornea e della sclera).  
-3° Anno:  
-1) Patologia e clinica oculare (malattie dell'uvea, della retina, del nervo ottico e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita, glaucoma);  
-2) Anomalie patologiche della motilita' oculare e della visione binoculare. Ortottica e pleottica;  
-3) Tecnica operatoria ed anestesiologia (1ª parte);  
-4) Affezioni otorinolaringoiatriche e patologia oculare.  
-4° Anno:  
-1) Neuroftalmologia;  
-2) Malattie oculari in rapporto ad affezioni generali;  
-3) Malattie professionali. Infortunistica e medicina legale oculare;  
-4) Tecnica operatoria (2ª parte);  
-5) Tesi di specializzazione.  
-Art. 126. - Alla scuola sono ammessi i laureati in medicina e chirurgia ed il numero degli specializzandi e' di otto per i 4 anni di corso.  
-Gli esami di profitto si danno alla fine di ciascun anno di corso.  
-Alla fine del corso gli iscritti, oltre a presentare la dissertazione scritta ed a sostenere la relativa discussione, devono sostenere una prova pratica sull'ammalato.  
+L'art. 61 deve essere rettificato nel senso che gli insegnamenti di storia della filosofia medioevale, filosofia della scienza, pedagogia comparata, psicologia pedagogica e auxologia devono essere soppressi e inclusi nell'art. 62 relativo agli insegnamenti complementari del corso di laurea in pedagogia.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 6 marzo 1972
+### Dato a Roma, addi' 22 gennaio 1976
 
-LEONE MISASI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 20 aprile 1972
+Registrato alla Corte dei conti, addi' 23 luglio 1976
 
-Atti del Governo, registro n. 248, foglio n. 64. - VALENTINI
+Atti di Governo, registro n. 8, foglio n. 9

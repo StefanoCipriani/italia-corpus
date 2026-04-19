@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 settembre 1984 n. 659
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1984 n. 1196
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 settembre 1984 n. 659
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1984 n. 1196
 ================================================================
 
 Autorizzazione ad accettare alcuni legati a favore dello Stato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-659. Decreto del Presidente della Repubblica 21 settembre 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Ministri delle finanze e per i beni culturali e ambientali, viene autorizzato l'acquisto dei legati disposti da Umberto di Savoia, datati 24 luglio 1982, aventi ad oggetto rispettivamente i documenti dell'archivio storico conservati a Villa Italia in Cascais (Portogallo) e la collezione delle medaglie di Casa Savoia. L'acquisto dei legati si intende subordinato alle condizioni espressamente indicate nelle disposizioni di ultima volonta'.  
+1196. Decreto del Presidente della Repubblica 5 dicembre 1984, col quale, sulla proposta del Ministro delle finanze, viene autorizzata l'accettazione di alcuni legati a favore dello Stato, consistenti in sculture di marmo di scavo, in tre dipinti, nella proprieta' di due terreni e nell'utile dominio di un terreno siti in Capri, disposti dal sig. Mario Astarita con testamento olografo 30 giugno 1977 e codicilli vari successivi, il tutto pubblicato in data 20 maggio 1980, n. 294 di repertorio, a rogito dott. Vincenzo del Genio, notaio in Napoli, registrato a Napoli in data 22 maggio 1980 al n. 6024/B.   
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 6 ottobre 1984  
-Registro n. 8 Presidenza, foglio n. 201
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 9 maggio 1985   
+Registro n. 31 Finanze, foglio n. 323

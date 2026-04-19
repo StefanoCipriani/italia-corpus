@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1986 n. 786
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 giugno 1984 n. 560
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1986 n. 786
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 giugno 1984 n. 560
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Bologna.
@@ -39,22 +39,19 @@ Articolo unico
 --------------
 
   
-Nell'art. 149, relativo ai corsi di laurea in ingegneria, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
-sperimentazione dei materiali e delle strutture (semestrale);  
-trazione elettrica e termica.  
+Nell'art. 51, relativo al corso di laurea in scienze politiche, per l'indirizzo storico-politico all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+storia e sistemi dei rapporti tra Stato e Chiesa.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 maggio 1986
+### Dato a Roma, addi' 12 giugno 1984
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 17 novembre 1986
+Registrato alla Corte dei conti, addi' 24 agosto 1984
 
-Registro n. 84 Istruzione, foglio n. 90
+Registro n. 51 Istruzione, foglio n. 61

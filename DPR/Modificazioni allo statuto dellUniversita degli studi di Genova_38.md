@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1970 n. 1256
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1971 n. 1319
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1970 n. 1256
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1971 n. 1319
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
@@ -12,10 +12,11 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846) e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -24,22 +25,18 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 57, relativo all'ordinamento degli studi del corso di laurea in fisica e' modificato nel senso che gli ultimi due commi sono abrogati e sostituiti dai seguenti:  
-L'esame di laurea consiste:  
-a) nella compilazione e discussione di un elaborato scritto su di un tema liberamente scelto dal candidato, ma rispondente, in modo essenziale, ai fini della laurea;  
-b) nella esposizione e discussione di una memoria della letteratura scientifica a scelta del candidato; ma su di un argomento differente da quello del tema di cui al punto a) precedente.  
-Superato l'esame di laurea lo studente consegue il titolo di dottore in fisica; indipendentemente dall'indirizzo prescelto del quale verra' fatta menzione soltanto nella carriera scolastica.  
+Art. 9. - All'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di: "Diritto urbanistico".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1970
+### Dato a Roma, addi' 30 ottobre 1971
 
 SARAGAT MISASI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 28 gennaio 1971
+Registrato alla Corte dei conti, addi' 17 febbraio 1972
 
-Atti del Governo, registro n. 240, foglio n. 130. - CARUSO
+Atti del Governo, registro n. 247, foglio n. 15. - VALENTINI

@@ -1,282 +1,118 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1969 n. 1087
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1829
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1969 n. 1087
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1829
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 157, relativo all'elenco delle scuole di specializzazione della facolta' di medicina e chirurgia e' modificato nel senso che la scuola in "Igiene" muta denominazione in quella di "Igiene e medicina preventiva".
-
-Gli articoli 198-199, relativi alla scuola di specializzazione in igiene sono abrogati e sostituiti dai seguenti:
-
-Scuola di specializzazione in igiene e medicina preventiva
-
-Art. 198. - Il corso degli studi della scuola di specializzazione in igiene e medicina preventiva ha la durata di tre anni ed e' distinto in un biennio di studi comuni mentre il 3° anno e' articolato nei seguenti quattro orientamenti:
-
-a) orientamento di sanita' pubblica;
-
-b) orientamento di laboratorio;
-
-c) orientamento di igiene e tecnica ospedaliera;
-
-d) orientamento di igiene e medicina scolastica.
-
-All'atto dell'iscrizione al 3° anno di corso, l'allievo dovra' indicare l'orientamento prescelto e alla fine dell'anno stesso potra' conseguire il diploma di specialista in igiene e medicina preventiva con o di sanita' pubblica, o di laboratorio, o di igiene e tecnica ospedaliera, o di igiene e medicina scolastica.
-
-Il conseguimento del diploma di specializzazione in uno degli orientamenti sopra menzionati, offre la possibilita' di accedere agli altri orientamenti mediante la iscrizione diretta al 3° anno di corso e con la convalida degli studi e degli esami del biennio comune.
-
-L'ammissione alla scuola e' subordinata ad un esame di ammissione.
-
-La scuola non puo' accogliere piu' di quindici allievi per ciascun anno di corso.
-
-Art. 199. - Gli insegnamenti impartiti nella scuola sono:
-
-1° Anno:
-
-1) Metodologia statistica e biometria;
-
-2) Educazione sanitaria;
-
-3) Psicologia;
-
-4) Microbiologia;
-
-5) Parassitologia;
-
-6) Epidemiologia e profilassi generale.
-
-2° Anno:
-
-1) Patologia e clinica delle malattie infettive;
-
-2) Epidemiologia e profilassi delle malattie infettive;
-
-3) Patologia e clinica delle malattie non infettive di importanza sociale;
-
-4) Demografia e statistica sanitaria;
-
-5) Legislazione e organizzazione sanitaria;
-
-6) Epidemiologia e profilassi delle malattie infettive di importanza sociale.
-
-3° Anno:
-
-Per l'orientamento di sanita' pubblica:
-
-1) Approvvigionamento idrico, raccolta e smaltimento dei rifiuti liquidi e solidi; inquinamenti atmosferici;
-
-2) Igiene edilizia e urbanistica;
-
-3) Igiene dell'alimentazione;
-
-4) Igiene e medicina scolastica;
-
-5) Igiene ospedaliera;
-
-6) Servizi di sanita' pubblica.
-
-Per l'orientamento di laboratorio.
-
-1) Microscopia applicata all'igiene;
-
-2) Microbiologia applicata all'igiene;
-
-3) Chimica clinica;
-
-4) Accertamento diagnostico delle malattie batteriche e parassitarie;
-
-5) Accertamento diagnostico delle infezioni virali;
-
-6) Nozioni di anatomia e istologia patologica.
-
-Per l'orientamento di igiene e tecnica ospedaliera.
-
-1) Storia degli ospedali e principi metodologici dell'assistenza ospedaliera;
-
-2) Igiene e tecniche delle costruzioni ospedaliere, arredamento ed impianti sanitari;
-
-3) Organizzazione e funzioni degli ospedali generali e speciali;
-
-4) Diritto amministrativo e legislazione ospedaliera;
-
-5) Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospedaliera;
-
-6) Selezione e istruzione professionale del personale ospedaliero;
-
-7) Organizzazione e funzione dei laboratori di analisi e di accertamento necroscopico.
-
-Per l'orientamento di igiene e medicina scolastica.
-
-1) Auxologia normale e patologica;
-
-2) Epidemiologia e profilassi delle malattie dell'eta' scolastica;
-
-3) Servizi di medicina scolastica;
-
-4) Elementi di psicologia e pedagogia per l'eta' scolastica;
-
-5) Igiene dell'alimentazione;
-
-6) Assistenza parascolastica;
-
-7) Edilizia scolastica.
-
-Insegnamenti complementari (uno per ogni anno di corso) a scelta fra i seguenti:
-
-1) Ispezione delle carni;
-
-2) Geologia applicata all'igiene;
-
-3) Igiene mentale;
-
-4) Malattie professionali e loro prevenzione;
-
-5) Igiene navale e dell'emigrazione;
-
-6) Malattie tropicali;
-
-7) Genetica;
-
-8) Gerontologia e geriatria.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 23 ottobre 1969
-
-SARAGAT
-
-FERRARI AGGRADI
-
-Visto, il Guardasigilli: GAVA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 19 gennaio 1970 Atti del Governo, registro n. 231, foglio n. 33. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 173](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;173), modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Veduto il proprio decreto in data 26 luglio 1960, n. 1145;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 157, relativo all'elenco delle scuole di specializzazione della facolta' di medicina e chirurgia e' modificato nel senso che la scuola in "Igiene" muta denominazione in quella di "Igiene e medicina preventiva".  
-Gli articoli 198-199, relativi alla scuola di specializzazione in igiene sono abrogati e sostituiti dai seguenti:  
   
-Scuola di specializzazione in igiene e medicina preventiva  
+Art. 4. - E' cosi' modificato:  
+"La Facolta' di scienze matematiche, fisiche e naturali conferisce le seguenti lauree:  
+1) laurea in Chimica;  
+2) laurea in Fisica;  
+3) laurea in Scienze matematiche;  
+4) laurea in Matematica e fisica;  
+5) laurea in Scienze naturali;  
+6) laurea in Chimica industriale;  
+7) laurea in Scienze geologiche".  
+Dopo l'art. 62 e con il conseguente spostamento della numerazione di quelli successivi sono inseriti i seguenti nuovi articoli relativi al corso di laurea in Chimica industriale.  
   
-Art. 198. - Il corso degli studi della scuola di specializzazione in igiene e medicina preventiva ha la durata di tre anni ed e' distinto in un biennio di studi comuni mentre il 3° anno e' articolato nei seguenti quattro orientamenti:  
-a) orientamento di sanita' pubblica;  
-b) orientamento di laboratorio;  
-c) orientamento di igiene e tecnica ospedaliera;  
-d) orientamento di igiene e medicina scolastica.  
-All'atto dell'iscrizione al 3° anno di corso, l'allievo dovra' indicare l'orientamento prescelto e alla fine dell'anno stesso potra' conseguire il diploma di specialista in igiene e medicina preventiva con o di sanita' pubblica, o di laboratorio, o di igiene e tecnica ospedaliera, o di igiene e medicina scolastica.  
-Il conseguimento del diploma di specializzazione in uno degli orientamenti sopra menzionati, offre la possibilita' di accedere agli altri orientamenti mediante la iscrizione diretta al 3° anno di corso e con la convalida degli studi e degli esami del biennio comune.  
-L'ammissione alla scuola e' subordinata ad un esame di ammissione.  
-La scuola non puo' accogliere piu' di quindici allievi per ciascun anno di corso.  
-Art. 199. - Gli insegnamenti impartiti nella scuola sono:  
-1° Anno:  
-1) Metodologia statistica e biometria;  
-2) Educazione sanitaria;  
-3) Psicologia;  
-4) Microbiologia;  
-5) Parassitologia;  
-6) Epidemiologia e profilassi generale.  
-2° Anno:  
-1) Patologia e clinica delle malattie infettive;  
-2) Epidemiologia e profilassi delle malattie infettive;  
-3) Patologia e clinica delle malattie non infettive di importanza sociale;  
-4) Demografia e statistica sanitaria;  
-5) Legislazione e organizzazione sanitaria;  
-6) Epidemiologia e profilassi delle malattie infettive di importanza sociale.  
-3° Anno:  
+Laurea in Chimica industriale  
   
-Per l'orientamento di sanita' pubblica:  
-1) Approvvigionamento idrico, raccolta e smaltimento dei rifiuti liquidi e solidi; inquinamenti atmosferici;  
-2) Igiene edilizia e urbanistica;  
-3) Igiene dell'alimentazione;  
-4) Igiene e medicina scolastica;  
-5) Igiene ospedaliera;  
-6) Servizi di sanita' pubblica.  
-Per l'orientamento di laboratorio.  
-1) Microscopia applicata all'igiene;  
-2) Microbiologia applicata all'igiene;  
-3) Chimica clinica;  
-4) Accertamento diagnostico delle malattie batteriche e parassitarie;  
-5) Accertamento diagnostico delle infezioni virali;  
-6) Nozioni di anatomia e istologia patologica.  
-Per l'orientamento di igiene e tecnica ospedaliera.  
-1) Storia degli ospedali e principi metodologici dell'assistenza ospedaliera;  
-2) Igiene e tecniche delle costruzioni ospedaliere, arredamento ed impianti sanitari;  
-3) Organizzazione e funzioni degli ospedali generali e speciali;  
-4) Diritto amministrativo e legislazione ospedaliera;  
-5) Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospedaliera;  
-6) Selezione e istruzione professionale del personale ospedaliero;  
-7) Organizzazione e funzione dei laboratori di analisi e di accertamento necroscopico.  
-Per l'orientamento di igiene e medicina scolastica.  
-1) Auxologia normale e patologica;  
-2) Epidemiologia e profilassi delle malattie dell'eta' scolastica;  
-3) Servizi di medicina scolastica;  
-4) Elementi di psicologia e pedagogia per l'eta' scolastica;  
-5) Igiene dell'alimentazione;  
-6) Assistenza parascolastica;  
-7) Edilizia scolastica.  
-Insegnamenti complementari (uno per ogni anno di corso) a scelta fra i seguenti:  
-1) Ispezione delle carni;  
-2) Geologia applicata all'igiene;  
-3) Igiene mentale;  
-4) Malattie professionali e loro prevenzione;  
-5) Igiene navale e dell'emigrazione;  
-6) Malattie tropicali;  
-7) Genetica;  
-8) Gerontologia e geriatria.  
+Art. 63. - La laurea in Chimica industriale viene conferita dalla Facolta' di scienze dopo cinque anni di corso divisi in un biennio di studi propedeutici, comune con la laurea in Chimica, e in un triennio di studi di applicazione.  
+E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.  
+  
+Biennio di studi propedeutici  
+  
+Sono insegnamenti fondamentali:  
+1) Istituzioni di matematiche (biennale);  
+2) Chimica generale ed inorganica (biennale);  
+3) Chimica organica (biennale);  
+4) Chimica analitica;  
+5) Fisica sperimentale (biennale);  
+6) Mineralogia, con esercitazioni, pratiche (corso speciale per chimici);  
+7) Esercitazioni di matematiche (biennale);  
+8) Esercitazioni di preparazioni chimiche;  
+9) Esercitazioni di disegno di elementi di macchine;  
+10) Esercitazioni di analisi chimica qualitativa;  
+11) Esercitazioni di fisica sperimentale.  
+  
+Triennio di studi di applicazione  
+  
+Sono insegnamenti fondamentali:  
+1) Chimica fisica (biennale);  
+2) Fisica tecnica;  
+3) Chimica industriale (biennale);  
+4) Esercitazioni di analisi chimica quantitativa;  
+5) Esercitazioni di chimica fisica (biennale);  
+6) Esercitazioni di chimica industriale (biennale);  
+7) Impianti industriali chimici con elementi di disegno (biennale);  
+8) Elementi di diritto di economia e di legislazione sociale.  
+Sono insegnamenti complementari:  
+1) Analisi matematica algebrica ed infinitesimale (biennale);  
+2) Geometria analitica con elementi di proiettiva;  
+3) Meccanica razionale con elementi di statica grafica;  
+4) Elettrotecnica;  
+5) Misure elettriche (corso speciale per chimici e chimici industriali);  
+6) Chimica agraria;  
+7) Chimica delle fermentazioni e batteriologia industriale;  
+8) Chimica organica industriale;  
+9) Elettrochimica;  
+10) Chimica applicata;  
+11) Siderurgia e Metallurgia;  
+12) Scienza dei metalli;  
+13) Tecnologia elettrochimica;  
+14) Chimica delle sostanze coloranti;  
+15) Tecnologia e chimica del petrolio;  
+16) Tecnologia delle sostanze coloranti e tecnica tintoria;  
+17) Fisiologia ed igiene del lavoro industriale;  
+18) Fisica nucleare.  
+Art. 64. - I tre insegnamenti complementari di "Analisi matematica" di "Geometria analitica con elementi di proiettiva" e di "Meccanica razionale con elementi di statica grafica" possono sostituire l'unico insegnamento fondamentale di "Istituzioni di matematiche" (biennale).  
+Per l'insegnamento di "Analisi matematica" vale la norma stabilita per la laurea in Scienze matematiche.  
+I corsi biennali constano di una prima e di una seconda parte, dettate annualmente e con esame distinto, ogni prima parte e propedeutica della seconda parte.  
+Art. 65. - Per ottenere l'iscrizione al triennio di applicazione lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti fissati per il biennio di studi propedeutici.  
+All'atto dell'iscrizione al primo anno di applicazione lo studente deve sottoporre all'approvazione della Facolta' l'elenco degli insegnamenti complementari prescelti. La scelta fatta in tal modo e' impegnativa e non puo' subire variazioni durante il corso degli studi.  
+Per essere ammesso all'esame di laurea lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali del triennio di applicazione ed almeno quattro da lui scelti fra i complementari.  
+L'esame di laurea in Chimica industriale consta della discussione di una dissertazione scritta e della discussione di due argomenti orali scelti dal candidato in materie diverse da quelle su cui verte la dissertazione scritta.  
+Art. 66. - I laureati in Chimica potranno essere ammessi al quarto anno di corso per la laurea in Chimica industriale e dovranno seguire i corsi e sostenere gli esami sulle seguenti materie fondamentali:  
+1) Chimica industriale (biennale);  
+2) Impianti industriali chimici con elementi di disegno (biennale);  
+3) Elementi di diritto, di economia e di legislazione sociale;  
+4) Fisica tecnica;  
+5) Esercitazioni di Chimica industriale (biennale).  
+L'esame di Fisica tecnica eventualmente sostenuto per la laurea in Chimica puo' essere convalidato agli effetti della iscrizione al quarto anno di corso per la laurea in Chimica industriale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 ottobre 1969
+### Dato a Roma, addi' 19 ottobre 1960
 
-SARAGAT FERRARI AGGRADI
+GRONCHI BOSCO
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 19 gennaio 1970
+Registrato alla Corte dei conti, addi' 16 febbraio 1961
 
-Atti del Governo, registro n. 231, foglio n. 33. - CARUSO
+Atti del Governo, registro n. 134, foglio n. 38. - VILLA

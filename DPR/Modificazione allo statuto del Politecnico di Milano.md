@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1985 n. 801
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 ottobre 1986 n. 710
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1985 n. 801
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 ottobre 1986 n. 710
+==============================================================
 
 Modificazione allo statuto del Politecnico di Milano.
 -----------------------------------------------------
@@ -39,13 +39,13 @@ Articolo unico
 --------------
 
   
-Art. 29 - nell'elenco degli insegnamenti complementari della facolta' di ingegneria e' inserito l'insegnamento di tecnologia dei materiali dei reattori nucleari.  
+Nell'art. 29, relativo alla facolta' di ingegneria, all'elenco degli insegnamenti complementari e' aggiunto l'insegnamento di "teoria e tecnica dei sistemi di guida aeromissilistici".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 settembre 1985
+### Dato a Roma, addi' 13 maggio 1986
 
 COSSIGA
 
@@ -53,6 +53,6 @@ FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 19 dicembre 1985
+Registrato alla Corte dei conti, addi' 14 ottobre 1986
 
-Registro n. 86 Istruzione, foglio n. 144
+Registro n. 76 Istruzione, foglio n. 360

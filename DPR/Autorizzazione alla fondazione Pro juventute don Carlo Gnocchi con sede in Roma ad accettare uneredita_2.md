@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 giugno 1972 n. 356
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1973 n. 505
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 giugno 1972 n. 356
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1973 n. 505
 =============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", con sede in Roma, ad accettare un'eredita'.
@@ -12,8 +12,10 @@ Art. 1
 
 N.
 
-356. Decreto del Presidente della Repubblica 8 giugno 1972, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' - disposta dal signor Mario Ottolini, nato a Verbania il 29 gennaio 1908, con testamento olografo dell'8 maggio 1967, pubblicato con verbale a rogito dell'avv. Aldo Pantozzi, notaio in Bolzano, in data 17 novembre 1967 (n. 54718 di repertorio e n. 2212 di raccolta) e registrato a Bolzano il 23 novembre 1967, al n. 1822, vol. 72 - consistente nella terza parte dell'asse ereditario costituito da beni mobili, preziosi, monete estere, somme depositate in banca e titoli azionari.  
+505. Decreto del Presidente della Repubblica 27 giugno 1973, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dal sig. Attilio Marzi, con testamento olografo 20 dicembre 1965, pubblicato il 17 marzo 1971 per atto del dott.  
+Albino Chiesa, notaio in Lodi, con il n. 33978 di repertorio e n. 4383 di raccolta, registrato a Lodi in data 24 marzo 1971 al n. 912, vol. 188, in favore dei mutilatini di don Gnocchi che si identificano con la fondazione "Pro juventute don Carlo Gnocchi", consistente nella meta' dell'asse ereditario, comprendente un appartamento sito in Milano, via Roncaglia n. 33 al piano secondo del valore presunto di lire 4.200.000, giusta perizia del geom.  
+Dino Casiraghi in data 14 febbraio 1972, nonche' cartelle fondiarie, obbligazioni e libretti di banca, come dagli inventari dei notari dott. Ferruccio Brambilla e Albino Chiesa.  
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 24 luglio 1972  
-Atti del Governo, registro n. 250, foglio n. 22. - CARUSO
+Visto, il Guardasigilli: ZAGARI  
+Registrato alla Corte dei conti, addi' 10 agosto 1973  
+Atti di Governo, registro n. 259, foglio n. 80. - VALENTINI

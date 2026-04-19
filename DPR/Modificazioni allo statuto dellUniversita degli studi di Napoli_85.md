@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1971 n. 1171
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 802
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1971 n. 1171
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 802
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -22,172 +22,108 @@ Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?u
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 116. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:
-
-Fisiologia applicata;
-
-Virologia oncologica.
-
-Art. 124. - All'elenco degli istituti annessi alla facolta' di medicina e chirurgia e' aggiunto il seguente:
-
-Istituto per lo studio delle ultrastrutture di interesse biologico.
-
-Dopo l'art. 129 e con il conseguente spostamento della numerazione degli articoli successivi sono aggiunti i seguenti nuovi articoli, relativi alle norme dell'istituto "per lo studio delle ultrastrutture di interesse biologico".
-
-Art. 130. - L'istituto per lo studio delle ultrastrutture di interesse biologico viene articolato in diverse sezioni, di cui si elencano alcune da istituirsi con carattere prioritario: morfologia delle ultrastrutture, biochimica delle ultrastrutture, biofisica delle ultrastrutture, farmacologia delle ultrastrutture ed altre di cui si riconosce la necessita'. Le sezioni vengono costituite su deliberazione del consiglio direttivo.
-
-Art. 131. - L'istituto ha per scopo lo studio delle ultrastrutture biologiche (in condizioni normali e patologiche) fino al livello molecolare. Tra i compiti dell'istituto c'e' quello di promuovere la formazione di ricercatori e tecnici nei campi di attivita' dell'istituto stesso ed anche quello di condurre e promuovere iniziative di ricerca, comuni tra studiosi di differenti discipline della facolta'; nonche' di altre facolta', di centri, laboratori e istituti di ricerca extra-universitari, sia italiani che stranieri.
-
-Art. 132. - La direzione scientifica ed amministrativa dell'istituto e' esercitata da un consiglio direttivo composto:
-
-a) cinque professori scelti tra i professori di ruolo o fuori ruolo della facolta' di medicina e chirurgia;
-
-b) due professori aggregati della stessa facolta';
-
-(i professori di cui alle lettere a) e b) saranno scelti dalla facolta' di medicina e chirurgia sulla base della loro particolare competenza nelle singole materie afferenti all'attivita' dell'istituto);
-
-c) due assistenti di ruolo;
-
-d) due ricercatori a carico di enti nazionali o stranieri (ad es.
-
-C.N.R.);
-
-e) due tecnici di ruolo;
-
-f) due studenti;
-
-(i membri di cui alle lettere c), d), e) ed f), devono tutti far parte del personale dell'istituto e vengono eletti da tutti i componenti dell'istituto stesso).
-
-I componenti del consiglio direttivo durano in carica tre anni e sono rieleggibili.
-
-Art. 133. - Il direttore dell'istituto sara' un professore di ruolo, nominato dalla facolta' su proposta del consiglio direttivo.
-
-Vengono eletti dal consiglio direttivo, tra il personale scientifico dell'istituto i vice-direttori, uno per ogni sezione o reparto. Il direttore ed i vice-direttori durano in carica tre anni; il direttore non puo' essere eletto consecutivamente piu' di una volta. Il consiglio direttivo si riunisce periodicamente almeno cinque volte all'anno ed in seduta straordinaria ogni qualvolta il direttore lo ritenga opportuno o quando sette membri ne facciano richiesta.
-
-Avranno valore solo le deliberazioni prese quando e' presente la maggioranza dei membri del consiglio direttivo.
-
-Art. 134. I fondi occorrenti per l'attivita' dell'istituto derivano:
-
-a) da dotazione annuale che sara' messa a disposizione dalla Universita' degli studi;
-
-b) da contratti di ricerca con enti nazionali o stranieri;
-
-c) da dotazioni di enti pubblici o di privati italiani e stranieri;
-
-d) da fondi trasferiti da altri istituti o cattedre della stessa o di altre facolta' universitarie.
-
-La gestione economico-amministrativa dell'istituto sara' analoga a quella di altri istituti o cattedre della facolta' di medicina e chirurgia.
-
-Art. 135. - L'istituto avra' un proprio personale, assistente, ricercatore, tecnico, subalterno, amministrativo assegnato con le stesse modalita' con le quali esso viene attribuito attualmente alle singole cattedre. All'istituto potranno essere destinati professori aggregati.
-
-Art. 136. - L'attivita' scientifica dell'istituto si svolgera' su programmi di ricerca scritti, che saranno sottoposti alla preventiva approvazione del consiglio direttivo. L'istituto svolgera' ricerche eseguite dai ricercatori e studiosi dello stesso istituto, oppure in collaborazione con studiosi di istituti o cattedre della stessa facolta' o di altre facolta' o anche di organismi extra-universitari.
-
-Il vaglio del comitato direttivo concernera' anche lo stanziamento dei relativi fondi necessari.
-
-Art. 137. - Presso l'istituto saranno tenuti corsi di insegnamento di varia natura, accessibili agli studenti e laureati che vi siano interessati (previa deliberazione del consiglio direttivo) sulle discipline e tecniche relative alle attivita' che si svolgono presso l'istituto. L'istituto e' autorizzato ad accogliere studiosi italiani e stranieri particolarmente competenti nei campi di attivita' dello stesso, con possibile retribuzione a carico dell'istituto.
-
-Art. 138. - norme transitorie:
-
-Il Centro di microscopia elettronica della facolta', attualmente esistente presso l'istituto di anatomia patologica, coi beni patrimoniali, il personale e la disponibilita' finanziaria afferente, viene assorbito dall'istituto all'atto della sua istituzione (pubblicazione del decreto di modifica di statuto sulla Gazzetta Ufficiale).
-
-L'attuale sede del Centro di microscopia elettronica della facolta' diventa sede dell'istituto fino a nuova sede.
-
-Circa la costituzione del consiglio direttivo di cui all'art. 132, esso sara' composto di un numero minore di membri fino a che il personale dell'istituto non raggiungera' il numero indicato dall'art.
-
-132.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 25 ottobre 1971
-
-SARAGAT
-
-MISASI
-
-Visto, il Guardasigilli: COLOMBO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 30 dicembre 1971 Atti del Governo, registro n. 245, foglio n. 160. - VALENTINI
+Lo statuto dell'Universita' di Napoli e modificato come appresso:
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+L'art. 187 e' sostituito dal seguente:  
+"La facolta' di farmacia rilascia la laurea in farmacia e la laurea in chimica e tecnologia farmaceutiche".  
+
+Art. 2
+------
+
   
-Decreta:   
   
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 116. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:   
-Fisiologia applicata;   
-Virologia oncologica.   
-Art. 124. - All'elenco degli istituti annessi alla facolta' di medicina e chirurgia e' aggiunto il seguente:   
-Istituto per lo studio delle ultrastrutture di interesse biologico.   
-Dopo l'art. 129 e con il conseguente spostamento della numerazione degli articoli successivi sono aggiunti i seguenti nuovi articoli, relativi alle norme dell'istituto "per lo studio delle ultrastrutture di interesse biologico".   
-Art. 130. - L'istituto per lo studio delle ultrastrutture di interesse biologico viene articolato in diverse sezioni, di cui si elencano alcune da istituirsi con carattere prioritario: morfologia delle ultrastrutture, biochimica delle ultrastrutture, biofisica delle ultrastrutture, farmacologia delle ultrastrutture ed altre di cui si riconosce la necessita'. Le sezioni vengono costituite su deliberazione del consiglio direttivo.   
-Art. 131. - L'istituto ha per scopo lo studio delle ultrastrutture biologiche (in condizioni normali e patologiche) fino al livello molecolare. Tra i compiti dell'istituto c'e' quello di promuovere la formazione di ricercatori e tecnici nei campi di attivita' dell'istituto stesso ed anche quello di condurre e promuovere iniziative di ricerca, comuni tra studiosi di differenti discipline della facolta'; nonche' di altre facolta', di centri, laboratori e istituti di ricerca extra-universitari, sia italiani che stranieri.   
-Art. 132. - La direzione scientifica ed amministrativa dell'istituto e' esercitata da un consiglio direttivo composto:   
-a) cinque professori scelti tra i professori di ruolo o fuori ruolo della facolta' di medicina e chirurgia;   
-b) due professori aggregati della stessa facolta';   
-(i professori di cui alle lettere a) e b) saranno scelti dalla facolta' di medicina e chirurgia sulla base della loro particolare competenza nelle singole materie afferenti all'attivita' dell'istituto);   
-c) due assistenti di ruolo;   
-d) due ricercatori a carico di enti nazionali o stranieri (ad es.  
-C.N.R.);   
-e) due tecnici di ruolo;   
-f) due studenti;   
-(i membri di cui alle lettere c), d), e) ed f), devono tutti far parte del personale dell'istituto e vengono eletti da tutti i componenti dell'istituto stesso).   
-I componenti del consiglio direttivo durano in carica tre anni e sono rieleggibili.   
-Art. 133. - Il direttore dell'istituto sara' un professore di ruolo, nominato dalla facolta' su proposta del consiglio direttivo.  
-Vengono eletti dal consiglio direttivo, tra il personale scientifico dell'istituto i vice-direttori, uno per ogni sezione o reparto. Il direttore ed i vice-direttori durano in carica tre anni; il direttore non puo' essere eletto consecutivamente piu' di una volta. Il consiglio direttivo si riunisce periodicamente almeno cinque volte all'anno ed in seduta straordinaria ogni qualvolta il direttore lo ritenga opportuno o quando sette membri ne facciano richiesta.  
-Avranno valore solo le deliberazioni prese quando e' presente la maggioranza dei membri del consiglio direttivo.   
-Art. 134. I fondi occorrenti per l'attivita' dell'istituto derivano:   
-a) da dotazione annuale che sara' messa a disposizione dalla Universita' degli studi;   
-b) da contratti di ricerca con enti nazionali o stranieri;   
-c) da dotazioni di enti pubblici o di privati italiani e stranieri;   
-d) da fondi trasferiti da altri istituti o cattedre della stessa o di altre facolta' universitarie.   
-La gestione economico-amministrativa dell'istituto sara' analoga a quella di altri istituti o cattedre della facolta' di medicina e chirurgia.   
-Art. 135. - L'istituto avra' un proprio personale, assistente, ricercatore, tecnico, subalterno, amministrativo assegnato con le stesse modalita' con le quali esso viene attribuito attualmente alle singole cattedre. All'istituto potranno essere destinati professori aggregati.   
-Art. 136. - L'attivita' scientifica dell'istituto si svolgera' su programmi di ricerca scritti, che saranno sottoposti alla preventiva approvazione del consiglio direttivo. L'istituto svolgera' ricerche eseguite dai ricercatori e studiosi dello stesso istituto, oppure in collaborazione con studiosi di istituti o cattedre della stessa facolta' o di altre facolta' o anche di organismi extra-universitari.   
-Il vaglio del comitato direttivo concernera' anche lo stanziamento dei relativi fondi necessari.   
-Art. 137. - Presso l'istituto saranno tenuti corsi di insegnamento di varia natura, accessibili agli studenti e laureati che vi siano interessati (previa deliberazione del consiglio direttivo) sulle discipline e tecniche relative alle attivita' che si svolgono presso l'istituto. L'istituto e' autorizzato ad accogliere studiosi italiani e stranieri particolarmente competenti nei campi di attivita' dello stesso, con possibile retribuzione a carico dell'istituto.   
-Art. 138. - norme transitorie:   
+Dopo l'art. 194, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi alla istituzione del corso di laurea in chimica e tecnologia farmaceutiche:   
   
-Il Centro di microscopia elettronica della facolta', attualmente esistente presso l'istituto di anatomia patologica, coi beni patrimoniali, il personale e la disponibilita' finanziaria afferente, viene assorbito dall'istituto all'atto della sua istituzione (pubblicazione del decreto di modifica di statuto sulla Gazzetta Ufficiale).   
-L'attuale sede del Centro di microscopia elettronica della facolta' diventa sede dell'istituto fino a nuova sede.   
-Circa la costituzione del consiglio direttivo di cui all'art. 132, esso sara' composto di un numero minore di membri fino a che il personale dell'istituto non raggiungera' il numero indicato dall'art.   
-132.   
+Laurea in chimica e tecnologia farmaceutiche   
+  
+Art. 195. - La durata del corso degli studi per la laurea in chimica e tecnologia farmaceutiche e' di cinque anni, divisi in un biennio ed un triennio.   
+I titoli di ammissione sono quelli previsti dalle vigenti disposizioni di legge.   
+Art. 196. - Gli insegnamenti per il conseguimento della laurea in chimica e tecnologia farmaceutiche sono i seguenti:   
+  
+FONDAMENTALI   
+  
+Biennio:   
+1) analisi chimico-farmaceutica I (analisi qualitativa);   
+\* 2) anatomia umana;   
+\* 3) botanica farmaceutica;   
+\* 4) chimica fisica;   
+5) chimica generale ed inorganica;   
+6) chimica organica I;   
+7) fisica;   
+8) fisiologia generale;   
+\* 9) istituzioni di matematiche;   
+10) microbiologia e igiene.   
+Triennio:   
+11) analisi chimico-farmaceutica II (analisi quantitativa);   
+12) analisi chimico-farmaceutica III (analisi dei medicamenti); \* 13) biochimica applicata;   
+\* 14) chimica biologica;   
+\* 15) chimica degli alimenti;   
+\* 16) chimica farmaceutica applicata;   
+\* 17) chimica farmaceutica e tossicologica I;   
+\* 18) chimica farmaceutica e tossicologica II;   
+19) chimica organica II;   
+\* 20) farmacologia e farmacognosia;   
+21) impianti dell'industria farmaceutica;   
+22) laboratorio di preparazione estrattiva e sintetica dei farmaci;   
+23) metodi fisici in chimica organica;   
+24) saggi e dosaggi farmacologici;   
+\* 25) tecnica e legislazione farmaceutica.   
+  
+INSEGNAMENTI COMPLEMENTARI   
+  
+\* analisi chimica tossicologica;   
+\* fisiologia vegetale;   
+\* biologia e zoologia generale;   
+\* scienza dell'alimentazione;   
+\* idrologia chimica;   
+\* fitofarmacia;   
+\* chimica e tecnologia dei prodotti cosmetici;   
+\* chimica e tecnologia dei prodotti dietetici;   
+\* tossicologia;   
+\* farmacognosia;   
+\* patologia generale;   
+\* chemioterapia;   
+\* farmacologia applicata;   
+\* statistica e biometria;   
+\* chimica delle fermentazioni;   
+\* chimica dei composti eterociclici;   
+\* biologia molecolare;   
+\* enzimologia;   
+\* chimica delle sostanze naturali.   
+Le materie segnate con un asterisco sono comuni alla laurea in farmacia.   
+Art. 197. - Per ottenere l'iscrizione al terzo anno di corso lo studente deve avere seguito i corsi e superati gli esami in tutti gli insegnamenti fissati per i due anni precedenti.   
+Nel biennio, l'esame di istituzioni di matematiche deve precedere quelli di fisica e di chimica fisica. L'esame di chimica generale ed inorganica deve precedere quello di chimica organica I, di analisi chimico-farmaceutica I e di chimica fisica.   
+L'esame di anatomia umana deve precedere quello di fisiologia generale. Nel triennio l'esame di chimica biologica deve precedere quello di biochimica applicata e quello di farmacologia e farmacognosia deve precedere quello di saggi e dosaggi farmacologici.  
+Gli esami di chimica farmaceutica e tossicologica I e II devono precedere quello di chimica farmaceutica applicata e di tecnica e legislazione farmaceutica.   
+L'esame di analisi chimico-farmaceutica II deve precedere quello di analisi chimico-farmaceutica III.   
+Art. 198. - Per essere ammesso all'esame di laurea in chimica e tecnologia farmaceutiche, lo studente deve aver seguito i corsi e superato tutti gli esami dei corsi fondamentali e almeno due esami a scelta tra i corsi complementari.   
+La prova di laurea comporta la discussione di una tesi sperimentale. L'esame di laurea in chimica e tecnologia farmaceutiche consiste nella discussione orale di una dissertazione scritta di natura sperimentale svolta su un argomento concernente una delle materie del corso.   
+Art. 199. - Per essere ammesso a sostenere l'esame di Stato per l'esercizio della professione di farmacista, il laureato in chimica e tecnologia farmaceutiche deve aver compiuto un semestre di pratica professionale presso una farmacia, oppure un trimestre presso una farmacia e un trimestre presso un'industria farmaceutica.   
+Il periodo di pratica professionale dovra' avere inizio dopo il conseguimento del titolo accademico.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 ottobre 1971
+### Dato a Roma, addi' 31 ottobre 1979
 
-SARAGAT MISASI
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 30 dicembre 1971
+Registrato alla Corte dei conti, addi' 28 febbraio 1980
 
-Atti del Governo, registro n. 245, foglio n. 160. - VALENTINI
+Registro n. 16 Istruzione, foglio n. 253

@@ -1,92 +1,92 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1974 n. 678
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 settembre 1979 n. 646
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1974 n. 678
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 settembre 1979 n. 646
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla
+-----
+
+proposta del Ministro della pubblica istruzione; Decreta:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:  
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Gli articoli 567, 568, 569, 570, 571, 572 e 573, relativi alla scuola di specializzazione in malattie dell'apparato cardiovascolare, che muta la denominazione in quella di scuola di specializzazione in cardiologia, sono soppressi e sostituiti dai seguenti:   
   
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli 515, 516, 517, 518, relativi alla scuola di specializzazione in neurologia e psichiatria, che muta la denominazione in quella di la scuola di specializzazione in neurologia, sono abrogati e sostituiti dai seguenti:  
+Scuola di specializzazione in cardiologia   
   
-Scuola di specializzazione in neurologia (1ª Scuola)  
-  
-Art. 515. - La scuola di specializzazione in neurologia ha sede presso l'istituto di I clinica delle malattie nervose e mentali e ha lo scopo di conferire adeguata competenza teorica e pratica ai laureati in medicina e chirurgia che intendono conseguire il diploma di specializzazione in neurologia.  
-Il corso degli studi ha la durata di quattro anni.  
-Il numero massimo di iscritti e' fissato a 48 per i complessivi quattro anni di corso. Sono esclusi da detto computo gli specializzandi "fuori corso".  
-L'ammissione al corso avviene per titoli ed esami; per i gia' specialisti in psichiatria e neuropsichiatria infantile e neurochirurgia potra' esservi abbuono di due anni e per gli specialisti in altre materie affini (medicina interna, otorinolaringoiatria, oculistica, radiologia) di un anno.  
-Tutti gli abbuoni di cui sopra sono concessi a giudizio del direttore della scuola e dopo il superamento di un esame di ammissione da parte del candidato.  
-  
-Art. 516. - Le materie di insegnamento sono:  
-  
-1° Anno:  
-1) Anatomia e istologia del sistema nervoso;  
-2) Fisiologia del sistema nervoso;  
-3) Biochimica del sistema nervoso;  
-4) Elementi di genetica;  
-5) Psicopatologia;  
-6) Semeiotica psichiatrica;  
-7) Psicologia generale.  
-  
-2° Anno:  
-1) Anatomia e istologia patologica del sistema nervoso;  
-2) Semeiotica neurologica;  
-3) Patologia speciale e diagnostica neurologica (I);  
-4) Neuroradiologia;  
-5) Endocrinologia e neurologia vegetativa.  
-  
-3° Anno:  
-1) Patologia speciale e diagnostica neurologica (II);  
-2) Clinica neurologica (I);  
-3) Elettroencefalografia;  
-4) Elettromiografia, elettrodiagnostica ed elettroterapia;  
-5) Neuro-oftalmologia;  
-6) Neuro-otologia;  
-7) Esami di laboratorio.  
-  
-4° Anno:  
-1) Clinica neurologica e terapia (II);  
-2) Neurochirurgia;  
-3) Teoria e clinica della riabilitazione;  
-4) Neuro-traumatologia anche sotto l'aspetto della medicina legale;  
-5) Neurologia in rapporto alla patologia internistica.  
-  
-Tutte le discipline vengono svolte sotto forma di lezioni, dimostrazioni pratiche, illustrazione di casi chimici, a seconda delle esigenze didattiche delle discipline stesse.  
-  
-Art. 517. - Gli iscritti hanno l'obbligo di frequentare assiduamente per tutti e quattro gli anni i corsi e prestare quotidianamente servizio nei reparti psichiatrici dell'istituto di 1a clinica delle malattie nervose e mentali per il 1° anno, nei reparti neurologici dello stesso istituto per il 2°, 3° e 4° anno, con diritto ad un mese di vacanza all'anno.  
-Per i medici che prestano servizio regolare in reparti neurologici di altri ospedali la frequenza nei reparti neurologici della la clinica delle malattie nervose e mentali potra' essere ridotta di non piu' di sei mesi all'anno, per quelli che prestano servizio in ospedali psichiatrici potra' essere di non piu' di quattro mesi.  
-Per il passaggio agli anni successivi e' obbligatorio il superamento di un esame finale per ogni singolo anno.  
-  
-Art. 518. - Alla fine dei quattro anni gli allievi che hanno frequentato i corsi saranno ammessi all'esame di diploma consistente nella presentazione e discussione di una tesi scritta di argomento pertinente alla neurologia.  
-Agli allievi che avranno ottenuto l'approvazione nell'esame di diploma verra' rilasciato il diploma di specializzazione in neurologia valido a tutti gli effetti di legge.  
+Art. 567. - La scuola di specializzazione in cardiologia ha sede presso la I cattedra di malattie dell'apparato cardiovascolare e conferisce il diploma di specialista in cardiologia.   
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Art. 568. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia in possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+Art. 569. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.   
+Art. 570. - Il numero degli allievi e' di venti per anno di corso, e complessivamente di ottanta iscritti per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli ed esami.   
+Art. 571. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+1) anatomia umana normale ed embriologia dell'apparato cardiovascolare;   
+2) fisiologia dell'apparato cardiovascolare I;   
+3) biochimica e biofisica;   
+4) semeiotica fisica e strumentale dell'apparato cardiovascolare I;   
+5) informatica medica e strumentazione biomedica I.   
+2° Anno:   
+1) anatomia patologia I;   
+2) fisiologia dell'apparato cardiovascolare II;   
+3) patologia e clinica cardiovascolare I;   
+4) semeiotica fisica e strumentale dell'apparato cardiovascolare II;   
+5) informatica medica e strumentazione biomedica II;   
+6) radiologia I;   
+7) aspetti sociali ed epidemiologici delle malattie cardiovascolari.   
+3° Anno:   
+1) anatomia patologica II;   
+2) semeiotica fisica e strumentale dell'apparato cardiovascolare III;   
+3) patologia e clinica cardiovascolare II;   
+4) radiologia II;   
+5) terapia medica e farmacologia clinica I.   
+4° Anno:   
+1) semeiotica fisica e strumentale dell'apparato cardiovascolare IV;   
+2) patologia e clinica cardiovascolare III;   
+3) terapia medica e farmacologia clinica II;   
+4) terapia chirurgica;   
+5) terapie intensive cardiologiche.   
+Art. 572. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.   
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.   
+Art. 573. - Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno.   
+Al termine del corso di studi per il conseguimento del diploma di specialista in cardiologia gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento di carattere cardiologico.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 ottobre 1974
+### Dato a Roma, addi' 15 settembre 1979
 
-LEONE MALFATTI
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 7 dicembre 1974
+Registrato alla Corte dei conti, addi' 13 dicembre 1979
 
-Atti di Governo, registro n. 7, foglio n. 78. - SCIARRETTA
+Registro n. 96 Istruzione, foglio n. 180

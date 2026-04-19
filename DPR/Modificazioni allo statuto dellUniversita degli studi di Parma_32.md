@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1986 n. 1025
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1968 n. 1135
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1986 n. 1025
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1968 n. 1135
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
@@ -10,60 +10,320 @@ Modificazioni allo statuto dell'Universita' degli studi di Parma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Parma e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Gli articoli da 127 a 132 relativi alla scuola di specializzazione in ostetricia e ginecologia e alla scuola di specializzazione in pediatria e puericultura sono abrogati e sostituiti dai seguenti:
 
+Scuola di specializzazione in ostetricia e ginecologia
+
+Art. 127. - La scuola ha la durata di quattro anni.
+
+L'ammissione alla scuola avviene a seguito di concorso per titoli ed esami.
+
+Sono da considerarsi titoli preferenziali, a parita' di risultato dell'esame di ammissione:
+
+a) il voto di laurea in medicina e chirurgia;
+
+b) aver frequentato come studente interno una clinica ostetrica e ginecologica della universita';
+
+c) aver svolto la tesi di laurea nella clinica ostetrica e ginecologica;
+
+d) documentazione di eventuali servizi prestati in grossi reparti ospitalieri della specialita';
+
+e) eventuali pubblicazioni.
+
+Il numero complessivo degli specializzandi da ammettere alla scuola e' fissato in 52 allievi, ripartiti in 13 allievi per ogni anno di corso.
+
+Per nessun motivo il corso di quattro anni puo' essere abbreviato.
+
+Nessun titolo puo' esonerare dalla frequenza gli iscritti nei quattro anni di corso.
+
+Art. 128. - Gli iscritti, oltre all'obbligo di frequenza delle lezioni, esercitazioni, seminari, ecc., devono presta servizio analogo a quello degli assistenti per non meno di nove mesi all'anno.
+
+Gli iscritti alla scuola debbono sostenere esami annuali di profitto e l'esame finale di diploma. La sessione di esami di profitto e' unica, ed e' espletata nel mese di ottobre. Non puo' essere iscritto all'anno successivo di corso chi non abbia superato le materie fondamentali della specialita'.
+
+Art. 129. - Le materie di insegnamento sono:
+
+1° Anno:
+
+1. Elementi di genetica e di eugenica;
+
+2. Anatomia normale ed embriologia dell'apparato genitale femminile;
+
+3. Fisiologia dell'apparato genitale femminile;
+
+4. Endocrinologia fisiologica;
+
+5. Fisiologia ostetrica;
+
+6. Diagnostica ostetrica;
+
+7. Clinica ostetrica e ginecologica.
+
+2° Anno:
+
+1. Tecnica operatoria ostetrica;
+
+2. Diagnostica ginecologica;
+
+3. Tecnica diagnostica di laboratorio nel campo ostetrico e ginecologico esclusa la istologia (sierologia, batteriologia, citologia, ematologia, biochimica);
+
+4. Clinica ostetrica e ginecologica.
+
+3° Anno:
+
+1. Anatomia patologica ostetrica e ginecologica;
+
+2. Istologia normale e patologica nel campo della specialita';
+
+3. Puericultura prenatale;
+
+4. Emoterapia nel campo ostetrico e ginecologico;
+
+5. Anestesia e analgesia nel campo ostetrico e ginecologico;
+
+6. Tecnica operatoria e ginecologica;
+
+7. Clinica ostetrica e ginecologica;
+
+8. Terapia medica ostetrica e ginecologica.
+
+4° Anno:
+
+1. Puericultura post-natale e malattie del neonato;
+
+2. Ostetricia e ginecologia forense;
+
+3. Diagnostica Rontgen, radioterapia in ostetricia e ginecologia;
+
+4. Clinica ostetrica e ginecologica (esame alla fine del quarto anno);
+
+5. Urologia ginecologica;
+
+6. Chirurgia addominale extra genitale.
+
+Gli esami si fanno per gruppi di materie ed i membri delle commissioni saranno proposti dai direttori delle scuole.
+
+A giudizio del consiglio della scuola, formulato sulla base del rendimento di ogni iscritto, gli specializzandi potranno essere esonerati dal pagamento delle tasse universitarie.
+
+Per il conseguimento del diploma, l'iscritto deve presentare e discutere una dissertazione scritta con contributo personale.
+
+Scuola di specializzazione in clinica pediatrica
+
+Art. 130. - La scuola di specializzazione in clinica pediatrica ha la durata di tre anni.
+
+L'ammissione alla scuola avviene per esami e titoli.
+
+Il numero complessivo degli specializzandi da ammettere alla scuola e' fissato in 60 allievi, ripartito in 20 allievi per ogni anno di corso.
+
+L'iscrizione al secondo anno di corso puo' essere consentita, a giudizio del consiglio della scuola, ai candidati che abbiano conseguito il diploma di specializzazione in puericultura o che abbiano titoli pediatrici.
+
+Art. 131. - Le materie di insegnamento sono:
+
+1° Anno:
+
+1. Clinica pediatrica (triennale);
+
+2. Patologia pediatrica (biennale);
+
+3. Puericoltura (biennale);
+
+4. Semeiotica pediatrica e tecnica diagnostica (biennale;
+
+5. Auxologia normale e patologica (annuale);
+
+6. Psicologia dell'eta' evolutiva (annuale).
+
+2° Anno:
+
+1. Clinica pediatrica;
+
+2. Patologia pediatrica;
+
+3. Puericoltura;
+
+4. Semeiotica pediatrica e tecnica diagnostica;
+
+5. Terapia pediatrica (annuale);
+
+6. Radiologia pediatrica (annuale);
+
+7. Malattie infettive dell'infanzia (annuale).
+
+3° Anno:
+
+1. Clinica pediatrica;
+
+2. Neuropsichiatria infantile.
+
+Gli insegnamenti fondamentali saranno integrati, a giudizio del consiglio della scuola, da almeno tre insegnamenti scelti fra i seguenti o da altri eventuali che possono essere stabiliti di anno in anno:
+
+Chirurgia pediatrica;Ortopedia e traumatologia infantile;
+
+Odontoiatria;
+
+Clinica dermosifilopatica;
+
+Clinica oculistica;
+
+Clinica otorinolaringoiatrica;
+
+Cardiologia;
+
+Genetica.
+
+Il direttore della scuola, inoltre, puo' disporre che si tengano un certo numero di conferenze su argomenti di interesse pediatrico.
+
+Art. 132. - Gli allievi dovranno seguire l'internato obbligatorio con non piu' di due mesi di ferie all'anno Per conseguire il diploma di specializzazione in clinica pediatrica gli allievi dovranno superare gli esami in tutti gli insegnamenti fondamentali e almeno in tre insegnamenti scelti dall'allievo e presentare e discutere una dissertazione scritta su un argomento di pediatria.
+
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 24 settembre 1968
+
+SARAGAT
+
+SCAGLIA
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 2 novembre 1968 Atti del Governo, registro n. 223, foglio n. 76. - GRECO
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Dopo l'art. 411 sono aggiunti i seguenti articoli concernenti l'istituzione del centro studi ed archivio della comunicazione:  
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Centro studi ed archivio della comunicazione  
-Art. 412. - Presso l'Universita' di Parma e' costituito il centro studi ed archivio della comunicazione.  
-Art. 413. - Il centro si articola in sezioni che sono arte, fotografia, media, spettacolo, progetto le quali raccolgono materiale donato o acquisito comunque dall'Universita'.  
-Art. 414. - Gli scopi del centro sono la raccolta, conservazione ed analisi dei materiali di cui alle sue sezioni; la promozione della ricerca sul territorio; gli scambi e rapporti con istituzioni similari a livello internazionale, nazionale e regionale; la formazione di specialisti nell'ambito dei problemi della comunicazione.  
-Una sezione operativa del centro si occupa della realizzazione di mostre e di attivita' didattica anche collegata al patrimonio del centro stesso.  
-Art. 415. - Il centro e' coordinato e diretto da un responsabile che e' il direttore del centro nominato dal rettore; al direttore si affianca un esecutivo di specialisti composto da otto membri e un comitato scientifico, di consulenza, diviso in relazione con le cinque sezioni, che lo coadiuva nella attivita'. Gli organi suddetti sono nominati, ogni triennio, dal rettore, su proposta del direttore del centro.  
-Art. 416. - Il centro dispone di personale e sede assegnatigli dall'Universita' e ha una dotazione di funzionamento sul bilancio dell'Ateneo, nonche' dispone di contributi di enti pubblici e privati.  
-Per quanto concerne le norme di amministrazione e contabilita' del centro si applicano le disposizioni di cui al titolo 4 del [decreto del Presidente della Repubblica 4 marzo 1982, n. 371](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-04;371).  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+Gli articoli da 127 a 132 relativi alla scuola di specializzazione in ostetricia e ginecologia e alla scuola di specializzazione in pediatria e puericultura sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in ostetricia e ginecologia  
+  
+Art. 127. - La scuola ha la durata di quattro anni.  
+L'ammissione alla scuola avviene a seguito di concorso per titoli ed esami.  
+Sono da considerarsi titoli preferenziali, a parita' di risultato dell'esame di ammissione:  
+a) il voto di laurea in medicina e chirurgia;  
+b) aver frequentato come studente interno una clinica ostetrica e ginecologica della universita';  
+c) aver svolto la tesi di laurea nella clinica ostetrica e ginecologica;  
+d) documentazione di eventuali servizi prestati in grossi reparti ospitalieri della specialita';  
+e) eventuali pubblicazioni.  
+Il numero complessivo degli specializzandi da ammettere alla scuola e' fissato in 52 allievi, ripartiti in 13 allievi per ogni anno di corso.  
+Per nessun motivo il corso di quattro anni puo' essere abbreviato.  
+Nessun titolo puo' esonerare dalla frequenza gli iscritti nei quattro anni di corso.  
+Art. 128. - Gli iscritti, oltre all'obbligo di frequenza delle lezioni, esercitazioni, seminari, ecc., devono presta servizio analogo a quello degli assistenti per non meno di nove mesi all'anno.  
+Gli iscritti alla scuola debbono sostenere esami annuali di profitto e l'esame finale di diploma. La sessione di esami di profitto e' unica, ed e' espletata nel mese di ottobre. Non puo' essere iscritto all'anno successivo di corso chi non abbia superato le materie fondamentali della specialita'.  
+Art. 129. - Le materie di insegnamento sono:  
+1° Anno:  
+1. Elementi di genetica e di eugenica;  
+2. Anatomia normale ed embriologia dell'apparato genitale femminile;  
+3. Fisiologia dell'apparato genitale femminile;  
+4. Endocrinologia fisiologica;  
+5. Fisiologia ostetrica;  
+6. Diagnostica ostetrica;  
+7. Clinica ostetrica e ginecologica.  
+2° Anno:  
+1. Tecnica operatoria ostetrica;  
+2. Diagnostica ginecologica;  
+3. Tecnica diagnostica di laboratorio nel campo ostetrico e ginecologico esclusa la istologia (sierologia, batteriologia, citologia, ematologia, biochimica);  
+4. Clinica ostetrica e ginecologica.  
+3° Anno:  
+1. Anatomia patologica ostetrica e ginecologica;  
+2. Istologia normale e patologica nel campo della specialita';  
+3. Puericultura prenatale;  
+4. Emoterapia nel campo ostetrico e ginecologico;  
+5. Anestesia e analgesia nel campo ostetrico e ginecologico;  
+6. Tecnica operatoria e ginecologica;  
+7. Clinica ostetrica e ginecologica;  
+8. Terapia medica ostetrica e ginecologica.  
+4° Anno:  
+1. Puericultura post-natale e malattie del neonato;  
+2. Ostetricia e ginecologia forense;  
+3. Diagnostica Rontgen, radioterapia in ostetricia e ginecologia;  
+4. Clinica ostetrica e ginecologica (esame alla fine del quarto anno);  
+5. Urologia ginecologica;  
+6. Chirurgia addominale extra genitale.  
+Gli esami si fanno per gruppi di materie ed i membri delle commissioni saranno proposti dai direttori delle scuole.  
+A giudizio del consiglio della scuola, formulato sulla base del rendimento di ogni iscritto, gli specializzandi potranno essere esonerati dal pagamento delle tasse universitarie.  
+Per il conseguimento del diploma, l'iscritto deve presentare e discutere una dissertazione scritta con contributo personale.  
+  
+Scuola di specializzazione in clinica pediatrica  
+  
+Art. 130. - La scuola di specializzazione in clinica pediatrica ha la durata di tre anni.  
+L'ammissione alla scuola avviene per esami e titoli.  
+Il numero complessivo degli specializzandi da ammettere alla scuola e' fissato in 60 allievi, ripartito in 20 allievi per ogni anno di corso.  
+L'iscrizione al secondo anno di corso puo' essere consentita, a giudizio del consiglio della scuola, ai candidati che abbiano conseguito il diploma di specializzazione in puericultura o che abbiano titoli pediatrici.  
+Art. 131. - Le materie di insegnamento sono:  
+1° Anno:  
+1. Clinica pediatrica (triennale);  
+2. Patologia pediatrica (biennale);  
+3. Puericoltura (biennale);  
+4. Semeiotica pediatrica e tecnica diagnostica (biennale;  
+5. Auxologia normale e patologica (annuale);  
+6. Psicologia dell'eta' evolutiva (annuale).  
+2° Anno:  
+1. Clinica pediatrica;  
+2. Patologia pediatrica;  
+3. Puericoltura;  
+4. Semeiotica pediatrica e tecnica diagnostica;  
+5. Terapia pediatrica (annuale);  
+6. Radiologia pediatrica (annuale);  
+7. Malattie infettive dell'infanzia (annuale).  
+3° Anno:  
+1. Clinica pediatrica;  
+2. Neuropsichiatria infantile.  
+Gli insegnamenti fondamentali saranno integrati, a giudizio del consiglio della scuola, da almeno tre insegnamenti scelti fra i seguenti o da altri eventuali che possono essere stabiliti di anno in anno:  
+Chirurgia pediatrica;Ortopedia e traumatologia infantile;  
+Odontoiatria;  
+Clinica dermosifilopatica;  
+Clinica oculistica;  
+Clinica otorinolaringoiatrica;  
+Cardiologia;  
+Genetica.  
+Il direttore della scuola, inoltre, puo' disporre che si tengano un certo numero di conferenze su argomenti di interesse pediatrico.  
+Art. 132. - Gli allievi dovranno seguire l'internato obbligatorio con non piu' di due mesi di ferie all'anno Per conseguire il diploma di specializzazione in clinica pediatrica gli allievi dovranno superare gli esami in tutti gli insegnamenti fondamentali e almeno in tre insegnamenti scelti dall'allievo e presentare e discutere una dissertazione scritta su un argomento di pediatria.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 ottobre 1986
+### Dato a Roma, addi' 24 settembre 1968
 
-COSSIGA
+SARAGAT SCAGLIA
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: GONELLA
 
-Visto, il Guardasigilli: ROGNONI
+Registrato alla Corte dei conti, addi' 2 novembre 1968
 
-Registrato atta Corte dei conti, addi' 25 febbraio 1987
-
-Registro n. 11 Istruzione, foglio n. 130
+Atti del Governo, registro n. 223, foglio n. 76. - GRECO

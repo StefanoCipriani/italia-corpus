@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1983 n. 1154
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1981 n. 940
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1983 n. 1154
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1981 n. 940
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2330](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2330), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -19,8 +19,6 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
@@ -33,114 +31,32 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Art. 1
 ------
 
   
-Nell'art. 49, relativo al corso di laurea in lettere, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-lingua latina;  
-lingua greca;  
-sociologia della letteratura;  
-storia dell'Europa contemporanea;  
-storia del Rinascimento;  
-storia dell'eta' dell'Illuminismo;  
-storia dei partiti e dei movimenti sindacali;  
-teoria della letteratura;  
-storia del pensiero politico classico;  
-storia della storiografia antica;  
-storia economica dell'eta' industriale;  
-metodologia della ricerca storica;  
-storia delle religioni del mondo classico;  
-storia economica del mondo antico;  
-archeologia e storia dell'arte tardo-romana;  
-archeologia della Magna Grecia;  
-epigrafia italica;  
-storia della lingua latina;  
-storia della lingua greca;  
-metrica greca e latina;  
-storia della retorica classica;  
-lessicografia italiana;  
-lingue e letterature dell'Etiopia;  
-epigrafia semitica;  
-archivistica;  
-storia della civilta' minoicomicenea;  
-storia del disegno e della grafica;  
-storia della ceramica medievale e moderna;  
-geografia storica;  
-letteratura inglese moderna e contemporanea;  
-letteratura tedesca moderna e contemporanea;  
-letteratura russa moderna e contemporanea;  
-letteratura francese moderna e contemporanea;  
-letteratura inglese medievale;  
-linguistica slava;  
-storia della musica rinascimentale e barocca;  
-storia dell'arte bizantina;  
-storia dell'arte nel Rinascimento;  
-storia dell'arte fiamminga e olandese.  
+All'art. 32, relativo all'elenco degli istituti della facolta' di economia e commercio, l'istituto di matematica attuariale muta la denominazione in quella di "istituto di matematica applicata alle scienze economiche e sociali".  
 
 Art. 2
 ------
 
   
-Nell'art. 50, relativo al corso di laurea in filosofia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-lingua latina;  
-lingua greca;  
-sociologia della letteratura;  
-storia dell'Europa contemporanea;  
-storia del Rinascimento;  
-storia dell'eta' dell'Illuminismo;  
-storia dei partiti e dei movimenti sindacali;  
-teoria della letteratura;  
-storia del pensiero politico classico;  
-storia della storiografia antica;  
-storia economica dell'eta' industriale;  
-metodologia della ricerca storica;  
-storia delle religioni del mondo classico;  
-storia economica del mondo antico;  
-storia della logica;  
-storia della filosofia contemporanea;  
-storia della storiografia filosofica;  
-storia della filosofia morale;  
-storia del pensiero scientifico.  
-
-Art. 3
-------
-
-  
-Nell'art. 51, relativo al corso di laurea in lingue e letterature straniera moderne (indirizzo europeo), all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-lingua latina;  
-lingua greca;  
-sociologia della letteratura;  
-storia dell'Europa contemporanea;  
-storia del Rinascimento;  
-storia dell'eta' dell'Illuminismo;  
-storia dei partiti e dei movimenti sindacali;  
-teoria della letteratura;  
-geografia storica;  
-letteratura inglese moderna e contemporanea;  
-letteratura tedesca moderna e contemporanea;  
-letteratura russa moderna e contemporanea;  
-letteratura francese moderna e contemporanea;  
-letteratura inglese medievale;  
-linguistica slava;  
-storia della musica rinascimentale e barocca;  
-storia dell'arte bizantina;  
-storia dell'arte del Rinascimento;  
-storia dell'arte fiamminga e olandese;  
-metodologia dell'insegnamento della lingua inglese.  
+All'art. 324, relativo alla scuola - diretta a fini speciali - per terapisti della riabilitazione, dopo le parole "il direttore del centro di rieducazione motoria "A. Torrigiani" della C.R.I. di Firenze" sono aggiunte le seguenti: "il direttore del centro di riabilitazione e terapia occupazionale "I Fraticini I.N.R.C.A." di Firenze".  
+All'art. 326, al quarto comma, nell'elenco degli istituti nei quali puo' essere eseguito il tirocinio pratico e' aggiunto il seguente istituto:  
+7) centro di riabilitazione e terapia occupazionale "I Fraticini" di Firenze.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 dicembre 1983
+### Dato a Roma, addi' 28 ottobre 1981
 
-PERTINI FALCUCCI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 22 marzo 1984
+Registrato alla Corte dei conti, addi' 9 febbraio 1952
 
-Registro n. 17 Istruzione, foglio n. 339
+Registro n. 20 Istruzione, foglio n. 203

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1970 n. 355
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1973 n. 555
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1970 n. 355
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1973 n. 555
+=============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, con sede in Roma, ad acquistare un immobile.
 -------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-355. Decreto del Presidente della Repubblica 5 febbraio 1970, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, con sede in Roma, viene autorizzata ad acquistare dal dott. ing. Mazzocchi la proprieta' piena ed esclusiva della porzione del fabbricato urbano sito in Bergamo, in via Panseri n. 15, contraddistinto in catasto con i numeri 4774/3930/ c sub 26 del comune di Bergamo, sezione censuaria di Boccaleone, consistente in un appartamento posto al piano terreno, composto di quattro vani piu' un bagno e due disimpegni; con la comproprieta' delle pertinenze condominiali e con l'onere della partecipazione proporzionale al pagamento delle spese di manutenzione ed esercizio dei luoghi ed impianti di uso e servizi comuni.  
+555. Decreto del Presidente della Repubblica 16 luglio 1973, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, con sede in Roma, viene autorizzata ad acquistare, dalla sig.ra Iside Benatti, un appartamento composto di ampio ingresso, di tre vani ad uso ufficio, del servizio igienico e del ripostiglio al 2° piano nonche' di altro ripostiglio al piano attico (4° piano), sito in Pesaro, via Diaz 53, al prezzo di lire 8.900.000, da destinare a sede della locale sezione provinciale.  
   
-Visto, il Guardasigilli: GAVA  
-Registrato alla Corte dei conti, addi' 8 giugno 1970  
-Atti del Governo, registro n. 236, foglio n. 20. - CARUSO
+Visto, il Guardasigilli: ZAGARI  
+Registrato alla Corte dei conti, addi' 13 settembre 1973  
+Atti di Governo, registro n. 260, foglio n. 23. - VALENTINI

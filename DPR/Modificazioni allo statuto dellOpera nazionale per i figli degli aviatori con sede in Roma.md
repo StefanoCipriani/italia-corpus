@@ -1,19 +1,19 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 aprile 1973 n. 310
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1972 n. 33
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 aprile 1973 n. 310
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1972 n. 33
 =============================================================
 
-Modificazioni allo statuto dell'Opera nazionale per i figli degli aviatori, con sede in Roma.
----------------------------------------------------------------------------------------------
+Modificazioni allo statuto dell'"Opera nazionale per i figli degli aviatori", con sede in Roma.
+-----------------------------------------------------------------------------------------------
 
 Art. 1
 ------
 
 N.
 
-310. Decreto del Presidente della Repubblica 12 aprile 1973, col quale, sulla proposta del Ministro per la difesa, il testo dell'art. 3 dello statuto dell'Opera nazionale per i figli degli aviatori, con sede in Roma, viene integrato in conformita' della deliberazione adottata dal consiglio di amministrazione dell'Opera stessa nella seduta del 17 ottobre 1972.  
+33. Decreto del Presidente della Repubblica 14 gennaio 1972, col quale, sulla proposta del Ministro per la difesa, viene approvata la deliberazione 28 maggio 1971 (verbale n. 144) del consiglio di amministrazione dell'"Opera nazionale per i figli degli aviatori", con sede in Roma, concernente modifiche agli articoli 3, 6 e 26 dello statuto dell'ente.  
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 9 giugno 1973  
-Atti di Governo, registro n. 258, foglio n. 105. - VALENTINI
+Visto, il Guardasigilli: COLOMBO  
+Registrato alla Corte dei conti, addi' 23 febbraio 1972  
+Atti del Governo, registro n. 247, foglio n. 49. - VALENTINI

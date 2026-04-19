@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 luglio 1971 n. 886
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1975 n. 265
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 luglio 1971 n. 886
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1975 n. 265
 =============================================================
 
 Modificazioni allo statuto del fondo pensioni per il personale della Banca commerciale italiana.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-886. Decreto del Presidente della Repubblica 6 luglio 1971, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, vengono approvati il nuovo testo degli articoli 4, 6, 7, 9, 12, 13, 18, 19, 20, 21, 22, 23, 31, 35, 36, 37 e 38, ed aggiunto l'art. 40, allo statuto del fondo pensioni per il personale della Banca commerciale italiana.  
+265. Decreto del Presidente della Repubblica 21 maggio 1975, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, vengono approvate le modificazioni agli articoli 7, 12, 20, 21 e 40 dello statuto del fondo pensioni per il personale della Banca commerciale italiana, approvato con [decreto del Presidente della Repubblica 9 febbraio 1956, n. 279](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-02-09;279).   
   
-Visto, il Guardasigilli: COLOMBO  
-Registrato alla Corte dei conti, addi' 20 ottobre 1971  
-Atti del Governo, registro n. 244, foglio n. 167. - CARUSO
+Visto, il Guardasigilli: REALE   
+Registrato alla Corte dei conti, addi' 30 giugno 1975   
+Atti di Governo, registro n. 10, foglio n. 87

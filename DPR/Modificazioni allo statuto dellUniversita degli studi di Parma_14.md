@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 febbraio 1961 n. 223
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 maggio 1967 n. 522
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 febbraio 1961 n. 223
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 maggio 1967 n. 522
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
@@ -12,7 +12,7 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772) e successivi;  
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
@@ -24,17 +24,23 @@ Sulla proposta del Ministro per la pubblica istruzione;
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 27. Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' aggiunto quello di "Terapia fisica".  
+Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso.  
+Art. 96. - All'elenco degli insegnamenti complementari del corso di laurea in Farmacia sono aggiunti quelli di:  
+12) Chimica delle sostanze naturali;  
+13) Complementi di chimica tossicologica;  
+14) Strutturistica chimica.  
+Art. 97, relativo alla propedeuticita' di esami del corso di laurea in Farmacia e' modificato nel senso che viene aggiunta la seguente disposizione: "L'esame di strutturistica chimica" non puo' essere sostenuto se lo studente non ha superato l'esame di "Chimica fisica".  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta, ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' febbraio 1961
+### Dato a Roma, addi' 24 maggio 1967
 
-GRONCHI BOSCO
+SARAGAT GUI
 
-Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti addi' 10 aprile 1961
+Visto, il Guardasigilli: REALE
 
-Atti del Governo registro n. 136, foglio n. 10. - VILLA
+Registrato alla Corte dei conti, addi' 3 luglio 1967
+
+Atti del Governo, registro n. 212, foglio n. 4. - GRECO

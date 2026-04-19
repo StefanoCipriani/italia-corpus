@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 agosto 1968 n. 1017
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1057
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 agosto 1968 n. 1017
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1057
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;225), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,208 +18,121 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pisa e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:
 
-L'art. 102 e' abrogato e sostituito dal seguente:
+L'art. 87, relativo al corso di laurea in chimica, e' modificato nel senso che e' aggiunto il seguente comma, relativo alle modalita' di esame di insegnamenti biennali:
 
-"La Facolta' di farmacia conferisce:
+"Gli insegnamenti biennali di istituzioni di matematiche, chimica generale ed inorganica, chimica organica, fisica sperimentale, esercitazioni di matematiche, comportano ciascuno due esami distinti da tenersi rispettivamente al termine di ciascun anno di corso".
 
-a) la laurea in farmacia;
+Art. 88 - all'elenco degli insegnamenti complementari del corso di laurea in chimica, per l'indirizzo organicobiologico e l'indirizzo inorganico chimico fisico, e' aggiunto il seguente:
 
-b) la laurea in chimica e tecnologia farmaceutiche".
+chimica dell'ambiente.
 
-Dopo l'art. 110 e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli relativi alla istituzione del corso di laurea in chimica e tecnologia farmaceutiche annesso alla facolta' di farmacia:
+L'art. 89, relativo alle propedeuticita' e modalita' di esame, e' modificato nel senso che tra il secondo e terzo comma e' aggiunto il seguente:
 
-Laurea in chimica e tecnologia farmaceutiche
+"Gli insegnamenti biennali di chimica fisica e di esercitazioni di chimica fisica, comportano ciascuno due esami distinti da tenersi rispettivamente al termine di ciascun anno di corso".
 
-Art. 111. - La durata del corso degli studi per la laurea in chimica e tecnologia farmaceutiche e' di 5 anni, divisi in un biennio ed un triennio.
+Art. 90 - all'elenco degli insegnamenti complementari del corso di laurea in chimica industriale e' aggiunto il seguente:
 
-Titolo di ammissione: diploma di maturita' classica o scientifica.
+chimica dell'ambiente.
 
-Insegnamenti fondamentali:
+Lo stesso articolo e' modificato nel senso che tra il sesto e il settimo comma e' aggiunto il seguente:
 
-Biennio:
+"Gli insegnamenti biennali di chimica fisica, chimica industriale, esercitazioni di chimica fisica, esercitazioni di chimica industriale, impianti industriali chimici con elementi di disegno, comportano ciascuno due esami distinti da tenersi rispettivamente al termine di ciascun anno di corso".
 
-1) analisi chimico farmaceutica I (analisi qualitativa);
+Art. 91 - nell'elenco degli insegnamenti complementari del corso di laurea in fisica sono aggiunti i seguenti:
 
-\* 2) anatomia umana;
+fisica biologica;
 
-\* 3) botanica farmaceutica;
+fisica sanitaria.
 
-\* 4) chimica fisica;
+Nello stesso elenco sono soppressi i seguenti insegnamenti complementari:
 
-\* 5) chimica generale ed inorganica;
+elementi di biofisica;
 
-\*\* 6) chimica organica I;
+geometria superiore;
 
-\* 7) fisica;
+spettroscopia e radiofrequenza.
 
-8) fisiologia generale;
+Art. 101 - relativo al corso di laurea in scienze geologiche, e' modificato nel senso che e' aggiunto il seguente comma:
 
-\* 9) istituzioni di matematiche;
-
-10) microbiologia e igiene;
-
-Triennio:
-
-11) analisi chimico farmaceutica II (analisi quantitativa);
-
-12) analisi chimico farmaceutica III (analisi dei medicamenti); \* 13) biochimica applicata;
-
-\* 14) chimica biologica;
-
-\* 15) chimica degli alimenti;
-
-\* 16) chimica farmaceutica applicata;
-
-\* 17) chimica farmaceutica e tossicologica I;
-
-\* 18) chimica farmaceutica e tossicologica II;
-
-\*\* 19) chimica organica II;
-
-\* 20) farmacologia e farmacognosia;
-
-21) impianti dell'industria farmaceutica;
-
-22) laboratorio di preparazione estrattiva e sintetica dei farmaci;
-
-23) metodi fisici in chimica organica;
-
-24) saggi e dosaggi farmacologici;
-
-\* 25) tecnica e legislazione farmaceutica;
-
-Insegnamenti complementari:
-
-\* 1) complementi di chimica tossicologica;
-
-\* 2) farmacologia molecolare;
-
-\* 3) chimica delle fermentazioni e microbiologia industriale;
-
-4) chimica delle sostanze organiche naturali;
-
-\* 5) microchimica;
-
-\* 6) mineralogia;
-
-7) prodotti dietetici;
-
-8) prodotti cosmetici.
-
-Le materie segnate con un asterisco sono comuni alla laurea in farmacia; quelle segnate con due asterischi sono comuni alla laurea in chimica.
-
-Per ottenere l'iscrizione al terzo anno di corso, lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti fissati per i due anni precedenti.
-
-Art. 112. - Per essere ammesso all'esame di laurea, lo studente deve aver seguito i corsi e superato tutti gli esami delle materie fondamentali e di almeno due materie a scelta fra quelle complementari; deve inoltre presentare una dissertazione scritta, di indole sperimentale, e il titolo di tre argomenti liberamente scelti ed appartenenti a materia differente da quella sulla quale verta la dissertazione scritta.
-
-L'esame di laurea consiste nella discussione pubblica della dissertazione scritta e degli argomenti prescelti.
+"L'insegnamento biennale di fisica sperimentale comporta due esami distinti da tenersi rispettivamente al termine di ciascun anno di corso".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato ad Antagnod, addi' 7 agosto 1968
+Dato a Roma, addi' 31 ottobre 1978
 
-SARAGAT
+PERTINI
 
-SCAGLIA
+PEDINI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BONIFACIO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 28 settembre 1968 Atti del Governo, registro n. 222, foglio n. 190. - GRECO
+alla Corte dei conti, addi' 23 aprile 1979 Registro n. 27 Istruzione, foglio n. 29
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;225), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pisa e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-L'art. 102 e' abrogato e sostituito dal seguente:  
-"La Facolta' di farmacia conferisce:  
-a) la laurea in farmacia;  
-b) la laurea in chimica e tecnologia farmaceutiche".  
-Dopo l'art. 110 e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli relativi alla istituzione del corso di laurea in chimica e tecnologia farmaceutiche annesso alla facolta' di farmacia:  
-  
-Laurea in chimica e tecnologia farmaceutiche  
-  
-Art. 111. - La durata del corso degli studi per la laurea in chimica e tecnologia farmaceutiche e' di 5 anni, divisi in un biennio ed un triennio.  
-Titolo di ammissione: diploma di maturita' classica o scientifica.  
-Insegnamenti fondamentali:  
-Biennio:  
-1) analisi chimico farmaceutica I (analisi qualitativa);  
-\* 2) anatomia umana;  
-\* 3) botanica farmaceutica;  
-\* 4) chimica fisica;  
-\* 5) chimica generale ed inorganica;  
-\*\* 6) chimica organica I;  
-\* 7) fisica;  
-8) fisiologia generale;  
-\* 9) istituzioni di matematiche;  
-10) microbiologia e igiene;  
-Triennio:  
-11) analisi chimico farmaceutica II (analisi quantitativa);  
-12) analisi chimico farmaceutica III (analisi dei medicamenti); \* 13) biochimica applicata;  
-\* 14) chimica biologica;  
-\* 15) chimica degli alimenti;  
-\* 16) chimica farmaceutica applicata;  
-\* 17) chimica farmaceutica e tossicologica I;  
-\* 18) chimica farmaceutica e tossicologica II;  
-\*\* 19) chimica organica II;  
-\* 20) farmacologia e farmacognosia;  
-21) impianti dell'industria farmaceutica;  
-22) laboratorio di preparazione estrattiva e sintetica dei farmaci;  
-23) metodi fisici in chimica organica;  
-24) saggi e dosaggi farmacologici;  
-\* 25) tecnica e legislazione farmaceutica;  
-Insegnamenti complementari:  
-\* 1) complementi di chimica tossicologica;  
-\* 2) farmacologia molecolare;  
-\* 3) chimica delle fermentazioni e microbiologia industriale;  
-4) chimica delle sostanze organiche naturali;  
-\* 5) microchimica;  
-\* 6) mineralogia;  
-7) prodotti dietetici;  
-8) prodotti cosmetici.  
-Le materie segnate con un asterisco sono comuni alla laurea in farmacia; quelle segnate con due asterischi sono comuni alla laurea in chimica.  
-Per ottenere l'iscrizione al terzo anno di corso, lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti fissati per i due anni precedenti.  
-Art. 112. - Per essere ammesso all'esame di laurea, lo studente deve aver seguito i corsi e superato tutti gli esami delle materie fondamentali e di almeno due materie a scelta fra quelle complementari; deve inoltre presentare una dissertazione scritta, di indole sperimentale, e il titolo di tre argomenti liberamente scelti ed appartenenti a materia differente da quella sulla quale verta la dissertazione scritta.  
-L'esame di laurea consiste nella discussione pubblica della dissertazione scritta e degli argomenti prescelti.  
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:   
+L'art. 87, relativo al corso di laurea in chimica, e' modificato nel senso che e' aggiunto il seguente comma, relativo alle modalita' di esame di insegnamenti biennali:   
+"Gli insegnamenti biennali di istituzioni di matematiche, chimica generale ed inorganica, chimica organica, fisica sperimentale, esercitazioni di matematiche, comportano ciascuno due esami distinti da tenersi rispettivamente al termine di ciascun anno di corso".   
+Art. 88 - all'elenco degli insegnamenti complementari del corso di laurea in chimica, per l'indirizzo organicobiologico e l'indirizzo inorganico chimico fisico, e' aggiunto il seguente:   
+chimica dell'ambiente.   
+L'art. 89, relativo alle propedeuticita' e modalita' di esame, e' modificato nel senso che tra il secondo e terzo comma e' aggiunto il seguente:   
+"Gli insegnamenti biennali di chimica fisica e di esercitazioni di chimica fisica, comportano ciascuno due esami distinti da tenersi rispettivamente al termine di ciascun anno di corso".   
+Art. 90 - all'elenco degli insegnamenti complementari del corso di laurea in chimica industriale e' aggiunto il seguente:   
+chimica dell'ambiente.   
+Lo stesso articolo e' modificato nel senso che tra il sesto e il settimo comma e' aggiunto il seguente:   
+"Gli insegnamenti biennali di chimica fisica, chimica industriale, esercitazioni di chimica fisica, esercitazioni di chimica industriale, impianti industriali chimici con elementi di disegno, comportano ciascuno due esami distinti da tenersi rispettivamente al termine di ciascun anno di corso".   
+Art. 91 - nell'elenco degli insegnamenti complementari del corso di laurea in fisica sono aggiunti i seguenti:   
+fisica biologica;   
+fisica sanitaria.   
+Nello stesso elenco sono soppressi i seguenti insegnamenti complementari:   
+elementi di biofisica;   
+geometria superiore;   
+spettroscopia e radiofrequenza.   
+Art. 101 - relativo al corso di laurea in scienze geologiche, e' modificato nel senso che e' aggiunto il seguente comma:   
+"L'insegnamento biennale di fisica sperimentale comporta due esami distinti da tenersi rispettivamente al termine di ciascun anno di corso".   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato ad Antagnod, addi' 7 agosto 1968
+### Dato a Roma, addi' 31 ottobre 1978
 
-SARAGAT SCAGLIA
+PERTINI PEDINI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 28 settembre 1968
+Registrato alla Corte dei conti, addi' 23 aprile 1979
 
-Atti del Governo, registro n. 222, foglio n. 190. - GRECO
+Registro n. 27 Istruzione, foglio n. 29

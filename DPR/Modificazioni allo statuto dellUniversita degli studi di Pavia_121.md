@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 818
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1960 n. 1817
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 818
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1960 n. 1817
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
@@ -10,131 +10,151 @@ Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, numero 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), modificato con [regio decreto 13 ottobre 1927 n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229) e successivi;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio universitario nazionale nei suoi pareri;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Veduto il [parere della sezione prima del Consiglio di Stato n. 1902/74 del 14 febbraio 1975](https://e-justice.europa.eu/ecli/ECLI::::);
+Sulla proposta, del Ministro per la pubblica istruzione;
 
-Considerato che non appare opportuno, al momento, procedere ad una generale revisione delle norme statutarie di tutti gli atenei relative alla direzione delle scuole di specializzazione e perfezionamento e degli istituti nonche' delle scuole dirette a fini speciali, attualmente affidata esclusivamente ai professori di ruolo o fuori ruolo, in attesa del provvedimento relativo allo stato giuridico del personale docente;
+Decreta:
 
-Sulla
------
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Gli articoli 88, 89, 90, relativi alla Scuola di specializzazione in ostetricia e ginecologia sono abrogati sostituiti dai seguenti:
+
+Art. 88. - La durata del corso e' di anni quattro le materie d'insegnamento sono le seguenti:
+
+Anno primo:
+
+Semeiotica e clinica ostetrica e ginecologica Anatomia descrittiva e topografia degli organi pelvici della donna;
+
+Embriologia;
+
+Fisiologia della generazione con elementi di genetica ed eugenica.
+
+Anno secondo:
+
+Semeiotica e clinica ostetrica e ginecologica Anatomia patologica degli organi genitali femminili;
+
+Puericultura pre e post-natale.
+
+Anno terzo:
+
+Semeiotica e clinica ostetrica, e ginecologica;
+
+Radio-diagnostica e radio-terapia ostetrica, e ginecologica;
+
+Urologia ostetrica e ginecologica;
+
+Operazioni ostetriche.
+
+Anno quarto:
+
+Semeiotica e clinica, ostetrica e ginecologica;
+
+Ostetricia e ginecologia medico-legale e sociale Operazioni ginecologiche.
+
+E' inoltre obbligatoria la frequenza alle esercitazioni cliniche e di laboratorio annesse ai corsi e l'internato alla Clinica ostetrica e ginecologica.
+
+Art. 89. - Le iscrizioni al primo anno di corso sono limitate a quindici posti che verranno assegnati in seguito al concorso per titoli od eventualmente per esame.
+
+Art. 90. - Gli esami sono dati in gruppo alla fine di ogni biennio.
+
+Alla fine del 1° biennio gli esami vertono sulle materie del primo e del secondo anno; alla fine del secondo biennio sulle materie del terzo e del quarto anno.
+
+Alla fine del primo e del terzo anno, il direttore della Scuola, con la collaborazione degli insegnanti delle rispettive materie, si accerta in colloqui del profitto conseguito dagli iscritti: questi non possono essere ammessi all'anno successivo della Scuola senza aver superato gli esami prescritti od il colloquio, sulle materie dell'anno di corso per il conseguimento dell'idoneita'.
+
+L'esame di diploma consiste nella discussione di una dissertazione scritta, nella presentazione da parte del candidato della relazione scritta dell'attivita' da lui svolta nel periodo di internato in Clinica e degli interventi operatori eseguiti, e di una, prova clinica. L'esame e' integrato da una prova di laboratorio.
+
+Art. 129, relativo alla Scuola di specializzazione in cardiologia e' abrogato e sostituito dal seguente:
+
+"Alla Scuola sono ammessi dodici medici per ogni anno. La Direzione della Scuola si riserva di procedere ad una scelta in base ai titoli di studio ed eventualmente a mezzo di esami. Non sono ammesse abbreviazioni della, durata del corso. L'internato in Clinica e' obbligatorio".
+
+Art. 138, relativo alla Scuola di specializzazione in anestesia e' abrogato e sostituito dal seguente:
+
+"Sono ammessi alla Scuola quattordici medici per ogni anno".
+
+Il presente decreto, munito del sigillo dello Stato, sara' incerto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1960
+
+GRONCHI
+
+BOSCO
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 13 febbraio 1961 Atti del Governo, registro n. 134, foglio n. 33. - VILLA
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Lo statuto dell'Universita' di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come l'art. 153, secondo comma, relativo alla scuola di specializzazione in odontostomatologia e' modificato nel senso che l'espressione "discussione scritta" e' sostituita da "dissertazione scritta".  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, numero 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), modificato con [regio decreto 13 ottobre 1927 n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta, del Ministro per la pubblica istruzione;  
   
-Gli articoli 172, 173, 174, 175 e 176, relativi alla scuola di specializzazione in oncologia, sono soppressi e sostituiti dai seguenti:  
+Decreta:  
   
-Scuola di specializzazione in oncologia  
-Art. 172. - La scuola di specializzazione in oncologia ha sede presso l'istituto di patologia generale e conferisce il diploma di specialista in oncologia.  
-Art. 173. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.  
-Art. 174. - La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazione. Il numero massimo degli allievi e' di venti per anno di corso e complessivamente di sessanta iscritti per l'intero corso di studi.  
-L'ammissione al corso avviene per titoli ed esami.  
-Art. 175. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-patologia generale dei tumori (I);  
-oncologia sperimentale (I);  
-anatomia ed istologia patologica dei tumori. (I);  
-epidemiologia dei tumori;  
-cancerogenesi ambientale e professionale e prevenzione primaria;  
-immunologia dei tumori.  
-2° Anno:  
-patologia generale dei tumori (II);  
-oncologia sperimentale (II);  
-anatomia ed istologia patologica dei tumori (II);  
-citodiagnostica dei tumori;  
-prevenzione clinica e tecniche diagnostiche e di laboratorio;  
-radiodiagnostica dei tumori;  
-oncologia medica (I);  
-oncologia chirurgica (I).  
-3° Anno:  
-oncologia medica (II);  
-oncologia chirurgica (II);  
-radioterapia dei tumori;  
-oncologia dell'apparato genitale femminile;  
-oncologia pediatrica;  
-principi di riabilitazione oncologica;  
-organizzazione della lotta contro i tumori.  
-Ogni scuola dovra' provvedere ad organizzare seminari e conferenze su specifici argomenti con l'integrazione di quelli elencati nello statuto.  
-Art. 176. - La frequenza alle lezioni, alle esercitazioni pratiche, ai seminari ed altre manifestazioni culturali riguardanti la materia e' obbligatoria per l'ammissione agli esami; il superamento degli esami di ciascun anno e' condizione indispensabile per l'iscrizione all'anno successivo. Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.  
-Al termine del triennio per ottenere il diploma i candidati devono presentare una dissertazione scritta su un argomento attinente alla specializzazione.  
-
-Art. 3
-------
-
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Gli articoli 259 e 260, relativi alla scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio, sono soppressi e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio  
-Art. 259. - La scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio ha sede presso l'istituto di clinica tisiologica e delle malattie dell'apparato respiratorio e conferisce il diploma di specialista in tisiologia e malattie dell'apparato respiratorio.  
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente. La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione. Il numero massimo degli allievi e' di venticinque per anno di corso e complessivamente di cento iscritti per l'intero corso di studi. L'ammissione al corso avviene per titoli ed esami.  
-Art. 260. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale) (I);  
-patologia della tubercolosi polmonare ed extra polmonare;  
-fisiologia e fisiopatologia generale dell'apparato respiratorio;  
-patologia delle malattie dell'apparato respiratorio;  
-semeiotica fisica e funzionale dell'apparato respiratorio;  
-microbiologia;  
-epidemiologia e statistica sanitaria della tubercolosi e delle malattie dell'apparato respiratorio.  
-2° Anno:  
-anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale) (II);  
-clinica della tubercolosi (triennale) (I);  
-clinica delle malattie dell'apparato respiratorio (triennale) (I);  
-fisiopatologia speciale della tubercolosi e delle malattie dell'apparato respiratorio;  
-broncologia;  
-radiologia dell'apparato respiratorio;  
-profilassi della tubercolosi;  
-igiene e legislazione sociale.  
-3° Anno:  
-clinica delle malattie dell'apparato respiratorio (triennale) (II);  
-clinica della tubercolosi (triennale) (II);  
-chemioterapia della tubercolosi e delle malattie dell'apparato respiratorio;  
-terapia fisiomeccanica nella tubercolosi e nelle malattie dell'apparato respiratorio;  
-terapia chirurgica nella tubercolosi e nelle malattie dell'apparato respiratorio.  
-4° Anno:  
-clinica delle malattie dell'apparato respiratorio (triennale) (III);  
-clinica della tubercolosi (triennale) (III).  
-Gli insegnamenti complementari che possono essere inseriti negli statuti sono i seguenti: immunologia clinica, cardiologia, medicina nucleare, malattie professionali dell'apparato respiratorio, terapia intensiva pneumologica.  
-I corsi di insegnamento sono integrati da conferenze, da esercitazioni pratiche, da seminari interdisciplinari (questi ultimi prevalentemente destinati al quarto anno) per i quali gli allievi hanno l'obbligo di frequenza al pari delle lezioni.  
-Alla fine di ogni anno di corso gli allievi devono superare una prova di esame sulle materie del rispettivo anno.  
-Alla fine del quarto anno gli allievi devono sostenere l'esame di diploma consistente nella dissertazione scritta su un argomento attinente alla specializzazione assegnato dal direttore della scuola o da uno degli insegnanti della scuola.  
+Gli articoli 88, 89, 90, relativi alla Scuola di specializzazione in ostetricia e ginecologia sono abrogati sostituiti dai seguenti:  
+Art. 88. - La durata del corso e' di anni quattro le materie d'insegnamento sono le seguenti:  
+Anno primo:  
+Semeiotica e clinica ostetrica e ginecologica Anatomia descrittiva e topografia degli organi pelvici della donna;  
+Embriologia;  
+Fisiologia della generazione con elementi di genetica ed eugenica.  
+Anno secondo:  
+Semeiotica e clinica ostetrica e ginecologica Anatomia patologica degli organi genitali femminili;  
+Puericultura pre e post-natale.  
+Anno terzo:  
+Semeiotica e clinica ostetrica, e ginecologica;  
+Radio-diagnostica e radio-terapia ostetrica, e ginecologica;  
+Urologia ostetrica e ginecologica;  
+Operazioni ostetriche.  
+Anno quarto:  
+Semeiotica e clinica, ostetrica e ginecologica;  
+Ostetricia e ginecologia medico-legale e sociale Operazioni ginecologiche.  
+E' inoltre obbligatoria la frequenza alle esercitazioni cliniche e di laboratorio annesse ai corsi e l'internato alla Clinica ostetrica e ginecologica.  
+Art. 89. - Le iscrizioni al primo anno di corso sono limitate a quindici posti che verranno assegnati in seguito al concorso per titoli od eventualmente per esame.  
+Art. 90. - Gli esami sono dati in gruppo alla fine di ogni biennio.  
+Alla fine del 1° biennio gli esami vertono sulle materie del primo e del secondo anno; alla fine del secondo biennio sulle materie del terzo e del quarto anno.  
+Alla fine del primo e del terzo anno, il direttore della Scuola, con la collaborazione degli insegnanti delle rispettive materie, si accerta in colloqui del profitto conseguito dagli iscritti: questi non possono essere ammessi all'anno successivo della Scuola senza aver superato gli esami prescritti od il colloquio, sulle materie dell'anno di corso per il conseguimento dell'idoneita'.  
+L'esame di diploma consiste nella discussione di una dissertazione scritta, nella presentazione da parte del candidato della relazione scritta dell'attivita' da lui svolta nel periodo di internato in Clinica e degli interventi operatori eseguiti, e di una, prova clinica. L'esame e' integrato da una prova di laboratorio.  
+Art. 129, relativo alla Scuola di specializzazione in cardiologia e' abrogato e sostituito dal seguente:  
+"Alla Scuola sono ammessi dodici medici per ogni anno. La Direzione della Scuola si riserva di procedere ad una scelta in base ai titoli di studio ed eventualmente a mezzo di esami. Non sono ammesse abbreviazioni della, durata del corso. L'internato in Clinica e' obbligatorio".  
+Art. 138, relativo alla Scuola di specializzazione in anestesia e' abrogato e sostituito dal seguente:  
+"Sono ammessi alla Scuola quattordici medici per ogni anno".  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' incerto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 settembre 1980
+### Dato a Roma, addi' 31 ottobre 1960
 
-PERTINI SARTI
+GRONCHI BOSCO
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 24 novembre 1980
+Registrato alla Corte dei conti, addi' 13 febbraio 1961
 
-Registro n. 109 Istruzione, foglio n. 82
+Atti del Governo, registro n. 134, foglio n. 33. - VILLA

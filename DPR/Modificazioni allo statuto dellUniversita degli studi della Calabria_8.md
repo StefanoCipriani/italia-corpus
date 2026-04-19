@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 716
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1983 n. 1031
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 716
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1983 n. 1031
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi della Calabria.
 -----------------------------------------------------------------------
@@ -39,24 +39,21 @@ Articolo unico
 --------------
 
   
-All'elenco degli insegnamenti del dipartimento di strutture di cui all'art. 51 e alla tabella B1 (allegata all'art. 30), e' aggiunto il seguente nuovo insegnamento:  
-meccanica dei continui.  
-All'elenco degli insegnamenti del dipartimento di difesa del suolo di cui all'art. 53 e alla tabella Cl (allegata all'art. 30), sono aggiunti i seguenti nuovi insegnamenti:  
-infrastrutture idrauliche;  
-complementi di costruzioni idrauliche.  
+Nell'art. 50 e nella tabella D, allegata all'art. 30, allo elenco degli insegnamenti afferenti al dipartimento di sistemi e' aggiunto il seguente nuovo insegnamento complementare:  
+ingegneria dei sistemi aerospaziali.  
+Nell'art. 51 e nella tabella C 1, allegata all'art. 30, all'elenco degli insegnamenti afferenti al dipartimento di strutture e' aggiunto il seguente nuovo insegnamento complementare:  
+costruzioni in zone sismiche.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 17 maggio 1986
+### Dato a Roma, addi' 11 ottobre 1983
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 14 ottobre 1986
+Registrato alla Corte dei conti, addi' 29 febbraio 1984
 
-Registro n. 76 Istruzione, foglio n. 364
+Registro n. 13 Istruzione, foglio n. 46

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1980 n. 630
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 marzo 1981 n. 481
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1980 n. 630
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 marzo 1981 n. 481
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Sassari.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Sassari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084) e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084), e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,70 +18,43 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Sassari e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Sassari e convalidati dal Consiglio universitario nazionale nel suo parere;
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Veduto il [parere della sezione prima del Consiglio di Stato, n. 1902/74 del 14 febbraio 1975](https://e-justice.europa.eu/ecli/ECLI::::);
+Sulla proposta del Ministro della pubblica istruzione;
 
-Considerato che non appare opportuno, al momento, procedere ad una generale revisione delle norme statutarie di tutti gli atenei relative alla direzione delle scuole di specializzazione e perfezionamento e degli istituti nonche' delle scuole dirette a fini speciali, attualmente affidata esclusivamente ai professori di ruolo o fuori ruolo, in attesa del provvedimento relativo allo stato giuridico del personale docente;
+Decreta:
+--------
 
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
+Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
   
-Lo statuto dell'Universita' di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Gli articoli 106, 107 e 108, relativi alla scuola di specializzazione in puericultura, sono soppressi e sostituiti dai seguenti:   
-  
-Scuola di specializzazione in puericultura   
-  
-Art. 106. - La scuola di specializzazione in puericultura ha sede presso l'istituto di puericultura e conferisce il diploma di specialita' in puericultura. La scuola comprende un insegnamento teorico e pratico.   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazioni.   
-Il numero massimo di allievi e' di cinque per anno di corso e complessivamente di quindici iscritti per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-Art. 107. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-peculiarita' anatomo-fisiologiche dell'eta' evolutiva;   
-elementi di genetica medica e di eugenetica;   
-elementi di puericultura perinatale;   
-auxologia;   
-alimentazione e dietetica dell'eta' infantile;   
-elementi di semeiotica infantile.   
-2° Anno:   
-psicologia ed igiene mentale nell'eta' evolutiva;   
-igiene ed assistenza dell'eta' evolutiva;   
-profilassi delle malattie infettive nell'infanzia;   
-elementi di medicina scolastica;   
-legislazione ed assistenza sociale all'infanzia.   
-3° Anno:   
-tirocinio pratico presso l'istituto ove la scuola ha sede.   
-Art. 108. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.   
-Alla fine di ogni corso gli iscritti, per essere ammessi agli esami successivi, devono superare le prove di esame sulle materie impartite durante l'anno.   
-Al termine del corso di studi, per il conseguimento del diploma di specialista in puericultura, gli interessati devono superare l'esame di diploma, consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
+Dopo l'art. 29, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione di un seminario sull'America latina presso le facolta' di giurisprudenza e di magistero.   
+Art. 30. - Il seminario di studi latino-americani, costituito ai sensi dell'art. 23 del regolamento generale universitario, raggruppa e coordina, secondo criteri di interdisciplinarieta', gli insegnamenti relativi alla ricerca scientifica sulla realta' dell'America latina.   
+Art. 31. - Al seminario appartengono i professori di storia americana della facolta' di giurisprudenza, e di letteratura ispano-americana della facolta' di magistero. Al seminario appartengono inoltre i professori dell'Universita' di Sassari la cui attivita' didattica o di ricerca scientifica, in tutto o in parte, abbia regolarmente per oggetto la realta' latino-americana; essi vengono nominati dal rettore su parere degli appartenenti al seminario.   
+I professori appartenenti al seminario eleggono un direttore che dura in carica 3 anni ed e' rieleggibile.   
+Art. 32. - Possono essere ammessi al seminario studenti dell'Universita' degli studi di Sassari ed altri studiosi, secondo le norme contenute nel regolamento interno.   
+Art. 33. - A coloro che abbiano frequentato il seminario per almeno un anno viene rilasciato un certificato degli studi compiuti, sottoscritto dal direttore e firmato dal rettore.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 giugno 1980
+### Dato a Roma, addi' 24 marzo 1981
 
-PERTINI SARTI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 29 settembre 1980
+Registrato alla Corte dei conti, addi' 30 luglio 1981
 
-Registro n. 89 Istruzione, foglio n. 255
+Registro n. 73 Istruzione, foglio n. 307

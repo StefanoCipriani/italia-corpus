@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 363
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1985 n. 847
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 363
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1985 n. 847
+================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Perugia.
 -------------------------------------------------------------------
@@ -40,13 +40,13 @@ Articolo unico
 
   
 Nell'art. 49, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
-otorinolaringoiatria pediatrica.  
+semeiotica e tecniche di fisiopatologia respiratoria.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 marzo 1986
+### Dato a Roma, addi' 24 settembre 1985
 
 COSSIGA
 
@@ -54,6 +54,6 @@ FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 8 luglio 1986
+Registrato alla Corte dei conti, addi' 21 gennaio 1986
 
-Registro n. 54 Istruzione, foglio n. 332
+Registro n. 2 Istruzione, foglio n. 113

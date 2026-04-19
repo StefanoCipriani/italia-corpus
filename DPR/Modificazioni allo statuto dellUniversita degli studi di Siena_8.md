@@ -1,103 +1,64 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1980 n. 800
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1974 n. 877
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1980 n. 800
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1974 n. 877
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929 n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Siena e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio nazionale universitario;
-
-Veduto il [parere della sezione prima del Consiglio di Stato, n. 1902/74 del 14 febbraio 1975](https://e-justice.europa.eu/ecli/ECLI::::);
-
-Considerato che non appare opportuno, al momento, procedere ad una generale revisione delle norme statutarie di tutti gli atenei relative alla direzione delle scuole di specializzazione e perfezionamento e degli istituti nonche' delle scuole dirette a fini speciali, attualmente affidata esclusivamente ai professori di ruolo o fuori ruolo, in attesa del provvedimento relativo allo stato giuridico del personale docente;
-
-Sulla proposta del Ministro della pubblica, istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831), e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Dopo l'art. 227 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in scienza e tecnologia cosmetiche presso la facolta' di farmacia.   
+Decreta:  
   
-FACOLTA' DI FARMACIA   
-Scuola di specializzazione in scienza e tecnologia cosmetiche   
-Art. 228. - E' istituita presso la facolta' di farmacia una scuola di specializzazione in scienza e tecnologia cosmetiche con sede presso l'istituto di scienze farmacologiche dell'Universita'. Il suo scopo e' di impartire lezioni ed esercitazioni pratiche al fine di fornire agli allievi una preparazione completa teorica e sperimentale nella scienza e nella tecnologia dei cosmetici.   
-Art. 229. - Il direttore della scuola e' nominato dalla facolta' di farmacia tra i professori di ruolo o fuori ruolo delle materie afferenti alla scuola o, in carenza, tra i professori di ruolo o fuori ruolo di materia affine. Egli presiede il consiglio della scuola che e' composto da tutti gli insegnanti dei vari corsi.   
-I docenti sono proposti dal direttore e sono nominati dalla facolta'.   
-Art. 230. - La scuola rilascia un diploma di specializzazione in scienza e tecnologia cosmetiche.   
-La durata del corso di studi per il conseguimento del diploma e' di due anni.   
-Alla scuola possono essere iscritti dieci allievi per anno. Qualora il numero delle domande di iscrizione ecceda quello fissato, il consiglio della scuola procedera' ad una scelta insindacabile in base ai titoli presentati.   
-Possono iscriversi i laureati in farmacia, chimica e tecnologia farmaceutiche, chimica, chimica industriale e scienze biologiche.   
-Su proposta della facolta' di farmacia, udito il consiglio della scuola, il senato accademico puo' eventualmente ammettere alla scuola candidati che presentino diplomi di laurea diversi da quelli stabiliti. Gli aspiranti debbono, nei termini regolamentari, presentare apposita domanda su carta legale diretta al rettore e corredata dai prescritti documenti e della quietanza del pagamento di tasse, soprattasse e contributi relativi.   
-Art. 231. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-1) biologia e biochimica cellulare;   
-2) fisiologia applicata;   
-3) farmacologia e tossicologia cosmetica;   
-4) microbiologia applicata ed igiene;   
-5) chimica fisica applicata;   
-6) chimica prodotti cosmetici I;   
-7) tecnologia e formulazione cosmetica I;   
-8) controllo chimico di qualita' I.   
-2° Anno:   
-1) chimica prodotti cosmetici II;   
-2) tecnologia e formulazione cosmetica II;   
-3) legislazione cosmetica e documentaristica;   
-4) impianti e macchinario cosmetico;   
-5) marketing, pubblicita' e psicocosmesi;   
-6) controllo chimico di qualita' II;   
-7) controllo microbiologico di qualita'.   
-Ad ogni corso corrispondera' un adeguato numero di lezioni teoriche ed esercitazioni pratiche che potranno essere svolte da piu' docenti in relazione alla particolare necessita' di ciascun corso.   
-Oltre alle predette materie, possono essere tenuti seminari e conferenze di aggiornamento nel campo della cosmetologia.   
-Gli iscritti sono obbligati alla frequenza costante ai corsi di lezioni ed esercitazioni.   
-La frequenza viene comprovata dall'attestazione rilasciata dagli insegnanti sul libretto di iscrizione. L'attestazione di frequenza e' indispensabile ai fini della ammissione agli esami.   
-Art. 232. - Le tasse per l'iscrizione ai corsi ed i contributi per le esercitazioni pratiche sono stabilite come segue:   
+Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 55 - all'elenco degli insegnamenti complementari del corso di laurea in materie letterarie e' aggiunto quello di "Paleografia e diplomatica".  
+Art. 56 - all'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti:  
   
-tassa immatricolazione (primo anno) . . . . . . . . . . . . L. 12.000 tassa iscrizione (ogni anno) . . . . . . . . . . . . . . . L. 200.000 soprattassa esami (ogni anno) . . . . . . . . . . . . . . . L. 16.000 contributi di laboratorio (ogni anno) . . . . . . . . . . . L. 20.000 tassa diploma (ultimo anno). . . . . . . . . . . . . . . . . L. 6.000 tassa trasferimento per altra sede. . . . . . . . . . . . . L. 10.000   
-tassa registrazione congedi provenienti   
-da altra sede. . . . . . . . . . . . . . . . . . . . . . . . L. 2.000   
+Storia della filosofia medioevale;  
+Filosofia delle religioni.  
+Art. 66 - all'elenco degli istituti annessi alla facolta' di magistero e' aggiunto l'istituto policattedra di storia antica.  
+L'art. 77, relativo alla scuola diretta a fini speciali per terapisti della riabilitazione, e' modificato nel senso che il terzo comma e' soppresso e sostituito dal seguente:  
   
-Art. 233. - Le date di inizio e termine delle lezioni sono fissate dalla facolta', udito il consiglio della scuola, in dipendenza a ragioni speciali inerenti alla natura dei corsi.   
-Art. 234. - Le commissioni per gli esami di profitto e di diploma sono nominate dal preside di facolta' di farmacia su proposta del direttore della scuola e sono composte, di norma, rispettivamente di tre e sette membri.   
-Gli esami di profitto e di diploma si sostengono di regola in due sessioni in un periodo successivo alla conclusione di ciascun anno.  
-Gli esami di profitto, che consistono in prove teoriche e tecnico-pratiche, si sostengono nelle singole materie o anche in gruppi di materie strettamente affini.   
-L'esame di diploma, al quale i candidati potranno essere ammessi dopo aver superato tutti gli esami di profitto, consiste in una discussione di una dissertazione scritta svolta dal candidato su un argomento tecnico-scientifico assegnato allo specializzando dal direttore della scuola.   
-Art. 235. - Al funzionamento della scuola si provvedera' con il provento delle tasse, soprattasse e contributi da parte degli iscritti. La scuola potra' avvalersi anche di contributi provenienti da enti o industrie interessate allo sviluppo delle conoscenze in questo campo.   
-L'istituto di scienze farmacologiche mettera' a disposizione della scuola aule e locali per lezioni ed esercitazioni, unitamente agli altri istituti della facolta' interessati alla scuola.   
+Il numero massimo dei posti disponibili per ogni anno di corso e' stabilito nella misura di 50. L'iscrizione alla scuola e' subordinata al superamento di un esame di ammissione che sara' sostenuto con una commissione formata da tre docenti della scuola designati dal direttore.  
+L'art. 80, e' modificato nel senso che dopo la lettera G) e' aggiunta la lettera H) relativa alla terapia occupazionale di indirizzo ortopedagogico:  
+H) Terapia occupazionale di indirizzo ortopedagogico:  
+1) Neuropsichiatria e psicopatologia;  
+2) Psicologia differenziale e dell'eta' evolutiva;  
+3) Sociologia dell'educazione e organizzazione dei servizi sociali;  
+4) Ortopedagogia dell'espressione verbale e psicomotoria;  
+5) Ortopedagogia dei disturbi del comportamento e socioterapia;  
+6) Ortopedagogia dei disturbi dell'apprendimento e attivita' integrative;  
+7) Tecniche occupazionali per lo sviluppo promozionale dell'autonomia e della indipendenza dei fabbisogni della vita quotidiana;  
+8) Ludoterapia ed ergoterapia.  
+Art. 85 - all'elenco degli istituti annessi alla facolta' di scienze matematiche, fisiche e naturali sono aggiunti i seguenti istituti policattedra:  
+  
+Istituto di matematica;  
+Osservatorio geofisico.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 luglio 1980
+### Dato a Roma, addi' 28 ottobre 1974
 
-PERTINI SARTI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 24 novembre 1980
+Registrato alla Corte dei conti, addi' 8 marzo 1975
 
-Registro n. 109 Istruzione, foglio n. 77
+Atti di Governo, registro n. 8, foglio n. 170

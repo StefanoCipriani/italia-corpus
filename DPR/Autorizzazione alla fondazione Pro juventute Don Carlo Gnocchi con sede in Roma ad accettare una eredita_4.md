@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1972 n. 1052
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1972 n. 492
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1972 n. 1052
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1972 n. 492
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute Don Carlo Gnocchi", con sede in Roma, ad accettare una eredita'.
 --------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1052. Decreto del Presidente della Repubblica 18 dicembre 1972, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute Don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', disposta dal sig. Ettore Abbondati, con testamento olografo in data 1 marzo 1962, pubblicato con verbale a rogito dott. Paolo Garbarino, notaio in Rapallo, in data 12 maggio 1969 (n. 19813 di repertorio e n. 13860 di raccolta), registrato a Rapallo il 27 maggio 1969 al n. 681, vol. 170, consistente in proprieta' immobiliari varie, ubicate in Padova (via Zara n. 2 e via T. Aspetti n. 15) ed in Venezia (via Monte Santo n. 5) per un valore complessivo presunto di L. 29.000.000 e gravata di usufrutto non affrancabile a favore delle signore Norina Febeo ved. Rossi, e Erminia Abbondati ved. Verdini, rispettivamente nella misura del 70% e del 30%.   
+492. Decreto del Presidente della Repubblica 19 giugno 1972, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute Don Carlo Gnocchi" viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' - consistente nella nuda proprieta' di un appartamento, sito in Levico, con orto annesso e terreno, con tutto quanto in esso appartamento contenuto, gravato d'usufrutto a favore del sig. Libardi Giuseppe, fratello della defunta, e tutto del valore presunto di L. 800.000 - disposta dalla signorina Libardi Maria con testamento pubblico del 6 marzo 1966, pubblicato l'11 maggio 1966 per rogito del dott. Bruno Bertuzzo, notaio in Levico, col n. 6153 di repertorio e n. 952 di raccolta, registrato a Borgo Valsugana il 25 maggio 1966 al n. 346, vol. 40.  
   
-Visto, il Guardasigilli: GONELLA   
-Registrato alla Corte dei conti, addi' 21 febbraio 1973   
-Atti di Governo, registro n. 256, foglio n. 17. - VALENTINI
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 23 agosto 1972  
+Atti del Governo, registro n. 250, foglio n. 167. - VALENTINI

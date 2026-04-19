@@ -1,108 +1,237 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1971 n. 835
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 930
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1971 n. 835
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 930
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 15, relativo all'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza e' modificato nel senso che gli insegnamenti di Diritto svizzero" e di "Diritto minerario" sono soppressi; mentre l'insegnamento di "Diritto pubblico comparato e storia costituzionale" muta la denominazione in quella di "Storia costituzionale".
+
+Art. 42. - All'elenco degli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto il seguente:
+
+Analisi del linguaggio delle scienze sociali.
+
+Art. 54. - All'elenco degli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti i seguenti:
+
+Statistica aziendale;
+
+Storia dell'agricoltura;
+
+Scienza dell'amministrazione;
+
+Merceologia doganale;
+
+Istituzioni di diritto e procedura penale.
+
+Art. 98. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:
+
+Fisiologia dello sport.
+
+Nello stesso articolo l'insegnamento di "Scienza dell'alimentazione" muta la denominazione in quella di "Scienza dell'alimentazione e della dietetica".
+
+Art. 190. - All'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti i seguenti:
+
+Contabilita' e tecnica amministrativa dell'azienda agraria;
+
+Enzimologia e chimica delle fermentazioni;
+
+Chimica e tossicologia degli antiparassitari (semestrale);
+
+Cerealicoltura e colture industriali da pieno campo;
+
+Produzione industriale degli alimenti zootecnici;
+
+Protezione della natura e riassetto del paesaggio;
+
+Venatoria e pescicoltura;
+
+Elementi di scienza e tecnica delle costruzioni;
+
+Virologia vegetale;
+
+Pianificazione ecologica del territorio;
+
+Difesa dagli inquinamenti;
+
+Ecologia animale;
+
+Miglioramento genetico degli animali domestici.
+
+Dopo l'art. 218 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola diretta a fini speciali di economia e merceologia degli alimenti, presso la facolta' di economia e commercio.
+
+TITOLO XV
+
+FACOLTA' DI ECONOMIA E COMMERCIO
+
+Scuola di economia e merceologia degli alimenti
+
+(Scuola diretta a fini speciali)
+
+Art. 219. - Alla facolta' di economia e commercio dell'Universita' di Padova e' annessa ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20), con sede presso l'istituto di merceologia, la scuola di economia e merceologia degli alimenti, che si propone di studiare la tecnologia di produzione degli alimenti, i loro metodi di conservazione ed i loro aspetti commerciali dal punto di vista tecnico-mercantile; cio' allo scopo di preparare degli specialisti idonei alla organizzazione dei servizi alimentari delle comunita', fornendo loro tutte le conoscenze necessarie per una razionale impostazione dietetica e nutritiva.
+
+La durata del corso degli studi e' di due anni.
+
+Titolo richiesto per l'ammissione: diploma di scuola media superiore di II grado. Per i laureati che intendessero frequentare la scuola, saranno convalidate le materie gia' sostenute in sede universitaria, con la possibilita' di riduzione della frequenza ad un solo anno.
+
+Art. 220. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+1) Elementi di chimica . . . . . . . . . . . . . . . . .40 ore
+
+2) Merceologia alimentare (I corso con esercitazioni). 40 "
+
+3) Legislazione sugli alimenti . . . . . . . . . . . . .10 "
+
+4) Igiene degli alimenti . . . . . . . . . . . . . . . .15 "
+
+5) Imprese industriali e commerciali dei prodotti ali-
+
+mentari . . . . . . . . . . . . . . . . . . . . . . .25 " 6) Statistiche del commercio dei prodotti agricoli . . .10 "
+
+2° Anno:
+
+1) Merceologia alimentare con esercitazioni (II corso) .40 ore 2) Organizzazione e gestione dei servizi alimentari. . .20 " 3) Elementi di chimica fisiologica . . . . . . . . . . .40 " 4) Nozioni di dietologia umana e zootecnica. . . . . . .20 " 5) Economia e statistica nel settore alimentare. . . . .30 "
+
+Alla fine del 2° corso lo studente che avra' seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali previsti dal piano di studio, dovra' sostenere un esame generale per il conseguimento del diploma di economia e merceologia degli alimenti.
+
+Tale esame consiste nella discussione, dinanzi ad una commissione composta di sette membri e presieduta dal direttore della scuola, di una dissertazione scritta su tema approvato dal professore della materia e alla quale il tema stesso si riferisce.
+
+Il consiglio di amministrazione dell'universita', su proposta della direzione della scuola, stabilira' di anno in anno l'ammontare dei contributi. Le tasse e soprattasse a carico degli iscritti restano cosi' determinate:
+
+Tassa di immatricolazione . . . . . . . . . . . . . . L. 5.000 Tassa annuale di iscrizione . . . . . . . . . . . . . " 18.000 Soprattassa esame di profitto . . . . . . . . . . . . " 7.000
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1972
+
+LEONE
+
+SCALFARO
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 17 gennaio 1973 Atti di Governo, registro n. 255, foglio n. 37. - VALENTINI
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-L'art. 380, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che il n. 9 e' abrogato e sostituito dal seguente:  
-n. 9. - Scuola in tisiologia e malattie dell'apparato respiratorio che conferisce il diploma di "Specialista in tisiologia e malattie dell'apparato respiratorio".  
-L'art. 381 e' modificato nel senso che l'ordinamento delle scuole di specializzazione in "Tisiologia e malattie dell'apparato respiratorio" e in "Medicina interna" sono abrogati e sostituiti dai seguenti:  
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Scuola di specializzazione in tisiologia  
-e malattie dell'apparato respiratorio  
-(durata del corso: 3 anni)  
+Art. 15, relativo all'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza e' modificato nel senso che gli insegnamenti di Diritto svizzero" e di "Diritto minerario" sono soppressi; mentre l'insegnamento di "Diritto pubblico comparato e storia costituzionale" muta la denominazione in quella di "Storia costituzionale".   
   
+Art. 42. - All'elenco degli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto il seguente:   
+Analisi del linguaggio delle scienze sociali.   
+  
+Art. 54. - All'elenco degli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti i seguenti:   
+Statistica aziendale;   
+Storia dell'agricoltura;   
+Scienza dell'amministrazione;   
+Merceologia doganale;   
+Istituzioni di diritto e procedura penale.   
+  
+Art. 98. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:   
+Fisiologia dello sport.   
+Nello stesso articolo l'insegnamento di "Scienza dell'alimentazione" muta la denominazione in quella di "Scienza dell'alimentazione e della dietetica".   
+  
+Art. 190. - All'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti i seguenti:   
+Contabilita' e tecnica amministrativa dell'azienda agraria;   
+Enzimologia e chimica delle fermentazioni;   
+Chimica e tossicologia degli antiparassitari (semestrale);   
+Cerealicoltura e colture industriali da pieno campo;   
+Produzione industriale degli alimenti zootecnici;   
+Protezione della natura e riassetto del paesaggio;   
+Venatoria e pescicoltura;   
+Elementi di scienza e tecnica delle costruzioni;   
+Virologia vegetale;   
+Pianificazione ecologica del territorio;   
+Difesa dagli inquinamenti;   
+Ecologia animale;   
+Miglioramento genetico degli animali domestici.   
+  
+Dopo l'art. 218 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola diretta a fini speciali di economia e merceologia degli alimenti, presso la facolta' di economia e commercio.   
+  
+TITOLO XV   
+FACOLTA' DI ECONOMIA E COMMERCIO   
+  
+Scuola di economia e merceologia degli alimenti   
+(Scuola diretta a fini speciali)   
+  
+Art. 219. - Alla facolta' di economia e commercio dell'Universita' di Padova e' annessa ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20), con sede presso l'istituto di merceologia, la scuola di economia e merceologia degli alimenti, che si propone di studiare la tecnologia di produzione degli alimenti, i loro metodi di conservazione ed i loro aspetti commerciali dal punto di vista tecnico-mercantile; cio' allo scopo di preparare degli specialisti idonei alla organizzazione dei servizi alimentari delle comunita', fornendo loro tutte le conoscenze necessarie per una razionale impostazione dietetica e nutritiva.   
+La durata del corso degli studi e' di due anni.   
+Titolo richiesto per l'ammissione: diploma di scuola media superiore di II grado. Per i laureati che intendessero frequentare la scuola, saranno convalidate le materie gia' sostenute in sede universitaria, con la possibilita' di riduzione della frequenza ad un solo anno.   
+  
+  
+Art. 220. - Le materie di insegnamento sono le seguenti:  
 1° Anno:  
-Anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale);  
-Patologia della tubercolosi polmonare ed extrapolmonare;  
-Patologia delle malattie dell'apparato respiratorio;  
-Fisiologia e fisiopatologia generale dell'apparato respiratorio;  
-Semeiotica fisica e funzionale dell'apparato respiratorio;  
-Microbiologia;  
-Epidemiologia e statistica sanitaria della tubercolosi e delle malattie dell'apparato respiratorio.  
+1) Elementi di chimica . . . . . . . . . . . . . . . . .40 ore   
+2) Merceologia alimentare (I corso con esercitazioni). 40 "   
+3) Legislazione sugli alimenti . . . . . . . . . . . . .10 "   
+4) Igiene degli alimenti . . . . . . . . . . . . . . . .15 "   
+5) Imprese industriali e commerciali dei prodotti ali-  
+mentari . . . . . . . . . . . . . . . . . . . . . . .25 " 6) Statistiche del commercio dei prodotti agricoli . . .10 "   
 2° Anno:  
-Anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale);  
-Clinica della tubercolosi (biennale);  
-Clinica delle malattie dell'apparato respiratorio (biennale);  
-Fisiopatologia speciale della tubercolosi e delle malattie dell'apparato respiratorio;  
-Broncologia;  
-Radiologia dell'apparato respiratorio;  
-Profilassi della tubercolosi;  
-Igiene e legislazione sociale.  
-3° Anno:  
-Clinica della tubercolosi (biennale);  
-Clinica delle malattie dell'apparato respiratorio;  
-Chemioterapia della tubercolosi e delle malattie dell'apparato respiratorio;  
-Terapia fisiomeccanica nella tubercolosi e nelle malattie dell'apparato respiratorio.  
-E' lasciata facolta' alla direzione della scuola di inserire uno o piu' insegnamenti facoltativi.  
-Il numero complessivo degli iscritti ai tre anni e' di quindici (cinque per ogni anno di corso).  
+1) Merceologia alimentare con esercitazioni (II corso) .40 ore 2) Organizzazione e gestione dei servizi alimentari. . .20 " 3) Elementi di chimica fisiologica . . . . . . . . . . .40 " 4) Nozioni di dietologia umana e zootecnica. . . . . . .20 " 5) Economia e statistica nel settore alimentare. . . . .30 "   
+Alla fine del 2° corso lo studente che avra' seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali previsti dal piano di studio, dovra' sostenere un esame generale per il conseguimento del diploma di economia e merceologia degli alimenti.  
+Tale esame consiste nella discussione, dinanzi ad una commissione composta di sette membri e presieduta dal direttore della scuola, di una dissertazione scritta su tema approvato dal professore della materia e alla quale il tema stesso si riferisce.  
+Il consiglio di amministrazione dell'universita', su proposta della direzione della scuola, stabilira' di anno in anno l'ammontare dei contributi. Le tasse e soprattasse a carico degli iscritti restano cosi' determinate:  
   
-Scuola di specializzazione in medicina interna  
-(durata del corso: 5 anni)  
-  
-1° Anno:  
-Malattie infettive, disreattive e del sangue;  
-Istituzioni di terapia;  
-Anatomia ed istologia patologica (biennale);  
-Clinica medica generale e terapia medica (quinquennale).  
-2° Anno:  
-Malattie dell'apparato cardiovascolare;  
-Microbiologia e sierologia;  
-Chimica clinica;  
-Anatomia ed istologia patologica (biennale);  
-Clinica medica generale e terapia medica (quinquennale).  
-3° Anno:  
-Malattie dell'apparato digerente;  
-Malattie renali;  
-Clinica medica e terapia medica (quinquennale).  
-4° Anno:  
-Malattie dell'apparato respiratorio;  
-Malattie del sistema nervoso;  
-Clinica medica generale e terapia medica (quinquennale).  
-5° Anno:  
-Malattie del ricambio;  
-Malattie delle ghiandole endocrine;  
-Clinica medica generale e terapia medica (quinquennale).  
-E' lasciata facolta' alla direzione della scuola di inserire uno o piu' insegnamenti facoltativi, fra i seguenti insegnamenti complementari:  
-Parassitologia medica;  
-Genetica medica;  
-Semeiotica dermatologica;  
-Radiologia;  
-Semeiotica oculistica;  
-Semeiotica ginecologica.  
-Il numero complessivo degli iscritti ai cinque anni di corso e' di trentacinque.  
-Gli insegnamenti del 1° e 2° anno sono impartiti a cura dell'istituto di patologia medica, quelli del 3°, 4°, 5° anno a cura della clinica medica.  
+Tassa di immatricolazione . . . . . . . . . . . . . . L. 5.000 Tassa annuale di iscrizione . . . . . . . . . . . . . " 18.000 Soprattassa esame di profitto . . . . . . . . . . . . " 7.000   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 agosto 1971
+### Dato a Roma, addi' 31 ottobre 1972
 
-SARAGAT MISASI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 14 ottobre 1971
+Registrato alla Corte dei conti, addi' 17 gennaio 1973
 
-Atti del Governo, registro n. 244, foglio n. 141. - CARUSO
+Atti di Governo, registro n. 255, foglio n. 37. - VALENTINI

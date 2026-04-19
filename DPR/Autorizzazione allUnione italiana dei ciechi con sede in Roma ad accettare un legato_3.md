@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 settembre 1964 n. 1153
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1970 n. 92
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 settembre 1964 n. 1153
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1970 n. 92
+==============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, con sede in Roma, ad accettare un legato.
 ----------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1153. Decreto del Presidente della Repubblica 19 settembre 1964, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, con sede in Roma, viene autorizzata ad accettare un legato a favore della "Unione per l'assistenza ai ciechi di Brescia", disposto dal defunto sig. Luigi Colombo, con testamento olografo del 16 marzo 1961, pubblicato per atto a rogito dott. Gerolamo Calini, notaio residente in Brescia, in data 8 giugno 1962, n. 78-41 di repertorio, n. 4985 di racc.  
+92. Decreto del Presidente della Repubblica 5 febbraio 1970, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, con sede in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 5.000.000 disposto dalla signora Enrichetta Maggioli ved. Fabbroni, con testamento pubblico, rogato l'8 gennaio 1967, n. 623 rep. a. u. v. e pubblicato con atto notaio Riccardo Tomezzoli di Verona, rep. 22896, racc. 9784, registrato a Verona il 6 giugno 1967, al n. 2868.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 6 novembre 1964  
-Atti del Governo, registro n. 188, foglio n. 31. - VILLA
+Visto, il Guardasigilli: GAVA  
+Registrato alla Corte dei conti, addi' 20 marzo 1970  
+Atti del Governo, registro n. 234, foglio n. 34. - CARUSO

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1984 n. 404
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 592
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1984 n. 404
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 592
 =============================================================
 
 Assegnazione di un posto di tecnico laureato presso l'Universita' degli studi di Messina.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-404. Decreto del Presidente della Repubblica 9 aprile 1984, col quale, sulla proposta del Ministro della pubblica istruzione, un posto disponibile nel ruolo dei tecnici laureati viene assegnato all'istituto pluridisciplinare di anestesiologia, rianimazione e terapia intensiva della facolta' di medicina e chirurgia dell'Universita' di Messina.  
+592. Decreto del Presidente della Repubblica 16 giugno 1983, col quale, sulla proposta del Ministro della pubblica istruzione, un posto disponibile nel ruolo dei tecnici laureati viene assegnato all'istituto di anatomia umana normale (per le esigenze della seconda cattedra) della facolta' di medicina e chirurgia dell'Universita' di Messina.  
   
 Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 20 luglio 1984  
-Registro n. 45 Istruzione, foglio n. 329
+Registrato alla Corte dei conti, addi' 15 ottobre 1983  
+Registro n. 66 Istruzione, foglio n. 152

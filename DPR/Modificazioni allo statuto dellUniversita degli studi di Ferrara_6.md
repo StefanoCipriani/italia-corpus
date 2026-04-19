@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1968 n. 164
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1967 n. 642
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1968 n. 164
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1967 n. 642
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 -------------------------------------------------------------------
@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -32,17 +32,11 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 19. - All'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti quelli di: "dottrina dello Stato"; "diritto della previdenza sociale".
-
-Dopo l'art. 39, relativo alle norme dell'esame di laurea della facolta' di medicina e chirurgia e' aggiunto il seguente nuovo articolo con il conseguente spostamento degli articoli successivi:
-
-Art. 40. - L'esame di laurea consiste nella discussione orale, in seduta di laurea, di una dissertazione scritta su un tema approvato dall'insegnante della materia, depositata in segreteria in triplice copia almeno quindici giorni prima del termine fissato per l'inizio degli esami di laurea.
-
-Art. 51. - All'elenco degli insegnamenti complementari del corso di laurea in chimica (indirizzo organico biologico) e' aggiunto quello di "scienza dell'alimentazione".
+Art. 19. - All'elenco degli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di "Diritto pubblico dell'economia".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 12 febbraio 1968
+Dato a Roma, addi' 20 giugno 1967
 
 SARAGAT
 
@@ -53,7 +47,7 @@ Visto, il Guardasigilli: REALE
 Registrato
 ----------
 
-alla Corte dei conti, addi' 7 marzo 1968 Atti del Governo, registro n. 217, foglio n. 130. - GRECO
+alla Corte dei conti, addi' 26 luglio 1967 Atti del Governo, registro n. 212, foglio n. 86. - GRECO
 
 Art. 1
 ------
@@ -61,7 +55,7 @@ Art. 1
  IL PRESIDENTE DELLA REPUBBLICA  
   
 Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
@@ -73,21 +67,18 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 19. - All'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti quelli di: "dottrina dello Stato"; "diritto della previdenza sociale".  
-Dopo l'art. 39, relativo alle norme dell'esame di laurea della facolta' di medicina e chirurgia e' aggiunto il seguente nuovo articolo con il conseguente spostamento degli articoli successivi:  
-Art. 40. - L'esame di laurea consiste nella discussione orale, in seduta di laurea, di una dissertazione scritta su un tema approvato dall'insegnante della materia, depositata in segreteria in triplice copia almeno quindici giorni prima del termine fissato per l'inizio degli esami di laurea.  
-Art. 51. - All'elenco degli insegnamenti complementari del corso di laurea in chimica (indirizzo organico biologico) e' aggiunto quello di "scienza dell'alimentazione".  
+Art. 19. - All'elenco degli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di "Diritto pubblico dell'economia".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 febbraio 1968
+### Dato a Roma, addi' 20 giugno 1967
 
 SARAGAT GUI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 7 marzo 1968
+Registrato alla Corte dei conti, addi' 26 luglio 1967
 
-Atti del Governo, registro n. 217, foglio n. 130. - GRECO
+Atti del Governo, registro n. 212, foglio n. 86. - GRECO

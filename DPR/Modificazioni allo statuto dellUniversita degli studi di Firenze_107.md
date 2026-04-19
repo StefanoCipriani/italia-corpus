@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 gennaio 1952 n. 168
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1405
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 gennaio 1952 n. 168
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1405
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
@@ -12,32 +12,56 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), modificato con i [regi decreti 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1927-10-13;2230); [30 ottobre 1930, n. 1826](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1930-10-30;1826); [1 ottobre 1931, numero 1441](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1931-10-01;1441); [6 dicembre 1934, n. 2449](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-06;2449); [1 ottobre 1936, n. 2475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-01;2475); [27 ottobre 1937, n. 2620](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1937-10-27;2620); [5 maggio 1939, numero 1165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-05-05;1165); [12 ottobre 1939, n. 1712](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-10-12;1712); [26 ottobre 1940, n. 2057](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2057); [27 aprile 1942, n. 467](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-04-27;467); [24 ottobre 1942, numero 1439 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1439) [11 giugno 1950, n. 616](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-06-11;616): [30 ottobre 1950, n. 1127](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1127); [30 ottobre 1950, n. 1304](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1304) e [30 giugno 1951, n. 957](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-30;957);  
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230) e successivi;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Firenze, e' cosi' ulteriormente modificato:  
-Attuale art. 51. - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di:  
-"filologia germanica".  
-Attuale art. 58. - Agli insegnamenti complementari del corso di laurea in materie letterarie e' aggiunto quello di: "storia della grammatica e della lingua italiana".  
+Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 20. - Agli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto quello di "Scienza dell'amministrazione".  
+Art. 67. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di "Anestesiologia".  
+Art. 228. - All'elenco delle scuole di specializzazione annesse alla Facolta' di medicina e chirurgia e' aggiunta la "Scuola di specializzazione in malattie dell'apparato digerente e del sangue".  
+Dopo l'art. 248, e' aggiunto il seguente nuovo articolo, relativo alla istituzione della Scuola di specializzazione in malattie dell'apparato digerente e del sangue.  
+Scuola di specializzazione in malattie dell'apparato digerente e del sangue  
+Art. 249. - a) La durata del corso degli studi per il conseguimento del diploma di specializzazione in malattie dell'apparato digerente e del sangue e' di due anni;  
+b) Potranno essere ammessi alla scuola non piu' di quindici allievi per ogni anno;  
+c) La scuola ha sede presso l'Istituto di semeiotica medica, il cui direttore e' anche direttore della scuola;  
+d) Le materie di insegnamento sono cosi' ripartite nei due anni di corso:  
+1° Anno:  
+Fisiologia dei processi digestivi;  
+Morfologia e fisiologia del sangue e degli organi emopoietici;  
+Fisiologia della coagulazione;  
+Anatomia e istologia patologica degli organi emopoietici;  
+Anatomia e istologia patologica dell'apparato digerente e ghiandole annesse;  
+Semeiotica funzionale dell'apparato digerente;  
+Semeiotica radiologica dell'apparato digerente;  
+Semeiotica della coagulazione.  
+2° Anno:  
+Patologia speciale, clinica e terapia delle malattie dell'apparato digerente e ghiandole annesse;  
+Patologia speciale, clinica e terapia delle malattie del sangue e degli organi emopoietici;  
+Patologia speciale, clinica e terapia delle malattie della coagulazione;  
+Diagnostica radiologica dell'apparato digerente;  
+e) Le lezioni e le dimostrazioni pratiche si svolgeranno presso l'Istituto di semeiotica medica; inoltre durante i due anni gli allievi sono tenuti a frequentare come interni tale Istituto;  
+f) Al termine di ciascun anno l'allievo dovra' sostenere un esame teorico sulle materie che sono state oggetto di insegnamento e un esame pratico consistente in una o piu' prove di laboratorio al termine del primo anno e nell'esame clinico di uno o piu' infermi al termine del secondo anno;  
+g) Al termine del biennio l'allievo dovra' sostenere la discussione di una tesi scritta sopra un argomento attinente alla specialita'.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 gennaio 1952
+### Dato a Roma, addi' 19 ottobre 1960
 
-EINAUDI SEGNI
+GRONCHI BOSCO
 
-Visto, il Guardasigilli: ZOLI
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 27 marzo 1952
+Registrato alla Corte dei conti, addi' 28 novembre 1960
 
-Atti del Governo, registro n. 50, foglio n. 120. - FRASCA
+Atti del Governo, registro n. 131, foglio n. 101. - VILLA

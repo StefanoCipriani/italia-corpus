@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1986 n. 1066
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1985 n. 545
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1986 n. 1066
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1985 n. 545
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -33,27 +33,27 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Nell'art. 62, relativo al biennio di specializzazione del corso di laurea in scienze politiche per l'indirizzo politico-sociale, all'elenco degli insegnamenti a scelta dello studente e' aggiunto il seguente nuovo insegnamento:  
-psicologia.  
+Nell'art. 66, relativo al biennio di specializzazione del corso di laurea in scienze politiche, per l'indirizzo politico-economico, nell'elenco degli insegnamenti a scelta dello studente e' aggiunto il seguente nuovo insegnamento:  
+diritto commerciale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1986
+### Dato a Roma, addi' 4 maggio 1985
 
-COSSIGA
+PERTINI
 
 FALCUCCI, Ministro della pubblica istruzione
 
-Visto, il Guardasigilli: ROGNONI
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 24 marzo 1987
+Registrato alla Corte dei conti, addi' 4 ottobre 1985
 
-Registro n. 18 Istruzione, foglio n. 123
+Registro n. 66 Istruzione, foglio n. 332

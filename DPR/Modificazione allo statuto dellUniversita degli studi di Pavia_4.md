@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 828
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 431
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 828
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 431
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Pavia.
@@ -24,11 +24,11 @@ Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http:
 
 Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
 
 Veduto il parere del Consiglio universitario nazionale;
 
-Sulla proposta, del Ministro della pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 --------
@@ -40,18 +40,20 @@ Articolo unico
 
   
   
-Nell'art. 59, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente: igiene degli alimenti.   
+Nell'art. 59, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto l'insegnamento di "clinica urologica".   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 giugno 1983
+### Dato a Roma, addi' 9 aprile 1986
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 18 gennaio 1984
+Registrato alla Corte dei conti, addi' 17 luglio 1986
 
-Registro n. 2 Istruzione, foglio n. 189
+Registro n. 57 Istruzione, foglio n. 79

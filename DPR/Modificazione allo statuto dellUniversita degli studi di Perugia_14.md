@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 407
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 novembre 1985 n. 1013
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 407
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 novembre 1985 n. 1013
+================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Perugia.
 -------------------------------------------------------------------
@@ -39,14 +39,14 @@ Articolo unico
 --------------
 
   
-Nell'art. 32, relativo al corso di laurea in lettere della facolta' di lettere e filosofia, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
-civilta' dell'Italia preromana.  
+Nell'art. 25, relativo al corso di laurea in economia e commercio all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
+istituzioni di statistica economica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 aprile 1986
+### Dato a Roma, addi' 22 novembre 1985
 
 COSSIGA
 
@@ -54,6 +54,6 @@ FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 11 luglio 1986
+Registrato alla Corte dei conti, addi' 7 aprile 1986
 
-Registro n. 56 Istruzione, foglio n. 8
+Registro n. 24 Istruzione, foglio n. 58

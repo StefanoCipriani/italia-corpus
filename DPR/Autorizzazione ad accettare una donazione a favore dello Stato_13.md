@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1974 n. 473
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 gennaio 1975 n. 41
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1974 n. 473
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 gennaio 1975 n. 41
 =============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-473. Decreto del Presidente della Repubblica 27 giugno 1974, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dalla sig.ra Genzone Laura con atto 30 novembre 1972, n. 59196 di repertorio per notaio Renzo Lazzareschi, del terreno di mq 36, sito in comune di Lucca, frazione di S. Lorenzo a Vaccoli, localita' "ai Picchi".  
+41. Decreto del Presidente della Repubblica 24 gennaio 1975, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dal comune di Piazza Armerina (Enna) con atto 8 aprile 1952, numero 11975 di repertorio, a rogito notaio Cesare Cigna, consistente in un appezzamento di terreno, esteso mq 600, sito nel quartiere "Cannizzaro" alla via Santa Maria di Gesu', catastalmente indicato nell'atto suddetto, per la costruzione della caserma della guardia di finanza.  
   
-Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 26 settembre 1974  
-Atti di Governo, registro n. 5, foglio n. 90. - SCIARRETTA
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 3 marzo 1975  
+Atti di Governo, registro n. 8, foglio n. 156

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 gennaio 1963 n. 416
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 settembre 1966 n. 818
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 gennaio 1963 n. 416
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 settembre 1966 n. 818
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
@@ -10,11 +10,11 @@ Modificazioni allo statuto dell'Universita' degli studi di Catania.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, numero 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527) e successivi;
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, numero 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
 
-Veduto il testo unico dello, leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1532](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1532);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
@@ -30,81 +30,45 @@ Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Catania approvato e modificato con i decreti sopraindicati, ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 26. - Agli insegnamenti complementari del corso di laurea in lettere, sono aggiunti quelli di "Storia della critica d'arte", "Storia del cristianesimo" e "Storia della filosofia antica".
+Art. 10, relativo alle modalita' di esami del corso di laurea in Giurisprudenza e' modificato nel senso che viene aggiunto il seguente comma: "L'insegnamento biennale di Diritto amministrativo comporta un esame alla fine di ciascun anno di corso".
 
-Art. 33. - Agli insegnamenti complementari del corso di laurea in filosofia sono aggiunti quelli di "Psicologia sperimentale", "Storia del cristianesimo" "Filosofia della religione" e "Psicologia dell'eta' evolutiva".
+Art. 24. - E' abrogato e sostituito dal seguente:
 
-Art. 40. - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne e' aggiunto quello di: "Storia della critica d'arte"
+"Alla Facolta' di economia e commercio sono annessi i seguenti Istituti scientifici, ordinati come seminari, ai sensi dell'art. 23 del regolamento generale universitario:
 
-Art. 41. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti quelli di: Idrologia medica;
+1) Seminario economico;
 
-Dopo l'art. 187 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in urologia con il conseguente spostamento della numerazione degli articoli successivi.
+2) Istituto di merceologia".
 
-Scuola di specializzazione in Urologia
+Art. 33. - All'elenco degli insegnamenti complementari del corso di laurea in Filosofia e' aggiunto quello di "Storia della filosofia moderna e contemporanea".
 
-Art. 188. - Il corso degli studi della Scuola di specializzazione in Urologia ha la durata di anni tre.
-
-La Scuola non puo' accogliere piu' di cinque iscritti per ciascun anno di corso.
-
-Art. 189. - Gli insegnamenti impartiti nella Scuola sono:
-
-1° anno:
-
-Anatomia ed Embriologia dell'apparato urinario
-
-Fisiologia speciale dell'apparato urinario;
-
-Semeiotica speciale dell'apparato urinario;
-
-Radiologia dell'apparato urinario;
-
-Endoscopia (biennale).
-
-2° anno:
-
-Patologia chirurgica dell'apparato urinario (biennale);
-
-Clinica chirurgica dell'apparato urinario (biennale);
-
-Endoscopia (biennale);
-
-Ginecologia speciale;
-
-Terapia e corso di operazioni (biennale).
-
-3° anno:
-
-Patologia chirurgica dell'apparato urinario (biennale);
-
-Clinica chirurgica dell'apparato urinario (biennale);
-
-Terapia chirurgica dell'apparato urinario (biennale).
+Art. 46. - All'elenco degli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' aggiunto quello di "Audiologia".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Sassari, addi' 31 gennaio 1963
+Dato a Roma, addi' 9 settembre 1966
 
-SEGNI
+SARAGAT
 
 GUI
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 2 aprile 1963 Atti del Governo, registro n. 167, foglio n. 66. - VILLA
+alla Corte dei conti, addi' 11 ottobre 1966 Atti del Governo, registro n. 206, foglio n. 64. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, numero 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527) e successivi;  
-Veduto il testo unico dello, leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1532](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1532);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, numero 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
@@ -114,43 +78,25 @@ Sulla proposta del Ministro per la pubblica istruzione;
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Catania approvato e modificato con i decreti sopraindicati, ulteriormente modificato come appresso:  
-Art. 26. - Agli insegnamenti complementari del corso di laurea in lettere, sono aggiunti quelli di "Storia della critica d'arte", "Storia del cristianesimo" e "Storia della filosofia antica".  
-Art. 33. - Agli insegnamenti complementari del corso di laurea in filosofia sono aggiunti quelli di "Psicologia sperimentale", "Storia del cristianesimo" "Filosofia della religione" e "Psicologia dell'eta' evolutiva".  
-Art. 40. - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne e' aggiunto quello di: "Storia della critica d'arte"  
-Art. 41. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti quelli di: Idrologia medica;  
-Dopo l'art. 187 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in urologia con il conseguente spostamento della numerazione degli articoli successivi.  
-Scuola di specializzazione in Urologia  
-Art. 188. - Il corso degli studi della Scuola di specializzazione in Urologia ha la durata di anni tre.  
-La Scuola non puo' accogliere piu' di cinque iscritti per ciascun anno di corso.  
-Art. 189. - Gli insegnamenti impartiti nella Scuola sono:  
-1° anno:  
-Anatomia ed Embriologia dell'apparato urinario  
-Fisiologia speciale dell'apparato urinario;  
-Semeiotica speciale dell'apparato urinario;  
-Radiologia dell'apparato urinario;  
-Endoscopia (biennale).  
-2° anno:  
-Patologia chirurgica dell'apparato urinario (biennale);  
-Clinica chirurgica dell'apparato urinario (biennale);  
-Endoscopia (biennale);  
-Ginecologia speciale;  
-Terapia e corso di operazioni (biennale).  
-3° anno:  
-Patologia chirurgica dell'apparato urinario (biennale);  
-Clinica chirurgica dell'apparato urinario (biennale);  
-Terapia chirurgica dell'apparato urinario (biennale).  
+Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 10, relativo alle modalita' di esami del corso di laurea in Giurisprudenza e' modificato nel senso che viene aggiunto il seguente comma: "L'insegnamento biennale di Diritto amministrativo comporta un esame alla fine di ciascun anno di corso".  
+Art. 24. - E' abrogato e sostituito dal seguente:  
+"Alla Facolta' di economia e commercio sono annessi i seguenti Istituti scientifici, ordinati come seminari, ai sensi dell'art. 23 del regolamento generale universitario:  
+1) Seminario economico;  
+2) Istituto di merceologia".  
+Art. 33. - All'elenco degli insegnamenti complementari del corso di laurea in Filosofia e' aggiunto quello di "Storia della filosofia moderna e contemporanea".  
+Art. 46. - All'elenco degli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' aggiunto quello di "Audiologia".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Sassari, addi' 31 gennaio 1963
+### Dato a Roma, addi' 9 settembre 1966
 
-SEGNI GUI
+SARAGAT GUI
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 2 aprile 1963
+Registrato alla Corte dei conti, addi' 11 ottobre 1966
 
-Atti del Governo, registro n. 167, foglio n. 66. - VILLA
+Atti del Governo, registro n. 206, foglio n. 64. - VILLA

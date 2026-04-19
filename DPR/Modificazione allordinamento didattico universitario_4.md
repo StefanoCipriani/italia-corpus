@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1979 n. 428
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 marzo 1983 n. 284
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1979 n. 428
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 marzo 1983 n. 284
+============================================================
 
 Modificazione all'ordinamento didattico universitario.
 ------------------------------------------------------
@@ -16,30 +16,31 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Riconosciuta l'opportunita' di procedere ad una modifica dell'ordinamento didattico vigente per gli studi del corso di laurea in medicina e chirurgia;
+Riconosciuta l'opportunita' di procedere ad una modifica della tabella VIII-quater dell'ordinamento didattico universitario, relativa ai corsi di laurea in "economia politica" e in "economia aziendale", nel senso di variare con solo riferimento al corso di laurea in "economia aziendale" la denominazione dell'insegnamento fondamentale di "matematica" in quella di "matematica generale" in quanto la disciplina di nuova denominazione presenta contenuti piu' propri per un corso di laurea in materie economiche;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
 Sulla
 -----
 
 proposta del Ministro della pubblica istruzione; Decreta:
 
-Art. 1
-------
+Articolo unico
+--------------
 
-Art. 2
-------
+  
+Nella tabella VIII-quater dell'ordinamento didattico universitario, relativa ai corsi di laurea in "economia politica" e in "economia aziendale", l'insegnamento fondamentale di "matematica" con solo riferimento al corso di laurea in "economia aziendale" cambia la denominazione in quella di "matematica generale".  
+  
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 giugno 1979
+### Dato a Roma, addi' 21 marzo 1983
 
-PERTINI SPADOLINI
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 28 agosto 1979
+Registrato alla Corte dei conti, addi' 6 giugno 1983
 
-Registro n. 66 Istruzione, foglio n. 94
+Registro n. 41 Istruzione, foglio n. 133

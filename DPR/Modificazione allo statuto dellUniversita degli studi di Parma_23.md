@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 1053
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 1201
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 1053
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 1201
+==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
@@ -39,22 +39,25 @@ Articolo unico
 --------------
 
   
-Nell'art. 85, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-tecnica e diagnostica delle autopsie;  
-neurologia pediatrica.  
+Nell'art. 84, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+malattie metaboliche del bambino;  
+auxologia;  
+malattie infettive dell'infanzia;  
+endocrinologia ginecologica;  
+fisiopatologia della riproduzione umana;  
+ginecologia oncologica;  
+urologia ginecologica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1985
+### Dato a Roma, addi' 27 giugno 1983
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 16 aprile 1986
+Registrato alla Corte dei conti, addi' 28 aprile 1984
 
-Registro n. 28 Istruzione, foglio n. 247
+Registro n. 25 Istruzione, foglio n. 174

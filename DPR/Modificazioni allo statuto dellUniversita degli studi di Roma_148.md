@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 ottobre 1972 n. 1168
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 dicembre 1956 n. 1539
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 ottobre 1972 n. 1168
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 dicembre 1956 n. 1539
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
@@ -12,11 +12,12 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con i [regi decreti 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-26;1734); [26 ottobre 1940, n. 2069](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2069); [4 maggio 1942, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-05-04;565); [24 luglio 1942, n. 949](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-24;949); [24 agosto 1942, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-08-24;1098); [24 ottobre 1942, n. 1672, con decreto luogotenenziale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo.luogotenenziale:1942-10-24;1672) [8 febbraio 1946, n. 242, con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-02-08;242) [12 aprile 1947, n. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-04-12;461) e [31 dicembre 1947, n. 1758, con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-31;1758) [24 dicembre 1948, n. 1619](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-12-24;1619); [18 luglio 1949, n. 882](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-07-18;882); [20 ottobre 1949, n. 989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;989); [20 ottobre 1949, n. 991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;991); [20 ottobre 1949, n. 1178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;1178);[30 ottobre 1949, n. 1152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1152); [11 giugno 1950, n. 622](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-06-11;622); [16 novembre 1950, n. 1313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-11-16;1313); [11 maggio 1951, n. 653](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-05-11;653); [27 ottobre 1951, n. 1813](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1813); [14 aprile 1952, n. 888](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-04-14;888); [16 agosto 1952, n. 2589](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-08-16;2589); [19 settembre 1952, n. 1697](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-09-19;1697); [11 marzo 1953, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;565); [12 maggio 1953, n. 570](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-05-12;570); [25 agosto 1953, n. 834](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;834); [26 ottobre 1954, n. 1232](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-26;1232); [12 febbraio 1955, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-12;34); [30 giugno 1955, n. 694](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-06-30;694); [19 luglio 1955, n. 760](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-19;760); [27 luglio 1955, n. 784](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-27;784); [27 agosto 1955, n. 898](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-08-27;898); [25 settembre 1955, numero 931](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-25;931); [21 settembre 1955, n. 951](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-21;951), e [4 ottobre 1955, n. 962](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-10-04;962);  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello Statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -24,84 +25,18 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Dopo l'art. 754 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione, presso la facolta' di medicina e chirurgia, della "Scuola speciale per tecnici riabilitatori della neuro e psicomotricita' dell'eta' evolutiva".  
-  
-Scuola speciale per tecnici riabilitatori della neuro e psicomotricita' dell'eta' evolutiva  
-  
-Art. 755. - La scuola speciale per tecnici riabilitatori della neuro e psicomotricita' dell'eta' evolutiva ha sede presso l'istituto di neuropsichiatria infantile.  
-La scuola ha per scopo la preparazione di tecnici qualificati a svolgere la riabilitazione dei soggetti in eta' evolutiva con disturbi neuromotori, psicomotorici e neuropsichici.  
-Art. 756. - La durata del corso degli studi per il conseguimento del diploma di tecnico riabilitatore della neuro e psicomotricita' dell'eta' evolutiva e' di 3 anni accademici. I primi due anni consistono in lezioni teoriche e pratiche su materie propedeutiche e di settore; il terzo anno consiste prevalentemente in tirocini pratici guidati. Sia le lezioni che i tirocini si svolgono prevalentemente presso l'istituto di neuropsichiatria infantile e presso quelle istituzioni che via via potranno essere indicate dal consiglio direttivo della scuola, perche' giudicate idonee.  
-Gli allievi hanno l'obbligo delle frequenze alle lezioni, ai seminari ed ai tirocini pratici secondo le modalita' stabilite dal consiglio della scuola.  
-Art. 757. - Sono ammessi alla scuola gli allievi di ambo i sessi, in possesso del titolo di studio della scuola media superiore, che abbiano superato un colloquio attitudinale, che si svolgera' presso la sede della scuola, all'inizio dell'anno accademico.  
-Inoltre possono essere ammessi anche gli allievi in possesso del titolo di studio della scuola d'obbligo, che abbiano superato un esame d'ammissione scritto vertente su argomenti vari di cultura generale, ed un esame orale, fatto sotto forma di colloquio attitudinale, destinato a mettere in evidenza le motivazioni personali che possono aver spinto il candidato ad intraprendere un simile tipo di specializzazione. I suddetti esami si svolgeranno presso la sede della scuola, all'inizio dello anno accademico.  
-Art. 758. - Il numero dei posti disponibili e' stabilito nella misura di 15 per il primo anno. Tale numero potra' essere variato ogni anno a discrezione del consiglio della scuola.  
-Art. 759. - Le materie di insegnamento sono cosi' ripartite:  
-  
-1° Anno:  
-1) Anatomia, fisiologia e patologia pediatrica;  
-2) Elementi di anatomia clinica, fisiologia dell'apparato motore, del sistema nervoso e degli organi sensoriali (biennale) 1° anno;  
-3) Nozioni di:  
-Psicologia dell'eta' evolutiva;  
-Neurologia infantile;  
-Puericultura;  
-Ortopedia e traumatologia;  
-Metodiche di accertamento di deficit sensoriali: protesi ortopediche, acustiche, ecc.  
-4) Nozioni pratiche-teoriche di massoterapia e di elettroterapia;  
-5) Nozioni pratiche-teoriche di: fisioterapia, terapia occupazionale, terapia del linguaggio (biennale) 1° anno.  
-  
-2° Anno:  
-1) Elementi di anatomia clinica, fisiologia dell'apparato motore, del sistema nervoso e degli organi sensoriali (biennale) 2° anno;  
-2) Nozioni teorico-pratiche di: fisioterapia, terapia occupazionale, terapia del linguaggio (biennale) 2° anno;  
-3) Psicopatologia infantile;  
-4) Testologia infantile;  
-5) Psicopedagogia;  
-6) Didattiche speciali;  
-7) Neuropsicofarmacologia.  
-  
-3° Anno:  
-Nozioni teorico-pratiche di tecniche speciali e collaterali.  
-  
-L'ordine e le modalita' degli esami da sostenere ogni anno verranno stabiliti nel manifesto annuale.  
-Nel terzo anno viene dato particolarmente risalto ai tirocini pratici che vengono effettuati sotto la supervisione di un docente della Scuola o di persona delegata dal Direttore della Scuola.  
-L'insegnamento sia teorico che pratico viene integrato da conferenze e seminari.  
-Art. 760. - Per essere ammessi al 2° anno gli allievi dovranno aver superato gli esami di cui ai numeri 1), 2), 3), 4) e 5).  
-Art. 761. - L'esame finale per il conseguimento del diploma di "Tecnico riabilitatore della neuro e psicomotricita' dell'eta' evolutiva" consiste in un esame scritto ed una prova pratica con cui l'allievo dovra' dimostrare di aver raggiunto un livello di preparazione adeguato nelle materie che sono oggetto d'insegnamento.  
-L'esame di diploma dovra' essere superato entro 5 anni dalla data di immatricolazione.  
-Art. 762. - Il direttore della scuola e' di diritto il titolare della cattedra di neuropsichiatria infantile della universita', e puo' farsi coadiuvare da un vicedirettore nominato su sua proposta.  
-Il consiglio della scuola e' costituito dal direttore, vicedirettore, dal corpo docente e dai supervisori designati dal direttore.  
-Spetta al consiglio della scuola:  
-1) determinare l'ordine degli studi;  
-2) esprimere il proprio parere sulle proposte del direttore della scuola relativamente alla nomina dei docenti, dei responsabili delle esercitazioni e tirocini professionali e del supervisore;  
-3) coordinare ed approvare i programmi dei singoli corsi teorici, dei seminari e dei tirocini pratici;  
-4) stabilire l'orario delle lezioni e delle esercitazioni pratiche e il diario e le modalita' degli esami, sia di profitto che di diploma;  
-5) determinare, ove lo ritenga necessario, il numero degli allievi che possono essere ammessi al primo anno, nonche' le modalita' del colloquio attitudinale e, nei corsi previsti, dell'esame di ammissione;  
-6) proporre al rettore la nomina dei professori.  
-Per i problemi di carattere amministrativo, il direttore della scuola e' assistito da un apposito comitato composto:  
-a) dallo stesso direttore della scuola, che lo presiede;  
-b) dal vicedirettore della scuola che presiede il comitato in assenza del direttore;  
-c) dagli altri professori docenti della scuola e dalle persone delegate dal direttore della scuola alla supervisione;  
-d) da rappresentanti degli enti o privati che concorrano alle spese di funzionamento della scuola con contributi annui individuali; a tal uopo, ciascun ente o privato che concorra con un contributo annuo individuale non inferiore a lire 3.000.000 potra' designare un rappresentante per ogni 3.000.000 di lire, mentre gli enti o privati che concorrano con minor contributo annuo, purche' non inferiore a lire 500.000, hanno diritto di designare collegialmente propri rappresentanti in ragione di un membro per ogni sei contribuenti.  
-Spetta al comitato amministrativo della scuola:  
-1) proporre al rettore l'ammontare del contributo di laboratorio dovuto dagli allievi;  
-2) determinare i compensi da corrispondere ai docenti, al responsabile delle esercitazioni e dei tirocini professionali ai supervisori e a tutti coloro che prestano la loro opera nella scuola;  
-3) autorizzare ogni altra spesa occorrente al funzionamento della scuola;  
-4) assegnare agli allievi piu' meritevoli le borse di studio che perverranno dagli enti interessati a promuovere la formazione di tecnici riabilitatori della neuro e psicomotricita' dell'eta' evolutiva;  
-5) approvare il bilancio interno della scuola.  
-Detto comitato puo' autorizzare il proprio presidente a provvedere direttamente, ed entro determinati limiti a spese non ricorrenti.  
-Il direttore della scuola da' esecuzione alle deliberazioni del comitato, conformi al bilancio interno ed alle norme amministrative contenute nella legislazione universitaria.  
-Art. 763. - Gli iscritti alla scuola sono tenuti al versamento annuo delle tasse, soprattasse e contributi nell'misura prevista dalla legge vigente per gli studenti delle facolta' di medicina e chirurgia.  
+Art. 78. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di "Genetica medica".  
   
 
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e de decreti della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 17 ottobre 1972
+### Dato a Roma, addi' 17 dicembre 1956
 
-LEONE SCALFARO
+GRONCHI ROSSI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: MORO
 
-Registrato alla Corte dei conti, addi' 9 giugno 1973
+Registrato alla Corte dei conti, addi' 17 gennaio 1957
 
-Atti di Governo, registro n. 258, foglio n. 110. - VALENTINI
+Atti del Governo, registro n. 103, foglio n. 47. - CARLOMAGNO

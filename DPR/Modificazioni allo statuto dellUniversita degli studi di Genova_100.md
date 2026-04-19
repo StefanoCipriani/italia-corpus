@@ -1,173 +1,238 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 settembre 1970 n. 834
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 997
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 settembre 1970 n. 834
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 997
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2848](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2848), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio superiore della pubblica istruzione; nel suo parere;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 155 - all'elenco delle scuole di specializzazione in medicina e chirurgia e' aggiunta la scuola di specializzazione in patologia della riproduzione umana.
+
+Dopo l'art. 415, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla scuola di specializzazione in patologia della riproduzione umana.
+
+Scuola di specializzazione in patologia della riproduzione umana
+
+Art. 416. - Presso l'istituto di clinica ostetrica e ginecologica e' istituita la scuola di specializzazione in patologia della riproduzione umana, la quale ha lo scopo di conferire una qualificata preparazione nel campo della patologia della riproduzione e dei problemi ad essa collegati, oltre a curare lo studio degli aspetti sociologici, demografici e di pianificazione familiare inerenti alla disciplina.
+
+Direttore della scuola e' il professore di ruolo i fuori ruolo della stessa materia della specializzazione o, in carenza, il professore di ruolo o fuori ruolo di materia affine.
+
+Art. 417. - La durata del corso e' di tre anni.
+
+Non saranno concesse abbreviazioni di corso.
+
+Il numero massimo degli allievi iscrivibili e' di undici complessivamente per l'intero corso degli studi.
+
+L'ammissione alla scuola avverra' per titoli ed esami;
+
+l'esame consistera' in una prova scritta e in una orale su temi di medicina generale e di anatomia patologica.
+
+Sono da considerare titoli preferenziali, a parita' di risultato dell'esame di ammissione:
+
+a) il voto di laurea in medicina e chirurgia;
+
+b) il voto riportato nelle materie ostetriche e ginecologiche;
+
+c) l'aver compilato la tesi di laurea in clinica ostetrica;
+
+d) l'aver avuto la qualifica di studente interno;
+
+e) la documentazione di servizi prestati in divisioni ostetriche e ginecologiche di ospedali regionali, anche come tirocinante;
+
+f) eventuali pubblicazioni inerenti alle materie di insegnamento.
+
+Per quanto non contemplato, valgono le norme generali delle scuole di specializzazione in medicina e chirurgia previste dal presente statuto.
+
+Art. 418. - Le materie di insegnamento sono:
+
+1° Anno:
+
+biologia generale della riproduzione;
+
+embriologia ed anatomia dell'apparato riproduttivo umano;
+
+fisiologia della riproduzione umana;
+
+genetica umana;
+
+immunologia normale e patologia della riproduzione umana;
+
+psicodinamica della riproduzione umana I;
+
+lingua inglese I.
+
+2° Anno:
+
+fisiopatologia della riproduzione umana;
+
+anatomia e istologia patologica dell'apparato riproduttivo;
+
+endocrinologia della riproduzione umana;
+
+andrologia;
+
+teratologia;
+
+patologia e clinica della gravidanza;
+
+urologia e patologia della riproduzione umana;
+
+psicodinamica della riproduzione umana II;
+
+sessuologia medica I;
+
+lingua inglese II.
+
+3° Anno:
+
+nosografia della riproduzione umana;
+
+diagnostica della patologia della riproduzione umana;
+
+terapia medica della patologia della riproduzione umana;
+
+terapia chirurgica della patologia, della riproduzione umana;
+
+sessuologia medica II;
+
+patologia psicosomatica in ostetricia e ginecologia;
+
+sociologia della riproduzione umana;
+
+antropologia ed etnologia della riproduzione umana;
+
+demografia;
+
+lingua inglese III.
+
+Art. 419. - Sono previste per gli allievi attivita' interne ed esterne con obbligo di periodi di tirocinio presso strutture periferiche, nelle quali verranno affrontati, sotto vari aspetti, problemi di fisiopatologia della riproduzione.
+
+Oltre ai corsi di lezioni, sono istituzionalmente previsti seminari e gruppi di studio anche con docenti esterni o realizzati mediante incontri organizzati al di fuori dell'ambiente universitario, nelle comunita' di lavoro, nei quartieri od in ogni ambiente periferico dove possono essere vivi i problemi connessi con gli argomenti affrontati nell'ambito della scuola.
+
+Art. 420. - La dissertazione per l'esame di diploma dovra' comprendere anche la documentazione delle esperienze maturate negli anni di corso, attraverso il confronto con gli ambienti esterni frequentati.
+
+Agli allievi che supereranno l'esame di diploma verra' rilasciato il diploma di specializzazione in patologia della riproduzione umana.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1978
+
+PERTINI
+
+PEDINI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 21 febbraio 1979 Registro n. 9 Istruzione, foglio n. 16
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2848](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2848), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio superiore della pubblica istruzione; nel suo parere;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 155 - all'elenco delle scuole di specializzazione in medicina e chirurgia e' aggiunta la scuola di specializzazione in patologia della riproduzione umana.  
+Dopo l'art. 415, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla scuola di specializzazione in patologia della riproduzione umana.  
   
-Dopo l'art. 286 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola speciale di assistenza sociale psichiatrica e della scuola speciale per terapisti della riabilitazione specializzati in cinesiterapia o terapia del linguaggio, presso la facolta' di medicina e chirurgia.   
-  
-Scuola di assistenza sociale psichiatrica   
-(Scuola diretta a fini speciali)   
-  
-Art. 287. - Presso la facolta' di medicina e chirurgia dell'Universita' degli studi di Genova e' annessa la scuola di assistenza sociale psichiatrica (scuola diretta a fini speciali) che fa capo alla cattedra di psichiatria. Essa ha lo scopo di dare una preparazione completa, teorica e pratica, agli assistenti sociali, istruendoli sui problemi dell'intervento presso l'ambiente familiare e sociale dell'ammalato psichico, sulle possibilita' di intervento a tipo casework sui problemi di reinserimento sociale del paziente con disturbi psichici e sulle funzioni dell'assistente sociale presso i servizi di assistenza psichiatrica e le istituzioni psichiatriche ambulatoriali e ospedaliere.   
-  
-Art. 288. - La durata del corso per il conseguimento del diploma di assistente sociale psichiatrico e' di due anni accademici; nel primo anno vengono impartiti insegnamenti teorici ed esercitazioni pratiche su materie propedeutiche e tecniche. Nel secondo anno vengono impartiti insegnamenti teorici e pratici su argomenti di clinica neurologica e psichiatrica, assistenza psichiatrica intra ed extraospedaliera e materie affini. Gli allievi hanno l'obbligo della frequenza.   
-  
-Art. 289. - Possono accedere alla scuola i cittadini italiani di ambo i sessi di 18 anni compiuti, forniti del diploma di scuola media superiore (II grado: cioe' maturita' classica, scientifica o diplomi equipollenti) ed in possesso del diploma di assistente sociale rilasciato da una scuola di servizio sociale italiana qualificata (con corsi triennali di studi teorici e di tirocinio tenuti - in parte o in toto - da docenti universitari).   
-  
-Art. 290. - Chi aspira ad ottenere l'iscrizione al I anno della scuola deve sostenere una selezione sui titoli ed un colloquio attitudinale da parte di una commissione composta dal direttore della cattedra di psichiatria, da un esperto in servizio sociale e da un docente della stessa scuola.   
-  
-Art. 291. - Il numero massimo dei posti disponibili e' stabilito nella misura di 20.   
-  
-Art. 292. - Direttore della scuola e' il titolare della cattedra di psichiatria dell'universita'. Gli insegnanti della scuola sono proposti dal consiglio di facolta' di medicina e chirurgia udito il direttore e nominati dal rettore.   
-  
-Art. 293. - Le materie d'insegnamento teorico del I anno sono:   
-  
-Semeiotica psichiatrica;   
-Psicologia generale;   
-Igiene mentale;   
-Neuropsichiatria infantile;   
-Servizio sociale psichiatrico.   
-  
-Le esercitazioni pratiche del I anno riguardano la presentazione e la discussione di pazienti riguardanti i piu' diversi tipi di patologia psichiatrica.   
-  
-Le materie di insegnamento teorico del II anno sono:   
-  
-Clinica neurologica;   
-Psicologia sociale;   
-Psichiatria forense e legislazione psichiatrica;   
-Medicina sociale e del lavoro;   
-Clinica psichiatrica;   
-Servizio sociale psichiatrico.   
-  
-Le esercitazioni pratiche del II anno consistono nella discussione e nel diretto intervento in casi di pazienti riguardanti i piu' diversi tipi di patologia psichiatrica.   
-Inoltre consistono nella discussione individuale e di gruppo di casi che gli stessi assistenti sociali hanno seguito nel loro ambiente di lavoro.   
-  
-Art. 294. - Al termine del I anno, per essere ammessi al II, gli allievi devono superare una prova di esami sugli insegnamenti teorici e pratici impartiti.   
-  
-Art. 295. - Al termine del II anno, per il conseguimento del diploma di assistente sociale psichiatrico, gli iscritti devono sostenere un esame comprendente: a) una prova orale sulla materia dell'intero corso; b) una prova pratica stabilita dalla commissione esaminatrice.   
-  
-Art. 296. - Le commissioni per gli esami del I anno e per l'esame di diploma sono composte da tre membri - tra cui un esperto in servizio sociale - scelti tra i docenti della scuola e nominati dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Ogni commissario ha a disposizione 10 punti.   
-  
-Art. 297. - I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola; ma se al II esame non sia loro riconosciuta una idoneita' saranno senz'altro esclusi da ulteriori prove.   
-  
-Art. 298. - Agli allievi che avranno superato l'esame finale viene rilasciato il diploma di assistente sociale psichiatrico.   
-  
-Art. 299. - Le tasse e soprattasse per la scuola sono ripartite come segue:   
-  
-  
-  
+Scuola di specializzazione in patologia della riproduzione umana  
+Art. 416. - Presso l'istituto di clinica ostetrica e ginecologica e' istituita la scuola di specializzazione in patologia della riproduzione umana, la quale ha lo scopo di conferire una qualificata preparazione nel campo della patologia della riproduzione e dei problemi ad essa collegati, oltre a curare lo studio degli aspetti sociologici, demografici e di pianificazione familiare inerenti alla disciplina.  
+Direttore della scuola e' il professore di ruolo i fuori ruolo della stessa materia della specializzazione o, in carenza, il professore di ruolo o fuori ruolo di materia affine.  
+Art. 417. - La durata del corso e' di tre anni.  
+Non saranno concesse abbreviazioni di corso.  
+Il numero massimo degli allievi iscrivibili e' di undici complessivamente per l'intero corso degli studi.  
+L'ammissione alla scuola avverra' per titoli ed esami;  
+l'esame consistera' in una prova scritta e in una orale su temi di medicina generale e di anatomia patologica.  
+Sono da considerare titoli preferenziali, a parita' di risultato dell'esame di ammissione:  
+a) il voto di laurea in medicina e chirurgia;  
+b) il voto riportato nelle materie ostetriche e ginecologiche;  
+c) l'aver compilato la tesi di laurea in clinica ostetrica;  
+d) l'aver avuto la qualifica di studente interno;  
+e) la documentazione di servizi prestati in divisioni ostetriche e ginecologiche di ospedali regionali, anche come tirocinante;  
+f) eventuali pubblicazioni inerenti alle materie di insegnamento.  
+Per quanto non contemplato, valgono le norme generali delle scuole di specializzazione in medicina e chirurgia previste dal presente statuto.  
+Art. 418. - Le materie di insegnamento sono:  
 1° Anno:  
-  
-tassa iscrizione . . . . . . . . . . . . . . . . . . . . . L. 18.000 contributo . . . . . . . . . . . . . . . . . . . . . . . . " 25.000 tassa esame. . . . . . . . . . . . . . . . . . . . . . . . " 7.000 ------- L. 50.000 -------   
-  
-  
+biologia generale della riproduzione;  
+embriologia ed anatomia dell'apparato riproduttivo umano;  
+fisiologia della riproduzione umana;  
+genetica umana;  
+immunologia normale e patologia della riproduzione umana;  
+psicodinamica della riproduzione umana I;  
+lingua inglese I.  
 2° Anno:  
+fisiopatologia della riproduzione umana;  
+anatomia e istologia patologica dell'apparato riproduttivo;  
+endocrinologia della riproduzione umana;  
+andrologia;  
+teratologia;  
+patologia e clinica della gravidanza;  
+urologia e patologia della riproduzione umana;  
+psicodinamica della riproduzione umana II;  
+sessuologia medica I;  
+lingua inglese II.  
+3° Anno:  
+nosografia della riproduzione umana;  
+diagnostica della patologia della riproduzione umana;  
+terapia medica della patologia della riproduzione umana;  
+terapia chirurgica della patologia, della riproduzione umana;  
+sessuologia medica II;  
+patologia psicosomatica in ostetricia e ginecologia;  
+sociologia della riproduzione umana;  
+antropologia ed etnologia della riproduzione umana;  
+demografia;  
+lingua inglese III.  
+Art. 419. - Sono previste per gli allievi attivita' interne ed esterne con obbligo di periodi di tirocinio presso strutture periferiche, nelle quali verranno affrontati, sotto vari aspetti, problemi di fisiopatologia della riproduzione.  
+Oltre ai corsi di lezioni, sono istituzionalmente previsti seminari e gruppi di studio anche con docenti esterni o realizzati mediante incontri organizzati al di fuori dell'ambiente universitario, nelle comunita' di lavoro, nei quartieri od in ogni ambiente periferico dove possono essere vivi i problemi connessi con gli argomenti affrontati nell'ambito della scuola.  
+Art. 420. - La dissertazione per l'esame di diploma dovra' comprendere anche la documentazione delle esperienze maturate negli anni di corso, attraverso il confronto con gli ambienti esterni frequentati.  
+Agli allievi che supereranno l'esame di diploma verra' rilasciato il diploma di specializzazione in patologia della riproduzione umana.  
   
-tassa iscrizione . . . . . . . . . . . . . . . . . . . . . L. 18.000 contributo . . . . . . . . . . . . . . . . . . . . . . . . " 25.000 tassa esame. . . . . . . . . . . . . . . . . . . . . . . . " 7.000 soprattassa esame diploma. . . . . . . . . . . . . . . . . " 3.000 ------- L. 53.000 -------   
-  
-Scuola speciale per terapisti della riabilitazione   
-specializzati in cinesiterapia o terapia del linguaggio   
-(Scuola diretta a fini speciali)   
-  
-Art. 300. - La scuola speciale per terapisti della riabilitazione specializzati in cinesiterapia o terapia del linguaggio (scuola diretta a fini speciali) ha sede presso la clinica delle malattie nervose e mentali. Essa ha lo scopo di dare una preparazione completa, teorica e pratica, agli allievi, istruendoli sui problemi della riabilitazione dei motulesi con particolare riguardo ai pazienti affetti da postumi di apoplessia cerebrale. A tale scopo vengono impartiti insegnamenti teorici e pratici diretti al recupero dei disturbi delle funzioni motorie e del linguaggio.   
-  
-Art. 301. - La durata del corso per il conseguimento del diploma di terapista nelle tecniche riabilitative e' di due anni accademici: nel I anno vengono impartiti insegnamenti teorici ed esercitazioni pratiche su materie propedeutiche e tecniche presso la clinica delle malattie nervose e mentali. Nel II anno, oltre agli insegnamenti teorici e le esercitazioni pratiche presso la clinica delle malattie nervose e mentali, gli allievi seguono alcuni corsi a carattere pratico presso altre cliniche universitarie e centri di riabilitazione. Gli allievi hanno l'obbligo della frequenza alle lezioni ed ai tirocini.   
-  
-Art. 302. - Possono essere ammessi alla scuola gli allievi di eta' non inferiore ai 17 anni in possesso del diploma di scuola media superiore.   
-  
-Art. 303. - Chi aspira ad ottenere l'iscrizione al I anno della scuola deve sostenere un esame di ammissione che consiste in una prova orale attitudinale dinanzi ad una commissione composta da tre docenti della stessa scuola.   
-  
-Art. 304. - Il numero massimo dei posti disponibili annualmente e' stabilito nella misura di 20.   
-  
-Art. 305. - Direttore della scuola e' il titolare della cattedra della clinica delle malattie nervose e mentali dell'universita'.   
-  
-Gli insegnanti della scuola sono proposti dal consiglio di facolta' di medicina e chirurgia, udito il direttore e nominati dal rettore.   
-  
-Art. 306. - Le materie di insegnamento teorico del I anno sono:   
-  
-Nozioni elementari e generalita' di anatomo-fisiologia;   
-Anatomo-fisiologia del sistema nervoso;   
-Anatomo-fisiologia dell'apparato locomotore;   
-Chinesiologia;   
-Elementi di anatomia e fisiologia riguardanti specificamente il sistema fonatorio;   
-Elementi di semeiotica dei disturbi del linguaggio;   
-Esame del linguaggio.   
-  
-Le esercitazioni pratiche del I anno consistono:   
-a) per gli allievi in cinesiterapia nell'assistere e partecipare ai trattamenti riabilitativi di pazienti ricoverati presso la clinica e di pazienti che accedono ambulatoriamente alla palestra di rieducazione annessa al centro per lo studio e la cura dell'apoplessia cerebrale presso la clinica delle malattie nervose e mentali dell'Universita' di Genova;   
-b) per gli allievi in logopedia nell'assistere e partecipare agli esami neuropsicologici ed ai trattamenti logoterapici praticati nel centro per lo studio e la cura dell'apoplessia cerebrale presso la clinica delle malattie nervose e mentali dell'Universita' di Genova.   
-  
-Le materie di insegnamento teorico del II anno sono:   
-  
-Elementi di patologia e clinica neuropsichiatrica;   
-Elementi di patologia e clinica ortopedica;   
-Fisioterapia: tecniche e applicazioni;   
-Cinesiterapia: tecniche e applicazioni;   
-Elementi di patologia del linguaggio;   
-Terapia del linguaggio;   
-Elementi di riabilitazione, psicologia e psichiatria geriatrica.   
-  
-Le esercitazioni pratiche del II anno consistono:   
-a) per gli allievi in cinesiterapia: eseguire valutazioni neuromotorie e praticare trattamenti cinesiterapici ai pazienti ricoverati presso la clinica e a quelli che accedono ambulatoriamente alla palestra di rieducazione annessa al centro per lo studio e la cura della apoplessia cerebrale presso la clinica delle malattie nervose e mentali dell'Universita' di Genova.   
-Una parte del tirocinio pratico viene svolta presso altri istituti e cliniche universitarie e centri di riabilitazione;   
-b) per gli allievi in logopedia: eseguire esami neuropsicologici e praticare trattamenti logoterapici nel centro per lo studio e la cura dell'apoplessia cerebrale dell'Universita' di Genova presso la clinica delle malattie nervose e mentali.   
-  
-Art. 307. - Nel I anno dopo aver seguito gli insegnamenti teorici gli allievi devono sostenere una prova orale sulle materie di osteo-atro-miologia, cinesiologia e logopedia per adire alle esercitazioni pratiche.   
-Al termine del I anno, per essere ammessi al II, gli allievi devono superare una prova di esame sugli insegnamenti teorici e pratici impartiti.   
-  
-Art. 308. - Al termine del II anno, per il conseguimento del diploma di terapista della riabilitazione, gli iscritti devono sostenere un esame comprendente: a) una prova scritta, b) un esame orale sulla materia dell'intero corso, c) una prova pratica stabilita dalla commissione esaminatrice.   
-  
-Art. 309. - Le commissioni per gli esami del I anno e per l'esame di diploma sono composte da tre membri scelti tra i docenti della scuola e nominati dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Ogni commissione ha a disposizione 10 punti.   
-  
-Art. 310. - I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola, ma se al secondo esame non sia loro riconosciuta una idoneita', saranno senz'altro esclusi da ulteriori prove.   
-  
-Art. 311. - Agli allievi che avranno superato l'esame finale viene rilasciato il diploma di terapista della riabilitazione specializzato in cinesiterapia o terapia del linguaggio.   
-  
-Art. 312. - Le tasse e soprattasse per la scuola sono ripartite come segue:   
-  
-  
-  
-1° Anno:  
-  
-tassa iscrizione . . . . . . . . . . . . . . . . . . . . . L. 18.000 contributo . . . . . . . . . . . . . . . . . . . . . . . . " 25.000 tassa esame. . . . . . . . . . . . . . . . . . . . . . . . " 7.000 ------- L. 50.000 -------   
-  
-  
-2° Anno:  
-  
-tassa iscrizione . . . . . . . . . . . . . . . . . . . . . L. 18.000 contributo . . . . . . . . . . . . . . . . . . . . . . . . " 25.000 tassa esame. . . . . . . . . . . . . . . . . . . . . . . . " 7.000 soprattassa esame diploma. . . . . . . . . . . . . . . . . " 3.000 ------- L. 53.000 -------   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 settembre 1970
+### Dato a Roma, addi' 31 ottobre 1978
 
-SARAGAT MISASI
+PERTINI PEDINI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 17 novembre 1970
+Registrato alla Corte dei conti, addi' 21 febbraio 1979
 
-Atti del Governo, registro n. 238, foglio n. 62. - CARUSO
+Registro n. 9 Istruzione, foglio n. 16

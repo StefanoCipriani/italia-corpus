@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 novembre 1977 n. 1065
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1973 n. 892
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 novembre 1977 n. 1065
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1973 n. 892
+==============================================================
 
 Autorizzazione alla cassa mutua di malattia per i coltivatori diretti di Salerno ad acquistare un immobile.
 -----------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1065. Decreto del Presidente della Repubblica 22 novembre 1977, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, la cassa mutua di malattia per i coltivatori diretti di Salerno viene autorizzata ad acquistare, al prezzo di L. 50.000.000, una porzione del fabbricato sito in Salerno, angolo corso Garibaldi, via Santoro, di proprieta' del sig. Fiorenzo Benvenuto, iscritta nel nuovo catasto edilizio urbano al foglio 64/D, n. 2391 sub 1-5-6-7-8 e al n. 2386 sub 10, rappresentata dal locale terraneo sito in angolo tra il corso Garibaldi n. 1 e la via G. Santoro numeri 2-4-6 e dai piani primo e secondo aventi ingresso dal n. 5 di corso Garibaldi, come da atto di compravendita 23 aprile 1957 a rogito dott. Gaspare Monaco, notaio in Mercato Sanseverino, n. 8386 di repertorio, da adibire a uffici e poliambulatorio.  
+892. Decreto del Presidente della Repubblica 18 ottobre 1973, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, la cassa mutua di malattia per i coltivatori diretti di Salerno viene autorizzata ad acquistare, per il prezzo di L. 7.735.000, una porzione di immobile sito in Vallo della Lucania, localita' S. Caterina, rappresentata da tre locali al pianterreno e dall'intero primo piano, di proprieta' del signor Periotto Guglielmo, come da rogito per notaio Gaspare Monaco di Salerno, rep. n. 26523 del 25 maggio 1963.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 6 febbraio 1978  
-Registro n. 1 Lavoro, foglio n. 36
+Visto, il Guardasigilli: ZAGARI  
+Registrato alla Corte dei conti, addi' 27 dicembre 1973  
+Atti di Governo, registro n. 263, foglio n. 28. - CARUSO

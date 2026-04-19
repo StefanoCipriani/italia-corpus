@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1985 n. 904
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1985 n. 866
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1985 n. 904
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1985 n. 866
+==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
@@ -39,15 +39,15 @@ Articolo unico
 --------------
 
   
-Nell'art. 132, relativo al corso di laurea in ingegneria, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
+Nell'art. 78, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
   
-modelli di sistemi fisiologici.  
+tecnica fisiologica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 settembre 1985
+### Dato a Roma, addi' 7 ottobre 1985
 
 COSSIGA
 
@@ -55,6 +55,6 @@ FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 14 febbraio 1986
+Registrato alla Corte dei conti, addi' 21 gennaio 1986
 
-Registro n. 9 Istruzione, foglio n. 110
+Registro n. 2 Istruzione, foglio n. 94

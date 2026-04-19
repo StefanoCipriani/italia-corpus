@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 marzo 1971 n. 848
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1972 n. 1041
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 marzo 1971 n. 848
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1972 n. 1041
+===============================================================
 
 Accettazione di un legato disposto a favore dello Stato.
 --------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-848. Decreto del Presidente della Repubblica 22 marzo 1971, col quale, sulla proposta del Ministro per la pubblica istruzione, viene autorizzata l'accettazione del legato, disposto a favore dello Stato dall'ing. Giuseppe Cenzato, consistente in una collezione di ventisei quadri di notevole interesse artistico, da destinare al museo e gallerie nazionali di Capodimonte in Napoli.  
+1041. Decreto del Presidente della Repubblica 28 ottobre 1972, col quale, sulla proposta del Ministro per la pubblica istruzione, viene autorizzata l'accettazione di un legato, disposto a favore dello Stato dall'avv. Pasquale Perrone, con testamento olografo e relativo codicillo, datati rispettivamente il 19 novembre 1960 e 20 novembre 1966, pubblicato con atto pubblico dell'11 gennaio 1971, rep. n. 162740, a rogito dott. Gaetano Catalano, notaio in Napoli, costituito da una collezione di pastori napoletani del sec. XVIII ed accessori da presepe (ad eccezione del "Mistero" che dovra' restare alla consorte Anna per ricordo), nonche' del quadro il "Bevitore" attribuito a scuola spagnola, da destinare al Museo di S. Martino in Napoli.  
   
-Visto, il Guardasigilli: COLOMBO  
-Registrato alla Corte dei conti, addi' 15 ottobre 1971  
-Atti del Governo, registro n. 244, foglio n. 148. - CARUSO
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 23 febbraio 1973  
+Atti di Governo, registro n. 256, foglio n. 25. - VALENTINI

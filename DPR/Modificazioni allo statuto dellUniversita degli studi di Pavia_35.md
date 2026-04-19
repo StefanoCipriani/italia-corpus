@@ -1,62 +1,85 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1985 n. 153
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 luglio 1968 n. 934
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1985 n. 153
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 luglio 1968 n. 934
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Art. 559 - l'ultimo comma, concernente l'iscrizione al corso di laurea in musicologia degli studenti provenienti da un conservatorio di musica o da un liceo musicale pareggiato, e' soppresso e sostituito come segue:   
-Art. 559 (ultimo comma). - Gli studenti sprovvisti di diploma di composizione o di organo e composizione organistica o di polifonia vocale rilasciati da un conservatorio di musica o da un liceo musicale pareggiato sono inoltre tenuti a frequentare il corso di semiologia della musica e a sostenere il relativo esame. Il consiglio della scuola deliberera', caso per caso, se tale corso dovra' essere seguito per un anno, o per un biennio, o per un triennio, o per un quadriennio.   
-Art. 561 - nell'elenco degli insegnamenti complementari del corso di diploma di paleografia e filologia musicale l'insegnamento contrassegnato con il numero 12) e' soppresso e sostituito con l'insegnamento di "semiologia della musica I (biennale)". Inoltre e' inserito il nuovo insegnamento di "semiologia della musica II (biennale)" che viene contrassegnato con il numero 13), con il conseguente scorrimento della numerazione dell'insegnamento successivo.   
-Nell'ultimo comma, la seguente frase: "Gli studenti sprovvisti di diploma rilasciato da un conservatorio di musica sono inoltre tenuti a frequentare appositi corsi di preparazione specifica musicale impartiti dalla scuola e a superare il relativo esame." e' soppressa e sostituita come segue: "Gli studenti sprovvisti di diploma di composizione o di organo e composizione organistica o di polifonia vocale rilasciati da un conservatorio di musica o da un liceo musicale pareggiato sono inoltre tenuti a frequentare il corso di semiologia della musica e a sostenere il relativo esame. Il consiglio della scuola deliberera', caso per caso, se tale corso dovra' essere seguito per un anno o per un biennio. Le stesse norme si applicano anche agli studenti iscritti al corso ad indirizzo storico-didattico, di cui all'articolo seguente".   
-Art. 563 - l'ultimo comma, concernente norme relative agli insegnamenti del corso speciale storico-didattico della scuola di paleografia e filologia musicale, e' modificato come segue: la prima riga e' soppressa e cosi' sostituita: "Tutti i corsi pluriennali comportano un distinto esame al termine di ogni anno di corso".   
-Nella seconda riga, l'espressione: "Solo i corsi di storia.." e' modificata in: "I corsi di storia...".   
+Decreta:  
   
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+Dopo l'art. 259 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di preparazione per tecnici fisiocinesiterapisti (scuola diretta a fini speciali).  
+  
+Scuola di preparazione per tecnici fisiocinesiterapisti  
+(scuola diretta a fini speciali)  
+  
+Art. 260. - E' istituita presso l'istituto di clinica ortopedica dell'Universita' di Pavia ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20), una "Scuola di preparazione per tecnici fisiocinesiterapisti", che ha lo scopo di preparare adeguatamente personale tecnico qualificato alla terapia del movimento e alle tecniche fisioterapiche per l'abilitazione alla professione di fisioterapista. La scuola ha indirizzo teorico-pratico.  
+Art. 261. - La durata del corso degli studi della scuola di preparazione per tecnici fisiocinesiterapisti e' di due anni accademici. E' titolo di ammissione il diploma di scuola media unica ed equipollente, il diploma di avviamento professionale, commerciale o industriale o agrario o ad altro indirizzo, e il diploma di infermiera professionale.  
+Art. 262. - Al primo anno di scuola si accede previo esame di cultura generale davanti ad una commissione composta dal direttore della scuola e da due insegnanti della scuola stessa. L'esame di ammissione avra' luogo entro la prima quindicina del mese di ottobre di ciascun anno, in un giorno stabilito dalla facolta' di medicina e chirurgia, su proposta del direttore della scuola.  
+Art. 263. - Il numero massimo di partecipanti ammessi per ogni anno viene fissato in 20.  
+Art. 264. - Il direttore della scuola e' il direttore dell'istituto di clinica ortopedica dell'Universita' di Pavia.  
+La scuola e' sotto la vigilanza della facolta' di medicina chirurgia, gli insegnanti della scuola sono proposti dal direttore della stessa, approvati dalla facolta' di medicina e chirurgia e nominati dal rettore. Essi possono essere scelti fra i professori ufficiali, tra i liberi docenti, tra gli aiuti e gli assistenti della facolta' di medicina e chirurgia o di altra facolta' dell'ateneo o tra persone di riconosciuta competenza anche al di fuori dell'ambito universitario.  
+Art. 265. - Le materie di insegnamento sono le seguenti:  
+  
+1° Anno:  
+Anatomia e fisiologia dell'apparato locomotore  
+Elementi di patologia dell'apparato locomotore (biennale)  
+Elementi di traumatologia  
+Elementi di psicologia  
+Massoterapia  
+Termoterapia  
+  
+2° Anno:  
+Elementi di patologia dell'apparato locomotore (biennale)  
+Idroterapia e balneoterapia  
+Fangoterapia e crenoterapia  
+Elio-climatoterapia  
+Elettroterapia  
+Terapia radiante  
+Ginnastica medica  
+Rieducazione motoria  
+Riabilitazione del motuleso, terapia di occupazione  
+Ergoterapia.  
+  
+Art. 266. - Gli iscritti alla scuola hanno l'obbligo della frequenza del reparto di fisiocinesiterapia della clinica ortopedica per la durata di 2 anni, compiendo anche un tirocinio pratico nelle varie sezioni del reparto.  
+Art. 267. - I programmi di insegnamento e gli orari vengono predisposti dal direttore della scuola ed approvati dal consiglio della facolta' di medicina e chirurgia.  
+La sorveglianza degli iscritti per quanto riguarda la loro attivita' pratica spetta al direttore della scuola. Assenze ingiustificate comportano l'esclusione dal corso.  
+Art. 268. - Per essere ammessi a sostenere gli esami di diploma, gli allievi dovranno aver seguito i corsi, superato gli esami in tutti gli insegnamenti prescritti e aver compiuto con esito favorevole tutte le esercitazioni pratiche previste.  
+Art. 269. - Le commissioni per gli esami di profitto sono nominate dal preside della facolta' di medicina e chirurgia su proposta del, direttore della scuola.  
+Le commissioni sono composte di tre membri, dal professore ufficiale della materia, presidente; da un professore ufficiale di materia affine e da un libero docente o cultore della materia. Ogni commissario ha a disposizione 10 punti.  
+Art. 270. - L'esame di diploma consiste in un esame orale sui temi trattati durante il corso e in una prova pratica stabilita dalla commissione esaminatrice. L'esame di diploma viene sostenuto davanti ad una commissione di cinque membri scelti fra i docenti della scuola, nominata dal preside di facolta' di medicina e chirurgia, su proposta del direttore della scuola. Ogni commissario ha a disposizione dieci punti.  
+I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza della scuola; ma se al secondo esame non sia loro riconosciuta una idoneita', saranno senz'altro esclusi da ulteriori prove.  
+Agli allievi che avranno superato l'esame finale viene rilasciato il diploma di "tecnico fisiocinesiterapista".  
+Art. 271. - Gli iscritti sono tenuti annualmente al pagamento delle seguenti tasse, soprattasse e contributi:  
+  
+Tassa di immatricolazione (da versare una volta sola). . . . L. 2.000 Tassa annuale di iscrizione. . . . . . . . . . . . . . . . . L. 5.000 Soprattassa annuale di esame . . . . . . . . . . . . . . . . L. 3.000 Contributi di laboratorio . . . . . . . . . . . . . . . . . L. 30.000 Tassa erariale di diploma. . . . . . . . . . . . . . . . . . L. 3.000 Libretto e tessera . . . . . . . . . . . . . . . . . . . . . L. 2.000   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 gennaio 1985
+### Dato a Roma, addi' 23 luglio 1968
 
-PERTINI
+SARAGAT SCAGLIA
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: GONELLA
 
-Visto, il Guardasigilli: MARTINAZZOLI Registrato alla Corte dei conti addi' 15 aprile 1985
+Registrato alla Corte dei conti, addi' 27 agosto 1968
 
-Registro n. 23 Istruzione, foglio n. 213
+Atti del Governo, registro n. 222, foglio n. 104. - DI PRETORO

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1970 n. 856
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 ottobre 1967 n. 1136
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1970 n. 856
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 ottobre 1967 n. 1136
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -10,87 +10,50 @@ Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare, le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 78. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti quelli di:  
   
-Dopo l'art. 520 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione presso la facolta' di medicina e chirurgia, delle scuole di specializzazione in malattie infettive e in virologia.   
-Scuola di specializzazione in malattie infettive   
-Art. 521. - E' istituita la scuola di specializzazione in malattie infettive, la quale ha lo scopo di conferire adeguata competenza teorica e pratica ai laureati in medicina e chirurgia che intendono conseguire il diploma di specializzazione in malattie infettive.   
-La durata del corso di studi e' di tre anni.   
-Potra' esservi ammesso, per titoli, un massimo di diciotto allievi, complessivamente.   
-Art. 522. - Le materie di insegnamento sono:   
-1° Anno:   
-1) Epidemiologia generale delle malattie infettive;   
-2) Nozioni generali di batteriologia, virologia, parassitologia, immunologia;   
-3) Tecnica batteriologica, virologica, parassitologica, immunologica applicata alle malattie infettive (biennale).   
-2° Anno:   
-1) Patologia e clinica delle malattie infettive (biennale);   
-2) Semeiotica e diagnostica delle malattie infettive;   
-3) Anatomia patologica delle malattie infettive;   
-4) Tecnica batteriologica, virologica, parassitologica, immunologica (biennale).   
-3° Anno:   
-1) Patologia e clinica delle malattie infettive (biennale);   
-2) Malattie infettive dei paesi caldi;   
-3) Farmacologia e terapia generale delle malattie infettive;   
-4) Legislazione sanitaria e malattie infettive.   
-Art. 523. - Durante i tre anni di corso gli iscritti, nelle ore libere dalle lezioni, hanno l'obbligo di internato nell'istituto di malattie infettive prestando servizio nei reparti di degenza, nei laboratori, nell'ambulatorio, con le modalita' e l'orario che saranno stabiliti dal direttore dell'istituto; potranno inoltre essere obbligati a pernottare, a turno, nell'istituto.   
-Detto internato potra' essere autorizzato, dal consiglio direttivo della scuola; anche presso altre istituzioni che abbiano caratteristiche tali da assicurare lo svolgimento di un efficace tirocinio eminentemente pratico.   
-Alla fine di ognuno dei tre anni gli iscritti dovranno sostenere l'esame di profitto delle materie di insegnamento in un unico gruppo e successivamente l'esame di diploma.   
-Scuola di specializzazione in virologia   
-Art. 524. - La scuola di specializzazione in virologia ha lo scopo di fornire un completamento culturale sul piano scientifico ed una preparazione specifica sul piano tecnico e metodologico a coloro che si dedicano allo studio di questa disciplina.   
-La scuola conferisce il diploma di specialista in virologia.   
-Possono esservi ammessi i laureati in medicina e chirurgia, medicina veterinaria, scienze biologiche; farmacia, chimica e tecnologia farmaceutiche.   
-Il corso ha la durata di tre anni ed ha luogo presso l'istituto di microbiologia.   
-La direzione della scuola viene assunta da un professore di ruolo di microbiologia.   
-Gli iscritti al primo anno non potranno superare il numero di cinque; il numero massimo di iscritti complessivamente per i tre anni del corso e' fissato in quindici specializzandi (5 per anno).   
-L'iscrizione alla scuola e' subordinata al superamento di un esame di ammissione (colloquio).   
-Art. 525. - Gli insegnamenti impartiti nella scuola sono i seguenti, cosi' ripartiti nei tre anni del corso:   
-1° Anno:   
-Virologia generale (I parte);   
-Tecnica virologica generale (I parte);   
-Biometria applicata alla virologia;   
-Metodi immunologici in virologia.   
-2° Anno:   
-Virologia generale (II parte);   
-Tecnica virologica generale (II parte);   
-Metodi chimici in virologia;   
-Metodi fisici in virologia;   
-Microscopia elettronica e studio delle ultrastrutture;   
-Virologia speciale e diagnostica virologica (I parte).   
-3° Anno:   
-Genetica dei virus;   
-Virologia oncologica;   
-Studio dei farmaci antivirali;   
-Epidemiologia e profilassi delle malattie da virus;   
-Virologia speciale e diagnostica virologica (II parte).   
-Art. 526. - Il direttore, sentito il parere del consiglio della scuola, puo' stabilire, per un piu' proficuo conseguimento dei fini della scuola, che siano tenuti corsi complementari, conferenze o seminari su materie e argomenti che abbiano affinita' o attinenza con gli insegnamenti impartiti nella scuola.   
-La frequenza ai corsi e' obbligatoria. Obbligatoria e' altresi' la frequenza ai turni annuali di internato, ciascuno della durata di sei mesi.   
-Gli esami di profitto saranno sostenuti in tre gruppi alla fine di ogni anno di corso ed il superamento dell'esame e' necessario per l'iscrizione al secondo anno. Il secondo gruppo comprende tutte le materie del secondo anno di corso ed il superamento dell'esame e' necessario per l'iscrizione al terzo anno. Il terzo gruppo comprende tutte le materie del terzo anno di corso ed il superamento dell'esame e' necessario per l'ammissione all'esame di diploma.   
-Art. 527. - L'esame di diploma constera' di una discussione sopra una tesi scritta esclusivamente di carattere sperimentale.   
-I candidati non riconosciuti idonei potranno ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola. In caso di un secondo insuccesso saranno esclusi da ulteriori prove.   
+Archivistica e scienze ausiliarie della storia;  
+Civilta' e letteratura greca;  
+Filologia, italiana;  
+Storia americana.  
+Art. 79. - All'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti quelli di:  
+  
+Metodologia e didattica generale;  
+Antropologia culturale;  
+Storia della filosofia moderna e contemporanea;  
+Filosofia del linguaggio;  
+Pedagogia speciale.  
+Nello stesso corso di laurea l'insegnamento di "Storia del teatro" muta denominazione in quello di "Storia del teatro e dello spettacolo".  
+Art. 84, relativo alle norme comuni ai vari corsi di laurea e' modificato nel senso che il secondo comma e' abrogato e sostituito dal seguente:  
+"La prova scritta di pedagogia, nel corso di diploma di vigilanza e' preceduta da tutti gli altri esami di profitto".  
+Art. 85, relativo agli esami di laurea e' modificato nel senso che il primo comma e' abrogato e sostituito dal seguente:  
+"L'esame di laurea consiste nella discussione di una dissertazione scritta svolta su un tema consigliato dal professore della materia scelta dal candidato. Tale materia dev'essere comunicata alla segreteria, col visto del professore, almeno dieci mesi prima della presentazione della dissertazione, salvo il caso di trasferimento dello studente da altra sede universitaria".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 ottobre 1970
+### Dato a Roma, addi' 17 ottobre 1967
 
-SARAGAT MISASI
+SARAGAT GUI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 18 novembre 1970
+Registrato alla Corte dei conti, addi' 4 dicembre 1967
 
-Atti del Governo, registro n. 238, foglio n. 79. - CARUSO
+Atti del Governo, registro n. 216, foglio n. 27. - GRECO

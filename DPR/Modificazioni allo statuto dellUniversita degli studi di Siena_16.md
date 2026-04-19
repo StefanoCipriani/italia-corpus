@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1973 n. 777
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1974 n. 782
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1973 n. 777
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1974 n. 782
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Siena.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831), e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,9 +18,9 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -30,160 +30,231 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Dopo l'art. 167 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in "Tisiologia e malattie dell'apparato respiratorio".
+Dopo l'art. 167 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chirurgia d'urgenza e pronto soccorso:
 
-Scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio
+Scuola di specializzazione in chirurgia d'urgenza e pronto soccorso
 
-Art. 168. - Alla facolta' di medicina e chirurgia e' annessa la scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio. Il numero degli iscritti al primo anno non potra' essere superiore a otto.
+Art. 168. - La scuola di specializzazione in chirurgia d'urgenza e di pronto soccorso ha sede presso gli istituti di clinica chirurgica generale e terapia chirurgica, di patologia speciale chirurgica e di semeiotica chirurgica dell'Universita' di Siena.
 
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.
+Il corso degli studi per il conseguimento del diploma di specialista in chirurgia generale d'urgenza e di pronto soccorso ha la durata di due anni accademici.
 
-Art. 169. - Il piano di studi e' il seguente:
+Alla scuola possono iscriversi i laureati in medicina e chirurgia che abbiano superato con profitto gli esami del terzo anno della scuola di specializzazione in chirurgia e che saranno pertanto esclusi dalla prosecuzione di quest'ultima; gli specialisti in chirurgia generale e i docenti in branche chirurgiche a indirizzo clinico.
+
+Il numero massimo complessivo degli iscritti alla scuola e' di 15 (quindici) per ogni anno di corso per un totale di 30 (trenta) iscritti.
+
+Art. 169. - Le materie di insegnamento del corso sono le seguenti:
+
+1) Chirurgia generale d'urgenza e di pronto soccorso (biennale);
+
+2) Chirurgia cardio-vascolare d'urgenza;
+
+3) Chirurgia ginecologica d'urgenza;
+
+4) Chirurgia plastica e riparatrice (biennale);
+
+5) Chirurgia pediatrica d'urgenza;
+
+6) Chirurgia toracica d'urgenza (biennale);
+
+7) Chirurgia urologica d'urgenza;
+
+8) Fisiopatologia del politraumatizzato;
+
+9) Neurotraumatologia (biennale);
+
+10) Radiologia;
+
+11) Rianimazione;
+
+12) Ricerche di laboratorio in chirurgia d'urgenza;
+
+13) Semeiologia chirurgica nell'urgenza;
+
+14) Trattamento del politraumatizzato;
+
+15) Trattamento pre e post-operatorio in chirurgia d'urgenza;
+
+16) Traumatologia dell'apparato locomotore (biennale);
+
+17) Traumatologia maxillo-facciale;
+
+18) Valutazione medico-legale delle lesioni chirurgiche.
+
+Art. 170. - Le materie sopra elencate sono cosi' distribuite:
 
 1° Anno:
 
-1) Anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio I;
+1) Chirurgia generale d'urgenza e di pronto soccorso (biennale) (1°);
 
-2) Patologia della tubercolosi polmonare ed extrapolmonare;
+2) Chirurgia cardio-vascolare d'urgenza;
 
-3) Patologia delle malattie dell'apparato respiratorio;
+3) Chirurgia ginecologica d'urgenza;
 
-4) Fisiologia e fisiopatologia generale dell'apparato respiratorio;
+4) Chirurgia pediatrica d'urgenza;
 
-5) Semeiotica fisica e funzionale dell'apparato respiratorio;
+5) Chirurgia plastica e riparatrice (biennale) (1°);
 
-6) Microbiologia;
+6) Chirurgia toracica d'urgenza (biennale) (1°);
 
-7) Epidemiologia e statistica sanitaria della tubercolosi e delle malattie dell'apparato respiratorio.
+7) Neurotraumatologia (biennale) (1°);
+
+8) Ricerche di laboratorio in chirurgia d'urgenza;
+
+9) Radiologia;
+
+10) Semeiologia chirurgica d'urgenza;
+
+11) Traumatologia dell'apparato locomotore (biennale) (1°);
+
+12) Trattamento pre e post-operatorio in chirurgia d'urgenza.
 
 2° Anno:
 
-1) Anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio II;
+1) Chirurgia generale d'urgenza e di pronto soccorso (biennale) (2°);
 
-2) Clinica della tubercolosi I;
+2) Chirurgia plastica e riparatrice (biennale) (2°);
 
-3) Clinica delle malattie dell'apparato respiratorio I;
+3) Chirurgia toracica d'urgenza (biennale) (2°);
 
-4) Fisiopatologia speciale della tubercolosi e delle malattie dell'apparato respiratorio;
+4) Chirurgia urologica d'urgenza;
 
-5) Broncologia;
+5) Neurotraumatologia (biennale) (2°);
 
-6) Radiologia dell'apparato respiratorio;
+6) Traumatologia maxillo-facciale;
 
-7) Profilassi della tubercolosi;
+7) Traumatologia dell'apparato locomotore (biennale) (2°);
 
-8) Igiene e legislazione sociale.
+8) Fisiopatologia del politraumatizzato;
 
-3° Anno:
+9) Trattamento del politraumatizzato;
 
-1) Clinica della tubercolosi II;
+10) Rianimazione;
 
-2) Clinica delle malattie dell'apparato respiratorio II;
+11) Valutazione medico-legale delle lesioni chirurgiche.
 
-3) Chemioterapia della tubercolosi e delle malattie dell'apparato respiratorio;
+Art. 171. - La frequenza alle lezioni ed alle esercitazioni e ai seminari e' obbligatoria per tutti gli iscritti.
 
-4) Terapia fisiomeccanica nella tubercolosi e nelle malattie dell'apparato respiratorio;
+L'internato e' obbligatorio durante tutti i due anni del corso sotto forma di permanenza costante in istituto durante le ore della sua attivita'.
 
-5) Terapia chirurgica nella tubercolosi e nelle malattie dell'apparato respiratorio.
+Tale internato avra' la durata annuale di almeno sei mesi.
 
-Art. 170. - I corsi di insegnamento sono integrati da turni obbligatori di internato nei reparti di degenza e nei laboratori di ricerca, da esercitazioni pratiche, da seminari e da conferenze.
+Dall'obbligo di tale internato potranno essere esentati, valutato caso per caso, quegli allievi che, in qualita' di assistenti o di aiuti, prestino effettivamente servizio presso reparti di chirurgia d'urgenza e di pronto soccorso delle universita' e di ospedali generali regionali o provinciali.
 
-Alla fine di ogni anno saranno tenuti gli esami relativi.
+Alla fine del primo anno di corso gli specializzandi, per poter ottenere l'ammissione all'anno successivo, dovranno superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno in corso.
 
-Le materie di insegnamento saranno raggruppate in due esami teorici per ogni anno di corso. Gli esami di clinica saranno teorici e pratici.
+L'esame di diploma consiste nella discussione di una tesi scritta su un tema preventivamente approvato dal direttore della scuola.
 
-Per il conseguimento del diploma di specializzazione e' prevista la presentazione e la discussione di una dissertazione scritta.
+Le norme per l'iscrizione, gli esami, le tasse, ecc. sono quelle generali per le scuole di specializzazione dell'Universita'.
 
-Art. 171. - Il consiglio della scuola su proposta del direttore, puo' concedere una abbreviazione al massimo di un anno del corso di specializzazione a quegli aspiranti che oltre alle condizioni prescritte per l'ammissione normale documentino una specifica attivita' e diano prova della loro preparazione tecnica e culturale.
+Art. 172. - La direzione della scuola sara' affidata dalla facolta' a turno ai tre direttori degli istituti di clinica chirurgica, di patologia chirurgica e di semeiotica chirurgica.
 
-In ogni caso, pero', gli iscritti saranno tenuti al pagamento delle tasse, soprattasse e contributi ed a sostenere gli esami speciali previsti anche per l'anno di corso dalla frequenza del quale sono stati esonerati.
-
-Art. 172. - Le tasse, soprattasse e contributi della scuola di specializzazione in tisiologia dell'apparato respiratorio sono cosi' fissate:
-
-Immatricolazione. . . . . . . . . . . . . . . . . . . . L. 12.000 Tassa annuale di iscrizione. . . . . . . . . . . . . . L. 100.000 Soprattassa annuale di esame. . . . . . . . . . . . . . L. 16.000 Contributi annuali di laboratorio . . . . . . . . . . . L. 14.000 Tassa di diploma. . . . . . . . . . . . . . . . . . . . L. 20.000
+Art. 173. - Tassa d'immatricolazione (1° anno di corso) L. 12.000; tassa d'iscrizione (ogni anno di corso) L. 100.000; sopratassa esami (ogni anno di corso) lire 16.000; contributi di laboratorio (ogni anno di corso) L. 14.000; tassa di diploma L. 20.000.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 29 settembre 1973
+Dato a Roma, addi' 28 ottobre 1974
 
 LEONE
 
 MALFATTI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 1 dicembre 1973 Atti di Governo, registro n. 262, foglio n. 72. - CARUSO
+alla Corte dei conti, addi' 27 gennaio 1975 Atti di Governo, registro n. 8, foglio n. 41
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831), e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Dopo l'art. 167 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chirurgia d'urgenza e pronto soccorso:  
   
-Dopo l'art. 167 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in "Tisiologia e malattie dell'apparato respiratorio".  
+Scuola di specializzazione in chirurgia d'urgenza e pronto soccorso  
   
-Scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio  
-  
-Art. 168. - Alla facolta' di medicina e chirurgia e' annessa la scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio. Il numero degli iscritti al primo anno non potra' essere superiore a otto.  
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-Art. 169. - Il piano di studi e' il seguente:  
+Art. 168. - La scuola di specializzazione in chirurgia d'urgenza e di pronto soccorso ha sede presso gli istituti di clinica chirurgica generale e terapia chirurgica, di patologia speciale chirurgica e di semeiotica chirurgica dell'Universita' di Siena.  
+Il corso degli studi per il conseguimento del diploma di specialista in chirurgia generale d'urgenza e di pronto soccorso ha la durata di due anni accademici.  
+Alla scuola possono iscriversi i laureati in medicina e chirurgia che abbiano superato con profitto gli esami del terzo anno della scuola di specializzazione in chirurgia e che saranno pertanto esclusi dalla prosecuzione di quest'ultima; gli specialisti in chirurgia generale e i docenti in branche chirurgiche a indirizzo clinico.  
+Il numero massimo complessivo degli iscritti alla scuola e' di 15 (quindici) per ogni anno di corso per un totale di 30 (trenta) iscritti.  
+Art. 169. - Le materie di insegnamento del corso sono le seguenti:  
+1) Chirurgia generale d'urgenza e di pronto soccorso (biennale);  
+2) Chirurgia cardio-vascolare d'urgenza;  
+3) Chirurgia ginecologica d'urgenza;  
+4) Chirurgia plastica e riparatrice (biennale);  
+5) Chirurgia pediatrica d'urgenza;  
+6) Chirurgia toracica d'urgenza (biennale);  
+7) Chirurgia urologica d'urgenza;  
+8) Fisiopatologia del politraumatizzato;  
+9) Neurotraumatologia (biennale);  
+10) Radiologia;  
+11) Rianimazione;  
+12) Ricerche di laboratorio in chirurgia d'urgenza;  
+13) Semeiologia chirurgica nell'urgenza;  
+14) Trattamento del politraumatizzato;  
+15) Trattamento pre e post-operatorio in chirurgia d'urgenza;  
+16) Traumatologia dell'apparato locomotore (biennale);  
+17) Traumatologia maxillo-facciale;  
+18) Valutazione medico-legale delle lesioni chirurgiche.  
+Art. 170. - Le materie sopra elencate sono cosi' distribuite:  
 1° Anno:  
-1) Anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio I;  
-2) Patologia della tubercolosi polmonare ed extrapolmonare;  
-3) Patologia delle malattie dell'apparato respiratorio;  
-4) Fisiologia e fisiopatologia generale dell'apparato respiratorio;  
-5) Semeiotica fisica e funzionale dell'apparato respiratorio;  
-6) Microbiologia;  
-7) Epidemiologia e statistica sanitaria della tubercolosi e delle malattie dell'apparato respiratorio.  
+1) Chirurgia generale d'urgenza e di pronto soccorso (biennale) (1°);  
+2) Chirurgia cardio-vascolare d'urgenza;  
+3) Chirurgia ginecologica d'urgenza;  
+4) Chirurgia pediatrica d'urgenza;  
+5) Chirurgia plastica e riparatrice (biennale) (1°);  
+6) Chirurgia toracica d'urgenza (biennale) (1°);  
+7) Neurotraumatologia (biennale) (1°);  
+8) Ricerche di laboratorio in chirurgia d'urgenza;  
+9) Radiologia;  
+10) Semeiologia chirurgica d'urgenza;  
+11) Traumatologia dell'apparato locomotore (biennale) (1°);  
+12) Trattamento pre e post-operatorio in chirurgia d'urgenza.  
 2° Anno:  
-1) Anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio II;  
-2) Clinica della tubercolosi I;  
-3) Clinica delle malattie dell'apparato respiratorio I;  
-4) Fisiopatologia speciale della tubercolosi e delle malattie dell'apparato respiratorio;  
-5) Broncologia;  
-6) Radiologia dell'apparato respiratorio;  
-7) Profilassi della tubercolosi;  
-8) Igiene e legislazione sociale.  
-3° Anno:  
-1) Clinica della tubercolosi II;  
-2) Clinica delle malattie dell'apparato respiratorio II;  
-3) Chemioterapia della tubercolosi e delle malattie dell'apparato respiratorio;  
-4) Terapia fisiomeccanica nella tubercolosi e nelle malattie dell'apparato respiratorio;  
-5) Terapia chirurgica nella tubercolosi e nelle malattie dell'apparato respiratorio.  
-Art. 170. - I corsi di insegnamento sono integrati da turni obbligatori di internato nei reparti di degenza e nei laboratori di ricerca, da esercitazioni pratiche, da seminari e da conferenze.  
-Alla fine di ogni anno saranno tenuti gli esami relativi.  
-Le materie di insegnamento saranno raggruppate in due esami teorici per ogni anno di corso. Gli esami di clinica saranno teorici e pratici.  
-Per il conseguimento del diploma di specializzazione e' prevista la presentazione e la discussione di una dissertazione scritta.  
-Art. 171. - Il consiglio della scuola su proposta del direttore, puo' concedere una abbreviazione al massimo di un anno del corso di specializzazione a quegli aspiranti che oltre alle condizioni prescritte per l'ammissione normale documentino una specifica attivita' e diano prova della loro preparazione tecnica e culturale.  
-In ogni caso, pero', gli iscritti saranno tenuti al pagamento delle tasse, soprattasse e contributi ed a sostenere gli esami speciali previsti anche per l'anno di corso dalla frequenza del quale sono stati esonerati.  
-Art. 172. - Le tasse, soprattasse e contributi della scuola di specializzazione in tisiologia dell'apparato respiratorio sono cosi' fissate:  
+1) Chirurgia generale d'urgenza e di pronto soccorso (biennale) (2°);  
+2) Chirurgia plastica e riparatrice (biennale) (2°);  
+3) Chirurgia toracica d'urgenza (biennale) (2°);  
+4) Chirurgia urologica d'urgenza;  
+5) Neurotraumatologia (biennale) (2°);  
+6) Traumatologia maxillo-facciale;  
+7) Traumatologia dell'apparato locomotore (biennale) (2°);  
+8) Fisiopatologia del politraumatizzato;  
+9) Trattamento del politraumatizzato;  
+10) Rianimazione;  
+11) Valutazione medico-legale delle lesioni chirurgiche.  
+Art. 171. - La frequenza alle lezioni ed alle esercitazioni e ai seminari e' obbligatoria per tutti gli iscritti.  
+L'internato e' obbligatorio durante tutti i due anni del corso sotto forma di permanenza costante in istituto durante le ore della sua attivita'.  
+Tale internato avra' la durata annuale di almeno sei mesi.  
+Dall'obbligo di tale internato potranno essere esentati, valutato caso per caso, quegli allievi che, in qualita' di assistenti o di aiuti, prestino effettivamente servizio presso reparti di chirurgia d'urgenza e di pronto soccorso delle universita' e di ospedali generali regionali o provinciali.  
+Alla fine del primo anno di corso gli specializzandi, per poter ottenere l'ammissione all'anno successivo, dovranno superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno in corso.  
+L'esame di diploma consiste nella discussione di una tesi scritta su un tema preventivamente approvato dal direttore della scuola.  
+Le norme per l'iscrizione, gli esami, le tasse, ecc. sono quelle generali per le scuole di specializzazione dell'Universita'.  
+Art. 172. - La direzione della scuola sara' affidata dalla facolta' a turno ai tre direttori degli istituti di clinica chirurgica, di patologia chirurgica e di semeiotica chirurgica.  
+Art. 173. - Tassa d'immatricolazione (1° anno di corso) L. 12.000; tassa d'iscrizione (ogni anno di corso) L. 100.000; sopratassa esami (ogni anno di corso) lire 16.000; contributi di laboratorio (ogni anno di corso) L. 14.000; tassa di diploma L. 20.000.  
   
-Immatricolazione. . . . . . . . . . . . . . . . . . . . L. 12.000 Tassa annuale di iscrizione. . . . . . . . . . . . . . L. 100.000 Soprattassa annuale di esame. . . . . . . . . . . . . . L. 16.000 Contributi annuali di laboratorio . . . . . . . . . . . L. 14.000 Tassa di diploma. . . . . . . . . . . . . . . . . . . . L. 20.000   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 settembre 1973
+### Dato a Roma, addi' 28 ottobre 1974
 
 LEONE MALFATTI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 1 dicembre 1973
+Registrato alla Corte dei conti, addi' 27 gennaio 1975
 
-Atti di Governo, registro n. 262, foglio n. 72. - CARUSO
+Atti di Governo, registro n. 8, foglio n. 41

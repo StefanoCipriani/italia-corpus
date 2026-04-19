@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 759
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 1006
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 759
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 1006
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
@@ -10,90 +10,178 @@ Modificazioni allo statuto dell'Universita' degli studi di Messina.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923) e modificato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923), e modificato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina, e convalidati dal Consiglio universitario nazionale nei suoi pareri;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla
------
+Sulla proposta del Ministro per la pubblica istruzione;
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Dopo l'art. 194, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione, in malattie dell'apparato digerente.
+
+Scuola di specializzazione in malattie dell'apparato digerente
+
+Art. 195. - La scuola di specializzazione in malattie dell'apparato digerente conferisce il diploma di specialista in malattie dell'apparato digerente e ha sede presso l'istituto di patologia speciale medica e metodologia clinica.
+
+Art. 196. - La scuola ha la durata di 4 anni di cui uno dedicato al tirocinio pratico. Abbreviazioni del corso potranno essere concesse a giudizio insindacabile del consiglio della scuola, soltanto a coloro che diano dimostrazione documentata di avere preparazione, servizio ed attivita' scientifica nel campo specifico di riconosciuto merito e svolti in ambienti qualificati. In ogni caso l'abbreviazione del corso deve essere dettagliatamente motivata dal consiglio della scuola.
+
+Art. 197. - Il corso comprende i seguenti insegnamenti:
+
+1° Anno:
+
+anatomia patologica;
+
+fisiopatologia;
+
+chimica clinica;
+
+semeiotica fisica e strumentale (1° anno);
+
+clinica medica (1° anno).
+
+2° Anno:
+
+semeiotica fisica e strumentale (2° anno);
+
+semeiotica radiologica;
+
+malattie del tubo digerente;
+
+clinica medica (2° anno).
+
+3° Anno:
+
+malattie del fegato e del pancreas;
+
+clinica medica (3° anno).
+
+4° Anno:
+
+tirocinio pratico da svolgersi in qualificate cliniche universitarie o reparti ospedalieri.
+
+A queste materie fondamentali obbligatorie potranno essere aggiunte le seguenti sei materie complementari con corsi semestrali:
+
+parassitologia (1° anno);
+
+psicopatologia (1° anno);
+
+dietetica (2° anno);
+
+chirurgia dell'apparato digerente (2° anno);
+
+immunologia (3° anno);
+
+farmacologia (3° anno).
+
+Art. 198. - L'iscrizione alla scuola avviene per titoli.
+
+Nel caso che le domande superino il numero dei posti disponibili, l'ammissione avverra' per titoli ed esami. Sono ammessi i laureati in medicina e chirurgia.
+
+Art. 199. - Sono disponibili otto posti per ciascun anno di corso.
+
+Gli iscritti alla scuola hanno obbligo di frequentare le lezioni, le corsie ed i laboratori nonche' di prestare servizio, se richiesti, nell'istituto come medici interni con funzioni assistenziali.
+
+Gli allievi che non dimostrino di aver ottemperato alla richiesta frequenza, non saranno ammessi a sostenere le prove di esami.
+
+Art. 200. - Alla fine di ogni anno di corso gli iscritti sono tenuti a superare tutti gli esami relativi ai singoli insegnamenti fondamentali e complementari di ciascun anno per il passaggio all'anno successivo.
+
+Gli esami biennali e triennali saranno sostenuti rispettivamente alla fine del biennio ed alla fine del triennio.
+
+Art. 201. - Al termine del corso di studi per il conseguimento del diploma, gli iscritti che abbiano superato tutti gli esami, dovranno sostenere una dissertazione scritta su un argomento di carattere gastroenterologico.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1975
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 5 giugno 1976 Atti di Governo, registro n. 6, foglio n. 54
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923), e modificato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Lo statuto dell'Universita' di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Gli articoli 168, 169, 170 e 171, relativi alla scuola di specializzazione in medicina del lavoro, sono soppressi e sostituiti dai seguenti:   
+Decreta:  
   
-Scuola di specializzazione in medicina del lavoro   
-Art. 168. - La scuola di specializzazione in medicina del lavoro ha sede presso l'istituto di medicina del lavoro dell'Universita' di Messina e conferisce il diploma di specialista in medicina del lavoro.   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-Art. 169. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
-Il numero massimo degli allievi e' di venti per anno di corso e complessivamente di ottanta iscritti per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-Art. 170. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-1) igiene del lavoro (I corso);   
-2) fisiologia del lavoro ed ergonomia (I corso);   
-3) tecnologia industriale;   
-4) statistica medica e biometrica;   
-5) tecniche di laboratorio.   
-2° Anno:   
-1) patologia e clinica delle malattie del lavoro (I corso);   
-2) igiene del lavoro (II corso);   
-3) fisiologia del lavoro ed ergonomia (II corso)   
-4) psicologia del lavoro;   
-5) tossicologia industriale.   
-3° Anno:   
-1) anatomia e clinica delle malattie del lavoro (I corso);   
-2) prevenzione degli infortuni e delle malattie da lavoro (I corso);   
-3) epidemiologia delle malattie da lavoro;   
-4) radiologia e radioprotezione;   
-5) dermatologia professionale.   
-4° Anno:   
-1) patologia e clinica delle malattie del lavoro (III corso);   
-2) prevenzione degli infortuni e delle malattie da lavoro (II corso);   
-3) pronto soccorso;   
-4) medicina legale e delle assicurazioni;   
-5) organizzazione dei servizi di medicina ed igiene del lavoro.   
-Gli esami delle discipline svolte in corsi pluriennali vengono sostenuti alla fine dell'ultimo corso.   
-Art. 171. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.   
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.   
-Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante lo anno. Per le materie biennale o triennali l'esame e' sostenuto alla fine del biennio o del triennio.   
-Al termine del corso di studi per il conseguimento del diploma di specialista in medicina del lavoro, gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta su un argomento attinente alla specializzazione.   
-
-Art. 2
-------
-
+Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-L'art. 204 dello statuto dell'Universita' di Messina di cui al [decreto del Presidente della Repubblica 28 ottobre 1976, n. 895](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-28;895), e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in chirurgia generale e' stabilito in undici per anno di corso per un totale di cinquantacinque iscritti.  
+Dopo l'art. 194, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione, in malattie dell'apparato digerente.  
+Scuola di specializzazione in malattie dell'apparato digerente  
+Art. 195. - La scuola di specializzazione in malattie dell'apparato digerente conferisce il diploma di specialista in malattie dell'apparato digerente e ha sede presso l'istituto di patologia speciale medica e metodologia clinica.  
+Art. 196. - La scuola ha la durata di 4 anni di cui uno dedicato al tirocinio pratico. Abbreviazioni del corso potranno essere concesse a giudizio insindacabile del consiglio della scuola, soltanto a coloro che diano dimostrazione documentata di avere preparazione, servizio ed attivita' scientifica nel campo specifico di riconosciuto merito e svolti in ambienti qualificati. In ogni caso l'abbreviazione del corso deve essere dettagliatamente motivata dal consiglio della scuola.  
+Art. 197. - Il corso comprende i seguenti insegnamenti:  
+1° Anno:  
+anatomia patologica;  
+fisiopatologia;  
+chimica clinica;  
+semeiotica fisica e strumentale (1° anno);  
+clinica medica (1° anno).  
+2° Anno:  
+semeiotica fisica e strumentale (2° anno);  
+semeiotica radiologica;  
+malattie del tubo digerente;  
+clinica medica (2° anno).  
+3° Anno:  
+malattie del fegato e del pancreas;  
+clinica medica (3° anno).  
+4° Anno:  
+tirocinio pratico da svolgersi in qualificate cliniche universitarie o reparti ospedalieri.  
+A queste materie fondamentali obbligatorie potranno essere aggiunte le seguenti sei materie complementari con corsi semestrali:  
+parassitologia (1° anno);  
+psicopatologia (1° anno);  
+dietetica (2° anno);  
+chirurgia dell'apparato digerente (2° anno);  
+immunologia (3° anno);  
+farmacologia (3° anno).  
+Art. 198. - L'iscrizione alla scuola avviene per titoli.  
+Nel caso che le domande superino il numero dei posti disponibili, l'ammissione avverra' per titoli ed esami. Sono ammessi i laureati in medicina e chirurgia.  
+Art. 199. - Sono disponibili otto posti per ciascun anno di corso.  
+Gli iscritti alla scuola hanno obbligo di frequentare le lezioni, le corsie ed i laboratori nonche' di prestare servizio, se richiesti, nell'istituto come medici interni con funzioni assistenziali.  
+Gli allievi che non dimostrino di aver ottemperato alla richiesta frequenza, non saranno ammessi a sostenere le prove di esami.  
+Art. 200. - Alla fine di ogni anno di corso gli iscritti sono tenuti a superare tutti gli esami relativi ai singoli insegnamenti fondamentali e complementari di ciascun anno per il passaggio all'anno successivo.  
+Gli esami biennali e triennali saranno sostenuti rispettivamente alla fine del biennio ed alla fine del triennio.  
+Art. 201. - Al termine del corso di studi per il conseguimento del diploma, gli iscritti che abbiano superato tutti gli esami, dovranno sostenere una dissertazione scritta su un argomento di carattere gastroenterologico.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 settembre 1980
+### Dato a Roma, addi' 31 ottobre 1975
 
-PERTINI SARTI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 10 novembre 1980
+Registrato alla Corte dei conti, addi' 5 giugno 1976
 
-Registro n. 102 Istruzione, foglio n. 122
+Atti di Governo, registro n. 6, foglio n. 54

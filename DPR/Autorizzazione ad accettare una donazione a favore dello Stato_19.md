@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1975 n. 267
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1974 n. 480
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1975 n. 267
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1974 n. 480
 =============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-267. Decreto del Presidente della Repubblica 10 aprile 1975, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dal comune di Varese Ligure (La Spezia) con atto 12 giugno 1973, n. 696 di repertorio, a rogito notaio Alberto Suetta, dell'appezzamento di terreno di mq 506, catastalmente indicato nell'atto suddetto, e sul quale l'Amministrazione dell'agricoltura e delle foreste ha gia' realizzato una casermetta forestale.  
+480. Decreto del Presidente della Repubblica 22 luglio 1974, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione a favore dello Stato, consistente in un terreno di effettivi mq 235, disposta dal comune di Montichiari (Brescia), con atto 20 settembre 1972, n. 20997/10648 di repertorio, a rogito notaio Luigi Lechi, da destinare ad ampliamento del fabbricato demaniale in cui hanno sede i locali uffici finanziari.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 23 giugno 1975  
-Atti di Governo, registro n. 10, foglio n. 76
+Visto, il Guardasigilli: ZAGARI  
+Registrato alla Corte dei conti, addi' 26 settembre 1974  
+Atti di Governo, registro n. 5, foglio n. 88. - SCIARRETTA

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 maggio 1972 n. 332
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1972 n. 679
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 maggio 1972 n. 332
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1972 n. 679
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -28,355 +28,265 @@ Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso: gli articoli 122, 123 e 124 relativi alla "Scuola di specializzazione in dermosifilopatica" che muta la denominazione in quella di "Scuola di specializzazione in clinica dermosifilopatica" sono abrogati e sostituiti dai seguenti:
 
-Gli articoli 114, 115 e 116, relativi alla "Scuola di specializzazione in ostetricia e ginecologia", sono abrogati e sostituiti dai seguenti:
+Scuola di specializzazione in clinica dermosifilopatica
 
-Scuola di specializzazione in ostetricia e ginecologia
+Art. 122. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in clinica dermosifilopatica con sede presso la clinica dermosifilopatica.
 
-Art. 114. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in ostetricia e ginecologia, con sede presso la clinica ostetrica.
+Il corso ha la durata di tre anni.
 
-Il corso ha la durata di quattro anni.
+Il numero massimo degli iscritti per l'intero corso e' di nove, al primo anno saranno ammessi tre specializzandi.
 
-Il numero massimo degli iscritti per l'intero corso di studi e' di venti; al primo anno di ogni corso possono essere ammessi cinque specializzandi.
+Art. 123. - Gli aspiranti alla scuola di specializzazione saranno previamente sottoposti ad un esame di ammissione e saranno altresi' valutati i titoli preferenziali che i candidati stessi eventualmente abbiano presentato.
 
-Art. 115. - L'ammissione alla scuola avviene a seguito di concorso per titoli ed esami.
-
-Sono da considerarsi titoli preferenziali, a parita' di risultato dell'esame di ammissione:
-
-a) il voto di laurea in medicina e chirurgia;
-
-b) aver frequentato come studente interno una clinica ostetrica e ginecologica dell'universita';
-
-c) aver svolto la tesi di laurea nella clinica ostetrica e ginecologica;
-
-d) documentazione di eventuali servizi prestati in grossi reparti ospitalieri della specialita';
-
-e) eventuali pubblicazioni.
-
-Per nessun motivo il corso di quattro anni puo' essere abbreviato.
-
-Nessun titolo puo' esonerare dalla frequenza dei quattro anni di corso.
-
-Gli iscritti, oltre all'obbligo della frequenza delle lezioni, esercitazioni, seminari, ecc., devono prestare servizio analogo a quello degli assistenti per non meno di nove mesi all'anno.
-
-Art. 116. - Il programma degli studi e' il seguente:
+Art. 124. - Le materie di insegnamento sono le seguenti:
 
 1° Anno:
 
-1) Elementi di genetica e di eugenica;
+Anatomia e istologia normale della cute;
 
-2) Anatomia normale ed embriologia dell'apparato genitale femminile;
+Fisiologia della cute e degli annessi cutanei;
 
-3) Fisiologia dell'apparato genitale femminile;
+Anatomia e fisiologia dell'apparato genitale;
 
-4) Endocrinologia fisiologica;
+Microbiologia e parassitologia applicate;
 
-5) Fisiologia ostetrica;
+Tecnica di laboratorio con particolare riferimento alla sierologia applicata;
 
-6) Diagnostica ostetrica;
-
-7) Clinica ostetrica e ginecologica;
+Semeiotica dermatologica e venereologica.
 
 2° Anno:
 
-1) Tecnica operatoria ostetrica;
+Patologia delle malattie cutanee;
 
-2) Diagnostica ginecologica;
+Patologia delle infezioni sessuali;
 
-3) Tecnica diagnostica di laboratorio nel campo ostetrico-ginecologico, esclusa la istologia (sierologia, batteriologia, citologia, ematologia, biochimica);
+Anatomia e istologia patologica della cute;
 
-4) Clinica ostetrica e ginecologica.
+Anatomia patologica delle malattie veneree e sessuali;
+
+Angiologia;
+
+Sessuologia.
 
 3° Anno:
 
-1) Anatomia patologica ostetrica e ginecologica;
+Clinica dell'malattie cutanee;
 
-2) Istologia normale e patologica nel campo della specialita';
+Clinica delle infezioni sessuali;
 
-3) Puericultura prenatale;
+Farmacologia e terapia medicamentosa;
 
-4) Emoterapia nel campo ostetrico e ginecologico;
+Fisioterapia dermatologica;
 
-5) Anestesia ed analgesia nel campo ostetrico e ginecologico;
+Cosmetologia;
 
-6) Tecnica operatoria ginecologica;
+Chirurgia plastica riparatrice;
 
-7) Clinica ostetrica e ginecologica;
+Igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.
 
-8) Terapia medica ostetrica e ginecologica.
+Il corso di lezioni consistera' in almeno cinquanta lezioni annuali comprensive delle varie materie e la frequenza giornaliera da parte degli iscritti non sara' inferiore alle quattro ore effettive per tutta la durata dell'anno accademico. Gli specializzandi avranno pertanto obbligo di internato onde seguire i corsi di lezione e svolgere contemporaneamente attivita' pratica nelle corsie, negli ambulatori e nei laboratori.
+
+Gli esami di profitto degli specializzandi verranno dati in tre gruppi ed in tre sessioni distinte, ogni gruppo comprendente le materie proprie in ciascun anno di studio.
+
+L'esame di diploma consistera' nella esposizione e discussione di un argomento della disciplina su un tema dato al candidato 24 ore prima della prova.
+
+Gli articoli 131, 132 e 133 relativo alla "Scuola di specializzazione in neurologia e psichiatria" che muta la denominazione in quella di "Scuola di specializzazione in neurologia" sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in neurologia
+
+Art. 131. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in "neurologia", con sede presso la clinica delle malattie nervose e mentali. Il numero massimo degli iscritti e' di sette per ogni anno di corso per un totale complessivo di 28.
+
+Art. 132. - La durata del corso degli studi per il conseguimento del diploma di specialista in neurologia e' di 4 anni. L'ammissione alla scuola sara' fatta per titoli ed esame.
+
+Art. 133. - Le materie di insegnamento sono le seguenti:
+
+1° Anno (internato in psichiatria):
+
+Anatomia e istologia del sistema nervoso;
+
+Fisiologia del S.N.;
+
+Biochimica del S.N.;
+
+Genetica (elementi);
+
+Psicologia generale;
+
+Psicopatologia;
+
+Semeiotica psichiatrica.
+
+2° Anno:
+
+Anatomia e istologia patologica del S.N.;
+
+Semeiotica neurologica;
+
+Patologia speciale e diagnostica neurologica (I);
+
+Neuro-radiologia;
+
+Endocrinologia e neurologia vegetativa.
+
+3° Anno:
+
+Patologia speciale e diagnostica neurologica (II);
+
+Clinica neurologica e terapia (I);
+
+Elettroencefalografia;
+
+Elettromiografia, elettrodiagnostica ed elettroterapia;
+
+Neuro-oftalmologia;
+
+Neuro-otologia;
+
+Esami di laboratorio.
 
 4° Anno:
 
-1) Puericultura postnatale e malattie del neonato;
+Clinica neurologica e terapia (II);
 
-2) Ostetricia e ginecologia forense;
+Neurochirurgia;
 
-3) Diagnostica roentgen, radioterapia in ostetricia e ginecologia;
+Teoria e clinica della riabilitazione;
 
-4) Clinica ostetrica e ginecologica (esame alla fine del quarto anno);
+Neuro-traumatologia anche sotto l'aspetto della medicina legale;
 
-5) Urologia ginecologica;
+Neurologia in rapporto alla patologia internistica.
 
-6) Chirurgia addominale extra genitale.
+Per conseguire il diploma di specializzazione e' previsto l'internato obbligatorio per l'intero anno scolastico nel 2°, 3° e 4° anno nella clinica neurologica. Tale internato potra' essere ridotto a non meno di mesi quattro per anno per, i medici che prestino regolare servizio in reparto neurologico. E' altresi' obbligatorio, durante il 1° anno, l'interrato in psichiatria per la durata dell'intero anno scolastico; quest'ultimo internato potra' essere ridotto a non meno di mesi cinque per i medici che prestino servizio in reparto neurologico ed a non meno di mesi quattro per coloro che prestino servizio in ospedale psichiatrico.
 
-Gli iscritti alla scuola debbono sostenere esami annuali di profitto la cui sessione e' unica ed e' espletata nel mese di ottobre.
+Un esonero dalla frequenza di anni due puo' essere concesso agli specialisti in psichiatria, neuropsichiatria infantile e neurochirurgia; un esonero dalla frequenza di un anno potra' essere concesso agli specialisti in altre materie affini (medicina interna, otorinolaringoiatria, oculistica, radiologia).
 
-Gli esami si fanno per gruppi di materie ed i membri delle commissioni sono proposti dal direttore della scuola.
-
-Non puo' essere iscritto all'anno successivo di corso chi non abbia superato le materie fondamentali della specialita'.
-
-L'esame finale per il conseguimento del diploma, a completamento degli studi, consiste nella presentazione e nella discussione di un dissertazione scritta con contributo personale.
-
-Su proposta del consiglio della scuola, formulata sulla base del rendimento di ogni iscritto, gli specializzandi potranno essere esonerati dal pagamento delle tasse universitarie.
-
-Gli articoli 119, 120, 121, relativi alla "Scuola di specializzazione in urologia", sono abrogati e sostituiti dai seguenti:
-
-Scuola di specializzazione in urologia
-
-Art. 119. - Alla facolta' di medicina e chirurgia e' annessa, una scuola di specializzazione in urologia con sede presso la clinica chirurgica.
-
-Art. 120. - Il corso ha la durata di tre anni.
-
-Il numero massimo degli iscritti per l'intero corso di studi e' di dodici, ed al 1° anno di ogni corso possono essere ammessi quattro specializzandi.
-
-Art. 121. - Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-1) Anatomia descrittiva e topografica dell'apparato uro-genitale;
-
-2) Fisiologia dell'apparato uro-genitale;
-
-3) Patologia dell'apparato urinario e genitale maschile;
-
-4) Le nefropatie mediche;
-
-5) Semeiotica dell'apparato uro-genitale (funzionale e di laboratorio);
-
-6) Tecniche strumentali e semeiologia endoscopica;
-
-7) Batteriologia in urologia;
-
-8) Farmacoterapia delle affezioni uro-genitali.
-
-2° Anno:
-
-1) Patologia dell'apparato urinario e genitale maschile;
-
-2) Clinica urologica;
-
-3) Patologia genitale femminile di interesse urologico;
-
-4) Nefrologia chirurgica;
-
-5) Anatomia ed istologia patologica dell'apparato uro-genitale;
-
-6) Semeiotica dell'apparato uro-genitale (funzionale e di laboratorio);
-
-7) Tecniche strumentali e semeiologia endoscopica;
-
-8) Anatomia chirurgica dell'apparato uro-genitale;
-
-9) Radiologia dell'apparato urinario e genitale;
-
-10) Le affezioni cutanee e veneree nei riguardi della urologia;
-
-11) L'anestesia ed il trattamento pre e post-operatorio del malato urologico.
-
-3° Anno:
-
-1) Clinica urologica;
-
-2) Patologia e clinica urologica infantile;
-
-3) Radiologia dell'apparato urinario e genitale;
-
-4) Tecniche operatorie sull'apparato urinario e genitale;
-
-5) Urologia ginecologica.
-
-Gli esami che gli specializzandi dovranno sostenere sono distribuiti come segue:
-
-1° Anno:
-
-1) Anatomia e fisiologia dell'apparato uro-genitale;
-
-2) Le nefropatie mediche;
-
-3) Batteriologia in urologia e farmacoterapia delle affezioni urogenitali.
-
-2° Anno
-
-1) Patologia dell'apparato urinario e genitale maschile: anatomia ed istologia patologica;
-
-2) Semeiotica urologica (funzionale e di laboratorio) e tecnica strumentale e semeiologia endoscopica;
-
-3) Patologia genitale femminile di interesse urologico; le affezioni cutanee e veneree nei riguardi della urologia;
-
-4) Anatomia chirurgica dell'apparato uro-genitale: anestesia e trattamento pre e post operatorio del malato urologico;
-
-5) Nefrologia chirurgica.
-
-3° Anno:
-
-1) Clinica urologica;
-
-2) Radiologia dell'apparato urinario e genitale;
-
-3) Interventi e procedimenti operatori sull'apparato uro-genitale;
-
-4) Patologia e clinica urologica infantile;
-
-5) Urologia ginecologica.
+Gli esoneri di cui sopra sono concessi, su proposta del direttore della scuola, dal consiglio della medesima a seguito del superamento dell'esame di ammissione.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 1 maggio 1972
+Dato a Roma, addi' 1 agosto 1972
 
 LEONE
 
-MISASI
+SCALFARO
 
 Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 24 luglio 1972 Atti del Governo, registro n. 250, foglio n. 33. - CARUSO
+alla Corte dei conti, addi' 13 novembre 1972 Atti del Governo, registro n. 253, foglio n. 29. - CARUSO
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Gli articoli 114, 115 e 116, relativi alla "Scuola di specializzazione in ostetricia e ginecologia", sono abrogati e sostituiti dai seguenti:   
+Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso: gli articoli 122, 123 e 124 relativi alla "Scuola di specializzazione in dermosifilopatica" che muta la denominazione in quella di "Scuola di specializzazione in clinica dermosifilopatica" sono abrogati e sostituiti dai seguenti:  
   
-Scuola di specializzazione in ostetricia e ginecologia   
+Scuola di specializzazione in clinica dermosifilopatica  
   
-Art. 114. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in ostetricia e ginecologia, con sede presso la clinica ostetrica.   
-Il corso ha la durata di quattro anni.   
-Il numero massimo degli iscritti per l'intero corso di studi e' di venti; al primo anno di ogni corso possono essere ammessi cinque specializzandi.   
-Art. 115. - L'ammissione alla scuola avviene a seguito di concorso per titoli ed esami.   
-Sono da considerarsi titoli preferenziali, a parita' di risultato dell'esame di ammissione:   
-a) il voto di laurea in medicina e chirurgia;   
-b) aver frequentato come studente interno una clinica ostetrica e ginecologica dell'universita';   
-c) aver svolto la tesi di laurea nella clinica ostetrica e ginecologica;   
-d) documentazione di eventuali servizi prestati in grossi reparti ospitalieri della specialita';   
-e) eventuali pubblicazioni.   
-Per nessun motivo il corso di quattro anni puo' essere abbreviato.   
-Nessun titolo puo' esonerare dalla frequenza dei quattro anni di corso.   
-Gli iscritti, oltre all'obbligo della frequenza delle lezioni, esercitazioni, seminari, ecc., devono prestare servizio analogo a quello degli assistenti per non meno di nove mesi all'anno.   
-Art. 116. - Il programma degli studi e' il seguente:   
-1° Anno:   
-1) Elementi di genetica e di eugenica;   
-2) Anatomia normale ed embriologia dell'apparato genitale femminile;   
-3) Fisiologia dell'apparato genitale femminile;   
-4) Endocrinologia fisiologica;   
-5) Fisiologia ostetrica;   
-6) Diagnostica ostetrica;   
-7) Clinica ostetrica e ginecologica;   
-2° Anno:   
-1) Tecnica operatoria ostetrica;   
-2) Diagnostica ginecologica;   
-3) Tecnica diagnostica di laboratorio nel campo ostetrico-ginecologico, esclusa la istologia (sierologia, batteriologia, citologia, ematologia, biochimica);   
-4) Clinica ostetrica e ginecologica.   
-3° Anno:   
-1) Anatomia patologica ostetrica e ginecologica;   
-2) Istologia normale e patologica nel campo della specialita';   
-3) Puericultura prenatale;   
-4) Emoterapia nel campo ostetrico e ginecologico;   
-5) Anestesia ed analgesia nel campo ostetrico e ginecologico;   
-6) Tecnica operatoria ginecologica;   
-7) Clinica ostetrica e ginecologica;   
-8) Terapia medica ostetrica e ginecologica.   
-4° Anno:   
-1) Puericultura postnatale e malattie del neonato;   
-2) Ostetricia e ginecologia forense;   
-3) Diagnostica roentgen, radioterapia in ostetricia e ginecologia;   
-4) Clinica ostetrica e ginecologica (esame alla fine del quarto anno);   
-5) Urologia ginecologica;   
-6) Chirurgia addominale extra genitale.   
-Gli iscritti alla scuola debbono sostenere esami annuali di profitto la cui sessione e' unica ed e' espletata nel mese di ottobre.   
-Gli esami si fanno per gruppi di materie ed i membri delle commissioni sono proposti dal direttore della scuola.   
-Non puo' essere iscritto all'anno successivo di corso chi non abbia superato le materie fondamentali della specialita'.   
-L'esame finale per il conseguimento del diploma, a completamento degli studi, consiste nella presentazione e nella discussione di un dissertazione scritta con contributo personale.   
-Su proposta del consiglio della scuola, formulata sulla base del rendimento di ogni iscritto, gli specializzandi potranno essere esonerati dal pagamento delle tasse universitarie.   
-Gli articoli 119, 120, 121, relativi alla "Scuola di specializzazione in urologia", sono abrogati e sostituiti dai seguenti:   
+Art. 122. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in clinica dermosifilopatica con sede presso la clinica dermosifilopatica.  
+Il corso ha la durata di tre anni.  
+Il numero massimo degli iscritti per l'intero corso e' di nove, al primo anno saranno ammessi tre specializzandi.  
+Art. 123. - Gli aspiranti alla scuola di specializzazione saranno previamente sottoposti ad un esame di ammissione e saranno altresi' valutati i titoli preferenziali che i candidati stessi eventualmente abbiano presentato.  
+Art. 124. - Le materie di insegnamento sono le seguenti:  
   
-Scuola di specializzazione in urologia   
+1° Anno:  
+Anatomia e istologia normale della cute;  
+Fisiologia della cute e degli annessi cutanei;  
+Anatomia e fisiologia dell'apparato genitale;  
+Microbiologia e parassitologia applicate;  
+Tecnica di laboratorio con particolare riferimento alla sierologia applicata;  
+Semeiotica dermatologica e venereologica.  
   
-Art. 119. - Alla facolta' di medicina e chirurgia e' annessa, una scuola di specializzazione in urologia con sede presso la clinica chirurgica.   
-Art. 120. - Il corso ha la durata di tre anni.   
-Il numero massimo degli iscritti per l'intero corso di studi e' di dodici, ed al 1° anno di ogni corso possono essere ammessi quattro specializzandi.   
-Art. 121. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-1) Anatomia descrittiva e topografica dell'apparato uro-genitale;   
-2) Fisiologia dell'apparato uro-genitale;   
-3) Patologia dell'apparato urinario e genitale maschile;   
-4) Le nefropatie mediche;   
-5) Semeiotica dell'apparato uro-genitale (funzionale e di laboratorio);   
-6) Tecniche strumentali e semeiologia endoscopica;   
-7) Batteriologia in urologia;   
-8) Farmacoterapia delle affezioni uro-genitali.   
-2° Anno:   
-1) Patologia dell'apparato urinario e genitale maschile;   
-2) Clinica urologica;   
-3) Patologia genitale femminile di interesse urologico;   
-4) Nefrologia chirurgica;   
-5) Anatomia ed istologia patologica dell'apparato uro-genitale;  
-6) Semeiotica dell'apparato uro-genitale (funzionale e di laboratorio);   
-7) Tecniche strumentali e semeiologia endoscopica;   
-8) Anatomia chirurgica dell'apparato uro-genitale;   
-9) Radiologia dell'apparato urinario e genitale;   
-10) Le affezioni cutanee e veneree nei riguardi della urologia;  
-11) L'anestesia ed il trattamento pre e post-operatorio del malato urologico.   
-3° Anno:   
-1) Clinica urologica;   
-2) Patologia e clinica urologica infantile;   
-3) Radiologia dell'apparato urinario e genitale;   
-4) Tecniche operatorie sull'apparato urinario e genitale;   
-5) Urologia ginecologica.   
-Gli esami che gli specializzandi dovranno sostenere sono distribuiti come segue:   
-1° Anno:   
-1) Anatomia e fisiologia dell'apparato uro-genitale;   
-2) Le nefropatie mediche;   
-3) Batteriologia in urologia e farmacoterapia delle affezioni urogenitali.   
-2° Anno   
-1) Patologia dell'apparato urinario e genitale maschile: anatomia ed istologia patologica;   
-2) Semeiotica urologica (funzionale e di laboratorio) e tecnica strumentale e semeiologia endoscopica;   
-3) Patologia genitale femminile di interesse urologico; le affezioni cutanee e veneree nei riguardi della urologia;   
-4) Anatomia chirurgica dell'apparato uro-genitale: anestesia e trattamento pre e post operatorio del malato urologico;   
-5) Nefrologia chirurgica.   
-3° Anno:   
-1) Clinica urologica;   
-2) Radiologia dell'apparato urinario e genitale;   
-3) Interventi e procedimenti operatori sull'apparato uro-genitale;   
-4) Patologia e clinica urologica infantile;   
-5) Urologia ginecologica.   
+2° Anno:  
+Patologia delle malattie cutanee;  
+Patologia delle infezioni sessuali;  
+Anatomia e istologia patologica della cute;  
+Anatomia patologica delle malattie veneree e sessuali;  
+Angiologia;  
+Sessuologia.  
+  
+3° Anno:  
+Clinica dell'malattie cutanee;  
+Clinica delle infezioni sessuali;  
+Farmacologia e terapia medicamentosa;  
+Fisioterapia dermatologica;  
+Cosmetologia;  
+Chirurgia plastica riparatrice;  
+Igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.  
+  
+Il corso di lezioni consistera' in almeno cinquanta lezioni annuali comprensive delle varie materie e la frequenza giornaliera da parte degli iscritti non sara' inferiore alle quattro ore effettive per tutta la durata dell'anno accademico. Gli specializzandi avranno pertanto obbligo di internato onde seguire i corsi di lezione e svolgere contemporaneamente attivita' pratica nelle corsie, negli ambulatori e nei laboratori.  
+Gli esami di profitto degli specializzandi verranno dati in tre gruppi ed in tre sessioni distinte, ogni gruppo comprendente le materie proprie in ciascun anno di studio.  
+L'esame di diploma consistera' nella esposizione e discussione di un argomento della disciplina su un tema dato al candidato 24 ore prima della prova.  
+Gli articoli 131, 132 e 133 relativo alla "Scuola di specializzazione in neurologia e psichiatria" che muta la denominazione in quella di "Scuola di specializzazione in neurologia" sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in neurologia  
+  
+Art. 131. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in "neurologia", con sede presso la clinica delle malattie nervose e mentali. Il numero massimo degli iscritti e' di sette per ogni anno di corso per un totale complessivo di 28.  
+Art. 132. - La durata del corso degli studi per il conseguimento del diploma di specialista in neurologia e' di 4 anni. L'ammissione alla scuola sara' fatta per titoli ed esame.  
+Art. 133. - Le materie di insegnamento sono le seguenti:  
+  
+1° Anno (internato in psichiatria):  
+Anatomia e istologia del sistema nervoso;  
+Fisiologia del S.N.;  
+Biochimica del S.N.;  
+Genetica (elementi);  
+Psicologia generale;  
+Psicopatologia;  
+Semeiotica psichiatrica.  
+  
+2° Anno:  
+Anatomia e istologia patologica del S.N.;  
+Semeiotica neurologica;  
+Patologia speciale e diagnostica neurologica (I);  
+Neuro-radiologia;  
+Endocrinologia e neurologia vegetativa.  
+  
+3° Anno:  
+Patologia speciale e diagnostica neurologica (II);  
+Clinica neurologica e terapia (I);  
+Elettroencefalografia;  
+Elettromiografia, elettrodiagnostica ed elettroterapia;  
+Neuro-oftalmologia;  
+Neuro-otologia;  
+Esami di laboratorio.  
+  
+4° Anno:  
+Clinica neurologica e terapia (II);  
+Neurochirurgia;  
+Teoria e clinica della riabilitazione;  
+Neuro-traumatologia anche sotto l'aspetto della medicina legale;  
+Neurologia in rapporto alla patologia internistica.  
+  
+Per conseguire il diploma di specializzazione e' previsto l'internato obbligatorio per l'intero anno scolastico nel 2°, 3° e 4° anno nella clinica neurologica. Tale internato potra' essere ridotto a non meno di mesi quattro per anno per, i medici che prestino regolare servizio in reparto neurologico. E' altresi' obbligatorio, durante il 1° anno, l'interrato in psichiatria per la durata dell'intero anno scolastico; quest'ultimo internato potra' essere ridotto a non meno di mesi cinque per i medici che prestino servizio in reparto neurologico ed a non meno di mesi quattro per coloro che prestino servizio in ospedale psichiatrico.  
+Un esonero dalla frequenza di anni due puo' essere concesso agli specialisti in psichiatria, neuropsichiatria infantile e neurochirurgia; un esonero dalla frequenza di un anno potra' essere concesso agli specialisti in altre materie affini (medicina interna, otorinolaringoiatria, oculistica, radiologia).  
+Gli esoneri di cui sopra sono concessi, su proposta del direttore della scuola, dal consiglio della medesima a seguito del superamento dell'esame di ammissione.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 1 maggio 1972
+### Dato a Roma, addi' 1 agosto 1972
 
-LEONE MISASI
+LEONE SCALFARO
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 24 luglio 1972
+Registrato alla Corte dei conti, addi' 13 novembre 1972
 
-Atti del Governo, registro n. 250, foglio n. 33. - CARUSO
+Atti del Governo, registro n. 253, foglio n. 29. - CARUSO

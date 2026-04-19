@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1978 n. 1020
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 novembre 1985 n. 881
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1978 n. 1020
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 novembre 1985 n. 881
+===============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -10,11 +10,10 @@ Autorizzazione ad accettare una donazione a favore dello Stato.
 Art. 1
 ------
 
-N.
+n.
 
-1020. Decreto del Presidente della Repubblica 14 settembre 1978, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato della donazione disposta dal prof. Afro Basaldella, con atto di donazione 15 novembre 1975, n. 327346 di repertorio, a rogito dott.  
-Giorgio Santini, notaio in Roma, consistente in una raccolta di tre dipinti raffiguranti "Viale delle Acacie", "Senza titolo" e "Grande Ocra", i quali rivestono un interesse artistico, da destinare alla galleria nazionale d'arte moderna in Roma.  
+881. Decreto del Presidente della Repubblica 13 novembre 1985, col quale, sulla proposta del Ministro della difesa, il Ministero della difesa viene autorizzato ad accettare la donazione, consistente in sei modelli originali storico-artistici di velieri antichi e di nove modelli di velieri antichi in battaglia, del valore approssimativo di L. 57.000.000, disposta dal prof. Pietro Montauti, con atto 30 gennaio 1985, n. 8598/2826 di repertorio, a rogito dott. Maurizio Tufani, notaio in Frascati (Roma) e registrato a Frascati in data 8 febbraio 1985 al n. 149.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 21 febbraio 1979  
-Registro n. 2 Beni culturali, foglio n. 287
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 27 gennaio 1986  
+Registro n. 3 Difesa, foglio n. 272

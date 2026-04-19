@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 143
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1978 n. 514
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 143
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1978 n. 514
+=============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare un legato.
 -------------------------------------------------------------------------------
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-143. Decreto del Presidente della Repubblica 26 febbraio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il legato di L. 5.000.000 disposto dalla sig.ra Sforza Teresa vedova Bellingeri, a favore dell'Istituto poveri ciechi, con testamento olografo 1 luglio 1966, pubblicato a rogito dott.  
-Rinaudo Chiaffredo, notaio in Torino, in data 18 dicembre 1975, n. 27397/13889 di repertorio, registrato a Torino il 19 dicembre 1975 al n. 35299.  
+514. Decreto del Presidente della Repubblica 25 luglio 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il legato disposto dal sig. Giudici Davide con testamento pubblico ricevuto dal notaio dott. Gian Mario Grazioli di Bergamo il 10 novembre 1973 ed annotato al n. 232 rep. testamenti, allegato al verbale di passaggio di testamento pubblico agli atti tra vivi il 12 febbraio 1975, n. 30332 di repertorio e n. 12301 di raccolta, registrato a Bergamo il 13 febbraio 1975 ai n. 560 mod. 71/ M, consistente nella somma di L. 100.000.   
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 31 marzo 1982  
-Registro n. 3 Presidenza, foglio n. 122
+Visto, il Guardasigilli: BONIFACIO   
+Registrato alla Corte dei conti, addi' 30 agosto 1978   
+Registro n. 6 Presidenza, foglio n. 161

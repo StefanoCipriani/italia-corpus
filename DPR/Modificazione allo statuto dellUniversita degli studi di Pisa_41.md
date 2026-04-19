@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1985 n. 645
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1096
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1985 n. 645
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1096
+===============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
@@ -39,22 +39,19 @@ Articolo unico
 --------------
 
   
-Nell'art. 132, relativo al corso di laurea in ingegneria, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
-ciclo di combustibile nucleare;  
-codici di calcolo per reattori nucleari.  
+Nell'art. 116, relativo al corso di laurea in farmacia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+complementi di chimica organica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 7 giugno 1985
+### Dato a Roma, addi' 28 ottobre 1983
 
-PERTINI
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 9 novembre 1985
+Registrato alla Corte dei conti, addi' 15 marzo 1984
 
-Registro n. 74 Istruzione, foglio n. 135
+Registro n. 16 Istruzione, foglio n. 171

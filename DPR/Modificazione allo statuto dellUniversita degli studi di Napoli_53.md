@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1983 n. 845
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 gennaio 1984 n. 86
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1983 n. 845
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 gennaio 1984 n. 86
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Napoli.
@@ -39,18 +39,20 @@ Articolo unico
 --------------
 
   
-Nell'art. 22, relativo al corso di laurea in giurisprudenza, all'elenco degli insegnamenti complementari e' aggiunto il seguente: criminologia.  
+Nell'art. 232, relativo all'elenco degli insegnamenti complementari dei corsi di laurea in ingegneria, sono aggiunti i seguenti:  
+progettazione urbanistica;  
+fluidodinamica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 maggio 1983
+### Dato a Roma, addi' 20 gennaio 1984
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 18 gennaio 1984
+Registrato alla Corte dei conti, addi' 22 maggio 1984
 
-Registro n. 2 Istruzione, foglio n. 203
+Registro n. 17 Istruzione, foglio n. 338

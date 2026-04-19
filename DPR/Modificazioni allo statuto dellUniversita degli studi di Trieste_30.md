@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 aprile 1966 n. 397
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1972 n. 52
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 aprile 1966 n. 397
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1972 n. 52
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
@@ -10,19 +10,15 @@ Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, numero 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540) e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 29 dicembre 1965, n. 1685](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-12-29;1685);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -31,72 +27,250 @@ Sentito il parere del Consiglio superiore della pubblica istruzione;
 Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
 Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Dopo l'art. 124 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in igiene e medicina preventiva.
+
+Scuola di specializzazione in igiene e medicina preventiva
+
+Art. 125. - Durata: tre anni. Ammissione: Esame di ammissione.
+
+Ammissione limitata ai laureati in medicina e chirurgia. Solo con orientamento di laboratorio, sono ammessi anche i laureati in scienze biologiche.
+
+Sono ammessi quindici iscritti per ogni anno di corso.
+
+Art. 126. - Gli insegnamenti impartiti sono i seguenti:
+
+1° Anno:
+
+Statistica medica e biometria;
+
+Educazione sanitaria;
+
+Psicologia;
+
+Microbiologia;
+
+Parassitologia;
+
+Epidemiologia e profilassi generale.
+
+2° Anno:
+
+Patologia e clinica delle malattie infettive;
+
+Epidemiologia e profilassi delle malattie infettive;
+
+Patologia e clinica delle malattie non infettive di importanza sociale;
+
+Epidemiologia e profilassi delle malattie non infettive di importanza sociale;
+
+Demografia e statistica sanitaria;
+
+Legislazione ed organizzazione sanitaria.
+
+3° Anno (con orientamento di sanita' pubblica):
+
+Approvigionamento idrico; raccolta e smaltimento dei rifiuti liquidi e solidi; inquinamenti atmosferici;
+
+Igiene edilizia ed urbanistica;
+
+Igiene dell'alimentazione;
+
+Igiene e medicina scolastica;
+
+Igiene ospitaliera;
+
+Servizi di sanita' pubblica.
+
+3° Anno (con orientamento di laboratorio):
+
+Microscopia applicata all'igiene;
+
+Microbiologia applicata all'igiene;
+
+Chimica clinica;
+
+Accertamento diagnostico delle malattie batteriche e parassitarie;
+
+Accertamento diagnostico delle malattie virali;
+
+Nozioni di anatomia ed istologia patologica.
+
+3° Anno (con orientamento di igiene e tecnica o direzione ospitaliera):
+
+Storia degli ospedali; principi e metodologia dell'assistenza ospedaliera;
+
+Igiene e tecnica delle costruzioni ospitaliere, arredamento ed impianti sanitari;
+
+Organizzazione e funzioni degli ospedali generali e speciali;
+
+Diritto amministrativo e legislazione ospitaliera;
+
+Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospitaliera;
+
+Selezione ed istruzione professionale del personale ospitaliero;
+
+Organizzazione e funzione dei laboratori di analisi e di accertamento necroscopico.
+
+3° Anno (con orientamento di igiene e medicina scolastica):
+
+Auxologia normale e patologica;
+
+Epidemiologia e profilassi delle malattie dell'eta' scolare;
+
+Servizi di medicina scolastica;
+
+Elementi di psicologia e pedagogia per l'eta' scolare;
+
+Igiene dell'alimentazione;
+
+Assistenza parascolastica;
+
+Edilizia scolastica.
+
+Materie complementari:
+
+Ispezione delle carni;
+
+Geologia applicata all'igiene;
+
+Igiene mentale;
+
+Malattie professionali e loro prevenzione;
+
+Diritto sanitario;
+
+Igiene navale e dell'emigrazione;
+
+Antropologia culturale e sociologia;
+
+Malattie tropicali;
+
+Istituzioni di matematica;
+
+Genetica;
+
+Gerontologia e geriatria;
+
+Elementi di economia politica.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 28 gennaio 1972.
+
+LEONE
+
+MISASI
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 11 marzo 1972 Atti del Governo, registro n. 247, foglio n. 100. - VALENTINI
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Facolta' di medicina e chirurgia (limitata al primo biennio).  
-Dopo l'art. 55 e con il conseguente spostamento della successiva numerazione, sono aggiunti i seguenti nuovi articoli relativi all'ordinamento degli studi del I biennio della Facolta' di medicina e chirurgia:  
+Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-CAPO V  
-Facolta' di medicina e chirurgia  
+Decreta:   
   
-Art. 56. - La Facolta' di medicina e chirurgia e' limitata al I biennio. E' titolo di ammissione il diploma di maturita' classica e di maturita' scientifica.  
-Art. 57. - Sono insegnamenti fondamentali:  
-1° Biennio:  
-1) Chimica;  
-2) Fisica;  
-3) Biologia e zoologia generale - compresa la genetica e la biologia delle razze;  
-4) Anatomia umana normale (biennale);  
-5) Fisiologia umana (biennale al 2° e al 3° anno);  
-6) Patologia generale (biennale al 2° al 3° anno);  
-7) Chimica biologica;  
-8) Microbiologia.  
-Le esercitazioni pratiche nelle discipline fondamentali sono obbligatorie e per tutti gli studenti.  
-Gli insegnamenti si svolgono sotto forma di lezioni dimostrative e di esercitazioni di carattere scientifico e professionale.  
-Art. 58. - Agli insegnamenti complementari del corso di laurea in Chimica (indirizzo organico-biologico) sono aggiunti quelli di:  
-Chimica delle macromolecole;  
-Radiochimica;  
-Analisi chimica strumentale.  
-Agli insegnamenti complementari del predetto corso di laurea per l'indirizzo inorganico-chimico-fisico sono aggiunti quelli di:  
-Chimica delle macromolecole;  
-Radiochimica;  
-Analisi chimica strumentale;  
-Astrofisica.  
-Art. 59. - Agli insegnamenti complementari del corso di laurea in Fisica sono aggiunti quelli di:  
-Elettrodinamica quantistica;  
-Elettronica quantistica;  
-Fisica dello spazio;  
-Fisica del plasma;  
-Logica delle calcolatrici digitali e teoria della programmazione;  
-Reazioni nucleari;  
-Sperimentazioni di fisica nucleare di alta energia;  
-Sperimentazioni di fisica nucleare di bassa energia;  
-Spettroscopia nucleare;  
-Superconduttivita';  
-Teoria classica dei campi;  
-Teoria dei gruppi;  
-Teoria dei sistemi a molti corpi;  
-Teoria quantistica della misura;  
-Topologia.  
-Art. 60. - Agli insegnamenti complementari del corso di laurea in Matematica sono aggiunti quelli di:  
-Logica delle calcolatrici digitali e teoria della programmazione;  
-Teoria dei gruppi.  
+Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+  
+Dopo l'art. 124 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in igiene e medicina preventiva.   
+Scuola di specializzazione in igiene e medicina preventiva   
+  
+Art. 125. - Durata: tre anni. Ammissione: Esame di ammissione.  
+Ammissione limitata ai laureati in medicina e chirurgia. Solo con orientamento di laboratorio, sono ammessi anche i laureati in scienze biologiche.   
+Sono ammessi quindici iscritti per ogni anno di corso.   
+Art. 126. - Gli insegnamenti impartiti sono i seguenti:   
+  
+1° Anno:   
+Statistica medica e biometria;   
+Educazione sanitaria;   
+Psicologia;   
+Microbiologia;   
+Parassitologia;   
+Epidemiologia e profilassi generale.   
+  
+2° Anno:   
+Patologia e clinica delle malattie infettive;   
+Epidemiologia e profilassi delle malattie infettive;   
+Patologia e clinica delle malattie non infettive di importanza sociale;   
+Epidemiologia e profilassi delle malattie non infettive di importanza sociale;   
+Demografia e statistica sanitaria;   
+Legislazione ed organizzazione sanitaria.   
+  
+3° Anno (con orientamento di sanita' pubblica):   
+Approvigionamento idrico; raccolta e smaltimento dei rifiuti liquidi e solidi; inquinamenti atmosferici;   
+Igiene edilizia ed urbanistica;   
+Igiene dell'alimentazione;   
+Igiene e medicina scolastica;   
+Igiene ospitaliera;   
+Servizi di sanita' pubblica.   
+  
+3° Anno (con orientamento di laboratorio):   
+Microscopia applicata all'igiene;   
+Microbiologia applicata all'igiene;   
+Chimica clinica;   
+Accertamento diagnostico delle malattie batteriche e parassitarie;   
+Accertamento diagnostico delle malattie virali;   
+Nozioni di anatomia ed istologia patologica.   
+  
+3° Anno (con orientamento di igiene e tecnica o direzione ospitaliera):   
+Storia degli ospedali; principi e metodologia dell'assistenza ospedaliera;   
+Igiene e tecnica delle costruzioni ospitaliere, arredamento ed impianti sanitari;   
+Organizzazione e funzioni degli ospedali generali e speciali;   
+Diritto amministrativo e legislazione ospitaliera;   
+Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospitaliera;   
+Selezione ed istruzione professionale del personale ospitaliero;   
+Organizzazione e funzione dei laboratori di analisi e di accertamento necroscopico.   
+  
+3° Anno (con orientamento di igiene e medicina scolastica):   
+Auxologia normale e patologica;   
+Epidemiologia e profilassi delle malattie dell'eta' scolare;   
+Servizi di medicina scolastica;   
+Elementi di psicologia e pedagogia per l'eta' scolare;   
+Igiene dell'alimentazione;   
+Assistenza parascolastica;   
+Edilizia scolastica.   
+  
+Materie complementari:   
+Ispezione delle carni;   
+Geologia applicata all'igiene;   
+Igiene mentale;   
+Malattie professionali e loro prevenzione;   
+Diritto sanitario;   
+Igiene navale e dell'emigrazione;   
+Antropologia culturale e sociologia;   
+Malattie tropicali;   
+Istituzioni di matematica;   
+Genetica;   
+Gerontologia e geriatria;   
+Elementi di economia politica.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 aprile 1966
+### Dato a Roma, addi' 28 gennaio 1972.
 
-SARAGAT GUI
+LEONE MISASI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 11 giugno 1966
+Registrato alla Corte dei conti, addi' 11 marzo 1972
 
-Atti del Governo, registro n. 203, foglio n. 121. - VILLA
+Atti del Governo, registro n. 247, foglio n. 100. - VALENTINI

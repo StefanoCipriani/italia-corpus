@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 gennaio 1970 n. 50
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 aprile 1971 n. 408
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 gennaio 1970 n. 50
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 aprile 1971 n. 408
 =============================================================
 
 Autorizzazione all'Associazione nazionale combattenti e reduci, con sede in Roma, ad acquistare un immobile.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-50. Decreto del Presidente della Repubblica 7 gennaio 1970, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale combattenti e reduci, con sede in Roma, viene autorizzata ad acquistare dal sig. Rovatti Mario, dalla moglie Catelani Gina Amelia in Rovatti e dalla figlia Anna Maria Rovatti, per il prezzo di L. 3.400.000, un immobile, costituito da un vano ad uso negozio, al piano terreno, lato nord, del fabbricato sito in Viareggio (Lucca), piazzale Dante n. 16, da adibire ad uso di uffici della locale sezione dell'associazione anzidetta.  
+408. Decreto del Presidente della Repubblica 15 aprile 1971, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale combattenti e reduci (A.N.C.R.), con sede in Roma, viene autorizzata ad acquistare dalla societa' r.l. Cast, con sede in Roma, un fabbricato in via di ultimazione, di piani sei oltre il piano servizi e il piano cantine, per complessivi metri quadrati 1594, sito in Roma, piazza Ippolito Nievo n. 26, al prezzo di L. 350.000.000 da destinare a sede della Federazione combattenti e reduci e dell'istituto di vigilanza dell'urbe.  
   
-Visto, il Guardasigilli: GAVA  
-Registrato alla Corte dei conti, addi' 26 febbraio 1970  
-Atti del Governo, registro n. 233, foglio n. 22. - CARUSO
+Visto, il Guardasigilli: COLOMBO  
+Registrato alla Corte dei conti, addi' 21 giugno 1971  
+Atti del Governo, registro n. 242, foglio n. 116. - VALENTINI

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1984 n. 555
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1984 n. 987
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1984 n. 555
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1984 n. 987
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Catania.
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Catania.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Catania, approvato con regio decreto 20 aprile 1939, e successive modificazioni;
+Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -39,19 +39,23 @@ Articolo unico
 --------------
 
   
-  
-Art. 100 - nell'elenco degli insegnamenti propri dei singoli indirizzi a scelta su piano locale - indirizzo impianti elettrici - del corso di laurea in ingegneria elettrotecnica l'insegnamento di "trasmissione dell'energia" e' soppresso e sostituito con l'insegnamento di "trasmissione dell'energia elettrica".   
+Art. 24 - all'elenco degli insegnamenti del corso di laurea in economia e commercio sono aggiunti i seguenti insegnamenti:  
+tecnica attuariale delle assicurazioni sociali;  
+economia e politica internazionale;  
+economia e politica monetaria.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 1 maggio 1984
+### Dato a Roma, addi' 18 luglio 1984
 
-PERTINI FALCUCCI
+PERTINI
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 24 agosto 1984
+Registrato alla Corte dei conti, addi' 18 gennaio 1985
 
-Registro n. 51 Istruzione, foglio n. 81
+Registro n. 2 Istruzione, foglio n. 350

@@ -1,68 +1,87 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1141
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 giugno 1967 n. 709
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1141
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 giugno 1967 n. 709
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
+Decreta:  
   
-Art. 75 - nell'elenco degli insegnamenti fondamentali del corso di laurea in fisica l'insegnamento, indicato al punto 8), di "esperimentazioni fisica (biennale)" e' scisso nei seguenti due insegnamenti fondamentali:   
-8) esperimentazioni fisica I;   
-9) esperimentazioni fisica II.   
-Nel medesimo articolo e' soppresso il testo dell'ottavo comma.   
-Art. 81 - i commi secondo, terzo e quarto, concernenti norme per gli esami degli insegnamenti e delle esercitazioni di durata biennale per i vari corsi di laurea della facolta' di scienze matematiche, fisiche e naturali, sono abrogati e sostituiti come segue:   
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-  
-Gli insegnamenti biennali di istituzioni di matematiche, chimica generale ed inorganica, chimica organica, chimica industriale, impianti industriali chimici con elementi di disegno, chimica fisica, esercitazioni di chimica fisica, zoologia, botanica, fisiologia generale, nonche' l'insegnamento di fisica sperimentale per gli studenti di chimica, di chimica industriale e di scienze geologiche, comportano un esame alla fine di ciascun anno di corso, l'uno propedeutico all'altro.   
-Le esercitazioni biennali di matematiche per il biennio propedeutico delle lauree in chimica ed in chimica industriale comportano un esame alla fine di ciascun anno di corso, l'uno propedeutico all'altro.   
-Le esercitazioni biennali di chimica industriale comportano un esame alla fine di ciascun anno di corso, l'uno propedeutico all'altro.   
-  
+Art. 29. - All'elenco degli insegnamenti complementari del corso di laurea in Lettere sono aggiunti quelli di:  
+Storia della lingua italiana;  
+Storia della letteratura italiana moderna e contemporanea;  
+Topografia antica;  
+Dialettologia italiana;  
+Storia marittima;  
+Storia dei partiti politici;  
+Storia dei trattati e politica internazionale;  
+Storia e civilta' precolombiane dell'America;  
+Storia bizantina;  
+Storia della critica d'arte;  
+Estetica.  
+L'insegnamento complementare di "Filologia umanistica" del predetto corso di laurea muta denominazione in quello di "Letteratura umanistica".  
+Art. 30. - All'elenco degli insegnamenti complementari del corso di laurea in Filosofia e' aggiunto quello di "Filosofia della Storia".  
+Art. 31. - All'elenco degli insegnamenti complementari del corso di laurea in Lingue e letterature straniere moderne (indirizzo europeo) sono aggiunti quelli di:  
+Storia dell'Europa orientale;  
+Filologia slava;  
+Filologia ugro-finnica;  
+Letteratura umanistica;  
+Lingue e letterature nordiche;  
+Lingua e letteratura catalana;  
+Lingua e letteratura inglese medioevale;  
+Lingua e letteratura polacca;  
+Storia contemporanea;  
+Storia del risorgimento;  
+Storia dei trattati e politica internazionale;  
+Storia americana;  
+Storia bizantina;  
+Paleografia e diplomatica;  
+Una materia filosofica a scelta;  
+Storia e civilta' precolombiane dell'America.  
+Art. 32. - All'elenco degli insegnamenti complementari del corso di laurea in geografia sono aggiunti quelli di:  
+Statistica;  
+Demografia;  
+Geografia regionale;  
+Economia politica;  
+Zoologia;  
+Paletnologia;  
+Botanica;  
+Storia contemporanea;  
+Storia moderna;  
+Topografia antica;  
+Storia e geografia dell'Asia orientale;  
+Storia e istituzioni dei paesi afro-asiatici.  
+Nello stesso corso di laurea gli insegnamenti complementari di "Geodesia e topografia" e "Geografia ed etnografia dell'Africa italiana" vengono sostituiti con quelli di "Topografia con elementi di geodesia" e "Geografia ed etnografia dell'Africa".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1981
+### Dato a Roma, addi' 24 giugno 1967
 
-PERTINI BODRATO
+SARAGAT GUI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 24 aprile 1982
+Registrato alla Corte dei conti, addi' 7 agosto 1967
 
-Registro n. 58 Istruzione, foglio n. 167
+Atti del Governo, registro n. 212, foglio n. 108. - GRECO

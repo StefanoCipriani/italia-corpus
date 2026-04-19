@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1986 n. 228
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1986 n. 567
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1986 n. 228
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1986 n. 567
+=============================================================
 
 Modificazione allo statuto della seconda Universita' degli studi di Roma.
 -------------------------------------------------------------------------
@@ -33,19 +33,21 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto della seconda Universita' di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto della seconda Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Nell'art. 51, all'elenco degli insegnamenti del corso di laurea in medicina e chirurgia e' aggiunto l'insegnamento complementare di "embriologia".  
+Nell'art. 54, relativo al corso di laurea in matematica, all'elenco degli insegnamenti complementari per l'indirizzo generale, per l'indirizzo didattico e per l'indirizzo applicativo sono aggiunti i seguenti insegnamenti:  
+esercitazioni di preparazioni chimiche;  
+spettroscopia molecolare.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 gennaio 1986
+### Dato a Roma, addi' 13 maggio 1986
 
 COSSIGA
 
@@ -53,6 +55,6 @@ FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 19 maggio 1986
+Registrato alla Corte dei conti, addi' 9 settembre 1986
 
-Registro n. 39 Istruzione, foglio n. 157
+Registro n. 69 Istruzione, foglio n. 392

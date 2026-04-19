@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 928
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1977 n. 576
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 928
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1977 n. 576
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Modena.
 ------------------------------------------------------------------
@@ -12,42 +12,66 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Modena, e convalidati dal Consiglio superiore della pubblica istruzione;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato nel senso che l'art. 79 e' abrogato e sostituito dal seguente:  
-Art. 79. - La misura delle tasse e sopratasse per le singole scuole di specializzazione medico-chirurgiche e' fissata nel modo seguente:  
-  
-a) specializzandi in corso regolare di studi:  
-Tassa di immatricolazione. . . . . . . . . . . . . . . . . L. 5.000 Iscrizione. . . . . . . . . . . . . . . . . . . . . . . . L. 10.000 Sopratassa esami . . . . . . . . . . . . . . . . . . . . . L. 7.000 Contributo biblioteca . . . . . . . . . . . . . . . . . . L. 10.000 Contributo riscaldamento . . . . . . . . . . . . . . . . . L. 4.000 Diritto aggiuntivo di segreteria . . . . . . . . . . . . . L. 3.000 b) specializzandi fuori corso:  
-Tassa di ricognizione . . . . . . . . . . . . . . . . . . L. 11.500 Sopratassa esami . . . . . . . . . . . . . . . . . . . . . L. 7.000 Contributo riscaldamento . . . . . . . . . . . . . . . . . L. 4.000 Contributo biblioteca . . . . . . . . . . . . . . . . . . L. 10.000 Diritti aggiuntivi di segreteria . . . . . . . . . . . . . L. 3.000   
-Per ogni anno fuori corso oltre il secondo dovra' essere versata la somma di L. 3450 in piu'.  
-La misura dei "contributi esercitazione" e del "contributo scuola" presso le singole scuole di specializzazione, verra' stabilita dal consiglio di amministrazione,  
-sentito il consiglio dei direttori delle scuole, e resa nota ogni anno con apposito manifesto.  
-Le tasse, sopratasse e contributi possono essere pagati in quattro rate: la prima all'atto della iscrizione;  
-la seconda entro il 31 gennaio; la terza entro il 31 marzo e la quarta entro il 31 maggio.  
-  
-Sopratassa esame di diploma. . . . . . . . . . . . . . . . . L. 3.000 Rimborso spese per rilascio del diploma di specializzazione. L. 1.000   
-La sopratassa per ripetizione esame; la mora; il contributo per libretto e tessera; per duplicato di libretto e tessera; diritto di segreteria per rilascio certificati, pergamena, diplomi di maturita'; per domande di iscrizione, esame di profitto e di diploma, diritto di urgenza, diritto di trasferimento da e per altre universita', sono fissati nella misura pari a quella stabilita per gli studenti della facolta'.  
-L'allievo che ha ottenuto la iscrizione ad un anno di corso non ha diritto in nessun caso alla restituzione delle tasse, sopratasse e contributi versati.  
+Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Dopo l'art. 258, e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in cardiologia:  
+Art. 259. - La scuola di specializzazione in cardiologia ha sede presso la cattedra di malattie dell'apparato cardiovascolare dell'Universita' di Modena e conferisce il diploma di specialista in cardiologia.  
+Art. 260. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo di malattie dell'apparato cardiovascolare.  
+Art. 261. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia in possesso del diploma di abilitazione all'esercizio professionale rilasciato dalla autorita' competente.  
+Art. 262. - La durata del corso di studi e' di 4 anni e non e' suscettibile di abbreviazioni.  
+Art. 263. - Il numero massimo degli allievi e' di dieci per anno di corso, e complessivamente di quaranta iscritti per l'intero corso di studi.  
+Art. 264. - L'ammissione al corso avviene per titoli ed esami.  
+Art. 265. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1) anatomia umana normale ed embriologia dell'apparato cardiovascolare;  
+2) fisiologia dell'apparato cardiovascolare (I);  
+3) biochimica e biofisica;  
+4) semeiotica fisica e strumentale dell'apparato cardiovascolare (I);  
+5) informatica medica e strumentazione biomedica (I).  
+2° Anno:  
+1) anatomia patologica (I);  
+2) fisiologia dell'apparato cardiovascolare (II);  
+3) patologia e clinica cardiovascolare (I);  
+4) semeiotica fisica e strumentale dell'apparato cardiovascolare (II);  
+5) informatica medica e strumentazione biomedica (II);  
+6) radiologia (I);  
+7) aspetti sociali ed epidemiologici delle malattie cardiovascolari.  
+3° Anno:  
+1) anatomia patologica (II);  
+2) semeiotica fisica e strumentale dell'apparato cardiovascolare (III);  
+3) patologia e clinica cardiovascolare (II);  
+4) radiologia (II);  
+5) terapia medica e farmacologia clinica (I).  
+4° Anno:  
+1) semeiotica fisica e strumentale dell'apparato cardiovascolare (IV);  
+2) patologia e clinica cardiovascolare (III);  
+3) terapia medica e farmacologia clinica (II);  
+4) terapia chirurgica;  
+5) terapie intensive cardiologiche.  
+Art. 266. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
+Art. 267. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno.  
+Al termine del corso di studi per il conseguimento del diploma di specialista in cardiologia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento di carattere cardiologico.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1972
+### Dato a Roma, addi' 25 maggio 1977
 
-LEONE SCALFARO
+LEONE MALFATTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 17 gennaio 1973
+Registrato alla Corte dei conti, addi' 30 luglio 1977
 
-Atti di Governo, registro n. 255, foglio, n. 35. - VALENTINI
+Registro n. 92 Istruzione, foglio n. 25

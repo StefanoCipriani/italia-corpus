@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1970 n. 511
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1957 n. 1428
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1970 n. 511
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1957 n. 1428
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -12,138 +12,80 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, numero 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;   
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904) e successivi;   
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Veduta la [legge 26 luglio 1957, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-07-26;741);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
 Sulla proposta del Ministro per la pubblica istruzione;   
   
 Decreta:   
   
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita', degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Dopo l'art. 354 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione, presso la facolta' di lettere e filosofia, della scuola di specializzazione in "Psicologia".   
+Art. 64, e' cosi' modificato:   
+La Facolta' di lettere e filosofia conferisce tre lauree:   
+a) Laurea in lettere;   
+b) Laurea in filosofia;   
+c) Laurea in lingue e letterature straniere moderne: indirizzo europeo.   
+Art. 65, e' cosi' modificato:   
   
-Scuola di specializzazione in psicologia   
+Per il conseguimento di ciascuna delle lauree suindicate la durata del corso degli studi e' di quattro anni ed il titolo di ammissione e' il diploma di maturita' classica.   
+Dopo l'art. 74 sono aggiunti i seguenti nuovi articoli con il conseguente spostamento della numerazione di quelli successivi.   
   
-Art. 355. - Presso la facolta' di lettere e filosofia e' istituita la "Scuola di specializzazione in psicologia" la quale e' articolata nei seguenti indirizzi:   
-a) Differenziale e scolastico;   
-b) Sociale;   
-c) Industriale e del lavoro.   
-Art. 356. - La durata del corso della scuola e' di tre anni. La frequenza e' obbligatoria. Non sono consentite abbreviazioni di corso se non nei casi previsti dallo art. 367; ne' e' consentita la contemporanea iscrizione a piu' indirizzi distinti, il numero massimo degli iscritti e' di venticinque per ogni anno di corso.   
-Art. 357. - La scuola conferisce il diploma di "Specialista in psicologia" con l'indicazione dell'indirizzo seguito.   
-Il diploma, valido a tutti gli effetti di legge, viene rilasciato all'allievo in rapporto all'indirizzo prescelto, seguito e concluso positivamente negli esami di profitto e di diploma.   
-Art. 358. - Titolo per l'ammissione alla scuola e' il diploma di laurea rilasciato da qualsiasi facolta' di una universita' italiana di Stato o ad essa parificata, ovvero un titolo straniero equipollente.   
-Art. 359. - Nella domanda di ammissione alla scuola deve essere specificato l'indirizzo che si desidera seguire.   
-Nel caso di domande di iscrizione eccedenti il numero massimo stabilito dal consiglio della scuola e indicato nell'art. 356 (in ogni caso non superiore a venticinque), il consiglio stesso procedera' all'accettazione delle domande attraverso un concorso di merito, le cui modalita' verranno fissate nello stesso manifesto annuale. Indipendentemente dalla limitazione delle iscrizioni, il consiglio della scuola puo' subordinare la ammissione ad una prova di idoneita'.   
-Art. 360. - Il corso e' costituito da lezioni teoriche, esercitazioni pratiche, tirocini, seminari, conferenze. L'attivita' didattica viene svolta per un numero di ore non inferiore alle venti settimanali, per tutta la durata dell'anno accademico.   
-Gli insegnamenti statutari sono suddivisi in tre gruppi:   
-a) insegnamenti comuni a tutti gli indirizzi sopra indicati; tali insegnamenti sono obbligatori per tutti gli allievi, qualunque sia l'indirizzo prescelto;   
-b) insegnamenti specifici, peculiari a ciascuno dei singoli indirizzi indicati nell'art. 355 e nel successivo art. 361; tali insegnamenti sono obbligatori nell'ambito dell'indirizzo prescelto;   
-c) insegnamenti integrativi.   
-Gli insegnamenti di cui ai punti a) e b) sono fissati nello statuto, il quale stabilisce altresi' la distribuzione degli insegnamenti stessi nei vari anni.   
-Gli insegnamenti di cui al punto c) vengono stabiliti anno per anno dal consiglio della scuola e pubblicati nel manifesto programma annuale, insieme all'elenco degli insegnamenti di cui ai punti a) e b).   
-Art. 361. - Gli insegnamenti comuni di cui al punto a) dell'articolo precedente sono:   
-1) Metodologia generale e speciale della ricerca psicologica (triennale: 1°, 2° e 3° anno);   
-2) Metodologia statistica generale e psicometria (annuale: 1°);   
-3) Psicologia generale (triennale: 1°, 2° e 3° anno);   
-4) Teorie della personalita' (biennale: 1° e 2° anno);   
-5) Psicologia dinamica (annuale: 2° anno);   
-6) Psicologia differenziale (annuale: 1° anno);   
-7) Psicologia sociale (biennale: 1° e 2° anno);   
-8) Tecniche psicodiagnostiche (biennale: 1° e 2° anno).   
-Gli insegnamenti specifici di cui al punto b) dello art. 360, sono:   
+Laurea in lingue e letterature straniere moderne   
+(indirizzo europeo)   
   
-A) Per l'indirizzo "differenziale e scolastico":   
-1) Fondamenti di biologia generale e di anatomia e fisiologia umana (biennale: 1° e 2° anno);   
-2) Psicologia dell'eta' evolutiva (triennale: 1°, 2° e 3° anno);   
-3) Pedagogia (annuale: 1° anno);   
-4) Istituzioni di psicopatologia e di igiene mentale (annuale: 1° anno);   
-5) Psicologia pedagogica (annuale: 1° anno);   
-6) Psicologia del disadattamento scolastico e professionale nell'eta' evolutiva (annuale: 2° anno);   
-7) Decimologia e tecniche della valutazione scolastica (annuale: 2° anno);   
-8) Tecniche psicodiagnostiche individuali e di gruppo (biennale: 2° e 3° anno);   
-9) Orientamento scolastico e professionale (annuale: 3° anno).   
-  
-B) Per l'indirizzo "sociale":   
-1) Antropologia culturale (annuale: 1° anno);   
-2) Sociologia (annuale: 1° anno);   
-3) Psicologia della comunicazione (biennale: 1° e 2° anno);   
-4) Tecniche quantitative dell'indagine psico-sociale (annuale: 2° anno);   
-5) Ricerca motivazionale (annuale: 2° anno);   
-6) Psicologia sociale, corso avanzato (annuale: 3° anno);   
-7) Dinamiche di gruppo (annuale: 3° anno);   
-8) Tecniche di studio dell'opinione pubblica (annuale: 3°anno);   
-9) Patologia e controllo sociale (annuale: 3° anno).   
-  
-C) Per l'indirizzo "industriale e del lavoro";   
-1) Fondamenti di biologia generale e di anatomia e fisiologia umana (biennale: 1° e 2° anno);   
-2) Istituzioni di psicopatologia e di igiene mentale (annuale: 1°);   
-3) Psicologia del lavoro (annuale: 1° anno);   
-4) Metodologia statistica e psicometria (corso avanzato, annuale: 2°);   
-5) Ergonomia (annuale: 1° anno);   
-6) Analisi e valutazione delle mansioni e profili professionali (annuale: 2° anno);   
-7) Psicologia del disadattamento lavorativo (annuale: 3° anno).   
-Gli insegnamenti "integrativi" (annuali) di cui al punto c) dell'art. 360, vanno scelti nell'ambito dello elenco che segue:   
-Storia della psicologia;   
-Filosofia della scienza;   
-Cibernetica;   
-Psicologia zoologica;   
-Psicolinguistica;   
-Organizzazione sanitaria;   
-Organizzazione scolastica;   
-Auxologia;   
-Neuropsichiatria infantile;   
-Pedagogia speciale e differenziale;   
-Igiene generale;   
-Medicina del lavoro;   
-Legislazione sanitaria;   
-Legislazione scolastica;   
-Legislazione del lavoro;   
-Deontologia professionale;   
-Sessuologia;   
-Psicogerontologia;   
-Statistica economica;   
-Psicologia della propaganda;   
-Psicologia dello sport;   
-Psicologia e pedagogia della comunicazione di massa;   
-Filmologia;   
-Istruzione programmata;   
-Psicologia della didattica e dell'apprendimento scolastico;   
-Infortunistica del lavoro;   
-Psicologia economica;   
-Storia delle idee;   
-Sociologia rurale.   
-Gli insegnamenti specifici di ciascuno dei quattro indirizzi, possono valere come integrativi per gli altri indirizzi che non li comprendano, sempre naturalmente nel caso che il funzionamento degli indirizzi stessi sia previsto dal manifesto-programma annuale.   
-Il manifesto-programma annuale indichera' quali indirizzi verranno realizzati e quali insegnamenti integrativi verranno impartiti dalla scuola, durante l'anno accademico.   
-L'eventuale scissione degli insegnamenti in piu' rami distinti, ai fini sia dell'insegnamento che degli esami di profitto, ovvero l'eventuale loro raggruppamento ai fini degli esami, risulteranno dal manifesto-programma annuale.   
-Art. 362. - Gli esami sono di profitto e di diploma.   
-Per essere ammesso agli esami annuali di profitto l'allievo deve aver frequentato assiduamente le lezioni, le esercitazioni, i tirocini, i seminari, ecc. svolti dalla scuola nel relativo anno di corso.   
-Per essere ammesso all'esame di diploma, l'allievo, oltre ad avere adempiuto a tutti gli obblighi di frequenza ed esame dei vari insegnamenti comuni e specifici, di almeno due degli insegnamenti integrativi, ed avere effettuato le esercitazioni prescritte, deve presentare una dissertazione scritta nonche' una relazione riassuntiva sulle esercitazioni e su eventuali tirocini effettuati nell'intero triennio.   
-L'esame di diploma consiste nella discussione della tesi e della relazione e, eventualmente, di una o piu' prove pratiche stabilite dal consiglio della scuola.   
-Art. 363. - Direttore della scuola e' il professore di ruolo di psicologia della facolta' di lettere e filosofia.   
-Il direttore della scuola, su conforme parere del consiglio della scuola stessa, puo' proporre che un docente di essa assuma le funzioni di vice direttore, con l'incarico annuale (riconfermabile) di coadiuvarlo e di sostituirlo; alla relativa nomina provvede il rettore.   
-Art. 364. - I docenti della scuola sono scelti tra i professori universitari di psicologia (di ruolo, fuori ruolo, aggregati, incaricati, liberi docenti), tra gli specialisti in psicologia e fra coloro che, per opere, uffici ed insegnamenti tenuti siano di riconosciuta competenza ed esperienza nelle discipline che formano oggetto dei corsi della scuola.   
-Alla nomina dei docenti provvede il rettore, su proposta presentata annualmente dal direttore della scuola e su parere conforme del consiglio della scuola stessa e della facolta'.   
-Art. 365. - Per i problemi riguardanti l'organizzazione didattica, il direttore e' assistito da un consiglio della scuola, composto: dal direttore stesso che lo presiede, dal vice direttore (se designato), che presiede le adunanze del consiglio in caso di assenza o impedimento del direttore; e dai docenti della scuola;   
-Su proposta del direttore e sentito il parere del consiglio, uno dei docenti assolve anche le funzioni di segretario delle adunanze del consiglio stesso: alla relativa nomina provvede il rettore.   
-Art. 366. - Le tasse, sopratasse e contributi annuali richiesti per l'iscrizione ai corsi corrispondono a quelli stabiliti per la facolta' di lettere e filosofia, piu' un contributo speciale, la cui entita' verra' fissata, anno per anno, dal consiglio di amministrazione su proposta del direttore della scuola, previa approvazione del consiglio di facolta' di lettere e filosofia. La tassa di diploma e' fissata nella misura di L. 6000 ai sensi dello [art. 7 della legge 8 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-08;1551~art7).   
-Art. 367. - E' prevista a domanda dell'interessato e non oltre il termine del secondo anno di corso, la possibilita' di passaggio da un indirizzo ad un altro.   
-L'accoglimento della relativa domanda ha luogo a giudizio insindacabile del consiglio della scuola e con piano di studio da stabilire caso per caso. Coloro che hanno compiuto l'intero triennio possono essere ammessi ad altro indirizzo con possibilita' di abbreviazione dei corsi per convalida di esami gia' sostenuti, secondo quanto sara' stabilito caso per caso dal consiglio della scuola.   
+Art. 75. - Gli insegnamenti per il conseguimento della laurea in lingue e letterature straniere moderne (indirizzo europeo) sono i seguenti:   
+Fondamentali:   
+1) Letteratura italiana;   
+2) Letteratura latina;   
+3) Glottologia;   
+4) Una lingua e letteratura straniera moderna;   
+5) Una seconda lingua e letteratura straniera moderna;   
+6) Filologia romanza (o germanica o slava o ugrofinnica);   
+7) Storia medioevale;   
+8) Storia moderna;   
+9) Storia dell'arte moderna (o storia dell'arte medioevale e moderna);   
+10) Geografia.   
+Complementari (quando non siano scelti come fondamentali ai suindicati numeri 4), 5) e 6):   
+1) Una lingua e letteratura straniera;   
+2) Filologia germanica;   
+3) Filologia romanza;   
+4) Letteratura greca;   
+5) Storia romana;   
+6) Lingua e letteratura latina medioevale;   
+7) Storia della filosofia.   
+Lo studente dovra' seguire i corsi e sostenere gli esami in tutti gli insegnamenti fondamentali ed in tre altri insegnamenti da lui scelti fra i complementari.   
+Uno degli insegnamenti complementari potra' essere sostituito dallo studente con una disciplina di altri corsi di studi della stessa o di diversa Facolta'.   
+L'insegnamento della lingua e letteratura straniera moderna, alla quale lo studente intende principalmente dedicarsi, dovra' essere seguito per tutti i quattro anni, alla fine di ciascuno dei quali egli sara' sottoposto a prove scritte di anno in anno, gradualmente progressive.   
+Dovranno, poi, essere seguiti per due anni l'insegnamento della filologia a cui quella stessa prima lingua si ricollega e l'insegnamento della seconda lingua e letteratura straniera moderna prescelta.   
+Due altri insegnamenti fondamentali dovranno pure essere seguiti per un biennio. Lo studente potra', poi, seguire per un biennio anche un altro insegnamento ed in tal caso potra' ridurre da tre a due gli insegnamenti complementari di sua scelta.   
+Gli esami di letteratura italiana e di letteratura latina comprendono una prova scritta preliminare.   
+Gli insegnamenti di storia medioevale e di storia moderna sono tenuti alternativamente e nel manifesto degli studi e' indicato ogni anno il corso che sara' impartito.   
+Il preside, sentita, ove ritenga, la Facolta', deve controllare i piani di studio presentati dagli studenti ed approvarli prima che siano resi definitivi.   
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed in tutti gli altri insegnamenti compresi nel piano di studi approvato dal presido.   
+Art. 76. - I laureati in lettere ed in filosofia aspiranti alla laurea in lingue e letterature straniere moderne: indirizzo europeo, sono iscritti al secondo anno, con l'obbligo di seguire i corsi e superare gli esami che saranno stabiliti, caso per caso, dal Consiglio di facolta'.   
+Art. 77. - I laureati in economia e commercio, in giurisprudenza, in scienze politiche aspiranti alla laurea in lingue e letterature straniere moderne: indirizzi europeo, sono iscritti al secondo anno.   
+Per essi, tenuto conto degli studi compiuti e degli esami superati, il rettore, udito il Consiglio dei professori della Facolta', determina, caso per caso, il numero minimo degli insegnamenti dei quali debbono frequentare le lezioni e superare gli esami e stabilisce il piano di studi.   
+Per i laureati di altra Facolta' aspiranti alla laurea in lingue e letterature straniere moderne: indirizzo europeo, tenuto conto degli studi compiuti e degli esami superati, il rettore, udito il Consiglio dei professori della Facolta', determina, caso per caso, l'anno di corso al quale possono essere iscritti, il numero degli insegnamenti che essi debbono frequentare e sui quali debbono superare gli esami e stabilisce il piano di studi.   
+In tutti i casi previsti nel presente articolo i richiedenti debbono essere forniti del diploma di maturita' classica.   
+Art. 78. - La tesi di laurea in lingue e letterature straniere moderne dovra' essere redatta in italiano e integrata da un colloquio nella lingua prescelta come prima lingua dello studente.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 maggio 1970
+### Dato a Roma, addi' 29 ottobre 1957
 
-SARAGAT MISASI
+GRONCHI MORO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 10 luglio 1970
+Registrato alla Corte dei conti, addi' 21 marzo 1958
 
-Atti del Governo, registro n. 236, foglio n. 145. - CARUSO
+Atti del Governo, registro n. 111, foglio n. 164. - RELLEVA

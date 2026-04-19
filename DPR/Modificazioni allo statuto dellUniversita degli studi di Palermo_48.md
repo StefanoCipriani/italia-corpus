@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1975 n. 979
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1967 n. 1053
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1975 n. 979
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1967 n. 1053
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
@@ -10,17 +10,19 @@ Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Palermo e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -30,174 +32,107 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 147 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in medicina dello sport.
+Art. 18. - All'elenco degli insegnamenti complementari del corso di laurea in economia e commercio e' aggiunto quello di "organizzazione aziendale". Nello stesso corso di laurea insegnamento di "economia e finanza delle imprese di assicurazione" e' soppresso.
 
-Dopo l'art. 196, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in medicina dello sport di cui all'art. 147.
+Art. 20. - All'elenco degli istituti annessi alla facolta' di economia e commercio sono aggiunti quelli di:
 
-Scuola di specializzazione in medicina dello sport
+"Istituto di diritto del lavoro";
 
-Art. 197. - Titolo per l'iscrizione: laurea in medicina e chirurgia. Numero massimo di iscritti: 10 per ogni anno di corso (totale 30 iscritti).
+"Istituto di geografia economica".
 
-Durata del corso: 3 anni.
+Nello stesso elenco gli istituti di matematica per la ricerca operativa, che e' diretto dal professore ufficiale dell'insegnamento di matematica generale e "istituto di finanza" mutano denominazione in quelli di "istituto di matematica per la ricerca operativa" e "istituto di scienze finanziarie".
 
-Frequenza: obbligatoria per l'intero anno accademico.
+Art. 32. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti quelli di:
 
-Sede ufficiale: istituto di fisiologia umana.
+anestesiologia;
 
-Gli insegnamenti clinici e specialistici si svolgeranno presso i rispettivi istituti clinici e specialistici.
+audiologia;
 
-L'ammissione ai corsi avviene per titoli.
+chemioterapia;
 
-Nel caso di domande eccedenti il numero dei posti disponibili, l'ammissione dei candidati aventi pari titoli e uguale data di presentazione della domanda, sara' regolata da prove di esami davanti ad una commissione nominata dal consiglio dei docenti della scuola.
+gerontologia e geriatria;
 
-La direzione del corso e' affidata al direttore dell'istituto di fisiologia umana.
+immunologia;
 
-Art. 198. - Materie di insegnamento:
+neuro-chirurgia;
 
-1° Anno:
+patologia ostetrica e ginecologica;
 
-1) anatomia dell'apparato locomotore;
+tecnica e diagnostica istopatologica;
 
-2) biomeccanica applicata all'esercizio fisico;
+virologia.
 
-3) biochimica generale ed applicata;
+Art. 37. - All'elenco degli istituti annessi alla facolta' di medicina e chirurgia e' aggiunto quello di:
 
-4) antropometria e auxologia;
+"istituto di istologia ed embriologia generale".
 
-5) storia, sistematica e tecnologia degli sports;
+Art. 44, relativo agli istituti annessi alla facolta' di scienze matematiche, fisiche e naturali, e' modificato nel senso che l'istituto di antropologia e' soppresso ed in sua sostituzione e' istituito l'istituto di genetica.
 
-6) istituzioni di psicologia generale e psicologia applicata agli sports;
+Art. 74. - All'elenco degli insegnamenti complementari del corso di laurea in architettura e' aggiunto quello di: "sociologia".
 
-7) istituzioni di scienza della nutrizione e dietetica applicata all'attivita' sportiva.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-2° Anno:
+Dato a Roma, addi' 14 agosto 1967
 
-1) anatomia degli apparati circolatorio, respiratorio e nervoso;
+SARAGAT
 
-2) fisiologia delle ossa, delle articolazioni e dei muscoli;
-
-3) biochimica ed energetica muscolare;
-
-4) valutazione funzionale dello sportivo e tecnica fisiologica;
-
-5) biofisica del muscolo (facoltativa);
-
-6) fisioterapia e rieducazione funzionale (facoltativa);
-
-7) farmacologia applicata all'attivita' sportiva (facoltativa);
-
-8) igiene e medicina preventiva applicata all'attivita' sportiva (facoltativa).
-
-3° Anno:
-
-1) fisiologia del sistema nervoso motorio, della respirazione e della circolazione;
-
-2) educazione fisica e tecnica dell'allenamento sportivo;
-
-3) chirurgia d'urgenza, rianimazione e pronto soccorso;
-
-4) medicina legale e infortunistica;
-
-5) traumatologia e ortopedia dello sport;
-
-6) fisiopatologia degli sports (facoltativa);
-
-7) assistenza medico sportiva nei grandi agglomerati urbani (facoltativa).
-
-Art. 199. - La scuola inoltre svolgera' brevi corsi integrativi di conferenze o seminari sopra argomenti e discipline che saranno stabiliti dal consiglio dei docenti della scuola.
-
-Saranno inoltre svolte esercitazioni pratiche e sul campo. Gli esami annuali si svolgeranno per gruppi di materie, comprendenti discipline incluse nel piano di studio esposto.
-
-Il gruppo di materie comprende tutte le materie di insegnamento e quelle facoltative scelte dal candidato, previste per ogni anno di corso.
-
-L'iscrizione agli anni successivi e' subordinata al superamento di tutti gli esami annuali. Il diploma si consegue dopo aver superato tutte le prove di esame del triennio; la prova di diploma si svolge con la discussione su una dissertazione scritta concernente un tema assegnato o in altro caso approvato dal direttore della scuola.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 24 ottobre 1975
-
-LEONE
-
-MALFATTI
+GUI
 
 Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 23 aprile 1976 Atti di Governo, registro n. 5, foglio n. 24
+alla Corte dei conti, addi' 15 novembre 1967 Atti del Governo, registro n. 214, foglio n. 146. - GRECO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Palermo e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 147 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in medicina dello sport.  
-Dopo l'art. 196, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in medicina dello sport di cui all'art. 147.  
-  
-Scuola di specializzazione in medicina dello sport  
-  
-Art. 197. - Titolo per l'iscrizione: laurea in medicina e chirurgia. Numero massimo di iscritti: 10 per ogni anno di corso (totale 30 iscritti).  
-Durata del corso: 3 anni.  
-Frequenza: obbligatoria per l'intero anno accademico.  
-Sede ufficiale: istituto di fisiologia umana.  
-Gli insegnamenti clinici e specialistici si svolgeranno presso i rispettivi istituti clinici e specialistici.  
-L'ammissione ai corsi avviene per titoli.  
-Nel caso di domande eccedenti il numero dei posti disponibili, l'ammissione dei candidati aventi pari titoli e uguale data di presentazione della domanda, sara' regolata da prove di esami davanti ad una commissione nominata dal consiglio dei docenti della scuola.  
-La direzione del corso e' affidata al direttore dell'istituto di fisiologia umana.  
-Art. 198. - Materie di insegnamento:  
-1° Anno:  
-1) anatomia dell'apparato locomotore;  
-2) biomeccanica applicata all'esercizio fisico;  
-3) biochimica generale ed applicata;  
-4) antropometria e auxologia;  
-5) storia, sistematica e tecnologia degli sports;  
-6) istituzioni di psicologia generale e psicologia applicata agli sports;  
-7) istituzioni di scienza della nutrizione e dietetica applicata all'attivita' sportiva.  
-2° Anno:  
-1) anatomia degli apparati circolatorio, respiratorio e nervoso;  
-2) fisiologia delle ossa, delle articolazioni e dei muscoli;  
-3) biochimica ed energetica muscolare;  
-4) valutazione funzionale dello sportivo e tecnica fisiologica;  
-5) biofisica del muscolo (facoltativa);  
-6) fisioterapia e rieducazione funzionale (facoltativa);  
-7) farmacologia applicata all'attivita' sportiva (facoltativa);  
-8) igiene e medicina preventiva applicata all'attivita' sportiva (facoltativa).  
-3° Anno:  
-1) fisiologia del sistema nervoso motorio, della respirazione e della circolazione;  
-2) educazione fisica e tecnica dell'allenamento sportivo;  
-3) chirurgia d'urgenza, rianimazione e pronto soccorso;  
-4) medicina legale e infortunistica;  
-5) traumatologia e ortopedia dello sport;  
-6) fisiopatologia degli sports (facoltativa);  
-7) assistenza medico sportiva nei grandi agglomerati urbani (facoltativa).  
-Art. 199. - La scuola inoltre svolgera' brevi corsi integrativi di conferenze o seminari sopra argomenti e discipline che saranno stabiliti dal consiglio dei docenti della scuola.  
-Saranno inoltre svolte esercitazioni pratiche e sul campo. Gli esami annuali si svolgeranno per gruppi di materie, comprendenti discipline incluse nel piano di studio esposto.  
-Il gruppo di materie comprende tutte le materie di insegnamento e quelle facoltative scelte dal candidato, previste per ogni anno di corso.  
-L'iscrizione agli anni successivi e' subordinata al superamento di tutti gli esami annuali. Il diploma si consegue dopo aver superato tutte le prove di esame del triennio; la prova di diploma si svolge con la discussione su una dissertazione scritta concernente un tema assegnato o in altro caso approvato dal direttore della scuola.  
+Art. 18. - All'elenco degli insegnamenti complementari del corso di laurea in economia e commercio e' aggiunto quello di "organizzazione aziendale". Nello stesso corso di laurea insegnamento di "economia e finanza delle imprese di assicurazione" e' soppresso.  
+Art. 20. - All'elenco degli istituti annessi alla facolta' di economia e commercio sono aggiunti quelli di:  
+"Istituto di diritto del lavoro";  
+"Istituto di geografia economica".  
+Nello stesso elenco gli istituti di matematica per la ricerca operativa, che e' diretto dal professore ufficiale dell'insegnamento di matematica generale e "istituto di finanza" mutano denominazione in quelli di "istituto di matematica per la ricerca operativa" e "istituto di scienze finanziarie".  
+Art. 32. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti quelli di:  
+anestesiologia;  
+audiologia;  
+chemioterapia;  
+gerontologia e geriatria;  
+immunologia;  
+neuro-chirurgia;  
+patologia ostetrica e ginecologica;  
+tecnica e diagnostica istopatologica;  
+virologia.  
+Art. 37. - All'elenco degli istituti annessi alla facolta' di medicina e chirurgia e' aggiunto quello di:  
+"istituto di istologia ed embriologia generale".  
+Art. 44, relativo agli istituti annessi alla facolta' di scienze matematiche, fisiche e naturali, e' modificato nel senso che l'istituto di antropologia e' soppresso ed in sua sostituzione e' istituito l'istituto di genetica.  
+Art. 74. - All'elenco degli insegnamenti complementari del corso di laurea in architettura e' aggiunto quello di: "sociologia".  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 ottobre 1975
+### Dato a Roma, addi' 14 agosto 1967
 
-LEONE MALFATTI
+SARAGAT GUI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 23 aprile 1976
+Registrato alla Corte dei conti, addi' 15 novembre 1967
 
-Atti di Governo, registro n. 5, foglio n. 24
+Atti del Governo, registro n. 214, foglio n. 146. - GRECO

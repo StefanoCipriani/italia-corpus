@@ -1,92 +1,18 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1953 n. 547
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1953 n. 545
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1953 n. 547
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1953 n. 545
+============================================================
 
 Modificazioni dello statuto dell'Universita' degli studi di Bologna.
 --------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regi decreti 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-12;2227); [4 settembre 1930, n. 1312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-09-04;1312); [1 ottobre 1931, n. 1778](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1778); [27 ottobre 1932, n. 2092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2092): [6 dicembre 1934, n. 2394](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2394); [1 ottobre 1936, n. 2502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2502); [12 maggio 1939, n. 1315](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-05-12;1315); [5 ottobre 1939, n. 1644](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1644); [11 luglio 1941, n. 848](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-07-11;848); [18 luglio 1942, n. 928](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-18;928); [24 novembre 1942, n. 1595, con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-11-24;1595) [16 maggio 1947, n. 694, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-05-16;694) [22 febbraio 1948, n. 414](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-02-22;414); [30 luglio 1950, n. 1268](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-07-30;1268); [31 ottobre 1950, n. 1307](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1307); [5 agosto 1951, n. 1311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-05;1311) e [27 ottobre 1951, n. 1792](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1792);
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Il "corso di perfezionamento nelle discipline geologico-minerarie" e' trasformato in "scuola di specializzazione nelle discipline geologico-minerarie", con il seguente nuovo ordinamento.
-
-Art. 168. - Presso la Facolta' di ingegneria e' istituita una scuola biennale di specializzazione nelle discipline geologico minerarie.
-
-Art. 169. - Alla scuola di specializzazione nelle discipline geologico-minerarie possono essere iscritti gli allievi ingegneri e geologi del Corpo delle miniere; l'iscrizione puo' essere altresi' consentita a laureati in ingegneria o scienze geologiche; a questi ultimi, previa valutazione della precedente preparazione da parte del Consiglio della scuola.
-
-Art. 170. - La scuola di specializzazione nelle discipline geologico-minerarie comprende i seguenti insegnamenti:
-
-1) Petrografia;
-
-2) Geologia;
-
-3) Paleontologia;
-
-4) Arte mineraria (biennale);
-
-5) Giacimenti minerari;
-
-6) Metallurgia e metallografia;
-
-7) Geofisica mineraria;
-
-8) Chimica fisica;
-
-9) Mineralogia.
-
-Art. 171. - Il direttore della scuola e' nominato dal Consiglio delle Facolta' e si intende confermato anno per anno salvo contrario provvedimento.
-
-Art. 172. - Gli iscritti alla scuola devono superare gli esami di profitto in tutti gli insegnamenti elencati all'art. 170.
-
-Art. 173. - La Commissione di ciascun esame di profitto e' composta del professore della materia, di un altro professore ufficiale e di un cultore della materia o di materie affine.
-
-Art. 174. - Gli iscritti che al termine del corso di studi avranno discusso una dissertazione scelta su materia oggetto dei corso stesso, conseguiranno un diploma in "discipline geologico minerarie".
-
-Tale discussione dovra' essere sostenuta innanzi ad una Commissione presieduta dal direttore della scuola e composta dal preside della Facolta' di ingegneria, dai docenti della scuola e da cultori della materia in numero complessivo di sette membri.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 12 maggio 1953
-
-EINAUDI
-
-SEGNI
-
-Visto, il Guardasigilli: ZOLI
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 27 luglio 1953 Atti del Governo, registro n. 78, foglio n. 64. - PALLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regi decreti 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-12;2227); [4 settembre 1930, n. 1312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-09-04;1312); [1 ottobre 1931, n. 1778](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1778); [27 ottobre 1932, n. 2092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2092): [6 dicembre 1934, n. 2394](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2394); [1 ottobre 1936, n. 2502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2502); [12 maggio 1939, n. 1315](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-05-12;1315); [5 ottobre 1939, n. 1644](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1644); [11 luglio 1941, n. 848](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-07-11;848); [18 luglio 1942, n. 928](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-18;928); [24 novembre 1942, n. 1595, con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-11-24;1595) [16 maggio 1947, n. 694, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-05-16;694) [22 febbraio 1948, n. 414](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-02-22;414); [30 luglio 1950, n. 1268](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-07-30;1268); [31 ottobre 1950, n. 1307](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1307); [5 agosto 1951, n. 1311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-05;1311) e [27 ottobre 1951, n. 1792](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1792);  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regi decreti 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-12;2227); [4 settembre 1930, n. 1312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-09-04;1312); [1 ottobre 1931, n. 1778](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1778); [27 ottobre 1932, n. 2092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2092); [6 dicembre 1934, n. 2394](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2394); [1 ottobre 1936, n. 2502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2502); [12 maggio 1939, n. 1315](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-05-12;1315); [5 ottobre 1939, n. 1644](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1644); [11 luglio 1941, n. 848](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-07-11;848); [18 luglio 1942, n. 928](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-18;928) e [24 novembre 1942, n. 1595; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-11-24;1595) [16 maggio 1947, n. 694; e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-05-16;694) [22 febbraio 1948, n. 411](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-02-22;411): [30 luglio 1950, n. 1268](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-07-30;1268); [31 ottobre 1950, n. 1307](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1307); [5 agosto 1951, n. 1311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-05;1311) e [27 ottobre 1951, n. 1792](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1792);  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
@@ -97,37 +23,73 @@ Sulla proposta del Ministro per la pubblica istruzione;
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati e' cosi' ulteriormente modificato:  
   
-Il "corso di perfezionamento nelle discipline geologico-minerarie" e' trasformato in "scuola di specializzazione nelle discipline geologico-minerarie", con il seguente nuovo ordinamento.  
-Art. 168. - Presso la Facolta' di ingegneria e' istituita una scuola biennale di specializzazione nelle discipline geologico minerarie.  
-Art. 169. - Alla scuola di specializzazione nelle discipline geologico-minerarie possono essere iscritti gli allievi ingegneri e geologi del Corpo delle miniere; l'iscrizione puo' essere altresi' consentita a laureati in ingegneria o scienze geologiche; a questi ultimi, previa valutazione della precedente preparazione da parte del Consiglio della scuola.  
-Art. 170. - La scuola di specializzazione nelle discipline geologico-minerarie comprende i seguenti insegnamenti:  
-1) Petrografia;  
-2) Geologia;  
-3) Paleontologia;  
-4) Arte mineraria (biennale);  
-5) Giacimenti minerari;  
-6) Metallurgia e metallografia;  
-7) Geofisica mineraria;  
-8) Chimica fisica;  
-9) Mineralogia.  
-Art. 171. - Il direttore della scuola e' nominato dal Consiglio delle Facolta' e si intende confermato anno per anno salvo contrario provvedimento.  
-Art. 172. - Gli iscritti alla scuola devono superare gli esami di profitto in tutti gli insegnamenti elencati all'art. 170.  
-Art. 173. - La Commissione di ciascun esame di profitto e' composta del professore della materia, di un altro professore ufficiale e di un cultore della materia o di materie affine.  
-Art. 174. - Gli iscritti che al termine del corso di studi avranno discusso una dissertazione scelta su materia oggetto dei corso stesso, conseguiranno un diploma in "discipline geologico minerarie".  
-Tale discussione dovra' essere sostenuta innanzi ad una Commissione presieduta dal direttore della scuola e composta dal preside della Facolta' di ingegneria, dai docenti della scuola e da cultori della materia in numero complessivo di sette membri.  
+L'attuale art. 121, e' sostituito dal seguente:  
+"Le tasse e sopratasse da pagarsi dagli iscritti alle scuole e corsi di perfezionamento e di specializzazione sono quelle medesime stabilite dalla legge per le Facolta presso le quali le scuole e i corsi sono istituiti.  
+Il Consiglio di amministrazione dell'Universita', su proposta del Senato accademico, udito il Consiglio della facolta' e il Consiglio delle singole scuole, stabilisce anno per anno i contributi che gli iscritti alle varie scuole e ai vari corsi debbono corrispondere per le esercitazioni pratiche e per le prestazioni di qualsiasi natura, di cui usufruiscono durante gli anni di studio.  
+La tassa di diploma e' fissata in L. 6000, a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7)".  
+Dopo l'attuale art. 284, vengono aggiunti i seguenti articoli, relativi alla istituzione della scuola di perfezionamento in cardiologia:  
+  
+Scuola di perfezionamento in cardiologia  
+  
+Art. 285. - La scuola di perfezionamento in cardiologia conferisce il diploma di "specialista in cardiologia". L'ammissione alla scuola viene concessa ai candidati laureati in medicina e chirurgia che abbiano compiuto non meno di cinque anni di tirocinio postlaurea in medicina generale presso una clinica universitaria o presso un grande Istituto ospedaliero. Il numero dei posti per anno di corso viene determinato ogni anno dal Consiglio della scuola, su parere del Consiglio della facolta'.  
+Gli anni di studio per conseguire il diploma di specialista in cardiologia sono tre.  
+Art. 286. - Le materie obbligatorie sono le seguenti:  
+1. Anatomia del cuore e dei vasi con particolare riguardo alla specialita';  
+2. Fisiologia dell'apparato cardiovascolare;  
+3. Fisiopatologia dell'apparato cardiovascolare;  
+4. Anatomia patologica dell'apparato cardiovascolare;  
+5. Semeiologia clinica generale dell'apparato cardiovascolare;  
+6. Semeiologia clinica speciale dell'apparato cardiovascolare;  
+7. Tecnica degli esami funzionali in cardiologia;  
+8. Tecnica diagnostica, con particolare riguardo all'elettrocardiografia;  
+9. Patologia medica dell'apparato cardiovascolare;  
+10. Clinica medica;  
+11. Terapia delle malattie di cuore;  
+12. Radiologia cardiovascolare.  
+Art. 287. - Le materie elencate all'articolo precedente sono cosi' distribuite nei tre anni di studio:  
+Anno 1°:  
+Anatomia del cuore e dei vasi con particolare riguardo alla specialita';  
+Fisiologia dell'apparato cardiovascolare;  
+Semeiologia clinica generale dell'apparato cardiovascolare;  
+Patologia medica dell'apparato cardiovascolare;  
+Clinica medica;  
+Terapia delle malattie di cuore.  
+Anno 2°:  
+Fisiopatologia dell'apparato cardiovascolare;  
+Anatomia patologica dell'apparato cardiovascolare;  
+Semeiologia clinica speciale dell'apparato cardiovascolare;  
+Tecnica degli esami funzionali in cardiologia;  
+Tecnica diagnostica con particolare riguardo all'elettrocardiografia;  
+Patologia medica dell'apparato cardiovascolare;  
+Clinica medica;  
+Terapia delle malattie di cuore;  
+Radiologia cardiovascolare.  
+Anno 3°:  
+Fisiologia dell'apparato cardiovascolare;  
+Anatomia patologica dell'apparato cardiovascolare;  
+Semeiologia clinica generale dell'apparato cardiovascolare;  
+Tecnica degli esami funzionali in cardiologia;  
+Tecnica diagnostica con particolare riguardo all'elettrocardiografia;  
+Clinica medica;  
+Terapia delle malattie di cuore;  
+Radiologia cardiovascolare.  
+Art. 288. - Gli allievi hanno l'obbligo di frequentare le lezioni, le visite cliniche, le esercitazioni, gli ambulatori nonche' di prestare, se richiesti, servizio nell'Istituto come medici interni, estendendo storie cliniche e praticando le ricerche di laboratorio inerenti alla specialita', sia durante l'anno accademico che durante le vacanze annuali.  
+L'insegnamento avra' carattere eminentemente pratico, dimostrativo, sperimentale, a mezzo di lezioni, colloqui, esercitazioni sopra casi clinici e ricerche di laboratorio.  
+Art. 289. - L'esame di profitto si sostiene alla fine dei tre anni di corso e si estende a tutte le materie di insegnamento.  
+In un manifesto annuale della clinica medica vengono esposte le norme dettagliate riguardanti i vari insegnamenti.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 maggio 1953
+### Dato a Roma, addi' 11 marzo 1953
 
 EINAUDI SEGNI
 
 Visto, il Guardasigilli: ZOLI
 
-Registrato alla Corte dei conti, addi' 27 luglio 1953
+Registrato alla Corte dei conti, addi' 37 luglio 1953
 
-Atti del Governo, registro n. 78, foglio n. 64. - PALLA
+Atti del Governo, registro n. 78, foglio n. 54. - PALLA

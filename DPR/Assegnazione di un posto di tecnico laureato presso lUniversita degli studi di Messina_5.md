@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 agosto 1986 n. 650
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1984 n. 500
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 agosto 1986 n. 650
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1984 n. 500
 =============================================================
 
 Assegnazione di un posto di tecnico laureato presso l'Universita' degli studi di Messina.
@@ -10,10 +10,10 @@ Assegnazione di un posto di tecnico laureato presso l'Universita' degli studi di
 Art. 1
 ------
 
-n.
+N.
 
-650. Decreto del Presidente della Repubblica 29 agosto 1986, col quale, sulla proposta del Ministro della pubblica istruzione, un posto disponibile nel ruolo dei tecnici laureati viene assegnato all'istituto di semeiotica chirurgica I (per le esigenze della cattedra di semeiotica chirurgica I) della facolta' di medicina e chirurgia dell'Universita' di Messina.  
+500. Decreto del Presidente della Repubblica 7 giugno 1984, col quale, sulla proposta del Ministro della pubblica istruzione, un posto disponibile nel ruolo dei tecnici laureati viene assegnato all'istituto di medicina interna e neuropsichiatria dell'eta' evolutiva della facolta' di medicina e chirurgia dell'Universita' di Messina.  
   
-Visto, il Guardasigilli: ROGNONI  
-Registrato alla Corte dei conti, addi' 3 ottobre 1986  
-Registro n. 73 Istruzione, foglio n. 317
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 14 agosto 1984  
+Registro n. 50 Istruzione, foglio n. 131

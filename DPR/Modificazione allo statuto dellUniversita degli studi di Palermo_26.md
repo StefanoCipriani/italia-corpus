@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1984 n. 290
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1984 n. 305
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1984 n. 290
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1984 n. 305
+============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
@@ -39,14 +39,13 @@ Articolo unico
 --------------
 
   
-Nell'art. 50, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-chirurgia sostitutiva dei trapianti d'organo e di organi artificiali.  
+Art. 50 - nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' inserito l'insegnamento di "chirurgia oncologica".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 febbraio 1984
+### Dato a Roma, addi' 2 marzo 1984
 
 PERTINI FALCUCCI
 
@@ -54,4 +53,4 @@ Visto, il Guardasigilli: MARTINAZZOLI
 
 Registrato alla Corte dei conti, addi' 26 giugno 1984
 
-Registro n. 39 Istruzione, foglio n. 28
+Registro n. 39 Istruzione, foglio n. 29

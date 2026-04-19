@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1973 n. 1179
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 settembre 1970 n. 1146
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1973 n. 1179
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 settembre 1970 n. 1146
 =================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
@@ -12,12 +12,12 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e modificato con [regio decreto 13 ottobre 1927, numero 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;   
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;   
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
 Sulla proposta del Ministro per la pubblica istruzione;   
@@ -26,150 +26,179 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Dopo l'art. 75 e con lo spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di perfezionamento in filosofia (discipline filosofico-teoriche e storico-filosofiche).   
+Gli articoli 53, 54, 55, 56 e 57 relativi alla facolta' di ingegneria sono abrogati e sostituiti, con lo spostamento della numerazione degli articoli successivi, dai seguenti articoli relativi al riordinamento del corso di laurea in ingegneria elettrotecnica e all'istituzione di due nuovi corsi di laurea in ingegneria elettronica ed ingegneria civile (sottosezioni trasporti e idraulica).   
   
+FACOLTA' DI INGEGNERIA   
   
-Scuola di perfezionamento in filosofia   
-(discipline filosofico-teoriche e storico-filosofiche)   
-  
-Art. 76. - E' istituita presso la facolta' di lettere e filosofia la scuola di perfezionamento in filosofia (discipline filosofico-teoriche e storico-filosofiche). Essa ha lo scopo di guidare nella ricerca scientifica i laureati in filosofia. La durata del corso degli studi e' di due anni accademici.   
-  
-Art. 77. - La scuola e' retta da un direttore, designato ogni triennio dal consiglio di facolta' nella persona del professore ufficiale di una delle discipline filosofiche proposto con proprio suffragio dai professori ufficiali delle discipline filosofico-teoriche e filosofico-storiche della facolta'.   
-  
-Art. 78. - Alla scuola possono iscriversi i laureati in filosofia, nonche' i laureati di altre facolta', per i quali l'ammissione e' subordinata alla approvazione della direzione della scuola.   
-  
-Art. 79. - Piano di studi:   
-  
+Art. 53. - La facolta' di ingegneria dell'Universita' degli studi di Pavia conferisce le seguenti lauree:   
+in ingegneria elettrotecnica;   
+in ingegneria elettronica;   
+in ingegneria civile sottosezioni trasporti e idraulica.   
+Art. 54. - La durata del corso di studi per la laurea in ingegneria e' di cinque anni, divisi in un biennio di studi propedeutici ed in un triennio di studi di applicazione.   
+Presso la facolta' di ingegneria sono, inoltre, impartiti gli insegnamenti del biennio propedeutico relativi ai corsi di ingegneria chimica e meccanica.   
+Art. 55. - E' titolo di ammissione al biennio propedeutico quello previsto dalle vigenti disposizioni di legge.   
+Art. 56. - Sono insegnamenti del biennio:   
 1° Anno:   
-1) Filosofia teoretica (o altra disciplina filosofico-teorica attivata nella facolta'); oppure storia della filosofia (o altra disciplina storico-filosofica attivata nella facolta').   
-2) Un insegnamento a scelta, approvato secondo l'art. 80 dello statuto della scuola, impartito nella facolta' di lettere e filosofia o in altra facolta' dell'Universita' di Pavia.   
-3) Disciplina speciale nel cui ambito e' prescelto il tema di dissertazione.   
-  
+\* 1) Analisi matematica I;   
+\* 2) Geometria;   
+\* 3) Fisica I;   
+\* 4) Chimica;   
+\* 5) Disegno.   
 2° Anno:   
-1) Filosofia teoretica (o altra disciplina filosofico-teorica attivata nella facolta') o storia della filosofia (o altra disciplina storico-filosofica attivata nella facolta'), oppure il secondo corso della disciplina speciale nel cui ambito e' prescelto il tema di dissertazione.   
-2) Un insegnamento a scelta, approvato secondo l'art. 80 dello statuto della scuola, impartito nella facolta' di lettere e filosofia o in altra facolta' della Universita' di Pavia.   
+\* 1) Analisi matematica II;   
+\* 2) Fisica II;   
+\* 3) Meccanica razionale.   
+Corso di laurea in ingegneria elettrotecnica:   
+\* 4) Elettrotecnica;   
+5) Tecnologie generali dei materiali;   
+6) Calcolo numerico e programmazione.   
+Corso di laurea in ingegneria elettronica:   
+\* 4) Elettrotecnica;   
+\* 5) Fisica tecnica;   
+6) Calcolo numerico e programmazione.   
+Corso di laurea in ingegneria civile:   
+4) Disegno II;   
+\* 5) Elettrotecnica (ed impianti elettrici);   
+6) Calcolo numerico e programmazione.   
+Corso di laurea in ingegneria chimica:   
+4) Complementi di chimica generale ed inorganica;   
+5) Chimica organica;   
+\* 6) Elettrotecnica (ed impianti elettrici).   
+Corso di laurea in ingegneria meccanica:   
+4) Disegno degli elementi di macchine;   
+5) Tecnologia meccanica;   
+6) Chimica applicata.   
+Gli studenti del primo anno di corso potranno ottenere l'iscrizione al 2° anno di corso qualora abbiano superato almeno due fra i quattro seguenti esami: Analisi matematica I; geometria I, fisica I, chimica.  
+Al termine del secondo anno di corso, lo studente, per essere iscritto al terzo anno, oltre che essere in possesso delle attestazioni di frequenza di tutte le discipline previste per il primo e secondo anno, dovra' aver superato i relativi esami, fatta eccezione degli eventuali insegnamenti aggiuntivi. Lo studente tuttavia che sia in debito, oltreche' degli esami per i detti insegnamenti aggiunti, anche di un solo esame, a sua scelta, del secondo anno di corso, potra' ugualmente essere iscritto al terzo anno, con l'obbligo di superare tale esame prima di sostenere qualsiasi esame del triennio di applicazione.   
+I due esami di fisica comprendono la parte riguardante le relative esercitazioni.   
+Art. 57. - Per il corso di laurea in ingegneria elettrotecnica sono insegnamenti del triennio:   
+\* 1) Fisica tecnica;   
+\* 2) Idraulica;   
+\* 3) Scienza delle costruzioni;   
+\* 4) Meccanica applicata alle macchine;   
+\* 5) Macchine elettriche;   
+\* 6) Impianti elettrici I;   
+\* 7) Misure elettriche;   
+\* 8) Elettronica applicata;   
+\* 9) Macchine;   
+10) Metodi matematici per l'ingegneria;   
+11) Chimica applicata;   
+12) Costruzione di macchine elettriche;   
+13) Controlli automatici.   
+Indirizzo A:   
+14) Tecnica delle costruzioni;   
+15) Impianti elettrici II;   
+16) Centrali elettriche;   
+17) Economia ed organizzazione aziendale;   
+18) Impianti speciali idraulici.   
+Indirizzo B:   
+14) Costruzione di macchine;   
+15) Costruzione di apparecchi elettrici;   
+16) Trazione elettrica;   
+17) Ergotecnica;   
+18) Macchine elettriche speciali.   
+Indirizzo C:   
+14) Campi elettromagnetici e circuiti;   
+15) Radiotecnica;   
+16) Calcolatori elettronici;   
+17) Dispositivi elettronici;   
+18) Igiene applicata all'ingegneria.   
+Art. 58. - Per il corso di laurea in ingegneria elettronica sono insegnamenti del triennio:   
+\* 1) Scienza delle costruzioni;   
+\* 2) Meccanica delle macchine e macchine;   
+\* 3) Campi elettromagnetici e circuiti;   
+\* 4) Elettronica applicata;   
+\* 5) Misure elettriche;   
+\* 6) Comunicazioni elettriche;   
+\* 7) Radiotecnica;   
+\* 8) Controlli automatici;   
+9) Complementi di fisica;   
+10) Metodi matematici per l'ingegneria;   
+11) Teoria dei sistemi;   
+12) Dispositivi elettronici.   
+Indirizzo A:   
+13) Fisica dei semiconduttori;   
+14) Materiali e tecnologie elettroniche;   
+15) Chimica fisica;   
+16) Elettronica quantistica;   
+17) Calcolatori elettronici;   
+18) Laboratorio componenti.   
+Indirizzo B:   
+13) Teoria delle reti elettriche;   
+14) Strumentazione elettronica;   
+15) Fenomeni aleatori e rumore;   
+16) Teoria dell'informazione;   
+17) Microonde;   
+18) Laboratorio circuiti.   
+Indirizzo C:   
+13) Teoria dell'informazione;   
+14) Elettronica biologica;   
+15) Sistemi di regolazione;   
+16) Calcolatori elettronici;   
+17) Macchine elettriche;   
+18) Economia ed organizzazione aziendale.   
+Art. 59. - Per il corso di laurea in ingegneria civile sono insegnamenti del triennio:   
+\* 1) Scienza delle costruzioni;   
+\* 2) Meccanica applicata alle macchine e macchine;   
+\* 3) Fisica tecnica;   
+\* 4) Idraulica;   
+\* 5) Tecnologia dei materiali e chimica applicata;   
+\* 6) Tecnica delle costruzioni;   
+\* 7) Architettura tecnica;   
+\* 8) Topografia;   
+\*\* 9) Costruzioni idrauliche;   
+\* 10) Costruzioni di strade, ferrovie ed aeroporti;   
+11) Tecnica urbanistica;   
+12) Istituzioni di scienze sociali ed economiche.   
+I) Per la sezione trasporti.   
+13) Tecnica ed economia dei trasporti.   
+a) Indirizzo territoriale:   
+14) Tecnica urbanistica II;   
+15) Pianificazione territoriale;   
+16) Amministrazione urbanistica;   
+17) Geologia (ingegneria del suolo);   
+18) Tecnica del traffico.   
+b) Indirizzo tecnico operativo:   
+14) Geologia tecnica e geotecnica;   
+15) Scienza delle costruzioni II;   
+16) Costruzioni di ponti e grandi strutture;   
+17) Macchine ed organizzazione dei cantieri;   
+18) Materie giuridiche e legislazione dei lavori pubblici (semestrale);   
+19) Estimo civile (semestrale).   
+II) Per la sezione idraulica:   
+13) Materie giuridiche e legislazione dei lavori pubblici (semestrale);   
+14) Ingegneria sanitaria.   
+a) Per l'indirizzo conservazione del suolo:   
+15) Idrologia tecnica;   
+16) Geologia (ingegneria del suolo);   
+17) Geotecnica;   
+18) Bonifica integrale;.   
+19) Protezione delle coste (semestrale).   
+b) Per l'indirizzo ingegneria sanitaria:   
+15) Chimica delle acque;   
+16) Idraulica II;   
+17) Acquedotti e fognature;   
+18) Tecnologia delle acque di approvvigionamento e di rifiuto;   
+19) Inquinamento dell'ambiente.   
   
-Nota: oltre la filosofia teoretica si considerano filosofico-teoriche le seguenti discipline previste dallo statuto della facolta': filosofia morale, filosofia del diritto, filosofia della scienza, filosofia della storia, filosofia del linguaggio, filosofia delle religioni, filosofia della politica, estetica, sociologia, antropologia culturale, logica matematica, epistemologia semeiotica logica.   
-Oltre la storia della filosofia, si considerano storico-filosofiche le seguenti discipline previste dallo statuto della facolta': storia del diritto italiano, storia delle dottrine politiche, storia delle dottrine economiche, storia della filosofia antica, storia della filosofia medioevale, storia della filosofia moderna e contemporanea, storia della scienza e della tecnica, storia della logica, storia delle religioni, storia della storiografia filosofica, storia della filosofia e delle scienze mussulmane, religioni e filosofia dell'India e dell'estremo Oriente.   
+\* Gli insegnamenti segnati con un asterisco sono fondamentali su piano nazionale.   
+\*\* Fondamentale su piano nazionale per la sezione idraulica.   
+\*\*\* Fondamentale su piano nazionale per la sezione trasporti.   
   
-Art. 80. - Per essere ammesso all'esame di diploma l'iscritto alla scuola deve aver seguito i corsi e superato gli esami in almeno cinque insegnamenti scelti fra quelli impartiti ufficialmente nella facolta' di lettere e filosofia o in altre facolta' dell'Universita' di Pavia; almeno tre di questi insegnamenti debbono essere filosofico-teoretici o storico-filosofici; l'iscritto alla scuola puo' seguire per un biennio uno o due di detti insegnamenti e in tal caso puo' ridurre di uno o due il numero degli insegnamenti che deve scegliere. La scelta degli insegnamenti e il relativo piano di studio debbono essere sottoposti all'inizio del corso degli studi alla approvazione del direttore della scuola e del professore della disciplina in cui l'iscritto intende sostenere l'esame di diploma.   
-  
-Art. 81. - L'esame di diploma consiste nella discussione di una dissertazione scritta di carattere scientifico e di argomento filosofico-teoretico o storico-filosofico, svolta su un tema fissato all'inizio del corso degli studi d'intesa col docente della disciplina e con l'approvazione del direttore della scuola.   
-  
-Art. 82. - La commissione degli esami di profitto e' quella prevista per i vari insegnamenti secondo le disposizioni delle singole facolta'. La commissione degli esami di diploma e' composta di sette membri, e' presieduta dal preside della facolta' e ne fanno parte il direttore della scuola e cinque professori ufficiali da lui designati.   
-  
-Art. 83. - Per l'iscrizione alla scuola gli studenti devono versare a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7), le seguenti tasse e soprattasse:   
-1) tassa di iscrizione e di frequenza, di entita' pari a quelle di immatricolazione e di frequenza per il corso di laurea in filosofia;   
-2) soprattassa di ammissione all'esame di diploma, L. 3.000;   
-3) tassa di diploma, L. 6.000.   
-Non sono previsti contributi speciali di laboratorio.   
-L'art. 274, relativo alla scuola di perfezionamento in chimica biologica, e' abrogato e sostituito dal seguente:   
-Il direttore della scuola e' scelto tra i professori ordinari, straordinari e aggregati di chimica biologica dell'Universita' di Pavia.   
-In mancanza dei docenti suddetti, il direttore e' scelto tra i professori ordinari, straordinari o aggregati di materia affine della facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Pavia.   
-Il funzionamento della scuola e' affidato ad un consiglio direttivo formato dal direttore e da altri due membri nominati ogni triennio dalla facolta'.   
-I professori incaricati di svolgere i corsi verranno scelti in conformita' delle norme vigenti.   
-Dopo l'art. 309 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola per tecnici di igiene ambientale del lavoro (diretta a fini speciali).   
-  
-  
-Scuola per tecnici di igiene ambientale e del lavoro   
-(scuola diretta a fini speciali)   
-  
-Art. 310. - E' istituita presso l'Universita' di Pavia una scuola ad indirizzo essenzialmente pratico diretta a preparare personale tecnico per gli istituti e laboratori chimici e medico-biologici che operano nel campo dell'igiene ambientale e del lavoro. La scuola funziona presso gli istituti di igiene e di medicina del lavoro avvalendosi delle apparecchiature e del personale degli istituti suddetti.   
-Il direttore della scuola viene nominato dal rettore su proposta della facolta' di medicina e chirurgia.   
-Gli insegnanti della scuola sono proposti dal direttore che puo' sceglierli fra i docenti dell'Universita' stessa o fra gli esperti extrauniversitari che abbiano particolare competenza nelle materie di insegnamento.   
-Il consiglio della scuola si compone di tutti i professori che tengono gli insegnamenti prescritti ed e' presieduto dal direttore.   
-  
-Art. 311. - La scuola prende il nome di "Scuola per tecnici di igiene ambientale e del lavoro", ha la durata di due anni e conferisce il diploma di "Tecnico di igiene ambientale e del lavoro".   
-Ne e' titolo di ammissione l'abilitazione di istituti tecnici e magistrale, la maturita' scientifica e classica. La facolta', udito il consiglio della scuola, puo' concedere un abbreviamento di corso non superiore di un anno a quegli iscritti che si presentino gia' forniti di notevoli titoli di riconosciuto valore.   
-  
-Art. 312. - Gli aspiranti all'iscrizione al primo anno di corso sono tenuti a sostenere un esame di ammissione consistente in una prova orale di cultura generale con particolare riguardo alle nozioni di biologia chimica e fisica apprese nelle scuole medie superiori.   
-  
-Art. 313. - Alla scuola non sono ammessi piu' di venti allievi.  
-Qualora le domande di iscrizione fossero in numero superiore la direzione della scuola si riserva di provvedere ad una scelta in base ai risultati dell'esame di ammissione.   
-  
-Art. 314. - Il corso comprende lezioni teoriche ed Esercitazioni pratiche. Le materie di insegnamento sono le seguenti:   
-  
-1° Anno:   
-Nozioni di chimica e di biologia generale;   
-Microanalisi;   
-Strumentazione (prelievo ed analisi);   
-Agenti fisici nell'ambiente di lavoro;   
-Rischi e tecnologia industriale;   
-Tossicologia industriale.   
-  
-2° Anno:   
-Microanalisi;   
-Igiene dell'ambiente fisico e sociale;   
-Elementi di fisiopatologia del lavoro;   
-Organizzazione del lavoro;   
-Legislazione sanitaria.   
-  
-Le esercitazioni pratiche sono biennali e comprendono:   
-  
-Tecnica analitica:   
-aria (gas e vapori - sostanze corpuscolate: fumo, polvere, ecc.); acque;   
-liquidi biologici;   
-agenti fisici.   
-  
-Tecnica di prelievo:   
-aria (gas e vapori, sostanze corpuscolate);   
-acque;   
-liquidi biologici;   
-agenti fisici.   
-  
-Art. 315. - E' fatto obbligo agli allievi di frequentare le lezioni teoriche e le esercitazioni: queste ultime in forma di tirocinio pratico della durata non inferiore a mesi due consecutivi presso gli istituti universitari di cui all'art. 310, oppure presso enti pubblici qualificati e riconosciuti idonei dalla direzione della scuola.   
-Le esercitazioni pratiche devono essere completate da una adeguata partecipazione ad attivita' esterne di controllo delle condizioni igienico-ambientali.   
-Alla fine di ogni anno di corso gli allievi devono sostenere un esame sulle materie di insegnamento. Nel caso in cui i candidati non abbiano superato gli esami prescritti, essi rimarranno nella posizione di "fuori corso" fino a quando non avranno assolto tutti gli obblighi di cui sopra.   
-  
-Art. 316. - A conclusione dei loro studi gli allievi devono sostenere un esame di diploma che consiste nella esecuzione di una prova pratica di laboratorio e nella discussione di una relazione scritta dal candidato su una attivita' di controllo delle condizioni igienico-ambientali assegnatagli dalla direzione della scuola.   
-  
-Art. 317. - I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola. Se al secondo anno non venga loro riconosciuta l'idoneita', essi saranno senz'altro esclusi da ulteriori prove.   
-  
-Art. 318. - L'importo delle tasse e soprattasse che gli iscritti alla scuola sono tenuti a pagare e' il seguente:   
-  
-  
-1° Anno:  
-  
-1ª rata L. 1.250 sopra esami di profitto  
-" 1.250 tassa di iscrizione  
-" 500 contrib. riscaldamento  
-" 17.500 contrib. di laboratorio  
-" 2.000 tassa di immatricolazione  
----------  
-Totale L. 22.500;  
-  
-  
-2ª rata come sopra, esclusa tassa di immatricolazione;  
-  
-3ª rata come sopra, esclusa tassa di immatricolazione;  
-  
-4ª rata come sopra, esclusa tassa di immatricolazione.  
-  
-Totale L. 84.000.  
-  
-  
-  
-2° Anno:  
-  
-1ª rata L. 1.250 sopra esami di profitto  
-" 1.250 tassa di iscrizione  
-" 500 contrib. riscaldamento  
-" 17.500 contrib. di laboratorio  
----------  
-Totale L. 20.500, per n. 4 rate: L. 82.000.  
-  
-  
+Art. 60. - Per essere ammesso all'esame di laurea lo studente dovra' aver seguito gli insegnamenti e superato gli esami secondo il piano di studio approvato dal consiglio di facolta'.   
+Art. 61. - L'esame di laurea consiste in una prova orale intesa ad accertare la organica preparazione di base del candidato e le sue cognizioni tecniche e pratiche nel ramo dell'ingegneria prescelto.   
+Durante tale prova potranno essere discussi elaborati e un'eventuale tesi di laurea.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 settembre 1973
+### Dato a Roma, addi' 19 settembre 1970
 
-LEONE MALFATTI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 29 ottobre 1974
+Registrato alla Corte dei conti, addi' 9 gennaio 1971
 
-Atti di Governo, registro n. 6, foglio n. 76. - SCIARRETTA
+Atti del Governo, registro n. 240, foglio n. - CARUSO

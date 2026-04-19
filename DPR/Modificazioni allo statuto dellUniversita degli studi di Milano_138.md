@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1976 n. 935
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 luglio 1955 n. 802
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1976 n. 935
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 luglio 1955 n. 802
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -10,17 +10,17 @@ Modificazioni allo statuto dell'Universita' degli studi di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 22 maggio 1939, n. 1166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-22;1166), e modificato con [legge 1 giugno 1939, n. 872](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-01;872); con [regi decreti 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2056); [15 aprile 1942, n. 423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;423); [24 ottobre 1942, n. 1847; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1847) [27 luglio 1947, n. 1138 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-07-27;1138) [23 settembre 1949, n. 942](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;942); [21 novembre 1949, n. 1194](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-11-21;1194); [13 marzo 1950, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-03-13;283) [27 ottobre 1951, n. 1825](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1825); [23 aprile 1952, n. 873](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-04-23;873); [10 febbraio 1953, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;383); [13 febbraio 1954, n. 750](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-02-13;750); [14 settembre 1954 n. 1161](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1161); [16 febbraio 1955, n. 138](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-16;138); [27 gennaio 1955, n. 210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-01-27;210) e [21 giugno 1955, n. 560](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-06-21;560);
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1632](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1632), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -30,687 +30,199 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-L'art. 148, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che la scuola di specializzazione in biometria e statistica medica muta la denominazione in quella di scuola di specializzazione in statistica medica.
+Dopo l'art. 104 sono aggiunti i seguenti nuovi articoli, relativi all'istituzione della "Scuola per tecnici di istituti medico-biologici".
 
-Nello stesso elenco sono inserite le seguenti scuole di specializzazione:
+SCUOLE DIRETTE A FINI SPECIALI
 
-scuola di specializzazione in ortognatodonzia;
+Scuola per tecnici di istituti medico-biologici
 
-scuola di specializzazione in diabetologia e malattie del ricambio;
+Art. 105. - E' istituita, ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20), una scuola per tecnici di istituti medico-biologici, che ha lo scopo di preparare adeguatamente personale tecnico che sia in grado di collaborare attivamente con lo studioso e col ricercatore nell'indagine scientifica sperimentale.
 
-scuola di specializzazione in fisiopatologia e fisiochinesiterapia respiratoria;
+Art. 106. - La durata del corso degli studi della scuola per tecnici di istituti medico-biologici e' di due anni.
 
-scuola di specializzazione in biochimica e chimica clinica.
+E' titolo di ammissione il diploma di maturita' classica, il diploma di maturita' scientifica, il diploma di abilitazione magistrale.
 
-Gli articoli 172, 173, 174, 175, 176, 177, 178, 179, relativi alla scuola di specializzazione in biometria e statistica medica che muta la denominazione in quella di scuola di specializzazione in statistica medica sono abrogati e sostituiti dai seguenti:
+Art. 107 - Chi aspira ad ottenere l'iscrizione al 1° anno dei corsi della scuola dovra' sostenere un esame di ammissione per un numero di posti determinato, anno per anno, con decreto del rettore udito il Consiglio della scuola.
 
-Scuola di specializzazione in statistica medica
+Art. 108. - L'esame di ammissione consiste in una prova orale di cultura generale, innanzi ad una Commissione composta dal preside della Facolta' di medicina e chirurgia, dal direttore della scuola e da un terzo membro designato dal rettore dell'Universita' e in una prova orale di conoscenza di una lingua straniera moderna scelta tra l'inglese, il francese e il tedesco.
 
-Art. 172. - La scuola e' articolata nei seguenti orientamenti:
+L'esame di ammissione avra' luogo entro la prima quindicina del mese di novembre di ciascun anno nel giorno che sara' stabilito dal rettore con apposito manifesto.
 
-a) clinico;
+Art. 109. - L'anno accademico ha inizio il 1 dicembre e termina il 30 giugno di ogni anno.
 
-b) epidemiologico,
+La domanda di iscrizione deve essere corredata dai seguenti documenti:
 
-sulla base di materie di insegnamento comuni a tutti gli allievi e materie differenziate per i due orientamenti come specificato all'art. 175. La scuola rilascia 11 diploma di specialista in statistica medica con l'indicazione dell'orientamento prescelto.
+1) certificato di nascita in carta legale debitamente legalizzato per i nati fuori della giurisdizione di Milano;
 
-Art. 173. - La durata del corso e' fissata in tre anni.
+2) titolo di studi medi superiori in originale;
 
-Il numero degli iscritti e' fissato ad un massimo di dieci per il primo anno, e per un totale complessivo di trenta specializzandi per i tre anni di corso.
+3) tre fotografie di cui una autenticata;
 
-Art. 174. - Alla scuola di specializzazione in statistica medica sono ammessi oltre i laureati in medicina e chirurgia anche i laureati in altre discipline (limitatamente all'orientamento epidemiologico) su motivato parere della direzione della scuola, previo accertamento diretto della loro idoneita'.
+4) quietanza del pagamento delle tasse;
 
-Art. 175. - Il piano di studi per la scuola di specializzazione in statistica medica e' il seguente:
+5) foglio di iscrizione al corso su modulo rilasciato dall'economato dell'Universita'.
 
-1° Anno:
+Art. 110. - Il direttore della scuola viene nominato dal rettore su designazione del Consiglio della Facolta' di medicina e chirurgia tra i docenti della scuola.
 
-Insegnamenti comuni ai due orientamenti:
+Il Consiglio della scuola si compone di tutti i professori designati a tenere i corsi prescritti ed e' presieduto dal preside della Facolta' di medicina e chirurgia.
 
-1) matematica generale (I);
+Gli insegnanti della scuola sono proposti dal Consiglio della Facolta' di medicina e chirurgia e nominati dal rettore. Essi possono essere scelti tra i professori ufficiali, tra i liberi docenti, tra gli aiuti ed assistenti della Facolta' di medicina e chirurgia o di altra Facolta' dell'Ateneo o tra persone di riconosciuta competenza anche fuori dell'ambito universitario.
 
-2) metodologia statistica (I);
+Art. 111. - Le materie di insegnamento sono le seguenti:
 
-3) calcolo automatico;
+1° anno:
 
-4) metodologia demografica.
+Organizzazioni di laboratori;
 
-Insegnamenti per l'orientamento clinico:
+Anatomia;
 
-5) l'evidenza clinica;
+Microbiologia;
 
-6) tassometria per la nosografia.
+Istologia normale;
 
-Insegnamenti per l'orientamento epidemiologico:
+Fisiologia;
 
-5) sociologia medica;
+Chimica (I).
 
-6) storia medica.
+2° anno:
 
-2° Anno:
+Istologia patologica;
 
-Insegnamenti comuni ai due orientamenti:
+Chimica (II);
 
-1) matematica generale (II);
+Farmacologia;
 
-2) metodologia statistica (II);
+Tecnica di laboratorio.
 
-3) informatica medica;
+Sono inoltre prescritte esercitazioni pratiche presso i vari istituti prescelti dalla direzione della scuola, il cui numero verra' stabilito dal direttore della scuola stessa.
 
-4) metodologia epidemiologica generale.
+Alla fine del corso gli allievi dovranno aver superato una prova attestante la conoscenza di una lingua straniera scelta fra il francese, l'inglese e il tedesco, diversa pero' da quella che e' stata oggetto per l'ammissione alla scuola.
 
-Insegnamenti per l'orientamento clinico:
+Art. 112. - I programmi di insegnamento vengono predisposti anno per anno dal Consiglio della scuola e sottoposti all'approvazione della Facolta' di medicina e chirurgia. Il Consiglio stabilisce pure l'orario delle lezioni e dei turni di tirocinio pratico.
 
-5) il ragionamento diagnostico;
+La sorveglianza degli iscritti, per quanto riguarda la loro attivita', spetta al direttore della scuola. La frequenza ai singoli insegnamenti deve essere attestata dai rispettivi insegnanti e notificata al direttore della scuola.
 
-6) il riconoscimento automatico.
+Art. 113. - Per essere ammessi a frequentare il secondo corso, gli allievi debbono aver superato tutti gli esami del primo corso. Nel caso in cui gli allievi non abbiano superato gli esami prescritti, essi rimarranno nella posizione di fuori corso, fino a quando non avranno assolto tutti gli obblighi di cui sopra.
 
-Insegnamenti per l'orientamento epidemiologico:
+Art. 114. - Durante il secondo corso gli allievi hanno l'obbligo di effettuare un internato della durata di quattro mesi presso l'istituto dove si svolge la materia che sara' oggetto della dissertazione finale di diploma.
 
-5) geografia medica;
+Art. 115. - Per essere ammessi a sostenere l'esame di diploma, gli allievi dovranno aver seguito i corsi, superato gli esami in tutti gli insegnamenti prescritti ed aver compiuto con esito favorevole tutte le esercitazioni pratiche previste.
 
-6) econometria sanitaria.
+Art. 116. - Le Commissioni per gli esami di profitto sono nominate dal preside della Facolta' di medicina e chirurgia, su proposta del direttore della scuola.
 
-3° Anno:
+Le Commissioni sono composte di tre membri: dal professore ufficiale della materia, presidente; da un professore ufficiale di materia affine e da un libero docente o cultore della materia. Ogni commissario ha a disposizione dieci punti.
 
-Insegnamenti comuni ai due orientamenti:
+Art. 117. - L'esame di diploma consiste in una discussione sopra una dissertazione scritta su tema preventivamente assegnato dal direttore della scuola o da uno degli insegnanti con l'adesione del direttore, e in una prova pratica di laboratorio stabilita dalla Commissione esaminatrice.
 
-1) disegno ed analisi dell'esperimento clinico;
+L'esame di diploma viene sostenuto davanti ad una Commissione di cinque membri, scelti tra i docenti della scuola, nominata dal preside della Facolta' di medicina e chirurgia su proposta del direttore della scuola. Ogni commissario ha a disposizione dieci punti.
 
-2) disegno ed analisi dell'inchiesta sanitaria.
+I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola; ma se al secondo esame non sia loro riconosciuta la idoneita', saranno senz'altro esclusi da ulteriori prove.
 
-Insegnamenti per l'orientamento clinico:
+Agli allievi che avranno superato l'esame finale viene rilasciato il diploma di tecnico di istituti medico-biologici.
 
-3) biometria umana;
+Art. 118. - Le tasse e soprattasse per la scuola sono le seguenti: tassa annuale di iscrizione: L. 15.000;
 
-4) programmazione e valutazione terapeutica;
+soprattassa annuale di esame: L. 5000.
 
-5) il dossier clinico;
+L'ammontare dei contributi delle esercitazioni pratiche e per le altre prestazioni di cui gli iscritti usufruiscono durante il corso di studi, e' fissata anno per anno dal Consiglio di amministrazione dell'Universita', su proposta del Senato accademico, udite la Facolta' e scuola.
 
-6) demografia ospedaliera;
-
-7) il sistema informativo sanitario.
-
-Insegnamenti per l'orientamento epidemiologico:
-
-3) metodologia epidemiologica applicata alla patologia infantile;
-
-4) metodologia epidemiologica applicata alla patologia infettiva;
-
-5) metodologia epidemiologica applicata alla patologia genetica;
-
-6) metodologia epidemiologica applicata alla patologia degenerativa;
-
-7) metodologia epidemiologica applicata alla patologia da lavoro;
-
-8) metodologia epidemiologica applicata alla patologia psichiatrica.
-
-Art. 176. - I corsi sono composti di lezioni teoriche e di esercitazioni pratiche sulle materie di cui all'art. 175 e si terranno presso l'istituto di biometria e statistica medica o in altre sedi a cura dello stesso istituto.
-
-Art. 177. - La frequenza alle lezioni e alle esercitazioni e' obbligatoria e condiziona l'ammissione degli allievi all'esame annuale di profitto. Continuando durante uno dei primi tre anni di corso gli allievi sono tenuti a svolgere un internato presso l'istituto di biometria e statistica medica secondo un piano deciso dal direttore della scuola.
-
-Art. 178. - Alla fine di ogni anno di corso gli specializzandi per poter ottenere l'ammissione all'anno successivo, dovranno superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno di corso.
-
-Art. 179. - Per essere ammesso all'esame finale di diploma l'allievo dovra' dimostrare di aver seguito regolarmente i corsi e superato gli esami di profitto dei tre anni di corso.
-
-L'esame di diploma consiste nella discussione orale di una dissertazione scritta su tema approvato in precedenza dal direttore della scuola corredata da dati originali.
-
-Il secondo comma dell'art. 210, relativo alla scuola di specializzazione in idrologia, climatologia e talassoterapia e' modificato nel senso che il numero degli iscritti da ammettere alla suddetta scuola e' stabilito in quindici per ogni anno di corso.
-
-L'art. 218, relativo alla scuola di specializzazione in medicina dello sport, viene abrogato e sostituito dal seguente:
-
-Scuola di specializzazione in medicina dello sport
-
-Art. 218. - La durata del corso di studi e' di tre anni. Il numero degli iscritti e' stabilito in venti per ciascun anno di corso (totale 60 iscritti).
-
-Il piano degli studi e' il seguente:
-
-1° Anno:
-
-anatomia dell'apparato locomotore;
-
-fisiologia dell'apparato locomotore;
-
-biochimica ed energetica muscolare;
-
-antropometria e auxologia;
-
-storia dell'educazione fisica e degli sports;
-
-psicologia applicata allo sport;
-
-sistematica dell'attivita' sportivo-agonistica e regolamenti sportivi.
-
-2° Anno:
-
-fisiologia dell'esercizio fisico;
-
-biomeccanica dell'esercizio fisico;
-
-traumatologia dello sport;
-
-metodologia dell'allenamento sportivo;
-
-fisiopatologia degli sports e semeiotica medicosportiva (biennale);
-
-scienza della nutrizione applicata all'attivita' sportiva;
-
-farmacologia e tossicologia del doping;
-
-igiene e medicina preventiva applicati all'attivita' sportiva. 3° Anno:
-
-fisiologia applicata allo sport;
-
-valutazione funzionale dello sportivo;
-
-rianimazione e pronto soccorso;
-
-medicina legale e infortunistica applicata allo sport;
-
-fisioterapia e rieducazione funzionale;
-
-fisiopatologia degli sports e semeiotica medicosportiva.
-
-Dopo l'art. 280, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione delle scuole di specializzazione in ortognatodonzia, diabetologia e malattie del ricambio, fisiopatologia e fisiochinesiterapia respiratoria, biochimica e chimica clinica, di cui all'art. 148.
-
-Scuola di specializzazione in ortognatodonzia
-
-Art. 281. - La scuola di specializzazione in ortognatodonzia ha sede presso la cattedra di clinica odontoiatrica II dell'Universita' di Milano.
-
-Art. 282. - Il corso degli studi per il conseguimento del diploma di specialista in ortognatodonzia ha la durata di due anni accademici.
-
-Art. 283. - Alla scuola possono iscriversi gli specialisti in odontoiatria e protesi dentaria. Il numero degli iscritti alla scuola e' fissato in dieci per anno di corso per un totale di venti iscritti. L'ammissione avviene previo concorso per titoli ed esami.
-
-Art. 284. - Le materie di insegnamento del corso sono le seguenti: 1° Anno:
-
-1) anatomia ed embriologia maxillo-facciale;
-
-2) istologia dentale e paradentale;
-
-3) fisiologia in ortognatodonzia (I anno) (biennale);
-
-4) ortodonzia (I anno) (biennale);
-
-5) genetica in ortognatodonzia;
-
-6) radiologia in ortognatodonzia;
-
-7) metallurgia e merceologia in ortognatodonzia;
-
-8) statistica applicata alla ricerca scientifica;
-
-9) semeiotica ortodontica.
-
-2° Anno:
-
-1) fisiologia in ortognatodonzia (II anno);
-
-2) ortodonzia (II anno);
-
-3) patologia stomatologica in ortodonzia;
-
-4) pediatria auxologica applicata;
-
-5) pedodonzia;
-
-6) otorinolaringoiatria applicata;
-
-7) fonoterapia.
-
-Art. 285. - La frequenza alle lezioni e alle esercitazioni e' obbligatoria per tutti gli iscritti.
-
-Art. 286. - Alla fine del primo anno di corso gli specializzandi, per poter ottenere l'ammissione all'anno successivo dovranno superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno in corso.
-
-Art. 287. - L'esame di diploma consiste nella discussione di una tesi scritta su un tema preventivamente approvato dal direttore della scuola.
-
-Art. 288. - Le norme per l'iscrizione, gli esami, le tasse, ecc., sono quelle generali per la scuola di specializzazione per l'Universita' di Milano.
-
-Scuola di specializzazione in diabetologia e malattie del ricambio
-
-Art. 289. - La scuola ha la durata di tre anni e la frequenza ai corsi e' obbligatoria.
-
-Le materie di insegnamento sono:
-
-1° Anno:
-
-anatomia e citomorfologia funzionali;
-
-elementi di genetica del, diabete e delle malattie del ricambio;
-
-metodi di analisi chimica e quantitativa;
-
-patologia molecolare;
-
-fisiopatologia clinica del diabete e delle malattie del ricambio;
-
-elementi di biometria e di statistica (complementare);
-
-auxologia e auxopatia metaboliche (complementare).
-
-2° Anno:
-
-patologia sperimentale metabolica;
-
-semeiotica fisica e funzionale del diabete e delle malattie del ricambio;
-
-clinica del diabete e delle malattie del ricambio (1);
-
-medicina sociale e preventiva del diabete e delle malattie del ricambio;
-
-neuropatologia del diabete e delle malattie del ricambio (complementare);
-
-fisiopatologia e clinica ostetrico-ginecologica del diabete e delle malattie del ricambio (complementare).
-
-3° Anno:
-
-clinica del diabete e delle malattie del ricambio;
-
-farmacologia del diabete e delle malattie del ricambio;
-
-dietologia del diabete e delle malattie del ricambio;
-
-elementi di psicologia nel diabete e nelle malattie del ricambio (complementare);
-
-terapia chirurgica nel diabete e nelle malattie del ricambio (complementare);
-
-oftalmologia nel diabete e nelle malattie del ricambio (complementare).
-
-I corsi saranno integrati da conferenze su argomenti specialistici e da esercitazioni pratiche cliniche e di laboratorio.
-
-Il numero degli specializzandi ammesso al primo anno e' fissato in dieci per un totale di trenta nel corso dei tre anni.
-
-Alla fine di ogni anno, per potersi iscrivere al successivo, gli allievi dovranno superare un esame di profitto comprensivo delle materie di insegnamento dell'anno stesso. Per l'ammissione all'esame e' necessario ottenere l'attestazione di frequenza. L'esame di diploma consistera' nella discussione di una dissertazione scritta su un tema approvato dal direttore della scuola stessa.
-
-Scuola di specializzazione in fisiopatologia e in fisiokinesiterapia respiratoria
-
-Art. 290. - La scuola di specializzazione in fisiopatologia e fisiokinesiterapia respiratoria ha la durata dei corsi di anni tre.
-
-Il piano di studi e' il seguente:
-
-1° Anno:
-
-1) anatomia funzionale dell'apparato respiratorio;
-
-2) fisiomeccanica della respirazione;
-
-3) le funzioni respiratorie ai vari livelli;
-
-4) le funzioni del circolo polmonare;
-
-5) attivita' non respiratorie del polmone;
-
-6) metodologia di indagine della funzionalita' respiratoria;
-
-7) i farmaci del respiro.
-
-2° Anno:
-
-1) inquadramento generale e diagnostico di patologia broncopolmonare;
-
-2) alterazioni funzionali respiratorie in patologia broncopolmonare;
-
-3) l'insufficienza respiratoria nei suoi aspetti ezio-patogenetici, clinici e terapeutici;
-
-4) fisiopatologia cardiocircolatoria nei broncopneumopatici;
-
-5) le alterazioni funzionari respiratorie nei vasculopatici e nei cardiopatici.
-
-3° Anno:
-
-1) terapia medica generale delle sindromi da disfunzione respiratoria;
-
-2) terapia strumentale dell'insufficienza respiratoria;
-
-3) metodologie di rieducazione funzionale respiratoria;
-
-4) la rieducazione respiratoria nelle broncopneumopatie invalidanti;
-
-5) terapia cardiologica e del circolo dei bronco pneumopatici cronici;
-
-6) terapia d'urgenza nelle sindromi disfunzionali respiratorie;
-
-7) prevenzione cura delle invalidita' respiratorie
-
-Art. 291. - Il numero degli iscritti per ogni anno e' dieci.
-
-Art. 292 - Esercitazioni, esami, diploma. - I corsi d'insegnamento sono integrati da turni obbligatori d'internato nei reparti di degenza, nei laboratori di ricerca, da esercitazioni pratiche e da conferenze; gli esami di profitto hanno luogo al termine di ogni anno di corso; per il conseguimento del diploma di specializzazione e' prescritta la presentazione e la discussione di una dissertazione scritta.
-
-Scuola di specializzazione in biochimica e chimica clinica
-
-Art. 293. - La scuola di specializzazione in biochimica e chimica clinica ha lo scopo di poter offrire una migliore qualificazione scientifica professionale a coloro che intendono dedicarsi alle discipline biochimiche con indirizzo medico-biologico.
-
-Art. 294. - Alla scuola, che ha la durata di tre anni, possono essere ammessi i laureati in medicina e chirurgia.
-
-Art. 295. - Il numero complessivo di specializzandi da ammettere alla scuola e' fissato in novanta allievi ripartiti in trenta allievi per anno.
-
-L'ammissione alla scuola avviene per titoli e per esami.
-
-Art. 296. - La direzione della scuola viene assunta da un professore di ruolo di chimica biologica o di materia affine. Il direttore della scuola puo' nominare un vicedirettore che lo coadiuvi ed un segretario.
-
-Art. 297. - Gli insegnamenti impartiti nei tre anni saranno i seguenti:
-
-INSEGNAMENTI FONDAMENTALI:
-
-1° Anno:
-
-1) biologia generale e speciale;
-
-2) biologia molecolare;
-
-3) biochimica analitica;
-
-4) biometria.
-
-2° Anno:
-
-1) chimica clinica;
-
-2) biochimica patologica;
-
-3) enzimologia clinica;
-
-4) biochimica dinamica.
-
-3° Anno:
-
-1) biochimica dei tessuti e degli organi;
-
-2) biochimica ormonale;
-
-3) biochimica farmacologica;
-
-4) tossicologia.
-
-INSEGNAMENTI COMPLEMENTARI:
-
-1) elementi di ematologia;
-
-2) complementi di istologia patologica;
-
-3) immunochimica;
-
-4) igiene applicata al laboratorio di analisi chimicocliniche;
-
-5) elementi di legislazione sanitaria;
-
-6) elementi di anatomia e fisiopatologia;
-
-7) immunochimica;
-
-8) biofisica applicata con elementi di elettronica;
-
-9) igiene applicata al laboratorio di analisi chimicocliniche;
-
-10) elementi di legislazione sanitaria.
-
-Art. 298. - Ogni materia di insegnamento e' anche materia d'esame il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo. Per ottenere il diploma di specializzazione in biochimica e chimica clinica gli allievi dovranno superare quindi tutte le materie e almeno tre materie complementari (una per anno). I laureati in medicina e chirurgia devono scegliere i tre insegnamenti complementari fra quelli indicati all'art. 297.
-
-Art. 299. - Alla fine dei tre anni gli allievi dovranno presentare una tesi scritta su tema concordato con il direttore della scuola e sostenere un esame di diploma. I candidati non riconosciuti idonei potranno ripresentarsi dopo un altro anno di frequenza alla scuola.
-
-A coloro che abbiano superato l'esame finale verra' rilasciato il diploma di specialista in biochimica e chimica clinica.
+La tassa di diploma e' fissata nella misura di L. 6000, ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 30 ottobre 1976
+Dato a Roma, addi' 27 luglio 1955
 
-LEONE
+GRONCHI
 
-MALFATTI
+ROSSI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: MORO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 30 dicembre 1976 Registro n. 105 Istruzione, foglio n. 307
+alla Corte dei conti, addi' 1 settembre 1955 Atti del Governo, registro n. 92, foglio n. 137. - CARLOMAGNO
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1632](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1632), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 22 maggio 1939, n. 1166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-22;1166), e modificato con [legge 1 giugno 1939, n. 872](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-01;872); con [regi decreti 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2056); [15 aprile 1942, n. 423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;423); [24 ottobre 1942, n. 1847; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1847) [27 luglio 1947, n. 1138 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-07-27;1138) [23 settembre 1949, n. 942](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;942); [21 novembre 1949, n. 1194](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-11-21;1194); [13 marzo 1950, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-03-13;283) [27 ottobre 1951, n. 1825](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1825); [23 aprile 1952, n. 873](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-04-23;873); [10 febbraio 1953, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;383); [13 febbraio 1954, n. 750](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-02-13;750); [14 settembre 1954 n. 1161](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1161); [16 febbraio 1955, n. 138](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-16;138); [27 gennaio 1955, n. 210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-01-27;210) e [21 giugno 1955, n. 560](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-06-21;560);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-L'art. 148, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che la scuola di specializzazione in biometria e statistica medica muta la denominazione in quella di scuola di specializzazione in statistica medica.   
-Nello stesso elenco sono inserite le seguenti scuole di specializzazione:   
-scuola di specializzazione in ortognatodonzia;   
-scuola di specializzazione in diabetologia e malattie del ricambio;   
-scuola di specializzazione in fisiopatologia e fisiochinesiterapia respiratoria;   
-scuola di specializzazione in biochimica e chimica clinica.   
-Gli articoli 172, 173, 174, 175, 176, 177, 178, 179, relativi alla scuola di specializzazione in biometria e statistica medica che muta la denominazione in quella di scuola di specializzazione in statistica medica sono abrogati e sostituiti dai seguenti:   
+Dopo l'art. 104 sono aggiunti i seguenti nuovi articoli, relativi all'istituzione della "Scuola per tecnici di istituti medico-biologici".  
   
-Scuola di specializzazione in statistica medica   
+SCUOLE DIRETTE A FINI SPECIALI  
+Scuola per tecnici di istituti medico-biologici  
   
-Art. 172. - La scuola e' articolata nei seguenti orientamenti:   
-a) clinico;   
-b) epidemiologico,   
-sulla base di materie di insegnamento comuni a tutti gli allievi e materie differenziate per i due orientamenti come specificato all'art. 175. La scuola rilascia 11 diploma di specialista in statistica medica con l'indicazione dell'orientamento prescelto.   
-Art. 173. - La durata del corso e' fissata in tre anni.   
-Il numero degli iscritti e' fissato ad un massimo di dieci per il primo anno, e per un totale complessivo di trenta specializzandi per i tre anni di corso.   
-Art. 174. - Alla scuola di specializzazione in statistica medica sono ammessi oltre i laureati in medicina e chirurgia anche i laureati in altre discipline (limitatamente all'orientamento epidemiologico) su motivato parere della direzione della scuola, previo accertamento diretto della loro idoneita'.   
-Art. 175. - Il piano di studi per la scuola di specializzazione in statistica medica e' il seguente:   
-1° Anno:   
-Insegnamenti comuni ai due orientamenti:   
-1) matematica generale (I);   
-2) metodologia statistica (I);   
-3) calcolo automatico;   
-4) metodologia demografica.   
-Insegnamenti per l'orientamento clinico:   
-5) l'evidenza clinica;   
-6) tassometria per la nosografia.   
-Insegnamenti per l'orientamento epidemiologico:   
-5) sociologia medica;   
-6) storia medica.   
-2° Anno:   
-Insegnamenti comuni ai due orientamenti:   
-1) matematica generale (II);   
-2) metodologia statistica (II);   
-3) informatica medica;   
-4) metodologia epidemiologica generale.   
-Insegnamenti per l'orientamento clinico:   
-5) il ragionamento diagnostico;   
-6) il riconoscimento automatico.   
-Insegnamenti per l'orientamento epidemiologico:   
-5) geografia medica;   
-6) econometria sanitaria.   
-3° Anno:   
-Insegnamenti comuni ai due orientamenti:   
-1) disegno ed analisi dell'esperimento clinico;   
-2) disegno ed analisi dell'inchiesta sanitaria.   
-Insegnamenti per l'orientamento clinico:   
-3) biometria umana;   
-4) programmazione e valutazione terapeutica;   
-5) il dossier clinico;   
-6) demografia ospedaliera;   
-7) il sistema informativo sanitario.   
-Insegnamenti per l'orientamento epidemiologico:   
-3) metodologia epidemiologica applicata alla patologia infantile;   
-4) metodologia epidemiologica applicata alla patologia infettiva;   
-5) metodologia epidemiologica applicata alla patologia genetica;   
-6) metodologia epidemiologica applicata alla patologia degenerativa;   
-7) metodologia epidemiologica applicata alla patologia da lavoro;   
-8) metodologia epidemiologica applicata alla patologia psichiatrica.   
-Art. 176. - I corsi sono composti di lezioni teoriche e di esercitazioni pratiche sulle materie di cui all'art. 175 e si terranno presso l'istituto di biometria e statistica medica o in altre sedi a cura dello stesso istituto.   
-Art. 177. - La frequenza alle lezioni e alle esercitazioni e' obbligatoria e condiziona l'ammissione degli allievi all'esame annuale di profitto. Continuando durante uno dei primi tre anni di corso gli allievi sono tenuti a svolgere un internato presso l'istituto di biometria e statistica medica secondo un piano deciso dal direttore della scuola.   
-Art. 178. - Alla fine di ogni anno di corso gli specializzandi per poter ottenere l'ammissione all'anno successivo, dovranno superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno di corso.   
-Art. 179. - Per essere ammesso all'esame finale di diploma l'allievo dovra' dimostrare di aver seguito regolarmente i corsi e superato gli esami di profitto dei tre anni di corso.   
-L'esame di diploma consiste nella discussione orale di una dissertazione scritta su tema approvato in precedenza dal direttore della scuola corredata da dati originali.   
-Il secondo comma dell'art. 210, relativo alla scuola di specializzazione in idrologia, climatologia e talassoterapia e' modificato nel senso che il numero degli iscritti da ammettere alla suddetta scuola e' stabilito in quindici per ogni anno di corso.   
-L'art. 218, relativo alla scuola di specializzazione in medicina dello sport, viene abrogato e sostituito dal seguente:   
-  
-Scuola di specializzazione in medicina dello sport   
-Art. 218. - La durata del corso di studi e' di tre anni. Il numero degli iscritti e' stabilito in venti per ciascun anno di corso (totale 60 iscritti).   
-Il piano degli studi e' il seguente:   
-1° Anno:   
-anatomia dell'apparato locomotore;   
-fisiologia dell'apparato locomotore;   
-biochimica ed energetica muscolare;   
-antropometria e auxologia;   
-storia dell'educazione fisica e degli sports;   
-psicologia applicata allo sport;   
-sistematica dell'attivita' sportivo-agonistica e regolamenti sportivi.   
-2° Anno:   
-fisiologia dell'esercizio fisico;   
-biomeccanica dell'esercizio fisico;   
-traumatologia dello sport;   
-metodologia dell'allenamento sportivo;   
-fisiopatologia degli sports e semeiotica medicosportiva (biennale);   
-scienza della nutrizione applicata all'attivita' sportiva;   
-farmacologia e tossicologia del doping;   
-igiene e medicina preventiva applicati all'attivita' sportiva. 3° Anno:   
-fisiologia applicata allo sport;   
-valutazione funzionale dello sportivo;   
-rianimazione e pronto soccorso;   
-medicina legale e infortunistica applicata allo sport;   
-fisioterapia e rieducazione funzionale;   
-fisiopatologia degli sports e semeiotica medicosportiva.   
-Dopo l'art. 280, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione delle scuole di specializzazione in ortognatodonzia, diabetologia e malattie del ricambio, fisiopatologia e fisiochinesiterapia respiratoria, biochimica e chimica clinica, di cui all'art. 148.   
-  
-Scuola di specializzazione in ortognatodonzia   
-  
-Art. 281. - La scuola di specializzazione in ortognatodonzia ha sede presso la cattedra di clinica odontoiatrica II dell'Universita' di Milano.   
-Art. 282. - Il corso degli studi per il conseguimento del diploma di specialista in ortognatodonzia ha la durata di due anni accademici.   
-Art. 283. - Alla scuola possono iscriversi gli specialisti in odontoiatria e protesi dentaria. Il numero degli iscritti alla scuola e' fissato in dieci per anno di corso per un totale di venti iscritti. L'ammissione avviene previo concorso per titoli ed esami.   
-Art. 284. - Le materie di insegnamento del corso sono le seguenti: 1° Anno:   
-1) anatomia ed embriologia maxillo-facciale;   
-2) istologia dentale e paradentale;   
-3) fisiologia in ortognatodonzia (I anno) (biennale);   
-4) ortodonzia (I anno) (biennale);   
-5) genetica in ortognatodonzia;   
-6) radiologia in ortognatodonzia;   
-7) metallurgia e merceologia in ortognatodonzia;   
-8) statistica applicata alla ricerca scientifica;   
-9) semeiotica ortodontica.   
-2° Anno:   
-1) fisiologia in ortognatodonzia (II anno);   
-2) ortodonzia (II anno);   
-3) patologia stomatologica in ortodonzia;   
-4) pediatria auxologica applicata;   
-5) pedodonzia;   
-6) otorinolaringoiatria applicata;   
-7) fonoterapia.   
-Art. 285. - La frequenza alle lezioni e alle esercitazioni e' obbligatoria per tutti gli iscritti.   
-Art. 286. - Alla fine del primo anno di corso gli specializzandi, per poter ottenere l'ammissione all'anno successivo dovranno superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno in corso.   
-Art. 287. - L'esame di diploma consiste nella discussione di una tesi scritta su un tema preventivamente approvato dal direttore della scuola.   
-Art. 288. - Le norme per l'iscrizione, gli esami, le tasse, ecc., sono quelle generali per la scuola di specializzazione per l'Universita' di Milano.   
-  
-Scuola di specializzazione in diabetologia e malattie del ricambio   
-Art. 289. - La scuola ha la durata di tre anni e la frequenza ai corsi e' obbligatoria.   
-Le materie di insegnamento sono:   
-1° Anno:   
-anatomia e citomorfologia funzionali;   
-elementi di genetica del, diabete e delle malattie del ricambio;   
-metodi di analisi chimica e quantitativa;   
-patologia molecolare;   
-fisiopatologia clinica del diabete e delle malattie del ricambio;   
-elementi di biometria e di statistica (complementare);   
-auxologia e auxopatia metaboliche (complementare).   
-2° Anno:   
-patologia sperimentale metabolica;   
-semeiotica fisica e funzionale del diabete e delle malattie del ricambio;   
-clinica del diabete e delle malattie del ricambio (1);   
-medicina sociale e preventiva del diabete e delle malattie del ricambio;   
-neuropatologia del diabete e delle malattie del ricambio (complementare);   
-fisiopatologia e clinica ostetrico-ginecologica del diabete e delle malattie del ricambio (complementare).   
-3° Anno:   
-clinica del diabete e delle malattie del ricambio;   
-farmacologia del diabete e delle malattie del ricambio;   
-dietologia del diabete e delle malattie del ricambio;   
-elementi di psicologia nel diabete e nelle malattie del ricambio (complementare);   
-terapia chirurgica nel diabete e nelle malattie del ricambio (complementare);   
-oftalmologia nel diabete e nelle malattie del ricambio (complementare).   
-I corsi saranno integrati da conferenze su argomenti specialistici e da esercitazioni pratiche cliniche e di laboratorio.   
-Il numero degli specializzandi ammesso al primo anno e' fissato in dieci per un totale di trenta nel corso dei tre anni.   
-Alla fine di ogni anno, per potersi iscrivere al successivo, gli allievi dovranno superare un esame di profitto comprensivo delle materie di insegnamento dell'anno stesso. Per l'ammissione all'esame e' necessario ottenere l'attestazione di frequenza. L'esame di diploma consistera' nella discussione di una dissertazione scritta su un tema approvato dal direttore della scuola stessa.   
-  
-Scuola di specializzazione in fisiopatologia e in fisiokinesiterapia respiratoria   
-  
-Art. 290. - La scuola di specializzazione in fisiopatologia e fisiokinesiterapia respiratoria ha la durata dei corsi di anni tre.   
-Il piano di studi e' il seguente:   
-1° Anno:   
-1) anatomia funzionale dell'apparato respiratorio;   
-2) fisiomeccanica della respirazione;   
-3) le funzioni respiratorie ai vari livelli;   
-4) le funzioni del circolo polmonare;   
-5) attivita' non respiratorie del polmone;   
-6) metodologia di indagine della funzionalita' respiratoria;   
-7) i farmaci del respiro.   
-2° Anno:   
-1) inquadramento generale e diagnostico di patologia broncopolmonare;   
-2) alterazioni funzionali respiratorie in patologia broncopolmonare;   
-3) l'insufficienza respiratoria nei suoi aspetti ezio-patogenetici, clinici e terapeutici;   
-4) fisiopatologia cardiocircolatoria nei broncopneumopatici;   
-5) le alterazioni funzionari respiratorie nei vasculopatici e nei cardiopatici.   
-3° Anno:   
-1) terapia medica generale delle sindromi da disfunzione respiratoria;   
-2) terapia strumentale dell'insufficienza respiratoria;   
-3) metodologie di rieducazione funzionale respiratoria;   
-4) la rieducazione respiratoria nelle broncopneumopatie invalidanti;   
-5) terapia cardiologica e del circolo dei bronco pneumopatici cronici;   
-6) terapia d'urgenza nelle sindromi disfunzionali respiratorie;  
-7) prevenzione cura delle invalidita' respiratorie   
-Art. 291. - Il numero degli iscritti per ogni anno e' dieci.   
-Art. 292 - Esercitazioni, esami, diploma. - I corsi d'insegnamento sono integrati da turni obbligatori d'internato nei reparti di degenza, nei laboratori di ricerca, da esercitazioni pratiche e da conferenze; gli esami di profitto hanno luogo al termine di ogni anno di corso; per il conseguimento del diploma di specializzazione e' prescritta la presentazione e la discussione di una dissertazione scritta.   
-  
-Scuola di specializzazione in biochimica e chimica clinica   
-  
-Art. 293. - La scuola di specializzazione in biochimica e chimica clinica ha lo scopo di poter offrire una migliore qualificazione scientifica professionale a coloro che intendono dedicarsi alle discipline biochimiche con indirizzo medico-biologico.   
-Art. 294. - Alla scuola, che ha la durata di tre anni, possono essere ammessi i laureati in medicina e chirurgia.   
-Art. 295. - Il numero complessivo di specializzandi da ammettere alla scuola e' fissato in novanta allievi ripartiti in trenta allievi per anno.   
-L'ammissione alla scuola avviene per titoli e per esami.   
-Art. 296. - La direzione della scuola viene assunta da un professore di ruolo di chimica biologica o di materia affine. Il direttore della scuola puo' nominare un vicedirettore che lo coadiuvi ed un segretario.   
-Art. 297. - Gli insegnamenti impartiti nei tre anni saranno i seguenti:   
-INSEGNAMENTI FONDAMENTALI:   
-1° Anno:   
-1) biologia generale e speciale;   
-2) biologia molecolare;   
-3) biochimica analitica;   
-4) biometria.   
-2° Anno:   
-1) chimica clinica;   
-2) biochimica patologica;   
-3) enzimologia clinica;   
-4) biochimica dinamica.   
-3° Anno:   
-1) biochimica dei tessuti e degli organi;   
-2) biochimica ormonale;   
-3) biochimica farmacologica;   
-4) tossicologia.   
-INSEGNAMENTI COMPLEMENTARI:   
-1) elementi di ematologia;   
-2) complementi di istologia patologica;   
-3) immunochimica;   
-4) igiene applicata al laboratorio di analisi chimicocliniche;   
-5) elementi di legislazione sanitaria;   
-6) elementi di anatomia e fisiopatologia;   
-7) immunochimica;   
-8) biofisica applicata con elementi di elettronica;   
-9) igiene applicata al laboratorio di analisi chimicocliniche;   
-10) elementi di legislazione sanitaria.   
-Art. 298. - Ogni materia di insegnamento e' anche materia d'esame il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo. Per ottenere il diploma di specializzazione in biochimica e chimica clinica gli allievi dovranno superare quindi tutte le materie e almeno tre materie complementari (una per anno). I laureati in medicina e chirurgia devono scegliere i tre insegnamenti complementari fra quelli indicati all'art. 297.   
-Art. 299. - Alla fine dei tre anni gli allievi dovranno presentare una tesi scritta su tema concordato con il direttore della scuola e sostenere un esame di diploma. I candidati non riconosciuti idonei potranno ripresentarsi dopo un altro anno di frequenza alla scuola.   
-A coloro che abbiano superato l'esame finale verra' rilasciato il diploma di specialista in biochimica e chimica clinica.   
+Art. 105. - E' istituita, ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20), una scuola per tecnici di istituti medico-biologici, che ha lo scopo di preparare adeguatamente personale tecnico che sia in grado di collaborare attivamente con lo studioso e col ricercatore nell'indagine scientifica sperimentale.  
+Art. 106. - La durata del corso degli studi della scuola per tecnici di istituti medico-biologici e' di due anni.  
+E' titolo di ammissione il diploma di maturita' classica, il diploma di maturita' scientifica, il diploma di abilitazione magistrale.  
+Art. 107 - Chi aspira ad ottenere l'iscrizione al 1° anno dei corsi della scuola dovra' sostenere un esame di ammissione per un numero di posti determinato, anno per anno, con decreto del rettore udito il Consiglio della scuola.  
+Art. 108. - L'esame di ammissione consiste in una prova orale di cultura generale, innanzi ad una Commissione composta dal preside della Facolta' di medicina e chirurgia, dal direttore della scuola e da un terzo membro designato dal rettore dell'Universita' e in una prova orale di conoscenza di una lingua straniera moderna scelta tra l'inglese, il francese e il tedesco.  
+L'esame di ammissione avra' luogo entro la prima quindicina del mese di novembre di ciascun anno nel giorno che sara' stabilito dal rettore con apposito manifesto.  
+Art. 109. - L'anno accademico ha inizio il 1 dicembre e termina il 30 giugno di ogni anno.  
+La domanda di iscrizione deve essere corredata dai seguenti documenti:  
+1) certificato di nascita in carta legale debitamente legalizzato per i nati fuori della giurisdizione di Milano;  
+2) titolo di studi medi superiori in originale;  
+3) tre fotografie di cui una autenticata;  
+4) quietanza del pagamento delle tasse;  
+5) foglio di iscrizione al corso su modulo rilasciato dall'economato dell'Universita'.  
+Art. 110. - Il direttore della scuola viene nominato dal rettore su designazione del Consiglio della Facolta' di medicina e chirurgia tra i docenti della scuola.  
+Il Consiglio della scuola si compone di tutti i professori designati a tenere i corsi prescritti ed e' presieduto dal preside della Facolta' di medicina e chirurgia.  
+Gli insegnanti della scuola sono proposti dal Consiglio della Facolta' di medicina e chirurgia e nominati dal rettore. Essi possono essere scelti tra i professori ufficiali, tra i liberi docenti, tra gli aiuti ed assistenti della Facolta' di medicina e chirurgia o di altra Facolta' dell'Ateneo o tra persone di riconosciuta competenza anche fuori dell'ambito universitario.  
+Art. 111. - Le materie di insegnamento sono le seguenti:  
+1° anno:  
+Organizzazioni di laboratori;  
+Anatomia;  
+Microbiologia;  
+Istologia normale;  
+Fisiologia;  
+Chimica (I).  
+2° anno:  
+Istologia patologica;  
+Chimica (II);  
+Farmacologia;  
+Tecnica di laboratorio.  
+Sono inoltre prescritte esercitazioni pratiche presso i vari istituti prescelti dalla direzione della scuola, il cui numero verra' stabilito dal direttore della scuola stessa.  
+Alla fine del corso gli allievi dovranno aver superato una prova attestante la conoscenza di una lingua straniera scelta fra il francese, l'inglese e il tedesco, diversa pero' da quella che e' stata oggetto per l'ammissione alla scuola.  
+Art. 112. - I programmi di insegnamento vengono predisposti anno per anno dal Consiglio della scuola e sottoposti all'approvazione della Facolta' di medicina e chirurgia. Il Consiglio stabilisce pure l'orario delle lezioni e dei turni di tirocinio pratico.  
+La sorveglianza degli iscritti, per quanto riguarda la loro attivita', spetta al direttore della scuola. La frequenza ai singoli insegnamenti deve essere attestata dai rispettivi insegnanti e notificata al direttore della scuola.  
+Art. 113. - Per essere ammessi a frequentare il secondo corso, gli allievi debbono aver superato tutti gli esami del primo corso. Nel caso in cui gli allievi non abbiano superato gli esami prescritti, essi rimarranno nella posizione di fuori corso, fino a quando non avranno assolto tutti gli obblighi di cui sopra.  
+Art. 114. - Durante il secondo corso gli allievi hanno l'obbligo di effettuare un internato della durata di quattro mesi presso l'istituto dove si svolge la materia che sara' oggetto della dissertazione finale di diploma.  
+Art. 115. - Per essere ammessi a sostenere l'esame di diploma, gli allievi dovranno aver seguito i corsi, superato gli esami in tutti gli insegnamenti prescritti ed aver compiuto con esito favorevole tutte le esercitazioni pratiche previste.  
+Art. 116. - Le Commissioni per gli esami di profitto sono nominate dal preside della Facolta' di medicina e chirurgia, su proposta del direttore della scuola.  
+Le Commissioni sono composte di tre membri: dal professore ufficiale della materia, presidente; da un professore ufficiale di materia affine e da un libero docente o cultore della materia. Ogni commissario ha a disposizione dieci punti.  
+Art. 117. - L'esame di diploma consiste in una discussione sopra una dissertazione scritta su tema preventivamente assegnato dal direttore della scuola o da uno degli insegnanti con l'adesione del direttore, e in una prova pratica di laboratorio stabilita dalla Commissione esaminatrice.  
+L'esame di diploma viene sostenuto davanti ad una Commissione di cinque membri, scelti tra i docenti della scuola, nominata dal preside della Facolta' di medicina e chirurgia su proposta del direttore della scuola. Ogni commissario ha a disposizione dieci punti.  
+I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola; ma se al secondo esame non sia loro riconosciuta la idoneita', saranno senz'altro esclusi da ulteriori prove.  
+Agli allievi che avranno superato l'esame finale viene rilasciato il diploma di tecnico di istituti medico-biologici.  
+Art. 118. - Le tasse e soprattasse per la scuola sono le seguenti: tassa annuale di iscrizione: L. 15.000;  
+soprattassa annuale di esame: L. 5000.  
+L'ammontare dei contributi delle esercitazioni pratiche e per le altre prestazioni di cui gli iscritti usufruiscono durante il corso di studi, e' fissata anno per anno dal Consiglio di amministrazione dell'Universita', su proposta del Senato accademico, udite la Facolta' e scuola.  
+La tassa di diploma e' fissata nella misura di L. 6000, ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1976
+### Dato a Roma, addi' 27 luglio 1955
 
-LEONE MALFATTI
+GRONCHI ROSSI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: MORO
 
-Registrato alla Corte dei conti, addi' 30 dicembre 1976
+Registrato alla Corte dei conti, addi' 1 settembre 1955
 
-Registro n. 105 Istruzione, foglio n. 307
+Atti del Governo, registro n. 92, foglio n. 137. - CARLOMAGNO

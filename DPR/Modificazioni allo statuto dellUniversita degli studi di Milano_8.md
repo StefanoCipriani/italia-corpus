@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1095
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 926
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1095
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 926
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni:
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,314 +18,142 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+
+Sentito il parere del Consiglio universitario nazionale;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
 Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Gli articoli 190, 191, 192, 193, 194, 195, 196 e 197, relativi alla scuola di specializzazione in chirurgia d'urgenza e pronto soccorso, sono soppressi e sostituiti dai seguenti:
+Articolo unico
+--------------
 
-Scuola di specializzazione in chirurgia d'urgenza e pronto soccorso
-
-Art. 190. - La scuola di specializzazione in chirurgia d'urgenza e di pronto soccorso ha sede presso l'istituto di chirurgia d'urgenza dell'Universita' di Milano.
-
-Art. 191. - Il corso di studi per il conseguimento del diploma di specialista in chirurgia d'urgenza e di pronto soccorso ha la durata di cinque anni accademici.
-
-Art. 192. - Alla scuola possono iscriversi i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente. Il numero massimo degli iscritti e' di venticinque (25) per anno di corso. Non sono ammesse abbreviazioni di corso. L'ammissione al corso avviene per titoli ed esami.
-
-Art. 193. - La frequenza alle lezioni, esercitazioni e seminari e' obbligatoria per tutti gli iscritti. L'internato e' obbligatorio durante tutti i cinque anni di corso sotto forma di permanenza costante in istituto durante le ore della sua attivita'.
-
-Art. 194. - Le materie di insegnamento sono le seguenti:
-
-clinica chirurgica generale d'urgenza e di pronto soccorso;
-
-patologia chirurgica;
-
-anatomia chirurgica;
-
-semeiotica;
-
-anestesiologia;
-
-ricerche di laboratorio;
-
-anatomia patologica;
-
-endoscopia;
-
-fisiopatologia chirurgica;
-
-chirurgia sperimentale;
-
-trattamento pre e post-operatorio in chirurgia d'urgenza;
-
-rianimazione;
-
-chirurgia vascolare d'urgenza;
-
-traumatologia dell'apparato locomotore;
-
-neurotraumatologia;
-
-terapia intensiva;
-
-radiologia;
-
-chirurgia ginecologica d'urgenza;
-
-chirurgia pediatrica d'urgenza;
-
-chirurgia plastica e riparatrice;
-
-chirurgia toracica d'urgenza;
-
-cardiochirurgia d'urgenza;
-
-angioradiologia;
-
-chirurgia urologica d'urgenza;
-
-traumatologia maxillo-facciale;
-
-trattamento del politraumatizzato;
-
-medicina legale.
-
-Art. 195. - Le materie di insegnamento sono cosi' ripartite:
-
-1° Anno:
-
-1) clinica chirurgica generale d'urgenza e di pronto soccorso I;
-
-2) patologia chirurgica I;
-
-3) anatomia chirurgica;
-
-4) semeiotica I;
-
-5) anestesiologia;
-
-6) ricerche di laboratorio;
-
-7) chirurgia sperimentale.
-
-2° Anno:
-
-8) clinica chirurgica generale d'urgenza e di pronto soccorso II;
-
-9) patologia chirurgica II;
-
-10) anatomia patologica;
-
-11) endoscopia;
-
-12) fisiopatologia chirurgica I;
-
-13) semeiotica II;
-
-14) trattamento pre e post-operatorio in chirurgia d'urgenza;
-
-15) rianimazione.
-
-3° Anno:
-
-16) clinica chirurgica generale d'urgenza e di pronto soccorso III;
-
-17) patologia chirurgica III;
-
-18) chirurgia vascolare d'urgenza;
-
-19) traumatologia dell'apparato locomotore I;
-
-20) neurotraumatologia I;
-
-21) fisiopatologia chirurgica II;
-
-22) terapia intensiva I;
-
-23) radiologia.
-
-4° Anno:
-
-24) clinica chirurgica generale d'urgenza e di pronto soccorso IV;
-
-25) chirurgia ginecologica d'urgenza;
-
-26) chirurgia pediatrica d'urgenza;
-
-27) chirurgia plastica e riparatrice I;
-
-28) traumatologia dell'apparato locomotore II;
-
-29) neurotraumatologia II;
-
-30) chirurgia toracica d'urgenza I;
-
-31) terapia intensiva II.
-
-5° Anno:
-
-32) clinica chirurgica generale d'urgenza e di pronto soccorso V;
-
-33) chirurgia plastica e riparatrice II;
-
-34) chirurgia toracica d'urgenza II;
-
-35) cardiochirurgia d'urgenza;
-
-36) chirurgia urologica d'urgenza;
-
-37) angioradiologia;
-
-38) traumatologia maxillo-facciale;
-
-39) trattamento del politraumatizzato;
-
-40) medicina legale.
-
-Art. 196. - Alla fine di ogni anno gli specializzandi per poter ottenere l'ammissione all'anno successivo dovranno superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno di corso; per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
-
-Art. 197. - L'esame di diploma consiste nella discussione di una tesi su un tema preventivamente approvato dal direttore della scuola.
-
-Il direttore della scuola e' il professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, il professore di ruolo o fuori ruolo di materia affine.
-
-Le norme per l'iscrizione, gli esami, le tasse, ecc., sono quelle generali per le scuole di specializzazione dell'Universita' di Milano.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 31 ottobre 1978
-
-PERTINI
-
-PEDINI
-
-Visto, il Guardasigilli: BONIFACIO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 28 agosto 1979 Registro n. 66 Istruzione, foglio n. 89
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Dopo l'art. 195, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in cardiologia (seconda scuola):  
   
-Decreta:   
+Scuola di specializzazione in cardiologia (seconda scuola)  
   
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Gli articoli 190, 191, 192, 193, 194, 195, 196 e 197, relativi alla scuola di specializzazione in chirurgia d'urgenza e pronto soccorso, sono soppressi e sostituiti dai seguenti:   
+Art. 196. - E' istituita la seconda scuola di specializzazione in cardiologia presso l'Universita' degli studi di Milano.  
+La scuola ha lo scopo di insegnare e di approfondire gli studi nel campo della cardiologia e di fornire le competenze professionali necessarie per il conseguimento del diploma che legittima l'assunzione della qualifica di specialista in cardiologia.  
+La scuola rilascia il titolo di specialista in cardiologia.  
+Art. 197. - La scuola ha la durata di quattro anni.  
+Ciascun anno di corso prevede ottocento ore di insegnamento e di attivita' pratiche guidate.  
+In base alle strutture ed attrezzature disponibili, la scuola e' in grado di accettare il numero massimo di iscritti determinato in otto per ciascun anno di corso, per un totale di trentadue specializzandi.  
+Art. 198. - Per l'attuazione delle attivita' didattiche programmate dal consiglio della scuola provvede la facolta' di medicina e chirurgia.  
+Art. 199. - Sono ammessi alle prove per ottenere l'iscrizione i laureati in medicina e chirurgia.  
+Per l'iscrizione alla scuola e' richiesto il possesso del diploma di abilitazione all'esercizio professionale.  
+Art. 200. - La scuola comprende dieci aree di insegnamento e tirocinio professionale:  
+a) strutture e metabolismo del cuore e dei vasi;  
+b) fisiologia dell'apparato cardiovascolare;  
+c) fisiopatologia cardiorespiratoria;  
+d) medicina interna generale;  
+e) semeiotica generale cardiovascolare;  
+f) informatica medica e strumentazione biomedica;  
+g) metodologie diagnostiche non invasive;  
+h) metodologie diagnostiche invasive e cardiochirurgia;  
+i) patologia e clinica cardiovascolare;  
+l) farmacologia e terapia cardiovascolare.  
+Art. 201. - Gli insegnamenti relativi a ciascuna area didattica e formativa professionale sono i seguenti:  
+a) struttura e metabolismo del cuore e dei vasi:  
+anatomia umana normale ed embriologia dell'apparato cardiovascolare;  
+biochimica;  
+biofisica.  
+b) fisiologia dell'apparato cardiovascolare:  
+fisiologia dell'apparato cardiovascolare I;  
+fisiologia dell'apparato cardiovascolare II.  
+c) fisiopatologia cardiorespiratoria:  
+fisiopatologia cardiorespiratoria I;  
+fisiopatologia cardiorespiratoria II.  
+d) medicina interna generale:  
+fondamenti di semeiotica medica;  
+rapporti tra patologia dei vari apparati e patologia cardiovascolare.  
+e) semeiotica generale cardiovascolare:  
+semeiotica del ricambio idrosalino;  
+semeiotica fisica cardiovascolare I;  
+semeiotica fisica cardiovascolare II.  
+f) informatica medica e strumentazione biomedica:  
+informatica medica e strumentazione biomedica I;  
+informatica medica e strumentazione biomedica II.  
+g) metodologie diagnostiche non invasive:  
+indagini diagnostiche non invasive I (elettrocardiografia e vettocardiografia, fonocardiografia e poligrafia);  
+indagini diagnostiche non invasive II (semeiotica funzionale vascolare periferica, ergometria);  
+indagini diagnostiche non invasive III (elettrocardiografia dinamica, ecocardiografia, radiologia non contrastografica, TAC, risonanza magnetica nucleare (RMN), metodiche radioisotopiche).  
+h) metodologie diagnostiche invasive e cardiochirurgia:  
+indagini diagnostiche invasive I (emodinamica, elettrofisiologia);  
+indagini diagnostiche invasive II (radiologia contrastografica);  
+cardiochirurgia.  
+i) patologia e clinica cardiovascolare:  
+anatomia patologica I;  
+anatomia patologica II;  
+patologia e clinica cardiovascolare I;  
+patologia e clinica cardiovascolare II;  
+patologia e clinica cardiovascolare III.  
+l) farmacologia e terapia cardiovascolare:  
+farmacologia cardiovascolare;  
+farmacologia e terapia cardiovascolare;  
+terapie intensive cardiologiche.  
+Art. 202. - L'attivita' didattica comprende ogni anno ottocento ore di didattica formale e di tirocinio professionale guidato. Essa e' organizzata in una attivita' didattica teorico-pratica comune per tutti gli studenti (quattrocento ore come di seguito ripartite) ed in una attivita' didattica elettiva, prevalentemente di carattere tecnico-applicativo di ulteriori quattrocento ore, rivolta all'apprendimento del curriculum corrispondente ad uno dei settori formativo-professionali (monte ore elettivo).  
   
-Scuola di specializzazione in chirurgia d'urgenza e pronto soccorso   
-Art. 190. - La scuola di specializzazione in chirurgia d'urgenza e di pronto soccorso ha sede presso l'istituto di chirurgia d'urgenza dell'Universita' di Milano.   
-Art. 191. - Il corso di studi per il conseguimento del diploma di specialista in chirurgia d'urgenza e di pronto soccorso ha la durata di cinque anni accademici.   
-Art. 192. - Alla scuola possono iscriversi i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente. Il numero massimo degli iscritti e' di venticinque (25) per anno di corso. Non sono ammesse abbreviazioni di corso. L'ammissione al corso avviene per titoli ed esami.   
-Art. 193. - La frequenza alle lezioni, esercitazioni e seminari e' obbligatoria per tutti gli iscritti. L'internato e' obbligatorio durante tutti i cinque anni di corso sotto forma di permanenza costante in istituto durante le ore della sua attivita'.   
-Art. 194. - Le materie di insegnamento sono le seguenti:   
-clinica chirurgica generale d'urgenza e di pronto soccorso;   
-patologia chirurgica;   
-anatomia chirurgica;   
-semeiotica;   
-anestesiologia;   
-ricerche di laboratorio;   
-anatomia patologica;   
-endoscopia;   
-fisiopatologia chirurgica;   
-chirurgia sperimentale;   
-trattamento pre e post-operatorio in chirurgia d'urgenza;   
-rianimazione;   
-chirurgia vascolare d'urgenza;   
-traumatologia dell'apparato locomotore;   
-neurotraumatologia;   
-terapia intensiva;   
-radiologia;   
-chirurgia ginecologica d'urgenza;   
-chirurgia pediatrica d'urgenza;   
-chirurgia plastica e riparatrice;   
-chirurgia toracica d'urgenza;   
-cardiochirurgia d'urgenza;   
-angioradiologia;   
-chirurgia urologica d'urgenza;   
-traumatologia maxillo-facciale;   
-trattamento del politraumatizzato;   
-medicina legale.   
-Art. 195. - Le materie di insegnamento sono cosi' ripartite:   
-1° Anno:   
-1) clinica chirurgica generale d'urgenza e di pronto soccorso I;   
-2) patologia chirurgica I;   
-3) anatomia chirurgica;   
-4) semeiotica I;   
-5) anestesiologia;   
-6) ricerche di laboratorio;   
-7) chirurgia sperimentale.   
-2° Anno:   
-8) clinica chirurgica generale d'urgenza e di pronto soccorso II;   
-9) patologia chirurgica II;   
-10) anatomia patologica;   
-11) endoscopia;   
-12) fisiopatologia chirurgica I;   
-13) semeiotica II;   
-14) trattamento pre e post-operatorio in chirurgia d'urgenza;   
-15) rianimazione.   
-3° Anno:   
-16) clinica chirurgica generale d'urgenza e di pronto soccorso III;   
-17) patologia chirurgica III;   
-18) chirurgia vascolare d'urgenza;   
-19) traumatologia dell'apparato locomotore I;   
-20) neurotraumatologia I;   
-21) fisiopatologia chirurgica II;   
-22) terapia intensiva I;   
-23) radiologia.   
-4° Anno:   
-24) clinica chirurgica generale d'urgenza e di pronto soccorso IV;   
-25) chirurgia ginecologica d'urgenza;   
-26) chirurgia pediatrica d'urgenza;   
-27) chirurgia plastica e riparatrice I;   
-28) traumatologia dell'apparato locomotore II;   
-29) neurotraumatologia II;   
-30) chirurgia toracica d'urgenza I;   
-31) terapia intensiva II.   
-5° Anno:   
-32) clinica chirurgica generale d'urgenza e di pronto soccorso V;   
-33) chirurgia plastica e riparatrice II;   
-34) chirurgia toracica d'urgenza II;   
-35) cardiochirurgia d'urgenza;   
-36) chirurgia urologica d'urgenza;   
-37) angioradiologia;   
-38) traumatologia maxillo-facciale;   
-39) trattamento del politraumatizzato;   
-40) medicina legale.   
-Art. 196. - Alla fine di ogni anno gli specializzandi per poter ottenere l'ammissione all'anno successivo dovranno superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno di corso; per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.   
-Art. 197. - L'esame di diploma consiste nella discussione di una tesi su un tema preventivamente approvato dal direttore della scuola.   
-Il direttore della scuola e' il professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, il professore di ruolo o fuori ruolo di materia affine.   
-Le norme per l'iscrizione, gli esami, le tasse, ecc., sono quelle generali per le scuole di specializzazione dell'Universita' di Milano.   
+La frequenza nelle diverse aree avviene pertanto come di seguito specificato:  
+  
+1° Anno:  
+strutture e metabolismo del cuore e dei vasi. . . . . (ore 50): anatomia umana normale ed embriologia dell'apparato cardiovascolare. . . . . . . . . . . . . . . . . . . . . . . . ore 20 biochimica e biofisica. . . . . . . . . . . . . . . . ore 30. fisiologia dell'apparato cardiovascolare. . . . . . . (ore 50): fisiologia dell'apparato cardiovascolare I. . . . . . ore 50. fisiopatologia cardiorespiratoria. . . . . . . . . . (ore 100): fisiopatologia cardiorespiratoria I. . . . . . . . . ore 100. medicina interna generale. . . . . . . . . . . . . . (ore 100): fondamenti di semeiotica medica. . . . . . . . . . . . ore 50 rapporti fra patologia di vari apparati e patologia cardiovascolare . . . . . . . . . . . . . . . . . . . . . . . ore 50. semeiotica generale cardiovascolare . . . . . . . . . (ore 50): semeiotica del ricambio idrosalino. . . . . . . . . . ore 50. informatica medica e strumentazione biomedica . . . . (ore 50): informatica medica e strumentazione biomedica I . . . ore 50.  
+Monte ore elettivo . . . . . . . . . . . . . . . . . . ore 400.   
+2° Anno:  
+fisiologia dell'apparato cardiovascolare. . . . . . . (ore 50): fisiologia dell'apparato cardiovascolare II . . . . . ore 50. fisiopatologia cardiorespiratoria . . . . . . . . . . (ore 50): fisiopatologia cardiorespiratoria II. . . . . . . . . ore 50. semeiotica generale cardiovascolare . . . . . . . . . (ore 50): semeiotica fisica cardiovascolare II. . . . . . . . . ore 50. informatica medica e strumentazione biomedica . . . . (ore 50): informatica medica e strumentazione biomedica II. . . ore 50. metodologie diagnostiche non invasive . . . . . . . . (ore 50): indagini diagnostiche non invasive I. . . . . . . . . ore 50. metodologie diagnostiche invasive e cardiochirurgia . (ore 50): indagini diagnostiche invasive I. . . . . . . . . . . ore 50. patologia clinica cardiovascolare . . . . . . . . . . (ore 50): anatomia patologica I. . . . . . . . . . . . . . . . . ore 20 patologia e clinica cardiovascolare I . . . . . . . . ore 30. farmacologia e terapia cardiovascolare. . . . . . . . (ore 50): farmacologia cardiovascolare. . . . . . . . . . . . . ore 50.  
+Monte ore elettivo . . . . . . . . . . . . . . . . . . ore 400.   
+3° Anno:  
+semeiotica generale e cardiovascolare (ore 50):  
+semeiotica fisica cardiovascolare II. . . . . . . . . ore 50. metodologie diagnostiche non invasive. . . . . . . . (ore 100); indagini diagnostiche non invasive II. . . . . . . . . ore 100. metodologie diagnostiche invasive e cardiochirurgia . . (ore 50): indagini diagnostiche invasive II . . . . . . . . . . . ore 50. patologia e clinica cardiovascolare. . . . . . . . . . (ore 100): anatomia patologica II . . . . . . . . . . . . . . . . . ore 20 patologia e clinica cardiovascolare II. . . . . . . . . ore 80. farmacologia e terapia cardiovascolare . . . . . . . . (ore 100): farmacologia e terapia cardiovascolare . . . . . . . . ore 100.  
+Monte ore elettivo . . . . . . . . . . . . . . . . . . . ore 400.   
+4° Anno:  
+metodologie diagnostiche non invasive. . . . . . . . . (ore 100): indagini diagnostiche non invasive III . . . . . . . . ore 100. metodologie diagnostiche invasive e cardiochirurgia. . (ore 100):  
+cardiochirurgia. . . . . . . . . . . . . . . . . . . . ore 100. patologia clinica cardiovascolare. . . . . . . . . . . (ore 100): patologia e clinica cardiovascolare III. . . . . . . . ore 100. farmacologia e terapia cardiovascolare . . . . . . . . (ore 100): terapie intensive cardiologiche. . . . . . . . . . . . ore 100.  
+Monte ore elettivo . . . . . . . . . . . . . . . . . . . ore 400.  
+  
+Art. 203. - Durante i quattro anni di corso e' richiesta la frequenza ai fini dell'apprendimento nei seguenti reparti/divisioni/ambulatori/laboratori:  
+reparti clinici di degenza;  
+ambulatori di cardiologia;  
+ambulatori di ipertensione;  
+reparti di cura intensiva e semintensiva coronarica;  
+laboratori di informatica;  
+laboratori di analisi radioimmunologica;  
+laboratori di diagnostica delle arteriopatie periferiche;  
+laboratori di cardiologia e ipertensione sperimentale;  
+laboratori di emodinamica cardiaca non invasiva e invasiva;  
+laboratorio di radiodiagnostica cardiovascolare e coronarica;  
+laboratorio di indagine dei sistemi di controllo nervoso ed umorale del circolo sanguigno;  
+laboratorio di elettrofisiologia sperimentale;  
+laboratorio di elettrofisiologia clinica ed elettrocardiografia dinamica;  
+laboratorio di monitoraggio in continuo della pressione arteriosa;  
+laboratori di farmacologia clinica.  
+La frequenza nelle varie aree per complessive ottocento ore annue, compreso il monte ore elettivo di quattrocento annue, avverra' secondo delibera del consiglio della scuola, tale da assicurare ad ogni specializzando un adeguato periodo di esperienza e di formazione professionale. Il consiglio della scuola ripartira' annualmente il monte ore elettivo.  
+Il consiglio della scuola predispone apposito libretto di formazione che consenta allo specializzando ed al consiglio stesso il controllo della attivita' svolta e dell'acquisizione dei progressi compiuti, per sostenere gli esami annuali e finali.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1978
+### Dato a Roma, addi' 31 ottobre 1985
 
-PERTINI PEDINI
+COSSIGA
 
-Visto, il Guardasigilli: BONIFACIO
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 28 agosto 1979
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registro n. 66 Istruzione, foglio n. 89
+Registrato alla Corte dei conti, addi' 14 febbraio 1986
+
+Registro n. 9 Istruzione, foglio n. 120

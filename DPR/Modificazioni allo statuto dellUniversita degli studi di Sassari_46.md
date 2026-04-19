@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 marzo 1981 n. 481
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1227
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 marzo 1981 n. 481
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1227
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Sassari.
 -------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Sassari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084), e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,41 +20,45 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Sassari e convalidati dal Consiglio universitario nazionale nel suo parere;
+Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Sentito il parere del Consiglio universitario nazionale;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
+
+Veduto il parere del Consiglio universitario nazionale;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 --------
 
-Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Art. 1
+------
 
   
+Nell'art. 32, relativo al corso di laurea in materie letterarie, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
+archeologia delle province romane.  
+
+Art. 2
+------
+
   
-Dopo l'art. 29, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione di un seminario sull'America latina presso le facolta' di giurisprudenza e di magistero.   
-Art. 30. - Il seminario di studi latino-americani, costituito ai sensi dell'art. 23 del regolamento generale universitario, raggruppa e coordina, secondo criteri di interdisciplinarieta', gli insegnamenti relativi alla ricerca scientifica sulla realta' dell'America latina.   
-Art. 31. - Al seminario appartengono i professori di storia americana della facolta' di giurisprudenza, e di letteratura ispano-americana della facolta' di magistero. Al seminario appartengono inoltre i professori dell'Universita' di Sassari la cui attivita' didattica o di ricerca scientifica, in tutto o in parte, abbia regolarmente per oggetto la realta' latino-americana; essi vengono nominati dal rettore su parere degli appartenenti al seminario.   
-I professori appartenenti al seminario eleggono un direttore che dura in carica 3 anni ed e' rieleggibile.   
-Art. 32. - Possono essere ammessi al seminario studenti dell'Universita' degli studi di Sassari ed altri studiosi, secondo le norme contenute nel regolamento interno.   
-Art. 33. - A coloro che abbiano frequentato il seminario per almeno un anno viene rilasciato un certificato degli studi compiuti, sottoscritto dal direttore e firmato dal rettore.   
+Nell'art. 33, relativo al corso di laurea in pedagogia, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
+sociologia della famiglia e dell'educazione.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 marzo 1981
+### Dato a Roma, addi' 28 ottobre 1983
 
-PERTINI BODRATO
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 30 luglio 1981
+Registrato alla Corte dei conti, addi' 28 aprile 1984
 
-Registro n. 73 Istruzione, foglio n. 307
+Registro n. 25 Istruzione, foglio n. 221

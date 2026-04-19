@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 novembre 1974 n. 799
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1968 n. 501
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 novembre 1974 n. 799
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1968 n. 501
+============================================================
 
 Autorizzazione all'Automobile club di Modena ad acquistare un immobile.
 -----------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-799. Decreto del Presidente della Repubblica 7 novembre 1974, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile club di Modena viene autorizzato ad acquistare dalla Societa' azionaria immobiliare Modenese - S.A.I.M. - Societa' per azioni, in Modena, in liquidazione, per il prezzo di L. 8.000.000, un immobile sito in Modena, via Mare Adriatico n. 141-143, della superficie complessiva di mq 720 e individuato nel nuovo catasto edilizio urbano di Modena alla partita 20588, mappale n. 4737/1 (ora mappale 4737) da adibire ad archivio e magazzino.  
+501. Decreto del Presidente della Repubblica 6 marzo 1968, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile club di Modena viene autorizzato ad acquistare in proprieta' dall'ingegnere Domenico Rabino, per destinarla a sede degli uffici della propria delegazione e per il prezzo di lire 14.000.000, una porzione di fabbricato, estesa per una superficie di circa 130 mq., posta al piano terra nello spigolo sud-est del fabbricato di nuova costruzione sito in Modena alla via Emilia ovest, angolo via S. Cataldo, nel catasto indicata al F. 84, mappale 1743/b, scheda n. 195720.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 1 febbraio 1975  
-Atti di Governo, registro n. 8, foglio n. 98
+Registrato alla Corte dei conti, addi' 16 aprile 1968  
+Atti del Governo, registro n. 219, foglio n. 5. - GRECO

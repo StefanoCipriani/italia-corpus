@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 441
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 447
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 441
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 447
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Ferrara.
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Ferrara.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -40,7 +40,7 @@ Articolo unico
 
   
 Nell'art. 47, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-endocrinologia ginecologica.  
+patologia speciale neurologica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
@@ -56,4 +56,4 @@ Visto, il Guardasigilli: MARTINAZZOLI
 
 Registrato alla Corte dei conti, addi' 17 luglio 1986
 
-Registro n. 57 Istruzione, foglio n. 86
+Registro n. 57 Istruzione, foglio n. 85

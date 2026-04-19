@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 1143
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1975 n. 456
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 1143
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1975 n. 456
+=============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1143. Decreto del Presidente della Repubblica 22 settembre 1981, col quale, sulla proposta del Ministro delle finanze, viene autorizzata la accettazione della donazione a favore dello Stato, consistente in un appezzamento di terreno di mq. 645, sito in Acireale (Catania), localita' Capomulini, sul quale insistono i ruderi di un tempietto romano, disposta dal sig. Lo Giudice Roberto con atto pubblico 4 luglio 1964, n. 69232 di repertorio, a rogito dott. Cosimo Pulvirenti, notaio in Catania, e successivo atto di rettifica 9 luglio 1964, n. 69482 di repertorio, a rogito del medesimo notaio.  
+456. Decreto del Presidente della Repubblica 10 aprile 1975, col quale, sulla proposta del Ministro per le finanze, di concerto con il Ministro per il lavoro e la previdenza sociale, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dal comune di Civitella di Romagna (Forli) con atto in data 31 gennaio 1955, n. 3052 di repertorio, a rogito notaio Viscardo Bonoli, consistente in un suolo di mq 234, sito in detto comune, confinante con il viale Martiri partigiani, catastalmente indicato nell'atto suddetto e sul quale il Ministero del lavoro e della previdenza sociale, con le esercitazioni pratiche di un corso di qualificazione professionale, ha gia' realizzato un edificio adibito a sede dell'ufficio di collocamento di quel comune.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 5 febbraio 1982  
-Registro n. 6 Finanze, foglio n. 69
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 11 settembre 1975  
+Atti di Governo, registro n. 12, foglio n. 9

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1954 n. 162
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 aprile 1948 n. 708
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1954 n. 162
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 aprile 1948 n. 708
+=============================================================
 
 Autorizzazione all'Universita' di Padova ad accettare una donazione.
 --------------------------------------------------------------------
@@ -12,8 +12,7 @@ Art. 1
 
 N.
 
-162. Decreto del Presidente della Repubblica 2 marzo 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Padova viene autorizzata ad accettare la donazione di una biblioteca di circa 10.000 volumi del valore di L. 5.000.000 e di un quadro raffigurante le sembianze del defunto prof. Emilio Bodrero, disposta in suo favore dalla signora Nina Romanin Jacur fu Emanuele, consorte del predetto professore, con atto pubblico amministrativo in data 29 novembre 1952.  
+708. Decreto del Presidente della Repubblica 18 aprile 1948, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Padova viene autorizzata ad accettare la donazione della somma di L. 9.895, disposta in suo favore dal dott. Giovanni Dogo, a nome della Federazione di Padova del Partito d'Azione, con atto pubblico in data 18 maggio 1947, per l'istituzione di un premio da intitolarsi al nome dell'"Ing. Renato Otello Pighin" e da conferirsi, ogni anno, al miglior laureato di quella facolta' di ingegneria.  
   
-Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 17 aprile 1954  
-Atti del Governo, registro n. 82, foglio n. 124. - CARLOMAGNO
+Visto, il Guardasigilli: GRASSI  
+Registrato alla Corte dei conti, addi' 26 maggio 1948

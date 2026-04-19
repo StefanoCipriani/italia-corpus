@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1974 n. 667
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1978 n. 612
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1974 n. 667
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1978 n. 612
 =============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-667. Decreto del Presidente della Repubblica 22 luglio 1974, col quale, sulla proposta del Ministro per le finanze, di concerto con il Ministro per il lavoro e la previdenza sociale, viene autorizzata, per la minor superficie di mq 540 circa, l'accettazione della donazione a favore dello Stato disposta dal comune di Avezzano (L'Aquila) con atto 7 dicembre 1957, a rogito notaio Giovanni Stornelli, n. 8720 di repertorio, del terreno edificatorio, della superficie di mq 801, sito in detto comune alla via Orazio Mattei, catastalmente indicato in tale atto e sul quale e' gia' stato realizzato dal Ministero del lavoro e della previdenza sociale, mediante cantiere di lavoro, un edificio adibito a sede dell'ufficio comunale del lavoro.  
+612. Decreto del Presidente della Repubblica 11 aprile 1978, col quale, sulla proposta del Ministro delle finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dal comune di Nuoro con atto 31 gennaio 1972, n. 97535 di repertorio, a rogito notaio Bartolomeo Serra, delle aree di sedime e di rispetto, relative al palazzo di giustizia di Nuoro, costruito a cura e spese dello Stato.  
   
-Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 7 dicembre 1974  
-Atti di Governo, registro n. 7, foglio n. 84. - SCIARRETTA
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 7 luglio 1978  
+Registro n. 28 Finanze, foglio n. 50

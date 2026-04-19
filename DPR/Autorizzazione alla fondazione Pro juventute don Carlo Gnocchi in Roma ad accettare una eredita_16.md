@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 264
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1974 n. 408
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 264
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1974 n. 408
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
 -----------------------------------------------------------------------------------------------------
@@ -10,10 +10,11 @@ Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad ac
 Art. 1
 ------
 
-n.
+N.
 
-264. Decreto del Presidente della Repubblica 10 marzo 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, con beneficio d'inventario, l'eredita' consistente nella quota di 1/4 di titoli azionari e del ricavato della vendita di beni immobili per un valore complessivo di L. 96.064.590, quota 1/4 L. 24.016.130, disposta dalla signora Raspini Carolina con testamento olografo 28 marzo 1971 e codicilli del 21 ottobre 1975, 22 marzo 1977 e 18 febbraio 1978, pubblicati in data 20 febbraio 1979, n. 13746/6348 di repertorio, a rogito dott. Renzo Chiavistelli, notaio in Scarperia (Firenze), registrato a Borgo San Lorenzo (Firenze), in data 23 febbraio 1979 al n. 379.  
+408. Decreto del Presidente della Repubblica 27 giugno 1974, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla sig.ra Bice Astolfi, con testamento olografo del 1 ottobre 1964, pubblicato l'8 aprile 1972 per atto del dott.  
+Virgilio Neri, notaio in Milano, n. 69252 di repertorio e n. 6759 di raccolta, registrato a Milano il 12 aprile 1972 al n. 6729, serie F, consistente in beni immobili siti in Milano, del valore di L. 4.500.000 nonche' in denaro e titoli, il tutto per un complessivo netto di L. 7.235.616.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 6 giugno 1986  
-Registro n. 5 Presidenza, foglio n. 82
+Visto, il Guardasigilli: ZAGARI  
+Registrato alla Corte dei conti, addi' 22 agosto 1974  
+Atti di Governo, registro n. 5, foglio n. 10. - SCIARRETTA

@@ -1,105 +1,82 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 gennaio 1982 n. 112
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1979 n. 977
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 gennaio 1982 n. 112
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1979 n. 977
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Veduto l'[art. 16 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art16);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Torino e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Gli articoli 285, 286 e 287, relativi alla scuola di specializzazione in gerontologia e geriatria, sono sostituiti dai seguenti:  
-Art. 285. - La scuola di specializzazione in geriatria e gerontologia ha sede presso l'istituto di gerontologia e geriatria dell'Universita' di Torino e conferisce il diploma di specialista in geriatria e gerontologia.  
-Art. 286. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.  
-Art. 287. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-Art. 288. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.  
-Art. 289. - Il numero massimo degli allievi e' di dieci per anno di corso e complessivamente di quaranta iscritti per l'intero corso di studi.  
-Art. 290. - L'ammissione al corso avviene per titoli ed esami.  
-Art. 291. - Le materie di insegnamento sono le seguenti:  
+Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Torino e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
+  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:  
+  
+Gli articoli da 378 a 385, relativi al corso di specializzazione in viticoltura ed enologia, che cambia denominazione in scuola di specializzazione in viticoltura ed enologia, sono soppressi e sostituiti dai seguenti.  
+  
+Scuola di specializzazione in viticoltura ed enologia  
+  
+Art. 378. - Alla facolta' di agraria dell'Universita' di Torino e' annessa una scuola di specializzazione in viticoltura ed enologia, avente lo scopo di dare ai laureati, mediante corsi teorici ed applicati, una specifica preparazione nella suddetta specialita', conferendo un diploma di specialista in viticoltura ed enologia.  
+Art. 379. - La durata della scuola e' biennale.  
+Art. 380. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
 1° Anno:  
-farmacologia (annuale);  
-principi e tecniche della riabilitazione nella patologia dell'apparato locomotore (annuale);  
-anatomia e istologia patologica (biennale I);  
-biologia della senescenza (biennale I);  
-fisiopatologia (biennale I);  
-geriatria sociale (biennale I);  
-semeiotica (biennale I);  
-principi e tecniche di materie specialistiche in geriatria (triennale I).  
+1) viticoltura generale;  
+2) esercitazioni di viticoltura generale;  
+3) chimica enologica;  
+4) esercitazioni di chimica enologica;  
+5) microbiologia enologica;  
+6) esercitazioni di microbiologia enologica;  
+7) costruzioni enologiche;  
+8) meccanica delle macchine enologiche;  
+9) legislazione viticolo-enologica;  
+10) economia del mercato viti-vinicolo.  
 2° Anno:  
-principi e tecniche della riabilitazione cardiovascolare e respiratoria (annuale);  
-anatomia e istologia patologica (biennale II);  
-biologia della senescenza (biennale II);  
-fisiopatologia (biennale II);  
-geriatria sociale (biennale II);  
-semeiotica (biennale II);  
-radiologia e radioterapia (biennale I);  
-principi e tecniche di materie specialistiche in geriatria (triennale II).  
-3° Anno:  
-neurologia (annuale);  
-principi e tecniche della riabilitazione neurologica (annuale); psicologia (annuale);  
-radiologia e radioterapia (biennale II);  
-principi e tecniche di materie specialistiche in geriatria (triennale III);  
-clinica geriatrica (biennale I);  
-terapia medica (biennale I);  
-pratica geriatrica extraospedaliera (biennale I).  
-4° Anno:  
-chirurgia geriatrica (annuale);  
-formazione degli operatori geriatrici (annuale);  
-principi e tecniche della riabilitazione nel campo  
-delle funzioni cerebrali superiori (annuale);  
-principi e tecniche di riattivazione, terapia occupazionale, geragogia (annuale);  
-psicogeriatria (annuale);  
-clinica geriatrica (biennale II);  
-terapia medica (biennale II);  
-pratica geriatrica extraospedaliera (biennale II).  
-Art. 292. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.  
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove d'esame.  
-Art. 293. - Alla fine di ogni corso gli iscritti per essere ammessi agli esami di corso successivi, devono superare le prove d'esame sulle materie impartite durante l'anno.  
-Al termine del corso di studi per il conseguimento del diploma di specialista in geriatria e gerontologia dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
+1) tecnica vinicola;  
+2) esercitazioni di tecnica vinicola;  
+3) tecnologia enologica;  
+4) esercitazioni di tecnologia enologica;  
+5) meccanizzazione della viticoltura;  
+6) patologia viticola;  
+7) zoologia viticola;  
+8) organizzazione aziendale.  
+Potranno inoltre essere tenuti brevi cicli di lezioni e conferenze su particolari argomenti interessanti le varie discipline della scuola.  
+Art. 381. - Sono ammessi alla scuola di specializzazione i laureati in scienze agrarie, in chimica, in chimica industriale, in ingegneria chimica e in scienza delle preparazioni alimentari. Il consiglio della scuola potra' stabilire, di volta in volta, di accettare l'iscrizione di candidati dotati di altra laurea, che dimostrino una particolare competenza e preparazione nel settore vitivinicolo.  
+Il numero degli allievi ammessi annualmente alla scuola e', al massimo, di dieci.  
+Qualora il numero delle domande sia superiore, e l'attrezzatura didattica ne consenta in via eccezionale l'ammissione, sara' data preferenza agli aspiranti che abbiano particolari titoli nei riguardi delle finalita' della scuola. Per l'ammissione di laureati stranieri il consiglio della scuola decidera' caso per caso la validita' dei titoli presentati.  
+Il consiglio di facolta' si riserva di sospendere corsi della scuola, qualora ne ravveda l'opportunita'.  
+Art. 382. - Al termine dei corsi sara' rilasciato agli iscritti un diploma di specialista in viticoltura ed enologia in base:  
+a) alla regolare frequenza dei corsi del biennio;  
+b) all'esito degli esami sostenuti alla fine dei corsi;  
+c) al giudizio emesso dai direttori degli istituti enti o aziende eventualmente frequentate;  
+d) all'esito dell'esame finale, che consiste nella presentazione di una dissertazione scritta di carattere sperimentale, da sostenersi davanti ad apposita commissione di docenti della scuola.  
+Art. 383. - I docenti saranno nominati dal consiglio della facolta' di agraria dell'Universita' di Torino, sulla base dei titoli presentati dagli aspiranti.  
+Il consiglio di facolta' provvedera' inoltre a nominare il direttore della scuola fra i professori di ruolo o fuori ruolo della stessa facolta' o fra i docenti della scuola  
+Art. 384. - Il consiglio direttivo della scuola si compone di tutti i docenti degli insegnamenti (esercitazioni comprese) della scuola stessa. Esso avanza le proposte relative all'ordinamento degli studi e all'insegnamento e da' pareri su tutti i provvedimenti riguardanti la scuola medesima.  
+Art. 385. - Gli iscritti alla scuola saranno tenuti a pagare la tassa d'iscrizione, le tasse e soprattasse d'esame, compresi i contributi integrativi, secondo quanto e' stabilito per gli studenti della facolta' di agraria.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 6 gennaio 1982
+### Dato a Roma, addi' 4 giugno 1979
 
-PERTINI BODRATO
+PERTINI SPADOLINI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 10 marzo 1982
+Registrato alla Corte dei conti, addi' 18 settembre 1980
 
-Registro n. 38 Istruzione, foglio n. 276
+Registro n. 87 Istruzione, foglio n. 27

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1985 n. 987
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 279
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1985 n. 987
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 279
+===============================================================
 
 Autorizzazione all'Associazione nazionale mutilati ed invalidi del lavoro, in Roma, ad acquistare un immobile.
 --------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-987. Decreto del Presidente della Repubblica 25 ottobre 1985, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Associazione nazionale mutilati ed invalidi del lavoro, in Roma, viene autorizzata ad acquistare, al prezzo di L. 57.200.000, un appartamento al primo piano, scala D, dell'immobile sito in Foggia, via Zuretti, censito al nuovo catasto edilizio urbano alla partita n. 3322, foglio n. 95, particelle n. 30 e n. 35, di proprieta' della S.p.a. S.I.F.T. di Napoli, come da atto preliminare di compravendita 1° luglio 1975, n. 124272 di repertorio, a rogito dott. Francesco Mustilli, notaio in Napoli, da adibire a sede della sezione provinciale dell'Ente.   
+279. Decreto del Presidente della Repubblica 10 febbraio 1986, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Associazione nazionale mutilati ed invalidi del lavoro, in Roma, viene autorizzata ad acquistare, al prezzo di L. 43.000.000, una porzione di immobile rappresentata da un appartamento sito in Bari, via Quintino Sella n. 218, censito al nuovo catasto edilizio urbano alla partita 60436, foglio 96, particella 187 sub 5, di proprieta' dei signori Luigi Urso e Giuseppe Rossano, come da atto di compravendita, sottoposto a condizione sospensiva, in data 13 maggio 1974, n. 224644 di repertorio, a rogito dott. Enzo Fornaro, notaio in Bari, da adibire ad uffici dell'ente.   
   
 Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 22 marzo 1986   
-Registro n. 1 Lavoro, foglio n. 236
+Registrato alla Corte dei conti, addi' 12 giugno 1986   
+Registro n. 1 Lavoro, foglio n. 242

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1980 n. 909
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 ottobre 1974 n. 626
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1980 n. 909
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 ottobre 1974 n. 626
 ==============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un'eredita'.
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-909. Decreto del Presidente della Repubblica 30 ottobre 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla sig.ra Giussani Eva Pierina ved. Merlini con testamento olografo 30 settembre 1972, pubblicato a rogito dott.  
-Pentangelo Lucio, notaio in Seregno (Milano), in data 11 settembre 1975, n. 25008 di repertorio e n. 1589 di raccolta, registrato a Desio (Milano) il 19 settembre 1975 al n. 3446, consistente in beni mobili ed immobili per complessive lire 44.500.000.  
+626. Decreto del Presidente della Repubblica 10 ottobre 1974, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla sig.ra Pedrocco Carlotta in Vio con testamento olografo in data 10 agosto 1963, pubblicato il 24 novembre 1970 per atto del dott. Angelo Sandi, notaio in Venezia, n. 26319 di repertorio e n. 2567 di raccolta, registrato a Venezia in data 14 dicembre 1970 al n. 6896 - Vol. 22, in favore dei mutilatini di don Gnocchi che si identificano con la fondazione "Pro juventute don Carlo Gnocchi", consistente nella quota parte di immobili, titoli, buoni postali e depositi bancari vari per un valore presunto di lire 72.880.945.   
   
-Visto, il Guardasigilli: SARTI  
-Registrato alla Corte dei conti, addi' 20 dicembre 1980  
-Registro n. 9 Presidenza, foglio n. 190
+Visto, il Guardasigilli: ZAGARI   
+Registrato alla Corte dei conti, addi' 25 novembre 1974   
+Atti di Governo, registro n. 7, foglio n. 41. - SCIARRETTA

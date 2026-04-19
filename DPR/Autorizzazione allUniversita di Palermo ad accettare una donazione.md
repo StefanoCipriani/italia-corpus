@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 luglio 1953 n. 906
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 febbraio 1949 n. 200
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 luglio 1953 n. 906
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 febbraio 1949 n. 200
+===============================================================
 
 Autorizzazione all'Universita' di Palermo ad accettare una donazione.
 ---------------------------------------------------------------------
@@ -12,8 +12,7 @@ Art. 1
 
 N.
 
-906. Decreto del Presidente della Repubblica 30 luglio 1953, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Palermo viene autorizzata ad accettare la donazione di lire 130.000 (centotrentamila) nominali, disposta in suo favore dal prof. Francesco Bianchini, per l'istituzione, con la rendita del capitale donato, di un premio di studio intitolato "Premio Pietro Palumbo" e da conferirsi per concorso, ogni due anni, ad un laureato in economia e commercio presso l'Universita' di Palermo, che abbia presentato e discusso una dissertazione di laurea in ragioneria ritenuta meritevole di pubblicazione.  
+200. Decreto del Presidente della Repubblica 17 febbraio 1949, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Palermo viene autorizzata ad accettare la donazione della somma di L. 400.000, in titoli di Stato Rendita 5%, disposta in suo favore dal prof. Fausto Orestano, con atto pubblico in data 5 febbraio 1948, per l'istituzione di un premio biennale da intitolarsi "Premio biennale di chirurgia Luigi Orestano" e da conferirsi al miglior lavoro di chirurgia inedito, compilato da un laureato in medicina e chirurgia nell'ultimo decennio, in una delle tre Universita' siciliane.  
   
-Visto, il Guardasigilli: AZARA  
-Registrato alla Corte dei conti, addi' 7 dicembre 1953  
-Atti del Governo, registro n. 80, foglio n. 65. - PALLA
+Visto, il Guardasigilli: GRASSI  
+Registrato alla Corte dei conti, addi' 2 maggio 1949

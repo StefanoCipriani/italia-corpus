@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1980 n. 836
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1169
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1980 n. 836
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1169
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Messina.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923) e modificato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090) e modificato con [regio decreto 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,45 +18,156 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina, e convalidati dal Consiglio universitario nazionale nei suoi pareri;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla
------
+Sulla proposta del Ministro per la pubblica istruzione;
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+dopo l'art. 141 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in tisiologia.
+
+Scuola di specializzazione in tisiologia
+
+Art. 142. - La scuola ha la durata di tre anni.
+
+Alla scuola sono ammessi complessivamente dieci iscritti.
+
+Art. 143. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+1) Anatomia e istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale);
+
+2) Patologia della tubercolosi polmonare ed extrapolmonare;
+
+3) Patologia delle malattie dell'apparato respiratorio;
+
+4) Fisiologia e fisiopatologia generale dell'apparato respiratorio;
+
+5) Semeiotica fisica e funzionale dell'apparato respiratorio;
+
+6) Microbiologia;
+
+7) Epidemiologia e statistica sanitaria della tubercolosi e delle malattie dell'apparato respiratorio.
+
+2° Anno:
+
+1) Anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale);
+
+2) Clinica della tubercolosi (biennale);
+
+3) Clinica delle malattie dell'apparato respiratorio (biennale);
+
+4) Fisiopatologia speciale della tubercolosi e delle malattie dell'apparato respiratorio;
+
+5) Broncologia;
+
+6) Radiologia dell'apparato, respiratorio;
+
+7) Profilassi della tubercolosi;
+
+8) Igiene e legislazione sociale.
+
+3° Anno:
+
+1) Clinica della tubercolosi (biennale);
+
+2) Clinica delle malattie dell'apparato respiratorio (biennale);
+
+3) Chemioterapia della tubercolosi e delle malattie dell'apparato respiratorio;
+
+4) Terapia fisiomeccanica nella tubercolosi e nelle malattie dell'apparato respiratorio;
+
+5) Terapia chirurgica nella tubercolosi e nelle malattie dell'apparato respiratorio.
+
+Art. 144. - I corsi di insegnamento sono integrati da turni obbligatori di internato nei reparti di degenza e nei laboratori di ricerca; da esercitazioni pratiche; da conferenze.
+
+Gli esami di profitto hanno luogo al termine di ogni anno di corso.
+
+Per il conseguimento del diploma di specializzazione e' prescritta la presentazione e la discussione di una dissertazione scritta.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 30 ottobre 1970
+
+SARAGAT
+
+MISASI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 9 gennaio 1971 Atti del Governo; registro n. 240, foglio n. 17. - CARUSO
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Lo statuto dell'Universita' di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-L'art. 187 dello statuto dell'Universita' di Messina di cui al [decreto del Presidente della Repubblica 4 giugno 1979, n. 426](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1979-06-04;426), relativo alla scuola di specializzazione in ematologia generale (clinica e laboratorio) e' soppresso e sostituito dal seguente:  
-Art. 187. - La scuola ha sede presso l'istituto di clinica medica generale e terapia medica il dell'Universita' di Messina ed e' disciplinata secondo le norme generali dello statuto relativo alle scuole di specializzazione in medicina e chirurgia.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090) e modificato con [regio decreto 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-L'art. 193 dello statuto dell'Universita' di Messina di cui al [decreto del Presidente della Repubblica 31 ottobre 1979, n. 782](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1979-10-31;782), relativo alla scuola di specializzazione in dermatologia e venereologia e' soppresso e sostituito dal seguente:  
-Art. 193. - Il corso di lezioni deve essere impartito mediante almeno cinquanta lezioni annuali comprensivo delle varie materie e la frequenza giornaliera degli iscritti non deve essere inferiore alle 4 ore effettive per tutta la durata dell'anno accademico.  
-Agli specializzandi compete la frequenza alle esercitazioni pratiche nei reparti. Gli esami di profitto vengono sostenuti in due sessioni. L'esame di diploma consiste nella esposizione e discussione di un argomento della disciplina su di un tema assegnato al candidato ventiquattro ore prima della prova.  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+dopo l'art. 141 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in tisiologia.  
+  
+Scuola di specializzazione in tisiologia  
+  
+Art. 142. - La scuola ha la durata di tre anni.  
+Alla scuola sono ammessi complessivamente dieci iscritti.  
+Art. 143. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1) Anatomia e istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale);  
+2) Patologia della tubercolosi polmonare ed extrapolmonare;  
+3) Patologia delle malattie dell'apparato respiratorio;  
+4) Fisiologia e fisiopatologia generale dell'apparato respiratorio;  
+5) Semeiotica fisica e funzionale dell'apparato respiratorio;  
+6) Microbiologia;  
+7) Epidemiologia e statistica sanitaria della tubercolosi e delle malattie dell'apparato respiratorio.  
+2° Anno:  
+1) Anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale);  
+2) Clinica della tubercolosi (biennale);  
+3) Clinica delle malattie dell'apparato respiratorio (biennale);  
+4) Fisiopatologia speciale della tubercolosi e delle malattie dell'apparato respiratorio;  
+5) Broncologia;  
+6) Radiologia dell'apparato, respiratorio;  
+7) Profilassi della tubercolosi;  
+8) Igiene e legislazione sociale.  
+3° Anno:  
+1) Clinica della tubercolosi (biennale);  
+2) Clinica delle malattie dell'apparato respiratorio (biennale);  
+3) Chemioterapia della tubercolosi e delle malattie dell'apparato respiratorio;  
+4) Terapia fisiomeccanica nella tubercolosi e nelle malattie dell'apparato respiratorio;  
+5) Terapia chirurgica nella tubercolosi e nelle malattie dell'apparato respiratorio.  
+Art. 144. - I corsi di insegnamento sono integrati da turni obbligatori di internato nei reparti di degenza e nei laboratori di ricerca; da esercitazioni pratiche; da conferenze.  
+Gli esami di profitto hanno luogo al termine di ogni anno di corso.  
+Per il conseguimento del diploma di specializzazione e' prescritta la presentazione e la discussione di una dissertazione scritta.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 ottobre 1980
+### Dato a Roma, addi' 30 ottobre 1970
 
-PERTINI SARTI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: SARTI
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 26 novembre 1980
+Registrato alla Corte dei conti, addi' 9 gennaio 1971
 
-Registro n. 111 Istruzione, foglio n. 318
+Atti del Governo; registro n. 240, foglio n. 17. - CARUSO

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1983 n. 430
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 marzo 1981 n. 835
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1983 n. 430
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 marzo 1981 n. 835
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,46 +20,58 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
-
-Veduto il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio universitario nazionale;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 --------
 
-Lo statuto dell'Universita' di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Art. 1
 ------
 
   
-Nell'art. 52, relativo al corso di laurea in lettere, all'elenco degli insegnamenti complementari sono aggiunti i nuovi seguenti insegnamenti:  
-storia dell'archeologia classica;  
-storia moderna e contemporanea della Chiesa e delle altre confessioni cristiane.  
+Il testo del terzo e quarto capoverso dell'art. 68, relativo al corso di laurea in scienze naturali, e' sostituito dal seguente:  
+"Ciascuno dei due insegnamenti biennali di botanica e zoologia comprende tanto la parte generale quanto quella sistematica e comporta due distinti esami annuali, uno dopo il primo anno di insegnamento ed uno dopo il secondo.  
+L'insegnamento biennale di fisiologia generale comporta due distinti esami annuali, uno dopo il primo anno di insegnamento ed uno dopo il secondo".  
 
 Art. 2
 ------
 
   
-Nell'art. 54, relativo al corso di laurea in filosofia, all'elenco degli insegnamenti complementari e' aggiunto il nuovo seguente insegnamento:  
-psicologia differenziale.  
+Il testo del quarto e quinto capoverso dell'art. 69, relativo al corso di laurea in scienze biologiche, e' sostituito dal seguente:  
+"Ciascuno dei due insegnamenti biennali di botanica e zoologia comprende tanto la parte generale quanto quella sistematica e comporta due distinti esami annuali.  
+L'insegnamento biennale di fisiologia generale comporta due distinti esami annuali, uno alla fine del primo anno di insegnamento ed uno alla fine del secondo".  
+
+Art. 3
+------
+
+  
+Il testo della prima parte del terzo capoverso dell'art. 71, relativo alle norme generali e particolari a ciascun corso di studi, e' sostituito dal seguente:  
+"Lo studente del corso di laurea in scienze biologiche non puo' essere ammesso all'esame di fisiologia generale se non ha superato l'esame di anatomia umana o quello di anatomia comparata".  
+
+Art. 4
+------
+
+  
+Il testo dell'art. 73, relativo alle modalita' degli esami di laurea, e' modificato nel senso che sono soppressi il punto 1) per la laurea in scienze naturali ed i punti 1) e 3) per la laurea in scienze biologiche.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 aprile 1983
+### Dato a Roma, addi' 24 marzo 1981
 
-PERTINI FALCUCCI
+PERTINI BODRATO
 
 Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 17 agosto 1983
+Registrato atta Corte dei conti, addi' 7 gennaio 1982
 
-Registro n. 59 Istruzione, foglio n. 110
+Registro n. 1 Istruzione, foglio n. 128

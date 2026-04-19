@@ -1,78 +1,426 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1969 n. 869
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1259
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1969 n. 869
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1259
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 -------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), a successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Gli articoli 132, 133, relativi alla scuola di specializzazione in anestesiologia e rianimazione, che muta la denominazione in quella di scuola di specializzazione in anestesia e rianimazione, sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in anestesia e rianimazione
+
+Art. 132. - La scuola di specializzazione in anestesia e rianimazione ha sede presso l'istituto di anestesiologia e rianimazione dell'Universita' degli studi di Trieste e conferisce il diploma di specialista in anestesia e rianimazione.
+
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.
+
+E' richiesto, almeno per l'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+
+La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazione.
+
+Il numero massimo degli allievi e' di 20 per anno di corso e complessivamente di 60 iscritti per l'intero corso di studi.
+
+L'ammissione al corso avviene per titoli ed esami.
+
+Art. 133. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+a) anatomia applicata all'anestesia ed alla rianimazione;
+
+b) biochimica applicata all'anestesia ed alla rianimazione;
+
+c) farmacologia applicata all'anestesia ed alla rianimazione;
+
+d) fisica applicata all'anestesia ed alla rianimazione;
+
+e) fisiologia applicata all'anestesia ed alla rianimazione;
+
+f) anestesiologia I;
+
+g) tecniche chirurgiche di interesse anestesiologico;
+
+h) aspetti medico-legali dell'anestesia e della rianimazione;
+
+i) esercitazioni pratiche.
+
+2° Anno:
+
+a) anestesiologia II;
+
+b) terapia antalgica;
+
+c) rianimazione I;
+
+d) esercitazioni pratiche.
+
+3° Anno:
+
+a) rianimazione II;
+
+b) tecniche speciali di anestesia;
+
+c) tecniche speciali di rianimazione;
+
+d) indagini diagnostiche attinenti alla specialita';
+
+e) esercitazioni pratiche.
+
+La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi.
+
+Al termine del corso di studi per il conseguimento del diploma di specialista in anestesia e rianimazione gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+
+L'art. 144, relativo alla scuola di specializzazione in malattie dell'apparato digerente, che muta la denominazione in quella di scuola di specializzazione in gastroenterologia ed endoscopia digestiva, e' soppresso e sostituito dal seguente:
+
+Scuola di specializzazione in gastroenterologia ed endoscopia
+
+digestiva
+
+Art. 144. - La scuola di specializzazione in gastroenterologia ed endoscopia digestiva ha sede presso la clinica medica e conferisce il diploma di specialista in gastroenterologia ed endoscopia digestiva.
+
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.
+
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.
+
+Il numero massimo degli allievi e' di 6 per anno di corso e complessivamente di 24 iscritti per l'intero corso di studi.
+
+L'ammissione al corso avviene per titoli ed esami.
+
+Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+anatomia clinica;
+
+farmacologia clinica;
+
+chimica clinica, coprologia, parassitologia;
+
+genetica;
+
+biostatistica ed epidemiologia.
+
+2° Anno:
+
+clinica medica generale (triennale);
+
+clinica e terapia del tubo digerente, fegato e pancreas (triennale);
+
+anatomia ed istologia patologica (biennale);
+
+fisiopatologia e semeiotica digestica (biennale);
+
+radiologia e medicina nucleare (biennale);
+
+scienza dell'alimentazione e dietetica.
+
+3° Anno:
+
+clinica medica generale;
+
+clinica e terapia del tubo digerente, fegato e pancreas;
+
+anatomia ed istologia patologica;
+
+fisiopatologia e semeiotica digestiva;
+
+radiologia e medicina nucleare;
+
+endoscopia digestiva (biennale).
+
+4° Anno:
+
+clinica medica generale;
+
+clinica e terapia del tubo digerente, fegato e pancreas;
+
+endoscopia digestiva;
+
+terapia intensiva;
+
+gastroenterologia pediatrica;
+
+elementi di chirurgia del tubo digerente, fegato e pancreas.
+
+E' obbligatorio il tirocinio pratico durante il quadriennio di studi da svolgere nell'istituto clinico sede della scuola o in reparti ospedalieri di gastroenterologia, conforme alle scelte approvate dal consiglio della scuola.
+
+Alle materie fondamentali obbligatorie potranno essere aggiunte delle materie complementari con corsi semestrali, in numero non superiore a sei per la totalita' del corso.
+
+Per le materie biennali e triennali sara' dato l'esame alla fine del biennio o triennio.
+
+La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno, per le materie biennali e triennali, invece, sara' dato l'esame alla fine del biennio o triennio.
+
+Al termine del corso di studi per il conseguimento del diploma di specialista in gastroenterologia ed endoscopia digestiva, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+
+Dopo l'art. 171, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla scuola di specializzazione in medicina del lavoro:
+
+Scuola di specializzazione in medicina del lavoro
+
+Art. 172. - La scuola di specializzazione in medicina del lavoro ha sede presso l'istituto di medicina del lavoro dell'Universita' degli studi di Trieste e conferisce il diploma di specialista in medicina del lavoro.
+
+Art. 173. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Art. 174. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+
+Art. 175. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.
+
+Art. 176. - Il numero massimo degli allievi e' di cinque per anno di corso e complessivamente di 20 iscritti per l'intero corso di studi.
+
+Art. 177. - L'ammissione al corso avviene per titoli ed esami.
+
+Art. 178. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+1) igiene del lavoro (I corso);
+
+2) fisiologia del lavoro ed ergonomia (I corso);
+
+3) tecnologia industriale;
+
+4) statistica medica e biometria;
+
+5) tecniche di laboratorio.
+
+2° Anno:
+
+1) patologia e clinica delle malattie del lavoro (I corso);
+
+2) igiene del lavoro (II corso);
+
+3) fisiologia del lavoro ed ergonomia (II corso);
+
+4) psicologia del lavoro;
+
+5) tossicologia industriale.
+
+3° Anno:
+
+1) patologia e clinica delle malattie del lavoro (II corso);
+
+2) prevenzione degli infortuni e delle malattie da lavoro (I corso);
+
+3) epidemiologia delle malattie da lavoro;
+
+4) radiobiologia e radioprotezione;
+
+5) dermatologia professionale.
+
+4° Anno:
+
+1) patologia e clinica delle malattie da lavoro, III corso);
+
+2) prevenzione degli infortuni e delle malattie da lavoro (II corso);
+
+3) pronto soccorso;
+
+4) medicina legale e delle assicurazioni;
+
+5) organizzazione dei servizi di medicina ed igiene del lavoro.
+
+Gli esami delle discipline svolte in corsi pluriennali verranno sostenuti alla fine dell'ultimo corso.
+
+Art. 179. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Art. 180. - Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove d'esame sulle materie impartite durante l'anno. Per le materie biennali o triennali l'esame sara' sostenuto alla fine del biennio o del triennio.
+
+Al termine del corso di studi per il conseguimento del diploma di specialista in medicina del lavoro, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta su un argomento inerente alla specializzazione.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1977
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 9 agosto 1978 Registro n. 89 Istruzione, foglio n. 200
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, numero 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), a successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 78, relativo al biennio di studi propedeutici della facolta' di ingegneria e' modificato come segue:  
+Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Gli articoli 132, 133, relativi alla scuola di specializzazione in anestesiologia e rianimazione, che muta la denominazione in quella di scuola di specializzazione in anestesia e rianimazione, sono abrogati e sostituiti dai seguenti:   
   
-Al secondo anno per la laurea in ingegneria chimica gli insegnamenti di "Disegno II (industriale)" e di "Mineralogia (con elementi di geologia)" sono abrogati e sostituiti rispettivamente da quelli di "Chimica applicata" e da "Chimica analitica".  
-Al secondo anno per la laurea in ingegneria elettronica l'insegnamento di "Disegno II (industriale)" e' soppresso, mentre viene incluso l'insegnamento di "Calcoli numerici e grafici, con elementi di programmazione".  
-Al secondo anno per la laurea in ingegneria elettrotecnica l'insegnamento di "Metodi di osservazione e misura" e' abrogato e sostituito da quello di "Calcoli numerici e grafici, con elementi di programmazione".  
-Al secondo anno per la laurea in ingegneria meccanica l'insegnamento di "Disegno II (industriale)" e' soppresso, mentre viene incluso l'insegnamento di "Calcoli numerici e grafici, con elementi di programmazione".  
-Al secondo anno per la laurea in ingegneria navale e meccanica l'insegnamento di "Disegno II (industriale)" e' soppresso, mentre viene incluso quello di "Disegno navale".  
-Art. 79, relativo al triennio di applicazione di studi della facolta' di ingegneria e' modificato come segue:  
+Scuola di specializzazione in anestesia e rianimazione   
+Art. 132. - La scuola di specializzazione in anestesia e rianimazione ha sede presso l'istituto di anestesiologia e rianimazione dell'Universita' degli studi di Trieste e conferisce il diploma di specialista in anestesia e rianimazione.   
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno per l'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazione.   
+Il numero massimo degli allievi e' di 20 per anno di corso e complessivamente di 60 iscritti per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli ed esami.   
+Art. 133. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+a) anatomia applicata all'anestesia ed alla rianimazione;   
+b) biochimica applicata all'anestesia ed alla rianimazione;   
+c) farmacologia applicata all'anestesia ed alla rianimazione;   
+d) fisica applicata all'anestesia ed alla rianimazione;   
+e) fisiologia applicata all'anestesia ed alla rianimazione;   
+f) anestesiologia I;   
+g) tecniche chirurgiche di interesse anestesiologico;   
+h) aspetti medico-legali dell'anestesia e della rianimazione;   
+i) esercitazioni pratiche.   
+2° Anno:   
+a) anestesiologia II;   
+b) terapia antalgica;   
+c) rianimazione I;   
+d) esercitazioni pratiche.   
+3° Anno:   
+a) rianimazione II;   
+b) tecniche speciali di anestesia;   
+c) tecniche speciali di rianimazione;   
+d) indagini diagnostiche attinenti alla specialita';   
+e) esercitazioni pratiche.   
+La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
+Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi.   
+Al termine del corso di studi per il conseguimento del diploma di specialista in anestesia e rianimazione gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
+L'art. 144, relativo alla scuola di specializzazione in malattie dell'apparato digerente, che muta la denominazione in quella di scuola di specializzazione in gastroenterologia ed endoscopia digestiva, e' soppresso e sostituito dal seguente:   
   
-Nel corso di laurea in ingegneria chimica gli insegnamenti fondamentali di "Chimica analitica I" e di "Chimica applicata" (trasferiti al biennio) vengono abrogati e sostituiti da "Impianti chimici II" e da "Teoria dei processi chimici", mentre l'insegnamento di impianti chimici viene contraddistinto dal numero I.  
-Nello stesso corso di laurea i gruppi di indirizzo sono cosi' modificati:  
+Scuola di specializzazione in gastroenterologia ed endoscopia   
+digestiva   
+Art. 144. - La scuola di specializzazione in gastroenterologia ed endoscopia digestiva ha sede presso la clinica medica e conferisce il diploma di specialista in gastroenterologia ed endoscopia digestiva.   
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
+Il numero massimo degli allievi e' di 6 per anno di corso e complessivamente di 24 iscritti per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli ed esami.   
+Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+anatomia clinica;   
+farmacologia clinica;   
+chimica clinica, coprologia, parassitologia;   
+genetica;   
+biostatistica ed epidemiologia.   
+2° Anno:   
+clinica medica generale (triennale);   
+clinica e terapia del tubo digerente, fegato e pancreas (triennale);   
+anatomia ed istologia patologica (biennale);   
+fisiopatologia e semeiotica digestica (biennale);   
+radiologia e medicina nucleare (biennale);   
+scienza dell'alimentazione e dietetica.   
+3° Anno:   
+clinica medica generale;   
+clinica e terapia del tubo digerente, fegato e pancreas;   
+anatomia ed istologia patologica;   
+fisiopatologia e semeiotica digestiva;   
+radiologia e medicina nucleare;   
+endoscopia digestiva (biennale).   
+4° Anno:   
+clinica medica generale;   
+clinica e terapia del tubo digerente, fegato e pancreas;   
+endoscopia digestiva;   
+terapia intensiva;   
+gastroenterologia pediatrica;   
+elementi di chirurgia del tubo digerente, fegato e pancreas.   
+E' obbligatorio il tirocinio pratico durante il quadriennio di studi da svolgere nell'istituto clinico sede della scuola o in reparti ospedalieri di gastroenterologia, conforme alle scelte approvate dal consiglio della scuola.   
+Alle materie fondamentali obbligatorie potranno essere aggiunte delle materie complementari con corsi semestrali, in numero non superiore a sei per la totalita' del corso.   
+Per le materie biennali e triennali sara' dato l'esame alla fine del biennio o triennio.   
+La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
+Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno, per le materie biennali e triennali, invece, sara' dato l'esame alla fine del biennio o triennio.   
+Al termine del corso di studi per il conseguimento del diploma di specialista in gastroenterologia ed endoscopia digestiva, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
+Dopo l'art. 171, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla scuola di specializzazione in medicina del lavoro:   
   
-Indirizzo a): Gli insegnamenti di "Elettrochimica" e di "Materiali e chimica nucleare" vengono abrogati e sostituiti dagli insegnamenti di "Tecnologia dei metalli" e di "Scienza e tecnologia dei materiali ceramurgici e compositi".  
-L'indirizzo c) e' soppresso.  
-Nel corso di laurea in ingegneria civile i gruppi di indirizzo vengono cosi' modificati:  
-per la sezione edile nell'indirizzo b): l'insegnamento di "Tecnica delle costruzioni II" e' abrogato e sostituito da quello di "Grandi strutture";  
-per la sezione idraulica nell'indirizzo b): l'insegnamento di "Complementi di costruzioni idrauliche" e' abrogato e sostituito da quello di "Complementi di idraulica";  
-per la sezione trasporti nell'indirizzo b): l'insegnamento di "Tecnica delle costruzioni II" e' abrogato e sostituito da quello di "Costruzione di ponti".  
-Nel corso di laurea in ingegneria elettronica gli insegnamenti fondamentali di "Macchine elettriche" e di "Materiali per uso elettrotecnico" sono soppressi, mentre viene incluso quello di "Economia e direzione delle aziende".  
-Nello stesso corso di laurea i gruppi di indirizzo sono cosi' modificati:  
-nell'indirizzo a) viene incluso l'insegnamento di "Teoria dell'informazione";  
-nell'indirizzo b) viene incluso l'insegnamento di "Complementi di automatica";  
-nell'indirizzo c) l'insegnamento di "Economia e direzione delle aziende" e' abrogato e sostituito da quello di "Calcolatrici elettroniche" e viene aggiunto quello di "Tecnologie speciali elettriche".  
-Nel corso di laurea in ingegneria elettrotecnica i gruppi di indirizzo sono cosi' modificati:  
-nell'indirizzo a) gli insegnamenti di "Costruzione di macchine" e di "Trazione elettrica" sono abrogati e sostituiti da quelli di "Complementi di macchine elettriche" e di "Tecnologie speciali elettriche";  
-nell'indirizzo b) l'insegnamento di "Grandi utilizzazioni dell'energia elettrica" diviene semestrale e viene incluso l'insegnamento semestrale di "Trazione elettrica";  
-nell'indirizzo c) l'insegnamento di "Tecnologie speciali elettriche" e' abrogato e sostituito da quello di "Tecnologia dei sistemi di controllo".  
-Nel corso di laurea in ingegneria meccanica i gruppi di indirizzo sono cosi' modificati:  
-nell'indirizzo a) gli insegnamenti di "Tecnica ed economia dei trasporti" e di "Teoria dei modelli" sono abrogati, mentre viene incluso quello di "Centrali termiche e forni industriali";  
-nell'indirizzo b) gli insegnamenti di "Complementi di macchine e centrali termiche", di "Impianti chimici" e di "Impianti speciali idraulici" sono abrogati e sostituiti da quelli di "Impianti nucleari", di "Macchine speciali" e di "Teoria dei modelli";  
-nell'indirizzo d) gli insegnamenti di "Impianti nucleari" e di "Teoria dei modelli" sono abrogati e sostituiti da quelli di "Gardinamica" e di "Tecnica ed economia dei trasporti".  
-Nel corso di laurea in ingegneria navale e meccanica l'insegnamento fondamentale di "Tecnologia navale" e' soppresso, mentre viene incluso quello di "Fondamenti di elettronica".  
-Nello stesso corso di laurea ai gruppi di indirizzo e' aggiunto il nuovo indirizzo c) con i seguenti insegnamenti:  
-  
-Attrezzature e strumenti di bordo;  
-Automazione navale;  
-Strumentazione.  
+Scuola di specializzazione in medicina del lavoro   
+Art. 172. - La scuola di specializzazione in medicina del lavoro ha sede presso l'istituto di medicina del lavoro dell'Universita' degli studi di Trieste e conferisce il diploma di specialista in medicina del lavoro.   
+Art. 173. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Art. 174. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+Art. 175. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
+Art. 176. - Il numero massimo degli allievi e' di cinque per anno di corso e complessivamente di 20 iscritti per l'intero corso di studi.   
+Art. 177. - L'ammissione al corso avviene per titoli ed esami.   
+Art. 178. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+1) igiene del lavoro (I corso);   
+2) fisiologia del lavoro ed ergonomia (I corso);   
+3) tecnologia industriale;   
+4) statistica medica e biometria;   
+5) tecniche di laboratorio.   
+2° Anno:   
+1) patologia e clinica delle malattie del lavoro (I corso);   
+2) igiene del lavoro (II corso);   
+3) fisiologia del lavoro ed ergonomia (II corso);   
+4) psicologia del lavoro;   
+5) tossicologia industriale.   
+3° Anno:   
+1) patologia e clinica delle malattie del lavoro (II corso);   
+2) prevenzione degli infortuni e delle malattie da lavoro (I corso);   
+3) epidemiologia delle malattie da lavoro;   
+4) radiobiologia e radioprotezione;   
+5) dermatologia professionale.   
+4° Anno:   
+1) patologia e clinica delle malattie da lavoro, III corso);   
+2) prevenzione degli infortuni e delle malattie da lavoro (II corso);   
+3) pronto soccorso;   
+4) medicina legale e delle assicurazioni;   
+5) organizzazione dei servizi di medicina ed igiene del lavoro.   
+Gli esami delle discipline svolte in corsi pluriennali verranno sostenuti alla fine dell'ultimo corso.   
+Art. 179. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
+Art. 180. - Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove d'esame sulle materie impartite durante l'anno. Per le materie biennali o triennali l'esame sara' sostenuto alla fine del biennio o del triennio.   
+Al termine del corso di studi per il conseguimento del diploma di specialista in medicina del lavoro, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta su un argomento inerente alla specializzazione.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1969
+### Dato a Roma, addi' 31 ottobre 1977
 
-SARAGAT FERRARI AGGRADI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 29 novembre 1969
+Registrato alla Corte dei conti, addi' 9 agosto 1978
 
-Atti del Governo, registro n. 230, foglio n. 85. - CARUSO
+Registro n. 89 Istruzione, foglio n. 200

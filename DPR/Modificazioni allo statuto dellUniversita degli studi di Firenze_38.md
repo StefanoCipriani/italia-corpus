@@ -1,185 +1,139 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1951 n. 957
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1969 n. 585
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1951 n. 957
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1969 n. 585
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con il [regio decreto 5 maggio 1939, n. 1165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-05;1165), e modificato con i [regi decreti 12 ottobre 1939, n. 1712](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-10-12;1712), [27 aprile 1942, n. 467](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-04-27;467), [24 ottobre 1942, n. 1439 e con decreto del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1439) [11 giugno 1950, n. 616](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-06-11;616);
-
-Veduto il testo unico delle, leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i succitati decreti, e' cosi' ulteriormente modificato:
-
-Attuale art. 51. - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di:
-
-22) "ebraico e lingue semitiche comparate".
-
-Attuale art. 82. - Agli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:
-
-15) fisiologia vegetale;
-
-16) geografia fisica.
-
-Attuale art. 101. - Agli insegnamenti complementari del corso di laurea in farmacia e' aggiunto quello di:
-
-7) fisiologia vegetale.
-
-Attuale art. 107. - E' aggiunto il seguente comma:
-
-"Al corso triennale di esercitazioni di chimica farmaceutica e tossicologica corrispondono tre esami che gli studenti devono sostenere al termine di ognuno dei tre corsi annuali".
-
-Attuale art. 168. - E' aggiunto quanto appresso:
-
-N. 6. Scuola di specializzazione in geografia.
-
-Attuale art. 169. - E' sostituito dal seguente:
-
-"I corsi di perfezionamento hanno la durata di un anno e conducono a un certificato di frequenza e di esame; e la Scuola di perfezionamento in filologia moderna e la Scuola di specializzazione in geografia hanno la durata di due anni e conducono a un diploma di perfezionamento.
-
-Dopo l'attuale art. 180 sono inseriti i seguenti nuovi articoli relativi alla istituzione di una Scuola di specializzazione in geografia annessa alla Facolta' di lettere e filosofia, con il conseguente spostamento della numerazione degli articoli successivi.
-
-Scuola di specializzazione in geografia.
-
-Art. 181. - La Scuola di specializzazione in geografia ha per compito di fornire una preparazione speciale di geografia ai laureati della Facolta' di lettere e filosofia, magistero, economia e commercio, scienze naturali, scienze politiche.
-
-Art. 182. - La Scuola di geografia ha la durata di due anni.
-
-I corsi della Scuola si distinguono in costitutivi e complementari.
-
-I corsi costitutivi sono:
-
-della Facolta' di lettere e filosofia:
-
-geografia umana generale e geografia regionale;
-
-storia delle dottrine ed esplorazioni geografiche;
-
-della Facolta' di magistero:
-
-geografia (corso differenziato da quello di lettere);
-
-della Facolta' di scienze naturali:
-
-geologia;
-
-geografia fisica;
-
-etnologia;
-
-della Facolta' di economia e commercio:
-
-geografia economica;
-
-statistica metodologica;
-
-della Facolta' di scienze politiche:
-
-geografia politica.
-
-Complementari sono altri corsi da scegliere tra quelli delle Facolta' suddette. Oltre a queste materie di studio, saranno dati insegnamenti pratici di cartografia e topografia e tenuti corsi di conferenze su argomenti particolari, gli uni e gli altri da determinarsi annualmente.
-
-Alcuni di essi potranno svolgersi in collaborazione con l'Istituto geografico militare.
-
-Art. 183. - La Scuola e' retta da un Consiglio formato da cinque professori, a cio' delegati dalle cinque Facolta' alle quali appartengono i corsi costitutivi. Il direttore della Scuola viene eletto dal Consiglio, i cui componenti durano in carica un biennio e sono rieleggibili.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 30 giugno 1951
-
-EINAUDI
-
-GONELLA
-
-Visto, il Guardasigilli: ZOLI
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 20 settembre 1951 Atti del Governo, registro n. 44, foglio n. 23. - FRASCA
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con il [regio decreto 5 maggio 1939, n. 1165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-05;1165), e modificato con i [regi decreti 12 ottobre 1939, n. 1712](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-10-12;1712), [27 aprile 1942, n. 467](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-04-27;467), [24 ottobre 1942, n. 1439 e con decreto del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1439) [11 giugno 1950, n. 616](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-06-11;616);  
-Veduto il testo unico delle, leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i succitati decreti, e' cosi' ulteriormente modificato:  
-Attuale art. 51. - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di:  
-22) "ebraico e lingue semitiche comparate".  
-Attuale art. 82. - Agli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:  
-15) fisiologia vegetale;  
-16) geografia fisica.  
-Attuale art. 101. - Agli insegnamenti complementari del corso di laurea in farmacia e' aggiunto quello di:  
-7) fisiologia vegetale.  
-Attuale art. 107. - E' aggiunto il seguente comma:  
-"Al corso triennale di esercitazioni di chimica farmaceutica e tossicologica corrispondono tre esami che gli studenti devono sostenere al termine di ognuno dei tre corsi annuali".  
-Attuale art. 168. - E' aggiunto quanto appresso:  
-N. 6. Scuola di specializzazione in geografia.  
-Attuale art. 169. - E' sostituito dal seguente:  
-"I corsi di perfezionamento hanno la durata di un anno e conducono a un certificato di frequenza e di esame; e la Scuola di perfezionamento in filologia moderna e la Scuola di specializzazione in geografia hanno la durata di due anni e conducono a un diploma di perfezionamento.  
-Dopo l'attuale art. 180 sono inseriti i seguenti nuovi articoli relativi alla istituzione di una Scuola di specializzazione in geografia annessa alla Facolta' di lettere e filosofia, con il conseguente spostamento della numerazione degli articoli successivi.  
+Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 33. - Nell'elenco degli insegnamenti complementari del corso di laurea in economia e commercio l'insegnamento di "Tecnica amministrativa delle imprese agricole e minerarie" e' soppresso e sono aggiunti i seguenti:   
   
-Scuola di specializzazione in geografia.  
+Diritto delle assicurazioni private e sociali;   
+Diritto pubblico dell'economia;   
+Econometria;   
+Economia monetaria e creditizia;   
+Economia del turismo;   
+Geografia applicata;   
+Organizzazione internazionale;   
+Principi e tecniche delle elaborazioni meccanografiche ed elettroniche;   
+Sociologia;   
+Teoria e tecnica della programmazione economica;   
+Teoria e politica dello sviluppo economico;   
+Ricerca operativa;   
+Economia internazionale;   
+Tecnica dell'organizzazione d'impresa;   
+Tecnica di borsa;   
+Economia aziendale;   
+Contabilita' di Stato;   
+Storia della ragioneria.   
+Art. 35. - L'elenco dei seminari e' soppresso e sostituito dal seguente:   
   
-Art. 181. - La Scuola di specializzazione in geografia ha per compito di fornire una preparazione speciale di geografia ai laureati della Facolta' di lettere e filosofia, magistero, economia e commercio, scienze naturali, scienze politiche.  
-Art. 182. - La Scuola di geografia ha la durata di due anni.  
-I corsi della Scuola si distinguono in costitutivi e complementari.  
-I corsi costitutivi sono:  
-della Facolta' di lettere e filosofia:  
-geografia umana generale e geografia regionale;  
-storia delle dottrine ed esplorazioni geografiche;  
-della Facolta' di magistero:  
-geografia (corso differenziato da quello di lettere);  
-della Facolta' di scienze naturali:  
-geologia;  
-geografia fisica;  
-etnologia;  
-della Facolta' di economia e commercio:  
-geografia economica;  
-statistica metodologica;  
-della Facolta' di scienze politiche:  
-geografia politica.  
-Complementari sono altri corsi da scegliere tra quelli delle Facolta' suddette. Oltre a queste materie di studio, saranno dati insegnamenti pratici di cartografia e topografia e tenuti corsi di conferenze su argomenti particolari, gli uni e gli altri da determinarsi annualmente.  
-Alcuni di essi potranno svolgersi in collaborazione con l'Istituto geografico militare.  
-Art. 183. - La Scuola e' retta da un Consiglio formato da cinque professori, a cio' delegati dalle cinque Facolta' alle quali appartengono i corsi costitutivi. Il direttore della Scuola viene eletto dal Consiglio, i cui componenti durano in carica un biennio e sono rieleggibili.  
+Istituto di statistica;   
+Istituto di ragioneria;   
+Istituto di tecnica industriale, commerciale e bancaria;   
+Istituto di matematica attuariale;   
+Istituto di economia politica;   
+Istituto di politica economica e finanziaria;   
+Istituto di scienza delle finanze;   
+Istituto di storia economica;   
+Istituto di diritto commerciale e industriale;   
+Istituto di diritto del lavoro;   
+Istituto di geografia economica;   
+Laboratorio di merceologia e museo merceologico.   
+Art. 42, relativo all'esame di laurea in economia e commercio e' modificato nel senso che il punto b) e', soppresso.   
+Art. 45, relativo alla scuola di statistica, annessa alla facolta' di economia e commercio e' modificato nel senso che l'insegnamento complementare di "Economia politica: Corso elementare" e' soppresso e vengono aggiunti i seguenti:   
+Istituzioni di economia politica;   
+Rappresentazioni grafiche (semestr.);   
+Teoria e tecnica del campionamento statistico (semestrale).   
+Nello stesso art. 45 il quarto comma, relativo alla unicita' degli esami degli insegnamenti semestrali di "statistica giudiziaria", "statistica sociale", "antropometria" e "statistica sanitaria", e' soppresso.   
+Art. 52. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:   
+  
+Lingua e letteratura russa;   
+Letteratura comparata;   
+Diritto e istituzioni medioevali;   
+Letteratura italiana moderna e contemporanea;   
+Ittitologia;   
+Filologia bizantina;   
+Storia contemporanea;   
+Storia delle lingue classiche;   
+Antichita' greche e romane;   
+Museografia;   
+Storia comparata dell'arte dei paesi europei;   
+Tecnica e restauro delle opere d'arte;   
+Istituzioni di diritto pubblico;   
+Linguistica generale e applicata;   
+Filologia baltica;   
+Filologia celtica;   
+Filologia balcanica o balcanologia;   
+Filologia italiana;   
+Storia della geografia e delle esplorazioni geografiche;   
+Storia economica;   
+Storia dell'Italia contemporanea;   
+Storia dei popoli extra-europei.   
+Art. 53. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:   
+Storia del Risorgimento;   
+Filologia medioevale e umanistica;   
+Una lingua e letteratura straniera moderna;   
+Storia delle scienze;   
+Diritto e istituzioni medioevali;   
+Letteratura italiana moderna e contemporanea;   
+Storia contemporanea;   
+Antichita' greche e romane;   
+Istituzioni di diritto pubblico;   
+Storia della geografia e delle esplorazioni geografiche;   
+Storia economica;   
+Storia dell'Italia contemporanea;   
+Storia dei popoli extra-europei.   
+Art. 54. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne sono aggiunti i seguenti:   
+  
+Filologia medioevale e umanistica;   
+Storia della filosofia moderna e contemporanea;   
+Letteratura comparata;   
+Letteratura italiana moderna e contemporanea;   
+Filologia bizantina;   
+Storia contemporanea;   
+Museografia;   
+Storia comparata dell'arte dei paesi europei;   
+Tecnica e restauro delle opere d'arte;   
+Istituzioni di diritto pubblico;   
+Linguistica generale e applicata;   
+Filologia baltica;   
+Filologia celtica;   
+Filologia balcanica o balcanologia;   
+Storia economica;   
+Storia dell'Italia contemporanea;   
+Storia dei popoli extra-europei.   
+Art. 205, relativo al corso di perfezionamento in filologia e antichita' classiche, annesso alla facolta' di lettere e filosofia, e' modificato nel senso che tra le materie costitutive e' aggiunto l'insegnamento di "Etruscologia".   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 giugno 1951
+### Dato a Roma, addi' 2 maggio 1969
 
-EINAUDI GONELLA
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: ZOLI
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 20 settembre 1951
+Registrato alla Corte dei conti, addi' 26 agosto 1969
 
-Atti del Governo, registro n. 44, foglio n. 23. - FRASCA
+Atti del Governo, registro n. 228, foglio n. 217. CARUSO

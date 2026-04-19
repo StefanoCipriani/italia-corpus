@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 ottobre 1975 n. 788
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 532
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 ottobre 1975 n. 788
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 532
+=============================================================
 
 Autorizzazione all'Associazione nazionale mutilati ed invalidi del lavoro, in Roma, ad acquistare un immobile.
 --------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-788. Decreto del Presidente della Repubblica 20 ottobre 1975, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Associazione nazionale mutilati ed invalidi del lavoro, in Roma, viene autorizzata ad acquistare, per il prezzo di lire 37.000.000, una porzione di immobile rappresentata da un appartamento al piano terra dello stabile sito in Venezia Dorsoduro, civ. 3880, di proprieta' dei signori Mario Ziliotto e Archis Silvia Ziliotto, censito in catasto al foglio n. 14, mappale 677/1, come da rogito per notaio Angelo Sandi del 5 marzo 1974, n. 31266 di repertorio, destinato a sede dell'ente.  
+532. Decreto del Presidente della Repubblica 11 maggio 1979, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Associazione nazionale mutilati ed invalidi del lavoro, in Roma, viene autorizzata ad acquistare, al prezzo di L. 87.600.000, l'immobile costituito da due monolocali con servizi, un appartamento di sei vani e accessori, un locale al piano seminterrato sito in Firenze alla via Capodimondo-via Mannelli, distinto nel nuovo catasto edilizio urbano al foglio 96 dalle particelle 21, 24, 533, 534 e 535, di proprieta' della S.p.a.  
+Manifatture specchi e vetri Felice Quentin, come da atto di compravendita in data 20 giugno 1974, n. 10192 di repertorio, a rogito notaio Mario Speranzini.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 17 gennaio 1976  
-Atti di Governo, registro n. 1, foglio n. 40
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti, addi' 10 ottobre 1979  
+Registro n. 1 Lavoro, foglio n. 76

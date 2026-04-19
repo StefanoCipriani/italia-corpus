@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 710
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1986 n. 781
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 710
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1986 n. 781
 ==============================================================
 
 Modificazioni allo statuto della seconda Universita' degli studi di Roma.
@@ -35,101 +35,222 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto della seconda Universita' di Roma "Tor Vergata", approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto della seconda Universita' degli studi di Roma "Tor Vergata", approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Art. 1
 ------
 
   
-L'art. 68, relativo all'elenco delle scuole di specializzazione, e' integrato nel senso che dopo la scuola di chirurgia generale e' aggiunta la seguente:  
   
-Chirurgia pediatrica Afferente alla facolta'  
-di medicina e chirurgia  
+L'art. 68, relativo all'elenco delle scuole di specializzazione, e' modificato nel senso che la scuola di specializzazione in malattie infettive, afferente alla facolta' di medicina e chirurgia e' contrassegnata con asterisco. Lo stesso articolo e' integrato nel senso che e' aggiunta la seguente scuola:   
+  
+  
+(\*) scuola di specializzazione in "chirurgia d'urgenza e di pronto soccorso",   
+afferente alla facolta' di medicina e chirurgia.   
 
 Art. 2
 ------
 
   
+L'art. 79, relativo all'ordinamento della scuola di specializzazione in malattie infettive, e' soppresso.  
+
+Art. 3
+------
+
   
-Dopo l'art. 94, e con lo spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli, relativi alla istituzione della scuola di specializzazione in chirurgia pediatrica, afferente alla facolta' di medicina e chirurgia.   
   
-Scuola di specializzazione in chirurgia pediatrica   
+Dopo l'art. 266 sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in "chirurgia d'urgenza e di pronto soccorso", nonche' al riordinamento della scuola di specializzazione in "malattie infettive", afferenti alla facolta' di medicina e chirurgia.   
   
-Art. 95. - E' istituita presso l'Universita' di Roma "Tor Vergata" la scuola di specializzazione in chirurgia pediatrica che conferisce il diploma di specialista in chirurgia pediatrica.   
-Art. 96. - La direzione della scuola ha sede presso l'Universita' di Roma "Tor Vergata", facolta' di medicina e chirurgia.   
-Art. 97. - La scuola ha lo scopo di permettere il conseguimento, successivamente alla laurea, del diploma che legittimi l'assunzione della qualifica di specialista in chirurgia pediatrica.   
-Art. 98. - La durata del corso e' di cinque anni e non e' suscettibile di abbreviazione.   
-Art. 99. - Il numero degli iscritti e' di otto per anno per un totale di quaranta per l'intero corso.   
-Art. 100. - Alla scuola sono ammessi solo i laureati in medicina e chirurgia (salvo diverso indirizzo). E' richiesto il possesso del diploma di abilitazione allo esercizio professionale rilasciato dall'autorita' competente che rappresenta titolo comunque indispensabile per essere ammessi all'esame di ammissione.   
-Art. 101. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:   
-a) la tesi nella disciplina attinente alla specializzazione;   
-b) il voto di laurea;   
-c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;   
-d) le pubblicazioni nelle predette materie.   
-Il punteggio dei predetti titoli e' quello stabilito dal decreto ministeriale 16 settembre 1982.   
-Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo.   
-Art. 102. - Le materie di insegnamento tutte afferenti alla facolta' di medicina e chirurgia sono le seguenti:   
+Scuola di specializzazione in chirurgia d'urgenza e pronto soccorso   
+  
+Art. 267. - E' istituita la scuola di specializzazione in chirurgia d'urgenza e pronto soccorso presso la seconda Universita' degli studi di Roma.   
+La scuola di specializzazione in chirurgia d'urgenza e di pronto soccorso ha lo scopo di fornire le competenze professionali sia per il trattamento delle urgenze chirurgiche spontanee e traumatiche, sia per il trattamento dei politraumatizzati in corso di pubbliche calamita'.   
+La scuola rilascia il titolo di specialista in chirurgia d'urgenza e di pronto soccorso.   
+Art. 268. - La scuola ha la durata di cinque anni e non e' suscettibile di abbreviazioni.   
+Ciascun anno di corso prevede non meno di ottocento ore di insegnamento e di attivita' pratiche guidate.   
+In base alle strutture ed attrezzature disponibili, la scuola e' in grado di accettare il numero massimo di iscritti determinato in quattro per ciascun anno di corso, per un totale di venti specializzandi.   
+Art. 269. - Per l'attuazione delle attivita' didattiche programmate dal consiglio della scuola provvede la facolta' di medicina e chirurgia.   
+Art. 270. - Sono ammessi alle prove per ottenere l'iscrizione alla scuola i laureati in medicina e chirurgia.   
+Per l'iscrizione alla scuola e' richiesto il possesso del diploma di abilitazione all'esercizio professionale.   
+Art. 271. - La scuola comprende sei aree di insegnamento e tirocinio professionale:   
+a) area di chirurgia e propedeutica chirurgica;   
+b) area di chirurgia d'urgenza;   
+c) area di pronto soccorso;   
+d) area di diagnostica;   
+e) area di anestesia e rianimazione;   
+f) area di medicina sociale.   
+Art. 272. - Gli insegnamenti a ciascuna area didattica e formativa professionale sono i seguenti:   
+a) Area di chirurgia e propedeutica chirurgica:   
+chirurgia generale;   
+tecniche operatorie;   
+fisiopatologia chirurgica;   
+chirurgia sperimentale.   
+b) Area di chirurgia d'urgenza:   
+chirurgia d'urgenza e di pronto soccorso;   
+chirurgia di guerra;   
+chirurgia ginecologica;   
+chirurgia maxillo-facciale;   
+chirurgia pediatrica;   
+chirurgia plastica e riparatrice;   
+chirurgia del politraumatizzato;   
+chirurgia toracica;   
+chirurgia urologica;   
+chirurgia vascolare;   
+cardiochirurgia;   
+microchirurgia;   
+neurochirurgia;   
+tecniche di alimentazione artificiale nel paziente critico;   
+traumatologia dell'apparato locomotore.   
+c) Area di pronto soccorso:   
+organizzazione chirurgica delle grandi calamita';   
+metodologia organizzativa dei disastri sul territorio;   
+chirurgia di piccolo pronto soccorso.   
+d) Area di diagnostica:   
+patologia clinica;   
+anatomia e istologia patologica;   
+radiologia e tecniche eidologiche (diagnostica per analisi di immagini);   
+endoscopia diagnostica ed operativa;   
+angioradiologia.   
+e) Area di anestesia e rianimazione:   
+anestesiologia;   
+rianimazione e terapia intensiva.   
+f) Area di medicina sociale:   
+medicina legale e delle assicurazioni;   
+medicina delle comunita';   
+lingua straniera (inglese scientifico).   
+Art. 273. - L'attivita' didattica comprende ogni anno non meno di ottocento ore di didattica formale e di tirocinio professionale guidato. Essa e' organizzata in una attivita' didattica teorico-pratica comune per tutti gli studenti (quattrocento ore come di seguito ripartite) ed in una attivita' didattica elettiva, prevalentemente di carattere tecnico-applicativo di ulteriori quattrocento ore rivolta all'apprendimento del curriculum corrispondente ad uno dei settori formativo-professionali (monte ore elettivo).   
+La frequenza nelle diverse aree avviene pertanto come di seguito specificato:   
   
 1° Anno:   
-1) embriologia e genetica delle malformazioni congenite;   
-2) anatomia patologica generale I (biennale);   
-3) diagnostica radiologica e nucleare generale;   
-4) anestesiologia;   
-5) clinica pediatrica I (biennale);   
-6) patologia e clinica chirurgica generale I (biennale).   
+Area di chirurgia e propedeutica chirurgica (ore 160):   
+chirurgia generale . . . . . . . . . . . . . . . . . . . . . . ore 70 fisiopatologia chirurgica. . . . . . . . . . . . . . . . . . . ore 50 chirurgia sperimentale . . . . . . . . . . . . . . . . . . . . ore 40 Area di chirurgia d'urgenza (ore 70):   
+chirurgia d'urgenza e di pronto soccorso . . . . . . . . . . . ore 70 Area di pronto soccorso (ore 60):   
+chirurgia di piccolo pronto soccorso . . . . . . . . . . . . . ore 60 Area di diagnostica (ore 60):   
+patologia clinica. . . . . . . . . . . . . . . . . . . . . . . ore 60 Area di anestesia e rianimazione (ore 40):   
+anestesiologia . . . . . . . . . . . . . . . . . . . . . . . . ore 40 Area di medicina sociale (ore 20):   
+lingua straniera (inglese scientifico) . . . . . . . . . . . . ore 20 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
   
-2° Anno:   
-1) patologia e clinica chirurgica generale II (biennale);   
-2) rianimazione e terapia intensiva I (biennale);   
-3) anatomia patologica generale II (biennale);   
-4) diagnostica radiologia e nucleare delle malattie infantili;   
-5) clinica pediatrica II (biennale).   
+2° Anno.   
+Area di chirurgia e propedeutica chirurgica (ore 100):   
+chirurgia generale . . . . . . . . . . . . . . . . . . . . . . ore 60 fisiopatologia chirurgica. . . . . . . . . . . . . . . . . . . ore 40 Area di chirurgia d'urgenza (ore 70):   
+chirurgia d'urgenza e di pronto soccorso . . . . . . . . . . . ore 70 Area di pronto soccorso (ore 50):   
+chirurgia di piccolo pronto soccorso . . . . . . . . . . . . . ore 50 Area di diagnostica (ore 100):   
+anatomia e istologia patologia . . . . . . . . . . . . . . . . ore 50 endoscopia diagnostica e operativa . . . . . . . . . . . . . . ore 50 Area di anestesia e rianimazione (ore 60):   
+rianimazione e terapia intensiva . . . . . . . . . . . . . . . ore 60 Area di medicina sociale (ore 20):   
+medicina delle comunita'. . . . . . . . . . . . . . . . . . . . ore 20 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
   
 3° Anno:   
-1) patologia e clinica chirurgica pediatrica I (triennale);   
-2) endocrinologia pediatrica;   
-\*3) semeiotica e diagnostica strumentale pediatrica;   
-4) rianimazione e terapia intensiva II (biennale);   
-5) chirurgia neonatale;   
-\*6) oncologia pediatrica;   
-7) tecnica chirurgica generale.   
+Area di chirurgia e propedeutica chirurgica (ore 60):   
+chirurgia generale . . . . . . . . . . . . . . . . . . . . . . ore 60 Area di chirurgia d'urgenza (ore 170):   
+chirurgia d'urgenza e di pronto soccorso . . . . . . . . . . . ore 70 microchirurgia . . . . . . . . . . . . . . . . . . . . . . . . ore 30 chirurgia vascolare. . . . . . . . . . . . . . . . . . . . . . ore 40 tecniche di alimentazione artificiale nel paziente critico . . ore 30 Area di pronto soccorso (ore 30):   
+organizzazione chirurgica delle grandi calamita'. . . . . . . . ore 30 Area di diagnostica (ore 80):   
+radiologia e tecniche eidologiche   
+(diagnostica per l'analisi di immagini). . . . . . . . . . . . ore 50 endoscopia diagnostica e operativa . . . . . . . . . . . . . . ore 30 Area di anestesia e rianimazione (ore 60):   
+rianimazione e terapia intensiva . . . . . . . . . . . . . . . ore 60 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
   
 4° Anno:   
-1) patologia e clinica chirurgica pediatrica II (triennale);   
-2) neurochirurgia pediatrica;   
-3) tecnica chirurgica pediatrica;   
-4) ortopedia pediatrica;   
-5) chirurgia plastica o ricostruttiva pediatrica.   
+Area di chirurgia e propedeutica chirurgica (ore 60):   
+chirurgia generale . . . . . . . . . . . . . . . . . . . . . . ore 60 Area di chirurgia d'urgenza (ore 260):   
+chirurgia d'urgenza e di pronto soccorso . . . . . . . . . . . ore 60 chirurgia ginecologica . . . . . . . . . . . . . . . . . . . . ore 40 chirurgia vascolare. . . . . . . . . . . . . . . . . . . . . . ore 40 neurochirurgia . . . . . . . . . . . . . . . . . . . . . . . . ore 40 traumatologia dell'apparato locomotore . . . . . . . . . . . . ore 40 chirurgia pediatrica . . . . . . . . . . . . . . . . . . . . . ore 40 Area di pronto soccorso (ore 40):   
+metodologia organizzativa dei disastri sul territorio. . . . . ore 40 Area di diagnostica (ore 40):   
+angioradiologia. . . . . . . . . . . . . . . . . . . . . . . . ore 40 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
   
 5° Anno:   
-1) patologia e clinica chirurgica pediatrica III (triennale);   
-2) otorinolaringoiatria pediatrica;   
-3) cardiochirurgia pediatrica;   
-4) urologia pediatrica;   
-\*5) chirurgia gastroenterologica pediatrica.   
+Area di chirurgia e propedeutica chirurgica (ore 50):   
+tecniche operatorie. . . . . . . . . . . . . . . . . . . . . . ore 50 Area di chirurgia d'urgenza (ore 310):   
+chirurgia d'urgenza e di pronto soccorso . . . . . . . . . . . ore 70 chirurgia plastica e riparatrice . . . . . . . . . . . . . . . ore 50 cardiochirurgia. . . . . . . . . . . . . . . . . . . . . . . . ore 40 chirurgia toracica . . . . . . . . . . . . . . . . . . . . . . ore 60 chirurgia del politraumatizzato. . . . . . . . . . . . . . . . ore 30 chirurgia maxillo-facciale . . . . . . . . . . . . . . . . . . ore 30 chirurgia di guerra. . . . . . . . . . . . . . . . . . . . . . ore 30 Area di medicina sociale (ore 40):   
+medicina legale e delle assicurazioni. . . . . . . . . . . . . ore 40 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
   
-Le materie contrassegnate con asterisco sono opzionali.   
+Art. 274. - Durante i cinque anni di corso e' richiesta la frequenza nei seguenti reparti o servizi:   
+chirurgia d'urgenza con particolare riguardo alle urgenze toraco-addominali;   
+chirurgia generale;   
+patologia clinica per l'urgenza;   
+terapia intensiva;   
+endoscopia;   
+diagnostica eidologica.   
+La frequenza nelle varie aree per complessive ottocento ore annue, compreso il monte ore elettivo di quattrocento ore annue, avverra' secondo delibera del consiglio della scuola, tale da assicurare ad ogni specializzando un adeguato periodo di esperienza e di formazione scientifica. Il consiglio della scuola ripartira' annualmente il monte ore elettivo.   
+Il consiglio della scuola predispone apposito libretto di formazione, che consenta allo specializzando e al consiglio stesso il controllo dell'attivita' svolta e dell'acquisizione dei progressi compiuti.   
   
-Art. 103. - La frequenza ai corsi e' obbligatoria. Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione d'esame di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso. Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.   
-Art. 104. - L'attivita' pratica consistera' in una frequenza obbligatoria ai fini dell'apprendimento durante tutti i cinque anni che si svolgera' sotto forma di permanenza costante durante le ore stabilite presso il reparto di chirurgia pediatrica. La frequenza necessaria per essere ammessi a sostenere gli esami dovra' essere al minimo del 70% dei singoli insegnamenti, e per quanto riguarda l'attivita' pratica lo specializzando dovra' frequentare per cinque giorni la settimana per 26 settimane.   
-Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.   
-Art. 105. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio della scuola di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso. A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.   
-Art. 106. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.   
-Art. 107. - E' costituito un consiglio presieduto da un direttore.  
-Il consiglio e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).   
-Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento di insegnamenti.   
-La direzione della scuola e' affidata a professore ordinario o straordinario che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.   
+Scuola di specializzazione in malattie infettive   
+  
+Art. 275. - E' istituita la scuola di specializzazione in malattie infettive presso la seconda Universita' degli studi di Roma "Tor Vergata".   
+La scuola ha lo scopo di insegnare e di approfondire gli studi nel campo delle malattie infettive e di fornire le competenze professionali relative alle malattie infettive, all'epidemiologia, alla diagnostica di laboratorio in malattie infettive; alla medicina delle comunita', con le conseguenti possibilita' operative nel Servizio sanitario nazionale.   
+La scuola rilascia il titolo di specialista in malattie infettive.   
+Art. 276. - La scuola ha la durata di quattro anni.   
+Ciascun anno di corso prevede ottocento ore di insegnamento e di attivita' pratiche guidate.   
+In base alle strutture ed attrezzature disponibili, la scuola e' in grado di accettare il numero massimo di iscritti determinato in due per ciascun anno di corso per un totale di otto specializzandi.   
+Art. 277. - Per l'attuazione delle attivita' didattiche programmate dal consiglio della scuola provvede la facolta' di medicina e chirurgia.   
+Art. 278. - Sono ammessi alle prove per ottenere l'iscrizione i laureati in medicina e chirurgia.   
+Per l'iscrizione alla scuola e' richiesto il possesso del diploma di abilitazione all'esercizio della professione.   
+Art. 279. - La scuola comprende quattro aree di insegnamento e tirocinio professionale:   
+a) etiologia e patogenesi;   
+b) epidemiologia e prevenzione;   
+c) metodologie diagnostiche di laboratorio;   
+d) patologia e clinica delle malattie infettive.   
+Art. 280. - Gli insegnamenti relativi a ciascuna area didattica e formativa professionale sono i seguenti:   
+a) Etiologia e patogenesi:   
+batteriologia medica;   
+virologia medica;   
+parassitologia e micologia medica;   
+immunologia delle malattie infettive.   
+b) Epidemiologia e prevenzione:   
+epidemiologia, statistica e informatica delle malattie infettive;   
+medicina delle comunita';   
+legislazione sanitaria delle malattie infettive.   
+c) Metodologie diagnostiche di laboratorio:   
+tecniche batteriologiche;   
+tecniche virologiche;   
+tecniche parassitologiche e micologiche;   
+tecniche immunologiche.   
+d) Patologia e clinica delle malattie infettive:   
+clinica delle malattie infettive;   
+terapia delle malattie infettive;   
+malattie tropicali e subtropicali;   
+metodologia clinica delle malattie infettive.   
+Art. 281. - L'attivita' didattica comprende ogni anno ottocento ore di didattica formale e di tirocinio professionale guidato. Essa e' organizzata in una attivita' didattica teorico-pratica comune per tutti gli studenti (quattrocento ore come di seguito ripartite) ed in una attivita' didattica elettiva prevalentemente di carattere tecnico-applicativo di ulteriori quattrocento ore rivolta all'apprendimento del curriculum corrispondente ad uno dei settori formativo-professionali (monte ore elettivo).   
+La frequenza nelle diverse aree avviene pertanto come di seguito specificato:   
+  
+1° Anno:   
+Etiologia e patogenesi (ore 150):   
+batteriologia medica . . . . . . . . . . . . . . . . . . . . . ore 50 virologia medica . . . . . . . . . . . . . . . . . . . . . . . ore 50 parassitologia e micologia medica. . . . . . . . . . . . . . . ore 50 Epidemiologia e prevenzione (ore 70):   
+epidemiologia, statistica ed informatica delle malattie infettive. .  
+. . . . . . . . . . . . . . . . . . . . . . . . . ore 70 Patologia e clinica delle malattie infettive (ore 180):   
+metodologia clinica delle malattie infettive. . . . . . . . . ore 180 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
+  
+2° Anno:   
+Etiologia e patogenesi (ore 50):   
+immunologia delle malattie infettive . . . . . . . . . . . . . ore 50 Metodologie diagnostiche di laboratorio (ore 200):   
+tecniche batteriologiche . . . . . . . . . . . . . . . . . . . ore 60 tecniche virologiche . . . . . . . . . . . . . . . . . . . . . ore 80 tecniche parassitologiche e micologiche. . . . . . . . . . . . ore 60 Patologia e clinica delle malattie infettive (ore 150):   
+malattie tropicali e subtropicali . . . . . . . . . . . . . . ore 150 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
+  
+3° Anno:   
+Epidemiologia e prevenzione (ore 60):   
+medicina delle comunita. . . . . . . . . . . . . . . . . . . . ore 40 legislazione sanitaria delle malattie infettive. . . . . . . . ore 20 Metodologie diagnostiche di laboratorio (ore 80):   
+tecniche immunologiche . . . . . . . . . . . . . . . . . . . . ore 80 Patologia e clinica delle malattie infettive (ore 260):   
+clinica delle malattie infettive. . . . . . . . . . . . . . . ore 260 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
+  
+4° Anno:   
+Patologia e clinica delle malattie infettive (ore 400):   
+clinica delle malattie infettive. . . . . . . . . . . . . . . ore 300 terapia delle malattie infettive. . . . . . . . . . . . . . . ore 100 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
+  
+Art. 282. - Durante i quattro anni di corso e' richiesta la frequenza ai fini dell'apprendimento nei seguenti reparti/divisioni/ambulatori/laboratori:   
+laboratorio di microbiologia, virologia, parassitologia, immunologia, epidemiologia e biostatistica;   
+ambulatorio, Day Hospital e reparto di degenza di malattie infettive.   
+La frequenza nelle varie aree per complessive ottocento ore annue, compreso il monte ore elettivo di quattrocento ore annue, avverra' secondo delibera del consiglio della scuola, tale da assicurare ad ogni specializzando un adeguato periodo di esperienza di formazione professionale. Il consiglio della scuola ripartira' annualmente il monte ore elettivo.   
+Il consiglio della scuola predispone apposito libretto di formazione, che consenta allo specializzando ed al consiglio stesso il controllo dell'attivita' svolta e dell'acquisizione dei progressi compiuti, per sostenere gli esami annuali e finali.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1983
+### Dato a Roma, addi' 4 ottobre 1986
 
-PERTINI FALCUCCI
+COSSIGA
 
-Visto, il Guardasigilli: MARTINAZZOLI
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 21 dicembre 1983
+Visto, il Guardasigilli: ROGNONI
 
-Registro n. 78 Istruzione, foglio n. 80
+Registrato alla Corte dei conti, addi' 18 novembre 1986
+
+Registro n. 85 Istruzione, foglio n. 94

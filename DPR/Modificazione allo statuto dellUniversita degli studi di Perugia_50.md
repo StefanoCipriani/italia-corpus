@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 827
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1982 n. 714
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 827
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1982 n. 714
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Perugia.
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Perugia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -21,8 +21,6 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
 Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
 
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
@@ -35,28 +33,29 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-L'art. 32, relativo al corso di laurea in lettere della facolta' di lettere e filosofia, viene modificato nel senso che l'insegnamento fondamentale per l'indirizzo moderno di "storia dell'arte medioevale e moderna" viene scisso nei seguenti due insegnamenti:  
-storia dell'arte medioevale;  
-storia dell'arte moderna.  
+Art. 15 - nell'art. 15, relativo al corso di laurea in scienze politiche, gli indirizzi in cui e' articolato il biennio di specializzazione assumono la seguente nuova denominazione:  
+politico-amministrativo;  
+politico-internazionale;  
+politico-sociale;  
+storico-politico;  
+politico-economico.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 giugno 1986
+### Dato a Roma, addi' 15 luglio 1982
 
-COSSIGA
+PERTINI BODRATO
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: DARIDA
 
-Visto, il Guardasigilli: ROGNONI
+Registrato alla Corte dei conti, addi' 28 settembre 1982
 
-Registrato alla Corte dei conti, addi' 27 novembre 1986
-
-Registro n. 86 Istruzione, foglio n. 123
+Registro n. 112 Istruzione, foglio n. 371

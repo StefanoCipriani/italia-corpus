@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 dicembre 1983 n. 902
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 giugno 1982 n. 740
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 dicembre 1983 n. 902
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 giugno 1982 n. 740
+=============================================================
 
 Autorizzazione all'Associazione italiana della Croce rossa, in Roma, ad accettare una eredita'.
 -----------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-902. Decreto del Presidente della Repubblica 19 dicembre 1983, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare, con beneficio d'inventario, l'eredita', consistente in tre appartamenti uso abitazione ed un negozio siti in Roma, destinata all'istituzione di una borsa di studio nella facolta' di medicina e chirurgia a favore di uno studente romano che ne sia meritevole, borsa di studio da intitolarsi al marito Aldo Perini ed ai figli Maria Valentina e Mario Perini, disposta dalla sig.ra Alfonsa Anna Celestini ved. Perini con testamento olografo 20 dicembre 1968, pubblicato in data 5 gennaio 1972, n. 7891/597 di repertorio, a rogito dott. Mario Pocaterra, notaio in Velletri (Roma), registrato a Velletri in data 11 gennaio 1972 al n. 156.  
+740. Decreto del Presidente della Repubblica 29 giugno 1982, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare, con beneficio d'inventario, l'eredita', consistente nella somma di L. 22.752.499, disposta dal signor Angelo Giordano con testamento 14 gennaio 1938, omologato dalla corte delle successioni della Contea del Bronx (U.S.A.) con provvedimento 20 ottobre 1975, registrato negli atti di ultima volonta' al n. 604, pag. 424.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 9 febbraio 1984  
-Registro n. 1 Sanita', foglio n. 397
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 2 ottobre 1982  
+Registro n. 6 Sanita', foglio n. 231

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1973 n. 1022
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1970 n. 478
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1973 n. 1022
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1970 n. 478
 ===============================================================
 
 Modificazioni allo statuto dell'Istituto autonomo per le case popolari della provincia di Savona.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1022. Decreto del Presidente della Repubblica 8 ottobre 1973, col quale, sulla proposta del Ministro per i lavori pubblici, vengono approvate le modifiche agli articoli 4, 5, 6, 7 e 16 dello statuto dell'Istituto autonomo per le case popolari della provincia di Savona, approvato con [regio decreto 23 settembre 1937, n. 1778](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-09-23;1778).  
+478. Decreto del Presidente della Repubblica 2 febbraio 1970, col quale, sulla proposta del Ministro per i lavori pubblici, vengono approvate alcune modifiche allo statuto dell'Istituto autonomo per le case popolari della provincia di Savona.  
   
-Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 15 febbraio 1974  
-Atti di Governo, registro n. 1, foglio n. 87. - CARUSO
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 7 luglio 1970  
+Atti del Governo, registro n. 236, foglio n. 118. - CARUSO

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 470
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1986 n. 203
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 470
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1986 n. 203
+==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Genova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -33,25 +33,28 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Art. 63 - nell'elenco degli insegnamenti complementari del corso di laurea in materie letterarie e' inserito il seguente insegnamento:  
-storia del commercio e della navigazione.  
+Nell'art. 70, all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti insegnamenti:  
+puericultura prenatale;  
+scienza dell'ortogenesi.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 giugno 1983
+### Dato a Roma, addi' 21 gennaio 1986
 
-PERTINI FALCUCCI
+COSSIGA
 
-Visto, il Guardasigilli: DARIDA
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 17 agosto 1983
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registro n. 59 Istruzione, foglio n. 122
+Registrato alla Corte dei conti, addi' 29 aprile 1986
+
+Registro n. 34 Istruzione, foglio n. 109

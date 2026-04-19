@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 279
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 aprile 1985 n. 614
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 279
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 aprile 1985 n. 614
+=============================================================
 
 Autorizzazione all'Associazione nazionale mutilati ed invalidi del lavoro, in Roma, ad acquistare un immobile.
 --------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-279. Decreto del Presidente della Repubblica 10 febbraio 1986, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Associazione nazionale mutilati ed invalidi del lavoro, in Roma, viene autorizzata ad acquistare, al prezzo di L. 43.000.000, una porzione di immobile rappresentata da un appartamento sito in Bari, via Quintino Sella n. 218, censito al nuovo catasto edilizio urbano alla partita 60436, foglio 96, particella 187 sub 5, di proprieta' dei signori Luigi Urso e Giuseppe Rossano, come da atto di compravendita, sottoposto a condizione sospensiva, in data 13 maggio 1974, n. 224644 di repertorio, a rogito dott. Enzo Fornaro, notaio in Bari, da adibire ad uffici dell'ente.   
+614. Decreto del Presidente della Repubblica 5 aprile 1985, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Associazione nazionale mutilati ed invalidi del lavoro, in Roma, viene autorizzata ad acquistare, al prezzo di L. 30.000.000, l'immobile rappresentato da cinque stanze al primo piano, scala A, e da un vano cantina, al piano interrato, dello stabile sito in Ferrara, contrada della Rosa n. 48, da pagarsi una parte mediante la cessione in permuta dell'immobile gia' di proprieta' dell'ANMIL del valore di L. 10.000.000 e per una parte mediante un conguaglio di L. 20.000.000, come risulta dal contratto di permuta sottoposto a condizione sospensiva 28 aprile 1975, n. 24753 di repertorio, a rogito dottor Ignazio Magnani, notaio in Ferrara, registrato a Ferrara in data 9 maggio 1975 al n. 1567.   
   
 Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 12 giugno 1986   
-Registro n. 1 Lavoro, foglio n. 242
+Registrato alla Corte dei conti, addi' 26 ottobre 1985   
+Registro n. 1 Lavoro, foglio n. 228

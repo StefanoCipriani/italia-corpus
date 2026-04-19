@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1979 n. 343
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1982 n. 1025
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1979 n. 343
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1982 n. 1025
+===============================================================
 
 Modificazione allo statuto del libero Istituto universitario di medicina e chirurgia dell'Aquila.
 -------------------------------------------------------------------------------------------------

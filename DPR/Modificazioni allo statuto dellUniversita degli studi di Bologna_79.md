@@ -1,93 +1,206 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 475
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1980 n. 159
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 475
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1980 n. 159
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
-  
-Decreta:  
+Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive, modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla
+-----
+
+proposta del Ministro della pubblica istruzione; Decreta:
+
+Articolo unico
+--------------
+
   
 Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli 458, 459, 460, 461, 462 e 463, relativi alla scuola di specializzazione in ostetricia e ginecologia, che muta la denominazione in quella di scuola di specializzazione in ginecologia e ostetricia, sono soppressi e sostituiti dai seguenti:  
+Gli articoli 569, 570, relativi alla scuola di specializzazione in igiene e medicina preventiva, sono soppressi e sostituiti dai seguenti:  
+Art. 569. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in igiene e medicina preventiva, con sede presso l'istituto di igiene, che conferisce il diploma di igiene e medicina preventiva con i seguenti orientamenti: sanita' pubblica, igiene e tecnica ospedaliera, igiene del lavoro, igiene e medicina scolastica, laboratorio.  
+Il corso ha la durata di quattro anni.  
+Il corso si distingue in un biennio propedeutico seguito da un biennio differenziato con cinque orientamenti e precisamente:  
+a) sanita' pubblica;  
+b) igiene e tecnica ospedaliera;  
+c) igiene del lavoro;  
+d) igiene e medicina scolastica;  
+e) laboratorio.  
+Sono ammessi i laureati in medicina e chirurgia. La ammissione avviene per titoli ed esami.  
+Sono disponibili trentacinque posti per ciascun anno di corso e complessivamente centoquaranta per l'intero corso di studio.  
+Coloro che hanno conseguito il diploma di specializzazione per uno dei cinque orientamenti, possono essere iscritti al terzo anno di un altro orientamento nell'ambito della disponibilita' dei posti.  
+Non sono consentite altre abbreviazioni di corso.  
+Art. 570. - Il piano di studi e' il seguente:  
   
-Scuola di specializzazione in ginecologia e ostetricia  
-Art. 458. - Il corso di studi per la specializzazione in ginecologia e ostetricia ha la durata di quattro anni.  
-L'ammissione alla scuola avviene a seguito di concorso per titoli ed esami.  
-Art. 459. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine. Il direttore e' nominato dalla facolta' di medicina e chirurgia per un anno ed e' sempre riconfermabile.  
-Egli presiede il consiglio della scuola costituito a norma dell'art. 187 ed e' tenuto a dare comunicazione al preside della facolta' medico-chirurgica di tutti gli atti e di tutte le deliberazioni del consiglio da lui presieduto.  
-Art. 460. - Il numero massimo degli allievi e' di dieci per anno di corso e complessivamente di quaranta iscritti per l'intero corso di studi.  
-Per nessun motivo il corso di quattro anni puo' essere abbreviato.  
-Nessun titolo puo' esonerare dalla frequenza gli iscritti ai quattro anni di corso.  
-Art. 461. - Gli iscritti, oltre all'obbligo di frequenza alle lezioni cattedratiche, esercitazioni, seminari, ecc., debbono effettuare esercitazioni pratiche nei reparti per non meno di dieci mesi su dodici all'anno.  
-La scelta dei mesi di permesso e' in facolta' del consiglio della scuola a seconda dell'epoca delle lezioni e delle esigenze di servizio nella clinica.  
-Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi.  
-La sessione di esami di profitto e' unica ed e' espletata nel mese di novembre.  
-La frequenza degli iscritti deve essere convalidata e confermata dalla firma degli insegnanti delle rispettive materie.  
-Art. 462. - Le materie di insegnamento sono le seguenti:  
+I BIENNIO  
+  
 1° Anno:  
-a) elementi di genetica medica;  
-b) elementi di embriologia; anatomia macro e micro dell'apparato genitale femminile; anatomia della pelvi;  
-c) elementi di fisiopatologia della riproduzione umana;  
-d) fisiologia ostetrica;  
-e) endocrinologia ginecologica ed ostetrica;  
-f) semeiotica e diagnostica ostetrica;  
-g) patologia ostetrica e ginecologica (biennale) I;  
-h) lingua straniera (inglese) I (quadriennale).  
+metodologia statistica e biometria;  
+educazione sanitaria;  
+psicologia;  
+microbiologia e immunologia I;  
+parassitologia;  
+epidemiologia generale e metodologia;  
+profilassi generale;  
+sociologia medica ed antropologia culturale.  
 2° Anno:  
-a) semeiotica e diagnostica ginecologica;  
-b) operazioni ostetriche I (biennale);  
-c) anatomia e istologia patologica della sfera genitale femminile;  
-d) citologia ginecologica;  
-e) patologia ostetrica e ginecologica II (biennale);  
-f) diagnostica di laboratorio in ostetricia e ginecologia;  
-g) lingua straniera (inglese) II (quadriennale).  
+microbiologia e immunologia II;  
+patologia e clinica delle malattie infettive;  
+epidemiologia e profilassi delle malattie infettive I;  
+patologia e clinica delle malattie non infettive di importanza sociale;  
+epidemiologia e profilassi delle malattie non infettive di importanza sociale I;  
+demografia e statistica sanitaria;  
+legislazione e programmazione sanitaria.  
+a) Orientamento di sanita' pubblica  
+  
+II BIENNIO  
+  
 3° Anno:  
-a) puericultura prenatale;  
-b) immunologia ostetrica e ginecologica;  
-c) analgo-anestesia e rianimazione in ostetricia;  
-d) operazioni ostetriche II (biennale);  
-e) operazioni ginecologiche I (biennale);  
-f) ostetricia e ginecologia forense;  
-g) terapia medica in ostetricia e ginecologia;  
-h) clinica ostetrica e ginecologica I (biennale);  
-i) psicosomatica ostetrica e ginecologica;  
-l) lingua straniera (inglese) III (quadriennale).  
+epidemiologia e profilassi delle malattie infettive II;  
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;  
+igiene dell'ambiente fisico e difesa ecologica;  
+igiene degli alimenti e della nutrizione;  
+igiene dell'eta' evolutiva;  
+igiene del lavoro;  
+igiene ed assistenza dell'anziano.  
 4° Anno:  
-a) neonatologia;  
-b) urologia ginecologica;  
-c) radio-diagnostica e terapia fisica in ostetricia e ginecologia;  
-d) chirurgia addominale;  
-e) operazioni ginecologiche II (biennale);  
-f) clinica ostetrica e ginecologica II (biennale);  
-g) lingua straniera (inglese) IV (quadriennale).  
-Art. 463. - Al termine del corso di studi per il conseguimento del diploma di specialista in ginecologia ed ostetricia, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
+igiene edilizia e dell'aggregato urbano;  
+igiene ospedaliera;  
+organizzazione del territorio e programmazione sanitaria;  
+medicina di comunita';  
+economia sanitaria;  
+elementi di diritto amministrativo.  
+b) Orientamento di igiene e tecnica ospedaliera  
+  
+II BIENNIO  
+  
+3° Anno:  
+epidemiologia e profilassi delle malattie infettive II;  
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;  
+igiene dell'ambiente fisico e difesa ecologica;  
+igiene e tecnica delle costruzioni ospedaliere; arredamenti ed impianti tecnologici;  
+igiene dell'alimentazione e dietetica ospedaliera;  
+organizzazione e funzionamento degli ospedali I;  
+elementi di diritto e legislazione ospedaliera.  
+4° Anno:  
+organizzazione e funzionamento degli ospedali II;  
+compiti ed attribuzione della direzione sanitaria;  
+formazione professionale e compiti del personale ospedaliero;  
+programmazione ospedaliera e medicina di comunita';  
+assistenza psichiatrica;  
+aspetti socio-sanitari dell'ospitalismo;  
+aspetti economici della gestione ospedaliera.  
+c) Orientamento di igiene del lavoro  
+  
+II BIENNIO  
+  
+3° Anno:  
+epidemiologia e profilassi delle malattie infettive II;  
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;  
+igiene dell'ambiente fisico e difesa ecologica;  
+epidemiologia e profilassi delle malattie del lavoro;  
+tecnica ed economia degli impianti industriali;  
+tossicologia industriale e diagnostica di laboratorio;  
+elementi di fisica tecnica applicata all'igiene;  
+igiene dell'ambiente di lavoro I.  
+4° Anno:  
+igiene dell'ambiente di lavoro II;  
+elementi di diritto e legislazione del lavoro;  
+psicologia del lavoro;  
+prevenzione degli infortuni;  
+politica del territorio ed insediamenti industriali;  
+igiene del lavoro e medicina di comunita'.  
+d) Orientamento di igiene e medicina scolastica  
+  
+II BIENNIO  
+  
+3° Anno:  
+epidemiologia e profilassi delle malattie infettive II;  
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;  
+igiene dell'ambiente fisico e difesa ecologica;  
+clinica delle malattie dell'eta' evolutiva;  
+epidemiologia e profilassi delle malattie dell'eta' evolutiva;  
+igiene degli alimenti e della nutrizione;  
+auxologia normale e patologica;  
+psicologia dell'eta' evolutiva.  
+4° Anno:  
+servizi di medicina scolastica;  
+edilizia ed arredamento scolastico;  
+elementi di pedagogia;  
+assistenza parascolastica;  
+educazione sanitaria nella scuola;  
+legislazione scolastica;  
+igiene mentale.  
+e) Orientamento di laboratorio  
+  
+II BIENNIO  
+  
+3° Anno:  
+epidemiologia e profilassi delle malattie infettive II;  
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;  
+igiene dell'ambiente fisico e difesa ecologica;  
+metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale;  
+metodi e dosaggi biologici per il controllo dell'inquinamento ambientale;  
+strumentazione e metodologie chimico-cliniche ed ematologiche I; microscopia applicata all'igiene;  
+elementi di fisica tecnica applicata all'igiene;  
+accertamento diagnostico delle malattie infettive e parassitarie I.  
+4° Anno:  
+metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale II;  
+accertamento diagnostico delle malattie infettive e parassitarie II;  
+strumentazione e metodologie chimico-cliniche ed ematologiche II; ispezione e controllo degli alimenti;  
+elementi di informatica.  
+I corsi possono essere integrati da insegnamenti complementari scelti dal consiglio della scuola tra i seguenti:  
+Materie complementari:  
+1) automazione del sistema ospedaliero;  
+2) biochimica applicata;  
+3) climatologia;  
+4) diritto sanitario internazionale;  
+5) elementi di medicina legale;  
+6) genetica umana;  
+7) geologia applicata all'igiene;  
+8) idrologia;  
+9) igiene dei climi tropicali;  
+10) igiene dei trasporti;  
+11) igiene militare;  
+12) igiene rurale;  
+13) istituzioni di matematiche;  
+14) micologia;  
+15) radioprotezionistica.  
+A giudizio della scuola possono essere indicati come complementari anche altri insegnamenti regolarmente attivati nei corsi di laurea dell'Universita'.  
+I corsi sono integrati da un tirocinio pratico della durata non inferiore a tre mesi, da svolgersi durante il secondo biennio.  
+La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.  
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.  
+Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove d'esame; per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.  
+Le prove d'esame si svolgono in due sessioni: estiva ed autunnale.  
+Al termine del corso di studi per il conseguimento del diploma di specialista in igiene e medicina preventiva, gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 maggio 1979
+### Data a Roma, addi' 14 gennaio 1980
 
-PERTINI SPADOLINI
+PERTINI VALITUTTI
 
 Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 22 settembre 1979
+Registrato alla Corte dei conti, addi' 26 aprile 1980
 
-Registro n. 69 Istruzione, foglio n. 103
+Registro n. 38 Istruzione, foglio n. 32

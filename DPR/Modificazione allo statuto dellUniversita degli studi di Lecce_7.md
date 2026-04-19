@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1983 n. 610
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 1199
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1983 n. 610
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 1199
+=================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Lecce.
 -----------------------------------------------------------------
@@ -39,19 +39,19 @@ Articolo unico
 --------------
 
   
-Nell'art. 24, relativo al corso di laurea in materie letterarie, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-storia dei partiti politici e del sindacalismo.  
+Nell'art. 14, relativo al corso di laurea in lettere, allo elenco degli insegnamenti e' aggiunto il seguente nuovo insegnamento:  
+geografia linguistica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 maggio 1983
+### Dato a Selva di Val Gardena, addi' 2 settembre 1983
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 15 ottobre 1983
+Registrato alla Corte dei conti, addi' 28 aprile 1984
 
-Registro n. 66 Istruzione, foglio n. 136
+Registro n. 25 Istruzione, foglio n. 220

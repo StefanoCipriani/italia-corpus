@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 novembre 1961 n. 1490
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 agosto 1964 n. 1043
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 novembre 1961 n. 1490
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 agosto 1964 n. 1043
+==============================================================
 
 Autorizzazione all'Unione italiana dei ciechi ad accettare una donazione.
 -------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1490. Decreto del Presidente della Repubblica 30 novembre 1961, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, viene autorizzata ad accettare la donazione disposta in suo favore dalla signora Parietti Giacomina, con atto a rogito dott. Riccardo Morganti, notaio in Luino, in data 19 agosto 1959, n. 4045 di repertorio, n. 630 di fascicolo, consistente in un appezzamento di terreno sito in comune di Montegrino Valtravaglia (Varese), che dovra' essere destinato in esclusivo uso e godimento e beneficio della Sezione Lombardia occidentale dell'Unione italiana dei ciechi e da servire per una futura eventuale costruzione di una casa di riposo per i ciechi della Sezione medesima.  
+1043. Decreto del Presidente della Repubblica 13 agosto 1964, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi viene autorizzata ad accettare la donazione disposta in suo favore dalla prof. Angela Maria Barbizzoli vedova Migliavacca, consistente in beni immobili del valore di L. 10.000.000, costituiti da una "casa di villeggiatura" e terreni annessi, siti nel comune di Caravate (Varese), nonche' buoni del Tesoro settennali 5% del capitale nominale di L. 50.000.000, come da atto a rogito notaio dott. Pietro Cassina, notaio residente in Milano, in data 14 luglio 1962, n. 56632, di rep., n. 14254 di fascicolo.  
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 18 gennaio 1962  
-Atti del Governo, registro n. 143, foglio n. 39. - VILLA
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 12 ottobre 1964  
+Atti del Governo, registro n. 187, foglio n. 108. - VILLA

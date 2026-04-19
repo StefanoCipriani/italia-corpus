@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 marzo 1966 n. 180
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 settembre 1966 n. 810
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 marzo 1966 n. 180
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 settembre 1966 n. 810
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Viso lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, numero 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -32,72 +32,32 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 33. - Agli insegnamenti complementari del corso di laurea in Economia e commercio e' aggiunto quello di:
+Art. 10, relativo alle propedeuticita' di esami del corso di laurea in Giurisprudenza e' modificato nel senso che viene aggiunto il seguente comma: "Ai fini degli esami le Istituzioni di diritto privato debbono precedere con esito favorevole, l'esame di Scienza delle finanze e Diritto finanziario".
 
-17) Diritto fallimentare.
+Art. 52. - All'elenco degli insegnamenti del corso di laurea in Lettere e' aggiunto quello di "Filologia classica".
 
-Art. 52. - Agli insegnamenti complementari del corso di laurea in Lettere e' aggiunto quello di:
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-43) Codicologia.
-
-Art. 53. - Agli insegnamenti complementari del corso di laurea in Filosofia sono aggiunti quelli di:
-
-19) Codicologia;
-
-20) Antropologia culturale.
-
-Art. 60. - Agli insegnamenti complementari del corso di laurea in materie letterarie e' aggiunto quello di:
-
-19) Storia del teatro e dello spettacolo.
-
-Art. 61. - Agli insegnamenti complementari del corso di laurea in Pedagogia sono aggiunti quelli di:
-
-15) Antropologia culturale;
-
-16) Psicologia pedagogica.
-
-Art. 62. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere e' aggiunto quello di:
-
-20) Storia del teatro e dello spettacolo.
-
-Dopo il penultimo comma e' cosi' modificato:
-
-"Lo studente deve sostenere una prova scritta di italiano, una di traduzione latina ed una di cultura generale nella lingua straniera nella quale ha approfondito i suoi studi per il conseguimento della laurea. Inoltre, alla fine di ciascun anno di corso lo studente deve sostenere una prova scritta nella stessa lingua, gradualmente progressiva".
-
-Art. 83, relativo al corso di laurea in Scienze naturali il penultimo comma e' modificato nel modo seguente:
-
-"I corsi di Botanica e di Zoologia - pur restando rispettivamente biennali ed uniti quanto all'insegnamento, che viene impartito da un unico docente - comportano, per quanto riguarda l'accertamento, due esami distinti uno alla fine del primo anno e uno alla fine del secondo anno di corso".
-
-Art. 84, relativo al concorso di laurea In Scienze biologiche il penultimo comma e' modificato nel modo seguente:
-
-"I corsi di Botanica e di Zoologia - pur restando rispettivamente biennali ed uniti quanto all'insegnamento, che viene impartito da un unico docente - comportano, per quanto riguarda l'accertamento, due esa mi distinti uno alla fine del primo anno e uno alla fin del secondo anno di corso".
-
-Art. 106. - Agli insegnamenti complementari del corso di laurea di Farmacia e' aggiunto quello di:
-
-11) Impianti e macchinario farmaceutico.
-
-Il presente decreto, munito del sigillo dello Stato sara' Inserto nella Raccolta ufficiale delle leggi e de decreti della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 8 marzo 1966
+Dato a Roma, addi' 9 settembre 1966
 
 SARAGAT
 
-GUI
+GUI.
 
 Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 1 aprile 1966 Atti del Governo, registro n. 202, foglio n. 110. - VILLA
+alla Corte dei conti, addi' 10 ottobre 1966 Atti del Governo, registro n. 206, foglio n. 54. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Viso lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, numero 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
@@ -109,48 +69,19 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 33. - Agli insegnamenti complementari del corso di laurea in Economia e commercio e' aggiunto quello di:  
-17) Diritto fallimentare.  
-  
-Art. 52. - Agli insegnamenti complementari del corso di laurea in Lettere e' aggiunto quello di:  
-43) Codicologia.  
-  
-Art. 53. - Agli insegnamenti complementari del corso di laurea in Filosofia sono aggiunti quelli di:  
-19) Codicologia;  
-20) Antropologia culturale.  
-  
-Art. 60. - Agli insegnamenti complementari del corso di laurea in materie letterarie e' aggiunto quello di:  
-19) Storia del teatro e dello spettacolo.  
-  
-Art. 61. - Agli insegnamenti complementari del corso di laurea in Pedagogia sono aggiunti quelli di:  
-15) Antropologia culturale;  
-16) Psicologia pedagogica.  
-  
-Art. 62. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere e' aggiunto quello di:  
-20) Storia del teatro e dello spettacolo.  
-  
-Dopo il penultimo comma e' cosi' modificato:  
-"Lo studente deve sostenere una prova scritta di italiano, una di traduzione latina ed una di cultura generale nella lingua straniera nella quale ha approfondito i suoi studi per il conseguimento della laurea. Inoltre, alla fine di ciascun anno di corso lo studente deve sostenere una prova scritta nella stessa lingua, gradualmente progressiva".  
-  
-Art. 83, relativo al corso di laurea in Scienze naturali il penultimo comma e' modificato nel modo seguente:  
-"I corsi di Botanica e di Zoologia - pur restando rispettivamente biennali ed uniti quanto all'insegnamento, che viene impartito da un unico docente - comportano, per quanto riguarda l'accertamento, due esami distinti uno alla fine del primo anno e uno alla fine del secondo anno di corso".  
-  
-Art. 84, relativo al concorso di laurea In Scienze biologiche il penultimo comma e' modificato nel modo seguente:  
-"I corsi di Botanica e di Zoologia - pur restando rispettivamente biennali ed uniti quanto all'insegnamento, che viene impartito da un unico docente - comportano, per quanto riguarda l'accertamento, due esa mi distinti uno alla fine del primo anno e uno alla fin del secondo anno di corso".  
-  
-Art. 106. - Agli insegnamenti complementari del corso di laurea di Farmacia e' aggiunto quello di:  
-11) Impianti e macchinario farmaceutico.  
+Art. 10, relativo alle propedeuticita' di esami del corso di laurea in Giurisprudenza e' modificato nel senso che viene aggiunto il seguente comma: "Ai fini degli esami le Istituzioni di diritto privato debbono precedere con esito favorevole, l'esame di Scienza delle finanze e Diritto finanziario".  
+Art. 52. - All'elenco degli insegnamenti del corso di laurea in Lettere e' aggiunto quello di "Filologia classica".  
   
 
-Il presente decreto, munito del sigillo dello Stato sara' Inserto nella Raccolta ufficiale delle leggi e de decreti della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 8 marzo 1966
+### Dato a Roma, addi' 9 settembre 1966
 
-SARAGAT GUI
+SARAGAT GUI.
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 1 aprile 1966
+Registrato alla Corte dei conti, addi' 10 ottobre 1966
 
-Atti del Governo, registro n. 202, foglio n. 110. - VILLA
+Atti del Governo, registro n. 206, foglio n. 54. - VILLA

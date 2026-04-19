@@ -1,84 +1,54 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1073
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1950 n. 1306
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1073
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1950 n. 1306
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano.
 ----------------------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 14. - All'elenco degli insegnamenti complementari del corso di laurea in lettere viene aggiunto quello di "Filologia micenea".
-
-Il presente decreto munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 30 ottobre 1970
-
-SARAGAT
-
-MISASI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 29 dicembre 1970 Atti del Governo, registro n. 239, foglio n. 80. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato con [regio decreto 2 ottobre 1924, n. 1661](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-02;1661), e modificato con [regio decreto 25 novembre 1926, n. 2413](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-25;2413), e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduto il [decreto legislativo 23 marzo 1948, n. 265](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-03-23;265), ratificato con [legge 19 maggio 1950, n. 355](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-19;355);  
+Vedute le proposte di modifica allo statuto formulate dalle autorita' Accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 14. - All'elenco degli insegnamenti complementari del corso di laurea in lettere viene aggiunto quello di "Filologia micenea".  
+Lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato e modificato con i decreti sopraindicati, e' cosi' ulteriormente modificato:  
+L'art. 1 e' sostituito dal seguente:  
+"L'Universita' cattolica del "Sacro Cuore" di Milano, istituita con [regio decreto 2 ottobre 1924, n. 1661](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-02;1661), ha lo scopo di contribuire allo sviluppo degli studi e di preparare i giovani alle ricerche scientifiche, agli uffici pubblici e alle professioni liberali con una istruzione superiore adeguata a una educazione morale informata ai principi del Cattolicismo.  
+L'Universita' cattolica appartiene alla categoria delle Universita' di cui al n. 2 dell'art. 1 del testo unico delle leggi sull'istruzione superiore ed e' persona giuridica di diritto pubblico".  
+L'art. 23 e' sostituito dal seguente:  
+"Il conferimento degli incarichi e' deliberato dal Consiglio di amministrazione su proposta delle Facolta' competenti e con il parere favorevole del Senato accademico".  
+L'art. 26 e' sostituito dal seguente:  
+"La carriera e il trattamento economico dei professori di ruolo sono disciplinati dalle disposizioni concernenti i professori di ruolo delle Universita' statali e Istituti d'istruzione superiore di cui al [n. 1 dell'articolo 1 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art1-num1).  
+Per quanto attiene al grado 3°, i professori della Universita' cattolica vengono considerati, a tal fine, come i professori universitari di ruolo statale. Il professore dell'Universita' cattolica viene assegnato al predetto grado 30, allorquando il docente di ruolo statale, provvisto dalla, medesima anzianita' di servizio, consegua tale grado.  
+I professori trasferiti dalle Universita' statali e dagli Istituti superiori statali entrano in ruolo con lo stipendio di cui erano provvisti all'atto del trasferimento quali professori di ruolo presso le medesime Universita' o Istituti.  
+I professori trasferiti da Universita' o da Istituti superiori liberi entrano in ruolo con lo stipendio che ad essi spetterebbe se fossero trasferiti in Universita' o Istituti statali.  
+Al rettore e' assegnata una indennita' di carica, non valutabile agli effetti della pensione nella misura che il Consiglio di amministrazione determinera' alla stregua dell'[art. 1 del regio decreto 25 febbraio 1937, n. 439](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-02-25;439~art1), e successive modificazioni".  
+Gli articoli 38 e 39 sono soppressi e sostituiti dal seguente:  
+Art. 38. - La carriera e il trattamento economico degli aiuti, degli assistenti e dei lettori sono determinati in conformita' a quelli fissati dallo Stato per i propri aiuti, assistenti e lettori.  
+Art. 39. - Sono soppresse le tabelle n. 2 e n. 3 allegate allo Statuto.  
   
 
-Il presente decreto munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1970
+### Dato a Roma, addi' 30 ottobre 1950
 
-SARAGAT MISASI
+EINAUDI GONELLA
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: PICCIONI
 
-Registrato alla Corte dei conti, addi' 29 dicembre 1970
+Registrato alla Corte dei conti, addi' 1 dicembre 1951
 
-Atti del Governo, registro n. 239, foglio n. 80. - CARUSO
+Atti del Governo, registro n. 47, foglio n. 5. - FRASCA

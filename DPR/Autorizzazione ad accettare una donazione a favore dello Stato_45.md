@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1975 n. 751
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1981 n. 588
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1975 n. 751
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1981 n. 588
+=============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-751. Decreto del Presidente della Repubblica 30 ottobre 1975, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione di una donazione, consistente in cinque opere dello scultore Ettore Colla, disposta a favore dello Stato dalla sig.ra Maria Carboni vedova Colla con atto in data 12 dicembre 1974, n. 2396/5822 di repertorio, a rogito dott. Franco Maria Gargiullo, notaio in Roma, da destinare alla galleria nazionale d'arte moderna di Roma.  
+588. Decreto del Presidente della Repubblica 2 maggio 1981, col quale, sulla proposta del Ministro per i beni culturali ed ambientali, viene autorizzata l'accettazione a favore dello Stato e, per esso, del Ministero per i beni culturali ed ambientali - Ufficio centrale per i beni librari e gli istituti culturali, della donazione, consistente nella biblioteca dell'avv. Filippo Perrone, costituita da 3438 volumi, disposta dai signori Chiurazzi Maria Carmela e Chiurazzi Elio con atto pubblico 13 giugno 1979, n. 322138/1519 di repertorio, a rogito dott. Roberto Sanseverino, notaio in Napoli e registrato a Napoli in data 29 giugno 1979, n. 4363-C.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 18 dicembre 1975  
-Atti di Governo, registro n. 15, foglio n. 51
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 7 ottobre 1981  
+Registro n. 17 Beni culturali, foglio n. 346

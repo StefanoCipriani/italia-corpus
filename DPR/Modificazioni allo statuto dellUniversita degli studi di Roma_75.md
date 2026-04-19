@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1021
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1971 n. 842
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1021
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1971 n. 842
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
@@ -10,101 +10,189 @@ Modificazioni allo statuto dell'Universita' degli studi di Roma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Roma e convalidati dal Consiglio universitario nazionale nel suo parere;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sentito il parere del Consiglio universitario nazionale;
-
-Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 156 (ex 155). - All'elenco delle materie d'insegnamento della scuola di specializzazione in ingegneria aerospaziale e' aggiunta quella di "Fisica dello spazio".
+
+Nello stesso elenco l'insegnamento di "Complementi di sistematica applicata" muta denominazione in quella di "Complementi di matematica applicata".
+
+Art. 157 (ex 156). - All'elenco delle materie complementari del 1° anno della scuola di specializzazione in ingegneria aerospaziale e' aggiunta quella di "Fisica dello spazio".
+
+Nello stesso articolo l'insegnamento complementare (sezione aeromissilistica e astronautica) di complementi di sistematica applicata muta denominazione in "Complementi di matematica applicata".
+
+L'art. 159 (ex 158), relativo agli istituti annessi alla scuola e' abrogato e sostituito dal seguente:
+
+Sono annessi alla scuola di ingegneria aerospaziale i seguenti istituti:
+
+a) Istituto di costruzioni aeronautiche, comprendente le seguenti cattedre:
+
+1) Costruzioni aeronautiche;
+
+2) Elettronica aerospaziale;
+
+3) Telemisure aerospaziali;
+
+4) Astrodinamica applicata;
+
+5) Servosistemi aeromissilistici;
+
+6) Sistemi spaziali;
+
+7) Gasdinamica sperimentale;
+
+8) Impianti e sperimentazione aerospaziale;
+
+9) Meccanica del volo spaziale;
+
+10) Fisica dello spazio;
+
+11) Biologia aerospaziale.
+
+Alla cattedra di costruzioni aeronautiche e' annesso il gruppo di impianti e laboratori scientifici noto sotto la denominazione di "Centro ricerche aerospaziali" con sede attuale presso l'aeroporto dell'Urbe.
+
+Il centro ricerche aerospaziali ha un direttore che e' permanentemente il titolare della cattedra di "Costruzioni aeronautiche".
+
+b) Istituto di propulsione aerospaziale, comprendente le seguenti cattedre:
+
+1) Propulsione aerospaziale;
+
+2) Sistemi di propulsione aeromissilistica;
+
+3) Sistemi di propulsione spaziale.
+
+c) Istituto di tecnologia aerospaziale, comprendente le seguenti cattedre:
+
+1) Elementi costruttivi dei velivoli;
+
+2) Tecnica aerospaziale;
+
+3) Calcolo elettronico;
+
+4) Complementi di matematica applicata;
+
+5) Materiali aerospaziali.
+
+d) Istituto di aerodinamica, comprendente le seguenti cattedre:
+
+1) Aerodinamica e astrodinamica;
+
+2) Gasdinamica;
+
+3) Dinamica dei fluidi ionizzati e rarefatti;
+
+4) Meccanica e stabilita' delle aerodine.
+
+e) Istituto di economia dei trasporti aerospaziali, comprendente la seguente cattedra:
+
+1) Economia dei trasporti aerospaziali.
+
+L'art. 327, relativo agli esami di diploma per gli iscritti alla scuola di perfezionamento in storia dell'arte medioevale e moderna, annessa alla facolta' di lettere e filosofia, e' modificato nel senso che dopo il primo e' inserito il seguente nuovo comma:
+
+"Dei quattro esami da superare su insegnamenti complementari due possono essere scelti fra le discipline impartite nel corso di laurea in architettura o nella scuola di perfezionamento in restauro dei monumenti".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 4 agosto 1971
+
+SARAGAT
+
+MISASI
+
+Visto, il Guardasigilli: COLOMBO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 15 ottobre 1971 Atti del Governo, registro n. 244, foglio n. 151. - CARUSO
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Gli articoli 604, 605, 606, 607 e 608, relativi alla prima scuola di specializzazione in malattie dell'apparato digerente che muta la denominazione in quella di scuola di specializzazione in gastroenterologia ed endoscopia digestiva, sono sostituiti dai seguenti:  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Scuola di specializzazione in gastroenterologia ed endoscopia digestiva (due scuole)  
+Decreta:  
   
-Art. 604. - Sono istituite due scuole di specializzazione in gastroenterologia ed endoscopia digestiva; la prima ha sede presso l'istituto di clinica delle malattie tropicali ed infettive, la seconda presso l'istituto di II clinica medica generale e terapia medica.  
-Le scuole conferiscono il "diploma di specialista in gastroenterologia ed endoscopia digestiva".  
-La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.  
-Art. 605. - La durata del corso degli studi e' di quattro anni e non e' suscettibile di abbreviazione.  
-Art. 606. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione allo esercizio professionale rilasciato dall'autorita' competente.  
-Il numero massimo degli allievi da ammettere a ciascuna scuola e' stabilito in:  
-ottanta specializzandi (venti per ogni anno di corso) per la prima scuola;  
-trentasei specializzandi (nove per ogni anno di corso) per la seconda scuola.  
-L'ammissione al corso avviene per titoli ed esami.  
-Art. 607. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-1) anatomia clinica;  
-2) farmacologia clinica;  
-3) chimica clinica, coprologia, parassitologia;  
-4) genetica;  
-5) biostatistica ed epidemiologia.  
-2° Anno:  
-6) clinica medica generale I;  
-7) clinica e terapia del tubo digerente, fegato e pancreas I;  
-8) anatomia ed istologia patologica I;  
-9) fisiopatologia e semeiotica digestiva I;  
-10) radiologia e medicina nucleare I;  
-11) scienza dell'alimentazione e dietetica.  
-3° Anno:  
-12) clinica medica generale II;  
-13) clinica e terapia del tubo digerente, fegato e pancreas II;  
-14) anatomia ed istologia patologica II;  
-15) fisiopatologia e semeiotica digestiva II;  
-16) radiologia e medicina nucleare II;  
-17) endoscopia digestiva I.  
-4° Anno:  
-18) clinica medica generale III;  
-19) clinica e terapia del tubo digerente, fegato e pancreas III;  
-20) endoscopia digestiva II;  
-21) terapia intensiva;  
-22) gastroenterologia pediatrica;  
-23) elementi di chirurgia del tubo digerente, fegato e pancreas.  
-Ogni scuola puo' aggiungere a queste materie fondamentali obbligatorie delle materie complementari con corsi semestrali, in numero non superiore a sei per la totalita' del corso.  
-Art. 608. - E' obbligatorio il tirocinio pratico durante il quadriennio di studi da svolgere nell'Istituto clinico sede della scuola o in reparti ospedalieri di gastroenterologia, conforme alle scelte approvate dal consiglio della scuola.  
-La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.  
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
-Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno; per le materie biennali e triennali, invece, sara' dato l'esame alla fine del biennio o del triennio.  
-Al termine del corso di studi, per il conseguimento del diploma, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
-
-Art. 2
-------
-
-  
-Gli articoli 749, 750, 751, 752, 753 e 754, relativi alla seconda scuola di specializzazione in malattie dell'apparato digerente, sono soppressi.  
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 156 (ex 155). - All'elenco delle materie d'insegnamento della scuola di specializzazione in ingegneria aerospaziale e' aggiunta quella di "Fisica dello spazio".  
+Nello stesso elenco l'insegnamento di "Complementi di sistematica applicata" muta denominazione in quella di "Complementi di matematica applicata".  
+Art. 157 (ex 156). - All'elenco delle materie complementari del 1° anno della scuola di specializzazione in ingegneria aerospaziale e' aggiunta quella di "Fisica dello spazio".  
+Nello stesso articolo l'insegnamento complementare (sezione aeromissilistica e astronautica) di complementi di sistematica applicata muta denominazione in "Complementi di matematica applicata".  
+L'art. 159 (ex 158), relativo agli istituti annessi alla scuola e' abrogato e sostituito dal seguente:  
+Sono annessi alla scuola di ingegneria aerospaziale i seguenti istituti:  
+a) Istituto di costruzioni aeronautiche, comprendente le seguenti cattedre:  
+1) Costruzioni aeronautiche;  
+2) Elettronica aerospaziale;  
+3) Telemisure aerospaziali;  
+4) Astrodinamica applicata;  
+5) Servosistemi aeromissilistici;  
+6) Sistemi spaziali;  
+7) Gasdinamica sperimentale;  
+8) Impianti e sperimentazione aerospaziale;  
+9) Meccanica del volo spaziale;  
+10) Fisica dello spazio;  
+11) Biologia aerospaziale.  
+Alla cattedra di costruzioni aeronautiche e' annesso il gruppo di impianti e laboratori scientifici noto sotto la denominazione di "Centro ricerche aerospaziali" con sede attuale presso l'aeroporto dell'Urbe.  
+Il centro ricerche aerospaziali ha un direttore che e' permanentemente il titolare della cattedra di "Costruzioni aeronautiche".  
+b) Istituto di propulsione aerospaziale, comprendente le seguenti cattedre:  
+1) Propulsione aerospaziale;  
+2) Sistemi di propulsione aeromissilistica;  
+3) Sistemi di propulsione spaziale.  
+c) Istituto di tecnologia aerospaziale, comprendente le seguenti cattedre:  
+1) Elementi costruttivi dei velivoli;  
+2) Tecnica aerospaziale;  
+3) Calcolo elettronico;  
+4) Complementi di matematica applicata;  
+5) Materiali aerospaziali.  
+d) Istituto di aerodinamica, comprendente le seguenti cattedre:  
+1) Aerodinamica e astrodinamica;  
+2) Gasdinamica;  
+3) Dinamica dei fluidi ionizzati e rarefatti;  
+4) Meccanica e stabilita' delle aerodine.  
+e) Istituto di economia dei trasporti aerospaziali, comprendente la seguente cattedra:  
+1) Economia dei trasporti aerospaziali.  
+L'art. 327, relativo agli esami di diploma per gli iscritti alla scuola di perfezionamento in storia dell'arte medioevale e moderna, annessa alla facolta' di lettere e filosofia, e' modificato nel senso che dopo il primo e' inserito il seguente nuovo comma:  
+"Dei quattro esami da superare su insegnamenti complementari due possono essere scelti fra le discipline impartite nel corso di laurea in architettura o nella scuola di perfezionamento in restauro dei monumenti".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1981
+### Dato a Roma, addi' 4 agosto 1971
 
-PERTINI BODRATO
+SARAGAT MISASI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 22 febbraio 1982
+Registrato alla Corte dei conti, addi' 15 ottobre 1971
 
-Registro n. 28 Istruzione, foglio n. 84
+Atti del Governo, registro n. 244, foglio n. 151. - CARUSO

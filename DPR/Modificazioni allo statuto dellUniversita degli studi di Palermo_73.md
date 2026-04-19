@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1982 n. 665
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1983 n. 586
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1982 n. 665
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1983 n. 586
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
@@ -22,128 +22,43 @@ Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?u
 
 Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Palermo e convalidati dal Consiglio universitario nazionale nel suo parere;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
 
-Sentito il parere del Consiglio universitario nazionale;
+Veduto il parere del Consiglio universitario nazionale;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 --------
 
-Lo statuto dell'universita' di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Art. 1
+------
 
   
-Nell'art. 12, relativo agli indirizzi del corso di laurea in scienze politiche, e' aggiunto il seguente nuovo indirizzo:  
-4) politico-economico.  
-L'art. 13, relativo alle norme del corso di laurea in scienze politiche, e' soppresso ed e' sostituito dal seguente:  
-Art. 13. - L'ordinamento didattico per il conseguimento della predetta laurea e' quello risultante dalla seguente tabella:  
+Nell'art. 94, relativo al corso di laurea in architettura, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+architettura del paesaggio.  
+
+Art. 2
+------
+
   
-BIENNIO PROPEDEUTICO  
-  
-1° Anno:  
-istituzioni di diritto pubblico;  
-storia delle dottrine politiche;  
-economia politica;  
-scienza della politica;  
-storia moderna;  
-2° Anno:  
-diritto costituzionale italiano e comparato;  
-sociologia;  
-politica economica e finanziaria;  
-statistica;  
-  
-BIENNIO PER L'INDIRIZZO POLITICO-AMMINISTRATIVO  
-  
-istituzioni di diritto privato;  
-diritto amministrativo;  
-dottrina dello Stato;  
-scienza delle finanze;  
-diritto regionale;  
-istituzioni di diritto e procedura penale.  
-Materie opzionali:  
-diritto pubblico dell'economia;  
-diritto tributario;  
-diritto parlamentare;  
-contabilita' di Stato;  
-storia dell'amministrazione pubblica;  
-diritto processuale amministrativo;  
-scienza dell'amministrazione;  
-storia delle istituzioni politiche;  
-organizzazione e pianificazione territoriale.  
-  
-INDIRIZZO POLITICO-INTERNAZIONALE  
-  
-diritto internazionale;  
-organizzazione internazionale;  
-storia contemporanea;  
-geografia politica ed economica;  
-storia dei trattati e politica internazionale;  
-istituzioni di diritto privato.  
-Materie opzionali:  
-storia e sistemi delle relazioni tra Stato e Chiesa nell'eta' moderna;  
-diritto amministrativo;  
-diritto delle Comunita' europee;  
-storia e istituzioni dei Paesi dell'Africa mediterranea;  
-storia del Risorgimento;  
-storia costituzionale;  
-economia internazionale;  
-diritto pubblico romano;  
-legislazione del lavoro.  
-  
-INDIRIZZO POLITICO-SOCIALE  
-  
-politica comparata;  
-filosofia della politica;  
-storia contemporanea;  
-sociologia della cultura;  
-sociologia politica;  
-storia dei partiti e dei movimenti sindacali.  
-Materie opzionali:  
-istituzioni di diritto privato;  
-metodologia della ricerca sociale;  
-storia del pensiero sociologico;  
-storia della Sicilia moderna;  
-criminologia;  
-diritto amministrativo;  
-demografia;  
-diritto del lavoro;  
-sociologia del diritto.  
-  
-INDIRIZZO POLITICO-ECONOMICO  
-  
-scienza delle finanze;  
-contabilita' di Stato;  
-diritto finanziario;  
-istituzioni di diritto privato;  
-diritto amministrativo;  
-storia delle dottrine economiche;  
-diritto commerciale.  
-Materie opzionali:  
-geografia politica ed economica;  
-economia e politica agraria;  
-diritto pubblico dell'economia;  
-diritto del lavoro;  
-tecnica bancaria e professionale;  
-storia contemporanea;  
-economia e politica industriale;  
-economia e politica monetaria.  
+Nell'art. 27, relativo al corso di laurea in economia e commercio, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+psicologia del lavoro.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 15 luglio 1982
+### Dato a Roma, addi' 26 aprile 1983
 
-PERTINI BODRATO
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 9 settembre 1982
+Registrato alla Corte dei conti, addi' 15 ottobre 1983
 
-Registro n. 105 Istruzione, foglio n. 223
+Registro n. 66 Istruzione, foglio n. 147

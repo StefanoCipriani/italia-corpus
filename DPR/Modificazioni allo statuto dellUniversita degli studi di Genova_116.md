@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1963 n. 1446
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1977 n. 1126
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1963 n. 1446
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1977 n. 1126
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
@@ -10,17 +10,17 @@ Modificazioni allo statuto dell'Universita' degli studi di Genova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846) e successivi;
+Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -28,457 +28,1556 @@ Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 9. - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti quelli di:
+L'art. 155, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel modo seguente:
 
-Sociologia;
+la scuola di specializzazione in ostetricia e ginecologia muta la denominazione in quella di scuola di specializzazione in ginecologia ed ostetricia;
 
-Antropologia criminale;
+la scuola di specializzazione in malattie dell'apparato cardiovascolare muta la denominazione in quella di scuola di specializzazione in cardiologia;
 
-Esegesi delle fonti del diritto romano.
+la scuola di specializzazione in nefrologia medica muta la denominazione in quella di scuola di specializzazione in nefrologia.
 
-Art. 29. - Agli insegnamenti complementari del corso di laurea in lettere sono aggiunti quelli di:
+Nello stesso elenco sono aggiunte le seguenti scuole di specializzazione:
 
-Storia del teatro e dello spettacolo;
+scuola di specializzazione in medicina dello sport;
 
-Archivistica.
+scuola di specializzazione in reumatologia.
 
-Gli articoli 83 e 86 relativi all'ordinamento della Scuola di perfezionamento in filologia classica annessa alla Facolta' di lettere e filosofia, sono modificati come segue:
+Gli articoli 171, 172, 173, 174 e 175, relativi alla scuola di specializzazione in ostetricia e ginecologia che muta la denominazione in quella di scuola di specializzazione in ginecologia ed ostetricia, sono abrogati e sostituiti dai seguenti:
 
-Art. 83. - Il secondo comma e' abrogato e sostituito dal seguente:
+Scuola di specializzazioni in ginecologia ed ostetricia
 
-"Alla Scuola di perfezionamento possono essere iscritti i laureati in Lettere e filosofia, in materie letterarie e in Pedagogia".
+Art. 171. - La scuola di specializzazione in ginecologia ed ostetricia ha sede presso la clinica ostetrica e ginecologica e conferisce il diploma di specializzazione in ginecologia ed ostetricia.
 
-Art. 86. - E' abrogato e sostituito dal seguente:
+Art. 172. - La direzione della scuola e' affidata al professore di ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine. Il direttore presiede il consiglio della scuola ed e' tenuto a dare comunicazioni al preside della facolta' medico-chirurgica di tutte le deliberazioni del consiglio da lui presieduto.
 
-"Le materie costitutive per conseguire il diploma di perfezionamento sono quattro annuali da scegliere fra le seguenti:
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.
 
-Letteratura greca;
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
 
-Letteratura latina;
+Art. 173. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.
 
-Filologia greca e latina;
+Il numero massimo di allievi iscrivibili e' di trentasette complessivamente per l'intero corso di studi.
 
-Glottologia;
+L'ammissione alla scuola avviene a seguito di concorso per titoli ed esami.
 
-Grammatica greca e latina;
+Sono da considerare titoli preferenziali, a parita' di risultato dell'esame di ammissione (prova scritta ed orale su temi di medicina generale):
 
-Storia comparata delle lingue classiche;
+a) il voto di laurea in medicina e chirurgia;
 
-Papirologia;
+b) il voto riportato nelle materie ginecologiche ed ostetriche;
 
-Storia romana con esercitazioni di epigrafia;
+c) l'aver elaborato la tesi nelle discipline ginecologiche ed ostetriche;
 
-Storia greca;
+d) l'aver avuto la qualifica di medico o studente interno in istituto;
 
-Archeologia e storia dell'arte greca a romana;
+e) la documentazione di servizi prestati in cliniche Ostetriche e ginecologiche e in divisioni ostetriche e ginecologiche ospedaliere anche come tirocinanti;
 
-Storia della filosofia antica;
+f) eventuali pubblicazioni inerenti alle materie di insegnamento.
 
-Antichita' greche e romane;
+Art. 174. - Le materie di insegnamento sono le seguenti:
 
-Etruscologia;
+1° Anno:
 
-Letteratura cristiana antica;
+elementi di genetica medica;
 
-Filologia bizantina:
+elementi di embriologia, anatomia macro e micro dell'apparato genitale femminile, anatomia delle pelvi;
 
-Storia della letteratura latina medioevale;
+elementi di fisiopatologia della riproduzione umana;
 
-Filologia umanistica;
+fisiologia ostetrica;
 
-Paleografia.
+endocrinologia ginecologica ed ostetrica;
 
-Art. 91, relativo alla Scuola di perfezionamento in filosofia annessa alla Facolta' di lettere e filosofia fra le discipline a scelta dello studente e' aggiunta quella di "Esercitazioni di filosofia teoretica".
+semeiotica e diagnostica ostetrica;
 
-Dopo l'art. 92 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti nuovi articoli relativi alla istituzione della Scuola di perfezionamento in Storia annessa alla Facolta' di lettere e filosofia.
+patologia ostetrica e ginecologica I;
 
-Scuola di perfezionamento in storia
+lingua straniera (inglese) I.
 
-Art. 93. - Presso la Facolta' di lettere e filosofia e' istituita una Scuola di perfezionamento in storia.
+2° Anno:
 
-La durata del corso e' di due anni. Vi sono ammessi i laureati delle Facolta' di lettere e filosofia, di magistero e di giurisprudenza. Limitatamente all'indirizzo di storia moderna e contemporanea sono ammessi i laureati della Facolta' di scienze politiche e di economia e commercio.
+semeiotica e diagnostica ginecologica;
 
-Sono ammessi, i laureati stranieri forniti di titoli equivalenti.
+operazioni ostetriche I;
 
-La Scuola di perfezionamento rilascia un diplomi di perfezionamento.
+anatomia ed istologia patologica della sfera genitale femminile;
 
-Art. 94. - La Scuola di perfezionamento ha tre indirizzi:
+citologia ginecologica;
 
-1) Storia antica;
+patologia ostetrica e ginecologica II;
 
-2) Storia medioevale;
+diagnostica di laboratorio in ostetricia e ginecologia;
 
-3) Storia moderna e contemporanea.
+lingua straniera (inglese) II.
 
-Art. 95. - Sono materie fondamentali obbligatorie da seguirsi per un biennio dell'indirizzo di storia antica:
+3° Anno:
 
-1) Storia greca;
+puericultura prenatale;
 
-2) Storia romana;
+immunologia ostetrica e ginecologica;
 
-Sono materie complementari annuali, da scegliersi in numero di due per ciascun anno di corso:
+analgo-anestesia e rianimazione in ostetricia;
 
-1) Epigrafia greca;
+operazioni ostetriche II;
 
-2) Epigrafia romana;
+operazioni ginecologiche I;
 
-3) Antichita' greche e romane;
+ostetricia e ginecologia forense;
 
-4) Numismatica antica;
+terapia medica in ostetricia e ginecologia;
 
-5) Filologia classica;
+clinica ostetrica e ginecologica I;
 
-6) Archeologia;
+psicosomatica ostetrica e ginecologica;
 
-7) Paleografia e diplomatica;
+lingua straniera (inglese) III.
 
-8) Storia antica orientale;
+4° Anno:
 
-9) Storia del diritto romano;
+neonatologia;
 
-10) Storia della letteratura greca;
+urologia ginecologica;
 
-11) Storia della letteratura romana;
+radiodiagnostica e terapia fisica in ostetricia e ginecologia; chirurgia addominale;
 
-12) Storia della filosofia antica;
+operazioni ginecologiche II;
 
-13) Storia delle religioni;
+clinica ostetrica e ginecologica II;
 
-14) Storia del cristianesimo;
+lingua straniera (inglese) IV.
 
-15) Storia della letteratura cristiana antica;
+Art. 175. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.
 
-16) Storia della letteratura latina medioevale;
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
 
-17) Storia medioevale;
+Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno.
 
-18) Storia ed istituzioni della Liguria.
+Per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi.
 
-Art. 96. - Sono materie fondamentali obbligatorie da seguirsi per un biennio dell'indirizzo di storia medioevale:
+Al termine del corso di studi per il conseguimento del diploma di specializzazione in ginecologia e ostetricia, gli interessati dovranno superare l'esame di diploma su argomento attinente alla specializzazione.
 
-1) Storia medioevale;
+Gli articoli 201, 202, 203, 204, 205 e 206, relativi alla scuola di specializzazione in radiologia, sono abrogati e sostituiti dai seguenti:
 
-2) Paleografia e diplomatica.
+Scuola di specializzazione in radiologia
 
-Sono materie complementari annuali da scegliersi in numero di due per ciascun anno di corso:
+Art. 201. - Presso l'istituto di radiologia e' istituita la scuola di specializzazione in radiologia.
 
-1) Storia romana;
+Art. 202. - La scuola rilascia i seguenti diplomi di specializzazione: in radiologia ed in radiologia diagnostica.
 
-2) Storia moderna;
+Art. 203. - La scuola e' riservata ai laureati in medicina e chirurgia, che possono essere accolti in numero massimo di dodici per ciascun anno di corso per radiologia e per radiologia diagnostica.
 
-3) Storia e filologia bizantina;
+Art. 204. - La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia e' di quattro anni.
 
-4) Biblioteconomia e bibliografia;
+Gli insegnamenti sono i seguenti:
 
-5) Archivistica;
+a) matematica, fisica, nozioni di statistica e informatica (annuale) comprendente:
 
-6) Numismatica; sfragistica e araldica;
+1) richiami di matematica e fisica generale;
 
-7) Linguistica, onomastica e toponomastica medioevale;
+2) costituzione della materia;
 
-8) Pubblicistica e cronachistica medioevale;
+3) produzione, assorbimento e misura delle radiazioni;
 
-9) Paleografia musicale;
+4) statistica applicata alla medicina;
 
-10) Epigrafia medioevale;
+5) informatica e cibernetica applicate alla radiologia;
 
-11) Storia della letteratura latina medioevale;
+b) radiodiagnostica (triennale) comprendente:
 
-12) Storia economica;
+1) principi generali di radiodiagnostica;
 
-13) Storia del diritto italiano;
+2) apparecchi, strumenti e tecnica radiodiagnostica;
 
-14) Storia del Cristianesimo;
+3) tecnica e fisiologia applicate alla radiodiagnostica;
 
-15) Storia della Chiesa;
+4) i mezzi di contrasto artificiali in radiodiagnostica, effetti collaterali connessi con il loro impiego e loro terapia;
 
-16) Storia delle religioni;
+5) semeiotica radiologica;
 
-17) Storia del commercio e della navigazione;
+6) diagnostica differenziale radiologica;
 
-18) Archeologia medioevale;
+7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;
 
-19) Storia ed istituzioni musulmane;
+8) dimostrazioni di casistica clinica;
 
-20) Storia della cultura ebraica;
+c) radiobiologia (annuale) comprendente:
 
-21) Storia dell'Europa orientale;
+1) radiobiologia generale;
 
-22) Storia della tecnica e dell'arte libraria;
+2) danni da radiazioni e radiopatie;
 
-23) Storia ed istituzione della Liguria.
+d) protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:
 
-Art. 97. - Sono materie fondamentali obbligatorie da seguirsi per un biennio dell'indirizzo di storia moderna e contemporanea:
+1) legislazione sanitaria applicata alla radiologia;
 
-1) Storia moderna;
+2) compiti di responsabilita' medico-legali del radiologo;
 
-2) Storia contemporanea;
+3) radioprotezione fisica e dosimetria ad essa;
 
-3) Geografia.
+4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;
 
-Sono materie complementari annuali, da scegliersi in numero di due per ciascun anno di corso:
+5) radioprotezione chimica;
 
-1) Storia medioevale;
+6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici;
 
-2) Storia del Risorgimento;
+e) radioterapia e terapia fisica (triennale) comprendente:
 
-3) Storia delle dottrine politiche;
+1) radiobiologia applicata;
 
-4) Storia delle dottrine economiche;
+2) fondamenti generali di radioterapia e terapia fisica;
 
-5) Storia del giornalismo;
+3) istopatologia speciale dei tumori;
 
-6) Storia del lavoro e delle idee sociali;
+4) nozioni sugli apparecchi e strumenti per la radioterapia;
 
-7) Storia del Cristianesimo;
+5) tecnica e metodica radioterapica;
 
-8 Storia della scienza e delle tecniche;
+6) dosimetria;
 
-9) Storia della storiografia;
+7) clinica radioterapica;
 
-10) Storia economica;
+8) fondamenti generali di chemioterapia oncologica;
 
-11) Storia dell'industria e degli affari;
+9) chemioterapia clinica dei tumori e sua associazione alla radioterapia;
 
-12) Sociologia e antropologia culturale;
+10) dimostrazione di casistica clinica;
 
-13) Economia politica;
+f) medicina nucleare (biennale) comprendente:
 
-14) Statistica e demografia;
+1) elementi di medicina nucleare;
 
-15) Storia dei trattati e politica internazionale;
+2) istrumentario, tecnica e metodica dell'impiego dei radioisotopi in medicina nucleare;
 
-16) Storia dei Paesi afro-asiatici;
+3) dosimetria dei radioisotopi somministrati per via interna;
 
-17) Storia dei Paesi latino americani;
+4) diagnostica con radioisotopi somministrati per via interna;
 
-18) Storia dell'America anglo-sassone e degli Stati Uniti;
+5) radioterapia metabolica;
 
-19) Storia delle democrazie socialiste e dell'Unione Sovietica;
+6) dimostrazioni di casistica clinica.
 
-20) Storia della Resistenza e della seconda guerra mondiale;
+I singoli insegnamenti, tenuti da uno o piu' docenti, a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze, dimostrazioni pratiche e, ove opportuno e possibile da visite ad istituzioni di particolare interesse, sono cosi' distribuiti nei quattro anni di corso:
 
-21) Storia e politica navale;
+1° Anno (tronco comune):
 
-22) Storia religiosa dell'Oriente cristiano;
+matematica, fisica, nozioni di statistica e informatica;
 
-23) Storia ed istituzioni della Liguria.
+radiobiologia;
 
-Art. 98. - Almeno negli insegnamenti fondamentali la Scuola di perfezionamento organizza corsi trimestrali di seminario, affidati ai ricercatori facenti capo agli Istituti di storia antica e di storia medioevale e moderna, al termine dei quali gli allievi dovranno sostenere un colloquio o una prova scritta o presentare una esercitazione scritta.
+protezioni radiologiche, legislazione sanitaria a problemi di tecnica ospedaliera applicati alla radiologia;
 
-Art. 99. - Gli allievi della Scuola di perfezionamento sono tenuti a frequentare le lezioni ed i seminari.
+radiodiagnostica (I).
 
-Il piano di studi e' concordato entro il primo anno di corso tra l'allievo ed il docente della materia in cui l'allievo intende svolgere la dissertazione finale. Per ciascun anno di corso una delle discipline complementari puo' essere scelta tra gli insegnamenti impartiti nell'Universita' e non previsti dal presente regolamento.
+2° Anno:
 
-Il piano di studi e le sue eventuali successive modifiche sono sottoposti all'approvazione del Consiglio della scuola.
+radiodiagnostica II;
 
-Gli allievi non sono ammessi al secondo anno di corso se non hanno superato tutti gli esami del primo anno.
+radioterapia e terapia fisica I.
 
-L'esame di diploma consiste nella presentazione di una, dissertazione scritta avente carattere di originalita', interessante una delle discipline previste per l'indirizzo prescelto e nella discussione della stessa.
+3° Anno:
 
-Art. 100. - Gli allievi, sono tenuti al pagamento delle tasse nella misura fissata annualmente e per tutto il biennio dal Consiglio della scuola. Tale misura non dovra' in ogni caso eccedere, per il primo e il secondo anno di corso quella stabilita rispettivamente per il primo e per l'ultimo anno di corso della Facolta' di lettere e filosofia.
+radiodiagnostica III;
 
-Su proposta del direttore della Scuola, sentito il parere del Consiglio della scuola, possono essere esonerati in tutto o in parte dal pagamento delle tasse quegli allievi che svolgano o che abbiano svolto una attivita' a carattere continuativo non remunerata presso l'Istituto di storia antica o presso l'Istituto di storia medioevale e moderna.
+radioterapia e terapia fisica II;
 
-Art. 101. - Il direttore della Scuola e' nominato per un triennio dalla Facolta' tra i professori di ruolo delle materie comprese nella Scuola.
+medicina nucleare I.
 
-Art. 102. - Gli insegnanti della Scuola e gli incaricati dei corsi di seminario sono proposti alla Facolta' dal direttore della Scuola e scelti tra i professori di ruolo, i liberi docenti e i cultori notoriamente competenti. Il Consiglio della scuola e' formato dai professori di ruolo e dai liberi docenti incaricati di insegnamenti fondamentali ed e' presieduto dal direttore della Scuola.
+4° Anno:
+
+radioterapia e terapia fisica III;
+
+medicina nucleare II.
+
+Art. 205. - La durata del corso per il conseguimento del diploma di specializzazione in radiologia diagnostica e' di tre anni.
+
+Gli insegnamenti sono i seguenti:
+
+a) matematica, fisica, nozioni di statistica e di informatica (annuale) comprendente:
+
+1) richiami di matematica e fisica generale;
+
+2) costituzione della materia;
+
+3) produzione, assorbimento e misura delle radiazioni;
+
+4) statistica applicata alla medicina;
+
+5) informatica e cibernetica applicate alla radiologia;
+
+b) radiodiagnostica (triennale) comprendente:
+
+1) principi generali di radiodiagnostica;
+
+2) apparecchi, strumenti e tecnica radiodiagnostica;
+
+3) tecnica e fisiologia applicate alla radiodiagnostica;
+
+4) i mezzi di contrasto artificiale in radiodiagnostica, effetti collaterali connessi con il loro impiego e loro terapia;
+
+5) semeiotica radiologica;
+
+6) diagnostica differenziale radiologica;
+
+7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;
+
+8) dimostrazioni di casistica clinica;
+
+c) radiobiologia (annuale) comprendente:
+
+1) radiobiologia generale;
+
+2) danni da radiazioni e radiopatie;
+
+d) protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:
+
+1) legislazione sanitaria applicata alla radiologia;
+
+2) compiti e responsabilita' medico-legali del radiologo;
+
+3) radioprotezione fisica e dosimetria ad essa connessa;
+
+4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;
+
+5) radioprotezione chimica;
+
+6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.
+
+I singoli insegnamenti, tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze e dimostrazioni pratiche, sono cosi' distribuiti nei tre anni di corso:
+
+1° Anno (tronco comune):
+
+matematica, fisica, nozioni di statistica ed informatica;
+
+radiobiologia;
+
+protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;
+
+radiodiagnostica (I).
+
+2° Anno:
+
+radiodiagnostica II.
+
+3° Anno:
+
+radiodiagnostica III.
+
+Art. 206. - Per essere ammessi agli esami di diploma in radiologia e in radiologia diagnostica gli iscritti, oltre ad aver compiuto un congruo periodo di internato devono aver superato un esame su ciascuna materia di insegnamento ed elaborata una tesi scritta su di un argomento radiologico concordato con il direttore della scuola.
+
+L'art. 232, terzo comma, relativo alla scuola di specializzazione in medicina interna, e' modificato nel senso che il numero degli iscritti e' stabilito in quarantadue per l'intero corso di studi.
+
+Gli articoli 302, 303, 304, 305 e 306, relativi alla scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio, sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio
+
+Art. 302. - La scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio ha sede presso la clinica tisiologica e conferisce il diploma di specializzazione in tisiologia e malattie dell'apparato respiratorio.
+
+Art. 303. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza al professore di ruolo o fuori ruolo di materia affine.
+
+Art. 304. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+
+Art. 305. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.
+
+Il numero massimo di allievi iscrivibili e' di ottanta complessivamente.
+
+L'ammissione al corso avviene per titoli ed esami.
+
+Art. 306. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+anatomia e istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio I;
+
+patologia della tubercolosi polmonare ed extra polmonare;
+
+patologia delle malattie dell'apparato respiratorio;
+
+fisiologia e fisiopatologia generale dell'apparato respiratorio;
+
+semeiotica fisica e funzionale dell'apparato respiratorio;
+
+microbiologia;
+
+epidemiologia e statistica sanitaria della tubercolosi e delle malattie dell'apparato respiratorio.
+
+2° Anno:
+
+anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio II;
+
+clinica della tubercolosi I;
+
+clinica delle malattie dell'apparato respiratorio I;
+
+fisiopatologia speciale della tubercolosi e delle malattie dell'apparato respiratorio;
+
+broncologia;
+
+radiologia dell'apparato respiratorio;
+
+profilassi della tubercolosi;
+
+igiene e legislazione sociale;
+
+immunologia clinica (complementare);
+
+cardiologia (complementare);
+
+medicina nucleare (complementare).
+
+3° Anno:
+
+clinica delle malattie dell'apparato respiratorio II;
+
+clinica della tubercolosi II;
+
+chemioterapia della tubercolosi e delle malattie dell'apparato respiratorio;
+
+terapia fisiomeccanica nella tubercolosi e nelle malattie dell'apparato respiratorio;
+
+terapia chirurgica nella tubercolosi e nelle malattie dell'apparato respiratorio;
+
+malattie professionali dell'apparato respiratorio (complementari);
+
+terapia intensiva pneumologica (complementare).
+
+4° Anno:
+
+clinica delle malattie dell'apparato respiratorio III;
+
+clinica della tubercolosi III.
+
+I corsi di insegnamento sono integrati da conferenze, da esercitazioni pratiche, da seminari interdisciplinari (questi ultimi prevalentemente destinati al quarto anno) e da turni di internato, per i quali gli allievi hanno l'obbligo di frequenza al pari delle lezioni.
+
+Alla fine di ogni anno di corso gli allievi dovranno superare una prova di esame sulle materie del rispettivo anno.
+
+Alla fine del quarto anno gli allievi dovranno sostenere l'esame di diploma consistente nella dissertazione scritta su un argomento attinente alla specializzazione assegnato dal direttore della scuola o da uno degli insegnanti della scuola.
+
+Gli articoli 325, 326, 327, 328, 329, 330 e 331, relativi alla scuola di specializzazione in neurochirurgia, sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in neurochirurgia
+
+Art. 325. - La scuola di specializzazione in neurochirurgia ha sede presso la clinica neurochirurgica e conferisce il diploma di specializzazione in neurochirurgia.
+
+Art. 326. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Art. 327. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione allo esercizio professionale rilasciato dall'autorita' competente.
+
+Art. 328. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.
+
+Art. 329. - Il numero massimo di allievi iscrivibili e' di diciotto per l'intero corso di studi.
+
+Art. 330. - Per l'ammissione alla scuola vedansi le norme generali per le scuole di specializzazione della facolta' di medicina e chirurgia contemplate dal presente statuto.
+
+Art. 331. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+neuroanatomia;
+
+neurofisiologia;
+
+semeiotica e clinica neurologica;
+
+elementi di psichiatria;
+
+clinica neurochirurgica I.
+
+2° Anno:
+
+neurooftalmologia;
+
+neurootoiatria;
+
+neurofisiologia clinica;
+
+clinica neurochirurgica II.
+
+3° Anno:
+
+neuroanestesia e rianimazione;
+
+neuroradiologia I;
+
+neuropatologia;
+
+clinica neurochirurgica III.
+
+4° Anno:
+
+neuroradiologia II;
+
+neurotraumatologia;
+
+tecniche operatorie I;
+
+clinica neurochirurgica IV.
+
+5° Anno:
+
+neurochirurgia funzionale e stereotassica;
+
+neurochirurgia infantile;
+
+tecniche operatorie II;
+
+clinica neurochirurgica V.
+
+La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
+
+Al termine del corso di studi per il conseguimento del diploma di specialista in neurochirurgia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+
+Gli articoli 332, 333, 334, 335, 336, 337, 338, 339 e 340, relativi alla scuola di specializzazione in criminologia clinica, sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in criminologia clinica
+
+Art. 332. - Presso l'istituto di antropologia criminale e' istituita la scuola di specializzazione in criminologia clinica.
+
+Art. 333. - La scuola ha due indirizzi:
+
+a) indirizzo medico-psicologico e psichiatrico-forense, per i laureati in medicina e chirurgia;
+
+b) indirizzo socio-psicologico, per i laureati in giurisprudenza, scienze politiche, pedagogia, sociologia, psicologia, lettere, filosofia.
+
+Dell'indirizzo seguito viene fatta espressa menzione sul diploma di specializzazione.
+
+La durata del corso della scuola e' di tre anni. La frequenza e' obbligatoria. Non sono consentite abbreviazioni di corso.
+
+Art. 334. - Gli insegnamenti impartiti nella scuola sono i seguenti:
+
+Insegnamenti fondamentali comuni ai due indirizzi:
+
+1) criminologia generale I;
+
+2) elementi di diritto;
+
+3) elementi di sociologia;
+
+4) elementi di psicologia;
+
+5) elementi di biologia;
+
+6) metodologia della ricerca;
+
+7) criminologia generale II;
+
+8) criminologia minorile;
+
+9) trattamento criminologico 10) politica criminale e diritto penitenziario.
+
+Insegnamenti fondamentali dell'indirizzo medico-postcologico e psichiatrico-forense:
+
+1) psicopatologia generale;
+
+2) psichiatria clinica;
+
+3) diagnostica criminologica;
+
+4) medicina legale e criminalistica;
+
+5) psicodiagnostica;
+
+6) neurologia e psichiatria forense;
+
+7) prevenzione della patologia del comportamento;
+
+8) tecniche di rieducazione minorile;
+
+9) legislazione sociosanitaria.
+
+Insegnamenti fondamentali dell'indirizzo sociopsicologico:
+
+1) elementi di psicopatologia generale;
+
+2) elementi di psichiatria clinica forense;
+
+3) tecniche di servizio sociale;
+
+4) antropologia culturale;
+
+5) elementi di medicina legale;
+
+6) psicologia sociale;
+
+7) tecniche psicopedagogiche;
+
+8) sociologia della devianza;
+
+9) metodi di prevenzione.
+
+Insegnamenti complementari:
+
+1) antropofenomenologia;
+
+2) etologia dei comportamenti criminosi;
+
+3) sociologia del diritto;
+
+4) psicobiologia;
+
+5) economia della sicurezza e della difesa sociale;
+
+6) psicologia e psicopatologia dell'eta' evolutiva;
+
+7) igiene mentale;
+
+8) psicoterapia.
+
+Art. 335. - Il piano di studi della scuola di specializzazione e' il seguente:
+
+1° Anno (comune ai due indirizzi):
+
+1) criminologia generale I;
+
+2) elementi di diritto;
+
+3) elementi di sociologia;
+
+4) elementi di psicologia;
+
+5) elementi di biologia;
+
+6) metodologia della ricerca;
+
+7) una materia integrativa a scelta.
+
+2° Anno:
+
+a) indirizzo medico-psicologico e psichiatrico-forense:
+
+1) criminologia generale II;
+
+2) psicopatologia generale;
+
+3) psichiatria clinica;
+
+4) diagnostica criminologica;
+
+5) medicina legale e criminalistica;
+
+6) psicodiagnostica;
+
+7) criminologia minorile;
+
+8) una materia integrativa a scelta;
+
+b) indirizzo socio-psicologico:
+
+1) criminologia generale II;
+
+2) elementi di psicopatologia generale;
+
+3) elementi di psichiatria clinica forense;
+
+4) tecniche di servizio sociale;
+
+5) antropologia culturale;
+
+6) elementi di medicina legale;
+
+7) criminologia minorile;
+
+8) una materia integrativa a scelta.
+
+3° Anno:
+
+a) indirizzo medico-psicologico e psichiatrico-forense:
+
+1) neurologia e psichiatria forense;
+
+2) prevenzione della patologia del comportamento;
+
+3) trattamento criminologico;
+
+4) tecniche di rieducazione minorile;
+
+5) legislazione socio-sanitaria;
+
+6) politica criminale e diritto penitenziario;
+
+7) una materia integrativa a scelta;
+
+b) indirizzo socio-psicologico:
+
+1) psicologia sociale;
+
+2) tecniche psico-pedagogiche;
+
+3) sociologia della devianza;
+
+4) metodi di prevenzione;
+
+5) trattamento criminologico;
+
+6) politica criminale e diritto penitenziario;
+
+7) una materia integrativa a scelta.
+
+Art. 336. - All'atto della domanda di iscrizione a ciascuno dei tre anni di corso l'allievo dovra' indicare alla segreteria della scuola una materia integrativa, da scegliere fra le materie complementari, ovvero fra quelle fondamentali appartenenti all'indirizzo al quale non e' iscritto. L'indicazione e' vincolante.
+
+Art. 337. - Gli insegnamenti potranno essere integrati da esercitazioni pratiche, nonche' da conferenze tenute da esperti italiani e stranieri.
+
+Art. 338. - Alla scuola sono ammessi i laureati in medicina e chirurgia, in giurisprudenza, in scienze politiche, in pedagogia, in sociologia, in psicologia, in lettere, in filosofia, in numero complessivo non superiore a trenta per i tre anni di corso.
+
+L'ammissione avviene mediante concorso per esami.
+
+Art. 339. - Gli esami di profitto sono tenuti ogni anno per singole materie o per gruppi di materie. Per essere ammesso all'esame di diploma l'allievo deve aver sostenuto ventidue esami, dei quali diciannove relativi alle materie fondamentali del suo indirizzo e tre relativi alle materie integrative da lui scelte.
+
+I voti degli esami di profitto sono attribuiti in trentesimi; il voto di esame di diploma e' attribuito in cinquantesimi.
+
+Art. 340. - L'esame di diploma consiste nella discussione di una dissertazione scritta originale, in una delle materie oggetto di insegnamento. Il tema, concordato con il docente, dovra' essere presentato al direttore della scuola per l'approvazione entro trenta giorni dalla data di inizio dell'ultimo anno di corso.
+
+A coloro che hanno superato l'esame di diploma viene rilasciato il diploma di specializzazione in criminologia clinica, con la specificazione dell'indirizzo seguito.
+
+Le norme per l'iscrizione, per gli esami, per le tasse, ecc. sono quelle generali delle scuole di specializzazione della facolta' di medicina e chirurgia contemplate dal presente statuto.
+
+Gli articoli 370, 371, 372 e 373, relativi alla scuola di specializzazione in malattie dell'apparato cardiovascolare che muta la denominazione in quella di scuola di specializzazione in cardiologia, sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in cardiologia
+
+Art. 370. - La scuola di specializzazione in cardiologia ha sede presso l'istituto scientifico di medicina interna e conferisce il diploma di specializzazione in cardiologia.
+
+Art. 371. Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia in possesso del diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.
+
+La durata del corso di studi e' di quattro anni accademici e non e' suscettibile di abbreviazione.
+
+Il numero degli allievi e' fissato in complessivi tredici, suddivisi nei quattro anni di corso. Per quanto concerne la direzione della scuola, l'ammissione alla medesima e le disposizioni circa la frequenza ai corsi e alle esercitazioni pratiche e per l'ammissione agli esami, vedansi le norme generali previste dal presente statuto per le scuole di specializzazione della facolta' di medicina e chirurgia.
+
+Art. 372. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+1) anatomia umana normale ed embriologia dello apparato cardiovascolare;
+
+2) fisiologia dell'apparato cardiovascolare I;
+
+3) biochimica e biofisica;
+
+4) semeiotica fisica e strumentale dell'apparato cardiovascolare I;
+
+5) informatica medica e strumentazione biomedica I.
+
+2° Anno:
+
+1) anatomia patologica I;
+
+2) fisiologia dell'apparato cardiovascolare II;
+
+3) patologia e clinica cardiovascolare I;
+
+4) semeiotica fisica e strumentale dell'apparato cardiovascolare II;
+
+5) informatica medica e strumentazione biomedica II;
+
+6) radiologia I;
+
+7) aspetti sociali ed epidemiologici delle malattie cardiovascolari.
+
+3° Anno:
+
+1) anatomia patologica II;
+
+2) semeiotica fisica e strumentale dell'apparato cardiovascolare III;
+
+3) patologia e clinica cardiovascolare II;
+
+4) radiologia II;
+
+5) terapia medica e farmacologia clinica I.
+
+4° Anno:
+
+1) semeiotica fisica e strumentale dell'apparato cardiovascolare IV;
+
+2) patologia e clinica cardiovascolare III;
+
+3) terapia medica e farmacologia clinica II;
+
+4) terapia chirurgica;
+
+5) terapie intensive cardiologiche.
+
+Art. 373. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame. Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno.
+
+Al termine del corso di studi per il conseguimento del diploma di specializzazione in cardiologia, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento di carattere cardiologico che sara' stabilito in base agli accordi presi con il direttore della scuola.
+
+Gli articoli 374, 375, 376, 377, 378, 379, 380, 381 e 382, relativi alla scuola di specializzazione in nefrologia medica che muta la denominazione in quella di scuola di specializzazione in nefrologia, sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in nefrologia
+
+Art. 374. - La scuola di specializzazione in nefrologia ha sede presso l'istituto scientifico di medicina interna e conferisce il diploma di specializzazione in nefrologia.
+
+Art. 375. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza al professore di ruolo o fuori ruolo di materia affine.
+
+Art. 376. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+
+Art. 377. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.
+
+Art. 378. - Il numero massimo di allievi iscrivibili e' di dodici per l'intero corso di studi.
+
+Art. 379. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+struttura ed ultrastruttura normale del rene;
+
+aspetti biochimici della funzione renale;
+
+fisiologia renale;
+
+microbiologia ed immunologia applicate alla nefrologia;
+
+genetica applicata alla nefrologia;
+
+Semeiotica renale I.
+
+2° Anno:
+
+struttura ed ultrastruttura patologica del rene;
+
+patologia del ricambio idroelettrolitico;
+
+insufficienza renale;
+
+rene e ipertensione arteriosa;
+
+semeiotica renale II;
+
+nefropatie tubolari.
+
+3° Anno:
+
+nefropatie glomerulari;
+
+nefropatie interstiziali;
+
+nefropatie vascolari;
+
+terapia dietetica e dialitica I;
+
+farmacologia d'interesse nefrologico.
+
+4° Anno:
+
+nefrouropatie calcolotiche, malformative e neoplastiche;
+
+terapia dietetica e dialitica II;
+
+fisiopatologia e clinica del trapianto renale;
+
+aspetti di nefrologia nell'eta' pediatrica;
+
+problemi chirurgici in nefrologia;
+
+terapia medica delle nefropatie.
+
+Art. 380. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.
+
+Art. 381. - Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto, non potranno essere ammessi a sostenere le prove di esame.
+
+Art. 382. - Per quanto concerne l'ammissione alla scuola e le norme per il superamento degli esami annuali e di diploma, vedansi le norme generali per le scuole di specializzazione della facolta' di medicina e chirurgia contemplate dal presente statuto.
+
+Dopo l'art. 415, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in medicina dello sport e in reumatologia.
+
+Scuola di specializzazione in medicina dello sport
+
+Art. 416. - La scuola di specializzazione in medicina dello sport, si propone:
+
+a) di valorizzare e approfondire gli studi biologici e di medicina applicata nel campo delle attivita' sportive, formative e di competizione e della educazione fisica;
+
+b) di preparare adeguatamente sotto l'aspetto teorico e dell'applicazione pratica i medici che intendono dedicarsi alle attivita' attinenti a questa particolare branca della medicina applicata, conferendo ad essi il diploma di specializzazione in medicina dello sport.
+
+Art. 417. - Il titolo richiesto per l'ammissione alla scuola e' la laurea in medicina e chirurgia.
+
+Il corso di studi ha la durata di tre anni, con frequenza obbligatoria.
+
+La scuola ha la sua sede ufficiale presso l'istituto di medicina del lavoro.
+
+Gli insegnamenti clinici e specialistici si svolgeranno presso i rispettivi istituti clinici e specialistici.
+
+Il numero massimo degli allievi sara' di quarantacinque complessivamente per l'intero corso di studi.
+
+L'ammissione al corso avviene per titoli. Nel caso di domande eccedenti il numero dei posti disponibili, la selezione dei candidati avverra' in base ai risultati di un esame di ammissione.
+
+Non sono previste abbreviazioni di corso.
+
+Per quanto concerne la direzione della scuola, le modalita' per il superamento degli esami annuali e di diploma, vedansi le norme generali previste dal presente statuto per le scuole di specializzazione della facolta' di medicina e chirurgia.
+
+L'iscrizione agli anni successivi e' subordinata al superamento degli esami annuali.
+
+Art. 418. - L'ordine degli studi e' il seguente:
+
+1° Anno:
+
+1) anatomia dell'apparato locomotore;
+
+2) fisiologia dell'apparato locomotore;
+
+3) biochimica ed energetica muscolare;
+
+4) antrometria e auxologia;
+
+5) psicologia applicata allo sport;
+
+6) storia dell'educazione fisica e dello sport:
+
+7) sistematica delle attivita' sportivo-agonistiche e regolamenti sportivi.
+
+2° Anno:
+
+1) fisiologia dell'esercizio fisico;
+
+2) biomeccanica dell'esercizio fisico;
+
+3) metodologia dell'allenamento sportivo;
+
+4) scienza della nutrizione applicata all'attivita' sportiva;
+
+5) fisiopatologia degli sport e semeiotica medicosportiva I;
+
+6) farmacologia e tossicologia del doping;
+
+7) igiene e medicina preventiva applicata all'attivita' sportiva;
+
+8) traumatologia degli sport.
+
+3° Anno:
+
+1) fisiologia applicata agli sport;
+
+2) valutazione funzionale dello sportivo;
+
+3) fisiopatologia degli sport e semeiotica medicosportiva II;
+
+4) fisioterapia e rieducazione funzionale;
+
+5) medicina legale ed infortunistica legata agli sport;
+
+6) rianimazione e pronto soccorso;
+
+7) fisiologia dell'adattamento agli ambienti straordinari.
+
+La scuola svolgera' brevi corsi integrativi di conferenze o seminari sopra argomenti e discipline che saranno stabiliti, secondo le possibilita' contingenti, dal consiglio dei docenti della scuola.
+
+Saranno inoltre svolte esercitazioni pratiche in sede e sul campo.
+
+Scuola di specializzazione in reumatologia
+
+Art. 419. - La scuola di specializzazione in reumatologia ha sede presso la cattedra di reumatologia e conferisce il diploma di specializzazione in reumatologia.
+
+Art. 420. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Art. 421. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+
+Art. 422. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.
+
+Art. 423. - Il numero massimo di allievi iscrivibili e' di dodici complessivamente per l'intero corso di studi.
+
+Art. 424. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+anatomia, istologia e morfogenesi dell'apparato locomotore;
+
+fisiologia; e fisiologia dell'apparato locomotore;
+
+biochimica di interesse reumatologico;
+
+microbiologia in relazione alle malattie reumatiche;
+
+immunologia reumatologica;
+
+semeiotica fisica e strumentale in reumatologia I.
+
+2° Anno:
+
+semeiotica fisica e strumentale in reumatologia II;
+
+esami di laboratorio in reumatologia;
+
+diagnostica radiologica delle reumo-artropatie;
+
+farmacologia reumatologica;
+
+anatomia e istologia patologica delle malattie reumatiche;
+
+clinica e terapia delle malattie traumatiche I.
+
+3° Anno:
+
+clinica e terapia ortopedica I;
+
+fisiochinesiterapia reumatologica;
+
+idro-climatologia di interesse reumatologico;
+
+reumo-artropatie professionali;
+
+clinica e terapia delle malattie reumatiche II.
+
+4° Anno:
+
+epidemiologia e aspetti sociali dei reumatismi;
+
+riabilitazione del malato reumatico;
+
+clinica e terapia ortopedica II;
+
+clinica e terapia delle malattie reumatiche III.
+
+Art. 425. - Per quanto concerne l'ammissione alla scuola, la frequenza e le modalita' per il superamento degli esami di profitto e di diploma, vedansi le norme generali per le scuole di specializzazione della facolta' di medicina e chirurgia contemplate dal presente statuto. Per le materie biennali o triennali l'esame sara' sostenuto alla fine del biennio e del triennio.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 22 settembre 1963
+Dato a Roma, addi' 26 ottobre 1977
 
-SEGNI
+LEONE
 
-GUI
-
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: BONIFACIO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 29 ottobre 1963 Atti del Governo, registro n. 175, foglio n. 94. - VILLA
+alla Corte dei conti, addi' 27 febbraio 1978 Registro n. 24 Istruzione, foglio n. 74
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+L'art. 155, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel modo seguente:   
+la scuola di specializzazione in ostetricia e ginecologia muta la denominazione in quella di scuola di specializzazione in ginecologia ed ostetricia;   
+la scuola di specializzazione in malattie dell'apparato cardiovascolare muta la denominazione in quella di scuola di specializzazione in cardiologia;   
+la scuola di specializzazione in nefrologia medica muta la denominazione in quella di scuola di specializzazione in nefrologia.   
+Nello stesso elenco sono aggiunte le seguenti scuole di specializzazione:   
+scuola di specializzazione in medicina dello sport;   
+scuola di specializzazione in reumatologia.   
+Gli articoli 171, 172, 173, 174 e 175, relativi alla scuola di specializzazione in ostetricia e ginecologia che muta la denominazione in quella di scuola di specializzazione in ginecologia ed ostetricia, sono abrogati e sostituiti dai seguenti:   
   
-Art. 9. - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti quelli di:  
-Sociologia;  
-Antropologia criminale;  
-Esegesi delle fonti del diritto romano.  
+Scuola di specializzazioni in ginecologia ed ostetricia   
+Art. 171. - La scuola di specializzazione in ginecologia ed ostetricia ha sede presso la clinica ostetrica e ginecologica e conferisce il diploma di specializzazione in ginecologia ed ostetricia.   
+Art. 172. - La direzione della scuola e' affidata al professore di ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine. Il direttore presiede il consiglio della scuola ed e' tenuto a dare comunicazioni al preside della facolta' medico-chirurgica di tutte le deliberazioni del consiglio da lui presieduto.   
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+Art. 173. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
+Il numero massimo di allievi iscrivibili e' di trentasette complessivamente per l'intero corso di studi.   
+L'ammissione alla scuola avviene a seguito di concorso per titoli ed esami.   
+Sono da considerare titoli preferenziali, a parita' di risultato dell'esame di ammissione (prova scritta ed orale su temi di medicina generale):   
+a) il voto di laurea in medicina e chirurgia;   
+b) il voto riportato nelle materie ginecologiche ed ostetriche;   
+c) l'aver elaborato la tesi nelle discipline ginecologiche ed ostetriche;   
+d) l'aver avuto la qualifica di medico o studente interno in istituto;   
+e) la documentazione di servizi prestati in cliniche Ostetriche e ginecologiche e in divisioni ostetriche e ginecologiche ospedaliere anche come tirocinanti;   
+f) eventuali pubblicazioni inerenti alle materie di insegnamento.   
+Art. 174. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+elementi di genetica medica;   
+elementi di embriologia, anatomia macro e micro dell'apparato genitale femminile, anatomia delle pelvi;   
+elementi di fisiopatologia della riproduzione umana;   
+fisiologia ostetrica;   
+endocrinologia ginecologica ed ostetrica;   
+semeiotica e diagnostica ostetrica;   
+patologia ostetrica e ginecologica I;   
+lingua straniera (inglese) I.   
+2° Anno:   
+semeiotica e diagnostica ginecologica;   
+operazioni ostetriche I;   
+anatomia ed istologia patologica della sfera genitale femminile;   
+citologia ginecologica;   
+patologia ostetrica e ginecologica II;   
+diagnostica di laboratorio in ostetricia e ginecologia;   
+lingua straniera (inglese) II.   
+3° Anno:   
+puericultura prenatale;   
+immunologia ostetrica e ginecologica;   
+analgo-anestesia e rianimazione in ostetricia;   
+operazioni ostetriche II;   
+operazioni ginecologiche I;   
+ostetricia e ginecologia forense;   
+terapia medica in ostetricia e ginecologia;   
+clinica ostetrica e ginecologica I;   
+psicosomatica ostetrica e ginecologica;   
+lingua straniera (inglese) III.   
+4° Anno:   
+neonatologia;   
+urologia ginecologica;   
+radiodiagnostica e terapia fisica in ostetricia e ginecologia; chirurgia addominale;   
+operazioni ginecologiche II;   
+clinica ostetrica e ginecologica II;   
+lingua straniera (inglese) IV.   
+Art. 175. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.   
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
+Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno.   
+Per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi.   
+Al termine del corso di studi per il conseguimento del diploma di specializzazione in ginecologia e ostetricia, gli interessati dovranno superare l'esame di diploma su argomento attinente alla specializzazione.   
+Gli articoli 201, 202, 203, 204, 205 e 206, relativi alla scuola di specializzazione in radiologia, sono abrogati e sostituiti dai seguenti:   
   
-Art. 29. - Agli insegnamenti complementari del corso di laurea in lettere sono aggiunti quelli di:  
-Storia del teatro e dello spettacolo;  
-Archivistica.  
+Scuola di specializzazione in radiologia   
+Art. 201. - Presso l'istituto di radiologia e' istituita la scuola di specializzazione in radiologia.   
+Art. 202. - La scuola rilascia i seguenti diplomi di specializzazione: in radiologia ed in radiologia diagnostica.   
+Art. 203. - La scuola e' riservata ai laureati in medicina e chirurgia, che possono essere accolti in numero massimo di dodici per ciascun anno di corso per radiologia e per radiologia diagnostica.   
+Art. 204. - La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia e' di quattro anni.   
+Gli insegnamenti sono i seguenti:   
+a) matematica, fisica, nozioni di statistica e informatica (annuale) comprendente:   
+1) richiami di matematica e fisica generale;   
+2) costituzione della materia;   
+3) produzione, assorbimento e misura delle radiazioni;   
+4) statistica applicata alla medicina;   
+5) informatica e cibernetica applicate alla radiologia;   
+b) radiodiagnostica (triennale) comprendente:   
+1) principi generali di radiodiagnostica;   
+2) apparecchi, strumenti e tecnica radiodiagnostica;   
+3) tecnica e fisiologia applicate alla radiodiagnostica;   
+4) i mezzi di contrasto artificiali in radiodiagnostica, effetti collaterali connessi con il loro impiego e loro terapia;   
+5) semeiotica radiologica;   
+6) diagnostica differenziale radiologica;   
+7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;   
+8) dimostrazioni di casistica clinica;   
+c) radiobiologia (annuale) comprendente:   
+1) radiobiologia generale;   
+2) danni da radiazioni e radiopatie;   
+d) protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:   
+1) legislazione sanitaria applicata alla radiologia;   
+2) compiti di responsabilita' medico-legali del radiologo;   
+3) radioprotezione fisica e dosimetria ad essa;   
+4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;   
+5) radioprotezione chimica;   
+6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici;   
+e) radioterapia e terapia fisica (triennale) comprendente:   
+1) radiobiologia applicata;   
+2) fondamenti generali di radioterapia e terapia fisica;   
+3) istopatologia speciale dei tumori;   
+4) nozioni sugli apparecchi e strumenti per la radioterapia;   
+5) tecnica e metodica radioterapica;   
+6) dosimetria;   
+7) clinica radioterapica;   
+8) fondamenti generali di chemioterapia oncologica;   
+9) chemioterapia clinica dei tumori e sua associazione alla radioterapia;   
+10) dimostrazione di casistica clinica;   
+f) medicina nucleare (biennale) comprendente:   
+1) elementi di medicina nucleare;   
+2) istrumentario, tecnica e metodica dell'impiego dei radioisotopi in medicina nucleare;   
+3) dosimetria dei radioisotopi somministrati per via interna;   
+4) diagnostica con radioisotopi somministrati per via interna;   
+5) radioterapia metabolica;   
+6) dimostrazioni di casistica clinica.   
+I singoli insegnamenti, tenuti da uno o piu' docenti, a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze, dimostrazioni pratiche e, ove opportuno e possibile da visite ad istituzioni di particolare interesse, sono cosi' distribuiti nei quattro anni di corso:   
+1° Anno (tronco comune):   
+matematica, fisica, nozioni di statistica e informatica;   
+radiobiologia;   
+protezioni radiologiche, legislazione sanitaria a problemi di tecnica ospedaliera applicati alla radiologia;   
+radiodiagnostica (I).   
+2° Anno:   
+radiodiagnostica II;   
+radioterapia e terapia fisica I.   
+3° Anno:   
+radiodiagnostica III;   
+radioterapia e terapia fisica II;   
+medicina nucleare I.   
+4° Anno:   
+radioterapia e terapia fisica III;   
+medicina nucleare II.   
+Art. 205. - La durata del corso per il conseguimento del diploma di specializzazione in radiologia diagnostica e' di tre anni.   
+Gli insegnamenti sono i seguenti:   
+a) matematica, fisica, nozioni di statistica e di informatica (annuale) comprendente:   
+1) richiami di matematica e fisica generale;   
+2) costituzione della materia;   
+3) produzione, assorbimento e misura delle radiazioni;   
+4) statistica applicata alla medicina;   
+5) informatica e cibernetica applicate alla radiologia;   
+b) radiodiagnostica (triennale) comprendente:   
+1) principi generali di radiodiagnostica;   
+2) apparecchi, strumenti e tecnica radiodiagnostica;   
+3) tecnica e fisiologia applicate alla radiodiagnostica;   
+4) i mezzi di contrasto artificiale in radiodiagnostica, effetti collaterali connessi con il loro impiego e loro terapia;   
+5) semeiotica radiologica;   
+6) diagnostica differenziale radiologica;   
+7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;   
+8) dimostrazioni di casistica clinica;   
+c) radiobiologia (annuale) comprendente:   
+1) radiobiologia generale;   
+2) danni da radiazioni e radiopatie;   
+d) protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:   
+1) legislazione sanitaria applicata alla radiologia;   
+2) compiti e responsabilita' medico-legali del radiologo;   
+3) radioprotezione fisica e dosimetria ad essa connessa;   
+4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;   
+5) radioprotezione chimica;   
+6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.   
+I singoli insegnamenti, tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze e dimostrazioni pratiche, sono cosi' distribuiti nei tre anni di corso:   
+1° Anno (tronco comune):   
+matematica, fisica, nozioni di statistica ed informatica;   
+radiobiologia;   
+protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;   
+radiodiagnostica (I).   
+2° Anno:   
+radiodiagnostica II.   
+3° Anno:   
+radiodiagnostica III.   
+Art. 206. - Per essere ammessi agli esami di diploma in radiologia e in radiologia diagnostica gli iscritti, oltre ad aver compiuto un congruo periodo di internato devono aver superato un esame su ciascuna materia di insegnamento ed elaborata una tesi scritta su di un argomento radiologico concordato con il direttore della scuola.   
+L'art. 232, terzo comma, relativo alla scuola di specializzazione in medicina interna, e' modificato nel senso che il numero degli iscritti e' stabilito in quarantadue per l'intero corso di studi.   
+Gli articoli 302, 303, 304, 305 e 306, relativi alla scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio, sono abrogati e sostituiti dai seguenti:   
   
-Gli articoli 83 e 86 relativi all'ordinamento della Scuola di perfezionamento in filologia classica annessa alla Facolta' di lettere e filosofia, sono modificati come segue:  
+Scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio   
+Art. 302. - La scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio ha sede presso la clinica tisiologica e conferisce il diploma di specializzazione in tisiologia e malattie dell'apparato respiratorio.   
+Art. 303. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza al professore di ruolo o fuori ruolo di materia affine.   
+Art. 304. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+Art. 305. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
+Il numero massimo di allievi iscrivibili e' di ottanta complessivamente.   
+L'ammissione al corso avviene per titoli ed esami.   
+Art. 306. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+anatomia e istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio I;   
+patologia della tubercolosi polmonare ed extra polmonare;   
+patologia delle malattie dell'apparato respiratorio;   
+fisiologia e fisiopatologia generale dell'apparato respiratorio;   
+semeiotica fisica e funzionale dell'apparato respiratorio;   
+microbiologia;   
+epidemiologia e statistica sanitaria della tubercolosi e delle malattie dell'apparato respiratorio.   
+2° Anno:   
+anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio II;   
+clinica della tubercolosi I;   
+clinica delle malattie dell'apparato respiratorio I;   
+fisiopatologia speciale della tubercolosi e delle malattie dell'apparato respiratorio;   
+broncologia;   
+radiologia dell'apparato respiratorio;   
+profilassi della tubercolosi;   
+igiene e legislazione sociale;   
+immunologia clinica (complementare);   
+cardiologia (complementare);   
+medicina nucleare (complementare).   
+3° Anno:   
+clinica delle malattie dell'apparato respiratorio II;   
+clinica della tubercolosi II;   
+chemioterapia della tubercolosi e delle malattie dell'apparato respiratorio;   
+terapia fisiomeccanica nella tubercolosi e nelle malattie dell'apparato respiratorio;   
+terapia chirurgica nella tubercolosi e nelle malattie dell'apparato respiratorio;   
+malattie professionali dell'apparato respiratorio (complementari);   
+terapia intensiva pneumologica (complementare).   
+4° Anno:   
+clinica delle malattie dell'apparato respiratorio III;   
+clinica della tubercolosi III.   
+I corsi di insegnamento sono integrati da conferenze, da esercitazioni pratiche, da seminari interdisciplinari (questi ultimi prevalentemente destinati al quarto anno) e da turni di internato, per i quali gli allievi hanno l'obbligo di frequenza al pari delle lezioni.   
+Alla fine di ogni anno di corso gli allievi dovranno superare una prova di esame sulle materie del rispettivo anno.   
+Alla fine del quarto anno gli allievi dovranno sostenere l'esame di diploma consistente nella dissertazione scritta su un argomento attinente alla specializzazione assegnato dal direttore della scuola o da uno degli insegnanti della scuola.   
+Gli articoli 325, 326, 327, 328, 329, 330 e 331, relativi alla scuola di specializzazione in neurochirurgia, sono abrogati e sostituiti dai seguenti:   
   
-Art. 83. - Il secondo comma e' abrogato e sostituito dal seguente:   
-"Alla Scuola di perfezionamento possono essere iscritti i laureati in Lettere e filosofia, in materie letterarie e in Pedagogia".  
+Scuola di specializzazione in neurochirurgia   
+Art. 325. - La scuola di specializzazione in neurochirurgia ha sede presso la clinica neurochirurgica e conferisce il diploma di specializzazione in neurochirurgia.   
+Art. 326. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Art. 327. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione allo esercizio professionale rilasciato dall'autorita' competente.   
+Art. 328. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.   
+Art. 329. - Il numero massimo di allievi iscrivibili e' di diciotto per l'intero corso di studi.   
+Art. 330. - Per l'ammissione alla scuola vedansi le norme generali per le scuole di specializzazione della facolta' di medicina e chirurgia contemplate dal presente statuto.   
+Art. 331. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+neuroanatomia;   
+neurofisiologia;   
+semeiotica e clinica neurologica;   
+elementi di psichiatria;   
+clinica neurochirurgica I.   
+2° Anno:   
+neurooftalmologia;   
+neurootoiatria;   
+neurofisiologia clinica;   
+clinica neurochirurgica II.   
+3° Anno:   
+neuroanestesia e rianimazione;   
+neuroradiologia I;   
+neuropatologia;   
+clinica neurochirurgica III.   
+4° Anno:   
+neuroradiologia II;   
+neurotraumatologia;   
+tecniche operatorie I;   
+clinica neurochirurgica IV.   
+5° Anno:   
+neurochirurgia funzionale e stereotassica;   
+neurochirurgia infantile;   
+tecniche operatorie II;   
+clinica neurochirurgica V.   
+La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
+Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.   
+Al termine del corso di studi per il conseguimento del diploma di specialista in neurochirurgia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
+Gli articoli 332, 333, 334, 335, 336, 337, 338, 339 e 340, relativi alla scuola di specializzazione in criminologia clinica, sono abrogati e sostituiti dai seguenti:   
   
-Art. 86. - E' abrogato e sostituito dal seguente:  
+Scuola di specializzazione in criminologia clinica   
+Art. 332. - Presso l'istituto di antropologia criminale e' istituita la scuola di specializzazione in criminologia clinica.   
+Art. 333. - La scuola ha due indirizzi:   
+a) indirizzo medico-psicologico e psichiatrico-forense, per i laureati in medicina e chirurgia;   
+b) indirizzo socio-psicologico, per i laureati in giurisprudenza, scienze politiche, pedagogia, sociologia, psicologia, lettere, filosofia.   
+Dell'indirizzo seguito viene fatta espressa menzione sul diploma di specializzazione.   
+La durata del corso della scuola e' di tre anni. La frequenza e' obbligatoria. Non sono consentite abbreviazioni di corso.   
+Art. 334. - Gli insegnamenti impartiti nella scuola sono i seguenti:   
+Insegnamenti fondamentali comuni ai due indirizzi:   
+1) criminologia generale I;   
+2) elementi di diritto;   
+3) elementi di sociologia;   
+4) elementi di psicologia;   
+5) elementi di biologia;   
+6) metodologia della ricerca;   
+7) criminologia generale II;   
+8) criminologia minorile;   
+9) trattamento criminologico 10) politica criminale e diritto penitenziario.   
+Insegnamenti fondamentali dell'indirizzo medico-postcologico e psichiatrico-forense:   
+1) psicopatologia generale;   
+2) psichiatria clinica;   
+3) diagnostica criminologica;   
+4) medicina legale e criminalistica;   
+5) psicodiagnostica;   
+6) neurologia e psichiatria forense;   
+7) prevenzione della patologia del comportamento;   
+8) tecniche di rieducazione minorile;   
+9) legislazione sociosanitaria.   
+Insegnamenti fondamentali dell'indirizzo sociopsicologico:   
+1) elementi di psicopatologia generale;   
+2) elementi di psichiatria clinica forense;   
+3) tecniche di servizio sociale;   
+4) antropologia culturale;   
+5) elementi di medicina legale;   
+6) psicologia sociale;   
+7) tecniche psicopedagogiche;   
+8) sociologia della devianza;   
+9) metodi di prevenzione.   
+Insegnamenti complementari:   
+1) antropofenomenologia;   
+2) etologia dei comportamenti criminosi;   
+3) sociologia del diritto;   
+4) psicobiologia;   
+5) economia della sicurezza e della difesa sociale;   
+6) psicologia e psicopatologia dell'eta' evolutiva;   
+7) igiene mentale;   
+8) psicoterapia.   
+Art. 335. - Il piano di studi della scuola di specializzazione e' il seguente:   
+1° Anno (comune ai due indirizzi):   
+1) criminologia generale I;   
+2) elementi di diritto;   
+3) elementi di sociologia;   
+4) elementi di psicologia;   
+5) elementi di biologia;   
+6) metodologia della ricerca;   
+7) una materia integrativa a scelta.   
+2° Anno:   
+a) indirizzo medico-psicologico e psichiatrico-forense:   
+1) criminologia generale II;   
+2) psicopatologia generale;   
+3) psichiatria clinica;   
+4) diagnostica criminologica;   
+5) medicina legale e criminalistica;   
+6) psicodiagnostica;   
+7) criminologia minorile;   
+8) una materia integrativa a scelta;   
+b) indirizzo socio-psicologico:   
+1) criminologia generale II;   
+2) elementi di psicopatologia generale;   
+3) elementi di psichiatria clinica forense;   
+4) tecniche di servizio sociale;   
+5) antropologia culturale;   
+6) elementi di medicina legale;   
+7) criminologia minorile;   
+8) una materia integrativa a scelta.   
+3° Anno:   
+a) indirizzo medico-psicologico e psichiatrico-forense:   
+1) neurologia e psichiatria forense;   
+2) prevenzione della patologia del comportamento;   
+3) trattamento criminologico;   
+4) tecniche di rieducazione minorile;   
+5) legislazione socio-sanitaria;   
+6) politica criminale e diritto penitenziario;   
+7) una materia integrativa a scelta;   
+b) indirizzo socio-psicologico:   
+1) psicologia sociale;   
+2) tecniche psico-pedagogiche;   
+3) sociologia della devianza;   
+4) metodi di prevenzione;   
+5) trattamento criminologico;   
+6) politica criminale e diritto penitenziario;   
+7) una materia integrativa a scelta.   
+Art. 336. - All'atto della domanda di iscrizione a ciascuno dei tre anni di corso l'allievo dovra' indicare alla segreteria della scuola una materia integrativa, da scegliere fra le materie complementari, ovvero fra quelle fondamentali appartenenti all'indirizzo al quale non e' iscritto. L'indicazione e' vincolante.   
+Art. 337. - Gli insegnamenti potranno essere integrati da esercitazioni pratiche, nonche' da conferenze tenute da esperti italiani e stranieri.   
+Art. 338. - Alla scuola sono ammessi i laureati in medicina e chirurgia, in giurisprudenza, in scienze politiche, in pedagogia, in sociologia, in psicologia, in lettere, in filosofia, in numero complessivo non superiore a trenta per i tre anni di corso.  
+L'ammissione avviene mediante concorso per esami.   
+Art. 339. - Gli esami di profitto sono tenuti ogni anno per singole materie o per gruppi di materie. Per essere ammesso all'esame di diploma l'allievo deve aver sostenuto ventidue esami, dei quali diciannove relativi alle materie fondamentali del suo indirizzo e tre relativi alle materie integrative da lui scelte.   
+I voti degli esami di profitto sono attribuiti in trentesimi; il voto di esame di diploma e' attribuito in cinquantesimi.   
+Art. 340. - L'esame di diploma consiste nella discussione di una dissertazione scritta originale, in una delle materie oggetto di insegnamento. Il tema, concordato con il docente, dovra' essere presentato al direttore della scuola per l'approvazione entro trenta giorni dalla data di inizio dell'ultimo anno di corso.   
+A coloro che hanno superato l'esame di diploma viene rilasciato il diploma di specializzazione in criminologia clinica, con la specificazione dell'indirizzo seguito.   
+Le norme per l'iscrizione, per gli esami, per le tasse, ecc. sono quelle generali delle scuole di specializzazione della facolta' di medicina e chirurgia contemplate dal presente statuto.   
+Gli articoli 370, 371, 372 e 373, relativi alla scuola di specializzazione in malattie dell'apparato cardiovascolare che muta la denominazione in quella di scuola di specializzazione in cardiologia, sono abrogati e sostituiti dai seguenti:   
   
-"Le materie costitutive per conseguire il diploma di perfezionamento sono quattro annuali da scegliere fra le seguenti:  
-Letteratura greca;  
-Letteratura latina;  
-Filologia greca e latina;  
-Glottologia;  
-Grammatica greca e latina;  
-Storia comparata delle lingue classiche;  
-Papirologia;  
-Storia romana con esercitazioni di epigrafia;  
-Storia greca;  
-Archeologia e storia dell'arte greca a romana;  
-Storia della filosofia antica;  
-Antichita' greche e romane;  
-Etruscologia;  
-Letteratura cristiana antica;  
-Filologia bizantina:  
-Storia della letteratura latina medioevale;  
-Filologia umanistica;  
-Paleografia.  
+Scuola di specializzazione in cardiologia   
+Art. 370. - La scuola di specializzazione in cardiologia ha sede presso l'istituto scientifico di medicina interna e conferisce il diploma di specializzazione in cardiologia.   
+Art. 371. Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia in possesso del diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.   
+La durata del corso di studi e' di quattro anni accademici e non e' suscettibile di abbreviazione.   
+Il numero degli allievi e' fissato in complessivi tredici, suddivisi nei quattro anni di corso. Per quanto concerne la direzione della scuola, l'ammissione alla medesima e le disposizioni circa la frequenza ai corsi e alle esercitazioni pratiche e per l'ammissione agli esami, vedansi le norme generali previste dal presente statuto per le scuole di specializzazione della facolta' di medicina e chirurgia.   
+Art. 372. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+1) anatomia umana normale ed embriologia dello apparato cardiovascolare;   
+2) fisiologia dell'apparato cardiovascolare I;   
+3) biochimica e biofisica;   
+4) semeiotica fisica e strumentale dell'apparato cardiovascolare I;   
+5) informatica medica e strumentazione biomedica I.   
+2° Anno:   
+1) anatomia patologica I;   
+2) fisiologia dell'apparato cardiovascolare II;   
+3) patologia e clinica cardiovascolare I;   
+4) semeiotica fisica e strumentale dell'apparato cardiovascolare II;   
+5) informatica medica e strumentazione biomedica II;   
+6) radiologia I;   
+7) aspetti sociali ed epidemiologici delle malattie cardiovascolari.   
+3° Anno:   
+1) anatomia patologica II;   
+2) semeiotica fisica e strumentale dell'apparato cardiovascolare III;   
+3) patologia e clinica cardiovascolare II;   
+4) radiologia II;   
+5) terapia medica e farmacologia clinica I.   
+4° Anno:   
+1) semeiotica fisica e strumentale dell'apparato cardiovascolare IV;   
+2) patologia e clinica cardiovascolare III;   
+3) terapia medica e farmacologia clinica II;   
+4) terapia chirurgica;   
+5) terapie intensive cardiologiche.   
+Art. 373. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame. Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno.   
+Al termine del corso di studi per il conseguimento del diploma di specializzazione in cardiologia, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento di carattere cardiologico che sara' stabilito in base agli accordi presi con il direttore della scuola.   
+Gli articoli 374, 375, 376, 377, 378, 379, 380, 381 e 382, relativi alla scuola di specializzazione in nefrologia medica che muta la denominazione in quella di scuola di specializzazione in nefrologia, sono abrogati e sostituiti dai seguenti:   
   
-Art. 91, relativo alla Scuola di perfezionamento in filosofia annessa alla Facolta' di lettere e filosofia fra le discipline a scelta dello studente e' aggiunta quella di "Esercitazioni di filosofia teoretica".  
-Dopo l'art. 92 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti nuovi articoli relativi alla istituzione della Scuola di perfezionamento in Storia annessa alla Facolta' di lettere e filosofia.  
-  
-Scuola di perfezionamento in storia  
-  
-Art. 93. - Presso la Facolta' di lettere e filosofia e' istituita una Scuola di perfezionamento in storia.  
-La durata del corso e' di due anni. Vi sono ammessi i laureati delle Facolta' di lettere e filosofia, di magistero e di giurisprudenza. Limitatamente all'indirizzo di storia moderna e contemporanea sono ammessi i laureati della Facolta' di scienze politiche e di economia e commercio.  
-Sono ammessi, i laureati stranieri forniti di titoli equivalenti.  
-La Scuola di perfezionamento rilascia un diplomi di perfezionamento.  
-  
-Art. 94. - La Scuola di perfezionamento ha tre indirizzi:  
-1) Storia antica;  
-2) Storia medioevale;  
-3) Storia moderna e contemporanea.  
-  
-Art. 95. - Sono materie fondamentali obbligatorie da seguirsi per un biennio dell'indirizzo di storia antica:  
-1) Storia greca;  
-2) Storia romana;  
-  
-Sono materie complementari annuali, da scegliersi in numero di due per ciascun anno di corso:  
-  
-1) Epigrafia greca;  
-2) Epigrafia romana;  
-3) Antichita' greche e romane;  
-4) Numismatica antica;  
-5) Filologia classica;  
-6) Archeologia;  
-7) Paleografia e diplomatica;  
-8) Storia antica orientale;  
-9) Storia del diritto romano;  
-10) Storia della letteratura greca;  
-11) Storia della letteratura romana;  
-12) Storia della filosofia antica;  
-13) Storia delle religioni;  
-14) Storia del cristianesimo;  
-15) Storia della letteratura cristiana antica;  
-16) Storia della letteratura latina medioevale;  
-17) Storia medioevale;  
-18) Storia ed istituzioni della Liguria.  
-  
-Art. 96. - Sono materie fondamentali obbligatorie da seguirsi per un biennio dell'indirizzo di storia medioevale:  
-1) Storia medioevale;  
-2) Paleografia e diplomatica.  
-  
-Sono materie complementari annuali da scegliersi in numero di due per ciascun anno di corso:  
-1) Storia romana;  
-2) Storia moderna;  
-3) Storia e filologia bizantina;  
-4) Biblioteconomia e bibliografia;  
-5) Archivistica;  
-6) Numismatica; sfragistica e araldica;  
-7) Linguistica, onomastica e toponomastica medioevale;  
-8) Pubblicistica e cronachistica medioevale;  
-9) Paleografia musicale;  
-10) Epigrafia medioevale;  
-11) Storia della letteratura latina medioevale;  
-12) Storia economica;  
-13) Storia del diritto italiano;  
-14) Storia del Cristianesimo;  
-15) Storia della Chiesa;  
-16) Storia delle religioni;  
-17) Storia del commercio e della navigazione;  
-18) Archeologia medioevale;  
-19) Storia ed istituzioni musulmane;  
-20) Storia della cultura ebraica;  
-21) Storia dell'Europa orientale;  
-22) Storia della tecnica e dell'arte libraria;  
-23) Storia ed istituzione della Liguria.  
-  
-Art. 97. - Sono materie fondamentali obbligatorie da seguirsi per un biennio dell'indirizzo di storia moderna e contemporanea:  
-1) Storia moderna;  
-2) Storia contemporanea;  
-3) Geografia.  
-  
-Sono materie complementari annuali, da scegliersi in numero di due per ciascun anno di corso:  
-1) Storia medioevale;  
-2) Storia del Risorgimento;  
-3) Storia delle dottrine politiche;  
-4) Storia delle dottrine economiche;  
-5) Storia del giornalismo;  
-6) Storia del lavoro e delle idee sociali;  
-7) Storia del Cristianesimo;  
-8 Storia della scienza e delle tecniche;  
-9) Storia della storiografia;  
-10) Storia economica;  
-11) Storia dell'industria e degli affari;  
-12) Sociologia e antropologia culturale;  
-13) Economia politica;  
-14) Statistica e demografia;  
-15) Storia dei trattati e politica internazionale;  
-16) Storia dei Paesi afro-asiatici;  
-17) Storia dei Paesi latino americani;  
-18) Storia dell'America anglo-sassone e degli Stati Uniti;  
-19) Storia delle democrazie socialiste e dell'Unione Sovietica;  
-20) Storia della Resistenza e della seconda guerra mondiale;  
-21) Storia e politica navale;  
-22) Storia religiosa dell'Oriente cristiano;  
-23) Storia ed istituzioni della Liguria.  
-  
-Art. 98. - Almeno negli insegnamenti fondamentali la Scuola di perfezionamento organizza corsi trimestrali di seminario, affidati ai ricercatori facenti capo agli Istituti di storia antica e di storia medioevale e moderna, al termine dei quali gli allievi dovranno sostenere un colloquio o una prova scritta o presentare una esercitazione scritta.  
-  
-Art. 99. - Gli allievi della Scuola di perfezionamento sono tenuti a frequentare le lezioni ed i seminari.  
-Il piano di studi e' concordato entro il primo anno di corso tra l'allievo ed il docente della materia in cui l'allievo intende svolgere la dissertazione finale. Per ciascun anno di corso una delle discipline complementari puo' essere scelta tra gli insegnamenti impartiti nell'Universita' e non previsti dal presente regolamento.  
-Il piano di studi e le sue eventuali successive modifiche sono sottoposti all'approvazione del Consiglio della scuola.  
-Gli allievi non sono ammessi al secondo anno di corso se non hanno superato tutti gli esami del primo anno.  
-L'esame di diploma consiste nella presentazione di una, dissertazione scritta avente carattere di originalita', interessante una delle discipline previste per l'indirizzo prescelto e nella discussione della stessa.  
-  
-Art. 100. - Gli allievi, sono tenuti al pagamento delle tasse nella misura fissata annualmente e per tutto il biennio dal Consiglio della scuola. Tale misura non dovra' in ogni caso eccedere, per il primo e il secondo anno di corso quella stabilita rispettivamente per il primo e per l'ultimo anno di corso della Facolta' di lettere e filosofia.  
-Su proposta del direttore della Scuola, sentito il parere del Consiglio della scuola, possono essere esonerati in tutto o in parte dal pagamento delle tasse quegli allievi che svolgano o che abbiano svolto una attivita' a carattere continuativo non remunerata presso l'Istituto di storia antica o presso l'Istituto di storia medioevale e moderna.  
-  
-Art. 101. - Il direttore della Scuola e' nominato per un triennio dalla Facolta' tra i professori di ruolo delle materie comprese nella Scuola.  
-  
-Art. 102. - Gli insegnanti della Scuola e gli incaricati dei corsi di seminario sono proposti alla Facolta' dal direttore della Scuola e scelti tra i professori di ruolo, i liberi docenti e i cultori notoriamente competenti. Il Consiglio della scuola e' formato dai professori di ruolo e dai liberi docenti incaricati di insegnamenti fondamentali ed e' presieduto dal direttore della Scuola.  
+Scuola di specializzazione in nefrologia   
+Art. 374. - La scuola di specializzazione in nefrologia ha sede presso l'istituto scientifico di medicina interna e conferisce il diploma di specializzazione in nefrologia.   
+Art. 375. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza al professore di ruolo o fuori ruolo di materia affine.   
+Art. 376. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+Art. 377. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
+Art. 378. - Il numero massimo di allievi iscrivibili e' di dodici per l'intero corso di studi.   
+Art. 379. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+struttura ed ultrastruttura normale del rene;   
+aspetti biochimici della funzione renale;   
+fisiologia renale;   
+microbiologia ed immunologia applicate alla nefrologia;   
+genetica applicata alla nefrologia;   
+Semeiotica renale I.   
+2° Anno:   
+struttura ed ultrastruttura patologica del rene;   
+patologia del ricambio idroelettrolitico;   
+insufficienza renale;   
+rene e ipertensione arteriosa;   
+semeiotica renale II;   
+nefropatie tubolari.   
+3° Anno:   
+nefropatie glomerulari;   
+nefropatie interstiziali;   
+nefropatie vascolari;   
+terapia dietetica e dialitica I;   
+farmacologia d'interesse nefrologico.   
+4° Anno:   
+nefrouropatie calcolotiche, malformative e neoplastiche;   
+terapia dietetica e dialitica II;   
+fisiopatologia e clinica del trapianto renale;   
+aspetti di nefrologia nell'eta' pediatrica;   
+problemi chirurgici in nefrologia;   
+terapia medica delle nefropatie.   
+Art. 380. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.   
+Art. 381. - Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto, non potranno essere ammessi a sostenere le prove di esame.   
+Art. 382. - Per quanto concerne l'ammissione alla scuola e le norme per il superamento degli esami annuali e di diploma, vedansi le norme generali per le scuole di specializzazione della facolta' di medicina e chirurgia contemplate dal presente statuto.   
+Dopo l'art. 415, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in medicina dello sport e in reumatologia.   
+Scuola di specializzazione in medicina dello sport   
+Art. 416. - La scuola di specializzazione in medicina dello sport, si propone:   
+a) di valorizzare e approfondire gli studi biologici e di medicina applicata nel campo delle attivita' sportive, formative e di competizione e della educazione fisica;   
+b) di preparare adeguatamente sotto l'aspetto teorico e dell'applicazione pratica i medici che intendono dedicarsi alle attivita' attinenti a questa particolare branca della medicina applicata, conferendo ad essi il diploma di specializzazione in medicina dello sport.   
+Art. 417. - Il titolo richiesto per l'ammissione alla scuola e' la laurea in medicina e chirurgia.   
+Il corso di studi ha la durata di tre anni, con frequenza obbligatoria.   
+La scuola ha la sua sede ufficiale presso l'istituto di medicina del lavoro.   
+Gli insegnamenti clinici e specialistici si svolgeranno presso i rispettivi istituti clinici e specialistici.   
+Il numero massimo degli allievi sara' di quarantacinque complessivamente per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli. Nel caso di domande eccedenti il numero dei posti disponibili, la selezione dei candidati avverra' in base ai risultati di un esame di ammissione.   
+Non sono previste abbreviazioni di corso.   
+Per quanto concerne la direzione della scuola, le modalita' per il superamento degli esami annuali e di diploma, vedansi le norme generali previste dal presente statuto per le scuole di specializzazione della facolta' di medicina e chirurgia.   
+L'iscrizione agli anni successivi e' subordinata al superamento degli esami annuali.   
+Art. 418. - L'ordine degli studi e' il seguente:   
+1° Anno:   
+1) anatomia dell'apparato locomotore;   
+2) fisiologia dell'apparato locomotore;   
+3) biochimica ed energetica muscolare;   
+4) antrometria e auxologia;   
+5) psicologia applicata allo sport;   
+6) storia dell'educazione fisica e dello sport:   
+7) sistematica delle attivita' sportivo-agonistiche e regolamenti sportivi.   
+2° Anno:   
+1) fisiologia dell'esercizio fisico;   
+2) biomeccanica dell'esercizio fisico;   
+3) metodologia dell'allenamento sportivo;   
+4) scienza della nutrizione applicata all'attivita' sportiva;   
+5) fisiopatologia degli sport e semeiotica medicosportiva I;   
+6) farmacologia e tossicologia del doping;   
+7) igiene e medicina preventiva applicata all'attivita' sportiva;   
+8) traumatologia degli sport.   
+3° Anno:   
+1) fisiologia applicata agli sport;   
+2) valutazione funzionale dello sportivo;   
+3) fisiopatologia degli sport e semeiotica medicosportiva II;   
+4) fisioterapia e rieducazione funzionale;   
+5) medicina legale ed infortunistica legata agli sport;   
+6) rianimazione e pronto soccorso;   
+7) fisiologia dell'adattamento agli ambienti straordinari.   
+La scuola svolgera' brevi corsi integrativi di conferenze o seminari sopra argomenti e discipline che saranno stabiliti, secondo le possibilita' contingenti, dal consiglio dei docenti della scuola.   
+Saranno inoltre svolte esercitazioni pratiche in sede e sul campo.   
+Scuola di specializzazione in reumatologia   
+Art. 419. - La scuola di specializzazione in reumatologia ha sede presso la cattedra di reumatologia e conferisce il diploma di specializzazione in reumatologia.   
+Art. 420. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Art. 421. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+Art. 422. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.   
+Art. 423. - Il numero massimo di allievi iscrivibili e' di dodici complessivamente per l'intero corso di studi.   
+Art. 424. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+anatomia, istologia e morfogenesi dell'apparato locomotore;   
+fisiologia; e fisiologia dell'apparato locomotore;   
+biochimica di interesse reumatologico;   
+microbiologia in relazione alle malattie reumatiche;   
+immunologia reumatologica;   
+semeiotica fisica e strumentale in reumatologia I.   
+2° Anno:   
+semeiotica fisica e strumentale in reumatologia II;   
+esami di laboratorio in reumatologia;   
+diagnostica radiologica delle reumo-artropatie;   
+farmacologia reumatologica;   
+anatomia e istologia patologica delle malattie reumatiche;   
+clinica e terapia delle malattie traumatiche I.   
+3° Anno:   
+clinica e terapia ortopedica I;   
+fisiochinesiterapia reumatologica;   
+idro-climatologia di interesse reumatologico;   
+reumo-artropatie professionali;   
+clinica e terapia delle malattie reumatiche II.   
+4° Anno:   
+epidemiologia e aspetti sociali dei reumatismi;   
+riabilitazione del malato reumatico;   
+clinica e terapia ortopedica II;   
+clinica e terapia delle malattie reumatiche III.   
+Art. 425. - Per quanto concerne l'ammissione alla scuola, la frequenza e le modalita' per il superamento degli esami di profitto e di diploma, vedansi le norme generali per le scuole di specializzazione della facolta' di medicina e chirurgia contemplate dal presente statuto. Per le materie biennali o triennali l'esame sara' sostenuto alla fine del biennio e del triennio.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 settembre 1963
+### Dato a Roma, addi' 26 ottobre 1977
 
-SEGNI GUI
+LEONE
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 29 ottobre 1963
+Registrato alla Corte dei conti, addi' 27 febbraio 1978
 
-Atti del Governo, registro n. 175, foglio n. 94. - VILLA
+Registro n. 24 Istruzione, foglio n. 74

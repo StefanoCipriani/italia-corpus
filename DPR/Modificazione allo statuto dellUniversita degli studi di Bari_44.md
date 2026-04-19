@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 976
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 gennaio 1984 n. 250
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 976
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 gennaio 1984 n. 250
 ==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Bari.
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,36 +20,41 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio universitario nazionale nel suo parere;
 
 Sentito il parere del Consiglio universitario nazionale;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
-Considerato
------------
+Decreta:
+--------
 
-che all'istituto affluiscono gli insegnamenti di: lingua e letteratura inglese; letteratura angloamericana; lingua e letteratura tedesca; lingua e letteratura francese; lingua e letteratura spagnola; Decreta:
+Lo statuto dell'Universita' di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-All'art. 35 dello statuto dell'Universita' di Bari, relativo agli istituti della facolta' di lettere e filosofia e' aggiunto il seguente:  
-istituto di lingue e letterature straniere.  
+Nell'art. 137, relativo agli istituti annessi alla facolta' di medicina veterinaria, e' aggiunto il nuovo seguente istituto:  
+istituto di patologia aviare, a cui afferiscono i seguenti insegnamenti:  
+a) patologia aviare;  
+b) profilassi delle malattie parassitarie;  
+c) autopsie.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1979
+### Dato a Roma, addi' 20 gennaio 1984
 
-PERTINI VALITUTTI
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 18 settembre 1980
+Registrato alla Corte dei conti, addi' 11 giugno 1984
 
-Registro n. 87 Istruzione, foglio n. 28
+Registro n. 34 Istruzione, foglio n. 312

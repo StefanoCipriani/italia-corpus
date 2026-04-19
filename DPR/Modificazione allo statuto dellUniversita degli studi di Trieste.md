@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 maggio 1985 n. 642
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 luglio 1984 n. 814
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 maggio 1985 n. 642
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 luglio 1984 n. 814
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Trieste.
@@ -39,23 +39,19 @@ Articolo unico
 --------------
 
   
-Nell'art. 71, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-fisiopatologia dell'emostasi;  
-fisiopatologia delle malattie del ricambio;  
-semeiotica cardio-vascolare.  
+Nell'art. 78, relativo al corso di laurea in fisica della facolta' di scienze matematiche, fisiche e naturali, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+cosmologia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 maggio 1985
+### Dato a Roma, addi' 10 luglio 1984
 
-PERTINI
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 9 novembre 1985
+Registrato alla Corte dei conti, addi' 22 novembre 1984
 
-Registro n. 74 Istruzione, foglio n. 140
+Registro n. 71 Istruzione, foglio n. 9

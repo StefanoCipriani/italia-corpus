@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 luglio 1979 n. 515
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 514
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 luglio 1979 n. 515
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 514
 =============================================================
 
 Autorizzazione alla associazione "Croce rossa italiana", in Roma, ad accettare una eredita'.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-515. Decreto del Presidente della Repubblica 3 luglio 1979, col quale, sulla proposta del Ministro della sanita', l'associazione "Croce rossa italiana", in Roma, viene autorizzata ad accettare, con beneficio d'inventario, l'eredita' disposta in favore del sottocomitato C.R.I. di Faenza (Ravenna), con l'obbligo di provvedere alle spese funerarie, dal sig. Luigi Trere' con testamento pubblico 20 agosto 1969, pubblicato a rogito del conservatore dell'archivio notarile distrettuale di Ravenna in data 28 luglio 1975, n. 1390 di repertorio, consistente in un libretto di deposito a risparmio ordinario al portatore, acceso presso la Banca popolare di Faenza con un saldo apparente di L. 6.170.887.  
+514. Decreto del Presidente della Repubblica 11 maggio 1979, col quale, sulla proposta del Ministro della sanita', l'associazione "Croce rossa italiana", in Roma, viene autorizzata ad accettare, con beneficio d'inventario, l'eredita' disposta dal sig. Aldo Sacenti con testamento olografo 8 luglio 1968, pubblicato a rogito dott. Guido Alessandro Magnani, notaio in Bologna, in data 29 ottobre 1974, n. 12307 di repertorio, consistente in beni mobili ed immobili, questi ultimi concessi in usufrutto alla moglie e alla sorella del de cuius, per un totale di L. 93.137.075 al lordo delle passivita'.  
   
 Visto, il Guardasigilli: MORLINO  
 Registrato alla Corte dei conti, addi' 11 ottobre 1979  
-Registro n. 7 Sanita', foglio n. 96
+Registro n. 7 Sanita', foglio n. 95

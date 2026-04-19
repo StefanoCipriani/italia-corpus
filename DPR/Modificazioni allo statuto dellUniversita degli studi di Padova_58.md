@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1165
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1972 n. 1173
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1165
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1972 n. 1173
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
@@ -12,11 +12,11 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), e modificato con [regio decreto 5 ottobre 1939, n. 1347](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1347), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -25,116 +25,136 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 380 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono aggiunte le seguenti:  
-scuola di chirurgia toraco-polmonare che conferisce il diploma di specialista in chirurgia toraco-polmonare;  
-scuola in endocrinologia che conferisce il diploma di specialista in endocrinologia;  
-corso in neonatologia che conferisce il diploma di specialista in neonatologia.  
+L'art. 380 relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che il n. 17 e' abrogato e sostituito dal seguente:  
+n. 17) Scuola di odontoiatria e protesi dentaria che conferisce il diploma di specialista in odontoiatria e protesi dentaria.  
+Nello stesso elenco il n. 24 relativo alla scuola in puericultura e' soppresso, ed e' aggiunto il n. 29 relativo all'istituzione della scuola in "Malattie dell'apparato digerente";  
+n. 29) Scuola di specializzazione in malattie dello apparato digerente che conferisce il diploma di specialista in malattie dell'apparato digerente.  
+Art. 381. - L'ordinamento della scuola di specializzazione in "Chirurgia dell'infanzia" e' abrogato e sostituito dal seguente:  
   
-L'art. 381 e' modificato nel senso che sono aggiunti gli ordinamenti delle scuole di specializzazione in chirurgia toraco-polmonare, in endocrinologia e del corso di specializzazione in neonatologia.  
+Scuola di specializzazione in chirurgia dell'infanzia  
+(durata del corso: anni 2)  
   
-Scuola di specializzazione in chirurgia toraco-polmonare  
+La scuola di specializzazione in chirurgia dell'infanzia conferisce il diploma di specialista in "Chirurgia della infanzia".  
+La durata del corso degli studi per il conseguimento della specialita' in chirurgia dell'infanzia e' fissata in due anni.  
+Possono ottenere l'iscrizione alla scuola i laureati in medicina e chirurgia che siano in possesso del diploma di specialista in chirurgia generale o abbiano conseguito la libera docenza in clinica chirurgica, o patologia chirurgica, o semeiotica chirurgica, o anatomia chirurgica, o in chirurgia pediatrica.  
+Non e' ammessa abbreviazione di corso.  
+Il numero degli iscritti alla scuola per anno di corso e' di dieci.  
+Qualora il numero degli aspiranti superi quello stabilito l'ammissione sara' subordinata ad una prova di esame.  
+La direzione della scuola e' affidata al titolare dell'insegnamento della clinica chirurgica generale o della chirurgia pediatrica.  
+Il corso si compone di insegnamenti fondamentali e di conferenze su argomenti speciali, oltre ad un periodo di internato obbligatorio di almeno sei mesi per ogni anno di corso.  
+Il periodo di internato potra' essere abbreviato per coloro che documentino di svolgere effettivo servizio presso reparti di chirurgia pediatrica.  
+Il corso si compone di insegnamenti fondamentali e di conferenze su argomenti speciali, oltre ad un periodo di internato obbligatorio di almeno sei mesi per ogni anno di corso.  
+Il periodo di internato potra' essere abbreviato per coloro che documentino di svolgere effettivo servizio presso reparti di chirurgia pediatrica universitari od ospedalieri.  
+Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+a) Anatomia patologica e teratologia (lezioni);  
+b) Endocrinologia infantile (conferenze);  
+c) Clinica pediatrica (lezioni);  
+d) Clinica chirurgica pediatrica (lezioni);  
+e) Patologia chirurgica e semeiotica chirurgica (lezioni);  
+f) Diagnostica radiologica e nucleare delle malattie chirurgiche dell'infanzia (lezioni);  
+g) Anestesiologia e rianimazione (conferenze).  
+2° Anno:  
+a) Clinica pediatrica (lezioni);  
+b) Clinica chirurgica pediatrica (lezioni);  
+c) Chirurgia d'urgenza nell'infanzia (lezioni);  
+d) Otorinolaringoiatria nell'infanzia (conferenze);  
+e) Ortopedia nell'infanzia (conferenze);  
+f) Urologia nell'infanzia (conferenze);  
+g) Neurochirurgia infantile (conferenze);  
+h) Chirurgia del cuore e dei grossi vasi (conferenze).  
+La frequenza alle lezioni e alle conferenze e' obbligatoria.  
+Al termine di ciascun anno accademico gli specializzandi, che abbiano ottenuto le firme di frequenza, dovranno sostenere gli esami di profitto nelle materie oggetto di insegnamento.  
+Al termine del corso di specializzazione gli specializzandi dovranno presentare una dissertazione scritta su argomento di chirurgia infantile e sostenere l'esame di diploma.  
+L'ammissione alla scuola avviene per titoli ed esami.  
+Le tasse che gli iscritti devono versare per il conseguimento del diploma di specialista, sono fissate come segue:  
   
-a) Presso l'istituto di patologia speciale chirurgica e propedeutica clinica dell'Universita' di Padova e' istituita la scuola di specializzazione in chirurgia toraco-polmonare, che ha indirizzo teorico pratico con lo scopo di conferire il diploma di specialista in chirurgia toracopolmonare.  
-b) A questa scuola possono essere iscritti i laureati in medicina e chirurgia in possesso della specializzazione in chirurgia generale o di libera docenza in una disciplina chirurgica. La durata del corso e' di tre anni. Il numero dei posti e' stabilito in otto per ogni anno di corso.  
-Qualora il numero delle domande di iscrizione al primo anno di corso sia superiore al numero di otto la scelta degli iscritti sara' fatta in seguito a concorso interno per esami.  
-c) Il direttore della scuola e' il direttore dell'istituto di patologia chirurgica.  
-I docenti dei corsi saranno designati dalla facolta' stessa.  
-d) Il corso si compone di insegnamenti fondamentali, di esercitazioni pratiche, di periodi di internato, di conferenze riguardanti argomenti specialistici, di turni di corsia ed in sala operatoria. Oltre alle lezioni e agli esami relativi, gli specializzandi sono tenuti a tre mesi di frequenza continuativa in corsia ed in sala operatoria per ogni anno di corso. In caso contrario i candidati non potranno ottenere l'attestazione di frequenza necessaria per l'ammissione agli esami.  
-e) Le materie di insegnamento della scuola sono le seguenti:  
+tassa di immatricolazione. . . . . . . . . . . . . . . . L. 5.000 tassa di iscrizione. . . . . . . . . . . . . . . . . . L. 100.000 soprattassa esami. . . . . . . . . . . . . . . . . . . . L. 7.000 tassa quali fuori corso. . . . . . . . . . . . . . . . . L. 5.000   
+I contributi sono determinati di anno in anno dal consiglio di amministrazione, su proposta del senato accademico, sentito il consiglio della facolta' di medicina e chirurgia.  
+Nello stesso articolo l'ordinamento della "Scuola di specializzazione in neurochirurgia" e' modificato nel senso che tra le materie di insegnamento del IV anno della scuola stessa, sono inserite le seguenti:  
+Neurotraumatologia;  
+Neurochirurgia stereotassica;  
+Neurochirurgia infantile;  
+Neurochirurgia spinale.  
+Nello stesso articolo l'ordinamento della "Scuola di specializzazione in odontoiatria e protesi dentaria" e' abrogato e sostituito dal seguente:  
+  
+Scuola di specializzazione in odontoiatria e protesi dentaria  
+(durata del corso: anni 3)  
   
 1° Anno:  
-1) Embriologia, anatomia descrittiva e topografica dell'apparato respiratorio;  
-2) Anatomia chirurgica dell'apparato toraco polmonare;  
-3) Fisiologia e fisiopatologia dell'apparato respiratorio e valutazione funzionale (biennale);  
-4) Anatomia patologica delle affezioni dell'apparato toraco-polmonare;  
-5) Anestesia e rianimazione in chirurgia dell'apparato respiratorio.  
-  
+Embriologia e anatomia dentaria e maxillo facciale;  
+Microbiologia e igiene orale;  
+Farmacologia;  
+Patologia odontostomatologica;  
+Odontotecnica;  
+Anestesia e chirurgia stomatologica;  
+Odontoiatria e conservatica - 1° anno;  
+Esercitazioni pratiche.  
 2° Anno:  
-1) Fisiologia e fisiopatologia dell'apparato respiratorio e valutazione funzionale (biennale);  
-2) Semeiotica e diagnostica clinica e strumentale delle affezioni dell'apparato respiratorio, dell'esofago e del mediastino;  
-3) Diagnostica radiologica toraco-polmonare;  
-4) Patologia, clinica e terapia chirurgica delle affezioni dell'apparato respiratorio, della parete toracica e del mediastino (biennale).  
-  
+Odontoiatria e conservatica - 2° anno;  
+Clinica protesica dentaria e maxillo-facciale - 1° anno;  
+Paradontologia - 1° anno;  
+Anatomia e istopatologia odontostomatologica;  
+Odontoiatria infantile;  
+Radiologia odontostomatologica;  
+Ortopedia dento-maxillo-facciale - 1° anno;  
+Chirurgia maxillo-facciale - 1° anno;  
+Esercitazioni pratiche.  
 3° Anno:  
-1) Patologia, clinica e terapia chirurgica delle affezioni dell'apparato respiratorio, della parete toracica e del mediastino (biennale);  
-2) Patologia, clinica e terapia chirurgica delle affezioni dell'esofago e del diaframma;  
-3) Chirurgia della tubercolosi polmonare;  
-4) Tecnica operatoria delle affezioni dell'apparato toraco-polmonare;  
-5) Elementi di fisioterapia respiratoria.  
-f) Alla fine di ciascun anno accademico gli specializzandi che abbiano ottenuto la firma di frequenza dovranno sostenere un esame di profitto nelle materie fondamentali, il cui superamento e' condizione necessaria ed indispensabile per ottenere l'iscrizione all'anno successivo e per quelli che sono stati iscritti al terzo anno, per l'ammissione all'esame di diploma.  
-Per tutti gli specializzandi che abbiano superato l'esame dei tre anni alla fine del terzo anno di corso ha luogo l'esame di diploma, consistente nella presentazione e discussione di una dissertazione scritta su un argomento di chirurgia toraco-polmonare precedentemente concordata tra il direttore della scuola ed il diplomando all'inizio del terzo anno.  
-La tesi deve essere approvata dallo stesso direttore e depositata presso la direzione almeno 15 giorni prima dell'esame di diploma. Il candidato dovra' sostenere inoltre una prova clinica.  
-I candidati non riconosciuti idonei all'esame di diploma dovranno ripresentarsi all'esame dopo un altro anno di frequenza alla scuola.  
-Se al secondo esame non sia riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove.  
-Nell'ultimo anno di corso gli specializzandi frequenteranno la sala operatoria in maniera assidua, dovranno assistere a numerosi interventi di chirurgia toracopolmonare ed essere in grado di eseguirne essi stessi. La loro preparazione tecnica sara' convalidata o meno alla fine del corso dal direttore della scuola di specializzazione.  
+Clinica odontostomatologica;  
+Chirurgia maxillo-facciale - 2° anno;  
+Medicina legale odontostomatologica e delle assicurazioni;  
+Ortopedia dento-maxillo-facciale - 2° anno;  
+Clinica protesica dentaria e maxillo-facciale - 2° anno;  
+Paradontologia - 2° anno;  
+Esercitazioni pratiche.  
+Internato obbligatorio nell'istituto di clinica odontoiatrica per tutta la durata degli studi.  
+Il numero complessivo degli iscritti ai tre anni di corso e' di settantacinque.  
+L'ammissione alla scuola avviene per titoli ed esami.  
+Le tasse che gli iscritti devono versare per il conseguimento del diploma di specialista, sono fissate come segue:  
   
-Scuola di specializzazione in endocrinologia  
+tassa di immatricolazione. . . . . . . . . . . . . . . . L. 5.000 tassa di iscrizione. . . . . . . . . . . . . . . . . . L. 100.000 soprattassa esami. . . . . . . . . . . . . . . . . . . . L. 7.000 tassa quali fuori corso. . . . . . . . . . . . . . . . . L. 5.000   
+I contributi sono determinati di anno in anno dal consiglio di amministrazione, su proposta del senato accademico, sentito il consiglio della facolta' di medicina e chirurgia.  
+Nello stesso articolo l'ordinamento della "Scuola di specializzazione in puericultura" e' soppresso. Nello stesso articolo e' aggiunto il seguente comma relativo alla scuola di specializzazione in malattie dell'apparato digerente:  
   
-a) E' istituita presso l'Universita' di Padova la scuola di specializzazione in endocrinologia per il conferimento del diploma di specialista in endocrinologia. La scuola ha la durata di tre anni ed ha sede presso l'istituto di semeiotica medica.  
-b) Il numero massimo di iscritti per ogni anno accademico e' di trentanove per i tre corsi; l'ammissione alla scuola avverra' in base ad un concorso per titoli ed esami.  
-c) Gli iscritti alla scuola hanno l'obbligo di frequentare gli insegnamenti stabiliti secondo il programma del corso nonche' l'istituto sede della scuola. La frequenza regolare ai corsi di insegnamento e' condizione necessaria per l'ammissione agli esami di profitto annuali.  
-d) Alla fine di ciascun anno gli iscritti che avranno regolarmente frequentato i corsi potranno essere ammessi a sostenere gli esami di profitto, il cui superamento e' condizione necessaria per l'iscrizione ali anno successivo.  
-e) Gli esami di profitto consistono in prove su ciascuna materia di insegnamento.  
-f) Al termine del terzo anno per conseguire il diploma di specializzazione in endocrinologia, gli iscritti, oltre ad avere superato le prove di esame nelle singole materie, dovranno presentare una dissertazione scritta su argomento di ordine endocrinologico (clinico o sperimentale), che sara' stabilito in base agli accordi presi con il direttore della scuola.  
-g) I candidati riconosciuti idonei agli esami di ciascun corso o all'esame di diploma potranno sostenere nuovamente le prove dopo un altro anno di frequenza.  
-h) Le materie di insegnamento sono le seguenti:  
+Scuola di specializzazione in malattie dell'apparato digerente  
+(durata del corso: anni 4)  
   
 1° Anno:  
-1) Anatomia ed embriologia degli organi endocrini;  
-2) Fisiologia endocrina;  
-3) Biochimica endocrina;  
-4) Anatomia patologica delle malattie endocrine;  
-5) Semeiotica e diagnostica endocrina.  
-  
+Anatomia patologica;  
+Fisiopatologia;  
+Chimica clinica;  
+Semeiotica fisica e strumentale (biennale);  
+Clinica medica (triennio).  
 2° Anno:  
-1) Anatomia patologica delle malattie endocrine;  
-2) Semeiotica e diagnostica endocrina;  
-3) Eredopatologia endocrina;  
-4) Patologia speciale e clinica delle malattie endocrine e delle auxopatie.  
-  
+Semeiotica fisica e strumentale (biennale);  
+Semeiotica radiologica;  
+Malattie del tubo digerente;  
+Clinica medica (triennale).  
 3° Anno:  
-1) Patologia speciale e clinica delle malattie endocrine e delle auxopatie;  
-2) Terapia delle malattie endocrine.  
+Malattie del fegato e del pancreas;  
+Clinica medica (triennale).  
+4° Anno:  
+Tirocinio pratico da svolgersi in una clinica o patologia medica o in reparti ospedalieri.  
+Per le materie biennali e triennali sara' sostenuto un esame alla fine del biennio o triennio.  
+Alle materie fondamentali potranno essere aggiunte, a richiesta della direzione della scuola, materie complementari in numero non superiore a sei per la totalita' del corso.  
+Il numero massimo complessivo degli iscritti e' quaranta, distribuiti nei quattro anni di corso.  
+L'ammissione alla scuola avviene per titoli ed esami.  
+Le tasse che gli iscritti devono versare per il conseguimento del diploma di specialista, sono fissate come segue:  
   
-Corso di specializzazione in neonatologia  
-  
-a) E' istituito presso la facolta' di medicina e chirurgia dell'Universita' di Padova un corso di specializzazione in neonatologia. Il corso ha fini di aggiornamento sul piano teorico ma soprattutto di perfezionamento clinico-pratico nell'ambito della neonatologia.  
-La durata del corso e' annuale. Possono essere ammessi al corso gli aspiranti in possesso di un titolo di specializzazione in pediatria (o clinica pediatrica) od in puericultura conseguito presso una scuola di specializzazione di durata almeno biennale.  
-Il numero degli ammessi e' stabilito in sei.  
-b) La direzione del corso e' attribuita a titolare di discipline pediatriche coadiuvato da un consiglio direttivo. Di questo devono in ogni caso far parte i direttori degli istituti di discipline ostetriche e pediatriche che collaborano all'insegnamento e presso i quali si esplica una parte dell'attivita' degli allievi.  
-c) Le materie di insegnamento sono le seguenti:  
-Clinica della gravidanza, del parto normale e a i rischio;  
-Fisiopatologia e teratologia embrio-fetale;  
-Genetica della patologia cromosomica e delle malattie metaboliche congenite;  
-Fisiologia neonatale;  
-Immunologia neonatale;  
-Biochimica neonatale;  
-Farmacologia neonatale;  
-Patologia neonatale;  
-Diagnostica radiologica neonatale;  
-Tecniche di laboratorio (con riferimento alla fisiologia e patologia neonatali);  
-Assistenza al neonato sano e ammalato;  
-Clinica e terapia neonatale;  
-Rianimazione e cure intensive neonatali;  
-Affezioni chirurgiche del neonato;  
-Evoluzione ed esiti della patologia feto-neonatale.  
-  
-Gli insegnamenti verranno impartiti attraverso lezioni, seminari, discussioni cliniche e integrati da conferenze su argomenti specialistici pertinenti a problemi di neonatologia.  
-d) L'allievo dovra' ottemperare all'internato obbligato per la durata di 10 mesi. In tale periodo egli esplichera' attivita' in sala parto e nelle diverse sezioni e servizi interni di assistenza e cura al neonato.  
-e) Alla fine del corso l'allievo sosterra' un esame globale di profitto con prove teoriche e pratiche e svolgera' una dissertazione orale su argomento di attualita' in campo neonatologico con relativa discussione dinnanzi ad una commissione formata dal direttore e dagli insegnanti del corso.  
-La sessione di esami sara' unica alla fine del corso. All'allievo che avra' completato le prove con esito favorevole verra' rilasciato un diploma di specializzazione in neonatologia.  
-Per il primo anno di attivita' potranno essere iscritti in soprannumero, sempre sulla base di esami e titoli e comunque in numero non superiore a 10, gli specialisti in pediatria e in puericultura che prestino servizio da almeno un anno in sezioni neonatali o per immaturi.  
+tassa di immatricolazione. . . . . . . . . . . . . . . . L. 5.000 tassa di iscrizione. . . . . . . . . . . . . . . . . . L. 100.000 soprattassa esami. . . . . . . . . . . . . . . . . . . . L. 7.000 tassa quali fuori corso. . . . . . . . . . . . . . . . . L. 5.000   
+I contributi sono determinati di anno in anno dal consiglio di amministrazione, su proposta del senato accademico, sentito il consiglio della facolta' di medicina e chirurgia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1973
+### Dato a Roma, addi' 2 ottobre 1972
 
-LEONE MALFATTI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 28 ottobre 1974
+Registrato alla Corte dei conti, addi' 25 giugno 1973
 
-Atti di Governo, registro n. 6, foglio n. 58. - SCIARRETTA
+Atti di Governo, registro n. 258, foglio n. 130 - VALENTINI

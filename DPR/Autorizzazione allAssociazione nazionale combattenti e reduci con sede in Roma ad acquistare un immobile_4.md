@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 ottobre 1962 n. 1620
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 gennaio 1970 n. 50
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 ottobre 1962 n. 1620
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 gennaio 1970 n. 50
+=============================================================
 
 Autorizzazione all'Associazione nazionale combattenti e reduci, con sede in Roma, ad acquistare un immobile.
 ------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1620. Decreto del Presidente della Repubblica 15 ottobre 1962, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale combattenti e reduci, con sede in Roma, viene autorizzata ad acquistare dal geom. Cesare Torno, al prezzo di L. 200.000, come da scrittura privata in data 27 febbraio 1960, un immobile costituito da un appezzamento di terreno di mq. 190, sito nel comune di Castano Primo (Milano), da destinare all'ampliamento della sede sociale della locale sezione dell'Associazione anzidetta.  
+50. Decreto del Presidente della Repubblica 7 gennaio 1970, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale combattenti e reduci, con sede in Roma, viene autorizzata ad acquistare dal sig. Rovatti Mario, dalla moglie Catelani Gina Amelia in Rovatti e dalla figlia Anna Maria Rovatti, per il prezzo di L. 3.400.000, un immobile, costituito da un vano ad uso negozio, al piano terreno, lato nord, del fabbricato sito in Viareggio (Lucca), piazzale Dante n. 16, da adibire ad uso di uffici della locale sezione dell'associazione anzidetta.  
   
-Visto, il Guardasigilli: BOSCO  
-Registrato alla Corte dei conti, addi' 21 novembre 1962  
-Atti del Governo, registro n. 160, foglio n. 37. - VILLA
+Visto, il Guardasigilli: GAVA  
+Registrato alla Corte dei conti, addi' 26 febbraio 1970  
+Atti del Governo, registro n. 233, foglio n. 22. - CARUSO

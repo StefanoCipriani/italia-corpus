@@ -1,20 +1,19 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1954 n. 809
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1953 n. 483
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1954 n. 809
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1953 n. 483
+===============================================================
 
-Autorizzazione all'Universita' di Bari ad accettare una donazione.
-------------------------------------------------------------------
+Autorizzazione all'Universita' di Bari, ad accettare una donazione.
+-------------------------------------------------------------------
 
 Art. 1
 ------
 
 N.
 
-809. Decreto del Presidente della Repubblica 10 aprile 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Bari, viene autorizzata ad accettare la donazione di L. 102.000 contanti, proveniente dalla somma di 100.000 raccolte mediante sottoscrizioni e dalla somma di L. 2000 versate dal prof.  
-Giuseppe Sangiorgi, disposta in suo favore dal prof. Bernardo Terio, con atto pubblico amministrativo del 28 giugno 1952, per l'istituzione, con la rendita del capitale donato, di un premio di studio biennale intitolato "Premio prof. Augusto Stefanelli" e da conferirsi, per concorso, secondo le modalita' che saranno fissate in apposito regolamento.  
+483. Decreto del Presidente della Repubblica 10 febbraio 1953, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Bari viene autorizzata ad accettare una nuova donazione di L. 76.100 nominali, in titoli di Stato, rendita 3,50%, disposta in suo favore dal prof. Vincenzo Ricchioni, con atto pubblico amministrativo in data 13 maggio 1952, per incrementare il premio di studio biennale da intitolarsi al nome del dott. Luigi Ricchioni e da conferirsi ad un laureato della Facolta' di agraria dell'Universita' di Bari.  
   
-Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 21 agosto 1954  
-Atti del Governo, registro n. 85, foglio n. 71. - TEMPESTA
+Visto, il Guardasigilli: ZOLI  
+Registrato alla Corte dei conti, addi' 30 giugno 1953  
+Atti del Governo, registro n. 77, foglio n. 81. - PALLA

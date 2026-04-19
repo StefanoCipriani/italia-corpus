@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 luglio 1978 n. 552
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 maggio 1982 n. 414
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 luglio 1978 n. 552
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 maggio 1982 n. 414
 =============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una donazione.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-552. Decreto del Presidente della Repubblica 20 luglio 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare la donazione disposta dai fratelli Sada Pietro, Claudio e Alberto con atto a rogito dott. Giovanni Lainati, notaio in Milano, in data 26 luglio 1976, n. 432904 di repertorio e n. 26153 di raccolta, registrato a Milano il 2 agosto 1976 al n. 1319471/M, serie H, consistente in titoli obbligazionari per complessivi nominali dollari USA 250.000 pari a lire 208.950.000, da destinare ai fini istituzionali dell'ente.  
+414. Decreto del Presidente della Repubblica 14 maggio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare la donazione, disposta dalla sig.ra Marani Oresta ved. Lotterio, con atto redatto dal notaio dott. Cesare Gallavresi di Milano in data 23 gennaio 1979, n. 67475/22839 di repertorio, registrato a Milano il 26 gennaio 1979 al n. A/ 2396, consistente in un fabbricato urbano sito in Brissago Valtravaglia, via Piave n. 5 censito nel nuovo catasto edilizio urbano alla partita 251 foglio 6 mappale 512 e circostante terreno censito nel nuovo catasto terreni alla partita 832, foglio 6, mappale 265 di Ha. 0.33.70, del valore attribuito dal perito di parte di L. 27.000.000 ritenuto congruo dall'ufficio tecnico erariale di Varese.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 13 settembre 1978  
-Registro n. 6 Presidenza, foglio n. 285
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 30 giugno 1982  
+Registro n. 6 Presidenza, foglio n. 68

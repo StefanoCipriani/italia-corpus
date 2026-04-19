@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1974 n. 612
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1983 n. 789
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1974 n. 612
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1983 n. 789
+==============================================================
 
 Autorizzazione all'Associazione italiana per l'assistenza agli spastici, in Roma, ad accettare una eredita'.
 ------------------------------------------------------------------------------------------------------------
@@ -12,14 +12,8 @@ Art. 1
 
 N.
 
-612. Decreto del Presidente della Repubblica 7 giugno 1974, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana per l'assistenza agli spastici, in Roma, viene autorizzata ad accettare, per la sezione di Torino, l'eredita' disposta dal dott. Dario Gribaldo con testamento olografo, pubblicato per atto a rogito notaio Domenico Picca di Torino in data 26 gennaio 1971, n. 4415 di repertorio, consistente nella proprieta' in parti uguali con il ricovero dei poveri vecchi di corso Casale n. 56, in Torino:
-
-a) dello stabile e dell'appezzamento di terreno di mq 1220 su cui insiste l'edificio stesso, in Torino, via Sabaudia n. 21, individuati nella mappa N.C.E.U. al foglio 134, n. 432, sub 1-2 e nella mappa N.C.T. al foglio 134, n. 443, del valore di L. 59.000.000;
-
-b) dei mobili e libri esistenti nel predetto stabile di via Sabaudia n. 21;
-
-c) delle azioni di societa' industriali depositate nella cassetta n. 216 al Credito italiano, in via Arcivescovado.  
+789. Decreto del Presidente della Repubblica 11 ottobre 1983, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana per l'assistenza agli spastici (AIAS), in Roma, viene autorizzata ad accettare, con beneficio d'inventario, l'eredita', consistente in terreni e fabbricati nudi siti in comune di Santhia' (Vercelli) e in un fabbricato di abitazione sito in comune di Gaglianico (Vercelli), del periziato valore di lire 549.000.000, disposta dalla sig.ra Maria Nerva con testamento olografo 8 ottobre 1973, pubblicato in data 10 giugno 1980, n. 45569/9369 di repertorio, a rogito dott. Piero Barbera, notaio in Biella (Vercelli), registrato a Biella in data 11 giugno 1980 al n. 2869.  
   
-Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 21 novembre 1974  
-Atti di Governo, registro n. 7, foglio n. 7. - SCIARRETTA
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 5 gennaio 1984  
+Registro n. 1 Sanita', foglio n. 22

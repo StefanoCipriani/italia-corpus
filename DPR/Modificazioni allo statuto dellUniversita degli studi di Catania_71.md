@@ -1,95 +1,99 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1968 n. 161
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 1030
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1968 n. 161
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 1030
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Catania approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 19. - Il penultimo comma e' abrogato e sostituito dal seguente:
-
-L'insegnamento triennale delle lingue estere comporta per ciascuna di esse un unico esame, con una prova scritta ed una orale, alla fine del triennio.
-
-Lo studente che non abbia ottenuto la sufficienza nella prova scritta, non puo' essere ammesso a sostenere la prova orale.
-
-Art. 28, relativo al corso di laurea in lettere, il primo comma e' abrogato e sostituito dal seguente:
-
-Gli insegnamenti di "storia greca" e di "storia romana" sono scissi nei due insegnamenti distinti e contemporanei di "storia greca" e di "storia romana" (con esercitazioni di epigrafia romana).
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 12 febbraio 1968
-
-SARAGAT
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 7 marzo 1963 Atti del Governo, registro n. 217, foglio n. 134. - GRECO
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Catania approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 19. - Il penultimo comma e' abrogato e sostituito dal seguente:  
+Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-L'insegnamento triennale delle lingue estere comporta per ciascuna di esse un unico esame, con una prova scritta ed una orale, alla fine del triennio.  
-Lo studente che non abbia ottenuto la sufficienza nella prova scritta, non puo' essere ammesso a sostenere la prova orale.  
-Art. 28, relativo al corso di laurea in lettere, il primo comma e' abrogato e sostituito dal seguente:  
+Art. 57 - all'elenco degli insegnamenti complementari del corso di laurea in chimica per l'indirizzo inorganico-chimico-fisico sono aggiunti i seguenti:   
+metodi matematici per la chimica;   
+cinetica chimica.   
   
-Gli insegnamenti di "storia greca" e di "storia romana" sono scissi nei due insegnamenti distinti e contemporanei di "storia greca" e di "storia romana" (con esercitazioni di epigrafia romana).  
+Art. 60 - all'elenco degli insegnamenti complementari del corso di laurea in fisica sono aggiunti i seguenti:   
+fisica stellare;   
+fisica solare   
+elettrodinamica cosmica;   
+cosmologia;   
+tecniche astronomiche;   
+tecniche astrofisiche.   
+  
+Art. 63 - all'elenco degli insegnamenti complementari per il corso di laurea di matematica sono aggiunti i seguenti:   
+  
+Indirizzo didattico:   
+fisica matematica (1° gruppo);   
+meccanica superiore;   
+chimica generale ed inorganica con elementi di organica;   
+statistica matematica (2° gruppo);   
+topologia.   
+L'insegnamento di chimica generale ed inorganica con elementi di organica e' soppresso e sostituito con quello di:   
+algebra superiore.   
+  
+Indirizzo applicativo:   
+teoria ed applicazioni delle macchine calcolatrici;   
+fisica matematica;   
+meccanica superiore;   
+complementi di algebra (2° gruppo);   
+algebra superiore;   
+matematiche superiori;   
+analisi superiore.   
+  
+L'art. 65, relativo all'esame di laurea del corso di laurea in matematica, e' modificato nel senso che il terzo comma e' abrogato e sostituito dal seguente:   
+L'esame di laurea consta di due parti: la prima delle quali precede la seconda:   
+1) un esame di cultura generale sulle scienze matematiche;   
+2) la discussione di un lavoro scritto e di due tesine orali.   
+  
+Art. 66 - all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:   
+algologia;   
+tossicologia (corso speciale).   
+  
+Art. 69 - all'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti i seguenti:   
+fotogeologia;   
+geochimica applicata;   
+geologia strutturale;   
+geologia marina;   
+geologia del cristallino;   
+geomorfologia applicata;   
+paleobotanica;   
+petrologia;   
+sismologia.   
+  
+Art. 71 - all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche e' aggiunto quello di:   
+tossicologia (corso speciale).   
+  
+Art. 74 - all'elenco degli insegnamenti complementari nel corso di laurea in chimica industriale e' aggiunto quello di:   
+cinetica chimica.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 febbraio 1968
+### Dato a Roma, addi' 31 ottobre 1975
 
-SARAGAT GUI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 7 marzo 1963
+Registrato alla Corte dei conti, addi' 21 settembre 1976
 
-Atti del Governo, registro n. 217, foglio n. 134. - GRECO
+Atti di Governo, registro n. 9, foglio n. 13

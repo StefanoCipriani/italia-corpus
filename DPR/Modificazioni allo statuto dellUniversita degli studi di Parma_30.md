@@ -1,75 +1,225 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 ottobre 1977 n. 993
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 maggio 1970 n. 543
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 ottobre 1977 n. 993
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 maggio 1970 n. 543
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla risposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Dopo l'art. 118 e con il conseguente spostamento della numerazione degli articoli successivi e' inserito il seguente nuovo articolo relativo alla istituzione del corso di laurea in "Chimica e tecnologia farmaceutiche" annesso alla facolta' di farmacia.
+
+Laurea in chimica e tecnologia farmaceutiche
+
+Art. 119. - Titolo di ammissione e' quello previsto dalle vigenti disposizioni di legge.
+
+La durata del corso degli studi per il conseguimento della laurea in chimica e tecnologia farmaceutiche e' di cinque anni, diviso in un biennio ed un triennio.
+
+Materie di insegnamento:
+
+Insegnamenti fondamentali:
+
+Biennio:
+
+1) Analisi chimico farmaceutica I (analisi qualitativa); \* 2) Anatomia umana;
+
+\* 3) Botanica farmaceutica;
+
+\* 4) Chimica fisica;
+
+\* 5) Chimica generale ed inorganica;
+
+\*\* 6) Chimica organica;
+
+\* 7) Fisica;
+
+8) Fisiologia generale;
+
+\* 9) Istituzioni di matematiche;
+
+10) Microbiologia e igiene.
+
+Triennio:
+
+11) Analisi chimico farmaceutica II (analisi
+
+quantitativa);
+
+12) Analisi chimico farmaceutica III (analisi dei
+
+medicamenti);
+
+\* 13) Biochimica applicata;
+
+\* 14) Chimica biologica;
+
+\* 15) Chimica degli alimenti;
+
+\* 16) Chimica farmaceutica applicata;
+
+\* 17) Chimica farmaceutica e tossicologica I;
+
+\* 18) Chimica farmaceutica e tossicologica II;
+
+\*\* 19) Chimica organica II;
+
+\* 20) Farmacologia e farmacognosia;
+
+21) Impianti dell'industria farmaceutica;
+
+22) Laboratorio di preparazione estrattiva e sintetica dei
+
+farmaci;
+
+23) Metodi fisici in chimica organica;
+
+24) Saggi e dosaggi farmacologici;
+
+\* 25) Tecnica e legislazione farmaceutica.
+
+Insegnamenti complementari:
+
+\* Complementi di chimica tossicologica;
+
+\* Chimica delle fermentazioni;
+
+\* Chimica delle sostanze naturali;
+
+Microchimica;
+
+Chimica dei prodotti dietetici;
+
+Chimica dei prodotti cosmetici;
+
+\* Strutturistica chimica.
+
+Le materie segnate con un asterisco sono comuni alla laurea in farmacia; quelle segnate con due asterischi sono comuni alla laurea in chimica.
+
+Per ottenere l'iscrizione al terzo anno lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fissati per i due anni precedenti.
+
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato tutti gli esami dei corsi fondamentali e almeno due esami a scelta fra i corsi complementari.
+
+La prova di laurea comporta la discussione di una tesi sperimentale.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 18 maggio 1970
+
+SARAGAT
+
+MISASI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 24 luglio 1970 Atti del Governo, registro n. 236, foglio n. 179. - IZZI
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Parma e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla risposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-L'art. 164, relativo all'elenco delle scuole di specializzazione in medicina e chirurgia, e' modificato nel senso che la scuola in endocrinologia e malattie del ricambio muta la denominazione in quella di endocrinologia.  
-Gli articoli 228, 229, 230, 231, 232> 233, 234, 235, relativi alla  
-scuola di specializzazione in endocrinologia e malattie del ricambio che muta la denominazione in quella di scuola di specializzazione in endocrinologia, sono soppressi e sostituiti dai seguenti:  
+Dopo l'art. 118 e con il conseguente spostamento della numerazione degli articoli successivi e' inserito il seguente nuovo articolo relativo alla istituzione del corso di laurea in "Chimica e tecnologia farmaceutiche" annesso alla facolta' di farmacia.   
   
-Scuola di specializzazione in endocrinologia  
+Laurea in chimica e tecnologia farmaceutiche   
   
-Art. 228. - La scuola di specializzazione in endocrinologia conferisce il diploma di specializzazione in endocrinologia.  
-Art. 229. - La scuola ha sede presso l'istituto di patologia speciale medica e metodologia clinica dell'Universita'.  
-Art. 230. - Sono ammessi alla scuola i laureati in medicina e chirurgia.  
-Art. 231. - La scuola ha la durata di tre anni con tre posti disponibili per anno, per un totale complessivo di nove posti.  
-Art. 232. - Gli insegnamenti impartiti nella scuola sono:  
-1° Anno:  
-1) anatomia ed embriologia degli organi endocrini;  
-2) fisiologia endocrina;  
-3) biochimica endocrina;  
-4) anatomia patologica delle malattie endocrine (biennale) 1;  
-5) semeiotica e diagnostica endocrina (biennale) I.  
-2° Anno:  
-1) anatomia patologica delle malattie endocrine II;  
-2) semeiotica e diagnostica endocrina (biennale) II;  
-3) patologia speciale medica e clinica delle malattie endocrine e delle auxopatie (biennale) I;  
-4) eredopatologia endocrina.  
-3° Anno:  
-1) patologia speciale medica e clinica delle malattie endocrine e delle auxopatie (biennale) II;  
-2) terapia delle malattie endocrine.  
-Insegnamenti complementari:  
-farmacologia endocrina;  
-endocrinologia ostetricoginecologica;  
-endocrinologia pediatrica;  
-neuroendocrinologia;  
-tecniche di laboratorio endocrinologiche.  
-Art. 233. - Per essere ammessi all'esame di diploma gli allievi dovranno aver superato tutti gli esami delle materie fondamentali piu' tre esami di materie complementari.  
-Art. 234. - Per essere ammessi all'anno successivo gli allievi devono ottenere tutte le attestazioni di frequenza ai corsi propri dell'anno e devono superare tutti gli esami fondamentali.  
-Art. 235. - I candidati non riconosciuti idonei agli esami di ciascun corso ed all'esame di diploma, potranno sostenere le prove dopo un altro anno di frequenza.  
+Art. 119. - Titolo di ammissione e' quello previsto dalle vigenti disposizioni di legge.   
+La durata del corso degli studi per il conseguimento della laurea in chimica e tecnologia farmaceutiche e' di cinque anni, diviso in un biennio ed un triennio.   
+Materie di insegnamento:   
+Insegnamenti fondamentali:   
+Biennio:   
+1) Analisi chimico farmaceutica I (analisi qualitativa); \* 2) Anatomia umana;   
+\* 3) Botanica farmaceutica;   
+\* 4) Chimica fisica;   
+\* 5) Chimica generale ed inorganica;   
+\*\* 6) Chimica organica;   
+\* 7) Fisica;   
+8) Fisiologia generale;   
+\* 9) Istituzioni di matematiche;   
+10) Microbiologia e igiene.   
+Triennio:   
+11) Analisi chimico farmaceutica II (analisi   
+quantitativa);   
+12) Analisi chimico farmaceutica III (analisi dei   
+medicamenti);   
+\* 13) Biochimica applicata;   
+\* 14) Chimica biologica;   
+\* 15) Chimica degli alimenti;   
+\* 16) Chimica farmaceutica applicata;   
+\* 17) Chimica farmaceutica e tossicologica I;   
+\* 18) Chimica farmaceutica e tossicologica II;   
+\*\* 19) Chimica organica II;   
+\* 20) Farmacologia e farmacognosia;   
+21) Impianti dell'industria farmaceutica;   
+22) Laboratorio di preparazione estrattiva e sintetica dei   
+farmaci;   
+23) Metodi fisici in chimica organica;   
+24) Saggi e dosaggi farmacologici;   
+\* 25) Tecnica e legislazione farmaceutica.   
+Insegnamenti complementari:   
+\* Complementi di chimica tossicologica;   
+\* Chimica delle fermentazioni;   
+\* Chimica delle sostanze naturali;   
+Microchimica;   
+Chimica dei prodotti dietetici;   
+Chimica dei prodotti cosmetici;   
+\* Strutturistica chimica.   
+Le materie segnate con un asterisco sono comuni alla laurea in farmacia; quelle segnate con due asterischi sono comuni alla laurea in chimica.   
+Per ottenere l'iscrizione al terzo anno lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fissati per i due anni precedenti.   
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato tutti gli esami dei corsi fondamentali e almeno due esami a scelta fra i corsi complementari.   
+La prova di laurea comporta la discussione di una tesi sperimentale.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 ottobre 1977
+### Dato a Roma, addi' 18 maggio 1970
 
-LEONE MALFATTI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 29 dicembre 1977
+Registrato alla Corte dei conti, addi' 24 luglio 1970
 
-Registro n. 146 Istruzione, foglio n. 322
+Atti del Governo, registro n. 236, foglio n. 179. - IZZI

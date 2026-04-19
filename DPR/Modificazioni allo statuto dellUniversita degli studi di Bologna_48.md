@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1970 n. 318
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1973 n. 1113
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1970 n. 318
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1973 n. 1113
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
@@ -12,12 +12,11 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -25,49 +24,68 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli 291, 292, 293, 294, relativi alla scuola di perfezionamento in archeologia annessa alla facolta' di lettere e filosofia, sono abrogati e sostituiti dai seguenti:  
   
-Art. 52. - All'elenco degli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti quelli di:  
-Diritto tributario;  
-Geografia applicata.  
-  
-Art. 64. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti quelli di:  
-Storia della lingua latina;  
-Filologia italiana;  
-Storia contemporanea;  
-Storia delle religioni;  
-Storia della lingua greca;  
-Estetica;  
-Filmologia;  
-Semitistica.  
-Nello stesso elenco l'insegnamento di "Ebraico e lingue semitiche comparate" e' soppresso.  
-  
-Art. 65. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti quelli di:  
-Storia contemporanea;  
-Storia delle religioni;  
-Filmologia.  
-  
-Art. 70. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne sono aggiunti quelli di:  
-Storia della letteratura ispano-americana;  
-Semitistica;  
-Filmologia.  
-Nello stesso elenco l'insegnamento di "Ebraico e lingue semitiche comparate" e' soppresso.  
-Presso la facolta' di scienze matematiche, fisiche e naturali la denominazione del corso di Specializzazione di "Tecniche radioisotopiche e di protezione dalle radiazioni" e' cambiata in quella di "Radioprotezione e tecniche radioisotopiche".  
-  
-Art. 281. - All'elenco degli insegnamenti impartiti nel predetto corso di specializzazione e' aggiunto quello di "Legislazione di radioprotezione".  
-  
-Art. 523, relativo alla scuola di perfezionamento per tecnici fisioterapisti (scuola diretta a fini speciali) e' modificato nel senso che il punto A e' abrogato e sostituito dal seguente:  
-"Al corso possono essere ammessi annualmente venti allievi".  
+Scuola di perfezionamento in archeologia  
+Art. 291. - Il corso della scuola di perfezionamento in archeologia e' biennale. Ad esso possono iscriversi i laureati in lettere.  
+Art. 292. - Per conseguire il diploma gli iscritti alla scuola di perfezionamento in archeologia dovranno:  
+A) superare nove esami annuali, di cui tre obbligatori. Almeno uno degli esami fondamentali dovra' essere biennale, quello della materia prescelta per la dissertazione di diploma. In piu' e' in facolta' degli iscritti di seguire a loro scelta un secondo esame biennale.  
+Per ogni esame biennale sara' ridotto di uno il numero degli esami complessivi che dovranno essere superati;  
+B) sostenere una prova consistente in traduzioni dal greco antico, dal latino e da due lingue moderne, una delle quali del gruppo germanico, di passi riguardanti l'arte antica;  
+C) presentare e discutere una dissertazione scritta su una delle discipline fondamentali della scuola: il tema dovra' essere scelto nel primo anno di corso.  
+Art. 293. - Sono corsi fondamentali obbligatori:  
+1) Archeologia greca;  
+2) Archeologia romana;  
+3) Etruscologia e archeologia italica;  
+4) Antichita' celtiche;  
+5) Antichita' greche e romane;  
+6) Antichita' delle province romane;  
+7) Antichita' ravennati;  
+8) Archeologia cristiana;  
+9) Archeologia bizantina;  
+10) Archeologia e storia dell'arte del vicino Oriente antico;  
+11) Egittologia;  
+12) Linguistica preromana dell'Italia;  
+13) Museologia;  
+14) Numismatica;  
+15) Paletnologia;  
+16) Protostoria;  
+17) Storia dell'architettura antica;  
+18) Storia dell'arte della tarda antichita';  
+19) Topografia antica;  
+20) Topografia dell'Italia antica.  
+Sono insegnamenti complementari:  
+21) Archeologia medievale;  
+22) Epigrafia greca e romana;  
+23) Etnologia;  
+24) Fotointerpretazione archeologica;  
+25) Geografia storica dell'antichita';  
+26) Metrologia;  
+27) Paleografia e diplomatica;  
+28) Papirologia;  
+29) Scienza e tecnica del restauro;  
+30) Storia dell'archeologia;  
+31) Storia dell'arte medievale;  
+32) Storia della critica d'arte;  
+33) Storia del diritto romano;  
+34) Storia greca;  
+35) Storia orientale antica;  
+36) Storia delle religioni del mondo classico antico;  
+37) Storia romana;  
+38) Tecnica della documentazione archeologica;  
+39) Tecnologia dei materiali.  
+Art. 294. - Potranno essere concesse abbreviazioni di corso con deliberazioni del consiglio della scuola ai laureati in possesso di titoli post-universitari attinenti allo studio dell'archeologia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 7 febbraio 1970
+### Dato a Roma, addi' 23 ottobre 1973
 
-SARAGAT FERRARI AGGRADI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 21 maggio 1970
+Registrato alla Corte dei conti, addi' 1 giugno 1974
 
-Atti del Governo, registro n. 235, foglio n. 114. - CARUSO
+Atti di Governo, registro n. 4, foglio n. 1. - SCIARRETTA

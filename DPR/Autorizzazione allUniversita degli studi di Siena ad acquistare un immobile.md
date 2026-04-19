@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 settembre 1970 n. 795
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1972 n. 578
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 settembre 1970 n. 795
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1972 n. 578
+=============================================================
 
 Autorizzazione all'Universita' degli studi di Siena ad acquistare un immobile.
 ------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-795. Decreto del Presidente della Repubblica 23 settembre 1970, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Siena viene autorizzata ad acquistare dalla signora Nada Giglioli Bulla, al prezzo complessivo di lire 130.000.000, un immobile sito in Siena, via della Cerchia, n. 3.  
+578. Decreto del Presidente della Repubblica 18 luglio 1972, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Siena viene autorizzata ad acquistare un immobile sito in Siena, via Bandini, 25, descritto nel nuovo catasto edilizio urbano alla partita 7846, mappale 464, sub. 2-6-7-8 e 9 e 465 sub 1 a 6 del foglio n. 132 al prezzo di L. 120.000.000.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 9 novembre 1970  
-Atti del Governo, registro n. 238, foglio n. 42. - CARUSO
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 5 ottobre 1972  
+Atti del Governo, registro n. 251, foglio n. 85. - CARUSO

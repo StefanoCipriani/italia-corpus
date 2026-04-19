@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1957 n. 993
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 694
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1957 n. 993
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 694
 ================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
@@ -10,177 +10,81 @@ Modificazioni allo statuto dell'Universita' degli studi di Padova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successivi;
+Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato come appresso:
 
-Dopo l'art. 187 sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di perfezionamento in scienze farmaceutiche e biochimica applicata, con il conseguente spostamento della numerazione degli articoli successivi.
+Articolo unico
+--------------
 
-Scuola di perfezionamento in scienze farmaceutiche e biochimica applicata
-
-Art. 188. - Alla Facolta' di farmacia e' annessa la scuola di perfezionamento in scienze farmaceutiche e biochimica applicata.
-
-Art. 189. - Scopo della scuola e' di utilizzare e perfezionare la cultura dei laureati in farmacia in modo da metterli anche in condizione di eseguire con sicurezza tutte quelle ricerche di indole chimico-biologica che richiedono professionisti specificamente preparati.
-
-Art. 190. - Il corso di studi e' integrato da insegnamenti utili anche a chi si indirizza verso la farmacia ospedaliera o verso le industrie farmaceutiche e chimico-biologiche.
-
-Art. 191. - Ai fini del conseguimento del diploma di specializzazione e' necessario aver frequentato durante un triennio corsi teorici ed esercitazioni sperimentali di:
-
-1) Biologia generale: per coloro che non hanno sostenuto l'esame di zoologia generale nel corso per la laurea.
-
-2) Microbiologia, sierologia umana e veterinaria, tecnica immunologica.
-
-3) Complementi di chimica biologica, e descrittiva e dinamica.
-
-4) Biochimica applicata.
-
-5) Complementi di chimica farmaceutica e analitica.
-
-6) Chimica farmaceutica industriale.
-
-7) Complementi di farmacologia.
-
-8) Analisi chimico-fisiche.
-
-9) Determinazioni chimiche su materiali biologici.
-
-10) Microanalisi e determinazioni microchimiche su farmacie e materiali biologici.
-
-11) Fermentazioni e microbiologia tecnica.
-
-12) Lavorazioni industriali di materiali biologici.
-
-13) Farmacia ospedaliera e laboratorio ospedaliero.
-
-14) Impianti e macchinario farmaceutico.
-
-I corsi possono essere divisi in piu' parti anche con insegnanti diversi.
-
-Art. 192. - Direttore della scuola e' il professore di chimica farmaceutica quando questi e' un professore di ruolo. Nel caso in cui questa cattedra non sia coperta da un professore di ruolo, il direttore e' nominato dal rettore su designazione del Consiglio della Facolta'.
-
-Gli insegnanti vengono nominati dal Consiglio della Facolta' di farmacia.
-
-Fra questi i professori di ruolo dell'Universita' di Padova costituiscono il Consiglio della scuola che e' presieduto dal direttore.
-
-Art. 193. - Gli insegnamenti possono anche non avere carattere cattedratico ed essere svolti nella maniera piu' adatta che viene stabilita dal Consiglio della scuola, il quale fissa anche la durata dei singoli corsi o delle parti di essi.
-
-Art. 194. - Alla scuola saranno ammessi i migliori fra i laureati in farmacia. Il numero di essi, i criteri di scelta, i temi di eventuali esami di ammissione saranno fissati anno per anno dal Consiglio della scuola.
-
-Il Consiglio della scuola puo' inoltre deliberare la dispensa della frequenza di qualche corso o la convalida del relativo esame e anche un accorciamento della durata degli studi per candidati in possesso di titoli particolari conseguiti successivamente alla laurea.
-
-Art. 195. - La sorveglianza degli iscritti, per i quali e' obbligatoria la continua presenza, spetta al direttore che eventualmente sottopone casi particolari al Consiglio della scuola che delibera la non ammissione agli esami di chi non ha dimostrato sufficiente diligenza.
-
-Art. 196. - Le tasse di iscrizione, le soprattasse per gli esami di profitto, di diploma e per la ripetizione di esami sono proposte al Consiglio della scuola e sottoposte all'approvazione del Consiglio di amministrazione.
-
-L'ammontare dei contributi di laboratorio viene stabilito dal Consiglio di amministrazione su proposta del Senato accademico, udite la Facolta' e scuola, ai sensi della [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551).
-
-La tassa di diploma e' fissata nella misura di L. 6000, ai sensi dell'art. 7 della citata legge n. 1551.
-
-Le proposte concernenti la retribuzione agli insegnanti e l'utilizzazione dei fondi della scuola sono formulate dal Consiglio della scuola e sottoposte alla approvazione del Consiglio di amministrazione, con la osservanza delle disposizioni di cui alla [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551), e del [decreto del Presidente della Repubblica 1° dicembre 1952, n. 4512](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-12-01;4512).
-
-Art. 197. - Gli esami per le singole materie vengono sostenuti davanti ad una Commissione di tre membri nominata dal direttore della scuola. Ove il candidato sia respinto due volte nello stesso esame, il caso viene esaminato dal Consiglio della scuola che si pronuncia circa il proseguimento degli studi. Superati tutti gli esami i candidati sono ammessi all'esame di diploma.
-
-Art. 198. - L'esame di diploma consiste in una tesi scritta relativa ad una ricerca sperimentale ed in una tesina orale di natura sperimentale e compilativa, viene sostenuto davanti ad una Commissione di undici (11) membri nominati e presieduti dal direttore della scuola.
-
-Per concordare i temi delle due dissertazioni gli specializzati si rivolgeranno a loro scelta a due professori della scuola.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 2 settembre 1957
-
-GRONCHI
-
-MORO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 28 ottobre 1957 Atti del Governo, registro n. 108, foglio n. 110. - RELLEVA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successivi;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:   
+Dopo l'art. 394 con il conseguente spostamento degli articoli successivi e' inserita la seguente nuova scuola:   
   
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:   
+Scuola di specializzazione in farmacia ospedaliera   
   
-Dopo l'art. 187 sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di perfezionamento in scienze farmaceutiche e biochimica applicata, con il conseguente spostamento della numerazione degli articoli successivi.   
-  
-Scuola di perfezionamento in scienze farmaceutiche e biochimica applicata   
-  
-Art. 188. - Alla Facolta' di farmacia e' annessa la scuola di perfezionamento in scienze farmaceutiche e biochimica applicata.   
-Art. 189. - Scopo della scuola e' di utilizzare e perfezionare la cultura dei laureati in farmacia in modo da metterli anche in condizione di eseguire con sicurezza tutte quelle ricerche di indole chimico-biologica che richiedono professionisti specificamente preparati.   
-Art. 190. - Il corso di studi e' integrato da insegnamenti utili anche a chi si indirizza verso la farmacia ospedaliera o verso le industrie farmaceutiche e chimico-biologiche.   
-Art. 191. - Ai fini del conseguimento del diploma di specializzazione e' necessario aver frequentato durante un triennio corsi teorici ed esercitazioni sperimentali di:   
-1) Biologia generale: per coloro che non hanno sostenuto l'esame di zoologia generale nel corso per la laurea.   
-2) Microbiologia, sierologia umana e veterinaria, tecnica immunologica.   
-3) Complementi di chimica biologica, e descrittiva e dinamica.   
-4) Biochimica applicata.   
-5) Complementi di chimica farmaceutica e analitica.   
-6) Chimica farmaceutica industriale.   
-7) Complementi di farmacologia.   
-8) Analisi chimico-fisiche.   
-9) Determinazioni chimiche su materiali biologici.   
-10) Microanalisi e determinazioni microchimiche su farmacie e materiali biologici.   
-11) Fermentazioni e microbiologia tecnica.   
-12) Lavorazioni industriali di materiali biologici.   
-13) Farmacia ospedaliera e laboratorio ospedaliero.   
-14) Impianti e macchinario farmaceutico.   
-I corsi possono essere divisi in piu' parti anche con insegnanti diversi.   
-Art. 192. - Direttore della scuola e' il professore di chimica farmaceutica quando questi e' un professore di ruolo. Nel caso in cui questa cattedra non sia coperta da un professore di ruolo, il direttore e' nominato dal rettore su designazione del Consiglio della Facolta'.   
-Gli insegnanti vengono nominati dal Consiglio della Facolta' di farmacia.   
-Fra questi i professori di ruolo dell'Universita' di Padova costituiscono il Consiglio della scuola che e' presieduto dal direttore.   
-Art. 193. - Gli insegnamenti possono anche non avere carattere cattedratico ed essere svolti nella maniera piu' adatta che viene stabilita dal Consiglio della scuola, il quale fissa anche la durata dei singoli corsi o delle parti di essi.   
-Art. 194. - Alla scuola saranno ammessi i migliori fra i laureati in farmacia. Il numero di essi, i criteri di scelta, i temi di eventuali esami di ammissione saranno fissati anno per anno dal Consiglio della scuola.   
-Il Consiglio della scuola puo' inoltre deliberare la dispensa della frequenza di qualche corso o la convalida del relativo esame e anche un accorciamento della durata degli studi per candidati in possesso di titoli particolari conseguiti successivamente alla laurea.   
-Art. 195. - La sorveglianza degli iscritti, per i quali e' obbligatoria la continua presenza, spetta al direttore che eventualmente sottopone casi particolari al Consiglio della scuola che delibera la non ammissione agli esami di chi non ha dimostrato sufficiente diligenza.   
-Art. 196. - Le tasse di iscrizione, le soprattasse per gli esami di profitto, di diploma e per la ripetizione di esami sono proposte al Consiglio della scuola e sottoposte all'approvazione del Consiglio di amministrazione.   
-L'ammontare dei contributi di laboratorio viene stabilito dal Consiglio di amministrazione su proposta del Senato accademico, udite la Facolta' e scuola, ai sensi della [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551).   
-La tassa di diploma e' fissata nella misura di L. 6000, ai sensi dell'art. 7 della citata legge n. 1551.   
-Le proposte concernenti la retribuzione agli insegnanti e l'utilizzazione dei fondi della scuola sono formulate dal Consiglio della scuola e sottoposte alla approvazione del Consiglio di amministrazione, con la osservanza delle disposizioni di cui alla [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551), e del [decreto del Presidente della Repubblica 1° dicembre 1952, n. 4512](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-12-01;4512).   
-Art. 197. - Gli esami per le singole materie vengono sostenuti davanti ad una Commissione di tre membri nominata dal direttore della scuola. Ove il candidato sia respinto due volte nello stesso esame, il caso viene esaminato dal Consiglio della scuola che si pronuncia circa il proseguimento degli studi. Superati tutti gli esami i candidati sono ammessi all'esame di diploma.   
-Art. 198. - L'esame di diploma consiste in una tesi scritta relativa ad una ricerca sperimentale ed in una tesina orale di natura sperimentale e compilativa, viene sostenuto davanti ad una Commissione di undici (11) membri nominati e presieduti dal direttore della scuola.   
-Per concordare i temi delle due dissertazioni gli specializzati si rivolgeranno a loro scelta a due professori della scuola.   
+Art. 395. - La scuola di specializzazione in farmacia ospedaliera ha l'intento di assicurare ai laureati in discipline farmaceutiche (farmacia e chimica e tecnologia farmaceutiche) la possibilita' di un perfezionamento nelle materie necessarie ad esercitare la loro attivita' nella farmacia ospedaliera.   
+Art. 396. - La scuola rilascia il diploma di specializzazione in farmacia ospedaliera al termine del corso di studi che ha durata biennale.   
+Art. 397. - Alla scuola di specializzazione sono ammessi i laureati in farmacia ed in chimica e tecnologia farmaceutiche.   
+L'ammissione alla scuola e' condizionata al superamento dell'esame di istituzioni di matematiche (programma del corso di laurea in chimica e tecnologia farmaceutiche), ove questo non sia stato superato nel corso degli studi universitari.   
+Art. 398. - Gli insegnamenti della scuola sono i seguenti:   
+1° Anno:   
+1) matematica e informatica;   
+2) patologia generale (\*);   
+3) biofarmaceutica e farmacocinetica I;   
+4) tossicita', interazioni, effetti secondari dei farmaci;   
+5) radiochimica e radiobiologia;   
+6) microbiologia e igiene (\*);   
+7) tecnologia della preparazione magistrali.   
+2° Anno:   
+1) biofarmaceutica e farmacocinetica II;   
+2) immunochimica;   
+3) farmacia clinica;   
+4) documentazione e informazione sui farmaci;   
+5) officina galenica;   
+6) chimica degli alimenti (\*);   
+7) economia, organizzazione e legislazione ospedaliera.   
+Gli insegnamenti comprendono lezioni teoriche ed esercitazioni pratiche.   
+Ove gli esami delle materie segnate con asterisco non fossero stati superati durante gli studi universitari; queste materie dovranno essere seguite in un regolare corso universitario.   
+Esse sono oggetto d'esame, al pari di tutte le altre materie comprese nel piano di studi della scuola. E' prevista la possibilita' di insegnamento e di esami integrati.   
+Art. 399. - La scuola e' organizzata dalla facolta' di farmacia dell'Universita' di Padova. Potranno essere invitati a tenere lezioni, conferenze, seminari ed esercitazioni, docenti di altre facolta' o Universita', od esperti, anche dall'estero.   
+La direzione della scuola e' affidata ad un docente di ruolo o fuori ruolo eletto dal consiglio direttivo costituito da cinque docenti nominati dal consiglio di facolta', per la durata di tre anni, scelti fra i docenti di discipline chimico-farmaceutiche (due), farmaco-biologiche (due) e tecnologie (uno).   
+Il direttore ed i membri del consiglio sono rieleggibili. In caso di decadenza, il nuovo membro resta in carica fino alla scadenza del mandato triennale.   
+Art. 400. - Gli incarichi di insegnamento, anche per un limitato numero di lezioni o esercitazioni, sono conferiti dal rettore su proposta del consiglio direttivo della scuola con l'approvazione del senato accademico e del consiglio di amministrazione dell'Universita'.   
+Art. 401. - Le tasse e sopratasse per l'iscrizione alla scuola sono quelle stabilite per la facolta' di farmacia.   
+I contributi a carico degli iscritti dovranno essere fissati annualmente dal consiglio di amministrazione su proposta del consiglio della scuola e verranno resi noti ogni anno con apposito manifesto.   
+Art. 402. - Il numero massimo di iscritti alla scuola e' di quindici per ogni anno di corso. Iscrizioni in numero superiore possono essere ammesse eccezionalmente su parere favorevole del consiglio direttivo della scuola. L'ammissione alla scuola e' decisa dal consiglio direttivo sulla base di un concorso, per esami e per titoli. La frequenza e' obbligatoria sia per le lezioni che per le esercitazioni.   
+Art. 403. - La scuola e' finanziata con le quote di iscrizione e attraverso contributi della Societa' italiana di farmacia ospedaliera e di contributi, lasciti o donazioni di altri enti e privati.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 settembre 1957
+### Dato a Roma, addi' 5 settembre 1980
 
-GRONCHI MORO
+PERTINI SARTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 28 ottobre 1957
+Registrato alla Corte dei conti, addi' 27 ottobre 1980
 
-Atti del Governo, registro n. 108, foglio n. 110. - RELLEVA
+Registro n. 97 Istruzione, foglio n. 232

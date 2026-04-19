@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1096
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1985 n. 852
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1096
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1985 n. 852
 ================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Pisa.
@@ -39,15 +39,16 @@ Articolo unico
 --------------
 
   
-  
-Nell'art. 132, relativo ai corsi di laurea in ingegneria, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:   
-processi biologici industriali.   
+Nell'art. 63, relativo al corso di laurea in filosofia della facolta' di lettere e filosofia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
+storia della filosofia dal Rinascimento all'Illuminismo;  
+istituzioni di filosofia;  
+lingue e letterature indiane dravidiche.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 dicembre 1985
+### Dato a Roma, addi' 24 settembre 1985
 
 COSSIGA
 
@@ -55,6 +56,6 @@ FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 19 maggio 1986
+Registrato alla Corte dei conti, addi' 21 gennaio 1986
 
-Registro n. 39 Istruzione, foglio n. 158
+Registro n. 2 Istruzione, foglio n. 101

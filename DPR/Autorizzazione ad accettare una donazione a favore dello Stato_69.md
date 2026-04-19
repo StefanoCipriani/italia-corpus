@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1975 n. 728
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 gennaio 1978 n. 89
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1975 n. 728
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 gennaio 1978 n. 89
+=============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-728. Decreto del Presidente della Repubblica 30 ottobre 1975, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione di una donazione, consistente in una collezione d'arte egizia composta di sessantadue pezzi, disposta a favore dello Stato dalla sig.ra Negri Maria Teodora ved. Ronco con atto in data 30 marzo 1973, n. 34295 di repertorio, a rogito dott. Guglielmo Morini notaio in Torino, da destinare al museo egizio di Torino.  
+89. Decreto del Presidente della Repubblica 13 gennaio 1978, col quale, sulla proposta del Ministro delle finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dal comune di Squillace (Catanzaro) con atto 11 aprile 1975, n. 608 di repertorio, a rogito prof. avv. Natale Naso, notaio in Squillace, consistente in un appezzamento di terreno di mq 2000, sito in Squillace, localita' "Miciulla o Cappuccini", occorrente per la costruzione della locale caserma dei carabinieri.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 18 dicembre 1975  
-Atti di Governo, registro n. 15, foglio n. 49
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 4 aprile 1978  
+Registro n. 14 Finanze, foglio n. 337

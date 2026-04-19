@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 408
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1057
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 408
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1057
+================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Torino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Torino approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -39,27 +39,23 @@ Articolo unico
 --------------
 
   
-Nell'art. 55, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
-fisiopatologia e terapia del dolore;  
-dermatologia pediatrica;  
-radiologia sperimentale;  
-anatomia radiologica;  
-malattie cardiovascolari;  
-oncologia clinica;  
-rianimazione e terapia intensiva.  
+Nell'art. 15, relativo al corso di laurea in scienze politiche, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
+sociologia dei Paesi in via di sviluppo;  
+diritto commerciale internazionale;  
+sociologia dei servizi sociali.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 aprile 1986
+### Dato a Roma, addi' 31 dicembre 1985
 
 COSSIGA
 
 FALCUCCI, Ministro della pubblica istruzione
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 11 luglio 1986
+Registrato alla Corte dei conti, addi' 16 aprile 1986
 
-Registro n. 56 Istruzione, foglio n. 9
+Registro n. 28 Istruzione, foglio n. 241

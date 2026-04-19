@@ -1,129 +1,259 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1964 n. 703
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1213
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1964 n. 703
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1213
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Catania e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+
+Sentito il parere del Consiglio superiore della pubblica Istruzione;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 176 - all'elenco delle scuole di specializzazione in medicina e chirurgia sono apportate le seguenti modifiche:
+
+la scuola di specializzazione in oculistica muta la denominazione in quella di scuola di specializzazione in oftalmologia;
+
+la scuola di specializzazione in chirurgia muta la denominazione in quella di scuola di specializzazione in chirurgia generale;
+
+la scuola di specializzazione in odontoiatria e protesi dentaria muta la denominazione in quella di scuola di specializzazione in odontostomatologia;
+
+la scuola di specializzazione in ematologia clinica e di laboratorio muta la denominazione in quella di scuola di specializzazione in ematologia generale;
+
+la scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale muta la denominazione in quella di scuola di specializzazione in otorinolaringoiatria.
+
+Allo stesso elenco e' aggiunta la scuola di specializzazione in psichiatria.
+
+L'art. 209 e' modificato nel senso che la scuola di specializzazione in oculistica muta la denominazione in quella di scuola di specializzazione in oftalmologia.
+
+L'art. 211, primo comma, e' modificato nel senso che la scuola di specializzazione in chirurgia muta la denominazione in quella di scuola di specializzazione in chirurgia generale.
+
+L'art. 215, primo comma, e' modificato nel senso che la scuola di specializzazione in odontoiatria e protesi dentaria muta la denominazione in quella di scuola di specializzazione in odontostomatologia.
+
+Gli articoli 227, 228 e 230, relativi alla scuola di specializzazione in ematologia clinica e di laboratorio che muta la denominazione in quella di scuola di specializzazione in ematologia generale, sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in ematologia generale
+
+Art. 227. - Presso la facolta' di medicina e chirurgia dell'Universita' di Catania e' istituita una scuola di specializzazione in ematologia generale.
+
+Art. 228. - Il corso di studi della scuola di specializzazione in ematologia generale ha la durata di tre anni.
+
+Art. 230. - Non sono consentite abbreviazioni di corso.
+
+L'art. 232, primo comma, e' modificato nel senso che la scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale muta la denominazione in quella di scuola di specializzazione in otorinolaringoiatria.
+
+L'art. 254, relativo alla scuola di specializzazione in neurologia, e' abrogato e sostituito dal seguente:
+
+Art. 254. - Ammissione per titoli ed esami. Non sono consentite abbreviazioni di corso.
+
+L'art. 261, relativo alla scuola di specializzazione in endocrinologia, e' abrogato e sostituito dal seguente:
+
+Art. 261. - Non sono consentite abbreviazioni di corso.
+
+Dopo l'art. 264, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in psichiatria.
+
+Scuola di specializzazione in psichiatria
+
+Art. 265. - La durata del corso di studi per la scuola di specializzazione in psichiatria e' di quattro anni.
+
+Non sono consentite abbreviazioni di corso.
+
+Art. 266. - Il programma di insegnamento e il seguente:
+
+1° Anno:
+
+1) anatomia ed istologia del sistema nervoso;
+
+2) fisiologia del sistema nervoso;
+
+3) biochimica del sistema nervoso;
+
+4) genetica (elementi);
+
+5) psicologia generale;
+
+6) psicopatologia (I);
+
+7) semeiotica psichiatrica.
+
+2° Anno:
+
+1) anatomia ed istologia patologica del sistema nervoso;
+
+2) patologia speciale e diagnostica neurologica;
+
+3) patologia speciale e diagnostica neurologica;
+
+4) neuro radiologia;
+
+5) endocrinologia e neurologia vegetativa;
+
+6) elettroencefalografia.
+
+3° Anno:
+
+1) patologia speciale psichiatrica;
+
+2) psicopatologia (II);
+
+3) clinica psichiatrica (I);
+
+4) psicologia clinica e psicodiagnostica;
+
+5) psicofarmacologia;
+
+6) psichiatria in rapporto con la patologia internistica;
+
+7) esami di laboratorio.
+
+4° Anno:
+
+1) clinica psichiatrica (II);
+
+2) terapia psichiatrica generale;
+
+3) psicoterapia;
+
+4) neuropsichiatria infantile;
+
+5) psichiatria forense e legislazione psichiatrica;
+
+6) psichiatria sociale (del lavoro, scolastica, igiene e profilassi mentale).
+
+Art. 267. - Internato obbligatorio per l'intero anno scolastico per il primo, terzo e quarto anno in clinica psichiatrica, sede della scuola.
+
+Tale internato potra' essere ridotto a non meno di quattro mesi all'anno per i medici che prestino regolare servizio in ospedale psichiatrico o in una divisione psichiatrica ai un ospedale civile.
+
+L'internato e' obbligatorio per il secondo anno in neurologia (sede della scuola) per l'intero anno scolastico, salvo per i medici che prestino regolare servizio in ospedale psichiatrico o in una divisione psichiatrica di ospedale civile per i quali potra' essere ridotto a non meno di mesi sei e per i medici che prestino regolare servizio in un reparto neurologico per i quali potra' essere ridotto a non meno di mesi quattro.
+
+Art. 260. - Per l'ammissione al corso successivo e' obbligatorio il superamento degli esami di ciascun corso.
+
+Art. 269. - Il numero massimo degli allievi e' di tre per anno di corso.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1977
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 27 giugno 1978 Registro n. 67 Istruzione, foglio n. 347
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), e modificato con regio decreto 16 ottobre 1940.  
-n. 1527, e successive modificazioni;  
+Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Catania e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Sentito il parere del Consiglio superiore della pubblica Istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 176 - all'elenco delle scuole di specializzazione in medicina e chirurgia sono apportate le seguenti modifiche:  
+la scuola di specializzazione in oculistica muta la denominazione in quella di scuola di specializzazione in oftalmologia;  
+la scuola di specializzazione in chirurgia muta la denominazione in quella di scuola di specializzazione in chirurgia generale;  
+la scuola di specializzazione in odontoiatria e protesi dentaria muta la denominazione in quella di scuola di specializzazione in odontostomatologia;  
+la scuola di specializzazione in ematologia clinica e di laboratorio muta la denominazione in quella di scuola di specializzazione in ematologia generale;  
+la scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale muta la denominazione in quella di scuola di specializzazione in otorinolaringoiatria.  
+Allo stesso elenco e' aggiunta la scuola di specializzazione in psichiatria.  
+L'art. 209 e' modificato nel senso che la scuola di specializzazione in oculistica muta la denominazione in quella di scuola di specializzazione in oftalmologia.  
+L'art. 211, primo comma, e' modificato nel senso che la scuola di specializzazione in chirurgia muta la denominazione in quella di scuola di specializzazione in chirurgia generale.  
+L'art. 215, primo comma, e' modificato nel senso che la scuola di specializzazione in odontoiatria e protesi dentaria muta la denominazione in quella di scuola di specializzazione in odontostomatologia.  
+Gli articoli 227, 228 e 230, relativi alla scuola di specializzazione in ematologia clinica e di laboratorio che muta la denominazione in quella di scuola di specializzazione in ematologia generale, sono abrogati e sostituiti dai seguenti:  
   
-Art. 33. - Agli insegnamenti complementari del corso di laurea in Filosofia e' aggiunta quello di "Paleografia".  
-Art. 50, relativo agli esami di laurea della Facolta' di scienze matematiche, fisiche e naturali, dopo il primo comma, viene inserito il seguente nuovo comma:  
-"L'esame di laurea in Chimica industriale e' preceduto da una prova pratica di analisi qualitativa e di analisi quantitativa a carattere industriale, nonche' da una prova di cultura generale su materie chimiche fondamentali e professionali".  
-Art. 52. - L'elenco delle materie complementari del corso di laurea in Chimica e' abrogato e sostituito dal seguente:  
-"Sono insegnamenti complementari per l'indirizzo organico biologico:  
-1) Elettrochimica;  
-2) Chimica industriale (corso speciale per chimici);  
-3) Chimica delle sostanze coloranti;  
-4) Spettroscopia molecolare;  
-5) Chimica macromolecolare;  
-6) Chimica teorica;  
-7) Chimica organica superiore;  
-8) Chimica organica industriale;  
-9) Chimica delle fermentazioni e batteriologia industriale;  
-10) Chimica applicata;  
-11) Impianti chimici industriali;  
-12) Chimica biologica;  
-13) Cristallografia;  
-14) Fisica nucleare;  
-15) Tecnologia e Chimica del petrolio;  
-16) Chimica applicata (ai materiali da costruzione);  
-17) Chimica agraria;  
-18) Chimica farmaceutica;  
-19) Analisi matematica I;  
-20) Analisi matematica II;  
-21) Geometria I;  
-22) Meccanica razionale.  
-Sono insegnamenti complementari per l'indirizzo inorganico-chimico-fisico:  
-1) Elettrochimica;  
-2) Chimica industriale (corso speciale per chimici);  
-3) Fisica tecnica (corso speciale per chimici e chimici industriali);  
-4) Spettroscopia molecolare;  
-5) Chimica macromolecolare;  
-6) Chimica teorica;  
-7) Chimica inorganica superiore;  
-8) Chimica applicata;  
-9) Scienza dei metalli;  
-10) Cristallografia;  
-11) Impianti chimici industriali;  
-12) Tecnologia e Chimica del petrolio;  
-13) Fisica nucleare;  
-14) Misure elettriche (corso speciale per chimici e chimici industriali);  
-15) Geochimica;  
-16) Chimica delle sostanze coloranti;  
-17) Chimica applicata (ai materiali da costruzione);  
-18) Analisi matematica I;  
-19) Analisi matematica II;  
-20) Geometria I;  
-21) Meccanica razionale.  
-Art. 54, relativo agli esami del corso di laurea in Chimica, e' modificato nel senso che dopo il secondo comma, viene inserito il seguente, mentre sono aboliti gli ultimi due commi:  
-"L'esame di laurea consiste nella discussione orale di una dissertazione scritta e di due argomenti scelti dal candidato su materie diverse fra, loro e da quella della dissertazione scritta".  
-Art. 61. - Agli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti quelli di "Giacimenti minerari" e di "Geologia stratigrafica".  
-Art. 63, relativo agli esami del corso di laurea in Scienze naturali, e' abrogato e sostituito dal seguente:  
-"Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato, gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti fra i complementari se questi sono tutti animali in cinque se due di essi sono semestrali.  
-L'esame di laurea e' preceduto da quattro prove pratiche ed orali rispettivamente sui vegetali sugli animali, sui minerali e sulle rocce.  
-L'esame di laurea consiste:  
-a) nella discussione orale di una dissertazione scritta elaborata nell'ultimo biennio su argomento di interesse naturalistico preferibilmente in un laboratorio della Facolta' di scienze;  
-b) nella esposizione e discussione orale di due fra tre argomenti scelti dal candidato in materie diverse tra loro e da quelle su cui verte la dissertazione scritta se questa ultima verte su tema biologico, due degli argomenti da discutere oralmente devono concernere questioni geomineralogiche e viceversa.  
-Art. 66. - L'elenco delle materie complementari del corso di laurea in Chimica industriale e' abrogato e sostituito dal seguente:  
-Sono insegnamenti complementari:  
-1) Tecnologia elettronica;  
-2) Chimica applicata;  
-3) Chimica organica industriale;  
-4) Tecnologia e Chimica del petrolio;  
-5) Chimica macromolecolare;  
-6) Tecnologia delle sostanze coloranti e tecnica tintoria;  
-7) Scienza dei metalli;  
-8) Siderurgia e metallurgia;  
-9) Elettrochimica;  
-10) Chimica delle sostanze coloranti;  
-11) Chimica delle fermentazioni e batteriologia industriale;  
-12) Fisiologia ed igiene del lavoro industriale;  
-13) Chimica agraria;  
-14) Fisica nucleare;  
-15) Chimica teorica;  
-16) Spettroscopia molecolare;  
-17) Chimica organica superiore;  
-18) Chimica inorganica superiore;  
-19) Elettrotecnica;  
-20) Misure elettriche (corso speciale per chimici e chimici industriali);  
-21) Analisi matematica I;  
-22) Analisi matematica II;  
-23) Geometria I;  
-24) Meccanica razionale.  
-Art. 68, relativo agli esami del corso di laurea in Chimica industriale, e' modificato nel senso che l'ultimo comma e' abrogato e sostituito dal seguente:  
-"L'esame di laurea consiste nella discussione orale di una dissertazione scritta e di due argomenti scelti dal candidato sui materie diverse fra loro e da quella della dissertazione scritta".  
+Scuola di specializzazione in ematologia generale  
+Art. 227. - Presso la facolta' di medicina e chirurgia dell'Universita' di Catania e' istituita una scuola di specializzazione in ematologia generale.  
+Art. 228. - Il corso di studi della scuola di specializzazione in ematologia generale ha la durata di tre anni.  
+Art. 230. - Non sono consentite abbreviazioni di corso.  
+L'art. 232, primo comma, e' modificato nel senso che la scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale muta la denominazione in quella di scuola di specializzazione in otorinolaringoiatria.  
+L'art. 254, relativo alla scuola di specializzazione in neurologia, e' abrogato e sostituito dal seguente:  
+Art. 254. - Ammissione per titoli ed esami. Non sono consentite abbreviazioni di corso.  
+L'art. 261, relativo alla scuola di specializzazione in endocrinologia, e' abrogato e sostituito dal seguente:  
+Art. 261. - Non sono consentite abbreviazioni di corso.  
+Dopo l'art. 264, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in psichiatria.  
+Scuola di specializzazione in psichiatria  
+Art. 265. - La durata del corso di studi per la scuola di specializzazione in psichiatria e' di quattro anni.  
+Non sono consentite abbreviazioni di corso.  
+Art. 266. - Il programma di insegnamento e il seguente:  
+1° Anno:  
+1) anatomia ed istologia del sistema nervoso;  
+2) fisiologia del sistema nervoso;  
+3) biochimica del sistema nervoso;  
+4) genetica (elementi);  
+5) psicologia generale;  
+6) psicopatologia (I);  
+7) semeiotica psichiatrica.  
+2° Anno:  
+1) anatomia ed istologia patologica del sistema nervoso;  
+2) patologia speciale e diagnostica neurologica;  
+3) patologia speciale e diagnostica neurologica;  
+4) neuro radiologia;  
+5) endocrinologia e neurologia vegetativa;  
+6) elettroencefalografia.  
+3° Anno:  
+1) patologia speciale psichiatrica;  
+2) psicopatologia (II);  
+3) clinica psichiatrica (I);  
+4) psicologia clinica e psicodiagnostica;  
+5) psicofarmacologia;  
+6) psichiatria in rapporto con la patologia internistica;  
+7) esami di laboratorio.  
+4° Anno:  
+1) clinica psichiatrica (II);  
+2) terapia psichiatrica generale;  
+3) psicoterapia;  
+4) neuropsichiatria infantile;  
+5) psichiatria forense e legislazione psichiatrica;  
+6) psichiatria sociale (del lavoro, scolastica, igiene e profilassi mentale).  
+Art. 267. - Internato obbligatorio per l'intero anno scolastico per il primo, terzo e quarto anno in clinica psichiatrica, sede della scuola.  
+Tale internato potra' essere ridotto a non meno di quattro mesi all'anno per i medici che prestino regolare servizio in ospedale psichiatrico o in una divisione psichiatrica ai un ospedale civile.  
+L'internato e' obbligatorio per il secondo anno in neurologia (sede della scuola) per l'intero anno scolastico, salvo per i medici che prestino regolare servizio in ospedale psichiatrico o in una divisione psichiatrica di ospedale civile per i quali potra' essere ridotto a non meno di mesi sei e per i medici che prestino regolare servizio in un reparto neurologico per i quali potra' essere ridotto a non meno di mesi quattro.  
+Art. 260. - Per l'ammissione al corso successivo e' obbligatorio il superamento degli esami di ciascun corso.  
+Art. 269. - Il numero massimo degli allievi e' di tre per anno di corso.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 luglio 1964
+### Dato a Roma, addi' 31 ottobre 1977
 
-SEGNI GUI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' agosto 1964
+Registrato alla Corte dei conti, addi' 27 giugno 1978
 
-Atti del Governo, registro n. 185, foglio n. 43. - VILLA
+Registro n. 67 Istruzione, foglio n. 347

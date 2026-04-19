@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1986 n. 504
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1983 n. 683
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1986 n. 504
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1983 n. 683
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Siena.
@@ -39,21 +39,22 @@ Articolo unico
 --------------
 
   
-Nell'art. 69, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-analisi chimico-biologiche cliniche.  
+Nell'art. 69, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti: chirurgia sostitutiva e dei trapianti d'organo;  
+endocrinochirurgia;  
+chirurgia dell'apparato digerente;  
+patologia cellulare;  
+chirurgia traumatologica della strada.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 maggio 1986
+### Dato a Roma, addi' 17 maggio 1983
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alta Corte dei conti, addi' 11 agosto 1986
+Registrato alla Corte dei conti, addi' 7 dicembre 1983
 
-Registro n. 63 Istruzione, foglio n. 329
+Registro n. 75 Istruzione, foglio n. 282

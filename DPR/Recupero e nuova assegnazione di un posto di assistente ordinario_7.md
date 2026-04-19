@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 settembre 1977 n. 917
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 gennaio 1976 n. 428
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 settembre 1977 n. 917
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 gennaio 1976 n. 428
+==============================================================
 
 Recupero e nuova assegnazione di un posto di assistente ordinario.
 ------------------------------------------------------------------
@@ -10,15 +10,13 @@ Recupero e nuova assegnazione di un posto di assistente ordinario.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Visto il [decreto del Presidente della Repubblica 11 dicembre 1965, n. 1504](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-12-11;1504), registrato alla Cortei dei conti, addi' 13 gennaio 1966, registro n. 199, foglio n. 61, con il quale fu assegnato, fra gli altri, un posto di assistente ordinario alla cattedra di chimica farmaceutica e tossicologica della facolta' di farmacia dell'Universita' di Catania;
+Visto il decreto del Presidente della Repubblica 5 febbraio 1970, con il quale e' stato assegnato un posto di assistente ordinario alla cattedra di lingua francese della facolta' di economia e commercio dell'Universita' degli studi di Cagliari;
 
-Visto il decreto del rettore dell'Universita' degli studi di Catania in data 2 agosto 1977, registrato alla Corte dei conti regionale di Palermo, addi' 17 agosto 1977, registro n. 14, foglio n.
+Vista la rettorale n. 8696 del 23 dicembre 1975 del rettore dell'Ateneo di Cagliari dalla quale risulta che il posto in questione e' rimasto inutilizzato dalla data dell'assegnazione;
 
-82, per effetto del quale il dott. Pasquale Condorelli, gia' titolare del suddetto posto, e' dichiarato cessato per volontarie dimissioni a decorrere dal 1 luglio 1977;
+Considerato pertanto che non si e' provveduto alla copertura del posto nei termini fissati dall'ultimo comma dell'[art. 13 della legge 18 marzo 1958, n. 349](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-18;349~art13);
 
-Ritenuta la necessita' ed opportunita' di provvedere alla utilizzazione del posto prima del termine previsto dall'[art. 3 della legge 30 novembre 1973, n. 766](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-30;766~art3);
-
-Considerata l'esigenza rappresentata dal titolare della cattedra di filosofia del diritto della facolta' di scienze politiche dell'Universita' degli studi di Roma di acquisire un posto di assistente ordinario al fine di consentire un'attivita' didattica e scientifica funzionale alla presenza dell'elevato numero degli studenti che attualmente frequentano l'insegnamento;
+Ritenuto che per tale ragione siano venuti meno i motivi che a suo tempo determinarono l'assegnazione del posto alla cattedra sopra citata;
 
 Sulla
 -----
@@ -29,25 +27,24 @@ Art. 1
 ------
 
   
-  
-Il posto di assistente ordinario gia' assegnato con [decreto del Presidente della Repubblica 11 dicembre 1965, n. 1504](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-12-11;1504), registrato alla Corte dei conti, addi' 13 gennaio 1966, registro n. 199, foglio n. 61, reso disponibile a seguito delle volontarie dimissioni del dott. Pasquale Condorelli, a decorrere dal 1° luglio 1977, e' recuperato dalla cattedra di chimica farmaceutica e tossicologica della facolta' di farmacia dell'Universita' degli studi di Catania. 
+Il posto di assistente ordinario gia' assegnato con decreto del Presidente della Repubblica 5 febbraio 1970 alla cattedra di lingua francese della facolta' di economia e commercio dell'Universita' degli studi di Cagliari e' recuperato.  
 
 Art. 2
 ------
 
   
-Il posto di assistente sopra Specificato e' contestualmente assegnato alla cattedra di filosofia del diritto della facolta' di scienze politiche dell'Universita' degli studi di Roma.  
+Il posto di assistente ordinario di cui al precedente articolo e' assegnato alla seconda cattedra di diritto penale della facolta' di giurisprudenza dell'Universita' degli studi di Napoli.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 6 settembre 1977
+### Dato a Roma, addi' 22 gennaio 1976
 
 LEONE MALFATTI
 
 Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 20 dicembre 1977
+Registrato alla Corte dei conti, addi' 15 giugno 1976
 
-Registro n. 144 Istruzione, foglio n. 157
+Atti di Governo, registro n. 6, foglio n. 72

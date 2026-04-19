@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 140
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 giugno 1974 n. 410
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 140
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 giugno 1974 n. 410
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-140. Decreto del Presidente della Repubblica 26 febbraio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella nuda proprieta', per la quota di 1/3 pari a L. 12.087.183, di titoli obbligazionari depositati presso il Credito bergamasco di Milano del valore nominale di lire 54.998.000 e del valore reale di L. 36.262.550 al 15 settembre 1977, disposto dalla sig.ra Angelica Nebuloni ved. Remartini con testamento pubblico redatto a rogito dott. Renzo Rosi, notaio in Milano, in data 21 gennaio 1971, attivato in data 23 giugno 1977, n. 100765 di repertorio e n. 5037 di raccolta, registrato a Milano il 4 luglio 1977 al n. 10110/71/M.  
+410. Decreto del Presidente della Repubblica 18 giugno 1974, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di lire 2.000.000, disposto dalla sig.ra Rosa Casagrande, con testamento olografo in data 12 marzo 1970, pubblicato con verbale 13 maggio 1972, repertorio n. 60755/ 15242, a rogito del dott. Carlo Gallizia, notaio in Milano ed ivi registrato il 20 maggio 1972 al n. 09480 atti pubblici.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 31 marzo 1982  
-Registro n. 3 Presidenza, foglio n. 120
+Visto, il Guardasigilli: ZAGARI  
+Registrato alla Corte dei conti, addi' 22 agosto 1974  
+Atti di Governo, registro n. 5, foglio n. 16. - SCIARRETTA

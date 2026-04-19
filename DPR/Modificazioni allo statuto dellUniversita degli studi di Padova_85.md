@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1981 n. 196
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 1194
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1981 n. 196
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 1194
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Padova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 14 ottobre 1926, n. 2133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2133), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,11 +20,13 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio universitario nazionale nel suo parere;
+Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Sentito il parere del Consiglio universitario nazionale;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
+
+Veduto il parere del Consiglio universitario nazionale;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
@@ -33,38 +35,31 @@ Decreta:
 
 Lo statuto dell'Universita' di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Art. 1
+------
 
   
+Nell'art. 168, relativo al corso di laurea in ingegneria, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+idraulica marittima e costiera;  
+sistemi organizzativi aziendali.  
+
+Art. 2
+------
+
   
-Gli articoli 340, 341 e 342, relativi alla scuola di specializzazione in chimica nucleare della facolta' di scienze matematiche, fisiche e naturali, sono cosi' modificati:   
-Art. 340. - La scuola e' retta da un direttore nominato dal rettore su designazione del consiglio della facolta' di scienze matematiche, fisiche e naturali. Il direttore dura in carica due anni. Puo' essere riconfermato ed e' coadiuvato da un consiglio direttivo costituito da quattro professori di ruolo di discipline chimiche impartite presso la facolta' di scienze matematiche, fisiche e naturali, designati dal consiglio di facolta'.   
-Art. 341. - Al corso di specializzazione si possono iscrivere i laureati in chimica, chimica industriale, fisica, ingegneria chimica e ingegneria nucleare.   
-Art. 342. - I corsi sono biennali e comprendono le seguenti materie:   
-1° Anno:   
-chimica nucleare generale;   
-almeno tre corsi semestrali con esercitazioni a scelta tra tutti i corsi elencati nell'articolo successivo.   
-2° Anno:   
-chimica nucleare applicata;   
-legislazione nucleare;   
-almeno tre corsi semestrali con esercitazioni, a scelta tra tutti i corsi elencati nell'articolo successivo.   
-Ogni anno gli allievi presentano il piano di studi prescelto che deve essere approvato dal consiglio direttivo.   
-All'art. 343, relativo alla medesima scuola, nell'elenco dei corsi semestrali con esercitazioni il corso di tecniche sul dosaggio delle radiazioni e sulle protezioni cambia la denominazione in quella di "tecniche sul dosaggio delle radiazioni" e nel medesimo elenco sono aggiunti i seguenti nuovi corsi:   
-21) elementi di matematica statistica;   
-22) effetti biologici delle radiazioni;   
-23) radioprotezione in campo nucleare e medico.   
+Nell'art. 97, relativo al corso di laurea in chimica industriale, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+strutturistica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 gennaio 1981
+### Dato a Selva di Val Gardena, addi' 2 settembre 1983
 
-PERTINI BODRATO
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: SARTI
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 30 aprile 1981
+Registrato alla Corte dei conti, addi' 28 aprile 1984
 
-Registro n. 38 Istruzione, foglio n. 3
+Registro n. 25 Istruzione, foglio n. 180

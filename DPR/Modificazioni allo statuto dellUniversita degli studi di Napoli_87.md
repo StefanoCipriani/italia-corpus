@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1982 n. 853
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1254
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1982 n. 853
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1254
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Napoli approvato con [regio decreto 14 ottobre 1926, n. 2090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2090), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 14 ottobre 1926, n. 2090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2090), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -30,42 +30,74 @@ Sentito il parere del Consiglio universitario nazionale;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
+Veduto il regolamento per l'amministrazione e la contabilita' delle universita' e degli istituti di istruzione universitaria, approvato con [decreto del Presidente della Repubblica 4 marzo 1982, n. 371](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-04;371);
+
+Considerata la necessita' di adeguare a detto regolamento, in sede di ristrutturazione degli istituti, le norme che regolano la gestione amministrativa e contabile degli istituti della seconda facolta' di medicina e chirurgia dell'Universita' predetta;
+
 Decreta:
 --------
 
 Lo statuto dell'Universita' di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 1
-------
+Articolo unico
+--------------
 
   
-Nell'art. 184, relativo al corso di laurea in scienze naturali, all'elenco degli insegnamenti complementari sono aggiunti i nuovi seguenti insegnamenti:  
-biostratigrafia e paleoecologia;  
-sismologia;  
-biologia cellulare;  
-storia della scienza;  
-geochimica.  
-
-Art. 2
-------
-
   
-Nell'art. 180, relativo al corso di laurea in matematica, all'elenco degli insegnamenti complementari per il corso ad indirizzo applicativo ed orientamento numerico e' aggiunto il seguente nuovo insegnamento:  
-teoria e applicazioni delle macchine calcolatrici.  
-Nello stesso articolo sono soppressi i seguenti insegnamenti:  
-psicologia;  
-psicologia dell'eta' evolutiva.  
+Gli articoli 157, 158, 160, 161, relativi agli istituti annessi alla seconda facolta' di medicina e chirurgia, sono soppressi e sostituiti dai seguenti:   
+Art. 157. - Gli istituti, costituiti presso la seconda facolta' di medicina e chirurgia, ciascuno dei quali comprende piu' discipline di insegnamento affini, svolgono in collaborazione con le facolta' ed i corsi di laurea e di indirizzo, le attivita' didattiche per il conseguimento delle lauree e dei diplomi previsti dagli statuti, o, in collaborazione con i dipartimenti ove costituiti, le attivita' di ricerca concernenti le discipline afferenti agli istituti stessi.   
+A tale scopo l'istituto disporra' di attrezzature autonome e di personale in misura adeguata alle esigenze didattico-scientifiche.   
+Ad ogni singolo istituto saranno aggregati anche altri insegnamenti contemplati o che verranno istituiti, relativi a materie che possono essere riconosciute affini.   
+Art. 158. - Gli istituti sono retti dalle disposizioni dell'[art. 88 del decreto del Presidente della Repubblica n. 382/80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;382~art88) e dalle altre norme vigenti ed in particolare dalle disposizioni che seguono:   
+a) sono membri dell'istituto i professori ufficiali, gli assistenti di ruolo nonche' i ricercatori;   
+b) il direttore dell'istituto e' un professore ordinario o straordinario di una delle discipline afferenti all'istituto stesso, nominato dal rettore su designazione del consiglio di istituto. Il direttore coordina e sovrintende all'attivita' dell'istituto, e' responsabile della gestione amministrativa e contabile dell'istituto stesso e resta in carica un triennio. Il direttore informera' dei piu' rilevanti problemi i membri dell'istituto almeno una volta all'anno, all'inizio dell'anno accademico previo opportuno avviso pubblico. In mancanza di professori ordinari e straordinari si applicano le norme di cui al [comma 4 dell'art. 88 del decreto del Presidente della Repubblica n. 382/80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;382~art88-com4);   
+c) il consiglio di istituto, presieduto dal direttore, e' costituito dai professori ufficiali, assistenti e da una rappresentanza di ricercatori, da uno a cinque, qualora essi superino il numero di tre.   
+Art. 160. - Gli istituti dispongono dei fondi di funzionamento cosi' come previsto dall'[art. 69 del decreto del Presidente della Repubblica 4 marzo 1982, n. 371](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-04;371~art69).   
+Art. 161. - Sono costituiti presso la seconda facolta' di medicina e chirurgia i seguenti istituti:   
+1) istituto di anatomia umana normale;   
+2) istituto di anestesiologia e rianimazione e terapia intensiva;  
+3) istituto di biochimica cellulare e molecolare;   
+4) istituto di biologia e patologia molecolare "L. Califano";   
+5) istituto di chirurgia dell'apparato locomotore e chirurgia d'urgenza;   
+6) istituto di chirurgia generale e scienze gastroenterologiche;   
+7) istituto di chirurgia generale e trapianti d'organo;   
+8) istituto di dermatologia, chirurgie plastica e maxillo-facciale;   
+9) istituto di discipline odontostomatologiche;   
+10) istituto di farmacologia sperimentale e clinica;   
+11) istituto di ginecologia, ostetricia e fisiopatologia della riproduzione umana;   
+12) istituto di igiene e medicina preventiva;   
+13) istituto delle malattie del sistema nervoso;   
+14) istituto di medicina dell'eta' evolutiva;   
+15) istituto di medicina interna, cardiologia e cardiochirurgia;   
+16) istituto di medicina interna e malattie dismetaboliche;   
+17) istituto di medicina pubblica e della sicurezza sociale;   
+18) istituto di medicina socio-territoriale;   
+19) istituto di neurochirurgia;   
+20) istituto di oftalmologia;   
+21) istituto di oncologia;   
+22) istituto di patologia;   
+23) istituto di patologia e clinica O.R.L. e foniatria;   
+24) istituto di patologia toracica;   
+25) istituto di pediatria;   
+26) istituto di scienze biochimiche;   
+27) istituto di scienze biochimico-fisiche;   
+28) istituto di scienze delle dinamiche relazionali in medicina;   
+29) istituto di scienze endocrinologiche;   
+30) istituto di scienze fisiologiche umane;   
+31) istituto di scienze microbiologiche e virologiche;   
+32) istituto di scienze radiologiche;   
+33) istituto di strutture biologiche e di ultrastruttura cellulare.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 settembre 1982
+### Dato a Roma, addi' 28 ottobre 1983
 
-PERTINI BODRATO
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 8 novembre 1982
+Registrato alla Corte dei conti, addi' 26 giugno 1984
 
-Registro n. 123 Istruzione, foglio n. 242
+Registro n. 39 Istruzione, foglio n. 41

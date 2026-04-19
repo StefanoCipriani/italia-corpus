@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1982 n. 602
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1969 n. 1060
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1982 n. 602
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1969 n. 1060
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,77 +20,341 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Palermo e convalidati dal Consiglio universitario nazionale nel suo parere;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Gli articoli relativi all'ordinamento del corso di laurea in scienze politiche sono abrogati e sostituiti dai seguenti, con il conseguente spostamento della numerazione degli articoli successivi.
+
+Laurea in scienze politiche
+
+Art. 11. - La durata del corso degli studi per la laurea in scienze politiche e' di quattro anni.
+
+E' titolo di ammissione il diploma di maturita' classica o scientifica.
+
+Art. 12. - Il corso degli studi comprende un biennio propedeutico ed un biennio di specializzazione, ordinati secondo i seguenti tre indirizzi:
+
+1) politico-amministrativo;
+
+2) politico-internazionale;
+
+3) politico-sociale.
+
+Art. 13. - L'ordinamento didattico per il conseguimento della predetta laurea e' quello risultante dalla seguente tabella:
+
+Biennio propedeutico:
+
+1° Anno:
+
+Istituzioni di diritto pubblico;
+
+Storia delle dottrine politiche;
+
+Economia politica;
+
+Statistica;
+
+Storia moderna.
+
+2° Anno:
+
+Istituzioni di diritto privato;
+
+Diritto costituzionale italiano e comparato;
+
+Sociologia;
+
+Politica economica e finanziaria.
+
+Biennio per l'indirizzo politico-amministrativo:
+
+Diritto amministrativo;
+
+Diritto del lavoro;
+
+Istituzioni di diritto e procedura penale;
+
+Scienza delle finanze;
+
+Diritto pubblico regionale.
+
+Materie opzionali:
+
+Storia e sistemi delle relazioni tra Stato e Chiesa nell'eta' moderna;
+
+Diritto internazionale;
+
+Diritto pubblico dell'economia;
+
+Diritto tributario;
+
+Diritto parlamentare;
+
+Contabilita' di Stato;
+
+Storia delle istituzioni politiche;
+
+Diritto processuale-amministrativo;
+
+Scienza dell'amministrazione.
+
+Biennio per l'indirizzo politico-internazionale:
+
+Materie obbligatorie:
+
+Diritto internazionale;
+
+Organizzazione internazionale;
+
+Storia contemporanea;
+
+Diritto commerciale;
+
+Geografia politica ed economica;
+
+Storia dei trattati e politica internazionale.
+
+Materie opzionali:
+
+Diritto internazionale privato;
+
+Storia e sistemi delle relazioni tra Stato e Chiesa nell'eta' moderna;
+
+Diritto amministrativo;
+
+Diritto diplomatico e consolare;
+
+Diritto delle comunita' europee;
+
+Storia e istituzioni dei paesi afro-asiatici;
+
+Lingua straniera (terza);
+
+Diritto pubblico romano;
+
+Storia delle dottrine economiche.
+
+Biennio per l'indirizzo politico-sociale:
+
+Storia contemporanea;
+
+Dottrina dello Stato;
+
+Diritto amministrativo;
+
+Sociologia politica;
+
+Diritto private comparato.
+
+Materie opzionali:
+
+Storia del pensiero sociologico;
+
+Criminologia;
+
+Storia dei movimenti sindacali;
+
+Scienza delle finanze;
+
+Diritto pubblico regionale;
+
+Diritto pubblico dell'economia;
+
+Legislazione del lavoro;
+
+Storia del risorgimento;
+
+Storia e istituzioni dei paesi afro-asiatici;
+
+Storia delle dottrine economiche.
+
+Art. 14. - Alcuni insegnamenti potranno essere mutuati da quelli impartiti dalla facolta'.
+
+Art. 15. - Per tutti gli indirizzi e' obbligatoria la lingua inglese. Per l'indirizzo politico internazionale sono obbligatorie le lingue inglese e francese. I corsi di lingue sono biennali e comportano un esame alla fine di ogni anno del corso. I corsi di lingue possono essere anticipati al primo biennio.
+
+Presso la facolta' sono istituiti i corsi di spagnolo, tedesco, russo ed arabo; una di tali lingue puo' essere scelta come materia opzionale per l'indirizzo politico-internazionale.
+
+Ai fini dell'esame di laurea gli esami di questa terza lingua sono parificati a due esami opzionali.
+
+Art. 16. - Per essere ammesso all'esame di laurea, lo studente dovra' aver seguito i corsi e superato gli esami di diciannove insegnamenti annuali e di due lingue straniere.
+
+Art. 17. - Lo studente potra' anticipare al primo biennio un massimo di tre insegnamenti obbligatori per l'indirizzo prescelto per il secondo biennio. Tali insegnamenti anticipati andranno in detrazione al numero di insegnamenti del biennio di specializzazione.
+
+Art. 18. - Lo studente dovra' scegliere gli insegnamenti non obbligatori del secondo biennio tra gli insegnamenti indicati come opzionali dell'indirizzo prescelto. Superato l'esame di laurea lo studente consegue il titolo di dottore in scienze politiche con l'indicazione dell'indirizzo prescelto.
+
+Art. 19. - Vengono stabilite le seguenti propedeuticita':
+
+1) non si possono sostenere gli esami di diritto costituzionale italiano e comparato, diritto amministrativo, diritto del lavoro, diritto pubblico regionale, se non si e' superato l'esame di istituzioni di diritto pubblico;
+
+2) non si possono sostenere gli esami di politica economica e finanziaria e di scienza delle finanze, se non si e' superato l'esame di economia politica;
+
+3) non si possono sostenere gli esami di storia contemporanea, storia del risorgimento, storia dei trattati e politica internazionale se non si e' superato l'esame di storia moderna.
+
+Art. 20. - Norme transitorie - Gli studenti iscritti al 2°, 3° e 4° anno e i fuori corso possono seguire il vecchio piano di studi oppure scegliere un indirizzo previsto dal nuovo corso di laurea.
+
+In tale caso verranno convalidate le materie superate e previste dal nuovo corso di laurea ed inoltre possono essere convalidati fino a quattro esami non previsti dal piano di studi prescelto. Di questi quattro esami due vanno in detrazione al numero complessivo delle materie obbligatorie del primo e del secondo biennio.
+
+Ai fini dell'ammissione all'esame di laurea bisogna aver superato in ogni caso le seguenti sei materie obbligatorie sul piano nazionale:
+
+Istituzioni di diritto pubblico;
+
+Diritto costituzionale italiano e comparato;
+
+Economia politica;
+
+Statistica;
+
+Sociologia;
+
+Storia moderna.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1969
+
+SARAGAT
+
+FERRARI AGGRADI
+
+Visto, il Guardasigilli: GAVA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 8 gennaio 1970 Atti del Governo, registro n. 231, foglio n. 17. - CARUSO
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Nell'art. 35, relativo al corso di laurea in lettere, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-sociologia della letteratura;  
-demografia storica;  
-etnomusicologia;  
-estetica musicale;  
-geografia politica ed economica;  
-teoria e tecnica delle comunicazioni di massa;  
-storia della critica d'arte;  
-storia dell'arte contemporanea;  
-storia delle arti applicate;  
-museologia e conservazione delle opere d'arte;  
-storia della Sicilia antica;  
-geografia del mondo antico;  
-epigrafia e antichita' cristiane;  
-religioni del mondo classico;  
-civilta' indigene della Sicilia;  
-archeologia della Magna Grecia;  
-cultura greca;  
-sociologia della cultura;  
-dialettologia siciliana;  
-geografia umana.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Nell'art. 36, relativo al corso di laurea in filosofia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-storia della filosofia medioevale araba;  
-storia della filosofia morale;  
-estetica musicale;  
-teoria e tecnica delle comunicazioni di massa;  
-religioni del mondo classico;  
-sociologia della cultura;  
-sociologia della conoscenza.  
-Nell'art. 43, relativo al corso di laurea in lingue e letterature straniere moderne (indirizzo europeo), all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-filologia francese;  
-filologia ibero-romanza;  
-filologia inglese;  
-filologia tedesca;  
-geografia politica ed economica;  
-letteratura francese moderna e contemporanea.  
+Decreta:   
+  
+Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+  
+Gli articoli relativi all'ordinamento del corso di laurea in scienze politiche sono abrogati e sostituiti dai seguenti, con il conseguente spostamento della numerazione degli articoli successivi.   
+  
+Laurea in scienze politiche   
+  
+Art. 11. - La durata del corso degli studi per la laurea in scienze politiche e' di quattro anni.   
+E' titolo di ammissione il diploma di maturita' classica o scientifica.   
+Art. 12. - Il corso degli studi comprende un biennio propedeutico ed un biennio di specializzazione, ordinati secondo i seguenti tre indirizzi:   
+1) politico-amministrativo;   
+2) politico-internazionale;   
+3) politico-sociale.   
+Art. 13. - L'ordinamento didattico per il conseguimento della predetta laurea e' quello risultante dalla seguente tabella:   
+Biennio propedeutico:   
+1° Anno:   
+Istituzioni di diritto pubblico;   
+Storia delle dottrine politiche;   
+Economia politica;   
+Statistica;   
+Storia moderna.   
+2° Anno:   
+Istituzioni di diritto privato;   
+Diritto costituzionale italiano e comparato;   
+Sociologia;   
+Politica economica e finanziaria.   
+Biennio per l'indirizzo politico-amministrativo:   
+Diritto amministrativo;   
+Diritto del lavoro;   
+Istituzioni di diritto e procedura penale;   
+Scienza delle finanze;   
+Diritto pubblico regionale.   
+Materie opzionali:   
+Storia e sistemi delle relazioni tra Stato e Chiesa nell'eta' moderna;   
+Diritto internazionale;   
+Diritto pubblico dell'economia;   
+Diritto tributario;   
+Diritto parlamentare;   
+Contabilita' di Stato;   
+Storia delle istituzioni politiche;   
+Diritto processuale-amministrativo;   
+Scienza dell'amministrazione.   
+Biennio per l'indirizzo politico-internazionale:   
+Materie obbligatorie:   
+Diritto internazionale;   
+Organizzazione internazionale;   
+Storia contemporanea;   
+Diritto commerciale;   
+Geografia politica ed economica;   
+Storia dei trattati e politica internazionale.   
+Materie opzionali:   
+Diritto internazionale privato;   
+Storia e sistemi delle relazioni tra Stato e Chiesa nell'eta' moderna;   
+Diritto amministrativo;   
+Diritto diplomatico e consolare;   
+Diritto delle comunita' europee;   
+Storia e istituzioni dei paesi afro-asiatici;   
+Lingua straniera (terza);   
+Diritto pubblico romano;   
+Storia delle dottrine economiche.   
+Biennio per l'indirizzo politico-sociale:   
+Storia contemporanea;   
+Dottrina dello Stato;   
+Diritto amministrativo;   
+Sociologia politica;   
+Diritto private comparato.   
+Materie opzionali:   
+Storia del pensiero sociologico;   
+Criminologia;   
+Storia dei movimenti sindacali;   
+Scienza delle finanze;   
+Diritto pubblico regionale;   
+Diritto pubblico dell'economia;   
+Legislazione del lavoro;   
+Storia del risorgimento;   
+Storia e istituzioni dei paesi afro-asiatici;   
+Storia delle dottrine economiche.   
+Art. 14. - Alcuni insegnamenti potranno essere mutuati da quelli impartiti dalla facolta'.   
+Art. 15. - Per tutti gli indirizzi e' obbligatoria la lingua inglese. Per l'indirizzo politico internazionale sono obbligatorie le lingue inglese e francese. I corsi di lingue sono biennali e comportano un esame alla fine di ogni anno del corso. I corsi di lingue possono essere anticipati al primo biennio.   
+Presso la facolta' sono istituiti i corsi di spagnolo, tedesco, russo ed arabo; una di tali lingue puo' essere scelta come materia opzionale per l'indirizzo politico-internazionale.   
+Ai fini dell'esame di laurea gli esami di questa terza lingua sono parificati a due esami opzionali.   
+Art. 16. - Per essere ammesso all'esame di laurea, lo studente dovra' aver seguito i corsi e superato gli esami di diciannove insegnamenti annuali e di due lingue straniere.   
+Art. 17. - Lo studente potra' anticipare al primo biennio un massimo di tre insegnamenti obbligatori per l'indirizzo prescelto per il secondo biennio. Tali insegnamenti anticipati andranno in detrazione al numero di insegnamenti del biennio di specializzazione.   
+Art. 18. - Lo studente dovra' scegliere gli insegnamenti non obbligatori del secondo biennio tra gli insegnamenti indicati come opzionali dell'indirizzo prescelto. Superato l'esame di laurea lo studente consegue il titolo di dottore in scienze politiche con l'indicazione dell'indirizzo prescelto.   
+Art. 19. - Vengono stabilite le seguenti propedeuticita':   
+1) non si possono sostenere gli esami di diritto costituzionale italiano e comparato, diritto amministrativo, diritto del lavoro, diritto pubblico regionale, se non si e' superato l'esame di istituzioni di diritto pubblico;   
+2) non si possono sostenere gli esami di politica economica e finanziaria e di scienza delle finanze, se non si e' superato l'esame di economia politica;   
+3) non si possono sostenere gli esami di storia contemporanea, storia del risorgimento, storia dei trattati e politica internazionale se non si e' superato l'esame di storia moderna.   
+Art. 20. - Norme transitorie - Gli studenti iscritti al 2°, 3° e 4° anno e i fuori corso possono seguire il vecchio piano di studi oppure scegliere un indirizzo previsto dal nuovo corso di laurea.   
+In tale caso verranno convalidate le materie superate e previste dal nuovo corso di laurea ed inoltre possono essere convalidati fino a quattro esami non previsti dal piano di studi prescelto. Di questi quattro esami due vanno in detrazione al numero complessivo delle materie obbligatorie del primo e del secondo biennio.   
+Ai fini dell'ammissione all'esame di laurea bisogna aver superato in ogni caso le seguenti sei materie obbligatorie sul piano nazionale:   
+Istituzioni di diritto pubblico;   
+Diritto costituzionale italiano e comparato;   
+Economia politica;   
+Statistica;   
+Sociologia;   
+Storia moderna.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 giugno 1982
+### Dato a Roma, addi' 31 ottobre 1969
 
-PERTINI BODRATO
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 10 agosto 1982
+Registrato alla Corte dei conti, addi' 8 gennaio 1970
 
-Registro n. 99 Istruzione, foglio n. 171
+Atti del Governo, registro n. 231, foglio n. 17. - CARUSO

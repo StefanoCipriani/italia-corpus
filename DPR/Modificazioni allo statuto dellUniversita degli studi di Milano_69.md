@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1986 n. 931
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1982 n. 133
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1986 n. 931
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1982 n. 133
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,102 +20,95 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
+Veduto l'[art. 16 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art16);
 
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali, a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Decreta:
---------
+Sulla
+-----
 
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+proposta del Ministro della pubblica istruzione; Decreta:
 
-Art. 1
-------
+Articolo unico
+--------------
 
   
-Gli articoli da 427 a 440, relativi alla scuola di specializzazione in fisica sanitaria ed ospedaliera che muta denominazione in scuola di specializzazione in fisica sanitaria, sono sostituiti dai seguenti con il conseguente spostamento della numerazione degli articoli successivi:  
+Lo statuto dell'Universita' di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Scuola di specializzazione in fisica sanitaria  
-Art. 427. - E' istituita la scuola di specializzazione in fisica sanitaria presso l'Universita' degli studi di Milano.  
-La scuola ha lo scopo di provvedere alla formazione dei fisici sanitari da impiegarsi presso unita' sanitarie locali, centri di ricerca pubblici e privati, centri nucleari e di controllo ecologico.  
-La scuola rilascia il titolo di specialista in fisica sanitaria.  
-Art. 428. - La scuola ha la durata di due anni.  
-Ciascun anno di corso prevede duecentocinquanta ore di insegnamento e centocinquanta ore di attivita' pratiche guidate.  
-In base alle strutture ed attrezzature disponibili, la scuola e' in grado di accettare il numero massimo di iscritti determinato in quindici per ciascun anno di corso per un totale di trenta specializzandi.  
-Art. 429. - Ai sensi della normativa generale, concorrono al funzionamento della scuola le facolta' di scienze matematiche, fisiche e naturali, medicina e chirurgia, il dipartimento di fisica e l'istituto di fisica generale ed applicata.  
-Nel manifesto annuale degli studi viene indicata la sede della direzione della scuola.  
-Art. 430. - Sono ammessi al concorso per ottenere l'iscrizione alla scuola i laureati del corso di laurea in fisica, chimica, chimica industriale ed ingegneria.  
-Sono altresi' ammessi al concorso per l'ammissione alla scuola coloro che siano in possesso del titolo di studio, conseguito presso Universita' straniere e che sia equipollente, ai sensi dell'[art. 332 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art332), a quelli richiesti nei commi precedenti.  
-Art. 431. - Le materie di insegnamento sono le seguenti:  
+Dopo l'art. 264, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chemioterapia.  
+  
+Scuola di specializzazione in chemioterapia  
+  
+Art. 265. - La scuola di specializzazione in chemioterapia ha sede presso le cattedre di chemioterapia dell'Universita' degli studi di Milano e conferisce il diploma di specialista in chemioterapia valido a tutti gli effetti di legge.  
+La scuola ha la durata di quattro anni.  
+Art. 266. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.  
+Art. 267. - L'iscrizione alla scuola e' aperta ai laureati in medicina e chirurgia. E' richiesto, prima del conseguimento del diploma, il possesso dell'abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+Art. 268. - Il numero massimo degli allievi e' di dieci per anno di corso e complessivamente di quaranta per l'intero corso di studi.  
+Art. 269. - L'ammissione al corso avviene per titoli ed esami.  
+Art. 270. - La frequenza e' obbligatoria sia alle lezioni e conferenze che alle esercitazioni teoriche e pratiche.  
+Art. 271. - Durante il corso verranno tenute esercitazioni pratiche e di laboratorio.  
+Art. 272. - Alla fine di ogni anno accademico gli specializzandi, che abbiano ottenuto le firme di frequenza, dovranno sostenere gli esami di profitto sulle materie di insegnamento, il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo e per quelli che abbiano frequentato il quarto anno, per poter accedere all'esame di diploma. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove d'esame.  
+Art. 273. - Alla fine del quarto anno di corso ha luogo l'esame di diploma, consistente nella presentazione e discussione di una dissertazione scritta su argomenti di ordine chemioterapico, concordato tra il diplomando e il direttore della scuola, all'inizio del terzo anno.  
+La dissertazione deve essere approvata dal direttore stesso e depositata presso la direzione, almeno quindici giorni prima degli esami.  
+Art. 274. - La commissione per gli esami di profitto e' costituita dal direttore della scuola e da almeno due membri, scelti fra i docenti del corso.  
+Art. 275. - Le materie di insegnamento sono le seguenti:  
 1° Anno:  
-complementi di fisica;  
-elementi di biologia, anatomia e fisiologia umana;  
-fisica e dosimetria delle radiazioni I;  
-strumentazione e tecnologie biometriche I;  
-informatica e statistica nelle applicazioni sanitarie I.  
-2° Anno:  
-protezione personale e ambientale;  
-strumentazione e tecnologie biomediche II;  
-fisica e dosimetria delle radiazioni II;  
-informatica e statistica nelle applicazioni sanitarie II;  
-biofisica.  
-Art. 432. - Oltre le lezioni lo specializzando dovra' frequentare esercitazioni ed attivita' pratiche presso il dipartimento di fisica, i servizi sanitari ospedalieri e i centri di ricerca nazionali ed internazionali.  
-Ai fini delle frequenze e delle attivita' pratiche va riconosciuta utile sulla base di idonea documentazione l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinenti alla specializzazione.  
-Art. 433. - L'Universita', su proposta del consiglio della scuola, puo' stabilire convenzioni con enti pubblici e privati, con finalita' di sovvenzionamento e di utilizzazione di strutture extrauniversitarie per lo svolgimento di attivita' didattiche ai sensi del [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382) e del [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162).  
-
-Art. 2
-------
-
-  
-Dopo l'art. 433 e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in tecnologie chimiche di processo:  
-  
-Scuola di specializzazione in tecnologie chimiche di processo  
-Art. 434. - E' istituita la scuola di specializzazione in tecnologie chimiche di processo presso l'Universita' di Milano.  
-La scuola prepara tecnologi di moderna formazione per assecondare la conversione dell'industria verso attivita' ad alto contenuto tecnologico. Lo specialista in tecnologie chimiche costituira' l'anello di congiunzione tra il lavoro eseguito dal chimico ricercatore e quello svolto dall'ingegnere di processo.  
-La scuola rilascia il titolo di specialista in tecnologie chimiche di processo.  
-Art. 435. - La scuola ha la durata di due anni.  
-Ciascun anno di corso prevede centoventi ore di insegnamento e duecentoquaranta ore di attivita' pratiche guidate.  
-In base alle strutture e attrezzature disponibili e' in grado di accettare il numero massimo di iscritti determinato in quindici per ciascun anno di corso per un totale di trenta specializzandi.  
-Art. 436. - Concorrono al funzionamento della scuola la facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Milano ed il dipartimento di chimica fisica ed elettrochimica - Universita' di Milano.  
-Nel manifesto annuale degli studi viene indicata la sede della direzione della scuola.  
-Art. 437. - Sono ammessi al concorso per ottenere l'iscrizione alla scuola i laureati del corso di laurea in chimica, chimica industriale e ingegneria chimica.  
-Sono altresi' ammessi al concorso per l'ammissione alla scuola coloro che siano in possesso del titolo di studio conseguito presso Universita' straniere o che sia equipollente ai sensi dell'[art. 332 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art332).  
-Art. 438. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-cinetica applicata ai reattori e catalisi;  
-termodinamica applicata ai processi di separazione;  
-sviluppo dei processi chimici;  
-un corso a scelta tra i seguenti:  
-materiale per l'industria chimica; processi catalitici industriali; chimica organica industriale.  
-2° Anno:  
-misure di regolazione e automazione;  
-affidabilita' e sicurezza nell'industria chimica;  
-due corsi a scelta tra i seguenti:  
-aspetti giuridici e tecnico-economici dell'industria chimica; metodologia di protezione, inibizione e monitoraggio della corrosione; chimica fisica dello stato solido; elettrocatalisi; catalisi e chimica dell'ambiente; catalisi enzimatica, catalisi applicata ai problemi energetici, smaltimento e riutilizzo dei sottoprodotti; metodi sperimentali in catalisi; chimica e tecnologia dell'adesione; risparmi energetici nei processi chimici.  
-Art. 439. - All'inizio di ciascun anno di corso gli specializzandi dovranno concordare con il consiglio della scuola la scelta dei corsi opzionali che dovranno costituire orientamento all'interno della specializzazione, e l'attivita' sperimentale di laboratorio che sara' svolta sotto la guida di un relatore nominato dal consiglio della scuola.  
-Ai fini della frequenza alle lezioni teoriche e altre attivita' pratiche il consiglio della scuola potra' riconoscere utile, sulla base di idonea documentazione, l'attivita', attinente alla specializzazione, svolta all'estero in laboratori universitari o extrauniversitari.  
-Art. 440. - L'Universita' su proposta del consiglio della scuola stabilisce convenzioni con enti pubblici o privati con finalita' di sovvenzionamento e di utilizzazione di strutture extrauniversitarie per lo svolgimento delle attivita' didattiche degli specializzandi ai sensi del [decreto del Presidente della Repubblica n. 382/80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;382) e del [decreto del Presidente della Repubblica n. 162/82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982;162).  
+1) chimica dei chemioterapici;  
+2) farmacologia dei chemioterapici;  
+3) chemioterapia e sistema immunitario;  
+4) meccanismi di farmaco-resistenza;  
+5) modificatori della risposta biologica;  
+6) epidemiologia e statistica.  
+3° Anno:  
+1) chemioterapia delle infezioni acute in ambiente ospedaliero;  
+2) chemioterapia delle malattie infettive in oncologia;  
+3 - a) chemioterapia delle infezioni in pneumologia e tisiologia;  
+b) chemioterapia delle neoplasie in pneumologia;  
+4 - a) chemioterapia delle infezioni in ostetricia e ginecologia;  
+b) chemioterapia delle neoplasie in ostetricia e ginecologia;  
+5 - a) chemioterapia delle infezioni in pediatria;  
+b) chemioterapia delle neoplasie in pediatria;  
+6) chemioterapia delle malattie tropicali.  
+3° Anno:  
+1) chemioterapia delle infezioni acute in ambiente ospedaliero;  
+2) chemioterapia delle malattie infettive in oncologia;  
+3 - a) chemioterapia delle infezioni in pneumologia e tisiologia;  
+b) chemioterapia delle neoplasie in pneumologia;  
+4 - a) chemioterapia delle infezioni in ostetricia e ginecologia;  
+b) chemioterapia delle neoplasie in ostetricia e ginecologia;  
+5 - a) chemioterapia delle infezioni in pediatria;  
+b) chemioterapia delle neoplasie in pediatria;  
+6) chemioterapia delle malattie tropicali.  
+4° Anno:  
+1 - a) chemioterapia delle setticemie;  
+b) chemioterapia dei tumori sistemici;  
+2 - a) chemioterapia delle infezioni in urologia;  
+b) chemioterapia delle neoplasie in urologia;  
+3 - a) chemioterapia delle infezioni in O.R.L.;  
+b) chemioterapia delle neoplasie in O.R.L.;  
+4 - a) chemioterapia delle infezioni in dermatologia;  
+b) chemioterapia delle neoplasie in dermatologia;  
+5 - a) chemioterapia delle infezioni del S.N.C.;  
+b) chemioterapia delle neoplasie del S.N.C.;  
+6) chemioterapia delle infezioni in odontoiatria;  
+7) chemioterapia dei tumori ormono-dipendenti.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 luglio 1986
+### Dato a Roma, addi' 21 gennaio 1982
 
-COSSIGA
+PERTINI BODRATO
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: DARIDA
 
-Visto, il Guardasigilli: ROGNONI
+Registrato alla Corte dei conti, addi' 16 marzo 1982
 
-Registrato alla Corte dei conti, addi' 18 dicembre 1986
-
-Registro n. 89 Istruzione, foglio n. 380
+Registro n. 42 Istruzione, foglio n. 179

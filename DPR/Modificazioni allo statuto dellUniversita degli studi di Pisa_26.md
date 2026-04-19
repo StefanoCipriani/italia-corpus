@@ -1,108 +1,342 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1951 n. 1801
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1173
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1951 n. 1801
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1173
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla
+-----
+
+proposta del Ministro per la pubblica istruzione; Decreta:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e modificato con i [regi decreti 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-13;2225); [20 settembre 1928, n. 2251](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1928-09-20;2251); [31 ottobre 1929, n. 2473](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1929-10-31;2473); [30 ottobre 1930, n. 1916](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1916); [22 ottobre 1931, n. 1339](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-22;1339); [27 ottobre 1932, n. 2098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2098); [13 dicembre 1934, n. 2408](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-13;2408); [10 ottobre 1936, n. 2462](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-10;2462); [27 ottobre 1937, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1937-10-27;2170); [9 maggio 1939, n. 1314](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-05-09;1314); [5 ottobre 1939, n. 1744](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1744); [26 ottobre 1940, n. 2071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2071); [27 aprile 1942, n. 469](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;469) e [24 ottobre 1942, n. 1652, con il decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1652) [30 dicembre 1947, n. 1689 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-30;1689) [17 febbraio 1949, n. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-17;97); [30 ottobre 1949, n. 1169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1169); [31 ottobre 1950, n. 1309](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1309) e [11 aprile 1951, n. 566](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;566);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni;  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:  
-Attuale art. 52. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:  
-10) Anatomia chirurgica e corso di operazioni;  
-11) Parassitologia;  
-12) Clinica ortopedica.  
-Dopo l'attuale art. 217, sono aggiunti i seguenti nuovi articoli, relativi all'istituzione della Scuola di specializzazione in "medicina generale" e della Scuola di perfezionamento in "malattie nervose e mentali".  
-  
-Scuola di specializzazione in medicina generale  
-  
-Art. 218. - La Scuola di specializzazione in medicina generale ha la durata di quattro anni.  
-Il direttore della clinica medica e il direttore della Scuola.  
-Il Consiglio della scuola si compone dei professori che vi tengano gli insegnamenti prescritti ed e presieduto dal direttore.  
-Art. 219. - Il numero massimo degli allievi che possono essere accolti annualmente dalla Scuola e' fissato anno per anno dal Consiglio della Facolta, su proposta della Direzione della scuola in rapporto alle possibilita' didattiche dei vari Istituti presso i quali gli allievi debbono compiere gli internati.  
-Art. 220. - Le domande di ammissione, dirette al rettore dell'Universita', sono rimesse poi al direttore della Scuola, il quale, dopo avere valutato i titoli degli aspiranti, sottopone ognuno di essi ad un esame per accertare le attitudini e la preparazione a seguire i corsi della Scuola.  
-In base a questi elementi il direttore procede alla graduatoria degli aspiranti, che deve essere approvata e' resa esecutiva dal preside della Facolta'.  
-Art. 221. - Le discipline specifiche di insegnamento e le esercitazioni di laboratorio sono stabilite dalla Direzione della scuola che, anno per anno, stabilisce i turni degli internati prescritti.  
-Per le materie proprie della Scuola debbono essere tenuti corsi appositi; per le discipline che non formano direttamente oggetto della specializzazione i corsi di insegnamento e le esercitazioni possono essere sostituiti da periodi di internato nei rispettivi Istituti.  
-Art. 222. - Gli insegnamenti vengono conferiti per incarico dal Consiglio della Facolta' a professori di molo ed incaricati, a liberi docenti, ad aiuti ed assistenti ed anche a persona di riconosciuta competenza nella specialita'.  
-Art. 223. - Gli allievi sono tenuti ad osservare scrupolosamente l'orario delle lezioni e delle esercitazioni ed a compiere i turni di internato stabiliti dall'ordinamento della Scuola.  
-Il servizio di internato comporta, sotto la vigilanza del direttore, l'adempimento di tutte le funzioni di assistente. A controllo della presenza degli allievi e' prescritto un registro a firma.  
-Art. 224. - Gli allievi possono ottenere un mese all'anno di vacanze preferibilmente nel periodo estivo. Un numero di assenze superiore, nel complesso, a sessanta giorni in un anno, rende non valido l'anno accademico.  
-Art. 225. - Gli allievi, durante gli anni di corso di specializzazione, non possono, sotto pena di esclusione dalla Scuola, tenere altre occupazioni, anche non di carattere professionale, che li distolgano dai loro doveri verso la Scuola stessa.  
-Art. 226. - Per essere ammessi all'esame di diploma gli iscritti devono aver superato tutti gli esami speciali di profitto stabiliti per ciascuna Scuola. I perfezionandi pagheranno le tasse, sopratasse e contributi che verranno determinati dal Consiglio di amministrazione dell'Universita' di anno in anno, oltre alla tassa di diploma di L. 800.  
-Art. 227. - L'esame di diploma consiste in una discussione sopra una dissertazione originale scritta, ed in una prova teorica e pratica stabilita dalla Commissione giudicatrice.  
-A coloro che hanno superato l'esame di diploma viene rilasciato il "diploma di specialista".  
-Art. 228. - Le materie d'insegnamento sono le seguenti:  
-1° anno:  
-Semeiotica medica;  
-Patologia dei singoli apparati e sistemi;  
-Diagnostica radiologica;  
-Anatomia ed istologia patologica.  
-2° anno:  
-Semeiologia medica strumentale e funzionale;  
-Patologia del ricambio; patologia endocrina;  
-Patologia del sistema emopoietico; patologia dei sistema nervoso;  
-Anatomia ed istologia patologica;  
-Metodologia delle indagini di laboratorio a scopi clinici;  
-Batteriologia clinica.  
-3° anno:  
-Malattie infettive, tisiologia; patologia dell'apparato respiratorio;  
-Terapia;  
-Sierologia;  
-Metodologia delle indagini di laboratorio a scopi clinici.  
-4° anno:  
-Patologia renale; patologia esotica; patologia dell'apparato digerente; patologia del cuore e del circolo; patologia delle articolazioni;  
-Terapia;  
-Elettrocardiografia.  
-Ogni mese gli allievi sono tenuti a riferire su un caso clinico o su un argomento prestabilito dal direttore del corso.  
-La Direzione della scuola potra' integrare i corsi con conferenze su argomenti speciali.  
-  
-Scuola di perfezionamento in malattie nervose e mentali  
-  
-Art. 229. - Il corso della Scuola ha la durata di tre anni.  
-Le materie d'insegnamento sono le seguenti:  
-a) Anatomia del sistema nervoso;  
-b) Fisiologia, e fisiopatologia del sistema nervoso;  
-c) Istologia e isto-patologia del sistema nervoso;  
-d) Semeiotica neurologica e psichiatrica;  
-e) Patologia speciale delle malattie nervose e mentali;  
-f) Diagnostica delle malattie nervose e mentali g) Nozioni di psicologia, teorica e sperimentale;  
-h) Terapia delle malattie nervose e mentali;  
-i) Nozioni di tecnica manicomiale.  
-Art. 230. - L'insegnamento pratico e impartito dal direttore della clinica coadiuvato dagli assistenti della clinica e da altri professori, liberi docenti della disciplina, che egli indichera' di volta in volta.  
-Art. 231. - Tutti gli iscritti hanno l'obbligo della frequenza alle lezioni delle singole materie e alle esercitazioni.  
-Art. 232. - E' obbligatoria la frequenza giornaliera della clinica, la partecipazione alla visita mattutina degli ammalati ricoverati, alla collaborazione con gli assistenti effettivi nel disbrigo delle cartelle cliniche, alle visite ambulatorie e a tutte quelle altre mansioni che verranno loro affidate.  
-E' obbligatorio altresi' la frequenza alle lezioni del corso ufficiale di clinica delle malattie nervose e mentali tenuto dal direttore ed alle esercitazioni. Ove il direttore lo richiedera', o obbligatorio il servizio di guardia diurno e notturno della clinica seguendo particolari turni che verranno fissati in precedenza.  
-Art. 233. - Al termine del corso gli iscritti dovranno superare una prova di esame generale sulle materie trattate durante il corso stesso e potranno essere ammessi all'esame di diploma consistente nella discussione di una tesi scritta e nella discussione di un caso clinico.  
-Art. 234. - Il numero annuale degli ammessi alla iscrizione e di quattro.  
-Art. 235. - I perfezionandi pagheranno le tasse, sopratasse e contributi che verranno determinati dal Consiglio di amministrazione dell'Universita' di anno in anno, oltre alla tassa di diploma di L. 800.  
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' modificato come dal testo annesso al presente decreto che e' approvato e' firmato dal Ministro per la pubblica istruzione.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 ottobre 1951
+### Dato a Roma, addi' 31 ottobre 1973
 
-EINAUDI SEGNI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: ZOLI
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 23 aprile 1952
+Registrato alla Corte dei conti, addi' 26 ottobre 1974
 
-Atti del Governo, registro n. 53, foglio n. 8. - FRASCA
+Atti di Governo, registro n. 6, foglio n. 41. - SCIARRETTA
+
+Allegato
+
+ Allegato   
+  
+MODIFICAZIONI ALLO STATUTO DELL'UNIVERSITA' DEGLI STUDI DI PISA   
+  
+L'art. 50 e' modificato nel senso che la facolta' di lettere e filosofia rilascia anche la laurea in storia.   
+Dopo l'art. 54, e con il conseguente spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo, relativo all'ordinamento del corso di laurea in storia.   
+  
+LAUREA IN STORIA   
+  
+Art. 55. - Durata del corso di studio: quattro anni.   
+Il corso di studi si distingue in sei indirizzi: A) antico; B) medioevale; C) moderno; D) contemporaneo; E) orientale; F) storico-religioso.   
+Sono titoli di ammissione: a) il diploma di scuola media superiore di durata quinquennale; b) il diploma rilasciato al termine dell'anno integrativo frequentato dopo il conseguimento del diploma di maturita' e di abilitazione magistrale. Quest'ultimo titolo non e' valido per gli indirizzi paleostorico e antico.   
+  
+A) Indirizzo antico   
+Sono insegnamenti fondamentali:   
+  
+Storia greca;   
+Storia romana;   
+Storia del Mediterraneo antico orientale;   
+Epigrafia e antichita' greche;   
+Epigrafia e antichita' romane;   
+Papirologia;   
+Numismatica antica;   
+Archeologia;   
+Storia della filosofia antica;   
+Paleografia greca e latina;   
+Storia orientale antica.   
+  
+Sono insegnamenti complementari:   
+Topografia antica;   
+Archeologia delle province romane;   
+Climatologia storica;   
+Ebraico;   
+Esegesi delle fonti di storia greca e romana;   
+Esegesi delle fonti di diritto romano;   
+Etruscologia ed archeologia italica;   
+Filologia greca e latina;   
+Geologia e sedimentologia storica;   
+Istituzioni di diritto romano;   
+Paletnologia;   
+Letteratura cristiana antica;   
+Letteratura greca;   
+Letteratura latina;   
+Storia del cristianesimo antico;   
+Storia delle religioni del mondo classico;   
+Storia del diritto romano;   
+Storia dell'economia antica;   
+Storia del diritto greco;   
+Storia sociale del mondo antico;   
+Storia delle costituzioni del mondo antico;   
+Una storia regionale dell'antichita'.   
+  
+B) Indirizzo medioevale   
+  
+Sono insegnamenti fondamentali:   
+Storia medioevale;   
+Paleografia latina e diplomatica;   
+Archivistica;   
+Letteratura latina medioevale;   
+Filologia romanza;   
+Storia bizantina;   
+Storia medioevale dell'oriente europeo, oppure:   
+Storia e antichita' mussulmane;   
+Storia della filosofia medioevale;   
+Lettorato di latino;   
+Istituzioni medioevali;   
+Storia dei paesi islamici.   
+  
+Sono insegnamenti complementari:   
+Archeologia medioevale;   
+Antichita' ed istituzioni medioevali;   
+Bibliografia e biblioteconomia;   
+Cronologia e cronografia;   
+Numismatica, sfragistica ed araldica;   
+Linguistica, onomastica e toponomastica medioevali;   
+Epigrafia medioevale;   
+Filologia italiana;   
+Storia del diritto romano;   
+Storia del diritto italiano;   
+Storia del commercio e della navigazione;   
+Codicologia;   
+Pubblicistica cronachistica medioevali;   
+Paleografia musicale;   
+Storia delle esplorazioni geografiche;   
+Storia e civilta' precolombiane dell'America;   
+Lingua e letteratura catalana;   
+Paleografia greca;   
+Esegesi delle fonti della storia medioevale;   
+Papirologia;   
+Istituzioni di diritto romano;   
+Geografia storica;   
+Storia dell'arte medioevale;   
+Letteratura umanistica;   
+Storia agraria medioevale;   
+Una storia regionale del Medio-evo;   
+Storia degli insediamenti tardo-antichi e medioevali.   
+  
+C) Indirizzo moderno   
+  
+Sono insegnamenti fondamentali:   
+Storia moderna;   
+Storia degli antichi stati italiani;   
+Storia dei Paesi afro-asiatici nell'eta' moderna;   
+Storia dei Paesi slavi;   
+Storia americana;   
+Storia del Rinascimento;   
+Storia della filosofia moderna;   
+Storia del pensiero scientifico nell'eta' moderna;   
+Storia della letteratura italiana moderna;   
+Cinematica dei fatti economici e sociali;   
+Geografia politica ed economica.   
+  
+Sono insegnamenti complementari (quelli indicati in gruppo possono essere scelti separatamente fuorche' sia indicato "oppure"):   
+Storia dell'eta' della riforma e della controriforma;   
+Storia dell'eta' dell'illuminismo;   
+Storia del Risorgimento;   
+Storia delle chiese cristiane, diritto ecclesiastico o diritto canonico;   
+Storia delle istituzioni politiche, istituzioni di diritto pubblico;   
+Storia del diritto italiano;   
+Storia dei trattati e reazioni internazionali, diritto internazionale;   
+Una storia regionale nell'eta' moderna;   
+Filosofia della storia;   
+Storia della lingua italiana;   
+Statistica oppure calcolo delle probabilita', istituzioni di matematiche;   
+Storia delle matematiche, istituzioni di matematiche;   
+Storia della medicina, antropologia oppure genetica, oppure anatomia comparata, oppure istologia ed embriologia, oppure biologia generale;   
+Storia della dottrina chimico-inorganica;   
+Storia dell'urbanistica;   
+Storia della tecnica, elementi di macchine, oppure elettrotecnica, oppure arte mineraria, oppure idraulica, oppure tecnologie generali, oppure tecnica ed economia dei trasporti;   
+Cronologia e tecniche della misura del tempo;   
+Storia della geografia, oppure storia delle esplorazioni, geografia fisica;   
+Storia dell'agricoltura, ecologia;   
+Storia del commercio, oppure storia dell'industria, economia politica, merceologia;   
+Storia della moneta e della borsa, scienza delle finanze;   
+Storia navale, tecnologia della nave, oppure costruzioni navali, oppure architettura navale;   
+Storia dell'arte moderna.   
+  
+D) Indirizzo contemporaneo   
+  
+Sono insegnamenti fondamentali:   
+Storia del Risorgimento;   
+Storia contemporanea;   
+Storia d'Italia nel secolo XX;   
+Metodologie sociologiche;   
+Filosofia della scienza;   
+Geografia politica;   
+Geografia economica;   
+Cinematica dei fatti economici e sociali;   
+Storia della filosofia contemporanea;   
+Storia delle innovazioni tecnologiche;   
+Letteratura italiana contemporanea.   
+  
+Sono insegnamenti complementari (quelli indicati sulla stessa linea da scegliere preferibilmente congiunti fuorche' sia indicato "oppure"):   
+Storia dei paesi africani nel secolo XX;   
+Storia dei paesi dell'estremo oriente nel secolo XX;   
+Storia dei paesi del vicino oriente nel secolo XX;   
+Storia degli Stati Uniti d'America;   
+Storia dell'America centrale;   
+Storia dell'Unione Sovietica;   
+Storia dell'Inghilterra e del Commonwealth nel secolo XX;   
+Storia della Francia;   
+Storia della Spagna;   
+Storia della Germania;   
+Storia dei Paesi scandinavi;   
+Storia delle istituzioni internazionali, diritto internazionale;   
+Storia dell'America meridionale;   
+Storia della fisica contemporanea, fisica;   
+Storia della matematica contemporanea;   
+Storia della medicina contemporanea;   
+Antropologia oppure genetica, oppure anatomia comparata, oppure istologia ed embriologia, oppure biologia generale;   
+Storia della chimica contemporanea, chimica generale;   
+Stora del giornalismo;   
+Storia sociale;   
+Storia della biologia;   
+Storia delle tecniche contemporanee, elementi di macchine oppure elettrotecnica, oppure arte mineraria, oppure idraulica oppure tecnologia generale, oppure tecnica ed economia dei trasporti;   
+Statistica;   
+Storia della moneta, scienza delle finanze, economia politica;   
+Storia delle regioni italiane, istituzioni di diritto pubblico;   
+Storia militare;   
+Storia dell'aviazione;   
+Storia dei trasporti nei secoli XIX e XX;   
+Storia degli sports;   
+Storia della seconda guerra mondiale e dei movimenti partigiani;   
+Teoria dei futuribili;   
+Economia politica;   
+Istituzioni di matematica.   
+  
+E) Indirizzo orientale   
+  
+Sono insegnamenti fondamentali:   
+Storia dei Paesi afro-asiatici;   
+Storia e geografia dell'Asia orientale;   
+Storia religiosa dell'Oriente cristiano;   
+Islamistica;   
+Indologia;   
+Egittologia;   
+Assirologia;   
+Archeologia orientale;   
+Filosofia dell'india e dell'Asia orientale Sanscrito.   
+  
+Sono insegnamenti complementari:   
+Lingua e letteratura araba;   
+Lingua e letteratura persiana;   
+Filologia semitica;   
+Lingua e letteratura armena;   
+Religioni dell'India e dell'estremo oriente;   
+Epigrafia semitica;   
+Lingua e letteratura turca;   
+Lingua e letteratura cinese;   
+Lingua e letteratura giapponese;   
+Ittitologia;   
+Storia dell'arte orientale;   
+Archeologia fenicio-punica;   
+Sinologia;   
+Ebraico;   
+Lingue antiche dell'Asia centrale;   
+Dialettologia araba;   
+Lingue arie moderne dell'india.   
+  
+F) Indirizzo storico-religioso   
+  
+Sono insegnamenti fondamentali:   
+Storia greca;   
+Storia romana con esercitazioni di epigrafia romana;   
+Storia medioevale;   
+Storia moderna;   
+Storia contemporanea:   
+Storia della Chiesa;   
+Storia del Cristianesimo e storia delle origini cristiane;   
+Storia delle religioni;   
+Storia della liturgia;   
+Letteratura cristiana antica;   
+Archeologia cristiana oppure archeologia e storia dell'arte greca e romana, oppure archeologia e topografia medioevale.   
+  
+Sono insegnamenti complementari:   
+Filologia veterotestamentaria;   
+Filologia neotestamentaria;   
+Ebraico e lingue semitiche comparate;   
+Storia della letteratura latina medioevale;   
+Letteratura latina;   
+Letteratura italiana;   
+Paleografia e diplomatica;   
+Archivistica;   
+Papirologia;   
+Storia della teologia;   
+Letteratura greca;   
+Filologia bizantina;   
+Filologia medioevale e umanistica;   
+Storia e sistemi delle relazioni tra Stato e Chiesa nell'eta' moderna;   
+Filosofia della storia;   
+Filosofia della religione;   
+Storia della filosofia;   
+Filosofia morale;   
+Filosofia teoretica;   
+Sanscrito;   
+Etnologia;   
+Sociologia;   
+Storia religiosa dell'Oriente cristiano;   
+Agiografia, Storia dell'arte medioevale e moderna;   
+Storia del diritto romano;   
+Storia della pedagogia;   
+Storia dell'espansione coloniale e della decolonizzazione;   
+Organizzazione internazionale;   
+Storia del movimento sindacale;   
+Metodologia didattica della storia;   
+Islamistica;   
+Religioni dell'india e dell'estremo oriente.   
+  
+Per essere ammesso all'esame di laurea lo studente deve aver superato gli esami in tutti gli insegnamenti fondamentali e almeno in nove insegnamenti scelti tra quelli complementari oltre a due esami superati per gli insegnamenti scelti tra i seguenti:   
+Lingua e letteratura inglese;   
+Lingua e letteratura francese;   
+Lingua e letteratura tedesca;   
+Lingua e letteratura spagnola;   
+Lingua e letteratura russa.   
+  
+E' opportuno che non piu' di tre esami in ciascuno indirizzo siano scelti fra gli insegnamenti di altri indirizzi o corsi di laurea e che le discipline indicate congiuntamente siano scelte assieme.   
+Almeno due esami complementari dovranno preferibilmente essere scelti fra gli insegnamenti seguenti:   
+Storia economica;   
+Storia delle dottrine politiche;   
+Storia delle dottrine economiche;   
+Teoria e storia della storiografia:   
+Storia della scienza e della tecnica.   
+L'esame di laurea in storia consiste nella discussione di una dissertazione scritta svolta dal candidato in uno degli insegnamenti relativi al corso di laurea ed in rapporto al carattere della laurea stessa e dell'indirizzo prescelto.   
+  
+Visto, d'ordine del Presidente della Repubblica   
+Il Ministro per la pubblica istruzione   
+MALFATTI   

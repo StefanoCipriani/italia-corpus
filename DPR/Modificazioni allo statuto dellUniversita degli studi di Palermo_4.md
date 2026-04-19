@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1970 n. 942
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 ottobre 1986 n. 767
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1970 n. 942
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 ottobre 1986 n. 767
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
@@ -10,183 +10,190 @@ Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta, intese ad ottenere l'istituzione del corso di laurea in psicologia presso la facolta' di magistero;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Considerato che e' tuttora in atto la sperimentazione organizzativa e didattica di cui agli [articoli 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art81)-[93 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art93);
+
+Considerato che le tabelle dell'ordinamento didattico universitario relative ai corsi di laurea sono in fase di riordinamento per effetto di apposite commissioni di studio, e che anzi alcune tabelle sono state gia' riordinate;
+
+Rilevata la necessita' di accogliere la richiesta dell'Universita' di Palermo, di istituire il corso di laurea in psicologia presso la facolta' di magistero, allo scopo di riequilibrare le iscrizioni presso gli omonimi corsi di laurea degli Atenei di Padova e di Roma "La Sapienza", al fine di assicurare una migliore formazione degli studenti;
+
+Rilevata, quindi, la necessita' di apportare la modifica proposta in deroga al termine triennale di cui all'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
 Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Dopo l'art. 110 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di perfezionamento in diritto regionale.
+Articolo unico
+--------------
 
-Scuola di perfezionamento in diritto regionale
-
-Art. 111. - E' istituita presso la facolta' di giurisprudenza una scuola di perfezionamento in diritto regionale, che ha per fine di indirizzare allo studio dei problemi specifici che interessano il diritto regionale.
-
-Art. 112. - Alla scuola di perfezionamento sono ammessi i laureati in giurisprudenza, scienze politiche ed economia e commercio.
-
-Art. 113. - Il corso di studio ha la durata di due anni.
-
-Art. 114. - Gli insegnamenti impartiti nella scuola sono:
-
-1° Anno:
-
-Diritto costituzionale;
-
-Storia del diritto pubblico regionale;
-
-Diritto amministrativo I;
-
-Politica economica regionale I;
-
-Diritto tributario.
-
-2° Anno:
-
-Ordinamento e legislazione regionale;
-
-Diritto amministrativo II;
-
-Politica economica regionale II;
-
-Diritto tributario regionale;
-
-Statistica e demografia.
-
-Art. 115. - L'insegnamento delle discipline di cui al piano di studi contemplate nel precedente articolo e' affidato per incarico a professori titolari, a liberi docenti e cultori con deliberazione della facolta' di giurisprudenza.
-
-Art. 116. - Gli insegnamenti e le esercitazioni della scuola di perfezionamento sono tenuti distinti da quelli per gli studenti del corso di giurisprudenza.
-
-Art. 117. - Gli insegnamenti possono avere, oltre che carattere di lezioni cattedratiche, quella forma che e' consentita dalla indole di ciascuna disciplina; sono inoltre tenute conferenze sugli argomenti oggetto del corso.
-
-Art. 118. - Il programma della scuola viene compilato ogni anno dal direttore e deve essere approvato dai docenti della scuola; cosi' pure gli orari settimanali di insegnamento e di esercitazioni. I corsi di insegnamento si uniformano al calendario dell'universita'.
-
-Art. 119. - Gli esami di profitto vengono sostenuti dagli allievi alla fine di ogni anno di corso e si svolgono per singole discipline.
-
-Le commissioni relative vengono nominate dal direttore della scuola.
-
-Gli esami si svolgono secondo le norme vigenti per gli esami di profitto delle facolta' universitarie.
-
-L'iscritto che non abbia superato gli esami prescritti per il primo anno non viene ammesso all'anno successivo.
-
-Art. 120. - Per le materie a corso pluriennale l'esame e' unico e deve essere sostenuto alla fine del corso.
-
-Art. 121. - L'esame di diploma consiste nella discussione di una dissertazione originale scritta.
-
-Art. 122. - La commissione per l'esame di diploma, nominata dal rettore su proposta del direttore e' costituita dal direttore, che la presiede, e da altri quattro docenti della scuola stessa.
-
-Art. 123. - Tutti gli atti e i documenti relativi alla scuola di perfezionamento in diritto regionale sono conservati dalla segreteria dell'universita' che rilascia i certificati richiesti dagli interessati.
-
-Art. 124. - In base al risultato dell'esame di diploma la segreteria dell'universita' rilascera' il relativo diploma di perfezionamento, che dovra' essere munito della firma del rettore, di quella del direttore della scuola e del direttore amministrativo, oltre che del timbro a secco dell'universita'.
-
-Art. 125. - Per la carriera scolastica, gli esami e la disciplina degli allievi valgono, in quanto applicabili, le disposizioni del regolamento approvato con regio decreto 4 giugno 1938, e successive modificazioni.
-
-Art. 126. - Gli iscritti devono pagare per tasse d'immatricolazione L. 10.000 e, annualmente, le somme seguenti:
-
-per tassa di iscrizione L. 20.000; per contributi di esercitazioni e di seminario L. 15.000; per contributo di biblioteca L. 3000; per soprattasse esami di profitto L. 5000.
-
-I diplomati dovranno inoltre pagare L. 3000 per soprattasse di diploma. Coloro i quali conseguono il diploma di perfezionamento sono tenuti al versamento delle tasse di diploma in L. 6000, tasse, soprattasse e contributi sono versati alla cassa dell'universita'. La tassa di diploma va invece versata all'erario.
-
-Art. 127. Il provento delle tasse di immatricolazione e di iscrizione va devoluto per meta' alla scuola e per l'altra meta' va incamerato dall'universita'. Il provento dei contributi per esercitazioni devoluto al "Circolo giuridico Sampolo". Il contributo di biblioteca va devoluto interamente alla biblioteca della facolta' di giurisprudenza. Il provento delle soprattasse per gli esami di profitto e diploma va ripartito ai sensi del [decreto del Presidente della Repubblica 1 dicembre 1952, n. 5512](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-12-01;5512).
-
-Art. 128. - Il direttore della scuola e' il preside della facolta' di giurisprudenza o un professore da lui delegato ed e' investito di tutti i poteri di direzione sia dal punto di vista didattico, che dal punto di vista amministrativo.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 27 settembre 1970
-
-SARAGAT
-
-MISASI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 5 dicembre 1970 Atti del Governo, registro n. 238, foglio n. 210. - CARUSO
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Il primo comma dell'art. 113, relativo alle lauree che rilascia la facolta' di magistero, e' soppresso e cosi' sostituito:  
+"La facolta' di magistero rilascia le lauree in materie letterarie, in pedagogia, in lingue e letterature straniere ed in psicologia".  
+Dopo l'art. 116, con il conseguente scorrimento della numerazione degli articoli successivi, e' inserito il seguente articolo, relativo all'ordinamento degli studi del corso di laurea in psicologia:  
+Art. 117. Corso di laurea in psicologia. - Titolo di ammissione: quello previsto dal [primo comma dell'art. 1 della legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1-com1).  
+La durata del corso degli studi per la laurea in psicologia e' di cinque anni.  
+Il corso degli studi si distingue in un biennio propedeutico, inteso a fornire una preparazione di base comune, e in un successivo triennio articolato in indirizzi destinati a offrire una preparazione professionale in un settore specifico di attivita' e le relative tecniche di ricerca.  
+Gli indirizzi in cui il triennio puo' articolarsi sono i seguenti:  
+1) indirizzo di psicologia generale e sperimentale;  
+2) indirizzo di psicologia dello sviluppo e dell'educazione;  
+3) indirizzo di psicologia clinica e di comunita';  
+4) indirizzo di psicologia del lavoro e delle organizzazioni.  
+L'attivazione e l'eventuale disattivazione degli indirizzi inseriti nello statuto delle singole Universita' sono disposte dal rettore, su proposta del consiglio di corso di laurea.  
   
-Decreta:   
+Biennio propedeutico:  
+Nel corso del biennio propedeutico lo studente deve seguire nove insegnamenti comuni e tre insegnamenti opzionali, scelti tra quelli attivati dal corso di laurea.  
+Gli insegnamenti del biennio vengono impartiti mediante corsi istituzionali.  
+Sono insegnamenti comuni:  
+psicologia generale;  
+psicologia dinamica;  
+psicologia della personalita' e delle differenze individuali;  
+psicologia dell'eta' evolutiva;  
+psicologia fisiologica;  
+psicologia sociale;  
+biologia generale;  
+fondamenti anatomo-fisiologici dell'attivita' psichica;  
+statistica psicometrica.  
+Sono insegnamenti complementari:  
+antropologia culturale;  
+etologia;  
+genetica umana;  
+metodologia delle scienze del comportamento;  
+pedagogia;  
+sociologia;  
+storia della filosofia contemporanea;  
+storia della psicologia.  
+Al termine del biennio lo studente deve inoltre sostenere una prova di lingua inglese consistente nella traduzione scritta in italiano di un brano tratto da una opera psicologica e in un colloquio diretto ad accertare la conoscenza del lessico psicologico.  
+Ai fini della preparazione a questa prova il corso di laurea organizza appositi corsi, tenuti da docenti ufficiali, oppure cicli di esercitazioni affidati a lettori sotto la responsabilita' di un docente di altro corso di laurea o, ove istituito, del centro linguistico interfacolta'.  
   
-Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Triennio di indirizzo:  
+Per iscriversi al triennio lo studente deve aver superato tutti gli esami costitutivi comuni del biennio propedeutico e la prova di lingua inglese; gli esami opzionali devono essere superati entro il terzo anno.  
+La scelta dell'indirizzo da seguire avviene all'atto dell'iscrizione al terzo anno, e puo' essere modificata al momento dell'iscrizione al quarto o al quinto anno.  
+In caso di passaggio ad altro indirizzo lo studente ha l'obbligo di iscriversi a tutti gli insegnamenti costitutivi dell'indirizzo al quale si e' trasferito e di sostenere i relativi esami.  
+Ogni indirizzo comporta la frequenza di otto insegnamenti costitutivi e di cinque insegnamenti opzionali, di cui due possono essere stabiliti dal consiglio di corso di laurea.  
+Sono insegnamenti costitutivi per l'indirizzo di psicologia generale e sperimentale:  
+psicologia fisiologica (corso progredito);  
+neuropsicologia;  
+psicologia animale e comparata;  
+psicologia dell'apprendimento e della memoria;  
+psicologia della percezione;  
+psicologia del pensiero;  
+psicometria;  
+tecniche sperimentali di ricerca.  
+Sono insegnamenti costitutivi per l'indirizzo di psicologia dello sviluppo e dell'educazione:  
+psicologia dell'eta' evolutiva (corso progredito);  
+psicologia dell'educazione;  
+psicodinamica dello sviluppo e delle relazioni familiari;  
+psicopatologia generale e dell'eta' evolutiva;  
+tecniche di osservazione del comportamento infantile;  
+tecniche di ricerca psicologica e di analisi dei dati;  
+teoria e metodi di programmazione e di valutazione scolastica;  
+teoria e tecniche dei tests.  
+Sono insegnamenti costitutivi per l'indirizzo di psicologia clinica e di comunita':  
+psicologia dinamica (corso progredito);  
+psicologia clinica con elementi di psicoterapia individuale;  
+psicologia di comunita';  
+psicofisiologia clinica;  
+tecniche di ricerca psicologica e di analisi dei dati;  
+teorie e tecniche del colloquio psicologico;  
+teorie e tecniche della dinamica di gruppo;  
+teorie e tecniche dei tests di personalita'.  
+Sono insegnamenti costitutivi per l'indirizzo di psicologia del lavoro e delle organizzazioni:  
+psicologia sociale (corso progredito);  
+psicologia degli atteggiamenti e delle opinioni;  
+psicologia del lavoro;  
+psicologia delle organizzazioni;  
+psicologia dell'orientamento e della formazione professionale;  
+sociologia del lavoro;  
+metodologia della ricerca psico-sociale;  
+tecniche dell'intervista e del questionario.  
+Sono insegnamenti opzionali comuni a tutti gli indirizzi:  
+criminologia;  
+economia del lavoro;  
+elementi di programmazione ed elaborazione automatica dei dati;  
+epidemiologia dei disturbi psichici;  
+epistemologia genetica;  
+ergonomia;  
+fisica;  
+igiene mentale;  
+informatica;  
+legislazione del lavoro;  
+legislazione scolastica;  
+legislazione socio-sanitaria;  
+linguistica teorica;  
+logica;  
+medicina del lavoro;  
+metodologia dell'insegnamento;  
+neurofisiologia;  
+neuropsichiatria infantile;  
+neuropsicofarmacologia clinica;  
+pedagogia sperimentale;  
+principi di medicina psicosomatica;  
+psichiatria;  
+psicobiologia dello sviluppo;  
+psicofisiologia del sonno e del sogno;  
+psicolinguistica;  
+psicologia ambientale;  
+psicologia dell'arte e della letteratura;  
+psicologia dell'handicap e della riabilitazione;  
+psicologia delle comunicazioni di massa;  
+psicologia dello sport;  
+psicologia dello sviluppo del linguaggio e della comunicazione;  
+psicologia ed epidemiologia delle tossico-dipendenze;  
+psicologia e psicopatologia del comportamento sessuale;  
+psicologia gerontologica;  
+psicologia giuridica;  
+psicologia industriale;  
+psicopedagogia;  
+psicopedagogia del linguaggio e della comunicazione;  
+psicopedagogia differenziale;  
+psicosociologia delle istituzioni educative;  
+psicosociologia delle istituzioni sanitarie;  
+sociologia dell'educazione;  
+sociologia della comunicazione;  
+sociologia della famiglia;  
+sociologia industriale;  
+tecniche di analisi dei dati;  
+tecniche di indagine della personalita';  
+tecniche psicologiche di ricerca di mercato;  
+teoria e sistemi di intelligenza artificiale.  
+Per gli insegnamenti relativi alle "tecniche" di ricerca e per gli altri eventuali insegnamenti il consiglio di corso di laurea stabilisce le modalita' di svolgimento, la durata e le forme di controllo delle relative esperienze pratiche guidate. La verifica dell'esito positivo di tali esperienze e' condizione preliminare per poter sostenere l'esame.  
+Lo studente puo' sostituire uno o piu' insegnamenti opzionali del triennio con altrettanti insegnamenti costitutivi di indirizzi diversi da quello prescelto, oppure - previa deliberazione del consiglio di corso di laurea - con altrettanti insegnamenti opzionali del biennio propedeutico di cui non abbia prima sostenuto l'esame, o ancora con insegnamenti, fino al massimo di due, di altri corsi di laurea dell'Ateneo.  
   
-Dopo l'art. 110 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di perfezionamento in diritto regionale.   
-  
-Scuola di perfezionamento in diritto regionale   
-  
-Art. 111. - E' istituita presso la facolta' di giurisprudenza una scuola di perfezionamento in diritto regionale, che ha per fine di indirizzare allo studio dei problemi specifici che interessano il diritto regionale.   
-Art. 112. - Alla scuola di perfezionamento sono ammessi i laureati in giurisprudenza, scienze politiche ed economia e commercio.   
-Art. 113. - Il corso di studio ha la durata di due anni.   
-Art. 114. - Gli insegnamenti impartiti nella scuola sono:   
-1° Anno:   
-Diritto costituzionale;   
-Storia del diritto pubblico regionale;   
-Diritto amministrativo I;   
-Politica economica regionale I;   
-Diritto tributario.   
-2° Anno:   
-Ordinamento e legislazione regionale;   
-Diritto amministrativo II;   
-Politica economica regionale II;   
-Diritto tributario regionale;   
-Statistica e demografia.   
-Art. 115. - L'insegnamento delle discipline di cui al piano di studi contemplate nel precedente articolo e' affidato per incarico a professori titolari, a liberi docenti e cultori con deliberazione della facolta' di giurisprudenza.   
-Art. 116. - Gli insegnamenti e le esercitazioni della scuola di perfezionamento sono tenuti distinti da quelli per gli studenti del corso di giurisprudenza.   
-Art. 117. - Gli insegnamenti possono avere, oltre che carattere di lezioni cattedratiche, quella forma che e' consentita dalla indole di ciascuna disciplina; sono inoltre tenute conferenze sugli argomenti oggetto del corso.   
-Art. 118. - Il programma della scuola viene compilato ogni anno dal direttore e deve essere approvato dai docenti della scuola; cosi' pure gli orari settimanali di insegnamento e di esercitazioni. I corsi di insegnamento si uniformano al calendario dell'universita'.   
-Art. 119. - Gli esami di profitto vengono sostenuti dagli allievi alla fine di ogni anno di corso e si svolgono per singole discipline.   
-Le commissioni relative vengono nominate dal direttore della scuola.  
-Gli esami si svolgono secondo le norme vigenti per gli esami di profitto delle facolta' universitarie.   
-L'iscritto che non abbia superato gli esami prescritti per il primo anno non viene ammesso all'anno successivo.   
-Art. 120. - Per le materie a corso pluriennale l'esame e' unico e deve essere sostenuto alla fine del corso.   
-Art. 121. - L'esame di diploma consiste nella discussione di una dissertazione originale scritta.   
-Art. 122. - La commissione per l'esame di diploma, nominata dal rettore su proposta del direttore e' costituita dal direttore, che la presiede, e da altri quattro docenti della scuola stessa.   
-Art. 123. - Tutti gli atti e i documenti relativi alla scuola di perfezionamento in diritto regionale sono conservati dalla segreteria dell'universita' che rilascia i certificati richiesti dagli interessati.   
-Art. 124. - In base al risultato dell'esame di diploma la segreteria dell'universita' rilascera' il relativo diploma di perfezionamento, che dovra' essere munito della firma del rettore, di quella del direttore della scuola e del direttore amministrativo, oltre che del timbro a secco dell'universita'.   
-Art. 125. - Per la carriera scolastica, gli esami e la disciplina degli allievi valgono, in quanto applicabili, le disposizioni del regolamento approvato con regio decreto 4 giugno 1938, e successive modificazioni.   
-Art. 126. - Gli iscritti devono pagare per tasse d'immatricolazione L. 10.000 e, annualmente, le somme seguenti:   
-per tassa di iscrizione L. 20.000; per contributi di esercitazioni e di seminario L. 15.000; per contributo di biblioteca L. 3000; per soprattasse esami di profitto L. 5000.   
-I diplomati dovranno inoltre pagare L. 3000 per soprattasse di diploma. Coloro i quali conseguono il diploma di perfezionamento sono tenuti al versamento delle tasse di diploma in L. 6000, tasse, soprattasse e contributi sono versati alla cassa dell'universita'. La tassa di diploma va invece versata all'erario.   
-Art. 127. Il provento delle tasse di immatricolazione e di iscrizione va devoluto per meta' alla scuola e per l'altra meta' va incamerato dall'universita'. Il provento dei contributi per esercitazioni devoluto al "Circolo giuridico Sampolo". Il contributo di biblioteca va devoluto interamente alla biblioteca della facolta' di giurisprudenza. Il provento delle soprattasse per gli esami di profitto e diploma va ripartito ai sensi del [decreto del Presidente della Repubblica 1 dicembre 1952, n. 5512](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-12-01;5512).   
-Art. 128. - Il direttore della scuola e' il preside della facolta' di giurisprudenza o un professore da lui delegato ed e' investito di tutti i poteri di direzione sia dal punto di vista didattico, che dal punto di vista amministrativo.   
+Norme finali:  
+Lo studente e' tenuto a definire, all'inizio del quarto anno di corso, l'argomento della tesi di laurea in uno degli insegnamenti costitutivi dell'indirizzo o in un insegnamento opzionale coerente con tale indirizzo.  
+Per essere ammesso all'esame di laurea lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti costitutivi comuni e in tre insegnamenti opzionali del biennio propedeutico, negli insegnamenti costitutivi dell'indirizzo seguito e in cinque insegnamenti opzionali del triennio, ed avere inoltre superato la prova di lingua inglese.  
+Il diploma di laurea reca l'indicazione dell'indirizzo seguito nel triennio.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 settembre 1970
+### Dato a Roma, addi' 1 ottobre 1986
 
-SARAGAT MISASI
+COSSIGA
 
-Visto, il Guardasigilli: REALE
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 5 dicembre 1970
+Visto, il Guardasigilli: ROGNONI
 
-Atti del Governo, registro n. 238, foglio n. 210. - CARUSO
+Registrato alla Corte dei conti, addi' 12 novembre 1986
+
+Registro n. 83 Istruzione, foglio n. 39

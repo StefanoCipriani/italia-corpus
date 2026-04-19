@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1977 n. 82
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1975 n. 751
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1977 n. 82
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1975 n. 751
+==============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-82. Decreto del Presidente della Repubblica 21 gennaio 1977, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione a favore dello Stato di un terreno di circa mq 32.767, sito in agro di Fasano (Brindisi), disposta dall'amministrazione provinciale di Brindisi con atto 16 gennaio 1973, n. 193026 di repertorio, a rogito notaio Gaetano Greco, da destinare alla costruzione dell'Antiquarium di Egnathia.  
+751. Decreto del Presidente della Repubblica 30 ottobre 1975, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione di una donazione, consistente in cinque opere dello scultore Ettore Colla, disposta a favore dello Stato dalla sig.ra Maria Carboni vedova Colla con atto in data 12 dicembre 1974, n. 2396/5822 di repertorio, a rogito dott. Franco Maria Gargiullo, notaio in Roma, da destinare alla galleria nazionale d'arte moderna di Roma.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 17 marzo 1977  
-Registro n. 13 Finanze, foglio n. 305
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 18 dicembre 1975  
+Atti di Governo, registro n. 15, foglio n. 51

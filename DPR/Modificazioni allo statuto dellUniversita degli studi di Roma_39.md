@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1971 n. 1325
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1974 n. 674
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1971 n. 1325
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1974 n. 674
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
@@ -13,10 +13,11 @@ Art. 1
  IL PRESIDENTE DELLA REPUBBLICA  
   
 Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -25,43 +26,51 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 81. - All'elenco degli istituti annessi alla facolta' di medicina e chirurgia e' aggiunto il seguente:  
-Istituto di chimica.  
-Dopo l'art. 711, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi all'istituzione della seconda scuola di specializzazione in malattie dell'apparato digerente.  
+Art. 56 - all'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:  
+Storia dell'arte dell'Asia sud-orientale;  
+Storia dell'arte tibetana e mongola;  
+Filologia ibero-romanza;  
+Etnografia dell'Africa del nord e del Sahara;  
+Filologia italiana;  
+Filologia dantesca;  
+Letteratura teatrale italiana;  
+Letteratura giudaico-ellenistica;  
+Sociologia della letteratura.  
+Nello stesso articolo l'insegnamento di "Letteratura ellenistico-giudaica" muta la denominazione in quella di "Letteratura giudaico-ellenistica".  
   
-Scuola di specializzazione in malattie dell'apparato digerente  
+Art. 57 - all'elenco degli insegnamenti complementari del corso di laurea in filosofia e' aggiunto quello di:  
+Sociologia della letteratura.  
   
-Art. 712. - La scuola svolge un corso di specializzazione in malattie dell'apparato digerente.  
-Art. 713. - Alla scuola sono ammessi i laureati in medicina e chirurgia in numero massimo di sei per ogni anno di corso.  
-L'ammissione avviene in base ad un esame preliminare.  
-Art. 714. - Il corso ha la durata di tre anni ed un quarto anno deve essere dedicato al tirocinio pratico gastroenterologico. Il corso ha luogo nell'istituto di clinica medica generale e terapia medica II dell'universita'.  
-Art. 715. - Gli iscritti debbono:  
-a) seguire per i primi tre anni gli insegnamenti della scuola;  
-b) prestare servizio continuativo nelle corsie e nei laboratori della clinica durante questo triennio;  
-c) svolgere l'anno di tirocinio pratico gastroenterologico in una clinica medica o in reparti ospedalieri.  
-Alla fine del corso gli iscritti che abbiano superato tutti gli esami devono sostenere la discussione su una tesi scritta per conseguire il diploma di specializzazione.  
-Art. 716. - Il corso comprende i seguenti insegnamenti, con esami da sostenere alla fine di ciascuno di essi:  
-Anatomia normale e patologica;  
-Fisiologia normale e patologica;  
-Chimica clinica;  
-Semeiotica fisica e strumentale (biennale);  
-Semeiotica radiologica;  
-Malattie del tubo digerente;  
-Malattie del fegato e del pancreas;  
-Clinica medica (triennale).  
-Insegnamenti complementari con corsi semestrali saranno aggiunti, in numero non superiore a sei per la totalita' del corso.  
-Art. 717. - L'ordine degli studi (distribuzione degli insegnamenti negli anni di corso), l'ordine e le modalita' degli esami sono stabiliti nel manifesto annuale.  
+Art. 58 - all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne sono aggiunti i seguenti:  
+Storia dell'arte dell'Asia sud-orientale;  
+Storia dell'arte tibetana e mongola;  
+Etnografia dell'Africa del nord e del Sahara (indirizzo orientale);  
+Filologia italiana;  
+Filologia dantesca;  
+Letteratura teatrale italiana;  
+Sociologia della letteratura.  
+Nello stesso articolo l'insegnamento di lingua e letteratura moderna dell'Asia e dell'Africa muta la denominazione in quella di "Lingua e letteratura georgiana" (indirizzo europeo e orientale).  
+  
+Art. 59 all'elenco degli insegnamenti complementari del corso di laurea in geografia e' aggiunto quello di:  
+Etnografia dell'Africa del nord e del Sahara.  
+  
+Art. 63 - all'elenco degli istituti annessi alla facolta' di lettere e filosofia e' aggiunto il seguente:  
+Istituto di studi francesi.  
+  
+L'art. 316, relativo ai titoli di ammissione alla scuola di filosofia, e' modificato nel senso che e' soppressa la seguente frase: "purche' forniti del diploma di maturita' classica o di maturita' scientifica".  
+L'art. 321, relativo ai titoli di ammissione alla scuola di studi storico-religiosi, e' modificato nel senso che e' soppressa la seguente frase: "purche' forniti di diploma di maturita' classica o di maturita' scientifica".  
+L'art. 350, relativo ai titoli di ammissione alla scuola orientale, e' modificato nel senso che e' soppressa la seguente frase: "purche' gli aspiranti siano forniti del diploma di maturita' classica".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1971
+### Dato a Roma, addi' 29 ottobre 1974
 
-SARAGAT MISASI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 17 febbraio 1972
+Registrato alla Corte dei conti, addi' 7 dicembre 1974
 
-Atti del Governo, registro n. 247, foglio n. 17. - VALENTINI
+Atti di Governo, registro n. 7, foglio n. 79. - SCIARRETTA

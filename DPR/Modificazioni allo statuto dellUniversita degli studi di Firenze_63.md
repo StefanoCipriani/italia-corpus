@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 903
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1981 n. 917
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 903
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1981 n. 917
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
@@ -10,80 +10,119 @@ Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Firenze, approvato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e modificato con [regio decreto 30 ottobre 1930, n. 1826](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1826), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Firenze e convalidati dal Consiglio universitario nazionale nel suo parere;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Firenze e convalidati dal Consiglio universitario nazionale nel suo parere;
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Veduto il [parere della sezione prima del Consiglio di Stato n. 1902/74 del 14 febbraio 1975](https://e-justice.europa.eu/ecli/ECLI::::);
+Sulla proposta del Ministro della pubblica istruzione;
 
-Considerato che non appare opportuno, al momento, procedere ad una generale revisione delle norme statutarie di tutti gli atenei relative alla direzione delle scuole di specializzazione e perfezionamento e degli istituti nonche' delle scuole dirette a fini speciali, attualmente affidata esclusivamente ai professori di ruolo o fuori ruolo, in attesa del provvedimento relativo allo stato giuridico del personale docente;
+Decreta:
+--------
 
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
+Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Lo statuto dell'Universita' di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Il testo dell'art. 64, relativo alla facolta' di medicina e chirurgia, e' modificato nel modo seguente:  
+"La facolta' di medicina e chirurgia conferisce la laurea in medicina e chirurgia e la laurea in odontoiatria e protesi dentaria".  
+Dopo l'art. 71, con il conseguente spostamento degli articoli successivi, sono inseriti i nuovi seguenti articoli relativi al corso di laurea in odontoiatria e protesi dentaria.  
+Art. 72. - La durata del corso degli studi per la laurea in odontoiatria e protesi dentaria e' di cinque anni, divisi in un biennio e in un triennio.  
+I titoli di ammissione sono quelli previsti dalle vigenti disposizioni di legge.  
+L'accesso al corso di laurea in odontoiatria e protesi dentaria verra' regolato da un esame di ammissione e il punteggio da attribuire nell'esame sara' cosi' ripartito: il 30% sara' riservato al voto riportato dal candidato nell'esame di Stato di licenza della scuola secondaria superiore ed il 70% sara' riservato alla prova di esame di ammissione al corso di laurea con dei tests a scelta multipla su argomenti di biologia generale, chimica, fisica e matematica, secondo i programmi della scuola secondaria superiore.  
+Il numero massimo degli allievi iscrivibili e' di cinquanta per anno di corso.  
+Art. 73. - Sono insegnamenti fondamentali per la laurea in odontoiatria e protesi dentaria:  
+Biennio:  
+1) anestesia generale e speciale odontostomatologica (semestrale);  
+\*2) biologia generale applicata agli studi medici;  
+\*3) chimica;  
+\*4) chimica biologica;  
+5) farmacologia (semestrale);  
+\*6) fisica medica;  
+7) fisiologia umana e dell'apparato stomatognatico;  
+8) igiene e odontoiatria preventiva e sociale con epidemiologia (semestrale);  
+9) istituzioni di anatomia umana normale e dell'apparato stomatognatico;  
+10) istituzioni di anatomia ed istologia patologica;  
+\*11) istologia ed embriologia generale (compresa la citologia);  
+12) materiali dentari;  
+13) microbiologia (semestrale);  
+14) odontoiatria conservatrice (triennale I, III e IV anno);  
+15) patologia generale.  
+Triennio:  
+16) chirurgia speciale odontostomatologica (biennale III e IV anno);  
+17) clinica odontostomatologica (biennale IV e V anno);  
+18) medicina legale e delle assicurazioni e deontologia in odontostomatologia (semestrale);  
+19) neuropatologia e psicopatologia (semestrale);  
+20) ortognatodonzia e gnatologia (funzione masticatoria) biennale IV e V anno;  
+21) paradontologia (biennale IV e V anno);  
+22) patologia speciale chirurgica e propedeutica clinica;  
+23) patologia speciale medica e metodologia clinica (compresa la pediatria);  
+24) patologia speciale odontostomatologica;  
+25) pedodonzia (semestrale);  
+26) protesi dentaria (triennale III, IV e V anno);  
+27) radiologia generale e speciale odontostomatologica (semestrale).  
+Insegnamenti complementari:  
+\*1) chirurgia maxillo-facciale;  
+\*2) dermatologia e venerologia (semestrale);  
+\*3) otorinolaringoiatria (semestrale);  
+\*4) statistica sanitaria;  
+\*5) auxologia normale e patologica;  
+\*6) istochimica;  
+\*7) tecnica e diagnostica istopatologica;  
+altri insegnamenti complementari nel piano della facolta' sempre mutuati dal corso di laurea in medicina e chirurgia.  
+Gli insegnamenti segnati con asterisco (\*) sono mutuati dal corso di laurea in medicina e chirurgia.  
+Gli insegnamenti fondamentali sono teorici e pratici e la loro frequenza e' obbligatoria.  
+Gli insegnamenti specificatamente odontostomatologici di ordine clinico comportano anche un tirocinio pratico continuativo da espletare prima di sostenere i relativi esami.  
+Gli allievi, che non conseguono le attestazioni di frequenza, non possono essere ammessi a sostenere le relative prove di esame.  
+Il tirocinio pratico, relativo ad ogni insegnamento clinico, deve prevedere da parte dei componenti dell'organico una assistenza didattica adeguata al numero degli studenti.
+
+|  |  |
+| --- | --- |
+| Non si puo' essere ammessi a sostenere l'esame di: | Se non si e' superato l'esame di: |
+| Fisiologia umana e dell'apparato stomatognatico | Istituzioni di anatomia umana normale e dell'apparato stomatognatico; |
+| Patologia generale | Chimica; |
+|  | Biologia generale applicata agli studi medici; |
+|  | Fisica medica; |
+| Patologia speciale medica e metodologia clinica (compresa la pediatria) | Fisiologia umana e dell'apparato stomatognatico; |
+| Patologia speciale chirurgica e propedeutica clinica | Patologia generale; |
+|  | Patologia speciale medica e metodologia clinica (compresa la pediatria); |
+|  | Patologia speciale chirurgica e propedeutica clinica; |
+| Clinica odontostomatologica | Istituzioni di anatomia ed istologia patologica; |
+|  | Patologia speciale odontostomatologica; |
+
   
-L'art. 298, relativo alla scuola di specializzazione in medicina nucleare, e' soppresso e sostituito dal seguente:  
   
-Scuola di specializzazione in medicina nucleare  
-  
-Art. 298. - La scuola di specializzazione in medicina nucleare ha sede presso l'istituto di fisica e medicina nucleare ed e' diretta dal professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, dal professore di ruolo o fuori ruolo di materia affine.  
-Alla scuola possono essere ammessi solo i laureati in medicina e chirurgia in possesso del diploma di abilitazione professionale e la loro immatricolazione e' subordinata all'esito di un esame di ammissione.  
-Non sono ammesse abbreviazioni di corso.  
-La scuola conferisce il diploma di specialista in medicina nucleare.  
-Gli anni di studio necessari per conseguire questo titolo sono tre.  
-Gli insegnamenti per il conseguimento del diploma di specialista in medicina nucleare sono cosi' distribuiti, nei tre anni di corso:  
-  
-1° Anno:  
-a) fisica: con richiami di matematica, nozioni di statistica, informatica e dosimetria;  
-b) radiobiologia, legislazione e norme generali di radioprotezione;  
-c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;  
-d) nozioni di anatomia e fisiologia generale.  
-  
-2° Anno:  
-a) teoria dei traccianti;  
-b) elementi di radiochimica;  
-c) applicazioni di diagnostica I;  
-d) tecniche di misura e di radioattivita'.  
-  
-3° Anno:  
-a) applicazioni diagnostiche II;  
-b) applicazioni terapeutiche;  
-c) radioprotezione e legislazione applicate.  
-  
-I singoli insegnamenti sono tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento.  
-Il numero massimo degli iscritti in corso alla scuola e' di otto per anno di corso e complessivamente di ventiquattro iscritti per l'intero corso di studi. La frequenza pratica e' obbligatoria (dieci mesi all'anno) e deve avvenire in reparti riconosciuti idonei.  
-L'insegnamento viene svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento aperti anche a specialisti ecc. Gli allievi, per essere ammessi a sostenere gli esami delle singole materie, devono avere la firma di frequenza da parte del direttore della scuola stessa. Gli allievi al termine di ogni anno, devono superare gli esami di profitto delle materie prescritte per poter ottenere l'iscrizione all'anno successivo.  
-Gli allievi per conseguire il diploma di specializzazione oltre ad essere stati approvati in tutti gli esami, devono elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola.  
+Per essere ammesso a sostenere l'esame di laurea in odontoiatria e protesi dentaria, lo studente deve aver seguito i corsi ed aver superato gli esami in tutti gli insegnamenti fondamentali ed almeno in due insegnamenti scelti tra i complementari ed avere, inoltre, seguito le prescritte esercitazioni cliniche, i tirocini pratici ed averne conseguito le relative attestazioni.  
+L'esame di laurea consiste nella discussione di una tesi scritta su argomenti di odontostomatologia da richiedere almeno all'inizio dell'ultimo anno di corso.  
+Per il trasferimento degli studenti iscritti al corso di laurea in medicina e chirurgia le abbreviazioni di corso non possono superare l'ammissione oltre il secondo anno, subordinatamente al numero di posti resisi disponibili all'inizio del secondo anno sempre che gli aspiranti abbiano superato gli esami di biologia generale applicata agli studi medici, chimica, fisica medica, istologia ed embriologia generale (compresa la citologia).  
+Per i laureati in medicina e chirurgia le abbreviazioni di corso potranno essere concesse, sempre con iscrizione al secondo anno, subordinatamente al numero di posti resisi disponibili all'inizio del secondo anno e dopo che sia trascorso un anno accademico dal conseguimento della laurea precedente.  
+Per esercitare la professione i laureati in odontoiatria e protesi dentaria devono superare un apposito esame di Stato.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1979
+### Dato a Roma, addi' 28 ottobre 1981
 
-PERTINI VALITUTTI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 26 aprile 1980
+Registrato alla Corte dei conti, addi' 30 gennaio 1982
 
-Registro n. 38 Istruzione, foglio n. 41
+Registro n. 12 Istruzione, foglio n. 37

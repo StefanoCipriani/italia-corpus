@@ -1,22 +1,121 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 marzo 1952 n. 872
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 aprile 1965 n. 450
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 marzo 1952 n. 872
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 aprile 1965 n. 450
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 23. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di "Teoria generale del processo".
+
+Art. 43, relativo alla propedeuticita' degli esami del corso di laurea in Economia e commercio, e' cosi' modificato:
+
+Sono dichiarati propedeutici ai fini dell'esame e non della frequenza al corso i seguenti insegnamenti:
+
+A) Istituzioni di diritto privato per Diritto commerciale, il Diritto internazionale, il Diritto del lavoro, il Diritto industriale;
+
+B) Istituzioni di diritto pubblico per il Diritto internazionale, il Diritto del lavoro, il Diritto amministrativo;
+
+C) Matematica generale per la Matematica finanziaria, l'Economia politica, la Statistica e l'Econometrica;
+
+D) Economia politica per la Scienza delle finanze e diritto finanziario, la Politica economica e finanziaria, l'Economia politica e politica agraria, la Storia economica, l'Economia dei trasporti, l'Econometrica, l'Economia e finanza delle imprese di assicurazioni;
+
+E) Ragioneria generale ed applicata per la Tecnica industriale e commerciale, la Tecnica bancaria e professionale, la Tecnica del commercio internazionale, la Tecnica amministrativa delle imprese agricole e minerarie, la Tecnica amministrativa delle imprese dei pubblici servizi, l'Organizzazione aziendale, la Statistica aziendale, la Tecnica delle ricerche di mercato e della distribuzione generale;
+
+F) Scienza delle finanze per il Diritto tributario;
+
+G) Statistica metodologica per la Statistica aziendale, l'Econometrica, la Demografia;
+
+H) Tecnica industriale e commerciale per la Tecnica del commercio internazionale, la Tecnica delle ricerche di mercato e della distribuzione generale, la Tecnica amministrativa delle imprese agricole e minerarie.
+
+L'art. 74, relativo agli Istituti del corso di laurea in Scienze matematiche, fisiche e naturali, viene modificato con l'aggiunta di: una biblioteca per i corsi di laurea in Chimica e in "Chimica industriale" che assume la denominazione di biblioteca di chimica.
+
+Art. 103, relativo al corso di laurea in Farmacia, l'insegnamento complementare di "Fisiologia vegetale" viene soppresso e aggiunto quello di "Fitochimica".
+
+Art. 116 (ex 122). - Agli insegnamenti fondamentali del corso di laurea in Ingegneria meccanica (V) viene aggiunto "Complementi di scienze delle costruzioni" (semestrale) all'insegnamento di "Materie giuridiche" viene aggiunta la specificazione "semestrale".
+
+Per il corso di laurea in Ingegneria aeronautica (VIII) agli insegnamenti fondamentali viene aggiunto "Complementi di scienza delle costruzioni" (semestrale); viene soppresso l'insegnamento di "Elettronica applicata".
+
+L'insegnamento di "Radiotecnica" viene soppresso e sostituito con "Elettronica applicata e radiotecnica".
+
+Nelle materie del II gruppo l'insegnamento fondamentale di "Complementi di missilistica" viene soppresso e sostituito con "Teoria e tecnica dei sistemi di guida aeromissilistici".
+
+Agli insegnamenti complementari del corso di laurea in Ingegneria nucleare (X) viene soppresso l'insegnamento di "Sicurezza degli impianti nucleari" e sostituito con "Sicurezza degli impianti nucleari" e "radioprotezione" (semestrale).
+
+Negli insegnamenti fondamentali del I gruppo viene aggiunto "Complementi di scienza delle costruzioni" (semestrale). Gli insegnamenti di "Servomeccanismi" e "Regolazione degli impianti nucleari" vengono soppressi e sostituiti da, un unico insegnamento annuale di "Servomeccanismi e regolazione degli impianti nucleari".
+
+All'art. 122 (ex 128), relativo alla propedeuticita' degli esami:
+
+A) vengono soppressi i seguenti insegnamenti "Complementi di missilistica (missilistica)"; Servomeccanismi (Elettronica applicata) o (Elettronica nucleare)";
+
+B) vengono aggiunti i seguenti insegnamenti "Elettronica applicata e radiotecnica (elettrotecnica)"; "Servomeccanismi e regolazione degli impianti nucleari (Elettronica nucleare)";
+
+C) vengono modificati gli insegnamenti di "Sicurezza degli impianti nucleari (Fisica nucleare)" con "Sicurezza degli impianti nucleari e radioprotezione (Fisica nucleare)";
+
+Misure elettroniche (Elettronica applicata) con "Misure elettroniche (Elettronica applicata, Misure elettriche)";
+
+Prove su macchine e impianti elettrici (Misure elettriche) con "Prove su macchine e impianti elettrici (Macchine elettriche, Misure elettriche)";
+
+Tecnica ed economia dei trasporti (Meccanica applicata alle macchine e macchine) con "Tecnica ed economia dei trasporti (Meccanica applicata alle macchine e Meccanica applicata alle macchine e macchine)".
+
+Art. 125 (ex 131). - La denominazione dell'Istituto di matematica applicata viene modificato in "Istituto di matematiche Ulisse Dini".
+
+L'art. 127, relativo alla Facolta' di agraria, viene modificato con l'aggiunta del seguente comma da inserirsi dopo il sesto comma:
+
+"L'insegnamento biennale di "Agronomia generale e coltivazioni erbacee" comporta due distinti esami annuali, uno di "Agronomia generale" e uno di"Coltivazioni erbacee". L'insegnamento biennale di "Chimica agraria" comporta due distinti esami annuali, uno di "Chimica agraria I" e uno di "Chimica agraria II"".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 1 aprile 1965
+
+SARAGAT
+
+GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 15 maggio 1965 Atti del Governo, registro n. 193, foglio n. 72. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con il [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con i [regi decreti 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-13;2225); [20 settembre 1928, n. 2251](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1928-09-20;2251); [31 ottobre 1929, n. 2473](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1929-10-31;2473); [30 ottobre 1930, n. 1916](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1916); [22 ottobre 1931, n. 1339](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-22;1339); [27 ottobre 1932, n. 2098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2098); [13 dicembre 1934, n. 2408](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-13;2408); [1 ottobre 1936, n. 2462](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2462); [27 ottobre 1937, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1937-10-27;2170); [9 maggio 1939, n. 1314](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-05-09;1314); [5 ottobre 1939, n. 1744](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1744); [26 ottobre 1940, n. 2071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2071); [27 aprile 1942, n. 469](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;469) e [24 ottobre 1942, n. 1652; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1652) [30 dicembre 1947, n. 1689 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-30;1689) [17 febbraio 1949, n. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-17;97); [30 ottobre 1949, n. 1169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1169); [31 ottobre 1950, n. 1309](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1309) e [11 aprile 1951, n. 566](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;566);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -24,88 +123,46 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Attuale art. 112. - Agli insegnamenti complementari del corso di laurea in medicina veterinaria sono aggiunti i seguenti:  
-10) patologia tropicale veterinaria;  
-11) idrobiologia e pescicoltura (semestrale);  
-12) zoocolture (bachi, api, avi, coniglicoltura).  
-Dopo l'attuale art. 217, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione delle scuole di perfezionamento in "odontoiatria e protesi dentaria" ed in "medicina delle assicurazioni".  
-  
-Scuola di perfezionamento in odontoiatria e protesi dentaria  
-  
-Art. 218. - Il corso della scuola di perfezionamento in odontoiatria e protesi dentaria ha la durata di due anni.  
-Art. 219. - La scuola ha sede presso la clinica odontoiatrica. Il professore di ruolo di clinica odontoiatrica e' il direttore della scuola. In sua mancanza viene nominato dal Consiglio di facolta' fra i professori di ruolo della Facolta' stessa.  
-Art. 220. - L'ammissione alla scuola avviene per titoli e per esame, dinanzi ad una Commissione costituita da tre membri e presieduta dal direttore della scuola.  
-Art. 221. - Il numero degli iscritti per ogni anno sara' stabilito dal Consiglio di facolta', su proposta del direttore della scuola.  
-Art. 222. - Le materie d'insegnamento sono le seguenti:  
-1° anno:  
-anatomia, istologia, embriologia dei denti;  
-fisiologia e biochimica dei denti e delle ghiandole salivari;  
-patologia generale;  
-farmacologia ed anestesia odontoiatrica;  
-microbiologia ed igiene;  
-malattie dei denti e della bocca;  
-medicina interna e patologia odontoiatrica;  
-radiologia odontoiatrica;  
-chirurgia dentale;  
-nozioni sui materiali adoperati in odontoiatria, protesi dentale e ortodontoiatria;  
-terapia odontoiatrica.  
-2° anno:  
-protesi dentaria fissa;  
-protesi dentaria;  
-protesi del mascellare;  
-malattie chirurgiche della bocca;  
-medicina legale odontologica;  
-clinica odontoiatrica;  
-ortodonzia.  
-L'insegnamento verra' impartito con corsi speciali e con esercitazioni pratiche di clinica, di costruzione di apparecchi.  
-Alla fine di ogni anno di corso, i candidati debbono presentare alla Commissione esaminatrice i lavori di tecnica eseguiti.  
-Art. 223. - Gli insegnamenti teorici e pratici sono impartiti dal direttore della clinica odontoiatrica, e da altri professori ed assistenti della Facolta' di medicina nonche' da liberi docenti. Le proposte per l'attribuzione degli insegnamenti vengono presentate dal direttore della scuola e approvate dal Consiglio di facolta'.  
-Art. 224. - Gli iscritti hanno l'obbligo di frequentare le lezioni e le esercitazioni tecniche che ne formano il complemento indispensabile.  
-Art. 225. - Alla fine di ogni anno gli iscritti dovranno sostenere un esame di profitto sulle materie di insegnamento divise in due gruppi: uno di materie teoriche ed uno di materie pratiche.  
-Art. 226. - Per conseguire il diploma di specialista in odontoiatria e protesi dentaria, gli iscritti devono sostenere un esame teorico su tutta la materia svolta ed una dissertazione scritta su argomento della specialita'.  
-Art. 227. - La Commissione degli esami di profitto viene nominata dal preside della Facolta' ed e' costituita da tre membri e presieduta dal direttore della scuola.  
-La Commissione per gli esami di diploma e' costituita di sette membri, presieduta dal preside della Facolta' e nominata a norma dell'art. 86 del regolamento generale universitario.  
-  
-Scuola di perfezionamento in medicina delle assicurazioni.  
-  
-Art. 228. - La scuola di perfezionamento in medicina delle assicurazioni, ha sede nell'Istituto di medicina legale di Pisa. Il professore di ruolo di medicina legale e delle assicurazioni e' il direttore della scuola.  
-Art. 229. - La scuola di perfezionamento in medicina delle assicurazioni ha la durata di due anni.  
-Art. 230. - L'ammissione alla scuola avviene per titoli e per esami dinanzi ad una Commissione di tre membri presieduta dal direttore della scuola.  
-Art. 231. - Il numero degli iscritti per ogni anno sara' stabilito dal Consiglio di facolta' udito il direttore della scuola.  
-Art. 232. - Le materie d'insegnamento sono le seguenti:  
-1° anno:  
-medicina delle assicurazioni;  
-medicina mutualistica;  
-diritto assicurativo;  
-storia, della medicina con particolare riguardo alla evoluzione dell'assistenza sociale;  
-semiotica medico-legale;  
-tecnica autopsica.  
-2° anno:  
-medicina delle assicurazioni;  
-medicina mutualistica;  
-diritto assicurativo;  
-medicina del lavoro;  
-igiene del lavoro;  
-tecnologia (concernente tecnopatie assicurate).  
-L'insegnamento sara' impartito con corsi e con esercitazioni pratiche di laboratorio.  
-Art. 233. - Tanto gli insegnamenti teorici che pratici sono impartiti dal direttore dell'Istituto di medicina legale, come da altri professori ed assistenti della Facolta' di medicina, nonche' da liberi docenti.  
-Le proposte per l'attribuzione dei diversi insegnamenti vengono presentate dal direttore della scuola ed approvate dal Consiglio di facolta'.  
-Art. 234. - Gli iscritti hanno l'obbligo di frequentare le lezioni e le esercitazioni di laboratorio che ne formano il complemento indispensabile.  
-Art. 235. - Al termine di ogni anno gli iscritti dovranno sostenere un esame di profitto sulle materie di insegnamento dinanzi ad una Commissione composta di tre membri, presieduta dal direttore della scuola e nominata secondo l'attuale art. 163 dello statuto, relativo alle norme generali sulle scuole di perfezionamento, annesse alla Facolta' di medicina e chirurgia.  
-Art. 236. - Al termine dei due anni per conseguire il diploma di perfezionamento in medicina delle assicurazioni gli iscritti dovranno sostenere un esame con presentazione e discussione di una dissertazione scritta sopra, un argomento attinente alla disciplina.  
-La Commissione e' costituita di sette membri presieduta dal preside della Facolta' e nominata secondo il citato articolo 163 dello statuto.  
-Art. 237. - Gli iscritti sono tenuti al pagamento delle tasse, sopratasse e contributi speciali stabiliti dalle apposite disposizioni.  
+Art. 23. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di "Teoria generale del processo".  
+Art. 43, relativo alla propedeuticita' degli esami del corso di laurea in Economia e commercio, e' cosi' modificato:  
+Sono dichiarati propedeutici ai fini dell'esame e non della frequenza al corso i seguenti insegnamenti:  
+A) Istituzioni di diritto privato per Diritto commerciale, il Diritto internazionale, il Diritto del lavoro, il Diritto industriale;  
+B) Istituzioni di diritto pubblico per il Diritto internazionale, il Diritto del lavoro, il Diritto amministrativo;  
+C) Matematica generale per la Matematica finanziaria, l'Economia politica, la Statistica e l'Econometrica;  
+D) Economia politica per la Scienza delle finanze e diritto finanziario, la Politica economica e finanziaria, l'Economia politica e politica agraria, la Storia economica, l'Economia dei trasporti, l'Econometrica, l'Economia e finanza delle imprese di assicurazioni;  
+E) Ragioneria generale ed applicata per la Tecnica industriale e commerciale, la Tecnica bancaria e professionale, la Tecnica del commercio internazionale, la Tecnica amministrativa delle imprese agricole e minerarie, la Tecnica amministrativa delle imprese dei pubblici servizi, l'Organizzazione aziendale, la Statistica aziendale, la Tecnica delle ricerche di mercato e della distribuzione generale;  
+F) Scienza delle finanze per il Diritto tributario;  
+G) Statistica metodologica per la Statistica aziendale, l'Econometrica, la Demografia;  
+H) Tecnica industriale e commerciale per la Tecnica del commercio internazionale, la Tecnica delle ricerche di mercato e della distribuzione generale, la Tecnica amministrativa delle imprese agricole e minerarie.  
+L'art. 74, relativo agli Istituti del corso di laurea in Scienze matematiche, fisiche e naturali, viene modificato con l'aggiunta di: una biblioteca per i corsi di laurea in Chimica e in "Chimica industriale" che assume la denominazione di biblioteca di chimica.  
+Art. 103, relativo al corso di laurea in Farmacia, l'insegnamento complementare di "Fisiologia vegetale" viene soppresso e aggiunto quello di "Fitochimica".  
+Art. 116 (ex 122). - Agli insegnamenti fondamentali del corso di laurea in Ingegneria meccanica (V) viene aggiunto "Complementi di scienze delle costruzioni" (semestrale) all'insegnamento di "Materie giuridiche" viene aggiunta la specificazione "semestrale".  
+Per il corso di laurea in Ingegneria aeronautica (VIII) agli insegnamenti fondamentali viene aggiunto "Complementi di scienza delle costruzioni" (semestrale); viene soppresso l'insegnamento di "Elettronica applicata".  
+L'insegnamento di "Radiotecnica" viene soppresso e sostituito con "Elettronica applicata e radiotecnica".  
+Nelle materie del II gruppo l'insegnamento fondamentale di "Complementi di missilistica" viene soppresso e sostituito con "Teoria e tecnica dei sistemi di guida aeromissilistici".  
+Agli insegnamenti complementari del corso di laurea in Ingegneria nucleare (X) viene soppresso l'insegnamento di "Sicurezza degli impianti nucleari" e sostituito con "Sicurezza degli impianti nucleari" e "radioprotezione" (semestrale).  
+Negli insegnamenti fondamentali del I gruppo viene aggiunto "Complementi di scienza delle costruzioni" (semestrale). Gli insegnamenti di "Servomeccanismi" e "Regolazione degli impianti nucleari" vengono soppressi e sostituiti da, un unico insegnamento annuale di "Servomeccanismi e regolazione degli impianti nucleari".  
+All'art. 122 (ex 128), relativo alla propedeuticita' degli esami:  
+A) vengono soppressi i seguenti insegnamenti "Complementi di missilistica (missilistica)"; Servomeccanismi (Elettronica applicata) o (Elettronica nucleare)";  
+B) vengono aggiunti i seguenti insegnamenti "Elettronica applicata e radiotecnica (elettrotecnica)"; "Servomeccanismi e regolazione degli impianti nucleari (Elettronica nucleare)";  
+C) vengono modificati gli insegnamenti di "Sicurezza degli impianti nucleari (Fisica nucleare)" con "Sicurezza degli impianti nucleari e radioprotezione (Fisica nucleare)";  
+Misure elettroniche (Elettronica applicata) con "Misure elettroniche (Elettronica applicata, Misure elettriche)";  
+Prove su macchine e impianti elettrici (Misure elettriche) con "Prove su macchine e impianti elettrici (Macchine elettriche, Misure elettriche)";  
+Tecnica ed economia dei trasporti (Meccanica applicata alle macchine e macchine) con "Tecnica ed economia dei trasporti (Meccanica applicata alle macchine e Meccanica applicata alle macchine e macchine)".  
+Art. 125 (ex 131). - La denominazione dell'Istituto di matematica applicata viene modificato in "Istituto di matematiche Ulisse Dini".  
+L'art. 127, relativo alla Facolta' di agraria, viene modificato con l'aggiunta del seguente comma da inserirsi dopo il sesto comma:  
+"L'insegnamento biennale di "Agronomia generale e coltivazioni erbacee" comporta due distinti esami annuali, uno di "Agronomia generale" e uno di"Coltivazioni erbacee". L'insegnamento biennale di "Chimica agraria" comporta due distinti esami annuali, uno di "Chimica agraria I" e uno di "Chimica agraria II"".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 marzo 1952
+### Dato a Roma, addi' 1 aprile 1965
 
-EINAUDI SEGNI
+SARAGAT GUI
 
-Visto, il Guardasigilli: ZOLI
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 12 luglio 1952
+Registrato alla Corte dei conti, addi' 15 maggio 1965
 
-Atti del Governo, registro n. 55, foglio n. 115. - FRASCA
+Atti del Governo, registro n. 193, foglio n. 72. - VILLA

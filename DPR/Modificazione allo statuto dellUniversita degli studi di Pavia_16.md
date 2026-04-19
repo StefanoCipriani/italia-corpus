@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 gennaio 1986 n. 478
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1985 n. 644
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 gennaio 1986 n. 478
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1985 n. 644
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
@@ -41,22 +41,20 @@ Articolo unico
 --------------
 
   
-Art. 23 - il penultimo comma e' soppresso e sostituito come segue:  
-  
-Lo studente per essere ammesso all'esame di laurea deve avere seguito i corsi e superato gli esami relativi ad almeno ventuno insegnamenti annuali e a quelli relativi a due lingue straniere.  
+Art. 59 - nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia l'insegnamento di "puericultura" cambia la denominazione in quella di "pediatria sociale e puericultura".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 gennaio 1986
+### Dato a Roma, addi' 7 giugno 1985
 
-COSSIGA
+PERTINI
 
 FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 25 luglio 1986
+Registrato alla Corte dei conti, addi' 9 novembre 1985
 
-Registro n. 60 Istruzione, foglio n. 343
+Registro n. 74 Istruzione, foglio n. 137

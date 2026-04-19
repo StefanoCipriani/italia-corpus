@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1973 n. 451
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 luglio 1971 n. 1314
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1973 n. 451
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 luglio 1971 n. 1314
+==============================================================
 
 Modificazioni allo statuto dell'Istituto autonomo per le case popolari della provincia di Ancona.
 -------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-451. Decreto del Presidente della Repubblica 2 maggio 1973, col quale, sulla proposta del Ministro per i lavori pubblici, vengono approvate le modifiche apportate agli articoli 4, 6 e 16 dello statuto dell'Istituto autonomo per le case popolari della provincia di Ancona.  
+1314. Decreto del Presidente della Repubblica 8 luglio 1971, col quale, sulla proposta del Ministro per i lavori pubblici, vengono approvate le modifiche agli articoli 9, 18, 19 e 23 dello statuto dell'Istituto autonomo per le case popolari della provincia di Ancona.  
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 23 luglio 1973  
-Atti di Governo, registro n. 259, foglio n. 34. - VALENTINI
+Visto, il Guardasigilli: COLOMBO  
+Registrato alla Corte dei conti, addi' 12 febbraio 1972  
+Atti del Governo, registro n. 247, foglio n. 4. - VALENTINI

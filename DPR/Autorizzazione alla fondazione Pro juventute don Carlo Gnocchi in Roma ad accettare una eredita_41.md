@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1974 n. 408
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1980 n. 715
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1974 n. 408
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1980 n. 715
 =============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-408. Decreto del Presidente della Repubblica 27 giugno 1974, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla sig.ra Bice Astolfi, con testamento olografo del 1 ottobre 1964, pubblicato l'8 aprile 1972 per atto del dott.  
-Virgilio Neri, notaio in Milano, n. 69252 di repertorio e n. 6759 di raccolta, registrato a Milano il 12 aprile 1972 al n. 6729, serie F, consistente in beni immobili siti in Milano, del valore di L. 4.500.000 nonche' in denaro e titoli, il tutto per un complessivo netto di L. 7.235.616.  
+715. Decreto del Presidente della Repubblica 22 luglio 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' consistente nella quota del 15% di un complesso di beni mobili, pari a L. 81.180.634, disposta dal sig. Anselmo Mario con testamento olografo 8 febbraio 1976, pubblicato il 2 febbraio 1978, n. 733 di repertorio e n. 175 di raccolta, a rogito dott. Giorgio Pozzi, notaio in Milano, registrato a Milano il 17 febbraio 1978 al n. 2903-7/ M, serie E.  
   
-Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 22 agosto 1974  
-Atti di Governo, registro n. 5, foglio n. 10. - SCIARRETTA
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti, addi' 27 ottobre 1980  
+Registro n. 8 Presidenza, foglio n. 200

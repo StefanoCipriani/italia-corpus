@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 1198
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1985 n. 918
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 1198
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1985 n. 918
+==============================================================
 
 Modificazione allo statuto del Politecnico di Torino.
 -----------------------------------------------------
@@ -10,7 +10,7 @@ Modificazione allo statuto del Politecnico di Torino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto del Politecnico di Torino, approvato con [regio decreto 1 ottobre 1936, n. 2456](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;2456), e successive modificazioni;
+Veduto lo statuto del Politecnico di Torino, approvato con [decreto del Presidente della Repubblica 31 ottobre 1973, n. 1145](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-10-31;1145), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -33,25 +33,31 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto del Politecnico di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto del Politecnico di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato. come appresso:
 
 Articolo unico
 --------------
 
   
-Nell'art. 21, relativo al corso di laurea in ingegneria, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-applicazioni della matematica all'economia.  
+Nell'art. 21, relativo al corso di laurea in ingegneria, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
+  
+tecnologia della produzione edilizia;  
+macchine e organizzazione dei cantieri;  
+teoria dell'informazione;  
+composizione urbanistica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Selva di Val Gardena, addi' 2 settembre 1983
+### Dato a Roma, addi' 23 ottobre 1985
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 28 aprile 1984
+Registrato alla Corte dei conti, addi' 14 febbraio 1986
 
-Registro n. 25 Istruzione, foglio n. 205
+Registro n. 9 Istruzione, foglio n. 114

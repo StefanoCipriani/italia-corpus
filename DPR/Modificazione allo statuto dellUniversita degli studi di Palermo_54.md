@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1982 n. 237
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1980 n. 351
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1982 n. 237
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1980 n. 351
+============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto dell'Universita' di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,40 +20,39 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Palermo e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Palermo e convalidati dal Consiglio superiore della pubblica istruzione e dal Consiglio universitario nazionale nei loro pareri;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sentiti i pareri del Consiglio superiore della pubblica istruzione e del Consiglio universitario nazionale;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 --------
 
-Lo statuto dell'Universita' di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Nell'art. 31, relativo al corso di laurea in scienze statistiche, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-teoria delle decisioni;  
-statistica matematica;  
-sociologia del lavoro e dell'industria.  
+L'ultimo comma dell'art. 59, relativo al corso di laurea in scienze biologiche, e' sostituito dai seguenti commi:  
+  
+Gli insegnamenti biennali di botanica e zoologia comprendono tanto la parte generale quanto la parte sistematica.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in tre da lui scelti tra i complementari.  
+L'esame di laurea consiste nella discussione di, una dissertazione scritta.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 febbraio 1982
+### Dato a Roma, addi' 11 marzo 1980
 
-PERTINI BODRATO
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 24 aprile 1982
+Registrato alla Corte dei conti, addi' 26 giugno 1980
 
-Registro n. 58 Istruzione, foglio n. 157
+Registro n. 61 Istruzione, foglio n. 320

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1977 n. 518
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1069
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1977 n. 518
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1069
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
@@ -10,17 +10,17 @@ Modificazioni allo statuto dell'Universita' degli studi di Genova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2046](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2046), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -30,148 +30,157 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 155 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in diabetologia e malattie del ricambio.
+Art. 122. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' aggiunta la Scuola in "Nefrologia medica" di nuova istituzione.
 
-L'art. 305, terzo comma, relativo alla scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio, e' modificato nel senso che il numero degli iscritti e' stabilito in sessanta per i tre anni di corso (venti per ogni anno).
+Dopo l'art. 275 con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in nefrologia medica.
 
-L'art. 370, secondo comma, relativo alla scuola di specializzazione in malattie dell'apparato cardiovascolare, e' modificato nel senso che il numero degli iscritti e' fissato in tredici suddivisi nei tre anni di corso.
+Scuola di specializzazione in nefrologia medica
 
-Dopo l'art. 415, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in diabetologia e malattie del ricambio.
+Art. 276. - La scuola di specializzazione in nefrologia medica ha la durata di 3 anni. Essa ha sede presso l'Istituto scientifico di medicina interna.
 
-Scuola di specializzazione in diabetologia e malattie del ricambio Art. 416. - La durata del corso e' stabilita in tre anni. Sono ammessi a detta scuola i laureati in medicina e chirurgia in numero complessivo di ventisei suddivisi nei tre anni di corso.
+Art. 277. - Alla scuola possono essere iscritti solo i laureati in medicina e chirurgia. Il numero degli specializzandi e' fissato in dodici complessivi, suddivisi nei 3 anni di corso.
 
-Le norme generali sono quelle previste per le scuole di specializzazione e di perfezionamento riferite negli articoli da 156 a 170 dello statuto dell'Universita'.
+Art. 278. - Le norme per l'iscrizione sono quelle previste per le scuole di specializzazione e perfezionamento riferite negli articoli da 122 a 137 dello statuto dell'universita'. Sara' comunque fatto un colloquio ai candidati alla iscrizione.
 
-Oltre al colloquio previsto dall'art. 158, i candidati dovranno rispondere alle domande contenute in apposito questionario redatto dal direttore della scuola.
+Qualora le domande siano in soprannumero, la selezione dei candidati sara' fatta mediante concorso per titoli ed esami espletati da una commissione presieduta dal direttore della scuola.
 
-Art. 417. - Materie di insegnamento:
+Art. 279. - Gli iscritti alla scuola hanno l'obbligo di frequentare gli insegnamenti secondo il programma del corso. Coloro che non ottemperano all'obbligo di frequenza ai corsi di insegnamento, al servizio di corsia di dialisi e di laboratorio, non potranno ottenere l'attestazione di frequenza necessaria per l'ammissione agli esami.
+
+Art. 280. - Gli insegnamenti impartiti saranno i seguenti, suddivisi nei tre anni di corso:
 
 1° Anno:
 
-anatomia e citomorfologia funzionali;
+Struttura ed ultrastruttura normale del rene;
 
-elementi di genetica del diabete e delle malattie del ricambio; metodi di analisi chimica e quantitativa;
+Aspetti biochimici della funzione renale;
 
-patologia molecolare;
+Fisiologia renale;
 
-fisiopatologia clinica del diabete e delle malattie del ricambio;
+Semeiologia renale (fisica, radiologica, funzionale);
 
-elementi di biometria e di statistica (complementare);
+Microbiologia ed immunologia applicata alla nefrologia;
 
-auxologia e auxopatie metaboliche (complementare).
+Struttura ed ultrastruttura patologica del rene.
 
 2° Anno:
 
-patologia sperimentale metabolica;
+Patologia del ricambio idro-salino;
 
-semeiotica fisica e funzionale del diabete e delle malattie del ricambio;
+Insufficienza renale acuta e cronica;
 
-clinica del diabete e delle malattie del ricambio (I);
+Nefropatie glomerulari;
 
-medicina sociale e preventiva del diabete e dello malattie del ricambio;
+Nefropatie tubulari;
 
-neuropatologia del diabete e delle malattie del ricambio (complementare);
+Farmacologia di interesse nefrologico;
 
-fisiopatologia e clinica ostetrico-ginecologica del diabete e delle malattie del ricambio (complementare).
+Terapia dietetica e dialitica (1° anno).
 
 3° Anno:
 
-clinica del diabete e delle malattie del ricambio (II);
+Nefropatie interstiziali;
 
-farmacologia e terapia medica del diabete e delle malattie del ricambio;
+Nefropatie vascolari;
 
-dietologia del diabete e delle malattie del ricambio;
+Nefropatie malformative e neoplastiche;
 
-elementi di psicologia nel diabete e nelle malattia del ricambio (complementare);
+Terapia dietetica e dialitica (2° anno);
 
-terapia chirurgica nel diabete e nelle malattie del ricambio (complementare);
+Terapia generale delle nefropatie (antibiotica, antireattiva, sintomatica).
 
-oftalmologia nel diabete e nelle malattie del ricambio (complementare).
+Art. 281. - Alla fine di ciascun anno accademico coloro i quali abbiano ottenuto la prescritta attestazione di frequenza, potranno sostenere gli esami di profitto, il cui superamento e' condizione necessaria per la iscrizione al corso successivo.
 
-I corsi saranno integrati da conferenze su argomenti specialistici e da esercitazioni pratiche cliniche e di laboratorio.
+Gli esami consistono in prove scritte e in prove orali su ciascuna delle materie di insegnamento che sono oggetto di esame in ogni anno di corso.
 
-Alla fine di ogni anno di corso gli specializzandi dovranno sostenere gli esami nelle corrispondenti materie fondamentali od in una almeno materia complementare, per ottenere l'iscrizione all'anno successivo.
+Art. 282. - Al termine del 3 anno, per conseguire il diploma di specializzazione, gli specializzandi, oltre ad aver superato le prove di esame nelle singole materie, dovranno presentare una dissertazione scritta su un argomento di nefrologia che sara' stabilito in base ad accordi con il direttore della scuola. I candidati non riconosciuti idonei agli esami di ciascun corso e all'esame di diploma potranno sostenere le prove dopo un altro anno di frequenza.
 
-Gli iscritti alla scuola sono tenuti a seguire le lezioni teoriche, le esercitazioni e gli internati presso la sede della scuola e presso altre istituzioni che d'accordo col direttore della scuola siano disponibili in tal senso.
+Art. 283. - Le norme per la direzione, per le tasse, ecc., sono quelle generali delle scuole di specializzazione e di perfezionamento riferite negli articoli da 122 a 137 dello statuto dell'universita'.
 
-Art. 418. - Alla fine del triennio gli specializzandi sosterranno la discussione di una dissertazione scritta e gli esami di diploma.
+Art. 284. - Agli iscritti che abbiano ottenuto l'approvazione nell'esame finale viene rilasciato il diploma di specializzazione in nefrologia medica valido a tutti gli effetti legali.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 10 febbraio 1977
+Dato a Roma, addi' 31 ottobre 1972
 
 LEONE
 
-MALFATTI
+SCALFARO
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 30 luglio 1977 Registro n. 92 Istruzione, foglio n. 19
+alla Corte dei conti, addi' 3 marzo 1973 Atti di Governo, registro n. 256, foglio n. 47. - VALENTINI
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2046](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2046), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio superiore della pubblica istruzione;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
 Sulla proposta del Ministro per la pubblica istruzione;   
   
 Decreta:   
   
 Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 155 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in diabetologia e malattie del ricambio.   
-L'art. 305, terzo comma, relativo alla scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio, e' modificato nel senso che il numero degli iscritti e' stabilito in sessanta per i tre anni di corso (venti per ogni anno).   
-L'art. 370, secondo comma, relativo alla scuola di specializzazione in malattie dell'apparato cardiovascolare, e' modificato nel senso che il numero degli iscritti e' fissato in tredici suddivisi nei tre anni di corso.   
-Dopo l'art. 415, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in diabetologia e malattie del ricambio.   
-Scuola di specializzazione in diabetologia e malattie del ricambio Art. 416. - La durata del corso e' stabilita in tre anni. Sono ammessi a detta scuola i laureati in medicina e chirurgia in numero complessivo di ventisei suddivisi nei tre anni di corso.   
-Le norme generali sono quelle previste per le scuole di specializzazione e di perfezionamento riferite negli articoli da 156 a 170 dello statuto dell'Universita'.   
-Oltre al colloquio previsto dall'art. 158, i candidati dovranno rispondere alle domande contenute in apposito questionario redatto dal direttore della scuola.   
-Art. 417. - Materie di insegnamento:   
+Art. 122. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' aggiunta la Scuola in "Nefrologia medica" di nuova istituzione.   
+Dopo l'art. 275 con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in nefrologia medica.   
+  
+Scuola di specializzazione in nefrologia medica   
+  
+Art. 276. - La scuola di specializzazione in nefrologia medica ha la durata di 3 anni. Essa ha sede presso l'Istituto scientifico di medicina interna.   
+Art. 277. - Alla scuola possono essere iscritti solo i laureati in medicina e chirurgia. Il numero degli specializzandi e' fissato in dodici complessivi, suddivisi nei 3 anni di corso.   
+Art. 278. - Le norme per l'iscrizione sono quelle previste per le scuole di specializzazione e perfezionamento riferite negli articoli da 122 a 137 dello statuto dell'universita'. Sara' comunque fatto un colloquio ai candidati alla iscrizione.   
+Qualora le domande siano in soprannumero, la selezione dei candidati sara' fatta mediante concorso per titoli ed esami espletati da una commissione presieduta dal direttore della scuola.   
+Art. 279. - Gli iscritti alla scuola hanno l'obbligo di frequentare gli insegnamenti secondo il programma del corso. Coloro che non ottemperano all'obbligo di frequenza ai corsi di insegnamento, al servizio di corsia di dialisi e di laboratorio, non potranno ottenere l'attestazione di frequenza necessaria per l'ammissione agli esami.   
+Art. 280. - Gli insegnamenti impartiti saranno i seguenti, suddivisi nei tre anni di corso:   
+  
 1° Anno:   
-anatomia e citomorfologia funzionali;   
-elementi di genetica del diabete e delle malattie del ricambio; metodi di analisi chimica e quantitativa;   
-patologia molecolare;   
-fisiopatologia clinica del diabete e delle malattie del ricambio;   
-elementi di biometria e di statistica (complementare);   
-auxologia e auxopatie metaboliche (complementare).   
+Struttura ed ultrastruttura normale del rene;   
+Aspetti biochimici della funzione renale;   
+Fisiologia renale;   
+Semeiologia renale (fisica, radiologica, funzionale);   
+Microbiologia ed immunologia applicata alla nefrologia;   
+Struttura ed ultrastruttura patologica del rene.   
+  
 2° Anno:   
-patologia sperimentale metabolica;   
-semeiotica fisica e funzionale del diabete e delle malattie del ricambio;   
-clinica del diabete e delle malattie del ricambio (I);   
-medicina sociale e preventiva del diabete e dello malattie del ricambio;   
-neuropatologia del diabete e delle malattie del ricambio (complementare);   
-fisiopatologia e clinica ostetrico-ginecologica del diabete e delle malattie del ricambio (complementare).   
+Patologia del ricambio idro-salino;   
+Insufficienza renale acuta e cronica;   
+Nefropatie glomerulari;   
+Nefropatie tubulari;   
+Farmacologia di interesse nefrologico;   
+Terapia dietetica e dialitica (1° anno).   
+  
 3° Anno:   
-clinica del diabete e delle malattie del ricambio (II);   
-farmacologia e terapia medica del diabete e delle malattie del ricambio;   
-dietologia del diabete e delle malattie del ricambio;   
-elementi di psicologia nel diabete e nelle malattia del ricambio (complementare);   
-terapia chirurgica nel diabete e nelle malattie del ricambio (complementare);   
-oftalmologia nel diabete e nelle malattie del ricambio (complementare).   
-I corsi saranno integrati da conferenze su argomenti specialistici e da esercitazioni pratiche cliniche e di laboratorio.   
-Alla fine di ogni anno di corso gli specializzandi dovranno sostenere gli esami nelle corrispondenti materie fondamentali od in una almeno materia complementare, per ottenere l'iscrizione all'anno successivo.   
-Gli iscritti alla scuola sono tenuti a seguire le lezioni teoriche, le esercitazioni e gli internati presso la sede della scuola e presso altre istituzioni che d'accordo col direttore della scuola siano disponibili in tal senso.   
-Art. 418. - Alla fine del triennio gli specializzandi sosterranno la discussione di una dissertazione scritta e gli esami di diploma.   
+Nefropatie interstiziali;   
+Nefropatie vascolari;   
+Nefropatie malformative e neoplastiche;   
+Terapia dietetica e dialitica (2° anno);   
+Terapia generale delle nefropatie (antibiotica, antireattiva, sintomatica).   
+  
+Art. 281. - Alla fine di ciascun anno accademico coloro i quali abbiano ottenuto la prescritta attestazione di frequenza, potranno sostenere gli esami di profitto, il cui superamento e' condizione necessaria per la iscrizione al corso successivo.   
+Gli esami consistono in prove scritte e in prove orali su ciascuna delle materie di insegnamento che sono oggetto di esame in ogni anno di corso.   
+Art. 282. - Al termine del 3 anno, per conseguire il diploma di specializzazione, gli specializzandi, oltre ad aver superato le prove di esame nelle singole materie, dovranno presentare una dissertazione scritta su un argomento di nefrologia che sara' stabilito in base ad accordi con il direttore della scuola. I candidati non riconosciuti idonei agli esami di ciascun corso e all'esame di diploma potranno sostenere le prove dopo un altro anno di frequenza.   
+Art. 283. - Le norme per la direzione, per le tasse, ecc., sono quelle generali delle scuole di specializzazione e di perfezionamento riferite negli articoli da 122 a 137 dello statuto dell'universita'.   
+Art. 284. - Agli iscritti che abbiano ottenuto l'approvazione nell'esame finale viene rilasciato il diploma di specializzazione in nefrologia medica valido a tutti gli effetti legali.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 febbraio 1977
+### Dato a Roma, addi' 31 ottobre 1972
 
-LEONE MALFATTI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 30 luglio 1977
+Registrato alla Corte dei conti, addi' 3 marzo 1973
 
-Registro n. 92 Istruzione, foglio n. 19
+Atti di Governo, registro n. 256, foglio n. 47. - VALENTINI

@@ -1,74 +1,202 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1966 n. 430
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1969 n. 1236
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1966 n. 430
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1969 n. 1236
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592).
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla
+-----
+
+proposta del Ministro per la pubblica istruzione; Decreta:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Genova approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:  
+Presso l'Universita' degli studi di Genova e' istituita la facolta' di scienze politiche.   
+L'attuale corso di laurea in scienze politiche, annesso alla facolta' di giurisprudenza della stessa universita' passa a far parte della nuova facolta' di scienze politiche.   
+
+Art. 2
+------
+
   
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:  
-Art. 55. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche e' aggiunto quello di:  
-23) Bio-polimeri (Biochimica macromolecolare).  
-Dopo l'art. 238, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola per ortottiste (Scuola diretta a fini speciali).  
-Art. 239. - La Scuola per ortottiste ha sede presso la Clinica oculistica dell'Universita' degli studi di Genova. Essa ha lo scopo di dare una preparazione completa teorica e pratica alle allieve, istruendole sui problemi dei difetti di refrazione, disturbi della oculomazione, dell'ambliopia in genere, per avviarle alla professione di ortottiste.  
-Art. 240. - La durata del corso degli studi per il conseguimento del diploma e' di due anni.  
-Possono essere ammesse alla Scuola allieve di eta' non inferiore ai 17 anni, in possesso del titolo di studio prescritto per l'ammissione all'Universita' (preferibilmente del diploma di maturita' classica, del diploma di maturita' scientifica e del diploma di abilitazione magistrale).  
-Art. 241. - Chi aspira ad ottenere l'iscrizione al primo anno della Scuola dovra' sostenere un esame di ammissione. Il numero massimo di posti disponibili annualmente e' stabilito nella misura di quattro.  
-Art. 242. - L'esame di ammissione consiste in una prova orale di cultura generale dinanzi ad una Commissione composta di tre professori ufficiali della Facolta', fra i quali il direttore della Scuola.  
-Art. 243. - L'anno scolastico inizia il 1 novembre e termina il 30 giugno di ogni anno.  
-La domanda di iscrizione alla Scuola e' diretta al rettore dell'Universita' e deve essere corredata del titolo originale di studi medi superiori di cui all'art. 240.  
-Art. 244. - Il direttore della Scuola e' di diritto il titolare della cattedra di Clinica oculistica dell'Universita'. Gli insegnanti della Scuola sono proposti dal Consiglio di facolta' di Medicina e chirurgia, udito il direttore e nominati dal rettore.  
-Art. 245. - Le materie di insegnamento sono le seguenti:  
-1° anno:  
-1) Elementi di anatomia e fisiologia generale;  
-2) Anatomia e fisiologia dell'apparato oculare;  
-3) Ottica fisica e fisiologica;  
-4) Ortottica;  
-5) Pleottica;  
-6) Esercitazioni di ortottica;  
-7) Esercitazioni di pleottica.  
-2° anno:  
-1) Ortottica;  
-2) Pleottica;  
-3) Elementi di patologia oculare;  
-4) Nozioni di infermieristica oculare;  
-5) Esercitazioni di ortottica;  
-6) Esercitazioni di pleottica.  
-L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni nel reparto ortottico della Clinica oculistica.  
-Art. 246. - Per essere ammesse a sostenere l'esame di diploma le allieve dovranno aver seguito i corsi, superando gli esami di tutti gli insegnamenti prescritti ed aver compiuto con esito favorevole tutte le esercitazioni previste.  
-Art. 247. - Le Commissioni per gli esami di profitto sono nominate dal preside della Facolta' di medicina e chirurgia su proposta del direttore della Scuola. Le Commissioni sono composte di tre membri: dal professore ufficiale della materia, presidente, di un professore ufficiale di materia affine e di un libero docente o cultore della materia. Ogni commissario ha a disposizione dieci punti.  
-Art. 248. - L'esame per il conseguimento del "diploma di ortottista" consiste in un colloquio su un tema preventivamente assegnato dal direttore della Scuola di fronte ad una Commissione di cinque membri, composta dal direttore della Scuola e da altri quattro membri designati dal preside della Facolta' di medicina e chirurgia.  
-Ogni commissario ha a sua disposizione dieci punti.  
-Art. 249. - Le tasse e soprattasse per la Scuola sono fissate dal Consiglio di amministrazione, ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).  
+  
+Per tale facolta' sono assegnati i seguenti posti di ruolo:   
+a) cinque posti di professore, mediante trasferimento dell'organico di cui e' dotata la facolta' di giurisprudenza della stessa Universita' di Genova e propriamente i posti assegnati alle cattedre di storia dei trattati e politica internazionale; di dottrina dello Stato; di sociologia; di istituzioni di diritto pubblico e un posto libero gia' attribuito all'insegnamento di diritto tributario. Con i posti sono trasferiti anche i relativi professori;   
+b) sei posti di assistente, mediante trasferimento dell'organico di cui e' dotata la facolta' di giurisprudenza della stessa Universita' di Genova e propriamente i posti assegnati alle cattedre di storia dei trattati e politica internazionale; di storia moderna; di storia delle dottrine politiche; di sociologia; di dottrina dello Stato; di istituzioni di diritto e procedura penale.   
+
+Art. 3
+------
+
+  
+  
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come dal testo annesso al presente decreto, vistato dal Ministro per la pubblica istruzione, contenente le norme relative all'ordinamento del corso di studi per il conseguimento della laurea in scienze politiche.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiali delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 maggio 1966.
+### Dato a Roma, addi' 31 ottobre 1969
 
-SARAGAT GUI
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 18 giugno 1966
+Registrato alla Corte dei conti, addi' 26 marzo 1970
 
-Atti del Governo, registro n. 203, foglio n. 147. - VILLA
+Atti del Governo, registro n. 234, foglio n. 66. - CARUSO
+
+Allegato
+
+Testo delle modifiche di statuto dell'Universita' degli studi di Genova, relativo alla istituzione della facolta' di scienze politiche.   
+Art. 8. - E' abrogato e sostituito dal seguente:   
+"La facolta' di giurisprudenza conferisce la laurea in giurisprudenza".   
+Gli articoli 11, 12, 13, 14 relativi al corso di laurea in scienze politiche sono soppressi con il conseguente spostamento della numerazione degli articoli successivi.   
+Dopo l'art. 19 (ex 21) e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli, relativi all'istituzione della facolta' di scienze politiche.   
+  
+FACOLTA' DI SCIENZE POLITICHE   
+  
+Art. 20. - La facolta' di scienze politiche conferisce la laurea in scienze politiche con l'indicazione dell'indirizzo prescelto.   
+E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.   
+Art. 21. - La durata del corso di studi per la laurea in scienze politiche e' di quattro anni, con un biennio propedeutico comune ed un biennio di specializzazione, corrispondente agli indirizzi previsti nel presente statuto.   
+Superato l'esame di laurea lo studente consegue il titolo di dottore in scienze politiche con l'indicazione dell'indirizzo prescelto.   
+Art. 22. - Il biennio propedeutico comprende nove insegnamenti obbligatori.   
+Art. 23. - Sono obbligatori sul piano nazionale, ai sensi di legge, i seguenti sei insegnamenti:   
+1) Istituzioni di diritto pubblico;   
+2) Diritto costituzionale italiano e comparato;   
+3) Economia politica;   
+4) Statistica;   
+5) Sociologia:   
+6) Storia moderna I.   
+Gli altri tre insegnamenti obbligatori sono scelti, all'inizio di ogni anno accademico, dal consiglio di facolta', in relazione alle esigenze didattiche, tra i seguenti otto insegnamenti:   
+1) Scienza della politica;   
+2) Istituzioni di diritto privato;   
+3) Organizzazione internazionale;   
+4) Storia delle istituzioni politiche;   
+5) Storia contemporanea;   
+6) Storia delle dottrine politiche;   
+7) Politica economica e finanziaria;   
+8) Filosofia della politica.   
+Gli insegnamenti del presente elenco, non scelti come obbligatori per il biennio propedeutico, saranno inseriti tra gli insegnamenti dei bienni di specializzazione.   
+Art. 24. - Lo studente potra' aggiungere ai nove insegnamenti del biennio propedeutico non piu' di tre insegnamenti obbligatori del biennio di specializzazione, indicati nel presente Statuto, a seconda dell'indirizzo prescelto. Tali insegnamenti anticipati al biennio propedeutico vanno in detrazione del numero di insegnamenti del biennio di specializzazione. Non possono essere anticipati gli insegnamenti di scelta dello studente.   
+Art. 25. - Una commissione designata dal consiglio di facolta' e' a disposizione degli studenti del secondo anno propedeutico per assisterli nella scelta dell'indirizzo piu' adatto alla loro preparazione ed ai loro orientamenti.   
+Art. 26. - Il biennio di specializzazione e' organizzato dalla facolta' secondo i seguenti indirizzi: politico-amministrativo, storico-politico, politico-internazionale.   
+Art. 27. - Ciascun biennio di specializzazione comprende undici insegnamenti annuali, dei quali cinque obbligatori per tutti gli studenti dell'indirizzo e sei a scelta dello studente nell'ambito degli insegnamenti opzionali, stabiliti per ciascun anno accademico dal consiglio di facolta' per i rispettivi indirizzi.   
+Negli insegnamenti a scelta dello studente possono essere compresi al massimo due insegnamenti impartiti in altri indirizzi della facolta', oppure in altre facolta' dell'Universita' di Genova, purche' questi ultimi siano congeniali all'indirizzo prescelto, secondo il giudizio espresso dal consiglio di facolta'.   
+Art. 28. - Durante i quattro anni, lo studente deve frequentare e sostenere gli esami in almeno due lingue, che puo' adottare una nel biennio propedeutico e l'altra in quello di specializzazione.   
+Una delle due lingue deve essere il francese o l'inglese o il tedesco.   
+Per la seconda lingua e' consentita la scelta tra quelle effettivamente insegnate nelle altre facolta' dell'ateneo. Tale lingua non verra' computata nei due insegnamenti che, a norma dell'art. 27, comma secondo, del presente statuto, possono essere scelti fra gli insegnamenti di altre facolta' dell'Universita' di Genova.   
+Art. 29. - L'indirizzo politico-amministrativo comprende i seguenti insegnamenti obbligatori:   
+1) Istituzioni di diritto privato;   
+2) Diritto amministrativo (biennale);   
+3) Dottrina dello Stato;   
+4) Politica economica e finanziaria.   
+All'inizio di ogni anno accademico, il consiglio di facolta' rende noti dieci insegnamenti opzionali, tra i quali lo studente sceglie i sei insegnamenti che completano il corso dell'indirizzo, scegliendoli tra i seguenti insegnamenti:   
+1) Scienza dell'amministrazione;   
+2) Diritto del lavoro e legislazione sociale;   
+3) Diritto e procedura penale;   
+4) Diritto delle imprese e delle societa' commerciali;   
+5) Diritto tributario;   
+6) Diritto internazionale pubblico;   
+7) Elementi di diritto ecclesiastico;   
+8) Diritto regionale;   
+9) Diritto pubblico dell'economia;   
+10) Diritto e politica delle comunita' Europee;   
+11) Diritto parlamentare;   
+12) Scienza delle finanze;   
+13) Contabilita' dello Stato e degli Enti pubblici;   
+14) Politica economica e finanziaria;   
+15) Filosofia del diritto;   
+16) Storia dei movimenti e dei partiti politici;   
+17) Sociologia dell'organizzazione;   
+18) Sociologia politica.   
+Art. 30. - L'indirizzo storico-politico comprende i seguenti insegnamenti obbligatori:   
+1) Storia moderna II;   
+2) Storia delle relazioni internazionali;   
+3) Storia economica;   
+4) Storia delle istituzioni politiche;   
+5) Diritto internazionale pubblico.   
+All'inizio di ogni anno accademico, il consiglio di facolta' rende noti dieci insegnamenti che saranno impartiti, tra i quali lo studente puo' scegliere i sei insegnamenti che completano il corso dell'indirizzo, scegliendoli tra i seguenti insegnamenti:   
+1) Storia delle dottrine economiche;   
+2) Storia dei movimenti e dei partiti politici;   
+3) Storia dei movimenti sindacali;   
+4) Storia antica;   
+5) Storia medioevale;   
+6) Storia moderna e contemporanea della Chiesa e delle altre confessioni cristiane;   
+7) Storia dei rapporti fra Stato e Chiesa;   
+8) Storia della pubblica amministrazione;   
+9) Storia dell'Africa;   
+10) Storia del vicino e medio oriente;   
+11) Storia dell'Asia estremo-orientale;   
+12) Storia delle Americhe;   
+13) Storia dell'Europa orientale;   
+14) Storia della filosofia;   
+15) Geografia politica ed economica;   
+16) Diritto pubblico romano;   
+17) Diritto e politica delle Comunita' europee.   
+Art. 31. - L'indirizzo politico-internazionale comprende i seguenti insegnamenti obbligatori:   
+1) Diritto internazionale pubblico;   
+2) Storia delle relazioni internazionali;   
+3) Organizzazione internazionale;   
+4) Politica economica e finanziaria;   
+5) Diritto pubblico comparato.   
+All'inizio di ogni anno accademico, il consiglio di facolta' rende noti dieci insegnamenti, tra i quali lo studente puo' scegliere i sette insegnamenti che completano il corso dell'indirizzo, scegliendoli tra i seguenti insegnamenti:   
+1) Diritto internazionale privato;   
+2) Diritto amministrativo;   
+3) Diritto del lavoro e legislazione sociale;   
+4) Diritto diplomatico e consolare;   
+5) Diritto e politica delle Comunita' europee;   
+6) Diritto pubblico dell'economia;   
+7) Economia internazionale;   
+8) Istituzioni di diritto privato;   
+9) Geografia politica ed economica;   
+10) Storia moderna II;   
+11) Storia dei rapporti tra Stato e Chiesa;   
+12) Storia dell'Africa;   
+13) Storia del vicino e medio oriente;   
+14) Storia delle Americhe;   
+15) Storia dell'Asia estremo-orientale;   
+16) Storia dell'Europa orientale.   
+Art. 32. - Alcuni insegnamenti possono essere mutuati da quelli impartiti in altre facolta' dell'Universita' di Genova.   
+Art. 33. - Per essere ammesso all'esame di laurea, lo studente deve aver seguito i corsi e superato i relativi esami per almeno venti materie oltre alle due lingue straniere.   
+I corsi biennali di una stessa materia equivalgono ai fini del numero dei corsi sopra stabilito a due materie annuali.   
+Qualora il piano di studi istituisca corsi semestrali, due corsi semestrali equivalgono ad uno annuale. Possibilmente i corsi semestrali verranno istituiti a coppie.   
+Art. 34. - La propedeuticita' degli esami di profitto e' stabilita come segue:   
+  
+Istituzioni di diritto pubblico e' propedeutico al diritto amministrativo, al diritto costituzionale italiano e comparato, al diritto internazionale, alla dottrina dello Stato ed alle istituzioni di diritto e procedura penale.   
+Istituzioni di diritto privato e' propedeutico al diritto amministrativo, al diritto internazionale privato, al diritto del lavoro ed alle istituzioni di diritto e procedura penale.   
+Diritto internazionale e' propedeutico all'organizzazione internazionale.   
+Storia moderna e storia contemporanea sono propedeutiche alla storia delle relazioni internazionali e da tutti gli insegnamenti storici specialistici moderni e contemporanei.   
+Gli esami indicati come successivi possono essere sostenuti nella stessa sessione in cui sono superati gli esami propedeutici.   
+Art. 35. - L'esame di laurea consiste nella discussione di una dissertazione scritta, svolta su argomento strettamente attinente alla specializzazione adottata dallo studente, e nell'esposizione orale di due argomenti riferentesi ad insegnamenti del biennio propedeutico.   
+Art. 36. - I laureati di altra facolta' che aspirino al conseguimento della laurea in scienze politiche possono ottenere un'abbreviazione di corso qualora gli insegnamenti precedentemente seguiti e gli esami superati siano valutabili ai fini dell'abbreviazione del corso stesso. La facolta', tenuto conto degli studi compiuti e degli esami superati, determina caso per caso, l'anno di corso al quale possono essere ammessi, il numero minimo degli insegnamenti da seguire e consiglia il piano di studi.   
+E' richiesta in ogni caso la presentazione del prescritto diploma di studi medi, unitamente al certificato dei voti ottenuti in tutti gli esami di profitto superati nel precedente corso di laurea.   
+Per l'iscrizione ad un nuovo corso di laurea dovra' essere ripetuto il pagamento della tassa di immatricolazione.   
+Le stesse norme valgono per coloro che, in seguito a studi compiuti presso istituti superiori esteri, domandino l'iscrizione con abbreviazione di corso.   
+  
+Visto, d'ordine del Presidente della Repubblica   
+Il Ministro per la pubblica istruzione   
+FERRARI AGGRADI   

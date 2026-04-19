@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 490
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1985 n. 913
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 490
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1985 n. 913
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
@@ -22,40 +22,41 @@ Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?u
 
 Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Vedute le proposte di modifica dello statuto, formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio universitario nazionale nel suo parere;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
 
-Sentito il parere del Consiglio universitario nazionale;
+Veduto il parere del Consiglio universitario nazionale;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 --------
 
-Lo statuto dell'Universita' - di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Art. 101 - nell'elenco degli insegnamenti obbligatori sul piano della facolta' per il corso di laurea in ingegneria civile (sezioni edile, idraulica e trasporti) e' depennato l'insegnamento di "geologia e geologia applicata".  
-Art. 104 - nell'elenco degli insegnamenti obbligatori sul piano della facolta' per il corso di laurea in ingegneria chimica e' depennato l'insegnamento di "laboratorio di ingegneria chimica".  
-Art. 107 - nell'elenco degli insegnamenti complementari della facolta' di ingegneria sono inseriti i seguenti insegnamenti:  
-geologia e geologia applicata;  
-laboratorio di ingegneria chimica;  
-ceramurgia.  
+Art. 65 - nell'elenco degli insegnamenti complementari del corso di laurea in materie letterarie e' inserito l'insegnamento di "didattica del latino".  
+Art. 66 - nell'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono inseriti i seguenti insegnamenti:  
+  
+didattica del latino;  
+istituzioni di filosofia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 aprile 1984
+### Dato a Roma, addi' 22 ottobre 1985
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 4 agosto 1984
+Registrato alla Corte dei conti, addi' 14 febbraio 1986
 
-Registro n. 48 Istruzione, foglio n. 238
+Registro n. 9 Istruzione, foglio n. 111

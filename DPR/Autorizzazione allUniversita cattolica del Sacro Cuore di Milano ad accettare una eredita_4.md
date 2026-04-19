@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 gennaio 1982 n. 92
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 luglio 1980 n. 911
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 gennaio 1982 n. 92
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 luglio 1980 n. 911
 =============================================================
 
 Autorizzazione all'Universita' cattolica del Sacro Cuore di Milano ad accettare una eredita'.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-92. Decreto del Presidente della Repubblica 6 gennaio 1982, col quale, sulla proposta del Ministro della pubblica istruzione, l'Universita' cattolica del Sacro Cuore di Milano viene autorizzata ad accettare, con beneficio d'inventario, l'eredita', consistente in terreni e fabbricati siti in Orvieto (Terni), censiti nel nuovo catasto terreni alla partita n. 154, in fabbricati urbani censiti nel catasto edilizio urbano alla partita n. 48, foglio 209, particelle 65/1-84, e in un immobile non censito ma indicato nel nuovo catasto terreni alla partita n. 1, foglio 209, particella 87, il tutto per un valore complessivo di L. 510.000.000, disposta dalla sig.na Anna Astorri con testamento olografo 26 maggio 1976, pubblicato in data 10 luglio 1979, n. 21783 di repertorio, a rogito dott. Cavicchioni Marcello, notaio in Roma, registrato a Roma in data 8 agosto 1979 al n. 10134.  
+911. Decreto del Presidente della Repubblica 23 luglio 1980, col quale, sulla proposta del Ministro della pubblica istruzione, l'Universita' cattolica del Sacro Cuore di Milano viene autorizzata ad accettare, con beneficio d'inventario, l'eredita', consistente in una villetta sita in Milano, via Cufra n. 1, censita al nuovo catasto edilizio urbano alla partita 103796, mappale 2 sub 1-2-3 del foglio n. 190, del valore di L. 53.400.000; una villetta in comune di Bardolino (Verona), non ancora censita al nuovo catasto edilizio urbano, del valore di L. 48.000.000; un appezzamento di terreno in comune di S. Omobono Imagna (Bergamo), distinto al catasto terreni alla partita 451, del valore di L. 1.000.000, nonche' cinquanta titoli azionari del Banco ambrosiano, disposta dal sig. Cesare Armando Tamborini con testamento olografo 13 settembre 1969 e successive integrazioni 13 settembre 1970 e 1 gennaio 1975, pubblicato in data 7 marzo 1975, n. 143735-32470 di repertorio, a rogito dott. Giovanni Olivares, notaio in Milano.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 15 marzo 1982  
-Registro n. 41 Istruzione, foglio n. 291
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti, addi' 19 dicembre 1980  
+Registro n. 120 Istruzione, foglio n. 161

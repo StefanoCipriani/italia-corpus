@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 857
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1977 n. 86
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 857
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1977 n. 86
+=============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-857. Decreto del Presidente della Repubblica 22 settembre 1981, col quale, sulla proposta del Ministro delle finanze, viene autorizzata l'accettazione della donazione a favore dello Stato, consistente in un terreno della superficie di mq 200, sito in comune di Ronago (Como), localita' Valmulini, destinato all'ampliamento della caserma della guardia di finanza, disposta dal dott. Francesco Ambrosoli con atto 22 giugno 1978, n. 45189/16099 di repertorio, a rogito dott. Achille Pedraglio, notaio in Como.  
+86. Decreto del Presidente della Repubblica 21 gennaio 1977, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dal dott. Francesco Ambrosoli, con atto 24 settembre 1974, n. 40712 di repertorio, a rogito notaio Achille Pedraglio, di un appezzamento di terreno di mq 1500, sito in comune di Ronago (Como).  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 12 gennaio 1982  
-Registro n. 2 Finanze, foglio n. 128
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 26 marzo 1977  
+Registro n. 15 Finanze, foglio n. 323

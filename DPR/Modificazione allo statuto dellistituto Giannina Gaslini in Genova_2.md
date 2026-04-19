@@ -1,19 +1,19 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 luglio 1979 n. 562
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 dicembre 1976 n. 1043
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 luglio 1979 n. 562
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 dicembre 1976 n. 1043
+================================================================
 
-Modificazione allo statuto dell'istituto "Giannina Gaslini", in Genova.
------------------------------------------------------------------------
+Modificazione allo statuto dell'istituto Giannina Gaslini, in Genova.
+---------------------------------------------------------------------
 
 Art. 1
 ------
 
 N.
 
-562. Decreto del Presidente della Repubblica 3 luglio 1979, col quale, sulla proposta del Ministro della sanita', viene approvata la modificazione allo statuto dell'istituto "Giannina Gaslini", in Genova, consistente nell'aggiunta dell'art. 11-bis: istituzione del collegio dei revisori.  
+1043. Decreto del Presidente della Repubblica 30 dicembre 1976, col quale, sulla proposta del Ministro per la sanita', viene approvata la modificazione all'art. 6 dello statuto dell'istituto Giannina Gaslini, in Genova, approvato con [regio decreto 5 settembre 1910, n. 1468](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-09-05;1468).  
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 24 ottobre 1979  
-Registro n. 7 Sanita', foglio n. 189
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 18 marzo 1977  
+Registro n. 2 Sanita', foglio n. 259

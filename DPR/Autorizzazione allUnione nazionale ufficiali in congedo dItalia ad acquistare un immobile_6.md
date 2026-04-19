@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 gennaio 1968 n. 138
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 aprile 1960 n. 525
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 gennaio 1968 n. 138
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 aprile 1960 n. 525
+=============================================================
 
 Autorizzazione all'Unione nazionale ufficiali in congedo d'Italia ad acquistare un immobile.
 --------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-138. Decreto del Presidente della Repubblica 8 gennaio 1968, col quale, sulla proposta del Ministro per la difesa, l'Unione nazionale ufficiali in congedo di Italia viene autorizzata ad acquistare, per la sede del dipendente gruppo provinciale di Lucca, dai coniugi Ferdinando e Libia Dugini, al prezzo di L. 10.500.000, l'appartamento di quattro camere ed accessori situato al primo piano del fabbricato che sorge in detta citta', piazza S. Romano n. 14.  
+525. Decreto del Presidente della Repubblica 27 aprile 1960, col quale, sulla proposta del Ministro per la difesa, l'Unione nazionale ufficiali in congedo d'Italia viene autorizzata ad acquistare un immobile, sito in Vicenza, da adibirsi a sede del dipendente Gruppo provinciale di Vicenza.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 7 marzo 1968  
-Atti del Governo, registro n. 217, foglio n. 113. - GRECO
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 3 giugno 1960  
+Atti del Governo, registro n. 127, foglio n. 13. - VILLA

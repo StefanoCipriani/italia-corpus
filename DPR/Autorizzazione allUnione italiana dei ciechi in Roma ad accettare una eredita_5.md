@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 marzo 1984 n. 108
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 146
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 marzo 1984 n. 108
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 146
+===============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare una eredita'.
 ----------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-108. Decreto del Presidente della Repubblica 20 marzo 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare, con beneficio d'inventario, l'eredita', consistente in un appartamento sito in Savona, via Monturbano n. 6/14, del valore di L. 17.000.000, attribuito con perizia di parte e ritenuto congruo dall'ufficio tecnico erariale di Savona, disposta dalla sig.na Maria Pompei con testamento olografo 1 ottobre 1978, pubblicato in data 9 ottobre 1979, n. 62298 di repertorio, a rogito dott. Attilio Bianchi, notaio in Savona, registrato a Savona in data 12 ottobre 1979 al n. 5054.  
+146. Decreto del Presidente della Repubblica 26 febbraio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla sig.na Ballini Lucia con testamento olografo 20 settembre 1969, pubblicato a rogito dott. Mario Faotto, notaio in Udine, in data 3 febbraio 1977, n. 28312 di repertorio e n. 788 di raccolta, registrato ad Udine il 15 febbraio 1977 al n. 1268, consistente in un complesso immobiliare del valore periziato di lire 150 milioni elevato dall'ufficio tecnico erariale di Udine a L. 180.000.000; l'eredita' e' gravata del diritto di abitazione gratuita a favore della sig.na Candotti Gina.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 27 aprile 1984  
-Registro n. 4 Presidenza, foglio n. 70
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 31 marzo 1982  
+Registro n. 3 Presidenza, foglio n. 114

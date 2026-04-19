@@ -1,201 +1,37 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 ottobre 1967 n. 1073
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1956 n. 1209
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 ottobre 1967 n. 1073
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1956 n. 1209
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Cagliari approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' suddetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 53. - L'insegnamento fondamentale di "calcolo delle probabilita'" erroneamente indicato come comune a tutti gli indirizzi del corso di laurea in matematica viene incluso soltanto nell'elenco degli insegnamenti fondamentali del terzo anno dell'indirizzo applicativo.
-
-Art. 60. - Nell'elenco degli insegnamenti complementari del corso di laurea in farmacia sono aggiunti i seguenti:
-
-chimica idrologica;
-
-tecnologie chimico-farmaceutiche;
-
-microchimica;
-
-complementi di chimica tossicologica.
-
-Dopo l'art. 93 e con il conseguente spostamento della numerazione successiva e' istituito il corso di perfezionamento in archeologia e storia dell'arte annesso alla facolta' di lettere e filosofia.
-
-Corso di perfezionamento in archeologia e storia dell'arte
-
-Art. 94. - Presso la facolta' di lettere e filosofia, con sede presso l'istituto di antichita', archeologia ed arte, sono istituiti corsi annuali di perfezionamento in archeologia e in storia dell'arte.
-
-Scopo dei corsi e' di permettere l'approfondimento dello studio dell'archeologia e della storia dell'arte e, in particolare, del patrimonio archeologico e artistico della Sardegna.
-
-Art. 95. - Ai corsi possono iscriversi i laureati nelle facolta' di lettere, filosofia, magistero ed architettura.
-
-Sono insegnamenti fondamentali:
-
-a) per il corso di archeologia:
-
-1) archeologia e storia dell'arte greca e romana;
-
-2) antichita' sarde;
-
-b) per il corso in storia dell'arte:
-
-1) storia dell'arte medioevale e moderna;
-
-2) archeologia e storia dell'arte greca e romana oppure antichita' sarde.
-
-Sono materie complementari per entrambi i corsi:
-
-1) storia dell'arte in Sardegna;
-
-2) storia antica;
-
-3) storia medioevale;
-
-4) storia moderna;
-
-5) paleografia;
-
-6) paletnologia;
-
-7) archeologia fenicio-punica;
-
-8) storia della Sardegna;
-
-9) epigrafie latine;
-
-10) storia del cinema;
-
-11) storia delle religioni;
-
-12) storia delle tradizioni popolari;
-
-13) archeologia cristiana;
-
-14) storia del restauro;
-
-15) museografia e museologia.
-
-Art. 96. - Sono obbligatori l'iscrizione, la frequenza e il superamento dell'esame delle materie fondamentali e di almeno tre complementari scelte dal candidato d'accordo con il direttore del proprio corso e con i docenti delle materie fondamentali.
-
-I corsi possono essere seguiti nelle materie insegnate dai docenti ufficiali della facolta' oppure da docenti o cultori nominati dalla facolta' stessa su proposta del direttore dell'istituto di antichita', archeologia e arte, formulata d'intesa con i direttori dei due corsi.
-
-Art. 97. - I direttori dei due corsi sono nominati dalla facolta' su proposta del direttore dell'istituto di antichita', archeologia ed arte.
-
-Art. 98. - Per l'iscrizione ai corsi e' necessario il pagamento di tasse e soprattasse uguali a quelle richieste per l'iscrizione al primo anno del corso di laurea in lettere e filosofia. La ripartizione delle tasse e soprattasse pagate dagli allievi dei corsi sara' disposta dal consiglio di amministrazione su proposta del direttore dell'istituto di antichita', archeologia e arte.
-
-Art. 99. - Il direttore dell'istituto di antichita', archeologia ed arte, sentiti i direttori dei due corsi, ha facolta' di non dar luogo agli insegnamenti complementari eccedenti gli insegnamenti normalmente impartiti nei corsi di laurea della facolta' qualora il numero degli iscritti ai corsi di specializzazione sia ritenuto insufficiente a giustificare incarichi specifici. Al pagamento degli incarichi di insegnamento diversi da quelli normalmente impartiti nella facolta' si provvedera' mediante gli introiti derivanti dalle iscrizioni ai corsi.
-
-Art. 100. - Dopo il superamento dell'ultimo esame, e a seguito di un colloquio sostenuto davanti a una commissione composta da almeno tre dei cinque docenti ufficiali delle materie prescelte dal candidato, verra' rilasciato un certificato di frequenza e profitto.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 17 ottobre 1967
-
-SARAGAT
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 18 novembre 1967 Atti del Governo, registro n. 215, foglio n. 9. - GRECO
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE BELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Cagliari approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098); modificato con i [regi decreti 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1743); [26 marzo 1942, n. 328, e con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-03-26;328) [22 ottobre 1946, n. 398 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1946-10-22;398) [30 ottobre 1949, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1027); [11 aprile 1951, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;565); [23 gennaio 1952, n. 365](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-01-23;365); [26 ottobre 1952, n. 4542](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4542); [10 febbraio 1953, n. 550](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;550); [30 luglio 1953, n. 716](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-07-30;716); [6 ottobre 1953, n. 1097](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-10-06;1097); [29 maggio 1954, n. 752](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-05-29;752); [24 settembre 1954, n. 1206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-24;1206); [16 febbraio 1955, n. 137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-16;137); [15 luglio 1955, n. 759](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-15;759); [8 agosto 1955, numero 911](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-08-08;911); [21 settembre 1955, n. 955](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-21;955) e [20 giugno 1956, n. 728](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-06-20;728);  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' suddetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 53. - L'insegnamento fondamentale di "calcolo delle probabilita'" erroneamente indicato come comune a tutti gli indirizzi del corso di laurea in matematica viene incluso soltanto nell'elenco degli insegnamenti fondamentali del terzo anno dell'indirizzo applicativo.  
-Art. 60. - Nell'elenco degli insegnamenti complementari del corso di laurea in farmacia sono aggiunti i seguenti:  
-chimica idrologica;  
-tecnologie chimico-farmaceutiche;  
-microchimica;  
-complementi di chimica tossicologica.  
-Dopo l'art. 93 e con il conseguente spostamento della numerazione successiva e' istituito il corso di perfezionamento in archeologia e storia dell'arte annesso alla facolta' di lettere e filosofia.  
-Corso di perfezionamento in archeologia e storia dell'arte  
-Art. 94. - Presso la facolta' di lettere e filosofia, con sede presso l'istituto di antichita', archeologia ed arte, sono istituiti corsi annuali di perfezionamento in archeologia e in storia dell'arte.  
-Scopo dei corsi e' di permettere l'approfondimento dello studio dell'archeologia e della storia dell'arte e, in particolare, del patrimonio archeologico e artistico della Sardegna.  
-Art. 95. - Ai corsi possono iscriversi i laureati nelle facolta' di lettere, filosofia, magistero ed architettura.  
-Sono insegnamenti fondamentali:  
-a) per il corso di archeologia:  
-1) archeologia e storia dell'arte greca e romana;  
-2) antichita' sarde;  
-b) per il corso in storia dell'arte:  
-1) storia dell'arte medioevale e moderna;  
-2) archeologia e storia dell'arte greca e romana oppure antichita' sarde.  
-Sono materie complementari per entrambi i corsi:  
-1) storia dell'arte in Sardegna;  
-2) storia antica;  
-3) storia medioevale;  
-4) storia moderna;  
-5) paleografia;  
-6) paletnologia;  
-7) archeologia fenicio-punica;  
-8) storia della Sardegna;  
-9) epigrafie latine;  
-10) storia del cinema;  
-11) storia delle religioni;  
-12) storia delle tradizioni popolari;  
-13) archeologia cristiana;  
-14) storia del restauro;  
-15) museografia e museologia.  
-Art. 96. - Sono obbligatori l'iscrizione, la frequenza e il superamento dell'esame delle materie fondamentali e di almeno tre complementari scelte dal candidato d'accordo con il direttore del proprio corso e con i docenti delle materie fondamentali.  
-I corsi possono essere seguiti nelle materie insegnate dai docenti ufficiali della facolta' oppure da docenti o cultori nominati dalla facolta' stessa su proposta del direttore dell'istituto di antichita', archeologia e arte, formulata d'intesa con i direttori dei due corsi.  
-Art. 97. - I direttori dei due corsi sono nominati dalla facolta' su proposta del direttore dell'istituto di antichita', archeologia ed arte.  
-Art. 98. - Per l'iscrizione ai corsi e' necessario il pagamento di tasse e soprattasse uguali a quelle richieste per l'iscrizione al primo anno del corso di laurea in lettere e filosofia. La ripartizione delle tasse e soprattasse pagate dagli allievi dei corsi sara' disposta dal consiglio di amministrazione su proposta del direttore dell'istituto di antichita', archeologia e arte.  
-Art. 99. - Il direttore dell'istituto di antichita', archeologia ed arte, sentiti i direttori dei due corsi, ha facolta' di non dar luogo agli insegnamenti complementari eccedenti gli insegnamenti normalmente impartiti nei corsi di laurea della facolta' qualora il numero degli iscritti ai corsi di specializzazione sia ritenuto insufficiente a giustificare incarichi specifici. Al pagamento degli incarichi di insegnamento diversi da quelli normalmente impartiti nella facolta' si provvedera' mediante gli introiti derivanti dalle iscrizioni ai corsi.  
-Art. 100. - Dopo il superamento dell'ultimo esame, e a seguito di un colloquio sostenuto davanti a una commissione composta da almeno tre dei cinque docenti ufficiali delle materie prescelte dal candidato, verra' rilasciato un certificato di frequenza e profitto.  
+Art. 49. - Agli insegnamenti del biennio propedeutico di studi per la laurea in ingegneria e' aggiunto quello complementare di "elementi di architettura e rilievo di monumenti (biennale)".  
   
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### Dato a Roma, addi' 17 ottobre 1967
-
-SARAGAT GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato alla Corte dei conti, addi' 18 novembre 1967
-
-Atti del Governo, registro n. 215, foglio n. 9. - GRECO
+Il presente decreto, munito delle sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.  
+  
+Dato a Roma, addi' 5 settembre 1956  
+  
+GRONCHI  
+  
+ROSSI   
+Visto, il Guardasigilli: MORO  
+Registrato alla Corte del conti, addi' 31 ottobre 1956  
+Atti del Governo, registro n. 101, foglio n. 109. - CARLOMAGNO  

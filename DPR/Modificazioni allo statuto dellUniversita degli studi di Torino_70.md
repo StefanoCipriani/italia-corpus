@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1984 n. 992
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1984 n. 375
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1984 n. 992
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1984 n. 375
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
@@ -35,32 +35,30 @@ Decreta:
 
 Lo statuto dell'Universita' di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Art. 1
+------
 
   
-Nell'art. 76, relativo al corso di laurea in chimica industriale, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
-chemiometria.  
-Nell'art. 91, relativo al corso di laurea in scienze biologiche, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-genetica di popolazioni;  
-conservazione della natura e delle sue risorse.  
-Nell'art. 79, relativo al corso di laurea in fisica, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
-laboratorio di fisica nucleare;  
-fisica sanitaria;  
-fisica dello spazio.  
+Nell'art. 97, relativo al corso di laurea in farmacia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento "chimica dei prodotti fitoiatrici".  
+
+Art. 2
+------
+
+  
+Nell'art. 103, relativo al corso di laurea in chimica e tecnologia farmaceutiche, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+chimica dei prodotti fitoiatrici;  
+tecnologie chimico-farmaceutiche.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e del decreto della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1984
+### Dato a Roma, addi' 13 marzo 1984
 
-PERTINI
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 18 gennaio 1985
+Registrato alla Corte dei conti, addi' 9 luglio 1984
 
-Registro n. 2 Istruzione, foglio n. 361
+Registro n. 44 Istruzione, foglio n. 46

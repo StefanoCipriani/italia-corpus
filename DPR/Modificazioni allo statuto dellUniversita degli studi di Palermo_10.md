@@ -1,121 +1,196 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1957 n. 965
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1235
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1957 n. 965
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1235
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministero per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 122. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' aggiunta la scuola di specializzazione in "Neurologia".
+
+Dopo l'art. 156 e con il conseguente spostamento della successiva numerazione, e' aggiunto il seguente articolo relativo alla istituzione della scuola di specializzazione in "Neurologia".
+
+Scuola di specializzazione in neurologia
+
+Art. 157. - Durata del corso: 4 anni.
+
+Programma delle materie di insegnamento.
+
+1° Anno (internato in psichiatria):
+
+Anatomia e istologia del sistema nervoso;
+
+Fisiologia del sistema nervoso;
+
+Biochimica del sistema nervoso;
+
+Genetica (elementi);
+
+Psicologia generale;
+
+Psicopatologia (1°);
+
+Semeiotica psichiatrica.
+
+2° Anno:
+
+Semeiotica neurologica;
+
+Patologia speciale e diagnostica neurologica (1°);
+
+Neuro-radiologia;
+
+Endocrinologia e neurologia vegetativa.
+
+3° Anno:
+
+Patologia speciale e diagnostica neurologica (2°);
+
+Clinica neurologica e terapia (1°);
+
+Elettroencefalografia;
+
+Elettromiografia, elettrodiagnostica ed elettroterapia;
+
+Neuro-otologia;
+
+Esami di laboratorio.
+
+4° Anno:
+
+Clinica neurologica e terapia (2°);
+
+Neurochirurgia;
+
+Teoria e clinica della riabilitazione;
+
+Neurotraumatologia anche sotto l'aspetto della medicina legale;
+
+Neurologia in rapporto alla patologia internista.
+
+NORME
+
+Internato obbligatorio per l'intero anno scolastico del 2°, 3° e 4° anno in clinica neurologica sede della scuola. Tale internato potra' essere ridotto a non meno di mesi 4 per anno per i medici che prestino regolare servizio in reparto neurologico.
+
+Internato obbligatorio per l'intero anno scolastico in psichiatria nel 1° anno. Tale internato potra' essere ridotto a non meno di mesi 5 per i medici che prestino servizio in reparto neurologico e a non meno di mesi 4 per coloro che prestino servizio in ospedale psichiatrico.
+
+Esami obbligatori per il passaggio all'anno successivo.
+
+Numero massimo di iscritti: sei per ogni anno di corso (totale n. ventiquattro iscritti).
+
+Ammissione per titoli ed esami. Un abbuono di anni 3 puo' essere concesso agli specialisti in psichiatria, neuropsichiatria, neuropsichiatria infantile e neurochirurgia; un anno di abbuono per gli specialisti in altre materie affini (medicina interna, otorinolaringoiatria, oculistica, radiologia). Gli abbuoni possono essere concessi solo superando un esame di ammissione.
+
+Tutti gli abbuoni di cui sopra sono concessi a giudizio del direttore della scuola.
+
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 30 ottobre 1970
+
+SARAGAT
+
+MISASI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 23 gennaio 1971 Atti del Governo, registro n. 240, foglio n. 119. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240) e successivi;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Sulla proposta del Ministero per la pubblica istruzione;   
   
 Decreta:   
   
 Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-L'art. 37 e' sostituito dal seguente:   
-"La Facolta' di scienze matematiche, fisiche e naturali conferisce le seguenti lauree:   
-1) Laurea in chimica;   
-2) Laurea in fisica;   
-3) Laurea in scienze matematiche;   
-4) Laurea in matematica e fisica;   
-5) Laurea in scienze naturali;   
-6) Laurea in scienze biologiche;   
-7) Laurea in scienze geologiche.   
-E' ammesso alla Facolta' di scienze matematiche, fisiche e naturali il biennio propedeutico agli studi per la laurea in ingegneria.   
-Il professore titolare di chimica farmaceutica e' aggregato alla Facolta' di scienze matematiche, fisiche e naturali".   
-Dopo l'art. 42 vengono aggiunti i seguenti nuovi articoli relativi alla istituzione del corso di laurea in scienze biologiche e del corso di laurea in scienze geologiche, con il conseguente spostamento della numerazione degli articoli successivi.   
-Art. 43. - La durata del corso degli studi per la laurea in scienze biologiche e' di quattro anni.   
-E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.   
-Sono insegnamenti fondamentali:   
-1) Istituzioni di matematiche;   
-2) Fisica;   
-3) Chimica generale ed inorganica;   
-4) Chimica organica;   
-5) Botanica (biennale);   
-6) Zoologia (biennale);   
-7) Anatomia comparata;   
-8) Anatomia umana;   
-9) Istologia ed embriologia;   
-10) Fisiologia generale (biennale);   
-11) Chimica biologica;   
-12) Igiene.   
-Sono insegnamenti complementari:   
-1) Chimica fisica;   
-2) Biologia generale;   
-3) Antropologia;   
-4) Biologia delle razze umane;   
-5) Etnologia;   
-6) Genetica;   
-7) Zoocultura (bachi, api, avicultura);   
-8) Idrobiologia e piscicoltura;   
-9) Patologia generale;   
-10) Microbiologia;   
-11) Parassitologia;   
-12) Entomologia agraria;   
-13) Fisiologia vegetale;   
-14) Patologia vegetale;   
-15) Geologia;   
-16) Paleontologia;   
-17) Statistica;   
-18) Scienza dell'alimentazione;   
-19) Cristallo-chimica;   
-20) Embriologia e morfologia sperimentale.   
-Gli insegnamenti biennali di botanica e di zoologia comprendono tanto la parte generale quanto la parte sistematica. Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed in quattro almeno da lui scelti fra i complementari.   
-Art. 44. - La durata del corso degli studi per la laurea in scienze geologiche e' di quattro anni.   
-E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.   
-Sono insegnamenti fondamentali:   
-1) Istituzioni di matematiche;   
-2) Fisica sperimentale (biennale);   
-3) Chimica generale ed inorganica con elementi di organica;   
-4) Mineralogia;   
-5) Geologia;   
-6) Geologia applicata;   
-7) Paleontologia;   
-8) Geografia;   
-9) Geografia fisica;   
-10) Topografia e cartografia;   
-11) Fisica terrestre;   
-12) Petrografia.   
-Sono insegnamenti complementari:   
-1) Chimica organica;   
-2) Chimica fisica;   
-3) Geochimica;   
-4) Astronomia;   
-5) Geodesia;   
-6) Zoologia;   
-7) Botanica;   
-8) Antropologia;   
-9) Giacimenti minerari;   
-10) Vulcanologia;   
-11) Analisi matematica (algebrica ed infinitesimale) biennale;   
-12) Meccanica razionale con elementi di statica grafica e disegno;   
-13) Geofisica mineraria;   
-14) Mineralogia applicata.   
-Gli insegnamenti di botanica e di zoologia debbono avere indirizzo biografico. Per l'insegnamento di analisi matematica vale la norma stabilita per la laurea in scienze matematiche. Per essere ammesso all'esame di laurea lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti fra gli insegnamenti complementari.   
+Art. 122. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' aggiunta la scuola di specializzazione in "Neurologia".   
+Dopo l'art. 156 e con il conseguente spostamento della successiva numerazione, e' aggiunto il seguente articolo relativo alla istituzione della scuola di specializzazione in "Neurologia".   
+  
+Scuola di specializzazione in neurologia   
+  
+Art. 157. - Durata del corso: 4 anni.   
+Programma delle materie di insegnamento.   
+1° Anno (internato in psichiatria):   
+Anatomia e istologia del sistema nervoso;   
+Fisiologia del sistema nervoso;   
+Biochimica del sistema nervoso;   
+Genetica (elementi);   
+Psicologia generale;   
+Psicopatologia (1°);   
+Semeiotica psichiatrica.   
+2° Anno:   
+Semeiotica neurologica;   
+Patologia speciale e diagnostica neurologica (1°);   
+Neuro-radiologia;   
+Endocrinologia e neurologia vegetativa.   
+3° Anno:   
+Patologia speciale e diagnostica neurologica (2°);   
+Clinica neurologica e terapia (1°);   
+Elettroencefalografia;   
+Elettromiografia, elettrodiagnostica ed elettroterapia;   
+Neuro-otologia;   
+Esami di laboratorio.   
+4° Anno:   
+Clinica neurologica e terapia (2°);   
+Neurochirurgia;   
+Teoria e clinica della riabilitazione;   
+Neurotraumatologia anche sotto l'aspetto della medicina legale;   
+Neurologia in rapporto alla patologia internista.   
+  
+NORME   
+  
+Internato obbligatorio per l'intero anno scolastico del 2°, 3° e 4° anno in clinica neurologica sede della scuola. Tale internato potra' essere ridotto a non meno di mesi 4 per anno per i medici che prestino regolare servizio in reparto neurologico.   
+Internato obbligatorio per l'intero anno scolastico in psichiatria nel 1° anno. Tale internato potra' essere ridotto a non meno di mesi 5 per i medici che prestino servizio in reparto neurologico e a non meno di mesi 4 per coloro che prestino servizio in ospedale psichiatrico.   
+Esami obbligatori per il passaggio all'anno successivo.   
+Numero massimo di iscritti: sei per ogni anno di corso (totale n. ventiquattro iscritti).   
+Ammissione per titoli ed esami. Un abbuono di anni 3 puo' essere concesso agli specialisti in psichiatria, neuropsichiatria, neuropsichiatria infantile e neurochirurgia; un anno di abbuono per gli specialisti in altre materie affini (medicina interna, otorinolaringoiatria, oculistica, radiologia). Gli abbuoni possono essere concessi solo superando un esame di ammissione.   
+Tutti gli abbuoni di cui sopra sono concessi a giudizio del direttore della scuola.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 settembre 1957
+### Dato a Roma, addi' 30 ottobre 1970
 
-GRONCHI MORO
+SARAGAT MISASI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 24 ottobre 1957
+Registrato alla Corte dei conti, addi' 23 gennaio 1971
 
-Atti del Governo, registro n. 108, foglio n. 99. - RELLEVA
+Atti del Governo, registro n. 240, foglio n. 119. - CARUSO

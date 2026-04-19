@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1969 n. 351
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1196
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1969 n. 351
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1196
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
@@ -25,75 +25,98 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Dopo l'art. 298 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola speciale di servizio sociale annessa alla facolta' di giurisprudenza.   
+Dopo l'art. 32, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di notariato e della scuola di specializzazione nelle discipline del lavoro, annesse alla facolta' di giurisprudenza.   
   
-Scuola speciale di servizio sociale   
+Scuola di notariato   
   
-Art. 299. - Nella facolta' di giurisprudenza dell'Universita' degli studi di Parma e' istituita una scuola speciale di servizio sociale ai sensi e per gli effetti dello [art. 20, terzo comma, lettera a) del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20-com3-leta).   
-La scuola si propone di preparare all'esercizio della professione di assistente sociale mediante l'insegnamento teorico delle discipline necessarie e la sua integrazione con le opportune esercitazioni pratiche.   
-La scuola conferisce il diploma di assistente sociale.   
-Art. 300. - Per l'ammissione alla scuola e' richiesto il diploma di maturita' classica o scientifica o di abilitazione degli istituti tecnici e commerciali e degli istituti magistrali.   
-Art. 301. - I proventi della scuola, costituiti dalle tasse scolastiche, dagli eventuali contributi dello Stato, dell'universita', di enti pubblici e privati, sono amministrati separatamente dalle entrate universitarie. La scuola ha un proprio bilancio che viene approvato dal consiglio di amministrazione dell'universita', quale allegato del bilancio universitario.   
-Art. 302. - Il consiglio della scuola e' composto da un professore di ruolo della facolta' di giurisprudenza, nominato dal rettore su proposta della facolta', dai docenti della scuola, che siano professori di ruolo o incaricati nell'ateneo; da un rappresentante di ciascuno degli enti o privati finanziatori della scuola da questi designati, dal direttore delle esercitazioni e dei tirocini professionali, che funge anche da segretario.   
-Il consiglio delibera su tutte le proposte di natura didattica e disciplinare relative alla scuola.   
-Art. 303. - Il direttore della scuola e' il professore di ruolo della facolta' di giurisprudenza designato presidente del consiglio della scuola.   
-Il direttore ha la rappresentanza e la direzione della scuola e ne assicura la disciplina.   
-Art. 304. - I docenti, il direttore delle esercitazioni e dei tirocini professionali e il personale della scuola, sono nominati dal rettore sentito il direttore della scuola.   
-I docenti della scuola sono scelti tra i professori di ruolo, incaricati, liberi docenti e assistenti delle facolta' di giurisprudenza, economia e commercio, magistero e medicina e chirurgia dell'Universita' di Parma e fra coloro che, per opere, uffici o insegnamenti tenuti, siano di riconosciuta competenza ed esperienza nelle materie che formano oggetto dell'insegnamento.   
-L'assistenza alle esercitazioni e ai tirocini professionali e' affidata ad esperti di servizio sociale - I monitori - la cui attivita' e' coordinata dal direttore delle esercitazioni e dei tirocini professionali.   
-I docenti degli insegnamenti professionali, il direttore delle esercitazioni e dei tirocini professionali ed i monitori, debbono, di norma, possedere il diploma di "assistente sociale".   
-Art. 305. - Il corso degli studi per il conseguimento del diploma di assistente sociale ha la durata di tre anni.   
-Art. 306. - Ogni anno puo' essere stabilito un numero minimo di iscrizioni; qualora tale numero non sia raggiunto, il direttore della scuola ha la facolta' di non iniziare i corsi.   
-L'ammissione alla scuola ha luogo in seguito a concorso per soli esami.   
-Art. 307. - Le materie di insegnamento e i corsi della scuola sono i seguenti:   
-Gruppo A: insegnamenti culturali di base:   
+Art. 33. - E' istituita presso la facolta' di giurisprudenza la "Scuola di notariato" annessa alla medesima facolta'.   
+La scuola ha lo scopo di integrare la preparazione scientifica dei laureati e di approfondire, nella ricerca, la conoscenza dei problemi del notariato a fini di specializzazione professionale.   
+Art. 34. - La scuola e' retta dal direttore.   
+Il direttore e' nominato dal rettore dell'Universita' di Parma su designazione della facolta' di giurisprudenza.   
+Il direttore puo' designare un vice-direttore che lo coadiuva e lo sostituisce in caso d'impedimento.   
+Art. 35. - Il consiglio della scuola e' composto dai professori docenti. Fanno anche parte del consiglio, quali membri di diritto, il presidente dell'ordine dei notai di Parma e il preside della facolta' di giurisprudenza dell'Universita' di Parma.   
+I docenti sono scelti fra i professori di ruolo, incaricati, liberi docenti, assistenti della facolta' di giurisprudenza dell'Universita' di Parma e fra notai iscritti all'ordine dei notai di Parma.   
+Gli incarichi d'insegnamento sono conferiti dal rettore dell'universita' su proposta del direttore della scuola, sentito il preside della facolta' di giurisprudenza per quanto concerne le nomine di professori di ruolo, incaricati, liberi docenti, assistenti dell'ateneo; sentito il presidente dell'ordine dei notai di Parma, per quanto concerne le nomine dei notai.   
+Art. 36. - Alla scuola possono iscriversi soltanto laureati in giurisprudenza.   
+Art. 37. - La scuola si distingue in due corsi della durata di un anno per ciascun corso.   
+Al termine di essi la scuola rilascia, dopo che i candidati abbiano superato le prove delle materie fondamentali di cui all'art. 40 e l'esame di diploma, un diploma di perfezionamento in "Discipline del notariato".   
+Art. 38. - Il consiglio puo' determinare, anno per anno, il numero massimo degli iscritti.   
+Il consiglio puo' anche deliberare che uno o entrambi i corsi non siano accesi nel caso di mancato raggiungimento di un numero minimo di iscritti.   
+Art. 39. - Gli insegnamenti fondamentali della scuola sono:   
   
-Elementi di diritto pubblico;   
-Elementi di diritto privato;   
-Elementi di diritto del lavoro e legislazione sociale;   
-Diritto penale e legislazione minorile (sem.);   
-Legislazione assistenziale (sem.);   
-Elementi di economia politica e di storia sociale (bienn.);   
-Sociologia e antropologia culturale (bienn.);   
-Psicologia generale, differenziale, clinica;   
-Corso interdisciplinare sullo sviluppo psicofisico dell'individuo (bienn.);   
-Biologia e fisiologia umana;   
-Igiene e medicina sociale (sem.).   
+1° Corso:   
+Ordinamento del notariato;   
+Diritto delle persone e diritto di famiglia;   
+Diritto successorio;   
+Diritti reali;   
+Obbligazioni e contratti;   
+Diritto tributario (1° anno).   
   
-Gruppo B: insegnamenti professionali:   
+2° Corso:   
+Diritto delle societa';   
+Tutela dei diritti e legislazione sulla pubblicita';   
+Fallimento;   
+Titoli di credito;   
+Volontaria giurisdizione;   
+Diritto tributario (2° anno).   
   
-Corso introduttivo di servizio sociale;   
-Servizio sociale individuale (trienn.);   
-Servizio sociale di gruppo (bienn.);   
-Servizio sociale di comunita' (bienn.);   
-Amministrazione dei servizi sociali;   
-Metodologia della ricerca applicata al servizio sociale (trienn.);   
-Etica professionale.   
+Art. 40. - Con deliberazione del consiglio della scuola possono essere fissati altri insegnamenti integrativi a carattere monografico. Il consiglio determina anche se, per tali insegnamenti, debba sostenersi una prova d'esame.   
+Tutte le deliberazioni di cui al presente articolo debbono essere prese prima dell'inizio dei corsi.   
+Art. 41. - L'esame di diploma consiste nella discussione di una memoria originale su argomento preventivamente approvato dal direttore della scuola.   
+Art. 42. - Gli iscritti alla scuola sono tenuti a pagare le tasse, soprattasse e contributi, secondo quanto stabilito per gli studenti della facolta' di giurisprudenza, nonche' la tassa di diploma nella misura di L. 6.000 nei sensi dell'[art. 7 della legge 19 dicembre 1951, n. 1951](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-19;1951~art7).   
+Sono tenuti, altresi', a pagare un contributo speciale nella misura che sara' determinata dal consiglio di amministrazione, previo parere della facolta', su proposta del direttore della scuola.   
+Art. 43. - Le commissioni giudicatrici per gli esami sono composte di tre membri; quelle di diploma sono composte di cinque membri.   
+I membri sono nominati dal direttore fra i docenti della scuola.   
   
-Le esercitazioni pratiche si svolgono nell'ambito dei singoli insegnamenti a scopo di illustrazione, applicazione ed integrazione della parte teorica.   
-I tirocini professionali, consistenti in esperienze concrete di servizio sociale, vengono effettuati, nei singoli anni di corso, presso enti e istituzioni adatti, sotto la guida di "supervisori".   
-Art. 308. - Le commissioni per gli esami di profitto sono composte di tre membri nominati dal direttore.   
-Per essere ammessi agli esami gli iscritti dovranno avere ottenuto le relative firme di frequenza alle lezioni.   
-Per essere ammessi agli esami di diploma gli iscritti dovranno avere superato gli esami di profitto stabiliti dal programma della scuola.   
-La commissione per l'esame di diploma e' composta di sette membri scelti dal rettore fra gli insegnanti della scuola.   
-L'esame di diploma consiste in una discussione sopra una dissertazione originale scelta fra le materie d'insegnamento della scuola.   
-L'argomento della dissertazione di diploma dovra' essere concordato con l'insegnante della materia prescelta, almeno quattro mesi prima della discussione.   
-Art. 309. - La scuola potra' avere un regolamento da approvare dal consiglio di amministrazione su proposta del consiglio della scuola.   
+Scuola di specializzazione nelle discipline del lavoro   
   
-Norma transitoria   
+Art. 44. - E' istituita presso la facolta' di giurisprudenza la "Scuola di specializzazione nelle discipline del lavoro" annessa alla medesima facolta'.   
+La scuola ha lo scopo di integrare la preparazione scientifica dei laureati e di approfondire, nella ricerca, la conoscenza dei problemi del lavoro, anche ai fini di specializzazione professionale.   
+Art. 45. - La scuola e' retta dal direttore.   
+E' direttore il professore titolare della cattedra di diritto del lavoro della facolta' di giurisprudenza.   
+Il direttore puo' designare un vice-direttore che lo coadiuva e lo sostituisce in caso di impedimento.   
+Art. 46. - Gli incarichi d'insegnamento sono conferiti dal rettore dell'Universita' di Parma, su proposta del direttore della scuola.   
+Art. 47. - I professori incaricati, sotto la presidenza del direttore costituiscono il consiglio della scuola.   
+Art. 48. - Alla scuola possono iscriversi soltanto i laureati in giurisprudenza, scienze politiche, economia e commercio.   
+Art. 49. - La scuola si distingue in due corsi della durata di un anno per ciascun corso.   
+Al termine di essi la scuola rilascia, dopo che i candidati abbiano superato le prove delle materie fondamentali di cui all'art. 53 e l'esame di diploma, un diploma di perfezionamento in diritto del lavoro.   
+Art. 50. - Il consiglio puo' determinare, anno per anno, il numero massimo di coloro che possono essere iscritti.   
+Il consiglio puo' anche deliberare che uno o entrambi i corsi non siano accesi nel caso di mancato raggiungimento minimo di iscritti.   
+Art. 51. - Gli insegnamenti della scuola sono:   
   
-Alla data di entrata in vigore delle presenti disposizioni, gli iscritti provenienti da altre scuole di servizio sociale, possono chiedere l'abbreviazione degli studi, in base agli esami sostenuti ed essere ammessi, a giudizio del consiglio della scuola, al 2° e al 3° anno di corso alla discussione della tesi di diploma.   
+1° Corso:   
+Storia del diritto del lavoro;   
+Storia dei movimenti sindacali;   
+Economia del lavoro;   
+Diritto del lavoro;   
+Diritto sindacale e tecnica della contrattazione collettiva;   
+Elementi di medicina e psicologia del lavoro (semestrale).   
+  
+2° Corso:   
+Selezione del personale, valutazione delle mansioni e tecniche retributive;   
+Sociologia del lavoro;   
+Diritto della cooperazione;   
+Diritto internazionale del lavoro;   
+Diritto comparato del lavoro;   
+Diritto penale del lavoro (semestrale);   
+Diritto processuale del lavoro (semestrale).   
+  
+Art. 52. - Con deliberazione del consiglio della scuola, possono essere fissati altri insegnamenti integrativi a carattere monografico. Il consiglio determina anche se, per tali insegnamenti, debba sostenersi una prova d'esame. Tutte le deliberazioni di cui al presente articolo debbono essere prese prima dell'inizio dei corsi annuali.   
+Art. 53. - L'esame di diploma consiste nella discussione di una memoria originale su argomento preventivamente approvato dal direttore della scuola.   
+Art. 54. - Gli iscritti alla scuola sono tenuti a pagare le tasse, soprattasse e contributi, secondo quanto stabilito per gli studenti della facolta' di giurisprudenza, nonche' la tassa di diploma nella misura di L. 6.000 nei sensi dell'[art. 7 della legge 19 dicembre 1951, n. 1951](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-19;1951~art7).   
+Sono tenuti, altresi', a pagare un contributo speciale nella misura che sara' determinata dal consiglio di amministrazione, previo parere della facolta', su proposta del direttore della scuola.   
+Art. 55. - Le commissioni giudicatrici per gli esami speciali sono composte di tre membri; quelle di diploma sono composte di cinque membri. I membri sono nominati dal direttore fra docenti della scuola.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 maggio 1969
+### Dato a Roma, addi' 31 ottobre 1972
 
-SARAGAT FERRARI AGGRADI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 5 luglio 1969
+Registrato alla Corte dei conti, addi' 13 settembre 1973
 
-Atti del Governo, registro n. 227, foglio n. 116. - CARUSO
+Atti di Governo, registro n. 260, foglio n. 11. - VALENTINI

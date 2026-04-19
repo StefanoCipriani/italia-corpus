@@ -1,144 +1,162 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1965 n. 1514
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1969 n. 24
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1965 n. 1514
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1969 n. 24
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Pisa approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225) e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 25 luglio 1966, n. 602](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-07-25;602);
+
+Vedute le proposte avanzate dalle autorita' accademiche dell'universita' di Pisa, intese ad ottenere l'istituzione del corso di laurea in scienze dell'informazione presso la facolta' di scienze matematiche, fisiche e naturali;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla
+-----
+
+proposta del Ministro per la pubblica istruzione; Decreta:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225) e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Presso la facolta' di scienze matematiche, fisiche e naturali puo' essere istituito il corso di laurea in scienze dell'informazione.  
+Il titolo di studio per l'ammissione al predetto corso di laurea, la durata e l'ordinamento del corso medesimo sono stabiliti dalla tabella annessa al presente decreto firmata, d'ordine del Presidente della Repubblica, dal Ministro per la pubblica istruzione.  
+All'elenco delle lauree e dei diplomi, di cui alla tabella I, annessa al [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e' aggiunta la laurea in scienze dell'informazione.  
+La tabella II, annessa al citato regio decreto numero 1652, e' integrata nel senso che la facolta' di scienze matematiche, fisiche e naturali rilascia anche la laurea in scienze dell'informazione.  
+Dopo la tabella XXVI, annessa al citato regio decreto n. 1652, e' inserita, assumendo il numero XXVI-bis, la tabella annessa al presente decreto.  
+
+Art. 2
+------
+
   
-Decreta:  
+A decorrere dall'anno accademico 1969-70 e' istituito presso la facolta' di scienze matematiche, fisiche e naturali dell'Universita' degli studi di Pisa il corso di laurea in scienze dell'informazione.
+
+Art. 3
+------
+
   
-Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 24. - Agli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto quello di "Contabilita' di Stato".  
-Gli articoli dal n. 240, 241, 242 e 243 relativi all'ordinamento della scuola di specializzazione in oculistica sono soppressi e sostituiti dai seguenti.  
-Scuola di specializzazione in oculistica  
-Art. 240. - La scuola ha la durata di quattro anni.  
-Ha sede presso la clinica oculistica il cui professore di ruolo e' direttore della scuola.  
-Il numero massimo di iscritti per ciascun anno di corso e' di quattro.  
-Art. 241. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-1) Anatomia e istologia dell'apparato oculare;  
-2) Nozioni di embriologia e genetica oculare;  
-3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;  
-4) Nozioni di ottica fisiologica, esame della refrazione;  
-5) Microbiologia ed igiene oculare.  
-2° Anno:  
-1) Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmologia, perimetria, campimetria, adattometria, senso cromatico, tonometria, tonografia, esami elettrofunzionali, radiologia), 2) Farmacologia oculare e terapia fisica;  
-3) Anatomia patologica oculare;  
-4) Patologia e clinica oculare (malattie delle palpebre, della congiuntiva, delle vie lacrimali, della cornea, e della sclera).  
-3° Anno:  
-1) Patologia e clinica oculare (malattie dell'urea, della retina, del nervo ottico e delle vie ottiche, dell'occhio, della sua totalita' e dell'orbita, glaucoma);  
-2) Anomalie e patologia della motilita' oculare e della visione binoculare;  
-3) Affezioni otorinolaringoiatriche e occhio. Ortottica e pleottica;  
-4) Tecnica operatoria (1ª parte).  
-4° Anno:  
-1) Neurooftalmologia;  
-2) Malattie oculari in rapporto ad affezioni generali;  
-3) Malattie professionali. Infortunistica e medicina legale oculare;  
-4) Tecnica operatoria (2ª parte).  
-Art. 242. - Gli insegnamenti sono integrati da conferenze stabilite dal direttore della scuola. Durante l'anno accademico gli allievi hanno l'obbligo di frequentare le lezioni, le esercitazioni e di prestare servizio nella clinica oculistica.  
-Art. 243. - Alla fine di ogni anno gli iscritti dovranno sostenere un esame di profitto sulle materie di insegnamento.  
-L'art. 290, relativo alla scuola di perfezionamento in neuropsichiatria infantile e' abrogato e sostituito dal seguente:  
-"La scuola ha la durata di tre anni. Fanno parte del Consiglio della scuola i professori ufficiali di psichiatria e clinica pediatrica fra i quali il Consiglio di facolta' ogni anno designa il direttore della scuola.  
-Il numero massimo degli iscritti per ogni anno di corso e' di quindici.  
-Art. 291. - L'ultimo comma e' abrogato e sostituito dal seguente.  
-"La scuola di perfezionamento in neuropsichiatria infantile funzionera' con i mezzi della clinica psichiatrica e con le tasse, soprattasse e contributi versati dagli iscritti".  
-Gli articoli 313 e 314, relativi all'ordinamento della scuola di specializzazione in radiologia e terapia fisica sono abrogati e sostituiti con la seguente nuova denominazione e con il conseguente spostamento della numerazione degli articoli successivi.  
-Scuola di specializzazione in radiologia  
-Art. 313. - La scuola di specializzazione in radiologia ha sede presso l'Istituto di radiologia il cui professore di ruolo e' il direttore della scuola.  
-Art. 314. - La scuola conferisce due diplomi:  
-a) diploma di specialista in radiologia che abilita all'esercizio specialistico della roentgendiagnostica, della radioterapia e della medicina nucleare, che viene conseguito dopo quattro anni di corso;  
-b) diploma di specialista in radiologia diagnostica che abilita all'esercizio specialistico della roentgendiagnostica e che viene conseguito dopo tre anni di corso.  
-Art. 315. - Alla scuola possono iscriversi solo i laureati in medicina e chirurgia nel numero massimo di dieci allievi per anno.  
-Art. 316. - Le materie di insegnamento per il conseguimento del diploma di specializzazione in radiologia sono le seguenti:  
-1° Anno:  
-1) Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;  
-2) Nozioni sugli apparecchi ed istrumenti della radiologia;  
-3) Anatomia radiologica normale;  
-4) Fisiologia radiologica;  
-5) Tecnica radiologica generale;  
-6) Semeiotica radiologica generale;  
-7) Fondamenti di radiobiologia;  
-8) Nozioni di statistica e matematica.  
-2° Anno:  
-1) Tecnica e metodica dell'esame radiologico dei vari organi, apparati e sistemi;  
-2) Semeiotica radiologica speciale e diagnosi differenziale;  
-3) Fondamenti di radioterapia;  
-4) Danni da radiazioni e mezzi di protezione;  
-5) Dimostrazioni cliniche di diagnostica radiologica;  
-6) Dimostrazioni cliniche di radioterapia.  
-3° Anno:  
-1) Diagnostica radiologica differenziale;  
-2) Dimostrazioni di casistica e di roentgendiagnostica con confronto del quadro anatomo patologico;  
-3) Dimostrazioni di casistica di roentgenterapia con particolare riferimento alla anatomia patologica;  
-4) Radioterapia tradizionale - Curieterapia;  
-5) Radioterapia con alte energie;  
-6) Elementi di medicina nucleare.  
-Art. 317. - Le materie di insegnamento per conseguire il diploma di specialista in radiologia diagnostica sono le seguenti:  
-1° Anno:  
-I corsi sono in comune a quelli previsti dall'articolo 315, 1° anno;  
-2° Anno:  
-1) Metodica di esplorazione dei vari organi ed apparati;  
-2) Semeiotica radiologica speciale e diagnosi differenziale;  
-3) Nozioni generali sulle lesioni da radiazioni e mezzi di protezione;  
-4) Moderne tecniche di esplorazione radiologica.  
-3° Anno:  
-1) Esplorazione radiologica nella patologia dei vari organi e apparati. Diagnostica differenziale. Rapporti con l'anatomia patologica;  
-2) Radiodiagnostica clinica;  
-3) Medicina legale e legislazione sanitaria in relazione alla radiologia.  
-Art. 318. - Gli allievi dovranno prestare servizio di internato nell'istituto di radiologia; hanno l'obbligo della frequenza alle lezioni.  
-Al termine di ogni anno dovranno superare gli esami di profitto delle materie prescritte, per ottenere l'iscrizione all'anno successivo.  
-Il programma di insegnamento potra' essere integrato da conferenze, esercitazioni e seminari.  
-Alla fine degli esami di corso gli allievi dovranno presentare una tesi scritta e sostenere un esame di diploma.  
-Gli articoli 326, 327 e 328 relativi all'ordinamento del corso di perfezionamento in fisica nucleare applicata alla medicina sono abrogati e sostituiti con la seguente nuova denominazione e con il conseguente spostamento della numerazione degli articoli successivi.  
-Scuola di specializzazione in medicina nucleare  
-Art. 326. - La scuola ha la durata di due anni ed ha sede presso il Centro di medicina nucleare dell'Universita' di Pisa, il cui direttore e' anche il direttore della scuola.  
-Art. 327. - Al corso possono essere ammessi i laureati in medicina e chirurgia in numero massimo di 10 per anno in base a concorso per titoli ed esami.  
-Art. 328. - I laureati in medicina e chirurgia in Universita' ed Istituti superiori esteri potranno essere accolti nella scuola applicando per essi disposizioni analoghe a quelle previste dall'[art. 13 del regio decreto 4 giugno 1938, n. 1269](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-04;1269~art13).  
-Art. 329. - Le materie d'insegnamento sono le seguenti:  
-1° Anno:  
-a) Matematica;  
-b) Statistica;  
-c) Fisica nucleare;  
-d) Radiochimica;  
-e) Teoria dei tracciati;  
-f) Tecnica delle misure radioattive.  
-2° Anno:  
-a) Semeiologia con radionuclidi;  
-b) Terapia con radionuclidi;  
-c) Dosimetria biologica;  
-d) Patologia delle radiazioni;  
-e) Prevenzione delle lesioni da radiazioni e legislazioni.  
-Il programma dei corsi e delle esercitazioni sara' approvato dalla Facolta'.  
-Art. 330. - Gli allievi devono sostenere al termine di ogni anno un esame di profitto per ogni materia di insegnamento e al termine del biennio un esame di diploma consistente nella discussione di una dissertazione scritta su argomento approvato dalla direzione della scuola.  
-Art. 331. - La scuola funzionera' con i mezzi del Centro di medicina nucleare, con le tasse, soprattasse e contributi versati dagli iscritti, e con gli eventuali finanziamenti di Enti nazionali, stranieri od internazionali.  
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti suindicati, e' ulteriormente modificato come appresso:  
+Art. 70. - All'elenco delle lauree conferite dalla facolta' di scienze matematiche, fisiche e naturali e' aggiunta la seguente: "Laurea in scienze dell'informazione".  
+Art. 95. - Dopo il sesto comma e' aggiunto il seguente: "L'esame di laurea in scienze dell'informazione consiste nella discussione di una dissertazione scritta oppure in una prova orale di cultura secondo quanto sara' stabilito caso per caso dal consiglio di facolta'".  
+Dopo l'art. 101, e con il conseguente spostamento della successiva numerazione, sono aggiunti gli articoli 102 e 103 contenente le norme relative all'ordinamento del corso di studi per il conseguimento della laurea in scienze dell'informazione secondo l'ordinamento riportato nella annessa tabella.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti osservarlo e di farlo osservare.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1965
+### Dato a Roma, addi' 28 gennaio 1969
 
-SARAGAT GUI
+SARAGAT SULLO
 
-Visto, il Guardasigilli: REALE.
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 18 gennaio 1966
+Registrato alla Corte dei conti, addi' 28 febbraio 1969
 
-Atti del Governo, registro n. 199, foglio n. 114. - VILLA
+Atti del Governo, registro n. 225, foglio n. 96. - GRECO
+
+Tabella XXVI bis
+
+ ALLEGATO   
+TABELLA XXVI-bis   
+  
+LAUREA IN SCIENZE DELL'INFORMAZIONE   
+  
+Durata del corso: quattro anni.   
+Titolo di ammissione: diploma di maturita' classica, di maturita' scientifica, diploma di abilitazione per i provenienti dagli istituti tecnici industriali, nautici, agrari e per geometri.   
+Il corso si distingue in tre indirizzi: indirizzo generale, indirizzo applicativo (gestione), indirizzo tecnico (sistemi per l'elaborazione).   
+  
+A) Sono insegnamenti fondamentali obbligatori comuni a tutti gli indirizzi per il primo biennio:   
+1° Anno:   
+1) Fisica I;   
+2) Analisi matematica I;   
+3) Algebra (semestrale);   
+4) Geometria (semestrale);   
+5) Teoria ed applicazioni delle macchine calcolatrici.   
+2° Anno:   
+6) Fisica II;   
+7) Analisi matematica II;   
+8) Calcolo numerico (semestrale);   
+9) Calcolo delle probabilita' e statistica (semestrale);   
+10) Sistemi per l'elaborazione dell'informazione I;   
+11) Ricerca operativa e gestione aziendale.   
+  
+B) Sono insegnamenti fondamentali obbligatori comuni a tutti gli indirizzi per il secondo biennio:   
+12) Sistemi per l'elaborazione dell'informazione II;   
+13) Teoria dell'informazione e della trasmissione;   
+14) Metodi per il trattamento dell'informazione.   
+  
+C) Sono insegnamenti fondamentali obbligatori:   
+a) per l'indirizzo generale:   
+15-a) Linguaggi formali e compilatori;   
+16-a) Metodi di approssimazione;   
+b) per l'indirizzo applicativo:   
+15-b) Teoria e metodi dell'ottimizzazione;   
+16-b) Economia ed organizzazione aziendale (semestrale);   
+17-b) Trattamento, dell'informazione nell'impresa (semestrale);   
+c) per l'indirizzo tecnico:   
+15-c) Teoria dei sistemi;   
+15-b) Tecniche numeriche ed analogiche.   
+  
+Insegnamenti complementari comuni ai tre indirizzi:   
+1) Analisi numerica;   
+2) Bioelettronica;   
+3) Calcolo delle probabilita';   
+4) Cibernetica e teoria dell'informazione;   
+5) Complementi di gestione aziendale;   
+6) Comunicazioni elettriche;   
+7) Controlli automatici;   
+8) Controllo dei processi industriali;   
+9) Documentazione automatica;   
+10) Econometrica;   
+11) Elaborazione dell'informazione non numerica;   
+12) Elaborazione di immagini;   
+13) Elaborazione dei testi letterali;   
+14) Elettronica;   
+15) Fisica numerica;   
+16) Fisica superiore;   
+17) Istituzioni di fisica teorica;   
+18) Istituzioni di analisi superiore;   
+19) Istituzioni di fisica matematica;   
+20) Linguaggi speciali di programmazione;   
+21) Logica matematica;   
+22) Macchine calcolatrici analogiche;   
+23) Teoria dei modelli;   
+24) Progetto di sistemi numerici;   
+25) Simulazione;   
+26) Statistica;   
+27) Tecniche di progettazione automatica;   
+28) Tecniche direzionali;   
+29) Tecniche speciali di elaborazione;   
+30) Teoria degli algoritmi e calcolabilita';   
+31) Teoria degli atomi;   
+32) Teoria dei giochi;   
+33) Teoria dei grafi;   
+34) Teoria delle decisioni.   
+  
+Alcuni di questi corsi complementari potranno avere la durata semestrale.   
+Ciascuno degli insegnamenti, sia fondamentali che complementari comporta un esame finale.   
+Ciascuno insegnamento fondamentale di un indirizzo puo' essere scelto come insegnamento complementare per altro indirizzo in cui non sia fondamentale.   
+La scelta delle materie complementari da parte dello studente e' sottoposta alla preventiva approvazione della facolta'.   
+Per ottenere l'iscrizione al secondo biennio, lo studente deve aver seguito i corsi e superato gli esami di almeno cinque materie annuali del primo biennio (due corsi semestrali sono valutati come un corso annuale).   
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e almeno in quattro scelti fra i complementari se a corso semestrale, in almeno tre se uno di essi annuale, o in almeno due se ambedue sono annuali.   
+  
+Visto, d'ordine del Presidente della Repubblica   
+  
+Il Ministro per la pubblica istruzione   
+SULLO   

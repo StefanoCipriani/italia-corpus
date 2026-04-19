@@ -1,110 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1964 n. 1448
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 giugno 1955 n. 560
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1964 n. 1448
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 giugno 1955 n. 560
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 17. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti quelli di:
-
-Dialettologia italiana;
-
-Lingue anatoliche;
-
-Lingue ugro-finniche;
-
-Miceneo e minoico;
-
-Storia delle esplorazioni geografiche;
-
-Storia dell'Europa orientale;
-
-Storia della critica d'arte;
-
-Teoria e storia della storiografia.
-
-L'insegnamento complementare di "Storia della letteratura latina medioevale" e' abrogato e sostituito dall'insegnamento di: "Lingua e letteratura latina medioevale".
-
-Art. 18. - Agli insegnamenti complementari del corso di laurea in Filosofia sono aggiunti quelli di:
-
-Storia della scienza e della tecnica;
-
-Storia della filosofia moderna e contemporanea;
-
-Art. 19. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere moderne (indirizzo europeo) e' aggiunto quello di "Lingua e letteratura portoghese".
-
-Art. 46. - Agli insegnamenti complementari del corso di laurea in Scienze agrarie sono aggiunti quelli di:
-
-Tecnologia degli olii, grassi e derivati (semestrale);
-
-Allevamento vegetale.
-
-Art. 53. - Agli insegnamenti complementari del corso di laurea in Medicina veterinaria sono aggiunti quelli di:
-
-Patologia aviare;
-
-Microbiologia veterinaria e tecnica.
-
-Art. 84, relativo alla Scuola di perfezionamento in Storia dell'arte antica, medioevale e moderna, e' modificato nel senso che l'ultimo comma e' abrogato e sostituito dal seguente:
-
-"Sono insegnamenti obbligatori per tutti e tre i rami la Storia dell'arte medioevale e moderna e l'Archeologia e storia dell'arte greca e romana. Le discipline a complemento degli esami fondamentali in ciascuna branca possono essere scelte anche fra quelle insegnate in Facolta' diverse da quella di "Lettere".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 31 ottobre 1964
-
-Per il Presidente della Repubblica
-
-Il Presidente del Senato
-
-MERZAGORA
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 7 gennaio 1965 Atti del Governo, registro n. 189, foglio n. 75. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 22 maggio 1939, numero 1166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-22;1166) e modificato con [legge 1 giugno 1939, n. 872](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-01;872); con [regi decreti 26 ottobre 1910, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1910-10-26;2056); [15 aprile 1942, n. 423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;423); [24 ottobre 1942, n. 1847; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1847) [27 luglio 1947, n. 1138 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-07-27;1138) [23 settembre 1949, n. 942](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;942), [21 novembre 1949, n. 1194](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-11-21;1194); [13 marzo 1950, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-03-13;283); [27 ottobre 1951, n. 1825](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1825); [23 aprile 1952, n. 873](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-04-23;873); [10 febbraio 1953, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;383); [13 febbraio 1954, numero 750](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-02-13;750); [14 settembre 1954, n. 1161](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1161); [27 gennaio 1955, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-01-27;219) e [16 febbraio 1955, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-16;136);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -112,40 +23,29 @@ Sulla proposta del Ministro per la pubblica istruzione;
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 17. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti quelli di:  
-Dialettologia italiana;  
-Lingue anatoliche;  
-Lingue ugro-finniche;  
-Miceneo e minoico;  
-Storia delle esplorazioni geografiche;  
-Storia dell'Europa orientale;  
-Storia della critica d'arte;  
-Teoria e storia della storiografia.  
-L'insegnamento complementare di "Storia della letteratura latina medioevale" e' abrogato e sostituito dall'insegnamento di: "Lingua e letteratura latina medioevale".  
-Art. 18. - Agli insegnamenti complementari del corso di laurea in Filosofia sono aggiunti quelli di:  
-Storia della scienza e della tecnica;  
-Storia della filosofia moderna e contemporanea;  
-Art. 19. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere moderne (indirizzo europeo) e' aggiunto quello di "Lingua e letteratura portoghese".  
-Art. 46. - Agli insegnamenti complementari del corso di laurea in Scienze agrarie sono aggiunti quelli di:  
-Tecnologia degli olii, grassi e derivati (semestrale);  
-Allevamento vegetale.  
-Art. 53. - Agli insegnamenti complementari del corso di laurea in Medicina veterinaria sono aggiunti quelli di:  
-Patologia aviare;  
-Microbiologia veterinaria e tecnica.  
-Art. 84, relativo alla Scuola di perfezionamento in Storia dell'arte antica, medioevale e moderna, e' modificato nel senso che l'ultimo comma e' abrogato e sostituito dal seguente:  
-"Sono insegnamenti obbligatori per tutti e tre i rami la Storia dell'arte medioevale e moderna e l'Archeologia e storia dell'arte greca e romana. Le discipline a complemento degli esami fondamentali in ciascuna branca possono essere scelte anche fra quelle insegnate in Facolta' diverse da quella di "Lettere".  
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso.  
+L'ordinamento del corso di perfezionamento in filologia classica, e' modificato nel modo seguente:  
+  
+Corso di perfezionamento in filologia classica  
+  
+Art. 59. - Alla Facolta' di lettere e filosofia e' annesso un corso di perfezionamento in filologia classica, che ha la durata di un anno. Al corso possono iscriversi i laureati in lettere.  
+Art. 60. - Gli iscritti debbono seguire le lezioni, partecipare alle esercitazioni e superare, fra gli esami orali, tre esami delle seguenti materie: letteratura latina, letteratura greca, glottologia, filologia greco-latina, papirologia, paleografia classica.  
+Negli esami orali i candidati debbono anche dar prova di saper leggere correntemente opere filologiche scritte in due lingue straniere scelte fra la francese, l'inglese e la tedesca.  
+Art. 61. - Alla fine del corso i candidati debbono inoltre superare un esame scritto consistente nella versione di un passo di autore greco in latino.  
+Art. 62. - Per conseguire il certificato di studio i candidati debbono infine presentare una dissertazione intorno a un argomento riferentesi a una delle materie insegnate nel corso.  
+La discussione della dissertazione ha luogo davanti a una Commissione di sette membri, composta dal preside della Facolta', dai professori delle materie seguite nel corso e da altri componenti la Facolta'.  
+Gli iscritti al corso debbono versare le tasse e sopprattasse e gli eventuali contributi che verranno stabiliti anno per anno dal Consiglio di amministrazione dell'Universita', uditi il Senato accademico ed il Consiglio di Facolta'.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1964
+### Dato a Roma, addi' 21 giugno 1955
 
-Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA GUI
+GRONCHI ERMINI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DE PIETRO
 
-Registrato alla Corte dei conti, addi' 7 gennaio 1965
+Registrato alla Corte dei conti, addi' 15 luglio 1955
 
-Atti del Governo, registro n. 189, foglio n. 75. - VILLA
+Atti del Governo, registro n. 91, foglio n. 96. - CARLOMAGNO

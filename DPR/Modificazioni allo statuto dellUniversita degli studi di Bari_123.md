@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 861
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1980 n. 936
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 861
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1980 n. 936
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
@@ -18,61 +18,78 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio universitario nazionale nei suoi pareri;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio universitario nazionale nel suo parere;
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Veduto il [parere della sezione prima del Consiglio di Stato, n. 1902/74 del 14 febbraio 1975](https://e-justice.europa.eu/ecli/ECLI::::);
+Sulla proposta del Ministro della pubblica istruzione;
 
-Considerato che non appare opportuno, al momento, procedere ad una generale revisione delle norme statutarie di tutti gli atenei relative alla direzione delle scuole di specializzazione e perfezionamento e degli istituti nonche' delle scuole dirette a fini speciali, attualmente affidata esclusivamente ai professori di ruolo o fuori ruolo, in attesa del provvedimento relativo allo stato giuridico del personale docente;
+Decreta:
+--------
 
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Art. 1
 ------
 
   
-Lo statuto dell'Universita' di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 192 - l'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che la scuola di specializzazione in ematologia clinica e di laboratorio muta la denominazione in quella di scuola di specializzazione in ematologia generale (clinica e laboratorio).  
+L'art. 112 e' modificato nel senso che alla facolta' di ingegneria e aggiunto il corso di laurea in ingegneria elettronica.  
 
 Art. 2
 ------
 
   
-Gli articoli 193 e 196 sono soppressi e sostituiti dai seguenti:  
-Art. 193. - Possono iscriversi alle scuole di specializzazione i laureati in medicina e chirurgia, salvo diverso indirizzo. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-Art. 196. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-
-Art. 3
-------
-
+L'art. 115, relativo al biennio propedeutico, e' modificato nel senso che prima del secondo comma e' aggiunta la seguente frase: per il corso di laurea in ingegneria elettronica:  
+9) Tecnologie generali dei materiali.  
+Inoltre, nel secondo comma, e' aggiunta la frase: per il corso di laurea in ingegneria elettronica:  
+10) Calcolo numerico.  
+Dopo l'art. 120, e con il conseguente spostamento della numerazione degli articoli successivi, e' aggiunto il seguente articolo relativo alla istituzione del corso di laurea in ingegneria elettronica:  
+Ingegneria elettronica  
   
-Dopo l'art. 202, e con il conseguente spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo:  
-Art. 203. - Non sono consentite abbreviazioni di corso.  
-
-Art. 4
-------
-
-  
-La scuola di specializzazione in ematologia clinica e di laboratorio di cui agli articoli 224, 225, 226, 227, muta la denominazione in quella di scuola di specializzazione in ematologia generale (clinica e laboratorio).  
+Art. 121. - Gli insegnamenti per il conseguimento della laurea in ingegneria elettronica sono i seguenti:  
+A) Obbligatori sul piano nazionale:  
+scienza delle costruzioni;  
+meccanica delle macchine e macchine;  
+fisica tecnica;  
+elettrotecnica;  
+campi elettromagnetici e circuiti;  
+misure elettriche;  
+comunicazioni elettriche;  
+elettronica applicata;  
+controlli automatici;  
+radiotecnica.  
+Obbligatori sul piano della facolta':  
+calcolo numerico (anticipato al biennio);  
+complementi di matematica;  
+complementi di elettrotecnica;  
+elementi di calcolatori e tecniche operative;  
+misure elettroniche.  
+Sei insegnamenti a scelta tratti dall'elenco seguente:  
+antenne e propagazione;  
+componenti elettronici;  
+controllo di processi industriali;  
+elettronica digitale;  
+materiali per l'elettronica;  
+microonde;  
+tecnologie elettroniche;  
+telegrafia, telefonia e telesegnalazioni;  
+teoria dei sistemi;  
+teoria dell'informazione.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1979
+### Dato a Roma, addi' 31 ottobre 1980
 
-PERTINI VALITUTTI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: SARTI
 
-Registrato alla Corte dei conti, addi' 20 marzo 1980
+Registrato alla Corte dei conti, addi' 30 dicembre 1980
 
-Registro n. 24 Istruzione, foglio n. 145
+Registro n. 122 Istruzione, foglio n. 36

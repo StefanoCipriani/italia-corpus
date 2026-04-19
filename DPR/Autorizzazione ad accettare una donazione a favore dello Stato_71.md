@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1983 n. 272
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1982 n. 603
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1983 n. 272
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1982 n. 603
+==============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-272. Decreto del Presidente della Repubblica 26 aprile 1983, col quale, sulla proposta del Ministro della difesa, il Ministero della difesa viene autorizzato ad accettare la donazione a favore dello Stato, consistente nel panfilo "Caroly" GE-70, disposta dai fratelli Mario, Alberto e Cesare Preve con atto 25 novembre 1982, n. 77055 di repertorio, a rogito dott. Ottavio Ferrando, notaio in Sestri Levante (Genova), registrato a Chiavari (Genova) in data 29 novembre 1982, al n. 3194, da destinare all'addestramento degli allievi dell'Accademia navale di Livorno.  
+603. Decreto del Presidente della Repubblica 29 gennaio 1982, col quale, sulla proposta del Ministro delle finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dal comune di Sciacca (Agrigento) con atto 11 maggio 1979, n. 88270 di repertorio, a rogito dott. Mariano Cottone, notaio in Sciacca, consistente in un appezzamento di terreno della superficie di mq 3.470, per la costruzione della locale caserma della Guardia di finanza.  
   
 Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 27 maggio 1983  
-Registro n. 19 Difesa, foglio n. 155
+Registrato alla Corte dei conti, addi' 14 maggio 1982  
+Registro n. 25 Finanze, foglio n. 50

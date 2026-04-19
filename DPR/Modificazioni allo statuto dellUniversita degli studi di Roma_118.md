@@ -1,161 +1,86 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 ottobre 1949 n. 991
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 aprile 1979 n. 179
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 ottobre 1949 n. 991
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 aprile 1979 n. 179
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734) e successivi;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche della predetta Universita';
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla
------
-
-proposta del Ministro per la pubblica istruzione; Decreta:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Veduto lo statuto dell'Universita' di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Roma e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
-Lo statuto dell'Universita' degli studi di Roma e' ulteriormente modificato come appresso:  
+Decreta:  
   
-Scuola di filologia classica  
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli 530, 531 e 532, relativi alla scuola di specializzazione in odontoiatria e protesi dentaria, che muta la denominazione in quella di scuola di specializzazione in odontostomatologia (due scuole), sono soppressi e sostituiti dai seguenti:  
   
-L'art. 210 e' sostituito dal seguente: Il corso della scuola di filologia classica ha la durata di due anni.  
-Alla scuola possono iscriversi i laureati in materia classica con ottima votazione, a giudizio insindacabile del Consiglio della scuola.  
-Gli insegnamenti costitutivi della scuola sono i seguenti:  
-1) letteratura latina;  
-2) letteratura greca;  
-3) filologia greco-latina;  
-4) glottologia;  
-5) filologia bizantina;  
-6) lingua e letteratura neo-greca;  
-7) letteratura latina del medio-evo;  
-8) antichita' greco-romane.  
-Possono inoltre essere impartiti dalla scuola corsi speciali di:  
-1) metodologia e storia della filologia classica;  
-2) grammatica della lingua greca e latina;  
-3) papirologia e paleografia.  
-L'art. 211 e' sostituito dal seguente: E' d'obbligo:  
-a) la frequenza di quattro materie del gruppo A e di una del gruppo B;  
-b) l'esame biennale della letteratura latina, della letteratura greca e di un'altra materia a scelta;  
-c) un lavoro scritto in latino su argomento letterario.  
-Per le materie per le quali non si richiede l'esame, e' indispensabile il giudizio del professore sul profitto del perfezionando, sopratutto nelle esercitazioni.  
-Il conseguimento del diploma di perfezionamento in filologia classica e' subordinato all'approvazione di una tesi di argomento filologico o letterario consigliato da un professore della scuola.  
-  
-Scuola di storia antica  
-  
-L'art. 232 e' sostituito dal seguente: Gli insegnamenti della scuola sono i seguenti:  
-1) storia greca;  
-2) storia romana con esercitazioni di epigrafia lamina;  
-3) epigrafia greca;  
-4) antichita' greche e romane;  
-5) archeologia e storia dell'arte antica;  
-6) geografia;  
-7) storia della filosofia antica;  
-8) numismatica;  
-9) filologia bizantina;  
-10) storia del diritto romano;  
-11) diritto romano;  
-12) economia politica;  
-13) storia delle religioni;  
-14) storia del cristianesimo;  
-15) papirologia;  
-16) papirologia giuridica;  
-17) topografia dell'Italia antica;  
-18) archeologia dell'Africa italiana;  
-19) topografia romana;  
-20) etruscologia e archeologia italica.  
-L'art. 233 e' sostituito dal seguente: Durante il biennio della scuola gli studenti debbono frequentare la materia nella, quale intendono perfezionarsi, che sara' biennale, ed altri cinque annuali, scelte tra quelle elencate nell'articolo precedente.  
-Queste ultime potranno essere sostituite con altre della Facolta' di lettere o di altra Facolta', previ accordi tra il direttore della scuola e lo studente.  
-Su tre delle cinque materie sopradette gli studenti devono sostenere i rispettivi esami annuali.  
-  
-Scuola di storia medioevale e moderna  
-  
-L'art. 236 e' sostituito dal seguente: Gli insegnamenti della scuola sono i seguenti:  
-1) storia medioevale;  
-2) storia moderna;  
-3) storia del risorgimento italiano;  
-4) paleografia diplomatica;  
-5) storia del cristianesimo;  
-6) storia romana;  
-7) geografia;  
-8) storia dell'arte medioevale;  
-9) storia dell'arte del rinascimento e moderna;  
-10) letteratura del medioevo;  
-11) storia del diritto italiano;  
-12) storia economica;  
-13) diritto costituzionale;  
-14) economia politica;  
-15) statistica;  
-16) diritto internazionale.  
-L'art. 237 e' sostituito dal seguente: Durante il biennio della scuola, gli studenti devono frequentare le lezioni della materia nella quale intendono perfezionarsi, che sara' biennale, di altre cinque annuali, delle quali due designate dal Consiglio della scuola e tre a scelta, e partecipare alle esercitazioni.  
-Al termine del biennio, gli studenti devono presentare una dissertazione scritta, su argomento attinente alla materia scelta per il perfezionamento.  
-  
-Scuola di storia dell'arte medioevale e moderna  
-  
-L'art. 246 e' sostituito dal seguente: La scuola si propone il perfezionamento e l'addestramento pratico dei giovani che intendono dedicarsi agli studi dell'arte medioevale e moderna.  
-Si possono iscrivere alla scuola i laureati in lettere, in filosofia, in materie letterarie, in architettura ed ingegneria civile.  
-L'art. 247 e' sostituito dal seguente: Gli anni di corso della scuola sono tre, da compiere i primi due con regolare frequenza alle lezioni degli insegnamenti costitutivi della scuola stessa. Nel terzo anno gli iscritti attenderanno piu' particolarmente alle loro tesi finali e, per quanto sara' possibile, a viaggi d'istruzione.  
-L'art. 248 e' sostituito dal seguente: Gli insegnamenti costitutivi della scuola sono i seguenti:  
-1) storia dell'arte medioevale;  
-2) storia dell'arte del rinascimento e moderna.  
-Gli insegnamenti complementari consigliati senza obbligo di esame, oltre a quelli che si potranno tenere in forma di conferenze o di corsi straordinari nello stesso settore di studi, sono i seguenti:  
-1) archeologia e storia dell'arte classica;  
-2) archeologia cristiana;  
-3) paleografia;  
-4) storia della musica.  
-L'art. 249 e' sostituito dal seguente: Al principio del primo anno e del secondo, ciascun iscritto dovra' scegliere d'accordo con l'insegnamento, un tema di storia dell'arte medioevale e un tema di storia dell'arte del rinascimento e moderna, da trattare, in forma di tesi scritta, per l'esame al termine dell'anno scolastico.  
-Non e' ammesso il passaggio all'anno successivo senza aver superati gli esami dell'anno precedente. Questi consisteranno, oltre che nella discussione della tesi scritta, nell'accertamento della progressiva preparazione del candidato.  
-L'art. 250 e' sostituito dal seguente: Al termine del triennio, per conseguire il diploma di perfezionamento, gli iscritti dovranno presentare altre due tesi scritte, su argomenti approvati dagli insegnanti. Una delle due tesi, a scelta del candidato, potra' essere trattata con minor sviluppo dell'altra, come tesi secondaria.  
-L'art. 251 e' sostituito dal seguente: Il Consiglio della scuola puo' concedere l'abbreviazione di un anno per il conseguimento del diploma quando riconosca la maturita' di chi vi aspira.  
-Dopo l'art. 261, vengono approvati i seguenti nuovi articoli col conseguente spostamento della numerazione degli articoli successivi.  
-  
-Scuola di perfezionamento in scienze etnologiche  
-  
-Art. 262. - La scuola in scienze etnologiche e' annessa all'Istituto per le civilta' primitive, il quale ha per oggetto la civilta' dei popoli primitivi attuali nelle loro varie forme (linguaggio, mito, religione, arte, ergologia, economia, sociologia, usi giuridici) e nella loro genesi e svolgimento.  
-Art. 263. - Il corso della scuola ha la durata di due anni. - Gli insegnamenti sono i seguenti:  
-a) di carattere costitutivo:  
-1) etnologia;  
-2) esercitazioni di etnografia;  
-3) religioni dei popoli primitivi;  
-4) civilta' primitive dell'Africa;  
-5) lingue e civilta' camitiche;  
-6) storia e lingue d'Etiopia;  
-7) civilta' indigene dell'America;  
-8) civilta' primitive dell'Asia e del mondo oceanico;  
-b) di carattere complementare:  
-1) paleontologia;  
-2) antropogeografia;  
-3) antropologia.  
-Art. 264. - Alla scuola di perfezionamento in scienze etnologiche sono ammessi i laureati in lettere, geografia, filosofia, giurisprudenza, scienze naturali, scienze biologiche, scienze statistiche e demografiche.  
-Art. 265. - Gli iscritti alla scuola sono tenuti a frequentare le lezioni degli insegnamenti impartiti nella scuola stessa, dei quali quelli di etnologia, e di religioni dei popoli primitivi sono biennali e gli altri annuali.  
-Art. 266. - La scuola conferisce un "Diploma di perfezionamento in scienze etnologiche" e rilascia attestati di frequenza e profitto per i singoli corsi.  
-Art. 267. - Ai fini del conseguimento del diploma di perfezionamento gli iscritti alla scuola debbono aver superato gli esami degli insegnamenti biennali e di almeno cinque fra gli insegnamenti annuali; debbono inoltre presentare una dissertazione in uno degli insegnamenti costitutivi della scuola ad eccezione del secondo nell'elenco degli insegnamenti stessi.  
+Scuola di specializzazione in odontostomatologia (due scuole)  
+Art. 530. - Sono istituite due scuole di specializzazione in odontostomatologia; la 1ª scuola ha sede presso la II cattedra di clinica odontoiatrica, la 2ª scuola presso la I cattedra di clinica odontoiatrica.  
+Le scuole conferiscono il diploma di specialista in odontostomatologia.  
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno per l'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazione.  
+Il numero degli allievi e' di trenta per anno di corso - complessivamente di novanta iscritti per l'intero corso di studi, per ciascuna scuola.  
+L'ammissione al corso avviene per titoli ed esami.  
+Art. 531. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1) embriologia ed anatomia dentaria e maxillo-facciale;  
+2) microbiologia ed igiene orale;  
+3) farmacologia;  
+4) patologia odontostomatologica;  
+5) odontotecnica;  
+6) anestesia e chirurgia stomatologica;  
+7) odontoiatria conservativa I;  
+esercitazioni pratiche.  
+2° Anno:  
+8) odontoiatria conservativa II;  
+9) clinica protesica dentaria e maxillo-facciale I;  
+10) parodontologia I;  
+11) anatomia e istopatologia odontostomatologica;  
+12) odontoiatria infantile;  
+13) radiologia odontostomatologica;  
+14) ortopedia dento-maxillo-facciale I;  
+15) chirurgia maxillo-facciale I;  
+esercitazioni pratiche.  
+3° Anno:  
+16) clinica odontostomatologica;  
+17) chirurgia maxillo-facciale II;  
+18) medicina legale odontostomatologica e delle assicurazioni;  
+19) ortopedia dento-maxillo-facciale II;  
+20) clinica protesica dentaria maxillo-facciale II;  
+21) parodontologia II;  
+esercitazioni pratiche.  
+Art. 532. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
+Durante gli anni di corso lo specializzando, oltre a seguire le lezioni teorico-pratiche, dovra' frequentare i reparti clinici e nell'ultimo anno effettuare esercitazione pratica nei reparti a meno che non comprovi di prestare ufficialmente servizio continuativo presso reparti universitari od ospedalieri della specialita'.  
+Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi.  
+Gli esami di profitto possono essere sostenuti in due sessioni annuali, secondo il manifesto della scuola.  
+Al termine del corso di studi, per il conseguimento del diploma di specialista in odontostomatologia, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione e in una prova pratica stabilita dalla commissione esaminatrice.  
+Ogni iscritto dovra' provvedere al proprio corredo di strumenti.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 ottobre 1949
+### Dato a Roma, addi' 4 aprile 1979
 
-EINAUDI GONELLA
+PERTINI SPADOLINI
 
-Visto, il Guardasigilli: GRASSI
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 3 gennaio 1950
+Registrato alla Corte dei conti, addi' 29 maggio 1979
 
-Atti del Governo, registro n. 31, foglio n. 6. - FRASCA
+Registro n. 43 Istruzione, foglio n. 2

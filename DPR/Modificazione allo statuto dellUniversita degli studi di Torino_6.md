@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1986 n. 1047
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 365
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1986 n. 1047
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 365
+============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Torino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -33,27 +33,33 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Nell'art. 9, relativo al corso di laurea in giurisprudenza, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-diritto penale comparato.  
+Nell'art. 55, relativo al corso di laurea in medicina e chirurgia all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
+semeiotica ostetrica;  
+fisiopatologia della riproduzione umana;  
+riabilitazione neurologica;  
+dermatologia allergologica e professionale;  
+fisioterapia dermatologica;  
+venereologia;  
+oftalmologia pediatrica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 giugno 1986
+### Dato a Roma, addi' 10 marzo 1986
 
 COSSIGA
 
-FALCUCCI, Ministro della pubblica istruzione
+FALCUCCI, Ministro, della pubblica istruzione
 
-Visto, il Guardasigilli: ROGNONI
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 24 marzo 1987
+Registrato alla Corte dei conti, addi' 8 luglio 1986
 
-Registro n. 18 Istruzione, foglio n. 107
+Registro n. 54 Istruzione, foglio n. 330

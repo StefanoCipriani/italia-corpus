@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 601
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1276
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 601
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1276
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -10,23 +10,21 @@ Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 14 ottobre 1926, n. 2090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2090), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto, il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+Vedute le proposte dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio universitario nazionale nel suo parere;
 
 Sentito il parere del Consiglio universitario nazionale;
 
@@ -35,70 +33,67 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Napoli, approvato e modificato con 1 decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Gli articoli da 1045 a 1054, relativi alla scuola di specializzazione in "fisiopatologia della riproduzione degli animali domestici", afferente alla facolta' di medicina veterinaria, sono abrogati e sostituiti dai seguenti con lo spostamento della numerazione successiva.  
-Scuola di specializzazione in fisiopatologia  
-della riproduzione degli animali domestici  
-Art. 1045. - E' istituita presso l'Universita' di Napoli la scuola di specializzazione in fisiopatologia della riproduzione degli animali domestici, che conferisce il titolo di specialista in fisiopatologia della riproduzione degli animali domestici.  
-Art. 1046. - La direzione della scuola ha sede presso la cattedra di clinica ostetrica e ginecologica della facolta' di medicina veterinaria di Napoli.  
-Art. 1047. - La scuola ha lo scopo di approfondire e qualificare la preparazione teorico-pratica dei laureati in medicina veterinaria nel campo del controllo, condizionamento e recupero produttivo del patrimonio zootecnico, constatata la rilevante funzione economica e sociale rappresentata dall'incremento e dal miglioramento di tale importante risorsa nazionale.  
-La scuola si prefigge inoltre l'aggiornamento sulle piu' recenti tecnologie biologiche specifiche, in continua evoluzione e ormai definite nei risvolti applicativi con risultati di notevole interesse gestionale.  
-Art. 1048. - La durata del corso e' di tre anni e non e' suscettibile di abbreviazioni.  
-Art. 1049. - Il numero degli iscritti e' di venti per ogni anno e complessivamente di sessanta per l'intero corso di studi.  
-Art. 1050. - Alla scuola sono ammessi i laureati in medicina veterinaria, che abbiano conseguito l'abilitazione all'esercizio della libera professione.  
-Art. 1051. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che si svolgera' mediante risposte a domande multiple, integrata eventualmente da un colloquio e dalla valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:  
-a) la tesi di laurea nelle discipline attinenti alla specializzazione;  
-b) il voto di laurea;  
-c) il voto riportato negli esami di profitto nelle discipline del corso di laurea attinenti la specializzazione;  
-d) eventuali pubblicazioni inerenti le discipline predette.  
-Il punteggio dei predetti titoli viene eseguito secondo il disposto del [decreto ministeriale 16 settembre 1982, pubblicato nella Gazzetta Ufficiale n. 275 del 6 ottobre 1982](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1982-10-06&numeroGazzetta=275).  
-Sono ammessi alla scuola coloro che, in relazione al numero di posti disponibili, si siano collocati in posizione utile nella graduatoria compilata sulla base del punteggio complessivo riportato.  
-In caso di eventuali rinunce subentreranno altri candidati secondo l'ordine della graduatoria degli idonei.  
-Art. 1052. - Le materie di insegnamento sono le seguenti, tutte afferenti alla facolta' di medicina veterinaria:  
-1° Anno:  
-1) morfologia ed anatomia topografica degli apparati genitali maschile e femminile;  
-2) fisiologia ed endocrinologia delle funzioni sessuali e riproduttive femminili;  
-3) patologia ostetrico-ginecologica;  
-4) andrologia e andropatologia;  
-5) legislazione veterinaria nazionale e comunitaria.  
-2° Anno:  
-1) genetica e miglioramento animale;  
-2) malattie infettive ed infestive in diretta attinenza con le funzioni sessuali e riproduttive;  
-3) anatomia patologica degli apparati genito-urinari;  
-4) accertamenti e diagnostica di laboratorio.  
-3° Anno:  
-1) clinica e terapia ostetrico-ginecologica;  
-2) basi scientifiche, metodologia e tecnica della inseminazione artificiale e dei trapianti ovulo-embrionali;  
-3) nozioni di alimentazione in relazione alle varie fasi della riproduzione;  
-4) tecnologia degli allevamenti.  
-Art. 1053. - La frequenza ai corsi e' obbligatoria. Alla fine di ciascun anno di corso lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo.  
-Le commissioni d'esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno di corso, esprimono un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso; Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.  
-Art. 1054. - La scuola si articola in lezioni, conferenze, seminari, esercitazioni tecnico-pratiche riguardanti: indagini e riscontri di laboratorio (endocrinologia, citologia, istologia, istopatologia, microbiologia), procedimenti diagnostici e terapeutici, interventi ostetrico-ginecologici, tecniche di inseminazione artificiale e di trapianti embrionali, tecniche di condizionamento delle funzioni sessuali e riproduttive. La frequenza e' obbligatoria, tuttavia lo specializzando per sostenere gli esami dovra' aver frequentato almeno i tre quarti delle lezioni teoriche e pratiche effettuate.  
-E' prevista l'utilizzazione, ai fini di attivita' didattiche particolarmente orientate verso indirizzi pratico-applicativi, di strutture extra-universitarie ai sensi dell'[art. 27 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art27). (Convenzioni d'uso, istituti zooprofilattici, ecc.).  
-Ai fini della frequenza e delle attivita' pratiche viene riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando - in strutture di servizio socio-sanitario attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.  
-Art. 1055. - Superato l'esame teorico-pratico dell'ultimo anno, il corso degli studi si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso.  
-A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.  
-Art. 1056. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.  
-Art. 1057. - La scuola di specializzazione e' costituita da un consiglio presieduto da un direttore. Il consiglio e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali vengono affidate le attivita' didattiche nella scuola, nonche' da una rappresentanza - di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).  
-Il consiglio esercita le competenze spettanti ai sensi dell'[art. 94 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art94), al consiglio di corso di laurea in materia di coordinamento di insegnamenti. La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che insegni nella scuola stessa.  
+  
+Nell'art. 137, relativo agli istituti annessi alla prima facolta' di medicina e chirurgia, gli istituti di:   
+fisiologia umana;   
+patologia generale;   
+chimica biologica;   
+igiene;   
+clinica neurologica;   
+puericultura;   
+chirurgia pediatrica;   
+per lo studio delle ultrastrutture di interesse biologico;   
+chirurgia d'urgenza, mutano la denominazione rispettivamente in: fisiologia umana e fisica medica;   
+patologia generale e oncologia;   
+chimica e chimica biologica;   
+igiene e di medicina preventiva;   
+scienze neurologiche;   
+pediatria clinica preventiva e sociale;   
+pediatria medica e chirurgica;   
+biologia;   
+clinica chirurgica d'urgenza.   
+Nel medesimo articolo l'istituto di istituzioni di patologia generale e' soppresso e sono altresi' istituiti i seguenti nuovi istituti polidisciplinari di:   
+biochimica delle macromolecole;   
+morfopatologia;   
+terapia medica;   
+endocrinologia;   
+cardiologia;   
+medicina interna e nefrologia;   
+ematologia.   
+Infine, l'ultimo comma e' soppresso e sostituito dal seguente:   
+  
+Tali istituti, ciascuno dei quali comprende piu' discipline di insegnamento affini, svolgono in collaborazione con le facolta' ed i corsi di laurea e di indirizzo, le attivita' didattiche per il conseguimento delle lauree e dei diplomi, o in collaborazione con i dipartimenti, ove costituiti, le attivita' di ricerca concernenti le discipline afferenti agli istituti stessi.   
+Art. 139 - il testo dell'articolo e' soppresso e sostituito dal seguente:   
+  
+Ogni istituto e' diretto da un direttore, che coordina e sovrintende all'attivita' dell'istituto, e' responsabile della gestione amministrativa e contabile dell'istituto stesso e dura in carica un triennio.   
+Art. 140 - il testo dell'articolo e' soppresso e sostituito dal seguente:   
+  
+La direzione di ogni istituto e' affidata ad un professore ordinario o straordinario di una delle discipline afferenti all'istituto stesso, nominato dal rettore su designazione del consiglio di istituto.   
+In mancanza di professore ordinario o straordinario di discipline afferenti all'istituto, ovvero in caso di impedimento, ritenuto motivato dal senato accademico, la direzione dell'istituto e' affidata con le modalita' di cui al comma precedente, per la durata di un anno, ad un professore associato o in mancanza ad altro docente.   
+Art. 141 - il testo dell'articolo e' soppresso e sostituito dal seguente:   
+  
+Il consiglio di istituto e' costituito dai professori ufficiali e dagli assistenti di ruolo che vi afferiscono, nonche' da una rappresentanza, da uno a cinque ricercatori qualora essi superino il numero di tre. Possono essere addetti ad un istituto tecnici, bibliotecari, personale amministrativo e subalterno appartenente ai ruoli universitari.   
+Art. 142 - il testo dell'articolo e' soppresso e sostituito dal seguente:   
+  
+Le norme di gestione e di funzionamento sono stabilite da un regolamento emanato dal rettore, sentito il senato accademico e il consiglio di amministrazione.   
+Nell'art. 143 l'istituto per lo studio delle ultrastrutture di interesse biologico muta la denominazione in istituto di biologia.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 17 maggio 1986
+### Dato a Roma, addi' 28 ottobre 1983
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 17 settembre 1986
+Registrato alla Corte dei conti, addi' 8 agosto 1984
 
-Registro n. 71 Istruzione, foglio n. 199
+Registro n. 49 Istruzione, foglio n. 192

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1970 n. 1009
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 dicembre 1971 n. 1288
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1970 n. 1009
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 dicembre 1971 n. 1288
+================================================================
 
 Modificazioni allo statuto dell'Istituto universitario di architettura di Venezia.
 ----------------------------------------------------------------------------------
@@ -12,222 +12,126 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto dell'Istituto universitario di architettura di Venezia, approvato con [regio decreto 20 aprile 1939, n. 1030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1030) e modificato con [decreto del Presidente della Repubblica 4 novembre 1950, n. 1129](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-11-04;1129), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933 numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'istituto universitario anzidetto;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla
------
+Sulla proposta del Ministro per la pubblica istruzione;
 
-proposta del Ministro per la pubblica istruzione; Decreta:
+Decreta:
+
+Lo statuto dell'Istituto universitario di architettura di Venezia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso: Gli articoli da 1 a 6 sono abrogati e sostituiti dai seguenti:
 
 Art. 1
 ------
 
   
-Presso la facolta' di architettura puo' essere istituito il corso di laurea in urbanistica.  
-Il titolo di studio per l'ammissione al predetto corso di laurea, la durata e l'ordinamento del corso medesimo sono stabiliti dalla tabella annessa al presente decreto firmato, d'ordine nostro dal Ministro per la pubblica istruzione.  
-All'elenco delle lauree e dei diplomi, di cui alla tabella I annessa al [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e' aggiunta la laurea in urbanistica.  
-La tabella II, annessa al citato regio decreto n. 1652, e' integrata nel senso che la facolta' di architettura rilascia anche la laurea in urbanistica.  
-Dopo la tabella XXX, annessa al citato decreto n. 1652, e' inserita, assumendo il numero XXX-bis, la tabella allegata al presente decreto, relativa all'ordinamento degli studi del corso di laurea in urbanistica.  
-
-Art. 2
-------
-
-  
-A decorrere dall'anno accademico 1970-71 e' istituito presso la facolta' di architettura dell'Istituto universitario di architettura di Venezia il corso di laurea in urbanistica.  
-
-Art. 3
-------
-
-  
-Lo statuto dell'Istituto universitario di architettura di Venezia, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato nel senso che dopo l'art. 15 e con il conseguente spostamento della numerazione degli articoli successivi viene aggiunto l'art. 16 contenente le norme relative all'ordinamento del corso di studi per il conseguimento della laurea in urbanistica, secondo l'ordinamento riportato nella annessa tabella.  
+Art. 2. - L'Istituto universitario di architettura di Venezia e' articolato in due corsi di laurea, uno in architettura ed uno in urbanistica.   
+La durata dei due corsi di studi per il conseguimento delle rispettive lauree e' di cinque anni, dopo i quali, espletate tutte le prove, si consegue la laurea in architettura o in urbanistica: la prova di laurea consiste nella valutazione dell'attivita' svolta dal candidato durante il corso degli studi e nella discussione della tesi riguardante una ricerca compiuta nell'ambito del proprio piano di studi.   
+Gli studenti sono tenuti a seguire corsi di insegnamento, a condurre ricerche e a svolgere un piano di studio per la laurea.   
+Art. 3. - L'Istituto universitario di architettura di Venezia comprende i seguenti istituti scientifici:   
+Istituto di composizione architettonica;   
+Istituto di composizione urbanistica;   
+Istituto di economia urbana e regionale;   
+Istituto di pianificazione urbana e territoriale;   
+Istituto di rilievo e restauro;   
+Istituto di scienze delle costruzioni;   
+Istituto di storia dell'architettura.   
+Detti istituti e relativi laboratori potranno essere integrati con altri istituti progressivamente con deliberazione del consiglio di facolta' che fissa le relative competenze, i regolamenti di funzionamento ed i finanziamenti.   
+Art. 4. - La gestione dell'Istituto universitario di architettura di Venezia e' affidata ai seguenti organi:   
+a) Consiglio di facolta';   
+b) Consiglio di amministrazione;   
+c) Consiglio di corso di laurea in architettura;   
+d) Consiglio di corso di laurea in urbanistica.   
+La composizione e le attribuzioni del consiglio di amministrazione e del consiglio di facolta' corrisponderanno alle norme stabilite dal testo unico delle leggi vigenti.   
+Il consiglio di corso di laurea e' costituito da tutti i rispettivi docenti, assistenti e ricercatori di ogni ordine e grado e dalle rappresentanze degli studenti secondo i rispettivi corsi di laurea, e del personale non docente, secondo modalita' da esse due categorie determinate. Il consiglio elegge il presidente fra i professori di ruolo per la durata di un biennio.   
+I consigli di corso di laurea hanno il compito:   
+a) di programmare e coordinare i diversi corsi di insegnamento in collaborazione con il consiglio di facolta';   
+b) di specificare le modalita' per gli esami, per le verifiche delle ricerche svolte e per la laurea in conformita' alle disposizioni vigenti e alle deliberazioni di ordine generale assunte dal Consiglio di facolta' in materia.   
+Art. 5. - E' titolo di ammissione quello previsto dalle vigenti disposizioni di legge.   
+Art. 6 - Corso di laurea in architettura. - Gli insegnamenti fondamentali obbligatori sono i seguenti:   
+1) Analisi matematica e geometria analitica (annuale + un semestre);   
+2) Arredamento (annuale);   
+3) Composizione architettonica (quinquennale);   
+4) Disegno e rilievo (annuale);   
+5) Estimo ed esercizio professionale (semestrale);   
+6) Fisica (semestrale);   
+7) Fisica tecnica e impianti (annuale);   
+8) Geometria descrittiva (annuale);   
+9) Igiene edilizia (semestrale);   
+10) Statica (annuale);   
+11) Restauro dei monumenti (annuale);   
+12) Scienza delle costruzioni (annuale);   
+13) Storia dell'architettura (biennale);   
+14) Tecnica delle costruzioni (annuale);   
+15) Tecnologia dell'architettura (biennale);   
+16) Urbanistica (biennale).   
+Gli insegnamenti complementari da cui la facolta' scegliera' annualmente i quattordici da attivare, stabilendone la loro durata, sono i seguenti:   
+1) Letteratura italiana;   
+2) Plastica ornamentale;   
+3) Lingua straniera;   
+4) Arte dei giardini;   
+5) Scenografia;   
+6) Decorazione;   
+7) Materie giuridiche;   
+8) Applicazioni di geometria descrittiva;   
+9) Architettura sociale;   
+10) Allestimento e museografia;   
+11) Indirizzi dell'architettura moderna;   
+12) Caratteri stilistici e costruttivi dei monumenti;   
+13) Complementi di matematica;   
+14) Consolidamento ed adattamento degli edifici;   
+15) Disegno dal vero;   
+16) Ponti e grandi strutture;   
+17) Impianti speciali;   
+18) Istituzioni di storia dell'arte;   
+19) Illuminazione e acustica nell'edilizia;   
+20) Letteratura artistica;   
+21) Pianificazione territoriale urbanistica;   
+22) Progettazione artistica per l'industria;   
+23) Storia dell'urbanistica;   
+24) Geotecnica e tecnica delle fondazioni;   
+25) Tipologia strutturale;   
+26) Unificazione edilizia e prefabbricazione;   
+27) Materiali da costruzione speciali;   
+28) Complementi di fisica;   
+29) Costruzioni in zone sismiche;   
+30) Sociologia;   
+31) Economia dello spazio;   
+32) Topografia;   
+33) Analisi dei sistemi urbani;   
+34) Caratteri distributivi degli edifici;   
+35) Architettura del paesaggio;   
+36) Analisi dei sistemi di movimento nel territorio;   
+37) Storia delle teorie architettoniche;   
+38) Tipologia edilizia;   
+39) Tecnica del restauro urbano;   
+40) Architettura del territorio.   
+Art. 7. - Nel corso di laurea in architettura sono stabilite le seguenti precedenze di esame:   
+non si puo' essere ammessi all'esame di "Fisica tecnica e impianti" e di "Statica" se non si sono superati gli esami di "Analisi matematica e geometria analitica"; all'esame di "Scienza delle costruzioni" se non si e' superato l'esame di "Statica"; all'esame di "Composizione architettonica" successivo senza aver superato il precedente; all'esame di "Tecnica delle costruzioni" senza aver superato "Scienza delle costruzioni";   
+gli esami di "Urbanistica" e di "Composizione architettonica" sono mantenuti fissi nell'ordine dei corsi.   
+Art. 8. - Lo studente deve seguire, oltre ai corsi fondamentali, insegnamenti facoltativi per un totale di sei annualita', scelti tra quelli attivati dall'istituto universitario di architettura o da altre facolta', in relazione al proprio piano di studi approvato dal consiglio di facolta' e superare i relativi esami.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 ottobre 1970
+### Dato a Roma, addi' 8 dicembre 1971
 
 SARAGAT MISASI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 10 dicembre 1970
+Registrato alla Corte dei conti, addi' 2 febbraio 1972
 
-Atti del Governo, registro n. 238, foglio n. 222. - CARUSO
-
-Allegato A
-
- ALLEGATO A   
-  
-  
-  
-
-((TABELLA XXX-bis   
-LAUREA IN PIANIFICAZIONE TERRITORIALE   
-ED URBANISTICA   
-  
-Durata del corso degli studi: 5 anni.   
-Gli insegnamenti propri del corso di laurea in pianificazione territoriale ed urbanistica si articolano per aree disciplinari.   
-Le aree disciplinari sono le seguenti:   
-1) area della progettazione territoriale ed urbanistica;   
-2) area progettuale architettonica;   
-3) area storico-critica e del restauro;   
-4) area tecnologica;   
-5) area impiantistica;   
-6) area fisico-matematica;   
-7) area della scienza e tecnica delle costruzioni;   
-8) area socio-economica;   
-9) area della rappresentazione.   
-Il corso di laurea prevede i seguenti indirizzi:   
-pianificazione territoriale;   
-pianificazione urbanistica.   
-Altri indirizzi potranno essere proposti dalle singole facolta' secondo le procedure previste dal vigente ordinamento didattico.   
-L'ammissione all'esame di laurea avviene dopo il superamento degli esami nelle annualita' previste dallo statuto per la parte relativa alla facolta': il numero di dette annualita' non puo' essere ne' inferiore a ventisette ne' superiore a trenta. Lo studente comunque tenuto a frequentare lezioni, seminari ed esercitazioni come previsto dal manifesto annuale della facolta'.   
-La scelta delle discipline per i piani di studio dovra' adeguarsi ai seguenti criteri:   
-nove discipline annuali, le prime indicate per ciascuna area (1-9) sono fondamentali per ciascuna facolta';   
-nove discipline annuali, attinte dalle singole aree nel numero indicato piu' sotto, sono caratterizzanti il corso di laurea e sono specificate negli statuti per la parte relativa alla facolta'; un terzo delle suddette discipline puo' essere diversamente specificato, in funzione degli indirizzi attivati, nel manifesto annuale delle facolta'.   
-Le rimanenti discipline annuali individuano un indirizzo: esse andranno attinte dalle singole aree nel numero indicato piu' sotto.  
-Il manifesto annuale delle facolta' indichera' i titoli delle discipline, in ciascuna area, relative all'indirizzo attivato.   
-Il numero complessivo delle annualita' caratterizzanti il corso di laurea deve essere cosi' costituito:   
-quattro annualita' dall'area 1 della progettazione territoriale e urbanistica;   
-una annualita' dall'area 3 storico-critica e del restauro;   
-una annualita' dall'area 5 impiantistica;   
-una annualita' dall'area 6 fisico-matematica;   
-una annualita' dall'area 8 socio-economica;   
-una annualita' dall'area 9 della rappresentazione.   
-Il numero complessivo delle annualita' individuanti l'indirizzo di pianificazione territoriale deve essere cosi' costituito:   
-tre annualita' dall'area 1 della progettazione territoriale e urbanistica;   
-una annualita' dall'area 2 progettuale architettonica;   
-una annualita' dall'area 4 tecnologica;   
-una annualita' dall'area 6 fisico-matematica;   
-due annualita' dall'area 8 socio-economica;   
-una annualita' dall'area 9 della rappresentazione.   
-Il numero complessivo delle annualita' individuanti l'indirizzo di pianificazione urbanistica deve essere cosi' costituito:   
-tre annualita' dall'area 1 della progettazione territoriale e urbanistica;   
-una annualita' dall'area 2 progettuale architettonica;   
-una annualita' dall'area 4 tecnologica;   
-una annualita' dall'area 6 fisico-matematica;   
-due annualita' dall'area 8 socio-economica;   
-una annualita' dall'area 9 della rappresentazione.   
-Nella parte dello statuto relativa a ciascuna facolta' saranno indicate le propedeuticita' e le eventuali iterazioni.   
-  
-ELENCO DELLE DISCIPLINE   
-  
-1) Area della progettazione territoriale e urbanistica (19 discipline):   
-fondamenti di urbanistica;   
-urbanistica;   
-analisi di sistemi urbani;   
-analisi delle strutture urbanistiche e territoriali (1ª annualita');   
-analisi delle strutture urbanistiche e territoriali (2ª annualita');   
-diritto e legislazione urbanistica;   
-diritto e legislazione ambientale;   
-diritto regionale e degli enti locali;   
-ecologia applicata;   
-geologia applicata ed idrogeologia;   
-gestione urbanistica del territorio;   
-organizzazione del territorio;   
-progettazione del territorio (1ª annualita');   
-progettazione del territorio (2ª annualita');   
-progettazione urbanistica (1ª annualita');   
-progettazione urbanistica (2ª annualita');   
-teorie dell'urbanistica (1ª annualita');   
-teorie dell'urbanistica (2ª annualita');   
-teorie e tecniche della pianificazione.   
-1) Area progettuale architettonica (7 discipline):   
-caratteri tipologici dell'architettura;   
-arte dei giardini;   
-composizione architettonica (1ª annualita');   
-composizione architettonica (2ª annualita');   
-normative e legislazione per l'edilizia;   
-progettazione architettonica;   
-teoria dei modelli per la progettazione.   
-3) Area storico critica del restauro (15 discipline):   
-storia dell'architettura (1ª annualita');   
-storia dell'architettura (2ª annualita');   
-storia dell'urbanistica (1ª annualita');   
-storia dell'urbanistica (2ª annualita');   
-storia dell'architettura contemporanea;   
-storia dell'arte;   
-storia della cartografia;   
-storia della citta' e del territorio;   
-storia della critica e della letteratura architettonica;   
-storia del paesaggio urbano e rurale;   
-storia della scienza;   
-storia della tecnologia;   
-restauro architettonico;   
-restauro urbano;   
-teoria del restauro.   
-4) Area tecnologica (9 discipline):   
-cultura tecnologica della progettazione;   
-tecnologia dell'architettura;   
-ergonomia;   
-igiene ambientale;   
-progettazione ambientale;   
-sperimentazione di sistemi e componenti;   
-tecniche ed economia della produzione edilizia;   
-tecnologie dei materiali da costruzione;   
-tipologia strutturale.   
-5) Area impiantistica (5 discipline):   
-fisica tecnica e impianti;   
-impianti speciali di sicurezza;   
-impianti tecnici urbani e territoriali;   
-infrastrutture di viabilita' e trasporto;   
-ubicazione e distribuzione della produzione dell'energia.   
-6) Area fisico-matematica (12 discipline):   
-istituzioni di matematica;   
-calcolo numerico e programmazione;   
-elaborazione elettronica dei dati;   
-elaborazione elettronica della progettazione;   
-fisica;   
-geometria descrittiva;   
-istituzioni di statistica;   
-linguaggio per l'uso dei calcolatori;   
-matematica applicata;   
-modelli matematici per la programmazione territoriale;   
-statistica applicata;   
-teoria dei sistemi.   
-7) Area della scienza e tecnica delle costruzioni (7 discipline): statica;   
-costruzioni in zone sismiche;   
-dinamica delle costruzioni;   
-geotecnica e tecnica delle fondazioni;   
-progettazione di grandi strutture;   
-scienza delle costruzioni;   
-tecnica delle costruzioni.   
-8) Area socio-economica (11 discipline):   
-economia urbana e regionale (1ª annualita');   
-economia urbana e regionale (2ª annualita');   
-antropologia culturale;   
-demografia;   
-econometria;   
-economia dei trasporti;   
-economia politico-agraria;   
-fondamenti di economia;   
-geografia urbana e regionale;   
-sociologia urbana e rurale;   
-tecniche economiche e finanziarie della programmazione.   
-9) Area della rappresentazione (10 discipline):   
-disegno e rilievo;   
-applicazioni di geometria descrittiva;   
-cartografia tematica;   
-elementi di fotogrammetria;   
-interpretazione di immagini e telerilevamenti;   
-rappresentazione dei fenomeni territoriali;   
-strumenti e metodi per il rilievo architettonico;   
-strumenti e tecniche di comunicazione visiva;   
-tecniche della cartografia automatica;   
-topografia.   
-  
-D'ordine del Presidente della Repubblica   
-  
-Il Ministro della pubblica istruzione   
-BODRATO))
+Atti del Governo, registro n. 246, foglio n. 69. - VALENTINI

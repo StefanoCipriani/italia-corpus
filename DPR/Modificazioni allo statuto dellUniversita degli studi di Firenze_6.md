@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1950 n. 616
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1972 n. 768
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1950 n. 616
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1972 n. 768
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
@@ -10,15 +10,19 @@ Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con il [regio decreto 5 maggio 1939, n. 1165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-05;1165), e modificato con i [regi decreti 12 ottobre 1939, n. 1712](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-12;1712), [27 aprile 1942, n. 467](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-04-27;467) e [24 ottobre 1942, n. 1439](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-10-24;1439);
+Veduto lo statuto dell'Universita' degli studi di Firenze approvato con [regio decreto 13 ottobre 1927, numero 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230) e modificato con [regio decreto 30 ottobre 1930, n. 1820](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1820), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduto il [regio decreto-legge 27 gennaio 1944, n. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-27;58);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifica, allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -26,168 +30,248 @@ Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti succitati, e' cosi' ulteriormente modificato:
+Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 7. - E' aggiunto il seguente comma:
+Art. 19. - All'elenco degli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto il seguente:
 
-"Nessun anno di stadio e' valido se lo studente non si sia iscritto e non abbia ottenuto attestazioni di frequenza in almeno tre insegnamenti".
+Storia e sistemi delle relazioni fra Stato e Chiesa nell'eta' moderna.
 
-Dopo l'art. 17. - E' aggiunto il seguente nuovo articolo col relativo spostamento della numerazione degli articoli successivi.
+Art. 57. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti:
 
-Art. 18. - "Presso la Facolta' di giurisprudenza funziona un Seminario di applicazione forense disciplinato da un proprio regolamento interno approvato dalla Facolta'".
+Corso di laurea in materie letterarie
 
-Attuale art. 44. - Nell'elenco degli insegnamenti complementari per il diploma in statistica, e' aggiunto quello di "biometria".
+1) Etnomusicologia;
 
-Attuale art 51. - Nell'elenco degli insegnamenti complementari del corso di laurea in lettere sono soppressi quelli di "storia della letteratura latina, medioevale" e di "storia, orientale antica,", mentre e' aggiunto quello di "lingua e letteratura ungherese".
+2) Storia della musica;
 
-Il penultimo comma e' sostituito dal seguente:
+3) Archivistica;
 
-"La Facolta' ove lo ritenga opportuno, potra' controllare i piani di studio presentati dagli studenti per il loro coordinamento ed approvarli prima che siano resi definitivi".
+4) Biblioteconomia e bibliografia;
 
-Attuale art. 52. - Nell'elenco degli insegnamenti complementari per il corso di laurea in filosofia vengono soppressi quelli di "storia orientale antica" e di "biologia delle razze umane".
+5) Archeologia medioevale;
 
-L'ultimo comma e' sostituito dal seguente:
+6) Istituzioni dei paesi di lingua inglese;
 
-"Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e almeno in sei da lui scelti fra i complementari previa approvazione della Facolta'".
+7) Storia delle dottrine politiche;
 
-Attuale art. 55. - Al secondo comma le parole: "E' in potere del preside udito il parere della Facolta' di consentire ai laureati" sono sostituite dalle seguenti:
+8) Dialettologia ispano-americana;
 
-"E' in potere della Facolta' di consentire ai laureati".
+9) Filosofia del linguaggio;
 
-Il penultimo ed ultimo comma sono sostituiti dai seguenti:
+10) Psicologia del linguaggio;
 
-"Per gli studenti di cui e' parola nei precedenti comma la Facolta' determina il numero minimo degli insegnamenti che debbono essere seguiti e formare oggetto di esame e consiglia il piano degli studi.
+11) Fonetica generale e sperimentale;
 
-Per gli studenti stranieri che intendono iscriversi alla Facolta' per conseguire la laurea in lettere o in filosofia, la Facolta' stabilisce a quale anno di studio debbono essere iscritti e quali insegnamenti debbono seguire e consiglia, il piano di studi. La Facolta' giuridica dell'equipollenza o meno dei titoli di studio conseguiti all'estero richiesti normalmente per l'ammissione alla Facolta'".
+12) Linguistica strutturale;
 
-Attuale art. 62. - E' soppresso il terzo comma.
+13) Lingua e letteratura catalana;
 
-Attuale art. 74. - All'elenco degli insegnamenti complementari per l'indirizzo organico biologico e' aggiunto quello di chimica applicata (ai materiali da costruzione).
+14) Geografia umana;
 
-All'elenco degli insegnamenti complementari per l'indirizzo inorganico - chimico fisico e' aggiunto quello di "scienza dei metalli".
+15) Geografia regionale;
 
-Dopo l'attuale art. 75. - Viene aggiunto il seguente nuovo articolo col conseguente spostamento della numerazione degli articoli successivi.
+16) Geografia politica ed economica;
 
-Art. 73. - "L'esame di mineralogia deve essere preceduto da quello di clinica generale ed inorganica parte 1ª. L'esame di esercitazioni di analisi chimica applicata, 4° anno, puo' essere sostenuto solo dopo aver superato quello di esercitazioni di analisi chimica quantitativa. L'esame di chimica organica industriale, deve essere preceduto da quello di esercitazioni di chimica organica e analisi organica.
+17) Storia dell'arte greca e romana;
 
-Gli esami di scienza dei metalli, di elettrochimica e di fisica tecnica debbono essere preceduti da quello di chimica fisica 1ª.
+18) Storia del movimento sindacale;
 
-L'esame di spettroscopia, puo' essere sostenuto solo, dopo superati, quelli di chimica fisica 1° e 2°.
+19) Storia della linguistica;
 
-Attuale art. 76. - All'elenco degli insegnamenti complementari per il corso di laurea in fisica sono aggiunti gli insegnamenti seguenti: "Spettroscopia";
+20) Semantica e lessicologia;
 
-"Fisica terrestre".
+21) Filologia slava;
 
-Attuale art. 77. - E' aggiunto il seguente comma:
+22) Lingua e letteratura giapponese.
 
-"Lo studente non puo' iscriversi al terzo anno di esercitazioni di fisica sperimentale senza aver prima superato gli esami di "esercitazioni di fisica sperimentale del 1° e 2° anno di corso".
+Art. 58. - All'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti:
 
-Attuale art. 80. - All'elenco degli insegnamenti complementari per il corso di laurea in matematica e fisica e' aggiunto quello di "spettroscopia".
+Corso di laurea in pedagogia
 
-Attuale art. 82. - All'elenco degli insegnamenti complementari per il corso di laurea in scienze naturali sono aggiunti i seguenti:
+1) Etnomusicologia;
 
-"Geografia fisica";
+2) Metodologia dell'insegnamento della lingua inglese;
 
-"Genetica".
+3) Metodologia dell'insegnamento della lingua spagnola;
 
-Attuale art. 89. - E' soppressa l'espressione seguente contenuta nel quarto comma: "il candidato alla laurea in fisica e in matematica e fisica deve sostenere una prova pratica di fisica sperimentale".
+4) Didattica dell'insegnamento delle lingue moderne;
 
-E' inoltre aggiunto il seguente comma: "gli studenti iscritti ai corsi per le lauree in scienze matematiche, in fisica e matematica e fisica debbono sostenere una prova di cultura alla quale sono ammessi dopo aver superato tutti gli esami speciali e prima della discussione della tesi di laurea.
+5) Psicologia del linguaggio;
 
-La predetta prova consta: a) per coloro che aspirano alla laurea in scienze matematiche, di una prova scritta consistente nella risoluzione di un problema di applicazione, delle nozioni fondamentali impartite nei corsi di matematica del primo biennio; b) per coloro che aspirano alla laurea in fisica di una prova di laboratorio; c) per coloro che aspirano alla laurea in matematica e fisica della prova di cui alla lettera a) quando la loro tesi di laurea riguardi le scienze matematiche.
+6) Storia della filosofia moderna e contemporanea;
 
-La Commissione esaminatrice e' composta, in ogni caso, dai professori di ruolo delle discipline matematiche e fisiche ed ha facolta' di aggregarsi altri membri scelti fra gli insegnanti, a qualunque titolo, dei corsi nei quali i candidati hanno sostenuto degli esami.
+7) Teoria e tecnica delle comunicazioni di massa;
 
-La Commissione di laurea terra' particolarmente conto della prova di cultura nell'assegnare il voto di laurea.
+8) Psicologia dell'apprendimento;
 
-Attuale art. 95. - E' sostituito dal seguente:
+9) Storia della scuola e delle istituzioni scolastiche;
 
-"La direzione e la vigilanza del Seminario e' affidata ai professori della Facolta' "uno dei quali viene scelto dai Consiglio della Facolta' come direttore per la durata di un biennio".
+10) Psicodiagnostica;
 
-Attuale art. 112. Nel secondo comma sono soppresse le parole "e l'argomento di due tesine orali in materie diverse da quella della dissertazione scritta".
+11) Psicologia sperimentale;
+
+12) Pedagogia comparata;
+
+13) Ortopedagogia;
+
+14) Letteratura per l'infanzia;
+
+15) Pedagogia sperimentale.
+
+Art. 59. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti i seguenti:
+
+Corso di laurea in lingue e letterature straniere
+
+1) Metodologia dell'insegnamento della lingua inglese;
+
+2) Metodologia dell'insegnamento della lingua spagnola;
+
+3) Filologia inglese;
+
+4) Istituzioni dei paesi di lingua inglese;
+
+5) Dialettologia ispano-americana;
+
+6) Filosofia del linguaggio;
+
+7) Didattica dell'insegnamento delle lingue moderne;
+
+8) Psicologia del linguaggio;
+
+9) Fonetica generale e sperimentale;
+
+10) Linguistica strutturale;
+
+11) Lingua e letteratura catalana;
+
+12) Storia della linguistica;
+
+13) Semantica e lessicologia;
+
+14) Filologia slava;
+
+15) Lingua e letteratura giapponese.
+
+Art. 65, relativo all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' modificato nel senso che l'insegnamento di "Biochimica clinica" muta la denominazione in quella di "Biochimica applicata".
+
+Art. 78. - All'elenco degli insegnamenti complementari del corso di laurea in matematica e' aggiunto il seguente:
+
+Strutture algebriche.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 11 giugno 1950
+Dato a Roma, addi' 2 ottobre 1972
 
-EINAUDI
+LEONE
 
-GONELLA
+SCALFARO
 
-Visto, il Guardasigilli: PICCIONI
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 21 agosto 1950 Atti del Governo, registro n. 35, foglio n. 52. - CARLOMAGNO
+alla Corte dei conti, addi' 5 dicembre 1972 Atti del Governo, registro n. 253, foglio n. 108. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con il [regio decreto 5 maggio 1939, n. 1165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-05;1165), e modificato con i [regi decreti 12 ottobre 1939, n. 1712](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-12;1712), [27 aprile 1942, n. 467](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-04-27;467) e [24 ottobre 1942, n. 1439](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-10-24;1439);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Firenze approvato con [regio decreto 13 ottobre 1927, numero 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230) e modificato con [regio decreto 30 ottobre 1930, n. 1820](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1820), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduto il [regio decreto-legge 27 gennaio 1944, n. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-27;58);  
-Vedute le proposte di modifica, allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti succitati, e' cosi' ulteriormente modificato:  
+Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 7. - E' aggiunto il seguente comma:  
-"Nessun anno di stadio e' valido se lo studente non si sia iscritto e non abbia ottenuto attestazioni di frequenza in almeno tre insegnamenti".  
-Dopo l'art. 17. - E' aggiunto il seguente nuovo articolo col relativo spostamento della numerazione degli articoli successivi.  
-Art. 18. - "Presso la Facolta' di giurisprudenza funziona un Seminario di applicazione forense disciplinato da un proprio regolamento interno approvato dalla Facolta'".  
-Attuale art. 44. - Nell'elenco degli insegnamenti complementari per il diploma in statistica, e' aggiunto quello di "biometria".  
-Attuale art 51. - Nell'elenco degli insegnamenti complementari del corso di laurea in lettere sono soppressi quelli di "storia della letteratura latina, medioevale" e di "storia, orientale antica,", mentre e' aggiunto quello di "lingua e letteratura ungherese".  
-Il penultimo comma e' sostituito dal seguente:  
-"La Facolta' ove lo ritenga opportuno, potra' controllare i piani di studio presentati dagli studenti per il loro coordinamento ed approvarli prima che siano resi definitivi".  
-Attuale art. 52. - Nell'elenco degli insegnamenti complementari per il corso di laurea in filosofia vengono soppressi quelli di "storia orientale antica" e di "biologia delle razze umane".  
-L'ultimo comma e' sostituito dal seguente:  
-"Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e almeno in sei da lui scelti fra i complementari previa approvazione della Facolta'".  
-Attuale art. 55. - Al secondo comma le parole: "E' in potere del preside udito il parere della Facolta' di consentire ai laureati" sono sostituite dalle seguenti:  
-"E' in potere della Facolta' di consentire ai laureati".  
-Il penultimo ed ultimo comma sono sostituiti dai seguenti:  
-"Per gli studenti di cui e' parola nei precedenti comma la Facolta' determina il numero minimo degli insegnamenti che debbono essere seguiti e formare oggetto di esame e consiglia il piano degli studi.  
-Per gli studenti stranieri che intendono iscriversi alla Facolta' per conseguire la laurea in lettere o in filosofia, la Facolta' stabilisce a quale anno di studio debbono essere iscritti e quali insegnamenti debbono seguire e consiglia, il piano di studi. La Facolta' giuridica dell'equipollenza o meno dei titoli di studio conseguiti all'estero richiesti normalmente per l'ammissione alla Facolta'".  
-Attuale art. 62. - E' soppresso il terzo comma.  
-Attuale art. 74. - All'elenco degli insegnamenti complementari per l'indirizzo organico biologico e' aggiunto quello di chimica applicata (ai materiali da costruzione).  
-All'elenco degli insegnamenti complementari per l'indirizzo inorganico - chimico fisico e' aggiunto quello di "scienza dei metalli".  
-Dopo l'attuale art. 75. - Viene aggiunto il seguente nuovo articolo col conseguente spostamento della numerazione degli articoli successivi.  
-Art. 73. - "L'esame di mineralogia deve essere preceduto da quello di clinica generale ed inorganica parte 1ª. L'esame di esercitazioni di analisi chimica applicata, 4° anno, puo' essere sostenuto solo dopo aver superato quello di esercitazioni di analisi chimica quantitativa. L'esame di chimica organica industriale, deve essere preceduto da quello di esercitazioni di chimica organica e analisi organica.  
-Gli esami di scienza dei metalli, di elettrochimica e di fisica tecnica debbono essere preceduti da quello di chimica fisica 1ª.  
-L'esame di spettroscopia, puo' essere sostenuto solo, dopo superati, quelli di chimica fisica 1° e 2°.  
-Attuale art. 76. - All'elenco degli insegnamenti complementari per il corso di laurea in fisica sono aggiunti gli insegnamenti seguenti: "Spettroscopia";  
-"Fisica terrestre".  
-Attuale art. 77. - E' aggiunto il seguente comma:  
-"Lo studente non puo' iscriversi al terzo anno di esercitazioni di fisica sperimentale senza aver prima superato gli esami di "esercitazioni di fisica sperimentale del 1° e 2° anno di corso".  
-Attuale art. 80. - All'elenco degli insegnamenti complementari per il corso di laurea in matematica e fisica e' aggiunto quello di "spettroscopia".  
-Attuale art. 82. - All'elenco degli insegnamenti complementari per il corso di laurea in scienze naturali sono aggiunti i seguenti:  
-"Geografia fisica";  
-"Genetica".  
-Attuale art. 89. - E' soppressa l'espressione seguente contenuta nel quarto comma: "il candidato alla laurea in fisica e in matematica e fisica deve sostenere una prova pratica di fisica sperimentale".  
-E' inoltre aggiunto il seguente comma: "gli studenti iscritti ai corsi per le lauree in scienze matematiche, in fisica e matematica e fisica debbono sostenere una prova di cultura alla quale sono ammessi dopo aver superato tutti gli esami speciali e prima della discussione della tesi di laurea.  
-La predetta prova consta: a) per coloro che aspirano alla laurea in scienze matematiche, di una prova scritta consistente nella risoluzione di un problema di applicazione, delle nozioni fondamentali impartite nei corsi di matematica del primo biennio; b) per coloro che aspirano alla laurea in fisica di una prova di laboratorio; c) per coloro che aspirano alla laurea in matematica e fisica della prova di cui alla lettera a) quando la loro tesi di laurea riguardi le scienze matematiche.  
-La Commissione esaminatrice e' composta, in ogni caso, dai professori di ruolo delle discipline matematiche e fisiche ed ha facolta' di aggregarsi altri membri scelti fra gli insegnanti, a qualunque titolo, dei corsi nei quali i candidati hanno sostenuto degli esami.  
-La Commissione di laurea terra' particolarmente conto della prova di cultura nell'assegnare il voto di laurea.  
-Attuale art. 95. - E' sostituito dal seguente:  
-"La direzione e la vigilanza del Seminario e' affidata ai professori della Facolta' "uno dei quali viene scelto dai Consiglio della Facolta' come direttore per la durata di un biennio".  
-Attuale art. 112. Nel secondo comma sono soppresse le parole "e l'argomento di due tesine orali in materie diverse da quella della dissertazione scritta".  
+Art. 19. - All'elenco degli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto il seguente:  
+Storia e sistemi delle relazioni fra Stato e Chiesa nell'eta' moderna.  
+Art. 57. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti:  
+  
+Corso di laurea in materie letterarie  
+  
+1) Etnomusicologia;  
+2) Storia della musica;  
+3) Archivistica;  
+4) Biblioteconomia e bibliografia;  
+5) Archeologia medioevale;  
+6) Istituzioni dei paesi di lingua inglese;  
+7) Storia delle dottrine politiche;  
+8) Dialettologia ispano-americana;  
+9) Filosofia del linguaggio;  
+10) Psicologia del linguaggio;  
+11) Fonetica generale e sperimentale;  
+12) Linguistica strutturale;  
+13) Lingua e letteratura catalana;  
+14) Geografia umana;  
+15) Geografia regionale;  
+16) Geografia politica ed economica;  
+17) Storia dell'arte greca e romana;  
+18) Storia del movimento sindacale;  
+19) Storia della linguistica;  
+20) Semantica e lessicologia;  
+21) Filologia slava;  
+22) Lingua e letteratura giapponese.  
+Art. 58. - All'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti:  
+  
+Corso di laurea in pedagogia  
+  
+1) Etnomusicologia;  
+2) Metodologia dell'insegnamento della lingua inglese;  
+3) Metodologia dell'insegnamento della lingua spagnola;  
+4) Didattica dell'insegnamento delle lingue moderne;  
+5) Psicologia del linguaggio;  
+6) Storia della filosofia moderna e contemporanea;  
+7) Teoria e tecnica delle comunicazioni di massa;  
+8) Psicologia dell'apprendimento;  
+9) Storia della scuola e delle istituzioni scolastiche;  
+10) Psicodiagnostica;  
+11) Psicologia sperimentale;  
+12) Pedagogia comparata;  
+13) Ortopedagogia;  
+14) Letteratura per l'infanzia;  
+15) Pedagogia sperimentale.  
+Art. 59. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti i seguenti:  
+  
+Corso di laurea in lingue e letterature straniere  
+  
+1) Metodologia dell'insegnamento della lingua inglese;  
+2) Metodologia dell'insegnamento della lingua spagnola;  
+3) Filologia inglese;  
+4) Istituzioni dei paesi di lingua inglese;  
+5) Dialettologia ispano-americana;  
+6) Filosofia del linguaggio;  
+7) Didattica dell'insegnamento delle lingue moderne;  
+8) Psicologia del linguaggio;  
+9) Fonetica generale e sperimentale;  
+10) Linguistica strutturale;  
+11) Lingua e letteratura catalana;  
+12) Storia della linguistica;  
+13) Semantica e lessicologia;  
+14) Filologia slava;  
+15) Lingua e letteratura giapponese.  
+Art. 65, relativo all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' modificato nel senso che l'insegnamento di "Biochimica clinica" muta la denominazione in quella di "Biochimica applicata".  
+Art. 78. - All'elenco degli insegnamenti complementari del corso di laurea in matematica e' aggiunto il seguente:  
+Strutture algebriche.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 giugno 1950
+### Dato a Roma, addi' 2 ottobre 1972
 
-EINAUDI GONELLA
+LEONE SCALFARO
 
-Visto, il Guardasigilli: PICCIONI
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 21 agosto 1950
+Registrato alla Corte dei conti, addi' 5 dicembre 1972
 
-Atti del Governo, registro n. 35, foglio n. 52. - CARLOMAGNO
+Atti del Governo, registro n. 253, foglio n. 108. - CARUSO

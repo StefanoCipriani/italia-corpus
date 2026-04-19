@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1984 n. 199
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1036
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1984 n. 199
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1036
+===============================================================
 
 Modificazione allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
 --------------------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), e successive modificazioni;
+Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -28,38 +28,29 @@ Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte 
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministero della pubblica istruzione.
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 --------
 
-Lo statuto dell'Universita' cattolica di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-  
-Art. 15 - nell'elenco degli insegnamenti complementari del corso di laurea in lettere sono inseriti i seguenti insegnamenti:   
-geografia storica del mondo antico;   
-storia del Vicino Oriente antico;   
-iconologia e iconografia;   
-storia del disegno e delle arti grafiche;   
-storia delle arti applicate e dell'oreficeria;   
-museologia e storia del collezionismo;   
-storia del restauro;   
-storia della miniatura.   
+Art. 23 - nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia, l'insegnamento di "fisica nucleare applicata alla medicina" muta la denominazione in quella di "medicina nucleare".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 marzo 1984
+### Dato a Roma, addi' 31 ottobre 1981
 
-PERTINI FALCUCCI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 23 maggio 1984
+Registrato alla Corte dei conti, addi' 24 febbraio 1982
 
-Registro n. 30 Istruzione, foglio n. 83
+Registro n. 30 Istruzione, foglio n. 384

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1983 n. 355
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 339
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1983 n. 355
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 339
 =============================================================
 
 Autorizzazione all'Associazione italiana per l'assistenza agli spastici, in Milano, ad accettare un legato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-355. Decreto del Presidente della Repubblica 4 giugno 1983, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana assistenza agli spastici, in Milano, viene autorizzata ad accettare il legato, consistente in un terzo di beni immobili siti nei comuni di Besana Brianza, Briosco (Milano), Missaglia e Lomagna (Como) del periziato valore di L. 110.350.000 alla data del 19 marzo 1980, disposto dalla sig.ra Olga Ghezzi con testamento, olografo 31 marzo 1974, pubblicato in data 10 gennaio 1978, n. 78236 di repertorio, a rogito dott. Andrea Alioto, notaio in Milazzo (Messina), registrato a Milazzo, in data 27 gennaio 1978, da destinare a favore della sezione di Milano dell'ente.  
+339. Decreto del Presidente della Repubblica 26 aprile 1984, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana per l'assistenza agli spastici, in Milano, viene autorizzata ad accettare il legato, consistente nella somma di L. 2.286.442 da utilizzarsi per l'assistenza agli spastici, disposto dalla sig.ra Petronilla Zappa ved. Cavagnoli con testamento olografo 18 ottobre 1973, pubblicato in data 28 gennaio 1980, n. 52767/12496 di repertorio, a rogito dottor Paolo Consolandi, notaio in Milano, registrato a Milano in data 1 febbraio 1980 al n. A/2.02968.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 12 luglio 1983  
-Registro n. 5 Sanita', foglio n. 353
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 30 giugno 1984  
+Registro n. 5 Sanita', foglio n. 184

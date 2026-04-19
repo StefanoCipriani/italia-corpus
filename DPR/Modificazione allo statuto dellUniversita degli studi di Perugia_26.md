@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1985 n. 858
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 luglio 1985 n. 668
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1985 n. 858
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 luglio 1985 n. 668
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Perugia.
 -------------------------------------------------------------------
@@ -40,15 +40,19 @@ Articolo unico
 
   
 Nell'art. 49, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
-  
-malattie del ricambio;  
-neuroendocrinologia.  
+chirurgia plastica e ricostruttiva;  
+chirurgia d'urgenza;  
+traumatologia;  
+anatomia radiologica;  
+andrologia;  
+chirurgia sostitutiva;  
+diagnostica e chirurgia endoscopica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 settembre 1985
+### Dato a Roma, addi' 17 luglio 1985
 
 COSSIGA
 
@@ -56,6 +60,6 @@ FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 21 gennaio 1986
+Registrato alla Corte dei conti, addi' 9 novembre 1985
 
-Registro n. 2 Istruzione, foglio n. 107
+Registro n. 74 Istruzione, foglio n. 143

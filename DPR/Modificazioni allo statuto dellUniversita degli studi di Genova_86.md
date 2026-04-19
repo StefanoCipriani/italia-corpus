@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 708
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 maggio 1981 n. 605
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 708
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 maggio 1981 n. 605
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Genova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,48 +18,116 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio universitario nazionale nei suoi pareri;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
+Sentito il parere del Consiglio universitario nazionale;
 
-Veduto il parere del Consiglio universitario nazionale;
+Sulla
+-----
 
-Considerato che la tabella XXIX dell'ordinamento didattico universitario prevede che il disegno II, disciplina del secondo anno del biennio propedeutico della facolta' di ingegneria, sia differenziato secondo i corsi di laurea, con cio' escludendo che nello stesso corso di laurea di una facolta' di ingegneria possano figurare due discipline riconducibili al disegno II;
+proposta del Ministro della pubblica istruzione; Decreta:
 
-Considerato, quindi, che l'inclusione, ai sensi della citata [legge n. 615/81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;615), nello statuto dell'Universita' di Genova, nell'elenco degli insegnamenti del secondo anno del biennio propedeutico del corso di laurea in ingegneria navale e meccanica, dell'insegnamento di "disegno navale" comporta, di conseguenza, l'eliminazione dall'elenco stesso dell'insegnamento di "disegno II (per allievi ingegneri navalmeccanici)";
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
+Art. 1
+------
 
   
-Art. 106 - all'elenco degli insegnamenti del secondo anno del biennio propedeutico del corso di laurea in ingegneria navale e meccanica e' aggiunto l'insegnamento di "disegno navale".  
-Dallo stesso elenco e' soppresso l'insegnamento di "disegno II (per allievi ingegneri navalmeccanici)".  
-Art. 109 - nell'elenco degli insegnamenti complementari della facolta' di ingegneria sono inseriti i seguenti insegnamenti:  
-analisi matematica e geometria analitica;  
-gestione degli impianti industriali;  
-progetti di componenti e circuiti integrati.  
+Lo statuto dell'Universita' di Genova, approvato o modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+L'art. 193, relativo alla scuola di specializzazione in oftalmologia, e' modificato nel senso che il numero degli iscritti e' stabilito in trentadue per l'intero corso di studi.  
+
+Art. 2
+------
+
+  
+L'art. 214, ultimo comma, relativo alla scuola di specializzazione in medicina legale e delle assicurazioni, e' modificato nel senso che il numero degli iscritti e' stabilito in trentacinque per l'intero corso di studi.  
+
+Art. 3
+------
+
+  
+L'art. 363, terzo comma, relativo alla scuola di specializzazione in cardiologia, e' modificato nel senso che il numero degli iscritti e' stabilito in sedici per l'intero corso di studi.  
+
+Art. 4
+------
+
+  
+L'art. 393, relativo alla scuola di specializzazione in chirurgia oculare, e' modificato nel senso che il numero degli iscritti e' stabilito in quindici per l'intero corso di studi.  
+
+Art. 5
+------
+
+  
+Dopo l'art. 443, e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in cardioangiochirurgia.  
+  
+Scuola di specializzazione in cardioangiochirurgia  
+  
+Art. 444. - Presso la facolta' di medicina e chirurgia dell'Universita' di Genova e' istituita la scuola di specializzazione in cardioangiochirurgia la quale conferisce il diploma di specializzazione in cardioangiochirurgia.  
+La durata del corso di studi teorico-pratica e' di cinque anni.  
+Art. 445. - Il numero massimo di allievi iscrivibili e' di quindici complessivamente.  
+Art. 446. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1) embriologia e teratologia;  
+2) anatomia descrittiva e topografica generale con particolare riguardo all'apparato cardiocircolatorio I;  
+3) patologia chirurgica generale;  
+4) fisiologia dell'apparato cardiocircolatorio;  
+5) radiologia generale;  
+6) semeiotica clinica delle cardiopatie chirurgiche;  
+7) principi di informatica medica;  
+8) elementi di ingegneria medica.  
+2° Anno:  
+1) anatomia descrittiva e topografica generale con particolare riguardo all'apparato cardiocircolatorio II;  
+2) clinica chirurgica generale;  
+3) anatomia ed istologia patologica con particolare riguardo all'apparato cardiocircolatorio I;  
+4) cardioangioradiologia I;  
+5) semeiotica strumentale delle cardiopatie chirurgiche;  
+6) elementi di anestesia e rianimazione;  
+7) fisiopatologia respiratoria;  
+8) fisiopatologia cardiocircolatoria I;  
+9) patologia e clinica delle angiopatie chirurgiche.  
+3° Anno:  
+1) anatomia ed istologia patologica con particolare riguardo all'apparato cardiocircolatorio II;  
+2) cardioangioradiologia II;  
+3) semeiotica di laboratorio delle cardiopatie chirurgiche;  
+4) semeiotica angiologica;  
+5) cardiologia medica I;  
+6) terapia chirurgica e tecnica operatoria delle malattie del cuore e dei grossi vasi I;  
+7) principi e tecniche della circolazione extra-corporea;  
+8) fisiopatologia cardiocircolatoria II;  
+9) patologia e clinica delle cardiopatie chirurgiche I.  
+4° Anno:  
+1) cardiologia medica II;  
+2) angiologia medica;  
+3) terapia chirurgica e tecnica operatoria delle malattie del cuore e dei grossi vasi II;  
+4) terapia chirurgica e tecnica operatoria delle vasculopatie periferiche;  
+5) terapia intensiva I;  
+6) patologia e clinica cardiologica pediatrica;  
+7) cardiochirurgia pediatrica I;  
+8) patologia e clinica delle cardiopatie chirurgiche II.  
+5° Anno:  
+1) terapia chirurgica e tecnica operatoria delle malattie del cuore e dei grossi vasi III;  
+2) terapia intensiva II;  
+3) cardiochirurgia pediatrica II;  
+4) assistenza meccanica cardiocircolatoria.  
+Art. 447. - La frequenza alle lezioni ed alle esercitazioni e' obbligatoria.  
+Gli allievi che non conseguono le attestazioni di frequenza non possono essere ammessi a sostenere le prove di esame.  
+Art. 448. - Alla fine di ogni corso gli iscritti devono sostenere i relativi esami il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo;  
+per le materie a corso pluriennale l'esame e' unico.  
+Alla fine del quinto anno, dopo aver superato tutti gli esami, ha luogo l'esame di diploma consistente nella discussione di una dissertazione scritta su argomento attinente alla specializzazione e la cui scelta sia stata concordata tra diplomando e direttore della scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Selva di Val Gardena, addi' 2 settembre 1983
+### Dato a Roma, addi' 5 maggio 1981
 
-PERTINI FALCUCCI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 14 dicembre 1983
+Registrato alla Corte dei conti, addi' 21 ottobre 1981
 
-Registro n. 76 Istruzione, foglio n. 299
+Registro n. 96 Istruzione, foglio n. 364

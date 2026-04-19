@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1982 n. 101
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 gennaio 1977 n. 51
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1982 n. 101
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 gennaio 1977 n. 51
+=============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare un lascito.
 --------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-101. Decreto del Presidente della Repubblica 8 febbraio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il lascito, consistente in un appartamento sito in Milano, via Castelmorone n. 7, distinto nel nuovo catasto edilizio urbano alla partita 53025, foglio 355, mappale 439 sub 29, del valore attribuito di L. 3.300.000, ritenuto congruo dall'ufficio tecnico erariale di Milano, disposto dalla sig.ra Bernardi Alessandrina ved. Zanfrognini con testamento pubblico 5 luglio 1973, redatto a rogito dott. Gazzaniga Giuseppe, notaio in Milano, e dallo stesso pubblicato in data 8 aprile 1974, n. 810822 di repertorio e n. 8917 di raccolta, registrato a Milano il 10 aprile 1974 al n. 6860 serie D.  
+51. Decreto del Presidente della Repubblica 19 gennaio 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare, col beneficio d'inventario, il lascito disposto dalla sig.ra Gina Carli con testamento olografo 5 novembre 1969, pubblicato a rogito notaio dott. Angelo Boletti in data 12 maggio 1972, n. 62917 di repertorio, n. 8677 di raccolta, registrato a Brescia il 20 maggio 1972 al n. 2606, mod. 71-M. Pubblici, consistente nella quota di 1/3 della somma di L. 30.839.103.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 20 marzo 1982  
-Registro n. 3 Presidenza, foglio n. 54
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 25 febbraio 1977  
+Registro n. 2 Presidenza, foglio n. 234

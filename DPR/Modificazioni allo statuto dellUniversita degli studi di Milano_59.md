@@ -1,163 +1,77 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 gennaio 1955 n. 219
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 giugno 1971 n. 632
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 gennaio 1955 n. 219
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 giugno 1971 n. 632
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 22 maggio 1939, numero 1166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-22;1166) e modificato con [legge 1 giugno 1939, n. 872](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-01;872); con [regi decreti 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2056); [15 aprile 1942, n. 423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;423); [24 ottobre 1942, n. 1847; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1847) [27 luglio 1947, n. 1138 e con decreti dei Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-07-27;1138) [23 settembre 1949, n. 942](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;942); [21 novembre 1949, n. 1194](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-11-21;1194); [13 marzo 1950, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-03-13;283); [13 febbraio 1954, n. 750](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-02-13;750) e [14 settembre 1954, n. 1161](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1161);
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi da Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 9. - Agli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di:
-
-15) "Istituzioni di diritto penale".
-
-Art. 18. - Agli insegnamenti complementari del corso di laurea in filosofia e' aggiunto quello di:
-
-17) "Filosofia della scienza".
-
-Art. 44. - Agli insegnamenti complementari del corso di laurea in scienze agrarie e' aggiunto quello di:
-
-11) "Genetica vegetale".
-
-Art. 98. - Dopo la scuola di perfezionamento in farmacia industriale e' aggiunta la "Scuola di specializzazione in chirurgia plastica ricostruttiva".
-
-Scuola di specializzazione in chirurgia plastica ricostruttica.
-
-a) La durata del corso degli studi della scuola di specializzazione in chirurgia plastica ricostruttiva e' di tre anni.
-
-b) La scuola fa parte integrante dell'Istituto di chimica chirurgica generale e la direzione della scuola e' conferita dalla Facolta' secondo le norme generali che regolano la direzione delle scuole di perfezionamento.
-
-c) Gli insegnanti della scuola sono nominati dal rettore dell'Universita', su proposta del Consiglio della Facolta' di medicina e chirurgia, udito il direttore della scuola.
-
-d) Durante i tre anni di corso lo specializzando e' tenuto a prestare servizio nei reparto al quale viene assegnato ed a frequentare le lezioni e le esercitazioni.
-
-e) Gli specializzandi sono assegnati in turni periodici ai reparti di chirurgia plastica istituiti presso il Policlinico universitario, gli Istituti ospedalieri di Milano, l'Istituto mutilati del viso e gli altri eventuali reparti della specialita', secondo le disposizioni del direttore della scuola.
-
-f) Durante i tre anni di corso verranno impartiti i seguenti insegnamenti:
-
-1) Fondamenti embriologici, anatomici e fisiologici della chirurgia plastica;
-
-2) Nozioni di patologia generale ed anatomia patologica (processo di guarigione delle ferite, patologia delle cicatrici, infiammazioni, tumori, malformazioni, biologia degli innesti e dei trapianti);
-
-3) Nozioni di oculistica, otorinolaringologia, stomatologia, traumatologia, urologia e dermatologia nei rapporti con la chirurgia plastica;
-
-4) Nozioni di radiodiagnostica e radioterapia;
-
-5) Anatomia chirurgica e medicina operatoria;
-
-6) Tecniche speciali di chirurgia plastica;
-
-7) Tecniche di anestesia e particolari indicazioni;
-
-8) Trattamento pre e post-operatorio;
-
-9) Esercitazioni pratiche cliniche e operatorie.
-
-Nel manifesto annuale la Facolta' comunichera' il piano di studi consigliato e la ripartizione degli insegnanti fra i vari anni di corso. Il manifesto annuale indichera' pure il numero massimo di posti disponibili al primo corso e le modalita' per l'ammissione alla scuola.
-
-g) Al termine di ogni anno accademico, lo specializzando che abbia ottenuto le prescritte attestazioni di frequenza, dovra', per potersi iscrivere al successivo anno, di corso, superare gli esami in tutte le materie comprese nel piano degli studi.
-
-Per essere ammesso all'esame di diploma lo specializzando dovra' aver superato tutti gli esami di profitto previsti dal piano degli studi.
-
-h) Per l'ammissione agli esami di profitto e all'esame di diploma, e per la composizione delle relative Commissioni esaminatrici, valgono le norme generali previste dallo statuto per le scuole di perfezionamento della Facolta' di medicina e chirurgia.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 27 gennaio 1955
-
-EINAUDI
-
-ERMINI
-
-Visto, il Guardasigilli: DE PIETRO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 2 aprile 1955 Atti del Governo, registro n. 80, foglio n. 3. - CARLOMAGNO
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 22 maggio 1939, numero 1166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-22;1166) e modificato con [legge 1 giugno 1939, n. 872](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-01;872); con [regi decreti 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2056); [15 aprile 1942, n. 423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;423); [24 ottobre 1942, n. 1847; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1847) [27 luglio 1947, n. 1138 e con decreti dei Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-07-27;1138) [23 settembre 1949, n. 942](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;942); [21 novembre 1949, n. 1194](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-11-21;1194); [13 marzo 1950, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-03-13;283); [13 febbraio 1954, n. 750](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-02-13;750) e [14 settembre 1954, n. 1161](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1161);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, numero 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto, formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi da Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 9. - Agli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di:  
-15) "Istituzioni di diritto penale".  
-Art. 18. - Agli insegnamenti complementari del corso di laurea in filosofia e' aggiunto quello di:  
-17) "Filosofia della scienza".  
-Art. 44. - Agli insegnamenti complementari del corso di laurea in scienze agrarie e' aggiunto quello di:  
-11) "Genetica vegetale".  
-Art. 98. - Dopo la scuola di perfezionamento in farmacia industriale e' aggiunta la "Scuola di specializzazione in chirurgia plastica ricostruttiva".  
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Scuola di specializzazione in chirurgia plastica ricostruttica.  
-a) La durata del corso degli studi della scuola di specializzazione in chirurgia plastica ricostruttiva e' di tre anni.  
-b) La scuola fa parte integrante dell'Istituto di chimica chirurgica generale e la direzione della scuola e' conferita dalla Facolta' secondo le norme generali che regolano la direzione delle scuole di perfezionamento.  
-c) Gli insegnanti della scuola sono nominati dal rettore dell'Universita', su proposta del Consiglio della Facolta' di medicina e chirurgia, udito il direttore della scuola.  
-d) Durante i tre anni di corso lo specializzando e' tenuto a prestare servizio nei reparto al quale viene assegnato ed a frequentare le lezioni e le esercitazioni.  
-e) Gli specializzandi sono assegnati in turni periodici ai reparti di chirurgia plastica istituiti presso il Policlinico universitario, gli Istituti ospedalieri di Milano, l'Istituto mutilati del viso e gli altri eventuali reparti della specialita', secondo le disposizioni del direttore della scuola.  
-f) Durante i tre anni di corso verranno impartiti i seguenti insegnamenti:  
-1) Fondamenti embriologici, anatomici e fisiologici della chirurgia plastica;  
-2) Nozioni di patologia generale ed anatomia patologica (processo di guarigione delle ferite, patologia delle cicatrici, infiammazioni, tumori, malformazioni, biologia degli innesti e dei trapianti);  
-3) Nozioni di oculistica, otorinolaringologia, stomatologia, traumatologia, urologia e dermatologia nei rapporti con la chirurgia plastica;  
-4) Nozioni di radiodiagnostica e radioterapia;  
-5) Anatomia chirurgica e medicina operatoria;  
-6) Tecniche speciali di chirurgia plastica;  
-7) Tecniche di anestesia e particolari indicazioni;  
-8) Trattamento pre e post-operatorio;  
-9) Esercitazioni pratiche cliniche e operatorie.  
-Nel manifesto annuale la Facolta' comunichera' il piano di studi consigliato e la ripartizione degli insegnanti fra i vari anni di corso. Il manifesto annuale indichera' pure il numero massimo di posti disponibili al primo corso e le modalita' per l'ammissione alla scuola.  
-g) Al termine di ogni anno accademico, lo specializzando che abbia ottenuto le prescritte attestazioni di frequenza, dovra', per potersi iscrivere al successivo anno, di corso, superare gli esami in tutte le materie comprese nel piano degli studi.  
-Per essere ammesso all'esame di diploma lo specializzando dovra' aver superato tutti gli esami di profitto previsti dal piano degli studi.  
-h) Per l'ammissione agli esami di profitto e all'esame di diploma, e per la composizione delle relative Commissioni esaminatrici, valgono le norme generali previste dallo statuto per le scuole di perfezionamento della Facolta' di medicina e chirurgia.  
+Dopo l'art. 290 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di preparazione per tecnici di audiometria e ortofonia (diretta a fini speciali).   
+  
+Scuola di preparazione per tecnici di audiometria e ortofonia   
+(diretta a fini speciali)   
+  
+Art. 291. - La durata del corso degli studi della scuola di preparazione per tecnici di audiometria ed ortofonia e' di due anni.  
+L'indirizzo e' teorico-pratico.   
+Art. 292. - Per l'ammissione alla scuola si richiede il diploma di abilitazione magistrale o di maestra giardiniera o titolo superiore (maturita' classica o scientifica).   
+Art. 293. - Alla scuola si accede previo esame di perfetta dizione e prova di lettura di un testo di lingua straniera. La commissione giudicatrice sara' composta dal direttore della scuola, da un professore ordinario o straordinario o aggregato di disciplina neuropsichiatrica o di otorinolaringoiatria e da un docente di psicologia.   
+Art. 294. - Il direttore della scuola e' il titolare della cattedra di audiologia dell'Universita' di Milano; la scuola e' sotto la vigilanza della facolta' di medicina e chirurgia dell'Universita' di Milano. Gli insegnanti sono, proposti dal direttore della scuola e scelti tra i titolari di altre cattedre della facolta' di medicina e chirurgia di Milano, tra i liberi docenti di audiologia ed in altre materie o tra persone, anche al di fuori dell'ambito universitario, aventi pero' particolare competenza sulle materie del corso.   
+Art. 295. - Le materie di insegnamento sono le seguenti:   
+  
+1° Anno:   
+  
+Anatomia e fisiologia dell'orecchio, delle vie, dei centri acustici e degli organi fonatori;   
+Nozioni di fisica acustica;   
+Tecniche audiometriche;   
+Psicologia del bambino.   
+  
+2° Anno:   
+  
+Patologia dell'udito, della voce e del linguaggio;   
+Neuropsichiatria infantile;   
+Foniatria - tecniche di rieducazione del linguaggio.   
+  
+Gli allievi sono obbligati all'internato per un periodo di due anni nell'istituto di audiologia od in istituti qualificati approvati dal direttore della scuola.   
+Art. 296. - Seguiti i corsi e superati gli esami in tutti gli insegnamenti prescritti, gli allievi saranno ammessi a sostenere l'esame di diploma.   
+Art. 297. - Le commissioni esaminatrici per gli esami di profitto sono nominate, su proposta del direttore della scuola, dal preside della facolta' di medicina e chirurgia.   
+Art. 298. - L'esame di diploma consiste nella discussione di una tesi scritta su un argomento riguardante le materie di insegnamento della scuola ed in una prova pratica stabilita dalla commissione esaminatrice.   
+L'esame di diploma viene sostenuto davanti ad una commissione di cinque membri scelti tra i docenti della scuola, nominata su proposta del direttore della scuola, dal preside della facolta' di medicina e chirurgia.   
+Ogni commissario ha a disposizione dieci punti. I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza della scuola.   
+Art. 299. - Verra' rilasciato agli allievi che avranno superato l'esame finale il diploma di tecnico di audiometria ed ortofonia.   
+Art. 300. - Il consiglio di amministrazione dell'universita', su proposta della direzione della scuola, approvata dal consiglio di facolta', stabilira' di anno in anno l'ammontare dei contributi. Le tasse e soprattasse annuali a carico degli iscritti restano cosi' destinate:   
+  
+  
+Tassa annuale d'iscrizione . . . . . . . . . . . . . . .L. 10.000 Soprattassa annuale di esami . . . . . . . . . . . . . ." 5.000 Tassa di diploma . . . . . . . . . . . . . . . . . . . ." 6.000 Tassa annuale di iscrizione per studenti fuori corso . ." 3.000   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 gennaio 1955
+### Dato a Roma, addi' 21 giugno 1971
 
-EINAUDI ERMINI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: DE PIETRO
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 2 aprile 1955
+Registrato alla Corte dei conti, addi' 18 agosto 1971
 
-Atti del Governo, registro n. 80, foglio n. 3. - CARLOMAGNO
+Atti del Governo, registro n. 243, foglio n. 141. - PASQUALUCCI

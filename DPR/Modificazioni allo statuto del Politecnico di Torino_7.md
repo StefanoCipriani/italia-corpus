@@ -1,22 +1,199 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1965 n. 1501
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1967 n. 1010
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1965 n. 1501
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1967 n. 1010
+=================================================================
 
-Modificazioni allo statuto, del Politecnico di Torino.
-------------------------------------------------------
+Modificazioni allo statuto del Politecnico di Torino.
+-----------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto del Politecnico di Torino, approvato con [regio decreto 24 luglio 1942, n. 923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-07-24;923) e modificato con [regio decreto 5 settembre 1942, n. 1391](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-09-05;1391) e successiva modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche del politecnico anzidetto;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto del Politecnico di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 11. - All'elenco degli insegnamenti complementari del corso di laurea in architettura del triennio di applicazione sono aggiunti quelli di:
+
+Istituzioni di storia dell'arte;
+
+Strutture spaziali e relative sperimentazioni;
+
+Sociologia urbana ed economia dello spazio;
+
+Pianificazione territoriale urbanistica;
+
+Elementi tecnici dell'urbanistica.
+
+Art. 26. - Relativo agli esami di laurea e' modificato nel senso che il secondo comma e' abrogato e sostituito dal seguente:
+
+"Per gli studenti di architettura la tesi consiste nella elaborazione di un progetto architettonico ed urbanistico o di uno studio attinente alle materie indicate all'art. 29; il laureando, entro il mese di febbraio comunichera' al preside l'argomento della tesi e quelli di tre sottotesi vistati dai professori che assegnarono gli argomenti".
+
+Art. 27. - Il secondo comma e' abrogato e sostituito dal seguente: "Per gli studenti architetti la tesi e le sottotesi devono essere svolte con la guida dei professori che assegnarono gli argomenti".
+
+Art. 29. - E' abrogato e sostituito dal seguente:
+
+"Per gli studenti di architettura, l'argomento della tesi di laurea deve riguardare una delle seguenti materie:
+
+A - Composizione architettonica B - Urbanistica C - Caratteri distributivi degli edifici D - Caratteri stilistici e costruttivi dei monumenti E - Tecnologia dei materiali e tecnica delle costruzioni, o Scienza delle costruzioni.
+
+Gli studenti, unitamente alla tesi di laurea dovranno svolgere tre sottotesi su argomenti relativi ai seguenti gruppi di materie:
+
+I - Composizione architettonica - Estimo ed esercizio professionale 2 - Architettura degli interni, arredamento e decorazione - Caratteri distributivi degli edifici 3 - Caratteri stilistici e costruttivi dei monumenti - Restauro dei monumenti 4 - Urbanistica 5 - Tecnologia dei materiali e tecnica delle costruzioni - Scienza delle costruzioni 6 - Fisica tecnica - Impianti tecnici.
+
+Per coloro che scelgono le tesi B, C, D, E e' obbligatorio che una delle tre sottotesi sia del gruppo I e precisamente di composizione; per coloro che scelgono la tesi E e' obbligatorio che una delle tre sottotesi sia del gruppo 3; per coloro che scelgono la tesi A, B, C, D e' obbligatorio che una delle 3 sottotesi sia del gruppo 5.
+
+Le disposizioni contenute nell'art. 41 relative alla Scuola di perfezionamento in elettrotecnica "Galileo Ferraris" sono abrogate e sostituite dalle seguenti concernenti il ripristino del corso di perfezionamento in elettrotecnica "Galileo Ferraris".
+
+Corso di perfezionamento in elettrotecnica "Galileo Ferraris"
+
+Art. 41. - Il corso di perfezionamento in elettrotecnica "Galileo Ferraris" comprende i seguenti insegnamenti:
+
+Elettrotecnica generale e complementare; Misure elettriche;
+
+Impianti elettrici; Costruzioni elettromeccaniche; Comunicazioni elettriche;
+
+integrati da insegnamenti singoli su argomenti speciali.
+
+Il direttore del corso e' il titolare di elettrotecnica.
+
+In sua mancanza il direttore e' nominato dal Consiglio della facolta' di ingegneria.
+
+Il corso ha la durata di un anno accademico ed e' suddiviso in due sezioni: elettromeccanica e comunicazioni.
+
+Ad esso possono essere iscritti i laureati in ingegneria od in fisica.
+
+L'esame finale consiste in una prova scritta ed in una orale.
+
+A chi abbia compiuto il corso e superato tutti gli esami prescritti viene rilasciato un certificato degli esami superati.
+
+La Commissione esaminatrice e' composta di cinque professori di ruolo, di un libero docente e di un membro estraneo all'insegnamento, scelto fra gli ingegneri che ricoprano cariche direttive in uffici tecnici dello Stato o che abbiano raggiunta meritata fama nel libero esercizio della professione.
+
+Possono venire ammessi al corso anche gli ufficiali di artiglieria, genio e marina anche se sprovvisti del diploma di ingegnere".
+
+Art. 53. - Relativo alla scuola diretta a fini speciali in scienze ed arti grafiche e' modificato nel senso che il primo ed il secondo comma sono abrogati e sostituiti dai seguenti:
+
+"La durata del corso di studi e' di anni tre.
+
+Possono esservi ammessi i cittadini italiani in possesso del diploma di maturita' classica, scientifica o artistica o diploma di abilitazione tecnica o magistrale o di titoli ritenuti equipollenti dal Consiglio di facolta', nonche' gli stranieri in grado di dimostrare la conoscenza della lingua italiana aventi titoli riconosciuti equipollenti dal medesimo Consiglio di facolta'".
+
+Art. 56. - E' abrogato e sostituito dal seguente:
+
+"Le materie d'insegnamento sono:
+
+nel 10 anno di corso:
+
+Matematica Fisica Cultura generale nel campo della stampa Storia della scrittura Tipologia nel campo della stampa Disegno.
+
+nel 20 anno di corso:
+
+Merceologia nel campo della stampa Meccanica Tecniche della stampa Composizione della stampa Economia Studio degli stampati.
+
+nel 3° anno di corso:
+
+Aziendologia nel campo della stampa Diritto e legislazione nel campo della stampa Metodi della riproduzione grafica Prove sui materiali usati nella stampa Terminologia tecnica nel campo della stampa (1° quadrim.) Tecnica editoriale (20 quadrim.) Sono inoltre prescritte esercitazioni pratiche sia nella Scuola sia presso stabilimenti grafici".
+
+Art. 59. - E' abrogato e sostituito dal seguente:
+
+"Per essere ammessi al secondo corso, gli iscritti debbono aver ottenuto le attestazioni di frequenza in tutte le materie del primo corso e superato almeno quattro esami del I corso.
+
+Per essere ammessi al terzo corso, i provenienti dal 20 corso debbono aver ottenuto le attestazioni di frequenza in tutte le materie del 20 corso ed aver superato tutti gli esami del I corso ed almeno quattro del secondo".
+
+Art. 60. - Il primo comma e' abrogato e sostituito dal seguente:
+
+"Per essere ammessi a sostenere l'esame finale di diploma, consistente nella redazione di una monografia su argomento assegnato da docente della scuola scelto dal candidato e nella sua discussione, gli iscritti dovranno aver seguito tutti i tre corsi, superato gli esami su tutti gli insegnamenti di essi ed aver compiuto con esito favorevole le prescritte esercitazioni pratiche".
+
+Dopo l'art. 66 viene aggiunto il seguente nuovo articolo concernente la scuola di perfezionamento in elettrotecnica.
+
+Art. 67. - La scuola di perfezionamento in elettrotecnica ha la durata di due anni e comprende i seguenti insegnamenti impartiti presso il Politecnico di Torino per la laurea in ingegneria elettrotecnica:
+
+Complementi di matematica
+
+Elettrotecnica I
+
+Elettrotecnica II
+
+Misure elettriche
+
+Impianti elettrici I
+
+Macchine elettriche
+
+Controlli automatici
+
+Elettronica applicata
+
+Impianti elettrici II
+
+Misure sulle macchine e sugli impianti elettrici
+
+e due delle seguenti quattro materie, scelte tra quelle non ancora seguite dall'allievo nella precedente carriera scolastica:
+
+Costruzioni elettromeccaniche
+
+Applicazioni elettromeccaniche
+
+Impianti idroelettrici
+
+Impianti nucleo e termoelettrici.
+
+La distribuzione delle discipline suddette negli anni di corso e le relative precedenze sono stabilite annualmente nel piano degli studi.
+
+Inoltre saranno impartiti corsi di lezioni su argomenti speciali precisati ogni anno dal Consiglio di facolta' in base allo sviluppo della scienza elettrotecnica e indicati sull'apposito manifesto del corso.
+
+Gli insegnamenti saranno integrati da conferenze di carattere monografico, da esercitazioni e prove teoriche e sperimentali, da ricerche scientifiche e da visite e sopralluoghi.
+
+Alla scuola di perfezionamento in elettrotecnica possono essere iscritti i laureati in ingegneria ed in fisica e gli ufficiali delle forze armate che si trovino in possesso dei requisiti necessari per essere iscritti al terzo anno della facolta' di ingegneria.
+
+A domanda degli interessati, il direttore della scuola, su parere favorevole del Consiglio di facolta', puo' ammettere gli allievi direttamente al secondo anno, in base al loro curriculum di studi e ad eventuali esami di ammissione e puo' eventualmente esentarli da quegli esami prescritti nel programma che vengono riconosciuti equivalenti ad altri gia' da loro sostenuti.
+
+All'esame finale, consistente in una prova orale con discussione di un lavoro di carattere teorico e sperimentale svolto dal candidato, possono essere ammessi i laureati in ingegneria od in fisica".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 5 settembre 1967
+
+SARAGAT
+
+GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 7 novembre 1967 Atti del Governo, registro n. 214, foglio n. 118. - GRECO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto del Politecnico di Torino, approvato con [regio decreto 24 luglio 1942, n. 923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-07-24;923) e modificato con [regio decreto 5 settembre 1942, n. 1391](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-09-05;1391), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto del Politecnico di Torino, approvato con [regio decreto 24 luglio 1942, n. 923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-07-24;923) e modificato con [regio decreto 5 settembre 1942, n. 1391](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-09-05;1391) e successiva modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche del Politecnico anzidetto;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche del politecnico anzidetto;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -24,61 +201,92 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto del Politecnico di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 11. - All'elenco degli insegnamenti complementari del corso di laurea in architettura del triennio di applicazione sono aggiunti quelli di:  
   
-Dopo l'art 63 sono aggiunti i seguenti nuovi articoli relativi alle norme generali delle scuole annesse alla Facolta' di ingegneria, nonche' all'istituzione della scuola di specializzazione in Ingegneria mineraria.  
-Art. 64. - Le scuole di perfezionamento e di specializzazione hanno lo scopo di consentire agli allievi di ampliare le proprie conoscenze in un particolare ramo applicativo dell'ingegneria. Piu' precisamente le scuole di perfezionamento hanno come compito l'approfondimento della cultura scientifico-tecnica dell'allievo in una data branca dell'ingegneria, mentre le scuole di specializzazione hanno fini prevalentemente pratici e impartiscono all'allievo una maggiore capacita tecnica in un dato ramo dell'ingegneria.  
-I corsi di dette scuole hanno durata di almeno due anni.  
-Il Consiglio della Facolta' di ingegneria nomina ogni anno il direttore delle singole scuole.  
-Salvo eccezioni previste nei successivi articoli, possono iscriversi alle scuole di perfezionamento o di specializzazione i laureati in ingegneria. Non e' ammessa l'iscrizione contemporanea a due o piu' scuole o ad una scuola e ad un corso di perfezionamento, di cui al titolo VIII.  
-Il numero degli allievi che potranno essere iscritti ogni anno alle singole scuole verra' fissato dai rispettivi direttori, compatibilmente con le potenzialita' dei laboratori e con le esigenze dei corsi normali di ingegneria.  
-Gli allievi che hanno superato tutti gli esami di una scuola e sono in possesso della laurea prescritta sono ammessi a sostenere un esame finale di diploma consistente in una discussione orale su una tesi eseguita sotto la guida di un docente della scuola.  
-A chi abbia frequentato una scuola per la durata prescritta viene rilasciato un certificato della frequenza e degli esami eventualmente sostenuti. A chi abbia superato anche l'esame finale viene rilasciato un diploma di perfezionamento o di specializzazione.  
-Le Commissioni per gli esami di profitto per le singole materie sono costituite da tre insegnanti. La Commissione per l'esame finale e' costituita da cinque insegnanti. La composizione di tali Commissioni e' designata dal preside della Facolta' di ingegneria, sentito per ogni scuola il rispettivo direttore.  
-Art. 65. - Le tasse e soprattasse scolastiche dovute dagli allievi iscritti alle scuole di specializzazione o di perfezionamento della Facolta' di ingegneria sono fissate nella stessa misura di quella vigente per gli studenti dei normali corsi di laurea o di diploma e precisamente:  
+Istituzioni di storia dell'arte;  
+Strutture spaziali e relative sperimentazioni;  
+Sociologia urbana ed economia dello spazio;  
+Pianificazione territoriale urbanistica;  
+Elementi tecnici dell'urbanistica.  
+Art. 26. - Relativo agli esami di laurea e' modificato nel senso che il secondo comma e' abrogato e sostituito dal seguente:  
+"Per gli studenti di architettura la tesi consiste nella elaborazione di un progetto architettonico ed urbanistico o di uno studio attinente alle materie indicate all'art. 29; il laureando, entro il mese di febbraio comunichera' al preside l'argomento della tesi e quelli di tre sottotesi vistati dai professori che assegnarono gli argomenti".  
+Art. 27. - Il secondo comma e' abrogato e sostituito dal seguente: "Per gli studenti architetti la tesi e le sottotesi devono essere svolte con la guida dei professori che assegnarono gli argomenti".  
+Art. 29. - E' abrogato e sostituito dal seguente:  
+"Per gli studenti di architettura, l'argomento della tesi di laurea deve riguardare una delle seguenti materie:  
   
-tassa d'immatricolazione . . . . . . . . . . . . . . . . . . L. 5.000 tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 18.000 soprattassa annuale di esami di profitto . . . . . . . . . . L. 7.000 soprattassa per esame di diploma . . . . . . . . . . . . . . L. 3.000   
-L'ammontare dei contributi per le esercitazioni pratiche e per le altre prestazioni di cui gli allievi possono usufruire durante il corso di studi, viene determinato ogni anno. dal Consiglio di amministrazione del Politecnico per ciascuna scuola.  
-La tassa erariale di diploma ammonta a L. 6000  
-Art. 66. - La scuola di specializzazione in ingegneria mineraria, ha la durata di due anni accademici. Essa attua in particolare il programma di specializzazione previsto per i funzionari della carriera direttiva del ruolo tecnico del Corpo delle miniere.  
-Le materie di studio della scuola sono le seguenti:  
-1° Anno:  
-Fondamentali:  
-1) Mineralogia;  
-2) Geologia;  
-3) Tecnologie minerarie;  
-4) Geofisica mineraria.  
-Complementari:  
-5) Petrografia;  
-6) Geologia applicata.  
-2° Anno:  
-Fondamentali:  
-7) Giacimenti minerari;  
-8) Arte mineraria;  
-9) Impianti minerari;  
-10) Preparazione dei minerali.  
-Complementari:  
-11) Tecnologie metallurgiche;  
-12) Economia e legislazione mineraria.  
-In funzione dell'indirizzo perseguito dai singoli allievi il direttore della scuola puo' concedere che le materie complementari siano, sino ad un massimo di tre, sostituite con i seguenti altri insegnamenti:  
-Tecnica della perforazione petrolifera;  
-Tecnica dei giacimenti di idrocarburi;  
-Produzione degli idrocarburi.  
-Alla scuola, possono essere, iscritti:  
-a) i laureati in una Facolta' di ingegneria in Italia;  
-b) i funzionari della carriera direttiva del ruolo tecnico del Corpo delle miniere anche se sprovvisti della laurea in ingegneria.  
-All'esame finale di diploma sono ammessi solo i laureati in ingegneria.  
-Il direttore del corso, su conforme parere del Consiglio della Facolta' di ingegneria, puo' dispensare dall'obbligo della frequenza e dell'esame per singole materie quegli iscritti che gia' avessero seguito gli insegnamenti stessi nel loro precedente curriculum degli studi.  
+A - Composizione architettonica B - Urbanistica C - Caratteri distributivi degli edifici D - Caratteri stilistici e costruttivi dei monumenti E - Tecnologia dei materiali e tecnica delle costruzioni, o Scienza delle costruzioni.  
+Gli studenti, unitamente alla tesi di laurea dovranno svolgere tre sottotesi su argomenti relativi ai seguenti gruppi di materie:  
+I - Composizione architettonica - Estimo ed esercizio professionale 2 - Architettura degli interni, arredamento e decorazione - Caratteri distributivi degli edifici 3 - Caratteri stilistici e costruttivi dei monumenti - Restauro dei monumenti 4 - Urbanistica 5 - Tecnologia dei materiali e tecnica delle costruzioni - Scienza delle costruzioni 6 - Fisica tecnica - Impianti tecnici.  
+Per coloro che scelgono le tesi B, C, D, E e' obbligatorio che una delle tre sottotesi sia del gruppo I e precisamente di composizione; per coloro che scelgono la tesi E e' obbligatorio che una delle tre sottotesi sia del gruppo 3; per coloro che scelgono la tesi A, B, C, D e' obbligatorio che una delle 3 sottotesi sia del gruppo 5.  
+Le disposizioni contenute nell'art. 41 relative alla Scuola di perfezionamento in elettrotecnica "Galileo Ferraris" sono abrogate e sostituite dalle seguenti concernenti il ripristino del corso di perfezionamento in elettrotecnica "Galileo Ferraris".  
+Corso di perfezionamento in elettrotecnica "Galileo Ferraris"  
+Art. 41. - Il corso di perfezionamento in elettrotecnica "Galileo Ferraris" comprende i seguenti insegnamenti:  
+  
+Elettrotecnica generale e complementare; Misure elettriche;  
+Impianti elettrici; Costruzioni elettromeccaniche; Comunicazioni elettriche;  
+integrati da insegnamenti singoli su argomenti speciali.  
+Il direttore del corso e' il titolare di elettrotecnica.  
+In sua mancanza il direttore e' nominato dal Consiglio della facolta' di ingegneria.  
+Il corso ha la durata di un anno accademico ed e' suddiviso in due sezioni: elettromeccanica e comunicazioni.  
+Ad esso possono essere iscritti i laureati in ingegneria od in fisica.  
+L'esame finale consiste in una prova scritta ed in una orale.  
+A chi abbia compiuto il corso e superato tutti gli esami prescritti viene rilasciato un certificato degli esami superati.  
+La Commissione esaminatrice e' composta di cinque professori di ruolo, di un libero docente e di un membro estraneo all'insegnamento, scelto fra gli ingegneri che ricoprano cariche direttive in uffici tecnici dello Stato o che abbiano raggiunta meritata fama nel libero esercizio della professione.  
+Possono venire ammessi al corso anche gli ufficiali di artiglieria, genio e marina anche se sprovvisti del diploma di ingegnere".  
+Art. 53. - Relativo alla scuola diretta a fini speciali in scienze ed arti grafiche e' modificato nel senso che il primo ed il secondo comma sono abrogati e sostituiti dai seguenti:  
+"La durata del corso di studi e' di anni tre.  
+Possono esservi ammessi i cittadini italiani in possesso del diploma di maturita' classica, scientifica o artistica o diploma di abilitazione tecnica o magistrale o di titoli ritenuti equipollenti dal Consiglio di facolta', nonche' gli stranieri in grado di dimostrare la conoscenza della lingua italiana aventi titoli riconosciuti equipollenti dal medesimo Consiglio di facolta'".  
+Art. 56. - E' abrogato e sostituito dal seguente:  
+"Le materie d'insegnamento sono:  
+nel 10 anno di corso:  
+  
+Matematica Fisica Cultura generale nel campo della stampa Storia della scrittura Tipologia nel campo della stampa Disegno.  
+nel 20 anno di corso:  
+  
+Merceologia nel campo della stampa Meccanica Tecniche della stampa Composizione della stampa Economia Studio degli stampati.  
+nel 3° anno di corso:  
+  
+Aziendologia nel campo della stampa Diritto e legislazione nel campo della stampa Metodi della riproduzione grafica Prove sui materiali usati nella stampa Terminologia tecnica nel campo della stampa (1° quadrim.) Tecnica editoriale (20 quadrim.) Sono inoltre prescritte esercitazioni pratiche sia nella Scuola sia presso stabilimenti grafici".  
+Art. 59. - E' abrogato e sostituito dal seguente:  
+"Per essere ammessi al secondo corso, gli iscritti debbono aver ottenuto le attestazioni di frequenza in tutte le materie del primo corso e superato almeno quattro esami del I corso.  
+Per essere ammessi al terzo corso, i provenienti dal 20 corso debbono aver ottenuto le attestazioni di frequenza in tutte le materie del 20 corso ed aver superato tutti gli esami del I corso ed almeno quattro del secondo".  
+Art. 60. - Il primo comma e' abrogato e sostituito dal seguente:  
+"Per essere ammessi a sostenere l'esame finale di diploma, consistente nella redazione di una monografia su argomento assegnato da docente della scuola scelto dal candidato e nella sua discussione, gli iscritti dovranno aver seguito tutti i tre corsi, superato gli esami su tutti gli insegnamenti di essi ed aver compiuto con esito favorevole le prescritte esercitazioni pratiche".  
+Dopo l'art. 66 viene aggiunto il seguente nuovo articolo concernente la scuola di perfezionamento in elettrotecnica.  
+Art. 67. - La scuola di perfezionamento in elettrotecnica ha la durata di due anni e comprende i seguenti insegnamenti impartiti presso il Politecnico di Torino per la laurea in ingegneria elettrotecnica:  
+Complementi di matematica  
+Elettrotecnica I  
+Elettrotecnica II  
+Misure elettriche  
+Impianti elettrici I  
+Macchine elettriche  
+Controlli automatici  
+Elettronica applicata  
+Impianti elettrici II  
+Misure sulle macchine e sugli impianti elettrici  
+e due delle seguenti quattro materie, scelte tra quelle non ancora seguite dall'allievo nella precedente carriera scolastica:  
+  
+Costruzioni elettromeccaniche  
+Applicazioni elettromeccaniche  
+Impianti idroelettrici  
+Impianti nucleo e termoelettrici.  
+La distribuzione delle discipline suddette negli anni di corso e le relative precedenze sono stabilite annualmente nel piano degli studi.  
+Inoltre saranno impartiti corsi di lezioni su argomenti speciali precisati ogni anno dal Consiglio di facolta' in base allo sviluppo della scienza elettrotecnica e indicati sull'apposito manifesto del corso.  
+Gli insegnamenti saranno integrati da conferenze di carattere monografico, da esercitazioni e prove teoriche e sperimentali, da ricerche scientifiche e da visite e sopralluoghi.  
+Alla scuola di perfezionamento in elettrotecnica possono essere iscritti i laureati in ingegneria ed in fisica e gli ufficiali delle forze armate che si trovino in possesso dei requisiti necessari per essere iscritti al terzo anno della facolta' di ingegneria.  
+A domanda degli interessati, il direttore della scuola, su parere favorevole del Consiglio di facolta', puo' ammettere gli allievi direttamente al secondo anno, in base al loro curriculum di studi e ad eventuali esami di ammissione e puo' eventualmente esentarli da quegli esami prescritti nel programma che vengono riconosciuti equivalenti ad altri gia' da loro sostenuti.  
+All'esame finale, consistente in una prova orale con discussione di un lavoro di carattere teorico e sperimentale svolto dal candidato, possono essere ammessi i laureati in ingegneria od in fisica".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1965
+### Dato a Roma, addi' 5 settembre 1967
 
 SARAGAT GUI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 13 gennaio 1966
+Registrato alla Corte dei conti, addi' 7 novembre 1967
 
-Atti del Governo, registro n. 199, foglio n. 48. - VILLA
+Atti del Governo, registro n. 214, foglio n. 118. - GRECO

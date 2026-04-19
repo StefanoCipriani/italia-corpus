@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 905
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 902
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 905
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 902
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
@@ -12,75 +12,90 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio nazionale universitario;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Veduto il [parere della sezione prima del Consiglio di Stato n. 1902/74 del 14 febbraio 1975](https://e-justice.europa.eu/ecli/ECLI::::);
 
-Decreta:
---------
+Considerato che non appare opportuno, al momento, procedere ad una generale revisione delle norme statutarie di tutti gli atenei relativi alla direzione delle scuole di specializzazione e perfezionamento e degli istituti nonche' di scuole dirette a fini speciali, attualmente affidata esclusivamente ai professori di ruolo o fuori ruolo, in attesa del provvedimento relativo allo stato giuridico del personale docente;
 
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Sulla
+-----
 
-Articolo unico
---------------
+proposta del Ministro della pubblica istruzione; Decreta:
+
+Art. 1
+------
 
   
-Dopo l'art. 358, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli:  
+Lo statuto dell'Universita' di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+L'art. 154, relativo alla scuola di specializzazione in idroclimatologia medica e clinica termale, che muta la denominazione in quella di scuola di specializzazione in idrologia medica, e' soppresso e sostituito dal seguente:  
+Art. 154. - La scuola mira a creare una categoria di medici altamente qualificati e competenti nel campo della idrologia e della climatologia medica, compresa la talassologia, i quali possono esercitare un'attivita' specifica in particolare nelle stazioni termali e climatiche.  
+La durata del corso di studi e' di tre anni.  
+Non sono consentite in nessun caso abbreviazioni di corso.  
+Alla scuola sono ammessi i laureati in medicina e chirurgia in possesso, almeno all'inizio del corso, del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+Il numero totale massimo degli iscritti per i tre anni di corso e' di venticinque, in relazione alle attrezzature dei laboratori ed al personale assistente e tecnico degli istituti dove si svolgono gli insegnamenti.  
+L'insegnamento e le esercitazioni per gli specializzandi degli ultimi due anni si svolgono nei seguenti istituti:  
+clinica medica, patologia medica, medicina del lavoro, clinica dermosifilopatica, clinica ortopedica, clinica otorinolaringoiatrica, clinica pediatrica, clinica ostetrica e ginecologica, clinica chirurgica.  
+Tali cliniche mettono a disposizione quei casi che possono interessare sul piano didattico l'insegnamento della idroclimatologia e clinica termale.  
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+
+Art. 2
+------
+
   
-Scuola per tecnici di audiometria (Scuola diretta a fini speciali) Art. 359. - E' istituita ai sensi dell'art. 20 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), una scuola speciale di preparazione per tecnici di audiometria che ha sede presso la clinica otorinolaringoiatrica della Universita'.  
-Art. 360. - La durata del corso degli studi della scuola di preparazione per tecnici di audiometria e' di tre anni. L'indirizzo e' teorico-pratico. Il numero massimo complessivo degli iscritti alla scuola e' di quindici (cinque per anno di corso).  
-Art. 361. - Possono essere ammessi alla scuola coloro che siano in possesso del titolo di studio prescritto per l'ammissione all'Universita' o Istituto di istruzione universitaria.  
-Gli aspiranti debbono, nei termini regolamentari, presentare apposita domanda su carta legale diretta al rettore e corredata dei prescritti documenti e sostenere un esame di ammissione che avra' luogo nei giorni stabiliti dal rettore con apposito manifesto.  
-Le domande di iscrizione ad anni successivi al primo vanno presentate nei termini regolamentari.  
-Art. 362. - Alla scuola si accede previo esame di cultura generale su argomenti facenti parte dei normali programmi dei licei o degli istituti di istruzione secondaria, con particolare riguardo alla parte dell'insegnamento di fisica acustica.  
-La commissione giudicatrice viene nominata dal preside della facolta' di medicina e chirurgia ed e' composta dal direttore della scuola, presidente, e da due membri scelti fra professori di ruolo, incaricati e liberi docenti.  
-Art. 363. - Il direttore della scuola e' un professore di ruolo degli insegnamenti che afferiscono all'istituto policattedra clinica otorinolaringoiatrica dell'Universita' di Pavia.  
-Gli incarichi di insegnamento sono conferiti dal rettore, su proposta del consiglio di facolta' di medicina e chirurgia udito il direttore della scuola.  
-Art. 364. - L'anno accademico ha inizio e termine nelle date stabilite dalle leggi in vigore per l'istruzione universitaria.  
-Le date di inizio e termine delle lezioni sono di regola eguali a quelle fissate per l'anno accademico. Tali date, tuttavia, possono essere spostate per ragioni speciali inerenti la natura dei corsi.  
-Art. 365. - Le materie di insegnamento sono le seguenti:  
+Gli articoli 234, 235, 236, 237, 238, 239, 240, relativi alla scuola di specializzazione per medici laboratoristi, che muta la denominazione in quella di scuola di specializzazione in biologia clinica, sono soppressi e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in biologia clinica  
+Art. 234. - La scuola di specializzazione in biologia clinica ha sede presso l'istituto di chimica biologica - facolta' di medicina e chirurgia - Universita' di Pavia e conferisce il diploma di specialista in biologia clinica.  
+La scuola di specializzazione in biologia clinica ha lo scopo di preparare sul piano scientifico e tecnico i medici che intendano dedicarsi particolarmente alle analisi di laboratorio chimico-cliniche o microbiologiche applicate alla clinica.  
+Art. 235. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo e fuori ruolo di materia affine.  
+Art. 236. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+Art. 237. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione. Il numero massimo degli allievi e' di venti per anno di corso e' complessivamente di ottanta iscritti per l'intero corso di studi. L'ammissione al corso avviene per titoli ed esami.  
+Art. 238. - Le materie di insegnamento sono le seguenti:  
 1° Anno:  
-1) anatomia degli organi e dei sistemi audiofono-articolatori;  
-2) fisiologia degli organi e dei sistemi audiofono-articolatori;  
-3) elementi di fisica acustica e tecniche di fonometria;  
-4) psicologia generale;  
-5) elementi di audiologia;  
-6) elementi di fonetica e di linguistica.  
+chimica biologica generale;  
+fondamenti di chimico-fisica biologica;  
+batteriologia generale;  
+biochimica analitica I;  
+tecnica dei prelevamenti;  
+fisiopatologia I;  
+fondamenti di statistica biologica.  
 2° Anno:  
-1) tecniche audiometriche I;  
-2) audiometria infantile;  
-3) neuropsichiatria infantile;  
-4) tecniche di esplorazione vestibolare;  
-5) audiometria di massa e prevenzione della sordita'.  
+chimica biologica speciale di organi e tessuti;  
+fisiopatologia II;  
+ematologia ed ematochimica I;  
+batteriologia speciale;  
+immunologia e sierologia;  
+biochimica analitica II.  
 3° Anno:  
-1) tecniche audiometriche II;  
-2) patologia dell'udito, del linguaggio e dell'organo dell'equilibrio;  
-3) tecniche di protesizzazione acustica;  
-4) tecniche di audiometria obiettiva;  
-5) elementi di logopedia.  
-Art. 366. - L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni e dall'obbligo per gli allievi della frequenza per un periodo di due anni nel reparto di audiologia della clinica otorinolaringoiatrica.  
-La frequenza viene comprovata dalla attestazione rilasciata dagli insegnanti sul libretto di iscrizione.  
-L'attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.  
-Art. 367. - Le commissioni per gli esami di profitto e di diploma sono nominate dal preside della la facolta' di medicina e chirurgia, su proposta del direttore della scuola. Le commissioni per gli esami di profitto sono composte di tre membri: il direttore della scuola, presidente, e da due insegnanti della scuola stessa.  
-La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente, e da quattro insegnanti della scuola stessa o da altri docenti.  
-Ogni commissario ha a sua disposizione dieci punti.  
-L'esame di diploma consiste, a scelta del candidato, o nella discussione di una tesi scritta su argomento riguardante le materie di insegnamento, eventualmente integrata da una prova pratica stabilita dalla commissione esaminatrice, o in un esame generale teorico-pratico.  
-I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola ma, se al secondo anno non sia loro riconosciuta la idoneita', saranno senz'altro esclusi da ulteriori prove.  
-Agli allievi che avranno superato l'esame finale verra' rilasciato il diploma di tecnico in audiometria.  
-Art. 368. - Per essere ammessi a frequentare gli anni di corso successivi al primo, gli iscritti debbono aver superato gli esami dell'anno precedente. Alla fine del terzo anno di corso, per essere ammessi all'esame di diploma, gli iscritti debbono aver superato tutti gli esami prescritti.  
-Art. 369. - Gli esami di profitto e di diploma si danno in due sessioni: la prima estiva ha inizio subito dopo la chiusura annuale dei corsi e la seconda autunnale, un mese innanzi il principio del nuovo anno accademico.  
+nozioni di igiene e legislazione sanitaria;  
+ematologia ed ematochimica II;  
+chimica clinica;  
+immunochimica;  
+parassitologia;  
+virologia.  
+4° Anno:  
+analisi biologico-tossicologiche;  
+endocrinologia clinica e dosaggi ormonali;  
+micologia;  
+enzimologia clinica;  
+automazione e controlli di qualita';  
+metodiche microanalitiche;  
+microscopia clinica e citodiagnostica.  
+Art. 239. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.  
+Art. 240. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi. Al termine del corso di studi per il conseguimento del diploma di specialista in biologia clinica gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione e nell'espletamento di prove pratiche.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
@@ -94,4 +109,4 @@ Visto, il Guardasigilli: MORLINO
 
 Registrato alla Corte dei conti, addi' 26 aprile 1980
 
-Registro n. 38 Istruzione, foglio n. 34
+Registro n. 38 Istruzione, foglio n. 40

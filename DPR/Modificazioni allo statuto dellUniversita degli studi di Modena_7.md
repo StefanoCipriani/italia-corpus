@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1066
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 giugno 1967 n. 616
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1066
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 giugno 1967 n. 616
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Modena.
 ------------------------------------------------------------------
@@ -10,82 +10,93 @@ Modificazioni allo statuto dell'Universita' degli studi di Modena.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Modena e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione:   
+Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, numero 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Sulla proposta del Ministro della pubblica istruzione;   
+Decreta:  
   
-Decreta:   
+Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-  
-L'art. 19 e' modificato nel senso che presso la facolta' di giurisprudenza e' istituito l'istituto giuridico.   
-Dopo l'art. 39 e' inserito il seguente nuovo articolo, con lo spostamento della numerazione degli articoli successivi, relativo agli istituti annessi alla facolta' di medicina e chirurgia:   
-Art. 40. - Alla facolta' di medicina e chirurgia sono annessi i seguenti istituti:   
-istituto di clinica medica generale e terapia medica;   
-istituto di clinica chirurgica e terapia chirurgica;   
-istituto di clinica dermosifilopatica;   
-istituto di clinica delle malattie nervose e mentali;   
-istituto di clinica oculistica;   
-istituto di clinica ortopedica e traumatologica;   
-istituto di clinica odontoiatrica;   
-istituto di clinica ostetrica e ginecologica;   
-istituto di clinica otorinolaringoiatrica;   
-istituto di clinica pediatrica;   
-istituto di patologia speciale chirurgica e propedeutica clinica;   
-istituto di patologia speciale medica e metodologia clinica;   
-istituto di radiologia e terapia fisica;   
-istituto di tisiologia e malattie dell'apparato respiratorio; istituto di clinica delle malattie infettive e delle malattie tropicali;   
-istituto di semeiotica medica;   
-istituto di anatomia umana normale;   
-istituto di anatomia e istologia patologica;   
-istituto di medicina legale e delle assicurazioni;   
-istituto di farmacologia;   
-istituto di fisiologia umana;   
-istituto di igiene;   
-istituto di patologia generale;   
-istituto di chimica biologica.   
-Art. 59. - Alla facolta' di scienze matematiche, fisiche e naturali sono annessi i seguenti istituti:   
-istituto matematico;   
-istituto di fisica;   
-istituto di chimica generale;   
-istituto di chimica fisica;   
-istituto di chimica organica;   
-istituto di geologia;   
-istituto di mineralogia e petrografia;   
-istituto di paleontologia;   
-istituto di zoologia;   
-istituto di anatomia comparata;   
-istituto di orto botanico;   
-istituto di disegno;   
-osservatorio geofisico.   
-Dopo l'art. 68, e con il conseguente spostamento della numerazione degli articoli successivi, e' aggiunto il seguente nuovo articolo relativo agli istituti annessi alla facolta' di farmacia:   
-Art. 69. - Alla facolta' di farmacia e' annesso il seguente istituto:   
-istituto di chimica farmaceutica e tossicologica.   
-Dopo l'art. 71, e con il conseguente spostamento della numerazione degli articoli successivi, e aggiunto il seguente nuovo articolo relativo agli istituti annessi alla facolta' di economia e commercio:   
-Art. 72. - Alla facolta' di economia e commercio sono annessi i seguenti istituti:   
-istituto economico;   
-istituto economico-aziendale;   
-istituto statistico-matematico;   
-istituto giuridico.   
+Art. 48, relativo al corso di laurea in Fisica e' modificato nel senso che l'ottavo comma e' abrogato e sostituito dal seguente:  
+Alla fine del primo biennio si richiede la prova di conoscenza della lingua inglese e di una seconda lingua a scelta fra francese, russo e tedesco. Detta prova si svolgera' con le stesse modalita' di tutti gli altri esami, e verra' qualificata se positiva con sufficiente, buona, ottima; se negativa con insufficiente.  
+Nello stesso corso di laurea il tredicesimo comma e' abrogato e sostituito dal seguente:  
+Sono insegnamenti complementari (da cui potranno essere prescelti quelli a scelta dello studente):  
+1) Analisi funzionale;  
+2) Analisi superiore;  
+3) Astrofisica;  
+4) Astronomia;  
+5) Biofisica;  
+6) Calcolo delle probabilita';  
+7) Chimica fisica;  
+8) Chimica organica;  
+9) Chimica teorica;  
+10) Cibernetica e teoria delle informazioni;  
+11) Elettronica;  
+12) Elettronica applicata;  
+13) Elettrotecnica;  
+14) Istituzioni di analisi superiore;  
+15) Istituzioni di fisica matematica;  
+16) Istituzioni di fisica nucleare;  
+17) Istituzioni di geometria superiore;  
+18) Fisica atomica;  
+19) Fisica delle basse temperature;  
+20) Fisica delle particelle elementari;  
+21) Fisica dello stato solido;  
+22) Fisica del plasma;  
+23) Fisica molecolare;  
+24) Fisica nucleare;  
+25) Fisica superiore;  
+26) Fisica tecnica;  
+27) Fisica teorica;  
+28) Fisica terrestre (Geofisica);  
+29) Geodesia;  
+30) Geologia;  
+31) Geometria differenziale;  
+32) Matematiche complementari;  
+33) Meccanica analitica;  
+34) Meccanica quantistica;  
+35) Meccanica statistica;  
+36) Meccanica superiore;  
+37) Mineralogia;  
+38) Misure elettriche;  
+39) Onde elettromagnetiche;  
+40) Ottica elettronica;  
+41) Radioattivita';  
+42) Spettroscopia;  
+43) Storia della fisica;  
+44) Teoria della relativita';  
+45) Teoria delle funzioni;  
+46) Teoria e applicazioni delle macchine calcolatrici;  
+47) Termodinamica.  
+Art. 49. - All'elenco degli insegnamenti complementari del corso di laurea in Chimica sono aggiunti i seguenti:  
+Indirizzo organico-biologico:  
+21) Chimica delle sostanze naturali;  
+22) Chimica fisica organica.  
+Indirizzo inorganico chimico-fisico:  
+18) Chimica metallurgica;  
+19) Chimica dei composti di coordinazione;  
+20) Strutturistica Roentgenografica elettronica e neutronica;  
+21) Chimica analitica applicata.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1978
+### Dato a Roma, addi' 13 giugno 1967
 
-PERTINI PEDINI
+SARAGAT GUI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 7 maggio 1979
+Registrato alla Corte dei conti, addi' 20 luglio 1967
 
-Registro n. 33 Istruzione, foglio n. 83
+Atti del Governo, registro n. 212, foglio n. 59. - GRECO

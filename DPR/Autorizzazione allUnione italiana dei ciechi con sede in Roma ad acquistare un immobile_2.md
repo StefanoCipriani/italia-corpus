@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1973 n. 114
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 novembre 1970 n. 1177
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1973 n. 114
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 novembre 1970 n. 1177
+================================================================
 
 Autorizzazione all'Unione italiana dei ciechi, con sede in Roma, ad acquistare un immobile.
 -------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-114. Decreto del Presidente della Repubblica 5 febbraio 1973, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, con sede in Roma, viene autorizzata ad acquistare al complessivo convenuto prezzo di L. 10.200.000, dal sig. Agostino Ruisecco, un appartamento sito in Genova, via Caffaro, 6, da destinare a sede della locale sezione interprovinciale dell'Unione italiana dei ciechi.  
+1177. Decreto del Presidente della Repubblica 20 novembre 1970, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, con sede centrale in Roma, viene autorizzata ad acquistare al complessivo convenuto prezzo di lire 14.000.000, dalla sig.ra Ornella Dejak in Bobisutti (Bobisut), un appartamento di vani sette ed accessori al 2° piano del fabbricato sito in Trieste, via Battisti n. 2.  
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 3 aprile 1973  
-Atti di Governo, registro n. 257, foglio n. 35. - VALENTINI
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 9 gennaio 1971  
+Atti del Governo, registro n. 240, foglio n. 8. - CARUSO

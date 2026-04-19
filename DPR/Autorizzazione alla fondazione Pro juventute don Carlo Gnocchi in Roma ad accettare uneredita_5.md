@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1977 n. 415
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1974 n. 263
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1977 n. 415
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1974 n. 263
 =============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un'eredita'.
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-415. Decreto del Presidente della Repubblica 2 maggio 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dal sig. Cesare Bellini, con testamento pubblico 5 dicembre 1969, reso noto a rogito notaio dott. Rodolfo Parigi in data 29 ottobre 1973, n. 159960 di repertorio e n. 15066 di raccolta, registrato a Milano il 9 novembre 1973, con il n. 1384/71 M, serie E, consistente in beni mobili e titoli azionari per un valore di L. 67.961.364.  
+263. Decreto del Presidente della Repubblica 21 maggio 1974, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in beni mobili (denaro e titoli di credito) ed immobili (villino con terreno in Gallicano del valore presunto di L. 14.197.357), disposta dal sig. Alberto Bagnoli con testamento olografo del 15 maggio 1968, pubblicato a rogito del notaio avv.  
+Pietro Fea in data 20 ottobre 1972 (n. 547661 di repertorio, n. 11306 di raccolta), registrato a Roma il 6 novembre 1972 (n. 21028 vol. 2581).  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 15 luglio 1977  
-Registro n. 6 Presidenza, foglio n. 249
+Visto, il Guardasigilli: ZAGARI  
+Registrato alla Corte dei conti, addi' 2 luglio 1974  
+Atti di Governo, registro n. 4, foglio n. 37. - SCIARRETTA

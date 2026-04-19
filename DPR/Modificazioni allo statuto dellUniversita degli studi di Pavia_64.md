@@ -1,134 +1,128 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 868
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 917
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 868
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 917
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1701](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1701), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla
+-----
+
+proposta del Ministro della pubblica istruzione; Decreta:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Dopo l'art. 337, e con lo spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo:  
   
-Decreta:  
+NORME GENERALI  
   
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 338. - Le tasse e soprattasse che gli iscritti alle scuole dirette a fini speciali di pertinenza della facolta' di medicina e chirurgia sono tenuti a pagare sono quelle previste dall'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7). L'importo dei contributi speciali per biblioteche e per ogni scuola destinati a spese di laboratorio, di esercitazioni e di riscaldamento e' fissato annualmente dal consiglio di amministrazione su proposta del senato accademico, udita la facolta'.  
+
+Art. 2
+------
+
   
-Gli articoli da 210 a 216 relativi alla scuola di specializzazione per medici laboratoristi sono abrogati e sostituiti dai seguenti:  
+Gli articoli 347, 356, 368, 380, 388, 399, ultimo comma, e 415, relativi all'importo delle tasse per le seguenti scuole: di tecnici di istituti medico-biologici, di ortottisti, di terapisti della riabilitazione, di massaggiatori e massofisioterapisti, di dietologia e dietetica applicata, di tecnici di radiologia medica, di tecnici di igiene ambientale e del lavoro, sono soppressi.  
+
+Art. 3
+------
+
   
-Scuola di specializzazione per medici laboratoristi  
-  
-Art. 210. - La scuola di specializzazione per medici laboratoristi ha lo scopo di preparare sul piano scientifico e tecnico i medici che intendano dedicarsi particolarmente alle analisi di laboratorio applicate alla clinica e rilascia il diploma di "Specialista in analisi cliniche di laboratorio".  
-Art. 211. - Possono essere ammessi i laureati in medicina e chirurgia.  
-Art. 212. - Il corso ha la durata di tre anni ed ha luogo negli istituti di chimica biologica e di microbiologia, ovvero in loro mancanza presso gli istituti dove le suddette cattedre hanno sede.  
-Art. 213. - Gli iscritti al primo anno non potranno superare il numero di 20, con un numero complessivo nei tre anni di 60. Nel caso di domande eccedenti, la selezione verra' effettuata mediante concorso per titoli.  
-Art. 214. - La direzione della scuola viene assunta dai professori di ruolo di chimica biologica e di microbiologia.  
-Art. 215. - Gli insegnamenti impartiti dalla scuola sono distribuiti nei tre anni come segue:  
-  
+L'art. 407 (ex 354), relativo all'ordinamento degli studi della scuola per tecnici di igiene ambientale e del lavoro, e' sostituito dal seguente:  
+Art. 407. - Il corso comprende lezioni teoriche ed esercitazioni pratiche. Le materie di insegnamento sono le seguenti:  
 1° Anno:  
-1) Fisiologia;  
-2) Patologia generale;  
-3) Chimica biologica generale;  
-4) Batteriologia;  
-5) Nozioni di igiene applicata al laboratorio di analisi cliniche;  
-6) Tecnica dei prelevamenti;  
-7) Tecniche di laboratorio.  
-  
+chimica;  
+biologia generale;  
+fisica applicata all'igiene;  
+microbiologia;  
+nozioni di epidemiologia, demografia e statistica sanitaria; tecniche di prelevamento ed analisi di campioni di aria, suolo, alimenti (negli ambienti di vita e di lavoro).  
 2° Anno:  
-8) Batteriologia speciale;  
-9) Chimica biologica applicata;  
-10) Fisica-chimica biologica;  
-11) Parassitologia e tecniche relative;  
-12) Micologia.  
+chimica analitica (microanalisi);  
+igiene dell'ambiente fisico e sociale;  
+nozioni di tecnologia del lavoro industriale ed agricolo;  
+nozioni di tossicologia;  
+organizzazione del lavoro;  
+legislazione ed organizzazione sanitaria.  
+Le esercitazioni pratiche sono biennali e comprendono:  
+1) tecniche di prelievo e/o rilevamento di:  
+aria;  
+acqua;  
+suolo;  
+liquidi biologici;  
+alimenti;  
+agenti fisici;  
+2) tecniche analitiche di:  
+aria;  
+acqua (analisi chimiche e batteriologiche);  
+suolo;  
+liquidi biologici;  
+agenti fisici.  
+
+Art. 4
+------
+
   
-3° Anno:  
-13) Nozioni di statistica biologica;  
-14) Nozioni di immunochimica applicata;  
-15) Virologia e tecniche relative;  
-16) Microscopia clinica;  
-17) Immunologia e tecniche relative;  
-18) Identificazione di tracce biologiche;  
-19) Tecnica ematologica di laboratorio.  
+Dopo l'art. 415, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli:  
   
-Art. 216. - L'esame di diploma si svolge con le norme generali del testo unico universitario.  
+Scuola per tecnici cosmetologi (scuola diretta a fini speciali)  
   
-Dopo l'art. 216, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in medicina preventiva dei lavoratori e psicotecnica:  
-  
-Scuola di specializzazione in medicina preventiva dei lavoratori e psicotecnica  
-  
-Art. 217. - La scuola di specializzazione in medicina preventiva dei lavoratori e psicotecnica, che conferisce il titolo di specialista in medicina preventiva dei lavoratori e psicotecnica a laureati in medicina e chirurgia, e' istituita presso l'istituto di medicina preventiva dei lavoratori e psicotecnica dell'Universita' degli studi di Pavia.  
-La direzione della scuola e' affidata al titolare di medicina preventiva dei lavoratori e psicotecnica di detta Universita'.  
-La scuola dispone delle attrezzature, delle opportunita' didattiche dell'istituto di medicina preventiva dei lavoratori e psicotecnica.  
-Inoltre potra' disporre delle attrezzature di istituti i cui docenti collaboreranno allo svolgimento dei nuovi insegnamenti.  
-Art. 218. - Durante il corso, che ha la durata di tre anni, le lezioni relative alle materie indicate nel piano verranno integrate da esercitazioni di ricerca diagnostica differenziale, di ricerca ecologica, di valutazione medico-biologica e di controllo tecnico dei limiti di sicurezza nel lavoro. Tali esercitazioni saranno collegate a visite didattiche negli ambienti di lavoro. La frequenza alle lezioni, alle esercitazioni e alle visite negli ambienti di lavoro e' obbligatoria secondo le modalita' che saranno enunciate dalla direzione del corso e avranno per fine la programmazione e la organizzazione pratica della medicina preventiva dei lavoratori e psicotecnica nel lavoro agricolo, artigianale e industriale.  
-Al 3° anno di corso le esercitazioni si svolgeranno sotto forma di ricerche di gruppo interdisciplinare per la costruzione e la validazione di modelli operativi.  
-Art. 219. - Il numero massimo degli iscritti e' di 20 per anno di corso. La selezione dei candidati aspiranti all'ammissione avverra' per titoli ed esami.  
-Art. 220. - Alla fine di ogni anno i medici chirurghi specializzandi che abbiano ottenuto la firma di frequenza, dovranno sostenere un esame di profitto nelle materie di insegnamento annuale.  
-Art. 221. - L'esame di diploma consiste nella discussione di una dissertazione scritta su un argomento di medicina preventiva dei lavoratori e psicotecnica che deve essere approvato dalla direzione della scuola.  
-La dissertazione deve essere presentata per l'approvazione almeno un mese prima delle prove di esame. Le commissioni per gli esami di profitto e gli esami di diploma saranno nominate secondo le norme generali.  
-Il piano di studio e' il seguente:  
-  
+Art. 416. - E' istituita presso l'istituto di clinica dermatologica dell'Universita' di Pavia una scuola per la preparazione di personale tecnico specializzato in cosmetologia. La scuola per cosmetologi ha lo scopo di impartire agli allievi con unita' di indirizzo e metodo scientifico tutte le nozioni teoriche e pratiche per ben esercitare l'attivita' di cosmetologo.  
+Art. 417. - La durata del corso degli studi della scuola di preparazione per cosmetologi e' di due anni accademici. Alla scuola possono essere ammessi allievi di ambo i sessi aventi il diploma di scuola media di secondo grado.  
+Art. 418. - Al primo anno della scuola si accede previo esame di cultura generale ed attitudinale davanti ad una commissione composta dal direttore della scuola e da due insegnanti della scuola stessa.  
+L'esame di ammissione avra' luogo entro il mese di ottobre di ciascun anno in un giorno stabilito dalla facolta' di medicina e chirurgia su proposta del direttore della scuola. In casi particolari e' possibile l'ammissione al secondo anno qualora il direttore della scuola ne ravvisi la necessita'.  
+Art. 419. - Il numero massimo degli allievi che possono essere ammessi ad ogni anno di corso della scuola e' di trenta.  
+Art. 420. - Il direttore della scuola e' il direttore dell'istituto di clinica dermatologica dell'Universita' di Pavia che puo' nominare direttore dei corsi uno dei docenti della scuola. La scuola e' sotto la vigilanza della facolta' di medicina e chirurgia. Gli insegnanti della scuola sono proposti dal direttore della stessa, approvati dalla facolta' di medicina e chirurgia e nominati dal rettore. Essi possono essere scelti fra i professori ufficiali, fra i docenti, fra gli aiuti e gli assistenti della facolta' di medicina e chirurgia o di altra facolta' dell'Universita' di Pavia o di altre universita', o tra persone di riconosciuta competenza anche al di fuori dell'ambito universitario.  
+Art. 421. - Le materie di insegnamento sono le seguenti:  
 1° Anno:  
-Dottrina generale della medicina preventiva;  
-Dottrina generale della medicina preventiva dei lavoratori e psicotecnica.  
-  
+dermatologia estetica;  
+chimica cosmetologica;  
+igiene cosmetologica;  
+cosmetologia applicata;  
+nozioni di fisica.  
 2° Anno:  
-Ecologia umana e ecologia medica dei lavoratori;  
-Tossicologia dei lavoratori;  
-Basi biologiche, cliniche, medico-legali per l'abilitazione e la riabilitazione al lavoro specifico;  
-Definizione biologica, medica, psicofisiologica dei limiti di sicurezza consentiti nel lavoro.  
-  
-3° Anno:  
-Organizzazione e metodologia della medicina preventiva dei lavoratori e psicotecnica in funzione dei rischi connessi al lavoro nell'uomo e nella donna nell'eta' evolutiva, nell'eta' adulta e nella senescenza.  
-  
-Il piano di studio sara' svolto mediante le seguenti materie di insegnamento:  
-  
-1° Anno:  
-1) Basi biologiche e cliniche della medicina preventiva (evoluzione del processo scientifico e costruzione di modelli operativi in medicina preventiva);  
-2) Elementi di organizzazione del lavoro artigianale, agricolo, industriale (aggiornamento sul valore e sul significato culturale e socio-economico della organizzazione del lavoro agli effetti della salute dei lavoratori);  
-3) Fisiologia della capacita' del lavoro e della fatica (teoria della fatica, fatica ischemica; fattori condizionati di origine endogena ed esogena);  
-4) Psicologia e psicofisiologia della capacita' di lavoro e della fatica (teorie sulla motivazione; fatica sensoriale; fatica mentale; vigilanza);  
-5) Capacita' di lavorare e fatica nella malattia (malattie metaboliche, endocrine, neurologiche, sensoriali, ecc.);  
-6) Basi biologiche e cliniche della medicina preventiva dei lavoratori e psicotecnica (evoluzione del processo scientifico e costruzione dei modelli operativi in medicina preventiva dei lavoratori e psicotecnica).  
-  
-2° Anno:  
-1) Effetti dei fattori ambientali sui sistemi biologici (mutageni, ecc.);  
-2) Analisi dei sistemi in ecologia umana;  
-3) Ecologia medica dei lavoratori (distribuzione delle malattie dei lavoratori in rapporto alla natura del loro lavoro);  
-4) Tossicologia dei lavoratori morfologica, metabolica e comportamentale;  
-5) Basi biologiche e cliniche per l'abilitazione e la riabilitazione al lavoro;  
-6) Basi medico-legali per l'abilitazione e la riabilitazione al lavoro;  
-7) Definizione biologica, medica, psicofisiologica dei limiti di sicurezza consentiti nel lavoro.  
-  
-3° Anno:  
-1) Controllo tecnico e medico dei limiti di sicurezza consentiti nei posti di lavoro e prevenzione della tossicologia dei lavoratori;  
-2) Controllo tecnico e medico degli scambi di energia e prevenzione della fatica dei lavoratori;  
-3) Controllo psicofisiologico per la prevenzione della patologia sensoriale e della psicopatologia dei lavoratori;  
-4) Controllo medico della sicurezza del lavoro e prevenzione degli infortuni dei lavoratori;  
-5) Organizzazione e metodologia della prevenzione medica in funzione dei rischi connessi al lavoro nell'uomo e nella donna in eta' evolutiva, in eta' adulta e nella senescenza.  
-  
+nozioni di patologia dermatologica;  
+massoterapia cosmetologica;  
+nozioni di dermatologia correttiva;  
+nozioni di chirurgia estetica.  
+Art. 422. - La frequenza alle lezioni teoriche e alle esercitazioni pratiche e' obbligatoria. Per la validita' dell'anno scolastico l'allievo deve partecipare ai due terzi delle lezioni sia teoriche che pratiche.  
+Art. 423. - Le lezioni verranno impartite agli allievi nelle aule messe a disposizione della clinica dermatologica. I programmi di insegnamento e gli orari vengono predisposti dal direttore della scuola ed approvati dal consiglio della facolta' di medicina e chirurgia. La sorveglianza degli iscritti, per quanto riguarda la loro attivita' pratica, spetta al direttore della scuola. Il tirocinio sara' compiuto dagli allievi sotto la guida degli insegnanti della scuola presso la clinica dermatologica di Pavia, nonche', qualora si rendesse necessario, presso altri istituti ed associazioni specialistiche.  
+Art. 424. - Per essere ammessi a sostenere gli esami di diploma gli allievi dovranno avere seguito il corso, superato gli esami di tutti gli insegnamenti prescritti e avere compiuto, con esito favorevole, tutte le esercitazioni pratiche previste. Non possono essere ammessi al secondo anno gli allievi che non hanno superato gli esami attinenti alle materie del primo anno.  
+Art. 425. - Le commissioni per gli esami di profitto sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Le commissioni sono composte da tre membri: dal professore ufficiale della materia, presidente; dal professore ufficiale di materia affine e da un libero docente cultore della materia. Ogni commissario ha a disposizione dieci punti.  
+Art. 426. - L'esame di diploma consiste in un esame orale sui temi trattati durante il corso, ed eventualmente da una prova pratica stabilita dalla commissione esaminatrice. L'esame di diploma viene sostenuto davanti ad una commissione di cinque membri scelti fra i docenti della scuola nominati dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Ogni commissario ha a disposizione dieci punti. I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza nella scuola, ma se al secondo anno non sia loro riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove. Agli allievi che avranno superato l'esame finale viene rilasciato il diploma di tecnico cosmetologo.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1974
+### Dato a Roma, addi' 31 ottobre 1979
 
-LEONE MALFATTI
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 3 marzo 1975
+Registrato alla Corte dei conti, addi' 28 maggio 1980
 
-Atti di Governo, registro n. 8, foglio n. 162
+Registrato n. 50 Istruzione, foglio n. 114

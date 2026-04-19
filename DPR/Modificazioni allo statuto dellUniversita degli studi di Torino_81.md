@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 aprile 1958 n. 877
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1031
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 aprile 1958 n. 877
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1031
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Torino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788) e successivi;
+Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,153 +18,44 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello Statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[articolo 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Torino e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 80, relativo ai titoli di ammissione alla Scuola di perfezionamento in psicologia, in pedagogia e in psico-pedagogia, annessa alla Facolta' di magistero, e' cosi' integrato: "Titolo di ammissione e' la laurea in qualsiasi disciplina, compresi i diplomi conseguiti al termine dei corsi quadriennali degli ex Istituti superiori di magistero".
+Articolo unico
+--------------
 
-Dopo l'art. 185, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione del Corso di perfezionamento in medicina scolastica, con il conseguente spostamento della numerazione degli articoli successivi.
-
-Corso di perfezionamento in medicina scolastica
-
-Art. 186. - E' istituito presso la Facolta' di medicina e chirurgia un Corso di perfezionamento in medicina scolastica.
-
-Il Corso ha sede nella Clinica pediatrica universitaria e la direzione e' affidata al suo direttore.
-
-Il materiale didattico ed i locali adibiti all'insegnamento sono anche quelli della Clinica pediatrica.
-
-Art. 187. - Il Corso ha la durata di un anno accademico e di questo ne segue il calendario.
-
-Art. 188. - Possono iscriversi al Corso i laureati in medicina e chirurgia.
-
-Gli iscritti sono tenuti alla frequenza dei singoli insegnamenti, internati, esercitazioni, tirocini pratici e conferenze integrative.
-
-Art. 189. - Per ogni materia di insegnamento, o per gruppi di esse, dovra' essere sostenuto l'esame di profitto alla fine del corso. Per l'ammissione agli esami e' necessario aver conseguita l'attestazione di frequenza, sia agli insegnamenti fondamentali che alle conferenze.
-
-Art. 190. - Per il conseguimento del certificato di frequenza e profitto occorre aver superato l'esame finale, che consiste nella presentazione e discussione di una dissertazione scritta, con contributo personale, su un tema attinente a materia di insegnamento del Corso, assegnato dal direttore.
-
-Art. 191. - Gli insegnamenti impartiti nel Corso sono i seguenti:
-
-Fondamentali: (con esame alla fine del corso):
-
-a) Auxologia e fisiopatologia dell'accrescimento.
-
-Esercitazioni;
-
-b) Igiene scolastica;
-
-c) Legislazione sanitaria scolastica;
-
-d) Diagnostica delle malattie infettive contagiose dell'infanzia. Internato presso la Clinica pediatrica;
-
-e) Profilassi antitubercolare e delle malattie infettive.
-
-Tirocinio pratico;
-
-f) Psicopedagogia ed orientamento professionale. Esercitazioni;
-
-g) Neuropsichiatria infantile.
-
-Conferenze: (senza esame: obbligo di frequenza):
-
-Neuropsichiatria dell'eta' evolutiva;
-
-Oftalmologia scolastica;
-
-Nozioni sugli ordinamenti scolastici;
-
-Reumatologia infantile;
-
-Medicina sportiva dell'eta' evolutiva;
-
-Dietetica nelle comunita' infantile;
-
-Dermatologia.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 2 aprile 1958
-
-GRONCHI
-
-MORO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 12 settembre 1958 Atti del Governo, registro n. 114, foglio n. 15. - RELLEVA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788) e successivi;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello Statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
-  
-Decreta:   
-  
-Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 80, relativo ai titoli di ammissione alla Scuola di perfezionamento in psicologia, in pedagogia e in psico-pedagogia, annessa alla Facolta' di magistero, e' cosi' integrato: "Titolo di ammissione e' la laurea in qualsiasi disciplina, compresi i diplomi conseguiti al termine dei corsi quadriennali degli ex Istituti superiori di magistero".   
-Dopo l'art. 185, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione del Corso di perfezionamento in medicina scolastica, con il conseguente spostamento della numerazione degli articoli successivi.   
-  
-Corso di perfezionamento in medicina scolastica   
-  
-Art. 186. - E' istituito presso la Facolta' di medicina e chirurgia un Corso di perfezionamento in medicina scolastica.   
-Il Corso ha sede nella Clinica pediatrica universitaria e la direzione e' affidata al suo direttore.   
-Il materiale didattico ed i locali adibiti all'insegnamento sono anche quelli della Clinica pediatrica.   
-Art. 187. - Il Corso ha la durata di un anno accademico e di questo ne segue il calendario.   
-Art. 188. - Possono iscriversi al Corso i laureati in medicina e chirurgia.   
-Gli iscritti sono tenuti alla frequenza dei singoli insegnamenti, internati, esercitazioni, tirocini pratici e conferenze integrative.   
-Art. 189. - Per ogni materia di insegnamento, o per gruppi di esse, dovra' essere sostenuto l'esame di profitto alla fine del corso. Per l'ammissione agli esami e' necessario aver conseguita l'attestazione di frequenza, sia agli insegnamenti fondamentali che alle conferenze.   
-Art. 190. - Per il conseguimento del certificato di frequenza e profitto occorre aver superato l'esame finale, che consiste nella presentazione e discussione di una dissertazione scritta, con contributo personale, su un tema attinente a materia di insegnamento del Corso, assegnato dal direttore.   
-Art. 191. - Gli insegnamenti impartiti nel Corso sono i seguenti:   
-Fondamentali: (con esame alla fine del corso):   
-a) Auxologia e fisiopatologia dell'accrescimento.  
-Esercitazioni;   
-b) Igiene scolastica;   
-c) Legislazione sanitaria scolastica;   
-d) Diagnostica delle malattie infettive contagiose dell'infanzia. Internato presso la Clinica pediatrica;   
-e) Profilassi antitubercolare e delle malattie infettive.  
-Tirocinio pratico;   
-f) Psicopedagogia ed orientamento professionale. Esercitazioni;  
-g) Neuropsichiatria infantile.   
-Conferenze: (senza esame: obbligo di frequenza):   
-Neuropsichiatria dell'eta' evolutiva;   
-Oftalmologia scolastica;   
-Nozioni sugli ordinamenti scolastici;   
-Reumatologia infantile;   
-Medicina sportiva dell'eta' evolutiva;   
-Dietetica nelle comunita' infantile;   
-Dermatologia.   
+Art. 86 - nell'elenco degli insegnamenti comuni a tutti e tre gli indirizzi del corso di laurea in matematica, contemplati nella tabella B, sono inseriti i seguenti nuovi insegnamenti:  
+metodi di approssimazione;  
+analisi numerica con elementi di programmazione;  
+fondamenti della matematica;  
+teoria della ricorsivita'.  
+Nel medesimo elenco, gli insegnamenti semestrali di teoria di Galvis, che assume la corretta denominazione di "teoria di Galois", spazi vettoriali topologici, fondamenti di geometria, fondamenti di algebra e aritmetica, funzioni speciali, metodi asintotici, diventano annuali.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 aprile 1958
+### Dato a Roma, addi' 31 ottobre 1981
 
-GRONCHI MORO
+PERTINI BODRATO
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 12 settembre 1958
+Registrato alla Corte dei conti, addi' 24 febbraio 1982
 
-Atti del Governo, registro n. 114, foglio n. 15. - RELLEVA
+Registro n. 30 Istruzione, foglio n. 385

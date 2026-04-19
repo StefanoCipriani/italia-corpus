@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 febbraio 1975 n. 266
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 settembre 1969 n. 690
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 febbraio 1975 n. 266
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 settembre 1969 n. 690
+================================================================
 
 Modificazioni allo statuto dell'ente autonomo "Fiera del Mediterraneo - Campionaria in Palermo".
 ------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-266. Decreto del Presidente della Repubblica 15 febbraio 1975, col quale, sulla proposta del Ministro per l'industria, il commercio e l'artigianato, vengono approvate le modificazioni agli articoli 7 e 10 dello statuto dell'ente autonomo "Fiera del Mediterraneo - Campionaria in Palermo", approvato con [decreto del Presidente della Repubblica 28 febbraio 1957, n. 479](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-02-28;479).  
+690. Decreto del Presidente della Repubblica 1 settembre 1969, col quale, sulla proposta del Ministro per l'industria, il commercio e l'artigianato, viene ulteriormente modificato lo statuto dell'ente autonomo "Fiera del Mediterraneo - Campionaria in Palermo", con sede in Palermo.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 21 giugno 1975  
-Atti di Governo, registro n. 10, foglio n. 69
+Visto, il Guardasigilli: GAVA  
+Registrato alla Corte dei conti, addi' 15 ottobre 1969  
+Atti del Governo, registro n. 229, foglio n. 103. - CARUSO

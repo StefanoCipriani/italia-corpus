@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1983 n. 411
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 aprile 1984 n. 385
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1983 n. 411
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 aprile 1984 n. 385
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi dell'Aquila.
@@ -10,9 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi dell'Aquila.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Istituto universitario di medicina e chirurgia dell'Aquila, approvato con [decreto del Presidente della Repubblica 25 giugno 1969, n. 425](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-06-25;425), e successive modificazioni;
-
-Veduta la [legge 14 agosto 1982, n. 590](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-14;590), con la quale l'Istituto universitario di medicina e chirurgia dell'Aquila e' stato soppresso e contestualmente trasformato in facolta' di medicina e chirurgia dell'Universita' degli studi dell'Aquila statizzata con la medesima [legge numero 590/1982](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982;590);
+Veduto lo statuto dell'Universita' dell'Aquila, approvato con [decreto del Presidente della Repubblica 27 ottobre 1983, n. 837](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1983-10-27;837) e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -24,11 +22,11 @@ Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?u
 
 Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' dell'Aquila ai sensi della citata [legge n. 615/81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;615);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale(di cui all'ultimo comma all'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' dell'Aquila e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Veduto il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio universitario nazionale;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
@@ -41,18 +39,18 @@ Articolo unico
 --------------
 
   
-Art. 15 - nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' inserito l'insegnamento di fisiopatologia digestiva.  
+Art. 64 - all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto l'insegnamento di "anestesia sperimentale".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 maggio 1983
+### Dato a Roma, addi' 6 aprile 1984
 
 PERTINI FALCUCCI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 11 agosto 1983
+Registrato alla Corte dei conti, addi' 9 luglio 1984
 
-Registro n. 58 Istruzione, foglio n. 150
+Registro n. 44 Istruzione, foglio n. 44

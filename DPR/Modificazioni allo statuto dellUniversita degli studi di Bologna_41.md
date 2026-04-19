@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 maggio 1977 n. 539
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1168
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 maggio 1977 n. 539
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1168
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -12,33 +12,37 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato Con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduto il [regio decreto 30 settembre 1938, n. 1552](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1552), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 481 - il quarto comma relativo alla scuola di specializzazione in ortopedia e traumatologia e' abrogato e sostituito dal seguente:  
-"Il numero degli iscritti e' di venti per ogni anno di corso e non potra' superare il numero di sessanta per l'intero corso".  
-L'art. 525, relativo alla scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale, e' abrogato e sostituito dal seguente:  
-"Il numero massimo degli iscritti per l'intero corso e' di venticinque".  
+  
+L'art. 239, relativo alla scuola di economia e merceologia degli alimenti (scuola diretta a fini speciali), e' modificato nel senso che all'elenco degli insegnamenti fondamentali sono aggiunti i seguenti insegnamenti:  
+  
+Esercitazioni pratiche di bromatologia al 1° anno;  
+Lingua inglese al 1° e 2° anno.  
+  
+Nello stesso articolo l'insegnamento di "Igiene dell'alimentazione" muta la denominazione in quella di "Igiene degli alimenti e dell'alimentazione".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 maggio 1977
+### Dato a Roma, addi' 31 ottobre 1973
 
 LEONE MALFATTI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 30 luglio 1977
+Registrato alla Corte dei conti, addi' 26 ottobre 1974
 
-Registro n. 92 Istruzione, foglio n. 24
+Atti di Governo, registro n. 6, foglio n. 29. - SCIARRETTA

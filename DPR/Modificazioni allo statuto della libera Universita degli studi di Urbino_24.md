@@ -1,92 +1,389 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1971 n. 660
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1966 n. 504
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1971 n. 660
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1966 n. 504
 =============================================================
 
 Modificazioni allo statuto della libera Universita' degli studi di Urbino.
 --------------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto della libera Universita' degli studi di Urbino, approvato con [regio decreto 8 febbraio 1925, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-02-08;230), e modificato con [regio decreto 31 ottobre 1929, n. 2475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2475) e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto della libera Universita' degli studi di Urbino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Le disposizioni dell'art. 19 - relative alle propedeuticita' di esame del corso di laurea in Giurisprudenza - sono abrogate e sostituite dalle seguenti:
+
+Art. 19. - Lo studente non senza aver prima superato puo superare l'esame di: l'esame di:
+
+Diritto agrario Istituzioni di diritto
+
+privato;
+
++----------------------------------+-------------------------------+
+
+|Art. 19. - Lo studente non | senza aver prima superato |
+
+| puo superare l'esame di: | l'esame di: |
+
++----------------------------------+-------------------------------+
+
+| Diritto agrario | Istituzioni di diritto |
+
+| | privato; |
+
++----------------------------------+-------------------------------+
+
+|Diritto amministrativo |Diritto costituzionale; |
+
+| | Istituzioni di diritto |
+
+| | privato; |
+
++----------------------------------+-------------------------------+
+
+| | Istituzioni di diritto |
+
+| | privato; |
+
+| Diritto civile | |
+
+| | Istituzioni di diritto |
+
+| | romano; |
+
++----------------------------------+-------------------------------+
+
+| Diritto commerciale | Istituzioni di diritto |
+
+| | privato; |
+
++----------------------------------+-------------------------------+
+
+| | Istituzioni di diritto |
+
+| | romano; |
+
+| | Istituzioni di diritto |
+
+| | privato; |
+
+| | |
+
+| Diritto comune | Storia del diritto ro |
+
+| | mano; |
+
+| | Storia del diritto ita |
+
+| | liano; |
+
++----------------------------------+-------------------------------+
+
+| | Diritto costituzionale; |
+
+| Diritto del lavoro | Istituzioni di diritto |
+
+| | privato; |
+
++----------------------------------+-------------------------------+
+
+| | Diritto commerciale; |
+
+| Diritto della navigazio- | |
+
+| ne | Istituzioni di diritto |
+
+| | privato; |
+
++----------------------------------+-------------------------------+
+
+| | Diritto costituzionale; |
+
+| Diritto ecclesiastico | Istituzioni di diritto |
+
+| | privato; |
+
++----------------------------------+-------------------------------+
+
+| | Diritto commerciale; |
+
+| Diritto industriale | Istituzioni di diritto |
+
+| | privato; |
+
++----------------------------------+-------------------------------+
+
+| | Istituzioni di diritto |
+
+| Diritto internazionale | privato; |
+
+| | Diritto costituzionale; |
+
++----------------------------------+-------------------------------+
+
+| | Istituzioni di diritto |
+
+| | privato; |
+
+| Diritto processuale ci- | Diritto costituzionale; |
+
+| vile | |
+
++----------------------------------+-------------------------------+
+
+| | Istituzioni di diritto |
+
+| | privato; |
+
+| Diritto romano | Istituzioni di diritto |
+
+| | romano; |
+
+| | Storia del diritto ro |
+
+| | mano; |
+
++----------------------------------+-------------------------------+
+
+| | Storia del diritto ro |
+
+| Esegesi delle fonti del | mano; |
+
+| diritto romano | |
+
+| | Istituzioni di diritto |
+
+| | romano; |
+
++----------------------------------+-------------------------------+
+
+| Scienza delle finanze e | Economia politica; |
+
+| diritto finanziario | |
+
++----------------------------------+-------------------------------+
+
+| | Istituzioni di diritto |
+
+| | privato |
+
+| Storia del diritto ita- | Istituzioni di diritto |
+
+| liano | romano |
+
+| | Storia del diritto ro |
+
+| | mano; |
+
++----------------------------------+-------------------------------+
+
+| | |
+
+| Statistica | Economia politica; |
+
+| Medicina legale e delle | Diritto penale; |
+
+| assicurazioni | |
+
++----------------------------------+-------------------------------+
+
+| | |
+
+| | Istituzioni di diritto|
+
+| | privato; |
+
+| Diritto canonico | Istituzioni di diritto|
+
+| | romano; |
+
++----------------------------------+-------------------------------+
+
+| | |
+
+| Diritto privato compara- | Istituzioni di diritto|
+
+| to | privato; |
+
+| | Istituzioni di diritto|
+
+| | privato; |
+
+| | Istituzioni di diritto |
+
+| | romano; |
+
++----------------------------------+-------------------------------+
+
+| Esegesi delle fonti del | |
+
+| diritto italiano | Storia del diritto ro|
+
+| | mano; |
+
+| | Storia del diritto ita|
+
+| | liano; |
+
++----------------------------------+-------------------------------+
+
+| | |
+
+| Diritto internazionale | Istituzioni di diritto|
+
+| privato | privato; |
+
++----------------------------------+-------------------------------+
+
+| Storia dei trattati | Diritto costituzionale; |
+
++----------------------------------+-------------------------------+
+
+| Dottrina dello Stato | Diritto costituzionale; |
+
++----------------------------------+-------------------------------+
+
+| Diritto pubblico ameri- | Diritto costituzionale;|
+
+| cano | |
+
++----------------------------------+-------------------------------+
+
+| Diritto fallimentare | Diritto processuale ci |
+
+| | vile; |
+
++----------------------------------+-------------------------------+
+
+| | |
+
+| | Diritto costituzionale;|
+
+| Diritto tributario | Diritto processuale ci |
+
+| | vile; |
+
++----------------------------------+-------------------------------+
+
+| Antropologia criminale | Diritto penale; |
+
++----------------------------------+-------------------------------+
+
+| | |
+
+| | Diritto costituzionale;|
+
+| Contabilita dello Stato | |
+
++----------------------------------+-------------------------------+
+
+| | Economia politica; |
+
+| Filologia giuridica | Storia del diritto ro |
+
+| | mano; |
+
++----------------------------------+-------------------------------+
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 10 giugno 1966
+
+SARAGAT
+
+GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 2 luglio 1916 Atti del Governo, registro n. 204, foglio n. 22. - DI PRETORO
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto della libera Universita' degli studi di Urbino, approvato con [regio decreto 8 febbraio 1925, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-02-08;230), e modificato con [regio decreto 31 ottobre 1929, n. 2475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2475), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto della libera Universita' degli studi di Urbino, approvato con [regio decreto 8 febbraio 1925, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-02-08;230), e modificato con [regio decreto 31 ottobre 1929, n. 2475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2475) e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto della libera Universita' degli studi di Urbino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 33: e' abrogato e sostituito dal seguente:  
-"La facolta' di farmacia rilascia la laurea in farmacia e la laurea in chimica e tecnologia farmaceutiche".  
-Dopo l'art. 35 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi all'istituzione del corso di laurea in chimica e tecnologia farmaceutiche.  
+Lo statuto della libera Universita' degli studi di Urbino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Le disposizioni dell'art. 19 - relative alle propedeuticita' di esame del corso di laurea in Giurisprudenza - sono abrogate e sostituite dalle seguenti:   
+Art. 19. - Lo studente non senza aver prima superato puo superare l'esame di: l'esame di:   
   
-Corso di laurea in chimica e tecnologia farmaceutiche  
+Diritto agrario Istituzioni di diritto   
+privato;   
   
-Art. 36. - Durata del corso di studi: cinque anni, divisi in un biennio ed un triennio.  
-Il titolo di ammissione e' quello previsto dalle vigenti disposizioni di legge.  
-Art. 37. - Sono insegnamenti fondamentali:  
-Biennio di studi propedeutici:  
-1) Analisi chimico-farmaceutica I (analisi qualitativa);  
-\* 2) Anatomia umana;  
-\* 3) Botanica farmaceutica;  
-4) Chimica-fisica;  
-\* 5) Chimica generale ed inorganica;  
-\* 6) Chimica organica I;  
-7) Fisica;  
-8) Fisiologia generale;  
-9) Istituzioni di matematiche;  
-10) Microbiologia e igiene.  
-Triennio di studi di applicazione:  
-11) Analisi chimico-farmaceutica II (analisi quantitativa);  
-12) Analisi chimico-farmaceutica III (analisi dei medicamenti); \* 13) Biochimica applicata;  
-\* 14) Chimica biologica;  
-\* 15) Chimica degli alimenti;  
-\* 16) Chimica farmaceutica applicata;  
-\* 17) Chimica farmaceutica e tossicologica I;  
-\* 18) Chimica farmaceutica e tossicologica II;  
-\* 19) Chimica organica II;  
-\* 20) Farmacologia e farmacognosia;  
-21) Impianti dell'industria farmaceutica;  
-22) Laboratorio di preparazione estrattiva e sintesi dei farmaci;  
-23) Metodi fisici in chimica organica;  
-24) Saggi e dosaggi farmacologici;  
-\* 25) Tecnica e legislazione farmaceutica.  
-Insegnamenti complementari:  
-1) Chimica delle fermentazioni e microbiologia industriale;  
-2) Chimica dei prodotti dietetici;  
-3) Chimica dei prodotti cosmetici;  
-4) Impianti per laboratori galenici;  
-5) Microchimica;  
-6) Mineralogia;  
-7) Zoologia e parassitologia;  
-8) Chimica tossicologica;  
-9) Fisiologia vegetale;  
-10) Idrologia;  
-11) Scienza dell'alimentazione.  
-Le materie segnate con un asterisco sono comuni alla laurea in farmacia. Per ottenere l'iscrizione al 3° anno di corso, lo studente deve aver seguito i corsi e superati gli esami in tutti gli insegnamenti fissati per i due anni precedenti.  
-Per essere ammesso all'esame di laurea, lo studente deve aver seguito i corsi e superato tutti gli esami dei corsi fondamentali e almeno due esami a scelta tra i corsi complementari.  
-La prova di laurea comporta la discussione di una tesi sperimentale.  
-L'esame di laurea in chimica e tecnologia farmaceutiche consiste nella discussione orale di una dissertazione scritta di natura sperimentale svolta su un argomento concernente una delle materie del corso.  
-  
+
+|  |  |
+| --- | --- |
+| Art. 19. - Lo studente non puo superare l'esame di: | senza aver prima superato l'esame di: |
+| Diritto agrario | Istituzioni di diritto privato; |
+| Diritto amministrativo | Diritto costituzionale; Istituzioni di diritto privato; |
+| Diritto civile | Istituzioni di diritto privato; Istituzioni di diritto romano; |
+| Diritto commerciale | Istituzioni di diritto privato; |
+| Diritto comune | Istituzioni di diritto romano; Istituzioni di diritto privato; Storia del diritto ro mano; Storia del diritto ita liano; |
+| Diritto del lavoro | Diritto costituzionale; Istituzioni di diritto privato; |
+| Diritto della navigazio- ne | Diritto commerciale; Istituzioni di diritto privato; |
+| Diritto ecclesiastico | Diritto costituzionale; Istituzioni di diritto privato; |
+| Diritto industriale | Diritto commerciale; Istituzioni di diritto privato; |
+| Diritto internazionale | Istituzioni di diritto privato; Diritto costituzionale; |
+| Diritto processuale ci- vile | Istituzioni di diritto privato; Diritto costituzionale; |
+| Diritto romano | Istituzioni di diritto privato; Istituzioni di diritto romano; Storia del diritto ro mano; |
+| Esegesi delle fonti del diritto romano | Storia del diritto ro mano; Istituzioni di diritto romano; |
+| Scienza delle finanze e diritto finanziario | Economia politica; |
+| Storia del diritto ita- liano | Istituzioni di diritto privato Istituzioni di diritto romano Storia del diritto ro mano; |
+| Statistica Medicina legale e delle assicurazioni | Economia politica; Diritto penale; |
+| Diritto canonico | Istituzioni di diritto privato; Istituzioni di diritto romano; |
+| Diritto privato compara- to | Istituzioni di diritto privato; Istituzioni di diritto privato; Istituzioni di diritto romano; |
+| Esegesi delle fonti del diritto italiano | Storia del diritto ro mano; Storia del diritto ita liano; |
+| Diritto internazionale privato | Istituzioni di diritto privato; |
+| Storia dei trattati | Diritto costituzionale; |
+| Dottrina dello Stato | Diritto costituzionale; |
+| Diritto pubblico ameri- cano | Diritto costituzionale; |
+| Diritto fallimentare | Diritto processuale ci vile; |
+| Diritto tributario | Diritto costituzionale; Diritto processuale ci vile; |
+| Antropologia criminale | Diritto penale; |
+| Contabilita dello Stato | Diritto costituzionale; |
+| Filologia giuridica | Economia politica; Storia del diritto ro mano; |
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 giugno 1971
+### Dato a Roma, addi' 10 giugno 1966
 
-SARAGAT MISASI
+SARAGAT GUI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 21 agosto 1971
+Registrato alla Corte dei conti, addi' 2 luglio 1916
 
-Atti del Governo, registro n. 243, foglio n. 157. - PASQUALUCCI
+Atti del Governo, registro n. 204, foglio n. 22. - DI PRETORO

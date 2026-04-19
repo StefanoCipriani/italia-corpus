@@ -1,88 +1,217 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 470
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 agosto 1964 n. 1025
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 470
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 agosto 1964 n. 1025
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 71. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti quelli di:
+
+"Patologia ostetrica e ginecologica Medicina sociale".
+
+Art. 106. - Negli altri corsi di laurea in Ingegneria vengono apportate le seguenti modificazioni:
+
+Laurea in Ingegneria civile (Sezione idraulica):
+
+Nel gruppo II (materie a scelta dello studente) insegnamento di "Estrazione e trasporto degli idrocarburi" e' abrogato e sostituito dall'insegnamento di Tecnica dei sondaggi".
+
+Laurea in Ingegneria meccanica:
+
+E' aggiunto il seguente nuovo gruppo a scelta dello studente:
+
+(c) - Gruppo X:
+
+"Preparazione dei metalli;
+
+Siderurgia e metallurgia".
+
+Laurea in Ingegneria elettrotecnica:
+
+Nel gruppo III (materie a scelta dello studente) l'insegnamento semestrale di "Impianti speciali idraulici" e' abrogato e sostituito dall'insegnamento di "Impianti idroelettrici" (semestrale).
+
+Laurea in Ingegneria chimica:
+
+Nel gruppo II (materie a scelta dello studente) l'insegnamento di "Metallurgia e metallografia" e' abrogato e sostituito dall'insegnamento di "Siderurgia e metallografia". Sono, inoltre, aggiunti i seguenti nuovi gruppi a scelta dello studente:
+
+(c) - Gruppo III:
+
+"Elettrochimica industriale;
+
+Materiali delle industrie elettriche ed elettrochimiche".
+
+(c) - Gruppo IV:
+
+"Meccanica dei giacimenti di idrocarburi;
+
+Industria del petrolio e petrolchimica".
+
+Laurea in Ingegneria mineraria:
+
+L'insegnamento di "Petrografia" (b) da annuale passa a semestrale.
+
+L'insegnamento di "Estrazione e trasporto degli idrocarburi (b) e' abrogato e sostituito dall'insegnamento di "Tecnica dei sondaggi" (b).
+
+E' aggiunto l'insegnamento di "Disegno II".
+
+Nel gruppo I (materie a scelta dello studente) l'insegnamento di "Tecnologie minerarie" e' abrogato e sostituito dall'insegnamento di "Preparazione dei minerali".
+
+E' inoltre, aggiunto il seguente nuovo gruppo a scelta dello studente:
+
+(c) - Gruppo III:
+
+"Produzione e trasporto degli idrocarburi Misure e controlli nei giacimenti di idrocarburi".
+
+Laurea in Ingegneria elettronica:
+
+L'insegnamento di "Tecnologie elettriche" (semestrale) e' abrogato e sostituito dall'insegnamento di "Tecnologie elettroniche" (annuale).
+
+Nel gruppo I (materie a scelta dello studente) l'insegnamento di "Comunicazioni elettriche su filo" e' abrogato e sostituito dall'insegnamento di "Tecnica delle comunicazioni elettroniche".
+
+Laurea in Ingegneria nucleare:
+
+Gli insegnamenti di "Complementi di matematiche", "Elettronica", "Misure elettriche" ed "Economia ed organizzazione aziendale" sul piano della Facolta' (b) sono abrogati e sostituiti dai seguenti: "Idraulica", "Calcolo elettronico" e "Tecnologia dei materiali nucleari".
+
+I gruppi I e II (materie a scelta dello studente) sono abrogati e sostituiti dai seguenti:
+
+(c) - Gruppo I:
+
+"Tecnologie meccaniche;
+
+Costruzioni di macchine".
+
+(c) - Gruppo II:
+
+"Elettronica nucleare II;
+
+Macchine ed impianti elettrici".
+
+Art. 121. - Agli insegnamenti complementari del corso di laurea, in Medicina veterinaria sono aggiunti quelli di:
+
+Scienza e tecnica della fecondazione artificiale;
+
+Patologia aviare".
+
+Art. 221. - All'elenco degli insegnamenti della Scuola di specializzazione in Ingegneria mineraria sono aggiunti quelli di:
+
+"Tecnica dei sondaggi" e di "Preparazione dei minerali" e sono soppressi quelli di "Estrazione e trasporto degli idrocarburi" e di "Tecnologie minerarie".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 3 agosto 1964
+
+SEGNI
+
+GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 24 ottobre 1964 Atti del Governo, registro n. 187, foglio n. 161 - VILLA
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 933, n. 1592;   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Dopo l'art. 678, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della seconda scuola di specializzazione in medicina interna.   
-Seconda scuola di specializzazione in medicina interna   
-Art. 679. - Presso la facolta' di medicina e chirurgia e' istituita la seconda scuola di specializzazione in medicina interna, che conferisce il diploma di specialista in medicina interna.   
-Non sono ammesse abbreviazioni di corso.   
-Il corso ha la durata di cinque anni.   
-Art. 680. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-malattie infettive, disreattive e del sangue;   
-istituzioni di terapia;   
-anatomia e istologia patologica (biennale) I;   
-clinica medica generale e terapia medica (quinquennale) I.   
-2° Anno:   
-malattie dell'apparato cardio-vascolare;   
-microbiologia e sierologia;   
-chimica clinica;   
-anatomia ed istologia patologica (biennale) II;   
-clinica medica generale e terapia medica (quinquennale) II.   
-3° Anno:   
-malattie dell'apparato digerente;   
-malattie renali;   
-clinica medica generale e terapia medica (quinquennale) III.   
-4° Anno:   
-malattie dell'apparato respiratorio;   
-malattie del sistema nervoso;   
-clinica medica generale e terapia medica (quinquennale) IV.   
-5° Anno:   
-malattie del ricambio;   
-malattie delle ghiandole endocrine;   
-clinica medica generale e terapia medica (quinquennale) V.   
-Insegnamenti complementari:   
-genetica medica;   
-semeiotica oculistica (5° anno);   
-semeiotica ginecologica (5° anno);   
-psicologia medica (3° anno);   
-radiologia;   
-applicazioni diagnostiche e terapeutiche nella medicina nucleare (3° e 4° anno);   
-semeiotica dermatologica.   
-Art. 681. - L'iscrizione alla scuola avviene per titoli.   
-Nel caso che le domande di iscrizione superino il numero dei posti disponibili l'ammissione avverra' per titoli ed esami.   
-Art. 682. - Sono disponibili sette posti per ciascun anno di corso.  
-Il numero complessivo dei posti nei cinque anni di corso non dovra' superare i trentacinque iscritti.   
-Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni, le visite mediche, gli ambulatori, estendendo storie cliniche e praticando le ricerche di laboratorio.   
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
-Art. 683. - Alla fine di ogni anno di corso gli iscritti sono tenuti a superare tutti gli esami relativi ai singoli insegnamenti fondamentali di ciascun anno per il passaggio all'anno successivo.  
-Gli esami biennali e quinquennali saranno superati rispettivamente alla fine del biennio e alla fine del quinquennio.   
-Al termine del corso di studi per il conseguimento del diploma di specialista gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta su materie oggetto del corso.   
+Art. 71. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti quelli di:  
+"Patologia ostetrica e ginecologica Medicina sociale".  
+Art. 106. - Negli altri corsi di laurea in Ingegneria vengono apportate le seguenti modificazioni:  
+Laurea in Ingegneria civile (Sezione idraulica):  
+Nel gruppo II (materie a scelta dello studente) insegnamento di "Estrazione e trasporto degli idrocarburi" e' abrogato e sostituito dall'insegnamento di Tecnica dei sondaggi".  
+Laurea in Ingegneria meccanica:  
+E' aggiunto il seguente nuovo gruppo a scelta dello studente:  
+(c) - Gruppo X:  
+"Preparazione dei metalli;  
+Siderurgia e metallurgia".  
+Laurea in Ingegneria elettrotecnica:  
+Nel gruppo III (materie a scelta dello studente) l'insegnamento semestrale di "Impianti speciali idraulici" e' abrogato e sostituito dall'insegnamento di "Impianti idroelettrici" (semestrale).  
+Laurea in Ingegneria chimica:  
+Nel gruppo II (materie a scelta dello studente) l'insegnamento di "Metallurgia e metallografia" e' abrogato e sostituito dall'insegnamento di "Siderurgia e metallografia". Sono, inoltre, aggiunti i seguenti nuovi gruppi a scelta dello studente:  
+(c) - Gruppo III:  
+"Elettrochimica industriale;  
+Materiali delle industrie elettriche ed elettrochimiche".  
+(c) - Gruppo IV:  
+"Meccanica dei giacimenti di idrocarburi;  
+Industria del petrolio e petrolchimica".  
+Laurea in Ingegneria mineraria:  
+L'insegnamento di "Petrografia" (b) da annuale passa a semestrale.  
+L'insegnamento di "Estrazione e trasporto degli idrocarburi (b) e' abrogato e sostituito dall'insegnamento di "Tecnica dei sondaggi" (b).  
+E' aggiunto l'insegnamento di "Disegno II".  
+Nel gruppo I (materie a scelta dello studente) l'insegnamento di "Tecnologie minerarie" e' abrogato e sostituito dall'insegnamento di "Preparazione dei minerali".  
+E' inoltre, aggiunto il seguente nuovo gruppo a scelta dello studente:  
+(c) - Gruppo III:  
+"Produzione e trasporto degli idrocarburi Misure e controlli nei giacimenti di idrocarburi".  
+Laurea in Ingegneria elettronica:  
+L'insegnamento di "Tecnologie elettriche" (semestrale) e' abrogato e sostituito dall'insegnamento di "Tecnologie elettroniche" (annuale).  
+Nel gruppo I (materie a scelta dello studente) l'insegnamento di "Comunicazioni elettriche su filo" e' abrogato e sostituito dall'insegnamento di "Tecnica delle comunicazioni elettroniche".  
+Laurea in Ingegneria nucleare:  
+Gli insegnamenti di "Complementi di matematiche", "Elettronica", "Misure elettriche" ed "Economia ed organizzazione aziendale" sul piano della Facolta' (b) sono abrogati e sostituiti dai seguenti: "Idraulica", "Calcolo elettronico" e "Tecnologia dei materiali nucleari".  
+I gruppi I e II (materie a scelta dello studente) sono abrogati e sostituiti dai seguenti:  
+(c) - Gruppo I:  
+"Tecnologie meccaniche;  
+Costruzioni di macchine".  
+(c) - Gruppo II:  
+"Elettronica nucleare II;  
+Macchine ed impianti elettrici".  
+Art. 121. - Agli insegnamenti complementari del corso di laurea, in Medicina veterinaria sono aggiunti quelli di:  
+Scienza e tecnica della fecondazione artificiale;  
+Patologia aviare".  
+Art. 221. - All'elenco degli insegnamenti della Scuola di specializzazione in Ingegneria mineraria sono aggiunti quelli di:  
+"Tecnica dei sondaggi" e di "Preparazione dei minerali" e sono soppressi quelli di "Estrazione e trasporto degli idrocarburi" e di "Tecnologie minerarie".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 maggio 1979
+### Dato a Roma, addi' 3 agosto 1964
 
-PERTINI SPADOLINI
+SEGNI GUI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 19 settembre 1979
+Registrato alla Corte dei conti, addi' 24 ottobre 1964
 
-Registro n. 68 Istruzione, foglio n. 369
+Atti del Governo, registro n. 187, foglio n. 161 - VILLA

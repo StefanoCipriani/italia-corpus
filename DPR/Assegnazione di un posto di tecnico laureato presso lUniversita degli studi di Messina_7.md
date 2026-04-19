@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1982 n. 906
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1984 n. 404
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1982 n. 906
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1984 n. 404
+=============================================================
 
 Assegnazione di un posto di tecnico laureato presso l'Universita' degli studi di Messina.
 -----------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-906. Decreto del Presidente della Repubblica 11 ottobre 1982, col quale, sulla proposta del Ministro della pubblica istruzione, un posto disponibile nel ruolo dei tecnici laureati viene assegnato all'istituto di mineralogia e petrografia della facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Messina.  
+404. Decreto del Presidente della Repubblica 9 aprile 1984, col quale, sulla proposta del Ministro della pubblica istruzione, un posto disponibile nel ruolo dei tecnici laureati viene assegnato all'istituto pluridisciplinare di anestesiologia, rianimazione e terapia intensiva della facolta' di medicina e chirurgia dell'Universita' di Messina.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 30 novembre 1982  
-Registro n. 129 Istruzione, foglio n. 316
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 20 luglio 1984  
+Registro n. 45 Istruzione, foglio n. 329

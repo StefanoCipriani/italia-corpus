@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 930
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1978 n. 728
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 930
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1978 n. 728
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Padova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,218 +20,249 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 15, relativo all'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza e' modificato nel senso che gli insegnamenti di Diritto svizzero" e di "Diritto minerario" sono soppressi; mentre l'insegnamento di "Diritto pubblico comparato e storia costituzionale" muta la denominazione in quella di "Storia costituzionale".
+Gli articoli 180 e 181, relativi al corso di laurea in scienze forestali, sono abrogati e sostituiti dai seguenti:
 
-Art. 42. - All'elenco degli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto il seguente:
+Corso di laurea in scienze forestali
 
-Analisi del linguaggio delle scienze sociali.
+Art. 180. - La durata del corso di studi per la laurea in scienze forestali e' di quattro anni.
 
-Art. 54. - All'elenco degli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti i seguenti:
+Titoli di ammissione sono quelli previsti dall'[art. 1 della legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1).
 
-Statistica aziendale;
+Insegnamenti fondamentali:
 
-Storia dell'agricoltura;
+1) alpicoltura I (prati, pascoli, agricoltura nella regione di montagna) (semestrale);
 
-Scienza dell'amministrazione;
+2) alpicoltura II (zootecnica nella regione di montagna) (semestrale);
 
-Merceologia doganale;
+3) assestamento forestale;
 
-Istituzioni di diritto e procedura penale.
+4) botanica forestale;
 
-Art. 98. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:
+\*5) botanica generale;
 
-Fisiologia dello sport.
+\*6) botanica sistematica;
 
-Nello stesso articolo l'insegnamento di "Scienza dell'alimentazione" muta la denominazione in quella di "Scienza dell'alimentazione e della dietetica".
+7) chimica forestale;
 
-Art. 190. - All'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti i seguenti:
+\*8) chimica generale ed inorganica con applicazioni di analitica;
 
-Contabilita' e tecnica amministrativa dell'azienda agraria;
+\*9) chimica organica;
 
-Enzimologia e chimica delle fermentazioni;
+10) costruzioni forestali (semestrale);
 
-Chimica e tossicologia degli antiparassitari (semestrale);
+11) dendrometria (semestrale);
 
-Cerealicoltura e colture industriali da pieno campo;
+12) economia ed estimo forestale;
 
-Produzione industriale degli alimenti zootecnici;
+\*13) fisica;
 
-Protezione della natura e riassetto del paesaggio;
+14) industrie chimico-forestali (semestrale);
 
-Venatoria e pescicoltura;
+15) legislazione forestale;
 
-Elementi di scienza e tecnica delle costruzioni;
+16) matematica;
 
-Virologia vegetale;
+\*17) mineralogia e geologia;
 
-Pianificazione ecologica del territorio;
+18) patologia vegetale forestale;
 
-Difesa dagli inquinamenti;
+\*19) principi di economia politica e di statistica;
 
-Ecologia animale;
+20) selvicoltura I (ecologia e selvicoltura generale);
 
-Miglioramento genetico degli animali domestici.
+21) selvicoltura II (selvicoltura speciale);
 
-Dopo l'art. 218 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola diretta a fini speciali di economia e merceologia degli alimenti, presso la facolta' di economia e commercio.
+22) sistemazioni idraulico-forestali;
 
-TITOLO XV
+23) tecnologia e utilizzazione forestale (compresa meccanica applicata);
 
-FACOLTA' DI ECONOMIA E COMMERCIO
+24) topografia;
 
-Scuola di economia e merceologia degli alimenti
+25) zoologia forestale venatoria e acquicoltura;
 
-(Scuola diretta a fini speciali)
+\*26) zoologia generale.
 
-Art. 219. - Alla facolta' di economia e commercio dell'Universita' di Padova e' annessa ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20), con sede presso l'istituto di merceologia, la scuola di economia e merceologia degli alimenti, che si propone di studiare la tecnologia di produzione degli alimenti, i loro metodi di conservazione ed i loro aspetti commerciali dal punto di vista tecnico-mercantile; cio' allo scopo di preparare degli specialisti idonei alla organizzazione dei servizi alimentari delle comunita', fornendo loro tutte le conoscenze necessarie per una razionale impostazione dietetica e nutritiva.
+Insegnamenti complementari:
 
-La durata del corso degli studi e' di due anni.
+1) agronomia montana;
 
-Titolo richiesto per l'ammissione: diploma di scuola media superiore di II grado. Per i laureati che intendessero frequentare la scuola, saranno convalidate le materie gia' sostenute in sede universitaria, con la possibilita' di riduzione della frequenza ad un solo anno.
+2) allevamenti minori in zone montane (semestrale);
 
-Art. 220. - Le materie di insegnamento sono le seguenti:
+3) alterazioni del legname (semestrale);
 
-1° Anno:
+4) conservazione della natura e delle sue risorse;
 
-1) Elementi di chimica . . . . . . . . . . . . . . . . .40 ore
+5) difesa dagli inquinamenti (semestrale);
 
-2) Merceologia alimentare (I corso con esercitazioni). 40 "
+6) ecologia;
 
-3) Legislazione sugli alimenti . . . . . . . . . . . . .10 "
+7) ecologia zootecnica;
 
-4) Igiene degli alimenti . . . . . . . . . . . . . . . .15 "
+8) economia di mercato dei prodotti forestali;
 
-5) Imprese industriali e commerciali dei prodotti ali-
+9) elementi di idraulica e di idrologia;
 
-mentari . . . . . . . . . . . . . . . . . . . . . . .25 " 6) Statistiche del commercio dei prodotti agricoli . . .10 "
+10) fisiologia degli alberi forestali (semestrale);
 
-2° Anno:
+11) geologia applicata;
 
-1) Merceologia alimentare con esercitazioni (II corso) .40 ore 2) Organizzazione e gestione dei servizi alimentari. . .20 " 3) Elementi di chimica fisiologica . . . . . . . . . . .40 " 4) Nozioni di dietologia umana e zootecnica. . . . . . .20 " 5) Economia e statistica nel settore alimentare. . . . .30 "
+12) idrologia forestale;
 
-Alla fine del 2° corso lo studente che avra' seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali previsti dal piano di studio, dovra' sostenere un esame generale per il conseguimento del diploma di economia e merceologia degli alimenti.
+13) meccanizzazione forestale;
 
-Tale esame consiste nella discussione, dinanzi ad una commissione composta di sette membri e presieduta dal direttore della scuola, di una dissertazione scritta su tema approvato dal professore della materia e alla quale il tema stesso si riferisce.
+14) microbiologia forestale;
 
-Il consiglio di amministrazione dell'universita', su proposta della direzione della scuola, stabilira' di anno in anno l'ammontare dei contributi. Le tasse e soprattasse a carico degli iscritti restano cosi' determinate:
+15) miglioramento genetico degli alberi forestali (semestrale);
 
-Tassa di immatricolazione . . . . . . . . . . . . . . L. 5.000 Tassa annuale di iscrizione . . . . . . . . . . . . . " 18.000 Soprattassa esame di profitto . . . . . . . . . . . . " 7.000
+16) pedologia forestale;
+
+17) pianificazione ecologica del territorio;
+
+18) protezione dagli incendi boschivi (semestrale);
+
+19) protezione della natura e riassetto del paesaggio;
+
+20) selvicoltura industriale ed alberature;
+
+21) tecniche di rimboschimento nelle zone aride (semestrale);
+
+22) tutela del paesaggio agricolo forestale e riassetto del territorio;
+
+23) vivaistica forestale e rimboschimento;
+
+24) zoologia venatoria.
+
+Le materie contrassegnate con un asterisco sono in comune con il corso di laurea in scienze agrarie.
+
+Sono inoltre da ritenere complementari del corso di laurea in scienze forestali tutti gli insegnamenti (fondamentali e complementari) impartiti nel corso di laurea in scienze agrarie.
+
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superati gli esami in tutti gli insegnamenti fondamentali ed almeno in tre complementari a corso annuale. A tale effetto due corsi complementari semestrali sono computati come corso annuale.
+
+Art. 181. - L'esame di laurea consiste in una discussione orale intorno ad una dissertazione scritta sopra un tema scelto dal candidato su di un argomento forestale o avente stretta attinenza con le discipline impartite nella facolta'.
+
+Tutti gli insegnamenti impartiti nella facolta' sono di lezioni teoriche e di esercizi pratici che possono essere integrati da visite a fabbriche industriali e da esercitazioni in foresta.
+
+Gli esami di profitto sono orali, ma possono essere integrati da prove pratiche. Il voto e' pero' complessivo.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 31 ottobre 1972
+Dato a Roma, addi' 12 settembre 1978
 
-LEONE
+PERTINI
 
-SCALFARO
+PEDINI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BONIFACIO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 17 gennaio 1973 Atti di Governo, registro n. 255, foglio n. 37. - VALENTINI
+alla Corte dei conti, addi' 13 novembre 1978 Registro n. 121 Istruzione, foglio n. 170
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
 Decreta:   
   
 Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Gli articoli 180 e 181, relativi al corso di laurea in scienze forestali, sono abrogati e sostituiti dai seguenti:   
   
-Art. 15, relativo all'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza e' modificato nel senso che gli insegnamenti di Diritto svizzero" e di "Diritto minerario" sono soppressi; mentre l'insegnamento di "Diritto pubblico comparato e storia costituzionale" muta la denominazione in quella di "Storia costituzionale".   
-  
-Art. 42. - All'elenco degli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto il seguente:   
-Analisi del linguaggio delle scienze sociali.   
-  
-Art. 54. - All'elenco degli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti i seguenti:   
-Statistica aziendale;   
-Storia dell'agricoltura;   
-Scienza dell'amministrazione;   
-Merceologia doganale;   
-Istituzioni di diritto e procedura penale.   
-  
-Art. 98. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:   
-Fisiologia dello sport.   
-Nello stesso articolo l'insegnamento di "Scienza dell'alimentazione" muta la denominazione in quella di "Scienza dell'alimentazione e della dietetica".   
-  
-Art. 190. - All'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti i seguenti:   
-Contabilita' e tecnica amministrativa dell'azienda agraria;   
-Enzimologia e chimica delle fermentazioni;   
-Chimica e tossicologia degli antiparassitari (semestrale);   
-Cerealicoltura e colture industriali da pieno campo;   
-Produzione industriale degli alimenti zootecnici;   
-Protezione della natura e riassetto del paesaggio;   
-Venatoria e pescicoltura;   
-Elementi di scienza e tecnica delle costruzioni;   
-Virologia vegetale;   
-Pianificazione ecologica del territorio;   
-Difesa dagli inquinamenti;   
-Ecologia animale;   
-Miglioramento genetico degli animali domestici.   
-  
-Dopo l'art. 218 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola diretta a fini speciali di economia e merceologia degli alimenti, presso la facolta' di economia e commercio.   
-  
-TITOLO XV   
-FACOLTA' DI ECONOMIA E COMMERCIO   
-  
-Scuola di economia e merceologia degli alimenti   
-(Scuola diretta a fini speciali)   
-  
-Art. 219. - Alla facolta' di economia e commercio dell'Universita' di Padova e' annessa ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20), con sede presso l'istituto di merceologia, la scuola di economia e merceologia degli alimenti, che si propone di studiare la tecnologia di produzione degli alimenti, i loro metodi di conservazione ed i loro aspetti commerciali dal punto di vista tecnico-mercantile; cio' allo scopo di preparare degli specialisti idonei alla organizzazione dei servizi alimentari delle comunita', fornendo loro tutte le conoscenze necessarie per una razionale impostazione dietetica e nutritiva.   
-La durata del corso degli studi e' di due anni.   
-Titolo richiesto per l'ammissione: diploma di scuola media superiore di II grado. Per i laureati che intendessero frequentare la scuola, saranno convalidate le materie gia' sostenute in sede universitaria, con la possibilita' di riduzione della frequenza ad un solo anno.   
-  
-  
-Art. 220. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-1) Elementi di chimica . . . . . . . . . . . . . . . . .40 ore   
-2) Merceologia alimentare (I corso con esercitazioni). 40 "   
-3) Legislazione sugli alimenti . . . . . . . . . . . . .10 "   
-4) Igiene degli alimenti . . . . . . . . . . . . . . . .15 "   
-5) Imprese industriali e commerciali dei prodotti ali-  
-mentari . . . . . . . . . . . . . . . . . . . . . . .25 " 6) Statistiche del commercio dei prodotti agricoli . . .10 "   
-2° Anno:  
-1) Merceologia alimentare con esercitazioni (II corso) .40 ore 2) Organizzazione e gestione dei servizi alimentari. . .20 " 3) Elementi di chimica fisiologica . . . . . . . . . . .40 " 4) Nozioni di dietologia umana e zootecnica. . . . . . .20 " 5) Economia e statistica nel settore alimentare. . . . .30 "   
-Alla fine del 2° corso lo studente che avra' seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali previsti dal piano di studio, dovra' sostenere un esame generale per il conseguimento del diploma di economia e merceologia degli alimenti.  
-Tale esame consiste nella discussione, dinanzi ad una commissione composta di sette membri e presieduta dal direttore della scuola, di una dissertazione scritta su tema approvato dal professore della materia e alla quale il tema stesso si riferisce.  
-Il consiglio di amministrazione dell'universita', su proposta della direzione della scuola, stabilira' di anno in anno l'ammontare dei contributi. Le tasse e soprattasse a carico degli iscritti restano cosi' determinate:  
-  
-Tassa di immatricolazione . . . . . . . . . . . . . . L. 5.000 Tassa annuale di iscrizione . . . . . . . . . . . . . " 18.000 Soprattassa esame di profitto . . . . . . . . . . . . " 7.000   
+Corso di laurea in scienze forestali   
+Art. 180. - La durata del corso di studi per la laurea in scienze forestali e' di quattro anni.   
+Titoli di ammissione sono quelli previsti dall'[art. 1 della legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1).   
+Insegnamenti fondamentali:   
+1) alpicoltura I (prati, pascoli, agricoltura nella regione di montagna) (semestrale);   
+2) alpicoltura II (zootecnica nella regione di montagna) (semestrale);   
+3) assestamento forestale;   
+4) botanica forestale;   
+\*5) botanica generale;   
+\*6) botanica sistematica;   
+7) chimica forestale;   
+\*8) chimica generale ed inorganica con applicazioni di analitica;  
+\*9) chimica organica;   
+10) costruzioni forestali (semestrale);   
+11) dendrometria (semestrale);   
+12) economia ed estimo forestale;   
+\*13) fisica;   
+14) industrie chimico-forestali (semestrale);   
+15) legislazione forestale;   
+16) matematica;   
+\*17) mineralogia e geologia;   
+18) patologia vegetale forestale;   
+\*19) principi di economia politica e di statistica;   
+20) selvicoltura I (ecologia e selvicoltura generale);   
+21) selvicoltura II (selvicoltura speciale);   
+22) sistemazioni idraulico-forestali;   
+23) tecnologia e utilizzazione forestale (compresa meccanica applicata);   
+24) topografia;   
+25) zoologia forestale venatoria e acquicoltura;   
+\*26) zoologia generale.   
+Insegnamenti complementari:   
+1) agronomia montana;   
+2) allevamenti minori in zone montane (semestrale);   
+3) alterazioni del legname (semestrale);   
+4) conservazione della natura e delle sue risorse;   
+5) difesa dagli inquinamenti (semestrale);   
+6) ecologia;   
+7) ecologia zootecnica;   
+8) economia di mercato dei prodotti forestali;   
+9) elementi di idraulica e di idrologia;   
+10) fisiologia degli alberi forestali (semestrale);   
+11) geologia applicata;   
+12) idrologia forestale;   
+13) meccanizzazione forestale;   
+14) microbiologia forestale;   
+15) miglioramento genetico degli alberi forestali (semestrale);   
+16) pedologia forestale;   
+17) pianificazione ecologica del territorio;   
+18) protezione dagli incendi boschivi (semestrale);   
+19) protezione della natura e riassetto del paesaggio;   
+20) selvicoltura industriale ed alberature;   
+21) tecniche di rimboschimento nelle zone aride (semestrale);   
+22) tutela del paesaggio agricolo forestale e riassetto del territorio;   
+23) vivaistica forestale e rimboschimento;   
+24) zoologia venatoria.   
+Le materie contrassegnate con un asterisco sono in comune con il corso di laurea in scienze agrarie.   
+Sono inoltre da ritenere complementari del corso di laurea in scienze forestali tutti gli insegnamenti (fondamentali e complementari) impartiti nel corso di laurea in scienze agrarie.   
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superati gli esami in tutti gli insegnamenti fondamentali ed almeno in tre complementari a corso annuale. A tale effetto due corsi complementari semestrali sono computati come corso annuale.   
+Art. 181. - L'esame di laurea consiste in una discussione orale intorno ad una dissertazione scritta sopra un tema scelto dal candidato su di un argomento forestale o avente stretta attinenza con le discipline impartite nella facolta'.   
+Tutti gli insegnamenti impartiti nella facolta' sono di lezioni teoriche e di esercizi pratici che possono essere integrati da visite a fabbriche industriali e da esercitazioni in foresta.   
+Gli esami di profitto sono orali, ma possono essere integrati da prove pratiche. Il voto e' pero' complessivo.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1972
+### Dato a Roma, addi' 12 settembre 1978
 
-LEONE SCALFARO
+PERTINI PEDINI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 17 gennaio 1973
+Registrato alla Corte dei conti, addi' 13 novembre 1978
 
-Atti di Governo, registro n. 255, foglio n. 37. - VALENTINI
+Registro n. 121 Istruzione, foglio n. 170

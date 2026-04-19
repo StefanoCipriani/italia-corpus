@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1168
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 gennaio 1971 n. 112
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1168
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 gennaio 1971 n. 112
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
@@ -18,189 +18,103 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta intese ad ottenere il completamento del corso di laurea in architettura;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla
+-----
 
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-l'art. 122, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato, nel senso che la scuola di "Pediatria" muta la denominazione in quella di "Clinica pediatrica".
-
-Gli articoli 141, 142, 143, 144, 145 e 146 relativi alla scuola di specializzazione in pediatria che assume la denominazione di scuola di specializzazione in clinica pediatrica, sono abrogati e sostituiti dai seguenti:
-
-Scuola di specializzazione in clinica pediatrica
-
-Art. 141. - Presso l'istituto di clinica pediatrica e' istituita la scuola di specializzazione in clinica pediatrica, che ha lo scopo di conferire la necessaria competenza a coloro che vogliono dedicarsi all'esercizio della medicina infantile. Il diploma, che viene rilasciato in seguito ad esame, attribuisce la qualifica di specialista in clinica pediatrica.
-
-Art. 142. - Materie d'insegnamento:
-
-1° Anno:
-
-Clinica pediatrica (triennale);
-
-Patologia pediatrica (biennale);
-
-Puericultura (biennale);
-
-Semeiotica pediatrica e tecnica diagnostica (biennale);
-
-Auxologia normale e patologica (annuale);
-
-Psicologia dell'eta' evolutiva (annuale).
-
-2° Anno:
-
-Clinica pediatrica;
-
-Patologia pediatrica;
-
-Puericultura;
-
-Semeiotica pediatrica e tecnica diagnostica;
-
-Terapia pediatrica (annuale);
-
-Radiologia pediatrica (annuale);
-
-Malattie infettive dell'infanzia (annuale).
-
-3° Anno:
-
-Clinica pediatrica;
-
-Neuropsichiatria ed igiene mentale dell'infanzia.
-
-Le materie fondamentali sopraelencate saranno integrate a giudizio del consiglio della scuola da almeno tre insegnamenti scelti fra i seguenti:
-
-Chirurgia pediatrica;
-
-Ortopedia e traumatologia infantile;
-
-Odontoiatria;
-
-Clinica dermosifilopatica;
-
-Clinica oculistica;
-
-Clinica otorinolaringoiatrica;
-
-Cardiologia;
-
-Genetica;
-
-ed altre eventuali che il consiglio della scuola puo' stabilire di anno in anno.
-
-Il direttore della scuola, inoltre, puo' disporre che si tengano un certo numero di conferenze su argomenti di interesse pediatrico.
-
-Art. 143. - Il corso ha la durata di 3 anni. L'insegnamento ha carattere essenzialmente dimostrativo e pratico. L'iscrizione direttamente al secondo anno del corso puo' essere consentita, a giudizio del consiglio della scuola, per i candidati che abbiano conseguito il diploma di specializzazione in puericultura o che abbiano titoli pediatrici.
-
-Art. 144. - Alla scuola di specializzazione in clinica pediatrica sono ammessi complessivamente settanta iscritti.
-
-Gli iscritti hanno l'obbligo di internato, obbligatorio per tutto il triennio nella clinica pediatrica.
-
-Sono concessi due mesi di ferie all'anno.
-
-E' obbligatoria l'assidua frequenza a tutti i corsi di insegnamento compresi quelli integrativi.
-
-Art. 145. - Al corso possono iscriversi solo i laureati in medicina e chirurgia. Le norme di iscrizione, pagamento tasse, esami, ecc. sono quelle generali delle scuole di specializzazione e di perfezionamento riferite negli articoli da 122 a 137 di questo statuto.
-
-Art. 146. - Per conseguire il diploma di specializzazione in pediatria gli iscritti al corso, dopo aver superato tutti gli esami e completata la frequenza obbligatoria, dovranno presentare e discutere una dissertazione scritta su di un argomento di pediatria.
-
-Il diploma di specialista cosi' conseguito e' valido a tutti gli effetti di legge.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 30 ottobre 1970
-
-SARAGAT
-
-MISASI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 9 gennaio 1971 Atti del Governo, registro n. 240, foglio n. 18. - CARUSO
+proposta del Ministro per la pubblica istruzione; Decreta:
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+A decorrere dall'anno accademico 1970-71 e' completato, presso l'Universita' degli studi di Genova, il corso di laurea in architettura con l'istituzione del terzo, quarto e quinto anno.  
+
+Art. 2
+------
+
   
-Decreta:  
+Lo statuto dell'universita' anzidetta pertanto, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato nel senso che gli articoli da 87 a 91, relativi all'ordinamento del biennio di studi propedeutici, sono abrogati e sostituiti dai seguenti, con il conseguente spostamento della numerazione degli articoli successivi:  
   
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-l'art. 122, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato, nel senso che la scuola di "Pediatria" muta la denominazione in quella di "Clinica pediatrica".  
-Gli articoli 141, 142, 143, 144, 145 e 146 relativi alla scuola di specializzazione in pediatria che assume la denominazione di scuola di specializzazione in clinica pediatrica, sono abrogati e sostituiti dai seguenti:  
+FACOLTA' DI ARCHITETTURA  
   
-Scuola di specializzazione in clinica pediatrica  
+Art. 87. - La facolta' di architettura conferisce la laurea in architettura.  
+Art. 88. - La facolta' ha il fine di promuovere il progresso degli studi di architettura e di fornire la preparazione scientifica, tecnica e operativa, necessaria al conseguimento della laurea in architettura.  
+Art. 89. - La durata del corso degli studi per il conseguimento della laurea in architettura e' di cinque anni. E' titolo di ammissione al primo anno il diploma di scuola secondaria di secondo grado di durata quinquennale e quanto altro previsto dalle vigenti disposizioni di legge.  
+Art. 90. - Sono insegnamenti fondamentali:  
+1) Analisi matematica e geometria analitica (annuale piu' un semestre);  
+2) Arredamento (annuale);  
+3) Composizione architettonica (quinquennale);  
+4) Disegno e rilievo (annuale);  
+5) Estimo ed esercizio professionale (semestrale);  
+6) Fisica (semestrale);  
+7) Fisica tecnica ed impianti (annuale);  
+8) Geometria descrittiva (annuale);  
+9) Igiene edilizia (semestrale);  
+10) Statica (annuale);  
+11) Restauro dei monumenti (annuale);  
+12) Scienza delle costruzioni (annuale);  
+13) Storia dell'architettura (biennale);  
+14) Tecnica delle costruzioni (annuale);  
+15) Tecnologia dell'architettura (biennale);  
+16) Urbanistica (biennale).  
+Sono insegnamenti complementari:  
+1) Arte dei giardini (annuale);  
+2) Materie giuridiche (annuale);  
+3) Indirizzi dell'architettura moderna (annuale);  
+4) Caratteri stilistici e costruttivi dei monumenti (annuale);  
+5) Complementi di matematica (annuale);  
+6) Disegno dal vero (annuale);  
+7) Istituzioni di storia dell'arte (annuale);  
+8) Letteratura artistica (annuale);  
+9) Pianificazione territoriale urbanistica (annuale);  
+10) Progettazione artistica per l'industria (annuale);  
+11) Storia dell'urbanistica (annuale);  
+12) Unificazione edilizia e prefabbricazione (annuale);  
+13) Sociologia (annuale);  
+14) Topografia (annuale);  
+15) Lingua inglese (annuale);  
+16) Lingua francese (annuale);  
+17) Applicazioni di geometria descrittiva (annuale).  
+Art. 91. - Gli insegnamenti a corso biennale comportano un esame unico al termine di ciascun biennio, ad eccezione di analisi matematica e geometria analitica che comporta due esami; l'insegnamento quinquennale di composizione architettonica comporta tre esami al termine dei corsi primo, terzo e quinto.  
+Art. 92. - Ai fini della propedeuticita' delle iscrizioni ai corsi e degli esami dei diversi insegnamenti valgono i seguenti criteri:  
+Non si puo essere ammesso se non si e superato a sostenere l'esame di: l'esame di:  
   
-Art. 141. - Presso l'istituto di clinica pediatrica e' istituita la scuola di specializzazione in clinica pediatrica, che ha lo scopo di conferire la necessaria competenza a coloro che vogliono dedicarsi all'esercizio della medicina infantile. Il diploma, che viene rilasciato in seguito ad esame, attribuisce la qualifica di specialista in clinica pediatrica.  
-Art. 142. - Materie d'insegnamento:  
-1° Anno:  
-Clinica pediatrica (triennale);  
-Patologia pediatrica (biennale);  
-Puericultura (biennale);  
-Semeiotica pediatrica e tecnica diagnostica (biennale);  
-Auxologia normale e patologica (annuale);  
-Psicologia dell'eta' evolutiva (annuale).  
-2° Anno:  
-Clinica pediatrica;  
-Patologia pediatrica;  
-Puericultura;  
-Semeiotica pediatrica e tecnica diagnostica;  
-Terapia pediatrica (annuale);  
-Radiologia pediatrica (annuale);  
-Malattie infettive dell'infanzia (annuale).  
-3° Anno:  
-Clinica pediatrica;  
-Neuropsichiatria ed igiene mentale dell'infanzia.  
-Le materie fondamentali sopraelencate saranno integrate a giudizio del consiglio della scuola da almeno tre insegnamenti scelti fra i seguenti:  
-Chirurgia pediatrica;  
-Ortopedia e traumatologia infantile;  
-Odontoiatria;  
-Clinica dermosifilopatica;  
-Clinica oculistica;  
-Clinica otorinolaringoiatrica;  
-Cardiologia;  
-Genetica;  
-ed altre eventuali che il consiglio della scuola puo' stabilire di anno in anno.  
-Il direttore della scuola, inoltre, puo' disporre che si tengano un certo numero di conferenze su argomenti di interesse pediatrico.  
-Art. 143. - Il corso ha la durata di 3 anni. L'insegnamento ha carattere essenzialmente dimostrativo e pratico. L'iscrizione direttamente al secondo anno del corso puo' essere consentita, a giudizio del consiglio della scuola, per i candidati che abbiano conseguito il diploma di specializzazione in puericultura o che abbiano titoli pediatrici.  
-Art. 144. - Alla scuola di specializzazione in clinica pediatrica sono ammessi complessivamente settanta iscritti.  
-Gli iscritti hanno l'obbligo di internato, obbligatorio per tutto il triennio nella clinica pediatrica.  
-Sono concessi due mesi di ferie all'anno.  
-E' obbligatoria l'assidua frequenza a tutti i corsi di insegnamento compresi quelli integrativi.  
-Art. 145. - Al corso possono iscriversi solo i laureati in medicina e chirurgia. Le norme di iscrizione, pagamento tasse, esami, ecc. sono quelle generali delle scuole di specializzazione e di perfezionamento riferite negli articoli da 122 a 137 di questo statuto.  
-Art. 146. - Per conseguire il diploma di specializzazione in pediatria gli iscritti al corso, dopo aver superato tutti gli esami e completata la frequenza obbligatoria, dovranno presentare e discutere una dissertazione scritta su di un argomento di pediatria.  
-Il diploma di specialista cosi' conseguito e' valido a tutti gli effetti di legge.  
+Analisi matematica e geo- Analisi matematica metria analitica II (seme- e geometria analiti- strale); ca I;  
+Statica e fisica tecnica Analisi matematica ed impianti; e geometria analiti- ca II (semestrale);  
+Fisica tecnica ed impian- Fisica (semestra- ti; le);  
+Scienza delle costruzioni; Statica;  
+Tecnica delle costruzioni; Scienza delle co- struzioni;  
+Composizione architettoni- Composizione ar- ca III; chitettonica I;  
+Composizione architettoni- Composizione ar- ca V; chitettonica III;  
+Restauro dei monumenti; Storia dell'archi- tettura.  
+  
+Art. 93. - Gli insegnamenti vengono impartiti, secondo le materie, mediante lezioni orali, esercizi ed esercitazioni pratiche varie collettive ed individuali, integrate da proiezioni, visite a monumenti, edifici, cantieri e stabilimenti di, produzione che presentano particolare interesse ai fini dell'insegnamento stesso.  
+Gli insegnamenti delle materie compositive comprendono lezioni teoriche-pratiche ed esercitazioni individuali o collettive che si concludono con la elaborazione di progetti individuali, aventi per oggetto temi peculiari di ciascuna materia.  
+Art. 94. - Gli esami di profitto consistono in prove orali o pratiche, individuali, in relazione col carattere di ciascuna materia.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito le lezioni e le esercitazioni e deve aver superato gli esami di almeno ventidue discipline, con un totale di venticinque esami.  
+Art. 95. - Le prove dell'esame di laurea consistono in:  
+1) redazione individuale di un progetto per un'opera di architettura o di restauro, analizzata anche nei riguardi delle sue implicazioni urbanistiche e strutturali (tesi di laurea), che dovra' essere seguita durante il suo sviluppo, da un relatore coadiuvato da un correlatore, preventivamente designato, su richiesta del candidato, tra i componenti del Corpo docente;  
+2) esecuzione di una prova estemporanea individuale, della durata di otto ore, attinente al calcolo strutturale;  
+3) discussione pubblica sui criteri che hanno guidato il candidato nello svolgimento del progetto di cui al punto 1).  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1970
+### Dato a Roma, addi' 25 gennaio 1971
 
 SARAGAT MISASI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 9 gennaio 1971
+Registrato alla Corte dei conti, addi' 24 marzo 1971
 
-Atti del Governo, registro n. 240, foglio n. 18. - CARUSO
+Atti del Governo, registro n. 241, foglio n. 82. - GRECO

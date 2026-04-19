@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1076
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 settembre 1982 n. 849
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1076
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 settembre 1982 n. 849
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Pavia approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -39,74 +39,44 @@ Art. 1
 ------
 
   
-Nell'art. 52, relativo al corso di laurea in lettere, all'elenco degli insegnamenti complementari sono aggiunti i nuovi seguenti insegnamenti:  
-semiologia dello spettacolo;  
-letteratura provenzale;  
-metrica e stilistica;  
-filologia e critica dantesca;  
-storia della programmatica italiana;  
-stilistica e retorica;  
-storia dell'arte lombarda;  
-storia dell'architettura e dell'urbanistica;  
-antichita' greche e romane;  
-storia del teatro e della drammaturgia antica;  
-didattica delle lingue classiche;  
-storia della storiografia antica;  
-assirologia;  
-egittologia;  
-preistoria del vicino e medio Oriente;  
-filologia iranica;  
-archeologia medievale;  
-museologia e museografia;  
-archeologia e storia dell'arte della tarda antichita'.  
+Nell'art. 52, relativo al corso di laurea in lettere, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+teoria e storia della storiografia;  
+storia economica e sociale dell'eta' moderna e contemporanea;  
+storia agraria moderna e contemporanea;  
+storia dell'industria;  
+storia della sanita' pubblica;  
+storia regionale della Lombardia nell'eta' moderna e contemporanea;  
+storia della Chiesa;  
+storia della Pieta';  
+storia regionale della Lombardia medievale;  
+topografia medievale;  
+storia agraria medievale;  
+storia economica e sociale del Medioevo;  
+paleografia latina;  
+diplomatica;  
+esegesi delle fonti storiche medievali;  
+letterature del Rinascimento.  
 
 Art. 2
 ------
 
   
-Nell'art. 53, relativo al corso di laurea in lingue e letterature straniere moderne, l'insegnamento fondamentale di filologia romanza, o germanica o slava, cambia la denominazione in quello di "filologia romanza (o germanica, o slava o ugro-finnica)".  
-Nello stesso articolo all'elenco degli insegnamenti complementari, sono soppressi i seguenti insegnamenti:  
-storia della musica;  
-letteratura greca;  
-storia romana;  
-storia greca;  
-storia della filosofia;  
-storia della filosofia moderna e contemporanea;  
-storia comparata delle letterature europee.  
-Inoltre gli insegnamenti di lingua e letteratura olandese e fiamminga, letterature moderne, lingua e letteratura scandinava, cambiano la denominazione rispettivamente in quella di "lingua e letteratura nederlandese", "letterature moderne comparate", "lingue e letterature scandinave".  
-
-Art. 3
-------
-
-  
-Nell'art. 54, relativo al corso di laurea in filosofia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-storia della patristica greca e latina;  
-storia del pensiero politico medievale;  
-storia della filosofia del Rinascimento;  
-storia della filosofia moderna;  
-storia della filosofia contemporanea;  
-storia della filosofia dell'illuminismo;  
-storia delle dottrine estetiche;  
-storia della filosofia morale;  
-storia della medicina greca;  
-storia del pensiero politico antico;  
-etnologia;  
-teorie della personalita';  
-psicolinguistica;  
-metodologia statistica generale e psicometria;  
-sociologia dell'educazione;  
-sociologia della conoscenza.  
+Nell'art. 59, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+organogenesi umana con elementi di embriologia;  
+chirurgia maxillo-facciale;  
+patologia urologica;  
+igiene della nutrizione.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1981
+### Dato a Roma, addi' 9 settembre 1982
 
 PERTINI BODRATO
 
 Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 2 marzo 1982
+Registrato alla Corte dei conti, addi' 8 novembre 1982
 
-Registro n. 33 Istruzione, foglio n. 343
+Registro n. 123 Istruzione, foglio n. 239

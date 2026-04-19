@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1984 n. 524
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1968 n. 1257
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1984 n. 524
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1968 n. 1257
+===============================================================
 
 Modificazioni allo statuto dell'istituto universitario orientale di Napoli.
 ---------------------------------------------------------------------------
@@ -10,224 +10,637 @@ Modificazioni allo statuto dell'istituto universitario orientale di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Istituto universitario orientale di Napoli, approvato con [regio decreto 24 ottobre 1941, n. 1616](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-24;1616), e successive modificazioni;
+Veduto lo statuto dell'Istituto universitario orientale di Napoli, approvato con [regio decreto 24 ottobre 1941, n. 1616](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-24;1616) e modificato con [decreto del Capo provvisorio dello Stato 16 febbraio 1947, n. 459](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-02-16;459) e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Veduta la [legge 25 luglio 1966, n. 602](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-07-25;602);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Istituto universitario orientale di Napoli e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
 Lo statuto dell'Istituto universitario orientale di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 2. - E' abrogato e sostituito dal seguente: "L'Istituto conferisce le seguenti lauree:
+
+1) Laurea in scienze politiche per l'oriente;
+
+2) Laurea in lingue e civilta' orientali;
+
+3) Laurea in lingue, letterature ed istituzioni dell'Europa orientale;
+
+4) Laurea in lingue, letterature ed istituzioni dell'Europa occidentale;
+
+5) Laurea in lingua e letterature slave;
+
+6) Laurea in scienze politiche per l'Europa orientale".
+
+Art. 8. - E' abrogato e sostituito dal seguente: "Sono annessi alla facolta' i seguenti seminari:
+
+1) Seminario di arabistica ed islamistica;
+
+2) Seminario di semitistica;
+
+3) Seminario di africanistica;
+
+4) Seminario di turcologia;
+
+5) Seminario di iranistica;
+
+6) Seminario di indianistica;
+
+7) Seminario di sinologia;
+
+8) Seminario di yamatologia;
+
+9) Seminario di russo;
+
+10) Seminario di filologia slava;
+
+11) Seminario di studi finno-ugrici;
+
+12) Seminario di studi balcanici e del sud-est europeo;
+
+13) Seminario di tedesco e filologia germanica (comprende anche olandese);
+
+14) Seminario di lingue e letterature nordiche;
+
+15) Seminario di lingua e letteratura inglese;
+
+16) Seminario di letteratura nord-americana;
+
+17) Seminario di studi francesi;
+
+18) Seminario di spagnolo;
+
+19) Seminario di portoghese;
+
+20) Seminario di glottologia;
+
+21) Seminario di fonetica sperimentale;
+
+22) Seminario di studi storici;
+
+23) Seminario di geografia ed etnologia;
+
+24) Seminario di studi giuridici e sociali e degli ordinamenti dei Paesi socialisti;
+
+25) Seminario di archeologia orientale;
+
+26) Seminario di filologia romanza".
+
+Art. 15. - E' abrogato e sostituito dal seguente: "La durata del corso per ciascuna laurea e' di quattro anni. Nei successivi capi II, III, IV, V, VI e VII sono indicati i rispettivi piani generali di studio per ciascuna sezione. Il consiglio di facolta' ne determina l'ordine anno per anno".
+
+Art. 17. - Nel corso di laurea in scienze politiche per l'oriente, gli insegnamenti fondamentali n. 4 della sezione Estremo oriente, n. 2 della sezione Vicino e Medio oriente e n. 7 comune alle due sezioni, assumono rispettivamente la seguente denominazione:
+
+4) Religioni e filosofie dell'Estremo oriente;
+
+2) Lingua e letteratura biennale (turco o persiano o lingue arie moderne dell'India o lingue del Pakistan o indonesiano o amarico o swahili);
+
+7) Etnologia;
+
+Nello stesso corso di laurea:
+
+a) per la Sezione estremo oriente gli insegnamenti complementari di "storia dell'arte del Medio ed Estremo oriente" e di "storia delle missioni" sono soppressi e sostituiti dai seguenti:
+
+"Storia dell'arte dell'India e dell'Asia centrale;
+
+storia dell'arte dell'Estremo oriente;
+
+storia e diritto delle missioni".
+
+b) per la Sezione vicino e medio oriente sono aggiunti i seguenti insegnamenti complementari:
+
+Archeologia del vicino oriente;
+
+Storia del vicino oriente preislamico;
+
+Lingue e letterature semitiche e non semitiche dell'Africa orientale.
+
+Art. 18. - E' modificato nel senso che la denominazione dell'insegnamento di etnografia e' mutata in quella di "Etnologia".
+
+Art. 23. - Nel corso di lauree in lingue e civilta' orientali, gli insegnamenti fondamentali n. 2) e n. 3) comuni alle tre sezioni, n. 9) della Sezione estremo oriente, n. 6) della Sezione vicino e medio oriente, n. 8) della sezione Africa assumono rispettivamente le seguenti denominazioni:
+
+2) Etnologia;
+
+3) Lingua russa o tedesca o francese (biennale);
+
+9) Religioni e filosofie dell'Estremo oriente (biennale);
+
+6) Lingua e letteratura quadriennale (arabo o turco o ebraico o persiano o lingue arie moderne dell'India o lingue del Pakistan);
+
+8) Religioni ed istituzioni dei popoli dell'Africa.
+
+Nello stesso corso di laurea:
+
+a) per la Sezione estremo oriente gli insegnamenti di "Storia dell'arte del Medio ed Estremo oriente" e di "Storia delle missioni" sono soppressi mentre vengono istituiti i seguenti:
+
+Storia dell'arte dell'India e dell'Asia centrale;
+
+Storia dell'arte dell'Estremo oriente;
+
+Storia e diritto delle missioni;
+
+b) per la Sezione vicino e medio oriente gli insegnamenti di "Storia dell'arte del Medio ed Estremo oriente" e di "Religioni e filosofie del Medio ed Estremo oriente" sono soppressi mentre vengono istituiti i seguenti:
+
+Storia dell'arte dell'India e dell'Asia centrale;
+
+Storia dell'arte dell'Estremo oriente;
+
+Religioni e filosofie dell'Estremo oriente;
+
+Storia del Vicino oriente preislamico;
+
+Storia dell'archeologia orientale;
+
+Storia dell'India;
+
+Religioni e filosofie dell'India;
+
+Storia dell'Iran e dell'Asia centrale;
+
+Religioni dell'Iran e dell'Asia centrale;
+
+Dialettologia iranica;
+
+Una materia della Sezione estremo oriente o della Sezione Africa;
+
+Dialetti aramaici;
+
+Suderabico;
+
+Epigrafia islamica;
+
+Lingua e letteratura copta.
+
+c) per la sezione Africa l'insegnamento di "Storia delle missioni" viene soppresso mentre vengono istituiti i seguenti:
+
+Storia e diritto delle missioni;
+
+Lingue cuscitiche dell'Etiopia;
+
+Una materia della Sezione vicino e medio oriente;
+
+Lingua e letteratura copta.
+
+Art. 27, relativo al corso di laurea in lingue, letterature e istituzioni dell'Europa orientale e' abrogato e sostituito dal seguente:
+
+"Sono titoli di ammissione al corso di laurea in lingue, letterature ed istituzioni dell'Europa orientale il diploma di maturita' classica, di maturita' scientifica, di abilitazione magistrale, degli istituti tecnici di ogni tipo, compresi quelli femminili, nonche' il diploma della scuola di magistero professionale per la donna.
+
+Gli insegnamenti fondamentali sono:
+
+1) Lingua e letteratura italiana (biennale);
+
+2) Lingua francese o inglese o tedesca (biennale);
+
+3) Glottologia (biennale);
+
+4) Storia moderna;
+
+5) Storia dell'Europa orientale;
+
+6) Geografia politica ed economica;
+
+7) Lingua e letteratura quadriennale: ungherese o finlandese o greco moderno o albanese o bulgaro o macedone o serbo croato o sloveno;
+
+8) Lingua e letteratura triennale: una delle lingue di cui al n. 7) non scelta come quadriennale o romeno (con inizio al secondo anno).
+
+Sono insegnamenti fondamentali per il terzo e quarto anno di corso:
+
+9) Filologia ugro-finnica (biennale), per gli iscritti al corso quadriennale di ungherese e di finlandese;
+
+10) Filologia classica (biennale), per gli iscritti al corso quadriennale di greco moderno;
+
+11) Filologia illirica (biennale), per gli iscritti al corso quadriennale di albanese;
+
+12) Filologia slava (biennale), per gli iscritti al corso quadriennale di bulgaro o macedone o serbo croato o sloveno.
+
+Sono insegnamenti complementari:
+
+Istituzioni giuridiche e sociali dell'Europa orientale;
+
+Istituzioni di diritto pubblico;
+
+Storia dell'arte dei Paesi europei;
+
+Fonetica sperimentale;
+
+Etnologia;
+
+Lingua e letteratura latina (biennale)".
+
+Dopo l'art. 27, e con il conseguente spostamento della successiva numerazione, vengono aggiunti i seguenti nuovi articoli da 28 a 33 relativi all'istituzione dei corsi di laurea in lingue e letterature slave e in scienze politiche per l'Europa orientale, raggruppati sotto i capi V e VI nel modo seguente:
+
+CAPO V
+
+Laurea in lingue e letterature slave
+
+Art. 28. - Sono titoli di ammissione il diploma di maturita' classica e il diploma di maturita' scientifica.
+
+Sono insegnamenti fondamentali:
+
+1) Lingua francese o inglese o tedesca (biennale);
+
+2) Glottologia (biennale);
+
+3) Storia dell'Europa orientale (biennale);
+
+4) Lingua e letteratura quadriennale: una lingua slava;
+
+5) Lingua e letteratura triennale: una lingua slava non scelta come quadriennale.
+
+E' insegnamento fondamentale per il terzo e il quarto anno di corso:
+
+6) Filologia slava (biennale).
+
+Sono insegnamenti complementari:
+
+Storia dell'arte;
+
+Fonetica sperimentale;
+
+Etnologia;
+
+Lingue balcaniche;
+
+Ungherese;
+
+Finlandese;
+
+Filologia ugro-finnica;
+
+Filologia celtica;
+
+Paleografia cirillica e glagolitica.
+
+CAPO VI
+
+Laurea in scienze politiche per l'Europa orientale
+
+Art. 29. - Sono titoli di ammissione il diploma di maturita' classica e il diploma di maturita' scientifica.
+
+Sono insegnamenti fondamentali:
+
+1) Lingua e letteratura quadriennale (russo o polacco o bulgaro o ceco o slovacco o sloveno o serbo-croato);
+
+2) Lingua e letteratura triennale (una delle lingue di cui al n. 1) non scelta come quadriennale);
+
+3) Lingua biennale (francese o inglese);
+
+4) Geografia politica ed economica;
+
+5) Storia dell'Europa orientale (biennale);
+
+6) Istituzioni giuridiche e sociali dell'Europa orientale (biennale);
+
+7) Istituzioni di diritto privato;
+
+8) Istituzioni di diritto pubblico;
+
+9) Diritto internazionale;
+
+10) Storia dei trattati e politica internazionale;
+
+11) Economia politica;
+
+12) Politica economica.
+
+Sono insegnamenti complementari:
+
+Storia contemporanea;
+
+Diritto consolare;
+
+Sociologia;
+
+Etnologia.
+
+Art. 30. - Gli insegnamenti di geografia politica ed economica, di istituzioni di diritto privato, di istituzioni di diritto pubblico, di economia politica e di politica devono essere svolti con riferimento ai Paesi di cui si studiano le lingue.
+
+Art. 31. - Gli insegnamenti linguistici comportano, al termine di ciascun anno, due esami scritti (uno di versione dalla lingua ed uno di versione nella lingua) ed uno orale.
+
+Art. 32. - Tutti gli altri insegnamenti, sia annuali che pluriennali, comportano una prova orale alla fine di ciascun anno di corso.
+
+Art. 33. - Per essere ammesso all'esame di laurea, lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali, nonche' in almeno due insegnamenti complementari.
+
+L'art. 34 (ex art. 28) sotto il capo VII, relativo al corso di laurea in lingue, letterature e istituzioni dell'Europa occidentale e' modificato nel senso che i primi tre comma sono abrogati e sostituiti dai seguenti:
+
+Art. 34. - Il corso di laurea in lingue, letterature e istituzioni dell'Europa occidentale comprende le seguenti sezioni:
+
+a) Romanza;
+
+b) Germanica.
+
+Sono titoli di ammissione il diploma di maturita' di maturita' scientifica, di abilitazione magistrale, degli istituti tecnici di ogni tipo, compresi quelli nonche' il diploma della scuola di magistero professionale per la donna.
+
+Nello stesso corso di laurea gli insegnamenti fondamentali per il primo ed il secondo anno di corso n. 2) comune alle due sezioni, n. 6) e n. 7) per la sezione romanza, e n. 8) per la Sezione germanica, assumono la seguente nuova denominazione:
+
+2) Lingua e letteratura latina (biennale);
+
+6) Lingua e letteratura quadriennale (francese o spagnolo o portoghese o romeno);
+
+7) Lingua e letteratura triennale (una delle lingue di cui al n. 6) non scelta come quadriennale, con inizio al 2° anno);
+
+8) Lingua biennale (francese o spagnolo o portoghese).
+
+Nello stesso corso di laurea l'insegnamento complementare di etnografia dell'Europa e' soppresso mentre vengono aggiunti i seguenti:
+
+Etnologia;
+
+Filologia celtica;
+
+Fonetica sperimentale;
+
+Storia dei Paesi di lingua inglese.
+
+Il titolo del capo VIII e' mutato nel modo seguente: " Norme comuni ai corsi di laurea in lingue, letterature e istituzioni dell'Europa orientale, in lingue e letterature slave ed in lingue, letterature e istituzioni dell'Europa occidentale ".
+
+Nello stesso capo VIII l'art. 38 (ex 32) e' modificato nel modo seguente: « Per tutte le prove scritte di lingua del III e del IV anno non e' consentito l'uso del vocabolario ».
+
+Dopo l'art. 39 (ex 33 ), e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli 40 e 41:
+
+Art. 40. - L'esame di lingua e letteratura latina comporta una prova orale alla fine del secondo anno.
+
+Art. 41. - L'esame di filologia romanza puo' essere sostenuto soltanto dai candidati che abbiano gia' superato quello del secondo anno della lingua quadriennale.
+
+Art. 45 (ex 37), e' modificato nel senso che il primo comma e' integrato nel modo seguente: « Possono iscriversi ai corsi di laurea di cui ai capi II, III, IV, V, VI e VII del titolo II coloro che siano in possesso di titoli conseguiti all'estero, presso scuole italiane riconosciute o presso Istituti di Istruzione ufficiale nello Stato straniero sempre che, per legge o su parere del consiglio di facolta', tali titoli siano considerati equipollenti a quelli italiani validi per l'ammissione ai singoli corsi di laurea.
+
+Art. 54 (ex 46), e' abrogato e sostituito dal seguente: «Per ciascun esame che comporti prove scritte ed orali, le prove scritte sono indipendenti tra loro e rispetto a quella orale.
+
+Pertanto, lo studente riprovato in una o piu' prove non sara' tenuto a ripetere quella o quelle eventualmente superate ».
+
+L'art. 61 (ex 53) recante disposizioni transitorie e' abrogato e sostituito dal seguente: «L'ordinamento didattico approvato con [decreto del Presidente della Repubblica 14 marzo 1958, n. 753](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1958-03-14;753), si applica a tutti gli studenti immatricolati a decorrere dall'anno accademico 1957-58, nonche' agli studenti immatricolati precedentemente che abbiano dichiarato di optare per esso. Questi ultimi saranno iscritti al corso corrispondente a quello da essi seguito, su giudizio del consiglio di' facolta', il quale decidera' anche sui casi speciali e sulle eventuali convalide di esami.
+
+Gli studenti immatricolati fino a tutto l'anno accademico 1956-57 che non abbiano optato per l'ordinamento suddetto, potranno completare il loro corso di studi secondo le norme che lo disciplinavano precedentemente, entro tutto l'anno accademico 1967-68. Trascorso tale termine si applicheranno anche ad essi le disposizioni del vigente statuto, con le modalita' indicate nel precedente comma.
+
+Gli studenti immatricolati fino a tutto l'anno accademico 1965-66 all'indirizzo storico-politico del corso di laurea in lingue e civilta' orientali soppresso con [decreto del Presidente della Repubblica 20 settembre 1966, n. 926](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-09-20;926), che non optino per il nuovo ordinamento potranno completare il loro corso di studi secondo le norme di cui al [decreto del Presidente della Repubblica 14 marzo 1958, n. 753](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1958-03-14;753).
+
+Gli studenti immatricolati fino a tutto l'anno accademico 1966-67 alla sezione slava e alla sezione balcanico-danubiana del corso di laurea in lingue, letterature ed istituzioni dell'Europa orientale, che non optino per il nuovo ordinamento, potranno completare il loro corso di studi secondo le norme di cui al [decreto del Presidente della Repubblica 14 marzo 1958, n. 753](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1958-03-14;753) ".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 14 ottobre 1968
+
+Saragat
+
+Scaglia
+
+Visto, il Guardasigilli: Gonella
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 18 dicembre 1968 Atti del Governo, registro n. 224, foglio n. 81. - Greco
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Nell'art. 26, relativo al corso di laurea in lettere, allo elenco degli insegnamenti complementari e' incluso il seguente insegnamento: etnologia del sub-continente indiano.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Istituto universitario orientale di Napoli, approvato con [regio decreto 24 ottobre 1941, n. 1616](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-24;1616) e modificato con [decreto del Capo provvisorio dello Stato 16 febbraio 1947, n. 459](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-02-16;459) e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Veduta la [legge 25 luglio 1966, n. 602](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-07-25;602);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Nell'art. 28, relativo al corso di laurea in filosofia, all'elenco degli insegnamenti complementari e' incluso il seguente insegnamento: etnologia del sub-continente indiano.  
-
-Art. 3
-------
-
+Decreta:   
   
-Nell'art. 30, relativo al corso di laurea in lingue e letterature straniere moderne, all'elenco degli insegnamenti complementari sono inclusi i seguenti insegnamenti:  
-etnologia del sub-continente indiano;  
-storia, cultura e istituzioni dei Paesi di lingua inglese.  
-
-Art. 4
-------
-
+Lo statuto dell'Istituto universitario orientale di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+  
+Art. 2. - E' abrogato e sostituito dal seguente: "L'Istituto conferisce le seguenti lauree:   
+1) Laurea in scienze politiche per l'oriente;   
+2) Laurea in lingue e civilta' orientali;   
+3) Laurea in lingue, letterature ed istituzioni dell'Europa orientale;   
+4) Laurea in lingue, letterature ed istituzioni dell'Europa occidentale;   
+5) Laurea in lingua e letterature slave;   
+6) Laurea in scienze politiche per l'Europa orientale".   
+  
+Art. 8. - E' abrogato e sostituito dal seguente: "Sono annessi alla facolta' i seguenti seminari:   
+1) Seminario di arabistica ed islamistica;   
+2) Seminario di semitistica;   
+3) Seminario di africanistica;   
+4) Seminario di turcologia;   
+5) Seminario di iranistica;   
+6) Seminario di indianistica;   
+7) Seminario di sinologia;   
+8) Seminario di yamatologia;   
+9) Seminario di russo;   
+10) Seminario di filologia slava;   
+11) Seminario di studi finno-ugrici;   
+12) Seminario di studi balcanici e del sud-est europeo;   
+13) Seminario di tedesco e filologia germanica (comprende anche olandese);   
+14) Seminario di lingue e letterature nordiche;   
+15) Seminario di lingua e letteratura inglese;   
+16) Seminario di letteratura nord-americana;   
+17) Seminario di studi francesi;   
+18) Seminario di spagnolo;   
+19) Seminario di portoghese;   
+20) Seminario di glottologia;   
+21) Seminario di fonetica sperimentale;   
+22) Seminario di studi storici;   
+23) Seminario di geografia ed etnologia;   
+24) Seminario di studi giuridici e sociali e degli ordinamenti dei Paesi socialisti;   
+25) Seminario di archeologia orientale;   
+26) Seminario di filologia romanza".   
+  
+Art. 15. - E' abrogato e sostituito dal seguente: "La durata del corso per ciascuna laurea e' di quattro anni. Nei successivi capi II, III, IV, V, VI e VII sono indicati i rispettivi piani generali di studio per ciascuna sezione. Il consiglio di facolta' ne determina l'ordine anno per anno".   
+  
+Art. 17. - Nel corso di laurea in scienze politiche per l'oriente, gli insegnamenti fondamentali n. 4 della sezione Estremo oriente, n. 2 della sezione Vicino e Medio oriente e n. 7 comune alle due sezioni, assumono rispettivamente la seguente denominazione:   
+4) Religioni e filosofie dell'Estremo oriente;   
+2) Lingua e letteratura biennale (turco o persiano o lingue arie moderne dell'India o lingue del Pakistan o indonesiano o amarico o swahili);   
+7) Etnologia;   
+Nello stesso corso di laurea:   
+a) per la Sezione estremo oriente gli insegnamenti complementari di "storia dell'arte del Medio ed Estremo oriente" e di "storia delle missioni" sono soppressi e sostituiti dai seguenti:   
+"Storia dell'arte dell'India e dell'Asia centrale;   
+storia dell'arte dell'Estremo oriente;   
+storia e diritto delle missioni".   
+b) per la Sezione vicino e medio oriente sono aggiunti i seguenti insegnamenti complementari:   
+Archeologia del vicino oriente;   
+Storia del vicino oriente preislamico;   
+Lingue e letterature semitiche e non semitiche dell'Africa orientale.   
+  
+Art. 18. - E' modificato nel senso che la denominazione dell'insegnamento di etnografia e' mutata in quella di "Etnologia".   
+  
+Art. 23. - Nel corso di lauree in lingue e civilta' orientali, gli insegnamenti fondamentali n. 2) e n. 3) comuni alle tre sezioni, n. 9) della Sezione estremo oriente, n. 6) della Sezione vicino e medio oriente, n. 8) della sezione Africa assumono rispettivamente le seguenti denominazioni:   
+2) Etnologia;   
+3) Lingua russa o tedesca o francese (biennale);   
+9) Religioni e filosofie dell'Estremo oriente (biennale);   
+6) Lingua e letteratura quadriennale (arabo o turco o ebraico o persiano o lingue arie moderne dell'India o lingue del Pakistan);   
+8) Religioni ed istituzioni dei popoli dell'Africa.   
+Nello stesso corso di laurea:   
+a) per la Sezione estremo oriente gli insegnamenti di "Storia dell'arte del Medio ed Estremo oriente" e di "Storia delle missioni" sono soppressi mentre vengono istituiti i seguenti:   
+Storia dell'arte dell'India e dell'Asia centrale;   
+Storia dell'arte dell'Estremo oriente;   
+Storia e diritto delle missioni;   
+b) per la Sezione vicino e medio oriente gli insegnamenti di "Storia dell'arte del Medio ed Estremo oriente" e di "Religioni e filosofie del Medio ed Estremo oriente" sono soppressi mentre vengono istituiti i seguenti:   
+Storia dell'arte dell'India e dell'Asia centrale;   
+Storia dell'arte dell'Estremo oriente;   
+Religioni e filosofie dell'Estremo oriente;   
+Storia del Vicino oriente preislamico;   
+Storia dell'archeologia orientale;   
+Storia dell'India;   
+Religioni e filosofie dell'India;   
+Storia dell'Iran e dell'Asia centrale;   
+Religioni dell'Iran e dell'Asia centrale;   
+Dialettologia iranica;   
+Una materia della Sezione estremo oriente o della Sezione Africa;   
+Dialetti aramaici;   
+Suderabico;   
+Epigrafia islamica;   
+Lingua e letteratura copta.   
+c) per la sezione Africa l'insegnamento di "Storia delle missioni" viene soppresso mentre vengono istituiti i seguenti:   
+Storia e diritto delle missioni;   
+Lingue cuscitiche dell'Etiopia;   
+Una materia della Sezione vicino e medio oriente;   
+Lingua e letteratura copta.   
+  
+Art. 27, relativo al corso di laurea in lingue, letterature e istituzioni dell'Europa orientale e' abrogato e sostituito dal seguente:   
+"Sono titoli di ammissione al corso di laurea in lingue, letterature ed istituzioni dell'Europa orientale il diploma di maturita' classica, di maturita' scientifica, di abilitazione magistrale, degli istituti tecnici di ogni tipo, compresi quelli femminili, nonche' il diploma della scuola di magistero professionale per la donna.   
+Gli insegnamenti fondamentali sono:   
+1) Lingua e letteratura italiana (biennale);   
+2) Lingua francese o inglese o tedesca (biennale);   
+3) Glottologia (biennale);   
+4) Storia moderna;   
+5) Storia dell'Europa orientale;   
+6) Geografia politica ed economica;   
+7) Lingua e letteratura quadriennale: ungherese o finlandese o greco moderno o albanese o bulgaro o macedone o serbo croato o sloveno;   
+8) Lingua e letteratura triennale: una delle lingue di cui al n. 7) non scelta come quadriennale o romeno (con inizio al secondo anno).   
+Sono insegnamenti fondamentali per il terzo e quarto anno di corso:   
+9) Filologia ugro-finnica (biennale), per gli iscritti al corso quadriennale di ungherese e di finlandese;   
+10) Filologia classica (biennale), per gli iscritti al corso quadriennale di greco moderno;   
+11) Filologia illirica (biennale), per gli iscritti al corso quadriennale di albanese;   
+12) Filologia slava (biennale), per gli iscritti al corso quadriennale di bulgaro o macedone o serbo croato o sloveno.   
+Sono insegnamenti complementari:   
+Istituzioni giuridiche e sociali dell'Europa orientale;   
+Istituzioni di diritto pubblico;   
+Storia dell'arte dei Paesi europei;   
+Fonetica sperimentale;   
+Etnologia;   
+Lingua e letteratura latina (biennale)".   
+  
+Dopo l'art. 27, e con il conseguente spostamento della successiva numerazione, vengono aggiunti i seguenti nuovi articoli da 28 a 33 relativi all'istituzione dei corsi di laurea in lingue e letterature slave e in scienze politiche per l'Europa orientale, raggruppati sotto i capi V e VI nel modo seguente:   
+  
+CAPO V   
+Laurea in lingue e letterature slave   
+  
+Art. 28. - Sono titoli di ammissione il diploma di maturita' classica e il diploma di maturita' scientifica.   
+Sono insegnamenti fondamentali:   
+1) Lingua francese o inglese o tedesca (biennale);   
+2) Glottologia (biennale);   
+3) Storia dell'Europa orientale (biennale);   
+4) Lingua e letteratura quadriennale: una lingua slava;   
+5) Lingua e letteratura triennale: una lingua slava non scelta come quadriennale.   
+E' insegnamento fondamentale per il terzo e il quarto anno di corso:   
+6) Filologia slava (biennale).   
+Sono insegnamenti complementari:   
+Storia dell'arte;   
+Fonetica sperimentale;   
+Etnologia;   
+Lingue balcaniche;   
+Ungherese;   
+Finlandese;   
+Filologia ugro-finnica;   
+Filologia celtica;   
+Paleografia cirillica e glagolitica.   
   
   
-Nell'art. 34, relativo al corso di laurea in lingue e civilta' orientali, l'insegnamento fondamentale di "storia contemporanea dell'Asia", per la sezione estremo Oriente, cambia denominazione in "storia della Cina".   
-Nello stesso articolo, all'elenco degli insegnamenti complementari per la sezione estremo Oriente, l'insegnamento di "storia delle istituzioni giuridiche e sociali dell'estremo Oriente" cambia denominazione in "storia politica e sociale dell'estremo Oriente".   
-Nello stesso articolo, inoltre, all'elenco degli insegnamenti complementari per la sezione estremo Oriente e' incluso il seguente insegnamento:   
-etnologia del sub-continente indiano.   
-
-Art. 5
-------
-
+CAPO VI   
+Laurea in scienze politiche per l'Europa orientale   
   
-Nell'art. 37, lettera f), relativo al corso di laurea in filologia e storia dell'Europa orientale, all'elenco degli insegnamenti complementari comuni ai quattro indirizzi e' incluso il seguente insegnamento:  
-etnologia del sub-continente indiano.  
-
-Art. 6
-------
-
   
-Nell'art. 68, relativo al corso di laurea in scienze politiche, al primo comma, lettera d), l'indirizzo "Oriente" del biennio di specializzazione viene sostituito con la seguente nuova denominazione: "Asia e Africa".  
-Nel terzo comma del medesimo articolo, la frase "... non piu' di due insegnamenti obbligatori", viene sostituita con la seguente: "... non piu' di tre insegnamenti obbligatori".  
-Inoltre il quinto comma e' soppresso e sostituito dal seguente:  
-La facolta' sceglie gli insegnamenti, entro il limite massimo di quindici, sulla base dei seguenti elenchi:  
-a) Indirizzo politico - internazionale:  
-antropologia culturale;  
-diritto amministrativo;  
-diritto delle Comunita' europee;  
-diritto diplomatico e consolare;  
-diritto internazionale;  
-diritto internazionale dell'economia;  
-diritto internazionale privato;  
-diritto parlamentare comparato;  
-diritto privato comparato;  
-diritto pubblico dell'economia economia internazionale;  
-economia e politica monetaria;  
-filosofia della politica;  
-geografia politica ed economica;  
-istituzioni di diritto privato;  
-politica comparata;  
-politica economica e finanziaria;  
-relazioni Internazionali;  
-scienza della politica;  
-storia delle dottrine economiche;  
-storia delle relazioni internazionali;  
-teoria e politica dello sviluppo economico.  
-b) Indirizzo storico politico:  
-antropologia culturale;  
-demografia storica;  
-economia dei Paesi in via di sviluppo;  
-etnologia;  
-filosofia del diritto;  
-filosofia della politica;  
-geografia politica ed economica;  
-istituzioni di diritto penale;  
-metodologia delle scienze sociali;  
-relazioni industriali;  
-storia dei partiti e dei movimenti politici;  
-storia dell'Africa del nord;  
-storia dell'Africa sub-sahariana;  
-storia dell'America latina;  
-storia del diritto moderno e contemporaneo;  
-storia della filosofia moderna e contemporanea;  
-storia delle dottrine economiche;  
-storia delle istituzioni politiche;  
-storia delle missioni;  
-storia dell'Iran e dell'Asia centrale;  
-storia delle relazioni internazionali;  
-storia dell'Europa orientale;  
-storia del movimento operaio;  
-storia e civilta' dell'estremo Oriente;  
-storia e civilta' del vicino e medio Oriente dall'avvento dell'Islam all'eta' moderna;  
-storia economica;  
-storia medioevale;  
-storia moderna e contemporanea del Giappone;  
-storia moderna e contemporanea della Cina;  
-storia moderna e contemporanea del sub-continente indiano;  
-storia sociale;  
-teoria e politica dello sviluppo economico;  
-storia contemporanea dell'Asia.  
-c) Indirizzo Europa orientale:  
-diritto dei Paesi socialisti;  
-diritto diplomatico e consolare;  
-diritto internazionale;  
-diritto parlamentare comparato;  
-economia dei Paesi socialisti;  
-economia internazionale;  
-geografia politica ed economica;  
-istituzioni di diritto privato;  
-istituzioni politiche e sociali dell'Europa orientale;  
-metodi e sistemi di pianificazione dell'Europa orientale;  
-organizzazione internazionale;  
-sistemi economici comparati;  
-storia agraria;  
-storia della filosofia moderna e contemporanea;  
-storia dei partiti e dei movimenti politici;  
-storia dei popoli della Siberia e dell'Asia centrale sovietica;  
-storia delle chiese e dei movimenti religiosi dell'Europa orientale;  
-storia delle istituzioni politiche;  
-storia dell'Europa orientale;  
-storia del movimento operaio;  
-storia dell'Unione sovietica;  
-storia economica;  
-storia economica dell'Europa orientale;  
-storia medioevale.  
-Indirizzo Asia - Africa - Materie comuni alle tre sezioni:  
-antropologia economica;  
-diritto internazionale;  
-economia dei Paesi in via di sviluppo;  
-etnologia;  
-geografia politica ed economica;  
-sociologia della modernizzazione;  
-storia agraria;  
-storia dei partiti e dei movimenti politici;  
-storia delle relazioni internazionali;  
-storia economica;  
-storia sociale.  
-A) Sezione Africa:  
-antropologia culturale;  
-religioni e istituzioni dell'Africa;  
-sistemi economici comparati dell'Africa;  
-sistemi politici e sociali dell'Africa contemporanea;  
-storia dell'Africa del nord;  
-storia dell'Africa sub-sahariana;  
-storia e istituzioni etiopiche;  
-teoria e politica dello sviluppo economico.  
-B) Sezione vicino e medio Oriente:  
-diritto musulmano;  
-islamistica;  
-istituzioni politiche e sociali dell'India;  
-religioni e filosofia dell'India;  
-sistemi economici dei Paesi arabi;  
-storia contemporanea del vicino Oriente;  
-storia della Turchia e dell'impero ottomano;  
-storia dell'Iran e dell'Asia centrale;  
-storia del vicino Oriente pre-islamico;  
-storia e civilta' del vicino e medio Oriente dall'avvento dell'Islam all'eta' moderna;  
-storia moderna e contemporanea del sub-continente indiano.  
-C) Sezione estremo Oriente:  
-religioni e filosofie dell'estremo Oriente;  
-sistemi economici dell'estremo Oriente;  
-storia della Corea e dell'Asia nord-orientale;  
-storia dell'Asia sud-orientale;  
-storia delle istituzioni giuridiche e sociali dello estremo Oriente;  
-storia del Vietnam;  
-storia e civilta' dell'estremo Oriente;  
-storia moderna e contemporanea del Giappone;  
-storia moderna e contemporanea della Cina.  
-
-Art. 7
-------
-
+Art. 29. - Sono titoli di ammissione il diploma di maturita' classica e il diploma di maturita' scientifica.   
+Sono insegnamenti fondamentali:   
+1) Lingua e letteratura quadriennale (russo o polacco o bulgaro o ceco o slovacco o sloveno o serbo-croato);   
+2) Lingua e letteratura triennale (una delle lingue di cui al n. 1) non scelta come quadriennale);   
+3) Lingua biennale (francese o inglese);   
+4) Geografia politica ed economica;   
+5) Storia dell'Europa orientale (biennale);   
+6) Istituzioni giuridiche e sociali dell'Europa orientale (biennale);   
+7) Istituzioni di diritto privato;   
+8) Istituzioni di diritto pubblico;   
+9) Diritto internazionale;   
+10) Storia dei trattati e politica internazionale;   
+11) Economia politica;   
+12) Politica economica.   
+Sono insegnamenti complementari:   
+Storia contemporanea;   
+Diritto consolare;   
+Sociologia;   
+Etnologia.   
   
-Nell'art. 70, dopo "lingua inglese (biennale)" e' inserita "lingua tedesca (biennale)".  
-
-Art. 8
-------
-
+Art. 30. - Gli insegnamenti di geografia politica ed economica, di istituzioni di diritto privato, di istituzioni di diritto pubblico, di economia politica e di politica devono essere svolti con riferimento ai Paesi di cui si studiano le lingue.   
   
-Nell'art. 74, relativo all'esame di laurea, il secondo comma viene soppresso e sostituito dal seguente:  
-"Il tema dell'elaborato di laurea deve rientrare nell'ambito di una delle discipline di cui lo studente abbia superato gli esami e deve essere coerente con l'indirizzo prescelto. L'argomento viene concordato tra il candidato e il professore della materia".  
+Art. 31. - Gli insegnamenti linguistici comportano, al termine di ciascun anno, due esami scritti (uno di versione dalla lingua ed uno di versione nella lingua) ed uno orale.   
+  
+Art. 32. - Tutti gli altri insegnamenti, sia annuali che pluriennali, comportano una prova orale alla fine di ciascun anno di corso.   
+  
+Art. 33. - Per essere ammesso all'esame di laurea, lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali, nonche' in almeno due insegnamenti complementari.   
+  
+L'art. 34 (ex art. 28) sotto il capo VII, relativo al corso di laurea in lingue, letterature e istituzioni dell'Europa occidentale e' modificato nel senso che i primi tre comma sono abrogati e sostituiti dai seguenti:   
+  
+Art. 34. - Il corso di laurea in lingue, letterature e istituzioni dell'Europa occidentale comprende le seguenti sezioni:   
+a) Romanza;   
+b) Germanica.   
+Sono titoli di ammissione il diploma di maturita' di maturita' scientifica, di abilitazione magistrale, degli istituti tecnici di ogni tipo, compresi quelli nonche' il diploma della scuola di magistero professionale per la donna.   
+Nello stesso corso di laurea gli insegnamenti fondamentali per il primo ed il secondo anno di corso n. 2) comune alle due sezioni, n. 6) e n. 7) per la sezione romanza, e n. 8) per la Sezione germanica, assumono la seguente nuova denominazione:   
+2) Lingua e letteratura latina (biennale);   
+6) Lingua e letteratura quadriennale (francese o spagnolo o portoghese o romeno);   
+7) Lingua e letteratura triennale (una delle lingue di cui al n. 6) non scelta come quadriennale, con inizio al 2° anno);   
+8) Lingua biennale (francese o spagnolo o portoghese).   
+Nello stesso corso di laurea l'insegnamento complementare di etnografia dell'Europa e' soppresso mentre vengono aggiunti i seguenti:   
+Etnologia;   
+Filologia celtica;   
+Fonetica sperimentale;   
+Storia dei Paesi di lingua inglese.   
+  
+Il titolo del capo VIII e' mutato nel modo seguente: " Norme comuni ai corsi di laurea in lingue, letterature e istituzioni dell'Europa orientale, in lingue e letterature slave ed in lingue, letterature e istituzioni dell'Europa occidentale ".   
+  
+Nello stesso capo VIII l'art. 38 (ex 32) e' modificato nel modo seguente: « Per tutte le prove scritte di lingua del III e del IV anno non e' consentito l'uso del vocabolario ».   
+  
+Dopo l'art. 39 (ex 33 ), e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli 40 e 41:   
+  
+Art. 40. - L'esame di lingua e letteratura latina comporta una prova orale alla fine del secondo anno.   
+  
+Art. 41. - L'esame di filologia romanza puo' essere sostenuto soltanto dai candidati che abbiano gia' superato quello del secondo anno della lingua quadriennale.   
+  
+Art. 45 (ex 37), e' modificato nel senso che il primo comma e' integrato nel modo seguente: « Possono iscriversi ai corsi di laurea di cui ai capi II, III, IV, V, VI e VII del titolo II coloro che siano in possesso di titoli conseguiti all'estero, presso scuole italiane riconosciute o presso Istituti di Istruzione ufficiale nello Stato straniero sempre che, per legge o su parere del consiglio di facolta', tali titoli siano considerati equipollenti a quelli italiani validi per l'ammissione ai singoli corsi di laurea.   
+  
+Art. 54 (ex 46), e' abrogato e sostituito dal seguente: «Per ciascun esame che comporti prove scritte ed orali, le prove scritte sono indipendenti tra loro e rispetto a quella orale.   
+Pertanto, lo studente riprovato in una o piu' prove non sara' tenuto a ripetere quella o quelle eventualmente superate ».   
+  
+L'art. 61 (ex 53) recante disposizioni transitorie e' abrogato e sostituito dal seguente: «L'ordinamento didattico approvato con [decreto del Presidente della Repubblica 14 marzo 1958, n. 753](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1958-03-14;753), si applica a tutti gli studenti immatricolati a decorrere dall'anno accademico 1957-58, nonche' agli studenti immatricolati precedentemente che abbiano dichiarato di optare per esso. Questi ultimi saranno iscritti al corso corrispondente a quello da essi seguito, su giudizio del consiglio di' facolta', il quale decidera' anche sui casi speciali e sulle eventuali convalide di esami.   
+Gli studenti immatricolati fino a tutto l'anno accademico 1956-57 che non abbiano optato per l'ordinamento suddetto, potranno completare il loro corso di studi secondo le norme che lo disciplinavano precedentemente, entro tutto l'anno accademico 1967-68. Trascorso tale termine si applicheranno anche ad essi le disposizioni del vigente statuto, con le modalita' indicate nel precedente comma.   
+Gli studenti immatricolati fino a tutto l'anno accademico 1965-66 all'indirizzo storico-politico del corso di laurea in lingue e civilta' orientali soppresso con [decreto del Presidente della Repubblica 20 settembre 1966, n. 926](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-09-20;926), che non optino per il nuovo ordinamento potranno completare il loro corso di studi secondo le norme di cui al [decreto del Presidente della Repubblica 14 marzo 1958, n. 753](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1958-03-14;753).   
+Gli studenti immatricolati fino a tutto l'anno accademico 1966-67 alla sezione slava e alla sezione balcanico-danubiana del corso di laurea in lingue, letterature ed istituzioni dell'Europa orientale, che non optino per il nuovo ordinamento, potranno completare il loro corso di studi secondo le norme di cui al [decreto del Presidente della Repubblica 14 marzo 1958, n. 753](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1958-03-14;753) ".   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 marzo 1984
+### Dato a Roma, addi' 14 ottobre 1968
 
-PERTINI FALCUCCI
+Saragat Scaglia
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: Gonella
 
-Registrato alla Corte dei conti, addi' 13 agosto 1984
+Registrato alla Corte dei conti, addi' 18 dicembre 1968
 
-Registro n. 49 Istruzione, foglio n. 300
+Atti del Governo, registro n. 224, foglio n. 81. - Greco

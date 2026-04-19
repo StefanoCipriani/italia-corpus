@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1978 n. 913
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 luglio 1978 n. 427
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1978 n. 913
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 luglio 1978 n. 427
+=============================================================
 
 Autorizzazione all'Associazione nazionale alpini, in Milano, ad accettare una donazione.
 ----------------------------------------------------------------------------------------
@@ -12,12 +12,8 @@ Art. 1
 
 N.
 
-913. Decreto del Presidente della Repubblica 5 dicembre 1978, col quale, sulla proposta del Ministro della difesa, l'Associazione nazionale alpini, in Milano, viene autorizzata ad accettare, rispettandone gli oneri, la donazione di due appezzamenti di terreno in comune di Asolo (Treviso), distinti in catasto con i mappali 236 (ex 230/ b) di mq 70, 20 (ex 20/
-
-a) e 234 (ex 22/
-
-b) di complessivi mq 613, sez. B, foglio III, disposta dal sig. Giovanni Dalla Rosa con atto pubblico 16 aprile 1977, n. 27456 di repertorio, a rogito dott. Vincenzo Imparato, notaio in Asolo.  
+427. Decreto del Presidente della Repubblica 8 luglio 1978, col quale, sulla proposta del Ministro della difesa, l'Associazione nazionale alpini, in Milano, viene autorizzata ad accettare la donazione, consistente in un terreno con sovrastante fabbricato rurale di due piani fuori terra piu' sottotetto, situato nel comune di Gavardo (Brescia), localita' Monticelli, e distinto nel catasto terreni alla partita 2248 con i mappali 297, 299, 300 e 1935, di Ha 1.84.60, disposta dalla sig. Lucia Guatta, con atto pubblico 10 agosto 1977, n. 8009 di repertorio e n. 3424 di raccolta, a rogito dott. Giancarlo De Rossi, notaio in Gavardo.  
   
 Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 15 gennaio 1979  
-Registro n. 2 Difesa, foglio n. 229
+Registrato alla Corte dei conti, addi' 5 agosto 1978  
+Registro n. 23 Difesa, foglio n. 154

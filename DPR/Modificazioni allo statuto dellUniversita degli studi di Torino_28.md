@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1968 n. 1130
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 maggio 1970 n. 552
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1968 n. 1130
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 maggio 1970 n. 552
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
@@ -10,13 +10,15 @@ Modificazioni allo statuto dell'Universita' degli studi di Torino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+Convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
@@ -32,90 +34,67 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 22. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti quelli di:
+Art. 9. - All'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di: "Antropologia criminale".
 
-Storia economica;
+Art. 10. - Relativo alle norme sulle propedeuticita' ed esami e' modificato nel senso che l'esame di "Istituzioni di diritto privato" non deve precedere l'esame di "Diritto costituzionale".
 
-Storia contemporanea;
+Art. 13. - All'elenco degli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto quello di "Antropologia criminale".
 
-Storia delle religioni;
+Art. 57. - Relativo al corso di laurea in fisica - per l'indirizzo matematico - e' modificato nel senso che al penultimo comma e' inserito il seguente: "Gli insegnamenti di teoria dei campi, relativita', cibernetica e teoria dell'informazione e istituzioni di fisica nucleare sono dichiarati materie di interesse matematico per gli studenti del corso di laurea in fisica".
 
-Estetica;
+Art. 71. - Relativo alle norme degli esami e alle propedeuticita' e' modificato nel senso che gli ultimi due commi concernenti l'esame di cultura generale per tutti i corsi di laurea della facolta' di scienze matematiche, fisiche e naturali sono soppressi.
 
-Storia e critica del cinema;
+Art. 83. - All'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti quelli di:
 
-Lingua e letteratura catalana;
+22) Storia dell'agricoltura (semestrale);
 
-Lingua e letteratura portoghese;
+23) Chimica dei prodotti usati in agricoltura (semestrale);
 
-Lingua e letteratura albanese;
+24) Coltivazioni da foraggio (semestrale);
 
-Ittitologia;
+25) Economia del mercato dei prodotti agricoli;
 
-Geografia economica;
+26) Sociologia rurale (semestrale);
 
-Storia delle tradizioni popolari;
+27) Fitosociologia;
 
-Storia del pensiero politico antico;
+28) Entomologia forestale;
 
-Assiriologia.
+29) Metodologia sperimentale in agricoltura;
 
-Art. 23. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti quelli di:
+30) Tecnica delle colture irrigue (semestrale);
 
-Storia delle religioni;
+31) Tecnica della meccanizzazione agricola.
 
-Filosofia del linguaggio;
+Nel predetto corso di laurea gli insegnamenti di "Alpicoltura e selvicoltura" e "Tecnica della bonifica" (costruzioni ed idraulica) sono soppressi. Al loro posto sono istituiti i seguenti insegnamenti:
 
-Storia della pedagogia;
-
-Psicologia dell'eta' evolutiva;
-
-Psicologia sociale;
-
-Psicologia dinamica.
-
-Art. 24. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne (ind. europeo) sono aggiunti quelli di:
-
-Storia della lingua inglese;
-
-Estetica;
-
-Storia e critica del cinema;
-
-Lingua e letteratura catalana;
-
-Lingua e letteratura portoghese;
-
-Lingua e letteratura albanese.
-
-Art. 105, relativo alla scuola di perfezionamento in filosofia e pedagogia e' modificato nel senso che dopo il secondo comma e' aggiunto il seguente:
-
-Il perfezionamento deve seguire, inoltre, una materia approvata dal professore con cui egli intende diplomarsi, scelta fuori delle materie del corso".
+Agricoltura montana" (semestrale), "Selvicoltura" (semestrale), "Tecnica della bonifica e della irrigazione".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 24 settembre 1968
+Dato a Roma, addi' 18 maggio 1970
 
 SARAGAT
 
-SCAGLIA
+MISASI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 2 novembre 1968 Atti del Governo, registro n. 223, foglio n. 79. - GRECO
+alla Corte dei conti, addi' 27 luglio 1970 Atti del Governo, registro n. 236, foglio n. 194. - IZZI
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071);  
+Convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
@@ -125,49 +104,35 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 22. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti quelli di:  
-Storia economica;  
-Storia contemporanea;  
-Storia delle religioni;  
-Estetica;  
-Storia e critica del cinema;  
-Lingua e letteratura catalana;  
-Lingua e letteratura portoghese;  
-Lingua e letteratura albanese;  
-Ittitologia;  
-Geografia economica;  
-Storia delle tradizioni popolari;  
-Storia del pensiero politico antico;  
-Assiriologia.  
-Art. 23. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti quelli di:  
-Storia delle religioni;  
-Filosofia del linguaggio;  
-Storia della pedagogia;  
-Psicologia dell'eta' evolutiva;  
-Psicologia sociale;  
-Psicologia dinamica.  
-Art. 24. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne (ind. europeo) sono aggiunti quelli di:  
-Storia della lingua inglese;  
-Estetica;  
-Storia e critica del cinema;  
-Lingua e letteratura catalana;  
-Lingua e letteratura portoghese;  
-Lingua e letteratura albanese.  
-Art. 105, relativo alla scuola di perfezionamento in filosofia e pedagogia e' modificato nel senso che dopo il secondo comma e' aggiunto il seguente:  
-  
-Il perfezionamento deve seguire, inoltre, una materia approvata dal professore con cui egli intende diplomarsi, scelta fuori delle materie del corso".  
+Art. 9. - All'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di: "Antropologia criminale".  
+Art. 10. - Relativo alle norme sulle propedeuticita' ed esami e' modificato nel senso che l'esame di "Istituzioni di diritto privato" non deve precedere l'esame di "Diritto costituzionale".  
+Art. 13. - All'elenco degli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto quello di "Antropologia criminale".  
+Art. 57. - Relativo al corso di laurea in fisica - per l'indirizzo matematico - e' modificato nel senso che al penultimo comma e' inserito il seguente: "Gli insegnamenti di teoria dei campi, relativita', cibernetica e teoria dell'informazione e istituzioni di fisica nucleare sono dichiarati materie di interesse matematico per gli studenti del corso di laurea in fisica".  
+Art. 71. - Relativo alle norme degli esami e alle propedeuticita' e' modificato nel senso che gli ultimi due commi concernenti l'esame di cultura generale per tutti i corsi di laurea della facolta' di scienze matematiche, fisiche e naturali sono soppressi.  
+Art. 83. - All'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti quelli di:  
+22) Storia dell'agricoltura (semestrale);  
+23) Chimica dei prodotti usati in agricoltura (semestrale);  
+24) Coltivazioni da foraggio (semestrale);  
+25) Economia del mercato dei prodotti agricoli;  
+26) Sociologia rurale (semestrale);  
+27) Fitosociologia;  
+28) Entomologia forestale;  
+29) Metodologia sperimentale in agricoltura;  
+30) Tecnica delle colture irrigue (semestrale);  
+31) Tecnica della meccanizzazione agricola.  
+Nel predetto corso di laurea gli insegnamenti di "Alpicoltura e selvicoltura" e "Tecnica della bonifica" (costruzioni ed idraulica) sono soppressi. Al loro posto sono istituiti i seguenti insegnamenti:  
+Agricoltura montana" (semestrale), "Selvicoltura" (semestrale), "Tecnica della bonifica e della irrigazione".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 settembre 1968
+### Dato a Roma, addi' 18 maggio 1970
 
-SARAGAT SCAGLIA
+SARAGAT MISASI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 2 novembre 1968
+Registrato alla Corte dei conti, addi' 27 luglio 1970
 
-Atti del Governo, registro n. 223, foglio n. 79. - GRECO
+Atti del Governo, registro n. 236, foglio n. 194. - IZZI

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 ottobre 1967 n. 1056
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1966 n. 91
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 ottobre 1967 n. 1056
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1966 n. 91
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
@@ -12,78 +12,60 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Visto lo statuto dell'Universita' degli studi di Roma approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933 n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzi.  
+ditta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:  
-Gli articoli 384 e 385, relativi all'ordinamento della scuola di specializzazione in urologia, sono abrogati e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in urologia  
-  
-Art. 384. - Gli insegnamenti prescritti per il diploma di specializzazione in urologia sono i seguenti:  
-1° Anno:  
-1) anatomia descrittiva e topografica dell'apparato uro-genitale;  
-2) fisiologia dell'apparato urogenitale;  
-3) patologia dell'apparato urinario e genitale maschile;  
-4) le nefropatie mediche;  
-5) semeiotica dell'apparato urogenitale (funzionale e di laboratorio);  
-6) tecniche strumentali e semeiologia endoscopica;  
-7) batteriologia in urologia;  
-8) farmacoterapia delle affezioni urogenitali.  
-2° Anno:  
-1) patologia dell'apparato urinario e genitale maschile;  
-2) clinica urologica;  
-3) patologia genitale femminile di interesse urologico;  
-4) nefrologia chirurgica;  
-5) anatomia ed istologia patologica dell'apparato urogenitale;  
-6) semeiotica dell'apparato urogenitale (funzionale e di laboratorio);  
-7) tecniche strumentali e semeiologia endoscopica;  
-8) anatomia chirurgica dell'apparato urogenitale;  
-9) radiologia dell'apparato urinario e genitale;  
-10) le affezioni cutanee e veneree nei riguardi dell'urologia;  
-11) l'anestesiologia ed il trattamento pre e post-operatorio del malato urologico.  
-3° Anno:  
-1) clinica urologica;  
-2) patologia e clinica urologica infantile;  
-3) radiologia dell'apparato urinario e genitale;  
-4) tecniche operatorie sull'apparato urinario e genitale;  
-5) urologia ginecologica.  
-Art. 385. - Gli esami di profitto si sostengono nei seguenti gruppi:  
-1° Anno:  
-1) anatomica e fisiologia dell'apparato urogenitale;  
-2) le nefropatie mediche;  
-3) batteriologia in urologia e farmacoterapia delle affezioni urogenitali.  
-2° Anno:  
-1) patologia dell'apparato urinario e genitale maschile; anatomia ed istologia patologica;  
-2) semeiotica urologica (funzionale e di laboratorio) e tecnica strumentale e semeiologia endoscopica;  
-3) patologia genitale femminile di interesse urologico; le affezioni cutanee e veneree nei riguardi della urologia;  
-4) anatomia chirurgica dell'apparato urogenitale; anestesia e trattamento pre e post operatorio del malato urologico;  
-5) nefrologia chirurgica.  
-3° Anno:  
-1) clinica urologica;  
-2) radiologia dell'apparato urinario e genitale;  
-3) interventi e procedimenti operatori sull'apparato urogenitale;  
-4) patologia e clinica urologica infantile;  
-5) urologia ginecologica.  
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 47. - Agli insegnamenti complementari del corso di laurea in Scienze statistiche ed attuariali sono aggiunti quelli di:  
+27) Economia bancaria;  
+28) Legislazione bancaria.  
+L'insegnamento complementare di "Economia e legislazione bancaria" e' soppresso.  
+Art. 56. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti quelli di:  
+102) Storia della critica letteraria;  
+103) Storia dell'eta' della riforma e della contro riforma;  
+104) Storia dell'eta' dell'illuminismo;  
+105) Storia dei partiti politici.  
+Art. 57. - Agli insegnamenti complementari del corso di laurea in Filosofia sono aggiunti quelli di:  
+27) Storia dell'eta' della riforma e della contro riforma;  
+28) Storia dell'eta' dell'illuminismo;  
+29) Storia dei partiti politici;  
+30) Storia del diritto italiano.  
+Art. 58. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere modem.  
+(indirizzo europeo) sono aggiunti quelli di:  
+42) Storia dell'eta' della riforma e della controriforma;  
+43) Storia dell'eta' dell'illuminismo;  
+44) Storia dei partiti politici;  
+45) Storia del Risorgimento.  
+Art. 66. - Agli insegnamenti complementari del corso di laurea in Materie letterarie sono aggiunti quelli di:  
+29) Filosofia della storia;  
+30) Storia della filosofia moderna e contemporanea.  
+Art. 67. - Agli insegnamenti complementari del corso di laurea in Pedagogia sono aggiunti quelli di:  
+29) Filosofia della storia;  
+30) Storia della filosofia moderna e contemporanea.  
+Art. 68. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere sono aggiunti quelli di:  
+27) Filosofia della storia;  
+28) Storia della filosofia moderna e contemporanea.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 17 ottobre 1967
+### Dato a Roma, addi' 8 febbraio 1966
 
 SARAGAT GUI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 15 novembre 1967
+Registrato alla Corte dei conti, addi' 8 marzo 1966
 
-Atti del Governo, registro n. 214, foglio n. 154. - GRECO
+Atti del Governo, registro n. 202, foglio n. 13. - VILLA

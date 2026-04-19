@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 972
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 979
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 972
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 979
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi "La Sapienza" di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi "La Sapienza" di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -41,128 +41,74 @@ Art. 1
 ------
 
   
-Gli articoli da 585 a 591, relativi alla prima scuola di specializzazione in cardiologia, sono soppressi.  
+Gli articoli da 257 a 260, relativi alle disposizioni per le scuole annesse alla facolta' di scienze statistiche, demografiche e attuariali, sono soppressi.  
 
 Art. 2
 ------
 
   
+Gli articoli da 308 a 316, relativi alle disposizioni per le scuole annesse alla facolta' di lettere e filosofia, sono soppressi.  
+
+Art. 3
+------
+
   
-Dopo l'art. 214, e con lo spostamento della successiva numerazione, e' inserito il seguente nuovo articolo relativo all'ordinamento degli studi della prima scuola di specializzazione in cardiologia, afferente alla facolta' di medicina e chirurgia:   
+Gli articoli da 480 a 488, relativi alle disposizioni per le scuole annesse alla facolta' di medicina e chirurgia, sono soppressi.  
+
+Art. 4
+------
+
   
-Prima scuola di specializzazione in cardiologia   
   
-Art. 215. - 1. E' istituita la prima scuola di specializzazione in cardiologia presso l'Universita' degli studi "La Sapienza" di Roma.   
-La scuola ha lo scopo di insegnare e di approfondire gli studi nel campo della cardiologia e di fornire le competenze professionali necessarie per il conseguimento del diploma che legittima l'assunzione della qualifica di specialista in cardiologia.   
-La scuola rilascia il titolo di specialista in cardiologia.   
-2. La scuola ha la durata di quattro anni.   
-Ciascun anno di corso prevede ottocento ore di insegnamento e di attivita' pratiche guidate.   
-La scuola e' in particolare rivolta all'approfondimento dell'area "metodologie diagnostiche non invasive".   
-In base alle strutture e attrezzature disponibili, la scuola e' in grado di accettare il numero massimo di iscritti determinato in venti per ciascun anno di corso, per un totale di ottanta specializzandi.   
-3. Per l'attuazione delle attivita' didattiche programmate dal consiglio della scuola provvede la facolta' di medicina e chirurgia (prima cattedra malattie apparato cardiovascolare presso la prima clinica medica).   
-4. Sono ammessi alle prove per ottenere l'iscrizione i laureati in medicina e chirurgia. Sono altresi' ammessi al concorso per l'ammissione alla scuola coloro che siano in possesso di titolo di studio, conseguito presso Universita' straniere e che sia equipollente, ai sensi dell'[art. 332 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art332), a quello sopra richiesto.   
-Per l'iscrizione alla scuola e' richiesto il possesso del diploma di abilitazione all'esercizio della professione.   
-Le materie valutabili ai fini dell'attribuzione del punteggio relativo ai titoli, di cui alle "disposizioni generali" dell'Universita' degli studi "La Sapienza" di Roma, sono le seguenti:   
-malattie dell'apparato cardiovascolare, patologia medica, clinica medica.   
-5. La scuola comprende dieci aree di insegnamento e tirocinio professionale:   
-1) struttura e metabolismo del cuore e dei vasi;   
-2) fisiologia dell'apparato cardiovascolare;   
-3) fisiopatologia cardiorespiratoria;   
-4) medicina interna generale;   
-5) semeiotica generale cardiovascolare;   
-6) informatica medica e strumentazione biomedica;   
-7) metodologie diagnostiche non invasive;   
-8) metodologie diagnostiche invasive e cardiochirurgia;   
-9) patologia e clinica cardiovascolare;   
-10) farmacologia e terapia cardiovascolare.   
-6. Gli insegnamenti relativi a ciascuna area didattica e formativa professionale sono i seguenti:   
-1) struttura e metabolismo del cuore e dei vasi:   
-anatomia umana normale ed embriologia dell'apparato cardiovascolare;   
-biochimica;   
-biofisica.   
-2) Fisiologia dell'apparato cardiovascolare:   
-fisiologia dell'apparato cardiovascolare.   
-3) fisiopatologia cardiorespiratoria:   
-fisiopatologia cardiorespiratoria.   
-4) medicina interna generale:   
-fondamenti di semeiotica medica;   
-rapporti tra patologia dei vari apparati e patologia cardiovascolare.   
-5) semeiotica generale cardiovascolare:   
-semeiotica del ricambio idro-salino;   
-semeiotica fisica cardiovascolare.   
-6) informatica medica e strumentazione biomedica:   
-informatica medica e strumentazione biomedica.   
-7) metodologie diagnostiche non invasive:   
-indagini diagnostiche non invasive I (elettrocardiografia e vettocardiografia, fonocardiografia e poligrafia);   
-indagini diagnostiche non invasive II (semeiotica funzionale vascolare periferica, ergometria);   
-indagini diagnostiche non invasive III (elettrocardiografia dinamica, ecocardiografia, radiologia non contrastografica, TAC; risonanza magnetica nucleare - RMN, metodiche radioisotopiche).   
-8) metodologie diagnostiche invasive e cardiochirurgia:   
-indagini diagnostiche invasive I (emodinamica, elettrofisiologia);   
-indagini diagnostiche invasive II (radiologia conitrastografica);   
-cardiochirurgia.   
-9) patologia e clinica cardiovascolare:   
-anatomia patologica;   
-patologia e clinica cardiovascolare.   
-10) farmacologia e terapia cardiovascolare:   
-farmacologia cardiovascolare;   
-farmacologia e terapia cardiovascolare;   
-terapie intensive cardiologiche.   
-7. L'attivita' didattica comprende ogni anno ottocento ore di didattica formale e di tirocinio professionale guidato. Essa e' organizzata in una attivita' didattica teorico-pratica comune per tutti gli specializzandi ed in una attivita' didattica elettiva, prevalentemente di carattere tecnico-applicativo, rivolta all'approfondimento del curriculum corrispondente ad uno dei settori formativo-professionali (monte ore elettivo). La frequenza nelle diverse aree negli anni di corso avviene, pertanto, come di seguito specificato:   
-  
-1° Anno (400 ore annuali + 400 ore riservate all'area elettiva):   
-Struttura e metabolismo del cuore e dei vasi (ore 50):   
-anatomia umana normale ed embriologia dell'apparato cardiovascolare.  
-. . . . . . . . . . . . . . . . . . . . . . . ore 20 biochimica e biofisica . . . . . . . . . . . . . . . . . . . . ore 30 Fisiologia dell'apparato cardiovascolare (ore 50):   
-fisiologia dell'apparato cardiovascolare I . . . . . . . . . . ore 50 Fisiopatologia cardiorespiratoria (ore 100):   
-fisiopatologia cardiorespiratoria I . . . . . . . . . . . . . ore 100 Medicina interna generale (ore 100):   
-fondamenti di semeiotica medica. . . . . . . . . . . . . . . . ore 50 rapporti tra patologia dei vari apparati e patologia cardiovascolare.  
-. . . . . . . . . . . . . . . . . . . . . . . ore 50 Semeiotica generale cardiovascolare (ore 50):   
-semeiotica del ricambio idrosalino . . . . . . . . . . . . . . ore 50 Informatica medica e strumentazione biomedica (ore 50):   
-informatica medica e strumentazione biomedica I. . . . . . . . ore 50 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
-  
-2° Anno (400 ore annuali + 400 ore riservate all'area elettiva):   
-Fisiologia dell'apparato cardiovascolare (ore 50):   
-fisiologia dell'apparato cardiovascolare II. . . . . . . . . . ore 50 Fisiopatologia cardiorespiratoria (ore 50):   
-fisiopatologia cardiorespiratoria II . . . . . . . . . . . . . ore 50 Semeiotica generale cardiovascolare (ore 50):   
-semeiotica fisica cardiovascolare I. . . . . . . . . . . . . . ore 50 Informatica medica e strumentazione biomedica (ore 50):   
-informatica medica e strumentazione biomedica II . . . . . . . ore 50 Metodologie diagnostiche non invasive (ore 50):   
-indagini diagnostiche non invasive I . . . . . . . . . . . . . ore 50 Metodologie diagnostiche invasive e cardiochirurgia (ore 50):   
-indagini diagnostiche invasive I . . . . . . . . . . . . . . . ore 50 Patologia e clinica cardiovascolare (ore 50):   
-anatomia patologica I. . . . . . . . . . . . . . . . . . . . . ore 20 patologia e clinica cardiovascolare I. . . . . . . . . . . . . ore 30 Farmacologia e terapia cardiovascolare (ore 50):   
-farmacologia cardiovascolare . . . . . . . . . . . . . . . . . ore 50 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
-  
-3° Anno (400 ore annuali + 400 ore riservate all'area elettiva):   
-Semeiotica generale cardiovascolare (ore 50):   
-semeiotica fisica cardiovascolare II . . . . . . . . . . . . . ore 50 Metodologie diagnostiche non invasive (ore 100):   
-indagini diagnostiche non invasive II. . . . . . . . . . . . . ore 100 Metodologie diagnostiche invasive e cardiochirurgia (ore 50):   
-indagini diagnostiche invasive II. . . . . . . . . . . . . . . ore 50 Patologia e clinica cardiovascolare (ore 100):   
-anatomia patologica II . . . . . . . . . . . . . . . . . . . . ore 20 patologia e clinica cardiovascolare II . . . . . . . . . . . . ore 80 Farmacologia e terapia cardiovascolare (ore 100):   
-farmacologia e terapia cardiovascolare. . . . . . . . . . . . ore 100 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
-  
-4° Anno (400 ore annuali + 400 ore riservate all'area elettiva):   
-Metodologie diagnostiche non invasive (ore 100):   
-indagini diagnostiche non invasive III. . . . . . . . . . . . ore 100 Metodologie diagnostiche invasive e cardiochirurgia (ore 100):   
-cardiochirurgia . . . . . . . . . . . . . . . . . . . . . . . ore 100 Patologia e clinica cardiovascolare (ore 100):   
-patologia e clinica cardiovascolare III . . . . . . . . . . . ore 100 Farmacologia e terapia cardiovascolare (ore 100):   
-terapie intensive cardiologiche . . . . . . . . . . . . . . . ore 100 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
-  
-8. Durante i quattro anni di corso e' richiesta la frequenza nei seguenti reparti: clinici di degenza, reparto di cura intensiva cardiologica, ambulatori, laboratori di diagnostica non invasiva (per almeno il 60% del monte ore elettivo nel terzo e quarto anno), laboratori di diagnostica invasiva.   
-La frequenza nelle varie aree per complessive ottocento ore annue compreso il monte ore elettivo di quattrocento ore annue, avverra' secondo delibera del consiglio della scuola, tale da assicurare ad ogni specializzando un adeguato periodo di esperienza e di formazione professionale. Il consiglio della scuola predispone apposito libretto di formazione, che consenta allo specializzando ed al consiglio stesso il controllo dell'attivita' svolta e della acquisizione dei progressi compiuti, per sostenere gli esami annuali e finali.   
-9. La frequenza ai corsi e' obbligatoria. La frequenza minima alle attivita' didattiche e pratiche necessaria per sostenere gli esami annuali e finali e' fissata nel 75% delle ore stabilite annualmente dal consiglio della scuola stessa.   
-Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.   
-10. La commissione per l'esame annuale e' nominata dal direttore della scuola su proposta del consiglio della scuola stessa ed e' presieduta dal direttore ed e' composta dai docenti delle materie relative all'anno di corso. In caso di impedimento di un singolo docente, il direttore puo' sostituirlo con altro docente della scuola di materia affine.   
-La commissione esprimera' il suo giudizio con una votazione da 1 a 30 punti; il voto di semplice idoneita' e' indicato con 6/10 del totale dei punti di cui la commissione dispone (18/30). A chi avra' conseguito il massimo dei punti potra' essere conferita, all'unanimita', la lode.   
-11. Gli specializzandi che chiedono il trasferimento da altra universita' possono ottenerlo soltanto con il consenso del rettore, udito il parere del consiglio della scuola subordinatamente alla disponibilita' dei posti.   
-Non e' consentita la contemporanea iscrizione a piu' corsi di specializzazione o a corsi di dottorato di ricerca.   
-12. Per quanto non disciplinato nel presente ordinamento si rinvia alle norme contenute nelle "disposizioni generali" per le scuole di specializzazione.   
+Gli articoli da 188 a 194 sono abrogati e sostituiti dai seguenti con lo spostamento della numerazione successiva:   
+Art. 199. - Nell'Universita' "La Sapienza" di Roma sono istituite le scuole di specializzazione riportate nei successivi articoli.   
+Art. 200. - I concorsi di ammissione relativi a ciascuna scuola, con specificazione del numero degli iscrivibili, sono banditi con decreto rettorale in tempo utile per il successivo anno accademico.   
+I candidati alle specializzazioni, per le quali e' requisito indispensabile il possesso dell'abilitazione professionale, possono partecipare "sub condizione" all'esame di ammissione; all'atto di regolare la iscrizione debbono depositare anche il diploma di abilitazione.   
+L'eventuale differenza, fra il totale degli iscrivibili previsto per ciascuna scuola ed il corrispondente numero dei posti effettivamente banditi, potra' essere destinata a concorrenti di cittadinanza straniera, limitatamente alle scuole per le quali non e' prevista l'esistenza di un albo professionale.   
+Il numero complessivo degli specializzandi di cittadinanza straniera non potra' essere comunque superiore al venti per cento di quelli di cittadinanza italiana.   
+Limitazione e condizioni di ammissioni per specializzandi stranieri sono incluse negli statuti specifici e riportati nel bando di concorso.   
+Art. 201. - Il concorso di ammissione, secondo quanto previsto dall'[art. 13 del decreto del Presidente della Repubblica n. 162/1982](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982;162~art13), e' per esami e titoli.   
+L'esame consiste in una prova scritta intesa ad accertare la cultura generale dell'area di specializzazione mediante domande a risposta multipla.   
+Art. 202. - La valutazione dei titoli integrera' il punteggio, conseguito nell'esame di cui ai commi precedenti, in misura non superiore al 30% dello stesso.   
+Costituiscono titolo:   
+a) la tesi di laurea;   
+b) il voto di laurea;   
+c) il voto riportato negli esami di profitto nel corso di laurea in discipline attinenti la specializzazione eventualmente indicate nello statuto e comunque riportate nel bando di concorso per ciascuno dei C.d.I. che danno accesso alla scuola;   
+d) le pubblicazioni scientifiche.   
+Il punteggio dei predetti titoli e' quello stabilito dal decreto ministeriale del 16 settembre 1982, emanato ai sensi dell'[art. 13, quinto comma, del decreto del Presidente della Repubblica n. 162/1982 pubblicato nella Gazzetta Ufficiale n. 275 del 6 ottobre 1982](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1982-10-06&numeroGazzetta=275).   
+Art. 203. - La commissione per l'esame di ammissione e' costituita da cinque professori di ruolo designati dal consiglio della scuola.   
+Art. 204. - La commissione giudicatrice dell'esame finale per il conseguimento del diploma di specialista e' composta da cinque professori di ruolo della scuola, designati dal consiglio della scuola di cui all'art. 208.   
+Eventuali allargamenti che comportino integrazioni non superiori a due membri, e le modalita' relative sono definiti dalle normative specifiche di ciascuna scuola.   
+Art. 205. - L'importo delle tasse e sovrattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione dell'Universita'.   
+Art. 206. - Sono organi della scuola il direttore ed il consiglio della scuola.   
+Art. 207. - Il direttore ha la responsabilita' della scuola. e' un professore di ruolo che insegni nella scuola, di norma di prima fascia. In caso di motivato impedimento dei professori di prima fascia la direzione e' affidata a professori di seconda fascia.   
+Il direttore e' eletto, con voto segreto, dal consiglio della scuola, di cui al successivo articolo; convoca il consiglio della scuola e lo presiede; ha nell'ambito della conduzione della scuola, le funzioni proprie dei presidenti di consiglio di corso di laurea.   
+Il direttore promuove, per la stipula attraverso il consiglio di amministrazione ed il rettore, le convenzioni per lo svolgimento delle attivita' di formazione.   
+Per la gestione dei fondi a disposizione della scuola si applicano le norme dettate per gli istituti del regolamento per l'amministrazione e la contabilita' generale dell'Universita'.   
+Il direttore dura in carica tre anni ed e' rieleggibile.   
+Nel manifesto annuale degli studi viene indicata la sede della direzione della scuola.   
+Art. 208. - Il consiglio della scuola e' composto da tutti i docenti della scuola compresi gli eventuali docenti a contratto, e da una rappresentanza di tre specializzandi, eletta secondo quanto previsto dall'[art. 99 del decreto del Presidente della Repubblica n. 382/1980](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;382~art99).   
+Art. 209. - Il consiglio della scuola ne conduce e coordina le attivita' con i consigli dei dipartimenti e delle facolta' interessati, inclusi le proposte alle facolta' per la designazione dei docenti, l'affidamento degli insegnamenti e le eventuali proposte relative a stipule dei contratti.   
+In prima istituzione, i docenti che costituiscono il consiglio della scuola vengono designati in rapporto agli insegnamenti da attivare con apposita delibera dei consigli di facolta' interessate, sentiti i consigli dei dipartimenti e istituti coinvolti.   
+Art. 210. - Lo specializzando e' tenuto a seguire tutti i corsi di lezioni ed a partecipare a tutte le attivita' pratiche ed alle esercitazioni previste, per ciascun anno di corso, dal manifesto degli studi nel quadro delle norme piu' sotto indicate.   
+La frequenza della scuola e' obbligatoria per tutti gli iscritti.  
+Modalita' di accertamento della frequenza sono determinate dal consiglio della scuola e rese note nel manifesto annuale degli studi, ovvero attraverso altre idonee forme.   
+Art. 211. - Alla fine di ciascun anno, lo specializzando deve superare un esame teorico-pratico sulle attivita' di formazione svolte nell'anno, valutato da una commissione, appositamente nominata e presieduta dal direttore della scuola, e costituita dai docenti della scuola delle discipline interessate dal programma di formazione dei candidati.   
+Coloro che non superano l'esame non possono essere ammessi al successivo anno di corso e debbono ripetere l'anno.   
+E ammessa la ripetizione dell'anno per una sola volta.   
+Art. 212. - Il calendario dei corsi di studio e delle attivita' pratiche e' stabilito anno per anno, dal consiglio della scuola, nel monte ore previsto dall'ordinamento di ogni singola scuola.   
+I corsi potranno articolarsi in cicli di lezioni, seminari e moduli di formazione, nell'ambito delle leggi vigenti.   
+Art. 213. - Il corso si conclude con un esame di diploma, che consiste nella discussione di una dissertazione scritta, che dimostri la preparazione scientifica e le capacita' operative collegate alla specifica professionalita'.   
+Art. 214. - Nel caso di scuole di specializzazione istituite in base a convenzioni con altre Universita', per i docenti che debbono esplicare le previste attivita' didattiche in sede diversa da quella ordinaria di servizio, e che abbiano incluso tali attivita' nel proprio piano didattico annuale approvato dalla facolta' di appartenenza e prevista la corresponsione di un rimborso spese relative al trasporto e all'eventuale pernottamento.   
+Art. 215. (Norma transitoria). - Le scuole gia' funzionanti presso le Universita' con il vecchio ordinamento sono progressivamente disattivate; le scuole di cui all'art. 199 sono progressivamente attivate a partire dall'anno accademico nel quale entra in vigore il riordinamento di ciascuna scuola.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta a delle leggi e dei decreti della Repubblica italiana.
+----------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1985
+### E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-COSSIGA
+Dato a Roma, addi' 31 ottobre 1985 COSSIGA
 
 FALCUCCI, Ministro della pubblica istruzione
 
@@ -170,4 +116,4 @@ Visto, il Guardasigilli: MARTINAZZOLI
 
 Registrato alla Corte dei conti, addi' 24 marzo 1986
 
-Registro n. 20 Istruzione, foglio n. 323
+Registro n. 20 Istruzione, foglio n. 321

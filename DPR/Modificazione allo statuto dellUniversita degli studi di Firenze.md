@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1985 n. 864
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 giugno 1984 n. 703
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1985 n. 864
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 giugno 1984 n. 703
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
@@ -24,7 +24,7 @@ Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http:
 
 Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta ai sensi della citata legge n. 615;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
 
 Veduto il parere del Consiglio universitario nazionale;
 
@@ -39,22 +39,19 @@ Articolo unico
 --------------
 
   
-Nell'art. 106, relativo al corso di laurea in ingegneria, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
-  
-impianti elettrici.  
+Nell'art. 65, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+biometria e statistica medica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 settembre 1985
+### Dato a Roma, addi' 21 giugno 1984
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 21 gennaio 1986
+Registrato alla Corte dei conti, addi' 1 ottobre 1984
 
-Registro n. 2 Istruzione, foglio n. 104
+Registro n. 58 Istruzione, foglio n. 306

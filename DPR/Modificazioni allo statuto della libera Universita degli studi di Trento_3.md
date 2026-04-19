@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1980 n. 1211
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1981 n. 1042
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1980 n. 1211
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1981 n. 1042
+===============================================================
 
 Modificazioni allo statuto della libera Universita' degli studi di Trento.
 --------------------------------------------------------------------------
@@ -10,23 +10,25 @@ Modificazioni allo statuto della libera Universita' degli studi di Trento.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' libera di Trento, approvato con [decreto del Presidente della Repubblica 4 luglio 1967, n. 1099](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-07-04;1099) e modificato con [decreto del Presidente della Repubblica 3 maggio 1971, n. 626](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-05-03;626), e successive modificazioni;
+Veduto lo statuto della libera Universita' degli studi di Trento, approvato con [decreto del Presidente della Repubblica 4 luglio 1967, n. 1099](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-07-04;1099) e modificato con [decreto del Presidente della Repubblica 3 maggio 1971, n. 626](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-05-03;626), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il regio decreto 30 settembre 1438, n. 1652, e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' libera di Trento e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici della libera Universita' degli studi di Trento e convalidati dal Consiglio universitario nazionale nel suo parere;
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione, di concerto con il Ministro del tesoro;
 
 Decreta:
 --------
@@ -37,121 +39,86 @@ Art. 1
 ------
 
   
-All'art. 23, relativo al corso di laurea in matematica, sono aggiunti i seguenti insegnamenti complementari:  
-geometria III;  
-analisi matematica III;  
-algebra II;  
-biomatematica;  
-analisi numerica.  
+  
+Nell'art. 4, dopo il punto 7), sono aggiunti i seguenti punti:   
+"8) presidenti dei consigli di corso di laurea;   
+9) consigli di corso di laurea;   
+10) presidenti dei consigli di indirizzo di laurea;   
+11) consigli di indirizzo di laurea".   
+Nel medesimo articolo l'ultimo comma e' soppresso e sostituito come segue:   
+"Per quanto non previsto dai successivi articoli, si rimanda alle vigenti disposizioni generali sull'Universita' e istituti superiori liberi".   
+Nell'art. 5 i punti c), g) ed h) sono soppressi e sostituiti come segue:   
+"c) di un rappresentante dei professori ordinari e straordinari, anche fuori ruolo, dell'Universita', designato dagli stessi;   
+g) di un rappresentante dei professori associati, designato dagli stessi;   
+h) di un rappresentante dei ricercatori universitari, designato dagli stessi";   
+Al medesimo articolo sono inseriti, inoltre, dopo il punto l) i seguenti nuovi commi:   
+"L'esercizio dell'elettorato attivo per la nomina di un rappresentante dei ricercatori universitari spetta anche agli assistenti del ruolo ad esaurimento.   
+Fin quando non entreranno a far parte del consiglio di amministrazione i rappresentanti dei professori associati e dei ricercatori continuano a far parte il rappresentante dei professori incaricati e il rappresentante degli assistenti di ruolo ad esaurimento".   
+L'art. 6 e' cosi' modificato:   
+al primo comma e' aggiunta la seguente espressione: "nonche' delle norme contenute nel [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382)";   
+il punto c) e' soppresso e cosi' sostituito:   
+"c) delibera il conferimento dei contratti e delle supplenze proposte dei rispettivi consigli di facolta';";   
+il punto e) e' soppresso con il conseguente spostamento delle lettere dei punti successivi;   
+il punto f), che per effetto del suddetto spostamento delle lettere diventa punto e), e' soppresso e sostituito come segue:   
+"e) delibera sulle assunzioni del personale amministrativo tecnico ed ausiliario";   
+i punti g), h) ed i), diventano rispettivamente punti f), g), h); il punto l) diventa punto i).   
+Nell'art. 8, i punti b) e c) sono soppressi e sostituiti come segue:   
+"b) dai professori ordinari, straordinari ed associati non facenti parte del consiglio di amministrazione;   
+c) dai rappresentanti dei ricercatori nei consigli di facolta'"; dopo il punto c) e' inoltre inserito il nuovo punto d) come segue:   
+"d) da un numero di rappresentanti dell'Istituto Trentino di cultura - designati dal consiglio di amministrazione dell'Istituto stesso - pari al numero degli appartenenti alle lettere b) e c).".   
+L'art. 10 e' soppresso e cosi' sostituito:   
+"Art. 10. - La composizione e le modalita' di funzionamento dei consigli di facolta' sono quelle previste dalla vigente normativa statale".   
+Gli articoli 29, 30, 35 e 36 sono soppressi e sostituiti come segue:   
+"Art. 29. - L'insegnamento ufficiale e' impartito da professori ordinari, straordinari e associati.   
+L'organico dei posti di professore straordinario e ordinario e' determinato dalla tabella I annessa al presente statuto.   
+L'organico dei posti di professore associato e' determinato dalla tabella II annessa al presente statuto.   
+Alla copertura dei posti vacanti di professore di ruolo straordinario, ordinario e associato si provvede nei modi previsti dalle vigenti disposizioni sull'istruzione universitaria e la nomina o il trasferimento dei predetti professori sono deliberati dal consiglio di amministrazione, su proposta dei rispettivi consigli di facolta', con l'approvazione del senato accademico, e resi esecutivi con provvedimento del rettore dell'Universita'".   
+"Art. 30. - Ai professori di ruolo straordinari, ordinari o associati si applicano le norme sull'assunzione, sullo stato giuridico e il trattamento economico vigente per i corrispondenti professori di ruolo statali ed e' loro assicurato, mediante apposita ritenuta sugli stipendi, un analogo trattamento di quiescenza.   
+I professori di ruolo straordinari, ordinari e associati trasferiti, in base alle rispettive disposizioni in vigore, da universita' o istituti superiori statali o liberi, sono inquadrati nel ruolo dei professori dell'Universita', con l'anzianita' e con lo stipendio di cui erano provvisti all'atto del trasferimento".   
+"Art. 35. - Il numero dei posti di assistente del ruolo ad esaurimento e' determinato dalla tabella III annessa al presente statuto. Gli assistenti collaborano con i professori nella ricerca scientifica e li coadiuvano nell'attivita' didattica. Ad essi possono essere affidati corsi di lezioni propedeutiche o istituzionali, nonche' corsi di esercitazioni.   
+Agli assistenti di ruolo si applicano le norme sullo stato giuridico e sul trattamento economico degli assistenti universitari di ruolo statale ed e' loro assicurato, mediante apposita ritenuta sugli stipendi, analogo trattamento di quiescenza. Gli assistenti di ruolo hanno l'obbligo di risiedere stabilmente a Trento".   
+"Art. 36. - Il numero dei posti di ricercatore universitario e' determinato dalla tabella IV annessa al presente statuto. Alla copertura dei posti di ricercatore universitario si provvede nei modi previsti dalle vigenti disposizioni sull'istruzione universitaria e la nomina o il trasferimento dei ricercatori universitari sono deliberati dal consiglio di amministrazione, su proposta dei rispettivi consigli di facolta' con l'approvazione del senato accademico, e resi esecutivi con provvedimento del rettore dell'Universita'.   
+I ricercatori universitari contribuiscono allo sviluppo della ricerca scientifica universitaria ed assolvono compiti didattici integrativi dei corsi di insegnamento ufficiali.   
+Ai ricercatori universitari si applicano le norme sullo stato giuridico e sul trattamento economico dei ricercatori universitari statali ed e' loro assicurato, mediante apposita ritenuta sugli stipendi, analogo trattamento di quiescenza.   
+I ricercatori universitari hanno l'obbligo di risiedere stabilmente a Trento".   
 
 Art. 2
 ------
 
   
-All'art. 24, relativo al corso di laurea in fisica, sono aggiunti i seguenti insegnamenti complementari:  
-fisica molecolare;  
-teoria dei campi;  
-didattica della fisica;  
-elettronica quantistica.  
-
-Art. 3
-------
-
+L'intestazione della tabella I e' soppressa e sostituita come segue:  
   
-All'art. 27, relativo al corso di laurea in economia politica, sono aggiunti i seguenti insegnamenti complementari:  
-diritto privato comparato;  
-diritto penale commerciale;  
-diritto delle Comunita' europee;  
-economia monetaria internazionale;  
-economia montana e forestale;  
-finanza aziendale;  
-finanza degli enti locali;  
-matematica finanziaria e attuariale;  
-ricerca operativa;  
-ragioneria pubblica;  
-statistica;  
-statistica aziendale;  
-statistica economica;  
-sistemi informativi;  
-sistemi economici comparati;  
-economia monetaria e creditizia;  
-economia del settore pubblico;  
-revisione e certificazione di bilancio.  
-Nello stesso articolo sono soppressi i seguenti insegnamenti complementari:  
-metodi di ricerca operativa;  
-psicologia sociale;  
-sistemi economici e sociali comparati;  
-storia contemporanea;  
-storia della statistica;  
-teoria e politica monetaria internazionale.  
-
-Art. 4
-------
-
+TABELLA I   
+Ruolo dei professori universitari  
+Fascia dei professori straordinari e ordinari  
   
-Dopo l'art. 28, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione del diploma in statistica:  
-Art. 29. - E' istituita presso la facolta' di economia e commercio uno scuola di statistica, diretta al conferimento del diploma in statistica. Essa ha la durata di due anni.  
-Art. 30. - Insegnamenti fondamentali:  
-1) elementi di matematica;  
-2) statistica;  
-3) statistica economica - corso elementare;  
-4) statistica giudiziaria (semestrale);  
-5) statistica sociale (semestrale);  
-6) antropometria (semestrale);  
-7) statistica sanitaria (semestrale);  
-8) sociologia generale;  
-9) demografia;  
-10) geografia politica ed economica.  
-Insegnamenti complementari:  
-1) economia politica - corso elementare;  
-2) istituzioni di diritto privato;  
-3) istituzioni di diritto pubblico;  
-4) statistica metodologica;  
-5) calcolo delle probabilita';  
-6) statistica aziendale e analisi di mercato;  
-7) controllo statistico delle qualita' e statistica industriale;  
-8) programmazione ed interpretazione statistica degli esperimenti;  
-9) teoria e tecnica dell'elaborazione automatica dei dati;  
-10) sistemi informativi;  
-11) diritto regionale e degli enti locali;  
-12) finanza degli enti locali;  
-13) matematica finanziaria e attuariale;  
-14) economia d'azienda;  
-15) geometria analitica;  
-16) economia regionale.  
-Gli insegnamenti semestrali di statistica giudiziaria e statistica sociale e quelli, pure semestrali, di antropometria e statistica sanitaria comportano rispettivamente esami unici.  
-L'insegnamento biennale di statistica economica comporta un esame alla fine di ogni anno.  
-Gli insegnamenti complementari possono essere scelti dallo studente anche fra le discipline impartite in altre facolta' dell'ateneo, previa approvazione del preside della facolta' dalla quale e' rilasciato il diploma in statistica.  
-Per essere ammesso all'esame di diploma lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in due complementari.  
-
-Art. 5
-------
-
+Con il conseguente spostamento della numerazione delle tabelle successive, dopo la tabella I e' inserita la seguente nuova tabella II concernente l'organico dei professori associati.  
   
-Il primo comma dell'art. 32 e' modificato nel senso che dopo la parola "istituti scientifici" sono inserite le seguenti "dei dipartimenti".  
-Nello stesso articolo il secondo comma e' modificato nel senso che dopo le parole "all'istituto" sono inserite le seguenti "al dipartimento".  
-
-Art. 6
-------
-
+TABELLA II Ruolo dei professori universitari  
+Fascia dei professori associati  
   
-L'art. 53 e' sostituito dal seguente:  
+Facolta' di sociologia . . . . . . . . . . . . . . . . . . . posti 35 Facolta' di scienze matematiche, fisiche e naturali. . . . . posti 35 Facolta' di economia e commercio . . . . . . . . . . . . . . posti 38   
+La tabella concernente l'organico degli assistenti di ruolo diventa pertanto tabella III e muta l'intestazione come segue:  
   
-Qualora vengano temporaneamente a trovarsi assegnati alle facolta' meno di tre professori di ruolo, il Ministro della pubblica istruzione, su proposta del consiglio di amministrazione, procede alla costituzione di un comitato ordinatore integrando il numero dei professori di ruolo con la nomina di tante unita' quanti sono i professori mancanti per raggiungere il numero di tre.  
-Al comitato ordinatore sono attribuite le funzioni che le vigenti disposizioni di legge e il regolamento demandano al consiglio di facolta'.  
-I professori che nel frattempo vengono a ricoprire i posti di ruolo assegnati alle singole facolta' sono aggregati al rispettivo comitato ordinatore. Detti comitati cessano dalle loro funzioni allorquando alla rispettiva facolta' risultano assegnati almeno tre professori di ruolo.  
-I professori chiamati a far parte del comitato ordinatore non possono comunque restare in carica per un periodo di tempo superiore a due anni.  
+TABELLA III Posti di assistente del ruolo ad esaurimento  
+  
+Dopo la tabella III e' inserita, con il conseguente spostamento della numerazione delle tabelle successive, la seguente nuova tabella IV concernente l'organico dei ricercatori:  
+  
+TABELLA IV Posti di ricercatore universitario  
+  
+Facolta' di sociologia . . . . . . . . . . . . . . . . . . . posti 40 Facolta' di scienze matematiche, fisiche e naturali. . . . . posti 40 Facolta' di economia e commercio . . . . . . . . . . . . . . posti 38   
+Le tabelle III, IV e V diventano pertanto: tabella V, tabella VI, tabella VII.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 dicembre 1980
+### Dato a Roma, addi' 21 ottobre 1981
 
-PERTINI BODRATO
+PERTINI BODRATO - ANDREATTA
 
-Visto, il Guardasigilli: SARTI
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 18 agosto 1981
+Registrato alla Corte dei conti, addi' 10 marzo 1982
 
-Registro n. 76 Istruzione, foglio n. 385
+Registro n. 38 Istruzione, foglio n. 275

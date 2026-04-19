@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 gennaio 1954 n. 239
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 marzo 1954 n. 756
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 gennaio 1954 n. 239
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 marzo 1954 n. 756
+============================================================
 
 Autorizzazione all'Universita' di Bari ad accettare una donazione.
 ------------------------------------------------------------------
@@ -12,8 +12,10 @@ Art. 1
 
 N.
 
-239. Decreto del Presidente della Repubblica 26 gennaio 1954, col quale, sulla proposta del Ministro, per la pubblica istruzione, l'Universita' di Bari viene autorizzata ad accettare la donazione della somma di L. 429.000, suscettibile di aumento, disposta in suo favore dal prof. Pietro Del Buono, con atto pubblico amministrativo 25 giugno 1953, per l'istituzione, con la rendita del capitale donato, di un premio annuale di studio da intitolarsi allo studente medio "Biagio Solarino" e da conferirsi ad uno studente universitario pugliese appartenente a famiglia di disagiate condizioni economiche, il quale sia iscritto alla Facolta' di medicina e chirurgia, abbia superato l'esame di patologia generale con 27/30 e tutti gli esami prescritti dal piano di studio con una media non inferiore ai 27/30.  
+756. Decreto del Presidente della Repubblica 23 marzo 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Bari viene autorizzata ad accettare la donazione di lire 200.000 in contanti, disposta in suo favore dal prof.  
+Saverio La Sorsa, con atto pubblico amministrativo in data 31 dicembre 1952, per l'istituzione, con la rendita del capitale donato, di un premio di studio intitolato "Premio capitano dott.  
+Fulvio La Sorsa" e da conferirsi, annualmente e per concorso, alla migliore tesi di laurea in ostetricia.  
   
 Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 15 maggio 1954  
-Atti del Governo, registro n. 83, foglio n. 62. - CARLOMAGNO
+Registrato alla Corte del conti, addi' 25 agosto 1954  
+Atti del Governo, registro n. 85, foglio n. 86. - TEMPESTA

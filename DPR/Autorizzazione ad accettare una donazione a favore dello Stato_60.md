@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1980 n. 1162
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 marzo 1983 n. 299
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1980 n. 1162
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 marzo 1983 n. 299
+============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1162. Decreto del Presidente della Repubblica 3 dicembre 1980, col quale, sulla proposta del Ministro delle finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dal comune di Ronago (Como) con atto 24 settembre 1976, n. 42777/15090 di repertorio, a rogito dott. Achille Pedraglio, notaio in Como, consistente in un terreno della superficie di mq 3850, per il nuovo valico di frontiera italo-svizzero, denominato "Crociale dei Mulini".  
+299. Decreto del Presidente della Repubblica 21 marzo 1983, col quale, sulla proposta del Ministro delle" finanze, viene autorizzata l'accettazione a favore dello Stato della donazione, consistente nel complesso archeologico sito in Chieti denominato "Tempietti romani di S. Paolo", disposta dal comune di Chieti con atto 15 maggio 1979, n. 64136 di repertorio, a rogito dott. Ubaldo Rulli, notaio in Chieti.  
   
 Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 6 agosto 1981  
-Registro n. 25 Finanze, foglio n. 64
+Registrato alla Corte dei conti, addi' 15 giugno 1983  
+Registro n. 32 Finanze, foglio n. 87

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1966 n. 980
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1052
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1966 n. 980
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1052
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 -------------------------------------------------------------------
@@ -10,147 +10,313 @@ Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, numero 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471) e successive modificazioni;
+Veduto lo statuto dell'Universita' di Perugia, approvato con [regio decreto 20 aprile 1939 n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 20 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-20;1471), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Dopo l'articolo 112 e con il conseguente spostamento della numerazione degli articoli successivi, e' aggiunto il seguente nuovo articolo, relativo alla istituzione della Scuola di specializzazione in Clinica delle malattie nervose e mentali.
+L'art. 112, relativo alla scuola di specializzazione in gastroenterologia che muta la denominazione in quella di scuola di specializzazione in gastroenterologia ed endoscopia digestiva, e' soppresso suo e sostituito dal seguente:
 
-Scuola di specializzazione in Clinica delle malattie nervose e mentali
+Scuola di specializzazione in gastroenterologia ed endoscopia digestiva
 
-Art. 113. - La Scuola ha la durata di tre anni: il numero degli studenti che possono essere iscritti e' limitato a cinque per ogni anno di corso.
+Art. 112. - La scuola di specializzazione in gastroenterologia ed endoscopia digestiva ha sede presso la clinica medica e conferisce il diploma di specialista in gastroenterologia ed endoscopia digestiva.
 
-Le materie di insegnamento sono:
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.
+
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+
+La durata del corso di studi e' di 4 anni e non e' suscettibile di abbreviazione.
+
+Il numero massimo degli allievi e' di 8 per anno di corso e complessivamente di 32 iscritti per l'intero corso di studi.
+
+L'ammissione al corso avviene per titoli ed esami.
+
+Le materie di insegnamento sono le seguenti:
 
 1° Anno:
 
-1) Anatomia del sistema nervoso
+anatomia clinica;
 
-2) Fisiologia del sistema nervoso
+farmacologia clinica;
 
-3) Psicopatologia
+chimica clinica, coprologia, parassitologia;
 
-4) Semeiotica neurologica
+genetica;
+
+biostatistica ed epidemiologia.
 
 2° Anno:
 
-1) Patologia generale del sistema nervoso
+clinica medica generale (triennale) I;
 
-2) Anatomia patologica del sistema nervoso
+clinica e terapia del tubo digerente, fegato e pancreas (triennale) I;
 
-3) Elettroencefalografia e neurofisiologia clinica
+anatomia ed istologia patologica (biennale) I;
 
-4) Neuroradiologia
+fisiopatologia e semeiotica digestiva (biennale) I;
 
-5) Clinica neurologica (I)
+radiologia e medicina nucleare (biennale) I;
 
-6) Clinica psichiatrica (I)
+scienza dell'alimentazione e dietetica.
 
 3° Anno:
 
-1) Clinica neurologica (II)
+clinica medica generale (triennale) II;
 
-2) Clinica psichiatrica (II)
+clinica e terapia del tubo digerente, fegato e pancreas (triennale) II;
 
-3) Psichiatria forense
+anatomia ed istologia patologica (biennale) II;
 
-4) Neuropsichiatria infantile
+fisiopatologia e semeiotica digestiva (biennale) II;
 
-5) Neuroftalmologia
+radiologia e medicina nucleare (biennale) II;
 
-6) Otoneurologia
+endoscopia digestiva (biennale) I.
 
-7) Neurochirurgia.
+4° Anno:
 
-Per l'ammissione agli anni successivi di corso gli iscritti dovranno aver superato l'esame del gruppo di materie del precedente anno.
+clinica medica generale (triennale) III;
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+clinica e terapia del tubo digerente, fegato e pancreas (triennale) III;
 
-Dato a Roma, addi' 11 ottobre 1966
+endoscopia digestiva (biennale) II;
 
-SARAGAT
+terapia intensiva;
 
-GUI
+gastroenterologia pediatrica;
 
-Visto, il Guardasigilli: REALE
+elementi di chirurgia del tubo digerente, fegato e pancreas.
+
+E' obbligatorio il tirocinio pratico durante il quadriennio di studi da svolgere presso la clinica medica dell'Universita' di Perugia o in reparti ospedalieri di gastroenterologia, conforme alle scelte che saranno deliberate dal consiglio della scuola.
+
+La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.
+
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno; per le materie biennali e triennali, invece, sara' dato l'esame alla fine del biennio o triennio. Al termine del corso di studi per il conseguimento del diploma di specialista in gastroenterologia ed endoscopia digestiva, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+
+L'art. 116, relativo alla scuola di specializzazione in malattie dell'apparato cardiovascolare che muta la denominazione in quella di scuola di specializzazione in cardiologia, e' soppresso e sostituito dal seguente:
+
+Scuola di specializzazione in cardiologia
+
+Art. 116. - La scuola di specializzazione in cardiologia ha sede presso la clinica medica e conferisce il diploma di specialista in cardiologia.
+
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia in possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+
+La durata del corso di studi e' di 4 anni e non e' suscettibile di abbreviazione.
+
+Il numero massimo degli allievi e' di 10 per anno di corso, e complessivamente di 40 iscritti per l'intero corso di studi.
+
+L'ammissione al corso avviene per esami.
+
+Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+anatomia umana normale ed embriologia dell'apparato cardiovascolare;
+
+fisiologia dell'apparato cardiovascolare I;
+
+biochimica e biofisica;
+
+semeiotica fisica e strumentale dell'apparato cardiovascolare I;
+
+informatica medica e strumentazione biomedica I.
+
+2° Anno:
+
+anatomia patologica I;
+
+fisiologia dell'apparato cardiovascolare II;
+
+patologia e clinica cardiovascolare I;
+
+semeiotica fisica e strumentale dell'apparato cardiovascolare II;
+
+informatica medica e strumentazione biomedica II:
+
+radiologia I;
+
+aspetti sociali ed epidemiologici delle malattie cardiovascolari.
+
+3° Anno:
+
+anatomia patologica II;
+
+semeiotica fisica e strumentale dell'apparato cardiovascolare III;
+
+patologia e clinica cardiovascolare II;
+
+radiologia II;
+
+terapia medica e farmacologia clinica I.
+
+4° Anno:
+
+semeiotica fisica e strumentale dell'apparato cardiovascolare IV;
+
+patologia e clinica cardiovascolare III;
+
+terapia medica e farmacologia clinica II;
+
+terapia chirurgica;
+
+terapie intensive cardiologiche.
+
+La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.
+
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno.
+
+Al termine del corso di studi per il conseguimento del diploma di specialista in cardiologia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento di carattere cardiologico.
+
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1978
+
+PERTINI
+
+PEDINI
+
+Visto, il Guardasigilli: BONIFACIO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 18 novembre 1966 Atti del Governo, registro n. 207, foglio n. 35. - VILLA
+alla Corte dei conti, addi' 23 aprile 1979 Registro n. 27 Istruzione, foglio n. 37
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, numero 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471) e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' di Perugia, approvato con [regio decreto 20 aprile 1939 n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 20 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-20;1471), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Dopo l'articolo 112 e con il conseguente spostamento della numerazione degli articoli successivi, e' aggiunto il seguente nuovo articolo, relativo alla istituzione della Scuola di specializzazione in Clinica delle malattie nervose e mentali.  
+L'art. 112, relativo alla scuola di specializzazione in gastroenterologia che muta la denominazione in quella di scuola di specializzazione in gastroenterologia ed endoscopia digestiva, e' soppresso suo e sostituito dal seguente:   
   
-Scuola di specializzazione in Clinica delle malattie nervose e mentali  
+Scuola di specializzazione in gastroenterologia ed endoscopia digestiva   
+Art. 112. - La scuola di specializzazione in gastroenterologia ed endoscopia digestiva ha sede presso la clinica medica e conferisce il diploma di specialista in gastroenterologia ed endoscopia digestiva.   
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+La durata del corso di studi e' di 4 anni e non e' suscettibile di abbreviazione.   
+Il numero massimo degli allievi e' di 8 per anno di corso e complessivamente di 32 iscritti per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli ed esami.   
+Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+anatomia clinica;   
+farmacologia clinica;   
+chimica clinica, coprologia, parassitologia;   
+genetica;   
+biostatistica ed epidemiologia.   
+2° Anno:   
+clinica medica generale (triennale) I;   
+clinica e terapia del tubo digerente, fegato e pancreas (triennale) I;   
+anatomia ed istologia patologica (biennale) I;   
+fisiopatologia e semeiotica digestiva (biennale) I;   
+radiologia e medicina nucleare (biennale) I;   
+scienza dell'alimentazione e dietetica.   
+3° Anno:   
+clinica medica generale (triennale) II;   
+clinica e terapia del tubo digerente, fegato e pancreas (triennale) II;   
+anatomia ed istologia patologica (biennale) II;   
+fisiopatologia e semeiotica digestiva (biennale) II;   
+radiologia e medicina nucleare (biennale) II;   
+endoscopia digestiva (biennale) I.   
+4° Anno:   
+clinica medica generale (triennale) III;   
+clinica e terapia del tubo digerente, fegato e pancreas (triennale) III;   
+endoscopia digestiva (biennale) II;   
+terapia intensiva;   
+gastroenterologia pediatrica;   
+elementi di chirurgia del tubo digerente, fegato e pancreas.   
+E' obbligatorio il tirocinio pratico durante il quadriennio di studi da svolgere presso la clinica medica dell'Universita' di Perugia o in reparti ospedalieri di gastroenterologia, conforme alle scelte che saranno deliberate dal consiglio della scuola.   
+La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.   
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
+Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno; per le materie biennali e triennali, invece, sara' dato l'esame alla fine del biennio o triennio. Al termine del corso di studi per il conseguimento del diploma di specialista in gastroenterologia ed endoscopia digestiva, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
+L'art. 116, relativo alla scuola di specializzazione in malattie dell'apparato cardiovascolare che muta la denominazione in quella di scuola di specializzazione in cardiologia, e' soppresso e sostituito dal seguente:   
   
-Art. 113. - La Scuola ha la durata di tre anni: il numero degli studenti che possono essere iscritti e' limitato a cinque per ogni anno di corso.  
-Le materie di insegnamento sono:  
-1° Anno:  
-1) Anatomia del sistema nervoso  
-2) Fisiologia del sistema nervoso  
-3) Psicopatologia  
-4) Semeiotica neurologica  
-2° Anno:  
-1) Patologia generale del sistema nervoso  
-2) Anatomia patologica del sistema nervoso  
-3) Elettroencefalografia e neurofisiologia clinica  
-4) Neuroradiologia  
-5) Clinica neurologica (I)  
-6) Clinica psichiatrica (I)  
-3° Anno:  
-1) Clinica neurologica (II)  
-2) Clinica psichiatrica (II)  
-3) Psichiatria forense  
-4) Neuropsichiatria infantile  
-5) Neuroftalmologia  
-6) Otoneurologia  
-7) Neurochirurgia.  
-Per l'ammissione agli anni successivi di corso gli iscritti dovranno aver superato l'esame del gruppo di materie del precedente anno.  
+Scuola di specializzazione in cardiologia   
+  
+Art. 116. - La scuola di specializzazione in cardiologia ha sede presso la clinica medica e conferisce il diploma di specialista in cardiologia.   
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia in possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+La durata del corso di studi e' di 4 anni e non e' suscettibile di abbreviazione.   
+Il numero massimo degli allievi e' di 10 per anno di corso, e complessivamente di 40 iscritti per l'intero corso di studi.   
+L'ammissione al corso avviene per esami.   
+Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+anatomia umana normale ed embriologia dell'apparato cardiovascolare;   
+fisiologia dell'apparato cardiovascolare I;   
+biochimica e biofisica;   
+semeiotica fisica e strumentale dell'apparato cardiovascolare I;   
+informatica medica e strumentazione biomedica I.   
+2° Anno:   
+anatomia patologica I;   
+fisiologia dell'apparato cardiovascolare II;   
+patologia e clinica cardiovascolare I;   
+semeiotica fisica e strumentale dell'apparato cardiovascolare II;   
+informatica medica e strumentazione biomedica II:   
+radiologia I;   
+aspetti sociali ed epidemiologici delle malattie cardiovascolari.   
+3° Anno:   
+anatomia patologica II;   
+semeiotica fisica e strumentale dell'apparato cardiovascolare III;   
+patologia e clinica cardiovascolare II;   
+radiologia II;   
+terapia medica e farmacologia clinica I.   
+4° Anno:   
+semeiotica fisica e strumentale dell'apparato cardiovascolare IV;   
+patologia e clinica cardiovascolare III;   
+terapia medica e farmacologia clinica II;   
+terapia chirurgica;   
+terapie intensive cardiologiche.   
+La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.   
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
+Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno.   
+Al termine del corso di studi per il conseguimento del diploma di specialista in cardiologia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento di carattere cardiologico.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 ottobre 1966
+### Dato a Roma, addi' 31 ottobre 1978
 
-SARAGAT GUI
+PERTINI PEDINI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 18 novembre 1966
+Registrato alla Corte dei conti, addi' 23 aprile 1979
 
-Atti del Governo, registro n. 207, foglio n. 35. - VILLA
+Registro n. 27 Istruzione, foglio n. 37

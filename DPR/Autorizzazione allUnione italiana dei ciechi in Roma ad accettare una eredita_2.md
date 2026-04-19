@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 146
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1985 n. 202
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 146
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1985 n. 202
+============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare una eredita'.
 ----------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-146. Decreto del Presidente della Repubblica 26 febbraio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla sig.na Ballini Lucia con testamento olografo 20 settembre 1969, pubblicato a rogito dott. Mario Faotto, notaio in Udine, in data 3 febbraio 1977, n. 28312 di repertorio e n. 788 di raccolta, registrato ad Udine il 15 febbraio 1977 al n. 1268, consistente in un complesso immobiliare del valore periziato di lire 150 milioni elevato dall'ufficio tecnico erariale di Udine a L. 180.000.000; l'eredita' e' gravata del diritto di abitazione gratuita a favore della sig.na Candotti Gina.  
+202. Decreto del Presidente della Repubblica 18 marzo 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in una porzione di fabbricato sito in Firenze, via S. Giuseppe n. 46 ed in valuta U.S.A. dollari (cambio in lire alla data di morte del de cuius) per un totale di L. 313.064.899 al netto delle passivita', disposta dal sig. Vergani (Vergoni) Ernesto con testamento 5 marzo 1974, reso pubblico nella Contea di New York in data 22 settembre 1977.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 31 marzo 1982  
-Registro n. 3 Presidenza, foglio n. 114
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 14 maggio 1985  
+Registro n. 4 Presidenza, foglio n. 290

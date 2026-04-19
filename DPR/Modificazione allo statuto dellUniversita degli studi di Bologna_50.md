@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1986 n. 1081
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 1116
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1986 n. 1081
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 1116
+==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Bologna.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -24,7 +24,7 @@ Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http:
 
 Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta, ai sensi della citata legge n. 615;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
 
 Veduto il parere del Consiglio universitario nazionale;
 
@@ -33,29 +33,27 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-  
-Nell'art. 119, relativo al corso di laurea in scienze geologiche, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:   
-  
-petrografia regionale.   
+Nell'art. 118, relativo al corso di laurea in scienze geologiche, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+paleontologia stratigrafica;  
+complementi di mineralogia e pietrografia;  
+speleologia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 dicembre 1986
+### Dato a Roma, addi' 27 giugno 1983
 
-COSSIGA
+PERTINI FALCUCCI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Visto, il Guardasigilli: ROGNONI
+Registrato alla Corte dei conti, addi' 22 marzo 1984
 
-Registrato alla Corte dei conti, addi' 28 marzo 1987
-
-Registro n. 19 Istruzione, foglio n. 40
+Registro n. 17 Istruzione, foglio n. 357

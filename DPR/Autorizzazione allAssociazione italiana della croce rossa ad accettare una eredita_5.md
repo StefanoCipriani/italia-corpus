@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1969 n. 886
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1969 n. 714
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1969 n. 886
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1969 n. 714
+================================================================
 
 Autorizzazione all'Associazione italiana della croce rossa ad accettare una eredita'.
 -------------------------------------------------------------------------------------
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-886. Decreto del Presidente della Repubblica 18 ottobre 1969, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana della croce rossa, viene autorizzata ad accettare l'eredita', in ragione di 4/50, disposta dalla defunta signora Morzenti Alessandra Antonia, detta Alessandrina e anche Rina, ved.  
-Milesi, con testamento olografo pubblicato per atto 11 aprile 1967, n. 28358 di repertorio del notaio dott. Celestino Terzi di Bergamo.  
+714. Decreto del Presidente della Repubblica 10 settembre 1969, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana della croce rossa, viene autorizzata ad accettare l'eredita' costituita da mobili di arredamento, depositi bancari e somme di danaro del valore complessivo di L. 3.022.855, da cui debbono essere detratte lire 438.000 e lire 63.320 per spese sostenute, si che residuano lire 2.501.575, disposta dalla defunta signora Luigia Quirinio con testamento olografo pubblicato per atto notaio Barberi di Novara il 20 febbraio 1968, repertorio n. 130486.  
   
 Visto, il Guardasigilli: GAVA  
-Registrato alla Corte dei conti, addi' 2 dicembre 1969  
-Atti del Governo, registro n. 230, foglio n. 94. - CARUSO
+Registrato alla Corte dei conti, addi' 21 ottobre 1969  
+Atti del Governo, registro n. 229, foglio n. 125. - CARUSO

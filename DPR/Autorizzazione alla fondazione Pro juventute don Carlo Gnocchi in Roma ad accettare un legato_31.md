@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 marzo 1985 n. 203
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1974 n. 406
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 marzo 1985 n. 203
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1974 n. 406
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-203. Decreto del Presidente della Repubblica 26 marzo 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare un legato, consistente in appezzamenti di terreno siti nel comune di Sassoferrato, distinti nel nuovo catasto terreni alla partita 2715, del valore peritato di L. 21.000.000, ritenuto congruo dall'ufficio tecnico erariale di Pesaro, disposto dalla sig.na Orciari Wanda a favore della fondazione "Don Gnocchi", che si identifica con la fondazione "Pro juventute don Carlo Gnocchi" come si evince dal verbale del consiglio di amministrazione della fondazione medesima del 20 novembre 1982, con testamento segreto 18 novembre 1972, pubblicato in data 4 maggio 1973, n. 405 di repertorio, a rogito dott. Virginio Reffi, notaio in S. Marino, ed ivi registrato in data 8 maggio 1973 al n. 1200.  
+406. Decreto del Presidente della Repubblica 7 giugno 1974, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Emilia Peluffo ved. Nobile, con testamento olografo in data 12 ottobre 1968, pubblicato, a rogito del notaio dott. Guido Gili di Torino, in data 24 ottobre 1972, n. 3645 di repertorio e n. 1677 di raccolta e registrato a Torino il 7 novembre 1972 al n. 35960 atti pubblici, consistente nella somma di L. 6.952.230.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 14 maggio 1985  
-Registro n. 4 Presidenza, foglio n. 291
+Visto, il Guardasigilli: ZAGARI  
+Registrato alla Corte dei conti, addi' 22 agosto 1974  
+Atti di Governo, registro n. 5, foglio n. 9. - SCIARRETTA

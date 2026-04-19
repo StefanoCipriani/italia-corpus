@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 980
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1972 n. 846
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 980
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1972 n. 846
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
@@ -10,55 +10,200 @@ Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, numero 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1933, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1935, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-04-11;312);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla
------
+Sulla proposta del Ministro per la pubblica istruzione;
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Decreta:
 
-Articolo unico
---------------
+Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
+Dopo l'art. 124 sono istituiti i seguenti nuovi articoli relativi alla istituzione della scuola (diretta a fini speciali) di preparazione per tecnici di laboratorio di igiene e microbiologia.
+
+Art. 125. - E' istituita presso l'istituto di igiene dell'Universita' di Trieste una "Scuola di preparazione per tecnici di laboratorio biologico" che ha lo scopo di preparare adeguatamente personale tecnico in grado di collaborare nella ricerca scientifica e nella indagine sperimentale. La scuola ha indirizzo teorico pratico.
+
+La durata del corso degli studi della scuola di preparazione per tecnici di laboratorio biologico e' di due anni accademici.
+
+E' titolo di ammissione il diploma di scuola media unica, il diploma di avviamento professionale, commerciale o industriale o agrario o ad altro indirizzo.
+
+Al primo anno della scuola si accede previo esame orale di cultura generale sostenuto davanti ad una commissione, composta dal direttore della scuola e da due membri designati dal consiglio della facolta' di medicina e chirurgia e da una prova di lettura di un testo scientifico in lingua francese. L'esame di ammissione avra' luogo entro la prima quindicina del mese di ottobre di ciascun anno, in un giorno stabilito dalla facolta' di medicina e chirurgia, su proposta del direttore della scuola.
+
+Il numero massimo dei partecipanti viene determinato anno per anno dal rettore, su proposta del direttore della scuola.
+
+Le domande di iscrizione devono essere corredate dai seguenti documenti:
+
+1) certificato di nascita in carta legale debitamente legalizzato per i nati fuori della giurisdizione di Trieste;
+
+2) titolo di studio di scuola media inferiore;
+
+3) tre fotografie di cui una autenticata;
+
+4) quietanza del pagamento della tassa;
+
+5) domanda di iscrizione al corso in carta legale.
+
+Art. 126. - Le tasse e le soprattasse sono le seguenti:
+
+Tassa di immatricolazione. . . . . . . . . . . . . . . . . . L. 1.500 Tassa di iscrizione. . . . . . . . . . . . . . . . . . . . . L. 5.000 Libretto . . . . . . . . . . . . . . . . . . . . . . . . . . L. 1.500 Soprattassa esami. . . . . . . . . . . . . . . . . . . . . . L. 3.000 Prestazioni segreteria . . . . . . . . . . . . . . . . . . . L. 3.000 Contributi di laboratorio. . . . . . . . . . . . . . . . . . L. 5.000
+
+Art. 127. - Il direttore della scuola e' il direttore dell'istituto di igiene dell'Universita' di Trieste. La scuola e' sotto la vigilanza della facolta' di medicina e chirurgia. Gli insegnanti della scuola sono proposti dal direttore della stessa, approvati dalla facolta' di medicina e chirurgia, e nominati dal rettore. Essi possono essere scelti tra i professori ufficiali, tra i liberi docenti, tra gli, aiuti ed assistenti della facolta' di medicina e chirurgia o di altra facolta' dell'ateneo o tra persone di riconosciuta competenza anche al di fuori dell'ambito universitario.
+
+Art. 128. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+Organizzazioni di laboratorio;
+
+Anatomia e fisiologia umana e comparata;
+
+Tecnica istologica;
+
+Batteriologia e sierologia (I);
+
+Chimica (I).
+
+2° Anno:
+
+Batteriologia e sierologia (II);
+
+Chimica (II);
+
+Parassitologia;
+
+Virologia;
+
+Fisica tecnica.
+
+Inoltre gli allievi devono compiere un internato nell'istituto di igiene della durata di due anni, compiendo un tirocinio di quattro mesi per ciascuno dei reparti.
+
+I programmi di insegnamento e gli orari vengono predisposti dal direttore della scuola ed approvati dal consiglio della facolta' di medicina e chirurgia.
+
+La sorveglianza degli iscritti per quanto riguarda le attivita' di laboratorio spetta al direttore della scuola.
+
+La frequenza e' obbligatoria. Le assenze ingiustificate comportano l'esclusione dal corso.
+
+Per essere ammessi a frequentare il secondo anno gli allievi devono aver sostenuto tutti gli esami del primo corso.
+
+Nel caso in cui gli allievi non abbiano superato gli esami prescritti, essi rimarranno nella posizione di fuori corso fino a quando non avranno assolto gli obblighi di cui sopra.
+
+Per essere ammessi a sostenere l'esame di diploma, gli allievi dovranno aver seguito i corsi, superato gli esami in tutti gli insegnamenti prescritti ed aver compiuto con esito favorevole tutte le esercitazioni pratiche previste.
+
+Le commissioni per gli esami di profitto sono nominate dal preside della facolta' di medicina e chirurgia, su proposta del direttore della scuola.
+
+Le commissioni sono composte di tre membri: dal professore ufficiale della materia, presidente; da un professore ufficiale di materia affine e da un libero docente o cultore della materia. Ogni commissario ha a disposizione dieci punti.
+
+L'esame di diploma consiste in un esame orale sui temi trattati durante il corso ed in una prova pratica di laboratorio stabilita dalla commissione esaminatrice.
+
+L'esame di diploma viene sostenuto davanti ad una commissione di cinque membri scelti tra i docenti della scuola, nominata dal presidente della facolta' di medicina e chirurgia su proposta del direttore della scuola.
+
+Ogni commissario ha a disposizione dieci punti.
+
+I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola; ma se al secondo esame non sia loro riconosciuta una idoneita' saranno senz'altro esclusi da ulteriori prove.
+
+Agli allievi che avranno superato l'esame finale viene rilasciato un diploma di "Tecnico di laboratorio biologico".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto, nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' (atto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 28 ottobre 1972
+
+LEONE
+
+SCALFARO
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 21 dicembre 1972 Atti di Governo, registro n. 254, foglio n. 41. - CARUSO
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Lo statuto dell'Universita' di Trieste e' cosi' modificato:  
-Dopo l'art. 69, con il conseguente spostamento della numerazione dei successivi articoli, sono aggiunti i nuovi seguenti articoli:  
-Art. 70. - Alla facolta' di magistero dell'Universita' di Trieste e' annesso un centro europeo di ricerca e di documentazione per la formazione degli insegnanti.  
-Esso fa parte integrante dell'istituto di pedagogia gia' esistente presso la stessa facolta'.  
-La finalita' di tale centro e' promuovere ricerche a livello scientifico e indagini comparative sui metodi, le tecniche, i curricoli per la formazione di base e in servizio degli insegnanti dei vari ordini e gradi; raccogliere una documentazione in proposito; organizzare gruppi di studio e seminari a carattere internazionale; attuare scambi in particolare con i Paesi confinanti con la regione Friuli-Venezia Giulia.  
-Art. 71. - Il consiglio della facolta' di magistero nomina il consiglio direttivo del centro: sono membri di diritto il preside della facolta' di magistero o un suo rappresentante, il direttore dell'istituto di pedagogia e tre docenti scelti tra quelli ufficiali della facolta'.  
-Il consiglio potra' invitare anno per anno, come aggregati, rappresentanti di altre universita', di organizzazioni internazionali, delle amministrazioni locali e delle categorie professionali.  
-Gli aggregati avranno titolo di consulenti senza voto deliberativo.  
-Il consiglio direttivo del centro si riunira' di norma al completo due volte all'anno.  
-Art. 72. - Il finanziamento del centro sara' costituito di una dotazione annua nell'ambito del finanziamento dell'istituto e da contributi speciali dell'Universita', della facolta', dello Stato, degli enti locali e dei privati o dai proventi risultanti di iniziative del centro stesso.  
-La contabilita' del centro e' prevista nell'ambito della contabilita' dell'istituto di pedagogia secondo le norme amministrative vigenti nell'Universita'.  
-Art. 73. - Il centro si vale delle attrezzature didattiche e scientifiche della facolta' di magistero e in particolare di quelle dell'istituto di pedagogia, con le integrazioni che via via saranno previste dal consiglio del centro e approvate dal consiglio della facolta'.  
-Art. 74. - Il consiglio direttivo puo' istituire un albo di esperti del centro e di corrispondenti; il consiglio della facolta' potra' autorizzare che la documentazione raccolta dal centro e le sue ricerche siano fatte pubblicamente conoscere anche con pubblicazioni sia in volume sia in periodico.  
+Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, numero 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+Dopo l'art. 124 sono istituiti i seguenti nuovi articoli relativi alla istituzione della scuola (diretta a fini speciali) di preparazione per tecnici di laboratorio di igiene e microbiologia.  
+Art. 125. - E' istituita presso l'istituto di igiene dell'Universita' di Trieste una "Scuola di preparazione per tecnici di laboratorio biologico" che ha lo scopo di preparare adeguatamente personale tecnico in grado di collaborare nella ricerca scientifica e nella indagine sperimentale. La scuola ha indirizzo teorico pratico.  
+La durata del corso degli studi della scuola di preparazione per tecnici di laboratorio biologico e' di due anni accademici.  
+E' titolo di ammissione il diploma di scuola media unica, il diploma di avviamento professionale, commerciale o industriale o agrario o ad altro indirizzo.  
+Al primo anno della scuola si accede previo esame orale di cultura generale sostenuto davanti ad una commissione, composta dal direttore della scuola e da due membri designati dal consiglio della facolta' di medicina e chirurgia e da una prova di lettura di un testo scientifico in lingua francese. L'esame di ammissione avra' luogo entro la prima quindicina del mese di ottobre di ciascun anno, in un giorno stabilito dalla facolta' di medicina e chirurgia, su proposta del direttore della scuola.  
+Il numero massimo dei partecipanti viene determinato anno per anno dal rettore, su proposta del direttore della scuola.  
+Le domande di iscrizione devono essere corredate dai seguenti documenti:  
+1) certificato di nascita in carta legale debitamente legalizzato per i nati fuori della giurisdizione di Trieste;  
+2) titolo di studio di scuola media inferiore;  
+3) tre fotografie di cui una autenticata;  
+4) quietanza del pagamento della tassa;  
+5) domanda di iscrizione al corso in carta legale.  
+Art. 126. - Le tasse e le soprattasse sono le seguenti:  
+  
+Tassa di immatricolazione. . . . . . . . . . . . . . . . . . L. 1.500 Tassa di iscrizione. . . . . . . . . . . . . . . . . . . . . L. 5.000 Libretto . . . . . . . . . . . . . . . . . . . . . . . . . . L. 1.500 Soprattassa esami. . . . . . . . . . . . . . . . . . . . . . L. 3.000 Prestazioni segreteria . . . . . . . . . . . . . . . . . . . L. 3.000 Contributi di laboratorio. . . . . . . . . . . . . . . . . . L. 5.000   
+Art. 127. - Il direttore della scuola e' il direttore dell'istituto di igiene dell'Universita' di Trieste. La scuola e' sotto la vigilanza della facolta' di medicina e chirurgia. Gli insegnanti della scuola sono proposti dal direttore della stessa, approvati dalla facolta' di medicina e chirurgia, e nominati dal rettore. Essi possono essere scelti tra i professori ufficiali, tra i liberi docenti, tra gli, aiuti ed assistenti della facolta' di medicina e chirurgia o di altra facolta' dell'ateneo o tra persone di riconosciuta competenza anche al di fuori dell'ambito universitario.  
+Art. 128. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+Organizzazioni di laboratorio;  
+Anatomia e fisiologia umana e comparata;  
+Tecnica istologica;  
+Batteriologia e sierologia (I);  
+Chimica (I).  
+2° Anno:  
+Batteriologia e sierologia (II);  
+Chimica (II);  
+Parassitologia;  
+Virologia;  
+Fisica tecnica.  
+Inoltre gli allievi devono compiere un internato nell'istituto di igiene della durata di due anni, compiendo un tirocinio di quattro mesi per ciascuno dei reparti.  
+I programmi di insegnamento e gli orari vengono predisposti dal direttore della scuola ed approvati dal consiglio della facolta' di medicina e chirurgia.  
+La sorveglianza degli iscritti per quanto riguarda le attivita' di laboratorio spetta al direttore della scuola.  
+La frequenza e' obbligatoria. Le assenze ingiustificate comportano l'esclusione dal corso.  
+Per essere ammessi a frequentare il secondo anno gli allievi devono aver sostenuto tutti gli esami del primo corso.  
+Nel caso in cui gli allievi non abbiano superato gli esami prescritti, essi rimarranno nella posizione di fuori corso fino a quando non avranno assolto gli obblighi di cui sopra.  
+Per essere ammessi a sostenere l'esame di diploma, gli allievi dovranno aver seguito i corsi, superato gli esami in tutti gli insegnamenti prescritti ed aver compiuto con esito favorevole tutte le esercitazioni pratiche previste.  
+Le commissioni per gli esami di profitto sono nominate dal preside della facolta' di medicina e chirurgia, su proposta del direttore della scuola.  
+Le commissioni sono composte di tre membri: dal professore ufficiale della materia, presidente; da un professore ufficiale di materia affine e da un libero docente o cultore della materia. Ogni commissario ha a disposizione dieci punti.  
+L'esame di diploma consiste in un esame orale sui temi trattati durante il corso ed in una prova pratica di laboratorio stabilita dalla commissione esaminatrice.  
+L'esame di diploma viene sostenuto davanti ad una commissione di cinque membri scelti tra i docenti della scuola, nominata dal presidente della facolta' di medicina e chirurgia su proposta del direttore della scuola.  
+Ogni commissario ha a disposizione dieci punti.  
+I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola; ma se al secondo esame non sia loro riconosciuta una idoneita' saranno senz'altro esclusi da ulteriori prove.  
+Agli allievi che avranno superato l'esame finale viene rilasciato un diploma di "Tecnico di laboratorio biologico".  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto, nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' (atto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1979
+### Dato a Roma, addi' 28 ottobre 1972
 
-PERTINI VALITUTTI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 8 ottobre 1980
+Registrato alla Corte dei conti, addi' 21 dicembre 1972
 
-Registro n. 92 Istruzione, foglio n. 131
+Atti di Governo, registro n. 254, foglio n. 41. - CARUSO

@@ -1,194 +1,69 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 settembre 1977 n. 1201
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 settembre 1955 n. 940
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 settembre 1977 n. 1201
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 settembre 1955 n. 940
+================================================================
 
-Modificazioni allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
---------------------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro della pubblica istruzione di concerto con il Ministro del tesoro;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Modificazioni allo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano.
+----------------------------------------------------------------------------------
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Pertanto la tabella 1 annessa allo statuto, concernente i posti di ruolo dei professori, e' modificata nel senso che l'organico dei professori di ruolo della suddetta facolta' passa da 30 + 1 a 30 + 2.   
-Art. 2 - e' approvata e resa esecutiva l'allegata convenzione, stipulata in Milano il 2 dicembre 1976, tra l'Universita' cattolica del Sacro Cuore di Milano e la associazione laicale Oasi Maria SS. di Troina nonche' l'atto aggiuntivo della convenzione medesima stipulato in Milano il 2 febbraio 1978, tra i citati enti conventori, per il finanziamento del posto di professore di ruolo di cui all'art. 1.   
+Veduto lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 17 ottobre 1944, n. 1282](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1944-10-17;1282), con [decreto del Capo provvisorio dello Stato 27 luglio 1947, n. 1242](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-07-27;1242) e con [decreti del Presidente della Repubblica 20 ottobre 1949, n. 1026](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;1026); [30 ottobre 1950, n. 1306](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1306); [31 agosto 1954, n. 1774](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-08-31;1774); [11 marzo 1953, n. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;417); [26 gennaio 1954, n. 7](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-01-26;7); [14 settembre 1954, n. 1055](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1055) e [4 febbraio 1955, n. 119](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-04;119);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il regio decreto 50 settembre 1938, n. 1652, e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
+  
+Lo statuto dell'Universita' cattolica di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 2. - E' aggiunto il seguente comma:  
+"Nella Facolta' di lettere e filosofia e' costituita la scuola di specializzazione in psicologia del lavoro e psicotecnica".  
+Art. 69. - Al quarto comma e' aggiunto quanto appresso:  
+"Alla scuola di specializzazione in psicologia del lavoro e psicotecnica costituita nella Facolta' di lettere e filosofia possono essere iscritti per il conseguimento del diploma di specializzazione in psicotecnica i soli laureati in medicina, per il conseguimento del diploma di specializzazione in orientamento professionale i laureati in medicina e i laureati in pedagogia e in filosofia.  
+Coloro che hanno gia' conseguito il diploma di perfezionamento in psicologia in una Universita' italiana, purche' in possesso del titolo di laurea che da' accesso all'iscrizione a uno dei diplomi rilasciato dalla scuola di specializzazione in psicologia del lavoro e psicotecnica, potranno essere iscritti al secondo anno di corso della scuola di specializzazione".  
+Art. 70. - Il primo e terzo comma sono rispettivamente modificati nel modo seguente:  
+"Le scuole di perfezionamento e di specializzazione rilasciano un diploma".  
+"Gli studi per il conseguimento di ciascun diploma di perfezionamento e di specializzazione durano due anni".  
+Art. 71. - Dopo il n. 2 del primo comma e' apportato il seguente nuovo comma:  
+"L'esame di diploma nella scuola di specializzazione consiste:  
+1) in un esame orale nelle materie costitutive della scuola;  
+2) nella presentazione di una tesi scritta su argomento monografico con ricerche personali;  
+3) nella discussione intorno a detta tesi".  
+Dopo l'art. 86 e' aggiunto il seguente nuovo articolo, con il conseguente spostamento della numerazione degli articoli successivi.  
+Art. 87. - La scuola di specializzazione in psicologia del lavoro e psicotecnica rilascia due diplomi:  
+a) diploma di specializzazione in psicotecnica;  
+b) diploma di specializzazione in orientamento professionale.  
+Le materie costitutive per conseguire il diploma di specializzazione in psicotecnica sono:  
+psicologia generale;  
+psicotecnica;  
+statistica.  
+Gli iscritti che aspirano a conseguire il diploma di specializzazione in psicotecnica, debbono seguire le seguenti materie ausiliarie:  
+legislazione del lavoro;  
+organizzazione scientifica del lavoro.  
+Le materie costitutive per conseguire il diploma di specializzazione in orientamento professionale sono:  
+psicologia generale; psicologia dell'eta' evolutiva;  
+metodi di selezione e di orientamento professionale.  
+Gli iscritti, che aspirano a conseguire il diploma di specializzazione in orientamento professionale, debbono seguire le seguenti materie ausiliarie:  
+legislazione del lavoro; statistica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 settembre 1977
+### Dato a Roma, addi' 20 settembre 1955
 
-LEONE MALFATTI - STAMMATI
+GRONCHI ROSSI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli MORO
 
-Registrato alla Corte dei conti, addi' 14 giugno 1978
+Registrato alla Corte dei conti, addi' 22 ottobre 1955
 
-Registro n. 64 Istruzione, foglio n. 21
-
-Istituzione di un posto convenzionato di professore di ruolo-art. 1
-
- Repertorio n. 43/1976   
-  
-  
-ISTITUZIONE DI UN POSTO CONVENZIONATO DI PROFESSORE DI RUOLO PER L'INSEGNAMENTO DI FISIOPATOLOGIA CARDIOCIRCOLATORIA PRESSO LA FACOLTA' DI MEDICINA E CHIRURGIA DELL'UNIVERSITA' CATTOLICA DEL SACRO CUORE DI MILANO.   
-  
-  
-REPUBBLICA ITALIANA   
-  
-  
-L'anno millenovecentosettantasei (1976), il giorno due del mese di dicembre, alle ore quindici e trenta in una sala del rettorato dell'Universita' cattolica del Sacro Cuore, presso la sede di Roma, avanti a me dott. Giancarlo Brasca, nato a Mezzago (Milano) il 1 agosto 1920, residente a Milano, nella mia qualita' di direttore amministrativo dell'Universita' cattolica del Sacro Cuore, delegato a ricevere gli atti in forma pubblica, ai sensi dell'art. 129 del R.G.U. approvato con [regio decreto 6 aprile 1924, n. 674, con decreto](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674) del rettore n. 3662 in data 1 agosto 1974, con rinuncia, previo mio consenso, di comune accordo dei testimoni, si sono personalmente costituiti i signori:   
-prof. Giuseppe Lazzati, nato a Milano il 22 giugno 1909, residente per la carica in Milano, largo Gemelli, 1, rettore dell'Universita' cattolica del Sacro Cuore, autorizzato al presente atto con delibera del consiglio di amministrazione dell'Universita' cattolica del Sacro Cuore;   
-rev.do sac. Luigi Ferlauto, nato a Troina il 24 luglio 1922, residente in Troina, via Conte Ruggero, 73, presidente dell'associazione laicale Oasi Maria SS. di Troina, autorizzato al presente atto con delibera del consiglio di amministrazione dell'associazione;   
-  
-  
-Premesso   
-  
-  
-che gia' da tempo l'associazione laicale Oasi Maria SS. di Troina aveva espresso il desiderio di stabilire rapporti scientifici ed operativi con l'Universita' cattolica del Sacro Cuore;   
-che la predetta associazione, avendo appreso che nello statuto dell'Universita' cattolica e' previsto l'insegnamento della materia di fisiopatologia cardiocircolatoria per il corso di laurea della facolta' di medicina e chirurgia ed essendo particolarmente sensibile ed interessata a che detta materia possa essere insegnata da un professore di ruolo per la maggiore garanzia e serieta' degli studi e delle ricerche che dallo stesso puo' pervenire, ritiene necessario, per meglio realizzare i propri scopi, promuovere l'attribuzione di un posto di professore di ruolo alla predetta cattedra;   
-che la predetta associazione ritiene di poter contribuire al potenziamento degli studi e delle ricerche relative alle malattie cardiocircolatorie ed in particolare alle ricerche indirizzate allo studio delle correlazioni tra alterazioni cardiovascolari e patologia associata che interessano il mondo degli studi degli handicappati, stipulando apposita convenzione con l'Universita' cattolica;   
-che l'Universita' cattolica si e' dichiarata disponibile ad aderire a tale iniziativa e ad accettare il versamento da parte dell'associazione di una somma annuale per la durata della presente convenzione corrispondente al costo medio di un professore di ruolo, secondo i calcoli tabellari e gli emolumenti spettanti, desunti dalle tabelle ufficiali del Ministero del tesoro e del Ministero della pubblica istruzione;   
-che il consiglio della facolta' di medicina e chirurgia nella seduta del 22 marzo 1976 ha deliberato l'accettazione della proposta di convenzione e che analoga delibera e' stata poi adottata dal senato accademico dell'Universita' cattolica nella seduta del 30 marzo 1976 e che il consiglio di amministrazione ha deliberato la medesima accettazione nella seduta del 6 aprile 1976;   
-Tutto cio' premesso e richiamato si conviene e si stipula quanto segue:   
-  
-  
-Art. 1.   
-  
-  
-L'associazione laicale Oasi Maria SS. di Troina affinche' presso la facolta' di medicina e chirurgia dell'Universita' cattolica del Sacro Cuore venga attuato l'insegnamento di fisiopatologia cardiocircolatoria si impegna a versare annualmente all'Universita' medesima un contributo destinato a finanziare un posto di professore di ruolo da istituire a tale uopo a norma degli articoli 63 e 100 del testo unico delle leggi sulla istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), pari all'importo complessivo del costo medio per trattamento economico di attivita', a qualsiasi titolo, di professore universitario di ruolo, per un periodo di venti anni.   
-
-Istituzione di un posto convenzionato di professore di ruolo-art. 2
-
- Art. 2.   
-  
-  
-Il contributo di cui al precedente art. 1 deve essere versato all'Universita' cattolica del Sacro Cuore annualmente, in unica soluzione anticipata prima dell'inizio dell'anno accademico, per venti anni, a partire dalla data della nomina del primo titolare della cattedra.   
-
-Istituzione di un posto convenzionato di professore di ruolo-art. 3
-
- Art. 3.   
-  
-  
-L'associazione laicale Oasi Maria SS. di Troina mettera' a disposizione per la durata della convenzione i propri laboratori e le proprie attrezzature, particolarmente per le ricerche che mirano ad approfondire la incidenza che le alterazioni cardiovascolari hanno nelle patologie che affliggono gli handicappati psichici.   
-
-Istituzione di un posto convenzionato di professore di ruolo-art. 4
-
- Art. 4.   
-  
-  
-La presente convenzione potra' essere rinnovata di venti anni in venti anni, qualora cio' venga espressamente richiesto dall'associazione laicale Oasi Maria SS. di Troina mediante lettera raccomandata con ricevuta di ritorno da inviare almeno un anno prima della scadenza.   
-
-Istituzione di un posto convenzionato di professore di ruolo-art. 5
-
- Art. 5.   
-  
-  
-Dichiarano le parti stipulanti che la presente convenzione ha come finalita' quelle culturali e di ricerca scientifica, come peraltro si evince dall'articolato che precede e pertanto l'Universita' cattolica chiede, in ordine alla registrazione, le agevolazioni fiscali del caso.   
-  
-  
-Il presente atto viene pubblicato mediante lettura da me datane ai comparenti che, trovandolo conforme alla loro volonta', lo sottoscrivono con me ufficiale rogante.   
-L'atto consta di 2 (due) fogli scritti su cinque facciate intere e sei righe dalla sesta facciata, comprese le firme ed due postille.   
-  
-  
-F.to Giuseppe LAZZATI   
-Luigi FERLAUTO   
-Giancarlo BRASCA, rogante   
-  
-  
-Visto, d'ordine del Presidente della Repubblica   
-Il Ministro della pubblica istruzione   
-MALFATTI   
-
-Atto aggiuntivo alla convenzione stipulata il 2 dicembre 1976-art. 1
-
- Repertorio n. 68/1978   
-  
-  
-ATTO AGGIUNTIVO   
-alla convenzione stipulata il 2 dicembre 1976, tra l'Universita' cattolica del Sacro Cuore e l'associazione laicale Oasi Maria SS. di Troina avente per oggetto: "Istituzione di un posto convenzionato di professore di ruolo per l'insegnamento di fisiopatologia cardiocircolatoria presso la facolta' di medicina e chirurgia dell'Universita' cattolica del Sacro Cuore".   
-  
-  
-REPUBBLICA ITALIANA   
-  
-  
-L'anno millenovecentosettantotto (1978) il giorno due (2) del mese di febbraio, alle ore dodici (12) in una sala del rettorato dell'Universita' cattolica del Sacro Cuore, presso la sede di Roma, avanti a me dott. Giancarlo Brasca, nato a Mezzago (Milano) il 1 agosto 1920, residente a Milano, nella mia qualita' di direttore amministrativo dell'Universita' cattolica del Sacro Cuore, delegato a ricevere gli atti in forma pubblica, ai sensi dell'art. 129 del R.G.U. approvato con [regio decreto 6 aprile 1924, n. 674, con decreto](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674) del rettore n. 3662 in data 1 agosto 1974, con rinuncia, previo mio consenso, di comune accordo dei testimoni, si sono personalmente costituiti i signori:   
-prof. Giuseppe Lazzati, nato a Milano il 22 giugno 1909, residente per la carica in Milano, largo Gemelli, 1, rettore dell'Universita' cattolica del Sacro Cuore, avente i poteri per questo atto;   
-rev.do sac. Luigi Ferlauto, nato a Troina il 24 luglio 1922, residente in Troina, via Conte Ruggero, 73, presidente dell'associazione laicale Oasi Maria SS. di Troina, avente i poteri per questo atto;   
-  
-  
-Premesso   
-  
-  
-che in data 2 dicembre 1976 e' stata stipulata una convenzione per l'istituzione di un posto convenzionato di professore di ruolo per l'insegnamento di fisiopatologia cardiocircolatoria, inviata al Ministero della pubblica istruzione per le doverose modifiche statutarie dell'Universita' cattolica del Sacro Cuore, e che il Ministero della pubblica istruzione con propria nota prot. n. 2832, pos. 2, del 22 novembre 1977, ha chiesto espressamente l'inserimento di alcune clausole relative alla convenzione in oggetto;   
-che per aderire alla detta richiesta del Ministero della pubblica istruzione, formulata su osservazioni del Ministero del tesoro, le parti convengono di stipulare il presente atto aggiuntivo, da intendersi come parte integrante della gia' richiamata convenzione; che l'associazione laicale Oasi Maria SS. di Troina e' associazione laicale con fini di culto e di religione, riconosciuta con [decreto del Presidente della Repubblica 24 giugno 1974, n. 471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-06-24;471), e che pertanto opera nell'ambito delle leggi e dei controlli previsti e che la consistenza patrimoniale dei beni immobili del predetto ente nonche' le fonti di entrata e gli oneri di gestione sono stati chiaramente evidenziati nelle annuali denuncie dei redditi e che non esiste alcun altro obbligo circa l'evidenziazione dei dati suddetti;   
-Tutto cio' premesso le parti come sopra costituite convengono e stipulano quanto segue:   
-  
-  
-Art. 1.   
-  
-  
-All'art. 1 della richiamata convenzione 2 dicembre 1976 e' aggiunto il seguente comma: "L'ente sovventore si impegna, in aggiunta a quanto stabilito al comma precedente, a versare all'Universita' cattolica del Sacro Cuore un'ulteriore aliquota pari al 20% del costo medio del posto di professore da destinare alla costituzione di apposito fondo per il trattamento di cessazione dal servizio che possa eventualmente spettare al titolare del posto stesso".   
-
-Atto aggiuntivo alla convenzione stipulata il 2 dicembre 1976-art. 2
-
- Art. 2.   
-  
-  
-All'art. 4 della richiamata convenzione 2 dicembre 1976 e' aggiunto il seguente comma: "Convengono le parti contraenti che qualora la convenzione non venga rinnovata alla scadenza o qualora non siano aggiornati i contributi a carico dell'ente sovventore oppure vengano a cessare per qualsiasi motivo ed in qualunque momento i contributi medesimi, la convenzione si intendera' senz'altro decaduta con la conseguente soppressione del posto di cui trattasi e la immediata cessazione dal servizio del relativo titolare, salvo eventuali responsabilita' che potranno derivare all'ente sovventore dal mancato adempimento, nei casi previsti dalle leggi vigenti in materia di obbligazioni".   
-
-Atto aggiuntivo alla convenzione stipulata il 2 dicembre 1976-art. 3
-
- Art. 3.   
-  
-  
-La presente convenzione essendo atto integrativo di altra convenzione stipulata il 2 dicembre 1976, rep. n. 43/1976 e registrata a Milano il 16 dicembre 1976, ufficio registro atti pubblici, A/2 n. 18839, serie I, verra' registrata con lo stesso regime tributario della gia' richiamata convenzione.   
-
-Atto aggiuntivo alla convenzione stipulata il 2 dicembre 1976-art. 4
-
- Art. 4.   
-  
-  
-Dichiarano le parti stipulanti che il presente atto ha come finalita' quelle culturali e di ricerca scientifica, come peraltro si evince dall'articolato che precede e pertanto l'Universita' cattolica chiede, in ordine alla registrazione, le agevolazioni fiscali del caso.   
-  
-  
-Il presente atto viene pubblicato mediante lettura da me datane ai comparenti che, trovandolo conforme alla loro volonta', lo sottoscrivono con me ufficiale rogante.   
-L'atto consta di 2 (due) fogli scritti su quattro (4) facciate intere e n. tredici (13) righe della quinta facciata, comprese le firme e le postille.   
-  
-  
-F.to Giuseppe LAZZATI   
-Luigi FERLAUTO   
-Giancarlo BRASCA, rogante   
-  
-  
-Visto, d'ordine del Presidente della Repubblica   
-Il Ministro della pubblica istruzione   
-MALFATTI   
+Atti del Governo, registro n. 93, foglio n. 69. - CARLOMAGNO

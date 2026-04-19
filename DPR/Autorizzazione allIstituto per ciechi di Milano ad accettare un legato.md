@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 dicembre 1954 n. 1515
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1955 n. 855
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 dicembre 1954 n. 1515
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1955 n. 855
+=============================================================
 
 Autorizzazione all'Istituto per ciechi di Milano ad accettare un legato.
 ------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1515. Decreto del Presidente della Repubblica 24 dicembre 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'istituto per ciechi di Milano, avente sede in via Vivaio n. 7, viene autorizzato ad accettare un legato di lire duecentomila disposto in suo favore dal defunto barone avvocato Giovanni Teodoro Vismara Curro' fu Luigi.  
+855. Decreto del Presidente della Repubblica 15 luglio 1955, col quale, sulla, proposta del Ministro per la pubblica istruzione, l'Istituto per ciechi di Milano viene autorizzato ad accettare un legato disposto in suo favore con testamento olografo in data 18 febbraio 1950 dalla defunta signora Ambrosini Spinella Angela Caterina fu Paolo.  
   
-Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 2 aprile 1955  
-Atti del Governo, registro n. 90, foglio n. 2. - CARLOMAGNO
+Visto, il Guardasigilli: MORO  
+Registrato alla Corte dei conti, addi' 26 settembre 1955  
+Atti del Governo, registro n. 92, foglio n. 195. - CARLOMAGNO

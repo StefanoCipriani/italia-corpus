@@ -1,84 +1,248 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1979 n. 305
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1971 n. 459
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1979 n. 305
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1971 n. 459
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Lecce.
 -----------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Lecce approvato con [decreto del Presidente della Repubblica 22 giugno 1968, n. 1200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-06-22;1200) e modificato con [decreto del Presidente della Repubblica 10 settembre 1969, n. 764](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-09-10;764);
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Lecce, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 14. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:
+
+Antichita' preclassiche della Puglia;
+
+Storia della lingua latina;
+
+Storia della lingua greca;
+
+Filologia micenea;
+
+Storia delle religioni del mondo classico;
+
+Linguistica generale;
+
+Dialettologia italiana;
+
+Letteratura ispano-americana;
+
+Filologia slava;
+
+Filologia e critica dantesca;
+
+Geografia antropica ed economica;
+
+Storia dell'arte contemporanea;
+
+Storia dell'urbanistica;
+
+Storia del teatro e dello spettacolo;
+
+Storia del cinema;
+
+Storia e tecnica del restauro.
+
+Art. 15. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:
+
+Sociologia;
+
+Filosofia della scienza;
+
+Logica ed epistemologia;
+
+Psicologia dell'eta' evolutiva;
+
+Storia della scienza e della tecnica;
+
+Storia delle religioni del mondo classico;
+
+Geografia antropica ed economica.
+
+Art. 25. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti:
+
+Dialettologia italiana;
+
+Storia dell'arte medievale;
+
+Storia dell'arte contemporanea;
+
+Linguistica generale;
+
+Storia della critica letteraria;
+
+Storia contemporanea;
+
+Storia e istituzioni dei Paesi afroasiatici;
+
+Geografia economica;
+
+Filologia italiana;
+
+Storia e civilta' dell'estremo oriente.
+
+Nel predetto corso di laurea l'insegnamento complementare di "civilta' dell'oriente antico" e' soppresso e sostituito da quello di "storia e civilta' del vicino e medio oriente".
+
+Art. 29, relativo al corso di laurea in materie letterarie e' abrogato e sostituito dal seguente:
+
+"L'esame di laurea consiste in una dissertazione scritta di argomento scelto nell'ambito dell'indirizzo indicato nel piano di studi approvato dalla facolta', presentata e discussa nei modi previsti dagli articoli 17 e 18".
+
+Art. 32. - All'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti:
+
+Storia contemporanea;
+
+Dialettologia italiana;
+
+Filologia italiana;
+
+Filosofia del linguaggio;
+
+Storia della scienza.
+
+Art. 36, relativo al corso di laurea in pedagogia e' abrogato e sostituito dal seguente:
+
+"L'esame di laurea consiste in una dissertazione scritta di argomento scelto nell'ambito dell'indirizzo indicato nel piano di studi approvato dalla facolta', presentata e discussa nei modi previsti dagli articoli 17 e 18".
+
+Art. 38. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti i seguenti:
+
+Storia contemporanea;
+
+Dialettologia italiana;
+
+Filologia italiana;
+
+Letterature comparate;
+
+Linguistica generale;
+
+Linguistica applicata.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 11 maggio 1971
+
+SARAGAT
+
+MISASI
+
+Visto, il Guardasigilli: COLOMBO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 16 luglio 1971 Atti del Governo, registro n. 243, foglio n. 21. - VALENTINI
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Lecce, approvato con [decreto del Presidente della Repubblica 22 giugno 1968, n. 1200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-06-22;1200) e modificato con [decreto del Presidente della Repubblica 10 settembre 1969, n. 764](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-09-10;764), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Lecce approvato con [decreto del Presidente della Repubblica 22 giugno 1968, n. 1200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-06-22;1200) e modificato con [decreto del Presidente della Repubblica 10 settembre 1969, n. 764](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-09-10;764);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici della Universita' di Lecce e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Lecce, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso;  
-Art. 61. - L'articolo e' modificato nel senso che la facolta' di scienze matematiche, fisiche e naturali conferisce anche la laurea in scienze biologiche.  
-Dopo l'art. 67, con il conseguente spostamento della numerazione degli articoli successivi, e' inserito il nuovo seguente articolo relativo all'istituzione del corso di laurea in scienze biologiche.  
-Corso di laurea in scienze biologiche  
-Art. 68. - La durata del corso degli studi per la laurea in scienze biologiche e' di quattro anni.  
-Titoli di ammissione: quelli previsti dall'[art. 1 della legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1).  
-Sono insegnamenti fondamentali:  
-1) istituzioni di matematiche;  
-2) fisica;  
-3) chimica generale ed inorganica;  
-4) chimica organica;  
-5) botanica (biennale);  
-6) zoologia (biennale);  
-7) anatomia comparata;  
-8) anatomia umana;  
-9) istologia ed embriologia;  
-10) fisiologia generale (biennale);  
-11) chimica biologica;  
-12) igiene;  
-13) genetica.  
-Sono insegnamenti complementari:  
-1) chimica fisica;  
-2) biologia generale;  
-3) antropologia;  
-4) biologia delle razze umane;  
-5) etnologia;  
-6) zoocolture (bachi, api, avi, coniglicoltura);  
-7) idrobiologia e pescicoltura;  
-8) patologia generale;  
-9) microbiologia;  
-10) parassitologia;  
-11) entomologia agraria;  
-12) fisiologia vegetale;  
-13) patologia vegetale;  
-14) geologia;  
-15) paleontologia;  
-16) statistica;  
-17) scienza dell'alimentazione;  
-18) esperimentazioni di chimica;  
-19) virologia;  
-20) chimica bromatologica;  
-21) saggi e dosaggi farmacologici.  
-Gli insegnamenti biennali di botanica e di zoologia comprendono tanto la parte generale quanto quella sistematica.  
-Per essere ammesso all'esame di laurea lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e in tre almeno da lui scelti fra i complementari.  
+Lo statuto dell'Universita' degli studi di Lecce, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 14. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:  
+  
+Antichita' preclassiche della Puglia;  
+Storia della lingua latina;  
+Storia della lingua greca;  
+Filologia micenea;  
+Storia delle religioni del mondo classico;  
+Linguistica generale;  
+Dialettologia italiana;  
+Letteratura ispano-americana;  
+Filologia slava;  
+Filologia e critica dantesca;  
+Geografia antropica ed economica;  
+Storia dell'arte contemporanea;  
+Storia dell'urbanistica;  
+Storia del teatro e dello spettacolo;  
+Storia del cinema;  
+Storia e tecnica del restauro.  
+Art. 15. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:  
+  
+Sociologia;  
+Filosofia della scienza;  
+Logica ed epistemologia;  
+Psicologia dell'eta' evolutiva;  
+Storia della scienza e della tecnica;  
+Storia delle religioni del mondo classico;  
+Geografia antropica ed economica.  
+Art. 25. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti:  
+  
+Dialettologia italiana;  
+Storia dell'arte medievale;  
+Storia dell'arte contemporanea;  
+Linguistica generale;  
+Storia della critica letteraria;  
+Storia contemporanea;  
+Storia e istituzioni dei Paesi afroasiatici;  
+Geografia economica;  
+Filologia italiana;  
+Storia e civilta' dell'estremo oriente.  
+Nel predetto corso di laurea l'insegnamento complementare di "civilta' dell'oriente antico" e' soppresso e sostituito da quello di "storia e civilta' del vicino e medio oriente".  
+Art. 29, relativo al corso di laurea in materie letterarie e' abrogato e sostituito dal seguente:  
+"L'esame di laurea consiste in una dissertazione scritta di argomento scelto nell'ambito dell'indirizzo indicato nel piano di studi approvato dalla facolta', presentata e discussa nei modi previsti dagli articoli 17 e 18".  
+Art. 32. - All'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti:  
+  
+Storia contemporanea;  
+Dialettologia italiana;  
+Filologia italiana;  
+Filosofia del linguaggio;  
+Storia della scienza.  
+Art. 36, relativo al corso di laurea in pedagogia e' abrogato e sostituito dal seguente:  
+"L'esame di laurea consiste in una dissertazione scritta di argomento scelto nell'ambito dell'indirizzo indicato nel piano di studi approvato dalla facolta', presentata e discussa nei modi previsti dagli articoli 17 e 18".  
+Art. 38. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti i seguenti:  
+  
+Storia contemporanea;  
+Dialettologia italiana;  
+Filologia italiana;  
+Letterature comparate;  
+Linguistica generale;  
+Linguistica applicata.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 17 maggio 1979
+### Dato a Roma, addi' 11 maggio 1971
 
-PERTINI SPADOLINI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 18 luglio 1979
+Registrato alla Corte dei conti, addi' 16 luglio 1971
 
-Registro n. 56 Istruzione, foglio n. 95
+Atti del Governo, registro n. 243, foglio n. 21. - VALENTINI

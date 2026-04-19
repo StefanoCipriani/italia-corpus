@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 maggio 1977 n. 396
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 giugno 1979 n. 590
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 maggio 1977 n. 396
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 giugno 1979 n. 590
 =============================================================
 
 Autorizzazione alla fondazione artistica Poldi-Pezzoli, in Milano, ad accettare una donazione.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-396. Decreto del Presidente della Repubblica 9 maggio 1977, col quale, sulla proposta del Ministro per i beni culturali ed ambientali, la fondazione artistica Poldi-Pezzoli, in Milano, viene autorizzata ad accettare la donazione disposta dalla sig.ra Caterina Robiati, consistente nei seguenti tre dipinti: Greghetto, "La Maga Circe" di cm 133 X 99; Fra Galgario "Ritratto di giovane" di cm 100 X 80; B. Strozzi "Madonna con Bambino e S. Giovanni" di cm 115 X 80; nonche' di un quarto dipinto di sua libera disponibilita', Fra Galgario "Ritratto di Giovane detto l'Allegrezza" di cm 130x88, con destinazione al museo "Poldi-Pezzoli".  
+590. Decreto del Presidente della Repubblica 22 giugno 1979, col quale, sulla proposta del Ministro per i beni culturali ed ambientali, la fondazione artistica Poldi-Pezzoli, in Milano, viene autorizzata ad accettare la donazione disposta dalla sig.ra Portaluppi Luisa in Castellini Baldissera con atto notarile 29 maggio 1978, n. 127563/24864 di repertorio, a rogito dott. Domenico Moretti, notaio in Milano, consistente in una collezione di orologi solari del valore di L. 150.000.000.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 30 giugno 1977  
-Registro n. 10 Beni culturali, foglio n. 86
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti, addi' 25 settembre 1979  
+Registro n. 16 Beni culturali, foglio n. 107

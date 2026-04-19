@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1966 n. 137
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1969 n. 1103
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1966 n. 137
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1969 n. 1103
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Perugia.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, numero 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,9 +18,9 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 11 aprile 1953, n. 352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;352);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -30,106 +30,316 @@ Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 18, relativo alle propedeuticita' di esami nel corso di laurea in Scienze politiche e' modificato nel senso che viene aggiunto il seguente comma:
+Gli articoli 15, 16, 17, 18, 19, 20 relativi all'ordinamento degli studi della facolta' di scienze politiche sono abrogati e sostituiti dai seguenti con il conseguente spostamento della numerazione degli articoli successivi.
 
-"Gli esami di Istituzioni di diritto pubblico e di Storia moderna (biennale) devono precedere quello di Storia ed istituzioni dei paesi afro-asiatici".
+Capitolo III
 
-Art. 32. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' aggiunto quello di:
+Facolta' di scienze politiche
 
-13) Semeiotica chirurgica.
+Art. 15. - La facolta' di scienze politiche conferisce, dopo un corso di studi della durata di quattro anni, la laurea in scienze politiche.
 
-Art. 68. - Agli insegnamenti complementari del corso di laurea in Chimica (indirizzo organico-biologico) sono aggiunti quelli di:
+E' titolo di ammissione il diploma di maturita' classica o scientifica.
 
-23) Chimica industriale;
+Il corso di studi comprende un biennio propedeutico e un biennio di specializzazione ordinato in tre indirizzi:
 
-24) Chimica quantistica;
+Politico-amministrativo;
 
-25) Cinetica chimica;
+Storico-internazionale;
 
-26) Chimica delle sostanze naturali.
+Economico-sociale.
 
-Agli insegnamenti complementari del corso di laurea in Chimica (indirizzo inorganico-chimico-fisico) sono aggiunti quelli di:
+Art. 16. - Biennio propedeutico.
 
-24) Spettroscopia molecolare;
+Sono insegnamenti obbligatori:
 
-25) Cinetica chimica;
+1) Istituzioni di diritto pubblico;
 
-26) Chimica dello stato solido;
+2) Diritto costituzionale italiano e comparato;
 
-27) Cristallografia.
+3) Economia politica;
 
-L'insegnamento complementare di Spettroscopia e' soppresso.
+4) Statistica;
 
-Art. 92, relativo alle norme generali riguardante le Scuole di perfezionamento annesse alla Facolta' di medicina e chirurgia e' abrogato e sostituito dal seguente:
+5) Sociologia;
 
-"Alla Facolta' di medicina e chirurgia sono ammesse le scuole di specializzazione in: "Endocrinologia e malattie del ricambio", "Pediatria", "Ostetricia e ginecologia", "Oculistica", "Chirurgia", "Medicina interna", "Igiene", "Gastroenterologia", "Anestesiologia", "Otorinolaringoiatria" e "Cardiologia".
+6) Storia moderna;
 
-Esse hanno lo scopo di promuovere il maggior incremento degli studi medico-chirurgici, impartendo una particolare istruzione a quei laureati che intendono migliorare la loro cultura e preparazione specializzandosi in qualche branca. Le scuole di specializzazione conducono al conferimento del diploma di "specialista", a norma dell'[art. 178 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art178)".
+7) Istituzioni di diritto privato;
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti, di osservarlo e di farlo osservare.
+8) Storia delle dottrine politiche;
 
-Dato a Roma, addi' 18 febbraio 1966
+9) Politica economica e finanziaria.
+
+Lo studente potra' aggiungere ai nove insegnamenti del biennio propedeutico non piu' di tre insegnamenti obbligatori del biennio di specializzazione scelto.
+
+Tali insegnamenti anticipati al biennio propedeutico vanno in detrazione dal numero degli insegnamenti del biennio di specializzazione.
+
+Art. 17. - Biennio di specializzazione.
+
+Nel secondo biennio sono impartiti direttamente dalla facolta' o mutuati da altre facolta', per l'attuazione degli indirizzi di specializzazione stabiliti nell'art. 15, insegnamenti scelti tra quelli indicati, a fine orientativo, nell'elenco seguente:
+
+Dottrina dello Stato;
+
+Diritto amministrativo;
+
+Diritto internazionale;
+
+Diritto del lavoro;
+
+Storia ed istituzioni dei paesi afro-asiatici;
+
+Storia delle relazioni internazionali;
+
+Geografia politica ed economica;
+
+Scienza delle finanze;
+
+Istituzioni di diritto e di procedura penale;
+
+Antropologia culturale;
+
+Contabilita' di Stato;
+
+Demografia;
+
+Diritto commerciale;
+
+Diritto delle comunita' europee;
+
+Diritto diplomatico e consolare;
+
+Diritto ecclesiastico;
+
+Diritto internazionale privato;
+
+Diritto parlamentare;
+
+Diritto privato e comparato;
+
+Diritto tributario;
+
+Economia e politica agraria;
+
+Economia e politica industriale;
+
+Economia internazionale;
+
+Etnologia;
+
+Filosofia del diritto;
+
+Legislazione sociale;
+
+Organizzazione internazionale;
+
+Programmazione economica;
+
+Scienza dell'amministrazione;
+
+Sociologia del lavoro e della industria;
+
+Statistica economica;
+
+Storia contemporanea;
+
+Storia dei partiti e dei movimenti politici;
+
+Storia dei rapporti fra Stato e Chiesa;
+
+Storia del diritto italiano;
+
+Storia delle istituzioni politiche;
+
+Storia economica;
+
+Storia delle dottrine economiche;
+
+Storia dell'Europa orientale;
+
+Storia del Risorgimento;
+
+Teoria e politica dello sviluppo economico;
+
+Teoria generale del diritto.
+
+All'inizio di ciascun anno accademico la facolta' predispone per ciascun indirizzo di specializzazione una lista di non piu' di quindici insegnamenti, scelti fra quelli sopra indicati.
+
+La facolta' stabilisce inoltre quanti e quali insegnamenti di ciascuna lista siano obbligatori per gli studenti.
+
+Gli insegnamenti obbligatori di ciascun indirizzo non possono essere meno di quattro e piu' di sette.
+
+Lo studente sceglie gli insegnamenti non obbligatori tra i restanti insegnamenti della lista dell'indirizzo a cui si e' iscritto.
+
+Non oltre il 1 dicembre del terzo anno di corso lo studente deve scegliere l'indirizzo di specializzazione.
+
+Art. 18. - Nel primo biennio la prova di istituzioni di diritto pubblico deve essere superata prima di quella di diritto costituzionale italiano e comparato; la prova di economia politica deve essere superata prima di quella di politica economica e finanziaria.
+
+Per il secondo biennio la facolta' stabilisce la propedeuticita' degli esami di profitto con la deliberazione con cui all'inizio di ogni anno accademico determina la lista delle materie di specializzazione di ciascun indirizzo.
+
+Art. 19. - Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato le prove relative agli insegnamenti obbligatori del biennio propedeutico e a dieci insegnamenti del secondo biennio, secondo l'indirizzo scelto, compresi tra questi gli insegnamenti obbligatori di specializzazione. Lo studente inoltre deve aver seguito i corsi e superato le prove relative a due lingue straniere da scegliere, qualunque sia l'indirizzo, tra le seguenti: lingua francese, inglese, tedesca, spagnola, russa.
+
+Art. 20. - I corsi sono annuali, tranne i corsi di lingua che sono triennali con prove annuali.
+
+La facolta' puo' istituire corsi di durata semestrale; in tal caso la facolta' deve stabilire le equivalenze tra due corsi semestrali e un corso annuale.
+
+Le prove annuali d'esame non potranno nel complesso, superare per ciascun corso quadriennale di laurea, il numero di ventiquattro, escluse sempre quelle per le lingue.
+
+Art. 21. - L'esame di laurea consiste nella discussione di una dissertazione scritta svolta dal candidato in materia da lui scelta su tema approvato da uno o piu' professori; nonche' nella discussione orale di due tesine.
+
+Superato l'esame di laurea lo studente consegue il titolo di dottore in scienze politiche con l'indicazione dell'indirizzo prescelto.
+
+Art. 22. - Il consiglio della facolta' determina caso per caso quali, tra gli esami gia' superati per il conseguimento di altra laurea possono essere riconosciuti validi ai fini del conseguimento della laurea in scienze politiche.
+
+Per le eventuali abbreviazioni di corso e per il riconoscimento di esami gia' superati da parte di studenti provenienti da altri corsi di laurea, che intendono iscriversi per conseguire la laurea in scienze politiche, decide, caso per caso, il consiglio della facolta'.
+
+Art. 23. - L'attivita' scientifica e didattica si avvale per il coordinamento tra le varie discipline di insegnamento dei seguenti quattro istituti policattedra:
+
+Istituto di studi giuridici;
+
+Istituto di studi storici;
+
+Istituto di studi economici;
+
+Istituto di studi sociali.
+
+A questi Istituti si affianca un laboratorio linguistico.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1969
 
 SARAGAT
 
-GUI
+FERRARI AGGRADI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GAVA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 24 marzo 1966 Atti del Governo, registro n. 202, foglio n. 63. - VILLA
+alla Corte dei conti, addi' 19 gennaio 1970 Atti del Governo, registro n. 231, foglio n. 47. - CARUSO
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, numero 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;352);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:  
-Art. 18, relativo alle propedeuticita' di esami nel corso di laurea in Scienze politiche e' modificato nel senso che viene aggiunto il seguente comma:  
-"Gli esami di Istituzioni di diritto pubblico e di Storia moderna (biennale) devono precedere quello di Storia ed istituzioni dei paesi afro-asiatici".  
-Art. 32. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' aggiunto quello di:  
-13) Semeiotica chirurgica.  
-Art. 68. - Agli insegnamenti complementari del corso di laurea in Chimica (indirizzo organico-biologico) sono aggiunti quelli di:  
-23) Chimica industriale;  
-24) Chimica quantistica;  
-25) Cinetica chimica;  
-26) Chimica delle sostanze naturali.  
-Agli insegnamenti complementari del corso di laurea in Chimica (indirizzo inorganico-chimico-fisico) sono aggiunti quelli di:  
-24) Spettroscopia molecolare;  
-25) Cinetica chimica;  
-26) Chimica dello stato solido;  
-27) Cristallografia.  
-L'insegnamento complementare di Spettroscopia e' soppresso.  
-Art. 92, relativo alle norme generali riguardante le Scuole di perfezionamento annesse alla Facolta' di medicina e chirurgia e' abrogato e sostituito dal seguente:  
-"Alla Facolta' di medicina e chirurgia sono ammesse le scuole di specializzazione in: "Endocrinologia e malattie del ricambio", "Pediatria", "Ostetricia e ginecologia", "Oculistica", "Chirurgia", "Medicina interna", "Igiene", "Gastroenterologia", "Anestesiologia", "Otorinolaringoiatria" e "Cardiologia".  
-Esse hanno lo scopo di promuovere il maggior incremento degli studi medico-chirurgici, impartendo una particolare istruzione a quei laureati che intendono migliorare la loro cultura e preparazione specializzandosi in qualche branca. Le scuole di specializzazione conducono al conferimento del diploma di "specialista", a norma dell'[art. 178 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art178)".  
+Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+  
+Gli articoli 15, 16, 17, 18, 19, 20 relativi all'ordinamento degli studi della facolta' di scienze politiche sono abrogati e sostituiti dai seguenti con il conseguente spostamento della numerazione degli articoli successivi.   
+  
+Capitolo III   
+Facolta' di scienze politiche   
+  
+Art. 15. - La facolta' di scienze politiche conferisce, dopo un corso di studi della durata di quattro anni, la laurea in scienze politiche.   
+E' titolo di ammissione il diploma di maturita' classica o scientifica.   
+Il corso di studi comprende un biennio propedeutico e un biennio di specializzazione ordinato in tre indirizzi:   
+Politico-amministrativo;   
+Storico-internazionale;   
+Economico-sociale.   
+Art. 16. - Biennio propedeutico.   
+Sono insegnamenti obbligatori:   
+1) Istituzioni di diritto pubblico;   
+2) Diritto costituzionale italiano e comparato;   
+3) Economia politica;   
+4) Statistica;   
+5) Sociologia;   
+6) Storia moderna;   
+7) Istituzioni di diritto privato;   
+8) Storia delle dottrine politiche;   
+9) Politica economica e finanziaria.   
+Lo studente potra' aggiungere ai nove insegnamenti del biennio propedeutico non piu' di tre insegnamenti obbligatori del biennio di specializzazione scelto.   
+Tali insegnamenti anticipati al biennio propedeutico vanno in detrazione dal numero degli insegnamenti del biennio di specializzazione.   
+Art. 17. - Biennio di specializzazione.   
+Nel secondo biennio sono impartiti direttamente dalla facolta' o mutuati da altre facolta', per l'attuazione degli indirizzi di specializzazione stabiliti nell'art. 15, insegnamenti scelti tra quelli indicati, a fine orientativo, nell'elenco seguente:   
+Dottrina dello Stato;   
+Diritto amministrativo;   
+Diritto internazionale;   
+Diritto del lavoro;   
+Storia ed istituzioni dei paesi afro-asiatici;   
+Storia delle relazioni internazionali;   
+Geografia politica ed economica;   
+Scienza delle finanze;   
+Istituzioni di diritto e di procedura penale;   
+Antropologia culturale;   
+Contabilita' di Stato;   
+Demografia;   
+Diritto commerciale;   
+Diritto delle comunita' europee;   
+Diritto diplomatico e consolare;   
+Diritto ecclesiastico;   
+Diritto internazionale privato;   
+Diritto parlamentare;   
+Diritto privato e comparato;   
+Diritto tributario;   
+Economia e politica agraria;   
+Economia e politica industriale;   
+Economia internazionale;   
+Etnologia;   
+Filosofia del diritto;   
+Legislazione sociale;   
+Organizzazione internazionale;   
+Programmazione economica;   
+Scienza dell'amministrazione;   
+Sociologia del lavoro e della industria;   
+Statistica economica;   
+Storia contemporanea;   
+Storia dei partiti e dei movimenti politici;   
+Storia dei rapporti fra Stato e Chiesa;   
+Storia del diritto italiano;   
+Storia delle istituzioni politiche;   
+Storia economica;   
+Storia delle dottrine economiche;   
+Storia dell'Europa orientale;   
+Storia del Risorgimento;   
+Teoria e politica dello sviluppo economico;   
+Teoria generale del diritto.   
+All'inizio di ciascun anno accademico la facolta' predispone per ciascun indirizzo di specializzazione una lista di non piu' di quindici insegnamenti, scelti fra quelli sopra indicati.   
+La facolta' stabilisce inoltre quanti e quali insegnamenti di ciascuna lista siano obbligatori per gli studenti.   
+Gli insegnamenti obbligatori di ciascun indirizzo non possono essere meno di quattro e piu' di sette.   
+Lo studente sceglie gli insegnamenti non obbligatori tra i restanti insegnamenti della lista dell'indirizzo a cui si e' iscritto.   
+Non oltre il 1 dicembre del terzo anno di corso lo studente deve scegliere l'indirizzo di specializzazione.   
+Art. 18. - Nel primo biennio la prova di istituzioni di diritto pubblico deve essere superata prima di quella di diritto costituzionale italiano e comparato; la prova di economia politica deve essere superata prima di quella di politica economica e finanziaria.   
+Per il secondo biennio la facolta' stabilisce la propedeuticita' degli esami di profitto con la deliberazione con cui all'inizio di ogni anno accademico determina la lista delle materie di specializzazione di ciascun indirizzo.   
+Art. 19. - Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato le prove relative agli insegnamenti obbligatori del biennio propedeutico e a dieci insegnamenti del secondo biennio, secondo l'indirizzo scelto, compresi tra questi gli insegnamenti obbligatori di specializzazione. Lo studente inoltre deve aver seguito i corsi e superato le prove relative a due lingue straniere da scegliere, qualunque sia l'indirizzo, tra le seguenti: lingua francese, inglese, tedesca, spagnola, russa.   
+Art. 20. - I corsi sono annuali, tranne i corsi di lingua che sono triennali con prove annuali.   
+La facolta' puo' istituire corsi di durata semestrale; in tal caso la facolta' deve stabilire le equivalenze tra due corsi semestrali e un corso annuale.   
+Le prove annuali d'esame non potranno nel complesso, superare per ciascun corso quadriennale di laurea, il numero di ventiquattro, escluse sempre quelle per le lingue.   
+Art. 21. - L'esame di laurea consiste nella discussione di una dissertazione scritta svolta dal candidato in materia da lui scelta su tema approvato da uno o piu' professori; nonche' nella discussione orale di due tesine.   
+Superato l'esame di laurea lo studente consegue il titolo di dottore in scienze politiche con l'indicazione dell'indirizzo prescelto.   
+Art. 22. - Il consiglio della facolta' determina caso per caso quali, tra gli esami gia' superati per il conseguimento di altra laurea possono essere riconosciuti validi ai fini del conseguimento della laurea in scienze politiche.   
+Per le eventuali abbreviazioni di corso e per il riconoscimento di esami gia' superati da parte di studenti provenienti da altri corsi di laurea, che intendono iscriversi per conseguire la laurea in scienze politiche, decide, caso per caso, il consiglio della facolta'.   
+Art. 23. - L'attivita' scientifica e didattica si avvale per il coordinamento tra le varie discipline di insegnamento dei seguenti quattro istituti policattedra:   
+Istituto di studi giuridici;   
+Istituto di studi storici;   
+Istituto di studi economici;   
+Istituto di studi sociali.   
+A questi Istituti si affianca un laboratorio linguistico.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti, di osservarlo e di farlo osservare.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 febbraio 1966
+### Dato a Roma, addi' 31 ottobre 1969
 
-SARAGAT GUI
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 24 marzo 1966
+Registrato alla Corte dei conti, addi' 19 gennaio 1970
 
-Atti del Governo, registro n. 202, foglio n. 63. - VILLA
+Atti del Governo, registro n. 231, foglio n. 47. - CARUSO

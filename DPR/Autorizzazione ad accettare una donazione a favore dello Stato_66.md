@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1982 n. 138
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1975 n. 713
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1982 n. 138
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1975 n. 713
 ==============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-138. Decreto del Presidente della Repubblica 29 gennaio 1982, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione di una donazione a favore dello Stato, consistente in una collezione composta di un gruppo di trentatre opere, da destinare alla soprintendenza speciale alla Galleria nazionale d'arte moderna e contemporanea di Roma, disposta dalle signorine Lucia e Elica Balla, con atto 4 dicembre 1980, n. 472 di repertorio, a rogito dott. Antonio Sgobbo, notaio in Roma.  
+713. Decreto del Presidente della Repubblica 30 ottobre 1975, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione di una donazione, consistente in dieci opere del pittore Giuseppe Capogrossi, disposta a favore dello Stato dal prof. Renato Cardazzo con atto in data 17 febbraio 1975, n. 10819/1245 di repertorio, a rogito dott.  
+Giuseppe Santambrogio, notaio in Lodi (Milano), da destinare alla galleria nazionale d'arte moderna di Roma.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 26 marzo 1982  
-Registro n. 9 Beni culturali, foglio n. 234
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 18 dicembre 1975  
+Atti di Governo, registro n. 15, foglio n. 50

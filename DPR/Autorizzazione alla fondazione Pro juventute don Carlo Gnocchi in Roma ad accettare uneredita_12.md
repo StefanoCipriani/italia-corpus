@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 1977 n. 418
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 gennaio 1976 n. 73
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 1977 n. 418
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 gennaio 1976 n. 73
 =============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un'eredita'.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-418. Decreto del Presidente della Repubblica 6 giugno 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla sig.ra Prina Pierina, in favore dell'istituto don Gnocchi, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", con testamento olografo 10 novembre 1965, pubblicato a rogito del notaio dott. Carlo Locatelli di Milano in data 17 ottobre 1974, n. 38595 di repertorio e n. 9564 di raccolta, registrato a Milano il 5 novembre 1974 al n. 16578, serie B, consistente nella somma di lire 8.145.684.  
+73. Decreto del Presidente della Repubblica 30 gennaio 1976, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla signora Valera Maria Pierina in favore dell'Opera mutilatini don Gnocchi, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi" come ha fatto presente la fondazione medesima, con testamento olografo 25 gennaio 1973 pubblicato a rogito dott. Mario Donati, notaio in Clusone (Bergamo), in data 31 luglio 1973, n. 16331 di repertorio, n. 5612 di raccolta, registrato a Clusone il 9 agosto 1973 con il n. 516, vol. 111-I, consistente in un fabbricato sito in Milano, via Chiesa Rossa n. 31, con annessi mq 70 di terreno del valore presunto di lire 5.000.000, censito al mappale n. 903, gg. 13 sub 1/2, di mq A 114.  
   
 Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 15 luglio 1977  
-Registro n. 6 Presidenza, foglio n. 250
+Registrato alla Corte dei conti, addi' 13 marzo 1976  
+Atti di Governo, registro n. 4, foglio n. 12

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1982 n. 415
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 263
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1982 n. 415
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 263
+============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -10,10 +10,10 @@ Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad ac
 Art. 1
 ------
 
-N.
+n.
 
-415. Decreto del Presidente della Repubblica 5 giugno 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 500.000, disposto dalla sig.ra Baroni Regina Mercede, a favore dei mutilatini di don Gnocchi che si identificano con la fondazione predetta come si rileva dal verbale del consiglio di amministrazione nella riunione del 28 novembre 1980, con testamento olografo 1 marzo 1980, pubblicato in data 20 giugno 1980, n. 153 di repertorio e n. 63 di raccolta, a rogito dottore Giro De Vincenzo, notaio in Milano, registrato a Milano il 10 luglio 1980 al n. 16505.  
+263. Decreto del Presidente della Repubblica 10 marzo 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in buoni del Tesoro del valore nominale di L. 30.000.000, disposto dalla signora Bertani Cesarina, con testamento pubblico 5 ottobre 1981, pubblicato in data 26 settembre 1983, n. 83084/26604 di repertorio, a rogito dott. Carlo Gallizia, notaio in Milano, registrato a Milano in data 3 ottobre 1983 al n. 15399.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 30 giugno 1982  
-Registro n. 6 Presidenza, foglio n. 71
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 6 giugno 1986  
+Registro n. 5 Presidenza, foglio n. 83

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 364
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 693
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 364
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 693
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
@@ -39,21 +39,19 @@ Articolo unico
 --------------
 
   
-Nell'art. 69, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-scienza dell'alimentazione e dietetica.  
+Nell'art. 56, relativo al corso di laurea in pedagogia, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
+sociologia dei processi culturali conoscitivi e normativi.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 marzo 1986
+### Dato a Roma, addi' 15 luglio 1983
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 8 luglio 1986
+Registrato alla Corte dei conti, addi' 7 dicembre 1983
 
-Registro n. 54 Istruzione, foglio n. 331
+Registro n. 75 Istruzione, foglio n. 280

@@ -1,157 +1,94 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1980 n. 883
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1245
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1980 n. 883
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1245
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e Successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso;
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Il testo dell'art. 53, relativo alla facolta' di medicina e chirurgia, e' cosi' modificato:  
-La facolta' di medicina e chirurgia conferisce:  
-a) la laurea in medicina e chirurgia;  
-b) la laurea in odontoiatria e protesi dentaria.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
+Decreta:  
   
-Dopo l'art. 56, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione del corso di laurea in odontoiatria e protesi dentaria.   
-Corso di laurea in odontoiatria e protesi dentaria   
-Art. 57. - La durata del corso di studi per la laurea in odontoiatria e protesi dentaria e' di cinque anni, suddivisi in un biennio e un triennio.   
-Titolo di ammissione: quello previsto dalle vigenti disposizioni di legge.   
-Il numero massimo degli allievi iscrivibili e' di venti per anno di corso.   
-L'accesso al corso di laurea verra' regolato da un esame di ammissione; il punteggio da attribuire nell'esame sara' cosi' ripartito: il 30% sara' riservato al voto riportato dal candidato nell'esame di Stato di licenza della scuola secondaria superiore ed il 70% sara' riservato alla prova di esame di ammissione al corso di laurea con tests a scelta multipla su argomenti di biologia generale, chimica, fisica e matematica, secondo i programmi della scuola media superiore.   
-Art. 58. - Il corso di laurea in odontoiatria e protesi dentaria comincera' a funzionare a decorrere dall'anno accademico 1980-81 con il primo biennio.   
-Negli anni accademici successivi funzioneranno progressivamente gli anni di corso susseguenti al secondo.   
-Art. 59. - A partire dall'anno accademico 1981-82 saranno formulate due graduatorie distinte, l'una per gli studenti da iscriversi al primo anno, l'altra per quelli in possesso dei requisiti di cui al successivo art. 60 e che potranno iscriversi al secondo anno, in aggiunta agli iscritti provenienti dal primo anno e per un numero che in totale non superera' comunque le venti unita', sempre e solo nella eventualita' che esista una disponibilita' di posti resisi vacanti.   
-Art. 60. - Sono insegnamenti fondamentali:   
-Biennio:   
-1) anestesia generale e speciale odontostomatologica (semestrale);   
-\* 2) biologia generale applicata agli studi medici;   
-\* 3) chimica;   
-\* 4) chimica biologica;   
-5) farmacologia (semestrale);   
-\* 6) fisica medica;   
-7) fisiologia umana e dell'apparato stomatognatico;   
-8) igiene e odontoiatria preventiva e sociale con epidemiologia (semestrale);   
-9) istituzioni di anatomia umana normale e dell'apparato stomatognatico;   
-10) istituzioni di anatomia ed istologia patologica;   
-\* 11) istologia ed embriologia generale (compresa la citologia);   
-12) materiali dentari;   
-13) microbiologia (semestrale);   
-14) odontoiatria conservatrice (triennale - secondo, terzo e quarto anno);   
-15) patologia generale.   
-Triennio:   
-16) chirurgia speciale odontostomatologica (biennale - terzo e quarto anno);   
-17) clinica odontostomatologica (biennale - quarto e quinto anno);   
-18) medicina legale e delle assicurazioni e deontologia in odontostomatologia (semestrale);   
-19) neuropatologia e psicopatologia (semestrale);   
-20) ortognatodonzia e gnatologia (funzione masticatoria (biennale - quarto e quinto anno);   
-21) parodotologia (biennale-quarto e quinto anno);   
-22) patologia speciale chirurgica e propedeutica clinica;   
-23) patologia speciale medica e metodologia clinica (compresa la pediatria);   
-24) patologia speciale odontostomatologica;   
-25) pedodonzia (semestrale);   
-26) protesi dentaria (triennale - terzo, quarto e quinto anno);  
-27) radiologia generale e speciale odontostomatologica (semestrale).   
-Sono insegnamenti complementari:   
-\* 1) chirurgia maxillo-facciale;   
-\* 2) dermatologia e venerologia (semestrale);   
-\* 3) otorinolaringoiatria (semestrale);   
-\* 4) statistica sanitaria;   
-altri insegnamenti complementari nel piano della facolta' sempre mutuati dal corso di laurea in medicina e chirurgia.   
-Gli insegnamenti segnati con asterisco sono mutuati dal corso di laurea in medicina e chirurgia.   
-Gli insegnamenti fondamentali sono teorici e pratici e la loro frequenza e' obbligatoria.   
-Gli insegnamenti specificatamente odontostomatologici di ordine clinico comportano anche un tirocinio pratico continuativo da espletare prima di sostenere i relativi esami.   
-Gli allievi, che non conseguono le attestazioni di frequenza, non possono essere ammessi a sostenere le relative prove di esame.   
-Per gli insegnamenti semestrali ed annuali lo studente e' tenuto a sostenere un esame alla fine del corso.   
-Per gli insegnamenti pluriennali lo studente e' tenuto a superare tanti esami per quante sono le annualita'.   
-Il tirocinio pratico, relativo ad ogni insegnamento clinico, deve prevedere da parte di componenti dell'organico, una assistenza didattica adeguata al numero degli studenti.   
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
+Art. 85 - all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:  
+biogeografia;  
+embriologia sperimentale;  
+geologia storica.  
+Nello stesso articolo, l'ultimo comma e' abrogato e sostituito dal seguente:  
+"L'esame di laurea consiste nella discussione di una dissertazione scritta (tesi). Tale dissertazione deve essere presentata in triplice copia, almeno quindici giorni prima della data fissata per la seduta di laurea".  
+L'art. 107, relativo alla costituzione del comitato direttivo dell'osservatorio di geofisica e fisica cosmica, e' abrogato e sostituito dal seguente:  
+"Il comitato direttivo e' costituito da tre professori ufficiali dell'Universita' di Bari nominati dal rettore su proposta della facolta' di scienze.  
+Di essi due sono scelti tra i professori del corso di laurea in scienze geologiche e uno del corso di laurea in fisica della stessa facolta'.  
+Tali professori avranno la qualifica di membri effettivi e potranno essere sostituiti in caso di assenza o impedimento da due membri supplenti nominati anche dal rettore, su proposta della facolta' di scienze fra i professori ufficiali della facolta' stessa e graduati secondo l'anzianita' di servizio".  
+Gli articoli 266 e 267, relativi all'ordinamento della scuola speciale di ortottisti-assistenti di oftalmologia, sono abrogati e sostituiti dai seguenti:  
   
+Scuola speciale per ortottisti-assistenti di oftalmologia  
   
-Non si puo' essere ammessi Se non si e' superato  
-a sostenere l'esame di: l'esame di:  
+Art. 266. - E' istituita presso la facolta' di medicina e chirurgia dell'Universita' di Bari una scuola speciale di preparazione per ortottisti-assistenti di oftalmologia che ha sede presso la clinica oculistica di questa Universita'.  
+Art. 267. - La scuola ha lo scopo di dare una preparazione completa, teorico-pratica, istruendo gli allievi sui problemi della motilita' oculare, della ambliopia, delle tecniche diagnostiche della visione binoculare, del trattamento pre e postoperatorio dei pazienti strabici; dei problemi sui vizi di refrazione e della loro correzione e sulle tecniche diagnostiche in oftalmologia.  
+La durata del corso per conseguire il diploma di ortottista-assistente di oftalmologia e' di tre anni. Ne sono titoli di ammissione il possesso di un diploma legalmente valido ai fini della iscrizione all'Universita' ai sensi dell'[art. 1 della legge n. 910 dell'11 dicembre 1969](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1) e la conoscenza di una lingua straniera (inglese, francese, tedesco, spagnola).  
+Art. 268. - Gli aspiranti all'iscrizione al primo anno di corso sono tenuti a sostenere un esame di ammissione consistente in una prova di cultura generale e in una prova per la conoscenza della lingua straniera. E' richiesto un certificato di sana e robusta costituzione, con particolare riguardo alla funzione visiva.  
+Art. 269. - Il numero complessivo degli iscritti alla scuola e' di 15 per anno accademico, con un numero non superiore a 5 unita' per ciascun anno di corso. Qualora le domande di iscrizione fossero in numero superiore al massimo previsto, il consiglio della scuola si riserva di provvedere ad una scelta tra gli idonei in base ai risultati delle prove di ammissione; gli idonei possono essere ammessi anche in soprannumero in rapporto a posti che si rendessero vacanti nel corso del secondo o terzo anno. I ripetenti e i fuori corso, qualora riprendano gli studi, sono riammessi in soprannumero.  
+Art. 270. - Il direttore della scuola e' il titolare della cattedra di clinica oculistica o altro docente di disciplina affine, proposto dal titolare della cattedra di clinica oculistica, sentito il consiglio della scuola.  
+Art. 271. - L'anno accademico ha inizio e termine nelle date stabilite dalle leggi in vigore per l'istruzione universitaria. La frequenza e' obbligatoria.  
+Art. 272. - Il corso comprende lezioni teoriche ed esercitazioni pratiche. Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1) elementi di anatomia dell'apparato visivo del S.N.C.;  
+2) fisiologia dell'occhio, della motilita' oculare, della visione binoculare;  
+3) ottica fisica e fisiopatologica;  
+4) ortottica I;  
+5) psicologia infantile.  
+2° Anno:  
+1) elementi di patologia oculare;  
+2) elementi di farmacologia oculare;  
+3) elementi di neurooftalmologia;  
+4) nozioni di chirurgia ed assistenza oftalmica;  
+5) ortottica II.  
+3° Anno:  
+1) tecniche semeiologiche dell'apparato visivo (esame refrazione, contattologia, adattometria, campo visivo, senso cromatico);  
+2) tecniche semeiologiche ed elettrofisiologiche (tonometria e tonografia; ERG, EOG, EMG; ecografia; retinografia e fluorangiografia);  
+3) ortottica III;  
+4) nozioni di riabilitazione sensomotoria nell'eta' infantile;  
+5) legislazione sanitaria.  
+Art. 273. - L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni e dall'obbligo, per gli allievi, dell'internato per l'intero periodo di corso di studi nella clinica oculistica.  
+La frequenza viene comprovata dalla attestazione rilasciata sul libretto di iscrizione dagli insegnanti e per l'attivita' pratica dal direttore della scuola. L'attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.  
+Art. 274. - Alla fine di ogni anno gli allievi devono sostenere un esame sulle materie di insegnamento. Nel caso in cui i candidati non abbiano superato gli esami prescritti, essi rimarranno nella posizione di ripetenti.  
+Art. 275. - Gli esami di profitto consistono in prove pratiche e teoriche.  
+Art. 276. - Alla fine del corso gli allievi devono sostenere un esame di diploma che consiste nella discussione di una tesi scritta su un argomento riguardante le materie di insegnamento, assegnata dal direttore della scuola e in una prova pratica stabilita da una commissione esaminatrice. I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola ma se al secondo anno non sia loro riconosciuta la idoneita' saranno senz'altro esclusi da ulteriori prove.  
+Art. 277. - Gli esami di profitto e di diploma si danno in due sessioni, la prima estiva che ha inizio subito dopo la chiusura annuale dei corsi e la seconda autunnale, nel mese che precede l'inizio del nuovo anno accademico.  
+Art. 278. - Le commissioni per gli esami di ammissione, di profitto e di diploma sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della clinica. Le commissioni per gli esami di ammissione e di profitto sono composte da tre membri: direttore della scuola, presidente, e da due insegnanti della scuola stessa. La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente, e da quattro membri scelti tra gli insegnanti della scuola stessa o altri docenti.  
+Art. 279. - Le tasse e soprattasse annuali a carico degli iscritti restano cosi' destinate:  
   
-  
-Fisiologia umana e dell'apparato Istituzioni di anatomia umana  
-stomatognatico normale e dell'apparato  
-Patologia generale stomatognatico  
-Chimica  
-Biologia generale applicata  
-agli studi medici  
-Fisica medica  
-  
-  
-Patologia speciale e metodologia Fisiologia umana e dell'ap-  
-clinica (compresa la parato stomatognatico  
-pediatria) Patologia generale  
-Patologia speciale chirurgica e propedeutica clinica  
-  
-  
-Clinica odontostomatologica Patologia speciale medica e  
-metodologia clinica (com-  
-presa la pediatria)  
-Patologia speciale chirurgica  
-e propedeutica clinica  
-Istituzioni di anatomia ed  
-istologia patologica  
-Patologia speciale odonto-  
-stomatologica  
-Chirurgia speciale odonto-  
-stomatologica.  
-  
-  
-  
-  
-Per essere ammesso a sostenere l'esame di laurea in odontoiatria e protesi dentaria, lo studente deve aver seguito i corsi ed aver superato gli esami in tutti gli insegnamenti fondamentali ed almeno in due insegnamenti scelti tra i complementari ed aver, inoltre, seguito le prescritte esercitazioni cliniche, i tirocini pratici ed averne conseguito le relative attestazioni.   
-L'esame di laurea consiste nella discussione di una tesi scritta su argomenti in odontostomatologia da richiedere almeno all'inizio dell'ultimo anno di corso.   
-Per il trasferimento degli studenti iscritti al corso di laurea in medicina e chirurgia le abbreviazioni di corso non possono superare l'ammissione oltre il secondo anno, subordinatamente al numero dei posti resisi disponibili all'inizio del secondo anno sempre che gli aspiranti abbiano superato gli esami di biologia generale applicata agli studi medici, chimica, fisica medica, istologia ed embriologia generale (compresa la citologia).   
-Per i laureati in medicina e chirurgia le abbreviazioni di corso potranno essere concesse, sempre con iscrizione al secondo anno, subordinatamente al numero dei posti resisi disponibili all'inizio del secondo anno e dopo che sia trascorso un anno accademico dal conseguimento della laurea precedente.   
-Per esercitare la professione i laureati in odontoiatria e protesi dentaria devono superare un apposito esame di Stato.   
+tassa annuale di iscrizione . . . . . . . . . . . . . . L. 50.000 soprattassa annuale di esami . . . . . . . . . . . . . . L. 7.000 tassa erariale di diploma. . . . . . . . . . . . . . . . L. 6.000 tassa annuale di iscrizione per studenti fuori corso. . L. 30.000 contributo di laboratorio . . . . . . . . . . . . . . . L. 50.000   
+Art. 280. - Al funzionamento della suddetta scuola si provvedera' con il provento delle tasse, soprattasse e contributi dovuti dagli iscritti e con eventuali elargizioni o contributi di enti pubblici o privati.  
+Art. 281. - Le diplomate della scuola per ortottiste, ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20), potranno essere ammesse al terzo anno della scuola speciale per ortottisti e assistenti di oftalmologia, con l'obbligo di sostenere e superare tutti gli esami del terzo anno e relativa tesi, secondo le modalita' previste, sempre che abbiano esercitato con continuita' una attivita' professionale adeguata e documentata.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 ottobre 1980
+### Dato a Roma, addi' 31 ottobre 1977
 
-PERTINI BODRATO
+LEONE MALFATTI
 
-Visto, il Guardasigilli: SARTI
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 10 dicembre 1980
+Registrato alla Corte dei conti, addi' 15 luglio 1978
 
-Registro n. 115 Istruzione, foglio n. 362
+Registro n. 75 Istruzione, foglio n. 307

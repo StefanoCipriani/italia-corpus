@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 giugno 1958 n. 900
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1967 n. 163
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 giugno 1958 n. 900
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1967 n. 163
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -10,13 +10,15 @@ Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904) e successivi;
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904) e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
@@ -30,226 +32,344 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Dopo l'art. 149, relativo alla Facolta' di scienze matematiche, fisiche e naturali, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, concernenti lo Istituto di fisica teorica.
+Art. 22. - Nell'elenco degli insegnamenti complementari del, corso di laurea in Giurisprudenza e' aggiunto quello di "Diritto di autore".
 
-Istituto di fisica teorica
+Art. 124. - All'elenco degli Istituti annessi alla Facolta' di medicina e chirurgia e' aggiunto quello di "Chirurgia pediatrica".
 
-Art. 150. - E' costituito presso la Facolta' di scienze matematiche, fisiche e naturali della Universita' di Napoli l'Istituto di fisica teorica.
+Nello stesso articolo l'Istituto di Clinica ortopedica muta denominazione in "Clinica ortopedica e traumatologica dell'apparato locomotore".
 
-L'Istituto di fisica teorica ha lo scopo di promuovere e coordinare l'insegnamento e la ricerca nei campi delle discipline fondamentali che costituiscono la fisica teorica.
+Art. 262. - Nell'elenco degli insegnamenti complementari del corso di laurea in Medicina veterinaria sono aggiunti quelli di:
 
-Art. 151. - L'Istituto e' diretto dal professore di ruolo, ed in caso di vacanza da persona designata dalla Facolta' di scienze.
+Virologia;
 
-Art. 152. - Possono essere addetti all'Istituto assistenti appartenenti ai ruoli universitari, ed inoltre assistenti straordinari e volontari.
+Istopatologia;
 
-Art. 153. - E' facolta' del direttore di rilasciare a chi frequenta l'Istituto per almeno sei mesi un attestato degli studi compiuti e dei risultati raggiunti nelle ricerche.
+Principi di alimentazione razionale degli animali domestici;
 
-Art. 154. - L'Istituto potra' eventualmente disporre, secondo modalita' stabilite dal direttore ed intese ad assicurare il raggiungimento delle finalita' nel modo piu' idoneo, di fondi per la ricerca e di borse di studio provenienti da enti pubblici e privati italiani o stranieri.
+Alpicoltura (semestrale).
 
-Dopo l'art. 368, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della scuola di perfezionamento in fisica teorica e nucleare.
+Dopo l'art. 314 e con il conseguente spostamento della numerazione degli articoli successivi sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di perfezionamento per la preparazione alle funzioni internazionali annessa alla Facolta' di giurisprudenza.
 
-FACOLTA' DI SCIENZE MATEMATICHE, FISICHE E NATURALI
+Scuola di perfezionamento per la preparazione alle funzioni internazionali
 
-Scuola di perfezionamento in fisica teorica e nucleare
+Art. 315. - E' istituita, presso la Facolta' di giurisprudenza, la Scuola di perfezionamento per la preparazione alle funzioni internazionali. Essa ha lo scopo di approfondire ed estendere la preparazione nelle discipline internazionalistiche a carattere giuridico, storico, economico e sociale, cosi' da conferire una competenza specializzata per l'esercizio delle funzioni politiche e amministrative di natura internazionale.
 
-Art. 369. - La scuola di perfezionamento in fisica teorica e nucleare istituita presso l'istituto di fisica teorica dell'Universita' di Napoli ha fine scientifico e rilascia il diploma di perfezionamento in fisica teorica e nucleare. Il corso degli studi ha la durata di due anni. Non sono consentite abbreviazioni di corso.
+Art. 316. - Il corso degli studi ha la durata di due anni, al termine del quale viene rilasciato un diploma di perfezionamento. Il numero dei posti e' limitato a 30 per ogni anno.
 
-Art. 370. - La scuola e' retta da un direttore assistito da un Consiglio; il direttore e' il direttore dello Istituto di fisica teorica dell'Universita', il Consiglio della scuola e' costituito da tutti gli insegnanti della scuola ed e' presieduto dal direttore.
+Art. 317. - Alla Scuola di perfezionamento possono essere ammessi i laureati in Giurisprudenza, Scienze politiche, Scienze diplomatiche e consolari, Economia e commercio, presso una Universita' della Repubblica o altro Istituto equiparato; e cosi' pure coloro che posseggono un titolo estero equipollente.
 
-Gli insegnanti della scuola sono proposti dal direttore che puo' scegliere tra i professori di ruolo, tra i liberi docenti, tra gli assistenti o anche tra persone di riconosciuta competenza nella specialita'; tali proposte sono approvate dal Consiglio della Facolta' di scienze matematiche, fisiche e naturali.
+Art. 318. - Il direttore della Scuola e' il titolare della cattedra di Diritto internazionale della Facolta' di giurisprudenza. Esso sara' coadiuvato da un Consiglio di direzione composto dai professori che insegnano nella Scuola stessa.
 
-Art. 371. - Alla scuola di perfezionamento in fisica teorica e nucleare vengono ammessi soltanto i laureati in fisica, scienze matematiche, matematica e fisica, chimica ed ingegneria.
+Art. 319. - Gli insegnamenti della Scuola sono i seguenti:
 
-E' data facolta' al direttore di stabilire, prima dello inizio di ogni anno accademico, un numero massimo di iscrizioni, oltre al quale potranno non essere accolte le domande eccedenti.
+1° Anno - Fondamentali:
 
-Quando gli iscritti siano in numero molto limitato gli insegnamenti possono non avere carattere cattedratico ed essere svolti in quella diversa forma che e' consentita dall'indole di ciascuna disciplina.
+1) Diritto internazionale pubblico (parte generale);
 
-Art. 372. - La sorveglianza agli iscritti per tutto quanto riguarda la loro attivita' spetta al direttore della scuola, che a questo scopo sara' coadiuvato da un segretario nominato dal Consiglio della scuola di anno in anno.
+2) Storia moderna;
 
-La frequenza ai singoli insegnamenti e' obbligatoria e dev'essere attestata dai rispettivi insegnanti.
+3) Esegesi dei principali trattati politici;
 
-Art. 373. - Le Commissioni per gli esami di profitto sono formate dal professore della materia e da due altri insegnanti della scuola.
+4) Diritto ed istituzioni afro-asiatiche;
 
-Art. 374. - La Commissione per l'esame di diploma e' formata da cinque membri scelti dal direttore tra gli insegnanti della scuola stessa o cultori della materia: l'esame di diploma consistera' in un esame di cultura generale sugli insegnamenti della scuola e di una discussione sopra una dissertazione originale scritta.
+5) Teoria generale delle organizzazioni internazionali;
 
-Art. 375. - I candidati non riconosciuti idonei potranno presentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola.
+6) Diritto, internazionale privato;
 
-Nel caso che anche alla seconda prova di esame di diploma non siano riconosciuti idonei, saranno senza altro esclusi da ogni ulteriore prova.
+7) Diritto internazionale marittimo ed aeronautico;
 
-Art. 376. - Gli insegnamenti impartiti dalla scuola sono:
+Complementari:
 
-Corsi fondamentali:
+1) Diritto privato comparato;
 
-1) Meccanica analitica e relativistica;
+2) Diritto costituzionale internazionale;
 
-2) Meccanica quantistica;
+3) Diritto internazionale amministrativo;
 
-3) Fisica nucleare;
+4) Le comunita' sopranazionali europee;
 
-4) Complementi di matematica (biennale);
+5) Teoria e politica dello sviluppo economico.
 
-5) Teoria dei campi;
+2° Anno - Fondamentali:
 
-6) Teoria delle reazioni nucleari.
+1) Diritto internazionale pubblico (parti speciali);
 
-Corsi complementari:
+2) Storia moderna;
 
-1) Fisica statistica;
+3) L'ONU e le principali organizzazioni internazionali;
 
-2) Particelle fondamentali;
+4) Esegesi della giurisprudenza internazionale;
 
-3) Teoria dei gruppi in fisica quantistica;
+5) Diritto diplomatico e consolare.
 
-4) Istituzioni di cibernetica.
+Complementari:
 
-Corsi su argomenti monografici.
+1) Diritto internazionale del lavoro;
 
-Art. 377. - Gli iscritti alla scuola devono frequentare e sostenere l'esame delle sei materie fondamentali e di almeno due corsi complementari a scelta.
+2) Geografia politica ed economica;
 
-L'ordine degli studi e' il seguente:
+3) Economia e finanza internazionali;
 
-Primo anno:
+4) Gli investimenti e gli scambi internazionali;
 
-1) Meccanica analitica e relativistica;
+5) Economia politica.
 
-2) Meccanica quantistica;
+Art. 320. - Per essere ammessi al colloquio finale gli iscritti alla Scuola dovranno superare gli esami scritti ed orali su ciascuna materia fondamentale, nonche' esami orali su almeno due delle materie facoltative del primo anno ed una materia facoltativa del secondo;
 
-3) Fisica nucleare;
+essi dovranno, altresi', presentare una tesi scritta su un argomento specifico di una delle materie di insegnamento. Il colloquio finale vertera' sulle nozioni basilari del complesso delle materie fondamentali e comprendera' la discussione sulla tesi presentata.
 
-4) Complementi di matematica I.
+Art. 321. - Gli incarichi di insegnamento delle singole discipline sono conferiti dal Consiglio di Facolta' di giurisprudenza su proposta del direttore della Scuola, con l'approvazione del Senato accademico e del Consiglio di amministrazione dell'Universita' di Napoli.
 
-Corsi monografici.
+Art. 322. - La Commissione per gli esami speciali e' composta dal professore ufficiale della materia e da altri due professori nominati dal direttore della Scuola.
 
-Secondo anno:
+La Commissione per l'esame di diploma, composta da sette membri sara' nominata, su proposta del direttore della Scuola, dal Consiglio della Facolta' di giurisprudenza.
 
-1) Teoria dei campi;
+Art. 323. - Gli iscritti alla Scuola sono tenuti a pagare le tasse, sopratasse e contributi secondo quanto stabilito per gli studenti della Facolta' di giurisprudenza, nonche' la tassa di diploma, nella misura di L. 6000 ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7). Sono tenuti, altresi', a pagare un contributo speciale nella misura che sara' determinata annualmente dal Consiglio di amministrazione, previo parere della Facolta', su proposta del direttore della Scuola.
 
-2) Teoria delle reazioni nucleari;
+Art. 405, relativo alla Scuola di specializzazione in Anestesiologia e' modificato nel senso che il numero degli iscritti alla predetta Scuola e' elevato a 30.
 
-3) Complementi di matematica II;
+Art. 406, relativo alla Scuola di specializzazione in Anestesiologia e' modificato nel senso che sono aggiunti gli insegnamenti di: "Medicina operatoria" e di "Biochimica" (per il 1° anno) e di "Cardiologia" e di "Rianimazione" (per il 2° anno).
 
-4) Fisica statistica;
+Dopo l'art. 498 e con il conseguente spostamento della numerazione degli articoli successivi sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola, di specializzazione in Tecnologie biologiche annessa alla Facolta' di scienze matematiche, fisiche e naturali.
 
-5) Teoria dei gruppi in fisica quantistica;
+Scuola di specializzazione in Tecnologie biologiche
 
-6) Particelle fondamentali;
+Art. 499. - E' istituita presso la Facolta' di scienze matematiche, fisiche e naturali una Scuola di specializzazione in Tecnologie biologiche, articolata nei due seguenti indirizzi: a) Tecnologie biologiche alimentari, b) Tecnologie analitiche di igiene, profilassi e sieroimmunofarmacologia.
 
-7) Istituzioni di cibernetica.
+Art. 500. - La Scuola e' retta da un direttore e da un Consiglio direttivo di quattro membri nominati dal rettore su proposta del Consiglio della Facolta' di scienze e scelti fra i professori di ruolo della Facolta' stessa.
 
-Corsi monografici.
+Alle sedute del Consiglio direttivo partecipa con voto consultivo un rappresentante degli studenti iscritti al corso.
 
-Per adire al secondo anno gli iscritti alla scuola dovranno aver superato gli esami relativi agli insegnamenti del primo anno; per adire agli esami di diploma devono aver superato gli esami previsti dall'ordine degli studi ed una prova di cultura generale.
+Art. 501. - L'iscrizione ai corsi e' riservata a coloro che siano laureati da non oltre cinque anni in Scienze biologiche, l'ammissione avviene in base al risultato di un esame colloquio e alla valutazione insindacabile di merito dei singoli aspiranti.
 
-Art. 378. - Presso la scuola di perfezionamento in fisica teorica e nucleare sara' istituito, a completamento degli insegnamenti, un seminario di fisica teorica e nucleare.
+Il numero massimo degli iscritti e' di 25 per ogni anno accademico.
 
-Art. 379. - Gli iscritti alla scuola di perfezionamento sono tenuti a pagare le medesime tasse, soprattasse e contributi generali stabiliti dalle vigenti disposizioni di legge per gli studenti della Facolta'.
+Il corso del primo anno non avra' luogo se il numero degli ammessi sara' inferiore a 10.
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Potranno essere conferite, in seguito a concorso, eventuali borse di studio messe a disposizione da Enti pubblici e privati.
 
-Dato a Roma, addi' 18 giugno 1958
+Art. 502. - I corsi hanno durata di due anni e comprendono insegnamenti semestrali o annuali.
 
-GRONCHI
+Gli insegnamenti del primo anno, comuni per entrambi gli indirizzi, sono i seguenti:
 
-MORO
+1° Anno:
 
-Visto, il Guardasigilli: GONELLA
+Chimica analitica qualitativa e quantitativa inorganica (1° semestre);
+
+Chimica organica pratica e analisi organica (1° semestre);
+
+Tecniche di chimica biologica ed enzimologia (annuale);
+
+Tecniche fisiologiche animali (1° semestre);
+
+Tecniche fisiologiche vegetali (1° semestre);
+
+Farmacologia generale, farmacognosia e tecniche farmacologiche (annuale);
+
+Metodi statistici applicati alla biologia (1° semestre);
+
+Tecnica microscopica (1° semestre).
+
+2° Anno:
+
+Gli insegnamenti distinti e specifici per ciascun indirizzo sono i seguenti:
+
+A. - Tecnologie biologiche alimentari:
+
+Elementi di bromatologia e tecniche bromatologiche (1° semestre);
+
+Scienza della nutrizione (1° semestre);
+
+Laboratorio d'igiene degli alimenti (annuale);
+
+Tecnologie per la produzione degli alimenti (annuale);
+
+Microbiologia applicata (1° semestre).
+
+B. - Tecnologie d'igiene, profilassi e sieroimmunofarmacologia:
+
+Microbiologia; sierologia e virologia (1° semestre);
+
+Tecniche microbiologiche, sierologiche e immunologiche (annuale);
+
+Istituzioni di patologia generale con esercitazioni (1° semestre);
+
+Analisi chimiche cliniche (1° semestre);
+
+Laboratorio d'igiene (annuale);
+
+Laboratorio di farmacologia applicata (1° semestre).
+
+Gli iscritti al secondo indirizzo (B) possono scegliere cinque delle sei discipline previste dal piano degli studi.
+
+La frequenza ai corsi e' obbligatoria.
+
+Art. 503. - Alla fine di ciascun anno di corso, in non piu' di due sessioni, gli iscritti dovranno sostenere gli esami di profitto che potranno essere orali, scritti e pratici.
+
+Il Consiglio direttivo stabilisce quali siano le materie per le quali l'esame e' obbligatorio ai fini del conseguimento del diploma.
+
+Il Consiglio direttivo puo' convalidare gli esami di Scienza della nutrizione e di Istituzioni di patologia generale con esercitazioni, eventualmente sostenuti durante il corso di studi per il conseguimento della laurea.
+
+Al secondo anno del corso verranno ammessi soltanto coloro che avranno superato gli esami stabiliti per il primo.
+
+Per il conseguimento del diploma gli iscritti, dopo aver superato gli esami richiesti, dovranno sostenere, inoltre, un esame finale consistente in due prove pratiche con relazione scritta e un esame di colloquio.
+
+Le Commissioni per gli esami di profitto sono formate dal docente della materia e da due altri docenti della Scuola, nominati dal direttore.
+
+La Commissione per gli esami di diploma e' nominata dal rettore ed e' costituita dal direttore della Scuola, presidente, e da altri quattro docenti della Scuola stessa.
+
+Art. 504. - Le tasse, sopratasse e contributi annuali richiesti per la iscrizione ai corsi corrispondono a quelli stabiliti per la Facolta' di scienze matematiche, fisiche e naturali, corso di laurea in Scienze biologiche, piu' un contributo speciale, la cui entita' verra' fissata, anno per anno, dal Consiglio di amministrazione, su proposta del direttore della Scuola previa approvazione del Consiglio della Facolta' di scienze. La tassa di diploma e' fissata nella misura di L. 6000, ai sensi dell'[art. 7 della legge 8 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-08;1551~art7).
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 16 febbraio 1967
+
+SARAGAT
+
+GUI
+
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 13 settembre 1958 Atti del Governo, registro n. 114, foglio n. 37. - RELLEVA
+alla Corte dei conti, addi' 3 aprile 1967 Atti del Governo, registro n. 210, foglio n. 61. - GRECO
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904) e successivi;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 22. - Nell'elenco degli insegnamenti complementari del, corso di laurea in Giurisprudenza e' aggiunto quello di "Diritto di autore".  
+Art. 124. - All'elenco degli Istituti annessi alla Facolta' di medicina e chirurgia e' aggiunto quello di "Chirurgia pediatrica".  
+Nello stesso articolo l'Istituto di Clinica ortopedica muta denominazione in "Clinica ortopedica e traumatologica dell'apparato locomotore".  
+Art. 262. - Nell'elenco degli insegnamenti complementari del corso di laurea in Medicina veterinaria sono aggiunti quelli di:  
   
-Dopo l'art. 149, relativo alla Facolta' di scienze matematiche, fisiche e naturali, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, concernenti lo Istituto di fisica teorica.   
+Virologia;  
+Istopatologia;  
+Principi di alimentazione razionale degli animali domestici;  
+Alpicoltura (semestrale).  
   
-Istituto di fisica teorica   
+Dopo l'art. 314 e con il conseguente spostamento della numerazione degli articoli successivi sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di perfezionamento per la preparazione alle funzioni internazionali annessa alla Facolta' di giurisprudenza.  
   
-Art. 150. - E' costituito presso la Facolta' di scienze matematiche, fisiche e naturali della Universita' di Napoli l'Istituto di fisica teorica.   
-L'Istituto di fisica teorica ha lo scopo di promuovere e coordinare l'insegnamento e la ricerca nei campi delle discipline fondamentali che costituiscono la fisica teorica.   
-Art. 151. - L'Istituto e' diretto dal professore di ruolo, ed in caso di vacanza da persona designata dalla Facolta' di scienze.   
-Art. 152. - Possono essere addetti all'Istituto assistenti appartenenti ai ruoli universitari, ed inoltre assistenti straordinari e volontari.   
-Art. 153. - E' facolta' del direttore di rilasciare a chi frequenta l'Istituto per almeno sei mesi un attestato degli studi compiuti e dei risultati raggiunti nelle ricerche.   
-Art. 154. - L'Istituto potra' eventualmente disporre, secondo modalita' stabilite dal direttore ed intese ad assicurare il raggiungimento delle finalita' nel modo piu' idoneo, di fondi per la ricerca e di borse di studio provenienti da enti pubblici e privati italiani o stranieri.   
-Dopo l'art. 368, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della scuola di perfezionamento in fisica teorica e nucleare.   
+Scuola di perfezionamento per la preparazione alle funzioni internazionali  
+Art. 315. - E' istituita, presso la Facolta' di giurisprudenza, la Scuola di perfezionamento per la preparazione alle funzioni internazionali. Essa ha lo scopo di approfondire ed estendere la preparazione nelle discipline internazionalistiche a carattere giuridico, storico, economico e sociale, cosi' da conferire una competenza specializzata per l'esercizio delle funzioni politiche e amministrative di natura internazionale.  
+Art. 316. - Il corso degli studi ha la durata di due anni, al termine del quale viene rilasciato un diploma di perfezionamento. Il numero dei posti e' limitato a 30 per ogni anno.  
+Art. 317. - Alla Scuola di perfezionamento possono essere ammessi i laureati in Giurisprudenza, Scienze politiche, Scienze diplomatiche e consolari, Economia e commercio, presso una Universita' della Repubblica o altro Istituto equiparato; e cosi' pure coloro che posseggono un titolo estero equipollente.  
+Art. 318. - Il direttore della Scuola e' il titolare della cattedra di Diritto internazionale della Facolta' di giurisprudenza. Esso sara' coadiuvato da un Consiglio di direzione composto dai professori che insegnano nella Scuola stessa.  
+Art. 319. - Gli insegnamenti della Scuola sono i seguenti:  
+1° Anno - Fondamentali:  
+1) Diritto internazionale pubblico (parte generale);  
+2) Storia moderna;  
+3) Esegesi dei principali trattati politici;  
+4) Diritto ed istituzioni afro-asiatiche;  
+5) Teoria generale delle organizzazioni internazionali;  
+6) Diritto, internazionale privato;  
+7) Diritto internazionale marittimo ed aeronautico;  
+Complementari:  
+1) Diritto privato comparato;  
+2) Diritto costituzionale internazionale;  
+3) Diritto internazionale amministrativo;  
+4) Le comunita' sopranazionali europee;  
+5) Teoria e politica dello sviluppo economico.  
   
-FACOLTA' DI SCIENZE MATEMATICHE, FISICHE E NATURALI   
+2° Anno - Fondamentali:  
+1) Diritto internazionale pubblico (parti speciali);  
+2) Storia moderna;  
+3) L'ONU e le principali organizzazioni internazionali;  
+4) Esegesi della giurisprudenza internazionale;  
+5) Diritto diplomatico e consolare.  
+Complementari:  
+1) Diritto internazionale del lavoro;  
+2) Geografia politica ed economica;  
+3) Economia e finanza internazionali;  
+4) Gli investimenti e gli scambi internazionali;  
+5) Economia politica.  
   
-Scuola di perfezionamento in fisica teorica e nucleare   
+Art. 320. - Per essere ammessi al colloquio finale gli iscritti alla Scuola dovranno superare gli esami scritti ed orali su ciascuna materia fondamentale, nonche' esami orali su almeno due delle materie facoltative del primo anno ed una materia facoltativa del secondo;  
+essi dovranno, altresi', presentare una tesi scritta su un argomento specifico di una delle materie di insegnamento. Il colloquio finale vertera' sulle nozioni basilari del complesso delle materie fondamentali e comprendera' la discussione sulla tesi presentata.  
+Art. 321. - Gli incarichi di insegnamento delle singole discipline sono conferiti dal Consiglio di Facolta' di giurisprudenza su proposta del direttore della Scuola, con l'approvazione del Senato accademico e del Consiglio di amministrazione dell'Universita' di Napoli.  
+Art. 322. - La Commissione per gli esami speciali e' composta dal professore ufficiale della materia e da altri due professori nominati dal direttore della Scuola.  
+La Commissione per l'esame di diploma, composta da sette membri sara' nominata, su proposta del direttore della Scuola, dal Consiglio della Facolta' di giurisprudenza.  
+Art. 323. - Gli iscritti alla Scuola sono tenuti a pagare le tasse, sopratasse e contributi secondo quanto stabilito per gli studenti della Facolta' di giurisprudenza, nonche' la tassa di diploma, nella misura di L. 6000 ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7). Sono tenuti, altresi', a pagare un contributo speciale nella misura che sara' determinata annualmente dal Consiglio di amministrazione, previo parere della Facolta', su proposta del direttore della Scuola.  
+Art. 405, relativo alla Scuola di specializzazione in Anestesiologia e' modificato nel senso che il numero degli iscritti alla predetta Scuola e' elevato a 30.  
+Art. 406, relativo alla Scuola di specializzazione in Anestesiologia e' modificato nel senso che sono aggiunti gli insegnamenti di: "Medicina operatoria" e di "Biochimica" (per il 1° anno) e di "Cardiologia" e di "Rianimazione" (per il 2° anno).  
+Dopo l'art. 498 e con il conseguente spostamento della numerazione degli articoli successivi sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola, di specializzazione in Tecnologie biologiche annessa alla Facolta' di scienze matematiche, fisiche e naturali.  
   
-Art. 369. - La scuola di perfezionamento in fisica teorica e nucleare istituita presso l'istituto di fisica teorica dell'Universita' di Napoli ha fine scientifico e rilascia il diploma di perfezionamento in fisica teorica e nucleare. Il corso degli studi ha la durata di due anni. Non sono consentite abbreviazioni di corso.   
-Art. 370. - La scuola e' retta da un direttore assistito da un Consiglio; il direttore e' il direttore dello Istituto di fisica teorica dell'Universita', il Consiglio della scuola e' costituito da tutti gli insegnanti della scuola ed e' presieduto dal direttore.   
-Gli insegnanti della scuola sono proposti dal direttore che puo' scegliere tra i professori di ruolo, tra i liberi docenti, tra gli assistenti o anche tra persone di riconosciuta competenza nella specialita'; tali proposte sono approvate dal Consiglio della Facolta' di scienze matematiche, fisiche e naturali.   
-Art. 371. - Alla scuola di perfezionamento in fisica teorica e nucleare vengono ammessi soltanto i laureati in fisica, scienze matematiche, matematica e fisica, chimica ed ingegneria.   
-E' data facolta' al direttore di stabilire, prima dello inizio di ogni anno accademico, un numero massimo di iscrizioni, oltre al quale potranno non essere accolte le domande eccedenti.   
-Quando gli iscritti siano in numero molto limitato gli insegnamenti possono non avere carattere cattedratico ed essere svolti in quella diversa forma che e' consentita dall'indole di ciascuna disciplina.   
-Art. 372. - La sorveglianza agli iscritti per tutto quanto riguarda la loro attivita' spetta al direttore della scuola, che a questo scopo sara' coadiuvato da un segretario nominato dal Consiglio della scuola di anno in anno.   
-La frequenza ai singoli insegnamenti e' obbligatoria e dev'essere attestata dai rispettivi insegnanti.   
-Art. 373. - Le Commissioni per gli esami di profitto sono formate dal professore della materia e da due altri insegnanti della scuola.   
-Art. 374. - La Commissione per l'esame di diploma e' formata da cinque membri scelti dal direttore tra gli insegnanti della scuola stessa o cultori della materia: l'esame di diploma consistera' in un esame di cultura generale sugli insegnamenti della scuola e di una discussione sopra una dissertazione originale scritta.   
-Art. 375. - I candidati non riconosciuti idonei potranno presentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola.   
-Nel caso che anche alla seconda prova di esame di diploma non siano riconosciuti idonei, saranno senza altro esclusi da ogni ulteriore prova.   
-Art. 376. - Gli insegnamenti impartiti dalla scuola sono:   
-Corsi fondamentali:   
-1) Meccanica analitica e relativistica;   
-2) Meccanica quantistica;   
-3) Fisica nucleare;   
-4) Complementi di matematica (biennale);   
-5) Teoria dei campi;   
-6) Teoria delle reazioni nucleari.   
-Corsi complementari:   
-1) Fisica statistica;   
-2) Particelle fondamentali;   
-3) Teoria dei gruppi in fisica quantistica;   
-4) Istituzioni di cibernetica.   
-Corsi su argomenti monografici.   
-Art. 377. - Gli iscritti alla scuola devono frequentare e sostenere l'esame delle sei materie fondamentali e di almeno due corsi complementari a scelta.   
-L'ordine degli studi e' il seguente:   
-Primo anno:   
-1) Meccanica analitica e relativistica;   
-2) Meccanica quantistica;   
-3) Fisica nucleare;   
-4) Complementi di matematica I.   
-Corsi monografici.   
-Secondo anno:   
-1) Teoria dei campi;   
-2) Teoria delle reazioni nucleari;   
-3) Complementi di matematica II;   
-4) Fisica statistica;   
-5) Teoria dei gruppi in fisica quantistica;   
-6) Particelle fondamentali;   
-7) Istituzioni di cibernetica.   
-Corsi monografici.   
-Per adire al secondo anno gli iscritti alla scuola dovranno aver superato gli esami relativi agli insegnamenti del primo anno; per adire agli esami di diploma devono aver superato gli esami previsti dall'ordine degli studi ed una prova di cultura generale.   
-Art. 378. - Presso la scuola di perfezionamento in fisica teorica e nucleare sara' istituito, a completamento degli insegnamenti, un seminario di fisica teorica e nucleare.   
-Art. 379. - Gli iscritti alla scuola di perfezionamento sono tenuti a pagare le medesime tasse, soprattasse e contributi generali stabiliti dalle vigenti disposizioni di legge per gli studenti della Facolta'.   
+Scuola di specializzazione in Tecnologie biologiche  
+  
+Art. 499. - E' istituita presso la Facolta' di scienze matematiche, fisiche e naturali una Scuola di specializzazione in Tecnologie biologiche, articolata nei due seguenti indirizzi: a) Tecnologie biologiche alimentari, b) Tecnologie analitiche di igiene, profilassi e sieroimmunofarmacologia.  
+Art. 500. - La Scuola e' retta da un direttore e da un Consiglio direttivo di quattro membri nominati dal rettore su proposta del Consiglio della Facolta' di scienze e scelti fra i professori di ruolo della Facolta' stessa.  
+Alle sedute del Consiglio direttivo partecipa con voto consultivo un rappresentante degli studenti iscritti al corso.  
+Art. 501. - L'iscrizione ai corsi e' riservata a coloro che siano laureati da non oltre cinque anni in Scienze biologiche, l'ammissione avviene in base al risultato di un esame colloquio e alla valutazione insindacabile di merito dei singoli aspiranti.  
+Il numero massimo degli iscritti e' di 25 per ogni anno accademico.  
+Il corso del primo anno non avra' luogo se il numero degli ammessi sara' inferiore a 10.  
+Potranno essere conferite, in seguito a concorso, eventuali borse di studio messe a disposizione da Enti pubblici e privati.  
+Art. 502. - I corsi hanno durata di due anni e comprendono insegnamenti semestrali o annuali.  
+Gli insegnamenti del primo anno, comuni per entrambi gli indirizzi, sono i seguenti:  
+1° Anno:  
+Chimica analitica qualitativa e quantitativa inorganica (1° semestre);  
+Chimica organica pratica e analisi organica (1° semestre);  
+Tecniche di chimica biologica ed enzimologia (annuale);  
+Tecniche fisiologiche animali (1° semestre);  
+Tecniche fisiologiche vegetali (1° semestre);  
+Farmacologia generale, farmacognosia e tecniche farmacologiche (annuale);  
+Metodi statistici applicati alla biologia (1° semestre);  
+Tecnica microscopica (1° semestre).  
+  
+2° Anno:  
+Gli insegnamenti distinti e specifici per ciascun indirizzo sono i seguenti:  
+  
+A. - Tecnologie biologiche alimentari:  
+Elementi di bromatologia e tecniche bromatologiche (1° semestre);  
+Scienza della nutrizione (1° semestre);  
+Laboratorio d'igiene degli alimenti (annuale);  
+Tecnologie per la produzione degli alimenti (annuale);  
+Microbiologia applicata (1° semestre).  
+  
+B. - Tecnologie d'igiene, profilassi e sieroimmunofarmacologia:  
+Microbiologia; sierologia e virologia (1° semestre);  
+Tecniche microbiologiche, sierologiche e immunologiche (annuale);  
+Istituzioni di patologia generale con esercitazioni (1° semestre);  
+Analisi chimiche cliniche (1° semestre);  
+Laboratorio d'igiene (annuale);  
+Laboratorio di farmacologia applicata (1° semestre).  
+  
+Gli iscritti al secondo indirizzo (B) possono scegliere cinque delle sei discipline previste dal piano degli studi.  
+La frequenza ai corsi e' obbligatoria.  
+  
+Art. 503. - Alla fine di ciascun anno di corso, in non piu' di due sessioni, gli iscritti dovranno sostenere gli esami di profitto che potranno essere orali, scritti e pratici.  
+Il Consiglio direttivo stabilisce quali siano le materie per le quali l'esame e' obbligatorio ai fini del conseguimento del diploma.  
+Il Consiglio direttivo puo' convalidare gli esami di Scienza della nutrizione e di Istituzioni di patologia generale con esercitazioni, eventualmente sostenuti durante il corso di studi per il conseguimento della laurea.  
+Al secondo anno del corso verranno ammessi soltanto coloro che avranno superato gli esami stabiliti per il primo.  
+Per il conseguimento del diploma gli iscritti, dopo aver superato gli esami richiesti, dovranno sostenere, inoltre, un esame finale consistente in due prove pratiche con relazione scritta e un esame di colloquio.  
+Le Commissioni per gli esami di profitto sono formate dal docente della materia e da due altri docenti della Scuola, nominati dal direttore.  
+La Commissione per gli esami di diploma e' nominata dal rettore ed e' costituita dal direttore della Scuola, presidente, e da altri quattro docenti della Scuola stessa.  
+Art. 504. - Le tasse, sopratasse e contributi annuali richiesti per la iscrizione ai corsi corrispondono a quelli stabiliti per la Facolta' di scienze matematiche, fisiche e naturali, corso di laurea in Scienze biologiche, piu' un contributo speciale, la cui entita' verra' fissata, anno per anno, dal Consiglio di amministrazione, su proposta del direttore della Scuola previa approvazione del Consiglio della Facolta' di scienze. La tassa di diploma e' fissata nella misura di L. 6000, ai sensi dell'[art. 7 della legge 8 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-08;1551~art7).  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 giugno 1958
+### Dato a Roma, addi' 16 febbraio 1967
 
-GRONCHI MORO
+SARAGAT GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 13 settembre 1958
+Registrato alla Corte dei conti, addi' 3 aprile 1967
 
-Atti del Governo, registro n. 114, foglio n. 37. - RELLEVA
+Atti del Governo, registro n. 210, foglio n. 61. - GRECO

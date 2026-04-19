@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 825
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1980 n. 949
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 825
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1980 n. 949
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
@@ -18,43 +18,46 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuti la particolare necessita' di approvare le, nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pisa e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pisa e convalidati dal Consiglio universitario nazionale nel suo parere;
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Sulla
------
+Sulla proposta del Ministro della pubblica istruzione;
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Decreta:
+--------
 
-Articolo unico
---------------
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 1
+------
 
   
-Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Il secondo comma dell'art. 305, relativo alla scuola di specializzazione in medicina interna, e' sostituito dal seguente:  
-"Alla scuola sono ammessi settantacinque iscritti per i cinque anni di corso".  
-Il secondo comma dell'art. 390, relativo alla scuola di specializzazione in endocrinologia, e' sostituito dal seguente:  
-"Il numero massimo di allievi ogni anno e' di dodici".  
-Il secondo comma dell'art. 399, relativo alla scuola di specializzazione in psichiatria, e' sostituito dal seguente:  
-"Saranno ammessi non piu' di venti iscritti".  
-L'art. 403, relativo alla scuola di specializzazione in nefrologia medica, e' sostituito dal seguente:  
-"Alla scuola possono iscriversi laureati in medicina e chirurgia per un numero massimo di dieci per anno di corso e, complessivamente, di quaranta iscritti per l'intero corso di studi".  
+L'art. 66, relativo all'elenco degli istituti, annessi alla facolta' di lettere e filosofia, e' modificato nel senso che l'istituto di storia medioevale, moderna e contemporanea e di paleografia e diplomatica viene scisso nei due seguenti istituti policattedra:  
+istituto di storia medioevale, paleografia e diplomatica;  
+istituto di storia moderna e contemporanea.  
+
+Art. 2
+------
+
+  
+L'art. 96, relativo al corso di laurea in scienze naturali, e' modificato nel senso che all'elenco degli insegnamenti complementari e' aggiunto il seguente:  
+analisi mineralogiche.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi ft dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 settembre 1981
+### Dato a Roma, addi' 16 ottobre 1980
 
-PERTINI BODRATO
+PERTINI SARTI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: SARTI
 
-Registrato alla Corte dei conti, addi' 31 dicembre 1981
+Registrato alla Corte dei conti, addi' 30 dicembre 1980
 
-Registro n. 136 Istruzione, foglio n. 107
+Registro n. 122 Istruzione, foglio n. 40

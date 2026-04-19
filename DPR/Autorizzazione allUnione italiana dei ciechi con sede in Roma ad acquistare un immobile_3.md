@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1973 n. 871
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 luglio 1970 n. 651
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1973 n. 871
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 luglio 1970 n. 651
+=============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, con sede in Roma, ad acquistare un immobile.
 -------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-871. Decreto del Presidente della Repubblica 8 ottobre 1973, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, con sede in Roma, viene autorizzata ad acquistare dal signor Vincenzo Foschi, al prezzo di L. 6.200.000, un appartamento composto di vani cinque, un terrazzo al secondo piano e da un vano ad uso cantina nello scantinato, sito in Forli', piazzale della Vittoria n. 12, da destinare a sede della locale sezione provinciale.  
+651. Decreto del Presidente della Repubblica 26 luglio 1970, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, con sede centrale in Roma, viene autorizzata ad acquistare dai signori ing. Marco Dalla Torre e dott. Renata Dalla Torre un appartamento sito al piano secondo in posizione centrale, facente parte del fabbricato distinto al nuovo catasto edilizio urbano, comune di Venezia, sezione Mestre, foglio n. 14, mappale 2006/6, in viale San Marco civico 15/R, int. 4 piano II, cat. A/2, classe V.  
   
-Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 22 dicembre 1973  
-Atti di Governo, registro n. 263, foglio n. 19. - CARUSO
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 7 settembre 1970  
+Atti del Governo, registro n. 237, foglio n. 70. - CARUSO

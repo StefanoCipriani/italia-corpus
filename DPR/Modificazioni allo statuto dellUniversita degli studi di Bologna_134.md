@@ -1,73 +1,11 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 dicembre 1959 n. 1164
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1958 n. 657
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 dicembre 1959 n. 1164
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1958 n. 657
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), modificato con [regio decreto 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-12;2227), e successivi;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuito formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla, proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Bologna approvato e modificato con i decreti sopraindicati e' ulteriormente modificato come appresso:
-
-Art. 18. - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti quelli di:
-
-"Diritto tributario";
-
-"Diritto privato comparato" "Diritto pubblico comparato" "Dottrina generale dello Stato".
-
-Sono invece soppressi gli insegnamenti complementari di:
-
-"Diritto coloniale";
-
-e "Legislazione del lavoro".
-
-Art. 92. - Agli insegnamenti complementari del corso di laurea in chimica industriale sono aggiunti quelli di:
-
-"Tecnologie chimico-farmaceutiche";
-
-"Tecnologie chimico-agrarie";
-
-"Chimica teorica".
-
-E' inoltre soppresso l'undicesimo comma, nel quale si tratta dell'obbligatorieta' da parte degli studenti che si iscrivono al 1° anno del triennio, di sottoporre all'approvazione della Facolta' l'elenco degli insegnamenti complementari prescelti.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 10 dicembre 1959
-
-GRONCHI
-
-MEDICI
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 11 gennaio 1960 Atti del Governo, registro n. 123, foglio n. 27. - VILLA
 
 Art. 1
 ------
@@ -78,37 +16,80 @@ Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuito formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla, proposta del Ministro per la pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Bologna approvato e modificato con i decreti sopraindicati e' ulteriormente modificato come appresso:  
-Art. 18. - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti quelli di:  
-"Diritto tributario";  
-"Diritto privato comparato" "Diritto pubblico comparato" "Dottrina generale dello Stato".  
-Sono invece soppressi gli insegnamenti complementari di:  
-"Diritto coloniale";  
-e "Legislazione del lavoro".  
-Art. 92. - Agli insegnamenti complementari del corso di laurea in chimica industriale sono aggiunti quelli di:  
-"Tecnologie chimico-farmaceutiche";  
-"Tecnologie chimico-agrarie";  
-"Chimica teorica".  
-E' inoltre soppresso l'undicesimo comma, nel quale si tratta dell'obbligatorieta' da parte degli studenti che si iscrivono al 1° anno del triennio, di sottoporre all'approvazione della Facolta' l'elenco degli insegnamenti complementari prescelti.  
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+Dopo l'art. 358 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di perfezionamento per tecnici fisioterapisti (scuola diretta a fini speciali).  
+  
+SCUOLA DI PERFEZIONAMENTO PER TECNICI FISIOTERAPISTI  
+(scuola diretta a fini speciali)  
+  
+Art. 359. - La scuola per fisioterapisti viene istituita allo scopo di formare tecnici specializzati, cui compete l'assistenza diretta e continuativa di malati o minorati suscettibili di recupero funzionale degli organi di movimento mediante cure fisiche.  
+Tali tecnici fisioterapisti potranno svolgere la loro funzione sotto la direzione e dietro indicazione medica.  
+Art. 360. - La scuola ha sede presso la clinica ortopedica dell'Universita' di Bologna (Istituto ortopedico Rizzoli) ed il corso ha la durata di due anni.  
+Art. 361. - Il corso viene svolto con il seguente regolamento:  
+  
+1. Ammissione.  
+  
+a) Al corso possono essere ammessi annualmente n. 6 allievi;  
+b) I candidati non debbono avere superato il 30° anno di eta'; se pero' sono in possesso di certificati comprovanti la loro attivita' in ospedale specializzato come addetti a reparto di fisioterapia per un periodo non inferiore a tre anni, il limite di eta' potra' essere elevato a quaranta anni;  
+c) Il titolo di studio per l'ammissione alla scuola e' il diploma di scuola media superiore;  
+d) I candidati debbono presentare certificato medico comprovante la sana e robusta costituzione fisica;  
+e) Tali documenti, e quanti altri i candidati ritengano opportuno produrre, dovranno essere presentati insieme a domanda in carta bollata da L. 100;  
+f) I candidati verranno sottoposti ad un esame di ammissione che consistera' in una prova orale nella quale saranno saggiate sia le qualita' culturali che la attitudine specialistica. Al termine di tale esame verra' stabilita una graduatoria per l'ammissione;  
+g) La Commissione esaminatrice sara' composta dal direttore della scuola e da due professori ordinari nominati dalla Facolta' medica;  
+h) Il candidato ammesso che entro cinque giorni dall'inizio del corso non si fosse presentato, perdera' ogni diritto alla frequenza ed al conseguimento dei diplomi e verra' sostituito, a giudizio della Commissione esaminatrice, con uno degli idonei non ammessi seguendo la graduatoria dell'esame di ammissione.  
+  
+2. Durata del corso.  
+  
+Art. 362. - Il corso e' biennale con obbligo di frequenza continuativa, salvo un mese di ferie che dovra' essere preso in una sola volta.  
+  
+3. Programmi.  
+  
+Art. 363. - Le materie del corso sono suddivise in due anni, come dalla seguente tabella:  
+  
+Materie d'insegnamento  
+1° anno.  
+Corsi teorici:  
+Anatomia degli organi di movimento;  
+Fisiologia degli organi di movimento;  
+Patologia e terapia degli organi di movimento (biennale);  
+Fisica medica;  
+Igiene;  
+Fisioterapia (biennale).  
+Esercitazioni pratiche:  
+Fasciature, pronto soccorso infermieristico, massaggio, forni alla Bier, elioterapia, balneoterapia, applicazioni di raggi ultravioletti ed infrarossi.  
+2° anno.  
+Corsi teorici:  
+Patologia e terapia degli organi di movimento (biennale);  
+Fisioterapia (biennale);  
+Elettroterapia.  
+Esercitazioni pratiche:  
+Radarterapia, marconiterapia, ultrasuonoterapia elettroterapia, ginnastica ortopedica, mobilizzazione articolare, applicazione di apparecchi ortopedici.  
+  
+4. Esami di diploma.  
+  
+La Commissione esaminatrice sara' composta dal direttore della scuola, dall'insegnante della materia, che verra' nominato dalla Facolta' su proposta del direttore della scuola e da un altro membro pure nominato dalla Facolta'.  
+Al termine del 1° anno gli allievi, per essere ammessi al 2° anno, dovranno sostenere un esame per ogni singolo insegnamento ed una prova pratica sulle esercitazioni.  
+Alla fine del biennio gli allievi dovranno superare gli esami sulle materie di insegnamento dell'anno e sostenere una prova pratica generale.  
+Ad esame superato verra' rilasciato all'allievo il "diploma di tecnico fisioterapista".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 dicembre 1959
+### Dato a Roma, addi' 4 maggio 1958
 
-GRONCHI MEDICI
+GRONCHI MORO
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 11 gennaio 1960
+Registrato alla Corte dei conti, addi' 27 giugno 1958
 
-Atti del Governo, registro n. 123, foglio n. 27. - VILLA
+Atti del Governo, registro n. 112, foglio n. 260. - RELLEVA

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 400
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1985 n. 911
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 400
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1985 n. 911
+==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Messina.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -39,25 +39,15 @@ Articolo unico
 --------------
 
   
-Nell'art. 85, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-malattie metaboliche del ricambio;  
-nefrologia sperimentale;  
-dietologia infantile;  
-anatomia radiologica;  
-ginecologia oncologica;  
-dermatologia allergologica e professionale;  
-dermatologia pediatrica;  
-semeiotica pediatrica;  
-medicina sociale;  
-legislazione ed organizzazione sanitaria;  
-medicina preventiva dei lavoratori e psicotecnica;  
-allergologia respiratoria.  
+Nell'art. 65, relativo al corso di laurea in filosofia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+  
+pedagogia comparata.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 aprile 1986
+### Dato a Roma, addi' 22 ottobre 1985
 
 COSSIGA
 
@@ -65,6 +55,6 @@ FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 11 luglio 1986
+Registrato alla Corte dei conti, addi' 14 febbraio 1986
 
-Registro n. 56 Istruzione, foglio n. 1
+Registro n. 9 Istruzione, foglio n. 125

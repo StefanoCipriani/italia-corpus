@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 novembre 1985 n. 1015
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1079
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 novembre 1985 n. 1015
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1079
 ================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Bologna.
@@ -39,14 +39,14 @@ Articolo unico
 --------------
 
   
-Nell'art. 118, relativo al corso di laurea in scienze biologiche della facolta' di scienze matematiche, fisiche e naturali all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
-microbiologia applicata.  
+Nell'art. 149, relativo ai corsi di laurea in ingegneria, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
+elementi di informatica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 novembre 1985
+### Dato a Roma, addi' 31 dicembre 1985
 
 COSSIGA
 
@@ -54,6 +54,6 @@ FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 7 aprile 1986
+Registrato alla Corte dei conti, addi' 29 aprile 1986
 
-Registro n. 24 Istruzione, foglio n. 60
+Registro n. 34 Istruzione, foglio n. 106

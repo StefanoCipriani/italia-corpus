@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1984 n. 1028
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1983 n. 791
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1984 n. 1028
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1983 n. 791
 ===============================================================
 
 Autorizzazione all'Associazione italiana della Croce rossa, in Roma, ad accettare un legato.
@@ -12,11 +12,9 @@ Art. 1
 
 N.
 
-1028. Decreto del Presidente della Repubblica 11 ottobre 1984, col quale, sulla proposta del Ministro della sanita', l'Associazione   
-italiana della Croce rossa, in Roma, viene autorizzata ad accettare   
-il legato, consistente nella somma di L. 10.000.000, disposto dal sig. Gino Macchioro con testamento olografo 4 febbraio 1979,   
-pubblicato in data 2 novembre 1981, numero 25060 di repertorio, a rogito dott. Furio Dei Rossi, notaio in Trieste.   
+791. Decreto del Presidente della Repubblica 5 dicembre 1983, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare il legato, consistente in lingotti d'oro contenuti in una cassetta del Banco Ambrosiano di Milano, per un valore complessivo di L. 45.637.000 circa, e nella mobilia esistente nell'abitazione del de cuius in Montecarlo (Principato di Monaco), disposto dal dott.  
+Giuseppe Vismara con testamento olografo 16 settembre 1961, pubblicato in data 6 novembre 1975, n. 197390/31690 di repertorio, a rogito dott. Raffaello Meneghini, notaio in Milano, registrato a Milano in data 12 novembre 1975 al numero 10861.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 31 gennaio 1985   
-Registro n. 1 Sanita', foglio n. 228
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 5 gennaio 1984  
+Registro n. 1 Sanita', foglio n. 31

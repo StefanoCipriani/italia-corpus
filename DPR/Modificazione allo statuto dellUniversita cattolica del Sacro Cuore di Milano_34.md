@@ -1,16 +1,16 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1986 n. 989
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 febbraio 1983 n. 143
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1986 n. 989
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 febbraio 1983 n. 143
+===============================================================
 
-Modificazione allo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano.
-----------------------------------------------------------------------------------
+Modificazione allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
+--------------------------------------------------------------------------------
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), e successive modificazioni;
+Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -24,7 +24,7 @@ Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http:
 
 Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta, ai sensi della citata legge n. 615;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata [legge n. 615/1981](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;615);
 
 Veduto il parere del Consiglio universitario nazionale;
 
@@ -33,26 +33,24 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Nell'art. 23, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto l'insegnamento di "chirurgia gastroenterologica".  
+Art. 23 - nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' inserito il seguente insegnamento: otoneuroradiologia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 ottobre 1986
+### Dato a Roma, addi' 9 febbraio 1983
 
-COSSIGA
+PERTINI FALCUCCI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: DARIDA
 
-Visto, il Guardasigilli: ROGNONI
+Registrato alla Corte dei conti, addi' 20 aprile 1983
 
-Registrato alla Corte dei conti, addi' 20 gennaio 1987
-
-Registro n. 2 Istruzione, foglio n. 69
+Registro n. 28 Istruzione, foglio n. 108

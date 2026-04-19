@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 916
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1029
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 916
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1029
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -24,90 +24,66 @@ Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http:
 
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Considerata la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Decreta:
---------
+Ritenuta anche l'opportunita' di adeguare detta normativa ai corsi di perfezionamento;
 
-Lo statuto dell'Universita' di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Sulla
+-----
+
+proposta del Ministro della pubblica istruzione; Decreta:
 
 Articolo unico
 --------------
 
   
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 21 - nell'elenco degli insegnamenti complementari del corso di laurea in lettere sono inserite le seguenti discipline:   
-storia comparata delle letterature europee;   
-estetica;   
-storia dell'arte medioevale;   
-pedagogia speciale;   
-educazione degli adulti;   
-docimologia;   
-storia della grammatica e della lingua italiana;   
-storia e teoria del linguaggio giornalistico;   
-sociologia della letteratura;   
-lingua e letteratura provenzale;   
-stilistica e metrica italiana;   
-filologia dantesca;   
-indologia;   
-storia della lingua greca;   
-storia della lingua latina;   
-geografia linguistica;   
-semantica e lessicologia;   
-filologia balcanica (o balcanologia);   
-storia delle religioni nel mondo classico;   
-storia della storiografia antica;   
-storia del melodramma;   
-filologia musicale;   
-grammatica italiana;   
-storia della musica moderna;   
-storia del tardo antico romano;   
-antichita' italiche;   
-lingua e letteratura copta.   
-Art. 22 - nell'elenco degli insegnamenti complementari del corso di laurea in filosofia sono inserite le seguenti discipline:   
-filosofia del linguaggio;   
-linguistica generale;   
-pedagogia speciale;   
-educazione degli adulti;   
-docimologia;   
-istituzioni di storia della filosofia;   
-storia del pensiero scientifico;   
-psicologia dinamica;   
-psicodiagnostica;   
-psicologia dei gruppi;   
-psicolinguistica;   
-storia della matematica;   
-storia dell'estetica.   
-Art. 23 - nell'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne ad indirizzo europeo l'insegnamento di "letteratura ispano-americana" cambia la denominazione in quella di "lingua e letteratura ispano-americana".   
-Nel medesimo elenco sono inserite, inoltre, le seguenti discipline:   
-lingua e letteratura armena;   
-storia delle civilta' precolombiane d'America;   
-storia della grammatica della lingua italiana;   
-sociologia della letteratura;   
-lingua e letteratura provenzale;   
-storia della critica letteraria francese;   
-storia della critica letteraria tedesca;   
-storia della letteratura austriaca.   
-Art. 27 - nell'elenco degli insegnamenti complementari dell'indirizzo medioevale e dell'indirizzo moderno del corso di laurea in storia sono inserite le seguenti discipline:   
-storia della lingua italiana;   
-storia della grammatica e della lingua italiana;   
-storia e teoria del linguaggio giornalistico;   
-sociologia della letteratura.   
+Nell'art. 284, concernente l'elenco dei corsi e delle scuole di perfezionamento e specializzazione annesse alla facolta' di medicina veterinaria, dopo il corso di perfezionamento in clinica bovina e' inserito il corso di perfezionamento in patologia equina.  
+Dopo l'art. 327 si inseriscono, con il conseguente spostamento della numerazione degli articoli successivi, le norme relative all'istituzione del corso di perfezionamento in patologia equina.  
+Corso di perfezionamento in patologia equina  
+Art. 328. - Il corso ha la durata di un anno accademico.  
+Art. 329. - Al corso possono essere ammessi i laureati in medicina veterinaria.  
+Art. 330. - Le materie di insegnamento sono:  
+patologia e profilassi delle malattie infettive;  
+patologia e profilassi delle malattie parassitarie;  
+anatomia topografica;  
+semeiotica medica;  
+semeiotica chirurgica e medicina operatoria;  
+clinica medica;  
+clinica chirurgica;  
+clinica ostetrica e ginecologica;  
+radiologia.  
+Durante il corso saranno tenute lezioni o conferenze su argomenti di anatomia, fisiologia, farmacologia, zootecnia (alimentazione), igiene zootecnica, medicina legale, podologia e anestesiologia.  
+Art. 331. - La direzione del corso e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nel corso stesso.  
+In caso di motivato impedimento la direzione del corso e' affidata a professore associato che pure insegni nel corso medesimo.  
+Art. 332. - Il direttore, di concerto con i docenti delle singole materie, stabilisce la durata e il programma particolareggiato dei corsi.  
+Gli insegnamenti saranno svolti sotto forma di lezioni, esercitazioni teorico-pratiche, conferenze e seminari.  
+Art. 333. - I professori ai quali devono essere affidate le lezioni, le conferenze, le esercitazioni teorico-pratiche e i seminari saranno nominati dal rettore su proposta del consiglio di facolta', sentito il direttore del corso.  
+Art. 334. - I posti disponibili sono venticinque.  
+Qualora il numero degli aspiranti superasse quello dei posti disponibili, si procedera' alla scelta dei partecipanti in base alla valutazione dei titoli accordando preferenza nell'ordine a: 1) titoli scientifici e pratici in relazione alle materie del corso, 2) carriera scolastica, 3) altri.  
+Art. 335. - Le norme relative al funzionamento amministrativo del corso sono regolate dalle leggi e dai regolamenti relativi all'istruzione universitaria.  
+L'importo delle tasse e soprattasse e' quello stabilito per gli studenti in corso per la facolta' di medicina veterinaria a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).  
+L'ammontare dei contributi di laboratorio viene stabilito dal consiglio di amministrazione, su proposta del senato accademico, sentita la facolta'.  
+Art. 336. - La frequenza ai corsi di lezione, alle esercitazioni e seminari e' obbligatoria.  
+Gli esami di profitto saranno tenuti alla fine dell'anno.  
+Per ottenere l'attestato di frequenza e di profitto, l'allievo deve avere seguito i corsi e superato gli esami nonche' la discussione orale di una dissertazione scritta su un tema avente carattere di originalita' precedentemente approvato dal direttore del corso.  
+Le commissioni per gli esami di profitto composte da non meno di tre membri sono nominate dal preside sentito il direttore del corso.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1983
+### Dato a Roma, addi' 31 ottobre 1981
 
-PERTINI FALCUCCI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 30 gennaio 1984
+Registrato alla Corte dei conti, addi' 24 febbraio 1982
 
-Registro n. 5 Istruzione, foglio n. 20
+Registro n. 30 Istruzione, foglio n. 383

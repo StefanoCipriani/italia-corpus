@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1985 n. 889
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1111
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1985 n. 889
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1111
+================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
@@ -39,15 +39,14 @@ Articolo unico
 --------------
 
   
-Nell'art. 76, relativo al corso di laurea in pedagogia, nell'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-  
-storia della filosofia moderna.  
+Nell'art. 85, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+nefrologia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 7 ottobre 1985
+### Dato a Roma, addi' 31 dicembre 1985
 
 COSSIGA
 
@@ -55,6 +54,6 @@ FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 29 gennaio 1986
+Registrato alla Corte dei conti, addi' 10 giugno 1986
 
-Registro n. 4 Istruzione, foglio n. 108
+Registro n. 45 Istruzione, foglio n. 355

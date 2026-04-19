@@ -1,22 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 agosto 1951 n. 889
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 agosto 1951 n. 851
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 agosto 1951 n. 889
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 agosto 1951 n. 851
 =============================================================
 
-Trasferimento in proprieta' all'Opera per la valorizzazione della Sila di terreni di proprieta' di Berlingieri Maria fu Pietro, maritata Zinzi, in comune di San Giovanni in Fiore (Cosenza).
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Trasferimento in proprieta' all'Opera per la valorizzazione della Sila di terreni di proprieta' di Berlingieri Maria fu Pietro maritata Zinzi, in comune di San Giovanni in Fiore (Cosenza).
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
 Visti gli [articoli 77, comma primo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77-com1), ed [87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5) della Repubblica;
 
-Vista la [legge 12 maggio 1950, n. 230 e l'art. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art16) della [legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841);
+Vista la [legge 12 maggio 1950, n. 230, e l'art. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art16) della [legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841);
 
 In virtu' della delegazione concessa con l'[art. 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5);
 
-Udito il parere, in data 5 luglio 1951, della Commissione parlamentare, nominata a norma dell'[art. 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5), la quale ha esaminato il piano particolareggiato di espropriazione, compilato dall'Opera per la valorizzazione della Sila, per i terreni ricadenti nel comune di San Giovanni in Fiore (Cosenza), della superficie di Ha. 174.22.70, nei confronti di Berlingieri Maria fu Pietro, maritata Zinzi;
+Udito il parere, in data 5 giugno 1951, della Commissione parlamentare, nominata a norma dell'[art. 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5), la quale ha esaminato il piano particolareggiato di espropriazione, compilato dall'Opera per la valorizzazione della Sila, per i terreni ricadenti nel comune di San Giovanni in Fiore (Cosenza), della superficie di Ha. 142.43.28, nei confronti di Berlingieri Maria fu Pietro maritata Zinzi;
 
 Sentito il Consiglio dei Ministri;
 
@@ -29,16 +29,16 @@ Art. 1
 ------
 
   
-E' approvato il piano particolareggiato di espropriazione, compilato dall'Opera per la valorizzazione della Sila, per i terreni ricadenti nel comune di San Giovanni in Fiore (Cosenza), della superficie di Ha. 174.22.70, nei confronti di Berlingieri Maria fu Pietro, maritata Zinzi.  
+E' approvato il piano particolareggiato di espropriazione, compilato dall'Opera per la valorizzazione della Sila, per i terreni ricadenti nel comune di San Giovanni in Fiore (Cosenza), della superficie di Ha. 142.43.28, nei confronti di Berlingieri Maria fu Pietro maritata Zinzi.  
 
 Art. 2
 ------
 
   
 E' ordinata l'immediata occupazione, da parte dell'Opera per la valorizzazione della Sila, dei terreni, di cui al precedente art. 1, confinanti:  
-il primo corpo, della superficie di Ha. 0.19.00, a nord, col fiume Neto; ad ovest, con proprieta' I.L.S.S.A.; ad est e sud, con particella 13 foglio 74, gia' espropriata dall'Opera per la valorizzazione della Sila;  
-il secondo corpo, della superficie di Ha. 167.77.30, a nord, con la comunale Cuturella-Frassineto; ad est, con la strada privata Serrisi-Cuturella; a sud, con proprieta' di Berlingieri Maria, in Zinzi; ad ovest, con la proprieta' del comune di Rovito;  
-il terzo corpo, della superficie di Ha. 6.26.40, ad est, con la strada privata Serrisi-Cuturella; a nord-ovest e sud, con la strada non denominata.  
+il primo corpo, della superficie di Ha. 23.43.68, a nord, con la proprieta' I.L.S.A.; ad est, con la medesima e con la proprieta' del dott. Marano; ad ovest, con il fiume Neto;  
+il secondo corpo, della superficie di Ha. 82.47.20, a nord, con la proprieta' I.L.S.A.; ad est con il fiume Neto; a sud, con la proprieta' del comune di Savelli; ad ovest, con la comunale Cuturella-Frassineto;  
+il terzo corpo, della superficie di Ha. 36.52.40, a nord, con la strada privata Serrisi-Cuturella; ad est, con la comunale Cuturella-Frassineto; a sud, con la proprieta' del comune di Zumpano; ad ovest, con la strada privata Serrisi-Cuturella.  
 
 Art. 3
 ------
@@ -50,16 +50,13 @@ Art. 4
 ------
 
   
+L'elenco dei terreni, compresi nel piano di espropriazione di cui all'art. 1, con l'indicazione dell'indennita' offerta, munito del visto del Ministro proponente, forma parte integrante del presente decreto, che entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.  
   
-L'elenco dei terreni, compresi nel piano di espropriazione di cui all'art. 1, con l'indicazione dell'indennita' offerta, munito del visto del Ministro proponente, forma parte integrante del presente decreto, che entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.   
-  
-
-((Dato a Gressoney, addi' 30 agosto 1951))
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### ((Dato a Gressoney, addi' 30 agosto 1951))
+### Dato a Roma, addi' 12 agosto 1951
 
 EINAUDI DE GASPERI - FANFANI
 
@@ -67,16 +64,14 @@ Visto, il Guardasigilli: ZOLI
 
 Registrato alla Corte dei conti, addi' 13 settembre 1951
 
-Atti del Governo, registro n. 43, foglio n. 3. - CARLOMAGNO
+Atti del Governo, registro n. 43, foglio n. 54. - CARLOMAGNO
 
 Elenco
 
- COMUNE DI SAN GIOVANNI IN FIORE (Cosenza)   
-  
-Elenco dei terreni espropriati nei confronti di   
-Berlingieri Maria fu Pietro a termini degli [articoli 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art1) e [2 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art2).   
+COMUNE DI SAN GIOVANNI IN FIORE (Cosenza) Elenco dei terreni espropriati nei confronti di Berlingieri Maria fu Pietro maritata Zinzi Lorenzo fu Domenico a termini degli [articoli 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art1) e [2 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art2)
   
   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=051U088900100010110001&dgu=1951-09-14&art.dataPubblicazioneGazzetta=1951-09-14&art.codiceRedazionale=051U0889)
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=051U085100100010110001&dgu=1951-09-14&art.dataPubblicazioneGazzetta=1951-09-14&art.codiceRedazionale=051U0851)
   

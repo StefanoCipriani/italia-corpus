@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 486
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 febbraio 1977 n. 98
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 486
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 febbraio 1977 n. 98
+==============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-486. Decreto del Presidente della Repubblica 27 giugno 1983, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in buoni del Tesoro per un valore di L. 3.500.000, disposto dalla sig.ra Barberis Elvira ved. Torre a favore dell'istituto "Pro juventute don Carlo Gnocchi - Centro poliomielitici", viale Settimio Severo, 65, Torino, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale del consiglio di amministrazione della fondazione medesima in data 28 novembre 1980, con testamento olografo 1 maggio 1975, pubblicato l'8 ottobre 1980, n. 2607 di repertorio e n. 1806 di fascicolo, a rogito dott.ssa Fernanda Perosino, notaio in Torino, registrato a Torino il 28 ottobre 1980 al n. 47198.  
+98. Decreto del Presidente della Repubblica 22 febbraio 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Maria Reverberi con testamento olografo 18 maggio 1970 pubblicato a rogito notaio dott. Angelo Gallizia in data 22 gennaio 1973, n. 7790/1024 di repertorio, registrato a Lodi il 9 febbraio 1973 con il n. 823, vol. 194, consistente nella nuda proprieta' di un immobile sito in Milano, via Goldoni n. 77 distinto nel nuovo catasto edilizio urbano alla partita 40537, mapp. 337/31 del valore presunto di L. 7.000.000.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 8 settembre 1983  
-Registro n. 7 Presidenza, foglio n. 300
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 29 marzo 1977  
+Registro n. 3 Presidenza, foglio n. 260

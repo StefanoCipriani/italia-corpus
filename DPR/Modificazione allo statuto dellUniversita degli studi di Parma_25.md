@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 1184
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 1187
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 1184
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 1187
 ==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Parma.
@@ -39,8 +39,9 @@ Articolo unico
 --------------
 
   
-Nell'art. 84, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-fisiopatologia medica.  
+  
+Nell'art. 130, relativo al corso di laurea in scienze geologiche, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:   
+esercitazioni di geologia.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
@@ -54,4 +55,4 @@ Visto, il Guardasigilli: MARTINAZZOLI
 
 Registrato alla Corte dei conti, addi' 28 aprile 1984
 
-Registro n. 25 Istruzione, foglio n. 175
+Registro n. 25 Istruzione, foglio n. 187

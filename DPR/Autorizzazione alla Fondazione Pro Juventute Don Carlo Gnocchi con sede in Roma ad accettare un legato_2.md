@@ -1,19 +1,19 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 dicembre 1965 n. 1549
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1967 n. 740
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 dicembre 1965 n. 1549
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1967 n. 740
+=============================================================
 
-Autorizzazione alla "Fondazione Pro Juventute Don Carlo Gnocchi", con sede in Roma, ad accettare un legato.
------------------------------------------------------------------------------------------------------------
+Autorizzazione alla Fondazione Pro Juventute Don Carlo Gnocchi, con sede in Roma, ad accettare un legato.
+---------------------------------------------------------------------------------------------------------
 
 Art. 1
 ------
 
 N.
 
-1549. Decreto del Presidente della Repubblica 6 dicembre 1965, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare un legato di L. 500.000 (cinquecentomila) disposto dalla defunta signorina Rosa Ortensia - con testamento pubblico per atto a rogito dott. Nando Viale, notaio in Monza, in data 11 agosto 1962, n. 54 del repertorio degli atti di ultima volonta', registrato come da atto a rogito dello stesso notaio, in data 5 ottobre 1962, rep. gen. n. 27210, raccolta n. 1834 a favore dell'Opera dei mutilati di Don Gnocchi, che si identifica con la Fondazione Pro Juventute suindicata.  
+740. Decreto del Presidente della Repubblica 24 giugno 1967, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi" viene autorizzata ad accettare un legato di lire 1.000.000 disposto dalla defunta signora Teresina Spargetti vedova Giletta di San Giuseppe Annibale, con testamento olografo del 15 ottobre 1957, pubblicato e depositato con verbale a rogito dott. Ambrogio Roncoroni, notaio residente in Milano, in data 2 dicembre 1965, n. 38721 di repertorio, n. 9345 di raccolta, in favore dei "Mutilatini di Don Gnocchi", che si identificano con la Fondazione Pro Juventute suindicata.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 21 gennaio 1966  
-Atti del Governo, registro n. 200, foglio, n. 24. - VILLA
+Registrato alla Corte dei conti, addi' 17 agosto 1967  
+Atti del Governo, registro n. 213, foglio n. 8. - CARUSO

@@ -1,91 +1,146 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 maggio 1977 n. 550
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1980 n. 684
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 maggio 1977 n. 550
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1980 n. 684
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 agosto 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-08-31;2395), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Siena e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Siena e convalidati dal Consiglio superiore della pubblica Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+L'art. 68, relativo alla facolta' di medicina e chirurgia, e' sostituito dal seguente:  
   
-Decreta:  
+La facolta' di medicina e chirurgia conferisce la laurea in medicina e chirurgia e la laurea in odontoiatria e protesi dentaria.  
+Il primo comma dell'art. 69 e' cosi' modificato:  
   
-Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+La durata del corso degli studi e' di sei anni divisi in tre bienni.  
+Titolo di ammissione: quello previsto dalle vigenti leggi.  
+Dopo l'art. 73, e con il conseguente spostamento della numerazione degli articoli successivi, e' aggiunto il seguente nuovo articolo relativo alla istituzione del corso di laurea in odontoiatria e protesi dentaria.  
+Laurea in odontoiatria e protesi dentaria  
+Art. 74. - La durata del corso degli studi e' di cinque anni suddivisi in un biennio ed un triennio.  
+Titolo di ammissione: quello previsto dalle vigenti leggi.  
+Il numero massimo degli studenti che possono essere iscritti e' di quaranta per anno di corso.  
+L'accesso al corso di laurea verra' regolato da un esame di ammissione; il punteggio da attribuire nell'esame sara', cosi' ripartito: il 30% sara' riservato al voto riportato dal candidato nell'esame di Stato di licenza della scuola secondaria superiore ed il 70% sara' riservato alla prova di esame di ammissione al corso di laurea con tests a scelta multipla su argomenti di biologia generale, chimica, fisica e matematica, secondo i programmi della scuola secondaria superiore.  
+Insegnamenti fondamentali:  
+Biennio:  
+1) anestesia generale e speciale odontostomatologica (semestrale);  
+\* 2) biologia generale applicata agli studi medici;  
+\* 3) chimica;  
+\* 4) chimica biologica;  
+5) farmacologia (semestrale);  
+\* 6) fisica medica;  
+7) fisiologia umana e dell'apparato stomatognatico 8) igiene e odontoiatria preventiva e sociale corepidemiologia (semestrale);  
+9) istituzioni di anatomia umana normale e dell'apparato stomatognatico;  
+10) istituzioni di anatomia e istologia patologica  
+\* 11) istologia ed embriologia generale (compresa la citologia);  
+12) materiali dentari;  
+13) microbiologia (semestrale);  
+14) odontoiatria conservatrice (triennale 2°, 3° e 4° anno);  
+15) patologia generale.  
+Triennio:  
+16) chirurgia speciale odontostomatologica (biennale 3° e 4° anno);  
+17) clinica odontostomatologica (biennale 4° e 5° anno);  
+18) medicina legale e delle assicurazioni e deontologia in odontostomatologia (semestrale);  
+19) neuropatologia e psicopatologia (semestrale)  
+20) ortognatodonzia e gnatologia (funzionale masticatoria) (biennale 4° e 5° anno);  
+21) parodontologia (biennale 4° e 5° anno);  
+22) patologia speciale chirurgica e propedeutica clinica;  
+23) patologia speciale medica e metodologia clinica (compresa la pediatria);  
+24) patologia speciale odontostomatologica;  
+25) pedodonzia (semestrale);  
+26) protesi dentaria (triennale 3°, 4° e 5° anno);  
+27) radiologia generale e speciale odontostomatologia (semestrale).  
+Sono insegnamenti complementari:  
+\* 1) chirurgia maxillo-facciale;  
+\* 2) dermatologia e venereologia (semestrale);  
+\* 3) otorinolaringoiatria (semestrale);  
+\* 4) statistica sanitaria;  
+\* 5) psicologia generale e clinica;  
+\* 6) clinica ortopedica;  
+\* 7) clinica oculistica;  
+\* 8) medicina sociale;  
+\* 9) antropologia;  
+\* 10) biochimica applicata;  
+\* 11) immunologia clinica.  
+Gli insegnamenti segnati con asterisco sono mutuati dal corso di laurea in medicina e chirurgia.  
+Gli insegnamenti fondamentali sono teorici e pratici e la loro frequenza e' obbligatoria.  
+Gli insegnamenti specificatamente odontostomatologici di ordine clinico comportano anche un tirocinio pratico continuativo da espletare prima di sostenere i relativi esami.  
+Gli allievi che non conseguono le attestazioni di frequenza, non possono essere ammessi a sostenere le relative prove di esame.  
+Il tirocinio pratico, relativo ad ogni insegnamento clinico, deve prevedere da parte di componenti dell'organico un assistenza didattica adeguata al numero degli studenti.  
   
-Dopo l'art. 247 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in medicina dello sport.  
+Non si puo' essere ammessi Se non si e' superato  
+a sostenere l'esame di: l'esame di:  
   
-Scuola di specializzazione in medicina dello sport  
+Fisiologia umana e dell'apparato Istituzioni di anatomia  
+Stomatognatico umana normale e dell'apparato Patologia generale stomatognatico  
+Chimica  
+Biologia generale applicata  
+agli studi medici  
+Fisica medica  
   
-Art. 248. - La scuola di specializzazione in medicina dello sport dell'Universita' degli studi di Siena si propone:  
-a) di valorizzare ed approfondire gli studi biologici e di medicina applicata nel campo delle attivita' sportive, formative e di competizione e della educazione fisica;  
-b) di preparare adeguatamente sotto l'aspetto teorico e della applicazione pratica, i medici che intendono dedicarsi alle attivita' attinenti a questa particolare branca della medicina applicata, conferendo ad essi il diploma di specialista in medicina dello sport.  
-Art. 249. - Il titolo richiesto per l'ammissione alla scuola e' la laurea in medicina e chirurgia.  
-Il corso di studi ha la durata di tre anni, con frequenza obbligatoria; esso ha sede ufficiale presso l'istituto di fisiologia umana. Gli insegnamenti clinici e specialistici si svolgeranno presso i rispettivi istituti clinici e specialistici.  
-Il numero massimo degli allievi sara' di dodici per anno e complessivamente di trentasei per l'intero corso.  
-L'ammissione ai corsi avviene per titoli. Nel caso di domande eccedenti il numero dei posti disponibili la selezione dei candidati avverra' in base ai risultati di un esame di ammissione.  
-Non sono previste abbreviazioni di corso.  
-La direzione del corso e' affidata al direttore dell'Istituto di Fisiologia umana.  
-Art. 250. - L'ordine degli studi e' il seguente:  
+Patologia speciale medica Fisiologia umana e del-  
+e metodologica clinica l'apparato stomatognatico  
+(compresa la pediatria) Patologia generale  
+Patologia speciale chirurgica  
+e propedeutica clinica  
   
-1° Anno:  
-1) anatomia dell'apparato locomotore;  
-2) fisiologia dell'apparato locomotore;  
-3) biochimica ed energetica muscolare;  
-4) antropometria e auxologia;  
-5) psicologia applicata allo sport;  
-6) storia dell'educazione fisica e dello sport;  
-7) sistematica delle attivita' sportive-agonistiche e regolamenti sportivi.  
+Clinica odontostomatologica Patologia speciale medica  
+e metodologia clinica  
+(compresa la pediatria)  
+Patologia speciale chirurgica  
+e propedeutica clinica  
+Istituzioni di anatomia e  
+istologia patologica  
+Patologia speciale odonto-  
+stomatologica  
+Chirurgia speciale odonto-  
+stomatologia  
   
-2° Anno:  
-1) fisiologia dell'esercizio fisico;  
-2) biomeccanica dell'esercizio fisico;  
-3) metodologia dell'allenamento sportivo;  
-4) scienza della nutrizione applicata all'attivita' sportiva;  
-5) fisiopatologia degli sport e semeiotica medico sportiva I;  
-6) farmacologia e tossicologia del doping;  
-7) igiene e medicina preventiva applicata all'attivita' sportiva;  
-8) traumatologia degli sport.  
+Per essere ammesso a sostenere l'esame di laurea in odontoiatria e protesi dentaria, lo studente deve aver seguito i corsi ed aver superato gli esami in tutti gli insegnamenti fondamentali ed almeno in due insegnamenti scelti tra i complementari ed aver, inoltre, seguito le prescritte esercitazioni cliniche, i tirocini pratici ed averne conseguito le relative attestazioni.  
+L'esame di laurea consiste nella discussione di una tesi scritta su argomenti di odontostomatologia da richiedere almeno all'inizio dell'ultimo anno di corso.  
+Per il trasferimento degli studenti iscritti al corso di laurea in medicina e chirurgia le abbreviazioni di corso non possono superare l'ammissione oltre il secondo anno, subordinatamente al numero di posti resisi disponibili all'inizio del secondo anno sempre che gli aspiranti abbiano superato gli esami di biologia generale applicata agli studi medici, chimica, fisica medica, istologia ed embriologia generale (compresa la citologia).  
+Per i laureati in medicina e chirurgia le abbreviazioni di corso potranno essere concesse, sempre con iscrizione al secondo anno, subordinatamente al numero di posti resisi disponibili all'inizio del secondo anno e dopo che sia trascorso un anno accademico dal conseguimento della laurea precedente.  
+Per esercitare la professione i laureati in odontoiatria e protesi dentaria devono superare un apposito esame di Stato.  
   
-3° Anno:  
-i) fisiologia applicata agli sport;  
-2) valutazione funzionale dello sportivo;  
-3) fisiopatologia degli sport e semeiotica medico sportiva II;  
-4) fisioterapia e rieducazione funzionale;  
-5) rianimazione e pronto soccorso;  
-6) medicina legale e infortunistica legata agli sport;  
-7) fisiologia dell'adattamento agli ambienti straordinari.  
-  
-La scuola svolgera' brevi corsi integrativi di conferenze o seminari sopra argomenti e discipline che saranno stabiliti, secondo le possibilita' contingenti, dal consiglio dei docenti della scuola.  
-Saranno inoltre svolte esercitazioni pratiche in sede e sul campo.  
-Art. 251. - Alla fine di ogni anno di corso gli allievi dovranno sostenere l'esame di profitto nelle materie di insegnamento, (art.  
-250) previste per ogni anno di corso e articolate in un unico gruppo.  
-L'iscrizione agli anni successivi e' subordinata al superamento di tutti gli esami annuali.  
-Art. 252. - Il diploma si consegue dopo aver superato tutte le prove di esame del triennio; la prova di diploma si svolge con la discussione su una dissertazione scritta concernente un tema assegnato o in ogni altro caso approvato dal direttore della scuola.  
-Art. 253. - Le tasse, soprattasse e contributi della scuola di specializzazione in medicina dello sport sono cosi' fissate:  
-  
-immatricolazione. . . . . . . . . . . . . . . . . . L. 12.000 tassa annuale di iscrizione . . . . . . . . . . . . " 200.000 soprattassa annuale di esame. . . . . . . . . . . . " 16.000 contributi annui di laboratorio . . . . . . . . . . " 14.000 tassa di diploma. . . . . . . . . . . . . . . . . . " 20.000   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 maggio 1977
+### Dato a Roma, addi' 25 settembre 1980
 
-LEONE MALFATTI
+p. Il Presidente della Repubblica Il Presidente del Senato FANFANI SARTI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 30 luglio 1977
+Registrato alla Corte dei conti, addi' 21 ottobre 1980
 
-Registro n. 92 Istruzione, foglio n. 30
+Registro n. 95 Istruzione, foglio n. 309

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 341
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1984 n. 1184
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 341
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1984 n. 1184
+================================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare un legato.
 -------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-341. Decreto del Presidente della Repubblica 26 aprile 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 10.000.000, disposto dalla sig.ra Elena Praitano ved. Gargano a favore della sede di Napoli con testamento pubblico 2 marzo 1979, pubblicato in data 15 marzo 1979, n. 82513 di repertorio, a rogito dott. Giovanni Pennacchio, notaio in Roma, registrato a Roma in data 21 marzo 1979 al n. 4300.  
+1184. Decreto del Presidente della Repubblica 5 dicembre 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 5.000.000, disposta dalla sig.ra Caccia Emma ved. Maggioni con testamento olografo 7 luglio 1970, pubblicato in data 1 febbraio 1977, n. 14694 di repertorio, a rogito dott. Giovanni Ripamonti, notaio in Lodi (Milano), registrato a Lodi in data 4 febbraio 1977 al n. 609.   
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 11 luglio 1984  
-Registro n. 6 Presidenza, foglio n. 299
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 22 aprile 1985   
+Registro n. 3 Presidenza, foglio n. 278

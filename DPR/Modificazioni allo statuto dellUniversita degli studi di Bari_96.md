@@ -1,102 +1,92 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1978 n. 748
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 990
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1978 n. 748
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 990
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Veduto il [decreto del Presidente della Repubblica 12 luglio 1977, n. 817](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-07-12;817);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
   
-Decreta:   
-  
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-  
-L'art. 74, relativo al corso di laurea in scienze forestali, e' soppresso e sostituito dal seguente.   
-Art. 74. - La durata del corso degli studi per la laurea in scienze forestali e' di quattro anni.   
-Titoli di ammissione sono quelli previsti dall'[art. 1 della legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1).   
-Insegnamenti fondamentali:   
-1) alpicoltura I (prati, pascoli, agricoltura nella regione di montagna) (semestrale);   
-2) alpicoltura II (zootecnica nella regione di montagna) (semestrale);   
-3) assestamento forestale;   
-4) botanica forestale;   
-\* 5) botanica generale;   
-\* 6) botanica sistematica;   
-7) chimica forestale;   
-8) chimica generale ed inorganica con applicazioni di analitica; \* 9) chimica organica;   
-10) costruzioni forestali (semestrale);   
-11) dendrometria (semestrale);   
-12) economia ed estimo forestale;   
-\* 13) fisica;   
-14) industrie chimico-forestali (semestrale);   
-15) legislazione forestale;   
-\* 16) matematica;   
-\* 17) mineralogia e geologia;   
-18) patologia vegetale forestale;   
-\* 19) principi di economia politica e di statistica;   
-20) selvicoltura I (ecologia e selvicoltura generale);   
-21) selvicoltura II (selvicoltura speciale);   
-22) sistemazioni idraulico-forestali;   
-23) tecnologia e utilizzazione forestale (compresa meccanica applicata);   
-24) topografia;   
-25) zoologia forestale venatoria e acquicoltura;   
-\* 26) zoologia generale.   
+Dopo l'art. 149, con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione presso la facolta' di economia e commercio della scuola diretta a fini speciali di economia e merceologia degli alimenti.   
+Art. 150. - Presso la facolta' di economia e commercio e' istituita, con sede presso l'istituto di merceologia, una scuola di economia e merceologia degli alimenti diretta al conferimento del diploma in economia e merceologia degli alimenti che si propone di studiare la tecnologia di produzione degli alimenti, i loro metodi di conservazione ed i loro aspetti commerciali dal punto di vista tecnico-mercantile: cio' allo scopo di preparare degli specialisti idonei all'organizzazione dei servizi alimentari della comunita', fornendo loro tutte le conoscenze necessarie per una razionale impostazione dietetica e nutritiva.   
+Il direttore della scuola e' un professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa.   
+In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.   
+Gli insegnamenti saranno attribuiti secondo le norme della legislazione universitaria vigente.   
+La durata del corso e' di due anni. Il titolo richiesto per l'ammissione e' il diploma di scuola media superiore di 2° grado.   
+Per i laureati che intendessero frequentare la scuola saranno convalidate le materie gia' sostenute in sede universitaria, con la possibilita' di riduzione della frequenza ad un solo anno.   
+Art. 151. - Insegnamenti fondamentali:   
+1° Anno:   
+principi di chimica generale organica ed inorganica;   
+bromatologia e merceologia alimentare (1° corso);   
+igiene degli alimenti e dell'alimentazione;   
+fisiologia della nutrizione;   
+imprese industriali e commerciali dei prodotti alimentari;   
+legislazione sugli alimenti;   
+esercitazioni pratiche di bromatologia;   
+lingua straniera.   
+2° Anno:   
+bromatologia e merceologia alimentare (2° corso);   
+organizzazione e gestione dei servizi alimentari;   
+tecnologia e preparazione dei cibi (con esercitazioni);   
+costi e prezzi dei prodotti alimentari;   
+dietologia normale e speciale;   
+economia e statistica del settore alimentare;   
+lingua straniera.   
 Insegnamenti complementari:   
-1) agronomia montana;   
-2) allevamenti minori in zone montane (semestrale);   
-3) alterazioni del legname (semestrale);   
-4) conservazione della natura e delle sue risorse;   
-5) difesa dagli inquinamenti (semestrale);   
-\* 6) ecologia;   
-7) ecologia zootecnica;   
-8) economia di mercato dei prodotti forestali;   
-9) elementi di idraulica e di idrologia;   
-10) fisiologia degli alberi forestali (semestrale);   
-11) geologia applicata;   
-12) idrologia forestale;   
-13) meccanizzazione forestale;   
-14) microbiologia forestale;   
-15) miglioramento genetico degli alberi forestali (semestrale);   
-16) pedologia forestale;   
-17) pianificazione ecologica del territorio;   
-18) protezione dagli incendi boschivi (semestrale);   
-19) protezione della natura e riassetto del paesaggio;   
-20) selvicoltura industriale ed alberature;   
-21) tecniche di rimboschimento nelle zone aride (semestrale) 22) tutela del paesaggio agricolo forestale e riassetto del territorio;   
-23) vivaistica forestale e rimboschimento;   
-24) zoologia venatoria.   
-Le materie contrassegnate con un asterisco sono in comune con il corso di laurea in scienze agrarie.   
-Sono inoltre da ritenere complementari del corso di laurea in scienze forestali tutti gli insegnamenti (fondamentali e complementari) impartiti nel corso di laurea in scienze agrarie.   
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in tre complementari a corso annuale. A tale effetto due corsi complementari semestrali sono computati come corso annuale.   
-L'esame di laurea consiste in una discussione orale intorno ad una dissertazione scritta sopra un tema scelto dal candidato su di un argomento forestale o avente stretta attinenza con le discipline impartite nella facolta'.   
-Tutti gli insegnamenti impartiti nella facolta' sono di lezioni teoriche e di esercitazioni pratiche che possono essere integrati da visite a fabbriche industriali e da esercitazioni in foresta.   
-Gli esami di profitto sono orali; ma possono essere integrati da prove pratiche. Il voto e' pero' complessivo.   
+prezzi e valore dei prodotti alimentari (semestrale);   
+tecnologia e preparazione dei cibi (con esercitazioni) (semestrale);   
+organizzazione e gestione dei servizi alimentari (semestrale); tecnica statistica delle indagini alimentari (semestrale);   
+dietologia normale e speciale (semestrale).   
+Per essere ammesso all'esame di diploma lo studente deve avere eseguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali.   
+Le commissioni per gli esami di profitto sono nominate dal preside della facolta' di economia e commercio su proposta del direttore della scuola. Esse sono composte dal professore ufficiale della materia, presidente, di un professore ufficiale di materia affine e di un libero docente o cultore della materia.   
+L'esame di diploma consiste nella discussione orale, dinanzi ad una commissione composta da sette membri e presieduta dal direttore della scuola, di una dissertazione scritta su un tema approvato dal professore della materia alla quale il tema stesso si riferisce.   
+Il consiglio di amministrazione dell'Universita', su proposta della direzione della scuola, stabilira' di anno in anno l'ammontare dei contributi. Le tasse e sopratasse a carico degli iscritti restano cosi' determinate:   
+  
+tassa di immatricolazione. . . . . . . . . . . . . . . . . . L. 5.000 tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 18.000 sopratassa esami di profitto . . . . . . . . . . . . . . . . L. 7.000 tassa di diploma. . . . . . . . . . . . . . . . . . . . . . L. 50.000   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 settembre 1978
+### Dato a Roma, addi' 31 ottobre 1981
 
-PERTINI PEDINI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 16 novembre 1978
+Registrato alla Corte dei conti, addi' 9 febbraio 1982
 
-Registro n. 122 Istruzione, foglio n. 48
+Registro n. 20 Istruzione, foglio n. 194

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1971 n. 623
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1047
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1971 n. 623
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1047
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Genova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,168 +18,376 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 29: all'elenco degli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di "Storia delle tecniche artistiche".
+Art. 155 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono aggiunte le scuole di specializzazione in patologia generale e in neurofisiopatologia.
 
-Art. 30: all'elenco degli insegnamenti complementari del corso di laurea in filosofia e' aggiunto quello di "Storia della logica".
+Il secondo comma dell'art. 297, relativo alla scuola di specializzazione in igiene e medicina preventiva, di cui al [decreto del Presidente della Repubblica 31 ottobre 1977, n. 1140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-10-31;1140), e' soppresso e sostituito dal seguente:
 
-Art. 46: all'elenco degli insegnamenti complementari del corso di laurea in pedagogia e' aggiunto quello di "Storia della filosofia morale".
+Il numero massimo di allievi iscrivibili e' di trenta per ogni anno di corso.
 
-Art. 50: all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:
+Gli articoli 394, 395, 396, 397, 398, 399, 400, 401 e 402, relativi alla scuola di specializzazione in medicina nucleare, sono soppressi e sostituiti dai seguenti, con il conseguente spostamento della numerazione degli articoli successivi:
 
-Gastroenterologia;
+Scuola di specializzazione in medicina nucleare
 
-Epidemiologia.
+Art. 394. - La scuola di specializzazione in medicina nucleare ha sede presso l'istituto scientifico di medicina interna della facolta' di medicina e chirurgia.
 
-Art. 58, relativo al corso di laurea in matematica, nell'elenco degli insegnamenti obbligatori per il secondo biennio l'insegnamento di "Calcolo numerico" (con esercitazioni) dal 4° anno passa al 3° anno, mentre lo insegnamento complementare di cui al n. 4) passa dal 3° al 4° anno.
+Art. 395. - La scuola conferisce il diploma di specializzazione in medicina nucleare.
 
-All'elenco degli insegnamenti complementari del II gruppo sono aggiunti i seguenti:
+Gli anni di studio necessari per conseguire detto diploma sono tre.
 
-Indirizzo generale:
+Art. 396. - Gli insegnamenti per il conseguimento del diploma di specializzazione in medicina nucleare sono cosi' distribuiti nei tre anni di corso:
 
-Geometria differenziale;
+1° Anno:
 
-Logica matematica;
+fisica: con richiami di matematica, nozioni di statistica, informatica e dosimetria;
 
-Teoria del potenziale.
+radiobiologia, legislazione e norme generali di radioprotezione;
 
-Indirizzo didattico:
+tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;
 
-Didattica della fisica;
+nozioni di anatomia e fisiologia generale.
 
-Didattica delle scienze naturali.
+2° Anno:
 
-Indirizzo applicativo:
+teoria dei traccianti;
 
-Linguaggi programmativi e programmazione;
+elementi di radiochimica;
 
-Struttura dei calcolatori.
+applicazioni diagnostiche I;
 
-Nello stesso elenco sono soppressi i seguenti insegnamenti:
+tecniche di misure di radioattivita'.
 
-Indirizzo didattico:
+3° Anno:
 
-Fisica terrestre.
+applicazioni diagnostiche II;
 
-Indirizzo applicativo:
+applicazioni terapeutiche;
 
-Fisica terrestre.
+radioprotezione e legislazione applicate.
 
-Nello stesso art. 58 le propedeuticita' dei punti 2) e 3) sono cosi' modificate:
+Art. 397. - I singoli insegnamenti saranno tenuti da uno o piu' docenti a seconda di quanto opportuno al loro miglior svolgimento.
 
-2) L'esame di geometria I deve precedere quello di geometria II e questo deve precedere l'esame di istituzioni di geometria superiore.
+Art. 398. - Il numero massimo di allievi iscrivibili in corso e' di quindici complessivamente.
 
-3) L'esame di meccanica razionale deve precedere quello di istituzioni di fisica matematica.
+Art. 399. - La frequenza pratica e' obbligatoria (dieci mesi all'anno) e deve avvenire in reparti riconosciuti idonei dal consiglio della scuola.
 
-Art. 59: all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali e' aggiunto quello di "Paleontologia vegetale".
+L'insegnamento verra' svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento aperti anche a specialisti, ecc. Gli allievi, per essere ammessi a sostenere gli esami di profitto annuali dovranno avere la firma di frequenza da parte del direttore della scuola.
 
-Art. 63: e' aggiunto il seguente comma: "Oltre alle esercitazioni che sono comprese fra i corsi fondamentali per le lauree in scienze naturali, scienze biologiche, scienze geologiche, col manifesto degli studi saranno prescritte annualmente altre esercitazioni e le eventuali prove per quegli insegnamenti per i quali siano ritenute opportune dalla facolta'".
+Art. 400. - Gli allievi per conseguire il diploma di specializzazione, oltre ad essere stati approvati in tutti gli esami, dovranno elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola.
 
-Art. 104: all'elenco degli insegnamenti complementari della scuola di perfezionamento in storia, indirizzo storia antica, sono aggiunti:
+Dopo l'art. 415, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in patologia generale e in neurofisiopatologia.
 
-Storia del mediterraneo antico-orientale;
+Scuola di specializzazione in patologia generale
 
-Storia dell'economia antica;
+Art. 416. - La scuola di specializzazione in patologia generale ha sede presso l'istituto di patologia generale della facolta' di medicina e chirurgia.
 
-Esegesi delle fonti di storia greca e romana.
+Il corso degli studi ha la durata di quattro anni, suddiviso in due bienni.
+
+Gli allievi che non conseguono le attestazioni di frequenza non potranno essere ammessi a sostenere le singole prove di esame.
+
+Art. 417. - Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia, ai quali, dopo il superamento dell'esame finale, sara' rilasciato il diploma di specializzazione in patologia generale.
+
+Art. 418. - Alla scuola stessa vengono inoltre ammessi i laureati in medicina veterinaria, in scienze biologiche, in scienze naturali, in farmacia, in chimica e tecnologie farmaceutiche, ai quali, dopo il superamento dell'esame finale, sara' rilasciato il diploma di specializzazione in patologia generale con indirizzo tecnico.
+
+Art. 419. - Il numero complessivo degli iscritti non potra' essere superiore ad ottanta per i quattro anni di corso.
+
+Art. 420. - Le materie di insegnamento sono le seguenti:
+
+PRIMO BIENNIO
+
+(propedeutico)
+
+1° Anno:
+
+istituzioni di patologia generale;
+
+patologia delle infezioni;
+
+epidemiologia e patologia ambientale;
+
+immunologia;
+
+parassitologia e diagnostica parassitologica.
+
+2° Anno:
+
+radiobiologia e patologia da radiazioni;
+
+oncologia generale;
+
+immunopatologia e analisi immunologiche;
+
+analisi chimico-cliniche;
+
+fisiopatologia generale I (metabolismo e sistema endocrino).
+
+SECONDO BIENNIO
+
+(conseguimento del diploma di specializzazione in patologia generale)
+
+3° Anno:
+
+diagnostica di laboratorio di citopatologia e citogenetica;
+
+diagnostica di laboratorio di batteriologia e virologia;
+
+fisiopatologia generale II (termoregolazione, sistema cardiocircolatorio, sangue ed organi emopoietici).
+
+4° Anno:
+
+diagnostica oncologica;
+
+diagnostica istopatologica;
+
+diagnostica ultrastrutturale;
+
+fisiopatologia generale III (fegato, sistema digerente, renale, respiratorio).
+
+SECONDO BIENNIO
+
+(conseguimento del diploma di specializzazione in patologia generale con indirizzo tecnico)
+
+3° Anno:
+
+tecniche di batteriologia;
+
+tecniche di virologia;
+
+tecniche di citologia e citogenetica.
+
+4° Anno:
+
+statistica e biometria;
+
+colture in vitro: aspetti biologici ed applicativi;
+
+tecniche ematologiche;
+
+tecniche istologiche ed ultrastrutturali.
+
+Art. 421. - Il direttore puo' stabilire, per un piu' proficuo conseguimento dei fini della scuola, che siano tenuti corsi complementari e conferenze su materie ed argomenti che abbiano attinenza o affinita' con gli insegnamenti impartiti nella scuola stessa.
+
+Art. 422. - Per conseguire il diploma di specializzazione, al termine del corso quadriennale, oltre ad aver superato tutti gli esami delle singole materie, e' obbligatorio sostenere l'esame finale su una dissertazione scritta, preferibilmente di carattere sperimentale.
+
+Scuola di specializzazione in neurofisiopatologia
+
+Art. 423. - La scuola di specializzazione in neurofisiopatologia ha sede presso la facolta' di medicina e chirurgia e conferisce il diploma di specializzazione in neurofisiopatologia.
+
+Art. 424. - La durata del corso e' di tre anni accademici.
+
+Art. 425. - Il numero massimo degli allievi iscrivibili e' di trenta complessivamente per l'intero corso di studi.
+
+Art. 426. - Gli insegnamenti impartiti nella scuola sono:
+
+1° Anno:
+
+neuroanatomia;
+
+neurofisiologia;
+
+elementi di fisica ed elettronica biomedica;
+
+informatica e statistica biomedica;
+
+neurochimica;
+
+neurofarmacologia.
+
+2° Anno:
+
+neurofisiopatologia I;
+
+neurologia clinica;
+
+psichiatria clinica;
+
+neurochirurgia;
+
+neuroradiologia;
+
+elettroencefalografia I.
+
+3° Anno:
+
+neurofisiopatologia II;
+
+elettroencefalografia II;
+
+elettromiografia;
+
+tecniche speciali di diagnostica strumentale del sistema nervoso;
+
+elettrodiagnostica ed elettroterapia.
+
+Art. 427. - Per le discipline svolte in corsi pluriennali l'esame deve essere sostenuto anno per anno.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 19 maggio 1971
+Dato a Roma, addi' 31 ottobre 1978
 
-SARAGAT
+PERTINI
 
-MISASI
+PEDINI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: BONIFACIO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 20 agosto 1971 Atti del Governo, registro n. 243, foglio n. 150. - PASQUALUCCI
+alla Corte dei conti, addi' 23 aprile 1979 Registro n. 27 Istruzione, foglio n. 36
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
+Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 155 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono aggiunte le scuole di specializzazione in patologia generale e in neurofisiopatologia.  
+Il secondo comma dell'art. 297, relativo alla scuola di specializzazione in igiene e medicina preventiva, di cui al [decreto del Presidente della Repubblica 31 ottobre 1977, n. 1140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-10-31;1140), e' soppresso e sostituito dal seguente:  
   
-Art. 29: all'elenco degli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di "Storia delle tecniche artistiche".  
-Art. 30: all'elenco degli insegnamenti complementari del corso di laurea in filosofia e' aggiunto quello di "Storia della logica".  
-Art. 46: all'elenco degli insegnamenti complementari del corso di laurea in pedagogia e' aggiunto quello di "Storia della filosofia morale".  
-Art. 50: all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:  
-Gastroenterologia;  
-Epidemiologia.  
-Art. 58, relativo al corso di laurea in matematica, nell'elenco degli insegnamenti obbligatori per il secondo biennio l'insegnamento di "Calcolo numerico" (con esercitazioni) dal 4° anno passa al 3° anno, mentre lo insegnamento complementare di cui al n. 4) passa dal 3° al 4° anno.  
-All'elenco degli insegnamenti complementari del II gruppo sono aggiunti i seguenti:  
+Il numero massimo di allievi iscrivibili e' di trenta per ogni anno di corso.  
+Gli articoli 394, 395, 396, 397, 398, 399, 400, 401 e 402, relativi alla scuola di specializzazione in medicina nucleare, sono soppressi e sostituiti dai seguenti, con il conseguente spostamento della numerazione degli articoli successivi:  
   
-Indirizzo generale:  
-Geometria differenziale;  
-Logica matematica;  
-Teoria del potenziale.  
+Scuola di specializzazione in medicina nucleare  
   
-Indirizzo didattico:  
-Didattica della fisica;  
-Didattica delle scienze naturali.  
+Art. 394. - La scuola di specializzazione in medicina nucleare ha sede presso l'istituto scientifico di medicina interna della facolta' di medicina e chirurgia.  
+Art. 395. - La scuola conferisce il diploma di specializzazione in medicina nucleare.  
+Gli anni di studio necessari per conseguire detto diploma sono tre.  
+Art. 396. - Gli insegnamenti per il conseguimento del diploma di specializzazione in medicina nucleare sono cosi' distribuiti nei tre anni di corso:  
+1° Anno:  
+fisica: con richiami di matematica, nozioni di statistica, informatica e dosimetria;  
+radiobiologia, legislazione e norme generali di radioprotezione;  
+tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;  
+nozioni di anatomia e fisiologia generale.  
+2° Anno:  
+teoria dei traccianti;  
+elementi di radiochimica;  
+applicazioni diagnostiche I;  
+tecniche di misure di radioattivita'.  
+3° Anno:  
+applicazioni diagnostiche II;  
+applicazioni terapeutiche;  
+radioprotezione e legislazione applicate.  
+Art. 397. - I singoli insegnamenti saranno tenuti da uno o piu' docenti a seconda di quanto opportuno al loro miglior svolgimento.  
+Art. 398. - Il numero massimo di allievi iscrivibili in corso e' di quindici complessivamente.  
+Art. 399. - La frequenza pratica e' obbligatoria (dieci mesi all'anno) e deve avvenire in reparti riconosciuti idonei dal consiglio della scuola.  
+L'insegnamento verra' svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento aperti anche a specialisti, ecc. Gli allievi, per essere ammessi a sostenere gli esami di profitto annuali dovranno avere la firma di frequenza da parte del direttore della scuola.  
+Art. 400. - Gli allievi per conseguire il diploma di specializzazione, oltre ad essere stati approvati in tutti gli esami, dovranno elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola.  
+Dopo l'art. 415, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in patologia generale e in neurofisiopatologia.  
   
-Indirizzo applicativo:  
-Linguaggi programmativi e programmazione;  
-Struttura dei calcolatori.  
+Scuola di specializzazione in patologia generale  
   
-Nello stesso elenco sono soppressi i seguenti insegnamenti:  
+Art. 416. - La scuola di specializzazione in patologia generale ha sede presso l'istituto di patologia generale della facolta' di medicina e chirurgia.  
+Il corso degli studi ha la durata di quattro anni, suddiviso in due bienni.  
+Gli allievi che non conseguono le attestazioni di frequenza non potranno essere ammessi a sostenere le singole prove di esame.  
+Art. 417. - Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia, ai quali, dopo il superamento dell'esame finale, sara' rilasciato il diploma di specializzazione in patologia generale.  
+Art. 418. - Alla scuola stessa vengono inoltre ammessi i laureati in medicina veterinaria, in scienze biologiche, in scienze naturali, in farmacia, in chimica e tecnologie farmaceutiche, ai quali, dopo il superamento dell'esame finale, sara' rilasciato il diploma di specializzazione in patologia generale con indirizzo tecnico.  
+Art. 419. - Il numero complessivo degli iscritti non potra' essere superiore ad ottanta per i quattro anni di corso.  
+Art. 420. - Le materie di insegnamento sono le seguenti:  
   
-Indirizzo didattico:  
-Fisica terrestre.  
+PRIMO BIENNIO  
+(propedeutico)  
   
-Indirizzo applicativo:  
-Fisica terrestre.  
+1° Anno:  
+istituzioni di patologia generale;  
+patologia delle infezioni;  
+epidemiologia e patologia ambientale;  
+immunologia;  
+parassitologia e diagnostica parassitologica.  
+2° Anno:  
+radiobiologia e patologia da radiazioni;  
+oncologia generale;  
+immunopatologia e analisi immunologiche;  
+analisi chimico-cliniche;  
+fisiopatologia generale I (metabolismo e sistema endocrino).  
   
-Nello stesso art. 58 le propedeuticita' dei punti 2) e 3) sono cosi' modificate:  
-2) L'esame di geometria I deve precedere quello di geometria II e questo deve precedere l'esame di istituzioni di geometria superiore.  
-3) L'esame di meccanica razionale deve precedere quello di istituzioni di fisica matematica.  
-Art. 59: all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali e' aggiunto quello di "Paleontologia vegetale".  
-Art. 63: e' aggiunto il seguente comma: "Oltre alle esercitazioni che sono comprese fra i corsi fondamentali per le lauree in scienze naturali, scienze biologiche, scienze geologiche, col manifesto degli studi saranno prescritte annualmente altre esercitazioni e le eventuali prove per quegli insegnamenti per i quali siano ritenute opportune dalla facolta'".  
-Art. 104: all'elenco degli insegnamenti complementari della scuola di perfezionamento in storia, indirizzo storia antica, sono aggiunti:  
-Storia del mediterraneo antico-orientale;  
-Storia dell'economia antica;  
-Esegesi delle fonti di storia greca e romana.  
+SECONDO BIENNIO  
+(conseguimento del diploma di specializzazione in patologia generale)   
+3° Anno:  
+diagnostica di laboratorio di citopatologia e citogenetica;  
+diagnostica di laboratorio di batteriologia e virologia;  
+fisiopatologia generale II (termoregolazione, sistema cardiocircolatorio, sangue ed organi emopoietici).  
+4° Anno:  
+diagnostica oncologica;  
+diagnostica istopatologica;  
+diagnostica ultrastrutturale;  
+fisiopatologia generale III (fegato, sistema digerente, renale, respiratorio).  
+  
+SECONDO BIENNIO  
+(conseguimento del diploma di specializzazione in patologia generale con indirizzo tecnico)  
+  
+3° Anno:  
+tecniche di batteriologia;  
+tecniche di virologia;  
+tecniche di citologia e citogenetica.  
+4° Anno:  
+statistica e biometria;  
+colture in vitro: aspetti biologici ed applicativi;  
+tecniche ematologiche;  
+tecniche istologiche ed ultrastrutturali.  
+Art. 421. - Il direttore puo' stabilire, per un piu' proficuo conseguimento dei fini della scuola, che siano tenuti corsi complementari e conferenze su materie ed argomenti che abbiano attinenza o affinita' con gli insegnamenti impartiti nella scuola stessa.  
+Art. 422. - Per conseguire il diploma di specializzazione, al termine del corso quadriennale, oltre ad aver superato tutti gli esami delle singole materie, e' obbligatorio sostenere l'esame finale su una dissertazione scritta, preferibilmente di carattere sperimentale.  
+  
+Scuola di specializzazione in neurofisiopatologia  
+  
+Art. 423. - La scuola di specializzazione in neurofisiopatologia ha sede presso la facolta' di medicina e chirurgia e conferisce il diploma di specializzazione in neurofisiopatologia.  
+Art. 424. - La durata del corso e' di tre anni accademici.  
+Art. 425. - Il numero massimo degli allievi iscrivibili e' di trenta complessivamente per l'intero corso di studi.  
+Art. 426. - Gli insegnamenti impartiti nella scuola sono:  
+1° Anno:  
+neuroanatomia;  
+neurofisiologia;  
+elementi di fisica ed elettronica biomedica;  
+informatica e statistica biomedica;  
+neurochimica;  
+neurofarmacologia.  
+2° Anno:  
+neurofisiopatologia I;  
+neurologia clinica;  
+psichiatria clinica;  
+neurochirurgia;  
+neuroradiologia;  
+elettroencefalografia I.  
+3° Anno:  
+neurofisiopatologia II;  
+elettroencefalografia II;  
+elettromiografia;  
+tecniche speciali di diagnostica strumentale del sistema nervoso;  
+elettrodiagnostica ed elettroterapia.  
+Art. 427. - Per le discipline svolte in corsi pluriennali l'esame deve essere sostenuto anno per anno.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 maggio 1971
+### Dato a Roma, addi' 31 ottobre 1978
 
-SARAGAT MISASI
+PERTINI PEDINI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 20 agosto 1971
+Registrato alla Corte dei conti, addi' 23 aprile 1979
 
-Atti del Governo, registro n. 243, foglio n. 150. - PASQUALUCCI
+Registro n. 27 Istruzione, foglio n. 36

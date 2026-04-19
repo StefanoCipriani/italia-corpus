@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1976 n. 149
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1978 n. 517
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1976 n. 149
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1978 n. 517
+=============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare un legato.
 -------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-149. Decreto del Presidente della Repubblica 6 marzo 1976, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il legato disposto dal sig. Ambrogio Galli con testamento olografo a rogito dott. Giuseppe Gambaro, notaio in Cremona, pubblicato il 4 luglio 1970, n. 13295/7107 di repertorio ed ivi registrato il 17 luglio 1970, n. 2024 di repertorio, volume 290.1.3.510, consistente nel valore di un decimo netto dell'azienda agricola "Lamma", con scorte vive e morte, della superficie di Ha 70.18.70, sita nel comune di Sabbioneta (Mantova).  
+517. Decreto del Presidente della Repubblica 25 luglio 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Elisa Ardaine ved.  
+Salvaneschi con testamento olografo 18 ottobre 1954, pubblicato a rogito notaio dott. Federico Bottino di Torino in data 22 maggio 1974, n. 32091 di repertorio e n. 6350 di raccolta, registrato a Torino il 1° giugno 1974 al n. 17974, vol. 1275, consistente nei proventi dei diritti letterari sulle opere del dott. Salvaneschi Giovanni detto Nino, il cui importo per l'anno 1973 e' stato di L. 217.616 e per gli anni successivi si presume in L. 200.000.   
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 20 aprile 1976  
-Atti di Governo, registro n. 5, foglio n. 19
+Visto, il Guardasigilli: BONIFACIO   
+Registrato alla Corte dei conti, addi' 30 agosto 1978   
+Registro n. 6 Presidenza, foglio n. 163

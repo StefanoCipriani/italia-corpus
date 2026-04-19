@@ -1,143 +1,84 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1955 n. 957
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1972 n. 1157
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1955 n. 957
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1972 n. 1157
+===============================================================
 
 Modificazioni allo statuto dell'Istituto universitario di magistero di Catania.
 -------------------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Istituto universitario di magistero di Catania, approvato con [decreto del Presidente della Repubblica del 18 settembre 1951, n. 110](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-09-18;110);
-
-Veduto il testo unico delle leggi sul istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Istituto anzidetto;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Istituto universitario di magistero di Catania, approvato con il decreto sopraindicato, e' ulteriormente modificato come appresso:
-
-Art. 7. - La lettera c) e' sostituita dalla seguente:
-
-c) delibera, secondo le proposte del Consiglio dei professori, sul modo di provvedere alle cattedre vacanti, stabilmente o mediante incarichi.
-
-L'art. 10 e' abrogato e sostituito dal seguente:
-
-Art. 10. - Il Consiglio direttivo ha funzioni amministrative, si compone di tutti i professori di ruolo ed e' assistito dal direttore amministrativo il quale funge da segretario ed ha voto consultivo.
-
-Il Consiglio direttivo:
-
-a) fa le sue proposte sul modo di provvedere alle cattedre vacanti o stabilmente a norma di legge o mediante incarichi, entro i limiti dell'organico;
-
-b) fa proposte e da' pareri su provvedimenti relativi allo stato giuridico dei professori incaricati;
-
-c) esercita tutte le attribuzioni che gli sono demandate dal presente statuto.
-
-L'art. 11 e' abrogato e sostituito dal seguente:
-
-Art. 11. - Il Consiglio dei professori regola la parte didattica, e si compone di tutti i professori di ruolo dell'Istituto, il meno anziano dei quali funge da segretario. Il Consiglio dei professori:
-
-a) provvede alle cattedre vacanti da ricoprire o stabilmente a norma di legge o mediante incarichi;
-
-b) coordina i programmi d'insegnamento secondo le esigenze didattiche dei vari corsi;
-
-c) delibera sugli orari delle lezioni ed esercitazioni dei singoli corsi e determina l'orario generale dell'Istituto;
-
-d) da' pareri su qualsiasi argomento di carattere generale e concernente l'ordinamento didattico e disciplinare dell'Istituto;
-
-e) esercita tutte le altre attribuzioni che gli sono demandate dal presente statuto.
-
-L'art. 20 e' abrogato e sostituito dal presente:
-
-Art. 20. - Il conferimento degli incarichi e di insegnamento e delle supplenze e' deliberato dal Consiglio di amministrazione su proposta del Consiglio dei professori.
-
-Art. 27. - Il comma secondo ed ultimo e' abrogato e sostituito dal seguente:
-
-Ciascun professore puo' disporre di due assistenti volontari.
-
-Art. 43. - L'ultimo comma e' abrogato e sostituito dal seguente:
-
-La dissertazione scritta deve essere presentata in quadruplice copia alla segreteria dell'Istituto un mese prima della data fissata per l'esame.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 25 settembre 1955
-
-GRONCHI
-
-ROSSI
-
-Visto, il Guardasigilli: MORO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 25 ottobre 1955 Atti del Governo, registro n. 93, foglio n. 85. - CARLOMAGNO
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Istituto universitario di magistero di Catania, approvato con [decreto del Presidente della Repubblica del 18 settembre 1951, n. 110](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-09-18;110);  
-Veduto il testo unico delle leggi sul istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Istituto anzidetto;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Istituto universitario di magistero di Catania, approvato con [decreto del Presidente della Repubblica 18 settembre 1951, n. 1160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-09-18;1160) e modificato con [decreto del Presidente della Repubblica 25 settembre 1955, n. 957](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-25;957), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'istituto universitario anzidetto;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Istituto universitario di magistero di Catania, approvato con il decreto sopraindicato, e' ulteriormente modificato come appresso:  
-Art. 7. - La lettera c) e' sostituita dalla seguente:  
-c) delibera, secondo le proposte del Consiglio dei professori, sul modo di provvedere alle cattedre vacanti, stabilmente o mediante incarichi.  
-L'art. 10 e' abrogato e sostituito dal seguente:  
-Art. 10. - Il Consiglio direttivo ha funzioni amministrative, si compone di tutti i professori di ruolo ed e' assistito dal direttore amministrativo il quale funge da segretario ed ha voto consultivo.  
-Il Consiglio direttivo:  
-a) fa le sue proposte sul modo di provvedere alle cattedre vacanti o stabilmente a norma di legge o mediante incarichi, entro i limiti dell'organico;  
-b) fa proposte e da' pareri su provvedimenti relativi allo stato giuridico dei professori incaricati;  
-c) esercita tutte le attribuzioni che gli sono demandate dal presente statuto.  
-L'art. 11 e' abrogato e sostituito dal seguente:  
-Art. 11. - Il Consiglio dei professori regola la parte didattica, e si compone di tutti i professori di ruolo dell'Istituto, il meno anziano dei quali funge da segretario. Il Consiglio dei professori:  
-a) provvede alle cattedre vacanti da ricoprire o stabilmente a norma di legge o mediante incarichi;  
-b) coordina i programmi d'insegnamento secondo le esigenze didattiche dei vari corsi;  
-c) delibera sugli orari delle lezioni ed esercitazioni dei singoli corsi e determina l'orario generale dell'Istituto;  
-d) da' pareri su qualsiasi argomento di carattere generale e concernente l'ordinamento didattico e disciplinare dell'Istituto;  
-e) esercita tutte le altre attribuzioni che gli sono demandate dal presente statuto.  
-L'art. 20 e' abrogato e sostituito dal presente:  
-Art. 20. - Il conferimento degli incarichi e di insegnamento e delle supplenze e' deliberato dal Consiglio di amministrazione su proposta del Consiglio dei professori.  
-Art. 27. - Il comma secondo ed ultimo e' abrogato e sostituito dal seguente:  
+Lo statuto dell'Istituto universitario di magistero di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato nel senso che le tabelle 2, 3, 4, 5, 6, 7 e 8 relative al personale non insegnante sono abrogate e sostituite dalle seguenti:   
   
-Ciascun professore puo' disporre di due assistenti volontari.  
-Art. 43. - L'ultimo comma e' abrogato e sostituito dal seguente:  
+TABELLA 2   
   
-La dissertazione scritta deve essere presentata in quadruplice copia alla segreteria dell'Istituto un mese prima della data fissata per l'esame.  
+ORGANICO DELLA CARRIERA DIRETTIVA DEGLI UFFICI AMMINISTRATIVI   
+  
+Parte di provvedimento in formato grafico  
+  
+TABELLA 3   
+  
+ORGANICO DELLA CARRIERA DI CONCETTO DEL PERSONALE AMMINISTRATIVO   
+  
+Parte di provvedimento in formato grafico  
+  
+TABELLA 4   
+  
+  
+ORGANICO DELLA CARRIERA DIRETTIVA ORDINARIA   
+DEI DIRETTORI DI RAGIONERIA   
+  
+Parte di provvedimento in formato grafico  
+  
+TABELLA 5   
+  
+ORGANICO DELLA CARRIERA DI CONCETTO DEL PERSONALE DI RAGIONERIA   
+  
+Parte di provvedimento in formato grafico  
+  
+TABELLA 6   
+  
+ORGANICO DELLA CARRIERA ESECUTIVA   
+  
+Parte di provvedimento in formato grafico  
+  
+TABELLA 7   
+  
+ORGANICO DEL PERSONALE AUSILIARIO   
+  
+Parte di provvedimento in formato grafico  
+  
+TABELLA 8   
+  
+ORGANICO DEL PERSONALE DI BIBLIOTECA   
+  
+Parte di provvedimento in formato grafico  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto
+------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 settembre 1955
+### nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-GRONCHI ROSSI
+Dato a Roma, addi' 2 ottobre 1972 LEONE SCALFARO
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 25 ottobre 1955
+Registrato alla Corte dei conti, addi' 5 maggio 1973
 
-Atti del Governo, registro n. 93, foglio n. 85. - CARLOMAGNO
+Atti di Governo, registro n. 258, foglio n. 9 - VALENTINI

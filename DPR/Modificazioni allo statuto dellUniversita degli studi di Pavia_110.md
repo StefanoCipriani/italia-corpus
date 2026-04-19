@@ -1,67 +1,115 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 712
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1982 n. 803
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 712
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1982 n. 803
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Pavia, approvato e' modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Dopo l'art. 216 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in patologia generale:  
-  
-Scuola di specializzazione in patologia generale  
-  
-Art. 217. - Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia, in scienze biologiche o di altre facolta' nel cui ordinamento degli studi e' inserito l'insegnamento di patologia generale.  
-Il corso ha la durata di tre anni. Esso ha sede presso l'istituto di patologia generale.  
-Le iscrizioni ai singoli anni non potranno superare il numero di trenta.  
-Nel caso di eccedenza di domande, la scelta tra i richiedenti sara' fatta in base a concorso interno, per esame; gli aspiranti hanno l'obbligo di accertarsi presso l'istituto della eventuale data del concorso.  
-A giudizio del direttore, entro il numero stabilito per i singoli anni di corso, possono essere ammessi al 2° corso direttamente, i richiedenti sufficientemente forniti di titoli attinenti alla patologia generale (assistenti di patologia generale o materie affini; specializzati in altre discipline affini alla patologia generale, ecc.). I candidati non riconosciuti idonei all'esame di diploma potranno ripresentarsi dopo un altro anno di frequenza alla scuola. Ma se al secondo esame non sia loro riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove.  
-Art. 218. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-1) Eziologia generale (cause patogene: fisiche, chimiche e biologiche);  
-2) Patologia istochimica;  
-3) Patologia delle infezioni;  
-4) Laboratorio di patologia generale (triennale).  
-2° Anno:  
-5) Patologia dell'infezione;  
-6) Immunologia;  
-7) Fisiopatologia sistemica (biennale); (fisiopatologia della termoregolazione, del cuore e dei vasi, della respirazione);  
-8) Patologia del metabolismo (dei protidi, dei lipidi, dell'acqua e dei minerali e dei bioregolatori);  
-9) Laboratorio di patologia generale.  
-3° Anno:  
-10) Fisiopatologia sistemica (della digestione, del rene, del sangue e del sistema neuro-endocrino);  
-11) Patologia oncologica;  
-12) Laboratorio di patologia generale.  
-Alla fine di ogni anno saranno sostenuti gli esami di ciascuna delle materie suindicate.  
-Per conseguire il diploma di specializzazione in patologia generale, al termine del corso triennale oltre ad aver superato tutti gli esami nelle singole materie, e' di obbligo presentare una dissertazione scritta, preferibilmente di carattere sperimentale, elaborata nello istituto.  
+Nell'art. 33, relativo al corso di laurea in scienze politiche, sono aggiunti i seguenti nuovi insegnamenti:  
+amministrazione comparata;  
+demografia sociale;  
+diritto costituzionale;  
+diritto e legislazione bancaria;  
+diritto pubblico dei Paesi socialisti;  
+diritto pubblico dell'economia;  
+diritto pubblico generale;  
+economia applicata;  
+economia e politica del lavoro;  
+economia e politica del territorio;  
+economia e politica industriale;  
+finanza degli enti locali;  
+metodologia e tecnica della ricerca sociale;  
+partiti e gruppi di pressione;  
+relazioni internazionali;  
+sistema politico italiano;  
+sociologia dei Paesi in via di sviluppo;  
+sociologia dei processi culturali;  
+sociologia dell'organizzazione;  
+statistica aziendale e analisi di mercato;  
+storia del giornalismo e dell'informazione;  
+storia dell'amministrazione pubblica;  
+storia dell'Africa sub-sahariana;  
+storia dell'Asia sud-orientale;  
+storia della Chiesa nell'eta' moderna e contemporanea;  
+storia dell'India contemporanea;  
+storia delle istituzioni e delle dottrine politiche;  
+storia delle istituzioni militari;  
+storia dell'espansione coloniale e della decolonizzazione;  
+storia del movimento contadino;  
+storia del pensiero politico antico;  
+storia del pensiero politico medievale;  
+storia del pensiero politico moderno e contemporaneo;  
+storia del Risorgimento e dell'eta' contemporanea;  
+storia e legislazione delle istituzioni scolastiche;  
+storia moderna e contemporanea del Giappone;  
+storia moderna e contemporanea della Cina;  
+storia sociale;  
+tecniche di ricerca ed elaborazione dei dati.  
+Nello stesso articolo sono soppressi i seguenti insegnamenti:  
+controlli costituzionali;  
+diritto pubblico comparato degli Stati africani;  
+diritto pubblico romano;  
+economia aziendale;  
+economia dei Paesi afro-asiatici;  
+etnologia;  
+filosofia della scienza;  
+logica;  
+paleografia e diplomatica;  
+pedagogia;  
+psicologia;  
+sociologia applicata;  
+storia antica;  
+storia del cristianesimo;  
+storia medioevale;  
+storia moderna e contemporanea dell'Iran e dell'Asia centrale;  
+storia e tecnica dei mezzi di informazione;  
+tecnica degli scambi internazionali;  
+storia moderna e contemporanea dell'Asia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 settembre 1972
+### Dato a Roma, addi' 15 luglio 1982
 
-LEONE SCALFARO
+PERTINI BODRATO
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 21 novembre 1972
+Registrato alla Corte dei conti, addi' 26 ottobre 1982
 
-Atti del Governo, registro n. 253, foglio n. 60. - CARUSO
+Registro n. 121 Istruzione, foglio n. 44

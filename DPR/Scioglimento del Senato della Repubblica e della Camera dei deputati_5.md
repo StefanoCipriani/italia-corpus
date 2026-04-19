@@ -1,13 +1,13 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1963 n. 62
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1968 n. 128
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1963 n. 62
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1968 n. 128
+============================================================
 
 Scioglimento del Senato della Repubblica e della Camera dei deputati.
 ---------------------------------------------------------------------
 
-Entrata in vigore del provvedimento: 18/2/1963.
+Entrata in vigore del provvedimento: 11/3/1968.
 
 Art. 1
 ------
@@ -22,11 +22,11 @@ Decreta:
 Il Senato della Repubblica e la Camera dei deputati sono sciolti.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservano e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 febbraio 1963
+### Dato a Roma, addi' 11 marzo 1968
 
-SEGNI FANFANI
+SARAGAT MORO
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: REALE

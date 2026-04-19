@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 922
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 942
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 922
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 942
+================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
@@ -39,21 +39,20 @@ Articolo unico
 --------------
 
   
-Nell'art. 43, relativo al corso di laurea in lettere della facolta' di lettere e filosofia, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
-geografia linguistica.  
+Nell'art. 55, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+medicina del traffico;  
+embriologia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1985
+### Dato a Selva di Val Gardena, addi' 2 settembre 1983
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 14 febbraio 1986
+Registrato alla Corte dei conti, addi' 30 gennaio 1984
 
-Registro n. 9 Istruzione, foglio n. 129
+Registro n. 4 Istruzione, foglio n. 392

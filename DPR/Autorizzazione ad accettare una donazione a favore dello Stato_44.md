@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1981 n. 588
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1981 n. 833
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1981 n. 588
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1981 n. 833
+==============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-588. Decreto del Presidente della Repubblica 2 maggio 1981, col quale, sulla proposta del Ministro per i beni culturali ed ambientali, viene autorizzata l'accettazione a favore dello Stato e, per esso, del Ministero per i beni culturali ed ambientali - Ufficio centrale per i beni librari e gli istituti culturali, della donazione, consistente nella biblioteca dell'avv. Filippo Perrone, costituita da 3438 volumi, disposta dai signori Chiurazzi Maria Carmela e Chiurazzi Elio con atto pubblico 13 giugno 1979, n. 322138/1519 di repertorio, a rogito dott. Roberto Sanseverino, notaio in Napoli e registrato a Napoli in data 29 giugno 1979, n. 4363-C.  
+833. Decreto del Presidente della Repubblica 21 ottobre 1981, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato della donazione, consistente in un dipinto dell'autore Gregorio Sciltian, raffigurante "Bacco all'Osteria" il quale riveste un importante interesse artistico, disposta dal gr. uff. Maurizio Adreani, con atto 27 novembre 1978, n. 137047 di repertorio, a rogito del dott. Marco Serpi, notaio in Milano, da destinare alla soprintendenza speciale alla Galleria nazionale d'arte moderna e contemporanea in Roma.  
   
 Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 7 ottobre 1981  
-Registro n. 17 Beni culturali, foglio n. 346
+Registrato alla Corte dei conti, addi' 29 dicembre 1981  
+Registro n. 25 Beni culturali, foglio n. 164

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 ottobre 1979 n. 991
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 agosto 1959 n. 784
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 ottobre 1979 n. 991
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 agosto 1959 n. 784
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regi decreti 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227) e successivi;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,47 +20,125 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla
------
+Sulla proposta del Ministro per la pubblica, istruzione;
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 66. - Agli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti:
+
+"storia della pedagogia", "psicologia dell'eta' evolutiva", "storia della musica", "filosofia morale".
+
+Art. 68. - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di:
+
+"glottologia" e "storia della musica".
+
+Art. 74. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di:
+
+"psichiatria".
+
+Art. 82. - Agli insegnamenti complementari del corso di laurea in scienze matematiche sono aggiunti i seguenti:
+
+"statistica", "onde elettromagnetiche", "algebra".
+
+Art. 84. - Agli insegnamenti complementari del corso di laurea in matematica e fisica sono aggiunti quelli di:
+
+"statistica", "algebra".
+
+Art. 85. - Agli insegnamenti complementari del corso di laurea in chimica (indirizzo organico-biologico, ed inorganico-chimico-fisico), e' aggiunto quello di:
+
+"strutturistica chimica".
+
+Art. 88. - Agli insegnamenti complementari del corso di laurea in scienze geologiche e' aggiunto quello di:
+
+"geologia sedimentaria".
+
+Art. 111. - Agli insegnamenti complementari comuni a tutte le sezioni della Facolta' di ingegneria e' aggiunto quello di:
+
+"servomeccanismi".
+
+All'art. 152, e' aggiunto il seguente comma:
+
+"Alla Scuola e' addetto anche un vice direttore che sara' nominato dal rettore per un triennio su proposta del Consiglio dei professori della Facolta' di giurisprudenza e potra' essere scelto tra i professori titolari di ruolo e fuori ruolo della Facolta' stessa ed anche tra i liberi docenti o incaricati di detta Facolta' o di quella di economia e commercio".
+
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Napoli, addi' 20 agosto 1959
+
+GRONCHI
+
+MEDICI
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 25 settembre 1959 Atti del Governo, registro n. 120, foglio n. 152. - VILLA
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-L'art. 175 dello statuto dell'Universita' di Bologna, relativo al corso di laurea in medicina veterinaria, e' sostituito dal seguente: "I corsi di chimica, anatomia veterinaria sistematica e comparata, fisiologia generale e speciale veterinaria e fisica biologica, anatomia patologica veterinaria generale e speciale, patologia e profilassi delle malattie infettive degli animali domestici, ispezione e controllo delle derrate alimentari di origine animale (carni, latte, pesci, uova), comportano due insegnamenti e due esami distinti (I e II parte); per ciascuno di tali insegnamenti l'esame relativo alla I parte deve precedere quello relativo alla II parte.  
-L'esame di zoologia deve precedere l'esame di anatomia veterinaria sistematica e comparata (I parte) il cui superamento insieme con quello di biochimica, e' condizione indispensabile per l'ammissione all'esame di fisiologia (I parte).  
-L'esame di patologia generale veterinaria deve seguire gli esami di anatomia veterinaria sistematica e comparata, gli esami di fisiologia generale e speciale veterinaria e fisica biologica e di microbiologia generale veterinaria (batteriologia, virologia, immunologia) e deve precedere quelli di anatomia patologica generale e speciale (I parte), di patologia e profilassi delle malattie infettive degli animali domestici (I parte), di patologia medica degli animali domestici (ruminanti, equini, carnivori, suini, pollame, conigli ecc.) di patologia chirurgica veterinaria e podologia e di ostetricia veterinaria.  
-Per essere ammessi agli esami di clinica medica veterinaria e di clinica chirurgica veterinaria lo studente dovra' aver superato gli esami corrispondenti alle rispettive patologia medica degli animali domestici (ruminanti, equidi, carnivori, suini, pollame, conigli ecc.) e patologia chirurgica veterinaria e podologia nonche' gli esami di patologia e profilassi delle malattie infettive degli animali domestici (II parte) e anatomia patologica veterinaria generale e speciale (II parte).  
-Gli esami di alimentazione e nutrizione animale, di farmacologia e farmacodinamica veterinaria, di anatomia patologica veterinaria generale e speciale (I parte) e di parassitologia (compresa micologia, protozoologia, entomologia, elmintologia) debbono precedere quello di patologia aviare.  
-L'esame di ostetricia veterinaria deve precedere quello di clinica ostetrica e ginecologia veterinaria.  
-Agli effetti dell'ammissione agli esami sono altresi' considerati propedeutici: "Anatomia veterinaria sistematica e comparata (I parte) per zootecnia: I igiene, aspetti esteriori degli animali, etnologia, zoologia per zootecnia II), genetica e allevamento, microbiologia generale veterinaria (batteriologia, virologia, immunologia) per patologia e profilassi delle malattie infettive degli animali domestici (I parte); propedeutica I) semeiologia medica veterinaria e metodologia clinica, per patologia medica degli animali domestici (ruminanti, equidi, carnivori, suini, pollame, conigli ecc.), propedeutica II) semeiologia chirurgica veterinaria e metodologia clinica per patologia chirurgica veterinaria e podologia, fisiologia generale e speciale veterinaria e fisica biologica (II parte) per farmacologia e farmacodinamica veterinaria, parassitologia (compresa micologia, protozoologia, entomologia, elmintologia) per malattie parassitarie degli animali domestici; anatomia patologica veterinaria generale e speciale (II parte) per ispezione e controllo delle derrate alimentari di origine animale (carni, latte, pesci, uova, ecc.) II".  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regi decreti 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica, istruzione;  
   
-L'art. 177 e' sostituito dal seguente: "Gli insegnamenti di clinica medica veterinaria di clinica chirurgica veterinaria di clinica ostetrica e ginecologia veterinaria di ispezione e controllo delle derrate alimentari di origine animale (carni, latte, pesci, uova) e delle materie del gruppo zootecnico (zootecnia II), genetica e allevamento e alimentazione e nutrizione animale) debbono essere completati da un tirocinio pratico della durata complessiva di almeno sei mesi presso istituti della facolta' di medicina veterinaria, o presso istituti sperimentali zooprofilattici dipendenti dal Ministero della sanita', o presso istituti zootecnici dipendenti dal Ministero dell'agricoltura e delle foreste o da amministrazioni provinciali o presso macelli riconosciuti idonei dalla facolta' di medicina veterinaria.  
-Il tirocinio pratico deve essere iniziato dopo la chiusura dei corsi di insegnamento del 5° anno e deve essere completato prima che i candidati si presentino a sostenere l'esame di abilitazione all'esercizio professionale.  
-Il periodo di tirocinio pratico e' utilizzabile ai fini del raggiungimento del numero delle ore richieste per gli insegnamenti clinici (clinica medica veterinaria, clinica chirurgica veterinaria, clinica ostetrica e ginecologica veterinaria, patologia aviare)".  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+Art. 66. - Agli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti:  
+"storia della pedagogia", "psicologia dell'eta' evolutiva", "storia della musica", "filosofia morale".  
+  
+Art. 68. - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di:  
+"glottologia" e "storia della musica".  
+  
+Art. 74. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di:  
+"psichiatria".  
+  
+Art. 82. - Agli insegnamenti complementari del corso di laurea in scienze matematiche sono aggiunti i seguenti:  
+"statistica", "onde elettromagnetiche", "algebra".  
+  
+Art. 84. - Agli insegnamenti complementari del corso di laurea in matematica e fisica sono aggiunti quelli di:  
+"statistica", "algebra".  
+  
+Art. 85. - Agli insegnamenti complementari del corso di laurea in chimica (indirizzo organico-biologico, ed inorganico-chimico-fisico), e' aggiunto quello di:  
+"strutturistica chimica".  
+  
+Art. 88. - Agli insegnamenti complementari del corso di laurea in scienze geologiche e' aggiunto quello di:  
+"geologia sedimentaria".  
+  
+Art. 111. - Agli insegnamenti complementari comuni a tutte le sezioni della Facolta' di ingegneria e' aggiunto quello di:  
+"servomeccanismi".  
+  
+All'art. 152, e' aggiunto il seguente comma:  
+"Alla Scuola e' addetto anche un vice direttore che sara' nominato dal rettore per un triennio su proposta del Consiglio dei professori della Facolta' di giurisprudenza e potra' essere scelto tra i professori titolari di ruolo e fuori ruolo della Facolta' stessa ed anche tra i liberi docenti o incaricati di detta Facolta' o di quella di economia e commercio".  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 ottobre 1979
+### Dato a Napoli, addi' 20 agosto 1959
 
-PERTINI VALITUTTI
+GRONCHI MEDICI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 19 dicembre 1980
+Registrato alla Corte dei conti, addi' 25 settembre 1959
 
-Registro n. 120 Istruzione, foglio n. 157
+Atti del Governo, registro n. 120, foglio n. 152. - VILLA

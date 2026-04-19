@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1055
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 giugno 1985 n. 657
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1055
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 giugno 1985 n. 657
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
 ------------------------------------------------------------------------------
@@ -39,23 +39,20 @@ Articolo unico
 --------------
 
   
-  
-Nell'art. 92, all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti insegnamenti:   
-microbiologia applicata;   
-igiene dell'ambiente e del territorio.   
+Art. 59 - nell'elenco degli insegnamenti complementari del corso di laurea in lettere e' inserito l'insegnamento di "grammatica latina".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 dicembre 1985
+### Dato a Roma, addi' 12 giugno 1985
 
-COSSIGA
+PERTINI
 
 FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 16 aprile 1986
+Registrato alla Corte dei conti, addi' 9 novembre 1985
 
-Registro n. 28 Istruzione, foglio n. 234
+Registro n. 74 Istruzione, foglio n. 141

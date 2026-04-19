@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1976 n. 172
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 164
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1976 n. 172
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 164
+===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -10,11 +10,10 @@ Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad ac
 Art. 1
 ------
 
-N.
+n.
 
-172. Decreto del Presidente della Repubblica 2 marzo 1976, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.na Anna Consonni in favore dell'Istituto mutilatini don Gnocchi di Pessano (Milano), dipendente dalla fondazione "Pro juventute don Carlo Gnocchi" come ha fatto presente la fondazione medesima, con testamento olografo 22 febbraio 1969, pubblicato a rogito dott.  
-Domenico Moretti, notaio in Milano, in data 8 ottobre 1971, n. 100725/20815 di repertorio, ed ivi registrato il 16 ottobre 1971 con il n. 17734, vol. G, consistente in un appartamento sito in Gorgonzola (Milano), via Argenzia n. 8, identificato all'ufficio tecnico erariale di Milano con scheda n. 0724779, mapp. 216 - 216-A, e foglio 9, mappali 12 e 74.  
+164. Decreto del Presidente della Repubblica 10 febbraio 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 20.000.000, disposto dalla sig.ra Carugati Margherita con testamento olografo 6 luglio 1971, pubblicato in data 13 gennaio 1984, n. 8303/700 di repertorio, a rogito dott. Antonio Tremolada, notaio in Milano, registrato a Milano in data 19 gennaio 1984 al n. 00808.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 24 aprile 1976  
-Atti di Governo, registro n. 5, foglio n. 38
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 22 aprile 1986  
+Registro n. 4 Presidenza, foglio n. 49

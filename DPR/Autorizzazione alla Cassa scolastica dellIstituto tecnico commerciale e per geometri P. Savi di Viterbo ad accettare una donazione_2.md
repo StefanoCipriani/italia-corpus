@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1953 n. 978
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 agosto 1953 n. 997
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1953 n. 978
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 agosto 1953 n. 997
+=============================================================
 
 Autorizzazione alla Cassa scolastica dell'Istituto tecnico commerciale e per geometri "P. Savi" di Viterbo ad accettare una donazione.
 --------------------------------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-978. Decreto del Presidente della Repubblica 12 settembre 1953, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica dell'Istituto tecnico commerciale e per geometri "P. Savi" di Viterbo, viene autorizzata ad accettare la donazione di nominali L. 30.000 in titoli di Stato, disposta al fine d'istituire, col relativo reddito, un premio di studio intitolato al nome del prof. Drago Carmelo Calogero.  
+997. Decreto del Presidente della Repubblica 25 agosto 1953, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica dell'Istituto tecnico commerciale e per geometri "P. Savi" Viterbo viene autorizzata ad accettare la donazione di nominali L. 30.000 in titoli di Stato, disposta al fine di istituire, col relativo reddito, un annuo premio di studio intitolato al nome del professore Tamburello Antonino.  
   
 Visto, il Guardasigilli: AZARA  
-Registrato alla Corte dei conti, addi' 22 dicembre 1953  
-Atti del Governo, registro n. 80, foglio n. 89. - PALLA
+Registrato alla Corte dei conti, addi' 8 gennaio 1954  
+Atti del Governo, registro n. 81, foglio, n. 7. - PALLA

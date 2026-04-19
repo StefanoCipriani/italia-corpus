@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1964 n. 1295
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 agosto 1959 n. 777
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1964 n. 1295
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 agosto 1959 n. 777
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
@@ -10,13 +10,15 @@ Modificazioni allo statuto dell'Universita' degli studi di Torino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788) e successivi;
 
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
@@ -30,88 +32,177 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Dopo l'art. 197, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in Oncologia annessa alla Facolta' di medicina e chirurgia con il conseguente spostamento della numerazione degli articoli successivi.
+Art. 18. - Agli insegnamenti complementari del corso di laurea in economia e commercio e' aggiunto quello di: "contabilita' nazionale".
 
-Scuola di specializzazione in Oncologia
+Art. 19, relativo alle propedeuticita' degli esami nel corso di laurea in economia e commercio e' modificato nel senso che l'esame di istituzioni di diritto privato non e' propedeutico rispetto all'esame di istituzioni di diritto pubblico.
 
-Art. 188. - La Scuola di specializzazione in Oncologia (con speciale riguardo alla diagnosi ed alla terapia dei tumori), ha lo scopo di perfezionare le conoscenze scientifiche e cliniche di coloro che, nell'ambito dell'esercizio della medicina e chirurgia, intendono dedicarsi particolarmente allo studio, diagnosi e terapia dei tumori.
+Art. 33. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di: "anestesiologia".
 
-La Scuola ha sede presso l'Istituto di oncologia di Torino ed e' diretta dal titolare della cattedra di Clinica chirurgica generale e terapia chirurgica dell'Universita'.
+Art. 36. - E' cosi' modificato: "La Facolta' di scienze matematiche, fisiche e naturali conferisce la laurea in chimica, in chimica industriale, in fisica, in scienze matematiche, in matematica e fisica, in scienza naturali, in scienze biologiche e in scienze geologiche.
 
-Art. 199. - La durata del corso e di anni 2 e vi possono accedere non piu' di 20 iscritti per anno, preferibilmente scelti fra laureati, gia' in possesso di un titolo di specializzazione. Il corso di specializzazione in Oncologia comprende i seguenti insegnamenti:
+Presso la Facolta', e' pure istituito il corso biennale di studi propedeutici ingegneria".
 
-1° Anno:
+Dopo l'art. 44, e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli relativi alla istituzione dei corsi di laurea in scienze biologiche e scienze geologiche.
 
-a) Patologia generale dei tumori;
+N. 7. - Corso di laurea in scienze biologiche
 
-b) Biochimica dei tumori;
+Art. 45. - La durata del corso degli studi per la laurea in scienze biologiche e' di quattro anni.
 
-c) Patologia oncologica speciale (in rapporto con i vari tessuti e vari agenti casuali);
+E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.
 
-d) Clinica medica generale dei tumori;
+Sono insegnamenti fondamentali:
 
-e) Diagnosi e terapia radiologica dei tumori;
+1) istituzioni di matematiche;
 
-f) Clinica chirurgica generale dei tumori.
+2) fisica;
 
-2° Anno:
+3) chimica generale ed inorganica;
 
-a) Diagnostica istologica e citocariologica dei tumori;
+4) chimica organica;
 
-b) Diagnosi precoce dei tumori;
+5) botanica (biennale);
 
-c) Diagnosi precoce dei tumori genitali femminili;
+6) zoologia (biennale);
 
-d) Diagnosi e terapia dei tumori otorinolaringologici;
+7) anatomia comparata;
 
-e) Chirurgia oncologica;
+8) anatomia umana;
 
-f) Gli isotopi radioattivi (elementi generali, nozioni di tecnica radioisotopica, applicazioni cliniche);
+9) istologia ed embriologia;
 
-g) Riscontri anatomo-clinici;
+10) fisiologia generale (biennale);
 
-h) Terapia antalgica dei tumori;
+11) chimica biologica;
 
-i) Registrazione epidemiologica dei tumori.
+12) igiene.
 
-Art. 200. - Le lezioni saranno tenute presso la clinica medica della Universita' di Torino, presso l'Istituto di anatomia patologica dell'Universita', presso la clinica ostetrica e ginecologica dell'Universita', presso la clinica otorinolaringologica dell'Universita', e presso l'Istituto di oncologia di Torino. Le esercitazioni avranno luogo nell'Istituto di clinica chirurgica generale, nell'Istituto di radiologia, nell'Istituto di chimica medica dell'Universita', nell'Istituto di oncologia di Torino, e presso la SORIN (Centri Ricerche Nucleari) di Saluggia.
+Sono insegnamenti complementari:
 
-I corsi e le esercitazioni sono tenuti dai titolari della scuola di specializzazione e, secondo le necessita', dai professori di ruolo delle varie specialita' mediche e chirurgiche.
+1) statistica;
 
-Art. 201. - Gli studenti debbono ottemperare all'obbligo della frequenza, alle lezioni ed alle esercitazioni. Alla fine di ogni anno gli iscritti dovranno superare gli esami dei vari corsi, che saranno tenuti in una unica seduta estiva ed autunnale dai titolari di ogni corso.
+2) chimica fisica;
 
-Per il conseguimento del diploma di specializzazione gli iscritti dovranno presentare e discutere una tesi di specializzazione su argomento oncologico, elaborata presso gli Istituti sopra menzionati, e sotto la sorveglianza di uno dei titolari dei corsi.
+3) paleontologia;
 
-Art. 202. - Gli iscritti alla Scuola sono tenuti al pagamento delle tasse e soprattasse stabilite, e al pagamento di contributi speciali a favore degli Istituti e delle Cliniche in cui si svolgono le lezioni e le esercitazioni.
+4) antropologia;
+
+5) geologia;
+
+6) patologia generale;
+
+7) patologia vegetale:
+
+8) entomologia agraria;
+
+9) fisiologia vegetale;
+
+10) embriologia sperimentale.
+
+Gli insegnamenti biennali di "botanica" e di "zoologia" comprendono tanto la parte generale quanto quella sistematica.
+
+Gli insegnamenti biennali di "zoologia" e di "botanica" importano due esami distinti alla fine di ciascun anno di insegnamento rispettivamente di zoologia generale e di zoologia descrittiva, di botanica generale e di botanica descrittiva; l'insegnamento di fisiologia generale importa un unico esame alla line del biennio.
+
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti fra i complementari.
+
+Lo studente deve inoltre frequentare tre laboratori di scienze biologiche, di cui due annuali ed uno biennale e superare alla fine di ogni anno l'esame relativo alle esercitazioni in essi svolte.
+
+N. 8. - Corso di laurea in scienze geologiche.
+
+Art. 46. - La durata del corso degli studi per la laurea in scienze geologiche e' di quattro anni.
+
+E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.
+
+Sono insegna menti fondamentali:
+
+1) istituzioni di matematiche:
+
+2) fisica sperimentale (biennale);
+
+3) chimica generale ed inorganica con elementi di organica:
+
+4) mineralogia;
+
+5) geologia;
+
+6) geologia applicata;
+
+7) paleontologia;
+
+8) geografia;
+
+9) geografia fisica;
+
+10) topografia e cartografia;
+
+11) fisica terrestre;
+
+12) petrografia.
+
+Sono insegnamenti complementari:
+
+1) chimica fisica;
+
+2) geochimica;
+
+3) disegno;
+
+4) botanica;
+
+5) zoologia;
+
+6) analisi matematica (algebrica, e infinitesimale) biennale;
+
+7) meccanica razionale con elementi di statica grafica e disegno;
+
+8) astronomia;
+
+9) statistica.
+
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti fra i complementari.
+
+Lo studente deve inoltre frequentare i corsi di esercitazioni di tre laboratori di scienze geologiche, di cui due annuali (uno di questi sara' dedicato al rilevamento geologico sul terreno) ed uno biennale, e superare alla fine di ogni anno l'esame relativo alle esercitazioni in essi svolte.
+
+Sono aboliti gli ultimi due capoversi dell'art. 45 del vigente statuto, sostituiti con quanto segue:
+
+Per il corso di laurea in scienze geologiche:
+
+l'esame di istituzioni di matematiche deve precedere quello di fisica;
+
+gli esami di istituzioni di matematiche, di chimica generale ed inorganica con elementi di organica e di fisica sperimentale, devono precedere quello di mineralogia;
+
+l'esame di mineralogia deve precedere quello di petrografia;
+
+gli esami di petrografia e di paleontologia devono precedere quello di geologia.
+
+Precede l'esame di laurea nei singoli rami sopraelencati, un saggio orale di cultura generale rispettivamente in chimica, in fisica, in scienze matematiche, in matematica e fisica, in scienze naturali, in scienze biologiche e in scienze geologiche.
+
+Art. 56. - Agli insegnamenti complementari del corso di laurea in agraria e' aggiunto quello di: "orticoltura e floricoltura".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 27 ottobre 1964
+Dato a Napoli, addi' 20 agosto 1959
 
-Per il Presidente della Repubblica
+GRONCHI
 
-Il Presidente del Senato
+MEDICI
 
-MERZAGORA
-
-GUI
-
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 5 dicembre 1964 Atti del Governo, registro n. 188, foglio n. 188. - VILLA
+alla Corte dei conti, addi' 28 settembre 1959 Atti del Governo, registro n. 120, foglio n. 161. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -121,44 +212,100 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Dopo l'art. 197, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in Oncologia annessa alla Facolta' di medicina e chirurgia con il conseguente spostamento della numerazione degli articoli successivi.  
-Scuola di specializzazione in Oncologia  
-Art. 188. - La Scuola di specializzazione in Oncologia (con speciale riguardo alla diagnosi ed alla terapia dei tumori), ha lo scopo di perfezionare le conoscenze scientifiche e cliniche di coloro che, nell'ambito dell'esercizio della medicina e chirurgia, intendono dedicarsi particolarmente allo studio, diagnosi e terapia dei tumori.  
-La Scuola ha sede presso l'Istituto di oncologia di Torino ed e' diretta dal titolare della cattedra di Clinica chirurgica generale e terapia chirurgica dell'Universita'.  
-Art. 199. - La durata del corso e di anni 2 e vi possono accedere non piu' di 20 iscritti per anno, preferibilmente scelti fra laureati, gia' in possesso di un titolo di specializzazione. Il corso di specializzazione in Oncologia comprende i seguenti insegnamenti:  
-1° Anno:  
-a) Patologia generale dei tumori;  
-b) Biochimica dei tumori;  
-c) Patologia oncologica speciale (in rapporto con i vari tessuti e vari agenti casuali);  
-d) Clinica medica generale dei tumori;  
-e) Diagnosi e terapia radiologica dei tumori;  
-f) Clinica chirurgica generale dei tumori.  
-2° Anno:  
-a) Diagnostica istologica e citocariologica dei tumori;  
-b) Diagnosi precoce dei tumori;  
-c) Diagnosi precoce dei tumori genitali femminili;  
-d) Diagnosi e terapia dei tumori otorinolaringologici;  
-e) Chirurgia oncologica;  
-f) Gli isotopi radioattivi (elementi generali, nozioni di tecnica radioisotopica, applicazioni cliniche);  
-g) Riscontri anatomo-clinici;  
-h) Terapia antalgica dei tumori;  
-i) Registrazione epidemiologica dei tumori.  
-Art. 200. - Le lezioni saranno tenute presso la clinica medica della Universita' di Torino, presso l'Istituto di anatomia patologica dell'Universita', presso la clinica ostetrica e ginecologica dell'Universita', presso la clinica otorinolaringologica dell'Universita', e presso l'Istituto di oncologia di Torino. Le esercitazioni avranno luogo nell'Istituto di clinica chirurgica generale, nell'Istituto di radiologia, nell'Istituto di chimica medica dell'Universita', nell'Istituto di oncologia di Torino, e presso la SORIN (Centri Ricerche Nucleari) di Saluggia.  
-I corsi e le esercitazioni sono tenuti dai titolari della scuola di specializzazione e, secondo le necessita', dai professori di ruolo delle varie specialita' mediche e chirurgiche.  
-Art. 201. - Gli studenti debbono ottemperare all'obbligo della frequenza, alle lezioni ed alle esercitazioni. Alla fine di ogni anno gli iscritti dovranno superare gli esami dei vari corsi, che saranno tenuti in una unica seduta estiva ed autunnale dai titolari di ogni corso.  
-Per il conseguimento del diploma di specializzazione gli iscritti dovranno presentare e discutere una tesi di specializzazione su argomento oncologico, elaborata presso gli Istituti sopra menzionati, e sotto la sorveglianza di uno dei titolari dei corsi.  
-Art. 202. - Gli iscritti alla Scuola sono tenuti al pagamento delle tasse e soprattasse stabilite, e al pagamento di contributi speciali a favore degli Istituti e delle Cliniche in cui si svolgono le lezioni e le esercitazioni.  
+Art. 18. - Agli insegnamenti complementari del corso di laurea in economia e commercio e' aggiunto quello di: "contabilita' nazionale".  
+  
+Art. 19, relativo alle propedeuticita' degli esami nel corso di laurea in economia e commercio e' modificato nel senso che l'esame di istituzioni di diritto privato non e' propedeutico rispetto all'esame di istituzioni di diritto pubblico.  
+  
+Art. 33. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di: "anestesiologia".  
+  
+Art. 36. - E' cosi' modificato: "La Facolta' di scienze matematiche, fisiche e naturali conferisce la laurea in chimica, in chimica industriale, in fisica, in scienze matematiche, in matematica e fisica, in scienza naturali, in scienze biologiche e in scienze geologiche.  
+Presso la Facolta', e' pure istituito il corso biennale di studi propedeutici ingegneria".  
+Dopo l'art. 44, e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli relativi alla istituzione dei corsi di laurea in scienze biologiche e scienze geologiche.  
+  
+N. 7. - Corso di laurea in scienze biologiche  
+  
+Art. 45. - La durata del corso degli studi per la laurea in scienze biologiche e' di quattro anni.  
+E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.  
+Sono insegnamenti fondamentali:  
+1) istituzioni di matematiche;  
+2) fisica;  
+3) chimica generale ed inorganica;  
+4) chimica organica;  
+5) botanica (biennale);  
+6) zoologia (biennale);  
+7) anatomia comparata;  
+8) anatomia umana;  
+9) istologia ed embriologia;  
+10) fisiologia generale (biennale);  
+11) chimica biologica;  
+12) igiene.  
+  
+Sono insegnamenti complementari:  
+1) statistica;  
+2) chimica fisica;  
+3) paleontologia;  
+4) antropologia;  
+5) geologia;  
+6) patologia generale;  
+7) patologia vegetale:  
+8) entomologia agraria;  
+9) fisiologia vegetale;  
+10) embriologia sperimentale.  
+Gli insegnamenti biennali di "botanica" e di "zoologia" comprendono tanto la parte generale quanto quella sistematica.  
+Gli insegnamenti biennali di "zoologia" e di "botanica" importano due esami distinti alla fine di ciascun anno di insegnamento rispettivamente di zoologia generale e di zoologia descrittiva, di botanica generale e di botanica descrittiva; l'insegnamento di fisiologia generale importa un unico esame alla line del biennio.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti fra i complementari.  
+Lo studente deve inoltre frequentare tre laboratori di scienze biologiche, di cui due annuali ed uno biennale e superare alla fine di ogni anno l'esame relativo alle esercitazioni in essi svolte.  
+  
+N. 8. - Corso di laurea in scienze geologiche.  
+  
+Art. 46. - La durata del corso degli studi per la laurea in scienze geologiche e' di quattro anni.  
+E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.  
+Sono insegna menti fondamentali:  
+1) istituzioni di matematiche:  
+2) fisica sperimentale (biennale);  
+3) chimica generale ed inorganica con elementi di organica:  
+4) mineralogia;  
+5) geologia;  
+6) geologia applicata;  
+7) paleontologia;  
+8) geografia;  
+9) geografia fisica;  
+10) topografia e cartografia;  
+11) fisica terrestre;  
+12) petrografia.  
+  
+Sono insegnamenti complementari:  
+1) chimica fisica;  
+2) geochimica;  
+3) disegno;  
+4) botanica;  
+5) zoologia;  
+6) analisi matematica (algebrica, e infinitesimale) biennale;  
+7) meccanica razionale con elementi di statica grafica e disegno;  
+8) astronomia;  
+9) statistica.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti fra i complementari.  
+Lo studente deve inoltre frequentare i corsi di esercitazioni di tre laboratori di scienze geologiche, di cui due annuali (uno di questi sara' dedicato al rilevamento geologico sul terreno) ed uno biennale, e superare alla fine di ogni anno l'esame relativo alle esercitazioni in essi svolte.  
+Sono aboliti gli ultimi due capoversi dell'art. 45 del vigente statuto, sostituiti con quanto segue:  
+Per il corso di laurea in scienze geologiche:  
+l'esame di istituzioni di matematiche deve precedere quello di fisica;  
+gli esami di istituzioni di matematiche, di chimica generale ed inorganica con elementi di organica e di fisica sperimentale, devono precedere quello di mineralogia;  
+l'esame di mineralogia deve precedere quello di petrografia;  
+gli esami di petrografia e di paleontologia devono precedere quello di geologia.  
+Precede l'esame di laurea nei singoli rami sopraelencati, un saggio orale di cultura generale rispettivamente in chimica, in fisica, in scienze matematiche, in matematica e fisica, in scienze naturali, in scienze biologiche e in scienze geologiche.  
+  
+Art. 56. - Agli insegnamenti complementari del corso di laurea in agraria e' aggiunto quello di: "orticoltura e floricoltura".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 ottobre 1964
+### Dato a Napoli, addi' 20 agosto 1959
 
-Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA GUI
+GRONCHI MEDICI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 5 dicembre 1964
+Registrato alla Corte dei conti, addi' 28 settembre 1959
 
-Atti del Governo, registro n. 188, foglio n. 188. - VILLA
+Atti del Governo, registro n. 120, foglio n. 161. - VILLA

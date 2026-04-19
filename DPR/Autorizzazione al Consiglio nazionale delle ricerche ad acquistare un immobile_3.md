@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1984 n. 367
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1968 n. 322
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1984 n. 367
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1968 n. 322
+===============================================================
 
 Autorizzazione al Consiglio nazionale delle ricerche ad acquistare un immobile.
 -------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-367. Decreto del Presidente della Repubblica 17 maggio 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, il Consiglio nazionale delle ricerche viene autorizzato ad acquistare, al prezzo di L. 1.477.000.000, un complesso immobiliare sito in Roma, via Cineto Romano n. 37, consistente in un terreno di mq 8524 e in due fabbricati che su parte di esso insistono, di proprieta' dei signori: cavalier Anacleto Gianni, dott. Fabrizio Gianni e signora Anna Maria Gianni in d'Orazio, come da atto preliminare 27 giugno 1978, redatto dal dott. Otello Massimi, notaio in Roma, n. 18198 di repertorio, da adibire a sede dei propri organi di ricerca.  
+322. Decreto del Presidente della Repubblica 16 febbraio 1968, col quale, sulla proposta del Presidente del Consiglio dei Ministri, il Consiglio nazionale delle ricerche viene autorizzato ad acquistare della signora Panza Mariasofia o Maria Sofia in Bogoncelli, per il prezzo di L. 70.750.000 come da atto a rogito dottor Paolo Consolandi, notaio in Milano, in data 8 ottobre 1963, n. 10.825/4129 di rep., un immobile sito nel comune di Cinisello Balsamo (Milano), via Alberto Martini numeri 21 e 23, costituito da terreno e fabbricati industriali (formante le unita' 21 e 23 del quartiere industriale), da destinare, rispettivamente, a sede del laboratorio del centro di ricerca sulla tecnologia della propulsione e dei materiali relativi, e a sede del laboratorio del centro sperimentale per le macchine utensili.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 11 luglio 1984  
-Registro n. 6 Presidenza, foglio n. 298
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 25 marzo 1968  
+Atti del Governo, registro n. 218, foglio n. 77. - DI PRETORO

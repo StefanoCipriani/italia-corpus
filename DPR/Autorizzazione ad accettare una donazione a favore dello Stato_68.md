@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1974 n. 882
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 gennaio 1980 n. 611
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1974 n. 882
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 gennaio 1980 n. 611
+==============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-882. Decreto del Presidente della Repubblica 7 giugno 1974, col quale, sulla proposta del Ministro per le finanze, di concerto con il Ministro per il tesoro, viene autorizzata l'accettazione della donazione a favore dello Stato, disposta dalla camera di commercio, industria, artigianato ed agricoltura di Cagliari con atto 18 giugno 1969, n. 18179 di repertorio a rogito notaio Ugo Pasolini, dei mobili e delle attrezzature tecnico-scientifiche costituenti la dotazione del laboratorio chimico compartimentale delle dogane e imposte indirette di Cagliari.  
+611. Decreto del Presidente della Repubblica 15 gennaio 1980, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato della donazione disposta dalle signore Beatrice e Olga Capogrossi come da atto 1 giugno 1977, n. 20 di repertorio, a rogito dott.  
+Giovanni Gilardoni, notaio in Roma, consistente in una collezione composta di un gruppo di cinque opere, le quali rivestono un importante interesse artistico, da destinare alla Galleria nazionale d'arte moderna e contemporanea in Roma.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 21 marzo 1975  
-Atti di Governo, registro n. 9, foglio n. 24
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti, addi' 7 luglio 1980  
+Registro n. 11 Beni culturali, foglio n. 152

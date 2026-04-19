@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1985 n. 866
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1985 n. 844
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1985 n. 866
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1985 n. 844
+================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
@@ -39,15 +39,14 @@ Articolo unico
 --------------
 
   
-Nell'art. 78, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
-  
-tecnica fisiologica.  
+Nell'art. 57, relativo al corso di laurea in lingue e letterature straniere, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
+letteratura teatrale italiana.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 7 ottobre 1985
+### Dato a Roma, addi' 24 settembre 1985
 
 COSSIGA
 
@@ -57,4 +56,4 @@ Visto, il Guardasigilli: MARTINAZZOLI
 
 Registrato alla Corte dei conti, addi' 21 gennaio 1986
 
-Registro n. 2 Istruzione, foglio n. 94
+Registro n. 2 Istruzione, foglio n. 103

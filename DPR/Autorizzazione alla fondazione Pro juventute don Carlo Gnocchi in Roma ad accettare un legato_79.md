@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 173
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1978 n. 447
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 173
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1978 n. 447
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-173. Decreto del Presidente della Repubblica 10 febbraio 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella quota di 1/2 dei beni mobili, libretto a risparmio e conti correnti per complessive L. 127.895.497 - quota di un 1/2 uguale L. 63.943.738 meno L. 21.000.000 di passivita' restano L. 42.943.736 - disposto dal rev. Corengia Antonio con testamento olografo 10 maggio 1982, pubblicato in data 11 novembre 1983, n. 24222/8565 di repertorio, a rogito dott. Achille Cornelio, notaio in Como, registrato a Como in data 16 novembre 1983 al n. 5148.   
+447. Decreto del Presidente della Repubblica 18 luglio 1978, col quale, sulla proposta del Presidente del Consiglio dei. Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Ghezzi Cornelia, con testamento olografo in data 3 ottobre 1975, pubblicato a rogito notaio dott. Ferruccio Brambilla l'11 marzo 1976 n. 25508/2813 di repertorio, registrato a Busto Arsizio il 29 marzo 1976 al n. 813, vol. 157 A.P. a favore dell'"Istituto piccoli mutilatini di don Gnocchi" che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come ha fatto presente la fondazione medesima, consistente in un appartamento sito in Milano, via Cucchiari n. 7, riportato al nuovo catasto edilizio urbano alla partita 102091, foglio 219, mappale 329 sub 34, per un valore presunto di lire 20.000.000.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 22 aprile 1986   
-Registro n. 4 Presidenza, foglio n. 47
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 8 agosto 1978  
+Registro n. 6 Presidenza, foglio n. 43

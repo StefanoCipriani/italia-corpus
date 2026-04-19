@@ -1,150 +1,56 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1967 n. 1499
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1965 n. 1326
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1967 n. 1499
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1965 n. 1326
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduta la proposta avanzata dalle autorita' accademiche dell'Universita' di Pavia intesa ad ottenere l'istituzione della facolta' di ingegneria presso l'universita' medesima;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla
------
-
-proposta del Ministro per la pubblica istruzione di concerto col Ministro per il tesoro; Decreta:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Presso l'Universita' degli studi di Pavia e' istituita la facolta' di ingegneria con il corso di laurea in ingegneria elettrotecnica.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, numero 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Per tale facolta' sono assegnati i seguenti posti di ruolo:  
-a) sette posti di professore, prelevati sul contingente di cui all'[art. 1 della legge 24 febbraio 1967, n. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-02-24;62~art1);  
-b) dieci posti di assistente, prelevati sul contingente di cui all'art. 18, secondo comma, della suddetta legge n. 62.  
-
-Art. 3
-------
-
+Decreta:  
   
-Le attribuzioni demandate dalle vigenti disposizioni di legge e di regolamento al consiglio di facolta', vengono esercitate da un apposito comitato composto di tre professori di ruolo e fuori ruolo, nominati dal Ministro per la pubblica istruzione, sentita la sezione prima del Consiglio superiore della pubblica istruzione.  
-I professori di ruolo che in base alle vigenti disposizioni verranno a far parte della predetta facolta', saranno aggregati al comitato anzidetto. Tale comitato cessera' dalle sue funzioni allorche' alla facolta' stessa risulteranno assegnati tre professori di ruolo.  
-In ogni caso detto comitato non potra' rimanere in carica oltre un triennio e, qualora allo scadere del triennio medesimo, non risultino assegnati alla facolta' tre professori di ruolo, il Ministro per la pubblica istruzione provvedera' alla nomina di un nuovo comitato con le stesse modalita' indicate nel primo comma del presente articolo.  
-
-Art. 4
-------
-
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, 6 ulteriormente modificato come appresso:  
+Art. 21. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze politiche e' aggiunto quello di "Storia dei partiti e dei movimenti politici".  
+Art. 29. - All'elenco degli insegnamenti complementari del corso di laurea in Economia e commercio sono aggiunti i seguenti:  
   
-Lo statuto dell'Universita' di Pavia, approvato e modificato con i decreti suindicati e' ulteriormente modificato come dal testo annesso al presente decreto - vistato dal Ministro per la pubblica istruzione - contenente le norme relative all'ordinamento del triennio di applicazione del corso di laurea in ingegneria elettrotecnica.  
-Il biennio propedeutico all'ingegneria, esistente presso la facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Pavia passa a far parte integrante della facolta' di ingegneria istituita con il presente decreto.  
+Teoria dello sviluppo economico;  
+Economia del lavoro;  
+Organizzazione aziendale;  
+Storia della moneta e della banca, Diritto tributario.  
+Dopo l'art. 31, e con il conseguente spostamento della successiva numerazione, e' aggiunto il seguente nuovo articolo relativo alla creazione degli Istituti presso la Facolta' di Economia e commercio.  
+Art. 32. - Alla Facolta' di Economia e commercio sono annessi i seguenti istituti:  
+1) Istituto di Economia aziendale, al quale fanno capo gli insegnamenti, di Ragioneria generale ed applicata, Tecnica bancaria e professionale, Tecnica industriale e commerciale, Contabilita' di Stato, nonche' eventuali corsi complementari di materie aziendali che venissero in seguito deliberati;  
+2) Istituto di Scienze economiche, al quale fanno capo gli insegnamenti di Economia politica, Politica economica e finanziaria, Economia e Politica agraria, Scienza delle finanze e Diritto finanziario, Econometrica, Economia dei trasporti, Contabilita' nazionale, Organizzazione internazionale ed eventuali altri corsi di materie economiche che venissero in seguito deliberati;  
+3) Istituto di Storia economica, del quale fanno parte gli insegnamenti di Storia economica e di Storia delle dottrine economiche, nonche' eventuali altri corsi di materie storiche che venissero in seguito deliberati;  
+4) Istituto di Diritto, del quale fanno parte gli insegnamenti di Diritto commerciale, Istituzioni di diritto privato, Istituzioni di diritto pubblico, Diritto del lavoro, Diritto industriale, Diritto amministrativo, Diritto internazionale, Diritto fallimentare, ed eventuali altri corsi di materie giuridiche che venissero in seguito deliberati;  
+5) Istituto di Matematica generale e finanziaria, che comprende le materie di Matematica generale e di Matematica finanziaria;  
+6) Istituto di Scienze statistiche e demografiche, del quale fanno parte gli insegnamenti di Statistica, Statistica economica, Demografia e sociologia.  
+Art. 36. - All'elenco degli insegnamenti complementari del corso di laurea in Lingue e letterature straniere moderne e' aggiunto quello di "Lingua e letteratura ungherese".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 giugno 1967
+### Dato a Roma, addi' 29 ottobre 1965
 
-SARAGAT GUI - COLOMBO
+SARAGAT GUI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 16 aprile 1968
+Registrato alla Corte dei conti, addi' 4 dicembre 1965
 
-Atti del Governo, registro n. 219, foglio n. 14. - GRECO
-
-Allegato
-
-TESTO DELLE MODIFICHE DELLO STATUTO DELLA UNIVERSITA' DI PAVIA, RELATIVO ALL'ISTITUZIONE DELLA FACOLTA' DI INGEGNERIA   
-  
-Art. 1. - All'elenco delle facolta' che comprende la Universita' di Pavia e' aggiunta la seguente:   
-Facolta' di ingegneria.   
-  
-Dopo l'art. 52 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi all'istituzione del triennio di applicazione del corso di laurea in ingegneria elettrotecnica.   
-  
-Art. 53. - Gli insegnamenti del triennio (3°, 4° e 5° anno) si distinguono in:   
-  
-A) Obbligatori sul piano nazionale:   
-  
-1. Scienza delle costruzioni;   
-2. Meccanica applicata alle macchine I;   
-3. Fisica tecnica;   
-4. Elettrotecnica;   
-5. Idraulica;   
-6. Misure elettriche;   
-7. Macchine;   
-8. Macchine elettriche;   
-9. Impianti elettrici I;   
-10. Elettronica applicata.   
-  
-B) Obbligatori sul piano della facolta':   
-  
-11. Complementi di analisi matematica;   
-12. Economia ed organizzazione aziendale;   
-13. Tecnica delle costruzioni;   
-14. Costruzioni di macchine elettriche;   
-15. Controlli automatici.   
-  
-C) Gruppi di materie a scelta dello studente:   
-  
-Indirizzo impianti:   
-  
-16. Impianti elettrici II;   
-17. Centrali elettriche;   
-18 e 19, a scelta tra:   
-Trazione elettrica;   
-Campi elettromagnetici e circuiti;   
-Elettrochimica;   
-Radiotecnica;   
-Analisi numerica;   
-Ergotecnica;   
-Igiene applicata all'ingegneria e ingegneria sanitaria   
-Teoria ed applicazioni delle macchine calcolatrici;   
-  
-Indirizzo macchine:   
-  
-16. Costruzione di macchine;   
-17. Trazione elettrica;   
-18 e 19, a scelta tra:   
-Macchine elettriche speciali;   
-Costruzione di apparecchi elettrici;   
-Campi elettromagnetici e circuiti;   
-Impianti elettrici II;   
-Analisi numerica;   
-Meccanica applicata alle macchine II;   
-Ergotecnica;   
-Teoria ed applicazioni delle macchine calcolatrici.   
-  
-Art. 54. La scelta dello studente dovra' comunque cadere sugli insegnamenti effettivamente impartiti nei singoli anni accademici nell'ambito della facolta'.   
-  
-Art. 55. - Per essere ammesso all'esame di laurea lo studente dovra' aver superato tutti gli insegnamenti obbligatori del triennio di applicazione e quelli da lui scelti secondo le norme indicate nell'articolo precedente.   
-  
-Art. 56. - L'esame di laurea comprende due prove scritte (una delle quali a indirizzo specifico e una prova orale) agli studenti iscritti al 5° anno, che abbiano superato gli esami degli anni precedenti con media elevata, e' consentito di sostituire la prova scritta a indirizzo specifico con una tesi anche di carattere teorico.   
-La prova orale verte sulla discussione delle scritte sui progetti svolti nel quinto anno e su argomenti intesi ad accertare la organica preparazione di base del candidato e le sue cognizioni tecniche e pratiche nel ramo dell'ingegneria elettrotecnica.   
-  
-  
-Visto, d'ordine del Presidente della Repubblica   
-  
-Il Ministro per la pubblica istruzione   
-GUI   
+Atti del Governo, registro n. 198, foglio n. 73. - VILLA

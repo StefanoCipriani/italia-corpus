@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1983 n. 963
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 974
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1983 n. 963
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 974
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Salerno.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Salerno.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Salerno, approvato con [decreto del Presidente della Repubblica 18 dicembre 1968, n. 1436](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-12-18;1436), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Salerno, approvato con [decreto del Presidente della Repubblica 18 febbraio 1968, n. 1436](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-02-18;1436), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -39,22 +39,22 @@ Art. 1
 ------
 
   
-Nell'art. 14, relativo al corso di laurea in scienze politiche, all'elenco degli insegnamenti complementari e' incluso il seguente nuovo insegnamento:  
-storia sociale.  
+Nell'art. 39, relativo al corso di laurea in pedagogia della facolta' di magistero, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+storia della filosofia italiana;  
+storia della filosofia dal Rinascimento all'Illuminismo.  
 
 Art. 2
 ------
 
   
-Nell'art. 38, relativo al corso di laurea in materie letterarie, all'elenco degli insegnamenti complementari sono inclusi i seguenti nuovi insegnamenti:  
-filologia e critica dantesca;  
-storia dell'agricoltura e del movimento contadino.  
+Nell'art. 38, relativo al corso di laurea in materie letterarie della facolta' di magistero, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+storia sociale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 aprile 1983
+### Dato a Roma, addi' 4 maggio 1983
 
 PERTINI FALCUCCI
 
@@ -62,4 +62,4 @@ Visto, il Guardasigilli: MARTINAZZOLI
 
 Registrato alla Corte dei conti, addi' 15 febbraio 1984
 
-Registro n. 8 Istruzione, foglio n. 85
+Registro n. 8 Istruzione, foglio n. 86

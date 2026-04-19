@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 gennaio 1954 n. 207
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 dicembre 1949 n. 1148
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 gennaio 1954 n. 207
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 dicembre 1949 n. 1148
+================================================================
 
 Autorizzazione all'Universita' di Roma ad accettare una donazione.
 ------------------------------------------------------------------
@@ -12,8 +12,7 @@ Art. 1
 
 N.
 
-207. Decreto del Presidente della Repubblica 26 gennaio 1954, col quale, silla proposta del Ministro per la pubblica istruzione, l'Universita' di Roma viene autorizzata ad accettare la donazione della raccolta dei libri filosofici e degli scaffali nei quali i libri stessi sono contenuti, del valore complessivo di L. 2.684.000, disposta in suo favore dalla signora Emilia Patrizi vedova Levi, con atto pubblico amministrativo in data 3 luglio 1953, n. 321 di repertorio.  
+1148. Decreto del Presidente della Repubblica 8 dicembre 1949, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Roma viene autorizzata ad accettare la donazione della somma di L. 40.000 nominali, in titoli dello Stato, rendita 5%, disposta in suo favore dalla signora Olga Balacco in Capurso, con atto pubblico amministrativo in data 3 maggio 1949, al fine di aumentare a L. 200 mila il capitale del premio annuale di studio "Professore Giovanni De Candia", istituito presso l'Universita' medesima.  
   
-Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 15 maggio 1954  
-Atti del Governo, registro n. 83, foglio n. 61. - CARLOMAGNO
+Visto, il Guardasigilli: GRASSI  
+Registrato alla Corte dei conti, addi' 27 febbraio 1950

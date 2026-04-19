@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1964 n. 1015
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 settembre 1974 n. 591
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1964 n. 1015
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 settembre 1974 n. 591
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Pisa approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,7 +20,7 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche della statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -32,54 +32,60 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 23. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di "Diritto dei Paesi afro-asiatici" L'insegnamento complementare di "Diritto coloniale" e' soppresso.
+Art. 42 - all'elenco degli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti i seguenti:
 
-Art. 28, relativo alle propedeuticita' del corso di laurea in Scienze politiche e' abrogato e sostituito dal seguente:
+Politica aziendale;
 
-Gli studenti iscritti per la laurea in Scienze politiche non possono sostenere gli esami degli insegnamenti di Diritto internazionale, Diritto amministrativo, Diritto del lavoro, Dottrina dello Stato, e Istituzioni di diritto e procedura penale prima di aver superato gli esami di Istituzioni di diritto pubblico e di Istituzioni di diritto privato; di Diritto costituzionale italiano e comparato e di legislazione del lavoro, prima di aver superato l'esame di Istituzioni di diritto pubblico; di Politica economica e finanziaria, prima di aver superato l'esame di Economia politica.
+Ricerca operativa.
 
-Art. 67. - All'elenco degli Istituti annessi alla Facolta' di medicina e chirurgia e' aggiunto quello di Clinica ortopedica.
+Art. 65 - all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:
 
-L'Istituto di Anatomia ed istologia patologica assume la denominazione di "Istituto di Anatomia ed istologia patologica Antonio Cesaris Demel".
+Reumatologia;
 
-Art. 105. - E' abrogato e sostituito dal seguente:
+Ematologia.
 
-"Gli Istituti scientifici della Facolta' di farmacia sono:
+Art. 112 - all'elenco degli insegnamenti complementari del corso di laurea in clinica e tecnologia farmaceutiche e' aggiunto quello di:
 
-1) Istituto di chimica farmaceutica e tossicologica;
+Organizzazione, deontologia e legislazione farmaceutiche.
 
-2) Istituto di chimica organica".
+Art. 142 - all'elenco degli insegnamenti complementari del corso di laurea in scienze della produzione animale sono aggiunti i seguenti:
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta Ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Coniglicoltura ed allevamenti di animali da pelliccia;
 
-Dato a Roma, addi' 14 agosto 1964
+Bromatologia dei prodotti ad uso zootecnico;
 
-Per il Presidente della Repubblica
+Entomologia e aracnologia veterinaria.
 
-Il Presidente del Senato
+Dopo l'art. 167, e con lo spostamento della numerazione degli articoli successivi, e' inserito il seguente articolo relativo alla scuola speciale per archeologi preistorici, classici e medioevalisti:
 
-MERZAGORA
+Art. 168. - La scuola organizza anche corsi integrativi annuali per assistenti e disegnatori nelle sopraintendenze alle antichita' (diplomati di scuole medie inferiori e superiori).
 
-GUI
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e de decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Visto, il Guardasigilli: REALE
+Dato a Roma, addi' 16 settembre 1974
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: ZAGARI
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 22 ottobre 1964 Atti del Governo, registro n. 187, foglio n. 148 - VILLA
+alla Corte dei conti, addi' 21 novembre 1974 Atti di Governo, registro n. 7, foglio n. 9. - SCIARRETTA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pisa approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche della statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -87,27 +93,35 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 23. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di "Diritto dei Paesi afro-asiatici" L'insegnamento complementare di "Diritto coloniale" e' soppresso.  
-Art. 28, relativo alle propedeuticita' del corso di laurea in Scienze politiche e' abrogato e sostituito dal seguente:  
+Art. 42 - all'elenco degli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti i seguenti:  
   
-Gli studenti iscritti per la laurea in Scienze politiche non possono sostenere gli esami degli insegnamenti di Diritto internazionale, Diritto amministrativo, Diritto del lavoro, Dottrina dello Stato, e Istituzioni di diritto e procedura penale prima di aver superato gli esami di Istituzioni di diritto pubblico e di Istituzioni di diritto privato; di Diritto costituzionale italiano e comparato e di legislazione del lavoro, prima di aver superato l'esame di Istituzioni di diritto pubblico; di Politica economica e finanziaria, prima di aver superato l'esame di Economia politica.  
-Art. 67. - All'elenco degli Istituti annessi alla Facolta' di medicina e chirurgia e' aggiunto quello di Clinica ortopedica.  
-L'Istituto di Anatomia ed istologia patologica assume la denominazione di "Istituto di Anatomia ed istologia patologica Antonio Cesaris Demel".  
-Art. 105. - E' abrogato e sostituito dal seguente:  
-"Gli Istituti scientifici della Facolta' di farmacia sono:  
-1) Istituto di chimica farmaceutica e tossicologica;  
-2) Istituto di chimica organica".  
+Politica aziendale;  
+Ricerca operativa.  
+Art. 65 - all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:  
+  
+Reumatologia;  
+Ematologia.  
+Art. 112 - all'elenco degli insegnamenti complementari del corso di laurea in clinica e tecnologia farmaceutiche e' aggiunto quello di:  
+  
+Organizzazione, deontologia e legislazione farmaceutiche.  
+Art. 142 - all'elenco degli insegnamenti complementari del corso di laurea in scienze della produzione animale sono aggiunti i seguenti:  
+  
+Coniglicoltura ed allevamenti di animali da pelliccia;  
+Bromatologia dei prodotti ad uso zootecnico;  
+Entomologia e aracnologia veterinaria.  
+Dopo l'art. 167, e con lo spostamento della numerazione degli articoli successivi, e' inserito il seguente articolo relativo alla scuola speciale per archeologi preistorici, classici e medioevalisti:  
+Art. 168. - La scuola organizza anche corsi integrativi annuali per assistenti e disegnatori nelle sopraintendenze alle antichita' (diplomati di scuole medie inferiori e superiori).  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta Ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e de decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 agosto 1964
+### Dato a Roma, addi' 16 settembre 1974
 
-Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA GUI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 22 ottobre 1964
+Registrato alla Corte dei conti, addi' 21 novembre 1974
 
-Atti del Governo, registro n. 187, foglio n. 148 - VILLA
+Atti di Governo, registro n. 7, foglio n. 9. - SCIARRETTA

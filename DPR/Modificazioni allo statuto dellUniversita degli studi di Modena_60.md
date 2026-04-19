@@ -1,41 +1,199 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 agosto 1955 n. 877
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 maggio 1976 n. 572
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 agosto 1955 n. 877
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 maggio 1976 n. 572
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Modena.
 ------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Modena e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Gli articoli 175, 176, 177, 178, 179, 180, relativi alla scuola di specializzazione in scienza dell'alimentazione, sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in scienza dell'alimentazione
+
+Art. 175. - La scuola di specializzazione in scienza dell'alimentazione ha due indirizzi:
+
+1) indirizzo dietetico;
+
+2) indirizzo nutrizionistico.
+
+L'indirizzo dietetico mira ad approfondire nei medici le basi teoriche e pratiche di fondamentale importanza per la dietetica preventiva e curativa ed a stimolare altresi' la ricerca scientifica nel vasto campo della nutrizione umana.
+
+L'indirizzo nutrizionistico mira alla preparazione specialistica di laureati in settori concernenti lo studio di problemi generali e speciali dell'alimentazione negli aspetti fisiologici, bio-chimici, igienici, ecologici, economico-sociali, nonche' a stimolare la ricerca scientifica nei sopracitati settori.
+
+Art. 176. - La scuola ha sede presso l'istituto di fisiologia umana ed usufruisce delle attrezzature esistenti e messe a disposizione da detto istituto.
+
+Art. 177. - La scuola ha la durata di tre anni e conferisce il diploma di specializzazione in scienza dell'alimentazione. Il numero di posti disponibili per ogni anno e' di venti. L'ammissione e' per esami.
+
+Art. 178. - All'indirizzo dietetico possono essere iscritti soltanto i laureati in medicina e chirurgia. All'indirizzo nutrizionistico possono essere iscritti i laureati in chimica e tecnologie farmaceutiche, in farmacia, in medicina e chirurgia, in medicina veterinaria, in scienze biologiche, in scienze naturali.
+
+Art. 179. - Gli insegnamenti fondamentali e complementari del primo biennio della scuola sono comuni ai due indirizzi; gli insegnamenti speciali, che qualificano i due indirizzi, sono svolti nel terzo anno.
+
+1° Anno (comuni ai due indirizzi):
+
+chimica degli alimenti;
+
+biochimica della nutrizione;
+
+fisiologia generale della nutrizione;
+
+istituzioni di statistica applicata ai problemi sanitari.
+
+2° Anno (comuni ai due indirizzi):
+
+fisiologia nella nutrizione umana;
+
+igiene alimentare ed elementi di legislazione;
+
+istituzioni di tecnologie alimentari;
+
+biochimica patologica della nutrizione.
+
+3° Anno:
+
+a) Indirizzo dietetico:
+
+alimentazione umana;
+
+dietetica dell'eta' adulta;
+
+dietetica dell'infanzia;
+
+dietetica per le collettivita';
+
+malattie dell'alimentazione e dietoterapia;
+
+dietetica ospedaliera e organizzazione dei relativi servizi.
+
+b) Indirizzo nutrizionistico:
+
+alimentazione umana;
+
+alimentazione degli animali da allevamento e lavoro;
+
+ecologia e geografia dell'alimentazione;
+
+economia e statistica applicata all'alimentazione;
+
+tecnica dei rilevamenti alimentari;
+
+analisi chimiche degli alimenti; additivi chimici, sofisticazioni e adulterazioni alimentari.
+
+Gli insegnamenti fondamentali sopra indicati sono integrati da insegnamenti complementari e da conferenze su argomenti speciali che il direttore della scuola stabilira' anno per anno.
+
+Art. 180. - L'allievo per essere ammesso al corso immediatamente superiore deve aver ottenuto tutte le firme di frequenza del corso e deve aver superato almeno i seguenti esami:
+
+per essere ammesso al secondo anno, l'esame di fisiologia generale della nutrizione;
+
+per essere ammesso al terzo anno, l'esame di fisiologia della nutrizione umana.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 10 maggio 1976
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 17 agosto 1976 Atti di Governo, registro n. 8, foglio n. 64
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035), modificato con i [regi decreti 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-13;2170); [30 ottobre 1930, n. 1825](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1825); [1 ottobre 1931, n. 1336](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1336); [27 ottobre 1932, n. 2073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2073); [6 dicembre 1934, n. 2291](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2291); [1 ottobre 1936, n. 2088](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2088); [20 aprile 1939, n. 1075; con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1939-04-20;1075) [15 ottobre 1917, n. 1874](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1917-10-15;1874) e [30 dicembre 1917, n. 1877, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1917-12-30;1877) [23 settembre 1919, n. 817](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1919-09-23;817); [28 aprile 1951, n. 955](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-28;955); [19 giugno 1951, n. 709](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-19;709); [26 aprile 1954, n. 739](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-04-26;739) e [1 marzo 1955, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-03-01;223);  
+Veduto lo statuto dell'Universita' di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Modena e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 41. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di "Tisiologia".  
+Gli articoli 175, 176, 177, 178, 179, 180, relativi alla scuola di specializzazione in scienza dell'alimentazione, sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in scienza dell'alimentazione  
+Art. 175. - La scuola di specializzazione in scienza dell'alimentazione ha due indirizzi:  
+1) indirizzo dietetico;  
+2) indirizzo nutrizionistico.  
+L'indirizzo dietetico mira ad approfondire nei medici le basi teoriche e pratiche di fondamentale importanza per la dietetica preventiva e curativa ed a stimolare altresi' la ricerca scientifica nel vasto campo della nutrizione umana.  
+L'indirizzo nutrizionistico mira alla preparazione specialistica di laureati in settori concernenti lo studio di problemi generali e speciali dell'alimentazione negli aspetti fisiologici, bio-chimici, igienici, ecologici, economico-sociali, nonche' a stimolare la ricerca scientifica nei sopracitati settori.  
+Art. 176. - La scuola ha sede presso l'istituto di fisiologia umana ed usufruisce delle attrezzature esistenti e messe a disposizione da detto istituto.  
+Art. 177. - La scuola ha la durata di tre anni e conferisce il diploma di specializzazione in scienza dell'alimentazione. Il numero di posti disponibili per ogni anno e' di venti. L'ammissione e' per esami.  
+Art. 178. - All'indirizzo dietetico possono essere iscritti soltanto i laureati in medicina e chirurgia. All'indirizzo nutrizionistico possono essere iscritti i laureati in chimica e tecnologie farmaceutiche, in farmacia, in medicina e chirurgia, in medicina veterinaria, in scienze biologiche, in scienze naturali.  
+Art. 179. - Gli insegnamenti fondamentali e complementari del primo biennio della scuola sono comuni ai due indirizzi; gli insegnamenti speciali, che qualificano i due indirizzi, sono svolti nel terzo anno.  
+1° Anno (comuni ai due indirizzi):  
+chimica degli alimenti;  
+biochimica della nutrizione;  
+fisiologia generale della nutrizione;  
+istituzioni di statistica applicata ai problemi sanitari.  
+2° Anno (comuni ai due indirizzi):  
+fisiologia nella nutrizione umana;  
+igiene alimentare ed elementi di legislazione;  
+istituzioni di tecnologie alimentari;  
+biochimica patologica della nutrizione.  
+3° Anno:  
+a) Indirizzo dietetico:  
+alimentazione umana;  
+dietetica dell'eta' adulta;  
+dietetica dell'infanzia;  
+dietetica per le collettivita';  
+malattie dell'alimentazione e dietoterapia;  
+dietetica ospedaliera e organizzazione dei relativi servizi.  
+b) Indirizzo nutrizionistico:  
+alimentazione umana;  
+alimentazione degli animali da allevamento e lavoro;  
+ecologia e geografia dell'alimentazione;  
+economia e statistica applicata all'alimentazione;  
+tecnica dei rilevamenti alimentari;  
+analisi chimiche degli alimenti; additivi chimici, sofisticazioni e adulterazioni alimentari.  
+Gli insegnamenti fondamentali sopra indicati sono integrati da insegnamenti complementari e da conferenze su argomenti speciali che il direttore della scuola stabilira' anno per anno.  
+Art. 180. - L'allievo per essere ammesso al corso immediatamente superiore deve aver ottenuto tutte le firme di frequenza del corso e deve aver superato almeno i seguenti esami:  
+per essere ammesso al secondo anno, l'esame di fisiologia generale della nutrizione;  
+per essere ammesso al terzo anno, l'esame di fisiologia della nutrizione umana.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 agosto 1955
+### Dato a Roma, addi' 10 maggio 1976
 
-GRONCHI ROSSI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 8 ottobre 1955
+Registrato alla Corte dei conti, addi' 17 agosto 1976
 
-Atti del Governo, registro n. 93, foglio n. 8. - E. GRECO
+Atti di Governo, registro n. 8, foglio n. 64

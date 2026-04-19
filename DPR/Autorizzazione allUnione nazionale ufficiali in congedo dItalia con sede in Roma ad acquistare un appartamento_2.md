@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 novembre 1963 n. 1853
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 novembre 1963 n. 1758
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 novembre 1963 n. 1853
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 novembre 1963 n. 1758
 ================================================================
 
 Autorizzazione all'Unione nazionale ufficiali in congedo d'Italia, con sede in Roma, ad acquistare un appartamento.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1853. Decreto del Presidente della Repubblica 10 novembre 1963, col quale, sulla proposta del Ministro per la difesa, l'Unione nazionale ufficiali in congedo d'Italia, con sede in Roma, viene autorizzata ad acquistare un appartamento composto di un salone, un ufficio e servizi, situato al primo piano del fabbricato che sorge in Legnago, all'angolo di via Roma con via uova del piano regolatore, di proprieta' dei signori Rettondini Primo e Sergio, al prezzo di lire 6.700.000 (lire 67.000 il mq.), da destinarsi a sede della dipendente Sezione di detta citta'.  
+1758. Decreto del Presidente della Repubblica 11 novembre 1963, col quale, sulla proposta del Ministro per la difesa, l'Unione nazionale ufficiali in congedo d'Italia, con sede in Roma, viene autorizzata ad acquistare l'appartamento composto di cinque camere e servizi, situato al primo piano del fabbricato di nuova costruzione che sorge in Mestre, via Mestrina, lato Ca' Venier, di proprieta' dell'Impresa costruzioni comm. Guarise Casimiro, al prezzo di lire 9.028.800 (L. 66.000 il mq.), per destinarlo a sede della dipendente Sezione di detta citta'.  
   
 Visto, il Guardasigilli: BOSCO  
-Registrato alla Corte dei conti, addi' 12 dicembre 1963  
-Atti del Governo, registro n. 178, foglio n. 81. - VILLA
+Registrato alla Corte dei conti, addi' 5 dicembre 1963  
+Atti del Governo, registro n. 178, foglio n. 4. - VILLA

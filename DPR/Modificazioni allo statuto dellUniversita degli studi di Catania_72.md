@@ -1,145 +1,11 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 491
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 giugno 1976 n. 574
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 491
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 giugno 1976 n. 574
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Visto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 176 - l'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola di specializzazione in ematologia clinica e di laboratorio muta la denominazione in quella di scuola di specializzazione in ematologia generale (clinica e laboratorio).
-
-Gli articoli 227, 228, relativi alla scuola di specializzazione in ematologia clinica e di laboratorio, che muta la denominazione in quella di scuola di specializzazione in ematologia generale (clinica e laboratorio), sono soppressi e sostituiti dai seguenti:
-
-Art. 227. - Presso la facolta' di medicina e chirurgia dell'Universita' di Catania e' istituita una scuola di specializzazione in ematologia generale (clinica e laboratorio).
-
-Art. 228. - Il corso di studi della scuola di specializzazione in ematologia generale (clinica e laboratorio) ha la durata di tre anni.
-
-Gli articoli 242, 243, relativi alla scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio, sono soppressi e sostituiti dai seguenti:
-
-Art. 242. - La scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio ha sede presso l'istituto di tisiologia e malattia dell'apparato respiratorio e conferisce il diploma di specialista in tisiologia e malattie dell'apparato respiratorio.
-
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo a fuori ruolo di materia affine.
-
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.
-
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
-
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.
-
-Il numero massimo degli allievi e' di venticinque per anno di corso e complessivamente di cento iscritti per l'intero corso di studi.
-
-L'ammissione al corso avviene per titoli ed esami.
-
-Art. 243. - Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-anatomia e istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale) I;
-
-patologia della tubercolosi polmonare ed extrapolmonare;
-
-patologia delle malattie dell'apparato respiratorio;
-
-fisiologia e fisiopatologia generale dell'apparato respiratorio;
-
-semeiotica fisica e funzionale dell'apparato respiratorio;
-
-microbiologia;
-
-epidemiologia e statistica sanitaria della tubercolosi e delle malattie dell'apparato respiratorio.
-
-2° Anno:
-
-anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale) II;
-
-clinica della tubercolosi (triennale) I;
-
-clinica delle malattie dell'apparato respiratorio, (triennale) I;
-
-fisiopatologia speciale della tubercolosi e delle malattie dell'apparato respiratorio;
-
-broncologia;
-
-i radiologia dell'apparato respiratorio;
-
-profilassi della tubercolosi;
-
-igiene e legislazione sociale.
-
-3° Anno:
-
-clinica delle malattie dell'apparato respiratorio (triennale) II;
-
-clinica della tubercolosi (triennale) II;
-
-chemioterapia della tubercolosi e delle malattie dell'apparato respiratorio;
-
-terapia fisiomeccanica nella tubercolosi e nelle malattie dell'apparato respiratorio;
-
-terapia chirurgica nella tubercolosi e nelle malattie dell'apparato respiratorio.
-
-4° Anno:
-
-clinica delle malattie dell'apparato respiratorio (triennale) III;
-
-clinica della tubercolosi (triennale) III.
-
-Gli insegnamenti complementari sono:
-
-immunologia clinica;
-
-cardiologia;
-
-medicina nucleare;
-
-malattie professionali dell'apparato respiratorio;
-
-terapia intensiva pneumologica.
-
-I corsi d'insegnamento sono integrati da conferenze, da esercitazioni pratiche, da seminari interdisciplinari (questi ultimi prevalentemente destinati al 4° anno) e da esercitazioni pratiche nei reparti per le quali gli allievi hanno l'obbligo di frequenza al pari delle lezioni.
-
-Alla fine di ogni anno di corso gli allievi dovranno superare una prova di esame sulle materie del rispettivo anno.
-
-Alla fine del 4° anno gli allievi dovranno sostenere l'esame di diploma consistente nella dissertazione scritta su un argomento attinente alla specializzazione assegnata dal direttore della scuola o da uno degli insegnanti della scuola.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 11 maggio 1979
-
-PERTINI
-
-SPADOLINI
-
-Visto, il Guardasigilli: MORLINO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 28 settembre 1979 Registro n. 71 Istruzione, foglio n. 108
 
 Art. 1
 ------
@@ -148,75 +14,35 @@ Art. 1
   
 Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Visto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17) per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Catania e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 176 - l'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola di specializzazione in ematologia clinica e di laboratorio muta la denominazione in quella di scuola di specializzazione in ematologia generale (clinica e laboratorio).  
-Gli articoli 227, 228, relativi alla scuola di specializzazione in ematologia clinica e di laboratorio, che muta la denominazione in quella di scuola di specializzazione in ematologia generale (clinica e laboratorio), sono soppressi e sostituiti dai seguenti:  
-Art. 227. - Presso la facolta' di medicina e chirurgia dell'Universita' di Catania e' istituita una scuola di specializzazione in ematologia generale (clinica e laboratorio).  
-Art. 228. - Il corso di studi della scuola di specializzazione in ematologia generale (clinica e laboratorio) ha la durata di tre anni.  
-Gli articoli 242, 243, relativi alla scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio, sono soppressi e sostituiti dai seguenti:  
-Art. 242. - La scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio ha sede presso l'istituto di tisiologia e malattia dell'apparato respiratorio e conferisce il diploma di specialista in tisiologia e malattie dell'apparato respiratorio.  
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo a fuori ruolo di materia affine.  
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.  
-Il numero massimo degli allievi e' di venticinque per anno di corso e complessivamente di cento iscritti per l'intero corso di studi.  
-L'ammissione al corso avviene per titoli ed esami.  
-Art. 243. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-anatomia e istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale) I;  
-patologia della tubercolosi polmonare ed extrapolmonare;  
-patologia delle malattie dell'apparato respiratorio;  
-fisiologia e fisiopatologia generale dell'apparato respiratorio;  
-semeiotica fisica e funzionale dell'apparato respiratorio;  
-microbiologia;  
-epidemiologia e statistica sanitaria della tubercolosi e delle malattie dell'apparato respiratorio.  
-2° Anno:  
-anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale) II;  
-clinica della tubercolosi (triennale) I;  
-clinica delle malattie dell'apparato respiratorio, (triennale) I;  
-fisiopatologia speciale della tubercolosi e delle malattie dell'apparato respiratorio;  
-broncologia;  
-i radiologia dell'apparato respiratorio;  
-profilassi della tubercolosi;  
-igiene e legislazione sociale.  
-3° Anno:  
-clinica delle malattie dell'apparato respiratorio (triennale) II;  
-clinica della tubercolosi (triennale) II;  
-chemioterapia della tubercolosi e delle malattie dell'apparato respiratorio;  
-terapia fisiomeccanica nella tubercolosi e nelle malattie dell'apparato respiratorio;  
-terapia chirurgica nella tubercolosi e nelle malattie dell'apparato respiratorio.  
-4° Anno:  
-clinica delle malattie dell'apparato respiratorio (triennale) III;  
-clinica della tubercolosi (triennale) III.  
-Gli insegnamenti complementari sono:  
-immunologia clinica;  
-cardiologia;  
-medicina nucleare;  
-malattie professionali dell'apparato respiratorio;  
-terapia intensiva pneumologica.  
-I corsi d'insegnamento sono integrati da conferenze, da esercitazioni pratiche, da seminari interdisciplinari (questi ultimi prevalentemente destinati al 4° anno) e da esercitazioni pratiche nei reparti per le quali gli allievi hanno l'obbligo di frequenza al pari delle lezioni.  
-Alla fine di ogni anno di corso gli allievi dovranno superare una prova di esame sulle materie del rispettivo anno.  
-Alla fine del 4° anno gli allievi dovranno sostenere l'esame di diploma consistente nella dissertazione scritta su un argomento attinente alla specializzazione assegnata dal direttore della scuola o da uno degli insegnanti della scuola.  
+Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 9 - all'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti i seguenti:  
+dottrina dello Stato;  
+teoria generale del diritto;  
+diritto penitenziario;  
+giustizia costituzionale;  
+diritto pubblico romano.  
+Nello stesso articolo gli insegnamenti di diritto pubblico regionale e di sociologia criminale sono soppressi e sostituiti rispettivamente da diritto regionale e da criminologia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 maggio 1979
+### Dato a Roma, addi' 9 giugno 1976
 
-PERTINI SPADOLINI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 28 settembre 1979
+Registrato alla Corte dei conti, addi' 18 agosto 1976
 
-Registro n. 71 Istruzione, foglio n. 108
+Atti di Governo, registro n. 8, foglio n. 65

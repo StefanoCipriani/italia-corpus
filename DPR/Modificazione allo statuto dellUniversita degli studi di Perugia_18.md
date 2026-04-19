@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1985 n. 877
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1985 n. 876
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1985 n. 877
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1985 n. 876
 ================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Perugia.
@@ -33,18 +33,19 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Perugia approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Nell'art. 32, relativo al corso di laurea in lettere della facolta' di lettere e filosofia all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
-latino medievale.  
+Nell'art. 49, relativo ai corsi di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
+  
+virologia oncologica.  
   
 
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Dato a Roma, addi' 27 settembre 1985
 
@@ -56,4 +57,4 @@ Visto, il Guardasigilli: MARTINAZZOLI
 
 Registrato alla Corte dei conti, addi' 27 gennaio 1986
 
-Registro n. 3 Istruzione, foglio n. 224
+Registro n. 3 Istruzione, foglio n. 223

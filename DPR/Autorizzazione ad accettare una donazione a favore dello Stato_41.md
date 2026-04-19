@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 novembre 1985 n. 881
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 861
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 novembre 1985 n. 881
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 861
+================================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -10,10 +10,10 @@ Autorizzazione ad accettare una donazione a favore dello Stato.
 Art. 1
 ------
 
-n.
+N.
 
-881. Decreto del Presidente della Repubblica 13 novembre 1985, col quale, sulla proposta del Ministro della difesa, il Ministero della difesa viene autorizzato ad accettare la donazione, consistente in sei modelli originali storico-artistici di velieri antichi e di nove modelli di velieri antichi in battaglia, del valore approssimativo di L. 57.000.000, disposta dal prof. Pietro Montauti, con atto 30 gennaio 1985, n. 8598/2826 di repertorio, a rogito dott. Maurizio Tufani, notaio in Frascati (Roma) e registrato a Frascati in data 8 febbraio 1985 al n. 149.  
+861. Decreto del Presidente della Repubblica 22 settembre 1981, col quale, sulla proposta del Ministro delle finanze, viene autorizzata l'accettazione della donazione a favore dello Stato consistente in un terreno della superficie di are trenta e centiare novantatre, sul quale insistono i ruderi dell'antica citta' di Megara Hyblaea, in comune di Augusta (Siracusa), disposta dalla Scuola francese di Roma con atto 17 dicembre 1963, n. 62628 di repertorio, a rogito dott. Giuseppe Adorno, notaio in Siracusa.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 27 gennaio 1986  
-Registro n. 3 Difesa, foglio n. 272
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 12 gennaio 1982  
+Registro n. 2 Finanze, foglio n. 129

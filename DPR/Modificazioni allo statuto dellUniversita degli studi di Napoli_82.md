@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1974 n. 714
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1977 n. 996
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1974 n. 714
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1977 n. 996
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
@@ -12,157 +12,218 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
+Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+L'art. 443, quinto comma, relativo alla scuola di specializzazione in neurologia della prima facolta' di medicina e chirurgia e' abrogato e sostituito dal seguente:  
+"Non sono ammesse abbreviazioni di corso".  
+La scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale della prima facolta' di medicina e chirurgia, di cui agli articoli 444 e 445, muta la denominazione in quella di scuola di specializzazione in otorinolaringoiatria.  
+La scuola di specializzazione in odontoiatria e protesi dentaria della prima facolta' di medicina e chirurgia, di cui agli articoli 448 e 449, muta la denominazione in quella di scuola di specializzazione in odontostomatologia.  
+Gli articoli 455, 456, 457, 458, 459, relativi alla scuola di specializzazione in medicina legale e delle assicurazioni della prima facolta' di medicina e chirurgia sono abrogati e sostituiti dai seguenti:  
   
-Dopo l'art. 470, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione, presso la seconda facolta' di medicina e chirurgia, delle scuole di specializzazione per medici laboratoristi, in psichiatria e in neurochirurgia.  
-  
-Scuola di specializzazione pur medici laboratoristi  
-  
-Art. 471. - Alla seconda facolta' di medicina e chirurgia della Universita' degli studi di Napoli e' annessa la scuola di specializzazione per medici laboratoristi, con lo scopo di preparare sul piano scientifico e tecnico i medici che intendano dedicarsi particolarmente alle analisi di laboratorio applicate alla clinica e rilascia il diploma di "Specialista in analisi chimico-cliniche di laboratorio".  
-La scuola ha sede presso la cattedra di chimica biologica (I e II) e di patologia generale (I e II) ed e' diretta, ad anni alterni, dai titolari delle cattedre medesime, a rotazione fra gli stessi, i quali costituiscono un consiglio direttivo che esercita una funzione consultiva nei riguardi del direttore della scuola.  
-La durata della scuola e' di tre anni.  
-Il numero degli allievi da ammettere non puo' essere superiore a venti per ogni anno.  
-L'ammissione viene regolata da un esame scritto consistente in un tema su argomento di biochimica e fisiopatologia. Non sono consentite abbreviazioni di corso.  
-Gli assistenti di ruolo presso l'istituto di chimica biologica e di patologia generale potranno ottenere l'iscrizione al 2° anno di corso previo parere favorevole della facolta' su proposta del direttore della scuola. Tale iscrizione non comporta l'esonero dagli esami nelle materie del 1° anno ne' dal pagamento delle tasse relative.  
-  
-Art. 472. - Gli insegnamenti impartiti dalla scuola sono distribuiti nei tre anni come segue:  
+Scuola di specializzazione in medicina legale e delle assicurazioni   
+Art. 455. - Alla facolta' di medicina e chirurgia I e' annessa la scuola di specializzazione in medicina legale e delle assicurazioni.  
+Art. 456. - La durata della scuola e' di tre anni. Il direttore della scuola e' un professore di ruolo della cattedra di medicina legale e delle assicurazioni. Il numero massimo degli iscritti e' di dieci per anno per un totale di trenta iscritti per i tre anni di corso.  
+Art. 457. - Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni e le esercitazioni nonche' di prestare servizio medico interno per almeno sei mesi per ciascun asilo.  
+Alla fine di ogni anno, gli iscritti sosterranno gli esami di profitto sulle singole materie di insegnamento.  
+Lo specializzando che non abbia superato tutti gli esami dell'anno frequentato non potra' essere iscritto all'anno successivo.  
+Art. 458. - L'esame di diploma consistera' in una dissertazione scritta su un argomento di medicina legale e di medicina delle assicurazioni.  
+I candidati non riconosciuti idonei all'esame di diploma si potranno presentare dopo un altro anno di frequenza alla scuola; se al secondo esame non sara' loro riconosciuta l'idoneita' verranno senz'altro esclusi da ulteriori prove.  
+Art. 459. - Gli insegnamenti impartiti dalla scuola sono:  
 1° Anno:  
-1) Chimica biologica generale;  
-2) Fisiologia;  
-3) Patologia generale;  
-4) Batteriologia generale;  
-5) Nozioni di igiene applicate al laboratorio di analisi chimico-cliniche;  
-6) Tecnica dei prelevamenti;  
-7) Tecniche di laboratorio di chimico-clinica.  
+1) medicina legale generale;  
+2) elementi di diritto pubblico e privato;  
+3) tecnica e diagnostica anatomo-patologica generale e medico-legale;  
+4) traumatologia medico-legale;  
+5) semeiotica medico-legale.  
 2° Anno:  
-8) Batteriologia speciale;  
-9) Chimica biologica;  
-10) Chimico-fisica biologica applicata alla chimico-clinica;  
-11) Parassitologia e tecniche relative;  
-12) Micologia.  
+1) medicina legale penalistica;  
+2) deontologia medica;  
+3) neuropsichiatria medico-legale;  
+4) elementi di medicina criminologica e di medicina penitenziaria;  
+5) indagini di sopralluogo;  
+6) identificazione personale.  
 3° Anno:  
-13) Nozioni di statistica biologica;  
-14) Nozioni di immunochimica applicata;  
-15) Virologia e tecniche relative;  
-16) Microscopia clinica;  
-17) Immunologia e tecniche relative;  
-18) Identificazione di tracce biologiche;  
-19) Tecniche ematologiche di laboratorio.  
+1) medicina legale civilistica e canonistica;  
+2) tossicologia medico-legale;  
+3) tecniche di laboratorio medico-legale ed ematologie forense;  
+4) ostetricia e ginecologia forensi;  
+5) elementi di legislazione del lavoro;  
+6) elementi di medicina del lavoro;  
+7) medicina delle assicurazioni;  
+8) medicina legale militare e pensionistica civile.  
+Gli articoli 532, 533, 534, 535, 536, 537, relativi alla scuola di specializzazione in endocrinologia e malattie del ricambio della prima facolta' di medicina e chirurgia, che muta la denominazione in quella di scuola di specializzazione in endocrinologia, sono abrogati e sostituiti dai seguenti:  
   
-Art. 473. - L'esame di diploma, cui si e' ammessi dopo aver superato tutti gli esami nelle singole materie, consta di una dissertazione scritta - elaborata in un istituto universitario sotto il controllo di un relatore scelto fra il personale docente, e assegnata dal direttore della scuola - su un argomento pertinente gli insegnamenti della scuola, e da prove pratiche che saranno stabilite anno per anno dal direttore della scuola. A questo scopo il diplomando dovra' compiere un periodo di internato presso un istituto universitario di chimica biologica o di patologia generale, di almeno due anni se la tesi di specializzazione e' sperimentale. Solo in quest'ultimo caso la commissione degli esami di diploma ne terra' conto nella definizione del voto di diploma.  
+Scuola di specializzazione in endocrinologia  
+Prima facolta' di medicina e chirurgia  
   
-Scuola di specializzazione in psichiatria  
-  
-Art. 474. - Alla seconda facolta' di medicina e chirurgia dell'Universita' degli studi di Napoli e' annessa la scuola di specializzazione in psichiatria, con sede presso la cattedra di malattie nervose e mentali ed e' diretta dal titolare della cattedra medesima.  
-La durata della scuola e' di quattro anni.  
-Il numero degli allievi da ammettere non puo' essere superiore a sei per ogni anno (totale ventiquattro iscritti). L'ammissione alla scuola avviene per concorso per titolo ed esame.  
-Un'abbreviazione di due anni di corso puo' essere concessa agli specialisti in neurologia ed in neuropsichiatria infantile. Una abbreviazione di un anno di corso puo' essere concessa agli specialisti in altre materie affini (psicologia, neurochirurgia, medicina interna).  
-Le abbreviazioni di corso, concesse a giudizio del consiglio della scuola, comportano da parte dell'allievo il superamento di un esame sulle discipline previste per l'insegnamento negli anni di corso dei quali si ottiene l'abbreviazione.  
-  
-Art. 475. - Le materie di insegnamento sono le seguenti:  
+Art. 532. - La scuola assume la denominazione di scuola di specializzazione in endocrinologia con sede nei locali attribuiti all'endocrinologia della prima facolta' di medicina e chirurgia.  
+La scuola e' diretta dal professore ufficiale della materia o da un professore di ruolo di materia affine.  
+Art. 533. - La scuola ha la durata di tre anni.  
+Ad ogni anno accademico possono essere ammessi alla scuola ventuno candidati.  
+Art. 534. - Gli aspiranti saranno ammessi alla scuola in base alla classifica di un esame preliminare che comprende una prova scritta ed una orale che si svolgera' entro il mese di dicembre.  
+Gli iscritti alla scuola hanno l'obbligo di frequentare gli insegnamenti stabiliti secondo il programma del corso, nonche' l'istituto sede della scuola.  
+Art. 535. - Coloro che non ottempereranno all'obbligo di frequentare ai corsi di insegnamento ed al servizio di corsia e di laboratorio non potranno ottenere l'attestazione di frequenza, necessaria per l'ammissione agli esami.  
+Alla fine di ciascun anno accademico coloro che abbiano ottenuto la prescritta attestazione di frequenza potranno sostenere gli esami di profitto, il cui superamento e' condizione necessaria per l'iscrizione al corso successivo.  
+Art. 536. - Al termine del terzo anno, per conseguire il diploma di specializzazione in endocrinologia, gli iscritti, oltre ad aver superato le prove di esame dei singoli, dovranno presentare una dissertazione scritta su un argomento di ordine endocrinologico (clinico, e sperimentale) che sara' stabilito in base agli accordi presi con il direttore della scuola.  
+I candidati non riconosciuti idonei agli esami di ciascun corso o all'esame di diploma potranno sostenere le prove dopo un altro anno di frequenza.  
+Art. 537. - Le materie saranno le seguenti:  
 1° Anno:  
+1) anatomia ed embriologia degli organi endocrini;  
+2) fisiologia endocrina;  
+3) biochimica endocrina;  
+4) anatomia patologica delle malattie endocrine (biennale);  
+5) semeiotica e diagnostica endocrine (biennale).  
+2° Anno:  
+1) anatomia patologica delle malattie endocrine (biennale);  
+2) semeiotica e diagnostica endocrine (biennale);  
+3) patologia speciale medica e clinica delle malattie endocrine e delle auxopatie (biennale);  
+4) eredopatologia endocrina.  
+3° Anno:  
+1) patologia speciale medica e clinica delle malattie endocrine e delle auxopatie (biennale);  
+2) terapia delle malattie endocrine.  
+Inoltre vengono inseriti quattro insegnamenti facoltativi di cui uno a scelta del candidato sara' materia d'esame.  
+I suddetti insegnamenti sono:  
+tecniche di laboratorio endocrinologiche;  
+endocrinologia ostetrico-ginecologica;  
+endocrino-chirurgia;  
+psiconeuroendocrinologia.  
+Il programma di ciascun anno di corso sara' svolto in almeno sessanta lezioni globali e sara' integrato da seminari, conferenze, esercitazioni.  
+L'art. 612, relativo alla scuola di specializzazione in neurologia della seconda facolta' di medicina e chirurgia, e' abrogato e sostituito dal seguente:  
+Art. 612. - Non sono previste abbreviazioni di corso.  
+Dopo l'art. 652, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione, presso la seconda facolta' di medicina e chirurgia, della scuola di specializzazione in criminologia clinica.  
   
-Anatomia ed istologia del sistema nervoso;  
-Fisiologia del sistema nervoso;  
-Biochimica del sistema nervoso;  
-Genetica (elementi);  
-Psicologia generale;  
-Psicopatologia I;  
-Semeiotica psichiatrica.  
+Scuola di specializzazione in criminologia clinica  
+  
+Art. 653. - Presso la cattedra di antropologia criminale della seconda facolta' di medicina e chirurgia della Universita' di Napoli, e' istituita la scuola di specializzazione in criminologia clinica; essa e' diretta dal titolare della cattedra predetta, o dal titolare di disciplina strettamente affine.  
+Art. 654. - La scuola ha due indirizzi:  
+a) indirizzo medico psicologico e psichiatrico forense, per i laureati in medicina e chirurgia;  
+b) indirizzo socio-psicologico, per i laureati in giurisprudenza, scienze politiche, pedagogia, sociologia, psicologia, lettere e filosofia.  
+Dell'indirizzo seguito viene fatta espressa menzione sul diploma di, specializzazione.  
+La durata del corso della scuola e' di tre anni. La frequenza e' obbligatoria. Non sono consentite abbreviazioni di corso.  
+Art. 655. - Gli insegnamenti impartiti, nella scuola sono i seguenti:  
+Insegnamenti fondamentali comuni ai due indirizzi:  
+1) criminologia generale (I);  
+2) elementi di diritto;  
+3) elementi di sociologia;  
+4) elementi di psicologia;  
+5) elementi di biologia;  
+6) metodologia della ricerca;  
+7) criminologia generale (II);  
+8) criminologia minorile;  
+9) trattamento criminologico;  
+10) politica criminale e diritto penitenziario.  
+Insegnamenti fondamentali dell'indirizzo medico-psicologico e psichiatrico-forense:  
+1) psicopatologia generale;  
+2) psichiatria clinica;  
+3) diagnostica criminologica;  
+4) medicina legale e criminalistica;  
+5) psicodiagnostica;  
+6) neurologia e psichiatria forense;  
+7) prevenzione della patologia del comportamento;  
+8) tecniche di rieducazione minorile;  
+9) legislazione socio-sanitaria.  
+Insegnamenti fondamentali dell'indirizzo socio-psicologico:  
+1) elementi di psicopatologia generale;  
+2) elementi di psichiatria clinica e forense;  
+3) tecniche di servizio sociale;  
+4) antropologia culturale;  
+5) elementi di medicina legale;  
+6) psicologia sociale;  
+7) tecniche psicopedagogiche;  
+8) sociologia della devianza;  
+9) metodi di prevenzione.  
+Insegnamenti complementari:  
+1) antropofenomenologia;  
+2) etologia dei comportamenti criminosi;  
+3) sociologia del diritto;  
+4) psicobiologia;  
+5) economia della sicurezza e della difesa sociale;  
+6) psicologia e psicopatologia dell'eta' evolutiva;  
+7) igiene mentale;  
+8) psicoterapia.  
+Art. 656. - Il piano di studi della scuola di specializzazione e' il seguente:  
+1° Anno (comune ai due indirizzi):  
+1) criminologia generale (I);  
+2) elementi di diritto;  
+3) elementi di sociologia;  
+4) elementi di psicologia;  
+5) elementi di biologia;  
+6) metodologia della ricerca;  
+7) una materia integrativa a scelta.  
 2° Anno:  
   
-Anatomia ed istologia patologica del sistema nervoso;  
-Semeiotica neurologica;  
-Patologia speciale e diagnostica neurologica;  
-Neuroradiologia;  
-Endocrinologia e neurologia vegetativa;  
-Elettroencefalografia.  
+A) Indirizzo medico-psicologico e psichiatrico-forense:  
+1) criminologia generale (II);  
+2) psicopatologia generale;  
+3) psichiatria clinica;  
+4) diagnostica criminologica;  
+5) medicina legale e criminalistica;  
+6) psicodiagnostica;  
+7) criminologia minorile;  
+8) una materia integrativa a scelta.  
+  
+B) Indirizzo socio-psicologico:  
+1) criminologia generale (II);  
+2) elementi di psicopatologia generale;  
+3) elementi di psichiatria clinica e forense;  
+4) tecniche di servizio sociale;  
+5) antropologia culturale;  
+6) elementi di medicina legale;  
+7) criminologia minorile;  
+8) una materia integrativa a scelta.  
 3° Anno:  
   
-Patologia speciale psichiatrica;  
-Psicopatologia II;  
-Clinica psichiatrica I;  
-Psicologia clinica e psicodiagnostica;  
-Psichiatria in rapporto con la patologia internistica;  
-Esami di laboratorio;  
-Psicofarmacologia.  
-4° Anno:  
+A) indirizzo medico-psicologico e psichiatrico-forense:  
+1) neurologia e psichiatria forense;  
+2) prevenzione della patologia del comportamento;  
+3) trattamento criminologico;  
+4) tecniche di rieducazione minorile;  
+5) legislazione socio-sanitaria;  
+6) politica criminale e diritto penitenziario;  
+7) una materia integrativa a scelta.  
   
-Clinica psichiatrica II;  
-Terapia psichiatrica generale;  
-Psicoterapia;  
-Neuropsichiatria infantile;  
-Psichiatria forense e legislazione psichiatrica;  
-Psichiatria sociale (del lavoro, scolastico, igiene e profilassi mentale).  
-  
-Art. 476. - E' obbligatorio l'internato presso i reparti ed ambulatori della clinica psichiatrica durante il primo, il terzo ed il quarto anno di corso per l'intero anno accademico. Tale internato potra' essere ridotto a non meno di mesi quattro per i medici che prestino regolare servizio in ospedali psichiatrici provinciali, ed a non meno di mesi sei per i medici che prestino regolare servizio in altre istituzioni d'assistenza primariamente psichiatrica delle province e delle regioni.  
-E' obbligatorio l'internato presso i reparti neurologici della clinica per le malattie nervose e mentali, durante il secondo anno di corso per l'intero anno accademico.  
-Tale internato potra' essere ridotto a non meno di mesi sei per i medici che prestino regolare servizio in ospedale psichiatrico, ed a non meno di mesi quattro per i medici che prestino regolare servizio in un reparto neurologico.  
-  
-Art. 477. - L'esame di diploma di specializzazione consiste nella discussione di una dissertazione scritta su un argomento di psichiatria, preventivamente concordato con il direttore della scuola.  
-  
-Scuola di specializzazione in neurochirurgia  
-  
-Art. 478. - Alla 2ª facolta' di medicina e chirurgia dell'Universita' degli studi di Napoli e' annessa la scuola di specializzazione in neurochirurgia, con sede presso la cattedra di neurochirurgia ed e' diretta dal titolare della cattedra medesima.  
-La durata della scuola e' di quattro anni.  
-Il numero degli allievi da ammettere non puo' superare i sei per ogni anno.  
-L'ammissione alla scuola avviene per concorso, per titoli ed esame.  
-Non sono consentite abbreviazioni di corso se non per coloro che sono gia' in possesso del diploma di specialista in chirurgia generale od in clinica delle malattie nervose e mentali, previo parere del consiglio dei docenti della scuola, i quali potranno usufruire dell'abbreviazione di un anno.  
-Art. 479. - Le materie di insegnamento sono:  
-1° Anno:  
-1) Neuroanatomia;  
-2) Neurofisiologia;  
-3) Semeiotica e clinica neurologica;  
-4) Elementi di psichiatria;  
-5) Clinica neurochirurgica (I).  
-Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto sulle materie di cui ai numeri 1), 2), 3) e 4).  
-2° Anno:  
-1) Neuro-oftalmologia;  
-2) Neuro-otoiatria;  
-3) Elettroencefalografia ed elettromiografia;  
-4) Clinica neurochirurgica (II).  
-Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto sulle materie di cui ai numeri 1), 2) e 3).  
-3° Anno:  
-1) Anestesiologia;  
-2) Neuropatologia;  
-3) Neuroradiologia (I);  
-4) Clinica neurochirurgica (III).  
-Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto sulle materie di cui ai numeri 1) e 2).  
-4° Anno:  
-1) Tecniche operatorie;  
-2) Neuroradiologia (II);  
-3) Clinica neurochirurgica (IV);  
-4) Neurotraumatologia;  
-5) Neurochirurgia infantile;  
-6) Chirurgia stereotassica;  
-7) Neurochirurgia spinale.  
-Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto sulle materie di cui ai numeri 1), 2) e 3).  
-Gli insegnamenti saranno integrati da esercitazioni cliniche e di laboratorio.  
-  
-Art. 480. - La frequenza alla scuola e' obbligatoria durante l'anno accademico. Gli allievi sono tenuti a frequentare assiduamente le lezioni ed i laboratori della clinica neurochirurgica secondo l'orario stabilito ed a partecipare attivamente alle esercitazioni cliniche e di laboratorio.  
-Per conseguire il diploma di specialista in neurochirurgia, gli iscritti, al termine dei corsi, oltre ad avere superato le prove di esame nelle singole materie, dovranno presentare una dissertazione scritta, elaborata nell'istituto, su un argomento di neurochirurgia e dovranno sostenere un esame pratico dinanzi ad una commissione formata dagli insegnanti della scuola.  
+B) indirizzo socio-psicologico;  
+1) psicologia sociale;  
+2) tecniche psico-pedagogiche;  
+3) sociologia della devianza;  
+4) metodi di prevenzione;  
+5) trattamento criminologico;  
+6) politica criminale e diritto penitenziario;  
+7) una materia a scelta integrativa.  
+Art. 657. - All'atto della domanda di iscrizione a ciascuno dei tre anni di corso, l'allievo dovra' indicare alla segreteria della scuola una materia integrativa, da scegliere fra le materie complementari ovvero fra quelle fondamentali appartenenti all'indirizzo al quale non e' iscritto. L'indicazione e' vincolante.  
+Art. 658. - Gli insegnamenti potranno essere integrati da esercitazioni pratiche, nonche' da conferenze tenute da esperti italiani e stranieri.  
+Art. 659. - Alla scuola sono ammessi i laureati in medicina e chirurgia, in giurisprudenza, in scienze politiche, in pedagogia, in sociologia, in psicologia, in lettere e in filosofia, in numero complessivo non superiore a trenta per i tre anni di corso.  
+L'ammissione avviene mediante concorso per esami.  
+Art. 660. - Gli esami di profitto sono tenuti ogni anno per singole materie o per gruppi di materie. Per essere ammesso all'esame di diploma l'allievo deve aver sostenuto, ventidue esami, dei quali diciannove relativi alle materie fondamentali del suo indirizzo e tra relativi alle materie integrative da lui scelte.  
+I voti degli esami di profitto sono attribuiti in trentesimi, il voto dell'esame di diploma e' attribuito in cinquantesimi.  
+Art. 661. - L'esame di diploma consiste nella discussione di una dissertazione scritta originale, in una delle materie oggetto di insegnamento. Il tema, concordato con il docente, dovra' essere presentato al direttore della scuola per l'approvazione entro trenta giorni dalla data di inizio dell'ultimo anno di corso.  
+A coloro che hanno superato l'esame di diploma viene rilasciato il diploma di specialista in criminologia clinica, con la specificazione dell'indirizzo seguito.  
+Art. 662. - Le norme per l'iscrizione, per gli esami, per le tasse, ecc, sono quelle generali, delle scuole di specializzazione dello statuto dell'Universita' di Napoli.  
+L'[art. 679 del decreto del Presidente della Repubblica 24 ottobre 1975, n. 602](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1975-10-24;602~art679), relativo alla scuola di specializzazione in radiologia della seconda facolta' di medicina e chirurgia, e' modificato nel senso che gli insegnamenti di cui al punto c) sono abrogati e sostituiti dai seguenti:  
+c) radiobiologia (annuale) comprendente:  
+1) radiologia generale;  
+2) danni da radiazioni e radiopatie.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1974
+### Dato a Roma, addi' 19 ottobre 1977
 
 LEONE MALFATTI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 16 gennaio 1975
+Registrato alla Corte dei Conti, addi' 29 dicembre 1977
 
-Atti di Governo, registro n. 7, foglio n. 112
+Registro n. 146 Istruzione, foglio n. 324

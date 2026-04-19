@@ -1,113 +1,88 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 marzo 1981 n. 604
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1979 n. 456
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 marzo 1981 n. 604
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1979 n. 456
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Il testo dell'art. 59, relativo al corso di laurea in medicina e chirurgia, e' modificato nel senso che all'elenco degli insegnamenti complementari e' aggiunto il seguente:  
-ematologia.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
-Il testo dell'art. 65, relativo al corso di laurea in chimica, e' modificato nel senso che all'elenco degli insegnamenti complementari per l'indirizzo organico-biologico sono aggiunti i seguenti:  
-fotochimica organica;  
-stereochimica organica.  
-
-Art. 3
-------
-
+Decreta:   
   
-Il testo dell'art. 66, relativo al corso di laurea in fisica, e' modificato nel modo seguente:  
-All'elenco degli insegnamenti complementari del 4° anno per l'indirizzo generale sono aggiunti quelli di:  
-fisica dei fenomeni cooperativi e transizioni di fase, fisica delle basse temperature, programmazione degli elaboratori elettronici, programmazione e interpretazione statistica dei dati, proprieta' magnetiche della materia, spettroscopia dello stato solido, struttura elettronica dei solidi, fisica dei sistemi a molti corpi, teoria dello stato solido, teoria delle reazioni nucleari, interazioni subnucleari, struttura dei nuclei atomici.  
-All'elenco degli insegnamenti complementari del 4° anno per l'indirizzo didattico sono aggiunti quelli di:  
-acceleratori di particelle, elaboratori elettronici, fisica dei dispositivi a stato solido, fisica dei semiconduttori, fisica delle radiazioni, fisica sanitaria, programmazione degli elaboratori elettronici, struttura elettronica dei solidi, scienza dei materiali.  
-All'elenco degli insegnamenti complementari del 4° anno per l'indirizzo applicativo sono aggiunti quelli di:  
-acceleratori di particelle, elaboratori elettronici, elettronica nucleare, fisica dei difetti reticolari, fisica dei dispositivi a stato solido, fisica dei fenomeni cooperativi e transizioni di fase, fisica dei film sottili, fisica dei semiconduttori, fisica delle basse temperature, fisica delle radiazioni, fisica sanitaria, programmazione degli elaboratori elettronici, programmazione e interpretazione statistica dei dati, proprieta' magnetiche della materia, spettroscopia dello stato solido, strumenti e misure nucleari, struttura elettronica dei solidi, tecnologie dello stato solido, fisica dei sistemi a molti corpi, scienza dei materiali, teoria dello stato solido, teoria delle reazioni nucleari, interazioni subnucleari, struttura dei nuclei atomici.  
-
-Art. 4
-------
-
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Il testo dell'art. 70, relativo al corso di laurea in scienze geologiche, e' modificato nel senso che all'elenco degli insegnamenti complementari e' aggiunto il seguente:  
-mineralogia applicata.  
-
-Art. 5
-------
-
+Dopo l'art. 270, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in medicina dello sport.   
   
-Dopo l'art. 131, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di perfezionamento nelle discipline linguistiche, annessa alla facolta' di lettere e filosofia.  
+Scuola di specializzazione in medicina dello sport   
   
-Scuola di perfezionamento nelle discipline linguistiche  
+Art. 271. - La scuola di specializzazione in medicina dello sport dell'Universita' degli studi di Pavia si propone:   
+a) di valorizzare e approfondire gli studi biologici e di medicina applicata nel campo delle attivita' sportive, formative e di competizione, e della educazione fisica;   
+b) di preparare adeguatamente sotto l'aspetto teorico e della applicazione pratica, i medici che intendono dedicarsi alle attivita' attinenti a questa particolare branca della medicina applicata, conferendo ad essi il diploma di specialista in medicina dello sport.   
+Art. 272. - Il titolo richiesto per l'ammissione alla scuola e' la laurea in medicina e chirurgia.   
+Il corso di studi ha la durata di tre anni, con frequenza obbligatoria; esso ha la sua sede ufficiale presso l'istituto di fisiologia umana. Gli insegnamenti clinici e specialistici si svolgono presso i rispettivi istituti clinici e specialistici.   
+Il numero massimo degli allievi e' di dodici per anno e complessivamente di trentasei per l'intero corso.   
+L'ammissione ai corsi avviene per titoli. Nel caso di domande eccedenti il numero dei posti disponibili la selezione dei candidati avviene in base ai risultati di un esame di ammissione.   
+Non sono previste abbreviazioni di corso.   
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Art. 273. - L'ordine degli studi e' il seguente:   
+1° Anno:   
+1) anatomia dell'apparato locomotore;   
+2) fisiologia dell'apparato locomotore;   
+3) biochimica ed energetica muscolare;   
+4) antropometria e auxologia;   
+5) psicologia applicata allo sport;   
+6) storia dell'educazione fisica e dello sport;   
+7) sistematica delle attivita' sportivo-agonistiche e regolamenti sportivi.   
+2° Anno:   
+1) fisiologia dell'esercizio fisico;   
+2) biomeccanica dell'esercizio fisico;   
+3) metodologia dell'allenamento sportivo;   
+4) scienza della nutrizione applicata all'attivita' sportiva;   
+5) fisiopatologia degli sport e semeiotica medico-sportiva I;   
+6) farmacologia e tossicologia del doping;   
+7) igiene e medicina preventiva applicata all'attivita' sportiva;   
+8) traumatologia degli sport.   
+3° Anno:   
+1) fisiologia applicata agli sport;   
+2) valutazione funzionale dello sportivo;   
+3) fisiopatologia degli sport e semeiotica medico-sportiva II;   
+4) fisioterapia e rieducazione funzionale;   
+5) rianimazione e pronto soccorso;   
+6) medicina legale ed infortunistica legata agli sport;   
+7) fisiologia dell'adattamento agli ambienti straordinari.   
+La scuola svolge brevi corsi integrativi di conferenze o seminari sopra argomenti e discipline che sono stabiliti, secondo le possibilita' contingenti, del consiglio dei docenti della scuola.  
+Sono inoltre svolte esercitazioni pratiche in sede e sul campo.   
+Art. 274. - Alla fine di ogni anno di corso gli allievi devono sostenere l'esame di profitto nelle materie di insegnamento (art. 273), previste per ogni anno di corso e articolate in un unico gruppo.   
+L'iscrizione agli anni successivi e' subordinata al superamento di tutti gli esami annuali.   
+Art. 275. - Il diploma si consegue dopo aver superato tutte le prove di esame del triennio; la prova di diploma si svolge con la discussione su una dissertazione scritta concernente un tema assegnato o in ogni altro caso approvato dal direttore della scuola.   
+Art. 276. - Alle spese occorrenti al funzionamento della scuola si provvede con le seguenti tasse, soprattasse e contributi degli iscritti:   
   
-Art. 132. - E' costituita presso la facolta' di lettere e filosofia della Universita' di Pavia la scuola di perfezionamento nelle discipline linguistiche. La scuola usufruisce delle attrezzature dell'istituto di glottologia, di quelle della biblioteca della facolta', del laboratorio linguistico e inoltre delle attrezzature degli istituti i cui docenti collaboreranno alle attivita' della scuola. La durata del corso di studi e' di due anni accademici.  
-Al termine degli studi la scuola rilascia un diploma di perfezionamento.  
-Art. 133. - La scuola di perfezionamento nelle discipline linguistiche si propone di:  
-a) indirizzare e guidare i giovani laureati che intendano dedicarsi alla ricerca scientifica nell'ambito delle scienze del linguaggio;  
-b) promuovere il perfezionamento della cultura specifica richiesta per la preparazione professionale degli insegnanti, della quale l'educazione linguistica costituisce parte essenziale e riconosciuta dai programmi attuali;  
-c) promuovere gli studi nell'ambito delle scienze del linguaggio attraverso l'insegnamento, la ricerca scientifica, pubblicazioni, raccolta di materiali, collaborazione con studiosi e istituti di ricerca e di studio nello stesso settore e in settori affini.  
-Art. 134. - La scuola e' retta da un direttore designato ogni triennio dal consiglio di facolta' nella persona di un professore ordinario o straordinario di una delle discipline linguistiche di cui al successivo art. 136.  
-Il direttore e' coadiuvato dal consiglio direttivo della scuola, costituito dai docenti che di anno in anno collaborano alle attivita' della scuola.  
-Art. 135. - Alla scuola possono iscriversi i laureati delle facolta' di lettere e filosofia nonche' laureati in altre facolta'; l'ammissione e' subordinata all'approvazione del consiglio direttivo della scuola.  
-Art. 136. - Piano di studio:  
-1° Anno:  
-1) glottologia;  
-2) linguistica generale o linguistica applicata;  
-3) una filologia, oppure una storia della lingua afferente l'ambito linguistico prescelto per la dissertazione di diploma.  
-2° Anno:  
-1) disciplina linguistica particolare nel cui ambito e' prescelto il tema della dissertazione di diploma;  
-2) una seconda disciplina linguistica, oppure un insegnamento approvato secondo l'art. 137 del presente statuto, impartito nella facolta' di lettere e filosofia, o in altra facolta' della Universita' di Pavia. Gli insegnamenti annuali saranno integrati da seminari, cicli di conferenze ed altre attivita' didattiche e scientifiche. Si considerano discipline linguistiche, o comunque rilevanti per gli studi linguistici le seguenti discipline previste dallo statuto della facolta' di lettere e filosofia: glottologia, linguistica generale, linguistica applicata, sociolinguistica, psicolinguistica, filosofia del linguaggio, fonetica, semiotica, dialettologia italiana, sanscrito, ebraico e lingue semitiche comparate, storia comparata delle lingue classiche, grammatica greco-latina, filologia egeoanatolica, filologia celtica, filologia ugro-finnica, filologia romanza, filologia germanica, filologia slava, filologia grecolatina, storia della lingua latina, storia della lingua greca, storia della lingua italiana, storia della lingua inglese, storia della lingua francese, storia della lingua tedesca.  
-Art. 137. - Per essere ammesso all'esame di diploma l'iscritto alla scuola deve aver seguito i corsi e seguito gli esami in almeno cinque insegnamenti scelti fra quelli impartiti ufficialmente nella facolta' di lettere e filosofia o in altre facolta' dell'Universita' di Pavia.  
-La scelta degli insegnamenti ed il relativo piano di studio debbono essere sottoposti all'inizio dei corsi all'approvazione del direttore della scuola e del professore della disciplina in cui l'iscritto intende sostenere l'esame di diploma.  
-Art. 138. - L'esame di diploma consiste nella discussione di una dissertazione scritta di carattere scientifico e di argomento linguistico, svolta su un tema fissato all'inizio del corso degli studi d'intesa col docente della disciplina e con l'approvazione del direttore della scuola.  
-Art. 139. - La commissione degli esami di profitto e' quella prevista per i vari insegnamenti secondo le disposizioni delle singole facolta'. La commissione degli esami di diploma e' composta da sette membri, e' presieduta dal preside della facolta' di lettere e filosofia e ne fanno parte il direttore della scuola e cinque professori ufficiali da lui designati.  
-Art. 140. - Gli iscritti alla scuola sono tenuti a pagare le medesime tasse, soprattasse e contributi stabiliti dalle vigenti disposizioni di legge per gli studenti della facolta' di lettere e filosofia. La tassa del diploma e' prevista in lire seimila, a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1531](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1531~art7). La misura degli eventuali contributi per altre prestazioni durante il corso degli studi e' fissata dal consiglio di amministrazione su proposta del senato accademico, udita la facolta' di lettere e filosofia e il consiglio direttivo della scuola.  
+tassa di immatricolazione. . . . . . . . . . . . . . . . . . L. 5.000 libretto e tessera . . . . . . . . . . . . . . . . . . . . . L. 2.000 tassa annuale di iscrizione (in due rate). . . . . . . . . L. 186.000 tassa erariale di diploma. . . . . . . . . . . . . . . . . . L. 6.000   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 marzo 1981
+### Dato a Roma, addi' 4 giugno 1979
 
-PERTINI BODRATO
+PERTINI SPADOLINI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 21 ottobre 1981
+Registrato alla Corte dei conti, addi' 7 settembre 1979
 
-Registro n. 96 Istruzione, foglio n. 362
+Registro n. 67 Istruzione, foglio n. 394

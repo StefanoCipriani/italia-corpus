@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1956 n. 1148
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1976 n. 523
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1956 n. 1148
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1976 n. 523
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Roma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con i [regi decreti 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-26;1734); [26 ottobre 1940, n. 2069](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2069); [4 maggio 1942, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-05-04;565); [24 luglio 1942, n. 949](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-24;949); [24 agosto 1942, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-08-24;1098); [24 ottobre 1942, n. 1672; con decreto luogotenenziale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo.luogotenenziale:1942-10-24;1672) [8 febbraio 1946, n. 242; con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-02-08;242) [12 aprile 1947, n. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-04-12;461) e [31 dicembre 1947, n. 1758 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-31;1758) [24 dicembre 1948, n. 1619](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-12-24;1619); [18 luglio 1949, n. 882](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-07-18;882); [20 ottobre 1949, n. 989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;989); [20 ottobre 1949, n. 991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;991); [20 ottobre 1949, n. 1178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;1178); [30 ottobre 1949, n. 1152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1152), [11 giugno 1950, n. 622](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-06-11;622); [16 novembre 1950, n. 1313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-11-16;1313); [11 maggio 1951, n. 653](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-05-11;653); [27 ottobre 1951, n. 1813](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1813); [14 aprile 1952, n. 888](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-04-14;888); [16 agosto 1952, n. 2589](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-08-16;2589); [19 settembre 1952, n. 1697](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-09-19;1697); [11 marzo 1953, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;565); [12 maggio 1953, n. 570](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-05-12;570); [25 agosto 1953, n. 834](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;834); [26 ottobre 1954, n. 1232](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-26;1232); [12 febbraio 1955, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-12;34); [30 giugno 1955, n. 694](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-06-30;694); [19 luglio 1955, n. 760](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-19;760); [27 luglio 1955, n. 784](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-27;784) e [4 ottobre 1955, n. 962](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-10-04;962);
+Veduto lo statuto dell'Universita' di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -22,7 +22,7 @@ Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?u
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Roma e convalidati dal Consiglio superiore della pubblica istruzione nei suoi pareri;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -32,59 +32,180 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 24. - Agli insegnamenti attribuiti all'Istituto di studi economici, finanziari e statistici annesso alla Facolta' di scienze politiche, e' aggiunto quello di "statistica".
+L'art. 58, relativo all'elenco degli insegnamenti complementari del corso di laurea in lettere, e' modificato nel senso che l'insegnamento di ecologia preistorica muta la denominazione in quella di ecologia preistorica e archeologia del paleolitico.
 
-Art. 60. - Agli insegnamenti complementari del corso di laurea in materie letterarie e' aggiunto quello di "letterature popolari".
+Art. 120 - all'elenco degli insegnamenti complementari del corso di laurea in farmacia e' aggiunto il seguente:
 
-Art. 62. - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere e' aggiunto quello di "letterature popolari".
+stechiometria.
 
-Art. 161. - Agli insegnamenti complementari del corso di laurea in farmacia in aggiunto quello di "chimica farmaceutica applicata".
+Art. 125 - all'elenco degli insegnamenti complementari del corso di laurea in chimica e tecnologia farmaceutiche e' aggiunto il seguente: stechiometria.
 
-Il presente decreto, munito del sigillo dello stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Dopo l'art. 1008 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di perfezionamento in pianificazione urbana e territoriale annessa alla facolta' di architettura.
 
-Dato a Roma, addi' 5 settembre 1956
+Scuola di perfezionamento in pianificazione urbana e territoriale
 
-GRONCHI
+Art. 1009. - Presso la facolta' di architettura di Roma e' istituita una scuola di perfezionamento in pianificazione urbana e territoriale con il fine di formare una piu' specializzata e profonda preparazione specifica integrativa di quella preliminare universitaria, nonche' di formare una piu' vasta e diffusa conoscenza e di promuovere studi e ricerche inerenti all'insediamento umano e all'ordinato assetto dell'ambiente.
 
-ROSSI
+Art. 1010. - Direttore della scuola sara' un professore di ruolo, fuori ruolo o emerito, titolare di una disciplina urbanistica o di pianificazione territoriale.
 
-Visto, il Guardasigilli: MORO
+Il direttore sara' nominato, per la durata di un triennio e con possibilita' di essere riconfermato, dal rettore dietro designazione del consiglio di facolta'.
+
+Il direttore sara' coadiuvato da un consiglio composto da tutti gli insegnanti delle materie costitutive della scuola; il consiglio sara' presieduto dal direttore. Gli insegnanti di ciascun corso saranno scelti tra i professori di ruolo e fuori ruolo, tra i professori incaricati e tra i liberi docenti universitari nonche' tra esperti cultori di riconosciuta competenza nelle rispettive specialita'.
+
+Essi saranno proposti dal direttore della scuola e nominati dal rettore su parere conforme del consiglio di facolta'.
+
+Art. 1011. - L'iscrizione ai corsi e' riservata ai laureati italiani in architettura ed ingegneria civile ovvero a stranieri forniti di titolo di studio equivalente nonche' ai laureati, amministratori o cultori, italiani e stranieri operanti in settori disciplinari afferenti allo studio, all'organizzazione e alla gestione del territorio e della citta'.
+
+Art. 1012. - La scuola attuera' corsi della durata complessiva di due anni il cui calendario sara' stabilito volta per volta dal direttore della scuola, sentito il parere del consiglio.
+
+Il corso comprendera' gli insegnamenti di cui al seguente elenco, ripartiti come appresso specificato nei due anni di frequenza:
+
+1) progettazione urbanistica e disegno urbano (biennale) I e II;
+
+2) pianificazione territoriale (annuale) I;
+
+3) risanamento ambientale e restauro conservativo (semestrale) II;
+
+4) storia della citta' (annuale) I;
+
+5) strutture urbane e territoriali (semestrale) I;
+
+6) grandi attrezzature (semestrale) II;
+
+7) comunicazione e trasporti (annuale) II;
+
+8) impianti tecnici ed igiene urbana (semestrale) II;
+
+9) geografia urbana (semestrale) I;
+
+10) economia politica e programmazione economica (annuale) II;
+
+11) sociologia (annuale) I;
+
+12) ecologia e scienze naturalistiche (annuale) I;
+
+13) amministrazione, gestione e diritto urbanistico (2 semestri) I e II;
+
+14) geotecnica e idrologia (semestrale) II;
+
+15) paesistica (semestrale) II;
+
+16) statistica matematica econometrica (2 semestri) I e II.
+
+Art. 1013. - Ogni insegnamento, sia annuale che semestrale comportera' un esame finale, ovvero un colloquio annuale ed un esame finale, se biennale. Alla fine del corso gli insegnanti dovranno attestare, secondo le modalita' stabilite dal direttore dietro parere conforme del consiglio, la frequenza degli iscritti ai corsi.
+
+Alla fine del corso gli allievi dovranno sostenere una prova finale costituita dalla presentazione e discussione di un lavoro individuale ed originale a carattere progettuale, critico, teorico in relazione al titolo da conseguire.
+
+Art. 1014. - Ai partecipanti ai corsi, i quali abbiano regolarmente frequentato gli insegnamenti e superato i relativi esami, verranno rilasciati i seguenti titoli:
+
+diploma di qualificazione di architetto o ingegnere urbanista ai partecipanti i quali, essendo forniti della corrispondente laurea, ovvero di titolo straniero equivalente, abbiano sostenuto con esito positivo tutti gli esami e la prova finale;
+
+attestato di esperto in urbanistica, corredato dal curriculum scolastico completo e dall'elenco degli esami superati, ai partecipanti i quali abbiano sostenuto con esito favorevole un numero di esami non inferiore ai 2/3 delle materie istituite presso la scuola, nonche' la prova finale.
+
+Art. 1015. - Le commissioni per gli esami di profitto e per i colloqui, saranno nominate dal direttore della scuola e saranno costituite da tre membri scelti tra i docenti della scuola, peraltro un membro di ciascuna commissione potra' essere scelto al di fuori degli insegnanti della scuola.
+
+La prova finale verra' sostenuta davanti ad una commissione di sette membri, nominata dal rettore, su proposta del direttore della scuola e composta, in maggioranza, da insegnanti della scuola stessa.
+
+Art. 1016. - Il numero massimo degli iscritti, le norme di ammissione e di frequenza, il programma ed il contenuto dei corsi e delle ricerche da svolgere saranno stabiliti annualmente dal consiglio.
+
+L'ammissione dei partecipanti ai corsi avverra' mediante concorso.
+
+La valutazione sara' fatta in base a titoli relativi all'attivita' svolta dai candidati presso gli istituti universitari: tesi di laurea; studi; ricerche; progetti, programmi e pubblicazioni relativi ad argomenti di pianificazione territoriale ed urbanistica, nonche' all'assetto della societa' e dell'ambiente.
+
+Art. 1017. - Le modalita' di iscrizione, il pagamento delle tasse e soprattasse saranno conformi alle disposizioni di legge vigenti per gli studenti universitari; eventuali contributi verranno stabiliti annualmente dal consiglio di amministrazione dell'Universita' di Roma, su proposta del consiglio della scuola.
+
+I partecipanti potranno usufruire di eventuali borse di studio, di premi conferiti dal consiglio della scuola dietro proposta del direttore, in misura e numero relativi alle possibilita' finanziarie della scuola.
+
+Art. 1018. - Sono utilizzabili le attrezzature didattiche e scientifiche gia' a disposizione degli istituti di urbanistica e di pianificazione territoriale. I mezzi con cui viene fatto fronte alle spese di gestione comprendono contributi della facolta', del Consiglio nazionale delle ricerche e di enti morali interessati ai problemi della pianificazione.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 25 maggio 1976
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: BONIFACIO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 18 ottobre 1956 Atti del Governo, registro n. 101, foglio n. 50. - CARLOMAGNO
+alla Corte dei conti, addi' 23 luglio 1976 Atti di Governo, registro n. 8, foglio n. 12
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con i [regi decreti 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-26;1734); [26 ottobre 1940, n. 2069](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2069); [4 maggio 1942, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-05-04;565); [24 luglio 1942, n. 949](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-24;949); [24 agosto 1942, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-08-24;1098); [24 ottobre 1942, n. 1672; con decreto luogotenenziale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo.luogotenenziale:1942-10-24;1672) [8 febbraio 1946, n. 242; con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-02-08;242) [12 aprile 1947, n. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-04-12;461) e [31 dicembre 1947, n. 1758 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-31;1758) [24 dicembre 1948, n. 1619](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-12-24;1619); [18 luglio 1949, n. 882](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-07-18;882); [20 ottobre 1949, n. 989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;989); [20 ottobre 1949, n. 991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;991); [20 ottobre 1949, n. 1178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;1178); [30 ottobre 1949, n. 1152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1152), [11 giugno 1950, n. 622](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-06-11;622); [16 novembre 1950, n. 1313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-11-16;1313); [11 maggio 1951, n. 653](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-05-11;653); [27 ottobre 1951, n. 1813](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1813); [14 aprile 1952, n. 888](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-04-14;888); [16 agosto 1952, n. 2589](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-08-16;2589); [19 settembre 1952, n. 1697](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-09-19;1697); [11 marzo 1953, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;565); [12 maggio 1953, n. 570](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-05-12;570); [25 agosto 1953, n. 834](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;834); [26 ottobre 1954, n. 1232](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-26;1232); [12 febbraio 1955, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-12;34); [30 giugno 1955, n. 694](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-06-30;694); [19 luglio 1955, n. 760](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-19;760); [27 luglio 1955, n. 784](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-27;784) e [4 ottobre 1955, n. 962](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-10-04;962);  
+Veduto lo statuto dell'Universita' di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Roma e convalidati dal Consiglio superiore della pubblica istruzione nei suoi pareri;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 24. - Agli insegnamenti attribuiti all'Istituto di studi economici, finanziari e statistici annesso alla Facolta' di scienze politiche, e' aggiunto quello di "statistica".  
-Art. 60. - Agli insegnamenti complementari del corso di laurea in materie letterarie e' aggiunto quello di "letterature popolari".  
-Art. 62. - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere e' aggiunto quello di "letterature popolari".  
-Art. 161. - Agli insegnamenti complementari del corso di laurea in farmacia in aggiunto quello di "chimica farmaceutica applicata".  
   
-Il presente decreto, munito del sigillo dello stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.  
+L'art. 58, relativo all'elenco degli insegnamenti complementari del corso di laurea in lettere, e' modificato nel senso che l'insegnamento di ecologia preistorica muta la denominazione in quella di ecologia preistorica e archeologia del paleolitico.  
+Art. 120 - all'elenco degli insegnamenti complementari del corso di laurea in farmacia e' aggiunto il seguente:  
+stechiometria.  
+Art. 125 - all'elenco degli insegnamenti complementari del corso di laurea in chimica e tecnologia farmaceutiche e' aggiunto il seguente: stechiometria.  
+Dopo l'art. 1008 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di perfezionamento in pianificazione urbana e territoriale annessa alla facolta' di architettura.  
+Scuola di perfezionamento in pianificazione urbana e territoriale  
+Art. 1009. - Presso la facolta' di architettura di Roma e' istituita una scuola di perfezionamento in pianificazione urbana e territoriale con il fine di formare una piu' specializzata e profonda preparazione specifica integrativa di quella preliminare universitaria, nonche' di formare una piu' vasta e diffusa conoscenza e di promuovere studi e ricerche inerenti all'insediamento umano e all'ordinato assetto dell'ambiente.  
+Art. 1010. - Direttore della scuola sara' un professore di ruolo, fuori ruolo o emerito, titolare di una disciplina urbanistica o di pianificazione territoriale.  
+Il direttore sara' nominato, per la durata di un triennio e con possibilita' di essere riconfermato, dal rettore dietro designazione del consiglio di facolta'.  
+Il direttore sara' coadiuvato da un consiglio composto da tutti gli insegnanti delle materie costitutive della scuola; il consiglio sara' presieduto dal direttore. Gli insegnanti di ciascun corso saranno scelti tra i professori di ruolo e fuori ruolo, tra i professori incaricati e tra i liberi docenti universitari nonche' tra esperti cultori di riconosciuta competenza nelle rispettive specialita'.  
+Essi saranno proposti dal direttore della scuola e nominati dal rettore su parere conforme del consiglio di facolta'.  
+Art. 1011. - L'iscrizione ai corsi e' riservata ai laureati italiani in architettura ed ingegneria civile ovvero a stranieri forniti di titolo di studio equivalente nonche' ai laureati, amministratori o cultori, italiani e stranieri operanti in settori disciplinari afferenti allo studio, all'organizzazione e alla gestione del territorio e della citta'.  
+Art. 1012. - La scuola attuera' corsi della durata complessiva di due anni il cui calendario sara' stabilito volta per volta dal direttore della scuola, sentito il parere del consiglio.  
+Il corso comprendera' gli insegnamenti di cui al seguente elenco, ripartiti come appresso specificato nei due anni di frequenza:  
+1) progettazione urbanistica e disegno urbano (biennale) I e II;  
+2) pianificazione territoriale (annuale) I;  
+3) risanamento ambientale e restauro conservativo (semestrale) II;  
+4) storia della citta' (annuale) I;  
+5) strutture urbane e territoriali (semestrale) I;  
+6) grandi attrezzature (semestrale) II;  
+7) comunicazione e trasporti (annuale) II;  
+8) impianti tecnici ed igiene urbana (semestrale) II;  
+9) geografia urbana (semestrale) I;  
+10) economia politica e programmazione economica (annuale) II;  
+11) sociologia (annuale) I;  
+12) ecologia e scienze naturalistiche (annuale) I;  
+13) amministrazione, gestione e diritto urbanistico (2 semestri) I e II;  
+14) geotecnica e idrologia (semestrale) II;  
+15) paesistica (semestrale) II;  
+16) statistica matematica econometrica (2 semestri) I e II.  
+Art. 1013. - Ogni insegnamento, sia annuale che semestrale comportera' un esame finale, ovvero un colloquio annuale ed un esame finale, se biennale. Alla fine del corso gli insegnanti dovranno attestare, secondo le modalita' stabilite dal direttore dietro parere conforme del consiglio, la frequenza degli iscritti ai corsi.  
+Alla fine del corso gli allievi dovranno sostenere una prova finale costituita dalla presentazione e discussione di un lavoro individuale ed originale a carattere progettuale, critico, teorico in relazione al titolo da conseguire.  
+Art. 1014. - Ai partecipanti ai corsi, i quali abbiano regolarmente frequentato gli insegnamenti e superato i relativi esami, verranno rilasciati i seguenti titoli:  
+diploma di qualificazione di architetto o ingegnere urbanista ai partecipanti i quali, essendo forniti della corrispondente laurea, ovvero di titolo straniero equivalente, abbiano sostenuto con esito positivo tutti gli esami e la prova finale;  
+attestato di esperto in urbanistica, corredato dal curriculum scolastico completo e dall'elenco degli esami superati, ai partecipanti i quali abbiano sostenuto con esito favorevole un numero di esami non inferiore ai 2/3 delle materie istituite presso la scuola, nonche' la prova finale.  
+Art. 1015. - Le commissioni per gli esami di profitto e per i colloqui, saranno nominate dal direttore della scuola e saranno costituite da tre membri scelti tra i docenti della scuola, peraltro un membro di ciascuna commissione potra' essere scelto al di fuori degli insegnanti della scuola.  
+La prova finale verra' sostenuta davanti ad una commissione di sette membri, nominata dal rettore, su proposta del direttore della scuola e composta, in maggioranza, da insegnanti della scuola stessa.  
+Art. 1016. - Il numero massimo degli iscritti, le norme di ammissione e di frequenza, il programma ed il contenuto dei corsi e delle ricerche da svolgere saranno stabiliti annualmente dal consiglio.  
+L'ammissione dei partecipanti ai corsi avverra' mediante concorso.  
+La valutazione sara' fatta in base a titoli relativi all'attivita' svolta dai candidati presso gli istituti universitari: tesi di laurea; studi; ricerche; progetti, programmi e pubblicazioni relativi ad argomenti di pianificazione territoriale ed urbanistica, nonche' all'assetto della societa' e dell'ambiente.  
+Art. 1017. - Le modalita' di iscrizione, il pagamento delle tasse e soprattasse saranno conformi alle disposizioni di legge vigenti per gli studenti universitari; eventuali contributi verranno stabiliti annualmente dal consiglio di amministrazione dell'Universita' di Roma, su proposta del consiglio della scuola.  
+I partecipanti potranno usufruire di eventuali borse di studio, di premi conferiti dal consiglio della scuola dietro proposta del direttore, in misura e numero relativi alle possibilita' finanziarie della scuola.  
+Art. 1018. - Sono utilizzabili le attrezzature didattiche e scientifiche gia' a disposizione degli istituti di urbanistica e di pianificazione territoriale. I mezzi con cui viene fatto fronte alle spese di gestione comprendono contributi della facolta', del Consiglio nazionale delle ricerche e di enti morali interessati ai problemi della pianificazione.  
   
-Dato a Roma, addi' 5 settembre 1956  
-  
-GRONCHI  
-  
-ROSSI   
-Visto, il Guardasigilli: MORO  
-Registrato alla Corte dei conti, addi' 18 ottobre 1956  
-Atti del Governo, registro n. 101, foglio n. 50. - CARLOMAGNO  
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Dato a Roma, addi' 25 maggio 1976
+
+LEONE MALFATTI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato alla Corte dei conti, addi' 23 luglio 1976
+
+Atti di Governo, registro n. 8, foglio n. 12

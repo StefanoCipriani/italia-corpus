@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1972 n. 453
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1969 n. 1298
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1972 n. 453
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1969 n. 1298
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, numero 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -30,588 +30,482 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 92. - Il primo comma relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola in "Pediatria" muta la denominazione in quella di "Clinica pediatrica".
+Art. 92, relativo all'elenco delle scuole di specializzazione della facolta' di medicina e chirurgia e' modificato nel senso che le scuole in "Igiene", "Otorinolaringoiatria", "Cardiologia" mutano la denominazione in quelle di "Igiene e medicina preventiva", "Otorinolaringoiatria e patologia cervico-facciale", "Malattie dell'apparato cardiovascolare".
 
-L'art. 103, relativo alla "Scuola di perfezionamento in pediatria" che muta la denominazione in quella di "Scuola di specializzazione in clinica pediatrica", e' abrogato e sostituito dal seguente:
+Nello stesso elenco e' aggiunta la scuola di specializzazione in "Odontoiatria e protesi dentaria".
 
-Scuola di specializzazione in clinica pediatrica
+L'art. 108, relativo alla scuola di specializzazione in igiene, l'art. 111, relativo alla scuola di specializzazione in otorinolaringoiatria, l'art. 112, relativo alla scuola di specializzazione in cardiologia sono abrogati e sostituiti dai seguenti:
 
-Art. 103. - La scuola ha la durata di tre anni; il numero degli iscritti e' limitato a venticinque.
+Scuola di specializzazione in igiene e medicina preventiva
 
-Le materie di insegnamento sono:
+Art. 108. - La scuola ha la durata di tre anni; il numero degli studenti che possono essere iscritti e' limitato a dieci per anno di corso.
 
-1° Anno:
-
-Clinica pediatrica I;
-
-Patologia pediatrica I;
-
-Puericultura I;
-
-Semeiotica pediatrica e tecnica diagnostica I;
-
-Auxologia normale e patologica;
-
-Psicologia dell'eta' evolutiva.
-
-2° Anno:
-
-Clinica pediatrica II;
-
-Patologia pediatrica II;
-
-Puericultura II;
-
-Semeiotica pediatrica e tecnica diagnostica II;
-
-Terapia pediatrica;
-
-Radiologia pediatrica;
-
-Malattie infettive dell'infanzia.
-
-3° Anno:
-
-Clinica pediatrica III;
-
-Neuropsichiatria ed igiene mentale dell'infanzia.
-
-Le materie fondamentali sopra elencate saranno integrate a giudizio del consiglio di ciascuna scuola da almeno tre insegnamenti scelti tra i seguenti:
-
-Chirurgia pediatrica;
-
-Ortopedia e traumatologia infantile;
-
-Odontoiatria;
-
-Clinica dermosifilopatica;
-
-Clinica oculistica:
-
-Clinica otorinolaringoiatrica;
-
-Cardiologia;
-
-Genetica, ed altre eventuali che il consiglio della scuola puo' stabilire di anno in anno.
-
-Il direttore della scuola, inoltre, puo' disporre che si tengano un certo numero di conferenze su argomenti di interesse pediatrico.
-
-L'ammissione alla scuola avviene per esami e per titoli.
-
-E' d'obbligo l'internato con non piu' di due mesi di ferie all'anno.
-
-Puo' essere consentita l'iscrizione direttamente al secondo anno del corso, a giudizio del consiglio della scuola, per i candidati che abbiano conseguito il diploma di specializzazione in puericultura o che abbiano titoli pediatrici.
-
-Per conseguire il diploma di specializzazione in clinica pediatrica gli iscritti al corso, dopo aver superato tutti gli esami e completato la frequenza obbligatoria, dovranno presentare e discutere una dissertazione scritta su un argomento di pediatria.
-
-L'art. 104, relativo alla "Scuola di perfezionamento in ostetricia e ginecologia" che muta la denominazione in quella di "Scuola di specializzazione in ostetricia e ginecologia", e' abrogato e sostituto dal seguente:
-
-Scuola di specializzazione in ostetricia e ginecologia
-
-Art. 104. - La scuola ha la durata di quattro anni; il numero degli iscritti e' limitato a quattro per ogni anno di corso.
+La scuola e' articolata con gli orientamenti di sanita' pubblica e di igiene e tecnica (o direzione) ospitaliera.
 
 Le materie di insegnamento sono:
 
 1° Anno:
 
-Elementi di genetica e di eugenica;
+Metodologia statistica e biometria;
 
-Anatomia normale ed embriologia dell'apparato genitale e femminile;
+Educazione sanitaria;
 
-Fisiologia dell'apparato genitale femminile;
+Psicologia;
 
-Endocrinologia fisiologica;
+Microbiologia;
 
-Fisiologia ostetrica;
+Parassitologia;
 
-Diagnostica ostetrica;
-
-Clinica ostetrica e ginecologica.
+Epidemiologia e profilassi generale.
 
 2° Anno:
 
-Tecnica operatoria ostetrica;
+Patologia e clinica delle malattie infettive;
 
-Diagnostica ginecologica;
+Epidemiologia e profilassi delle malattie infettive;
 
-Tecnica diagnostica di laboratorio nel campo ostetrico-ginecologico, esclusa la istologia (sierologia, batteriologia, citologia, ematologia, biochimica);
+Patologia e clinica delle malattie non infettive di importanza sociale;
 
-Clinica ostetrica e ginecologica.
+Epidemiologia e profilassi delle malattie non infettive di importanza sociale;
 
-3° Anno:
+Demografia e statistica sanitaria;
 
-Anatomia patologica ostetrica e ginecologica;
+Legislazione e organizzazione sanitaria.
 
-Istologia normale e patologica nel campo della specialita';
+3° Anno (con orientamento di sanita' pubblica):
 
-Puericultura prenatale;
+Approvvigionamento idrico; raccolta e smaltimento dei rifiuti liquidi e solidi; inquinamenti atmosferici;
 
-Emoterapia nel campo ostetrico e ginecologico;
+Igiene edilizia e urbanistica;
 
-Anestesia e analgesia nel campo ostetrico e ginecologico;
+Igiene dell'alimentazione;
 
-Tecnica operatoria ginecologica;
+Igiene e medicina scolastica;
 
-Clinica ostetrica e ginecologica;
+Igiene ospitaliera;
 
-Terapia medica ostetrica e ginecologica.
+Servizi di sanita' pubblica.
 
-4° Anno:
+3° Anno [con orientamento di igiene e tecnica (o direzione) ospitaliera]:
 
-Puericultura postnatale e malattie del neonato;
+Storia degli ospedali e principi metodologici della assistenza ospitaliera;
 
-Ostetricia e ginecologia forense;
+Igiene e tecnica delle costruzioni ospitaliere, arredamento ed impianti sanitari;
 
-Diagnostica roentgen, radioterapia in ostetricia e ginecologia;
+Organizzazione e funzione degli ospedali generali e speciali;
 
-Clinica ostetrica e ginecologica (esame alla fine del quarto anno);
+Diritto amministrativo e legislazione ospitaliera;
 
-Urologia ginecologica;
+Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospitaliera;
 
-Chirurgia addominale extra genitale.
+Selezione e istruzione professionale del personale ospitaliero;
 
-L'ammissione alla scuola avviene a seguito di concorso per titoli ed esami.
+Organizzazione e funzione dei laboratori di analisi e di accertamento necroscopico.
 
-Sono da considerarsi titoli preferenziali, a parita' di risultato dell'esame di ammissione:
+Materie complementari:
 
-il voto di laurea in medicina e chirurgia;
+Ispezione delle carni;
 
-aver frequentato come studente interno una clinica ostetrica e ginecologica della universita';
+Geologia applicata all'igiene;
 
-aver svolto la tesi di laurea nella clinica ostetrica e ginecologica;
+Igiene mentale;
 
-documentazione di eventuali servizi prestati in grossi reparti ospedalieri della specialita';
+Malattie professionali e loro prevenzione;
 
-eventuali pubblicazioni.
+Diritto sanitario;
 
-L'esame di ammissione deve espletarsi entro il mese di dicembre.
+Igiene navale e dell'emigrazione;
 
-Per nessun motivo il corso di 4 anni puo' essere abbreviato.
+Antropologia culturale e sociologia;
 
-Nessun titolo puo' esonerare dalla frequenza gli iscritti nei 4 anni di corso.
+Malattie tropicali;
 
-Gli iscritti, oltre all'obbligo di frequenza delle lezioni, esercitazioni, seminari, ecc., devono prestare servizio analogo a quello degli assistenti per non meno di 9 mesi all'anno.
+Istituzioni di matematica;
 
-Gli iscritti alla scuola debbono sostenere esami annuali di profitto e l'esame finale di diploma. La sessione di esami di profitto e' unica, ed e' espletata nel mese di ottobre. Non puo' essere iscritto all'anno successivo di corso chi non abbia superato le materie fondamentali della specialita'.
+Genetica;
 
-Gli esami si fanno per gruppi di materie ed i membri delle commissioni saranno proposti dai direttori delle scuole.
+Gerontologia e geriatria;
 
-A giudizio del consiglio della scuola formulato sulla base del rendimento di ogni iscritto, gli specializzandi potranno essere esonerati dal pagamento delle tasse universitarie.
+Elementi di economia politica.
 
-Per il conseguimento del diploma, l'iscritto deve presentare e discutere una dissertazione scritta con contributo personale.
+Per l'ammissione al 3° anno di corso gli iscritti dovranno aver superato tutti gli esami delle materie obbligatorie del 1° e 2° anno.
 
-L'art. 106, relativo alla "Scuola di perfezionamento in chirurgia" che muta denominazione in quella di "Scuola di specializzazione in chirurgia", e' abrogato e sostituito dal seguente:
+Per poter sostenere l'esame di diploma gli iscritti dovranno aver superato gli esami di tutti gli insegnamenti obbligatori e di almeno tre materie complementari scelte fra quelle che saranno consigliate dal consiglio della scuola per i singoli orientamenti.
 
-Scuola di specializzazione in chirurgia
+Potranno essere ammessi al 3° anno di corso gli specialisti in igiene che abbiano conseguito la specializzazione con un orientamento diverso da quello prescelto per l'iscrizione.
 
-Art. 106. - La scuola ha la durata di 5 anni; il numero degli iscritti e' limitato a sei per ogni anno di corso.
+Non sono consentite altre abbreviazioni di corso.
+
+Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale
+
+Art. 111. - La scuola ha la durata di tre anni; il numero degli iscritti e' limitato a cinque per ogni anno di corso.
 
 Le materie di insegnamento sono:
 
 1° Anno:
 
-Clinica chirurgica generale I;
+Anatomia;
 
-Patologia speciale chirurgica I;
+Fisiologia;
 
-Semeiotica chirurgica I;
+Audiologia (1° anno);
 
-Anatomia chirurgica e corso di operazioni I;
+Semeiotica otorinolaringoiatrica;
 
-Chirurgia sperimentale;
+Tecnica di laboratorio;
 
-Anestesia e rianimazione;
+Patologia otorinolaringoiatrica e cervico-facciale (1° anno);
 
-Ricerche di laboratorio.
+Anatomia e istologia patologica otorinolaringoiatrica.
 
 2° Anno:
 
-Clinica chirurgica generale II;
+Tecniche operatorie in otorinolaringoiatria;
 
-Patologia speciale chirurgica II;
+Anestesiologia in otorinolaringoiatria;
 
-Semeiotica chirurgica II;
+Patologia e clinica otorinolaringoiatrica e cervicofacciale (2° anno);
 
-Anatomia chirurgica e corso di operazioni II;
+Radiologia in rapporto con l'otorinolaringoiatria;
 
-Fisiopatologia chirurgica;
+Pediatria in rapporto con l'otorinolaringoiatria;
 
-Trattamento pre e post operatoria;
+Audiologia (2° anno);
 
-Anatomia e istologia patologica I.
+Otoneurologia;
+
+Foniatria.
 
 3° Anno:
 
-Clinica chirurgica generale III;
+Patologia e clinica otorinolaringoiatrica e cervicofacciale;
 
-Patologia speciale chirurgica III;
+Terapia medica e fisica in otorinolaringoiatria;
 
-Semeiotica strumentale ed endoscopica;
+Neuropatologia in rapporto con l'otorinolaringoiatria;
 
-Anatomia chirurgica e corso di operazioni III;
+Oculistica in rapporto con l'otorinolaringoiatria;
+
+Chirurgia plastica;.
+
+Trache-bronco-esofagoscopia;
+
+Medicina legale ed infortunistica in otorinolaringoiatria.
+
+Scuola di specializzazione in malattie dell'apparato cardiovascolare
+
+Art. 112. - La scuola ha la durata di tre anni. Il numero degli studenti che possono essere iscritti e' limitato a sei per ogni anno di corso (totale diciotto iscritti).
+
+Le materie di insegnamento sono:
+
+1° Anno:
+
+Anatomia umana normale dell'apparato cardiovascolare;
+
+Fisiologia dell'apparato cardiovascolare e respiratorio;
+
+Microbiologia (facoltativo);
+
+Fisiopatologia cardiovascolare e respiratoria I;
+
+Patologia cardiovascolare I;
+
+Semeiologia fisica I;
+
+Semeiologia strumentale I.
+
+2° Anno:
+
+Fisiopatologia cardiovascolare e respiratoria II;
+
+Patologia cardiovascolare II;
+
+Semeiologia Fisica II;
+
+Semeiologia strumentale II;
+
+Anatomia patologica dell'apparato cardiovascolare I;
 
 Radiologia;
 
-Anatomia e istologia patologica II.
+Farmacologia;
 
-4° Anno:
-
-Clinica chirurgica generale IV;
-
-Chirurgia ginecologica;
-
-Chirurgia urologica;
-
-Neurochirurgia:
-
-Traumatologia e ortopedia;
-
-Chirurgia pediatrica.
-
-5° Anno:
-
-Clinica chirurgica generale V;
-
-Chirurgia toracica;
-
-Chirurgia cardiovascolare;
-
-Chirurgia riparativa e plastica;
-
-Chirurgia d'urgenza;
-
-Medicina legale.
-
-Non e' concessa alcuna abbreviazione di corso.
-
-La frequenza alle lezioni e alle esercitazioni e' obbligatoria per tutti gli iscritti.
-
-L'internato e' obbligatorio durante tutti i cinque anni del corso e si svolgera' presso la clinica chirurgica sotto forma di permanenza costante nella detta clinica durante le ore della sua attivita', con presenza giornaliera agli ambulatori e ai reparti di degenza.
-
-Dall'obbligo di tale internato saranno esentati quegli allievi che, in qualita' di assistenti e di aiuti, prestino effettivamente servizio presso reparti di chirurgia generale delle universita' e di ospedali di 1ª e 2ª categoria.
-
-Gli allievi hanno doveri ed attribuzioni analoghi a quelli degli assistenti.
-
-La frequenza alle sale operatorie iniziera' fin dal primo anno di corso, e dopo un periodo di tirocinio, dovra' trasformarsi in compartecipazione attiva agli interventi operatori.
-
-Per i corsi che non siano della clinica chirurgica generale, possono essere stabiliti, su parere del direttore, della scuola, periodi di continuativa frequenza presso i relativi reparti specialistici, qualora esistano quali reparti indipendenti.
-
-Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico della operosita' scolastica degli allievi, con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno.
-
-L'allievo che non abbia ottemperato agli obblighi di frequenza noti sara' ammesso a sostenere gli esami annuali.
-
-Alla fine del corso l'allievo, prima di adire l'esame di diploma, deve sostenere un esame generale di profitto.
-
-L'art. 107, relativo alla "Scuola di perfezionamento in medicina interna" che muta la denominazione in quella di "Scuola di specializzazione in medicina interna", e abrogato e sostituito dal seguente:
-
-Scuola di specializzazione in medicina interna
-
-Art. 107. - La scuola ha la durata di cinque anni; il numero degli iscritti e' limitato a cinque per ogni anno di corso.
-
-Le materie di insegnamento sono:
-
-1° Anno:
-
-Malattie infettive, disreattive e del sangue;
-
-Istituzioni di terapia;
-
-Anatomia ed istologia patologica (1° corso);
-
-Clinica medica generale e terapia medica (1° corso).
-
-2° Anno:
-
-Malattie dell'apparato cardiovascolare;
-
-Microbiologia e sierologia;
-
-Chimica clinica;
-
-Anatomia ed istologia patologica (2° corso);
-
-Clinica medica generale e terapia medica (2° corso).
+Clinica e terapia I.
 
 3° Anno:
 
-Malattie dell'apparato digerente;
+Anatomia patologica dell'apparato cardiovascolare II:
 
-Malattie renali;
+Clinica e terapia II;
 
-Clinica medica generale e terapia medica (3° corso).
+Chirurgia dell'apparato cardiovascolare;
 
-4° Anno:
+Problemi assicurativi e sociali (facoltativo);
 
-Malattie dell'apparato respiratorio;
+Statistica (facoltativo).
 
-Malattie del sistema nervoso;
+Gli esami di microbiologia, problemi assicurativi e sociali, statistica sono facoltativi, ma per poter sostenere gli esami di diploma gli iscritti debbono aver superato l'esame di almeno uno di essi.
 
-Clinica medica generale e terapia medica (4° corso).
+Per l'ammissione agli anni successivi di corso gli iscritti dovranno avere superato l'esame del gruppo di materie del precedente anno.
 
-5° Anno:
+Dopo l'art. 112 e con il conseguente spostamento della successiva numerazione e' inserito il seguente articolo relativo alla istituzione della scuola di specializzazione in "Odontoiatria e protesi dentaria".
 
-Malattie del ricambio;
+Scuola di specializzazione in odontoiatria e protesi dentaria
 
-Malattie delle ghiandole endocrine;
+Art. 113. - Il titolo per l'iscrizione alla scuola e' costituito dalla laurea in medicina e chirurgia.
 
-Clinica medica generale e terapia medica (5° corso).
+Il numero dei posti disponibili per ogni anno accademico e' limitato a tre (totale nove iscritti).
 
-Insegnamenti complementari:
+La durata dei corsi della scuola e' di tre anni e la frequenza e' obbligatoria per l'intero anno accademico. Le vacanze sono conformi al calendario universitario, con un solo mese completo estivo (agosto).
 
-Parassitologia medica;
+Gli esami di profitto teorici e pratici saranno sostenuti alla fine di ogni anno in un'unica sessione (ottobre). Alla fine del terzo anno, dopo aver superato gli esami di profitto, gli allievi saranno ammessi a sostenere lo esame di diploma che consistera' nella discussione orale di una dissertazione scritta, su un tema proposto in precedenza dall'insegnante della materia sulla quale verte l'argomento e approvato dal direttore della scuola. Ogni iscritto deve provvedere al proprio corredo di strumenti. Le materie d'insegnamento, impartite nel triennio, affiancate da esercitazioni pratiche, sono le seguenti:
 
-Genetica medica;
+1° Anno:
 
-Radiologia;
+1) Embriologia ed anatomia dentaria e maxillofacciale;
 
-Semeiotica oculistica.
+2) Microbiologia e igiene orale;
+
+3) Farmacologia;
+
+4) Patologia odontostomatologica;
+
+5) Odontotecnica;
+
+6) Anestesia e chirurgia stomatologica;
+
+7) Odontoiatria conservativa (1° anno) (biennale).
+
+Esercitazioni pratiche.
+
+2° Anno:
+
+1) Odontoiatria conservativa (2° anno);
+
+2) Clinica protesica dentaria e maxillo-facciale (primo anno) (biennale);
+
+3) Paradontologia (1° anno) (biennale);
+
+4) Anatomia e istopatologia odontostomatologica;
+
+5) Odontoiatria infantile;
+
+6) Radiologia odontostomatologica;
+
+7) Ortopedia dento-maxillo-facciale (1° anno) (biennale;
+
+8) Chirurgia maxillo-facciale (1° anno) (biennale).
+
+Esercitazioni pratiche.
+
+3° Anno:
+
+1) Clinica odontostomatologica;
+
+2) Chirurgia maxillo-facciale (2° anno);
+
+3) Medicina legale odontostomatologica e delle assicurazioni;
+
+4) Ortopedia dento-maxillo-facciale (2° anno);
+
+5) Clinica protesica dentaria e maxillo-facciale (secondo anno);
+
+6) Parodontologia (2° anno).
+
+Esercitazioni pratiche.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 20 giugno 1972
+Dato a Roma, addi' 31 ottobre 1969
 
-LEONE
+SARAGAT
 
-MISASI
+FERRARI AGGRADI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 10 agosto 1972 Atti del Governo, registro n. 250, foglio n. 151. - VALENTINI
+alla Corte dei conti, addi' 24 aprile 1970 Atti del Governo, registro n. 235, foglio n. 6. - CARUSO
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, numero 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 92. - Il primo comma relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola in "Pediatria" muta la denominazione in quella di "Clinica pediatrica".  
-L'art. 103, relativo alla "Scuola di perfezionamento in pediatria" che muta la denominazione in quella di "Scuola di specializzazione in clinica pediatrica", e' abrogato e sostituito dal seguente:  
+Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 92, relativo all'elenco delle scuole di specializzazione della facolta' di medicina e chirurgia e' modificato nel senso che le scuole in "Igiene", "Otorinolaringoiatria", "Cardiologia" mutano la denominazione in quelle di "Igiene e medicina preventiva", "Otorinolaringoiatria e patologia cervico-facciale", "Malattie dell'apparato cardiovascolare".   
+Nello stesso elenco e' aggiunta la scuola di specializzazione in "Odontoiatria e protesi dentaria".   
+L'art. 108, relativo alla scuola di specializzazione in igiene, l'art. 111, relativo alla scuola di specializzazione in otorinolaringoiatria, l'art. 112, relativo alla scuola di specializzazione in cardiologia sono abrogati e sostituiti dai seguenti:   
   
-Scuola di specializzazione in clinica pediatrica  
+Scuola di specializzazione in igiene e medicina preventiva   
   
-Art. 103. - La scuola ha la durata di tre anni; il numero degli iscritti e' limitato a venticinque.  
-Le materie di insegnamento sono:  
+Art. 108. - La scuola ha la durata di tre anni; il numero degli studenti che possono essere iscritti e' limitato a dieci per anno di corso.   
+La scuola e' articolata con gli orientamenti di sanita' pubblica e di igiene e tecnica (o direzione) ospitaliera.   
+Le materie di insegnamento sono:   
+1° Anno:   
+Metodologia statistica e biometria;   
+Educazione sanitaria;   
+Psicologia;   
+Microbiologia;   
+Parassitologia;   
+Epidemiologia e profilassi generale.   
+2° Anno:   
+Patologia e clinica delle malattie infettive;   
+Epidemiologia e profilassi delle malattie infettive;   
+Patologia e clinica delle malattie non infettive di importanza sociale;   
+Epidemiologia e profilassi delle malattie non infettive di importanza sociale;   
+Demografia e statistica sanitaria;   
+Legislazione e organizzazione sanitaria.   
+3° Anno (con orientamento di sanita' pubblica):   
+Approvvigionamento idrico; raccolta e smaltimento dei rifiuti liquidi e solidi; inquinamenti atmosferici;   
+Igiene edilizia e urbanistica;   
+Igiene dell'alimentazione;   
+Igiene e medicina scolastica;   
+Igiene ospitaliera;   
+Servizi di sanita' pubblica.   
+3° Anno [con orientamento di igiene e tecnica (o direzione) ospitaliera]:   
+Storia degli ospedali e principi metodologici della assistenza ospitaliera;   
+Igiene e tecnica delle costruzioni ospitaliere, arredamento ed impianti sanitari;   
+Organizzazione e funzione degli ospedali generali e speciali;   
+Diritto amministrativo e legislazione ospitaliera;   
+Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospitaliera;   
+Selezione e istruzione professionale del personale ospitaliero;  
+Organizzazione e funzione dei laboratori di analisi e di accertamento necroscopico.   
+Materie complementari:   
+Ispezione delle carni;   
+Geologia applicata all'igiene;   
+Igiene mentale;   
+Malattie professionali e loro prevenzione;   
+Diritto sanitario;   
+Igiene navale e dell'emigrazione;   
+Antropologia culturale e sociologia;   
+Malattie tropicali;   
+Istituzioni di matematica;   
+Genetica;   
+Gerontologia e geriatria;   
+Elementi di economia politica.   
+Per l'ammissione al 3° anno di corso gli iscritti dovranno aver superato tutti gli esami delle materie obbligatorie del 1° e 2° anno.   
+Per poter sostenere l'esame di diploma gli iscritti dovranno aver superato gli esami di tutti gli insegnamenti obbligatori e di almeno tre materie complementari scelte fra quelle che saranno consigliate dal consiglio della scuola per i singoli orientamenti.   
+Potranno essere ammessi al 3° anno di corso gli specialisti in igiene che abbiano conseguito la specializzazione con un orientamento diverso da quello prescelto per l'iscrizione.   
+Non sono consentite altre abbreviazioni di corso.   
   
-1° Anno:  
-Clinica pediatrica I;  
-Patologia pediatrica I;  
-Puericultura I;  
-Semeiotica pediatrica e tecnica diagnostica I;  
-Auxologia normale e patologica;  
-Psicologia dell'eta' evolutiva.  
+Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale   
   
-2° Anno:  
-Clinica pediatrica II;  
-Patologia pediatrica II;  
-Puericultura II;  
-Semeiotica pediatrica e tecnica diagnostica II;  
-Terapia pediatrica;  
-Radiologia pediatrica;  
-Malattie infettive dell'infanzia.  
+Art. 111. - La scuola ha la durata di tre anni; il numero degli iscritti e' limitato a cinque per ogni anno di corso.   
+Le materie di insegnamento sono:   
+1° Anno:   
+Anatomia;   
+Fisiologia;   
+Audiologia (1° anno);   
+Semeiotica otorinolaringoiatrica;   
+Tecnica di laboratorio;   
+Patologia otorinolaringoiatrica e cervico-facciale (1° anno);   
+Anatomia e istologia patologica otorinolaringoiatrica.   
+2° Anno:   
+Tecniche operatorie in otorinolaringoiatria;   
+Anestesiologia in otorinolaringoiatria;   
+Patologia e clinica otorinolaringoiatrica e cervicofacciale (2° anno);   
+Radiologia in rapporto con l'otorinolaringoiatria;   
+Pediatria in rapporto con l'otorinolaringoiatria;   
+Audiologia (2° anno);   
+Otoneurologia;   
+Foniatria.   
+3° Anno:   
+Patologia e clinica otorinolaringoiatrica e cervicofacciale;   
+Terapia medica e fisica in otorinolaringoiatria;   
+Neuropatologia in rapporto con l'otorinolaringoiatria;   
+Oculistica in rapporto con l'otorinolaringoiatria;   
+Chirurgia plastica;.   
+Trache-bronco-esofagoscopia;   
+Medicina legale ed infortunistica in otorinolaringoiatria.   
   
-3° Anno:  
-Clinica pediatrica III;  
-Neuropsichiatria ed igiene mentale dell'infanzia.  
+Scuola di specializzazione in malattie dell'apparato cardiovascolare   
+Art. 112. - La scuola ha la durata di tre anni. Il numero degli studenti che possono essere iscritti e' limitato a sei per ogni anno di corso (totale diciotto iscritti).   
+Le materie di insegnamento sono:   
+1° Anno:   
+Anatomia umana normale dell'apparato cardiovascolare;   
+Fisiologia dell'apparato cardiovascolare e respiratorio;   
+Microbiologia (facoltativo);   
+Fisiopatologia cardiovascolare e respiratoria I;   
+Patologia cardiovascolare I;   
+Semeiologia fisica I;   
+Semeiologia strumentale I.   
+2° Anno:   
+Fisiopatologia cardiovascolare e respiratoria II;   
+Patologia cardiovascolare II;   
+Semeiologia Fisica II;   
+Semeiologia strumentale II;   
+Anatomia patologica dell'apparato cardiovascolare I;   
+Radiologia;   
+Farmacologia;   
+Clinica e terapia I.   
+3° Anno:   
+Anatomia patologica dell'apparato cardiovascolare II:   
+Clinica e terapia II;   
+Chirurgia dell'apparato cardiovascolare;   
+Problemi assicurativi e sociali (facoltativo);   
+Statistica (facoltativo).   
+Gli esami di microbiologia, problemi assicurativi e sociali, statistica sono facoltativi, ma per poter sostenere gli esami di diploma gli iscritti debbono aver superato l'esame di almeno uno di essi.   
+Per l'ammissione agli anni successivi di corso gli iscritti dovranno avere superato l'esame del gruppo di materie del precedente anno.   
+Dopo l'art. 112 e con il conseguente spostamento della successiva numerazione e' inserito il seguente articolo relativo alla istituzione della scuola di specializzazione in "Odontoiatria e protesi dentaria".   
   
-Le materie fondamentali sopra elencate saranno integrate a giudizio del consiglio di ciascuna scuola da almeno tre insegnamenti scelti tra i seguenti:  
+Scuola di specializzazione in odontoiatria e protesi dentaria   
   
-Chirurgia pediatrica;  
-Ortopedia e traumatologia infantile;  
-Odontoiatria;  
-Clinica dermosifilopatica;  
-  
-Clinica oculistica:  
-Clinica otorinolaringoiatrica;  
-Cardiologia;  
-Genetica, ed altre eventuali che il consiglio della scuola puo' stabilire di anno in anno.  
-  
-Il direttore della scuola, inoltre, puo' disporre che si tengano un certo numero di conferenze su argomenti di interesse pediatrico.  
-L'ammissione alla scuola avviene per esami e per titoli.  
-E' d'obbligo l'internato con non piu' di due mesi di ferie all'anno.  
-Puo' essere consentita l'iscrizione direttamente al secondo anno del corso, a giudizio del consiglio della scuola, per i candidati che abbiano conseguito il diploma di specializzazione in puericultura o che abbiano titoli pediatrici.  
-Per conseguire il diploma di specializzazione in clinica pediatrica gli iscritti al corso, dopo aver superato tutti gli esami e completato la frequenza obbligatoria, dovranno presentare e discutere una dissertazione scritta su un argomento di pediatria.  
-L'art. 104, relativo alla "Scuola di perfezionamento in ostetricia e ginecologia" che muta la denominazione in quella di "Scuola di specializzazione in ostetricia e ginecologia", e' abrogato e sostituto dal seguente:  
-  
-Scuola di specializzazione in ostetricia e ginecologia  
-  
-Art. 104. - La scuola ha la durata di quattro anni; il numero degli iscritti e' limitato a quattro per ogni anno di corso.  
-Le materie di insegnamento sono:  
-  
-1° Anno:  
-Elementi di genetica e di eugenica;  
-Anatomia normale ed embriologia dell'apparato genitale e femminile;  
-Fisiologia dell'apparato genitale femminile;  
-Endocrinologia fisiologica;  
-Fisiologia ostetrica;  
-Diagnostica ostetrica;  
-Clinica ostetrica e ginecologica.  
-  
-2° Anno:  
-Tecnica operatoria ostetrica;  
-Diagnostica ginecologica;  
-Tecnica diagnostica di laboratorio nel campo ostetrico-ginecologico, esclusa la istologia (sierologia, batteriologia, citologia, ematologia, biochimica);  
-Clinica ostetrica e ginecologica.  
-  
-3° Anno:  
-Anatomia patologica ostetrica e ginecologica;  
-Istologia normale e patologica nel campo della specialita';  
-Puericultura prenatale;  
-Emoterapia nel campo ostetrico e ginecologico;  
-Anestesia e analgesia nel campo ostetrico e ginecologico;  
-Tecnica operatoria ginecologica;  
-Clinica ostetrica e ginecologica;  
-Terapia medica ostetrica e ginecologica.  
-  
-4° Anno:  
-Puericultura postnatale e malattie del neonato;  
-Ostetricia e ginecologia forense;  
-Diagnostica roentgen, radioterapia in ostetricia e ginecologia;  
-Clinica ostetrica e ginecologica (esame alla fine del quarto anno);  
-Urologia ginecologica;  
-Chirurgia addominale extra genitale.  
-  
-L'ammissione alla scuola avviene a seguito di concorso per titoli ed esami.  
-Sono da considerarsi titoli preferenziali, a parita' di risultato dell'esame di ammissione:  
-  
-il voto di laurea in medicina e chirurgia;  
-aver frequentato come studente interno una clinica ostetrica e ginecologica della universita';  
-aver svolto la tesi di laurea nella clinica ostetrica e ginecologica;  
-documentazione di eventuali servizi prestati in grossi reparti ospedalieri della specialita';  
-eventuali pubblicazioni.  
-  
-L'esame di ammissione deve espletarsi entro il mese di dicembre.  
-Per nessun motivo il corso di 4 anni puo' essere abbreviato.  
-Nessun titolo puo' esonerare dalla frequenza gli iscritti nei 4 anni di corso.  
-Gli iscritti, oltre all'obbligo di frequenza delle lezioni, esercitazioni, seminari, ecc., devono prestare servizio analogo a quello degli assistenti per non meno di 9 mesi all'anno.  
-Gli iscritti alla scuola debbono sostenere esami annuali di profitto e l'esame finale di diploma. La sessione di esami di profitto e' unica, ed e' espletata nel mese di ottobre. Non puo' essere iscritto all'anno successivo di corso chi non abbia superato le materie fondamentali della specialita'.  
-Gli esami si fanno per gruppi di materie ed i membri delle commissioni saranno proposti dai direttori delle scuole.  
-A giudizio del consiglio della scuola formulato sulla base del rendimento di ogni iscritto, gli specializzandi potranno essere esonerati dal pagamento delle tasse universitarie.  
-Per il conseguimento del diploma, l'iscritto deve presentare e discutere una dissertazione scritta con contributo personale.  
-L'art. 106, relativo alla "Scuola di perfezionamento in chirurgia" che muta denominazione in quella di "Scuola di specializzazione in chirurgia", e' abrogato e sostituito dal seguente:  
-  
-Scuola di specializzazione in chirurgia  
-  
-Art. 106. - La scuola ha la durata di 5 anni; il numero degli iscritti e' limitato a sei per ogni anno di corso.  
-Le materie di insegnamento sono:  
-  
-1° Anno:  
-Clinica chirurgica generale I;  
-Patologia speciale chirurgica I;  
-Semeiotica chirurgica I;  
-Anatomia chirurgica e corso di operazioni I;  
-Chirurgia sperimentale;  
-Anestesia e rianimazione;  
-Ricerche di laboratorio.  
-  
-2° Anno:  
-Clinica chirurgica generale II;  
-Patologia speciale chirurgica II;  
-Semeiotica chirurgica II;  
-Anatomia chirurgica e corso di operazioni II;  
-Fisiopatologia chirurgica;  
-Trattamento pre e post operatoria;  
-Anatomia e istologia patologica I.  
-  
-3° Anno:  
-Clinica chirurgica generale III;  
-Patologia speciale chirurgica III;  
-Semeiotica strumentale ed endoscopica;  
-Anatomia chirurgica e corso di operazioni III;  
-Radiologia;  
-Anatomia e istologia patologica II.  
-  
-4° Anno:  
-Clinica chirurgica generale IV;  
-Chirurgia ginecologica;  
-Chirurgia urologica;  
-  
-Neurochirurgia:  
-Traumatologia e ortopedia;  
-Chirurgia pediatrica.  
-  
-5° Anno:  
-Clinica chirurgica generale V;  
-Chirurgia toracica;  
-Chirurgia cardiovascolare;  
-Chirurgia riparativa e plastica;  
-Chirurgia d'urgenza;  
-Medicina legale.  
-Non e' concessa alcuna abbreviazione di corso.  
-  
-La frequenza alle lezioni e alle esercitazioni e' obbligatoria per tutti gli iscritti.  
-L'internato e' obbligatorio durante tutti i cinque anni del corso e si svolgera' presso la clinica chirurgica sotto forma di permanenza costante nella detta clinica durante le ore della sua attivita', con presenza giornaliera agli ambulatori e ai reparti di degenza.  
-Dall'obbligo di tale internato saranno esentati quegli allievi che, in qualita' di assistenti e di aiuti, prestino effettivamente servizio presso reparti di chirurgia generale delle universita' e di ospedali di 1ª e 2ª categoria.  
-Gli allievi hanno doveri ed attribuzioni analoghi a quelli degli assistenti.  
-La frequenza alle sale operatorie iniziera' fin dal primo anno di corso, e dopo un periodo di tirocinio, dovra' trasformarsi in compartecipazione attiva agli interventi operatori.  
-Per i corsi che non siano della clinica chirurgica generale, possono essere stabiliti, su parere del direttore, della scuola, periodi di continuativa frequenza presso i relativi reparti specialistici, qualora esistano quali reparti indipendenti.  
-Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico della operosita' scolastica degli allievi, con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno.  
-L'allievo che non abbia ottemperato agli obblighi di frequenza noti sara' ammesso a sostenere gli esami annuali.  
-Alla fine del corso l'allievo, prima di adire l'esame di diploma, deve sostenere un esame generale di profitto.  
-L'art. 107, relativo alla "Scuola di perfezionamento in medicina interna" che muta la denominazione in quella di "Scuola di specializzazione in medicina interna", e abrogato e sostituito dal seguente:  
-  
-Scuola di specializzazione in medicina interna  
-  
-Art. 107. - La scuola ha la durata di cinque anni; il numero degli iscritti e' limitato a cinque per ogni anno di corso.  
-Le materie di insegnamento sono:  
-  
-1° Anno:  
-Malattie infettive, disreattive e del sangue;  
-Istituzioni di terapia;  
-Anatomia ed istologia patologica (1° corso);  
-Clinica medica generale e terapia medica (1° corso).  
-  
-2° Anno:  
-Malattie dell'apparato cardiovascolare;  
-Microbiologia e sierologia;  
-Chimica clinica;  
-Anatomia ed istologia patologica (2° corso);  
-Clinica medica generale e terapia medica (2° corso).  
-  
-3° Anno:  
-Malattie dell'apparato digerente;  
-Malattie renali;  
-Clinica medica generale e terapia medica (3° corso).  
-  
-4° Anno:  
-Malattie dell'apparato respiratorio;  
-Malattie del sistema nervoso;  
-Clinica medica generale e terapia medica (4° corso).  
-  
-5° Anno:  
-Malattie del ricambio;  
-Malattie delle ghiandole endocrine;  
-Clinica medica generale e terapia medica (5° corso).  
-  
-Insegnamenti complementari:  
-Parassitologia medica;  
-Genetica medica;  
-Radiologia;  
-Semeiotica oculistica.  
+Art. 113. - Il titolo per l'iscrizione alla scuola e' costituito dalla laurea in medicina e chirurgia.   
+Il numero dei posti disponibili per ogni anno accademico e' limitato a tre (totale nove iscritti).   
+La durata dei corsi della scuola e' di tre anni e la frequenza e' obbligatoria per l'intero anno accademico. Le vacanze sono conformi al calendario universitario, con un solo mese completo estivo (agosto).   
+Gli esami di profitto teorici e pratici saranno sostenuti alla fine di ogni anno in un'unica sessione (ottobre). Alla fine del terzo anno, dopo aver superato gli esami di profitto, gli allievi saranno ammessi a sostenere lo esame di diploma che consistera' nella discussione orale di una dissertazione scritta, su un tema proposto in precedenza dall'insegnante della materia sulla quale verte l'argomento e approvato dal direttore della scuola. Ogni iscritto deve provvedere al proprio corredo di strumenti. Le materie d'insegnamento, impartite nel triennio, affiancate da esercitazioni pratiche, sono le seguenti:   
+1° Anno:   
+1) Embriologia ed anatomia dentaria e maxillofacciale;   
+2) Microbiologia e igiene orale;   
+3) Farmacologia;   
+4) Patologia odontostomatologica;   
+5) Odontotecnica;   
+6) Anestesia e chirurgia stomatologica;   
+7) Odontoiatria conservativa (1° anno) (biennale).   
+Esercitazioni pratiche.   
+2° Anno:   
+1) Odontoiatria conservativa (2° anno);   
+2) Clinica protesica dentaria e maxillo-facciale (primo anno) (biennale);   
+3) Paradontologia (1° anno) (biennale);   
+4) Anatomia e istopatologia odontostomatologica;   
+5) Odontoiatria infantile;   
+6) Radiologia odontostomatologica;   
+7) Ortopedia dento-maxillo-facciale (1° anno) (biennale;   
+8) Chirurgia maxillo-facciale (1° anno) (biennale).   
+Esercitazioni pratiche.   
+3° Anno:   
+1) Clinica odontostomatologica;   
+2) Chirurgia maxillo-facciale (2° anno);   
+3) Medicina legale odontostomatologica e delle assicurazioni;   
+4) Ortopedia dento-maxillo-facciale (2° anno);   
+5) Clinica protesica dentaria e maxillo-facciale (secondo anno);   
+6) Parodontologia (2° anno).   
+Esercitazioni pratiche.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 giugno 1972
+### Dato a Roma, addi' 31 ottobre 1969
 
-LEONE MISASI
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 10 agosto 1972
+Registrato alla Corte dei conti, addi' 24 aprile 1970
 
-Atti del Governo, registro n. 250, foglio n. 151. - VALENTINI
+Atti del Governo, registro n. 235, foglio n. 6. - CARUSO

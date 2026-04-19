@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 novembre 1983 n. 752
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 439
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 novembre 1983 n. 752
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 439
+=============================================================
 
 Autorizzazione all'Associazione nazionale famiglie fanciulli subnormali, in Roma, ad accettare un legato.
 ---------------------------------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-752. Decreto del Presidente della Repubblica 5 novembre 1983, col quale, sulla proposta del Ministro della sanita', l'Associazione nazionale famiglie fanciulli subnormali, in Roma, viene autorizzata ad accettare il legato, consistente nel valore contenuto, alla morte della de cuius, nel libretto di risparmio ordinario della Banca di S. Paolo di Brescia n. 200507/26 e nel ricavato della vendita del palco del Teatro Grande di Brescia n. 11, 2ª fila a sinistra, disposto dalla signora Teresa Villa ved. Legnazzi con testamento olografo 10 gennaio 1968, al primo codicillo del 2 marzo 1973, pubblicato il 20 febbraio 1981 con verbale n. 7281 di repertorio a rogito dott. Mario Brunelli, notaio in Brescia.  
+439. Decreto del Presidente della Repubblica 27 giugno 1983, col quale, sulla proposta del Ministro della sanita', l'Associazione nazionale famiglie fanciulli subnormali, in Roma, viene autorizzata ad accettare il legato di L. 15.000.000, disposto a favore della sezione di Milano dalla sig.ra Zoe Castioni ved. Herly detto Bellini con testamento pubblico 25 maggio 1974, pubblicato in data 5 novembre 1980, n. 277607/6660 di repertorio, a rogito avv.  
+Vincenzo Maienza, notaio in Milano, e registrato a Milano in data 7 novembre 1980 al n. 26512.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 27 dicembre 1983  
-Registro n. 8 Sanita', foglio n. 324
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 23 agosto 1983  
+Registro n. 6 Sanita', foglio n. 289

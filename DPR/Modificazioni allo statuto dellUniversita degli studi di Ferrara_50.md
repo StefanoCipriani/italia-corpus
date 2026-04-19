@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1091
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1976 n. 915
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1091
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1976 n. 915
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 -------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Udito il testo unico della legge sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,366 +20,213 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Riconosciuta la particolare necessita' di approvare le modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso: gli articoli 121, 122 e 123, relativi alla scuola di specializzazione in psichiatria, sono soppressi e sostituiti dai seguenti:
+Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Scuola di specializzazione in psichiatria
+L'art. 115, relativo alla scuola di specializzazione in anestesiologia e rianimazione, e' modificato nel senso che il primo e il secondo comma sono abrogati e sostituiti dai seguenti:
 
-Art. 121. - La scuola di specializzazione in psichiatria ha sede presso la cattedra di clinica psichiatrica e conferisce il diploma di specialista in psichiatria.
+La scuola di specializzazione in anestesiologia e rianimazione ha sede presso l'istituto di anestesiologia e rianimazione, ed ha la durata di tre anni.
 
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+Direttore della scuola e' il direttore dell'istituto di anestesia e rianimazione.
 
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.
+Dopo l'art. 163, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in audiologia e in puericultura annesse alla facolta' di medicina e chirurgia.
 
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+Scuola di specializzazione in audiologia
 
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.
+Art. 164. - La scuola di specializzazione in audiologia ha sede presso l'istituto di clinica otorinolaringoiatrica dell'Universita' di Ferrara. Essa e' diretta da titolare di una delle cattedre afferenti all'istituto policattedra di clinica otorinolaringoiatrica dell'Universita' con designazione da parte del consiglio di facolta'.
 
-Il numero complessivo degli allievi e' di cinque per l'intero corso di studi.
+La scuola e' retta secondo le norme del regolamento generale delle scuole di specializzazione dell'Universita' di Ferrara.
 
-L'ammissione al corso avviene per titoli ed esami.
+((Art. 165. - La durata del corso e' di tre anni. L'indirizzo e' teorico-pratico.
 
-Art. 122. - Le materie d'insegnamento sono le seguenti:
+Il numero massimo complessivo di iscritti e' di dodici.))
+
+Art. 166. - L'ammissione al corso e' per titoli e per esami, titolo necessario per l'ammissione al corso e' la laurea in medicina e chirurgia.
+
+Nessuna abbreviazione di corso puo' essere ammessa.
+
+Art. 167. - Alla fine di ciascun anno scolastico gli specializzandi dovranno sostenere un esame di profitto il cui superamento e' condizione necessaria per l'iscrizione nell'anno successivo e, per quelli che sono iscritti all'ultimo anno, per poter accedere all'esame di diploma.
+
+Alla fine del terzo anno di corso ha luogo l'esame di diploma, consistente nella preparazione e discussione di una dissertazione scritta su di un argomento di audiologia, previamente concordato tra il diplomando ed il direttore della scuola.
+
+Art. 168. - Gli insegnamenti impartiti nella scuola sono i seguenti:
 
 1° Anno:
 
-metodologia del rapporto medico-paziente (annuale);
+nozioni di fisica acustica;
 
-psicologia (annuale);
+anatomia dell'orecchio, delle vie e dei centri acustici e vestibolari;
 
-elementi di genetica e biochimica (annuale);
+fisiologia dell'orecchio, delle vie e dei centri acustici e vestibolari;
 
-struttura e funzioni integrative del SNC (annuale);
-
-neurologia clinica (annuale);
-
-clinica psichiatrica I (quadriennale).
+nozioni di psichiatria.
 
 2° Anno:
 
-psicopatologia e psicodinamica (annuale);
+tecniche audiometriche;
 
-psicoterapia I (triennale);
+nozioni di neurologia;
 
-psicofarmacologia (annuale);
-
-psicofarmacoterapia (annuale);
-
-clinica psichiatrica II (quadriennale).
+nozioni di vestibologia.
 
 3° Anno:
 
-psicodiagnostica ed informatica psichiatrica (annuale);
+patologia dell'udito;
 
-psichiatria sociale I (biennale);
+terapia medica, chirurgica e protesica della sordita';
 
-psichiatria infantile (annuale);
+la sordita' sotto il profilo sociale;
 
-psicoterapia II (triennale);
+la rieducazione dell'ipoacusico.
 
-clinica psichiatrica III (quadriennale).
+Per tasse, soprattasse e contributi si fa riferimento alle norme statutarie in vigore.
 
-4° Anno:
+Scuola di specializzazione in puericultura
 
-psicosomatica (annuale);
+Art. 169. - La scuola di specializzazione in puericultura ha sede presso l'istituto di puericultura e medicina neonatale dell'Universita' di Ferrara ed e' diretta dal professore di ruolo della cattedra stessa.
 
-psichiatria sociale II (biennale);
+Art. 170. - La durata del corso e' di tre anni. Gli iscritti hanno l'obbligo di internato con le modalita' e l'orario che saranno stabiliti dal consiglio della scuola.
 
-psichiatria forense (annuale);
+Art. 171. - Il numero massimo degli iscritti e' di quindici per i tre anni di corso.
 
-psicoterapia III (triennale);
+Art. 172. - L'ammissione al corso e' per titoli.
 
-clinica psichiatrica IV (quadriennale).
+Art. 173. - Le materie di insegnamento sono le seguenti:
 
-Note esplicative.
+1° Anno:
 
-1) Strutture e funzioni integrative del SNC: tale materia, annuale, e' comprensiva dell'anatomofisiologia del SNC e della psicofisiologia.
+1) peculiarita' anatomo-fisiologiche dell'eta' evolutiva;
 
-2) Neurologia clinica: tale insegnamento, annuale, deve essere comprensivo, eventualmente con sottodivisioni di cenni di anatomia patologica del SN, di semeiotica neurologica, clinica e strumentale, di neuroradiologia.
+2) elementi di genetica medica ed eugenetica;
 
-3) Clinica psichiatrica: tale materia, quadriennale, e' comprensiva anche degli elementi di semeiotica psichiatrica, delle tecniche laboratoristiche, delle terapie biologiche.
+3) elementi di puericultura perinatale;
 
-4) Psicoterapia: tale materia, triennale, comprende e considera nel corso dei tre anni, le tecniche ed i principi fondamentali delle principali psicoterapie individuali, direttive e non direttive, i principi fondamentali e le dinamiche delle piu' importanti psicoterapie di gruppo, delle prassi psicoterapiche, socioterapiche e delle sociodinamiche delle istituzioni psichiatriche.
+4) auxologia;
 
-5) Psicodiagnostica ed informatica psichiatrica: tale materia, annuale, e' comprensiva di cenni di statistica, dei reattivi mentali e psicodiagnostica strumentale e di metodologia della ricerca psichiatrica.
+5) alimentazione e dietetica dell'eta' infantile;
 
-6) Psichiatria sociale: tale materia, biennale, con molte possibilita' di suddivisioni, e' comprensiva di elementi di sociologia, di antropologia culturale, di etologia, di ecologia psichiatrica, di epidemiologia psichiatrica, di psichiatria transculturale, di psichiatria preventiva e di igiene mentale, prassi ed organizzazione di assistenza psichiatrica sul territorio extra istituzionale.
-
-7) Psicosomatica: tale materia, annuale, e' comprensiva degli aspetti psichici delle malattie somatiche della cosiddetta medicina, integrata, della endocrinologia in riferimento alla psichiatria, delle cosiddette specifiche malattie psicosomatiche.
-
-Art. 123. - E' obbligatoria la frequenza per undici mesi all'anno; tale periodo comprende sia la frequenza alle lezioni, sia l'attivita' nei reparti di degenza e nelle strutture ambulatoriali a disposizione della scuola. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.
-
-La scuola programma lo svolgimento dei corsi di insegnamento. Per il passaggio agli anni successivi e' obbligatorio il superamento degli esami per ogni singolo anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
-
-Le lezioni teoriche sono integrate da seminari anche interdisciplinari, da documentazioni cliniche e da esperienze effettuate nei vari settori della disciplina.
-
-Alla fine dei quattro anni gli allievi che hanno frequentato i corsi saranno ammessi all'esame di diploma, consistente nella presentazione e discussione di una tesi scritta di argomento pertinente alla psichiatria, in una prova orale ed in una prova pratica.
-
-Agli allievi che hanno ottenuto l'approvazione nell'esame di diploma verra' rilasciato il diploma di specializzazione in psichiatria valido a tutti gli effetti di legge.
-
-L'ordinamento della scuola di specializzazione in radiologia di cui al [decreto del Presidente della Repubblica 25 maggio 1976, n. 539](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-05-25;539), e' soppresso e sostituito dal seguente:
-
-Scuola di specializzazione in radiologia
-
-Art. 157. - La scuola di specializzazione in radiologia ha sede presso l'istituto di radiologia ed e' diretta da un professore di ruolo o fuori ruolo della stessa materia o, in carenza, di materia affine. Alla scuola possono essere ammessi solo i laureati in medicina e chirurgia in possesso di diploma di abilitazione professionale e la loro immatricolazione e' subordinata all'esito di un esame di ammissione per titoli ed esami.
-
-Non sono ammesse abbreviazioni di corso.
-
-Art. 158. - La scuola conferisce i seguenti diplomi:
-
-a) diploma di specialista in radiodiagnostica.
-
-Gli anni di studio necessari per conseguire questo titolo sono quattro;
-
-b) diploma di specialista in radioterapia oncologica.
-
-Gli anni di studio necessari per conseguire questo titolo sono quattro.
-
-La scuola ha un tronco comune di due anni identico per il diploma in radiodiagnostica e radioterapia oncologica.
-
-Gli insegnamenti per il diploma di specialista in radiodiagnostica sono cosi' distribuiti nei quattro anni di corso:
-
-1° Anno (comune alla specializzazione in radioterapia oncologica):
-
-a) fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);
-
-b) radiobiologia, legislazione e norme generali di radioprotezione;
-
-c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;
-
-d) nozioni di anatomia e fisiologia generale.
-
-2° Anno (comune alla specializzazione in radioterapia oncologica):
-
-a) anatomia patologica;
-
-b) apparecchiature e tecniche radiologiche;
-
-c) semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);
-
-d) radiopatologia;
-
-e) dosimetria applicata.
-
-3° Anno
-
-a) tecniche speciali e relativa semeiotica (I);
-
-b) radiodiagnostica speciale dei vari organi ed apparati (I). 4° Anno:
-
-a) tecniche speciali e relativa semeiotica (temiografia, ecografia, xerografia, TAC) (II);
-
-b) radiodiagnostica speciale dei vari organi ed apparati (II).
-
-Gli insegnamenti per il diploma di specialista in radioterapia oncologica sono cosi' distribuiti nei quattro anni di corso:
-
-1° Anno (comune alla specializzazione in radiodiagnostica):
-
-a) fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);
-
-b) radiobiologia, legislazione e norme generali di radioprotezione;
-
-c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione ed archiviazione;
-
-d) nozioni di anatomia e fisiologia generale.
+6) elementi di semeiotica infantile.
 
 2° Anno:
 
-a) anatomia patologica;
+1) psicologia dell'igiene mentale nell'eta' evolutiva;
 
-b) apparecchiature e tecniche radiologiche;
+2) igiene ed assistenza nell'eta' evolutiva;
 
-c) semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);
+3) profilassi delle malattie infettive nell'infanzia;
 
-d) radiopatologia;
+4) elementi di medicina scolastica;
 
-e) dosimetria applicata.
+5) legislazione ed assistenza sociale nell'infanzia.
 
 3° Anno:
 
-a) oncologia generale;
-
-b) oncologia clinica (I);
-
-c) tecniche radioterapiche.
-
-4° Anno:
-
-a) oncologia clinica (II);
-
-b) fondamenti di terapia chirurgica dei tumori;
-
-c) radioterapia clinica;
-
-d) trattamento del canceroso in fase avanzata.
-
-I singoli insegnamenti saranno tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento.
-
-Il numero massimo di iscritti in corso alla scuola e' di trentadue da ripartirsi annualmente fra i vari corsi di diploma previsti dall'art. 158.
-
-La frequenza pratica e' obbligatoria (dieci mesi all'anno) e deve avvenire in reparti riconosciuti idonei.
-
-L'insegnamento verra' svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento aperti anche a specialisti ecc. Gli allievi per essere ammessi a sostenere gli esami delle singole materie, dovranno avere la firma di frequenza da parte del direttore della scuola stessa.
-
-Gli allievi al termine di ogni anno dovranno superare gli esami di profitto delle materie prescritte per poter ottenere l'iscrizione all'anno successivo.
-
-Gli allievi per conseguire il diploma di specializzazione, oltre ad essere stati approvati in tutti gli esami, dovranno elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola.
+tirocinio pratico presso l'istituto dove la scuola ha sede od altre istituzioni od enti che abbiano, a giudizio del consiglio della scuola, caratteristiche tali da assicurare lo svolgimento di un efficace tirocinio sotto l'aspetto eminentemente pratico.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 31 ottobre 1978
+Dato a Roma, addi' 28 ottobre 1976
 
-PERTINI
+LEONE
 
-PEDINI
+MALFATTI
 
 Visto, il Guardasigilli: BONIFACIO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 18 luglio 1979 Registro n. 56 Istruzione, foglio n. 76
+alla Corte dei conti, addi' 28 dicembre 1976 Registro n. 104 Istruzione, foglio n. 394
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;   
+Udito il testo unico della legge sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);   
+Riconosciuta la particolare necessita' di approvare le modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
 Decreta:   
   
-Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso: gli articoli 121, 122 e 123, relativi alla scuola di specializzazione in psichiatria, sono soppressi e sostituiti dai seguenti:   
+Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+L'art. 115, relativo alla scuola di specializzazione in anestesiologia e rianimazione, e' modificato nel senso che il primo e il secondo comma sono abrogati e sostituiti dai seguenti:   
   
-Scuola di specializzazione in psichiatria   
+La scuola di specializzazione in anestesiologia e rianimazione ha sede presso l'istituto di anestesiologia e rianimazione, ed ha la durata di tre anni.   
+Direttore della scuola e' il direttore dell'istituto di anestesia e rianimazione.   
+Dopo l'art. 163, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in audiologia e in puericultura annesse alla facolta' di medicina e chirurgia.   
+Scuola di specializzazione in audiologia   
+Art. 164. - La scuola di specializzazione in audiologia ha sede presso l'istituto di clinica otorinolaringoiatrica dell'Universita' di Ferrara. Essa e' diretta da titolare di una delle cattedre afferenti all'istituto policattedra di clinica otorinolaringoiatrica dell'Universita' con designazione da parte del consiglio di facolta'.   
+La scuola e' retta secondo le norme del regolamento generale delle scuole di specializzazione dell'Universita' di Ferrara.   
+
+((Art. 165. - La durata del corso e' di tre anni. L'indirizzo e' teorico-pratico.   
+Il numero massimo complessivo di iscritti e' di dodici.))
+
   
-Art. 121. - La scuola di specializzazione in psichiatria ha sede presso la cattedra di clinica psichiatrica e conferisce il diploma di specialista in psichiatria.   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.   
-Il numero complessivo degli allievi e' di cinque per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-Art. 122. - Le materie d'insegnamento sono le seguenti:   
+Art. 166. - L'ammissione al corso e' per titoli e per esami, titolo necessario per l'ammissione al corso e' la laurea in medicina e chirurgia.   
+Nessuna abbreviazione di corso puo' essere ammessa.   
+Art. 167. - Alla fine di ciascun anno scolastico gli specializzandi dovranno sostenere un esame di profitto il cui superamento e' condizione necessaria per l'iscrizione nell'anno successivo e, per quelli che sono iscritti all'ultimo anno, per poter accedere all'esame di diploma.   
+Alla fine del terzo anno di corso ha luogo l'esame di diploma, consistente nella preparazione e discussione di una dissertazione scritta su di un argomento di audiologia, previamente concordato tra il diplomando ed il direttore della scuola.   
+Art. 168. - Gli insegnamenti impartiti nella scuola sono i seguenti:   
 1° Anno:   
-metodologia del rapporto medico-paziente (annuale);   
-psicologia (annuale);   
-elementi di genetica e biochimica (annuale);   
-struttura e funzioni integrative del SNC (annuale);   
-neurologia clinica (annuale);   
-clinica psichiatrica I (quadriennale).   
+nozioni di fisica acustica;   
+anatomia dell'orecchio, delle vie e dei centri acustici e vestibolari;   
+fisiologia dell'orecchio, delle vie e dei centri acustici e vestibolari;   
+nozioni di psichiatria.   
 2° Anno:   
-psicopatologia e psicodinamica (annuale);   
-psicoterapia I (triennale);   
-psicofarmacologia (annuale);   
-psicofarmacoterapia (annuale);   
-clinica psichiatrica II (quadriennale).   
+tecniche audiometriche;   
+nozioni di neurologia;   
+nozioni di vestibologia.   
 3° Anno:   
-psicodiagnostica ed informatica psichiatrica (annuale);   
-psichiatria sociale I (biennale);   
-psichiatria infantile (annuale);   
-psicoterapia II (triennale);   
-clinica psichiatrica III (quadriennale).   
-4° Anno:   
-psicosomatica (annuale);   
-psichiatria sociale II (biennale);   
-psichiatria forense (annuale);   
-psicoterapia III (triennale);   
-clinica psichiatrica IV (quadriennale).   
-Note esplicative.   
-1) Strutture e funzioni integrative del SNC: tale materia, annuale, e' comprensiva dell'anatomofisiologia del SNC e della psicofisiologia.   
-2) Neurologia clinica: tale insegnamento, annuale, deve essere comprensivo, eventualmente con sottodivisioni di cenni di anatomia patologica del SN, di semeiotica neurologica, clinica e strumentale, di neuroradiologia.   
-3) Clinica psichiatrica: tale materia, quadriennale, e' comprensiva anche degli elementi di semeiotica psichiatrica, delle tecniche laboratoristiche, delle terapie biologiche.   
-4) Psicoterapia: tale materia, triennale, comprende e considera nel corso dei tre anni, le tecniche ed i principi fondamentali delle principali psicoterapie individuali, direttive e non direttive, i principi fondamentali e le dinamiche delle piu' importanti psicoterapie di gruppo, delle prassi psicoterapiche, socioterapiche e delle sociodinamiche delle istituzioni psichiatriche.   
-5) Psicodiagnostica ed informatica psichiatrica: tale materia, annuale, e' comprensiva di cenni di statistica, dei reattivi mentali e psicodiagnostica strumentale e di metodologia della ricerca psichiatrica.   
-6) Psichiatria sociale: tale materia, biennale, con molte possibilita' di suddivisioni, e' comprensiva di elementi di sociologia, di antropologia culturale, di etologia, di ecologia psichiatrica, di epidemiologia psichiatrica, di psichiatria transculturale, di psichiatria preventiva e di igiene mentale, prassi ed organizzazione di assistenza psichiatrica sul territorio extra istituzionale.   
-7) Psicosomatica: tale materia, annuale, e' comprensiva degli aspetti psichici delle malattie somatiche della cosiddetta medicina, integrata, della endocrinologia in riferimento alla psichiatria, delle cosiddette specifiche malattie psicosomatiche.   
-Art. 123. - E' obbligatoria la frequenza per undici mesi all'anno; tale periodo comprende sia la frequenza alle lezioni, sia l'attivita' nei reparti di degenza e nelle strutture ambulatoriali a disposizione della scuola. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.   
-La scuola programma lo svolgimento dei corsi di insegnamento. Per il passaggio agli anni successivi e' obbligatorio il superamento degli esami per ogni singolo anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.   
-Le lezioni teoriche sono integrate da seminari anche interdisciplinari, da documentazioni cliniche e da esperienze effettuate nei vari settori della disciplina.   
-Alla fine dei quattro anni gli allievi che hanno frequentato i corsi saranno ammessi all'esame di diploma, consistente nella presentazione e discussione di una tesi scritta di argomento pertinente alla psichiatria, in una prova orale ed in una prova pratica.   
-Agli allievi che hanno ottenuto l'approvazione nell'esame di diploma verra' rilasciato il diploma di specializzazione in psichiatria valido a tutti gli effetti di legge.   
-L'ordinamento della scuola di specializzazione in radiologia di cui al [decreto del Presidente della Repubblica 25 maggio 1976, n. 539](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-05-25;539), e' soppresso e sostituito dal seguente:   
-  
-Scuola di specializzazione in radiologia   
-  
-Art. 157. - La scuola di specializzazione in radiologia ha sede presso l'istituto di radiologia ed e' diretta da un professore di ruolo o fuori ruolo della stessa materia o, in carenza, di materia affine. Alla scuola possono essere ammessi solo i laureati in medicina e chirurgia in possesso di diploma di abilitazione professionale e la loro immatricolazione e' subordinata all'esito di un esame di ammissione per titoli ed esami.   
-Non sono ammesse abbreviazioni di corso.   
-Art. 158. - La scuola conferisce i seguenti diplomi:   
-a) diploma di specialista in radiodiagnostica.   
-Gli anni di studio necessari per conseguire questo titolo sono quattro;   
-b) diploma di specialista in radioterapia oncologica.   
-Gli anni di studio necessari per conseguire questo titolo sono quattro.   
-La scuola ha un tronco comune di due anni identico per il diploma in radiodiagnostica e radioterapia oncologica.   
-Gli insegnamenti per il diploma di specialista in radiodiagnostica sono cosi' distribuiti nei quattro anni di corso:   
-1° Anno (comune alla specializzazione in radioterapia oncologica):   
-a) fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);   
-b) radiobiologia, legislazione e norme generali di radioprotezione;   
-c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;   
-d) nozioni di anatomia e fisiologia generale.   
-2° Anno (comune alla specializzazione in radioterapia oncologica):   
-a) anatomia patologica;   
-b) apparecchiature e tecniche radiologiche;   
-c) semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);   
-d) radiopatologia;   
-e) dosimetria applicata.   
-3° Anno   
-a) tecniche speciali e relativa semeiotica (I);   
-b) radiodiagnostica speciale dei vari organi ed apparati (I). 4° Anno:   
-a) tecniche speciali e relativa semeiotica (temiografia, ecografia, xerografia, TAC) (II);   
-b) radiodiagnostica speciale dei vari organi ed apparati (II).   
-Gli insegnamenti per il diploma di specialista in radioterapia oncologica sono cosi' distribuiti nei quattro anni di corso:   
-1° Anno (comune alla specializzazione in radiodiagnostica):   
-a) fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);   
-b) radiobiologia, legislazione e norme generali di radioprotezione;   
-c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione ed archiviazione;   
-d) nozioni di anatomia e fisiologia generale.   
+patologia dell'udito;   
+terapia medica, chirurgica e protesica della sordita';   
+la sordita' sotto il profilo sociale;   
+la rieducazione dell'ipoacusico.   
+Per tasse, soprattasse e contributi si fa riferimento alle norme statutarie in vigore.   
+Scuola di specializzazione in puericultura   
+Art. 169. - La scuola di specializzazione in puericultura ha sede presso l'istituto di puericultura e medicina neonatale dell'Universita' di Ferrara ed e' diretta dal professore di ruolo della cattedra stessa.   
+Art. 170. - La durata del corso e' di tre anni. Gli iscritti hanno l'obbligo di internato con le modalita' e l'orario che saranno stabiliti dal consiglio della scuola.   
+Art. 171. - Il numero massimo degli iscritti e' di quindici per i tre anni di corso.   
+Art. 172. - L'ammissione al corso e' per titoli.   
+Art. 173. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+1) peculiarita' anatomo-fisiologiche dell'eta' evolutiva;   
+2) elementi di genetica medica ed eugenetica;   
+3) elementi di puericultura perinatale;   
+4) auxologia;   
+5) alimentazione e dietetica dell'eta' infantile;   
+6) elementi di semeiotica infantile.   
 2° Anno:   
-a) anatomia patologica;   
-b) apparecchiature e tecniche radiologiche;   
-c) semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);   
-d) radiopatologia;   
-e) dosimetria applicata.   
+1) psicologia dell'igiene mentale nell'eta' evolutiva;   
+2) igiene ed assistenza nell'eta' evolutiva;   
+3) profilassi delle malattie infettive nell'infanzia;   
+4) elementi di medicina scolastica;   
+5) legislazione ed assistenza sociale nell'infanzia.   
 3° Anno:   
-a) oncologia generale;   
-b) oncologia clinica (I);   
-c) tecniche radioterapiche.   
-4° Anno:   
-a) oncologia clinica (II);   
-b) fondamenti di terapia chirurgica dei tumori;   
-c) radioterapia clinica;   
-d) trattamento del canceroso in fase avanzata.   
-I singoli insegnamenti saranno tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento.   
-Il numero massimo di iscritti in corso alla scuola e' di trentadue da ripartirsi annualmente fra i vari corsi di diploma previsti dall'art. 158.   
-La frequenza pratica e' obbligatoria (dieci mesi all'anno) e deve avvenire in reparti riconosciuti idonei.   
-L'insegnamento verra' svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento aperti anche a specialisti ecc. Gli allievi per essere ammessi a sostenere gli esami delle singole materie, dovranno avere la firma di frequenza da parte del direttore della scuola stessa.   
-Gli allievi al termine di ogni anno dovranno superare gli esami di profitto delle materie prescritte per poter ottenere l'iscrizione all'anno successivo.   
-Gli allievi per conseguire il diploma di specializzazione, oltre ad essere stati approvati in tutti gli esami, dovranno elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola.   
+tirocinio pratico presso l'istituto dove la scuola ha sede od altre istituzioni od enti che abbiano, a giudizio del consiglio della scuola, caratteristiche tali da assicurare lo svolgimento di un efficace tirocinio sotto l'aspetto eminentemente pratico.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1978
+### Dato a Roma, addi' 28 ottobre 1976
 
-PERTINI PEDINI
+LEONE MALFATTI
 
 Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 18 luglio 1979
+Registrato alla Corte dei conti, addi' 28 dicembre 1976
 
-Registro n. 56 Istruzione, foglio n. 76
+Registro n. 104 Istruzione, foglio n. 394

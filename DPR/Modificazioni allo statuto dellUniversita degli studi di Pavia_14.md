@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1980 n. 322
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1984 n. 990
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1980 n. 322
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1984 n. 990
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con decreto 13 ottobre 1927, n. 2229, e successive modificazioni;
+Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,9 +20,11 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio universitario nazionale nel suo parere;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio universitario nazionale nel suo parere;
 
 Sentito il parere del Consiglio universitario nazionale;
 
@@ -31,55 +33,26 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-  
-Dopo l'art. 315, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi alla istituzione della scuola di perfezionamento in analisi e tecnologie farmaceutiche, annessa alla facolta' di farmacia.   
->Scuola di perfezionamento in analisi e tecnologie farmaceutiche   
-Art. 316. - La scuola di perfezionamento in analisi e tecnologie farmaceutiche conferisce il diploma di perfezionamento in analisi e tecnologie farmaceutiche.   
-La durata del corso di studio e' di tre anni.   
-Art. 317. - Alla scuola sono ammessi i laureati in farmacia, in chimica e tecnologia farmaceutiche, in chimica ed in chimica industriale.   
-Art. 318. - Il numero degli ammessi non puo' essere superiore a venti per ciascun anno di corso. La facolta' si riserva di attivare il corso del primo anno in funzione del numero di coloro che hanno presentato domanda di iscrizione (minimo cinque). Il secondo corso verra' comunque attivato qualunque sia il numero degli iscritti.   
-Art. 319. - Gli insegnamenti impartiti dalla scuola nei tre anni di corso sono i seguenti:   
-1° Anno:   
-1) chimica farmaceutica (1°);   
-2) formulazione farmaceutica;   
-3) metodologie analitiche;   
-4) farmacologia applicata;   
-5) statistica (semestrale);   
-6) legislazione farmaceutica (semestrale).   
-2° Anno:   
-1) chimica farmaceutica (2°);   
-2) biofarmaceutica - farmacocinetica;   
-3) analisi dei costituenti delle forme farmaceutiche (1°);   
-4) tecnologia industriale delle forme farmaceutiche (1°);   
-5) organizzazione della produzione farmaceutica (semestrale). 3° Anno:   
-1) analisi dei costituenti delle forme farmaceutiche (2°);   
-2) tecnologia industriale delle forme farmaceutiche (2°);   
-3) controlli tecnologici delle forme farmaceutiche e dei materiali di confezionamento;   
-4) analisi e controlli microbiologici e biologici;   
-5) tecnologia dei materiali di confezionamento;   
-6) controllo di qualita' e norme di buona fabbricazione (semestrale);   
-In aggiunta agli insegnamenti precedenti gli iscritti alla scuola dovranno seguire uno o piu' corsi universitari, tra quelli impartiti dalla facolta' di farmacia, per colmare eventuali lacune in relazione al tipo di laurea conseguito. Gli insegnamenti da seguire verranno indicati ad ogni iscritto dal consiglio direttivo della scuola, tenendo conto del suo curriculum e dei suoi interessi scientifici.   
-I corsi saranno integrati da dimostrazioni ed esercitazioni pratiche e da seminari su argomenti di particolare interesse ed attualita'.   
-Art. 320. - Alla fine di ogni anno gli iscritti dovranno sostenere un esame, vertente sugli insegnamenti impartiti dalla scuola in quell'anno nonche' un colloquio sul o sui corsi universitari aggiuntivi, di fronte ad una commissione formata dai professori dei corsi di quell'anno e presieduta dal direttore della scuola.   
-La scuola di perfezionamento in analisi e tecnologie farmaceutiche, potra' usufruire autonomamente di attrezzature didattiche e scientifiche, e nel caso di particolari esigenze, potra' servirsi anche di quelle gia' utilizzate per lo svolgimento dei corsi universitari presso gli istituti afferenti alla facolta'.   
-La facolta' dispone di mezzi finanziari necessari al regolare funzionamento dell'attivita' della scuola.   
+Art. 63. - L'insegnamento fondamentale di "istituzioni di anatomia e istologia patologica" del corso di laurea in odontoiatria e protesi dentaria, passa dal biennio al triennio e prende il n. 15, con la conseguente variazione degli insegnamenti del biennio.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 7 febbraio 1980
+### Dato a Roma, addi' 11 ottobre 1984
 
-PERTINI VALITUTTI
+PERTINI
 
-Visto, il Guardasigilli: MORLINO
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 26 giugno 1980
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registro n. 61 Istruzione, foglio n. 293
+Registrato alla Corte dei conti, addi' 18 gennaio 1985
+
+Registro n. 2 Istruzione, foglio n. 349

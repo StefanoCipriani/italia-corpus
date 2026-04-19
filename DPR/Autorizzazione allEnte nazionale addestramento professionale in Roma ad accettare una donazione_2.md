@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1030
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 aprile 1982 n. 1173
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1030
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 aprile 1982 n. 1173
+==============================================================
 
 Autorizzazione all'Ente nazionale addestramento professionale, in Roma, ad accettare una donazione.
 ---------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1030. Decreto del Presidente della Repubblica 31 ottobre 1978, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Ente nazionale addestramento professionale (E.N.A.P.), in Roma, viene autorizzato ad accettare la donazione disposta dal comune di Aprilia (Latina), con atto di donazione 6 marzo 1974, n. 99599 di repertorio, n. 3829 di raccolta, a rogito dott. Nicola Pesce, notaio in Aprilia, registrato all'ufficio atti pubblici di Latina il 22 marzo 1974 al n. 1935, consistente in una porzione di terreno sito in Aprilia della estensione di Ha 1.50.50, riportato in catasto al foglio 99, particella 131, 79, 80, 161, descritto e valutato L. 27.000.000 nella perizia giurata del geom. Franco Nuti, al fine di destinarlo per la costruzione di strutture permanentemente adibite a centro di formazione professionale per i lavoratori.  
+1173. Decreto del Presidente della Repubblica 30 aprile 1982, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Ente nazionale addestramento professionale (ENAP), in Roma, viene autorizzato ad accettare la donazione, consistente in un complesso immobiliare costituente il centro di formazione professionale "Don Vito Sguotti", con annesse attrezzature e macchinari, sito in Carbonia (Cagliari), via Mazzini 3, disposta dall'Opera regionale assistenza e formazione operai sardi (ORAFOS), in Cagliari, con atto 29 dicembre 1978 a rogito dottor Gianmassimo Sechi, coadiutore temporaneo della dottoressa Anna Maria Cara, notaio in Cagliari, e registrato in data 16 gennaio 1979 al n. 32042.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 26 marzo 1979  
-Registro n. 1 Lavoro, foglio n. 70
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 14 aprile 1983  
+Registro n. 1 Lavoro, foglio n. 194

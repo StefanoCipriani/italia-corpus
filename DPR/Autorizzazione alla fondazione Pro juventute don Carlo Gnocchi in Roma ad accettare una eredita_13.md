@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1985 n. 192
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1985 n. 183
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1985 n. 192
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1985 n. 183
 ===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
@@ -12,9 +12,9 @@ Art. 1
 
 N.
 
-192. Decreto del Presidente della Repubblica 25 febbraio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in un fabbricato con annesso terreno sito in Serina (Bergamo), via Cavagna n. 157, iscritto nel nuovo catasto edilizio urbano alla partita n. 5, mappale 723, valore L. 9.500.000, e in beni mobili come da inventario per un valore di L. 4.077.666. I suindicati beni, per un valore complessivo di L. 13.577.666, sono gravati di usufrutto a favore dei coniugi Gabba di Milano.  
-L'eredita' e' stata disposta dal sig. Libero Santo con testamento olografo 29 dicembre 1971, pubblicato in data 5 gennaio 1973, n. 14720 di repertorio, a rogito dott. Ferruccio Brambilla, notaio in Milano, registrato a Busto Arsizio in data 29 gennaio 1973 al n. 430.   
+183. Decreto del Presidente della Repubblica 12 febbraio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in un immobile sito in Milano, corso Plebiscito n. 191, distinto nel nuovo catasto edilizio urbano alla partita n. 28130, foglio 356, mappale 449 sub 4, ed in beni mobili come da inventario, per un totale di L. 81.640.536 al netto delle passivita', disposta dalla sig.ra Luraschi Evelina ved. Levi a favore dell'istituto dei mutilatini di don Gnocchi, che si identifica con la fondazione medesima, come si evince dal verbale del consiglio di amministrazione della stessa in data 20 novembre 1982, con testamento olografo 10 dicembre 1976, pubblicato in data 14 dicembre 1982, numero 5981/933 di repertorio, a rogito dott.  
+Ulderico Brambilla, notaio in Milano, registrato a Milano in data 28 gennaio 1982 al n. 850.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 2 maggio 1985   
-Registro n. 4 Presidenza, foglio n. 91
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 2 maggio 1985  
+Registro n. 4 Presidenza, foglio n. 85

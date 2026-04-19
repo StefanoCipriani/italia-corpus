@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 settembre 1969 n. 723
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 aprile 1973 n. 287
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 settembre 1969 n. 723
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 aprile 1973 n. 287
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
@@ -12,7 +12,7 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788) e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
@@ -24,44 +24,18 @@ Sulla proposta del Ministro per la pubblica istruzione;
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 37. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti quelli di:  
-Storia della lingua greca;  
-Filologia micenea;  
-Storia della civilta' francese;  
-Didattica delle lingue classiche;  
-Storia della retorica classica;  
-Storia della Chiesa;  
-Epigrafia latina;  
-Biblioteconomia e bibliografia;  
-Storia e civilta' dell'India e dell'Estremo oriente;  
-Filologia latina medioevale e umanistica;  
-Teorie e tecniche delle comunicazioni di massa;  
-Religioni e filosofia dell'India e dell'Estremo oriente;  
-Art. 38. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti quelli di:  
-Storia della Chiesa;  
-Filosofia politica;  
-Teorie e tecniche delle comunicazioni di massa;  
-Storia e critica del cinema;  
-Art. 39. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne sono aggiunti quelli di:  
-Storia della civilta' francese;  
-Biblioteconomia e bibliografia;  
-Storia della lingua spagnola;  
-Storia e civilta' dell'India e dell'Estremo oriente;  
-Filologia latina medioevale e umanistica.  
-Art. 40. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di: "Chirurgia d'urgenza".  
+L'[art. 15 del decreto del Presidente della Repubblica 31 ottobre 1972, n. 901](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-10-31;901~art15), relativo all'inclusione di nuovi insegnamenti complementari nel corso di laurea in scienze politiche dell'Universita' di Torino e' rettificato nel senso che l'insegnamento di "Storia del movimento sociale" deve essere soppresso e sostituito dall'insegnamento di "Storia del movimento operaio".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 settembre 1969
+### Dato a Roma, addi' 16 aprile 1973
 
-SARAGAT FERRARI AGGRADI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 27 ottobre 1969
+Registrato alla Corte dei conti, addi' 6 giugno 1973
 
-Atti del Governo, registro n. 229, foglio n. 144. - CARUSO
+Atti di Governo, registro n. 258, foglio n. 98. - VALENTINI

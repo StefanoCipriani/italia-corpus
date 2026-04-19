@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1973 n. 142
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1972 n. 101
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1973 n. 142
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1972 n. 101
+==============================================================
 
 Autorizzazione all'Universita' degli studi di Genova ad acquistare un immobile.
 -------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-142. Decreto del Presidente della Repubblica 2 febbraio 1973, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Genova viene autorizzata ad acquistare un immobile sito in Genova, corso Paganini, 3, iscritto nel nuovo catasto edilizio urbano di Genova alla partita 3442, al prezzo di L. 120.000.000.  
+101. Decreto del Presidente della Repubblica 28 gennaio 1972, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Genova viene autorizzata ad acquistare un immobile denominato "Palazzo Balbi" sito in Genova, via Balbi n. 4, iscritto al nuovo catasto edilizio urbano di Genova alla partita 2190, foglio n. 80, mappale 119, al prezzo di L. 550.000.000.  
   
 Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 16 aprile 1973  
-Atti di Governo, registro n. 257, foglio n. 99. - VALENTINI
+Registrato alla Corte dei conti, addi' 24 marzo 1972  
+Atti del Governo, registro n. 247, foglio n. 163. - VALENTINI

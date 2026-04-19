@@ -1,77 +1,228 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 giugno 1971 n. 632
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 maggio 1967 n. 749
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 giugno 1971 n. 632
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 maggio 1967 n. 749
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 22 maggio 1939, n. 1166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-22;1166), e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 8, e' abrogato e sostituito dal seguente:
+
+La Facolta' di giurisprudenza conferisce la laurea in Giurisprudenza e la laurea in Scienze politiche. Alla Facolta' e' annessa la Scuola di statistica che conferisce il diploma in statistica.
+
+Dopo l'art. 12 e con il conseguente spostamento della successiva numerazione, sono aggiunti i seguenti nuovi articoli relativi alla istituzione del corso di laurea in Scienze politiche annesso alla Facolta' di giurisprudenza.
+
+Corso di laurea in Scienze politiche
+
+Art. 13. - La durata del corso degli studi per la laurea in Scienze politiche e' di quattro anni.
+
+E' titolo di ammissione il diploma di maturita' classica o il diploma di maturita' scientifica.
+
+Sono insegnamenti fondamentali:
+
+1) Dottrina dello Stato;
+
+2) Istituzioni di diritto privato;
+
+3) Istituzioni di diritto pubblico;
+
+4) Diritto amministrativo (biennale);
+
+5) Diritto internazionale;
+
+6) Diritto del lavoro;
+
+7) Diritto costituzionale italiano e comparato;
+
+8) Storia moderna (biennale);
+
+9) Storia delle dottrine politiche;
+
+10) Storia ed istituzioni dei Paesi afro-asiatici;
+
+11) Storia dei trattati e politica internazionale;
+
+12) Geografia politica ed economica;
+
+13) Economia politica;
+
+14) Politica economica e finanziaria;
+
+15) Statistica;
+
+16) Scienza delle finanze;
+
+17) Istituzioni di diritto e di procedura penale.
+
+Sono insegnamenti complementari:
+
+1) Contabilita' dello Stato e degli Enti pubblici;
+
+2) Demografia;
+
+3) Diritto internazionale privato;
+
+4) Filosofia del diritto;
+
+5) Organizzazione internazionale;
+
+6) Scienza dell'amministrazione;
+
+7) Sociologia;
+
+8) Statistica economica;
+
+9) Storia delle istituzioni politiche;
+
+10) Storia contemporanea;
+
+11) Storia dei movimenti sindacali;
+
+12) Storia dei movimenti e dei partiti politici;
+
+13) Storia delle dottrine economiche;
+
+14) Storia economica.
+
+Lo studente, nella scelta degli insegnamenti complementari, deve valersi, per due di essi, di quelli indicati nell'elenco degli insegnamenti stessi, e per due puo' valersi di qualsiasi altro insegnamento, fondamentale o complementare, impartito nelle altre Facolta' dello Ateneo; in quest'ultimo caso la scelta dovra' essere approvata dal preside della Facolta'.
+
+Lo studente e' inoltre tenuto a seguire i corsi ed a sostenere le prove di esame in due lingue straniere moderne. Almeno una di esse deve essere la francese, l'inglese o la tedesca; per l'altra lingua e' consentita la scelta fra quelle effettivamente insegnate nelle altre Facolta' dell'Ateneo.
+
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro complementari.
+
+Art. 14. - L'esame di laurea consiste:
+
+1) nella discussione orale di una dissertazione scritta, svolta su un tema precedentemente approvato dal professore della materia;
+
+2) nella discussione orale di una breve dissertazione scritta su altro tema approvato in precedenza dal professore della materia, su argomento diverso da quello della dissertazione di laurea.
+
+La dissertazione deve essere presentata alla segreteria in quadruplice copia e la sottotesi in triplice copia almeno un mese prima della data dell'esame di laurea, salvo proroga concessa dal preside della Facolta'.
+
+Art. 15. - Gli esami di Istituzioni di diritto privato e di Istituzioni di diritto pubblico dovranno essere superati prima di quelli di Diritto del lavoro, Diritto costituzionale italiano e comparato, Diritto amministrativo e Diritto internazionale. L'esame di Economia politica dovra' essere superato prima di quello di Politica economica e finanziaria.
+
+Art. 16. - Gli esami delle materie biennali saranno sostenuti alla fine del biennio.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 maggio 1967
+
+SARAGAT
+
+GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 21 agosto 1967 Atti del Governo, registro n. 213, foglio n. 14. - CARUSO
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, numero 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto, formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 22 maggio 1939, n. 1166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-22;1166), e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Dopo l'art. 290 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di preparazione per tecnici di audiometria e ortofonia (diretta a fini speciali).   
+Art. 8, e' abrogato e sostituito dal seguente:  
+La Facolta' di giurisprudenza conferisce la laurea in Giurisprudenza e la laurea in Scienze politiche. Alla Facolta' e' annessa la Scuola di statistica che conferisce il diploma in statistica.  
+Dopo l'art. 12 e con il conseguente spostamento della successiva numerazione, sono aggiunti i seguenti nuovi articoli relativi alla istituzione del corso di laurea in Scienze politiche annesso alla Facolta' di giurisprudenza.  
   
-Scuola di preparazione per tecnici di audiometria e ortofonia   
-(diretta a fini speciali)   
+Corso di laurea in Scienze politiche  
   
-Art. 291. - La durata del corso degli studi della scuola di preparazione per tecnici di audiometria ed ortofonia e' di due anni.  
-L'indirizzo e' teorico-pratico.   
-Art. 292. - Per l'ammissione alla scuola si richiede il diploma di abilitazione magistrale o di maestra giardiniera o titolo superiore (maturita' classica o scientifica).   
-Art. 293. - Alla scuola si accede previo esame di perfetta dizione e prova di lettura di un testo di lingua straniera. La commissione giudicatrice sara' composta dal direttore della scuola, da un professore ordinario o straordinario o aggregato di disciplina neuropsichiatrica o di otorinolaringoiatria e da un docente di psicologia.   
-Art. 294. - Il direttore della scuola e' il titolare della cattedra di audiologia dell'Universita' di Milano; la scuola e' sotto la vigilanza della facolta' di medicina e chirurgia dell'Universita' di Milano. Gli insegnanti sono, proposti dal direttore della scuola e scelti tra i titolari di altre cattedre della facolta' di medicina e chirurgia di Milano, tra i liberi docenti di audiologia ed in altre materie o tra persone, anche al di fuori dell'ambito universitario, aventi pero' particolare competenza sulle materie del corso.   
-Art. 295. - Le materie di insegnamento sono le seguenti:   
-  
-1° Anno:   
-  
-Anatomia e fisiologia dell'orecchio, delle vie, dei centri acustici e degli organi fonatori;   
-Nozioni di fisica acustica;   
-Tecniche audiometriche;   
-Psicologia del bambino.   
-  
-2° Anno:   
-  
-Patologia dell'udito, della voce e del linguaggio;   
-Neuropsichiatria infantile;   
-Foniatria - tecniche di rieducazione del linguaggio.   
-  
-Gli allievi sono obbligati all'internato per un periodo di due anni nell'istituto di audiologia od in istituti qualificati approvati dal direttore della scuola.   
-Art. 296. - Seguiti i corsi e superati gli esami in tutti gli insegnamenti prescritti, gli allievi saranno ammessi a sostenere l'esame di diploma.   
-Art. 297. - Le commissioni esaminatrici per gli esami di profitto sono nominate, su proposta del direttore della scuola, dal preside della facolta' di medicina e chirurgia.   
-Art. 298. - L'esame di diploma consiste nella discussione di una tesi scritta su un argomento riguardante le materie di insegnamento della scuola ed in una prova pratica stabilita dalla commissione esaminatrice.   
-L'esame di diploma viene sostenuto davanti ad una commissione di cinque membri scelti tra i docenti della scuola, nominata su proposta del direttore della scuola, dal preside della facolta' di medicina e chirurgia.   
-Ogni commissario ha a disposizione dieci punti. I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza della scuola.   
-Art. 299. - Verra' rilasciato agli allievi che avranno superato l'esame finale il diploma di tecnico di audiometria ed ortofonia.   
-Art. 300. - Il consiglio di amministrazione dell'universita', su proposta della direzione della scuola, approvata dal consiglio di facolta', stabilira' di anno in anno l'ammontare dei contributi. Le tasse e soprattasse annuali a carico degli iscritti restano cosi' destinate:   
-  
-  
-Tassa annuale d'iscrizione . . . . . . . . . . . . . . .L. 10.000 Soprattassa annuale di esami . . . . . . . . . . . . . ." 5.000 Tassa di diploma . . . . . . . . . . . . . . . . . . . ." 6.000 Tassa annuale di iscrizione per studenti fuori corso . ." 3.000   
+Art. 13. - La durata del corso degli studi per la laurea in Scienze politiche e' di quattro anni.  
+E' titolo di ammissione il diploma di maturita' classica o il diploma di maturita' scientifica.  
+Sono insegnamenti fondamentali:  
+1) Dottrina dello Stato;  
+2) Istituzioni di diritto privato;  
+3) Istituzioni di diritto pubblico;  
+4) Diritto amministrativo (biennale);  
+5) Diritto internazionale;  
+6) Diritto del lavoro;  
+7) Diritto costituzionale italiano e comparato;  
+8) Storia moderna (biennale);  
+9) Storia delle dottrine politiche;  
+10) Storia ed istituzioni dei Paesi afro-asiatici;  
+11) Storia dei trattati e politica internazionale;  
+12) Geografia politica ed economica;  
+13) Economia politica;  
+14) Politica economica e finanziaria;  
+15) Statistica;  
+16) Scienza delle finanze;  
+17) Istituzioni di diritto e di procedura penale.  
+Sono insegnamenti complementari:  
+1) Contabilita' dello Stato e degli Enti pubblici;  
+2) Demografia;  
+3) Diritto internazionale privato;  
+4) Filosofia del diritto;  
+5) Organizzazione internazionale;  
+6) Scienza dell'amministrazione;  
+7) Sociologia;  
+8) Statistica economica;  
+9) Storia delle istituzioni politiche;  
+10) Storia contemporanea;  
+11) Storia dei movimenti sindacali;  
+12) Storia dei movimenti e dei partiti politici;  
+13) Storia delle dottrine economiche;  
+14) Storia economica.  
+Lo studente, nella scelta degli insegnamenti complementari, deve valersi, per due di essi, di quelli indicati nell'elenco degli insegnamenti stessi, e per due puo' valersi di qualsiasi altro insegnamento, fondamentale o complementare, impartito nelle altre Facolta' dello Ateneo; in quest'ultimo caso la scelta dovra' essere approvata dal preside della Facolta'.  
+Lo studente e' inoltre tenuto a seguire i corsi ed a sostenere le prove di esame in due lingue straniere moderne. Almeno una di esse deve essere la francese, l'inglese o la tedesca; per l'altra lingua e' consentita la scelta fra quelle effettivamente insegnate nelle altre Facolta' dell'Ateneo.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro complementari.  
+Art. 14. - L'esame di laurea consiste:  
+1) nella discussione orale di una dissertazione scritta, svolta su un tema precedentemente approvato dal professore della materia;  
+2) nella discussione orale di una breve dissertazione scritta su altro tema approvato in precedenza dal professore della materia, su argomento diverso da quello della dissertazione di laurea.  
+La dissertazione deve essere presentata alla segreteria in quadruplice copia e la sottotesi in triplice copia almeno un mese prima della data dell'esame di laurea, salvo proroga concessa dal preside della Facolta'.  
+Art. 15. - Gli esami di Istituzioni di diritto privato e di Istituzioni di diritto pubblico dovranno essere superati prima di quelli di Diritto del lavoro, Diritto costituzionale italiano e comparato, Diritto amministrativo e Diritto internazionale. L'esame di Economia politica dovra' essere superato prima di quello di Politica economica e finanziaria.  
+Art. 16. - Gli esami delle materie biennali saranno sostenuti alla fine del biennio.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 giugno 1971
+### Dato a Roma, addi' 31 maggio 1967
 
-SARAGAT MISASI
+SARAGAT GUI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 18 agosto 1971
+Registrato alla Corte dei conti, addi' 21 agosto 1967
 
-Atti del Governo, registro n. 243, foglio n. 141. - PASQUALUCCI
+Atti del Governo, registro n. 213, foglio n. 14. - CARUSO

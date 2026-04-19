@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 gennaio 1973 n. 55
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 giugno 1970 n. 685
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 gennaio 1973 n. 55
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 giugno 1970 n. 685
 =============================================================
 
 Autorizzazione all'Associazione italiana della croce rossa ad accettare un legato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-55. Decreto del Presidente della Repubblica 12 gennaio 1973, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana della croce rossa viene autorizzata ad accettare il legato di L. 607.461, disposto a favore dell'ente dalla signora Bettelli Amelia con testamento olografo pubblicato per atto notaio Ansaldi di Modena il 2 marzo 1970, repertorio numero 215233/11114.   
+685. Decreto del Presidente della Repubblica 9 giugno 1970, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana della croce rossa viene autorizzata ad accettare il legato di L. 100.000 nominali in titoli del Prestito ricostruzione al 3,50% disposto a favore del dipendente sottocomitato di Chiavari dal sig. Luigi Daneri con testamento olografo pubblicato il 13 gennaio 1967, rep. 2335 a rogito notaio Marco Cagnone di Varese Ligure.  
   
-Visto, il Guardasigilli: GONELLA   
-Registrato alla Corte dei conti, addi' 24 marzo 1973   
-Atti di Governo, registro n. 257, foglio n. 8. - VALENTINI
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 23 settembre 1970  
+Atti del Governo, registro n. 237, foglio n. 109. - CARUSO

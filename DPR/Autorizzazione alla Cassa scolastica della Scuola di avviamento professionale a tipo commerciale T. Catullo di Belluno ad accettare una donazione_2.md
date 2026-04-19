@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 dicembre 1951 n. 1733
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1952 n. 898
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 dicembre 1951 n. 1733
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1952 n. 898
+============================================================
 
 Autorizzazione alla Cassa scolastica della Scuola di avviamento professionale a tipo commerciale "T. Catullo" di Belluno ad accettare una donazione.
 ----------------------------------------------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1733. Decreto del Presidente della Repubblica 7 dicembre 1951, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola di avviamento professionale a tipo commerciale "T. Catullo" di Belluno viene autorizzata ad accettare la donazione di L. 25.000 in titoli di Stato, per l'istituzione, con il relativo reddito, di un annuo premio di studio intitolato "Mosena Pierino".  
+898. Decreto del Presidente della Repubblica 14 marzo 1952, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola di avviamento professionale a tipo commerciale "T. Catullo" di Belluno viene autorizzata ad accettare la donazione di nominali L. 25.000 disposta al fine della istituzione di un premio di studio intitolato al nome di Giammario Bruno.  
   
 Visto, il Guardasigilli: ZOLI  
-Registrato alla Corte dei conti, addi' 13 febbraio 1952  
-Atti del Governo, registro n. 50, foglio n. 27. - FRASCA
+Registrato alla Corte dei conti, addi' 14 luglio 1952  
+Atti del Governo, registro n. 55, foglio n. 126. - FRASCA

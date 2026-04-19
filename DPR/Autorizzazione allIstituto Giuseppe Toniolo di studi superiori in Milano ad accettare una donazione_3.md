@@ -1,20 +1,18 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 938
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 settembre 1950 n. 892
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 938
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 settembre 1950 n. 892
 ================================================================
 
-Autorizzazione all'"Istituto Giuseppe Toniolo di studi superiori", in Milano, ad accettare una donazione.
----------------------------------------------------------------------------------------------------------
+Autorizzazione all'Istituto Giuseppe Toniolo di studi superiori in Milano, ad accettare una donazione.
+------------------------------------------------------------------------------------------------------
 
 Art. 1
 ------
 
 N.
 
-938. Decreto del Presidente della Repubblica 5 settembre 1980, col quale, sulla proposta del Ministro della pubblica istruzione, l'"Istituto Giuseppe Toniolo di studi superiori", in Milano, viene autorizzato ad accettare la donazione, consistente in un immobile del valore di L. 1.110.000.000, disposta dalla societa' "S.  
-Francesco d'Assisi" S.p.a., in Milano, con atto pubblico 23 maggio 1978, n. 10976/2115 di repertorio, a rogito dott. Enrico Chiodi Darelli, notaio in Milano.  
+892. Decreto del Presidente della Repubblica 21 settembre 1950, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Istituto Giuseppe Toniolo di studi superiori in Milano, viene autorizzato ad accettare la donazione disposta in suo favore dalla principessa, Maria Cristina Giustiniani-Bandini, con atto pubblico in data 30 aprile 1948, rettificato con successivo atto pubblico in data 28 novembre 1949, di un appartamento, con annessa cantina, del valore dichiarato di L. 500.000, sito in Roma, via Guido d'Arezzo n. 2, riservandosene l'usufrutto vita natural durante.  
   
-Visto, il Guardasigilli: SARTI  
-Registrato alla Corte dei conti, addi' 30 dicembre 1980  
-Registro n. 122 Istruzione, foglio n. 20
+Visto, il Guardasigilli: PICCIONI  
+Registrato alla Corte dei conti, addi' 14 novembre 1950

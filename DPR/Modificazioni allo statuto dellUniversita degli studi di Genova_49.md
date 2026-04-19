@@ -1,202 +1,528 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1969 n. 1236
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1973 n. 748
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1969 n. 1236
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1973 n. 748
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592).
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla
------
-
-proposta del Ministro per la pubblica istruzione; Decreta:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Presso l'Universita' degli studi di Genova e' istituita la facolta' di scienze politiche.   
-L'attuale corso di laurea in scienze politiche, annesso alla facolta' di giurisprudenza della stessa universita' passa a far parte della nuova facolta' di scienze politiche.   
+Decreta:   
+  
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+  
+L'art. 80, relativo all'ordinamento degli studi dei corsi di laurea della facolta' di ingegneria, e' abrogato e sostituito dai seguenti con il conseguente spostamento della numerazione degli articoli successivi.   
+Art. 80. - Entro il 31 marzo di ciascun anno il consiglio di facolta' redige il manifesto degli studi per il successivo anno accademico.   
+Tale manifesto fissa, tra l'altro:   
+gli indirizzi in atto per ciascun corso di laurea:   
+per ciascun indirizzo, gli insegnamenti, scelti fra le materie elencate nell'art. 90;   
+la distribuzione degli insegnamenti in ciascun anno di corso del triennio di applicazione;   
+il numero globale di ore attribuite a ciascun insegnamento;   
+le modalita' per gli esami di laurea, salvo quanto disposto al successivo articolo 91.   
+Il numero di corsi di indirizzo, per ogni indirizzo, sara' tale che il numero complessivo di insegnamenti per ogni piano di studio sia, nel quinquennio, non inferiore a 27 ne' superiore a 30.   
+L'identita' di denominazione di insegnamenti impartiti in diversi corsi o indirizzi di laurea non comporta generalmente identita' di programma e di trattazione.   
+Art. 81. - Salvo espressa menzione contraria, i corsi ufficiali operanti nella facolta' di ingegneria, avranno estensione virtuale annuale. La loro durata temporale potra' essere anche inferiore ad un anno accademico purche' il numero minimo di lezioni sia non inferiore a quello previsto dalle norme vigenti per i corsi annuali.   
+Art. 82. - Il corso di laurea in ingegneria civile (sezione edile) comprende i seguenti insegnamenti obbligatori:   
+Biennio propedeutico:   
+1° Anno:   
+1) Analisi matematica I;   
+2) Geometria;   
+3) Fisica I;   
+4) Chimica;   
+5) Disegno.   
+2° Anno:   
+6) Analisi matematica II;   
+7) Meccanica razionale;   
+8) Fisica II;   
+9) Tecnologie dei materiali e chimica applicata;   
+10) Disegno II (per allievi ingegneri civili).   
+Triennio di applicazione:   
+11) Scienza delle costruzioni;   
+12) Meccanica applicata alle macchine e macchine;   
+13) Fisica tecnica;   
+14) Idraulica;   
+15) Architettura tecnica;   
+16) Topografia;   
+17) Complementi di scienza delle costruzioni;   
+18) Elettrotecnica;   
+19) Tecnica delle costruzioni;   
+20) Costruzioni metalliche;   
+21) Geologia e geologia applicata;   
+22) Architettura e composizione architettonica;   
+23) Meccanica dei terreni e tecnica delle fondazioni;   
+24) Costruzioni di strade, ferrovie ed aeroporti;   
+25) Tecnica urbanistica.   
+I restanti corsi per il raggiungimento del numero previsto dal penultimo comma dell'art. 80 sono a scelta dello studente. Il consiglio di facolta', anno per anno, indichera' il numero e la composizione degli indirizzi a scelta, secondo quanto disposto dall'art. 80.   
+Art. 83. - Il corso di laurea in ingegneria civile (sezione idraulica) comprende i seguenti insegnamenti obbligatori:   
+Biennio propedeutico:   
+1° Anno:   
+1) Analisi matematica I;   
+2) Geometria;   
+3) Fisica I;   
+4) Chimica;   
+5) Disegno.   
+2° Anno:   
+6) Analisi matematica II;   
+7) Meccanica razionale;   
+8) Fisica II;   
+9) Tecnologia dei materiali e chimica applicata;   
+10) Disegno II (per allievi ingegneri civili).   
+Triennio di applicazione:   
+11) Scienza delle costruzioni;   
+12) Meccanica applicata alle macchine e macchine;   
+13) Fisica tecnica;   
+14) Idraulica;   
+15) Architettura tecnica;   
+16) Topografia;   
+17) Complementi di scienza delle costruzioni;   
+18) Elettrotecnica;   
+19) Tecnica delle costruzioni;   
+20) Costruzioni metalliche;   
+21) Geologia e geologia applicata;   
+22) Impianti speciali idraulici;   
+23) Meccanica dei terreni e tecnica delle fondazioni;   
+24) Costruzioni di strade, ferrovie ed aeroporti;   
+25) Costruzioni idrauliche.   
+I restanti corsi per il raggiungimento del numero previsto dal penultimo comma dell'art. 80 sono a scelta dello studente. Il consiglio di facolta', anno per anno, indichera' il numero e la composizione degli indirizzi a scelta, secondo quanto disposto dall'art. 80.   
+Art. 84. - Il corso di laurea in ingegneria civile (sezione trasporti) comprende i seguenti insegnamenti obbligatori:   
+Biennio propedeutico:   
+1° Anno:   
+1) Analisi matematica I;   
+2) Geometria;   
+3) Fisica I;   
+4) Chimica;   
+5) Disegno.   
+2° Anno:   
+6) Analisi matematica II;   
+7) Meccanica razionale;   
+8) Fisica II;   
+9) Tecnologie dei materiali e chimica applicata;   
+10) Disegno II (per allievi ingegneri civili).   
+Triennio di applicazione:   
+11) Scienza delle costruzioni;   
+12) Meccanica applicata alle macchine e macchine;   
+13) Fisica tecnica;   
+14) Idraulica;   
+15) Architettura tecnica;   
+16) Topografia;   
+17) Complementi di scienza delle costruzioni;   
+18) Elettrotecnica;   
+19) Tecnica delle costruzioni;   
+20) Costruzioni metalliche;   
+21) Geologia e geologia applicata;   
+22) Tecnica ed economia dei trasporti;   
+23) Meccanica dei terreni e tecnica delle fondazioni;   
+24) Costruzioni di strade, ferrovie ed aeroporti;   
+25) Costruzione di ponti.   
+I restanti corsi per il raggiungimento del numero previsto dal penultimo comma dell'art. 80 sono a scelta dello studente. Il consiglio di facolta', anno per anno, indichera' il numero e la composizione degli indirizzi a scelta, secondo quanto disposto dall'art. 80.   
+Art. 85. - Il corso di laurea in ingegneria meccanica comprende i seguenti insegnamenti obbligatori:   
+Biennio propedeutico:   
+1° Anno:   
+1) Analisi matematica I;   
+2) Chimica;   
+3) Geometria I;   
+4) Fisica I;   
+5) Disegno (tecnico).   
+2° Anno:   
+6) Analisi matematica II;   
+7) Tecnologie generali dei materiali;   
+8) Meccanica razionale;   
+9) Fisica II;   
+10) Chimica applicata.   
+Triennio di applicazione:   
+11) Materie giuridiche;   
+12) Meccanica applicata alle macchine;   
+13) Scienza delle costruzioni;   
+14) Idraulica;   
+15) Tecnologia meccanica;   
+16) Fisica tecnica;   
+17) Elettrotecnica;   
+18) Macchine;   
+19) Costruzioni di macchine;   
+20) Disegno di macchine;   
+21) Regolazione delle macchine e degli impianti meccanici;   
+22) Misure e strumentazioni industriali;   
+23) Tecniche di calcolo per l'ingegneria meccanica;   
+24) Impianti meccanici.   
+I restanti corsi per il raggiungimento del numero previsto dal penultimo comma dell'art. 80 sono a scelta dello studente. Il consiglio di facolta', anno per anno, indichera' il numero e la composizione degli indirizzi a scelta, secondo quanto disposto dall'art. 80.   
+Art. 86. - Il corso di laurea in ingegneria elettrotecnica comprende i seguenti insegnamenti obbligatori:   
+Biennio propedeutico:   
+1° Anno:   
+1) Analisi matematica I;   
+2) Geometria I;   
+3) Fisica I;   
+4) Chimica;   
+5) Disegno (tecnico).   
+2° Anno:   
+6) Analisi matematica II;   
+7) Meccanica razionale;   
+8) Fisica II;   
+9) Metodi di osservazione e misura.   
+Triennio di applicazione:   
+10) Scienza delle costruzioni;   
+11) Meccanica applicata alle macchine;   
+12) Fisica tecnica;   
+13) Campi elettromagnetici e circuiti;   
+14) Elettrotecnica;   
+15) Complementi di matematica;   
+16) Macchine;   
+17) Idraulica;   
+18) Macchine elettriche;   
+19) Misure elettriche;   
+20) Elettronica applicata;   
+21) Impianti elettrici;   
+22) Complementi di macchine elettriche;   
+23) Calcolatori elettronici;   
+24) Controlli automatici.   
+I restanti corsi per il raggiungimento del numero previsto dal penultimo comma dell'art. 80 sono a scelta dello studente. Il consiglio di facolta', anno per anno, indichera' il numero e la composizione degli indirizzi a scelta, secondo quanto disposto dall'art. 80.   
+Art. 87. - Il corso di laurea in ingegneria chimica comprende i seguenti insegnamenti obbligatori:   
+Biennio propedeutico:   
+1° Anno:   
+1) Analisi matematica I;   
+2) Geometria I;   
+3) Fisica I;   
+4) Chimica;   
+5) Disegno (tecnico).   
+2° Anno:   
+6) Analisi matematica II;   
+7) Meccanica razionale;   
+8) Fisica II;   
+9) Tecnologie generali dei materiali;   
+10) Chimica organica.   
+Triennio di applicazione:   
+11) Scienza delle costruzioni;   
+12) Meccanica applicata alle macchine;   
+13) Fisica tecnica;   
+14) Chimica applicata;   
+15) Meccanica dei fluidi (per allievi ingegneri chimici);   
+16) Chimica fisica;   
+17) Macchine;   
+18) Elettrotecnica;   
+19) Principi di ingegneria chimica;   
+20) Chimica industriale;   
+21) Controlli chimici dei materiali e dei processi industriali;   
+22) Misure fisico-tecniche e controlli;   
+23) Impianti chimici;   
+24) Ingegneria e sviluppo dei processi chimici industriali.   
+I restanti corsi per il raggiungimento del numero previsto dal penultimo comma dell'art. 80 sono a scelta dello studente. Il consiglio di facolta', anno per anno, indichera' il numero e la composizione degli indirizzi a scelta, secondo quanto disposto dall'art. 80.   
+Art. 88. - Il corso di laurea in ingegneria navale e meccanica comprende i seguenti insegnamenti obbligatori:   
+Biennio propedeutico:   
+1° Anno:   
+1) Analisi matematica I;   
+2) Geometria I;   
+3) Fisica I;   
+4) Chimica;   
+5) Disegno (tecnico).   
+2° Anno:   
+6) Analisi matematica II;   
+7) Meccanica razionale;   
+8) Fisica II;   
+9) Geometria II (semestrale);   
+10) Disegno II (per allievi ingegneri navalmeccanici).   
+Triennio di applicazione:   
+11) Materie giuridiche;   
+12) Scienza delle costruzioni;   
+13) Meccanica applicata alle macchine;   
+14) Fisica tecnica;   
+15) Chimica applicata;   
+16) Idraulica;   
+17) Tecnologia della nave;   
+18) Macchine;   
+19) Elettrotecnica;   
+20) Costruzioni di macchine;   
+21) Statica della nave;   
+22) Costruzioni navali mercantili;   
+23) Macchine marine;   
+24) Elettronica generale ed applicata;   
+25) Architettura navale;   
+26) Costruzioni navali militari.   
+I restanti corsi per il raggiungimento del numero previsto dal penultimo comma dell'art. 80 sono a scelta dello studente. Il consiglio di facolta', anno per anno, indichera' il numero e la composizione degli indirizzi a scelta, secondo quanto disposto dall'art. 80.   
+Art. 89. - Il corso di laurea in ingegneria elettronica comprende i seguenti insegnamenti obbligatori:   
+Biennio propedeutico:   
+1° Anno:   
+1) Analisi matematica I;   
+2) Geometria I;   
+3) Fisica I;   
+4) Chimica;   
+5) Disegno (tecnico).   
+2° Anno:   
+6) Analisi matematica II;   
+7) Meccanica razionale;   
+8) Fisica II;   
+9) Metodi di osservazione e misura.   
+Triennio di applicazione:   
+10) Scienza delle costruzioni;   
+11) Meccanica delle macchine e macchine;   
+12) Fisica tecnica;   
+13) Chimico-fisica applicata dei materiali solidi;   
+14) Elettrotecnica;   
+15) Complementi di matematica;   
+16) Teoria delle reti elettriche;   
+17) Campi elettromagnetici e circuiti;   
+18) Macchine elettriche;   
+19) Misure elettriche;   
+20) Elettronica applicata;   
+21) Comunicazioni elettriche;   
+22) Calcolatori elettronici;   
+23) Radiotecnica;   
+24) Controlli automatici.   
+I restanti corsi per il raggiungimento del numero previsto dal penultimo comma dell'art. 80 sono a scelta dello studente. Il consiglio di facolta', anno per anno, indichera' il numero e la composizione degli indirizzi a scelta, secondo quanto disposto dall'art. 80.   
+Art. 90. - Le materie d'indirizzo sono scelte nel seguente elenco.   
+I corsi che figurano come obbligatori per almeno un corso di laurea negli elenchi degli articoli da 82 a 89 sono contenuti anche nell'elenco seguente poiche' ciascuno di essi puo' essere adottato come corso di indirizzo in corsi di laurea diversi da quello in cui tale corso e' obbligatorio.   
+Aerotecnica;   
+Allestimento navale;   
+Analisi microeconomica e finanziaria degli investimenti chimici industriali;   
+Antenne e propagazione elettromagnetica;   
+Applicazioni di meccanica analitica;   
+Architettura e composizione architettonica;   
+Architettura navale I;   
+Architettura navale II;   
+Architettura navale (ex architettura navale I);   
+Architettura tecnica;   
+Attrezzature e strumenti di bordo;   
+Calcolo numerico e programmazione;   
+Calcolatori elettronici;   
+Campi elettromagnetici e circuiti;   
+Cantieri navali;   
+Caramurgia;   
+Chimica applicata;   
+Chimica della superficie;   
+Chimica fisica;   
+Chimica industriale;   
+Chimica-fisica applicata dei materiali solidi;   
+Chimica organica;   
+Cinetica e statica dei processi chimici industriali;   
+Compilatori e sistemi operativi;   
+Complementi di architettura urbanistica;   
+Complementi di architettura navale;   
+Complementi di costruzione di macchine;   
+Complementi di elettrotecnica;   
+Complementi di idraulica;   
+Complementi di impianti elettrici;   
+Complementi di macchine;   
+Complementi di macchine elettriche;   
+Complementi di matematica;   
+Complementi di meccanica applicata alle macchine;   
+Complementi di meccanica razionale;   
+Complementi di scienza delle costruzioni;   
+Complementi di teoria delle reti;   
+Complementi istituzionali di chimica per l'ingegneria (ex chimica organica);   
+Componenti elettronici;   
+Comunicazioni elettriche;   
+Controlli automatici;   
+Controlli automatici ottimali;   
+Controlli chimici dei materiali e dei processi industriali;   
+Controllo dei processi industriali;   
+Controllo statistico di qualita' (ex controllo di qualita' e ricerca operativa);   
+Corrosione anticorrosione industriale;   
+Costruzione di macchine;   
+Costruzione di ponti;   
+Costruzione di strade, ferrovie e aeroporti;   
+Costruzioni aeronautiche;   
+Costruzioni elettromeccaniche;   
+Costruzioni idrauliche;   
+Costruzioni in cemento armato e cemento armato precompresso;   
+Costruzioni in terra e fondazioni speciali;   
+Costruzioni marittime;   
+Costruzioni metalliche;   
+Costruzioni metalliche speciali (ex strutture metalliche speciali);  
+Costruzione navale (ex costruzioni navali mercantili);   
+Costruzioni navali mercantili;   
+Costruzioni navali militari;   
+Dinamica delle costruzioni;   
+Dinamica delle grandi reti;   
+Dinamica delle macchine elettriche;   
+Disegno;   
+Disegno di architettura;   
+Disegno di macchine;   
+Disegno (tecnico);   
+Disegno II (per allievi ingegneri civili);   
+Disegno II (per allievi ingegneri navalmeccanici);   
+Dispositivi a semiconduttore;   
+Economia dell'ingegneria;   
+Economia ed organizzazione industriale;   
+Economia, stima e sicurezza della nave;   
+Elettronica applicata;   
+Elettronica industriale;   
+Elettronica generale ed applicata;   
+Elettrotecnica;   
+Elementi ecologici di ingegneria chimica;   
+Equazioni differenziali ordinarie;   
+Estimo ed esercizio professionale;   
+Fisica dei solidi;   
+Fisica tecnica;   
+Fisica tecnica del reattore;   
+Fluodinamica dei sistemi polifasi a molti componenti;   
+Fluodinamica delle macchine;   
+Fotogrammetria e cartografia;   
+Gasdinamica;   
+Geologia e geologia applicata;   
+Giacimenti e tecnologia del petrolio e dei gas combustibili;   
+Geometria I;   
+Geometria II;   
+Geotecnica;   
+Identificazione e simulazione;   
+Idraulica;   
+Idraulica (per allievi ingegneri chimici);   
+Idraulica marittima e costiera;   
+Idrologia tecnica;   
+Igiene applicata;   
+Impianti chimici;   
+Impianti di comunicazioni elettriche;   
+Impianti elettrici;   
+Impianti elettrici di bordo;   
+Impianti meccanici;   
+Impianti nucleari;   
+Impianti petrolchimici;   
+Impianti speciali idraulici;   
+Impianti tecnici;   
+Impianti termici speciali;   
+Informatica;   
+Ingegneria dei sistemi nella produzione chimica industriale;   
+Ingegneria e sviluppo dei processi chimici industriali;   
+Ingegneria sanitaria;   
+Introduzione ai calcolatori digitali;   
+Istituzioni di chimica per l'ingegneria (ex chimica);   
+Laboratorio di elettronica;   
+Laboratorio di elettrotecnica;   
+Laboratorio di idraulica e modellistica;   
+Laboratorio di ingegneria chimica;   
+Laboratorio di macchine;   
+Laboratorio di meccanica applicata;   
+Laboratorio di tecnologie meccaniche;   
+Laboratorio di termodinamica applicata;   
+Lavorazioni meccaniche (ex tecnologia meccanica per allievi ingegneri elettrotecnici);   
+Macchine;   
+Macchine elettriche;   
+Macchine marine;   
+Materiali magnetici dielettrici e conduttori;   
+Materiali metallici per costruzioni civili;   
+Materie giuridiche;   
+Meccanica applicata alle macchine;   
+Meccanica applicata alle macchine e macchine;   
+Meccanica applicata alle macchine e macchine (per allievi ingegneri elettronici);   
+Meccanica dei fluidi (per allievi ingegneri chimici) - ex idraulica per allievi ingegneri chimici;   
+Meccanica dei terreni e tecnica delle fondazioni;   
+Meccanica delle macchine e macchine (ex meccanica applicata alle macchine e macchine per allievi ingegneri elettronici);   
+Meccanica delle vibrazioni;   
+Meccanica tecnica superiore;   
+Metodi di conduzione aziendale;   
+Metodi di fabbricazione;   
+Metodi di osservazione e misura;   
+Metodi matematici dell'ingegneria;   
+Mezzi di sollevamento e trasporto;   
+Microonde;   
+Mineralogia;   
+Misure e controlli idraulici;   
+Misure elettriche;   
+Misure elettroniche;   
+Misure e strumentazione industriali;   
+Misure fisico-tecniche e controlli (per allievi ingegneri chimici);  
+Misure fisico-tecniche e controlli (per allievi ingegneri meccanici);   
+Misure meccaniche e collaudi;   
+Misure termo-tecniche e controlli (ex misure fisico-tecniche e controlli per allievi ingegneri meccanici);   
+Organizzazione, sistemi informativi e automazione;   
+Organizzazione aziendale e di cantiere;   
+Petrolchimica;   
+Pianificazione ed organizzazione dei trasporti;   
+Pianificazione territoriale;   
+Plasmi;   
+Principi di bioingegneria;   
+Principi di ingegneria chimica;   
+Principi di ingegneria nucleare;   
+Principi di telefonia e telegrafia;   
+Probabilita', statistica e loro applicazioni industriali;   
+Probabilita', variabili aleatorie e processi stocastici;   
+Processi chimici industriali (ex chimica industriale);   
+Progettazione di circuiti elettronici;   
+Progetto delle navi;   
+Progetti di impianti chimici;   
+Progetti di macchine;   
+Progetto di costruzioni;   
+Programmazione matematica e ottimizzazione;   
+Propulsione aerea e spaziale;   
+Propulsione navale nucleare;   
+Radiotecnica;   
+Regolazione delle macchine e degli impianti meccanici;   
+Reti e sistemi di telecomunicazioni;   
+Ricerca operativa;   
+Scienza dei materiali per l'ingegneria (ex chimica applicata);   
+Scienza delle costruzioni;   
+Servizi di stabilimento;   
+Siderurgia;   
+Sintesi di reti elettriche;   
+Sistemi organizzativi aziendali (ex organizzazione, sistemi informativi e automazione);   
+Sistemi per l'elaborazione dell'informazione;   
+Sperimentazione dei materiali e delle strutture;   
+Statica della nave (ex architettura navale II);   
+Strutture metalliche speciali;   
+Strutture speciali;   
+Tecnica dei reattori nucleari;   
+Tecnica della circolazione;   
+Tecnica della combustione;   
+Tecnica della regolazione;   
+Tecnica delle basse temperature;   
+Tecnica delle costruzioni;   
+Tecnica ed economia dei trasporti;   
+Tecnica ed impianti di elettroacustica;   
+Tecnica industriale edile;   
+Tecnica siderurgica;   
+Tecnica telefonica e telegrafica;   
+Tecnica urbanistica;   
+Tecniche di calcolo per l'ingegneria meccanica;   
+Tecnologia della nave;   
+Tecnologia meccanica;   
+Tecnologia meccanica (per allievi ingegneri elettrotecnici);   
+Tecnologie chimico-inorganiche e nucleari;   
+Tecnologie chimico-organiche e dei combustibili;   
+Tecnologie dei materiali e chimica applicata;   
+Tecnologie dei metalli;   
+Tecnologie elettroniche;   
+Tecnologie generali dei materiali;   
+Tecnologie generali meccaniche;   
+Tecnologie nucleari;   
+Tecnologie speciali;   
+Teoria dei processi siderurgici (ex siderurgia);   
+Teoria dei sistemi lineari;   
+Teoria della regolazione;   
+Teoria delle reti elettriche;   
+Teoria e pratica della lubrificazione;   
+Teoria e tecnica dei processi elettrochimici;   
+Teoria e tecnica dei reattori;   
+Teorie chimico-fisiche applicate all'ingegneria (ex chimica fisica);   
+Termodinamica e termocinetica applicata;   
+Topografia;   
+Trasporti per via d'acqua e aerei;   
+Trazione elettrica;   
+Tribologia;   
+Valorizzazione e difesa dell'ambiente.   
+Art. 91. - Per gli allievi di ingegneria navale e meccanica l'esame di laurea comprende la discussione di una tesi di laurea consistente nella redazione di un progetto di una nave.   
+  
 
-Art. 2
-------
-
-  
-  
-Per tale facolta' sono assegnati i seguenti posti di ruolo:   
-a) cinque posti di professore, mediante trasferimento dell'organico di cui e' dotata la facolta' di giurisprudenza della stessa Universita' di Genova e propriamente i posti assegnati alle cattedre di storia dei trattati e politica internazionale; di dottrina dello Stato; di sociologia; di istituzioni di diritto pubblico e un posto libero gia' attribuito all'insegnamento di diritto tributario. Con i posti sono trasferiti anche i relativi professori;   
-b) sei posti di assistente, mediante trasferimento dell'organico di cui e' dotata la facolta' di giurisprudenza della stessa Universita' di Genova e propriamente i posti assegnati alle cattedre di storia dei trattati e politica internazionale; di storia moderna; di storia delle dottrine politiche; di sociologia; di dottrina dello Stato; di istituzioni di diritto e procedura penale.   
-
-Art. 3
-------
-
-  
-  
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come dal testo annesso al presente decreto, vistato dal Ministro per la pubblica istruzione, contenente le norme relative all'ordinamento del corso di studi per il conseguimento della laurea in scienze politiche.   
-  
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiali delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1969
+### Dato a Roma, addi' 25 luglio 1973
 
-SARAGAT FERRARI AGGRADI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 26 marzo 1970
+Registrato alla Corte dei conti, addi' 23 novembre 1973
 
-Atti del Governo, registro n. 234, foglio n. 66. - CARUSO
-
-Allegato
-
-Testo delle modifiche di statuto dell'Universita' degli studi di Genova, relativo alla istituzione della facolta' di scienze politiche.   
-Art. 8. - E' abrogato e sostituito dal seguente:   
-"La facolta' di giurisprudenza conferisce la laurea in giurisprudenza".   
-Gli articoli 11, 12, 13, 14 relativi al corso di laurea in scienze politiche sono soppressi con il conseguente spostamento della numerazione degli articoli successivi.   
-Dopo l'art. 19 (ex 21) e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli, relativi all'istituzione della facolta' di scienze politiche.   
-  
-FACOLTA' DI SCIENZE POLITICHE   
-  
-Art. 20. - La facolta' di scienze politiche conferisce la laurea in scienze politiche con l'indicazione dell'indirizzo prescelto.   
-E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.   
-Art. 21. - La durata del corso di studi per la laurea in scienze politiche e' di quattro anni, con un biennio propedeutico comune ed un biennio di specializzazione, corrispondente agli indirizzi previsti nel presente statuto.   
-Superato l'esame di laurea lo studente consegue il titolo di dottore in scienze politiche con l'indicazione dell'indirizzo prescelto.   
-Art. 22. - Il biennio propedeutico comprende nove insegnamenti obbligatori.   
-Art. 23. - Sono obbligatori sul piano nazionale, ai sensi di legge, i seguenti sei insegnamenti:   
-1) Istituzioni di diritto pubblico;   
-2) Diritto costituzionale italiano e comparato;   
-3) Economia politica;   
-4) Statistica;   
-5) Sociologia:   
-6) Storia moderna I.   
-Gli altri tre insegnamenti obbligatori sono scelti, all'inizio di ogni anno accademico, dal consiglio di facolta', in relazione alle esigenze didattiche, tra i seguenti otto insegnamenti:   
-1) Scienza della politica;   
-2) Istituzioni di diritto privato;   
-3) Organizzazione internazionale;   
-4) Storia delle istituzioni politiche;   
-5) Storia contemporanea;   
-6) Storia delle dottrine politiche;   
-7) Politica economica e finanziaria;   
-8) Filosofia della politica.   
-Gli insegnamenti del presente elenco, non scelti come obbligatori per il biennio propedeutico, saranno inseriti tra gli insegnamenti dei bienni di specializzazione.   
-Art. 24. - Lo studente potra' aggiungere ai nove insegnamenti del biennio propedeutico non piu' di tre insegnamenti obbligatori del biennio di specializzazione, indicati nel presente Statuto, a seconda dell'indirizzo prescelto. Tali insegnamenti anticipati al biennio propedeutico vanno in detrazione del numero di insegnamenti del biennio di specializzazione. Non possono essere anticipati gli insegnamenti di scelta dello studente.   
-Art. 25. - Una commissione designata dal consiglio di facolta' e' a disposizione degli studenti del secondo anno propedeutico per assisterli nella scelta dell'indirizzo piu' adatto alla loro preparazione ed ai loro orientamenti.   
-Art. 26. - Il biennio di specializzazione e' organizzato dalla facolta' secondo i seguenti indirizzi: politico-amministrativo, storico-politico, politico-internazionale.   
-Art. 27. - Ciascun biennio di specializzazione comprende undici insegnamenti annuali, dei quali cinque obbligatori per tutti gli studenti dell'indirizzo e sei a scelta dello studente nell'ambito degli insegnamenti opzionali, stabiliti per ciascun anno accademico dal consiglio di facolta' per i rispettivi indirizzi.   
-Negli insegnamenti a scelta dello studente possono essere compresi al massimo due insegnamenti impartiti in altri indirizzi della facolta', oppure in altre facolta' dell'Universita' di Genova, purche' questi ultimi siano congeniali all'indirizzo prescelto, secondo il giudizio espresso dal consiglio di facolta'.   
-Art. 28. - Durante i quattro anni, lo studente deve frequentare e sostenere gli esami in almeno due lingue, che puo' adottare una nel biennio propedeutico e l'altra in quello di specializzazione.   
-Una delle due lingue deve essere il francese o l'inglese o il tedesco.   
-Per la seconda lingua e' consentita la scelta tra quelle effettivamente insegnate nelle altre facolta' dell'ateneo. Tale lingua non verra' computata nei due insegnamenti che, a norma dell'art. 27, comma secondo, del presente statuto, possono essere scelti fra gli insegnamenti di altre facolta' dell'Universita' di Genova.   
-Art. 29. - L'indirizzo politico-amministrativo comprende i seguenti insegnamenti obbligatori:   
-1) Istituzioni di diritto privato;   
-2) Diritto amministrativo (biennale);   
-3) Dottrina dello Stato;   
-4) Politica economica e finanziaria.   
-All'inizio di ogni anno accademico, il consiglio di facolta' rende noti dieci insegnamenti opzionali, tra i quali lo studente sceglie i sei insegnamenti che completano il corso dell'indirizzo, scegliendoli tra i seguenti insegnamenti:   
-1) Scienza dell'amministrazione;   
-2) Diritto del lavoro e legislazione sociale;   
-3) Diritto e procedura penale;   
-4) Diritto delle imprese e delle societa' commerciali;   
-5) Diritto tributario;   
-6) Diritto internazionale pubblico;   
-7) Elementi di diritto ecclesiastico;   
-8) Diritto regionale;   
-9) Diritto pubblico dell'economia;   
-10) Diritto e politica delle comunita' Europee;   
-11) Diritto parlamentare;   
-12) Scienza delle finanze;   
-13) Contabilita' dello Stato e degli Enti pubblici;   
-14) Politica economica e finanziaria;   
-15) Filosofia del diritto;   
-16) Storia dei movimenti e dei partiti politici;   
-17) Sociologia dell'organizzazione;   
-18) Sociologia politica.   
-Art. 30. - L'indirizzo storico-politico comprende i seguenti insegnamenti obbligatori:   
-1) Storia moderna II;   
-2) Storia delle relazioni internazionali;   
-3) Storia economica;   
-4) Storia delle istituzioni politiche;   
-5) Diritto internazionale pubblico.   
-All'inizio di ogni anno accademico, il consiglio di facolta' rende noti dieci insegnamenti che saranno impartiti, tra i quali lo studente puo' scegliere i sei insegnamenti che completano il corso dell'indirizzo, scegliendoli tra i seguenti insegnamenti:   
-1) Storia delle dottrine economiche;   
-2) Storia dei movimenti e dei partiti politici;   
-3) Storia dei movimenti sindacali;   
-4) Storia antica;   
-5) Storia medioevale;   
-6) Storia moderna e contemporanea della Chiesa e delle altre confessioni cristiane;   
-7) Storia dei rapporti fra Stato e Chiesa;   
-8) Storia della pubblica amministrazione;   
-9) Storia dell'Africa;   
-10) Storia del vicino e medio oriente;   
-11) Storia dell'Asia estremo-orientale;   
-12) Storia delle Americhe;   
-13) Storia dell'Europa orientale;   
-14) Storia della filosofia;   
-15) Geografia politica ed economica;   
-16) Diritto pubblico romano;   
-17) Diritto e politica delle Comunita' europee.   
-Art. 31. - L'indirizzo politico-internazionale comprende i seguenti insegnamenti obbligatori:   
-1) Diritto internazionale pubblico;   
-2) Storia delle relazioni internazionali;   
-3) Organizzazione internazionale;   
-4) Politica economica e finanziaria;   
-5) Diritto pubblico comparato.   
-All'inizio di ogni anno accademico, il consiglio di facolta' rende noti dieci insegnamenti, tra i quali lo studente puo' scegliere i sette insegnamenti che completano il corso dell'indirizzo, scegliendoli tra i seguenti insegnamenti:   
-1) Diritto internazionale privato;   
-2) Diritto amministrativo;   
-3) Diritto del lavoro e legislazione sociale;   
-4) Diritto diplomatico e consolare;   
-5) Diritto e politica delle Comunita' europee;   
-6) Diritto pubblico dell'economia;   
-7) Economia internazionale;   
-8) Istituzioni di diritto privato;   
-9) Geografia politica ed economica;   
-10) Storia moderna II;   
-11) Storia dei rapporti tra Stato e Chiesa;   
-12) Storia dell'Africa;   
-13) Storia del vicino e medio oriente;   
-14) Storia delle Americhe;   
-15) Storia dell'Asia estremo-orientale;   
-16) Storia dell'Europa orientale.   
-Art. 32. - Alcuni insegnamenti possono essere mutuati da quelli impartiti in altre facolta' dell'Universita' di Genova.   
-Art. 33. - Per essere ammesso all'esame di laurea, lo studente deve aver seguito i corsi e superato i relativi esami per almeno venti materie oltre alle due lingue straniere.   
-I corsi biennali di una stessa materia equivalgono ai fini del numero dei corsi sopra stabilito a due materie annuali.   
-Qualora il piano di studi istituisca corsi semestrali, due corsi semestrali equivalgono ad uno annuale. Possibilmente i corsi semestrali verranno istituiti a coppie.   
-Art. 34. - La propedeuticita' degli esami di profitto e' stabilita come segue:   
-  
-Istituzioni di diritto pubblico e' propedeutico al diritto amministrativo, al diritto costituzionale italiano e comparato, al diritto internazionale, alla dottrina dello Stato ed alle istituzioni di diritto e procedura penale.   
-Istituzioni di diritto privato e' propedeutico al diritto amministrativo, al diritto internazionale privato, al diritto del lavoro ed alle istituzioni di diritto e procedura penale.   
-Diritto internazionale e' propedeutico all'organizzazione internazionale.   
-Storia moderna e storia contemporanea sono propedeutiche alla storia delle relazioni internazionali e da tutti gli insegnamenti storici specialistici moderni e contemporanei.   
-Gli esami indicati come successivi possono essere sostenuti nella stessa sessione in cui sono superati gli esami propedeutici.   
-Art. 35. - L'esame di laurea consiste nella discussione di una dissertazione scritta, svolta su argomento strettamente attinente alla specializzazione adottata dallo studente, e nell'esposizione orale di due argomenti riferentesi ad insegnamenti del biennio propedeutico.   
-Art. 36. - I laureati di altra facolta' che aspirino al conseguimento della laurea in scienze politiche possono ottenere un'abbreviazione di corso qualora gli insegnamenti precedentemente seguiti e gli esami superati siano valutabili ai fini dell'abbreviazione del corso stesso. La facolta', tenuto conto degli studi compiuti e degli esami superati, determina caso per caso, l'anno di corso al quale possono essere ammessi, il numero minimo degli insegnamenti da seguire e consiglia il piano di studi.   
-E' richiesta in ogni caso la presentazione del prescritto diploma di studi medi, unitamente al certificato dei voti ottenuti in tutti gli esami di profitto superati nel precedente corso di laurea.   
-Per l'iscrizione ad un nuovo corso di laurea dovra' essere ripetuto il pagamento della tassa di immatricolazione.   
-Le stesse norme valgono per coloro che, in seguito a studi compiuti presso istituti superiori esteri, domandino l'iscrizione con abbreviazione di corso.   
-  
-Visto, d'ordine del Presidente della Repubblica   
-Il Ministro per la pubblica istruzione   
-FERRARI AGGRADI   
+Atti di Governo, registro n. 262, foglio n. 52. - CARUSO

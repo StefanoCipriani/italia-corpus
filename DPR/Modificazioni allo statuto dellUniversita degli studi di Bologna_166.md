@@ -1,65 +1,263 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1950 n. 1307
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1966 n. 243
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1950 n. 1307
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1966 n. 243
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 31 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-31;2227), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 49. - Agli insegnamenti complementari del corso di laurea in Lettere e' aggiunto quello di: "Epigrafia greca e romana".
+
+Art. 55. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere moderne (indirizzo europeo) e' aggiunto quello di:
+
+"Ebraico e lingue semitiche comparate".
+
+Art. 79. - Nell'elenco delle materie complementari del corso di laurea in Matematica l'insegnamento di Astronomia e' contrassegnato con un asterisco per indicare che e' materia ad indirizzo fisico.
+
+Art. 81. - Nel corso di laurea in Chimica (indirizzo organico-biologico) l'insegnamento complementare di Fisiologia generale (corso speciale per chimici) e' abrogato e sostituito con quello di Fisiologia generale e igiene del lavoro industriale (corso speciale per chimici).
+
+Art. 82. - Agli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti quelli di: "Sedimentologia e di Mineralogia sistematica".
+
+Art. 83, relativo al corso di laurea in Scienze biologiche, prima dell'ultimo comma viene inserito il seguente concernente la propedeuticita' di esame:
+
+"Per essere ammesso all'esame di Chimica generale ed inorganica ed all'esame di Fisica lo studente deve aver superato l'esame di Istituzioni di matematiche; per essere ammesso all'esame di Chimica organica deve aver superato l'esame di Chimica generale ed inorganica; per essere ammesso all'esame di Anatomia comparata devono essere stati superati gli esami di Istologia ed embriologia ed Anatomia umana; per essere ammesso all'esame di Fisiologia generale devono essere stati superati gli esami di Anatomia comparata, Botanica (primo esame) e Zoologia; per essere ammesso all'esame di Chimica biologica deve essere stato superato l'esame di Chimica organica; per essere ammesso all'esame di Igiene devono essere stati superati gli esami di Zoologia e di Botanica (secondo esame).
+
+Lo studente non puo' iniziare il primo anno di internato di laurea se non ha superato gli esami di Zoologia, Anatomia comparata, Botanica (primo esame) e Chimica organica.
+
+Non potra' iniziare il secondo anno di internato di laurea se non avra' superato tutti gli esami obbligatori del primo biennio piu' almeno uno degli esami consigliati nel terzo anno":
+
+Art. 85, relativo alle modalita' degli esami di laurea, e' modificato nel senso che dopo il quinto comma vengono inseriti i seguenti, relativi ai corsi di laurea in Scienze naturali ed in Scienze biologiche:
+
+"Nel terzo e quarto anno del corso di laurea in Scienze naturali gli studenti sono tenuti a frequentare come allievi interni uno degli Istituti di discipline biologiche o abiologiche, per la preparazione della tesi.
+
+Nel terzo e quarto anno del corso di laurea in Scienze biologiche gli studenti sono tenuti a frequentare come allievi interni uno degli Istituti di discipline biologiche, per la preparazione della tesi".
+
+Dopo l'art. 86 e con il conseguente spostamento della successiva numerazione, sono aggiunti i seguenti nuovi articoli, relativi alla regolamentazione del seminario chimico annesso alla Facolta' di scienze matematiche, fisiche e naturali.
+
+Art. 87. - Il seminario chimico della Facolta' di scienze matematiche, fisiche e naturali ha lo scopo di diffondere la cultura chimica, di promuovere studi e ricerche nel campo della chimica pura e applicata e di impartire ad allievi particolarmente distinti nello studio e nella ricerca una preparazione supplementare atta alla completa valorizzazione delle loro capacita'.
+
+L'attivita' del suddetto seminario consiste in esercitazioni, ricerche, conferenze, discussioni, comunicazioni scientifiche, viaggi d'istruzione, corsi di preparazione e di aggiornamento, ecc. ed in quanto altro possa servire allo scopo sopra indicato.
+
+Art. 88. - Al seminario chimico appartengono i professori ufficiali di chimica della Facolta' di scienze matematiche, fisiche e naturali, i quali annualmente propongono al Rettore la nomina di un Consiglio di quattro membri ed un direttore, scelto quest'ultimo, tra i professori di ruolo della Facolta' appartenenti al seminario e che fa parte di diritto del Consiglio.
+
+Art. 89. - L'iscrizione al seminario e' consentita:
+
+a) agli studenti del triennio di applicazione ed ai laureati fuori corso per la laurea in Chimica;
+
+b) ai laureati e studenti di altre Facolta' (nonche' ai diplomati) che ne facciano richiesta.
+
+Art. 90. - A tutti gli iscritti e' fatto obbligo di versare all'atto della iscrizione i contributi che vengono stabiliti dal Consiglio di amministrazione su proposta del Senato accademico, udito il Consiglio del seminario.
+
+Art. 91. - Il seminario chimico ha una propria biblioteca ed una raccolta di materiale didattico. Il Consiglio del seminario delibera di anno in anno gli acquisti nuovi. Esso nomina nel suo seno un bibliotecario al quale e' affidata la sorveglianza sul materiale didattico e sui prestiti. Il bibliotecario resta in carica due anni ed e' rieleggibile. Egli e' coadiuvato dagli assistenti degli Istituti chimici.
+
+Art. 92. - Il seminario chimico pubblica, quando i fondi lo consentono, un bollettino sotto la direzione di un Comitato di redazione.
+
+Art. 93. - Agli iscritti al seminario puo' essere rilasciato un attestato degli studi compiuti e del profitto dimostrato.
+
+Art. 94. - Agli insegnamenti complementari del corso di laurea in Chimica industriale sono aggiunti quelli di:
+
+Tecnica tintoria con esercitazioni;
+
+Chimica delle sostanze naturali con applicazioni;
+
+Biochimica applicata;
+
+Chimica farmaceutica industriale.
+
+Art. 95 (gia' 94). - Agli insegnamenti complementari del corso di laurea in Farmacia sono aggiunti quelli di: "Microbiologia" e di "Chemioterapia".
+
+Art. 111. - Agli insegnamenti complementari del corso di laurea in Scienze agrarie e' aggiunto quello di: "Sociologia rurale".
+
+Art. 443, e' modificato nel senso che e' inserito fra i titoli di ammissione alla Scuola superiore di disegno anatomico (Scuola diretta a fini speciali) anche il diploma rilasciato dall'Istituto statale di Arte o da analogo Istituto legalmente riconosciuto.
+
+Facolta' di Chimica industriale Dopo l'art. 207 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in Tecnologie alimentari annessa alla Facolta' di chimica industriale.
+
+Scuola di specializzazione in Tecnologie alimentari
+
+Art. 208. - La Scuola di specializzazione in Tecnologie alimentari si propone di formare tecnici specializzati nelle industrie alimentari.
+
+Art. 209. - La Scuola conferisce il diploma di specializzazione in Tecnologie alimentari.
+
+Art. 210. - Il direttore della Scuola e' un professore di ruolo della Scuola stessa ed e' nominato dal Consiglio di facolta'.
+
+Art. 211. - Alla Scuola possono iscriversi i laureati in Chimica, in Chimica industriale ed in Ingegneria chimica.
+
+Art. 212. - Il numero massimo degli iscritti viene fissato anno per anno dal Consiglio di facolta'.
+
+Art. 213. - Gli insegnamenti della Scuola sono indicati dal presente statuto e vengono impartiti da professori di ruolo e da professori incaricati, con indirizzo scientifico e dimostrativo. Gli incarichi vengono conferiti dal Consiglio di facolta' a professori di ruolo, a liberi docenti ed a persone di riconosciuta competenza nelle singole specialita'.
+
+Art. 214. - Il corso della Scuola ha la durata di due anni.
+
+Sono materie di insegnamento obbligatorio per tutti gli indirizzi del corso di specializzazione:
+
+1) Chimica e tecnologia delle industrie alimentari (biennale);
+
+2) Chimica analitica applicata agli alimenti e metodologie per il controllo della qualita';
+
+3) Tecnologie chimiche speciali.
+
+Sono materie di insegnamento non obbligatorio per tutti gli indirizzi del corso di specializzazione:
+
+1) Igiene industriale (semestrale);
+
+2) Impianti chimici e disegno industriale;
+
+3) Tecnologia della conservazione dei vegetali, delle carni e dei prodotti ittici;
+
+4) Tecnologia del vino e derivati;
+
+5) Tecnologia delle sostanze grasse;
+
+6) Tecnologia del latte e derivati;
+
+7) Tecnologia molitoria, pastificio e derivati;
+
+8) Applicazione del freddo nell'industria alimentare.
+
+All'atto dell'iscrizione il candidato concorda con il Consiglio di facolta' l'indirizzo di specializzazione che egli intende seguire. Il Consiglio stabilisce nello stesso tempo il numero, la natura e la durata degli insegnamenti facoltativi (da semestrale a biennale) e delle esercitazioni che il candidato deve seguire in rapporto alla specializzazione prescelta (oltre agli obbligatori per tutti gli indirizzi).
+
+Art. 215. - Per lo svolgimento delle esercitazioni e della pratica di fabbrica la Scuola puo' valersi di Istituti specializzati, a livello universitario.
+
+Art. 216. - Le Commissioni per gli esami di profitto sono composte di tre membri nominati dal direttore. Le Commissioni per gli esami di diploma sono composto di sette membri, nominati dal preside della Facolta' e scelti fra gli insegnanti della Scuola.
+
+Per essere ammessi all'esame di diploma gli iscritti debbono avere superato gli esami in tutti gli insegnamenti obbligatori previsti dallo statuto e quelli stabiliti dal Consiglio di facolta' all'atto dell'iscrizione.
+
+Art. 217. - L'esame di diploma consiste in una prova pratica relativa alla specializzazione prescelta ed in una discussione orale con l'intera Commissione.
+
+Ai candidati e' consentita la presentazione di pubblicazioni a stampa.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 18 febbraio 1966
+
+SARAGAT
+
+GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 28 aprile 1966 Atti del Governo, registro n. 202, foglio n. 167. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con i [regi decreti 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-12;2227); [4 settembre 1930, n. 1312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-09-04;1312); [10 ottobre 1931, n. 1778](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-10;1778); [27 ottobre 1932, n. 2092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2092); [6 dicembre 1934, n. 1315](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;1315); [5 ottobre 1939, n. 1644](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1644); [11 luglio 1941, n. 848](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-07-11;848); [11 luglio 1942, n. 928](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-11;928); [24 ottobre 1942, n. 1595; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1595) [16 maggio 1947, n. 694 e con decreto del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-05-16;694) [22 febbraio 1948, n. 414](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-02-22;414);  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 31 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-31;2227), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo Statuto dell'Universita' di Bologna approvato e modificato con i decreti sopraindicati e' cosi' ulteriormente modificato.  
-Attuale art. 22. - Il secondo comma e' sostituito dal seguente:  
-L'indicazione scritta del tema, col visto del professore che l'ha approvato, deve depositarsi nella segreteria della Facolta', almeno sei mesi prima della presentazione della dissertazione. La dissertazione, in doppio esemplare, deve essere consegnata alla segreteria almeno un mese prima di quello fissato per la discussione.  
-Al titolo V ed all'art. 23 l'Istituto giuridico-politico assume la denominazione di "Istituto giuridico".  
-L'attuale art. 30, e' cosi' modificato:  
-"L'Istituto e' retto da un direttore eletto dal Consiglio della Facolta' di giurisprudenza tra, i professori ordinari della Facolta' medesima, anche fuori ruolo, e da due consiglieri, uno dei quali e' il preside della Facolta', e l'altro e' eletto dal Consiglio di Facolta', anche fra i professori fuori ruolo.  
-Il direttore ed il consigliere elettivo durano in carica, un triennio e possono essere confermati".  
-Attuale art. 31. - La parola, "discipline" e' sostituita con quella di "materie".  
-L'attuale art. 32, e' sostituito dal seguente:  
-Presso l'Istituto possono tenersi anche, secondo la opportunita'; conferenze ed esercitazioni speciali in altre discipline e segnatamente nelle seguenti:  
-Diritto del lavoro;  
-Diritto tributario;  
-Diritto internazionale privato;  
-Amministrazione aziendale privata e pubblica;  
-Ordinamento della proprieta' fondiaria;  
-Arte notarile.  
-Attuale art. 33. - Il primo comma ed il secondo sono rispettivamente sostituiti dai seguenti:  
-1° comma. "Possono iscriversi ai corsi dell'Istituto, in qualita' di praticanti i laureati in giurisprudenza".  
-2° comma. "Gli iscritti non possono eccedere il numero di 30, salvo diversa deliberazione del direttore dell'Istituto".  
-L'attuale art. 34, e' sostituito dal seguente:  
-"Le tasse annuali di iscrizione e i contributi accessori sono stabiliti da norme interne".  
-Attuale art. 35. - L'ultimo comma e' sostituito dal seguente:  
-"Il rilascio di tale certificato e' soggetto al pagamento di un diritto fisso stabilito da norme interne".  
-Attuale art. 43. - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di:  
-29 - "Storia e Geografia dell'Asia Orientale".  
-All'attuale art. 72, e' aggiunto il seguente comma:  
-"L'esame di laurea in scienze geologiche consiste nella discussione di una dissertazione scritta basata sopra un rilevamento geologico originale e di due tesine su argomento geologico, mineralogico, paleontologico e petrografico. La dissertazione di laurea dovra' essere presentata almeno quindici giorni prima del giorno fissato per l'esame di laurea. L'esame di laurea sara' preceduto da un colloquio di cultura generale sulle materie geomineralogiche".  
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 49. - Agli insegnamenti complementari del corso di laurea in Lettere e' aggiunto quello di: "Epigrafia greca e romana".  
+Art. 55. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere moderne (indirizzo europeo) e' aggiunto quello di:  
+"Ebraico e lingue semitiche comparate".  
+Art. 79. - Nell'elenco delle materie complementari del corso di laurea in Matematica l'insegnamento di Astronomia e' contrassegnato con un asterisco per indicare che e' materia ad indirizzo fisico.  
+Art. 81. - Nel corso di laurea in Chimica (indirizzo organico-biologico) l'insegnamento complementare di Fisiologia generale (corso speciale per chimici) e' abrogato e sostituito con quello di Fisiologia generale e igiene del lavoro industriale (corso speciale per chimici).  
+Art. 82. - Agli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti quelli di: "Sedimentologia e di Mineralogia sistematica".  
+Art. 83, relativo al corso di laurea in Scienze biologiche, prima dell'ultimo comma viene inserito il seguente concernente la propedeuticita' di esame:  
+"Per essere ammesso all'esame di Chimica generale ed inorganica ed all'esame di Fisica lo studente deve aver superato l'esame di Istituzioni di matematiche; per essere ammesso all'esame di Chimica organica deve aver superato l'esame di Chimica generale ed inorganica; per essere ammesso all'esame di Anatomia comparata devono essere stati superati gli esami di Istologia ed embriologia ed Anatomia umana; per essere ammesso all'esame di Fisiologia generale devono essere stati superati gli esami di Anatomia comparata, Botanica (primo esame) e Zoologia; per essere ammesso all'esame di Chimica biologica deve essere stato superato l'esame di Chimica organica; per essere ammesso all'esame di Igiene devono essere stati superati gli esami di Zoologia e di Botanica (secondo esame).  
+Lo studente non puo' iniziare il primo anno di internato di laurea se non ha superato gli esami di Zoologia, Anatomia comparata, Botanica (primo esame) e Chimica organica.  
+Non potra' iniziare il secondo anno di internato di laurea se non avra' superato tutti gli esami obbligatori del primo biennio piu' almeno uno degli esami consigliati nel terzo anno":  
+Art. 85, relativo alle modalita' degli esami di laurea, e' modificato nel senso che dopo il quinto comma vengono inseriti i seguenti, relativi ai corsi di laurea in Scienze naturali ed in Scienze biologiche:  
+"Nel terzo e quarto anno del corso di laurea in Scienze naturali gli studenti sono tenuti a frequentare come allievi interni uno degli Istituti di discipline biologiche o abiologiche, per la preparazione della tesi.  
+Nel terzo e quarto anno del corso di laurea in Scienze biologiche gli studenti sono tenuti a frequentare come allievi interni uno degli Istituti di discipline biologiche, per la preparazione della tesi".  
+Dopo l'art. 86 e con il conseguente spostamento della successiva numerazione, sono aggiunti i seguenti nuovi articoli, relativi alla regolamentazione del seminario chimico annesso alla Facolta' di scienze matematiche, fisiche e naturali.  
+Art. 87. - Il seminario chimico della Facolta' di scienze matematiche, fisiche e naturali ha lo scopo di diffondere la cultura chimica, di promuovere studi e ricerche nel campo della chimica pura e applicata e di impartire ad allievi particolarmente distinti nello studio e nella ricerca una preparazione supplementare atta alla completa valorizzazione delle loro capacita'.  
+L'attivita' del suddetto seminario consiste in esercitazioni, ricerche, conferenze, discussioni, comunicazioni scientifiche, viaggi d'istruzione, corsi di preparazione e di aggiornamento, ecc. ed in quanto altro possa servire allo scopo sopra indicato.  
+Art. 88. - Al seminario chimico appartengono i professori ufficiali di chimica della Facolta' di scienze matematiche, fisiche e naturali, i quali annualmente propongono al Rettore la nomina di un Consiglio di quattro membri ed un direttore, scelto quest'ultimo, tra i professori di ruolo della Facolta' appartenenti al seminario e che fa parte di diritto del Consiglio.  
+Art. 89. - L'iscrizione al seminario e' consentita:  
+a) agli studenti del triennio di applicazione ed ai laureati fuori corso per la laurea in Chimica;  
+b) ai laureati e studenti di altre Facolta' (nonche' ai diplomati) che ne facciano richiesta.  
+Art. 90. - A tutti gli iscritti e' fatto obbligo di versare all'atto della iscrizione i contributi che vengono stabiliti dal Consiglio di amministrazione su proposta del Senato accademico, udito il Consiglio del seminario.  
+Art. 91. - Il seminario chimico ha una propria biblioteca ed una raccolta di materiale didattico. Il Consiglio del seminario delibera di anno in anno gli acquisti nuovi. Esso nomina nel suo seno un bibliotecario al quale e' affidata la sorveglianza sul materiale didattico e sui prestiti. Il bibliotecario resta in carica due anni ed e' rieleggibile. Egli e' coadiuvato dagli assistenti degli Istituti chimici.  
+Art. 92. - Il seminario chimico pubblica, quando i fondi lo consentono, un bollettino sotto la direzione di un Comitato di redazione.  
+Art. 93. - Agli iscritti al seminario puo' essere rilasciato un attestato degli studi compiuti e del profitto dimostrato.  
+Art. 94. - Agli insegnamenti complementari del corso di laurea in Chimica industriale sono aggiunti quelli di:  
+Tecnica tintoria con esercitazioni;  
+Chimica delle sostanze naturali con applicazioni;  
+Biochimica applicata;  
+Chimica farmaceutica industriale.  
+Art. 95 (gia' 94). - Agli insegnamenti complementari del corso di laurea in Farmacia sono aggiunti quelli di: "Microbiologia" e di "Chemioterapia".  
+Art. 111. - Agli insegnamenti complementari del corso di laurea in Scienze agrarie e' aggiunto quello di: "Sociologia rurale".  
+Art. 443, e' modificato nel senso che e' inserito fra i titoli di ammissione alla Scuola superiore di disegno anatomico (Scuola diretta a fini speciali) anche il diploma rilasciato dall'Istituto statale di Arte o da analogo Istituto legalmente riconosciuto.  
+Facolta' di Chimica industriale Dopo l'art. 207 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in Tecnologie alimentari annessa alla Facolta' di chimica industriale.  
+  
+Scuola di specializzazione in Tecnologie alimentari  
+  
+Art. 208. - La Scuola di specializzazione in Tecnologie alimentari si propone di formare tecnici specializzati nelle industrie alimentari.  
+Art. 209. - La Scuola conferisce il diploma di specializzazione in Tecnologie alimentari.  
+Art. 210. - Il direttore della Scuola e' un professore di ruolo della Scuola stessa ed e' nominato dal Consiglio di facolta'.  
+Art. 211. - Alla Scuola possono iscriversi i laureati in Chimica, in Chimica industriale ed in Ingegneria chimica.  
+Art. 212. - Il numero massimo degli iscritti viene fissato anno per anno dal Consiglio di facolta'.  
+Art. 213. - Gli insegnamenti della Scuola sono indicati dal presente statuto e vengono impartiti da professori di ruolo e da professori incaricati, con indirizzo scientifico e dimostrativo. Gli incarichi vengono conferiti dal Consiglio di facolta' a professori di ruolo, a liberi docenti ed a persone di riconosciuta competenza nelle singole specialita'.  
+Art. 214. - Il corso della Scuola ha la durata di due anni.  
+Sono materie di insegnamento obbligatorio per tutti gli indirizzi del corso di specializzazione:  
+1) Chimica e tecnologia delle industrie alimentari (biennale);  
+2) Chimica analitica applicata agli alimenti e metodologie per il controllo della qualita';  
+3) Tecnologie chimiche speciali.  
+Sono materie di insegnamento non obbligatorio per tutti gli indirizzi del corso di specializzazione:  
+1) Igiene industriale (semestrale);  
+2) Impianti chimici e disegno industriale;  
+3) Tecnologia della conservazione dei vegetali, delle carni e dei prodotti ittici;  
+4) Tecnologia del vino e derivati;  
+5) Tecnologia delle sostanze grasse;  
+6) Tecnologia del latte e derivati;  
+7) Tecnologia molitoria, pastificio e derivati;  
+8) Applicazione del freddo nell'industria alimentare.  
+All'atto dell'iscrizione il candidato concorda con il Consiglio di facolta' l'indirizzo di specializzazione che egli intende seguire. Il Consiglio stabilisce nello stesso tempo il numero, la natura e la durata degli insegnamenti facoltativi (da semestrale a biennale) e delle esercitazioni che il candidato deve seguire in rapporto alla specializzazione prescelta (oltre agli obbligatori per tutti gli indirizzi).  
+Art. 215. - Per lo svolgimento delle esercitazioni e della pratica di fabbrica la Scuola puo' valersi di Istituti specializzati, a livello universitario.  
+Art. 216. - Le Commissioni per gli esami di profitto sono composte di tre membri nominati dal direttore. Le Commissioni per gli esami di diploma sono composto di sette membri, nominati dal preside della Facolta' e scelti fra gli insegnanti della Scuola.  
+Per essere ammessi all'esame di diploma gli iscritti debbono avere superato gli esami in tutti gli insegnamenti obbligatori previsti dallo statuto e quelli stabiliti dal Consiglio di facolta' all'atto dell'iscrizione.  
+Art. 217. - L'esame di diploma consiste in una prova pratica relativa alla specializzazione prescelta ed in una discussione orale con l'intera Commissione.  
+Ai candidati e' consentita la presentazione di pubblicazioni a stampa.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1950
+### Dato a Roma, addi' 18 febbraio 1966
 
-EINAUDI GONELLA
+SARAGAT GUI
 
-Visto, il Guardasigilli: PICCIONI
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 5 novembre 1951
+Registrato alla Corte dei conti, addi' 28 aprile 1966
 
-Atti del Governo, registro n. 45, foglio n. 62. - FRASCA
+Atti del Governo, registro n. 202, foglio n. 167. - VILLA

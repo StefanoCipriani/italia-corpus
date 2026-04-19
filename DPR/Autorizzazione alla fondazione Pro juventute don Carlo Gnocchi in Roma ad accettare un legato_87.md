@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 aprile 1977 n. 208
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1980 n. 788
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 aprile 1977 n. 208
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1980 n. 788
 =============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-208. Decreto del Presidente della Repubblica 5 aprile 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Colombo Alessandra con testamento pubblico 20 gennaio 1971, a rogito del notaio dott. Gian Franco Condo' in data 8 marzo 1971, n. 1649/328 di repertorio e registrato il 9 marzo 1971 a Merate (Como) al n. 202, vol. 44, consistente nella somma di L. 500.000.  
+788. Decreto del Presidente della Repubblica 22 luglio 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in libretti bancari e beni mobili per un valore complessivo di L. 26.954.431, disposto dalla sig.ra Girardi Maria ved. Leiss De Leimburg a favore dell'opera mutilatini di don Gnocchi, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come ha fatto presente la fondazione medesima, con testamento olografo 15 agosto 1977, pubblicato in data 26 settembre 1978, n. 17260 di repertorio, a rogito dott. Anna Maria Callari Bennati, notaio in Torino, registrato a Torino in data 2 ottobre 1978 al n. 39960.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 10 maggio 1977  
-Registro n. 4 Presidenza, foglio n. 271
+Visto, il Guardasigilli: SARTI  
+Registrato alla Corte dei conti, addi' 21 novembre 1980  
+Registro n. 9 Presidenza, foglio n. 9

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 agosto 1983 n. 1018
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1980 n. 219
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 agosto 1983 n. 1018
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1980 n. 219
+===============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Ancona.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Ancona.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Ancona, approvato con [decreto del Presidente della Repubblica 4 ottobre 1971, n. 1330](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-10-04;1330), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Ancona, approvato con [decreto del Presidente della Repubblica 4 ottobre 1971, n. 1330](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-10-04;1330) e modificato con [decreto del Presidente della Repubblica 7 agosto 1973, n. 909](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-08-07;909), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,41 +18,35 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
+Sentito il parere del Consiglio universitario nazionale;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
+Sulla
+-----
 
-Veduto il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Ancona, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:
+proposta del Ministro della pubblica istruzione; Decreta:
 
 Articolo unico
 --------------
 
   
-Nell'art. 23, relativo al corso di laurea in ingegneria, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-termodinamica applicata;  
-trasmissione del calore.  
+Lo statuto dell'Universita' di Ancona, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+La scuola di specializzazione in ematologia generale, di cui al [decreto del Presidente della Repubblica 31 ottobre 1978, n. 992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-10-31;992), muta la denominazione in quella di scuola di specializzazione in ematologia generale (clinica e laboratorio).  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 agosto 1983
+### Dato a Roma, addi' 7 febbraio 1980
 
-PERTINI FALCUCCI
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 29 febbraio 1984
+Registrato alla Corte dei conti, addi' 26 maggio 1980
 
-Registro n. 13 Istruzione, foglio n. 72
+Registro n. 49 Istruzione, foglio n. 238

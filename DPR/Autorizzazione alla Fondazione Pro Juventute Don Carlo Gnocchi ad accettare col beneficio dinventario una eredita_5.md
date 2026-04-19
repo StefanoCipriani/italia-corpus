@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 agosto 1961 n. 934
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1962 n. 228
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 agosto 1961 n. 934
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1962 n. 228
+============================================================
 
 Autorizzazione alla "Fondazione Pro Juventute Don Carlo Gnocchi" ad accettare, col beneficio d'inventario, una eredita'.
 ------------------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-934. Decreto del Presidente della Repubblica 3 agosto 1961, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi", viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta, dalla defunta signorina Iride Somaschini, con testamento olografo dell'11 ottobre 1959, depositato per atto a rogito dott. Settimio Lulli, notaio in Seregno in data 9 febbraio 1960, rep. n. 290, racc. n. 154, a favore dei "poliomelitici di Don Carlo Gnocchi", che, come e' noto si identificano con la Fondazione suindicata.  
+228. Decreto del Presidente della. Repubblica 31 marzo 1962, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi", viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dal defunto sig. Bruno Papetti, con testamento olografo 18 marzo 1957, pubblicato e depositato per atto a rogito dott. Giorgio Basadonna di Milano, in data 5 ottobre 1960, n. 5427 di raccolta, n. 13697 di repertorio.  
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 12 settembre 1961  
-Atti del Governo, registro n. 140, foglio n. 23. - VILLA
+Visto, il Guardasigilli: BOSCO  
+Registrato alla Corte dei conti, addi' 9 maggio 1962  
+Atti del Governo, registro n. 146, foglio n. 68. - VILLA

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1980 n. 224
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 settembre 1962 n. 1568
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1980 n. 224
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 settembre 1962 n. 1568
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -10,111 +10,262 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169) e successivi;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla
------
+Sulla proposta del Ministero per la pubblica istruzione;
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Decreta:
 
-Articolo unico
---------------
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
+Art. 7. - Agli insegnamenti complementari per il corso di laurea in Giurisprudenza, sono aggiunti quelli di:
+
+Diritto fallimentare;
+
+Papirologia ed epigrafia giuridica;
+
+Criminologia.
+
+Art. 14 - Agli Istituti scientifici, annessi alla Facolta' di giurisprudenza e' aggiunto l' "Istituto di diritto processuale civile".
+
+Art. 81, relativo al corso di laurea in Fisica, e' aggiunto il seguente comma dopo l'enumerazione degli insegnamenti obbligatori per l'indirizzo didattico:
+
+"Il corso di "Storia della fisica" potra' in via transitoria, essere sostituito su deliberazione della Facolta', con un corso scelto fra i complementari.
+
+Art. 84. - Agli insegnamenti complementari del corso di laurea in chimica, indirizzo inorganico, chimico, fisico, sono aggiunti quelli di:
+
+Storia della chimica Strutturistica chimica;
+
+Chimica teorica;
+
+Radiochimica.
+
+Art. 88 - Agli insegnamenti complementari del corso di laurea in Scienze biologiche e' aggiunto quello di "Biologia delle razze umane".
+
+Art. 91. - Agli insegnamenti complementari per il corso di laurea in Scienze geologiche sono aggiunti quelli di:
+
+Analisi mineralogica;
+
+Fotogeologia;
+
+Geologia regionale;
+
+Geologia degli idrocarburi;
+
+Geotecnica;
+
+Giacimenti minerari;
+
+Idrogeologia;
+
+Micropaleontologia;
+
+Mineralogia applicata.
+
+Gli insegnamenti complementari di Geologia economica e di Paleontologia umana dello stesso corso di laurea sono soppressi.
+
+Art. 96. Agli Istituti scientifici annessi alla Facolta' di scienze matematiche, fisiche e naturali sono aggiunti i seguenti:
+
+Istituto ci chimica analitica;
+
+Istituto di genetica.
+
+L' Istituto di fisiologia generale cambia denominazione in "Istituto di fisiologia generale e chimica biologica".
+
+Art. 101, relativo alle propedeuticita' del biennio nel corso di laurea in Ingegneria, sono abrogati i primi due commi e sostituiti dai seguenti:
+
+Agli effetti della successione dei relativi esami nel biennio propedeutico occorre osservare le seguenti precedenze:
+
+1) gli esami di Analisi matematica I e di Geometria devono precedere gli esami di Analisi matematica 11 e di Meccanica razionale;
+
+2) l'esame di Analisi matematica II deve precedere l'esame di Meccanica razionale;
+
+3) l'esame di Fisica I deve precedere l'esame di Fisica II;
+
+4) l'esame di Disegno I deve precedere l'esame di Disegno II;
+
+5) gli studenti del primo anno di corso potranno ottenere l'iscrizione al secondo anno di corso qualora abbiano superato almeno due fra i quattro seguenti esami: Analisi matematica I, Geometria, Fisica I, Chimica.
+
+Al termine del secondo anno di corso lo studente per essere ammesso al terzo anno di corso dovra' aver superato gli esami di tutte le discipline del biennio propedeutico, stabilite nell'art. 100 dello statuto.
+
+Dopo l'art. 102 e con il conseguente spostamento della successiva numerazione e' inserito il seguente nuova articolo, relativo alle propedeuticita' del triennio di applicazione nel corso di laurea in Ingegneria.
+
+Art. 103. - Agli effetti della successione dei relativi esami nel triennio di applicazione occorre osservare le seguenti precedenze:
+
+1) l'esame di Scienza della costruzioni deve precedere quelli di Tecnica delle costruzioni, Scienza delle costruzioni II, Costruzione di ponti. Costruzioni stradali e ferroviarie, Costruzioni idrauliche, Costruzioni di macchine, Architettura tecnica;
+
+2) l'esame di meccanica applicata, alle macchine, quello di macchine e costruzione di macchine;
+
+3) l'esame di Architettura tecnica deve precedere quelli di Architettura, tecnica II, Architettura e composizione architettonica;
+
+4) l'esame di Idraulica deve precedere quelli di Costruzioni idrauliche, Impianti speciali idraulici, Costruzioni marittime, Complementi di costruzioni idrauliche, Idrologia, Idraulica agraria, Tecnica della bonifica;
+
+5) l'esame di Costruzioni idrauliche deve precedere quello di Complemento di costruzioni idrauliche;
+
+6) l'esame di Elettrotecnica deve precedere quelli di Tecnica ed economia dei trasporti; Trazione elettrica; Complementi di tecnica ed economia dei trasporti;
+
+7) l'esame di Fisica tecnica deve precedere quello di Meccanica applicata alle macchine, Macchine, Impianti tecnici edili, Tecnica ed economia dei trasporti, Complementi di tecnica ed economia dei trasporti.
+
+Art. 104, relativo alle norme per gli esami di laurea del corso di studi in Ingegneria e' abrogato e sostituito dal seguente:
+
+Per essere ammesso all'esame di laurea lo studente deve aver superato gli esami delle materie fondamentali e di quelle dell'indirizzo scelto.
+
+Gli esami di profitto consistono di norma in una prova orale sulle materie e di una discussione sui risultati delle esercitazioni e sui progetti.
+
+Gli esami di Architettura tecnica e di Architettura e composizione architettonica comportano sempre anche una prova pratica.
+
+L'esame di laurea consta di due prove, una orale vertente sugli argomenti e sulle esercitazioni svolte nelle materie degli ultimi tre anni: la seconda sulla discussione di un progetto particolare presentato come tesi.
+
+Dopo l'art. 104, e con il conseguente spostamento della numerazione successiva, e' inserito il seguente nuovo articolo.
+
+Art. 105. - Gli Istituti della Facolta' di ingegneria sono i seguenti:
+
+1) Istituto di architettura e composizione architettonica;
+
+2) Istituto di chimica applicata;
+
+3) Istituto di elettrotecnica;
+
+4) Istituto di fisica tecnica;
+
+5) Istituto di idraulica e costruzioni idrauliche;
+
+6) Istituto di macchine;
+
+7) Istituto di scienza delle costruzioni;
+
+8) Istituto di costruzioni stradali e ferroviarie;.
+
+9) Istituto di trasporti.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e del decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 17 settembre 1962
+
+SEGNI
+
+GUI
+
+Visto, il Guardasigilli: BOSCO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 12 novembre 1962 Atti del Governo, registro n. 160, foglio n. 15. - VILLA
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
+  
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministero per la pubblica istruzione;  
+  
+Decreta:  
   
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 7. - Agli insegnamenti complementari per il corso di laurea in Giurisprudenza, sono aggiunti quelli di:  
+Diritto fallimentare;  
+Papirologia ed epigrafia giuridica;  
+Criminologia.  
   
-Gli articoli 253, 254, 255 e 256, relativi alla scuola di specializzazione in patologia generale, sono soppressi e sostituiti dai seguenti:  
+Art. 14 - Agli Istituti scientifici, annessi alla Facolta' di giurisprudenza e' aggiunto l' "Istituto di diritto processuale civile".  
   
-Scuola di specializzazione in patologia generale  
-Art. 253. - La scuola di specializzazione in patologia generale ha sede presso l'istituto di patologia generale. Il corso degli studi ha la durata di quattro anni, suddiviso in due bienni. La durata del corso di studi non e' suscettibile di abbreviazioni. La frequenza alla scuola e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza non potranno essere ammessi a sostenere le singole prove di esame.  
-Art. 254. - Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia, ai quali, dopo aver superato l'esame finale, sara' rilasciato il diploma di specialista in patologia generale.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale, rilasciato dalle autorita' competenti.  
-Alla scuola stessa vengono ammessi i laureati in medicina veterinaria, in scienze biologiche, in scienze naturali, in farmacia, in chimica e tecnologie farmaceutiche, ai quali, dopo aver superato l'esame finale, sara' rilasciato il diploma di specialista in patologia generale con indirizzo tecnico.  
-L'ammissione al corso di specializzazione avviene per titoli ed esami.  
-Il numero massimo degli allievi e' di trenta per anno di corso e complessivamente di centoventi iscritti per l'intero corso di studi.  
-Art. 255. - Le materie di insegnamento sono le seguenti:  
+Art. 81, relativo al corso di laurea in Fisica, e' aggiunto il seguente comma dopo l'enumerazione degli insegnamenti obbligatori per l'indirizzo didattico:  
+"Il corso di "Storia della fisica" potra' in via transitoria, essere sostituito su deliberazione della Facolta', con un corso scelto fra i complementari.  
   
-I BIENNIO  
-(Propedeutico)  
-1° Anno:  
-istituzioni di patologia generale;  
-patologia delle infezioni;  
-epidemiologia e patologia ambientale;  
-immunologia;  
-parassitologia e diagnostica parassitologica.  
-2° Anno:  
-radiobiologia e patologia da radiazioni;  
-oncologia generale;  
-immunopatologia e analisi immunologiche;  
-analisi chimico-cliniche;  
-fisiopatologia generale primo corso (metabolismo e sistema endocrino).  
+Art. 84. - Agli insegnamenti complementari del corso di laurea in chimica, indirizzo inorganico, chimico, fisico, sono aggiunti quelli di:  
+Storia della chimica Strutturistica chimica;  
+Chimica teorica;  
+Radiochimica.  
   
-II BIENNIO  
-(Conseguimento per il diploma  
-di specialista in patologia generale)  
-3° Anno:  
-diagnostica di laboratorio di citopatologia e citogenetica;  
-diagnostica di laboratorio di batteriologia e virologia;  
-fisiopatologia generale secondo corso (termoregolazione, sistema cardiocircolatorio, sangue ed organi emopoietici).  
-4° Anno:  
-diagnostica oncologica;  
-diagnostica istopatologica;  
-tecniche ematologiche;  
-tecniche istologiche ed ultrastrutturali.  
+Art. 88 - Agli insegnamenti complementari del corso di laurea in Scienze biologiche e' aggiunto quello di "Biologia delle razze umane".  
   
-II BIENNIO  
-(Conseguimento diploma  
-di specialista in patologia generale)  
-3° Anno:  
-11) diagnostica di laboratorio di citologia e citogenetica;  
-12) diagnostica di laboratorio di batteriologia e virologia;  
-13) fisiopatologia generale secondo corso (termoregolazione, sistema cardiocircolatorio, sangue ed organi emopoietici).  
-4° Anno:  
-14) diagnostica oncologica;  
-15) diagnostica istopatologica;  
-16) diagnostica ultrastrutturale;  
-17) fisiopatologia generale terzo corso (fegato, sistema digerente, renale, respiratorio).  
+Art. 91. - Agli insegnamenti complementari per il corso di laurea in Scienze geologiche sono aggiunti quelli di:  
+Analisi mineralogica;  
+Fotogeologia;  
+Geologia regionale;  
+Geologia degli idrocarburi;  
+Geotecnica;  
+Giacimenti minerari;  
+Idrogeologia;  
+Micropaleontologia;  
+Mineralogia applicata.  
+Gli insegnamenti complementari di Geologia economica e di Paleontologia umana dello stesso corso di laurea sono soppressi.  
   
-II BIENNIO  
-(Conseguimento diploma di specialista in  
-patologia generale con indirizzo tecnico)  
-3° Anno:  
-11) tecniche di batteriologia;  
-12) tecniche di virologia;  
-13) tecniche di citologia e citogenetica.  
-4° Anno:  
-14) statistica e biometria;  
-15) colture in vitro: aspetti biologici ed applicativi;  
-16) tecniche ematologiche;  
-17) tecniche istologiche ed ultrastrutturali.  
-Art. 256. - La direzione della scuola di specializzazione e' affidata ad un professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, ad un professore di ruolo o fuori ruolo di materia affine.  
-Il direttore puo' stabilire, per un proficuo conseguimento dei fini della scuola, che siano tenuti corsi complementari e conferenze su materie ed argomenti che abbiano attinenza o affinita' con gli insegnamenti impartiti nella scuola stessa.  
-Per conseguire il relativo diploma di specializzazione, al termine del corso quadriennale, oltre ad aver superato tutti gli esami delle singole materie, e' obbligatorio sostenere l'esame finale su una dissertazione scritta, preferibilmente di carattere sperimentale.  
+Art. 96. Agli Istituti scientifici annessi alla Facolta' di scienze matematiche, fisiche e naturali sono aggiunti i seguenti:  
+Istituto ci chimica analitica;  
+Istituto di genetica.  
+L' Istituto di fisiologia generale cambia denominazione in "Istituto di fisiologia generale e chimica biologica".  
+  
+Art. 101, relativo alle propedeuticita' del biennio nel corso di laurea in Ingegneria, sono abrogati i primi due commi e sostituiti dai seguenti:  
+Agli effetti della successione dei relativi esami nel biennio propedeutico occorre osservare le seguenti precedenze:  
+1) gli esami di Analisi matematica I e di Geometria devono precedere gli esami di Analisi matematica 11 e di Meccanica razionale;  
+2) l'esame di Analisi matematica II deve precedere l'esame di Meccanica razionale;  
+3) l'esame di Fisica I deve precedere l'esame di Fisica II;  
+4) l'esame di Disegno I deve precedere l'esame di Disegno II;  
+5) gli studenti del primo anno di corso potranno ottenere l'iscrizione al secondo anno di corso qualora abbiano superato almeno due fra i quattro seguenti esami: Analisi matematica I, Geometria, Fisica I, Chimica.  
+Al termine del secondo anno di corso lo studente per essere ammesso al terzo anno di corso dovra' aver superato gli esami di tutte le discipline del biennio propedeutico, stabilite nell'art. 100 dello statuto.  
+Dopo l'art. 102 e con il conseguente spostamento della successiva numerazione e' inserito il seguente nuova articolo, relativo alle propedeuticita' del triennio di applicazione nel corso di laurea in Ingegneria.  
+  
+Art. 103. - Agli effetti della successione dei relativi esami nel triennio di applicazione occorre osservare le seguenti precedenze:  
+1) l'esame di Scienza della costruzioni deve precedere quelli di Tecnica delle costruzioni, Scienza delle costruzioni II, Costruzione di ponti. Costruzioni stradali e ferroviarie, Costruzioni idrauliche, Costruzioni di macchine, Architettura tecnica;  
+2) l'esame di meccanica applicata, alle macchine, quello di macchine e costruzione di macchine;  
+3) l'esame di Architettura tecnica deve precedere quelli di Architettura, tecnica II, Architettura e composizione architettonica;  
+4) l'esame di Idraulica deve precedere quelli di Costruzioni idrauliche, Impianti speciali idraulici, Costruzioni marittime, Complementi di costruzioni idrauliche, Idrologia, Idraulica agraria, Tecnica della bonifica;  
+5) l'esame di Costruzioni idrauliche deve precedere quello di Complemento di costruzioni idrauliche;  
+6) l'esame di Elettrotecnica deve precedere quelli di Tecnica ed economia dei trasporti; Trazione elettrica; Complementi di tecnica ed economia dei trasporti;  
+7) l'esame di Fisica tecnica deve precedere quello di Meccanica applicata alle macchine, Macchine, Impianti tecnici edili, Tecnica ed economia dei trasporti, Complementi di tecnica ed economia dei trasporti.  
+  
+Art. 104, relativo alle norme per gli esami di laurea del corso di studi in Ingegneria e' abrogato e sostituito dal seguente:  
+Per essere ammesso all'esame di laurea lo studente deve aver superato gli esami delle materie fondamentali e di quelle dell'indirizzo scelto.  
+Gli esami di profitto consistono di norma in una prova orale sulle materie e di una discussione sui risultati delle esercitazioni e sui progetti.  
+Gli esami di Architettura tecnica e di Architettura e composizione architettonica comportano sempre anche una prova pratica.  
+L'esame di laurea consta di due prove, una orale vertente sugli argomenti e sulle esercitazioni svolte nelle materie degli ultimi tre anni: la seconda sulla discussione di un progetto particolare presentato come tesi.  
+Dopo l'art. 104, e con il conseguente spostamento della numerazione successiva, e' inserito il seguente nuovo articolo.  
+  
+Art. 105. - Gli Istituti della Facolta' di ingegneria sono i seguenti:  
+1) Istituto di architettura e composizione architettonica;  
+2) Istituto di chimica applicata;  
+3) Istituto di elettrotecnica;  
+4) Istituto di fisica tecnica;  
+5) Istituto di idraulica e costruzioni idrauliche;  
+6) Istituto di macchine;  
+7) Istituto di scienza delle costruzioni;  
+8) Istituto di costruzioni stradali e ferroviarie;.  
+9) Istituto di trasporti.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e del decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 7 febbraio 1980
+### Dato a Roma, addi' 17 settembre 1962
 
-PERTINI VALITUTTI
+SEGNI GUI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 26 maggio 1980
+Registrato alla Corte dei conti, addi' 12 novembre 1962
 
-Registro n. 49 Istruzione, foglio n. 237
+Atti del Governo, registro n. 160, foglio n. 15. - VILLA

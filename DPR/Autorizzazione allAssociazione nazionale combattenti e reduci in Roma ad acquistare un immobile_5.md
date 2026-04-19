@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1986 n. 908
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1977 n. 795
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1986 n. 908
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1977 n. 795
+================================================================
 
 Autorizzazione all'Associazione nazionale combattenti e reduci, in Roma, ad acquistare un immobile.
 ---------------------------------------------------------------------------------------------------
@@ -10,10 +10,10 @@ Autorizzazione all'Associazione nazionale combattenti e reduci, in Roma, ad acqu
 Art. 1
 ------
 
-n.
+N.
 
-908. Decreto del Presidente della Repubblica 29 ottobre 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale combattenti e reduci, in Roma, viene autorizzata ad acquistare, al convenuto prezzo di L. 220.000.000, una porzione di fabbricato sito in Ascoli Piceno, via della Fortezza numeri 5, 7 e 9, censito nel nuovo catasto edilizio urbano alla partita 129, foglio 169/A, mappale 563 sub. 1 - 5, di proprieta' della ditta F.lli Silvestri S.r.l., da destinare a sede sociale.   
+795. Decreto del Presidente della Repubblica 27 settembre 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale combattenti e reduci, in Roma, viene autorizzata ad acquistare un appartamento (con relativo mobilio), sito in Lignano Pineta del comune di Lignano Sabbiadoro (Udine), condominio S. Giorgio, via Centrale 10 (ora civici 34-36), distinto al nuovo catasto edilizio urbano alla partita 1033, foglio 42, mappale 155/11, al prezzo di lire 6.300.000, da destinare a case per ex combattenti bisognosi di cure marine.  
   
-Visto, il Guardasigilli: ROGNONI   
-Registrato alla Corte dei conti, addi' 20 dicembre 1986   
-Registro n. 12 Presidenza, foglio n. 201
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 26 ottobre 1977  
+Registro n. 8 Presidenza, foglio n. 254

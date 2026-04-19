@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 292
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 novembre 1985 n. 933
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 292
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 novembre 1985 n. 933
+===============================================================
 
 Autorizzazione all'Associazione italiana della Croce rossa, in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-292. Decreto del Presidente della Repubblica 4 maggio 1983, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 100.000, disposto dalla sig.ra Adele Pomella con testamento olografo 5 aprile 1970, pubblicato in data 8 novembre 1979, n. 686 di repertorio, a rogito dott. Roberto Priano, notaio in Torino, registrato a Torino in data 22 novembre 1979 al n. 51836/143.  
+933. Decreto del Presidente della Repubblica 14 novembre 1985, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare il legato, consistente "in quanto resta in denaro liquido del conto corrente" presso la Banca commerciale, via del Corso, Roma, e "in titoli di Stato", una volta "pagate le spese funebri e religiose e gli onorari notarili" per un ammontare presumibile di L. 30.000.000 e che sara' utilizzato dalla Croce rossa per l'assistenza ai terremotati piu' bisognosi e sofferenti del Friuli, disposto dalla sig.ra Lucia Dini con testamento olografo 28 agosto 1977, pubblicato in data 26 settembre 1979, n. 67608 di repertorio, a rogito dottor Massimo Manara, coadiutore del dott. Achille De Martino, notaio in Roma, registrato a Roma in data 2 ottobre 1979 al n. 10942.   
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 4 giugno 1983  
-Registro n. 4 Sanita', foglio n. 370
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 17 febbraio 1986   
+Registro n. 2 Sanita', foglio n. 133.

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1973 n. 848
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1954 n. 1205
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1973 n. 848
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1954 n. 1205
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Padova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), e modificato con [regio decreto 6 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-06;1847), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regi decreti 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-10-05;1847); [26 ottobre 1940, n. 2058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2058); [16 marzo 1942, n. 323](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-03-16;323); [24 ottobre 1942, n. 1597; e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1597) [23 settembre 1949, n. 932](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;932); [31 ottobre 1950, n. 1308](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1308); [11 aprile 1951, n. 953](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;953); [25 luglio 1952, n. 1501](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1501); [26 ottobre 1952; n. 4529](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4529); [10 febbraio 1953, n. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;384) e [30 luglio 1953, n. 715](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-07-30;715);
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -32,316 +32,198 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 42, relativo all'elenco degli insegnamenti complementari del corso di laurea in scienze politiche, e' modificato nel senso che l'insegnamento di "storia della Chiesa" muta la denominazione in quella di "storia moderna e contemporanea della Chiesa e delle altre confessioni cristiane".
+Art. 60. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di:
 
-Art. 49, relativo all'elenco degli istituti annessi alla facolta' di scienze politiche, e' modificato nel senso che il comma contrassegnato con il n. 5) e' abrogato e sostituito dal seguente:
+"Neurochirurgia".
 
-"5) Istituto di studi internazionali, comprendente i seminari di diritto internazionale e comunitario, economia internazionale, storia e politica internazionale, studi anglo-americani. Alle attivita' dell'istituto possono partecipare, nei limiti e nei modi stabiliti dal direttore, anche docenti e studiosi italiani e stranieri di dette discipline, pur non appartenenti all'Universita' di Padova".
+Art. 104, relativo al corso di laurea in farmacia.
 
-Art. 102 - all'elenco degli istituti annessi alla facolta' di medicina e chirurgia e' aggiunto quello di:
+Le denominazioni degli insegnamenti complementari di "Chimica di guerra" e di "Chimica fisica" sono sostituite rispettivamente con quelle di "Tossicologia industriale" e "Chimica fisica ed esercizi".
 
-Istituto di chirurgia cardiovascolare.
+Agli insegnamenti complementari del corso di laurea in farmacia sono aggiunti quelli di:
 
-Art. 226, relativo alle tasse e contributi delle scuole di specializzazione e perfezionamento della facolta' di lettere e filosofia, e' modificato nel senso che il primo comma e' abrogato e sostituito dal seguente:
+"Impianti e macchinario farmaceutico;
 
-"Le tasse e soprattasse annuali a carico degli iscritti restano cosi' determinate:
+Chimica analitica;
 
-tassa di iscrizione per studenti di corso. . . . . . . L. 11.000 tassa di iscrizione per studenti fuori corso. . . . . . L. 5.000 soprattassa esami . . . . . . . . . . . . . . . . . . . . L. 400 Il consiglio di amministrazione dell'Universita', su proposta del senato accademico, udito il consiglio della facolta' di lettere e filosofia, stabilira' di anno in anno l'ammontare dei contributi".
+Fisiologia vegetale".
 
-Art. 244, relativo alla scuola speciale per storici dell'arte medioevale e moderna e conservatori dei beni artistici, e' modificato nel senso che il seguente comma:
+Art. 175. - Il primo comma e' sostituito dal seguente:
 
-"gli iscritti alla scuola sono tenuti a versare le tasse e soprattasse e contributi secondo le disposizioni vigenti per gli studenti della facolta' di lettere e filosofia", e' abrogato e sostituito dal seguente:
+"Alle scuole di perfezionamento possono iscriversi solamente laureati in medicina e chirurgia, eccezion fatta per la scuola d'igiene pubblica, alla quale possono iscriversi anche i laureati in chimica, in farmacia, in scienze biologiche ed in medicina veterinaria, e per quella d'igiene scolastica, alla quale possono iscriversi anche i laureati in farmacia".
 
-"Le tasse e soprattasse annuali a carico degli iscritti restano cosi' determinate:
+Art. 185, relativo alla scuola di perfezionamento in urologia. - Le parole "internato per tre anni in clinica chirurgica con servizio effettivo di assistente volontario" sono sostituite con quelle di "internato per tre anni in clinica chirurgica o patologia chirurgica".
 
-tassa di iscrizione per studenti di corso. . . . . . . L. 11.000 tassa di iscrizione per studenti fuoricorso . . . . . . L. 5.000 soprattassa esami . . . . . . . . . . . . . . . . . . . . L. 400 Il consiglio di amministrazione dell'Universita', su proposta del senato accademico, udito il consiglio della facolta' di lettere e filosofia, stabilira' di anno in anno l'ammontare dei contributi".
+Agli insegnamenti del secondo anno della scuola di perfezionamento in pediatria e' aggiunto quello di:
 
-Gli articoli da 245 a 255, relativi alla scuola di perfezionamento nelle discipline pedagogiche e psicologiche, sono soppressi e sostituiti dai seguenti relativi alla istituzione delle scuole di perfezionamento in "discipline pedagogiche" e in "psicologia", con il conseguente spostamento della numerazione degli articoli successivi.
+"Alimentazione del bambino".
 
-TITOLO XVI
+Agli insegnamenti del secondo anno della scuola di perfezionamento in radiologia e' aggiunto quello di:
 
-FACOLTA' DI MAGISTERO
+"Radiobiologia".
 
-SCUOLE DI PERFEZIONAMENTO E DI SPECIALIZZAZIONE
+Dopo la scuola di perfezionamento in puericoltura e' aggiunto l'ordinamento delle nuove scuole di perfezionamento in "Otorinolaringoiatria" ed in "Patologia del sangue e degli organi emopoietici" e della scuola di specializzazione in "Clinica delle malattie del lavoro".
 
-Art. 245. - Alla facolta' di magistero sono annesse le seguenti scuole di perfezionamento e specializzazione:
+Scuola di otorinolaringoiatria
 
-1) Scuola di perfezionamento e specializzazione nelle discipline pedagogiche;
+(durata del corso anni tre)
 
-2) Scuola di perfezionamento e specializzazione in psicologia.
+Primo anno:
 
-Scuola di perfezionamento e di specializzazione nelle discipline pedagogiche
+Anatomia, istologia ed embriologia dell'orecchio e nelle prime vie respiratorie e digestive;
 
-Art. 246. - La scuola di perfezionamento e di specializzazione nelle discipline pedagogiche ha lo scopo di promuovere gli studi nelle discipline pedagogiche e di creare degli specialisti tecnici operatori nella materia.
+Patologia speciale otorinolaringoiatrica;
 
-Art. 247. - La scuola ha la durata di due anni.
+Fisiologia dell'orecchio e delle prime vie respiratorie e digestive;
 
-Art. 248. - La scuola e' retta da un direttore coadiuvato da un consiglio.
+Nozioni di patologia generale in rapporto all'otorinolaringoiatria;
 
-Il direttore della scuola e' nominato dal rettore su designazione del consiglio di facolta' di magistero.
+Clinica otorinolaringoiatrica;
 
-Il consiglio della scuola e' composto dai professori che vi tengono insegnamenti.
+Semeiotica otorinolaringoiatrica.
 
-Art. 249 - Il rettore, su proposta del consiglio della scuola, determina, di anno in anno, quali corsi debbono funzionare.
+Secondo anno:
 
-Art. 250. - Alla scuola di perfezionamento e di specializzazione nelle discipline pedagogiche, possono iscriversi i laureati nelle facolta' di lettere e filosofia, magistero e lingue.
+Clinica medica generale;
 
-Il numero dei candidati ammessi alla frequenza e' limitato ad un massimo di dodici all'anno. Le materie costitutive per conseguire il diploma della scuola sono:
+Clinica otorinolaringoiatrica;
 
-Pedagogia;
+Clinica chirurgica generale;
 
-Storia delle istituzioni scolastiche;
+Semeiotica otorinolaringoiatrica;
 
-Metodologia e didattica generale;
+Batteriologia, igiene e profilassi;
 
-Didattica dei mezzi audiovisivi;
+Interventi chirurgici e tecnica operativa otorinolaringoiatrica;
 
-Pedagogia sperimentale.
+Nozioni di patologia generale in rapporto all'otorinolaringoiatria;
 
-Il curriculum degli studi di ogni singolo candidato sara' fissato dal consiglio della scuola a completamento del corso di studi precedentemente seguito, e comprendera', oltre alle materie costitutive, altre discipline scelte tra le seguenti:
+Audiometria.
 
-Psicopedagogia;
+Terzo anno:
 
-Storia della pedagogia;
+Radiologia e malattie otorinolaringoiatriche;
 
-Psicologia dell'eta' evolutiva;
+Infortunistica e medicina legale in rapporto all'otorinolaringoiatria;
 
-Sociologia;
+Interventi chirurgici e tecnica operativa otorinolaringoiatrica;
 
-Tirocinio didattico (con esercitazioni);
+Clinica otorinolaringoiatrica;
 
-Pedagogia comparata;
+Neurologia in rapporto all'otorinolaringoiatria;
 
-Pedagogia familiare;
+Oculistica in rapporto all'otorinolaringoiatria;
 
-Pedagogia degli adulti;
+Foniatria.
 
-Pedagogia del tempo libero;
+Internato per tre anni in clinica otorinolaringoiatrica, con servizio effettivo di assistente volontario.
 
-Storia e critica della letteratura per l'infanzia;
+Sono ammessi non piu' di dieci allievi per ogni anno di corso.
 
-Legislazione scolastica comparata;
+Scuola di patologia del sangue
 
-Didattica particolare;
+e degli organi emopoietici
 
-Educazione sanitaria;
+(durata del corso anni due)
 
-Educazione fisica;
+Primo anno:
 
-Storia della filosofia;
+Istologia normale degli organi emopoietici;
 
-Estetica;
+Fisiologia normale del sangue e degli organi emopoietici;
 
-Orientamenti scolastici e professionali;
+Chimica fisiologica del sangue e degli organi emopoietici;
 
-Tecnica ed organizzazione di centri di lettura e di centri culturali;
+Anatomia e istologia patologica degli organi emopoietici;
 
-Tecniche della valutazione scolastica e docimologia.
+Patologia del sangue e degli organi emopoietici.
 
-Altri insegnamenti e corsi di conferenze a carattere interpretativo potranno essere istituiti di anno in anno per deliberazione del consiglio direttivo.
+Secondo anno:
 
-I candidati che avranno superato gli esami prescritti (in numero non inferiore a otto) saranno ammessi a discutere una tesi di perfezionamento consistente in un contributo originale di argomento attinente ai seguenti settori:
+Metodologia morfologica e chimica delle emopatie (esercitazioni);
 
-1) Pedagogia generale;
+Dottrina e tecnica delle emotrasfusioni;
 
-2) Pedagogia sperimentale;
+Patologia del sangue e degli organi emopoietici.
 
-3) Pedagogia speciale;
+Internato per due anni nell'Istituto di patologia speciale medica, con servizio effettivo di assistente volontario.
 
-4) Educazione familiare e sessuale;
+Sono ammessi non piu' di quindici allievi per ogni anno di corso.
 
-5) Istituzioni scolastiche e comunita' educativa;
+Non sono ammesse abbreviazioni di corso.
 
-6) Attivita' giovanili;
+Scuola di clinica delle malattie del lavoro
 
-7) Comunicazioni di massa.
+(durata del corso anni due).
 
-Art. 251. - Le domande di iscrizione alla scuola di perfezionamento e di specializzazione saranno vagliate dal consiglio della scuola, il quale predisporra' eventuali prove di accertamento e decidera' dell'accettazione dei candidati.
+Primo anno:
 
-Art. 252. - Le commissioni giudicatrici degli esami sono nominate dal direttore della scuola. Le commissioni giudicatrici degli esami di diploma di perfezionamento e specializzazione sono nominate dal rettore e composte di sette membri tra cui il direttore della scuola che le presiede.
+Fisiologia del lavoro;
 
-Art. 253. - Il consiglio di amministrazione, su proposta della direzione della scuola, stabilisce di anno in anno l'ammontare dei contributi.
+Patologia generale delle intossicazioni;
 
-Le tasse e soprattasse annuali che gli iscritti sono tenuti a versare sono le seguenti:
+Tossicologia da materiale di lavoro;
 
-tassa di immatricolazione . . . . . . . . . . . . . . . L. 5.000 tassa iscrizione studenti di corso. . . . . . . . . . . " 18.000 soprattassa esami. . . . . . . . . . . . . . . . . . . . " 7.000 tassa di diploma . . . . . . . . . . . . . . . . . . . . " 6.000 Art. 254. - Il funzionamento della scuola e' a carico del bilancio della facolta' di magistero.
+Anatomia patologica delle malattie professionali;
 
-Scuola di perfezionamento e di specializzazione in psicologia
+Radiologia delle tecnopatie;
 
-Art. 255. - La scuola di perfezionamento e di specializzazione in psicologia ha lo scopo di promuovere gli studi nelle discipline psicologiche e di creare degli specialisti nelle applicazioni industriali e sociali della psicologia.
-
-Art. 256. - La scuola comprende:
-
-a) un ramo di perfezionamento in psicologia, destinato ad accogliere persone che vogliono approfondire la loro preparazione psicologica e orientarsi verso la attivita' di ricerca;
-
-b) un ramo di specializzazione in psicologia, che prepara persone che intendono svolgere professionalmente la loro attivita' nel campo della psicologia applicata.
-
-Art. 257. - La scuola ha la durata di due anni.
-
-Art. 258. - La scuola e' retta da un direttore coadiuvato da un consiglio.
-
-Il direttore della scuola e' nominato dal rettore su designazione del consiglio della facolta' di magistero.
-
-Il consiglio della scuola e' composto dei professori universitari di ruolo che vi tengono insegnamenti.
-
-Art. 259. - Titolo di ammissione al ramo di perfezionamento in psicologia e' una delle lauree conferite dalla facolta' di magistero, lettere e filosofia, sociologia, giurisprudenza, scienze matematiche, fisiche e naturali, medicina.
-
-Il numero dei candidati ammessi alla frequenza e' limitato ad un massimo di sei per anno.
-
-Le materie costitutive per conseguire il diploma in perfezionamento in psicologia sono:
-
-Metodologia delle scienze del comportamento;
-
-Psicologia;
-
-Psicologia dell'eta' evolutiva.
-
-Il curriculum degli studi di ogni singolo candidato sara' fissato dal consiglio della scuola a completamento del corso di studi precedentemente seguito, e comprendera', oltre alle materie costitutive, altre discipline scelte fra le seguenti:
-
-Anatomia;
-
-Antropologia;
-
-Antropologia criminale;
-
-Biologia generale;
-
-Epistemologia;
-
-Filosofia;
-
-Filosofia della scienza;
-
-Filosofia del linguaggio;
-
-Fisiologia;
-
-Genetica;
-
-Glottologia;
-
-Istituzioni matematiche;
-
-Pedagogia;
-
-Psicologia applicata;
-
-Psicologia comparata;
-
-Psicologia dinamica;
-
-Psicologia industriale;
-
-Psicologia pedagogica;
-
-Psicologia sociale;
-
-Psicometria;
-
-Psicopatologia;
-
-Psicopedagogia;
-
-Sociologia;
+Psicotecnica;
 
 Statistica;
 
-Storia della psicologia;
+Igiene del lavoro (biennale);
 
-Storia della scienza;
+Medicina assicurativa e valutazione di danno (biennale);
 
-Tecnica dei metodi proiettivi;
+Patologia e clinica delle malattie professionali (biennale).
 
-Tecnica dei tests.
+Secondo anno:
 
-I candidati che avranno superato gli esami prescritti dal consiglio direttivo (complessivamente non meno di sci) e ottemperato all'obbligo dell'internato di due anni nell'istituto di psicologia sperimentale, saranno ammessi a discutere la tesi di perfezionamento, consistente in un contributo originale di argomento psicologico.
+Malattie professionali del sistema nervoso;
 
-Art. 260. - Titolo di ammissione al ramo di specializzazione in psicologia e' una delle lauree conferite dalla facolta' di magistero, lettere e filosofia, sociologia, giurisprudenza, scienze politiche, statistica, medicina, scienze matematiche, fisiche e naturali, ingegneria, agraria.
+Malattie professionali dell'apparato visivo;
 
-Il numero dei candidati ammessi alla frequenza e' limitato al massimo di venti per anno.
+Malattie professionali del sistema cutaneo;
 
-Le materie costitutive per ottenere il diploma di specializzazione in psicologia sono:
+Malattie professionali e ginecologia;
 
-Psicologia;
+Malattie professionali dell'orecchio, naso, gola;
 
-Psicologia dell'eta' evolutiva;
+Malattie professionali e traumatologia;
 
-Psicologia dinamica;
+Igiene del lavoro;
 
-Psicologia industriale;
+Medicina assicurativa e valutazione di danno;
 
-Psicometria;
+Patologia e clinica delle malattie professionali
 
-Tecnica dei metodi proiettivi;
+Internato per due anni nell'Istituto di medicina del lavoro con servizio effettivo di assistente volontario.
 
-Tecnica dei tests;
-
-Tecnica delle interviste e dell'orientamento professionale.
-
-Il curriculum degli studi sara' fissato dal consiglio della scuola per ogni singolo candidato e comprendera' oltre alle materie costitutive, altre discipline scelte fra le seguenti:
-
-Analisi motivazionale;
-
-Antropologia;
-
-Diagnostica psicologica;
-
-Istituzioni matematiche;
-
-Psicologia applicata;
-
-Psicologia medica;
-
-Psicologia pedagogica;
-
-Psicologia sociale;
-
-Psicopatologia;
-
-Psicopedagogia;
-
-Sociologia;
-
-Statistica.
-
-E' obbligatorio un internato di almeno due mesi in un centro di orientamento professionale o in un centro di psicologia applicata giudicato idoneo dal consiglio direttivo.
-
-Possono essere iscritti direttamente al secondo anno i candidati che data la laurea abbiano acquistato particolare competenza nelle applicazioni della psicologia.
-
-I candidati che avranno ottemperato all'obbligo della frequenza e dell'internato e superato gli esami prescritti dal consiglio direttivo (complessivamente non meno di dodici) saranno ammessi a discutere una tesi di specializzazione consistente in un contributo originale in una delle materie del ramo di specializzazione.
-
-Art. 261. - Le domande di iscrizione alla scuola di perfezionamento e specializzazione saranno vagliate dal consiglio della scuola, il quale predisporra' eventuali prove di accertamento e decidera' dell'accettazione dei candidati.
-
-Art. 262. - Le commissioni giudicatrici degli esami sono nominale dal direttore della scuola. Le commissioni giudicatrici degli esami di diploma di perfezionamento e di specializzazione sono nominate dal rettore e composte di sette membri tra cui il direttore della scuola che le presiede.
-
-Art; 263. - Il consiglio di amministrazione, su proposta della direzione della scuola, stabilisce di anno in anno l'ammontare dei contributi.
-
-Le tasse e soprattasse annuali che gli iscritti sono tenuti a versare sono le seguenti:
-
-tassa di immatricolazione . . . . . . . . . . . . . . . L. 5.000 tassa di iscrizione studenti in corso . . . . . . . . . " 18.000 soprattassa esami. . . . . . . . . . . . . . . . . . . . " 7.000 tassa di diploma . . . . . . . . . . . . . . . . . . . . " 6.000 Art. 264. - Il funzionamento della scuola e' a carico del bilancio della facolta' di magistero.
+Sono ammessi non piu' di dieci allievi per ogni anno di corso.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 29 settembre 1973
+Dato a Dogliani, addi' 24 settembre 1954
 
-LEONE
+EINAUDI
 
-MALFATTI
+ERMINI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: DE PIETRO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 22 dicembre 1973 Atti di Governo, registro n. 263, foglio n. 18. - CARUSO
+alla Corte dei conti, addi' 30 dicembre 1954 Atti del Governo, registro n. 87, foglio n. 112. - CARLOMAGNO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), e modificato con [regio decreto 6 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-06;1847), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regi decreti 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-10-05;1847); [26 ottobre 1940, n. 2058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2058); [16 marzo 1942, n. 323](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-03-16;323); [24 ottobre 1942, n. 1597; e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1597) [23 settembre 1949, n. 932](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;932); [31 ottobre 1950, n. 1308](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1308); [11 aprile 1951, n. 953](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;953); [25 luglio 1952, n. 1501](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1501); [26 ottobre 1952; n. 4529](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4529); [10 febbraio 1953, n. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;384) e [30 luglio 1953, n. 715](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-07-30;715);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
@@ -353,168 +235,123 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 42, relativo all'elenco degli insegnamenti complementari del corso di laurea in scienze politiche, e' modificato nel senso che l'insegnamento di "storia della Chiesa" muta la denominazione in quella di "storia moderna e contemporanea della Chiesa e delle altre confessioni cristiane".  
-Art. 49, relativo all'elenco degli istituti annessi alla facolta' di scienze politiche, e' modificato nel senso che il comma contrassegnato con il n. 5) e' abrogato e sostituito dal seguente:  
-"5) Istituto di studi internazionali, comprendente i seminari di diritto internazionale e comunitario, economia internazionale, storia e politica internazionale, studi anglo-americani. Alle attivita' dell'istituto possono partecipare, nei limiti e nei modi stabiliti dal direttore, anche docenti e studiosi italiani e stranieri di dette discipline, pur non appartenenti all'Universita' di Padova".  
-Art. 102 - all'elenco degli istituti annessi alla facolta' di medicina e chirurgia e' aggiunto quello di:  
-Istituto di chirurgia cardiovascolare.  
-Art. 226, relativo alle tasse e contributi delle scuole di specializzazione e perfezionamento della facolta' di lettere e filosofia, e' modificato nel senso che il primo comma e' abrogato e sostituito dal seguente:  
-"Le tasse e soprattasse annuali a carico degli iscritti restano cosi' determinate:  
-tassa di iscrizione per studenti di corso. . . . . . . L. 11.000 tassa di iscrizione per studenti fuori corso. . . . . . L. 5.000 soprattassa esami . . . . . . . . . . . . . . . . . . . . L. 400 Il consiglio di amministrazione dell'Universita', su proposta del senato accademico, udito il consiglio della facolta' di lettere e filosofia, stabilira' di anno in anno l'ammontare dei contributi".  
-Art. 244, relativo alla scuola speciale per storici dell'arte medioevale e moderna e conservatori dei beni artistici, e' modificato nel senso che il seguente comma:  
-"gli iscritti alla scuola sono tenuti a versare le tasse e soprattasse e contributi secondo le disposizioni vigenti per gli studenti della facolta' di lettere e filosofia", e' abrogato e sostituito dal seguente:  
-"Le tasse e soprattasse annuali a carico degli iscritti restano cosi' determinate:  
-tassa di iscrizione per studenti di corso. . . . . . . L. 11.000 tassa di iscrizione per studenti fuoricorso . . . . . . L. 5.000 soprattassa esami . . . . . . . . . . . . . . . . . . . . L. 400 Il consiglio di amministrazione dell'Universita', su proposta del senato accademico, udito il consiglio della facolta' di lettere e filosofia, stabilira' di anno in anno l'ammontare dei contributi".  
-Gli articoli da 245 a 255, relativi alla scuola di perfezionamento nelle discipline pedagogiche e psicologiche, sono soppressi e sostituiti dai seguenti relativi alla istituzione delle scuole di perfezionamento in "discipline pedagogiche" e in "psicologia", con il conseguente spostamento della numerazione degli articoli successivi.  
   
-TITOLO XVI  
-FACOLTA' DI MAGISTERO  
+Art. 60. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di:  
+"Neurochirurgia".  
+Art. 104, relativo al corso di laurea in farmacia.  
+Le denominazioni degli insegnamenti complementari di "Chimica di guerra" e di "Chimica fisica" sono sostituite rispettivamente con quelle di "Tossicologia industriale" e "Chimica fisica ed esercizi".  
+Agli insegnamenti complementari del corso di laurea in farmacia sono aggiunti quelli di:  
+"Impianti e macchinario farmaceutico;  
+Chimica analitica;  
+Fisiologia vegetale".  
+Art. 175. - Il primo comma e' sostituito dal seguente:  
+"Alle scuole di perfezionamento possono iscriversi solamente laureati in medicina e chirurgia, eccezion fatta per la scuola d'igiene pubblica, alla quale possono iscriversi anche i laureati in chimica, in farmacia, in scienze biologiche ed in medicina veterinaria, e per quella d'igiene scolastica, alla quale possono iscriversi anche i laureati in farmacia".  
+Art. 185, relativo alla scuola di perfezionamento in urologia. - Le parole "internato per tre anni in clinica chirurgica con servizio effettivo di assistente volontario" sono sostituite con quelle di "internato per tre anni in clinica chirurgica o patologia chirurgica".  
+Agli insegnamenti del secondo anno della scuola di perfezionamento in pediatria e' aggiunto quello di:  
+"Alimentazione del bambino".  
+Agli insegnamenti del secondo anno della scuola di perfezionamento in radiologia e' aggiunto quello di:  
+"Radiobiologia".  
+Dopo la scuola di perfezionamento in puericoltura e' aggiunto l'ordinamento delle nuove scuole di perfezionamento in "Otorinolaringoiatria" ed in "Patologia del sangue e degli organi emopoietici" e della scuola di specializzazione in "Clinica delle malattie del lavoro".  
   
-SCUOLE DI PERFEZIONAMENTO E DI SPECIALIZZAZIONE  
+Scuola di otorinolaringoiatria  
+(durata del corso anni tre)  
   
-Art. 245. - Alla facolta' di magistero sono annesse le seguenti scuole di perfezionamento e specializzazione:  
-1) Scuola di perfezionamento e specializzazione nelle discipline pedagogiche;  
-2) Scuola di perfezionamento e specializzazione in psicologia.  
+Primo anno:  
   
-Scuola di perfezionamento e di specializzazione nelle discipline pedagogiche  
+Anatomia, istologia ed embriologia dell'orecchio e nelle prime vie respiratorie e digestive;  
+Patologia speciale otorinolaringoiatrica;  
+Fisiologia dell'orecchio e delle prime vie respiratorie e digestive;  
+Nozioni di patologia generale in rapporto all'otorinolaringoiatria;  
+Clinica otorinolaringoiatrica;  
+Semeiotica otorinolaringoiatrica.  
   
-Art. 246. - La scuola di perfezionamento e di specializzazione nelle discipline pedagogiche ha lo scopo di promuovere gli studi nelle discipline pedagogiche e di creare degli specialisti tecnici operatori nella materia.  
-Art. 247. - La scuola ha la durata di due anni.  
-Art. 248. - La scuola e' retta da un direttore coadiuvato da un consiglio.  
-Il direttore della scuola e' nominato dal rettore su designazione del consiglio di facolta' di magistero.  
-Il consiglio della scuola e' composto dai professori che vi tengono insegnamenti.  
-Art. 249 - Il rettore, su proposta del consiglio della scuola, determina, di anno in anno, quali corsi debbono funzionare.  
-Art. 250. - Alla scuola di perfezionamento e di specializzazione nelle discipline pedagogiche, possono iscriversi i laureati nelle facolta' di lettere e filosofia, magistero e lingue.  
-Il numero dei candidati ammessi alla frequenza e' limitato ad un massimo di dodici all'anno. Le materie costitutive per conseguire il diploma della scuola sono:  
-Pedagogia;  
-Storia delle istituzioni scolastiche;  
-Metodologia e didattica generale;  
-Didattica dei mezzi audiovisivi;  
-Pedagogia sperimentale.  
-Il curriculum degli studi di ogni singolo candidato sara' fissato dal consiglio della scuola a completamento del corso di studi precedentemente seguito, e comprendera', oltre alle materie costitutive, altre discipline scelte tra le seguenti:  
-Psicopedagogia;  
-Storia della pedagogia;  
-Psicologia dell'eta' evolutiva;  
-Sociologia;  
-Tirocinio didattico (con esercitazioni);  
-Pedagogia comparata;  
-Pedagogia familiare;  
-Pedagogia degli adulti;  
-Pedagogia del tempo libero;  
-Storia e critica della letteratura per l'infanzia;  
-Legislazione scolastica comparata;  
-Didattica particolare;  
-Educazione sanitaria;  
-Educazione fisica;  
-Storia della filosofia;  
-Estetica;  
-Orientamenti scolastici e professionali;  
-Tecnica ed organizzazione di centri di lettura e di centri culturali;  
-Tecniche della valutazione scolastica e docimologia.  
-Altri insegnamenti e corsi di conferenze a carattere interpretativo potranno essere istituiti di anno in anno per deliberazione del consiglio direttivo.  
-I candidati che avranno superato gli esami prescritti (in numero non inferiore a otto) saranno ammessi a discutere una tesi di perfezionamento consistente in un contributo originale di argomento attinente ai seguenti settori:  
-1) Pedagogia generale;  
-2) Pedagogia sperimentale;  
-3) Pedagogia speciale;  
-4) Educazione familiare e sessuale;  
-5) Istituzioni scolastiche e comunita' educativa;  
-6) Attivita' giovanili;  
-7) Comunicazioni di massa.  
-Art. 251. - Le domande di iscrizione alla scuola di perfezionamento e di specializzazione saranno vagliate dal consiglio della scuola, il quale predisporra' eventuali prove di accertamento e decidera' dell'accettazione dei candidati.  
-Art. 252. - Le commissioni giudicatrici degli esami sono nominate dal direttore della scuola. Le commissioni giudicatrici degli esami di diploma di perfezionamento e specializzazione sono nominate dal rettore e composte di sette membri tra cui il direttore della scuola che le presiede.  
-Art. 253. - Il consiglio di amministrazione, su proposta della direzione della scuola, stabilisce di anno in anno l'ammontare dei contributi.  
-Le tasse e soprattasse annuali che gli iscritti sono tenuti a versare sono le seguenti:  
-tassa di immatricolazione . . . . . . . . . . . . . . . L. 5.000 tassa iscrizione studenti di corso. . . . . . . . . . . " 18.000 soprattassa esami. . . . . . . . . . . . . . . . . . . . " 7.000 tassa di diploma . . . . . . . . . . . . . . . . . . . . " 6.000 Art. 254. - Il funzionamento della scuola e' a carico del bilancio della facolta' di magistero.  
+Secondo anno:  
   
-Scuola di perfezionamento e di specializzazione in psicologia  
+Clinica medica generale;  
+Clinica otorinolaringoiatrica;  
+Clinica chirurgica generale;  
+Semeiotica otorinolaringoiatrica;  
+Batteriologia, igiene e profilassi;  
+Interventi chirurgici e tecnica operativa otorinolaringoiatrica;  
+Nozioni di patologia generale in rapporto all'otorinolaringoiatria;  
+Audiometria.  
   
-Art. 255. - La scuola di perfezionamento e di specializzazione in psicologia ha lo scopo di promuovere gli studi nelle discipline psicologiche e di creare degli specialisti nelle applicazioni industriali e sociali della psicologia.  
-Art. 256. - La scuola comprende:  
-a) un ramo di perfezionamento in psicologia, destinato ad accogliere persone che vogliono approfondire la loro preparazione psicologica e orientarsi verso la attivita' di ricerca;  
-b) un ramo di specializzazione in psicologia, che prepara persone che intendono svolgere professionalmente la loro attivita' nel campo della psicologia applicata.  
-Art. 257. - La scuola ha la durata di due anni.  
-Art. 258. - La scuola e' retta da un direttore coadiuvato da un consiglio.  
-Il direttore della scuola e' nominato dal rettore su designazione del consiglio della facolta' di magistero.  
-Il consiglio della scuola e' composto dei professori universitari di ruolo che vi tengono insegnamenti.  
-Art. 259. - Titolo di ammissione al ramo di perfezionamento in psicologia e' una delle lauree conferite dalla facolta' di magistero, lettere e filosofia, sociologia, giurisprudenza, scienze matematiche, fisiche e naturali, medicina.  
-Il numero dei candidati ammessi alla frequenza e' limitato ad un massimo di sei per anno.  
-Le materie costitutive per conseguire il diploma in perfezionamento in psicologia sono:  
-Metodologia delle scienze del comportamento;  
-Psicologia;  
-Psicologia dell'eta' evolutiva.  
-Il curriculum degli studi di ogni singolo candidato sara' fissato dal consiglio della scuola a completamento del corso di studi precedentemente seguito, e comprendera', oltre alle materie costitutive, altre discipline scelte fra le seguenti:  
-Anatomia;  
-Antropologia;  
-Antropologia criminale;  
-Biologia generale;  
-Epistemologia;  
-Filosofia;  
-Filosofia della scienza;  
-Filosofia del linguaggio;  
-Fisiologia;  
-Genetica;  
-Glottologia;  
-Istituzioni matematiche;  
-Pedagogia;  
-Psicologia applicata;  
-Psicologia comparata;  
-Psicologia dinamica;  
-Psicologia industriale;  
-Psicologia pedagogica;  
-Psicologia sociale;  
-Psicometria;  
-Psicopatologia;  
-Psicopedagogia;  
-Sociologia;  
+Terzo anno:  
+  
+Radiologia e malattie otorinolaringoiatriche;  
+Infortunistica e medicina legale in rapporto all'otorinolaringoiatria;  
+Interventi chirurgici e tecnica operativa otorinolaringoiatrica;  
+Clinica otorinolaringoiatrica;  
+Neurologia in rapporto all'otorinolaringoiatria;  
+Oculistica in rapporto all'otorinolaringoiatria;  
+Foniatria.  
+  
+Internato per tre anni in clinica otorinolaringoiatrica, con servizio effettivo di assistente volontario.  
+Sono ammessi non piu' di dieci allievi per ogni anno di corso.  
+  
+Scuola di patologia del sangue  
+e degli organi emopoietici  
+(durata del corso anni due)  
+  
+Primo anno:  
+  
+Istologia normale degli organi emopoietici;  
+Fisiologia normale del sangue e degli organi emopoietici;  
+Chimica fisiologica del sangue e degli organi emopoietici;  
+Anatomia e istologia patologica degli organi emopoietici;  
+Patologia del sangue e degli organi emopoietici.  
+  
+Secondo anno:  
+  
+Metodologia morfologica e chimica delle emopatie (esercitazioni);  
+Dottrina e tecnica delle emotrasfusioni;  
+Patologia del sangue e degli organi emopoietici.  
+  
+Internato per due anni nell'Istituto di patologia speciale medica, con servizio effettivo di assistente volontario.  
+Sono ammessi non piu' di quindici allievi per ogni anno di corso.  
+Non sono ammesse abbreviazioni di corso.  
+  
+Scuola di clinica delle malattie del lavoro  
+(durata del corso anni due).  
+  
+Primo anno:  
+  
+Fisiologia del lavoro;  
+Patologia generale delle intossicazioni;  
+Tossicologia da materiale di lavoro;  
+Anatomia patologica delle malattie professionali;  
+Radiologia delle tecnopatie;  
+Psicotecnica;  
 Statistica;  
-Storia della psicologia;  
-Storia della scienza;  
-Tecnica dei metodi proiettivi;  
-Tecnica dei tests.  
-I candidati che avranno superato gli esami prescritti dal consiglio direttivo (complessivamente non meno di sci) e ottemperato all'obbligo dell'internato di due anni nell'istituto di psicologia sperimentale, saranno ammessi a discutere la tesi di perfezionamento, consistente in un contributo originale di argomento psicologico.  
-Art. 260. - Titolo di ammissione al ramo di specializzazione in psicologia e' una delle lauree conferite dalla facolta' di magistero, lettere e filosofia, sociologia, giurisprudenza, scienze politiche, statistica, medicina, scienze matematiche, fisiche e naturali, ingegneria, agraria.  
-Il numero dei candidati ammessi alla frequenza e' limitato al massimo di venti per anno.  
-Le materie costitutive per ottenere il diploma di specializzazione in psicologia sono:  
-Psicologia;  
-Psicologia dell'eta' evolutiva;  
-Psicologia dinamica;  
-Psicologia industriale;  
-Psicometria;  
-Tecnica dei metodi proiettivi;  
-Tecnica dei tests;  
-Tecnica delle interviste e dell'orientamento professionale.  
-Il curriculum degli studi sara' fissato dal consiglio della scuola per ogni singolo candidato e comprendera' oltre alle materie costitutive, altre discipline scelte fra le seguenti:  
-Analisi motivazionale;  
-Antropologia;  
-Diagnostica psicologica;  
-Istituzioni matematiche;  
-Psicologia applicata;  
-Psicologia medica;  
-Psicologia pedagogica;  
-Psicologia sociale;  
-Psicopatologia;  
-Psicopedagogia;  
-Sociologia;  
-Statistica.  
-E' obbligatorio un internato di almeno due mesi in un centro di orientamento professionale o in un centro di psicologia applicata giudicato idoneo dal consiglio direttivo.  
-Possono essere iscritti direttamente al secondo anno i candidati che data la laurea abbiano acquistato particolare competenza nelle applicazioni della psicologia.  
-I candidati che avranno ottemperato all'obbligo della frequenza e dell'internato e superato gli esami prescritti dal consiglio direttivo (complessivamente non meno di dodici) saranno ammessi a discutere una tesi di specializzazione consistente in un contributo originale in una delle materie del ramo di specializzazione.  
-Art. 261. - Le domande di iscrizione alla scuola di perfezionamento e specializzazione saranno vagliate dal consiglio della scuola, il quale predisporra' eventuali prove di accertamento e decidera' dell'accettazione dei candidati.  
-Art. 262. - Le commissioni giudicatrici degli esami sono nominale dal direttore della scuola. Le commissioni giudicatrici degli esami di diploma di perfezionamento e di specializzazione sono nominate dal rettore e composte di sette membri tra cui il direttore della scuola che le presiede.  
-Art; 263. - Il consiglio di amministrazione, su proposta della direzione della scuola, stabilisce di anno in anno l'ammontare dei contributi.  
-Le tasse e soprattasse annuali che gli iscritti sono tenuti a versare sono le seguenti:  
-tassa di immatricolazione . . . . . . . . . . . . . . . L. 5.000 tassa di iscrizione studenti in corso . . . . . . . . . " 18.000 soprattassa esami. . . . . . . . . . . . . . . . . . . . " 7.000 tassa di diploma . . . . . . . . . . . . . . . . . . . . " 6.000 Art. 264. - Il funzionamento della scuola e' a carico del bilancio della facolta' di magistero.  
+Igiene del lavoro (biennale);  
+Medicina assicurativa e valutazione di danno (biennale);  
+Patologia e clinica delle malattie professionali (biennale).  
+  
+Secondo anno:  
+  
+Malattie professionali del sistema nervoso;  
+Malattie professionali dell'apparato visivo;  
+Malattie professionali del sistema cutaneo;  
+Malattie professionali e ginecologia;  
+Malattie professionali dell'orecchio, naso, gola;  
+Malattie professionali e traumatologia;  
+Igiene del lavoro;  
+Medicina assicurativa e valutazione di danno;  
+Patologia e clinica delle malattie professionali  
+  
+Internato per due anni nell'Istituto di medicina del lavoro con servizio effettivo di assistente volontario.  
+Sono ammessi non piu' di dieci allievi per ogni anno di corso.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 settembre 1973
+### Dato a Dogliani, addi' 24 settembre 1954
 
-LEONE MALFATTI
+EINAUDI ERMINI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: DE PIETRO
 
-Registrato alla Corte dei conti, addi' 22 dicembre 1973
+Registrato alla Corte dei conti, addi' 30 dicembre 1954
 
-Atti di Governo, registro n. 263, foglio n. 18. - CARUSO
+Atti del Governo, registro n. 87, foglio n. 112. - CARLOMAGNO

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 settembre 1970 n. 1478
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 maggio 1968 n. 886
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 settembre 1970 n. 1478
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 maggio 1968 n. 886
+=============================================================
 
 Autorizzazione all'Associazione italiana della croce rossa ad accettare una donazione.
 --------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1478. Decreto del Presidente della Repubblica 19 settembre 1970, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana della croce rossa viene autorizzata ad accettare la donazione disposta in favore del dipendente sottocomitato di Alessano (Lecce) dalla locale amministrazione comunale di un relitto di terreno della superficie di mq. 320, del valore di L. 1.600.000, sito in Alessano e distinto al vecchio catasto fabbricati sulla partita 139 1/2 del foglio 20, da destinarsi alla costruzione della sede del locale sottocomitato dell'associazione allorche' le disponibilita' dello stesso sottocomitato lo consentiranno.  
+886. Decreto del Presidente della Repubblica 30 maggio 1968, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana della croce rossa viene autorizzata ad accettare la donazione, disposta dal comune di Pescara, di un terreno di mq. 942, sito nello stesso comune, all'angolo della via G. Matteotti e via R. Paolucci, riportata nel catasto fabbricati di Pescara come carta urbana in dipendenza dei numeri 502, 503, 504, 507, 508, 511, 512, 514, 516 e 518, facente parte del mappale n. 10, foglio n. 27, da utilizzarsi per la costruzione di un fabbricato da destinare a sede del comitato provinciale C.R.I. di Pescara.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 24 giugno 1971  
-Atti del Governo, registro n. 242, foglio n. 135. - VALENTINI
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 2 agosto 1968  
+Atti del Governo, registro n. 222, foglio n. 59. - GRECO

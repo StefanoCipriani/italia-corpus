@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 dicembre 1986 n. 1084
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1986 n. 859
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 dicembre 1986 n. 1084
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1986 n. 859
+=============================================================
 
 Modificazione allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
 --------------------------------------------------------------------------------
@@ -24,7 +24,7 @@ Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http:
 
 Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta; ai sensi della citata legge n. 615;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta, ai sensi della citata legge n. 615;
 
 Veduto il parere del Consiglio universitario nazionale;
 
@@ -39,13 +39,16 @@ Articolo unico
 --------------
 
   
-Nell'art. 23, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto l'insegnamento di "bioingegneria (ad orientamento ortopedico)".  
+Nell'art. 23, relativo ai corsi di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+chirurgia oncologica;  
+chirurgia traumatologica della strada;  
+endocrinochirurgia.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inverto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 dicembre 1986
+### Dato a Roma, addi' 4 agosto 1986
 
 COSSIGA
 
@@ -53,6 +56,6 @@ FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: ROGNONI
 
-Registrato alla Corte dei conti, addi' 28 marzo 1987
+Registrato alla Corte dei conti, addi' 27 novembre 1986
 
-Registro n. 19 Istruzione, foglio n. 33
+Registro n. 86 Istruzione, foglio n. 125

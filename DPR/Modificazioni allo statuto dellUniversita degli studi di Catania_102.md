@@ -1,174 +1,51 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1976 n. 1008
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1955 n. 959
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1976 n. 1008
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1955 n. 959
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Catania e convalidati dal Consiglio superiore della pubblica istruzione nei suoi pareri;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-L'art. 27, relative all'esame di laurea in economia e commercio, e' modificato nel senso che la norma contrassegnata con la lettera a) e' abrogata e sostituita dalla seguente:
-
-a) nella discussione orale di una dissertazione scritta su tema che rientri in uno degli insegnamenti fondamentali o complementari impartiti nella facolta', esclusi gli insegnamenti delle lingue straniere.
-
-Art. 51 - all'elenco degli insegnamenti complementari per il corso di laurea in medicina e chirurgia l'insegnamento complementare di immunopatologia muta denominazione in quella di immunologia clinica.
-
-Dopo l'art. 144, con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in economia aziendale e diritto dell'economia presso la facolta' di economia e commercio.
-
-Scuola di specializzazione in economia aziendale e diritto dell'economia
-
-Art. 145. - E' istituita presso la facolta' di economia e commercio una scuola di specializzazione in economia aziendale e diritto dell'economia. Gli iscritti al corso di specializzazione non possono superare il numero di 100.
-
-La scuola, che ha sede presso i locali dell'Universita' si propone la formazione di personale dirigente specializzato per le amministrazioni pubbliche, per le imprese private e per gli istituti di credito.
-
-Art. 146. - Il corso di studi avra' la durata di due anni.
-
-L'insegnamento sara' svolto mediante lezioni teoriche, conferenze ed esercitazioni pratiche sulle seguenti discipline:
-
-1) ragioneria generale ed applicata;
-
-2) diritto privato dell'economia;
-
-3) scienza delle finanze e diritto tributario;
-
-4) diritto pubblico dell'economia;
-
-5) tecnica bancaria industriale e commerciale.
-
-I corsi saranno svolti secondo un programma unitario concordato, al principio dell'anno accademico, dal consiglio direttivo presieduto dal direttore della scuola.
-
-Art. 147. - Gli organi della scuola sono:
-
-1) il direttore, nominato per un quadriennio dal consiglio della facolta' di economia e commercio;
-
-2) il consiglio direttivo, composto da tre professori nominati dal consiglio della facolta' di economia e commercio tra il personale docente della scuola e da un rappresentante di ciascuno degli enti aderenti.
-
-Art. 148. - Il direttore coordina l'attuazione del programma d'insegnamento deliberato dal consiglio direttivo e provvede a tutte quelle funzioni che non siano di competenza del consiglio direttivo della scuola.
-
-Art. 149. - Il personale insegnante sara' costituito da almeno tre professori nominati dalla facolta' di economia e commercio. Il direttore puo' integrare il personale docente affidando l'incarico di svolgere conferenze, lezioni integrative o corsi di esercitazioni a magistrati, avvocati, dirigenti di aziende pubbliche o private ed a cultori delle materie d'insegnamento oggetto del corso.
-
-Art. 150. - Alla scuola sono ammessi: laureati in scienze economiche e commerciali, in giurisprudenza, in scienze politiche ed in scienze statistiche ed attuariali.
-
-Art. 151. - L'iscrizione comporta il pagamento di una tassa annua di L. 20.000.
-
-Art. 152. - L'iscritto e' obbligato a frequentare assiduamente i corsi osservando tutte le norme regolamentari, didattiche e disciplinari.
-
-Art. 153. - Al termine del corso, l'iscritto dovra' sostenere un esame orale dinnanzi alla commissione esaminatrice composta di tutti i docenti della scuola e presieduta dal direttore.
-
-"L'esame comporta il pagamento di una tassa di esame di L. 7.000.
-
-All'iscritto che abbia sostenuto con esito favorevole detto esame sara' rilasciato un diploma di specializzazione in economia aziendale e diritto dell'economia.
-
-Art. 154. - Il diploma di specializzazione e' rilasciato in conformita' alle vigenti disposizioni.
-
-Il diploma ha valore legale e costituisce titolo preferenziale in conformita' a quanto disposto dalla legge.
-
-Il rilascio del diploma comporta il pagamento di una tassa di L. 6.000.
-
-Art. 155. - A tutte le spese necessarie per il funzionamento della scuola, ivi compresi i compensi per il personale docente, si provvedera' con le entrate provenienti dalle tasse degli iscritti, dai contributi di enti pubblici e privati, dalle sovvenzioni governative e da eventuali contributi dell'Universita'.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 28 ottobre 1976
-
-LEONE
-
-MALFATTI
-
-Visto, il Guardasigilli: BONIFACIO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 19 febbraio 1977 Registro n. 18 Istruzione, foglio n. 71
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regi decreti 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-16;1527); [15 aprile 1942, n. 424](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;424); [5 settembre 1942, numero 1235](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1235); [24 ottobre 1942, n. 1596; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1596) [22 ottobre 1946, n. 423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-10-22;423) e modificato ulteriormente con [decreti del Presidente della Repubblica 20 luglio 1948, n. 1160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-07-20;1160); [30 ottobre 1949, n. 994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;994); [30 ottobre 1949, n. 1167](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1167); [30 ottobre 1950, numero 1305](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1305); [11 aprile 1951, n. 564](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;564); [27 ottobre 1951, n. 1793](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1793); [11 febbraio 1952, n. 366](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-02-11;366); [26 ottobre 1952, n 4507](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4507); [10 febbraio 1953, n. 544](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;544); [25 giugno 1953, n. 709](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-06-25;709); [23 marzo 1954, n. 751](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-23;751); [26 ottobre 1954, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-26;1207) e [11 aprile 1955, n. 622](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-04-11;622);  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Catania e convalidati dal Consiglio superiore della pubblica istruzione nei suoi pareri;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-L'art. 27, relative all'esame di laurea in economia e commercio, e' modificato nel senso che la norma contrassegnata con la lettera a) e' abrogata e sostituita dalla seguente:  
-a) nella discussione orale di una dissertazione scritta su tema che rientri in uno degli insegnamenti fondamentali o complementari impartiti nella facolta', esclusi gli insegnamenti delle lingue straniere.  
-Art. 51 - all'elenco degli insegnamenti complementari per il corso di laurea in medicina e chirurgia l'insegnamento complementare di immunopatologia muta denominazione in quella di immunologia clinica.  
-Dopo l'art. 144, con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in economia aziendale e diritto dell'economia presso la facolta' di economia e commercio.  
-  
-Scuola di specializzazione in economia aziendale e diritto dell'economia  
-  
-Art. 145. - E' istituita presso la facolta' di economia e commercio una scuola di specializzazione in economia aziendale e diritto dell'economia. Gli iscritti al corso di specializzazione non possono superare il numero di 100.  
-La scuola, che ha sede presso i locali dell'Universita' si propone la formazione di personale dirigente specializzato per le amministrazioni pubbliche, per le imprese private e per gli istituti di credito.  
-Art. 146. - Il corso di studi avra' la durata di due anni.  
-L'insegnamento sara' svolto mediante lezioni teoriche, conferenze ed esercitazioni pratiche sulle seguenti discipline:  
-1) ragioneria generale ed applicata;  
-2) diritto privato dell'economia;  
-3) scienza delle finanze e diritto tributario;  
-4) diritto pubblico dell'economia;  
-5) tecnica bancaria industriale e commerciale.  
-I corsi saranno svolti secondo un programma unitario concordato, al principio dell'anno accademico, dal consiglio direttivo presieduto dal direttore della scuola.  
-Art. 147. - Gli organi della scuola sono:  
-1) il direttore, nominato per un quadriennio dal consiglio della facolta' di economia e commercio;  
-2) il consiglio direttivo, composto da tre professori nominati dal consiglio della facolta' di economia e commercio tra il personale docente della scuola e da un rappresentante di ciascuno degli enti aderenti.  
-Art. 148. - Il direttore coordina l'attuazione del programma d'insegnamento deliberato dal consiglio direttivo e provvede a tutte quelle funzioni che non siano di competenza del consiglio direttivo della scuola.  
-Art. 149. - Il personale insegnante sara' costituito da almeno tre professori nominati dalla facolta' di economia e commercio. Il direttore puo' integrare il personale docente affidando l'incarico di svolgere conferenze, lezioni integrative o corsi di esercitazioni a magistrati, avvocati, dirigenti di aziende pubbliche o private ed a cultori delle materie d'insegnamento oggetto del corso.  
-Art. 150. - Alla scuola sono ammessi: laureati in scienze economiche e commerciali, in giurisprudenza, in scienze politiche ed in scienze statistiche ed attuariali.  
-Art. 151. - L'iscrizione comporta il pagamento di una tassa annua di L. 20.000.  
-Art. 152. - L'iscritto e' obbligato a frequentare assiduamente i corsi osservando tutte le norme regolamentari, didattiche e disciplinari.  
-Art. 153. - Al termine del corso, l'iscritto dovra' sostenere un esame orale dinnanzi alla commissione esaminatrice composta di tutti i docenti della scuola e presieduta dal direttore.  
-"L'esame comporta il pagamento di una tassa di esame di L. 7.000.  
-All'iscritto che abbia sostenuto con esito favorevole detto esame sara' rilasciato un diploma di specializzazione in economia aziendale e diritto dell'economia.  
-Art. 154. - Il diploma di specializzazione e' rilasciato in conformita' alle vigenti disposizioni.  
-Il diploma ha valore legale e costituisce titolo preferenziale in conformita' a quanto disposto dalla legge.  
-Il rilascio del diploma comporta il pagamento di una tassa di L. 6.000.  
-Art. 155. - A tutte le spese necessarie per il funzionamento della scuola, ivi compresi i compensi per il personale docente, si provvedera' con le entrate provenienti dalle tasse degli iscritti, dai contributi di enti pubblici e privati, dalle sovvenzioni governative e da eventuali contributi dell'Universita'.  
+L'art. 45 e' sostituito dal seguente:  
+"L'esame di laurea in scienze matematiche e' preceduto da una prova di cultura sui concetti fondamentali di analisi matematica, geometria e fisica. Quello per le lauree in fisica ed in matematica e fisica, da una prova, di cultura sui concetti fondamentali di analisi matematica, geometria e fisica, nonche' da una prova pratica in fisica.  
+Per la laurea, in matematica e fisica, se la dissertazione scritta verte su argomento di fisica, due dei temi da discutersi oralmente devono vertere su argomenti di matematica e viceversa.  
+L'esame di laurea in chimica e' preceduto da una prova pratica di analisi qualitativa e di analisi quantitativa, nonche' da una prova di cultura sui concetti fondamentali di chimica generale ed inorganica, chimica organica, chimica analitica e chimica fisica.  
+Sia le prove pratiche, sia le prove di cultura generale, non sono preclusive dell'ammissione all'esame di laurea".  
+Art. 74. - Agli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti quelli di:  
+14) Zoocolture (bachi, api, avi, coniglicoltura);  
+15) Cooperazione agricola (semestrale);  
+16) Fisiopatologia (semestrale).  
+E' soppresso l'insegnamento complementare di "bachicoltura e apicoltura (semestrale).  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1976
+### Dato a Roma, addi' 25 settembre 1955
 
-LEONE MALFATTI
+GRONCHI ROSSI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: MORO
 
-Registrato alla Corte dei conti, addi' 19 febbraio 1977
+Registrato alla Corte dei conti, addi' 25 ottobre 1955
 
-Registro n. 18 Istruzione, foglio n. 71
+Atti del Governo, registro n. 93, foglio n. 86. - CARLOMAGNO

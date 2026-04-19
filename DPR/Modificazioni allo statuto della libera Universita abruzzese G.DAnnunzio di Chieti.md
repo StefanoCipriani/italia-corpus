@@ -1,88 +1,177 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 febbraio 1977 n. 836
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1969 n. 327
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 febbraio 1977 n. 836
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1969 n. 327
+=============================================================
 
 Modificazioni allo statuto della libera Universita' abruzzese "G. 
 D'Annunzio" di Chieti.
 -----------------------------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto della libera Universita' abruzzese degli studi "G. D'Annunzio" di Chieti, approvato con [decreto del Presidente della Repubblica 8 maggio 1965, n. 1007](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-05-08;1007), e modificato con [decreto del Presidente della Repubblica 20 settembre 1966, n. 1291](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-09-20;1291) e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta intesa ad ottenere l'istituzione ed il riconoscimento delle facolta' di scienze politiche e di medicina e chirurgia (limitatamente al primo biennio).
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla
+-----
+
+proposta del Ministro per la pubblica istruzione, di concerto con il Ministro per il tesoro; Decreta:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto della libera Universita' abruzzese "G.  
-D'Annunzio" di Chieti, approvato con [decreto del Presidente della Repubblica 8 maggio 1965, n. 1007](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-05-08;1007) e modificato con [decreto del Presidente della Repubblica 20 settembre 1966, n. 1291](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-09-20;1291), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici della libera Universita' abruzzese "G. D'Annunzio" di Chieti e convalidati dal Consiglio superiore della pubblica istruzione nei suoi pareri;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Presso la libera Universita' abruzzese degli studi "G. D'Annunzio", sono istituite, in aggiunta alle facolta' di lettere e filosofia, di economia e commercio, con annesso corso di lingue e letterature straniere, e di giurisprudenza, le facolta' di scienze politiche (con sede in Teramo) e di medicina e chirurgia - limitata al primo biennio - con sede in Chieti.  
+
+Art. 2
+------
+
   
-Decreta:  
+Per tali facolta' sono istituiti tre posti di professore di ruolo per la facolta' di scienze politiche e tre posti di professore di ruolo per la facolta' di medicina e chirurgia.  
+Sono, inoltre, istituiti tre posti di assistente di ruolo per la facolta' di scienze politiche e quattro posti di assistente di ruolo nella facolta' di medicina e chirurgia.  
+
+Art. 3
+------
+
   
-Lo statuto della libera Universita' abruzzese "G. D'Annunzio" di Chieti, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato come appresso:  
+Lo statuto della libera Universita' abruzzese degli studi "G.  
+D'Annunzio" di Chieti, approvato e modificato con i decreti sopraindicati, nonche' le tabelle A e B, allegate allo statuto stesso, sono ulteriormente modificati come dal testo annesso al presente decreto - vistato dal Ministro per la pubblica istruzione - contenente le norme relative all'ordinamento delle due nuove facolta'.  
   
-Dopo l'art. 37, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di perfezionamento e di specializzazione in diritto sindacale e del lavoro.  
-  
-Scuola di specializzazione e di perfezionamento in diritto sindacale e del lavoro  
-  
-Art. 38. - La scuola di perfezionamento e di specializzazione in diritto sindacale e del lavoro, annessa alla facolta' di giurisprudenza, nei suoi distinti rami ha lo scopo d'integrare la preparazione scientifica dei giovani e di perfezionarli nella disciplina del lavoro e della sicurezza sociale.  
-Art. 39. - La scuola e' retta da un direttore e da un consiglio composto dai professori titolari di cattedra che impartiscono insegnamenti costitutivi della scuola.  
-Direttore ne e' il professore titolare della cattedra di diritto del lavoro della facolta' di giurisprudenza, o, nel caso che manchi il titolare della cattedra medesima, un professore di ruolo nominato dal rettore su proposta della facolta' di giurisprudenza, scelto tra i componenti del consiglio della scuola.  
-Il direttore puo' designare tra i componenti del consiglio un vice direttore che lo coadiuva e lo sostituisce in caso di impedimento.  
-La nomina dei professori destinati agli insegnamenti e' fatta annualmente dal rettore su designazione del consiglio della scuola.  
-Art. 40. - Alla scuola possono essere iscritti soltanto i laureati in giurisprudenza, scienze politiche, economia e commercio, scienze statistiche e demografiche, scienze statistiche ed attuariali.  
-La scuola ha la durata di due anni in ordine agli scopi per i quali e' istituita: corso di perfezionamento e di specializzazione in diritto sindacale e del lavoro.  
-Al termine di essi la scuola rilascia, dopo che i candidati abbiano superato le prove nelle materie fondamentali rispettivamente indicate nell'art. 41 e l'esame di diploma, un diploma di perfezionamento.  
-Art. 41. - Gli insegnamenti fondamentali della scuola sono:  
-1° Anno:  
-diritto del lavoro I;  
-diritto sindacale I;  
-diritto della sicurezza sociale I;  
-diritto processuale del lavoro e della sicurezza sociale;  
-il pubblico impiego;  
-diritto penale del lavoro e della sicurezza sociale;  
-storia del movimento sindacale;  
-diritto comunitario ed internazionale del lavoro e della previdenza sociale, piu' due insegnamenti complementari.  
-2° Anno:  
-diritto del lavoro II;  
-diritto sindacale e del lavoro comparato;  
-diritto sindacale II;  
-diritto della sicurezza sociale II;  
-diritto della sicurezza sociale comparato, piu' due insegnamenti complementari.  
-Insegnamenti complementari:  
-1) storia della grande industria in Italia;  
-2) direzione del personale nell'impresa;  
-3) rapporti di lavoro speciali;  
-4) tecnica della contrattazione collettiva.  
-Questo elenco potra' essere modificato dal consiglio della scuola a maggioranza di voti dei presenti ed approvato dal senato accademico.  
-Art. 42. - Gli incarichi sono conferiti su designazione del consiglio della scuola e con provvedimento del rettore.  
-Art. 43. - L'esame di diploma consiste nella discussione di una memoria originale, su argomento scelto fra le materie fondamentali, preventivamente approvato dal consiglio della scuola, e nella discussione di altri due argomenti approvati anch'essi dal consiglio.  
-Art. 44. - La scuola curera' la stampa di quei lavori degli iscritti che, per deliberazione del consiglio, su relazione del professore della materia, saranno giudicati degni, per valore scientifico, di pubblicazione.  
-Curera' inoltre la pubblicazione dei risultati delle ricerche strettamente scientifiche compiute collettivamente sotto la guida dei docenti e in collaborazione con essi.  
-Art. 45. - La scuola potra' stabilire, su deliberazione del consiglio, rapporti continuativi con enti sindacali ed istituti attinenti alle materie insegnate, al fine di raccogliere gli elementi utili agli insegnamenti per il miglior raggiungimento dei fini di ricerca e di diffusione scientifica ed ai fini della specializzazione professionale degli studenti e di dirigenti sindacali e dei lavoratori.  
-La scuola potra', inoltre, su deliberazione del consiglio, promuovere corsi intensivi di aggiornamento secondo le modalita' stabilite di volta in volta.  
-Art. 46. - Possono nella scuola aprirsi concorsi a premio fra gli iscritti i cui lavori, compiuti in sede di ricerca e di esercitazioni, oppure presentati come dissertazioni di diploma, siano stati dichiarati degni di stampa.  
-Art. 47. - Le tasse e soprattasse per la scuola di specializzazione e di perfezionamento in diritto sindacale e del lavoro sono le seguenti:  
-  
-tassa annuale d'iscrizione. . . . . . . . . . . . . . . L. 20.000 soprattassa annuale per esami di profitto . . . . . . . " 7.000 contributo di riscaldamento . . . . . . . . . . . . . . " 3.000 soprattassa esami di diploma. . . . . . . . . . . . . . " 3.000 tassa di diploma. . . . . . . . . . . . . . . . . . . . " 6.000 tassa annuale studenti fuori corso che chiedono la ricognizione della qualita' di studenti:  
-per i primi due anni. . . . . . . . . . . . . . . . . " 5.000 anni successivi . . . . . . . . . . . . . . . . . . . " 6.500 soprattassa ripetizione esami profitto. . . . . . . . . " 500 soprattassa ripetizione esami diploma . . . . . . . . . " 1.000   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 febbraio 1977
+### Dato a Roma, addi' 19 giugno 1969
 
-LEONE MALFATTI
+SARAGAT FERRARI AGGRADI - COLOMBO
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 16 novembre 1977
+Registrato alla Corte dei conti, addi' 3 luglio 1969
 
-Registro n. 126 Istruzione, foglio n. 341
+Atti del Governo, registro n. 227, foglio n. 109. - GRECO
+
+Allegato
+
+Testo delle modifiche allo statuto della libera Universita' abruzzese "G. D'Annunzio" di Chieti, relative alla istituzione delle facolta' di scienze politiche e di medicina e chirurgia (limitata al primo biennio).   
+  
+Art. 1. - Il secondo comma e' abrogato e sostituito dal seguente: "Essa e' costituita dalle facolta' di lettere e filosofia, di economia e commercio, con annesso corso di laurea in lingue e letterature straniere, e di medicina e chirurgia - limitata al primo biennio - aventi sede nel territorio del comune di Chieti - localita' Madonna delle Piane -, e delle facolta' di giurisprudenza e di scienze politiche in Teramo".   
+Dopo l'art. 34 e con il conseguente spostamento della successiva numerazione, sono aggiunti i seguenti nuovi articoli, relativi all'ordinamento delle facolta' di scienze politiche e di medicina e chirurgia.   
+  
+Facolta' di scienze politiche   
+  
+Art. 35. - Sono titoli di ammissione alla facolta' di scienze politiche il diploma di maturita' classica o quello di maturita' scientifica.   
+Art. 36. - La durata del corso degli studi per il conseguimento della laurea in scienze politiche e' di quattro anni.   
+Il corso di studi comprende un biennio propedeutico ed un successivo biennio di specializzazione, ordinato nei seguenti indirizzi: politico amministrativo e politico economico.   
+Art. 37. - Il biennio propedeutico comprende i seguenti insegnamenti obbligatori:   
+Istituzioni di diritto privato   
+Istituzioni di diritto pubblico   
+Economia politica   
+Storia moderna   
+Statistica   
+Sociologia   
+Storia delle dottrine politiche   
+Storia contemporanea   
+Diritto costituzionale italiano e comparato.   
+Le istituzioni di diritto pubblico sono propedeutiche al diritto costituzionale italiano e comparato.   
+Art. 38. - Il biennio di specializzazione per l'indirizzo politico amministrativo comprende le seguenti materie di insegnamento:   
+Diritto amministrativo   
+Scienza dell'amministrazione   
+Contabilita' dello Stato e degli enti pubblici   
+Diritto finanziario   
+Diritto internazionale   
+Diritto del lavoro   
+Legislazione sociale   
+Istituzioni di diritto e procedura penale   
+Politica economica e finanziaria   
+Diritto degli enti locali   
+Diritto processuale amministrativo   
+Organizzazione internazionale   
+Dottrina dello Stato   
+Storia dei partiti e dei movimenti politici   
+Diritto ecclesiastico.   
+Di tali materie sono obbligatorie: 1) Diritto amministrativo; 2) Organizzazione internazionale; 3) Dottrina dello Stato; 4) Contabilita' dello Stato e degli enti pubblici. Altre sei materie saranno scelte dallo studente nell'ambito dei restanti insegnamenti sopra elencati.   
+Art. 39. - Il biennio di specializzazione per l'indirizzo politico-economico comprende le seguenti materie di insegnamento:   
+Geografia politica ed economica   
+Politica economica e finanziaria   
+Diritto delle comunita' europee   
+Contabilita' dello Stato e degli enti pubblici   
+Diritto commerciale   
+Storia delle dottrine economiche   
+Scienza delle finanze   
+Statistica per la ricerca economica   
+Organizzazione finanziaria-internazionale   
+Econometria   
+Programmazione economica   
+Storia e istituzioni dei paesi afroasiatici   
+Diritto dei trasporti internazionali   
+Sociologia economica   
+Diritto pubblico dell'economia.   
+Di tali materie sono obbligatorie: 1) Politica economica e finanziaria; 2) Contabilita' dello Stato e degli enti pubblici; 3) Diritto commerciale; 4) Storia delle dottrine economiche. Altre sei materie saranno scelte dallo studente nell'ambito dei restanti insegnamenti sopra elencati.   
+Art. 40. - Il corso degli studi, per entrambi gli indirizzi, comprende altresi' gli insegnamenti biennali di lingua francese e di lingua inglese.   
+Art. 41. - E' data facolta' allo studente di aggiungere ai nove insegnamenti del biennio propedeutico non piu' di tre insegnamenti obbligatori del biennio di specializzazione dell'indirizzo prescelto.   
+Tali insegnamenti anticipati al biennio propedeutico vanno in detrazione del numero degli insegnamenti del biennio di specializzazione.   
+Non e' data facolta' di anticipare al biennio propedeutico gli insegnamenti del biennio di specializzazione rimessi alla scelta dello studente.   
+Art. 42. - Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superati gli esami relativi ad almeno diciannove materie di insegnamento (annuali) oltre quelli relativi alle due lingue straniere.   
+  
+Facolta' di medicina e chirurgia   
+(limitata al I biennio)   
+  
+Art. 43. - Sono titoli di ammissione alla facolta' di medicina e chirurgia il diploma di maturita' classica o il diploma di maturita' scientifica.   
+Art. 44. - Gli insegnamenti del biennio sono i seguenti:   
+Insegnamenti fondamentali:   
+1) Chimica;   
+2) Fisica;   
+3) Biologia e zoologia generale comprese la genetica e la biologia delle razze;   
+4) Anatomia umana normale (biennale);   
+5) Fisiologia umana I (biennale);   
+6) Patologia generale I (biennale);   
+7) Chimica biologica;   
+8) Microbiologia.   
+Sono insegnamenti complementari:   
+1) Istologia ed embriologia generale;   
+2) Anatomia topografica;   
+3) Istochimica;   
+4) Parassitologia;   
+5) Virologia.   
+Le esercitazioni pratiche nelle discipline fondamentali sono obbligatorie per tutti gli studenti.   
+Le esercitazioni per le discipline complementari sono obbligatorie invece solo per gli studenti che seguono i corsi relativi.   
+Per gli insegnamenti complementari e' prescritto un corso semestrale, essi vengono ripartiti nei vari anni di corso con il manifesto degli studi.   
+Lo studente puo' ottenere il trasferimento ad altra universita' se ha frequentato gli insegnamenti fondamentali previsti per il I biennio e ha superato i relativi esami. Il trasferimento puo', tuttavia, essere concesso se lo studente si trovi in difetto di due soli esami.   
+  
+Visto, d'ordine del Presidente della Repubblica   
+  
+Il Ministro per la pubblica istruzione   
+FERRARI AGGRADI   
+  
+  
+  
+TABELLA A   
+Posti di ruolo dei professori  
+  
+Facolta' di lettere e filosofia. . . . . . . . . . . . . . . . . n. 6 Facolta' di economia e commercio . . . . . . . . . . . . . . . . " 7 Facolta' di giurisprudenza . . . . . . . . . . . . . . . . . . . " 6 Facolta' di scienze politiche. . . . . . . . . . . . . . . . . . " 3 Facolta' di medicina e chirurgia . . . . . . . . . . . . . . . . " 3 (limitata al 1° biennio).  
+  
+TABELLA B Posti di ruolo degli assistenti  
+  
+Facolta' di lettere e filosofia. . . . . . . . . . . . . . . . . n. 6 Facolta' di economia e commercio . . . . . . . . . . . . . . . . " 6 Facolta' di giurisprudenza . . . . . . . . . . . . . . . . . . . " 6 Facolta' di scienze politiche. . . . . . . . . . . . . . . . . . " 3 Facolta' di medicina e chirurgia . . . . . . . . . . . . . . . . " 4 (limitata al 1° biennio).  
+  
+  
+Visto, d'ordine del Presidente della Repubblica   
+  
+Il Ministro per la pubblica istruzione   
+FERRARI AGGRADI   

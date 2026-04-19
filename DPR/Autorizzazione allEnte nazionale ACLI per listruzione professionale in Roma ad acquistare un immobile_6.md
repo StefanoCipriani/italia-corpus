@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 dicembre 1975 n. 949
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1979 n. 602
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 dicembre 1975 n. 949
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1979 n. 602
+=============================================================
 
 Autorizzazione all'Ente nazionale ACLI per l'istruzione professionale, in Roma, ad acquistare un immobile.
 ----------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-949. Decreto del Presidente della Repubblica 9 dicembre 1975, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Ente nazionale ACLI per l'istruzione professionale (ENAIP), in Roma, viene autorizzato ad acquistare dall'"Ospedale infermi Rimini" il fondo rustico denominato "S. Aquilina I", in Rimini (Forli), localita' S. Aquilina, via Vecchio Mulino, 84, distinto al catasto terreni alla partita 1995, sotto la ditta "Ospedale di Rimini" amministrato dalla "Congregazione della carita'", foglio 160, particelle numeri 19, 22, 23, 27, 32, 25, 130, della superficie catastale complessiva di ha 14.4688, confinante con strada comunale S. Aquilina, Rio Budriala, vicinale Burgazzano, salvo altri, al prezzo globale di L. 34.950.000 comprensivo della somma di L. 3.450.000 che la parte acquirente si obbliga ad erogare al signor Pasquale Celli gia' affittuario del fondo rustico predetto a titolo di indennizzo e corrispettivo per la rinuncia al diritto di prelazione derivantigli per la rescissione anticipata del contratto di affitto e a saldo delle scorte aziendali giacenti, immobile destinato alla costruzione di un centro residenziale agricolo.  
+602. Decreto del Presidente della Repubblica 4 giugno 1979, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Ente nazionale ACLI per l'istruzione professionale (ENAIP), in Roma, viene autorizzato ad acquistare, al prezzo di lire 25.000.000, un immobile di proprieta' del sig. Villier Martini, in comune di Ceneselli (Rovigo), consistente in un appezzamento di terreno con sovrastante casa di abitazione e capannone costituenti la parte rilevante del complesso immobiliare gia' di proprieta' del Consorzio nazionale produttori canapa, iscritto al nuovo catasto terreni a pag. 1912 distinto mappale n. 309 B (ora 373) del foglio 27, superficie mq 2655 (salvo migliore descrizione), confinante ad est con strada statale n. 482, e da tutti gli altri lati ragioni del venditore, come da contratto condizionato di compravendita redatto in scrittura privata autenticata dal notaio Giuseppe Intersimone di Roma in data 1 aprile 1977, n. 126468 di repertorio, n. 29519 di raccolta.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 3 aprile 1976  
-Atti di Governo, registro n. 4, foglio n. 56
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti, addi' 7 novembre 1979  
+Registro n. 1 Lavoro, foglio n. 82

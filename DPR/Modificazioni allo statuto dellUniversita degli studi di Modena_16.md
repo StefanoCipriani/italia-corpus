@@ -1,211 +1,196 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 marzo 1962 n. 267
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1974 n. 720
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 marzo 1962 n. 267
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1974 n. 720
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Modena.
 ------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035), e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 139 - all'elenco degli insegnamenti del terzo anno di corso della scuola di specializzazione in oncologia e' aggiunto quello di "Radiologia (diagnostica e terapia dei tumori)".
+
+Dopo l'art. 212, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chirurgia della mano.
+
+Scuola di specializzazione in chirurgia della mano
+
+Art. 213. - La scuola di specializzazione in chirurgia della mano ha sede presso l'istituto di clinica ortopedica e conferisce il diploma di specialista in chirurgia della mano.
+
+Art. 214. - Il corso ha la durata di tre anni. Possono essere ammessi alla scuola i laureati in medicina e chirurgia.
+
+Art. 215. - Il numero di posti disponibili e' di cinque per ogni anno.
+
+Art. 216. - La frequenza e' obbligatoria nell'istituto sede della scuola per un periodo di nove mesi per ogni anno accademico.
+
+Per nessun motivo sono ammesse abbreviazioni della durata degli studi.
+
+Art. 217. - Gli insegnamenti impartiti dalla scuola sono:
+
+1° Anno:
+
+Clinica ortopedica dell'arto superiore (biennale 1° anno);
+
+Traumatologia dell'arto superiore (biennale 1° anno);
+
+Chirurgia plastica ricostruttiva (biennale 1° anno);
+
+Anatomia funzionale della mano;
+
+Anatomia chirurgica dell'arto superiore;
+
+Anatomia e istologia patologica;
+
+Radiodiagnostica dell'arto superiore e nozioni di radioterapia;
+
+Anestesiologia e rianimazione.
+
+2° Anno:
+
+Clinica ortopedica dell'arto superiore (biennale 2° anno);
+
+Traumatologia dell'arto superiore (biennale 2° anno);
+
+Chirurgia plastica ricostruttiva (biennale 2° anno);
+
+Tecniche di chirurgia tendinea;
+
+Tecniche di chirurgia osteo-articolare;
+
+Chirurgia vascolare dell'arto superiore.
+
+3° Anno:
+
+Semeiotica e clinica neurologica dell'arto superiore;
+
+Elettrodiagnostica ed elettromiografia;
+
+Microchirurgia dei nervi periferici;
+
+Fisiochinesiterapia;
+
+Clinica dermatologica;
+
+Nozioni di medicina legale;
+
+Nozioni di psicologia;
+
+Protesi sostitutive nelle amputazioni dell'arto superiore.
+
+Art. 218. - L'allievo del primo anno, per essere ammesso al secondo, deve aver superato tutti gli esami del primo anno.
+
+L'allievo del secondo anno, per essere ammesso al terzo, deve aver superato i tre esami biennali e tutti gli altri esami del secondo anno.
+
+Per l'ammissione all'esame di diploma il candidato deve presentare una dissertazione scritta su un argomento della specialita'.
+
+Art. 219. - I fondi a disposizione della scuola sono rappresentati dagli introiti delle tasse di iscrizione e di laboratorio, dalle sovvenzioni di enti o di privati, di cui principalmente la clinica ortopedica e traumatologica.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 9 aprile 1974
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: ZAGARI
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 22 gennaio 1975 Atti di Governo, registro n. 7, foglio n. 122
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita', degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035), e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Veduto il [decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53);  
-Veduto il [decreto del Presidente della Repubblica 26 luglio 1960, n. 1692](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-07-26;1692);  
-Veduta la [legge 21 luglio 1961, n. 685](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-21;685);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione Sulla proposta del Ministro per la pubblica istruzione;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato come appresso:  
-  
-L'art. 46 e' abrogato e sostituito dal seguente:  
-Art. 46. - La Facolta' di scienze matematiche, fisiche e naturali conferisce:  
-a) la laurea in Matematica;  
-b) la laurea in Fisica;  
-c) la laurea in Chimica;  
-d) la laurea in Scienze naturali;  
-e) la laurea in Scienze geologiche;  
-f) la laurea in Scienze biologiche.  
-E' annesso alla Facolta' il biennio di studi propedeutici per le lauree in ingegneria.  
-  
-L'art. 47, relativo al corso di studi per la laurea in Scienze matematiche e' abrogato e sostituito dal seguente:  
-Art. 47. - La durata del corso degli studi per la laurea in Matematica e' di quattro anni.  
-E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica. Possono inoltre essere ammessi i diplomati dagli Istituti tecnici industriali, agrari, nautici e per geometri ai sensi delle vigenti disposizioni di legge.  
-Il corso di studi si distingue in due indirizzi: generale, didattico.  
-Sono insegnamenti fondamentali comuni a tutti gli indirizzi i seguenti:  
+Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 139 - all'elenco degli insegnamenti del terzo anno di corso della scuola di specializzazione in oncologia e' aggiunto quello di "Radiologia (diagnostica e terapia dei tumori)".  
+Dopo l'art. 212, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chirurgia della mano.  
+Scuola di specializzazione in chirurgia della mano  
+Art. 213. - La scuola di specializzazione in chirurgia della mano ha sede presso l'istituto di clinica ortopedica e conferisce il diploma di specialista in chirurgia della mano.  
+Art. 214. - Il corso ha la durata di tre anni. Possono essere ammessi alla scuola i laureati in medicina e chirurgia.  
+Art. 215. - Il numero di posti disponibili e' di cinque per ogni anno.  
+Art. 216. - La frequenza e' obbligatoria nell'istituto sede della scuola per un periodo di nove mesi per ogni anno accademico.  
+Per nessun motivo sono ammesse abbreviazioni della durata degli studi.  
+Art. 217. - Gli insegnamenti impartiti dalla scuola sono:  
   
 1° Anno:  
-1) Analisi matematica I;  
-2) Geometria I;  
-3) Algebra;  
-4) Fisica generale I.  
+Clinica ortopedica dell'arto superiore (biennale 1° anno);  
+Traumatologia dell'arto superiore (biennale 1° anno);  
+Chirurgia plastica ricostruttiva (biennale 1° anno);  
+Anatomia funzionale della mano;  
+Anatomia chirurgica dell'arto superiore;  
+Anatomia e istologia patologica;  
+Radiodiagnostica dell'arto superiore e nozioni di radioterapia;  
+Anestesiologia e rianimazione.  
   
 2° Anno:  
-1) Analisi matematica II;  
-2) Geometria II;  
-3) Meccanica razionale;  
-4) Fisica generale II.  
+Clinica ortopedica dell'arto superiore (biennale 2° anno);  
+Traumatologia dell'arto superiore (biennale 2° anno);  
+Chirurgia plastica ricostruttiva (biennale 2° anno);  
+Tecniche di chirurgia tendinea;  
+Tecniche di chirurgia osteo-articolare;  
+Chirurgia vascolare dell'arto superiore.  
   
 3° Anno:  
-1) Istituzioni di analisi superiore;  
-2) Istituzioni di geometria superiore;  
-3) Istituzioni di fisica matematica.  
+Semeiotica e clinica neurologica dell'arto superiore;  
+Elettrodiagnostica ed elettromiografia;  
+Microchirurgia dei nervi periferici;  
+Fisiochinesiterapia;  
+Clinica dermatologica;  
+Nozioni di medicina legale;  
+Nozioni di psicologia;  
+Protesi sostitutive nelle amputazioni dell'arto superiore.  
   
-Per l'indirizzo generale sono insegnamenti fondamentali del 4° anno i seguenti:  
-1) Analisi superiore;  
-2) Geometria superiore.  
-  
-Per l'indirizzo didattico sono insegnamenti fondamentali anche i seguenti, di cui uno dovra' essere seguito al 3° anno e l'altro al 4°:  
-1) Matematiche complementari;  
-2) Matematiche elementari da un punto di vista superiore.  
-Gli otto insegnamenti fondamentali dei primi due anni di corso sono accompagnati ciascuno da un corso di esercitazioni che ne e' parte integrante.  
-Nel piano di studi, che verra' pubblicato anno per anno, la Facolta' si riserva la possibilita' di sostituire l'insegnamento di "Istituzioni di analisi superiore" ovvero quello di "Istituzioni di fisica matematica" con quello di "Metodi matematici della fisica" del corso di laurea in Fisica.  
-Sono insegnamenti complementari comuni a tutti gli indirizzi, da seguire nel secondo biennio, i seguenti (sono contrassegnati con asterisco quelli ad indirizzo fisico):  
-1) Astronomia;  
-2) Calcolo delle probabilita';  
-3) Chimica generale e inorganica con elementi di organica;  
-4) \* Complementi di fisica generale;  
-5) \* Fisica matematica;  
-6) \* Fisica superiore;  
-7) \* Fisica teorica;  
-8) Geodesia;  
-9) Geometria differenziata;  
-10) \* Istituzioni di fisica teorica;  
-11) Meccanica superiore;  
-12) Metodi matematici della fisica;  
-13) Teoria delle funzioni;  
-14) Topologia.  
-  
-Per l'indirizzo generale sono insegnamenti complementari anche i seguenti:  
-15) Matematiche complementari;  
-16) Matematiche elementari da un punto di vista superiore.  
-  
-Per l'indirizzo didattico sono insegnamenti complementari anche i seguenti:  
-15) Analisi superiore;  
-16) Geometria superiore.  
-I corsi di "Analisi matematica", "Geometria", "Fisica generale" comportano due esami distinti, il primo propedeutico al secondo.  
-Potranno essere iscritti al 2° anno soltanto quegli studenti che abbiano superato almeno due degli esami di "Analisi matematica I" "Geometria", "Algebra".  
-Per essere ammesso all'esame di laurea lo studente dovra' avere seguiti i corsi e superato gli esami in tutti gli insegnamenti fondamentali prescritti per l'indirizzo prescelto e in almeno due da lui scelti fra i complementari, dei quali uno almeno dovra' essere ad indirizzo fisico.  
-Per l'indirizzo generale uno degli insegnamenti complementari deve essere seguito al 3° anno.  
-L'esame di laurea comprende un lavoro scritto, il quale per la laurea con indirizzo generale dovra' essere una ricerca originale.  
-L'esame di laurea comprende inoltre la discussione di due tesine orali.  
-Superato l'esame di laurea, lo studente consegue il titolo di dottore in matematica, indipendentemente dall'indirizzo prescelto del quale verra' fatta menzione soltanto nella carriera scolastica.  
-  
-L'art. 48 relativo al corso di studi per la laurea in Fisica e' abrogato e sostituito dal seguente:  
-Art. 48. - La durata del corso di studi per la laurea in Fisica e' di quattro anni.  
-E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.  
-Possono inoltre essere ammessi i diplomati degli Istituti tecnici industriali, agrari, nautici e per geometri ai sensi delle vigenti disposizioni di legge.  
-Il corso di studi si distingue in tre indirizzi: generale, didattico, applicativo.  
-Sono insegnamenti fondamentali comuni a tutti gli indirizzi per il primo biennio i seguenti:  
-1) Fisica generale I;  
-2) Fisica generale II;  
-3) Analisi matematica I;  
-4) Analisi matematica II;  
-5) Geometria I;  
-6) Meccanica, razionale;  
-7) Chimica con esercitazioni di laboratorio (per fisici);  
-8) Esperimentazioni di fisica (biennale).  
-I corsi di "Fisica generale I e II", "Analisi matematica I e II" comportano due esami distinti, il primo propedeutico al secondo.  
-I corsi n. 1), 2), 3), 4), 5), 6), sono accompagnati da esercitazioni (non di laboratorio) che ne fanno parte integrante. I corsi n. 7) e 8) devono portare i singoli studenti a sperimentare con le proprie mani.  
-Alla fine del primo biennio si richiede la prova di conoscenza di due lingue straniere, riconosciute a giudizio della Facolta' di importanza scientifica, di fronte a una Commissione nominata dalla Facolta'.  
-Per il secondo biennio sono obbligatori gli insegnamenti seguenti:  
-a) Corsi comuni ai tre indirizzi:  
-1) Struttura della materia;  
-2) Istituzioni di fisica teorica;  
-3) Metodi matematici della fisica.  
-b) Corsi per l'indirizzo didattico:  
-4), 5) Complementi di fisica generale (biennale);  
-6), 7) Preparazione di esperienze didattiche (biennale);  
-8), 9) Corsi a scelta.  
-c) Corsi per l'indirizzo applicativo:  
-4), 5) Laboratorio di fisica (biennale);  
-6), 7), 8), 9) Corsi a scelta.  
-d) Corsi per l'indirizzo generale:  
-4) Fisica superiore;  
-5) Fisica teorica;  
-6), 7) Laboratorio di fisica (biennale);  
-8) Corso a scelta di matematiche superiori;  
-9) Corso a scelta.  
-I corsi a)-1, a)-2, a)-3, b)-4, b)-5, d)-4, d)-5, possono essere accompagnati da esercitazioni che ne fanno parte integrante. Gli insegnamenti biennali del secondo biennio comportano ciascuno un solo esame e alla fine del biennio.  
-Per ciascuno degli insegnamenti precedentemente elencati del primo e secondo biennio, lo studente deve sostenere un esame di profitto.  
-Sono insegnamenti complementari (da cui potranno essere prescelti quelli a scelta dello studente):  
-1) Istituzioni di analisi superiore;  
-2) Astronomia;  
-3) Calcolo delle probabilita';  
-4) Chimica fisica;  
-5) Chimica organica;  
-6) Chimica teorica;  
-7) Elettrotecnica;  
-8) Elettronica;  
-9) Istituzioni di fisica matematica;  
-10) Fisica nucleare;  
-11) Fisica superiore;  
-12) Fisica tecnica;  
-13) Fisica teorica;  
-14) Fisica terrestre (geofisica);  
-15) Geodesia;  
-16) Geologia;  
-17) Geometria differenziale;  
-18) Istituzioni di geometria superiore;  
-19) Matematiche complementari;  
-20) Meccanica superiore;  
-21) Mineralogia;  
-22) Misure elettriche;  
-23) Spettroscopia;  
-24) Teoria delle funzioni.  
-Potranno iscriversi ai corsi comuni ai tre indirizzi del secondo biennio soltanto gli studenti che abbiano superato gli esami di Fisica generale I e II, e Analisi matematica I e II.  
-L'esame di laurea deve consistere nella discussione di una tesi scritta, alla quale non si richiede necessariamente il carattere di ricerca originale, e nell'esposizione e nel commento di una memoria della letteratura scientifica.  
-L'esame di laurea sara' preceduto da un esame di cultura generale in Fisica. Superato l'esame di laurea, lo studente consegue il titolo di dottore in Fisica, indipendentemente dall'indirizzo prescelto, dal quale verra' fatta menzione soltanto nella carriera scolastica.  
-L'art. 49, relativo al corso degli studi per la laurea in Matematica e Fisica, e' soppresso con il conseguente spostamento della numerazione degli articoli successivi.  
-L'art. 55 relativo al biennio di studi propedeutici per le lauree in Ingegneria e' abrogato e sostituito dal seguente:  
-Art. 55. - E' titolo di ammissione al biennio di studi propedeutici per la laurea in Ingegneria il diploma di maturita' classica o di maturita' scientifica. Possono, inoltre, essere ammessi i diplomati degli Istituti tecnici industriali, nautici e per geometri ai sensi delle vigenti disposizioni di legge.  
-Sono insegnamenti fondamentali:  
-1° Anno:  
-1) Analisi matematica I;  
-2) Geometria I;  
-3) Fisica I;  
-4) Chimica;  
-5) Disegno.  
-2° Anno:  
-6) Analisi matematica II;  
-7) Geometria II;  
-8) Meccanica razionale;  
-9) Fisica II.  
-All'atto dell'iscrizione al 2° anno, lo studente deve dichiarare a quale corso di laurea in ingegneria egli intenda iscriversi (la scelta e' impegnativa e non puo' subire variazioni durante l'anno) ed eventualmente, in rapporto con la prosecuzione dei suoi studi, potra' chiedere alla Facolta' di sostituire l'insegnamento della Geometria II con:  
-A) Litologia e geologia per il corso di laurea in Ingegneria civile;  
-B) Chimica organica, per il corso di laurea in Ingegneria chimica;  
-C) Mineralogia, per il corso di laurea in Ingegneria mineraria  
-D) Disegno II, per qualsiasi altro corso di laurea in Ingegneria.  
-Sono insegnamenti fondamentali aggiunti, quando non siano sostitutivi della Geometria II:  
-A) Disegno II, Litologia e geologia, per il corso di laurea in Ingegneria civile;  
-B) Disegno II, Chimica organica, per il corso di laurea in Ingegneria chimica;  
-C) Disegno II, Mineralogia, per il corso di laurea in Ingegneria mineraria  
-D) Disegno II, Fisica nucleare, per il corso di laurea in Ingegneria nucleare;  
-E) Disegno II, Tecnologie generali dei materiali, per qualsiasi altro corso di laurea in Ingegneria.  
-Per essere ammesso al secondo anno di corso, lo studente deve aver superati almeno due dei quattro esami seguenti: Analisi matematica I, Fisica I, Chimica, Geometria I.  
-Per aver titolo di ammissione al 3° anno presso una qualunque Facolta' di ingegneria, lo studente dovra' aver superato tutti gli esami fondamentali del biennio propedeutico ad eccezione degli insegnamenti aggiunti, ma incluso quello dell'insegnamento che eventualmente sostituisca la Geometria II.  
-I due esami di Fisica comprendono la parte riguardante le relative esercitazioni. Il Disegno II e' differenziato secondo i corsi di laurea.  
+Art. 218. - L'allievo del primo anno, per essere ammesso al secondo, deve aver superato tutti gli esami del primo anno.  
+L'allievo del secondo anno, per essere ammesso al terzo, deve aver superato i tre esami biennali e tutti gli altri esami del secondo anno.  
+Per l'ammissione all'esame di diploma il candidato deve presentare una dissertazione scritta su un argomento della specialita'.  
+Art. 219. - I fondi a disposizione della scuola sono rappresentati dagli introiti delle tasse di iscrizione e di laboratorio, dalle sovvenzioni di enti o di privati, di cui principalmente la clinica ortopedica e traumatologica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 marzo 1962
+### Dato a Roma, addi' 9 aprile 1974
 
-GRONCHI GUI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 21 maggio 1362
+Registrato alla Corte dei conti, addi' 22 gennaio 1975
 
-Atti del Governo, registro n. 147, foglio n. 8. - VILLA
+Atti di Governo, registro n. 7, foglio n. 122

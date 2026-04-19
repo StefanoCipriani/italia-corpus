@@ -1,366 +1,134 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1971 n. 931
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1051
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1971 n. 931
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1051
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-L'art. 122 relativo all'elenco delle scuole di specializzazione annesso alla facolta' di medicina e chirurgia, e' modificato nel senso che la scuola in "Chirurgia generale e terapia chirurgica" muta la denominazione in quella di "Chirurgia".
-
-L'art. 136 relativo alle norme generali per le scuole di specializzazione in medicina e chirurgia e' abrogato e sostituito dal seguente:
-
-Art. 136. - Le tasse e soprattasse da pagarsi dagli iscritti alle scuole di specializzazione e di perfezionamento sono quelle medesime stabilite dalla legge per gli iscritti al corso di laurea in medicina e chirurgia e cioe':
-
-Tassa di iscrizione . . . . . . . . . . . . . . . . . . . L. 18.000 Contributo assistenziale . . . . . . . . . . . . . . . . . L. 1.000 Soprattassa esami. . . . . . . . . . . . . . . . . . . . . L. 7.000 Contributo riscaldamento . . . . . . . . . . . . . . . . . L. 9.500 Contributo unificato . . . . . . . . . . . . . . . . . . . L. 4.000 Tassa di immatricolazione. . . . . . . . . . . . . . . . . L. 5.000
-
-Totale . . . L. 44.500
-
-L'ammontare dei contributi viene stabilito dal consiglio di amministrazione su proposta del senato accademico, udite le facolta' e le scuole. La tassa di diploma e' fissata in L. 6000 a norma dell'art. 7 della legge. 18 dicembre 1951, n. 1551.
-
-Gli assistenti di ruolo, incaricati, straordinari della facolta' e gli assistenti volontari dell'istituto della materia per cui viene chiesta l'iscrizione al corso di specializzazione, i quali ottenessero abbreviazioni di corso, saranno dispensati dal pagamento delle tasse e dei contributi per gli anni di abbreviazione e dovranno solo corrispondere, per gli anni accademici che dovranno seguire per conseguire il diploma, la meta' del contributo clinico.
-
-Gli articoli 213, 214, 215, 216, 217, 218 e 219 relativi alla scuola di specializzazione in chirurgia generale e terapia chirurgica, che assume la denominazione di scuola di specializzazione in chirurgia, sono abrogati e sostituiti dai seguenti:
-
-Scuola di specializzazione in chirurgia
-
-Art. 213. - Presso l'istituto di clinica chirurgica generale e' istituita la scuola di specializzazione in chirurgia.
-
-Direttore della scuola e' il direttore dell'istituto di clinica chirurgica generale.
-
-La scuola di specializzazione in chirurgia conferisce il diploma di specialista in chirurgia.
-
-Alla scuola possono iscriversi soltanto i laureati in medicina e chirurgia.
-
-Art. 214. - Gli anni necessari per il conseguimento del diploma sono cinque.
-
-Il numero massimo complessivo degli iscritti e' di 25 per tutti i cinque anni di corso.
-
-La selezione dei candidati aspiranti all'ammissione alla scuola avverra' sulla base di titoli ed esami.
-
-Non sono consentite iscrizioni con abbreviazioni di corso.
-
-Art. 215. - Le materie del corso sono le seguenti:
-
-1) Anatomia chirurgica e corso di operazioni (triennale;
-
-2) Anatomia e istologia patologica (biennale);
-
-3) Anestesia e rianimazione;
-
-4) Chirurgia cardiovascolare;
-
-5) Chirurgia d'urgenza;
-
-6) Chirurgia ginecologica;
-
-7) Chirurgia pediatrica;
-
-8) Chirurgia riparativa e plastica;
-
-9) Chirurgia sperimentale;
-
-10) Chirurgia toracica;
-
-11) Chirurgia urologica;
-
-12) Clinica chirurgica generale (quinquennale);
-
-13) Fisiopatologia chirurgica;
-
-14) Medicina legale;
-
-15) Neurochirurgia;
-
-16) Patologia speciale chirurgica (triennale);
-
-17) Radiologia;
-
-18) Ricerche di laboratorio;
-
-19) Semeiotica chirurgica (biennale);
-
-20) Semeiotica strumentale ed endoscopia;
-
-21) Trattamento pre e post-operatorio;
-
-22) Traumatologia ed ortopedia.
-
-Le materie sopraelencate sono cosi' distribuite:
-
-1° Anno:
-
-Clinica chirurgica generale;
-
-Patologia speciale chirurgica;
-
-Semeiotica chirurgica;
-
-Anatomia chirurgica e corso di operazione;
-
-Chirurgia sperimentale;
-
-Anestesia e rianimazione;
-
-Ricerche di laboratorio.
-
-2° Anno:
-
-Clinica chirurgica generale;
-
-Patologia speciale chirurgica;
-
-Semeiotica chirurgica;
-
-Anatomia, chirurgica e corso di operazione;
-
-Fisiopatologia chirurgica;
-
-Trattamento pre e post-operatorio;
-
-Anatomia e istologia patologica.
-
-3° Anno:
-
-Clinica chirurgica generale;
-
-Patologia speciale chirurgica;
-
-Semeiotica strumentale ed endoscopia;
-
-Anatomia chirurgica e corso di operazioni;
-
-Radiologia;
-
-Anatomia e istologia patologica.
-
-4° Anno:
-
-Clinica chirurgica generale;
-
-Chirurgia ginecologica;
-
-Chirurgia urologica;
-
-Neurochirurgia;
-
-Traumatologia e ortopedia;
-
-Chirurgia pediatrica.
-
-5° Anno:
-
-Clinica chirurgica generale;
-
-Chirurgia toracica;
-
-Chirurgia cardiovascolare;
-
-Chirurgia riparativa e plastica;
-
-Chirurgia d'urgenza;
-
-Medicina legale.
-
-I corsi dovranno essere corredati da esercitazioni pratiche.
-
-Art. 216. - Le norme di iscrizione, esami, pagamento tasse e tutte le altre norme generali sono quelle comprese negli articoli da 122 a 137 dello statuto di questa universita'.
-
-Art. 217. - La frequenza alle lezioni ed alle esercitazioni e' obbligatoria per tutti gli iscritti.
-
-L'internato e' obbligatorio durante tutti i cinque anni del corso e si svolgera' presso la clinica chirurgica sotto forma di permanenza costante nella detta clinica durante le ore della sua attivita', con presenza giornaliera agli ambulatori ed ai reparti di degenza.
-
-Dall'obbligo di tale internato saranno esenti quegli allievi che, in qualita' di assistenti e di aiuti, prestino effettivamente servizio presso reparti di chirurgia generale delle universita' e di ospedali di I e II categoria.
-
-Art. 218. - Gli allievi hanno doveri ed attribuzioni analoghi a quelli degli assistenti. Gli specializzandi, che abbiano completato il primo triennio e superato i relativi esami, potranno essere chiamati a prestare servizio presso il reparto operatorio.
-
-Per i corsi che non siano della clinica chirurgica generale, possono essere stabiliti, su parere del direttore della scuola, periodi di continuativa frequenza presso i relativi reparti specialistici, qualora esistano quali reparti indipendenti.
-
-Art. 219. - Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico dell'operosita' scolastica degli allievi, con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno.
-
-L'allievo che non abbia ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali.
-
-Alla fine del corso l'allievo, inoltre, dovra' sostenere un esame generale di profitto.
-
-L'esame di diploma consistera' nella discussione di una tesi scritta su argomenti di chirurgia generale.
-
-Agli iscritti alla scuola che avranno superato gli esami prescritti sara' rilasciato un diploma di specialista in chirurgia valido a tutti gli effetti di legge.
-
-L'art. 237 relativo alla scuola di specializzazione in igiene e medicina preventiva riordinata con [decreto del Presidente della Repubblica 18 maggio 1970, n. 680](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-05-18;680), e' integrato con il seguente comma:
-
-Art. 237. - I medici che abbiano gia' conseguito la specializzazione con un determinato orientamento e chiedano di essere ammessi al terzo anno di un orientamento diverso debbono, contrariamente a quanto disposto dalle norme generali, pagare i contributi di laboratorio solo per il terzo anno. Eguale criterio e' adottato anche per i medici che hanno gia' conseguito la specializzazione in igiene secondo il vecchio statuto e che chiedano di conseguire un nuovo titolo con orientamento specialistico (ad esempio tecnica ospedaliera, medicina scolastica, ecc.). L'art. 329 relativo alla suddetta scuola in igiene e medicina preventiva e' modificato nel senso che il secondo comma e' abrogato e sostituito dal seguente:
-
-Art. 239. - Gli allievi che hanno ottenuto l'approvazione all'esame di diploma verra' rilasciato il diploma di specializzazione, in igiene e medicina preventiva, valido a tutti gli effetti di legge.
-
-Coloro che hanno gia' sostenuto uno degli orientamenti previsti nella scuola, possono essere successivamente iscritti al terzo anno di un altro corso di specializzazione con orientamento diverso da quello gia' seguito, senza ripetere l'esame di ammissione ne' i due anni propedeutici.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 4 agosto 1971
-
-SARAGAT
-
-MISASI
-
-Visto, il Guardasigilli: COLOMBO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 12 novembre 1971 Atti del Governo, registro n. 245, foglio n. 21. - CARUSO
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta.   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-L'art. 122 relativo all'elenco delle scuole di specializzazione annesso alla facolta' di medicina e chirurgia, e' modificato nel senso che la scuola in "Chirurgia generale e terapia chirurgica" muta la denominazione in quella di "Chirurgia".  
-L'art. 136 relativo alle norme generali per le scuole di specializzazione in medicina e chirurgia e' abrogato e sostituito dal seguente:  
+L'art. 122, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola in "Fisiochinesiterapia e rieducazione neuromotoria" muta la denominazione in quella di scuola in "Terapia fisica e riabilitazione".   
+Allo stesso elenco e' aggiunta la scuola in "Malattie dell'apparato cardiovascolare".   
+L'art. 237, relativo alla scuola di specializzazione in "Igiene e medicina preventiva" e' modificato nel senso che alla scuola possono essere ammessi oltre i laureati in medicina e chirurgia, i laureati in scienze biologiche e in farmacia (per gli orientamenti di laboratorio e sanita' pubblica), in ingegneria civile (per l'orientamento di igiene e tecnica ospedaliera), in scienze naturali e in pedagogia (per l'orientamento di igiene e medicina scolastica).   
+L'art. 246, relativo alla scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio e' modificato nel senso che dopo il primo comma e' aggiunto il seguente.   
+"Non sono ammesse abbreviazioni di corso, ad eccezione dei casi previsti dal regolamento generale sulle scuole di specializzazione dell'Universita' di Genova o di candidati gia' in possesso del diploma di specializzazione in tisiologia, che possono essere ammessi al terzo anno".   
+L'art. 254, relativo alla scuola di specializzazione in chirurgia vascolare e' modificato nel senso che dopo il terzo comma e' aggiunto il seguente.   
+"I medici che abbiano gia' conseguito la specializzazione in angiologia e che vengano ammessi al terzo anno della scuola di specializzazione in chirurgia vascolare dovranno pagare, contrariamente a quanto disposto dalle norme generali, i contributi di laboratorio soltanto per il terzo anno".   
+Gli articoli 260, 261 e 262, relativi alla scuola di specializzazione in "Fisiochinesiterapia e rieducazione neuromotoria" che muta la denominazione in quella di scuola in "Terapia fisica e riabilitazione", sono abrogati e sostituiti dai seguenti.   
   
-Art. 136. - Le tasse e soprattasse da pagarsi dagli iscritti alle scuole di specializzazione e di perfezionamento sono quelle medesime stabilite dalla legge per gli iscritti al corso di laurea in medicina e chirurgia e cioe':  
+Scuola di specializzazione in terapia fisica e riabilitazione   
   
-Tassa di iscrizione . . . . . . . . . . . . . . . . . . . L. 18.000 Contributo assistenziale . . . . . . . . . . . . . . . . . L. 1.000 Soprattassa esami. . . . . . . . . . . . . . . . . . . . . L. 7.000 Contributo riscaldamento . . . . . . . . . . . . . . . . . L. 9.500 Contributo unificato . . . . . . . . . . . . . . . . . . . L. 4.000 Tassa di immatricolazione. . . . . . . . . . . . . . . . . L. 5.000   
-Totale . . . L. 44.500   
-L'ammontare dei contributi viene stabilito dal consiglio di amministrazione su proposta del senato accademico, udite le facolta' e le scuole. La tassa di diploma e' fissata in L. 6000 a norma dell'art. 7 della legge. 18 dicembre 1951, n. 1551.  
-Gli assistenti di ruolo, incaricati, straordinari della facolta' e gli assistenti volontari dell'istituto della materia per cui viene chiesta l'iscrizione al corso di specializzazione, i quali ottenessero abbreviazioni di corso, saranno dispensati dal pagamento delle tasse e dei contributi per gli anni di abbreviazione e dovranno solo corrispondere, per gli anni accademici che dovranno seguire per conseguire il diploma, la meta' del contributo clinico.  
-Gli articoli 213, 214, 215, 216, 217, 218 e 219 relativi alla scuola di specializzazione in chirurgia generale e terapia chirurgica, che assume la denominazione di scuola di specializzazione in chirurgia, sono abrogati e sostituiti dai seguenti:  
+Art. 260. - Presso l'istituto di clinica delle malattie nervose e mentali dell'Universita' di Genova e' istituita la scuola di specializzazione in terapia fisica e riabilitazione, che ha lo scopo di conferire la necessaria competenza teorica e pratica ai laureati in medicina e chirurgia, i quali intendano conseguire il diploma di specializzazione in terapia fisica e riabilitazione. La durata del corso sara' di tre anni.   
+Alla scuola possono iscriversi soltanto i laureati in medicina e chirurgia. Le norme d'iscrizione, pagamento tasse, esami ecc., sono le generali della scuola di specializzazione e di perfezionamento riferite negli articoli da 122 a 137 dello statuto dell'universita'.   
+Il numero degli iscritti non puo' essere superiore a 18 (diciotto) per l'intero corso di studi.   
+Per essere ammesso a frequentare il corso il candidato sara' sottoposto ad un esame di ammissione consistente in un colloquio teorico su elementi di anatomia e fisiopatologia del sistema nervoso.   
+Art. 261. - Gli insegnamenti impartiti nella suddetta scuola sono i seguenti:   
   
-Scuola di specializzazione in chirurgia  
+1° Anno:   
+Materie fondamentali:   
+1) Principi di anatomia funzionale (propedeutico per tutte le materie d'insegnamento di base degli anni successivi e per quelle facoltative);   
+2) Fisiopatologia dell'apparato neuromotore (come sopra).   
   
-Art. 213. - Presso l'istituto di clinica chirurgica generale e' istituita la scuola di specializzazione in chirurgia.  
-Direttore della scuola e' il direttore dell'istituto di clinica chirurgica generale.  
-La scuola di specializzazione in chirurgia conferisce il diploma di specialista in chirurgia.  
-Alla scuola possono iscriversi soltanto i laureati in medicina e chirurgia.  
-Art. 214. - Gli anni necessari per il conseguimento del diploma sono cinque.  
-Il numero massimo complessivo degli iscritti e' di 25 per tutti i cinque anni di corso.  
-La selezione dei candidati aspiranti all'ammissione alla scuola avverra' sulla base di titoli ed esami.  
-Non sono consentite iscrizioni con abbreviazioni di corso.  
-Art. 215. - Le materie del corso sono le seguenti:  
-1) Anatomia chirurgica e corso di operazioni (triennale;  
-2) Anatomia e istologia patologica (biennale);  
-3) Anestesia e rianimazione;  
-4) Chirurgia cardiovascolare;  
-5) Chirurgia d'urgenza;  
-6) Chirurgia ginecologica;  
-7) Chirurgia pediatrica;  
-8) Chirurgia riparativa e plastica;  
-9) Chirurgia sperimentale;  
-10) Chirurgia toracica;  
-11) Chirurgia urologica;  
-12) Clinica chirurgica generale (quinquennale);  
-13) Fisiopatologia chirurgica;  
-14) Medicina legale;  
-15) Neurochirurgia;  
-16) Patologia speciale chirurgica (triennale);  
-17) Radiologia;  
-18) Ricerche di laboratorio;  
-19) Semeiotica chirurgica (biennale);  
-20) Semeiotica strumentale ed endoscopia;  
-21) Trattamento pre e post-operatorio;  
-22) Traumatologia ed ortopedia.  
-Le materie sopraelencate sono cosi' distribuite:  
-1° Anno:  
-Clinica chirurgica generale;  
-Patologia speciale chirurgica;  
-Semeiotica chirurgica;  
-Anatomia chirurgica e corso di operazione;  
-Chirurgia sperimentale;  
-Anestesia e rianimazione;  
-Ricerche di laboratorio.  
-2° Anno:  
-Clinica chirurgica generale;  
-Patologia speciale chirurgica;  
-Semeiotica chirurgica;  
-Anatomia, chirurgica e corso di operazione;  
-Fisiopatologia chirurgica;  
-Trattamento pre e post-operatorio;  
-Anatomia e istologia patologica.  
-3° Anno:  
-Clinica chirurgica generale;  
-Patologia speciale chirurgica;  
-Semeiotica strumentale ed endoscopia;  
-Anatomia chirurgica e corso di operazioni;  
-Radiologia;  
-Anatomia e istologia patologica.  
-4° Anno:  
-Clinica chirurgica generale;  
-Chirurgia ginecologica;  
-Chirurgia urologica;  
-Neurochirurgia;  
-Traumatologia e ortopedia;  
-Chirurgia pediatrica.  
-5° Anno:  
-Clinica chirurgica generale;  
-Chirurgia toracica;  
-Chirurgia cardiovascolare;  
-Chirurgia riparativa e plastica;  
-Chirurgia d'urgenza;  
-Medicina legale.  
-I corsi dovranno essere corredati da esercitazioni pratiche.  
-Art. 216. - Le norme di iscrizione, esami, pagamento tasse e tutte le altre norme generali sono quelle comprese negli articoli da 122 a 137 dello statuto di questa universita'.  
-Art. 217. - La frequenza alle lezioni ed alle esercitazioni e' obbligatoria per tutti gli iscritti.  
-L'internato e' obbligatorio durante tutti i cinque anni del corso e si svolgera' presso la clinica chirurgica sotto forma di permanenza costante nella detta clinica durante le ore della sua attivita', con presenza giornaliera agli ambulatori ed ai reparti di degenza.  
-Dall'obbligo di tale internato saranno esenti quegli allievi che, in qualita' di assistenti e di aiuti, prestino effettivamente servizio presso reparti di chirurgia generale delle universita' e di ospedali di I e II categoria.  
-Art. 218. - Gli allievi hanno doveri ed attribuzioni analoghi a quelli degli assistenti. Gli specializzandi, che abbiano completato il primo triennio e superato i relativi esami, potranno essere chiamati a prestare servizio presso il reparto operatorio.  
-Per i corsi che non siano della clinica chirurgica generale, possono essere stabiliti, su parere del direttore della scuola, periodi di continuativa frequenza presso i relativi reparti specialistici, qualora esistano quali reparti indipendenti.  
-Art. 219. - Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico dell'operosita' scolastica degli allievi, con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno.  
-L'allievo che non abbia ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali.  
-Alla fine del corso l'allievo, inoltre, dovra' sostenere un esame generale di profitto.  
-L'esame di diploma consistera' nella discussione di una tesi scritta su argomenti di chirurgia generale.  
-Agli iscritti alla scuola che avranno superato gli esami prescritti sara' rilasciato un diploma di specialista in chirurgia valido a tutti gli effetti di legge.  
-L'art. 237 relativo alla scuola di specializzazione in igiene e medicina preventiva riordinata con [decreto del Presidente della Repubblica 18 maggio 1970, n. 680](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-05-18;680), e' integrato con il seguente comma:  
+2° Anno:   
+1) Semeiotica e clinica delle motulesioni neurologiche (propedeutico per le materie di insegnamento di base, del terzo anno);   
+2) Semeiotica e clinica delle deformita' e motulesioni ortopediche (come sopra);   
+3) Massoterapia e terapia manuale;   
+4) Cinesiologia e cinesiterapia e ginnastica medica;   
+5) Idroterapia e balneoterapia.   
   
-Art. 237. - I medici che abbiano gia' conseguito la specializzazione con un determinato orientamento e chiedano di essere ammessi al terzo anno di un orientamento diverso debbono, contrariamente a quanto disposto dalle norme generali, pagare i contributi di laboratorio solo per il terzo anno. Eguale criterio e' adottato anche per i medici che hanno gia' conseguito la specializzazione in igiene secondo il vecchio statuto e che chiedano di conseguire un nuovo titolo con orientamento specialistico (ad esempio tecnica ospedaliera, medicina scolastica, ecc.). L'art. 329 relativo alla suddetta scuola in igiene e medicina preventiva e' modificato nel senso che il secondo comma e' abrogato e sostituito dal seguente:  
-Art. 239. - Gli allievi che hanno ottenuto l'approvazione all'esame di diploma verra' rilasciato il diploma di specializzazione, in igiene e medicina preventiva, valido a tutti gli effetti di legge.  
-Coloro che hanno gia' sostenuto uno degli orientamenti previsti nella scuola, possono essere successivamente iscritti al terzo anno di un altro corso di specializzazione con orientamento diverso da quello gia' seguito, senza ripetere l'esame di ammissione ne' i due anni propedeutici.  
+Materie facoltative:   
+a) Elettromiografia;   
+b) Rieducazione respiratoria;   
+c) Medicina assicurativa;   
+d) Rieducazione dei disturbi della visione.   
   
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### Dato a Roma, addi' 4 agosto 1971
-
-SARAGAT MISASI
-
-Visto, il Guardasigilli: COLOMBO
-
-Registrato alla Corte dei conti, addi' 12 novembre 1971
-
-Atti del Governo, registro n. 245, foglio n. 21. - CARUSO
+3° Anno:   
+Materie fondamentali:   
+1) Elettroterapia ed elettrologia;   
+2) Terapia con onde corte ed altri mezzi fisici;   
+3) Rieducazione motoria e riabilitazione in campo ortopedico e traumatologico;   
+4) Rieducazione motoria e riabilitazione in campo neurologico.   
+  
+Materie facoltative:   
+a) Riabilitazione nei disturbi del linguaggio;   
+b) Problemi psicologici e psicopatologici della riabilitazione;  
+c) Climatoterapia;   
+d) Problemi di riabilitazione geriatrica;   
+e) Riqualificazione professionale.   
+  
+Art. 262. - Gli insegnamenti delle materie fondamentali costituiscono materia obbligatoria d'esame.   
+Lo specializzando dovra' sostenere a sua scelta, almeno due esami delle materie facoltative del 2° anno e due esami delle materie facoltative del 3° anno.   
+La frequenza alle lezioni teoriche e alle dimostrazioni pratiche nei tre anni di corso e' obbligatoria. Il numero e la distribuzione delle ore di lezione saranno fissati dal direttore della scuola all'inizio di ogni anno accademico.   
+I candidati avranno l'obbligo della frequenza continuativa per due mesi all'anno presso l'istituto di clinica delle malattie nervose e mentali e presso quegli istituti clinici che saranno indicati di anno in anno dal direttore della scuola.   
+In data da stabilirsi al termine del 1° anno i candidati dovranno superare un colloquio teorico ed al termine del 2° anno un esame teorico e pratico dimostrando la conoscenza degli argomenti stabiliti per l'anno del corso.   
+Al termine del corso di specializzazione verra' discussa una tesi originale sulle materie di studio di tre anni.   
+Agli allievi che hanno superato l'esame sara' rilasciato il diploma di specializzazione in "Terapia fisica e riabilitazione", valido a tutti gli effetti di legge.   
+Dopo l'art. 275 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in malattie dell'apparato cardiovascolare.   
+  
+Scuola di specializzazione in malattie dell'apparato cardiovascolare   
+Art. 276. - La scuola di specializzazione in malattie dell'apparato cardiovascolare ha la durata di tre anni.   
+Essa ha sede presso l'istituto scientifico di medicina interna.   
+Alla scuola possono essere iscritti solo i laureati in medicina e chirurgia. Il numero degli specializzandi e' fissato in 12 (dodici) complessivi suddivisi nei tre anni del corso.   
+Gli aspiranti saranno ammessi alla scuola dopo il superamento di un esame preliminare che comprende una prova scritta e una prova orale che si svolgera' entro il mese di dicembre.   
+Gli iscritti alla scuola hanno l'obbligo di frequentare gli insegnamenti secondo il programma del corso. Coloro che non ottempereranno all'obbligo di frequenza ai corsi di insegnamento, al servizio di corsia e di laboratorio non potranno ottenere l'attestazione di frequenza necessaria per l'ammissione agli esami.   
+Art. 277. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+1) Anatomia normale dell'apparato cardiovascolare;   
+2) Fisiologia degli apparati cardiovascolare e respiratorio;   
+3) Fisiopatologia cardiovascolare e respiratoria (biennale: 1°);   
+4) Patologia cardiovascolare (biennale: 1°);   
+5) Semeiologia fisica (biennale: 1°);   
+6) Semeiologia strumentale (biennale: 1°);   
+7) Microbiologia (facoltativo).   
+2° Anno:   
+1) Fisiopatologia cardiovascolare e respiratoria (biennale: 2°);   
+2) Patologia cardiovascolare (biennale: 2°)   
+3) Semeiologia strumentale (biennale: 2°);   
+4) Semeiologia fisica (biennale: 2°);   
+5) Anatomia patologica dell'apparato cardiovascolare (biennale: 1°);   
+6) Radiologia;   
+7) Farmacologia;   
+8) Clinica e terapia (biennale: 1°).   
+3° Anno:   
+1) Anatomia e patologia dell'apparato cardiovascolare (biennale: 2°);   
+2) Clinica e terapia (biennale: 2°);   
+3) Chirurgia dell'apparato cardiovascolare;   
+4) Problemi assicurativi e sociali (facoltativo);   
+5) Statistica (facoltativo).   
+Art. 278. - Alla fine di ciascun anno accademico coloro i quali abbiano ottenuto la prescritta attestazione di frequenza potranno sostenere gli esami di profitto il cui superamento e' condizione necessaria per la iscrizione al corso successivo.   
+Gli esami consistono in prove scritte o in prove orali per ciascuna materia di insegnamento.   
+Art. 279. - Al termine del terzo anno, per conseguire il diploma di specializzazione gli specializzandi, oltre ad aver superato le prove di esame nelle singole materie, dovranno presentare una dissertazione scritta su un argomento di patologia cardiovascolare che sara' stabilito in base agli accordi presi con il direttore della scuola.   
+I candidati non riconosciuti idonei agli esami di ciascun corso e all'esame di diploma potranno sostenere le prove dopo un altro anno di frequenza.   
+Le norme per le iscrizioni, per la direzione, per le tasse, ecc. sono quelle generali delle scuole di specializzazione e di perfezionamento riferite negli articoli da 122 a 137 dello statuto dell'universita'.   
+Agli allievi che abbiano ottenuto l'approvazione nello esame finale viene rilasciato il diploma di specializzazione in malattie dell'apparato cardiovascolare.   
+L'art. 281, relativo alla scuola di specializzazione in criminologia clinica e' modificato nel senso che alla scuola possono essere ammessi anche i laureati in sociologia.   
+  
+Il presente decreto, munito del Sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 31 ottobre 1972   
+  
+LEONE   
+  
+SCALFARO   
+  
+Visto, il Guardasigilli: GONELLA   
+Registrato alla Corte dei conti, addi' 27 febbraio 1973   
+Atti di Governo, registro n. 256, foglio n. 35. - VALENTINI   

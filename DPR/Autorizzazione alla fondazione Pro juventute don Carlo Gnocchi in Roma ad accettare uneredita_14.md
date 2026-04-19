@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 ottobre 1974 n. 626
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 gennaio 1976 n. 37
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 ottobre 1974 n. 626
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 gennaio 1976 n. 37
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un'eredita'.
 ----------------------------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-626. Decreto del Presidente della Repubblica 10 ottobre 1974, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla sig.ra Pedrocco Carlotta in Vio con testamento olografo in data 10 agosto 1963, pubblicato il 24 novembre 1970 per atto del dott. Angelo Sandi, notaio in Venezia, n. 26319 di repertorio e n. 2567 di raccolta, registrato a Venezia in data 14 dicembre 1970 al n. 6896 - Vol. 22, in favore dei mutilatini di don Gnocchi che si identificano con la fondazione "Pro juventute don Carlo Gnocchi", consistente nella quota parte di immobili, titoli, buoni postali e depositi bancari vari per un valore presunto di lire 72.880.945.   
+37. Decreto del Presidente della Repubblica 23 gennaio 1976, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dal sig. Gritti Angelo Arturo, consistente in beni immobili, mobili, titoli azionari e depositi bancari vari per un valore presunto di L. 246.772.931, giusta inventari del dott.  
+Rodolfo Parigi, notaio in Milano, in data 14 luglio 1973, n. 157830 di repertorio e n. 14848 di raccolta; 17 ottobre 1973, n. 159657 di repertorio e n. 15032 di raccolta; 31 ottobre 1973, n. 159981 di repertorio e n. 15070 di raccolta e 31 ottobre 1973, numero 159980 di repertorio e n. 15069 di raccolta, nonche' perizia di stima del geom. Dino Casiraghi in data 25 giugno 1974.  
   
-Visto, il Guardasigilli: ZAGARI   
-Registrato alla Corte dei conti, addi' 25 novembre 1974   
-Atti di Governo, registro n. 7, foglio n. 41. - SCIARRETTA
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 1 marzo 1976  
+Atti di Governo, registro n. 3, foglio n. 50

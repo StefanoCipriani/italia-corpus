@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 febbraio 1964 n. 136
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1970 n. 815
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 febbraio 1964 n. 136
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1970 n. 815
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -12,94 +12,74 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il regio decreto-legge 20 giugno' 1935, n. 1071, convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la' [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione Sulla proposta del Ministro per la pubblica istruzione;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:  
-Art. 26. - Agli insegnamenti complementari del corso di laurea in Chimica industriale sono aggiunti quelli di:  
-Chimica delle materie plastiche Chimica fisica industriale;  
-Elettrochimica industriale;  
-Chimica nucleare applicata  
-Corrosione e protezione dei metalli.  
-Sono soppressi i seguenti insegnamenti complementari:  
-Scienza dei metalli Chimica biologica Chimica farmaceutica;  
-Radiochimica;  
-Chimica quantistica Chimica teorica.  
-Art. 27, relativo alle norme per il biennio di studi propedeutici del corso di laurea in Chimica industriale, il terzo, quarto, quinto e sesto comma, sono abrogati e sostituito dal seguente:  
-"Gli insegnamenti biennali di Chimica generale ed inorganica, Chimica organica, Fisica sperimentale, comportano due distinti esami alla fine dei rispettivi anni di corso".  
-Art. 28, relativo alle norme per il triennio di applicazione del corso di laurea in Chimica industriale, l'ultimo comma e' abrogato.  
-Art. 29, relativo alle norme dell'esame di laurea in Chimica industriale, il primo comma e' abrogato e sostituito dal seguente:  
-"L'esame di laurea consiste:  
-a) nella discussione di una dissertazione scritta, riguardante ricerche originali su argomenti riferentisi alle discipline del corso di laurea ed eseguite presso uno degli istituti gia' frequentati dallo studente";  
-Art. 30. - Agli insegnamenti complementari del corso di laurea in Chimica (indirizzo organico-biologico ed inorganico-chimico-fisico) sono aggiunti quelli di:  
-Indirizzo organico-biologico:  
-Elettrochimica organica con esercitazioni;  
-Chimica delle fermentazioni Chimica organica applicata;  
-Scienza dell'alimentazione;  
-Enzimologia;  
-Chimica delle sostanze organiche naturali Complementi di chimica Spettroscopia molecolare Chimica fisica organica.  
-L'insegnamento complementare di "Chimica applicata" e' soppresso.  
-Indirizzo inorganico-chimico-fisico:  
-Chimica inorganica superiore;  
-Chimica inorganica applicata;  
-Chimica fisica dello stato solido;  
-Chimica fisica tecnica;  
-Chimica colloidale delle interfasi;  
-Cinetica chimica;  
-Esercitazioni tecniche e sintesi speciali inorganiche;  
-Chimica dei composti elemento-organici;  
-Cristallochimica inorganica.  
-L'insegnamento complementare di "Misure elettriche (corso speciale per chimici e chimici industriali)" e' soppresso.  
-Art. 32. - All'elenco degli insegnamenti complementari del corso di laurea in Matematica sono aggiunti ai singoli indirizzi i seguenti:  
-Indirizzo generale:  
-Tabella A:  
-15) Geometria dei numeri;  
-16) Cibernetica.  
-Tabella B:  
-11) Meccanica analitica.  
-Indirizzo didattico:  
-Tabella A:  
-13) Geometria dei numeri  
-14) Topologia.  
-Tabella B:  
-11) Meccanica analitica.  
-Indirizzo applicativo:  
-Tabella A:  
-13) Algebra superiore;  
-14) Geometria dei numeri;  
-15) Topologia;  
-16) Cibernetica.  
-Tabella B:  
-11) Meccanica analitica.  
-Art. 36. - Agli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti quelli di:  
-20) Ecologia;  
-21) Mineralogia sistematica;  
-23) Micropalentologia.  
-L'insegnamento complementare di "Ecologia vegetale e fitogeografia" e' soppresso.  
-Art. 39. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti quelli di:  
-14) Biochimica comparata;  
-15) Paleontologia;  
-16) Ecologia.  
-L'insegnamento di "Ecologia vegetale e fitogeografia" e' soppresso.  
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 21. - All'elenco degli insegnamenti del corso di laurea in lettere sono aggiunti i seguenti:  
+  
+Storia della lingua spagnola;  
+Storia della lingua russa;  
+Antropologia culturale;  
+Storia dell'architettura e urbanistica;  
+Teoria e storia del restauro;  
+Storia della pedagogia;  
+Psicopedagogia;  
+Metodologia e didattica;  
+Filologia italiana;  
+Storia del teatro e dello spettacolo;  
+Storia dell'agricoltura;  
+Africanistica;  
+Storia e civilta' dei Paesi arabi;  
+Storia della lingua tedesca;  
+Civilta' indigene dell'America;  
+Storia della Chiesa;  
+Archeologia e topografia medioevali;  
+Storia del giornalismo;  
+Storia delle relazioni internazionali.  
+Art. 22. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:  
+  
+Storia greca;  
+Psicologia sociale;  
+Psicologia dell'eta' evolutiva;  
+Antropologia culturale;  
+Storia della pedagogia;  
+Psicopedagogia;  
+Metodologia e didattica;  
+Storia della filosofia e della scienza musulmana;  
+Storia del teatro e dello spettacolo;  
+Istituzioni di filosofia.  
+Art. 23. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature moderne (indirizzo europeo) sono aggiunti i seguenti:  
+  
+Storia della lingua spagnola;  
+Storia della lingua russa;  
+Antropologia culturale;  
+Metodologia e didattica;  
+Storia del teatro e dello spettacolo;  
+Storia della lingua tedesca.  
+Art. 28. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di:  
+  
+Fisiochinesiterapia.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara', inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 febbraio 1964
+### Dato a Roma, addi' 27 settembre 1970
 
-SEGNI GUI
+SARAGAT MISASI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 21 marzo 1964
+Registrato alla Corte dei conti, addi' 17 novembre 1970
 
-Atti del Governo, registro n. 182, foglio n. 66. - VILLA
+Atti del Governo, registro n. 238, foglio n. 66. - CARUSO

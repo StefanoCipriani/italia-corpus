@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 348
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1980 n. 876
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 348
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1980 n. 876
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,15 +18,11 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio universitario nazionale nel suo parere;
 
 Sentito il parere del Consiglio universitario nazionale;
 
@@ -41,99 +37,100 @@ Articolo unico
 --------------
 
   
+I primi due commi dell'art. 97 sono sostituiti dai seguenti:  
+Art. 97. - La facolta' di medicina e chirurgia conferisce le seguenti lauree:  
+a) medicina e chirurgia;  
+b) odontoiatria e protesi dentaria.  
+I titoli di ammissione sono quelli previsti dalle vigenti disposizioni di legge.  
+La durata del corso di studi per la laurea in medicina e chirurgia e' di sei anni, suddivisi in tre bienni.  
+La durata del corso di studi per la laurea in odontoiatria e protesi dentaria e' di cinque anni, suddivisi in un biennio e in un triennio.  
+Dopo l'art. 102, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione del corso di laurea in odontoiatria e protesi dentaria.  
   
-Gli articoli 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209 e 210, relativi alla scuola di perfezionamento in scienze amministrative, che muta la denominazione in scuola di specializzazione in diritto amministrativo e scienza dell'amministrazione, afferente alla facolta' di giurisprudenza, sono soppressi e sostituiti dai seguenti, con il conseguente spostamento della numerazione degli articoli successivi:   
+Laurea in odontoiatria e protesi dentaria  
   
-Scuola di specializzazione in diritto amministrativo   
-e scienza dell'amministrazione   
+Art. 103. - L'ammissione al corso di laurea verra' regolato da un esame di ammissione; il punteggio da attribuire nell'esame sara' cosi' ripartito: il 30% sara' riservato al voto riportato dal candidato nell'esame di Stato di licenza della scuola secondaria superiore ed il 70% sara' riservato alla prova di esame di ammissione al corso di laurea con tests a scelta multipla su argomenti di biologia generale, chimica, fisica e matematica, secondo i programmi della scuola secondaria superiore.  
+Il numero massimo degli studenti ammessi al primo anno del corso di laurea in odontoiatria e protesi dentaria sara' determinato dalla consistenza delle strutture (didattiche e cliniche) disponibili presso i locali annessi alla clinica odontoiatrica, secondo un rapporto pari a numero tre iscritti per ogni posto di lavoro (riunito e posto a banco odontotecnico) che verra' esclusivamente adibito all'espletamento del corso di laurea. Attualmente le attrezzature didattico-scientifiche specialistiche consentono l'ammissione di venti studenti per anno di corso.  
+Art. 104. - Gli insegnamenti per la laurea in odontoiatria e protesi dentaria sono i seguenti:  
   
-Art. 206 - Presso l'Universita' di Bologna e' istituita la scuola di specializzazione in diritto amministrativo e scienza dell'amministrazione che conferisce il diploma di specialista in diritto amministrativo e scienza dell'amministrazione.   
-Art. 207 - La direzione della scuola ha sede presso la facolta' di giurisprudenza.   
-Art. 208 - La scuola ha lo scopo di provvedere alla formazione di quanti aspirano a posti di responsabilita' direttiva presso amministrazioni dello Stato ed enti pubblici e privati e che percio' intendono acquisire la necessaria preparazione di base ed applicativa e la formazione tecnica, nonche' di quanti intendono dedicarsi ad attivita' di ricerca presso enti ed istituzioni o centri di studio e di ricerca applicata.   
-Per il conseguimento di tali fini possono essere stipulate convenzioni con scuole, centri, istituti, dipartimenti, enti pubblici o privati anche stranieri.   
-Art. 209 - La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazioni.   
-Art. 210 - Il numero degli iscritti per il primo anno e' di quaranta e complessivamente di centoventi.   
-Art. 211 - Alla scuola sono ammessi i laureati in giurisprudenza, in scienze politiche, in economia e commercio.   
-Possono essere iscritti alla scuola coloro i quali sono dotati di titolo di studio conseguito all'estero equivalente a quelli indicati nel comma precedente.   
-Art. 212 - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che potra' svolgersi in attuazione dell'[art. 13 del decreto del Presidente della Repubblica n. 162/82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982;162~art13) mediante domanda a risposte multiple integrate eventualmente da un colloquio e da una valutazione in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:   
-a) tesi nella disciplina attinente alla specializzazione;   
-b) voto di laurea;   
-c) voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;   
-d) pubblicazioni nelle predette materie.   
-Il punteggio dei predetti titoli e' quello stabilito dal decreto ministeriale del 16 settembre 1982.   
-Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero di posti disponibili, si siano collocati in posizioni utili nella graduatoria compilata sulla base del punteggio complessivo riportato.   
-In caso di rinunzia sono ammessi coloro che seguono nella graduatoria.   
-Art. 213 - La scuola si articola in un programma unico e comune a tutti gli allievi per il primo e secondo anno, ed in una serie di insegnamenti a carattere specialistico, rispettivamente a contenuto giuridico-amministrativo e tecnico-amministrativo, per il terzo anno.   
-Gli insegnamenti della scuola consistono in materie fondamentali ed in materie a scelta dell'iscritto.   
-Sono insegnamenti fondamentali del primo anno:   
-diritto amministrativo;   
-politica economica e di mercato;   
-scienza dell'amministrazione.   
-Sono materie a scelta degli iscritti del primo anno:   
-storia dell'amministrazione pubblica;   
-elementi di statistica;   
-diritto pubblico comparato.   
-Sono insegnamenti fondamentali del secondo anno:   
-contabilita' dello Stato;   
-diritto delle Comunita' europee;   
-diritto finanziario e tributario.   
-Sono materie a scelta degli iscritti del secondo anno:   
-programmazione e bilancio;   
-amministrazione del personale;   
-diritto regionale.   
-Sono insegnamenti fondamentali del terzo anno (indirizzo giuridico-amministrativo):   
-contabilita' degli enti locali;   
-ordinamento giuridico degli enti locali;   
-impiego pubblico e privato;   
-reati contro la pubblica amministrazione;   
-appalti ed opere pubbliche.   
-Sono materie a scelta degli iscritti del terzo anno (indirizzo giuridico-amministrativo):   
-diritto pubblico dell'economia;   
-diritto sindacale e relazioni industriali;   
-giustizia amministrativa;   
-legislazione urbanistica;   
-uso degli elaboratori nella pubblica amministrazione.   
-Sono insegnamenti fondamentali del terzo anno (indirizzo tecnico-amministrativo):   
-tecniche di selezione e valutazione del personale;   
-diritto sindacale e relazioni industriali;   
-elementi di macroeconomia;   
-elementi di microeconomia;   
-organizzazione aziendale.   
-Sono materie a scelta degli iscritti al terzo anno (indirizzo tecnico-amministrativo):   
-ricerca operativa;   
-uso degli elaboratori nella pubblica amministrazione;   
-legislazione doganale e valutaria;   
-tecnica e legislazione bancaria;   
-diritto penale commerciale;   
-contratti.   
-Art. 214 - Per i primi due anni di corso lo specializzando e' tenuto a seguire, oltre ai corsi obbligatori, almeno due corsi opzionali fra quelli attivati dalla scuola. All'atto dell'iscrizione al terzo anno della scuola gli studenti dovranno indicare l'indirizzo prescelto e scegliere due materie opzionali ad esso relative.   
-Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione d'esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso. Coloro che non superano detto esame potranno ripetere l'anno una sola volta.   
-Art. 215 - La frequenza ai corsi e' obbligatoria ai sensi dell'[art. 11 del decreto del Presidente della Repubblica n. 162/82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982;162~art11); detta frequenza non puo' comunque essere inferiore ai 2/3 dei corsi, delle esercitazioni e delle attivita' pratiche eventualmente programmate.   
-Art. 216 - Superato l'esame teorico-pratico dell'ultimo anno, lo studente dovra' sostenere un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie previste nell'indirizzo prescelto.   
-A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specializzazione in scienze amministrative.   
-Art. 217 - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge.   
-I contributi sono stabiliti anno per anno dal consiglio di amministrazione dell'Universita' degli studi di Bologna.   
-La scuola, oltre che dai contributi ordinari e straordinari dell'Universita', puo' essere finanziata da sovvenzioni, lasciti e donazioni di aziende, enti e privati che figureranno nel bilancio dell'Universita' stessa.   
-Art. 218 - Per la scuola di specializzazione e' costituito un unico consiglio presieduto da un direttore.   
-Il consiglio e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).   
-Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento di insegnamenti.   
-La direzione della scuola e' affidata a professore ordinario o straordinario, che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.   
-Il direttore e' eletto dai componenti il consiglio dei docenti: dura in carica un triennio ed e' rieleggibile.   
-Art. 219 (Norma transitoria). - Con l'entrata in funzione della scuola di specializzazione in diritto amministrativo e scienza dell'amministrazione l'attuale scuola biennale di perfezionamento in scienze amministrative e' soppressa.   
-Gli allievi che nell'anno accademico 1985-86 abbiano frequentato il secondo anno della scuola di perfezionamento in scienze amministrative, sostenendo i relativi esami di profitto, sono ammessi all'esame teorico-pratico nonche' all'esame finale, ai sensi del precedente art. 216, ai fini del conseguimento del diploma di specialista.   
+INSEGNAMENTI FONDAMENTALI  
+  
+Biennio:  
+1) anestesia generale e speciale odontostomatologica (semestrale);  
+\* 2) biologia generale applicata agli studi medici;  
+\* 3) chimica;  
+\* 4) chimica biologica;  
+5) farmacologia (semestrale);  
+\* 6) fisica medica;  
+7) fisiologia umana e dell'apparato stomatognatico;  
+8) igiene e odontoiatria preventiva e sociale con epidemiologia (semestrale);  
+9) istituzioni di anatomia umana normale e dell'apparato stomatognatico;  
+10) istituzioni di anatomia ed istologia patologica;  
+\* 11) istologia ed embriologia generale (compresa la citologia);  
+12) materiali dentari;  
+13) microbiologia (semestrale);  
+14) odontoiatria conservatrice (triennale - secondo, terzo e quarto anno);  
+15) patologia generale.  
+Triennio:  
+16) chirurgia speciale odontostomatologica (biennale - terzo e quarto anno);  
+17) clinica odontostomatologica (biennale - quarto e quinto anno);  
+18) medicina legale e delle assicurazioni e deontologia in odontostomatologia (semestrale);  
+19) neuropatologia e psicopatologia (semestrale);  
+20) ortognatodonzia e gnatologia (funzione masticatoria) (biennale - quarto e quinto anno);  
+21) parodontologia (biennale - quarto e quinto anno);  
+22) patologia speciale chirurgica e propedeutica clinica;  
+23) patologia speciale medica e metodologia clinica (compresa la pediatria);  
+24) patologia speciale odontostomatologica;  
+25) pedodonzia (semestrale);  
+26) protesi dentaria (triennale - terzo, quarto e quinto anno);  
+27) radiologia generale e speciale odontostomatologica (semestrale).  
+  
+INSEGNAMENTI COMPLEMENTARI  
+  
+\* 1) chirurgia maxillo-facciale;  
+\* 2) dermatologia e venerologia (semestrale);  
+\* 3) chirurgia maxillo-facciale;  
+\* 4) statistica sanitaria;  
+altri insegnamenti complementari nel piano della facolta' sempre mutuati dal corso di laurea in medicina e chirurgia.  
+Gli insegnamenti segnati con asterisco sono mutuati dal corso di laurea in medicina e chirurgia.  
+Gli insegnamenti fondamentali sono teorici e pratici e la loro frequenza e' obbligatoria.  
+Gli insegnamenti specificatamente odontostomatologici di ordine clinico comportano anche un tirocinio pratico continuativo da espletare prima di sostenere i relativi esami.  
+Gli allievi che non conseguono le attestazioni di frequenza, non possono essere ammessi a sostenere le relative prove di esame.  
+Per gli insegnamenti semestrali ed annuali lo studente e' tenuto a sostenere l'esame alla fine del corso.  
+Per gli insegnamenti pluriennali lo studente e' tenuto a superare tanti esami quante sono le annualita'.  
+Il tirocinio pratico, relativo ad ogni insegnamento clinico, deve prevedere da parte di componenti dell'organico, una assistenza didattica adeguata al numero degli studenti.
+
+|  |  |
+| --- | --- |
+| Non si puo' essere ammessi a sostenere l'esame di: | Se non si e' superato l'esame di: |
+| Fisiologia umana e dell'apparato stomatognatico | Istituzioni di anatomia umana normale e dell'apparato stomatognatico |
+| Patologia generale | Chimica |
+|  | Biologia generale applicata agli studi medici |
+|  | Fisica medica |
+| Patologia speciale medica e metodologia clinica(compresa la pediatria) | Fisiologia umana e dell'apparato stomatognatico |
+| Patologia speciale chirurgica e propedeutica clinica | Patologia generale |
+| Clinica odontostomatologica | Patologia speciale medica e metodologia clinica (compresa la pediatria) |
+|  | Patologia speciale chirurgica e propedeutica clinica |
+|  | Istituzioni di anatomia ed istologia patologica |
+|  | Patologia speciale odontostomatologica |
+
+  
+  
+Per essere ammesso a sostenere l'esame di laurea in odontoiatria e protesi dentaria, lo studente deve avere seguito i corsi ed aver superato gli esami in tutti gli insegnamenti fondamentali ed almeno in due insegnamenti scelti tra i complementari ed aver, inoltre, seguito le prescritte esercitazioni cliniche, i tirocini pratici ed averne conseguito le relative attestazioni.  
+L'esame di laurea consiste nella discussione di una tesi scritta su argomenti di odontostomatologia da richiedere almeno all'inizio dell'ultimo anno di corso.  
+Per il trasferimento degli studenti iscritti al corso di laurea in medicina e chirurgia le abbreviazioni di corso non possono superare l'ammissione oltre il secondo anno, subordinatamente al numero di posti resisi disponibili all'inizio del secondo anno sempre che gli aspiranti abbiano superato gli esami di biologia generale applicata agli studi medici, chimica, fisica medica, istologia ed embriologia generale (compresa la citologia).  
+Per i laureati in medicina e chirurgia le abbreviazioni di corso potranno essere concesse, sempre con iscrizione al secondo anno, subordinatamente al numero di posti resisi disponibili all'inizio del secondo anno e dopo che sia trascorso un anno accademico dal conseguimento della laurea precedente.  
+Per esercitare la professione i laureati in odontoiatria e protesi dentaria devono superare un apposito esame di Stato.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 febbraio 1986
+### Dato a Roma, addi' 24 ottobre 1980
 
-COSSIGA
+PERTINI BODRATO
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: SARTI
 
-Visto, il Guardasigilli MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 10 dicembre 1980
 
-Registrato alla Corte dei conti, addi' 8 luglio 1986
-
-Registro n. 54 Istruzione, foglio n. 344
+Registro n. 115 Istruzione, foglio n. 363

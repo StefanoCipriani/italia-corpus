@@ -1,56 +1,165 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1027
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1976 n. 489
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1027
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1976 n. 489
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, numero 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 61 - all'elenco degli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto quello di lingua spagnola.
+
+Art. 72 - all'elenco degli insegnamenti complementari del corso di laurea in economia e commercio e' aggiunto quello di geografia regionale.
+
+Art. 146 - all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia della seconda facolta' sono aggiunti i seguenti:
+
+biochimica sistematica umana;
+
+chirurgia oncologica;
+
+chirurgia riparatrice della mano;
+
+chirurgia plastica e ricostruttrice;
+
+citologia normale ultrastrutturale;
+
+citopatologia;
+
+endocrinochirurgia;
+
+gerontologia e geriatria;
+
+fisiopatologia respiratoria;
+
+chirurgia dell'apparato digerente;
+
+tecniche fisiologiche;
+
+istituzioni di chimica biologica;
+
+medicina nucleare;
+
+medicina sociale;
+
+microchirurgia;
+
+neurochirurgia infantile;
+
+neurotraumatologia;
+
+oncologia medica;
+
+psicopatologia generale;
+
+radioterapia;
+
+semeiotica neurologica;
+
+storia della medicina;
+
+tecnica e diagnostica istopatologica;
+
+terapia fisica e riabilitazione;
+
+biochimica cellulare.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 25 maggio 1976
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 13 luglio 1976 Atti di Governo, registro n. 7, foglio n. 67
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Napoli approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e, successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, numero 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 23. - All'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di:  
-Storia delle dottrine politiche.  
-L'art. 286 relativo alla scuola di perfezionamento in diritto amministrativo e scienze dell'amministrazione viene soppresso e sostituito dal seguente:  
-  
-Art. 286. - Il corso degli studi ha la durata di due anni, al termine del quale viene rilasciato un diploma di perfezionamento in diritto amministrativo e scienze dell'amministrazione. Il numero massimo degli iscritti e' di ottanta per ogni anno di corso. La frequenza e' obbligatoria.  
-L'art. 291 e' modificato nel senso che il 2° comma e' abrogato e sostituito dal seguente:  
-  
-"Esso dovra' comprendere per il 1° anno cinque materie fondamentali ed una complementare; e per il secondo anno quattro materie fondamentali ed una complementare".  
-Art. 309. - All'elenco degli insegnamenti complementari della scuola di perfezionamento in diritto civile e' aggiunto quello di:  
-Diritto fallimentare.  
-Gli articoli 329 e 330 relativi al corso di perfezionamento in diritto ecclesiastico e canonico sono abrogati e sostituiti dai seguenti:  
-  
-Art. 329. - Il richiedente l'ammissione alla scuola dovra' proporsi un proprio piano biennale di studi redatto conformemente alle proprie finalita' comprendente dieci dei sopraelencati insegnamenti, il quale sia stato approvato dal collegio dei professori ufficiali delle materie corrispondenti alle cattedre dello Istituto.  
-Art. 330. - La frequenza biennale alla scuola di perfezionamento, il superamento di cinque esami in ciascun anno di corso, o di un colloquio finale di cultura generale, nonche' la discussione di una tesi scritta su argomento assegnato dai docenti, daranno diritto al rilascio di un diploma di perfezionamento. La tesi deve mirare a risolvere e a contribuire a risolvere con contributi personali, una questione di rilevante interesse relativo ad uno dei campi di insegnamento.  
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 61 - all'elenco degli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto quello di lingua spagnola.   
+Art. 72 - all'elenco degli insegnamenti complementari del corso di laurea in economia e commercio e' aggiunto quello di geografia regionale.   
+Art. 146 - all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia della seconda facolta' sono aggiunti i seguenti:   
+biochimica sistematica umana;   
+chirurgia oncologica;   
+chirurgia riparatrice della mano;   
+chirurgia plastica e ricostruttrice;   
+citologia normale ultrastrutturale;   
+citopatologia;   
+endocrinochirurgia;   
+gerontologia e geriatria;   
+fisiopatologia respiratoria;   
+chirurgia dell'apparato digerente;   
+tecniche fisiologiche;   
+istituzioni di chimica biologica;   
+medicina nucleare;   
+medicina sociale;   
+microchirurgia;   
+neurochirurgia infantile;   
+neurotraumatologia;   
+oncologia medica;   
+psicopatologia generale;   
+radioterapia;   
+semeiotica neurologica;   
+storia della medicina;   
+tecnica e diagnostica istopatologica;   
+terapia fisica e riabilitazione;   
+biochimica cellulare.   
   
 
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1972
+### Dato a Roma, addi' 25 maggio 1976
 
-LEONE SCALFARO
+LEONE MALFATTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 20 febbraio 1973
+Registrato alla Corte dei conti, addi' 13 luglio 1976
 
-Atti di Governo, registro n. 256, foglio n. 11. - VALENTINI
+Atti di Governo, registro n. 7, foglio n. 67

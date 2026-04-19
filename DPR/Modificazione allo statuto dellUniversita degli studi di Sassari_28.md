@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 525
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1981 n. 747
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 525
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1981 n. 747
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Sassari.
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Sassari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Sassari, approvato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217) e modificato con [decreto del Presidente della Repubblica 28 aprile 1951, n. 769](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-28;769), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -19,8 +19,6 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
@@ -33,24 +31,30 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso.
 
 Articolo unico
 --------------
 
   
-Art. 45 - nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia l'insegnamento di "fisica nucleare applicata alla medicina" cambia la denominazione in quella di "medicina nucleare".  
+Nell'art. 40, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari, sono aggiunti i seguenti:  
+dermatologia sperimentale;  
+dermatologia allergologica e professionale;  
+dermatologia pediatrica;  
+terapia fisica e riabilitazione;  
+traumatologia della strada;  
+chirurgia riparatrice della mano.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 aprile 1984
+### Dato a Roma, addi' 31 luglio 1981
 
-PERTINI FALCUCCI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 13 agosto 1984
+Registrato alla Corte dei conti, addi' 11 dicembre 1981
 
-Registro n. 49 Istruzione, foglio n. 296
+Registro n. 123 Istruzione, foglio n. 382

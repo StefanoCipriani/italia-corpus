@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 1126
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 gennaio 1986 n. 161
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 1126
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 gennaio 1986 n. 161
 ==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Pisa.
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Pisa.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Pisa approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -39,19 +39,21 @@ Articolo unico
 --------------
 
   
-Nell'art. 99, relativo al corso di laurea in scienze biologiche, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-elettrofisiologia.  
+Nell'art. 78, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
+riabilitazione neurologica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 15 luglio 1983
+### Dato a Roma, addi' 23 gennaio 1986
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 22 marzo 1984
+Registrato alla Corte dei conti, addi' 16 aprile 1986
 
-Registro n. 17 Istruzione, foglio n. 334
+Registro n. 28 Istruzione, foglio n. 238

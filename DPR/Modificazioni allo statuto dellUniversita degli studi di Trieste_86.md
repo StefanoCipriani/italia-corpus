@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 gennaio 1981 n. 1160
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 settembre 1982 n. 897
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 gennaio 1981 n. 1160
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 settembre 1982 n. 897
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -19,6 +19,8 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
@@ -31,54 +33,31 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 1
-------
-
-  
-All'art. 59, dopo la laurea in pedagogia, e' aggiunta la laurea in "lingue e letterature straniere".  
-
-Art. 2
-------
+Articolo unico
+--------------
 
   
-Dopo l'art. 62, con il conseguente spostamento della numerazione successiva, e' aggiunto il nuovo seguente articolo:  
-Art. 62. - La durata del corso degli studi per la laurea in lingue e letterature straniere e' di quattro anni.  
-Insegnamenti fondamentali:  
-1) lingua e letteratura italiana (biennale);  
-2) lingua e letteratura latina (biennale);  
-3) lingua e letteratura francese;  
-4) lingua e letteratura tedesca;  
-5) lingua e letteratura inglese;  
-6) lingua e letteratura spagnola;  
-7) lingua e letteratura russa;  
-8) filologia romanza;  
-9) filologia germanica;  
-10) storia romana;  
-11) storia medioevale;  
-12) storia moderna;  
-13) geografia.  
-Insegnamenti complementari:  
-1) storia della filosofia;  
-2) filosofia;  
-3) pedagogia;  
-4) storia dell'arte medioevale e moderna.  
-Lo studente deve seguire per tutti i quattro anni l'insegnamento della lingua straniera alla quale intende dedicare i suoi studi, e per due anni quello di un'altra delle lingue straniere; egli puo' inoltre seguire, pure per due anni, l'insegnamento di una terza lingua straniera, nel qual caso puo' diminuire di uno gli insegnamenti complementari.  
-Lo studente e' tenuto a sostenere due esami annuali da scegliere tra i tre insegnamenti di storia impartiti.  
-Lo studente deve sostenere una prova scritta di italiano, una di traduzione latina ed una di cultura generale nella lingua straniera nella quale ha approfondito i suoi studi per il conseguimento della laurea.  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in cinque lingue e letterature straniere fondamentali, nelle altre materie fondamentali ed almeno in tre da lui scelte tra le complementari.  
+Nell'art. 82, concernente il corso di laurea in scienze geologiche, dopo il quinto comma sono inseriti i nuovi seguenti commi:  
+  
+Lo studente per sostenere l'esame di mineralogia con esercitazioni, dovra' aver superato gli esami di chimica generale ed inorganica con elementi di organica con esercitazioni; di fisica sperimentale I con esercitazioni; di istituzioni di matematica con esercitazioni.  
+Per sostenere l'esame di petrografia con esercitazioni dovra' aver superato l'esame di mineralogia con esercitazioni.  
+Per sostenere l'esame di geologia con esercitazioni dovra' aver superato l'esame di petrografia con esercitazioni.  
+Per sostenere l'esame di fisica sperimentale II con esercitazioni dovra' aver superato l'esame di istituzioni di matematica con esercitazioni e fisica sperimentale I con esercitazioni.  
+L'esame di fisica terrestre deve essere preceduto dagli esami di mineralogia e fisica.  
+Per sostenere gli esami di discipline ad indirizzo professionale o specialistico dovra' aver superato gli esami propedeutici relativi.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 gennaio 1981
+### Dato a Roma, addi' 9 settembre 1982
 
 PERTINI BODRATO
 
-Visto, il Guardasigilli: SARTI
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 10 agosto 1982
+Registrato alla Corte dei conti, addi' 26 novembre 1982
 
-Registro n. 99 Istruzione, foglio n. 173
+Registro n. 128 Istruzione, foglio n. 330

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 marzo 1982 n. 229
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1979 n. 489
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 marzo 1982 n. 229
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1979 n. 489
+=============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad acquistare un immobile.
 ----------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-229. Decreto del Presidente della Repubblica 12 marzo 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad acquistare, al prezzo di L. 60.000.000 ritenuto congruo dall'ufficio tecnico erariale di Torino, un appartamento di mq. 310 circa, sito in Torino, via M. Gioia 49, censito al nuovo catasto edilizio urbano alla partita 175159, foglio 194 particella 18 sub 14, di proprieta' della sig.ra Anna Maria Glavinaz in Vassoney, come da atto di compravendita in data 21 dicembre 1967, n. 30509/14565 di repertorio, a rogito dott. Giovanni Re, notaio in Torino, registrato a Torino in data 9 gennaio 1968 al n. 1401, da destinare a pensionato per giovani lavoratori ciechi.  
+489. Decreto del Presidente della Repubblica 4 agosto 1979, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad acquistare, al prezzo di L. 21.000.000, un appartamento di proprieta' del sig. Cocilio Paolo, sito in Torino, corso Vittorio Emanuele, 63, distinto al nuovo catasto edilizio urbano alla partita 15193, foglio 194, mappale 57 sub 13, da destinare ad ampliamento della sede sociale di Torino.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 27 aprile 1982  
-Registro n. 3 Presidenza, foglio n. 342
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti, addi' 3 ottobre 1979  
+Registro n. 7 Presidenza, foglio n. 119

@@ -1,225 +1,223 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1981 n. 910
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1966 n. 339
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1981 n. 910
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1966 n. 339
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Roma e convalidati dal Consiglio universitario nazionale nei suoi pareri;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Lo statuto dell'Universita' di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli 503, 504, 505, 506 e 507, relativi alla scuola di specializzazione in ortopedia e traumatologia dell'apparato motore che muta la denominazione in ortopedia, sono soppressi e sostituiti dai seguenti:  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, numero 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Scuola di specializzazione in ortopedia  
+Decreta:  
   
-Art. 503. - La scuola di specializzazione in ortopedia ha sede presso l'istituto di clinica ortopedica e conferisce il diploma di specialista in ortopedia.  
-La scuola comprende un insegnamento teorico e pratico.  
-La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.  
-Art. 504. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione allo esercizio professionale rilasciato dall'autorita' competente.  
-La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazioni.  
-Il numero massimo degli allievi e' di ventiquattro per anno di corso e complessivamente di centoventi iscritti per l'intero corso di studi.  
-L'ammissione al corso avviene per titoli ed esami.  
-Art. 505. - Le materie di insegnamento sono le seguenti:  
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+Dopo l'art. 353 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli, relativi alla istituzione della Scuola speciale di assistenza sociale e di ricerca per le scienze morali e sociali annessa alla Facolta' di lettere e filosofia.  
+  
+Scuola speciale di assistenza sociale e di ricerca per le scienze morali e sociali  
+  
+Art. 354. - Presso l'Istituto di filosofia della Facolta' di lettere e filosofia dell'Universita' di Roma e' istituita una "Scuola speciale di assistenza sociale e di ricerca per le scienze morali e sociali" ai sensi dell'[art. 20, terzo comma, lettera a), del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20-com3-leta).  
+La Scuola si propone:  
+a) di formare giovani professionalmente preparati per il servizio sociale e per l'educazione degli adulti;  
+b) di promuovere studi e indagini nel campo delle scienze morali e sociali.  
+Per la realizzazione di tali due scopi, la Scuola e' rispettivamente articolata in un "Centro di educazione professionale per assistenti sociali" (C.E.P.A.S.) e in un "Centro di ricerca per le scienze morali e sociali".  
+La Scuola conferisce il diploma di assistente sociale ed educatore degli adulti dopo un corso di studi triennale presso il C.E.P.A.S., o un attestato di idoneita' ai compiti di ricercatore sociale dopo un periodo di studi, della durata specificata al successivo art. 364, nel quale l'allievo abbia lavorato presso il Centro ricerca, partecipando a studi e ricerche promossi dal Centro stesso.  
+Per l'ammissione al C.E.P.A.S. e' richiesto un titolo di scuola media superiore, l'ammissione al Centro di ricerca e' consentito ai laureati delle Facolta' di lettere e filosofia, giurisprudenza, economia e commercio e scienze politiche.  
+Art. 355. - I proventi della Scuola sono costituiti dalle tasse scolastiche, dagli eventuali contributi dello Stato, della Universita', di Enti pubblici e di privati, dai lasciti, dalle donazioni e dai relativi redditi.  
+Tali proventi sono destinati a coprire:  
+a) la spesa per gli stipendi ed assegni al personale insegnante, assistente e di segreteria della scuola;  
+b) la quota spese per l'uso dei locali;  
+c) la concessione agli studenti meritevoli e di condizioni economiche non agiate, regolarmente iscritti alla Scuola, di borse, premi ed assegni di studio;  
+d) le altre spese competenti direttamente alla Scuola (biblioteca, pubblicazioni scientifiche, ecc.).  
+Art. 356. - La Scuola ha un proprio Comitato direttivo, costituito:  
+a) dai professori di ruolo dell'Istituto di filosofia;  
+b) da due rappresentanti di ciascuno degli enti, o privati, finanziatori della Scuola, da questi designati;  
+c) da altri professori o esperti del servizio e della ricerca sociale, designati dai professori di cui alla lettera a), in numero pari a quello dei componenti di cui alla lettera b);  
+d) dai direttori della Scuola, del C.E.P.A.S. e dal Centro di ricerca, nominati secondo l'art. 357, lettera a) e b).  
+Art. 357. - Il Comitato direttivo della Scuola:  
+a) designa il direttore della Scuola, la cui nomina avviene per decreto rettorale, sentito il Consiglio della Facolta';  
+b) nomina, su designazione del direttore della Scuola, il direttore del C.E.P.A.S. e il direttore del Centro di ricerca;  
+c) delibera il bilancio interno della Scuola;  
+d) approva il regolamento della Scuola e le sue modificazioni, sentiti i Consigli dei professori del C.E.P.A.S. e del Centro di ricerca.  
+Art. 358. - Il C.E.P.A.S. e il Centro di ricerca hanno ciascuno un proprio Consiglio dei professori, composto dal rispettivo direttore, che lo presiede, e dai professori che vi insegnano. I Consigli deliberano sui piani di studio e su ogni altra questione di natura didattica e disciplinare, su convocazione del direttore.  
+Art. 359. - Gli incarichi di insegnamento sono conferiti dal direttore della Scuola a docenti anche di altre Facolta' e ad esperti della materia.  
+Art. 360. - Il corso di diploma del C.E.P.A.S. ha la durata di tre anni.  
+I singoli insegnamenti possono svolgersi lungo l'intero anno scolastico o in un solo semestre.  
+Il regolamento della Scuola fissa le date di inizio e di chiusura dei corsi annuali e semestrali.  
+E' ammesso II prolungamento del periodo di iscrizione, con collocazione dell'allievo fuori corso, purche' Il prolungamento non superi la durata del corso stesso.  
+Art. 361. - In ciascuno dei tre anni accademici del corso di diploma del C.E.P.A.S., l'insegnamento ha Insieme carattere teorico e pratico.  
+Le materie d'insegnamento e i corsi sono i seguenti:  
+  
 1° Anno:  
-insegnamento pratico:  
-1) chirurgia generale;  
-2) pronto soccorso generale;  
-3) fisioterapia;  
-insegnamento teorico:  
-1) anatomia dell'apparato locomotore;  
-2) fisiologia dell'apparato locomotore;  
-3) semeiotica ortopedica;  
-4) nozioni di chirurgia generale;  
-5) bioingegneria dell'apparato locomotore I.  
+Metodologia del servizio sociale (semestrale);  
+Lavoro sociale individuale I (semestrale);  
+Lavoro sociale di gruppo I (annuale);  
+Ricerca sociale I: nozioni di statistica (semestrale);  
+Antropologia culturale (semestrale);  
+Corso interdisciplinare sullo sviluppo psicofisico dell'individuo (annuale);  
+Elementi di diritto privato (semestrale);  
+Elementi di diritto pubblico (semestrale);  
+Legislazione assistenziale (semestrale);  
+Legislazione sociale (semestrale);  
+Elementi di sociologia (semestrale);  
+Storia politico-sociale dell'Italia contemporanea (semestrale).  
+  
 2° Anno:  
-insegnamento pratico:  
-1) chirurgia generale (con frequenza eventuale in reparti specialistici interessati per l'apparato locomotore);  
-2) reparti di pronto soccorso traumatologico;  
-3) reparti di ortopedia e traumatologia;  
-insegnamento teorico:  
-1) anatomia ed istologia patologica dell'apparato locomotore I;  
-2) patologia ortopedica I;  
-3) clinica ortopedica I;  
-4) traumatologia dell'apparato locomotore I;  
-5) radiologia I;  
-6) nozioni di chirurgia d'urgenza e pronto soccorso;  
-7) bioingegneria dell'apparato locomotore II.  
+Lavoro sociale di comunita' I: pedagogia dell'educazione degli adulti (semestrale);  
+Lavoro sociale individuale II (annuale);  
+Lavoro sociale di gruppo II (annuale);  
+Ricerca sociale II (semestrale);  
+Diritto penale e legislaz. minorile (semestrale);  
+Igiene e medicina sociale (semestrale);  
+Politica economica I (semestrale);  
+Politica economica II: economia e politica agraria (semestrale);  
+Psicopatologia (annuale);  
+Elementi di neuropsichiatria (semestrale).  
+  
 3° Anno:  
-insegnamento pratico:  
-1) reparti di ortopedia e traumatologia (in particolare sale di degenza e sale gessi);  
-insegnamento teorico:  
-1) anatomia e istologia patologica dell'apparato locomotore II;  
-2) patologia dell'apparato locomotore II;  
-3) clinica ortopedica II;  
-4) traumatologia dell'apparato locomotore II;  
-5) radiologia II;  
-6) tecnica operatoria I;  
-7) apparatoterapia e tecnica degli apparecchi gessati;  
-8) elementi di reumatologia.  
-4° Anno:  
-insegnamento pratico:  
-1) reparti di ortopedia e traumatologia (frequenza nei reparti operatori);  
-insegnamento teorico:  
-1) patologia dell'apparato locomotore III;  
-2) clinica ortopedica III;  
-3) traumatologia dell'apparato locomotore III;  
-4) tecnica operatoria II;  
-5) fisiokinesiterapia I;  
-6) neuropatologia dell'apparato locomotore ed elettrodiagnostica;  
-7) nozioni di medicina legale.  
-5° Anno:  
-insegnamento pratico:  
-1) reparti di ortopedia e traumatologia (frequenza nei reparti operatori);  
-2) officine ortopediche;  
-insegnamento teorico:  
-1) patologia dell'apparato locomotore IV;  
-2) clinica ortopedica IV;  
-3) traumatologia dell'apparato locomotore IV;  
-4) tecnica operatoria III;  
-5) fisioterapia II.  
-Art. 506. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.  
-Art. 507. - Alla fine di ogni corso gli iscritti, per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante lo anno. Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.  
-Al termine del corso di studi, per il conseguimento del diploma di specializzazione in ortopedia, gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
-
-Art. 2
-------
-
+Amministrazione dei servizi sociali (semestrale);  
+Lavoro sociale di comunita' II (annuale);  
+Lavoro sociale individuale III (annuale);  
+Lavoro sociale di gruppo III (annuale);  
+Ricerca sociale III (annuale);  
+Problemi pedagogici del servizio sociale scolastico (semestrale);  
+Seminario sui problemi del lavoro (annuale);  
+Seminario di storia comparata dell'educazione degli adulti (annuale);  
+Seminario di metodologia e didattica dell'educazione degli adulti (annuale);  
+L'attivita' pratica consiste in:  
+a) esercitazioni pratiche che si svolgono nell'ambito dei singoli insegnamenti a scopo di illustrazione, applicazione ed integrazione della parte teorica;  
+b) visite ad uffici pubblici, aziende, istituti assistenziali e tirocini preprofessionali (1° anno);  
+c) tirocini professionali sotto la supervisione di assistenti sociali qualificati, presso enti di servizio sociale (2° e 3° anno).  
+Art. 362. - Gli esami si svolgono di norma in due sessioni, la prima dopo la chiusura annuale dei corsi e la seconda prima dell'inizio del nuovo anno; e possono essere predisposti per gruppi di materie.  
+Per il passaggio da un'anno all'altro gli allievi dovranno aver seguito i corsi indicati nel piano di studi stabilito dal Consiglio dei professori, superati gli esami relativi e compiuto con esito favorevole i tirocini prescritti.  
+Art. 363. - L'esame finale per il conseguimento del "Diploma di assistente sociale ed educatore degli adulti" consiste nella preparazione e nella discussione di una dissertazione scritta in cui il candidato dimostri la sua capacita' di applicare le conoscenze acquisite alla soluzione di problemi concreti.  
+La discussione ha luogo davanti ad una Commissione nominata dal direttore, che la presiede, e formata da almeno cinque membri del Consiglio dei professori del C.E.P.A.S. e da un rappresentante del Comitato direttivo della Scuola.  
+Art. 364. - Il Centro di ricerca ha lo scopo di promuovere inchieste e studi nel dominio delle scienze morali e sociali su base interdisciplinare, sia mediante indagini nel campo operativo, sia mediante indagini puramente dottrinali.  
+Il Centro ha altresi' lo scopo di promuovere gli studi e le ricerche predette con riguardo ai problemi che sorgono dall'incontro delle singole culture e strutture nazionali sul piano della Comunita' europea.  
+Nell'ambito piu' strettamente didattico il corso di formazione dei ricercatori sociali del Centro di ricerca ha, di norma, la durata di due anni e comprende insegnamenti teorici, seminari e tirocini per l'addestramento alla ricerca. La sua durata puo' essere ridotta, a giudizio del Consiglio dei professori, a un anno, per quei laureati delle Facolta' previste dall'art. 354 ultimo comma, i quali, prima della laurea, abbiano partecipato all'attivita' del Centro a partire almeno dal 3° anno del loro corso di studi.  
+Art. 365. - Lo studente e' tenuto a predisporre un piano di studi, che deve essere approvato dal Consiglio dei professori del centro di Ricerca, comprendente almeno due insegnamenti teorici e due seminari per ciascun anno.  
   
-Gli articoli 549 e 550, relativi alla scuola di specializzazione in malattie tropicali e sub-tropicali che muta la denominazione in medicina tropicale, sono soppressi e sostituiti dai seguenti:  
+Gli insegnamenti teorici, con relativi seminari, sono i seguenti:  
+Metodologia delle scienze morali e sociali;  
+Filosofia morale;  
+Storia contemporanea;  
+Elementi di sociologia;  
+Sociologia istituzionale;  
+Storia delle dottrine sociologiche;  
+Tecniche della ricerca sociale;  
+Istituzioni di scienza politica;  
+Scienza politica;  
+Storia delle dottrine politiche;  
+Elementi di economia;  
+Psicologia sociale;  
+Antropologia culturale;  
+Statistica e demografia.  
+Inoltre lo studente deve partecipare, durante ogni anno di corso, ad almeno una ricerca fra quelle condotte dal Centro.  
+Art. 366. - Le prove d'esame consistono in un colloquio, al termine di ciascun anno di corso, attinente sia agli insegnamenti teorici e ai seminari, sia alle ricerche compiute dall'allievo.  
+La Commissione esaminatrice e' composta dai docenti dei corsi e dei seminari seguiti dal candidato.  
+Art. 367. - L'esame finale per il conseguimento dell'attestato di idoneita' ai compiti di ricercatore sociale consiste nella discussione dei risultati di una ricerca individuale o di gruppo condotta dal candidato su tema previamente concordato col direttore del Centro ricerca a coronamento del piano individuale di studi.  
+La discussione ha luogo davanti ad una Commissione nominata dal direttore, che la presiede, e formata da almeno tre membri del Consiglio dei professori del Centro di ricerca e da un rappresentante del Comitato direttivo della Scuola.  
   
-Scuola di specializzazione in medicina tropicale  
+Norma transitoria  
   
-Art. 549. - La scuola di specializzazione in medicina tropicale ha sede presso l'istituto di clinica delle malattie tropicali e infettive e conferisce il "diploma di specialista in medicina tropicale".  
-La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.  
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.  
-Il numero massimo degli allievi e' di venti per anno di corso e complessivamente di ottanta iscritti per l'intero corso di studi.  
-L'ammissione al corso avviene per titoli ed esami.  
-Art. 550. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-1) epidemiologia;  
-2) entomologia e zoologia;  
-3) batteriologia;  
-4) virologia;  
-5) parassitologia;  
-6) micologia.  
-2° Anno:  
-7) clinica delle malattie tropicali I;  
-8) tecniche batteriologiche in riferimento alla patologia tropicale;  
-9) tecniche virologiche in riferimento alla patologia tropicale;  
-10) tecniche parassitologiche in riferimento alla patologia tropicale;  
-11) tecniche micologiche in riferimento alla patologia tropicale.  
-3° Anno:  
-12) clinica delle malattie tropicali II;  
-13) igiene e profilassi in riferimento alla patologia tropicale;  
-14) immunologia, nozioni generali;  
-15) tecniche immunologiche in riferimento alla patologia tropicale;  
-16) farmacologia;  
-17) radiologia.  
-4° Anno:  
-18) clinica delle malattie tropicali III;  
-19) diagnostica in patologia tropicale;  
-20) terapia delle malattie tropicali;  
-21) chirurgia ed ostetricia d'urgenza;  
-22) dermatologia tropicale.  
-La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.  
-Alla fine di ogni corso gli iscritti, per essere ammessi agli esami di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno; per le materie a corsi pluriennali l'esame e' sostenuto alla fine dei corsi medesimi.  
-Al termine del corso di studi per il conseguimento del diploma di specialista in medicina tropicale gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
-
-Art. 3
-------
-
+Alla data dell'entrata in vigore dalle presenti disposizioni, gli studenti del preesistente C.E.P.A.S. di Roma possono richiedere l'abbreviazione degli studi, in base agli esami sostenuti ed essere ammessi, a giudizio del Consiglio dei professori, al secondo o al terzo anno del corso o alla discussione della tesi di diploma.  
+Gli ex-iscritti dello stesso C.E.P.A.S., che abbiano sostenuto l'esame finale di diploma presso di esso, potranno ottenere il corrispondente diploma della Scuola previa presentazione e discussione della dissertazione gia' elaborata, davanti alla Commissione di diploma di cui all'art. 363.  
+Dopo l'art. 601 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli, relativi alla istituzione della Scuola speciale di servizio sociale, ad indirizzo sanitario psicologico annessa alla Facolta' di medicina e chirurgia.  
   
+Scuola speciale di servizio sociale  
+ad indirizzo sanitario psicologico  
+Art. 602. - Presso l'Istituto di psicologia della Facolta' di medicina e chirurgia e' istituita la "Scuola speciale di servizio sociale, ad indirizzo sanitario psicologico", ai sensi dell'art. 20 terzo comma, lettera a) del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592).  
+La Scuola si propone di preparare all'esercizio professionale del servizio sociale, mediante l'insegnamento teorico delle discipline di base e professionali, integrato da esercitazioni e tirocini professionali, come stabilito dall'art. 612. Come risulta dal medesimo art. 612 nella formazione teorica di base impartita dalla Scuola e' dato particolare rilievo al campo delle discipline psicologico-psichiatriche e dell'igiene mentale, orientando, in tal modo, la preparazione degli allievi prevalentemente al trattamento dei casi individuali.  
+La Scuola conferisce il diploma di "Assistente sociale".  
+Art. 603. - I docenti della Scuola sono scelti fra i professori universitari - di ruolo, fuori ruolo, incaricati e liberi docenti - e fra coloro che, per opere, uffici o insegnamenti tenuti, siano di riconosciuta competenza ed esperienza nelle materie che formano oggetto dell'insegnamento.  
+L'assistenza alle esercitazioni e ai tirocini professionali e' affidata ad esperti di Servizio sociale - i "monitori" - la cui attivita' e' coordinata da un direttore delle esercitazioni e dei tirocini professionali.  
+I docenti, il direttore delle esercitazioni e dei tirocini professionali ed i monitori sono nominati dal rettore dell'Universita' su proposta del Consiglio della Scuola.  
+Per la nomina dei docenti di quegli insegnamenti che rientrano nelle competenze della Facolta' di medicina e chirurgia, il Consiglio della Scuola chiedera' preventivamente il parere di quest'ultima.  
+I docenti degli insegnamenti di cui al gruppo B dello art. 612, il direttore delle esercitazioni e dei tirocini professionali, ed i monitori debbono di norma possedere il titolo di "Assistente sociale".  
+Art. 604. - Possono essere ammessi alla Scuola coloro che siano in possesso di un titolo di studi medi superiori valido per l'immatricolazione ai corsi universitari.  
+L'ammissione, per la quale potra' essere stabilito un numero limitato a giudizio del Consiglio della Scuola, e' subordinata in ogni caso al superamento di prove di valutazione personale.  
+Art. 605. - La Scuola e' diretta dal direttore dello Istituto di psicologia della Facolta' di medicina e chirurgia. Vice-direttore della Scuola e' un professore di ruolo della Facolta' di scienze statistiche, demografiche l'ordinamento degli studi della Scuola, e che su proposta del direttore di quest'ultima, sia designato dalla Facolta' medesima.  
+Art. 606. - Per i problemi riguardanti l'ordinamento degli studi, il direttore e' assistito dal Consiglio della Scuola, composto: dal direttore stesso, che lo presiede, dal vice-direttore e da lutti i docenti, nonche' dal direttore delle esercitazioni e dei tirocini professionali, il quale svolge anche funzioni di segretario del Consiglio medesimo.  
+Per determinati problemi di carattere tecnico riguardanti la formazione professionale degli assistenti sociali, possono essere chiamati a partecipare alle adunanze del Consiglio della Scuola anche i monitori.  
+Art. 607. - Spetta al Consiglio della Scuola:  
+1) determinare l'ordine degli studi;  
+2) proporre al rettore la nomina dei docenti, del direttore delle esercitazioni pratiche e dei tirocini professionali, e dei monitori;  
+3) coordinare ed approvare i programmi dei singoli corsi teorici delle esercitazioni pratiche e dei tirocini professionali;  
+4) stabilire l'orario delle lezioni e delle esercitazioni pratiche e il diario e le modalita' degli esami, sia di profitto che di diploma;  
+5) deliberare sulle domande di abbreviazione di corso, presentate dai diplomati e studenti che provengano da altre Scuole di Servizio sociale, e determinare gli ulteriori obblighi di frequenza e di esami;  
+6) determinare, ove lo ritenga necessario, il numero degli allievi che possono essere ammessi al primo anno, nonche' le modalita' di ammissione;  
+7) proporre al rettore la nomina dei professori di ruolo della Universita' di Roma di cui al punto c) e dell'ultimo comma dell'art. 608;  
+Art. 608. - Per i problemi di carattere amministrativo, il direttore della Scuola e' assistito da un apposito Comitato, composto:  
+a) dallo stesso direttore della Scuola, che lo presiede;  
+b) dal vice-direttore della Scuola, che presiede il Comitato in caso di assenza o impedimento del direttore;  
+c) da un altro professore di ruolo dell'Universita' di Roma, titolare di una disciplina che rientri nell'ordinamento degli studi della Scuola, ed eventualmente docente della Scuola stessa;  
+d) dal direttore delle esercitazioni e dei tirocini professionali, che assolve anche funzioni di segretario del Comitato;  
+e) da tre rappresentanti di ciascuno degli Enti o privati che concorrono alle spese di funzionamento della Scuola con contributi annui individuali non inferiori a quanto determinato a norma dell'art. 609.  
+Il numero dei professori di ruolo di cui al punto c) del presente articolo, e' aumentato di tante unita' quanti sono i membri, di cui al punto e) del medesimo articolo, eccedenti il numero di tre.  
+Art. 609. - Spetta al Comitato di cui all'articolo precedente:  
+1) proporre al rettore l'ammontare delle tasse, soprattasse e contributi generali e speciali dovuti dagli allievi;  
+2) determinare i compensi da corrispondere ai docenti, al direttore delle esercitazioni e dei tiroci professionali, ai monitori e a tutti coloro che prestano la loro, opera nella Scuola, salvo che i compensi stessi non siano fissati da disposizioni legislative;  
+3) autorizzare ogni altra spesa occorrente al funzionamento della Scuola;  
+4) determinare l'ammontare del contributo che, a norma dell'art. 608, da' diritto alla partecipazione, nel Comitato, di tre rappresentanti per ciascun Ente o privato che concorra alle spese di funzionamento della Scuola;  
+5) approvare il bilancio interno della Scuola.  
+Detto Comitato puo' autorizzare il proprio presidente a provvedere direttamente, in casi determinati ed entro determinati limiti, a spese non ricorrenti.  
+Il direttore della Scuola da' esecuzione alle deliberazioni del Comitato, conformi al bilancio interno ed alle norme amministrative contenute nella legislazione universitaria.  
+Art. 610. - Le entrate della Scuola sono costituite dalle tasse, soprattasse e contributi scolastici e dai contributi erogati eventualmente dallo Stato, dall'Universita', da Enti e da privati.  
+Art. 611. - Il corso degli studi per il conseguimento del diploma di assistente sociale ha la durata di tre anni.  
+Art. 612. - Gli insegnamenti teorici (eventualmente integrati da esercitazioni) sono i seguenti:  
   
-Gli articoli 652, 653, 654, 655, 656, 657 e 658, relativi alla scuola di specializzazione in malattie infettive (prima scuola), sono soppressi e sostituiti dai seguenti:   
+GRUPPO A: Insegnamenti di base:  
+Biologia e fisiologia umana, biennale;  
+Psicologia (ps. generale, differenziale, clinica; ps. della eta' evolutiva; ps. sociale; ps. applicata), triennale;  
+Psicopatologia e igiene mentale, triennale;  
+Patologia, igiene e medicina preventiva in campo somatico, triennale;  
+Elementi di sociologia e antropologia culturale, biennale;  
+Elementi di diritto pubblico e privato, biennale;  
+Elementi di economia politica e di storia politica-economico-sociale, triennale.  
   
-Scuola di specializzazione in malattie infettive (due scuole)   
-  
-Art. 652. - Sono istituite due scuole di specializzazione in malattie infettive; la prima scuola ha sede presso l'istituto di III clinica medica generale e terapia medica, la seconda scuola presso l'istituto di malattie infettive.   
-Le scuole conferiscono il "diploma di specialista in malattie infettive".   
-La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.   
-Art. 653. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione allo esercizio professionale rilasciato dall'autorita' competente.   
-Art. 654. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
-Art. 655. - Il numero degli allievi da ammettere a ciascuna scuola e' stabilito in:   
-ottanta specializzandi (venti per anno di corso) per la prima scuola;   
-ottanta specializzandi (venti per anno di corso) per la seconda scuola.   
-L'ammissione al corso avviene per titoli ed esami.   
-Art. 656. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-1) epidemiologia generale delle malattie infettive;   
-2) batteriologia e micologia;   
-3) virologia;   
-4) parassitologia;   
-5) immunologia generale.   
-2° Anno:   
-6) tecniche batteriologiche e micologia applicate alle malattie infettive;   
-7) tecniche virologiche applicate alle malattie infettive;   
-8) tecniche parassitologiche applicate alle malattie infettive;  
-9) tecniche immunologiche applicate alle malattie infettive;   
-10) anatomia patologica;   
-11) genetica.   
-3° Anno:   
-12) clinica delle malattie infettive I;   
-13) diagnostica e semeiotica delle malattie infettive;   
-14) radiologia;   
-15) medicina preventiva delle malattie infettive.   
-4° Anno:   
-16) clinica delle malattie infettive II;   
-17) malattie tropicali;   
-18) legislazione sanitaria delle malattie infettive;   
-19) farmacologia e terapia delle malattie infettive.   
-Art. 657. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.   
-Art. 658. - Al termine di ciascun anno di corso gli allievi sono tenuti a sostenere gli esami del rispettivo anno; al termine del corso di studi per il conseguimento del diploma di "specialista in malattie infettive", gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente la specialita'.   
-
-Art. 4
-------
-
-  
-Gli articoli 798, 799, 800 e 801, relativi alla prima scuola di malattie infettive, sono soppressi con il conseguente spostamento della numerazione successiva.  
+GRUPPO B: Insegnamenti professionali:  
+Introduzione al servizio sociale, annuale;  
+Servizio sociale individuale, triennale;  
+Servizio sociale di gruppo e di comunita', biennale;  
+Amministrazione dei "Servizi sociali", annuale;  
+Metodologia della ricerca applicata al servizio sociale, triennale;  
+Etica generale e professionale, biennale.  
+I tirocini professionali, consistenti in esperienze concrete di servizio sociale, vengono effettuati, nei singoli anni di corso, presso Enti ed Istituzioni adatti, sotto la guida di "Supervisori".  
+Art. 613. - Gli esami sono di profitto e di diploma.  
+Gli esami di profitto hanno luogo in due sessioni: la prima dopo la chiusura annuale dei corsi, la seconda prima dell'inizio del nuovo anno.  
+Per essere ammesso agli esami annuali di profitto, lo studente deve aver frequentato assiduamente le lezioni ed avere effettuato le esercitazioni ed i tirocini professionali prescritti, ottenendone una valutazione positiva.  
+Per essere ammesso all'esame di diploma, lo studente, oltre ad avere adempiuto a tutti gli obblighi di frequenza ed esami dei vari anni e ad avere effettuato le esercitazioni e i tirocini professionali prescritti, deve presentare una dissertazione scritta in materia di servizio sociale, nonche' una relazione riassuntiva sui tirocini professionali di Servizio sociale effettuati nell'intero triennio.  
+L'esame di diploma consiste nella discussione della tesi o della relazione.  
+Art. 614. - Il direttore della Scuola, in conformita' alle deliberazioni del Consiglio della Scuola, provvede alla tempestiva pubblicazione di un manifesto-programma annuale in cui sono specificati:  
+a) la distribuzione degli insegnamenti teorici nei vari anni di corso, con l'indicazione dei relativi docenti e monitori;  
+b) i tirocini professionali che verranno svolti nel corso dell'anno accademico con l'indicazione degli Enti di tirocinio;  
+c) le sessioni, le modalita' e le condizioni degli esami di profitto e di diploma;  
+d) le tasse, le soprattasse e i contributi generali e speciali dovuti dagli allievi;  
+e) il numero minimo e massimo delle iscrizioni e le modalita' di ammissione.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 ottobre 1981
+### Dato a Roma, addi' 3 maggio 1966
 
-PERTINI BODRATO
+SARAGAT GUI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 30 gennaio 1982
+Registrato alla Corte dei conti, addi' 28 maggio 1966
 
-Registro n. 12 Istruzione, foglio n. 31
+Atti del Governo, registro n. 203, foglio n. 94. - VILLA

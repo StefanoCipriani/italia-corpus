@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1978 n. 387
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1974 n. 894
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1978 n. 387
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1974 n. 894
+============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-387. Decreto del Presidente della Repubblica 3 maggio 1978, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato della donazione disposta dalla sig.ra Maria Arrighi vedova Jesi con atto di donazione 21 luglio 1976, n. 32603 di repertorio, a rogito dott. Domenico Acquarone, notaio in Milano, consistente in una collezione composta di quarantotto quadri e cinque sculture che testimoniano l'arte figurativa italiana degli ultimi anni dell'800 e dei primi del 900, i quali rivestono un importante interesse storico e artistico, da destinare alla Pinacoteca nazionale di Brera, in Milano.  
+894. Decreto del Presidente della Repubblica 27 marzo 1974, col quale, sulla proposta del Ministro per la pubblica istruzione, viene autorizzata l'accettazione della donazione del dipinto su tavola di Dosso Dossi, raffigurante "Adorazione dei pastori" (cm 47,6 x 65), disposta dalla signora Siller Giulia ved. Tinozzi a favore dello Stato con atto notarile 3 luglio 1972, n. 25619 di repertorio a rogito del notaio dott. Giulio Filiberti, rettificato con atto del 12 aprile 1972, n. 36382 di repertorio a rogito medesimo notaio. L'opera suddetta viene, altresi', destinata alla pinacoteca nazionale di Bologna.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 10 luglio 1978  
-Registro n. 9 Beni culturali, foglio n. 313
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 15 aprile 1975  
+Atti di Governo, registro n. 9, foglio n. 50

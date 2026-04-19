@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 luglio 1950 n. 1303
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1973 n. 1100
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 luglio 1950 n. 1303
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1973 n. 1100
+===============================================================
 
 Modificazione allo statuto della Scuola normale superiore di Pisa.
 ------------------------------------------------------------------
@@ -12,33 +12,32 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto della Scuola normale superiore di Pisa, approvato con [regio decreto 21 ottobre 1938, n. 2216](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-10-21;2216), e modificato con i [regi decreti 21 ottobre 1940, n. 1654](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-21;1654) e [17 ottobre 1941, n. 1214](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1214);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduta la proposta di modifica allo statuto formulata dal Consiglio direttivo della predetta Scuola;  
+Veduto lo statuto della Scuola normale superiore di Pisa, approvato con [decreto del Presidente della Repubblica 31 marzo 1969, n. 281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-03-31;281);  
+Veduto il testo unico delle leggi sull'istruzione Superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche della Scuola anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto della Scuola normale superiore di Pisa, approvato e modificato con i decreti sopraindicati, ulteriormente modificato come appresso:  
-La tabella A di cui all'art. 6 dello statuto attuale e' sostituita dalla seguente:  
+Lo statuto della Scuola normale superiore di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 5, relativo alla elezione del consiglio direttivo, e' modificato nel senso che il terzo comma e' abrogato e sostituito dal seguente:  
+"I rappresentanti degli allievi sono eletti ogni anno entro il 31 dicembre a scrutinio segreto dagli allievi riuniti in assemblea e rimangono in carica fino all'avvenuta elezione dei rappresentanti dell'anno successivo ma comunque non oltre il 31 dicembre.  
+Coloro che vengono a cessare nel corso dell'anno saranno surrogati da coloro che li seguono nell'ordine di designazione per numero di voti".  
   
-TABELLA A  
-  
-Indennita' di carica del direttore e del vice-direttore  
-(art. 6)  
-  
-Direttore. . . . . . . . . . . . . . . . . . . . . annue lire 120.000 Vice-direttore . . . . . . . . . . . . . . . . . . annue lire i60.000   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 luglio 1950
+### Dato a Roma, addi' 16 ottobre 1973
 
-EINAUDI GONELLA
+LEONE MALFATTI
 
-Visto, il Guardasigilli: PICCIONI
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 1 dicembre 1951
+Registrato alla Corte dei conti, addi' 24 maggio 1974
 
-Atti del Governo, registro n. 47, foglio n. 1. - FRASCA
+Atti di Governo, registro n. 3, foglio n. 45. - SCIARRETTA

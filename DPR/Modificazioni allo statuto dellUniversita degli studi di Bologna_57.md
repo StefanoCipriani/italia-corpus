@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1192
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1969 n. 842
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1192
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1969 n. 842
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,137 +20,305 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduta la [legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910);
+Veduta la [legge 25 luglio 1966, n. 602](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-07-25;602);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' di Bologna, intese ad ottenere l'istituzione del corso di laurea in discipline delle arti, della musica e dello spettacolo presso le facolta' di magistero e di lettere e filosofia;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla
------
+Sulla proposta del Ministro per la pubblica istruzione;
 
-proposta del Ministro per la pubblica istruzione; Decreta:
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 92. - E' integrato nel senso che l'elenco delle lauree rilasciate dalla facolta' di scienze matematiche, fisiche e naturali comprende anche la laurea in astronomia.
+
+Dopo l'art. 95 e con il conseguente spostamento della numerazione degli articoli successivi sono aggiunti i seguenti nuovi articoli, relativi all'istituzione del corso di laurea in astronomia.
+
+Laurea in astronomia
+
+Art. 96. - La durata del corso degli studi per la laurea in astronomia e' di quattro anni.
+
+Art. 97. - Titolo di ammissione: diploma di maturita' classica, scientifica, di abilitazione per i provenienti dagli istituti tecnici, industriali, nautici, agrari e per geometri.
+
+Art. 98. - Sono insegnamenti fondamentali, obbligatori per il primo biennio:
+
+1) Astronomia;
+
+2) Fisica generale I;
+
+3) Fisica generale II;
+
+4) Analisi matematica I;
+
+5) Analisi matematica II;
+
+6) Geometria I;
+
+7) Chimica;
+
+8) Meccanica razionale;
+
+9) Esercitazioni di fisica.
+
+Alla fine del primo biennio e' richiesta la prova di conoscenza di due lingue straniere di importanza scientifica.
+
+Gli esami di fisica generale I, analisi matematica I, geometria, chimica, sono propedeutici a quelli di astronomia, fisica generale II, analisi matematica II, meccanica razionale.
+
+I corsi di fisica generale I e II, analisi matematica I e II, non devono essere considerati come corsi biennali: essi constano di due corsi distinti, l'uno propedeutico all'altro e con esami distinti.
+
+I corsi numero 1, 2, 3, 4, 5, 6, 7, 8 sono accompagnati da esercitazioni che ne fanno parte integrante. Per ciascuno dei corsi elencati vi e' un esame finale.
+
+Art. 99. - Gli insegnamenti obbligatori per il secondo biennio sono i seguenti:
+
+1) Complementi di astronomia;
+
+2) Astrofisica;
+
+3) Struttura della materia;
+
+4), 5) Esercitazioni di astronomia (biennale).
+
+A giudizio della facolta', le esercitazioni di astronomia potranno essere sostituite con il laboratorio di fisica biennale del corso della laurea in fisica.
+
+Art. 100. - Nel secondo biennio, oltre agli insegnamenti di cui al precedente paragrafo, dovranno essere impartite altre quattro discipline, di cui una dovra' essere ad indirizzo fisico e una ad indirizzo matematico:
+
+per l'indirizzo fisico: istituzioni di fisica teorica;
+
+per l'indirizzo matematico: meccanica celeste.
+
+I rimanenti due saranno insegnamenti complementari che lo studente potra' scegliere dall'elenco che segue nell'articolo successivo.
+
+Art. 101. - Elenco a carattere orientativo di insegnamenti entro cui potranno essere scelti i quattro insegnamenti di cui all'articolo precedente:
+
+Astrofisica teorica;
+
+Astrometria;
+
+Astronautica;
+
+Calcolo delle probabilita';
+
+Calcoli numerici e grafici;
+
+Chimica fisica;
+
+Chimica organica;
+
+Conduzione elettrica nei gas;
+
+Cosmologia;
+
+Elettrodinamica;
+
+Elettronica;
+
+Elettronica applicata;
+
+Fisica del sistema solare;
+
+Fisica del plasma;
+
+Fisica solare;
+
+Fisica dello spazio;
+
+Fisica matematica;
+
+Fisica nucleare;
+
+Fisica superiore;
+
+Fisica teorica;
+
+Geofisica;
+
+Geodesia;
+
+Istituzioni di analisi superiore;
+
+Istituzioni di fisica teorica;
+
+Istituzioni di fisica nucleare;
+
+Istituzioni di fisica matematica;
+
+Matematiche complementari;
+
+Matematiche superiori;
+
+Meccanica analitica;
+
+Meccanica celeste;
+
+Meccanica quantistica;
+
+Meccanica statistica;
+
+Meccanica superiore;
+
+Metodi matematici per la fisica;
+
+Metodi matematici per l'astronomia;
+
+Ottica;
+
+Ottica elettronica;
+
+Radioastronomia;
+
+Relativita';
+
+Spettroscopia;
+
+Statistica stellare;
+
+Storia dell'astronomia;
+
+Storia delle matematiche;
+
+Teoria delle funzioni;
+
+Teoria delle orbite;
+
+Teoria e applicazione delle macchine calcolatrici.
+
+Art. 102. - Potranno iscriversi ai corsi del secondo biennio soltanto quegli studenti che abbiano superato gli esami di analisi matematica I e II, fisica I, meccanica razionale, astronomia generale, geometria I.
+
+Art. 103. - L'esame di laurea dovra' comprendere un lavoro scritto e la discussione di tesine orali.
+
+Superato l'esame di laurea lo studente consegue il titolo di dottore in astronomia.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 23 ottobre 1969
+
+SARAGAT
+
+FERRARI AGGRADI
+
+Visto, il Guardasigilli: GAVA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 27 novembre 1969 Atti del Governo, registro n. 230, foglio n. 72. - CARUSO
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Presso la facolta' di lettere e filosofia e di magistero puo' essere istituito il corso di laurea in discipline delle arti, della musica e dello spettacolo.  
-Il titolo di studio per l'ammissione al predetto corso di laurea, la durata e l'ordinamento del corso medesimo sono stabiliti dalla tabella annessa al presente decreto, firmata, d'ordine nostro, dal Ministro per la pubblica istruzione.  
-All'elenco delle lauree e dei diplomi, di cui alla tabella n. 1 annessa al [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e' aggiunta la "Laurea in discipline delle arti, della musica e dello spettacolo".  
-La tabella II annessa al citato regio decreto n. 1652 e' integrata nel senso che le facolta' di lettere e filosofia e di magistero rilasciano anche la laurea in discipline delle arti, della musica e dello spettacolo.  
-Dopo la tabella XVI, annessa al [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e' inserita la tabella annessa al presente decreto, che assume il numero XVI-bis.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Veduta la [legge 25 luglio 1966, n. 602](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-07-25;602);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-A decorrere dall'anno accademico 1970-71 e' istituito presso le facolta' di lettere e filosofia dell'Universita' di Bologna il corso di laurea in discipline delle arti, della musica e dello spettacolo.
-
-Art. 3
-------
-
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato nel senso che dopo l'art. 74, e con il conseguente spostamento della numerazione degli articoli successivi, e' inserito un nuovo articolo, che assume il n. 75, contenente l'ordinamento del corso di laurea in discipline delle arti, della musica e dello spettacolo, conforme a quello previsto dalla tabella annessa al presente decreto.  
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 92. - E' integrato nel senso che l'elenco delle lauree rilasciate dalla facolta' di scienze matematiche, fisiche e naturali comprende anche la laurea in astronomia.   
+Dopo l'art. 95 e con il conseguente spostamento della numerazione degli articoli successivi sono aggiunti i seguenti nuovi articoli, relativi all'istituzione del corso di laurea in astronomia.   
+  
+Laurea in astronomia   
+  
+Art. 96. - La durata del corso degli studi per la laurea in astronomia e' di quattro anni.   
+Art. 97. - Titolo di ammissione: diploma di maturita' classica, scientifica, di abilitazione per i provenienti dagli istituti tecnici, industriali, nautici, agrari e per geometri.   
+Art. 98. - Sono insegnamenti fondamentali, obbligatori per il primo biennio:   
+1) Astronomia;   
+2) Fisica generale I;   
+3) Fisica generale II;   
+4) Analisi matematica I;   
+5) Analisi matematica II;   
+6) Geometria I;   
+7) Chimica;   
+8) Meccanica razionale;   
+9) Esercitazioni di fisica.   
+Alla fine del primo biennio e' richiesta la prova di conoscenza di due lingue straniere di importanza scientifica.   
+Gli esami di fisica generale I, analisi matematica I, geometria, chimica, sono propedeutici a quelli di astronomia, fisica generale II, analisi matematica II, meccanica razionale.   
+I corsi di fisica generale I e II, analisi matematica I e II, non devono essere considerati come corsi biennali: essi constano di due corsi distinti, l'uno propedeutico all'altro e con esami distinti.   
+I corsi numero 1, 2, 3, 4, 5, 6, 7, 8 sono accompagnati da esercitazioni che ne fanno parte integrante. Per ciascuno dei corsi elencati vi e' un esame finale.   
+Art. 99. - Gli insegnamenti obbligatori per il secondo biennio sono i seguenti:   
+1) Complementi di astronomia;   
+2) Astrofisica;   
+3) Struttura della materia;   
+4), 5) Esercitazioni di astronomia (biennale).   
+A giudizio della facolta', le esercitazioni di astronomia potranno essere sostituite con il laboratorio di fisica biennale del corso della laurea in fisica.   
+Art. 100. - Nel secondo biennio, oltre agli insegnamenti di cui al precedente paragrafo, dovranno essere impartite altre quattro discipline, di cui una dovra' essere ad indirizzo fisico e una ad indirizzo matematico:   
+per l'indirizzo fisico: istituzioni di fisica teorica;   
+per l'indirizzo matematico: meccanica celeste.   
+I rimanenti due saranno insegnamenti complementari che lo studente potra' scegliere dall'elenco che segue nell'articolo successivo.   
+Art. 101. - Elenco a carattere orientativo di insegnamenti entro cui potranno essere scelti i quattro insegnamenti di cui all'articolo precedente:   
+  
+Astrofisica teorica;   
+Astrometria;   
+Astronautica;   
+Calcolo delle probabilita';   
+Calcoli numerici e grafici;   
+Chimica fisica;   
+Chimica organica;   
+Conduzione elettrica nei gas;   
+Cosmologia;   
+Elettrodinamica;   
+Elettronica;   
+Elettronica applicata;   
+Fisica del sistema solare;   
+Fisica del plasma;   
+Fisica solare;   
+Fisica dello spazio;   
+Fisica matematica;   
+Fisica nucleare;   
+Fisica superiore;   
+Fisica teorica;   
+Geofisica;   
+Geodesia;   
+Istituzioni di analisi superiore;   
+Istituzioni di fisica teorica;   
+Istituzioni di fisica nucleare;   
+Istituzioni di fisica matematica;   
+Matematiche complementari;   
+Matematiche superiori;   
+Meccanica analitica;   
+Meccanica celeste;   
+Meccanica quantistica;   
+Meccanica statistica;   
+Meccanica superiore;   
+Metodi matematici per la fisica;   
+Metodi matematici per l'astronomia;   
+Ottica;   
+Ottica elettronica;   
+Radioastronomia;   
+Relativita';   
+Spettroscopia;   
+Statistica stellare;   
+Storia dell'astronomia;   
+Storia delle matematiche;   
+Teoria delle funzioni;   
+Teoria delle orbite;   
+Teoria e applicazione delle macchine calcolatrici.   
+Art. 102. - Potranno iscriversi ai corsi del secondo biennio soltanto quegli studenti che abbiano superato gli esami di analisi matematica I e II, fisica I, meccanica razionale, astronomia generale, geometria I.   
+Art. 103. - L'esame di laurea dovra' comprendere un lavoro scritto e la discussione di tesine orali.   
+Superato l'esame di laurea lo studente consegue il titolo di dottore in astronomia.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1970
+### Dato a Roma, addi' 23 ottobre 1969
 
-SARAGAT MISASI
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 19 gennaio 1971
+Registrato alla Corte dei conti, addi' 27 novembre 1969
 
-Atti del Governo, registro n. 240, foglio n. 80. - CARUSO
-
-Tabella XVI bis
-
- TABELLA XVI bis   
-  
-Laurea in discipline delle arti, della musica e dello spettacolo   
-  
-Durata del corso: quattro anni.   
-Titolo di ammissione: quello consentito dalle vigenti disposizioni di legge.   
-Il corso di studi si distingue in tre indirizzi: a) arti; b) musica; c) spettacolo.   
-Insegnamenti fondamentali comuni ai tre indirizzi:   
-italiano;   
-Estetica;   
-Lingua straniera;   
-Psicologia.   
-Discipline fondamentali specifiche per l'indirizzo delle arti:   
-Teoria delle forme;   
-Semiologia delle arti;   
-Fenomenologia degli stili;   
-Storia delle arti.   
-Discipline fondamentali specifiche per l'indirizzo della musica:   
-Teoria musicale;   
-Semiologia della musica;   
-Elementi di armonia e contrappunto;   
-Storia della musica.   
-Discipline fondamentali specifiche per l'indirizzo dello spettacolo:   
-Istituzioni di regia;   
-Drammaturgia;   
-Semiologia dello spettacolo;   
-Storia dello spettacolo.   
-Discipline complementari per i tre indirizzi:   
-Antropologia culturale;   
-Architettura teatrale;   
-Caratteri dell'architettura contemporanea;   
-Cinematografia documentaria;   
-Civilta' musicale afro-americana;   
-Complementi di elettronica;   
-Complementi di statistica;   
-Comunicazioni di massa;   
-Disegno industriale;   
-Docimologia;   
-Drammaturgia classica;   
-Drammaturgia musicale;   
-Elementi di acustica e di ottica;   
-Elementi di coreografia;   
-Elementi di scenografia;   
-Elementi di storia della liturgia;   
-Etnomusicologia;   
-Filmologia;   
-Forme della poesia per musica;   
-Metodologia della critica delle arti;   
-Metodologia della critica della musica;   
-Metodologia della critica dello spettacolo;   
-Museografia;   
-Organizzazione delle forme;   
-Organizzazione ed economia dello spettacolo;   
-Organologia e storia degli strumenti musicali;   
-Problemi di storiografia delle arti;   
-Problemi di storiografia musicale;   
-Problemi di storiografia dello spettacolo;   
-Psicologia della percezione;   
-Scienza e tecnica del restauro;   
-Sociologia;   
-Storia della moda e del costume;   
-Storia dell'architettura;   
-Storia del cinema;   
-Storia delle istituzioni e delle strutture sociali;   
-Storia del mimo e della danza;   
-Storia della scenografia;   
-Struttura della figurazione;   
-Teatro d'animazione;   
-Tecnica della comunicazione visiva;   
-Tecniche della fotografia;   
-Tecnica del linguaggio radio televisivo;   
-Tecniche pubblicitarie;   
-Tecnologia dei materiali;   
-Teoria dell'informazione;   
-Tradizioni popolari e folklore;   
-Urbanistica.   
-Per essere ammesso a sostenere l'esame di laurea lo studente deve seguire i corsi e sostenere gli esami corrispondenti, fondamentali (quattro fondamentali comuni piu' quattro fondamentali specifici) e complementari (dieci), per un totale di diciotto annualita'.   
-L'esame di laurea consiste nella discussione di una dissertazione scritta, svolta sotto la direzione di almeno due professori, di cui uno della materia scelta dal candidato.   
-  
-Visto, d'ordine del Presidente della Repubblica   
-  
-Il Ministro per la pubblica istruzione   
-MISASI   
+Atti del Governo, registro n. 230, foglio n. 72. - CARUSO

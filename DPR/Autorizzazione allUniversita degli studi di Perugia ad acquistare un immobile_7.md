@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 settembre 1968 n. 1087
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 gennaio 1965 n. 41
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 settembre 1968 n. 1087
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 gennaio 1965 n. 41
+=============================================================
 
 Autorizzazione all'Universita' degli studi di Perugia ad acquistare un immobile.
 --------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1087. Decreto del Presidente della Repubblica 11 settembre 1968, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Perugia viene autorizzata ad acquistare dall'Istituto autonomo delle case popolari di Perugia, un immobile sito in detta citta', via Z. Faina numeri 1, 3 e 5 al prezzo di L. 60.000.000.  
+41. Decreto del Presidente della Repubblica 12 gennaio 1965, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Perugia, viene autorizzata ad acquistare dalla Congregazione dei chierici regolari di San Paolo, un complesso immobiliare, sito in Perugia, via del Verzaro, angolo via Armonica, al prezzo complessivo di L. 90.000.000 (novantamilioni) alle condizioni e modalita' stabilite nel contratto di compra-vendita.  
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 22 ottobre 1968  
-Atti del Governo, registro n. 223, foglio n. 45. - GRECO
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 18 febbraio 1965  
+Atti del Governo, registro n. 190, foglio n. 121. - VILLA

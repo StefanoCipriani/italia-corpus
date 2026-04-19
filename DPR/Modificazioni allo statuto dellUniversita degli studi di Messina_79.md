@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1162
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1978 n. 507
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1162
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1978 n. 507
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Messina.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923) e modificato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923) e modificato con regio decreto 20 aprile 1939, n, 1090, e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,7 +20,7 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio superiore della pubblica istruzione;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -28,365 +28,253 @@ Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Dopo l'art. 186, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle seguenti scuole di specializzazione:
+Gli articoli 145, 146, 147, 148, 149, 150, 151, 152, 153, relativi alla scuola di specializzazione in anestesiologia e rianimazione, che muta la denominazione in quella di scuola di specializzazione in anestesia e rianimazione, sono abrogati e sostituiti dai seguenti:
 
-1) chirurgia dell'apparato digerente ed endoscopia digestiva;
+Scuola di specializzazione in anestesia e rianimazione
 
-2) chirurgia oncologica;
+Art. 145. - La scuola di specializzazione in anestesia e rianimazione ha sede presso la cattedra di anestesiologia e rianimazione e conferisce il diploma di specialista in anestesia e rianimazione.
 
-3) medicina dello sport;
+Art. 146. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
 
-4) nefrologia.
+Art. 147. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
 
-Scuola di specializzazione e in chirurgia dell'apparato digerente ed endoscopia digestiva
+Art. 148. - La durata del corso di studi e' di 3 anni e non e' suscettibile di abbreviazione.
 
-Art. 187. - La scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva ha sede presso la seconda clinica chirurgica generale e terapia chirurgica e conferisce il diploma di specialista in chirurgia dell'apparato digerente ed endoscopia digestiva.
+Art. 149. - Il numero massimo degli allievi e' di 15 per anno di corso e complessivamente di 45 iscritti per l'intero corso di studi.
 
-Art. 188. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione, o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+Art. 150. - L'ammissione al corso avviene per titoli ed esami.
 
-Art. 189. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
-
-Art. 190. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazioni.
-
-Art. 191. - Il numero massimo degli allievi e' di tre per anno di corso e complessivamente di quindici iscritti per l'intero corso di studi.
-
-Art. 192. - L'ammissione al corso avviene per titoli ed esami.
-
-Art. 193. - Le materie di insegnamento sono le seguenti:
+Art. 151. - Le materie di insegnamento sono le seguenti:
 
 1° Anno:
 
-1) anatomia descrittiva e topografia specialistica (I corso);
+1) anatomia applicata all'anestesia ed alla rianimazione;
 
-2) fisiopatologia e semeiotica funzionale (I corso);
+2) biochimica applicata all'anestesia ed alla rianimazione;
 
-3) anatomia ed istologia patologica (I corso);
+3) farmacologia applicata all'anestesia ed alla rianimazione;
 
-4) patologia chirurgica (I corso).
+4) fisica applicata all'anestesia ed alla rianimazione;
+
+5) fisiologia applicata all'anestesia ed alla rianimazione;
+
+6) anestesiologia I;
+
+7) tecniche chirurgiche di interesse anestesiologico;
+
+8) aspetti medico-legali dell'anestesia e della rianimazione;
+
+9) esercitazioni pratiche.
 
 2° Anno:
 
-5) anatomia descrittiva e topografia specialistica (II corso);
+1) anestesiologia II;
 
-6) fisiopatologia e semeiotica funzionale (II corso);
+2) terapia antalgica;
 
-7) anatomia ed istologia patologica (II corso);
+3) rianimazione I;
 
-8) patologia chirurgica (I corso);
-
-9) semeiotica chirurgica (I corso);
-
-10) radiologia e medicina nucleare (I corso);
-
-11) endoscopia digestiva diagnostica e terapeutica (I corso).
+4) esercitazioni pratiche.
 
 3° Anno:
 
-12) patologia chirurgica (III corso);
+1) rianimazione II;
 
-13) semeiotica chirurgica (II corso);
+2) tecniche speciali di anestesia;
 
-14) radiologia e medicina nucleare (II corso);
+3) tecniche speciali di rianimazione;
 
-15) endoscopia digestiva diagnostica e terapeutica (II corso);
+4) indagini diagnostiche attinenti alla specialita';
 
-16) clinica e terapia chirurgica (I corso);
+5) esercitazioni pratiche.
 
-17) tecniche operatorie (I corso).
+Art. 152. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Art. 153. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno.
+
+Per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi. Al termine del corso di studi per il conseguimento del diploma di specialista in anestesia e rianimazione gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+
+Gli articoli 172, 173, 174, 175, 176, 177, relativi alla scuola di specializzazione in ostetricia e ginecologia, che muta la denominazione in quella di scuola di specializzazione in ginecologia e ostetricia, sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in ginecologia ed ostetricia
+
+Art. 172. - La scuola di specializzazione in ginecologia ed ostetricia ha sede presso la clinica ostetrica e ginecologica dell'Universita' di Messina e conferisce il diploma di specialista in ginecologia e ostetricia.
+
+Art. 173. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione, o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Art. 174. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.
+
+Art. 175. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione. Il numero massimo degli allievi e' di sette per anno di corso e complessivamente di ventotto iscritti per l'intero corso di studi.
+
+L'ammissione al corso avviene per titoli ed esami
+
+Art. 176. - Le materie di insegnamento sono i seguenti:
+
+1° Anno:
+
+a) elementi di genetica medica; - b) elementi di embriologia; anatomia macro e micro dell'apparato genitale femminile; anatomia delle pelvi;
+
+c) elementi di fisiopatologia della riproduzione umana;
+
+d) fisiologia ostetrica;
+
+e) endocrinologia ginecologica ed ostetrica;
+
+f) semeiotica e diagnostica ostetrica;
+
+g) patologia ostetrica e ginecologica (biennale) I;
+
+h) lingua straniera (inglese) quadriennale I.
+
+2° Anno:
+
+a) semeiotica e diagnostica ginecologica;
+
+b) operazioni ostetriche (biennale) I;
+
+c) anatomia ed istologia patologica della sfera genitale femminile;
+
+d) citologia ginecologica;
+
+e) patologia ostetrica e ginecologica (biennale) II;
+
+f) diagnostica di laboratorio in ostetricia e ginecologia;
+
+g) lingua straniera (inglese) quadriennale II.
+
+3° Anno:
+
+a) puericultura prenatale;
+
+b) immunologia ostetrica e ginecologica;
+
+c) analgo-anestesia e rianimazione in ostetricia;
+
+d) operazioni ostetriche (biennale) II;
+
+e) operazioni ginecologiche (biennale) I;
+
+f) ostretricia e ginecologia forense;
+
+g) terapia medica in ostetricia e ginecologia;
+
+h) clinica ostetrica e ginecologica (biennale) I;
+
+i) psicosomatica ostetrica e ginecologica;
+
+l) lingua straniera (inglese) quadriennale III.
 
 4° Anno:
 
-18) semeiotica chirurgica (III corso);
+a) neonatologia;
 
-19) radiologia e medicina nucleare (III corso);
+b) urologia ginecologica;
 
-20) endoscopia digestiva diagnostica e terapeutica (III corso);
+c) radio-diagnostica e terapia fisica in ostetricia e ginecologia;
 
-21) clinica e terapia chirurgica (III corso);
+d) chirurgia addominale;
 
-22) tecniche operatorie (II corso);
+e) operazioni ginecologiche (biennale) II;
 
-23) anestesia e rianimazione;
+f) clinica ostetrica e ginecologica (biennale) II;
 
-24) riabilitazione in chirurgia digestiva.
+g) lingua straniera (inglese) quadriennale IV.
+
+Art. 177. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno.
+
+Per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi.
+
+Al termine del corso di studi per il conseguimento del diploma di specialista in ginecologia ed ostetricia, gli interessati dovranno superare l'esame di diploma di un argomento attinente alla specializzazione.
+
+A giudizio del consiglio della scuola formulato sulla base del rendimento di ogni iscritto gli specializzandi potranno essere esonerati dal pagamento delle tasse.
+
+L'ordinamento della scuola di specializzazione in chirurgia dell'infanzia, che muta la denominazione in quella di scuola di specializzazione in chirurgia pediatrica, istituita con [decreto del Presidente della Repubblica 24 ottobre 1975, n. 752](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1975-10-24;752), e' abrogato e sostituito dal seguente:
+
+Scuola di specializzazione in chirurgia pediatrica
+
+Art. 187. - La scuola di specializzazione in chirurgia pediatrica ha sede presso la clinica chirurgica pediatrica e conferisce il diploma di specialista in chirurgia pediatrica.
+
+Art. 188. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Art. 189. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+
+Art. 190.- La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.
+
+Il numero massimo degli allievi e' di due per anno di corso e complessivamente di dieci iscritti per l'intero corso di studi.
+
+L'ammissione al corso avviene per titoli ed esami.
+
+Art. 191. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+embriologia e genetica delle malformazioni congenite;
+
+anatomia patologica generale (biennale) I;
+
+diagnostica radiologica e nucleare generale;
+
+anestesiologia;
+
+clinica pediatrica (biennale) I;
+
+patologia e clinica chirurgica generale (biennale) I.
+
+2° Anno:
+
+patologia e clinica chirurgica generale (biennale) II;
+
+rianimazione e terapia intensiva (biennale) I;
+
+anatomia patologica generale (biennale) II;
+
+diagnostica radiologica e nucleare delle malattie infantili;
+
+clinica pediatrica (biennale) II.
+
+3° Anno:
+
+patologia e clinica chirurgica pediatrica (triennale) I;
+
+endocrinologia pediatrica;
+
+tecnica chirurgica generale;
+
+rianimazione e terapia intensiva (biennale) II;
+
+chirurgia neonatale.
+
+4° Anno:
+
+patologia e clinica chirurgica pediatrica (triennale) II;
+
+neurochirurgia pediatrica;
+
+tecnica chirurgica pediatrica, ortopedia pediatrica;
+
+chirurgia plastica e ricostruttiva pediatrica.
 
 5° Anno:
 
-25) clinica chirurgica e terapia chirurgica (III corso);
+patologia e clinica chirurgica pediatrica (triennale) III;
 
-26) tecniche operatorie (III corso);
+otorinolaringoiatria pediatrica, cardiochirurgia pediatrica;
 
-27) chirurgia d'urgenza dell'apparato digerente;
+urologia pediatrica.
 
-28) chirurgia pediatrica dell'apparato digerente;
+Art. 192. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
 
-29) terapia intensiva.
+Alla fine di ogni corso gli iscritti, per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno ad eccezione delle discipline svolte in corsi pluriennali il cui esame sara' sostenuto alla fine dei corsi medesimi.
 
-Art. 194. - La frequenza alle lezioni, alle esercitazioni pratiche, ai periodi di internato, e' obbligatoria per l'ammissione agli esami; il superamento degli esami di ciascun anno sara' condizione indispensabile per l'iscrizione all'anno successivo.
-
-Art. 195. - Al termine del quinquennio per ottenere il diploma, i candidati dovranno presentare una dissertazione scritta su un argomento di chirurgia dell'apparato digerente ed endoscopia digestiva da discutere davanti alla apposita commissione e dovranno inoltre sostenere una prova clinica.
-
-Scuola di specializzazione in chirurgia oncologica
-
-Art. 196. - La scuola di specializzazione in chirurgia oncologica istituita presso la facolta' di medicina e chirurgia della Universita' di Messina ha lo scopo di fornire al giovane laureato, che si voglia dedicare allo studio dei mezzi di diagnosi e di cura chirurgica delle neoplasie, un corso di perfezionamento nel quale trovi spazio ogni utile conoscenza in questo settore.
-
-La scuola di chirurgia oncologica si diversifica sostanzialmente dalla scuola di oncologia per l'indirizzo squisitamente chirurgico che la contraddistingue.
-
-La scuola ha sede presso l'istituto di prima patologia chirurgica della facolta' di medicina e chirurgia.
-
-Alla scuola sono ammessi i laureati in medicina e chirurgia, ed il corso ha la durata di quattro anni.
-
-Il numero complessivo degli iscritti e' di quattro per anno per un totale di sedici iscritti.
-
-L'ammissione e' regolata da un esame scritto consistente in un tema su argomenti di oncologia clinica.
-
-Art. 197. - Il direttore della scuola e' il professore di ruolo di prima patologia chirurgica della facolta' di medicina e chirurgia della Universita' di Messina.
-
-I professori incaricati di svolgere i corsi verranno scelti dal consiglio della facolta' di medicina e chirurgia di Messina, in conformita' alle norme vigenti, annualmente, su proposta del direttore della scuola.
-
-Art. 198. - Gli insegnamenti impartiti dalla scuola nei quattro anni di corso sono i seguenti:
-
-1° Anno:
-
-1) etiopatogenesi dei tumori e immunologia in oncologia;
-
-2) anatomia ed istologia natologica dei tumori;
-
-3) epidemiologia dei tumori;
-
-4) oncologia clinica;
-
-5) chirurgia oncologica (I);
-
-6) endocrinologia oncologica.
-
-2° Anno:
-
-1) chirurgia oncologica (II);
-
-2) semeiotica chirurgica generale e speciale (mezzi di diagnosi precoce);
-
-3) principi di programmazione terapeutica;
-
-4) oncologia ginecologica;
-
-5) oncologia maxillo-facciale e stomatologica;
-
-6) oncologia otorinolaringoiatrica;
-
-7) oncologia ortopedica.
-
-3° Anno:
-
-1) diagnostica radiologica generale e speciale, isotopi radioattivi e tecniche angiografiche in oncologia;
-
-2) diagnostica citologica e diagnostica istopatologica estemporanea;
-
-3) principi di anestesia e rianimazione, terapia del dolore;
-
-4) oncologia neurologica;
-
-5) tecniche chirurgiche in oncologia (apparato digerente e ghiandole annesse);
-
-6) tecniche riparative delle funzioni e della estetica chirurgica.
-
-4° Anno:
-
-1) tecniche chirurgiche speciali e trattamento chemioterapico distrettuale;
-
-2) tecniche chirurgiche in oncologia (apparato respiratorio e mediastino);
-
-3) tecniche chirurgiche in oncologia (apparato urinario e genitale maschile);
-
-4) prognosi dei vari tipi di tumori e significato dei controlli periodici dei curati;
-
-5) endocrino-chirurgia oncologica;
-
-6) chirurgia del dolore;
-
-7) possibilita' e tecniche della riabilitazione e del recupero;
-
-8) radio-terapia oncologica;
-
-9) chemioterapia oncologica;
-
-10) profilassi oncologica.
-
-Art. 199. - Gli iscritti alla scuola hanno l'obbligo della frequenza alle lezioni e alle esercitazioni e dell'internato semestrale negli istituti di: prima patologia chirurgica, clinica ostetrica e ginecologica, radiologia, anatomia patologica.
-
-Art. 200. - Gli insegnamenti saranno completati con esercitazioni pratiche che si svolgeranno durante il corso nei suddetti istituti, nonche' da illustrazioni e partecipazioni agli interventi chirurgici.
-
-Art. 201. - La direzione della scuola ha la facolta' di invitare i cultori della materia italiani e stranieri a tenere le lezioni, conferenze o seminari su argomenti di oncologia.
-
-Art. 202. - L'allievo che non avra' ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali che saranno sostenuti alla fine di ogni anno di corso; una sessione estiva (giugno-luglio) ed una autunnale (ottobre-novembre).
-
-Alla fine del 4° anno, dopo aver superato gli esami di profitto, gli allievi saranno ammessi a sostenere l'esame di diploma che consiste nella discussione orale di una dissertazione scritta su un tema proposto dal direttore della scuola o da un docente della stessa.
-
-Scuola di specializzazione in medicina dello sport
-
-Art. 203. - La scuola di specializzazione in medicina dello sport dell'Universita' di Messina si propone:
-
-a) di incrementare lo sviluppo degli studi medici connessi all'educazione fisica ed alle diverse discipline sportive;
-
-b) di fornire adeguata e specifica preparazione ai medici che intendano dedicarsi a questa particolare branca della medicina, conferendo ad essi il diploma di specialista in medicina dello sport.
-
-Art. 204. - La scuola di specializzazione in medicina dello sport ha sede presso l'Istituto di anatomia umana normale, mentre gli insegnamenti clinici e specialistici si svolgeranno presso i rispettivi istituti clinici e specialistici.
-
-La direzione della scuola e' affidata al direttore dell'istituto di anatomia umana normale, o in sua assenza, ad altro professore di ruolo della facolta' di medicina e chirurgia.
-
-La scuola viene retta secondo le norme del regolamento generale per le scuole di specializzazione della facolta' di medicina e chirurgia dell'Universita' di Messina.
-
-Il corso degli studi ha la durata di tre anni con frequenza obbligatoria; non sono concesse abbreviazioni di anni di corso.
-
-Il numero massimo degli iscritti sara' di quindici per ognuno degli anni di corso.
-
-L'ammissione ai corsi avviene in ogni caso per titoli ed esami.
-
-Titolo di obbligo e' il possesso della laurea in medicina e chirurgia.
-
-Art. 205. - L'ordine degli studi e' il seguente:
-
-1° Anno:
-
-1) anatomia dell'apparato locomotore;
-
-2) fisiologia dell'apparato locomotore;
-
-3) biochimica ed energetica muscolare;
-
-4) antropometria ed auxologia;
-
-5) psicologia applicata allo sport;
-
-6) storia dell'educazione fisica e dello sport;
-
-7) sistematica delle attivita' sportivo-agonistiche e regolamenti sportivi.
-
-2° Anno:
-
-1) fisiologia dell'esercizio fisico;
-
-2) biomeccanica per l'esercizio fisico;
-
-3) metodologia dell'allenamento sportivo;
-
-4) scienza della nutrizione applicata all'attivita' sportiva;
-
-5) fisiopatologia degli sport e semeiotica medicosportiva (biennale) I;
-
-6) farmacologia e tossicologia del doping;
-
-7) igiene e medicina preventiva applicata all'attivita' sportiva;
-
-8) traumatologia degli sport.
-
-3° Anno:
-
-1) fisiologia applicata agli sport;
-
-2) valutazione funzionale dello sportivo;
-
-3) fisiopatologia degli sport e semeiotica medicosportiva (biennale) II;
-
-4) fisioterapia e rieducazione funzionale;
-
-5) rianimazione e pronto soccorso;
-
-6) medicina legale ed infortunistica applicata agli Sport;
-
-7) fisiologia dell'adattamento agli ambienti straordinari.
-
-La scuola svolgera' brevi corsi integrativi di conferenze o seminari sopra argomenti e discipline che saranno stabilite, secondo le possibilita' contingenti, dal consiglio dei docenti della scuola.
-
-Saranno, inoltre, svolte esercitazioni pratiche in sede e sul campo.
-
-Art. 206. - L'iscrizione agli anni successivi e' subordinata al superamento di tutti gli esami annuali.
-
-Art. 207. - Il diploma si consegue dopo aver superato tutte le prove di esami del triennio; la prova di diploma si svolge con la discussione su una dissertazione scritta concernente un tema assegnato ed approvato dal direttore della scuola.
-
-Scuola di specializzazione in nefrologia
-
-Art. 208. - La scuola di specializzazione in nefrologia ha sede presso la clinica medica e conferisce il diploma di specialista in nefrologia.
-
-Art. 209. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione, o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
-
-Solo per ragioni di forza maggiore, o a seguito di mancanza dei suddetti docenti, detta direzione potra' essere affidata temporaneamente al professore incaricato della stessa disciplina.
-
-Art. 210. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
-
-Art. 211. - La durata del corso di studi e' di 4 anni e non e' suscettibile di abbreviazioni.
-
-Art. 212.- Il numero massimo degli allievi e' di quindici per anno di corso e complessivamente di sessanta iscritti per l'intero corso di studi.
-
-Art. 213. - L'ammissione al corso avviene per titoli ed esami.
-
-Art. 214. - Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-struttura ed ultrastruttura normale del rene;
-
-aspetti biochimici della funzione renale;
-
-fisiologia renale;
-
-microbiologia ed immunologia applicata alla nefrologia;
-
-genetica applicata alla nefrologia;
-
-semeiotica renale (primo anno).
-
-2° Anno:
-
-struttura ed ultrastruttura patologica del rene;
-
-patologia del ricambio idroelettrico;
-
-insufficienza renale;
-
-rene e ipertensione arteriosa;
-
-semeiotica renale (secondo anno);
-
-nefropatie tubolari.
-
-3° Anno:
-
-nefropatie glomerulari;
-
-nefropatie interstiziali;
-
-nefropatie vascolari;
-
-terapia dietetica e dialitica (primo anno);
-
-farmacologia d'interesse nefrologico.
-
-4° Anno:
-
-nefrouropatie calcolotiche, malformative e neoplastiche;
-
-terapia dietetica e dialitica (secondo anno);
-
-fisiopatologia e clinica del trapianto renale;
-
-aspetti di nefrologia nell'eta' pediatrica;
-
-problemi chirurgici in nefrologia;
-
-terapia medica delle nefropatie.
-
-Art. 215. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esami.
-
-Art. 216. - Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno.
-
-Al termine del corso di studi per il conseguimento del diploma di specialista in nefrologia, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+Al termine del corso di studi per il conseguimento del diploma di specialista in chirurgia pediatrica gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 31 ottobre 1977
+Dato a Roma, addi' 13 febbraio 1978
 
 LEONE
 
@@ -397,222 +285,163 @@ Visto, il Guardasigilli: BONIFACIO
 Registrato
 ----------
 
-alla Corte dei conti, addi' 5 aprile 1978 Registro n. 38 Istruzione, foglio n. 304
+alla Corte dei conti, addi' 22 agosto 1978 Registro n. 93 Istruzione, foglio n. 178
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923) e modificato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923) e modificato con regio decreto 20 aprile 1939, n, 1090, e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio superiore della pubblica istruzione;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro della pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli 145, 146, 147, 148, 149, 150, 151, 152, 153, relativi alla scuola di specializzazione in anestesiologia e rianimazione, che muta la denominazione in quella di scuola di specializzazione in anestesia e rianimazione, sono abrogati e sostituiti dai seguenti:  
   
-Dopo l'art. 186, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle seguenti scuole di specializzazione:  
-1) chirurgia dell'apparato digerente ed endoscopia digestiva;  
-2) chirurgia oncologica;  
-3) medicina dello sport;  
-4) nefrologia.  
+Scuola di specializzazione in anestesia e rianimazione  
   
-Scuola di specializzazione e in chirurgia dell'apparato digerente ed endoscopia digestiva  
-  
-Art. 187. - La scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva ha sede presso la seconda clinica chirurgica generale e terapia chirurgica e conferisce il diploma di specialista in chirurgia dell'apparato digerente ed endoscopia digestiva.  
-Art. 188. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione, o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Art. 189. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-Art. 190. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazioni.  
-Art. 191. - Il numero massimo degli allievi e' di tre per anno di corso e complessivamente di quindici iscritti per l'intero corso di studi.  
-Art. 192. - L'ammissione al corso avviene per titoli ed esami.  
-Art. 193. - Le materie di insegnamento sono le seguenti:  
+Art. 145. - La scuola di specializzazione in anestesia e rianimazione ha sede presso la cattedra di anestesiologia e rianimazione e conferisce il diploma di specialista in anestesia e rianimazione.  
+Art. 146. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Art. 147. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+Art. 148. - La durata del corso di studi e' di 3 anni e non e' suscettibile di abbreviazione.  
+Art. 149. - Il numero massimo degli allievi e' di 15 per anno di corso e complessivamente di 45 iscritti per l'intero corso di studi.  
+Art. 150. - L'ammissione al corso avviene per titoli ed esami.  
+Art. 151. - Le materie di insegnamento sono le seguenti:  
 1° Anno:  
-1) anatomia descrittiva e topografia specialistica (I corso);  
-2) fisiopatologia e semeiotica funzionale (I corso);  
-3) anatomia ed istologia patologica (I corso);  
-4) patologia chirurgica (I corso).  
+1) anatomia applicata all'anestesia ed alla rianimazione;  
+2) biochimica applicata all'anestesia ed alla rianimazione;  
+3) farmacologia applicata all'anestesia ed alla rianimazione;  
+4) fisica applicata all'anestesia ed alla rianimazione;  
+5) fisiologia applicata all'anestesia ed alla rianimazione;  
+6) anestesiologia I;  
+7) tecniche chirurgiche di interesse anestesiologico;  
+8) aspetti medico-legali dell'anestesia e della rianimazione;  
+9) esercitazioni pratiche.  
 2° Anno:  
-5) anatomia descrittiva e topografia specialistica (II corso);  
-6) fisiopatologia e semeiotica funzionale (II corso);  
-7) anatomia ed istologia patologica (II corso);  
-8) patologia chirurgica (I corso);  
-9) semeiotica chirurgica (I corso);  
-10) radiologia e medicina nucleare (I corso);  
-11) endoscopia digestiva diagnostica e terapeutica (I corso).  
+1) anestesiologia II;  
+2) terapia antalgica;  
+3) rianimazione I;  
+4) esercitazioni pratiche.  
 3° Anno:  
-12) patologia chirurgica (III corso);  
-13) semeiotica chirurgica (II corso);  
-14) radiologia e medicina nucleare (II corso);  
-15) endoscopia digestiva diagnostica e terapeutica (II corso);  
-16) clinica e terapia chirurgica (I corso);  
-17) tecniche operatorie (I corso).  
+1) rianimazione II;  
+2) tecniche speciali di anestesia;  
+3) tecniche speciali di rianimazione;  
+4) indagini diagnostiche attinenti alla specialita';  
+5) esercitazioni pratiche.  
+Art. 152. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
+Art. 153. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno.  
+Per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi. Al termine del corso di studi per il conseguimento del diploma di specialista in anestesia e rianimazione gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
+Gli articoli 172, 173, 174, 175, 176, 177, relativi alla scuola di specializzazione in ostetricia e ginecologia, che muta la denominazione in quella di scuola di specializzazione in ginecologia e ostetricia, sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in ginecologia ed ostetricia  
+  
+Art. 172. - La scuola di specializzazione in ginecologia ed ostetricia ha sede presso la clinica ostetrica e ginecologica dell'Universita' di Messina e conferisce il diploma di specialista in ginecologia e ostetricia.  
+Art. 173. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione, o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Art. 174. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.  
+Art. 175. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione. Il numero massimo degli allievi e' di sette per anno di corso e complessivamente di ventotto iscritti per l'intero corso di studi.  
+L'ammissione al corso avviene per titoli ed esami  
+Art. 176. - Le materie di insegnamento sono i seguenti:  
+1° Anno:  
+a) elementi di genetica medica; - b) elementi di embriologia; anatomia macro e micro dell'apparato genitale femminile; anatomia delle pelvi;  
+c) elementi di fisiopatologia della riproduzione umana;  
+d) fisiologia ostetrica;  
+e) endocrinologia ginecologica ed ostetrica;  
+f) semeiotica e diagnostica ostetrica;  
+g) patologia ostetrica e ginecologica (biennale) I;  
+h) lingua straniera (inglese) quadriennale I.  
+2° Anno:  
+a) semeiotica e diagnostica ginecologica;  
+b) operazioni ostetriche (biennale) I;  
+c) anatomia ed istologia patologica della sfera genitale femminile;  
+d) citologia ginecologica;  
+e) patologia ostetrica e ginecologica (biennale) II;  
+f) diagnostica di laboratorio in ostetricia e ginecologia;  
+g) lingua straniera (inglese) quadriennale II.  
+3° Anno:  
+a) puericultura prenatale;  
+b) immunologia ostetrica e ginecologica;  
+c) analgo-anestesia e rianimazione in ostetricia;  
+d) operazioni ostetriche (biennale) II;  
+e) operazioni ginecologiche (biennale) I;  
+f) ostretricia e ginecologia forense;  
+g) terapia medica in ostetricia e ginecologia;  
+h) clinica ostetrica e ginecologica (biennale) I;  
+i) psicosomatica ostetrica e ginecologica;  
+l) lingua straniera (inglese) quadriennale III.  
 4° Anno:  
-18) semeiotica chirurgica (III corso);  
-19) radiologia e medicina nucleare (III corso);  
-20) endoscopia digestiva diagnostica e terapeutica (III corso);  
-21) clinica e terapia chirurgica (III corso);  
-22) tecniche operatorie (II corso);  
-23) anestesia e rianimazione;  
-24) riabilitazione in chirurgia digestiva.  
+a) neonatologia;  
+b) urologia ginecologica;  
+c) radio-diagnostica e terapia fisica in ostetricia e ginecologia;  
+d) chirurgia addominale;  
+e) operazioni ginecologiche (biennale) II;  
+f) clinica ostetrica e ginecologica (biennale) II;  
+g) lingua straniera (inglese) quadriennale IV.  
+Art. 177. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
+Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno.  
+Per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi.  
+Al termine del corso di studi per il conseguimento del diploma di specialista in ginecologia ed ostetricia, gli interessati dovranno superare l'esame di diploma di un argomento attinente alla specializzazione.  
+A giudizio del consiglio della scuola formulato sulla base del rendimento di ogni iscritto gli specializzandi potranno essere esonerati dal pagamento delle tasse.  
+L'ordinamento della scuola di specializzazione in chirurgia dell'infanzia, che muta la denominazione in quella di scuola di specializzazione in chirurgia pediatrica, istituita con [decreto del Presidente della Repubblica 24 ottobre 1975, n. 752](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1975-10-24;752), e' abrogato e sostituito dal seguente:  
+  
+Scuola di specializzazione in chirurgia pediatrica  
+  
+Art. 187. - La scuola di specializzazione in chirurgia pediatrica ha sede presso la clinica chirurgica pediatrica e conferisce il diploma di specialista in chirurgia pediatrica.  
+Art. 188. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Art. 189. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+Art. 190.- La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.  
+Il numero massimo degli allievi e' di due per anno di corso e complessivamente di dieci iscritti per l'intero corso di studi.  
+L'ammissione al corso avviene per titoli ed esami.  
+Art. 191. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+embriologia e genetica delle malformazioni congenite;  
+anatomia patologica generale (biennale) I;  
+diagnostica radiologica e nucleare generale;  
+anestesiologia;  
+clinica pediatrica (biennale) I;  
+patologia e clinica chirurgica generale (biennale) I.  
+2° Anno:  
+patologia e clinica chirurgica generale (biennale) II;  
+rianimazione e terapia intensiva (biennale) I;  
+anatomia patologica generale (biennale) II;  
+diagnostica radiologica e nucleare delle malattie infantili;  
+clinica pediatrica (biennale) II.  
+3° Anno:  
+patologia e clinica chirurgica pediatrica (triennale) I;  
+endocrinologia pediatrica;  
+tecnica chirurgica generale;  
+rianimazione e terapia intensiva (biennale) II;  
+chirurgia neonatale.  
+4° Anno:  
+patologia e clinica chirurgica pediatrica (triennale) II;  
+neurochirurgia pediatrica;  
+tecnica chirurgica pediatrica, ortopedia pediatrica;  
+chirurgia plastica e ricostruttiva pediatrica.  
 5° Anno:  
-25) clinica chirurgica e terapia chirurgica (III corso);  
-26) tecniche operatorie (III corso);  
-27) chirurgia d'urgenza dell'apparato digerente;  
-28) chirurgia pediatrica dell'apparato digerente;  
-29) terapia intensiva.  
-Art. 194. - La frequenza alle lezioni, alle esercitazioni pratiche, ai periodi di internato, e' obbligatoria per l'ammissione agli esami; il superamento degli esami di ciascun anno sara' condizione indispensabile per l'iscrizione all'anno successivo.  
-Art. 195. - Al termine del quinquennio per ottenere il diploma, i candidati dovranno presentare una dissertazione scritta su un argomento di chirurgia dell'apparato digerente ed endoscopia digestiva da discutere davanti alla apposita commissione e dovranno inoltre sostenere una prova clinica.  
-  
-Scuola di specializzazione in chirurgia oncologica  
-  
-Art. 196. - La scuola di specializzazione in chirurgia oncologica istituita presso la facolta' di medicina e chirurgia della Universita' di Messina ha lo scopo di fornire al giovane laureato, che si voglia dedicare allo studio dei mezzi di diagnosi e di cura chirurgica delle neoplasie, un corso di perfezionamento nel quale trovi spazio ogni utile conoscenza in questo settore.  
-La scuola di chirurgia oncologica si diversifica sostanzialmente dalla scuola di oncologia per l'indirizzo squisitamente chirurgico che la contraddistingue.  
-La scuola ha sede presso l'istituto di prima patologia chirurgica della facolta' di medicina e chirurgia.  
-Alla scuola sono ammessi i laureati in medicina e chirurgia, ed il corso ha la durata di quattro anni.  
-Il numero complessivo degli iscritti e' di quattro per anno per un totale di sedici iscritti.  
-L'ammissione e' regolata da un esame scritto consistente in un tema su argomenti di oncologia clinica.  
-Art. 197. - Il direttore della scuola e' il professore di ruolo di prima patologia chirurgica della facolta' di medicina e chirurgia della Universita' di Messina.  
-I professori incaricati di svolgere i corsi verranno scelti dal consiglio della facolta' di medicina e chirurgia di Messina, in conformita' alle norme vigenti, annualmente, su proposta del direttore della scuola.  
-Art. 198. - Gli insegnamenti impartiti dalla scuola nei quattro anni di corso sono i seguenti:  
-1° Anno:  
-1) etiopatogenesi dei tumori e immunologia in oncologia;  
-2) anatomia ed istologia natologica dei tumori;  
-3) epidemiologia dei tumori;  
-4) oncologia clinica;  
-5) chirurgia oncologica (I);  
-6) endocrinologia oncologica.  
-2° Anno:  
-1) chirurgia oncologica (II);  
-2) semeiotica chirurgica generale e speciale (mezzi di diagnosi precoce);  
-3) principi di programmazione terapeutica;  
-4) oncologia ginecologica;  
-5) oncologia maxillo-facciale e stomatologica;  
-6) oncologia otorinolaringoiatrica;  
-7) oncologia ortopedica.  
-3° Anno:  
-1) diagnostica radiologica generale e speciale, isotopi radioattivi e tecniche angiografiche in oncologia;  
-2) diagnostica citologica e diagnostica istopatologica estemporanea;  
-3) principi di anestesia e rianimazione, terapia del dolore;  
-4) oncologia neurologica;  
-5) tecniche chirurgiche in oncologia (apparato digerente e ghiandole annesse);  
-6) tecniche riparative delle funzioni e della estetica chirurgica.  
-4° Anno:  
-1) tecniche chirurgiche speciali e trattamento chemioterapico distrettuale;  
-2) tecniche chirurgiche in oncologia (apparato respiratorio e mediastino);  
-3) tecniche chirurgiche in oncologia (apparato urinario e genitale maschile);  
-4) prognosi dei vari tipi di tumori e significato dei controlli periodici dei curati;  
-5) endocrino-chirurgia oncologica;  
-6) chirurgia del dolore;  
-7) possibilita' e tecniche della riabilitazione e del recupero;  
-8) radio-terapia oncologica;  
-9) chemioterapia oncologica;  
-10) profilassi oncologica.  
-Art. 199. - Gli iscritti alla scuola hanno l'obbligo della frequenza alle lezioni e alle esercitazioni e dell'internato semestrale negli istituti di: prima patologia chirurgica, clinica ostetrica e ginecologica, radiologia, anatomia patologica.  
-Art. 200. - Gli insegnamenti saranno completati con esercitazioni pratiche che si svolgeranno durante il corso nei suddetti istituti, nonche' da illustrazioni e partecipazioni agli interventi chirurgici.  
-Art. 201. - La direzione della scuola ha la facolta' di invitare i cultori della materia italiani e stranieri a tenere le lezioni, conferenze o seminari su argomenti di oncologia.  
-Art. 202. - L'allievo che non avra' ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali che saranno sostenuti alla fine di ogni anno di corso; una sessione estiva (giugno-luglio) ed una autunnale (ottobre-novembre).  
-Alla fine del 4° anno, dopo aver superato gli esami di profitto, gli allievi saranno ammessi a sostenere l'esame di diploma che consiste nella discussione orale di una dissertazione scritta su un tema proposto dal direttore della scuola o da un docente della stessa.  
-  
-Scuola di specializzazione in medicina dello sport  
-  
-Art. 203. - La scuola di specializzazione in medicina dello sport dell'Universita' di Messina si propone:  
-a) di incrementare lo sviluppo degli studi medici connessi all'educazione fisica ed alle diverse discipline sportive;  
-b) di fornire adeguata e specifica preparazione ai medici che intendano dedicarsi a questa particolare branca della medicina, conferendo ad essi il diploma di specialista in medicina dello sport.  
-Art. 204. - La scuola di specializzazione in medicina dello sport ha sede presso l'Istituto di anatomia umana normale, mentre gli insegnamenti clinici e specialistici si svolgeranno presso i rispettivi istituti clinici e specialistici.  
-La direzione della scuola e' affidata al direttore dell'istituto di anatomia umana normale, o in sua assenza, ad altro professore di ruolo della facolta' di medicina e chirurgia.  
-La scuola viene retta secondo le norme del regolamento generale per le scuole di specializzazione della facolta' di medicina e chirurgia dell'Universita' di Messina.  
-Il corso degli studi ha la durata di tre anni con frequenza obbligatoria; non sono concesse abbreviazioni di anni di corso.  
-Il numero massimo degli iscritti sara' di quindici per ognuno degli anni di corso.  
-L'ammissione ai corsi avviene in ogni caso per titoli ed esami.  
-Titolo di obbligo e' il possesso della laurea in medicina e chirurgia.  
-Art. 205. - L'ordine degli studi e' il seguente:  
-1° Anno:  
-1) anatomia dell'apparato locomotore;  
-2) fisiologia dell'apparato locomotore;  
-3) biochimica ed energetica muscolare;  
-4) antropometria ed auxologia;  
-5) psicologia applicata allo sport;  
-6) storia dell'educazione fisica e dello sport;  
-7) sistematica delle attivita' sportivo-agonistiche e regolamenti sportivi.  
-2° Anno:  
-1) fisiologia dell'esercizio fisico;  
-2) biomeccanica per l'esercizio fisico;  
-3) metodologia dell'allenamento sportivo;  
-4) scienza della nutrizione applicata all'attivita' sportiva;  
-5) fisiopatologia degli sport e semeiotica medicosportiva (biennale) I;  
-6) farmacologia e tossicologia del doping;  
-7) igiene e medicina preventiva applicata all'attivita' sportiva;  
-8) traumatologia degli sport.  
-3° Anno:  
-1) fisiologia applicata agli sport;  
-2) valutazione funzionale dello sportivo;  
-3) fisiopatologia degli sport e semeiotica medicosportiva (biennale) II;  
-4) fisioterapia e rieducazione funzionale;  
-5) rianimazione e pronto soccorso;  
-6) medicina legale ed infortunistica applicata agli Sport;  
-7) fisiologia dell'adattamento agli ambienti straordinari.  
-La scuola svolgera' brevi corsi integrativi di conferenze o seminari sopra argomenti e discipline che saranno stabilite, secondo le possibilita' contingenti, dal consiglio dei docenti della scuola.  
-Saranno, inoltre, svolte esercitazioni pratiche in sede e sul campo.  
-Art. 206. - L'iscrizione agli anni successivi e' subordinata al superamento di tutti gli esami annuali.  
-Art. 207. - Il diploma si consegue dopo aver superato tutte le prove di esami del triennio; la prova di diploma si svolge con la discussione su una dissertazione scritta concernente un tema assegnato ed approvato dal direttore della scuola.  
-  
-Scuola di specializzazione in nefrologia  
-  
-Art. 208. - La scuola di specializzazione in nefrologia ha sede presso la clinica medica e conferisce il diploma di specialista in nefrologia.  
-Art. 209. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione, o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Solo per ragioni di forza maggiore, o a seguito di mancanza dei suddetti docenti, detta direzione potra' essere affidata temporaneamente al professore incaricato della stessa disciplina.  
-Art. 210. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-Art. 211. - La durata del corso di studi e' di 4 anni e non e' suscettibile di abbreviazioni.  
-Art. 212.- Il numero massimo degli allievi e' di quindici per anno di corso e complessivamente di sessanta iscritti per l'intero corso di studi.  
-Art. 213. - L'ammissione al corso avviene per titoli ed esami.  
-Art. 214. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-struttura ed ultrastruttura normale del rene;  
-aspetti biochimici della funzione renale;  
-fisiologia renale;  
-microbiologia ed immunologia applicata alla nefrologia;  
-genetica applicata alla nefrologia;  
-semeiotica renale (primo anno).  
-2° Anno:  
-struttura ed ultrastruttura patologica del rene;  
-patologia del ricambio idroelettrico;  
-insufficienza renale;  
-rene e ipertensione arteriosa;  
-semeiotica renale (secondo anno);  
-nefropatie tubolari.  
-3° Anno:  
-nefropatie glomerulari;  
-nefropatie interstiziali;  
-nefropatie vascolari;  
-terapia dietetica e dialitica (primo anno);  
-farmacologia d'interesse nefrologico.  
-4° Anno:  
-nefrouropatie calcolotiche, malformative e neoplastiche;  
-terapia dietetica e dialitica (secondo anno);  
-fisiopatologia e clinica del trapianto renale;  
-aspetti di nefrologia nell'eta' pediatrica;  
-problemi chirurgici in nefrologia;  
-terapia medica delle nefropatie.  
-Art. 215. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esami.  
-Art. 216. - Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno.  
-Al termine del corso di studi per il conseguimento del diploma di specialista in nefrologia, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
+patologia e clinica chirurgica pediatrica (triennale) III;  
+otorinolaringoiatria pediatrica, cardiochirurgia pediatrica;  
+urologia pediatrica.  
+Art. 192. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
+Alla fine di ogni corso gli iscritti, per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno ad eccezione delle discipline svolte in corsi pluriennali il cui esame sara' sostenuto alla fine dei corsi medesimi.  
+Al termine del corso di studi per il conseguimento del diploma di specialista in chirurgia pediatrica gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1977
+### Dato a Roma, addi' 13 febbraio 1978
 
 LEONE MALFATTI
 
 Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 5 aprile 1978
+Registrato alla Corte dei conti, addi' 22 agosto 1978
 
-Registro n. 38 Istruzione, foglio n. 304
+Registro n. 93 Istruzione, foglio n. 178

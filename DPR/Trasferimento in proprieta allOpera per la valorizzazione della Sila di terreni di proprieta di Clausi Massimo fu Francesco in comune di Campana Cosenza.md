@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 dicembre 1951 n. 1494
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 dicembre 1951 n. 1457
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 dicembre 1951 n. 1494
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 dicembre 1951 n. 1457
 ================================================================
 
 Trasferimento in proprieta' all'Opera per la valorizzazione della Sila di terreni di proprieta' di Clausi Massimo fu Francesco, in comune di Campana (Cosenza).
@@ -16,7 +16,7 @@ Vista la [legge 12 maggio 1950, n. 230 e l'art. 16](http://www.normattiva.it/uri
 
 In virtu' della delegazione concessa dall'[art. 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5);
 
-Udito il parere, in data 11 dicembre 1951, della Commissione parlamentare nominata a norma dell'[art. 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5), la quale ha esami nato il piano particolareggiato di espropriazione, compilato dall'Opera per la valorizzazione della Sila, per i terreni ricadenti nel comune di Campana (provincia di Cosenza), della superficie di Ha. 21.00.00, nei confronti della ditta Clausi Massimo fu Francesco.
+Udito il parere, in data 4 dicembre 1951, della Commissione parlamentare, nominata a norma dell'[art. 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5), la quale ha esaminato il piano particolareggiato di espropriazione, compilato dall'Opera per la valorizzazione della Sila, per i terreni ricadenti nel comune di Campana (provincia di Cosenza), della superficie di Ha. 33.15.30, nei confronti della ditta Clausi Massimo fu Francesco;
 
 Sentito il Consiglio dei Ministri;
 
@@ -29,35 +29,39 @@ Art. 1
 ------
 
   
-E' approvato il piano particolareggiato di espropriazione, compilato dall'Opera per la valorizzazione della Sila, per i terreni ricadenti nel comune di Campana (provincia di Cosenza), della superficie di Ha. 21.00.00, nei confronti della ditta Clausi Massimo fu Francesco.  
+E' approvato il piano particolareggiato di espropriazione, compilato dall'Opera per la valorizzazione della Sila, per i terreni ricadenti nel comune di Campana (provincia di Cosenza) della superficie di Ha. 33.15.30, nei confronti della ditta Clausi Massimo fu Francesco.  
 
 Art. 2
 ------
 
   
-I terreni, indicati nel precedente articolo e specificamente designati nell'elenco unito al presente decreto, sono trasferiti in proprieta' all'Opera per la valorizzazione della Sila.  
+I terreni, indicati nel precedente articolo e specificamente designati nell'elenco unito ai presente decreto, sono trasferiti in proprieta' all'Opera per la valorizzazione della Sila.  
 
 Art. 3
 ------
 
-E' ordinata la immediata occupazione, da parte dell'Opera per la valorizzazione della Sila, dei terreni indicati nei precedenti articoli 1 e 2,  
+  
+E' ordinata la immediata occupazione, da parte dell'Opera per la valorizzazione della Sila, dei terreni indicati nei precedenti articoli 1 e 2.  
 
 Art. 4
 ------
 
   
-L'elenco dei terreni, con l'indicazione dell'indennita' di espropriazione offerta, munito del visto del Ministro proponente, forma parte integrante del presente decreto, che entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.  
+L'elenco dei terreni, con l'indicazione dell'indennita' di espropriazione offerta, munito del visto del Ministro proponente, forma parte integrante del presente decreto, che entra in vigore il giorno Stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.  
   
-Il presente decreto, munito del sigillo dallo Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.  
-  
-Dato a Roma, addi' 24 dicembre 1951  
-  
-EINAUDI  
-  
-DE GASPERI - FANFANI   
-Visto, il Guardasigilli - ZOLI  
-Registrato alla Corte dei conti, addi' 29 dicembre 1951  
-Atti del Governo, registro n. 48, foglio n. 85. - FRASCA  
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Dato a Roma, addi' 24 dicembre 1951
+
+EINAUDI DE GASPERI - FANFANI
+
+Visto, il Guardasigilli: ZOLI
+
+Registrato alla Corte dei conti, addi' 29 dicembre 1951
+
+Atti del Governo, registro n. 48, foglio n. 49. - FRASCA
 
 Elenco
 
@@ -66,5 +70,5 @@ Elenco
 Elenco dei terreni espropriati nei confronti di Clausi Massimo fu Francesco a termini degli [articoli 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art1) e [2 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art2).   
   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=051U149400100010110001&dgu=1951-12-31&art.dataPubblicazioneGazzetta=1951-12-31&art.codiceRedazionale=051U1494)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=051U145700100010110001&dgu=1951-12-31&art.dataPubblicazioneGazzetta=1951-12-31&art.codiceRedazionale=051U1457)
   

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 ottobre 1980 n. 1230
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 febbraio 1980 n. 339
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 ottobre 1980 n. 1230
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 febbraio 1980 n. 339
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ancona.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Ancona.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Ancona, approvato con [decreto del Presidente della Repubblica 4 ottobre 1971, n. 1330](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-10-04;1330) e modificato con [decreto del Presidente della Repubblica 7 agosto 1973, n. 909](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-08-07;909), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Ancona, approvato con [decreto del Presidente della Repubblica 4 ottobre 1971, n. 1330](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-10-04;1330) e modificato con decreto del Presidente della P pubblici 7 agosto 1973, 909 e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,15 +20,15 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ancona e convalidati dal Consiglio universitario nazionale nei suoi pareri;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ancona e convalidati dal Consiglio universitario nazionale nel suo parere;
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Veduto il [parere della sezione prima del Consiglio di Stato, n. 1902/74 del 14 febbraio 1975](https://e-justice.europa.eu/ecli/ECLI::::);
+
+Considerato che non appare opportuno, al momento, procedere ad una generale revisione delle norme statutarie di tutti gli Atenei relative alla direzione delle scuole di specializzazione e perfezionamento e degli istituti nonche' delle scuole dirette a fini speciali, attualmente affidata esclusivamente ai professori di ruolo o fuori ruolo, in attesa del provvedimento relativo allo stato giuridico del personale docente;
 
 Sulla
 -----
@@ -39,109 +39,66 @@ Articolo unico
 --------------
 
   
-Lo statuto dell'Universita' di Ancona, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Dopo l'art. 28 sono inseriti i seguenti articoli relativi alla istituzione delle scuole di specializzazione in anestesia e rianimazione ed in igiene.  
+Lo statuto dell'Universita' di Ancona, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Scuola di specializzazione in anestesia e rianimazione  
+Dopo l'art. 17, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in oncologia.   
   
-Art. 29. - La scuola di specializzazione in anestesia e rianimazione ha sede presso la clinica chirurgica dell'Universita' degli studi di Ancona e conferisce il diploma di specialista in anestesia e rianimazione.  
-Art. 30. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.  
-Art. 31. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-Art. 32. - La durata dei corsi di studio e' di tre anni e non e' suscettibile di abbreviazione.  
-Art. 33. - Il numero massimo di allievi e' di dieci per anno di corso e complessivamente di trenta iscritti per l'intero corso di studi.  
-Art. 34. - L'ammissione alla scuola avviene per titoli ed esami.  
-Art. 35. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-1) anatomia applicata all'anestesia ed alla rianimazione;  
-2) biochimica applicata all'anestesia ed alla rianimazione;  
-3) fisica applicata all'anestesia ed alla rianimazione;  
-4) farmacologia applicata all'anestesia ed alla rianimazione;  
-5) fisiologia applicata all'anestesia ed alla rianimazione;  
-6) anestesiologia I;  
-7) tecniche chirurgiche di interesse anestesiologico;  
-8) aspetti medico-legali dell'anestesia e della rianimazione;  
-9) esercitazioni pratiche.  
-2° Anno:  
-1) anestesiologia II;  
-2) terapia antalgica;  
-3) rianimazione I;  
-4) esercitazioni pratiche.  
-3° Anno:  
-1) rianimazione II;  
-2) tecniche speciali di anestesia;  
-3) tecniche speciali di rianimazione;  
-4) indagini diagnostiche attinenti alla specialita';  
-5) esercitazioni pratiche.  
-Art. 36. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.  
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
-Art. 37. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno.  
-Per le materie a corsi pluriennali l'esame va sostenuto alla fine di ognuno dei corsi medesimi.  
-Al termine del corso di studi per il conseguimento del diploma di specialista in anestesia e rianimazione gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta su di un argomento attinente alla specializzazione.  
+Scuola di specializzazione in oncologia   
   
-Scuola di specializzazione in igiene  
+Art. 18. - La scuola di specializzazione in oncologia ha sede presso l'istituto di anatomia patologica e conferisce il diploma di specialista in oncologia.   
+Art. 19. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Art. 20. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.   
+Art. 21. - La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazione.   
+Art. 22. -
+
+((Il numero massimo degli allievi e' di quindici per anno di corso, e complessivamente di quarantacinque iscritti per l'intero corso di studi.))
+
   
-Art. 38. - La scuola di specializzazione in igiene ha sede presso l'istituto di igiene. Essa ha lo scopo di conferire adeguata preparazione teorica e pratica ai laureati che intendono dedicarsi alla carriera dei laboratori di sanita' pubblica e della progettazione di impianti tecnologici di ospedali, scuole, industrie.  
-La scuola si articola nei seguenti due indirizzi:  
-1) laboratorio di sanita' pubblica, al quale possono essere ammessi i laureati in chimica, chimica industriale, chimica e tecnologie farmaceutiche, farmacia, fisica, scienze biologiche, scienze naturali, agraria e medicina veterinaria;  
-2) igiene ed edilizia socio-sanitaria, al quale possono essere ammessi i laureati in architettura, fisica ed ingegneria.  
-Art. 39. - La durata del corso di studi e' di due anni e non e' suscettibile di abbreviazione.  
-Art. 40. - L'ammissione al corso avviene per titoli ed esami.  
-Art. 41. - Il numero massimo di allievi iscrivibili alla scuola e' di sessanta suddivisi in quaranta per l'indirizzo di laboratorio di sanita' pubblica e venti per l'indirizzo di igiene ed edilizia socio-sanitaria.  
-Art. 42. - Le materie di insegnamento per l'indirizzo di laboratorio di sanita' pubblica sono le seguenti:  
-1° Anno:  
-1) metodologia statistica e biometria;  
-2) microbiologia e parassitologia;  
-3) epidemiologia e profilassi generale;  
-4) legislazione ed organizzazione;  
-5) elementi di patologia generale;  
-6) biochimica applicata;  
-7) igiene dell'ambiente fisico e difesa ecologica.  
-2° Anno:  
-1) metodi e dosaggi chimici, fisici e biologici per  
-il controllo dell'inquinamento ambientale;  
-2) epidemiologia e profilassi delle malattie infettive  
-e di quelle non infettive di importanza sociale;  
-3) strumentazione e misure chimico-cliniche;  
-4) accertamento diagnostico delle malattie infettive  
-e parassitarie;  
-5) ispezione e controllo degli alimenti;  
-6) elementi di fisica tecnica applicata all'igiene;  
-7) elementi di informatica.  
-Art. 43. - Le materie di insegnamento per l'indirizzo di igiene ed edilizia socio-sanitaria sono le seguenti:  
-1° Anno:  
-1) metodologia statistica e biometria;  
-2) elementi di epidemiologia e profilassi delle malattie infettive e non infettive di importanza sociale;  
-3) legislazione sanitaria;  
-4) igiene dell'ambiente fisico e difesa ecologica;  
-5) organizzazione del territorio e programmazione  
-sanitaria;  
-6) principi di ingegneria del lavoro e della sicurezza.  
-2° Anno:  
-1) igiene edilizia e dell'aggregato urbano;  
-2) igiene e tecnica delle costruzioni ospedaliere, arredamenti e impianti tecnologici;  
-3) edilizia ed arredamento scolastico;  
-4) elementi di fisica tecnica applicata all'igiene;  
-5) urbanistica ed insediamento industriale;  
-6) approvvigionamento idrico e smaltimento dei rifiuti.  
-A giudizio della scuola i corsi possono essere completati da insegnamenti complementari scelti fra gli insegnamenti previsti dallo statuto dell'Universita'. Gli insegnamenti sono svolti sotto forma di lezioni, dimostrazioni ed esercitazioni pratiche, visite ad impianti e strutture interessanti la scuola di specializzazione.  
-I corsi sono integrati da frequenza obbligatoria ai fini di apprendimento di durata comunque non inferiore a mesi dodici - per l'indirizzo di laboratorio di sanita' pubblica - e a mesi sei - per l'indirizzo di igiene ed edilizia socio-sanitaria.  
-Art. 44. - Alla fine di ogni anno gli allievi devono sostenere un esame sulle materie di insegnamento.  
-Nel caso in cui i candidati non abbiano superato gli esami prescritti, rimarranno nella posizione di fuori corso fino a che non avranno assolto agli obblighi di cui sopra.  
-Art. 45. - La frequenza alle lezioni, dimostrazioni, esercitazioni e visite didattiche nonche' lo svolgimento della frequenza ai fini di apprendimento sono obbligatorie.  
-Gli allievi che non conseguono le relative attestazioni di frequenza non possono essere ammessi a sostenere gli esami annuali e l'esame di diploma.  
-Con il consenso della scuola, possono essere esonerati dalla frequenza obbligatoria ai fini di apprendimento unicamente i laureati che prestino regolare servizio in cliniche o istituti universitari o in strutture ospedaliere riconosciute idonee, di volta in volta, a giudizio insindacabile della facolta'.  
+Art. 23. - L'ammissione al corso avviene per titoli ed esami.   
+Art. 24. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+patologia generale dei tumori (I);   
+oncologia sperimentale (I);   
+anatomia ed istologia patologica dei tumori (I);   
+epidemiologia dei tumori;   
+cancerogenesi ambientale e professionale e prevenzione primaria;   
+immunologia dei tumori.   
+2° Anno:   
+patologia generale dei tumori (II);   
+oncologia sperimentale (II);   
+anatomia e istologia patologica dei tumori (II);   
+citodiagnostica dei tumori;   
+prevenzione clinica e tecniche diagnostiche e di laboratorio; radiodiagnostica dei tumori;   
+oncologia medica (I);   
+oncologia chirurgica (I).   
+3° Anno:   
+oncologia medica (II);   
+oncologia chirurgica (II);   
+radioterapia dei tumori;   
+oncologia dell'apparato genitale femminile;   
+oncologia pediatrica;   
+principi di riabilitazione oncologica;   
+organizzazione della lotta contro i tumori.   
+Ogni scuola deve provvedere ad organizzare seminari e conferenze su specifici argomenti con l'integrazioni di quelli elencati nello statuto.   
+Art. 25. - La frequenza alle lezioni, alle esercitazioni pratiche e' obbligatoria per l'ammissione agli esami; il superamento degli esami di ciascun anno e' condizione indispensabile per l'iscrizione all'anno successivo.   
+Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.   
+Art. 26. - Al termine del triennio per ottenere il diploma i candidati devono presentare una dissertazione scritta su un argomento attinente alla specializzazione.(1)   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 ottobre 1980
+### Dato a Roma, addi' 20 febbraio 1980
 
-PERTINI SARTI
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: SARTI
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 17 ottobre 1981
+Registrato alla Corte dei conti, addi' 26 giugno 1980
 
-Registro n. 96 Istruzione, foglio n. 353
+Registro n. 61 Istruzione, foglio n. 294 ---------------- AGGIORNAMENTO (1)
+
+Il D.P.R. 31 ottobre 1980, n. 1076 ha disposto (con l'articolo unico) che " Il dispositivo del decreto del Presidente della
+
+Repubblica 20 febbraio 1980, n. 339, deve intendersi riferito al riordinamento della scuola di specializzazione in oncologia dell'Universita' di Ancona e non all'istituzione."

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1952 n. 884
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1950 n. 641
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1952 n. 884
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1950 n. 641
+=============================================================
 
 Autorizzazione all'Universita' cattolica del Sacro Cuore di Milano ad accettare un legato.
 ------------------------------------------------------------------------------------------
@@ -12,8 +12,7 @@ Art. 1
 
 N.
 
-884. Decreto del Presidente della Repubblica 14 marzo 1952, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' cattolica del Sacro Cuore di Milano viene autorizzata ad accettare il legato di L. 300.000 disposto in suo favore della defunta signorina Serena Giselda, con testamento pubblico in data 15 gennaio 1951, per l'istituenda Facolta' di medicina e chirurgia.  
+641. Decreto del Presidente della Repubblica 19 maggio 1950, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' cattolica del Sacro Cuore di Milano viene autorizzata ad accettare il legato della somma di L. 20.000, disposto in suo favore dal defunto sig. Piero Passini, con testamento olografo in data 2 settembre 1940, pubblicato il 25 agosto 1948, col n. 2433 di repertorio, per atti del notaio Raffaele Meneghini in Milano.  
   
-Visto, il Guardasigilli: ZOLI  
-Registrato alla Carte dei conti, addi' 9 luglio 1952  
-Atti del Governo, registro n. 55, foglio n. 92. - FRASCA
+Visto, il Guardasigilli: PICCIONI  
+Registrato alla Corte dei conti, addi' 21 agosto 1950

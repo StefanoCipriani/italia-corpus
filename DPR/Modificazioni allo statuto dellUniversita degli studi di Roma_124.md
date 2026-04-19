@@ -1,396 +1,134 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 ottobre 1971 n. 1450
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1978 n. 796
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 ottobre 1971 n. 1450
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1978 n. 796
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e' modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito ii parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Gli articoli 137, 138, 139, 140, 141, 142, 143 e 144, relativi alla facolta' di architettura sono abrogati e sostituiti dai seguenti:
-
-Art. 137. - La facolta' di architettura ha il fine di promuovere il progresso degli studi di architettura e di curare la preparazione culturale necessaria per il conseguimento di lauree nelle discipline di progettazione ambientale.
-
-Art. 138. - La facolta' di architettura comprende i seguenti istituti:
-
-Istituto di progettazione;
-
-Istituto di storia dell'architettura;
-
-Istituto di scienza e tecnica delle costruzioni;
-
-Istituto di urbanistica;
-
-Istituto di fondamenti dell'architettura;
-
-Istituto di pianificazione territoriale;
-
-Istituto di metodologia architettonica;
-
-Istituto di disegno industriale e arredamento;.
-
-Istituto di edilizia;
-
-Istituto di tecnologia dell'architettura;
-
-Istituto di critica operativa dell'architettura.
-
-Art. 139. - La durata del corso degli studi per la laurea in architettura e' di cinque anni. Il titolo di ammissione e' quello stabilito dalle vigenti disposizioni di legge.
-
-Art. 140. - Sono insegnamenti fondamentali:
-
-1) Analisi matematica e geometria analitica (annuale piu' un semestre);
-
-2) Arredamento;
-
-3) Composizione architettonica (quinquennale);
-
-4) Disegno e rilievo;
-
-5) Estimo ed esercizio professionale (semestrale);
-
-6) Fisica (semestrale);
-
-7) Fisica tecnica ed impianti;
-
-8) Geometria descrittiva;
-
-9) Igiene edilizia (semestrale);
-
-10) Restauro dei monumenti;
-
-11) Scienza delle costruzioni;
-
-12) Statica;
-
-13) Storia dell'architettura (biennale);
-
-14) Tecnica delle costruzioni;
-
-15) Tecnologia dell'architettura (biennale);
-
-16) Urbanistica (biennale);
-
-Nella facolta' di architettura possono essere attuati i seguenti insegnamenti complementari:
-
-1) Letteratura italiana (lingua e letteratura italiana);
-
-2) Plastica (modellistica) - (semestrale);
-
-3) Lingua straniera (inglese);
-
-4) Arte dei giardini (paesaggistica);
-
-5) Scenografia;
-
-6) Decorazione (semestrale);
-
-7) Materie giuridiche (diritto e legislazione);
-
-8) Applicazione di geometria descrittiva;
-
-9) Architettura sociale (semestrale);
-
-10) Allestimento e museografia (semestrale);
-
-11) Indirizzi dell'architettura moderna;
-
-12) Caratteri stilistici e costruttivi dei monumenti (complementi di storia dell'architettura);
-
-13) Complementi di matematica (semestrale);
-
-14) Consolidamento ed adattamento degli edifici (semestrale);
-
-15) Disegno dal vero (Teoria e pratica del disegno);
-
-16) Ponti e grandi strutture (Progettazione delle grandi strutture);
-
-17) Impianti speciali (Impianti di climatizzazione) (semestrale);
-
-18) Istituzioni di storia dell'arte;
-
-19) Illuminazione e acustica nell'edilizia (semestrale);
-
-20) Letteratura artistica (Storia della critica d'arte);
-
-21) Pianificazione territoriale urbanistica (Programmazione e pianificazione territoriale);
-
-22) Progettazione artistica per l'industria (Disegno industriale);
-
-23) Storia dell'urbanistica;
-
-24) Geotecnica e tecnica delle fondazioni (semestrale);
-
-25) Tipologia strutturale (Morfologia strutturale);
-
-26) Unificazione edilizia e prefabbricazione;
-
-27) Materiali da costruzione (due semestri);
-
-28) Complementi di fisica (semestrale);
-
-29) Costruzioni asismiche (semestrale);
-
-30) Sociologia;
-
-31) Economia dello spazio;
-
-32) Topografia (semestrale);
-
-33) Analisi dei sistemi urbani;
-
-34) Ecologia (semestrale);
-
-35) Elaborazione elettronica per la progettazione (semestrale);
-
-36) Geografia urbana;
-
-37) Gestione e amministrazione del territorio;
-
-38) Psicologia della percezione e della forma;
-
-39) Sistemi infrastrutturali per il territorio;
-
-40) Teoria delle strutture e dei linguaggi;
-
-41) Teoria dei modelli della progettazione;
-
-42) Teoria generale dell'informazione.
-
-Art. 141. - L'insegnamento di analisi matematica e geometria analitica ha la durata annuale piu' un semestre e comporta un solo esame finale al termine del corso.
-
-L'insegnamento di storia dell'architettura e' articolato in due insegnamenti specifici di durata annuale e comporta due distinti esami. L'insegnamento di tecnologia dell'architettura ha durata biennale e comporta due distinti esami uno al termine del 1° corso e uno al termine del 2° corso.
-
-L'insegnamento di urbanistica ha durata biennale e comporta due distinti esami; uno al termine del 1° corso e uno al termine del 2° corso.
-
-Il corso di composizione architettonica ha durata quinquennale con esame al termine di ciascun anno di corso.
-
-L'insegnamento complementare di materiali da costruzione e' articolato in due insegnamenti specifici di durata semestrale:
-
-A) materiali da costruzione naturali;
-
-B) materiali da costruzione artificiali.
-
-Art. 142. - Devono essere osservate le seguenti propedeuticita':
-
--------------------------------------------------------------------
-
-Non si puo essere ammessi | se non e stato superato
-
-a sostenere l'esame di: | l'esame di:
-
--------------------------------------------------------------------
-
-|
-
-Statica e fisica tecnica e im- | Analisi matematica e geometria
-
-pianti | analitica
-
-|
-
-Scienza delle costruzioni | Statica
-
-|
-
-Tecnica delle costruzioni, mor- | Scienza delle costruzioni
-
-fologia strutturale, ponti e |
-
-grandi strutture, costruzioni |
-
-asismiche, geotecnica e tecni- |
-
-ca delle fondazioni; |
-
-|
-
-Tecnologia dell'architettura II | Tecnologia dell'architettura I,
-
-| composizione architettonica II,
-
-| statica.
-
-Per quanto riguarda i corsi di composizione architettonica non si puo' essere ammessi a sostenere lo esame di uno dei corsi annuali se non e' stato superato l'esame del corso di composizione architettonica precedente.
-
-Per quanto riguarda il corso di urbanistica 2° non si puo' essere ammessi a sostenere il relativo esame se non e' stato superato quello di urbanistica 1°.
-
-Art. 143. - Per essere ammesso all'esame di laurea, lo studente deve aver seguito le lezioni e le esercitazioni e deve aver superato i relativi esami di tutti gli insegnamenti fondamentali e di sei insegnamenti complementari della durata di un anno (o equivalente) da lui scelti tra quelli proposti dalla facolta' nel relativo manifesto degli studi.
-
-Art. 144. - L'esame di laurea consiste nella valutazione dell'attivita' svolta dal candidato durante il corso degli studi e nella discussione della tesi, riguardante una ricerca che implica l'elaborazione individuale di un progetto.
-
-Per sostenere l'esame di laurea il candidato deve presentare richiesta al preside, non meno di sei mesi prima dell'appello prescelto, indicando fra i professori ufficiali il relatore.
-
-Il consiglio di facolta' esamina la domanda, conferma il relatore; questi, d'accordo col candidato, definisce il tema, ne segue lo sviluppo, consigliando eventuali correlatori e ne garantisce la originalita' davanti alla commissione giudicatrice.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 9 ottobre 1971
-
-SARAGAT
-
-MISASI
-
-Visto, il Guardasigilli: COLOMBO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 4 settembre 1972 Atti del Governo, registro n. 251, foglio n. 9. - VALENTINI
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e' modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;   
+Veduto lo statuto dell'Universita' di Roma, approvato con [regio decreto 20 aprile 1939, n. 1250](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1250) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;   
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito ii parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Roma e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
 Decreta:   
   
 Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Gli articoli 262, 263, 264, 265, 266 e 267, relativi alla scuola di perfezionamento in statistica sanitaria annessa alla facolta' di scienze statistiche, demografiche ed attuariali, sono abrogati e sostituiti dai seguenti:   
   
-Gli articoli 137, 138, 139, 140, 141, 142, 143 e 144, relativi alla facolta' di architettura sono abrogati e sostituiti dai seguenti:   
-Art. 137. - La facolta' di architettura ha il fine di promuovere il progresso degli studi di architettura e di curare la preparazione culturale necessaria per il conseguimento di lauree nelle discipline di progettazione ambientale.   
-Art. 138. - La facolta' di architettura comprende i seguenti istituti:   
-Istituto di progettazione;   
-Istituto di storia dell'architettura;   
-Istituto di scienza e tecnica delle costruzioni;   
-Istituto di urbanistica;   
-Istituto di fondamenti dell'architettura;   
-Istituto di pianificazione territoriale;   
-Istituto di metodologia architettonica;   
-Istituto di disegno industriale e arredamento;.   
-Istituto di edilizia;   
-Istituto di tecnologia dell'architettura;   
-Istituto di critica operativa dell'architettura.   
-Art. 139. - La durata del corso degli studi per la laurea in architettura e' di cinque anni. Il titolo di ammissione e' quello stabilito dalle vigenti disposizioni di legge.   
-Art. 140. - Sono insegnamenti fondamentali:   
-1) Analisi matematica e geometria analitica (annuale piu' un semestre);   
-2) Arredamento;   
-3) Composizione architettonica (quinquennale);   
-4) Disegno e rilievo;   
-5) Estimo ed esercizio professionale (semestrale);   
-6) Fisica (semestrale);   
-7) Fisica tecnica ed impianti;   
-8) Geometria descrittiva;   
-9) Igiene edilizia (semestrale);   
-10) Restauro dei monumenti;   
-11) Scienza delle costruzioni;   
-12) Statica;   
-13) Storia dell'architettura (biennale);   
-14) Tecnica delle costruzioni;   
-15) Tecnologia dell'architettura (biennale);   
-16) Urbanistica (biennale);   
-Nella facolta' di architettura possono essere attuati i seguenti insegnamenti complementari:   
-1) Letteratura italiana (lingua e letteratura italiana);   
-2) Plastica (modellistica) - (semestrale);   
-3) Lingua straniera (inglese);   
-4) Arte dei giardini (paesaggistica);   
-5) Scenografia;   
-6) Decorazione (semestrale);   
-7) Materie giuridiche (diritto e legislazione);   
-8) Applicazione di geometria descrittiva;   
-9) Architettura sociale (semestrale);   
-10) Allestimento e museografia (semestrale);   
-11) Indirizzi dell'architettura moderna;   
-12) Caratteri stilistici e costruttivi dei monumenti (complementi di storia dell'architettura);   
-13) Complementi di matematica (semestrale);   
-14) Consolidamento ed adattamento degli edifici (semestrale);   
-15) Disegno dal vero (Teoria e pratica del disegno);   
-16) Ponti e grandi strutture (Progettazione delle grandi strutture);   
-17) Impianti speciali (Impianti di climatizzazione) (semestrale);  
-18) Istituzioni di storia dell'arte;   
-19) Illuminazione e acustica nell'edilizia (semestrale);   
-20) Letteratura artistica (Storia della critica d'arte);   
-21) Pianificazione territoriale urbanistica (Programmazione e pianificazione territoriale);   
-22) Progettazione artistica per l'industria (Disegno industriale);   
-23) Storia dell'urbanistica;   
-24) Geotecnica e tecnica delle fondazioni (semestrale);   
-25) Tipologia strutturale (Morfologia strutturale);   
-26) Unificazione edilizia e prefabbricazione;   
-27) Materiali da costruzione (due semestri);   
-28) Complementi di fisica (semestrale);   
-29) Costruzioni asismiche (semestrale);   
-30) Sociologia;   
-31) Economia dello spazio;   
-32) Topografia (semestrale);   
-33) Analisi dei sistemi urbani;   
-34) Ecologia (semestrale);   
-35) Elaborazione elettronica per la progettazione (semestrale);   
-36) Geografia urbana;   
-37) Gestione e amministrazione del territorio;   
-38) Psicologia della percezione e della forma;   
-39) Sistemi infrastrutturali per il territorio;   
-40) Teoria delle strutture e dei linguaggi;   
-41) Teoria dei modelli della progettazione;   
-42) Teoria generale dell'informazione.   
-Art. 141. - L'insegnamento di analisi matematica e geometria analitica ha la durata annuale piu' un semestre e comporta un solo esame finale al termine del corso.   
-L'insegnamento di storia dell'architettura e' articolato in due insegnamenti specifici di durata annuale e comporta due distinti esami. L'insegnamento di tecnologia dell'architettura ha durata biennale e comporta due distinti esami uno al termine del 1° corso e uno al termine del 2° corso.   
-L'insegnamento di urbanistica ha durata biennale e comporta due distinti esami; uno al termine del 1° corso e uno al termine del 2° corso.   
-Il corso di composizione architettonica ha durata quinquennale con esame al termine di ciascun anno di corso.   
-L'insegnamento complementare di materiali da costruzione e' articolato in due insegnamenti specifici di durata semestrale:   
-A) materiali da costruzione naturali;   
-B) materiali da costruzione artificiali.   
-Art. 142. - Devono essere osservate le seguenti propedeuticita':   
-
-|  |  |
-| --- | --- |
-| Non si puo essere ammessi a sostenere l'esame di: | se non e stato superato l'esame di: |
-
-  
-  
-  
-  
-Per quanto riguarda i corsi di composizione architettonica non si puo' essere ammessi a sostenere lo esame di uno dei corsi annuali se non e' stato superato l'esame del corso di composizione architettonica precedente.   
-Per quanto riguarda il corso di urbanistica 2° non si puo' essere ammessi a sostenere il relativo esame se non e' stato superato quello di urbanistica 1°.   
-Art. 143. - Per essere ammesso all'esame di laurea, lo studente deve aver seguito le lezioni e le esercitazioni e deve aver superato i relativi esami di tutti gli insegnamenti fondamentali e di sei insegnamenti complementari della durata di un anno (o equivalente) da lui scelti tra quelli proposti dalla facolta' nel relativo manifesto degli studi.   
-Art. 144. - L'esame di laurea consiste nella valutazione dell'attivita' svolta dal candidato durante il corso degli studi e nella discussione della tesi, riguardante una ricerca che implica l'elaborazione individuale di un progetto.   
-Per sostenere l'esame di laurea il candidato deve presentare richiesta al preside, non meno di sei mesi prima dell'appello prescelto, indicando fra i professori ufficiali il relatore.   
-Il consiglio di facolta' esamina la domanda, conferma il relatore; questi, d'accordo col candidato, definisce il tema, ne segue lo sviluppo, consigliando eventuali correlatori e ne garantisce la originalita' davanti alla commissione giudicatrice.   
+Scuola di perfezionamento in statistica sanitaria   
+Art. 262. - La scuola di perfezionamento in statistica sanitaria ha due indirizzi:   
+1) statistica medica;   
+2) programmazione socio-sanitaria.   
+La scuola rilascia un unico diploma con specificazione dell'uno e dell'altro indirizzo.   
+Art. 263. - Alla scuola possono iscriversi:   
+a) i laureati in qualsiasi disciplina;   
+b) i diplomati in statistica, i funzionari ed operatori di enti pubblici e privati interessati a problemi di sanita' pubblica.   
+Art. 264. - Per essere ammessi alla scuola gli aspiranti che si trovano nella condizione prevista dall'art. 263, comma a), dovranno sostenere un colloquio preliminare che si terra' sempre il secondo sabato del mese di gennaio di ogni anno, con una commissione composta dai docenti della scuola.   
+La scuola prevede l'assegnazione di alcune borse di studio (a copertura delle tasse di laboratorio) a neolaureati particolarmente meritevoli; la valutazione scaturita dall'esito del colloquio e dall'esame del curriculum universitario e di eventuali altri titoli.   
+Art. 265. - La scuola ha la durata di tre anni. Per coloro che richiedono l'iscrizione in base al comma b) dell'art. 263 la durata del corso e' di un anno.   
+Art. 266. - Gli insegnamenti sono:   
+Fondamentali:   
+1) demografia;   
+2) demografia e statistica sanitaria   
+3) ecologia;   
+4) economia sanitaria;   
+5) elaborazione automatica dei dati I;   
+6) elaborazione automatica dei dati II;   
+7) elementi di matematica;   
+8) epidemiologia;   
+9) genetica di popolazioni umane;   
+10) metodi statistici in campo bio-medico;   
+11) metodologia statistica;   
+12) principi di inferenza statistica;   
+13) principi di programmazione socio-sanitaria;   
+14) programmazione socio-sanitaria applicata;   
+15) sistemi informativi sanitari;   
+16) sociologia sanitaria e demografia sociale;   
+17) sperimentazione clinica e farmacologica;   
+18) statistica multivariata;   
+19) statistica sanitaria;   
+20) tecniche di programmazione socio-sanitaria.   
+Complementari:   
+1) analisi biometriche;   
+2) antropologia culturale;   
+3) biocibernetica;   
+4) calcolo automatico;   
+5) controllo qualita' dei prodotti sanitari;   
+6) elementi di biologia;   
+7) elementi di farmacologia;   
+8) elementi di fisiopatologia;   
+9) igiene urbanistica;   
+10) legislazione sociale regionale;   
+11) metodi statistici in epidemiologia;   
+12) metodi statistici in genetica;   
+13) piano degli esperimenti;   
+14) prove cliniche sequenziali;   
+15) psicologia sociale;   
+16) ricerca operativa in campo sanitario;   
+17) riconoscimento di forme;   
+18) sociologia delle organizzazioni;   
+19) statistica della sicurezza sociale;   
+20) tipologia delle strutture e dei servizi sociosanitari.   
+Ordine degli studi dell'indirizzo in statistica medica:   
+1° Anno:   
+1) demografia e statistica sanitaria;   
+2) elementi di matematica;   
+3) metodologia statistica;   
+4) principi di inferenza statistica.   
+2° Anno:   
+1) elaborazione automatica dei dati I;   
+2) epidemiologia;   
+3) genetica di popolazioni umane;   
+4) metodi statistici in campo biomedico.   
+3° Anno:   
+1) elaborazione automatica dei dati II;   
+2) principi di programmazione socio-sanitaria;   
+3) sperimentazione clinica e farmacologica;   
+4) statistica multivariata.   
+Ordine degli studi dell'indirizzo in programmazione socio-sanitaria:   
+1° Anno:   
+1) demografia;   
+2) epidemiologia;   
+3) genetica di popolazioni umane;   
+4) principi di programmazione socio-sanitaria;   
+5) sociologia sanitaria e demografia sociale;   
+6) statistica sanitaria.   
+2° Anno:   
+1) elementi di matematica;   
+2) metodologia statistica;   
+3) sistemi informativi sanitari;   
+4) tecniche di programmazione socio-sanitaria.   
+3° Anno:   
+1) ecologia;   
+2) economia sanitaria;   
+3) programmazione socio-sanitaria applicata.   
+Gli iscritti a ciascun indirizzo potranno scegliere quali insegnamenti complementari anche quelli fondamentali dell'altro indirizzo.   
+Art. 267. - Per essere ammessi all'esame di diploma gli iscritti secondo il comma a) dell'art. 263 all'indirizzo in statistica medica dovranno aver superato tutti e dodici gli esami fondamentali e quelli di almeno quattro complementari, e gli iscritti all'indirizzo in programmazione socio-sanitaria dovranno aver superato tutti e tredici gli esami fondamentali e quelli di almeno quattro complementari.   
+L'esame di diploma consistera' nella discussione, dinanzi ad una commissione costituita da almeno sette docenti della scuola, di una dissertazione scritta su un argomento originale relativo ad una delle materie di esame.   
+Gli iscritti secondo il comma b) dell'art. 263 che avranno superato gli esami di almeno sette insegnamenti fondamentali dell'indirizzo in programmazione socio-sanitaria e di almeno tre insegnamenti complementari, riceveranno un attestato di frequenza e di profitto.   
+Disposizione transitoria. - Coloro che all'entrata in vigore del presente nuovo statuto risultino gia' iscritti alla scuola al primo anno, al secondo o fuori corso potranno optare per il nuovo ordinamento; in tal caso il direttore della scuola, sentito il parere del consiglio dei docenti, potra' concedere una riduzione della durata del corso legale sulla scorta degli esami gia' sostenuti convalidandone alcuni a tutti gli effetti.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 ottobre 1971
+### Dato a Roma, addi' 2 ottobre 1978
 
-SARAGAT MISASI
+PERTINI PEDINI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 4 settembre 1972
+Registrato alla Corte dei conti, addi' 5 dicembre 1978
 
-Atti del Governo, registro n. 251, foglio n. 9. - VALENTINI
+Registro n. 127 Istruzione, foglio n. 392

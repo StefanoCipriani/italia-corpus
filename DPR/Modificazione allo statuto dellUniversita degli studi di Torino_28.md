@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1983 n. 945
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1984 n. 267
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1983 n. 945
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1984 n. 267
+============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
@@ -39,19 +39,19 @@ Articolo unico
 --------------
 
   
-Nell'art. 55, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-otorinolaringoiatria pediatrica.  
+Nell'art. 90, relativo al corso di laurea in scienze naturali della facolta' di scienze matematiche, fisiche e naturali, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+biologia delle popolazioni umane.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 ottobre 1983
+### Dato a Roma, addi' 2 marzo 1984
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 30 gennaio 1984
+Registrato alla Corte dei conti, addi' 11 giugno 1984
 
-Registro n. 5 Istruzione, foglio n. 1
+Registro n. 34 Istruzione, foglio n. 329

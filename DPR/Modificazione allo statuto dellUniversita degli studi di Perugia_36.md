@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 1141
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1983 n. 1120
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 1141
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1983 n. 1120
 ==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Perugia.
@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto dell'Universita' di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -39,14 +39,14 @@ Articolo unico
 --------------
 
   
-Nell'art. 32, relativo al corso di laurea in lettere, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-storia dell'arte italiana.  
+Nell'art. 49, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+fisiopatologia respiratoria.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 giugno 1983
+### Dato a Roma, addi' 4 giugno 1983
 
 PERTINI FALCUCCI
 
@@ -54,4 +54,4 @@ Visto, il Guardasigilli: MARTINAZZOLI
 
 Registrato alla Corte dei conti, addi' 22 marzo 1984
 
-Registro n. 17 Istruzione, foglio n. 341
+Registro n. 17 Istruzione, foglio n. 333

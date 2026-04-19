@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 351
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 484
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 351
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 484
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Messina.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 1° ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -39,16 +39,17 @@ Articolo unico
 --------------
 
   
-  
-Nell'art. 85, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:   
-patologia e diagnostica ultrastrutturale;   
-gastroenterologia pediatrica.   
+Nell'art. 85, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+analisi biochimico-cliniche;  
+analisi biologiche e di laboratorio;  
+fisiologia ed igiene del lavoro;  
+parassitologia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 marzo 1986
+### Dato a Roma, addi' 9 aprile 1986
 
 COSSIGA
 
@@ -56,6 +57,6 @@ FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 8 luglio 1986
+Registrato alla Corte dei conti, addi' 25 luglio 1986
 
-Registro n. 54 Istruzione, foglio n. 319
+Registro n. 60 Istruzione, foglio n. 340

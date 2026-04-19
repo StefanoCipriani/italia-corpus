@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1977 n. 581
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 novembre 1985 n. 915
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1977 n. 581
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 novembre 1985 n. 915
+===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
 -----------------------------------------------------------------------------------------------------
@@ -10,10 +10,10 @@ Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad ac
 Art. 1
 ------
 
-N.
+n.
 
-581. Decreto del Presidente della Repubblica 12 luglio 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita disposta dalla sig.ra Gabriella Ponzone ved. Forni con testamento olografo 31 maggio 1972, pubblicato a rogito del notaio dott. Luigi Gambaro di Genova il 30 novembre 1973, n. 17629 di repertorio e n. 2258 di raccolta, registrato a Genova il 6 dicembre 1973 al n. 19951, consistente nella proprieta' di un fabbricato sito in Genova, via Felice Romani n. 9 e via Gropallo n. 16, iscritto al nuovo catasto edilizio urbano alla partita 38149, foglio 18, mappali numeri 176 e 177, ed al catasto terreni al foglio n. 48, mappale 187 per mq 55 e mappale 188 per mq 1830, totale superficie coperta e scoperta mq 1885, per un valore complessivo di L. 205.750.000; in titoli per un valore di lire 17.675.650 e in un c/c di L. 961.000; il tutto, detratte spese d'inventario, registrazioni ed onorari, per un importo complessivo di L. 213.794.432.  
+915. Decreto del Presidente della Repubblica 14 novembre 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in beni immobili siti in Brescia e Rovato dell'inventariato valore di L. 416.600.000, nonche' beni mobili per un importo di L. 49.913.907 come da inventario redatto a rogito dott. Renato Anessi, notaio in Iseo (Brescia), a fronte delle attivita' di cui sopra di complessive L. 466.513.907, esistono passivita' per L. 5.612.532, per cui l'ammontare dell'eredita' resta di L. 460.901.375; inoltre, a carico della fondazione beneficiaria, e' stato posto un legato consistente nell'obbligo di consegnare alla cameriera della de cuius, sig.ra Teresa Marini, annualmente e vita natural durante, quintali 50 di frumento fino e quintali 50 di granoturco in natura, nonche' concedere in usufrutto alla predetta sig.ra Marini due locali nella casa di Rovato, dove abitava la testatrice; l'eredita' e' stata disposta dalla sig.ra Cornetti Maria con testamento olografo 5 ottobre 1960, pubblicato a rogito dottor Renato Anessi il 9 novembre 1977, n. 30643 di repertorio e n. 6729 di raccolta, registrato a Brescia il 17 novembre 1977 al n. 6836.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 17 agosto 1977  
-Registro n. 17 Presidenza, foglio n. 88
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 6 febbraio 1986  
+Registro n. 1 Presidenza, foglio n. 400

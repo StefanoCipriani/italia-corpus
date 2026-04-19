@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1984 n. 209
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 maggio 1981 n. 372
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1984 n. 209
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 maggio 1981 n. 372
 =============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-209. Decreto del Presidente della Repubblica 9 aprile 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella quota di 1/2 di titoli BOT e titoli azionari per un valore complessivo di L. 102.460.960 quota 1/2 = L. 51.230.480, disposto dalla sig.ra Gariboldi Giuseppina a favore dei mutilatini di don Gnocchi, che si identificano con la fondazione medesima, con testamento olografo 29 dicembre 1980, pubblicato in data 28 maggio 1981, numero 33378/4776 di repertorio, a rogito dott. Sergio Barenghi, notaio in Milano, registrato a Milano in data 17 giugno 1981 al n. 416423.   
+372. Decreto del Presidente della Repubblica 5 maggio 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nel 50% di titoli depositati presso il Banco Lariano di Merone (Como), valore nominale L. 8.200.000, disposto dalla sig.na Fernanda Fraccalossi in favore dei mutilatini di don Gnocchi, che si identificano con la fondazione "Pro juventute don Carlo Gnocchi" come risulta dal verbale del consiglio di amministrazione della fondazione in data 16 dicembre 1978, con testamento olografo del febbraio 1977, pubblicato in data 30 ottobre 1978, n. 48641 di repertorio e n. 10475 di raccolta, a rogito dott. Furio Giazzi, notaio in Erba (Como), registrato ad Erba il 15 novembre 1978 al n. 1301, vol. 7.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 26 maggio 1984   
-Registro n. 4 Presidenza, foglio n. 345
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 3 luglio 1981  
+Registro n. 6 Presidenza, foglio n. 93

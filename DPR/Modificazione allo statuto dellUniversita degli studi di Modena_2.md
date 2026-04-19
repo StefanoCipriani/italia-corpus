@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 697
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1986 n. 1073
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 697
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1986 n. 1073
+================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Modena.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Modena.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -26,33 +26,35 @@ Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?
 
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
 
-Sentito il parere del Consiglio universitario nazionale;
+Veduto il parere del Consiglio universitario nazionale;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 --------
 
-Lo statuto dell'Universita' di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Nell'art. 71, relativo al corso di laurea in economia e commercio, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-sociologia economica;  
-complementi di econometria.  
+Nell'art. 40, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+  
+tisiologia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 giugno 1983
+### Dato a Roma, addi' 3 dicembre 1986
 
-PERTINI FALCUCCI
+COSSIGA
 
-Visto, il Guardasigilli: MARTINAZZOLI
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 7 dicembre 1983
+Visto, il Guardasigilli: ROGNONI
 
-Registro n. 75 Istruzione, foglio n. 287
+Registrato alla Corte dei conti, addi' 28 marzo 1987
+
+Registro n. 19 Istruzione, foglio n. 29

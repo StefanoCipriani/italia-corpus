@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 1197
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1980 n. 629
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 1197
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1980 n. 629
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Catania.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,47 +18,59 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Catania e convalidati dal Consiglio universitario nazionale nei suoi pareri;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
+Sentito il parere del Consiglio universitario nazionale;
 
-Veduto il parere del Consiglio universitario nazionale;
+Sulla
+-----
 
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+proposta del Ministro della pubblica istruzione; Decreta:
 
 Art. 1
 ------
 
   
-Nell'art. 31, relativo al corso di laurea in lettere, allo elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-sintassi e stilistica della lingua italiana.  
+  
+Lo statuto dell'Universita' di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+L'art. 212, primo comma, dello statuto dell'Universita' di Catania relativo al numero degli iscritti alla scuola di specializzazione in chirurgia e' modificato nel modo seguente:   
+"Alla scuola possono essere ammessi cinquantacinque iscritti per ogni anno di corso (totale duecentosettantacinque)".   
 
 Art. 2
 ------
 
   
-Nell'art. 44, relativo al corso di laurea in lingue e letterature straniere moderne (indirizzo europeo), all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-sintassi e stilistica della lingua italiana.  
+L'art. 267 dello statuto dell'Universita' di Catania di cui al [decreto del Presidente della Repubblica 31 ottobre 1978, n. 981](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-10-31;981) relativo al numero degli iscritti alla scuola di specializzazione in patologia della riproduzione umana e' cosi' modificato:  
+Art. 267. - Il numero complessivo degli specializzandi da ammettere alla scuola e' di trenta, dieci per anno di corso.  
+
+Art. 3
+------
+
+  
+L'art. 269 dello statuto dell'Universita' di Catania di cui al [decreto del Presidente della Repubblica 13 luglio 1978, n. 535](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-07-13;535), relativo al numero degli iscritti alla scuola di specializzazione in chirurgia plastica e' cosi' modificato:  
+Art. 269. - Il numero massimo degli allievi per l'intero corso di studi e' di ventitre iscritti.  
+
+Art. 4
+------
+
+  
+L'art. 220, secondo comma, dello statuto dell'Universita' di Catania di cui al [decreto del Presidente della Repubblica 31 ottobre 1978, n. 1038](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-10-31;1038), relativo al numero degli iscritti alla scuola di specializzazione in radiologia e' cosi' modificato:  
+"Il numero massimo di iscritti in corso alla scuola e' di sessantaquattro da ripartirsi annualmente fra i corsi di diploma in radiodiagnostica ed in radioterapia oncologica".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 15 luglio 1983
+### Dato a Roma, addi' 11 giugno 1980
 
-PERTINI FALCUCCI
+PERTINI SARTI
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 28 aprile 1984
+Registrato alla Corte dei conti, addi' 29 settembre 1980
 
-Registro n. 25 Istruzione, foglio n. 214
+Registro n. 89 Istruzione, foglio n. 256

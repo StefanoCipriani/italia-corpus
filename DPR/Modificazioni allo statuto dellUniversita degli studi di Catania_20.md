@@ -1,183 +1,93 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1046
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 maggio 1972 n. 328
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1046
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 maggio 1972 n. 328
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Catania e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 176 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in malattie infettive.
-
-Dopo l'art. 264, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in malattie infettive.
-
-Art. 265. - La scuola di specializzazione in malattie infettive ha sede presso l'istituto di malattie infettive e conferisce il diploma di specialista in malattie infettive.
-
-Art. 266. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza al professore di ruolo o fuori ruolo di materia affine.
-
-Art. 267. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalle autorita' competenti.
-
-Art. 268. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.
-
-Art. 269. - Il numero massimo degli allievi e' di quattro per anno di corso e complessivamente di sedici iscritti per l'intero corso di studi.
-
-Art. 270. - L'ammissione al corso avviene per titoli ed esami.
-
-Art. 271. - Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-epidemiologia generale delle malattie infettive;
-
-batteriologia e micologia;
-
-virologia;
-
-parassitologia;
-
-immunologia generale.
-
-2° Anno:
-
-tecniche batteriologiche e micologiche applicate alle malattie infettive;
-
-tecniche virologiche applicate alle malattie infettive;
-
-tecniche parassitologiche applicate alle malattie infettive;
-
-tecniche immunologiche applicate alle malattie infettive;
-
-anatomia patologica;
-
-genetica.
-
-3° Anno:
-
-clinica delle malattie infettive (1° anno);
-
-diagnostica e semeiotica delle malattie infettive;
-
-radiologia;
-
-medicina preventiva delle malattie infettive.
-
-4° Anno:
-
-clinica delle malattie infettive (2° anno);
-
-malattie tropicali;
-
-legislazione sanitaria delle malattie infettive;
-
-farmacologia e terapia delle malattie infettive.
-
-Art. 272. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.
-
-Art. 273. - Al termine di ciascun anno di corso gli allievi sono tenuti a sostenere gli esami del rispettivo anno; al termine del corso di studi per il conseguimento del diploma di specializzazione in malattie infettive gli interessati dovranno superare gli esami di diploma consistenti nella dissertazione scritta di un argomento attinente alla specialita'.
-
-Art. 274. - Agli allievi i quali abbiano ottenuto l'approvazione nell'esame di diploma verra' rilasciato il diploma di specializzazione in malattie infettive.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 31 ottobre 1977
-
-LEONE
-
-MALFATTI
-
-Visto, il Guardasigilli: BONIFACIO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 27 gennaio 1978 Registro n. 9 istruzione, foglio n. 327
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936; n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Catania e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 176 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in malattie infettive.  
-Dopo l'art. 264, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in malattie infettive.  
-Art. 265. - La scuola di specializzazione in malattie infettive ha sede presso l'istituto di malattie infettive e conferisce il diploma di specialista in malattie infettive.  
-Art. 266. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza al professore di ruolo o fuori ruolo di materia affine.  
-Art. 267. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalle autorita' competenti.  
-Art. 268. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.  
-Art. 269. - Il numero massimo degli allievi e' di quattro per anno di corso e complessivamente di sedici iscritti per l'intero corso di studi.  
-Art. 270. - L'ammissione al corso avviene per titoli ed esami.  
-Art. 271. - Le materie di insegnamento sono le seguenti:  
+  
+L'art. 157, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che la "Scuola in ortopedia" muta la denominazione in quella di "Scuola di specializzazione in ortopedia e traumatologia".  
+Gli articoli 211, 212, 213, relativi alla "Scuola di specializzazione in ortopedia" che muta la denominazione in quella di "Scuola di specializzazione in ortopedia e traumatologia" sono abrogati e sostituiti dai seguenti.  
+  
+Scuola di specializzazione in ortopedia e traumatologia  
+  
+Art. 211. - La scuola di specializzazione in ortopedia e traumatologia ha sede presso l'istituto di clinica ortopedica e conferisce il diploma di specializzazione in ortopedia e traumatologia.  
+Il corso ha la durata di tre anni.  
+Potranno essere ammessi alla scuola i laureati in medicina e chirurgia. Il numero complessivo degli iscritti e' di ventisette (nove per ogni anno di corso).  
+Art. 212. - La frequenza e' obbligatoria nell'istituto sede della scuola per un periodo di almeno nove mesi per ogni anno accademico.  
+E' in facolta' del direttore della scuola di concedere una deroga a tale norma solo agli iscritti alla scuola che facciano parte di cliniche ortopediche che non abbiano la scuola di specializzazione o che siano assistenti di ruolo in divisioni di ortopedia e traumatologia di ospedali di prima categoria; per queste due categorie di iscritti il periodo di frequenza presso l'istituto sede della scuola puo' essere ridotto fino a non meno di un mese ogni anno.  
+Per nessun motivo sono ammesse abbreviazioni della durata degli studi.  
+Gli insegnamenti si svolgeranno con indirizzo prevalentemente pratico, dimostrativo, ma per ogni singola materia di insegnamento dovra' anche svolgersi un corso regolare di lezioni, il cui numero verra' fissato annualmente dal direttore della scuola in accordo con i docenti delle singole materie.  
+Art. 213. - Le materie di insegnamento sono le seguenti:  
+1) Clinica ortopedica e traumatologica (triennale);  
+2) Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale);  
+3) Tecnica operatoria ortopedica e traumatologica cruenta ed incruenta (triennale);  
+4) Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale);  
+5) Anatomia ed istologia patologica dell'apparato locomotore;  
+6) Nozioni di chirurgia generale;  
+7) Neuropatologia dell'apparato locomotore ed elettrodiagnostica;  
+8) Nozioni di pediatria;  
+9) Apparato-terapia ortopedica;  
+10) Fisiochinesiterapia;  
+11) Infortunistica;  
+12) Anestesia e rianimazione.  
+Art. 214. - Le materie di insegnamento sono cosi' ripartite:  
 1° Anno:  
-epidemiologia generale delle malattie infettive;  
-batteriologia e micologia;  
-virologia;  
-parassitologia;  
-immunologia generale.  
+1) Clinica ortopedica e traumatologica (triennale);  
+2) Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale);  
+3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale);  
+4) Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale);  
+5) Anatomia e istologia dell'apparato locomotore;  
+6) Fisiologia dell'apparato locomotore;  
+7) Nozioni di chirurgia generale;  
+8) Nozioni di pediatria.  
 2° Anno:  
-tecniche batteriologiche e micologiche applicate alle malattie infettive;  
-tecniche virologiche applicate alle malattie infettive;  
-tecniche parassitologiche applicate alle malattie infettive;  
-tecniche immunologiche applicate alle malattie infettive;  
-anatomia patologica;  
-genetica.  
+1) Clinica ortopedica e traumatologica (triennale);  
+2) Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale);  
+3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale);  
+4) Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale);  
+5) Neuropatologia dell'apparato locomotore ed elettrodiagnostica;  
+6) Anatomia ed istologia patologica dell'apparato locomotore;  
+7) Anestesia e rianimazione.  
 3° Anno:  
-clinica delle malattie infettive (1° anno);  
-diagnostica e semeiotica delle malattie infettive;  
-radiologia;  
-medicina preventiva delle malattie infettive.  
-4° Anno:  
-clinica delle malattie infettive (2° anno);  
-malattie tropicali;  
-legislazione sanitaria delle malattie infettive;  
-farmacologia e terapia delle malattie infettive.  
-Art. 272. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.  
-Art. 273. - Al termine di ciascun anno di corso gli allievi sono tenuti a sostenere gli esami del rispettivo anno; al termine del corso di studi per il conseguimento del diploma di specializzazione in malattie infettive gli interessati dovranno superare gli esami di diploma consistenti nella dissertazione scritta di un argomento attinente alla specialita'.  
-Art. 274. - Agli allievi i quali abbiano ottenuto l'approvazione nell'esame di diploma verra' rilasciato il diploma di specializzazione in malattie infettive.  
+1) Clinica ortopedica e traumatologica (triennale);  
+2) Patologia, delle lesioni, deformita' e malattie degli organi di movimento (triennale);  
+3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale);  
+4) Apparato-terapia ortopedica;  
+5) Fisiokinesiterapia;  
+6) Infortunistica.  
+Art. 215. - Gli esami si svolgeranno per singole materie. Gli esami di clinica ortopedica e traumatologica, di tecnica operatoria cruenta ed incruenta ortopedica e traumatologica, di radiodiagnostica, saranno tecnici e pratici. Per l'ammissione al corso successivo e' obbligatorio il superamento degli esami delle materie di ciascun corso.  
+Per l'ammissione all'esame di diploma il candidato dovra' presentare una tesi a stampa o dattiloscritta su, argomento, della specialita'.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1977
+### Dato a Roma, addi' 16 maggio 1972
 
-LEONE MALFATTI
+LEONE MISASI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 27 gennaio 1978
+Registrato alla Corte dei conti, addi' 24 luglio 1972
 
-Registro n. 9 istruzione, foglio n. 327
+Atti del Governo, registro n. 250, foglio n. 31. - CARUSO

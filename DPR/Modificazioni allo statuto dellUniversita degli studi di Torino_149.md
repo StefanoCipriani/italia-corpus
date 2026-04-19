@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1409
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 aprile 1963 n. 693
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1409
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 aprile 1963 n. 693
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
@@ -18,11 +18,9 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
 
-Veduta, la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -32,90 +30,270 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 9. - Agli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di "Teoria generale del diritto".
+Art. 18. - Agli insegnamenti complementari del corso di laurea in Economia e commercio e' aggiunto quello di "Statistica industriale".
 
-Art. 22. - L'insegnamento complementare del corso di laurea in lettere "Sanscrito" e' soppresso e sostituito con quello di "Indologia".
+Art. 22. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti i seguenti:
 
-Art. 23. - Agli insegnamenti complementari dei corso di laurea in filosofia sono aggiunti quelli di "Storia del cristianesimo" e "Storia della scienza".
+Storia della lingua latina;
 
-Art. 27. - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere e' aggiunto quello di "Storia della grammatica e della lingua italiana".
+Archeologia delle province romane;
 
-Art. 92. - Alle discipline nelle quali si conferiscono diplomi di specialista, e aggiunta, quella di "Malattie dell'apparato digerente, della nutrizione e del ricambio".
+Paletnologia;
 
-Dopo l'art. 191, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in malattie dell'apparato digerente, della nutrizione e del ricambio.
+Numismatica;
 
-Scuola di specializzazione in malattie dell'apparato digerente, della nutrizione e del ricambio
+Epigrafia greca;
 
-Art. 192. - E' istituita presso la Facolta' di medicina e chirurgia una scuola di specializzazione in malattie dell'apparato digerente, della nutrizione e del ricambio.
+Archeologia orientale;
 
-Il corso degli studi ha la durata di due anni.
+Filologia iranica;
 
-Alla Scuola sono ammessi i laureati in medicina e chirurgia.
+Storia dell'arte islamica.
 
-Il numero massimo degli iscritti sara' di cinquanta nei due corsi.
+Art. 44. - Tra le materie complementari del corso di laurea in Scienze naturali la denominazione dello insegnamento di "Ecologia applicata" viene mutata in quella di "Geologia applicata".
 
-Art. 193. - La direzione della scuola e' affidata al direttore della Clinica medica generale dell'Universita' di Torino.
+Art. 56. - Agli insegnamenti complementari del corso di laurea in Scienze agrarie sono aggiunti i seguenti:
 
-All'insegnamento sono chiamati a collaborare docenti della locale Facolta' di medicina e chirurgia.
+Igiene zootecnica Tecnica commerciale dei prodotti agricoli;
 
-Art. 194. - Il programma di insegnamento si svolge in due anni di corso e comprende le seguenti materie:
+Miglioramento genetico delle piante coltivate.
 
-1° Anno:
+Gli articoli 130 e 131 relativi alla scuola di specializzazione in Medicina legale e gli articoli 132 e 133 relativi alla scuola di specializzazione in infortunistica e nelle Assicurazioni sociali sono abrogati e al loro posto sono inseriti gli articoli relativi alla scuola di specializzazione in Medicina legale e delle assicurazioni.
 
-1) Anatomia normale;
+Scuola di specializzazione in Medicina legale
 
-2) Anatomia, patologica;
+e delle assicurazioni
 
-3) Biochimica;
+Art. 130. - E' istituita la scuola di specializzazione in Medicina legale e delle assicurazioni
 
-4) Fisiologia;
+Art. 131. - Gli insegnamenti impartiti nella scuola sono i seguenti:
 
-5) Farmacologia;
+1° anno.
 
-6) Alimentazione e dietetica;
+1) Il danno della persona nell'ambito del diritto penale e civile. Deontologia medica;
 
-7) Semeiologia clinico-funzionale;
+2) Tanatologia. Tecnica e diagnostica delle autopsie medico-legali;
 
-8) Clinica medica (biennale);
+3) Identificazione e tecniche di laboratorio medico-legale;
 
-9) Patologia medica (biennale);
+4) Lesivita' medico-legale (traumatologia, asfissiologia ecc.);
 
-2° Anno:
+5) Nozioni generali di diritto e di procedura penale;
 
-1) Clinica medica;
+6) Nozioni generali di diritto civile e previdenziale;
 
-2) Patologia medica;
+7) Assicurazioni sociali e private - 1°;
 
-3) Clinica pediatrica;
+8) Nozioni generali di biologia (per laureati in Giurisprudenza);
 
-4) Tecniche endoscopiche e bioptiche;
+2° anno:
 
-5) Radiodiagnostica e radioterapia;
+1) Il danno alla persona nell'ambito del diritto penale e civile e sua valutazione. Semeiotica medico-legale;
 
-6) Coprologia e parassitologia;
+2) Psicopatologia e psichiatria forensi;
 
-7) Terapia medica;
+3) Antropologia criminale;
 
-8) Terapia chirurgica.
+4) Ostetricia e afrodisiologia forensi. Nozioni di tossicologia forense;
 
-I corsi sono integrati da conferenze su argomenti di particolare interesse specialistico e da esercitazioni pratiche, con internati obbligatori negli istituti di clinica, medica generale e di patologia speciale medica.
+5) Assicurazioni sociali e private - 2°;
 
-Art. 195. - Alla fine di ciascun anno di corso lo specializzando, che abbia ottenuto le firme di frequenza, deve sostenere un esame complessivo sulle materie di insegnamento, e, al termine dei due anni, deve superare un esame di diploma, con presentazione e discussione di una tesi scritta, per conseguire il titolo di specialista in malattie dell'apparato digerente, della nutrizione e del ricambio.
+6) Medicina legale militare e pensionalistica;
+
+7) Igiene del lavoro;
+
+I corsi saranno integrati da conferenze su argomenti di Medicina legale ed assicurativa; da esercitazioni sotto forma di internato, da visite a stabilimenti industriali, istituti di prevenzione e pena.
+
+Art. 132. - Alla scuola potranno iscriversi tanto i laureati in Medicina e chirurgia in numero massimo di 10 per ogni anno di corso, che quelli in Giurisprudenza in numero massimo di 2 per ogni anno di corso (con obbligo dell'esame sub. 8° all'anno).
+
+Obbligo di frequenza alle lezioni ed esercitazioni.
+
+Alla fine del 1° e 2° anno gli iscritti dovranno sostenere esami di profitto sulle rispettive materie di insegnamento, e chi non avesse superato tutti quelli del 1° non potra' essere ammesso al 2°.
+
+In casi particolari, da valutarsi dal Consiglio di facolta', su proposta del direttore della scuola, potra' essere consentita l'ammissione diretta al 2° corso con o senza esonero dagli esami del 1° corso, a candidati in possesso di particolari titoli da valutarsi caso per caso.
+
+Art. 133. - L'esame di diploma si svolgera' secondo le consuetudini dello statuto universitario, e constera' di una dissertazione originale e scritta su un argomento di medicina legale o di medicina delle assicurazioni.
+
+Il superamento dell'esame di diploma, da' diritto al titolo di "Specialista in medicina legale e delle assicurazioni".
+
+Art. 137, relativo alla scuola di specializzazione in Odontoiatria e protesi dentaria, e' modificato nel senso che la parte riguardante gli insegnamenti e' abrogata e sostituita dalla seguente:
+
+Gli insegnamenti impartiti nella scuola sono i seguenti:
+
+1° anno:
+
+1) Embriologia, anatomia e fisiologia della bocca e dei denti;
+
+2) Farmacologia speciale odontoiatrica;
+
+3) Patologia speciale e semeiotica dalla bocca e dei denti;
+
+4) Radiologia;
+
+5) Odontotecnica;
+
+6) Microbiologia della bocca e dei denti;
+
+2° anno:
+
+1) Anatomia patologica dentaria ed orale;
+
+2) Clinica odontoiatrica e stomatologica;
+
+3) Odontoiatria conservativa;
+
+4) Chirurgia dentaria e stomatologica;
+
+5) Protesi dentaria;
+
+6) Ortodonzia.
+
+Dopo l'art. 228 sono aggiunti i seguenti nuovi articoli riguardanti l'istituzione della Scuola di specializzazione in scienze nucleari applicate
+
+Art. 229. - Alla Facolta' di Scienze matematiche, fisiche e naturali e' annessa una scuola di specializzazione in "Scienze nucleari applicate" avente lo scopo di dare mediante corsi teorici e di carattere sperimentale, una preparazione specifica nelle scienze nucleari per quanto concerne le applicazioni fisiche, chimiche e biochimico-fisiche.
+
+Art. 230. - La durata della scuola e' biennale e consistera' di insegnamenti teorici propedeutici e di insegnamenti teorici e di esercitazioni pratiche di laboratorio a carattere applicativo.
+
+Art. 231. - Gli insegnamenti impartiti durante il primo anno sono distinti in insegnamenti propedeutici comuni ai vari indirizzi ed in insegnamenti speciali per ciascuno degli indirizzi: fisico, chimico e bio-chimico-fisico.
+
+Insegnamenti propedeutici comuni ai tre indirizzi:
+
+Complementi di matematica;
+
+Complementi di fisica ed introduzione alla fisica nucleare sperimentale;
+
+Fisica atomica;
+
+Radiochimica con esercitazioni di laboratorio;
+
+Strumentazione e tecniche di misura delle radiazioni con esercitazioni;
+
+Disimmetria ed elementi di protezione delle radiazioni.
+
+Insegnamenti dell'indirizzo fisico:
+
+Fisica nucleare;
+
+Fisica del reattore;
+
+Strumentazione elettronica e servomeccanismi;
+
+Regolazione e controllo dei reattori nucleari;
+
+Effetti delle radiazioni sui materiali;
+
+Separazione isotopi stabili e spettrometria di massa;
+
+Giacimenti di minerali radioattivi;
+
+Esercitazioni di laboratorio di fisica nucleare.
+
+Insegnamenti dell'indirizzo chimico:
+
+Chimica del reattore;
+
+Metallurgia dei materiali per reattori;
+
+Chimica delle radiazioni;
+
+Procedimenti chimici industriali per i reattori;
+
+Fisica nucleare;
+
+Fisica del reattore;
+
+Giacimenti di minerali radioattivi;
+
+Esercitazioni di laboratorio di chimica nucleare.
+
+Insegnamenti dell'indirizzo biochimico-fisico:
+
+Metodologie radioisotopiche;
+
+Elementi di biochimica fisica;
+
+Tecniche di preparazioni di radionuclidi e loro composti;
+
+Applicazioni biologiche dei radioelementi;
+
+Applicazioni mediche dei radioelementi;
+
+Effetti biologici e genetici delle radiazioni;
+
+Fisica sanitaria e radioprotezione;
+
+Esercitazioni di laboratorio di tecniche radioisotopiche.
+
+Verranno inoltre tenuti brevi cicli di lezioni su argomenti monografici e di attualita', conferenze e seminari.
+
+L'insegnamento del primo anno di corso sara' integrato da visite e brevi permanenze presso laboratori di centri nucleari e di altri enti specializzati in applicazioni di radioelementi. Il secondo anno di corso consiste nella permanenza per almeno sei mesi in un laboratorio universitario o in laboratori di centri nucleari o di altri enti specializzati nelle applicazioni dei radioelementi; durante tale periodo gli allievi saranno avviati, sotto il controllo della scuola, ad una ricerca sperimentale i cui risultati costituiranno l'argomento di una tesi scritta che verra' discussa in sede di esame per il conseguimento del diploma di specializzazione. Durante tale periodo verranno inoltre svolti brevi cicli di lezioni su argomenti monografici.
+
+Art. 232. - Le lezioni e le esercitazioni pratiche per il primo anno di corso saranno tenute di massima nei locali degli Istituti chimico e fisico dell'Universita'.
+
+Talune particolari esercitazioni pratiche ed il lavoro sperimentale per la dissertazione da presentare all'esame di diploma verranno effettuati sotto il controllo del docente relatore, presso i laboratori di Istituti universitari o presso altri centri che verranno indicati all'inizio di ogni anno dal Consiglio della scuola.
+
+Art. 233. - Sono ammessi alla scuola di specializzazione i laureati in: Chimica, Fisica e Matematica Fisica, Matematica, Ingegneria, Scienze naturali, Biologiche e Geologiche, Agraria, Farmacia, Medicina chirurgia e Medicina veterinaria e in Chimica industriale, che soddisfino ai requisiti fissati anno per anno dal Consiglio della scuola. I laureati in Scienza naturali e biologiche, in Agraria, Farmacia, Medicina e chirurgia, Medicina veterinaria potranno essere ammessi a seguire il solo indirizzo biochimico-fisico.
+
+Art. 234. - Un certificato di frequenza e profitto e' rilasciato al termine del primo anno agli iscritti che avranno:
+
+a) frequentato regolarmente i corsi teorici e le esercitazioni teoriche e pratiche;
+
+b) superato gli esami relativi ad almeno tre dei corsi propedeutici che verranno stabiliti annualmente dal direttore della scuola e gli esami relativi ad almeno tre dei corsi speciali contemplati in uno dei tre indirizzi, oltre all'esame di esercitazioni di laboratorio.
+
+Un diploma di specializzato in Scienze nucleari e' rilasciato al termine del secondo anno; agli allievi che oltre agli esami prescritti per il primo, anno avranno superato un esame di diploma consistente in una dissertazione scritta di carattere sperimentale, da sostenersi davanti ad una apposita Commissione costituita da sette insegnanti della scuola.
+
+Nel certificato di frequenza e profitto e nel diploma di specializzazione verra' riportata l'indicazione dell'indirizzo di studi seguito.
+
+Art. 235. - Le Commissioni degli esami di profitto per il primo anno di corso sono costituite da insegnanti del corso secondo le vigenti norme per gli esami universitari.
+
+La Commissione per l'esame di diploma e' formata da sei membri scelti dal direttore fra gli insegnanti della scuola e dal direttore stesso.
+
+Art. 236. - La Direzione della scuola e' affidata ad un direttore e ad un vice-direttore che sono assistiti da un Consiglio della scuola.
+
+Art. 237. - Insegnanti della scuola sono scelti fra i docenti dei corsi di laurea della Facolta' di scienze.
+
+Per taluni particolari insegnamenti il direttore della scuola puo' avvalersi di docenti di altre Facolta' o di esperti in campo nucleare.
+
+Di uno stesso insegnamento genericamente indicato nell'elenco di cui all'art. 231 possono venire incaricati piu' docenti aventi specifica competenza nelle diverse parti del programma.
+
+Art. 238. - Il Consiglio della scuola si compone di tutti gli insegnanti della medesima; esso fa le proposte relative all'ordinamento degli studi ed insegnamento, e da' pareri su tutti i provvedimenti riguardanti la scuola stessa. Il Consiglio nomina un direttore ed un vice-direttore della scuola scegliendoli tra i docenti della Facolta' di Scienze facenti parte del Consiglio stesso.
+
+La Direzione della scuola, udito il Consiglio, determina annualmente quale dei corsi verranno effettuati e dovranno essere seguiti dagli allievi in possesso delle varie lauree contemplate per l'ammissione alla scuola.
+
+La Direzione della scuola, udito il Consiglio, si riserva all'inizio di ogni anno di effettuare variazioni del programma del corso allo scopo di aggiornamento e rendera' di pubblica conoscenza le eventuali variazioni apportate.
+
+Art. 239. - La Direzione della scuola determina l'impiego delle tasse di iscrizione e dei contributi di laboratorio e di tutti gli eventuali contributi che verranno versati da enti interessati alla preparazione di personale specializzato in campo nucleare, per il funzionamento della scuola.
+
+La Direzione provvedera' inoltre all'attrezzatura ed allo sviluppo dei laboratori con i fondi che verranno messi a disposizione della Direzione stessa dagli enti interessati alla preparazione di tecnici specializzati in campo nucleare. La Direzione si avvale nell'esplicazione delle sue funzioni dell'opera tecnica di docenti della scuola in qualita' di segretari per i vari indirizzi; stabilisce inoltre annualmente l'organico del personale tecnico ed amministrativo necessario al funzionamento della scuola.
+
+Art. 240. - Gli iscritti alla scuola sono tenuti al pagamento di una tassa di iscrizione, di una soprattassa di esami e contributi generali pari a quella prevista per gli studenti della Facolta' di una tassa di diploma di L. 6000 a norma dell'[art. 7 della legge 18 dicembre 1931, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-12-18;1551~art7).
+
+La misura dei contributi per le esercitazioni di laboratorio e per le altre prestazioni di cui gli iscritti usufruiscono durante il corso di studi, sara' fissato anno per anno dal Consiglio di amministrazione della Universita' su proposta della Direzione della scuola stessa.
+
+Disposizioni particolari e transitorie
+
+Art. 241. - I laureandi che avranno gia' superato tutti gli esami di profitto previsti per il corso di laurea al quale risultano iscritti, e che sosterranno la sola dissertazione di laurea nella sessione di esami immediatamente successiva alla data di inizio dei corsi (sessione straordinaria di febbraio) potranno essere ammessi a frequentare le lezioni ed esercitazioni in qualita' di uditori.
+
+All'atto del conseguimento della laurea potranno essere iscritti alla scuola e verra' tenuto conto al fine della clausola a) dell'art. 234, relativa alla frequenza, del numero delle presenze alle lezioni ed esercitazioni teoriche e pratiche.
+
+Art. 242. - In via transitoria e per i primi tre anni di funzionamento della scuola potranno essere annessi, in seguito a parere favorevole della Direzione, a frequentare il secondo anno della scuola di specializzazione coloro che negli anni precedenti hanno frequentato, superando tutti gli esami prescritti, i corsi di perfezionamento patrocinati dal CNRN o dal CNEN.
+
+Coloro che hanno frequentato i corsi di tecniche radioisotopiche patrocinati dal CNRN e dal CNEN potranno, sempre nel periodo di funzionamento della scuola succitato, ottenere il certificato di frequenza e profitto per il primo anno effettuando appositi corsi integrativi e sostenendo gli esami prescritti.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 19 ottobre 1960
+Dato a Roma, addi' 7 aprile 1963
 
-GRONCHI
+SEGNI
 
-BOSCO
+GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BOSCO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 28 novembre 1960 Atti del Governo, registro n. 131, foglio n. 102. - VILLA
+alla Corte dei conti, addi' 22 maggio 1963 Atti del Governo, registro n. 169, foglio n. 91. - VILLA
 
 Art. 1
 ------
@@ -126,61 +304,152 @@ Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio d
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Veduta, la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 9. - Agli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di "Teoria generale del diritto".  
-Art. 22. - L'insegnamento complementare del corso di laurea in lettere "Sanscrito" e' soppresso e sostituito con quello di "Indologia".  
-Art. 23. - Agli insegnamenti complementari dei corso di laurea in filosofia sono aggiunti quelli di "Storia del cristianesimo" e "Storia della scienza".  
-Art. 27. - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere e' aggiunto quello di "Storia della grammatica e della lingua italiana".  
-Art. 92. - Alle discipline nelle quali si conferiscono diplomi di specialista, e aggiunta, quella di "Malattie dell'apparato digerente, della nutrizione e del ricambio".  
-Dopo l'art. 191, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in malattie dell'apparato digerente, della nutrizione e del ricambio.  
-Scuola di specializzazione in malattie dell'apparato digerente, della nutrizione e del ricambio  
-Art. 192. - E' istituita presso la Facolta' di medicina e chirurgia una scuola di specializzazione in malattie dell'apparato digerente, della nutrizione e del ricambio.  
-Il corso degli studi ha la durata di due anni.  
-Alla Scuola sono ammessi i laureati in medicina e chirurgia.  
-Il numero massimo degli iscritti sara' di cinquanta nei due corsi.  
-Art. 193. - La direzione della scuola e' affidata al direttore della Clinica medica generale dell'Universita' di Torino.  
-All'insegnamento sono chiamati a collaborare docenti della locale Facolta' di medicina e chirurgia.  
-Art. 194. - Il programma di insegnamento si svolge in due anni di corso e comprende le seguenti materie:  
-1° Anno:  
-1) Anatomia normale;  
-2) Anatomia, patologica;  
-3) Biochimica;  
-4) Fisiologia;  
-5) Farmacologia;  
-6) Alimentazione e dietetica;  
-7) Semeiologia clinico-funzionale;  
-8) Clinica medica (biennale);  
-9) Patologia medica (biennale);  
-2° Anno:  
-1) Clinica medica;  
-2) Patologia medica;  
-3) Clinica pediatrica;  
-4) Tecniche endoscopiche e bioptiche;  
-5) Radiodiagnostica e radioterapia;  
-6) Coprologia e parassitologia;  
-7) Terapia medica;  
-8) Terapia chirurgica.  
-I corsi sono integrati da conferenze su argomenti di particolare interesse specialistico e da esercitazioni pratiche, con internati obbligatori negli istituti di clinica, medica generale e di patologia speciale medica.  
-Art. 195. - Alla fine di ciascun anno di corso lo specializzando, che abbia ottenuto le firme di frequenza, deve sostenere un esame complessivo sulle materie di insegnamento, e, al termine dei due anni, deve superare un esame di diploma, con presentazione e discussione di una tesi scritta, per conseguire il titolo di specialista in malattie dell'apparato digerente, della nutrizione e del ricambio.  
+Art. 18. - Agli insegnamenti complementari del corso di laurea in Economia e commercio e' aggiunto quello di "Statistica industriale".  
+Art. 22. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti i seguenti:  
+Storia della lingua latina;  
+Archeologia delle province romane;  
+Paletnologia;  
+Numismatica;  
+Epigrafia greca;  
+Archeologia orientale;  
+Filologia iranica;  
+Storia dell'arte islamica.  
+Art. 44. - Tra le materie complementari del corso di laurea in Scienze naturali la denominazione dello insegnamento di "Ecologia applicata" viene mutata in quella di "Geologia applicata".  
+Art. 56. - Agli insegnamenti complementari del corso di laurea in Scienze agrarie sono aggiunti i seguenti:  
+Igiene zootecnica Tecnica commerciale dei prodotti agricoli;  
+Miglioramento genetico delle piante coltivate.  
+Gli articoli 130 e 131 relativi alla scuola di specializzazione in Medicina legale e gli articoli 132 e 133 relativi alla scuola di specializzazione in infortunistica e nelle Assicurazioni sociali sono abrogati e al loro posto sono inseriti gli articoli relativi alla scuola di specializzazione in Medicina legale e delle assicurazioni.  
+  
+Scuola di specializzazione in Medicina legale  
+e delle assicurazioni  
+Art. 130. - E' istituita la scuola di specializzazione in Medicina legale e delle assicurazioni  
+Art. 131. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
+1° anno.  
+1) Il danno della persona nell'ambito del diritto penale e civile. Deontologia medica;  
+2) Tanatologia. Tecnica e diagnostica delle autopsie medico-legali;  
+3) Identificazione e tecniche di laboratorio medico-legale;  
+4) Lesivita' medico-legale (traumatologia, asfissiologia ecc.);  
+5) Nozioni generali di diritto e di procedura penale;  
+6) Nozioni generali di diritto civile e previdenziale;  
+7) Assicurazioni sociali e private - 1°;  
+8) Nozioni generali di biologia (per laureati in Giurisprudenza);  
+2° anno:  
+1) Il danno alla persona nell'ambito del diritto penale e civile e sua valutazione. Semeiotica medico-legale;  
+2) Psicopatologia e psichiatria forensi;  
+3) Antropologia criminale;  
+4) Ostetricia e afrodisiologia forensi. Nozioni di tossicologia forense;  
+5) Assicurazioni sociali e private - 2°;  
+6) Medicina legale militare e pensionalistica;  
+7) Igiene del lavoro;  
+I corsi saranno integrati da conferenze su argomenti di Medicina legale ed assicurativa; da esercitazioni sotto forma di internato, da visite a stabilimenti industriali, istituti di prevenzione e pena.  
+Art. 132. - Alla scuola potranno iscriversi tanto i laureati in Medicina e chirurgia in numero massimo di 10 per ogni anno di corso, che quelli in Giurisprudenza in numero massimo di 2 per ogni anno di corso (con obbligo dell'esame sub. 8° all'anno).  
+Obbligo di frequenza alle lezioni ed esercitazioni.  
+Alla fine del 1° e 2° anno gli iscritti dovranno sostenere esami di profitto sulle rispettive materie di insegnamento, e chi non avesse superato tutti quelli del 1° non potra' essere ammesso al 2°.  
+In casi particolari, da valutarsi dal Consiglio di facolta', su proposta del direttore della scuola, potra' essere consentita l'ammissione diretta al 2° corso con o senza esonero dagli esami del 1° corso, a candidati in possesso di particolari titoli da valutarsi caso per caso.  
+Art. 133. - L'esame di diploma si svolgera' secondo le consuetudini dello statuto universitario, e constera' di una dissertazione originale e scritta su un argomento di medicina legale o di medicina delle assicurazioni.  
+Il superamento dell'esame di diploma, da' diritto al titolo di "Specialista in medicina legale e delle assicurazioni".  
+Art. 137, relativo alla scuola di specializzazione in Odontoiatria e protesi dentaria, e' modificato nel senso che la parte riguardante gli insegnamenti e' abrogata e sostituita dalla seguente:  
+Gli insegnamenti impartiti nella scuola sono i seguenti:  
+1° anno:  
+1) Embriologia, anatomia e fisiologia della bocca e dei denti;  
+2) Farmacologia speciale odontoiatrica;  
+3) Patologia speciale e semeiotica dalla bocca e dei denti;  
+4) Radiologia;  
+5) Odontotecnica;  
+6) Microbiologia della bocca e dei denti;  
+2° anno:  
+1) Anatomia patologica dentaria ed orale;  
+2) Clinica odontoiatrica e stomatologica;  
+3) Odontoiatria conservativa;  
+4) Chirurgia dentaria e stomatologica;  
+5) Protesi dentaria;  
+6) Ortodonzia.  
+Dopo l'art. 228 sono aggiunti i seguenti nuovi articoli riguardanti l'istituzione della Scuola di specializzazione in scienze nucleari applicate  
+Art. 229. - Alla Facolta' di Scienze matematiche, fisiche e naturali e' annessa una scuola di specializzazione in "Scienze nucleari applicate" avente lo scopo di dare mediante corsi teorici e di carattere sperimentale, una preparazione specifica nelle scienze nucleari per quanto concerne le applicazioni fisiche, chimiche e biochimico-fisiche.  
+Art. 230. - La durata della scuola e' biennale e consistera' di insegnamenti teorici propedeutici e di insegnamenti teorici e di esercitazioni pratiche di laboratorio a carattere applicativo.  
+Art. 231. - Gli insegnamenti impartiti durante il primo anno sono distinti in insegnamenti propedeutici comuni ai vari indirizzi ed in insegnamenti speciali per ciascuno degli indirizzi: fisico, chimico e bio-chimico-fisico.  
+Insegnamenti propedeutici comuni ai tre indirizzi:  
+Complementi di matematica;  
+Complementi di fisica ed introduzione alla fisica nucleare sperimentale;  
+Fisica atomica;  
+Radiochimica con esercitazioni di laboratorio;  
+Strumentazione e tecniche di misura delle radiazioni con esercitazioni;  
+Disimmetria ed elementi di protezione delle radiazioni.  
+Insegnamenti dell'indirizzo fisico:  
+Fisica nucleare;  
+Fisica del reattore;  
+Strumentazione elettronica e servomeccanismi;  
+Regolazione e controllo dei reattori nucleari;  
+Effetti delle radiazioni sui materiali;  
+Separazione isotopi stabili e spettrometria di massa;  
+Giacimenti di minerali radioattivi;  
+Esercitazioni di laboratorio di fisica nucleare.  
+Insegnamenti dell'indirizzo chimico:  
+Chimica del reattore;  
+Metallurgia dei materiali per reattori;  
+Chimica delle radiazioni;  
+Procedimenti chimici industriali per i reattori;  
+Fisica nucleare;  
+Fisica del reattore;  
+Giacimenti di minerali radioattivi;  
+Esercitazioni di laboratorio di chimica nucleare.  
+Insegnamenti dell'indirizzo biochimico-fisico:  
+Metodologie radioisotopiche;  
+Elementi di biochimica fisica;  
+Tecniche di preparazioni di radionuclidi e loro composti;  
+Applicazioni biologiche dei radioelementi;  
+Applicazioni mediche dei radioelementi;  
+Effetti biologici e genetici delle radiazioni;  
+Fisica sanitaria e radioprotezione;  
+Esercitazioni di laboratorio di tecniche radioisotopiche.  
+Verranno inoltre tenuti brevi cicli di lezioni su argomenti monografici e di attualita', conferenze e seminari.  
+L'insegnamento del primo anno di corso sara' integrato da visite e brevi permanenze presso laboratori di centri nucleari e di altri enti specializzati in applicazioni di radioelementi. Il secondo anno di corso consiste nella permanenza per almeno sei mesi in un laboratorio universitario o in laboratori di centri nucleari o di altri enti specializzati nelle applicazioni dei radioelementi; durante tale periodo gli allievi saranno avviati, sotto il controllo della scuola, ad una ricerca sperimentale i cui risultati costituiranno l'argomento di una tesi scritta che verra' discussa in sede di esame per il conseguimento del diploma di specializzazione. Durante tale periodo verranno inoltre svolti brevi cicli di lezioni su argomenti monografici.  
+Art. 232. - Le lezioni e le esercitazioni pratiche per il primo anno di corso saranno tenute di massima nei locali degli Istituti chimico e fisico dell'Universita'.  
+Talune particolari esercitazioni pratiche ed il lavoro sperimentale per la dissertazione da presentare all'esame di diploma verranno effettuati sotto il controllo del docente relatore, presso i laboratori di Istituti universitari o presso altri centri che verranno indicati all'inizio di ogni anno dal Consiglio della scuola.  
+Art. 233. - Sono ammessi alla scuola di specializzazione i laureati in: Chimica, Fisica e Matematica Fisica, Matematica, Ingegneria, Scienze naturali, Biologiche e Geologiche, Agraria, Farmacia, Medicina chirurgia e Medicina veterinaria e in Chimica industriale, che soddisfino ai requisiti fissati anno per anno dal Consiglio della scuola. I laureati in Scienza naturali e biologiche, in Agraria, Farmacia, Medicina e chirurgia, Medicina veterinaria potranno essere ammessi a seguire il solo indirizzo biochimico-fisico.  
+Art. 234. - Un certificato di frequenza e profitto e' rilasciato al termine del primo anno agli iscritti che avranno:  
+a) frequentato regolarmente i corsi teorici e le esercitazioni teoriche e pratiche;  
+b) superato gli esami relativi ad almeno tre dei corsi propedeutici che verranno stabiliti annualmente dal direttore della scuola e gli esami relativi ad almeno tre dei corsi speciali contemplati in uno dei tre indirizzi, oltre all'esame di esercitazioni di laboratorio.  
+Un diploma di specializzato in Scienze nucleari e' rilasciato al termine del secondo anno; agli allievi che oltre agli esami prescritti per il primo, anno avranno superato un esame di diploma consistente in una dissertazione scritta di carattere sperimentale, da sostenersi davanti ad una apposita Commissione costituita da sette insegnanti della scuola.  
+Nel certificato di frequenza e profitto e nel diploma di specializzazione verra' riportata l'indicazione dell'indirizzo di studi seguito.  
+Art. 235. - Le Commissioni degli esami di profitto per il primo anno di corso sono costituite da insegnanti del corso secondo le vigenti norme per gli esami universitari.  
+La Commissione per l'esame di diploma e' formata da sei membri scelti dal direttore fra gli insegnanti della scuola e dal direttore stesso.  
+Art. 236. - La Direzione della scuola e' affidata ad un direttore e ad un vice-direttore che sono assistiti da un Consiglio della scuola.  
+Art. 237. - Insegnanti della scuola sono scelti fra i docenti dei corsi di laurea della Facolta' di scienze.  
+Per taluni particolari insegnamenti il direttore della scuola puo' avvalersi di docenti di altre Facolta' o di esperti in campo nucleare.  
+Di uno stesso insegnamento genericamente indicato nell'elenco di cui all'art. 231 possono venire incaricati piu' docenti aventi specifica competenza nelle diverse parti del programma.  
+Art. 238. - Il Consiglio della scuola si compone di tutti gli insegnanti della medesima; esso fa le proposte relative all'ordinamento degli studi ed insegnamento, e da' pareri su tutti i provvedimenti riguardanti la scuola stessa. Il Consiglio nomina un direttore ed un vice-direttore della scuola scegliendoli tra i docenti della Facolta' di Scienze facenti parte del Consiglio stesso.  
+La Direzione della scuola, udito il Consiglio, determina annualmente quale dei corsi verranno effettuati e dovranno essere seguiti dagli allievi in possesso delle varie lauree contemplate per l'ammissione alla scuola.  
+La Direzione della scuola, udito il Consiglio, si riserva all'inizio di ogni anno di effettuare variazioni del programma del corso allo scopo di aggiornamento e rendera' di pubblica conoscenza le eventuali variazioni apportate.  
+Art. 239. - La Direzione della scuola determina l'impiego delle tasse di iscrizione e dei contributi di laboratorio e di tutti gli eventuali contributi che verranno versati da enti interessati alla preparazione di personale specializzato in campo nucleare, per il funzionamento della scuola.  
+La Direzione provvedera' inoltre all'attrezzatura ed allo sviluppo dei laboratori con i fondi che verranno messi a disposizione della Direzione stessa dagli enti interessati alla preparazione di tecnici specializzati in campo nucleare. La Direzione si avvale nell'esplicazione delle sue funzioni dell'opera tecnica di docenti della scuola in qualita' di segretari per i vari indirizzi; stabilisce inoltre annualmente l'organico del personale tecnico ed amministrativo necessario al funzionamento della scuola.  
+Art. 240. - Gli iscritti alla scuola sono tenuti al pagamento di una tassa di iscrizione, di una soprattassa di esami e contributi generali pari a quella prevista per gli studenti della Facolta' di una tassa di diploma di L. 6000 a norma dell'[art. 7 della legge 18 dicembre 1931, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-12-18;1551~art7).  
+La misura dei contributi per le esercitazioni di laboratorio e per le altre prestazioni di cui gli iscritti usufruiscono durante il corso di studi, sara' fissato anno per anno dal Consiglio di amministrazione della Universita' su proposta della Direzione della scuola stessa.  
+  
+Disposizioni particolari e transitorie  
+Art. 241. - I laureandi che avranno gia' superato tutti gli esami di profitto previsti per il corso di laurea al quale risultano iscritti, e che sosterranno la sola dissertazione di laurea nella sessione di esami immediatamente successiva alla data di inizio dei corsi (sessione straordinaria di febbraio) potranno essere ammessi a frequentare le lezioni ed esercitazioni in qualita' di uditori.  
+All'atto del conseguimento della laurea potranno essere iscritti alla scuola e verra' tenuto conto al fine della clausola a) dell'art. 234, relativa alla frequenza, del numero delle presenze alle lezioni ed esercitazioni teoriche e pratiche.  
+Art. 242. - In via transitoria e per i primi tre anni di funzionamento della scuola potranno essere annessi, in seguito a parere favorevole della Direzione, a frequentare il secondo anno della scuola di specializzazione coloro che negli anni precedenti hanno frequentato, superando tutti gli esami prescritti, i corsi di perfezionamento patrocinati dal CNRN o dal CNEN.  
+Coloro che hanno frequentato i corsi di tecniche radioisotopiche patrocinati dal CNRN e dal CNEN potranno, sempre nel periodo di funzionamento della scuola succitato, ottenere il certificato di frequenza e profitto per il primo anno effettuando appositi corsi integrativi e sostenendo gli esami prescritti.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 ottobre 1960
+### Dato a Roma, addi' 7 aprile 1963
 
-GRONCHI BOSCO
+SEGNI GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 28 novembre 1960
+Registrato alla Corte dei conti, addi' 22 maggio 1963
 
-Atti del Governo, registro n. 131, foglio n. 102. - VILLA
+Atti del Governo, registro n. 169, foglio n. 91. - VILLA

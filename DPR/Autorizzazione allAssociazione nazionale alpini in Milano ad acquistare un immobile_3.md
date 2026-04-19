@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 176
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 525
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 176
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 525
+=============================================================
 
 Autorizzazione all'Associazione nazionale alpini, in Milano, ad acquistare un immobile.
 ---------------------------------------------------------------------------------------
@@ -10,10 +10,11 @@ Autorizzazione all'Associazione nazionale alpini, in Milano, ad acquistare un im
 Art. 1
 ------
 
-n.
+N.
 
-176. Decreto del Presidente della Repubblica 10 febbraio 1986, col quale, sulla proposta del Ministro della difesa, l'Associazione nazionale alpini, in Milano, viene autorizzata ad acquistare, al prezzo di L. 8.500.000, un fabbricato rurale sito in Vallemosso (Vercelli), frazione Crocemosso, censito al catasto terreni alla partita n. 2159, foglio n. 7, particella n. 540, di proprieta' dei signori Gabrio Veronese e Anna Maria Montesin da adibire a sede del locale gruppo della associazione.   
+525. Decreto del Presidente della Repubblica 28 giugno 1986, col quale, sulla proposta del Ministro della difesa, l'Associazione nazionale alpini, in Milano, viene autorizzata ad acquistare, al prezzo di L. 40.000.000, l'appartamento sito in Campobasso, via Duca d'Aosta n. 10, interno 1, composto di 5 camere, oltre servizi e cantina, censito al nuovo catasto edilizio urbano alla partita 4524, foglio 122, particella 89, sub 14, di proprieta' del sig.  
+Lorenzo Galasso, da adibire a sede del locale gruppo dell'Associazione.   
   
 Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 22 aprile 1986   
-Registro n. 12 Difesa, foglio n. 45
+Registrato alla Corte dei conti, addi' 8 agosto 1986   
+Registro n. 23 Difesa, foglio n. 153

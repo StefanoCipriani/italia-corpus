@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 gennaio 1982 n. 130
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 settembre 1965 n. 1192
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 gennaio 1982 n. 130
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 settembre 1965 n. 1192
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
@@ -10,84 +10,344 @@ Modificazioni allo statuto dell'Universita' degli studi di Siena.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395);
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Veduto l'[art. 16 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art16);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Siena e convalidati dal Consiglio universitario nazionale nel suo parere;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sulla proposta del Ministro per la pubblica istruzione;
 
-Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Decreta:
 
-Sulla
------
+Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, 6 ulteriormente modificato come appresso:
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Art. 9. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti quelli di:
 
-Articolo unico
---------------
+20) Dottrina generale del processo;
 
+21) Papirologia giuridica;
+
+22) Esegesi delle fonti del diritto italiano;
+
+23) Storia del diritto canonico.
+
+Art. 11. - Agli insegnamenti complementari del corso di laurea in Scienze politiche sono aggiunti quelli di:
+
+11) Diritto parlamentare;
+
+12) Diritto pubblico regionale;
+
+13) Diritto pubblico dell'economia;
+
+14) Criminologia.
+
+Art. 29. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche, sono aggiunti quelli di:
+
+13) Farmacologia;
+
+14) Radiobiologia.
+
+Gli articoli 74 e 75, relativi alla scuola di specializzazione in Clinica oculistica, sono soppressi e sostituiti dai seguenti nuovi articoli con il conseguente spostamento della numerazione degli articoli successivi.
+
+Scuola di specializzazione in Clinica oculistica
+
+Art. 73. - Alla Facolta' di medicina e chirurgia e' Annessa la scuola di specializzazione in Clinica oculistica.
+
+Art. 74. - La scuola ha la durata di quattro anni.
+
+Il numero complessivo degli iscritti ai quattro anni del corso e' di venticinque.
+
+Art. 75. - Gli insegnamenti impartiti dalla scuola sono i seguenti: 1° Anno:
+
+1) Anatomia ed istologia dell'apparato oculare;
+
+2) Nozioni di embriologia e genetica oculare;
+
+3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;
+
+4) Nozioni di ottica fisiologica, esame della rifrazione;
+
+5) Microbiologia ed igiene oculare.
+
+2° Anno:
+
+1) Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmologia, perimetria, campimetria, adattometria, senso cromatico, tonometria, tonografia, esami elettrofunzionali, radiologia);
+
+2) Farmacologia oculare e terapia fisica;
+
+3) Anatomia patologica oculare;
+
+4) Patologia e clinica oculare (malattie delle palpebre, della congiuntiva, delle vie lacrimali, della cornea e della sclera).
+
+3° Anno:
+
+1) Patologia e clinica oculare (malattie dell'uvea, della retina, del nervo ottico e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita glaucoma);
+
+2) Anomalie e patologia della motilita' oculare e della visione binoculare; Ortottica e pleottica;
+
+3) Affezioni otorinolaringoiatriche e occhio;
+
+4) Tecnica operatoria, la parte.
+
+4° Anno:
+
+1) Neuro-oftalmologia;
+
+2) Malattie oculari in rapporto ad affezioni generali;
+
+3) Malattie professionali. Infortunistica e medicina legale oculare;
+
+4) Tecnica operatoria, 2ª parte;
+
+5) Tesi di specializzazione.
+
+Art. 76. - Gli esami di profitto si danno alla fine di ciascun anno. Alla fine del corso gli iscritti, oltre a presentare una dissertazione scritta ed a sostenere la relativa discussione, devono sostenere una prova pratica sull'ammalato.
+
+Dopo l'art. 93, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in Ortopedia e traumatologia dell'apparato motore annessa alla Facolta' di medicina e chirurgia.
+
+Scuola di specializzazione in Ortopedia e traumatologia dell'apparato motore
+
+Art. 94. - Alla Facolta' di medicina e chirurgia dell'Universita' di Siena e' annessa la scuola di specializzazione in Ortopedia e traumatologia dell'apparato motore, cui potranno essere ammessi non piu' di dieci allievi per ogni anno di corso.
+
+Art. 95. - La scuola e' distinta in due diversi corsi:
+
+1) Corso di specializzazione in Ortopedia e traumatologia dell'apparato motore, della durata di tre anni;
+
+2) Corso di specializzazione in Cinesiterapia, fisioterapia, riabilitazione e ginnastica medica in ortopedia, della durata di due anni, riducibili ad un anno per coloro che siano in possesso del diploma del 10 corso.
+
+Art. 96. - Corso di specializzazione in Ortopedia e traumatologia dell'apparato motore.
+
+MATERIE D'INSEGNAMENTO
+
+1° Anno:
+
+Clinica chirurgica generale;
+
+Neuropatologia dell'apparato motore;
+
+Anatomia radiologica e radiodiagnostica dello scheletro;
+
+Patologia speciale delle deformita' congenite ed acquisite dell'apparato motore (1° corso);
+
+Clinica ortopedica e traumatologica (1° corso);
+
+Tecnica degli apparecchi gessati (1° corso).
+
+2° Anno:
+
+Patologia speciale delle deformita' congenite ed acquisite dell'apparato motore (2° corso);
+
+Clinica ortopedica e traumatologica (2° corso);
+
+Tecnica degli apparecchi gessati (2° corso);
+
+Fisioterapia e studio della protesi (1° corso).
+
+3° Anno:
+
+Clinica ortopedica e traumatologica (3° corso);
+
+Tecnica degli apparecchi gessati (3° corso);
+
+Fisioterapia e studio delle protesi (2° corso).
+
+Al termine del corso viene rilasciato il diploma di specializzazione in Ortopedia e traumatologia.
+
+Art. 97. - Corso di specializzazione in Cinesiterapia, Fisioterapia, riabilitazione e ginnastica in ortopedia.
+
+MATERIE D'INSEGNAMENTO
+
+1° Anno:
+
+Rapporti tra lesioni ortopediche, traumatologiche e rieducazione funzionale (1° corso);
+
+Anatomia funzionale dell'apparato motore;
+
+Cure con radiazioni (1° corso);
+
+Cure elettriche (1° corso);
+
+Balneoterapia, idroterapia e lutoterapia;
+
+Climatoterapia;
+
+Massoterapia (1° corso);
+
+Terapia del movimento e meccanoterapia (1° corso);
+
+Rieducazione motoria e riabilitazione (1° corso).
+
+2° Anno:
+
+Rapporti tra lesioni ortopediche, traumatologiche, e rieducazione funzionale (2° corso);
+
+Cure elettriche (2° corso);
+
+Massoterapia (2° corso);
+
+Terapia del movimento e meccanoterapia, (2° corso);
+
+Ginnastica medica;
+
+Rieducazione motoria e riabilitazione (2° corso).
+
+Al termine del corso viene rilasciato il diploma di specializzazione in Fisioterapia, Cinesiterapia e riabilitazione dell'apparato motore.
+
+Art. 98. - Gli esami nelle materie con svolgimento pluriennale saranno sostenuti alla fine dell'ultimo anno di corso.
+
+Per quanto altro si riferisce alla scuola di specializzazione in Ortopedia e traumatologia dell'apparato motore, si fa riferimento alle norme generali che regolano altre scuole di specializzazione medico-chirurgiche esistenti presso la Facolta' di medicina e chirurgia.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 28 settembre 1965
+
+SARAGAT
+
+GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 26 ottobre 1965 Atti del Governo, registro n. 197, foglio n. 130. - VILLA
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Lo statuto dell'Universita' di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Dopo l'art. 362, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in sicurezza sociale e organizzazione sanitaria.  
+Decreta:  
   
-Scuola di specializzazione in sicurezza sociale e organizzazione sanitaria  
+Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, 6 ulteriormente modificato come appresso:  
+Art. 9. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti quelli di:  
+20) Dottrina generale del processo;  
+21) Papirologia giuridica;  
+22) Esegesi delle fonti del diritto italiano;  
+23) Storia del diritto canonico.  
+Art. 11. - Agli insegnamenti complementari del corso di laurea in Scienze politiche sono aggiunti quelli di:  
+11) Diritto parlamentare;  
+12) Diritto pubblico regionale;  
+13) Diritto pubblico dell'economia;  
+14) Criminologia.  
+Art. 29. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche, sono aggiunti quelli di:  
+13) Farmacologia;  
+14) Radiobiologia.  
+Gli articoli 74 e 75, relativi alla scuola di specializzazione in Clinica oculistica, sono soppressi e sostituiti dai seguenti nuovi articoli con il conseguente spostamento della numerazione degli articoli successivi.  
   
-Art. 363. - La scuola di specializzazione in sicurezza sociale e organizzazione sanitaria ha sede presso la cattedra di medicina sociale e conferisce il diploma di specialista in sicurezza sociale e organizzazione sanitaria.  
-Art. 364. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
-Art. 365. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalle autorita' competenti.  
-Art. 366. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.  
-Art. 367. - Il numero massimo degli allievi e' di quindici per anno di corso e complessivamente di sessanta iscritti per l'intero corso di studi.  
-Art. 368. - L'ammissione al corso avviene per titoli ed esami.  
-Art. 369. - L'insegnamento verra' impartito per certe materie secondo moduli interdisciplinari e si articolera' in lezioni e in seminari di ricerca. Le materie d'insegnamento sono le seguenti:  
-1° Anno:  
-storia delle istituzioni sanitarie e previdenziali nel secolo XX;  
-medicina legale e della sicurezza sociale (biennale - 1° anno); deontologia e legislazione sanitaria;  
-diritto della sicurezza sociale;  
-psicopatologia sociale;  
-sociologia medica delle devianze.  
+Scuola di specializzazione in Clinica oculistica  
+  
+Art. 73. - Alla Facolta' di medicina e chirurgia e' Annessa la scuola di specializzazione in Clinica oculistica.  
+Art. 74. - La scuola ha la durata di quattro anni.  
+Il numero complessivo degli iscritti ai quattro anni del corso e' di venticinque.  
+Art. 75. - Gli insegnamenti impartiti dalla scuola sono i seguenti: 1° Anno:  
+1) Anatomia ed istologia dell'apparato oculare;  
+2) Nozioni di embriologia e genetica oculare;  
+3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;  
+4) Nozioni di ottica fisiologica, esame della rifrazione;  
+5) Microbiologia ed igiene oculare.  
 2° Anno:  
-medicina legale e della sicurezza sociale (2° anno);  
-medicina sociale e preventiva (insegnamento interdisciplinare sugli aspetti sociali delle situazioni patologiche di maggiore importanza) (triennale - 1° anno);  
-informatica ed epidemiologia (insegnamento interdisciplinare: elementi di statistica, statistica sanitaria, informatica sanitaria, epidemiologia generale e clinica, biometria).  
+1) Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmologia, perimetria, campimetria, adattometria, senso cromatico, tonometria, tonografia, esami elettrofunzionali, radiologia);  
+2) Farmacologia oculare e terapia fisica;  
+3) Anatomia patologica oculare;  
+4) Patologia e clinica oculare (malattie delle palpebre, della congiuntiva, delle vie lacrimali, della cornea e della sclera).  
 3° Anno:  
-medicina sociale e preventiva (2° anno);  
-igiene sociale;  
-tossicologia industriale e medicina preventiva dei lavoratori; economia sanitaria;  
-programmazione ed organizzazione dei servizi sanitari (insegnamento interdisciplinare: indicatori di efficienza e di efficacia dei servizi, principi e metodiche di controllo delle prestazioni mediche e farmaceutiche, automazione dei servizi, personale paramedico) (biennale - 1° anno).  
+1) Patologia e clinica oculare (malattie dell'uvea, della retina, del nervo ottico e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita glaucoma);  
+2) Anomalie e patologia della motilita' oculare e della visione binoculare; Ortottica e pleottica;  
+3) Affezioni otorinolaringoiatriche e occhio;  
+4) Tecnica operatoria, la parte.  
 4° Anno:  
-medicina sociale e preventiva (3° anno);  
-programmazione e organizzazione dei servizi sanitari (i servizi di prevenzione e riabilitazione nel piano fisico e mentale) (2° anno);  
-caratteristiche e competenze dell'U.S.L.;  
-organizzazione e competenze sanitarie e previdenziali nei Paesi della Comunita' europea.  
-Art. 370. - La frequenza alle lezioni e ai seminari di ricerca e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove d'esame.  
-Art. 371. - Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove d'esame sulle materie impartite durante l'anno. Dovranno altresi' presentare un rendiconto scritto sulle loro ricerche seminariali.  
-Per le materie biennali o triennali l'esame sara' sostenuto alla fine del biennio o del triennio.  
-Al termine del corso di studi per il conseguimento del diploma di specialista in "sicurezza sociale e organizzazione sanitaria", gli interessati dovranno superare lo esame di diploma consistente nella dissertazione scritta su un argomento attinente alla specializzazione.  
-Art. 372. - Le tasse, soprattasse e contributi della scuola di specializzazione in sicurezza sociale e organizzazione sanitaria sono quelle previste dalle norme generali del presente statuto.  
+1) Neuro-oftalmologia;  
+2) Malattie oculari in rapporto ad affezioni generali;  
+3) Malattie professionali. Infortunistica e medicina legale oculare;  
+4) Tecnica operatoria, 2ª parte;  
+5) Tesi di specializzazione.  
+Art. 76. - Gli esami di profitto si danno alla fine di ciascun anno. Alla fine del corso gli iscritti, oltre a presentare una dissertazione scritta ed a sostenere la relativa discussione, devono sostenere una prova pratica sull'ammalato.  
+Dopo l'art. 93, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in Ortopedia e traumatologia dell'apparato motore annessa alla Facolta' di medicina e chirurgia.  
+  
+Scuola di specializzazione in Ortopedia e traumatologia dell'apparato motore  
+  
+Art. 94. - Alla Facolta' di medicina e chirurgia dell'Universita' di Siena e' annessa la scuola di specializzazione in Ortopedia e traumatologia dell'apparato motore, cui potranno essere ammessi non piu' di dieci allievi per ogni anno di corso.  
+Art. 95. - La scuola e' distinta in due diversi corsi:  
+1) Corso di specializzazione in Ortopedia e traumatologia dell'apparato motore, della durata di tre anni;  
+2) Corso di specializzazione in Cinesiterapia, fisioterapia, riabilitazione e ginnastica medica in ortopedia, della durata di due anni, riducibili ad un anno per coloro che siano in possesso del diploma del 10 corso.  
+Art. 96. - Corso di specializzazione in Ortopedia e traumatologia dell'apparato motore.  
+  
+MATERIE D'INSEGNAMENTO  
+  
+1° Anno:  
+Clinica chirurgica generale;  
+Neuropatologia dell'apparato motore;  
+Anatomia radiologica e radiodiagnostica dello scheletro;  
+Patologia speciale delle deformita' congenite ed acquisite dell'apparato motore (1° corso);  
+Clinica ortopedica e traumatologica (1° corso);  
+Tecnica degli apparecchi gessati (1° corso).  
+2° Anno:  
+Patologia speciale delle deformita' congenite ed acquisite dell'apparato motore (2° corso);  
+Clinica ortopedica e traumatologica (2° corso);  
+Tecnica degli apparecchi gessati (2° corso);  
+Fisioterapia e studio della protesi (1° corso).  
+3° Anno:  
+Clinica ortopedica e traumatologica (3° corso);  
+Tecnica degli apparecchi gessati (3° corso);  
+Fisioterapia e studio delle protesi (2° corso).  
+Al termine del corso viene rilasciato il diploma di specializzazione in Ortopedia e traumatologia.  
+Art. 97. - Corso di specializzazione in Cinesiterapia, Fisioterapia, riabilitazione e ginnastica in ortopedia.  
+  
+MATERIE D'INSEGNAMENTO  
+  
+1° Anno:  
+Rapporti tra lesioni ortopediche, traumatologiche e rieducazione funzionale (1° corso);  
+Anatomia funzionale dell'apparato motore;  
+Cure con radiazioni (1° corso);  
+Cure elettriche (1° corso);  
+Balneoterapia, idroterapia e lutoterapia;  
+Climatoterapia;  
+Massoterapia (1° corso);  
+Terapia del movimento e meccanoterapia (1° corso);  
+Rieducazione motoria e riabilitazione (1° corso).  
+2° Anno:  
+Rapporti tra lesioni ortopediche, traumatologiche, e rieducazione funzionale (2° corso);  
+Cure elettriche (2° corso);  
+Massoterapia (2° corso);  
+Terapia del movimento e meccanoterapia, (2° corso);  
+Ginnastica medica;  
+Rieducazione motoria e riabilitazione (2° corso).  
+Al termine del corso viene rilasciato il diploma di specializzazione in Fisioterapia, Cinesiterapia e riabilitazione dell'apparato motore.  
+Art. 98. - Gli esami nelle materie con svolgimento pluriennale saranno sostenuti alla fine dell'ultimo anno di corso.  
+Per quanto altro si riferisce alla scuola di specializzazione in Ortopedia e traumatologia dell'apparato motore, si fa riferimento alle norme generali che regolano altre scuole di specializzazione medico-chirurgiche esistenti presso la Facolta' di medicina e chirurgia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 15 gennaio 1982
+### Dato a Roma, addi' 28 settembre 1965
 
-PERTINI BODRATO
+SARAGAT GUI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 20 marzo 1982
+Registrato alla Corte dei conti, addi' 26 ottobre 1965
 
-Registro n. 43 Istruzione, foglio n. 323
+Atti del Governo, registro n. 197, foglio n. 130. - VILLA

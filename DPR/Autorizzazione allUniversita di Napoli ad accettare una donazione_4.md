@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 novembre 1952 n. 4566
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1953 n. 393
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 novembre 1952 n. 4566
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1953 n. 393
+===============================================================
 
 Autorizzazione all'Universita' di Napoli ad accettare una donazione.
 --------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-4566. Decreto del Presidente della Repubblica 2 novembre 1952, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Napoli viene autorizzata ad accettare la donazione di lire 1.000.000 in contante, da convertirsi in titoli di Stato rendita 5%, disposta in suo favore dal prof. Giotto Dainelli, per l'istituzione, con la rendita del capitale donato, di un premio di studio da denominarsi "Premio Giotto Dainelli" e da conferirsi annualmente, in seguito a concorso, a studiosi nel campo della geologia e della paleontologia.  
+393. Decreto del Presidente della Repubblica 10 febbraio 1953, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Napoli viene autorizzata ad accettare la donazione di L. 200.000 nominali, in titoli di Stato 5%, disposta in suo favore dal prof. Ernesto Pontieri, con atto pubblico amministrativo in data 18 luglio 1952, per l'istituzione, con la rendita del capitale donato, di un premio di studio annuo da intitolarsi al nome di "Maria Pontieri" e da conferirsi ad un laureato in lettere o in filosofia dell'Universita' di Napoli che abbia svolta la migliore tesi di laurea in una delle discipline del ramo storico-geografico della Facolta' medesima.  
   
 Visto, il Guardasigilli: ZOLI  
-Registrato alla Corte dei conti, addi' 3 giugno 1953  
-Atti del Governo, registro n. 77, foglio n. 7. - PALLA
+Registrato alla Corte dei conti, addi' 15 maggio 1953  
+Atti del Governo, registro n. 76, foglio n. 99. - PALLA

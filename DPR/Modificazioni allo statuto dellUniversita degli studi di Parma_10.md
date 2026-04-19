@@ -1,234 +1,99 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 maggio 1950 n. 615
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1969 n. 351
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 maggio 1950 n. 615
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1969 n. 351
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regi decreti 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1772), [1 ottobre 1931, n. 1380](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1380), [26 ottobre 1933, n. 2401](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1933-10-26;2401), [13 dicembre 1934, n. 2423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-13;2423), [1 ottobre 1936, n. 2076](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2076), [20 aprile 1939, n. 1067](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-04-20;1067), [1 agosto 1941, n. 893](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-08-01;893), [26 marzo 1942, n. 330](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-03-26;330), [5 settembre 1942, n. 1178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1178), [21 gennaio 1943, n. 21, con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1943-01-21;21) [30 dicembre 1947, n. 1735, con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-30;1735) [27 marzo 1948, n. 458](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-03-27;458) e [30 ottobre 1949, n. 1002](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1002);
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduto il [regio decreto-legge 27 gennaio 1944, n. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-27;58);
-
-Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' predetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti succitati, e' cosi' ulteriormente modificato Art. 25. - All'elenco dei corsi di laurea della Facolta' di scienze matematiche, fisiche e naturali, viene aggiunto quanto appresso:
-
-f) la laurea in scienze biologiche.
-
-Art. 48. - Viene aggiunto il seguente comma:
-
-"Devonsi osservare le seguenti precedenze di esami L'esame di "chimica generale ed inorganica 1°" deve precedere ogni altro esame di materia chimica.
-
-L'esame di "fisica sperimentale 1°" deve precedere quella di "esercitazioni di fisica" e di "fisica sperimentale 2°".
-
-Gli esami di "istituzioni di matematiche 1°" e di "esercitazioni di matematiche 1°" devono precedere l'esame di "fisica sperimentale 2°".
-
-Gli esami di "chimica generale ed inorganica 1° e 2°" e di "fisica sperimentale 1° e 2°" debbono precedere gli esami di "chimica fisica 1° e 2°".
-
-L'esame di "chimica generale ed inorganica 1°" deve precedere l'esame di "mineralogia".
-
-Art. 52. - Viene aggiunto il seguente comma:
-
-"Devonsi osservare le seguenti precedenze di esami Gli esami di "chimica generale ed inorganica" e di "chimica organica" debbono precedere l'esame di "fisiologia generale".
-
-L'esame di "zoologia" deve precedere l'esame di "anatomia comparata".
-
-L'esame di "chimica generale ed inorganica" deve precedere l'esame di "mineralogia".
-
-L'esame di "mineralogia" deve precedere l'esame di "geologia".
-
-Dopo l'art. 58. - Vengono aggiunti i seguenti nuovi articoli, relativi all'istituzione del corso di laurea in scienze biologiche, con il conseguente spostamento della relativa numerazione degli articoli successivi.
-
-Art. 59. - La durata del corso di studi per la laurea in scienze biologiche e' di quattro anni.
-
-E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.
-
-Sono insegnamenti fondamentali:
-
-1) istituzioni di matematiche;
-
-2) fisica;
-
-3) chimica generale e inorganica;
-
-4) chimica organica;
-
-5) botanica (biennale);
-
-6) zoologia (biennale);
-
-7) anatomia comparata;
-
-8) anatomia umana;
-
-9) istologia ed embriologia;
-
-10) fisiologia generale (bienniale);
-
-11) chimica biologica;
-
-12) igiene.
-
-Sono insegnamenti complementari:
-
-1) chimica fisica;
-
-2) biologia generale;
-
-3) generica;
-
-4) zooculture (bachi; api; avi; coniglicoltura);
-
-5) microbiologia;
-
-6) parassitologia;
-
-7) fisiologia vegetale;
-
-8) geologia;
-
-9) paleontologia;
-
-10) statistica.
-
-I corsi teorici, sia fondamentali, sia complementari, sono di regola integrati da esercitazioni pratiche sul cui profitto ciascun insegnante stabilisce opportuni criteri di accertamento.
-
-Art. 60. - Gli insegnamenti biennali di "botanica" e di "zoologia" comprendono tanto la parte generale quanto la parte sistematica.
-
-Per essere ammesso a conseguire la laurea in scienze biologiche lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed in quattro almeno da lui scelti fra i complementari.
-
-Gli esami di "chimica generale ed inorganica" e di "chimica organica" debbono precedere l'esame di "fisiologia generale".
-
-L'esame di "zoologia" deve precedere quello di "anatomia comparata".
-
-Art. 61. - Per il conseguimento della laurea in scienze biologiche lo studente deve presentare una dissertazione scritta sopra un argomento di scienze biologiche concordato con un professore ufficiale della Facolta'.
-
-La dissertazione deve essere presentata alla segreteria dell'Universita' almeno dieci giorni prima dell'esame di laurea insieme ai titoli dei tre argomenti scelti per la discussione, di cui all'art. 10.
-
-Per essere ammesso all'esame di laurea lo studente deve inoltre avere sostenuto con approvazione un colloquio di cultura generale nelle scienze biologiche davanti ad una commissione di tre professori ufficiali della Facolta', fra cui il preside, possibilmente prima della assegnazione della tesi di laurea.
-
-Art. 62. - L'esame di laurea comprende:
-
-1) una prova pratica nella materia scelta per la tesi di laurea;
-
-2) la discussione orale della prova pratica e della tesi di laurea;
-
-3) la discussione orale di due sui tre argomenti scelti dal candidato, a norma dell'art. 10 del presente statuto.
-
-Art. 121, relativo alla "Scuola di specializzazione sulle conserve alimentari di origine vegetale", il penultimo comma viene sostituito dal seguente "Materie prime destinate all'industria conserviera di origine vegetale - Legislazione delle conserve - Nuovi impianti - Assicurazioni - Contratti di lavoro - Contabilita' di fabbrica - Conferenze di chimica organica - Conferenze varie e visite a fabbriche di conserve e di scatole".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 30 maggio 1950
-
-EINAUDI
-
-GONELLA
-
-Visto, il Guardasigilli: PICCIONI
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 21 agosto 1950 Atti del Governo, registro n. 35, foglio n. 53. - CARLOMAGNO
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regi decreti 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1772), [1 ottobre 1931, n. 1380](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1380), [26 ottobre 1933, n. 2401](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1933-10-26;2401), [13 dicembre 1934, n. 2423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-13;2423), [1 ottobre 1936, n. 2076](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2076), [20 aprile 1939, n. 1067](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-04-20;1067), [1 agosto 1941, n. 893](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-08-01;893), [26 marzo 1942, n. 330](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-03-26;330), [5 settembre 1942, n. 1178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1178), [21 gennaio 1943, n. 21, con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1943-01-21;21) [30 dicembre 1947, n. 1735, con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-30;1735) [27 marzo 1948, n. 458](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-03-27;458) e [30 ottobre 1949, n. 1002](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1002);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduto il [regio decreto-legge 27 gennaio 1944, n. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-27;58);  
-Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' predetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti succitati, e' cosi' ulteriormente modificato Art. 25. - All'elenco dei corsi di laurea della Facolta' di scienze matematiche, fisiche e naturali, viene aggiunto quanto appresso:  
-f) la laurea in scienze biologiche.  
-Art. 48. - Viene aggiunto il seguente comma:  
-"Devonsi osservare le seguenti precedenze di esami L'esame di "chimica generale ed inorganica 1°" deve precedere ogni altro esame di materia chimica.  
-L'esame di "fisica sperimentale 1°" deve precedere quella di "esercitazioni di fisica" e di "fisica sperimentale 2°".  
-Gli esami di "istituzioni di matematiche 1°" e di "esercitazioni di matematiche 1°" devono precedere l'esame di "fisica sperimentale 2°".  
-Gli esami di "chimica generale ed inorganica 1° e 2°" e di "fisica sperimentale 1° e 2°" debbono precedere gli esami di "chimica fisica 1° e 2°".  
-L'esame di "chimica generale ed inorganica 1°" deve precedere l'esame di "mineralogia".  
-Art. 52. - Viene aggiunto il seguente comma:  
-"Devonsi osservare le seguenti precedenze di esami Gli esami di "chimica generale ed inorganica" e di "chimica organica" debbono precedere l'esame di "fisiologia generale".  
-L'esame di "zoologia" deve precedere l'esame di "anatomia comparata".  
-L'esame di "chimica generale ed inorganica" deve precedere l'esame di "mineralogia".  
-L'esame di "mineralogia" deve precedere l'esame di "geologia".  
-Dopo l'art. 58. - Vengono aggiunti i seguenti nuovi articoli, relativi all'istituzione del corso di laurea in scienze biologiche, con il conseguente spostamento della relativa numerazione degli articoli successivi.  
-Art. 59. - La durata del corso di studi per la laurea in scienze biologiche e' di quattro anni.  
-E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.  
-Sono insegnamenti fondamentali:  
-1) istituzioni di matematiche;  
-2) fisica;  
-3) chimica generale e inorganica;  
-4) chimica organica;  
-5) botanica (biennale);  
-6) zoologia (biennale);  
-7) anatomia comparata;  
-8) anatomia umana;  
-9) istologia ed embriologia;  
-10) fisiologia generale (bienniale);  
-11) chimica biologica;  
-12) igiene.  
-Sono insegnamenti complementari:  
-1) chimica fisica;  
-2) biologia generale;  
-3) generica;  
-4) zooculture (bachi; api; avi; coniglicoltura);  
-5) microbiologia;  
-6) parassitologia;  
-7) fisiologia vegetale;  
-8) geologia;  
-9) paleontologia;  
-10) statistica.  
-I corsi teorici, sia fondamentali, sia complementari, sono di regola integrati da esercitazioni pratiche sul cui profitto ciascun insegnante stabilisce opportuni criteri di accertamento.  
-Art. 60. - Gli insegnamenti biennali di "botanica" e di "zoologia" comprendono tanto la parte generale quanto la parte sistematica.  
-Per essere ammesso a conseguire la laurea in scienze biologiche lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed in quattro almeno da lui scelti fra i complementari.  
-Gli esami di "chimica generale ed inorganica" e di "chimica organica" debbono precedere l'esame di "fisiologia generale".  
-L'esame di "zoologia" deve precedere quello di "anatomia comparata".  
-Art. 61. - Per il conseguimento della laurea in scienze biologiche lo studente deve presentare una dissertazione scritta sopra un argomento di scienze biologiche concordato con un professore ufficiale della Facolta'.  
-La dissertazione deve essere presentata alla segreteria dell'Universita' almeno dieci giorni prima dell'esame di laurea insieme ai titoli dei tre argomenti scelti per la discussione, di cui all'art. 10.  
-Per essere ammesso all'esame di laurea lo studente deve inoltre avere sostenuto con approvazione un colloquio di cultura generale nelle scienze biologiche davanti ad una commissione di tre professori ufficiali della Facolta', fra cui il preside, possibilmente prima della assegnazione della tesi di laurea.  
-Art. 62. - L'esame di laurea comprende:  
-1) una prova pratica nella materia scelta per la tesi di laurea;  
-2) la discussione orale della prova pratica e della tesi di laurea;  
-3) la discussione orale di due sui tre argomenti scelti dal candidato, a norma dell'art. 10 del presente statuto.  
-Art. 121, relativo alla "Scuola di specializzazione sulle conserve alimentari di origine vegetale", il penultimo comma viene sostituito dal seguente "Materie prime destinate all'industria conserviera di origine vegetale - Legislazione delle conserve - Nuovi impianti - Assicurazioni - Contratti di lavoro - Contabilita' di fabbrica - Conferenze di chimica organica - Conferenze varie e visite a fabbriche di conserve e di scatole".  
+Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+  
+Dopo l'art. 298 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola speciale di servizio sociale annessa alla facolta' di giurisprudenza.   
+  
+Scuola speciale di servizio sociale   
+  
+Art. 299. - Nella facolta' di giurisprudenza dell'Universita' degli studi di Parma e' istituita una scuola speciale di servizio sociale ai sensi e per gli effetti dello [art. 20, terzo comma, lettera a) del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20-com3-leta).   
+La scuola si propone di preparare all'esercizio della professione di assistente sociale mediante l'insegnamento teorico delle discipline necessarie e la sua integrazione con le opportune esercitazioni pratiche.   
+La scuola conferisce il diploma di assistente sociale.   
+Art. 300. - Per l'ammissione alla scuola e' richiesto il diploma di maturita' classica o scientifica o di abilitazione degli istituti tecnici e commerciali e degli istituti magistrali.   
+Art. 301. - I proventi della scuola, costituiti dalle tasse scolastiche, dagli eventuali contributi dello Stato, dell'universita', di enti pubblici e privati, sono amministrati separatamente dalle entrate universitarie. La scuola ha un proprio bilancio che viene approvato dal consiglio di amministrazione dell'universita', quale allegato del bilancio universitario.   
+Art. 302. - Il consiglio della scuola e' composto da un professore di ruolo della facolta' di giurisprudenza, nominato dal rettore su proposta della facolta', dai docenti della scuola, che siano professori di ruolo o incaricati nell'ateneo; da un rappresentante di ciascuno degli enti o privati finanziatori della scuola da questi designati, dal direttore delle esercitazioni e dei tirocini professionali, che funge anche da segretario.   
+Il consiglio delibera su tutte le proposte di natura didattica e disciplinare relative alla scuola.   
+Art. 303. - Il direttore della scuola e' il professore di ruolo della facolta' di giurisprudenza designato presidente del consiglio della scuola.   
+Il direttore ha la rappresentanza e la direzione della scuola e ne assicura la disciplina.   
+Art. 304. - I docenti, il direttore delle esercitazioni e dei tirocini professionali e il personale della scuola, sono nominati dal rettore sentito il direttore della scuola.   
+I docenti della scuola sono scelti tra i professori di ruolo, incaricati, liberi docenti e assistenti delle facolta' di giurisprudenza, economia e commercio, magistero e medicina e chirurgia dell'Universita' di Parma e fra coloro che, per opere, uffici o insegnamenti tenuti, siano di riconosciuta competenza ed esperienza nelle materie che formano oggetto dell'insegnamento.   
+L'assistenza alle esercitazioni e ai tirocini professionali e' affidata ad esperti di servizio sociale - I monitori - la cui attivita' e' coordinata dal direttore delle esercitazioni e dei tirocini professionali.   
+I docenti degli insegnamenti professionali, il direttore delle esercitazioni e dei tirocini professionali ed i monitori, debbono, di norma, possedere il diploma di "assistente sociale".   
+Art. 305. - Il corso degli studi per il conseguimento del diploma di assistente sociale ha la durata di tre anni.   
+Art. 306. - Ogni anno puo' essere stabilito un numero minimo di iscrizioni; qualora tale numero non sia raggiunto, il direttore della scuola ha la facolta' di non iniziare i corsi.   
+L'ammissione alla scuola ha luogo in seguito a concorso per soli esami.   
+Art. 307. - Le materie di insegnamento e i corsi della scuola sono i seguenti:   
+Gruppo A: insegnamenti culturali di base:   
+  
+Elementi di diritto pubblico;   
+Elementi di diritto privato;   
+Elementi di diritto del lavoro e legislazione sociale;   
+Diritto penale e legislazione minorile (sem.);   
+Legislazione assistenziale (sem.);   
+Elementi di economia politica e di storia sociale (bienn.);   
+Sociologia e antropologia culturale (bienn.);   
+Psicologia generale, differenziale, clinica;   
+Corso interdisciplinare sullo sviluppo psicofisico dell'individuo (bienn.);   
+Biologia e fisiologia umana;   
+Igiene e medicina sociale (sem.).   
+  
+Gruppo B: insegnamenti professionali:   
+  
+Corso introduttivo di servizio sociale;   
+Servizio sociale individuale (trienn.);   
+Servizio sociale di gruppo (bienn.);   
+Servizio sociale di comunita' (bienn.);   
+Amministrazione dei servizi sociali;   
+Metodologia della ricerca applicata al servizio sociale (trienn.);   
+Etica professionale.   
+  
+Le esercitazioni pratiche si svolgono nell'ambito dei singoli insegnamenti a scopo di illustrazione, applicazione ed integrazione della parte teorica.   
+I tirocini professionali, consistenti in esperienze concrete di servizio sociale, vengono effettuati, nei singoli anni di corso, presso enti e istituzioni adatti, sotto la guida di "supervisori".   
+Art. 308. - Le commissioni per gli esami di profitto sono composte di tre membri nominati dal direttore.   
+Per essere ammessi agli esami gli iscritti dovranno avere ottenuto le relative firme di frequenza alle lezioni.   
+Per essere ammessi agli esami di diploma gli iscritti dovranno avere superato gli esami di profitto stabiliti dal programma della scuola.   
+La commissione per l'esame di diploma e' composta di sette membri scelti dal rettore fra gli insegnanti della scuola.   
+L'esame di diploma consiste in una discussione sopra una dissertazione originale scelta fra le materie d'insegnamento della scuola.   
+L'argomento della dissertazione di diploma dovra' essere concordato con l'insegnante della materia prescelta, almeno quattro mesi prima della discussione.   
+Art. 309. - La scuola potra' avere un regolamento da approvare dal consiglio di amministrazione su proposta del consiglio della scuola.   
+  
+Norma transitoria   
+  
+Alla data di entrata in vigore delle presenti disposizioni, gli iscritti provenienti da altre scuole di servizio sociale, possono chiedere l'abbreviazione degli studi, in base agli esami sostenuti ed essere ammessi, a giudizio del consiglio della scuola, al 2° e al 3° anno di corso alla discussione della tesi di diploma.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 maggio 1950
+### Dato a Roma, addi' 2 maggio 1969
 
-EINAUDI GONELLA
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: PICCIONI
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 21 agosto 1950
+Registrato alla Corte dei conti, addi' 5 luglio 1969
 
-Atti del Governo, registro n. 35, foglio n. 53. - CARLOMAGNO
+Atti del Governo, registro n. 227, foglio n. 116. - CARUSO

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1973 n. 1154
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1960 n. 272
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1973 n. 1154
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1960 n. 272
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Sassari.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Sassari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084), e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Sassari, approvato con [regio decreto 20 aprile 1939, numero 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084), e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217) e successivi;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -30,233 +30,97 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 76 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono aggiunte le scuole di specializzazione in "Neurochirurgia" e in "Neuropsichiatria infantile".
+Dopo l'art. 84, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della scuola di perfezionamento in Parassitologia veterinaria annessa alla Facolta' di medicina veterinaria.
 
-Dopo l'art. 126, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in "Neurochirurgia" e in "Neuropsichiatria infantile".
+Scuola di perfezionamento in Parassitologia veterinaria
 
-Scuola di specializzazione in neurochirurgia
+Art. 85. - E' istituita presso la Facolta' di medicina veterinaria una scuola di perfezionamento in Parassitologia veterinaria per il conferimento del diploma di specialista a norma dell'[art. 178 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art178).
 
-Art. 127. - Presso l'istituto di clinica neurochirurgica e' istituita la scuola di specializzazione in neurochirurgia.
+Art. 86. - Alla scuola possono iscriversi i laureati in Medicina veterinaria.
 
-La scuola conferisce il diploma di specialista in neurochirurgia.
+Art. 87. - Il direttore della scuola e' il professore di ruolo di Parassitologia oppure di Patologia generale e Anatomia patologica della Facolta', ed in sua assenza, un professore di ruolo designato dal Consiglio di Facolta'.
 
-Il corso ha la durata di quattro anni.
+Art. 88. - Gli insegnanti della, scuola sono scelti dal direttore della scuola stessa fra i professori di ruolo e non di ruolo, liberi docenti, aiuti ed assistenti della Facolta' e tra persone di particolare competenza nella disciplina anche se non appartenenti alla Facolta'.
 
-Art. 128. - Le materie di insegnamento ed i piani di studio sono:
+Art. 89. - Il Consiglio direttivo della scuola e' composto da tutti i docenti incaricati di insegnamento ed e' presieduto dal direttore della scuola.
 
-1° Anno:
+Art. 90. - Il direttore stabilisce l'ordinamento, l'indirizzo degli studi ed il numero delle lezioni per ogni singolo insegnamento.
 
-Semeiotica e clinica neurologica;
+Art. 91. - Il direttore stabilisce annualmente se, il corso dovra' effettuarsi o meno in base al numero degli iscritti e, valutati i titoli, scegliera' gli allievi nel caso che il numero delle domande superi quello prefissato che e' di venticinque per anno.
 
-Elementi di psichiatria;
+Art. 92. - Le Commissioni di esami di profitto sono composte dal professore ufficiale della materia, dal direttore della scuola e da un docente della scuola medesima.
 
-Neuroanatomia;
+Art. 93. - La Commissione per gli esami di diploma e' costituita da sette membri scelti fra gli insegnanti della scuola ed e' nominata dal rettore su proposta del direttore della scuola che la presiede.
 
-Neurofisiologia;
+Art. 94. - Il diploma di "specialista" e' rilasciato dal rettore e firmato inoltre dal direttore della scuola e dal direttore amministrativo dell'Universita'.
 
-Clinica neurochirurgica (quadriennale).
+Art. 95. - La scuola ha la durata di due anni.
 
-2° Anno:
+Art. 96. - Le materie d'insegnamento tutte obbligatorie, sono le seguenti:
 
-Neurooftalmologia;
+1° anno:
 
-Neurootoiatria;
+1) Parassitologia (Elmintologia);
 
-Elettroencefalografia ed elettromiografia;
+2) Esercitazioni e tecnica parassitologica;
 
-Clinica neurochirurgica.
+3) Immunologia e sierologia parassitologica;
 
-3° Anno:
+4) Climatologia, metereologia e terreno in parassitologia;
 
-Anestesiologia;
+5) Anatomia patologica ed istopatologia delle malattie parassitarie;
 
-Neuropatologia;
+6) Clinica, terapia e profilassi delle malattie parassitarie;
 
-Neuroradiologia (biennale);
+2° anno:
 
-Clinica neurochirurgica.
+1) Parassitologia (Protozoologia ed entomologia);
 
-4° Anno:
+2) Esercitazioni e tecnica parassitologica;
 
-Tecniche operatorie;
+3) Anatomia patologica ed istopatologia delle malattie parassitarie;
 
-Neurochirurgia infantile;
+4) Clinica, terapia e profilassi delle malattie parassitarie;
 
-Neurochirurgia stereotossica;
+5) Zoonosi parassitarie.
 
-Neuroradiologia;
+Art. 97. - Non sono ammessi agli esami di profitto gli iscritti che hanno un numero di assenze superiori al quinto delle lezioni e delle esercitazioni separatamente considerate.
 
-Neurotraumatologia;
+Durante il corso gli iscritti sono obbligati, pertanto, a frequentare le lezioni e a partecipare alle esercitazioni di laboratorio, di clinica, ecc.
 
-Clinica neurochirurgica;
+Art. 98. - L'ammissione al secondo anno e' subordinata all'approvazione di tutti gli esami delle materie del primo anno.
 
-Neurochirurgia spinale.
+Alla fine del secondo anno il candidato deve superare gli esami di tutti gli insegnamenti relativi all'anno stesso ed una prova pratica prima di venir ammesso a sostenere la discussione su una dissertazione scritta.
 
-Art. 129. - Potranno essere ammessi alla scuola i laureati in medicina e chirurgia.
+Art. 99. - Gli iscritti sono tenuti a pagare le tasse e le soprattasse nella misura pari a quella stabilita per gli iscritti alla Facolta' di medicina veterinaria.
 
-Il numero massimo degli iscritti e' di cinque per anno.
+Art. 100. - La misura dei contributi (contributo integrativo, contributi di laboratori, contributo di specializzazione, contributi vari) e' fissata, anno per anno, dal Consiglio di amministrazione dell'Universita' su proposta del direttore della scuola sentito il parere del Consiglio direttivo della scuola stessa.
 
-Le ammissioni avvengono per titoli ed esami.
+I contributi sono riservati integralmente per il funzionamento della scuola cosi' come qualunque somma venisse erogata con detto scopo da enti o da privati.
 
-Agli anni successivi al primo sono ammessi gli allievi che abbiano regolarmente frequentato il corso precedente e superato i relativi esami di profitto.
-
-Le prove d'esame per ciascun anno di corso riguardano gli insegnamenti impartiti in quell'anno, secondo il piano di studio.
-
-Gli esami possono essere sostenuti in due sessioni: estiva ed autunnale.
-
-Gli allievi che chiedono il trasferimento da altre universita' potranno essere ammessi alla scuola secondo i modi di legge.
-
-Sono ammessi all'esame di diploma gli allievi che abbiano superato tutti gli esami di profitto.
-
-L'esame di diploma consiste nella discussione orale di una tesi scritta, su un tema in precedenza approvato dal direttore della scuola.
-
-Abbreviazioni del corso non sono consentite per alcun motivo.
-
-La frequenza e' obbligatoria per un periodo di almeno nove mesi per anno accademico. Il corso comprende lezioni, seminari, esercitazioni e internato presso l'istituto di clinica neurochirurgica.
-
-Deroghe parziali dall'obbligo dell'internato potranno essere concesse, nei limiti delle norme vigenti, unicamente agli assistenti e borsisti che prestino regolare servizio in istituti universitari di neurochirurgia.
-
-Soggiorni di studio presso istituti italiani o stranieri sono ammessi solo previa presentazione di un programma di ricerca, che dovra' essere approvato dal direttore della scuola.
-
-Scuola di specializzazione in neuropsichiatria infantile
-
-Art. 130. - Titolo necessario per l'ammissione alla scuola di specializzazione in neuropsichiatria infantile e' la laurea in medicina e chirurgia. L'ammissione e' per titoli ed esami.
-
-Art. 131. - Il corso di studio ha la durata di quattro anni.
-
-La frequenza alle lezioni e' obbligatoria.
-
-L'internato e' obbligatorio per la durata di sei mesi in clinica pediatrica per gli studenti del primo anno; per tre mesi in neurologia e per tre mesi in psichiatria per gli studenti del secondo anno; in neuropsichiatria infantile per la durata di sei mesi per gli studenti del terzo anno e per la durata di sei mesi per quelli del quarto anno.
-
-Il numero degli iscritti per ogni anno del corso non potra' essere superiore a otto.
-
-Art. 132. - Le materie d'insegnamento sono:
-
-1° Anno:
-
-Anatomia ed embriologia del sistema nervoso;
-
-Fisiologia del sistema nervoso con particolare riguardo all'eta' evolutiva;
-
-Genetica;
-
-Endocrinologia dell'eta' evolutiva e auxologia;
-
-Patologia e clinica pediatrica;
-
-Tecniche di laboratorio.
-
-2° Anno:
-
-Anatomia patologica del sistema nervoso;
-
-Biochimica patologica del sistema nervoso;
-
-Psicologia dell'eta' evolutiva;
-
-Semeiotica e clinica neurologica;
-
-Semeiotica e clinica psichiatrica.
-
-3° Anno:
-
-Psicopatologia dell'eta' evolutiva;
-
-Semeiotica e clinica neurologica infantile;
-
-Psicodiagnostica dell'eta' evolutiva;
-
-Elettrofisiologia;
-
-Neuroradiologia;
-
-Neurochirurgia dell'eta' evolutiva;
-
-Semeiotica e clinica psichiatrica infantile (I);
-
-4° Anno:
-
-Clinica psichiatrica infantile (II);
-
-Terapia generale delle malattie mentali infantili;
-
-Psicoterapia dell'eta' evolutiva;
-
-Fonoiatria;
-
-Psicopedagogia;
-
-Sociologia applicata alla popolazione infantile;
-
-Organizzazione diagnostico assistenziale e legislazione.
-
-Gli esami da sostenere sono:
-
-1° Anno:
-
-1) Embriologia e anatomia del sistema nervoso;
-
-2) Fisiologia del sistema nervoso;
-
-3) Genetica, endocrinologia e auxologia;
-
-4) Patologia e clinica pediatrica.
-
-2° Anno:
-
-5) Anatomia e biochimica patologica del sistema nervoso;
-
-6) Psicologia dell'eta' evolutiva;
-
-7) Semeiotica e clinica neurologica;
-
-8) Semeiotica e clinica psichiatrica.
-
-3° Anno:
-
-9) Semeiotica e clinica neurologica infantile;
-
-10) Psicopatologia dell'eta' evolutiva;
-
-11) Psicodiagnostica dell'eta' evolutiva.
-
-4° Anno:
-
-12) Semeiotica e clinica psichiatrica infantile;
-
-13) Psicopedagogia;
-
-14) Organizzazione diagnostico-assistenziale e legislazione.
-
-Art. 133. - Per ottenere l'iscrizione al 2°, 3° e 4° anno di specializzazioni gli iscritti dovranno avere sostenuto gli esami delle materie prescritte per l'anno precedente, tranne che per la clinica pediatrica infantile, il cui esame va sostenuto al quarto anno.
-
-Gli specialisti in clinica delle malattie nervose e mentali o in neurologia o in psichiatria sono iscritti d'ufficio al secondo anno della scuola e sono esentati dal sostenere gli esami di profitto numeri 1), 2), 5), 7) e 8) e dall'espletare il periodo di internato in neurologia e psichiatria.
-
-Gli specialisti in clinica pediatrica sono iscritti d'ufficio al secondo anno della scuola e sono esentati dal sostenere gli esami di profitto numeri 3) e 4) e dall'espletare il periodo di internato del primo anno.
-
-Per conseguire il diploma di specialista in neuropsichiatria infantile gli iscritti, al termine degli esami, dovranno presentare e discutere una dissertazione scritta su argomento di neuropsichiatria infantile.
+La tassa di diploma e' fissata in L. 6000, a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 23 ottobre 1973
+Dato a Roma, addi' 6 marzo 1960
 
-LEONE
+GRONCHI
 
-MALFATTI
+MEDICI
 
-Visto, il Guardasigilli: ZAGARI
+Visto; il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 28 ottobre 1974 Atti di Governo, registro n. 6, foglio n. 47. - SCIARRETTA
+alla Corte dei conti, addi' 5 aprile 1960 Atti del Governo, registro n. 125, foglio n. 175. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084), e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Sassari, approvato con [regio decreto 20 aprile 1939, numero 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084), e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217) e successivi;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
@@ -269,151 +133,52 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 76 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono aggiunte le scuole di specializzazione in "Neurochirurgia" e in "Neuropsichiatria infantile".  
+Dopo l'art. 84, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della scuola di perfezionamento in Parassitologia veterinaria annessa alla Facolta' di medicina veterinaria.  
   
-Dopo l'art. 126, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in "Neurochirurgia" e in "Neuropsichiatria infantile".  
+Scuola di perfezionamento in Parassitologia veterinaria  
   
-Scuola di specializzazione in neurochirurgia  
-  
-Art. 127. - Presso l'istituto di clinica neurochirurgica e' istituita la scuola di specializzazione in neurochirurgia.  
-La scuola conferisce il diploma di specialista in neurochirurgia.  
-Il corso ha la durata di quattro anni.  
-  
-Art. 128. - Le materie di insegnamento ed i piani di studio sono:  
-  
-1° Anno:  
-  
-Semeiotica e clinica neurologica;  
-Elementi di psichiatria;  
-Neuroanatomia;  
-Neurofisiologia;  
-Clinica neurochirurgica (quadriennale).  
-  
-2° Anno:  
-  
-Neurooftalmologia;  
-Neurootoiatria;  
-Elettroencefalografia ed elettromiografia;  
-Clinica neurochirurgica.  
-  
-3° Anno:  
-  
-Anestesiologia;  
-Neuropatologia;  
-Neuroradiologia (biennale);  
-Clinica neurochirurgica.  
-  
-4° Anno:  
-  
-Tecniche operatorie;  
-Neurochirurgia infantile;  
-Neurochirurgia stereotossica;  
-Neuroradiologia;  
-Neurotraumatologia;  
-Clinica neurochirurgica;  
-Neurochirurgia spinale.  
-  
-Art. 129. - Potranno essere ammessi alla scuola i laureati in medicina e chirurgia.  
-Il numero massimo degli iscritti e' di cinque per anno.  
-Le ammissioni avvengono per titoli ed esami.  
-Agli anni successivi al primo sono ammessi gli allievi che abbiano regolarmente frequentato il corso precedente e superato i relativi esami di profitto.  
-Le prove d'esame per ciascun anno di corso riguardano gli insegnamenti impartiti in quell'anno, secondo il piano di studio.  
-Gli esami possono essere sostenuti in due sessioni: estiva ed autunnale.  
-Gli allievi che chiedono il trasferimento da altre universita' potranno essere ammessi alla scuola secondo i modi di legge.  
-Sono ammessi all'esame di diploma gli allievi che abbiano superato tutti gli esami di profitto.  
-L'esame di diploma consiste nella discussione orale di una tesi scritta, su un tema in precedenza approvato dal direttore della scuola.  
-Abbreviazioni del corso non sono consentite per alcun motivo.  
-La frequenza e' obbligatoria per un periodo di almeno nove mesi per anno accademico. Il corso comprende lezioni, seminari, esercitazioni e internato presso l'istituto di clinica neurochirurgica.  
-Deroghe parziali dall'obbligo dell'internato potranno essere concesse, nei limiti delle norme vigenti, unicamente agli assistenti e borsisti che prestino regolare servizio in istituti universitari di neurochirurgia.  
-Soggiorni di studio presso istituti italiani o stranieri sono ammessi solo previa presentazione di un programma di ricerca, che dovra' essere approvato dal direttore della scuola.  
-  
-Scuola di specializzazione in neuropsichiatria infantile  
-  
-Art. 130. - Titolo necessario per l'ammissione alla scuola di specializzazione in neuropsichiatria infantile e' la laurea in medicina e chirurgia. L'ammissione e' per titoli ed esami.  
-  
-Art. 131. - Il corso di studio ha la durata di quattro anni.  
-La frequenza alle lezioni e' obbligatoria.  
-L'internato e' obbligatorio per la durata di sei mesi in clinica pediatrica per gli studenti del primo anno; per tre mesi in neurologia e per tre mesi in psichiatria per gli studenti del secondo anno; in neuropsichiatria infantile per la durata di sei mesi per gli studenti del terzo anno e per la durata di sei mesi per quelli del quarto anno.  
-Il numero degli iscritti per ogni anno del corso non potra' essere superiore a otto.  
-  
-Art. 132. - Le materie d'insegnamento sono:  
-  
-1° Anno:  
-  
-Anatomia ed embriologia del sistema nervoso;  
-Fisiologia del sistema nervoso con particolare riguardo all'eta' evolutiva;  
-Genetica;  
-Endocrinologia dell'eta' evolutiva e auxologia;  
-Patologia e clinica pediatrica;  
-Tecniche di laboratorio.  
-  
-2° Anno:  
-  
-Anatomia patologica del sistema nervoso;  
-Biochimica patologica del sistema nervoso;  
-Psicologia dell'eta' evolutiva;  
-Semeiotica e clinica neurologica;  
-Semeiotica e clinica psichiatrica.  
-  
-3° Anno:  
-  
-Psicopatologia dell'eta' evolutiva;  
-Semeiotica e clinica neurologica infantile;  
-Psicodiagnostica dell'eta' evolutiva;  
-Elettrofisiologia;  
-Neuroradiologia;  
-Neurochirurgia dell'eta' evolutiva;  
-Semeiotica e clinica psichiatrica infantile (I);  
-  
-4° Anno:  
-  
-Clinica psichiatrica infantile (II);  
-Terapia generale delle malattie mentali infantili;  
-Psicoterapia dell'eta' evolutiva;  
-Fonoiatria;  
-Psicopedagogia;  
-Sociologia applicata alla popolazione infantile;  
-Organizzazione diagnostico assistenziale e legislazione.  
-  
-Gli esami da sostenere sono:  
-  
-1° Anno:  
-1) Embriologia e anatomia del sistema nervoso;  
-2) Fisiologia del sistema nervoso;  
-3) Genetica, endocrinologia e auxologia;  
-4) Patologia e clinica pediatrica.  
-  
-2° Anno:  
-5) Anatomia e biochimica patologica del sistema nervoso;  
-6) Psicologia dell'eta' evolutiva;  
-7) Semeiotica e clinica neurologica;  
-8) Semeiotica e clinica psichiatrica.  
-  
-3° Anno:  
-9) Semeiotica e clinica neurologica infantile;  
-10) Psicopatologia dell'eta' evolutiva;  
-11) Psicodiagnostica dell'eta' evolutiva.  
-  
-4° Anno:  
-12) Semeiotica e clinica psichiatrica infantile;  
-13) Psicopedagogia;  
-14) Organizzazione diagnostico-assistenziale e legislazione.  
-  
-Art. 133. - Per ottenere l'iscrizione al 2°, 3° e 4° anno di specializzazioni gli iscritti dovranno avere sostenuto gli esami delle materie prescritte per l'anno precedente, tranne che per la clinica pediatrica infantile, il cui esame va sostenuto al quarto anno.  
-Gli specialisti in clinica delle malattie nervose e mentali o in neurologia o in psichiatria sono iscritti d'ufficio al secondo anno della scuola e sono esentati dal sostenere gli esami di profitto numeri 1), 2), 5), 7) e 8) e dall'espletare il periodo di internato in neurologia e psichiatria.  
-Gli specialisti in clinica pediatrica sono iscritti d'ufficio al secondo anno della scuola e sono esentati dal sostenere gli esami di profitto numeri 3) e 4) e dall'espletare il periodo di internato del primo anno.  
-Per conseguire il diploma di specialista in neuropsichiatria infantile gli iscritti, al termine degli esami, dovranno presentare e discutere una dissertazione scritta su argomento di neuropsichiatria infantile.  
+Art. 85. - E' istituita presso la Facolta' di medicina veterinaria una scuola di perfezionamento in Parassitologia veterinaria per il conferimento del diploma di specialista a norma dell'[art. 178 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art178).  
+Art. 86. - Alla scuola possono iscriversi i laureati in Medicina veterinaria.  
+Art. 87. - Il direttore della scuola e' il professore di ruolo di Parassitologia oppure di Patologia generale e Anatomia patologica della Facolta', ed in sua assenza, un professore di ruolo designato dal Consiglio di Facolta'.  
+Art. 88. - Gli insegnanti della, scuola sono scelti dal direttore della scuola stessa fra i professori di ruolo e non di ruolo, liberi docenti, aiuti ed assistenti della Facolta' e tra persone di particolare competenza nella disciplina anche se non appartenenti alla Facolta'.  
+Art. 89. - Il Consiglio direttivo della scuola e' composto da tutti i docenti incaricati di insegnamento ed e' presieduto dal direttore della scuola.  
+Art. 90. - Il direttore stabilisce l'ordinamento, l'indirizzo degli studi ed il numero delle lezioni per ogni singolo insegnamento.  
+Art. 91. - Il direttore stabilisce annualmente se, il corso dovra' effettuarsi o meno in base al numero degli iscritti e, valutati i titoli, scegliera' gli allievi nel caso che il numero delle domande superi quello prefissato che e' di venticinque per anno.  
+Art. 92. - Le Commissioni di esami di profitto sono composte dal professore ufficiale della materia, dal direttore della scuola e da un docente della scuola medesima.  
+Art. 93. - La Commissione per gli esami di diploma e' costituita da sette membri scelti fra gli insegnanti della scuola ed e' nominata dal rettore su proposta del direttore della scuola che la presiede.  
+Art. 94. - Il diploma di "specialista" e' rilasciato dal rettore e firmato inoltre dal direttore della scuola e dal direttore amministrativo dell'Universita'.  
+Art. 95. - La scuola ha la durata di due anni.  
+Art. 96. - Le materie d'insegnamento tutte obbligatorie, sono le seguenti:  
+1° anno:  
+1) Parassitologia (Elmintologia);  
+2) Esercitazioni e tecnica parassitologica;  
+3) Immunologia e sierologia parassitologica;  
+4) Climatologia, metereologia e terreno in parassitologia;  
+5) Anatomia patologica ed istopatologia delle malattie parassitarie;  
+6) Clinica, terapia e profilassi delle malattie parassitarie;  
+2° anno:  
+1) Parassitologia (Protozoologia ed entomologia);  
+2) Esercitazioni e tecnica parassitologica;  
+3) Anatomia patologica ed istopatologia delle malattie parassitarie;  
+4) Clinica, terapia e profilassi delle malattie parassitarie;  
+5) Zoonosi parassitarie.  
+Art. 97. - Non sono ammessi agli esami di profitto gli iscritti che hanno un numero di assenze superiori al quinto delle lezioni e delle esercitazioni separatamente considerate.  
+Durante il corso gli iscritti sono obbligati, pertanto, a frequentare le lezioni e a partecipare alle esercitazioni di laboratorio, di clinica, ecc.  
+Art. 98. - L'ammissione al secondo anno e' subordinata all'approvazione di tutti gli esami delle materie del primo anno.  
+Alla fine del secondo anno il candidato deve superare gli esami di tutti gli insegnamenti relativi all'anno stesso ed una prova pratica prima di venir ammesso a sostenere la discussione su una dissertazione scritta.  
+Art. 99. - Gli iscritti sono tenuti a pagare le tasse e le soprattasse nella misura pari a quella stabilita per gli iscritti alla Facolta' di medicina veterinaria.  
+Art. 100. - La misura dei contributi (contributo integrativo, contributi di laboratori, contributo di specializzazione, contributi vari) e' fissata, anno per anno, dal Consiglio di amministrazione dell'Universita' su proposta del direttore della scuola sentito il parere del Consiglio direttivo della scuola stessa.  
+I contributi sono riservati integralmente per il funzionamento della scuola cosi' come qualunque somma venisse erogata con detto scopo da enti o da privati.  
+La tassa di diploma e' fissata in L. 6000, a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 ottobre 1973
+### Dato a Roma, addi' 6 marzo 1960
 
-LEONE MALFATTI
+GRONCHI MEDICI Visto; il Guardasigilli: GONELLA
 
-Visto, il Guardasigilli: ZAGARI
+Registrato alla Corte dei conti, addi' 5 aprile 1960
 
-Registrato alla Corte dei conti, addi' 28 ottobre 1974
-
-Atti di Governo, registro n. 6, foglio n. 47. - SCIARRETTA
+Atti del Governo, registro n. 125, foglio n. 175. - VILLA

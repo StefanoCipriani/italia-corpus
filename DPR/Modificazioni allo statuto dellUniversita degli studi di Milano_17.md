@@ -1,108 +1,49 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 giugno 1984 n. 537
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1970 n. 1063
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 giugno 1984 n. 537
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1970 n. 1063
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Gli articoli da 393 a 406 compresi, relativi alla scuola diretta a fini speciali in citologia diagnostica, sono soppressi, compresa la denominazione della scuola medesima, e sostituiti, con il conseguente scorrimento degli articoli successivi, con quelli relativi alla nuova scuola diretta a fini speciali per tecnici di anatomia patologica e citoistologia come segue:  
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Scuola per tecnici di anatomia patologica e citoistologia  
-Art. 393. - E' istituita presso l'Universita' di Milano la scuola diretta a fini speciali per tecnici di anatomia patologica e citoistologia.  
-Art. 394. - La direzione della scuola ha sede presso la prima cattedra di anatomia e di istologia patologica dell'Universita' di Milano in via Commenda, 19.  
-Art. 395. - La scuola ha lo scopo di conferire una preparazione che consenta al tecnico di operare con responsabilita' e perizia, nei servizi di anatomia patologica e di citologia diagnostica.  
-Art. 396. - La durata del corso e' di anni 2 e non e' suscettibile di abbreviazione.  
-Art. 397. - Il numero degli studenti che possono essere iscritti e' di cinque per ogni anno di corso e complessivamente di dieci per l'intero corso di studi.  
-Art. 398. - Alla scuola sono ammessi i diplomati degli istituti di istruzione secondaria di secondo grado giusta le disposizioni vigenti per l'ammissione ai vari corsi di laurea.  
-Art. 399. - Qualora il numero degli aspiranti sia superiore a quello dei posti disponibili, l'accesso alla scuola medesima, nei limiti dei posti disponibili, e' subordinato al superamento di un esame consistente in una prova scritta che potra' svolgersi mediante domande a risposte multiple, integrate eventualmente da un colloquio e dalla valutazione, in misura non superiore al 30%, del punteggio complessivo a disposizione della commissione dei titoli di studio richiesti per l'ammissione.  
-Art. 400. - Le materie di insegnamento, tutte afferenti alla facolta' di medicina e chirurgia, sono le seguenti:  
-1° Anno:  
-citoistologia e nozioni di anatomia umana normale;  
-fisiologia e genetica umana;  
-istituzioni di anatomia patologica;  
-immunopatologia;  
-chimica generale ed organica e nozioni di biochimica;  
-inglese;  
-nozioni di statistica e computerizzazione biomedica;  
-batteriologia ed elementi di parassitologia, micologia e virologia;  
-tecnica citoistologica ed istochimica;  
-tecnica di prelievo e della conservazione dei materiali biologici;  
-tecnica di immunopatologia;  
-tecnica delle autopsie.  
-2° Anno:  
-anatomia patologica sistematica;  
-ematologia;  
-igiene e legislazione sanitaria;  
-diagnostica istopatologica;  
-diagnostica citopatologica;  
-inglese;  
-diagnostica istocitopatologica ultrastrutturale;  
-nozioni di citologia analitica e quantitativa;  
-tecnica di microscopia elettronica;  
-tecnica e diagnostica citogenetica;  
-tecnica di ematologia;  
-tecnica delle autopsie.  
-L'attivita' didattica e scientifica e' completata da un tirocinio pratico che dovra' svolgersi sotto la guida di un docente.  
-Art. 401. - La frequenza ai corsi ed al tirocinio pratico e' obbligatoria. Ogni materia di insegnamento e' anche materia di esame il cui superamento e' condizione necessaria alla frequenza all'anno successivo.  
-Gli esami di profitto consistono in prove teoriche e pratiche. Le commissioni per gli esami sono nominato dal direttore della scuola sentito il parere del consiglio della scuola.  
-Le commissioni sono composte da tre membri: il professore ufficiale della materia - presidente - e gli altri due docenti che pure insegnano nella scuola stessa. Ogni commissario ha a disposizione 10 punti.  
-Art. 402. - L'esame di diploma consiste nella discussione di una dissertazione scritta su tema preventivamente assegnato dal direttore della scuola, in una prova pratica di tecnica di colorazione e in una prova pratica di citoistologia stabilite dalla commissione esaminatrice.  
-L'esame di diploma viene sostenuto davanti ad una commissione di cinque membri scelti fra i docenti della scuola, nominata dal preside della facolta' di medicina e chirurgia, su proposta del direttore della scuola.  
-Ogni commissario ha a disposizione 10 punti.  
-I candidati non riconosciuti idonei potranno ripresentarsi all'esame di diploma dopo un altro anno di frequenza.  
-A coloro che avranno superato l'esame verra' rilasciato il diploma di "tecnico di anatomia patologica e citoistologia".  
-Art. 403. - Le tasse sono quelle previste dalle vigenti disposizioni di legge; i contributi sono fissati dal consiglio di amministrazione su delibera del consiglio della scuola.  
-Art. 404. - La direzione della scuola e' affidata a professore ordinario, straordinario che insegni nella scuola stessa.  
-In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
-Art. 405. - Il consiglio della scuola e' composto da tutti i docenti universitari di ruolo afferenti alla scuola stessa, ivi compresi i professori a contratto.  
-La composizione e le attribuzioni del consiglio, l'elezione e i compiti del direttore sono regolati dall'[art. 94 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art94), relativo ai consigli del corso di laurea ed al presidente.  
+Decreta:  
+  
+L'art. 13 dello statuto dell'Universita' degli studi di Milano di cui al [decreto del Presidente della Repubblica 3 agosto 1970, n. 701](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-08-03;701), concernente il riordinamento del corso di laurea in scienze politiche e' modificato nel senso che l'insegnamento di diritto internazionale II al n. 4) della lettera e) deve essere rettificato in quello di "Diritto delle comunita' europee"; inoltre gli insegnamenti n. 12) Diritto delle comunita' europee e n. 38) Storia dei rapporti tra Stato e Chiesa devono essere soppressi. Nello stesso articolo vengono aggiunti i seguenti insegnamenti complementari:  
+  
+Storia medioevale;  
+Storia della filosofia;  
+Storia delle istituzioni religiose;  
+Filosofia morale;  
+Diritto diplomatico e consolare;  
+Dottrina dello Stato;  
+Storia del diritto romano.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 giugno 1984
+### Dato a Roma, addi' 31 ottobre 1970
 
-PERTINI FALCUCCI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 13 agosto 1984
+Registrato alla Corte dei conti, addi' 23 dicembre 1970
 
-Registro n. 49 Istruzione, foglio n. 301
+Atti del Governo, registro n. 239, foglio n. 29. - CARUSO

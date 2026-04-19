@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 giugno 1980 n. 608
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1980 n. 959
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 giugno 1980 n. 608
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1980 n. 959
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -10,95 +10,85 @@ Modificazioni allo statuto dell'Universita' degli studi di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Vedute le proposte di modifica dello statuto formulato dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' degli studi di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
 Sulla
 -----
 
 proposta del Ministro della pubblica istruzione; Decreta:
 
-Articolo unico
---------------
+Art. 1
+------
 
   
+Lo statuto dell'Universita' di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 148 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la seconda scuola di specializzazione in medicina interna.  
+
+Art. 2
+------
+
   
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Nell'art. 274 sono soppressi i primi quattro commi e sostituiti come segue:   
-La scuola di perfezionamento in biologia conferisce il diploma di perfezionamento in biologia secondo i seguenti indirizzi:   
-ricerche biologiche;   
-genetica applicata;   
-biologia applicata;   
-biologia sanitaria.   
-Nel diploma di perfezionamento conferito dalla scuola e' fatta menzione dell'indirizzo svolto. Titolo preferenziale per l'ammissione al corso e' la laurea in scienze biologiche e naturali. Limitatamente all'indirizzo genetico sono ammessi i laureati in medicina veterinaria ed in agraria. Limitatamente all'indirizzo in biologia applicata ed in biologia sanitaria sono ammessi anche i laureati in chimica (indirizzo organico-biologico).   
-La frequenza ai corsi ed alle esercitazioni e' obbligatoria.  
-Inoltre e' richiesto il tirocinio presso istituti e laboratori qualificati su indicazione del comitato direttivo della scuola.   
-Le iscrizioni sono limitate alla disponibilita' dei posti per ciascun indirizzo come segue:   
-indirizzo di ricerche biologiche, posti n. 8;   
-indirizzo di genetica applicata, posti n. 5;   
-indirizzo di biologia applicata, posti n. 8;   
-indirizzo di biologia sanitaria, posti n. 5.   
-Gli aspiranti verranno scelti in base ai titoli presentati e al risultato di un colloquio, da una commissione costituita da insegnanti del corso.   
-I commi concernenti l'indirizzo in biologia applicata sono soppressi e sostituiti come segue:   
-Indirizzo in biologia applicata. Le materie di insegnamento sono:   
-1° Anno:   
-elementi di biologia degli animali di laboratorio;   
-titolazioni biologiche;   
-tecniche biochimiche;   
-statistica applicata;   
-tecniche microbiologiche.   
-2° Anno:   
-metodi biochimici di separazione;   
-tecniche microscopiche;   
-tecniche fisiologiche;   
-titolazioni microbiologiche;   
-tecniche farmacologiche.   
-Per l'ammissione al secondo anno e' obbligatorio il superamento di almeno due esami degli insegnamenti del primo anno.   
-L'ammissione all'esame di diploma e' subordinata al superamento degli esami di tutti i corsi sopraelencati.   
-L'esame di diploma consiste in una prova pratica seguita da una discussione e da un esame di cultura generale.   
-Sono aggiunti i seguenti nuovi commi relativi all'istituzione dell'indirizzo in biologia sanitaria.   
-Indirizzo in biologia sanitaria.   
-Le materie di insegnamento sono:   
-1° Anno:   
-organizzazione e strumentazione di laboratorio;   
-fisiopatologia;   
-chimica clinica;   
-tecniche chimico-cliniche;   
-microbiologia sanitaria.   
-2° Anno:   
-citologia normale e patologica;   
-tecniche immunologiche;   
-ematologia;   
-dosaggi ormonali;   
-farmacologia e tossicologia sanitaria.   
-Per l'ammissione a questo indirizzo occorre il diploma di perfezionamento in biologia applicata.   
-Per l'ammissione al secondo anno e' obbligatorio il superamento di almeno due esami degli insegnamenti del primo anno.   
-L'ammissione all'esame di diploma e' subordinata al superamento degli esami di tutti i corsi sopraelencati.   
-L'esame di diploma consiste in una prova pratica seguita da una discussione e da un esame di cultura generale.   
+Dopo l'art. 264, e con il conseguente spostamento della numerazione successiva, e' inserito il seguente nuovo articolo relativo alla istituzione della seconda scuola di specializzazione in medicina interna.  
+Seconda scuola di specializzazione in medicina interna  
+Art. 265. - La seconda scuola di specializzazione in medicina interna ha sede presso la quinta cattedra di clinica medica dell'Universita' degli studi di Milano.  
+La scuola ha la durata di cinque anni.  
+Il numero degli iscritti e' limitato a cinque per ogni anno di corso.  
+Le materie di insegnamento sono:  
+1° Anno:  
+malattie infettive, disreattive e del sangue;  
+istituzioni di terapia;  
+anatomia ed istologia patologica (I corso);  
+clinica medica generale e terapia medica (I corso).  
+2° Anno:  
+malattie dell'apparato cardiovascolare;  
+microbiologia e sierologia;  
+chimica clinica;  
+anatomia ed istologia patologica (II corso);  
+clinica medica generale e terapia medica (II corso).  
+3° Anno:  
+malattie dell'apparato digerente;  
+malattie renali;  
+clinica medica generale e terapia medica (III corso).  
+4° Anno:  
+malattie dell'apparato respiratorio;  
+malattie del sistema nervoso;  
+clinica medica generale e terapia medica (IV corso).  
+5° Anno:  
+malattie del ricambio;  
+malattie delle ghiandole endocrine;  
+clinica medica generale e terapia medica (V corso).  
+Insegnamenti complementari:  
+parassitologia medica;  
+genetica medica;  
+radiologia;  
+semeiotica oculistica.  
+Gli allievi hanno obbligo di frequenza ai fini di apprendimento.  
+Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico dell'operosita' scolastica degli allievi, con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno. L'allievo che non abbia ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali. Alla fine del corso l'allievo, prima di adire l'esame di diploma, deve sostenere un esame generale di profitto.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 giugno 1980
+### Dato a Roma, addi' 31 ottobre 1980
 
-PERTINI SARTI
+PERTINI BODRATO
 
-Visto, il guardasigilli: MORLINO
+Visto, il Guardasigilli: SARTI
 
-Registrato alla Corte dei conti, addi' 25 settembre 1980
+Registrato alla Corte dei conti, addi' 30 dicembre 1980
 
-Registro n. 88 Istruzione, foglio n. 77
+Registro n. 122 Istruzione, foglio n. 30

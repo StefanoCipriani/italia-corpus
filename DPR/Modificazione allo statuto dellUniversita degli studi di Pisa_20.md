@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 453
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1985 n. 848
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 453
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1985 n. 848
+================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
@@ -39,16 +39,16 @@ Articolo unico
 --------------
 
   
-Nell'art. 132, relativo ai corsi di laurea in ingegneria, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
-criteri di impiego delle macchine utensili;  
-gestione delle macchine utensili;  
-strumentazione e regolazione degli impianti nucleari.  
+Nell'art. 78, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
+diagnostica clinica radioisotopica;  
+fisiopatologia delle malattie del ricambio;  
+dietoterapia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 aprile 1986
+### Dato a Roma, addi' 24 settembre 1985
 
 COSSIGA
 
@@ -56,6 +56,6 @@ FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 17 luglio 1986
+Registrato alla Corte dei conti, addi' 21 gennaio 1986
 
-Registro n. 57 Istruzione, foglio n. 96
+Registro n. 2 Istruzione, foglio n. 93

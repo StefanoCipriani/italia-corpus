@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 marzo 1955 n. 222
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1972 n. 479
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 marzo 1955 n. 222
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1972 n. 479
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -12,92 +12,217 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con i [regi decreti 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-12;2227); [4 settembre 1930, n. 1312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-09-04;1312); [1 ottobre 1931, n. 1778](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1778); [27 ottobre 1932, n. 2092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2092); [6 dicembre 1934, n. 2394](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2394); [1 ottobre 1936, n. 2502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2502); [12 maggio 1939, n. 1315](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-05-12;1315); [5 ottobre 1939, n. 1644](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1644); [11 luglio 1941, n. 848](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-07-11;848); [18 luglio 1942, n. 928](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-18;928); [24 novembre 1942, n. 1595, con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-11-24;1595) [16 maggio 1947, n. 694, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-05-16;694) [22 febbraio 1948, n. 414](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-02-22;414); [30 luglio 1950, n. 1268](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-07-30;1268); [31 ottobre 1950, n. 1307](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1307); [5 agosto 1951, n. 1311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-05;1311); [27 ottobre 1951, n. 1792](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1792); [3 ottobre 1952, n. 4541](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-03;4541); [11 marzo 1953, n. 545](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;545); [12 maggio 1953, n. 547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-05-12;547); [30 giugno 1954, n. 742](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-30;742); [30 giugno 1954, n. 755](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-30;755); [14 agosto 1954, n. 862](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-08-14;862) e [14 settembre 1954, n. 1231](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1231);  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 63. - Agli insegnamenti complementari del corso di laurea in scienze matematiche sono aggiunti quelli di:  
-13) Teoria generale delle vibrazioni;  
-14) Teoria della relativita';  
-15) Storia delle matematiche;  
-16) Elasticita' e fluidodinamica;  
-17) Topologia;  
-18) Teoria dei numeri.  
-Art. 64. - Agli insegnamenti complementari del corso di laurea in fisica sono aggiunti quelli di:  
-14) Astrofisica;  
-15) Fisica atomica;  
-16) Tecniche elettroniche;  
-17) Fisica nucleare;  
-18) Teoria generale delle vibrazioni;  
-19) Fisica delle particelle elementari;  
-20) Meccanica statistica;  
-21) Teoria della relativita'.  
-Art. 65. - Agli insegnamenti complementari del corso di laurea in matematica e fisica sono aggiunti quelli di:  
-18) Teoria generale delle vibrazioni;  
-19) Teoria della relativita';  
-20) Fisica atomica;  
-21) Tecniche elettroniche;  
-22) Fisica nucleare;  
-23) Astrofisica;  
-24) Storia delle matematiche;  
-25) Fisica delle particelle elementari;  
-26) Meccanica statistica;  
-27) Teoria dei numeri;  
-28) Topologia.  
-Art. 66. - Agli insegnamenti complementari del corso di laurea in chimica (indirizzo organicobiologico) sono aggiunti quelli di:  
-17) Analisi chimica spettroscopica;  
-18) Chimica teorica;  
-19) Chimica tossicologica;  
-20) Tecnologie microbiologiche.  
-Art. 67. - Agli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti quelli di:  
-22) Antropometria;  
-23) Giacimenti minerari;  
-24) Geologia regionale;  
-25) Petrotettonica;  
-26) Citomorfologia (morfologia submicroscopica del protoplasma);  
-27) Embriologia sperimentale;  
-28) Geologia applicata;  
-29) Cristallochimica;  
-30) Mineralogia applicata;  
-31) Paleontologia umana e paletnologia.  
-Art. 68. - Agli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti quelli di:  
-16) Antropometria;  
-17) Citomorfologia (morfologia submicroscopica del protoplasma);  
-18) Embriologia sperimentale;  
-19) Farmacologia;  
-20) Chimica delle fermentazioni e batteriologia industriale;  
-21) Paleontologia umana e paletnologia.  
-Art. 69. - Agli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti quelli di:  
-13) Petrotettonica;  
-14) Geologia regionale;  
-15) Giacimenti minerari;  
-16) Cristallochimica;  
-17) Paleontologia umana e paletnologia;  
-18) Mineralogia applicata.  
-Art. 75. Agli insegnamenti complementari del corso di laurea in chimica industriale sono aggiunti quelli di:  
-15) Tecnologie elettrochimiche;  
-16) Chimica degli intermedi e degli esplosivi;  
-17) Cristallochimica.  
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso.  
+Gli articoli da 461 a 466 relativi alla "Scuola di perfezionamento in urologia" che muta la denominazione in quella di "Scuola di specializzazione in urologia" sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in urologia  
+  
+Art. 461. - La scuola di specializzazione in urologia, alla quale sono ammessi i laureati in medicina e chirurgia, conferisce il diploma di specialista in urologia.  
+Art. 462. - Gli anni di studio occorrenti al conseguimento del titolo sono tre. Sono impartiti i seguenti insegnamenti, cosi' distribuiti per ciascun anno di corso:  
+  
+1° Anno:  
+1) Anatomia descrittiva e topografica dell'apparato urogenitale;  
+2) Fisiologia dell'apparato urogenitale;  
+3) Patologia dell'apparato urinario e genitale maschile;  
+4) Le nefropatie mediche;  
+5) Semeiotica dell'apparato urogenitale (funzionale e di laboratorio);  
+6) Tecniche strumentali e semeiologia endoscopica;  
+7) Batteriologia in urologia;  
+8) Farmacoterapia delle affezioni, urogenitali.  
+  
+2° Anno:  
+1) Patologia dell'apparato urinario e genitale maschile;  
+2) Clinica urologica;  
+3) Patologia genitale femminile di interesse urologico;  
+4) Nefrologia chirurgica;  
+5) Anatomia ed istologia patologica dell'apparato urogenitale;  
+6) Semeiotica dell'apparato urogenitale (funzionale e di laboratorio);  
+7) Tecniche strumentali e semeiologia endoscopica;  
+8) Anatomia chirurgica dell'apparato urogenitale;  
+9) Radiologia dell'apparato urinario e genitale;  
+10) Le affezioni cutanee e veneree nei riguardi dell'urologia;  
+11) L'anestesia ed il trattamento pre e post-operatorio del malato urologico.  
+  
+3° Anno:  
+1) Clinica urologica;  
+2) Patologia e clinica urologica infantile;  
+3) Radiologia dell'apparato urinario e genitale;  
+4) Tecniche operatorie sull'apparato urinario e genitale;  
+5) Urologia ginecologica.  
+  
+Art. 463. - L'iscrizione alla scuola avviene per titoli.  
+Nel caso che le domande di iscrizione superino il numero dei posti disponibili, l'ammissione avverra' per titoli ed esami.  
+Art. 464. - Sono disponibili dodici posti per ciascun anno di corso. Il numero complessivo dei posti nei tre anni di corso non dovra' essere superiore a trentasei.  
+Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni, le esercitazioni, le visite di istruzione e le eventuali conferenze; in caso contrario, non potranno conseguire le attestazioni di frequenza necessarie per essere ammessi a sostenere le prove di esame.  
+Art. 465. - Alla fine di ogni anno, gli iscritti sono tenuti a superare un esame di profitto, in un gruppo unico, delle materie dell'anno di corso relativo per essere ammessi all'anno di corso successivo e precisamente:  
+  
+1° Anno:  
+1) Anatomia e fisiologia dell'apparato urogenitale;  
+2) Le nefropatie mediche;  
+3) Batteriologia in urologia e farmacoterapia delle affezioni urogenitali.  
+  
+2° Anno:  
+1) Patologia dell'apparato urinario e genitale maschile, anatomia ed istologia patologica;  
+2) Semeiotica urologica (funzionale e di laboratorio) e tecnica strumentale e semeiologia endoscopica:  
+3) Patologia genitale femminile di interesse urologico; le affezioni cutanee e veneree nei riguardi dell'urologia;  
+4) Anatomia chirurgica dell'apparato urogenitale; anestesia e trattamento pre e post-operatorio del malato urologico;  
+5) Urologia ginecologica.  
+  
+3° Anno:  
+1) Clinica urologica;  
+2) Radiologia dell'apparato urinario e genitale;  
+3) Interventi e procedimenti operatori sull'apparato urogenitale;  
+4) Patologia e clinica urologica infantile;  
+5) Urologia ginecologica.  
+  
+Art. 466. - Al termine del corso di studi, per il conseguimento del titolo di specialista, gli interessati dovranno superare l'esame di diploma, consistente nella dissertazione scritta di un argomento di urologia.  
+Il terzo comma dell'art. 498 relativo alla "Scuola di specializzazione in psichiatria" e' modificato nel senso che il numero degli iscritti e' aumentato a trentatre per i quattro anni di corso.  
+Gli articoli 507, 508, 509 relativi alla "Scuola di perfezionamento in puericultura e igiene infantile" che muta la denominazione in quella di "Scuola di specializzazione in puericultura" sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in puericultura  
+  
+Art. 507. - Presso l'istituto di puericultura dell'Universita' di Bologna e' istituita la scuola di specializzazione in puericultura, che conferisce il relativo titolo di specialista.  
+Essa ha la durata di tre anni e si propone di conferire la preparazione teorica pratica in biologia infantile e pediatria preventiva a laureati in medicina e chirurgia.  
+L'ammissione alla scuola viene effettuata per titoli, non possono essere ammessi piu' di ventiquattro allievi per l'intero corso degli studi.  
+Art. 508. - Le materie di insegnamento sono:  
+  
+1° Anno:  
+Peculiarita' anatomo-fisiologiche dell'eta' evolutiva;  
+Elementi di genetica medica ed eugenetica;  
+Elementi di puericultura perinatale;  
+Auxologia;  
+Alimentazione e dietetica dell'eta' infantile;  
+Elementi di semeiotica infantile.  
+  
+2° Anno:  
+Psicologia ed igiene mentale nell'eta' evolutiva;  
+Igiene ed assistenza nell'eta' evolutiva;  
+Profilassi delle malattie infettive nell'infanzia;  
+Elementi di medicina scolastica;  
+Legislazione ed assistenza sociale all'infanzia.  
+  
+3° Anno:  
+Tirocinio pratico presso l'istituto dove la scuola ha sede od altre istituzioni od enti che abbiano, a giudizio del consiglio della scuola, caratteristiche tali da assicurare lo svolgimento di un efficace tirocinio sotto l'aspetto eminentemente pratico.  
+  
+Art. 509. - Durante gli anni di corso saranno svolte esercitazioni pratiche e conferenze su argomenti di puericultura. Gli iscritti hanno l'obbligo di internato con le modalita' e l'orario che saranno stabiliti dal consiglio direttivo della scuola.  
+Alla fine di ognuno dei primi due anni gli iscritti dovranno sostenere l'esame di profitto sulle materie di insegnamento in un gruppo unico.  
+Al termine del terzo anno l'allievo sosterra' un esame teorico generale, ed un esame pratico, per essere ammesso all'esame di diploma.  
+Eventuali abbreviazioni di corso potranno essere accordate su parere favorevole del consiglio, della scuola.  
+L'art. 513, relativo alla "Scuola di specializzazione in medicina del lavoro" e' modificato nel senso che il numero degli iscritti e' aumentato a dieci per ciascun anno di corso. - Gli articoli da 515 a 519, relativi alla "Scuola di perfezionamento in tisiologia" che muta la denominazione in quella di "Scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio", sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio  
+  
+Art. 515. - La scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio conferisce il diploma di specialista in tisiologia e malattie dell'apparato respiratorio.  
+Art. 516. - Gli anni di studio occorrenti al conseguimento del titolo sono tre.  
+Sono impartiti i seguenti insegnamenti, cosi' distribuiti per ciascun anno di corso:  
+  
+1° Anno:  
+1) Anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale);  
+2) Patologia della tubercolosi polmonare ed extrapolmonare;  
+3) Patologia delle malattie dell'apparato respiratorio;  
+4) Fisiologia e fisiopatologia generale dell'apparato respiratorio;  
+5) Semeiotica fisica e funzionale dell'apparato respiratorio;  
+6) Microbiologia;  
+7) Epidemiologia e statistica sanitaria della tubercolosi e delle malattie dell'apparato respiratorio.  
+  
+2° Anno:  
+1) Anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale);  
+2) Clinica della tubercolosi (biennale);  
+3) Clinica delle malattie dell'apparato respiratorio (biennale);  
+4) Fisiopatologia speciale delle tubercolosi e delle malattie dell'apparato respiratorio;  
+5) Broncologia;  
+6) Radiologia dell'apparato respiratorio;  
+7) Profilassi della tubercolosi;  
+8) Igiene e legislazione sociale.  
+  
+3° Anno:  
+1) Clinica della tubercolosi (biennale);  
+2) Clinica delle malattie dell'apparato respiratorio (biennale);  
+3) Chemioterapia della tubercolosi e delle malattie dell'apparato respiratorio;  
+4) Terapia fisiomeccanica nella tubercolosi e nelle malattie dell'apparato respiratorio;  
+5) Terapia chirurgica nella tubercolosi e nelle malattie dell'apparato respiratorio.  
+  
+Art. 517. - L'iscrizione alla scuola avviene per titoli e con un colloquio orale.  
+Nel caso che le domande di iscrizione superino il numero dei posti, l'ammissione avverra' con l'integrazione di una prova scritta.  
+I corsi di insegnamento sono integrati da turni obbligatori di internato nei reparti di degenza e nei laboratori di ricerca, da esercitazioni pratiche e da conferenze.  
+Art. 518. Sono disponibili dieci posti per ciascun anno di corso.  
+Gli iscritti alla scuola hanno l'obbligo di frequenza alle lezioni.  
+Art. 519. - Alla fine di ogni anno, gli iscritti che abbiano conseguito le attestazioni di frequenza sul relativo libretto, sono tenuti a superare tutti gli esami di profitto di ogni anno di corso e per singola materia, per il passaggio all'anno di corso successivo.  
+Per il conseguimento del diploma di specializzazione e' prescritta la presentazione e la discussione di una dissertazione scritta.  
+Gli articoli da 520 a 524 relativi alla "Scuola di perfezionamento in medicina generale" che muta la denominazione in quella di "Scuola di specializzazione in medicina interna" sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in medicina interna  
+  
+Art. 520. - Presso la facolta' di medicina e chirurgia e' istituita la scuola di specializzazione in medicina interna, della durata di cinque anni, che conferisce il diploma di specialista in medicina interna.  
+Abbreviazioni di corso potranno essere concesse, a giudizio insindacabile del consiglio della scuola, sol tanto a coloro che diano dimostrazione rigorosamente documentata di avere gia' preparazione e servizio specifici, e specifica attivita' scientifica di riconosciuto me rito in ambienti qualificati. In ogni caso l'abbreviazione di corso deve essere rigorosamente e dettagliata mente motivata dal consiglio direttivo della scuola.  
+Art. 521. - Le materie di insegnamento sono le seguenti:  
+  
+1° Anno:  
+Malattie infettive, disreattive e del sangue;  
+Istituzioni di terapia;  
+Anatomia ed istologia patologica (biennale);  
+Clinica medica generale e terapia medica (quinquennale).  
+  
+2° Anno:  
+Malattie dell'apparato cardiovascolare;  
+Microbiologia e sierologia;  
+Chimica clinica;  
+Anatomia ed istologia patologica (biennale);  
+Clinica medica generale e terapia medica (quinquennale).  
+  
+3° Anno:  
+Malattie dell'apparato digerente;  
+Malattie renali;  
+Clinica medica generale e terapia medica (quinquennale).  
+  
+4° Anno:  
+Malattie dell'apparato respiratorio;  
+Malattie del sistema nervoso;  
+Clinica medica generale e terapia medica (quinquennale).  
+  
+5° Anno:  
+Malattie del ricambio;  
+Malattie delle ghiandole endocrine;  
+Clinica medica generale e terapia medica (quinquennale).  
+  
+Insegnamenti complementari:  
+Genetica medica;  
+Semeiotica ginecologica (5° anno);  
+Psicologia medica (3° anno);  
+Radiologia;  
+Applicazioni diagnostiche e terapeutiche nella medicina nucleare (3° a 4° anno);  
+Semeiotica dermatologica.  
+  
+Art. 522. - L'iscrizione alla scuola avviene per titoli.  
+Nel caso che le domande di iscrizione superino il numero dei posti disponibili l'ammissione avverra' per titoli ed esami.  
+Art. 523. - Sono disponibili dieci posti per ciascun anno di corso.  
+Il numero complessivo dei posti nei cinque anni di corso non dovra' superare i cinquanta iscritti.  
+Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni, le visite mediche, gli ambulatori, nonche' di prestare, se richiesti, servizio nella clinica come medici interni, estendendo storie cliniche e praticando le ricerche di laboratorio.  
+Gli allievi che non conseguono le attestazioni di frequenza sul, relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
+Art. 524. - Alla fine di ogni anno di corso gli iscritti sono tenuti a superare tutti gli esami relativi ai singoli insegnamenti fondamentali e complementari di ciascun anno per il passaggio all'anno successivo. Gli esami biennali e quinquennali saranno superati rispettivamente alla fine del biennio e alla fine del quinquennio.  
+Al termine del corso di studi per il conseguimento del diploma di specialista gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta su materie oggetto del corso.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 1 marzo 1955
+### Dato a Roma, addi' 20 giugno 1972.
 
-EINAUDI ERMINI
+LEONE MISASI
 
-Visto, il Guardasigilli: DE PIETRO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 2 aprile 1955
+Registrato alla Corte dei conti, addi' 10 agosto 1972
 
-Atti del Governo, registro n. 90, foglio n. 21. - CARLOMAGNO
+Atti del Governo, registro n. 250, foglio n. 143. - VALENTINI

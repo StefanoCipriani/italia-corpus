@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1970 n. 534
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1956 n. 1150
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1970 n. 534
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1956 n. 1150
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Modena.
 ------------------------------------------------------------------
@@ -10,15 +10,15 @@ Modificazioni allo statuto dell'Universita' degli studi di Modena.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, numero 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035); modificato con i [regi decreti 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-13;2170); [30 ottobre 1930, n. 1825](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1825); [1 ottobre 1931, n. 1336](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1336); [27 ottobre 1932, n. 2073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2073); [6 dicembre 1934, n. 2291](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2291); [1 ottobre 1936, n. 2088](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2088); [20 aprile 1939, numero 1075; con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1939-04-20;1075) [15 ottobre 1947, n. 1874](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-10-15;1874) e [30 dicembre 1947, n. 1877 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-30;1877) [23 settembre 1949, n. 817](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;817); [28 aprile 1951, n. 955](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-28;955); [19 giugno 1951, n. 709](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-19;709); [26 aprile 1954, n. 739](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-04-26;739); [1 marzo 1955, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-03-01;223); [2 agosto 1955, n. 877](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-08-02;877); [4 ottobre 1955, n. 1104](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-10-04;1104) e [10 marzo 1956, n. 431](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-03-10;431);
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulato dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -30,151 +30,119 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Gli articoli da 146 a 151 relativi alla scuola di specializzazione in medicina legale e delle assicurazioni; gli articoli da 184 a 187 relativi alla scuola di specializzazione in gerontologia e geriatria, sono abrogati e sostituiti dai seguenti:
+Dopo l'art. 141, sono aggiunti i seguenti articoli relativi alla istituzione della scuola di specializzazione in chirurgia generale.
 
-Scuola di specializzazione in medicina legale e delle assicurazioni
+Scuola di specializzazione in chirurgia generale
 
-Art. 146. - La scuola di specializzazione in medicina legale e delle assicurazioni conferisce il diploma di specialista in medicina legale e delle assicurazioni.
+Art. 142. - La scuola di specializzazione in chirurgia generale conferisce il diploma di specialista in chirurgia generale.
 
-Art. 147. - La scuola ha sede presso l'istituto di medicina legale e delle assicurazioni. Alla scuola sono ammessi i laureati in medicina e chirurgia.
+Art. 143. - La durata del corso degli studi e' di anni cinque.
 
-Art. 148. - La scuola ha la durata di tre anni. Sono ammessi dieci specializzandi per ciascun anno di corso (totale: trenta iscritti).
+Art. 144. - Gli insegnamenti, distinti in fondamentali e complementari, sono, per ciascun anno di corso, i seguenti:
 
-Art. 149. - E' fatto obbligo all'allievo di frequentare le lezioni ed un periodo di internato di almeno sei mesi per ciascun anno.
-
-Art. 150. - Gli insegnamenti impartiti nella scuola sono i seguenti:
-
-1° Anno:
+Anno 1°
 
 Insegnamenti fondamentali:
 
-1) Medicina legale generale;
+1) Anatomia topografica;
 
-2) Elementi di diritto pubblico e privato;
+2) Fisiologia;
 
-3) Tecnica e diagnostica anatomo-patologica generale e medico-legale;
+3) Patologia chirurgica;
 
-4) Traumatologia medico-legale;
+4) Igiene ospedaliera;
 
-5) Semeiotica medico-legale.
+5) Clinica chirurgica.
 
-2° Anno:
+Insegnamenti complementari:
 
-Insegnamenti fondamentali:
+1) Semeiotica chirurgica;
 
-1) Medicina legale penalistica;
+2) Anestesiologia;
 
-2) Deontologia medica;
+3) Ricerche di laboratorio.
 
-3) Neuropsichiatria medico-legale;
-
-4) Elementi di medicina criminologica e medicina penitenziaria;
-
-5) Indagini di sopraluogo;
-
-6) Identificazione personale.
-
-3° Anno:
+Anno 2°
 
 Insegnamenti fondamentali:
 
-1) Medicina legale civilistica e canonistica;
+1) Patologia generale;
 
-2) Tossicologia medico-legale;
+2) Patologia chirurgica;
 
-3) Tecniche di laboratorio medico-legale ed ematologia forense;
+3) Anatomia patologica;
 
-4) Ostetricia e ginecologia forensi;
+4) Radiologia applicata alla chirurgia;
 
-5) Elementi di legislazione del lavoro;
+5) Clinica chirurgica.
 
-6) Elementi di medicina del lavoro;
+Insegnamenti complementari:
 
-7) Medicina delle assicurazioni;
+1) Medicina operatoria.
 
-8) Medicina legale militare e pensionistica civile.
+Anno 3°
 
-Art. 151. - Alla fine di ogni anno gli iscritti sosterranno gli esami di profitto sulle singole materie di insegnamento. Chi non ha superato tutti gli esami dell'anno frequentato non puo' essere iscritto all'anno successivo.
+Insegnamenti fondamentali:
 
-Scuola di specializzazione in gerontologia e geriatria
+1) Anatomia patologica;
 
-Art. 184. - La scuola ha sede presso l'istituto di clinica medica generale e terapia medica dell'universita' e conferisce il diploma di specialista in gerontologia e geriatria.
+2) Clinica chirurgica.
 
-Art. 185. - Alla scuola, che ha la durata di tre anni, sono ammessi i laureati in medicina e chirurgia per un numero massimo complessivo di trentadue specializzandi.
+Insegnamenti complementari:
 
-L'ammissione e' per esame.
+1) Ortopedia-traumatologica;
 
-Art. 186. - Gli insegnamenti impartiti dalla scuola sono:
+2) Otorinolaringologia.
 
-1° Anno:
+Anno 4°
 
-1) Biologia della senescenza (annuale);
+Insegnamenti fondamentali:
 
-2) Fisiopatologia della senescenza (biennale I);
+1) Medicina legale delle lesioni chirurgiche;
 
-3) Semeiologia della senescenza (biennale I);
+2) Clinica chirurgica.
 
-4) Anatomia patologica (biennale);
+Insegnamenti complementari:
 
-5) Farmacologia e farmacoterapia (annuale).
+1) Odontoiatria.
 
-2° Anno:
+Anno 5°
 
-1) Fisiopatologia della senescenza (biennale II);
+Insegnamenti fondamentali:
 
-2) Semeiologia della senescenza (biennale II);
+1) Clinica chirurgica.
 
-3) Anatomia patologica (biennale II);
+Insegnamenti complementari:
 
-4) Clinica geriatrica e terapia (biennale I);
+1) Chirurgia d'urgenza.
 
-5) Chirurgia geriatrica (annuale);
-
-6) Radiologia e radioterapia (annuale);
-
-7) Neurologia (annuale).
-
-3° Anno:
-
-1) Clinica geriatrica e terapia (biennale II);
-
-2) Tecniche di riabilitazione (annuale);
-
-3) Psichiatria (annuale);
-
-4) Medicina sociale (annuale).
-
-Nel terzo anno sono previste conferenze d'aggiornamento su problemi speciali.
-
-Art. 187. - L'esame di profitto si sosterra' alla fine dei singoli corsi: gli insegnamenti biennali importano un unico esame alla fine del corso.
-
-Gli allievi del primo e del secondo anno, per essere ammessi, rispettivamente al secondo ed al terzo anno, debbono aver ottenuto tutte le firme di frequenza dei corsi e devono aver superato tutti i relativi esami.
+Art. 145. - L'allievo per essere ammesso al corso immediatamente superiore deve avere ottenuto tutte le firme di frequenza e deve avere superato tutti gli esami fondamentali del corso.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 1 giugno 1970
+Dato a Roma, addi' 5 settembre 1956
 
-SARAGAT
+GRONCHI
 
-MISASI
+ROSSI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MORO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 22 luglio 1970 Atti del Governo, registro n. 236, foglio n. 174. - IZZI
+alla Corte dei conti, addi' 18 ottobre 1956 Atti del Governo, registro n. 101, foglio n. 52. - CARLOMAGNO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, numero 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035); modificato con i [regi decreti 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-13;2170); [30 ottobre 1930, n. 1825](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1825); [1 ottobre 1931, n. 1336](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1336); [27 ottobre 1932, n. 2073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2073); [6 dicembre 1934, n. 2291](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2291); [1 ottobre 1936, n. 2088](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2088); [20 aprile 1939, numero 1075; con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1939-04-20;1075) [15 ottobre 1947, n. 1874](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-10-15;1874) e [30 dicembre 1947, n. 1877 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-30;1877) [23 settembre 1949, n. 817](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;817); [28 aprile 1951, n. 955](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-28;955); [19 giugno 1951, n. 709](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-19;709); [26 aprile 1954, n. 739](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-04-26;739); [1 marzo 1955, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-03-01;223); [2 agosto 1955, n. 877](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-08-02;877); [4 ottobre 1955, n. 1104](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-10-04;1104) e [10 marzo 1956, n. 431](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-03-10;431);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulato dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -182,80 +150,64 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli da 146 a 151 relativi alla scuola di specializzazione in medicina legale e delle assicurazioni; gli articoli da 184 a 187 relativi alla scuola di specializzazione in gerontologia e geriatria, sono abrogati e sostituiti dai seguenti:  
   
-Scuola di specializzazione in medicina legale e delle assicurazioni   
-Art. 146. - La scuola di specializzazione in medicina legale e delle assicurazioni conferisce il diploma di specialista in medicina legale e delle assicurazioni.  
-Art. 147. - La scuola ha sede presso l'istituto di medicina legale e delle assicurazioni. Alla scuola sono ammessi i laureati in medicina e chirurgia.  
-Art. 148. - La scuola ha la durata di tre anni. Sono ammessi dieci specializzandi per ciascun anno di corso (totale: trenta iscritti).  
-Art. 149. - E' fatto obbligo all'allievo di frequentare le lezioni ed un periodo di internato di almeno sei mesi per ciascun anno.  
-Art. 150. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
-1° Anno:  
-Insegnamenti fondamentali:  
-1) Medicina legale generale;  
-2) Elementi di diritto pubblico e privato;  
-3) Tecnica e diagnostica anatomo-patologica generale e medico-legale;  
-4) Traumatologia medico-legale;  
-5) Semeiotica medico-legale.  
-2° Anno:  
-Insegnamenti fondamentali:  
-1) Medicina legale penalistica;  
-2) Deontologia medica;  
-3) Neuropsichiatria medico-legale;  
-4) Elementi di medicina criminologica e medicina penitenziaria;  
-5) Indagini di sopraluogo;  
-6) Identificazione personale.  
-3° Anno:  
-Insegnamenti fondamentali:  
-1) Medicina legale civilistica e canonistica;  
-2) Tossicologia medico-legale;  
-3) Tecniche di laboratorio medico-legale ed ematologia forense;  
-4) Ostetricia e ginecologia forensi;  
-5) Elementi di legislazione del lavoro;  
-6) Elementi di medicina del lavoro;  
-7) Medicina delle assicurazioni;  
-8) Medicina legale militare e pensionistica civile.  
-Art. 151. - Alla fine di ogni anno gli iscritti sosterranno gli esami di profitto sulle singole materie di insegnamento. Chi non ha superato tutti gli esami dell'anno frequentato non puo' essere iscritto all'anno successivo.  
+Dopo l'art. 141, sono aggiunti i seguenti articoli relativi alla istituzione della scuola di specializzazione in chirurgia generale.  
   
-Scuola di specializzazione in gerontologia e geriatria  
+Scuola di specializzazione in chirurgia generale  
   
-Art. 184. - La scuola ha sede presso l'istituto di clinica medica generale e terapia medica dell'universita' e conferisce il diploma di specialista in gerontologia e geriatria.  
-Art. 185. - Alla scuola, che ha la durata di tre anni, sono ammessi i laureati in medicina e chirurgia per un numero massimo complessivo di trentadue specializzandi.  
-L'ammissione e' per esame.  
-Art. 186. - Gli insegnamenti impartiti dalla scuola sono:  
-1° Anno:  
-1) Biologia della senescenza (annuale);  
-2) Fisiopatologia della senescenza (biennale I);  
-3) Semeiologia della senescenza (biennale I);  
-4) Anatomia patologica (biennale);  
-5) Farmacologia e farmacoterapia (annuale).  
-2° Anno:  
-1) Fisiopatologia della senescenza (biennale II);  
-2) Semeiologia della senescenza (biennale II);  
-3) Anatomia patologica (biennale II);  
-4) Clinica geriatrica e terapia (biennale I);  
-5) Chirurgia geriatrica (annuale);  
-6) Radiologia e radioterapia (annuale);  
-7) Neurologia (annuale).  
-3° Anno:  
-1) Clinica geriatrica e terapia (biennale II);  
-2) Tecniche di riabilitazione (annuale);  
-3) Psichiatria (annuale);  
-4) Medicina sociale (annuale).  
-Nel terzo anno sono previste conferenze d'aggiornamento su problemi speciali.  
-Art. 187. - L'esame di profitto si sosterra' alla fine dei singoli corsi: gli insegnamenti biennali importano un unico esame alla fine del corso.  
-Gli allievi del primo e del secondo anno, per essere ammessi, rispettivamente al secondo ed al terzo anno, debbono aver ottenuto tutte le firme di frequenza dei corsi e devono aver superato tutti i relativi esami.  
+Art. 142. - La scuola di specializzazione in chirurgia generale conferisce il diploma di specialista in chirurgia generale.  
+Art. 143. - La durata del corso degli studi e' di anni cinque.  
+Art. 144. - Gli insegnamenti, distinti in fondamentali e complementari, sono, per ciascun anno di corso, i seguenti:  
+Anno 1°  
+Insegnamenti fondamentali:  
+1) Anatomia topografica;  
+2) Fisiologia;  
+3) Patologia chirurgica;  
+4) Igiene ospedaliera;  
+5) Clinica chirurgica.  
+Insegnamenti complementari:  
+1) Semeiotica chirurgica;  
+2) Anestesiologia;  
+3) Ricerche di laboratorio.  
+Anno 2°  
+Insegnamenti fondamentali:  
+1) Patologia generale;  
+2) Patologia chirurgica;  
+3) Anatomia patologica;  
+4) Radiologia applicata alla chirurgia;  
+5) Clinica chirurgica.  
+Insegnamenti complementari:  
+1) Medicina operatoria.  
+Anno 3°  
+Insegnamenti fondamentali:  
+1) Anatomia patologica;  
+2) Clinica chirurgica.  
+Insegnamenti complementari:  
+1) Ortopedia-traumatologica;  
+2) Otorinolaringologia.  
+Anno 4°  
+Insegnamenti fondamentali:  
+1) Medicina legale delle lesioni chirurgiche;  
+2) Clinica chirurgica.  
+Insegnamenti complementari:  
+1) Odontoiatria.  
+Anno 5°  
+Insegnamenti fondamentali:  
+1) Clinica chirurgica.  
+Insegnamenti complementari:  
+1) Chirurgia d'urgenza.  
+Art. 145. - L'allievo per essere ammesso al corso immediatamente superiore deve avere ottenuto tutte le firme di frequenza e deve avere superato tutti gli esami fondamentali del corso.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 1 giugno 1970
+### Dato a Roma, addi' 5 settembre 1956
 
-SARAGAT MISASI
+GRONCHI ROSSI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MORO
 
-Registrato alla Corte dei conti, addi' 22 luglio 1970
+Registrato alla Corte dei conti, addi' 18 ottobre 1956
 
-Atti del Governo, registro n. 236, foglio n. 174. - IZZI
+Atti del Governo, registro n. 101, foglio n. 52. - CARLOMAGNO

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 434
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1983 n. 414
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 434
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1983 n. 414
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Sassari.
@@ -39,21 +39,19 @@ Articolo unico
 --------------
 
   
-Nell'art. 45, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-analisi biologiche.  
+Nell'art. 45, relativo al corso di laurea in farmacia, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
+impianti dell'industria farmaceutica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 aprile 1986
+### Dato a Roma, addi' 26 aprile 1983
 
-COSSIGA
+PERTINI FALCUCCI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: DARIDA
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 17 agosto 1983
 
-Registrato alla Corte dei conti, addi' 17 luglio 1986
-
-Registro n. 57 Istruzione, foglio n. 101.
+Registro n. 59 Istruzione, foglio n. 111

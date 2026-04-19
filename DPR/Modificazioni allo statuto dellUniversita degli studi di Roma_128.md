@@ -1,55 +1,105 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 novembre 1950 n. 1313
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1980 n. 1039
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 novembre 1950 n. 1313
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1980 n. 1039
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, numero 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Roma e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Roma approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), modificato con [regi decreti 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-26;1734); [26 ottobre 1940, n. 2069](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2069); [4 maggio 1942, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-05-04;565); [24 luglio 1942, n. 949](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-24;949); [24 agosto 1942, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-08-24;1098); [24 ottobre 1942, n. 1672, con decreto luogotenenziale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo.luogotenenziale:1942-10-24;1672) [8 febbraio 1946, n. 242, con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-02-08;242) [12 aprile 1947, n. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-04-12;461); [31 dicembre 1947, n. 1758; e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-31;1758) [24 dicembre 1948, n. 1619](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-12-24;1619); [18 luglio 1949, n. 882](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-07-18;882); [20 ottobre 1949, n. 989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;989); [20 ottobre 1949, n. 991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;991); [30 ottobre 1949, n. 1152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1152); [20 ottobre 1949, n. 1178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;1178); [11 giugno 1950, n. 622](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-06-11;622);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), c successive modificazioni;  
-Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:  
+I testi degli articoli 443, 444, 445, 446, 447 e 448, relativi alla scuola di perfezionamento in scienza dell'alimentazione, che muta la denominazione in quella di scuola di specializzazione in scienza dell'alimentazione, sono sostituiti dai seguenti con lo spostamento della numerazione degli articoli successivi:   
   
-Lo statuto dell'Universita' degli studi di Roma approvato e modificato con i decreti sopraindicati, e' cosi' ulteriormente modificato:  
-Attuale art. 36. - E' sostituito dal seguente:  
-"Presso la facolta' sono costituiti i seguenti istituti scientifici:  
-1) istituto di scienze economiche;  
-2) istituto di materie giuridiche;  
-3) istituto di ragioneria;  
-4) istituto di tecnica economica;  
-5) istituto di merceologia;  
-6) istituto di matematica finanziaria;  
-7) istituto di statistica;  
-8) istituto di geografia, economica.  
-Attuale art. 73. - All'elenco degli istituti della Facolta' di medicina e chirurgia e' aggiunto n. 30. Istituto di microbiologia.  
-Attuale art. 176. - Agli insegnamenti della scuola di perfezionamento in diritto romano e diritti dell'Oriente Mediterraneo e' aggiunto quello di:  
-Diritto penale romano.  
-All'attuale art. 267 relativo alla scuola di perfezionamento in scienze etnologiche e' soppressa la parola "costitutivi" ed e' aggiunto il seguente nuovo comma:  
-"Il corso degli studi per ciascun allievo e' stabilito dal Consiglio della scuola in base ai suoi studi precedenti e al ramo in cui egli intende perfezionarsi".  
-Attuale art. 277. - E' soppresso il "corso annuale di perfezionamento in biologia delle razze umane".  
+Scuola di specializzazione in scienza dell'alimentazione   
+Art. 443. - Alla facolta' di scienze matematiche, fisiche e naturali e' annessa la scuola di specializzazione in scienza dell'alimentazione.   
+Art. 444. - L'ammissione alla scuola avviene per titoli. Sono disponibili trenta posti per ciascun anno di corso, complessivamente per i tre indirizzi.   
+Art. 445. - Il corso degli studi ha la durata di tre anni e si distingue nei seguenti tre indirizzi:   
+a) indirizzo dietetico;   
+b) indirizzo nutrizionistico;   
+c) indirizzo tecnologico.   
+Art. 446. - L'indirizzo dietetico mira ad approfondire nei medici le basi teoriche e pratiche di fondamentale importanza per la dietetica preventiva e curativa ed a stimolare altresi' la ricerca scientifica nel vasto campo della nutrizione umana.   
+A tale indirizzo possono iscriversi soltanto i laureati in medicina e chirurgia.   
+L'indirizzo nutrizionistico mira alla preparazione specialistica di laureati in settori concernenti lo studio di problemi generali e speciali dell'alimentazione negli aspetti fisiologici, biochimici, igienici, ecologici, economico-sociali, nonche' a stimolare la ricerca scientifica nei sopracitati settori.   
+A tale indirizzo sono ammessi i laureati in chimica, chimica e tecnologia farmaceutiche, in farmacia, in medicina e chirurgia, in medicina veterinaria, in scienze biologiche e scienze naturali.   
+L'indirizzo tecnologico mira alla preparazione di laureati per le attivita' direttive in settori concernenti le tecnologie alimentari in funzione dei loro riflessi nutrizionali ed igienici sul prodotto finito, nonche' a stimolare la ricerca in questo settore.   
+A tale indirizzo sono ammessi i laureati in chimica, chimica industriale, chimica e tecnologia farmaceutiche, in farmacia, in ingegneria chimica, in scienze agrarie, in scienze biologiche, in scienze delle preparazioni alimentari.   
+Art. 447. - Gli insegnamenti del primo biennio della scuola sono comuni ai tre indirizzi; gli insegnamenti speciali, che qualificano i tre indirizzi, sono svolti nel terzo anno.   
+Le materie di insegnamento sono le seguenti:   
+1° Anno (comune ai tre indirizzi):   
+1) chimica degli alimenti;   
+2) biochimica della nutrizione;   
+3) fisiologia generale della nutrizione;   
+4) istituzioni di statistica applicata ai problemi alimentari. 2° Anno (comune ai tre indirizzi):   
+5) fisiologia della nutrizione umana;   
+6) igiene alimentare ed elementi di legislazione;   
+7) istituzioni di tecnologie alimentari;   
+8) biochimica patologica della nutrizione.   
+3° Anno:   
+a) indirizzo dietetico:   
+9) alimentazione umana;   
+10) dietetica nell'eta' adulta;   
+11) dietetica nell'infanzia;   
+12) dietetica per le collettivita';   
+13) malattie dell'alimentazione e dietoterapia;   
+14) dietetica ospedaliera e organizzazione dei relativi servizi;   
+b) indirizzo nutrizionistico:   
+9) alimentazione umana;   
+10) alimentazione degli animali da allevamento e da lavoro;   
+11) ecologia e geografia dell'alimentazione;   
+12) economia e statistica applicata all'alimentazione;   
+13) tecnica dei rilevamenti alimentari;   
+14) analisi chimiche degli alimenti; additivi chimici, sofisticazioni e adulterazioni alimentari;   
+c) indirizzo tecnologico:   
+9) microbiologia e chimica delle fermentazioni nell'industria alimentare;   
+10) tecnologie industriali di preparazione, conservazione e confezionamento degli alimenti di origine animale;   
+11) tecnologie industriali di preparazione, conservazione e confezionamento degli alimenti di origine vegetale;   
+12) analisi chimiche degli alimenti, additivi chimici, sofisticazioni e adulterazioni alimentari.   
+Art. 448. - Il consiglio della scuola ha la facolta' di inserire uno o piu' insegnamenti complementari nei vari anni di corso e stabilire gli insegnamenti per i quali debbono essere svolte anche esercitazioni.   
+I corsi impartiti nella scuola possono essere integrati da conferenze su argomenti speciali.   
+La scuola conferisce il diploma di specializzazione in scienza dell'alimentazione con l'indicazione dello indirizzo seguito.   
+Per conseguire il diploma il candidato, dopo aver superato gli esami in tutte le materie di insegnamento assegnategli dal consiglio della scuola, deve presentare e discutere una dissertazione scritta su argomento riguardante la scienza dell'alimentazione nell'ambito dell'indirizzo prescelto.   
+Coloro che hanno conseguito il diploma di specializzazione per uno dei tre indirizzi, potranno essere iscritti al terzo anno di un altro indirizzo nell'ambito della disponibilita' dei posti e sempre che il titolo di studio posseduto consenta l'accesso.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 novembre 1950
+### Dato a Roma, addi' 31 ottobre 1980
 
-EINAUDI GONELLA
+PERTINI BODRATO
 
-Visto, il Guardasigilli: PICCIONI
+Visto, il Guardasigilli: SARTI
 
-Registrato alla Corte dei conti, addi' 30 ottobre 1951
+Registrato alla Corte dei conti, addi' 31 gennaio 1981
 
-Atti del Governo, registro n. 45, foglio n. 47. - FRASCA
+Registro n. 9 Istruzione, foglio n. 70

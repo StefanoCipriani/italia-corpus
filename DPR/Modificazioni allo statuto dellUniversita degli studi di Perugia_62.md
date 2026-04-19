@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 giugno 1964 n. 571
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1982 n. 664
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 giugno 1964 n. 571
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1982 n. 664
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Perugia.
@@ -10,97 +10,86 @@ Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, numero 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), e modificato con [regio decreto 2 ottobre 1940 n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933 n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Perugia e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sulla proposta del Ministro per la pubblica istruzione; Decreta:
+Sentito il parere del Consiglio universitario nazionale;
 
-Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Sulla proposta del Ministro della pubblica istruzione;
 
-Art. 10. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti quelli di:
+Decreta:
+--------
 
-12) Criminologia;
+Lo statuto dell'Universita' di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-13) Diritto fallimentare 14) Diritto penale militare 15) Diritto pubblico romano;
+Articolo unico
+--------------
 
-16) Esegesi delle fonti del diritto italiano;
-
-17) Sociologia del diritto;
-
-18) Teoria generale del diritto.
-
-Art. 29. - Agli insegnamenti complementari del corso di laurea in Filosofia sono aggiunti quelli di:
-
-16) Etnologia;
-
-17) Filosofia della scienza;
-
-18) Storia della filosofia antica.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 14 giugno 1964
-
-SEGNI
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 15 luglio 1964 Atti del Governo, registro n. 181, foglio n. 154. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, numero 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), e modificato con [regio decreto 2 ottobre 1940 n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933 n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione; Decreta:  
-Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 10. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti quelli di:  
-12) Criminologia;  
-13) Diritto fallimentare 14) Diritto penale militare 15) Diritto pubblico romano;  
-16) Esegesi delle fonti del diritto italiano;  
-17) Sociologia del diritto;  
-18) Teoria generale del diritto.  
-Art. 29. - Agli insegnamenti complementari del corso di laurea in Filosofia sono aggiunti quelli di:  
-16) Etnologia;  
-17) Filosofia della scienza;  
-18) Storia della filosofia antica.  
+Nell'art. 17, relativo al corso di laurea in scienze politiche, all'elenco degli insegnamenti complementari riguardanti il biennio di specializzazione, sono aggiunti i seguenti insegnamenti:  
+analisi del linguaggio politico;  
+contabilita' pubblica;  
+demografia storica;  
+diritto dell'economia;  
+diritto finanziario;  
+econometria;  
+economia dei Paesi socialisti;  
+economia monetaria e creditizia;  
+geografia storica;  
+informatica;  
+istituzioni giuridiche dell'Europa orientale;  
+lingua araba moderna;  
+lingua cinese;  
+matematica per le scienze economiche e sociali;  
+metodologia delle scienze sociali;  
+metodologia delle scienze storiche;  
+organizzazioni economiche internazionali;  
+psicologia sociale;  
+scienza della politica;  
+sociologia della conoscenza;  
+sociologia delle comunicazioni;  
+sociologia dell'educazione;  
+sociologia dell'organizzazione;  
+sociologia politica;  
+sociologia urbana e rurale;  
+storia della civilta' materiale;  
+storia dell'Africa a sud del Sahara;  
+storia dell'Africa e dell'Asia mediterranea;  
+storia dell'agricoltura;  
+storia dell'America del Nord;  
+storia dell'America latina;  
+storia del pensiero politico contemporaneo;  
+storia e sistemi delle relazioni fra Stato e Chiesa nell'eta' moderna e contemporanea;  
+storia urbana.  
+Nel medesimo art. 17 sono soppressi i seguenti insegnamenti:  
+contabilita' dello Stato e degli enti pubblici;  
+diritto commerciale;  
+matematica per le scienze sociali;  
+storia dei rapporti fra Stato e Chiesa.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 giugno 1964
+### Dato a Roma, addi' 15 luglio 1982
 
-SEGNI GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 15 luglio 1964
+Registrato alla Corte dei conti, addi' 9 settembre 1982
 
-Atti del Governo, registro n. 181, foglio n. 154. - VILLA
+Registro n. 105 Istruzione, foglio n. 216

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1975 n. 456
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 maggio 1976 n. 594
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1975 n. 456
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 maggio 1976 n. 594
 =============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-456. Decreto del Presidente della Repubblica 10 aprile 1975, col quale, sulla proposta del Ministro per le finanze, di concerto con il Ministro per il lavoro e la previdenza sociale, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dal comune di Civitella di Romagna (Forli) con atto in data 31 gennaio 1955, n. 3052 di repertorio, a rogito notaio Viscardo Bonoli, consistente in un suolo di mq 234, sito in detto comune, confinante con il viale Martiri partigiani, catastalmente indicato nell'atto suddetto e sul quale il Ministero del lavoro e della previdenza sociale, con le esercitazioni pratiche di un corso di qualificazione professionale, ha gia' realizzato un edificio adibito a sede dell'ufficio di collocamento di quel comune.  
+594. Decreto del Presidente della Repubblica 10 maggio 1976, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dal comune di Teggiano (Salerno), con atto 19 novembre 1974, n. 12668 di repertorio, a rogito notaio Luigi Coiro, di tutta l'area in sopraelevazione dell'edificio in cui ha sede la casa comunale e l'istituto magistrale, catastalmente indicata nell'atto suddetto, allo scopo di sopraedificarvi i locali da destinare a caserma dell'Arma dei carabinieri.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 11 settembre 1975  
-Atti di Governo, registro n. 12, foglio n. 9
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 19 agosto 1976  
+Atti di Governo, registro n. 8, foglio n. 76

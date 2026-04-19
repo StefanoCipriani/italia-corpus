@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1205
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1095
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1205
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1095
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
@@ -16,443 +16,87 @@ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regi
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modificazione dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Considerata la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali e quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
 Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 22 - all'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti i seguenti:
+Articolo unico
+--------------
 
-storia dei rapporti tra Stato e Chiesa;
-
-diritto internazionale privato e processuale;
-
-organizzazione internazionale;
-
-diritto pubblico dell'economia;
-
-diritto finanziario;
-
-diritto bancario;
-
-logica giuridica.
-
-Dopo l'art. 56, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione dell'istituto policattedra di diritto romano.
-
-Istituto di diritto romano
-
-Art. 57. - E' costituito presso la facolta' di giurisprudenza l'istituto di diritto romano.
-
-L'istituto raggruppa gli insegnamenti di:
-
-istituzioni di diritto romano;
-
-storia del diritto romano;
-
-diritto romano;
-
-diritto pubblico romano;
-
-esegesi delle fonti del diritto romano;
-
-papirologia ed epigrafia giuridica;
-
-All'istituto saranno aggregati tutti gli altri insegnamenti che verranno istituiti in futuro per altre materie romanistiche.
-
-Art. 58. - L'istituto ha il fine di promuovere e coordinare le ricerche e l'insegnamento nel campo delle discipline che fanno capo ad esso.
-
-A tale scopo disporra' di attrezzature autonome. L'istituto curera' inoltre la raccolta del materiale scientifico e provvedera' a pubblicazioni autonome.
-
-Art. 59. - Fa parte dell'istituto il personale docente e non docente di ogni ordine e grado, di ruolo e non, assegnato alle singole cattedre o direttamente all'istituto. Sono ammessi a frequentare di diritto l'istituto gli studenti della facolta' di giurisprudenza. Possono essere ammessi anche altri studenti studiosi e laureati di altre facolta' e universita', che ottengono l'autorizzazione dal direttore.
-
-Art. 60. - Direttore dell'istituto e' un professore di ruolo o fuori ruolo di una materia di cui all'art. 57, che designato dal personale docente a maggioranza assoluta, e in seconda convocazione, a maggioranza dei presenti, viene proposto dal consiglio di facolta' e nominato con decreto rettorale per un triennio accademico.
-
-Il direttore ha poteri di rappresentanza, sovraintendenza, coordinamento e disciplina ed e' coadiuvato da un consiglio di tre o cinque membri eletti tra i docenti di ruolo o incaricati e tra gli assistenti anche non di ruolo.
-
-Il consiglio presieduto dal direttore, esprime parere, verbalizzato da un segretario, sul regolamento interno dell'istituto, sul coordinamento delle materie e dei tempi e modi dei corsi - ben vero salva l'autonomia di ogni insegnamento - sulla formazione della biblioteca, sul prestito interno ed esterno del materiale librario e didattico-scientifico, sulle ammissioni di cui all'art. 59, secondo comma.
-
-Esprime parere altresi' su ogni altra questione sottopostagli dal direttore.
-
-Art. 61. - Il direttore informera' dei piu' rilevanti problemi dell'istituto, almeno una volta all'anno, agli inizi dell'anno accademico, previo opportuno avviso pubblico, il personale, gli studenti ed i cultori ammessi all'istituto invitati dal direttore.
-
-Ogni intervenuto avra' diritto alla parola.
-
-Art. 62. - Le attrezzature, i fondi e l'amministrazione dell'istituto sono unitari. Le attrezzature ed i fondi esistenti presso ciascuna cattedra e quelli che verranno ancora assegnati a singole cattedre sono ritenuti conferiti all'istituto, che provvedera' a redigerne inventario e contabilita' unici.
-
-Gli articoli da 195 a 199 sono abrogati e sostituiti dai seguenti, con lo spostamento della numerazione degli articoli successivi:
-
-Art. 195. - Sono costituiti presso la facolta' di farmacia i seguenti istituti policattedra: istituto di chimica farmaceutica e tossicologica, istituto di farmacologia sperimentale, istituto di biorganica.
-
-Tali istituti hanno lo scopo di promuovere e coordinare l'insegnamento e la ricerca nelle discipline di loro pertinenza.
-
-Art. 196. - L'istituto di chimica farmaceutica e tossicologica raggruppa le cattedre di: chimica farmaceutica e tossicologica prima, chimica farmaceutica e tossicologica seconda, chimica bromatologica e gli insegnamenti di analisi chimico-tossicologica, chimica farmaceutica applicata, esercitazioni di chimica farmaceutica e tossicologica primo corso, esercitazioni di chimica farmaceutica e tossicologica secondo corso, esercitazioni di chimica farmaceutica e tossicologica terzo corso, idrologia chimica, fitofarmacia, tecnica e legislazione farmaceutica, raggruppa altresi' quegli insegnamenti che siano effettuati da docenti aventi titolo per afferire all'istituto stesso.
-
-Art. 197. - L'istituto di farmacologia sperimentale raggruppa le cattedre di: farmacologia e farmacognosia (base), farmacologia e farmacognosia (raddoppio) e gli insegnamenti di saggi e dosaggi farmacologici, tossicologia, farmacologia, patologia generale, chemioterapia, farmacologia applicata.
-
-Art. 198. - L'istituto di biorganica raggruppa le cattedre di chimica biologica e di chimica organica.
-
-Art. 199. - Qualora l'insegnamento per incarico sara' trasformato in cattedra di ruolo quest'ultima restera' raggruppata nello stesso istituto. Norme particolari a riguardo delle afferenze agli istituti della facolta' potranno essere stabilite dalla facolta' stessa nei casi in cui ne ravvisi la opportunita'.
-
-Art. 200. - Ogni istituto deve darsi un regolamento interno ratificato dalla facolta' ed e' retto da un direttore che e' responsabile dell'amministrazione e del funzionamento dell'istituto stesso.
-
-Art. 201. - La direzione di ogni istituto e' affidata ad un professore di ruolo di una delle cattedre afferenti a quell'istituto.
-
-La facolta', sentito il parere dei professori di cui sopra, designera', scegliendo tra essi, il direttore dell'istituto che verra' nominato con decreto rettorale e per un periodo di due anni.
-
-Art. 202. - Il direttore, sentito il parere dei professori ufficiali dell'istituto, rilascia ai ricercatori e agli allievi interni che hanno frequentato l'istituto per almeno sei mesi un attestato degli studi compiuti e dei risultati raggiunti nelle ricerche.
-
-Art. 203. - Ogni istituto potra' eventualmente disporre, in conformita' con le vigenti disposizioni di legge, di fondi per la ricerca, di borse di studio provenienti da enti pubblici o privati italiani o stranieri.
-
-Gli articoli 313, 314, 315, 316, 317 relativi alla scuola di perfezionamento in diritto e procedura penale sono abrogati e sostituiti dai seguenti:
-
-Art. 313. - La durata dei corsi di studio e' di due anni e possono iscriversi i laureati in giurisprudenza.
-
-Il numero massimo degli iscritti e' di 150 per ogni anno di corso.
-
-Art. 314. - Gli insegnamenti della scuola sono i seguenti:
-
-Fondamentali:
-
-1) storia del diritto penale;
-
-2) tecnica della interpretazione della legge penale e processuale penale;
-
-3) teoria generale del reato (biennale);
-
-4) teoria generale del processo penale (biennale).
-
-Complementari:
-
-1) diritto penitenziario;
-
-2) diritto penale commerciale e bancario;
-
-3) diritto penale internazionale;
-
-4) diritto penale del lavoro;
-
-5) diritto penale militare;
-
-6) diritto penale tributario;
-
-7) diritto penale urbanistico e dell'ambiente;
-
-8) diritto penale minorile;
-
-9) diritto penale della navigazione;
-
-10) diritto penale comparato;
-
-11) procedura penale comparata;
-
-12) casistica della parte speciale del [codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398);
-
-13) casistica della procedura penale;
-
-14) diritto e procedura penale costituzionale;
-
-15) diritto dell'esecuzione penale;
-
-16) teoria dei procedimenti speciali e complementari;
-
-17) teoria e tecnica dell'istruzione penale;
-
-18) diritto di polizia;
-
-19) criminologia;
-
-20) antropologia criminale;
-
-21) sociologia giuridico-penale;
-
-22) medicina legale applicata al diritto penale;
-
-23) psicopatologia forense.
-
-Per ottenere il diploma e' necessario aver superato gli esami relativi alle materie fondamentali e ad almeno sei materie complementari.
-
-Art. 315. - La commissione per gli esami speciali e' composta da tre docenti della scuola ed e' presieduta dal docente della materia o di materia affine o dal direttore della scuola.
-
-Il diploma viene conseguito attraverso la discussione di una dissertazione scritta dinanzi ad una commissione di cinque docenti della scuola presieduta dal direttore o dal docente professore di ruolo piu' anziano nella commissione.
-
-Art. 316. - Il direttore viene nominato dal consiglio della facolta' di giurisprudenza nella persona di un professore di ruolo di diritto penale. Gli incarichi di insegnamento delle singole discipline sono conferiti dal consiglio della facolta' su proposta del direttore della scuola, con l'approvazione del senato accademico e del consiglio di amministrazione dell'Universita' di Napoli.
-
-Art. 317. - I programmi di insegnamento sono approvati all'inizio di ogni anno dal consiglio dei docenti della scuola formato dai docenti della scuola e presieduto dal direttore.
-
-Gli articoli da 561 e 569, relativi alla scuola diretta a fini speciali per ortottisti, che muta la denominazione in scuola diretta a fini speciali per ortottisti-assistenti di oftalmologia, sono abrogati e sostituiti dai seguenti con lo spostamento della numerazione degli articoli successivi.
-
-Scuola diretta a fini speciali per ortottisti-assistenti di oftalmologia
-
-Art. 561. - E' istituita presso la prima facolta' di medicina e chirurgia dell'Universita' di Napoli una scuola speciale di preparazione per ortottisti-assistenti di oftalmologia che ha sede presso la clinica oculistica di questa facolta'.
-
-Art. 562. - La scuola ha lo scopo di dare una preparazione completa, teorico-pratica, istruendo gli allievi sui problemi della motilita' oculare, dell'ambliopia, delle tecniche diagnostiche della visione binoculare, del trattamento pre e post operatorio dei pazienti strabici; dei problemi sui vizi di refrazione e della loro correzione sulle tecniche diagnostiche in oftalmologia.
-
-La durata del corso per conseguire il diploma di ortottista-assistente di oftalmologia e' di tre armi.
-
-Ne sono titolo di ammissione il possesso di un diploma, legalmente valido ai fini dell'iscrizione all'Universita' ai sensi dell'[art. 1 della legge n. 910 dell'11 dicembre 1969](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1), e la conoscenza di una lingua straniera (inglese, francese, tedesco, spagnolo).
-
-Art. 563. - Gli aspiranti all'iscrizione al primo anno di corso sono tenuti a sostenere un esame di ammissione consistente in una prova di cultura generale e in una prova per la conoscenza della lingua straniera. E' richiesto un certificato di sana e robusta costituzione, con particolare riguardo alla funzione visiva.
-
-Art. 564. - Il numero degli iscritti alla scuola e' di (da 2 a 5 per anno di corso). Qualora le domande d'iscrizione fossero in numero superiore al numero massimo previsto, il consiglio della scuola si riserva di provvedere ad una scelta tra gli idonei in base ai risultati delle prove di ammissione; gli idonei possono essere ammessi anche in soprannumero in rapporto ai posti che si rendessero vacanti nel corso del secondo e terzo anno.
-
-I ripetenti ed i fuori corso, qualora riprendano gli studi, sono riammessi in soprannumero.
-
-Art. 565. - Il direttore della scuola e' il titolare della cattedra di clinica oculistica o altro docente di disciplina affine, proposto dal titolare della cattedra di clinica oculistica, sentito il consiglio della scuola.
-
-Art. 566. - L'anno accademico ha inizio e termine nelle date stabilite dalle leggi in vigore per l'istruzione universitaria.
-
-La frequenza e' obbligatoria.
-
-Il corso comprende lezioni teoriche ed esercitazioni pratiche.
-
-Le materie di insegnamento sono:
-
-1° Anno:
-
-1) elementi di anatomia dell'apparato visivo e del S.N.C.;
-
-2) fisiologia dell'occhio, della motilita' oculare, della visione binoculare;
-
-3) ottica fisica e fisiopatologica;
-
-4) ortottica I;
-
-5) psicologia infantile.
-
-2° Anno:
-
-1) elementi di patologia oculare;
-
-2) elementi di farmacologia oculare;
-
-3) elementi di neuro-oftalmologia;
-
-4) nozioni di chirurgia ed assistenza oftalmica;
-
-5) ortottica II.
-
-3° Anno:
-
-1) tecniche semeiologiche dell'apparato visivo (es. refrazione, contattologia, adattometria, campo visivo, senso cromatico);
-
-2) tecniche semeiologiche ed elettrofisiologiche (tonometria e tonografia; ERG; EOG; EMG; ecografia;
-
-retinologia e fluoroangiografia);
-
-3) ortottica III;
-
-4) nozioni di riabilitazione, senso motorio dell'eta' infantile;
-
-5) legislazione sanitaria.
-
-Art. 567. - L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni e dall'obbligo, per gli allievi, dell'internato per l'intero periodo del corso di studi nella clinica oculistica.
-
-La frequenza viene comprovata dall'attestazione rilasciata sul libretto d'iscrizione dagli insegnanti e per l'attivita' pratica dal direttore della scuola. L'attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.
-
-Art. 568. - Alla fine di ogni anno gli allievi devono sostenere un esame sulle materie d'insegnamento. Nel caso in cui i candidati non abbiano superato gli esami prescritti, essi rimarranno nella posizione di "ripetenti".
-
-Art. 569. - Gli esami di profitto consistono in prove teoriche e pratiche.
-
-Art. 570. - Alla fine del corso gli allievi debbono sostenere un esame di diploma che consiste nella discussione di una tesi scritta su un argomento riguardante le materie d'insegnamento, assegnata dal direttore della scuola e in una prova pratica stabilita da una commissione esaminatrice, i candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola ma se al secondo anno non sia loro riconosciuta l'idoneita' saranno senz'altro esclusi da ulteriori prove.
-
-Art. 571. - Gli esami di profitto e di diploma si danno in due sessioni, la prima estiva che ha inizio subito dopo la chiusura annuale dei corsi e la seconda autunnale, nel mese che precede l'inizio del nuovo anno accademico.
-
-Art. 572. - Le commissioni per gli esami di ammissione, di profitto e di diploma sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della clinica; le commissioni per gli esami di ammissione e di profitto sono composte da tre membri;
-
-il direttore della scuola, presidente, e da due insegnanti della scuola stessa. La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente, e da quattro scelti tra gli insegnanti della scuola stessa o altri docenti.
-
-Art. 573. - Le tasse e soprattasse annuali a carico degli iscritti restano cosi' destinate:
-
-tassa annuale di iscrizione.... L. 10.000 soprattassa annuale di esami..." 5.000 tassa erariale di diploma....." 6.000 tassa annuale per l'iscrizione studenti fuori corso............" 5.000 contributi di laboratorio...." 35.000
-
-Art. 574. - Al funzionamento della suddetta scuola si provvedera' con il provento delle tasse, soprattasse e contributi dovuti dagli iscritti e con eventuali elargizioni o contributi di enti pubblici e privati.
-
-REGOLAMENTO DELL'UNIVERSITA' DEGLI STUDI DI NAPOLI
-
-Scuola a fini speciali Scuola per ortottisti-assistenti di oftalmologia Sono ammessi al terzo anno della scuola, con l'obbligo di tutti gli esami del terzo anno e della tesi, le diplomate della scuola speciale per ortottiste ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20), purche' abbiano esercitato con continuita' una attivita' professionale adeguata e documentata.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 31 ottobre 1977
-
-LEONE
-
-MALFATTI
-
-Visto, il Guardasigilli: BONIFACIO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 16 giugno 1978 Registro n. 64 Istruzione, foglio n. 274
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modificazione dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:  
-Art. 22 - all'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti i seguenti:  
-storia dei rapporti tra Stato e Chiesa;  
-diritto internazionale privato e processuale;  
-organizzazione internazionale;  
-diritto pubblico dell'economia;  
-diritto finanziario;  
-diritto bancario;  
-logica giuridica.  
-Dopo l'art. 56, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione dell'istituto policattedra di diritto romano.  
-Istituto di diritto romano  
-Art. 57. - E' costituito presso la facolta' di giurisprudenza l'istituto di diritto romano.  
-L'istituto raggruppa gli insegnamenti di:  
-istituzioni di diritto romano;  
-storia del diritto romano;  
-diritto romano;  
-diritto pubblico romano;  
-esegesi delle fonti del diritto romano;  
-papirologia ed epigrafia giuridica;  
-All'istituto saranno aggregati tutti gli altri insegnamenti che verranno istituiti in futuro per altre materie romanistiche.  
-Art. 58. - L'istituto ha il fine di promuovere e coordinare le ricerche e l'insegnamento nel campo delle discipline che fanno capo ad esso.  
-A tale scopo disporra' di attrezzature autonome. L'istituto curera' inoltre la raccolta del materiale scientifico e provvedera' a pubblicazioni autonome.  
-Art. 59. - Fa parte dell'istituto il personale docente e non docente di ogni ordine e grado, di ruolo e non, assegnato alle singole cattedre o direttamente all'istituto. Sono ammessi a frequentare di diritto l'istituto gli studenti della facolta' di giurisprudenza. Possono essere ammessi anche altri studenti studiosi e laureati di altre facolta' e universita', che ottengono l'autorizzazione dal direttore.  
-Art. 60. - Direttore dell'istituto e' un professore di ruolo o fuori ruolo di una materia di cui all'art. 57, che designato dal personale docente a maggioranza assoluta, e in seconda convocazione, a maggioranza dei presenti, viene proposto dal consiglio di facolta' e nominato con decreto rettorale per un triennio accademico.  
-Il direttore ha poteri di rappresentanza, sovraintendenza, coordinamento e disciplina ed e' coadiuvato da un consiglio di tre o cinque membri eletti tra i docenti di ruolo o incaricati e tra gli assistenti anche non di ruolo.  
-Il consiglio presieduto dal direttore, esprime parere, verbalizzato da un segretario, sul regolamento interno dell'istituto, sul coordinamento delle materie e dei tempi e modi dei corsi - ben vero salva l'autonomia di ogni insegnamento - sulla formazione della biblioteca, sul prestito interno ed esterno del materiale librario e didattico-scientifico, sulle ammissioni di cui all'art. 59, secondo comma.  
-Esprime parere altresi' su ogni altra questione sottopostagli dal direttore.  
-Art. 61. - Il direttore informera' dei piu' rilevanti problemi dell'istituto, almeno una volta all'anno, agli inizi dell'anno accademico, previo opportuno avviso pubblico, il personale, gli studenti ed i cultori ammessi all'istituto invitati dal direttore.  
-Ogni intervenuto avra' diritto alla parola.  
-Art. 62. - Le attrezzature, i fondi e l'amministrazione dell'istituto sono unitari. Le attrezzature ed i fondi esistenti presso ciascuna cattedra e quelli che verranno ancora assegnati a singole cattedre sono ritenuti conferiti all'istituto, che provvedera' a redigerne inventario e contabilita' unici.  
-Gli articoli da 195 a 199 sono abrogati e sostituiti dai seguenti, con lo spostamento della numerazione degli articoli successivi:  
-Art. 195. - Sono costituiti presso la facolta' di farmacia i seguenti istituti policattedra: istituto di chimica farmaceutica e tossicologica, istituto di farmacologia sperimentale, istituto di biorganica.  
-Tali istituti hanno lo scopo di promuovere e coordinare l'insegnamento e la ricerca nelle discipline di loro pertinenza.  
-Art. 196. - L'istituto di chimica farmaceutica e tossicologica raggruppa le cattedre di: chimica farmaceutica e tossicologica prima, chimica farmaceutica e tossicologica seconda, chimica bromatologica e gli insegnamenti di analisi chimico-tossicologica, chimica farmaceutica applicata, esercitazioni di chimica farmaceutica e tossicologica primo corso, esercitazioni di chimica farmaceutica e tossicologica secondo corso, esercitazioni di chimica farmaceutica e tossicologica terzo corso, idrologia chimica, fitofarmacia, tecnica e legislazione farmaceutica, raggruppa altresi' quegli insegnamenti che siano effettuati da docenti aventi titolo per afferire all'istituto stesso.  
-Art. 197. - L'istituto di farmacologia sperimentale raggruppa le cattedre di: farmacologia e farmacognosia (base), farmacologia e farmacognosia (raddoppio) e gli insegnamenti di saggi e dosaggi farmacologici, tossicologia, farmacologia, patologia generale, chemioterapia, farmacologia applicata.  
-Art. 198. - L'istituto di biorganica raggruppa le cattedre di chimica biologica e di chimica organica.  
-Art. 199. - Qualora l'insegnamento per incarico sara' trasformato in cattedra di ruolo quest'ultima restera' raggruppata nello stesso istituto. Norme particolari a riguardo delle afferenze agli istituti della facolta' potranno essere stabilite dalla facolta' stessa nei casi in cui ne ravvisi la opportunita'.  
-Art. 200. - Ogni istituto deve darsi un regolamento interno ratificato dalla facolta' ed e' retto da un direttore che e' responsabile dell'amministrazione e del funzionamento dell'istituto stesso.  
-Art. 201. - La direzione di ogni istituto e' affidata ad un professore di ruolo di una delle cattedre afferenti a quell'istituto.  
-La facolta', sentito il parere dei professori di cui sopra, designera', scegliendo tra essi, il direttore dell'istituto che verra' nominato con decreto rettorale e per un periodo di due anni.  
-Art. 202. - Il direttore, sentito il parere dei professori ufficiali dell'istituto, rilascia ai ricercatori e agli allievi interni che hanno frequentato l'istituto per almeno sei mesi un attestato degli studi compiuti e dei risultati raggiunti nelle ricerche.  
-Art. 203. - Ogni istituto potra' eventualmente disporre, in conformita' con le vigenti disposizioni di legge, di fondi per la ricerca, di borse di studio provenienti da enti pubblici o privati italiani o stranieri.  
-Gli articoli 313, 314, 315, 316, 317 relativi alla scuola di perfezionamento in diritto e procedura penale sono abrogati e sostituiti dai seguenti:  
-Art. 313. - La durata dei corsi di studio e' di due anni e possono iscriversi i laureati in giurisprudenza.  
-Il numero massimo degli iscritti e' di 150 per ogni anno di corso.  
-Art. 314. - Gli insegnamenti della scuola sono i seguenti:  
-Fondamentali:  
-1) storia del diritto penale;  
-2) tecnica della interpretazione della legge penale e processuale penale;  
-3) teoria generale del reato (biennale);  
-4) teoria generale del processo penale (biennale).  
-Complementari:  
-1) diritto penitenziario;  
-2) diritto penale commerciale e bancario;  
-3) diritto penale internazionale;  
-4) diritto penale del lavoro;  
-5) diritto penale militare;  
-6) diritto penale tributario;  
-7) diritto penale urbanistico e dell'ambiente;  
-8) diritto penale minorile;  
-9) diritto penale della navigazione;  
-10) diritto penale comparato;  
-11) procedura penale comparata;  
-12) casistica della parte speciale del [codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398);  
-13) casistica della procedura penale;  
-14) diritto e procedura penale costituzionale;  
-15) diritto dell'esecuzione penale;  
-16) teoria dei procedimenti speciali e complementari;  
-17) teoria e tecnica dell'istruzione penale;  
-18) diritto di polizia;  
-19) criminologia;  
-20) antropologia criminale;  
-21) sociologia giuridico-penale;  
-22) medicina legale applicata al diritto penale;  
-23) psicopatologia forense.  
-Per ottenere il diploma e' necessario aver superato gli esami relativi alle materie fondamentali e ad almeno sei materie complementari.  
-Art. 315. - La commissione per gli esami speciali e' composta da tre docenti della scuola ed e' presieduta dal docente della materia o di materia affine o dal direttore della scuola.  
-Il diploma viene conseguito attraverso la discussione di una dissertazione scritta dinanzi ad una commissione di cinque docenti della scuola presieduta dal direttore o dal docente professore di ruolo piu' anziano nella commissione.  
-Art. 316. - Il direttore viene nominato dal consiglio della facolta' di giurisprudenza nella persona di un professore di ruolo di diritto penale. Gli incarichi di insegnamento delle singole discipline sono conferiti dal consiglio della facolta' su proposta del direttore della scuola, con l'approvazione del senato accademico e del consiglio di amministrazione dell'Universita' di Napoli.  
-Art. 317. - I programmi di insegnamento sono approvati all'inizio di ogni anno dal consiglio dei docenti della scuola formato dai docenti della scuola e presieduto dal direttore.  
-Gli articoli da 561 e 569, relativi alla scuola diretta a fini speciali per ortottisti, che muta la denominazione in scuola diretta a fini speciali per ortottisti-assistenti di oftalmologia, sono abrogati e sostituiti dai seguenti con lo spostamento della numerazione degli articoli successivi.  
-Scuola diretta a fini speciali per ortottisti-assistenti di oftalmologia  
-Art. 561. - E' istituita presso la prima facolta' di medicina e chirurgia dell'Universita' di Napoli una scuola speciale di preparazione per ortottisti-assistenti di oftalmologia che ha sede presso la clinica oculistica di questa facolta'.  
-Art. 562. - La scuola ha lo scopo di dare una preparazione completa, teorico-pratica, istruendo gli allievi sui problemi della motilita' oculare, dell'ambliopia, delle tecniche diagnostiche della visione binoculare, del trattamento pre e post operatorio dei pazienti strabici; dei problemi sui vizi di refrazione e della loro correzione sulle tecniche diagnostiche in oftalmologia.  
-La durata del corso per conseguire il diploma di ortottista-assistente di oftalmologia e' di tre armi.  
-Ne sono titolo di ammissione il possesso di un diploma, legalmente valido ai fini dell'iscrizione all'Universita' ai sensi dell'[art. 1 della legge n. 910 dell'11 dicembre 1969](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1), e la conoscenza di una lingua straniera (inglese, francese, tedesco, spagnolo).  
-Art. 563. - Gli aspiranti all'iscrizione al primo anno di corso sono tenuti a sostenere un esame di ammissione consistente in una prova di cultura generale e in una prova per la conoscenza della lingua straniera. E' richiesto un certificato di sana e robusta costituzione, con particolare riguardo alla funzione visiva.  
-Art. 564. - Il numero degli iscritti alla scuola e' di (da 2 a 5 per anno di corso). Qualora le domande d'iscrizione fossero in numero superiore al numero massimo previsto, il consiglio della scuola si riserva di provvedere ad una scelta tra gli idonei in base ai risultati delle prove di ammissione; gli idonei possono essere ammessi anche in soprannumero in rapporto ai posti che si rendessero vacanti nel corso del secondo e terzo anno.  
-I ripetenti ed i fuori corso, qualora riprendano gli studi, sono riammessi in soprannumero.  
-Art. 565. - Il direttore della scuola e' il titolare della cattedra di clinica oculistica o altro docente di disciplina affine, proposto dal titolare della cattedra di clinica oculistica, sentito il consiglio della scuola.  
-Art. 566. - L'anno accademico ha inizio e termine nelle date stabilite dalle leggi in vigore per l'istruzione universitaria.  
-La frequenza e' obbligatoria.  
-Il corso comprende lezioni teoriche ed esercitazioni pratiche.  
-Le materie di insegnamento sono:  
+Dopo l'art. 946, con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i nuovi seguenti articoli relativi alla scuola per tecnici di neurofisiopatologia (scuola diretta a fini speciali).  
+Art. 947. - La scuola ha lo scopo di impartire agli allievi, con unita' di indirizzo e metodo scientifico, tutte le nozioni tecniche, teoriche e pratiche necessarie a ben esercitare la professione di tecnico di neurofisiopatologia.  
+Art. 948. - La durata degli studi della scuola per tecnici di neurofisiopatologia e' di tre anni accademici e non e' suscettibile di abbreviazione.  
+Gli allievi hanno l'obbligo della frequenza alle lezioni, ai seminari e ai tirocini pratici, secondo le modalita' stabilite dal consiglio della scuola.  
+Art. 949. - Sono ammessi alla scuola gli allievi di ambo i sessi in possesso del titolo di studio prescritto per l'ammissione all'Universita', che abbiano superato una prova di cultura generale ed una intervista attitudinale.  
+Art. 950. - Al primo anno della scuola si accede previo esame di cultura generale e attitudinale davanti ad una commissione composta dal direttore della scuola e da due docenti della scuola stessa.  
+L'esame di ammissione avra' luogo entro i primi quindici giorni del mese di ottobre di ciascun anno, in un giorno stabilito dalla seconda facolta' di medicina e chirurgia su proposta del direttore della scuola.  
+Art. 951. - Il numero massimo dei posti disponibili e' stabilito nella misura di dieci per il primo anno.  
+Art. 952. - Le materie di insegnamento sono:  
 1° Anno:  
-1) elementi di anatomia dell'apparato visivo e del S.N.C.;  
-2) fisiologia dell'occhio, della motilita' oculare, della visione binoculare;  
-3) ottica fisica e fisiopatologica;  
-4) ortottica I;  
-5) psicologia infantile.  
+1) elementi di elettrotecnica;  
+2) biofisica;  
+3) elementi di neurochimica e neurofarmacologia;  
+4) nozioni di anatomia e fisiologia umana;  
+5) anatomia del sistema nervoso e dell'apparato motore;  
+6) neurofisiologia;  
+7) tecniche neurofisiologiche.  
 2° Anno:  
-1) elementi di patologia oculare;  
-2) elementi di farmacologia oculare;  
-3) elementi di neuro-oftalmologia;  
-4) nozioni di chirurgia ed assistenza oftalmica;  
-5) ortottica II.  
+1) patologia del sistema nervoso;  
+2) nozioni di elettronica;  
+3) principi di elettroencefalografia;  
+4) poligrafia ed altre tecniche di esplorazione del sistema nervoso;  
+5) elettromiografia.  
 3° Anno:  
-1) tecniche semeiologiche dell'apparato visivo (es. refrazione, contattologia, adattometria, campo visivo, senso cromatico);  
-2) tecniche semeiologiche ed elettrofisiologiche (tonometria e tonografia; ERG; EOG; EMG; ecografia;  
-retinologia e fluoroangiografia);  
-3) ortottica III;  
-4) nozioni di riabilitazione, senso motorio dell'eta' infantile;  
-5) legislazione sanitaria.  
-Art. 567. - L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni e dall'obbligo, per gli allievi, dell'internato per l'intero periodo del corso di studi nella clinica oculistica.  
-La frequenza viene comprovata dall'attestazione rilasciata sul libretto d'iscrizione dagli insegnanti e per l'attivita' pratica dal direttore della scuola. L'attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.  
-Art. 568. - Alla fine di ogni anno gli allievi devono sostenere un esame sulle materie d'insegnamento. Nel caso in cui i candidati non abbiano superato gli esami prescritti, essi rimarranno nella posizione di "ripetenti".  
-Art. 569. - Gli esami di profitto consistono in prove teoriche e pratiche.  
-Art. 570. - Alla fine del corso gli allievi debbono sostenere un esame di diploma che consiste nella discussione di una tesi scritta su un argomento riguardante le materie d'insegnamento, assegnata dal direttore della scuola e in una prova pratica stabilita da una commissione esaminatrice, i candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola ma se al secondo anno non sia loro riconosciuta l'idoneita' saranno senz'altro esclusi da ulteriori prove.  
-Art. 571. - Gli esami di profitto e di diploma si danno in due sessioni, la prima estiva che ha inizio subito dopo la chiusura annuale dei corsi e la seconda autunnale, nel mese che precede l'inizio del nuovo anno accademico.  
-Art. 572. - Le commissioni per gli esami di ammissione, di profitto e di diploma sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della clinica; le commissioni per gli esami di ammissione e di profitto sono composte da tre membri;  
-il direttore della scuola, presidente, e da due insegnanti della scuola stessa. La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente, e da quattro scelti tra gli insegnanti della scuola stessa o altri docenti.  
-Art. 573. - Le tasse e soprattasse annuali a carico degli iscritti restano cosi' destinate:  
-tassa annuale di iscrizione.... L. 10.000 soprattassa annuale di esami..." 5.000 tassa erariale di diploma....." 6.000 tassa annuale per l'iscrizione studenti fuori corso............" 5.000 contributi di laboratorio...." 35.000  
-Art. 574. - Al funzionamento della suddetta scuola si provvedera' con il provento delle tasse, soprattasse e contributi dovuti dagli iscritti e con eventuali elargizioni o contributi di enti pubblici e privati.  
-  
-REGOLAMENTO DELL'UNIVERSITA' DEGLI STUDI DI NAPOLI  
-  
-Scuola a fini speciali Scuola per ortottisti-assistenti di oftalmologia Sono ammessi al terzo anno della scuola, con l'obbligo di tutti gli esami del terzo anno e della tesi, le diplomate della scuola speciale per ortottiste ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20), purche' abbiano esercitato con continuita' una attivita' professionale adeguata e documentata.  
+1) neurofisiopatologia ed elettroencefalografia clinica;  
+2) strumentazione elettronica;  
+3) clinica neurologica;  
+4) neuropsichiatria infantile;  
+5) neurochirurgia;  
+6) nozioni di neuropsicologia e psichiatria.  
+Art. 953. - Per essere ammessi al secondo ed al terzo anno, gli allievi dovranno aver superato tutti gli esami del primo e del secondo anno del corso rispettivo.  
+Art. 954. - La frequenza alle lezioni teoriche e alle esercitazioni pratiche e' obbligatoria.  
+Le lezioni verranno impartite agli allievi nelle aule messe a disposizione dalla commissione aule della facolta'. I programmi di insegnamento e gli orari vengono predisposti dal direttore della scuola e approvati dal consiglio della facolta' di medicina e chirurgia.  
+La sorveglianza degli iscritti, per quanto riguarda la loro attivita' pratica, spetta al direttore della scuola.  
+Il tirocinio sara' concluso dagli allievi sempre sotto la guida dei medici e dei tecnici della cattedra di neurofisiopatologia della seconda facolta' di medicina e chirurgia dell'Universita' di Napoli.  
+Per essere ammessi a sostenere gli esami di diploma gli allievi dovranno avere seguito il corso, superato gli esami in tutti gli insegnamenti prescritti e avere compiuto, con esito favorevole, tutte le esercitazioni pratiche previste.  
+Art. 955. - Le commissioni per gli esami di profitto sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Le commissioni sono composte da tre membri: dal professore ufficiale della materia, dal professore della materia affine e da un docente cultore della materia.  
+Ogni commissario ha a disposizione dieci punti.  
+Art. 956. - L'esame di diploma consiste nella discussione di una tesi scritta su un tema preventivamente assegnato dal direttore della scuola e nella prova pratica stabilita da una commissione esaminatrice. L'esame di diploma viene sostenuto da una commissione di cinque membri scelti fra i docenti della scuola nominati dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Ogni commissario ha a disposizione dieci punti. I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza della scuola, ma se al secondo esame non sia loro riconosciuta l'idoneita' saranno senz'altro esclusi da ulteriore prova. Agli allievi che avranno superato l'esame finale viene rilasciato il diploma di tecnico di neurofisiopatologia.  
+Art. 957. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa.  
+In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
+La scuola e' sotto la vigilanza della suddetta facolta'.  
+Gli insegnanti della scuola sono proposti dal direttore della stessa, approvati dalla facolta' di medicina e chirurgia e nominati dal rettore.  
+Essi possono essere scelti tra i professori ufficiali, tra i liberi docenti, tra gli assistenti della facolta' di medicina e chirurgia e di facolta' dell'ateneo o tra persone di riconosciuta competenza anche al di fuori dell'ambito universitario.  
+Art. 958. - Gli iscritti alla scuola sono tenuti al versamento annuo delle tasse, soprattasse e contributi nella misura prevista dalla legge vigente per gli studenti della facolta' di medicina e chirurgia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1977
+### Dato a Roma, addi' 31 ottobre 1981
 
-LEONE MALFATTI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 16 giugno 1978
+Registrato alla Corte dei conti, addi' 10 marzo 1982
 
-Registro n. 64 Istruzione, foglio n. 274
+Registro n. 38 Istruzione, foglio n. 266

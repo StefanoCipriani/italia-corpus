@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1957 n. 1169
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1980 n. 954
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1957 n. 1169
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1980 n. 954
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successivi;
+Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,214 +18,76 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduta la [legge 26 luglio 1957, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-07-26;741);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla
+-----
 
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-L'art. 16 e' cosi' modificato:
-
-"La Facolta' di lettere e filosofia conferisce la laurea in lettere, la laurea in filosofia e la laurea in lingue e letterature straniere moderne ad indirizzo europeo".
-
-Dopo l'art. 18 e' aggiunto il seguente nuovo articolo, relativo alla istituzione del corso di laurea in lingue e letterature straniere moderne (indirizzo europeo), con il conseguente spostamento della numerazione degli articoli successivi.
-
-Corso di laurea in lingue e letterature straniere moderne
-
-(indirizzo europeo)
-
-Art. 19. - La durata del corso degli studi per la laurea in lingue e letterature straniere moderne ad indirizzo europeo e' di quattro anni. E' titolo di ammissione il diploma di maturita' classica.
-
-Insegnamenti fondamentali:
-
-1) Letteratura italiana;
-
-2) Letteratura latina;
-
-3) Glottologia;
-
-4) Una lingua e letteratura straniera moderna;
-
-5) Una seconda lingua e letteratura straniera moderna;
-
-6) Filologia romanza (o germanica, o slava, o ugrofinnica)
-
-7) Storia medioevale;
-
-8) Storia moderna;
-
-9) Storia dell'arte medioevale e moderna;
-
-10) Geografia;
-
-Insegnamenti complementari (quando non siano scelti come fondamentali ai su indicati numeri 4, 5 e 6):
-
-1) Lingua e letteratura francese;
-
-2) Lingua e letteratura spagnola;
-
-3) Lingua e letteratura romena;
-
-4) Lingua e letteratura inglese;
-
-5) Lingua e letteratura tedesca;
-
-6) Lingue e letterature scandinave;
-
-7) Lingua e letteratura russa;
-
-8) Lingua e letteratura polacca;
-
-9) Lingua e letteratura ungherese;
-
-10) Lingua e letteratura neo-greca;
-
-11) Filologia romanza;
-
-12) Filologia germanica;
-
-13) Filologia slava;
-
-14) Storia della lingua italiana;
-
-15) Storia della musica;
-
-16) Letteratura greca;
-
-17) Lingua e letteratura latina medioevale;
-
-18) Filologia bizantina;
-
-19) Storia romana;
-
-20) Storia greca;
-
-21) Storia della filosofia;
-
-22) Filosofia del linguaggio.
-
-Lo studente dovra' seguire i corsi e sostenere gli esami in tutti gli insegnamenti fondamentali ed in tre altri insegnamenti da lui scelti fra i complementari. Uno degli insegnamenti complementari potra' essere sostituito dallo studente con una disciplina di altri corsi di studi della stessa o di diversa Facolta'.
-
-L'insegnamento della lingua e letteratura straniera moderna, alla quale lo studente intende principalmente dedicarsi, dovra' essere seguito per tutti i quattro anni, alla fine di ciascuno dei quali egli sara' sottoposto a prove scritte, di anno in anno gradualmente progressive.
-
-Dovranno poi essere seguiti per due anni l'insegnamento della filologia, a cui quella stessa prima lingua si ricollega e l'insegnamento della seconda lingua e letteratura straniera moderna prescelta. Due altri insegnamenti fondamentali dovranno pure essere seguiti per un biennio. Lo studente potra' poi seguire per un biennio anche un altro insegnamento; ed in tal caso potra' ridurre da tre a due gli insegnamenti complementari di sua scelta.
-
-Gli esami di letteratura italiana e di letteratura latina comprendono una prova scritta preliminare.
-
-Nella Facolta' dove gli insegnamenti di storia medioevale e di storia moderna sono riuniti in un'unica cattedra, i corsi rispettivi debbono essere tenuti alternativamente.
-
-Il preside, sentita, ove ritenga, la Facolta', deve controllare i piani di studio presentati dagli studenti ed approvarli prima che siano resi definitivi.
-
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed in tutti gli altri insegnamenti compresi nel piano di studi approvato dal preside.
-
-Nel diploma di laurea dovra' farsi esplicita menzione della lingua e letteratura, a cui il laureato si e' specialmente dedicato.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 26 ottobre 1957
-
-GRONCHI
-
-MORO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 12 dicembre 1957. Atti del Governo, registro n. 109, foglio n. 102. - RELLEVA
+proposta del Ministro della pubblica istruzione; Decreta:
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Veduta la [legge 26 luglio 1957, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-07-26;741);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-L'art. 16 e' cosi' modificato:  
-"La Facolta' di lettere e filosofia conferisce la laurea in lettere, la laurea in filosofia e la laurea in lingue e letterature straniere moderne ad indirizzo europeo".  
-Dopo l'art. 18 e' aggiunto il seguente nuovo articolo, relativo alla istituzione del corso di laurea in lingue e letterature straniere moderne (indirizzo europeo), con il conseguente spostamento della numerazione degli articoli successivi.  
-  
-Corso di laurea in lingue e letterature straniere moderne  
-(indirizzo europeo)  
-  
-Art. 19. - La durata del corso degli studi per la laurea in lingue e letterature straniere moderne ad indirizzo europeo e' di quattro anni. E' titolo di ammissione il diploma di maturita' classica.  
-Insegnamenti fondamentali:  
-1) Letteratura italiana;  
-2) Letteratura latina;  
-3) Glottologia;  
-4) Una lingua e letteratura straniera moderna;  
-5) Una seconda lingua e letteratura straniera moderna;  
-6) Filologia romanza (o germanica, o slava, o ugrofinnica)  
-7) Storia medioevale;  
-8) Storia moderna;  
-9) Storia dell'arte medioevale e moderna;  
-10) Geografia;  
-Insegnamenti complementari (quando non siano scelti come fondamentali ai su indicati numeri 4, 5 e 6):  
-1) Lingua e letteratura francese;  
-2) Lingua e letteratura spagnola;  
-3) Lingua e letteratura romena;  
-4) Lingua e letteratura inglese;  
-5) Lingua e letteratura tedesca;  
-6) Lingue e letterature scandinave;  
-7) Lingua e letteratura russa;  
-8) Lingua e letteratura polacca;  
-9) Lingua e letteratura ungherese;  
-10) Lingua e letteratura neo-greca;  
-11) Filologia romanza;  
-12) Filologia germanica;  
-13) Filologia slava;  
-14) Storia della lingua italiana;  
-15) Storia della musica;  
-16) Letteratura greca;  
-17) Lingua e letteratura latina medioevale;  
-18) Filologia bizantina;  
-19) Storia romana;  
-20) Storia greca;  
-21) Storia della filosofia;  
-22) Filosofia del linguaggio.  
-Lo studente dovra' seguire i corsi e sostenere gli esami in tutti gli insegnamenti fondamentali ed in tre altri insegnamenti da lui scelti fra i complementari. Uno degli insegnamenti complementari potra' essere sostituito dallo studente con una disciplina di altri corsi di studi della stessa o di diversa Facolta'.  
-L'insegnamento della lingua e letteratura straniera moderna, alla quale lo studente intende principalmente dedicarsi, dovra' essere seguito per tutti i quattro anni, alla fine di ciascuno dei quali egli sara' sottoposto a prove scritte, di anno in anno gradualmente progressive.  
-Dovranno poi essere seguiti per due anni l'insegnamento della filologia, a cui quella stessa prima lingua si ricollega e l'insegnamento della seconda lingua e letteratura straniera moderna prescelta. Due altri insegnamenti fondamentali dovranno pure essere seguiti per un biennio. Lo studente potra' poi seguire per un biennio anche un altro insegnamento; ed in tal caso potra' ridurre da tre a due gli insegnamenti complementari di sua scelta.  
-Gli esami di letteratura italiana e di letteratura latina comprendono una prova scritta preliminare.  
-Nella Facolta' dove gli insegnamenti di storia medioevale e di storia moderna sono riuniti in un'unica cattedra, i corsi rispettivi debbono essere tenuti alternativamente.  
-Il preside, sentita, ove ritenga, la Facolta', deve controllare i piani di studio presentati dagli studenti ed approvarli prima che siano resi definitivi.  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed in tutti gli altri insegnamenti compresi nel piano di studi approvato dal preside.  
-Nel diploma di laurea dovra' farsi esplicita menzione della lingua e letteratura, a cui il laureato si e' specialmente dedicato.  
-  
+Lo statuto dell'Universita' di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 148 - all'elenco delle scuole di specializzazione in medicina e chirurgia e' aggiunta la scuola in microchirurgia e chirurgia sperimentale.  
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Art. 2
+------
 
-### Dato a Roma, addi' 26 ottobre 1957
+  
+Dopo l'art. 264, e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in microchirurgia e chirurgia sperimentale.  
+Microchirurgia e chirurgia sperimentale  
+Art. 265. - La scuola di specializzazione in microchirurgia e chirurgia sperimentale ha la durata di tre anni e conferisce il diploma di specialista in tale materia. Essa ha lo scopo di impartire un insegnamento specialistico sulle tecniche della chirurgia sperimentale e della microchirurgia applicata alla chirurgia generale, di curare l'approfondimento dottrinario sugli argomenti della chirurgia clinica che non sono completamente risolti nell'applicazione pratica e di fornire una preparazione scientifico e tecnico-pratica su metodiche terapeutiche di avanguardia non ancora di comune impiego nel trattamento delle malattie chirurgiche.  
+Art. 266 - Alla scuola possono essere ammessi i laureati in medicina e chirurgia per un numero complessivo di trenta iscritti la selezione dei candidati avviene per mezzo di un concorso per titoli ed esami da espletarsi entro il mese di dicembre. In nessun caso e' consentita i abbreviazione di durata del corso E' obbligatoria la frequenza alle lezioni, esercitazioni pratiche o didattiche realizzate nell'ambito della scuola di specializzazione. Gli iscritti devono inoltre effettuare esercitazioni pratiche nei reparti per non meno di nove mesi all'anno negli ambienti di diagnosi e cura e nel laboratorio, con l'orario stabilito per gli assistenti.  
+Art. 267. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+anatomia comparata e fisiologia applicata dei mammiferi superiori, con particolare riferimento agli animali da esperimento;  
+l'anestesia e la rianimazione nell'animale da esperimento;  
+gli organi interni artificiali: il rene;  
+problemi ancora insoluti nella chirurgia del tubo digerente;  
+problemi ancora insoluti nella chirurgia delle ghiandole endocrine;  
+fondamenti di immunologia chirurgica;  
+problematica generale dei trapianti di organo;  
+attrezzatura, strumenti e tecniche generali in microchirurgia. 2° Anno:  
+stabulazione, alimentazione, tecniche di prelievo di campione dell'animale da esperimento;  
+fisiopatologia dello shock traumatico, settico, ipovolemico;  
+gli organi interni artificiali: il polmone;  
+problemi ancora insoluti nella chirurgia del pancreas;  
+chirurgia sperimentale del fegato e del circolo portale;  
+tecniche di laboratorio in uso nella immunologia chirurgica;  
+l'omotrapianto di rene nella clinica e nella sperimentazione;  
+microangiochirurgia.  
+3° Anno:  
+fisiopatologia del digiuno; il trattamento di nutrizione parenterale controllata;  
+gli organi interni artificiali: il cuore ed il fegato;  
+tecniche di conservazione di organi isolati a scopo di trapianto;  
+problemi ancora insoluti nella chirurgia delle vie biliari;  
+l'omotrapianto di fegato nella clinica e nella sperimentazione; aspetti medico-legali del prelievo di organi da cadavere;  
+il trattamento post-operatorio del paziente portatore di trapianto;  
+microneurochirurgia.  
+I corsi sono corredati da esercitazioni pratiche ed integrati da seminari su argomenti specifici tenuti da esperti italiani e stranieri.  
+Art. 268. - Al termine di ogni anno di corso gli iscritti devono sostenere gli esami di profitto sugli insegnamenti previsti dai piani di studio; il superamento di tali esami consente l'ammissione all'anno successivo. L'esame finale di diploma consiste nella stesura e discussione di una tesi scritta in cui sono esposti i risultati personali ottenuti nell'attivita' sia di indole clinica che sperimentale.  
+Art. 269. - La direzione della scuola e' conferita dalla facolta' secondo le norme generali che regolano la direzione della scuola di perfezionamento. Gli insegnanti della scuola sono nominati dal rettore dell'Universita', su proposta del consiglio della facolta' di medicina e chirurgia su proposta del direttore della scuola. Le commissioni sono composte di tre membri: dal direttore della scuola, da un professore ufficiale di materia affine o da un professore incaricato stabilizzato della materia e da un libero docente cultore di chirurgia sperimentale e microchirurgia. Ogni commissario ha a disposizione dieci punti la commissione per l'esame di diploma e' composta da cinque membri scelti fra i docenti della scuola nominati dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Ogni commissario ha a disposizione dieci punti.  
+Art. 270. - Alle spese occorrenti per il funzionamento della scuola si provvede con contributi eventualmente concessi da Ministeri, dalle regioni, da enti pubblici o privati e dalle seguenti tasse, soprattasse e contributi degli iscritti:  
+  
+tassa di immatricolazione (da versare una sola volta). . . . L. 8.000 tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 18.000 soprattassa annuale di esame . . . . . . . . . . . . . . . . L. 7.000 contributi vari . . . . . . . . . . . . . . . . . . . . . . L. 24.000 contributo scuola. . . . . . . . . . . . . . . . . . . . . L. 241.000   
 
-GRONCHI MORO
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Visto, il Guardasigilli: GONELLA
+### Dato a Roma, addi' 30 ottobre 1980
 
-Registrato alla Corte dei conti, addi' 12 dicembre 1957.
+PERTINI BODRATO
 
-Atti del Governo, registro n. 109, foglio n. 102. - RELLEVA
+Visto, il Guardasigilli: SARTI
+
+Registrati alla Corte dei conti, addi' 30 dicembre 1980
+
+Registro n. 122 Istruzione, foglio n. 33

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 gennaio 1966 n. 33
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 746
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 gennaio 1966 n. 33
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 746
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
@@ -10,101 +10,49 @@ Modificazioni allo statuto dell'Universita' degli studi di Messina.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e modificato con [regio decreto 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090) e modificato con regio decreto 26 ottobre 1940, in 1905, e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Dopo l'art. 25 e con il conseguente spostamento della successiva numerazione e' aggiunto il seguente nuovo articolo, relativo alla istituzione della Scuola di statistica annessa alla Facolta' di economia e commercio.   
+Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-SCUOLA DI STATISTICA   
-  
-Art. 26. - E' istituita presso la Facolta' di economia e commercio, una Scuola di statistica, diretta al conseguimento del diploma in statistica.   
-Essa ha la durata di anni due. E' titolo di ammissione il diploma di maturita' classica, di maturita' scientifica, di abilitazione per i provenienti dagli Istituti tecnici commerciali, industriali, agrari, nautici e per geometri.   
-Sono insegnamenti fondamentali:   
-1) Elementi di matematica;   
-2) Statistica;   
-3) Statistica economica - corso elementare;   
-4) Statistica giudiziaria (semestrale);   
-5) Statistica sociale (semestrale);   
-6) Antropometria (semestrale);   
-7) Statistica sanitaria (semestrale);   
-8) Sociologia generale e sociologia coloniale;   
-9) Demografia;   
-10) Geografia politica ed economica.   
-Sono insegnamenti complementari:   
-1) Economia politica - corso elementare;   
-2) Biometria;   
-3) Antropologia;   
-4) Nozioni elementari di diritto privato e pubblico Gli insegnamenti semestrali di "Statistica giudiziaria" e "Statistica sociale" e quelli, pure semestrali, di "Antropometria" e "Statistica sanitaria" comportano rispettivamente esami unici.   
-L'insegnamento biennale di "Statistica economica " comporta un esame alla fine di ogni anno.   
-Gli insegnamenti complementari possono essere scelti dallo studente anche fra le discipline impartite in altre Facolta' dell'Ateneo, previa approvazione del preside della Facolta' dalla quale e' rilasciato il diploma in statistica.   
-Per essere ammesso all'esame di diploma lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e almeno in due complementari.   
-  
-Art. 39. - Agli insegnamenti complementari del corso di laurea in Materie letterarie sono aggiunti quelli di: "Letteratura latina cristiana, Storia contemporanea, Storia della critica d'arte".   
-  
-Art. 40. - Agli insegnamenti complementari del corso di laurea in Pedagogia e' aggiunto quello di: "Storia contemporanea".   
-  
-Art. 41. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere e' aggiunto quello di: "Letteratura latina cristiana".   
-  
-Art. 48. - Nell'elenco degli Istituti della Facolta' di Medicina e chirurgia e' aggiunto "l'Istituto di Parassitologia medica".   
-  
-Art. 51. - Nell'elenco degli Istituti della Facolta' di Scienze matematiche, fisiche e naturali sono aggiunti quelli di: "17) Istituto di Fisica teorica; 18) Istituto di Struttura della materia".   
-  
-Art. 52, relativo alle propedeuticita' del corso di laurea in Fisica il sesto comma e' abrogato e sostituito dal seguente: "I corsi di Fisica generale I e II, Analisi matematica I e II, constano di due corsi distinti, l'uno propedeutico all'altro e con esami distinti".   
-  
-Art. 53. - Nell'elenco degli insegnamenti complementari del corso di laurea in Fisica, l'insegnamento di "Teoria quantitativa dei corpi" muta denominazione in quella di "Teoria quantistica dei campi".   
-  
-Art. 54, relativo alle modalita' di esame del corso di laurea in Chimica e' aggiunto dopo il sesto comma il seguente: "II corso biennale di Fisica sperimentale comporta due esami annuali distinti".   
-  
-Art. 55. - Agli insegnamenti complementari del corso di laurea in scienze naturali e' aggiunto quello di "Parassitologia". Dopo l'elenco degli insegnamenti complementari del predetto corso di laurea vengono aggiunti i seguenti nuovi commi con l'abrogazione di quelli gia' esistenti:   
-"Gli insegnamenti biennali di Botanica, Zoologia, Fisiologia generale comportano esami distinti al termine dei singoli corsi; i primi due insegnamenti riguardano rispettivamente la parte generale e la parte sistematica.   
-Durante il terzo e il quarto anno lo studente deve frequentare due laboratori, di cui uno biennale, a scelta tra i seguenti: Botanica, Zoologia, Fisiologia generale, Chimica generale e inorganica, Chimica organica, Geologia, Mineralogia, Geografia.   
-Lo studente non puo' sostenere gli esami di Mineralogia e di Chimica organica senza aver superato quelli di Fisica e di Chimica generale ed inorganica; gli esami di Geologia e di Geografia senza aver superato quello di Mineralogia; gli esami di Anatomia comparata senza aver superato entrambi quelli di Zoologia; gli esami di Fisiologia generale senza aver superato quelli di Fisica, di Chimica generale ed inorganica, di Chimica organica, di Anatomia umana, nonche' entrambi gli esami di Zoologia e di Botanica.   
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti tra i complementari.  
-Lo studente deve altresi' avere sostenuto un colloquio di cultura generale vertente sugli argomenti degli insegnamenti fondamentali del gruppo biologico e del gruppo abiologico, colloquio che deve aver luogo in un giorno precedente a quello fissato per le lauree.   
-Lo studente fornito di altra laurea, che chiede l'iscrizione al corso di laurea in Scienze naturali, deve ripetere la frequenza e l'esame di ogni insegnamento fondamentale che sia stato sostenuto come complementare nella laurea gia' conseguita, nonche' sostenere gli esami di almeno altri due insegnamenti complementari non frequentate nel precedente corso di laurea.   
-Egli inoltre deve obbligatoriamente frequentare i laboratori sopra prescritti; se in possesso della laurea in Scienze biologiche i laboratori devono essere ad indirizzo geomineralogico".   
-  
-Art. 56. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti quelli di:   
-22) Biochimica applicata;   
-23) Ecologia ed etologia animale;   
-24) Endocrinologia;   
-25) Neurofisiologia;   
-26) Parassitologia;   
-27) Radiobiologia.   
-Dopo l'elenco degli insegnamenti complementari del predetto corso di laurea vengono aggiunti i seguenti nuovi commi con l'abrogazione di quelli gia' esistenti:   
-"Gli insegnamenti biennali di Botanica, Zoologia, Fisiologia generale comportano esami distinti al termine dei singoli corsi; i primi due insegnamenti riguardano rispettivamente la parte generale e la parte sistematica.   
-Durante il terzo e il quarto anno lo studente deve frequentare due laboratori, di cui uno biennale, a scelta tra i seguenti: Botanica, Zoologia, Istologia ed Embriologia, Chimica generale ed inorganica, Chimica organica, Igiene, Fisiologia generale, Microbiologia.   
-Lo studente non puo' sostenere l'esame di Chimica organica senza avere superato quello di Chimica generale ed inorganica, ne' l'esame di Chimica biologica senza aver prima superato quello di Chimica organica, ne' l'esame di Anatomia comparata se prima non ha superato quello di Istologia ed Embriologia ed entrambi gli esami di Zoologia, ne' l'esame di Fisiologia generale senza aver superato quello di Fisica, Anatomia umana, Anatomia comparata, Chimica biologica, nonche' entrambi gli esami di Botanica. Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti fra i complementari.   
-Lo studente deve altresi' avere sostenuto un colloquio di cultura generale vertente sugli argomenti degli insegnamenti fondamentali che deve aver luogo in un giorno precedente a quello fissato per le lauree.   
-Lo studente fornito di altra laurea, che chiede l'iscrizione al corso di laurea in Scienze biologiche, deve ripetere la frequenza e l'esame di ogni materia fondamentale che sia stata sostenuta come complementare nella laurea gia' conseguita, nonche' sostenere gli esami di almeno altri due insegnamenti complementari non frequentati nel precedente corso di laurea. Egli inoltre deve obbligatoriamente frequentare i laboratori sopra prescritti; se in possesso della laurea in Scienze naturali i laboratori devono essere diversi da quelli frequentati precedentemente".   
-  
-Art. 59, relativo alle propedeuticita' del corso di laurea in Fisica e' abrogato con il conseguente spostamento della successiva numerazione.   
-  
-Art. 60. - Il primo comma e' abrogato e sostituito dal seguente "Lo studente del corso di laurea in Chimica deve osservare, negli esami e nella frequenza del laboratori l'ordine di precedenza sotto indicato:   
-Chimica generale ed inorganica 1ª oppure " Esercitazioni di preparazioni chimiche" per la frequenza alle "Esercitazioni di analisi chimica qualitativa"".   
+Art. 28. - All'elenco degli insegnamenti complementari del corso di laurea in lettere vengono aggiunti i seguenti:  
+Storia del teatro;  
+Storia della critica letteraria;  
+Storia del cristianesimo.  
+Art. 33. - All'elenco degli insegnamenti complementari del corso di laurea in lingua e letterature straniere moderne (indirizzo europeo) sono aggiunti i seguenti:  
+Storia del teatro;  
+Storia della critica letteraria;  
+Storia del cristianesimo.  
+Art. 41. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere vengono aggiunti i seguenti:  
+Storia della lingua inglese;  
+Storia della lingua tedesca;  
+Lingue e letterature scandinave.  
+Art. 51, relativo all'elenco degli istituti annessi alla facolta' di scienze matematiche, fisiche e naturali e' modificato nel senso che al punto a) dopo il seminario chimico viene aggiunto il "Seminario fisico".  
+Art. 52, relativo alle norme riguardanti il seminario classico e' integrato con il seguente comma:  
+"Il seminario fisico della facolta' di scienze ha lo scopo di diffondere la conoscenza della fisica, di promuovere studi e ricerche nel campo della fisica pura ed applicata e di impartire ad allievi particolarmente distintisi nello studio e nella ricerca una preparazione supplementare atta alla completa valorizzazione della loro capacita'. L'attivita' del seminario consiste in corsi di perfezionamento e di aggiornamento, esercitazione, conferenze, discussioni, viaggi di istruzione e in quanto altro possa servire allo scopo indicato. Il seminario si avvale delle attrezzature didattiche e della biblioteca dell'istituto di fisica. Al seminario fisico appartengono i professori ufficiali di fisica della facolta' di scienze, i quali annualmente propongono al rettore la nomina di un consiglio di quattro membri ed un direttore. Il consiglio cura la pubblicazione dei testi di corsi di lezioni e di conferenze di particolare interesse, e presenta al rettore una relazione annua sulla attivita' svolta. L'iscrizione al seminario e' consigliata per gli studenti laureandi, in corso o fuori corso, e per i laureati.  
+Agli iscritti puo' essere richiesto il versamento di contributi alle spese di pubblicazione dei testi, contributi che vengono stabiliti dal consiglio di amministrazione, su proposta del senato accademico udito il consiglio del seminario. Agli iscritti al seminario viene rilasciato un attestato degli studi compiuti e del profitto dimostrato.  
   
 
-Il presente decreto munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 gennaio 1966
+### Dato a Roma, addi' 22 settembre 1972
 
-SARAGAT GUI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 9 febbraio 1966
+Registrato alla Corte dei conti, addi' 30 novembre 1972
 
-Atti del Governo, registro n. 201, foglio n. 44. - VILLA
+Atti del Governo, registro n. 253, foglio n. 97. - CARUSO

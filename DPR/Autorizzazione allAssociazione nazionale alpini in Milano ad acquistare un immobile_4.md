@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1981 n. 290
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 176
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1981 n. 290
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 176
+===============================================================
 
 Autorizzazione all'Associazione nazionale alpini, in Milano, ad acquistare un immobile.
 ---------------------------------------------------------------------------------------
@@ -10,10 +10,10 @@ Autorizzazione all'Associazione nazionale alpini, in Milano, ad acquistare un im
 Art. 1
 ------
 
-N.
+n.
 
-290. Decreto del Presidente della Repubblica 21 gennaio 1981, col quale, sulla proposta del Ministro della difesa, l'Associazione nazionale alpini, in Milano, viene autorizzata ad acquistare, al prezzo di L. 1.000.000, un terreno in comune di Monghidoro (Bologna), destinato dal piano di fabbricazione ad attrezzature sociali, distinto nel nuovo catasto terreni al foglio n. 18, mappale 593, di metri quadrati 2005, e mappale 623, di metri quadrati 183 (parte), di proprieta' dei signori Gabriella, Gianfranco, Giuseppe e Giovanni Giorgi, nonche' della signora Lea Leognani vedova Giorgi, come da contratto preliminare di compravendita 27 marzo 1979, da utilizzare per la costruzione di una "baita per alpini" da assegnare come sede per il gruppo alpini di quella zona, dipendente dalla sezione di Bologna dell'Associazione stessa.  
+176. Decreto del Presidente della Repubblica 10 febbraio 1986, col quale, sulla proposta del Ministro della difesa, l'Associazione nazionale alpini, in Milano, viene autorizzata ad acquistare, al prezzo di L. 8.500.000, un fabbricato rurale sito in Vallemosso (Vercelli), frazione Crocemosso, censito al catasto terreni alla partita n. 2159, foglio n. 7, particella n. 540, di proprieta' dei signori Gabrio Veronese e Anna Maria Montesin da adibire a sede del locale gruppo della associazione.   
   
-Visto, il Guardasigilli: SARTI  
-Registrato alla Corte dei conti, addi' 13 maggio 1981  
-Registro n. 16 Difesa, foglio n. 257
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 22 aprile 1986   
+Registro n. 12 Difesa, foglio n. 45

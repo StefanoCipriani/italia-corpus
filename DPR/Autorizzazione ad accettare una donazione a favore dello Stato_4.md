@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1978 n. 612
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 608
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1978 n. 612
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 608
 =============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
@@ -10,10 +10,10 @@ Autorizzazione ad accettare una donazione a favore dello Stato.
 Art. 1
 ------
 
-N.
+n.
 
-612. Decreto del Presidente della Repubblica 11 aprile 1978, col quale, sulla proposta del Ministro delle finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dal comune di Nuoro con atto 31 gennaio 1972, n. 97535 di repertorio, a rogito notaio Bartolomeo Serra, delle aree di sedime e di rispetto, relative al palazzo di giustizia di Nuoro, costruito a cura e spese dello Stato.  
+608. Decreto del Presidente della Repubblica 17 maggio 1986, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato della donazione, consistente in un dipinto dell'autore Giacomo Balla raffigurante la "Famiglia Carelli" e in due bronzetti su base di marmo scolpiti dallo scultore S. Bueni raffiguranti l'uno "Costantino Gregorio Carelli" e l'altro la "Signora Eleuteria Mileti", i quali rivestono un interesse artistico, da destinare al Museo nazionale di Capodimonte, in Napoli, disposta dalla sig.ra Vera Carelli con atto 9 maggio 1977, n. 81455 di repertorio, a rogito del dott. proc. Alberto Colasanti, notaio in Napoli.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 7 luglio 1978  
-Registro n. 28 Finanze, foglio n. 50
+Visto, il Guardasigilli: ROGNONI  
+Registrato alla Corte dei conti, addi' 23 settembre 1986  
+Registro n. 24 Beni Culturali, foglio n. 246

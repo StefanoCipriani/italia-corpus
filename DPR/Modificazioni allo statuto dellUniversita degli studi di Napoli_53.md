@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 ottobre 1957 n. 998
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 agosto 1971 n. 1356
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 ottobre 1957 n. 998
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 agosto 1971 n. 1356
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, numero 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successivi;
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,183 +20,270 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta intese ad ottenere l'istituzione del corso di laurea in sociologia presso la facolta' di lettere e filosofia;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione Sulla proposta del Ministro per la pubblica istruzione;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Presso la facolta' di lettere e filosofia dell'Universita' degli studi di Napoli e' istituito il corso di laurea in sociologia. Tale nuovo corso di laurea comincera' a funzionare a decorrere dall'anno accademico 1971-72 con il primo anno di corso. Negli anni accademici successivi funzioneranno progressivamente gli anni di corso susseguenti al primo.
 
-- L'art. 86, relativo all'Istituto di paleografia, annesso alla Facolta' di lettere e filosofia, e' abrogato.
+Alla fine del corso di studi viene rilasciata la laurea in sociologia.
 
-Alla stessa Facolta' sono annessi un "Istituto di paleografia latina e diplomatica", un "Istituto di geografia" e un "Istituto di archeologia e storia dell'arte greca e romana" il cui regolamento e' il seguente:
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati e' modificato come appresso.
 
-Istituto di paleografia latina e diplomatica
+L'art. 88 e' abrogato e sostituito dal seguente:
 
-Art. 86. - Alla cattedra di paleografia latina e diplomatica della Facolta' di lettere e filosofia e' annesso un Istituto di paleografia latina e diplomatica, ordinato come seminario a norma dell'art. 23 del regolamento generale universitario, approvato con [regio decreto 6 aprile 1924, n. 674](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674).
+Art. 88. - La facolta' di lettere e filosofia conferisce esclusivamente:
 
-Art. 87. - L'Istituto ha il fine di promuovere e di agevolare studi e ricerche nel campo della paleografia latina e della diplomatica. A tale scopo dispone di una biblioteca specializzata, promuove le pubblicazioni di codici diplomatici e di testi medioevali, raccoglie pergamene e altri documenti storici relativi al Medio Evo, organizza discussioni, conferenze, ecc.
+La laurea in lettere;
 
-Art. 88. - Il direttore dell'Istituto e' di diritto il titolare della cattedra di paleografia e diplomatica ed, in caso di vacanza, chi lo sostituisce nell'insegnamento ufficiale.
+La laurea in filosofia;
 
-Art. 89. - Gli studenti della Facolta' di lettere, gli iscritti alla scuola di perfezionamento per bibliotecari ed archivisti possono partecipare a conferenze, ricerche e discussioni scientifiche e servirsi di tutti i mezzi di studio offerti dall'Istituto, dietro il consenso del direttore.
+La laurea in lingue e letterature straniere moderne (indirizzo europeo);
 
-Istituto di geografia
+La laurea in sociologia.
 
-Art. 90. - Alla cattedra di geografia della Facolta' di lettere e filosofia e' annesso un Istituto di geografia, che ha anche funzioni di seminario, ai sensi dell'articolo 23 del regolamento generale universitario; approvato con [regio decreto 6 aprile 1924, n. 674](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674).
+Dopo l'art. 101 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione del corso di laurea in sociologia.
 
-Art. 91. - L'Istituto ha il fine di promuovere ed agevolare studi e ricerche nel campo dei diversi rami della geografia-.
+LAUREA IN SOCIOLOGIA
 
-Art. 92. - Per il raggiungimento di tali fini l'istituto dispone di una biblioteca specializzata, di una cartoteca e di strumenti vari, organizza escursioni, conferenze, discussioni, cura pubblicazioni di carattere geografico e cartografico.
+Art. 102. - Gli insegnamenti per il conseguimento della laurea in sociologia sono i seguenti:
 
-Dispone di idonei apparecchi per la proiezione di fotografie e cinematografie.
+Insegnamenti fondamentali:
 
-Art. 93. - Il direttore dell'Istituto e' di diritto il titolare della cattedra di geografia, e, in caso di vacanza, chi lo sostituisce nell'insegnamento ufficiale.
+1) Sociologia (biennale);
 
-Art. 94. - Gli studenti ed i laureati della Facolta' possono partecipare a conferenze e discussioni scientifiche e, in generale, servirsi di tutti i mezzi di studio offerti dall'Istituto.
+2) Un insegnamento scelto fra i seguenti: storia della filosofia o storia della filosofia moderna e contemporanea;
 
-Art. 95. - L'Istituto potra' eventualmente disporre di borse di studio conferite dal Consiglio della Facolta' di lettere e filosofia o da enti pubblici e privati, in base alle modalita' e disposizioni che saranno stabilite dagli stessi fondatori.
+3) Filosofia morale;
 
-Istituto di archeologia e storia dell'arte greca e romana
+4) Antropologia culturale;
 
-Art. 96. - Alla cattedra di archeologia e di storia dell'arte greca e romana della Facolta' di lettere e filosofia e' annesso un Istituto di archeologia e storia dell'arte greca e romana, ordinato come seminario, ai sensi dell'art. 23 del regolamento generale universitario, approvato con [regio decreto 6 aprile 1924, n. 674](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674).
+5) Un insegnamento scelto fra i seguenti: storia moderna o storia contemporanea;
 
-Art. 97. - L'Istituto ha il fine di promuovere ed agevolare studi e ricerche nel campo delle varie discipline archeologiche (archeologia e storia dell'arte greca e romana antichita', paletnologia, numismatica, epigrafia greca romana ed italica).
+6) Logica;
 
-Art. 98. - Per il raggiungimento di tali fini l'Istituto dispone di una biblioteca specializzata, organizza discussioni, conferenze, pubblicazioni, promuovendo lo sviluppo di una raccolta di materiale archeologico, originale o in riproduzione, visite a monumenti, edifici in citta' e fuori, di notevole interesse storico, archeologico, artistico. Dispone infine di idonei apparecchi per le proiezioni delle immagini e per fotografie.
+7) Metodologia e tecnica della ricerca sociale;
 
-Art. 99. - Direttore dell'Istituto e' di diritto il titolare della cattedra di archeologia e storia dell'arte greca e romana e, in caso di vacanza, chi lo sostituisce nell'insegnamento ufficiale.
+8) Statistica;
 
-Art. 100. - Gli studenti della Facolta' ed i laureati in lettere possono partecipare a conferenze e discussioni scientifiche ed, in generale, servirsi di tutti i mezzi di studio offerti dall'Istituto.
+9) Psicologia;
 
-Art. 101. - L'Istituto potra' eventualmente disporre di borse di studio conferite dal Consiglio della Facolta' di lettere e filosofia o da enti pubblici e privati, in base alle modalita' e disposizioni che saranno stabilite dagli stessi fondatori.
+10) Storia della sociologia;
 
-A causa dell'inserzione dei precedenti articoli la numerazione di quelli successivi subisce il necessario spostamento.
+11) Psicologia sociale.
 
-Art. 104. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti quelli di "semeiotica chirurgica", "ottica fisiologica" e "fisica nucleare applicata alla biologia".
+Insegnamenti complementari:
 
-Art. 106, relativo alle precedenze per gli esami nel corso di laurea in medicina e chirurgia e' modificato nel senso che al quarto comma e' aggiunto il seguente periodo:
+1) Sociologia politica;
 
-"I colloquio di anatomia ed istologia, patologica deve essere sostenuto dopo aver superato le prove di patologia generale e di fisiologia.
+2) Sociologia economica;
 
-Dopo l'art. 165, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi all'istituzione, presso la Facolta' di ingegneria, dell'istituto di tecnica delle fondazioni e costruzioni in terra (geotecnica).
+3) Sociologia dei gruppi;
 
-Istituto di tecnica delle fondazioni e costruzioni in terra
+4) Sociologia della comunicazione;
 
-Art. 166. - E' istituito presso la Facolta' di ingegneria l'Istituto di "tecnica delle fondazioni e costruzioni in terra (geotecnica). L'Istituto ha il fine di sviluppare l'insegnamento della materia e di promuovere e di agevolare studi approfonditi in questa disciplina sia sul piano teorico che su quello sperimentale e di diffondere le applicazioni nel campo tecnico.
+5) Sociologia della conoscenza;
 
-Art. 167. - Per tali fini, l'Istituto disporra' di un laboratorio specializzato, dotato di apparecchiature per ricerca e di un'apparecchiatura a scopi didattici, e di una biblioteca propria di settore.
+6) Metodologia delle scienze umane;
 
-Art. 168. - Il direttore dell'Istituto e' di diritto il titolare della cattedra di "tecnica delle fondazioni e costruzioni in terra", e, in caso di vacanza, chi lo sostituisce nell'insegnamento ufficiale.
+7) Sociologia industriale;
 
-Art. 169. - Gli studenti della Facolta' ed i laureati in ingegneria possono partecipare a conferenze e discussioni scientifiche ed in generale servirsi di tutti i mezzi di studio offerti dall'Istituto.
+8) Sociologia del lavoro;
 
-Il titolo della scuola di perfezionamento in medicina legale e delle assicurazioni sociali, annessa alla Facolta' di medicina e chirurgia, e' mutato come segue:
+9) Filosofia del diritto;
 
-"Scuola di specializzazione in medicina legale e delle assicurazioni".
+10) Sociologia dell'educazione;
 
-Di conseguenza sono modificati anche i successivi articoli, relativi alla scuola stessa.
+11) Sociologia della religione;
 
-Art. 320. - E' modificato come segue: "La scuola di specializzazione in medicina legale e della assicurazione ha la durata di due anni".
+12) Sociologia del diritto;
 
-Art. 323. - Il primo comma e' modificato come segue:
+13) Sociologia dell'arte e della letteratura;
 
-"Per ottenere l'iscrizione al secondo corso l'allievo deve aver superato un colloquio di medicina legale generale e l'esame su uno dei due gruppi di materie annuali "antropologia e sociologia criminale o medicina legale delle assicurazioni".
+14) Filosofia della storia;
+
+15) Filosofia della scienza;
+
+16) Filosofia del linguaggio;
+
+17) Etnologia;
+
+18) Filosofia teoretica;
+
+19) Storia della filosofia moderna e contemporanea;
+
+20) Storia delle dottrine politiche;
+
+21) Estetica;
+
+22) Filosofia della religione;
+
+23) Linguistica generale;
+
+24) Economia aziendale;
+
+25) Economia politica;
+
+26) Storia economica;
+
+27) Storia delle dottrine economiche;
+
+28) Storia contemporanea;
+
+29) Legislazione sociale;
+
+30) Teorie e tecniche delle comunicazioni di massa;
+
+31) Demografia;
+
+32) Psicologia dell'eta' evolutiva;
+
+33) Psicologia dinamica;
+
+34) Sociolinguistica;
+
+35) Una lingua e letteratura straniera moderna.
+
+Art. 103. - Per essere ammesso all'esame di laurea lo studente deve aver superato gli esami di tutti gli insegnamenti fondamentali e di almeno otto degli insegnamenti complementari, previa approvazione del preside della facolta'. La sociologia deve essere seguita per un biennio, e due degli insegnamenti fondamentali possono essere biennalizzati, nel qual caso lo studente puo' ridurre di due gli insegnamenti complementari che deve seguire.
+
+Art. 104. - La durata del corso di laurea e' di quattro anni.
+
+Titolo di ammissione: quello consentito dalle vigenti disposizioni di legge.
+
+Gli insegnamenti fondamentali di sociologia (biennale), psicologia, logica, statistica, storia moderna saranno seguiti dallo studente nel primo anno di corso. Alla fine di esso lo studente presentera' il piano di studi che intende seguire per i tre anni seguenti, facendolo firmare da uno dei professori delle materie fondamentali, col quale si sara' consultato al riguardo.
+
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti fondamentali e di almeno otto degli insegnamenti complementari, previa approvazione del preside della facolta'. La sociologia deve essere seguita per un biennio, e due degli insegnamenti fondamentali possono essere biennalizzati, nel qual caso lo studente puo' ridurre di due gli insegnamenti complementari che deve seguire. La dissertazione di laurea, con la quale il corso di studi si conclude, potra' essere sostenuta in una qualsiasi delle discipline scelte dallo studente nel suo piano di studi. Solo ove lo studente lo desideri, essa sara' compilata in lingua diversa dall'italiano.
+
+Art. 105. - Coloro che sono gia' in possesso della laurea in lettere, in filosofia, in lingue e letterature straniere moderne, in giurisprudenza, in scienze politiche, in economia e commercio, in materie letterarie e in pedagogia, e che desiderano iscriversi al corso di laurea in sociologia, vengono ammessi al terzo anno di esso.
+
+Gli esami da essi sostenuti nei loro precedenti corsi di studio e rientranti tra le materie fondamentali o complementari di cui all'art. 102 sono convalidati ipso facto ai fini del conseguimento della nuova laurea. Il numero degli esami ancora necessari per il rispetto delle norme fissate dall'art. 103 viene ripartito in due anni secondo un piano presentato dallo studente e per il quale valgono le norme fissate dall'art. 104. Se il numero degli esami ancora necessari e' superiore a 12, nonche' nel caso in cui sia egli stesso a farne richiesta, lo studente viene ammesso al secondo anno anziche' al terzo.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 3 ottobre 1957
+Dato a Roma, addi' 28 agosto 1971
 
-GRONCHI
+SARAGAT
 
-MORO
+MISASI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: COLOMBO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 28 ottobre 1957 Atti del Governo, registro n. 108, foglio n. 112. - RELLEVA
+alla Corte dei conti, addi' 23 febbraio 1972 Atti del Governo, registro n. 247, foglio n. 60. - VALENTINI
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, numero 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successivi;   
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;   
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Veduta la [legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta intese ad ottenere l'istituzione del corso di laurea in sociologia presso la facolta' di lettere e filosofia;   
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione Sulla proposta del Ministro per la pubblica istruzione;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
 Decreta:   
   
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-- L'art. 86, relativo all'Istituto di paleografia, annesso alla Facolta' di lettere e filosofia, e' abrogato.   
-Alla stessa Facolta' sono annessi un "Istituto di paleografia latina e diplomatica", un "Istituto di geografia" e un "Istituto di archeologia e storia dell'arte greca e romana" il cui regolamento e' il seguente:   
+Presso la facolta' di lettere e filosofia dell'Universita' degli studi di Napoli e' istituito il corso di laurea in sociologia. Tale nuovo corso di laurea comincera' a funzionare a decorrere dall'anno accademico 1971-72 con il primo anno di corso. Negli anni accademici successivi funzioneranno progressivamente gli anni di corso susseguenti al primo.   
+Alla fine del corso di studi viene rilasciata la laurea in sociologia.   
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati e' modificato come appresso.   
+L'art. 88 e' abrogato e sostituito dal seguente:   
+Art. 88. - La facolta' di lettere e filosofia conferisce esclusivamente:   
   
-Istituto di paleografia latina e diplomatica   
+La laurea in lettere;   
+La laurea in filosofia;   
+La laurea in lingue e letterature straniere moderne (indirizzo europeo);   
+La laurea in sociologia.   
   
-Art. 86. - Alla cattedra di paleografia latina e diplomatica della Facolta' di lettere e filosofia e' annesso un Istituto di paleografia latina e diplomatica, ordinato come seminario a norma dell'art. 23 del regolamento generale universitario, approvato con [regio decreto 6 aprile 1924, n. 674](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674).   
-Art. 87. - L'Istituto ha il fine di promuovere e di agevolare studi e ricerche nel campo della paleografia latina e della diplomatica. A tale scopo dispone di una biblioteca specializzata, promuove le pubblicazioni di codici diplomatici e di testi medioevali, raccoglie pergamene e altri documenti storici relativi al Medio Evo, organizza discussioni, conferenze, ecc.   
-Art. 88. - Il direttore dell'Istituto e' di diritto il titolare della cattedra di paleografia e diplomatica ed, in caso di vacanza, chi lo sostituisce nell'insegnamento ufficiale.   
-Art. 89. - Gli studenti della Facolta' di lettere, gli iscritti alla scuola di perfezionamento per bibliotecari ed archivisti possono partecipare a conferenze, ricerche e discussioni scientifiche e servirsi di tutti i mezzi di studio offerti dall'Istituto, dietro il consenso del direttore.   
+Dopo l'art. 101 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione del corso di laurea in sociologia.   
   
-Istituto di geografia   
+LAUREA IN SOCIOLOGIA   
   
-Art. 90. - Alla cattedra di geografia della Facolta' di lettere e filosofia e' annesso un Istituto di geografia, che ha anche funzioni di seminario, ai sensi dell'articolo 23 del regolamento generale universitario; approvato con [regio decreto 6 aprile 1924, n. 674](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674).   
-Art. 91. - L'Istituto ha il fine di promuovere ed agevolare studi e ricerche nel campo dei diversi rami della geografia-.   
-Art. 92. - Per il raggiungimento di tali fini l'istituto dispone di una biblioteca specializzata, di una cartoteca e di strumenti vari, organizza escursioni, conferenze, discussioni, cura pubblicazioni di carattere geografico e cartografico.   
-Dispone di idonei apparecchi per la proiezione di fotografie e cinematografie.   
-Art. 93. - Il direttore dell'Istituto e' di diritto il titolare della cattedra di geografia, e, in caso di vacanza, chi lo sostituisce nell'insegnamento ufficiale.   
-Art. 94. - Gli studenti ed i laureati della Facolta' possono partecipare a conferenze e discussioni scientifiche e, in generale, servirsi di tutti i mezzi di studio offerti dall'Istituto.   
-Art. 95. - L'Istituto potra' eventualmente disporre di borse di studio conferite dal Consiglio della Facolta' di lettere e filosofia o da enti pubblici e privati, in base alle modalita' e disposizioni che saranno stabilite dagli stessi fondatori.   
+Art. 102. - Gli insegnamenti per il conseguimento della laurea in sociologia sono i seguenti:   
+Insegnamenti fondamentali:   
   
-Istituto di archeologia e storia dell'arte greca e romana   
+1) Sociologia (biennale);   
+2) Un insegnamento scelto fra i seguenti: storia della filosofia o storia della filosofia moderna e contemporanea;   
+3) Filosofia morale;   
+4) Antropologia culturale;   
+5) Un insegnamento scelto fra i seguenti: storia moderna o storia contemporanea;   
+6) Logica;   
+7) Metodologia e tecnica della ricerca sociale;   
+8) Statistica;   
+9) Psicologia;   
+10) Storia della sociologia;   
+11) Psicologia sociale.   
   
-Art. 96. - Alla cattedra di archeologia e di storia dell'arte greca e romana della Facolta' di lettere e filosofia e' annesso un Istituto di archeologia e storia dell'arte greca e romana, ordinato come seminario, ai sensi dell'art. 23 del regolamento generale universitario, approvato con [regio decreto 6 aprile 1924, n. 674](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674).   
-Art. 97. - L'Istituto ha il fine di promuovere ed agevolare studi e ricerche nel campo delle varie discipline archeologiche (archeologia e storia dell'arte greca e romana antichita', paletnologia, numismatica, epigrafia greca romana ed italica).   
-Art. 98. - Per il raggiungimento di tali fini l'Istituto dispone di una biblioteca specializzata, organizza discussioni, conferenze, pubblicazioni, promuovendo lo sviluppo di una raccolta di materiale archeologico, originale o in riproduzione, visite a monumenti, edifici in citta' e fuori, di notevole interesse storico, archeologico, artistico. Dispone infine di idonei apparecchi per le proiezioni delle immagini e per fotografie.   
-Art. 99. - Direttore dell'Istituto e' di diritto il titolare della cattedra di archeologia e storia dell'arte greca e romana e, in caso di vacanza, chi lo sostituisce nell'insegnamento ufficiale.   
-Art. 100. - Gli studenti della Facolta' ed i laureati in lettere possono partecipare a conferenze e discussioni scientifiche ed, in generale, servirsi di tutti i mezzi di studio offerti dall'Istituto.   
-Art. 101. - L'Istituto potra' eventualmente disporre di borse di studio conferite dal Consiglio della Facolta' di lettere e filosofia o da enti pubblici e privati, in base alle modalita' e disposizioni che saranno stabilite dagli stessi fondatori.   
-A causa dell'inserzione dei precedenti articoli la numerazione di quelli successivi subisce il necessario spostamento.   
-Art. 104. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti quelli di "semeiotica chirurgica", "ottica fisiologica" e "fisica nucleare applicata alla biologia".   
-Art. 106, relativo alle precedenze per gli esami nel corso di laurea in medicina e chirurgia e' modificato nel senso che al quarto comma e' aggiunto il seguente periodo:   
-"I colloquio di anatomia ed istologia, patologica deve essere sostenuto dopo aver superato le prove di patologia generale e di fisiologia.   
-Dopo l'art. 165, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi all'istituzione, presso la Facolta' di ingegneria, dell'istituto di tecnica delle fondazioni e costruzioni in terra (geotecnica).   
+Insegnamenti complementari:   
+1) Sociologia politica;   
+2) Sociologia economica;   
+3) Sociologia dei gruppi;   
+4) Sociologia della comunicazione;   
+5) Sociologia della conoscenza;   
+6) Metodologia delle scienze umane;   
+7) Sociologia industriale;   
+8) Sociologia del lavoro;   
+9) Filosofia del diritto;   
+10) Sociologia dell'educazione;   
+11) Sociologia della religione;   
+12) Sociologia del diritto;   
+13) Sociologia dell'arte e della letteratura;   
+14) Filosofia della storia;   
+15) Filosofia della scienza;   
+16) Filosofia del linguaggio;   
+17) Etnologia;   
+18) Filosofia teoretica;   
+19) Storia della filosofia moderna e contemporanea;   
+20) Storia delle dottrine politiche;   
+21) Estetica;   
+22) Filosofia della religione;   
+23) Linguistica generale;   
+24) Economia aziendale;   
+25) Economia politica;   
+26) Storia economica;   
+27) Storia delle dottrine economiche;   
+28) Storia contemporanea;   
+29) Legislazione sociale;   
+30) Teorie e tecniche delle comunicazioni di massa;   
+31) Demografia;   
+32) Psicologia dell'eta' evolutiva;   
+33) Psicologia dinamica;   
+34) Sociolinguistica;   
+35) Una lingua e letteratura straniera moderna.   
   
-Istituto di tecnica delle fondazioni e costruzioni in terra   
-  
-Art. 166. - E' istituito presso la Facolta' di ingegneria l'Istituto di "tecnica delle fondazioni e costruzioni in terra (geotecnica). L'Istituto ha il fine di sviluppare l'insegnamento della materia e di promuovere e di agevolare studi approfonditi in questa disciplina sia sul piano teorico che su quello sperimentale e di diffondere le applicazioni nel campo tecnico.   
-Art. 167. - Per tali fini, l'Istituto disporra' di un laboratorio specializzato, dotato di apparecchiature per ricerca e di un'apparecchiatura a scopi didattici, e di una biblioteca propria di settore.   
-Art. 168. - Il direttore dell'Istituto e' di diritto il titolare della cattedra di "tecnica delle fondazioni e costruzioni in terra", e, in caso di vacanza, chi lo sostituisce nell'insegnamento ufficiale.   
-Art. 169. - Gli studenti della Facolta' ed i laureati in ingegneria possono partecipare a conferenze e discussioni scientifiche ed in generale servirsi di tutti i mezzi di studio offerti dall'Istituto.   
-Il titolo della scuola di perfezionamento in medicina legale e delle assicurazioni sociali, annessa alla Facolta' di medicina e chirurgia, e' mutato come segue:   
-  
-"Scuola di specializzazione in medicina legale e delle assicurazioni".   
-  
-Di conseguenza sono modificati anche i successivi articoli, relativi alla scuola stessa.   
-Art. 320. - E' modificato come segue: "La scuola di specializzazione in medicina legale e della assicurazione ha la durata di due anni".   
-Art. 323. - Il primo comma e' modificato come segue:   
-"Per ottenere l'iscrizione al secondo corso l'allievo deve aver superato un colloquio di medicina legale generale e l'esame su uno dei due gruppi di materie annuali "antropologia e sociologia criminale o medicina legale delle assicurazioni".   
+Art. 103. - Per essere ammesso all'esame di laurea lo studente deve aver superato gli esami di tutti gli insegnamenti fondamentali e di almeno otto degli insegnamenti complementari, previa approvazione del preside della facolta'. La sociologia deve essere seguita per un biennio, e due degli insegnamenti fondamentali possono essere biennalizzati, nel qual caso lo studente puo' ridurre di due gli insegnamenti complementari che deve seguire.   
+Art. 104. - La durata del corso di laurea e' di quattro anni.   
+Titolo di ammissione: quello consentito dalle vigenti disposizioni di legge.   
+Gli insegnamenti fondamentali di sociologia (biennale), psicologia, logica, statistica, storia moderna saranno seguiti dallo studente nel primo anno di corso. Alla fine di esso lo studente presentera' il piano di studi che intende seguire per i tre anni seguenti, facendolo firmare da uno dei professori delle materie fondamentali, col quale si sara' consultato al riguardo.   
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti fondamentali e di almeno otto degli insegnamenti complementari, previa approvazione del preside della facolta'. La sociologia deve essere seguita per un biennio, e due degli insegnamenti fondamentali possono essere biennalizzati, nel qual caso lo studente puo' ridurre di due gli insegnamenti complementari che deve seguire. La dissertazione di laurea, con la quale il corso di studi si conclude, potra' essere sostenuta in una qualsiasi delle discipline scelte dallo studente nel suo piano di studi. Solo ove lo studente lo desideri, essa sara' compilata in lingua diversa dall'italiano.   
+Art. 105. - Coloro che sono gia' in possesso della laurea in lettere, in filosofia, in lingue e letterature straniere moderne, in giurisprudenza, in scienze politiche, in economia e commercio, in materie letterarie e in pedagogia, e che desiderano iscriversi al corso di laurea in sociologia, vengono ammessi al terzo anno di esso.   
+Gli esami da essi sostenuti nei loro precedenti corsi di studio e rientranti tra le materie fondamentali o complementari di cui all'art. 102 sono convalidati ipso facto ai fini del conseguimento della nuova laurea. Il numero degli esami ancora necessari per il rispetto delle norme fissate dall'art. 103 viene ripartito in due anni secondo un piano presentato dallo studente e per il quale valgono le norme fissate dall'art. 104. Se il numero degli esami ancora necessari e' superiore a 12, nonche' nel caso in cui sia egli stesso a farne richiesta, lo studente viene ammesso al secondo anno anziche' al terzo.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 ottobre 1957
+### Dato a Roma, addi' 28 agosto 1971
 
-GRONCHI MORO
+SARAGAT MISASI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 28 ottobre 1957
+Registrato alla Corte dei conti, addi' 23 febbraio 1972
 
-Atti del Governo, registro n. 108, foglio n. 112. - RELLEVA
+Atti del Governo, registro n. 247, foglio n. 60. - VALENTINI

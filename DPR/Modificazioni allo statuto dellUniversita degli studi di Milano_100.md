@@ -1,102 +1,83 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1971 n. 836
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1981 n. 477
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1971 n. 836
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1981 n. 477
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 28. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di "Immunologia clinica".  
-L'art. 38, relativo agli esami di laurea del corso di studi in chimica industriale e' abrogato e sostituito dal seguente:  
-"L'esame di laurea consiste nella discussione di una dissertazione scritta, riguardante ricerche originali su argomenti riferentisi alle discipline del corso di laurea ed eseguite presso uno degli istituti gia' frequentati dallo studente".  
-Art. 47. - All'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche e' aggiunto il seguente:  
-  
-Fisiologia cellulare.  
-Art. 54. - All'elenco degli insegnamenti complementari del corso di laurea in farmacia sono aggiunti i seguenti:  
-  
-Chimica degli alimenti;  
-Farmacologia clinica;  
-Istituzioni di matematiche;  
-Chimica delle fermentazioni e microbiologia industriale;  
-Complementi di chimica tossicologica;  
-Enzimologia;  
-Microbiologia e igiene;  
-Farmacologia applicata;  
-Zoologia e parassitologia;  
-Prodotti dietetici;  
-Prodotti cosmetici;  
-Microchimica;  
-Inglese scientifico.  
-Dallo stesso elenco sono soppressi i seguenti insegnamenti complementari:  
-  
-Chimica bromatologica;  
-Idrologia;  
-Biologia molecolare;  
-Chimica delle fermentazioni;  
-Chimica macromolecolare;  
-Chimica terapeutica;  
-Farmacodinamica molecolare.  
-Art. 56. - All'elenco degli insegnamenti complementari del corso di laurea in chimica e tecnologia farmaceutiche sono aggiunti i seguenti:  
-  
-Prodotti dietetici;  
-Prodotti cosmetici;  
-Farmacologia clinica;  
-Scienza dell'alimentazione;  
-Biologia generale;  
-Biologia molecolare;  
-Chemioterapia;  
-Chimica clinica;  
-Chimica macromolecolare;  
-Complementi di chimica tossicologica;  
-Farmacognosia;  
-Patologia generale;  
-Statistica;  
-Tossicologia;  
-Neurochimica;  
-Immunochimica;  
-Psicobiologia;  
-Chimica dei composti eterociclici;  
-Radiochimica;  
-Radiobiologia;  
-Inglese scientifico;  
-Enzimologia;  
-Farmacologia applicata;  
-Endocrinologia.  
-Nello stesso elenco l'insegnamento di "Chimica delle fermentazioni e microbiologia industriale" e quello di "Microchimica" sono contrassegnati con un asterisco.  
-Dallo stesso elenco sono soppressi i seguenti insegnamenti complementari:  
-  
-Chimica dei prodotti dietetici;  
-Chimica dei prodotti cosmetici.  
+Art. 31 - all'elenco degli insegnamenti complementari del corso di laurea in chimica sono aggiunti i seguenti nuovi insegnamenti:   
+Per l'indirizzo organico-biologico:   
+chimica e tecnologia degli intermedi organici;   
+chimica delle sostanze coloranti;   
+metodi fisici in chimica organica.   
+Per l'indirizzo inorganico-chimico-fisico:   
+metodi fisici in chimica organica.   
+Art. 35 - all'elenco degli insegnamenti complementari del corso di laurea in chimica industriale sono aggiunti i seguenti nuovi insegnamenti:   
+chimica delle sostanze coloranti;   
+chimica e tecnologia degli intermedi organici.   
+Art. 39 - all'elenco degli insegnamenti complementari del corso di laurea in fisica sono aggiunti i seguenti nuovi insegnamenti:   
+separazione degli isotopi;   
+termodinamica di non equilibrio;   
+strutture dissipative e strutture biologiche;   
+bioenergetica;   
+biofisica;   
+metodologie fisiche nell'archeologia e nell'arte.   
+Art. 47 - all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti nuovi insegnamenti:   
+laboratorio di biologia sperimentale I;   
+tecniche microscopiche e submicroscopiche;   
+citologia ed embriologia vegetale;   
+analisi di sistemi biochimici.   
+Art. 50 - all'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti i seguenti nuovi insegnamenti:   
+geologia del quaternario;   
+geologia marina;   
+petrologia del sedimentario;   
+sismologia;   
+meccanica delle rocce;   
+geomorfologia.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo, osservare.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 agosto 1971
+### Dato a Roma, addi' 10 aprile 1981
 
-SARAGAT MISASI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 14 ottobre 1971
+Registrato alla Corte dei conti, addi' 30 luglio 1981
 
-Atti del Governo, registro n. 244, foglio n. 139. - CARUSO
+Registro n. 73 Istruzione, foglio n. 309

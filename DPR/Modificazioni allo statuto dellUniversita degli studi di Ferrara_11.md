@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1005
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 897
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1005
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 897
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 -------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, numero 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,123 +20,171 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Riconosciuta la particolare necessita' di approvare le modifiche proposte;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio universitario nazionale nel suo parere;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Dopo l'art. 159, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i nuovi articoli relativi alla scuola, a fini speciali, per tecnici di istopatologia.
 
+Scuola per tecnici di istopatologia (Scuola diretta a fini speciali)
+
+Art. 160. - E' istituita presso l'istituto di anatomia ed istologia patologica dell'Universita' di Ferrara ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20), una "Scuola speciale di preparazione per tecnici di istopatologia" che ha lo scopo di preparare adeguatamente personale tecnico in grado di collaborare nella ricerca scientifica e nella pratica ospedaliera.
+
+Art. 161. - La scuola ha indirizzo teorico-pratico e la durata del corso degli studi e' di due anni accademici.
+
+E' titolo minimo di ammissione il diploma di scuola media unica, il diploma di avviamento professionale, commerciale o industriale o agrario o ad altro indirizzo. L'eta' minima per l'iscrizione e' di anni 18.
+
+Alla frequenza della scuola si accede previo esame orale di cultura generale sostenuto davanti ad una commissione composta dal direttore della scuola e da due insegnanti della stessa.
+
+L'esame di ammissione ha luogo entro il mese di ottobre di ciascun anno, in un giorno stabilito dal direttore della scuola.
+
+Il numero massimo dei partecipanti e' di quattro per ogni anno di corso.
+
+Art. 162. - Il direttore della scuola e' il direttore dell'istituto di anatomia e istologia patologica della Universita' di Ferrara. La scuola e' sotto la vigilanza della facolta' di medicina e chirurgia.
+
+Gli insegnanti della scuola sono proposti dal direttore della stessa, approvati dalla facolta' di medicina e chirurgia e nominati dal rettore.
+
+Essi possono essere scelti tra i professori ufficiali, tra i liberi docenti, tra gli aiuti e gli assistenti della facolta' di medicina e chirurgia o tra persone di riconosciuta competenza anche al di fuori dell'ambito universitario.
+
+Art. 163. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+1) Nozioni di microscopia;
+
+2) Nozioni di istologia generale e speciale;
+
+3) Tecnica istologica e istochimica (1);
+
+4) Nozioni di anatomia e istologia patologica (1).
+
+2° Anno:
+
+1) Citologia generale e tecnica citologica;
+
+2) Tecnica istologica e istochimica (2);
+
+3) Nozioni di anatomia e istologia patologica (2);
+
+4) Tecnica istofisica ed ultrastrutturale.
+
+Art. 164. - Gli iscritti alla scuola hanno l'obbligo di seguire un tirocinio pratico nell'istituto di anatomia ed istologia patologica dell'Universita' per la durata di due anni.
+
+I programmi d'insegnamento e gli orari vengono predisposti dal direttore e dal personale insegnante della scuola.
+
+La sorveglianza degli iscritti per quanto riguarda le attivita' di laboratorio spetta al direttore della scuola.
+
+La frequenza e' obbligatoria. Assenze ingiustificate comportano la esclusione dal corso.
+
+Per essere ammessi a frequentare il secondo anno gli allievi dovranno aver sostenuto tutti gli esami del primo corso.
+
+Per essere ammessi a sostenere l'esame di diploma, gli allievi dovranno aver seguito i corsi, superato gli esami di tutti gli insegnamenti prescritti ed aver compiuto con esito favorevole tutte le esercitazioni pratiche previste.
+
+Art. 165. - Le commissioni per gli esami di profitto sono nominate dal preside della facolta' di medicina e chirurgia, su proposta del direttore della scuola.
+
+Le commissioni sono composte di tre membri: il direttore della scuola e due docenti della scuola, di cui almeno un professore ufficiale o libero docente. Ogni commissario ha a disposizione dieci punti.
+
+L'esame di diploma consiste in un esame orale sui temi trattati durante il corso in una o piu' prove pratiche stabilite dalla commissione esaminatrice.
+
+L'esame di diploma viene sostenuto davanti ad una commissione di cinque membri scelti fra i docenti della scuola, nominata dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola.
+
+Ogni commissario ha a sua disposizione dieci punti.
+
+I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola.
+
+Agli allievi che avranno superato l'esame finale viene rilasciato un diploma di "tecnico di istopatologia".
+
+Art. 166. - L'ammontare dei contributi, sara' determinato dal consiglio di amministrazione dell'Universita' di Ferrara su proposta del senato accademico, udita la facolta' di medicina e chirurgia.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1974
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: REALI
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 15 aprile 1975 Atti di Governo, registro n. 9, foglio n. 70
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-L'art. 46, relativo alla facolta' di medicina e chirurgia, e' soppresso e sostituito dal seguente:  
-La facolta' di medicina e chirurgia conferisce le seguenti lauree:  
-a) medicina e chirurgia;  
-b) odontoiatria e protesi dentaria.  
-I titoli di ammissione sono quelli previsti dalle vigenti disposizioni di legge.  
-La durata del corso di studi per la laurea in medicina e chirurgia e' di sei anni, suddivisi in tre bienni.  
-La durata del corso di studi per la laurea in odontoiatria e protesi dentaria e' di cinque anni, suddivisi in un biennio e in un triennio.  
-Prima dell'art. 47 e' inserita la seguente dizione:  
-Laurea in medicina e chirurgia Dopo l'art. 50 sono inseriti la seguente dizione e, con il conseguente spostamento della numerazione, gli articoli 51, 52, 53, 54, 55 e 56:  
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, numero 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Laurea in odontoiatria e protesi dentaria  
-Art. 51. - L'accesso al corso di laurea verra' regolato da un esame di ammissione; il punteggio da attribuire nell'esame sara' cosi' ripartito:  
-il 30% sara' riservato al voto riportato dal candidato nell'esame di Stato di licenza della scuola secondaria superiore ed il 70% sara' riservato alla prova di esame di ammissione al corso di laurea con test a scelta multipla su argomenti di biologia generale, chimica, fisica e matematica, secondo i programmi della scuola secondaria superiore.  
-Art. 52. - Sulla base della consistenza delle strutture (didattiche e cliniche) attualmente disponibili presso la facolta' di medicina e chirurgia, si determina che il numero massimo di studenti che possono iscriversi al corso di laurea in odontoiatria e protesi dentaria e' di dodici per ciascun anno di corso, per un totale di sessanta allievi nei cinque anni.  
-Art. 53. - Per il trasferimento degli studenti iscritti al corso di laurea in medicina e chirurgia le abbreviazioni di corso non possono superare l'ammissione oltre al secondo anno subordinatamente al numero dei posti resisi eventualmente disponibili all'inizio del secondo anno, sempre che gli aspiranti abbiano superato gli esami di biologia generale applicata agli studi medici, chimica e propedeutica biochimica, fisica medica, istologia ed embriologia generale (compresa la citologia).  
-Per i laureati in medicina e chirurgia le abbreviazioni di corso potranno essere concesse, sempre con iscrizione al secondo anno, subordinatamente al numero dei posti resisi eventualmente disponibili all'inizio del secondo anno e dopo che sia trascorso un anno accademico dal conseguimento della laurea precedente.  
-Art. 54. - L'ordinamento del corso di laurea e' stabilito come segue:  
+Decreta:  
   
-INSEGNAMENTI FONDAMENTALI:  
-Biennio:  
-1) anestesia generale e speciale odontostomatologica (semestrale);  
-\*2) biologia generale applicata agli studi medici;  
-\*3) chimica;  
-\*4) chimica biologica;  
-5) farmacologia (semestrale);  
-\*6) fisica medica;  
-7) fisiologia umana e dell'apparato stomatognatico;  
-8) igiene e odontoiatria preventiva e sociale con epidemiologia (semestrale);  
-9) istituzioni di anatomia umana normale e dell'apparato stomatognatico;  
-10) istituzioni di anatomia ed istologia patologica;  
-\*11) istologia ed embriologia generale (compresa la citologia);  
-12) materiali dentari;  
-13) microbiologia (semestrale);  
-14) odontoiatria conservatrice (triennale - secondo, terzo e quarto anno);  
-15) patologia generale.  
-Triennio:  
-16) chirurgia speciale odontostomatologica (biennale - terzo e quarto anno);  
-17) clinica odontostomatologica (biennale - quarto e quinto anno);  
-18) medicina legale e delle assicurazioni e deontologia in odontostomatologia (semestrale);  
-19) neuropatologia e psicopatologia (semestrale);  
-20) ortognatodonzia e gnatologia (funzione masticatoria) (biennale - quarto e quinto anno);  
-21) parodontologia (biennale - quarto e quinto anno);  
-22) patologia speciale chirurgica e propedeutica clinica);  
-23) patologia speciale medica e metodologia clinica (compresa la pediatria);  
-24) patologia speciale odontostomatologica;  
-25) pedodonzia (semestrale);  
-26) protesi dentaria (triennale - terzo, quarto e quinto anno);  
-27) radiologia generale e speciale odontostomatologica (semestrale).  
+Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-INSEGNAMENTI COMPLEMENTARI:  
-\*1) chirurgia maxillo-facciale;  
-\*2) dermatologia e venereologia (semestrale);  
-\*3) otorinolaringoiatria (semestrale);  
-\*4) statistica sanitaria;  
-altri insegnamenti complementari nel piano della facolta' sempre mutuati dal corso di laurea in medicina e chirurgia.  
-Gli insegnamenti segnati con asterisco sono mutuati dal corso di laurea in medicina e chirurgia.  
-Gli insegnamenti fondamentali sono teorici e pratici e la loro frequenza e' obbligatoria.  
-Gli insegnamenti specificatamente odontostomatologici di ordine clinico comportano anche un tirocinio pratico continuativo da espletare prima di sostenere i relativi esami.  
-Gli allievi che non conseguono le attestazioni di frequenza non possono essere ammessi a sostenere le relative prove di esame.  
-Il tirocinio pratico relativo ad ogni insegnamento clinico deve prevedere da parte di componenti dell'organico una assistenza didattica adeguata al numero degli studenti.  
-  
-Art. 55. Non si puo essere ammessi Se non si e superato a sostenere l'esame di: l'esame di:  
-Fisiologia umana e dell'apparato Istituzioni di anatomia  
-stomatognatico umana normale dell'apparato stomatognatico  
-Patologia generale Chimica  
-Fisica medica  
-Biologia generale applicata  
-agli studi medici  
-Patologia speciale medica e Fisiologia umana e dello  
-metodologia clinica apparato stomatognatico  
-(compresa la pediatria)  
-Patologia speciale chirurgica Patologia generale  
-e propedeutica clinica  
-Clinica odontostomatologica Patologia speciale medica  
-e metodologia clinica  
-(compresa la pediatria)  
-Patologia speciale chirurgica e propedeutica clinica  
-Istituzioni di anatomia ed  
-istologia patologica  
-Patologia speciale odonto-  
-stomatologica  
-Chirurgia speciale odonto-  
-stomatologica  
-  
-Per essere ammesso a sostenere l'esame di laurea in odontoiatria e protesi dentaria, lo studente deve aver seguito i corsi ed aver superato gli esami in tutti gli insegnamenti fondamentali ed almeno in due insegnamenti scelti tra i complementari ed aver, inoltre, seguito le prescritte esercitazioni cliniche, i tirocini pratici ed averne conseguito le relative attestazioni.  
-L'esame di laurea consiste nella discussione di una tesi scritta su argomenti di odontostomatologia da richiedere almeno all'inizio dell'ultimo anno di corso.  
-Art. 56. - Per esercitare la professione i laureati in odontoiatria e protesi dentaria devono superare un apposito esame di Stato.  
+Dopo l'art. 159, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i nuovi articoli relativi alla scuola, a fini speciali, per tecnici di istopatologia.  
+Scuola per tecnici di istopatologia (Scuola diretta a fini speciali)  
+Art. 160. - E' istituita presso l'istituto di anatomia ed istologia patologica dell'Universita' di Ferrara ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20), una "Scuola speciale di preparazione per tecnici di istopatologia" che ha lo scopo di preparare adeguatamente personale tecnico in grado di collaborare nella ricerca scientifica e nella pratica ospedaliera.  
+Art. 161. - La scuola ha indirizzo teorico-pratico e la durata del corso degli studi e' di due anni accademici.  
+E' titolo minimo di ammissione il diploma di scuola media unica, il diploma di avviamento professionale, commerciale o industriale o agrario o ad altro indirizzo. L'eta' minima per l'iscrizione e' di anni 18.  
+Alla frequenza della scuola si accede previo esame orale di cultura generale sostenuto davanti ad una commissione composta dal direttore della scuola e da due insegnanti della stessa.  
+L'esame di ammissione ha luogo entro il mese di ottobre di ciascun anno, in un giorno stabilito dal direttore della scuola.  
+Il numero massimo dei partecipanti e' di quattro per ogni anno di corso.  
+Art. 162. - Il direttore della scuola e' il direttore dell'istituto di anatomia e istologia patologica della Universita' di Ferrara. La scuola e' sotto la vigilanza della facolta' di medicina e chirurgia.  
+Gli insegnanti della scuola sono proposti dal direttore della stessa, approvati dalla facolta' di medicina e chirurgia e nominati dal rettore.  
+Essi possono essere scelti tra i professori ufficiali, tra i liberi docenti, tra gli aiuti e gli assistenti della facolta' di medicina e chirurgia o tra persone di riconosciuta competenza anche al di fuori dell'ambito universitario.  
+Art. 163. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1) Nozioni di microscopia;  
+2) Nozioni di istologia generale e speciale;  
+3) Tecnica istologica e istochimica (1);  
+4) Nozioni di anatomia e istologia patologica (1).  
+2° Anno:  
+1) Citologia generale e tecnica citologica;  
+2) Tecnica istologica e istochimica (2);  
+3) Nozioni di anatomia e istologia patologica (2);  
+4) Tecnica istofisica ed ultrastrutturale.  
+Art. 164. - Gli iscritti alla scuola hanno l'obbligo di seguire un tirocinio pratico nell'istituto di anatomia ed istologia patologica dell'Universita' per la durata di due anni.  
+I programmi d'insegnamento e gli orari vengono predisposti dal direttore e dal personale insegnante della scuola.  
+La sorveglianza degli iscritti per quanto riguarda le attivita' di laboratorio spetta al direttore della scuola.  
+La frequenza e' obbligatoria. Assenze ingiustificate comportano la esclusione dal corso.  
+Per essere ammessi a frequentare il secondo anno gli allievi dovranno aver sostenuto tutti gli esami del primo corso.  
+Per essere ammessi a sostenere l'esame di diploma, gli allievi dovranno aver seguito i corsi, superato gli esami di tutti gli insegnamenti prescritti ed aver compiuto con esito favorevole tutte le esercitazioni pratiche previste.  
+Art. 165. - Le commissioni per gli esami di profitto sono nominate dal preside della facolta' di medicina e chirurgia, su proposta del direttore della scuola.  
+Le commissioni sono composte di tre membri: il direttore della scuola e due docenti della scuola, di cui almeno un professore ufficiale o libero docente. Ogni commissario ha a disposizione dieci punti.  
+L'esame di diploma consiste in un esame orale sui temi trattati durante il corso in una o piu' prove pratiche stabilite dalla commissione esaminatrice.  
+L'esame di diploma viene sostenuto davanti ad una commissione di cinque membri scelti fra i docenti della scuola, nominata dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola.  
+Ogni commissario ha a sua disposizione dieci punti.  
+I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola.  
+Agli allievi che avranno superato l'esame finale viene rilasciato un diploma di "tecnico di istopatologia".  
+Art. 166. - L'ammontare dei contributi, sara' determinato dal consiglio di amministrazione dell'Universita' di Ferrara su proposta del senato accademico, udita la facolta' di medicina e chirurgia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1981
+### Dato a Roma, addi' 31 ottobre 1974
 
-PERTINI BODRATO
+LEONE MALFATTI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: REALI
 
-Registrato alla Corte dei conti, addi' 18 febbraio 1982
+Registrato alla Corte dei conti, addi' 15 aprile 1975
 
-Registro n. 26 Istruzione, foglio n. 253
+Atti di Governo, registro n. 9, foglio n. 70

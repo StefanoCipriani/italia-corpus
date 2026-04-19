@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1984 n. 661
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 gennaio 1981 n. 15
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1984 n. 661
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 gennaio 1981 n. 15
 =============================================================
 
 Autorizzazione all'Associazione nazionale alpini, in Milano, ad acquistare un immobile.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-661. Decreto del Presidente della Repubblica 17 maggio 1984, col quale, sulla proposta del Ministro della difesa, l'Associazione nazionale alpini, in Milano, viene autorizzata ad acquistare, al prezzo di L. 5.000.000, un terreno di mq 13.155 sito sul Monte Tomba, censito al nuovo catasto terreni del comune di Cavaso del Tomba (Treviso) per mq 8.125, foglio 5 (ex B-1), mappale 34 e foglio 6 (ex B-2), mappale 1, e al nuovo catasto terreni del comune di Alano del Piave (Belluno) per mq 5.030, foglio 39, mappale 101 di proprieta' dei signori Antonia e Giuseppe Foggiato.  
+15. Decreto del Presidente della Repubblica 3 gennaio 1981, col quale, sulla proposta del Ministro della difesa, l'Associazione nazionale alpini, in Milano, viene autorizzata ad acquistare dai signori Rosmilia, Maddalena, Maria Teresa, Carlo Giuseppe, Paolo, Mario, Francesca, Angiola Maria, Rosa Emilia e Anna Maria Battaglia, nudi proprietari, nonche' dalla signora Amalia Garelli ved. Battaglia, usufruttuaria, al prezzo di L. 8.000.000, l'appartamento di sei vani posto al primo piano del fabbricato che sorge in Mondovi', via Beccaria n. 13, censito al nuovo catasto edilizio urbano alla partita 505, foglio 92, mappale 171 sub 8 parte, da adibire a sede della sezione di Mondovi'.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 14 settembre 1984  
-Registro n. 32 Difesa, foglio n. 332
+Visto, il Guardasigilli: SARTI  
+Registrato alla Corte dei conti, addi' 3 febbraio 1981  
+Registro n. 7 Difesa, foglio n. 26

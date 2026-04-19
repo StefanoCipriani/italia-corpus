@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1963 n. 2199
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 aprile 1965 n. 423
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1963 n. 2199
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 aprile 1965 n. 423
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, numero 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1938, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -22,7 +22,7 @@ Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?u
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -32,127 +32,165 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 108. - All'elenco degli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti i seguenti:
+Art. 108. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti quelli di:
 
-Reumatologia;
+"Scienza delle costituzioni";
 
-Gerontologia e geriatria.
+"Psichiatria".
 
-Art. 116. - All'elenco degli Istituti della Facolta' di medicina e chirurgia e' aggiunto quello di:
+Gli articoli 292 e 293 relativi alla Scuola di specializzazione in Oculistica sono abrogati e sostituiti dai seguenti.
 
-"Istituto di Semeiotica chirurgica".
+Scuola di specializzazione in Oculistica
 
-Art. 118. - All'elenco degli insegnamenti complementari del corso di laurea in Chimica sono aggiunti i seguenti:
+Art. 292. - La Scuola ha la durata di quattro anni.
 
-Per l'indirizzo organico-biologico:
+Il numero complessivo degli iscritti ai quattro anni del corso e' di venticinque.
 
-Radiochimica;
+Gli insegnamenti impartiti nella Scuola sono i seguenti:
 
-Strutturistica chimica.
+1° Anno:
 
-Indirizzo inorganico chimico fisico:
+1) Anatomia ed istologia dell'apparato oculare;
 
-Radiochimica;
+2) Nozioni di embriologia e genetica oculare;
 
-Strutturistica chimica;
+3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;
 
-Complementi di matematica.
+4) Nozioni di ottica fisiologica, esame della refrazione;
 
-Art. 138. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti i seguenti:
+5) Microbiologia ed igiene oculare.
 
-Paleobotanica Paleontologia umana e paletnologia;
+2° Anno:
 
-Genetica di popolazioni.
+1) Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmologia, perimetria, campimetria, adattometria, senso cromatico, tomometria, tonografia, esami elettrofunzionali, radiologia);
 
-Art. 146. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti i seguenti:
+2) Farmacologia oculare e terapia fisica;
 
-Genetica dei microorganismi;
+3) Anatomia patologica oculare;
 
-Genetica di popolazioni;
+4) Patologia e clinica oculare (malattie delle palpebre, della congiuntiva, delle vie lacrimali, della cornea e della schera).
 
-Scienza dell'alimentazione.
+3° Anno:
 
-Art. 149. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze geologiche sono aggiunti i seguenti:
+1) Patologia e clinica oculare (malattie dell'urea della retina, del nervo ottico e delle vie ottiche, dell'occhio nella sua totalita' e della orbita glauco);
 
-Geologia dell'Appennino;
+2) Anomalie e patologia della motilita' oculare e della visione binoculare. Ortottica e pleottica;
 
-Geologia sottomarina;
+3) Affezioni otorinolaringoiatriche e occhio;
 
-Paleobotanica;
+4) Tecnica operatoria - I parte.
 
-Paleontologia umana e paletnologia.
+4° Anno:
 
-L'art. 153, relativo alle spese del funzionamento dei corsi di laurea in Scienze biologiche ed in Scienze geologiche e gli articoli da 154 a 158, relativi al funzionamento dell'Istituto di Fisica teorica sono abrogati e sostituiti dai seguenti con il relativo spostamento della successiva numerazione:
+1) Neuroftalmologia;
 
-Art. 153. - Sono costituiti presso la Facolta' di scienze matematiche, fisiche e naturali i seguenti istituti:
+2) Malattie oculari in rapporto ad affezioni generali;
 
-Istituto Chimico;
+3) Malattie professionali, infortunistica, e medicina legale oculare;
 
-Istituto di Chimica organica;
+4) Tecnica operatoria - II parte;
 
-Istituto di Fisica sperimentale;
+5) Tesi di specializzazione.
 
-Istituto di Fisica superiore;
+Art. 293. - Gli esami di profitto si danno alla fine di ciascun anno di corso.
 
-Istituto di Fisica teorica;
+Alla fine del corso gli iscritti, oltre a presentare la dissertazione scritta ed a sostenere la relativa discussione a norma dell'art. 283, devono sostenere una prova pratica sull'ammalato.
 
-Istituto di Fisica terrestre con annesso osservatorio geofisico;
+Art. 317. - Agli insegnamenti della Scuola di specializzazione in Medicina del lavoro sono aggiunti i seguenti:
 
-Istituto di Matematica;
+1° Anno:
 
-Istituto di Antropologia con annesso museo;
+6) Tossicologia industriale.
 
-Istituto di Biologia generale e genetica;
+2° Anno:
 
-Istituto di Botanica;
+6) Anatomia patologica delle malattie professionali.
 
-Istituto di Fisiologia generale;
+Gli articoli 390, 391, 392 e 393 relativi alla Scuola di specializzazione in Semeiotica e diagnostica di laboratorio sono abrogati e sostituiti dai seguenti.
 
-Istituto di Istologia ed embriologia;
+Scuola di specializzazione in Semeiotica e diagnostica di laboratorio
 
-Istituto di Zoologia con annesso museo;
+Art. 390. - La Scuola di specializzazione in Semeiotica e diagnostica di laboratorio ha la durata di tre anni. Possono ottenere la iscrizione alla Scuola, previo esame di ammissione, i laureati, in Medicina e chirurgia.
 
-Istituto di Geologia con annesso museo;
+Il numero massimo degli iscritti e' di trentacinque per ogni anno di corso.
 
-Istituto di Mineralogia con annesso museo;
+Art. 391. - La Scuola e' costituita presso l'Istituto di semeiotica medica della Universita' di Napoli, ed e' posta sotto la direzione del titolare della cattedra di Semeiotica medica, coadiuvato da docenti particolarmente competenti nelle singole branche.
 
-Istituto di Paleontologia con annesso museo;
+Il materiale didattico e' rappresentato dalle attrezzature scientifiche e dalla biblioteca dell'Istituto e di altri Istituti nei quali avranno sede lezioni ed esercitazioni.
 
-Orto botanico.
+Il corso si compone di insegnamenti fondamentali, di esercitazioni pratiche di laboratorio e di conferenze su argomenti di particolare interesse.
 
-Tali istituti hanno lo scopo di promuovere e coordinare l'insegnamento e la ricerca nelle discipline di loro pertinenza.
+La frequenza alle conferenze, alle lezioni ed alle esercitazioni e' obbligatoria.
 
-Art. 154. - La Facolta' determina, con propria deliberazione, alla fine di ciascun anno e per l'anno accademico successivo quali siano gli insegnamenti ufficiali che si svolgeranno presso i singoli istituti.
+Art. 392. - Gli iscritti debbono, durante l'anno accademico, frequentare i laboratori specializzati dell'Istituto di Semeiotica medica e degli altri Istituti sede di insegnamento per branche singole.
 
-Art. 155. - Ogni istituto e' retto da un direttore che e' responsabile dell'amministrazione e del funzionamento dell'Istituto stesso.
+Alla fine di ogni anno accademico gli specializzandi dovranno sostenere gli esami di profitto nelle materie di insegnamento di ciascun anno.
 
-Norme particolari al riguardo potranno essere stabilite dalla Facolta' nei casi in cui se ne ravvisi l'opportunita'.
+Per l'iscrizione all'anno successivo occorre aver superato tutti gli esami dell'anno precedente.
 
-Art. 156. - Qualora fra gli insegnamenti assegnati ad un istituto ve ne sia uno solo tenuto da un professore di ruolo, questi e' di diritto il direttore dell'Istituto.
+Su proposta del direttore della Scuola potra', concedersi l'iscrizione diretta al secondo anno gli aiuti ed agli assistenti delle cliniche universitarie e degli ospedali, sempre previo superamento di un esame di ammissione.
 
-Nel caso che vi siano piu' professori di ruolo, la Facolta', sentito il parere dei medesimi, designera' scegliendo fra di essi, il direttore dell'Istituto, che verra' nominato con decreto rettoriale per un periodo di due anni.
+Al termine del corso gli specializzandi dovranno presentare una dissertazione scritta sul un argomento di Semeiotica funzionale e di tecnica di laboratorio e sostenere la relativa discussione.
 
-Se un istituto manca di professore di ruolo, la direzione verra' affidata di regola ad un professore di ruolo di materia affine, designato dalla Facolta' e nominato con decreto rettoriale per un periodo di due anni.
+Art. 393. - Gli insegnamenti da impartire sono i seguenti:
 
-Art. 157. - Possono essere addetti a un istituto tecnici, bibliotecari, personale amministrativo e subalterni appartenenti ai ruoli universitari ed inoltre, quando esista un Museo annesso, anche conservatori, curatori e preparatori.
+1° Anno:
 
-Art. 158 - E' facolta' del direttore di un istituto di rilasciare ai ricercatori e agli allievi interni che frequentano l'Istituto per almeno sei mesi un attestato degli studi compiuti e dei risultati raggiunti nelle ricerche.
+1) Legislazione sanitarie ed organizzative inerenti alla pratica di un laboratorio di analisi applicate alla clinica (responsabilita' professionale di errore diagnostico - Semeiotica medico-forense di laboratorio);
 
-Art. 159. - Ogni istituto potra' eventualmente disporre, secondo modalita' intese ad assicurare il raggiungimento delle finalita' nel modo piu' idoneo, di fondi per la ricerca e di borse di studio provenienti da enti pubblici o privati e stranieri.
+2) Chimica e fisica applicata alla diagnostica di laboratorio (metodiche generali e particolari, riguardante i liquidi biologici);
 
-Art. 296. - All'elenco degli insegnamenti della Scuola di specializzazione in Malattie nervose e mentali e' aggiunto quello di "Igiene mentale".
+3) Ematologia (morfologia del sangue e degli organi sanguigni, delle prove emogeniche, della velocita' di eritrosedimentazione, della labilita' colloidale dal siero e della massa sanguigna circolante);
 
-Art. 419. - Nella Scuola di specializzazione in ispezione degli alimenti di origine animale, annessa alla Facolta' di medicina veterinaria, l'insegnamento del primo anno "Valore alimentare delle carni di diversa origine", muta denominazione in "Biochimica applicata alla ispezione degli alimenti di origine animale" mentre l'insegnamento del secondo anno: "Ispezione sanitaria delle carni fresche e conservate, dei vari prodotti elaborati dall'industria delle carni, dei prodotti della pesca, di quelli del latte (latticini ed altri prodotti dell'industria lattifera); delle carni di animali da cortile e della cacciagione (pollame, lepri, conigli ecc.)" viene suddiviso nei seguenti insegnamenti:
+4) Batteriologia e sierologia (generalita' di tecnica e di identificazione degli agenti di infezione, allestimenti di autovaccini. Premesse di tecnica sierologica, agglutinazioni sierodiagnostiche e battero-diagnostiche alle reazioni diagnosticamente importanti sul siero e su altri liquores);
 
-"Ispezione delle carni fresche degli animali da macello e della selvaggina";
+5) Virologia (isolamento dei virus, fissazione del complemento con antigeni virali, determinazione di enzimi plasmatici di interesse diagnostico, determinazione di anticorpi neutralizzati serici);
 
-"Vigilanza della lavorazione ed ispezione dei prodotti dell'industria delle conserve di origine animale" "Ispezione dei prodotti della pesca" "Ispezione del latte e prodotti derivati e delle uova".
+6) Parassitologia (parassiti ematici, intestinali, elementi intestinali rari, acari);
+
+7) Prove biologiche e norme di stabilizzazione degli animali da esperimento.
+
+2° Anno:
+
+1) Esercitazioni di chimica e fisica;
+
+2) Esercitazioni di ematologia morfologia;
+
+3) Esercitazioni di emocoagulazione;
+
+4) Esercitazioni di batteriologia e virologia;
+
+5) Esercitazioni di biochimica applicata alle malattie del ricambio;
+
+6) Esercitazioni di laboratorio applicate alle malattie endocrine;
+
+7) Esercitazioni di fisica nucleare applicate alla diagnostica clinica;
+
+8) Indagini strumentali applicate alla diagnostica clinica.
+
+3° Anno:
+
+1) Semeiotica analitica e funzionale applicata al sangue, organi emopoietici, immuno-ematologia e coagulazione;
+
+2) Semeiotica analitica e funzionale applicata alle malattie del fegato vie biliari, pancreas esocrino e tubo digerente;
+
+3) Semeiotica analitica e funzionale applicata alle malattie dell'apparato respiratorio e cardiovascolare;
+
+4) Semeiotica analitica, e funzionale applicata alle malattie endocrine e del ricambio (glicidico, azotato, protidico, lipidico, minerale, idrosalino, proforinico, vitaminico ed anzimatico);
+
+5) Semeiotica analitica e funzionale applicata alle malattie del rene;
+
+6) Semeiotica analitica e funzionale applicata alle malattie nervose e mentali;
+
+7) Cito e istopatologia bioptica;
+
+8) Nozioni elementari di fisica nucleare applicate alle indagini cliniche.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Sassari, addi' 31 dicembre 1963
+Dato a Roma, addi' 1 aprile 1965
 
-SEGNI
+SARAGAT
 
 GUI
 
@@ -161,96 +199,117 @@ Visto, il Guardasigilli: REALE
 Registrato
 ----------
 
-alla Corte dei conti, addi' 21 febbraio 1964 Atti del Governo, registro n. 181, foglio n. 104. - VILLA
+alla Corte dei conti, addi' 6 maggio 1965 Atti del Governo, registro n. 193, foglio n. 18. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, numero 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1938, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare nuove modifiche proposte;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 108. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti quelli di:  
+"Scienza delle costituzioni";  
+"Psichiatria".  
+Gli articoli 292 e 293 relativi alla Scuola di specializzazione in Oculistica sono abrogati e sostituiti dai seguenti.  
   
-Art. 108. - All'elenco degli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti i seguenti:  
-Reumatologia;  
-Gerontologia e geriatria.  
-Art. 116. - All'elenco degli Istituti della Facolta' di medicina e chirurgia e' aggiunto quello di:  
-"Istituto di Semeiotica chirurgica".  
-Art. 118. - All'elenco degli insegnamenti complementari del corso di laurea in Chimica sono aggiunti i seguenti:  
-Per l'indirizzo organico-biologico:  
-Radiochimica;  
-Strutturistica chimica.  
-Indirizzo inorganico chimico fisico:  
-Radiochimica;  
-Strutturistica chimica;  
-Complementi di matematica.  
-Art. 138. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti i seguenti:  
-Paleobotanica Paleontologia umana e paletnologia;  
-Genetica di popolazioni.  
-Art. 146. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti i seguenti:  
-Genetica dei microorganismi;  
-Genetica di popolazioni;  
-Scienza dell'alimentazione.  
-Art. 149. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze geologiche sono aggiunti i seguenti:  
-Geologia dell'Appennino;  
-Geologia sottomarina;  
-Paleobotanica;  
-Paleontologia umana e paletnologia.  
-L'art. 153, relativo alle spese del funzionamento dei corsi di laurea in Scienze biologiche ed in Scienze geologiche e gli articoli da 154 a 158, relativi al funzionamento dell'Istituto di Fisica teorica sono abrogati e sostituiti dai seguenti con il relativo spostamento della successiva numerazione:  
-Art. 153. - Sono costituiti presso la Facolta' di scienze matematiche, fisiche e naturali i seguenti istituti:  
-Istituto Chimico;  
-Istituto di Chimica organica;  
-Istituto di Fisica sperimentale;  
-Istituto di Fisica superiore;  
-Istituto di Fisica teorica;  
-Istituto di Fisica terrestre con annesso osservatorio geofisico;  
-Istituto di Matematica;  
-Istituto di Antropologia con annesso museo;  
-Istituto di Biologia generale e genetica;  
-Istituto di Botanica;  
-Istituto di Fisiologia generale;  
-Istituto di Istologia ed embriologia;  
-Istituto di Zoologia con annesso museo;  
-Istituto di Geologia con annesso museo;  
-Istituto di Mineralogia con annesso museo;  
-Istituto di Paleontologia con annesso museo;  
-Orto botanico.  
-Tali istituti hanno lo scopo di promuovere e coordinare l'insegnamento e la ricerca nelle discipline di loro pertinenza.  
-Art. 154. - La Facolta' determina, con propria deliberazione, alla fine di ciascun anno e per l'anno accademico successivo quali siano gli insegnamenti ufficiali che si svolgeranno presso i singoli istituti.  
-Art. 155. - Ogni istituto e' retto da un direttore che e' responsabile dell'amministrazione e del funzionamento dell'Istituto stesso.  
-Norme particolari al riguardo potranno essere stabilite dalla Facolta' nei casi in cui se ne ravvisi l'opportunita'.  
-Art. 156. - Qualora fra gli insegnamenti assegnati ad un istituto ve ne sia uno solo tenuto da un professore di ruolo, questi e' di diritto il direttore dell'Istituto.  
-Nel caso che vi siano piu' professori di ruolo, la Facolta', sentito il parere dei medesimi, designera' scegliendo fra di essi, il direttore dell'Istituto, che verra' nominato con decreto rettoriale per un periodo di due anni.  
-Se un istituto manca di professore di ruolo, la direzione verra' affidata di regola ad un professore di ruolo di materia affine, designato dalla Facolta' e nominato con decreto rettoriale per un periodo di due anni.  
-Art. 157. - Possono essere addetti a un istituto tecnici, bibliotecari, personale amministrativo e subalterni appartenenti ai ruoli universitari ed inoltre, quando esista un Museo annesso, anche conservatori, curatori e preparatori.  
-Art. 158 - E' facolta' del direttore di un istituto di rilasciare ai ricercatori e agli allievi interni che frequentano l'Istituto per almeno sei mesi un attestato degli studi compiuti e dei risultati raggiunti nelle ricerche.  
-Art. 159. - Ogni istituto potra' eventualmente disporre, secondo modalita' intese ad assicurare il raggiungimento delle finalita' nel modo piu' idoneo, di fondi per la ricerca e di borse di studio provenienti da enti pubblici o privati e stranieri.  
-Art. 296. - All'elenco degli insegnamenti della Scuola di specializzazione in Malattie nervose e mentali e' aggiunto quello di "Igiene mentale".  
-Art. 419. - Nella Scuola di specializzazione in ispezione degli alimenti di origine animale, annessa alla Facolta' di medicina veterinaria, l'insegnamento del primo anno "Valore alimentare delle carni di diversa origine", muta denominazione in "Biochimica applicata alla ispezione degli alimenti di origine animale" mentre l'insegnamento del secondo anno: "Ispezione sanitaria delle carni fresche e conservate, dei vari prodotti elaborati dall'industria delle carni, dei prodotti della pesca, di quelli del latte (latticini ed altri prodotti dell'industria lattifera); delle carni di animali da cortile e della cacciagione (pollame, lepri, conigli ecc.)" viene suddiviso nei seguenti insegnamenti:  
-"Ispezione delle carni fresche degli animali da macello e della selvaggina";  
-"Vigilanza della lavorazione ed ispezione dei prodotti dell'industria delle conserve di origine animale" "Ispezione dei prodotti della pesca" "Ispezione del latte e prodotti derivati e delle uova".  
+Scuola di specializzazione in Oculistica  
+  
+Art. 292. - La Scuola ha la durata di quattro anni.  
+Il numero complessivo degli iscritti ai quattro anni del corso e' di venticinque.  
+Gli insegnamenti impartiti nella Scuola sono i seguenti:  
+1° Anno:  
+1) Anatomia ed istologia dell'apparato oculare;  
+2) Nozioni di embriologia e genetica oculare;  
+3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;  
+4) Nozioni di ottica fisiologica, esame della refrazione;  
+5) Microbiologia ed igiene oculare.  
+2° Anno:  
+1) Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmologia, perimetria, campimetria, adattometria, senso cromatico, tomometria, tonografia, esami elettrofunzionali, radiologia);  
+2) Farmacologia oculare e terapia fisica;  
+3) Anatomia patologica oculare;  
+4) Patologia e clinica oculare (malattie delle palpebre, della congiuntiva, delle vie lacrimali, della cornea e della schera).  
+3° Anno:  
+1) Patologia e clinica oculare (malattie dell'urea della retina, del nervo ottico e delle vie ottiche, dell'occhio nella sua totalita' e della orbita glauco);  
+2) Anomalie e patologia della motilita' oculare e della visione binoculare. Ortottica e pleottica;  
+3) Affezioni otorinolaringoiatriche e occhio;  
+4) Tecnica operatoria - I parte.  
+4° Anno:  
+1) Neuroftalmologia;  
+2) Malattie oculari in rapporto ad affezioni generali;  
+3) Malattie professionali, infortunistica, e medicina legale oculare;  
+4) Tecnica operatoria - II parte;  
+5) Tesi di specializzazione.  
+Art. 293. - Gli esami di profitto si danno alla fine di ciascun anno di corso.  
+Alla fine del corso gli iscritti, oltre a presentare la dissertazione scritta ed a sostenere la relativa discussione a norma dell'art. 283, devono sostenere una prova pratica sull'ammalato.  
+Art. 317. - Agli insegnamenti della Scuola di specializzazione in Medicina del lavoro sono aggiunti i seguenti:  
+1° Anno:  
+6) Tossicologia industriale.  
+2° Anno:  
+6) Anatomia patologica delle malattie professionali.  
+Gli articoli 390, 391, 392 e 393 relativi alla Scuola di specializzazione in Semeiotica e diagnostica di laboratorio sono abrogati e sostituiti dai seguenti.  
+  
+Scuola di specializzazione in Semeiotica e diagnostica di laboratorio   
+Art. 390. - La Scuola di specializzazione in Semeiotica e diagnostica di laboratorio ha la durata di tre anni. Possono ottenere la iscrizione alla Scuola, previo esame di ammissione, i laureati, in Medicina e chirurgia.  
+Il numero massimo degli iscritti e' di trentacinque per ogni anno di corso.  
+Art. 391. - La Scuola e' costituita presso l'Istituto di semeiotica medica della Universita' di Napoli, ed e' posta sotto la direzione del titolare della cattedra di Semeiotica medica, coadiuvato da docenti particolarmente competenti nelle singole branche.  
+Il materiale didattico e' rappresentato dalle attrezzature scientifiche e dalla biblioteca dell'Istituto e di altri Istituti nei quali avranno sede lezioni ed esercitazioni.  
+Il corso si compone di insegnamenti fondamentali, di esercitazioni pratiche di laboratorio e di conferenze su argomenti di particolare interesse.  
+La frequenza alle conferenze, alle lezioni ed alle esercitazioni e' obbligatoria.  
+Art. 392. - Gli iscritti debbono, durante l'anno accademico, frequentare i laboratori specializzati dell'Istituto di Semeiotica medica e degli altri Istituti sede di insegnamento per branche singole.  
+Alla fine di ogni anno accademico gli specializzandi dovranno sostenere gli esami di profitto nelle materie di insegnamento di ciascun anno.  
+Per l'iscrizione all'anno successivo occorre aver superato tutti gli esami dell'anno precedente.  
+Su proposta del direttore della Scuola potra', concedersi l'iscrizione diretta al secondo anno gli aiuti ed agli assistenti delle cliniche universitarie e degli ospedali, sempre previo superamento di un esame di ammissione.  
+Al termine del corso gli specializzandi dovranno presentare una dissertazione scritta sul un argomento di Semeiotica funzionale e di tecnica di laboratorio e sostenere la relativa discussione.  
+Art. 393. - Gli insegnamenti da impartire sono i seguenti:  
+1° Anno:  
+1) Legislazione sanitarie ed organizzative inerenti alla pratica di un laboratorio di analisi applicate alla clinica (responsabilita' professionale di errore diagnostico - Semeiotica medico-forense di laboratorio);  
+2) Chimica e fisica applicata alla diagnostica di laboratorio (metodiche generali e particolari, riguardante i liquidi biologici);  
+3) Ematologia (morfologia del sangue e degli organi sanguigni, delle prove emogeniche, della velocita' di eritrosedimentazione, della labilita' colloidale dal siero e della massa sanguigna circolante);  
+4) Batteriologia e sierologia (generalita' di tecnica e di identificazione degli agenti di infezione, allestimenti di autovaccini. Premesse di tecnica sierologica, agglutinazioni sierodiagnostiche e battero-diagnostiche alle reazioni diagnosticamente importanti sul siero e su altri liquores);  
+5) Virologia (isolamento dei virus, fissazione del complemento con antigeni virali, determinazione di enzimi plasmatici di interesse diagnostico, determinazione di anticorpi neutralizzati serici);  
+6) Parassitologia (parassiti ematici, intestinali, elementi intestinali rari, acari);  
+7) Prove biologiche e norme di stabilizzazione degli animali da esperimento.  
+2° Anno:  
+1) Esercitazioni di chimica e fisica;  
+2) Esercitazioni di ematologia morfologia;  
+3) Esercitazioni di emocoagulazione;  
+4) Esercitazioni di batteriologia e virologia;  
+5) Esercitazioni di biochimica applicata alle malattie del ricambio;  
+6) Esercitazioni di laboratorio applicate alle malattie endocrine;  
+7) Esercitazioni di fisica nucleare applicate alla diagnostica clinica;  
+8) Indagini strumentali applicate alla diagnostica clinica.  
+3° Anno:  
+1) Semeiotica analitica e funzionale applicata al sangue, organi emopoietici, immuno-ematologia e coagulazione;  
+2) Semeiotica analitica e funzionale applicata alle malattie del fegato vie biliari, pancreas esocrino e tubo digerente;  
+3) Semeiotica analitica e funzionale applicata alle malattie dell'apparato respiratorio e cardiovascolare;  
+4) Semeiotica analitica, e funzionale applicata alle malattie endocrine e del ricambio (glicidico, azotato, protidico, lipidico, minerale, idrosalino, proforinico, vitaminico ed anzimatico);  
+5) Semeiotica analitica e funzionale applicata alle malattie del rene;  
+6) Semeiotica analitica e funzionale applicata alle malattie nervose e mentali;  
+7) Cito e istopatologia bioptica;  
+8) Nozioni elementari di fisica nucleare applicate alle indagini cliniche.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Sassari, addi' 31 dicembre 1963
+### Dato a Roma, addi' 1 aprile 1965
 
-SEGNI GUI
+SARAGAT GUI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 21 febbraio 1964
+Registrato alla Corte dei conti, addi' 6 maggio 1965
 
-Atti del Governo, registro n. 181, foglio n. 104. - VILLA
+Atti del Governo, registro n. 193, foglio n. 18. - VILLA

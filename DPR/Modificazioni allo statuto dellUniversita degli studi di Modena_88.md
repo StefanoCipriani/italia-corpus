@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1981 n. 745
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 marzo 1963 n. 609
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1981 n. 745
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 marzo 1963 n. 609
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Modena.
 ------------------------------------------------------------------
@@ -10,91 +10,162 @@ Modificazioni allo statuto dell'Universita' degli studi di Modena.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Modena approvato con [regio decreto 14 ottobre 1926, numero 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035), modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170) e successivi;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Modena e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Sulla proposta del Ministro per la pubblica istruzione;
 
-Sulla
------
+Decreta:
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Art. 9. - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti i seguenti:
 
+15) Diritto fallimentare;
+
+16) Scienza dell'amministrazione;
+
+17) Organizzazione internazionale;
+
+18) Dottrina dello Stato.
+
+Art. 53. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche e' aggiunto quello di:
+
+13) Geologia regionale.
+
+Dopo l'art. 168 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in Stomatologia (malattia della bocca, e protesi dentaria).
+
+Scuola di specializzazione in Stomatologia (Malattie della bocca e protesi dentaria)
+
+Art. 169. - La Scuola di specializzazione in Stomatologia, con sede presso la Clinica odontoiatrica, conferisce il diploma di specialista in stomatologia (malattie della bocca e protesi dentaria).
+
+Art. 170. - Alla Scuola sono ammessi i laureati in medicina e chirurgia. Il corso ha la durata di due anni e vi sono 20 posti disponibili per ogni anno.
+
+Art. 171. - Gli insegnamenti impartiti dalla Scuola sono:
+
+1° anno:
+
+1) Anatomia, embriologia e fisiologia della bocca e dei denti;
+
+2) Patologia e clinica stomatologica;
+
+3) Odontoiatria conservativa;
+
+4) Chirurgia dentaria;
+
+5) Radiologia dentaria e mascellare;
+
+6) Anatomia e istologia patologica orale;
+
+7) Protesi dentaria (biennale);
+
+8) Odontotecnica.
+
+2° anno:
+
+1) Protesi dentaria (biennale);
+
+2) Ortodonzia;
+
+3) Chirurgia della bocca;
+
+4) Paradentologia;
+
+5) Medicina legale e infortunistica stomatologica.
+
+Inoltre saranno tenute conferenze interessanti le specialita' in apporto alla medicina interna, alla clinica pediatrica otorinolaringoiatrica e radioterapia. Gli allievi sono tenuti a seguire i turni di internato stabiliti dalla Direzione della scuola.
+
+Art. 172. - Tutte le lezioni cattedratiche possono essere impartite in modo esplicativo, dimostrativo, sperimentale, di colloquio e di conferenza a seconda delle opportunita' didattiche.
+
+Art. 173. - L'esame di profitto, teorico-pratico su ogni materia di insegnamento, si sosterra' alla fine dei singoli corsi. L'allievo dei 1° anno per essere ammesso al 2° anno deve avere superato gli esami del 1° anno.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 12 marzo 1963
+
+SEGNI
+
+GUI
+
+Visto, il Guardasigilli: BOSCO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 29 aprile 1963 Atti del Governo, registro n. 168, foglio n. 99. -- VILLA
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Lo statuto dell'Universita' di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Veduto lo statuto dell'Universita' degli studi di Modena approvato con [regio decreto 14 ottobre 1926, numero 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035), modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Dopo l'art. 253, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in medicina interna.  
+Decreta:  
   
-Scuola di specializzazione in medicina interna  
-  
-Art. 254. - E' istituita presso la facolta' di medicina e chirurgia dell'Universita' di Modena la scuola di specializzazione in medicina interna che ha sede presso la cattedra di clinica medica generale e terapia medica I e conferisce il diploma di specialista in medicina interna. La direzione della scuola e' affidata al professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione e' affidata al professore associato che pure insegni nella scuola medesima. Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-Art. 255. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione. Il numero massimo degli allievi e' di dieci per anno di corso e complessivamente di cinquanta iscritti per l'intero corso di studi.  
-Art. 256. - L'ammissione alla scuola avviene per titoli ed esami.  
-Art. 257. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-malattie infettive disreattive e del sangue;  
-istituzione di terapia;  
-anatomia ed istologia patologica I (biennale);  
-clinica medica generale e terapia medica I (quinquennale).  
-2° Anno:  
-malattie dell'apparato cardiovascolare;  
-microbiologia e sierologia;  
-chimica clinica;  
-anatomia e istologia patologica II (biennale);  
-clinica medica generale e terapia medica II (quinquennale).  
-3° Anno:  
-malattie dell'apparato digerente;  
-malattie renali;  
-clinica medica generale e terapia medica III (quinquennale).  
-4° Anno:  
-malattie dell'apparato respiratorio;  
-malattie del sistema nervoso;  
-clinica medica generale e terapia medica IV (quinquennale).  
-5° Anno:  
-malattie del ricambio;  
-malattie delle ghiandole endocrine;  
-clinica medica generale e terapia medica V (quinquennale).  
-Gli insegnamenti fondamentali sono integrati, a giudizio del consiglio della scuola, da almeno tra insegnamenti scelti fra i seguenti, che possono essere stabiliti di anno in anno:  
-Insegnamenti complementari:  
-parassitologia medica;  
-genetica medica;  
-semeiotica dermatologica;  
-radiologia;  
-semeiotica oculistica;  
-semeiotica ginecologica.  
-Art. 258. - La frequenza alle lezioni e' obbligatoria.  
-Gli allievi che non conseguono le attestazioni di frequenza non possono essere ammessi a sostenere le prove di esame alla fine di ogni anno di corso. Gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno; per le materie pluriennali, invece, sara' dato l'esame alla fine dei corsi medesimi.  
-Art. 259. - Al termine del corso di studi per il conseguimento del diploma di specialista in medicina interna, gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
-Art. 260. - Le norme generali per l'iscrizione, gli esami, le tasse ecc., sono quelle che regolano le scuole di specializzazione dell'Universita' di Modena.  
+Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 9. - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti i seguenti:  
+15) Diritto fallimentare;  
+16) Scienza dell'amministrazione;  
+17) Organizzazione internazionale;  
+18) Dottrina dello Stato.  
+Art. 53. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche e' aggiunto quello di:  
+13) Geologia regionale.  
+Dopo l'art. 168 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in Stomatologia (malattia della bocca, e protesi dentaria).  
+Scuola di specializzazione in Stomatologia (Malattie della bocca e protesi dentaria)  
+Art. 169. - La Scuola di specializzazione in Stomatologia, con sede presso la Clinica odontoiatrica, conferisce il diploma di specialista in stomatologia (malattie della bocca e protesi dentaria).  
+Art. 170. - Alla Scuola sono ammessi i laureati in medicina e chirurgia. Il corso ha la durata di due anni e vi sono 20 posti disponibili per ogni anno.  
+Art. 171. - Gli insegnamenti impartiti dalla Scuola sono:  
+1° anno:  
+1) Anatomia, embriologia e fisiologia della bocca e dei denti;  
+2) Patologia e clinica stomatologica;  
+3) Odontoiatria conservativa;  
+4) Chirurgia dentaria;  
+5) Radiologia dentaria e mascellare;  
+6) Anatomia e istologia patologica orale;  
+7) Protesi dentaria (biennale);  
+8) Odontotecnica.  
+2° anno:  
+1) Protesi dentaria (biennale);  
+2) Ortodonzia;  
+3) Chirurgia della bocca;  
+4) Paradentologia;  
+5) Medicina legale e infortunistica stomatologica.  
+Inoltre saranno tenute conferenze interessanti le specialita' in apporto alla medicina interna, alla clinica pediatrica otorinolaringoiatrica e radioterapia. Gli allievi sono tenuti a seguire i turni di internato stabiliti dalla Direzione della scuola.  
+Art. 172. - Tutte le lezioni cattedratiche possono essere impartite in modo esplicativo, dimostrativo, sperimentale, di colloquio e di conferenza a seconda delle opportunita' didattiche.  
+Art. 173. - L'esame di profitto, teorico-pratico su ogni materia di insegnamento, si sosterra' alla fine dei singoli corsi. L'allievo dei 1° anno per essere ammesso al 2° anno deve avere superato gli esami del 1° anno.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 maggio 1981
+### Dato a Roma, addi' 12 marzo 1963
 
-PERTINI BODRATO
+SEGNI GUI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 11 dicembre 1981
+Registrato alla Corte dei conti, addi' 29 aprile 1963
 
-Registro n. 123 Istruzione, foglio n. 380
+Atti del Governo, registro n. 168, foglio n. 99. -- VILLA

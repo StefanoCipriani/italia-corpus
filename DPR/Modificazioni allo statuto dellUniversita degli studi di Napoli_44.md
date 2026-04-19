@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1095
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 maggio 1972 n. 252
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1095
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 maggio 1972 n. 252
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,83 +20,61 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Veduta la [legge 24 febbraio 1967, n. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-02-24;62);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte avanzate dalle autorita' accademiche dell'Universita' degli studi di Napoli, intese ad ottenere la istituzione della seconda facolta' di medicina e chirurgia presso l'universita' medesima;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le modifiche proposte;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Considerata la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali e quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Sulla
+-----
 
-Sulla proposta del Ministro della pubblica istruzione;
+proposta del Ministro per la pubblica istruzione; Decreta:
 
-Decreta:
---------
-
-Lo statuto dell'Universita' di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
+Art. 1
+------
 
   
-Dopo l'art. 946, con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i nuovi seguenti articoli relativi alla scuola per tecnici di neurofisiopatologia (scuola diretta a fini speciali).  
-Art. 947. - La scuola ha lo scopo di impartire agli allievi, con unita' di indirizzo e metodo scientifico, tutte le nozioni tecniche, teoriche e pratiche necessarie a ben esercitare la professione di tecnico di neurofisiopatologia.  
-Art. 948. - La durata degli studi della scuola per tecnici di neurofisiopatologia e' di tre anni accademici e non e' suscettibile di abbreviazione.  
-Gli allievi hanno l'obbligo della frequenza alle lezioni, ai seminari e ai tirocini pratici, secondo le modalita' stabilite dal consiglio della scuola.  
-Art. 949. - Sono ammessi alla scuola gli allievi di ambo i sessi in possesso del titolo di studio prescritto per l'ammissione all'Universita', che abbiano superato una prova di cultura generale ed una intervista attitudinale.  
-Art. 950. - Al primo anno della scuola si accede previo esame di cultura generale e attitudinale davanti ad una commissione composta dal direttore della scuola e da due docenti della scuola stessa.  
-L'esame di ammissione avra' luogo entro i primi quindici giorni del mese di ottobre di ciascun anno, in un giorno stabilito dalla seconda facolta' di medicina e chirurgia su proposta del direttore della scuola.  
-Art. 951. - Il numero massimo dei posti disponibili e' stabilito nella misura di dieci per il primo anno.  
-Art. 952. - Le materie di insegnamento sono:  
-1° Anno:  
-1) elementi di elettrotecnica;  
-2) biofisica;  
-3) elementi di neurochimica e neurofarmacologia;  
-4) nozioni di anatomia e fisiologia umana;  
-5) anatomia del sistema nervoso e dell'apparato motore;  
-6) neurofisiologia;  
-7) tecniche neurofisiologiche.  
-2° Anno:  
-1) patologia del sistema nervoso;  
-2) nozioni di elettronica;  
-3) principi di elettroencefalografia;  
-4) poligrafia ed altre tecniche di esplorazione del sistema nervoso;  
-5) elettromiografia.  
-3° Anno:  
-1) neurofisiopatologia ed elettroencefalografia clinica;  
-2) strumentazione elettronica;  
-3) clinica neurologica;  
-4) neuropsichiatria infantile;  
-5) neurochirurgia;  
-6) nozioni di neuropsicologia e psichiatria.  
-Art. 953. - Per essere ammessi al secondo ed al terzo anno, gli allievi dovranno aver superato tutti gli esami del primo e del secondo anno del corso rispettivo.  
-Art. 954. - La frequenza alle lezioni teoriche e alle esercitazioni pratiche e' obbligatoria.  
-Le lezioni verranno impartite agli allievi nelle aule messe a disposizione dalla commissione aule della facolta'. I programmi di insegnamento e gli orari vengono predisposti dal direttore della scuola e approvati dal consiglio della facolta' di medicina e chirurgia.  
-La sorveglianza degli iscritti, per quanto riguarda la loro attivita' pratica, spetta al direttore della scuola.  
-Il tirocinio sara' concluso dagli allievi sempre sotto la guida dei medici e dei tecnici della cattedra di neurofisiopatologia della seconda facolta' di medicina e chirurgia dell'Universita' di Napoli.  
-Per essere ammessi a sostenere gli esami di diploma gli allievi dovranno avere seguito il corso, superato gli esami in tutti gli insegnamenti prescritti e avere compiuto, con esito favorevole, tutte le esercitazioni pratiche previste.  
-Art. 955. - Le commissioni per gli esami di profitto sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Le commissioni sono composte da tre membri: dal professore ufficiale della materia, dal professore della materia affine e da un docente cultore della materia.  
-Ogni commissario ha a disposizione dieci punti.  
-Art. 956. - L'esame di diploma consiste nella discussione di una tesi scritta su un tema preventivamente assegnato dal direttore della scuola e nella prova pratica stabilita da una commissione esaminatrice. L'esame di diploma viene sostenuto da una commissione di cinque membri scelti fra i docenti della scuola nominati dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Ogni commissario ha a disposizione dieci punti. I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza della scuola, ma se al secondo esame non sia loro riconosciuta l'idoneita' saranno senz'altro esclusi da ulteriore prova. Agli allievi che avranno superato l'esame finale viene rilasciato il diploma di tecnico di neurofisiopatologia.  
-Art. 957. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa.  
-In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
-La scuola e' sotto la vigilanza della suddetta facolta'.  
-Gli insegnanti della scuola sono proposti dal direttore della stessa, approvati dalla facolta' di medicina e chirurgia e nominati dal rettore.  
-Essi possono essere scelti tra i professori ufficiali, tra i liberi docenti, tra gli assistenti della facolta' di medicina e chirurgia e di facolta' dell'ateneo o tra persone di riconosciuta competenza anche al di fuori dell'ambito universitario.  
-Art. 958. - Gli iscritti alla scuola sono tenuti al versamento annuo delle tasse, soprattasse e contributi nella misura prevista dalla legge vigente per gli studenti della facolta' di medicina e chirurgia.  
+A decorrere dall'anno accademico 1972-73, e' istituita presso l'Universita' degli studi di Napoli la "seconda facolta' di medicina e chirurgia" comprendente il secondo corso di laurea in medicina e chirurgia.  
+
+Art. 2
+------
+
+  
+A decorrere dallo stesso anno accademico 1972-73, la facolta' di medicina e chirurgia, esistente e funzionante presso l'Universita' degli studi di Napoli, assumera' la denominazione di "prima facolta' di medicina e chirurgia".  
+
+Art. 3
+------
+
+  
+L'organico della "seconda facolta' di medicina e chirurgia" di cui al precedente art. 1 e' costituito con i posti di professore di ruolo, assegnati al raddoppio di cattedre dell'attuale facolta' di medicina e chirurgia e con i posti di assistente a tali cattedre raddoppiate assegnati.  
+I posti di professori e di assistenti di ruolo assegnati alle suddette cattedre raddoppiate sono trasferiti dalla prima alla seconda facolta'.  
+Con i posti si intendono trasferiti anche i relativi professori ed assistenti.  
+
+Art. 4
+------
+
+  
+I professori di ruolo che in base alle disposizioni di cui al precedente art. 3 saranno assegnati alla nuova facolta', verranno a costituire il consiglio di facolta', con le attribuzioni previste dalle vigenti disposizioni di legge e di regolamento.  
+
+Art. 5
+------
+
+  
+Le autorita' accademiche stabiliranno i criteri di massima per la ripartizione degli studenti tra la prima e la seconda facolta' di medicina e chirurgia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1981
+### Dato a Roma, addi' 22 maggio 1972
 
-PERTINI BODRATO
+LEONE MISASI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 10 marzo 1982
+Registrato alla Corte dei conti, addi' 26 giugno 1972
 
-Registro n. 38 Istruzione, foglio n. 266
+Atti del Governo, registro n. 249, foglio n. 115. - CARUSO

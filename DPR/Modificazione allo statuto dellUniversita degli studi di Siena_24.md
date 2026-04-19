@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1985 n. 912
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 novembre 1983 n. 1040
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1985 n. 912
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 novembre 1983 n. 1040
+================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
@@ -33,28 +33,25 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Siena, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Nell'art. 49, relativo al corso di laurea in storia, all'elenco degli insegnamenti complementari per l'indirizzo moderno e' aggiunto il seguente nuovo insegnamento:  
-  
-storia dell'Unione Sovietica.  
+Nell'art. 11, relativo al corso di laurea "in scienze politiche, all'elenco degli insegnamenti complementari per l'indirizzo politico-amministrativo e' aggiunto il seguente nuovo insegnamento:  
+servizio sociale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 ottobre 1985
+### Dato a Roma, addi' 25 novembre 1983
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 14 febbraio 1986
+Registrato alla Corte dei conti, addi' 29 febbraio 1984
 
-Registro n. 9 Istruzione, foglio n. 127
+Registro n. 13 Istruzione, foglio n. 45

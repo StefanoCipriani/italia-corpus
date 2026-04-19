@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 settembre 1970 n. 799
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1971 n. 1117
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 settembre 1970 n. 799
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1971 n. 1117
+===============================================================
 
 Autorizzazione all'Universita' degli studi di Genova ad acquistare un immobile.
 -------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-799. Decreto del Presidente della Repubblica 23 settembre 1970, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Genova viene autorizzata ad acquistare, al prezzo complessivo di L. 110.000.000, l'immobile denominato "Villa Bonino", sito in Genova, viale Causa, 13.  
+1117. Decreto del Presidente della Repubblica 4 ottobre 1971, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Genova viene autorizzata ad acquistare l'intero primo piano di un edificio sito in Genova, via Balbi, 30, al prezzo di L. 70.000.000.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 9 novembre 1970  
-Atti del Governo, registro n. 238, foglio n. 41. - CARUSO
+Visto, il Guardasigilli: COLOMBO  
+Registrato alla Corte dei conti, addi' 21 dicembre 1971  
+Atti del Governo registro n. 245, foglio n. 126. - VALENTINI

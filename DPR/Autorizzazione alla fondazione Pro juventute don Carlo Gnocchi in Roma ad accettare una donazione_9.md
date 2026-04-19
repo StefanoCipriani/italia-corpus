@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1986 n. 981
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1984 n. 84
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1986 n. 981
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1984 n. 84
+===========================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una donazione.
 ------------------------------------------------------------------------------------------------------
@@ -10,10 +10,10 @@ Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad ac
 Art. 1
 ------
 
-n.
+N.
 
-981. Decreto del Presidente della Repubblica 3 dicembre 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare la donazione, consistente in un appezzamento di terreno sito nel comune di Cinisello Balsamo, distinto nel nuovo catasto terreni alla partita 4013, valore peritato L. 1.500.000, elevato dall'ufficio tecnico erariale di Milano a L. 3.700.000, disposta dal sig. Pavesi Natale con atto 15 ottobre 1982, n. 7804/1224 di repertorio, a rogito dott. Ulderico Brambilla, notaio in Milano, registrato a Milano in data 22 ottobre 1982 al n. 22289.  
+84. Decreto del Presidente della Repubblica 2 marzo 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare la donazione, consistente nella quota di meta' dell'immobile sito nel comune di Lurate Caccivio, via Olgiate n. 11, distinto nel nuovo catasto edilizio urbano alla partita 265, foglio 6, mappale 2251 sub 1 e mappale 2251 sub 2, con la pertinente area di cortile, valore attribuito con perizia di parte lire 25.000.000 elevato dall'ufficio tecnico erariale di Como a L. 50.000.000: quota 1/2 = L. 25.000.000, disposta dalla sig.ra Maspero Pierina con atto pubblico 30 novembre 1973, n. 17253/1826 di repertorio, a rogito dott. Ferruccio Brambilla, notaio in Milano, registrato a Busto Arsizio in data 14 dicembre 1973 al n. 3185.  
   
-Visto, il Guardasigilli: ROGNONI  
-Registrato alla Corte dei conti, addi' 14 gennaio 1987  
-Registro n. 1 Presidenza, foglio n. 179
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 10 aprile 1984  
+Registro n. 3 Presidenza, foglio n. 344

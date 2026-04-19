@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 giugno 1977 n. 673
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 aprile 1977 n. 400
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 giugno 1977 n. 673
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 aprile 1977 n. 400
 =============================================================
 
 Autorizzazione all'associazione "Casa di carita' arti e mestieri", in Torino, ad accettare una donazione.
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-673. Decreto del Presidente della Repubblica 10 giugno 1977, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, a parziale rettifica ed integrazione del [decreto del Presidente della Repubblica 31 luglio 1975, n. 652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1975-07-31;652), l'associazione "Casa di carita' arti e mestieri", in Torino, viene autorizzata ad accettare la donazione, da parte dell'Opera diocesana della prevenzione della fede di Torino, dello stabile e del terreno ubicati in via Bosconero n. 6 distinto nella mappa catastale governativa terreni dell'ufficio tecnico erariale al foglio 52 con n. 18/ C e alla mappa indicativa del nuovo catasto edilizio urbano con i numeri 26, 27, 28 e 162 dello stesso foglio 52 di mappa ed estesamente descritto nell'atto di donazione del 30 novembre 1971, a rogito notar Billia in Torino, n. 40953/20460 di repertorio, e registrato il 14 dicembre 1971 al n. 39656, vol. 1197.  
+400. Decreto del presidente della Repubblica 1 aprile 1977, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'associazione "Casa di carita' arti e mestieri", in Torino, viene autorizzata ad accettare la donazione, da parte dell'"Unione catechisti del SS. Crocefisso e di Maria SS.  
+Immacolata", di Torino, dell'immobile sito in Torino, via Bernardino Galliari, 2, angolo via Saluzzo, censito al nuovo catasto edilizio urbano alla partita 62614, foglio 189, n. 183, comprendente quattordici unita' immobiliari per vani accatastati 42, mq 274, con atto rogato per notar Billia di Torino in data 28 gennaio 1976, n. 61190/28483 di repertorio, registrato in Torino, ufficio atti pubblici il 13 febbraio 1976, al n. 5850, vol. 1313, allo scopo di destinarlo al raggiungimento dei fini istituzionali.  
   
 Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 27 agosto 1977  
-Registro n. 1 Lavoro, foglio n. 29
+Registrato alla Corte dei conti, addi' 7 luglio 1977  
+Registro n. 1 Lavoro, foglio n. 26

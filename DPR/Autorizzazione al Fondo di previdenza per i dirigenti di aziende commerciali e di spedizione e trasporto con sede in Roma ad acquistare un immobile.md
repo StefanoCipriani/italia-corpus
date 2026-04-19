@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 agosto 1964 n. 912
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 agosto 1963 n. 1396
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 agosto 1964 n. 912
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 agosto 1963 n. 1396
+==============================================================
 
 Autorizzazione al Fondo di previdenza per i dirigenti di aziende commerciali e di spedizione e trasporto, con sede in Roma, ad acquistare un immobile.
 ------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-912. Decreto del Presidente della Repubblica 31 agosto 1964, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, il Fondo di previdenza per i dirigenti di aziende commerciali e di spedizione e trasporto, con sede in Roma, viene autorizzato ad acquistare, per il prezzo di L. 554.000.000, l'immobile costituito da un fabbricato (lotto D) sito in Roma alla via Flavio Stilicone, senza numero civico, di proprieta' dell'impresa edile Creonte Lamborghini di Roma.  
+1396. Decreto del Presidente della Repubblica 28 agosto 1963, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, il Fondo di previdenza per i dirigenti di aziende commerciali e di spedizione e trasporto, con sede in Roma, viene autorizzato ad acquistare, per il prezzo di L. 270.000.000, dalla Societa' per azioni immobiliare "Sant'Emilia", con sede sociale in Genova, l'immobile costituito da un fabbricato intensivo e dalle aree scoperte ad esso pertinenti, sito in Roma, via Quintino Varo, ancora senza numero civico, distinto nel catasto del comune di Roma, sezione A, foglio n. 965, particella n. 183.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 23 settembre 1964  
-Atti del Governo, registro n. 186, foglio n. 140. - CARUSO
+Visto, il Guardasigilli: BOSCO  
+Registrato alla Corte dei conti, addi' 18 ottobre 1963  
+Atti del Governo, registro n. 175, foglio n. 36. - VILLA

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 febbraio 1962 n. 242
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1963 n. 702
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 febbraio 1962 n. 242
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1963 n. 702
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -10,13 +10,15 @@ Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successivi;
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), modificato con [regio decreto 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-12;2227) e successivi;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
@@ -30,134 +32,81 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 61. - Agli Istituti annessi alla Facolta' di lettere e filosofia e aggiunto quello di: "Antichita' ravennati e paleobizantine".
+Art. 38. - Agli insegnamenti complementari del corso di laurea in Economia e commercio sono aggiunti quelli di:
 
-Dopo l'art. 175, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione del corso di perfezionamento in Diritto sanitario.
+Ragioneria pubblica;
 
-Art. 158. - Alla, Facolta' di giurisprudenza e' annesso un corso di perfezionamento in diritto sanitario.
+Contabilita' nazionale;
 
-Art. 159. - Il corso ha lo scopo di conferire una specifica preparazione agli aspiranti alle carriere nelle amministrazioni di enti ed organi preposti alla tutela della salute ed igiene dei cittadini.
+Diritto fallimentare;
 
-Art. 160. - Al corso possono accedere laureati in giurisprudenza, in scienze politiche, in economia e commercio, in medicina e chirurgia, in medicina veterinaria, in farmacia, in ingegneria, in chimica,.
+Statistica sociale e giudiziaria;
 
-Art. 161. - Il corso ha, la durata di un anno.
+Statistica sanitaria.
 
-Art. 162. - Il corso ha un direttore, due vicedirettori, un Consiglio dei docenti.
+Dopo l'art. 47, e con il conseguente spostamento della successiva numerazione e' inserito il seguente articolo relativo agli Istituti annessi alla Facolta' di economia e commercio.
 
-Art. 163. - Il direttore e i vice direttori sono nominati dal rettore dell'Universita' di Bologna per un biennio ed alla scadenza possono essere confermati nell'ufficio rispettivo.
+Art. 48. - Alla Facolta' di economia e commercio sono annessi i seguenti Istituti:
 
-La nomina del direttore e' fatta su proposta del Consiglio della Facolta' di giurisprudenza fra i professori anche fuori ruolo della Facolta' e quella dei vice direttori, su proposta del direttore, sentita la Facolta'.
+Istituto di Diritto;
 
-Il Consiglio dei docenti e' costituito dagli incaricati di materie di insegnamento.
+Istituto di Economia;
 
-Art. 164. - Gli incarichi di insegnamento anche per parti di materie e gruppi di materie sono conferiti dal rettore dell'Universita' di Bologna, su proposta della Facolta', di giurisprudenza per un numero determinato di ore.
+Istituto di Geografia economica;
 
-Il pagamento degli incarichi sara' effettuato in relazione al numero di lezioni svolte.
+Istituto di Lingue;
 
-Art. 165. - I singoli docenti di materie di insegnamento, potranno, proporre la nomina di assistenti volontari.
+Istituto di Matematica finanziaria;
 
-Art. 166. - Le materie di insegnamento presso il Corso, sono le seguenti:
+Istituto di Merceologia;
 
-Insegnamenti fondamentali:
+Istituto di Politica economica;
 
-1) Elementi di diritto costituzionale con particolare riferimento alla tutela dell'igiene e sanita' pubblica;
+Istituto di Ragioneria pubblica e privata;
 
-2) Principi di diritto amministrativo con particolare riferimento alla tutela dell'igiene e sanita' pubblica;
+Istituto di Statistica;
 
-3) L'esplicazione della funzione sanitaria; fini e mezzi; soggetti che svolgono azione sanitaria;
+Istituto di Storia economica e sociale.
 
-4) La polizia sanitaria.
+Art. 68, relativo al corso di laurea in Lingue e letterature straniere, e' modificato nel senso che il penultimo comma e' abrogato e sostituito dal seguente:
 
-Gruppo A - Organizzazione sanitaria:
+"Lo studente deve sostenere una prova scritta, di italiano, una di traduzione latina ed una di cultura generale nella lingua straniera nella quale ha approfondito i suoi studi per il conseguimento della laurea.
 
-1) L'organizzazione sanitaria centrale periferica dello Stato: compiti e limiti della rispettiva azione
+Tale prova verra' sostenuta dallo studente nel quarto anno, mentre alla fine di ognuno dei primi tre anni egli deve essere sottoposto a prove scritte nella stessa lingua, gradualmente progressive.
 
-2) L'organizzazione sanitaria degli enti locali territoriali; limiti della rispettiva azione; consorzi sanitari;
+Art. 90. - Agli insegnamenti complementari del corso di laurea in Farmacia e' aggiunto quello di "Chimica farmaceutica applicata".
 
-3) La legislazione ed il servizio farmaceutico;
+Art. 117. - Agli insegnamenti complementari del corso di laurea in Scienze agrarie e' aggiunto quello di "Frutticoltura industriale".
 
-4) L'organizzazione sanitaria internazionale e principali ordinamenti sanitari stranieri.
+Art. 262, relativo all'internato richiesto agli allievi della Scuola di perfezionamento in Ostetricia e ginecologia, e' abrogato e sostituito dal seguente.
 
-Gruppo B - Istituti ospedalieri:
-
-5)Ordinamento generale ospedaliero e amministrazione ospedaliera;
-
-6) Personale ospedaliero;
-
-7) rapporto di assistenza ospedaliera;
-
-8) Ordinamenti speciali degli Istituti ospedalieri dipendenti dallo Stato, dalle Province e dai Comuni e, comunque, non aventi natura di opera pia, rispettivo personale.
-
-Gruppo C - Legislazione assitenziale e previdenziale:
-
-9) Principi generali in materia assistenziale e previdenziale
-
-10) Le assicurazioni sociali ordinamento dei vari enti assistenziali ed assicurativi;
-
-11) Erogazione delle provvidenze dagli enti previdenziali ed assicurativi; contenzioso;
-
-12) Assistenza sociale e previdenza nell'ambito delle assicurazioni private;
-
-13) Politica economica della sicurezza sociale.
-
-Gruppo D - Professioni sanitarie:
-
-14) Le professioni sanitarie, le professioni sanitarie e ausiliarie, le arti ausiliarie delle professioni sanitarie. Ordini, associazioni, collegi;
-
-15) Responsabilita' civile, disciplinare e penale degli esercenti le professioni sanitarie; organi competenti al relativo accertamento, procedimento.
-
-Art. 167, - Durante l'anno accademico saranno tenute esercitazioni pratiche di attivita' amministrativa nel campo sanitario.
-
-Art. 168. - La Direzione del corso potra' promuovere cicli di conferenze su argomenti di particolare interesse.
-
-Art. 169. - Le date di inizio ed il termine delle lezioni sono stabilite dal Consiglio dei docenti, il quale predispone anche l'ordinamento e la successione dei corsi di lezioni graduandoli nel modo piu' confacente ai fini didattici.
-
-Art. 170. - Gli allievi, al termine del corso, dovranno sostenere un colloquio sulle materie fondamentali e su quelle di almeno due gruppi di materie complementari.
-
-Art. 171. - Gli iscritti che al termine del corso abbiano superato il colloquio conseguiranno un certificato di frequenza e profitto.
-
-Art. 172. - Il Consiglio dei docenti compilera' il regolamento di esecuzione delle presenti norme statutarie.
-
-Art. 173. - I proventi del corso sono costituiti dalle tasse di iscrizione e frequenza e sopratassa esami e da eventuali contributi e sovvenzioni varie.
-
-Dopo l'art. 197 e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi all'istituzione del corso di perfezionamento sulle proprieta' fisiche della, materia vivente.
-
-Art. 198. - Alla Facolta' di scienze matematiche, fisiche e naturali e' annesso il corso di perfezionamento sulle proprieta' fisiche della, materia vivente, che ha lo scopo di orientare verso questi moderni indirizzi di ricerca un ristretto numero di giovani laureati.
-
-Art. 199. - Al corso possono iscriversi i laureati in Scienze biologiche, Scienze naturali o in Medicina e chirurgia che abbiano superato un apposito esame diretto a stabilirne il grado di preparazione e la idoneita'.
-
-La durata del corso e' di due anni Accademici e gli iscritti a ciascun corso non possono superare il numero di sei; essi godono durante questo periodo di una borsa di studio e pertanto hanno l'obbligo di frequentare regolarmente per il biennio uno degli Istituti della Facolta' di scienze o della Facolta' di medicina e chirurgia, nei quali si tengono le lezioni, elaborandovi la tesi di perfezionamento.
-
-Art. 200. Le materie obbligatorie sono seguenti: per il primo anno di corso Fisico-Chimica, Statistica-Genetica Proprieta' fisiche della cellula; per il secondo anno di corso Fisiopatologia cellulare, Citofarmacologia, Biofisica, Strutturistica biologica, I corsi vengono affidati a cultori delle singole materie, scelti fra professori della, Universita' di Bologna, sia fra cultori specialisti di altre sedi italiane e straniere secondo le vigenti norme di legge.
-
-E' previsto un insegnante straniero per ogni anno di corso.
-
-Art. 201. - Alla fine di ciascun anno gli allievi sono tenuti a superare gli esami delle rispettive materie; alla fine del biennio ottengono un diploma dopo discussione della tesi.
+Agli iscritti ai corsi e' richiesto un turno d'internato da fissarsi di anno in anno dalla Direzione della scuola".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 13 febbraio 1962
+Dato a Roma, addi' 28 marzo 1963
 
-GRONCHI
+SEGNI
 
-BOSCO
+GUI
 
 Visto, il Guardasigilli: BOSCO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 11 maggio 1962 Atti del Governo, registro n. 146, foglio n. 71. - VILLA
+alla Corte dei conti, addi' 28 maggio 1963 Atti del Governo, registro n. 170, foglio n. 2. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successivi;  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), modificato con [regio decreto 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-12;2227) e successivi;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -166,69 +115,42 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 61. - Agli Istituti annessi alla Facolta' di lettere e filosofia e aggiunto quello di: "Antichita' ravennati e paleobizantine".  
-Dopo l'art. 175, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione del corso di perfezionamento in Diritto sanitario.  
-Art. 158. - Alla, Facolta' di giurisprudenza e' annesso un corso di perfezionamento in diritto sanitario.  
-Art. 159. - Il corso ha lo scopo di conferire una specifica preparazione agli aspiranti alle carriere nelle amministrazioni di enti ed organi preposti alla tutela della salute ed igiene dei cittadini.  
-Art. 160. - Al corso possono accedere laureati in giurisprudenza, in scienze politiche, in economia e commercio, in medicina e chirurgia, in medicina veterinaria, in farmacia, in ingegneria, in chimica,.  
-Art. 161. - Il corso ha, la durata di un anno.  
-Art. 162. - Il corso ha un direttore, due vicedirettori, un Consiglio dei docenti.  
-Art. 163. - Il direttore e i vice direttori sono nominati dal rettore dell'Universita' di Bologna per un biennio ed alla scadenza possono essere confermati nell'ufficio rispettivo.  
-La nomina del direttore e' fatta su proposta del Consiglio della Facolta' di giurisprudenza fra i professori anche fuori ruolo della Facolta' e quella dei vice direttori, su proposta del direttore, sentita la Facolta'.  
-Il Consiglio dei docenti e' costituito dagli incaricati di materie di insegnamento.  
-Art. 164. - Gli incarichi di insegnamento anche per parti di materie e gruppi di materie sono conferiti dal rettore dell'Universita' di Bologna, su proposta della Facolta', di giurisprudenza per un numero determinato di ore.  
-Il pagamento degli incarichi sara' effettuato in relazione al numero di lezioni svolte.  
-Art. 165. - I singoli docenti di materie di insegnamento, potranno, proporre la nomina di assistenti volontari.  
-Art. 166. - Le materie di insegnamento presso il Corso, sono le seguenti:  
-Insegnamenti fondamentali:  
-1) Elementi di diritto costituzionale con particolare riferimento alla tutela dell'igiene e sanita' pubblica;  
-2) Principi di diritto amministrativo con particolare riferimento alla tutela dell'igiene e sanita' pubblica;  
-3) L'esplicazione della funzione sanitaria; fini e mezzi; soggetti che svolgono azione sanitaria;  
-4) La polizia sanitaria.  
-Gruppo A - Organizzazione sanitaria:  
-1) L'organizzazione sanitaria centrale periferica dello Stato: compiti e limiti della rispettiva azione  
-2) L'organizzazione sanitaria degli enti locali territoriali; limiti della rispettiva azione; consorzi sanitari;  
-3) La legislazione ed il servizio farmaceutico;  
-4) L'organizzazione sanitaria internazionale e principali ordinamenti sanitari stranieri.  
-Gruppo B - Istituti ospedalieri:  
-5)Ordinamento generale ospedaliero e amministrazione ospedaliera;  
-6) Personale ospedaliero;  
-7) rapporto di assistenza ospedaliera;  
-8) Ordinamenti speciali degli Istituti ospedalieri dipendenti dallo Stato, dalle Province e dai Comuni e, comunque, non aventi natura di opera pia, rispettivo personale.  
-Gruppo C - Legislazione assitenziale e previdenziale:  
-9) Principi generali in materia assistenziale e previdenziale  
-10) Le assicurazioni sociali ordinamento dei vari enti assistenziali ed assicurativi;  
-11) Erogazione delle provvidenze dagli enti previdenziali ed assicurativi; contenzioso;  
-12) Assistenza sociale e previdenza nell'ambito delle assicurazioni private;  
-13) Politica economica della sicurezza sociale.  
-Gruppo D - Professioni sanitarie:  
-14) Le professioni sanitarie, le professioni sanitarie e ausiliarie, le arti ausiliarie delle professioni sanitarie. Ordini, associazioni, collegi;  
-15) Responsabilita' civile, disciplinare e penale degli esercenti le professioni sanitarie; organi competenti al relativo accertamento, procedimento.  
-Art. 167, - Durante l'anno accademico saranno tenute esercitazioni pratiche di attivita' amministrativa nel campo sanitario.  
-Art. 168. - La Direzione del corso potra' promuovere cicli di conferenze su argomenti di particolare interesse.  
-Art. 169. - Le date di inizio ed il termine delle lezioni sono stabilite dal Consiglio dei docenti, il quale predispone anche l'ordinamento e la successione dei corsi di lezioni graduandoli nel modo piu' confacente ai fini didattici.  
-Art. 170. - Gli allievi, al termine del corso, dovranno sostenere un colloquio sulle materie fondamentali e su quelle di almeno due gruppi di materie complementari.  
-Art. 171. - Gli iscritti che al termine del corso abbiano superato il colloquio conseguiranno un certificato di frequenza e profitto.  
-Art. 172. - Il Consiglio dei docenti compilera' il regolamento di esecuzione delle presenti norme statutarie.  
-Art. 173. - I proventi del corso sono costituiti dalle tasse di iscrizione e frequenza e sopratassa esami e da eventuali contributi e sovvenzioni varie.  
-Dopo l'art. 197 e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi all'istituzione del corso di perfezionamento sulle proprieta' fisiche della, materia vivente.  
-Art. 198. - Alla Facolta' di scienze matematiche, fisiche e naturali e' annesso il corso di perfezionamento sulle proprieta' fisiche della, materia vivente, che ha lo scopo di orientare verso questi moderni indirizzi di ricerca un ristretto numero di giovani laureati.  
-Art. 199. - Al corso possono iscriversi i laureati in Scienze biologiche, Scienze naturali o in Medicina e chirurgia che abbiano superato un apposito esame diretto a stabilirne il grado di preparazione e la idoneita'.  
-La durata del corso e' di due anni Accademici e gli iscritti a ciascun corso non possono superare il numero di sei; essi godono durante questo periodo di una borsa di studio e pertanto hanno l'obbligo di frequentare regolarmente per il biennio uno degli Istituti della Facolta' di scienze o della Facolta' di medicina e chirurgia, nei quali si tengono le lezioni, elaborandovi la tesi di perfezionamento.  
-Art. 200. Le materie obbligatorie sono seguenti: per il primo anno di corso Fisico-Chimica, Statistica-Genetica Proprieta' fisiche della cellula; per il secondo anno di corso Fisiopatologia cellulare, Citofarmacologia, Biofisica, Strutturistica biologica, I corsi vengono affidati a cultori delle singole materie, scelti fra professori della, Universita' di Bologna, sia fra cultori specialisti di altre sedi italiane e straniere secondo le vigenti norme di legge.  
-E' previsto un insegnante straniero per ogni anno di corso.  
-Art. 201. - Alla fine di ciascun anno gli allievi sono tenuti a superare gli esami delle rispettive materie; alla fine del biennio ottengono un diploma dopo discussione della tesi.  
+Art. 38. - Agli insegnamenti complementari del corso di laurea in Economia e commercio sono aggiunti quelli di:  
+Ragioneria pubblica;  
+Contabilita' nazionale;  
+Diritto fallimentare;  
+Statistica sociale e giudiziaria;  
+Statistica sanitaria.  
+Dopo l'art. 47, e con il conseguente spostamento della successiva numerazione e' inserito il seguente articolo relativo agli Istituti annessi alla Facolta' di economia e commercio.  
+Art. 48. - Alla Facolta' di economia e commercio sono annessi i seguenti Istituti:  
+Istituto di Diritto;  
+Istituto di Economia;  
+Istituto di Geografia economica;  
+Istituto di Lingue;  
+Istituto di Matematica finanziaria;  
+Istituto di Merceologia;  
+Istituto di Politica economica;  
+Istituto di Ragioneria pubblica e privata;  
+Istituto di Statistica;  
+Istituto di Storia economica e sociale.  
+Art. 68, relativo al corso di laurea in Lingue e letterature straniere, e' modificato nel senso che il penultimo comma e' abrogato e sostituito dal seguente:  
+"Lo studente deve sostenere una prova scritta, di italiano, una di traduzione latina ed una di cultura generale nella lingua straniera nella quale ha approfondito i suoi studi per il conseguimento della laurea.  
+Tale prova verra' sostenuta dallo studente nel quarto anno, mentre alla fine di ognuno dei primi tre anni egli deve essere sottoposto a prove scritte nella stessa lingua, gradualmente progressive.  
+Art. 90. - Agli insegnamenti complementari del corso di laurea in Farmacia e' aggiunto quello di "Chimica farmaceutica applicata".  
+Art. 117. - Agli insegnamenti complementari del corso di laurea in Scienze agrarie e' aggiunto quello di "Frutticoltura industriale".  
+Art. 262, relativo all'internato richiesto agli allievi della Scuola di perfezionamento in Ostetricia e ginecologia, e' abrogato e sostituito dal seguente.  
+Agli iscritti ai corsi e' richiesto un turno d'internato da fissarsi di anno in anno dalla Direzione della scuola".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 febbraio 1962
+### Dato a Roma, addi' 28 marzo 1963
 
-GRONCHI BOSCO
+SEGNI GUI
 
 Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 11 maggio 1962
+Registrato alla Corte dei conti, addi' 28 maggio 1963
 
-Atti del Governo, registro n. 146, foglio n. 71. - VILLA
+Atti del Governo, registro n. 170, foglio n. 2. - VILLA

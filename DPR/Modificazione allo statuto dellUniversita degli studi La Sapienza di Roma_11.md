@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 525
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1101
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 525
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1101
+================================================================
 
 Modificazione allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
 ------------------------------------------------------------------------------
@@ -39,18 +39,20 @@ Articolo unico
 --------------
 
   
-Art. 46 - nell'elenco degli insegnamenti complementari del corso di laurea in economia e commercio e' inserito l'insegnamento di "agricoltura e sviluppo economico".  
+Nell'art. 54, all'elenco degli insegnamenti complementari del corso di laurea in scienze statistiche ed attuariali e' aggiunto l'insegnamento di "matematica delle assicurazioni sociali".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 giugno 1983
+### Dato a Roma, addi' 31 dicembre 1985
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 23 settembre 1983
+Registrato alla Corte dei conti, addi' 19 maggio 1986
 
-Registro n. 62 Istruzione, foglio n. 312
+Registro n. 39 Istruzione, foglio n. 149

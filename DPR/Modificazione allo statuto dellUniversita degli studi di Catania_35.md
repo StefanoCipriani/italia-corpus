@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 458
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1983 n. 1032
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 458
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1983 n. 1032
+===============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
@@ -39,21 +39,18 @@ Articolo unico
 --------------
 
   
-Nell'art. 51, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-analisi biologiche e di laboratorio.  
+Nell'art. 57, relativo al corso di laurea in chimica, agli elenchi degli insegnamenti complementari degli indirizzi organico-biologico e inorganico-chimico-fisico e' aggiunto il seguente nuovo insegnamento: chimica bio-organica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 aprile 1986
+### Dato a Roma, addi' 24 ottobre 1983
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 17 luglio 1986
+Registrato alla Corte dei conti, addi' 29 febbraio 1984
 
-Registro n. 57 Istruzione, foglio n. 104
+Registro n. 13 Istruzione, foglio n. 68

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1963 n. 1366
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1983 n. 895
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1963 n. 1366
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1983 n. 895
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904) e successivi;
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 14 ottobre 1926, n. 2090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2090), e modificato con [regio decreto 13 ottobre 1927, n. 2281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2281), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,248 +18,107 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+
+Veduto il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti suindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Gli articoli dal n. 196 al n. 205 relativi agli Istituti di Caratteri distributivi degli edifici e di Fisica, Fisica tecnica e Impianti tecnici annessi alla Facolta' di architettura sono abrogati e sostituiti dai seguenti:
+Articolo unico
+--------------
 
-Art. 196. - Sono costituiti presso la Facolta' di architettura i seguenti Istituti:
-
-Istituto di Matematica;
-
-Istituto di Caratteri stilistici e costruttivi dei monumenti;
-
-Istituto di Composizione architettonica;
-
-Istituto di Scienza delle costruzioni;
-
-Istituto di Caratteri distributivi degli edifici;
-
-Istituto di Fisica;
-
-Istituto di Urbanistica.
-
-Tali Istituti hanno lo scopo di promuovere e coordinare l'insegnamento e la ricerca nelle discipline di loro pertinenza. Essi utilizzano i locali, il personale e le dotazioni assegnati alle Cattedre che li costituiscono.
-
-Art. 197. - La Facolta' determina, con propria deliberazione, alla fine di ciascun anno e per l'anno accademico successivo quali siano gli insegnamenti ufficiali che si svolgono presso i singoli Istituti.
-
-Art. 198. - Ogni Istituto e' retto da un direttore che e' responsabile dell'amministrazione e del funzionamento dell'Istituto stesso. Norme particolari al riguardo potranno essere stabilite dalla Facolta' nei casi in cui se ne ravvisi l'opportunita'.
-
-Art. 199. - Qualora fra gli insegnamenti assegnati ad un Istituto ve ne sia uno solo tenuto da un professore di ruolo, questi e' di diritto il direttore dell'Istituto.
-
-Nel caso che vi siano piu' professori di ruolo, la Facolta', sentito il parere dei medesimi, designera', scegliendo fra di essi, il direttore dell'istituto che verra' nominato con decreto rettorale per un periodo di tre anni.
-
-Se un Istituto manca di professore di ruolo, la direzione verra' affidata, di regola, ad un professore di ruolo di materia affine, designato dalla Facolta' e nominato con decreto rettorale per un periodo di tre anni.
-
-Art. 200. - Possono essere addetti ad un Istituto, assistenti, tecnici, bibliotecari, personale amministrativo e subalterno e salariati appartenenti ai ruoli universitari.
-
-Art. 201. - E' facolta' del direttore di un Istituto di rilasciare a chi frequenta l'istituto per almeno sei mesi un attestato degli studi compiuti e dei risultati raggiunti nelle ricerche.
-
-Art. 202. - Ogni Istituto potra' eventualmente disporre, secondo modalita' intese ad assicurare il raggiungimento delle finalita' nel modo piu' idoneo, di fondi per la ricerca e di borse di studio provenienti da Enti pubblici o privati italiani e stranieri.
-
-Art. 220. - Agli insegnamenti complementari del corso di laurea in Medicina veterinaria sono aggiunti quelli di:
-
-13) Semeiotica chirurgica;
-
-14) Semeiotica medica;
-
-15) Ematologia comparata;
-
-16) Patologia aviare.
-
-Dopo l'art. 223, sono aggiunti i seguenti nuovi articoli relativi alla costituzione e la regolamentazione degli Istituti annessi alla Facolta' di medicina veterinaria con il conseguente spostamento della numerazione degli articoli successivi.
-
-Art. 224. - Sono costituiti presso la Facolta' di Medicina veterinaria, i seguenti Istituti:
-
-Istituto di Anatomia normale veterinaria con istologia ed embriologia;
-
-Istituto di Patologia generale ed Anatomia patologica;
-
-Istituto di Patologia speciale e Clinica medica;
-
-Istituto di Patologia speciale e Clinica chirurgica;
-
-Istituto di Malattie infettive, profilassi e polizia veterinaria;
-
-Istituto di Zootecnica generale.
-
-Tali Istituti hanno lo scopo di promuovere e coordinare l'insegnamento e la ricerca nelle discipline di loro pertinenza.
-
-Art. 225. - La Facolta' determina, con propria deliberazione, alla fine di ciascun anno e per l'anno accademico successivo quali siano gli insegnamenti ufficiali che si svolgeranno presso i singoli Istituti.
-
-Art. 226. - Ogni Istituto e' retto da un direttore che e' responsabile della amministrazione e del funzionamento dell'Istituto stesso.
-
-Norme particolari al riguardo potranno essere stabilite dalla Facolta' nei casi in cui se ne ravvisi l'opportunita'.
-
-Art. 227. - Qualora tra gli insegnamenti assegnati ad un Istituto ve ne sia uno solo tenuto da un professore di ruolo, questi e' di diritto il direttore dell'Istituto.
-
-Nel caso che vi siano piu' professori di ruolo, la Facolta' sentito il parere dei medesimi, designera', scegliendo fra essi, il direttore dell'Istituto, che verra' nominato con decreto rettorale per un periodo di tre anni.
-
-Se un Istituto manca di professore di ruolo, la direzione verra' affidata di regola ad un professore di ruolo di materia affine, designato dalla Facolta' e nominato con decreto rettorale per un periodo di tre anni.
-
-Art. 228. - Possono essere addetti ad un Istituto assistenti, tecnici, bibliotecari, personale amministrativo e subalterni appartenenti ai ruoli universitari.
-
-Art. 229. - E' facolta' del direttore di un Istituto di rilasciare a chi frequenta l'istituto per almeno sei mesi un attestato degli studi compiuti e dei risultati raggiunti nelle ricerche.
-
-Art. 230. - Ogni Istituto potra' eventualmente disporre, secondo modalita' intese ad assicurare il raggiungimento delle finalita' nel modo piu' idoneo, di fondi per la ricerca di borse di studio provenienti da Enti pubblici e privati italiani e stranieri.
-
-Dopo l'art. 396, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione del "Corso di specializzazione in Teorie e tecniche per l'impiego dei calcolatori elettronici" con il conseguente spostamento della numerazione degli articoli successivi.
-
-Corso di specializzazione in Teorie e tecniche per l'impiego dei calcolatori elettronici
-
-Art. 397. - Presso la Facolta' di ingegneria dell'Universita' degli studi di Napoli e' istituito un corso in "Teorie e tecniche per l'impiego dei calcolatori elettronici". La durata del corso e' di sei mesi. Esso si svolge presso il Centro di calcolo elettronico della Facolta' medesima.
-
-Art. 398. - Il direttore del corso ed i docenti sono designati all'inizio dell'anno accademico dal Consiglio della Facolta' di Ingegneria su proposta del preside della Facolta'.
-
-Art. 399. - Al corso sono ammessi i laureati in Ingegneria, Matematica, Fisica, Chimica, Discipline nautiche, Economia e commercio.
-
-Del numero massimo delle iscrizioni e dell'accettazione delle domande giudica anno per anno il Consiglio di Facolta' su proposta del direttore del corso.
-
-Art. 400. - Il corso comprende i seguenti insegnamenti:
-
-1) Logica dei calcolatori elettronici;
-
-2) Componenti per calcolatori elettronici;
-
-3) Ricerca operativa e programmazione lineare;
-
-4) Elementi di Statistica; Metodi Montecarlo; Teoria delle code;
-
-5) Calcolo numerico ed elaborazione di dati;
-
-6) Metodi di programmazione per calcolatori numerici;
-
-7) Calcolatori analogici e programmazione.
-
-Durante il corso i partecipanti saranno tenuti a compiere esercitazioni pratiche sui calcolatori in dotazione del Centro di calcolo della Facolta' di Ingegneria.
-
-Art. 401. - Il corso si conclude con esami consistenti in una prova scritta ed un colloquio di cultura generale sugli argomenti trattati.
-
-Della Commissione d'esame fanno parte tutti i docenti del corso.
-
-Art. 402. - A coloro che hanno frequentato il corso e superati gli esami, sara' rilasciato un attestato.
-
-Art. 403. - Gli iscritti al corso sono tenuti a pagare le tasse di iscrizione, le sopratasse ed i contributi che vengono fissati annualmente dal Consiglio di amministrazione dell'Universita', su proposta del Consiglio di Facolta'.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Roma, addi' 2 settembre 1963
-
-SEGNI
-
-GUI
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 16 ottobre 1963 Atti del Governo, registro n. 175, foglio n. 29. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Dopo l'art. 918, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in geriatria e gerontologia afferenti alla seconda facolta' di medicina e chirurgia.  
   
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti suindicati, e' ulteriormente modificato come appresso:  
-  
-Gli articoli dal n. 196 al n. 205 relativi agli Istituti di Caratteri distributivi degli edifici e di Fisica, Fisica tecnica e Impianti tecnici annessi alla Facolta' di architettura sono abrogati e sostituiti dai seguenti:  
-  
-Art. 196. - Sono costituiti presso la Facolta' di architettura i seguenti Istituti:  
-Istituto di Matematica;  
-Istituto di Caratteri stilistici e costruttivi dei monumenti;  
-Istituto di Composizione architettonica;  
-Istituto di Scienza delle costruzioni;  
-Istituto di Caratteri distributivi degli edifici;  
-Istituto di Fisica;  
-Istituto di Urbanistica.  
-Tali Istituti hanno lo scopo di promuovere e coordinare l'insegnamento e la ricerca nelle discipline di loro pertinenza. Essi utilizzano i locali, il personale e le dotazioni assegnati alle Cattedre che li costituiscono.  
-Art. 197. - La Facolta' determina, con propria deliberazione, alla fine di ciascun anno e per l'anno accademico successivo quali siano gli insegnamenti ufficiali che si svolgono presso i singoli Istituti.  
-Art. 198. - Ogni Istituto e' retto da un direttore che e' responsabile dell'amministrazione e del funzionamento dell'Istituto stesso. Norme particolari al riguardo potranno essere stabilite dalla Facolta' nei casi in cui se ne ravvisi l'opportunita'.  
-Art. 199. - Qualora fra gli insegnamenti assegnati ad un Istituto ve ne sia uno solo tenuto da un professore di ruolo, questi e' di diritto il direttore dell'Istituto.  
-Nel caso che vi siano piu' professori di ruolo, la Facolta', sentito il parere dei medesimi, designera', scegliendo fra di essi, il direttore dell'istituto che verra' nominato con decreto rettorale per un periodo di tre anni.  
-Se un Istituto manca di professore di ruolo, la direzione verra' affidata, di regola, ad un professore di ruolo di materia affine, designato dalla Facolta' e nominato con decreto rettorale per un periodo di tre anni.  
-Art. 200. - Possono essere addetti ad un Istituto, assistenti, tecnici, bibliotecari, personale amministrativo e subalterno e salariati appartenenti ai ruoli universitari.  
-Art. 201. - E' facolta' del direttore di un Istituto di rilasciare a chi frequenta l'istituto per almeno sei mesi un attestato degli studi compiuti e dei risultati raggiunti nelle ricerche.  
-Art. 202. - Ogni Istituto potra' eventualmente disporre, secondo modalita' intese ad assicurare il raggiungimento delle finalita' nel modo piu' idoneo, di fondi per la ricerca e di borse di studio provenienti da Enti pubblici o privati italiani e stranieri.  
-Art. 220. - Agli insegnamenti complementari del corso di laurea in Medicina veterinaria sono aggiunti quelli di:  
-13) Semeiotica chirurgica;  
-14) Semeiotica medica;  
-15) Ematologia comparata;  
-16) Patologia aviare.  
-Dopo l'art. 223, sono aggiunti i seguenti nuovi articoli relativi alla costituzione e la regolamentazione degli Istituti annessi alla Facolta' di medicina veterinaria con il conseguente spostamento della numerazione degli articoli successivi.  
-Art. 224. - Sono costituiti presso la Facolta' di Medicina veterinaria, i seguenti Istituti:  
-Istituto di Anatomia normale veterinaria con istologia ed embriologia;  
-Istituto di Patologia generale ed Anatomia patologica;  
-Istituto di Patologia speciale e Clinica medica;  
-Istituto di Patologia speciale e Clinica chirurgica;  
-Istituto di Malattie infettive, profilassi e polizia veterinaria;  
-Istituto di Zootecnica generale.  
-Tali Istituti hanno lo scopo di promuovere e coordinare l'insegnamento e la ricerca nelle discipline di loro pertinenza.  
-Art. 225. - La Facolta' determina, con propria deliberazione, alla fine di ciascun anno e per l'anno accademico successivo quali siano gli insegnamenti ufficiali che si svolgeranno presso i singoli Istituti.  
-Art. 226. - Ogni Istituto e' retto da un direttore che e' responsabile della amministrazione e del funzionamento dell'Istituto stesso.  
-Norme particolari al riguardo potranno essere stabilite dalla Facolta' nei casi in cui se ne ravvisi l'opportunita'.  
-Art. 227. - Qualora tra gli insegnamenti assegnati ad un Istituto ve ne sia uno solo tenuto da un professore di ruolo, questi e' di diritto il direttore dell'Istituto.  
-Nel caso che vi siano piu' professori di ruolo, la Facolta' sentito il parere dei medesimi, designera', scegliendo fra essi, il direttore dell'Istituto, che verra' nominato con decreto rettorale per un periodo di tre anni.  
-Se un Istituto manca di professore di ruolo, la direzione verra' affidata di regola ad un professore di ruolo di materia affine, designato dalla Facolta' e nominato con decreto rettorale per un periodo di tre anni.  
-Art. 228. - Possono essere addetti ad un Istituto assistenti, tecnici, bibliotecari, personale amministrativo e subalterni appartenenti ai ruoli universitari.  
-Art. 229. - E' facolta' del direttore di un Istituto di rilasciare a chi frequenta l'istituto per almeno sei mesi un attestato degli studi compiuti e dei risultati raggiunti nelle ricerche.  
-Art. 230. - Ogni Istituto potra' eventualmente disporre, secondo modalita' intese ad assicurare il raggiungimento delle finalita' nel modo piu' idoneo, di fondi per la ricerca di borse di studio provenienti da Enti pubblici e privati italiani e stranieri.  
-Dopo l'art. 396, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione del "Corso di specializzazione in Teorie e tecniche per l'impiego dei calcolatori elettronici" con il conseguente spostamento della numerazione degli articoli successivi.  
-  
-Corso di specializzazione in Teorie e tecniche per l'impiego dei calcolatori elettronici  
-  
-Art. 397. - Presso la Facolta' di ingegneria dell'Universita' degli studi di Napoli e' istituito un corso in "Teorie e tecniche per l'impiego dei calcolatori elettronici". La durata del corso e' di sei mesi. Esso si svolge presso il Centro di calcolo elettronico della Facolta' medesima.  
-Art. 398. - Il direttore del corso ed i docenti sono designati all'inizio dell'anno accademico dal Consiglio della Facolta' di Ingegneria su proposta del preside della Facolta'.  
-Art. 399. - Al corso sono ammessi i laureati in Ingegneria, Matematica, Fisica, Chimica, Discipline nautiche, Economia e commercio.  
-Del numero massimo delle iscrizioni e dell'accettazione delle domande giudica anno per anno il Consiglio di Facolta' su proposta del direttore del corso.  
-Art. 400. - Il corso comprende i seguenti insegnamenti:  
-1) Logica dei calcolatori elettronici;  
-2) Componenti per calcolatori elettronici;  
-3) Ricerca operativa e programmazione lineare;  
-4) Elementi di Statistica; Metodi Montecarlo; Teoria delle code;  
-5) Calcolo numerico ed elaborazione di dati;  
-6) Metodi di programmazione per calcolatori numerici;  
-7) Calcolatori analogici e programmazione.  
-Durante il corso i partecipanti saranno tenuti a compiere esercitazioni pratiche sui calcolatori in dotazione del Centro di calcolo della Facolta' di Ingegneria.  
-Art. 401. - Il corso si conclude con esami consistenti in una prova scritta ed un colloquio di cultura generale sugli argomenti trattati.  
-Della Commissione d'esame fanno parte tutti i docenti del corso.  
-Art. 402. - A coloro che hanno frequentato il corso e superati gli esami, sara' rilasciato un attestato.  
-Art. 403. - Gli iscritti al corso sono tenuti a pagare le tasse di iscrizione, le sopratasse ed i contributi che vengono fissati annualmente dal Consiglio di amministrazione dell'Universita', su proposta del Consiglio di Facolta'.  
+Scuola di specializzazione in geriatria e gerontologia  
+Art. 919. - E' istituita presso l'Universita' di Napoli (seconda facolta' di medicina e chirurgia) la scuola di specializzazione in geriatria e gerontologia che conferisce il diploma di specialista in geriatria e gerontologia.  
+Art. 920. - La direzione della scuola ha sede presso l'istituto di medicina interna, cardiologia e chirurgia cardiovascolare.  
+Art. 921. - La scuola ha lo scopo di provvedere alla formazione teorico-pratica di medici particolarmente esperti in campo geriatrico.  
+Art. 922. - La durata del corso e' di quattro anni e non e' suscettibile di abbreviazioni.  
+Art. 923. - Il numero degli iscritti e' di sei per ogni anno e complessivamente di ventiquattro per l'intero corso di studi.  
+Art. 924. - Alla scuola sono ammessi solo i laureati in medicina e chirurgia ed e' richiesto il diploma di abilitazione all'esercizio professionale.  
+Art. 925. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:  
+a) la tesi nella disciplina attinente alla specializzazione;  
+b) il voto di laurea;  
+c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;  
+d) le pubblicazioni nelle predette materie.  
+Il punteggio dei predetti titoli e' quello stabilito dal [decreto ministeriale del 16 settembre 1982, pubblicato nella Gazzetta Ufficiale n. 275 del 6 ottobre 1982](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1982-10-06&numeroGazzetta=275).  
+Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo riportato.  
+Art. 926. - Le materie di insegnamento sono le seguenti, tutte afferenti alla facolta' di medicina e chirurgia:  
+1° Anno:  
+farmacologia;  
+principi e tecniche della riabilitazione nella patologia dell'apparato locomotore;  
+anatomia ed istologia patologica I;  
+biologia della senescenza I;  
+fisiopatologia I;  
+geriatria sociale I;  
+semeiotica I;  
+principi e tecniche di materie specialistiche in geriatria I;  
+materia facoltativa: statistica sanitaria.  
+2° Anno:  
+principi e tecniche della riabilitazione cardiovascolare e respiratoria;  
+anatomia ed istologia patologica II;  
+biologia della senescenza II;  
+fisiopatologia II;  
+geriatria sociale II;  
+semeiotica II;  
+radiologia e radioterapia I;  
+principi e tecniche di materie specialistiche in geriatria II; materia facoltativa: fisiopatologia chirurgica.  
+3° Anno:  
+neurologia;  
+principi e tecniche della riabilitazione neurologica;  
+psicologia;  
+radiologia e radioterapia II;  
+principi e tecniche di materie specialistiche in geriatria III; clinica geriatrica I;  
+terapia medica I;  
+pratica geriatrica extraospedaliera I;  
+materie facoltative:  
+medicina nucleare;  
+valutazione funzionale cardiorespiratoria.  
+4° Anno:  
+chirurgia geriatrica;  
+formazione degli operatori geriatrici;  
+principi e tecniche della riabilitazione nel campo delle funzioni cerebrali superiori;  
+principi e tecniche di riattivazione, terapia occupazionale, geragogia;  
+psicogeriatria;  
+clinica geriatrica II;  
+terapia medica II;  
+pratica geriatrica extraospedaliera II;  
+materia facoltativa: principi di anestesiologia e di terapia intensiva.  
+Art. 927. - La frequenza ai corsi e' obbligatoria. Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione d'esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno in corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno in corso. Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.  
+Art. 928. - E' fatto obbligo agli allievi di frequentare, oltre le lezioni teoriche, i reparti clinici e gli ambulatori per almeno due mesi l'anno, nonche' almeno l'80% delle lezioni teoriche previste per ogni anno di corso. Gli allievi che non conseguono le attestazioni di frequenza necessarie sul relativo libretto non potranno essere ammessi a sostenere la prova di esame.  
+Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinenti alla specializzazione anche all'estero e nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.  
+Art. 929. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio delle scuole di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso.  
+A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.  
+Art. 930. - L'importo delle tasse e soprattasse dovuto dagli iscritti alla scuola e' previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.  
+Art. 931. - Per la scuola di specializzazione in geriatria e gerontologia e' costituito un consiglio presieduto da un direttore.  
+Il consiglio e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).  
+Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento di insegnamenti.  
+La direzione della scuola e' affidata a professore ordinario o straordinario che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, addi' 2 settembre 1963
+### Dato a Roma, addi' 24 ottobre 1983
 
-SEGNI GUI
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 16 ottobre 1963
+Registrato alla Corte dei conti, addi' 26 gennaio 1984
 
-Atti del Governo, registro n. 175, foglio n. 29. - VILLA
+Registro n. 3 Istruzione, foglio n. 254

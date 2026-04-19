@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 agosto 1952 n. 1259
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 luglio 1949 n. 794
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 agosto 1952 n. 1259
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 luglio 1949 n. 794
+=============================================================
 
 Autorizzazione all'Universita' di Bologna ad accettare una donazione.
 ---------------------------------------------------------------------
@@ -12,10 +12,7 @@ Art. 1
 
 N.
 
-1259. Decreto del Presidente della Repubblica 16 agosto 1952, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Bologna viene autorizzata ad accettare la donazione di L. 300.000 nominali in obbligazioni 6% ventennali (cedola 1 gennaio 1950) dell'Istituto di Credito per Iniziative di Pubblica Utilita' (I.C.I.P.U.) disposta in suo favore dal prof.  
-Enrico Redenti, dalla dottoressa Vittoria Piretti e da un gruppo di amici ed estimatori del defunto professore Edmondo Piretti, con atto pubblico amministrativo in data 1 giugno 1950 per l'istituzione di un premio di studio da intitolarsi al nome "Dott.  
-Edmondo Piretti" e da conferirsi, ogni due anni, a quel neo laureato in economia e commercio che abbia discusso una tesi di particolare valore in scienza delle finanze e in ragioneria.  
+794. Decreto del Presidente della Repubblica 17 luglio 1949, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Bologna viene autorizzata ad accettare la donazione della somma di L. 40.000 nominali, in titoli di Rendita italiana 5%, disposta in suo favore dalla ditta G. Battistini e C., con atto pubblico in data 23 marzo 1946, per l'istituzione di un premio di studio triennale da intitolarsi "Premio Annibale Battistini", a favore di laureati in farmacia.  
   
-Visto, il Guardasigilli: ZOLI  
-Registrato alla Corte dei conti, addi' 17 settembre 1952  
-Atti del Governo, registro n. 58, foglio n. 22. - FRASCA
+Visto, il Guardasigilli: GRASSI  
+Registrato alla Corte dei conti, addi' 26 ottobre 1949

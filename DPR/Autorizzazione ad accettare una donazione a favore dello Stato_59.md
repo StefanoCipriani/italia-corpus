@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 febbraio 1984 n. 472
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1978 n. 414
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 febbraio 1984 n. 472
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1978 n. 414
+=============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-472. Decreto del Presidente della Repubblica 27 febbraio 1984, col quale, sulla proposta del Ministro per i beni culturali ed ambientali, il Ministero omonimo - Ufficio centrale per i beni librari e gli istituti culturali, viene autorizzato ad accettare la donazione, consistente in circa tremila volumi, nonche' di circa sei raccolte di periodici, del valore complessivo di L. 1.000.000, disposta dalla sig.ra Renata Lidia Arcuno con atto 15 settembre 1980, n. 16857 di repertorio, a rogito dott. Ugo de Cesare, notaio in Napoli.  
+414. Decreto del Presidente della Repubblica 3 maggio 1978, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato della donazione disposta dalla n.d. principessa Maria Concetta Fossi ved. Barberini con atto di donazione 12 dicembre 1975, n. 68515/30495 di repertorio, a rogito dottor Vincenzo Colapietro, notaio in Roma, consistente in un affresco di Guido Reni raffigurante un "putto dormiente" (cm 58 X 56), il quale riveste un notevole interesse artistico, da destinare dopo la morte della donatrice alla Galleria nazionale d'arte antica in Roma.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 30 luglio 1984  
-Registro n. 28 Beni culturali, foglio n. 65
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 24 luglio 1978  
+Registro n. 10 Beni culturali, foglio n. 284

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1950 n. 653
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 gennaio 1954 n. 207
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1950 n. 653
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 gennaio 1954 n. 207
+==============================================================
 
 Autorizzazione all'Universita' di Roma ad accettare una donazione.
 ------------------------------------------------------------------
@@ -12,7 +12,8 @@ Art. 1
 
 N.
 
-653. Decreto del Presidente della Repubblica 11 giugno 1950, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Roma viene autorizzata ad accettare la donazione della somma di L. 200.000 nominali, in titoli di Stato Rendita 5%, disposta in suo favore dalla baronessa Ida Zarone Bianchi, con atto pubblico amministrativo in data 19 dicembre 1949, per l'istituzione di un premio di studio biennale da intitolarsi al nome del figlio "Dott. Franco Zarone" e da conferirsi per concorso a giovani laureati in medicina e chirurgia dell'Universita' medesima, che abbiano presentato una tesi in neurologia meritevole di pubblicazione.  
+207. Decreto del Presidente della Repubblica 26 gennaio 1954, col quale, silla proposta del Ministro per la pubblica istruzione, l'Universita' di Roma viene autorizzata ad accettare la donazione della raccolta dei libri filosofici e degli scaffali nei quali i libri stessi sono contenuti, del valore complessivo di L. 2.684.000, disposta in suo favore dalla signora Emilia Patrizi vedova Levi, con atto pubblico amministrativo in data 3 luglio 1953, n. 321 di repertorio.  
   
-Visto, il Guardasigilli: PICCIONI  
-Registrato alla Corte dei conti, addi' 21 agosto 1950
+Visto, il Guardasigilli: DE PIETRO  
+Registrato alla Corte dei conti, addi' 15 maggio 1954  
+Atti del Governo, registro n. 83, foglio n. 61. - CARLOMAGNO

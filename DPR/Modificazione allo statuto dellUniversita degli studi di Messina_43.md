@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1986 n. 290
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 1228
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1986 n. 290
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 1228
 ==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Messina.
@@ -39,26 +39,36 @@ Articolo unico
 --------------
 
   
-Nell'art. 85, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-fisiopatologia della riproduzione umana;  
-malattie cardiovascolari;  
-patologia speciale neurologica;  
-foniatria;  
-neuroftalmologia;  
-semeiotica pediatrica.  
+Nell'art. 72, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+neurochirurgia traumatologica;  
+cardiologia pediatrica;  
+malattie metaboliche del bambino;  
+patologia dell'eta' prenatale e perinatale;  
+neurologia pediatrica;  
+scienza dell'ortogenesi;  
+malattie infettive dell'infanzia;  
+chirurgia neonatale;  
+psicopatologia generale dell'eta' evolutiva;  
+terapia neurologica;  
+malattie del ricambio;  
+medicina d'urgenza;  
+psicopatologia e terapia del dolore;  
+anestesia sperimentale;  
+medicina subacquea e iperbarica;  
+patologia cellulare;  
+oncologia sperimentale;  
+citopatologia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 gennaio 1986
+### Dato a Roma, addi' 27 giugno 1983
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 10 giugno 1986
+Registrato alla Corte dei conti, addi' 28 aprile 1984
 
-Registro n. 45 Istruzione, foglio n. 362
+Registro n. 25 Istruzione, foglio n. 194

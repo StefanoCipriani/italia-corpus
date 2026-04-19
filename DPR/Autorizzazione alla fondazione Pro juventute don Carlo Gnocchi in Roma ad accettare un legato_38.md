@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 giugno 1975 n. 345
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 settembre 1977 n. 746
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 giugno 1975 n. 345
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 settembre 1977 n. 746
+================================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-345. Decreto del Presidente della Repubblica 24 giugno 1975, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dal prof. Guido Riva Crugnola con testamento olografo 17 gennaio 1971, pubblicato per atto del dott. Pietro Cassina, notaio in Milano, in data 2 marzo 1972, n. 76789 di repertorio e n. 17978 di fascicolo, registrato a Milano il 9 marzo 1972 al n. 4794/71. M. serie E, consistente in obbligazioni bancarie per un valore complessivo di lire 9.222.610.  
+746. Decreto del Presidente della Repubblica 7 settembre 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Luigia Sangiorgi in favore dei mutilatini don Gnocchi, che si identificano con la fondazione "Pro juventute don Carlo Gnocchi", con testamento olografo 24 novembre 1963, pubblicato a rogito del notaio dott.  
+Angelo Gallizia di Milano il 18 luglio 1975, n. 12497 di repertorio, registrato a Lodi (Milano) il 23 luglio 1975 al n. 2819, vol. 5, consistente nella somma di lire 2.000.000.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 30 luglio 1975  
-Atti di Governo, registro n. 11, foglio n. 34
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 10 ottobre 1977  
+Registro n. 8 Presidenza, foglio n. 65

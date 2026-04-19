@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1964 n. 1505
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1952 n. 1501
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1964 n. 1505
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1952 n. 1501
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
@@ -10,15 +10,15 @@ Modificazioni allo statuto dell'Universita' degli studi di Padova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847) e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), modificato con [regi decreti 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847); [1 luglio 1940, n. 992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-07-01;992); [26 ottobre 1940, n. 2058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2058); [16 marzo 1942, n. 323](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;323); [31 ottobre 1950, n. 1308](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1950-10-31;1308) e [11 aprile 1951, n. 953](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1951-04-11;953);
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta, la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 16 marzo 1951, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-03-16;230);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
@@ -29,240 +29,99 @@ Sentito il parere del Consiglio superiore della pubblica istruzione;
 Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
+--------
 
 Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 62. - Agli Istituti della Facolta' di lettere e filosofia e' aggiunto quello di:
-
-Istituto di filosofia.
-
-Nello stesso articolo l'Istituto di psicologia viene soppresso.
-
-Art. 71. - Agli insegnamenti complementari del corso di laurea in Pedagogia sono aggiunti quelli di:
-
-Psicometria;
-
-Filosofia della storia;
-
-Filosofia della religione.
-
-Art. 76. - Il primo comma e' abrogato e sostituito dal seguente:
-
-"La prova scritta di cultura generale nei corsi di laurea puo' essere sostenuta quando siano stati superati i quattro quinti degli esami previsti dal piano di studi".
-
-Art. 77. - L'ultimo comma e' abrogato e sostituito dal seguente:
-
-"L'argomento della dissertazione deve essere letterario, storico e geografico per gli aspiranti alla laurea in Materie letterarie, di carattere filosofico, pedagogico o psicologico per gli aspiranti alla laurea in Pedagogia").
-
-Art. 80, relativo agli Istituti annessi alla Facolta' di magistero l'ultimo comma e' abrogato e sostituito dal seguente:
-
-appartengono alla Facolta':
-
-1) Istituto di Pedagogia;
-
-2) Istituto di Psicologia;
-
-3) Istituto di Storia della filosofia.
-
-Art. 141, relativo al biennio di studi propedeutici del corso di laurea in ingegneria civile (sezione: edile, idraulica e trasporti) e' soppresso al II anno l'insegnamento di "Disegno (semestrale)".
-
-Il secondo comma e' abrogato e sostituito dal seguente:
-
-"Per gli allievi che intendono seguire nel triennio I corsi per le lauree in Ingegneria meccanica ed in Ingegneria chimica, il corso di Geometria II e' sostituito con quello di "Disegno II".
-
-L'insegnamento della Geometria Il puo' essere differenziato secondo i diversi indirizzi di laurea. Oltre ai predetti insegnamenti, gli studenti devono iscriversi ad un insegnamento aggiunto, distinto per corsi di laurea, come sotto specificato, e sostenere il relativo esame".
-
-Art. 142, relativo al triennio di studi applicativi del corso di laurea in Ingegneria civile (sezione: edile, idraulica e trasporti) e' soppresso l'insegnamento di "Costruzioni idrauliche".
-
-Dopo le materie a scelta dello studente e' aggiunto il seguente gruppo:
-
-Terzo gruppo:
-
-19) Costruzioni idrauliche;
-
-20) Architettura industriale;
-
-Nello stesso corso di laurea - per la sezione Idraulica - sono abrogati gli insegnamenti obbligatori e sostituiti dai seguenti:
-
-15) Costruzioni idrauliche;
-
-16) Idromeccanica applicata;
-
-17) Costruzioni marittime;
-
-18) Idraulica agraria;
-
-19) Idrografia e idrologia.
-
-Dopo le materie a scelta dello studente e' aggiunto il seguente gruppo:
-
-Terzo gruppo:
-
-20) Idrometria (semestrale);
-
-21) Macchinario idraulico (semestrale).
-
-Nello stesso corso di laurea - per la sezione Trasporti - sono soppressi gli insegnamenti obbligatori e sostituiti dai seguenti:
-
-15) Costruzioni idrauliche;
-
-16) Ponti;
-
-17) Costruzioni marittime;
-
-18) Tecnica ed economia dei trasporti;
-
-19) Tecnica della circolazione stradale.
-
-Nel triennio di studi applicativi per il corso di laurea in Ingegneria elettrotecnica e' aggiunto agli insegnamenti obbligatori quello di:
-
-17) Costruzioni elettromeccaniche.
-
-Il primo e secondo gruppo tra le materie a scelta dello studente del suddetto corso di laurea, sono abrogati e sostituiti dai seguenti:
-
-Primo gruppo:
-
-18) Grandi utilizzazioni;
-
-19) Trazione elettrica (semestrale).
-
-Secondo gruppo:
-
-18) Centrali elettriche;
-
-19) Impianti nucleari (semestrale).
-
-Nel triennio di studi applicativi per il corso di laurea in Ingegneria elettronica e' soppresso l'insegnamento di "Tecnologie elettroniche" e sostituito con quello di "Componenti elettronici".
-
-Il primo e secondo gruppo tra le materie a scelta dello studente del suddetto corso di laurea sono abrogati e sostituiti dai seguenti:
-
-Primo gruppo:
-
-18) Telefonia e telegrafia;
-
-19) Tecnica delle iperfrequenze.
-
-Secondo gruppo:
-
-18) Elettronica industriale;
-
-19) Calcolatori elettronici.
-
-20) Tecnica delle telecomunicazioni.
-
-Art. 170. - Agli Istituti della Facolta' di Ingegneria e' aggiunto quello di:
-
-Istituto di disegno.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 31 ottobre 1964
-
-Per il Presidente della Repubblica
-
-Il Presidente del Senato
-
-MERZAGORA
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 16 gennaio 1965 Atti del Governo, registro n. 189, foglio n. 121. - VILLA
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847) e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Veduta, la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+"Facolta' di agraria".  
+Art. 18. - All'elenco degli Istituti e Seminari della Facolta' di giurisprudenza e' aggiunto il "Seminario di diritto del lavoro".  
+Dopo l'attuale art. 123 sono inseriti i seguenti nuovi articoli con il conseguente spostamento della numerazione degli articoli successivi:  
+Ordinamento della Facolta' di agraria.  
+Art. 124. - La Facolta' di agraria conferisce la laurea in scienze agrarie.  
+Art. 125. - La durata del corso degli studi per la laurea in scienze agrarie e' di anni quattro, divisi in due bienni.  
+E' titolo di ammissione il diploma di maturita' classica o quello di maturita' scientifica, o il diploma di abilitazione per i provenienti dagli Istituti tecnici agrari, integrato dall'esame di cultura generale, prescritto dall'art. 143 del testo unico delle leggi sull'istruzione superiore.  
+Insegnamenti fondamentali del 1° biennio:  
+1) Botanica generale;  
+2) Botanica sistematica;  
+3) Zoologia generale;  
+4) Entomologia agraria;  
+5) Anatomia e fisiologia degli animali domestici;  
+6) Zoognostica;  
+7) Mineralogia e geologia;  
+8) Chimica generale e inorganica, con applicazioni di analitica;  
+9) Chimica organica;  
+10) Matematica;  
+11) Fisica;  
+12) Principi di economia politica e di statistica.  
+Insegnamenti fondamentali del 2° biennio:  
+1) Patologia vegetale;  
+2) Chimica agraria (biennale);  
+3) Agronomia generale e coltivazioni erbacee (biennale);  
+4) Coltivazioni arboree;  
+5) Zootecnica generale;  
+6) Zootecnica speciale;  
+7) Economia e politica agraria (biennale);  
+8) Estimo rurale e contabilita';  
+9) Microbiologia agraria e tecnica;  
+10) Topografia e costruzioni rurali, con applicazioni di disegno;  
+11) Meccanica agraria, con applicazioni di disegno;  
+12) Idraulica agraria, con applicazioni di disegno;  
+13) Industrie agrarie (enologia, caseificio, oleificio).  
+Insegnamenti complementari:  
+1) Ecologia;  
+2) Genetica;  
+3) Viticoltura (semestrale);  
+4) Orticoltura e floricoltura (semestrale);  
+5) Alpicoltura e selvicoltura;  
+6) Olivicoltura (semestrale);  
+7) Bachicoltura e apicoltura (semestrale);  
+8) Avicoltura e coniglicoltura (semestrale);  
+9) Idrobiologia e pescicoltura (semestrale);  
+10) Diritto agrario;  
+11) Tecnica della bonifica (costruzioni ed idraulica);  
+12) Igiene zootecnica;  
+13) Agricoltura tropicale e subtropicale;  
+14) Tecnica commerciale dei prodotti agricoli.  
+Art. 126. - Per ottenere l'iscrizione al 2° biennio di applicazione lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali del 1° biennio.  
+L'ordine di precedenza da osservare negli esami di profitto resta cosi' stabilito:  
   
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 62. - Agli Istituti della Facolta' di lettere e filosofia e' aggiunto quello di:  
-Istituto di filosofia.  
-Nello stesso articolo l'Istituto di psicologia viene soppresso.  
-Art. 71. - Agli insegnamenti complementari del corso di laurea in Pedagogia sono aggiunti quelli di:  
-Psicometria;  
-Filosofia della storia;  
-Filosofia della religione.  
-Art. 76. - Il primo comma e' abrogato e sostituito dal seguente:  
-"La prova scritta di cultura generale nei corsi di laurea puo' essere sostenuta quando siano stati superati i quattro quinti degli esami previsti dal piano di studi".  
-Art. 77. - L'ultimo comma e' abrogato e sostituito dal seguente:  
-"L'argomento della dissertazione deve essere letterario, storico e geografico per gli aspiranti alla laurea in Materie letterarie, di carattere filosofico, pedagogico o psicologico per gli aspiranti alla laurea in Pedagogia").  
-Art. 80, relativo agli Istituti annessi alla Facolta' di magistero l'ultimo comma e' abrogato e sostituito dal seguente:  
-appartengono alla Facolta':  
-1) Istituto di Pedagogia;  
-2) Istituto di Psicologia;  
-3) Istituto di Storia della filosofia.  
-Art. 141, relativo al biennio di studi propedeutici del corso di laurea in ingegneria civile (sezione: edile, idraulica e trasporti) e' soppresso al II anno l'insegnamento di "Disegno (semestrale)".  
-Il secondo comma e' abrogato e sostituito dal seguente:  
-"Per gli allievi che intendono seguire nel triennio I corsi per le lauree in Ingegneria meccanica ed in Ingegneria chimica, il corso di Geometria II e' sostituito con quello di "Disegno II".  
-L'insegnamento della Geometria Il puo' essere differenziato secondo i diversi indirizzi di laurea. Oltre ai predetti insegnamenti, gli studenti devono iscriversi ad un insegnamento aggiunto, distinto per corsi di laurea, come sotto specificato, e sostenere il relativo esame".  
-Art. 142, relativo al triennio di studi applicativi del corso di laurea in Ingegneria civile (sezione: edile, idraulica e trasporti) e' soppresso l'insegnamento di "Costruzioni idrauliche".  
-Dopo le materie a scelta dello studente e' aggiunto il seguente gruppo:  
-Terzo gruppo:  
-19) Costruzioni idrauliche;  
-20) Architettura industriale;  
-Nello stesso corso di laurea - per la sezione Idraulica - sono abrogati gli insegnamenti obbligatori e sostituiti dai seguenti:  
-15) Costruzioni idrauliche;  
-16) Idromeccanica applicata;  
-17) Costruzioni marittime;  
-18) Idraulica agraria;  
-19) Idrografia e idrologia.  
-Dopo le materie a scelta dello studente e' aggiunto il seguente gruppo:  
-Terzo gruppo:  
-20) Idrometria (semestrale);  
-21) Macchinario idraulico (semestrale).  
-Nello stesso corso di laurea - per la sezione Trasporti - sono soppressi gli insegnamenti obbligatori e sostituiti dai seguenti:  
-15) Costruzioni idrauliche;  
-16) Ponti;  
-17) Costruzioni marittime;  
-18) Tecnica ed economia dei trasporti;  
-19) Tecnica della circolazione stradale.  
-Nel triennio di studi applicativi per il corso di laurea in Ingegneria elettrotecnica e' aggiunto agli insegnamenti obbligatori quello di:  
-17) Costruzioni elettromeccaniche.  
-Il primo e secondo gruppo tra le materie a scelta dello studente del suddetto corso di laurea, sono abrogati e sostituiti dai seguenti:  
-Primo gruppo:  
-18) Grandi utilizzazioni;  
-19) Trazione elettrica (semestrale).  
-Secondo gruppo:  
-18) Centrali elettriche;  
-19) Impianti nucleari (semestrale).  
-Nel triennio di studi applicativi per il corso di laurea in Ingegneria elettronica e' soppresso l'insegnamento di "Tecnologie elettroniche" e sostituito con quello di "Componenti elettronici".  
-Il primo e secondo gruppo tra le materie a scelta dello studente del suddetto corso di laurea sono abrogati e sostituiti dai seguenti:  
-Primo gruppo:  
-18) Telefonia e telegrafia;  
-19) Tecnica delle iperfrequenze.  
-Secondo gruppo:  
-18) Elettronica industriale;  
-19) Calcolatori elettronici.  
-20) Tecnica delle telecomunicazioni.  
-Art. 170. - Agli Istituti della Facolta' di Ingegneria e' aggiunto quello di:  
-Istituto di disegno.  
+L'esame di botanica generale deve precedere quello di botanica sistematica.  
+Gli esami di botanica devono precedere quelli di patologia vegetale, microbiologia agraria e tecnica, coltivazioni arboree, viticoltura, agronomia generale e coltivazioni erbacee.  
+L'esame di zoologia generale deve precedere quelli di zoognostica, zootecnica generale e speciale, igiene zootecnica, entomologia agraria, bachicoltura e apicoltura.  
+L'esame di anatomia e fisiologia degli animali domestici deve precedere gli esami di zoognostica e di zootecnica generale e speciale.  
+L'esame di principi di economia politica e statistica deve precedere quelli di economia e politica agraria, estimo rurale e contabilita'.  
+L'esame di matematica deve precedere gli esami di topografia e costruzioni rurali con applicazioni di disegno e idraulica agraria con applicazioni di disegno.  
+L'esame di fisica deve precedere quello di meccanica agraria con applicazioni di disegno.  
+L'esame di microbiologia agraria e tecnica deve precedere quello di agronomia generale e coltivazioni erbacee.  
+Gli esami di chimica generale e inorganica con applicazioni di analitica, chimica organica, mineralogia e geologia devono precedere l'esame di chimica agraria.  
+Art. 127. - La Facolta' stabilira' le esercitazioni che formeranno parte integrante degli insegnamenti delle singole discipline, e gli studenti dovranno averle seguite (e averne superato le relative prove pratiche) prima di presentarsi ai rispettivi esami.  
+Art. 128. - Per essere ammesso all'esame di laurea lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali del 2° biennio ed in tre almeno da lui scelti fra i complementari se a corso annuale, in quattro almeno se due di essi sono a corso semestrale.  
+Art. 129. - L'esame di laurea consiste:  
+a) nella discussione orale di una dissertazione scritta, svolta dal candidato su argomento scelto d'accordo col professore della materia, in una delle materie di indole professionale;  
+b) nello svolgimento di due tesi orali scelte dalla Commissione esaminatrice fra le tre preventivamente presentate dal candidato su materie diverse da quelle della tesi scritta, di cui almeno una di indole tecnica e applicativa.  
+Art. 130. - Appartengono alla Facolta' gli Istituti di:  
+Entomologia agraria;  
+Zootecnica;  
+Economia e politica agraria;  
+Chimica agraria e industrie agrarie;  
+Patologia vegetale;  
+Agronomia generale e coltivazioni erbacee ed arboree;  
+Meccanica agraria.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1964
+### Dato a Roma, addi' 25 luglio 1952
 
-Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA GUI
+EINAUDI SEGNI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: ZOLI
 
-Registrato alla Corte dei conti, addi' 16 gennaio 1965
+Registrato alla Corte dei conti, addi' 17 novembre 1952
 
-Atti del Governo, registro n. 189, foglio n. 121. - VILLA
+Atti del Governo registro n. 61, foglio n. 72. - PALLA

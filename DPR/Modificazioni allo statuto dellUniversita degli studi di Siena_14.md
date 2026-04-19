@@ -1,127 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1973 n. 1111
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1974 n. 796
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1973 n. 1111
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1974 n. 796
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 80 - dopo l'elenco delle precedenze degli esami dei corsi di laurea in scienze naturali, in scienze biologiche e in scienze geologiche sono abrogate le norme relative ai suddetti corsi di laurea e sostituite dalle seguenti:
-
-"Lo studente, superati gli esami previsti nel piano di studio approvato dalla facolta' e successivamente un esame di cultura generale attinente al corso di laurea, inteso ad accertare la maturita' del candidato, sara' ammesso a sostenere l'esame di laurea.
-
-L'esame di laurea consiste nella discussione sopra una dissertazione scritta, presentata dal candidato alla segreteria almeno dieci giorni prima della data fissata dalla facolta' per l'inizio degli esami di laurea, e contenente l'esposizione di indagini scientifiche eseguite dal candidato in un istituto della stessa o di altra facolta'.
-
-Il preside, ricevuta la dissertazione, designa, tenuto conto della competenza, due controrelatori".
-
-Dopo l'art. 109, e con il conseguente spostamento della numerazione successiva, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola, diretta a fini speciali, di preparazione per tecnici di audiometria, della durata di due anni.
-
-Scuola di preparazione per tecnici di audiometria
-
-Art. 110. - E' istituita presso la facolta' di medicina e chirurgia dell'Universita' di Siena una scuola speciale di preparazione per tecnici di audiometria che ha sede presso la clinica otorinolaringoiatrica dell'Universita'.
-
-Art. 111. - La scuola prende il nome di "Scuola di preparazione per tecnici di audiometria", ha la durata di due anni con indirizzo teorico-pratico e conferisce il diploma di tecnico di audiometria.
-
-Ne e' titolo di ammissione il possesso di un diploma legalmente valido conseguito presso un istituto secondario superiore su non meno di cinque anni di corso.
-
-Art. 112. - Gli aspiranti all'iscrizione al 1° anno di corso sono tenuti a presentare apposita domanda su carta legale diretta al rettore dell'Universita', correlata dai prescritti documenti e a sostenere un esame di ammissione consistente in una prova orale di cultura generale su argomenti facenti parte dei normali programmi dei licei e degli istituti di istruzione secondaria, con particolare riguardo all'insegnamento di fisica acustica.
-
-Art. 113. - Il numero complessivo degli iscritti alla scuola e' di sedici (otto per anno di corso). Qualora le domande di iscrizione fossero in numero superiore a sedici, il consiglio della scuola si riserva di provvedere ad una scelta tra gli idonei in base ai risultati di ammissione.
-
-Art. 114. - Il direttore della scuola e' il titolare della cattedra di clinica otorinolaringoiatrica dell'Universita' di Siena. Gli incarichi di insegnamento sono conferiti dal rettore, su proposta del consiglio di facolta' di medicina e chirurgia udito il direttore della scuola. I professori che svolgono gli insegnamenti costituiscono il consiglio della scuola, al quale spettano le funzioni tecniche e disciplinari necessarie per il regolare funzionamento della scuola.
-
-Art. 115. - L'anno accademico ha inizio e termine nelle date stabilite dalle leggi in vigore per l'istruzione universitaria.
-
-Art. 116. - Il corso comprende lezioni teoriche ed esercitazioni pratiche.
-
-Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-Anatomia e fisiologia dell'orecchio, delle vie e dei centri acustici (anatomico-fisico);
-
-Elementi di fisica acustica;
-
-Tecniche audiometriche.
-
-2° Anno:
-
-Patologia dell'udito, del linguaggio e dell'organo dell'equilibrio;
-
-Elementi di otoneurologia;
-
-Elementi di foniatria;
-
-Tecniche audiometriche;
-
-Elementi di diagnostica audiometrica.
-
-Art. 117. - L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni e dall'obbligo, per gli allievi, dell'internato per un periodo di due anni nel reparto di audiologia della clinica otorinolaringoiatrica. La frequenza viene comprovata dalla attestazione rilasciata dagli insegnanti sul libretto di iscrizione. L'attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.
-
-Art. 118. - Alla fine di ogni anno gli allievi devono sostenere un esame sulle materie di insegnamento. Nel caso in cui i candidati non abbiano superato gli esami prescritti, essi rimarranno nella posizione di "ripetenti" fino a quando non avranno assolto tutti gli obblighi di cui sopra.
-
-Art. 119. - Le commissioni per gli esami di profitto e di diploma sono nominate dal preside della facolta' di medicina e chirurgia, su proposta del direttore della clinica. Le commissioni per gli esami di profitto sono composte da tre membri: direttore della scuola, presidente, e da due insegnanti della scuola stessa. La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente, e da quattro insegnanti della scuola stessa o da altri docenti.
-
-Art. 120. - Gli esami di profitto, che consistono in prove teoriche e pratiche, si sostengono in un unico gruppo di materie per ciascun anno di corso. Ogni commissario ha a sua disposizione 10 punti.
-
-Art. 121. - L'esame di diploma consiste nella discussione di una tesi scritta su un argomento riguardante le materie di insegnamento, approvata dal direttore della scuola ed in una prova pratica stabilita dalla commissione esaminatrice. I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola ma, se al secondo anno non sia loro riconosciuta la idoneita', saranno senz'altro esclusi da ulteriori prove. Agli allievi che avranno superato l'esame finale verra' rilasciato il diploma di tecnico audiometrista.
-
-Art. 122. - Gli esami di profitto e di diploma si danno in due sessioni, la prima, estiva, ha inizio subito dopo la chiusura annuale dei corsi e la seconda, autunnale, nel mese che precede l'inizio del nuovo anno accademico.
-
-Art. 123. - Le tasse e soprattasse annuali a carico degli iscritti restano cosi' destinate:
-
-tassa annuale di iscrizione . . . . . . . . . . . . . . L. 20.000 soprattassa annuale di esame. . . . . . . . . . . . . . L. 10.000 tassa erariale di diploma . . . . . . . . . . . . . . . L. 12.000 tassa annuale per iscrizione studenti fuori corso. . . . L. 6.000 contributi di laboratorio (utilizzazione di audiometri). L. 35.000
-
-Art. 124. - Al funzionamento della suddetta scuola si provvedera' con il provento delle tasse, soprattasse e contributi dovuti dagli iscritti e con eventuali elargizioni o contributi di enti pubblici o privati.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 23 ottobre 1973
-
-LEONE
-
-MALFATTI
-
-Visto, il Guardasigilli: ZAGARI
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 31 maggio 1974 Atti di Governo, registro n. 3, foglio n. 55. - SCIARRETTA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831), e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -129,70 +24,164 @@ Sulla proposta del Ministro per la pubblica istruzione;
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 80 - dopo l'elenco delle precedenze degli esami dei corsi di laurea in scienze naturali, in scienze biologiche e in scienze geologiche sono abrogate le norme relative ai suddetti corsi di laurea e sostituite dalle seguenti:  
-"Lo studente, superati gli esami previsti nel piano di studio approvato dalla facolta' e successivamente un esame di cultura generale attinente al corso di laurea, inteso ad accertare la maturita' del candidato, sara' ammesso a sostenere l'esame di laurea.  
-L'esame di laurea consiste nella discussione sopra una dissertazione scritta, presentata dal candidato alla segreteria almeno dieci giorni prima della data fissata dalla facolta' per l'inizio degli esami di laurea, e contenente l'esposizione di indagini scientifiche eseguite dal candidato in un istituto della stessa o di altra facolta'.  
-Il preside, ricevuta la dissertazione, designa, tenuto conto della competenza, due controrelatori".  
-Dopo l'art. 109, e con il conseguente spostamento della numerazione successiva, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola, diretta a fini speciali, di preparazione per tecnici di audiometria, della durata di due anni.  
-  
-Scuola di preparazione per tecnici di audiometria  
-  
-Art. 110. - E' istituita presso la facolta' di medicina e chirurgia dell'Universita' di Siena una scuola speciale di preparazione per tecnici di audiometria che ha sede presso la clinica otorinolaringoiatrica dell'Universita'.  
-  
-Art. 111. - La scuola prende il nome di "Scuola di preparazione per tecnici di audiometria", ha la durata di due anni con indirizzo teorico-pratico e conferisce il diploma di tecnico di audiometria.  
-Ne e' titolo di ammissione il possesso di un diploma legalmente valido conseguito presso un istituto secondario superiore su non meno di cinque anni di corso.  
-  
-Art. 112. - Gli aspiranti all'iscrizione al 1° anno di corso sono tenuti a presentare apposita domanda su carta legale diretta al rettore dell'Universita', correlata dai prescritti documenti e a sostenere un esame di ammissione consistente in una prova orale di cultura generale su argomenti facenti parte dei normali programmi dei licei e degli istituti di istruzione secondaria, con particolare riguardo all'insegnamento di fisica acustica.  
-  
-Art. 113. - Il numero complessivo degli iscritti alla scuola e' di sedici (otto per anno di corso). Qualora le domande di iscrizione fossero in numero superiore a sedici, il consiglio della scuola si riserva di provvedere ad una scelta tra gli idonei in base ai risultati di ammissione.  
-  
-Art. 114. - Il direttore della scuola e' il titolare della cattedra di clinica otorinolaringoiatrica dell'Universita' di Siena. Gli incarichi di insegnamento sono conferiti dal rettore, su proposta del consiglio di facolta' di medicina e chirurgia udito il direttore della scuola. I professori che svolgono gli insegnamenti costituiscono il consiglio della scuola, al quale spettano le funzioni tecniche e disciplinari necessarie per il regolare funzionamento della scuola.  
-  
-Art. 115. - L'anno accademico ha inizio e termine nelle date stabilite dalle leggi in vigore per l'istruzione universitaria.  
-  
-Art. 116. - Il corso comprende lezioni teoriche ed esercitazioni pratiche.  
-Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-Anatomia e fisiologia dell'orecchio, delle vie e dei centri acustici (anatomico-fisico);  
-Elementi di fisica acustica;  
-Tecniche audiometriche.  
-2° Anno:  
-Patologia dell'udito, del linguaggio e dell'organo dell'equilibrio;  
-Elementi di otoneurologia;  
-Elementi di foniatria;  
-Tecniche audiometriche;  
-Elementi di diagnostica audiometrica.  
-  
-Art. 117. - L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni e dall'obbligo, per gli allievi, dell'internato per un periodo di due anni nel reparto di audiologia della clinica otorinolaringoiatrica. La frequenza viene comprovata dalla attestazione rilasciata dagli insegnanti sul libretto di iscrizione. L'attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.  
-  
-Art. 118. - Alla fine di ogni anno gli allievi devono sostenere un esame sulle materie di insegnamento. Nel caso in cui i candidati non abbiano superato gli esami prescritti, essi rimarranno nella posizione di "ripetenti" fino a quando non avranno assolto tutti gli obblighi di cui sopra.  
-  
-Art. 119. - Le commissioni per gli esami di profitto e di diploma sono nominate dal preside della facolta' di medicina e chirurgia, su proposta del direttore della clinica. Le commissioni per gli esami di profitto sono composte da tre membri: direttore della scuola, presidente, e da due insegnanti della scuola stessa. La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente, e da quattro insegnanti della scuola stessa o da altri docenti.  
-  
-Art. 120. - Gli esami di profitto, che consistono in prove teoriche e pratiche, si sostengono in un unico gruppo di materie per ciascun anno di corso. Ogni commissario ha a sua disposizione 10 punti.  
-  
-Art. 121. - L'esame di diploma consiste nella discussione di una tesi scritta su un argomento riguardante le materie di insegnamento, approvata dal direttore della scuola ed in una prova pratica stabilita dalla commissione esaminatrice. I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola ma, se al secondo anno non sia loro riconosciuta la idoneita', saranno senz'altro esclusi da ulteriori prove. Agli allievi che avranno superato l'esame finale verra' rilasciato il diploma di tecnico audiometrista.  
-  
-Art. 122. - Gli esami di profitto e di diploma si danno in due sessioni, la prima, estiva, ha inizio subito dopo la chiusura annuale dei corsi e la seconda, autunnale, nel mese che precede l'inizio del nuovo anno accademico.  
-  
-  
-Art. 123. - Le tasse e soprattasse annuali a carico degli iscritti restano cosi' destinate:  
-tassa annuale di iscrizione . . . . . . . . . . . . . . L. 20.000 soprattassa annuale di esame. . . . . . . . . . . . . . L. 10.000 tassa erariale di diploma . . . . . . . . . . . . . . . L. 12.000 tassa annuale per iscrizione studenti fuori corso. . . . L. 6.000 contributi di laboratorio (utilizzazione di audiometri). L. 35.000  
-  
-Art. 124. - Al funzionamento della suddetta scuola si provvedera' con il provento delle tasse, soprattasse e contributi dovuti dagli iscritti e con eventuali elargizioni o contributi di enti pubblici o privati.  
+Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' modificato come dal testo annesso al presente decreto che e' approvato e firmato dal Ministro per la pubblica istruzione.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 ottobre 1973
+### Dato a Roma, addi' 29 ottobre 1974
 
 LEONE MALFATTI
 
 Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 31 maggio 1974
+Registrato alla Corte dei conti, addi' 27 gennaio 1975
 
-Atti di Governo, registro n. 3, foglio n. 55. - SCIARRETTA
+Atti di Governo, registro n. 8, foglio n. 34
+
+Allegato
+
+ ALLEGATO   
+  
+TESTO DELLE MODIFICHE APPORTATE ALLO STATUTO DELL'UNIVERSITA' DEGLI STUDI DI SIENA   
+  
+L'art. 45, e' modificato nel senso che la facolta' di lettere e filosofia rilascia anche la laurea in storia.   
+Dopo l'art. 49, e con il conseguente spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo relativo al corso di laurea in storia:   
+  
+CORSO DI LAUREA IN STORIA   
+  
+Art. 50. - Durata del corso di studio: quattro anni.   
+Il corso di studi si distingue in tre indirizzi: a) antico, b) medievale, c) moderno. Sono titoli di ammissione: a) il diploma di scuola media superiore di durata quinquennale; b) il diploma rilasciato al termine dell'anno integrativo frequentato dopo il conseguimento del diploma di maturita' o abilitazione magistrale.  
+Quest'ultimo titolo non e' valido per l'indirizzo antico.   
+A) Indirizzo antico.   
+Sono insegnamenti fondamentali:   
+1) Storia greca;   
+2) Storia romana;   
+3) Storia del Mediterraneo antico orientale;   
+4) Epigrafia e antichita' antiche;   
+5) Epigrafia e antichita' romane;   
+6) Papirologia;   
+7) Numismatica antica;   
+8) Archeologia;   
+9) Storia della filosofia antica;   
+10) Paleografia greca e latina;   
+11) Storia orientale antica.   
+Sono insegnamenti complementari:   
+1) Topografia antica;   
+2) Archeologia delle province romane;   
+3) Climatologia storica;   
+4) Ebraico;   
+5) Esegesi delle fonti di storia greca e romana;   
+6) Esegesi delle fonti di diritto romano;   
+7) Etruscologia ed archeologia italica;   
+8) Filologia greca e latina;   
+9) Geologia e sedimentologia storica;   
+10) Istituzioni di diritto romano;   
+11) Paletnologia;   
+12) Letteratura cristiana antica;   
+13) Letteratura greca;   
+14) Letteratura latina;   
+15) Storia del cristianesimo antico;   
+16) Storia delle religioni del mondo classico;   
+17) Storia del diritto romano;   
+18) Storia dell'economia antica;   
+19) Storia del diritto greco;   
+20) Storia sociale del mondo antico;   
+21) Storia delle costituzioni del mondo antico;   
+22) Una storia regionale dell'antichita'.   
+B) Indirizzo medievale.   
+Sono insegnamenti fondamentali:   
+1) Storia medievale;   
+2) Paleografia latina e diplomatica;   
+3) Archivistica;   
+4) Letteratura latina medievale;   
+5) Filologia romanza;   
+6) Storia bizantina;   
+7) Storia medievale dell'Oriente europeo (oppure: Storia e antichita' mussulmane);   
+8) Storia della filosofia medievale;   
+9) Lettorato di latino;   
+10) Istituzioni medievali;   
+11) Storia dei paesi islamici.   
+Sono insegnamenti complementari:   
+1) Archeologia medievale;   
+2) Antichita' e istituzioni medievali;   
+3) Bibliografia e biblioteconomia;   
+4) Cronologia e cronografia;   
+5) Numismatica, sfragistica e araldica;   
+6) Linguistica, onomastica e toponomastica medievali;   
+7) Epigrafia medievale;   
+8) Filologia italiana;   
+9) Storia del diritto romano;   
+10) Storia del commercio e della navigazione;   
+11) Storia del diritto italiano;   
+12) Codicologia;   
+13) Pubblicistica e cronachistica medievali;   
+14) Paleografia musicale;   
+15) Storia delle esplorazioni geografiche;   
+16) Storia e civilta' precolombiane dell'America;   
+17) Lingua e letteratura catalana;   
+18) Paleografia greca;   
+19) Esegesi delle fonti della storia medievale;   
+20) Papirologia;   
+21) Istituzioni di diritto romano;   
+22) Geografia storica;   
+23) Storia dell'arte medievale;   
+24) Letteratura umanistica;   
+25) Storia agraria medievale;   
+26) Una storia regionale del medioevo;   
+27) Storia degli insegnamenti tardo-antichi e medievali.   
+C) Indirizzo moderno.   
+Sono insegnamenti fondamentali:   
+1) Storia moderna;   
+2) Storia degli antichi stati italiani;   
+3) Storia dei paesi afro-asiatici nell'eta' moderna;   
+4) Storia dei paesi slavi;   
+5) Storia americana;   
+6) Storia del Rinascimento;   
+7) Storia della filosofia moderna;   
+8) Storia del pensiero scientifico nell'eta' moderna;   
+9) Storia della letteratura italiana moderna;   
+10) Cinematica dei fatti economici e sociali;   
+11) Geografia politica ed economica.   
+Sono insegnamenti complementari (quelli indicati in gruppo possono essere scelti separatamente fuorche' sia indicato "oppure"):   
+1) Storia dell'eta' della riforma e della controriforma;   
+2) Storia dell'eta' dell'illuminismo;   
+3) Storia del Risorgimento;   
+4) Storia delle Chiese cristiane, diritto ecclesiastico o diritto canonico;   
+5) Storia delle istituzioni politiche, istituzioni di diritto pubblico;   
+6) Storia del diritto italiano;   
+7) Storia dei trattati e relazioni internazionali; diritto internazionale;   
+8) Una storia regionale dell'eta' moderna;   
+9) Filosofia della storia;   
+10) Storia della lingua italiana;   
+11) Statistica oppure calcolo delle probabilita', istituzioni di matematiche;   
+12) Storia delle matematiche, istituzioni di matematiche;   
+13) Storia della medicina, antropologia oppure genetica, oppure anatomia comparata, oppure istologia ed embriologia, oppure biologia generale;   
+14) Storia della dottrina chimico-inorganica;   
+15) Storia dell'urbanistica;   
+16) Storia della tecnica, elementi di macchine, oppure elettrotecnica, oppure arte mineraria, oppure idraulica, oppure tecnologie generali, oppure tecnica ed economia dei trasporti;   
+17) Cronologia e tecniche della misura del tempo;   
+18) Storia della geografia, oppure storia delle esplorazioni, geografia fisica, storia dell'agricoltura, ecologia;   
+19) Storia del commercio, oppure storia dell'industria, economia politica, merceologia;   
+20) Storia della moneta e della borsa, scienza delle finanze;   
+21) Storia navale, tecnologia della nave, oppure architettura navale;   
+22) Storia dell'arte moderna.   
+Per essere ammesso all'esame di laurea lo studente deve aver superato gli esami in tutti gli insegnamenti fondamentali e almeno in nove insegnamenti fra quelli complementari oltre a due esami superati per gli insegnamenti scelti fra i seguenti:   
+1) Lingua e letteratura inglese;   
+2) Lingua e letteratura francese;   
+3) Lingua e letteratura tedesca;   
+4) Lingua e letteratura spagnola;   
+5) Lingua e letteratura russa.   
+E' opportuno che non piu' di tre esami in ciascun indirizzo siano scelti fra gli insegnamenti di altri indirizzi o corsi di laurea e che le discipline indicate congiuntamente siano scelte assieme.   
+Almeno due esami complementari dovranno preferibilmente essere scelti fra gli insegnamenti seguenti;   
+1) Storia economica;   
+2) Storia delle dottrine politiche;   
+3) Storia delle dottrine economiche;   
+4) Teoria e storia della storiografia;   
+5) Storia della scienza e della tecnica.   
+L'esame di laurea in storia consiste nella discussione di una dissertazione scritta svolta dal candidato in uno degli insegnamenti relativi al corso di laurea ed in rapporto al carattere della laurea stessa e dell'indirizzo prescelto.   
+  
+Visto, d'ordine del Presidente della Repubblica   
+Il Ministro per la pubblica istruzione   
+MALFATTI   

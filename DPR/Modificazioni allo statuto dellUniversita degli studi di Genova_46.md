@@ -1,180 +1,72 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1163
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 settembre 1971 n. 939
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1163
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 settembre 1971 n. 939
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 122 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in medicina nucleare.
-
-Dopo l'art. 275, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in medicina nucleare.
-
-Scuola di specializzazione in medicina nucleare
-
-Art. 276. - La scuola di specializzazione in medicina nucleare ha la durata di tre anni. Essa ha sede presso l'istituto scientifico di medicina interna.
-
-Il direttore della scuola e' un professore di ruolo designato dalla facolta' a norma dell'art. 123 dello statuto dell'Universita'.
-
-Art. 277. - Alla scuola possono essere iscritti solo i laureati in medicina e chirurgia. In ogni anno accademico possono essere ammessi al primo anno di corso un numero massimo di 10 candidati. Il totale massimo degli iscritti per tutti e tre gli anni e' di trenta.
-
-Non e' consentita alcuna abbreviazione di corso.
-
-Art. 278. - Gli aspiranti saranno ammessi alla scuola dopo il superamento di un esame preliminare che comprende una prova scritta ed una prova orale e che si svolgera' entro il mese di dicembre.
-
-Art. 279. - Gli iscritti alla scuola hanno l'obbligo di frequentare gli insegnamenti secondo il programma del corso, nonche' l'istituto sede della scuola.
-
-Coloro che non ottempereranno all'obbligo di frequenza ai corsi di insegnamento ed al servizio di corsi e di laboratorio non potranno ottenere l'attestazione di frequenza necessaria per l'ammissione agli esami.
-
-Art. 280. - Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-Fondamenti di matematica e di statistica;
-
-Fisica nucleare e delle radiazioni;
-
-Tecniche per le misure di radioattivita';
-
-Dosimetria.
-
-2° Anno:
-
-Teoria dei traccianti;
-
-Elementi di radiochimica;
-
-Applicazioni diagnostiche I;
-
-Elementi di radiobiologia.
-
-3° Anno:
-
-Applicazioni diagnostiche II;
-
-Applicazioni terapeutiche;
-
-Radioprotezione e legislazione.
-
-Il programma sara' svolto in complessive otto settimane per un totale di almeno 60 lezioni globali e sara' integrato da seminari, conferenze, esercitazioni. Il direttore della scuola potra' ripartire lo svolgimento del programma in due o piu' periodi tra il 15 gennaio ed il 30 giugno.
-
-Art. 281. - Alla fine di ciascun anno accademico coloro i quali abbiano ottenuto la prescritta attestazione di frequenza, potranno sostenere gli esami di profitto, il cui superamento e' condizione necessaria per la iscrizione al corso successivo.
-
-Gli esami consistono in prove scritte (risposte ad un questionario di almeno cinque domande) ed in una prova orale su ciascuna delle materie di insegnamento che sono oggetto di esame in ogni anno di corso.
-
-Art. 282. - Al termine del terzo anno, per conseguire il diploma di specializzazione, gli iscritti, oltre ad aver superato le prove di esame nelle singole materie, dovranno presentare una dissertazione scritta su un argomento di medicina nucleare (clinico o sperimentale) che sara' stabilito in base agli accordi presi con il direttore della scuola.
-
-I candidati non riconosciuti idonei agli esami di ciascun corso e all'esame di diploma potranno sostenere le prove dopo un altro anno di frequenza.
-
-Art. 283. - Le norme per l'iscrizione, per le tasse, ecc. sono quelle generali delle scuole di specializzazione e di perfezionamento riferite negli articoli da 122 a 137 dello statuto dell'Universita'.
-
-Art. 284. - Agli allievi che abbiano ottenuto l'approvazione nell'esame finale viene rilasciato il diploma di specializzazione in medicina nucleare.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 31 ottobre 1973
-
-LEONE
-
-MALFATTI
-
-Visto, il Guardasigilli: ZAGARI
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 28 ottobre 1974 Atti di Governo, registro n. 6, foglio n. 53. - SCIARRETTA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 122 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in medicina nucleare.  
-Dopo l'art. 275, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in medicina nucleare.  
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato nel senso che gli articoli 220, 221, 222, 223, 224, 225 e 226, relativi alla "Scuola di perfezionamento in oncologia" che assume la denominazione di "Scuola di specializzazione in oncologia" sono abrogati e sostituiti dai seguenti:  
   
-Scuola di specializzazione in medicina nucleare  
+Scuola di specializzazione in oncologia  
   
-Art. 276. - La scuola di specializzazione in medicina nucleare ha la durata di tre anni. Essa ha sede presso l'istituto scientifico di medicina interna.  
-Il direttore della scuola e' un professore di ruolo designato dalla facolta' a norma dell'art. 123 dello statuto dell'Universita'.  
-Art. 277. - Alla scuola possono essere iscritti solo i laureati in medicina e chirurgia. In ogni anno accademico possono essere ammessi al primo anno di corso un numero massimo di 10 candidati. Il totale massimo degli iscritti per tutti e tre gli anni e' di trenta.  
-Non e' consentita alcuna abbreviazione di corso.  
-Art. 278. - Gli aspiranti saranno ammessi alla scuola dopo il superamento di un esame preliminare che comprende una prova scritta ed una prova orale e che si svolgera' entro il mese di dicembre.  
-Art. 279. - Gli iscritti alla scuola hanno l'obbligo di frequentare gli insegnamenti secondo il programma del corso, nonche' l'istituto sede della scuola.  
-Coloro che non ottempereranno all'obbligo di frequenza ai corsi di insegnamento ed al servizio di corsi e di laboratorio non potranno ottenere l'attestazione di frequenza necessaria per l'ammissione agli esami.  
-Art. 280. - Le materie di insegnamento sono le seguenti:  
-  
+Art. 220. - La scuola di specializzazione in oncologia ha lo scopo ed il compito di formare la necessaria competenza scientifica e di completare la preparazione biologica e di patologia clinica di coloro che vogliono dedicarsi all'esercizio della medicina e chirurgia con speciale riguardo allo studio dei tumori, alle diagnosi precoci, al loro rilievo ed alla loro prevenzione.  
+La scuola e' diretta dai titolari delle cattedre di anatomia e istologia patologica e di patologia generale, ad anni alterni.  
+Art. 221. - Alla scuola sono ammessi i laureati in medicina e chirurgia (con preferenza per gli specializzandi in altre materie biologiche o cliniche) in numero limitato per ogni corso.  
+Il numero complessivo di specializzandi, in ogni caso, non puo' superare i sessanta.  
+Qualora le domande di iscrizione fossero superiori al numero dei posti disponibili, la direzione della scuola si riserva di formare una graduatoria in base ai titoli presentati.  
+La frequenza al corso ed alle esercitazioni e' obbligatoria, con obbligo di internato semestrale nei vari istituti designati dal direttore della scuola.  
+Le norme di iscrizione, pagamento tasse, esami, ecc. sono quelle generali delle scuole di specializzazione e perfezionamento, riferite negli articoli da 122 a 137 delle norme generali dello statuto dell'universita'.  
+Art. 222. - Le materie di insegnamento sono cosi' suddivise nei singoli corsi:  
 1° Anno:  
-Fondamenti di matematica e di statistica;  
-Fisica nucleare e delle radiazioni;  
-Tecniche per le misure di radioattivita';  
-Dosimetria.  
-  
+Etiopatogenesi oncologica;  
+Biochimica oncologica;  
+Anatomia e istologia patologica dei tumori.  
 2° Anno:  
-Teoria dei traccianti;  
-Elementi di radiochimica;  
-Applicazioni diagnostiche I;  
-Elementi di radiobiologia.  
-  
+Oncologia sperimentale;  
+Epidemielogia e statistica dei tumori.  
 3° Anno:  
-Applicazioni diagnostiche II;  
-Applicazioni terapeutiche;  
-Radioprotezione e legislazione.  
-  
-Il programma sara' svolto in complessive otto settimane per un totale di almeno 60 lezioni globali e sara' integrato da seminari, conferenze, esercitazioni. Il direttore della scuola potra' ripartire lo svolgimento del programma in due o piu' periodi tra il 15 gennaio ed il 30 giugno.  
-Art. 281. - Alla fine di ciascun anno accademico coloro i quali abbiano ottenuto la prescritta attestazione di frequenza, potranno sostenere gli esami di profitto, il cui superamento e' condizione necessaria per la iscrizione al corso successivo.  
-Gli esami consistono in prove scritte (risposte ad un questionario di almeno cinque domande) ed in una prova orale su ciascuna delle materie di insegnamento che sono oggetto di esame in ogni anno di corso.  
-Art. 282. - Al termine del terzo anno, per conseguire il diploma di specializzazione, gli iscritti, oltre ad aver superato le prove di esame nelle singole materie, dovranno presentare una dissertazione scritta su un argomento di medicina nucleare (clinico o sperimentale) che sara' stabilito in base agli accordi presi con il direttore della scuola.  
-I candidati non riconosciuti idonei agli esami di ciascun corso e all'esame di diploma potranno sostenere le prove dopo un altro anno di frequenza.  
-Art. 283. - Le norme per l'iscrizione, per le tasse, ecc. sono quelle generali delle scuole di specializzazione e di perfezionamento riferite negli articoli da 122 a 137 dello statuto dell'Universita'.  
-Art. 284. - Agli allievi che abbiano ottenuto l'approvazione nell'esame finale viene rilasciato il diploma di specializzazione in medicina nucleare.  
+Diagnosi citologica e citologia dei tumori;  
+Nozioni di diagnostica clinica e terapia dei tumori;  
+Nozioni di clinica medica dei tumori;  
+Nozioni di clinica ginecologica dei tumori;  
+Organizzazione delle lotte contro i tumori.  
+Art. 223. - Il corso ha la durata di tre anni e l'insegnamento avra' carattere dottrinale, dimostrativo e pratico.  
+La direzione della scuola ha la facolta' di invitare i cultori delle materie a tenere conferenze su capitoli dell'oncologia.  
+Gli insegnamenti saranno completati con esercitazioni pratiche che si svolgono durante il corso nei vari istituti.  
+Art. 224. - Alla fine di ogni corso, per essere ammessi al corso successivo gli iscritti, ottenuta la firma di frequenza, dovranno sostenere un colloquio o un esame delle materie svolte.  
+Alla fine del terzo anno, gli iscritti, che avranno ottenuta la firma di frequenza, saranno ammessi alla prova finale, consistente in un esame teorico pratico, che, superato, dara' diritto al candidato a discutere una speciale.  
+Art. 225. - L'esame od il colloquio, la prova teorica e pratica e la discussione della tesi di specializzazione, saranno sostenuti davanti ad una commissione costituita dal direttore della scuola, da tre titolari delle materie d'insegnamento del corso e da un libero docente di anatomia ed istologia patologica, o di patologia generale, quale segretario.  
+Art. 226. - Agli iscritti alla scuola, che avranno superato le prove prescritte, sara' rilasciato un diploma di specialista in oncologia, da esibirsi a tutti gli effetti legali.  
+L'art. 278, relativo alla scuola di specializzazione in psichiatria e' modificato nel senso che il numero complessivo degli scritti da ammettere alla scuola e' aumentato a venti.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1973
+### Dato a Roma, addi' 18 settembre 1971
 
-LEONE MALFATTI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 28 ottobre 1974
+Registrato alla Corte dei conti, addi' 12 novembre 1971
 
-Atti di Governo, registro n. 6, foglio n. 53. - SCIARRETTA
+Atti del Governo, registro n. 245, foglio n. 24. - CARUSO

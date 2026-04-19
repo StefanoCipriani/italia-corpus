@@ -1,21 +1,19 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1982 n. 1106
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1975 n. 1021
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1982 n. 1106
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1975 n. 1021
+================================================================
 
-Autorizzazione alla fondazione "Opera Bonomelli pro orfani ed operai", in Milano, ad accettare una donazione.
--------------------------------------------------------------------------------------------------------------
+Autorizzazione alla fondazione Opera Bonomelli pro orfani ed operai, in Milano, ad accettare una donazione.
+-----------------------------------------------------------------------------------------------------------
 
 Art. 1
 ------
 
 N.
 
-1106. Decreto del Presidente della Repubblica 28 ottobre 1982, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, la fondazione "Opera Bonomelli pro orfani ed operai", in Milano, viene autorizzata ad accettare la donazione, consistente in un edificio sito in Gallarate (Varese), via Agnelli, ed in un secondo edificio adiacente al primo, con accesso da via G.  
-Ferraris, oltre il terreno annesso agli edifici stessi, disposta dalla chiesa parrocchiale di S. Maria Assunta in Gallarate, con atto 12 gennaio 1976, n. 216195 di repertorio, a rogito dott.  
-Biagio Favuzza, notaio in Gallarate; immobili valutati dall'ufficio tecnico erariale di Varese in data 30 novembre 1977 in L. 706.122.800.  
+1021. Decreto del Presidente della Repubblica 3 dicembre 1975, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, la fondazione Opera Bonomelli pro orfani ed operai, in Milano, viene autorizzata ad accettare la donazione disposta dalla societa' "Collegio S. Carlo S.p.a.", in Milano, consistente in un immobile sito in Cesenatico (Forli), via dei Mille, 81, censito al nuovo catasto edilizio urbano alla partita n. 1455, foglio n. 15, mappale n. 24, categoria B/1, classe 2, del valore di L. 50.000.000, destinato ad uso diretto dell'ente per gli scopi previsti nel suo statuto.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 7 febbraio 1983  
-Registro n. 1 Lavoro, foglio n. 191
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 21 luglio 1976  
+Atti di Governo, registro n. 8, loglio n. 2

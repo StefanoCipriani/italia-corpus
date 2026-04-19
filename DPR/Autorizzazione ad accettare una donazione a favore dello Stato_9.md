@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 settembre 1980 n. 1127
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1984 n. 1202
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 settembre 1980 n. 1127
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1984 n. 1202
+==============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1127. Decreto del Presidente della Repubblica 1 settembre 1980, col quale, sulla proposta del Ministro degli affari esteri, di concerto con il Ministro delle finanze, il Ministero delle finanze viene autorizzato ad accettare la donazione di un immobile sito in Montevideo, calle Paraguay n. 1177, da tempo sede dell'Istituto italiano di cultura, disposta dall'associazione "Pro cultura italiana en el Uruguay S.A." con atto di donazione 25 maggio 1970.  
+1202. Decreto del Presidente della Repubblica 7 giugno 1984, col quale, sulla proposta del Ministro delle finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dall'ente morale Sacrestia della chiesa parrocchiale di Santa Croce, in Monterosi (Viterbo), con atto 13 marzo 1981, n. 7254 di repertorio, a rogito dott. Luigi De Santis, notaio in Caprarola (Viterbo), registrato a Viterbo in data 18 marzo 1981 al n. 2414, consistente in un terreno della superficie di mq 1000 occorso per la realizzazione del monumento ossario ai caduti in Monterosi.  
   
-Visto, il Guardasigilli: SARTI  
-Registrato alla Corte dei conti, addi' 16 gennaio 1981  
-Registro n. 1 Esteri, foglio n. 226
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 26 ottobre 1984  
+Registro n. 59 Finanze, foglio n. 289

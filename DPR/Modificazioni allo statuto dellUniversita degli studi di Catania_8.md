@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1963 n. 1512
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1204
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1963 n. 1512
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1204
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
@@ -10,17 +10,15 @@ Modificazioni allo statuto dell'Universita' degli studi di Catania.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, numero 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successivi;
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1257](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1257), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -32,190 +30,523 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 9. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di: "Diritto pubblico regionale".
+L'art. 157, relativo all'elenco delle scuole di specializzazione della facolta' di medicina e chirurgia e' modificato nel senso che le scuole in "Malattie veneree e della pelle" e in "Anestesiologia" mutano rispettivamente le denominazioni in quelle di "Clinica dermosifilopatica" e di "Anestesiologia e rianimazione".
 
-Art. 14. - Agli insegnamenti complementari del corso di laurea in Scienze politiche sono aggiunti quelli di:
+Allo stesso elenco e' aggiunta la scuola di specializzazione in "Malattie dell'apparato digerente".
 
-Diritto pubblico regionale
+Gli articoli 184 e 185, relativi alla scuola di specializzazione in malattie dell'apparato cardiovascolare; gli articoli 186 e 187 relativi alla scuola di specializzazione in ostetricia e ginecologia; gli articoli 192 e 193, relativi alla scuola di specializzazione in malattie veneree e della pelle che assume la denominazione di scuola di specializzazione in clinica dermosifilopatica; gli articoli 196 e 197, relativi alla scuola di specializzazione in radiologia; gli articoli 200 e 201, relativi alla scuola di specializzazione in anestesiologia che assume la denominazione di scuola di specializzazione in anestesiologia e rianimazione; gli articoli 202 e 203, relativi alla scuola di specializzazione in medicina legale e delle assicurazioni, sono abrogati e sostituiti dai seguenti:
 
-Organizzazione internazionale.
+Scuola di specializzazione in malattie dell'apparato cardiovascolare
 
-Art. 26. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti quelli di:
+Art. 184. - Durata del corso: 3 anni.
 
-34) Epigrafia e antichita' semitiche;
+Piano di studi
 
-35) Assiriologia ed archeologia orientale.
+1° Anno:
 
-Art. 32, relativo all'ammissione al corso di laurea in Lettere, il primo comma e' abrogato e sostituito dal seguente:
+Anatomia normale dell'apparato cardiovascolare;
 
-"I laureati in filosofia sono ammessi al quarto anno qualora abbiano frequentato almeno per un anno tutti gli insegnamenti biennali fondamentali per la laurea in Lettere; coloro che sono forniti di altra laurea e del diploma di maturita' classica possono essere ammessi con abbreviazione di corso e con le modalita' che sono proposte dalla Facolta' in rapporto sopratutto all'affinita' degli studi compiuti".
+Fisiologia dell'apparato cardiovascolare respiratorio;
 
-Art. 55, relativo al corso di laurea in Fisica, dopo il settimo comma e' inserito il seguente:
+Fisiopatologia cardiovascolare e respiratoria (primo corso);
 
-"Gli esami di Fisica generale I e II sono propedeutici rispettivamente agli esami di Esperimentazione fisica I e II. Nel tredicesimo comma fra i corsi a scelta per l'indirizzo generale viene aggiunto l'insegnamento di "Storia della fisica".
+Patologia cardiovascolare (1° corso);
 
-Nello stesso articolo nel quattordicesimo comma fra i corsi a scelta di Matematiche superiori, per l'indirizzo generale, viene aggiunto l'insegnamento di: "Istituzioni di fisica matematica".
+Semeiotica fisica (1° corso);
 
-Nello stesso articolo nel sedicesimo comma fra i corsi a scelta per l'indirizzo didattico sono aggiunti quelli di:
+Semeiotica strumentale (1° corso);
 
-Fisica nucleare;
+Microbiologia (complementare);
 
-Fisica superiore;
+Biochimica (complementare).
 
-Meteorologia;
+2° Anno:
 
-Calcolo elettronico.
+Fisiopatologia cardiovascolare e respiratoria (2° corso);
 
-Nello stesso articolo fra i corsi qualificativi dei vari orientamenti nell'indirizzo applicativo sono aggiunti quelli di:
+Patologia cardiovascolare (2° corso);
 
-Calcolo elettronico;
+Semeiologia fisica (2° corso);
 
-Fisica molecolare;
+Semeiologia strumentale (2° corso);
 
-Cristallografia.
+Anatomia patologica dell'apparato cardiovascolare (1° corso);
 
-Art. 61. - Agli insegnamenti complementari del corso di laurea in Scienze naturali e' aggiunto quello di:
+Radiologia;
 
-19) Micro-paleontologia.
+Farmacologia;
 
-Gli insegnamenti complementari semestrali di: "Zoogeografia;
+Clinica e terapia (1° corso).
 
-Fitogeografia; Ecologia animale ed Ecologia vegetale sono soppressi e sostituiti dai seguenti:
+3° Anno:
 
-20) Zoogeografia ed ecologia animale;
+Anatomia patologica dell'apparato cardiovascolare (2° corso);
 
-21) Fitogeografia ed ecologia vegetale.
+Clinica e terapia (2° corso);
 
-Art. 64. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche e' aggiunto quello di:
+Chirurgia dell'apparato cardiovascolare;
 
-21) Geofisica applicata.
+Problemi assicurativi e sociali (complementari);
 
-Dopo l'art. 65 sono aggiunti i seguenti nuovi articoli relativi alla istituzione del corso di laurea in Scienze biologiche con il conseguente spostamento della numerazione degli articoli successivi.
+Statistica (complementare).
 
-Laurea in Scienze biologiche
+Art. 185. - Numero massimo degli iscritti: undici specializzandi per anno. Non sono ammesse abbreviazioni di corso.
 
-Art. 66. - La durata del corso degli studi per la laurea in Scienze biologiche e' di quattro anni.
+Scuola di specializzazione in ostetricia e ginecologia
 
-E' titolo di ammissione il diploma di maturita' classica e di maturita' scientifica. Possono essere ammessi i diplomati degli istituti tecnici agrari, industriali, nautici e per geometri, alle condizioni stabilite dalla legge.
+Art. 186. - Il corso di specializzazione in ostetricia e ginecologia ha la durata di 4 anni. L'ammissione alla scuola avviene a seguito di concorso per titoli ed esami, concorso che deve essere espletato entro il mese di dicembre. Sono da considerare titoli preferenziali a parita' di risultato dell'esame di ammissione:
 
-Sono insegnamenti fondamentali:
+a) il voto di laurea in medicina e chirurgia;
 
-1) Istituzioni di matematiche;
+b) l'aver frequentato come medico o come studente interno una clinica ostetrica e ginecologica universitaria e l'avervi preparato la tesi di laurea;
 
-2) Fisica;
+c) la documentazione di eventuali servizi prestati in grossi reparti ospedalieri della specialita';
 
-3) Chimica generale ed inorganica;
+d) eventuali pubblicazioni.
 
-4) Chimica organica;
+Il numero complessivo degli iscritti alla scuola non deve essere superiore a 40 (suddivisi 10 per ogni anno di corso).
 
-5) Botanica (biennale)
+Per nessun motivo il corso di 4 anni puo' essere abbreviato.
 
-6) Zoologia (biennale);
+Nessun titolo puo' esonerare dalla frequenza gli iscritti nei 4 anni di corso.
 
-7) Anatomia comparata
+Gli iscritti oltre all'obbligo della frequenza alle lezioni, esercitazioni, seminari etc. debbono prestare servizio analogo a quello degli assistenti per non meno di 9 mesi all'anno.
 
-8) Anatomia umana
+Gli iscritti alla scuola debbono sostenere esami annuali di profitto e l'esame finale di diploma. Non puo' essere iscritto all'anno successivo di corso chi non abbia superato tutti gli esami.
 
-9) Istologia ed embriologia
+Art. 187. - Gli insegnamenti impartiti sono i seguenti:
 
-10) Fisiologia generale (biennale);
+1° Anno:
 
-11) Chimica biologica;
+1) Elementi di genetica e di eugenica;
 
-12) Igiene.
+2) Anatomia normale ed embriologia dell'apparato genitale femminile;
 
-Sono insegnamenti complementari:
+3) Fisiologia dell'apparato genitale femminile;
 
-1) Antropologia
+4) Endocrinologia fisiologica;
 
-2) Biologia generale;
+5) Fisiologia ostetrica;
 
-3) Biologia marina;
+6) Diagnostica ostetrica;
 
-4) Biologia molecolare;
+7) Clinica ostetrica e ginecologica.
 
-5) Biologia vegetale applicata;
+2° Anno:
 
-6) Biometria e statistica;
+1) Tecnica operatoria ostetrica;
 
-7) Citologia;
+2) Diagnostica ginecologica;
 
-8) Entomologia;
+3) Tecnica diagnostica di laboratorio nel campo ostetrico e ginecologico esclusa la istologia (sierologia, batteriologia, citologia, ematologia, biochimica);
 
-9) Farmacologia;
+4) Clinica ostetrica e ginecologica.
 
-10) Fisiologia vegetale;
+3° Anno:
 
-11) Fitobiologia marina;
+1) Anatomia patologica ostetrica e ginecologica;
 
-12) Fitogeografia ed ecologia vegetale;
+2) Istologia normale e patologia ostetrica e ginecologica;
 
-13) Genetica;
+3) Puericultura prenatale;
 
-14) Idrobiologia e pescicoltura;
+4) Emoterapia nel campo ostetrico e ginecologico;
 
-15) Meccanica dello sviluppo;
+5) Anestesia ed analgesia nel campo ostetrico e ginecologico;
 
-16) Microbiologia;
+6) Tecnica operatoria ginecologica;
 
-17) Parassitologia;
+7) Terapia medica ostetrica e ginecologica;
 
-18) Patologia generale;
+8) Clinica ostetrica e ginecologica.
 
-19) Patologia vegetale;
+4° Anno:
 
-20) Zoogeografia ed ecologia animale.
+1) Puericultura post-natale e malattia del neonato;
 
-Art. 67. - Gli insegnamenti biennali di "Botanica" e di "Zoologia" comprendono sia la parte generale quanto quella sistematica. I corsi di Istituzioni di matematiche, di Fisica sperimentale, di Chimica generale ed inorganica sono propedeutici nella iscrizione e nello esame e quello di Chimica organica nel solo esame ai corsi di Zoologia, di Botanica, di Anatomia comparata, di Fisiologia generale e di Chimica biologica I, corsi di Anatomia umana, di Istologia ed embriologia sono propedeutici nell'iscrizione e nell'esame ai corsi di Zoologia, di Anatomia comparata, di Fisiologia generale e di Igiene. Il corso di Chimica biologica e' propedeutico nell'iscrizione e nell'esame al corso di Fisiologia generale. Gli insegnamenti fondamentali di Zoologia (biennale) e di Botanica (biennale), sono rispettivamente scissi in due distinti esami annuali.
+2) Ostetricia e ginecologia forense;
 
-Art. 68. - Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami delle materie fondamentali e di almeno quattro complementari.
+3) Roentgendiagnostica e radioterapia in ostetricia e ginecologia;
 
-L'esame di laurea consiste:
+4) Urologia ginecologica;
 
-a) in quattro prove pratiche e orali rispettivamente in Botanica, in Zoologia, in Istologia ed embriologia e in Anatomia comparata;
+5) Chirurgia addominale extragenitale;
 
-b) nella discussione orale di una dissertazione scritta elaborata nell'ultimo biennio;
+6) Clinica ostetrica e ginecologica (esame alla fine del quarto anno).
 
-c) nella esposizione e discussione orale di due fra tre argomenti scelti dal candidato in materie diverse fra loro e da quella su cui verte la dissertazione scritta.
+Gli esami si fanno per gruppi di materie, ed i membri delle commissioni saranno proposti dal direttore della scuola.
 
-Art. 82. - Agli insegnamenti complementari del corso di laurea in Scienze agrarie sono aggiunti quelli di:
+Per il conseguimento del diploma il candidato deve presentare e discutere una dissertazione scritta con contributo personale.
 
-16) Difesa delle piante;
+Scuola di specializzazione in clinica dermosifilopatica
 
-17) Genetica vegetale;
+Art. 192. - Gli anni di corso della scuola di specializzazione in clinica dermosifilopatica debbono essere tre a tempo pieno.
 
-18) Zoologia agraria (semestrale);
+Il numero degli iscritti alla scuola sara' limitato a 7 per ogni anno di corso.
 
-19) Metodologia sperimentale (semestrale);
+Per la iscrizione alla scuola sara' richiesta la sola laurea in medicina e chirurgia e cio' affinche' lo specializzando possa conseguire l'abilitazione professionale durante il corso di specializzazione.
 
-20) Economia dei mercati agricoli.
+Art. 193. - Le materie di studio saranno quelle sottoindicate distribuite per ognuno dei tre anni in corso.
+
+1° Anno:
+
+1) Anatomia e istologia normale della cute;
+
+2) Fisiologia della cute e degli annessi cutanei;
+
+3) Anatomia e fisiologia dell'apparato genitale;
+
+4) Microbiologia e parassitologia applicata;
+
+5) Tecnica di laboratorio con particolare riferimento alla sierologia applicata;
+
+6) Semeiotica dermatologica e venereologia.
+
+2° Anno:
+
+1) Patologia delle malattie cutanee;
+
+2) Patologia delle infezioni sessuali;
+
+3) Anatomia e istologia patologica della cute;
+
+4) Anatomia patologica delle malattie veneree e sessuali;
+
+5) Dermatosi allergiche e professionali;
+
+6) Angiologia;
+
+7) Sessuologia.
+
+3° Anno:
+
+1) Clinica delle malattie cutanee;
+
+2) Clinica delle infezioni sessuali;
+
+3) Farmacologia e terapia medicamentosa;
+
+4) Fisioterapia dermatologica;
+
+5) Cosmetologia;
+
+6) Chirurgia plastica riparatrice;
+
+7) Igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.
+
+Gli esami di profitto degli specializzandi verranno dati in tre gruppi o in tre sessioni distinte, ogni gruppo comprendente le materie proprie di ciascun anno di studio.
+
+L'esame di diploma consistera' nella esposizione e discussione di un argomento della disciplina su un tema dato al candidato 24 ore prima della prova.
+
+Scuola di specializzazione in radiologia
+
+Art. 196. - La scuola rilascia due tipi di diplomi:
+
+a) diploma di specializzazione in radiologia;
+
+b) diploma di specializzazione in radiologia diagnostica.
+
+Il corso di studi per la specializzazione in radiologia ha la durata di quattro anni.
+
+Il corso di studi per la specializzazione in radiologia diagnostica ha la durata di tre anni.
+
+Art. 197. - Diploma di specializzazione in radiologia.
+
+Numero massimo di iscritti: quattro.
+
+Gli insegnamenti impartiti nella scuola sono:
+
+1° Anno:
+
+1) Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;
+
+2) Nozioni sugli apparecchi ed istrumenti della radiologia;
+
+3) Anatomia radiologica normale;
+
+4) Fisiologia radiologica;
+
+5) Tecnica radiologica generale;
+
+6) Semeiotica radiologica generale;
+
+7) Fondamenti di radiobiologia;
+
+8) Nozioni di statistica e matematica.
+
+2° Anno:
+
+1) Tecnica e metodica dell'esame radiologico dei vari organi, apparati e sistemi;
+
+2) Semeiotica radiologica speciale e diagnosi differenziale;
+
+3) Fondamenti di radioterapia;
+
+4) Danni da radiazioni e mezzi di protezione;
+
+5) Dimostrazioni cliniche di diagnostica radiologica;
+
+6) Dimostrazioni cliniche di radioterapia.
+
+3° Anno:
+
+1) Diagnostica radiologica differenziale;
+
+2) Dimostrazioni di casistica di roentgendiagnostica con confronto del quadro anatomopatologico;
+
+3) Dimostrazioni di casistica di roentgenterapia con particolare riferimento alla anatomia patologica;
+
+4) Radioterapia tradizionale. Curieterapia;
+
+5) Radioterapia con alte energie;
+
+6) Elementi di medicina nucleare;
+
+7) Istrumentario, tecnica e metodica di applicazione;
+
+8) Dosimetria.
+
+4° Anno:
+
+1) Moderne tecniche di esplorazione e terapia radiologica;
+
+2) Diagnostica e terapia con isotopi radioattivi somministrati per via interna;
+
+3) Radiodiagnostica e radioterapia clinica (casistica);
+
+4) Medicina legale e legislazione sanitaria in relazione alla radiologia.
+
+I corsi saranno integrati da conferenze, esercitazioni e seminari.
+
+Non sono ammesse abbreviazioni di corso, per nessun motivo.
+
+E' obbligatorio l'internato.
+
+Diploma di specializzazione in radiologia-diagnostica.
+
+Numero massimo di iscritti: quattro per ciascun anno di corso.
+
+Gli insegnamenti impartiti nella scuola sono:
+
+1° Anno:
+
+1) Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;
+
+2) Nozioni sugli apparecchi ed istrumenti della radiologia;
+
+3) Anatomia radiologica normale;
+
+4) Fisiologia radiologica;
+
+5) Tecnica radiologica generale;
+
+6) Semeiotica radiologica generale;
+
+7) Fondamenti di radiobiologia;
+
+8) Nozioni di statistica e matematica.
+
+2° Anno:
+
+1) Metodica di esplorazione dei vari organi e apparati;
+
+2) Semeiotica radiologica speciale e diagnosi differenziale;
+
+3) Nozioni generali sulle lesioni da radiazioni e mezzi di protezione;
+
+4) Moderne tecniche di esplorazione radiologica.
+
+3° Anno:
+
+1) Esplorazione radiologica nella patologia dei vari organi ed apparati. Diagnostica differenziale. Rapporti con l'anatomia patologica;
+
+2) Radiodiagnostica clinica;
+
+3) Medicina legale e legislazione sanitaria in relazione alla radiologia.
+
+I corsi saranno integrati da conferenze, esercitazioni e seminari.
+
+Non sono ammesse abbreviazioni di corso, per nessun motivo.
+
+E' obbligatorio l'internato.
+
+Scuola di specializzazione in anestesiologia e rianimazione
+
+Art. 200. - Il corso degli studi della scuola di specializzazione in anestesiologia e rianimazione, ha la durata di tre anni.
+
+La scuola non puo' accogliere piu' di venticinque allievi per ciascun anno di corso.
+
+Non e' consentita nessuna abbreviazione di corso, fatta eccezione per quegli aspiranti che, in possesso di diploma di specializzazione in anestesiologia, possono essere ammessi al 3° anno per ottenere il completamento.
+
+Per accedere ai corsi successivi e' obbligatorio il superamento di tutti gli esami del corso precedente, ivi comprese le materie biennali.
+
+Gli esami possono essere sostenuti solamente in due sessioni annuali, una estiva ed una autunnale e comunque non oltre il 30 novembre dell'anno in corso.
+
+Il diploma viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinico o sperimentale.
+
+Art. 201. - Gli insegnamenti impartiti nella scuola sono i seguenti:
+
+1° Anno:
+
+Anatomia, biochimica, farmacologia, fisica, fisiologia, applicate alla anestesiologia e rianimazione;
+
+Anestesiologia;
+
+Tecniche chirurgiche di interesse anestesiologico;
+
+Aspetti medico-legali dell'anestesia e della rianimazione;
+
+Internato.
+
+2° Anno:
+
+Anestesiologia;
+
+Terapia antalgica;
+
+Rianimazione;
+
+Internato.
+
+3° Anno:
+
+Rianimazione;
+
+Tecniche speciali di anestesia e rianimazione;
+
+Indagini diagnostiche attinenti alla specialita';
+
+Internato.
+
+Scuola di specializzazione in medicina legale e delle assicurazioni Art. 202. - Il corso di studi della scuola di specializzazione in medicina legale e delle assicurazioni ha la durata di 3 anni. La scuola non puo' accogliere piu' di dieci iscritti per ogni anno di corso. Ad essa potranno accedere i laureati in medicina e chirurgia abilitati all'esercizio della professione.
+
+Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni e le esercitazioni, nonche' di prestare servizio di medico interno per almeno 6 mesi per ciascun anno.
+
+Alla fine di ogni anno gli iscritti sosterranno gli esami di profitto sulle singole materie di insegnamento.
+
+Lo specializzando che non abbia superato tutti gli esami dell'anno frequentato non potra' essere iscritto all'anno successivo.
+
+L'esame di diploma consistera' in una dissertazione scritta su un argomento di medicina legale o di medicina delle assicurazioni.
+
+I candidati non riconosciuti idonei all'esame di diploma si potranno ripresentare dopo un altro anno di frequenza alla scuola; se al secondo esame non sara' loro riconosciuta l'idoneita' verranno senz'altro esclusi da ulteriori prove.
+
+Art. 203. - Materie d'insegnamento:
+
+1° Anno:
+
+Medicina legale generale;
+
+Elementi di diritto pubblico e privato;
+
+Tecnica e diagnostica anatomo-patologica generale e medico-legale;
+
+Traumatologia medico-legale;
+
+Semeiotica medico-legale;
+
+2° Anno:
+
+Medicina legale penalistica;
+
+Deontologia medica;
+
+Neuropsichiatria medico-legale;
+
+Elementi di medicina criminologica e di medicina penitenziaria;
+
+Indagini di sopralluogo;
+
+Identificazione personale;
+
+3° Anno:
+
+Medicina legale civilistica e canonistica;
+
+Tossicologia medico-legale;
+
+Tecniche di laboratorio medico-legale ed anatomia forense;
+
+Ostetricia e ginecologia forensi;
+
+Elementi di legislazione del lavoro;
+
+Elementi di medicina del lavoro;
+
+Medicina delle assicurazioni;
+
+Medicina legale militare e pensionistica civile.
+
+Dopo l'art. 213 e' aggiunto il seguente articolo relativo alla istituzione della scuola di specializzazione in malattie dell'apparato digerente.
+
+Scuola di specializzazione in malattie dell'apparato digerente
+
+Art. 214. - Durata del corso: 3 anni piu' un quarto anno di tirocinio pratico da svolgersi in una clinica medica o in reparti ospedalieri.
+
+Piano di studi
+
+1° Anno:
+
+Anatomia patologica;
+
+Fisiopatologia;
+
+Chimica clinica;
+
+Semeiotica fisica e strumentale (biennale);
+
+Clinica medica (triennale);
+
+Parassitologia (complementare).
+
+2° Anno:
+
+Semeiotica fisica e strumentale;
+
+Semeiotica radiologica;
+
+Malattie del tubo digerente;
+
+Clinica medica.
+
+3° Anno:
+
+Malattie del fegato e del pancreas;
+
+Clinica medica;
+
+Dietetica (complementare).
+
+Per le materie biennali e triennali sara' dato un esame alla fine del biennio e rispettivamente del triennio.
+
+Numero massimo degli iscritti e' cinque specializzandi per anno.
+
+Non sono ammesse abbreviazioni di corso.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 22 settembre 1963
+Dato a Roma, addi' 30 ottobre 1970
 
-SEGNI
+SARAGAT
 
-GUI
+MISASI
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 18 novembre 1963 Atti del Governo, registro n. 176, foglio n. 13. - VILLA
+alla Corte dei conti, addi' 19 gennaio 1971 Atti del Governo, registro n. 240, foglio n. 70. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, numero 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1257](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1257), e successive modificazioni;  
+Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -223,98 +554,283 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 9. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di: "Diritto pubblico regionale".  
-Art. 14. - Agli insegnamenti complementari del corso di laurea in Scienze politiche sono aggiunti quelli di:  
-Diritto pubblico regionale  
-Organizzazione internazionale.  
-Art. 26. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti quelli di:  
-34) Epigrafia e antichita' semitiche;  
-35) Assiriologia ed archeologia orientale.  
-Art. 32, relativo all'ammissione al corso di laurea in Lettere, il primo comma e' abrogato e sostituito dal seguente:  
-"I laureati in filosofia sono ammessi al quarto anno qualora abbiano frequentato almeno per un anno tutti gli insegnamenti biennali fondamentali per la laurea in Lettere; coloro che sono forniti di altra laurea e del diploma di maturita' classica possono essere ammessi con abbreviazione di corso e con le modalita' che sono proposte dalla Facolta' in rapporto sopratutto all'affinita' degli studi compiuti".  
-Art. 55, relativo al corso di laurea in Fisica, dopo il settimo comma e' inserito il seguente:  
-"Gli esami di Fisica generale I e II sono propedeutici rispettivamente agli esami di Esperimentazione fisica I e II. Nel tredicesimo comma fra i corsi a scelta per l'indirizzo generale viene aggiunto l'insegnamento di "Storia della fisica".  
-Nello stesso articolo nel quattordicesimo comma fra i corsi a scelta di Matematiche superiori, per l'indirizzo generale, viene aggiunto l'insegnamento di: "Istituzioni di fisica matematica".  
-Nello stesso articolo nel sedicesimo comma fra i corsi a scelta per l'indirizzo didattico sono aggiunti quelli di:  
-Fisica nucleare;  
-Fisica superiore;  
-Meteorologia;  
-Calcolo elettronico.  
-Nello stesso articolo fra i corsi qualificativi dei vari orientamenti nell'indirizzo applicativo sono aggiunti quelli di:  
-Calcolo elettronico;  
-Fisica molecolare;  
-Cristallografia.  
-Art. 61. - Agli insegnamenti complementari del corso di laurea in Scienze naturali e' aggiunto quello di:  
-19) Micro-paleontologia.  
-Gli insegnamenti complementari semestrali di: "Zoogeografia;  
-Fitogeografia; Ecologia animale ed Ecologia vegetale sono soppressi e sostituiti dai seguenti:  
-20) Zoogeografia ed ecologia animale;  
-21) Fitogeografia ed ecologia vegetale.  
-Art. 64. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche e' aggiunto quello di:  
-21) Geofisica applicata.  
-Dopo l'art. 65 sono aggiunti i seguenti nuovi articoli relativi alla istituzione del corso di laurea in Scienze biologiche con il conseguente spostamento della numerazione degli articoli successivi.  
   
-Laurea in Scienze biologiche  
+L'art. 157, relativo all'elenco delle scuole di specializzazione della facolta' di medicina e chirurgia e' modificato nel senso che le scuole in "Malattie veneree e della pelle" e in "Anestesiologia" mutano rispettivamente le denominazioni in quelle di "Clinica dermosifilopatica" e di "Anestesiologia e rianimazione".  
+Allo stesso elenco e' aggiunta la scuola di specializzazione in "Malattie dell'apparato digerente".  
+Gli articoli 184 e 185, relativi alla scuola di specializzazione in malattie dell'apparato cardiovascolare; gli articoli 186 e 187 relativi alla scuola di specializzazione in ostetricia e ginecologia; gli articoli 192 e 193, relativi alla scuola di specializzazione in malattie veneree e della pelle che assume la denominazione di scuola di specializzazione in clinica dermosifilopatica; gli articoli 196 e 197, relativi alla scuola di specializzazione in radiologia; gli articoli 200 e 201, relativi alla scuola di specializzazione in anestesiologia che assume la denominazione di scuola di specializzazione in anestesiologia e rianimazione; gli articoli 202 e 203, relativi alla scuola di specializzazione in medicina legale e delle assicurazioni, sono abrogati e sostituiti dai seguenti:  
   
-Art. 66. - La durata del corso degli studi per la laurea in Scienze biologiche e' di quattro anni.  
-E' titolo di ammissione il diploma di maturita' classica e di maturita' scientifica. Possono essere ammessi i diplomati degli istituti tecnici agrari, industriali, nautici e per geometri, alle condizioni stabilite dalla legge.  
-Sono insegnamenti fondamentali:  
-1) Istituzioni di matematiche;  
-2) Fisica;  
-3) Chimica generale ed inorganica;  
-4) Chimica organica;  
-5) Botanica (biennale)  
-6) Zoologia (biennale);  
-7) Anatomia comparata  
-8) Anatomia umana  
-9) Istologia ed embriologia  
-10) Fisiologia generale (biennale);  
-11) Chimica biologica;  
-12) Igiene.  
-Sono insegnamenti complementari:  
-1) Antropologia  
-2) Biologia generale;  
-3) Biologia marina;  
-4) Biologia molecolare;  
-5) Biologia vegetale applicata;  
-6) Biometria e statistica;  
-7) Citologia;  
-8) Entomologia;  
-9) Farmacologia;  
-10) Fisiologia vegetale;  
-11) Fitobiologia marina;  
-12) Fitogeografia ed ecologia vegetale;  
-13) Genetica;  
-14) Idrobiologia e pescicoltura;  
-15) Meccanica dello sviluppo;  
-16) Microbiologia;  
-17) Parassitologia;  
-18) Patologia generale;  
-19) Patologia vegetale;  
-20) Zoogeografia ed ecologia animale.  
-Art. 67. - Gli insegnamenti biennali di "Botanica" e di "Zoologia" comprendono sia la parte generale quanto quella sistematica. I corsi di Istituzioni di matematiche, di Fisica sperimentale, di Chimica generale ed inorganica sono propedeutici nella iscrizione e nello esame e quello di Chimica organica nel solo esame ai corsi di Zoologia, di Botanica, di Anatomia comparata, di Fisiologia generale e di Chimica biologica I, corsi di Anatomia umana, di Istologia ed embriologia sono propedeutici nell'iscrizione e nell'esame ai corsi di Zoologia, di Anatomia comparata, di Fisiologia generale e di Igiene. Il corso di Chimica biologica e' propedeutico nell'iscrizione e nell'esame al corso di Fisiologia generale. Gli insegnamenti fondamentali di Zoologia (biennale) e di Botanica (biennale), sono rispettivamente scissi in due distinti esami annuali.  
-Art. 68. - Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami delle materie fondamentali e di almeno quattro complementari.  
-L'esame di laurea consiste:  
-a) in quattro prove pratiche e orali rispettivamente in Botanica, in Zoologia, in Istologia ed embriologia e in Anatomia comparata;  
-b) nella discussione orale di una dissertazione scritta elaborata nell'ultimo biennio;  
-c) nella esposizione e discussione orale di due fra tre argomenti scelti dal candidato in materie diverse fra loro e da quella su cui verte la dissertazione scritta.  
-Art. 82. - Agli insegnamenti complementari del corso di laurea in Scienze agrarie sono aggiunti quelli di:  
-16) Difesa delle piante;  
-17) Genetica vegetale;  
-18) Zoologia agraria (semestrale);  
-19) Metodologia sperimentale (semestrale);  
-20) Economia dei mercati agricoli.  
+Scuola di specializzazione in malattie dell'apparato cardiovascolare  
+Art. 184. - Durata del corso: 3 anni.  
+  
+Piano di studi  
+  
+1° Anno:  
+Anatomia normale dell'apparato cardiovascolare;  
+Fisiologia dell'apparato cardiovascolare respiratorio;  
+Fisiopatologia cardiovascolare e respiratoria (primo corso);  
+Patologia cardiovascolare (1° corso);  
+Semeiotica fisica (1° corso);  
+Semeiotica strumentale (1° corso);  
+Microbiologia (complementare);  
+Biochimica (complementare).  
+  
+2° Anno:  
+Fisiopatologia cardiovascolare e respiratoria (2° corso);  
+Patologia cardiovascolare (2° corso);  
+Semeiologia fisica (2° corso);  
+Semeiologia strumentale (2° corso);  
+Anatomia patologica dell'apparato cardiovascolare (1° corso);  
+Radiologia;  
+Farmacologia;  
+Clinica e terapia (1° corso).  
+  
+3° Anno:  
+Anatomia patologica dell'apparato cardiovascolare (2° corso);  
+Clinica e terapia (2° corso);  
+Chirurgia dell'apparato cardiovascolare;  
+Problemi assicurativi e sociali (complementari);  
+Statistica (complementare).  
+Art. 185. - Numero massimo degli iscritti: undici specializzandi per anno. Non sono ammesse abbreviazioni di corso.  
+Scuola di specializzazione in ostetricia e ginecologia  
+Art. 186. - Il corso di specializzazione in ostetricia e ginecologia ha la durata di 4 anni. L'ammissione alla scuola avviene a seguito di concorso per titoli ed esami, concorso che deve essere espletato entro il mese di dicembre. Sono da considerare titoli preferenziali a parita' di risultato dell'esame di ammissione:  
+a) il voto di laurea in medicina e chirurgia;  
+b) l'aver frequentato come medico o come studente interno una clinica ostetrica e ginecologica universitaria e l'avervi preparato la tesi di laurea;  
+c) la documentazione di eventuali servizi prestati in grossi reparti ospedalieri della specialita';  
+d) eventuali pubblicazioni.  
+Il numero complessivo degli iscritti alla scuola non deve essere superiore a 40 (suddivisi 10 per ogni anno di corso).  
+Per nessun motivo il corso di 4 anni puo' essere abbreviato.  
+Nessun titolo puo' esonerare dalla frequenza gli iscritti nei 4 anni di corso.  
+Gli iscritti oltre all'obbligo della frequenza alle lezioni, esercitazioni, seminari etc. debbono prestare servizio analogo a quello degli assistenti per non meno di 9 mesi all'anno.  
+Gli iscritti alla scuola debbono sostenere esami annuali di profitto e l'esame finale di diploma. Non puo' essere iscritto all'anno successivo di corso chi non abbia superato tutti gli esami.  
+Art. 187. - Gli insegnamenti impartiti sono i seguenti:  
+1° Anno:  
+1) Elementi di genetica e di eugenica;  
+2) Anatomia normale ed embriologia dell'apparato genitale femminile;  
+3) Fisiologia dell'apparato genitale femminile;  
+4) Endocrinologia fisiologica;  
+5) Fisiologia ostetrica;  
+6) Diagnostica ostetrica;  
+7) Clinica ostetrica e ginecologica.  
+2° Anno:  
+1) Tecnica operatoria ostetrica;  
+2) Diagnostica ginecologica;  
+3) Tecnica diagnostica di laboratorio nel campo ostetrico e ginecologico esclusa la istologia (sierologia, batteriologia, citologia, ematologia, biochimica);  
+4) Clinica ostetrica e ginecologica.  
+3° Anno:  
+1) Anatomia patologica ostetrica e ginecologica;  
+2) Istologia normale e patologia ostetrica e ginecologica;  
+3) Puericultura prenatale;  
+4) Emoterapia nel campo ostetrico e ginecologico;  
+5) Anestesia ed analgesia nel campo ostetrico e ginecologico;  
+6) Tecnica operatoria ginecologica;  
+7) Terapia medica ostetrica e ginecologica;  
+8) Clinica ostetrica e ginecologica.  
+4° Anno:  
+1) Puericultura post-natale e malattia del neonato;  
+2) Ostetricia e ginecologia forense;  
+3) Roentgendiagnostica e radioterapia in ostetricia e ginecologia;  
+4) Urologia ginecologica;  
+5) Chirurgia addominale extragenitale;  
+6) Clinica ostetrica e ginecologica (esame alla fine del quarto anno).  
+Gli esami si fanno per gruppi di materie, ed i membri delle commissioni saranno proposti dal direttore della scuola.  
+Per il conseguimento del diploma il candidato deve presentare e discutere una dissertazione scritta con contributo personale.  
+  
+Scuola di specializzazione in clinica dermosifilopatica  
+Art. 192. - Gli anni di corso della scuola di specializzazione in clinica dermosifilopatica debbono essere tre a tempo pieno.  
+Il numero degli iscritti alla scuola sara' limitato a 7 per ogni anno di corso.  
+Per la iscrizione alla scuola sara' richiesta la sola laurea in medicina e chirurgia e cio' affinche' lo specializzando possa conseguire l'abilitazione professionale durante il corso di specializzazione.  
+Art. 193. - Le materie di studio saranno quelle sottoindicate distribuite per ognuno dei tre anni in corso.  
+1° Anno:  
+1) Anatomia e istologia normale della cute;  
+2) Fisiologia della cute e degli annessi cutanei;  
+3) Anatomia e fisiologia dell'apparato genitale;  
+4) Microbiologia e parassitologia applicata;  
+5) Tecnica di laboratorio con particolare riferimento alla sierologia applicata;  
+6) Semeiotica dermatologica e venereologia.  
+2° Anno:  
+1) Patologia delle malattie cutanee;  
+2) Patologia delle infezioni sessuali;  
+3) Anatomia e istologia patologica della cute;  
+4) Anatomia patologica delle malattie veneree e sessuali;  
+5) Dermatosi allergiche e professionali;  
+6) Angiologia;  
+7) Sessuologia.  
+3° Anno:  
+1) Clinica delle malattie cutanee;  
+2) Clinica delle infezioni sessuali;  
+3) Farmacologia e terapia medicamentosa;  
+4) Fisioterapia dermatologica;  
+5) Cosmetologia;  
+6) Chirurgia plastica riparatrice;  
+7) Igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.  
+Gli esami di profitto degli specializzandi verranno dati in tre gruppi o in tre sessioni distinte, ogni gruppo comprendente le materie proprie di ciascun anno di studio.  
+L'esame di diploma consistera' nella esposizione e discussione di un argomento della disciplina su un tema dato al candidato 24 ore prima della prova.  
+  
+Scuola di specializzazione in radiologia  
+Art. 196. - La scuola rilascia due tipi di diplomi:  
+a) diploma di specializzazione in radiologia;  
+b) diploma di specializzazione in radiologia diagnostica.  
+Il corso di studi per la specializzazione in radiologia ha la durata di quattro anni.  
+Il corso di studi per la specializzazione in radiologia diagnostica ha la durata di tre anni.  
+Art. 197. - Diploma di specializzazione in radiologia.  
+Numero massimo di iscritti: quattro.  
+Gli insegnamenti impartiti nella scuola sono:  
+1° Anno:  
+1) Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;  
+2) Nozioni sugli apparecchi ed istrumenti della radiologia;  
+3) Anatomia radiologica normale;  
+4) Fisiologia radiologica;  
+5) Tecnica radiologica generale;  
+6) Semeiotica radiologica generale;  
+7) Fondamenti di radiobiologia;  
+8) Nozioni di statistica e matematica.  
+2° Anno:  
+1) Tecnica e metodica dell'esame radiologico dei vari organi, apparati e sistemi;  
+2) Semeiotica radiologica speciale e diagnosi differenziale;  
+3) Fondamenti di radioterapia;  
+4) Danni da radiazioni e mezzi di protezione;  
+5) Dimostrazioni cliniche di diagnostica radiologica;  
+6) Dimostrazioni cliniche di radioterapia.  
+3° Anno:  
+1) Diagnostica radiologica differenziale;  
+2) Dimostrazioni di casistica di roentgendiagnostica con confronto del quadro anatomopatologico;  
+3) Dimostrazioni di casistica di roentgenterapia con particolare riferimento alla anatomia patologica;  
+4) Radioterapia tradizionale. Curieterapia;  
+5) Radioterapia con alte energie;  
+6) Elementi di medicina nucleare;  
+7) Istrumentario, tecnica e metodica di applicazione;  
+8) Dosimetria.  
+4° Anno:  
+1) Moderne tecniche di esplorazione e terapia radiologica;  
+2) Diagnostica e terapia con isotopi radioattivi somministrati per via interna;  
+3) Radiodiagnostica e radioterapia clinica (casistica);  
+4) Medicina legale e legislazione sanitaria in relazione alla radiologia.  
+I corsi saranno integrati da conferenze, esercitazioni e seminari.  
+Non sono ammesse abbreviazioni di corso, per nessun motivo.  
+E' obbligatorio l'internato.  
+Diploma di specializzazione in radiologia-diagnostica.  
+Numero massimo di iscritti: quattro per ciascun anno di corso.  
+Gli insegnamenti impartiti nella scuola sono:  
+1° Anno:  
+1) Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;  
+2) Nozioni sugli apparecchi ed istrumenti della radiologia;  
+3) Anatomia radiologica normale;  
+4) Fisiologia radiologica;  
+5) Tecnica radiologica generale;  
+6) Semeiotica radiologica generale;  
+7) Fondamenti di radiobiologia;  
+8) Nozioni di statistica e matematica.  
+2° Anno:  
+1) Metodica di esplorazione dei vari organi e apparati;  
+2) Semeiotica radiologica speciale e diagnosi differenziale;  
+3) Nozioni generali sulle lesioni da radiazioni e mezzi di protezione;  
+4) Moderne tecniche di esplorazione radiologica.  
+3° Anno:  
+1) Esplorazione radiologica nella patologia dei vari organi ed apparati. Diagnostica differenziale. Rapporti con l'anatomia patologica;  
+2) Radiodiagnostica clinica;  
+3) Medicina legale e legislazione sanitaria in relazione alla radiologia.  
+I corsi saranno integrati da conferenze, esercitazioni e seminari.  
+Non sono ammesse abbreviazioni di corso, per nessun motivo.  
+E' obbligatorio l'internato.  
+  
+Scuola di specializzazione in anestesiologia e rianimazione  
+Art. 200. - Il corso degli studi della scuola di specializzazione in anestesiologia e rianimazione, ha la durata di tre anni.  
+La scuola non puo' accogliere piu' di venticinque allievi per ciascun anno di corso.  
+Non e' consentita nessuna abbreviazione di corso, fatta eccezione per quegli aspiranti che, in possesso di diploma di specializzazione in anestesiologia, possono essere ammessi al 3° anno per ottenere il completamento.  
+Per accedere ai corsi successivi e' obbligatorio il superamento di tutti gli esami del corso precedente, ivi comprese le materie biennali.  
+Gli esami possono essere sostenuti solamente in due sessioni annuali, una estiva ed una autunnale e comunque non oltre il 30 novembre dell'anno in corso.  
+Il diploma viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinico o sperimentale.  
+Art. 201. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
+  
+1° Anno:  
+Anatomia, biochimica, farmacologia, fisica, fisiologia, applicate alla anestesiologia e rianimazione;  
+Anestesiologia;  
+Tecniche chirurgiche di interesse anestesiologico;  
+Aspetti medico-legali dell'anestesia e della rianimazione;  
+Internato.  
+  
+2° Anno:  
+Anestesiologia;  
+Terapia antalgica;  
+Rianimazione;  
+Internato.  
+  
+3° Anno:  
+Rianimazione;  
+Tecniche speciali di anestesia e rianimazione;  
+Indagini diagnostiche attinenti alla specialita';  
+Internato.  
+  
+Scuola di specializzazione in medicina legale e delle assicurazioni Art. 202. - Il corso di studi della scuola di specializzazione in medicina legale e delle assicurazioni ha la durata di 3 anni. La scuola non puo' accogliere piu' di dieci iscritti per ogni anno di corso. Ad essa potranno accedere i laureati in medicina e chirurgia abilitati all'esercizio della professione.  
+Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni e le esercitazioni, nonche' di prestare servizio di medico interno per almeno 6 mesi per ciascun anno.  
+Alla fine di ogni anno gli iscritti sosterranno gli esami di profitto sulle singole materie di insegnamento.  
+Lo specializzando che non abbia superato tutti gli esami dell'anno frequentato non potra' essere iscritto all'anno successivo.  
+L'esame di diploma consistera' in una dissertazione scritta su un argomento di medicina legale o di medicina delle assicurazioni.  
+I candidati non riconosciuti idonei all'esame di diploma si potranno ripresentare dopo un altro anno di frequenza alla scuola; se al secondo esame non sara' loro riconosciuta l'idoneita' verranno senz'altro esclusi da ulteriori prove.  
+Art. 203. - Materie d'insegnamento:  
+  
+1° Anno:  
+Medicina legale generale;  
+Elementi di diritto pubblico e privato;  
+Tecnica e diagnostica anatomo-patologica generale e medico-legale;  
+Traumatologia medico-legale;  
+Semeiotica medico-legale;  
+  
+2° Anno:  
+Medicina legale penalistica;  
+Deontologia medica;  
+Neuropsichiatria medico-legale;  
+Elementi di medicina criminologica e di medicina penitenziaria;  
+Indagini di sopralluogo;  
+Identificazione personale;  
+  
+3° Anno:  
+Medicina legale civilistica e canonistica;  
+Tossicologia medico-legale;  
+Tecniche di laboratorio medico-legale ed anatomia forense;  
+Ostetricia e ginecologia forensi;  
+Elementi di legislazione del lavoro;  
+Elementi di medicina del lavoro;  
+Medicina delle assicurazioni;  
+Medicina legale militare e pensionistica civile.  
+Dopo l'art. 213 e' aggiunto il seguente articolo relativo alla istituzione della scuola di specializzazione in malattie dell'apparato digerente.  
+  
+Scuola di specializzazione in malattie dell'apparato digerente  
+Art. 214. - Durata del corso: 3 anni piu' un quarto anno di tirocinio pratico da svolgersi in una clinica medica o in reparti ospedalieri.  
+Piano di studi  
+  
+1° Anno:  
+Anatomia patologica;  
+Fisiopatologia;  
+Chimica clinica;  
+Semeiotica fisica e strumentale (biennale);  
+Clinica medica (triennale);  
+Parassitologia (complementare).  
+  
+2° Anno:  
+Semeiotica fisica e strumentale;  
+Semeiotica radiologica;  
+Malattie del tubo digerente;  
+Clinica medica.  
+  
+3° Anno:  
+Malattie del fegato e del pancreas;  
+Clinica medica;  
+Dietetica (complementare).  
+Per le materie biennali e triennali sara' dato un esame alla fine del biennio e rispettivamente del triennio.  
+Numero massimo degli iscritti e' cinque specializzandi per anno.  
+Non sono ammesse abbreviazioni di corso.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 settembre 1963
+### Dato a Roma, addi' 30 ottobre 1970
 
-SEGNI GUI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 18 novembre 1963
+Registrato alla Corte dei conti, addi' 19 gennaio 1971
 
-Atti del Governo, registro n. 176, foglio n. 13. - VILLA
+Atti del Governo, registro n. 240, foglio n. 70. - CARUSO

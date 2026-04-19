@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1968 n. 1143
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1116
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1968 n. 1143
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1116
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
@@ -10,15 +10,17 @@ Modificazioni allo statuto dell'Universita' degli studi di Parma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Parma approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -30,127 +32,416 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Gli articoli da 193 a 201 relativi alla scuola di specializzazione in microbiologia sono abrogati e sostituiti dai seguenti:
+Gli articoli 120 e 121, relativi al corso di laurea in medicina veterinaria, sono abrogati e sostituiti dai seguenti:
 
-Scuola di specializzazione in microbiologia
+Capo VII
 
-Art. 193. - La scuola di specializzazione in microbiologia ha lo scopo di allargare e completare sul piano scientifico la cultura di coloro che si dedicano allo studio di questa disciplina e di fornire sul piano tecnico una preparazione pratica specifica.
+FACOLTA' DI MEDICINA VETERINARIA
 
-Art. 194. - Possono essere ammessi i laureati in medicina e chirurgia, medicina veterinaria, scienze biologiche, scienze naturali e farmacia.
+Art. 120. - Il corso di laurea in medicina veterinaria si effettua mediante un ciclo di studi universitari della durata di cinque anni e comprende, alle condizioni fissate qui di seguito, l'insegnamento teorico e pratico di almeno 4500 ore.
 
-Art. 195. - Il corso ha la durata di tre anni ed ha luogo presso l'istituto di microbiologia.
+Costituiscono titoli di ammissione quelli previsti dalle leggi in vigore.
 
-Art. 196. - Il numero complessivo degli specializzandi da ammettere alla scuola e' di trenta allievi, ripartiti in dieci allievi per ogni anno di corso. Nel caso di domande eccedenti, la selezione verra' effettuata mediante concorso con norme che verranno precisate nel manifesto annuale. Qualora un aspirante, sufficientemente fornito di titoli attinenti alle materie della scuola, chieda abbreviazioni di corso, dovra' presentare motivata istanza.
+I cinque anni di studio comportano obbligatoriamente, nell'ambito delle 4500 ore di insegnamento teorico e pratico:
 
-Art. 197. - La direzione della scuola viene assunta da un professore di ruolo o fuori ruolo di microbiologia. Il direttore della scuola puo' nominare un vice direttore che lo coadiuvi e lo supplisca ed un segretario.
+a) un insegnamento di base teorico e pratico di almeno 560 ore sulle materie appresso indicate e suddivise come segue:
 
-Art. 198. - L'ordine degli studi (distribuzione degli insegnamenti nei diversi anni del corso) e l'ordine e le modalita' degli esami verranno stabiliti nel manifesto annuale.
+Numero minimo di ore
 
-Art. 199. - Gli insegnamenti impartiti nella scuola sono:
+Fisica............................................. 110
 
-1. Chimica microbiologica;
+Chimica I.......................................... 100
 
-2. Batteriologia generale e tecnica batteriologica;
+Chimica II......................................... 100
 
-3. Analisi statistica del dosaggio biologico;
+Zoologia........................................... 110
 
-4. Immunologia;
+Botanica........................................... 90
 
-5. Batteriologia speciale;
+Metodi matematici applicati alle scienze biologiche
 
-6. Virologia generale e tecnica virologica;
+(biomatematica).................................... 50
 
-7. Micologia;
+b) un insegnamento veterinario specifico, teorico e pratico di almeno 3690 ore, sui gruppi di materie appresso indicate e suddivise come segue:
 
-8. Protozoologia;
+Numero minimo
 
-9. Genetica dei microrganismi;
+di ore
 
-10. Virologia speciale;
+Anatomia veterinaria sistematica e
 
-11. Microbiologia degli alimenti;
+comparata I e II..................... 200
 
-12. Microbiologia industriale;
+Anatomia topografica veterinaria..... 70
 
-13. Metodi e dosaggi microbiologici.
+Teratologia.......................... 50
 
-Art. 200. - Il direttore puo' stabilire, per un piu' proficuo conseguimento dei fini della scuola, che siano tenuti corsi complementari di conferenze su materie e argomenti che abbiano attinenza o affinita' con gli insegnamenti impartiti nella scuola.
+Istologia generale e speciale (anato-
 
-Art. 201. - L'esame di diploma constera' di una discussione sopra una tesi scritta e di una prova pratica.
+mia microscopica).................. 70
 
-I candidati non riconosciuti idonei, potranno ripresentarsi dopo un altro anno di frequenza alla scuola. Ma se al secondo esame non sia loro riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove verra' rilasciato un diploma di specialista in microbiologia.
+Embriologia.......................... 50
+
+Fisiologia generale e speciale vete-
+
+rinaria I e II (fisica biologica).. 200
+
+Biochimica........................... 100
+
+Zootecnia: 1) Igiene, aspetti esteri-
+
+ori degli animali, etnologia....... 80
+
+Zootecnia: 2) genetica e allevamento. 90
+
+Alimentazione e nutrizione........... 130
+
+Economia rurale e agronomia.......... 50
+
+Farmacia............................. 20
+
+Farmacologia e farmacodinamia vete-
+
+rinaria............................ 50
+
+Terapeutica generale veterinaria..... 30
+
+Tossicologia veterinaria............. 50
+
+Anatomia patologica generale e spe-
+
+ciale veterinaria I e II............. 150
+
+Autopsie............................. 50
+
+Propedeutica: 1) Semeiologia medica
+
+veterinaria e metodologia clinica.. 60
+
+Propedeutica: 2) Semeiologia chirur-
+
+gica veterinaria e metodologia
+
+clinica............................ 60
+
+Patologia generale veterinaria....... 60
+
+Microbiologia generale veterinaria
+
+(batteriologia, virologia, immuno-
+
+logia)............................. 60
+
+Patologia e profilassi delle malattie
+
+infettive I e II................... 140
+
+Parassitologia veterinaria (comprese
+
+micologia, protozoologia, entomolo-
+
+gia, elmintologia)................. 50
+
+Malattie parassitarie degli animali
+
+domestici.......................... 50
+
+Polizia sanitaria.................... 30
+
+Medicina legale veterinaria, legisla-
+
+zione veterinaria.................. 20
+
+Deontologia.......................... 10
+
+Patologia medica degli animali dome-
+
+stici (ruminanti, equidi, carnivori,
+
+suini, pollame, conigli ecc.)...... 150
+
+Ostetricia veterinaria............... 80
+
+Patologia della riproduzione e fecon-
+
+dazione artificiale................ 70
+
+Patologia chirurgica veterinaria e
+
+podologia.......................... 80
+
+Medicina operatoria veterinaria...... 70
+
+Ispezione e controllo delle derrate
+
+alimentari di origine animale (car-
+
+ne, latte, pesci, uova, ecc.) I e II 150
+
+Lavori pratici nei macelli........... 50
+
+Clinica medica veterinaria........... 375
+
+Clinica chirurgica veterinaria....... 375
+
+Clinica ostetrica e ginecologica ve-
+
+terinaria.......................... 250
+
+Patologia aviare..................... 100
+
+Radiologia veterinaria............... 50
+
+Le 140 ore che restano per raggiungere il numero previsto di 4500 vengono ripartite fra tre insegnamenti complementari scelti dallo studente nel seguente elenco:
+
+1) Anestesiologia;
+
+2) Approvvigionamenti annonari, mercati ed industrie degli alimenti di origine animale;
+
+3) Patologia bovina;
+
+4) Diagnostica di laboratorio;
+
+5) Ecologia;
+
+6) Ematologia clinica comparata;
+
+7) Endocrinologia degli animali domestici;
+
+8) Etnografia;
+
+9) Fisioclimatologia;
+
+10) Idrobiologia e pescicultura;
+
+11) Igiene del latte;
+
+12) Igiene e controllo dei prodotti della pesca;
+
+13) Istituzioni di matematica;
+
+14) Istologia patologica;
+
+15) Ittiopatologia;
+
+16) Lingua straniera;
+
+17) Oftalmologia comparata;
+
+18) Patologia tropicale;
+
+19) Storia della medicina veterinaria;
+
+20) Tecnica conserviera;
+
+21) Tecnica mangimistica;
+
+22) Tecnologia avicola;
+
+23) Virologia;
+
+24) Industria salumiera;
+
+25) Legislazione sanitaria della C.E.E. ed internazionale;
+
+26) Microbiologia degli alimenti;
+
+27) Tecnica delle applicazioni frigorifiche;
+
+28) Ortopedia;
+
+29) Tecnica di analisi chimiche degli alimenti di origine animale;
+
+30) Immunologia e diagnostica sierologica.
+
+Art. 121. - Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami nelle singole materie fondamentali o comprese nei gruppi di materie fondamentali dell'insegnamento di base, dell'insegnamento veterinario specifico e di tre altre materie da lui scelte tra gli insegnamenti complementari.
+
+Agli effetti degli esami sono considerate propedeutiche le seguenti materie:
+
+a) patologia generale veterinaria rispetto all'anatomia patologica veterinaria generale speciale I e II;
+
+b) propedeutica: 1) semeiologia medica veterinaria e metodologia clinica e patologia medica degli animali domestici rispetto alla clinica medica veterinaria;
+
+c) propedeutica: 2) semeiologia chirurgica veterinaria e metodologia clinica, patologia chirurgica veterinaria e podologia e medicina operatoria veterinaria rispetto a clinica chirurgica veterinaria;
+
+d) ostetricia veterinaria e patologia della riproduzione e fecondazione artificiale rispetto a clinica ostetrica e ginecologica veterinaria;
+
+e) microbiologia generale veterinaria rispetto a patologia e
+
+profilassi delle malattie infettive degli animali domestici I e II
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 2 ottobre 1968
+Dato a Roma, addi' 31 ottobre 1973
 
-SARAGAT
+LEONE
 
-SCAGLIA
+MALFATTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: ZAGARI
 
 Registrato
 ----------
 
-alla Corte di conti, addi' 9 novembre 1968 Atti del Governo, registro n. 223, foglio n. 92. - DI PRETORO
+alla Corte dei conti, addi' 31 maggio 1974 Atti di Governo, registro n. 3, foglio n. 52. - SCIARRETTA
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Parma approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Gli articoli 120 e 121, relativi al corso di laurea in medicina veterinaria, sono abrogati e sostituiti dai seguenti:   
   
-Gli articoli da 193 a 201 relativi alla scuola di specializzazione in microbiologia sono abrogati e sostituiti dai seguenti:  
+Capo VII   
+FACOLTA' DI MEDICINA VETERINARIA   
   
-Scuola di specializzazione in microbiologia  
+Art. 120. - Il corso di laurea in medicina veterinaria si effettua mediante un ciclo di studi universitari della durata di cinque anni e comprende, alle condizioni fissate qui di seguito, l'insegnamento teorico e pratico di almeno 4500 ore.   
+Costituiscono titoli di ammissione quelli previsti dalle leggi in vigore.   
+I cinque anni di studio comportano obbligatoriamente, nell'ambito delle 4500 ore di insegnamento teorico e pratico:   
+a) un insegnamento di base teorico e pratico di almeno 560 ore sulle materie appresso indicate e suddivise come segue:   
   
-Art. 193. - La scuola di specializzazione in microbiologia ha lo scopo di allargare e completare sul piano scientifico la cultura di coloro che si dedicano allo studio di questa disciplina e di fornire sul piano tecnico una preparazione pratica specifica.  
-Art. 194. - Possono essere ammessi i laureati in medicina e chirurgia, medicina veterinaria, scienze biologiche, scienze naturali e farmacia.  
-Art. 195. - Il corso ha la durata di tre anni ed ha luogo presso l'istituto di microbiologia.  
-Art. 196. - Il numero complessivo degli specializzandi da ammettere alla scuola e' di trenta allievi, ripartiti in dieci allievi per ogni anno di corso. Nel caso di domande eccedenti, la selezione verra' effettuata mediante concorso con norme che verranno precisate nel manifesto annuale. Qualora un aspirante, sufficientemente fornito di titoli attinenti alle materie della scuola, chieda abbreviazioni di corso, dovra' presentare motivata istanza.  
-Art. 197. - La direzione della scuola viene assunta da un professore di ruolo o fuori ruolo di microbiologia. Il direttore della scuola puo' nominare un vice direttore che lo coadiuvi e lo supplisca ed un segretario.  
-Art. 198. - L'ordine degli studi (distribuzione degli insegnamenti nei diversi anni del corso) e l'ordine e le modalita' degli esami verranno stabiliti nel manifesto annuale.  
-Art. 199. - Gli insegnamenti impartiti nella scuola sono:  
-1. Chimica microbiologica;  
-2. Batteriologia generale e tecnica batteriologica;  
-3. Analisi statistica del dosaggio biologico;  
-4. Immunologia;  
-5. Batteriologia speciale;  
-6. Virologia generale e tecnica virologica;  
-7. Micologia;  
-8. Protozoologia;  
-9. Genetica dei microrganismi;  
-10. Virologia speciale;  
-11. Microbiologia degli alimenti;  
-12. Microbiologia industriale;  
-13. Metodi e dosaggi microbiologici.  
-Art. 200. - Il direttore puo' stabilire, per un piu' proficuo conseguimento dei fini della scuola, che siano tenuti corsi complementari di conferenze su materie e argomenti che abbiano attinenza o affinita' con gli insegnamenti impartiti nella scuola.  
-Art. 201. - L'esame di diploma constera' di una discussione sopra una tesi scritta e di una prova pratica.  
-I candidati non riconosciuti idonei, potranno ripresentarsi dopo un altro anno di frequenza alla scuola. Ma se al secondo esame non sia loro riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove verra' rilasciato un diploma di specialista in microbiologia.  
+  
+  
+Numero minimo di ore  
+  
+Fisica............................................. 110  
+Chimica I.......................................... 100  
+Chimica II......................................... 100  
+Zoologia........................................... 110  
+Botanica........................................... 90  
+Metodi matematici applicati alle scienze biologiche  
+(biomatematica).................................... 50  
+  
+b) un insegnamento veterinario specifico, teorico e pratico di almeno 3690 ore, sui gruppi di materie appresso indicate e suddivise come segue:  
+Numero minimo  
+di ore  
+Anatomia veterinaria sistematica e  
+comparata I e II..................... 200  
+Anatomia topografica veterinaria..... 70  
+Teratologia.......................... 50  
+Istologia generale e speciale (anato-  
+mia microscopica).................. 70  
+Embriologia.......................... 50  
+Fisiologia generale e speciale vete-  
+rinaria I e II (fisica biologica).. 200  
+Biochimica........................... 100  
+Zootecnia: 1) Igiene, aspetti esteri-  
+ori degli animali, etnologia....... 80  
+Zootecnia: 2) genetica e allevamento. 90  
+Alimentazione e nutrizione........... 130  
+Economia rurale e agronomia.......... 50  
+Farmacia............................. 20  
+Farmacologia e farmacodinamia vete-  
+rinaria............................ 50  
+Terapeutica generale veterinaria..... 30  
+Tossicologia veterinaria............. 50  
+Anatomia patologica generale e spe-  
+ciale veterinaria I e II............. 150  
+Autopsie............................. 50  
+Propedeutica: 1) Semeiologia medica  
+veterinaria e metodologia clinica.. 60  
+Propedeutica: 2) Semeiologia chirur-  
+gica veterinaria e metodologia  
+clinica............................ 60  
+Patologia generale veterinaria....... 60  
+Microbiologia generale veterinaria  
+(batteriologia, virologia, immuno-  
+logia)............................. 60  
+Patologia e profilassi delle malattie  
+infettive I e II................... 140  
+Parassitologia veterinaria (comprese  
+micologia, protozoologia, entomolo-  
+gia, elmintologia)................. 50  
+Malattie parassitarie degli animali  
+domestici.......................... 50  
+Polizia sanitaria.................... 30  
+Medicina legale veterinaria, legisla-  
+zione veterinaria.................. 20  
+Deontologia.......................... 10  
+Patologia medica degli animali dome-  
+stici (ruminanti, equidi, carnivori,  
+suini, pollame, conigli ecc.)...... 150  
+Ostetricia veterinaria............... 80  
+Patologia della riproduzione e fecon-  
+dazione artificiale................ 70  
+Patologia chirurgica veterinaria e  
+podologia.......................... 80  
+Medicina operatoria veterinaria...... 70  
+Ispezione e controllo delle derrate  
+alimentari di origine animale (car-  
+ne, latte, pesci, uova, ecc.) I e II 150  
+Lavori pratici nei macelli........... 50  
+Clinica medica veterinaria........... 375  
+Clinica chirurgica veterinaria....... 375  
+Clinica ostetrica e ginecologica ve-  
+terinaria.......................... 250  
+Patologia aviare..................... 100  
+Radiologia veterinaria............... 50  
+  
+Le 140 ore che restano per raggiungere il numero previsto di 4500 vengono ripartite fra tre insegnamenti complementari scelti dallo studente nel seguente elenco:  
+1) Anestesiologia;  
+2) Approvvigionamenti annonari, mercati ed industrie degli alimenti di origine animale;  
+3) Patologia bovina;  
+4) Diagnostica di laboratorio;  
+5) Ecologia;  
+6) Ematologia clinica comparata;  
+7) Endocrinologia degli animali domestici;  
+8) Etnografia;  
+9) Fisioclimatologia;  
+10) Idrobiologia e pescicultura;  
+11) Igiene del latte;  
+12) Igiene e controllo dei prodotti della pesca;  
+13) Istituzioni di matematica;  
+14) Istologia patologica;  
+15) Ittiopatologia;  
+16) Lingua straniera;  
+17) Oftalmologia comparata;  
+18) Patologia tropicale;  
+19) Storia della medicina veterinaria;  
+20) Tecnica conserviera;  
+21) Tecnica mangimistica;  
+22) Tecnologia avicola;  
+23) Virologia;  
+24) Industria salumiera;  
+25) Legislazione sanitaria della C.E.E. ed internazionale;  
+26) Microbiologia degli alimenti;  
+27) Tecnica delle applicazioni frigorifiche;  
+28) Ortopedia;  
+29) Tecnica di analisi chimiche degli alimenti di origine animale;  
+30) Immunologia e diagnostica sierologica.  
+  
+Art. 121. - Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami nelle singole materie fondamentali o comprese nei gruppi di materie fondamentali dell'insegnamento di base, dell'insegnamento veterinario specifico e di tre altre materie da lui scelte tra gli insegnamenti complementari.   
+Agli effetti degli esami sono considerate propedeutiche le seguenti materie:   
+a) patologia generale veterinaria rispetto all'anatomia patologica veterinaria generale speciale I e II;   
+b) propedeutica: 1) semeiologia medica veterinaria e metodologia clinica e patologia medica degli animali domestici rispetto alla clinica medica veterinaria;   
+c) propedeutica: 2) semeiologia chirurgica veterinaria e metodologia clinica, patologia chirurgica veterinaria e podologia e medicina operatoria veterinaria rispetto a clinica chirurgica veterinaria;   
+d) ostetricia veterinaria e patologia della riproduzione e fecondazione artificiale rispetto a clinica ostetrica e ginecologica veterinaria;   
+e) microbiologia generale veterinaria rispetto a patologia e   
+profilassi delle malattie infettive degli animali domestici I e II   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 ottobre 1968
+### Dato a Roma, addi' 31 ottobre 1973
 
-SARAGAT SCAGLIA
+LEONE MALFATTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte di conti, addi' 9 novembre 1968
+Registrato alla Corte dei conti, addi' 31 maggio 1974
 
-Atti del Governo, registro n. 223, foglio n. 92. - DI PRETORO
+Atti di Governo, registro n. 3, foglio n. 52. - SCIARRETTA

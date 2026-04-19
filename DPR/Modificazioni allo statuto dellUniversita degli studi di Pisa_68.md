@@ -1,142 +1,172 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 maggio 1976 n. 571
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1981 n. 918
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 maggio 1976 n. 571
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1981 n. 918
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Veduto il [decreto-legge 26 settembre 1981, n. 539](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-09-26;539);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pisa e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pisa e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:   
+Dopo l'art. 218, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in fisica sanitaria annessa alla facolta' di scienze matematiche, fisiche e naturali.   
   
-Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Scuola di specializzazione in fisica sanitaria   
   
-Dopo l'art. 411, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione delle scuole di specializzazione in chirurgia d'urgenza e pronto soccorso e in reumatologia.   
-  
-Scuola di specializzazione in chirurgia d'urgenza e pronto soccorso   
-Art. 412. - La scuola di specializzazione in chirurgia d'urgenza e pronto soccorso, ha sede presso la clinica chirurgica generale, il cui professore di ruolo e' il direttore della scuola. Ha la durata di 4 anni. Il numero massimo di allievi nei quattro anni di corso e' di 24. Sono ammessi i laureati in medicina e chirurgia. L'ammissione al 1° anno avviene mediante concorso per esami e titoli.   
-Art. 413. - Gli insegnamenti sono i seguenti:   
-  
+Art. 219. - E' istituita presso "la facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Pisa la scuola di specializzazione in fisica sanitaria. La scuola ha sede presso l'istituto di fisica.   
+Art. 220. - La scuola si propone di preparare specialisti in problemi concernenti l'applicazione della fisica in campo medico-biologico, con particolare riguardo all'impiego degli isotopi radioattivi e delle sorgenti di radiazione ed alla protezione ed alla sorveglianza della protezione contro i pericoli derivanti dall'impiego delle radiazioni ionizzanti.   
+Art. 221. - La scuola ha la durata di due anni e non sono consentite abbreviazioni di corso. Essa conduce al conseguimento di un diploma di specialista in fisica sanitaria.   
+Art. 222. - Alla scuola sono ammessi coloro che sono in possesso del diploma di laurea in fisica o di un titolo accademico estero riconosciuto equipollente dalle competenti autorita'.   
+Art. 223. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.   
+Il direttore della scuola e' nominato dal rettore, su proposta del consiglio della facolta' di scienze matematiche, fisiche e naturali: dura in carica tre anni e puo' essere riconfermato.   
+Art. 224. - I docenti della scuola sono proposti annualmente dal direttore all'approvazione del consiglio della facolta' di scienze matematiche, fisiche e naturali.   
+I docenti di ogni materia di insegnamento possono essere scelti tra i professori di ruolo, i professori incaricati, gli assistenti ed i cultori della materia. Alle nomine provvede il rettore. Il consiglio della scuola e' costituito dal direttore della scuola, che lo presiede, e da tutti i docenti della scuola. Il consiglio della scuola delibera su tutte le questioni di natura didattico-scientifica.   
+Art. 225. - Il numero degli iscritti per ciascun anno di corso e' stabilito dal consiglio della facolta' di scienze matematiche, fisiche e naturali su proposta del direttore, sentito il consiglio della scuola, prima dell'inizio di ogni anno accademico. Tale numero non puo' essere superiore a quindici.   
+L'ammissione alla scuola e' subordinata all'esito di un esame orale ed alla valutazione dei titoli di carriera scientifici e professionali. La commissione per l'esame di ammissione, composta dal direttore a da quattro membri del consiglio della scuola, e' nominata dal rettore su proposta del direttore della scuola.   
+Art. 226. - Tutte le materie di insegnamento sono impartite mediante corsi annuali:   
 1° Anno:   
-chirurgia d'urgenza e di pronto soccorso (quadriennale) (1);   
-chirurgia generale (quadriennale) (1);   
-traumatologia dell'apparato locomotore (biennale) (1);   
-anestesiologia;   
-ricerche ed di laboratorio in chirurgia d'urgenza;   
-semeiotica chirurgica;   
-radiologia;   
-traumatologia maxillo facciale.   
-  
+1) elementi di biologia, anatomia e fisiologia umana;   
+2) effetti biologici delle radiazioni;   
+3) fisica e dosimetria delle radiazioni;   
+4) elettronica e strumentazione nucleare;   
+5) radioprotezione I.   
 2° Anno:   
-chirurgia d'urgenza e di pronto soccorso (quadriennale) (2);   
-chirurgia generale (quadriennale) (2);   
-traumatologia dell'apparato locomotore (biennale) (2);   
-chirurgia plastica-riparatrice (biennale) (1);   
-anatomia chirurgica;   
-trattamento pre e postoperatorio in chirurgia d'urgenza;   
-chirurgia ginecologica d'urgenza;   
-chirurgia urologica d'urgenza.   
+1) elementi di biofisica;   
+2) strumentazione sanitaria e tecnologie biomediche;   
+3) metodologie della radiologia e della medicina nucleare;   
+4) informatica e statistica nelle applicazioni sanitarie;   
+5) radioprotezione II.   
+Le lezioni teoriche sono integrate da esercitazioni pratiche e da periodi di frequenza da effettuarsi presso istituti universitari, centri di ricerca e divisioni ospedaliere. Per ogni periodo di frequenza l'iscritto e' tenuto a presentare una relazione scritta che contribuisce alla valutazione per l'esame di profitto.   
+Art. 227. - Il consiglio della scuola puo', inoltre, organizzare cicli di seminari e conferenze per settori particolari e per discipline attinenti alla preparazione professionale degli iscritti.   
+Art. 228. - Gli esami di profitto sono sostenuti per gruppi di materie, come segue:   
+a) elementi di biologia;   
+effetti biologici delle radiazioni.   
+b) fisica e dosimetria delle radiazioni;   
+elettronica e strumentazione nucleare;   
+alla fine del primo anno.   
+c) elementi di biofisica;   
+strumentazione sanitaria e tecnologie biomediche.   
+d) metodologie della radiologia e della medicina nucleare;   
+informatica e statistica nelle applicazioni sanitarie.   
+e) radioprotezione I;   
+radioprotezione II;   
+alla fine del secondo anno.   
+Le commissioni per gli esami di profitto, composte da tre membri, sono nominate dal preside della facolta' di scienze matematiche, fisiche e naturali su proposta del direttore della scuola.   
+Art. 229. - La frequenza ai corsi, alle esercitazioni pratiche e' obbligatoria.   
+Per l'ammissione al secondo anno l'iscritto deve aver conseguito le attestazioni di frequenza dei corsi del primo anno e deve aver superato gli esami di profitto per i gruppi di materie a) e b).   
+Per l'ammissione all'esame di diploma l'iscritto deve aver conseguito l'attestato di frequenza di tutti i corsi, aver frequentato le esercitazioni pratiche ed effettuato i periodi di frequenza previsti, ed aver superato tutti gli esami di profitto.  
+Deve, inoltre, essere in regola con il pagamento delle tasse, sopratasse e contributi.   
+Art. 230. - L'esame di diploma consiste nella discussione di una dissertazione originale scritta, su uno degli argomenti proposti in tal senso dal consiglio della scuola, o su un argomento scelto dal candidato ed approvato dal consiglio della scuola.   
+La commissione per gli esami di diploma e' nominata dal rettore su proposta del direttore della scuola. Si compone di sette membri, dei quali almeno quattro facenti parte del consiglio della scuola.   
+Il conferimento del diploma e' subordinato all'esito favorevole di tale discussione.   
+Art. 231. - Gli iscritti sono tenuti a versare le seguenti tasse, sopratasse e contributi:   
   
-3° Anno:   
-chirurgia d'urgenza e di pronto soccorso (quadriennale) (3);   
-chirurgia generale (quadriennale) (3);   
-neurotraumatologia (biennale) (1);   
-chirurgia plastica-riparatrice (biennale) (2);   
-valutazione medico-legale delle lesioni chirurgiche;   
-chirurgia toracica d'urgenza;   
-chirurgia cardio-vascolare d'urgenza;   
-chirurgia pediatrica d'urgenza.   
+tassa di immatricolazione. . . . . . . . . . . . . . . . . . L. 5.000 tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 18.000 sopratassa esami di profitto . . . . . . . . . . . . . . . . L. 7.000 contributo interfacolta. . . . . . . . . . . . . . . . . . . L. 1.000 contributo biblioteca . . . . . . . . . . . . . . . . . . . L. 30.000 contributo di laboratorio. . . . . . . . . . . . . . . . . L. 100.000 contributo riscaldamento . . . . . . . . . . . . . . . . . . L. 4.000 libretto tessera . . . . . . . . . . . . . . . . . . . . . . . L. 800 sopratassa esame diploma . . . . . . . . . . . . . . . . . . L. 3.000 tassa diploma . . . . . . . . . . . . . . . . . . . . . . . L. 50.000   
   
-4° Anno:   
-chirurgia d'urgenza e di pronto soccorso (quadriennale) (4);   
-chirurgia generale (quadriennale) (4);   
-neurotraumatologia (biennale) (2);   
-fisiopatologia del politraumatizzato;   
-trattamento del politraumatizzato;   
-rianimazione.   
-  
-Art. 414. - Gli iscritti sono obbligati a frequentare le lezioni e le esercitazioni. Inoltre e' obbligatorio l'internato durante tutti i quattro anni di corso, secondo quanto sara' disposto dalla direzione della scuola, che indichera' le ore di frequenza e la sede di essa.   
-La direzione potra' altresi' disporre per periodi di internato in reparti di chirurgia specialistica limitatamente al servizio di urgenza che in essi si svolga.   
-Dall'obbligo dell'internato potranno essere esentati quegli allievi che in qualita' di assistenti e di aiuti prestino effettivo servizio presso reparti di chirurgia di urgenza e di pronto soccorso di universita' e di ospedali regionali o provinciali.   
-L'allievo che non abbia ottemperato agli obblighi stabiliti dalla direzione non sara' ammesso agli esami annuali.   
-Art. 415. - Gli allievi al termine di ogni anno sono tenuti a superare tutti gli esami previsti nell'ordinamento, in due sessioni (estiva e autunnale).   
-L'esame dei corsi pluriennali si svolgera' alla fine del corso completo.   
-L'esame si svolgera' contemporaneamente per il gruppo di materie di ogni anno.   
-Art. 416. - Per conseguire il diploma di specializzazione i candidati dovranno avere superato gli esami di profitto e dovranno superare l'esame di diploma presentando e discutendo una tesi scritta a carattere clinico o sperimentale su argomenti attinenti alla specialita'.   
-Art. 417. - Le tasse e soprattasse della scuola sono fissate nel modo seguente:   
-  
-  
-tassa di immatricolazione . . . . . . . . . . . . . . L. 5.000  
-tassa di iscrizione annuale . . . . . . . . . . . . . " 18.000  
-soprattassa annuale esami di profitto . . . . . . . . " 7.000  
-soprattassa esami di diploma. . . . . . . . . . . . . " 3.000  
-tassa di diploma. . . . . . . . . . . . . . . . . . . " 6.000  
+Art. 232. - Agli iscritti possono essere conferite borse ed assegni di studio. Il consiglio della scuola determina anno per anno l'importo delle borse e degli assegni di studio in relazione alle disponibilita' finanziarie.   
+Art. 233. - Per quanto non previsto nel presente ordinamento, si applicano le norme previste dal regolamento degli studenti.   
+
+Art. 2
+------
+
   
   
-  
-  
-Scuola di specializzazione in reumatologia   
-  
-Art. 418. - E' istituita presso la facolta' di medicina e chirurgia la scuola di specializzazione in reumatologia.   
-Il direttore della scuola viene nominato dal consiglio di facolta' fra i professori di ruolo di medicina interna della facolta' stessa, in base alla competenza nel campo della reumatologia, dura in carica tre anni e puo' essere confermato.   
-La sede della scuola e' presso il 1° istituto di patologia speciale medica e metodologia clinica.   
-Art. 419. - Alla scuola possono iscriversi i laureati in medicina e chirurgia.   
-L'ammissione al 1° anno avverra' in base ad un concorso per esami e per titoli.   
-Art. 420. - Puo' essere conferita una abbreviazione di un anno a coloro che siano in possesso dei seguenti titoli: a) servizio di assistente ordinario e incaricato della durata minima di mesi sei in istituti universitari di medicina interna e in reparti ospedalieri di reumatologia, b) diploma di specializzazione in scuole comprendenti insegnamenti di reumatologia, c) titoli scientifici in campo reumatologico.   
-Art. 421. - Il numero massimo degli iscritti non puo' essere superiore nei tre anni di corso a 16.   
-Art. 422. - Le materie di insegnamento ed i relativi esami sono cosi' ripartiti:   
-  
+Dopo l'art. 411, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi alla istituzione della scuola speciale di preparazione per tecnici di audiometria e fonologopedia, annessa alla facolta' di medicina e chirurgia.   
+Scuola di preparazione per tecnici di audiometria e fonologopedia Art. 412. - E' istituita una scuola di preparazione per tecnici di audiometria e fonologopedia annessa alla facolta' di medicina e chirurgia dell'Universita' degli studi di Pisa, ai sensi dell'art. 20, comma terzo, lettera A, del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592).   
+Art. 413. - La scuola ha la durata di 3 anni, ha sede presso l'istituto di otorinolaringoiatria dell'Universita'.   
+L'indirizzo della scuola e' teorico-pratico. La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.   
+Art. 414. - Possono iscriversi alla scuola i diplomati degli istituti di istruzione secondaria di secondo grado, di durata quinquennale, ivi compresi i licei linguistici riconosciuti per legge, nonche' i diplomati degli istituti magistrali e dei licei artistici.   
+Il numero massimo degli iscritti e' di dieci per ogni anno di corso. Gli aspiranti debbono, nei termini regolamentari, presentare apposita domanda su carta legale diretta al rettore e corredata dai prescritti documenti e sostenere un esame di ammissione.   
+Le domande di iscrizione ad anni successivi al primo dovranno essere presentate nei termini regolamentari.   
+Art. 415. - Alla scuola si accede previo esame di cultura generale su argomenti facenti parte dei normali programmi dei licei e degli istituti di istruzione secondaria e previo esame di corretta dizione di un testo in lingua italiana.   
+La commissione giudicatrice viene nominata dal preside della facolta' di medicina e chirurgia ed e' composta dal direttore della scuola, presidente, da un professore ordinario, straordinario od incaricato di clinica delle malattie nervose e mentali, o di pediatria, o di psichiatria, o di clinica otorinolaringoiatrica, da un docente della scuola di specializzazione e da un libero docente nelle predette materie e in psicologia.   
+Art. 416. - Non sono ammesse abbreviazioni di corso.   
+Art. 417. - Il direttore della scuola sara' coadiuvato da un vice-direttore nominato dal consiglio di facolta', su proposta del direttore stesso.   
+Gli insegnanti sono proposti dal direttore della scuola al consiglio di facolta' di medicina e chirurgia della Universita' di Pisa, tra i liberi docenti in audiologia o in altre materie o tra persone, anche al di fuori dell'ambito universitario, aventi particolare competenza nelle materie della scuola.   
+Art. 418. - L'anno accademico ha inizio e termina nelle date stabilite dalle leggi in vigore per l'istruzione universitaria.   
+Le date di inizio e termine delle lezioni sono di regola quelle fissate per l'anno accademico. Tali date, tuttavia, possono essere spostate per ragioni speciali inerenti la natura dei corsi.   
+Art. 419. - Le materie di insegnamento sono le seguenti:   
 1° Anno:   
-1) anatomia, istologia e morfogenesi dell'apparato muscolo-scheletrico ed articolare;   
-2) fisiopatologia dell'apparato muscolo-scheletrico e articolare;  
-3) biochimica dei tessuti connettivi;   
-4) microbiologia ed immunologia in relazione alle malattie reumatiche;   
-5) semeiotica fisica, strumentale e di laboratorio in reumatologia (1° corso);   
-  
+elementi di fisica acustica;   
+elementi di anatomia degli organi e del sistema audio-fonatorio;   
+elementi di fisiologia degli organi e del sistema audio-fonatorio;   
+tecniche audiometriche;   
+elementi di linguistica, fonetica sperimentale ed ortoepia.   
 2° Anno:   
-1) semeiotica fisica, strumentale e di laboratorio in reumatologia (2° corso);   
-2) anatomia ed istologia patologica delle malattie reumatiche;   
-3) farmacologia in relazione alle malattie reumatiche;   
-4) patologia, clinica e terapia delle malattie reumatiche (1° corso);   
-5) terapia fisica, termale e riabilitativa in reumatologia (1° corso);   
-6) diagnostica radiologica.   
-  
+patologia dell'udito, della voce, del linguaggio e del canto; audiologia infantile;   
+elementi di neuropsichiatria infantile;   
+elementi di psicologia;   
+legislazione sanitaria.   
 3° Anno:   
-1) patologia, clinica e terapia delle malattie reumatiche (2° corso);   
-2) terapia fisica, termale e riabilitativa in reumatologia (2° corso);   
-3) clinica e terapia ortopedica applicata alla reumatologia;   
-4) aspetti sociali ed epidemiologici delle malattie reumatiche.   
+trattamento rieducativo dei disturbi dell'udito, della voce, del linguaggio e del canto;   
+etica della professione;   
+audiologia clinica;   
+audiologia industriale;   
+pedagogia e sociologia.   
+Art. 420. - L'intero corso di studi e' costituito da lezioni teoriche e da esercitazioni pratiche.   
+Gli allievi sono obbligati alla frequenza per un periodo di almeno otto mesi per ogni anno di corso. La frequenza dovra' essere svolta presso l'istituto di otorinolaringoiatria dell'Universita'.   
+Art. 421. - Gli esami di profitto vengono sostenuti davanti ad una commissione composta di tre membri, scelti tra i docenti della scuola.   
+Le commissioni, una per ogni materia di corso, vengono nominate, su proposta del direttore della scuola, dal preside della facolta' di medicina e chirurgia. Ogni commissario dispone di dieci punti. La votazione sara' espressa in trentesimi.   
+Art. 422. - Per essere ammessi a frequentare il secondo anno di corso gli iscritti debbono aver superato almeno quattro esami del primo anno; per essere ammessi al terzo anno di corso debbono aver superato tutti gli esami del primo anno e almeno tre di quelli del secondo anno.   
+Alla fine del terzo anno di corso, per essere ammessi all'esame di diploma, gli iscritti debbono aver superato tutti gli esami del piano di studio della scuola.   
+Gli allievi che non avranno ottemperato alle disposizioni del presente articolo, potranno ottenere l'iscrizione come fuori corso.   
+Art. 423. - L'esame di diploma consiste nella discussione di una tesi scritta su un argomento riguardante le materie di insegnamento approvata dal direttore della scuola.   
+L'esame di diploma viene sostenuto davanti ad una commissione di sette membri scelti tra i docenti di medicina e chirurgia. Ogni commissario ha a disposizione dieci punti e la votazione sara' espressa in settantesimi.   
+Art. 424. - Gli esami di profitto e l'esame di diploma possono essere sostenuti soltanto in due sessioni annuali, una estiva ed una autunnale.   
+Art. 425. - Agli allievi che avranno superato l'esame verra' rilasciato il "diploma di tecnico di audiometria e fonologopedia".   
+Art. 426. - Il consiglio di amministrazione dell'Universita', su proposta del senato accademico, udita la facolta', stabilira' di anno in anno l'ammontare dei contributi.   
+Le tasse e sopratasse sono fissate come segue:   
   
-Art. 423. - Per conseguire il diploma di specialista dovra' essere presentata e discussa una tesi scritta su un tema preventivamente approvato dal direttore della scuola.   
-Gli specializzandi oltre a seguire le lezioni, le esercitazioni e gli eventuali seminari, devono frequentare l'ambulatorio e il reparto del servizio di reumatologia per una durata non inferiore a sei mesi l'anno.   
-Art. 424. - Per tutto quanto non previsto nel presente statuto valgono le norme contenute nello statuto generale delle scuole di specializzazione dell'Universita' di Pisa, ed il relativo regolamento generale.   
-Art. 425. - Le tasse e soprattasse per la scuola sono fissate nel modo seguente:   
-tassa di immatricolazione . . . . . . . . . . . . . . L. 5.000 tassa di iscrizione annuale . . . . . . . . . . . . . " 18.000 soprattassa annuale esami di profitto . . . . . . . . " 7.000 soprattassa esami diploma . . . . . . . . . . . . . . " 3.000 tassa di diploma. . . . . . . . . . . . . . . . . . . " 6.000   
+Studenti in corso:   
+tassa di immatricolazione. . . . . . . . . . . . . . . . . . L. 5.000 tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 18.000 sopratassa annuale per esami di profitto . . . . . . . . . . L. 7.000 sopratassa per esami di diploma. . . . . . . . . . . . . . . L. 3.000 tassa di diploma. . . . . . . . . . . . . . . . . . . . . . L. 50.000 Studenti fuori corso:   
+tassa annuale di iscrizione. . . . . . . . . . . . . . . . . L. 5.000 sopratassa annuale di esami. . . . . . . . . . . . . . . . . L. 7.000   
+  
+Art. 427. - Al funzionamento della suddetta scuola si provvedera' con i proventi delle tasse, sopratasse e contributi dovuti dagli iscritti.   
+Art. 428. - Per quanto non previsto nel presente ordinamento della scuola si rinvia alle norme contenute nel regolamento generale ([regio decreto 6 aprile 1924, n. 674](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674)).   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 maggio 1976
+### Dato a Roma, addi' 28 ottobre 1981
 
-LEONE MALFATTI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, Il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 17 agosto 1976
+Registrato alla Corte dei conti, addi' 30 gennaio 1982
 
-Atti di Governo, registro n. 8, foglio n. 63
+Registro n. 12 Istruzione, foglio n. 35

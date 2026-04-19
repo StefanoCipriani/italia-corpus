@@ -1,105 +1,72 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 551
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 giugno 1971 n. 657
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 551
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 giugno 1971 n. 657
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Art. 89 - all'elenco degli insegnamenti complementari, per tutti gli indirizzi, del corso di laurea in fisica sono aggiunti i seguenti insegnamenti:  
-cosmologia;  
-didattica della fisica;  
-elettronica nucleare;  
-fisica sanitaria;  
-microelettronica;  
-ottica;  
-reti logiche e tecniche digitali.  
-Art. 91 - all'elenco degli insegnamenti complementari del corso di laurea in scienze dell'informazione sono aggiunti i seguenti insegnamenti:  
-cibernetica;  
-teoria dell'informazione.  
-Art. 92 - all'elenco degli insegnamenti complementari del corso di laurea in chimica sono aggiunti i seguenti insegnamenti:  
-Indirizzo inorganico-chimico-fisico:  
-chimica dell'ambiente;  
-analisi degli inquinanti;  
-meccanismi di reazione in chimica inorganica;  
-termodinamica dei processi irreversibili;  
-chimica organica fisica.  
-Indirizzo organico biologico:  
-chimica analitica clinica;  
-chimica biorganica;  
-chimica delle sostanze organiche naturali;  
-chimica dei composti eterociclici;  
-meccanismi di reazione in chimica organica;  
-stereochimica organica;  
-metodi fisici in chimica organica.  
-Art. 96 - all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti insegnamenti:  
-anatomia vegetale;  
-elettrofisiologia;  
-genetica molecolare;  
-microbiologia generale.  
-Nel medesimo elenco e' soppresso l'insegnamento di "microbiologia".  
-Art. 97 - il comma di cui alla lettera f) e' soppresso e sostituito come segue: "b) Non potra' essere ammesso a sostenere l'esame di genetica senza aver prima superato gli esami di botanica I e di zoologia I".  
-Art. 98 - all'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti i seguenti insegnamenti:  
-biostratigrafia;  
-climatologia;  
-complementi di geofisica;  
-cristallografia e cristallochimica;  
-fisica del vulcanismo;  
-geochimica applicata;  
-geodinamica;  
-geologia ambientale;  
-geologia del quaternario;  
-geologia strutturale;  
-geologia tecnica;  
-geomorfologia applicata;  
-mineralogia dei sedimenti;  
-paleobiogeografia con elementi di paleoecologia;  
-petrografia regionale;  
-prospezione geofisica.  
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+Art. 30: all'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:  
+Storia della filologia classica;  
+Critica del testo.  
+Art. 38: all'elenco degli istituti della facolta' di lettere e filosofia l'istituto di lingue e letterature romanze muta denominazione in quello di "Istituto di filologia e lingue romanze".  
+Art. 41: all'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti:  
+Biblioteconomia e bibliografia;  
+Storia del teatro e del cinema.  
+Art. 43: all'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti:  
+Biblioteconomia e bibliografia;  
+Didattica;  
+Pedagogia comparata;  
+Pedagogia sperimentale;  
+Psicologia dell'apprendimento;  
+Storia della Chiesa antica;  
+Istituzioni di storia della filosofia;  
+Storia del cristianesimo antico;  
+Istituzioni di filosofia;  
+Storia dell'oriente cristiano;  
+Metodologia e didattica;  
+Pedagogia sociale.  
+Nello stesso articolo l'insegnamento di cui al n. 7) e' cosi' modificato: "Lingua e letteratura moderna straniera (biennale) a scelta tra lingua e letteratura francese, spagnola, tedesca, inglese ed albanese".  
+Art. 59: all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti quelli di: "Dietologia e dietoterapia" e "Psicopatologia generale".  
+Nello stesso elenco l'insegnamento di "Biologia delle razze umane" e' soppresso.  
+Art. 62: all'elenco degli istituti della facolta' di medicina e chirurgia l'istituto di "Clinica medica" e' soppresso.  
+Nello stesso elenco sono aggiunti i seguenti istituti:  
+Istituto di clinica medica I;  
+Istituto di clinica medica II.  
+Art. 78: all'elenco degli istituti della facolta' di agraria sono aggiunti i seguenti:  
+Istituto di selvicoltura;  
+Istituto di miglioramento genetico delle piante agrarie.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 aprile 1984
+### Dato a Roma, addi' 8 giugno 1971
 
-PERTINI FALCUCCI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 24 agosto 1984
+Registrato alla Corte dei conti, addi' 21 agosto 1971
 
-Registro n. 51 Istruzione, foglio n. 78
+Atti del Governo, registro n. 243, foglio n. 161. - PASQUALUCCI

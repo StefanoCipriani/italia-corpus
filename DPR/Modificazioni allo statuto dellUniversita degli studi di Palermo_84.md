@@ -1,230 +1,24 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1971 n. 1143
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 maggio 1958 n. 835
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1971 n. 1143
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 maggio 1958 n. 835
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-L'art. 122 relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che la "Scuola in radiologia medica e radioterapia" muta la denominazione in quella di "Scuola in radiologia".
-
-L'art. 149 relativo alla "Scuola di specializzazione in radiologia medica e radioterapia" che assume la denominazione di "Scuola di specializzazione in radiologia" e' abrogato e sostituito dal seguente:
-
-Scuola di specializzazione in radiologia
-
-Art. 149. - La scuola di specializzazione in radiologia rilascia due diplomi:
-
-a) diploma di specializzazione in radiologia;
-
-b) diploma di specializzazione in radiologia diagnostica.
-
-A) Diploma di specializzazione in radiologia:
-
-Durata del corso: 4 anni.
-
-Numero massimo di iscritti: sei per ogni anno di corso (totale iscritti numero ventiquattro).
-
-1° Anno:
-
-Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;
-
-Nozioni sugli apparecchi ed istrumenti della radiologia;
-
-Anatomia radiologica normale;
-
-Fisiologia radiologica;
-
-Tecnica radiologica generale;
-
-Semeiotica radiologica generale;
-
-Fondamenti di radiobiologia;
-
-Nozioni di statistica e matematica.
-
-2° Anno:
-
-Tecnica e metodologia dell'esame radiologico dei vari organi, apparati e sistemi;
-
-Semeiotica radiologica speciale e diagnosi differenziale;
-
-Fondamenti di radioterapia;
-
-Danni da radiazioni e mezzi di protezione;
-
-Dimostrazioni cliniche di diagnostica radiologica;
-
-Dimostrazioni cliniche di radioterapia.
-
-3° Anno:
-
-Diagnostica radiologica differenziale;
-
-Dimostrazione di casistica di roentgendiagnostica con confronto del quadro anatomo-patologico;
-
-Radioterapia tradizionale;
-
-Curieterapia;
-
-Elementi di medicina nucleare;
-
-Istrumentario, tecnica e metodiche di applicazione;
-
-Dimostrazione di casistica di roentgenterapia con particolare riferimento all'anatomia patologica;
-
-Radioterapia con alte energie;
-
-Dosimetria.
-
-4° Anno:
-
-Moderne tecniche di esplorazione e terapia radiologica;
-
-Diagnostica e terapia con isotopi radioattivi somministrati per via interna;
-
-Radiodiagnostica e terapia clinica (casistica);
-
-Medicina legale e legislazione sanitaria in relazione alla radiologia.
-
-B) Diploma di specializzazione in radiologia diagnostica:
-
-Durata del corso: 3 anni.
-
-Numero massimo di iscritti: sei per ogni anno di corso (totale numero diciotto iscritti).
-
-1° Anno:
-
-Fisica con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;
-
-Nozioni sugli apparecchi ed istrumenti della radiologia;
-
-Anatomia radiologica normale;
-
-Fisiologia radiologica;
-
-Tecnica radiologica generale;
-
-Semeiotica radiologica generale;
-
-Fondamenti di radiobiologia;
-
-Nozioni di statistica e matematica.
-
-2° Anno:
-
-Metodica di esporzione dei vari organi ed apparati;
-
-Semeiotica radiologica speciale e diagnosi differenziale;
-
-Nozioni generali sulle lesioni da radiazione e mezzi;
-
-Moderne tecniche di esplorazione radiologica.
-
-3° Anno:
-
-Esplorazione radiologica nella patologia dei vari organi ed apparati. Diagnostica differenziale. Rapporti con l'anatomia patologica;
-
-Radiodiagnostica clinica;
-
-Medicina legale e legislazione sanitaria in relazione alla radiologia.
-
-E' obbligatorio l'internato. I corsi, per entrambi i diplomi, saranno integrati da conferenze, esercitazioni e seminari.
-
-L'obbligo della frequenza durante tutto l'anno accademico (nove mesi) presso l'istituto di radiologia, sede della scuola, puo' essere ridotto ad un mese (su concessione del direttore della scuola) per gli specializzandi che fanno parte di istituti, universitari della stessa disciplina che non abbiano la scuola e per gli assistenti di ruolo di primariato della stessa disciplina presso ospedali di prima categoria.
-
-Non e' consentita l'abbreviazione dei corsi, fatta eccezione per gli specializzati in radiologia diagnostica, che intendano conseguire il diploma di specializzazione in radiologia, i quali potranno essere ammessi al terzo o quarto anno del corso in radiologia, a giudizio del direttore della scuola, in base alla valutazione dei loro titoli.
-
-E' obbligatorio il superamento degli esami di un corso per l'ammissione al corso successivo.
-
-All'art. 143 relativo alla "Scuola di specializzazione in psichiatria" sono inseriti i seguenti nuovi comma:
-
-Norme
-
-Internato obbligatorio per l'intero anno scolastico per il 1°, 3° e 4° anno in clinica psichiatrica sede della scuola. Tale internato potra' essere ridotto a non meno di quattro mesi all'anno per i medici che prestino servizio regolare in ospedale psichiatrico.
-
-L'internato e' obbligatorio per il 2° anno in neurologia per l'intero anno scolastico, salvo per i medici che prestino regolare servizio in ospedale psichiatrico per i quali potra' essere ridotto a non meno di mesi 6, e per i medici che prestino regolare servizio in un reparto neurologico per i quali potra' essere ridotto a non meno di mesi 4.
-
-Esami obbligatori per il passaggio all'anno successivo.
-
-Numero massimo di iscritti: 6 per ogni anno di corso (totale 24 iscritti).
-
-Ammissione per titoli ed esame.
-
-Per gli specialisti in neurologia ed in neuropsichiatria infantile potra' esservi un abbuono di 2 anni.
-
-Un anno di abbuono per gli specialisti in altre materie affini (Psicologia, medicina generale, neurochirurgia).
-
-Tali abbuoni possono essere concessi solo dopo aver superato l'esame di ammissione. Tutti gli abbuoni di cui sopra sono concessi a giudizio del direttore della scuola.
-
-All'art. 152 relativo alla "Scuola di specializzazione in anestesiologia e rianimazione" sono inseriti i seguenti nuovi comma:
-
-"Non e' concesso nessun abbreviamento di corso, ad eccezione dei candidati gia' in possesso del diploma di anestesiologia, che possono essere ammessi al 3° anno per ottenere il completamento.
-
-Per accedere ai corsi successivi e' obbligatorio il superamento di tutti gli esami del corso precedente, ivi comprese le materie biennali.
-
-Gli esami possono essere sostenuti solamente in due sessioni annuali, una estiva e una autunnale, e comunque non oltre il 30 novembre dell'anno in corso.
-
-Il diploma viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinico o sperimentale".
-
-All'art. 156 relativo alla "Scuola di specializzazione in chirurgia vascolare" sono inseriti i seguenti nuovi comma:
-
-"L'insegnamento sara' dottrinario e pratico.
-
-Gli iscritti hanno l'obbligo di frequenza sia alle lezioni che al tirocinio pratico.
-
-Alla fine del triennio gli specializzandi dovranno superare una prova orale-teorica ed una prova clinica prima di essere ammessi all'esame di diploma.
-
-L'esame di diploma consistera' nella discussione di una tesi scritta su argomenti di chirurgia vascolare".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 18 ottobre 1971
-
-SARAGAT
-
-MISASI
-
-Visto, il Guardasigilli: COLOMBO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 21 dicembre 1971 Atti del Governo, registro n. 245, foglio n. 129. - VALENTINI
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successivi;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Veduta la [legge 12 febbraio 1957, n. 47](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-02-12;47);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
 Sulla proposta del Ministro per la pubblica istruzione;   
@@ -233,107 +27,89 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-L'art. 122 relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che la "Scuola in radiologia medica e radioterapia" muta la denominazione in quella di "Scuola in radiologia".   
-L'art. 149 relativo alla "Scuola di specializzazione in radiologia medica e radioterapia" che assume la denominazione di "Scuola di specializzazione in radiologia" e' abrogato e sostituito dal seguente:   
+Dopo l'art. 70, e con il conseguente spostamento della numerazione di quelli successivi, sono aggiunti i seguenti nuovi articoli, relativi all'ordinamento del corso di laurea in architettura.   
+Art. 71. - La Facolta' di architettura conferisce la laurea di "dottore in architettura".   
+Art. 72. - La durata del corso degli studi e' di cinque anni, divisi in due parti:   
+1) biennio di studi propedeutici;   
+2) triennio di applicazione.   
+Art. 73. - Possono essere ammessi al primo anno della Facolta' gli studenti forniti di diploma di maturita' classica, scientifica, artistica.   
+Possono essere ammessi al triennio di applicazione gli studenti che avranno superato gli esami di tutti gli insegnamenti fondamentali e di due complementari del biennio propedeutico.   
+Il Consiglio di facolta' determinera', volta per volta, l'anno al quale potranno essere ammessi gli studenti provenienti da altre Facolta' universitarie od Istituti superiori (purche' provvisti dei diplomi di cui al principio di questo articolo): determinera', anche, gli insegnamenti che dovranno seguire e gli esami da superare.   
+Art. 74. - Il piano degli studi della Facolta' e' il seguente:   
   
-Scuola di specializzazione in radiologia   
+Biennio propedeutico (materie fondamentali):   
   
-Art. 149. - La scuola di specializzazione in radiologia rilascia due diplomi:   
-a) diploma di specializzazione in radiologia;   
-b) diploma di specializzazione in radiologia diagnostica.   
-A) Diploma di specializzazione in radiologia:   
-Durata del corso: 4 anni.   
-Numero massimo di iscritti: sei per ogni anno di corso (totale iscritti numero ventiquattro).   
-1° Anno:   
-Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;   
-Nozioni sugli apparecchi ed istrumenti della radiologia;   
-Anatomia radiologica normale;   
-Fisiologia radiologica;   
-Tecnica radiologica generale;   
-Semeiotica radiologica generale;   
-Fondamenti di radiobiologia;   
-Nozioni di statistica e matematica.   
-2° Anno:   
-Tecnica e metodologia dell'esame radiologico dei vari organi, apparati e sistemi;   
-Semeiotica radiologica speciale e diagnosi differenziale;   
-Fondamenti di radioterapia;   
-Danni da radiazioni e mezzi di protezione;   
-Dimostrazioni cliniche di diagnostica radiologica;   
-Dimostrazioni cliniche di radioterapia.   
-3° Anno:   
-Diagnostica radiologica differenziale;   
-Dimostrazione di casistica di roentgendiagnostica con confronto del quadro anatomo-patologico;   
-Radioterapia tradizionale;   
-Curieterapia;   
-Elementi di medicina nucleare;   
-Istrumentario, tecnica e metodiche di applicazione;   
-Dimostrazione di casistica di roentgenterapia con particolare riferimento all'anatomia patologica;   
-Radioterapia con alte energie;   
-Dosimetria.   
-4° Anno:   
-Moderne tecniche di esplorazione e terapia radiologica;   
-Diagnostica e terapia con isotopi radioattivi somministrati per via interna;   
-Radiodiagnostica e terapia clinica (casistica);   
-Medicina legale e legislazione sanitaria in relazione alla radiologia.   
-B) Diploma di specializzazione in radiologia diagnostica:   
-Durata del corso: 3 anni.   
-Numero massimo di iscritti: sei per ogni anno di corso (totale numero diciotto iscritti).   
-1° Anno:   
-Fisica con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;   
-Nozioni sugli apparecchi ed istrumenti della radiologia;   
-Anatomia radiologica normale;   
-Fisiologia radiologica;   
-Tecnica radiologica generale;   
-Semeiotica radiologica generale;   
-Fondamenti di radiobiologia;   
-Nozioni di statistica e matematica.   
-2° Anno:   
-Metodica di esporzione dei vari organi ed apparati;   
-Semeiotica radiologica speciale e diagnosi differenziale;   
-Nozioni generali sulle lesioni da radiazione e mezzi;   
-Moderne tecniche di esplorazione radiologica.   
-3° Anno:   
-Esplorazione radiologica nella patologia dei vari organi ed apparati. Diagnostica differenziale. Rapporti con l'anatomia patologica;   
-Radiodiagnostica clinica;   
-Medicina legale e legislazione sanitaria in relazione alla radiologia.   
-E' obbligatorio l'internato. I corsi, per entrambi i diplomi, saranno integrati da conferenze, esercitazioni e seminari.   
-L'obbligo della frequenza durante tutto l'anno accademico (nove mesi) presso l'istituto di radiologia, sede della scuola, puo' essere ridotto ad un mese (su concessione del direttore della scuola) per gli specializzandi che fanno parte di istituti, universitari della stessa disciplina che non abbiano la scuola e per gli assistenti di ruolo di primariato della stessa disciplina presso ospedali di prima categoria.   
-Non e' consentita l'abbreviazione dei corsi, fatta eccezione per gli specializzati in radiologia diagnostica, che intendano conseguire il diploma di specializzazione in radiologia, i quali potranno essere ammessi al terzo o quarto anno del corso in radiologia, a giudizio del direttore della scuola, in base alla valutazione dei loro titoli.   
-E' obbligatorio il superamento degli esami di un corso per l'ammissione al corso successivo.   
-All'art. 143 relativo alla "Scuola di specializzazione in psichiatria" sono inseriti i seguenti nuovi comma:   
+Analisi matematica e geometria analitica;   
+Geometria descrittiva ed elementi di proiettiva;   
+Chimica generale ed applicata;   
+Elementi costruttivi;   
+Disegno dal vero (biennale);   
+Storia dell'arte e storia e stili di architettura (biennale);   
+Applicazione di geometria descrittiva;   
+Fisica;   
+Mineralogia e geologia;   
+Elementi di architettura e rilievo dei monumenti (biennale).   
   
-Norme   
+Biennio propedeutico (materie complementari):   
   
-Internato obbligatorio per l'intero anno scolastico per il 1°, 3° e 4° anno in clinica psichiatrica sede della scuola. Tale internato potra' essere ridotto a non meno di quattro mesi all'anno per i medici che prestino servizio regolare in ospedale psichiatrico.   
-L'internato e' obbligatorio per il 2° anno in neurologia per l'intero anno scolastico, salvo per i medici che prestino regolare servizio in ospedale psichiatrico per i quali potra' essere ridotto a non meno di mesi 6, e per i medici che prestino regolare servizio in un reparto neurologico per i quali potra' essere ridotto a non meno di mesi 4.   
-Esami obbligatori per il passaggio all'anno successivo.   
-Numero massimo di iscritti: 6 per ogni anno di corso (totale 24 iscritti).   
-Ammissione per titoli ed esame.   
-Per gli specialisti in neurologia ed in neuropsichiatria infantile potra' esservi un abbuono di 2 anni.   
-Un anno di abbuono per gli specialisti in altre materie affini (Psicologia, medicina generale, neurochirurgia).   
-Tali abbuoni possono essere concessi solo dopo aver superato l'esame di ammissione. Tutti gli abbuoni di cui sopra sono concessi a giudizio del direttore della scuola.   
-All'art. 152 relativo alla "Scuola di specializzazione in anestesiologia e rianimazione" sono inseriti i seguenti nuovi comma:   
-"Non e' concesso nessun abbreviamento di corso, ad eccezione dei candidati gia' in possesso del diploma di anestesiologia, che possono essere ammessi al 3° anno per ottenere il completamento.   
-Per accedere ai corsi successivi e' obbligatorio il superamento di tutti gli esami del corso precedente, ivi comprese le materie biennali.   
-Gli esami possono essere sostenuti solamente in due sessioni annuali, una estiva e una autunnale, e comunque non oltre il 30 novembre dell'anno in corso.   
-Il diploma viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinico o sperimentale".   
-All'art. 156 relativo alla "Scuola di specializzazione in chirurgia vascolare" sono inseriti i seguenti nuovi comma:   
+Letteratura artistica;   
+Plastica e modellistica;   
+Lingua inglese;   
+Lingua tedesca.   
   
-"L'insegnamento sara' dottrinario e pratico.   
-Gli iscritti hanno l'obbligo di frequenza sia alle lezioni che al tirocinio pratico.   
-Alla fine del triennio gli specializzandi dovranno superare una prova orale-teorica ed una prova clinica prima di essere ammessi all'esame di diploma.   
-L'esame di diploma consistera' nella discussione di una tesi scritta su argomenti di chirurgia vascolare".   
+Triennio di applicazione (materie fondamentali):   
+  
+Architettura degli interni, arredamento e decorazione (biennale);  
+Caratteri distributivi degli edifici;   
+Caratteri stilistici e costruttivi dei monumenti;   
+Composizione architettonica (biennale);   
+Elementi di composizione;   
+Estimo ed esercizio professionale;   
+Fisica tecnica;   
+Igiene edilizia;   
+Impianti tecnici;   
+Meccanica razionale e statica grafica;   
+Restauro dei monumenti;   
+Scienza delle costruzioni (biennale);   
+Tecnologia dei materiali e tecnica delle costruzioni;   
+Topografia e costruzioni stradali;   
+Urbanistica (biennale).   
+  
+Triennio di applicazione (materie complementari):   
+  
+Scenografia;   
+Materie giuridiche.   
+  
+Art. 75. - Gli insegnamenti sono svolti in forma di lezioni teoriche, seminari, esercitazioni pratiche, e sono integrati da visite e viaggi di istruzione.   
+Art. 76. - L'assiduita' alle lezioni, ai seminari, alle esercitazioni ed alle visite e' requisito indispensabile per ottenere, alla fine del corso, l'attestato di frequenza.   
+Art. 77. - Gli esami di profitto sono sostenuti per singole materie e per ciascun anno. Essi possono consistere in interrogazioni orali, in discussioni su elaborati compiuti durante l'anno accademico, in prove grafiche, pratiche, sperimentali.   
+Per essere ammessi agli esami di profitto gli allievi devono ottenere gli attestati di frequenza di cui all'articolo precedente.   
+Art. 78. - Le precedenze per gli esami fra gli insegnamenti della Facolta' sono cosi' stabilite:   
+Geometria descrittiva ed elementi di proiettiva prima di applicazioni di geometria descrittiva;   
+Disegno dal vero prima di elementi di architettura e rilievo;   
+Elementi costruttivi prima di storia dell'arte e storia e stili dell'architettura (prima parte);   
+Meccanica razionale e statica grafica, prima di scienza delle costruzioni (prima parte);   
+Scienza delle costruzioni (prima parte) prima di scienza delle costruzioni (seconda parte) e di composizione architettonica (prima parte);   
+Scienza delle costruzioni (seconda parte) prima di tecnologia dei materiali e questa prima della composizione architettonica (seconda parte);   
+Caratteri stilistici e costruttivi dei monumenti prima di restauro;   
+Igiene edilizia prima di impianti tecnici, caratteri distributivi degli edifici prima di elementi di composizione;   
+Elementi di composizione prima di composizione architettonica;   
+Composizione architettonica (prima parte) prima di urbanistica (prima parte);   
+Composizione architettonica (seconda parte) prima di urbanistica (seconda parte).   
+Art. 79. - Ogni allievo, per essere ammesso all'esame di laurea deve aver superato tutti gli esami delle materie fondamentali del triennio e due materie complementari.   
+Art. 80. - L'esame di laurea consiste nella presentazione e discussione di un progetto concreto corredato da una relazione illustrativa e da calcoli, assegnato a richiesta del laureando, da un docente o da una Commissione di docenti a scelta sotto la guida ed il controllo del docente e dei docenti.   
+La Commissione esaminatrice, durante l'esame di laurea, puo' proporre al candidato qualunque quesito concernente qualsiasi materia del corso quinquennale.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 ottobre 1971
+### Dato a Roma, addi' 23 maggio 1958
 
-SARAGAT MISASI
+GRONCHI MORO
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 21 dicembre 1971
+Registrato alla Corte dei conti, addi' 19 agosto 1958
 
-Atti del Governo, registro n. 245, foglio n. 129. - VALENTINI
+Atti del Governo, registro n. 113, foglio n. 179. - DI PRETORO

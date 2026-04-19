@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 ottobre 1952 n. 1629
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 ottobre 1952 n. 1630
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 ottobre 1952 n. 1629
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 ottobre 1952 n. 1630
 ===============================================================
 
 Trasferimento in proprieta' all'Ente per la trasformazione fondiaria e agraria in Sardegna, di terreni di proprieta' di Solinas Puliga Maria Consolata di Emilio, in comune di Budduso' (Sassari).
@@ -14,9 +14,9 @@ Visti gli [articoli 77, comma primo](http://www.normattiva.it/uri-res/N2Ls?urn:n
 
 Viste le [leggi 12 maggio 1950, n. 230, 21 ottobre 1950, n. 841 e 18 maggio 1951, n. 333](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-05-18;333);
 
-In virtu' della delegazione concessa dagli [articoli 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5), ed 1 e 2 della [legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841);
+In virtu' della delegazione concessa dagli articoli 5 della legge 2 maggio 1750, n. 230, ed 1 e 2 della [legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841);
 
-Visti i propri decreti 10 aprile 1951, n. 256 e 27 aprile 1951, n. 265;
+Visto i propri decreti 10 aprile 1951, n. 256 e 27 aprile 1951, n. 265;
 
 Visto il piano particolareggiato di espropriazione compilato dall'Ente per la trasformazione fondiaria ed agraria in Sardegna, nei confronti di Solinas Puliga Maria Consolata di Emilio, per i terreni ricadenti nel comune di Budduso' (provincia di Sassari);
 
@@ -33,7 +33,7 @@ Art. 1
 ------
 
   
-E' approvato il piano particolareggiato di espropriazione compilato dall'Ente per la trasformazione fondiaria ed agraria in Sardegna, nei confronti di Solinas Puliga Maria Consolata di Emilio, relativo ai terreni ricadenti nel comune di Budduso' (provincia di Sassari), per una superficie di ettari 18.94.85, specificamente descritti nell'elenco n. 1 allegato al presente decreto.  
+E' approvato il piano particolareggiato di espropriazione compilato dall'Ente per la trasformazione fondiaria ed agraria in Sardegna, nei confronti di Solinas Puliga Maria Consolata di Emilio, relativo ai terreni ricadenti nel comune di Budduso' (provincia di Sassari), per una superficie di ettari 46.17.24, specificamente descritti nell'elenco n. 1 allegato al presente decreto.  
 
 Art. 2
 ------
@@ -45,7 +45,7 @@ Art. 3
 ------
 
   
-E' ordinata l'immediata occupazione, da parte dell'Ente predetto, dei terreni indicati nei precedenti articoli 1 e 2.  
+E' ordinata l'immediata occupazione da parte dell'Ente predetto, dei terreni indicati nei precedenti articoli 1 e 2.  
 
 Art. 4
 ------
@@ -65,14 +65,14 @@ Visto, il Guardasigilli: ZOLI
 
 Registrato alla Corte dei conti, addi' 15 novembre 1952
 
-Atti del Governo, registro n. 61, foglio n. 61. - PALLA
+Atti dei Governo, registro n. 61, foglio n. 62. - PALLA
 
 Allegato n. 1
 
  ALLEGATO N. 1   
   
-Elenco dei terreni intestati alla ditta Solinas Puliga Maria Consolata di Emilio, in comune di Budduso' (provincia di Sassari), trasferiti in proprieta' dell'Ente per la trasformazione fondiaria e agraria della Sardegna, a norma delle [leggi 12 maggio 1950, n. 230, 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841) e [decreto Presidenziale 27 aprile 1951, n. 265](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-27;265).   
+Elenco dei terreni intestati alla ditta Solinas Puliga Maria Consolata di Emilia, in comune di Budduso' (provincia di Sassari), trasferiti in proprieta' dell'Ente per la trasformazione fondiaria e agraria della Sardegna, a norma delle [leggi 12 maggio 1950, n. 230, 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841) e [decreto Presidenziale 27 aprile 1951, n. 265](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-27;265).   
   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=052U162900100010110001&dgu=1952-11-26&art.dataPubblicazioneGazzetta=1952-11-26&art.codiceRedazionale=052U1629)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=052U163000100010110001&dgu=1952-11-26&art.dataPubblicazioneGazzetta=1952-11-26&art.codiceRedazionale=052U1630)
   

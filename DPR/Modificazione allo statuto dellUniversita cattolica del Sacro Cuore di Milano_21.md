@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1963 n. 2075
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1978 n. 1085
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1963 n. 2075
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1978 n. 1085
 ================================================================
 
 Modificazione allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
@@ -10,11 +10,11 @@ Modificazione allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030) e successivi;
+Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella legge 2 gennaio 136, n. 73;
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
@@ -22,63 +22,47 @@ Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?u
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla
+-----
 
-Decreta:
+proposta del Ministro della pubblica istruzione, di concerto con il Ministro del tesoro; Decreta:
 
-Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Articolo unico
+--------------
 
-Art. 11. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze politiche e' aggiunto quello di: "Etnologia".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 3 dicembre 1963
-
-SEGNI
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 22 gennaio 1964 Atti del Governo, registro n. 179, foglio n. 125. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella legge 2 gennaio 136, n. 73;  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 11. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze politiche e' aggiunto quello di: "Etnologia".  
+La tabella n. 1 (art. 27), annessa allo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificata nel senso che l'organico dei posti di professore di ruolo viene ampliato corno segue: facolta di giurisprudenza (aggiunti tre posti):  
+totale 18;  
+facolta di scienze politiche (aggiunti due posti):  
+totale 9;  
+facolta di economia e commercio (aggiunti cinque posti):  
+totale 21 + 1;  
+facolta di lettere e filosofia (aggiunti tre posti):  
+totale 22 + 1;  
+facolta di magistero (aggiunti sei posti):  
+totale 17 + 2;  
+facolta di agraria (aggiunti tre posti):  
+totale 10 + 3;  
+facolta di medicina e chirurgia:  
+totale 30 + 1;  
+facolta di scienze matematiche, fisiche e  
+naturali (aggiunto un posto):  
+totale 6.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 dicembre 1963
+### Dato a Roma, addi' 18 febbraio 1978
 
-SEGNI GUI
+LEONE MALFATTI - STAMMATI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 22 gennaio 1964
+Registrato alla Corte dei conti, addi' 20 giugno 1979
 
-Atti del Governo, registro n. 179, foglio n. 125. - VILLA
+Registro n. 50 Istruzione, foglio n. 171

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 dicembre 1976 n. 1041
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1974 n. 612
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 dicembre 1976 n. 1041
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1974 n. 612
+=============================================================
 
 Autorizzazione all'Associazione italiana per l'assistenza agli spastici, in Roma, ad accettare una eredita'.
 ------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,14 @@ Art. 1
 
 N.
 
-1041. Decreto del Presidente della Repubblica 30 dicembre 1976, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana per l'assistenza agli spastici, in Roma, viene autorizzata ad accettare l'eredita' disposta dalla sig.ra Gina Ceccato con testamento olografo pubblicato a rogito notaio dott. Trombetta in data 29 novembre 1973, n. 367725 di repertorio, consistente in beni mobili ed immobili per un valore complessivo di L. 22.000.000.  
+612. Decreto del Presidente della Repubblica 7 giugno 1974, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana per l'assistenza agli spastici, in Roma, viene autorizzata ad accettare, per la sezione di Torino, l'eredita' disposta dal dott. Dario Gribaldo con testamento olografo, pubblicato per atto a rogito notaio Domenico Picca di Torino in data 26 gennaio 1971, n. 4415 di repertorio, consistente nella proprieta' in parti uguali con il ricovero dei poveri vecchi di corso Casale n. 56, in Torino:
+
+a) dello stabile e dell'appezzamento di terreno di mq 1220 su cui insiste l'edificio stesso, in Torino, via Sabaudia n. 21, individuati nella mappa N.C.E.U. al foglio 134, n. 432, sub 1-2 e nella mappa N.C.T. al foglio 134, n. 443, del valore di L. 59.000.000;
+
+b) dei mobili e libri esistenti nel predetto stabile di via Sabaudia n. 21;
+
+c) delle azioni di societa' industriali depositate nella cassetta n. 216 al Credito italiano, in via Arcivescovado.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 16 marzo 1977  
-Registro n. 2 Sanita', foglio n. 226
+Visto, il Guardasigilli: ZAGARI  
+Registrato alla Corte dei conti, addi' 21 novembre 1974  
+Atti di Governo, registro n. 7, foglio n. 7. - SCIARRETTA

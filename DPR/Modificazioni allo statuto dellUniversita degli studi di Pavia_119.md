@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1976 n. 521
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 agosto 1959 n. 787
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1976 n. 521
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 agosto 1959 n. 787
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
@@ -10,101 +10,91 @@ Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio superiore della pubblica istruzione nei suoi pareri;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 11 ottobre 1926, numero 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-11;2130), e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 26 luglio 1957, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-07-26;741);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 59 - all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:   
-metodologia diagnostica in psichiatria;   
-psicopatologia;   
-enzimologia;   
-microchirurgia;   
-neuropatologia;   
-dermatologia pediatrica;   
-economia sanitaria;   
-patologia molecolare.   
-Nello stesso elenco l'insegnamento complementare di scienza dell'alimentazione muta la denominazione in quella di scienza dell'alimentazione e dietologia.   
-Art. 64 - all'elenco degli insegnamenti complementari del corso di laurea in chimica, indirizzo organico-biologico, sono aggiunti i seguenti:   
-spettroscopia interpretativa organica;   
-chimica degli intermedi;   
-esercitazioni di tecniche e sintesi speciali organiche;   
-chimica bio-organica;   
-fitochimica;   
-chimica dei composti di coordinazione;   
-chimica della polluzione atmosferica delle acque;   
-meccanismi delle reazioni organiche;   
-petrolchimica;   
-chimica-fisica industriale;   
-termodinamica statistica;   
-metodi di elaborazione elettronica in chimica;   
-analisi chimica strumentale con metodi elettrochimici;   
-chimica analitica applicata;   
-complementi di chimica organica;   
-didattica chimica;   
-chimica dei composti metallorganici;   
-chimica ed analisi merceologica con esercitazioni;   
-chimica dell'ambiente;   
-chimica bioinorganica;   
-spettroscopia di risonanza magnetica elettronica;   
-spettroscopia di risonanza magnetica nucleare.   
-Nello stesso articolo, all'elenco degli insegnamenti complementari del corso di laurea in chimica, indirizzo inorganico-chimico-fisico, sono aggiunti i seguenti:   
-chimica dei composti di coordinazione;   
-chimica della polluzione atmosferica delle acque;   
-meccanismi delle reazioni organiche;   
-petrolchimica;   
-chimica-fisica industriale;   
-termodinamica statistica;   
-metodi di elaborazione elettronica in chimica;   
-analisi chimica strumentale con metodi elettrochimici;   
-chimica analitica applicata;   
-complementi di chimica organica;   
-didattica chimica;   
-chimica dei composti metallorganici;   
-chimica ed analisi merceologica con esercitazioni;   
-chimica dell'ambiente;   
-chimica bioinorganica;   
-spettroscopia di risonanza magnetica elettronica;   
-spettroscopia di risonanza magnetica nucleare;   
-analisi chimica strumentale con metodi radiochimici;   
-chimica analitica nucleare;   
-chimica delle alte temperature;   
-termodinamica dei processi irreversibili;   
-corrosione e protezione dei metalli;   
-elettrochimica dei sistemi salini fusi;   
-termodinamica chimica;   
-teoria degli elettroliti;   
-stereochimica inorganica;   
-chimica degli isotopi.   
-Art. 68 - all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:   
-tossicologia;   
-genetica molecolare.   
-L'art. 72, relativo alle modalita' degli esami di laurea, e' modificato nel senso che la norma relativa al conseguimento della laurea in chimica e' abrogata e sostituita dalla seguente:   
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Laurea in chimica   
-1) Discussione sulla dissertazione scritta;   
-2) Discussione di un argomento orale liberamente scelto in materia diversa da quella della dissertazione scritta.   
+Art. 28. - E' cosi' modificato:  
+La Facolta' di lettere e filosofia conferisce le lauree in lettere, in lingue e letterature straniere moderne (indirizzo europeo) e in filosofia.  
+Titolo di ammissione per i detti corsi di laurea e' il diploma di maturita' classica.  
+Dopo l'art. 30, e con il conseguente spostamento della successiva numerazione e' aggiunto il seguente nuovo articolo relativo alla istituzione della laurea in lingue e letterature straniere moderne.  
+  
+Laurea in lingue e letterature straniere moderno  
+  
+Art. 31. - La durata del corso degli studi per la laurea in lingue e letterature straniere moderne (indirizzo europeo) e' di quattro anni.  
+  
+Sono insegnamenti fondamentali:  
+1) letteratura italiana;  
+2) letteratura latina;  
+3) glottologia;  
+4) una prima lingua e letteratura straniera moderna;  
+5) una seconda lingua e letteratura straniera moderna;  
+6) filologia romanza, o germanica, o slava;  
+7) storia medioevale;  
+8) storia moderna;  
+9) storia dell'arte moderna, o storia dell'arte medioevale e moderna;  
+10) geografia.  
+  
+Sono insegnamenti complementari (quando non siano stati scelti come fondamentali per i sopraindicati numeri 4, 5 e 6):  
+1) lingua e letteratura francese;  
+2) lingua e letteratura spagnola;  
+3) lingua e letteratura portoghese;  
+4) lingua e letteratura inglese;  
+5) lingua e letteratura tedesca;  
+6) lingua e letteratura russa;  
+7) lingua e letteratura polacca;  
+8) lingua e letteratura serbo-croata;  
+9) filologia romanza;  
+10) filologia germanica;  
+11) filologia slava;  
+12) storia della lingua italiana;  
+13) storia della letteratura italiana moderna e contemporanea;  
+14) storia dell'arte medioevale;  
+15) storia della musica;  
+16) letteratura greca;  
+17) lingua e letteratura latina medioevale;  
+18) storia e filologia bizantina (o filologia bizantina);  
+19) storia romana;  
+20) storia greca;  
+21) storia della filosofia;  
+22) storia della filosofia moderna e contemporanea;  
+23) filosofia del linguaggio.  
+  
+Lo studente deve seguire i corsi e sostenere gli esami negli insegnamenti fondamentali e in tre discipline da lui scelte fra le complementari.  
+Uno degli insegnamenti complementari puo' essere, sostituito dallo studente con una disciplina di altri corsi di studio della stessa o di diversa Facolta' dello Ateneo, previa approvazione del preside.  
+L'insegnamento della lingua e letteratura straniera moderna alla quale lo studente intende principalmente dedicarsi deve essere seguito per tutti i quattro anni, alla fine di ciascuno dei quali egli viene sottoposto a prove scritte, di anno in anno gradualmente progressive.  
+Devono poi essere seguiti per un biennio gli insegnamenti delle letterature italiana e latina, della filologia relativa alla lingua principale e della seconda lingua e letteratura straniera moderna prescela. Puo' pero' lo studente seguire per un biennio anche un altro insegnamento e in tal caso puo' ridurre di uno gli insegnamenti complementari.  
+Lo studente deve superare prove scritte di italiano e di latino, integrative rispettivamente degli esami di letteratura italiana e di letteratura latina.  
+  
+Art. 32, concernente l'esame di laurea, e' integrato nel senso che la dissertazione scritta per la laurea in lingue e letterature straniere moderne dovra' avere per tesi la lingua, e letteratura straniera moderna scelta, dallo studente come principale.  
+  
+Art. 33. - E' cosi' modificato:  
+I laureati in lettere, o in lingue e letterature straniere moderne o in filosofia, che aspirino rispettivamente ad altra laurea possono essere iscritti al terzo o al quarto anno del rispettivo corso quando cio' sia consentito dal curriculum dei loro studi precedenti.  
+Essi debbono seguire i corsi e sostenere gli esami che vengono prescritti caso per caso.  
+I corsi pluriennali dei tre corsi di laurea importano un esame alla fine di ogni annuo di corso.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di l'arlo osservare.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 maggio 1976
+### Dato a Roma, addi' 26 agosto 1959
 
-LEONE MALFATTI
+GRONCHI MEDICI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 23 luglio 1976
+Registrato alla Corte dei conti, addi' 30 settembre 1959
 
-Atti di Governo, registro n. 8, foglio n. 11
+Atti del Governo, registro n. 120, foglio n. 169. - VILLA

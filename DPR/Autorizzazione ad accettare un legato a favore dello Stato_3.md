@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 maggio 1977 n. 743
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 680
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 maggio 1977 n. 743
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 680
 =============================================================
 
 Autorizzazione ad accettare un legato a favore dello Stato.
@@ -10,10 +10,11 @@ Autorizzazione ad accettare un legato a favore dello Stato.
 Art. 1
 ------
 
-N.
+n.
 
-743. Decreto del Presidente della Repubblica 9 maggio 1977, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato del legato disposto dal sig. Roberto Moschitti con testamento olografo 6 gennaio 1975, pubblicato con atto pubblico 14 agosto 1975, n. 147250 di repertorio, a rogito dell'avv. Isabella Cosentini, notaio in Napoli, consistente in una raccolta di 13 violini del XIII, XIX e XX secolo, i quali rivestono un importante interesse artistico e storico, da destinare al museo di Capodimonte in Napoli.  
+680. Decreto del Presidente della Repubblica 17 maggio 1986, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato del legato, consistente in una raccolta di settantadue rami incisi, i quali rivestono un importante interesse artistico, da destinare all'Istituto nazionale per la grafica - calcografia di Roma, disposto dall'avv. Ettore De Fornaris con testamento olografo 20 gennaio 1973, pubblicato in data 9 ottobre 1978 e 22 novembre 1978, numeri 42583/8395 e 42944/8395 di repertorio, a rogito dott.  
+Federico Bottino, notaio in Torino.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 7 ottobre 1977  
-Registro n. 14 Beni culturali, foglio n. 279
+Visto, il Guardasigilli: ROGNONI  
+Registrato alla Corte dei conti, addi' 10 ottobre 1986  
+Registro n. 26 Beni culturali, foglio n. 122

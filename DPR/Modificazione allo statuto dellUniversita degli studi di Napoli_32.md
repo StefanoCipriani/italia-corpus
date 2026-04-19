@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 463
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1984 n. 1221
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 463
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1984 n. 1221
+================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -39,25 +39,21 @@ Articolo unico
 --------------
 
   
-Nell'art. 129, relativo al corso di laurea in medicina e chirurgia della prima facolta' di medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-otorinolaringoiatria pediatrica;  
-igiene degli alimenti;  
-chimica tossicologica forense;  
-allergologia respiratoria;  
-malattie metaboliche del bambino.  
+Nell'art. 22, relativo al corso di laurea in giurisprudenza, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+storia e sistemi dei rapporti tra Stato e Chiesa.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 aprile 1986
+### Dato a Roma, addi' 5 dicembre 1984
 
-COSSIGA
+PERTINI
 
 FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 19 luglio 1986
+Registrato alla Corte dei conti, addi' 9 novembre 1985
 
-Registro n. 58 Istruzione, foglio n. 286
+Registro n. 74 Istruzione, foglio n. 142

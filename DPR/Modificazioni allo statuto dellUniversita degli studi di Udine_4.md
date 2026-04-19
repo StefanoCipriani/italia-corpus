@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1981 n. 657
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1985 n. 672
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1981 n. 657
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1985 n. 672
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Udine.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Udine.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Udine, approvato con [decreto del Presidente della Repubblica 11 giugno 1979, n. 298](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1979-06-11;298) e modificato con [decreto del Presidente della Repubblica 3 ottobre 1979, n. 587](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1979-10-03;587), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Udine, approvato con [decreto del Presidente della Repubblica 11 giugno 1979, n. 298](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1979-06-11;298), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -19,6 +19,10 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
 
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
@@ -33,31 +37,32 @@ Decreta:
 
 Lo statuto dell'Universita' di Udine, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 1
-------
+Articolo unico
+--------------
 
   
-All'art. 34, relativo al corso di laurea in scienze della produzione animale, l'insegnamento complementare di entomatologia agraria (sem.) muta denominazione in entoanologia agraria (sem.).  
-
-Art. 2
-------
-
-  
-All'art. 26, relativo al corso di laurea in scienze agrarie, sono aggiunti i seguenti insegnamenti complementari:  
-genetica agraria;  
-miglioramento genetico delle piante agrarie;  
-diritto tributario (sem.).  
+L'art. 8, relativo agli istituti policattedra viene cosi' modificato: la voce "azienda agraria, con relative strutture, annessa alla facolta' di agraria" viene soppressa.  
+Nell'art. 34, relativo al corso di laurea in scienze della produzione animale della facolta' di agraria, allo elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
+coniglicoltura (semestrale);  
+fisiopatologia della riproduzione e tecnica della fecondazione artificiale;  
+idrologia a fini ittici;  
+igiene e profilassi degli allevamenti ittici;  
+itticoltura intensiva;  
+molluschicoltura e crostaceicoltura;  
+vallicoltura.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 maggio 1981
+### Dato a Roma, addi' 4 maggio 1985
 
-PERTINI BODRATO
+PERTINI
 
-Visto, il Guardasigilli: DARIDA
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 14 novembre 1981
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registro n. 107 Istruzione, foglio n. 189
+Registrato alla Corte dei conti, addi' 12 novembre 1985
+
+Registro n. 76 Istruzione, foglio n. 312

@@ -1,135 +1,262 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1203
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 giugno 1967 n. 615
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1203
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 giugno 1967 n. 615
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 31 marzo 1962, n. 140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-03-31;140);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 42. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze politiche e' aggiunto quello di "Scienza politica".
+
+Nello stesso corso di laurea l'insegnamento complementare di "Diritto pubblico americano" muta denominazione in, quello di "Diritto anglo americano".
+
+Art. 55. - All'elenco degli insegnamenti complementari del corso di laurea in Lettere sono aggiunti i seguenti: "Lingua e letteratura cinese" e "Letteratura umanistica".
+
+Nello stesso corso di laurea gli insegnanti complementari di "Epigrafia greca"; "Epigrafia latina"; "Lingua latina" e "Topografia di Roma e dell'Italia antica" mutano denominazione in quelle di:
+
+Epigrafia e istituzioni greche;
+
+Epigrafia e istituzioni romane;
+
+Linguistica ladina;
+
+Topografia dell'Italia antica.
+
+Art. 57. - All'elenco degli insegnamenti complementari del corso di laurea in Lingue e letterature straniere moderne (indirizzo europeo) e' aggiunto quello di: "Lingua e letteratura cinese".
+
+Art. 58. - All'elenco degli insegnamenti complementari del corso di laurea in Filosofia sono aggiunti quelli di:
+
+Filosofia della scienza;
+
+Storia della logica;
+
+Filosofia della religione;
+
+Storia della scuola padovana di filosofia nel Medioevo e nel Rinascimento.
+
+Art. 85. - All'elenco degli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' aggiunto quello di "Oncologia sperimentale".
+
+Nello stesso corso di laurea l'insegnamento complementare di "Tecnica delle autopsie" muta denominazione di quella di "Tecnica e diagnostica istopatologica".
+
+Art. 92. - All'elenco degli insegnamenti complementari del corso di laurea in chimica (indirizzo organico-biologico ed inorganico-chimico-fisico) e' aggiunto quello di "Fotografia scientifica con esercitazioni".
+
+Art. 98. - All'elenco degli insegnamenti complementari del corso di laurea in Fisica sono aggiunti i seguenti:
+
+Per l'indirizzo didattico:
+
+Astronomia;
+
+Istituzioni di fisica nucleare;
+
+Istituzioni di fisica matematica.
+
+Per l'indirizzo applicativo:
+
+Meccanica superiore;
+
+Meccanica celeste;
+
+Relativita'.
+
+Per l'indirizzo generale:
+
+Tecniche di calcolo della fisica teorica;
+
+Teoria delle equazioni differenziali;
+
+Teoria delle equazioni integrali;
+
+Geometria differenziale;
+
+Analisi funzionale;
+
+Calcolo tensoriale;
+
+Meccanica superiore.
+
+Nello stesso indirizzo gli insegnamenti complementari di "Algebra superiore" e "Istituzione di algebra superiore" sono soppressi e sostituiti da "Algebra".
+
+Nell'ultimo comma dello stesso articolo dopo l'insegnamento di "Metodi matematici della fisica" e' inserito l'insegnamento di <
+
+Complementi di Fisica generale I e II".
+
+Art. 99. - Il secondo comma e' abrogato e sostituito dal seguente: "Deve infine aver compiuto un anno di internato presso un Istituto di scienze fisiche dell'Universita' o presso altro Istituto approvato dalla Facolta', per la preparazione della tesi di laurea.
+
+L'ammissione all'internato puo' essere subordinata all'esito di un colloquio di cultura generale a giudizio di una Commissione composta dai professori dei corsi fondamentali di Fisica".
+
+Art. 104. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti quelli di:
+
+Fitogeografia ed ecologia vegetale;
+
+Zoogeografia ed ecologia animale;
+
+Statistica e biometria;
+
+Entomologia;
+
+Embriologia sperimentale;
+
+Citologia;
+
+Micropaleontologia;
+
+Rilevamento geologico;
+
+Sedimentologia;
+
+Analisi mineralogica delle rocce.
+
+Nello stesso corso di laurea, nel penultimo comma sono soppresse le parole "ma viene sempre impartito da un unico docente".
+
+Art. 107. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti quelli di: "Micropaleontologia" e "Parassitologia".
+
+Nello stesso corso di laurea, nel penultimo comma sono soppresse le parole "ma viene sempre impartito da un unico docente".
+
+Art. 109, relativo al corso di laurea in Scienze biologiche, il primo, il secondo e il terzo capoverso sono abrogati e sostituiti dai seguenti:
+
+"Dopo il primo biennio lo studente dovra' frequentare per due anni, come interno, uno degli Istituti di scienze biologiche o, dietro approvazione del preside della Facolta', altro Istituto dell'Universita', nel quale attendera' alla elaborazione della tesi di laurea. Durante tale biennio lo studente e' tenuto a seguire l'attivita' didattica che si svolge nell'Istituto stesso.
+
+L'ammissione all'internato e' regolata dalle norme contenute nell'ordinamento annuale degli studi della Facolta'".
+
+Art. 150. - All'elenco degli insegnamenti complementari del corso di laurea in Farmacia sono aggiunti quelli di: "Istituzioni di matematiche" e "Chimica clinica".
+
+Art. 173. - All'elenco degli Istituti annessi alla Facolta' di ingegneria e' aggiunto l'Istituto di organizzazione aziendale.
+
+Art. 182. - All'elenco degli Istituti annessi alla Facolta' di agraria e' aggiunto l'Istituto di coltivazioni arboree.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 13 giugno 1967
+
+SARAGAT
+
+GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 20 luglio 1967 Atti del Governo, registro n. 212, foglio n. 58. - GRECO
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847) e successive modificazioni;   
-Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Veduto il [decreto del Presidente della Repubblica 31 marzo 1962, n. 140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-03-31;140);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 362, relativo all'elenco delle scuole di specializzazione in medicina e chirurgia e' modificato nel senso che il n. 12) e' abrogato e sostituito dal seguente:   
-n. 12) Scuola di medicina legale e delle assicurazioni che conferisce il diploma di "Specialista in medicina legale e delle assicurazioni".   
-Nello stesso elenco e' aggiunta la seguente scuola di specializzazione:   
-  
-Scuola di medicina nucleare che conferisce il diploma di "Specialista in medicina nucleare".   
-Art. 363. - E' modificato nel senso che gli ordinamenti delle scuole di specializzazione in "Medicina legale e delle assicurazioni", e in "Urologia" sono abrogati e sostituiti dai seguenti:   
-  
-Scuola di specializzazione in medicina legale e delle assicurazioni (durata del corso: anni 3)   
-  
-1° Anno:   
-Medicina legale generale;   
-Elementi di diritto pubblico e privato;   
-Tecnica diagnostica anatomo-patologica generale e medico-legale;   
-Traumatologia medico-legale;   
-Semeiotica medico-legale.   
-  
-2° Anno:   
-Medicina legale penalistica;   
-Deontologia medica;   
-Neuropsichiatria medico-legale;   
-Elementi di medicina criminologica e di medicina penitenziaria;   
-Indagini di sopralluogo;   
-Identificazione personale.   
-  
-3° Anno:   
-Medicina legale e canonistica;   
-Tossicologia medico-legale;   
-Tecniche di laboratorio medico-legale e di ematologia forense;   
-Ostetricia e ginecologia forense;   
-Elementi di legislazione del lavoro;   
-Elementi di medicina del lavoro;   
-Medicina delle assicurazioni;   
-Medicina legale militare e pensionistica civile.   
-Internato obbligatorio per almeno sei mesi continuativi ed a tempo pieno per ciascun anno.   
-Esami di profitto sulle singole materie di insegnamento al termine di ogni anno.   
-E' obbligatorio il superamento degli esami di un anno per il passaggio all'anno successivo.   
-Numero massimo complessivo degli specializzandi per l'intero corso:  
-quindici.   
-  
-Scuola di specializzazione in urologia   
-(durata del corso: anni 3)   
-  
-1° Anno:   
-Anatomia descrittiva e topografica dell'apparato uro-genitale;   
-Fisiologia dell'apparato urogenitale;   
-Patologia dell'apparato urinario e genitale maschile (biennale);   
-Le nefropatie mediche;   
-Semeiotica dell'apparato uro-genitale (funzionale e di laboratorio) (biennale);   
-Tecniche strumentali e semeiologia endoscopica (biennale);   
-Microbiologia in urologia;   
-Farmacoterapia delle affezioni urogenitali.   
-  
-2° Anno:   
-Patologia dell'apparato urinario e genitale maschile (biennale);   
-Clinica urologica (biennale);   
-Patologia genitale femminile di interesse urologico;   
-Nefrologia chirurgica;   
-Anatomia e istologia patologica dell'apparato urogenitale;   
-Semeiotica dell'apparato uro-genitale (funzionale e di laboratorio) (biennale);   
-Tecniche strumentali e semeiologia endoscopica (biennale);   
-Anatomia chirurgica dell'apparato uro-genitale;   
-Radiologia dell'apparato urinario e genitale;   
-Le affezioni cutanee e veneree nei riguardi della urologia;   
-L'anestesia ed il trattamento pre e post-operatorio del malato urologico.   
-  
-3° Anno:   
-Clinica urologica (biennale);   
-Patologia e clinica urologica infantile;   
-Radiologia dell'apparato urinario e genitale;   
-Urologia ginecologica.   
-Il numero massimo complessivo degli iscritti, e' di trentanove, distribuiti nei tre anni di corso.   
-Nello stesso articolo dopo la scuola in urologia e' aggiunta la scuola di specializzazione in medicina nucleare con il seguente ordinamento:   
-  
-Scuola di specializzazione in medicina nucleare   
-(durata del corso: anni 3)   
-  
-1° Anno:   
-Fondamenti di matematica e statistica;   
-Fisica nucleare e delle radiazioni;   
-Tecniche per le misure di radioattivita';   
-Dosimetria.   
-  
-2° Anno:   
-Teoria dei traccianti;   
-Elementi di radiochimica;   
-Applicazioni diagnostiche I;   
-Elementi di radiobiologia.   
-  
-3° Anno:   
-Applicazioni diagnostiche II;   
-Applicazioni terapeutiche;   
-Radioterapia e legislazione.   
-E' obbligatorio per tutti gli iscritti l'internato presso l'istituto di semeiotica medica, sede della scuola.   
-Numero massimo degli iscritti ai tre anni di corso: ventuno.   
-Nel predetto art. 363 il comma relativo alla scuola di specializzazione in nefrologia medica, istituita con [decreto del Presidente della Repubblica 31 ottobre 1969, n. 957](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-10-31;957), e' modificato nel senso che il numero complessivo degli specializzandi da ammettere alla scuola e' aumentato a quarantacinque.   
+Art. 42. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze politiche e' aggiunto quello di "Scienza politica".  
+Nello stesso corso di laurea l'insegnamento complementare di "Diritto pubblico americano" muta denominazione in, quello di "Diritto anglo americano".  
+Art. 55. - All'elenco degli insegnamenti complementari del corso di laurea in Lettere sono aggiunti i seguenti: "Lingua e letteratura cinese" e "Letteratura umanistica".  
+Nello stesso corso di laurea gli insegnanti complementari di "Epigrafia greca"; "Epigrafia latina"; "Lingua latina" e "Topografia di Roma e dell'Italia antica" mutano denominazione in quelle di:  
+Epigrafia e istituzioni greche;  
+Epigrafia e istituzioni romane;  
+Linguistica ladina;  
+Topografia dell'Italia antica.  
+Art. 57. - All'elenco degli insegnamenti complementari del corso di laurea in Lingue e letterature straniere moderne (indirizzo europeo) e' aggiunto quello di: "Lingua e letteratura cinese".  
+Art. 58. - All'elenco degli insegnamenti complementari del corso di laurea in Filosofia sono aggiunti quelli di:  
+Filosofia della scienza;  
+Storia della logica;  
+Filosofia della religione;  
+Storia della scuola padovana di filosofia nel Medioevo e nel Rinascimento.  
+Art. 85. - All'elenco degli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' aggiunto quello di "Oncologia sperimentale".  
+Nello stesso corso di laurea l'insegnamento complementare di "Tecnica delle autopsie" muta denominazione di quella di "Tecnica e diagnostica istopatologica".  
+Art. 92. - All'elenco degli insegnamenti complementari del corso di laurea in chimica (indirizzo organico-biologico ed inorganico-chimico-fisico) e' aggiunto quello di "Fotografia scientifica con esercitazioni".  
+Art. 98. - All'elenco degli insegnamenti complementari del corso di laurea in Fisica sono aggiunti i seguenti:  
+Per l'indirizzo didattico:  
+Astronomia;  
+Istituzioni di fisica nucleare;  
+Istituzioni di fisica matematica.  
+Per l'indirizzo applicativo:  
+Meccanica superiore;  
+Meccanica celeste;  
+Relativita'.  
+Per l'indirizzo generale:  
+Tecniche di calcolo della fisica teorica;  
+Teoria delle equazioni differenziali;  
+Teoria delle equazioni integrali;  
+Geometria differenziale;  
+Analisi funzionale;  
+Calcolo tensoriale;  
+Meccanica superiore.  
+Nello stesso indirizzo gli insegnamenti complementari di "Algebra superiore" e "Istituzione di algebra superiore" sono soppressi e sostituiti da "Algebra".  
+Nell'ultimo comma dello stesso articolo dopo l'insegnamento di "Metodi matematici della fisica" e' inserito l'insegnamento di <  
+Complementi di Fisica generale I e II".  
+Art. 99. - Il secondo comma e' abrogato e sostituito dal seguente: "Deve infine aver compiuto un anno di internato presso un Istituto di scienze fisiche dell'Universita' o presso altro Istituto approvato dalla Facolta', per la preparazione della tesi di laurea.  
+L'ammissione all'internato puo' essere subordinata all'esito di un colloquio di cultura generale a giudizio di una Commissione composta dai professori dei corsi fondamentali di Fisica".  
+Art. 104. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti quelli di:  
+Fitogeografia ed ecologia vegetale;  
+Zoogeografia ed ecologia animale;  
+Statistica e biometria;  
+Entomologia;  
+Embriologia sperimentale;  
+Citologia;  
+Micropaleontologia;  
+Rilevamento geologico;  
+Sedimentologia;  
+Analisi mineralogica delle rocce.  
+Nello stesso corso di laurea, nel penultimo comma sono soppresse le parole "ma viene sempre impartito da un unico docente".  
+Art. 107. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti quelli di: "Micropaleontologia" e "Parassitologia".  
+Nello stesso corso di laurea, nel penultimo comma sono soppresse le parole "ma viene sempre impartito da un unico docente".  
+Art. 109, relativo al corso di laurea in Scienze biologiche, il primo, il secondo e il terzo capoverso sono abrogati e sostituiti dai seguenti:  
+"Dopo il primo biennio lo studente dovra' frequentare per due anni, come interno, uno degli Istituti di scienze biologiche o, dietro approvazione del preside della Facolta', altro Istituto dell'Universita', nel quale attendera' alla elaborazione della tesi di laurea. Durante tale biennio lo studente e' tenuto a seguire l'attivita' didattica che si svolge nell'Istituto stesso.  
+L'ammissione all'internato e' regolata dalle norme contenute nell'ordinamento annuale degli studi della Facolta'".  
+Art. 150. - All'elenco degli insegnamenti complementari del corso di laurea in Farmacia sono aggiunti quelli di: "Istituzioni di matematiche" e "Chimica clinica".  
+Art. 173. - All'elenco degli Istituti annessi alla Facolta' di ingegneria e' aggiunto l'Istituto di organizzazione aziendale.  
+Art. 182. - All'elenco degli Istituti annessi alla Facolta' di agraria e' aggiunto l'Istituto di coltivazioni arboree.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1970
+### Dato a Roma, addi' 13 giugno 1967
 
-SARAGAT MISASI
+SARAGAT GUI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 19 gennaio 1971
+Registrato alla Corte dei conti, addi' 20 luglio 1967
 
-Atti del Governo, registro n. 240, foglio n. 71. - CARUSO
+Atti del Governo, registro n. 212, foglio n. 58. - GRECO

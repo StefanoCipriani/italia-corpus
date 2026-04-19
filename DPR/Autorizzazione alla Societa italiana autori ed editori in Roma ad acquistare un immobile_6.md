@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1978 n. 475
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 novembre 1975 n. 846
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1978 n. 475
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 novembre 1975 n. 846
+===============================================================
 
 Autorizzazione alla Societa' italiana autori ed editori, in Roma, ad acquistare un immobile.
 --------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-475. Decreto del Presidente della Repubblica 19 giugno 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Societa' italiana autori ed editori (S.I.A.E.), in Roma, viene autorizzata ad acquistare un immobile, costituito da un locale ad uso commerciale e da un locale ad uso ripostiglio dello stabile situato in Como, via Garibaldi, 27, angolo via Volta, e denominato condominio Garibaldi centro, al prezzo di L. 91.000.000, come da atto di compravendita 22 dicembre 1975, n. 48107/14346 di repertorio, a rogito notaio Marchetti.  
+846. Decreto del Presidente della Repubblica 29 novembre 1975, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Societa' italiana autori ed editori (S.I.A.E.), in Roma, viene autorizzata ad acquistare, al prezzo di L. 98.500.000, un immobile costituito da negozio al piano terra, con sottonegozio al piano interrato e piccolo magazzino adiacente a questo ultimo, sito in Padova, riviera dei Ponti Romani n. 4.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 18 agosto 1978  
-Registro n. 6 Presidenza, foglio n. 77
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 6 febbraio 1976  
+Atti di Governo, registro n. 2, foglio n. 37

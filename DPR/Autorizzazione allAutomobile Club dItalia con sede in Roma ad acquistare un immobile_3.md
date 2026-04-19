@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1966 n. 122
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 maggio 1967 n. 439
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1966 n. 122
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 maggio 1967 n. 439
+=============================================================
 
 Autorizzazione all'Automobile Club d'Italia, con sede in Roma, ad acquistare un immobile.
 -----------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-122. Decreto del Presidente della Repubblica 18 febbraio 1966, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile Club d'Italia, con sede in Roma, viene autorizzato ad acquistare in proprieta' dalla signora Marianna o Anna Genovese, per il prezzo di L. 9.000.000, il vano-magazzino sito in Siracusa alla piazza Foro Siracusano nn. 28 e 29, per l'ampliamento della sede dei propri uffici.  
+439. Decreto del Presidente della Repubblica 10 maggio 1967, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile Club d'Italia, con sede in Roma, viene autorizzato ad acquistare in proprieta' dall'Impresa "Edilsider", con sede in Latina, per l'ampliamento della sede degli uffici dell'Automobile Club di Latina e per il prezzo di lire 4.800.000, una porzione di fabbricato - costituita da un vano terraneo esteso mq. 79,40 - sito in Latina alla via Emanuele Filiberto, in catasto di Latina alla partita 481/971.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti addi' 18 marzo 1966  
-Atti del Governo, registro n. 202, foglio n. 60 - VILLA
+Registrato alla Corte dei conti, addi' 13 giugno 1967  
+Atti del Governo, registro n. 211, foglio n. 127. - GRECO

@@ -1,19 +1,19 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 ottobre 1971 n. 1173
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 febbraio 1966 n. 126
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 ottobre 1971 n. 1173
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 febbraio 1966 n. 126
 ===============================================================
 
-Autorizzazione all'Associazione nazionale alpini, con sede in Milano, ad acquistare un immobile.
-------------------------------------------------------------------------------------------------
+Autorizzazione all'Associazione nazionale alpini, con sede in Milano ad acquistare un immobile.
+-----------------------------------------------------------------------------------------------
 
 Art. 1
 ------
 
 N.
 
-1173. Decreto del Presidente della Repubblica 12 ottobre 1971, col quale, sulla proposta del Ministro per la difesa, l'Associazione nazionale alpini, con sede in Milano, viene autorizzata ad acquistare, per adibirlo a sede della dipendente sezione di Treviso, dall'imprenditore edile sig. Giuseppe Favarato, al prezzo di lire nove milioni, l'appartamento situato al primo piano del fabbricato che sorge in detta citta', via Inferiore n. 55; cosi' descritto alla pagina 7327 del nuovo catasto edilizio urbano: comune di Treviso, sezione E, Citta', foglio II, mappale n. 939 sub 4, via Inferiore, piano I, cat. A/ 10, classe 4ª, vani 4, rendita L. 3244.  
+126. Decreto del Presidente della Repubblica 21 febbraio 1966, col quale, sulla proposta del Ministro per la difesa, l'Associazione nazionale alpini, con sede in Milano, viene autorizzata ad acquistare dalla Comunanza agraria di Pretare, al prezzo di L. 10 al mq., l'appezzamento di terreno, della superficie di mq. 3000, stimata a quota 1510, in localita' Forca di Presta del comune di Arquata del Tronto (Ascoli Piceno), censito presso il catasto terreni di quel Comune, nel foglio n. 14, con la particella n. 58, sub b.  
   
-Visto, il Guardasigilli: COLOMBO  
-Registrato alla Corte dei conti, addi' 4 gennaio 1972  
-Atti del Governo, registro n. 245, foglio n. 200. - VALENTINI
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 24 marzo 1964  
+Atti del Governo, registro n. 202, foglio n. 66. - VILLA

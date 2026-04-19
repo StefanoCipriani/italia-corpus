@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 febbraio 1981 n. 258
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1984 n. 534
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 febbraio 1981 n. 258
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1984 n. 534
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Messina.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923), e modificato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923), e modificato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,65 +20,93 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio universitario nazionale nel suo parere;
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Sulla
------
+Sulla proposta del Ministro della pubblica istruzione;
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
+Dopo l'art. 186, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in immunoematologia e trasfusione.  
   
-Lo statuto dell'Universita' di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Scuola di specializzazione in immunoematologia e trasfusione  
   
-Dopo l'art. 186, e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in malattie del fegato e del ricambio.   
-Scuola di specializzazione in malattie del fegato e del ricambio   
-Art. 187. - La scuola ha la durata di tre anni ed ha sede presso l'istituto di clinica medica generale e terapia medica prima cattedra. Potranno essere iscritti alla scuola i laureati in medicina e chirurgia nel numero massimo di otto per anno, per un totale di ventiquattro specializzandi nei tre anni di corso.   
-Non sono ammesse abbreviazioni di corso per nessun motivo.   
-Art. 188. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-1) anatomia e istologia normale del fegato e delle vie biliari;  
-2) fisiologia del fegato e delle vie biliari e del ricambio intermedio;   
-3) clinica medica generale (triennale) I;   
-4) malattie del fegato e delle vie biliari (triennale) I;   
-5) malattie del ricambio (triennale) I;   
-6) nozioni di microbiologia e parassitologia con particolare riguardo al fegato;   
-7) nozioni sull'enzimologia e sul ricambio a livello epatico. 2° Anno:   
-1) anatomia e istologia patologica del fegato e delle vie biliari;   
-2) fisiopatologia del fegato e delle vie biliari e del ricambio intermedio;   
-3) diagnostica funzionale delle malattie del fegato e del ricambio;   
-4) controllo radiologico del fegato e delle vie biliari;   
-5) clinica medica generale (triennale) II;   
-6) malattie del fegato e delle vie biliari (triennale) II;   
-7) malattie del ricambio (triennale) II.   
-3° Anno:   
-1) clinica medica generale (triennale) III;   
-2) malattie del fegato e delle vie biliari (triennale) III;   
-3) malattie del ricambio (triennale) III;   
-4) principi di terapia generale e dietetica applicata alle malattie del fegato e del ricambio;   
-5) terapia chirurgica delle malattie del fegato e delle vie biliari;   
-6) terapia idrologica delle malattie del fegato e delle vie biliari e del ricambio.   
-Art. 189. - Gli iscritti hanno l'obbligo di frequenza alle lezioni e di assistenza pratica secondo le modalita' stabilite dal direttore della scuola stessa.   
-Al termine di ciascun anno gli specializzandi che hanno ottenuto la prescritta attestazione di frequenza per iscriversi all'anno successivo devono superare un esame di profitto, comprensivo delle materie in insegnamento dell'anno stesso.   
-Alla fine del terzo anno gli specializzandi devono sostenere l'esame di diploma che consiste nella discussione di una dissertazione scritta su un tema approvato in precedenza dal direttore della scuola.   
+Art. 187. - E' istituita presso l'Universita' di Messina la scuola di specializzazione in immunoematologia e trasfusione che conferisce il diploma di specialista in immunoematologia e trasfusione.  
+Art. 188. - La direzione della scuola ha sede presso l'istituto pluridisciplinare di anestesiologia, rianimazione e terapia intensiva e si avvale anche dell'organizzazione della cattedra di genetica medica, del servizio di anestesia e rianimazione, del servizio trasfusionale e del centro di microcitemia del policlinico universitario.  
+Art. 189. - La scuola ha per scopo il conseguimento del diploma di specialista.  
+Art. 190. - La durata del corso e' di tre anni e non e' suscettibile di abbreviazioni.  
+Art. 191. - Il numero degli iscritti e' di cinque per ogni anno e complessivamente di quindici per l'intero corso di studi.  
+Art. 192. - Alla scuola sono ammessi solo i laureati in medicina e chirurgia. E' richiesta l'abilitazione allo esercizio professionale.  
+Art. 193. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:  
+a) la tesi nella disciplina attinente alla specializzazione;  
+b) il voto di laurea;  
+c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;  
+d) le pubblicazioni nelle predette materie.  
+Il punteggio dei predetti titoli e' quello stabilito dal decreto ministeriale del 16 settembre 1982.  
+Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizioni utili nelle graduatorie compilate sulla base del punteggio complessivo riportato.  
+Art. 194. - Le materie di insegnamento sono le seguenti e afferiscono alla facolta' di medicina e chirurgia:  
+1° Anno:  
+1) morfogenesi e morfologia normale e patologica  
+del sangue;  
+2) biochimica ematologica;  
+3) fisiopatologia generale del sangue;  
+4) fisiopatologia della coagulazione e dell'emostasi;  
+5) immunologia generale;  
+6) immunopatologia;  
+7) immunoematologia I.  
+2° Anno:  
+1) immunoematologia II;  
+2) immunogenetica;  
+3) sistematica dei gruppi sanguigni;  
+4) organizzazione e metodologia trasfusionale I;  
+5) terapia trasfusionale I;  
+6) elementi di statistica;  
+7) tecniche di laboratorio inerenti al servizio trasfusionale;  
+8) microbiologia d'interesse trasfusionale.  
+3° Anno:  
+1) organizzazione e metodologia trasfusionale II;  
+2) terapia trasfusionale II;  
+3) clinica ematologica;  
+4) legislazione e aspetti giuridici attinenti alla trasfusione del sangue e derivati;  
+5) medicina legale trasfusionale;  
+6) immunoematologia forense.  
+Art. 195. - La frequenza ai corsi e' obbligatoria per otto mesi.  
+Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo.  
+La commissione d'esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso.  
+Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.  
+Art. 196. - Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.  
+Art. 197. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio della scuola di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso.  
+A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.  
+Art. 198. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anche per anno dal consiglio di amministrazione.  
+Art. 199. - Per ciascuna scuola di specializzazione, anche se comprendente piu' indirizzi, e' costituito un unico consiglio presieduto da un direttore.  
+Il consiglio e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).  
+Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento di insegnamenti.  
+La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 febbraio 1981
+### Dato a Roma, addi' 7 giugno 1984
 
-PERTINI BODRATO
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: SARTI
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 25 maggio 1981
+Registrato alla Corte dei conti, addi' 13 agosto 1984
 
-Registro n. 48 Istruzione, foglio n. 302
+Registro n. 49 Istruzione, foglio n. 303

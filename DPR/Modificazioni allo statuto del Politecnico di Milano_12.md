@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1956 n. 1135
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1959 n. 596
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1956 n. 1135
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1959 n. 596
+=============================================================
 
 Modificazioni allo statuto del Politecnico di Milano.
 -----------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto del Politecnico di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto del Politecnico di Milano, approvato con [regio decreto 20 aprile 1939, n. 1028](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1028) e modificato con [regio decreto 11 luglio 1912, n. 921](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1912-07-11;921) e con [decreti del presidente della Repubblica 27 ottobre 1951, n. 1802](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1802), [14 settembre 1954, n. 1201](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1201) e [11 aprile 1955, n. 621](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-04-11;621);
+Veduto lo statuto del Politecnico di Milano, approvato con [regio decreto 20 aprile 1939, n. 1028](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1028), e modificato con [regio decreto 11 luglio 1942, n. 921](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-07-11;921) e successivi;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,7 +20,7 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche del Politecnico anzidetto;
+Vedute le proposte di modifiche dello statuto formulate dalle Autorita' accademiche del politecnico anzidetto;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -30,167 +30,88 @@ Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto del Politecnico di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto del Politecnico di Milano, approvato e modificato con i decreti sopraindicati, e', ulteriormente modificato come appresso:
 
-Dopo l'art. 10 e' aggiunto il seguente nuovo articolo, con il conseguente spostamento della numerazione degli articoli successivi.
+Art. 11. - La denominazione dell'insegnamento complementare di: "Elettronica" e' modificata in quella di:
 
-Art. 11. - Nel triennio di studi di applicazione del corso di laurea in ingegneria sono istituiti, ai sensi della [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312), seguenti insegnamenti complementari, di durata annuale, comuni a tutte le Sezioni del triennio:
+"Elettronica applicata".
 
-1) Complementi di analisi matematica con calcoli grafici e numerici;
+Art. 21. - Dopo l'ultimo comma dell'art. 21 e' aggiunto quanto appresso:
 
-2) Complementi di meccanica razionale;
+XIV. - Corso di perfezionamento in Tecnica del traffico, con i seguenti insegnamenti:
 
-3) Complementi di fisica con elementi di fisica matematica e tecnica;
+1) La tecnica di esercizio dei trasporti;
 
-4) Elettronica;
+2) Le esigenze costruttive della strada in relazione ai veicoli;
 
-5) Fisica nucleare e impianti nucleari;
+3) Le caratteristiche costruttive e di esercizio del veicolo in rapporto alla strada;
 
-6) Geodesia;
+4) Norme di sicurezza e disciplina della circolazione;
 
-7) Complementi di scienza delle costruzioni;
+5) Le esigenze della circolazione nel quadro urbanistico;
 
-8) Complementi di meccanica delle macchine;
+6) Il fattore umano nei trasporti: psicotecnica e infortunistica.
 
-9) Meccanica delle terre;
+Altri insegnamenti monografici eventuali.
 
-10) Costruzione di macchine fluidodinamiche;
+Al corso possono essere iscritti i laureati in ingegneria.
 
-11) Costruzioni di macchine operatrici;
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-12) Costruzioni automobilistiche;
-
-13) Forni industriali;
-
-14) Tecnologie tessili;
-
-15) Tecnologia del freddo;
-
-16) Tecnologia della cellulosa e della carta;
-
-17) Tecnologie degli olii, grassi e vernici;
-
-18) Tecnologia dei leganti idraulici;
-
-19) Tecnologie del legno;
-
-20) Tecnologie delle materie plastiche;
-
-21) Tecnologia dei combustibili;
-
-22) Complementi di metallurgia;
-
-21) Tecnologia dei materiali aeronautici;
-
-24) Meteorologia;
-
-25) Complementi di elettrotecnica;
-
-26) Complementi di misure elettriche;
-
-27) Complementi di elettronica;
-
-28) Tecnologia ed impianti radiotecnici;
-
-29) Idrologia tecnica;
-
-30) ingegneria sanitaria;
-
-31) Edilizia industriale;
-
-32) Prospezione geofisica;
-
-33) Organizzazione dei cantieri;
-
-34) Estimo industriale;
-
-35) Economia ed organizzazione aziendale;
-
-36) Fotogrammetria.
-
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e de decreti della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 5 settembre 1956
+Dato a Roma, addi' 30 giugno 1959
 
 GRONCHI
 
-ROSSI
+MEDICI
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 12 ottobre 1956 Atti del Governo, registro n. 101, foglio n. 19. - CARLOMAGNO
+alla Corte dei conti, addi' 5 agosto 1959 Atti del Governo, registro n. 120, foglio n. 26. -- VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto del Politecnico di Milano, approvato con [regio decreto 20 aprile 1939, n. 1028](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1028) e modificato con [regio decreto 11 luglio 1912, n. 921](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1912-07-11;921) e con [decreti del presidente della Repubblica 27 ottobre 1951, n. 1802](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1802), [14 settembre 1954, n. 1201](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1201) e [11 aprile 1955, n. 621](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-04-11;621);  
+Veduto lo statuto del Politecnico di Milano, approvato con [regio decreto 20 aprile 1939, n. 1028](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1028), e modificato con [regio decreto 11 luglio 1942, n. 921](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-07-11;921) e successivi;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche del Politecnico anzidetto;  
+Vedute le proposte di modifiche dello statuto formulate dalle Autorita' accademiche del politecnico anzidetto;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto del Politecnico di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Dopo l'art. 10 e' aggiunto il seguente nuovo articolo, con il conseguente spostamento della numerazione degli articoli successivi.  
-Art. 11. - Nel triennio di studi di applicazione del corso di laurea in ingegneria sono istituiti, ai sensi della [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312), seguenti insegnamenti complementari, di durata annuale, comuni a tutte le Sezioni del triennio:  
-1) Complementi di analisi matematica con calcoli grafici e numerici;  
-2) Complementi di meccanica razionale;  
-3) Complementi di fisica con elementi di fisica matematica e tecnica;  
-4) Elettronica;  
-5) Fisica nucleare e impianti nucleari;  
-6) Geodesia;  
-7) Complementi di scienza delle costruzioni;  
-8) Complementi di meccanica delle macchine;  
-9) Meccanica delle terre;  
-10) Costruzione di macchine fluidodinamiche;  
-11) Costruzioni di macchine operatrici;  
-12) Costruzioni automobilistiche;  
-13) Forni industriali;  
-14) Tecnologie tessili;  
-15) Tecnologia del freddo;  
-16) Tecnologia della cellulosa e della carta;  
-17) Tecnologie degli olii, grassi e vernici;  
-18) Tecnologia dei leganti idraulici;  
-19) Tecnologie del legno;  
-20) Tecnologie delle materie plastiche;  
-21) Tecnologia dei combustibili;  
-22) Complementi di metallurgia;  
-21) Tecnologia dei materiali aeronautici;  
-24) Meteorologia;  
-25) Complementi di elettrotecnica;  
-26) Complementi di misure elettriche;  
-27) Complementi di elettronica;  
-28) Tecnologia ed impianti radiotecnici;  
-29) Idrologia tecnica;  
-30) ingegneria sanitaria;  
-31) Edilizia industriale;  
-32) Prospezione geofisica;  
-33) Organizzazione dei cantieri;  
-34) Estimo industriale;  
-35) Economia ed organizzazione aziendale;  
-36) Fotogrammetria.  
+Lo statuto del Politecnico di Milano, approvato e modificato con i decreti sopraindicati, e', ulteriormente modificato come appresso:  
+Art. 11. - La denominazione dell'insegnamento complementare di: "Elettronica" e' modificata in quella di:  
+"Elettronica applicata".  
+Art. 21. - Dopo l'ultimo comma dell'art. 21 e' aggiunto quanto appresso:  
+XIV. - Corso di perfezionamento in Tecnica del traffico, con i seguenti insegnamenti:  
+1) La tecnica di esercizio dei trasporti;  
+2) Le esigenze costruttive della strada in relazione ai veicoli;  
+3) Le caratteristiche costruttive e di esercizio del veicolo in rapporto alla strada;  
+4) Norme di sicurezza e disciplina della circolazione;  
+5) Le esigenze della circolazione nel quadro urbanistico;  
+6) Il fattore umano nei trasporti: psicotecnica e infortunistica.  
+Altri insegnamenti monografici eventuali.  
+Al corso possono essere iscritti i laureati in ingegneria.  
   
 
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e de decreti della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 settembre 1956
+### Dato a Roma, addi' 30 giugno 1959
 
-GRONCHI ROSSI
+GRONCHI MEDICI
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 12 ottobre 1956
+Registrato alla Corte dei conti, addi' 5 agosto 1959
 
-Atti del Governo, registro n. 101, foglio n. 19. - CARLOMAGNO
+Atti del Governo, registro n. 120, foglio n. 26. -- VILLA

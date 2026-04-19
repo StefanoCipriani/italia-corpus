@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 gennaio 1986 n. 221
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 438
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 gennaio 1986 n. 221
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 438
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi della Calabria.
 -----------------------------------------------------------------------
@@ -33,19 +33,20 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' della Calabria, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Calabria, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Nell'art. 49, relativo al dipartimento di biologia cellulare, e' aggiunto l'insegnamento di endocrinologia generale.  
+Nell'art. 56, relativo all'elenco degli insegnamenti del dipartimento di economia politica e nella tabella F (allegata all'art. 35 dello statuto), e' aggiunto il seguente nuovo insegnamento:  
+economia marxista.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 gennaio 1986
+### Dato a Roma, addi' 9 aprile 1986
 
 COSSIGA
 
@@ -53,6 +54,6 @@ FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 10 maggio 1986
+Registrato alla Corte dei conti, addi' 17 luglio 1986
 
-Registro n. 36 Istruzione, foglio n. 197
+Registro n. 57 Istruzione, foglio n. 92

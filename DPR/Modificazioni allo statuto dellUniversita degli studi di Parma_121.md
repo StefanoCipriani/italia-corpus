@@ -1,43 +1,155 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1957 n. 241
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1961 n. 1576
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1957 n. 241
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1961 n. 1576
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successivi;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato, con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Dopo l'art. 177 sono aggiunti i seguenti nuovi articoli relativi all'istituzione della Scuola speciale per ortottiste.
+
+Scuola speciale per ortottiste
+
+Art. 178. - E' istituita ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20), una Scuola speciale per ortottiste. La Scuola per "ortottiste" ha sede presso la clinica oculistica dell'Universita'. Essa ha lo scopo di dare una preparazione completa, teorica e pratica alle allieve iscritte, istruendole sui problemi dei difetti di rifrazione, disturbi delle oculomozioni, dell'ambliopia in genere, per avviarle alla attivita' di ortottiste.
+
+Art. 179. - La durata del corso degli studi per il conseguimento del diploma di ortottiste e' di due anni.
+
+Possono essere ammesse alla Scuola allieve di eta' non inferiore ai 17 anni, di sana costituzione, rispondenti a determinati requisiti oculari, in possesso del diploma di maturita' classica, del diploma di maturita' scientifica o del diploma di abilitazione magistrale.
+
+Art. 180. - Chi aspira ad ottenere l'iscrizione al primo anno della Scuola, dovra' sostenere un esame di ammissione per un numero di posti determinato, anno per anno, con decreto del rettore, udito il direttore della Scuola.
+
+Art. 181. - L'esame di ammissione consiste in una prova orale di cultura generale innanzi ad una Commissione composta dal preside della Facolta' di medicina, dal direttore della Scuola e da un terzo membro designato dal rettore della Universita'. L'esame di ammissione avra' luogo entro la prima quindicina del mese di novembre di ciascun anno, nel giorno che sara' stabilito dal rettore con apposito manifesto.
+
+Art. 182. - L'anno accademico ha inizio il 1 dicembre e termina il 30 giugno di ogni anno.
+
+Art. 183. - Il direttore della Scuola e', di diritto, il titolare della Cattedra di clinica oculistica della Universita' di Parma. Gli incarichi di insegnamento della Scuola sono proposti dal Consiglio della Facolta' di medicina e chirurgia, udito il direttore e nominati dal rettore.
+
+Art. 184. - Le materie di insegnamento sono le seguenti:
+
+1° anno:
+
+1) Elementi di anatomia e fisiologia generale;
+
+2) Anatomia e fisiologia dell'apparato oculare;
+
+3) Ottica fisica e fisiologica, vizi di rifrazione;
+
+4) Ortottica;
+
+5) Infermieristica generale.
+
+2° anno:
+
+1) Ortottica;
+
+2) Elementi di patologia oculare;
+
+3) Nozioni di infermieristica oculare.
+
+L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni nel reparto ortottico della clinica oculistica. Durante il secondo anno di studi le allieve presteranno regolare servizio nel reparto ortottico della clinica.
+
+Art. 185. - Per essere ammesse a frequentare il secondo anno di studi, le allieve debbono aver superato tutti gli esami del primo anno. Nel caso in cui le allieve non abbiano superato gli esami prescritti del primo anno, esse rimarranno nella posizione di fuori corso fino a quando non avranno assolto gli obblighi di cui sopra.
+
+Art. 186. - Per essere ammesse a sostenere l'esame di diploma le allieve dovranno aver seguito i corsi, superati gli esami in tutti gli insegnamenti prescritti ed aver compiuto con esito favorevole tutte le esercitazioni pratiche previste.
+
+Art. 187. - Le Commissioni per gli esami di profitto sono nominate dal preside della facolta' di medicina e chirurgia, su proposta del direttore della Scuola. Le Commissioni sono composte di tre membri: dal professore ufficiale della materia, presidente; di un professore ufficiale di materia affine e di un libero docente o cultore della materia.
+
+Ogni commissario ha a disposizione dieci punti.
+
+Le candidate non riconosciute idonee possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla Scuola, ma, se al secondo esame non sia loro riconosciuta la idoneita', saranno senz'altro escluse da ulteriori prove.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nelle Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1961
+
+GRONCHI
+
+BOSCO
+
+Visto,
+------
+
+il Guardasigilli: GONELLA Atti del Governo, registro n. 143, foglio n. 147 - VILLA
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), e modificato con i [regi decreti 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1772); [1° ottobre 1931, n. 1380](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1380); [26 ottobre 1933, n. 2401](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1933-10-26;2401); [13 dicembre 1934, n. 2423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-13;2423); [1° ottobre 1936, n. 2076](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2076); [20 aprile 1939, n. 1067](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-04-20;1067); [1° agosto 1941, n. 893](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-08-01;893); [26 marzo 1942, n. 330](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-03-26;330); [5 settembre 1942, n. 1178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1178); [21 gennaio 1943, n. 21; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1943-01-21;21) [30 dicembre 1947, n. 1735, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-30;1735) [27 marzo 1948, n. 458](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-03-27;458); [30 ottobre 1949, n. 1002](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1002); [30 maggio 1950, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-05-30;615); [11 aprile 1951, n. 471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;471); [27 ottobre 1951, n. 1701](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1701); [31 agosto 1951, n. 1824](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-31;1824); [25 luglio 1952, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1350); [16 ottobre 1952, n. 4013](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-16;4013); [27 marzo 1954, n. 734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-27;734); [24 settembre 1954, n. 1135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-24;1135); [4 febbraio 1955, n. 116](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-04;116); [24 luglio 1955, n. 801](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-24;801); [31 luglio 1956, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-07-31;1027); [5 settembre 1956, n. 1151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-09-05;1151) e [9 novembre 1956, n. 1461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-11-09;1461);   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 10933, n. 1592;   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella, [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta.   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta, del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato, con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 22. - Agli insegnamenti complementari del corso di laurea in economia e commercio e' aggiunto quello di:   
-15) "Tecnica delle ricerche di mercato".   
+Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+Dopo l'art. 177 sono aggiunti i seguenti nuovi articoli relativi all'istituzione della Scuola speciale per ortottiste.  
+  
+Scuola speciale per ortottiste  
+  
+Art. 178. - E' istituita ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20), una Scuola speciale per ortottiste. La Scuola per "ortottiste" ha sede presso la clinica oculistica dell'Universita'. Essa ha lo scopo di dare una preparazione completa, teorica e pratica alle allieve iscritte, istruendole sui problemi dei difetti di rifrazione, disturbi delle oculomozioni, dell'ambliopia in genere, per avviarle alla attivita' di ortottiste.  
+Art. 179. - La durata del corso degli studi per il conseguimento del diploma di ortottiste e' di due anni.  
+Possono essere ammesse alla Scuola allieve di eta' non inferiore ai 17 anni, di sana costituzione, rispondenti a determinati requisiti oculari, in possesso del diploma di maturita' classica, del diploma di maturita' scientifica o del diploma di abilitazione magistrale.  
+Art. 180. - Chi aspira ad ottenere l'iscrizione al primo anno della Scuola, dovra' sostenere un esame di ammissione per un numero di posti determinato, anno per anno, con decreto del rettore, udito il direttore della Scuola.  
+Art. 181. - L'esame di ammissione consiste in una prova orale di cultura generale innanzi ad una Commissione composta dal preside della Facolta' di medicina, dal direttore della Scuola e da un terzo membro designato dal rettore della Universita'. L'esame di ammissione avra' luogo entro la prima quindicina del mese di novembre di ciascun anno, nel giorno che sara' stabilito dal rettore con apposito manifesto.  
+Art. 182. - L'anno accademico ha inizio il 1 dicembre e termina il 30 giugno di ogni anno.  
+Art. 183. - Il direttore della Scuola e', di diritto, il titolare della Cattedra di clinica oculistica della Universita' di Parma. Gli incarichi di insegnamento della Scuola sono proposti dal Consiglio della Facolta' di medicina e chirurgia, udito il direttore e nominati dal rettore.  
+Art. 184. - Le materie di insegnamento sono le seguenti:  
+1° anno:  
+1) Elementi di anatomia e fisiologia generale;  
+2) Anatomia e fisiologia dell'apparato oculare;  
+3) Ottica fisica e fisiologica, vizi di rifrazione;  
+4) Ortottica;  
+5) Infermieristica generale.  
+2° anno:  
+1) Ortottica;  
+2) Elementi di patologia oculare;  
+3) Nozioni di infermieristica oculare.  
+L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni nel reparto ortottico della clinica oculistica. Durante il secondo anno di studi le allieve presteranno regolare servizio nel reparto ortottico della clinica.  
+Art. 185. - Per essere ammesse a frequentare il secondo anno di studi, le allieve debbono aver superato tutti gli esami del primo anno. Nel caso in cui le allieve non abbiano superato gli esami prescritti del primo anno, esse rimarranno nella posizione di fuori corso fino a quando non avranno assolto gli obblighi di cui sopra.  
+Art. 186. - Per essere ammesse a sostenere l'esame di diploma le allieve dovranno aver seguito i corsi, superati gli esami in tutti gli insegnamenti prescritti ed aver compiuto con esito favorevole tutte le esercitazioni pratiche previste.  
+Art. 187. - Le Commissioni per gli esami di profitto sono nominate dal preside della facolta' di medicina e chirurgia, su proposta del direttore della Scuola. Le Commissioni sono composte di tre membri: dal professore ufficiale della materia, presidente; di un professore ufficiale di materia affine e di un libero docente o cultore della materia.  
+Ogni commissario ha a disposizione dieci punti.  
+Le candidate non riconosciute idonee possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla Scuola, ma, se al secondo esame non sia loro riconosciuta la idoneita', saranno senz'altro escluse da ulteriori prove.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nelle Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 febbraio 1957
+### Dato a Roma, addi' 31 ottobre 1961
 
-GRONCHI ROSSI
+GRONCHI BOSCO
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 23 aprile 1957
-
-Atti del Governo, registro n. 105, foglio n. 59. - RELLEVA
+Atti del Governo, registro n. 143, foglio n. 147 - VILLA

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 febbraio 1977 n. 994
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1113
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 febbraio 1977 n. 994
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1113
+================================================================
 
 Autorizzazione alla Lega nazionale per la difesa del cane, in Milano, ad accettare un legato.
 ---------------------------------------------------------------------------------------------
@@ -12,10 +12,9 @@ Art. 1
 
 N.
 
-994. Decreto del Presidente della Repubblica 15 febbraio 1977, col quale, sulla proposta del Ministro per la sanita', la Lega nazionale per la difesa del cane, in Milano, viene autorizzata ad accettare il legato disposto dalla sig.ra Kellemen Agnese ved.  
-Bianchetti con testamento olografo 20 maggio 1973, pubblicato per atto notaio Carlo Emiliano Verde il 5 ottobre 1973.  
-reg. n. 299723, consistente in beni immobili e in beni mobili, per un valore complessivo di L. 41.766.900.  
+1113. Decreto del Presidente della Repubblica 31 dicembre 1985, col quale, sulla proposta del Ministro della sanita', la Lega nazionale per la difesa del cane, in Milano, viene autorizzata ad accettare il legato, consistente nella somma di L. 5.301.122 depositata sul libretto di risparmio al portatore n. 5310 presso il Banco di Chiavari e della Riviera ligure, agenzia di Recco (Genova), oltre ad una eventuale ulteriore somma derivante dagli interessi bancari maturati dai 6 maggio 1976, disposto dal sig.  
+Matteo Cavalli con testamento olografo 21 settembre 1969, pubblicato con atto 12 novembre 1974, n. 4126/369 di repertorio, a rogito dott. Carlo Carosi, notaio in Sestri Levanti (Genova).   
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei Conti, addi' 4 gennaio 1978  
-Registro n. 1 Sanita', foglio n. 40
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 11 giugno 1986   
+Registro n. 7 Sanita', foglio n. 64

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 978
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 970
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 978
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 970
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
@@ -10,137 +10,93 @@ Modificazioni allo statuto dell'Universita' degli studi di Genova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-07;1592) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio universitario nazionale nel suo parere;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio universitario nazionale nel suo parere;
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Sulla
------
+Considerata la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Sulla proposta del Ministro della pubblica istruzione;
 
-Art. 1
-------
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
 
   
+Dopo l'art. 499, sono inseriti, con il conseguente spostamento della numerazione degli articoli successivi, i seguenti nuovi articoli concernenti l'istituzione della scuola diretta a fini speciali per tecnici di neurofisiopatologia:  
   
-Lo statuto dell'universita' di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Gli articoli 333, 334 e 335, relativi alla scuola di specializzazione in puericultura che muta la denominazione in scuola di specializzazione in pediatria preventiva e puericultura, sono sostituiti dai seguenti:   
+Scuola diretta a fini speciali per tecnici di neurofisiopatologia  
   
-Scuola di specializzazione in pediatria preventiva e puericultura   
-  
-Art. 333. - Presso l'istituto di puericultura e medicina neonatale e' istituita la scuola di specializzazione in pediatria preventiva e puericultura.   
-La scuola si propone di conferire la preparazione teorico-pratica sia nel campo della neonatologia e patologia neonatale, sia nel campo della pratica pediatrica preventiva e sociale, con particolare riguardo alla prevalente funzione preventiva e sociale della medicina infantile sul territorio, che il pediatra e' chiamato a svolgere.   
-Art. 334. - Essa ha la durata di quattro anni ed e' articolata in due indirizzi:   
-a) neonatologia e patologia neonatale;   
-b) pediatria sociale.   
-Dopo un primo biennio comune ai due indirizzi, e' istituito un secondo biennio differenziato per ciascuno dei due indirizzi.   
-I medici che abbiano gia' conseguito la specializzazione in pediatria preventiva e puericultura con uno dei due indirizzi, potranno iscriversi direttamente al secondo biennio della scuola con l'altro indirizzo previsto dallo statuto.   
-Art. 335. - Il numero massimo degli allievi che possono essere iscritti e' di sessanta complessivamente pei l'intera durata del corso di studi, bienni orientative inclusi.   
-Art. 336. - Le materie di insegnamento sono:   
-  
-BIENNIO PROPEDEUTICO COMUNE   
-  
-1° Anno:   
-1) anatomia e fisiologia dell'eta' evolutiva I;   
-2) elementi di ostetricia e ginecologia;   
-3) semeiotica infantile;   
-4) genetica medica;   
-5) elementi di laboratorio e biochimica clinica;   
-6) fisiologia della nutrizione;   
-7) metabolismo dell'eta' evolutiva I;   
-8) embriologia e fisiologia prenatali;   
-9) patologia infantile I;   
-10) alimentazione nell'eta' evolutiva.   
-2° Anno:   
-1) anatomia e fisiologia dell'eta' evolutiva II;   
-2) metabolismo dell'eta' evolutiva II;   
-3) patologia infantile II;   
-4) auxologia normale;   
-5) malattie infettive e loro prevenzione;   
-6) patologia prenatale;   
-7) patologia perinatale;   
-8) elementi di clinica pediatrica;   
-9) dietologia infantile;   
-10) anatomia patologica infantile;   
-11) O.R.L. e audiologia infantile;   
-12) oculistica e ottica fisio-patologica infantile.   
-  
-INDIRIZZO DI NEONATOLOGIA E PATOLOGIA NEONATALE   
-  
-3° Anno:   
-1) clinica della gravidanza e del parto normale;   
-2) fisiologia embrio-fetale;   
-3) fisiologia neonatale;   
-4) biochimica neonatale;   
-5) immunologia neonatale;   
-6) diagnostica radiologica neonatale;   
-7) tecniche di laboratorio (con riferimento alla fisiopatologia neonatale);   
-8) patologia neonatale I;   
-9) assistenza al neonato sano ed ammalato;   
-10) semeiotica neonatale.   
-4° Anno:   
-1) patologia neonatale II;   
-2) il neonato a rischio;   
-3) farmacologia neonatale;   
-4) clinica e terapia neonatali;   
-5) rianimazione e terapia intensiva del neonato;   
-6) alimentazione del neonato sano e patologico;   
-7) anatomia patologica del feto e del neonato;   
-8) patologia chirurgica neonatale;   
-9) neurologia neonatale.   
-  
-INDIRIZZO DI PEDIATRIA SOCIALE   
-  
-3° Anno:   
-1) adolescentologia I;   
-2) auxologia patologica ed endocrinologia infantile;   
-3) neuropsichiatria infantile;   
-4) epidemiologia, statistica medica e biometria;   
-5) epidemiologia e prevenzione di malattie di importanza sociale nell'eta' evolutiva;   
-6) igiene dell'alimentazione;   
-7) medicina scolastica e sua legislazione;   
-8) psicologia dell'eta' evolutiva;   
-9) fisioterapia e riabilitazione;   
-10) consulenza genetica sul territorio;   
-11) patologia e clinica delle malattie di importanza   
-sociale nell'eta' evolutiva.   
-4° Anno:   
-1) adolescentologia II;   
-2) medicina dello sport nell'eta' evolutiva;   
-3) odontologia e odontoiatria;   
-4) ortopedia e traumatologia nell'eta' evolutiva;   
-5) legislazione ed assistenza sociale per l'infanzia e   
-l'adolescenza;   
-6) informazione sanitaria;   
-7) servizi pubblici extra-ospedalieri di sanita' e assistenza per l'eta' evolutiva;   
-8) psicopedagogia;   
-9) sociologia applicata alla popolazione infantile.   
-Art. 337. - La frequenza alle lezioni, alle esercitazioni pratiche nei reparti e' obbligatoria: gli allievi che non conseguono le attestazioni di frequenza non possono essere ammessi a sostenere le prove di esame.   
-Il tirocinio pratico durante il quarto anno della scuola, per l'indirizzo di neonatologia e patologia neonatale potra' essere svolto oltreche' presso l'istituto ove la scuola ha sede, presso strutture assistenziali che abbiano, a giudizio del consiglio della scuola, caratteristiche idonee allo scopo.   
-Tale tirocinio sara' attestato per iscritto dal responsabile di ciascuna struttura.   
-Il tirocinio pratico durante il quarto anno per l'indirizzo di pediatria sociale, e' previsto sia svolto almeno in parte, in accordo con le amministrazioni competenti (regioni, province, comuni) presso strutture assistenziali sul territorio (consultori, ecc.) che abbiano, a giudizio del consiglio della scuola, caratteristiche idonee allo scopo. Tale tirocinio sara' attestato dall'ente responsabile della struttura.   
-Alla fine di ciascun anno di corso gli allievi, per essere ammessi agli anni successivi, debbono superare le prove di esame teorico-pratiche sulle materie impartite durante l'anno; per le materie a corso biennale, l'esame sara' sostenuto sotto forma di colloquio, al termine di ciascun anno.   
-Superati gli esami finali, l'allievo sosterra' l'esame di diploma, che potra' essere costituito anche da una dissertazione orale su un argomento precedentemente concordato.   
-All'allievo risultato idoneo verra' rilasciato il diploma di specialista in pediatria preventiva e puericultura, con espressa menzione dell'indirizzo seguito, valido a tutti gli effetti di legge.   
+Art. 500. - Presso la facolta' di medicina e chirurgia e' istituita la scuola diretta a fini speciali per tecnici di neurofisiopatologia.  
+La scuola ha lo scopo di impartire agli allievi, con unita' di indirizzo e metodo scientifico, tutte le nozioni tecniche e pratiche necessarie a ben esercitare la professione di tecnico di neurofisiopatologia.  
+Art. 501. - La durata degli studi e' di tre anni accademici. Alla scuola possono essere ammessi allievi di ambo i sessi, forniti del titolo di istruzione di secondo grado e che abbiano compiuto il sedicesimo anno di eta'.  
+Art. 502. - Al primo anno della scuola si accede previo esame di cultura generale e attitudinale davanti ad una commissione composta dal direttore della scuola e da due insegnanti della scuola stessa.  
+A giudizio del consiglio della scuola possono essere ammessi, per i primi due anni d'istituzione, anche allievi in possesso di titolo di studio di scuola media inferiore che svolgono da almeno cinque anni mansioni di tecnico di neurofisiopatologia presso un istituto o clinica universitaria o servizio di ospedale regionale.  
+Tali allievi, oltre all'esame di ammissione, dovranno superare un esame tecnico-pratico sulle mansioni svolte.  
+Art. 503. - Il numero massimo degli allievi che possono essere ammessi ad ogni anno di corso della scuola e' di quindici.  
+Art. 504. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa.  
+In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
+Il consiglio della scuola si compone degli insegnanti che vi svolgono i corsi prescritti.  
+La scuola e' sotto la vigilanza della facolta' di medicina e chirurgia.  
+Gli insegnanti della scuola sono proposti dal direttore della stessa, approvati dalla facolta' di medicina e chirurgia e nominati dal rettore.  
+Essi possono essere scelti fra i professori ufficiali, tra i liberi docenti, tra gli assistenti della facolta' di medicina e chirurgia e di facolta' dell'ateneo o tra persone di riconosciuta competenza anche al di fuori dell'ambito universitario.  
+Art. 505. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1) strumentazione medicale per analisi di segnali elettrofisiologici I;  
+2) nozioni generali di anatomia e fisiologia umana;  
+3) anatomia funzionale del sistema nervoso e dello apparato motore;  
+4) fisiologia del sistema nervoso e dell'apparato motore;  
+5) nozioni di igiene ospedaliera;  
+6) lingua inglese I.  
+2° Anno:  
+1) strumentazione medicale per analisi di segnali elettrofisiologici II;  
+2) patologia del sistema nervoso e dell'apparato motore;  
+3) l'epilessia;  
+4) tecniche di registrazione EEGrafiche, EMGrafiche, poligrafiche - reo ed ecografiche - doppler;  
+5) rilevamento di dati non strumentali e archiviazione;  
+6) norme di sicurezza e protezione elettrica del paziente;  
+7) lingua inglese II.  
+3° Anno:  
+1) tecniche di registrazioni speciali (segnali analogici e digitali) e analisi "on line" assistite da computer;  
+2) registrazioni poligrafiche del sonno;  
+3) neuropsichiatria infantile;  
+4) registrazioni in anestesia e rianimazione; morte cerebrale;  
+5) esercitazioni e tirocinio;  
+6) lingua inglese III.  
+Per le materie a corso pluriennale l'esame sara' unico.  
+Art. 506. - La frequenza alle lezioni teoriche e alle esercitazioni pratiche e' obbligatoria. Per la validita' dell'anno gli allievi devono partecipare almeno ai due terzi delle lezioni sia teoriche che pratiche.  
+I programmi di insegnamento e gli orari vengono predisposti dal direttore della scuola e approvati dal consiglio della facolta' di medicina e chirurgia.  
+Per essere ammessi a sostenere l'esame di diploma gli allievi dovranno aver seguito i corsi, superato gli esami in tutti gli insegnamenti prescritti e aver compiuto, con esito favorevole, tutte le esercitazioni pratiche previste.  
+Le commissioni per gli esami di profitto sono nominate dal preside della facolta' di medicina e chirurgia, su proposta del direttore della scuola, e composte da tre membri: dal professore ufficiale della materia, da un professore ufficiale di materia affine e da un cultore della materia. Ogni commissario ha a disposizione dieci punti.  
+L'esame di diploma consiste in un esame orale sui temi trattati durante il corso degli studi ed in una prova pratica.  
+La commissione esaminatrice e' composta da cinque membri nominati dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola.  
+Ogni commissario ha a disposizione dieci punti. I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza della scuola; se al secondo esame non sia loro riconosciuta l'idoneita' saranno esclusi da ulteriori prove.  
+Agli allievi che avranno superato l'esame finale verra' rilasciato il diploma di tecnico di neurofisiopatologia.  
+Le tasse, soprattasse e contributi generali sono quelli previsti per gli iscritti al corso di laurea in medicina e chirurgia; il contributo speciale viene fissato con le procedure previste dalla [legge 18 dicembre 1951, numero 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551).  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, 31 ottobre 1981
+### Dato a Roma, addi' 31 ottobre 1981
 
 PERTINI BODRATO
 
@@ -148,4 +104,4 @@ Visto, il Guardasigilli: DARIDA
 
 Registrato alla Corte dei conti, addi' 9 febbraio 1982
 
-Registro n. 20 Istruzione, foglio n. 170
+Registro n. 20 Istruzione, foglio n. 231

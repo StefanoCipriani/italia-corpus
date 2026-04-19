@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1986 n. 1068
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 488
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1986 n. 1068
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 488
+=============================================================
 
 Modificazione allo statuto della seconda Universita' degli studi di Roma.
 -------------------------------------------------------------------------
@@ -22,13 +22,11 @@ Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?u
 
 Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata [legge n. 615/1981](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;615);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici della seconda Universita' degli studi di Roma e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
+Veduto il parere del Consiglio universitario nazionale;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
@@ -41,20 +39,19 @@ Articolo unico
 --------------
 
   
-Nell'art. 51, relativo al corso di laurea in medicina e chirurgia, e' inserito l'insegnamento complementare di "clinica delle malattie infettive".  
+Art. 51 - nell'elenco degli insegnamenti del corso di laurea in medicina e chirurgia e' inserito il seguente insegnamento complementare:  
+radioterapia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 ottobre 1986
+### Dato a Roma, addi' 16 giugno 1983
 
-COSSIGA
+PERTINI FALCUCCI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: DARIDA
 
-Visto, il Guardasigilli: ROGNONI
+Registrato alla Corte dei conti, addi' 17 agosto 1983
 
-Registrato alla Corte dei conti, addi' 28 marzo 1987
-
-Registro n. 19 Istruzione, foglio n. 26
+Registro n. 59 Istruzione, foglio n. 147

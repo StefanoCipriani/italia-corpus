@@ -1,52 +1,72 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 luglio 1971 n. 711
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1984 n. 1011
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 luglio 1971 n. 711
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1984 n. 1011
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' di Bari, approvato con regio
+
+decreto 14 ottobre 1926, n. 2134, e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore,
+
+approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive
+
+modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Vedute le proposte di modifica dello statuto formulate dalle
+
+autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove
+
+modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Bari, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 20, relativo alle norme sulle propedeuticita' ed esame del corso di laurea in economia e commercio e' abrogato e sostituito dal seguente:  
-"Per gli esami devono essere osservate le seguenti precedenze:  
-1) l'esame di economia politica (1° anno) deve precedere quelli di politica economica e finanziaria, di scienza delle finanze e diritto finanziario, di economia e politica agraria;  
-2) l'esame di ragioneria generale ed applicata (primo anno) deve precedere quello di tecnica bancaria e professionale;  
-3) l'esame di istituzioni di diritto privato deve precedere quelli di diritto commerciale, di diritto internazionale, di diritto processuale civile, di diritto del lavoro, di diritto della navigazione, di diritto fallimentare, di diritto industriale;  
-4) l'esame di, istituzioni di diritto, pubblico deve precedere quelli di diritto internazionale, di diritto amministrativo, di diritto del lavoro, di diritto processuale civile;  
-5) l'esame di matematica generale deve precedere quelli di matematica finanziaria, di statistica (1° anno);  
-6) l'esame di statistica (1° anno) deve precedere quello di statistica (2° anno)".  
-Art. 26, relativo alle norme sulle propedeuticita' ed esame per il conseguimento del diploma in statistica, e' modificato nel senso che prima dell'ultimo comma e' aggiunto il seguente nuovo comma:  
-"L'esame di elementi di matematica deve precedere quello di statistica. Quest'ultimo esame deve precedere tutti gli esami delle statistiche speciali".  
-Art. 38: all'elenco degli istituti annessi alla facolta' di lettere e filosofia e' aggiunto il seguente:  
-Istituto di civilta' preclassiche (con annesso Museo paletnologico).  
+All'art. 137, concernente gli istituti annessi alla facolta' di   
+medicina veterinaria, e' aggiunto il seguente nuovo comma:   
+"Alla facolta' di medicina veterinaria e' annessa la biblioteca   
+centralizzata alla quale e' addetto personale appositamente designato dai competenti organi secondo le disposizioni vigenti".   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 6 luglio 1971
+### Dato a Roma, addi' 8 ottobre 1984
 
-SARAGAT MISASI
+PERTINI
 
-Visto, il Guardasigilli: COLOMBO
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 31 agosto 1971
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Atti del Governo, registro n. 244, foglio n. 53. - PASQUALUCCI
+Registrato alla Corte dei conti, addi' 30 gennaio 1985
+
+Registro n. 4 Istruzione, foglio n. 322

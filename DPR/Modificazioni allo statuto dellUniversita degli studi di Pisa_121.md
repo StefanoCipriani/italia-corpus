@@ -1,21 +1,182 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1973 n. 1152
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 agosto 1964 n. 903
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1973 n. 1152
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 agosto 1964 n. 903
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 24. - Agli insegnamenti complementari del corso di laurea in Scienze politiche sono aggiunti i seguenti:
+
+Matematica per economisti;
+
+Scienza della politica;
+
+Storia contemporanea;
+
+Storia dei partiti e movimenti politici;
+
+Storia del sindacalismo e del movimento operaio;
+
+Diritto pubblico romano;
+
+Diritto privato comparato.
+
+Art. 41. - Agli Istituti annessi alla Sezione di laurea in lingue e letterature straniere della Facolta' di economia e commercio, sono aggiunti i seguenti:
+
+Istituto di filologia germanica;
+
+Istituto di lingua e letteratura russa.
+
+Art. 82, relativo al corso di laurea in Matematica e' abrogato e sostituito dal seguente:
+
+La durata del corso degli studi per la laurea in Matematica e' di quattro anni.
+
+Titolo di ammissione e' il diploma di maturita' classica odi maturita' scientifica. Possono inoltre essere ammessi i diplomati dagli Istituti tecnici industriali, agrari, nautici e per geometri ai sensi delle vigenti disposizioni di legge.
+
+Il corso di studi si distingue in tre indirizzi: generale, didattico, applicativo.
+
+1° biennio:
+
+Sono insegnamenti fondamentali comuni a tutti gli indirizzi:
+
+per il primo anno:
+
+1) Analisi matematica I;
+
+2) Geometria I;
+
+3) Algebra;
+
+4) Fisica generale I;
+
+per il secondo anno:
+
+1) Analisi matematica II;
+
+2) Geometria II;
+
+3) Meccanica razionale;
+
+4) Fisica generale II.
+
+2° biennio:
+
+Sono insegnamenti fondamentali comuni ai tre indirizzi per il terzo anno
+
+1) Istituzioni di analisi superiore
+
+2) Istituzioni di geometria superiore
+
+3) Istituzioni di fisica matematica.
+
+L'insegnamento di Istituzioni di analisi superiore o quello di Istituzioni di fisica matematica potra' essere sostituito con quello fondamentale di Metodi matematici della fisica del corso di laurea in Fisica.
+
+Sono insegnamenti fondamentali, per l'indirizzo generale
+
+1) Analisi superiore
+
+2) Geometria superiore;
+
+per l'indirizzo applicativo;
+
+1) Calcoli numerici, grafici, meccanici ed elettronici;
+
+2) Matematiche superiori per l'indirizzo didattico
+
+1) Matematiche complementari;
+
+2) Teoria delle funzioni.
+
+Sono insegnamenti complementari comuni ai tre indirizzi:
+
+Insegnamenti complementari ad indirizzo fisico:
+
+Astronomia, Calcolo delle probabilita', Cibernetica e teoria dell'informazione, Complementi di fisica generale, Elettronica, Fisica dello stato solido, Fisica matematica, Fisica nucleare, Fisica superiore, Fisica teorica, Geodesia, Istituzioni di fisica teorica, Meccanica quantistica, Meccanica statistica, Meccanica superiore, Onde elettromagnetiche, Relativita', Teoria ed applicazioni delle macchine calcolatrici.
+
+Insegnamenti complementari ad indirizzo matematico:
+
+Algebra superiore, Analisi funzionale, Analisi superiore, Astronomia, Calcolo delle probabilita', Cibernetica e teorica dell'informazione, Economia matematica, Geodesia, Geometria algebrica, Geometria differenziale, Logica matematica, Matematica finanziaria ed attuariale, Matematiche elementari da un punto di vista superiore, Pedagogia, Statistica matematica, Storia delle matematiche, Teoria dei numeri, Teoria ed applicazioni delle macchine calcolatrici, Topologia.
+
+Ciascuno degli insegnamenti, sia fondamentali che complementari importa un esame finale.
+
+Ciascun insegnamento fondamentale di ciascuno dei tre indirizzi e' insegnamento complementare per quegli indirizzi per cui esso non e' fondamentale.
+
+Per essere ammesso al secondo anno lo studente deve aver ottenuto le firme di frequenza dei tre corsi di "Analisi matematica I", "Geometria I", "Algebra" e deve aver superato almeno due dei relativi esami finali.
+
+Le frequenze a tutti i corsi del primo biennio devono procedere l'iscrizione ai corsi del secondo biennio.
+
+La scelta fra i tre indirizzi avviene all'inizio del terzo anno.
+
+Per essere ammesso all'esame di laurea per l'indirizzo scelto lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali per tale indirizzo ed in almeno due insegnamenti da lui scelti fra i complementari.
+
+Art. 84. - Agli insegnamenti complementari del corso di laurea in Scienze naturali e' aggiunto quello di "Cristallografia".
+
+Art. 89. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche e' aggiunto quello di "Cristallografia".
+
+Art. 127. - Agli insegnamenti complementari del corso di laurea in Scienze agrarie sono aggiunti quelli di:
+
+24) Fisiologia vegetale;
+
+25) Cooperazione agricola;
+
+26) Tecnica della conservazione dei prodotti agricoli;
+
+27) Scienza dell'alimentazione del bestiame.
+
+Art. 131, relativo alle propedeuticita' del corso di laurea in Scienze agrarie, e' modificato nel senso che e' aggiunto il seguente comma: "Gli esami di Botanica generale, Botanica sistematica, Agronomia generale e coltivazioni erbacee I e II debbono essere superati prima di quello riguardante l'Agricoltura tropicale e subtropicale".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 3 agosto 1964
+
+SEGNI
+
+GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 10 ottobre 1964 Atti del Governo, registro n. 187, foglio n. 96. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -24,73 +185,79 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-L'art. 245, relativo alle norme generali per le scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' abrogato e sostituito dal seguente:  
-Art. 245. - L'insegnamento e' impartito mediante corsi e gruppi di lezione. Il corso comprende non meno di 25 o di 50 lezioni. Esso puo' essere istituito nelle scuole in cui se ne ravvisi l'opportunita' in rapporto ad esigenze didattiche.  
-Puo' comprendere una materia solo o un gruppo di materie affini comprese nello statuto di scuole anche diverse.  
-Viene proposto dalla facolta' su indicazione dei direttori delle scuole interessate e approvato dal rettore, entro il mese di giugno.  
-Il conferimento dell'incarico del gruppo di lezioni viene proposto dal consiglio di facolta' su indicazione del direttore della scuola e approvato dal rettore entro il mese di giugno.  
-E' consentito il cumulo degli incarichi di gruppi di lezioni.  
-L'art. 302, relativo alla "Scuola di specializzazione in cardiologia e reumatologia", che muta la denominazione in quella di "Scuola di specializzazione in malattie dell'apparato cardiovascolare", e' abrogato e sostituito dai seguenti:  
   
-Scuola di specializzazione in malattie dell'apparato cardiovascolare   
-Art. 302. - Il numero degli iscritti e' di dieci per ogni anno di corso.  
-Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-Anatomia normale dell'apparato cardio-vascolare;  
-Fisiologia dell'apparato cardio-vascolare e respiratorio;  
-Fisiopatologia cardio-vascolare e respiratoria (1° corso);  
-Patologia cardio-vascolare (1° corso);  
-Semeiologia fisica (1° corso);  
-Semeiologia strumentale (1° corso).  
-2° Anno:  
-Fisiopatologia cardio-vascolare e respiratoria (2° corso);  
-Patologia cardio-vascolare (2° corso);  
-Semeiologia fisica (2° corso);  
-Semeiologia strumentale (2° corso);  
-Anatomia patologica dell'apparato cardio vascolare (1° corso);  
-Radiologia;  
-Farmacologia;  
-Clinica e terapia (1° corso).  
-3° Anno:  
-Anatomia patologica dell'apparato cardio-vascolare (2° corso);  
-Clinica e terapia (2° corso);  
-Chirurgia dell'apparato cardiovascolare;  
-Statistica ed epidemiologia.  
+Art. 24. - Agli insegnamenti complementari del corso di laurea in Scienze politiche sono aggiunti i seguenti:  
+Matematica per economisti;  
+Scienza della politica;  
+Storia contemporanea;  
+Storia dei partiti e movimenti politici;  
+Storia del sindacalismo e del movimento operaio;  
+Diritto pubblico romano;  
+Diritto privato comparato.  
+Art. 41. - Agli Istituti annessi alla Sezione di laurea in lingue e letterature straniere della Facolta' di economia e commercio, sono aggiunti i seguenti:  
+Istituto di filologia germanica;  
+Istituto di lingua e letteratura russa.  
+Art. 82, relativo al corso di laurea in Matematica e' abrogato e sostituito dal seguente:  
   
-Dopo l'art. 362, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della "Scuola di specializzazione in anatomia e istologia patologica".  
-  
-Scuola di specializzazione in anatomia e istologia patologica  
-  
-Art. 363. - La scuola ha la durata di tre anni e ha sede presso l'istituto di anatomia e istologia patologica. Il direttore della scuola e' il professore di ruolo della materia. Il numero degli iscritti e' limitato a cinque per ciascun anno di corso.  
-Art. 364. - Le materie di insegnamento sono:  
-1° Anno:  
-Tecnica delle autopsie;  
-Diagnostica anatomo-patologica macroscopica;  
-Anatomia patologica sistematica 1°;  
-Tecnica istologica ed istochimica 1°.  
-2° Anno:  
-Anatomia patologica sistematica 2°;  
-Tecnica istologica ed istochimica 2°;  
-Diagnostica istopatologica 1°;  
-Elementi di macroscopica elettronica.  
-3° Anno:  
-Diagnostica istopatologica 2°:  
-Diagnostica ematologica;  
-Tecnica e diagnostica citologica;  
-Legislazione sanitaria tanatologica.  
-  
-Art. 365. - I corsi teorici e pratici sono integrati da internati ed esercitazioni. L'internato si intende continuativo per la durata dei corsi presso l'istituto di anatomia e istologia patologica.  
+La durata del corso degli studi per la laurea in Matematica e' di quattro anni.  
+Titolo di ammissione e' il diploma di maturita' classica odi maturita' scientifica. Possono inoltre essere ammessi i diplomati dagli Istituti tecnici industriali, agrari, nautici e per geometri ai sensi delle vigenti disposizioni di legge.  
+Il corso di studi si distingue in tre indirizzi: generale, didattico, applicativo.  
+1° biennio:  
+Sono insegnamenti fondamentali comuni a tutti gli indirizzi:  
+per il primo anno:  
+1) Analisi matematica I;  
+2) Geometria I;  
+3) Algebra;  
+4) Fisica generale I;  
+per il secondo anno:  
+1) Analisi matematica II;  
+2) Geometria II;  
+3) Meccanica razionale;  
+4) Fisica generale II.  
+2° biennio:  
+Sono insegnamenti fondamentali comuni ai tre indirizzi per il terzo anno  
+1) Istituzioni di analisi superiore  
+2) Istituzioni di geometria superiore  
+3) Istituzioni di fisica matematica.  
+L'insegnamento di Istituzioni di analisi superiore o quello di Istituzioni di fisica matematica potra' essere sostituito con quello fondamentale di Metodi matematici della fisica del corso di laurea in Fisica.  
+Sono insegnamenti fondamentali, per l'indirizzo generale  
+1) Analisi superiore  
+2) Geometria superiore;  
+per l'indirizzo applicativo;  
+1) Calcoli numerici, grafici, meccanici ed elettronici;  
+2) Matematiche superiori per l'indirizzo didattico  
+1) Matematiche complementari;  
+2) Teoria delle funzioni.  
+Sono insegnamenti complementari comuni ai tre indirizzi:  
+Insegnamenti complementari ad indirizzo fisico:  
+Astronomia, Calcolo delle probabilita', Cibernetica e teoria dell'informazione, Complementi di fisica generale, Elettronica, Fisica dello stato solido, Fisica matematica, Fisica nucleare, Fisica superiore, Fisica teorica, Geodesia, Istituzioni di fisica teorica, Meccanica quantistica, Meccanica statistica, Meccanica superiore, Onde elettromagnetiche, Relativita', Teoria ed applicazioni delle macchine calcolatrici.  
+Insegnamenti complementari ad indirizzo matematico:  
+Algebra superiore, Analisi funzionale, Analisi superiore, Astronomia, Calcolo delle probabilita', Cibernetica e teorica dell'informazione, Economia matematica, Geodesia, Geometria algebrica, Geometria differenziale, Logica matematica, Matematica finanziaria ed attuariale, Matematiche elementari da un punto di vista superiore, Pedagogia, Statistica matematica, Storia delle matematiche, Teoria dei numeri, Teoria ed applicazioni delle macchine calcolatrici, Topologia.  
+Ciascuno degli insegnamenti, sia fondamentali che complementari importa un esame finale.  
+Ciascun insegnamento fondamentale di ciascuno dei tre indirizzi e' insegnamento complementare per quegli indirizzi per cui esso non e' fondamentale.  
+Per essere ammesso al secondo anno lo studente deve aver ottenuto le firme di frequenza dei tre corsi di "Analisi matematica I", "Geometria I", "Algebra" e deve aver superato almeno due dei relativi esami finali.  
+Le frequenze a tutti i corsi del primo biennio devono procedere l'iscrizione ai corsi del secondo biennio.  
+La scelta fra i tre indirizzi avviene all'inizio del terzo anno.  
+Per essere ammesso all'esame di laurea per l'indirizzo scelto lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali per tale indirizzo ed in almeno due insegnamenti da lui scelti fra i complementari.  
+Art. 84. - Agli insegnamenti complementari del corso di laurea in Scienze naturali e' aggiunto quello di "Cristallografia".  
+Art. 89. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche e' aggiunto quello di "Cristallografia".  
+Art. 127. - Agli insegnamenti complementari del corso di laurea in Scienze agrarie sono aggiunti quelli di:  
+24) Fisiologia vegetale;  
+25) Cooperazione agricola;  
+26) Tecnica della conservazione dei prodotti agricoli;  
+27) Scienza dell'alimentazione del bestiame.  
+Art. 131, relativo alle propedeuticita' del corso di laurea in Scienze agrarie, e' modificato nel senso che e' aggiunto il seguente comma: "Gli esami di Botanica generale, Botanica sistematica, Agronomia generale e coltivazioni erbacee I e II debbono essere superati prima di quello riguardante l'Agricoltura tropicale e subtropicale".  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle legge dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 ottobre 1973
+### Dato a Roma, addi' 3 agosto 1964
 
-LEONE MALFATTI
+SEGNI GUI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 26 ottobre 1974
+Registrato alla Corte dei conti, addi' 10 ottobre 1964
 
-Atti di Governo, registro n. 6, foglio n. 30. - SCIARRETTA
+Atti del Governo, registro n. 187, foglio n. 96. - VILLA

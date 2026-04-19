@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1027
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1985 n. 142
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1027
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1985 n. 142
+==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Pavia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -39,19 +39,30 @@ Articolo unico
 --------------
 
   
-L'art. 458, relativo alla scuola per tecnici di istituti medico-biologici, e' soppresso e sostituito dal seguente:  
-Art. 458. - La scuola prende il nome di "scuola per tecnici di istituti medico-biologici", ha la durata di due anni e conferisce il diploma di tecnico di istituti medico-biologici; ne e' titolo di ammissione il diploma secondario di secondo grado.  
+Art. 59 - nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono inclusi i seguenti insegnamenti: chimica tossicologica forense;  
+terapia pediatrica sistematica;  
+semeiotica pediatrica;  
+scienze dell'ortogenesi;  
+chirurgia oncologica;  
+chirurgia endocrinologica;  
+chirurgia d'urgenza;  
+neurotraumatologia;  
+parassitologia medica;  
+psicologia dell'eta' evolutiva;  
+allergologia pediatrica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1981
+### Dato a Roma, addi' 10 gennaio 1985
 
-PERTINI BODRATO
+PERTINI
 
-Visto, il Guardasigilli: DARIDA
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 24 febbraio 1982
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registro n. 30 Istruzione, foglio n. 380
+Registrato alla Corte dei conti, addi' 11 aprile 1985
+
+Registro n. 22 Istruzione, foglio n. 144

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 aprile 1982 n. 469
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 679
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 aprile 1982 n. 469
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 679
 =============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-469. Decreto del Presidente della Repubblica 21 aprile 1982, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato della donazione, consistente in una collezione composta di un gruppo di diciannove opere le quali rivestono un importante interesse artistico, da destinare alla soprintendenza speciale alla Galleria nazionale d'arte moderna e contemporanea in Roma, disposta dai signori Francesco Pascali e Lucia Pomodoro, con atto di donazione 23 novembre 1978, n. 73338 di repertorio, a rogito dott.  
-Corrado Magarelli, notaio in Castellana Grotte (Bari).  
+679. Decreto del Presidente della Repubblica 17 maggio 1986, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato della donazione, consistente in una raccolta di cinque tavole e una statuetta di porcellana, le quali rivestono un interesse artistico, con destinazione alla Pinacoteca nazionale di Brera, in Milano, disposta dal conte Alfredo Gerli con atto 1 dicembre 1982, a rogito prof. Carlo Bertelli, soprintendente per i beni artistici e storici di Milano, registrato a Milano in data 13 dicembre 1982 al n. 55208.   
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 12 luglio 1982  
-Registro n. 16 Beni culturali, foglio n. 368
+Visto, il Guardasigilli: ROGNONI   
+Registrato alla Corte dei conti, addi' 10 ottobre 1986   
+Registro n. 26 Beni culturali, foglio n. 121

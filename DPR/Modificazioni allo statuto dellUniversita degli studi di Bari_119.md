@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 aprile 1965 n. 451
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1247
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 aprile 1965 n. 451
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1247
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -22,196 +22,195 @@ Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?u
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro per la pubblica istruzione:
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 20. - Agli insegnamenti complementari del corso di laurea in Economia e commercio e' aggiunto quello di "Diritto fallimentare".
+Art. 68 - all'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti i seguenti:
 
-Art. 35. - Agli insegnamenti complementari del corso di laurea in Farmacia e' aggiunto quello di "Chimica delle sostanze organiche naturali".
+miglioramento genetico degli alberi forestali;
 
-Art. 52. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti quelli di "Storia della geografia" e di "Civilta' egee".
+salvaguardia e valutazione delle risorse genetiche;
 
-Art. 90, relativo alle norme sulla propedeuticita' del corso di laurea in Scienze biologiche, e' modificato nel senso che e' aggiunta la seguente disposizione:
+geologia applicata.
 
-h) non potra' essere ammesso a sostenere gli esami di Genetica senza prima aver superato gli esami di Botanica e di Zoologia.
+Lo stesso elenco e' modificato nel senso che gli insegnamenti semestrali di produzione e controllo delle sementi e di batteriologia fitopatologica mutano la denominazione in quella di principi e metodologie genetiche delle produzioni sementiere (annuale) e di fitobatteriologia (annuale) ed i seguenti insegnamenti passano da semestrali ad annuali:
 
-Dopo l'art. 142, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di perfezionamento in Fisica con il conseguente spostamento della numerazione successiva.
+bachicoltura e apicoltura;
 
-Scuola di perfezionamento in Fisica
+colture protette;
 
-Art. 143. - Presso la Facolta' di scienze matematiche, fisiche e naturali e' istituita una Scuola di perfezionamento in fisica. Essa ha lo scopo di preparare i laureati alla ricerca scientifica, all'insegnamento e alle applicazioni pratiche nel campo della fisica.
+coniglicoltura;
 
-Art. 144. - La Scuola e' retta da un Consiglio direttivo composto da cinque docenti della Scuola, nominati dal rettore su proposta del Consiglio di facolta'. Il Consiglio direttivo nominera' il direttore scegliendolo tra i suoi membri.
+edilizia zootecnica;
 
-Art. 145. - Il Consiglio direttivo determina per ogni anno accademico:
+fisioclimatologia animale;
 
-a) gli indirizzi di specializzazione della Scuola;
+foraggicoltura;
 
-b) i programmi dei singoli corsi e la rispettiva durata;
+frutticoltura industriale;
 
-c) il numero degli esami richiesti per il conseguimento del diploma secondo le diverse specializzazioni e le modalita' di essi;
+igiene zootecnica;
 
-d) quali corsi dovranno essere considerati come fondamentali e quali complementari;
+micotossicologia;
 
-e) il numero degli allievi che possono ammettersi e i requisiti per l'ammissione;
+patologia delle piante ortive;
 
-f) le proposte da sottoporre al Consiglio di amministrazione in merito all'ammontare dei contributi da richiedere per la iscrizione ai singoli corsi e all'impiego di questi per il funzionamento della scuola.
+patologia delle sementi;
 
-Art. 146. - Di uno stesso insegnamento, genericamente indicato in seguito, possono venire incaricati piu' docenti aventi specifica competenza nelle diverse parti del programma.
+tecnica delle applicazioni frigorifere.
 
-Art. 147. - Alla Scuola di perfezionamento sono ammessi i laureati in Fisica, in Matematica, in Chimica ed in Ingegneria.
+L'art. 76, relativo all'elenco degli istituti annessi alla facolta' di agraria, e' modificato nel senso che all'istituto di agronomia e coltivazioni erbacee fa capo anche l'insegnamento di giardini e tappeti erbosi; all'istituto di microbiologia agraria e tecnica fa capo l'insegnamento di microbiologia delle contaminazioni dell'ambiente e dei prodotti agricoli, all'istituto di zootecnia fa capo l'insegnamento di fisiologia della nutrizione animale; all'istituto di meccanica agraria fanno capo gli insegnamenti di meccanizzazione delle aziende zootecniche e di macchine e attrezzature per la sistemazione e per grandi movimenti di terra.
 
-Art. 148. - Per il conseguimento del diploma di perfezionamento in Fisica si richiede una frequenza di due anni. E' in facolta' del Consiglio direttivo di abbreviare questo termine ad un anno, in casi speciali, tenendo conto dei titoli dei singoli candidati, in particolare di quelli provenienti da altre scuole di perfezionamento.
+All'istituto di industrie agrarie fa capo l'insegnamento di chimica e tecnologia degli alimenti; all'istituto di estimo rurale e contabilita' fa capo l'insegnamento di metodologia della pratica estimativa; all'istituto di entomologia agraria fa capo l'insegnamento di entomologia forestale.
 
-Art. 149. - La Scuola ha sede nei locali dell'Istituto di fisica della Universita' di Bari.
+Dopo l'art. 76, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione del seminario di studi di genetica agraria.
 
-Art. 150. - Gli insegnamenti previsti per la Scuola sono i seguenti:
+Seminario di studi di genetica agraria
 
-1) Fisica teorica;
+Art. 77. - Il seminario di genetica agraria e' istituito con lo scopo di promuovere il progresso degli studi di genetica applicata alle produzioni vegetali e animali attraverso conferenze, cicli di lezioni, riunioni e pubblicazioni a carattere interdisciplinare e di ampliare e completare la formazione e la preparazione scientifica dei giovani.
 
-2) Fisica delle particelle elementari;
+Art. 78. - Organo direttivo del seminario e' il consiglio direttivo. Il consiglio direttivo e' nominato dal consiglio di facolta'; esso e' costituito da cinque professori ufficiali della facolta' di agraria, almeno tre dei quali appartenenti agli istituti di miglioramento genetico delle piante agrarie, di agronomia e coltivazioni erbacee e di zootecnia.
 
-3) Fisica dei nuclei;
+Art. 79. - Il consiglio direttivo stabilisce le linee generali di sviluppo e le attivita' scientifiche del seminario.
 
-4) Tecniche nucleari;
+Art. 80. - Il consiglio direttivo nomina tra i suoi membri un direttore. Il consiglio e il direttore durano in carica tre anni.
 
-5) Reattori nucleari;
+Gli atti amministrativi hanno la firma del direttore che e' il responsabile del seminario.
 
-6) Macchine acceleratrici;
+Art. 81. - Il seminario ha sede presso l'istituto di miglioramento genetico nelle piante agrarie.
 
-7) Fisica dello spazio;
+Art. 129 - all'elenco degli istituti, annessi alla facolta' di medicina veterinaria, sono aggiunti i seguenti istituti policattedra:
 
-8) Fisica dei plasmi;
+istituto di clinica medica veterinaria:
 
-9) Astrofisica;
+istituto di ispezione degli alimenti;
 
-10) Elettrodinamica;
+istituto di patologia delle malattie infettive e parassitarie degli animali domestici;
 
-11) Fisica delle basse temperature;
+istituto di alimentazione e nutrizione animale;
 
-12) Elettronica;
+istituto di zootecnica.
 
-13) Cibernetica e teoria dell'informazione;
+L'art. 130, relativo al centro di microscopia elettronica, e' abrogato e sostituito dal seguente:
 
-14) Semiconduttori;
+E' istituito presso l'Universita' degli studi di Bari un centro di microscopia elettronica. Esso ha sede propria e svolge attivita' scientifica e didattica in campo medico, biologico e abiologico.
 
-15) Fisica dei solidi;
+Il centro e' diretto da un comitato esecutivo composto dal direttore e da sette membri in rappresentanza delle facolta' di medicina e chirurgia, ingegneria, scienze, agraria, farmacia, economia e commercio e medicina veterinaria.
 
-16) Fisica atomica;
+Il direttore e' nominato, per un quinquennio, dal rettore su proposta dei rappresentanti delle facolta' in seno al comitato esecutivo fra i professori ufficiali dell'Universita' di Bari particolarmente competenti nel campo della microscopia elettronica.
 
-17) Radiochimica;
+I membri rappresentanti delle facolta' sono designati dai rispettivi consigli di facolta'; essi durano in carica per due anni e possono essere confermati.
 
-18) Chimica nucleare;
+Al comitato esecutivo e' devoluta la responsabilita' dell'attivita' scientifica e della gestione tecnica ed amministrativa del centro.
 
-19) Geologia nucleare;
+Il centro dispone di un fondo destinato sia al mantenimento e al miglioramento delle attrezzature sia alle spese di gestione.
 
-20) Meccanica statistica;
+Detti fondi sono costituiti da:
 
-21) Relativita';
+a) una dotazione annuale stabilita, su proposta del rettore, dal consiglio di amministrazione dell'Universita' degli studi di Bari;
 
-22) Fisica degli stati aggregati;
+b) fondi provenienti da enti pubblici o privati, sia sotto forma di donazione, sia in seguito a richieste del comitato esecutivo;
 
-23) Matematiche superiori;
+c) contributo dei vari istituti o ricercatori per le ricerche eseguite.
 
-24) Corsi monografici.
+Il funzionamento del centro e' disciplinato da un apposito regolamento.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 15 aprile 1965
+Dato a Roma, addi' 31 ottobre 1977
 
-SARAGAT
+LEONE
 
-GUI
+MALFATTI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BONIFACIO
 
 Registrato
 ----------
 
-alla corte dei conti, addi' 15 maggio 1965 Atti del Governo, registro n. 193, foglio n. 89. - VILLA
+alla Corte dei conti, addi' 18 luglio 1978 Registro n. 77 Istruzione, foglio n. 333
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione:  
+Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 20. - Agli insegnamenti complementari del corso di laurea in Economia e commercio e' aggiunto quello di "Diritto fallimentare".  
-Art. 35. - Agli insegnamenti complementari del corso di laurea in Farmacia e' aggiunto quello di "Chimica delle sostanze organiche naturali".  
-Art. 52. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti quelli di "Storia della geografia" e di "Civilta' egee".  
-Art. 90, relativo alle norme sulla propedeuticita' del corso di laurea in Scienze biologiche, e' modificato nel senso che e' aggiunta la seguente disposizione:  
-h) non potra' essere ammesso a sostenere gli esami di Genetica senza prima aver superato gli esami di Botanica e di Zoologia.  
-Dopo l'art. 142, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di perfezionamento in Fisica con il conseguente spostamento della numerazione successiva.  
-  
-Scuola di perfezionamento in Fisica  
-Art. 143. - Presso la Facolta' di scienze matematiche, fisiche e naturali e' istituita una Scuola di perfezionamento in fisica. Essa ha lo scopo di preparare i laureati alla ricerca scientifica, all'insegnamento e alle applicazioni pratiche nel campo della fisica.  
-Art. 144. - La Scuola e' retta da un Consiglio direttivo composto da cinque docenti della Scuola, nominati dal rettore su proposta del Consiglio di facolta'. Il Consiglio direttivo nominera' il direttore scegliendolo tra i suoi membri.  
-Art. 145. - Il Consiglio direttivo determina per ogni anno accademico:  
-a) gli indirizzi di specializzazione della Scuola;  
-b) i programmi dei singoli corsi e la rispettiva durata;  
-c) il numero degli esami richiesti per il conseguimento del diploma secondo le diverse specializzazioni e le modalita' di essi;  
-d) quali corsi dovranno essere considerati come fondamentali e quali complementari;  
-e) il numero degli allievi che possono ammettersi e i requisiti per l'ammissione;  
-f) le proposte da sottoporre al Consiglio di amministrazione in merito all'ammontare dei contributi da richiedere per la iscrizione ai singoli corsi e all'impiego di questi per il funzionamento della scuola.  
-Art. 146. - Di uno stesso insegnamento, genericamente indicato in seguito, possono venire incaricati piu' docenti aventi specifica competenza nelle diverse parti del programma.  
-Art. 147. - Alla Scuola di perfezionamento sono ammessi i laureati in Fisica, in Matematica, in Chimica ed in Ingegneria.  
-Art. 148. - Per il conseguimento del diploma di perfezionamento in Fisica si richiede una frequenza di due anni. E' in facolta' del Consiglio direttivo di abbreviare questo termine ad un anno, in casi speciali, tenendo conto dei titoli dei singoli candidati, in particolare di quelli provenienti da altre scuole di perfezionamento.  
-Art. 149. - La Scuola ha sede nei locali dell'Istituto di fisica della Universita' di Bari.  
-Art. 150. - Gli insegnamenti previsti per la Scuola sono i seguenti:  
-1) Fisica teorica;  
-2) Fisica delle particelle elementari;  
-3) Fisica dei nuclei;  
-4) Tecniche nucleari;  
-5) Reattori nucleari;  
-6) Macchine acceleratrici;  
-7) Fisica dello spazio;  
-8) Fisica dei plasmi;  
-9) Astrofisica;  
-10) Elettrodinamica;  
-11) Fisica delle basse temperature;  
-12) Elettronica;  
-13) Cibernetica e teoria dell'informazione;  
-14) Semiconduttori;  
-15) Fisica dei solidi;  
-16) Fisica atomica;  
-17) Radiochimica;  
-18) Chimica nucleare;  
-19) Geologia nucleare;  
-20) Meccanica statistica;  
-21) Relativita';  
-22) Fisica degli stati aggregati;  
-23) Matematiche superiori;  
-24) Corsi monografici.  
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 68 - all'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti i seguenti:   
+miglioramento genetico degli alberi forestali;   
+salvaguardia e valutazione delle risorse genetiche;   
+geologia applicata.   
+Lo stesso elenco e' modificato nel senso che gli insegnamenti semestrali di produzione e controllo delle sementi e di batteriologia fitopatologica mutano la denominazione in quella di principi e metodologie genetiche delle produzioni sementiere (annuale) e di fitobatteriologia (annuale) ed i seguenti insegnamenti passano da semestrali ad annuali:   
+bachicoltura e apicoltura;   
+colture protette;   
+coniglicoltura;   
+edilizia zootecnica;   
+fisioclimatologia animale;   
+foraggicoltura;   
+frutticoltura industriale;   
+igiene zootecnica;   
+micotossicologia;   
+patologia delle piante ortive;   
+patologia delle sementi;   
+tecnica delle applicazioni frigorifere.   
+L'art. 76, relativo all'elenco degli istituti annessi alla facolta' di agraria, e' modificato nel senso che all'istituto di agronomia e coltivazioni erbacee fa capo anche l'insegnamento di giardini e tappeti erbosi; all'istituto di microbiologia agraria e tecnica fa capo l'insegnamento di microbiologia delle contaminazioni dell'ambiente e dei prodotti agricoli, all'istituto di zootecnia fa capo l'insegnamento di fisiologia della nutrizione animale; all'istituto di meccanica agraria fanno capo gli insegnamenti di meccanizzazione delle aziende zootecniche e di macchine e attrezzature per la sistemazione e per grandi movimenti di terra.  
+All'istituto di industrie agrarie fa capo l'insegnamento di chimica e tecnologia degli alimenti; all'istituto di estimo rurale e contabilita' fa capo l'insegnamento di metodologia della pratica estimativa; all'istituto di entomologia agraria fa capo l'insegnamento di entomologia forestale.   
+Dopo l'art. 76, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione del seminario di studi di genetica agraria.   
+Seminario di studi di genetica agraria   
+Art. 77. - Il seminario di genetica agraria e' istituito con lo scopo di promuovere il progresso degli studi di genetica applicata alle produzioni vegetali e animali attraverso conferenze, cicli di lezioni, riunioni e pubblicazioni a carattere interdisciplinare e di ampliare e completare la formazione e la preparazione scientifica dei giovani.   
+Art. 78. - Organo direttivo del seminario e' il consiglio direttivo. Il consiglio direttivo e' nominato dal consiglio di facolta'; esso e' costituito da cinque professori ufficiali della facolta' di agraria, almeno tre dei quali appartenenti agli istituti di miglioramento genetico delle piante agrarie, di agronomia e coltivazioni erbacee e di zootecnia.   
+Art. 79. - Il consiglio direttivo stabilisce le linee generali di sviluppo e le attivita' scientifiche del seminario.   
+Art. 80. - Il consiglio direttivo nomina tra i suoi membri un direttore. Il consiglio e il direttore durano in carica tre anni.   
+Gli atti amministrativi hanno la firma del direttore che e' il responsabile del seminario.   
+Art. 81. - Il seminario ha sede presso l'istituto di miglioramento genetico nelle piante agrarie.   
+Art. 129 - all'elenco degli istituti, annessi alla facolta' di medicina veterinaria, sono aggiunti i seguenti istituti policattedra:   
+istituto di clinica medica veterinaria:   
+istituto di ispezione degli alimenti;   
+istituto di patologia delle malattie infettive e parassitarie degli animali domestici;   
+istituto di alimentazione e nutrizione animale;   
+istituto di zootecnica.   
+L'art. 130, relativo al centro di microscopia elettronica, e' abrogato e sostituito dal seguente:   
+E' istituito presso l'Universita' degli studi di Bari un centro di microscopia elettronica. Esso ha sede propria e svolge attivita' scientifica e didattica in campo medico, biologico e abiologico.   
+Il centro e' diretto da un comitato esecutivo composto dal direttore e da sette membri in rappresentanza delle facolta' di medicina e chirurgia, ingegneria, scienze, agraria, farmacia, economia e commercio e medicina veterinaria.   
+Il direttore e' nominato, per un quinquennio, dal rettore su proposta dei rappresentanti delle facolta' in seno al comitato esecutivo fra i professori ufficiali dell'Universita' di Bari particolarmente competenti nel campo della microscopia elettronica.   
+I membri rappresentanti delle facolta' sono designati dai rispettivi consigli di facolta'; essi durano in carica per due anni e possono essere confermati.   
+Al comitato esecutivo e' devoluta la responsabilita' dell'attivita' scientifica e della gestione tecnica ed amministrativa del centro.   
+Il centro dispone di un fondo destinato sia al mantenimento e al miglioramento delle attrezzature sia alle spese di gestione.   
+Detti fondi sono costituiti da:   
+a) una dotazione annuale stabilita, su proposta del rettore, dal consiglio di amministrazione dell'Universita' degli studi di Bari;   
+b) fondi provenienti da enti pubblici o privati, sia sotto forma di donazione, sia in seguito a richieste del comitato esecutivo;   
+c) contributo dei vari istituti o ricercatori per le ricerche eseguite.   
+Il funzionamento del centro e' disciplinato da un apposito regolamento.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 15 aprile 1965
+### Dato a Roma, addi' 31 ottobre 1977
 
-SARAGAT GUI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla corte dei conti, addi' 15 maggio 1965
+Registrato alla Corte dei conti, addi' 18 luglio 1978
 
-Atti del Governo, registro n. 193, foglio n. 89. - VILLA
+Registro n. 77 Istruzione, foglio n. 333

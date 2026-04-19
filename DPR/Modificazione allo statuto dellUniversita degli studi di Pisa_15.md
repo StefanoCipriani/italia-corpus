@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 1079
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1985 n. 904
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 1079
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1985 n. 904
+================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
@@ -39,20 +39,22 @@ Articolo unico
 --------------
 
   
-Nell'art. 23, relativo al corso di laurea in giurisprudenza, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-storia degli ordinamenti degli stati italiani;  
-diritto privato dell'economia.  
+Nell'art. 132, relativo al corso di laurea in ingegneria, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
+  
+modelli di sistemi fisiologici.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 maggio 1983
+### Dato a Roma, addi' 27 settembre 1985
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 15 marzo 1984
+Registrato alla Corte dei conti, addi' 14 febbraio 1986
 
-Registro n. 16 Istruzione, foglio n. 169
+Registro n. 9 Istruzione, foglio n. 110

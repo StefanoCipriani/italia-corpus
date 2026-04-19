@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1950 n. 1153
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 gennaio 1954 n. 221
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1950 n. 1153
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 gennaio 1954 n. 221
+==============================================================
 
 Autorizzazione all'Universita' di Bari ad accettare una donazione.
 ------------------------------------------------------------------
@@ -12,7 +12,8 @@ Art. 1
 
 N.
 
-1153. Decreto del Presidente della Repubblica 25 ottobre 1950, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Bari viene autorizzata, ad accettare la donazione della somma di L. 315.030 disposta in suo favore dal Comitato pro borsa di studio "Prof. Michele Ragno" con atto pubblico amministrativo in data 29 ottobre 1949, per l'istituzione di una borsa di studio da intitolarsi al nome di detto professore e da conferirsi a laureati in farmacia nell'Universita' medesima, che abbiano elaborato una tesi sperimentale in chimica farmaceutica o in chimica organica e che si trovino nelle condizioni previste nel regolamento della borsa stessa.  
+221. Decreto del Presidente della Repubblica 26 gennaio 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Bari viene autorizzata ad accettare la donazione di L. 200.000 in contanti, disposta in suo favore dal prof. Saverio La Sorsa, con atto pubblico amministrativo 29 dicembre 1952, per l'istituzione di un premio di studio da intitolarsi al medesimo e da conferirsi alla migliore tesi di laurea di soggetto storico.  
   
-Visto, il Guardasigilli: PICCIONI  
-Registrato alla Corte dei conti, addi' 2 febbraio 1951
+Visto, il Guardasigilli: DE PIETRO  
+Registrato alla Corte dei conti, addi' 15 maggio 1954  
+Atti del Governo, registro n. 83, foglio n. 63. - CARLOMAGNO

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1118
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 gennaio 1981 n. 236
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1118
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 gennaio 1981 n. 236
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Bari approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169) e successive modificazioni;
+Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -19,8 +19,6 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
@@ -33,30 +31,41 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso;
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Art. 1
 ------
 
   
-Nel secondo comma dell'art. 275, relativo alla scuola di preparazione per tecnici di audiometria (scuola diretta ai fini speciali), la frase: "La commissione per gli esami di diploma e' costituita dal direttore della scuola stessa, e da altri docenti", e' soppressa e sostituita dalla seguente: "La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente, e da quattro insegnanti della scuola stessa o da altri docenti".  
+L'elenco degli istituti annessi alla facolta' di scienze matematiche, fisiche e naturali, di cui all'art. 93, e modificato nel senso che e' aggiunto il seminario di studi e dei sistemi ambientali.
 
 Art. 2
 ------
 
   
-Nel primo comma dell'art. 287, relativo alla scuola di preparazione per tecnici di logopedia (scuola diretta ai fini speciali), la frase: "La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente, e da quattro insegnanti della scuola stessa e da altri docenti", e' soppressa e sostituita dalla seguente: "La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente, e da quattro insegnanti della scuola stessa o da altri docenti".  
+Dopo l'art. 111, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'ordinamento del seminario di studi dei sistemi ambientali, annesso alla facolta' di Scienze matematiche, fisiche e naturali.  
+Seminario di studi dei sistemi ambientali  
+Art. 112. - Il seminario di studi dei sistemi ambientali e' istituito con lo scopo di promuovere il progresso degli studi dei sistemi ambientali attraverso conferenze, cicli di lezioni, riunioni e pubblicazioni a carattere interdisciplinare e di ampliare e completare la formazione e la preparazione scientifica dei giovani.  
+Art. 113. - Organo direttivo del seminario e' un consiglio, nominato dal rettore su proposta del consiglio di facolta' di scienze matematiche, fisiche e naturali, costituito da cinque professori ufficiali della facolta' stessa.  
+Il consiglio direttivo stabilisce le linee generali di sviluppo del seminario.  
+Le attivita' scientifiche vengono promosse e coordinate da un apposito comitato, costituito da sei docenti di discipline naturalistiche egualmente ripartiti fra le discipline biologiche e quelle abiologiche.  
+Il comitato scientifico puo' cooptare fino a tre membri scelti fra i ricercatori (e non) che svolgono attivita' didattica e/o di ricerca nel campo degli studi dei sistemi ambientali.  
+Art. 114. - Il consiglio nomina fra i suoi membri un direttore.  
+Il consiglio e il direttore durano in carica un biennio.  
+Gli atti amministrativi hanno la firma del direttore che e' il responsabile del funzionamento del seminario.  
+Il comitato scientifico dura in carica un biennio; i membri cooptati devono essere riconfermati di anno in anno.  
+Art. 115. - I sei membri non cooptati dal comitato scientifico sono nominati dal consiglio di facolta' su proposta del consiglio direttivo del seminario.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1981
+### Dato a Roma, addi' 19 gennaio 1981
 
 PERTINI BODRATO
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: SARTI
 
-Registrato alla Corte dei conti, addi' 15 marzo 1982
+Registrato alla Corte dei conti, addi' 19 maggio 1981
 
-Registro n. 41 Istruzione, foglio n. 290
+Registro n. 44 Istruzione, foglio n. 145

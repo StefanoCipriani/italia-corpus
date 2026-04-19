@@ -1,111 +1,80 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 889
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 943
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 889
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 943
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
-
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Dopo l'art. 687, e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in reumatologia afferente alla facolta' di medicina e chirurgia:  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Scuola di specializzazione in reumatologia  
+Decreta:  
   
-Art. 688. - E' istituita presso l'Universita' di Bologna la scuola di specializzazione in reumatologia, che conferisce il diploma di specialista in reumatologia.  
-Art. 689. - La direzione della scuola ha sede presso l'istituto di patologia speciale medica e metodologia clinica II e medicina del lavoro.  
-Art. 690. - La scuola ha lo scopo di preparare personale medico particolarmente competente in campo reumatologico e delle malattie delle articolazioni in rapporto alle esigenze sociali del territorio.  
-Art. 691. - La durata del corso e' di quattro anni e non e' suscettibile di abbreviazione.  
-Art. 692. - Il numero degli iscritti e' di cinque per ogni anno e, complessivamente, di venti per l'intero corso di studi.  
-Art. 693. - Alla scuola sono ammessi solo i laureati in medicina e chirurgia; e' richiesta l'abilitazione all'esercizio professionale.  
-Art. 694. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrate eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:  
-A) la tesi nella disciplina attinente alla specializzazione;  
-B) il voto di laurea;  
-C) il voto riportato negli esami di profitto nel corso di laurea nelle materie concernenti la specializzazione;  
-D) le pubblicazioni nelle predette materie.  
-Il punteggio dei predetti titoli e' quello stabilito dal decreto del Ministro della pubblica istruzione del 16 settembre 1982, pubblicato nella Gazzetta Ufficiale del 6 ottobre 1982. Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo riportato.  
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato come appresso:  
+  
+Dopo l'art. 687 sono inseriti i seguenti nuovi articoli relativi ad una scuola speciale di preparazione per tecnici di audiometria, diretta a fini speciali, presso la facolta' di medicina e chirurgia.  
+Scuola speciale di preparazione per tecnici di audiometria  
+Art. 688. - E' istituita ai sensi dell'art. 20 del testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), una scuola speciale di preparazione per tecnici di audiometria che ha sede presso la clinica otorinolaringoiatrica dell'Universita'.  
+Art. 689. - La durata del corso di studi della scuola di preparazione per tecnici di audiometria e' di due anni.  
+L'indirizzo e' teorico-pratico. Il numero massimo complessivo degli iscritti alla scuola e' di dieci (cinque per anno di corso).  
+Art. 690. - Possono essere ammessi alla scuola coloro che siano in possesso del titolo di studio prescritto per l'ammissione all'universita' o istituto di istruzione universitaria.  
+Gli aspiranti debbono, nei termini regolamentari, presentare apposita domanda su carta legale diretta al rettore e corredata dei prescritti documenti e sostenere un esame di ammissione che avra' luogo nei giorni stabiliti dal rettore con apposito manifesto.  
+Le domande di iscrizione ad anni successivi al primo vanno presentate nei termini regolamentari.  
+Art. 691. - Alla scuola si accede previo esame di cultura generale su argomenti facenti parte dei normali programmi dei licei o istituti di istruzione secondaria, con particolare riguardo alla parte dell'insegnamento di fisica acustica.  
+La commissione giudicatrice viene nominata dal direttore della scuola su proposta del consiglio della scuola stessa ed e' composta dal direttore della scuola, presidente, e da due membri scelti fra professori di ruolo, incaricati e liberi docenti.  
+Art. 692. - Il direttore della scuola e' il titolare della cattedra di clinica otorinolaringoiatrica dell'Universita'.  
+Gli incarichi di insegnamento sono conferiti dal rettore su proposta del consiglio di facolta' di medicina e chirurgia, udito il direttore della scuola.  
+Art. 693. - L'anno accademico ha inizio e termine nelle date stabilite dalle leggi in vigore per la istruzione universitaria.  
+Art. 694. - La data di inizio e termine delle lezioni sono di regola uguali a quelle fissate per l'anno accademico. Tali date, tuttavia, possono essere spostate per ragioni speciali inerenti alla natura dei corsi.  
 Art. 695. - Le materie di insegnamento sono le seguenti:  
 1° Anno:  
-anatomia, istologia e morfogenesi dell'apparato locomotore;  
-fisiologia e fisiopatologia dell'apparato locomotore;  
-biochimica di interesse reumatologico;  
-microbiologia in relazione alle malattie reumatiche;  
-immunologia reumatologica;  
-semeiotica fisica e strumentale in reumatologia I (biennale).  
+anatomia e fisiologia dell'orecchio, delle vie e dei centri acustici;  
+elementi di fisica acustica;  
+tecniche audiometriche.  
 2° Anno:  
-semeiotica fisica e strumentale in reumatologia II;  
-esami di laboratorio in reumatologia;  
-diagnostica radiologica delle reumo-artropatie;  
-farmacologia reumatologica;  
-anatomia ed istologia patologica delle malattie reumatiche;  
-clinica e terapia delle malattie reumatiche I (triennale).  
-3° Anno:  
-clinica e terapia ortopedica I (biennale);  
-fisioterapia reumatologica;  
-idroclimatologia di interesse reumatologico;  
-reumo-artropatie professionali;  
-clinica e terapia delle malattie reumatiche II (triennale).  
-4° Anno:  
-epidemiologia ed aspetti sociali dei reumatismi;  
-riabilitazione del malato reumatico;  
-clinica e terapia ortopedica II (biennale);  
-clinica e terapia delle malattie reumatiche III (triennale).  
-Art. 696. - La frequenza ai corsi e' obbligatoria.  
-Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione d'esame, di cui fanno parte il direttore della scuola e i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso. Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.  
-Art. 697. - Le attivita' pratiche obbligatorie sono rappresentate da esercitazioni nei laboratori e reparti clinici definiti anno per anno dal consiglio della scuola.  
-La frequenza alle attivita' pratiche e' richiesta per tutti gli anni di corso.  
-La frequenza necessaria per sostenere il gruppo di esami di profitto annuali deve essere di almeno sei mesi annui.  
-Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinenti alla specializzazione, anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con Paesi in via di sviluppo.  
-Art. 698. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio della scuola di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso. A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.  
-Art. 699. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti, anno per anno, dal consiglio di amministrazione.  
-Art. 700. - Il consiglio e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).  
-Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento di insegnamenti.  
-Art. 701. - La direzione della scuola e' affidata dal consiglio della scuola a professore ordinario o straordinario che insegni anche nella scuola stessa, e dura in carica un triennio.  
-In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
+patologia dell'udito, del linguaggio, dell'organo dell'equilibrio;  
+elementi di otoneurologia;  
+elementi di foniatria;  
+tecniche audiometriche.  
+Art. 696. - L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni e dall'obbligo per gli allievi dell'internato per un periodo di due anni nel servizio di audiologia della clinica otorinolaringoiatrica.  
+La frequenza viene comprovata dalla attestazione rilasciata dagli insegnanti sul libretto di iscrizione.  
+L'attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.  
+Art. 697. - Le commissioni per gli esami di profitto e di diploma sono nominate dal direttore della scuola su proposta del consiglio della scuola stessa. Le commissioni per gli esami di profitto sono composte da tre membri: il direttore della scuola, presidente, e da due insegnanti della scuola stessa.  
+La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente, e da quattro insegnanti della scuola stessa o da altri docenti.  
+Ogni commissario ha a sua disposizione dieci punti.  
+Gli esami di profitto, che consistono in prove teoriche e pratiche, si sostengono in un unico gruppo di materie per ciascun anno di corso.  
+L'esame di diploma consiste nella discussione di una tesi scritta su un argomento riguardante le materie di insegnamento, approvata dal direttore della scuola ed in una prova pratica stabilita dalla commissione esaminatrice.  
+I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola, ma, se al secondo anno non sia loro riconosciuta la idoneita', saranno senz'altro esclusi da ulteriori prove.  
+Agli allievi che avranno superato l'esame finale verra' rilasciato il diploma di tecnico in audiometria.  
+Art. 698 - Per essere ammessi a frequentare il secondo anno di corso gli iscritti debbono aver superato gli esami del primo anno.  
+Alla fine del secondo anno di corso, per essere ammessi all'esame di diploma gli iscritti debbono aver superato tutti gli esami prescritti.  
+Art. 699. - Gli esami di profitto e il diploma si danno in due sessioni, la prima estiva; ha inizio subito dopo la chiusura autunnale dei corsi e la seconda, autunnale, un mese innanzi il principio del nuovo anno accademico.  
+Art. 700. - Il consiglio di amministrazione dell'Universita', su proposta della direzione della scuola, approvata dal consiglio di facolta', stabilira' di anno in anno l'ammontare dei contributi.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1983
+### Dato a Roma, addi' 31 ottobre 1975
 
-PERTINI FALCUCCI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 26 gennaio 1984
+Registrato alla Corte dei conti, addi' 30 marzo 1976
 
-Registro n. 3 Istruzione, foglio n. 255
+Atti di Governo, registro n. 4, foglio n. 43

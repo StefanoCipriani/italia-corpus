@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 485
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1984 n. 1044
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 485
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1984 n. 1044
+===============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Modena.
 ------------------------------------------------------------------
@@ -39,19 +39,21 @@ Articolo unico
 --------------
 
   
-Il secondo comma dell'art. 45, concernente il numero degli studenti che possono essere iscritti al corso di laurea in odontoiatria e protesi dentaria della facolta' di medicina e chirurgia, e' soppresso e sostituito come segue:  
-Art. 35, secondo comma. - Il numero massimo degli studenti che possono essere iscritti e' di trentacinque per anno di corso.  
+Nell'art. 41, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
+economia sanitaria.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 aprile 1984
+### Dato a Roma, addi' 30 ottobre 1984
 
-PERTINI FALCUCCI
+PERTINI
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 4 agosto 1984
+Registrato alla Corte dei conti, addi' 31 gennaio 1985
 
-Registro n. 48 Istruzione, foglio n. 229
+Registro n. 7 Istruzione, foglio n. 38

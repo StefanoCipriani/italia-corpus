@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 491
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 novembre 1978 n. 854
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 491
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 novembre 1978 n. 854
+===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-491. Decreto del Presidente della Repubblica 27 giugno 1983, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in un appartamento sito in Milano, via Montevideo, 10, distinto nel nuovo catasto edilizio urbano alla partita 106818, foglio 472, mappale 56 sub 33, del valore periziato di L. 30.000.000 elevato dall'ufficio tecnico erariale di Milano a L. 85.000.000, disposto dalla sig.ra Invernizzi Francesca ved. Soffientini a favore della fondazione "Don Carlo Gnocchi", che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale del consiglio di amministrazione della fondazione medesima in data 28 novembre 1980, con testamento olografo 15 aprile 1979, pubblicato il 26 settembre 1980, n. 1566 di repertorio e n. 86 di raccolta, a rogito avv. Nicola Malenza, notaio in Milano, registrato a Milano il 6 ottobre 1980 al n. 23220.  
+854. Decreto del Presidente della Repubblica 23 novembre 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dal cav. lav. Francesco Penotti a favore dell'opera di don Gnocchi per i mutilatini di guerra che si identificano con la fondazione "Pro juventute don Carlo Gnocchi", come ha fatto presente la fondazione medesima, con testamento olografo 24 giugno 1972, pubblicato a rogito notaio dott. Marco Panvini-Rosati di Roma il 1 aprile 1974, n. 98797/41375 di repertorio, registrato a Roma il 3 aprile 1974 al n. 2437, vol. 1790, consistente nella somma di L. 20.000.000.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 8 settembre 1983  
-Registro n. 7 Presidenza, foglio n. 299
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 27 dicembre 1978  
+Registro n. 8 Presidenza, foglio n. 130

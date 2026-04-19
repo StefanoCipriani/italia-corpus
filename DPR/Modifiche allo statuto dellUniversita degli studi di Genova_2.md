@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 settembre 1961 n. 1147
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 marzo 1962 n. 197
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 settembre 1961 n. 1147
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 marzo 1962 n. 197
+============================================================
 
 Modifiche allo statuto dell'Universita' degli studi di Genova.
 --------------------------------------------------------------
@@ -12,178 +12,170 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071);convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Veduto il [decreto del Presidente della Repubblica 26 luglio 1960, n. 1692](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-07-26;1692);  
+Veduta la [legge 21 luglio 1961, n. 685](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-21;685);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione.  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso - L'art. 49 e' abrogato e sostituito dal seguente:  
-La Facolta' di scienze matematiche, fisiche e naturali conferisce le lauree:  
-in Chimica;  
-in Chimica industriale;  
-in Fisica;  
-in Matematica;  
-in Scienze naturali;  
-in Scienze biologiche;  
-in Scienze geologiche.  
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-L'art. 53 relativo al corso di laurea in Scienze matematiche e' abrogato e sostituito dal seguente: .  
+L'art. 52, relativo al corso di laurea in Fisica e' abrogato e sostituito dal seguente:  
   
-Laurea in Matematica  
-  
-Art. 53. - La durata del corso degli studi per la laurea in matematica e' di quattro anni.  
-Sono titoli di ammissione il diploma di maturita' classica o quello di maturita' scientifica.  
+Art. 52. - La durata del corso degli studi per la laurea in Fisica e' di quattro anni.  
+Sono titoli di ammissione: il diploma di maturita' classica o quello di maturita' scientifica. Possono, inoltre, essere ammessi i diplomati degli istituti tecnici industriali, agrari, nautici e per geometri, ai sensi delle vigenti disposizioni di legge.  
 Il corso di studi si distingue in tre indirizzi: generale, didattico, applicativo. All'atto dell'iscrizione al terzo anno lo studente deve dichiarare quale dei tre indirizzi intende scegliere.  
-Sono insegnamenti fondamentali obbligatori comuni a tutti gli indirizzi per il primo biennio:  
-1° anno:  
-1) Analisi matematica I;  
-2) Geometria I;  
-3) Algebra;  
-4) Fisica generale I;  
+Sono insegnamenti fondamentali obbligatori, comuni a tutti gli indirizzi per il primo biennio:  
+1) Fisica generale I;  
+2) Fisica generale II;  
+3) Analisi matematica I;  
+4) Analisi matematica II;  
+5) Geometria I;  
+6) Meccanica razionale;  
+7) Chimica con esercitazioni di laboratorio (per fisici);  
+8) Esperimentazioni di fisica (biennale).  
+Si richiedera' inoltre alla fine del primo biennio la prova di conoscenza di due lingue straniere di importanza scientifica.  
+I corsi di Fisica generale I e II, Analisi matematica I e II, non devono essere considerati come corsi biennali; essi constano di due corsi distinti, l'uno propedeutico all'altro e con esami distinti.  
+Il corso di Meccanica razionale deve essere distinto da quello destinato agli allievi ingegneri, e in comune con gli allievi matematici.  
+I corsi 1), 2), 3), 4), 5), 6), sono accompagnati da esercitazioni (non di laboratorio) che ne fanno parte integrante.  
+Per ciascuno dei corsi elencati vi e' un esame finale.  
+Potranno iscriversi ai corsi comuni ai tre indirizzi del secondo biennio soltanto quegli studenti che abbiano superato gli esami di Fisica generale I e II, Analisi matematica I e II.  
+Gli insegnamenti obbligatori per il secondo biennio sono i seguenti:  
+a) Corsi comuni ai tre indirizzi:  
+1) Struttura della materia;  
+2) Istituzioni di Fisica teorica;  
+3) Metodi matematici della fisica.  
+L'insegnamento dei "Metodi matematici della fisica" potra' essere sostituito, su deliberazione presa anno per anno dalla Facolta', con uno dei due seguenti insegnamenti fondamentali del corso di laurea in matematica:  
+"Istituzioni di Analisi superiore", "Istituzioni di Fisica matematica";  
+b) Corsi per l'indirizzo generale:  
+4) Fisica superiore;  
+5) Fisica teorica;  
+6), 7) Laboratorio di fisica (biennale);  
+8) Corso a scelta (I gruppo);  
+9) Corso a scelta (II gruppo);  
+c) Corsi per l'indirizzo didattico:  
+4), 5) Complementi di Fisica generale (biennale);  
+6), 7) Preparazione di esperienze didattiche (biennale);  
+8) Storia della Fisica;  
+9) Corso a scelta;  
+d) Corsi per l'indirizzo applicativo:  
+4), 5) Laboratorio di Fisica (biennale);  
+6), 7), 8), 9) Corsi a scelta.  
+I corsi 6), 7), 8), 9) dovranno essere scelti fra gli insegnamenti che verranno stabiliti come curricula anno per anno dalla Facolta' in relazione ai diversi orientamenti (elettronico, nucleare, acustico, ottico, geofisico, biofisico, ecc.) che potra' avere l'indirizzo applicativo, oppure proposti all'approvazione della Facolta' stessa dagli studenti interessati. Ciascun curriculum riguardera' tutti e quattro i predetti corsi e stabilira' le eventuali propedeuticita'.  
+Per ciascuno dei corsi elencati vi e' un esame finale.  
+Sono insegnamenti complementari:  
+I gruppo:  
+Acustica;  
+Astrofisica;  
+Astronomia;  
+Biotisica;  
+Biologia generale;  
+Biologia molecolare;  
+Chimica fisica;  
+Chimica biologica;  
+Chimica organica;  
+Chimica teorica;  
+Cibernetica e teoria dell'informazione;  
+Conduzione elettrica nei gas;  
+Elettrologia;  
+Elettronica;  
+Elettronica applicata;  
+Elettrotecnica;  
+Epistemologia e metodologia;  
+Fisica-atomica;  
+Fisica dei reattori;  
+Fisica dei neutroni;  
+Fisica del plasma;  
+Fisica dello stato solido;  
+Fisica delle particelle elementari;  
+Fisica nucleare;  
+Fisica spaziale;  
+Fisica superiore;  
+Fisica teorica;  
+Fisica terrestre;  
+Genetica;  
+Geochimica;  
+Geodesia;  
+Geologia;  
+Istituzioni di fisica nucleare;  
+Meccanica analitica;  
+Meccanica quantistica;  
+Meccanica statistica;  
+Meccanica superiore;  
+Metereologia;  
+Metereologia e oceanografia;  
+Misure elettriche;  
+Onde elettromagnetiche;  
+Ottica;  
+Ottica elettronica;  
+Pedagogia;  
+Radioastronomia;  
+Radioattivita';  
+Relativita';  
+Sismologia;  
+Spettroscopia;  
+Storia della Fisica;  
+Tecnica del vuoto;  
+Teoria delle forze nucleari;  
+Teoria dell'informazione;  
+Termodinamica.  
   
-2° anno:  
-1) Analisi matematica II;  
-2) Geometria II  
-3) Meccanica razionale;  
-4) Fisica generale II.  
-Gli insegnamenti fondamentali sopra elencati sono accompagnati ciascuno da un corso di esercitazioni che ne e' parte integrante.  
-Gli insegnamenti di Analisi matematica, Geometria, Fisica generale constano ciascuno di due parti annuali distinte, la prima propedeutica alla seconda.  
-Potranno essere iscritti al secondo anno soltanto quegli studenti che abbiano superato almeno due degli esami di:  
-Analisi matematica I, Geometria I, Algebra.  
-Sono insegnamenti obbligatori per il secondo biennio:  
+II gruppo:  
+Algebra;  
+Algebra superiore;  
+Analisi funzionale;  
+Analisi superiore;  
+Calcolo delle probabilita';  
+Calcoli numerici e grafici;  
+Calcolo numerico e programmazione;  
+Calcolo operativo;  
+Funzioni speciali;  
+Geometria differenziale;  
+Geometria superiore;  
+Istituzioni di analisi superiore;  
+Istituzioni di fisica matematica;  
+Istituzioni di geometria superiore;  
+Logica matematica;  
+Matematiche complementari;  
+Matematiche superiori;  
+Teoria delle funzioni;  
+Teoria dei gruppi;  
+Teoria delle vibrazioni;  
+Teoria ed applicazioni delle macchine calcolatrici.  
+Per gli esami dovranno osservarsi le seguenti propedeuticita',  
+1) L'esame di Analisi matematica I deve precedere quello di Analisi matematica II;  
+2) Gli esami di Analisi matematica II e di Fisica generale I devono precedere quello di Meccanica razionale;  
+3) L'esame di Fisica generale I deve precedere quello di Fisica generale II.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami degli insegnamenti fondamentali e di quelli a scelta stabiliti per ciascuno indirizzo.  
+L'esame di laurea consiste:  
+a) di una prova atta ad accertare la cultura generale del candidato nelle discipline fisiche;  
+b) di una prova pratica di laboratorio;  
+c) della compilazione e discussione di un elaborato scritto su di un tema liberamente scelto dal candidato, ma rispondente, in modo essenziale, ai fini della laurea;  
+d) della esposizione e discussione di una memoria della letteratura scientifica a scelta del candidato, ma su di un argomento differente da quello del tema di cui al punto c) precedente.  
+Superato l'esame di laurea lo studente consegue, il titolo di dottore in Fisica, indipendentemente dall'indirizzo prescelto del quale verra' fatta menzione soltanto nella carriera scolastica.  
   
-per l'inidirizzo generale:  
-3° anno  
-1) Istituzioni di analisi superiore;  
-2) Istituzioni di geometria superiore;  
-3) Istituzioni di fisica matematica;  
-4) Un insegnamento complementare;  
-4° anno:  
-1) Analisi superiore;  
-2) Geometria superiore;  
-3) Un insegnamento complementare;  
+Art. 61. - Il comma terzo relativo alle precedenze di iscrizione ed esami per il corso di laurea in Fisica, e' soppresso.  
   
-per l'indirizzo didattico:  
-3° anno:  
-1) Istituzioni di analisi superiore;  
-2) Istituzioni di geometria superiore;  
-3) Istituzioni di fisica matematica;  
-4) Matematiche complementari I (con esercitazioni);  
-4° anno:  
-1) Matematiche complementari II (con esercitazioni);  
-2) Un insegnamento complementare;  
-3) Un insegnamento complementare;  
-  
-per indirizzo applicativo:  
-3° anno:  
-1) Istituzioni di analisi superiore;  
-2) Istituzioni di geometria superiore;  
-3) Istituzioni di fisica matematica;  
-4) Un insegnamento complementare;  
-4° anno:  
-1) Calcolo numerico (con esercitazioni);  
-2) Calcolo delle probabilita';  
-3) Un insegnamento complementare.  
-Sono insegnamenti complementari.  
-  
-per l'indirizzo generale:  
-I Gruppo:  
-1) Algebra, superiore;  
-2) Analisi funzionale;  
-3) Calcolo delle probabilita';  
-4) Fisica matematica;  
-5) Geometria algebrica;  
-6) Geometria differenziale;  
-7) Matematiche superiori;  
-8) Teoria dei numeri;  
-9) Teoria delle funzioni  
-10) Topologia;  
-II Gruppo:  
-1) Cibernetica e teoria dell'informazione;  
-2) Istituzioni di fisica nucleare;  
-3) Istituzioni di fisica teorica;  
-4) Metodi matematici della fisica;  
-5) Strutture della materia;  
-  
-per l'indirizzo didattico:  
-I Gruppo:  
-1) Calcolo delle probabilita';  
-2) Calcolo numerico (con esercitazioni)  
-3) Geometria differenziale;  
-4) Logica matematica;  
-5) Matematiche elementari da un punto di vista superiore;  
-6) Matematica finanziaria ed attuariale;  
-7) Storia delle matematiche;  
-8) Teoria delle funzioni;  
-II Gruppo:  
-1) Chimica generale ed inorganica con elementi di organica;  
-2) Complementi di fisica generale;  
-3) Fisica terrestre;  
-4) Istituzioni di Fisica nucleare;  
-5) Istituzioni di Fisica teorica;  
-6) Metodi matematici della fisica;  
-7) Struttura della materia;  
-  
-per l'indirizzo applicativo:  
-I Gruppo:  
-1) Economia matematica;  
-2) Fisica matematica;  
-3) Geometria differenziale;  
-4) Logica matematica;  
-5) Matematica finanziaria ed attuariale;  
-6) Meccanica statistica;  
-7) Statistica matematica;  
-8) Teoria delle funzioni;  
-9) Teoria delle vibrazioni;  
-10) Teoria ed applicazione delle macchine calcolatrici;  
-II Gruppo:  
-1) Astronomia;  
-2) Chimica generale ed inorganica con elementi di organica;  
-3) Cibernetica e teoria dell'informazione;  
-4) Fisica terrestre;  
-5) Geodesia;  
-6) Istituzioni di Fisica nucleare;  
-7) Istituzioni di Fisica teorica;  
-8) Metodi matematici della fisica;  
-9) Struttura della materia.  
-Per tutti gli indirizzi uno dei due insegnamenti complementari prescritti deve essere scelto tra gli insegnamenti del primo gruppo ed uno tra quelli del secondo gruppo.  
-Per ciascuno degli insegnamenti elencati vi e' un esame finale.  
-Per gli esami dovranno osservarsi le seguenti propedeuticita':  
-1) l'esame di analisi matematica I deve precedere quello di analisi matematica II e questo deve precedere l'esame di Istituzioni di analisi superiore;  
-2) gli esami di Geometria I ed Algebra devono precedere quello di Geometria II e questo deve precedere l'esame di Istituzioni di geometria superiore;  
-3) gli esami di Analisi matematica II e di Fisica generale I devono precedere l'esame di Meccanica razionale e questo deve precedere l'esame di Istituzioni di Fisica matematica;  
-4) l'esame di Fisica generale I deve precedere quello di Fisica generale II.  
-L'esame di laurea, comprende per ciascun indirizzo un lavoro scritto il quale per la, laurea con indirizzo generale dovra' essere una ricerca originale; l'esame di laurea comprendera', inoltre una prova orale di cultura, generale sulle scienze matematiche e l'esposizione e discussione di una tesina orale.  
-Superato l'esame di laurea lo studente consegue il titolo di dottore in matematica indipendentemente dall'indirizzo prescelto, del quale verra' fatta mensione soltanto nella, carriera, scolastica.  
-  
-Art. 54, relativo al corso di laurea in Matematica e Fisica, e soppresso.  
-  
-Art. 61. - Sono abrogati i commi quarto e quinto.  
-L' ultimo comma e' sostituito dal seguente:  
-Per le lauree in Chimica, Chimica industriale e Scienze geologiche l'esame eventuale di Analisi matematica I deve precedere quello di Analisi matematica II e questo deve precedere l'esame di Meccanica razionale.  
-  
-Art. 64. Il primo comma e' sostituito dal seguente;  
-L'esame di laurea per i corsi di Chimica, Chimica, industriale, Fisica, Scienze naturali, Scienze biologiche e Scienze geologiche consiste nella discussione di una dissertazione scritta, svolta dal candidato in tema riferentesi a uno degli insegnamenti fondamentali o complementari, propri della laurea cui egli ispira, e su almeno due altri argomenti scelti dalla Commissione esaminatrice fra tre presentati dal candidato insieme con la dissertazione, e riferentesi a materie diverse tra loro e da quella in cui fu compilata la dissertazione scritta. Argomenti che siano stati svolti nel corso di qualche insegnamento non possono essere presentati per la dissertazione orale dell'esame di laurea.  
-Il secondo comma e' soppresso.  
+Art. 64, dal primo comma relativo alle modalita' degli esami di laurea dei vari corsi della Facolta' e' depennata la parola "Fisica".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 settembre 1961
+### Dato a Roma, addi' 9 marzo 1962
 
-GRONCHI BOSCO
+GRONCHI GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 2 novembre 1961
+Registrato alla Corte dei conti, addi' 26 aprile 1962
 
-Atti del Governo, registro n. 141, foglio n. 66. - VILLA
+Atti del Governo, registro n. 145, foglio n. 72. - VILLA

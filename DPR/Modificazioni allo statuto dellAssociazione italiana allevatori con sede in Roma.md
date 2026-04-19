@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1971 n. 434
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 febbraio 1970 n. 580
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1971 n. 434
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 febbraio 1970 n. 580
 ===============================================================
 
 Modificazioni allo statuto dell'Associazione italiana allevatori, con sede in Roma.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-434. Decreto del Presidente della Repubblica 8 febbraio 1971, col quale, sulla proposta del Ministro per l'agricoltura e le foreste, vengono approvate le modifiche agli articoli 3, 4, 14, 18 e 21 dello statuto dell'Associazione italiana allevatori, con sede in Roma.  
+580. Decreto del Presidente della Repubblica 14 febbraio 1970, col quale, sulla proposta del Ministro per l'agricoltura e le foreste viene approvata la modifica all'art. 6 dello statuto dell'Associazione italiana allevatori, con sede in Roma.  
   
-Visto, il Guardasigilli: COLOMBO  
-Registrato alla Corte dei conti, addi' 24 giugno 1971  
-Atti del Governo, registro n. 242, foglio n. 138. - VALENTINI
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 4 agosto 1970  
+Atti del Governo, registro n. 237, foglio n. 2. - CARUSO

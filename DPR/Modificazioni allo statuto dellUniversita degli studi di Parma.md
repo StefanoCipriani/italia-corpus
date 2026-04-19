@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1985 n. 460
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1986 n. 1100
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1985 n. 460
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1986 n. 1100
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Parma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,13 +18,15 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Parma e convalidati dal Consiglio universitario nazionale nel suo parere;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
 
 Sentito il parere del Consiglio universitario nazionale;
 
@@ -33,67 +35,124 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Art. 1
 ------
 
   
-  
-All'art. 72, relativo alla facolta' di economia e commercio, e' soppresso il punto: 11) centro meccanografico.   
+Gli articoli da 165 a 183, relativi alle norme generali concernenti le scuole di specializzazione in medicina e chirurgia, sono soppressi.  
 
 Art. 2
 ------
 
   
+Dopo l'articolo 145, e con lo spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli, relativi alla introduzione delle norme generali comuni a tutte le scuole di specializzazione.  
   
-Dopo l'art. 411 e' inserito:   
-  
-Centro interfacolta' di calcolo elettronico   
-Art. 412. - Il centro interfacolta' di calcolo elettronico dell'Universita' di Parma e' destinato al servizio relativo alle attivita' scientifiche e didattiche dell'Universita' di Parma.   
-Art. 413. - Il centro ha le seguenti finalita':   
-a) sopperire alle esigenze di calcolo connesse con la ricerca scientifica nelle istituzioni dell'Universita' di Parma mettendo a disposizione di coloro che operano in tali istituzioni le attrezzature per il calcolo e le elaborazioni che possono essere necessarie per lo svolgimento delle loro attivita' di ricerca;   
-b) sopperire alle esigenze didattiche delle istituzioni dell'Universita' di Parma fornendo le risorse di calcolo e le attrezzature necessarie per la preparazione degli studenti;   
-c) promuovere attivita' di studio e di documentazione, nonche' qualsiasi altra attivita' connessa con l'impiego e lo sviluppo dei mezzi di elaborazione a disposizione del centro;   
-d) favorire il collegamento e la collaborazione con centri di calcolo o centri di studio e di ricerca appartenenti ad altre universita', consorzi interuniversitari, enti pubblici di ricerca.   
-Art. 414. - Sono organi del centro:   
-a) il consiglio direttivo;   
-b) il comitato tecnico;   
-c) il direttore del centro;   
-d) il direttore tecnico del centro.   
-Art. 415. - Il consiglio direttivo e' costituito da:   
-a) il direttore del centro con funzioni di presidente;   
-b) rappresentanti di ciascuna facolta' e dipartimenti interessati dell'Universita' di Parma, scelti fra i professori ufficiali;   
-c) il dirigente amministrativo dell'Universita' di Parma o un funzionario da lui delegato;   
-d) il direttore tecnico anche con funzioni di segretario.   
-I membri del consiglio direttivo di cui alla voce b) sono nominati dal rettore su proposta delle rispettive facolta' e dipartimenti, durano in carica tre anni purche' conservino la qualifica di professori ufficiali dell'Universita' di Parma e possono essere confermati.   
-Art. 416. - Il comitato tecnico del centro e' costituito da esperti nel settore degli elaboratori elettronici e della elaborazione automatica dei dati.   
-Il comitato tecnico e' costituito da:   
-a) il direttore tecnico con funzioni di coordinatore;   
-b) rappresentanti degli utenti dell'Universita' scelti fra il personale docente o tecnico che abbia comprovata esperienza nel settore degli elaborati elettronici e dell'elaborazione automatica dei dati;   
-c) due rappresentanti eletti dal personale tecnico del centro nel proprio ambito;   
-d) un rappresentante dell'amministrazione dell'Universita' di Parma, nominato dal rettore.   
-I membri del comitato tecnico di cui alla voce b) sono nominati dal rettore su proposta del consiglio direttivo.   
-I membri del comitato tecnico di cui alle voci b), c) e d), durano in carica tre anni e possono essere confermati.   
-I membri di cui alle voci b), c) e d) possono contemporaneamente far parte anche del consiglio direttivo.   
-Il comitato tecnico svolge la funzione di organo consultivo del consiglio direttivo e della direzione.   
-Art. 417. - Il direttore del centro, nominato dal rettore, e' scelto fra i professori ufficiali dell'Universita' di Parma. Dura in carica tre anni e puo' essere confermato.   
-Art. 418. - Il direttore tecnico del centro e' nominato dal rettore su proposta del consiglio direttivo ed e' scelto fra il personale docente e tecnico dell'Universita' di Parma avente comprovata esperienza nel settore degli elaboratori elettronici e dell'elaborazione automatica dei dati.   
-Il direttore tecnico dura in carica tre anni e puo' essere confermato.   
-Art. 419. - Le norme relative al funzionamento del centro formano oggetto di apposito regolamento approvato dal consiglio di amministrazione dell'Universita' su proposta del consiglio direttivo e previo parere del senato accademico. Il regolamento viene reso esecutivo con decreto del rettore.   
+SCUOLE DI SPECIALIZZAZIONE  
+Norme generali  
+Art. 146. - Nell'Universita' di Parma sono istituite le seguenti scuole di specializzazione:  
+notariato;  
+discipline del lavoro;  
+diritto ed economia delle organizzazioni internazionali;  
+chirurgia generale (\*);  
+medicina interna (\*);  
+oftalmologia;  
+ginecologia ed ostetricia;  
+pediatria (\*);  
+radiologia (\*);  
+idrologia medica (\*);  
+anatomia patologica (\*);  
+dermatologia e venereologia;  
+otorinolaringoiatria (\*);  
+psichiatria;  
+neurologia (\*);  
+anestesia e rianimazione (indirizzo terapia intensiva) (\*);  
+igiene e medicina preventiva (\*);  
+endocrinologia e malattie del ricambio (indirizzi:  
+endocrinologia - malattie del ricambio e diabetologia) (\*);  
+fisioterapia;  
+tisiologia e malattie dell'apparato respiratorio;  
+microbiologia e virologia (\*);  
+gerontologia e geriatria;  
+odontostomatologia (\*);  
+nefrologia medica;  
+biochimica e chimica clinica;  
+chirurgia plastica e ricostruttiva (\*);  
+medicina del lavoro (\*);  
+cardiologia (\*);  
+ematologia (\*);  
+oncologia (\*);  
+patologia della riproduzione umana;  
+chirurgia della mano;  
+allergologia;  
+medicina legale e delle assicurazioni;  
+farmacia ospedaliera;  
+chimica e tecnologie alimentari (\*);  
+tecnica conserviera e igiene degli alimenti di origine animale;  
+scienza e tecnologia dei materiali (\*);  
+chirurgia maxillo-facciale (\*);  
+urologia (\*);  
+malattie infettive (\*).  
+(\*) Scuole riordinate in adeguamento alla normativa di cui al [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162).  
+Art. 147. - I concorsi di ammissione relativi a ciascuna scuola, con specificazione del numero degli iscrivibili, sono banditi con decreto rettorale in tempo utile per il successivo anno accademico.  
+I candidati alle specializzazioni, per le quali e' requisito indispensabile il possesso dell'abilitazione professionale, possono partecipare "sub conditione" all'esame di ammissione; all'atto di regolare l'iscrizione debbono depositare anche il diploma di abilitazione.  
+L'eventuale differenza, fra il totale degli iscrivibili previsto per ciascuna scuola ed il corrispondente numero di posti effettivamente banditi, potra' essere destinata a concorrenti di cittadinanza straniera, limitatamente alle scuole per le quali non e' prevista l'esistenza di un albo professionale.  
+Il numero complessivo degli specializzandi di cittadinanza straniera non potra' essere comunque superiore al venti per cento di quelli di cittadinanza italiana.  
+Limitazioni e condizioni di ammissione per specializzandi stranieri sono incluse negli statuti specifici e riportate nel bando di concorso.  
+Art. 148. - Il concorso di ammissione, secondo quanto previsto dall'[art. 13 del decreto del Presidente della Repubblica n. 162/82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982;162~art13), e' per esami e titoli.  
+L'esame consiste:  
+a) in una prova scritta intesa ad accertare la cultura generale dell'area di specializzazione;  
+b) in una eventuale prova orale, sempre sulle medesime tematiche, integrate, se del caso, da una prova pratica.  
+Il bando di concorso di ammissione a ciascuna scuola indichera' eventuali modalita' diverse, come le prove attraverso risposta a quesiti multipli, ed i programmi di esame.  
+Il candidato dovra' dare prova di buona conoscenza strumentale della lingua o delle lingue straniere secondo quanto indicato nel bando.  
+La valutazione dei titoli integrera' il punteggio, conseguito nell'esame di cui ai commi precedenti, in misura non superiore al 30% dello stesso.  
+Costituiscono titolo:  
+a) la tesi di laurea;  
+b) il voto di laurea;  
+c) il voto riportato negli esami di profitto nel corso di laurea in discipline attinenti la specializzazione ed indicate nel bando di concorso per ciascuno dei corsi di laurea che danno accesso alla scuola;  
+d) le pubblicazioni scientifiche.  
+Il punteggio dei predetti titoli e' quello stabilito dal decreto ministeriale del 16 settembre 1982, emanato ai sensi dell'[art. 13, quinto comma, del decreto del Presidente della Repubblica n. 162/82, pubblicato nella Gazzetta Ufficiale n. 275 del 6 ottobre 1982](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1982-10-06&numeroGazzetta=275).  
+Art. 149. - La commissione per l'esame di ammissione e' costituita da cinque professori di ruolo designati dal consiglio della scuola.  
+Nel caso di convenzione con enti pubblici o privati, che preveda, a carico di questi ultimi, la concessione di borse per frequentare la scuola, la commissione puo' essere integrata da un docente o cultore di materie attinenti alla scuola, scelto dal consiglio della scuola entro una terna designata dagli enti erogatori.  
+Art. 150. - La commissione giudicatrice dell'esame finale per il conseguimento del diploma di specialista e' composta da cinque professori di ruolo della scuola designati dal consiglio stesso di cui all'art. 153.  
+Eventuali allargamenti che comportino integrazioni non superiori a due membri, e le modalita' relative sono definite dalle normative specifiche di ciascuna scuola.  
+Art. 151. - L'importo delle tasse e sovrattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione dell'Universita'.  
+Art. 152. - Sono organi della scuola il direttore ed il consiglio della scuola.  
+Art. 153. - Il direttore ha la responsabilita' della scuola. E' un professore di ruolo che insegni nella scuola, di norma di prima fascia. In caso di motivato impedimento dei professori di prima fascia la direzione e' affidata a professori di seconda fascia.  
+Il direttore e' eletto, con voto segreto, dal consiglio della scuola, di cui al successivo articolo; convoca il consiglio della scuola e lo presiede; ha, nell'ambito della condizione della scuola, le funzioni proprie dei presidenti di consiglio di corso di laurea.  
+Il direttore promuove, per la stipula attraverso il consiglio di amministrazione ed il rettore, le convenzioni per lo svolgimento delle attivita' di formazione.  
+Per la gestione dei fondi a disposizione della scuola si applicano le norme dettate per gli istituti dal regolamento per l'amministrazione e la contabilita' generale dell'Universita'.  
+Il direttore dura in carica tre anni ed e' rieleggibile.  
+Nel manifesto annuale degli studi viene indicata la sede della direzione della scuola.  
+Art. 154. - Il consiglio della scuola e' composto da tutti i docenti della scuola compresi gli eventuali docenti a contratto, e da una rappresentanza di tre specializzandi, eletta secondo quanto previsto dall'[art. 99 del decreto del Presidente della Repubblica n. 382/80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;382~art99).  
+Art. 155. - Il consiglio della scuola ne conduce e coordina le attivita' con il consiglio dei dipartimenti e delle facolta' interessati inclusi la designazione dei docenti, l'affidamento degli insegnamenti e le eventuali proposte di contratti.  
+In prima istituzione, i docenti che costituiscono il consiglio della scuola vengono designati in rapporto agli insegnamenti da attivare con apposita delibera dei consigli delle facolta' interessate sentiti i consigli dei dipartimenti coinvolti.  
+Art. 156. - Lo specializzando e' tenuto a seguire tutti i corsi di lezioni ed a partecipare a tutte le attivita' pratiche ed alle esercitazioni previste, per ciascun anno di corso, dal manifesto degli studi nel quadro delle norme piu' sotto indicate.  
+La frequenza della scuola e' obbligatoria per tutti gli iscritti.  
+Modalita' di accertamento della frequenza sono determinate dal consiglio della scuola e rese note nel manifesto annuale degli studi, ovvero attraverso altre idonee forme.  
+Art. 157. - Alla fine di ciascun anno, lo specializzando deve superare un esame teorico-pratico con votazione rapportata in trentesimi, sulle attivita' di, formazione svolte nell'anno, valutato da una commissione, appositamente nominata e presieduta dal direttore della scuola, e costituita dai docenti della scuola delle discipline interessate dal programma di formazione dei candidati.  
+Coloro che non superano l'esame non possono essere ammessi al successivo anno di corso e debbono ripetere l'anno.  
+E' ammessa la ripetizione dell'anno per una sola volta.  
+Art. 158. - Il calendario dei corsi di studio e delle attivita'  
+pratiche e' stabilito, anno per anno, dal consiglio della scuola, nel monte ore previsto dall'ordinamento di ogni singola scuola.  
+I corsi potranno articolarsi in cicli di lezioni, seminari e moduli di formazione, nell'ambito delle leggi vigenti.  
+Art. 159. - Il corso si conclude con un esame di diploma, che consiste nella discussione di una dissertazione scritta, che dimostri la preparazione scientifica e le capacita' operative collegate alla specifica professionalita'.  
+Art. 160. - Nel caso di scuole di specializzazione istituite in base a convenzioni con altre Universita', per i docenti che debbano esplicare le previste attivita' didattiche in sede diversa da quella ordinaria di servizio, e che abbiano incluso tali attivita' nel proprio piano didattico annuale approvato dalla facolta' di appartenenza e' prevista la corresponsione di un rimborso spese relative al trasporto e all'eventuale pernottamento.  
+Art. 161 (Norma transitoria). - Le scuole gia' funzionanti presso l'Universita' con il vecchio ordinamento sono progressivamente disattivate; le scuole di cui all'art. 146 sono progressivamente attivate a partire dall'anno accademico nel quale entra in vigore il riordinamento di ciascuna scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 gennaio 1985
+### Dato a Roma, addi' 4 ottobre 1986
 
-PERTINI
+COSSIGA
 
 FALCUCCI, Ministro della pubblica istruzione
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: ROGNONI
 
-Registrato alla Corte dei conti, addi' 20 agosto 1985
+Registrato alla Corte dei conti, addi' 6 maggio 1987
 
-Registro n. 55 Istruzione, foglio n. 256
+Registro n. 27 Istruzione, foglio n. 178

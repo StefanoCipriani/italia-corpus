@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1224
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 marzo 1978 n. 407
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1224
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 marzo 1978 n. 407
+============================================================
 
 Modificazione allo statuto del libero Istituto superiore di medicina e chirurgia dell'Aquila.
 ---------------------------------------------------------------------------------------------

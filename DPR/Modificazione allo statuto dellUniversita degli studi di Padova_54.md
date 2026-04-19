@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1983 n. 1101
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1983 n. 534
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1983 n. 1101
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1983 n. 534
+============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
@@ -39,19 +39,20 @@ Articolo unico
 --------------
 
   
-Nell'art. 58, relativo al corso di laurea in lettere, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-archeologia delle Venezie.  
+Nell'art. 30, relativo al corso di laurea in scienze politiche, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+economia internazionale;  
+storia del lavoro.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 marzo 1983
+### Dato a Roma, addi' 23 marzo 1983
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 22 marzo 1984
+Registrato alla Corte dei conti, addi' 28 settembre 1983
 
-Registro n. 17 Istruzione, foglio n. 353
+Registro n. 63 Istruzione, foglio n. 130

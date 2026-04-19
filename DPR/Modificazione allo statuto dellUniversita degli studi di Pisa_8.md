@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 1102
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1986 n. 240
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 1102
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1986 n. 240
 ==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Pisa.
@@ -24,7 +24,7 @@ Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http:
 
 Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
 
 Veduto il parere del Consiglio universitario nazionale;
 
@@ -39,20 +39,21 @@ Articolo unico
 --------------
 
   
-  
-Nell'art. 57, relativo al corso di laurea in lingue e letterature straniere, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:   
-metodologia dell'insegnamento della lingua spagnola.   
+Nell'art. 23, relativo al corso di laurea in giurisprudenza, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
+diritto pubblico regionale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 15 luglio 1983
+### Dato a Roma, addi' 28 gennaio 1986
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 15 marzo 1984
+Registrato alla Corte dei conti, addi' 19 maggio 1986
 
-Registro n. 16 Istruzione, foglio n. 165
+Registro n. 39 Istruzione, foglio n. 144

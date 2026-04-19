@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1145
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1980 n. 1058
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1145
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1980 n. 1058
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
@@ -12,132 +12,136 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto dell'Universita' di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Palermo e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Palermo e convalidati dal Consiglio universitario nazionale e dal Consiglio superiore della pubblica istruzione nei loro pareri;
 
-Sentito il parere del Consiglio universitario nazionale;
-
-Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Sentiti i pareri del Consiglio universitario nazionale e del Consiglio superiore della pubblica istruzione;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 --------
 
-Lo statuto dell'Universita' di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
   
-Dopo l'art. 143, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in scienze assicurative e commerciali, annessa alla facolta' di economia e commercio.   
-Scuola di specializzazione in scienze assicurative e commerciali   
-Art. 144. - Annessa alla facolta' di economia e commercio, e' istituita la scuola di specializzazione in scienze assicurative e commerciali.   
-Art. 145. - La scuola ha durata biennale. Al termine dei corsi e' conferito un diploma di specializzazione in scienze assicurative e commerciali. Non sono consentite in ogni caso riduzioni di durata. La frequenza e' obbligatoria. Non e' consentita la contemporanea iscrizione a piu' scuole di specializzazione.   
-Art. 146. - La scuola conferisce il diploma di cui all'art. 145 con l'indicazione dell'indirizzo seguito.   
-I corsi della scuola sono articolati in due indirizzi:   
-1) indirizzo giuridico-commerciale;   
-2) indirizzo tecnico-attuariale.   
-Art. 147. - Titolo per l'ammissione alla scuola e' il diploma di laurea rilasciato da qualsiasi facolta' di una Universita' italiana di Stato o ad essa parificata ovvero di un titolo straniero equipollente, che sia riconosciuto dalla legge italiana.   
-Art. 148. - L'ammissione alla scuola e' subordinata al superamento di un colloquio attitudinario e culturale, con riferimento alla finalita' della scuola. Il colloquio si svolge avanti ad una commissione formata da tre docenti della scuola, nominati dal direttore di questa. Il giudizio della commissione e' insindacabile.   
-Art. 149. - I corsi sono costituiti da lezioni teoriche, esercitazioni pratiche, tirocinii, seminari e conferenze.   
-Tutti i corsi d'insegnamento sono distinti dai corsi della facolta' di economia e commercio e delle altre facolta'.   
-Art. 150. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.   
-La scuola e' retta da un direttore e da un vicedirettore, in caso di assenza o di impedimento del primo. Entrambi sono nominati per un biennio dal rettore, su proposta del consiglio della scuola, tra i professori componenti il consiglio.   
-I docenti sono scelti tra i professori universitari, gli studiosi e gli esperti delle discipline insegnate nella scuola. I docenti devono possedere comprovata esperienza e competenza nelle discipline oggetto dei corsi d'insegnamento. Alla nomina dei docenti provvede il rettore, su proposta del consiglio della scuola. Il direttore della scuola ha pero' facolta' di conferire, su conforme, vincolante parere del consiglio della scuola, lo incarico di tenere seminari, esercitazioni e conferenze.   
-Del consiglio della scuola fa parte di diritto il preside della facolta' di economia e commercio ed un suo delegato. Il preside non puo' essere nominato direttore della scuola.   
-Art. 151. - Il consiglio della scuola e' composto dal direttore che lo presiede, dal vicedirettore e dai docenti nominati con decreto del rettore. Le funzioni di segretario sono di volta in volta assunte da un componente del consiglio, designato dal direttore.   
-Il consiglio ha competenza a:   
-1) determinare, coordinare ed approvare i programmi dei corsi teorici, delle esercitazioni, dei tirocinii, dei seminari e delle conferenze da svolgersi;   
-2) esprimere il proprio parere sulle proposte relative alla designazione dei docenti e degli incaricati di seminari, conferenze, esercitazioni;   
-3) determinare, coordinare ed approvare gli orari dei vari insegnamenti nonche' delle esercitazioni, dei seminari e delle conferenze.   
-Il consiglio determina il diario e le modalita' degli esami di profitto e di diploma, nonche' la composizione delle relative commissioni; la sostituzione dei componenti delle commissioni di esame puo', ove necessario, essere effettuata anche dal direttore o dal vicedirettore della scuola.   
-Art. 152. - L'ordinamento didattico della scuola e' cosi' articolato per materie ed anni di corso:   
+Dopo l'art. 202 dello statuto sono aggiunti i seguenti articoli relativi all'istituzione di una scuola di specializzazione in farmacia ospedaliera e una in scienze dell'alimentazione presso la facolta' di farmacia.   
   
-INDIRIZZO GIURIDICO-COMMERCIALE   
+FACOLTA' DI FARMACIA   
   
-Materie obbligatorie:   
+Scuola di specializzazione in farmacia ospedaliera   
+Art. 203. - E' istituita presso la facolta' di farmacia dell'Universita' di Palermo la scuola di specializzazione in farmacia ospedaliera, con l'intento di assicurare ai laureati in discipline farmaceutiche (farmacia e chimica e tecnologia farmaceutiche) la possibilita' di un perfezionamento nelle materie necessarie ad esercitare la loro attivita' nella farmacia ospedaliera.   
+Art. 204. - La scuola rilascia il diploma di specializzazione in farmacia ospedaliera al termine del corso di studi che ha durata biennale.   
+Art. 205. - Alla scuola di specializzazione sono ammessi i laureati in farmacia ed in chimica e tecnologia farmaceutiche.   
+L'ammissione alla scuola e' condizionata al superamento dell'esame di istituzioni di matematiche (programma del corso di laurea in chimica e tecnologia farmaceutiche), ove questo non sia stato superato nel corso degli studi universitari.   
+Art. 206. - Gli insegnamenti della scuola sono i seguenti:   
 1° Anno:   
-1) politica creditizia e monetaria;   
-2) diritto delle imprese e societa' commerciali;   
-3) diritto delle assicurazioni private e sociali;   
-4) diritto delle Comunita' europee;   
-5) diritto e pratica tributaria.   
+1) matematica e informatica;   
+2) patologia generale (\*);   
+3) biofarmaceutica e farmacocinetica I;   
+4) tossicita', interazioni, effetti secondari dei farmaci;   
+5) radiochimica e radiobiologia;   
+6) microbiologia e igiene (\*);   
+7) tecnologia delle preparazioni magistrali.   
 2° Anno:   
-1) diritto delle assicurazioni marittime e aeree;   
-2) diritto bancario;   
-3) diritto industriale;   
-4) istituzioni di diritto processuale e penale commerciale;   
-5) diritto della borsa e dei cambi.   
-Materie complementari:   
-1) organizzazione aziendale;   
-2) tecnica bancaria;   
-3) diritto dell'economia pubblica e privata;   
-4) tecnica commerciale;   
-5) diritto assicurativo comparato;   
-6) diritto delle assicurazioni contro i rischi termonucleari;   
-7) economia dei trasporti;   
-8) assicurazione del credito;   
-9) medicina legale e delle assicurazioni.   
+1) biofarmaceutica e farmacocinetica II;   
+2) immunochimica;   
+3) farmacia clinica;   
+4) documentazione e informazione sui farmaci;   
+5) officina galenica;   
+6) chimica degli alimenti (\*);   
+7) economia, organizzazione e legislazione ospedaliera.   
+Gli insegnamenti comprendono lezioni teoriche ed esercitazioni pratiche.   
+Ove gli esami delle materie segnate con asterisco (\*) non fossero stati superati durante gli studi universitari, queste materie dovranno essere seguite in un regolare corso universitario. Esse sono oggetto di esame, al pari di tutte le altre materie comprese nel piano di studi della scuola.   
+E' prevista la possibilita' di insegnamento e di esami integrati.   
+Art. 207. - La scuola e' organizzata dalla facolta' di farmacia dell'Universita' di Palermo.   
+Potranno essere invitati a tenere lezioni, conferenze, seminari ed esercitazioni, docenti di altre facolta' o universita', od esperti, anche dall'estero.   
+La direzione della scuola e' affidata ad un docente di ruolo o fuori ruolo eletto dal consiglio direttivo costituito da cinque docenti nominati dal consiglio di facolta', per la durata di tre anni, scelti fra i docenti di discipline:   
+chimico-farmaceutiche (due) farmaco-biologiche (due) tecnologiche (uno).   
+Art. 208. - Gli incarichi di insegnamento, anche per un limitato numero di lezioni o esercitazioni, sono conferiti dal rettore su proposta del consiglio direttivo della scuola con l'approvazione del senato accademico e del consiglio di amministrazione della Universita'.   
+Art. 209. - Le tasse e sopratasse per l'iscrizione alla scuola sono quelle stabilite per la facolta' di farmacia.   
+I contributi a carico degli iscritti dovranno essere fissati annualmente dal consiglio di amministrazione su proposta del consiglio della scuola e verranno resi noti ogni anno con apposito manifesto.   
+Art. 210. - Il numero massimo di iscritti e' di quindici per ogni anno di corso. L'ammissione alla scuola e' decisa dal consiglio direttivo sulla base di un concorso per esami e per titoli.   
+Art. 211. - La scuola e' finanziata con le quote di iscrizione e attraverso eventuali contributi della Societa' italiana di farmacia ospedaliera e da contributi, lasciti o donazioni di altri enti privati. L'eventuale accettazione di contributi, lasciti, donazioni, dovra' avvenire tramite l'Universita' nel rispetto delle normative vigenti.   
   
-INDIRIZZO TECNICO-ATTUARIALE   
+Scuola di specializzazione in scienza dell'alimentazione   
   
-Materie obbligatorie:   
+Art. 212. - E' istituita presso la facolta' di farmacia dell'Universita' di Palermo la scuola di specializzazione in scienza dell'alimentazione.   
+Il direttore della scuola e' il titolare della cattedra di scienza dell'alimentazione.   
+In caso di vacanza della cattedra di scienza dell'alimentazione, la direzione della scuola puo' essere affidata al titolare della cattedra di chimica biologica o di fisiologia generale o ad un professore fuori ruolo delle stesse discipline.   
+Art. 213. - La scuola di specializzazione in scienza dell'alimentazione e' articolata secondo il seguente triplice indirizzo:   
+a) indirizzo dietetico;   
+b) indirizzo nutrizionistico;   
+c) indirizzo tecnologico.   
+L'indirizzo dietetico mira ad approfondire nei medici le basi teoriche e pratiche di fondamentale importanza per la dietetica preventiva e curativa ed a stimolare, altresi', la ricerca scientifica nel vasto campo della nutrizione umana. A tale indirizzo possono iscriversi soltanto i laureati in medicina e chirurgia.   
+L'indirizzo nutrizionistico mira alla preparazione specialistica di laureati in settori concernenti lo studio dei problemi generali e speciali dell'alimentazione negli aspetti fisiologici, biochimici, igienici, ecologici, economico-sociali, nonche' a stimolare la ricerca scientifica nei sopracitati settori.   
+A tale indirizzo possono essere ammessi i laureati in chimica e tecnologia farmaceutiche, in farmacia, in medicina e chirurgia, in medicina veterinaria, in scienze biologiche, in scienze naturali, in scienze agrarie.   
+L'indirizzo tecnologico mira alla preparazione di laureati per le attivita' direttive in settori concernenti le tecnologie alimentari in funzione dei loro riflessi nutritivi ed igienici sul prodotto finito, nonche' a stimolare la ricerca in questo settore.   
+A tale indirizzo possono essere ammessi i laureati in chimica, chimica e tecnologia farmaceutiche, farmacia, ingegneria chimica, scienze agrarie, scienze biologiche, scienza delle preparazioni alimentari.   
+Art. 214. - Il numero degli iscritti e' fissato a dieci per ogni anno di corso e per ogni indirizzo.   
+La durata del corso per tutti e tre gli indirizzi e' di tre anni.  
+Non sono ammesse abbreviazioni di corso, ad eccezione dei candidati che, gia' in possesso del diploma di specializzazione in scienza dell'alimentazione possono essere ammessi al terzo anno per ottenere il completamento di corso in uno dei tre indirizzi.   
+Art. 215. - Nel primo biennio vengono impartiti insegnamenti comuni agli iscritti a tutti e tre gli indirizzi:   
+gli insegnamenti si differenziano invece al terzo anno a seconda dell'indirizzo prescelto.   
+Il piano di insegnamento della scuola risulta pertanto cosi' strutturato:   
 1° Anno:   
-1) calcolo delle probabilita';   
-2) matematica finanziaria;   
-3) statistica assicurativa;   
-4) tecnica commerciale;   
-5) organizzazione aziendale.   
-2° Anno:   
-1) economia e finanza delle imprese di assicurazione;   
-2) tecnica attuariale delle assicurazioni libere sulla vita;   
-3) tecnica attuariale delle assicurazioni sociali;   
-4) tecnica delle assicurazioni contro i danni;   
-5) tecnica bancaria.   
-Materie complementari:   
-1) tecnica del commercio internazionale;   
-2) diritto bancario;   
-3) diritto della borsa e dei cambi;   
-4) statistica commerciale e delle aziende di credito;   
-5) statistica sanitaria;   
-6) diritto delle assicurazioni contro i rischi termonucleari;   
-7) economia e tecnica del credito agrario.   
-Art. 153. - All'esame di diploma e' ammesso chi abbia superato tutti gli esami pertinenti alle materie obbligatorie previste per l'indirizzo prescelto, nonche' gli esami pertinenti ad almeno due delle materie complementari del medesimo indirizzo. E' vietata l'anticipazione di una o piu' materie. Non puo' essere iscritto al secondo anno del biennio chi non abbia superato tutti gli esami inerenti alle materie previste per il primo anno.   
-Art. 154. - L'esame di diploma consiste in un colloquio di carattere generale nonche' nella presentazione e discussione di una dissertazione scritta, a carattere originale, su di un tema prescelto dal candidato ed approvato dal docente o dai docenti di materie cui il tema pertiene.   
-Art. 155. - Su proposta del consiglio della scuola, il rettore determina con decreto la data iniziale e finale dei termini di iscrizione.   
-All'atto dell'iscrizione, dovra' essere precisato l'indirizzo prescelto. L'eventuale mutamento di indirizzo sara' ammesso e regolato a termini di regolamento della scuola previsto dall'art.  
-156.   
-Art. 156. - Il funzionamento amministrativo e disciplinare della scuola e' determinato, in armonia con le vigenti disposizioni sulle scuole di specializzazione, da un regolamento emanato, con decreto del rettore, su proposta del consiglio della scuola.   
-Art. 157. - Gli iscritti devono pagare per tassa d'immatricolazione L. 50.000 e, annualmente, le somme seguenti:   
-per tassa d'iscrizione L. 100.000;   
-per contributi di esercitazioni e di seminario L. 60.000;   
-per contributo di biblioteca L. 30.000;   
-per soprattasse esami di profitto L. 15.000.   
-I diplomati dovranno inoltre pagare L. 3.000 per soprattasse di diploma. Coloro i quali conseguono il diploma di perfezionamento sono tenuti al versamento delle tasse di diploma in misura pari alla somma fissata dalle norme vigenti; tasse, soprattasse e contributi sono versati alla cassa dell'Universita'. La tassa di diploma va invece versata all'erario.   
-Art. 158. - Gli iscritti alla scuola sono tenuti al pagamento delle tasse, delle soprattasse e dei contributi nella misura e nelle modalita' che saranno stabilite dal regolamento di cui all'art. 156.   
-Art. 159. - Compatibilmente con le disponibilita' finanziarie della scuola, secondo modalita' da determinarsi con apposito regolamento rettorale possono essere conferiti agli iscritti particolarmente meritevoli borse di studio o contributi sulle spese, inerenti alla frequenza ai corsi. Tali spese non concernono le tasse, le soprattasse ed i contributi, che vanno in ogni caso versati.   
+1) chimica degli alimenti;   
+2) biochimica della nutrizione;   
+3) fisiologia generale della nutrizione;   
+4) istituzioni di statistica applicata ai problemi alimentari. 2° Anno:   
+1) fisiologia della nutrizione umana;   
+2) igiene degli alimenti ed elementi di legislazione;   
+3) istituzioni di tecnologie alimentari;   
+4) biochimica patologica della nutrizione.   
+3° Anno:   
+A) Indirizzo dietetico:   
+1) alimentazione umana;   
+2) dietetica nell'eta' adulta;   
+3) dietetica nell'infanzia;   
+4) dietetica per le collettivita';   
+5) malattie dell'alimentazione e dietoterapia;   
+6) dietetica ospedaliera e organizzazione dei relativi servizi.   
+B) Indirizzo nutrizionistico:   
+1) alimentazione umana;   
+2) alimentazione degli animali da allevamento e da lavoro;   
+3) ecologia e geografia dell'alimentazione;   
+4) economia e statistica applicata all'alimentazione;   
+5) tecnica dei rilevamenti alimentari;   
+6) analisi chimiche degli alimenti: additivi chimici, frodi alimentari.   
+C) Indirizzo tecnologico:   
+1) microbiologia e chimica delle fermentazioni nell'industria alimentare;   
+2) tecnologie industriali di preparazione, conservazione e confezionamento degli alimenti di origine animale;   
+3) tecnologie industriali di preparazione, conservazione e confezionamento degli alimenti di origine vegetale;   
+4) analisi chimiche degli alimenti: additivi chimici; frodi alimentari.   
+I corsi sopra indicati possono essere integrati da esercitazioni pratiche e seminari decisi dal consiglio della scuola, nonche' da conferenze su argomenti speciali (psicologia dell'alimentazione, antropologia nutrizionale, organizzazione della vigilanza e del controllo sulla produzione e commercio degli alimenti e bevande, ecc.).   
+Art. 216. - Alla fine di ogni anno di corso gli iscritti che abbiano ottenuto la firma di frequenza dovranno sostenere un esame di profitto sulle materie d'insegnamento annuali contemplate nel piano di studio. L'esame di diploma consistera' nella discussione di una dissertazione scritta su un argomento approvato dalla direzione della scuola.   
+Le commissioni per gli esami di profitto e per l'esame del diploma sono costituite rispettivamente da tre a cinque membri, nominati dal preside della facolta' di farmacia su proposta del direttore della scuola.   
+Art. 217. - A coloro che hanno frequentato la scuola e superate le prove di esame prescritte verra' rilasciato un diploma di specialista valido a tutti gli effetti di legge.   
+Art. 218. - Le tasse di immatricolazione e di iscrizione alla scuola sono le stesse dovute dagli studenti della facolta' di farmacia: la misura dei contributi di laboratorio verra' fissata dal consiglio di amministrazione su proposta del senato accademico sentito il consiglio della scuola.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1981
+### Dato a Roma, addi' 27 marzo 1980
 
-PERTINI BODRATO
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 15 maggio 1982
+Registrato alla Corte dei conti, addi' 18 febbraio 1981
 
-Registro n. 67 Istruzione, foglio n. 308
+Registro n. 14 Istruzione, foglio n. 368

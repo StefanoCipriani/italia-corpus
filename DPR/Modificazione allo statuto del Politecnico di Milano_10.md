@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 aprile 1983 n. 327
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1983 n. 432
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 aprile 1983 n. 327
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1983 n. 432
 =============================================================
 
 Modificazione allo statuto del Politecnico di Milano.
@@ -39,26 +39,20 @@ Articolo unico
 --------------
 
   
-Art. 29 - nell'elenco degli insegnamenti complementari della facolta' di ingegneria sono inseriti i seguenti insegnamenti:  
-catalisi industriale;  
-misure delle radiazioni e protezione;  
-misure geodetiche;  
-processi elettrochimici;  
-aeroelasticita';  
-strumentazione biomedica;  
-elaborazione dei dati biologici;  
-termocinetica biomedica.  
+Art. 33 - nell'elenco degli insegnamenti complementari della facolta' di architettura sono inseriti i seguenti insegnamenti:  
+tecnologia della progettazione e della produzione edilizia;  
+tipologia edilizia.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e de decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 aprile 1983
+### Dato a Roma, addi' 21 maggio 1983
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 5 luglio 1983
+Registrato alla Corte dei conti, addi' 11 agosto 1983
 
-Registro n. 49 Istruzione, foglio n. 52
+Registro n. 58 Istruzione, foglio n. 143

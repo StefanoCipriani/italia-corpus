@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 maggio 1975 n. 450
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1975 n. 292
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 maggio 1975 n. 450
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1975 n. 292
 =============================================================
 
 Autorizzazione all'Ente nazionale ACLI per l'istruzione professionale, in Roma, ad acquistare un immobile.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-450. Decreto del Presidente della Repubblica 26 maggio 1975, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Ente nazionale ACLI per l'istruzione professionale (ENAIP), in Roma, viene autorizzato ad acquistare, al prezzo di lire 44.000.000, un appezzamento di terreno della estensione di circa mq 18000, a corpo, sito nel comune di Botticino Sera (Brescia) distinto nel catasto terreni con i mappali: n. 83 di ha 1.13.60, n. 339 di ha 063.80, di proprieta' dei fratelli Brunori Bartolomea, Giovanni, Filippo, Margherita, Mario e Bruno, tutti domiciliati a Brescia, come da contratto condizionato di compravendita in data 14 giugno 1973 a rogito notar Giuseppe Intersimone di Roma, registrato all'ufficio atti privati il 3 luglio 1973, n. 12960.  
+292. Decreto del Presidente della Repubblica 21 maggio 1975, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Ente nazionale ACLI per l'istruzione professionale (ENAIP), in Roma, viene autorizzato ad acquistare dal comune di Ramacca (Catania), al prezzo simbolico di lire 37.300, un tratto di suolo comunale sito in piazza Italia e della estensione di mq 373, come da rogito di compravendita redatto dal segretario comunale in data 9 luglio 1967, n. 25 di repertorio, da destinare alla costruzione del centro addestramento della casa dei lavoratori di Ramacca.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 2 settembre 1975  
-Atti di Governo, registro n. 11, foglio n. 88
+Registrato alla Corte dei conti, addi' 8 luglio 1975  
+Atti di Governo, registro n. 10, foglio n. 101

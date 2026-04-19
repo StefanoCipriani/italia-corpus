@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1952 n. 3202
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1952 n. 3201
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1952 n. 3202
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1952 n. 3201
 ================================================================
 
 Trasferimento in proprieta' all'Ente per la colonizzazione del Delta Padano di terreni di proprieta' della Societa' Anonima Immobiliare "Lodigiana", con sede in Genova, in comune di Ostellato (Ferrara).
@@ -33,7 +33,7 @@ Art. 1
 ------
 
   
-E' approvato il piano particolareggiato di espropriazione compilato dall'Ente per la colonizzazione del Delta Padano, nei confronti della Societa' Anonima Immobiliare "Lodigiana", con sede in Genova, relativo ai terreni ricadenti nel comune di Ostellato (provincia di Ferrara), per una superficie di ettari 183.94.42, specificamente descritti nell'elenco n. 1 allegato al presente decreto.  
+E' approvato il piano particolareggiato di espropriazione compilato dall'Ente per la colonizzazione del Delta Padano, nei confronti della Societa' Anonima Immobiliare "Lodigiana", con sede in Genova, relativo ai terreni ricadenti nel comune di Ostellato (provincia di Ferrara), per una superficie di ettari 0.63.90, specificamente descritti nell'elenco n. 1 allegato ali presente decreto.  
 
 Art. 2
 ------
@@ -45,13 +45,13 @@ Art. 3
 ------
 
   
-E' ordinata l'immediata occupazione, da parte dell'Ente predetto, dei terreni indicati nei precedenti articoli 1 e 2.  
+E' ordinata, l'immediata occupazione, da parte dell'Ente predetto, dei terreni indicati nei precedenti articoli 1 e 2.  
 
 Art. 4
 ------
 
   
-L'elenco dei terreni, con l'indicazione dell'indennita' di espropriazione offerta, munito del visto del Ministro proponente, forma parte integrante del presente decreto, che entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.  
+L'elenco dei terreni, con l'indicazione dell'indennita' di espropriazione offerta, munito del visto del Ministro proponente, forma parte integrante del presente decreto, che entra in vigore il giorno stesso dalla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
@@ -65,15 +65,15 @@ Visto, il Guardasigilli: ZOLI
 
 Registrato alla Corte dei conti, addi' 13 gennaio 1953
 
-Atti del Governo, registro n. 68, foglio n. 85. - PALLA
+Atti del Governo, registro n. 68, foglio n. 86. - PALLA
 
 Allegato n. 1
 
- ALLEGATO N. 1.   
+ ALLEGATO N. 1   
   
-Elenco dei terreni intestati alla ditta Societa' Anonima Immobiliare "Lodigiana" (piano 369/10-C) con sede in Genova, in comune di Ostellato (provincia di Ferrara), trasferiti in proprieta' dell'Ente per la colonizzazione del Delta Padano, a norma delle [leggi 12 maggio 1950, n. 230, 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841) e [decreto Presidenziale 7 febbraio 1951, n. 69](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-02-07;69).   
+Elenco dei terreni intestati alla ditta Societa' Anonima Immobiliare "Lodigiana" (piano 140/9-B), con sede in Genova, in comune di Ostellato (provincia di Ferrara), trasferiti in proprieta' dell'Ente per la colonizzazione del Delta Padano, a norma delle [leggi 12 maggio 1950, n. 230, 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841) e [decreto Presidenziale 7 febbraio 1951, n. 69](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-02-07;69).   
   
   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=052U320200100010110001&dgu=1953-01-17&art.dataPubblicazioneGazzetta=1953-01-17&art.codiceRedazionale=052U3202)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=052U320100100010110001&dgu=1953-01-17&art.dataPubblicazioneGazzetta=1953-01-17&art.codiceRedazionale=052U3201)
   

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1979 n. 887
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1955 n. 958
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1979 n. 887
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1955 n. 958
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con i [regi decreti 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1927-10-13;2169); [31 ottobre 1929, n. 2481](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1929-10-31;2481); [30 ottobre 1930, n. 1858](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1930-10-30;1858); [22 ottobre 1931, n. 1422](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1931-10-22;1422); [27 ottobre 1932, n. 2082](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1932-10-27;2082); [13 dicembre 1934, n. 2404](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-13;2404); [1 ottobre 1936, n. 2020](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-01;2020); [13 luglio 1939, n. 1168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-07-13;1168); [26 ottobre 1940, numero 2029](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2029); [24 ottobre 1942, n. 1785, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1785) [21 aprile 1949, n. 451](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-21;451); [31 ottobre 1950, n. 1293](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1293); [11 maggio 1951, n. 633](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-05-11;633); [23 gennaio 1952, n. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-01-23;66); [25 giugno 1953, n. 753](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-06-25;753); [30 luglio 1953, n. 758](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-07-30;758); [25 agosto 1953, n. 857](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;857); [25 agosto 1953, n. 992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;992); [14 settembre 1954, n. 1198](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1198) e [11 aprile 1955, n. 621](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-04-11;621);
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,160 +18,188 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduta la [legge 3 novembre 1954, n. 1085](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-11-03;1085);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sulla proposta del Ministro per la pubblica istruzione;
 
-Sulla
------
+Decreta:
+--------
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Art. 1
 ------
 
   
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 192 - all'elenco delle scuole di specializzazione in medicina e chirurgia e' aggiunta la scuola di specializzazione in criminologia clinica.  
-
-Art. 2
-------
-
+Dopo l'art. 55, sono aggiunti i seguenti nuovi articoli con il conseguente spostamento della numerazione degli articoli successivi.  
   
-L'art. 231, relativo alle materie di insegnamento della scuola di specializzazione in endocrinologia, e' modificato nel senso che l'insegnamento di anatomia ed endocrinologia degli organi endocrini del primo anno di corso e' soppresso e sostituito da quello di anatomia ed embriologia delle ghiandole endocrine.  
-L'ultimo comma del suddetto art. 231 e' soppresso e sostituito dal seguente:  
+Facolta' di magistero.  
   
-Non sono concesse abbreviazioni di corso.  
-
-Art. 3
-------
-
+Art. 56. - La Facolta' di magistero conferisce:  
+a) la laurea in materie letterarie;  
+b) la laurea in pedagogia;  
+c) il diploma di abilitazione alla vigilanza nelle scuole elementari.  
   
+Laurea in materie letterarie.  
   
-Dopo l'art. 265, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in criminologia clinica:   
+Art. 57. - La durata del corso degli studi per la laurea in materie letterarie e' di quattro anni.  
+Sono titoli di ammissione il diploma di abilitazione magistrale e concorso.  
+Sono insegnamenti fondamentali:  
+1) Lingua e letteratura italiana (triennale);  
+2) Lingua e letteratura latina (triennale);  
+3) Storia (triennale);  
+4) Geografia (triennale);  
+5) Pedagogia;  
+6) Storia della filosofia;  
+7) Lingua e letteratura moderna straniera (biennale) a scelta tra lingua e letteratura francese, spagnola, tedesca e inglese.  
+Sono insegnamenti complementari:  
+1) Grammatica latina;  
+2) Filologia romanza;  
+3) Filologia germanica;  
+4) Istituzioni di diritto pubblico e legislazione scolastica;  
+5) Storia dell'arte medioevale e moderna;  
+6) Biologia delle razze umane;  
+7) Storia della grammatica e della lingua italiana;  
+8) Storia della musica;  
+9) Storia della lingua italiana;  
+10) Estetica;  
+11) Archeologia cristiana;  
+12) Letteratura cristiana antica.  
+Il concorso di ammissione consiste:  
+a) nella valutazione del voti riportati, agli esami per il conseguimento del diploma di abilitazione magistrale, nel gruppo delle materie letterarie;  
+b) in una prova scritta di cultura generale, per cui sono concesse sei ore di tempo.  
+Il terzo anno di corso di "geografia" deve essere differenziato come corso di applicazione.  
+Nel corso di "storia" (triennale) un anno deve essere dedicato alla storia romana, un anno alla storia medioevale ed un anno alla storia moderna, alternativamente.  
+Lo studente deve sostenere una prova scritta di traduzione latina, una della lingua straniera scelta ed una di cultura generale.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti fra i complementari.  
+Art. 58. - E' necessario osservare le seguenti precedenze di esami:  
+a) la prova scritta di traduzione dall'italiano in latino deve essere superata prima dell'ultimo esame orale di lingua e letteratura latina;  
+b) la prova scritta di traduzione dalla lingua straniera scelta deve essere superata prima dell'ultimo esame orale sulla lingua e letteratura straniera corrispondente;  
+c) la prova scritta di cultura generale deve essere superata prima dell'ultimo esame orale di lingua e letteratura italiana.  
   
-Scuola di specializzazione in criminologia clinica   
-Art. 266. - Presso l'istituto di antropologia criminale della facolta' di medicina e chirurgia dell'Universita' di Bari, e' istituita la scuola di specializzazione in criminologia clinica; la direzione della scuola e' affidata al professore di ruolo o fuori ruolo dalla stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Art. 267. - La scuola ha due indirizzi:   
-a) indirizzo medico-psicologico e psichiatrico forense, per i laureati in medicina e chirurgia;   
-b) indirizzo socio-psicologico, per i laureati in giurisprudenza, scienze politiche, pedagogia, sociologia, psicologia, lettere, filosofia.   
-Dell'indirizzo seguito viene fatta espressa menzione sul diploma di specializzazione.   
-La durata del corso della scuola e' di tre anni.   
-La frequenza e' obbligatoria.   
-Non sono consentite abbreviazioni di corso.   
-Art. 268. - Gli insegnamenti impartiti nella scuola sono i seguenti:   
-Insegnamenti fondamentali commi ai due indirizzi:   
-1) criminologia generale I;   
-2) elementi di diritto;   
-3) elementi di sociologia;   
-4) elementi di psicologia;   
-5) elementi di biologia;   
-6) metodologia della ricerca;   
-7) criminologia generale II;   
-8) criminologia minorile ;   
-9) trattamento criminologico;   
-10) politica criminale e diritto penitenziario.   
-Insegnamenti fondamentali dell'indirizzo medico-psicologico e psichiatrico-forense:   
-1) psicopatologia generale;   
-2) psichiatria clinica;   
-3) diagnostica criminologica;   
-4) medicina legale e criminalistica;   
-5) psicodiagnostica;   
-6) neurologia e psichiatria forense;   
-7) prevenzione della patologia del comportamento;   
-8) tecniche di rieducazione minorile;   
-9) legislazione socio-sanitaria.   
-Insegnamenti fondamentali dell'indirizzo socio-psicologico:   
-1) elementi di psicopatologia generale;   
-2) elementi di psichiatria clinica e forense;   
-3) tecniche di servizio sociale;   
-4) antropologia culturale;   
-5) elementi di medicina legale;   
-6) psicologia sociale;   
-7) tecniche psicopedagogiche;   
-8) sociologia della devianza;   
-9) metodi di prevenzione.   
-Insegnamenti complementari:   
-1) antropofenomenologia;   
-2) etologia dei comportamenti criminosi;   
-3) sociologia del diritto;   
-4) psicologia;   
-5) economia della sicurezza e della difesa sociale;   
-6) psicologia e psicopatologia dell'eta' evolutiva;   
-7) igiene mentale;   
-8) psicoterapia.   
-Art. 269. - Il piano degli studi della scuola di specializzazione e' il seguente:   
-1° Anno (comune ai due indirizzi):   
-1) criminologia generale I;   
-2) elementi di diritto;   
-3) elementi di sociologia;   
-4) elementi di psicologia;   
-5) elementi di biologia;   
-6) metodologia della ricerca;   
-7) una materia integrativa a scelta.   
-2° Anno:   
-a) Indirizzo medico-psicologico e psichiatrico-forense:   
-1) criminologia generale II;   
-2) psicopatologia generale;   
-3) psichiatria clinica;   
-4) diagnostica criminologica;   
-5) medicina legale e criminalistica;   
-6) psicodiagnostica;   
-7) criminologia minorile;   
-8) una materia integrativa a scelta.   
-b) Indirizzo socio-psicologico:   
-1) criminologia generale II;   
-2) elementi di psicopatologia generale;   
-3) elementi di psichiatria clinica e forense;   
-4) tecniche di servizio sociale;   
-5) antropologia culturale;   
-6) elementi di medicina legale;   
-7) criminologia minorile;   
-8) una materia integrativa a scelta.   
-3° Anno:   
-a) Indirizzo medico-psicologico e psichiatrico-forense:   
-1) neurologia e psichiatria forense;   
-2) prevenzione della patologia del comportamento;   
-3) trattamento criminologico;   
-4) tecniche di rieducazione minorile;   
-5) legislazione socio-sanitaria;   
-6) politica criminale e diritto penitenziario;   
-7) una materia integrativa a scelta.   
-b) Indirizzo socio-psicologico:   
-1) psicologia sociale;   
-2) tecniche psicopedagogiche;   
-3) sociologia della devianza;   
-4) metodi di prevenzione;   
-5) trattamento criminologico;   
-6) politica criminale e diritto penitenziario;   
-7) una materia integrativa a scelta.   
-Art. 270. - All'atto della domanda di iscrizione a ciascuno dei tre anni di corso l'allievo deve indicare alla segreteria della scuola una materia integrativa, da scegliere tra le materie complementari ovvero tra quelle fondamentali appartenenti all'indirizzo al quale non e' iscritto. L'indicazione e' vincolante.   
-Art. 271. - Gli insegnamenti possono essere integrati da esercitazioni pratiche nonche' da conferenze tenute da esperti stranieri e italiani.   
-Art. 272. - Alla scuola sono ammessi i laureati in medicina e chirurgia, in giurisprudenza, in scienze politiche, in pedagogia, in sociologia, in psicologia, in lettere, in filosofia, in numero complessivo non superiore a trenta per i tre anni di corso.   
-L'ammissione avviene mediante concorso per esami e titoli.   
-Art. 273. - Gli esami di profitto sono tenuti ogni anno per singole materie o per gruppi di materie.   
-Per essere ammesso all'esame di diploma l'allievo deve aver sostenuto ventidue esami, dei quali diciannove relativi alle materie fondamentali del suo indirizzo e tre relativi alle materie integrative da lui scelte.   
-I voti degli esami di profitto sono attribuiti in trentesimi; il voto dell'esame di diploma e' attribuito in cinquantesimi.   
-Art. 274. - L'esame di diploma consiste nella discussione di una dissertazione scritta originale, in una delle materie di insegnamento. Il tema, concordato con il docente, deve essere presentato al direttore della scuola, per l'approvazione entro trenta giorni dalla data di inizio dell'ultimo anno di corso.   
-A coloro che hanno superato l'esame di diploma viene rilasciato il diploma di specialista in criminologia clinica, con specificazione dell'indirizzo seguito.   
-Art. 275. Le norme per l'iscrizione, per gli esami, per le tasse, ecc., sono quelle generali delle scuole di specializzazione dello statuto dell'Universita' di Bari.   
+Laurea in pedagogia.  
+  
+Art. 59. - La durata del corso degli studi per la laurea in pedagogia e' di quattro anni.  
+Sono titoli di ammissione il diploma di abilitazione magistrale e concorso.  
+Sono insegnamenti fondamentali:  
+1) Lingua e letteratura italiana (biennale);  
+2) Lingua e letteratura latina (biennale);  
+3) Storia della filosofia (biennale);  
+4) Filosofia (biennale);  
+5) Pedagogia (triennale);  
+6) Storia (biennale);  
+7) Lingua e letteratura moderna straniera (biennale) a scelta tra lingua e letteratura francese, tedesca e inglese.  
+Sono insegnamenti complementari:  
+1) Filologia romanza;  
+2) Filologia germanica;  
+3) Istituzioni di diritto pubblico e legislazione scolastica;  
+4) Psicologia;  
+5) Storia dell'arte medioevale e moderna;  
+6) Biologia delle razze umane;  
+7) Estetica;  
+8) Storia della pedagogia italiana;  
+9) Storia delle dottrine politiche;  
+10) Psicologia dell'eta' evolutiva;  
+11) Storia del cristianesimo.  
+Il concorso di ammissione consiste:  
+a) nella valutazione dei voti riportati, agli esami per il conseguimento del diploma di abilitazione magistrale, nella filosofia e nella pedagogia;  
+b) in una prova scritta di cultura generale, per cui sono concesse sei ore di tempo.  
+Nel corso di "storia," (biennale) un anno deve essere dedicato alla storia medioevale ed un anno alla storia moderna alternativamente.  
+Lo studente deve sostenere una prova scritta di italiano, una di traduzione latina, una delle lingue straniere a scelta ed una di cultura generale sulle discipline filosofiche.  
+Per essere ammesso all'esame di laurea lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti fra i complementari.  
+Art. 60. - E' necessario osservare le seguenti precedenze di esami:  
+a) la prova scritta di italiano deve essere superata prima del secondo esame orale di lingua e letteratura italiana;  
+b) la prova scritta di traduzione dal latino in italiano deve essere superata prima del secondo esame orale di lingua e letteratura latina;  
+c) la prova scritta di traduzione dalla lingua straniera scelta deve essere superata prima del secondo esame orale sulla lingua e letteratura straniera corrispondente;  
+d) la prova di cultura generale sulle discipline filosofiche deve essere superata prima dell'ultimo esame orale di pedagogia.  
+  
+Diploma di abilitazione alla vigilanza nelle scuole elementari.  
+  
+Art. 61. - La durata del corso degli studi per il diploma di abilitazione alla vigilanza nelle scuole elementari e' di tre anni.  
+Sono titoli di ammissione il diploma di abilitazione magistrale e concorso.  
+Sono insegnamenti fondamentali:  
+1) Pedagogia (triennale);  
+2) Lingua e letteratura italiana (biennale);  
+3) Lingua e letteratura latina (biennale);  
+4) Storia (biennale);  
+5) Geografia (biennale);  
+6) Storia della filosofia (biennale);  
+7) Istituzioni di diritto pubblico e legislazione scolastica;  
+8) Igiene.  
+Sono insegnamenti complementari:  
+1) Lingua moderna straniera a scelta (biennale).  
+Il concorso di ammissione consiste:  
+a) nella valutazione dei voti riportati, agli esami per il conseguimento del diploma di abilitazione magistrale, nel gruppo delle materie letterarie e nella filosofia e pedagogia;  
+b) in una prova scritta di cultura generale per cui sono concesse sei ore di tempo.  
+Lo studente deve sostenere una prova scritta di pedagogia, una di italiano e una della lingua straniera scelta.  
+Per conseguire il diploma lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed in quello complementare.  
+Art. 62. - E' necessario osservare le seguenti precedenze di esami:  
+a) la prova scritta di pedagogia deve essere superata prima dell'ultima prova orale di pedagogia;  
+b) la prova scritta di italiano deve essere superata prima della seconda prova orale di lingua e letteratura italiana;  
+c) la prova scritta di traduzione dalla lingua straniera moderna scelta deve essere superata prima del secondo esame orale sulla lingua straniera corrispondente.  
+Art. 63. - Gli insegnamenti di durata pluriennale importano un esame separato alla fine di ogni anno, peraltro, il candidato puo' ottenere di sostenere non oltre due esami annuali di una determinata materia nella stessa sessione.  
+Art. 64. - Le prove scritte di italiano consistono nello svolgimento di un tema di carattere letterario.  
+Quelle di latino, in una breve versione di latino. Quello di francese in un dettato e in un breve componimento.  
+Quelle di inglese, tedesco e spagnolo in una versione della lingua straniera. Alle prove di cultura generale per laureandi in materie letterarie, di cultura generale filosofica per laureandi in pedagogia, di pedagogia per i diplomati in vigilanza scolastica, sono assegnate cinque ore di tempo; alle prove scritte di latino tre ore; alle prove di lingue straniere due ore.  
+Art. 65. - L'esame di laurea consiste nella presentazione di una dissertazione scritta e nella discussione orale di essa, la quale attesti una soddisfacente cultura generale.  
+L'argomento della dissertazione deve essere letterario, storico e geografico per gli aspiranti alla laurea in materie letterarie; di carattere filosofico per gli aspiranti alla laurea in pedagogia; di carattere pedagogico per gli iscritti al corso per il conseguimento del diploma di abilitazione alla vigilanza nelle scuole elementari.  
+Art. 66. - Coloro che abbiano conseguito una laurea possono essere ammessi a conseguirne una seconda, o a conseguire il diploma di abilitazione alla vigilanza nelle scuole elementari.  
+Parimenti coloro che abbiano conseguito il diploma di abilitazione alla vigilanza nelle scuole elementari possono essere ammessi a conseguire una laurea.  
+Gli iscritti sono tenuti a seguire i corsi e a superare gli esami alle condizioni specificate nei seguenti articoli.  
+Art. 67. - I laureati in materie letterarie aspiranti alla laurea in pedagogia sono iscritti al terzo anno di corso con l'obbligo di seguire gli insegnamenti e superare gli esami come appresso indicati:  
+1) Pedagogia (biennale);  
+2) Filosofia (biennale);  
+3) Storia della filosofia.  
+Va seguito, inoltre, un corso da giudicarsi, caso per caso, dalla Facolta'.  
+Prima dell'esame di laurea in pedagogia, occorre sempre sostenere e superare la prova scritta di cultura generale sulle discipline filosofiche.  
+Art. 68. - I laureati in pedagogia aspiranti alla laurea in materie letterarie, quando abbiano gia' seguito un corso di geografia, sono iscritti al terzo anno di corso con l'obbligo di seguire gli insegnamenti e superare gli esami come appresso indicanti:  
+1) Lingua e letteratura italiana;  
+2) Lingua e letteratura latina;  
+3) Storia;  
+4) Geografia (biennale).  
+Prima dell'esame di laurea, occorre sostenere e superare la prova scritta di cultura generale.  
+Art. 69. - I laureati in materie letterarie aspiranti al conseguimento del diploma di abilitazione alla vigilanza nelle scuole elementari, quando abbiano gia' seguito un corso di pedagogia, sono iscritti al terzo anno di detto corso con l'obbligo di seguire gli insegnamenti e superare gli esami come appresso indicati:  
+1) Pedagogia (biennale);  
+2) Storia della filosofia;  
+3) Istituzioni di diritto pubblico e legislazione scolastica (quando non sia stato superato nel corso di provenienza);  
+4) Igiene.  
+Prima dell'esame di laurea, occorre sostenere e superare la prova scritta di pedagogia.  
+Art. 70. - I laureati in pedagogia aspiranti al conseguimento del diploma di abilitazione alla vigilanza nelle scuole elementari, quando abbiano gia' seguito un corso di geografia, sono iscritti al terzo anno di detto corso con l'obbligo di seguire gli insegnamenti e superare gli esami come appresso indicati.  
+1) Geografia (biennale);  
+2) Istituzioni di diritto pubblico e legislazione scolastica (quando non sia stato superato nel corso di provenienza);  
+3) Igiene.  
+Va seguito, inoltre, un corso da giudicarsi, caso per caso, dalla Facolta'.  
+Prima dell'esame di laurea, occorre sostenere e superare la prova scritta di pedagogia.  
+Art. 71. - I diplomati nel corso di vigilanza nelle scuole elementari aspiranti al conseguimento della laurea in materie letterarie sono iscritti al terzo anno di detto corso con l'obbligo di seguire gli insegnamenti e superare gli esami come appresso indicati:  
+1) Lingua e letteratura italiana;  
+2) Lingua e letteratura latina;  
+3) Storia;  
+4) Geografia;  
+5) Quattro corsi complementari a scelta tra quelli prescritti per la laurea in materie letterarie.  
+Prima dell'esame di laurea in materie letterarie, occorre sostenere e superare una prova scritta di traduzione latina ed una di cultura generale.  
+Art. 72. - I diplomati nel corso di vigilanza nelle scuole elementari aspiranti al conseguimento della laurea in pedagogia sono iscritti al terzo anno di detto corso con l'obbligo di seguire gli insegnamenti e superare gli esami come appresso indicati:  
+1) Filosofia (biennale);  
+2) Quattro corsi complementari a scelta tra quelli prescritti per la laurea in pedagogia.  
+Prima dell'esame di laurea in pedagogia, occorre sostenere e superare una prova scritta di traduzione latina ed una di cultura generale sulle discipline filosofiche.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 ottobre 1979
+### Dato a Roma, addi' 25 settembre 1955
 
-PERTINI VALITUTTI
+GRONCHI ROSSI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: MORO
 
-Registrato alla Corte dei conti, addi' 23 aprile 1980
+Registrata alla Corte dei conti, addi' 28 ottobre 1955
 
-Registro n. 36 Istruzione, foglio n. 251
+Atti del Governo, registro n. 93, foglio n. 95. - CARLOMAGNO

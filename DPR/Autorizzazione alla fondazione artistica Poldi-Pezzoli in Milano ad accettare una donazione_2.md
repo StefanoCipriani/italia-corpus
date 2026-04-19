@@ -1,19 +1,19 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1978 n. 493
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 maggio 1977 n. 396
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1978 n. 493
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 maggio 1977 n. 396
 =============================================================
 
-Autorizzazione alla fondazione artistica "Poldi-Pezzoli", in Milano, ad accettare una donazione.
-------------------------------------------------------------------------------------------------
+Autorizzazione alla fondazione artistica Poldi-Pezzoli, in Milano, ad accettare una donazione.
+----------------------------------------------------------------------------------------------
 
 Art. 1
 ------
 
 N.
 
-493. Decreto del Presidente della Repubblica 1 giugno 1978, col quale, sulla proposta del Ministro per i beni culturali e ambientali, la fondazione artistica "Poldi-Pezzoli", in Milano, viene autorizzata ad accettare la donazione, disposta dalla sig.ra Luisa Wanner Quarti, con atto 26 gennaio 1977, n. 47063 di repertorio, a rogito dott. Marco Orombelli, notaio in Milano, consistente in un mobiletto da the', toilette, opera di Eugenio Quarti dell'anno 1910 (circa), con destinazione al museo "Poldi-Pezzoli".  
+396. Decreto del Presidente della Repubblica 9 maggio 1977, col quale, sulla proposta del Ministro per i beni culturali ed ambientali, la fondazione artistica Poldi-Pezzoli, in Milano, viene autorizzata ad accettare la donazione disposta dalla sig.ra Caterina Robiati, consistente nei seguenti tre dipinti: Greghetto, "La Maga Circe" di cm 133 X 99; Fra Galgario "Ritratto di giovane" di cm 100 X 80; B. Strozzi "Madonna con Bambino e S. Giovanni" di cm 115 X 80; nonche' di un quarto dipinto di sua libera disponibilita', Fra Galgario "Ritratto di Giovane detto l'Allegrezza" di cm 130x88, con destinazione al museo "Poldi-Pezzoli".  
   
 Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 19 agosto 1978  
-Registro n. 11 Beni culturali, foglio n. 181
+Registrato alla Corte dei conti, addi' 30 giugno 1977  
+Registro n. 10 Beni culturali, foglio n. 86

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 luglio 1953 n. 888
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1948 n. 1543
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 luglio 1953 n. 888
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1948 n. 1543
+=================================================================
 
 Autorizzazione all'Universita' di Padova ad accettare una donazione.
 --------------------------------------------------------------------
@@ -12,8 +12,7 @@ Art. 1
 
 N.
 
-888. Decreto del Presidente della Repubblica 11 luglio 1953, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Padova viene autorizzata ad accettare la donazione di L. 100.000 nominali investito in titoli nominativi dello Stato, disposta in suo favore dal comm. ing. Marco Zaccaria, per l'istituzione con la rendita del capitale donato, di un premio da intitolarsi "Premio di studio avv. dott, Giovanni Battista Zaccaria".  
+1543. Decreto del Presidente della Repubblica 14 settembre 1948, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Padova viene autorizzata ad accettare la donazione della somma di L. 103.000 nominali, in buoni del Tesoro quinquennali a premi 5%, disposta in suo favore, con atto pubblico in data 27 ottobre 1947, dalla famiglia Bronca di Padova e da amici oblatori, per l'istituzione di una borsa di studio da intitolarsi al nome di "Paolo Emilio Bronca" e da conferirsi ad uno studente del 3° anno del corso di laurea in chimica industriale, meritevole e bisognoso.  
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei Conti, addi' 1 dicembre 1953  
-Atti del Governo, registro n. 80, foglio n. 48. - PALLA
+Visto, il Guardasigilli: GRASSI  
+Registrato alla Corte dei conti, addi' 27 dicembre 1948

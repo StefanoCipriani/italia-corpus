@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1986 n. 1034
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 gennaio 1986 n. 302
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1986 n. 1034
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 gennaio 1986 n. 302
+==============================================================
 
 Autorizzazione alla Lega nazionale per la difesa del cane, in Milano, ad accettare un legato.
 ---------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1034. Decreto del Presidente della Repubblica 27 dicembre 1986, col quale, sulla proposta del Ministro della sanita', la Lega nazionale per la difesa del cane, in Milano, viene autorizzata ad accettare il legato, consistente in una somma equivalente al valore medio di borsa di monete sterline in oro da versarsi mensilmente alla Lega stessa, disposto dal signor Giovanni Mossa con testamento olografo 1 febbraio 1977, pubblicato in data 24 febbraio 1977, n. 16021/6053 di repertorio, a rogito dott. Gian Maria Grisi, notaio in Belgioioso (Pavia), registrato a Corteolona (Pavia), in data 1 marzo 1977 al n. 187.   
+302. Decreto del Presidente della Repubblica 23 gennaio 1986, col quale, sulla proposta del Ministro della sanita', la Lega nazionale per la difesa del cane, in Milano, viene autorizzata ad accettare il legato, consistente nella somma di L. 10.000.000 e in beni immobili siti in Milano e Trescore Balneario (Bergamo) valutati complessivamente dagli uffici tecnici erariali di Milano e Bergamo negli anni 1976-77 in L. 205.600.000, disposto dalla sig.ra Bacchella Rosa Carolina con testamento olografo 3 novembre 1976, pubblicato in data 28 luglio 1977, n. 566788/15532 di repertorio, a rogito dott. Angelo Giordano coadiutore del dottor Giuseppe Rapelli, notaio in Busto Arsizio, da destinare alla realizzazione di un centro addestramento cani guida per ciechi poveri.   
   
-Visto, il Guardasigilli: ROGNONI   
-Registrato alla Corte dei conti, addi' 27 febbraio 1987   
-Registro n. 2 Sanita', foglio n. 290
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 11 giugno 1986   
+Registro n. 7 Sanita', foglio n. 92

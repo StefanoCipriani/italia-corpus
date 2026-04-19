@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 986
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 febbraio 1955 n. 135
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 986
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 febbraio 1955 n. 135
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
@@ -10,106 +10,160 @@ Modificazioni allo statuto dell'Universita' degli studi di Genova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regi decreti 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1927-10-13;2846); [25 ottobre 1928, n. 3510](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1928-10-25;3510); [31 ottobre 1929, n. 2396](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1929-10-31;2396); [30 ottobre 1930, n. 1859](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1930-10-30;1859); [1 ottobre 1931, n. 1371](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1931-10-01;1371); [27 ottobre 1932, n. 2086](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1932-10-27;2086); [6 dicembre 1934, n. 2281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-06;2281); [1 ottobre 1936, n. 2474](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-01;2474); [20 aprile 1939, n. 1086](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-04-20;1086); [16 marzo 1942, n. 324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-03-16;324); [5 settembre 1942, n. 1236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-09-05;1236); [24 ottobre 1942, n. 1671 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1671) [2 novembre 1948, n. 1505](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-11-02;1505); [30 ottobre 1949, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1058); [4 luglio 1950, n. 1255](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-07-04;1255); [31 ottobre 1950, n. 1312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1312); [31 agosto 1951, n. 1102](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-31;1102); [18 giugno 1954, n. 754](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-18;754) e [26 ottobre 1954, n. 1251](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-26;1251);
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge-20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Veduto l'[art. 16 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art16);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Veduta la necessita' di adeguare le norme sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Sulla proposta del Ministro per la pubblica istruzione;
 
-Sulla
------
+Decreta:
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 30. - Agli insegnamenti complementari del corso di laurea in lettere sono aggiunti quelli di:
+
+19) Papirologia;
+
+20) Letteratura cristiana antica;
+
+21) Filologia umanistica.
+
+Art. 44. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di:
+
+13) Neurochirurgia.
+
+Dopo l'art. 186, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della scuola di specializzazione in anestesiologia.
+
+Scuola di specializzazione in anestesiologia
+
+Art. 187. - Presso la clinica chirurgica e' istituita la scuola di specializzazione in anestesiologia la quale ha lo scopo di conferire adeguata competenza teorica e pratica ai laureati in medicina e chirurgia i quali intendano dedicarsi all'esercizio di detta pratica medico-chirurgica.
+
+La durata del corso degli studi e' di due anni.
+
+Direttore della scuola e' il direttore della clinica chirurgica.
+
+Le norme relative all'iscrizione, ad eventuali abbreviazioni di corso, alla frequenza alle lezioni ed alle esercitazioni, agli esami, al pagamento delle tasse, sopratasse e contributi, sono quelle generali delle scuole di specializzazione e di perfezionamento contenute negli articoli da 81 a 97 dello statuto.
+
+Art. 188. - Alla scuola possono iscriversi solo i laureati in medicina e chirurgia.
+
+Il numero delle iscrizioni sara' stabilito secondo i criteri dell'art. 85 dello statuto.
+
+Le materie di insegnamento sono:
+
+1° anno:
+
+Nozioni fondamentali di anatomia applicata alla anestesia;
+
+Nozioni fondamentali di fisiologia applicata alla anestesia;
+
+Nozioni fondamentali di biochimica applicata alla anestesia;
+
+La farmacologia degli anestetici e degli analgesici;
+
+La preparazione dell'ammalato chirurgico;
+
+Nozioni di tecnica operatoria.
+
+2° anno:
+
+Fisiologia e clinica della anestesia;
+
+Tecniche di anestesia ed analgesia;
+
+L'assistenza e la rianimazione dell'operato;
+
+Anestesie speciali.
+
+Art. 189. - Costituisce parte del corso l'insegnamento pratico che sara' tenuto durante l'anno accademico al letto del malato e nelle camere operatorie della clinica chirurgica e dei reparti clinici ed ospedalieri espressamente designati. Alle esercitazioni pratiche gli allievi sono tenuti ad intervenire per un periodo di almeno sei mesi nel corso di ogni anno accademico; tale periodo puo' essere frazionato in turni di tre mesi ciascuno. L'allievo che, oltre alla frequenza alle lezioni, non avra' raggiunto un numero sufficiente di frequenza alle esercitazioni pratiche, non potra' essere ammesso al colloquio alla fine del primo anno o all'esame di diploma alla fine del secondo anno.
+
+Art. 190. - Al termine del secondo anno agli allievi che hanno ottenuto l'approvazione nell'esame finale viene rilasciato il diploma di specialista in anestesiologia, valido a tutti gli effetti di legge.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 4 febbraio 1955
+
+EINAUDI
+
+ERMINI
+
+Visto, il Guardasigilli: DE PIETRO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 29 marzo 1955 Atti del Governo, registro n. 89, foglio n. 202. - CARLOMAGNO
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Lo statuto dell'Universita' di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Articolo unico  
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regi decreti 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1927-10-13;2846); [25 ottobre 1928, n. 3510](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1928-10-25;3510); [31 ottobre 1929, n. 2396](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1929-10-31;2396); [30 ottobre 1930, n. 1859](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1930-10-30;1859); [1 ottobre 1931, n. 1371](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1931-10-01;1371); [27 ottobre 1932, n. 2086](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1932-10-27;2086); [6 dicembre 1934, n. 2281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-06;2281); [1 ottobre 1936, n. 2474](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-01;2474); [20 aprile 1939, n. 1086](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-04-20;1086); [16 marzo 1942, n. 324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-03-16;324); [5 settembre 1942, n. 1236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-09-05;1236); [24 ottobre 1942, n. 1671 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1671) [2 novembre 1948, n. 1505](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-11-02;1505); [30 ottobre 1949, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1058); [4 luglio 1950, n. 1255](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-07-04;1255); [31 ottobre 1950, n. 1312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1312); [31 agosto 1951, n. 1102](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-31;1102); [18 giugno 1954, n. 754](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-18;754) e [26 ottobre 1954, n. 1251](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-26;1251);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge-20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Dopo l'art. 443, e con il conseguente spostamento della numerazione, sono inseriti i seguenti nuovi articoli relativi all'istituzione della seconda scuola di specializzazione in pediatria.  
+Decreta:  
   
-Scuola di specializzazione in pediatria (seconda scuola)  
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 30. - Agli insegnamenti complementari del corso di laurea in lettere sono aggiunti quelli di:  
+19) Papirologia;  
+20) Letteratura cristiana antica;  
+21) Filologia umanistica.  
+Art. 44. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di:  
+13) Neurochirurgia.  
+Dopo l'art. 186, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della scuola di specializzazione in anestesiologia.  
   
-Art. 444. - Presso l'istituto di puericultura e medicina neonatale e' istituita la scuola di specializzazione in pediatria (seconda scuola). Essa conferisce il diploma di specializzazione in pediatria.  
-La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
-Art. 445. - La durata del corso di studi e' di quattro anni.  
-Art. 446. - Il numero massimo degli allievi e' di quarantotto complessivamente per l'intero corso di studi.  
-Art. 447. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-1) genetica;  
-2) auxologia;  
-3) alimentazione;  
-4) epidemiologia;  
-5) malattie infettive;  
-6) clinica pediatrica I.  
-2° Anno:  
-1) radiologia;  
-2) legislazione del minore;  
-3) organizzazione sanitaria;  
-4) psicologia pediatrica;  
-5) oculistica ed ortottica;  
-6) otorino e foniatria;  
-7) odonto;  
-8) neonatologia I;  
-9) chirurgia pediatrica I;  
-10) pediatria preventiva e sociale I;  
-11) clinica pediatrica II.  
-3° Anno:  
-1) neurologia;  
-2) psichiatria infantile;  
-3) nefrologia e urologia;  
-4) ginecologia pediatrica;  
-5) neonatologia II;  
-6) chirurgia pediatrica II;  
-7) pediatria preventiva e sociale II;  
-8) cardiologia I;  
-9) endocrinologia;  
-10) ematologia I;  
-11) immunologia I;  
-12) gastroenterologia I;  
-13) clinica pediatrica III.  
-4° Anno:  
-1) oncologia;  
-2) pneumologia;  
-3) ortopedia e traumatologia;  
-4) dermatologia;  
-5) cardiologia II;  
-6) endocrinologia II;  
-7) ematologia II;  
-8) immunologia II;  
-9) gastroenterologia II;  
-10) clinica pediatrica IV.  
-Art. 448. - La frequenza alle lezioni, alle esercitazioni pratiche e' obbligatoria.  
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto, non potranno essere ammessi a sostenere le prove d'esame.  
-Art. 449. - Alla fine di ciascun anno di corso gli iscritti, per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame sara' sostenuto anno per anno.  
-Al termine del corso di studi, per il conseguimento del diploma di specializzazione in pediatria, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione, un esame teorico di clinica pediatrica e nell'esame clinico di un malato.  
+Scuola di specializzazione in anestesiologia  
+Art. 187. - Presso la clinica chirurgica e' istituita la scuola di specializzazione in anestesiologia la quale ha lo scopo di conferire adeguata competenza teorica e pratica ai laureati in medicina e chirurgia i quali intendano dedicarsi all'esercizio di detta pratica medico-chirurgica.  
+La durata del corso degli studi e' di due anni.  
+Direttore della scuola e' il direttore della clinica chirurgica.  
+Le norme relative all'iscrizione, ad eventuali abbreviazioni di corso, alla frequenza alle lezioni ed alle esercitazioni, agli esami, al pagamento delle tasse, sopratasse e contributi, sono quelle generali delle scuole di specializzazione e di perfezionamento contenute negli articoli da 81 a 97 dello statuto.  
+Art. 188. - Alla scuola possono iscriversi solo i laureati in medicina e chirurgia.  
+Il numero delle iscrizioni sara' stabilito secondo i criteri dell'art. 85 dello statuto.  
+Le materie di insegnamento sono:  
+1° anno:  
+Nozioni fondamentali di anatomia applicata alla anestesia;  
+Nozioni fondamentali di fisiologia applicata alla anestesia;  
+Nozioni fondamentali di biochimica applicata alla anestesia;  
+La farmacologia degli anestetici e degli analgesici;  
+La preparazione dell'ammalato chirurgico;  
+Nozioni di tecnica operatoria.  
+2° anno:  
+Fisiologia e clinica della anestesia;  
+Tecniche di anestesia ed analgesia;  
+L'assistenza e la rianimazione dell'operato;  
+Anestesie speciali.  
+Art. 189. - Costituisce parte del corso l'insegnamento pratico che sara' tenuto durante l'anno accademico al letto del malato e nelle camere operatorie della clinica chirurgica e dei reparti clinici ed ospedalieri espressamente designati. Alle esercitazioni pratiche gli allievi sono tenuti ad intervenire per un periodo di almeno sei mesi nel corso di ogni anno accademico; tale periodo puo' essere frazionato in turni di tre mesi ciascuno. L'allievo che, oltre alla frequenza alle lezioni, non avra' raggiunto un numero sufficiente di frequenza alle esercitazioni pratiche, non potra' essere ammesso al colloquio alla fine del primo anno o all'esame di diploma alla fine del secondo anno.  
+Art. 190. - Al termine del secondo anno agli allievi che hanno ottenuto l'approvazione nell'esame finale viene rilasciato il diploma di specialista in anestesiologia, valido a tutti gli effetti di legge.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1981
+### Dato a Roma, addi' 4 febbraio 1955
 
-PERTINI BODRATO
+EINAUDI ERMINI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: DE PIETRO
 
-Registrato alla Corte dei conti, addi' 9 febbraio 1982
+Registrato alla Corte dei conti, addi' 29 marzo 1955
 
-Registro n. 20 Istruzione, foglio n. 171
+Atti del Governo, registro n. 89, foglio n. 202. - CARLOMAGNO

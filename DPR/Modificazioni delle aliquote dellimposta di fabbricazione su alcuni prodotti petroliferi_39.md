@@ -1,59 +1,65 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1986 n. 366
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1987 n. 493
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1986 n. 366
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1987 n. 493
+===============================================================
 
-Modificazioni delle aliquote dell'imposta di fabbricazione su alcuni prodotti petroliferi.
-------------------------------------------------------------------------------------------
+Modificazioni, delle aliquote dell'imposta di fabbricazione su alcuni prodotti petroliferi.
+-------------------------------------------------------------------------------------------
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
 Visti gli [articoli 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art76) e [87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
 
-Vista la [legge 25 marzo 1986, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-03-25;73), recante delega al Governo per la emanazione di norme concernenti l'aumento o la riduzione dell'imposta di fabbricazione sui prodotti petroliferi con riferimento alla riduzione o all'aumento dei prezzi medi europei di tali prodotti;
+Vista la [legge 9 ottobre 1987, n. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-09;417), recante delega al Governo per la emanazione di norme concernenti l'aumento o la riduzione dell'imposta di fabbricazione sui prodotti petroliferi con riferimento alla riduzione o all'aumento dei prezzi medi di tali prodotti;
 
-Vista la comunicazione della segreteria del Comitato interministeriale prezzi in data 16 luglio 1986, concernente la variazione dei prezzi medi europei sui prodotti petroliferi;
+Vista la comunicazione della segreteria del Comitato interministeriale prezzi in data 1 dicembre 1987, concernente la variazione dei prezzi medi europei sui prodotti petroliferi;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 17 luglio 1986;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 3 dicembre 1987;
 
-Sulla proposta del Ministro delle finanze, di concerto con i Ministri del bilancio e della programmazione economica, del tesoro e dell'industria, del commercio e dell'artigianato;
+Sulla proposta del Ministro delle finanze, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica e dell'industria, del commercio e dell'artigianato;
 
-E M A N A il seguente decreto:
+EMANA
+-----
+
+il seguente decreto:
 
 Art. 1
 ------
 
-1. A partire dal 18 luglio 1986, l'imposta di fabbricazione e la corrispondente sovrimposta di confine sui seguenti prodotti petroliferi sono aumentate:
+1. A partire dal 4 dicembre 1987, l'imposta di fabbricazione e la corrispondente sovrimposta di confine sui seguenti prodotti petroliferi sono diminuite:
 
-a) da L. 79.893 a L. 80.890 per ettolitro, alla temperatura di 15° centigradi, per le benzine speciali diverse dall'acqua ragia minerale, per la benzina e per il petrolio diverso da quello lampante;
+a) da L. 87.085 a L. 85.803 per ettolitro, alla temperatura di 15°C, per le benzine speciali diverse dell'acqua ragia minerale, per la benzina e per il petrolio diverso da quello lampante;
 
-b) da L. 7.989,30 a L. 8.089 per ettolitro, alla temperatura di 15° centigradi, per il prodotto denominato "Jet Fuel JP/4", destinato all'Amministrazione della difesa, relativamente al quantitativo eccedente il contingente annuo di tonnellate 18.000 sulle quali e' dovuta l'imposta nella misura normale stabilita per la benzina;
+b) da L. 8.708,50 a L. 8.580,30 per ettolitro, alla temperatura di 15°C, per il prodotto denominato "Jet Fuel JP/4", destinato all'Amministrazione della difesa, relativamente al quantitativo eccedente il contingente annuo di tonnellate 18.000 sulle quali e' dovuta l'imposta nella misura normale stabilita per la benzina.
 
-c) da L. 23.936 a L. 25.128 per ettolitro, alla temperatura di 15° centigradi, per gli oli da gas da usare come combustibili, di cui alla lettera F), punto 1), della tabella B allegata alla [legge 19 marzo 1973, n. 32](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-03-19;32);
+Art. 2
+------
 
-d) da L. 7.916 a L. 8.273, da L. 9.300 a L. 9.728 e da L. 27.283 a L. 28.638 per quintale, rispettivamente, per gli oli combustibili diversi da quelli speciali, semifluidi, fluidi e fluidissimi, di cui alla lettera H), punti 1-b), 1-c) e 1-d), della predetta tabella B.
+1. Alle minori entrate derivanti dall'attuazione del presente decreto, valutate in lire 17 miliardi per l'anno 1987 ed in lire 205 miliardi per gli anni 1988, 1989 e 1990, si provvede a valere sulle maggiori entrate derivanti dall'attuazione del [decreto del Presidente della Repubblica 27 novembre 1987, n. 483](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1987-11-27;483), concernente modificazioni delle aliquote dell'imposta di fabbricazione su alcuni prodotti petroliferi, emanato in forza della [legge 9 ottobre 1987, n. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-10-09;417).
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-### Dato a Roma, addi' 18 luglio 1986
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Dato a Roma, addi' 3 dicembre 1987
 
 COSSIGA
 
-CRAXI, Presidente del Consiglio dei Ministri
+GORIA, Presidente del Consiglio dei Ministri
 
-VISENTINI, Ministro delle finanze
+GAVA, Ministro delle finanze
 
-ROMITA, Ministro del bilancio e della programmazione economica
+AMATO, Ministro del tesoro
 
-GORIA, Ministro del tesoro
+COLOMBO, Ministro del bilancio e della programmazione economica
 
-ALTISSIMO, Ministro dell'industria, del commercio e dell'artigianato
+BATTAGLIA, Ministro dell'industria, del commercio e dell'artigianato
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: VASSALLI
 
-Registrato alla Corte dei conti, addi' 18 luglio 1986
+Registrato alla Corte dei conti, addi' 4 dicembre 1987
 
-Atti di Governo, registro n. 61, foglio n. 25
+Atti di Governo, registro n. 70, foglio n. 10

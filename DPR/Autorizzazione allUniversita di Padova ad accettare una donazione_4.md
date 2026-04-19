@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1948 n. 1543
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1948 n. 1523
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1948 n. 1543
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1948 n. 1523
 =================================================================
 
 Autorizzazione all'Universita' di Padova ad accettare una donazione.
@@ -12,7 +12,7 @@ Art. 1
 
 N.
 
-1543. Decreto del Presidente della Repubblica 14 settembre 1948, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Padova viene autorizzata ad accettare la donazione della somma di L. 103.000 nominali, in buoni del Tesoro quinquennali a premi 5%, disposta in suo favore, con atto pubblico in data 27 ottobre 1947, dalla famiglia Bronca di Padova e da amici oblatori, per l'istituzione di una borsa di studio da intitolarsi al nome di "Paolo Emilio Bronca" e da conferirsi ad uno studente del 3° anno del corso di laurea in chimica industriale, meritevole e bisognoso.  
+1523. Decreto del Presidente della Repubblica 14 settembre 1948, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Padova viene autorizzata ad accettare la donazione della somma di L. 50.000 nominali, in titoli di Stato 5%, disposta in suo favore dal dott. Emilio Turco, con atto pubblico in data 15 marzo 1947, per l'istituzione di un premio di studio da intitolarsi al nome del figlio "Dott. Emilio Turco" e da conferirsi ogni due anni, ad un laureato in medicina e chirurgia dell'Universita' medesima, nato nella Venezia Euganea, che abbia compiuto ricerche originali di studio in tema di otorinolaringoiatria.  
   
 Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 27 dicembre 1948
+Registrato alla Corte dei conti conti, addi' 23 dicembre 1948

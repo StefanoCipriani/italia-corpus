@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1953 n. 457
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1966 n. 137
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1953 n. 457
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1966 n. 137
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 -------------------------------------------------------------------
@@ -10,13 +10,15 @@ Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), e modificato con [regi decreti 7 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-07;1471) e [17 ottobre 1941, n. 1205](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1205), ulteriormente modificato con [decreto del Capo provvisorio dello Stato 5 ottobre 1946, n. 309](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-10-05;309), e con [decreti del Presidente della Repubblica 28 luglio 1950, n. 936](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-07-28;936); [30 ottobre 1950, n. 1128](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1128); [11 aprile 1951, n. 472](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;472); [27 ottobre 1951, n. 1675](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1675) e [14 marzo 1952, n. 768](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-03-14;768);
+Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, numero 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
@@ -28,46 +30,69 @@ Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' cosi' ulteriormente modificato:
+Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:
 
-Art. 10. - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti quelli di:
+Art. 18, relativo alle propedeuticita' di esami nel corso di laurea in Scienze politiche e' modificato nel senso che viene aggiunto il seguente comma:
 
-8) Storia dei trattati e politica internazionale;
+"Gli esami di Istituzioni di diritto pubblico e di Storia moderna (biennale) devono precedere quello di Storia ed istituzioni dei paesi afro-asiatici".
 
-9) Diritto privato comparato.
+Art. 32. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' aggiunto quello di:
 
-Gli attuali articoli 59, 61 e 62, relativi al corso di perfezionamento per la conduzione di aziende agrarie, sono cosi' modificati:
+13) Semeiotica chirurgica.
 
-Art. 59. - Gli iscritti al corso di perfezionamento per la conduzione di aziende agrarie, potranno nelle forme rituali, essere ammessi a godere dei benefici dell'Opera universitaria.
+Art. 68. - Agli insegnamenti complementari del corso di laurea in Chimica (indirizzo organico-biologico) sono aggiunti quelli di:
 
-Art. 61. - I proventi del corso sono rappresentati dalle tasse, sopratasse e contributi e da quegli stanziamenti che il Consiglio di amministrazione credera' di concedere anno per anno. Le tasse sono le stesse di quelle fissate per il corso di laurea in scienze agrarie oltre quel contributo per spese di esercitazioni che sara' determinato dal Consiglio di amministrazione della Universita' su proposta delle competenti autorita' accademiche.
+23) Chimica industriale;
 
-Art. 62. - Dall'importo delle tasse di iscrizione viene detratto il 15% a favore dell'Opera universitaria; il rimanente viene erogato con deliberazione del Consiglio di amministrazione.
+24) Chimica quantistica;
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+25) Cinetica chimica;
 
-Dato a Roma, addi' 11 marzo 1953
+26) Chimica delle sostanze naturali.
 
-EINAUDI
+Agli insegnamenti complementari del corso di laurea in Chimica (indirizzo inorganico-chimico-fisico) sono aggiunti quelli di:
 
-SEGNI
+24) Spettroscopia molecolare;
 
-Visto, il Guardasigilli: ZOLI
+25) Cinetica chimica;
+
+26) Chimica dello stato solido;
+
+27) Cristallografia.
+
+L'insegnamento complementare di Spettroscopia e' soppresso.
+
+Art. 92, relativo alle norme generali riguardante le Scuole di perfezionamento annesse alla Facolta' di medicina e chirurgia e' abrogato e sostituito dal seguente:
+
+"Alla Facolta' di medicina e chirurgia sono ammesse le scuole di specializzazione in: "Endocrinologia e malattie del ricambio", "Pediatria", "Ostetricia e ginecologia", "Oculistica", "Chirurgia", "Medicina interna", "Igiene", "Gastroenterologia", "Anestesiologia", "Otorinolaringoiatria" e "Cardiologia".
+
+Esse hanno lo scopo di promuovere il maggior incremento degli studi medico-chirurgici, impartendo una particolare istruzione a quei laureati che intendono migliorare la loro cultura e preparazione specializzandosi in qualche branca. Le scuole di specializzazione conducono al conferimento del diploma di "specialista", a norma dell'[art. 178 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art178)".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti, di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 18 febbraio 1966
+
+SARAGAT
+
+GUI
+
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 20 giugno 1953 Atti del Governo, registro n. 77, foglio n. 60. - PALLA
+alla Corte dei conti, addi' 24 marzo 1966 Atti del Governo, registro n. 202, foglio n. 63. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), e modificato con [regi decreti 7 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-07;1471) e [17 ottobre 1941, n. 1205](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1205), ulteriormente modificato con [decreto del Capo provvisorio dello Stato 5 ottobre 1946, n. 309](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-10-05;309), e con [decreti del Presidente della Repubblica 28 luglio 1950, n. 936](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-07-28;936); [30 ottobre 1950, n. 1128](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1128); [11 aprile 1951, n. 472](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;472); [27 ottobre 1951, n. 1675](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1675) e [14 marzo 1952, n. 768](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-03-14;768);  
+Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, numero 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -75,26 +100,36 @@ Sulla proposta del Ministro per la pubblica istruzione;
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' cosi' ulteriormente modificato:  
+Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:  
+Art. 18, relativo alle propedeuticita' di esami nel corso di laurea in Scienze politiche e' modificato nel senso che viene aggiunto il seguente comma:  
+"Gli esami di Istituzioni di diritto pubblico e di Storia moderna (biennale) devono precedere quello di Storia ed istituzioni dei paesi afro-asiatici".  
+Art. 32. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' aggiunto quello di:  
+13) Semeiotica chirurgica.  
+Art. 68. - Agli insegnamenti complementari del corso di laurea in Chimica (indirizzo organico-biologico) sono aggiunti quelli di:  
+23) Chimica industriale;  
+24) Chimica quantistica;  
+25) Cinetica chimica;  
+26) Chimica delle sostanze naturali.  
+Agli insegnamenti complementari del corso di laurea in Chimica (indirizzo inorganico-chimico-fisico) sono aggiunti quelli di:  
+24) Spettroscopia molecolare;  
+25) Cinetica chimica;  
+26) Chimica dello stato solido;  
+27) Cristallografia.  
+L'insegnamento complementare di Spettroscopia e' soppresso.  
+Art. 92, relativo alle norme generali riguardante le Scuole di perfezionamento annesse alla Facolta' di medicina e chirurgia e' abrogato e sostituito dal seguente:  
+"Alla Facolta' di medicina e chirurgia sono ammesse le scuole di specializzazione in: "Endocrinologia e malattie del ricambio", "Pediatria", "Ostetricia e ginecologia", "Oculistica", "Chirurgia", "Medicina interna", "Igiene", "Gastroenterologia", "Anestesiologia", "Otorinolaringoiatria" e "Cardiologia".  
+Esse hanno lo scopo di promuovere il maggior incremento degli studi medico-chirurgici, impartendo una particolare istruzione a quei laureati che intendono migliorare la loro cultura e preparazione specializzandosi in qualche branca. Le scuole di specializzazione conducono al conferimento del diploma di "specialista", a norma dell'[art. 178 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art178)".  
   
-Art. 10. - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti quelli di:  
-8) Storia dei trattati e politica internazionale;  
-9) Diritto privato comparato.  
-Gli attuali articoli 59, 61 e 62, relativi al corso di perfezionamento per la conduzione di aziende agrarie, sono cosi' modificati:  
-Art. 59. - Gli iscritti al corso di perfezionamento per la conduzione di aziende agrarie, potranno nelle forme rituali, essere ammessi a godere dei benefici dell'Opera universitaria.  
-Art. 61. - I proventi del corso sono rappresentati dalle tasse, sopratasse e contributi e da quegli stanziamenti che il Consiglio di amministrazione credera' di concedere anno per anno. Le tasse sono le stesse di quelle fissate per il corso di laurea in scienze agrarie oltre quel contributo per spese di esercitazioni che sara' determinato dal Consiglio di amministrazione della Universita' su proposta delle competenti autorita' accademiche.  
-Art. 62. - Dall'importo delle tasse di iscrizione viene detratto il 15% a favore dell'Opera universitaria; il rimanente viene erogato con deliberazione del Consiglio di amministrazione.  
-  
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti, di osservarlo e di farlo osservare.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 marzo 1953
+### Dato a Roma, addi' 18 febbraio 1966
 
-EINAUDI SEGNI
+SARAGAT GUI
 
-Visto, il Guardasigilli: ZOLI
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 20 giugno 1953
+Registrato alla Corte dei conti, addi' 24 marzo 1966
 
-Atti del Governo, registro n. 77, foglio n. 60. - PALLA
+Atti del Governo, registro n. 202, foglio n. 63. - VILLA

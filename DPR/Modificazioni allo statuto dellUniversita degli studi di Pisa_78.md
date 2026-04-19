@@ -1,150 +1,162 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 novembre 1958 n. 1278
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 giugno 1976 n. 724
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 novembre 1958 n. 1278
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 giugno 1976 n. 724
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pisa e convalidati dal Consiglio superiore della pubblica istruzione nei suoi pareri;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Dopo l'art. 176, e con lo spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo, relativo alla istituzione del consiglio direttivo della scuola speciale per archeologi preistorici classici e medioevalisti.
+
+Art. 177. - E' istituito un consiglio direttivo della scuola, composto da cinque membri, e cioe' dal direttore della scuola, che lo presiede, da due docenti degli indirizzi rispettivamente preistorico e medioevalistico, designati dal consiglio della scuola, da un rappresentante del dipartimento istruzione e cultura della giunta regionale toscana, designato dalla regione medesima, e da un rappresentante dell'amministrazione universitaria, designato dal rettore dell'Universita', cui sono affidate le funzioni di segretario del consiglio.
+
+Il consiglio direttivo delibera su tutti gli affari inerenti alla organizzazione e alla attivita' della scuola.Per le questioni di natura didattico-scientifica il consiglio delibera dopo aver sentito il consiglio della scuola previsto dall'art. 176.
+
+Dopo l'art. 226, e con lo spostamento degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione del corso di perfezionamento in sicurezza nucleare e radioprotezione, annesso alle facolta' di ingegneria.
+
+Corso di perfezionamento in sicurezza nucleare
+
+e radioprotezione
+
+Art. 227. - E' annesso alla facolta' di ingegneria il corso di perfezionamento in sicurezza nucleare e radioprotezione.
+
+Art. 228. - Il corso ha la durata di un anno. Sono ammessi al corso i laureati in ingegneria, in fisica, in chimica. Gli insegnamenti del corso sono i seguenti:
+
+1) fisica dei reattori nucleari;
+
+2) misure di fisica nucleare;
+
+3) impianti nucleari;
+
+4) tecnologie e costruzioni nucleari;
+
+5) garanzia della qualita';
+
+6) sicurezza nucleare;
+
+7) radioprotezione;
+
+8) radiochimica.
+
+I suddetti insegnamenti saranno integrati da esercitazioni pratiche ed eventualmente da conferenze.
+
+Art. 229. - Al termine del corso la facolta' rilascia un certificato di studio per il conseguimento del quale e' necessario aver superato gli esami di tutte le materie indicate nell'articolo precedente.
+
+Art. 230. - Per le commissioni giudicatrici valgono le norme stabilite per le commissioni degli esami di profitto.
+
+Art. 231. - Il corso ha un numero di posti limitato e sara' fissato anno per anno dal consiglio di facolta', il quale deliberera' sulle ammissioni, in base ai titoli presentati dagli aspiranti.
+
+Art. 232. - Le tasse e le soprattasse che gli iscritti sono tenuti a pagare sono stabilite nella misura seguente:
+
+a) tassa d'iscrizione . . . . . . . . . . . . . . L. 30.000
+
+b) contributo per esercitazioni . . . . . . . . . " 60.000
+
+c) libretto di iscrizione . . . . . . . . . . . . " 800
+
+Art. 233. - Gli allievi che abbiano frequentato il corso e frequentato tutti gli esami prescritti al termine del quale non abbiano superato tutti gli esami di profitto, potranno essere iscritti in qualita' di fuori corso.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 9 giugno 1976
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 26 ottobre 1976 Atti di Governo, registro n. 10, foglio n. 181
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Veduta la [legge 3 giugno 1955, n. 504](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-06-03;504);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica, istruzione;  
+Veduto lo statuto dell'Universita' di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pisa e convalidati dal Consiglio superiore della pubblica istruzione nei suoi pareri;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Dopo l'art. 40, e con il conseguente spostamento degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della Facolta' di economia e commercio.  
-Art. 41. - La Facolta' di economia e commercio conferisce:  
-a) laurea in economia e commercio;  
-b) laurea in lingue e letterature straniere.  
-Art. 42. - La durata del corso degli studi per la laurea in economia e commercio e' di quattro anni.  
-E' titolo di ammissione il diploma di maturita' classica, maturita' scientifica, di abilitazione per i provenienti dagli istituti tecnici commerciali, industriali, agrari, nautici e per geometri.  
-Sono insegnamenti fondamentali:  
-1) istituzioni di diritto privato;  
-2) istituzioni di diritto pubblico;  
-3) diritto commerciale (biennale);  
-4) matematica generale;  
-5) matematica finanziaria (biennale);  
-6) statistica (biennale);  
-7) economia politica (biennale);  
-8) diritto del lavoro;  
-9) scienza delle finanze e diritto finanziario;  
-10) economia politica agraria;  
-11) politica economica e finanziaria;  
-12) storia economica;  
-13) geografia economica (biennale);  
-14) ragioneria generale ed applicata (biennale);  
-15) tecnica bancaria e professionale;  
-16) tecnica industriale e commerciale;  
-17) merceologia;  
-18) lingua francese o spagnola (triennale);  
-19) lingua inglese o tedesca (triennale).  
-Sono insegnamenti:  
-1) diritto industriale;  
-2) diritto amministrativo  
-3) diritto internazionale;  
-4) diritto tributario;  
-5) demografia;  
-6) economia dei trasporti;  
-7) tecnica del commercio internazionale;  
-8) tecnica delle ricerche di mercato e della distribuzione generale;  
-9) tecnica amministrativa delle imprese agricole e minerarie;  
-10) storia delle dottrine economiche;  
-11) econometrica;  
-12) storia della ragioneria;  
-13) lingua russa;  
-14) lingua serbo-croata.  
-Gli insegnamenti di diritto commerciale e di geografia-economica comportano un unico esame alla fine del corso biennale; per gli altri insegnamenti biennali e prescritto l'esame alla fine di ciascun corso annuale, considerandosi il primo corso come propedeutico al secondo.  
-L'insegnamento triennale delle lingue estere comporta, per ciascuna, una prova scritta ed una orale alla fine del triennio. Lo studente che non abbia ottenuta la sufficienza nella prova scritta non puo' essere ammesso a sostenere la prova orale. Lo studente che sia stato respinto alla prova orale o che non si sia presentato a sostenere la prova orale nella stessa sessione dovra' ripetere anche la prova scritta.  
-Lo studente per essere ammesso all'esame di laurea deve avere seguito i corsi e superati gli esami in tutti gli insegnamenti fondamentali ed almeno in due, da lui prescelti, fra i complementari.  
-Art. 43. - Sono dichiarati propedeutici seguenti insegnamenti:  
-a) istituzioni di diritto privato per il diritto commerciale, il diritto internazionale, il diritto del lavoro, il diritto industriale;  
-b) istituzioni di diritto pubblico per il diritto internazionale, il diritto del lavoro, il diritto amministrativo;  
-c) matematica generale per la matematica finanziaria, per l'economia politica, per la statistica e per l'econometrica;  
-d) economia politica per la scienza delle finanze e diritto finanziario, la politica economica finanziaria, l'economia e politica agraria, la storia economica, la economia dei trasporti, il diritto tributario, l'econometrica;  
-e) ragioneria generale ed applicata per la tecnica commerciale ed industriale, la tecnica bancaria e professionale, la tecnica del commercio internazionale, la tecnica amministrativa delle imprese agricole e minerarie, l'econometrica, la storia della ragioneria;  
-f) scienza delle finanze per il diritto tributario.  
-Art. 44. - L'esarme di laurea consiste:  
-a) nella discussione orale di una dissertazione scritta su tema rientrante in uno degli insegnamenti fondamentali o complementari impartiti nella Facolta', esclusi gli insegnamenti di istituzioni di diritto privato, di istituzioni di diritto pubblico e delle lingue straniere;  
-b) nella discussione orale di due argomenti scelti dal candidato in materie diverse tra quelle impartite nella Facolta', esclusa quella prescelta nella dissertazione scritta.  
-Art. 45. - Alla sezione di economia e commercio sono ammessi i seguenti istituti per il corso di laurea in economia e commercio:  
-1) istituto di statistica;  
-2) istituto di ricerche aziendali.  
-Laurea in lingue e letterature straniere  
-Art. 46. - La durata per il corso degli studi per la laurea in lingue e letterature straniere e' di quattro anni.  
-E' titolo di ammissione il diploma di maturita' classica, di maturita' scientifica, di abilitazione magistrale, o licenza a norma dell'[art. 2 della legge 9 ottobre 1951, n. 1130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-10-09;1130~art2), della Scuola civica "Regina Margherita" di Genova, ora "Grazia Deledda", della Scuola civica "Alessandro Manzoni", di Milano o dell'Istituto di cultura e lingue "Marcelline" di Milano ovvero licenza a norma della [legge 12 marzo 1957, n. 94](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-03-12;94), o dal Liceo linguistico femminile "Santa Caterina da Siena" di Venezia, o dal Liceo linguistico "Orsoline del Sacro Cuore" di Cortina d'Ampezzo.  
-Sono insegnamenti fondamentali:  
-1) lingua e letteratura italiana (biennale);  
-2) lingua e letteratura latina (biennale);  
-3) lingua e letteratura francese;  
-4) lingua e letteratura tedesca;  
-5) lingua e letteratura inglese;  
-6) lingua e letteratura spagnola;  
-7) filologia romanza;  
-8) filologia germanica;  
-9) storia (biennale);  
-10) geografia.  
-Sono insegnamenti complementari:  
-1) storia della filosofia;  
-2) filosofia;  
-3) pedagogia;  
-4) lingua e letteratura russa;  
-5) linguistica;  
-6) lingua e letteratura serbo-croata;  
-7) lingua e letteratura polacca;  
-8) lingua e letteratura slovena;  
-9) lingua e letteratura ungherese;  
-10) lingua e letteratura cecoslovacca;  
-11) lingua e letteratura neo-greca;  
-12) lingua, e letteratura romena;  
-13) lingua e letteratura portoghese;  
-14) letteratura ispano-americana;  
-15) letteratura nord-americana;  
-16) lingua e letteratura bulgara;  
-17) lingua e letteratura albanese;  
-18) ebraico;  
-19) storia della letteratura latina medioevale;  
-20) filologia umanistica;  
-21) storia della lingua italiana;  
-22) biblioteconomia e bibliografia;  
-23) storia dell'arte;  
-24) lingue e letterature scandinave.  
-Lo studente deve seguire per tutti i quattro anni l'insegnamento della lingua straniera alla quale intende dedicare i suoi studi e per due anni quello di un'altra delle lingue straniere; egli puo', inoltre, seguire pure per due anni, l'insegnamento di una terza lingua straniera, nel qual caso puo' diminuire di uno gli insegnamenti complementari. Nel corso di "storia" (biennale) un anno deve essere dedicato alla storia medioevale ed un anno alla storia moderna, alternativamente.  
-Lo studente deve sostenere una prova scritta di italiano e una traduzione latina.  
-Per essere ammesso all'esame di laurea lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in tre da lui.  
-scelti tra i complementari.  
-Art. 47. - L'esame della lingua e letteratura straniera scelta come materia quadriennale consta di una prova scritta e di una prova orale.  
-La piova scritta comporta un dettato in lingua straniera ed una versione dall'italiano per l'esame del secondo anno; un dettato, una versione dall'italiano ed una lingua straniera per l'esame del terzo anno; un dettato, una versione dall'italiano ed una composizione di argomento letterario nella lingua straniera per l'esame del quarto anno.  
-La prova orale del quarto anno comprende la materia del corso ufficiale dell'anno ed un esame di cultura generale, in cui il candidato dovra' anche dar prova di sapere esporre correntemente nella lingua straniera, e che vertera' sopra la storia generale della letteratura, dalle origini ai giorni nostri, la storia politica e la grammatica storica, del Paese relativo all'esame.  
-Lo studente ha l'obbligo di frequentare il seminario della lingua e letteratura straniera prescelta come quadriennale e compiervi i lavori che siano assegnati dal rispettivo direttore.  
-Art. 48. - L'esame di laurea consiste nella discussione della dissertazione scritta su argomento della lingua e letteratura straniera scelta dal candidato come materia quadriennale.  
-Non e' ammessa la discussione in materia che non sia la lingua e letteratura straniera.  
-Art. 49. - Alla sezione di laurea in lingue e letterature straniere e' annesso l'istituto di lingua e letteratura spagnola ed ispano-americana.  
+Dopo l'art. 176, e con lo spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo, relativo alla istituzione del consiglio direttivo della scuola speciale per archeologi preistorici classici e medioevalisti.   
+  
+Art. 177. - E' istituito un consiglio direttivo della scuola, composto da cinque membri, e cioe' dal direttore della scuola, che lo presiede, da due docenti degli indirizzi rispettivamente preistorico e medioevalistico, designati dal consiglio della scuola, da un rappresentante del dipartimento istruzione e cultura della giunta regionale toscana, designato dalla regione medesima, e da un rappresentante dell'amministrazione universitaria, designato dal rettore dell'Universita', cui sono affidate le funzioni di segretario del consiglio.   
+Il consiglio direttivo delibera su tutti gli affari inerenti alla organizzazione e alla attivita' della scuola.Per le questioni di natura didattico-scientifica il consiglio delibera dopo aver sentito il consiglio della scuola previsto dall'art. 176.   
+  
+Dopo l'art. 226, e con lo spostamento degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione del corso di perfezionamento in sicurezza nucleare e radioprotezione, annesso alle facolta' di ingegneria.   
+  
+Corso di perfezionamento in sicurezza nucleare   
+e radioprotezione   
+  
+Art. 227. - E' annesso alla facolta' di ingegneria il corso di perfezionamento in sicurezza nucleare e radioprotezione.   
+Art. 228. - Il corso ha la durata di un anno. Sono ammessi al corso i laureati in ingegneria, in fisica, in chimica. Gli insegnamenti del corso sono i seguenti:   
+1) fisica dei reattori nucleari;   
+2) misure di fisica nucleare;   
+3) impianti nucleari;   
+4) tecnologie e costruzioni nucleari;   
+5) garanzia della qualita';   
+6) sicurezza nucleare;   
+7) radioprotezione;   
+8) radiochimica.   
+I suddetti insegnamenti saranno integrati da esercitazioni pratiche ed eventualmente da conferenze.   
+Art. 229. - Al termine del corso la facolta' rilascia un certificato di studio per il conseguimento del quale e' necessario aver superato gli esami di tutte le materie indicate nell'articolo precedente.   
+Art. 230. - Per le commissioni giudicatrici valgono le norme stabilite per le commissioni degli esami di profitto.   
+Art. 231. - Il corso ha un numero di posti limitato e sara' fissato anno per anno dal consiglio di facolta', il quale deliberera' sulle ammissioni, in base ai titoli presentati dagli aspiranti.   
+Art. 232. - Le tasse e le soprattasse che gli iscritti sono tenuti a pagare sono stabilite nella misura seguente:   
+a) tassa d'iscrizione . . . . . . . . . . . . . . L. 30.000   
+b) contributo per esercitazioni . . . . . . . . . " 60.000   
+c) libretto di iscrizione . . . . . . . . . . . . " 800   
+  
+Art. 233. - Gli allievi che abbiano frequentato il corso e frequentato tutti gli esami prescritti al termine del quale non abbiano superato tutti gli esami di profitto, potranno essere iscritti in qualita' di fuori corso.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 novembre 1958
+### Dato a Roma, addi' 9 giugno 1976
 
-GRONCHI MORO
+LEONE MALFATTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 27 febbraio 1959
+Registrato alla Corte dei conti, addi' 26 ottobre 1976
 
-Atti del Governo, registro n. 116, foglio n. 130. - RELLEVA
+Atti di Governo, registro n. 10, foglio n. 181

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1984 n. 730
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 febbraio 1983 n. 82
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1984 n. 730
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 febbraio 1983 n. 82
+==============================================================
 
 Autorizzazione all'Associazione nazionale alpini, in Milano, ad accettare una donazione.
 ----------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-730. Decreto del Presidente della Repubblica 20 giugno 1984, col quale, sulla proposta del Ministro della difesa, l'Associazione nazionale alpini, in Milano, viene autorizzata ad accettare la donazione, consistente in un terreno sito in Calice al Cornoviglio (La Spezia), censito al nuovo catasto terreni al foglio n. 16, mappale n. 233, disposta dal sig. Leopoldo Andreoni con atto 31 luglio 1982, n. 205254 di repertorio, a rogito dott. Roberto Ferrara, notaio in La Spezia e registrato a La Spezia in data 9 agosto 1982 al n. 3599.  
+82. Decreto del Presidente della Repubblica 9 febbraio 1983, col quale, sulla proposta del Ministro della difesa, l'Associazione nazionale alpini, in Milano, viene autorizzata ad accettare, rispettandone le condizioni, la donazione, consistente in un appartamento di quattro vani catastali sito al primo piano dell'immobile urbano che sorge in Savona, via Pia n. 8, distinto nel nuovo catasto edilizio urbano alla partita 480, foglio 79, mappali 223 sub 6 e 227 sub 20, disposta dai coniugi Maurizio Parola e Rosa Saracco con atto pubblico 26 marzo 1981, n. 99193 di repertorio, a rogito dott. Gio Batta Firpo, notaio in Savona.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 18 ottobre 1984  
-Registro n. 33 Difesa, foglio n. 379
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 24 marzo 1983  
+Registro n. 12 Difesa, foglio n. 147

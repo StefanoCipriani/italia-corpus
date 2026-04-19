@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 771
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 novembre 1978 n. 855
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 771
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 novembre 1978 n. 855
+===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
 -----------------------------------------------------------------------------------------------------
@@ -12,15 +12,8 @@ Art. 1
 
 N.
 
-771. Decreto del Presidente della Repubblica 5 settembre 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla sig.ra Pierina Motta con testamento olografo 14 novembre 1974, pubblicato in data 16 aprile 1975, n. 22096/2372 di repertorio, a rogito dott. Ferruccio Brambilla, notaio in Milano, registrato a Busto Arsizio (Varese) in data 2 maggio 1975, n. 880, vol. 156, a favore dell'istituto dei mutilatini "Santa Maria ai Colli", in Torino, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come ha fatto presente la fondazione medesima, consistente in: Beni immobili:
-
-a) appartamento sito in Torino, via G.  
-Matteotti n. 13;
-
-b) appartamento sito nel comune di S. Remo (Imperia), via Martiri della Liberta', 142;
-
-c) appartamento sito nel comune di Castelnuovo Nigra (Torino), via della Cappella. A detti beni e' stato attribuito un valore di L. 34.500.000; Beni mobili: a) mobili d'arredamento e suppellettili vari, siti nell'appartamento di Torino; b) saldo c/c; c) mobili d'arredamento e suppellettili vari, ecc., siti nell'appartamento di Castelnuovo Nigra per valore complessivo di L. 2.413.371.   
+855. Decreto del Presidente della Repubblica 23 novembre 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, un quarto dell'eredita' disposta dal prof. Manfredo Cagni a favore dei mutilatini don Gnocchi che si identificano con la fondazione "Pro juventute don Carlo Gnocchi", come ha fatto presente la fondazione medesima, con testamento pubblico 10 gennaio 1972, pubblicato a rogito notaio dott. Giorgio Giuriani di Como in data 9 maggio 1972, n. 65077 di repertorio, n. 18612 di raccolta, ed ivi registrato il 29 maggio 1972 con il n. 2617 serie I, consistente nella somma di L. 6.749.023.  
   
-Visto, il Guardasigilli: MORLINO   
-Registrato alla Corte dei conti, addi' 12 novembre 1980   
-Registro n. 8 Presidenza, foglio n. 342
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 27 dicembre 1978  
+Registro n. 8 Presidenza, foglio n. 129

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1985 n. 571
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 novembre 1985 n. 914
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1985 n. 571
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 novembre 1985 n. 914
+===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
 -----------------------------------------------------------------------------------------------------
@@ -10,10 +10,11 @@ Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad ac
 Art. 1
 ------
 
-N.
+n.
 
-571. Decreto del Presidente della Repubblica 16 luglio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in beni immobili e mobili dell'importo, dedotte le passivita', di L. 345.151.416, disposta dalla sig.ra Varrone Cornelia ved. Tomatis a favore dell'istituto mutilatini poliomielitici, viale Settimio Severo n. 65, Torino, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale 20 novembre 1981 del consiglio di amministrazione della fondazione stessa, con testamento pubblico a rogito dott. Pierangelo Martucci, notaio in Torino, in data 27 luglio 1981 e dallo stesso pubblicato in data 30 settembre 1981, col n. 582/191 di repertorio, registrato a Torino il 2 ottobre 1981 al n. 0654.  
+914. Decreto del Presidente della Repubblica 13 novembre 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in beni immobili per un valore peritale complessivo di L. 11.500.000, elevato dall'ufficio tecnico erariale di Milano a L. 14.000.000, disposta dalla sig.ra Pirovano Anna Maria con testamento olografo 22 settembre 1981, pubblicato in data 20 ottobre 1981, n. 5672/122 di repertorio, a rogito dott. Ulderico Brambilla, notaio in Milano, registrato a  
+Milano il 27 ottobre 1981, al n. 19477.  
   
 Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 11 ottobre 1985  
-Registro n. 9 Presidenza, foglio n. 76
+Registrato alla Corte dei conti, addi' 6 febbraio 1986  
+Registro n. 1 Presidenza, foglio n. 399

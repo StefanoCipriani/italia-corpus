@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 novembre 1951 n. 1780
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 novembre 1951 n. 1719
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 novembre 1951 n. 1780
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 novembre 1951 n. 1719
 ================================================================
 
 Autorizzazione all'Universita' di Sassari ad accettare una donazione.
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-1780. Decreto del Presidente della Repubblica 4 novembre 1951, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Sassari viene autorizzata ad accettare la donazione della somma di L. 42.475 in contanti, da investirsi in buoni novennali del Tesoro 5% a premi, della emissione 1951, disposta in suo favore dalla signora Lina Tassinari ved. Campus ad incremento del premio di studio "Prof. Antonio Campus" e da conferirsi ad un laureato della Facolta' di medicina veterinaria o di agraria della Universita' medesima, che abbia presentato la migliore dissertazione scritta in zootecnica.  
+1719. Decreto del Presidente della Repubblica 4 novembre 1951, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Sassari viene autorizzata ad accettare la donazione della somma di L. 476.805 in contanti, da convertirsi in buoni del Tesoro novennali a premio della emissione dell'anno 1951 disposta in suo favore dai signori Grazzetta Falchi Cocco, prof.  
+Giorgio Falchi, avv. Giulio Falchi, e avv. on. Battista Falchi con atto pubblico amministrativo in data 24 aprile 1951, per la istituzione di un premio di studio da denominarsi "Premio Francesco Falchi" e da conferirsi annualmente al laureato in medicina e chirurgia che risulti essere il piu' distinto del corso rispettivo e presenti la migliore dissertazione per l'esame finale di laurea.  
   
 Visto, il Guardasigilli: ZOLI  
-Registrato alla Corte dei conti, addi' 27 marzo 1952  
-Atti del Governo, registro n. 50, foglio n. 117. - FRASCA
+Registrato alla Corte dei conti, addi' 7 febbraio 1952  
+Atti del Governo, registro n. 50, foglio n. 3. - FRASCA

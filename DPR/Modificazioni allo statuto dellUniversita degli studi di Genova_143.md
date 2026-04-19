@@ -1,47 +1,82 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 luglio 1971 n. 709
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 dicembre 1965 n. 1647
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 luglio 1971 n. 709
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 dicembre 1965 n. 1647
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduta la [legge 18 novembre 1964 n. 1265](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-11-18;1265);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-L'ordinamento della scuola diretta a fini speciali di a Assistenza sociale psichiatrica" e' modificato nel senso che dopo l'art. 299 e con il conseguente spostamento della numerazione degli articoli successivi e' aggiunto un nuovo articolo riguardante la seguente norma transitoria.  
-Art. 300. - Alla data di entrata in vigore delle presenti disposizioni, gli allievi dei precedenti corsi tenuti presso gli istituti di clinica delle malattie nervose e mentali e di psichiatria dell'Universita' di Genova, che abbiano sostenuto tutti gli esami e la tesi finale e che siano in possesso del regolare attestato, potranno ottenere il corrispondente diploma di assistente sociale psichiatrico, previo colloquio integrativo.  
-L'art. 304, relativo alle norme di iscrizione e di esame inerenti alla scuola di perfezionamento in matematica e' abrogato e sostituito dal seguente:  
-"Per essere iscritto al primo anno occorre il diploma di laurea in matematica od altra laurea giudicata sufficiente dal consiglio direttivo della scuola. Di anno in anno, il consiglio puo' stabilire un numero massimo di iscrizioni al primo anno; qualora il numero di domande superi tale limite, il consiglio formula una graduatoria di merito.  
-Per essere iscritti al secondo anno occorre aver frequentato i corsi e superato tutti gli esami previsti per il primo anno.  
-All'esame di diploma si accede dopo aver superato tutti gli esami speciali del biennio; le modalita' di esso saranno fissate dal consiglio direttivo della scuola in relazione all'indirizzo prescelto".  
+"Facolta' di architettura" (limitata al biennio propedeutico).  
+Dopo l'art. 80, e con il conseguente spostamento della successiva numerazione, sono aggiunti i seguenti nuovi articoli relativi all'ordinamento degli studi del biennio propedeutico della Facolta' di architettura.  
+Art. 81 - Il biennio di studi propedeutici della Facolta' di architettura ha per fine di conferire, nel campo delle scienze tecniche e delle arti, le nozioni necessarie all'apprendimento delle materie applicative insegnate nei trienni di Architettura che portano al conseguimento della laurea in Architettura.  
+Possono essere ammessi al primo anno del biennio di studi propedeutici soltanto gli studenti forniti del diploma di maturita' classica o scientifica o artistica.  
+Art. 82. - Lo studente e' tenuto a frequentare le lezioni e le esercitazioni degli insegnamenti prescritti per ogni singolo corso.  
+Ogni professore in relazione al proprio insegnamento si accerta della frequenza, diligenza e profitto dello studente nel modo che crede piu' opportuno.  
+Art. 83. - Gli insegnamenti del biennio di studi propedeutici in Architettura sono fondamentali e complementari.  
+I - Fondamentali:  
+1) Disegno dal vero (biennale);  
+2) Elementi di architettura e rilievo dei monumenti (biennale);  
+3) Storia dell'arte e storia e stili dell'architettura (biennale);  
+4) Elementi costruttivi;  
+5) Analisi matematica e geometria analitica (biennale);  
+6) Geometria descrittiva ed elementi di proiettiva;  
+7) Applicazioni di geometria descrittiva;  
+8) Fisica;  
+9) Chimica generale ed applicata;  
+10) Mineralogia e geologia.  
+II - Complementari:  
+1) Letteratura italiana;  
+2) Plastica ornamentale;  
+3) Lingua inglese;  
+4) Lingua francese.  
+Gli studenti dovranno sostenere gli esami in tutte le discipline fondamentali e in due materie complementari da loro scelte fra le quattro proposte.  
+Art. 84. - Gli studenti provenienti da altre Facolta' di architettura sono ammessi all'anno del biennio al quale erano iscritti o avevano diritto di essere iscritti nella Facolta' di provenienza.  
+Per gli studenti o laureati della Facolta' di ingegneria o dei bienni che danno adito a detta Facolta', il Consiglio dei professori formulera' il piano di studi per lo ulteriore svolgimento della carriera scolastica.  
+Art. 85. - Gli studenti sono tenuti a rispettare la modalita' di iscrizione e di frequenza delle singole materie e le precedenze di esame che il Consiglio di facolta' stabilira' nel piano degli studi.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 6 luglio 1971
+### Dato a Roma, addi' 10 dicembre 1963
 
-SARAGAT MISASI
+SARAGAT GUI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 30 agosto 1971
+Registrato alla Corte dei conti, addi' 14 febbraio 1966
 
-Atti del Governo, registro n. 244, foglio n. 45. - PASQUALUCCI
+Atti del Governo, registro n. 201, foglio n. 55. - VILLA.

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1974 n. 673
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1954 n. 740
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1974 n. 673
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1954 n. 740
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
@@ -10,98 +10,89 @@ Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con i [regi decreti 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-13;2229); [30 ottobre 1930, n. 1931](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1931); [22 ottobre 1931, n. 1463](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-22;1463); [27 ottobre 1932, n. 2079](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2079); [27 dicembre 1934, n. 2435](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-27;2435); [1 ottobre 1936, n. 2472](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2472); [20 aprile 1939, n. 1068](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-04-20;1068); [2 ottobre 1940, n. 1470](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-02;1470); [24 novembre 1941, n. 1443, con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1941-11-24;1443) [20 novembre 1947, n. 1702 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-11-20;1702) [20 luglio 1948, n. 1161](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-07-20;1161); [31 ottobre 1950, n. 1278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1278); [19 giugno 1951, n. 1093](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-19;1093); [27 ottobre 1951, n. 1805](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1805); [27 ottobre 1951, numero 1806](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1806); [2 agosto 1952, n. 1222](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-08-02;1222) e [12 maggio 1953, n. 549](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-05-12;549);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 3 novembre 1952, n. 1787](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-11-03;1787);  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-L'art. 41, relativo all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia, e' modificato nel senso che l'insegnamento complementare di ortopedia muta la denominazione in quella di "Ortopedia e traumatologia".   
-L'art. 86, relativo all'elenco degli istituti annessi alla facolta' di farmacia e' modificato nel senso che l'istituto di farmacologia e farmacognosia e' soppresso e sostituito dal seguente:   
-Istituto di farmacologia.   
-Gli articoli da 307 a 318, relativi alla scuola (diretta a fini speciali) di preparazione per tecnici fisiocinesiterapisti che muta la denominazione in quella di "Terapisti della riabilitazione", sono abrogati e sostituiti dai seguenti:   
+Art. 29. - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di:  
+23) "Estetica".  
+Il decimo comma e' sostituito dal seguente:  
+"La letteratura italiana, la letteratura latina, e un terzo insegnamento fondamentale (che per coloro che scelgono l'indirizzo classico e' obbligatoriamente la letteratura greca) devono essere seguiti per un biennio. Puo' pero' lo studente seguire per un biennio anche uno o due insegnamenti in piu', ed in tal caso puo' ridurre rispettivamente di uno o due gli altri insegnamenti che deve scegliere".  
+L'undicesimo comma e' sostituito dal seguente: "Lo studente deve superare una prova scritta di traduzione latina e una prova scritta di italiano integrativa dell'unico esame di italiano".  
   
-Scuola per terapisti della riabilitazione   
+Art. 31. - Agli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:  
+15) "Filosofia della scienza;  
+16) Estetica".  
   
-Art. 307. - E' istituita presso l'istituto di clinica ortopedica dell'Universita' di Pavia, ai sensi dell'[articolo 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20) e veduto l'[art. 5 della legge 30 marzo 1971, n. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-03-30;118~art5), la scuola per terapisti della riabilitazione che ha lo scopo di impartire agli allievi, con unita' di indirizzo e metodo scientifico, tutte le nozioni teoriche e pratiche necessarie a ben esercitare l'attivita' di terapista della riabilitazione.   
-Art. 308. -- La durata del corso della scuola per terapisti della riabilitazione e' di tre anni accademici. Alla scuola possono essere ammessi allievi di ambo i sessi forniti del titolo di istruzione di secondo grado, avendo compiuto il 17° anno di eta'.   
-Art. 309. - Al primo anno di scuola si accede previe esame di cultura generale e attitudinale davanti ad una commissione composta dal direttore della scuola e de due insegnanti della scuola stessa.  
-L'esame di ammissione avra' luogo entro la prima quindicina del mese di ottobre di ciascun anno in un giorno stabilito dalla facolta' di medicina e chirurgia su proposta del direttore della scuola. In casi particolari e' possibile l'ammissione al 2ª anno qualora il direttore della scuola ne ravvisi la necessita'.   
-Art. 310. - Il numero massimo degli allievi che possono essere ammessi ad ogni anno di corso della scuola e' di 35.   
-Art. 311. - Il direttore della scuola e' il direttore dell'istituto di clinica ortopedica dell'Universita' di Pavia. La scuola e' sotto la vigilanza della facolta' di medicina e chirurgia. Gli insegnanti della scuola sono proposti dal direttore della stessa, approvati dalle facolta' di medicina e chirurgia e nominati dal rettore. Essi possono essere scelti fra i professori ufficiali, tre i liberi docenti, tra gli aiuti e gli assistenti della facolta' di medicina e chirurgia o di altra facolta' dell'ateneo o tra persone di riconosciuta competenza anche al di fuori dell'ambito universitario.   
-Art. 312. - Le materie di insegnamento sono le seguenti:   
+Art. 36. - Agli insegnamenti fondamentali del 1° biennio del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:  
+7) "Chimica biologica;  
+8) Microbiologia".  
+Agli insegnamenti fondamentali del 3° biennio del corso di laurea in medicina e chirurgia e' aggiunto quello di:  
+"Radiologia (semestrale)".  
+Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di:  
+8) "Statistica sanitaria".  
   
-1° Anno:   
-Elementi di fisica;   
-Elementi di biomeccanica;   
-Elementi di anatomia umana generale;   
-Elementi di fisiologia umana;   
-Elementi di psicologia;   
+Art. 58. - Agli insegnamenti complementari del corso di laurea in farmacia e' aggiunto quello di:  
+9) "Scienza dell'alimentazione".  
   
-2° Anno:   
-Nozioni di patologia ortopedica;   
-Nozioni di patologia neurologica;   
-Nozioni di traumatologia;   
-Nozioni di patologia dell'apparato cardiorespiratorio;   
-Nozioni di oculistica;   
-Nozioni di patologia ginecologica e addominale di interesse riabilitativo;   
-Cinesiterapia;   
-Elettroterapia;   
-Fisioterapia strumentale;   
-Idroterapia;   
-Terapia occupazionale;   
-Logoterapia;   
-Massoterapia;   
-Nozioni di patologia della cute e sottocutanea;   
+Dopo l'art. 69 sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della scuola di specializzazione in anestesia.  
   
-3° Anno:   
-Elementi di igiene e medicina preventiva;   
-Elementi di pronto soccorso;   
-Elementi di legislazione sanitaria e deontologia;   
-Ginnastica medica;   
-Riabilitazione del motuleso;   
-Ergoterapia;   
-Fango terapia e crenoterapia;   
-Elioclimatoterapia.   
+Scuola di specializzazione in anestesia  
   
-Art. 313. - La frequenza alle lezioni teoriche e alle esercitazioni pratiche e' obbligatoria. Per la validita' dell'anno scolastico l'allievo deve partecipare almeno due terzi delle lezioni sia teorici e che pratiche.   
-Art. 314. - Le lezioni verranno impartite agli allievi nelle aule messe a disposizione della clinica ortopedica. I programmi di insegnamento e gli orari vengono predisposti dal direttore della scuola ed approvati dal consiglio della facolta' di medicina e chirurgia. La sorveglianza degli iscritti per quanto riguarda la loro attivita' pratica, spetta al direttore della scuola. Il tirocinio sara' compiuto dagli allievi sempre sotto la guida dei medici, dei terapisti della riabilitazione didattici, presso il reparto di terapia fisica e riabilitazione della clinica ortopedica e traumatologica di Pavia, nonche', qualora si rendesse necessario, presso altri istituti e associazioni specialistiche.   
-Art. 315. - Per essere ammessi a sostenere gli esami di diploma gli allievi dovranno avere seguito il corso, superati gli esami in tutti gli insegnamenti prescritti e avere compiuto con esito favorevole tutte le esercitazioni previste.   
-Art. 316. - Le commissioni per gli esami di profitto sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Le commissioni sono composte da tre membri: dal professore ufficiale della materia, presidente, da un professore ufficiale di materia affine e da un libero docente cultore della materia. Ogni commissario ha a disposizione 10 punti.   
-Art. 317. - L'esame di diploma consiste in un esame orale sui temi trattati durante il corso e una prova pratica stabilita da una commissione esaminatrice. L'esame di diploma viene sostenuto davanti una commissione di 5 membri scelti fra i docenti della scuola nominati dal preside di facolta' di medicina e chirurgia su proposta del direttore della scuola. Ogni commissario ha a disposizione 10 punti. I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza della scuola, ma se al secondo esame non sia loro riconosciuta l'idoneita' saranno senz'altro esclusi da ulteriori prove. Agli allievi che avranno superato l'esame finale viene rilasciato il diploma di terapista della riabilitazione.   
-Art. 318. - Alle spese occorrenti al funzionamento della scuola si provvede con contributi eventualmente concessi da Ministeri, dalle regioni, da enti pubblici e privati e dalle seguenti tasse, soprattasse e contributi degli iscritti:   
+Art. 70. - E' istituita presso l'Istituto di patologia chirurgica della Universita' di Pavia una scuola di specializzazione in anestesia per il conseguimento del diploma di specialista in anestesia. La scuola dispone dei reparti e delle attrezzature dell'Istituto di patologia chirurgica e della clinica chirurgica.  
+Direttore della scuola e' il titolare della cattedra di patologia chirurgica.  
   
+Art. 71. - Sono ammessi alla scuola, in numero non superiore a quattro, i medici che abbiano conseguito la laurea in medicina e chirurgia nelle Universita' italiane da non piu' di quattro anni al momento della iscrizione.  
   
+Art. 72. - La selezione dei richiedenti la iscrizione, al fine della ammissione entro il numero dei posti disponibili, e' fatta dalla Direzione della scuola che provvedera' alla valutazione degli aspiranti in base ai titoli di studio, ed eventualmente, a mezzo di esami.  
   
-tassa di immatricolazione (da versare una sola volta) . . L. 2.000  
-tassa annuale di iscrizione. . . . . . . . . . . . . . . . " 5.000  
-soprattassa annuale di esame . . . . . . . . . . . . . . . " 3.000  
-contributi di laboratorio . . . . . . . . . . . . . . . . " 30.000  
-tassa erariale di diploma. . . . . . . . . . . . . . . . . " 3.000  
-libretto e tessera . . . . . . . . . . . . . . . . . . . . " 2.000  
+Art. 73. - La durata del corso e' di due anni; in questo periodo gli specializzandi sono tenuti a prestare regolare e continuato servizio di internato nell'Istituto di patologia chirurgica o nella clinica chirurgica dell'Universita'.  
   
+Art. 74. - Gli insegnamenti sono i seguenti:  
+1) I fondamenti anatomici delle anestesie;  
+2) I fondamenti fisiologici delle anestesie;  
+3) I fondamenti farmacologici delle anestesie;  
+4) Le anestesie generali;  
+5) Le anestesie loco-regionali;  
+6) Trattamenti pre e post-anestetici;  
+7) La rianimazione.  
+Tali insegnamenti saranno integrati da esercitazioni pratiche di tecnica anestesiologica e di rianimazione.  
   
+Art. 75. - Gli insegnanti della scuola sono designati dal Consiglio di facolta'.  
+  
+Art. 76. - Al termine del corso gli allievi dovranno superare:  
+un esame speciale sulla materia degli insegnamenti fondamentali; un esame speciale sulla materia degli insegnamenti teorico-pratici;  
+un esame di diploma consistente in una dissertazione scritta su argomento attinente all'anestesia, proposto dal direttore della scuola.  
+La dissertazione scritta deve essere depositata in Segreteria quindici giorni prima dell'esame di diploma.  
+  
+Art. 77. - Le Commissioni degli esami speciali saranno costituite di tre membri nominati dal preside della Facolta' a scelta fra gli insegnanti della scuola.  
+La Commissione degli esami di diploma e' composta di cinque membri ed e' presieduta dal direttore della scuola.  
+  
+Art. 78. - Gli iscritti sono tenuti al pagamento delle tasse e sopratasse secondo le norme generali vigenti.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 ottobre 1974
+### Dato a Dogliani, addi' 26 aprile 1954
 
-LEONE MALFATTI
+EINAUDI MARTINO
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: DE PIETRO
 
-Registrato alla Corte dei conti, addi' 7 dicembre 1974
+Registrato alla Corte dei conti, addi' 23 agosto 1954
 
-Atti di Governo, registro n. 7, foglio n. 75. - SCIARRETTA
+Atti del Governo, registro n. 85, foglio n. 82. - TEMPESTA

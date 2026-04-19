@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1985 n. 918
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1986 n. 641
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1985 n. 918
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1986 n. 641
+=============================================================
 
 Modificazione allo statuto del Politecnico di Torino.
 -----------------------------------------------------
@@ -24,7 +24,7 @@ Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http:
 
 Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche del Politecnico anzidetto ai sensi della citata legge n. 615;
 
 Veduto il parere del Consiglio universitario nazionale;
 
@@ -33,24 +33,21 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto del Politecnico di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato. come appresso:
+Lo statuto del Politecnico di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Nell'art. 21, relativo al corso di laurea in ingegneria, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
-  
-tecnologia della produzione edilizia;  
-macchine e organizzazione dei cantieri;  
-teoria dell'informazione;  
-composizione urbanistica.  
+Nell'art. 21, relativo ai corsi di laurea in ingegneria, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
+disegno (tecnico);  
+disegno (meccanici).  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 ottobre 1985
+### Dato a Roma, addi' 4 giugno 1986
 
 COSSIGA
 
@@ -58,6 +55,6 @@ FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 14 febbraio 1986
+Registrato alla Corte dei conti, addi' 23 settembre 1986
 
-Registro n. 9 Istruzione, foglio n. 114
+Registro n. 71 Istruzione, foglio n. 312

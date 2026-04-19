@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1973 n. 458
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1970 n. 682
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1973 n. 458
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1970 n. 682
+============================================================
 
 Modificazioni allo statuto dell'Istituto autonomo per le case popolari della provincia di L'Aquila.
 ---------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-458. Decreto del Presidente della Repubblica 2 maggio 1973, col quale, sulla proposta del Ministro per i lavori pubblici, vengono approvate le modifiche apportate agli articoli 4, 6 e 16 dello statuto dell'istituto autonomo per le case popolari della provincia di L'Aquila.  
+682. Decreto del Presidente della Repubblica 31 marzo 1970, col quale, sulla proposta del Ministro per i lavori pubblici, vengono approvate le modifiche agli articoli 4, 6, 9, 10, 11, 12, 13, 16, 18, 19, 21, 22 e 26 dello statuto dell'Istituto autonomo per le case popolari della provincia di L'Aquila.  
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 23 luglio 1973  
-Atti di Governo, registro n. 259, foglio n. 37. - VALENTINI
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti addi' 23 settembre 1970  
+Atti del Governo, registro n. 237, foglio n. 106. - GRECO

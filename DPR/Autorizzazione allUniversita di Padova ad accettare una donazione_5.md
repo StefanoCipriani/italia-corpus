@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1954 n. 692
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1948 n. 1519
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1954 n. 692
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1948 n. 1519
+=================================================================
 
 Autorizzazione all'Universita' di Padova ad accettare una donazione.
 --------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-692. Decreto del Presidente della Repubblica 19 maggio 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Padova viene autorizzata ad accettare la donazione di L. 200.000 contanti da investire in titoli nominativi dello Stato intestati all'Universita' medesima con annotazione di vincolo, disposta in suo favore dai signori conte ing. Francesco Ferri e prof. Lino Lazzarini con atto - pubblico amministrativo 14 marzo 1953, per l'istituzione, con la relativa rendita, di un premio di studio intitolato "Premio di studio conte dott. Antonio Ferri", e da conferirsi ogni due anni, per concorso, ad uno studente cittadino italiano, iscritto alla Facolta' di giurisprudenza, il quale sia meritevole e bisognoso, con preferenza, a parita' di merito, per uno studente orfano di guerra.  
+1519. Decreto del Presidente della Repubblica 14 settembre 1948, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Padova viene autorizzata ad accettare la donazione della somma di L. 100.000 nominali, in titoli di Stato, disposta in suo favore, con atto pubblico in data 18 maggio 1947, dal prof.  
+Walter Bigiavi e dalla signora Yvette Mondolfi Bigiavi, per l'istituzione di un premio di studio biennale, da intitolarsi "Premio di studio Edoardo ed Evelina Bigiavi" e da conferirsi ad un laureato in giurisprudenza, che abbia preparato e presentato la migliore dissertazione scritta di laurea in diritto commerciale, a condizione che nell'esame finale di laurea abbia riportato almeno i pieni voti, pari, di regola, a 99/110.  
   
-Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 13 agosto 1954  
-Atti del Governo, registro n. 85, foglio n. 38. - TEMPESTA
+Visto, il Guardasigilli: GRASSI  
+Registrato alla Corte dei conti, addi' 23 dicembre 1948

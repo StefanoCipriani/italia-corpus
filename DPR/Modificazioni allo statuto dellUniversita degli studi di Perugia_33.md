@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1980 n. 347
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1982 n. 235
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1980 n. 347
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1982 n. 235
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 -------------------------------------------------------------------
@@ -10,15 +10,17 @@ Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
@@ -31,35 +33,71 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Art. 1
 ------
 
   
-L'art. 97, relativo agli insegnamenti complementari del corso di laurea in medicina veterinaria, e' modificato nel senso che l'insegnamento di alimentazione e nutrizione animale e' soppresso, mentre viene aggiunto quello di:  
-alimentazione del bestiame.  
+Art. 32 - nell'elenco degli Insegnamenti complementari del corso di laurea in lettere sono inseriti i seguenti nuovi insegnamenti:  
+sociolinguistica;  
+linguistica generale;  
+psicolinguistica;  
+storia della linguistica;  
+paletnologia;  
+numismatica antica;  
+archeologia del vicino Oriente;  
+archeologia delle province romane;  
+epigrafia latina;  
+filologia classica;  
+storia della lingua latina;  
+antropologia culturale;  
+metodologia e tecnica della ricerca sociale;  
+etnomusicologia;  
+sociologia rurale;  
+storia economica;  
+storia della storiografia;  
+archeologia medioevale;  
+dialettologia italiana;  
+storia della critica d'arte;  
+storia della musica contemporanea;  
+storia della teoria musicale;  
+geografia storica.  
+Art. 33 - nell'elenco degli insegnamenti complementari del corso di laurea in filosofia sono inseriti i seguenti nuovi insegnamenti:  
+logica ed epistemologia;  
+storia della filosofia contemporanea.  
+Art. 35 - nell'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne (indirizzo europeo) sono inseriti i seguenti nuovi insegnamenti:  
+storia della lingua francese;  
+storia della lingua inglese;  
+storia della lingua tedesca;  
+storia della lingua spagnola;  
+storia della lingua russa;  
+storia della lingua portoghese;  
+lingua e letteratura polacca;  
+storia americana;  
+sociologia della letteratura;  
+glottodidattica.  
 
 Art. 2
 ------
 
   
-L'art. 98, relativo alle propedeuticita' degli esami per il conseguimento della laurea in medicina veterinaria, e' modificato nel senso che dopo il punto g) sono aggiunti i punti:  
-h) la fisiologia generale e speciale veterinaria I e II rispetto alla alimentazione e nutrizione animale e rispetto alla farmacologia e farmacodinamica veterinaria;  
-i) la anatomia veterinaria sistematica e comparata I e II rispetto alla anatomia topografica veterinaria;  
-l) la anatomia veterinaria sistematica I e II e la anatomia topografica veterinaria rispetto alle autopsie;  
-m) la parassitologia veterinaria compresa micologia, protozoologia, entomologia, elmintologia e rispetto alle malattie parassitarie degli animali domestici e rispetto alla anatomia patologica veterinaria generale e speciale I e II.  
+Art. 38 - nell'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono inseriti i seguenti nuovi insegnamenti:  
+psicopedagogia;  
+pedagogia speciale;  
+medicina sociale;  
+sociologia dell'educazione.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 marzo 1980
+### Dato a Roma, addi' 5 febbraio 1982
 
-PERTINI VALITUTTI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 26 giugno 1980
+Registrato alla Corte dei conti, addi' 24 aprile 1982
 
-Registro n. 61 Istruzione, foglio n. 312
+Registro n. 58 Istruzione, foglio n. 154

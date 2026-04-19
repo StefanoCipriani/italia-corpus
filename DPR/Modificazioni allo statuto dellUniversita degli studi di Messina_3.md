@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1974 n. 817
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 945
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1974 n. 817
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 945
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Messina.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, numero 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e modificato con [regio decreto 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 1° ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,174 +20,66 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Dopo l'art. 188, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti nuovi articoli relativi alla scuola di specializzazione in microbiologia applicata presso la facolta' di scienze matematiche, fisiche e naturali.
+Articolo unico
+--------------
 
-Scuola di specializzazione in microbiologia applicata
-
-Art. 189. - E' istituita presso l'istituto di microbiologia della facolta' di scienze la scuola di specializzazione in microbiologia applicata, che e' disciplinata in conformita' alle norme generali delle vigenti disposizioni di legge sulle scuole di specializzazione delle Universita', alle norme generali dello statuto relative alle scuole di specializzazione dell'Universita' di Messina ed alle norme del seguente ordinamento. - La scuola ha lo scopo di allargare e completare sul piano scientifico la cultura di coloro che si dedicano allo studio della microbiologia e di fornire sul piano tecnico una preparazione pratica specifica.
-
-Art. 190. - Possono essere ammessi alla scuola di specializzazione in microbiologia applicata.
-
-1) i laureati in scienze biologiche, in scienze naturali, in medicina veterinaria ed in farmacia che nel piano di studi per il conseguimento della laurea abbiano incluso il corso di microbiologia e superato il relativo esame;
-
-2) i laureati in medicina e chirurgia;
-
-3) i laureati in agraria;
-
-4) i laureati in chimica e chimica industriale.
-
-I laureati in scienze naturali e scienze biologiche, medicina veterinaria, in farmacia, in chimica ed in chimica industriale che non abbiano comprese nel piano di studi la microbiologia frequenteranno un corso integrativo di microbiologia.
-
-Tale corso sara' pratico e teorico ed avra' luogo entro il mese di ottobre di ciascun anno. La commissione per l'esame di ammissione alla scuola e' formata dal direttore della scuola, da un professore di ruolo e da un libero docente che siano nel contempo docenti della scuola.
-
-Art. 191. - Il corso degli studi per il conseguimento del diploma di specializzazione ha la durata di anni tre ed ha luogo presso l'istituto di microbiologia della facolta' di scienze dell'Universita' di Messina.
-
-Art. 192. - Il numero degli iscritti al primo anno di corso non puo' superare il numero di dodici. Nel caso di domande eccedenti, la selezione verra' effettuata mediante concorso con norme che verranno precisate nel manifesto annuale. A quegli aspiranti che, oltre alle condizioni prescritte per la ammissione, documentino il possesso di titoli comprovanti una speciale preparazione nel campo della microbiologia, potra' essere consentita, su proposta del direttore della scuola, l'iscrizione direttamente al secondo anno di corso.
-
-Art. 193. - La direzione della scuola e' affidata ad un professore di microbiologia di ruolo e fuori ruolo.
-
-Il direttore della scuola puo' nominare un vice-direttore che lo coadiuvi e lo supplisca ed un segretario.
-
-Art. 194. - Il numero degli ammessi non potra' di norma superare il numero assegnato al corso. Sono ammessi in soprannumero i riprovati degli anni precedenti e coloro che, per giustificato motivo, avessero interrotto la successione degli studi.
-
-Art. 195. - L'ordine degli studi (distribuzione degli insegnamenti nei diversi anni del corso) e l'ordine e le modalita' degli esami verranno stabilite nel manifesto annuale.
-
-Art. 196. - Gli insegnamenti impartiti sono i seguenti:
-
-1° Anno:
-
-1) Microbiologia generale e tecnica microbiologica;
-
-2) Chimica microbiologica;
-
-3) Statistica applicata alla microbiologia e dosaggio biologico;
-
-4) Genetica dei micro-organismi.
-
-2° Anno:
-
-5) Batteriologia speciale;
-
-6) Protozoologia e micologia;
-
-7) Virologia generale;
-
-8) Sierologia.
-
-3° Anno:
-
-9) Virologia applicata;
-
-10) Microbiologia del suolo, delle acque e degli alimenti;
-
-11) Microbiologia applicata alla diagnostica delle malattie infettive dell'uomo, degli animali e delle piante;
-
-12) Chimica delle fermentazioni e microbiologia applicata.
-
-Art. 197. - Il direttore puo' stabilire, per un piu' proficuo conseguimento dei fini della scuola, che siano tenuti corsi complementari con conferenze su materie ed argomenti che abbiano attinenza o affinita' con gli insegnamenti impartiti dalla scuola.
-
-Art. 198. - Gli iscritti al corso sono tenuti ad osservare l'orario delle lezioni e delle esercitazioni ed hanno l'obbligo di frequentare per tutta la durata del corso e di ottenere l'attestazione di frequenza per poter essere ammessi a sostenere gli esami.
-
-Art. 199. - Per essere ammessi all'esame di diploma gli iscritti debbono avere superato tutti gli esami.
-
-L'esame di diploma consiste in una prova pratica e nella discussione di una dissertazione scritta di carattere sperimentale su argomenti di microbiologia. I candidati non riconosciuti idonei potranno ripresentarsi dopo un altro anno di frequenza alla scuola, ma se al secondo esame non sia loro riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove.
-
-A coloro che abbiano superato l'esame di diploma verra' rilasciato un diploma di specializzazione in microbiologia applicata.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 30 ottobre 1974
-
-LEONE
-
-MALFATTI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 27 gennaio 1975 Atti di Governo, registro n. 8, foglio n. 64
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, numero 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e modificato con [regio decreto 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:   
-  
-Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-  
-Dopo l'art. 188, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti nuovi articoli relativi alla scuola di specializzazione in microbiologia applicata presso la facolta' di scienze matematiche, fisiche e naturali.   
-Scuola di specializzazione in microbiologia applicata   
-Art. 189. - E' istituita presso l'istituto di microbiologia della facolta' di scienze la scuola di specializzazione in microbiologia applicata, che e' disciplinata in conformita' alle norme generali delle vigenti disposizioni di legge sulle scuole di specializzazione delle Universita', alle norme generali dello statuto relative alle scuole di specializzazione dell'Universita' di Messina ed alle norme del seguente ordinamento. - La scuola ha lo scopo di allargare e completare sul piano scientifico la cultura di coloro che si dedicano allo studio della microbiologia e di fornire sul piano tecnico una preparazione pratica specifica.   
-Art. 190. - Possono essere ammessi alla scuola di specializzazione in microbiologia applicata.   
-1) i laureati in scienze biologiche, in scienze naturali, in medicina veterinaria ed in farmacia che nel piano di studi per il conseguimento della laurea abbiano incluso il corso di microbiologia e superato il relativo esame;   
-2) i laureati in medicina e chirurgia;   
-3) i laureati in agraria;   
-4) i laureati in chimica e chimica industriale.   
-I laureati in scienze naturali e scienze biologiche, medicina veterinaria, in farmacia, in chimica ed in chimica industriale che non abbiano comprese nel piano di studi la microbiologia frequenteranno un corso integrativo di microbiologia.   
-Tale corso sara' pratico e teorico ed avra' luogo entro il mese di ottobre di ciascun anno. La commissione per l'esame di ammissione alla scuola e' formata dal direttore della scuola, da un professore di ruolo e da un libero docente che siano nel contempo docenti della scuola.   
-Art. 191. - Il corso degli studi per il conseguimento del diploma di specializzazione ha la durata di anni tre ed ha luogo presso l'istituto di microbiologia della facolta' di scienze dell'Universita' di Messina.   
-Art. 192. - Il numero degli iscritti al primo anno di corso non puo' superare il numero di dodici. Nel caso di domande eccedenti, la selezione verra' effettuata mediante concorso con norme che verranno precisate nel manifesto annuale. A quegli aspiranti che, oltre alle condizioni prescritte per la ammissione, documentino il possesso di titoli comprovanti una speciale preparazione nel campo della microbiologia, potra' essere consentita, su proposta del direttore della scuola, l'iscrizione direttamente al secondo anno di corso.   
-Art. 193. - La direzione della scuola e' affidata ad un professore di microbiologia di ruolo e fuori ruolo.   
-Il direttore della scuola puo' nominare un vice-direttore che lo coadiuvi e lo supplisca ed un segretario.   
-Art. 194. - Il numero degli ammessi non potra' di norma superare il numero assegnato al corso. Sono ammessi in soprannumero i riprovati degli anni precedenti e coloro che, per giustificato motivo, avessero interrotto la successione degli studi.   
-Art. 195. - L'ordine degli studi (distribuzione degli insegnamenti nei diversi anni del corso) e l'ordine e le modalita' degli esami verranno stabilite nel manifesto annuale.   
-Art. 196. - Gli insegnamenti impartiti sono i seguenti:   
-1° Anno:   
-1) Microbiologia generale e tecnica microbiologica;   
-2) Chimica microbiologica;   
-3) Statistica applicata alla microbiologia e dosaggio biologico;   
-4) Genetica dei micro-organismi.   
-2° Anno:   
-5) Batteriologia speciale;   
-6) Protozoologia e micologia;   
-7) Virologia generale;   
-8) Sierologia.   
-3° Anno:   
-9) Virologia applicata;   
-10) Microbiologia del suolo, delle acque e degli alimenti;   
-11) Microbiologia applicata alla diagnostica delle malattie infettive dell'uomo, degli animali e delle piante;   
-12) Chimica delle fermentazioni e microbiologia applicata.   
-Art. 197. - Il direttore puo' stabilire, per un piu' proficuo conseguimento dei fini della scuola, che siano tenuti corsi complementari con conferenze su materie ed argomenti che abbiano attinenza o affinita' con gli insegnamenti impartiti dalla scuola.   
-Art. 198. - Gli iscritti al corso sono tenuti ad osservare l'orario delle lezioni e delle esercitazioni ed hanno l'obbligo di frequentare per tutta la durata del corso e di ottenere l'attestazione di frequenza per poter essere ammessi a sostenere gli esami.   
-Art. 199. - Per essere ammessi all'esame di diploma gli iscritti debbono avere superato tutti gli esami.   
-L'esame di diploma consiste in una prova pratica e nella discussione di una dissertazione scritta di carattere sperimentale su argomenti di microbiologia. I candidati non riconosciuti idonei potranno ripresentarsi dopo un altro anno di frequenza alla scuola, ma se al secondo esame non sia loro riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove.   
-A coloro che abbiano superato l'esame di diploma verra' rilasciato un diploma di specializzazione in microbiologia applicata.   
+Nell'art. 64, relativo al corso di laurea in lettere, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:   
+1) archeologia della Magna Grecia;   
+2) critica del testo;   
+3) esegesi delle fonti di storia greca e romana;   
+4) storia della filologia classica;   
+5) storia della lingua greca;   
+6) storia della retorica classica;   
+7) storia della Sicilia antica;   
+8) storia economica e sociale del mondo antico;   
+9) topografia antica;   
+10) archeologia medioevale;   
+11) geografia storica;   
+12) storia del Rinascimento;   
+13) storia della Sicilia medievale.   
+Nell'art. 65, relativo al corso di laurea in filosofia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:   
+1) filosofia della religione;   
+2) storia della scienza;   
+3) storia della storiografia filosofica.   
+Nell'art. 69, relativo al corso di laurea in lingue e letterature straniere moderne (indirizzo moderno), all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:   
+1) glottodidattica;   
+2) letteratura dei Paesi di lingua inglese;   
+3) storia della lingua francese;   
+4) storia della lingua inglese;   
+5) storia della lingua spagnola;   
+6) storia della lingua tedesca.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1974
+### Dato a Roma, addi' 28 giugno 1986
 
-LEONE MALFATTI
+COSSIGA
 
-Visto, il Guardasigilli: REALE
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 27 gennaio 1975
+Visto, il Guardasigilli: ROGNONI
 
-Atti di Governo, registro n. 8, foglio n. 64
+Registrato alla Corte dei conti, addi' 30 dicembre 1986
+
+Registro n. 90 Istruzione, foglio n. 213

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 402
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 agosto 1983 n. 782
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 402
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 agosto 1983 n. 782
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Cagliari.
@@ -24,7 +24,7 @@ Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http:
 
 Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
+vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
 
 Veduto il parere del Consiglio universitario nazionale;
 
@@ -39,24 +39,19 @@ Articolo unico
 --------------
 
   
-Nell'art. 56, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-medicina preventiva dei lavoratori;  
-fisiopatologia cardio-circolatoria;  
-patologia speciale e neurologica;  
-psichiatria sociale.  
+Nell'art. 64, relativo al corso di laurea in scienze geologiche, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+rilevamento geologico.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 aprile 1986
+### Dato a Roma, addi' 5 agosto 1983
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 11 luglio 1986
+Registrato alla Corte dei conti, addi' 27 dicembre 1983
 
-Registro n. 56 Istruzione, foglio n. 15
+Registro n. 80 Istruzione, foglio n. 4

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 agosto 1983 n. 1145
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 febbraio 1985 n. 174
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 agosto 1983 n. 1145
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 febbraio 1985 n. 174
+===============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Perugia.
 -------------------------------------------------------------------
@@ -26,7 +26,7 @@ Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?
 
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
 
-Veduto il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio universitario nazionale;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
@@ -39,19 +39,21 @@ Articolo unico
 --------------
 
   
-Nell'art. 97, relativo al corso di laurea in medicina veterinaria, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-tecnica delle analisi chimiche degli alimenti di origine animale.  
+Nell'art. 35, relativo al corso di laurea in lingue e letterature straniere moderne (indirizzo europeo) della facolta' di lettere e filosofia, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
+poetica e retorica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 agosto 1983
+### Dato a Roma, addi' 6 febbraio 1985
 
-PERTINI FALCUCCI
+PERTINI
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 22 marzo 1984
+Registrato alla Corte dei conti, addi' 29 aprile 1985
 
-Registro n. 17 Istruzione, foglio n. 337
+Registro n. 27 Istruzione, foglio n. 159

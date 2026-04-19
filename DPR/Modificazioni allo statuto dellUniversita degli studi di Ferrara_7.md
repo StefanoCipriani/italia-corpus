@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1980 n. 158
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 maggio 1967 n. 607
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1980 n. 158
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 maggio 1967 n. 607
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 -------------------------------------------------------------------
@@ -10,86 +10,207 @@ Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla
------
+Sulla proposta del Ministro per la pubblica istruzione;
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Decreta:
 
-Articolo unico
---------------
+Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
+Dopo l'art. 143, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in Scienza e tecnica dei fenomeni di corrosione annessa alla Facolta' di scienze matematiche, fisiche e naturali.
+
+Scuola di specializzazione in Scienza e tecnica dei fenomeni di corrosione
+
+Art. 144. - E' istituita presso la Facolta' di scienze matematiche, fisiche e naturali la Scuola di specializzazione in Scienza e tecnica dei fenomeni di corrosione con sede presso l'Istituto chimico dell'Universita'.
+
+Essa ha lo scopo di impartire lezioni ed esercitazioni pratiche al fine di fornire agli allievi una preparazione completa, teorica e pratica nella scienza e nella tecnologia dei fenomeni di corrosione.
+
+Art. 145. - Il direttore della Scuola e' nominato dal rettore su designazione del Consiglio della facolta' di scienze matematiche, fisiche e naturali fra i professori di ruolo della Facolta' stessa.
+
+Il direttore e' coadiuvato da un Consiglio costituito dagli insegnanti della Scuola.
+
+Gli insegnanti sono proposti dal direttore e sono nominati dalla Facolta'.
+
+Art. 146. - La Scuola rilascia un diploma di specializzazione in Scienza e tecnica dei fenomeni di corrosione ai sensi dell'[art. 178 del testo unico 31 agosto 1933 n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art178).
+
+Art. 147. - La durata del corso di studi per il conseguimento del diploma e' di due anni Alla Scuola possono essere iscritti dieci allievi per ciascun anno del corso.
+
+Qualora il numero delle domande di iscrizione ecceda quello fissato, il Consiglio della Scuola procedera' ad una scelta in base ai titoli presentati.
+
+Possono inscriversi i laureati in Chimica, Chimica industriale e Ingegneria.
+
+Su proposta della Facolta' di scienze matematiche, fisiche e naturali udito il Consiglio della Scuola, il Senato accademico puo' ammettere alla Scuola candidati che presentino diplomi di laurea diversi da quelli stabiliti.
+
+La Facolta', su parere del Consiglio della Scuola, puo' esonerare dalla frequenza di una parte dei corsi prescritti per il conseguimento del diploma quei laureati che presentino particolari titoli di studio nel campo specifico della corrosione. L'esonero, pero', non potra' in nessun caso essere superiore ad un anno di corso, fermo restando che l'iscritto deve superare gli esami ed ottemperare al pagamento delle tasse, soprattasse o contributi relativi all'anno di corso esonerato.
+
+Gli aspiranti debbono nei termini regolamentari presentare apposita domanda su carta legale diretta al rettore e corredata dei prescritti documenti e dalla quietanza del pagamento delle tasse, soprattasse e contributi relativi.
+
+Art. 148. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+1. Termodinamica e cinetica chimica dei fenomeni di corrosione, con esercitazioni.
+
+2. Elettrochimica dei fenomeni di corrosione, con esercitazioni.
+
+3. Elementi di scienza dei metalli e di metallurgia.
+
+4. Corrosione secca e corrosione ad umido.
+
+5. Corrosione negli impianti industriali.
+
+2° Anno:
+
+1. Corrosione di materiali ferrosi.
+
+2. Corrosione di materiali non ferrosi.
+
+3. Metodi di studio e di testing dei fenomeni di corrosione, con esercitazioni.
+
+4. Prevenzione della corrosione; interventi sul metallo.
+
+5. Prevenzione della corrosione; interventi sull'ambiente.
+
+6. Esercitazioni sui metodi di prevenzione della corrosione.
+
+Gli iscritti sono tenuti alla frequenza ai corsi di lezioni e di esercitazioni. La frequenza viene comprovata dall'attestazione rilasciata dagli insegnanti sul libretto di iscrizione.
+
+L'attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.
+
+Art. 149. - "Le tasse e le soprattasse che gli iscritti sono tenuti a pagare sono le stesse che la legge stabilisce per gli studenti della Facolta' di scienze matematiche, fisiche e naturali.
+
+La misura dei contributi per le esercitazioni e per le prestazioni di qualsiasi natura, di cui gli iscritti usufruiscono durante gli anni di studio, e' fissata anno per anno dal Consiglio di amministrazione dell'Universita', su proposta del Senato accademico, udito il Consiglio di facolta'.
+
+La tassa erariale di diploma e' fissata in L. 6.000, a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7)".
+
+Art. 150. - La data di inizio e termine delle lezioni sono di regola eguali a quelle fissate per l'anno accademico. Tali date, tuttavia, possono essere spostate e prorogate dalla Facolta' per ragioni speciali inerenti alla natura dei corsi.
+
+Art. 151. - Le Commissioni per gli esami di profitto e di diploma sono nominate dal preside della Facolta' di scienze matematiche, fisiche e naturali, su proposta del direttore della Scuola e sono composte rispettivamente di tre e di sette membri.
+
+Gli esami di profitto e di diploma si danno di regola in due sessioni: una estiva e l'altra autunnale.
+
+Gli esami di profitto, che consistono in prove teoriche e pratiche, si sostengono nei seguenti gruppi di materie:
+
+1. Termodinamica e cinetica chimica dei fenomeni di corrosione.
+
+Elettrochimica dei fenomeni di corrosione ed elementi di scienza dei metalli e di metallurgia.
+
+2. Corrosione secca e corrosione ad umido e corrosione negli impianti industriali.
+
+3. Corrosione di materiali ferrosi, corrosione di materiali non ferrosi e metodi di studio e di testing dei fenomeni di corrosione.
+
+4. Prevenzione della corrosione; interventi sul metallo.
+
+Prevenzione della corrosione; interventi sull'ambiente ed esercitazioni sui metodi di prevenzione della corrosione.
+
+L'esame di diploma, al quale i candidati potranno essere ammessi dopo aver superato tutti gli esami di profitto, consiste in una discussione di una dissertazione scritta svolta dal candidato su un argomento tecnico-scientifico, assegnato allo specializzando dal direttore della Scuola.
+
+Art. 152. - Al funzionamento della suddetta Scuola si provvedera' con il provento delle tasse, soprattasse e contributi dovuti dagli iscritti.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 24 maggio 1967
+
+SARAGAT
+
+GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 20 luglio 1967 Atti del Governo, registro n. 212, foglio n. 54. - GRECO
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
+  
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
   
 Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli 124, 125, 126, 127, 128, 129, relativi alla scuola di specializzazione per medici laboratoristi, che muta la denominazione in quella di scuola di specializzazione in biologia clinica, sono soppressi e sostituiti dai seguenti:  
   
-Scuola di specializzazione in biologia clinica  
-Art. 124. - La scuola di specializzazione in biologia clinica ha sede presso gli istituti di chimica biologica e di microbiologia e conferisce il diploma di specialista in biologia clinica.  
-La scuola di specializzazione in biologia clinica ha lo scopo di preparare sul piano scientifico e tecnico i medici che intendono dedicarsi particolarmente alle analisi di laboratorio chimico-cliniche e microbiologiche applicate alla clinica.  
-Art. 125. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Art. 126. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-Art. 127. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.  
-Il numero massimo degli allievi e' di cinque per anno di corso e complessivamente di venti iscritti per l'intero corso di studi.  
-L'ammissione al corso avviene per titoli ed esami.  
-Art. 128. - Le materie di insegnamento sono le seguenti:  
+Dopo l'art. 143, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in Scienza e tecnica dei fenomeni di corrosione annessa alla Facolta' di scienze matematiche, fisiche e naturali.  
+  
+Scuola di specializzazione in Scienza e tecnica dei fenomeni di corrosione  
+  
+Art. 144. - E' istituita presso la Facolta' di scienze matematiche, fisiche e naturali la Scuola di specializzazione in Scienza e tecnica dei fenomeni di corrosione con sede presso l'Istituto chimico dell'Universita'.  
+Essa ha lo scopo di impartire lezioni ed esercitazioni pratiche al fine di fornire agli allievi una preparazione completa, teorica e pratica nella scienza e nella tecnologia dei fenomeni di corrosione.  
+Art. 145. - Il direttore della Scuola e' nominato dal rettore su designazione del Consiglio della facolta' di scienze matematiche, fisiche e naturali fra i professori di ruolo della Facolta' stessa.  
+Il direttore e' coadiuvato da un Consiglio costituito dagli insegnanti della Scuola.  
+Gli insegnanti sono proposti dal direttore e sono nominati dalla Facolta'.  
+Art. 146. - La Scuola rilascia un diploma di specializzazione in Scienza e tecnica dei fenomeni di corrosione ai sensi dell'[art. 178 del testo unico 31 agosto 1933 n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art178).  
+Art. 147. - La durata del corso di studi per il conseguimento del diploma e' di due anni Alla Scuola possono essere iscritti dieci allievi per ciascun anno del corso.  
+Qualora il numero delle domande di iscrizione ecceda quello fissato, il Consiglio della Scuola procedera' ad una scelta in base ai titoli presentati.  
+Possono inscriversi i laureati in Chimica, Chimica industriale e Ingegneria.  
+Su proposta della Facolta' di scienze matematiche, fisiche e naturali udito il Consiglio della Scuola, il Senato accademico puo' ammettere alla Scuola candidati che presentino diplomi di laurea diversi da quelli stabiliti.  
+La Facolta', su parere del Consiglio della Scuola, puo' esonerare dalla frequenza di una parte dei corsi prescritti per il conseguimento del diploma quei laureati che presentino particolari titoli di studio nel campo specifico della corrosione. L'esonero, pero', non potra' in nessun caso essere superiore ad un anno di corso, fermo restando che l'iscritto deve superare gli esami ed ottemperare al pagamento delle tasse, soprattasse o contributi relativi all'anno di corso esonerato.  
+Gli aspiranti debbono nei termini regolamentari presentare apposita domanda su carta legale diretta al rettore e corredata dei prescritti documenti e dalla quietanza del pagamento delle tasse, soprattasse e contributi relativi.  
+Art. 148. - Le materie di insegnamento sono le seguenti:  
 1° Anno:  
-1) chimica biologica generale;  
-2) fondamenti di chimico-fisica biologica;  
-3) batteriologia generale;  
-4) biochimica analitica I;  
-5) tecnica dei prelevamenti;  
-6) fisiopatologia I;  
-7) fondamenti di statistica biologica.  
+1. Termodinamica e cinetica chimica dei fenomeni di corrosione, con esercitazioni.  
+2. Elettrochimica dei fenomeni di corrosione, con esercitazioni.  
+3. Elementi di scienza dei metalli e di metallurgia.  
+4. Corrosione secca e corrosione ad umido.  
+5. Corrosione negli impianti industriali.  
 2° Anno:  
-8) chimica biologica speciale di organi e tessuti;  
-9) fisiopatologia II;  
-10) ematologia ed ematochimica I;  
-11) batteriologia speciale;  
-12) immunologia e sierologia;  
-13) biochimica analitica II.  
-3° Anno:  
-14) nozioni di igiene e legislazione sanitaria;  
-15) ematologia ed ematochimica II;  
-16) chimica clinica;  
-17) immunochimica;  
-18) parassitologia;  
-19) virologia.  
-4° Anno:  
-20) analisi biologico-tossicologiche;  
-21) endocrinologia clinica e dosaggi ormonali;  
-22) micologia;  
-23) enzimologia clinica;  
-24) automazione e controlli di qualita';  
-25) metodiche microanalitiche;  
-26) microscopia clinica e citodiagnostica.  
-Art. 129. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.  
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.  
-Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.  
-Al termine del corso di studi per il conseguimento del diploma di specialista in biologia clinica gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta su un argomento attinente alla specializzazione e nell'espletamento di prove pratiche.  
+1. Corrosione di materiali ferrosi.  
+2. Corrosione di materiali non ferrosi.  
+3. Metodi di studio e di testing dei fenomeni di corrosione, con esercitazioni.  
+4. Prevenzione della corrosione; interventi sul metallo.  
+5. Prevenzione della corrosione; interventi sull'ambiente.  
+6. Esercitazioni sui metodi di prevenzione della corrosione.  
+Gli iscritti sono tenuti alla frequenza ai corsi di lezioni e di esercitazioni. La frequenza viene comprovata dall'attestazione rilasciata dagli insegnanti sul libretto di iscrizione.  
+L'attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.  
+Art. 149. - "Le tasse e le soprattasse che gli iscritti sono tenuti a pagare sono le stesse che la legge stabilisce per gli studenti della Facolta' di scienze matematiche, fisiche e naturali.  
+La misura dei contributi per le esercitazioni e per le prestazioni di qualsiasi natura, di cui gli iscritti usufruiscono durante gli anni di studio, e' fissata anno per anno dal Consiglio di amministrazione dell'Universita', su proposta del Senato accademico, udito il Consiglio di facolta'.  
+La tassa erariale di diploma e' fissata in L. 6.000, a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7)".  
+Art. 150. - La data di inizio e termine delle lezioni sono di regola eguali a quelle fissate per l'anno accademico. Tali date, tuttavia, possono essere spostate e prorogate dalla Facolta' per ragioni speciali inerenti alla natura dei corsi.  
+Art. 151. - Le Commissioni per gli esami di profitto e di diploma sono nominate dal preside della Facolta' di scienze matematiche, fisiche e naturali, su proposta del direttore della Scuola e sono composte rispettivamente di tre e di sette membri.  
+Gli esami di profitto e di diploma si danno di regola in due sessioni: una estiva e l'altra autunnale.  
+Gli esami di profitto, che consistono in prove teoriche e pratiche, si sostengono nei seguenti gruppi di materie:  
+1. Termodinamica e cinetica chimica dei fenomeni di corrosione.  
+Elettrochimica dei fenomeni di corrosione ed elementi di scienza dei metalli e di metallurgia.  
+2. Corrosione secca e corrosione ad umido e corrosione negli impianti industriali.  
+3. Corrosione di materiali ferrosi, corrosione di materiali non ferrosi e metodi di studio e di testing dei fenomeni di corrosione.  
+4. Prevenzione della corrosione; interventi sul metallo.  
+Prevenzione della corrosione; interventi sull'ambiente ed esercitazioni sui metodi di prevenzione della corrosione.  
+L'esame di diploma, al quale i candidati potranno essere ammessi dopo aver superato tutti gli esami di profitto, consiste in una discussione di una dissertazione scritta svolta dal candidato su un argomento tecnico-scientifico, assegnato allo specializzando dal direttore della Scuola.  
+Art. 152. - Al funzionamento della suddetta Scuola si provvedera' con il provento delle tasse, soprattasse e contributi dovuti dagli iscritti.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Data a Roma, addi' 14 gennaio 1980
+### Dato a Roma, addi' 24 maggio 1967
 
-PERTINI VALITUTTI
+SARAGAT GUI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 26 aprile 1980
+Registrato alla Corte dei conti, addi' 20 luglio 1967
 
-Registro n. 38 istruzione, foglio n. 31
+Atti del Governo, registro n. 212, foglio n. 54. - GRECO

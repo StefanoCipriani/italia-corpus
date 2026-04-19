@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 luglio 1986 n. 930
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1985 n. 912
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 luglio 1986 n. 930
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1985 n. 912
+==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Siena.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -33,27 +33,28 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Nell'art. 69, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-pediatria preventiva e sociale.  
+Nell'art. 49, relativo al corso di laurea in storia, all'elenco degli insegnamenti complementari per l'indirizzo moderno e' aggiunto il seguente nuovo insegnamento:  
+  
+storia dell'Unione Sovietica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 8 luglio 1986
+### Dato a Roma, addi' 22 ottobre 1985
 
 COSSIGA
 
 FALCUCCI, Ministro della pubblica istruzione
 
-Visto, il Guardasigilli: ROGNONI
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 18 dicembre 1986
+Registrato alla Corte dei conti, addi' 14 febbraio 1986
 
-Registro n. 89 Istruzione, foglio n. 383
+Registro n. 9 Istruzione, foglio n. 127

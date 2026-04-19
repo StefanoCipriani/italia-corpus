@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1976 n. 940
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1957 n. 992
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1976 n. 940
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1957 n. 992
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -10,72 +10,86 @@ Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successivi;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli 605, 606, 607, 608 e 609, relativi alla scuola di specializzazione in medicina dello sport, sono abrogati e sostituiti dai seguenti:  
-Art. 605. - La scuola di specializzazione in medicina dello sport dell'Universita' degli studi di Bologna si propone:  
-a) di valorizzare e approfondire gli studi biologici e di medicina applicata nel campo delle attivita' sportive, formative e di competizione e della educazione fisica;  
-b) di preparare adeguatamente sotto l'aspetto teorico e della applicazione pratica, i medici che intendono dedicarsi alle attivita' attinenti a questa particolare branca della medicina applicata, conferendo ad essi il diploma di specialisti in medicina dello sport.  
-Art. 606. - Il titolo richiesto per l'ammissione alla scuola e' la laurea in medicina e chirurgia.  
-Il corso di studi ha la durata di 3 anni, con frequenza obbligatoria, esso ha la sua sede ufficiale presso l'istituto di fisiologia umana.  
-Gli insegnamenti clinici e specialistici si svolgeranno presso i rispettivi istituti clinici e specialistici.  
-Il numero massimo degli allievi sara' di trenta per anno e complessivamente di novanta per l'intero corso.  
-L'ammissione ai corsi avviene per titoli. Nel caso di domande eccedenti il numero dei posti disponibili la selezione dei candidati avverra' in base ai risultati di un esame di ammissione.  
-La direzione del corso e' affidata al direttore dell'istituto di fisiologia umana.  
-Art. 607. - L'ordine degli studi e' il seguente:  
-1° Anno:  
-1) anatomia dell'apparato locomotore;  
-2) fisiologia dell'apparato locomotore;  
-3) biochimica ed energetica muscolare;  
-4) antropometria e auxologia;  
-5) fisiologia applicata allo sport;  
-6) storia dell'educazione fisica e dello sport;  
-7) sistematica delle attivita' sportivo-agonistiche e regolamenti sportivi.  
-2° Anno:  
-1) fisiologia dell'esercizio fisico;  
-2) biomeccanica dell'esercizio fisico;  
-3) metodologia dell'allenamento sportivo;  
-4) scienza della nutrizione applicata all'attivita' sportiva;  
-5) fisiopatologia degli sport e semeiotica medicosportiva;  
-6) farmacologia e tossicologia del doping;  
-7) igiene e medicina preventiva applicata all'attivita' sportiva;  
-8) traumatologia degli sport.  
-3° Anno:  
-1) fisiologia applicata agli sport;  
-2) valutazione funzionale dello sportivo;  
-3) fisiopatologia degli sport e semeiotica medicosportiva;  
-4) fisioterapia e rieducazione funzionale;  
-5) rianimazione e pronto soccorso;  
-6) medicina legale e infortunistica applicata agli sport;  
-7) fisiologia dell'adattamento agli ambienti straordinari.  
-La scuola svolgera' brevi corsi integrativi di conferenze o seminari sopra argomenti e discipline che saranno stabiliti, secondo le possibilita' contingenti, dal consiglio dei docenti della scuola.  
-Saranno inoltre svolte esercitazioni pratiche in sede e sul campo.  
-Art. 608- Alla fine di ogni anno di corso gli allievi dovranno sostenere l'esame di profitto nelle materie di insegnamento (art. 607), previste per ogni anno di corso e articolate in un unico gruppo.  
-L'iscrizione agli anni successivi e' subordinata al superamento di tutti gli esami annuali.  
-Art. 609. - Il diploma si consegue dopo aver superato tutte le prove di esame del triennio; la prova di diploma si svolge con la discussione su una dissertazione scritta concernente un tema assegnato o in ogni altro caso approvato dal direttore della scuola.  
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+  
+Dopo l'art. 213 sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della scuola di specializzazione in ingegneria nucleare, con il conseguente spostamento della numerazione degli articoli successivi.   
+  
+VI. Scuola di specializzazione in ingegneria nucleare   
+  
+Art. 214. - Presso la Facolta' di ingegneria e' istituita una scuola di specializzazione in ingegneria nucleare.   
+Art. 215. La durata del corso di studi per il conseguimento del diploma di specializzazione e' di due anni accademici.   
+Art. 216. - Il Consiglio dei professori della Facolta' di ingegneria nomina il direttore della scuola fra i professori della Facolta' di ingegneria o della Facolta' di scienze e su proposta di questo gli insegnanti.   
+Art. 217. - Possono essere iscritti alla scuola i laureati in ingegneria, in fisica e in chimica.   
+E' data tuttavia facolta' al Consiglio della scuola di consentire la iscrizione a persone fornite di titolo universitario - italiano od estero - che a suo insindacabile giudizio sia ritenuto a quelle lauree equipollente unicamente ai fini dell'ammissione alla scuola.   
+In ogni caso gli aspiranti alla iscrizione dovranno sostenere un colloquio atto ad accertare lo stato di preparazione.   
+Art. 218. - All'inizio dell'anno accademico il Consiglio della scuola, sulla base di una valutazione complessiva dei titoli di studio e dei risultati del colloquio redige l'elenco degli aspiranti ammessi nel numero fissato a termine dell'art. 127.   
+Tale numero non potra' in ogni caso essere superiore a venti.   
+Art. 219. - L'ordine degli studi della scuola di specializzazione prevede due indirizzi fondamentali volti alla formazione rispettivamente di specializzati nel progetto e nel controllo dei reattori o di specializzati nelle tecnologie relative ai materiali.   
+Nell'ambito di tali fondamentali indirizzi potranno essere fissati curricula di studi ulteriormente specificati inerenti a particolari aspetti della specializzazione; essi verranno di volta in volta stabiliti dal direttore del corso.   
+Art. 220 Le materie di insegnamento previste per i singoli indirizzi e nei singoli anni sono le seguenti:   
+1° indirizzo   
+Corsi consigliati: Anno 1°   
+  
+1) Istituzioni di fisica atomica e nucleare;   
+2) Fisica dei neutroni e fisica nucleare dei materiali fissili e fertili;   
+3) Radioattivita' e misure radioattive, protezione dalle radiazioni e laboratorio;   
+4) Elettronica e laboratorio;   
+5) Termotecnica.   
+  
+Anno 2°   
+  
+1) Teoria e calcolo dei reattori;   
+2) Tecnologia dei reattori;   
+3) Controllo e instrumentazione dei reattori, con laboratorio;   
+4) Cicli di combustione dei combustibili nucleari e reattori di potenza;   
+5) Tecniche speciali.   
+2° indirizzo   
+Corsi consigliati: Anno 1°   
+  
+1) Istituzioni di fisica atomica e nucleare (corso comune al 1° indirizzo;   
+2) Chimica dei materiali fissili e fertili e laboratorio   
+3) Radioattivita', misure radioattive, protezione dalle radiazioni;   
+4) Metallurgia dei materiali fissili e fertili e impianti; laboratorio;   
+5) Elementi di meccanica statistica e di fisica molecolare.   
+  
+Anno 2°   
+  
+1) Separazione isotopica - Teoria, impianti e misurazione con laboratorio;   
+2) Tecnologia e impianti per il trattamento chimico di materiale attivo con laboratorio, protezione dalle radiazioni;   
+3) Fisica dei solidi, effetti fisici delle radiazioni, con laboratorio;   
+4) Materiali speciali;   
+5) Trattamento e ritrattamento dei combustibili nucleari.   
+Alcuni dei corsi potranno essere articolati in due quadrimestri.   
+Tutti i corsi dovranno essere accompagnati da esercitazioni.   
+Durante l'anno accademico verranno tenuti, secondo un piano fissato dal direttore della scuola, udito il Consiglio della medesima, colloqui e seminari inerenti ai corsi tenuti.   
+Art. 221. - Per il conseguimento del diploma di specializzazione gli iscritti dovranno seguire nel biennio un numero minimo di sei corsi di cui cinque almeno appartenenti allo stesso indirizzo e superare i relativi esami.   
+Essi dovranno altresi' presentare un lavoro di ricerca e di progetto preparato in gruppo su tema fissato dal direttore del corso.   
+Disposizione transitoria   
+Nel primo quinquennio di attuazione della scuola il Consiglio della Facolta' di ingegneria, in considerazione delle esigenze di gradualita' nel costituirsi delle attrezzature scientifiche, provvedera' - su proposta del direttore della scuola udito il Consiglio della medesima - ad eventuali modificazioni dell'ordine degli studi sopra prefissato e dei programmi dei corsi per adeguarli alla possibilita' offerta da quelle attrezzature.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1976
+### Dato a Roma, addi' 2 settembre 1957
 
-LEONE MALFATTI
+GRONCHI MORO
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 30 dicembre 1976
+Registrato alla Corte dei conti, addi' 28 ottobre 1957
 
-Registro n. 105 Istruzione, foglio n. 310
+Atti del Governo, registro n. 108, foglio n. 108. - RELLEVA

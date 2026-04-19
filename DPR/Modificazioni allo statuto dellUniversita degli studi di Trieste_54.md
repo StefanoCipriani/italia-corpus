@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1980 n. 1098
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1127
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1980 n. 1098
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1127
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
@@ -10,155 +10,99 @@ Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1969, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-09-07;1540), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [regio decreto 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1962-09-07;1540), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Visto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Visto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduto l'[art. 16 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art16);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio universitario nazionale nel suo parere;
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Veduta la necessita' di adeguare le norme sulla direzione delle scuole di perfezionamento e di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Decreta:
---------
+Sulla
+-----
 
-Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+proposta del Ministro della pubblica istruzione; Decreta:
 
-Art. 1
-------
-
-  
-L'art. 50 e' modificato nel senso che la facolta' di lettere e filosofia conferisce anche la laurea in lingue e letterature straniere moderne.  
-
-Art. 2
-------
+Articolo unico
+--------------
 
   
   
-Dopo l'art. 57, con il conseguente spostamento della numerazione successiva, e' inserito il nuovo seguente articolo:   
+Lo statuto dell'Universita' di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Laurea in lingue e letterature straniere moderne (Indirizzo europeo)   
-Art. 58. - Durata del corso di studi: quattro anni.   
-Titoli di ammissione: quelli previsti dall'[art. 1 della legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1).   
-a) Insegnamenti fondamentali:   
-1) letteratura italiana;   
-2) letteratura latina;   
-3) glottologia;   
-4) una lingua e letteratura straniera moderna;   
-5) una seconda lingua e letteratura straniera moderna;   
-6) filologia romanza (o germanica o slava o ugrofinnica);   
-7) storia medioevale;   
-8) storia moderna;   
-9) storia dell'arte moderna (o storia dell'arte medioevale e moderna);   
-10) geografia.   
-b) Insegnamenti complementari (quando non siano stati scelti come fondamentali ai su indicati numeri 4), 5), 6):   
-1) lingua e letteratura francese;   
-2) lingua e letteratura inglese;   
-3) lingua e letteratura tedesca;   
-4) lingua e letteratura serbo-croata;   
-5) lingua e letteratura russa;   
-6) lingua e letteratura slovena;   
-7) letteratura latina medievale;   
-8) filologia romanza;   
-9) filologia germanica;   
-10) filologia slava;   
-11) letteratura anglo-americana;   
-12) storia della letteratura italiana moderna o contemporanea;   
-13) storia della lingua italiana;   
-14) storia delle tradizioni popolari;   
-15) storia della critica d'arte;   
-16) storia della musica;   
-17) storia del teatro;   
-18) storia del cinema;   
-19) filologia bizantina;   
-20) storia romana;   
-21) storia greca;   
-22) storia dell'Europa orientale;   
-23) storia del Rinascimento;   
-24) storia del Risorgimento;   
-25) storia contemporanea;   
-26) storia delle dottrine politiche;   
-27) storia dei Paesi slavi;   
-28) storia americana;   
-29) storia dell'eta' della riforma e della controriforma;   
-30) storia della filosofia;   
-31) storia della filosofia contemporanea;   
-32) filosofia del linguaggio;   
-33) storia sociale;   
-34) storia della critica letteraria;   
-35) didattica;   
-36) psicologia;   
-37) psicologia applicata;   
-38) psicologia sociale;   
-39) psicologia dell'eta' evolutiva;   
-40) antropologia culturale;   
-41) metodologia delle scienze del comportamento;   
-42) sociologia;   
-43) pedagogia;   
-44) estetica;   
-45) lingua e letteratura spagnola;   
-46) lingua e letteratura portoghese;   
-47) lingua e letteratura romena;   
-48) lingua e letteratura olandese e fiamminga;   
-49) lingue e letterature scandinave;   
-50) lingua e letteratura polacca;   
-51) lingua e letteratura bulgara;   
-52) lingua e letteratura ungherese;   
-53) lingua e letteratura neo-greca;   
-54) lingua e letteratura albanese;   
-55) lingue e letterature catalane;   
-56) letteratura ispano-americana;   
-57) letteratura dei Paesi francofoni;   
-58) letteratura brasiliana;   
-59) storia della lingua francese;   
-60) storia della lingua tedesca;   
-61) storia della lingua inglese;   
-62) storia della lingua russa;   
-63) storia delle lingue iberiche;   
-64) storia dell'arte medioevale;   
-65) storia dell'Unione sovietica;   
-66) storia della Francia;   
-67) storia della Spagna;   
-68) storia della Germania;   
-69) storia dell'Inghilterra e del Commonwealth nel secolo XX;   
-70) storia dell'eta' dell'illuminismo;   
-71) geografia storica;   
-72) geografia politica ed economica;   
-73) linguistica generale;   
-74) linguistica applicata;   
-75) didattica delle lingue moderne;   
-76) psicopedagogia;   
-77) bibliografia e biblioteconomia.   
-Lo studente dovra' seguire i corsi e sostenere gli esami in tutti gli insegnamenti fondamentali dell'indirizzo e in tre altri insegnamenti da lui scelti fra i complementari.   
-Uno degli insegnamenti complementari potra' essere sostituito dallo studente con una disciplina di altri corsi di studio della stessa o di diversa facolta'.   
-L'insegnamento della lingua e letteratura straniera moderna alla quale lo studente intende principalmente dedicarsi, dovra' essere seguito per tutti i quattro anni, alla fine di ciascuno dei quali egli sara' sottoposto a prove scritte, di anno in anno gradualmente progressive.   
-Dovranno poi essere seguiti per due anni l'insegnamento della filologia a cui quella stessa prima lingua si ricollega e l'insegnamento della seconda lingua e letteratura straniera moderna prescelta. Due altri insegnamenti fondamentali dovranno pure essere seguiti per un biennio. Lo studente potra' seguire per un biennio anche un altro insegnamento ed in tal caso potra' ridurre da tre a due gli insegnamenti complementari di sua scelta.   
-Gli esami di letteratura italiana e di letteratura latina comprendono una prova scritta preliminare.   
-Nelle facolta' dove gli insegnamenti di storia medioevale e di storia moderna sono riuniti in una unica cattedra, i corsi rispettivi debbono essere tenuti alternativamente.   
-Il preside, sentita, ove ritenga, la facolta' deve controllare i piani di studi presentati dagli studenti e approvarli prima che siano resi definitivi.   
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali dell'indirizzo e in tutti gli altri insegnamenti compresi nel piano di studio approvato dal preside.   
-Per l'esame di laurea lo studente deve presentare un elaborato scritto su un argomento scelto tra una delle discipline di cui abbia superato gli esami, nel quadro della civilta' della lingua quadriennale.   
-Tale elaborato sara' discusso dinanzi ad una commissione di docenti.   
+Dopo l'art. 120, e con il conseguente spostamento della numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di perfezionamento in "scienza dell'educazione" presso la facolta' di magistero.   
+Scuola di perfezionamento in scienza dell'educazione   
+Art. 121. - Alla facolta' di magistero dell'Universita' di Trieste e' annessa una scuola di perfezionamento in scienze dell'educazione con lo scopo di integrare, qualificandola professionalmente, la preparazione di giovani che intendono dedicarsi all'insegnamento.   
+Alla scuola possono essere iscritti laureati di qualsiasi facolta' in possesso di un titolo di studio che dia diritto di partecipare ad esami di abilitazione o a concorsi per scuole secondarie.   
+Possono essere ammessi alla scuola un massimo di sessanta iscritti.  
+L'ammissione verra' decisa dal consiglio della scuola dopo un colloquio del richiedente davanti ad apposita commissione.   
+La durata della scuola e' di due anni.   
+La frequenza della scuola e' obbligatoria.   
+Art. 122. - Nella scuola sono impartiti i seguenti insegnamenti distinti per ciascun anno di corso:   
+1° Anno:   
+pedagogia;   
+didattica;   
+psicologia pedagogica;   
+un complementare.   
+2° Anno:   
+pedagogia;   
+didattica;   
+un complementare;   
+un seminario o partecipazione a un progetto sperimentale.   
+Sono insegnamenti complementari:   
+auxologia ed igiene;   
+istituzioni di diritto pubblico e legislazione scolastica;   
+psicologia dell'eta' evolutiva;   
+sociologia dell'educazione.   
+Art. 123. - La scuola di perfezionamento in scienze dell'educazione prevede l'attuazione delle norme generali per le scuole di perfezionamento e di specializzazione di cui al titolo 3, cap. I, articoli 105, 106, 107, 108, 109 e 111 dello statuto dell'Universita' di Trieste.   
+In particolare si precisa ai sensi del suddetto art. 107 che oltre agli insegnamenti stabiliti nello statuto, presso la scuola potranno svolgersi cicli di conferenze e di esercitazioni su speciali materie stabilite annualmente dal consiglio di facolta'.   
+Su tali materie potra' sostenersi la prova d'esame.   
+La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima. La scuola sara' retta da un direttore e da un consiglio composto dai professori ufficiali che impartiscono insegnamenti nella scuola.   
+L'organizzazione della scuola e' affidata all'istituto di pedagogia, a cui fanno capo gli insegnamenti della scuola stessa.  
+Detto istituto porra' a disposizione della scuola quanto necessario per il suo funzionamento e in particolare i corredi di carattere scientifico e bibliografico e i supporti ed i sussidi di carattere didattico che sono disponibili in misura sufficiente nella sede dell'istituto.   
+Ai sensi dell'art. 111 dello statuto dell'Universita' di Trieste, le tasse di iscrizione e le soprattasse della scuola sono le seguenti:   
+  
+Primo anno:   
+tassa di immatricolazione . . . . . . . . . . . . . . . . . L. 10.000 tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 50.000 tassa annuale di esami. . . . . . . . . . . . . . . . . . . L. 10.000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . L. 70.000 Anni successivi:   
+tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 50.000 tassa annuale di esami. . . . . . . . . . . . . . . . . . . L. 10.000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . L. 60.000   
+  
+Soprattassa di diploma L. 10.000, mentre la tassa di diploma e' fissata a norma di legge.   
+Come per legge (art. 20 del testo unico) agli insegnamenti si provvedera' sia con docenti della facolta' di magistero, sia con opportuni raggruppamenti e coordinamenti di insegnamenti propri di altre facolta' della stessa Universita'.   
+Il consiglio della facolta' di magistero provvedera' secondo la normativa vigente alla nomina del direttore e dei docenti della scuola stessa.   
+Art. 124. - Di uno stesso insegnamento, tra quelli indicati, possono venir incaricati piu' docenti aventi specifica competenza nelle diverse parti del programma.   
+Art. 125. - Il consiglio direttivo della scuola determina:   
+a) i curricoli della stessa;   
+b) i programmi dei singoli corsi di insegnamento e la rispettiva durata;   
+c) il numero degli esami richiesti per l'ammissione al secondo anno;   
+d) le proposte da sottoporre al consiglio di amministrazione dell'Universita' per iniziative integrative dell'attivita' normale della scuola.   
+Art. 126. - Il diploma della scuola sara' conseguibile con la discussione orale di un documento scritto, su un tema o prova sperimentale concordati con uno dei docenti della scuola, sentito il parere del consiglio direttivo.   
+Il candidato non riconosciuto idoneo ad una prima prova dell'esame di diploma puo' ripresentarsi una seconda volta, ma non nello stesso anno accademico.   
+Gli esami previsti dal curricolo di ciascun iscritto possono essere sostenuti non piu' di due volte e sempre in sessioni distinte.   
+I candidati che non riescono a superare un esame del loro corso di studi alla seconda prova, sono esclusi dalla scuola.   
+Le commissioni di esame sono costituite da insegnanti della scuola secondo le vigenti norme degli esami universitari.   
+Gli esami vengono svolti nelle sessioni di esami previste dalla legge.   
+Art. 127. - Per il conseguimento del diploma si richiede una frequenza di due anni, il superamento di tutti gli esami relativi al primo e al secondo anno del curricolo scelto dal candidato e dell'esame di diploma.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1980
+### Dato a Roma, addi' 31 ottobre 1981
 
 PERTINI BODRATO
 
-Visto, il Guardasigilli: SARTI
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 20 marzo 1981
+Registrato alla Corte dei conti, addi' 20 marzo 1982
 
-Registro n. 26 Istruzione, foglio n. 391
+Registro n. 43 Istruzione, foglio n. 324

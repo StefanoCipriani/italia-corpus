@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1115
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1969 n. 1342
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1115
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1969 n. 1342
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,13 +18,11 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Riconosciuta la particolare necessita' da approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Sentito il parere del Consiglio superiore, della pubblica istruzione;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
 Sulla proposta del Ministro per la pubblica istruzione;
 
@@ -32,163 +30,643 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 59. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:
+Art. 174, relativo all'elenco delle scuole di specializzazione delle facolta' di medicina e chirurgia, e' modificato nel senso che la scuola di specializzazione in "Radiologia medica" muta denominazione in quella di "Radiologia", e che il "Corso di perfezionamento in puericultura, dietetica infantile ed assistenza all'infanzia" e' soppresso ed e' sostituito dalla scuola di specializzazione in "Puericultura". Allo stesso elenco e' aggiunta con il n. 18 la scuola di specializzazione in "Malattie dell'apparato cardiovascolare".
 
-Nefrologia di interesse chirurgico;
+Art. 175. - Il secondo comma relativo al corso di perfezionamento in puericultura, dietetica infantile ed assistenza sociale e' soppresso.
 
-Terapia fisica e riabilitazione;
+Art. 182. - L'ultimo comma concernente gli esami di profitto per gli iscritti al predetto corso di perfezionamento e' soppresso.
 
-Chirurgia vascolare;
+Gli articoli 189, 193, 195, 200 relativi rispettivamente alle scuole di specializzazione in "Ostetricia e ginecologia", "Medicina legale e delle assicurazioni", "Radiologia medica" ed al "Corso di perfezionamento in puericultura, dietetica infantile ed assistenza sociale all'infanzia" sono abrogati e sostituiti dai seguenti:
 
-Patologia ultrastrutturale.
+Scuola di specializzazione in ostetricia e ginecologia
 
-Art. 174. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola in "Endocrinologia".
+Art. 189. - La scuola e' annessa all'istituto di clinica ostetrico-ginecologica e il corso di specializzazione ha la durata di quattro anni. L'ammissione alla scuola avviene a seguito di concorso per titoli ed esami.
 
-Dopo l'art. 223 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in endocrinologia.
+Sono da considerare titoli preferenziali a parita' di risultato dell'esame di ammissione:
 
-Scuola di specializzazione in endocrinologia
+a) il voto di laurea in medicina e chirurgia;
 
-Art. 224. - La scuola ha sede presso l'istituto di clinica medica I. Cattedra di endocrinologia e medicina costituzionale.
+b) aver frequentato come studente interno la clinica ostetrica e ginecologica dell'Universita' di Bari;
 
-La scuola ha la durata di tre anni.
+c) aver svolto la tesi di laurea nella clinica ostetrica e ginecologica;
 
-Il numero complessivo di iscritti e' limitato a otto per i tre anni di corso in rapporto al numero di letti.
+d) documentazione di eventuali servizi prestati in grossi reparti ospitalieri della specialita';
 
-Gli aspiranti saranno ammessi alla scuola in base alla classificazione di un esame preliminare che comprende una prova scritta e una orale che si svolgera' entro il mese di dicembre.
+e) eventuali pubblicazioni.
 
-Art. 225. - Gli iscritti alla scuola hanno l'obbligo di frequentare gli insegnamenti stabiliti secondo il programma del corso, nonche' la divisione di endocrinologia annessa alla cattedra di endocrinologia e medicina costituzionale.
+L'esame di ammissione deve espletarsi entro il mese di dicembre.
 
-Coloro che non ottempereranno all'obbligo di frequenza ai corsi di insegnamento e al servizio di corsia e di laboratorio non potranno ottenere l'attestazione di frequenza, necessaria per l'ammissione agli esami.
+Il numero degli iscritti e' stabilito in dieci per anno di corso per un totale complessivo di quaranta iscritti.
 
-Art. 226. - Alla fine di ciascun anno accademico coloro che abbiano ottenuto la prescritta attestazione di frequenza potranno sostenere gli esami di profitto, il cui superamento e' condizione necessaria per l'iscrizione al corso successivo.
+Per nessun motivo il corso di quattro anni puo' essere abbreviato.
 
-Al termine del terzo anno, per conseguire il diploma di specializzazione in endocrinologia, gli iscritti, oltre ad aver superato le prove dei singoli esami, dovranno presentare una dissertazione scritta su un argomento di ordine endocrinologico (clinico e sperimentale), che sara' stabilito in base agli accordi con il direttore della scuola.
+Nessun titolo puo' esonerare dalla frequenza gli iscritti nei quattro anni di corso.
 
-I candidati non riconosciuti idonei agli esami di ciascun corso e all'esame di diploma potranno sostenere le prove dopo un altro anno di frequenza.
+Gli iscritti, oltre l'obbligo di frequenza delle lezioni, esercitazioni, seminari, ecc., devono prestare servizio analogo a quello degli assistenti per non meno di nove mesi all'anno.
 
-Art. 227. - Le materie saranno le seguenti:
+Gli iscritti alla scuola debbono sostenere esami annuali di profitto e l'esame finale di diploma. La sessione di esami di profitto e' unica ed e' espletata nel mese di ottobre.
+
+Non puo' essere iscritto all'anno successivo di corso chi non abbia superato gli esami di profitto dell'anno precedente.
+
+Il programma di studi e' il seguente:
 
 1° Anno:
 
-1) Anatomia ed endocrinologia degli organi endocrini;
+1) Elementi di genetica e di eugenica;
 
-2) Fisiologia endocrina;
+2) Anatomia normale ed embriologia dell'apparato genitale femminile;
 
-3) Biochimica endocrina;
+3) Fisiologia dell'apparato genitale femminile;
 
-4) Anatomia patologica delle malattie endocrine (1° corso);
+4) Endocrinologia fisiologica;
 
-5) Semeiotica e diagnostica endocrine (1° corso);
+5) Fisiologia ostetrica;
 
-6) Tecniche di laboratorio endocrinologiche (facoltativo).
+6) Diagnostica ostetrica;
+
+7) Clinica ostetrica e ginecologica (1° corso, con esame al 4° anno).
 
 2° Anno:
 
-1) Anatomia patologica delle malattie endocrine (2° corso);
+1) Tecnica operatoria ostetrica;
 
-2) Semeiotica e diagnostica endocrine (2° corso);
+2) Diagnostica ginecologica;
 
-3) Patologia speciale medica e clinica delle malattie endocrine e delle auxopatie (1° corso);
+3) Tecnica diagnostica di laboratorio nel campo ostetrico-ginecologico, esclusa la istologia (sierologia, batteriologia, citologia, ematologia, biochimica);
 
-4) Erodopatologia endocrina;
-
-5) Neuroendocrinologia (facoltativo).
+4) Clinica ostetrica e ginecologia (2° corso, con esame al 4° anno).
 
 3° Anno:
 
-1) Patologia speciale medica e clinica delle malattie endocrine e delle auxopatie (2° corso);
+1) Anatomia patologica ostetrica e ginecologica;
 
-2) Terapia delle malattie endocrine;
+2) Istologia normale e patologica nel campo della specialita';
 
-3) Endocrinologia ostetrico ginecologica (facoltativo).
+3) Puericultura prenatale;
 
-Degli insegnamenti facoltativi almeno uno - a scelta del candidato - sara' materia di esame.
+4) Emoterapia nel campo ostetrico e ginecologico;
 
-Il programma di ciascun anno di corso sara' svolto in almeno sessanta lezioni globali e sara' integrato da seminari, conferenze, esercitazioni.
+5) Anestesia e analgesia nel campo ostetrico e ginecologico;
 
-Abbreviazioni di corso potranno eventualmente essere concesse a coloro che siano in possesso del diploma di specializzazione in medicina interna.
+6) Tecnica operatoria ginecologica;
+
+7) Terapia medica ostetrica e ginecologica;
+
+8) Clinica ostetrica e ginecologica (3° corso, con esame al 4° anno).
+
+4° Anno:
+
+1) Puericultura postnatale e malattie del neonato;
+
+2) Ostetricia e ginecologia forense;
+
+3) Diagnostica roentgen, radioterapia in ostetricia e ginecologia;
+
+4) Urologia ginecologica;
+
+5) Chirurgia addominale extra genitale;
+
+6) Clinica ostetrica e ginecologica (4° corso con esame).
+
+Gli esami si fanno per gruppi di materie. I membri delle commissioni degli esami di profitto sono nominati dal direttore della scuola, mentre la commissione per l'esame di diploma e' nominata dal preside di facolta' su proposta del direttore della scuola.
+
+Per l'esonero dal pagamento delle tasse, soprattasse e contributi si applicano le disposizioni di legge vigenti.
+
+Per il conseguimento del diploma l'iscritto deve presentare e discutere una dissertazione scritta con contributo personale.
+
+Scuola di specializzazione in medicina legale e delle assicurazioni
+
+Art. 193. - La scuola di specializzazione in medicina legale e delle assicurazioni ha sede presso l'istituto di medicina legale e delle assicurazioni.
+
+L'ammissione alla stessa avviene in seguito a concorso per titoli ed esami.
+
+Non sono ammesse per nessun motivo abbreviazioni di corso.
+
+La durata della scuola e' di tre anni; il numero complessivo degli iscritti alla scuola non potra' essere superiore a trenta.
+
+Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni e le esercitazioni, nonche' di prestare servizio di medico interno per almeno sei mesi per ciascun anno di corso.
+
+Gli insegnamenti impartiti nella scuola sono i seguenti:
+
+1° Anno:
+
+1) Medicina legale generale;
+
+2) Elementi di diritto pubblico e privato;
+
+3) Tecnica e diagnostica anatomo-patologica generale e medico-legale;
+
+4) Traumatologia medico-legale;
+
+5) Semeiotica medico-legale.
+
+2° Anno:
+
+1) Medicina legale penalistica;
+
+2) Deontologia medica;
+
+3) Neuropsichiatria medico-legale;
+
+4) Elementi di medicina criminologica e di medicina penitenziaria;
+
+5) Indagini di sopralluogo;
+
+6) Identificazione personale.
+
+3° Anno:
+
+1) Medicina legale civilistica e canonistica;
+
+2) Tossicologia medico-legale;
+
+3) Tecniche di laboratorio medico-legale ed ematologia forense;
+
+4) Ostetricia e ginecologia forensi;
+
+5) Elementi di legislazione del lavoro;
+
+6) Elementi di medicina del lavoro;
+
+7) Medicina delle assicurazioni;
+
+8) Medicina legale militare e pensionistica civile.
+
+Scuola di specializzazione in radiologia
+
+Art. 195. - La scuola conferisce il diploma di specializzazione in radiologia (che abilita all'esercizio specialistico della roentgendiagnostica, della radioterapia e della medicina nucleare) ed il diploma di specializzazione in radiologia diagnostica (che abilita all'esercizio professionale specialistico della roentgendiagnostica).
+
+Essa ha sede presso l'istituto di radiologia.
+
+Il numero complessivo degli iscritti ai due corsi della scuola non puo' essere superiore ai ventiquattro.
+
+L'ammissione alla scuola avverra' in seguito a concorso per esami su nozioni generali di radiologia e di cultura medica.
+
+Non sono concesse, per alcun motivo, abbreviazioni di corso.
+
+Gli iscritti alla scuola hanno l'obbligo dell'internato presso l'istituto di radiologia.
+
+Gli insegnamenti impartiti nella scuola sono i seguenti:
+
+A. - Diploma di specializzazione in radiologia
+
+(durata quattro anni)
+
+1° Anno:
+
+1) Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;
+
+2) Nozioni sugli apparecchi ed istrumenti della radiologia;
+
+3) Anatomia radiologica normale;
+
+4) Fisiologia radiologica;
+
+5) Tecnica radiologica generale;
+
+6) Semeiotica radiologica generale;
+
+7) Fondamenti di radiobiologia;
+
+8) Nozioni di statistica e matematica.
+
+2° Anno:
+
+1) Tecnica e metodica dell'esame radiologico dei vari organi, apparati e sistemi;
+
+2) Semeiotica radiologica speciale e diagnosi differenziale;
+
+3) Fondamenti di radioterapia;
+
+4) Danni di radiazioni e mezzi di protezione;
+
+5) Dimostrazioni cliniche di diagnostica radiologica;
+
+6) Dimostrazioni cliniche di radioterapia.
+
+3° Anno:
+
+1) Diagnostica radiologica differenziale;
+
+2) Dimostrazioni di casistica di roentgendiagnostica con confronto del quadro anatomo-patologico;
+
+3) Dimostrazioni di casistica di roentgenterapia con particolare riferimento all'anatomia patologica;
+
+4) Radioterapia tradizionale. Curieterapia;
+
+5) Radioterapia con alte energie;
+
+6) Elementi di medicina nucleare;
+
+7) Instrumentario, tecnica e metodica di applicazione;
+
+8) Dosimetria.
+
+4° Anno:
+
+1) Moderne tecniche di esplorazione e terapia radiologica;
+
+2) Diagnostica e terapia con isotopi radioattivi somministrati per via interna;
+
+3) Radiodiagnostica e radioterapia clinica (casistica);
+
+4) Medicina legale e legislazione sanitaria in relazione alla radiologia.
+
+B. - Diploma di specializzazione in radiologia diagnostica
+
+(durata tre anni)
+
+1° Anno:
+
+1) Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;
+
+2) Nozioni sugli apparecchi ed istrumenti della radiologia;
+
+3) Anatomia radiologica normale;
+
+4) Fisiologia radiologica;
+
+5) Tecnica radiologica generale;
+
+6) Semeiotica radiologica generale;
+
+7) Fondamenti di radiobiologia;
+
+8) Nozioni di statistica e matematica.
+
+2° Anno:
+
+1) Metodica di esplorazione dei vari organi e apparati;
+
+2) Semeiotica radiologica speciale e diagnosi differenziale;
+
+3) Nozioni generali sulle lesioni da radiazioni e mezzi di protezione;
+
+4) Moderne tecniche di esplorazione radiologica.
+
+3° Anno:
+
+1) Esplorazione radiologica nella patologia dei vari organi ed apparati. Diagnostica differenziale. Rapporti con l'anatomia patologica;
+
+2) Radiodiagnostica clinica;
+
+3) Medicina legale e legislazione sanitaria in relazione alla radiologia.
+
+I corsi di cui ai precedenti paragrafi A e B saranno integrati da conferenze, esercitazioni e seminari.
+
+Scuola di specializzazione in puericultura
+
+Art. 200. - La scuola di specializzazione in puericultura e' annessa all'istituto di clinica pediatrica. Essa ha la durata di tre anni e si propone di conferire la preparazione teorico-pratica in biologia infantile e pediatria preventiva a laureati in medicina e chirurgia.
+
+Il numero complessivo degli iscritti alla scuola non puo' essere superiore a nove.
+
+Non sono ammesse per alcun motivo abbreviazioni di corso.
+
+Le materie di insegnamento sono:
+
+1° Anno:
+
+1) Peculiarita' anatomo-fisiologiche dell'eta' evolutiva;
+
+2) Elementi di genetica medica e di eugenetica;
+
+3) Elementi di puericultura perinatale;
+
+4) Auxologia;
+
+5) Alimentazione e dietetica dell'eta' infantile;
+
+6) Elementi di semeiotica infantile.
+
+2° Anno:
+
+1) Psicologia ed igiene mentale nell'eta' evolutiva;
+
+2) Igiene ed assistenza dell'eta' evolutiva;
+
+3) Profilassi delle malattie infettive nell'infanzia;
+
+4) Elementi di medicina scolastica;
+
+5) Legislazione ed assistenza sociale all'infanzia.
+
+3° Anno:
+
+Tirocinio pratico presso l'istituto ove la scuola ha sede.
+
+Durante l'anno saranno svolte esercitazioni pratiche e conferenze su argomenti di puericultura.
+
+Gli iscritti hanno l'obbligo di internato con le modalita' e l'orario che saranno stabiliti dal direttore della scuola.
+
+Alla fine di ognuno dei primi due anni, gli iscritti dovranno sostenere l'esame sulle materie di insegnamento.
+
+Al termine del terzo anno essi sosterranno un esame pratico unitamente all'esame di diploma.
+
+Dopo l'art. 227 e' aggiunto l'art. 228 relativo alla istituzione, presso la facolta' di medicina e chirurgia, della scuola di specializzazione in malattie dell'apparato cardiovascolare.
+
+Scuola di specializzazione in malattie dell'apparato cardiovascolare
+
+Art. 228. - L'ammissione alla scuola avverra' in seguito a concorso per esami. Il numero complessivo degli iscritti alla scuola non puo' essere superiore a dodici.
+
+Per il conseguimento del diploma di specialista in malattie dell'apparato cardio-vascolare si richiedono tre anni di corso con internato. Tale internato si svolgera' presso l'istituto di clinica medica ed avra' la durata di almeno dieci mesi all'anno per ogni singolo anno di corso.
+
+Non saranno consentite abbreviazioni di corso.
+
+Gli insegnamenti impartiti nella scuola sono i seguenti:
+
+1° Anno:
+
+1) Anatomia normale dell'apparato cardio-vascolare;
+
+2) Fisiologia dell'apparato cardio-vascolare e respiratorio;
+
+3) Fisiopatologia cardio-vascolare e respiratoria (1° corso);
+
+4) Patologia cardio-vascolare (1° corso);
+
+5) Semeiologia fisica (1° corso);
+
+6) Semeiologia strumentale (1° corso).
+
+2° Anno:
+
+1) Fisiopatologia cardio-vascolare e respiratoria (2° corso);
+
+2) Patologia cardio-vascolare (2° corso);
+
+3) Semeiologia fisica (2° corso);
+
+4) Semeiologia strumentale (2° corso);
+
+5) Anatomia patologica dell'apparato cardio-vascolare (1° corso);
+
+6) Radiologia;
+
+7) Farmacologia;
+
+8) Clinica e terapia (1° corso).
+
+3° Anno:
+
+1) Anatomia patologica dell'apparato cardio-vascolare (2° corso);
+
+2) Clinica e terapia (2° corso);
+
+3) Chirurgia dell'apparato cardio-vascolare;
+
+4) Problemi assicurativi e sociali.
+
+L'esame di diploma di specializzazione consiste nella discussione di una dissertazione scritta su argomento precedentemente concordato con il direttore della scuola.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 31 ottobre 1972
+Dato a Roma, addi' 30 ottobre 1969
 
-LEONE
+SARAGAT
 
-SCALFARO
+FERRARI AGGRADI
 
-Visto,
-------
+Visto, il Guardasigilli: GAVA
 
-il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 21 marzo 1973
+Registrato
+----------
+
+alla Corte dei conti, addi' 22 luglio 1970 Atti del Governo, registro n. 236, foglio n. 175. - IZZI
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' da approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore, della pubblica istruzione;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 174, relativo all'elenco delle scuole di specializzazione delle facolta' di medicina e chirurgia, e' modificato nel senso che la scuola di specializzazione in "Radiologia medica" muta denominazione in quella di "Radiologia", e che il "Corso di perfezionamento in puericultura, dietetica infantile ed assistenza all'infanzia" e' soppresso ed e' sostituito dalla scuola di specializzazione in "Puericultura". Allo stesso elenco e' aggiunta con il n. 18 la scuola di specializzazione in "Malattie dell'apparato cardiovascolare".  
+Art. 175. - Il secondo comma relativo al corso di perfezionamento in puericultura, dietetica infantile ed assistenza sociale e' soppresso.  
+Art. 182. - L'ultimo comma concernente gli esami di profitto per gli iscritti al predetto corso di perfezionamento e' soppresso.  
+Gli articoli 189, 193, 195, 200 relativi rispettivamente alle scuole di specializzazione in "Ostetricia e ginecologia", "Medicina legale e delle assicurazioni", "Radiologia medica" ed al "Corso di perfezionamento in puericultura, dietetica infantile ed assistenza sociale all'infanzia" sono abrogati e sostituiti dai seguenti:  
   
-Art. 59. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:  
-Nefrologia di interesse chirurgico;  
-Terapia fisica e riabilitazione;  
-Chirurgia vascolare;  
-Patologia ultrastrutturale.  
-Art. 174. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola in "Endocrinologia".  
-Dopo l'art. 223 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in endocrinologia.  
+Scuola di specializzazione in ostetricia e ginecologia  
   
-Scuola di specializzazione in endocrinologia  
-  
-Art. 224. - La scuola ha sede presso l'istituto di clinica medica I. Cattedra di endocrinologia e medicina costituzionale.  
-La scuola ha la durata di tre anni.  
-Il numero complessivo di iscritti e' limitato a otto per i tre anni di corso in rapporto al numero di letti.  
-Gli aspiranti saranno ammessi alla scuola in base alla classificazione di un esame preliminare che comprende una prova scritta e una orale che si svolgera' entro il mese di dicembre.  
-Art. 225. - Gli iscritti alla scuola hanno l'obbligo di frequentare gli insegnamenti stabiliti secondo il programma del corso, nonche' la divisione di endocrinologia annessa alla cattedra di endocrinologia e medicina costituzionale.  
-Coloro che non ottempereranno all'obbligo di frequenza ai corsi di insegnamento e al servizio di corsia e di laboratorio non potranno ottenere l'attestazione di frequenza, necessaria per l'ammissione agli esami.  
-Art. 226. - Alla fine di ciascun anno accademico coloro che abbiano ottenuto la prescritta attestazione di frequenza potranno sostenere gli esami di profitto, il cui superamento e' condizione necessaria per l'iscrizione al corso successivo.  
-Al termine del terzo anno, per conseguire il diploma di specializzazione in endocrinologia, gli iscritti, oltre ad aver superato le prove dei singoli esami, dovranno presentare una dissertazione scritta su un argomento di ordine endocrinologico (clinico e sperimentale), che sara' stabilito in base agli accordi con il direttore della scuola.  
-I candidati non riconosciuti idonei agli esami di ciascun corso e all'esame di diploma potranno sostenere le prove dopo un altro anno di frequenza.  
-Art. 227. - Le materie saranno le seguenti:  
+Art. 189. - La scuola e' annessa all'istituto di clinica ostetrico-ginecologica e il corso di specializzazione ha la durata di quattro anni. L'ammissione alla scuola avviene a seguito di concorso per titoli ed esami.  
+Sono da considerare titoli preferenziali a parita' di risultato dell'esame di ammissione:  
+a) il voto di laurea in medicina e chirurgia;  
+b) aver frequentato come studente interno la clinica ostetrica e ginecologica dell'Universita' di Bari;  
+c) aver svolto la tesi di laurea nella clinica ostetrica e ginecologica;  
+d) documentazione di eventuali servizi prestati in grossi reparti ospitalieri della specialita';  
+e) eventuali pubblicazioni.  
+L'esame di ammissione deve espletarsi entro il mese di dicembre.  
+Il numero degli iscritti e' stabilito in dieci per anno di corso per un totale complessivo di quaranta iscritti.  
+Per nessun motivo il corso di quattro anni puo' essere abbreviato.  
+Nessun titolo puo' esonerare dalla frequenza gli iscritti nei quattro anni di corso.  
+Gli iscritti, oltre l'obbligo di frequenza delle lezioni, esercitazioni, seminari, ecc., devono prestare servizio analogo a quello degli assistenti per non meno di nove mesi all'anno.  
+Gli iscritti alla scuola debbono sostenere esami annuali di profitto e l'esame finale di diploma. La sessione di esami di profitto e' unica ed e' espletata nel mese di ottobre.  
+Non puo' essere iscritto all'anno successivo di corso chi non abbia superato gli esami di profitto dell'anno precedente.  
+Il programma di studi e' il seguente:  
 1° Anno:  
-1) Anatomia ed endocrinologia degli organi endocrini;  
-2) Fisiologia endocrina;  
-3) Biochimica endocrina;  
-4) Anatomia patologica delle malattie endocrine (1° corso);  
-5) Semeiotica e diagnostica endocrine (1° corso);  
-6) Tecniche di laboratorio endocrinologiche (facoltativo).  
+1) Elementi di genetica e di eugenica;  
+2) Anatomia normale ed embriologia dell'apparato genitale femminile;  
+3) Fisiologia dell'apparato genitale femminile;  
+4) Endocrinologia fisiologica;  
+5) Fisiologia ostetrica;  
+6) Diagnostica ostetrica;  
+7) Clinica ostetrica e ginecologica (1° corso, con esame al 4° anno).  
 2° Anno:  
-1) Anatomia patologica delle malattie endocrine (2° corso);  
-2) Semeiotica e diagnostica endocrine (2° corso);  
-3) Patologia speciale medica e clinica delle malattie endocrine e delle auxopatie (1° corso);  
-4) Erodopatologia endocrina;  
-5) Neuroendocrinologia (facoltativo).  
+1) Tecnica operatoria ostetrica;  
+2) Diagnostica ginecologica;  
+3) Tecnica diagnostica di laboratorio nel campo ostetrico-ginecologico, esclusa la istologia (sierologia, batteriologia, citologia, ematologia, biochimica);  
+4) Clinica ostetrica e ginecologia (2° corso, con esame al 4° anno).  
 3° Anno:  
-1) Patologia speciale medica e clinica delle malattie endocrine e delle auxopatie (2° corso);  
-2) Terapia delle malattie endocrine;  
-3) Endocrinologia ostetrico ginecologica (facoltativo).  
-Degli insegnamenti facoltativi almeno uno - a scelta del candidato - sara' materia di esame.  
-Il programma di ciascun anno di corso sara' svolto in almeno sessanta lezioni globali e sara' integrato da seminari, conferenze, esercitazioni.  
-Abbreviazioni di corso potranno eventualmente essere concesse a coloro che siano in possesso del diploma di specializzazione in medicina interna.  
+1) Anatomia patologica ostetrica e ginecologica;  
+2) Istologia normale e patologica nel campo della specialita';  
+3) Puericultura prenatale;  
+4) Emoterapia nel campo ostetrico e ginecologico;  
+5) Anestesia e analgesia nel campo ostetrico e ginecologico;  
+6) Tecnica operatoria ginecologica;  
+7) Terapia medica ostetrica e ginecologica;  
+8) Clinica ostetrica e ginecologica (3° corso, con esame al 4° anno).  
+4° Anno:  
+1) Puericultura postnatale e malattie del neonato;  
+2) Ostetricia e ginecologia forense;  
+3) Diagnostica roentgen, radioterapia in ostetricia e ginecologia;  
+4) Urologia ginecologica;  
+5) Chirurgia addominale extra genitale;  
+6) Clinica ostetrica e ginecologica (4° corso con esame).  
+Gli esami si fanno per gruppi di materie. I membri delle commissioni degli esami di profitto sono nominati dal direttore della scuola, mentre la commissione per l'esame di diploma e' nominata dal preside di facolta' su proposta del direttore della scuola.  
+Per l'esonero dal pagamento delle tasse, soprattasse e contributi si applicano le disposizioni di legge vigenti.  
+Per il conseguimento del diploma l'iscritto deve presentare e discutere una dissertazione scritta con contributo personale.  
+  
+Scuola di specializzazione in medicina legale e delle assicurazioni   
+Art. 193. - La scuola di specializzazione in medicina legale e delle assicurazioni ha sede presso l'istituto di medicina legale e delle assicurazioni.  
+L'ammissione alla stessa avviene in seguito a concorso per titoli ed esami.  
+Non sono ammesse per nessun motivo abbreviazioni di corso.  
+La durata della scuola e' di tre anni; il numero complessivo degli iscritti alla scuola non potra' essere superiore a trenta.  
+Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni e le esercitazioni, nonche' di prestare servizio di medico interno per almeno sei mesi per ciascun anno di corso.  
+Gli insegnamenti impartiti nella scuola sono i seguenti:  
+1° Anno:  
+1) Medicina legale generale;  
+2) Elementi di diritto pubblico e privato;  
+3) Tecnica e diagnostica anatomo-patologica generale e medico-legale;  
+4) Traumatologia medico-legale;  
+5) Semeiotica medico-legale.  
+2° Anno:  
+1) Medicina legale penalistica;  
+2) Deontologia medica;  
+3) Neuropsichiatria medico-legale;  
+4) Elementi di medicina criminologica e di medicina penitenziaria;  
+5) Indagini di sopralluogo;  
+6) Identificazione personale.  
+3° Anno:  
+1) Medicina legale civilistica e canonistica;  
+2) Tossicologia medico-legale;  
+3) Tecniche di laboratorio medico-legale ed ematologia forense;  
+4) Ostetricia e ginecologia forensi;  
+5) Elementi di legislazione del lavoro;  
+6) Elementi di medicina del lavoro;  
+7) Medicina delle assicurazioni;  
+8) Medicina legale militare e pensionistica civile.  
+  
+Scuola di specializzazione in radiologia  
+  
+Art. 195. - La scuola conferisce il diploma di specializzazione in radiologia (che abilita all'esercizio specialistico della roentgendiagnostica, della radioterapia e della medicina nucleare) ed il diploma di specializzazione in radiologia diagnostica (che abilita all'esercizio professionale specialistico della roentgendiagnostica).  
+Essa ha sede presso l'istituto di radiologia.  
+Il numero complessivo degli iscritti ai due corsi della scuola non puo' essere superiore ai ventiquattro.  
+L'ammissione alla scuola avverra' in seguito a concorso per esami su nozioni generali di radiologia e di cultura medica.  
+Non sono concesse, per alcun motivo, abbreviazioni di corso.  
+Gli iscritti alla scuola hanno l'obbligo dell'internato presso l'istituto di radiologia.  
+Gli insegnamenti impartiti nella scuola sono i seguenti:  
+  
+A. - Diploma di specializzazione in radiologia  
+(durata quattro anni)  
+  
+1° Anno:  
+1) Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;  
+2) Nozioni sugli apparecchi ed istrumenti della radiologia;  
+3) Anatomia radiologica normale;  
+4) Fisiologia radiologica;  
+5) Tecnica radiologica generale;  
+6) Semeiotica radiologica generale;  
+7) Fondamenti di radiobiologia;  
+8) Nozioni di statistica e matematica.  
+2° Anno:  
+1) Tecnica e metodica dell'esame radiologico dei vari organi, apparati e sistemi;  
+2) Semeiotica radiologica speciale e diagnosi differenziale;  
+3) Fondamenti di radioterapia;  
+4) Danni di radiazioni e mezzi di protezione;  
+5) Dimostrazioni cliniche di diagnostica radiologica;  
+6) Dimostrazioni cliniche di radioterapia.  
+3° Anno:  
+1) Diagnostica radiologica differenziale;  
+2) Dimostrazioni di casistica di roentgendiagnostica con confronto del quadro anatomo-patologico;  
+3) Dimostrazioni di casistica di roentgenterapia con particolare riferimento all'anatomia patologica;  
+4) Radioterapia tradizionale. Curieterapia;  
+5) Radioterapia con alte energie;  
+6) Elementi di medicina nucleare;  
+7) Instrumentario, tecnica e metodica di applicazione;  
+8) Dosimetria.  
+4° Anno:  
+1) Moderne tecniche di esplorazione e terapia radiologica;  
+2) Diagnostica e terapia con isotopi radioattivi somministrati per via interna;  
+3) Radiodiagnostica e radioterapia clinica (casistica);  
+4) Medicina legale e legislazione sanitaria in relazione alla radiologia.  
+  
+B. - Diploma di specializzazione in radiologia diagnostica  
+(durata tre anni)  
+  
+1° Anno:  
+1) Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;  
+2) Nozioni sugli apparecchi ed istrumenti della radiologia;  
+3) Anatomia radiologica normale;  
+4) Fisiologia radiologica;  
+5) Tecnica radiologica generale;  
+6) Semeiotica radiologica generale;  
+7) Fondamenti di radiobiologia;  
+8) Nozioni di statistica e matematica.  
+2° Anno:  
+1) Metodica di esplorazione dei vari organi e apparati;  
+2) Semeiotica radiologica speciale e diagnosi differenziale;  
+3) Nozioni generali sulle lesioni da radiazioni e mezzi di protezione;  
+4) Moderne tecniche di esplorazione radiologica.  
+3° Anno:  
+1) Esplorazione radiologica nella patologia dei vari organi ed apparati. Diagnostica differenziale. Rapporti con l'anatomia patologica;  
+2) Radiodiagnostica clinica;  
+3) Medicina legale e legislazione sanitaria in relazione alla radiologia.  
+I corsi di cui ai precedenti paragrafi A e B saranno integrati da conferenze, esercitazioni e seminari.  
+  
+Scuola di specializzazione in puericultura  
+  
+Art. 200. - La scuola di specializzazione in puericultura e' annessa all'istituto di clinica pediatrica. Essa ha la durata di tre anni e si propone di conferire la preparazione teorico-pratica in biologia infantile e pediatria preventiva a laureati in medicina e chirurgia.  
+Il numero complessivo degli iscritti alla scuola non puo' essere superiore a nove.  
+Non sono ammesse per alcun motivo abbreviazioni di corso.  
+Le materie di insegnamento sono:  
+1° Anno:  
+1) Peculiarita' anatomo-fisiologiche dell'eta' evolutiva;  
+2) Elementi di genetica medica e di eugenetica;  
+3) Elementi di puericultura perinatale;  
+4) Auxologia;  
+5) Alimentazione e dietetica dell'eta' infantile;  
+6) Elementi di semeiotica infantile.  
+2° Anno:  
+1) Psicologia ed igiene mentale nell'eta' evolutiva;  
+2) Igiene ed assistenza dell'eta' evolutiva;  
+3) Profilassi delle malattie infettive nell'infanzia;  
+4) Elementi di medicina scolastica;  
+5) Legislazione ed assistenza sociale all'infanzia.  
+3° Anno:  
+Tirocinio pratico presso l'istituto ove la scuola ha sede.  
+Durante l'anno saranno svolte esercitazioni pratiche e conferenze su argomenti di puericultura.  
+Gli iscritti hanno l'obbligo di internato con le modalita' e l'orario che saranno stabiliti dal direttore della scuola.  
+Alla fine di ognuno dei primi due anni, gli iscritti dovranno sostenere l'esame sulle materie di insegnamento.  
+Al termine del terzo anno essi sosterranno un esame pratico unitamente all'esame di diploma.  
+Dopo l'art. 227 e' aggiunto l'art. 228 relativo alla istituzione, presso la facolta' di medicina e chirurgia, della scuola di specializzazione in malattie dell'apparato cardiovascolare.  
+  
+Scuola di specializzazione in malattie dell'apparato cardiovascolare   
+Art. 228. - L'ammissione alla scuola avverra' in seguito a concorso per esami. Il numero complessivo degli iscritti alla scuola non puo' essere superiore a dodici.  
+Per il conseguimento del diploma di specialista in malattie dell'apparato cardio-vascolare si richiedono tre anni di corso con internato. Tale internato si svolgera' presso l'istituto di clinica medica ed avra' la durata di almeno dieci mesi all'anno per ogni singolo anno di corso.  
+Non saranno consentite abbreviazioni di corso.  
+Gli insegnamenti impartiti nella scuola sono i seguenti:  
+1° Anno:  
+1) Anatomia normale dell'apparato cardio-vascolare;  
+2) Fisiologia dell'apparato cardio-vascolare e respiratorio;  
+3) Fisiopatologia cardio-vascolare e respiratoria (1° corso);  
+4) Patologia cardio-vascolare (1° corso);  
+5) Semeiologia fisica (1° corso);  
+6) Semeiologia strumentale (1° corso).  
+2° Anno:  
+1) Fisiopatologia cardio-vascolare e respiratoria (2° corso);  
+2) Patologia cardio-vascolare (2° corso);  
+3) Semeiologia fisica (2° corso);  
+4) Semeiologia strumentale (2° corso);  
+5) Anatomia patologica dell'apparato cardio-vascolare (1° corso);  
+6) Radiologia;  
+7) Farmacologia;  
+8) Clinica e terapia (1° corso).  
+3° Anno:  
+1) Anatomia patologica dell'apparato cardio-vascolare (2° corso);  
+2) Clinica e terapia (2° corso);  
+3) Chirurgia dell'apparato cardio-vascolare;  
+4) Problemi assicurativi e sociali.  
+L'esame di diploma di specializzazione consiste nella discussione di una dissertazione scritta su argomento precedentemente concordato con il direttore della scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1972
+### Dato a Roma, addi' 30 ottobre 1969
 
-LEONE SCALFARO
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 21 marzo 1973
+Registrato alla Corte dei conti, addi' 22 luglio 1970
+
+Atti del Governo, registro n. 236, foglio n. 175. - IZZI

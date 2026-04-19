@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 874
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1986 n. 791
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 874
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1986 n. 791
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Napoli.
@@ -10,9 +10,9 @@ Modificazione allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 14 ottobre 1926, n. 2090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2090), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -28,7 +28,7 @@ Vedute le proposte di modifica dello statuto formulate dalle autorita' accademic
 
 Veduto il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 --------
@@ -39,28 +39,22 @@ Articolo unico
 --------------
 
   
-Nell'art. 129, relativo al corso di laurea in medicina e chirurgia della prima facolta' di medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti:  
-chirurgia neonatale;  
-traumatologia;  
-patologia embriofetale;  
-terapia pediatrica sistematica;  
-patologia dell'eta' prenatale e perinatale;  
-analisi biochimico-cliniche;  
-igiene industriale;  
-fisiologia ed igiene del lavoro industriale;  
-ematologia pediatrica;  
-anestesia sperimentale.  
+Nell'art. 232, relativo all'elenco degli insegnamenti di cui all'art. 220, quarto comma (materie a scelta dello studente), sono aggiunti i seguenti nuovi insegnamenti:  
+teoria dell'affidabilita';  
+economia ed organizzazione aziendale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 giugno 1983
+### Dato a Roma, addi' 4 giugno 1986
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 26 gennaio 1984
+Registrato alla Corte dei conti, addi' 17 novembre 1986
 
-Registro n. 3 Istruzione, foglio n. 257
+Registro n. 84 Istruzione, foglio n. 93

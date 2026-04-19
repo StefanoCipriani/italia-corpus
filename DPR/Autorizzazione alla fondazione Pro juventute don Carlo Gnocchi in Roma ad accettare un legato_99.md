@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 dicembre 1983 n. 951
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 agosto 1982 n. 780
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 dicembre 1983 n. 951
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 agosto 1982 n. 780
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-951. Decreto del Presidente della Repubblica 19 dicembre 1983, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in buoni del Tesoro per un valore complessivo di L. 300.000.000, disposto dalla sig.na Marazzi Castiglioni Brambilla Giovanna con testamento olografo 10 novembre 1977, pubblicato in data 22 aprile 1981, n. 474653/2970 di repertorio, a rogito dott. Giovanni Lainati, notaio in Milano, registrato a Milano in data 8 maggio 1981 al n. 9936.  
+780. Decreto del Presidente della Repubblica 2 agosto 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in obbligazioni I.R.I. 5,50% 1963-83 per nominali L. 1.000.000, disposto dalla sig.ra Righettini Maria Giovanna ved. Lucchette a favore della fondazione "Pro juventute", in Milano, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale del consiglio di amministrazione della fondazione suddetta in data 28 novembre 1980, con testamento olografo 14 aprile 1976, pubblicato il 7 ottobre 1980, n. 11219 di repertorio e n. 1975 di raccolta, a rogito dott. Giuseppe Pedone, notaio in Milano, registrato a Milano il 13 ottobre 1980 al n. 20523/ M.   
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 15 febbraio 1984  
-Registro n. 2 Presidenza, foglio n. 131
+Visto, il Guardasigilli: DARIDA   
+Registrato alla Corte dei conti, addi' 21 ottobre 1982   
+Registro n. 9 Presidenza, foglio n. 251

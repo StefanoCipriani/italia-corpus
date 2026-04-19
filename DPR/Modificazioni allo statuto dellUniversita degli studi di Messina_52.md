@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1973 n. 1162
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 gennaio 1982 n. 102
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1973 n. 1162
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 gennaio 1982 n. 102
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Messina.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e modificato con [regio decreto 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923) e modificato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,304 +18,78 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduto il [decreto-legge 26 novembre 1981, n. 677](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-11-26;677);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Vedute le proposte di modifica dello statuto formulate dalla autorita' accademiche dell'Universita' anzidetta;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Decreta:
+Sentito il parere del Consiglio universitario nazionale;
 
-Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Gli articoli 102, 103, 104, 105, 106, 107, relativi alla scuola di specializzazione in "Igiene generale e speciale" che muta la denominazione in quella di scuola di specializzazione in "Igiene e medicina preventiva", sono abrogati e sostituiti dai seguenti:
+Sulla
+-----
 
-Scuola di specializzazione in igiene e medicina preventiva
+proposta del Ministro della pubblica istruzione; Decreta:
 
-Art. 102. - La scuola ha sede presso l'istituto di igiene ed e' retta secondo le norme del regolamento generale per le scuole di specializzazione dell'Universita' di Messina.
+Articolo unico
+--------------
 
-La scuola ha la durata di tre anni e consta di un biennio propedeutico completato da un terzo anno con differente orientamento e precisamente:
-
-a) orientamento di sanita' pubblica;
-
-b) orientamento di laboratorio;
-
-c) orientamento di igiene e tecnica ospedaliera;
-
-d) orientamento di igiene e medicina scolastica.
-
-Art. 103. - L'ammissione all'orientamento in sanita' pubblica, in igiene, tecnica e direzione ospedaliera ed in igiene e medicina scolastica e' limitata ai laureati in medicina e chirurgia, i laureati in scienze biologiche e in farmacia.
-
-Poiche' il numero degli iscritti al terzo anno di ciascuno dei quattro orientamenti e' chiuso, lo specializzando, all'atto della iscrizione al biennio propedeutico, deve specificare l'orientamento che intende seguire.
-
-Il numero massimo degli iscritti per ogni orientamento e' di trentasei (12 per anno per un totale complessivo per i quattro orientamenti di centoquarantaquattro iscritti).
-
-Art. 104. - Nessuna specializzazione anche in materia affine, consente la decurtazione di un anno, ad eccezione della specializzazione in pediatria ed in puericultura per l'orientamento di igiene e medicina scolastica.
-
-A seguito del parere della facolta' potra' essere concesso un anno di decurtazione al biennio propedeutico al personale di ruolo degli istituti universitari di igiene e di microbiologia e degli istituti di clinica pediatrica e di puericultura (quest'ultimi per l'orientamento di igiene e medicina provinciale ed ospedaliera della direzione sanitaria degli ospedali).
-
-Lo specialista in possesso di un diploma di specializzazione in igiene e medicina preventiva con uno dei quattro orientamenti puo' accedere ad altro orientamento specialistico con la convalida del biennio propedeutico.
-
-Art. 105. - Le materie di insegnamento sono:
-
-Biennio propedeutico
-
-1° Anno:
-
-Metodologia statistica e biometria;
-
-Educazione sanitaria;
-
-Psicologia;
-
-Microbiologia;
-
-Parassitologia;
-
-Epidemiologia e profilassi generale.
-
-2° Anno:
-
-Patologia e clinica delle malattie infettive;
-
-Epidemiologia e profilassi delle malattie infettive;
-
-Patologia e clinica delle malattie non infettive di importanza sociale;
-
-Demografia e statistica sanitaria;
-
-Legislazione e organizzazione sanitaria;
-
-Terzo anno con orientamento specialistico
-
-3° Anno (con orientamento di sanita' pubblica):
-
-Approvvigionamento idrico, raccolta e smaltimento dei rifiuti liquidi e solidi, inquinamenti atmosferici;
-
-Igiene edilizia e urbanistica;
-
-Igiene dell'alimentazione;
-
-Igiene e medicina scolastica;
-
-Igiene ospedaliera;
-
-Servizi di sanita' pubblica.
-
-3° Anno (con orientamento di laboratorio):
-
-Microscopia applicata all'igiene;
-
-Microbiologia applicata all'igiene;
-
-Chimica clinica;
-
-Accertamento diagnostico delle malattie batteriche e parassitarie;
-
-Accertamento diagnostico delle malattie virali;
-
-Nozioni di anatomia e istologia patologica.
-
-3° Anno (con orientamento di igiene e tecnica ospedaliera):
-
-Storia degli ospedali e principi metodologici dell'assistenza ospedaliera;
-
-Igiene e tecnica delle costruzioni ospedaliere, arredamento ed impianti ospedalieri;
-
-Organizzazione e funzione degli ospedali generali e speciali;
-
-Diritto amministrativo e legislazione ospedaliera;
-
-Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospedaliera);
-
-Selezione e istruzione professionale del personale ospedaliero; organizzazione e funzioni dei laboratori di analisi e di accertamento necroscopico.
-
-3° Anno (con orientamento di igiene e medicina scolastica):
-
-Epidemiologia e profilassi delle malattie dell'eta' scolare;
-
-Servizi di medicina scolastica ed assistenza parascolastica;
-
-Pedagogia e ortofrenia;
-
-Auxologia normale e patologica;
-
-Igiene dell'alimentazione;
-
-Edilizia scolastica.
-
-Art. 106. - Alle materie di cui all'art. 105 va aggiunta ai fini del conseguimento della specializzazione una materia complementare per ogni anno di corso da scegliere tra le seguenti:
-
-Geologia applicata all'igiene;
-
-Fisica applicata all'igiene;
-
-Malattie professionali e loro prevenzioni;
-
-Fondamenti chimico-fisici delle tecniche di laboratorio;
-
-Gerontologia e geriatria;
-
-Igiene mentale;
-
-Igiene navale e dell'emigrazione;
-
-Il controllo dello stato di salute dello scolaro;
-
-Igiene della persona e del vestiario.
-
-I corsi saranno inoltre completati da esercitazioni tirocini pratici e da conferenze.
-
-Art. 107. - Per ottenere l'ammissione ad ogni anno di corso gli specializzandi dovranno aver superato gli esami delle materie annuali dell'anno precedente. Gli esami di diploma consistono nella discussione di una dissertazione scritta come previsto dal regolamento generale.
-
-Norme transitorie
-
-Gli iscritti al primo anno, al secondo anno ed i fuori corso delle scuole di specializzazione in igiene generale e speciale, in igiene tecnica e direzione ospedaliera ed in igiene e medicina scolastica nell'anno accademico 1972-73 seguiranno il vecchio ordinamento di studi che prevedeva, per ognuna delle tre specializzazioni, due anni di corso.
-
-E' fatto pero' obbligo di conseguire la specializzazione entro l'anno accademico 1974 (sessione di novembre).
-
-Coloro che non si adegueranno a tali norme transitorie dovranno seguire il nuovo ordinamento di studi e potranno iscriversi nell'anno accademico 1974-75 al secondo anno del biennio propedeutico con la convalida delle materie eventualmente superate.
-
-Essi verranno considerati in soprannumero rispetto al numero dei posti previsti, per ogni anno di corso, dall'art. 103 dello statuto della scuola.
-
-Gli articoli 123 e 128, relativi alla scuola di specializzazione in "Igiene, tecnica e direzione ospedaliera", gli articoli da 129 a 135, relativi alla scuola di specializzazione in "Igiene e medicina scolastica", sono soppressi con il conseguente spostamento della numerazione degli articoli successivi.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Lussemburgo, ambasciata d'Italia, addi' 27 ottobre 1973
-
-LEONE
-
-MALFATTI
-
-Visto, il Guardasigilli: ZAGARI
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 28 ottobre 1974 Atti di Governo, registro n. 6, foglio n. 54. - SCIARRETTA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e modificato con [regio decreto 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i criteri sopraindicati, e' ulteriormente modificato come appresso:  
   
-Decreta:   
+Dopo l'art. 101, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in pedagogia speciale per i disadattati psichici annessa alla facolta' di magistero.  
   
-Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Gli articoli 102, 103, 104, 105, 106, 107, relativi alla scuola di specializzazione in "Igiene generale e speciale" che muta la denominazione in quella di scuola di specializzazione in "Igiene e medicina preventiva", sono abrogati e sostituiti dai seguenti:   
+SCUOLE DI SPECIALIZZAZIONE ANNESSE ALLA FACOLTA' DI MAGISTERO  
   
-Scuola di specializzazione in igiene e medicina preventiva   
+Scuola di specializzazione in pedagogia speciale per i disadattati psichici  
+Art. 102. - E' istituita presso la facolta' di magistero una "scuola di specializzazione in pedagogia speciale per i disadattati psichici" della durata di due anni. Essa rilascia un diploma di operatore specializzato nel trattamento pedagogico dei disadattati di origine psichica.  
+Art. 103. - Possono iscriversi alla scuola i laureati in pedagogia, filosofia, psicologia e medicina e chirurgia in numero di trenta per ogni anno di corso, previo un esame di ammissione consistente in una prova scritta di cultura generale pedagogica e psicologica.  
+Art. 104. - Possono essere iscritti, senza esame, direttamente al 2° anno coloro che siano in possesso del diploma di specializzazione in neuropsichiatria infantile.  
+Art. 105. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima. Gli si affianca un comitato direttivo di sei membri, di cui quattro designati dalla facolta' di magistero e due dalla facolta' di medicina e chirurgia, che siano possibilmente docenti della scuola.  
+Questo comitato propone annualmente al consiglio della facolta' di magistero i docenti cui conferire gli insegnamenti.  
+Art. 106. - Al direttore e al comitato direttivo spetta la vigilanza sul funzionamento della scuola, sulla frequenza e sulla disciplina degli specializzandi. Amministrativamente la scuola ha regolamentazione analoga a quella di tutte le scuole di specializzazione dell'Universita' di Messina.  
+Art. 107. - Gli insegnamenti fondamentali impartiti nella scuola sono:  
+1° Anno:  
+psicologia generale;  
+elementi di anatomia e fisiologia umana;  
+auxologia normale e patologica;  
+igiene;  
+psicologia dell'eta' evolutiva;  
+psicopedagogia;  
+pedagogia speciale I;  
+pedagogia generale.  
+2° Anno:  
+psicopatologia infantile;  
+igiene mentale;  
+pedagogia speciale II con esercitazioni;  
+psicometria;  
+caratterologia;  
+storia della pedagogia speciale;  
+sociologia dell'educazione.  
+Lo specializzando, per essere ammesso all'esame di diploma, deve inoltre aver seguito i corsi di conferenze che saranno svolti presso la scuola sulle seguenti discipline:  
+legislazione minorile;  
+psicolinguistica;  
+puericultura;  
+antropologia culturale.  
+I diplomati in neuropsichiatria iscritti al 2° anno sosterranno: igiene, pedagogia speciale I e II, psicometria, caratterologia, storia della pedagogia speciale, sociologia dell'educazione, pedagogia generale.  
+Art. 108. - L'esame di diploma consiste nella discussione di una dissertazione scritta dinanzi ad una commissione costituita di docenti della scuola in numero non inferiore a sette.  
+Art. 109. - Gli iscritti sono tenuti a pagare le seguenti tasse e sopratasse:  
   
-Art. 102. - La scuola ha sede presso l'istituto di igiene ed e' retta secondo le norme del regolamento generale per le scuole di specializzazione dell'Universita' di Messina.   
-La scuola ha la durata di tre anni e consta di un biennio propedeutico completato da un terzo anno con differente orientamento e precisamente:   
-a) orientamento di sanita' pubblica;   
-b) orientamento di laboratorio;   
-c) orientamento di igiene e tecnica ospedaliera;   
-d) orientamento di igiene e medicina scolastica.   
-  
-Art. 103. - L'ammissione all'orientamento in sanita' pubblica, in igiene, tecnica e direzione ospedaliera ed in igiene e medicina scolastica e' limitata ai laureati in medicina e chirurgia, i laureati in scienze biologiche e in farmacia.   
-Poiche' il numero degli iscritti al terzo anno di ciascuno dei quattro orientamenti e' chiuso, lo specializzando, all'atto della iscrizione al biennio propedeutico, deve specificare l'orientamento che intende seguire.   
-Il numero massimo degli iscritti per ogni orientamento e' di trentasei (12 per anno per un totale complessivo per i quattro orientamenti di centoquarantaquattro iscritti).   
-Art. 104. - Nessuna specializzazione anche in materia affine, consente la decurtazione di un anno, ad eccezione della specializzazione in pediatria ed in puericultura per l'orientamento di igiene e medicina scolastica.   
-A seguito del parere della facolta' potra' essere concesso un anno di decurtazione al biennio propedeutico al personale di ruolo degli istituti universitari di igiene e di microbiologia e degli istituti di clinica pediatrica e di puericultura (quest'ultimi per l'orientamento di igiene e medicina provinciale ed ospedaliera della direzione sanitaria degli ospedali).   
-Lo specialista in possesso di un diploma di specializzazione in igiene e medicina preventiva con uno dei quattro orientamenti puo' accedere ad altro orientamento specialistico con la convalida del biennio propedeutico.   
-Art. 105. - Le materie di insegnamento sono:   
-  
-Biennio propedeutico   
-1° Anno:   
-Metodologia statistica e biometria;   
-Educazione sanitaria;   
-Psicologia;   
-Microbiologia;   
-Parassitologia;   
-Epidemiologia e profilassi generale.   
-  
-2° Anno:   
-Patologia e clinica delle malattie infettive;   
-Epidemiologia e profilassi delle malattie infettive;   
-Patologia e clinica delle malattie non infettive di importanza sociale;   
-Demografia e statistica sanitaria;   
-Legislazione e organizzazione sanitaria;   
-  
-Terzo anno con orientamento specialistico   
-  
-3° Anno (con orientamento di sanita' pubblica):   
-Approvvigionamento idrico, raccolta e smaltimento dei rifiuti liquidi e solidi, inquinamenti atmosferici;   
-Igiene edilizia e urbanistica;   
-Igiene dell'alimentazione;   
-Igiene e medicina scolastica;   
-Igiene ospedaliera;   
-Servizi di sanita' pubblica.   
-  
-3° Anno (con orientamento di laboratorio):   
-Microscopia applicata all'igiene;   
-Microbiologia applicata all'igiene;   
-Chimica clinica;   
-Accertamento diagnostico delle malattie batteriche e parassitarie;   
-Accertamento diagnostico delle malattie virali;   
-Nozioni di anatomia e istologia patologica.   
-  
-3° Anno (con orientamento di igiene e tecnica ospedaliera):   
-Storia degli ospedali e principi metodologici dell'assistenza ospedaliera;   
-Igiene e tecnica delle costruzioni ospedaliere, arredamento ed impianti ospedalieri;   
-Organizzazione e funzione degli ospedali generali e speciali;   
-Diritto amministrativo e legislazione ospedaliera;   
-Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospedaliera);   
-Selezione e istruzione professionale del personale ospedaliero; organizzazione e funzioni dei laboratori di analisi e di accertamento necroscopico.   
-  
-3° Anno (con orientamento di igiene e medicina scolastica):   
-Epidemiologia e profilassi delle malattie dell'eta' scolare;   
-Servizi di medicina scolastica ed assistenza parascolastica;   
-Pedagogia e ortofrenia;   
-Auxologia normale e patologica;   
-Igiene dell'alimentazione;   
-Edilizia scolastica.   
-  
-Art. 106. - Alle materie di cui all'art. 105 va aggiunta ai fini del conseguimento della specializzazione una materia complementare per ogni anno di corso da scegliere tra le seguenti:   
-  
-Geologia applicata all'igiene;   
-Fisica applicata all'igiene;   
-Malattie professionali e loro prevenzioni;   
-Fondamenti chimico-fisici delle tecniche di laboratorio;   
-Gerontologia e geriatria;   
-Igiene mentale;   
-Igiene navale e dell'emigrazione;   
-Il controllo dello stato di salute dello scolaro;   
-Igiene della persona e del vestiario.   
-  
-I corsi saranno inoltre completati da esercitazioni tirocini pratici e da conferenze.   
-Art. 107. - Per ottenere l'ammissione ad ogni anno di corso gli specializzandi dovranno aver superato gli esami delle materie annuali dell'anno precedente. Gli esami di diploma consistono nella discussione di una dissertazione scritta come previsto dal regolamento generale.   
-  
-Norme transitorie   
-  
-Gli iscritti al primo anno, al secondo anno ed i fuori corso delle scuole di specializzazione in igiene generale e speciale, in igiene tecnica e direzione ospedaliera ed in igiene e medicina scolastica nell'anno accademico 1972-73 seguiranno il vecchio ordinamento di studi che prevedeva, per ognuna delle tre specializzazioni, due anni di corso.   
-E' fatto pero' obbligo di conseguire la specializzazione entro l'anno accademico 1974 (sessione di novembre).   
-Coloro che non si adegueranno a tali norme transitorie dovranno seguire il nuovo ordinamento di studi e potranno iscriversi nell'anno accademico 1974-75 al secondo anno del biennio propedeutico con la convalida delle materie eventualmente superate.   
-Essi verranno considerati in soprannumero rispetto al numero dei posti previsti, per ogni anno di corso, dall'art. 103 dello statuto della scuola.   
-Gli articoli 123 e 128, relativi alla scuola di specializzazione in "Igiene, tecnica e direzione ospedaliera", gli articoli da 129 a 135, relativi alla scuola di specializzazione in "Igiene e medicina scolastica", sono soppressi con il conseguente spostamento della numerazione degli articoli successivi.   
-  
+tassa di ammissione . . . . . . . . . . . . . . . . . . . . L. 10.000 tassa di immatricolazione . . . . . . . . . . . . . . . . . L. 20.000 tasse di iscrizione (in tre rate). . . . . . . . . . . . . L. 150.000 sopratassa di esami . . . . . . . . . . . . . . . . . . . . L. 10.000 contributi vari . . . . . . . . . . . . . . . . . . . . . . L. 20.000 tassa di diploma (erariale) . . . . . . . . . . . . . . . . L. 50.000 tassa di laboratorio. . . . . . . . . . . . . . . . . . . . L. 20.000   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Lussemburgo, ambasciata d'Italia, addi' 27 ottobre 1973
+### Dato a Roma, addi' 6 gennaio 1982
 
-LEONE MALFATTI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 28 ottobre 1974
+Registrato alla Corte dei conti, addi' 10 marzo 1982
 
-Atti di Governo, registro n. 6, foglio n. 54. - SCIARRETTA
+Registro n. 38 Istruzione, foglio n. 256

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1980 n. 432
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 febbraio 1966 n. 106
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1980 n. 432
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 febbraio 1966 n. 106
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -10,91 +10,240 @@ Modificazioni allo statuto dell'Universita' degli studi di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);, Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertite nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzi detta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' degli studi di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla
------
+Sulla proposta del Ministro per la pubblica istruzione;
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Decreta:
 
-Articolo unico
---------------
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
+Art. 19. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere moderne sono aggiunti quelli di:
+
+25) Lingua e letteratura araba;
+
+26) Lingue ugro-finniche;
+
+27) Paleografia e diplomatica;
+
+28) Storia americana;
+
+29) Storia dell'Europa orientale;
+
+30) Storia della critica letteraria;
+
+31) Storia comparata delle letterature europee;
+
+32) Lingua e letteratura finlandese;
+
+33) Lingue e letterature baltiche;
+
+34) Storia contemporanea;
+
+35) Lingua e letteratura albanese;
+
+36) Letteratura ispano-americana;
+
+37) Lingua e letteratura bulgara;
+
+38) Lingua e letteratura cecoslovacca;
+
+39) Lingua e letteratura olandese e fiamminga;
+
+40) Lingua e letteratura serbo-croata;
+
+41) Lingua e letteratura slovena;
+
+42) Storia delle tradizioni popolari
+
+Art. 46. - Agli insegnamenti complementari del corso di laurea in Scienze agrarie sono aggiunti quelli di:
+
+Scienza dell'alimentazione del bestiame;
+
+Chimica analitica (semestrale);
+
+Residui e additivi alimentari (semestrale);
+
+Fisiopatologia vegetale (semestrale);
+
+Micologia (semestrale);
+
+Zoologia agraria (semestrale).
+
+Gli insegnamenti complementari di "Fitoiatria" e "Virologia vegetale" passano da annuale a semestrale.
+
+Dopo l'art. 180, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in Angiologia ed in Angiologia e chirurgia vascolare.
+
+Art. 181. - Presso la Facolta' di medicina e chirurgia e' istituita la Scuola di specializzazione in Angiologia ed in Angiologia e chirurgia vascolare.
+
+La durata dei corsi e' di due anni per il diploma in Angiologia e di tre per il diploma in Angiologia e chirurgia vascolare. Ad essa possono iscriversi soltanto i laureati in Medicina e chirurgia. Le norme generali di iscrizione, esami, pagamento tasse, ecc. sono quelle dello statuto delle scuole di specializzazione dell'Universita' di Milano.
+
+Gli insegnanti della scuola sono designati dal Consiglio di Facolta' su proposta del direttore della scuola.
+
+Art. 182. - Le materie di insegnamento sono:
+
+1° Anno:
+
+Anatomia macro e microscopica e radiologia dell'apparato vascolare;
+
+Fisiologia della circolazione periferica;
+
+Anatomia e fisiologia patologica delle alterazioni morbose dell'apparato vascolare;
+
+Fisiopatologia della coagulazione e vasculopatie;
+
+Semeiologia fisica e strumentale dell'apparato vascolare;
+
+Le angiopatie in medicina;
+
+Le angiopatie dei tegumenti.
+
+2° Anno:
+
+Arteriopatie;
+
+Flebopatie;
+
+Lesioni dei piccoli vasi e linfopatie;
+
+Terapia medica delle angiopatie;
+
+Chirurgia vascolare.
+
+3° Anno:
+
+Pratica clinica;
+
+Attivita' sperimentale e operatoria nel campo vascolare; 3 Lezioni e conferenze.
+
+L'insegnamento sara' dottrinario e pratico. Gli iscritti hanno l'obbligo di frequenza sia alle lezioni che al tirocinio pratico.
+
+Gli iscritti al 3° corso hanno obbligo di un internato giornaliero effettivo per un anno.
+
+Art. 183. - Il numero massimo di laureati che possono iscriversi al 10 anno della Scuola e' di 25. Sono ammessi agli anni successivi gli allievi che hanno superato tutti gli esami dell'anno del corso frequentato.
+
+Art. 184. - Alla fine del primo biennio gli specializzandi che hanno frequentato i corsi e superato gli esami possono essere ammessi ad un esame di diploma Angiologia consistente nella discussione di una tesi scritta di argomento di Angiologia.
+
+Il diploma conseguito e' di specializzazione in Angiologia.
+
+Art. 185. - Alla fine del triennio gli specializzandi che hanno compiuto il loro internato dovranno superare una prova orale teorica ed una prova pratica, prima di essere ammessi all'esame di diploma.
+
+L'esame di diploma consistera' nella discussione di una tesi scritta su argomenti di Angiologia e chirurgia vascolare.
+
+Il diploma conseguito e' di specializzazione in Angiologia e chirurgia vascolare.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 14 febbraio 1966
+
+SARAGAT
+
+GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 15 marzo 1966 Atti del Governo, registro n. 202, foglio n. 45. - VILLA
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);, Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzi detta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Nello statuto dell'Universita' degli studi di Milano, dopo l'art. 278, sono inseriti, con il conseguente spostamento della numerazione degli articoli successivi, i nuovi articoli relativi alla istituzione della scuola di specializzazione in scienza e tecnologia cosmetiche presso la facolta' di farmacia.   
+Decreta:  
   
-Scuola di specializzazione   
-in scienza e tecnologia cosmetiche   
-  
-Art. 279. - E' istituita presso la facolta' di farmacia una scuola di specializzazione in scienza e tecnologia cosmetiche con lo scopo di fornire agli allievi una preparazione completa teorica e sperimentale nella scienza e nella tecnologia dei cosmetici.   
-Art. 280. - La scuola rilascia un diploma di specializzazione in scienza e tecnologia cosmetiche.   
-La durata del corso di studi per il conseguimento del diploma e' di due anni.   
-Art. 281. - Alla scuola possono essere iscritti venti allievi per anno. L'ammissione alla scuola e' decisa dal consiglio direttivo sulla base di un concorso per esami e titoli.   
-Possono iscriversi i laureati in farmacia, chimica e tecnologia farmaceutiche, chimica, chimica industriale e scienze biologiche.   
-Gli aspiranti debbono, nei termini regolamentari, presentare apposita domanda su carta legale diretta al rettore e corredata dai prescritti documenti e della quietanza del pagamento di tasse, soprattasse e contributi relativi.   
-Gli iscritti sono obbligati alla frequenza ai corsi di lezioni ed esercitazioni.   
-La frequenza viene comprovata dalla attestazione rilasciata dagli insegnanti sul libretto di iscrizione.   
-Gli iscritti alla scuola debbono sostenere gli esami annuali di profitto per essere ammessi all'anno successivo.   
-L'esame di diploma, al quale i candidati potranno essere ammessi dopo aver superato tutti gli esami di profitto, consiste in una discussione di una dissertazione scritta svolta dal candidato su un argomento tecnico-scientifico assegnato allo specializzando dal direttore della scuola.   
-Le commissioni per gli esami di profitto e di diploma sono nominate dal preside della facolta' di farmacia su proposta del direttore della scuola e sono composte di norma, rispettivamente di tre e sette membri.   
-Art. 282. - Le materie di insegnamento della Scuola sono le seguenti:   
-1° Anno:   
-1) anatomia, istologia, istochimica della cute e annessi;   
-2) fisiologia e biofisica della cute e annessi;   
-3) biochimica della cute e annessi;   
-4) farmacologia e tossicologia cosmetica;   
-5) principi chimico-fisici della cosmetologia;   
-6) chimica dei prodotti cosmetici I;   
-7) tecnologia e formulazione cosmetica I;   
-8) controllo chimico di qualita' I.   
-2° Anno:   
-1) microbiologia applicata ed igiene della produzione;   
-2) impianti, macchinario e organizzazione della produzione;   
-3) controllo biologico e microbiologico di qualita';   
-4) chimica dei prodotti cosmetici II;   
-5) tecnologia e formulazione cosmetica II;   
-6) controllo chimico di qualita' II;   
-7) legislazione cosmetica e documentazione;   
-8) informazione ed educazione cosmetologica.   
-Ad ogni corso corrispondera' un adeguato numero di lezioni teoriche ed esercitazioni pratiche, che potranno essere svolte da piu' docenti in relazione alla particolare necessita' di ciascun corso.   
-Oltre alle predette materie possono essere tenuti seminari e conferenze di aggiornamento inerenti all'oggetto della scuola di specializzazione.   
-Art. 283. - La scuola e' organizzata dalla facolta' di farmacia dell'Universita' di Milano. Potranno essere invitati a tenere lezioni, conferenze, seminari ed esercitazioni docenti di altre facolta' o Universita', od esperti, anche dall'estero.   
-La direzione della scuola e' affidata ad un professore ordinario di ruolo o fuori ruolo eletto dal consiglio direttivo costituito da cinque docenti nominati dal consiglio di facolta', per la durata di tre anni, scelti fra i docenti di discipline chimico-farmaceutiche (uno);   
-farmaco-biologiche (uno) e tecnologiche (tre).   
-Il direttore della scuola e' nominato dal rettore.   
-Il direttore e i membri del consiglio sono rieleggibili.   
-In casi di decadenza, il nuovo membro resta in carica fino alla scadenza del mandato triennale.   
-Art. 284. - Gli incarichi di insegnamento, anche per un numero limitato di lezioni o esercitazioni, sono conferiti dal rettore su proposta del consiglio direttivo della scuola con l'approvazione del senato accademico e del consiglio amministrativo dell'Universita'.   
-Art. 285. - Le tasse e soprattasse per l'iscrizione alla scuola sono quelle stabilite per la facolta' di farmacia.   
-I contributi a carico degli iscritti saranno fissati annualmente dal consiglio di amministrazione, su proposta del senato accademico, udito il consiglio della facolta' e della scuola e resi noti con apposito manifesto.   
-Art. 286. - Le date di inizio e termine delle lezioni sono fissate dalla facolta' udito il consiglio della scuola, in dipendenza da ragioni speciali inerenti alla natura dei corsi e delle esercitazioni.   
-Art. 287. - Al funzionamento della scuola si provvedera' con il provento delle tasse, soprattasse e contributi da parte degli iscritti. La scuola peraltro potra' avvalersi anche di contributi, lasciti o donazioni provenienti da enti, industrie e privati.   
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 19. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere moderne sono aggiunti quelli di:  
+25) Lingua e letteratura araba;  
+26) Lingue ugro-finniche;  
+27) Paleografia e diplomatica;  
+28) Storia americana;  
+29) Storia dell'Europa orientale;  
+30) Storia della critica letteraria;  
+31) Storia comparata delle letterature europee;  
+32) Lingua e letteratura finlandese;  
+33) Lingue e letterature baltiche;  
+34) Storia contemporanea;  
+35) Lingua e letteratura albanese;  
+36) Letteratura ispano-americana;  
+37) Lingua e letteratura bulgara;  
+38) Lingua e letteratura cecoslovacca;  
+39) Lingua e letteratura olandese e fiamminga;  
+40) Lingua e letteratura serbo-croata;  
+41) Lingua e letteratura slovena;  
+42) Storia delle tradizioni popolari  
+Art. 46. - Agli insegnamenti complementari del corso di laurea in Scienze agrarie sono aggiunti quelli di:  
+Scienza dell'alimentazione del bestiame;  
+Chimica analitica (semestrale);  
+Residui e additivi alimentari (semestrale);  
+Fisiopatologia vegetale (semestrale);  
+Micologia (semestrale);  
+Zoologia agraria (semestrale).  
+Gli insegnamenti complementari di "Fitoiatria" e "Virologia vegetale" passano da annuale a semestrale.  
+Dopo l'art. 180, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in Angiologia ed in Angiologia e chirurgia vascolare.  
+Art. 181. - Presso la Facolta' di medicina e chirurgia e' istituita la Scuola di specializzazione in Angiologia ed in Angiologia e chirurgia vascolare.  
+La durata dei corsi e' di due anni per il diploma in Angiologia e di tre per il diploma in Angiologia e chirurgia vascolare. Ad essa possono iscriversi soltanto i laureati in Medicina e chirurgia. Le norme generali di iscrizione, esami, pagamento tasse, ecc. sono quelle dello statuto delle scuole di specializzazione dell'Universita' di Milano.  
+Gli insegnanti della scuola sono designati dal Consiglio di Facolta' su proposta del direttore della scuola.  
+Art. 182. - Le materie di insegnamento sono:  
+1° Anno:  
+Anatomia macro e microscopica e radiologia dell'apparato vascolare;  
+Fisiologia della circolazione periferica;  
+Anatomia e fisiologia patologica delle alterazioni morbose dell'apparato vascolare;  
+Fisiopatologia della coagulazione e vasculopatie;  
+Semeiologia fisica e strumentale dell'apparato vascolare;  
+Le angiopatie in medicina;  
+Le angiopatie dei tegumenti.  
+2° Anno:  
+Arteriopatie;  
+Flebopatie;  
+Lesioni dei piccoli vasi e linfopatie;  
+Terapia medica delle angiopatie;  
+Chirurgia vascolare.  
+3° Anno:  
+Pratica clinica;  
+Attivita' sperimentale e operatoria nel campo vascolare; 3 Lezioni e conferenze.  
+L'insegnamento sara' dottrinario e pratico. Gli iscritti hanno l'obbligo di frequenza sia alle lezioni che al tirocinio pratico.  
+Gli iscritti al 3° corso hanno obbligo di un internato giornaliero effettivo per un anno.  
+Art. 183. - Il numero massimo di laureati che possono iscriversi al 10 anno della Scuola e' di 25. Sono ammessi agli anni successivi gli allievi che hanno superato tutti gli esami dell'anno del corso frequentato.  
+Art. 184. - Alla fine del primo biennio gli specializzandi che hanno frequentato i corsi e superato gli esami possono essere ammessi ad un esame di diploma Angiologia consistente nella discussione di una tesi scritta di argomento di Angiologia.  
+Il diploma conseguito e' di specializzazione in Angiologia.  
+Art. 185. - Alla fine del triennio gli specializzandi che hanno compiuto il loro internato dovranno superare una prova orale teorica ed una prova pratica, prima di essere ammessi all'esame di diploma.  
+L'esame di diploma consistera' nella discussione di una tesi scritta su argomenti di Angiologia e chirurgia vascolare.  
+Il diploma conseguito e' di specializzazione in Angiologia e chirurgia vascolare.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 marzo 1980
+### Dato a Roma, addi' 14 febbraio 1966
 
-PERTINI VALITUTTI
+SARAGAT GUI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 31 luglio 1980
+Registrato alla Corte dei conti, addi' 15 marzo 1966
 
-Registro n. 75 Istruzione, foglio n. 110
+Atti del Governo, registro n. 202, foglio n. 45. - VILLA

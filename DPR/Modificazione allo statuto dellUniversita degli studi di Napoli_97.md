@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 aprile 1978 n. 591
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 luglio 1975 n. 542
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 aprile 1978 n. 591
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 luglio 1975 n. 542
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Napoli.
@@ -12,29 +12,31 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto 11 [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'universita' di Napoli e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Veduto il [decreto del Presidente della Repubblica 31 ottobre 1973, n. 1171](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-10-31;1171), con il quale e' stata istituita presso la seconda facolta' di medicina e chirurgia dell'Universita' di Napoli la scuola di specializzazione in tossicologia medica;  
+Viste le deliberazioni con le quali le autorita' accademiche dell'Universita' di Napoli hanno fatto presente una omissione nel suddetto decreto;  
+Riconosciuta la necessita' di integrare il citato [decreto del Presidente della Repubblica 31 ottobre 1973, n. 1171](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-10-31;1171), in quanto e' stata omessa la norma relativa alla sede ed alla direzione della scuola di specializzazione in tossicologia medica;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso: la scuola di specializzazione in terapia fisica e riabilitazione della II facolta' di medicina e chirurgia, di cui agli articoli 634, 635, 636, 637 e 638 muta la denominazione di quella di scuola di specializzazione in fisioterapia.  
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Il [primo comma dell'art. 505 del decreto del Presidente della Repubblica 31 ottobre 1973, n. 1171](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-10-31;1171~art505-com1), citato nelle premesse, e' abrogato e sostituito dal seguente:  
+"Alla seconda facolta' di medicina e chirurgia dell'Universita' di Napoli e' annessa la scuola di specializzazione in tossicologia medica con sede presso la cattedra di farmacologia ed e' diretta dal titolare della cattedra medesima".  
   
 
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 aprile 1978
+### Dato a Roma, addi' 9 luglio 1975
 
-LEONE PEDINI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 23 settembre 1978
+Registrato alla Corte dei conti, addi' 14 novembre 1975
 
-Registro n. 104 Istruzione, foglio n. 282
+Atti di Governo, registro n. 13, foglio n. 62

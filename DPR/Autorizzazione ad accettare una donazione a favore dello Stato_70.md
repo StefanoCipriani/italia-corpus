@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1978 n. 989
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 maggio 1982 n. 868
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1978 n. 989
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 maggio 1982 n. 868
+=============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-989. Decreto del Presidente della Repubblica 5 dicembre 1978, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione della donazione a favore dello Stato e, per esso, della biblioteca statale di Lucca, disposta dal prof. Gaetano Campetti con atto di donazione pubblicato in data 1 febbraio 1978, n. 939/416 di repertorio a rogito dott. Massimo Barsanti, notaio in Lucca, consistente nel registro manoscritto "Cronaca Buonfigli" di complessive carte 256.  
+868. Decreto del Presidente della Repubblica 14 maggio 1982, col quale, sulla proposta del Ministro delle finanze, viene autorizzata l'accettazione della donazione a favore dello Stato di un appezzamento di terreno della superficie catastale di mq 2206, su cui e' stata realizzata la nuova caserma dei vigili del fuoco, disposta dall'ente E.U.R., in Roma, con atto 9 novembre 1972, n. 34442 di repertorio, a rogito dott. Renato Armati, notaio in Roma.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 7 febbraio 1979  
-Registro n. 1 Beni culturali, foglio n. 232
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 24 settembre 1982  
+Registro n. 41 Finanze, foglio n. 293

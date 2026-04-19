@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1985 n. 201
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1980 n. 904
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1985 n. 201
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1980 n. 904
+==============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
 -----------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-201. Decreto del Presidente della Repubblica 18 marzo 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in un appartamento sito in Milano, viale Lombardia n. 30, distinto nel nuovo catasto edilizio urbano alla partita 108292, foglio 274, particella 282, sub 3, valutato con perizia giurata L. 33.000.000 elevato dall'ufficio tecnico erariale di Milano a L. 51.000.000, disposta dalla sig.ra Russo Maria con testamento olografo 3 aprile 1979, pubblicato in data 13 giugno 1979, n. 30511/5756 di repertorio, a rogito dott. Ermanno Casero, notaio in Milano, registrato a Milano in data 28 giugno 1979 al n. 18245.  
+904. Decreto del Presidente della Repubblica 16 ottobre 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla sig.ra Monteverdi Andreina con testamento olografo 2 gennaio 1960, pubblicato a rogito dott. Renato Tabucchi, notaio in Milano, il 14 aprile 1975, n. 62848 di repertorio, n. 13215 di raccolta, registrato a Milano il 18 aprile 1975 al n. 0091571 M serie A, consistente in beni mobili ed immobili al netto delle passivita' per un valore di L. 123.889.059.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 14 maggio 1985  
-Registro n. 4 Presidenza, foglio n. 289
+Visto, il Guardasigilli: SARTI  
+Registrato alla Corte dei conti, addi' 20 dicembre 1980  
+Registro n. 9 Presidenza, foglio n. 189

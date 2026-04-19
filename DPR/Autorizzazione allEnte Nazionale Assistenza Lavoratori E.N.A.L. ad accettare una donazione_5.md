@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 dicembre 1957 n. 1327
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 agosto 1964 n. 1053
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 dicembre 1957 n. 1327
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 agosto 1964 n. 1053
+==============================================================
 
 Autorizzazione all'Ente Nazionale Assistenza Lavoratori (E.N.A.L.) ad accettare una donazione.
 ----------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1327. Decreto del Presidente della Repubblica 2 dicembre 1957, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Ente Nazionale Assistenza Lavoratori (E.N.A.L.) viene autorizzato ad accettare una donazione.  
+1053. Decreto del Presidente della Repubblica 13 agosto 1964, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Ente Nazionale Assistenza Lavoratori (E.N.A.L.), viene autorizzato ad accettare in donazione un edificio, attualmente adibito a circolo E.N.A.L., sito in frazione Ama del comune di Gaiole in Chianti (Siena), disposta dai signori dottor Alessandro Bonci Casuccini, Chiara Bonci Casuccini vedova Casini, Elisa Bindi Sergardi vedova Bonci Casuccini, come da atto a rogito dott. Fabio Marelli, notaio residente in Siena, in data 13 luglio 1963, al n. 4660 di rep., n. 1657 di raccolta.  
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 14 gennaio 1958  
-Atti del Governo, registro n. 110, foglio n. 5. - RELLEVA
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei Conti, addi' 14 ottobre 1964  
+Atti del Governo, registro n. 187, foglio n. 125. - VILLA

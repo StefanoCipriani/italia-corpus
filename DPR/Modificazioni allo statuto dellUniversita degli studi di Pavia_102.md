@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1979 n. 371
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1980 n. 834
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1979 n. 371
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1980 n. 834
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
@@ -10,76 +10,77 @@ Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Gli articoli 267, 268, 269 e 270, relativi alla scuola di specializzazione in chirurgia vascolare, sono soppressi e sostituiti dai seguenti:   
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli da 311 a 319, relativi all'ordinamento della scuola per ortottiste, che muta la denominazione in quella di ortottisti-assistenti di oftalmologia, sono abrogati e sostituiti dai seguenti con lo spostamento della numerazione degli articoli successivi:  
   
-Scuola di specializzazione in chirurgia vascolare   
+Scuola speciale per ortottisti-assistenti di oftalmologia  
+Art. 311. - E' istituita presso la facolta' di medicina e chirurgia dell'Universita' di Pavia una scuola speciale di preparazione per ortottisti-assistenti di oftalmologia che ha sede presso la clinica oculistica di questa Universita'.  
+Art. 312. - La scuola ha lo scopo di dare una preparazione completa, teorico-pratica, istruendo gli allievi sui problemi della motilita' oculare, delle ambliopie, delle tecniche diagnostiche, della visione binoculare, del trattamento pre e post operatorio dei pazienti strabici, dei problemi sui vizi di refrazione e della loro correzione e sulle tecniche diagnostiche in oftalmologia.  
+La durata del corso per conseguire il diploma di ortottista-assistente di oftalmologia e' di tre anni.  
+Ne sono titoli di ammissione il possesso di un diploma legalmente valido ai fini della iscrizione all'Universita' ai sensi dell'[art. 1 della legge n. 910 dell'11 dicembre 1969](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1) e la conoscenza di una lingua straniera (inglese, francese, tedesco, spagnolo).  
+Art. 313. - Gli aspiranti all'iscrizione al primo anno di corso sono tenuti a sostenere un esame di ammissione consistente in una prova di cultura generale e in una prova per la conoscenza della lingua straniera. E' richiesto un certificato di sana e robusta costituzione, con particolare riguardo alla funzione visiva.  
+Art. 314. - Il numero complessivo degli iscritti alla scuola e' di dodici (quattro per anno di corso). Qualora le domande di iscrizione fossero in numero superiore al numero massimo previsto, il consiglio della scuola si riserva di provvedere ad una scelta tra gli idonei in base ai risultati delle prove di ammissione; gli idonei possono essere ammessi anche in soprannumero in rapporto a posti che si rendessero vacanti nel corso del secondo e terzo anno. I ripetenti e i fuori corso, qualora riprendano gli studi, sono riammessi in soprannumero.  
+Art. 315. - Il direttore della scuola e' il titolare della cattedra di clinica oculistica o altro docente di disciplina affine, proposto dal titolare della cattedra di clinica oculistica, sentito il consiglio della scuola.  
+Art. 316. - L'anno accademico ha inizio e termine nelle date stabilite dalle leggi in vigore per l'istruzione universitaria. La frequenza e' obbligatoria.  
+Art. 317. - Il corso comprende lezioni teoriche ed esercitazioni pratiche. Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1) elementi di anatomia dell'apparato visivo e del S.N.C.;  
+2) fisiologia dell'occhio, della motilita' oculare, della visione binoculare;  
+3) ottica fisica e fisiopatologica;  
+4) ortottica I;  
+5) psicologia infantile.  
+2° Anno:  
+1) elementi di patologia oculare;  
+2) elementi di farmacologia oculare;  
+3) elementi di neurooftalmologia;  
+4) ortottica II;  
+5) nozione di chirurgia ed assistenza oftalmica.  
+3° Anno:  
+1) tecniche semeiologiche dell'apparato visivo I (es. refrazione, contattologia, adattometria, campo visivo, senso cromatico);  
+2) tecniche semeiologiche ed elettrofisiologiche (tonometria e tonografia; ERG; EOG; EMG; ecografia, retinografia e fluoroangiografia);  
+3) ortottica III;  
+4) nozioni di riabilitazione senso-motoria dell'eta' infantile;  
+5) legislazione sanitaria.  
+Art. 318. - L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni e dall'obbligo per gli allievi della frequenza obbligatoria ai fini dell'apprendimento per l'intero periodo di corso di studi nella clinica oculistica. La frequenza viene comprovata dalla attestazione rilasciata sul libretto di iscrizione dagli insegnanti e per l'attivita' pratica dal direttore della scuola. L'attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.  
+Art. 319. - Alla fine di ogni anno gli allievi devono sostenere un esame sulle materie di insegnamento: Nel caso in cui i candidati non abbiano superato gli esami prescritti, essi rimarranno nella posizione di ripetenti.  
+Art. 320. - Gli esami di profitto consistono in prove teoriche e pratiche.  
+Art. 321. - Alla fine del corso gli allievi debbono sostenere un esame di diploma che consiste nella discussione di una tesi scritta su un argomento riguardante le materie di insegnamento, assegnata dal direttore della scuola e in una prova pratica stabilita da Una commissione esaminatrice. I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola, ma se al secondo anno non sia loro riconosciuta la idoneita', saranno senza altro esclusi da ulteriori prove.  
+Art. 322. - Gli esami di profitto e di diploma si danno in due sessioni, la prima estiva che ha inizio subito dopo la chiusura annuale dei corsi e la seconda autunnale, nel mese che precede l'inizio del nuovo anno accademico.  
+Art. 323. - Le commissioni per gli esami di ammissione, di profitto e di diploma sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della clinica. Le commissioni per gli esami di ammissione e di profitto sono composte da tre membri: direttore della scuola, presidente e da due insegnanti della scuola stessa. La commissione per gli esami di diploma e' costituita dal direttore della scuola, dal presidente, e da quattro scelti fra gli insegnanti della scuola stessa o altri docenti.  
+Art. 324. - Al funzionamento della suddetta, scuola si provvedera' con il provento delle tasse, soprattasse e contributi dovuti dagli iscritti e con eventuali elargizioni e contributi di enti pubblici o privati.  
   
-Art. 267. - La scuola di specializzazione in chirurgia vascolare ha sede presso l'istituto di chirurgia vascolare e conferisce il diploma di specializzazione in chirurgia vascolare.   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Art. 268. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente. La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.   
-Il numero massimo degli allievi e' di otto per anno di corso e complessivamente di quaranta iscritti per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-Art. 269. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-1) embriologia, anatomia macro e microscopica dell'apparato vascolare;   
-2) fisiopatologia dell'apparato vascolare e della coagulazione sanguigna;   
-3) anatomia patologica dell'apparato vascolare;   
-4) semeiologia fisica e strumentale delle malattie vascolari;   
-5) semeiologia radiologica delle malattie vascolari;   
-6) vasculopatie di interesse medico e specialistico.   
-2° Anno:   
-7) patologia e clinica delle malattie del sistema arterioso;   
-8) patologia e clinica delle malattie del sistema venoso;   
-9) patologia e clinica delle malattie del sistema linfatico;   
-10) patologia e clinica delle malattie dei piccoli vasi.   
-3° Anno:   
-11) nozioni di terapia medica delle malattie vascolari;   
-12) terapia chirurgica delle malattie vascolari;   
-13) chirurgia vascolare applicata a malattie dei vari organi I.   
-4° Anno:   
-14) informatica medica;   
-15) rianimazione e terapia intensiva;   
-16) patologia e clinica vascolare pediatrica I;   
-17) epidemiologia delle malattie vascolari;   
-18) elementi di legislazione sanitaria comunitaria;   
-19) chirurgia vascolare applicata a malattie dei vari organi II.   
-5° Anno:   
-20) elementi di bioingegneria applicati al circolo;   
-21) principi e tecnica di circolazione extracorporea;   
-22) terapia intensiva;   
-23) patologia e clinica vascolare pediatrica II;   
-24) tecniche chirurgiche applicate alla patologia vascolare;   
-25) chirurgia vascolare applicata a malattie dei vari organi III.   
-Art. 270. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.   
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
-Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sugli insegnamenti impartiti durante l'anno.   
-Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.   
-Al termine del corso di studi per il conseguimento del diploma di specialista in chirurgia vascolare gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione e dovranno sostenere una prova clinica.   
+REGOLAMENTO  
+DELL'UNIVERSITA' DEGLI STUDI DI PAVIA  
+SCUOLE A FINI SPECIALI  
+  
+Scuola per ortottisti-assistenti di oftalmologia  
+  
+Sono ammessi al terzo anno della scuola, con obbligo di tutti gli esami del terzo anno e della tesi, le diplomate delle scuole speciali per ortottiste ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20), purche' abbiano esercitato con continuita' una attivita' professionale adeguata e documentata.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 marzo 1979
+### Dato a Roma, addi' 27 settembre 1980
 
-PERTINI PEDINI
+p. Il Presidente della Repubblica Il Presidente del Senato FANFANI SARTI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: SANTI
 
-Registrato alla Corte dei conti, addi' 28 luglio 1979
+Registrato alla Corte dei conti, addi' 26 novembre 1980
 
-Registro n. 60 Istruzione, foglio n. 199
+Registro n. 111 Istruzione, foglio n. 315

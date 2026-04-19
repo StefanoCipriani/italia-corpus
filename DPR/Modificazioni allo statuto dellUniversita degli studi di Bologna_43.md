@@ -1,88 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1969 n. 1039
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1970 n. 544
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1969 n. 1039
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1970 n. 544
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 64. - All'elenco degli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di "Filologia medioevale ed umanistica".
-
-Art. 65. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia e' aggiunto quello di "Filologia medioevale ed umanistica".
-
-Art. 70. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne (indirizzo europeo) e' aggiunto quello di "Filologia medioevale ed umanistica".
-
-Art. 102. - E' modificato nel senso che dopo il secondo comma viene aggiunto il seguente terzo comma:
-
-"In relazione a quanto sopra si istituiscono i seguenti corsi di preparazione e di aggiornamento:
-
-1) Corso di preparazione e di aggiornamento di strutturistica e fisica molecolare;
-
-2) Corso di preparazione e di aggiornamento di elettrochimica teorica e preparativa;
-
-3) Corso di preparazione e di aggiornamento di spettroscopia Raman".
-
-Art. 134. - All'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti i seguenti:
-
-Entomologia ortofrutticola (semestrale);
-
-Tecniche di lotta biologica (semestrale);
-
-Micologia;
-
-Tecnologia degli oli, grassi e derivati.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 10 settembre 1969
-
-SARAGAT
-
-FERRARI AGGRADI
-
-Visto, il Guardasigilli: GAVA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 5 gennaio 1970 Atti del Governo, registro n. 231, foglio n. 1. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -91,30 +24,46 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 64. - All'elenco degli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di "Filologia medioevale ed umanistica".  
-Art. 65. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia e' aggiunto quello di "Filologia medioevale ed umanistica".  
-Art. 70. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne (indirizzo europeo) e' aggiunto quello di "Filologia medioevale ed umanistica".  
-Art. 102. - E' modificato nel senso che dopo il secondo comma viene aggiunto il seguente terzo comma:  
-"In relazione a quanto sopra si istituiscono i seguenti corsi di preparazione e di aggiornamento:  
-1) Corso di preparazione e di aggiornamento di strutturistica e fisica molecolare;  
-2) Corso di preparazione e di aggiornamento di elettrochimica teorica e preparativa;  
-3) Corso di preparazione e di aggiornamento di spettroscopia Raman".  
-Art. 134. - All'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti i seguenti:  
-Entomologia ortofrutticola (semestrale);  
-Tecniche di lotta biologica (semestrale);  
-Micologia;  
-Tecnologia degli oli, grassi e derivati.  
+  
+Dopo l'art. 534 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di studi turistici, diretta a fini speciali, della durata di anni due, con sede distaccata a Rimini.  
+  
+Scuola di studi turistici  
+(Scuola diretta a fini speciali)  
+  
+Art. 535. - Alla facolta' di economia e commercio e' annessa la scuola di studi turistici. Essa ha sede nella citta' di Rimini e funziona in locali e coi mezzi finanziari messi a disposizione da un apposito consorzio. La direzione della scuola e' affidata ad un collegio di tre professori ordinari appartenenti al consiglio di facolta' di economia e commercio nel cui seno sara' scelto il direttore preposto al funzionamento della scuola.  
+Art. 536. - La durata del corso di studi per il conseguimento del diploma e' di due anni; al termine di essi e dopo l'esame previsto viene rilasciato un diploma in studi turistici.  
+Sono titoli di ammissione alla scuola i diplomi della scuola media superiore di secondo grado.  
+Sono insegnamenti fondamentali di studio i seguenti:  
+1° Anno:  
+1) Economia del turismo;  
+2) Economia e tecnica dell'impresa alberghiera;  
+3) Discipline amministrative e legislazioni interessanti il turismo;  
+4) Lingua inglese (insegnamento biennale di carattere pratico);  
+5) Lingua francese (insegnamento biennale di carattere pratico);  
+6) Lingua tedesca (insegnamento biennale di carattere pratico); 2° Anno:  
+1) Geografia del turismo;  
+2) Igiene del turismo;  
+3) Metodologia di localizzazione e strutturazione delle attivita' turistiche;  
+4) Lingua inglese (insegnamento biennale di carattere pratico);  
+5) Lingua francese (insegnamento biennale di carattere pratico);  
+6) Lingua tedesca (insegnamento biennale di carattere pratico);  
+7) L'arte e il folklore in Italia.  
+Gli insegnamenti potranno essere integrati da esercitazioni, seminari, conferenze e altre forme didattiche, su delibera del consiglio di facolta'.  
+I corsi si debbono concludere con un colloquio, per accertare che lo studente abbia inquadrato le varie materie svolte dai docenti.  
+L'esame di diploma consiste in una dissertazione scritta, approvata da un docente delle materie svolte, e che deve riguardare almeno tre delle materie dei corsi.  
+Tale dissertazione viene discussa davanti ad una commissione di sette membri docenti, presieduta dal direttore della scuola.  
+Art. 537. - Le tasse e soprattasse per l'iscrizione e la frequenza ai corsi e per gli esami di profitto sono fissate in misura pari a quelle del I e II corso della facolta'. Gli eventuali contributi di laboratorio verranno fissati annualmente dal consiglio di facolta' su proposta del direttore della scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 settembre 1969
+### Dato a Roma, addi' 1 giugno 1970
 
-SARAGAT FERRARI AGGRADI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 5 gennaio 1970
+Registrato alla Corte dei conti, addi' 24 luglio 1970
 
-Atti del Governo, registro n. 231, foglio n. 1. - CARUSO
+Atti del Governo, registro n. 236, foglio n. 178. - IZZI

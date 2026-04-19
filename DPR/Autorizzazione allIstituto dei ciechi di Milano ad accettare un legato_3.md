@@ -1,19 +1,19 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1952 n. 3102
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 ottobre 1985 n. 774
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1952 n. 3102
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 ottobre 1985 n. 774
 ==============================================================
 
-Autorizzazione all'Istituto dei ciechi di Milano, ad accettare un legato.
--------------------------------------------------------------------------
+Autorizzazione all'Istituto dei ciechi di Milano ad accettare un legato.
+------------------------------------------------------------------------
 
 Art. 1
 ------
 
 N.
 
-3102. Decreto del Presidente della Repubblica 25 luglio 1952, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Istituto dei ciechi di Milano, con sede in via Vivaio n. 7, viene autorizzato ad accettare un legato disposto in suo favore dalla defunta signora Sobacchi Angela fu Luigi vedova Sommaruga.  
+774. Decreto del Presidente della Repubblica 12 ottobre 1985, col quale, sulla proposta del Ministro della pubblica istruzione, l'Istituto dei ciechi di Milano viene autorizzato ad accettare il legato, consistente in due unita' immobiliari del valore complessivo, secondo la stima dell'ufficio tecnico erariale, di L. 240.000.000, disposto dalla sig.ra Rosa Canavesi ved. Bombelli con testamento olografo 5 novembre 1968, pubblicato in data 20 ottobre 1982, n. 24117/ 2399, a rogito dott. Mario Grossi, notaio in Corbetta (Milano), registrato in Abbiategrasso (Milano) il 9 novembre 1982 al n. 1016.  
   
-Visto, il Guardasigilli: ZOLI  
-Registrato alla Corte dei conti, addi' 24 dicembre 1952  
-Atti del Governo, registro n. 67, foglio n. 66. - PALLA
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 14 dicembre 1985  
+Registro n. 86 Istruzione, foglio n. 136

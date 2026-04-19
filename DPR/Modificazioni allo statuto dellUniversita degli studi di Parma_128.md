@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1963 n. 2076
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1951 n. 471
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1963 n. 2076
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1951 n. 471
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
@@ -12,50 +12,31 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successivi;  
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regi decreti 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1772); [1 ottobre 1931, n. 1380](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1380); [26 ottobre 1933, n. 2401](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1933-10-26;2401); [13 dicembre 1934, n. 2423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-13;2423); [1 ottobre 1936, n. 2076](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2076); [20 aprile 1939, n. 1067](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-04-20;1067); [1 agosto 1941, n. 893](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-08-01;893); [26 marzo 1942, n. 330](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-03-26;330); [5 settembre 1942, n. 1178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1178); [21 gennaio 1943, n. 21; con il regio decreto-legge](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto.legge:1943-01-21;21) [27 gennaio 1944, n. 58; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1944-01-27;58) [30 dicembre 1947, n. 1735, con decreto del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-30;1735) [27 marzo 1948, n. 458](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-03-27;458); [30 ottobre 1949, n. 1002](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1002) e [30 maggio 1950, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-05-30;615);  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la, particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Sulla proposta, del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Dopo l'art. 199 vengono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in Gerontologia e Geriatria, annessa alla Facolta' di medicina e chirurgia.  
-Scuola di specializzazione in Gerontologia e Geriatria  
-Art. 200. - E' istituita la Scuola di specializzazione in Gerontologia e Geriatria.  
-La Scuola e' sottoposta alle regolamentazioni generali fissate dallo statuto delle Scuole di specializzazione annesse alla Facolta' di medicina e chirurgia dell'Universita' degli studi di Parma.  
-Art. 201. - La Scuola ha sede presso l'Istituto di Semeiotica medica.  
-Art. 202. - La Scuola ha la durata di due anni.  
-Art. 203. - Sono ammessi i laureati in Medicina e chirurgia.  
-Art. 204. - L'iscrizione alla Scuola e' limitata per ogni anno accademico a n. 20 allievi.  
-Art. 205. - Le materie di insegnamento sono:  
-Primo anno:  
-1) Semeiologia medica diretta strumentale e funzionale 2) Patologia medica con particolare riguardo alle malattie dell'eta' geriatrica;  
-3) Anatomia ed Istologia patologica;  
-4) Chimica clinica e Batteriologia clinica.  
-Secondo anno:  
-1) Clinica medica e terapia delle malattie dell'eta' geriatrica;  
-2) Patologia e diagnostica delle malattie geriatriche;  
-3) Diagnostica radiologica delle malattie geriatriche.  
-Art. 206. - Gli allievi sono tenuti a seguire le lezioni teoriche, le esercitazioni ed i turni di internato stabiliti dal direttore della Scuola.  
-Alla fine di ogni anno gli allievi che abbiano ottenuto la prescritta attestazione di frequenza, dovranno sostenere un esame di profitto.  
-Alla fine del biennio gli allievi dovranno presentare una dissertazione scritta e sostenere un esame di diploma.  
+Lo statuto dell'Universita' degli studi di Parma approvato e modificato con i decreti sopraindicati e' ulteriormente modificato come appresso:  
+Attuale art. 1. - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti i seguenti:  
+10) Diritto canonico;  
+11) Storia dei trattati e politica internazionale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 dicembre 1963
+### Dato a Roma, addi' 11 aprile 1951
 
-SEGNI GUI
+EINAUDI GONELLA
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: PICCIONI
 
-Registrato alla Corte dei conti, addi' 22 gennaio 1964
+Registrato alla Corte dei conti, addi' 26 giugno 1951
 
-Atti del Governo, registro n. 179, foglio n. 126. - VILLA
+Atti del Governo, registro n. 39, foglio n. 141. - FRASCA

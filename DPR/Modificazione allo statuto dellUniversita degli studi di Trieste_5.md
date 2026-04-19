@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 1167
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1985 n. 888
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 1167
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1985 n. 888
+==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Trieste.
 -------------------------------------------------------------------
@@ -33,27 +33,27 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' di Trieste, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-  
-Nell'art. 71, relativo al corso di laurea in medicina e chirurgia, sono aggiunti i seguenti insegnamenti:   
-istituzioni di anatomia e istologia patologica;   
-chirurgia sostitutiva e dei trapianti d'organo.   
+Nell'art. 71, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+patologia geriatrica.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Selva di Val Gardena, addi' 2 settembre 1983
+### Dato a Roma, addi' 7 ottobre 1985
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 4 aprile 1984
+Registrato alla Corte dei conti, addi' 29 gennaio 1986
 
-Registro n. 21 Istruzione, foglio n. 199
+Registro n. 4 Istruzione, foglio n. 106

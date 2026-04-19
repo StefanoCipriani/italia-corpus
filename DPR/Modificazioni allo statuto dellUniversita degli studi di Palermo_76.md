@@ -1,93 +1,48 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 aprile 1963 n. 650
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1978 n. 451
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 aprile 1963 n. 650
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1978 n. 451
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240) e successivi Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 10. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti quelli di:
-
-Diritto canonico;
-
-Diritto della navigazione.
-
-Art. 13, relativo alla propedeuticita' del corso di laurea in giurisprudenza: il primo comma e' abrogato e sostituito dal seguente: "Lo studente iscritto al corso di laurea in giurisprudenza non puo' sostenere gli esami di "Diritto civile", di "Diritto commerciale" e di "Diritto del lavoro" se non ha superato l'esame di "Istituzioni di diritto privato", gli esami di "Diritto romano" e di "Storia del diritto italiano" se non ha superato gli esami di "Istituzioni di diritto romano" e di "Storia del diritto romano", l'esame di "Scienza delle finanze e diritto finanziario" se non ha superato l'esame di "Economia politica", gli esami di "Diritto amministrativo" e di "Diritto del lavoro" se non ha superato l'esame di "Diritto costituzionale".
-
-Art. 23, relativo agli insegnamenti del corso di laurea in Lettere e' modificato nel senso che l'insegnamento complementare di "Letteratura delle tradizioni popolari", e' soppresso ed in sua sostituzione e' istituito l'insegnamento di "Storia delle tradizioni popolari".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 1 aprile 1963
-
-SEGNI
-
-GUI
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato
-----------
-
-Corte dei conti, addi' 8 maggio 1963 Atti del Governo, registro n. 169, foglio n. 16. - VILLA
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240) e successivi Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);.   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Palermo e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 10. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti quelli di:  
-Diritto canonico;  
-Diritto della navigazione.  
-Art. 13, relativo alla propedeuticita' del corso di laurea in giurisprudenza: il primo comma e' abrogato e sostituito dal seguente: "Lo studente iscritto al corso di laurea in giurisprudenza non puo' sostenere gli esami di "Diritto civile", di "Diritto commerciale" e di "Diritto del lavoro" se non ha superato l'esame di "Istituzioni di diritto privato", gli esami di "Diritto romano" e di "Storia del diritto italiano" se non ha superato gli esami di "Istituzioni di diritto romano" e di "Storia del diritto romano", l'esame di "Scienza delle finanze e diritto finanziario" se non ha superato l'esame di "Economia politica", gli esami di "Diritto amministrativo" e di "Diritto del lavoro" se non ha superato l'esame di "Diritto costituzionale".  
-Art. 23, relativo agli insegnamenti del corso di laurea in Lettere e' modificato nel senso che l'insegnamento complementare di "Letteratura delle tradizioni popolari", e' soppresso ed in sua sostituzione e' istituito l'insegnamento di "Storia delle tradizioni popolari".  
+Dopo l'art. 46, e con lo spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo, relativo alla creazione dell'istituto di psicologia, annesso alla facolta' di lettere e filosofia.   
+Istituto di psicologia   
+Art. 47. - L'istituto di psicologia e' policattedra e comprende gli insegnamenti di psicologia I, psicologia II, psicolinguistica, psicologia sociale, psicologia applicata.   
+L'istituto ha lo scopo di coordinare e potenziare l'insegnamento della psicologia e favorire la ricerca scientifica.   
+L'istituto ha sede autonoma in via Divisi, 81 e dispone di una biblioteca specializzata per lo studio delle scienze del comportamento, di una ricca testoteca, di un laboratorio di psicologia animale e di altre fondamentali apparecchiature per la ricerca scientifica e di laboratorio.   
+La direzione dell'istituto e' affidata ad uno dei titolari delle singole discipline.   
+Presso l'istituto prestano servizio gli assistenti di ruolo, i contrattisti, gli assegnisti e vi collaborano, inoltre, studiosi e ricercatori di scienze del comportamento.   
+Con la dotazione assegnata all'istituto del consiglio di amministrazione dell'Universita', nonche' con gli eventuali fondi straordinari e/o elargizioni di altri enti e istituzioni, l'istituto e' in grado di provvedere alle proprie attivita' scientifiche e didattiche.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 1 aprile 1963
+### Dato a Roma, addi' 6 marzo 1978
 
-SEGNI GUI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato Corte dei conti, addi' 8 maggio 1963
+Registrato alla Corte dei conti, addi' 25 luglio 1978
 
-Atti del Governo, registro n. 169, foglio n. 16. - VILLA
+Registro n. 83 Istruzione, foglio n. 142

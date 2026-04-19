@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 480
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1983 n. 1083
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 480
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1983 n. 1083
+================================================================
 
 Modificazione allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
 ------------------------------------------------------------------------------
@@ -39,18 +39,18 @@ Articolo unico
 --------------
 
   
-Art. 117 - nell'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche e' inserito il seguente insegnamento: immunologia generale.  
+Art. 119 - nell'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche e' inserito l'insegnamento di "geologia stratigrafica".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 giugno 1983
+### Dato a Roma, addi' 23 dicembre 1983
 
 PERTINI FALCUCCI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 17 agosto 1983
+Registrato alla Corte dei conti, addi' 15 marzo 1984
 
-Registro n. 59 Istruzione, foglio n. 142
+Registro n. 16 Istruzione, foglio n. 182

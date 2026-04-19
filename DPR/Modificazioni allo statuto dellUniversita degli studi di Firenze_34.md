@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1974 n. 763
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1971 n. 659
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1974 n. 763
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1971 n. 659
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
@@ -12,12 +12,11 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, numero 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;   
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;   
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
 Sulla proposta del Ministro per la pubblica istruzione;   
@@ -25,39 +24,45 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:   
   
 Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Dopo l'art. 239, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di perfezionamento in storia medioevale, moderna e contemporanea:   
   
-Scuola di perfezionamento in storia medioevale, moderna e   
-contemporanea   
+L'art. 241, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che la "Scuola di specializzazione in medicina tossicologica" muta la denominazione in quella di "Scuola di specializzazione in tossicologia medica".   
+L'art. 257, relativo alla "Scuola di specializzazione in medicina tossicologica" che assume la denominazione di "Scuola di specializzazione in tossicologia medica", e' abrogato e sostituito dal seguente:   
   
-Art. 240. - Alla facolta' di magistero dell'Universita' degli studi di Firenze e' annessa la scuola di perfezionamento in storia medioevale, moderna e contemporanea.   
-Art. 241. - La scuola ha lo scopo di completare la preparazione dei laureati in materie storiche, sia che essi intendano dedicarsi alla ricerca scientifica, sia che essi intendano dedicarsi all'insegnamento della storia nelle scuole medie.   
-Art. 242. - Alla scuola possono iscriversi coloro i quali si sono laureati in materie storiche presso qualsiasi facolta' di magistero.  
-Le tasse di ammissione sono cosi' fissate: immatricolazione L. 5000, iscrizione L. 18.000, sopratassa esami L. 7000, contributo riscaldamento lire 2000, contributo attivita' assistenziali e sport L. 1000, contributo esercitazioni L. 5000, piu' L. 100.000 per ore di esercitazione.   
-Art. 243. - L'Universita' e la facolta' di magistero metteranno a disposizione della scuola le attrezzature didattiche.   
-Art. 244. - Il corso di perfezionamento ha la durata di un anno e rilascia un attestato di perfezionamento.   
-Art. 245. - La scuola ha un massimo di cinquanta posti annuali e la graduatoria per l'ammissione sara' fatta da una commissione di docenti nominati dal consiglio della facolta' di magistero.   
-Art. 246. - Il direttore della scuola e' nominato dal consiglio della facolta' di magistero ed e' scelto tra tutti i docenti di materie storiche dell'Universita' di Firenze.   
-Il direttore resta in carica tre anni ed e' rieleggibile per i tre anni successivi.   
-Art. 247. - Il direttore e' responsabile del buon andamento della scuola nei confronti del consiglio di facolta' di magistero. Il direttore e i professori che insegnano durante l'anno accademico costituiscono il consiglio direttivo della scuola.   
-Art. 248. - I corsi iniziano il 15 gennaio di ogni anno e si articolano in tre trimestri: 1) gennaio-febbraio-marzo; 2) aprile-maggio-giugno; 3) ottobre-novembre-dicembre. Le domande di iscrizione debbono pervenire entro il 15 novembre.   
-Art. 249. - Le materie fondamentali sono tre: storia medioevale, storia moderna, storia contemporanea; le materie complementari sono tre: storia economica, storia delle dottrine politiche, storia del diritto italiano.   
-Ogni allievo deve superare almeno tre materie fondamentali ed una complementare a scelta.   
-Art. 250. - Il direttore della scuola interpella i docenti di materie storiche dell'Universita' di Firenze per tenere uno dei 6 corsi di insegnamento.   
-Art. 251. - Secondo le esigenze degli allievi saranno organizzati seminari tenuti da docenti dell'Universita' di Firenze e da specialisti italiani e stranieri.   
-Art. 252. - Ad ogni allievo sara' assegnato un tema di lavoro preventivamente concordato.   
-Art. 253. - Ogni allievo alla fine dell'anno di corso, dopo aver sostenuto gli esami, dovra' presentare in forma scritta e discutere una relazione sul tema del lavoro assegnato; la relazione sara' valutata dai membri del consiglio della scuola per conferire l'attestato di perfezionamento. Ai piu' meritevoli puo' essere attribuita una menzione di lode.   
+Scuola di specializzazione in tossicologia medica   
+  
+Art. 257. - La durata del corso degli studi per il conseguimento del diploma di specialista in tossicologia medica e' di tre anni.   
+Le materie di insegnamento sono cosi' suddivise nei tre anni di corso:   
+1° Anno:   
+Chimica tossicologica con esercizi;   
+Tossicologia generale;   
+Tossicologia sperimentale con esercizi, I.   
+2° Anno:   
+Tossicologia sistematica;   
+Caricerogenesi da agenti chimici;   
+Teratogenesi da agenti chimici;   
+Tossicologia sperimentale con esercizi, II;   
+Clinica e terapia delle malattie da agenti chimici, I.   
+3° Anno:   
+Diagnostica chimica delle malattie da agenti chimici;   
+Clinica e terapia delle malattie da agenti chimici, II;   
+Tecniche di rianimazione in tossicologia;   
+Legislazione, in campo tossicologico.   
+Durante i tre anni di frequenza alla scuola, tutti gli ammalati che vengono ricoverati nella clinica saranno seguiti e studiati dai laureati in medicina che sono iscritti al corso: casi interessanti di intossicazioni singole e collettive potranno essere oggetto di ricerche speciali e di pubblicazioni da parte di uno o piu' iscritti al corso a seconda del giudizio del direttore.   
+Alla fine del 1°, 2° e 3° anno, avranno luogo esami speciali sugli insegnamenti impartiti, e per ottenere il diploma i candidati dovranno superare un esame finale riassuntivo e discutere una tesi sperimentale (e clinica) su argomenti di tossicologia.   
+L'allievo e' tenuto alla frequenza obbligatoria delle lezioni e delle esercitazioni relative, oltre a partecipare a ricerche concernenti problemi di tossicologia.   
+Per l'iscrizione al corso di Specializzazione, i candidati dovranno dar prova di avere nozioni di cultura tossicologica nell'esame di ammissione.   
+Il numero degli iscritti e' stabilito in cinque per ogni anno di corso (totale quindici iscritti).   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 6 marzo 1974
+### Dato a Roma, addi' 11 giugno 1971
 
-LEONE MALFATTI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 30 gennaio 1975
+Registrato alla Corte dei conti, addi' 21 agosto 1971
 
-Atti di Governo, registro n. 8, foglio n. 90
+Atti del Governo, registro n. 243, foglio n. 158. - PASQUALUCCI

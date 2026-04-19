@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1982 n. 721
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 980
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1982 n. 721
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 980
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Parma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Parma approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -19,8 +19,6 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
@@ -33,35 +31,41 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Nell'art. 75, relativo al corso di laurea in materie letterarie, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-archivistica;  
-storia greca;  
-storia e istituzioni dei Paesi afro-asiatici;  
-storia del libro e dell'editoria;  
-tecniche dell'informazione e della documentazione.  
-Nell'art. 76, relativo al corso di laurea in pedagogia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-storia del pensiero sociologico;  
-antropologia culturale;  
-metodologia delle scienze sociali;  
-pedagogia sperimentale;  
-psicologia sociale.  
+  
+Nell'art. 142, relativo al corso di laurea in medicina veterinaria, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:   
+scienza e tecnologia delle carni;   
+statistica applicata alla produzione animale;   
+informatica e statistica applicata alla epidemiologia;   
+citogenetica veterinaria;   
+semeiologia ed epidemiologia degli allevamenti intensivi;   
+valutazione bromatologica degli alimenti per uso zootecnico;   
+etologia e patologia del comportamento degli animali domestici; terapia veterinaria di gruppo;   
+economia degli allevamenti nella C.E.E.;   
+patologia molecolare.   
+Nell'art. 143 gli ultimi cinque commi sono soppressi e cosi' sostituiti:   
+a) fisiologia generale e speciale veterinaria I e II (fisica biologica), chimica I e II, microbiologia generale veterinaria, rispetto alla patologia generale veterinaria;   
+b) patologia generale veterinaria, rispetto all'anatomia patologica generale e speciale veterinaria I e II, farmacologia e farmacodinamica veterinaria, propedeutica: 1) semeiologia medica veterinaria e metodologia clinica, patologia medica degli animali domestici, propedeutica: 2) semeiologia chirurgica veterinaria e metodologia clinica, patologia chirurgica veterinaria e podologia, medicina operatoria veterinaria;   
+c) propedeutica: 1) semeiologia medica veterinaria e metodologia clinica e patologia medica degli animali domestici rispetto alla clinica medica veterinaria;   
+d) propedeutica: 2) semeiologia chirurgica veterinaria e metodologia clinica, patologia chirurgica veterinaria e podologia e medicina operatoria veterinaria rispetto a clinica chirurgica veterinaria;   
+e) ostetricia veterinaria e patologia della riproduzione e fecondazione artificiale rispetto a clinica ostetrica e ginecologica veterinaria;   
+f) microbiologia generale veterinaria rispetto a patologia generale veterinaria, patologia e profilassi delle malattie infettive I e II, patologia aviare.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 luglio 1982
+### Dato a Roma, addi' 31 ottobre 1981
 
 PERTINI BODRATO
 
 Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 28 settembre 1982
+Registrato alla Corte dei conti, addi' 9 febbraio 1982
 
-Registro n. 112 Istruzione, foglio n. 365
+Registro n. 20 Istruzione, foglio n. 233

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 novembre 1956 n. 1461
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1986 n. 1025
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 novembre 1956 n. 1461
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1986 n. 1025
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Parma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), modificato con [regio decreti 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1772); [1 ottobre 1931, n. 1380](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1380); [26 ottobre 1933, n. 2401](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1933-10-26;2401); [13 dicembre 1934, n. 2423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-13;2423); [1 ottobre 1936, n. 2076](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2076); [20 aprile 1939, n. 1067](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-04-20;1067); [1 agosto 1941, n. 893](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-08-01;893); [26 marzo 1942, n. 330](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-03-26;330); [5 settembre 1942, n. 1178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1178) e [21 gennaio 1943, n. 21; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1943-01-21;21) [30 dicembre 1947, n. 1735 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-30;1735) [27 marzo 1948, n. 458](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-03-27;458); [30 ottobre 1949, n. 1002](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1002); [30 maggio 1950, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-05-30;615); [11 aprile 1951, n. 471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;471); [27 ottobre 1951, n. 1701](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1701); [31 agosto 1951, n. 1824](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-31;1824); [25 luglio 1952, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1350); [16 ottobre 1952, numero 4013](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-16;4013); [27 marzo 1954, n. 734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-27;734); [24 settembre 1954, n. 1135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-24;1135); [4 febbraio 1955, n. 116](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-04;116); [24 luglio 1955, n. 801](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-24;801); [31 luglio 1956, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-07-31;1027) e [5 settembre 1956, n. 1151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-09-05;1151);
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,77 +20,50 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Parma e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 16. - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti quelli di:
+Articolo unico
+--------------
 
-14) Esegesi delle fonti del diritto romano;
-
-15) Diritto internazionale privato e processuale.
-
-Art. 27. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di:
-
-11) Scienza dell'alimentazione.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 9 novembre 1956
-
-GRONCHI
-
-ROSSI
-
-Visto, il Guardasigilli: MORO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 20 dicembre 1956 Atti del Governo, registro n. 102, foglio n. 135. - CARLOMAGNO
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), modificato con [regio decreti 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1772); [1 ottobre 1931, n. 1380](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1380); [26 ottobre 1933, n. 2401](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1933-10-26;2401); [13 dicembre 1934, n. 2423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-13;2423); [1 ottobre 1936, n. 2076](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2076); [20 aprile 1939, n. 1067](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-04-20;1067); [1 agosto 1941, n. 893](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-08-01;893); [26 marzo 1942, n. 330](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-03-26;330); [5 settembre 1942, n. 1178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1178) e [21 gennaio 1943, n. 21; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1943-01-21;21) [30 dicembre 1947, n. 1735 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-30;1735) [27 marzo 1948, n. 458](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-03-27;458); [30 ottobre 1949, n. 1002](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1002); [30 maggio 1950, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-05-30;615); [11 aprile 1951, n. 471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;471); [27 ottobre 1951, n. 1701](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1701); [31 agosto 1951, n. 1824](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-31;1824); [25 luglio 1952, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1350); [16 ottobre 1952, numero 4013](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-16;4013); [27 marzo 1954, n. 734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-27;734); [24 settembre 1954, n. 1135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-24;1135); [4 febbraio 1955, n. 116](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-04;116); [24 luglio 1955, n. 801](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-24;801); [31 luglio 1956, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-07-31;1027) e [5 settembre 1956, n. 1151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-09-05;1151);  
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Dopo l'art. 411 sono aggiunti i seguenti articoli concernenti l'istituzione del centro studi ed archivio della comunicazione:  
   
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 16. - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti quelli di:  
-14) Esegesi delle fonti del diritto romano;  
-15) Diritto internazionale privato e processuale.  
-Art. 27. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di:  
-11) Scienza dell'alimentazione.  
+Centro studi ed archivio della comunicazione  
+Art. 412. - Presso l'Universita' di Parma e' costituito il centro studi ed archivio della comunicazione.  
+Art. 413. - Il centro si articola in sezioni che sono arte, fotografia, media, spettacolo, progetto le quali raccolgono materiale donato o acquisito comunque dall'Universita'.  
+Art. 414. - Gli scopi del centro sono la raccolta, conservazione ed analisi dei materiali di cui alle sue sezioni; la promozione della ricerca sul territorio; gli scambi e rapporti con istituzioni similari a livello internazionale, nazionale e regionale; la formazione di specialisti nell'ambito dei problemi della comunicazione.  
+Una sezione operativa del centro si occupa della realizzazione di mostre e di attivita' didattica anche collegata al patrimonio del centro stesso.  
+Art. 415. - Il centro e' coordinato e diretto da un responsabile che e' il direttore del centro nominato dal rettore; al direttore si affianca un esecutivo di specialisti composto da otto membri e un comitato scientifico, di consulenza, diviso in relazione con le cinque sezioni, che lo coadiuva nella attivita'. Gli organi suddetti sono nominati, ogni triennio, dal rettore, su proposta del direttore del centro.  
+Art. 416. - Il centro dispone di personale e sede assegnatigli dall'Universita' e ha una dotazione di funzionamento sul bilancio dell'Ateneo, nonche' dispone di contributi di enti pubblici e privati.  
+Per quanto concerne le norme di amministrazione e contabilita' del centro si applicano le disposizioni di cui al titolo 4 del [decreto del Presidente della Repubblica 4 marzo 1982, n. 371](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-04;371).  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 novembre 1956
+### Dato a Roma, addi' 4 ottobre 1986
 
-GRONCHI ROSSI
+COSSIGA
 
-Visto, il Guardasigilli: MORO
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 20 dicembre 1956
+Visto, il Guardasigilli: ROGNONI
 
-Atti del Governo, registro n. 102, foglio n. 135. - CARLOMAGNO
+Registrato atta Corte dei conti, addi' 25 febbraio 1987
+
+Registro n. 11 Istruzione, foglio n. 130

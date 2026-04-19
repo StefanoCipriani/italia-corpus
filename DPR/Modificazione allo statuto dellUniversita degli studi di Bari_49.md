@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 292
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 1115
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 292
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 1115
+==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -40,21 +40,39 @@ Articolo unico
 
   
 Nell'art. 54, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-fisiopatologia angiochirurgica;  
-anatomia radiologica.  
+patologia urologica;  
+igiene ambientale e del territorio;  
+semeiotica ostetrica;  
+fisiopatologia ostetrico-ginecologica;  
+fisiopatologia della riproduzione umana;  
+chirurgia neonatale;  
+terapia neurologica;  
+neurofisiopatologia;  
+ematologia;  
+analisi biologiche;  
+idrologia medica;  
+ematologia pediatrica;  
+terapia pediatrica sistematica;  
+nefrologia pediatrica;  
+semeiotica cardiovascolare;  
+fisiopatologia e terapia del dolore;  
+malattie del ricambio del bambino;  
+oftalmologia pediatrica;  
+neuroftalmologia;  
+psicopatologia forense;  
+chimica tossicologica forense;  
+chirurgia oncologica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 febbraio 1986
+### Dato a Roma, addi' 16 giugno 1983
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 10 giugno 1986
+Registrato alla Corte dei conti, addi' 22 marzo 1984
 
-Registro n. 45 Istruzione, foglio n. 360
+Registro n. 17 Istruzione, foglio n. 346

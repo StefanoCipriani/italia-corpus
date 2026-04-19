@@ -1,121 +1,408 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1985 n. 105
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 settembre 1969 n. 696
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1985 n. 105
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 settembre 1969 n. 696
+================================================================
 
-Modificazioni allo statuto dell'Universita' cattolica del "S. Cuore" di Milano.
--------------------------------------------------------------------------------
+Modificazioni allo statuto dell'Universita' cattolica del S. Cuore di Milano.
+-----------------------------------------------------------------------------
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' cattolica del "S. Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
+Veduto lo statuto dell'Universita' cattolica del S. Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduta la [legge 21 febbraio 1980 n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+Sulla proposta del Ministro per la pubblica istruzione;
 
-Sentito il parere del Consiglio universitario nazionale;
+Decreta:
 
-Sulla
------
+Lo statuto dell'Universita' cattolica del S. Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Art. 15. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:
 
-Articolo unico
---------------
+Paleografia;
 
+Filologia bizantina;
+
+Letteratura latina medioevale;
+
+Psicologia del lavoro;
+
+Psicologia sociale;
+
+Ebraico e lingue semitiche;
+
+Sanscrito;
+
+Storia e critica del cinema;
+
+Psicologia dell'eta' evolutiva;
+
+Storia della liturgia;
+
+Storia dei rapporti tra Stato e Chiesa;
+
+Dottrina dello Stato;
+
+Storia del diritto romano;
+
+Storia delle istituzioni politiche;
+
+Storia economica;
+
+Scienza della politica;
+
+Storia delle origini cristiane.
+
+Art. 51, relativo alle modalita' degli esami di laurea, comuni a tutte le facolta', e' modificato nel senso che viene aggiunto il seguente ultimo comma: "Il punto tre del presente articolo non si applica alla facolta' di lettere e filosofia".
+
+Dopo l'art. 97 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione, presso la facolta' di medicina e chirurgia, della scuola speciale per dirigenti dell'assistenza infermieristica.
+
+Scuola speciale per dirigenti dell'assistenza infermieristica
+
+Art. 98. - Presso la facolta' di medicina e chirurgia dell'Universita' cattolica del Sacro Cuore in Roma e' istituita ai sensi dell'art. 20 del testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), una scuola speciale per dirigenti della assistenza infermieristica.
+
+La scuola si propone di formare:
+
+a) personale dirigente ed insegnante per scuole professionali per infermiere, per assistenti sanitarie visitatrici, per ostetriche, per vigilatrici d'infanzia;
+
+b) personale dirigente di servizi infermieristici ospedalieri e di sanita' pubblica.
+
+Art. 99. - Il corso degli studi per il conseguimento del diploma di dirigente dell'assistenza infermieristica ha la durata di anni 2.
+
+Art. 100. - La scuola speciale si suddivide in 3 sezioni:
+
+1) Pedagogia per la formazione di personale infermieristico insegnante e di direttrice di scuole per:
+
+infermiere professionali e assistenti sanitarie visitatrici;
+
+ostetriche;
+
+vigilatrici dell'infanzia;
+
+infermiere ed infermieri generici.
+
+2) Amministrativa per i servizi assistenziali, per la formazione di personale infermieristico dirigente di servizi assistenziali (ospedalieri, ambulatori, mutualistici, ecc.);
+
+3) Amministrativa per i servizi medico-sociali, per la formazione di personale dirigente di servizi di sanita' pubblica.
+
+Art. 101. - Per essere ammesse alla scuola le candidate devono essere in possesso dei seguenti titoli:
+
+a) titolo di studio prescritto per l'iscrizione all'universita';
+
+b) diploma di infermiera professionale. Le candidate, oltre a possedere tale diploma, devono aver prestato lodevole servizio per almeno quattro anni presso un ospedale o una scuola per infermiere o in un servizio di sanita' pubblica; tale periodo e' ridotto a 3 anni per le candidate in possesso del diploma di assistente sanitaria visitatrice, di ostetrica o di altra specializzazione legalmente riconosciuta e a 2 anni per le candidate in possesso del certificato di abilitazione alle funzioni direttive;
+
+c) diploma di assistente sanitaria visitatrice (limitatamente alle candidate della sezione dei servizi medico-sociali).
+
+Art. 102. - L'ammissione alla scuola e' subordinata all'esito positivo di un esame psico-diagnostico e attitudinale e all'accertamento della sana e robusta costituzione delle candidate.
+
+Il numero massimo dei posti annualmente disponibili e' fissato in 30 complessivamente per le 3 sezioni e per ciascun anno di corso.
+
+Art. 103. - Il direttore della scuola e' un professore di ruolo della facolta' di medicina e chirurgia, proposto dal consiglio della medesima facolta' e nominato dal rettore. Il direttore rimane in carica per un biennio e puo' essere confermato. La nomina dei docenti e' effettuata dal rettore su proposta del consiglio della facolta' di medicina e chirurgia, udito il direttore della scuola.
+
+Art. 104. - La preparazione specifica delle allieve e' affidata alla scuola convitto professionale per infermiere "A. Barelli", che ha sede nel Policlinico "A. Gemelli" dell'Universita' cattolica del Sacro Cuore (via della Pineta Sacchetti n. 526 - 00168 Roma).
+
+Il direttore della scuola speciale, d'accordo con gli organi direttivi della scuola convitto professionale per infermiere "A.
+
+Barelli", nomina un'infermiera altamente qualificata, la quale viene preposta alla preparazione specifica teorico-pratica delle allieve.
+
+Art. 105. - Le materie d'insegnamento sono le seguenti:
+
+1° Anno:
+
+a) insegnamenti fondamentali comuni a tutte e tre le sezioni:
+
+1) Deontologia professionale;
+
+2) Elementi di microbiologia e igiene;
+
+3) Elementi di pubblica amministrazione;
+
+4) Filosofia morale;
+
+5) Pedagogia;
+
+6) Psicologia;
+
+7) Sociologia;
+
+8) Statistica;
+
+9) Storia dell'assistenza infermieristica;
+
+10) Tecnica infermieristica;
+
+11) Esposizione della dottrina e morale cattolica;
+
+b) insegnamenti complementari comuni a tutte e tre le sezioni:
+
+1) Elementi di anatomia e fisiologia;
+
+2) Elementi di biologia;
+
+3) Elementi di chimica biologica.
+
+Inoltre le allieve sono tenute ad effettuare i seguenti tirocini:
+
+1) Sezione pedagogica;
+
+Esercizi didattici preparatori;
+
+Insegnamento clinico;
+
+Guida educativa di allieve infermiere;
+
+2) Sezione amministrativa per servizi assistenziali:
+
+Esercitazioni nel servizio ospedaliero;
+
+3) Sezione amministrativa per i servizi medico-sociali:
+
+Esercitazioni nei servizi di sanita' pubblica.
+
+2° Anno:
+
+a) insegnamenti fondamentali comuni a tutte e tra le sezioni:
+
+1) Elementi di diritto costituzionale;
+
+2) Elementi di diritto del lavoro;
+
+3) Elementi di legislazione sanitaria;
+
+4) Elementi di patologia medica e chirurgica;
+
+5) Igiene e tecnica ospedaliera;
+
+6) Organizzazione delle associazioni professionali infermieristiche nazionali e internazionali;
+
+7) Organizzazione di scuole per infermiere in Italia e all'estero;
+
+8) Pedagogia applicata alla professione;
+
+9) Principi di amministrazione pubblica applicati all'assistenza infermieristica;
+
+10) Psicologia applicata alla professione;
+
+11) Sociologia;
+
+12) Esposizione della dottrina e morale cattolica;
+
+b) insegnamenti complementari:
+
+1) Elementi di farmacologia e terapia clinica;
+
+2) Elementi di radiologia.
+
+Inoltre le allieve sono tenute ad effettuare i seguenti tirocini:
+
+1) Sezione pedagogica:
+
+Esercitazioni didattiche;
+
+Organizzazione e funzionamento delle scuole;
+
+Visite documentative;
+
+2) Sezione amministrativa per i servizi assistenziali:
+
+Esercitazioni nei servizi ospedalieri;
+
+Visite documentative;
+
+3) Sezione amministrativa per i servizi medico-sociali:
+
+Esercitazioni nei servizi di sanita' pubblica;
+
+Visite documentative.
+
+Art. 106. - Per ottenere l'ammissione al 2° anno occorre aver frequentato i corsi e superato gli esami di tutti gli insegnamenti fondamentali e di almeno un insegnamento complementare del 1° anno ed aver compiuto con esito positivo i prescritti tirocini.
+
+Per ottenere l'ammissione agli esami finali di diploma e' necessario aver frequentato i corsi del 2° anno e superato gli esami di tutti gli insegnamenti fondamentali e di almeno un complementare del medesimo anno ed aver compiuto i tirocini prescritti con esito favorevole.
+
+Art. 107. - L'esame per il conseguimento del "Diploma di dirigente dell'assistenza infermieristica" secondo le varie sezioni della scuola consiste nella discussione di un elaborato scritto, preventivamente assegnato dal direttore della scuola.
+
+Art. 108. - Le commissioni giudicatrici per gli esami di profitto e di diploma sono nominate dal preside della facolta' di medicina e chirurgia, su designazione del consiglio di facolta' e proposta del direttore della scuola.
+
+Le commissioni sono composte:
+
+a) per gli esami di profitto: dal professore ufficiale della materia, che presiede la commissione, e da due professori di insegnamenti affini. Ogni commissario ha a disposizione 10 punti;
+
+b) per gli esami di diploma: dal direttore della scuola, che presiede la commissione, da tre professori e dall'infermiera responsabile della preparazione specifica. Ogni commissario ha a disposizione 10 punti.
+
+Art. 109. - Le tasse, soprattasse e contributi per la scuola sono fissati nella misura seguente:
+
+Tassa di immatricolazione. . . . . . . . . . . . . . . . L. 5.000 Tassa annuale di iscrizione . . . . . . . . . . . . . . L. 43.000 Soprattassa annuale di esami . . . . . . . . . . . . . . L. 7.000 Tassa per l'esame di diploma . . . . . . . . . . . . . . L. 6.000 Soprattassa per l'esame di diploma . . . . . . . . . . . L. 3.000 Soprattassa per ripetizione esami di profitto. . . . . . . L. 500 Soprattassa per ripetizione esami di diploma . . . . . . L. 1.000 Contributo speciale (biblioteca, riscaldamento, ecc.) . L. 37.500 Per il rilascio della tessera. . . . . . . . . . . . . . . L. 500 Per il rilascio del libretto d'iscrizione. . . . . . . . L. 1.500
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 23 settembre 1969
+
+SARAGAT
+
+FERRARI AGGRADI
+
+Visto, il Guardasigilli: GAVA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 21 ottobre 1969 Atti del Governo, registro n. 229, foglio n. 117. - CARUSO
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Lo statuto dell'Universita' cattolica del "S. Cuore" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-L'art. 139, relativo alla scuola di specializzazione in economia agro-alimentare, che muta denominazione in "economia del sistema agro-alimentare", e' sostituito dai seguenti, con lo spostamento della numerazione degli articoli successivi:  
+Veduto lo statuto dell'Universita' cattolica del S. Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Scuola di specializzazione in economia del sistema agro-alimentare  
-Art. 139. - E' istituita presso l'Universita' cattolica del "Sacro Cuore" di Milano la scuola di specializzazione in economia del sistema agro-alimentare, che conferisce il diploma di specialista in economia del sistema agroalimentare.  
-Art. 140. - La direzione della scuola ha sede presso la facolta' di agraria.  
-Art. 141. - La scuola ha lo scopo di fornire una conoscenza specialistica dell'economia del sistema agroalimentare con particolare riferimento:  
-a) a livello di sistema, all'organizzazione dei suoi settori - specie di quello agricolo e dell'industria alimentare - e ai rapporti tra questi settori, in relazione anche all'evoluzione in atto nel mercato internazionale dei prodotti agricoli ed alimentari;  
-b) a livello aziendale, alla direzione ed alla gestione delle imprese private, cooperative e pubbliche del sistema agro-alimentare.  
-Art. 142. - La durata del corso e' di due anni e non e' suscettibile di abbreviazioni.  
-Art. 143. - Il numero degli iscritti e' di venticinque per ogni anno e complessivamente di cinquanta per l'intero corso di studi.  
-Art. 144. - Alla scuola sono ammessi coloro i quali abbiano conseguito il diploma di laurea presso le seguenti facolta': agraria, chimica industriale, economia e commercio, giurisprudenza, ingegneria, medicina veterinaria, scienze economiche e bancarie, scienze economiche e sociali, scienze matematiche, fisiche e naturali, scienze politiche, scienze statistiche demografiche ed attuariali, e qualora prescritto, anche il diploma di abilitazione all'esercizio professionale.  
-Art. 145. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione dei seguenti titoli:  
-a) la tesi nella disciplina attinente alla specializzazione;  
-b) il voto di laurea;  
-c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;  
-d) le pubblicazioni nelle predette materie.  
-Il punteggio dei predetti titoli e' quello stabilito dal decreto ministeriale 16 settembre 1982.  
-Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo riportato.  
-Art. 146. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-1) biotecnologie agro-alimentari (afferente alla facolta' di agraria);  
-2) cicli produttivi e gestione delle scorte (afferente alla facolta' di economia e commercio);  
-3) decisioni di investimento (afferente alla facolta' di economia e commercio);  
-4) economia del mercato internazionale dei prodotti agro-alimentari (afferente alla facolta' di agraria);  
-5) economia del sistema agro-alimentare (afferente alla facolta' di agraria);  
-6) elementi di analisi applicata al sistema agroalimentare (afferente alla facolta' di agraria);  
-7) elementi di economia aziendale (afferente alla facolta' di economia e commercio);  
-8) finanza (afferente alla facolta' di economia e commercio);  
-9) istituzioni di economia agro-alimentare (afferente alla facolta' agraria);  
-10) marketing (afferente alla facolta' di economia e commercio);  
-11) organizzazione del mercato agro-alimentare (afferente alla facolta' di agraria);  
-12) programmazione, pianificazione e controllo (afferente alla facolta' di economia e commercio);  
-13) struttura e politiche dei prezzi dei prodotti agroalimentari (afferente alla facolta' di agraria).  
-2° Anno:  
-1) biotecnologie agro-alimentari (corso progredito) (afferente alla facolta' di agraria);  
-2) cicli produttivi e gestione delle scorte (corso progredito) (afferente alla facolta' di economia e commercio);  
-3) decisioni di investimento (corso progredito) (afferente alla facolta' di economia e commercio);  
-4) econometria (afferente alla facolta' di agraria);  
-5) economia del comportamento del consumatore (afferente alla facolta' di agraria);  
-6) economia del mercato internazionale dei prodotti agro-alimentari (corso progredito) (afferente alla facolta' di agraria);  
-7) economia del sistema agro-alimentare (corso progredito) (afferente alla facolta' di agraria);  
-8) economia e tecnica della pubblicita' (afferente alla facolta' di economia e commercio);  
-9) finanza (corso progredito) (afferente alla facolta' di economia e commercio);  
-10) istituzioni di economia agro-alimentare (corso progredito) (afferente alla facolta' di agraria);  
-11) marketing (corso progredito) (afferente alla facolta' di economia e commercio);  
-12) logistica (afferente alla facolta' di economia e commercio);  
-13) organizzazione aziendale e gestione delle risorse umane (afferente alla facolta' di economia e commercio);  
-14) organizzazione del mercato agro-alimentare (corso progredito) (afferente alla facolta' di agraria);  
-15) politica alimentare (afferente alla facolta' di agraria);  
-16) programmazione, pianificazione e controllo (corso progredito) (afferente alla facolta' di economia e commercio);  
-17) ricerca operativa (afferente alla facolta' di economia e commercio);  
-18) struttura e politiche dei prezzi dei prodotti agroalimentari (corso progredito) (afferente alla facolta' di agraria);  
-19) teoria, tecnica e valutazione dei prodotti di sviluppo (afferente alla facolta' di economia e commercio).  
-Art. 147. - La frequenza dei corsi e ad ogni altra attivita' didattica, nonche' il superamento dell'esame sono obbligatori per gli insegnamenti del primo anno per un totale di dieci annualita', e per gli insegnamenti del secondo anno per un totale di tre annualita' (due insegnamenti semestrali equivalgono a uno annuale) che lo studente deve scegliere, in accordo con il consiglio della scuola, tra quelli attivati con delibera del consiglio medesimo. Ogni insegnamento, a giudizio del consiglio della scuola, potra' avere durata annuale o semestrale.  
-Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione d'esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso. Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.  
-Art. 148. - I doveri e gli adempimenti degli iscritti alla scuola in ordine al programma didattico, alla frequenza alle lezioni, seminari e attivita' pratiche devono soddisfare i seguenti requisiti:  
-a) durante l'anno di corso vengono tenuti seminari, gruppi di studio, discussioni di casi sia con l'ausilio di simulazioni che con visite presso imprese, che costituiscono le attivita' pratiche;  
-b) le attivita' didattiche e pratiche richiedono la frequenza nell'ambito della scuola;  
-c) tenuto conto di quanto stabilito dal primo comma dell'art. 147, eventuali assenze dovranno essere di volta in volta giustificate e comunque non dovranno superare il 10% della durata dei singoli corsi ne' delle attivita' pratiche.  
-Art. 149. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio della scuola di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso. A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.  
-Art. 150. - L'importo delle tasse e soprattasse dovuto dagli studenti della scuola e' quello previsto dallo statuto dell'Universita' cattolica, determinato dal consiglio di amministrazione in base alle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.  
-Art. 151. - Nella scuola e' costituito un consiglio presieduto da un direttore. Il consiglio e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99). Il consiglio esercita le competenze spettanti, ai sensi dell'[art. 94 del decreto del Presidente della Repubblica n. 382/1980](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;382~art94), al consiglio di corso di laurea in materia di coordinamento di insegnamenti.  
-Il direttore viene nominato dal rettore, su proposta del consiglio della scuola tra i professori ordinari, straordinari o fuori ruolo che insegnino anche nella scuola stessa; dura in carica tre anni ed e' riconfermabile. In caso di motivato impedimento la direzione della scuola e' affidata a un professore associato che pure insegni nella scuola medesima.  
+Decreta:   
+  
+Lo statuto dell'Universita' cattolica del S. Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 15. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:   
+Paleografia;   
+Filologia bizantina;   
+Letteratura latina medioevale;   
+Psicologia del lavoro;   
+Psicologia sociale;   
+Ebraico e lingue semitiche;   
+Sanscrito;   
+Storia e critica del cinema;   
+Psicologia dell'eta' evolutiva;   
+Storia della liturgia;   
+Storia dei rapporti tra Stato e Chiesa;   
+Dottrina dello Stato;   
+Storia del diritto romano;   
+Storia delle istituzioni politiche;   
+Storia economica;   
+Scienza della politica;   
+Storia delle origini cristiane.   
+Art. 51, relativo alle modalita' degli esami di laurea, comuni a tutte le facolta', e' modificato nel senso che viene aggiunto il seguente ultimo comma: "Il punto tre del presente articolo non si applica alla facolta' di lettere e filosofia".   
+Dopo l'art. 97 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione, presso la facolta' di medicina e chirurgia, della scuola speciale per dirigenti dell'assistenza infermieristica.   
+  
+Scuola speciale per dirigenti dell'assistenza infermieristica   
+  
+Art. 98. - Presso la facolta' di medicina e chirurgia dell'Universita' cattolica del Sacro Cuore in Roma e' istituita ai sensi dell'art. 20 del testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), una scuola speciale per dirigenti della assistenza infermieristica.   
+La scuola si propone di formare:   
+a) personale dirigente ed insegnante per scuole professionali per infermiere, per assistenti sanitarie visitatrici, per ostetriche, per vigilatrici d'infanzia;   
+b) personale dirigente di servizi infermieristici ospedalieri e di sanita' pubblica.   
+Art. 99. - Il corso degli studi per il conseguimento del diploma di dirigente dell'assistenza infermieristica ha la durata di anni 2.   
+Art. 100. - La scuola speciale si suddivide in 3 sezioni:   
+1) Pedagogia per la formazione di personale infermieristico insegnante e di direttrice di scuole per:   
+infermiere professionali e assistenti sanitarie visitatrici;   
+ostetriche;   
+vigilatrici dell'infanzia;   
+infermiere ed infermieri generici.   
+2) Amministrativa per i servizi assistenziali, per la formazione di personale infermieristico dirigente di servizi assistenziali (ospedalieri, ambulatori, mutualistici, ecc.);   
+3) Amministrativa per i servizi medico-sociali, per la formazione di personale dirigente di servizi di sanita' pubblica.   
+Art. 101. - Per essere ammesse alla scuola le candidate devono essere in possesso dei seguenti titoli:   
+a) titolo di studio prescritto per l'iscrizione all'universita';   
+b) diploma di infermiera professionale. Le candidate, oltre a possedere tale diploma, devono aver prestato lodevole servizio per almeno quattro anni presso un ospedale o una scuola per infermiere o in un servizio di sanita' pubblica; tale periodo e' ridotto a 3 anni per le candidate in possesso del diploma di assistente sanitaria visitatrice, di ostetrica o di altra specializzazione legalmente riconosciuta e a 2 anni per le candidate in possesso del certificato di abilitazione alle funzioni direttive;   
+c) diploma di assistente sanitaria visitatrice (limitatamente alle candidate della sezione dei servizi medico-sociali).   
+Art. 102. - L'ammissione alla scuola e' subordinata all'esito positivo di un esame psico-diagnostico e attitudinale e all'accertamento della sana e robusta costituzione delle candidate.   
+Il numero massimo dei posti annualmente disponibili e' fissato in 30 complessivamente per le 3 sezioni e per ciascun anno di corso.   
+Art. 103. - Il direttore della scuola e' un professore di ruolo della facolta' di medicina e chirurgia, proposto dal consiglio della medesima facolta' e nominato dal rettore. Il direttore rimane in carica per un biennio e puo' essere confermato. La nomina dei docenti e' effettuata dal rettore su proposta del consiglio della facolta' di medicina e chirurgia, udito il direttore della scuola.   
+Art. 104. - La preparazione specifica delle allieve e' affidata alla scuola convitto professionale per infermiere "A. Barelli", che ha sede nel Policlinico "A. Gemelli" dell'Universita' cattolica del Sacro Cuore (via della Pineta Sacchetti n. 526 - 00168 Roma).   
+Il direttore della scuola speciale, d'accordo con gli organi direttivi della scuola convitto professionale per infermiere "A.  
+Barelli", nomina un'infermiera altamente qualificata, la quale viene preposta alla preparazione specifica teorico-pratica delle allieve.   
+Art. 105. - Le materie d'insegnamento sono le seguenti:   
+1° Anno:   
+a) insegnamenti fondamentali comuni a tutte e tre le sezioni:   
+1) Deontologia professionale;   
+2) Elementi di microbiologia e igiene;   
+3) Elementi di pubblica amministrazione;   
+4) Filosofia morale;   
+5) Pedagogia;   
+6) Psicologia;   
+7) Sociologia;   
+8) Statistica;   
+9) Storia dell'assistenza infermieristica;   
+10) Tecnica infermieristica;   
+11) Esposizione della dottrina e morale cattolica;   
+b) insegnamenti complementari comuni a tutte e tre le sezioni:   
+1) Elementi di anatomia e fisiologia;   
+2) Elementi di biologia;   
+3) Elementi di chimica biologica.   
+Inoltre le allieve sono tenute ad effettuare i seguenti tirocini:   
+1) Sezione pedagogica;   
+Esercizi didattici preparatori;   
+Insegnamento clinico;   
+Guida educativa di allieve infermiere;   
+2) Sezione amministrativa per servizi assistenziali:   
+Esercitazioni nel servizio ospedaliero;   
+3) Sezione amministrativa per i servizi medico-sociali:   
+Esercitazioni nei servizi di sanita' pubblica.   
+2° Anno:   
+a) insegnamenti fondamentali comuni a tutte e tra le sezioni:   
+1) Elementi di diritto costituzionale;   
+2) Elementi di diritto del lavoro;   
+3) Elementi di legislazione sanitaria;   
+4) Elementi di patologia medica e chirurgica;   
+5) Igiene e tecnica ospedaliera;   
+6) Organizzazione delle associazioni professionali infermieristiche nazionali e internazionali;   
+7) Organizzazione di scuole per infermiere in Italia e all'estero;   
+8) Pedagogia applicata alla professione;   
+9) Principi di amministrazione pubblica applicati all'assistenza infermieristica;   
+10) Psicologia applicata alla professione;   
+11) Sociologia;   
+12) Esposizione della dottrina e morale cattolica;   
+b) insegnamenti complementari:   
+1) Elementi di farmacologia e terapia clinica;   
+2) Elementi di radiologia.   
+Inoltre le allieve sono tenute ad effettuare i seguenti tirocini:   
+1) Sezione pedagogica:   
+Esercitazioni didattiche;   
+Organizzazione e funzionamento delle scuole;   
+Visite documentative;   
+2) Sezione amministrativa per i servizi assistenziali:   
+Esercitazioni nei servizi ospedalieri;   
+Visite documentative;   
+3) Sezione amministrativa per i servizi medico-sociali:   
+Esercitazioni nei servizi di sanita' pubblica;   
+Visite documentative.   
+Art. 106. - Per ottenere l'ammissione al 2° anno occorre aver frequentato i corsi e superato gli esami di tutti gli insegnamenti fondamentali e di almeno un insegnamento complementare del 1° anno ed aver compiuto con esito positivo i prescritti tirocini.   
+Per ottenere l'ammissione agli esami finali di diploma e' necessario aver frequentato i corsi del 2° anno e superato gli esami di tutti gli insegnamenti fondamentali e di almeno un complementare del medesimo anno ed aver compiuto i tirocini prescritti con esito favorevole.   
+Art. 107. - L'esame per il conseguimento del "Diploma di dirigente dell'assistenza infermieristica" secondo le varie sezioni della scuola consiste nella discussione di un elaborato scritto, preventivamente assegnato dal direttore della scuola.   
+Art. 108. - Le commissioni giudicatrici per gli esami di profitto e di diploma sono nominate dal preside della facolta' di medicina e chirurgia, su designazione del consiglio di facolta' e proposta del direttore della scuola.   
+Le commissioni sono composte:   
+a) per gli esami di profitto: dal professore ufficiale della materia, che presiede la commissione, e da due professori di insegnamenti affini. Ogni commissario ha a disposizione 10 punti;   
+b) per gli esami di diploma: dal direttore della scuola, che presiede la commissione, da tre professori e dall'infermiera responsabile della preparazione specifica. Ogni commissario ha a disposizione 10 punti.   
+Art. 109. - Le tasse, soprattasse e contributi per la scuola sono fissati nella misura seguente:   
+  
+Tassa di immatricolazione. . . . . . . . . . . . . . . . L. 5.000 Tassa annuale di iscrizione . . . . . . . . . . . . . . L. 43.000 Soprattassa annuale di esami . . . . . . . . . . . . . . L. 7.000 Tassa per l'esame di diploma . . . . . . . . . . . . . . L. 6.000 Soprattassa per l'esame di diploma . . . . . . . . . . . L. 3.000 Soprattassa per ripetizione esami di profitto. . . . . . . L. 500 Soprattassa per ripetizione esami di diploma . . . . . . L. 1.000 Contributo speciale (biblioteca, riscaldamento, ecc.) . L. 37.500 Per il rilascio della tessera. . . . . . . . . . . . . . . L. 500 Per il rilascio del libretto d'iscrizione. . . . . . . . L. 1.500   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 gennaio 1985
+### Dato a Roma, addi' 23 settembre 1969
 
-PERTINI
+SARAGAT FERRARI AGGRADI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: GAVA
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 21 ottobre 1969
 
-Registrato alla Corte dei conti, addi' 18 marzo 1985
-
-Registro n. 15 Istruzione, foglio n. 400
+Atti del Governo, registro n. 229, foglio n. 117. - CARUSO

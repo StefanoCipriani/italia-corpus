@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1949 n. 1027
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1982 n. 1193
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1949 n. 1027
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1982 n. 1193
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
@@ -10,121 +10,151 @@ Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regi decreti 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1743) e [26 marzo 1942, n. 328, e con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-03-26;328) [22 ottobre 1946, n. 398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-10-22;398);
+Veduto lo statuto dell'Universita' di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Vedute le proposte di modificazione allo statuto formulate dalle autorita' accademiche della predetta Universita';
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Sulla
------
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-proposta del Ministro per la pubblica istruzione; Decreta:
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Articolo unico
---------------
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Cagliari e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 1
+------
+
+  
+Art. 74 - gli insegnamenti del biennio propedeutico e del triennio di applicazione del corso di laurea in ingegneria meccanica, sono soppressi e sostituiti dai seguenti:  
+  
+BIENNIO PROPEDEUTICO  
+  
+1° Anno:  
+1) analisi matematica I;  
+2) chimica;  
+3) disegno I;  
+4) fisica I;  
+5) geometria.  
+2° Anno:  
+6) analisi matematica II;  
+7) fisica II;  
+8) meccanica razionale;  
+9) disegno II;  
+  
+TRIENNIO  
+  
+10) chimica applicata;  
+11) disegno di macchine;  
+12) elettrotecnica;  
+13) fisica tecnica;  
+14) meccanica applicata alle macchine;  
+15) scienza delle costruzioni;  
+16) tecnologie meccaniche;  
+17) calcolo numerico;  
+18) costruzioni di macchine;  
+19) idraulica (meccanica dei fluidi);  
+20) macchine;  
+21) controlli automatici;  
+22) tecnica delle costruzioni;  
+23) impianti meccanici;  
+24) misure meccaniche, termiche e collaudi;  
+25) economia ed organizzazione aziendale;  
+26) progetti di macchine;  
+27-30) un gruppo di materie a scelta fra quelle elencate nell'art. 78.  
+
+Art. 2
+------
+
+  
+Art. 75 - Gli insegnamenti del biennio propedeutico e del triennio di applicazione del corso di laurea in ingegneria elettrotecnica sono soppressi e sostituiti dai seguenti:  
+  
+BIENNIO PROPEDEUTICO  
+  
+1° Anno:  
+1) analisi matematica I;  
+2) chimica;  
+3) disegno I;  
+4) fisica I;  
+5) geometria;  
+2° Anno:  
+6) analisi matematica II;  
+7) meccanica razionale;  
+8) fisica II;  
+9) metodi di osservazione e misure;  
+10) calcolo numerico;  
+  
+TRIENNIO  
+  
+11) scienza delle costruzioni;  
+12) meccanica applicata alle macchine;  
+13) fisica tecnica;  
+14) elettrotecnica;  
+15) idraulica;  
+16) misure elettriche;  
+17) macchine;  
+18) macchine elettriche;  
+19) impianti elettrici;  
+20) elettronica applicata;  
+21) economia ed organizzazione aziendale;  
+22) analisi dei sistemi;  
+23) complementi di elettrotecnica;  
+24) controlli automatici;  
+25) telecomunicazioni;  
+26-30) un gruppo di materie a scelta fra quelle elencate nell'art. 78.  
+
+Art. 3
+------
 
   
   
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato.  
-Dopo l'art. 85 vengono aggiunti i seguenti articoli:  
-  
-Scuola di specializzazione in medicina del lavoro.  
-  
-Art. 86. - Alla Facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in clinica delle malattie del lavoro, con sede presso la clinica medica generale, e con un numero massimo di dodici iscritti fra i tre corsi.  
-Il direttore della clinica medica e' direttore della scuola di specializzazione.  
-Art. 87. - La durata dei suoi corsi e' di anni tre.  
-Art. 88. - Le materie di insegnamento e la loro ripartizione nei singoli anni sono le seguenti:  
-Anno 1°:  
-1) fisiologia del lavoro (annuale);  
-2) fisiopsicotecnica del lavoro (annuale);  
-3) patologia e clinica delle malattie del lavoro (triennale);  
-4) igiene del lavoro (annuale);  
-5) semeiologia e ricerche di laboratorio delle malattie del lavoro (annuale).  
-Anno 2°:  
-1) patologia e clinica delle malattie del lavoro (triennale);  
-2) semeiologia e ricerche di laboratorio delle malattie del lavoro (biennale);  
-3) radiodiagnostica delle malattie del lavoro (biennela);  
-4) infortunistica medico-legale e legislazione del lavoro (annuale);  
-5) infortunistica chirurgica (biennale).  
-Anno 3°:  
-1) patologia e clinica delle malattie del lavoro;  
-2) radiodiagnostica delle malattie del lavoro;  
-3) infortunistica chirurgica.  
-  
-Scuola di specializzazione in urologia.  
-  
-Art. 89. - Alla Facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in urologia con sede presso la clinica; chirurgica e con un numero massimo di dodici inscritti nei tre corsi.  
-Art. 90. - La durata dei suoi corsi e' stabilita in anni tre.  
-Art. 91. - Le materie di insegnamento sono le seguenti:  
-Anno 1°:  
-1) anatomia del sistema urinario;  
-2) fisiologia del sistema urinario;  
-3) patologia chirurgica e semeiologia del sistema urinario (biennale);  
-4) anatomia patologica del sistema urinario (biennale).  
-Anno 2°:  
-1) anatomia patologica del sistema urinario;  
-2) patologia chirurgica e semeiologia del sistema urinario;  
-3) tecnica diagnostica, uroscopia e di laboratorio;  
-4) clinica chirurgica urologica e tecnica operativa.  
-Anno 3°:  
-1) clinica chirurgica urologica e tecnica operativa;  
-2) tecnica diagnostica uroscopica e di laboratorio;  
-3) radiologia delle vie urinarie.  
-  
-Scuola di specializzazione in dermosifilopatica.  
-  
-Art. 92. - Alla Facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in dermosifilopatica con sede presso la clinica dermosifilopatica e con un numero massimo di otto inseriti nei due corsi.  
-Art. 93. - La durata dei corsi e' stabilita in due anni.  
-Art. 94. - Le materie di insegnamento sono le seguenti:  
-Anno 1°:  
-1) anatomia ed istologia normale della cute e degli organi genitali;  
-2) fisiologia della cute e degli organi genitali;  
-3) farmacologia e tecnica terapeutica dermatovenerologica;  
-4) anatomia patologica della cute e degli organi genitali;  
-5) clinica delle malattie cutanee e veneree (biennale).  
-Anno 2°:  
-1) terapia fisica delle malattie cutanee e veneree;  
-2) tecnica diagnostica e di laboratorio;  
-3) legislazione sanitaria e medicina legale dermatovenerologica;  
-4) malattie cutanee tropicali e subtropicali;  
-5) clinica delle malattie cutanee e venerologiche (biennale).  
-  
-Scuola di specializzazione clinica oculistica.  
-  
-Art. 95. - Alla Facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in oculistica, con sede presso la clinica oculistica.  
-Art. 96. - La durata dei suoi corsi e' di tre anni.  
-Art. 97. - Le materie di insegnamento sono le seguenti:  
-Anno 1°:  
-1) anatomia e fisiologia dell'apparato visivo;  
-2) semeiotica oculare;  
-3) igiene e profilassi;  
-4) patologia oculare (biennale).  
-Anno 2°:  
-1) patologia oculare (biennale);  
-2) anatomia patologica (annuale);  
-3) ottica fisiologica;  
-4) oftalmoscopia;  
-5) clinica oculare (biennale).  
-Anno 3°:  
-1) clinica oculare (biennale);  
-2) tecnica operativa;  
-3) organo visivo e malattie generali e nervose;  
-4) infortunistica e medicina legale.  
-Le spese relative al funzionamento delle predette scuole saranno a carico del bilancio ordinario dell'Universita' di Cagliari.  
+Art. 78 - nell'elenco degli insegnamenti complementari sono inclusi i seguenti:   
+valorizzazione mineralurgica dei rifiuti urbani ed industriali; trattamento e valorizzazione dei combustibili fossili;   
+coltivazione e gestione delle cave;   
+sicurezza e salubrita' delle miniere e delle cave;   
+disegno e rilievo;   
+percezione e tecniche di rappresentazione;   
+tecniche della comunicazione;   
+teoria della plasticita';   
+instabilita' delle strutture;   
+pianificazione e programmazione dei trasporti;   
+trasporti speciali;   
+elementi tecnici dell'urbanistica;   
+affidabilita' strutturale degli elementi meccanici;   
+oliodinamica e pneumatica;   
+servizi di stabilimento;   
+sperimentazione sulle macchine a fluido;   
+teoria e tecnica della combustione;   
+complementi di matematica.   
+Nello stesso elenco, inoltre, cambiano denominazione i seguenti insegnamenti complementari:   
+da "complementi di mineralogia e petrografia" in complementi di giacimentologia e petrografia";   
+da "macchine II" in "complementi di macchine "; da "programmazione degli impianti meccanici e manutenzione programmati" in "gestione degli impianti meccanici";   
+da "termofluidodinamica delle macchine" in "fluidodinamica delle macchine".   
+Nello stesso elenco, infine, viene soppresso l'insegnamento complementare di "generatori di vapori e tecnica della combustione" e sostituito dal seguente: "generatori di vapore".   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Dogliani, addi' 30 ottobre 1949
+### Dato a Roma, addi' 30 ottobre 1982
 
-EINAUDI GONELLA
+PERTINI BODRATO
 
-Visto, il Guardasigilli: GRASSI
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 17 gennaio 1950
+Registrato alla Corte dei conti, addi' 6 giugno 1983
 
-Atti del Governo, registro n. 31, foglio n. 42. - FRASCA
+Registro n. 41 Istruzione, foglio n. 131

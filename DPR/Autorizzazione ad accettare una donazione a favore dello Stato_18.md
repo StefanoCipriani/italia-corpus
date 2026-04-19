@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 gennaio 1980 n. 611
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1974 n. 481
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 gennaio 1980 n. 611
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1974 n. 481
+=============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-611. Decreto del Presidente della Repubblica 15 gennaio 1980, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato della donazione disposta dalle signore Beatrice e Olga Capogrossi come da atto 1 giugno 1977, n. 20 di repertorio, a rogito dott.  
-Giovanni Gilardoni, notaio in Roma, consistente in una collezione composta di un gruppo di cinque opere, le quali rivestono un importante interesse artistico, da destinare alla Galleria nazionale d'arte moderna e contemporanea in Roma.  
+481. Decreto del Presidente della Repubblica 22 luglio 1974, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione a favore dello Stato, consistente in un appezzamento di terreno di ettari 1.04.85 sito in Monastir (Cagliari), disposta dall'ente comunale di assistenza di Monastir con atto 20 aprile 1972, n. 63847 di repertorio a rogito notaio Antonio Loi di Cagliari.  
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 7 luglio 1980  
-Registro n. 11 Beni culturali, foglio n. 152
+Visto, il Guardasigilli: ZAGARI  
+Registrato alla Corte dei conti, addi' 26 settembre 1974  
+Atti di Governo, registro n. 5, foglio n. 89. - SCIARRETTA

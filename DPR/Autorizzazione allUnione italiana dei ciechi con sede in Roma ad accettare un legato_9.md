@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 marzo 1973 n. 188
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 settembre 1964 n. 1153
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 marzo 1973 n. 188
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 settembre 1964 n. 1153
+=================================================================
 
 Autorizzazione all'Unione italiana dei ciechi, con sede in Roma, ad accettare un legato.
 ----------------------------------------------------------------------------------------
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-188. Decreto del Presidente della Repubblica 12 marzo 1973, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, con sede in Roma, viene autorizzata ad accettare il legato, disposto dalla signora Pia Ghiri, vedova Eschini, con testamento pubblico dell'11 aprile 1962 (n. 142 di repertorio), pubblicato in data 29 agosto 1967 a rogito del dott.  
-Raffaele Marchitelli, registrato a Pistoia in data 1 settembre 1967 al n. 29-B/mod. I, in favore della sezione provinciale di Pistoia dell'U.I.C., costituito dei seguenti immobili siti in Pistoia e valutati complessivamente in L. 7.490.000: 1) appartamento di vani 4 ed accessori al piano terra del fabbricato ubicato in via Campo Marzio n. 39; 2) appartamento di vani 1 ed accessori al primo piano del fabbricato ubicato in via Campo Marzio n. 39; 3) appartamento di vani 4 ed accessori al primo piano del fabbricato ubicato in via Campo Marzio n. 33.  
+1153. Decreto del Presidente della Repubblica 19 settembre 1964, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, con sede in Roma, viene autorizzata ad accettare un legato a favore della "Unione per l'assistenza ai ciechi di Brescia", disposto dal defunto sig. Luigi Colombo, con testamento olografo del 16 marzo 1961, pubblicato per atto a rogito dott. Gerolamo Calini, notaio residente in Brescia, in data 8 giugno 1962, n. 78-41 di repertorio, n. 4985 di racc.  
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 2 maggio 1973  
-Atti di Governo, registro n. 258, foglio n. 5. - VALENTINI
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 6 novembre 1964  
+Atti del Governo, registro n. 188, foglio n. 31. - VILLA

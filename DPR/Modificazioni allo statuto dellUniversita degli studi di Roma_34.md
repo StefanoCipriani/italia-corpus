@@ -1,160 +1,144 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1967 n. 1055
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1970 n. 827
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1967 n. 1055
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1970 n. 827
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla
+-----
+
+proposta del Ministro per la pubblica istruzione; Decreta:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Gli ultimi due comma del n. 7 della Tabella XXIX - Facolta' di ingegneria - annessa al [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), sono abrogati e sostituiti dai seguenti:  
+"Gli insegnamenti di cui alla lettera c) verranno indicati in apposito elenco stabilito nello statuto. Da tale elenco la facolta' trarra', per i singoli corsi di laurea, le materie da attivare, che indichera', anno per anno, nel manifesto degli studi. Nel manifesto, pero', le materie non figureranno isolate, ma raggruppate a costituire indirizzi di specializzazione, tipici di ciascuna scuola.  
+Per ciascun indirizzo potranno al massimo essere prescritti sei corsi annuali (od equivalenti)".  
+
+Art. 2
+------
+
   
-Decreta:  
   
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti suindicati, e' ulteriormente modificato come appresso:   
+Art. 120, relativo agli istituti della facolta' di ingegneria e' modificato nel senso che ai vari istituti vengono attribuiti i seguenti corsi:   
   
-Art. 80. - Relativo agli istituti scientifici della facolta' di Medicina e chirurgia e' modificato come segue:  
+Istituto di architettura e urbanistica: pianificazione urbanistica;   
+Istituto di arte mineraria: meccanica delle rocce (semestrale);   
+Istituto di automatica: misure e strumentazione automatica; sistemi combinatori e sequenziali (semestrale);   
+Istituto di chimica: istituzioni di chimica (semestrale);   
+Istituto di chimica applicata e industriale: tecnologia degli alti polimeri; tecnologia dei materiali per alte temperature (semestrale);   
+Istituto di costruzioni idrauliche: idrologia, geomorfologia e difesa del territorio (semestrale);   
+Istituto di elettronica: elettronica dello stato solido (semestrale); sistemi digitali (semestrale);   
+Istituto elettrotecnico: centrali elettriche (semestrale); tecnica delle alte tensioni (semestrale);   
+Istituto di fisica: optoelettronica (semestrale); principi di dosimetria e protezione dalle radiazioni (semestrale); fisica dello stato solido (semestrale);   
+Istituto di fisica tecnica: acustica tecnica (semestrale); termotecnica;   
+Istituto di macchine e tecnologie meccaniche: generatori di vapore (semestrale);   
+Istituto di matematica applicata: analisi numerica con elementi di programmazione; calcolo delle probabilita' e statistica applicata all'ingegneria; ricerca operativa;   
+Istituto di metallurgia: siderurgia;   
+Istituto di scienza delle costruzioni: meccanica delle terre e tecnica delle fondazioni; principi di progettazione strutturale; tecnica delle costruzioni prefabbricate (semestrale); teoria delle strutture;   
+Istituto di trasporti: elementi di trasporti.   
+I seguenti insegnamenti dei vari corsi di laurea in ingegneria sono abrogati:   
   
-Gli istituti di "semeiotica chirurgica" e di "semeiotica medica" sono soppressi e al loro posto sono istituiti gli istituti di "seconda clinica chirurgica" e di "seconda patologia speciale medica".  
-Gli istituti di "farmacologia", di "clinica ortopedica", di "urologia", di "igiene" mutano rispettivamente denominazione in:  
-istituto di Farmacologia medica;  
-istituto di Clinica urologica;  
-istituto di Clinica ortopedica e traumatologica;  
-istituto di Igiene, nel quale funziona anche un servizio antirabbico.  
-L'ultimo comma e' soppresso.  
+Antenne e propagazione;   
+Impianti tecnici dell'edilizia;   
+Teoria statistica delle comunicazioni;   
+Estimo civile (semestrale);   
+Progetti di strade (semestrale);   
+Tecnica dei controlli automatici (semestrale);   
+Chimica analitica;   
+Elettrochimica;   
+Idrologia e idraulica agraria (semestrale);   
+Legislazione dei lavori;   
+Materiali e geotecnica applicata (semestrale);   
+Petrolchimica ed alti polimeri;   
+Tecnica ed economia dei trasporti I;   
+Tecnica ed economia dei trasporti II;   
+Tecnica del traffico e della circolazione;   
+Tecnologie generali;   
+Tecnologie speciali metallurgiche.   
+Dopo l'art. 132, e con il conseguente spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo all'elenco degli insegnamenti complementari della facolta' di ingegneria.   
+Art. 133. - Insegnamenti complementari:   
   
-Art. 528. - Relativo alla scuola di neuropsichiatria infantile e' modificato nel senso che il secondo comma e' abrogato e sostituito dal seguente: "La direzione della scuola e' affidata al titolare della cattedra di neuropsichiatria infantile".  
-Il direttore della Scuola, su conforme parere del consiglio della facolta', puo' proporre che un insegnante della scuola assuma le funzioni di vice-direttore, con lo incarico di coadiuvarlo e di sostituirlo; alla relativa nomina provvede il rettore".  
-  
-Art. 602. - E' abrogato e sostituito dal seguente:  
-"La scuola speciale per terapisti della riabilitazione ha sede presso la clinica delle malattie nervose e mentali. Essa ha lo scopo di dare una preparazione completa, teorica e pratica, agli allievi, istruendoli sui problemi della riabilitazione dei minorati fisici e psichici con particolare riguardo ai minorati per lesioni organiche del sistema nervoso e di quelli affetti da disturbi organici del linguaggio, suscettibili di recupero funzionale e sociale mediante terapie fisiche, chinesiterapiche, occupazionali e del linguaggio".  
-  
-Art. 603. - Relativo alla suddetta scuola e' modificato nel senso che l'ultimo comma e' abrogato e sostituito dal seguente:  
-"Gli allievi hanno l'obbligo della frequenza alle lezioni ed ai tirocini".  
-  
-Art. 604. - Relativo alla suddetta scuola e' modificato nel senso che per l'ammissione alla scuola l'eta' di 17 anni puo' essere compiuta entro l'anno solare.  
-  
-Art. 606. - Relativo alla suddetta scuola e' abrogato e sostituito dal seguente:  
-  
-"Direttore della scuola e' di diritto il titolare della cattedra della clinica delle malattie nervose e mentali dell'universita'. Il direttore puo' farsi coadiuvare da un vice direttore nominato dal rettore su sua proposta".  
-  
-Gli articoli 607, 608, 609, 610, 611 e 612 della suddetta scuola sono abrogati e sostituiti dai seguenti con il conseguente spostamento della successiva numerazione.  
-Art. 607. - Le materie di insegnamento del I anno sono:  
-1) nozioni generali di anatomia, fisiologia;  
-2) anatomia del sistema nervoso;  
-3) fisiologia del sistema nervoso;  
-4) anatomia e fisiologia dell'apparato motore;  
-5) igiene e medicina sociale;  
-6) nozioni fondamentali di psichiatria;  
-7) psicologia e psicopatologia del minorato;  
-8) chinesiologia e diagnostica dei disturbi del movimento;  
-9) metodologia di fisioterapia;  
-10) metodologia di terapia occupazionale;  
-11) clinica della riabilitazione.  
-  
-Le materie di insegnamento del II anno sono:  
-1) nozioni generali di patologia;  
-2) fisiologia del sistema nervoso;  
-3) patologia e clinica del sistema nervoso;  
-4) patologia e clinica dell'apparato motore;  
-5) anatomia, fisiologia, patologia degli organi della parola e dell'udito;  
-6) neuropsichiatria infantile;  
-7) paralisi cerebrali infantili;  
-8) riabilitazione geriatrica;  
-9) nozioni di reumatologia;  
-10) elettroterapia ed altre terapie fisiche;  
-11) chinesiologia e diagnostica dei disturbi del movimento;  
-12) metodologia di fisioterapia;  
-13) metodologia di terapia occupazionale;  
-14) metodologia di terapia del linguaggio;  
-15) servizio sociale e relazioni umane;  
-16) clinica della riabilitazione.  
-  
-Nel secondo anno viene dato particolare risalto alle dimostrazioni pratiche per tutte le materie di insegnamento. I corsi regolari saranno integrati da conferenze su argomenti specifici, proiezioni, visite ad altri Istituti.  
-  
-Art. 608. - Per essere ammessi al secondo anno occorre aver superato gli esami di cui ai numeri 1, 2, 4, 7, 8, 9, 10 dell'articolo precedente ed aver completato la prima parte del tirocinio. Per essere ammessi al terzo anno gli allievi dovranno aver superato tutti gli esami del primo anno e gli esami di cui ai numeri 1, 2, 3, 4, 5, 7, 11, 12, 13, 16 del secondo anno ed aver completato la seconda parte del tirocinio.  
-  
-Art. 609. - Per poter essere ammessi alla discussione della tesi di diploma gli allievi dovranno presentare all'universita' una dichiarazione del direttore della scuola attestante la frequenza al tirocinio del terzo anno.  
-L'esame per il conseguimento del diploma di terapista della riabilitazione consiste nella discussione di una tesi scritta su un tema preventivamente assegnato dal direttore della scuola.  
-L'esame di diploma dovra' essere superato non oltre 6 anni dalla data di immatricolazione.  
-  
-Norme transitorie  
-  
-Alla data dell'entrata in vigore delle presenti disposizioni gli studenti dei precedenti corsi per terapisti della riabilitazione, tenuti presso la clinica delle malattie nervose e mentali dell'Universita' di Roma, possono chiedere l'abbreviazione degli studi in base agli esami sostenuti, ed essere ammessi a giudizio del consiglio dei professori al secondo o terzo anno della scuola speciale per terapisti della riabilitazione o alla discussione della tesi di diploma.  
-Gli ex iscritti ai corsi per terapisti della riabilitazione, tenuti presso la clinica delle malattie nervose e mentali dell'Universita' di Roma, che abbiano sostenuto tutti gli esami e la tesi finale di diploma presso di essa, potranno ottenere il corrispondente diploma della scuola speciale per terapisti della riabilitazione previo colloquio integrativo.  
-Gli articoli 610, 611, 612, 614, 615, 616, 617, 620, 622, relativi alla scuola speciale di servizio sociale ad indirizzo sanitario psicologico sono modificati nel modo seguente:  
-  
-Art. 610. - E' abrogato e sostituito dal seguente:  
-"Presso l'istituto di psicologia della facolta' di medicina e chirurgia e' istituita la "scuola speciale di servizio sociale", ai sensi dell'art. 20, terzo comma, lettera a) del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592).  
-La scuola si propone di preparare all'esercizio professionale del servizio sociale, mediante l'insegnamento teorico di discipline di base e professionali, integrato da esercitazioni e tirocini professionali, come stabilito dall'art. 620.  
-La scuola conferisce il diploma di "assistente sociale".  
-  
-Art. 611. - Il terzo comma e' abrogato e sostituito dal seguente:  
-"I docenti, il direttore delle esercitazioni e dei tirocini professionali ed i monitori sono proposti annualmente dal direttore della scuola, su parere conforma del consiglio della scuola stessa e, relativamente ai docenti di quegli insegnamenti che rientrano nelle competenze della facolta' di medicina e chirurgia, su parere anche di quest'ultima. Alla nomina provvede il rettore dell'Universita' di Roma".  
-  
-Art. 612. - E' abrogato e sostituito dal seguente:  
-"Possono essere ammessi alla scuola coloro che siano in possesso di un titolo di studi medi superiori valido per l'immatricolazione ai corsi universitari di laurea.  
-Le iscrizioni al primo anno, il numero massimo delle quali potra' essere stabilito dal consiglio della scuola, sono subordinate in ogni caso al superamento di prove di valutazione personale".  
-  
-Art. 614. - Il secondo comma e' abrogato e sostituito dal seguente: "Per i problemi di carattere tecnico riguardanti la formazione professionale degli assistenti sociali, partecipano alle adunanze del consiglio della scuola anche i monitori".  
-  
-Art. 615. - I numeri 2) e 7) sono abrogati e sostituiti dai seguenti:  
-2) esprimere il proprio parere sulle proposte del direttore della scuola relativamente alla nomina dei docenti, del direttore delle esercitazioni e tirocini professionali, e dei monitori;  
-7) proporre al rettore la nomina dei professori dell'Universita' di Roma di cui al punto c) dell'art. 616.  
-  
-Art. 616. - E' abrogato e sostituito dal seguente:  
-"Per i problemi di carattere amministrativo, il direttore della scuola e' assistito da un apposito comitato, composto:  
-a) dallo stesso direttore della scuola, che lo presiede;  
-b) dal vice-direttore della scuola che presiede il comitato in caso di assenza o impedimento del direttore;  
-c) da altri professori dell'Universita' di Roma (di ruolo, fuori ruolo, incaricati, liberi docenti) di discipline che rientrino nell'ordinamento degli studi della scuola, eventualmente docenti della scuola stessa; il loro numero non potra' essere inferiore al numero complessivo dei membri di cui al punto e) del presente articolo;  
-d) dal direttore delle esercitazioni e dei tirocini professionali, che assolve anche funzioni di segretario del comitato;  
-e) da rappresentanti degli enti o privati che concorrano alle spese di funzionamento della scuola con contributi annui individuali; a tal uopo, ciascun ente o privato che concorra con un contributo annuo individuale non inferiore a L. 3.000.000 potra' designare un rappresentante per ogni 3.000.000 di lire, mentre gli enti o privati che concorrano con minor contributo annuo, purche' non inferiore a L. 500.000, hanno diritto di designare collegialmente propri rappresentanti in ragione di un membro per ogni sei contribuenti.  
-  
-Art. 617. - E' abrogato e sostituito dal seguente:  
-"Spetta al comitato amministrativo della scuola, di cui all'articolo precedente:  
-1) proporre al rettore l'ammontare delle tasse, soprattasse e contributi generali e speciali dovuti dagli allievi;  
-2) determinare i compensi da corrispondere ai docenti, al direttore delle esercitazioni e dei tirocini professionali, ai monitori e a tutti coloro che prestano la loro opera nella scuola, salvo che i compensi stessi non siano fissati da disposizioni legislative;  
-3) autorizzare ogni altra spesa occorrente al funzionamento della scuola;  
-4) approvare il bilancio interno della scuola.  
-Detto comitato puo' autorizzare il proprio presidente a provvedere direttamente, in casi determinati ed entro determinati limiti, a spese non ricorrenti.  
-Il direttore della scuola da' esecuzione alle deliberazioni del comitato, conformi al bilancio interno ed alle norme amministrative contenute nella legislazione universitaria.  
-  
-Art. 620. - Gli insegnamenti di base del gruppo A di psicologia (generale, differenziale, clinica, dell'eta' evolutiva, sociale, applicata) (triennale); di elementi di sociologia e antropologia culturale (biennale); di elementi di diritto pubblico e privato (biennale) e di elementi di economia politica e storia politico-economico-sociale (triennale) sono abrogati e sostituiti rispettivamente da quelli di:  
-psicologia (triennale);  
-sociologia e antropologia culturale (biennale);  
-diritto pubblico e privato (biennale);  
-economia politica e politica economico-sociale (triennale).  
-  
-L'insegnamento professionale del gruppo B di servizio sociale di gruppo e di comunita' (biennale) e' abrogato e sostituito dai due seguenti:  
-  
-Servizio sociale di gruppo (biennale);  
-Servizio sociale di comunita' (biennale).  
-  
-Art. 622. - II comma b) e' abrogato e sostituito dal seguente:  
-b) i settori nei quali verranno svolti i tirocini professionali nel corso dell'anno accademico.  
+Acustica tecnica (semestrale);   
+Analisi numerica con elementi di programmazione;   
+Calcolo delle probabilita' e statistica applicata all'ingegneria;  
+Elementi di trasporti;   
+Elettronica dello stato solido (semestrale);   
+Generatori di vapore (semestrale);   
+Idrologia, geomorfologia e difesa del territorio (semestrale);   
+Istituzioni di chimica (semestrale);   
+Centrali elettriche (semestrale);   
+Meccanica delle rocce (semestrale);   
+Meccanica delle terre e tecnica delle fondazioni;   
+Misure e strumentazione automatica;   
+Optoelettronica (semestrale);   
+Pianificazione urbanistica;   
+Principi di dosimetria e protezione dalle radiazioni (semestrale);   
+Principi di progettazione strutturale;   
+Ricerca operativa;   
+Siderurgia;   
+Sistemi combinatori e sequenziali (semestrale);   
+Sistemi digitali (semestrale);   
+Tecnica delle alte tensioni (semestrale);   
+Tecnica delle costruzioni prefabbricate (semestrale);   
+Tecnologia degli alti polimeri;   
+Tecnologia dei materiali per alte temperature (semestrale);   
+Teoria delle strutture;   
+Termotecnica;   
+Fisica dello stato solido (semestrale);   
+Antenne e propagazione;   
+Impianti tecnici dell'edilizia;   
+Teoria statistica delle comunicazioni;   
+Economia applicata all'ingegneria;   
+Tecnica dei lavori stradali;   
+Controlli automatici negli impianti chimici;   
+Controllo chimico dei processi industriali;   
+Corrosione e protezione dei materiali;   
+Idraulica agraria (semestrale);   
+Legislazione delle opere pubbliche e dei lavori;   
+Geotecnica applicata alle opere idrauliche (semestrale);   
+Tecnologia del petrolio e petrolchimica;   
+Fondamenti di trasporti;   
+Sistemi di trasporto terrestri;   
+Pianificazione dei trasporti;   
+Scienza dei materiali;   
+Metallurgia dei metalli non ferrosi.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo, a chiunque spetti di osservarlo e di farlo osservare.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 settembre 1967
+### Dato a Roma, addi' 27 settembre 1970
 
-Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA GUI
+SARAGAT MISASI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 15 novembre 1967
+Registrato alla Corte dei conti, addi' 17 novembre 1970
 
-Atti del Governo, registro n. 214, foglio n. 149. - GRECO
+Atti del Governo, registro n. 238, foglio n. 64. - CARUSO

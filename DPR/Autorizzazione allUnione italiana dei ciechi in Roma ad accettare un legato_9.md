@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1978 n. 517
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 155
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1978 n. 517
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 155
+===============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare un legato.
 -------------------------------------------------------------------------------
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-517. Decreto del Presidente della Repubblica 25 luglio 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Elisa Ardaine ved.  
-Salvaneschi con testamento olografo 18 ottobre 1954, pubblicato a rogito notaio dott. Federico Bottino di Torino in data 22 maggio 1974, n. 32091 di repertorio e n. 6350 di raccolta, registrato a Torino il 1° giugno 1974 al n. 17974, vol. 1275, consistente nei proventi dei diritti letterari sulle opere del dott. Salvaneschi Giovanni detto Nino, il cui importo per l'anno 1973 e' stato di L. 217.616 e per gli anni successivi si presume in L. 200.000.   
+155. Decreto del Presidente della Repubblica 26 febbraio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il legato di L. 2.000.000 disposto dalla sig.na Borsetti Clelia con testamento olografo 30 luglio 1977, pubblicato a rogito dott. Afferni Angelo, notaio in Biella (Vercelli), il 28 settembre 1978, n. 1651 di repertorio e n. 110 di fascicolo, registrato a Biella il 16 ottobre 1978 al n. 5865, vol. 149.  
   
-Visto, il Guardasigilli: BONIFACIO   
-Registrato alla Corte dei conti, addi' 30 agosto 1978   
-Registro n. 6 Presidenza, foglio n. 163
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 31 marzo 1982  
+Registro n. 3 Presidenza, foglio n. 115

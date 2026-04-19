@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 novembre 1983 n. 1013
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1979 n. 428
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 novembre 1983 n. 1013
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1979 n. 428
+=============================================================
 
 Modificazione all'ordinamento didattico universitario.
 ------------------------------------------------------
@@ -18,29 +18,28 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Riconosciuta l'opportunita' di procedere ad una modifica dell'ordinamento didattico vigente per gli studi del corso di laurea in medicina e chirurgia;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
 Sulla
 -----
 
 proposta del Ministro della pubblica istruzione; Decreta:
 
-Articolo unico
---------------
+Art. 1
+------
 
-  
-La tabella XVIII dell'ordinamento didattico universitario, annessa al [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), concernente il corso di laurea in medicina e chirurgia, e' modificata nel senso che l'insegnamento complementare di puericultura, previsto dalla citata tabella XVIII, muta la denominazione in quella di "pediatria sociale e puericultura".  
-  
+Art. 2
+------
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 novembre 1983
+### Dato a Roma, addi' 11 giugno 1979
 
-PERTINI FALCUCCI
+PERTINI SPADOLINI
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 29 febbraio 1984
+Registrato alla Corte dei conti, addi' 28 agosto 1979
 
-Registro n. 13 Istruzione, foglio n. 39
+Registro n. 66 Istruzione, foglio n. 94

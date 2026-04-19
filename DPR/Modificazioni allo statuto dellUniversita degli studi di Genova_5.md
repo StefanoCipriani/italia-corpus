@@ -1,67 +1,77 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1202
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 350
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1202
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 350
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
+
+Veduto il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica amministrazione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Nell'art. 9, relativo al corso di laurea in giurisprudenza.  
+nell'elenco degli insegnamenti complementari sono inseriti i seguenti insegnamenti:  
+diritto sindacale italiano e comparato;  
+diritto penale processuale e comparato.  
+
+Art. 2
+------
+
   
-Decreta:  
+Nell'art. 66, relativo al corso di laurea in pedagogia, nell'elenco degli insegnamenti complementari e' inserito l'insegnamento di "storia della storiografia filosofica".  
+
+Art. 3
+------
+
   
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-l'art. 122, relativo all'elenco delle scuole di specializzazione annessa alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola in "Angiologia" muta denominazione in quella di "Chirurgia vascolare".  
-Gli articoli 254, 255 e 256, relativi alla scuola di specializzazione in angiologia che assume la denominazione di scuola di specializzazione in chirurgia vascolare, sono abrogati e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in chirurgia vascolare  
-Art. 254 - Presso la clinica chirurgica e' istituita la scuola di specializzazione in chirurgia vascolare, la quale ha lo scopo di conferire adeguata competenza teorica e pratica ai laureati in medicina e chirurgia i quali intendano conseguire il diploma di specializzazione in chirurgia vascolare.  
-La scuola ha la durata di tre anni. Ad essa possono iscriversi soltanto i laureati in medicina e chirurgia.  
-Le norme d'iscrizione, esami, tasse e tutte le altre norme generali sono tutte quelle stabilite nello statuto dell'universita'.  
-Il numero complessivo degli specializzandi e' di trentuno per tutti i tre anni di corso.  
-Art. 255. - Le materie d'insegnamento sono:  
-1° Anno:  
-1) Embriologia, anatomia macro e microscopica dell'apparato vascolare;  
-2) Fisiopatologia dell'apparato vascolare della coagulazione sanguigna;  
-3) Anatomia patologica dell'apparato vascolare;  
-4) Semeiologia fisica e strumentale delle malattie vascolari;  
-5) Semeiologia radiologica delle materie vascolari;  
-6) Vasculopatie di interesse medico e specialistico.  
-2° Anno:  
-7) Patologia e clinica delle malattie del sistema arterioso;  
-8) Patologia e clinica delle malattie del sistema venoso;  
-9) Patologia e clinica delle malattie del sistema linfatico;  
-10) Patologia e clinica delle malattie dei piccoli vasi.  
-3° Anno:  
-11) Nozioni di terapia medica delle malattie vascolari;  
-12) Terapia chirurgica delle malattie vascolari;  
-13) Chirurgia vascolare applicata a malattie dei vari organi.  
-L'insegnamento sara' dottrinario e pratico. Gli iscritti hanno l'obbligo di frequenza sia alle lezioni sia al tirocinio pratico.  
-Art. 256. - Alla fine del triennio gli specializzandi, che abbiano superato gli esami dei tre corsi, dovranno superare una prova orale-teorica ed una prova clinica prima di essere ammessi all'esame di diploma. L'esame di diploma consistera' nella discussione di una tesi scritta su argomenti di chirurgia vascolare.  
+Nell'art. 11, relativo alla facolta' di ingegneria, nell'elenco degli insegnamenti complementari sono inseriti i seguenti insegnamenti:  
+bioelettronica;  
+complementi di costruzioni navali;  
+calcolatori elettronici nel progetto delle navi;  
+progettazione assistita di strutture meccaniche.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1970
+### Dato a Roma, addi' 10 marzo 1986
 
-SARAGAT MISASI
+COSSIGA
 
-Visto, il Guardasigilli: REALI
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 19 gennaio 1971
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Atti del Governo, registro n. 240, foglio n. 72. - CARUSO
+Registrato alla Corte dei conti, addi' 8 luglio 1986
+
+Registro n. 54 Istruzione, foglio n. 337

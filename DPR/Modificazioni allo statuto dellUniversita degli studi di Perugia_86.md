@@ -1,212 +1,147 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1983 n. 451
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1965 n. 1439
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1983 n. 451
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1965 n. 1439
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Perugia e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, numero 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), e modificato con [regio decreto 2 ottobre 1940 n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Dopo l'art. 181, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola diretta a fini speciali per tecnici di laboratorio biomedico:   
+Decreta:  
   
-Scuola speciale per tecnici di laboratorio biomedico   
+Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 182. - E' istituita presso l'Universita' degli studi di Perugia una scuola diretta a fini speciali per personale biomedico che ha lo scopo di preparare tecnici per laboratori di analisi chimico-cliniche ed istopatologiche e per laboratori di ricerca.   
-La scuola ha indirizzo teorico-pratico; ha una durata di tre anni accademici e possono essere ammessi annualmente dodici candidati.   
-Per l'accesso al primo anno di corso i candidati devono essere in possesso del diploma di scuola secondarla di secondo grado, di durata quinquennale, o che abbiano compiuto l'anno integrativo di cui alla [legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910).   
-Non sono ammesse abbreviazioni di corso.   
-Qualora il numero degli aspiranti sia superiore a quello stabilito nel secondo comma del presente articolo, e' richiesto il superamento di un esame consistente in una prova scritta su argomenti di biologia generale umana, che si svolgera' mediante domande a risposte multiple, integrata da una prova orale di cultura generale su argomenti di biologia, fisica e chimica.   
-Il punteggio complessivo e' di 100 ed e' cosi' ripartito:   
-30 punti al titolo di studio posseduto dall'aspirante;   
-35 punti alla prova scritta;   
-35 punti alla prova orale.   
-La commissione esaminatrice e' composta da due docenti della scuola e dal direttore che la presiede.   
-Al termine delle prove sara' formulata una graduatoria di merito.   
-Saranno ammessi al corso coloro che risulteranno compresi nei primi dodici posti della graduatoria.   
-Art. 183. - La domanda di partecipazione al concorso, redatta in carta legale, dovra' essere indirizzata al magnifico rettore dell'Universita' degli studi di Perugia e corredata dal titolo di scuola media superiore. Gli ammessi al corso dovranno presentare agli uffici della segreteria dell'Universita' i documenti suppletivi prescritti dalle norme vigenti.   
-Art. 184. - L'ammontare delle tasse e soprattasse e' quello previsto per gli studenti iscritti ai corsi di laurea. I contributi di laboratorio e di diploma per il regolare funzionamento del corso sono determinati dal consiglio di amministrazione dell'Universita', su proposta del senato accademico, sentiti i consigli delle facolta' interessate ed il consiglio della scuola.   
-Art. 185 - Consiglio della scuola. - Per la composizione del consiglio, l'elezione e i compiti del direttore si applicano le norme indicate dal [secondo comma dell'art. 8 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art8-com2).   
-La direzione della scuola e' affidata ad un professore ordinario, straordinario o fuori ruolo che insegni nella scuola stessa. In caso di motivato impedimento, la direzione e' affidata ad un professore associato che pure insegni nella scuola.   
-Per l'attuazione delle attivita' didattiche programmate dal consiglio della scuola, provvedono le facolta' per la parte di propria competenza ai sensi degli [articoli 7](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art7), [9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art9), [32, comma terzo, del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art32-com3).   
-Le attivita' didattiche tecnico-pratiche connesse a specifici insegnamenti professionali possono essere conferite con contratti di diritto privato, a tempo determinato, secondo le modalita' dell'[art. 25 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art25).   
-Il consiglio della scuola elegge il direttore, si pronuncia in merito ai programmi didattici, fissa gli orari e le commissioni delle prove di esame e delibera su tutte le questioni riguardanti gli allievi dal punto di vista del profitto, ed esercita, inoltre, le altre attribuzioni a cui rinvia il citato [secondo comma dell'art. 8 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art8-com2).   
-Il direttore della scuola dura in carica un triennio e puo' essere riconfermato.   
-Art. 186. - Le materie di insegnamento, divise per semestri, sono le seguenti:   
+L'art. 103, relativo alla Scuola di perfezionamento in Pediatria e' abrogato e sostituito dal seguente.  
   
+Scuola di specializzazione in Pediatria  
+La Scuola ha la durata di tre anni.  
+Le materie di insegnamento sono:  
+1° Anno:  
+Anatomia umana normale;  
+Anatomia patologica;  
+Fisiologia;  
+Farmacologia;  
+Puericultura I;  
+Clinica pediatrica.  
+2° Anno:  
+Puericultura II;  
+Clinica pediatrica;  
+Semeiotica;  
+Clinica oculistica;  
+Clinica dermatologica;  
+Metodologia psichiatrica e igiene mentale;  
+Metodologia di laboratorio.  
+3° Anno:  
+Clinica pediatrica;  
+Clinica ortopedica;  
+Clinica chirurgica;  
+Radiologia;  
+Elementi di psichiatria infantile;  
+Profilassi e igiene nelle collettivita'.  
+Per l'ammissione agli anni successivi di corso gli iscritti dovranno aver superato l'esame del gruppo delle materie dell'anno precedente.  
+L'art. 105, relativo alla Scuola di perfezionamento in Oculistica e' abrogato e sostituito dal seguente.  
   
+Scuola di specializzazione in Oculistica  
+La Scuola ha la durata di quattro anni. Il numero degli studenti che possono essere iscritti e' limitato a venticinque per ogni anno di corso.  
+Le materie di insegnamento sono:  
+1° Anno:  
+Anatomia ed istologia dell'apparato oculare;  
+Nozioni di embriologia e genetica oculare;  
+Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;  
+Nozioni di ottica fisiologica, esame della refrazione;  
+Microbiologia ed igiene oculare.  
+2° Anno:  
+Semeiotica oculare e mezzi di indagini dell'apparato oculare (biomicroscopia, oftalmologia, perimetria, campimetria, adattometria, senso cromatico, tonometria, tonografia, esami elettrofunzionali, radiologia);  
+Farmacologia oculare e terapia fisica;  
+Anatomia e patologia oculare;  
+Patologia e clinica oculare (malattie delle palpebre, della congiuntiva, delle vie lacrimali, della cornea e della sclera).  
+3° Anno:  
+Patologia e clinica oculare (malattie dell'urea, della retina, del nervo ottico e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita, glaucoma);  
+Anomalie e patologia della motilita' oculare e della visione binoculare ortottica e pleottica;  
+Affezioni otorinolaringoiatriche e occhio;  
+Tecnica operatoria - I parte.  
+4° Anno:  
+Neuro-oftalmologia;  
+Malattie oculari in rapporto ad affezioni generali;  
+Malattie professionali;  
+Infortunistica e medicina legale oculare;  
+Tecnica operatoria - II parte;  
+Tesi di specializzazione.  
+Per l'ammissione agli anni successivi di corso gli iscritti dovranno aver superato l'esame del gruppo di materie dell'anno precedente.  
+Alla fine del corso gli iscritti, oltre a presentare la dissertazione scritta ed a sostenere la relativa discussione, dovranno sostenere una prova pratica sull'ammalato.  
+L'art. 109, relativo alla Scuola di perfezionamento in Gastroenterologia, e' abrogato e sostituito dal seguente:  
   
-=====================================================================  
-Insegnamenti | Laboratori  
-=====================================================================  
-1° Anno: |  
----------------------------------------------------------------------  
-1° Semestre: |  
----------------------------------------------------------------------  
-Chimica biomedica - fac. med. e |  
-chir. |Chimica - fac. med. e chir.  
----------------------------------------------------------------------  
-Istologia con nozioni di |Tecniche istologiche - fac. med.  
-embriologia - fac. med. vet. |vet.  
----------------------------------------------------------------------  
-((Statistica medica e biometria - |  
-fac. med. e chir.)) |  
----------------------------------------------------------------------  
-Inglese - fac. med. e chir. |  
----------------------------------------------------------------------  
-2° Semestre: |  
----------------------------------------------------------------------  
-|Tecniche istochimiche - fac. med.  
-Anatomia I - fac. med. e chir. |vet.  
----------------------------------------------------------------------  
-Analisi chimica e strumentale - |Con laboratorio - fac. med. e  
-fac. med. e chir. |chir. ((1))  
----------------------------------------------------------------------  
-|Tecniche di culture cellulari -  
-Biologia generale |fac. med. vet.  
----------------------------------------------------------------------  
-((Inglese (fac. med. e chir.) )) |  
----------------------------------------------------------------------  
-2° Anno: |  
----------------------------------------------------------------------  
-1° Semestre: |  
----------------------------------------------------------------------  
-|Tecniche operatorie e  
-|dell'autopsia negli animali da  
-Anatomia II - fac. med. e chir. |laboratorio - fac. med. e chir.((1))  
----------------------------------------------------------------------  
-Microbiologia medica I - fac. med |  
-e chir. |Tecniche batteriologiche((1))  
----------------------------------------------------------------------  
-|Tecniche immunologiche - fac. med.  
-Immunologia - fac. med. vet |e chir.  
----------------------------------------------------------------------  
-Biochimica generale - fac. med. e |  
-chir. |  
----------------------------------------------------------------------  
-Parassitologia e micologia - fac. |Tecniche parassitologiche - fac.  
-med. vet. |med. vet.  
----------------------------------------------------------------------  
-2° Semestre: |  
----------------------------------------------------------------------  
-Microbiologia (medica) II - fac. |Tecniche di virologia - fac. med.  
-med. vet. |e chir.  
----------------------------------------------------------------------  
-|Tecniche fisiologiche - fac. med.  
-Fisiologia I - fac. med. e chir. |e chir.  
----------------------------------------------------------------------  
-Patologia generale - fac. med. e |Tecniche di citologia patologica -  
-chir. |fac. med. e chir.  
----------------------------------------------------------------------  
-Biochimica sistematica fac. med. e|- Tecniche radioisotopiche - fac.  
-chir. |med. e chir.  
----------------------------------------------------------------------  
-3° Anno: |  
----------------------------------------------------------------------  
-1° Semestre: |  
----------------------------------------------------------------------  
-|Tecniche fisiologiche - fac. med.  
-Fisiologia II - fac. med. e chir. |e chir.  
----------------------------------------------------------------------  
-|Tecniche farmacologiche e  
-Farmacologia I - fac. med. e chir.|tossicologiche - fac. med. e chir.  
----------------------------------------------------------------------  
-Chimica-clinica I - fac. med. e |Laboratorio chimica-clinica - fac.  
-chir. |med. e chir.  
----------------------------------------------------------------------  
-|Laboratorio igiene I - fac. chir.  
-Igiene I - fac. med. e chir. |med. e  
----------------------------------------------------------------------  
-Organizzazione e gestione |  
-laboratorio - fac. med. e chir. |  
----------------------------------------------------------------------  
-2° Semestre: |  
----------------------------------------------------------------------  
-Chimica-clinica II - fac. med. e |Laboratorio chimica-clinica II -  
-chir. |fac. med. e chir.  
----------------------------------------------------------------------  
-Farmacologia II - fac. med. e |Tecniche farmacologiche e  
-chir. |tossicologiche - fac. med. e chir.  
----------------------------------------------------------------------  
-|Tecniche ematologiche - fac. med.  
-Fisiopatologia - fac. med. e chir.|e chir.  
----------------------------------------------------------------------  
-|Laboratorio igiene II - fac. med.  
-Igiene II - fac. med. e chir. |e chir. ((1))
+Scuola di specializzazione in Gastroenterologia  
+La Scuola ha la durata di due anni.  
+Il numero degli iscritti e' limitato a sei per ogni anno di corso.  
+Le materie di insegnamento sono:  
+1° Anno:  
+Anatomia normale;  
+Fisiologia;  
+Anatomia patologica;  
+Semeiotica fisica;  
+Patologia speciale dei vari segmenti dell'apparato digerente e ghiandole annesse;  
+Clinica generale I;  
+Radiologia I.  
+2° Anno:  
+Semeiotica strumentale;  
+Chimica clinica;  
+Clinica generale II;  
+Radiologia II;  
+Terapia generale e speciale medica;  
+Terapia chirurgica;  
+Dietetica generale e speciale (semestrale).  
+L'art. 112, relativo alla Scuola di perfezionamento in Cardiologia, e' abrogato e sostituito dal seguente.  
   
-  
-  
-  
-  
-Art. 187. - Il tirocinio si svolge, sotto la guida di un docente, presso strutture dell'Universita' o con esse convenzionate, anche ai sensi dell'[art. 92 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art92), previa proposta del consiglio della scuola e deve essere sottoposto a verifiche e valutazioni.   
-La frequenza e' obbligatoria.   
-Le assenze ingiustificate comportano l'esclusione dal corso a giudizio del consiglio della scuola.   
-Gli esami si svolgono in due sessioni, come previsto dall'art. 40 e successive sue modificazioni ed integrazioni, di cui al regolamento studenti approvato con [regio decreto 4 giugno 1938, n. 1269](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-04;1269), e la commissione sara' composta:   
-dal professore ufficiale della materia, presidente;   
-da un professore ufficiale di materia affine;   
-da un libero docente o cultore della materia.   
-Ogni commissario ha a disposizione dieci punti.   
-Per essere ammessi a frequentare i singoli corsi successivi al primo, gli allievi devono aver superato tutti gli esami del corso precedente; in caso contrario rimarranno nella posizione di fuori corso fino a quando non avranno assolto agli obblighi di cui sopra, fino ad un massimo di un anno, salvo gravi e comprovati motivi da valutare dal consiglio della scuola.   
-Nel caso che uno studente abbia sostenuto due volte lo stesso esame con esito negativo, il consiglio della scuola si pronuncera', con motivata decisione, sulla prosecuzione o l'esclusione dell'allievo dalla scuola.   
-Per l'esame di diploma lo studente deve preparare una dissertazione scritta di argomento tecnico inerente alla sua esperienza in laboratorio.   
-L'esame di diploma consiste nella discussione dell'elaborato ed in una prova pratica di laboratorio stabilita dalla commissione esaminatrice.   
-La commissione di esame di diploma e' composta da cinque membri scelti fra i docenti della scuola, nominati dal rettore su proposta del direttore della scuola.   
-Ogni commissario ha a disposizione dieci punti.   
-In caso di mancato superamento dell'esame di diploma, il medesimo potra' essere ripetuto per una sola volta.   
-Agli allievi che avranno superato l'esame finale, verra' rilasciato un diploma universitario di "tecnico di laboratorio biomedico".   
+Scuola di specializzazione in Cardiologia  
+La Scuola ha la durata di tre anni.  
+Il numero degli studenti che possono essere iscritti e' limitato a dodici per ogni anno di corso.  
+Le materie di insegnamento sono:  
+1° Anno:  
+Anatomia normale;  
+Anatomia patologica;  
+Fisiologia;  
+Semeiotica fisica;  
+Elettrocardiografia e vettocardiografia I;  
+Patologia delle malattie di cuore I.  
+2° Anno:  
+Patologia delle malattie di cuore II;  
+Elettrocardiografia II;  
+Semeiotica strumentale;  
+Radiologia generale e speciale;  
+Fisiopatologia respiratoria;  
+Clinica delle malattie cardiovascolari I.  
+3° Anno:  
+Clinica delle malattie cardiovascolari II;  
+Terapia generale e speciale;  
+Reumatologia;  
+Malattie vascolari;  
+Cardioangiopatie congenite.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 giugno 1983
+### Dato a Roma, addi' 30 ottobre 1965
 
-PERTINI FALCUCCI
+SARAGAT GUI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 17 agosto 1983
+Registrato alla Corte dei conti, addi' 27 dicembre 1965
 
-Registro n. 59 Istruzione, foglio n. 95 -------------- AGGIORNAMENTO (1)
-
-Il D.P.R. 18 marzo 1985, n. 502 ha disposto (con l'articolo unico) che:
-
-- nella pag. 7332, seconda colonna, rigo ventitreesimo del presente provvedimento dove e' scritto "Con laboratorio - fac. med. e chir." e' cosi' rettificato in "Laboratorio di analisi chimico strumentale (fac. med. e chir.)".
-
--nella pag. 7332, seconda colonna, rigo trentatreesimo dove e' scritto "Tecniche operatorie e dell'autopsia negli animali da laboratorio - fac. med. e chir." e' cosi' rettificato "Tecniche operatorie e dell'autopsia negli animali da laboratorio - fac. med. vet."
-
--nella pag. 7332, seconda colonna, rigo trentacinquesimo dove e' scritto "Tecniche batteriologiche" e' cosi' rettificato "Tecniche batteriologiche (fac. med. e chir.).
-
--nella pag. 7332, quarta colonna, rigo ventiquattresimo dove e' scritto "Laboratorio igiene II fac. med. e chir." e' cosi' rettificato "Laboratorio igiene II - fac. med. vet.".
+Atti del Governo, registro n. 199, foglio n. 21. - VILLA

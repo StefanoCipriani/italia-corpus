@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 giugno 1975 n. 374
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 dicembre 1973 n. 1067
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 giugno 1975 n. 374
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 dicembre 1973 n. 1067
+================================================================
 
 Autorizzazione ad accettare un lascito a favore dello Stato.
 ------------------------------------------------------------
@@ -12,25 +12,8 @@ Art. 1
 
 N.
 
-374. Decreto del Presidente della Repubblica 24 giugno 1975, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione di un lascito disposto a favore dello Stato dalla sig.ra Carmela De Simone con testamento olografo datato 30 marzo 1972, n. 34666 di repertorio, a rogito dell'avv.  
-Gennaro Incoronato, notaio in Napoli, consistente in alcune opere d'arte di fattura napoletana di interesse artistico e   
-storico da destinare al museo di Capodimonte, in Napoli.(1)
-
-((2))
-
+1067. Decreto del Presidente della Repubblica 21 dicembre 1973, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione del lascito disposto con testamento olografo 6 gennaio 1960, pubblicato con atto del notaio Roberto Chiari di Napoli in data 21 marzo 1966, repertorio n. 22890/11778, dal prof. Vincenzo Brundy, a favore dello Stato, consistente nella nuda proprieta' di un appartamento sito nella menzionata citta' al corso Vittorio Emanuele n. 460, piano 4°, con l'assegnazione dell'usufrutto, vita natural durante, alla signora Mazziotti Carmela, governante del de cuius, immobile da assegnare in uso perpetuo alla scuola militare "Nunziatella", in Napoli.  
   
-Visto, il Guardasigilli: REALE   
-Registrato alla Corte dei conti, addi' 8 agosto 1975   
-Atti di Governo, registro n. 11, foglio n. 54
-
----------------
-
-AGGIORNAMENTO (1)
-
-La Corte Costituzionale, con sentenza 23-27 ottobre 2006, n. 341 (in G.U. 1a s.s. 02/11/2006, n. 1000) ha dichiarato "l'illegittimita' costituzionale dell'[art. 69, sesto comma, lettera a), della legge 26 luglio 1975, n. 374](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-07-26;374~art69-com6-leta) (Norme sull'ordinamento penitenziario e sull'esecuzione delle misure privative e limitative della liberta)".
-
----------------
-
-AGGIORNAMENTO (2)
-
-La Corte Costituzionale, con sentenza 23-27 ottobre 2006, n. 341 (in G.U. 1a s.s. 02/11/2006, n. 1000) come modificata dal Comunicato 23 ottobre 2006, n. 341 (in G.U. 1a s.s. 8/11/2006, n. 44) non prevede piu' l'illegittimita' costituzionale dell'art. 69, sesto comma, lettera a), del presente provvedimento.
+Visto, il Guardasigilli: ZAGARI  
+Registrato alla Corte dei conti, addi' 3 aprile 1974  
+Atti di Governo, registro n. 2, foglio n. 68. - SCIARRETTA

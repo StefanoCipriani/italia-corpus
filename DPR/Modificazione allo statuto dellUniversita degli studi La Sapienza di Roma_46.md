@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1983 n. 1189
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 maggio 1983 n. 758
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1983 n. 1189
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 maggio 1983 n. 758
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
 ------------------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazione allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' "La Sapienza" di Roma, approvato con [regio decreto 14 ottobre 1926, numero 2319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2319), e successive modificazioni;
+Veduto lo statuto dell'Universita' "La Sapienza" di Roma, approvato con [regio decreto 14 ottobre 1926, n. 2319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2319), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -39,28 +39,30 @@ Articolo unico
 --------------
 
   
-Art. 147 - nell'elenco degli insegnamenti complementari della facolta' di ingegneria sono inseriti i seguenti insegnamenti:  
-mineralogia e petrografia;  
-macchine speciali;  
-centrali elettriche;  
-elaborazione numerica dei segnali;  
-tecniche di elaborazione elettronica in urbanistica ed in architettura;  
-complementi di geotecnica;  
-tecnologie speciali metallurgiche.  
-Nel medesimo elenco sono soppressi i seguenti insegnamenti:  
-macchine speciali (semestrale);  
-centrali elettriche (semestrale).  
+  
+Art. 92 - nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono inseriti i seguenti insegnamenti:   
+diagnostica e chirurgia endoscopica;   
+fisiopatologia del dolore;   
+fisiopatologia dell'emostasi;   
+endocrinochirurgia;   
+applicazioni tecnologiche in chirurgia;   
+psicopatologia generale dell'eta' evolutiva;   
+fisioterapia e cerebropatie infantili;   
+microchirurgia;   
+chirurgia sostitutiva e di trapianti d'organo;   
+istituzioni di anatomia ed istologia patologica;   
+ginecologia oncologica.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 maggio 1983
+### Dato a Roma, addi' 9 maggio 1983
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 28 aprile 1984
+Registrato alla Corte dei conti, addi' 27 dicembre 1983
 
-Registro n. 25 Istruzione, foglio n. 212
+Registro n. 79 Istruzione, foglio n. 400

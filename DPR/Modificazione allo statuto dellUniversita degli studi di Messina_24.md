@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1986 n. 474
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1986 n. 286
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1986 n. 474
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1986 n. 286
+==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
@@ -10,7 +10,9 @@ Modificazione allo statuto dell'Universita' degli studi di Messina.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923), e successive modificazioni; Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -22,7 +24,7 @@ Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http:
 
 Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615.
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
 
 Veduto il parere del Consiglio universitario nazionale;
 
@@ -37,15 +39,14 @@ Articolo unico
 --------------
 
   
-  
-Nell'art. 97, relativo al corso di laurea in fisica, all'elenco degli insegnamenti complementari per i tre indirizzi: generale, didattico ed applicativo, e' aggiunto il nuovo insegnamento:   
-complementi di fisica nucleare.   
+Nell'art. 13, relativo al corso di laurea in giurisprudenza, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+economia monetaria.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 maggio 1986
+### Dato a Roma, addi' 28 gennaio 1986
 
 COSSIGA
 
@@ -53,6 +54,6 @@ FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 19 luglio 1986
+Registrato alla Corte dei conti, addi' 10 giugno 1986
 
-Registro n. 58 Istruzione, foglio n. 285
+Registro n. 45 Istruzione, foglio n. 359

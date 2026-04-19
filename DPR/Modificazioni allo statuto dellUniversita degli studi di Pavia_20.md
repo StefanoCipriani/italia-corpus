@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1980 n. 955
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1158
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1980 n. 955
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1158
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
@@ -10,104 +10,182 @@ Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Pavia approvato con [regio decreto 14 ottobre 1926 n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229) e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 4933, n. 1592;
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio universitario nazionale nel suo parere;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
 Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+gli articoli da 161 a 165 relativi alla scuola di specializzazione in malattie infettive sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in malattie infettive
+
+Art. 161. - E' istituito presso l'istituto per le malattie infettive e gli istituti di igiene e di microbiologia dell'Universita' di Pavia la scuola di specializzazione in malattie infettive.
+
+La scuola e' posta sotto la direzione del titolare di malattie infettive e dispone del relativo istituto e dei laboratori annessi nonche' dei laboratori degli istituti di igiene e di microbiologia compresa la sezione virus.
+
+Alla scuola sono ammessi i laureati in medicina e chirurgia per un numero massimo complessivo di trenta iscritti.
+
+Art. 162. - Il corso, che si svolge presso l'istituto di malattie infettive e gli istituti di igiene e di microbiologia, ha la durata di 3 anni; l'internato e' obbligatorio.
+
+L'ammissione alla scuola avviene a seguito di concorso per esami.
+
+Nel primo anno di corso e' obbligatorio un internato di almeno sei mesi negli istituti di igiene e di microbiologia e nel secondo e terzo un internato di almeno sei mesi nell'istituto di malattie infettive.
+
+Art. 163. - Gli insegnamenti della scuola sono i seguenti:
+
+1° Anno:
+
+1) Epidemiologia generale delle malattie infettive;
+
+2) Nozioni generali di batteriologia, di virologia, di parassitologia, di immunologia;
+
+3) Tecnica batteriologica, virologica, parassitologica, immunologica applicata alle malattie infettive (primo anno).
+
+2° Anno:
+
+1) Patologia e clinica delle malattie infettive (primo anno);
+
+2) Semeiotica e diagnostica delle malattie infettive;
+
+3) Anatomia patologica delle malattie infettive;
+
+4) Tecnica batteriologica, virologica, parassitologica, immunologica (secondo anno).
+
+3° Anno:
+
+1) Patologia e clinica delle malattie infettive (secondo anno);
+
+2) Malattie infettive dei paesi caldi;
+
+3) Farmacologia e terapia generale delle malattie infettive;
+
+4) Legislazione sanitaria e malattie infettive.
+
+Art. 164. - Le commissioni per gli esami di profitto e per l'esame di diploma sono nominate secondo le norme generali di cui agli articoli 85 e 86 dello statuto.
+
+Art. 165. - Gli esami di profitto si svolgono al primo anno sulle discipline:
+
+Epidemiologia generale e delle malattie infettive;
+
+Nozioni generali di batteriologia, di virologia, parassitologia immunologica;
+
+Al secondo anno sulle discipline:
+
+Semeiotica e diagnostica delle malattie infettive;
+
+Anatomia patologica delle malattie infettive;
+
+Tecnica batteriologica, virologica, parassitologica, immunologica (secondo anno).
+
+Terzo anno discipline:
+
+Patologia e clinica delle malattie infettive;
+
+Farmacologia e terapia generale delle malattie infettive;
+
+Legislazione sanitaria e malattie infettive.
+
+Per il passaggio da un anno all'altro, lo specializzando dovra' aver superato gli esami di profitto stabiliti. Alla fine del triennio lo specializzando dovra' presentare una tesi concordata dal direttore della scuola che sara' discussa agli esami di diploma.
+
+Inoltre sara' tenuto ad una prova pratica sugli argomenti svolti nel triennio.
+
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 30 ottobre 1970
+
+SARAGAT
+
+MISASI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 9 gennaio 1971 Atti del Governo, registro n. 240, foglio n. 19. - CARUSO
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-L'art. 52, relativo al corso di laurea in lettere, e' modificato nel senso che all'elenco degli insegnamenti complementari sono aggiunti i seguenti:  
-storia delle tecniche artistiche;  
-storia dell'arte contemporanea.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 4933, n. 1592;  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-L'art. 59, relativo al corso di laurea in medicina e chirurgia, e' modificato nel senso che all'elenco degli insegnamenti complementari sono aggiunti i seguenti:  
-neurochirurgia infantile;  
-istituzioni di matematica (biomatematica);  
-malattie metaboliche del bambino;  
-radioterapia;  
-cardiologia pediatrica;  
-nefrologia pediatrica.  
-
-Art. 3
-------
-
+Decreta:  
   
-Dopo l'art. 429 (ex 300), e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi alla istituzione della scuola di perfezionamento in istochimica e citochimica, annessa alla facolta' di scienze matematiche, fisiche e naturali.  
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+gli articoli da 161 a 165 relativi alla scuola di specializzazione in malattie infettive sono abrogati e sostituiti dai seguenti:  
   
-Scuola di perfezionamento in istochimica e citochimica  
-Art. 430. - La scuola di perfezionamento in istochimica e citochimica presso la facolta' di scienze matematiche, fisiche e naturali ha lo scopo di fornire ai giovani laureati la preparazione teorica e pratica necessarie per compiere ricerche istochimiche in laboratori universitari, industriali, ospedalieri e rilascia il diploma di perfezionamento in istochimica. Il corso di studi ha durata di due anni. Non sono previste abbreviazioni.  
-Art. 431. - E' direttore della scuola un professore ordinario o straordinario delle discipline isto e morfologiche della facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Pavia.  
-Il funzionamento della scuola e' affidato ad un consiglio direttivo formato dal direttore e da altri due membri, i quali sono nominati ogni quadriennio dalla facolta'.  
-I docenti per singoli corsi verranno scelti su proposta del consiglio direttivo, tra i professori ufficiali o gli assistenti o anche tra persone italiane o straniere, non appartenenti alla facolta', ma di riconosciuta e documentata competenza specifica. Tale scelta verra' operata dalla facolta' in conformita' alle norme vigenti.  
-Art. 432. - Alla scuola di perfezionamento sono ammessi i laureati in:  
-scienze biologiche;  
-scienze naturali;  
-medicina e chirurgia;  
-medicina veterinaria;  
-scienze della produzione animale;  
-chimica;  
-chimica e tecnologie farmaceutiche;  
-farmacia;  
-fisica.  
-Art. 433. - Gli insegnamenti impartiti dalla scuola nei due anni sono i seguenti:  
+Scuola di specializzazione in malattie infettive  
+  
+Art. 161. - E' istituito presso l'istituto per le malattie infettive e gli istituti di igiene e di microbiologia dell'Universita' di Pavia la scuola di specializzazione in malattie infettive.  
+La scuola e' posta sotto la direzione del titolare di malattie infettive e dispone del relativo istituto e dei laboratori annessi nonche' dei laboratori degli istituti di igiene e di microbiologia compresa la sezione virus.  
+Alla scuola sono ammessi i laureati in medicina e chirurgia per un numero massimo complessivo di trenta iscritti.  
+Art. 162. - Il corso, che si svolge presso l'istituto di malattie infettive e gli istituti di igiene e di microbiologia, ha la durata di 3 anni; l'internato e' obbligatorio.  
+L'ammissione alla scuola avviene a seguito di concorso per esami.  
+Nel primo anno di corso e' obbligatorio un internato di almeno sei mesi negli istituti di igiene e di microbiologia e nel secondo e terzo un internato di almeno sei mesi nell'istituto di malattie infettive.  
+Art. 163. - Gli insegnamenti della scuola sono i seguenti:  
 1° Anno:  
-1) biologia e fisiologia cellulare;  
-2) istituzioni di istochimica e di istofisica;  
-3) tecnica e diagnostica istochimica e citochimica;  
-4) citochimica ultrastrutturale;  
-5) tecniche biochimiche applicate all'analisi morfologica;  
-6) cinetica cellulare.  
+1) Epidemiologia generale delle malattie infettive;  
+2) Nozioni generali di batteriologia, di virologia, di parassitologia, di immunologia;  
+3) Tecnica batteriologica, virologica, parassitologica, immunologica applicata alle malattie infettive (primo anno).  
 2° Anno:  
-1) citochimica quantitativa;  
-2) enzimoistochimica;  
-3) immunoistochimica;  
-4) istochimica patologica.  
-Alla fine di ogni anno gli iscritti dovranno sostenere un esame vertente sugli insegnamenti impartiti dalla scuola in quell'anno, di fronte ad una commissione formata dai professori incaricati dei corsi e presieduta dal direttore della scuola.  
-Per ottenere il diploma di perfezionamento i candidati dopo aver sostenuto i suddetti esami, dovranno anche discutere una dissertazione scritta di carattere sperimentale originale, preparata durante il periodo di perfezionamento. La discussione verra' sostenuta davanti ad una commissione di tre membri tra i quali un relatore e un correlatore, nominati dal consiglio direttivo, il correlatore sara' un esperto nel soggetto particolare della dissertazione, italiano o straniero, al quale verra' inviata la dissertazione almeno trenta giorni prima della discussione.  
-Art 434 - Gli iscritti alla scuola di perfezionamento sono tenuti a pagare le medesime tasse e soprattasse che le vigenti disposizioni di legge stabiliscono per gli studenti della facolta', oltre ad una tassa di diploma di L. 6.000. La misura dei contributi speciali (comprensivi della tassa per la preparazione della dissertazione scritta a carattere sperimentale, ecc.) e' fissata annualmente dal consiglio di amministrazione su proposta del senato accademico, udita la facolta' di scienze matematiche, fisiche e naturali e il consiglio della scuola.  
-
-Art. 4
-------
-
+1) Patologia e clinica delle malattie infettive (primo anno);  
+2) Semeiotica e diagnostica delle malattie infettive;  
+3) Anatomia patologica delle malattie infettive;  
+4) Tecnica batteriologica, virologica, parassitologica, immunologica (secondo anno).  
+3° Anno:  
+1) Patologia e clinica delle malattie infettive (secondo anno);  
+2) Malattie infettive dei paesi caldi;  
+3) Farmacologia e terapia generale delle malattie infettive;  
+4) Legislazione sanitaria e malattie infettive.  
+Art. 164. - Le commissioni per gli esami di profitto e per l'esame di diploma sono nominate secondo le norme generali di cui agli articoli 85 e 86 dello statuto.  
+Art. 165. - Gli esami di profitto si svolgono al primo anno sulle discipline:  
+Epidemiologia generale e delle malattie infettive;  
+Nozioni generali di batteriologia, di virologia, parassitologia immunologica;  
+Al secondo anno sulle discipline:  
+Semeiotica e diagnostica delle malattie infettive;  
+Anatomia patologica delle malattie infettive;  
+Tecnica batteriologica, virologica, parassitologica, immunologica (secondo anno).  
+Terzo anno discipline:  
+Patologia e clinica delle malattie infettive;  
+Farmacologia e terapia generale delle malattie infettive;  
+Legislazione sanitaria e malattie infettive.  
+Per il passaggio da un anno all'altro, lo specializzando dovra' aver superato gli esami di profitto stabiliti. Alla fine del triennio lo specializzando dovra' presentare una tesi concordata dal direttore della scuola che sara' discussa agli esami di diploma.  
+Inoltre sara' tenuto ad una prova pratica sugli argomenti svolti nel triennio.  
   
-Dopo l'art. 81, relativo al corso di laurea in farmacia 3 con lo spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo, relativo alle modalita' d'esame.  
-Art. 81. - L'insegnamento biennale di fisiologia generale (biennale) comporta un esame alla fine di ogni anno.  
-  
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1980
+### Dato a Roma, addi' 30 ottobre 1970
 
-PERTINI BODRATO
+SARAGAT MISASI
 
-Visto, il Guardasigilli: SARTI
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 30 dicembre 1980
+Registrato alla Corte dei conti, addi' 9 gennaio 1971
 
-Registro n. 122 Istruzione, foglio n. 29
+Atti del Governo, registro n. 240, foglio n. 19. - CARUSO

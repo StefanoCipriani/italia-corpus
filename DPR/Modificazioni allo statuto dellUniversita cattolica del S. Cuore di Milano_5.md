@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 887
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 738
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 887
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 738
+================================================================
 
 Modificazioni allo statuto dell'Universita' cattolica del S. Cuore di Milano.
 -----------------------------------------------------------------------------
@@ -10,17 +10,17 @@ Modificazioni allo statuto dell'Universita' cattolica del S. Cuore di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
+Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del S. Cuore di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -30,288 +30,121 @@ Decreta:
 
 Lo statuto dell'Universita' cattolica del S. Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Dopo l'art. 97, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in chirurgia plastica ricostruttiva ed in odontoiatria e protesi dentaria.
+Dopo l'art. 97 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in anatomia e istologia patologica.
 
-Scuola di specializzazione in chirurgia plastica ricostruttiva
+Scuola di specializzazione in anatomia e istologia patologica
 
-Art. 98. - La durata del corso e' di 3 anni. Alla scuola possono iscriversi i laureati in medicina e chirurgia previo esame di ammissione; il numero degli iscritti e' fissato ad un massimo di venti complessivamente.
+Art. 98. - Il corso degli studi della scuola di specializzazione in anatomia ed istologia patologica ha la durata di tre anni.
 
-La scuola ha sede presso la clinica chirurgica.
+Sono ammessi alla scuola i laureati in medicina e chirurgia; il numero massimo degli iscritti e' di venticinque.
 
-Art. 99. - Le materie di insegnamento sono:
-
-1° Anno:
-
-fondamenti embriologici, anatomici e fisiologici della chirurgia plastica;
-
-nozioni di patologia generale ed anatomia patologica (processo di guarigione delle ferite, patologia delle cicatrici, infiammazioni, tumori, malformazioni, biologia degli innesti e dei trapianti);
-
-trattamento pre e post-operatorio;
-
-esercitazioni pratiche cliniche e operatorie (I).
-
-2° Anno:
-
-anatomia chirurgica e medicina operatoria;
-
-tecniche speciali di chirurgia plastica (I);
-
-tecniche di anestesia e particolari indicazioni;
-
-esercitazioni pratiche cliniche e operatorie (II).
-
-3° Anno:
-
-nozioni di oculistica, otorinolaringoiatria, stomatologia, traumatologia, urologia e dermatologia nei rapporti con la chirurgia plastica;
-
-nozioni di radiodiagnostica e radioterapia;
-
-tecniche speciali di chirurgia plastica (II);
-
-esercitazioni pratiche cliniche ed operatorie (III).
-
-Art. 100. - Durante i tre anni di corso gli allievi sono tenuti a prestare servizio di internato nei reparti ai quali vengono assegnati per un periodo non inferiore a giorni trenta ed a frequentare le lezioni e le esercitazioni.
-
-Art. 101. - Gli allievi sono assegnati in turni periodici ai reparti istituiti presso il policlinico "Gemelli" (clinica chirurgica generale, patologia chirurgica, clinica ortopedica, clinica otorinolaringoiatrica, clinica dermatologica e negli altri eventuali reparti della specialita' secondo le disposizioni del direttore della scuola).
-
-Art. 102. - Al termine di ogni anno accademico gli allievi che abbiano ottenuto le attestazioni di frequenza dovranno, per potersi iscrivere al successivo anno di corso, superare gli esami in tutte le materie comprese nel piano degli studi.
-
-Abbreviazioni al corso possono essere concesse (iscrizione al secondo anno) soltanto ai candidati gia' in possesso del diploma di specializzazione in chirurgia generale o di libera docenza in chirurgia o patologia chirurgica.
-
-Art. 103. - Per essere ammessi all'esame di diploma gli allievi dovranno aver superato tutti gli esami di profitto previsti dal piano degli studi.
-
-Scuola di specializzazione in odontoiatria e protesi dentaria
-
-Art. 104. - Titolo per l'iscrizione: laurea in medicina e chirurgia.
-
-Ammissione: il numero dei posti disponibili al primo corso della scuola e' di 6 (sei), altrettanto dicasi per il numero dei posti disponibili di ciascuno degli anni successivi. Il numero massimo complessivo degli iscritti nei tre anni e' fissato in 18 (diciotto).
-
-Durata: tre anni. Frequenza: obbligatoria per l'intero anno scolastico.
-
-Vacanze: conformi al calendario universitario, con un solo mese completo estivo (agosto).
-
-Art. 105. - Materie di insegnamento:
-
-embriologia e anatomia dentaria e maxillo-facciale;
-
-anatomia e istologia odontostomatologica;
-
-microbiologia ed igiene orale;
-
-farmacologia odontostomatologica;
-
-patologia odontostomatologica;
-
-clinica odontostomatologica;
-
-chirurgia maxillo-facciale (biennale);
-
-anestesia e chirurgia stomatologica;
-
-odontoiatria conservativa (biennale);
-
-paradontologia (biennale);
-
-clinica protesica dentaria e maxillo-facciale (biennale);
-
-ortopedia dento-maxillo-facciale (biennale);
-
-radiologia odontostomatologica;
-
-odontotecnica;
-
-odontoiatria infantile;
-
-medicina legale odontostomatologica e delle assicurazioni.
-
-Esercitazioni pratiche affiancheranno gli insegnamenti.
-
-Suddivisione delle materie d'insegnamento nei tre anni di corso:
+Art. 99. - Il piano degli studi e' articolato sui seguenti insegnamenti:
 
 1° Anno:
 
-embriologia ed anatomia dentaria e maxillo-facciale;
+Tecnica delle autopsie;
 
-microbiologia e igiene orale;
+Diagnostica anatomo-patologica macroscopica;
 
-farmacologia;
+Anatomia patologica sistematica I;
 
-patologia odontostomatologica;
-
-odontotecnica;
-
-anestesia e chirurgia stomatologica;
-
-odontoiatria conservativa (biennale) I;
-
-esercitazioni pratiche.
+Tecnica istologica ed istochimica I.
 
 2° Anno:
 
-odontoiatria conservativa (biennale) II;
+Anatomia patologica sistematica II;
 
-clinica protesica dentaria e maxillo-facciale (biennale) I;
+Tecnica istologica ed istochimica II;
 
-parodontologia (biennale) I;
+Diagnostica istopatologica I;
 
-anatomia e istopatologia odontostomatologica;
-
-odontoiatria infantile;
-
-radiologia odontostomatologica;
-
-ortopedia dento-maxillo-facciale (biennale) I;
-
-chirurgia maxillo-facciale (biennale) I;
-
-esercitazioni pratiche.
+Elementi di microscopia elettronica.
 
 3° Anno:
 
-clinica odontostomatologica;
+Diagnostica istopatologica II;
 
-chirurgia maxillo-facciale (biennale) II;
+Diagnostica ematologica;
 
-medicina legale odontostomatologica e delle assicurazioni;
+Tecnica e diagnostica citologica;
 
-ortopedia dento-maxillo-facciale (biennale) II;
+Legislazione sanitaria tanatologica.
 
-clinica protesica dentaria e maxillo-facciale (biennale) II;
+Gli insegnamenti saranno integrati da seminari e cicli di conferenze nonche' esercitazioni, anche in riferimento a indagini complementari.
 
-parodontologia (biennale) II;
+Art. 100. - Gli iscritti hanno l'obbligo di frequentare l'istituto di anatomia ed istologia patologica.
 
-esercitazioni pratiche.
-
-Esami: gli esami di profitto teorici e pratici saranno sostenuti alla fine di ogni anno in un'unica sessione (ottobre).
-
-Alla fine del terzo anno, dopo aver superato gli esami di profitto, gli allievi saranno ammessi a sostenere l'esame di diploma che consiste nella discussione orale di una dissertazione scritta su un tema proposto in precedenza dall'insegnante della materia sulla quale verte l'argomento e approvato dal direttore della scuola.
+Gli esami delle materie biennali potranno essere sostenuti al termine del biennio. Il diploma si consegue alla fine del corso con presentazione e discussione di una tesi scritta.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 31 ottobre 1975
+Dato a Roma, addi' 22 settembre 1972
 
 LEONE
 
-MALFATTI
+SCALFARO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 16 febbraio 1976 Atti di Governo, registro n. 3, foglio n. 10
+alla Corte dei conti, addi' 28 novembre 1972 Atti del Governo, registro n. 253, foglio n. 80. - CARUSO
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del S. Cuore di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' cattolica del S. Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' cattolica del S. Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Dopo l'art. 97, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in chirurgia plastica ricostruttiva ed in odontoiatria e protesi dentaria.   
+Dopo l'art. 97 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in anatomia e istologia patologica.  
   
-Scuola di specializzazione in chirurgia plastica ricostruttiva   
+Scuola di specializzazione in anatomia e istologia patologica  
   
-Art. 98. - La durata del corso e' di 3 anni. Alla scuola possono iscriversi i laureati in medicina e chirurgia previo esame di ammissione; il numero degli iscritti e' fissato ad un massimo di venti complessivamente.   
-La scuola ha sede presso la clinica chirurgica.   
-Art. 99. - Le materie di insegnamento sono:   
-1° Anno:   
-fondamenti embriologici, anatomici e fisiologici della chirurgia plastica;   
-nozioni di patologia generale ed anatomia patologica (processo di guarigione delle ferite, patologia delle cicatrici, infiammazioni, tumori, malformazioni, biologia degli innesti e dei trapianti);   
-trattamento pre e post-operatorio;   
-esercitazioni pratiche cliniche e operatorie (I).   
-2° Anno:   
-anatomia chirurgica e medicina operatoria;   
-tecniche speciali di chirurgia plastica (I);   
-tecniche di anestesia e particolari indicazioni;   
-esercitazioni pratiche cliniche e operatorie (II).   
-3° Anno:   
-nozioni di oculistica, otorinolaringoiatria, stomatologia, traumatologia, urologia e dermatologia nei rapporti con la chirurgia plastica;   
-nozioni di radiodiagnostica e radioterapia;   
-tecniche speciali di chirurgia plastica (II);   
-esercitazioni pratiche cliniche ed operatorie (III).   
-Art. 100. - Durante i tre anni di corso gli allievi sono tenuti a prestare servizio di internato nei reparti ai quali vengono assegnati per un periodo non inferiore a giorni trenta ed a frequentare le lezioni e le esercitazioni.   
-Art. 101. - Gli allievi sono assegnati in turni periodici ai reparti istituiti presso il policlinico "Gemelli" (clinica chirurgica generale, patologia chirurgica, clinica ortopedica, clinica otorinolaringoiatrica, clinica dermatologica e negli altri eventuali reparti della specialita' secondo le disposizioni del direttore della scuola).   
-Art. 102. - Al termine di ogni anno accademico gli allievi che abbiano ottenuto le attestazioni di frequenza dovranno, per potersi iscrivere al successivo anno di corso, superare gli esami in tutte le materie comprese nel piano degli studi.   
-Abbreviazioni al corso possono essere concesse (iscrizione al secondo anno) soltanto ai candidati gia' in possesso del diploma di specializzazione in chirurgia generale o di libera docenza in chirurgia o patologia chirurgica.   
-Art. 103. - Per essere ammessi all'esame di diploma gli allievi dovranno aver superato tutti gli esami di profitto previsti dal piano degli studi.   
-  
-Scuola di specializzazione in odontoiatria e protesi dentaria   
-  
-Art. 104. - Titolo per l'iscrizione: laurea in medicina e chirurgia.   
-Ammissione: il numero dei posti disponibili al primo corso della scuola e' di 6 (sei), altrettanto dicasi per il numero dei posti disponibili di ciascuno degli anni successivi. Il numero massimo complessivo degli iscritti nei tre anni e' fissato in 18 (diciotto).   
-Durata: tre anni. Frequenza: obbligatoria per l'intero anno scolastico.   
-Vacanze: conformi al calendario universitario, con un solo mese completo estivo (agosto).   
-Art. 105. - Materie di insegnamento:   
-embriologia e anatomia dentaria e maxillo-facciale;   
-anatomia e istologia odontostomatologica;   
-microbiologia ed igiene orale;   
-farmacologia odontostomatologica;   
-patologia odontostomatologica;   
-clinica odontostomatologica;   
-chirurgia maxillo-facciale (biennale);   
-anestesia e chirurgia stomatologica;   
-odontoiatria conservativa (biennale);   
-paradontologia (biennale);   
-clinica protesica dentaria e maxillo-facciale (biennale);   
-ortopedia dento-maxillo-facciale (biennale);   
-radiologia odontostomatologica;   
-odontotecnica;   
-odontoiatria infantile;   
-medicina legale odontostomatologica e delle assicurazioni.   
-Esercitazioni pratiche affiancheranno gli insegnamenti.   
-Suddivisione delle materie d'insegnamento nei tre anni di corso:   
-1° Anno:   
-embriologia ed anatomia dentaria e maxillo-facciale;   
-microbiologia e igiene orale;   
-farmacologia;   
-patologia odontostomatologica;   
-odontotecnica;   
-anestesia e chirurgia stomatologica;   
-odontoiatria conservativa (biennale) I;   
-esercitazioni pratiche.   
-2° Anno:   
-odontoiatria conservativa (biennale) II;   
-clinica protesica dentaria e maxillo-facciale (biennale) I;   
-parodontologia (biennale) I;   
-anatomia e istopatologia odontostomatologica;   
-odontoiatria infantile;   
-radiologia odontostomatologica;   
-ortopedia dento-maxillo-facciale (biennale) I;   
-chirurgia maxillo-facciale (biennale) I;   
-esercitazioni pratiche.   
-3° Anno:   
-clinica odontostomatologica;   
-chirurgia maxillo-facciale (biennale) II;   
-medicina legale odontostomatologica e delle assicurazioni;   
-ortopedia dento-maxillo-facciale (biennale) II;   
-clinica protesica dentaria e maxillo-facciale (biennale) II;   
-parodontologia (biennale) II;   
-esercitazioni pratiche.   
-Esami: gli esami di profitto teorici e pratici saranno sostenuti alla fine di ogni anno in un'unica sessione (ottobre).   
-Alla fine del terzo anno, dopo aver superato gli esami di profitto, gli allievi saranno ammessi a sostenere l'esame di diploma che consiste nella discussione orale di una dissertazione scritta su un tema proposto in precedenza dall'insegnante della materia sulla quale verte l'argomento e approvato dal direttore della scuola.   
+Art. 98. - Il corso degli studi della scuola di specializzazione in anatomia ed istologia patologica ha la durata di tre anni.  
+Sono ammessi alla scuola i laureati in medicina e chirurgia; il numero massimo degli iscritti e' di venticinque.  
+Art. 99. - Il piano degli studi e' articolato sui seguenti insegnamenti:  
+1° Anno:  
+Tecnica delle autopsie;  
+Diagnostica anatomo-patologica macroscopica;  
+Anatomia patologica sistematica I;  
+Tecnica istologica ed istochimica I.  
+2° Anno:  
+Anatomia patologica sistematica II;  
+Tecnica istologica ed istochimica II;  
+Diagnostica istopatologica I;  
+Elementi di microscopia elettronica.  
+3° Anno:  
+Diagnostica istopatologica II;  
+Diagnostica ematologica;  
+Tecnica e diagnostica citologica;  
+Legislazione sanitaria tanatologica.  
+Gli insegnamenti saranno integrati da seminari e cicli di conferenze nonche' esercitazioni, anche in riferimento a indagini complementari.  
+Art. 100. - Gli iscritti hanno l'obbligo di frequentare l'istituto di anatomia ed istologia patologica.  
+Gli esami delle materie biennali potranno essere sostenuti al termine del biennio. Il diploma si consegue alla fine del corso con presentazione e discussione di una tesi scritta.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1975
+### Dato a Roma, addi' 22 settembre 1972
 
-LEONE MALFATTI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 16 febbraio 1976
+Registrato alla Corte dei conti, addi' 28 novembre 1972
 
-Atti di Governo, registro n. 3, foglio n. 10
+Atti del Governo, registro n. 253, foglio n. 80. - CARUSO

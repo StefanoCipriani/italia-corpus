@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 settembre 1962 n. 1768
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 530
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 settembre 1962 n. 1768
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 530
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -10,80 +10,137 @@ Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Art. 88. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche sono aggiunti quelli di:  
-Cristallografia;  
-Geologia degli idrocarburi;  
-Geologia e paleontologia del quaternario;  
-Geologia stratigrafica;  
-Idrogeologia;  
-Interpretazione aerofotogeologica;  
-Mineralogia sistematica;  
-Oceanografia;  
-Paleontologia dei vertebrati;  
-Petrografia applicata;  
-Sedimentologia;  
-Vulcanologia.  
-Art. 95. - L'ultimo comma dell'art. 95 relativo alla composizione del Consiglio della Facolta' di chimica industriale e' soppresso.  
-Dopo l'art. 201 sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di perfezionamento in Fisica con il conseguente spostamento della numerazione degli articoli successivi:  
+Gli articoli 481, 482, 483, 484 e 485, relativi alla scuola di specializzazione in ortopedia e traumatologia, che muta la denominazione in quella di scuola di specializzazione in ortopedia, sono soppressi e sostituiti dai seguenti:   
   
-Scuola di perfezionamento in Fisica  
+Scuola di specializzazione in ortopedia   
   
-Art. 202. - E' istituita presso la Facolta' di scienze matematiche fisiche e naturali una Scuola di perfezionamento in Fisica; essa ha sede presso l'istituto di fisica dell'Universita'. La Scuola ha fine scientifico e rilascia il diploma di perfezionamento in Fisica.  
-Art. 203. - Alla Scuola vengono ammessi i laureati in Fisica, Matematica, Matematica e Fisica, Chimica e Ingegneria.  
-Il corso ha la durata di due anni. Per poter adire all'esame di diploma gli iscritti alla Scuola dovranno.  
-durante la loro permanenza nella Scuola stessa, superare l'esame sul contenuto di almeno 5 corsi annuali scelti tra gli insegnamenti sotto specificati.  
-Ciascun allievo dovra' comunicare al direttore della Scuola entro il 15 novembre di ciascun anno il piano degli studi che egli intende seguire in relazione alle materie che sono oggetto di insegnamento durante l'anno in corso. Tale piano dovra' essere approvato dal Consiglio dei professori della Scuola (v. successivo articolo 206).  
-Per gli iscritti al primo anno tale piano dovra' contemplare la frequenza di almeno tre corsi; per gli iscritti al secondo anno di almeno due. Il Consiglio dei professori della Scuola potra' riconoscere la validita' dei corsi frequentati o degli esami sostenuti presso al tre Scuole di perfezionamento.  
-Art. 204. - Il direttore proporra' all'inizio di ciascun anno al Consiglio della Facolta' di scienze l'elenco dei professori incaricati dei corsi; questi verranno nominati dal Consiglio di Facolta'.  
-Gli insegnamenti saranno scelti nel seguente piano:  
-1) Complementi di matematica;  
-2) Meccanica quantistica;  
-3) Tecniche sperimentali;  
-4) Fisica nucleare;  
-5) Particelle elementari;  
-6) Fisica dei gas;  
-7) Fisica degli stati condensati;  
-8) Geo-astrofisica;  
-9) Biofisica;  
-10) Corsi monografici.  
-I corsi monografici, in numero non superiore a due, saranno affidati ad esperti italiani o stranieri.  
-Gli insegnamenti potranno essere biennali, annuali o semestrali; a tutti gli effetti due corsi semestrali sono equivalenti ad un corso annuale. Un corso biennale a due corsi annuali.  
-Un corso annuale consistera' di non meno di 40 lezioni.  
-Il programma della Scuola potra' altresi' essere integrato da seminari.  
-La frequenza ai corsi e' obbligatoria.  
-Art. 205. - Le Commissioni per gli esami di profitto sono formate da tre insegnanti della Scuola.  
-La Commissione per l'esame di diploma e' formata da quattro membri (tra i quali il relatore), scelti dal direttore tra gli insegnanti della Scuola stessa e da un contro relatore nominato dal Consiglio dei professori nella persona di un competente nel soggetto particolare della dissertazione, il quale non faccia parte dell'Universita' di Bologna.  
-L'esame di diploma, il quale potra' essere sostenuto dopo che l'allievo abbia sostenuto gli esami di profitto previsti dall'art. 203, consistera' nella discussione sopra una dissertazione originale scritta.  
-Art. 206. - Per quanto attiene al Consiglio dei professori esso e' costituito dal direttore e dai professori che sono incaricati nell'anno in Corso di un insegnamento presso la Scuola.  
-Il direttore e' nominato dal Consiglio della Facolta' di scienze tra i titolari di cattedre di discipline fisiche, dura in carica quattro anni ed e' rieleggibile.  
-Art. 207. - Per le norme di iscrizione, le tasse e i contributi nonche' il rilascio del diploma, vengono richiamate le disposizioni in vigore per la Facolta' di scienze matematiche fisiche e naturali.  
+Art. 481. - La scuola di specializzazione in ortopedia ha sede presso l'istituto di clinica ortopedica e conferisce il diploma di specialista in ortopedia.   
+Il corso ha la durata di cinque anni e non e' suscettibile di abbreviazioni.   
+La scuola comprende un insegnamento teorico e pratico.   
+Possono essere ammessi alla scuola i laureati in medicina e chirurgia.   
+Il numero degli iscritti e' di dodici per ogni anno e non puo' superare il numero di sessanta per l'intero corso.   
+  
+Art. 482. - La frequenza e' obbligatoria nell'istituto sede della scuola per un periodo di almeno nove mesi per ogni anno accademico.   
+E' in facolta' del consiglio della scuola di concedere una deroga a tale norma solo agli iscritti alla scuola che facciano parte di cliniche ortopediche che non abbiano la scuola di specializzazione o che siano assistenti di ruolo in divisioni di ortopedia e traumatologia di ospedali di prima categoria: per queste due categorie di iscritti il periodo di frequenza presso l'istituto sede della scuola puo' essere ridotto fino a non meno di un mese ogni anno.   
+  
+Art. 483. - Gli insegnamenti si svolgono con indirizzo prevalentemente pratico, dimostrativo, ma per ogni singola materia di insegnamento deve anche svolgersi un corso regolare di lezioni, il cui numero viene fissato annualmente dal direttore della scuola in accordo con i docenti delle singole materie.   
+  
+Art. 484. - Le materie di insegnamento sono le seguenti:   
+  
+  
+  
+=====================================================================  
+Insegnamento pratico | Insegnamento teorico  
+=====================================================================  
+------- | -----------  
+1° Anno: |  
+|  
+1) chirurgia generale; | 1) anatomia dell'apparato loco-  
+2) pronto soccorso generale; | motore;  
+3) fisioterapia. | 2) fisiologia dell'apparato lo-  
+| comotore;  
+| 3) semeiotica ortopedica;  
+| 4) nozioni di chirurgia gene-  
+| rale;  
+| 5) bioingegneria dell'apparato  
+| locomotore I.  
+|  
+---------------------------------------------------------------------  
+  
+2° Anno: |  
+|  
+1) chirurgia generale (con | 1) anatomia e istologia patolo-  
+frequenza eventuale in reparti | gica dell'apparato loco motore  
+specialistici interessanti per lo | I;  
+apparato locomotore); | 2) patologia dell'apparato lo-  
+| comotore I;  
+2) reparti di pronto soccor- | 3) clinica ortopedica I;  
+so traumatologico; | 4) traumatologia dell'apparato  
+3) reparti di ortopedia e | locomotore I;  
+traumatologia. | 5) radiologia I;  
+| 6) nozioni di chirurgia d'ur-  
+| genza e pronto soccorso;  
+| 7) bioingegneria dell'apparato  
+| locomotore II.  
+|  
+---------------------------------------------------------------------  
+  
+3° Anno: |  
+|  
+1) reparti di ortopedia e | 1) anatomia e istologia patolo-  
+traumatologia (in particolare sa- | gica dell'apparato locomotore II;  
+le di degenza e sale di gessi). | 2) patologia dell'apparato lo-  
+| comotore II;  
+| 3) clinica ortopedica II;  
+| 4) traumatologia dell'apparato  
+| locomotore II;  
+| 5) radiologia II;  
+| 6) tecnica operatoria I;  
+| 7) apparato terapia e tecnica  
+| degli apparecchi gessati;  
+| 8) elementi di reurnatologia. |  
+---------------------------------------------------------------------  
+|  
+4° Anno: |  
+|  
+1) reparti di ortopedia e | 1) patologia dell'apparato lo-  
+traumatologia (frequenza nei re- | comotore III;  
+parti operatori). | 2) clinica ortopedica III;  
+| 3) traumatologia dell'apparato  
+| locomotore III;  
+| 4) tecnica operatoria II;  
+| 5) fisiokinesiterapia I;  
+| 6) neuropatologia dell'apparato  
+| locomotore ed elettrodiagnostica;  
+| 7) nozioni di medicina legale.  
+|  
+---------------------------------------------------------------------  
+  
+|  
+5° Anno: |  
+|  
+1) reparti di ortopedia e | 1) patologia dell'apparato lo-  
+traumatologia (frequenza nei re-| comotore IV;  
+parti operatori); | 2) clinica ortopedica IV;  
+2) officine ortopediche. | 3) traumatologia dell'apparato  
+| locomotore IV;  
+| 4) tecnica operatoria III;  
+| 5) fisioterapia II.  
+|  
+=====================================================================
+  
+  
+  
+  
+  
+Art. 485. - Alla fine di ogni corso gli iscritti, per essere ammessi agli anni successivi, devono superare le prove di esame sulle singole materie impartite durante l'anno. Per le materie a corso pluriennale, l'esame e' sostenuto alla fine dei corsi medesimi.   
+Per conseguire il diploma di specialista i candidati devono superare l'esame di diploma, consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 17 settembre 1962
+### Dato a Roma, addi' 11 maggio 1979
 
-SEGNI GUI
+PERTINI SPADOLINI
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 3 gennaio 1963
+Registrato alla Corte dei conti, addi' 23 ottobre 1979
 
-Atti del Governo, registrato n. 161, foglio n. 48. - VILLA
+Registro n. 77 Istruzione, foglio n. 56

@@ -1,169 +1,650 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 marzo 1968 n. 570
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1970 n. 562
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 marzo 1968 n. 570
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1970 n. 562
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+"L'art. 122, relativo all'elenco delle scuole di specializzazione della facolta' di medicina e chirurgia e' modificato nel senso che le scuole in "Medicina generale", "Otorinolaringoiatria", "Oculistica", "Anestesiologia" mutano rispettivamente le denominazioni in quelle di "Medicina interna", "Otorinolaringoiatria e patologia cervico-facciale", "Clinica oculistica", "Anestesiologia e rianimazione".
+
+L'art. 136, relativo alla scuola in medicina generale che assume la denominazione di scuola di specializzazione in medicina interna; gli articoli da 140 a 142, relativi alla scuola in otorinolaringoiatria che muta la denominazione in quella di otorinolaringoiatria e patologia cervico-facciale; l'art. 144, relativo alla scuola in clinica oculistica; l'art. 148, relativo alla scuola in medicina legale e delle assicurazioni; gli articoli 151 e 152, relativi alla scuola in anestesiologia che assume la denominazione di scuola in anestesiologia e rianimazione; l'art. 153, relativo alla scuola in medicina del lavoro; l'art. 154, relativo alla scuola in urologia, sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in medicina interna
+
+Art. 136. - Durata: 5 anni. Numero massimo di iscritti: sei per ogni anno di corso (totale: trenta iscritti).
+
+Insegnamenti impartiti nella scuola:
+
+1° Anno:
+
+Malattie infettive, distreattive e del sangue;
+
+Istituzioni di terapia;
+
+Anatomia ed istologia patologica (biennale);
+
+Clinica medica generale e terapia medica (quinquennale).
+
+2° Anno:
+
+Malattie dell'apparato cardiovascolare;
+
+Microbiologia e sierologia;
+
+Chimica clinica;
+
+Anatomia ed istologia patologica (biennale);
+
+Clinica medica generale e terapia medica (quinquennale).
+
+3° Anno:
+
+Malattie dell'apparato digerente;
+
+Malattie renali;
+
+Clinica medica generale e terapia medica (quinquennale).
+
+4° Anno:
+
+Malattie dell'apparato respiratorio;
+
+Malattie del sistema nervoso;
+
+Clinica medica generale e terapia medica (quinquennale).
+
+5° Anno:
+
+Malattie del ricambio, malattie delle ghiandole endocrine;
+
+Clinica medica generale e terapia medica (quinquennale).
+
+Insegnamenti complementari:
+
+Parassitologia medica;
+
+Genetica medica;
+
+Semeiotica dermatologica;
+
+Semeiotica oculistica;
+
+Semeiotica ginecologica;
+
+Radiologia.
+
+Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale
+
+Art. 140. - La durata della scuola e' di tre anni.
+
+Art. 141. - Il numero massimo degli Iscritti e' di quattro per ogni anno di corso (totale: dodici iscritti).
+
+Art. 142. - Gli insegnamenti impartiti nella scuola sono i seguenti:
+
+1° Anno:
+
+Anatomia;
+
+Fisiologia;
+
+Audiologia (biennale);
+
+Semeiotica otorinolaringoiatrica;
+
+Tecnica di laboratorio;
+
+Patologia otorinolaringoiatrica e cervico-facciale (triennale);
+
+Anatomia ed istologia patologica otorinolaringoiatrica.
+
+2° Anno:
+
+Tecniche operatorie in otorinolaringoiatria;
+
+Anestesiologia in otorinolaringoiatria;
+
+Patologia e clinica otorinolaringoiatrica e cervico facciale (triennale);
+
+Radiologia in rapporto con l'otorinolaringoiatria;
+
+Pediatria in rapporto con l'otorinolaringoiatria;
+
+Audiologia (biennale);
+
+Otoneurologia;
+
+Foniatria.
+
+3° Anno:
+
+Patologia e clinica otorinolaringoiatrica e cervico facciale (triennale);
+
+Terapia medica e fisica in otorinolaringoiatria;
+
+Neuropatologia in rapporto con l'otorinolaringoiatria;
+
+Chirurgia plastica;
+
+Tracheobroncoscopia;
+
+Medicina legale ed infortunistica in otorinolaringoiatria.
+
+Scuola di specializzazione in clinica oculistica
+
+Art. 144. - Durata: quattro anni. Numero massimo di iscritti: sei per ogni anno di corso (totale: ventiquattro iscritti).
+
+Insegnamenti impartiti nella scuola:
+
+1° Anno:
+
+Anatomia e istologia dell'apparato oculare;
+
+Nozioni di embriologia e genetica oculare;
+
+Fisiologia dell'occhio e nozioni di biochimica de tessuti e dei liquidi oculari;
+
+Nozioni di ottica fisiologica, esame della rifrazione Microbiologia ed igiene oculare.
+
+2° Anno:
+
+Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmologia, perimetria, campimetria, adottometria, senso cromatico, tonometria tonografia, esami elettrofunzionali, radiologia);
+
+Farmacologia oculare e terapia fisica;
+
+Anatomia patologica oculare;
+
+Patologia e clinica oculare (malattie delle palpebre della congiuntiva, delle vie lacrimali, della cornea e della sclera).
+
+3° Anno:
+
+Patologia e clinica oculare (malattie dell'uvea, della retina, del nervo e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita, glaucoma);
+
+Anomalie e patologia della motilita' oculare e della visione binoculare;
+
+Ortottica e pleottica;
+
+Affezioni otorinolaringoiatriche e occhio;
+
+Tecnica operatoria (1ª parte).
+
+4° Anno:
+
+Neuroftalmologia;
+
+Malattie oculari in rapporto ad affezioni generali;
+
+Malattie professionali;
+
+Infortunistica e medicina legale oculare;
+
+Tecnica operatoria (2ª parte).
+
+Scuola di specializzazione in medicina legale e delle assicurazioni
+
+Art. 148. - Durata: tre anni. Numero massimo di iscritti: dieci per anno (totale: trenta iscritti).
+
+Insegnamenti impartiti nella scuola:
+
+1° Anno:
+
+Medicina legale generale;
+
+Elementi di diritto pubblico e privato;
+
+Tecnica e diagnostica anatomo-patologica generale e medico-legale;
+
+Traumatologia medico-legale;
+
+Semeiotica medico-legale.
+
+2° Anno:
+
+Deontologia medica;
+
+Neuropsichiatria medico-legale;
+
+Elementi di medicina criminologica e di medicina penitenziaria;
+
+Indagini di sopralluogo;
+
+Identificazione personale.
+
+3° Anno:
+
+Medicina legale civilistica e canonistica;
+
+Tossicologia medico-legale;
+
+Tecniche di laboratorio medico-legale ed ematologia forense;
+
+Ostetricia e ginecologia forensi;
+
+Elementi di legislazione del lavoro;
+
+Elementi di medicina del lavoro;
+
+Medicina delle assicurazioni;
+
+Medicina legale militare e pensionistica civile.
+
+Scuola di specializzazione in anestesiologia e rianimazione
+
+Art. 151. - Durata: tre anni. Numero massimo di iscritti: dieci per ogni anno di corso (totale: trenta iscritti).
+
+Art. 152. - Insegnamenti impartiti nella scuola:
+
+1° Anno:
+
+Anatomia, biochimica, farmacologia;
+
+Fisica, fisiologia applicata alla anestesiologia e rianimazione;
+
+Anestesiologia;
+
+Tecniche chirurgiche di interesse anestesiologico;
+
+Aspetti medico-legali dell'anestesia e della rianimazione.
+
+2° Anno:
+
+Anestesiologia;
+
+Terapia antalgica;
+
+Rianimazione.
+
+3° Anno:
+
+Rianimazione;
+
+Tecniche speciali di anestesia e rianimazione;
+
+Indagini diagnostiche attinenti alla specialita'.
+
+Scuola di specializzazione in medicina del lavoro
+
+Art. 153. - Durata: tre anni. Numero massimo di iscritti: dieci per anno (totale: trenta iscritti).
+
+Insegnamenti impartiti nella scuola:
+
+1° Anno:
+
+Fisiologia del lavoro ed ergonomia;
+
+Tecnologia ed igiene del lavoro;
+
+Patologia e clinica del lavoro;
+
+Psicologia del lavoro.
+
+2° Anno:
+
+Fisiologia del lavoro ed ergonomia;
+
+Tecnologia ed igiene del lavoro;
+
+Patologia e clinica del lavoro;
+
+Psicologia del lavoro;
+
+Tossicologia industriale e diagnostica di laboratorio;
+
+Infortunistica e pronto soccorso;
+
+Biometria e statistica sanitaria;
+
+Medicina preventiva dei lavoratori.
+
+3° Anno:
+
+Patologia e clinica del lavoro;
+
+Tecnologia ed igiene del lavoro;
+
+Infortunistica e pronto soccorso;
+
+Medicina legale e delle assicurazioni;
+
+Medicina preventiva dei lavoratori;
+
+Radiologia e medicina nucleare;
+
+Tossicologia industriale e diagnostica di laboratorio;
+
+Dermatologia professionale.
+
+Scuola di specializzazione in urologia
+
+Art. 154. - Durata: tre anni. Numero massimo di iscritti: sei per anno (totale: diciotto iscritti).
+
+1° Anno:
+
+Anatomia descrittiva e topografica dell'apparato uro-genitale;
+
+Fisiologia dell'apparato uro-genitale;
+
+Patologia dell'apparato urinario e genitale maschile;
+
+Nefropatie mediche;
+
+Semeiotica dell'apparato uro-genitale (funzionale e di laboratorio);
+
+Tecniche strumentali e semeiologia endoscopica;
+
+Batteriologia in urologia;
+
+Farmacoterapia delle affezioni uro-genitali.
+
+2° Anno:
+
+Patologia dell'apparato urinario e genitale maschile;
+
+Clinica urologica;
+
+Patologia genitale femminile di interesse urologico;
+
+Nefrologia chirurgica;
+
+Anatomia ed istologia patologica dell'apparato urogenitale;
+
+Semeiotica dell'apparato urogenitale (funzionale e di laboratorio);
+
+Tecniche strumentali e semeiologia endoscopica;
+
+Anatomia chirurgica dell'apparato uro-genitale;
+
+Radiologia dell'apparato urinario e genitale;
+
+Le affezioni cutanee e veneree nei riguardi della urologia;
+
+La anestesiologia ed il trattamento pre e postoperatorio del malato urologico.
+
+3° Anno:
+
+Clinica urologica;
+
+Patologia e clinica urologica infantile;
+
+Radiologia dell'apparato urinario e genitale;
+
+Tecniche operatorie sull'apparato urinario e genitale;
+
+Urologia ginecologica.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 1 giugno 1970
+
+SARAGAT
+
+MISASI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 30 luglio 1970 Atti del Governo, registro n. 236, foglio n. 203. - CARUSO
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 14 ottobre 1926, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2240), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), Convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+"L'art. 122, relativo all'elenco delle scuole di specializzazione della facolta' di medicina e chirurgia e' modificato nel senso che le scuole in "Medicina generale", "Otorinolaringoiatria", "Oculistica", "Anestesiologia" mutano rispettivamente le denominazioni in quelle di "Medicina interna", "Otorinolaringoiatria e patologia cervico-facciale", "Clinica oculistica", "Anestesiologia e rianimazione".   
+L'art. 136, relativo alla scuola in medicina generale che assume la denominazione di scuola di specializzazione in medicina interna; gli articoli da 140 a 142, relativi alla scuola in otorinolaringoiatria che muta la denominazione in quella di otorinolaringoiatria e patologia cervico-facciale; l'art. 144, relativo alla scuola in clinica oculistica; l'art. 148, relativo alla scuola in medicina legale e delle assicurazioni; gli articoli 151 e 152, relativi alla scuola in anestesiologia che assume la denominazione di scuola in anestesiologia e rianimazione; l'art. 153, relativo alla scuola in medicina del lavoro; l'art. 154, relativo alla scuola in urologia, sono abrogati e sostituiti dai seguenti:   
   
-Art. 23. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti quelli di "Archeologia cristiana"; "Storia e critica del cinema"; "Storia della lingua francese"; "Filologia classica"; "Archivistica".  
+Scuola di specializzazione in medicina interna   
   
-Art. 24. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia e' aggiunto quello di "Storia della musica".  
+Art. 136. - Durata: 5 anni. Numero massimo di iscritti: sei per ogni anno di corso (totale: trenta iscritti).   
+Insegnamenti impartiti nella scuola:   
+1° Anno:   
+Malattie infettive, distreattive e del sangue;   
+Istituzioni di terapia;   
+Anatomia ed istologia patologica (biennale);   
+Clinica medica generale e terapia medica (quinquennale).   
+2° Anno:   
+Malattie dell'apparato cardiovascolare;   
+Microbiologia e sierologia;   
+Chimica clinica;   
+Anatomia ed istologia patologica (biennale);   
+Clinica medica generale e terapia medica (quinquennale).   
+3° Anno:   
+Malattie dell'apparato digerente;   
+Malattie renali;   
+Clinica medica generale e terapia medica (quinquennale).   
+4° Anno:   
+Malattie dell'apparato respiratorio;   
+Malattie del sistema nervoso;   
+Clinica medica generale e terapia medica (quinquennale).   
+5° Anno:   
+Malattie del ricambio, malattie delle ghiandole endocrine;   
+Clinica medica generale e terapia medica (quinquennale).   
+Insegnamenti complementari:   
+Parassitologia medica;   
+Genetica medica;   
+Semeiotica dermatologica;   
+Semeiotica oculistica;   
+Semeiotica ginecologica;   
+Radiologia.   
   
-Art. 60, relativo alla facolta' di ingegneria e' modificato nel senso che il primo comma e' abrogato e sostituito dal seguente:  
-"Presso la facolta' di ingegneria si seguono i seguenti corsi di laurea:  
-1) Ingegneria civile (sezione edile, idraulica, trasporti);  
-2) Ingegneria elettrotecnica;  
-3) Ingegneria meccanica;  
-4) Ingegneria nucleare;  
-5) Ingegneria aeronautica;  
-6) Ingegneria elettronica;  
-7) Ingegneria chimica".  
+Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale   
   
-Art. 61. - Nell'elenco degli insegnamenti obbligatori sul piano della facolta' del corso di laurea in ingegneria civile - sezione edile - gli insegnamenti di "Progetti edili", "Estimo ed esercizio professionale (con nozioni giuridiche)" e "Tecnologie generali dei materiali" sono soppressi e sostituiti da quelli di "Acquedotti e fognature", "Estimo ed esercizio professionale".  
-Nello stesso corso di laurea i gruppi di materie a scelta sono soppressi e sostituiti dal seguente:  
-a) Indirizzo architettura ed urbanistica:  
-Caratteri distributivi degli edifici;  
-Elementi di composizione architettonica;  
-Urbanistica.  
-b) Indirizzo strutture:  
-Geotecnica;  
-Costruzione di ponti;  
-Tecnica delle vibrazioni.  
-c) Indirizzo stradale:  
-Progetti di costruzioni stradali e ferroviarie;  
-Macchine da cantiere ed impianti stradali;  
-Tecnologie generali dei materiali.  
-Nell'elenco degli insegnamenti obbligatori sul piano della facolta' del corso di laurea in ingegneria civile sezione idraulica, gli insegnamenti di "Impianti speciali idraulici"; "Progetti di costruzioni idrauliche e marittime" e "Tecnologie generali dei materiali" sono soppressi e sostituiti da quelli di "Bonifica e irrigazione"; "Acquedotti e fognature" e "Estimo ed esercizio professionale".  
-Nello stesso corso di laurea i gruppi di materie a scelta sono soppressi e sostituiti dai seguenti:  
-a) Indirizzo impianti:  
-Ingegneria sanitaria;  
-Impianti tecnici edili.  
-b) Indirizzo stradale:  
-Costruzione di ponti;  
-Progetti di costruzioni stradali e ferrovie.  
-Nell'elenco degli insegnamenti obbligatori sul piano della facolta' del corso di laurea in ingegneria civile - sezione trasporti, l'insegnamento di "Disegno di macchine" e' soppresso e sostituito da quello di "Macchine da cantiere e impianti stradali".  
-Nello stesso corso di laurea i gruppi di materie a scelta sono soppressi e sostituiti dai seguenti:  
-a) Indirizzo urbanistico:  
-Tecnica urbanistica;  
-Architettura tecnica II.  
-b) Indirizzo strutture:  
-Tecnica delle vibrazioni;  
-Progetti di strutture;  
-Geotecnica.  
-c) Indirizzo impianti:  
-Ingegneria sanitaria;  
-Acquedotti e fognature.  
-L'insegnamento obbligatorio sul piano della facolta' del corso di laurea in ingegneria meccanica di "Organizzazione aziendale e legislazione industriale" (contrassegnato col n. 19) assume la denominazione di "Organizzazione industriale".  
-Nello stesso art. 61 dopo il corso di laurea in ingegneria elettronica sono aggiunte le seguenti norme relative all'istituzione del corso di laurea in ingegneria chimica:  
+Art. 140. - La durata della scuola e' di tre anni.   
+Art. 141. - Il numero massimo degli Iscritti e' di quattro per ogni anno di corso (totale: dodici iscritti).   
+Art. 142. - Gli insegnamenti impartiti nella scuola sono i seguenti:   
   
-LAUREA IN INGEGNERIA CHIMICA  
+1° Anno:   
+Anatomia;   
+Fisiologia;   
+Audiologia (biennale);   
+Semeiotica otorinolaringoiatrica;   
+Tecnica di laboratorio;   
+Patologia otorinolaringoiatrica e cervico-facciale (triennale);   
+Anatomia ed istologia patologica otorinolaringoiatrica.   
   
-Biennio:  
-1° Anno:  
-1) Analisi matematica I;  
-2) Geometria;  
-3) Fisica I;  
-4) Chimica I;  
-5) Disegno.  
+2° Anno:   
+Tecniche operatorie in otorinolaringoiatria;   
+Anestesiologia in otorinolaringoiatria;   
+Patologia e clinica otorinolaringoiatrica e cervico facciale (triennale);   
+Radiologia in rapporto con l'otorinolaringoiatria;   
+Pediatria in rapporto con l'otorinolaringoiatria;   
+Audiologia (biennale);   
+Otoneurologia;   
+Foniatria.   
   
-2° Anno:  
-6) Analisi matematica II;  
-7) Meccanica razionale;  
-8) Fisica 2°;  
-9) Disegno 2° (macchine);  
-10) Chimica 2° (organica).  
+3° Anno:   
+Patologia e clinica otorinolaringoiatrica e cervico facciale (triennale);   
+Terapia medica e fisica in otorinolaringoiatria;   
+Neuropatologia in rapporto con l'otorinolaringoiatria;   
+Chirurgia plastica;   
+Tracheobroncoscopia;   
+Medicina legale ed infortunistica in otorinolaringoiatria.   
   
-Triennio:  
-a) Insegnamenti obbligatori sul piano nazionale:  
-11) Scienza delle costruzioni;  
-12) Meccanica applicata alle macchine;  
-13) Fisica tecnica;  
-14) Elettrotecnica;  
-15) Chimica fisica;  
-16) Chimica applicata;  
-17) Macchine;  
-18) Principi di ingegneria chimica;  
-19) Chimica industriale;  
-20) Impianti chimici.  
+Scuola di specializzazione in clinica oculistica   
   
-b) Insegnamenti obbligatori sul piano della facolta':  
-21) Applicazioni di chimica e chimica analitica;  
-22) Tecnologie generali dei materiali;  
-23) Idraulica;  
-24) Elementi e costruzioni di macchine;  
-25) Controlli e servomeccanismi;  
-26) Chimica industriale 2°;  
-27) Metallurgia e metallografia;  
-28) Termodinamica e termocinetica applicate;  
+Art. 144. - Durata: quattro anni. Numero massimo di iscritti: sei per ogni anno di corso (totale: ventiquattro iscritti).   
+Insegnamenti impartiti nella scuola:   
+1° Anno:   
+Anatomia e istologia dell'apparato oculare;   
+Nozioni di embriologia e genetica oculare;   
+Fisiologia dell'occhio e nozioni di biochimica de tessuti e dei liquidi oculari;   
+Nozioni di ottica fisiologica, esame della rifrazione Microbiologia ed igiene oculare.   
+2° Anno:   
+Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmologia, perimetria, campimetria, adottometria, senso cromatico, tonometria tonografia, esami elettrofunzionali, radiologia);   
+Farmacologia oculare e terapia fisica;   
+Anatomia patologica oculare;   
+Patologia e clinica oculare (malattie delle palpebre della congiuntiva, delle vie lacrimali, della cornea e della sclera).   
+3° Anno:   
+Patologia e clinica oculare (malattie dell'uvea, della retina, del nervo e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita, glaucoma);   
+Anomalie e patologia della motilita' oculare e della visione binoculare;   
+Ortottica e pleottica;   
+Affezioni otorinolaringoiatriche e occhio;   
+Tecnica operatoria (1ª parte).   
+4° Anno:   
+Neuroftalmologia;   
+Malattie oculari in rapporto ad affezioni generali;   
+Malattie professionali;   
+Infortunistica e medicina legale oculare;   
+Tecnica operatoria (2ª parte).   
   
-c) Un gruppo di due materie scelte in uno dei seguenti indirizzi:  
-a) Indirizzo organico industriale-impiantistico:  
-29) Applicazioni di calcolo nella conduzione di impianti chimici;  
-30) Chimica macromolecolare;  
-31) Impianti elettrici a media e bassa tensione;  
-32) Tecnica del freddo;  
-33) Ingegneria sanitaria.  
-b) Indirizzo inorganico minerario:  
-34) Elettrochimica;  
-35) Impianti elettrici a media e bassa tensione;  
-36) Arte mineraria;  
-37) Geologia applicata all'ingegneria;  
-38) Preparazione meccanica dei minerali.  
-Allo stesso articolo, dopo l'ultimo comma sono aggiunte le seguenti propedeuticita', relative al corso di laurea in ingegneria chimica.  
-L'esame di macchine deve essere preceduto da fisica tecnica e meccanica applicata alle macchine.  
-L'esame di chimica industriale I deve essere preceduto da chimica applicata, chimica fisica, applicazioni di chimica e chimica analitica.  
-L'esame di principi d'ingegneria chimica deve essere preceduto da fisica tecnica.  
-L'esame di impianti chimici deve essere preceduto da idraulica, macchine, principi d'ingegneria chimica, elementi e costruzioni di macchine, tecnologie generali dei materiali.  
-L'esame di applicazioni di calcolo nella conduzione di impianti chimici deve essere preceduto da idraulica, macchine, principi di ingegneria chimica, chimica applicata.  
-L'esame di tecnica del freddo deve essere preceduto da fisica tecnica.  
-L'esame di arte mineraria deve essere preceduto da elettrotecnica, fisica tecnica, scienza delle costruzioni.  
-L'esame di impianti elettrici a media e bassa tensione, deve essere preceduto da elettrotecnica.  
-L'esame di termodinamica e termocinetica applicate deve essere preceduto da fisica tecnica.  
-L'esame di preparazione meccanica dei minerali deve essere preceduto da arte mineraria.  
-Art. 66, relativo alle propedeuticita' degli esami del triennio e' modificato nel senso che le norme di cui alle lettere a), b), d), e), h), 1) sono abrogate e sostituite dalle seguenti:  
+Scuola di specializzazione in medicina legale e delle assicurazioni   
+Art. 148. - Durata: tre anni. Numero massimo di iscritti: dieci per anno (totale: trenta iscritti).   
+Insegnamenti impartiti nella scuola:   
+1° Anno:   
+Medicina legale generale;   
+Elementi di diritto pubblico e privato;   
+Tecnica e diagnostica anatomo-patologica generale e medico-legale;   
+Traumatologia medico-legale;   
+Semeiotica medico-legale.   
+2° Anno:   
+Deontologia medica;   
+Neuropsichiatria medico-legale;   
+Elementi di medicina criminologica e di medicina penitenziaria;   
+Indagini di sopralluogo;   
+Identificazione personale.   
+3° Anno:   
+Medicina legale civilistica e canonistica;   
+Tossicologia medico-legale;   
+Tecniche di laboratorio medico-legale ed ematologia forense;   
+Ostetricia e ginecologia forensi;   
+Elementi di legislazione del lavoro;   
+Elementi di medicina del lavoro;   
+Medicina delle assicurazioni;   
+Medicina legale militare e pensionistica civile.   
   
-a) gli esami di "Tecnica delle costruzioni" "Progetti di strutture" "Costruzioni di strade, ferrovie ed aeroporti" "Costruzioni idrauliche", "Costruzione di ponti", "Costruzioni di macchine", "Costruzioni aeronautiche", "Arte mineraria", "Analisi sperimentale delle tensioni", "Costruzioni di macchine elettriche", "Architettura tecnica Il", "Caratteri distributivi degli edifici", devono essere preceduti da quello di scienza delle costruzioni;  
-b) gli esami di macchine, costruzioni di macchine, motori d'aeromobili, progetti di macchine, costruzioni di macchine elettriche, devono essere preceduti dall'esame di meccanica applicata alle macchine.  
-L'esame di tecnologia meccanica deve essere preceduto dai seguenti: scienza delle costruzioni, meccanica applicata alle macchine, meccanica delle macchine e macchine, metallurgia e metallografia;  
-d) gli esami di architettura tecnica 11, caratteri distributivi degli edifici, architettura e composizione architettonica, devono essere preceduti dall'esame di architettura tecnica.  
-L'esame di architettura e composizione architettonica deve essere preceduto da quello di architettura tecnica II;  
-e) gli esami di costruzioni idrauliche, bonifica ed irrigazioni, acquedotti e fognature, complementi di idraulica (idraulica II), impianti tecnici edili, devono essere preceduti da quello di idraulica;  
-h) gli esami di tecnologie speciali, impianti meccanici, impianti industriali meccanici, tecnologie meccaniche applicate alle costruzioni navali, devono essere preceduti da quello di tecnologia meccanica;  
-l) l'esame di costruzioni di strade ferroviarie ed aeroporti deve essere preceduto da quello di progetti di costruzioni stradali e ferroviarie, che - a sua volta - deve essere preceduto da quello di geologia applicata all'ingegneria.  
-L'esame di macchine da cantiere ed impianti stradali deve essere preceduto da quelli di costruzioni di strade, ferrovie ed aeroporti e progetti di costruzioni stradali e ferroviarie.  
-Analogamente, l'esame di impianti di trasporto, circolazione e traffico deve essere preceduto da quello di tecnica ed economia dei trasporti.  
+Scuola di specializzazione in anestesiologia e rianimazione   
+  
+Art. 151. - Durata: tre anni. Numero massimo di iscritti: dieci per ogni anno di corso (totale: trenta iscritti).   
+Art. 152. - Insegnamenti impartiti nella scuola:   
+  
+1° Anno:   
+Anatomia, biochimica, farmacologia;   
+Fisica, fisiologia applicata alla anestesiologia e rianimazione;   
+Anestesiologia;   
+Tecniche chirurgiche di interesse anestesiologico;   
+Aspetti medico-legali dell'anestesia e della rianimazione.   
+  
+2° Anno:   
+Anestesiologia;   
+Terapia antalgica;   
+Rianimazione.   
+  
+3° Anno:   
+Rianimazione;   
+Tecniche speciali di anestesia e rianimazione;   
+Indagini diagnostiche attinenti alla specialita'.   
+  
+Scuola di specializzazione in medicina del lavoro   
+  
+Art. 153. - Durata: tre anni. Numero massimo di iscritti: dieci per anno (totale: trenta iscritti).   
+Insegnamenti impartiti nella scuola:   
+1° Anno:   
+Fisiologia del lavoro ed ergonomia;   
+Tecnologia ed igiene del lavoro;   
+Patologia e clinica del lavoro;   
+Psicologia del lavoro.   
+  
+2° Anno:   
+Fisiologia del lavoro ed ergonomia;   
+Tecnologia ed igiene del lavoro;   
+Patologia e clinica del lavoro;   
+Psicologia del lavoro;   
+Tossicologia industriale e diagnostica di laboratorio;   
+Infortunistica e pronto soccorso;   
+Biometria e statistica sanitaria;   
+Medicina preventiva dei lavoratori.   
+3° Anno:   
+Patologia e clinica del lavoro;   
+Tecnologia ed igiene del lavoro;   
+Infortunistica e pronto soccorso;   
+Medicina legale e delle assicurazioni;   
+Medicina preventiva dei lavoratori;   
+Radiologia e medicina nucleare;   
+Tossicologia industriale e diagnostica di laboratorio;   
+Dermatologia professionale.   
+  
+Scuola di specializzazione in urologia   
+  
+Art. 154. - Durata: tre anni. Numero massimo di iscritti: sei per anno (totale: diciotto iscritti).   
+  
+1° Anno:   
+Anatomia descrittiva e topografica dell'apparato uro-genitale;   
+Fisiologia dell'apparato uro-genitale;   
+Patologia dell'apparato urinario e genitale maschile;   
+Nefropatie mediche;   
+Semeiotica dell'apparato uro-genitale (funzionale e di laboratorio);   
+Tecniche strumentali e semeiologia endoscopica;   
+Batteriologia in urologia;   
+Farmacoterapia delle affezioni uro-genitali.   
+  
+2° Anno:   
+Patologia dell'apparato urinario e genitale maschile;   
+Clinica urologica;   
+Patologia genitale femminile di interesse urologico;   
+Nefrologia chirurgica;   
+Anatomia ed istologia patologica dell'apparato urogenitale;   
+Semeiotica dell'apparato urogenitale (funzionale e di laboratorio);   
+Tecniche strumentali e semeiologia endoscopica;   
+Anatomia chirurgica dell'apparato uro-genitale;   
+Radiologia dell'apparato urinario e genitale;   
+Le affezioni cutanee e veneree nei riguardi della urologia;   
+La anestesiologia ed il trattamento pre e postoperatorio del malato urologico.   
+  
+3° Anno:   
+Clinica urologica;   
+Patologia e clinica urologica infantile;   
+Radiologia dell'apparato urinario e genitale;   
+Tecniche operatorie sull'apparato urinario e genitale;   
+Urologia ginecologica.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 marzo 1963
+### Dato a Roma, addi' 1 giugno 1970
 
-SARAGAT GUI
+SARAGAT MISASI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 24 aprile 196
+Registrato alla Corte dei conti, addi' 30 luglio 1970
 
-Atti del Governo, registro n. 219, foglio n. 55 - GRECO
+Atti del Governo, registro n. 236, foglio n. 203. - CARUSO

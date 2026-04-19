@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 maggio 1985 n. 908
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 giugno 1984 n. 685
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 maggio 1985 n. 908
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 giugno 1984 n. 685
 =============================================================
 
 Assegnazione di un posto di tecnico laureato presso l'Universita' degli studi di Milano.
@@ -10,10 +10,10 @@ Assegnazione di un posto di tecnico laureato presso l'Universita' degli studi di
 Art. 1
 ------
 
-n.
+N.
 
-908. Decreto del Presidente della Repubblica 31 maggio 1985, col quale, sulla proposta del Ministro della pubblica istruzione, un posto disponibile nel ruolo dei tecnici laureati viene assegnato all'istituto di fisiologia generale e chimica biologica (per le esigenze della cattedra di chimica biologica) della facolta' di farmacia dell'Universita' di Milano.  
+685. Decreto del Presidente della Repubblica 21 giugno 1984, col quale, sulla proposta del Ministro della pubblica istruzione, un posto disponibile nel ruolo dei tecnici laureati viene assegnato alla terza clinica pediatrica della facolta' di medicina e chirurgia dell'Universita' di Milano.  
   
 Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 14 febbraio 1986  
-Registro n. 9 Istruzione, foglio n. 117
+Registrato alla Corte dei conti, addi' 8 ottobre 1984  
+Registro n. 60 Istruzione, foglio n. 369

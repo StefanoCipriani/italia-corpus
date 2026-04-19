@@ -1,96 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 settembre 1965 n. 1209
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1974 n. 827
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 settembre 1965 n. 1209
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1974 n. 827
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230) e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 9. - All'elenco degli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti quelli di:
-
-Diritto pubblico comparato;
-
-Diritto processuale amministrativo.
-
-Art. 10, relativo alle propedeuticita' di iscrizione e frequenza nel corso di laurea in Giurisprudenza e' modificato nel senso che e' soppresso il vincolo di propedeuticita' tra il Diritto processuale civile ed il Diritto internazionale.
-
-Art. 52. - All'elenco degli insegnamenti complementari del corso di laurea in Lettere sono aggiunti quelli di:
-
-Storia dell'arte contemporanea;
-
-Storia dello spettacolo;
-
-Storia della miniatura e delle arti minori;
-
-Storia dell'architettura e urbanistica;
-
-Archeologia cristiana;
-
-Antropologia culturale.
-
-Art. 53 - All'elenco degli insegnamenti complementari del corso di laurea in Filosofia e aggiunto quello di "Etnologia".
-
-Art. 58. - All'elenco degli insegnamenti complementari del corso di laurea in Lingue e letterature straniere (indirizzo europeo) sono aggiunti quelli di:
-
-Storia dell'arte contemporanea;
-
-Storia dello spettacolo;
-
-Storia della miniatura e delle arti minori;
-
-Lingue e letterature scandinave.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 28 settembre 1965
-
-SARAGAT
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 30 ottobre 1965 Atti del Governo, registro n. 197, foglio n. 142. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230) e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -99,34 +24,69 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 9. - All'elenco degli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti quelli di:  
-Diritto pubblico comparato;  
-Diritto processuale amministrativo.  
-Art. 10, relativo alle propedeuticita' di iscrizione e frequenza nel corso di laurea in Giurisprudenza e' modificato nel senso che e' soppresso il vincolo di propedeuticita' tra il Diritto processuale civile ed il Diritto internazionale.  
-Art. 52. - All'elenco degli insegnamenti complementari del corso di laurea in Lettere sono aggiunti quelli di:  
-Storia dell'arte contemporanea;  
-Storia dello spettacolo;  
-Storia della miniatura e delle arti minori;  
-Storia dell'architettura e urbanistica;  
-Archeologia cristiana;  
-Antropologia culturale.  
-Art. 53 - All'elenco degli insegnamenti complementari del corso di laurea in Filosofia e aggiunto quello di "Etnologia".  
-Art. 58. - All'elenco degli insegnamenti complementari del corso di laurea in Lingue e letterature straniere (indirizzo europeo) sono aggiunti quelli di:  
-Storia dell'arte contemporanea;  
-Storia dello spettacolo;  
-Storia della miniatura e delle arti minori;  
-Lingue e letterature scandinave.  
+L'art. 281, relativo alla scuola di specializzazione in "Terapia fisica e riabilitazione" e' modificato nel senso che le lettere I) e L) sono abrogate e sostituite dalle seguenti:  
+I) Le materie di base sono le seguenti:  
+1) Principi di anatomia funzionale;  
+2) Fisiopatologia dell'apparato neuromotore;  
+3) Semeiotica e clinica delle motulesioni neurologiche;  
+4) Semeiotica e clinica delle deformita' e motulesioni ortopediche;  
+5) Massoterapia e terapia manuale;  
+6) Cinesiologia e cinesiterapia e ginnastica medica;  
+7) Idroterapia e balneoterapia;  
+8) Elettroterapia e elettrologia;  
+9) Terapia con onde corte ed altri mezzi fisici;  
+10) Rieducazione motoria e riabilitazione in campo ortopedico e traumatologico;  
+11) Rieducazione motoria e riabilitazione in campo neurologico.  
+Le materie di caratterizzazione sono le seguenti:  
+1) Elettromiografia;  
+2) Cinesiterapia e riabilitazione nelle malattie internistiche;  
+3) Rieducazione respiratoria;  
+4) Riabilitazione nei disturbi del linguaggio;  
+5) Problemi psicologici e psicopatologici della riabilitazione;  
+6) Medicina assicurativa;  
+7) Rieducazione nei disturbi della visione;  
+8) Climatoterapia;  
+9) Problemi di riabilitazione geriatrica;  
+10) Riqualificazione professionale.  
+L) Le materie di insegnamento sono cosi' suddivise nei tre anni di corso:  
+  
+1° Anno:  
+Principi di anatomia funzionale (propedeutico per tutte le materie di base degli anni successivi e per quelle facoltative).  
+Fisiopatologia dell'apparato neuromotore (come sopra).  
+  
+2° Anno:  
+Semeiotica e clinica delle motulesioni neurologiche (propedeutico per le materie di insegnamento di base del III anno);  
+Semeiotica e clinica delle deformita' e motulesioni ortopediche (come sopra);  
+Massoterapia e terapia manuale;  
+Cinesiologia e cinesiterapia e ginnastica medica;  
+Idroterapia e balneoterapia;  
+Elettromiografia;  
+Cinesiterapia e riabilitazione nelle malattie internistiche;  
+Riabilitazione nei disturbi del linguaggio;  
+Medicina assicurativa;  
+Riqualificazione professionale.  
+  
+3° Anno:  
+Elettroterapia ed elettrologia;  
+Terapia con onde corte ed altri mezzi fisici;  
+Rieducazione motoria e riabilitazione in campo ortopedico e traumatologico;  
+Rieducazione motoria e riabilitazione in campo neurologico;  
+Rieducazione respiratoria;  
+Climatoterapia;  
+Problemi di riabilitazione geriatrica;  
+Rieducazione nei disturbi della visione;  
+Problemi psicologici e psicopatologici della riabilitazione.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 settembre 1965
+### Dato a Roma, addi' 28 ottobre 1974
 
-SARAGAT GUI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 30 ottobre 1965
+Registrato alla Corte dei conti, addi' 27 gennaio 1975
 
-Atti del Governo, registro n. 197, foglio n. 142. - VILLA
+Atti di Governo, registro n. 8, foglio n. 30

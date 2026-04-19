@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 maggio 1978 n. 614
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1978 n. 618
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 maggio 1978 n. 614
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1978 n. 618
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 -------------------------------------------------------------------
@@ -12,15 +12,15 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933 n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -28,508 +28,106 @@ Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appreso:
 
-La scuola di specializzazione in oculistica di cui agli articoli 142 e 143, muta la denominazione in quella di scuola di specializzazione in oftalmologia. L'art. 143, relativo alla predetta scuola di specializzazione in oftalmologia e' integrato con il seguente nuovo comma:
+Gli articoli da 112 a 120, relativi alla scuola di perfezionamento e di specializzazione in diritto del lavoro ed in organizzazione aziendale, che muta la denominazione in scuola di perfezionamento e di specializzazione in diritto del lavoro, sono soppressi e sostituiti dai seguenti:
 
-Le tasse, soprattasse e contributi sono fissati nel modo seguente:
+Scuola di perfezionamento in diritto del lavoro
 
-=====================================================================
+Art. 112. - La scuola di diritto del lavoro, annessa all'istituto di diritto del lavoro della facolta' di giurisprudenza, ha lo scopo di integrare la preparazione scientifica e professionale dei giovani, perfezionandoli e specializzandoli nelle discipline giuridiche attinenti al lavoro.
 
-| 1° anno | Anni successivi
+Art. 113. - La scuola e' retta da un direttore e da un consiglio composto dai professori titolari degli insegnamenti fondamentali della scuola. Partecipano alle riunioni del consiglio per l'esame dei problemi concernenti il coordinamento dei programmi tutti i docenti della scuola.
 
-=====================================================================
+Direttore ne e' il professore titolare della cattedra di diritto del lavoro della facolta' di giurisprudenza o, in mancanza, un professore di ruolo nominato dal rettore su proposta della facolta' di giurisprudenza.
 
-tassa di immatricolazione | 5.000 | -
+Il direttore puo' designare tra i componenti del consiglio un vice direttore che lo coadiuva e lo sostituisce in caso di impedimento.
 
-costo libretto iscrizione e tesserino | 1.500 | -
+La nomina dei docenti e' fatta dal rettore su designazione del consiglio della facolta' di giurisprudenza su proposta del consiglio della scuola.
 
-tassa annuale di iscrizione | 100.000 | 100.000
+Art. 114. - Alla scuola possono essere iscritti i laureati in giurisprudenza, scienze politiche, economia e commercio.
 
-soprattassa esami profitto | 7.000 | 7.000
+Possono essere iscritti anche coloro che siano in possesso di una laurea diversa e che abbiano sostenuto con esito positivo un colloquio di ammissione.
 
-contributo opere sportive assistenziali | 1.000 | 1.000
+La misura delle tasse, soprattasse e contributi vari per la scuola e' la seguente:
 
-contributo biblioteca | 10.000 | 10.000
+tassa annuale d'iscrizione. . . . . . . . . . . . . . . . . L. 20.000 soprattassa annuale per esami di profitto. . . . . . . . . . L. 7.000 contributo di riscaldamento. . . . . . . . . . . . . . . . . L. 3.000 soprattassa per esami di diploma . . . . . . . . . . . . . . L. 3.000 tassa di diploma . . . . . . . . . . . . . . . . . . . . . . L. 6.000
 
-contributo clinica e laboratorio | 48.000 | 48.000
+Art. 115. - La scuola ha la durata di due anni. Nel primo anno sono impartiti per incarico gli insegnamenti fondamentali insostituibili.
 
-prestazioni segreteria | 3.000 | 3.000
+Nel secondo anno gli studenti hanno l'obbligo di frequentare, secondo un piano presentato ed approvato al suo inizio, almeno tre tra i corsi organizzati in forma di seminario che siano effettivamente attivati. Il piano di studi formulato dagli studenti per il secondo anno deve essere approvato dal consiglio della scuola.
 
-contributo riscaldamento | 3.000 | 3.000
+Art. 116. - L'esame di diploma consiste in un colloquio generale sulle materie seguite dallo studente e nella discussione di una breve memoria originale, redatta anche in forma di nota a sentenza. La scuola rilascia un diploma di specializzazione. Il colloquio generale che lo studente deve sostenere, verte sulle materie fondamentali insostituibili e su quelle attivate in forma di seminario inserite nel piano individuale ai sensi dell'art. 115.
 
-Totale | 178.500 | 172.000
+Art. 117. - Gli insegnamenti fondamentali insostituibili nella scuola sono:
 
-Gli articoli 149 e 150, relativi alla scuola di specializzazione in clinica pediatrica, che muta la denominazione in quella di scuola di specializzazione in pediatria, sono abrogati e sostituiti dai seguenti:
+1) diritto dell'impresa privata;
 
-Scuola di specializzazione in pediatria
+2) diritto dell'impresa pubblica;
 
-Art. 149. - La scuola di specializzazione in pediatria ha sede presso la clinica pediatrica dell'Universita' di Trieste e conferisce il diploma di specialista in pediatria.
+3) diritto sindacale;
 
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+4) diritto del lavoro;
 
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.
+5) diritto della previdenza sociale (o della "sicurezza" sociale).
 
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+Gli insegnamenti della scuola tra i quali vanno scelti quelli da attivare in forma di seminario sono:
 
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.
+1) legislazione del lavoro;
 
-Il numero massimo degli allievi e' di sei per anno di corso e complessivamente di ventiquattro per l'intero corso di studi.
+2) il lavoro marittimo e del personale di volo;
 
-L'ammissione al corso avviene per titoli ed esami.
+3) il rapporto di pubblico impiego;
 
-Art. 150. - Le materie di insegnamento sono le seguenti:
+4) diritto processuale del lavoro e della sicurezza sociale;
 
-1° Anno:
+5) diritto penale del lavoro;
 
-genetica;
+6) diritto internazionale del lavoro;
 
-auxologia;
+7) diritto sociale europeo;
 
-alimentazione;
+8) storia del movimento sindacale;
 
-epidemiologia;
+9) economia del lavoro;
 
-malattie infettive;
+10) contratti speciali di lavoro;
 
-clinica pediatrica I.
+11) sociologia del lavoro;
 
-2° Anno:
+12) psicologia industriale;
 
-radiologia;
+13) diritto comparato del lavoro;
 
-legislazione del minore;
+14) diritto sindacale comparato;
 
-organizzazione sanitaria;
+15) diritto comparato della sicurezza sociale;
 
-psicologia pediatrica;
+16) problemi attuali di organizzazione sindacale.
 
-oculistica ed ortottica;
+Gli insegnamenti sono integrati dallo svolgimento di conferenze, anche articolate, di letture collettive di monografie e di sentenze.
 
-otorino e foniatria;
+Art. 118. - La scuola curera' la stampa di una rivista nella quale potranno essere pubblicate anche le memorie di diploma giudicate degne a tale fine.
 
-odonto;
+Art. 119. - La scuola potra' stabilire, su deliberazione del consiglio, rapporti continuativi con enti sindacali, con enti pubblici e pubbliche amministrazioni, con istituzioni attinenti alle materie del corso, ai fini della ricerca scientifica e della specializzazione professionale dei giovani.
 
-neonatologia I;
+La scuola potra', inoltre, su deliberazione del consiglio, promuovere corsi intensivi di aggiornamento secondo le modalita' stabilite di volta in volta.
 
-chirurgia pediatrica I;
-
-pediatria preventiva e sociale I;
-
-clinica pediatrica II.
-
-3° Anno:
-
-neurologia;
-
-psichiatria infantile;
-
-nefrologia e urologia;
-
-ginecologia pediatrica;
-
-neonatologia II;
-
-chirurgia pediatrica II;
-
-pediatria preventiva e sociale II;
-
-cardiologia I;
-
-endocrinologia I;
-
-ematologia I;
-
-immunologia I;
-
-gastroenterologia I;
-
-clinica pediatrica III.
-
-4° Anno:
-
-oncologia;
-
-pneumologia;
-
-ortopedia e traumatologia;
-
-dermatologia;
-
-cardiologia II;
-
-endocrinologia II;
-
-ematologia II;
-
-immunologia II;
-
-gastroenterologia II;
-
-clinica pediatrica IV.
-
-La frequenza alle lezioni, alle esercitazioni pratiche e' obbligatoria. Gli allievi, che non conseguono le attestazioni di frequenza sul relativo libretto, non potranno essere ammessi a sostenere le prove di esame.
-
-Alla fine di ciascun anno di corso gli iscritti, per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
-
-Al termine del corso di studi, per il conseguimento del diploma di specializzazione in pediatria, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
-
-Gli articoli 155, 156, 157, 158 e 159, relativi alla scuola di specializzazione in chirurgia toracica, sono abrogati e sostituiti dai seguenti:
-
-Scuola di specializzazione in chirurgia toracica
-
-Art. 155.- La scuola di specializzazione in chirurgia toracica ha sede presso l'istituto di patologia chirurgica dell'Universita' di Trieste e conferisce il diploma di specialista in chirurgia toracica.
-
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
-
-Art. 156. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
-
-La durata del corso di studi e' di cinque anni, non e' suscettibile di abbreviazione e prevede l'insegnamento di tutte le branche della chirurgia toracica, chirurgia polmonare, chirurgia cardiaca, chirurgia esofagea, chirurgia del mediastino e della parete toracica.
-
-Il numero massimo degli allievi e' di otto per anno di corso e complessivamente di quaranta iscritti per l'intero corso di studi.
-
-L'ammissione al corso avviene per concorso per titoli ed esami.
-
-Art. 157. - Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-1) embriologia, anatomia descrittiva e topografica del torace e degli organi endotoracici;
-
-2) anatomia chirurgica del torace e degli organi endotoracici;
-
-3) anatomia patologica delle malattie del torace (biennale I);
-
-4) anestesia in chirurgia toracica.
-
-2° Anno:
-
-1) fisiopatologia dell'apparato respiratorio;
-
-2) fisiopatologia dell'apparato cardiocircolatorio;
-
-3) semeiotica dell'apparato respiratorio, dell'esofago e del mediastino;
-
-4) semeiotica dell'apparato cardiocircolatorio;
-
-5) anatomia patologica delle malattie del torace (biennale II). 3° Anno:
-
-1) patologia e clinica chirurgica delle affezioni dell'apparato respiratorio, del mediastino e della parete toracica (biennale I);
-
-2) patologia e clinica chirurgica delle affezioni del cuore e dei grossi vasi endotoracici;
-
-3) patologia e clinica chirurgica delle affezioni dell'esofago e del diaframma;
-
-4) elementi di terapia medica delle cardio-angiopatie;
-
-5) elementi di fisioterapia respiratoria;
-
-6) diagnostica radiologica nelle malattie chirurgiche del torace.
-
-4° Anno:
-
-1) patologia e clinica chirurgica delle affezioni dell'apparato respiratorio, del mediastino e della parete toracica (biennale II);
-
-2) tecnica operatoria per le affezioni della parete toracica, dell'apparato respiratorio, dell'esofago, del mediastino e del diaframma (biennale I);
-
-3) tecnica operatoria delle affezioni del cuore, pericardio e grossi vasi endotoracici;
-
-4) principi e tecniche della circolazione extracorporea.
-
-5° Anno:
-
-1) terapia intensiva e rianimazione in chirurgia toracica;
-
-2) tecnica operatoria per le affezioni della parete toracica, dell'apparato respiratorio, dell'esofago, del mediastino e del diaframma (biennale II);
-
-3) terapia chirurgica della tbc pleuropolmonare.
-
-Art. 158. - Il corso si compone di lezioni, di esercitazioni pratiche, di periodi di internato, di conferenze riguardanti argomenti specialistici, di turni in corsia ed in sala operatoria.
-
-La frequenza ai corsi, agli internati, in corsia e in sala operatoria, alle esercitazioni e' obbligatoria. In caso contrario i candidati non potranno ottenere l'attestazione di frequenza necessaria per l'ammissione agli esami.
-
-Alla fine di ciascun anno di corso gli specializzandi che abbiano ottenuto la firma di frequenza dovranno sostenere un esame di profitto sulle materie di insegnamento il cui superamento e' condizione necessaria ed indispensabile per ottenere la iscrizione all'anno successivo, e, per quelli che sono stati iscritti al quinto anno, per l'ammissione all'esame di diploma. Durante il corso gli specializzandi frequenteranno la sala operatoria in maniera assidua, dovranno assistere a numerosi interventi di chirurgia toracica ed essere in grado di eseguirne essi stessi.
-
-Per tutti gli specializzandi che hanno superato gli esami dei cinque anni, alla fine del quinto anno di corso ha luogo l'esame di diploma, consistente nella presentazione e discussione di una dissertazione scritta su un argomento di chirurgia toracica concordato con la direzione della scuola.
-
-Art. 159. - Le tasse, soprattasse e contributi sono fissati nel modo seguente:
-
-=====================================================================
-
-| 1° anno | Anni successivi
-
-=====================================================================
-
-tassa di immatricolazione | 5.000 | -
-
-costo libretto iscrizione e tesserino | 1.500 | -
-
-tassa annuale di iscrizione | 100.000 | 100.000
-
-soprattassa esami profitto | 7.000 | 7.000
-
-contributo opere sportive assistenziali | 1.000 | 1.000
-
-contributo clinica e laboratorio | 48.000 | 48.000
-
-contributo biblioteca | 10.000 | 10.000
-
-prestazioni segreteria | 3.000 | 3.000
-
-contributo riscaldamento | 3.000 | 3.000
-
-Totale | 178.500 | 172.000
-
-Dopo l'art. 171, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in urologa.
-
-Scuola di specializzazione in urologia
-
-Art. 172. - La scuola di specializzazione in urologia ha sede presso la cattedra di clinica urologica dell'Universita' di Trieste e conferisce il diploma di specialista in urologia.
-
-Art. 173. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine
-
-Art. 174. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
-
-Art. 175. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.
-
-Art. 176. - Il numero degli allievi e' di quattro per anno di corso e complessivamente di venti iscritti per l'intero corso di studi.
-
-Art. 177. - L'ammissione al corso avviene per titoli ed esami.
-
-Art. 178. - Le materie di insegnamento e gli esami sono i seguenti:
-
-=====================================================================
-
-Insegnamenti | Esami
-
-=====================================================================
-
-1° Anno: |
-
----------------------------------------------------------------------
-
-1) anatomia sistematica e |1) anatomia sistematica e
-
-topografica dell'apparato urinario|topografica dell'apparato urinario
-
-e genitale maschile |e genitale maschile
-
----------------------------------------------------------------------
-
-2) fisiologia dell'apparato |2) fisiologia dell'apparato
-
-urinario e genitale maschile |urinario e genitale maschile
-
----------------------------------------------------------------------
-
-3) batteriologia in urologia |3) batteriologia in urologia
-
----------------------------------------------------------------------
-
-4) semeiotica funzionale e |
-
-strumentale dell'apparato |
-
-uro-genitale I |
-
----------------------------------------------------------------------
-
-2° Anno: |
-
----------------------------------------------------------------------
-
-1) semeiotica funzionale e |1) semeiotica funzionale e
-
-strumentale dell'apparato |strumentale dell'apparato
-
-uro-genitale II |uro-genitale
-
----------------------------------------------------------------------
-
-2) le nefropatie mediche |2) le nefropatie mediche
-
----------------------------------------------------------------------
-
-3) anatomia chirurgica |3) anatomia chirurgica
-
-dell'apparato urinario e genitale |dell'apparato urinario e genitale
-
-maschile |maschile
-
----------------------------------------------------------------------
-
-4) patologia dell'apparato |
-
-urinario e genitale maschile I |
-
----------------------------------------------------------------------
-
-5) radiologia dell'apparato |
-
-urinario e genitale maschile I |
-
----------------------------------------------------------------------
-
-3° Anno: |
-
----------------------------------------------------------------------
-
-1) patologia dell'apparato |1) patologia dell'apparato
-
-urinario e genitale maschile II |urinario e genitale maschile
-
----------------------------------------------------------------------
-
-2) radiologia dell'apparato |2) radiologia dell'apparato
-
-urinario e genitale maschile II |urinario e genitale maschile
-
----------------------------------------------------------------------
-
-3) le affezioni cutanee e veneree |3) le affezioni cutanee e veneree
-
-nei riguardi dell'urologia |nei riguardi dell'urologia
-
----------------------------------------------------------------------
-
-4) andrologia |4) andrologia
-
----------------------------------------------------------------------
-
-4° Anno: |
-
----------------------------------------------------------------------
-
-1) anatomia e istologia patologica|1) anatomia e istologia patologica
-
-dell'apparato urinario e genitale |dell'apparato urinario e genitale
-
----------------------------------------------------------------------
-
-2) farmacoterapia delle affezioni |2) farmacoterapia delle affezioni
-
-uro-genitali |uro-genitali
-
----------------------------------------------------------------------
-
-3) anestesia e trattamento pre e |3) anestesia e trattamento pre e
-
-post-operatorio del malato |post-operatorio del malato
-
-urologico |urologico
-
----------------------------------------------------------------------
-
-4) nefrologia chirurgica |4) nefrologia chirurgica
-
----------------------------------------------------------------------
-
-5) clinica urologica I |
-
----------------------------------------------------------------------
-
-6) procedimenti di chirurgia |
-
-endoscopica I |
-
----------------------------------------------------------------------
-
-7) interventi e procedimenti |
-
-operatori sull'apparato urinario e|
-
-genitale maschile I |
-
----------------------------------------------------------------------
-
-5° Anno: |
-
----------------------------------------------------------------------
-
-1) clinica urologica II |1) clinica urologica
-
----------------------------------------------------------------------
-
-2) patologia e clinica urologica |2) patologia e clinica urologica
-
-infantile |infantile
-
----------------------------------------------------------------------
-
-3) urologia ginecologica |3) urologia ginecologica
-
----------------------------------------------------------------------
-
-|4) interventi e procedimenti
-
-4) procedimenti di chirurgia |operatori sull'apparato urinario e
-
-endoscopica II |genitale maschile
-
----------------------------------------------------------------------
-
-5) la chirurgia dell'intestino |
-
----------------------------------------------------------------------
-
-6) la chirurgia vascolare |
-
----------------------------------------------------------------------
-
-7) interventi e procedimenti |
-
-operatori sull'apparato urinario e|
-
-genitale maschile II |
-
-Art. 179. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
-
-Art. 180. - Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno, ad eccezione delle discipline svolte in corsi pluriennali il cui esame sara' sostenuto alla fine dei corsi medesimi.
-
-Art. 181. - Al termine del corso di studi per il conseguimento del diploma di specialista in urologia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
-
-Art. 182. - Le tasse, soprattasse e contributi sono stabiliti nel modo seguente:
-
-=====================================================================
-
-| 1° anno | Anni successivi
-
-=====================================================================
-
-tassa di immatricolazione | 5.000 | -
-
-costo libretto iscrizione e tesserino | 1.500 | -
-
-tassa annuale di iscrizione | 100.000 | 100.000
-
-soprattassa esami profitto | 7.000 | 7.000
-
-contributo opere sportive assistenziali | 1.000 | 1.000
-
-contributo biblioteca | 10.000 | 10.000
-
-contributo clinica e laboratorio | 48.000 | 48.000
-
-prestazioni segreteria | 3.000 | 3.000
-
-contributo riscaldamento | 3.000 | 3.000
-
-Totale | 178.500 | 172.000
+Art. 120. - La scuola promuove l'assegnazione agli iscritti di borse e premi di studio secondo le modalita' stabilite per ciascun anno dal consiglio della facolta' di giurisprudenza su proposta del consiglio della scuola.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 22 maggio 1978
+Dato a Roma, addi' 18 febbraio 1978
 
 LEONE
 
-PEDINI
+MALFATTI
 
 Visto, il Guardasigilli: BONIFACIO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 4 ottobre 1978 Registro n. 107 Istruzione, foglio n. 175
+alla Corte dei conti, addi' 9 ottobre 1978 Registro n. 109 Istruzione, foglio n. 191
 
 Art. 1
 ------
@@ -537,204 +135,72 @@ Art. 1
  IL PRESIDENTE DELLA REPUBBLICA  
   
 Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933 n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro della pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appreso:  
+Gli articoli da 112 a 120, relativi alla scuola di perfezionamento e di specializzazione in diritto del lavoro ed in organizzazione aziendale, che muta la denominazione in scuola di perfezionamento e di specializzazione in diritto del lavoro, sono soppressi e sostituiti dai seguenti:  
   
-La scuola di specializzazione in oculistica di cui agli articoli 142 e 143, muta la denominazione in quella di scuola di specializzazione in oftalmologia. L'art. 143, relativo alla predetta scuola di specializzazione in oftalmologia e' integrato con il seguente nuovo comma:  
-Le tasse, soprattasse e contributi sono fissati nel modo seguente: 
-
-|  |  |
-| --- | --- |
-| 1° anno | Anni successivi |
-
+Scuola di perfezionamento in diritto del lavoro  
+Art. 112. - La scuola di diritto del lavoro, annessa all'istituto di diritto del lavoro della facolta' di giurisprudenza, ha lo scopo di integrare la preparazione scientifica e professionale dei giovani, perfezionandoli e specializzandoli nelle discipline giuridiche attinenti al lavoro.  
+Art. 113. - La scuola e' retta da un direttore e da un consiglio composto dai professori titolari degli insegnamenti fondamentali della scuola. Partecipano alle riunioni del consiglio per l'esame dei problemi concernenti il coordinamento dei programmi tutti i docenti della scuola.  
+Direttore ne e' il professore titolare della cattedra di diritto del lavoro della facolta' di giurisprudenza o, in mancanza, un professore di ruolo nominato dal rettore su proposta della facolta' di giurisprudenza.  
+Il direttore puo' designare tra i componenti del consiglio un vice direttore che lo coadiuva e lo sostituisce in caso di impedimento.  
+La nomina dei docenti e' fatta dal rettore su designazione del consiglio della facolta' di giurisprudenza su proposta del consiglio della scuola.  
+Art. 114. - Alla scuola possono essere iscritti i laureati in giurisprudenza, scienze politiche, economia e commercio.  
+Possono essere iscritti anche coloro che siano in possesso di una laurea diversa e che abbiano sostenuto con esito positivo un colloquio di ammissione.  
+La misura delle tasse, soprattasse e contributi vari per la scuola e' la seguente:  
   
+tassa annuale d'iscrizione. . . . . . . . . . . . . . . . . L. 20.000 soprattassa annuale per esami di profitto. . . . . . . . . . L. 7.000 contributo di riscaldamento. . . . . . . . . . . . . . . . . L. 3.000 soprattassa per esami di diploma . . . . . . . . . . . . . . L. 3.000 tassa di diploma . . . . . . . . . . . . . . . . . . . . . . L. 6.000   
+Art. 115. - La scuola ha la durata di due anni. Nel primo anno sono impartiti per incarico gli insegnamenti fondamentali insostituibili.  
+Nel secondo anno gli studenti hanno l'obbligo di frequentare, secondo un piano presentato ed approvato al suo inizio, almeno tre tra i corsi organizzati in forma di seminario che siano effettivamente attivati. Il piano di studi formulato dagli studenti per il secondo anno deve essere approvato dal consiglio della scuola.  
+Art. 116. - L'esame di diploma consiste in un colloquio generale sulle materie seguite dallo studente e nella discussione di una breve memoria originale, redatta anche in forma di nota a sentenza. La scuola rilascia un diploma di specializzazione. Il colloquio generale che lo studente deve sostenere, verte sulle materie fondamentali insostituibili e su quelle attivate in forma di seminario inserite nel piano individuale ai sensi dell'art. 115.  
+Art. 117. - Gli insegnamenti fondamentali insostituibili nella scuola sono:  
+1) diritto dell'impresa privata;  
+2) diritto dell'impresa pubblica;  
+3) diritto sindacale;  
+4) diritto del lavoro;  
+5) diritto della previdenza sociale (o della "sicurezza" sociale).  
+Gli insegnamenti della scuola tra i quali vanno scelti quelli da attivare in forma di seminario sono:  
+1) legislazione del lavoro;  
+2) il lavoro marittimo e del personale di volo;  
+3) il rapporto di pubblico impiego;  
+4) diritto processuale del lavoro e della sicurezza sociale;  
+5) diritto penale del lavoro;  
+6) diritto internazionale del lavoro;  
+7) diritto sociale europeo;  
+8) storia del movimento sindacale;  
+9) economia del lavoro;  
+10) contratti speciali di lavoro;  
+11) sociologia del lavoro;  
+12) psicologia industriale;  
+13) diritto comparato del lavoro;  
+14) diritto sindacale comparato;  
+15) diritto comparato della sicurezza sociale;  
+16) problemi attuali di organizzazione sindacale.  
+Gli insegnamenti sono integrati dallo svolgimento di conferenze, anche articolate, di letture collettive di monografie e di sentenze.  
+Art. 118. - La scuola curera' la stampa di una rivista nella quale potranno essere pubblicate anche le memorie di diploma giudicate degne a tale fine.  
+Art. 119. - La scuola potra' stabilire, su deliberazione del consiglio, rapporti continuativi con enti sindacali, con enti pubblici e pubbliche amministrazioni, con istituzioni attinenti alle materie del corso, ai fini della ricerca scientifica e della specializzazione professionale dei giovani.  
+La scuola potra', inoltre, su deliberazione del consiglio, promuovere corsi intensivi di aggiornamento secondo le modalita' stabilite di volta in volta.  
+Art. 120. - La scuola promuove l'assegnazione agli iscritti di borse e premi di studio secondo le modalita' stabilite per ciascun anno dal consiglio della facolta' di giurisprudenza su proposta del consiglio della scuola.  
   
-Gli articoli 149 e 150, relativi alla scuola di specializzazione in clinica pediatrica, che muta la denominazione in quella di scuola di specializzazione in pediatria, sono abrogati e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in pediatria  
-  
-Art. 149. - La scuola di specializzazione in pediatria ha sede presso la clinica pediatrica dell'Universita' di Trieste e conferisce il diploma di specialista in pediatria.  
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.  
-Il numero massimo degli allievi e' di sei per anno di corso e complessivamente di ventiquattro per l'intero corso di studi.  
-L'ammissione al corso avviene per titoli ed esami.  
-Art. 150. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-genetica;  
-auxologia;  
-alimentazione;  
-epidemiologia;  
-malattie infettive;  
-clinica pediatrica I.  
-2° Anno:  
-radiologia;  
-legislazione del minore;  
-organizzazione sanitaria;  
-psicologia pediatrica;  
-oculistica ed ortottica;  
-otorino e foniatria;  
-odonto;  
-neonatologia I;  
-chirurgia pediatrica I;  
-pediatria preventiva e sociale I;  
-clinica pediatrica II.  
-3° Anno:  
-neurologia;  
-psichiatria infantile;  
-nefrologia e urologia;  
-ginecologia pediatrica;  
-neonatologia II;  
-chirurgia pediatrica II;  
-pediatria preventiva e sociale II;  
-cardiologia I;  
-endocrinologia I;  
-ematologia I;  
-immunologia I;  
-gastroenterologia I;  
-clinica pediatrica III.  
-4° Anno:  
-oncologia;  
-pneumologia;  
-ortopedia e traumatologia;  
-dermatologia;  
-cardiologia II;  
-endocrinologia II;  
-ematologia II;  
-immunologia II;  
-gastroenterologia II;  
-clinica pediatrica IV.  
-La frequenza alle lezioni, alle esercitazioni pratiche e' obbligatoria. Gli allievi, che non conseguono le attestazioni di frequenza sul relativo libretto, non potranno essere ammessi a sostenere le prove di esame.  
-Alla fine di ciascun anno di corso gli iscritti, per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.  
-Al termine del corso di studi, per il conseguimento del diploma di specializzazione in pediatria, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
-Gli articoli 155, 156, 157, 158 e 159, relativi alla scuola di specializzazione in chirurgia toracica, sono abrogati e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in chirurgia toracica  
-  
-Art. 155.- La scuola di specializzazione in chirurgia toracica ha sede presso l'istituto di patologia chirurgica dell'Universita' di Trieste e conferisce il diploma di specialista in chirurgia toracica.  
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Art. 156. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-La durata del corso di studi e' di cinque anni, non e' suscettibile di abbreviazione e prevede l'insegnamento di tutte le branche della chirurgia toracica, chirurgia polmonare, chirurgia cardiaca, chirurgia esofagea, chirurgia del mediastino e della parete toracica.  
-Il numero massimo degli allievi e' di otto per anno di corso e complessivamente di quaranta iscritti per l'intero corso di studi.  
-L'ammissione al corso avviene per concorso per titoli ed esami.  
-Art. 157. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-1) embriologia, anatomia descrittiva e topografica del torace e degli organi endotoracici;  
-2) anatomia chirurgica del torace e degli organi endotoracici;  
-3) anatomia patologica delle malattie del torace (biennale I);  
-4) anestesia in chirurgia toracica.  
-2° Anno:  
-1) fisiopatologia dell'apparato respiratorio;  
-2) fisiopatologia dell'apparato cardiocircolatorio;  
-3) semeiotica dell'apparato respiratorio, dell'esofago e del mediastino;  
-4) semeiotica dell'apparato cardiocircolatorio;  
-5) anatomia patologica delle malattie del torace (biennale II). 3° Anno:  
-1) patologia e clinica chirurgica delle affezioni dell'apparato respiratorio, del mediastino e della parete toracica (biennale I);  
-2) patologia e clinica chirurgica delle affezioni del cuore e dei grossi vasi endotoracici;  
-3) patologia e clinica chirurgica delle affezioni dell'esofago e del diaframma;  
-4) elementi di terapia medica delle cardio-angiopatie;  
-5) elementi di fisioterapia respiratoria;  
-6) diagnostica radiologica nelle malattie chirurgiche del torace.  
-4° Anno:  
-1) patologia e clinica chirurgica delle affezioni dell'apparato respiratorio, del mediastino e della parete toracica (biennale II);  
-2) tecnica operatoria per le affezioni della parete toracica, dell'apparato respiratorio, dell'esofago, del mediastino e del diaframma (biennale I);  
-3) tecnica operatoria delle affezioni del cuore, pericardio e grossi vasi endotoracici;  
-4) principi e tecniche della circolazione extracorporea.  
-5° Anno:  
-1) terapia intensiva e rianimazione in chirurgia toracica;  
-2) tecnica operatoria per le affezioni della parete toracica, dell'apparato respiratorio, dell'esofago, del mediastino e del diaframma (biennale II);  
-3) terapia chirurgica della tbc pleuropolmonare.  
-Art. 158. - Il corso si compone di lezioni, di esercitazioni pratiche, di periodi di internato, di conferenze riguardanti argomenti specialistici, di turni in corsia ed in sala operatoria.  
-La frequenza ai corsi, agli internati, in corsia e in sala operatoria, alle esercitazioni e' obbligatoria. In caso contrario i candidati non potranno ottenere l'attestazione di frequenza necessaria per l'ammissione agli esami.  
-Alla fine di ciascun anno di corso gli specializzandi che abbiano ottenuto la firma di frequenza dovranno sostenere un esame di profitto sulle materie di insegnamento il cui superamento e' condizione necessaria ed indispensabile per ottenere la iscrizione all'anno successivo, e, per quelli che sono stati iscritti al quinto anno, per l'ammissione all'esame di diploma. Durante il corso gli specializzandi frequenteranno la sala operatoria in maniera assidua, dovranno assistere a numerosi interventi di chirurgia toracica ed essere in grado di eseguirne essi stessi.  
-Per tutti gli specializzandi che hanno superato gli esami dei cinque anni, alla fine del quinto anno di corso ha luogo l'esame di diploma, consistente nella presentazione e discussione di una dissertazione scritta su un argomento di chirurgia toracica concordato con la direzione della scuola.  
-Art. 159. - Le tasse, soprattasse e contributi sono fissati nel modo seguente:
-
-|  |  |
-| --- | --- |
-| 1° anno | Anni successivi |
-
-  
-  
-Dopo l'art. 171, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in urologa.  
-  
-Scuola di specializzazione in urologia  
-  
-Art. 172. - La scuola di specializzazione in urologia ha sede presso la cattedra di clinica urologica dell'Universita' di Trieste e conferisce il diploma di specialista in urologia.  
-  
-Art. 173. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine  
-  
-Art. 174. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-Art. 175. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.  
-Art. 176. - Il numero degli allievi e' di quattro per anno di corso e complessivamente di venti iscritti per l'intero corso di studi.  
-Art. 177. - L'ammissione al corso avviene per titoli ed esami.  
-Art. 178. - Le materie di insegnamento e gli esami sono i seguenti: 
-
-|  |  |
-| --- | --- |
-| Insegnamenti | Esami |
-| 1° Anno: |  |
-| 1) anatomia sistematica e topografica dell'apparato urinario e genitale maschile | 1) anatomia sistematica e topografica dell'apparato urinario e genitale maschile |
-| 2) fisiologia dell'apparato urinario e genitale maschile | 2) fisiologia dell'apparato urinario e genitale maschile |
-| 3) batteriologia in urologia | 3) batteriologia in urologia |
-| 4) semeiotica funzionale e strumentale dell'apparato uro-genitale I |  |
-| 2° Anno: |  |
-| 1) semeiotica funzionale e strumentale dell'apparato uro-genitale II | 1) semeiotica funzionale e strumentale dell'apparato uro-genitale |
-| 2) le nefropatie mediche | 2) le nefropatie mediche |
-| 3) anatomia chirurgica dell'apparato urinario e genitale maschile | 3) anatomia chirurgica dell'apparato urinario e genitale maschile |
-| 4) patologia dell'apparato urinario e genitale maschile I |  |
-| 5) radiologia dell'apparato urinario e genitale maschile I |  |
-| 3° Anno: |  |
-| 1) patologia dell'apparato urinario e genitale maschile II | 1) patologia dell'apparato urinario e genitale maschile |
-| 2) radiologia dell'apparato urinario e genitale maschile II | 2) radiologia dell'apparato urinario e genitale maschile |
-| 3) le affezioni cutanee e veneree nei riguardi dell'urologia | 3) le affezioni cutanee e veneree nei riguardi dell'urologia |
-| 4) andrologia | 4) andrologia |
-| 4° Anno: |  |
-| 1) anatomia e istologia patologica dell'apparato urinario e genitale | 1) anatomia e istologia patologica dell'apparato urinario e genitale |
-| 2) farmacoterapia delle affezioni uro-genitali | 2) farmacoterapia delle affezioni uro-genitali |
-| 3) anestesia e trattamento pre e post-operatorio del malato urologico | 3) anestesia e trattamento pre e post-operatorio del malato urologico |
-| 4) nefrologia chirurgica | 4) nefrologia chirurgica |
-| 5) clinica urologica I |  |
-| 6) procedimenti di chirurgia endoscopica I |  |
-| 7) interventi e procedimenti operatori sull'apparato urinario e genitale maschile I |  |
-| 5° Anno: |  |
-| 1) clinica urologica II | 1) clinica urologica |
-| 2) patologia e clinica urologica infantile | 2) patologia e clinica urologica infantile |
-| 3) urologia ginecologica | 3) urologia ginecologica |
-| 4) procedimenti di chirurgia endoscopica II | 4) interventi e procedimenti operatori sull'apparato urinario e genitale maschile |
-| 5) la chirurgia dell'intestino |  |
-| 6) la chirurgia vascolare |  |
-
-  
-  
-Art. 179. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
-Art. 180. - Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno, ad eccezione delle discipline svolte in corsi pluriennali il cui esame sara' sostenuto alla fine dei corsi medesimi.  
-Art. 181. - Al termine del corso di studi per il conseguimento del diploma di specialista in urologia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
-Art. 182. - Le tasse, soprattasse e contributi sono stabiliti nel modo seguente:
-
-|  |  |
-| --- | --- |
-| 1° anno | Anni successivi |
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 maggio 1978
+### Dato a Roma, addi' 18 febbraio 1978
 
-LEONE PEDINI
+LEONE MALFATTI
 
 Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 4 ottobre 1978
+Registrato alla Corte dei conti, addi' 9 ottobre 1978
 
-Registro n. 107 Istruzione, foglio n. 175
+Registro n. 109 Istruzione, foglio n. 191

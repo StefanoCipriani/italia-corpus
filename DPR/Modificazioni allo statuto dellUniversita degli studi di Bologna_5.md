@@ -1,86 +1,81 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1971 n. 856
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1110
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1971 n. 856
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1110
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Dopo l'art. 520 e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti articoli relativi alla istituzione della scuola di specializzazione in medicina dello sport.  
-  
-Scuola di specializzazione in medicina dello sport  
-  
-Art. 521. - La scuola di specializzazione in medicina dello sport dell'Universita' degli studi di Bologna si propone:  
-a) di valorizzare e approfondire gli studi biologici e di medicina applicata nel campo delle attivita' sportive, formative e di competizione, e della educazione fisica;  
-b) di preparare adeguatamente sotto l'aspetto teorico e della pratica applicazione, i medici che intendono dedicarsi alle attivita' attinenti a questa particolare branca della medicina applicata, conferendo ad essi il diploma di "Specialisti in medicina dello sport".  
-Art. 522. - Il titolo richiesto per l'ammissione alla scuola e' la laurea in medicina e chirurgia.  
-Il corso di studi ha la durata di 3 anni, con frequenza obbligatoria, esso ha la sua sede ufficiale presso l'istituto di fisiologia umana. Gli insegnamenti clinici e specialistici si svolgeranno presso i rispettivi istituti clinici e specialistici.  
-La concessione di eventuali abbreviazioni del corso avverra' a insindacabile giudizio del consiglio dei docenti della scuola.  
-Il numero massimo degli allievi sara' di dodici per anno e complessivamente di trentasei per l'intero corso.  
-L'ammissione ai corsi avviene per titoli. Nel caso di domande eccedenti il numero di posti disponibili l'ammissione dei candidati aventi pari titoli e uguale data di presentazione della domanda, sara' regolata da prove di esami davanti a una commissione nominata dal consiglio dei docenti della scuola.  
-La direzione del corso e' affidata al direttore dell'istituto di fisiologia umana.  
-Art. 523. - L'ordine degli studi e' il seguente:  
-1° Anno:  
-Anatomia dell'apparato locomotore;  
-Biomeccanica applicata all'esercizio fisico;  
-Biochimica generale e applicata;  
-Antropometria e auxologia;  
-Storia, sistematica e tecnologia degli sport;  
-Istituzioni di psicologia generale e psicologia applicata agli sport;  
-Istituzioni di scienza della nutrizione e dietetica applicata alla attivita' sportiva.  
-2° Anno:  
-Anatomia degli apparati circolatorio, respiratorio e nervoso;  
-Fisiologia delle ossa, delle articolazioni e dei muscoli;  
-Biochimica ed energetica muscolare;  
-Valutazione funzionale dello sportivo e tecnica fisiologica;  
-Biofisica del muscolo (facoltativo);  
-Fisioterapia e rieducazione funzionale (facoltativo);  
-Farmacologia applicata all'attivita' sportiva (doping) (facoltativo);  
-Igiene e medicina preventiva applicata all'attivita' sportiva (facoltativo).  
-3° Anno:  
-Fisiologia del sistema nervoso motorio, della respirazione e della circolazione;  
-Educazione fisica e tecnica dell'allenamento sportivo;  
-Chirurgia d'urgenza, rianimazione e pronto soccorso;  
-Medicina legale ed infortunistica;  
-Traumatologia ed ortopedia dello sport;  
-Fisiopatologia degli sport (facoltativo);  
-Assistenza medico-sportiva nei grandi agglomerati urbani (facoltativo).  
-La scuola inoltre svolgera' brevi corsi integrativi di conferenze o seminari sopra argomenti e discipline che saranno stabiliti, secondo le possibilita' contingenti, dal consiglio dei docenti della scuola.  
-Saranno inoltre svolte esercitazioni pratiche in sede e sul campo.  
-Art. 524. - Gli esami annuali si svolgeranno per gruppo di materie, comprendenti discipline incluse nel piano di studio esposto nell'art. 523.  
-Il gruppo di materie comprende tutte le materie di insegnamento fondamentali e quelle facoltative scelte dal candidato, previste per ogni anno di corso.  
-L'iscrizione agli anni successivi e' subordinata al superamento di tutti gli esami annuali.  
-Art. 525. - Il diploma si consegue dopo aver superato tutte le prove di esami del triennio; la prova di diploma si svolge con la discussione su una dissertazione scritta concernente un tema assegnato o in ogni altro caso approvato dal direttore della scuola.  
+Nell'art. 57, relativo al corso di laurea in economia e commercio, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
+complementi di matematica per economisti;  
+economia industriale;  
+finanza aziendale;  
+marketing;  
+revisione aziendale;  
+diritto penale commerciale;  
+contabilita' industriale;  
+economia e politica internazionale.  
+Nell'art. 67, relativo al corso di laurea in scienze statistiche e demografiche, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
+analisi demografica;  
+demografia storica;  
+economia della popolazione;  
+genetica di popolazioni;  
+teorie della popolazione e modelli demografici;  
+metodologia statistica della ricerca sperimentale;  
+logica.  
+Nell'art. 68, relativo al corso di laurea in scienze statistiche ed economiche, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
+rilevazioni statistiche ufficiali;  
+processi aleatori e teoria delle file d'attesa;  
+programmazione ed interpretazione statistica degli esperimenti;  
+analisi economica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 agosto 1971
+### Dato a Roma, addi' 31 dicembre 1985
 
-SARAGAT MISASI
+COSSIGA
 
-Visto, il Guardasigilli: COLOMBO
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 18 ottobre 1971
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Atti del Governo, registro n. 244, foglio n. 162. - CARUSO
+Registrato alla Corte dei conti, addi' 10 giugno 1986
+
+Registro n. 45 Istruzione, foglio n. 361

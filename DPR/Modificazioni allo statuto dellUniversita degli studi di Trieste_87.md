@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1982 n. 653
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 agosto 1982 n. 892
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1982 n. 653
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 agosto 1982 n. 892
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1962, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-10-31;1836), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -35,51 +35,31 @@ Decreta:
 
 Lo statuto dell'Universita' di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Art. 1
+------
 
   
-Nell'art. 25, relativo al corso di laurea in giurisprudenza, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-diritto agrario;  
-diritto delle assicurazioni;  
-diritto dei trasporti;  
-teoria generale del processo;  
-diritti dell'uomo;  
-introduzione alle scienze giuridiche;  
-diritto penale dell'economia;  
-giustizia costituzionale;  
-diritto processuale amministrativo;  
-diritto statuale dei culti;  
-diritto della sicurezza sociale;  
-storia delle codificazioni;  
-storia del diritto e della procedura penale;  
-storia del diritto della navigazione;  
-storia del diritto commerciale;  
-storia del diritto costituzionale e amministrativo;  
-diritto pubblico romano;  
-diritto processuale comparato;  
-diritto delle assicurazioni marittime ed aeronautiche;  
-organizzazioni internazionali;  
-diritto ecclesiastico comparato;  
-diritto dell'esecuzione penale;  
-diritto penitenziario;  
-criminologia;  
-diritto pubblico dell'economia;  
-diritto processuale tributario;  
-diritto del lavoro nei Paesi della CEE;  
-diritto della sicurezza sociale nei Paesi della CEE;  
-diritto del lavoro nei sistemi socialisti.  
+L'art. 42, relativo all'esame di laurea di economia e commercio, e' soppresso e sostituito dal seguente:  
+Art. 42. - La dissertazione scritta per l'esame di laurea puo' concernere qualunque materia elencata nell'art. 40, ad eccezione delle lingue. Essa dovra' essere depositata in segreteria in quattro copie, a stampa o dattilografate, venti giorni prima del relativo esame.  
+L'esame deve essere integrato dalla discussione di un argomento scelto in una materia diversa da quella della tesi, ma come quella appartenente al gruppo delle discipline caratterizzanti uno degli indirizzi di studio annualmente predisposti dalla facolta'.  
+
+Art. 2
+------
+
+  
+Dopo l'art. 43, con il conseguente spostamento degli articoli successivi, e' aggiunto il nuovo seguente articolo:  
+Art. 44. - Biblioteca della facolta' di economia e commercio.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 giugno 1982
+### Dato a Roma, addi' 23 agosto 1982
 
 PERTINI BODRATO
 
 Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 2 settembre 1982
+Registrato alla Corte dei conti, addi' 26 novembre 1982
 
-Registro n. 104 Istruzione, foglio n. 260
+Registro n. 128 Istruzione, foglio n. 327

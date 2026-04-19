@@ -1,16 +1,16 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1980 n. 1011
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 novembre 1956 n. 1463
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1980 n. 1011
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 novembre 1956 n. 1463
+================================================================
 
-Modificazioni allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
---------------------------------------------------------------------------------
+Modificazioni allo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano.
+----------------------------------------------------------------------------------
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
+Veduto lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), e modificato con [regio decreto 17 ottobre 1941, n. 1282](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-10-17;1282), con [decreto del Capo provvisorio dello Stato 27 luglio 1917, n. 1212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1917-07-27;1212) e con [decreti del Presidente della Repubblica 20 ottobre 1949, n. 1026](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;1026); [30 ottobre 1950, n. 1306](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1306); [31 agosto 1951, n. 1774](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-31;1774); [11 marzo 1953, n. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;417); [26 gennaio 1954, n. 7](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-01-26;7); [14 settembre 1954, n. 1055](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1055); [4 febbraio 1955, n. 119](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-04;119); [20 settembre 1955, n. 940](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-20;940) e [20 settembre 1955, n. 1547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-20;1547);
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,77 +20,104 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare e nuove modifiche proposte;.
 
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Art. 16 - Agli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti quelli di:
 
+7) Storia delle tradizioni popolari;
+
+8) Storia del Risorgimento;
+
+9) Latino medioevale;
+
+10) Storia della geografia e delle esplorazioni.
+
+Art. 17. - Agli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti quelli di:
+
+7) Storia della pedagogia;
+
+8) Psicologia dell'eta' evolutiva;
+
+9) Storia delle tradizioni popolari;
+
+10) Storia del Risorgimento.
+
+Art. 18. - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di:
+
+5) Storia delle tradizioni popolari;
+
+6) Latino medioevale;
+
+7) Storia della grammatica e della lingua italiana.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 9 novembre 1956
+
+GRONCHI
+
+ROSSI
+
+Visto, il Guardasigilli: MORO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 20 dicembre 1956 Atti del Governo, registro n. 102, foglio n. 141. - CARLOMAGNO
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Veduto lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), e modificato con [regio decreto 17 ottobre 1941, n. 1282](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-10-17;1282), con [decreto del Capo provvisorio dello Stato 27 luglio 1917, n. 1212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1917-07-27;1212) e con [decreti del Presidente della Repubblica 20 ottobre 1949, n. 1026](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;1026); [30 ottobre 1950, n. 1306](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1306); [31 agosto 1951, n. 1774](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-31;1774); [11 marzo 1953, n. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;417); [26 gennaio 1954, n. 7](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-01-26;7); [14 settembre 1954, n. 1055](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1055); [4 febbraio 1955, n. 119](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-04;119); [20 settembre 1955, n. 940](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-20;940) e [20 settembre 1955, n. 1547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-20;1547);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare e nuove modifiche proposte;.  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Dopo l'art. 184, con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola diretta a fini speciali per la preparazione di personale tecnico specializzato in cosmetologia.   
+Decreta:  
   
-Scuola per la preparazione di personale tecnico specializzato in cosmetologia   
-  
-Art. 185. - E' istituita presso l'istituto di clinica dermosifilopatica della facolta' di medicina e chirurgia dell'Universita' cattolica del Sacro Cuore una scuola per la preparazione di personale tecnico specializzato in cosmetologia. La scuola ha lo scopo di impartire agli allievi con unita' di indirizzo e metodo scientifico tutte le nozioni teoriche e pratiche per ben esercitare l'attivita' di cosmetologo.   
-Art. 186. - La durata del corso degli studi della scuola e' di due anni accademici. Alla scuola possono essere ammessi allievi di ambo i sessi aventi il diploma di scuola media di 2° grado che abbiano compiuto il 17° anno di eta'.   
-Art. 187. - Al primo anno della scuola si accede previo esame di cultura generale ed attitudinale davanti ad una commissione composta dal direttore della scuola e da due insegnanti della scuola stessa.  
-L'esame di ammissione avra' luogo entro il mese di ottobre di ciascun anno in un giorno stabilito dalla facolta' di medicina e chirurgia su proposta del direttore della scuola.   
-Art. 188. - Il numero massimo degli allievi che possono essere ammessi ad ogni anno di corso della scuola e' di trenta.   
-Art. 189. - Il direttore della scuola e' il direttore dell'istituto di clinica dermosifilopatica dell'Universita' cattolica del Sacro Cuore che puo' nominare direttore dei corsi uno dei docenti della scuola. La scuola e' sotto la vigilanza della facolta' di medicina e chirurgia. Gli insegnanti della scuola sono proposti dal direttore della stessa, approvati dalla facolta' di medicina e chirurgia e nominati dal rettore.   
-Essi possono essere scelti fra i professori ufficiali, tra i docenti, tra gli aiuti e gli assistenti della facolta' di medicina e chirurgia e di altra facolta' dell'Universita' cattolica del Sacro Cuore o di altre Universita', o tra persone di riconosciuta competenza anche al di fuori dell'ambito universitario.   
-Art. 190. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-dermatologia estetica;   
-chimica cosmetologica;   
-igiene cosmetologica;   
-cosmetologia applicata;   
-nozioni di fisica.   
-2° Anno:   
-nozioni di patologia dermatologica;   
-massoterapia cosmetologica;   
-nozioni di dermatologia correttiva.   
-Art. 191. - La frequenza alle lezioni teoriche e alle esercitazioni pratiche e' obbligatoria. Per la validita' dell'anno scolastico l'allievo deve partecipare ai due terzi delle lezioni sia teoriche che pratiche.   
-Art. 192. - Le lezioni verranno impartite agli allievi nelle aule messe a disposizione della clinica dermosifilopatica. I programmi di insegnamento e gli orari vengono predisposti dal direttore della scuola ed approvati dal consiglio della facolta' di medicina e chirurgia. La sorveglianza degli iscritti, per quanto riguarda la loro attivita' pratica, spetta al direttore della scuola. Il tirocinio sara' compiuto dagli allievi sotto la guida degli insegnanti della scuola, presso l'istituto di clinica dermosifilopatica dell'Universita' cattolica del Sacro Cuore, nonche' presso la sezione di fisioterapia (clinica ortopedica), l'istituto di biochimica, l'istituto di farmacologia.   
-Art. 193. - Per essere ammessi a sostenere gli esami di diploma gli allievi dovranno avere seguito i corsi, superati gli esami in tutti gli insegnamenti prescritti e avere compiuto, con esito favorevole, tutte le esercitazioni pratiche previste. Non possono essere ammessi al secondo anno gli allievi che non hanno superato gli esami attinenti alle materie del primo corso.   
-Art. 194. - Le commissioni per gli esami di profitto sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Le commissioni sono composte da tre membri: dal professore ufficiale della materia, presidente, dal professore ufficiale della materia affine e da un libero docente cultore della materia.   
-Ogni commissario ha a disposizione 10 punti.   
-Art. 195. - L'esame di diploma consiste in un esame orale sui temi trattati durante i corsi ed eventualmente in una prova pratica stabilita dalla commissione esaminatrice. L'esame di diploma viene sostenuto davanti a una commissione di cinque membri scelti fra i docenti della scuola nominati dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Ogni commissario ha a disposizione 10 punti; i candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza nella scuola, ma se al secondo esame non sara' loro riconosciuta l'idoneita', essi saranno senz'altro esclusi da ulteriori prove. Agli allievi che avranno superato l'esame finale viene rilasciato il diploma di tecnico cosmetologo.   
-Art. 196. - Alle spese occorrenti per il funzionamento della scuola si provvede con contributi eventualmente concessi da Ministeri, dalle regioni, da enti pubblici e privati e dalle seguenti tasse, soprattasse e contributi degli iscritti:   
-  
-  
-  
-tassa di immatricolazione (da versare  
-una volta sola) . . . . . . . . . . . . . . . . . . . . . . .L. 50.000  
-tassa annuale di iscrizione . . . . . . . . . . . . . . . . .L. 20.000  
-soprattassa annuale di esame. . . . . . . . . . . . . . . . .L. 10.000  
-contributi di laboratorio. . . . . . . . . . . . . . . . . .L. 100.000  
-tassa erariale di diploma. . . . . . . . . . . . . . . . . . .L. 6.000  
-libretto e tessera. . . . . . . . . . . . . . . . . . . . . .L. 10.000  
-L. 200.000  
-  
-  
+Lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 16 - Agli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti quelli di:  
+7) Storia delle tradizioni popolari;  
+8) Storia del Risorgimento;  
+9) Latino medioevale;  
+10) Storia della geografia e delle esplorazioni.  
+Art. 17. - Agli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti quelli di:  
+7) Storia della pedagogia;  
+8) Psicologia dell'eta' evolutiva;  
+9) Storia delle tradizioni popolari;  
+10) Storia del Risorgimento.  
+Art. 18. - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di:  
+5) Storia delle tradizioni popolari;  
+6) Latino medioevale;  
+7) Storia della grammatica e della lingua italiana.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 settembre 1980
+### Dato a Roma, addi' 9 novembre 1956
 
-PERTINI SARTI
+GRONCHI ROSSI
 
-Visto, il Guardasigilli: SARTI
+Visto, il Guardasigilli: MORO
 
-Registrato alla Corte dei conti, addi' 21 gennaio 1981
+Registrato alla Corte dei conti, addi' 20 dicembre 1956
 
-Registro n. 4 Istruzione, foglio n. 241
+Atti del Governo, registro n. 102, foglio n. 141. - CARLOMAGNO

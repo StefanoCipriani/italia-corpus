@@ -1,68 +1,24 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 luglio 1955 n. 786
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 929
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 luglio 1955 n. 786
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 929
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 22 maggio 1939, n. 1166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-22;1166) e modificato con [legge 1 giugno 1939, n. 872](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-01;872), con [regi decreti 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2056); [15 aprile 1942, n. 423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;423); [24 ottobre 1942, n. 1847, con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1847) [27 luglio 1947, n. 1138; e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-07-27;1138) [23 settembre 1949, n. 942](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;942); [21 novembre 1949, n. 1194](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-11-21;1194); [13 marzo 1950, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-03-13;283); [27 ottobre 1951, n. 1825](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1825); [23 aprile 1952, n. 873](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-04-23;873); [10 febbraio 1953, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;383); [13 febbraio 1954, n. 750](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-02-13;750); [14 settembre 1954, n. 1161](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1161); [16 febbraio 1955, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-16;136); [27 gennaio 1955, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-01-27;219) e [21 giugno 1955, n. 560](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-06-21;560);
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 17. - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di:
-
-37) "Storia contemporanea".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 27 luglio 1955
-
-GRONCHI
-
-ROSSI
-
-Visto, il Guardasigilli: MORO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 27 agosto 1955 Atti del Governo, registro n. 92, foglio n. 113. - CARLOMAGNO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 22 maggio 1939, n. 1166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-22;1166) e modificato con [legge 1 giugno 1939, n. 872](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-01;872), con [regi decreti 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2056); [15 aprile 1942, n. 423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;423); [24 ottobre 1942, n. 1847, con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1847) [27 luglio 1947, n. 1138; e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-07-27;1138) [23 settembre 1949, n. 942](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;942); [21 novembre 1949, n. 1194](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-11-21;1194); [13 marzo 1950, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-03-13;283); [27 ottobre 1951, n. 1825](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1825); [23 aprile 1952, n. 873](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-04-23;873); [10 febbraio 1953, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;383); [13 febbraio 1954, n. 750](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-02-13;750); [14 settembre 1954, n. 1161](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1161); [16 febbraio 1955, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-16;136); [27 gennaio 1955, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-01-27;219) e [21 giugno 1955, n. 560](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-06-21;560);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato e modificato con [regio decreto 4 ottobre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-04;2280), e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
@@ -70,19 +26,51 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 17. - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di:  
-37) "Storia contemporanea".  
+Art. 28 - all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia vengono aggiunti i seguenti:  
+chirurgia sostitutiva dei trapianti di organo e di organi artificiali;  
+cardiologia;  
+neurocitologia.  
+Art. 31 - all'elenco degli insegnamenti complementari del corso di laurea in chimica, indirizzo organico-biologico, e' aggiunto l'insegnamento di:  
+chimica dei composti eterociclici.  
+Dopo l'art. 392 vengono aggiunti i seguenti nuovi articoli relativi all'istituzione della scuola diretta a fini speciali per tecnici audioprotesisti.  
+Art. 393. - La durata del corso di studi della scuola per audioprotesisti e' di due anni.  
+L'indirizzo e' teorico-pratico.  
+Per l'ammissione alla scuola si richiede il diploma di perito industriale o titolo equipollente o superiore.  
+Alla scuola si accede previo esame di perfetta dizione di lingua italiana e di cultura generale. La commissione giudicatrice sara' composta dal direttore della scuola e da due docenti in audiologia o O.R.L.  
+Gli iscritti ad ogni anno di corso saranno dieci.  
+Art. 394. - Il direttore della scuola e' il titolare della cattedra di audiologia dell'Universita' di Milano; la scuola e' sotto tutela della facolta' di medicina e chirurgia dell'Universita' di Milano.  
+Gli insegnanti sono proposti dal direttore della scuola e scelti tra i titolari di altre cattedre della facolta' di medicina e chirurgia dell'Universita' di Milano, tra i liberi docenti in audiologia od in altre materie o tra persone, anche al di fuori dell'ambito universitario, aventi particolari competenze sulle materie del corso.  
+Art. 395. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+nozioni di fisica acustica;  
+anatomia e fisiologia dell'orecchio medio e interno;  
+audiometria clinica;  
+la protesi acustica.  
+2° Anno:  
+cause e quadro clinico-audiometrico della sordita';  
+indicazione alla terapia protesica della sordita';  
+l'applicazione della protesi acustica (aspetti tecnici);  
+psicologia del soggetto sordo.  
+Art. 396. - Gli allievi sono obbligati a frequentare l'istituto di audiologia dell'Universita' di Milano o sedi, anche al di fuori dell'Universita', approvate dal direttore della scuola.  
+Seguiti i corsi e superati gli esami in tutti gli insegnamenti prescritti gli allievi sono ammessi a sostenere l'esame di diploma.  
+Le commissioni esaminatrici per gli esami di profitto sono nominate, su proposta del direttore della scuola, dal preside della facolta' di medicina e chirurgia.  
+Art. 397. - L'esame di diploma consiste nella discussione di una tesi scritta su un argomento riguardante le materie di insegnamento della scuola ed in una prova pratica stabilita dalla commissione esaminatrice.  
+L'esame di diploma viene sostenuto davanti ad una commissione di cinque membri scelti tra i docenti della scuola, dal preside della facolta' di medicina e chirurgia. Ogni commissario ha a disposizione 10 punti.  
+I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola.  
+Verra' rilasciato agli allievi che avranno superato l'esame finale il diploma di audioprotesista.  
+Art. 398. - Il consiglio di amministrazione dell'Universita', su proposta della direzione della scuola, approvata dal consiglio di facolta', stabilira' di anno in anno l'ammontare dei contributi. Le tasse e soprattasse restano cosi' determinate:  
   
+tassa annuale di iscrizione . . . . . . . . . . . . . . L. 10.000 soprattassa annuale di esami . . . . . . . . . . . . . . L. 5.000 tassa di diploma . . . . . . . . . . . . . . . . . . . . L. 6.012 tassa annuale per studente fuori corso . . . . . . . . . L. 3.000   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 luglio 1955
+### Dato a Roma, addi' 31 ottobre 1975
 
-GRONCHI ROSSI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 27 agosto 1955
+Registrato alla Corte dei conti, addi' 13 marzo 1976
 
-Atti del Governo, registro n. 92, foglio n. 113. - CARLOMAGNO
+Atti di Governo, registro n. 4, foglio n. 8

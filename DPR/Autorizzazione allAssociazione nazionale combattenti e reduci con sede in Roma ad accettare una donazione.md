@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1970 n. 93
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1968 n. 1244
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1970 n. 93
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1968 n. 1244
+===============================================================
 
 Autorizzazione all'Associazione nazionale combattenti e reduci, con sede in Roma, ad accettare una donazione.
 -------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-93. Decreto del Presidente della Repubblica 5 febbraio 1970, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale combattenti e reduci, con sede in Roma, viene autorizzata ad accettare la donazione disposta dal comune di Ruffano (Lecce), in esecuzione della [deliberazione n. 16 del 19 luglio 1968](http://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1968-07-19;16) di quel consiglio comunale, approvata dalla giunta provinciale amministrativa di Lecce nella seduta del 30 settembre 1968 ed ai termini dell'atto pubblico 23 settembre 1969, n. 16174 di repertorio, a rogito notaio Francesco Pedaci di Ruffano, di mq. 700 di terreno, sito nel comune di Ruffano nella zona "Aie" compreso tra la piazza principessa Jolanda ed i lotti delle costruzioni Ina-Casa, per la costruzione di una "Casa del combattente" in detto comune.  
+1244. Decreto del Presidente della Repubblica 31 ottobre 1968, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale combattenti e reduci, con sede in Roma, viene autorizzata ad accettare la donazione, disposta dal comune di Passignano sul Trasimeno (Perugia) con atto di "cessione gratuita di immobile condizionata" a rogito dott. Mari-Cesarini Carlo, notaio residente a Nocera Umbra, in data 18 febbraio 1967, rep. n. 16578, racc. n. 1942, con il quale viene trasferito alla sezione combattenti e reduci della frazione di Castel Rigone, comune di Passignano sul Trasimeno e, per essa, all'Associazione nazionale combattenti e reduci, un immobile costituito da un fabbricato con terreno annesso, posto in detta localita', da destinare permanentemente ed esclusivamente a sede della suddetta sezione combattenti e reduci.  
   
-Visto, il Guardasigilli: GAVA  
-Registrato alla Corte dei conti, addi' 20 marzo 1970  
-Atti del Governo, registro n. 234, foglio n. 33. - CARUSO
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 13 dicembre 1968  
+Atti del Governo, registro n. 224, foglio n. 43. - GRECO

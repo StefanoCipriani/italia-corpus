@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1965 n. 733
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 marzo 1968 n. 700
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1965 n. 733
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 marzo 1968 n. 700
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
@@ -10,19 +10,19 @@ Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1920 n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-10-14;2412), e modificato con [regio decreto 13 ottobre 1927 n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240) e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulato dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare la nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -30,185 +30,301 @@ Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Palermo approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 18. - Agli insegnamenti complementari del corse di laurea in Economia e commercio sono aggiunti quelli di:
+Art. 42. - All'elenco degli insegnamenti complementari del corso di laurea in chimica (indirizzo organico-biologico) sono aggiunti quelli di:
 
-14) Statistica economica;
+Strutturistica chimica;
 
-15) Sociologia.
+Chimica dei composti eterociclici;
 
-Art. 31. - All'elenco degli Istituti annessi alla Facolta' di Lettere e filosofia e' aggiunto l'istituto di Lingue e letterature straniere.
+Stereochimica;
 
-Dopo l'art. 31, sono aggiunti i seguenti nuovi articoli relativi al regolamento dell'Istituto di Lingue e letterature straniere con il conseguente spostamento della successiva numerazione.
+Cromatografia.
 
-Istituto di Lingue e letterature straniere
+Nel predetto corso di laurea - per l'indirizzo organico biologico - l'insegnamento di "Chimica bromatologica" muta denominazione in quello di "Chimica bromatologica con esercitazioni".
 
-Art. 32. - L'Istituto di Lingue e letterature straniere comprende le cattedre di Lingua e letteratura francese; di Lingua e letteratura inglese, di Lingua e letteratura tedesca, di Lingua e letteratura spagnola della Facolta' di Lettere e filosofia.
+Nello stesso corso di laurea - indirizzo organico biologico ed inorganico-chimico fisico - gli insegnamenti complementari di "Analisi matematica (algebrica ed infinitesimale) (biennale)", "Geometria analitica con elementi di proiettiva", "Chimica di guerra", "Meccanica razionale con elementi di statica grafica" sono soppressi.
 
-Art. 33. - L'Istituto ha lo scopo di coordinare e di potenziare l'incremento delle lingue e letterature moderne e delle discipline ad esse complementari nonche' di fornire una adeguata cultura specifica e quegli studenti che si dedicheranno all'insegnamento delle lingue moderne.
+All'elenco degli insegnamenti complementari del corso di laurea in chimica (indirizzo inorganico chimico-fisico) sono aggiunti quelli di:
 
-Art. 34. - L'Istituto ha sede nei locali assegnati alla cattedra di Lingua e letteratura francese.
+Stereochimica;
 
-Art. 35. - La direzione dell'Istituto e' affidata, a turno annuale, ad uno dei titolari delle singole discipline.
+Cromatografia;
 
-Art. 36. - Presso l'Istituto prestano servizio gli assistenti sia di ruolo sia volontari attualmente in servizio, e quelli che in seguito verranno assunti dalle predette cattedre.
+Chimica dei composti di coordinazione;
 
-Art. 37. - Per il raggiungimento dei propri fini, l'Istituto dispone di materiale didattico e scientifico appropriati, di una fototeca, di una propria biblioteca, da costituirsi quest'ultima con un fondo di libri gia' esistenti presso la biblioteca universitaria, e con singoli donativi.
+Chimica dei composti organometallici;
 
-Art. 38. - All'Istituto e' annesso un laboratorio linguistico modernamente attrezzato, al cui funzionamento saranno preposti un assistente di ruolo (coadiuvato per ciascuna lingua, da assistenti di ruolo o volontari, che abbiano una pratica dei recentissimi metodi di insegnamento) e un tecnico specializzato che abbia cura degli apparecchi.
+Chimica inorganica superiore;
 
-Art. 39. - L'Istituto si propone anche di pubblicare una serie di contributi di carattere scientifico preparati da professori assistenti e laureati.
+Cinetica chimica.
 
-Art. 40. - Con la dotazione assegnata all'Istituto dal Consiglio di amministrazione dell'Universita', nonche' le eventuali elargizioni di altri Enti e Istituzioni, l'Istituto potra' provvedere alle proprie attivita' scientifiche e didattiche.
+Dopo l'elenco degli insegnamenti complementari le norme circa gli esami di profitto e di laurea sono abrogate e sostituite dalle seguenti:
 
-L'articolo 96 e' modificato nel senso che la durata della Scuola di specializzazione in Clinica oculistica e' fissata in anni quattro.
+Per ottenere l'iscrizione al triennio di applicazione lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fissati per il biennio di studi propedeutici.
 
-L'art. 117 e' abrogato e sostituito dal seguente:
+Nella scelta degli esami complementari e nelle precedenze degli esami lo studente deve seguire i criteri deliberati dalla facolta'.
 
-Scuola di specializzazione in Clinica oculistica
+La scelta di materie complementari diverse da quelle consigliate dal piano di studi deve essere convalidata dalla facolta' su domanda dello studente.
 
-Art. 117. - La Scuola ha la durata di quattro anni Il numero complessivo degli iscritti ai quattro anni del corso e' di venticinque.
+Gli insegnamenti biennali, sia del biennio propedeutico che del triennio di applicazione, comportano due distinti esami, uno alla fine di ogni anno di corso. Lo studente dovra' superare l'esame di chimica generale ed inorganica (I parte) prima di sostenere l'esame di chimica generale ed inorganica (II parte) ed analogamente gli esami di chimica fisica (I parte), di esercitazioni di chimica fisica (I parte), di chimica organica (I parte), di istituzioni di matematiche (1 parte), di esercitazioni di matematiche (I parte), e di fisica sperimentale (I parte) prima di sostenere gli esami delle rispettive seconde parti delle materie biennali.
 
-Gli insegnamenti impartiti dalla Scuola sono i seguenti:
+Lo studente deve inoltre rispettare le seguenti precedenze: gli esami di chimica generale ed inorganica (I parte) e di esercitazioni e di preparazioni chimiche (biennio propedeutico) debbono essere superati prima di sostenere gli esami di chimica organica (I parte) e di esercitazioni di analisi chimica qualitativa; l'esame di esercitazioni di analisi chimica quantitativa prima dell'esame di esercitazioni di analisi chimica a applicata: lo esame di chimica fisica (I parte) prima dell'esame di elettrochimica.
 
-1° Anno:
+Le esercitazioni costituenti materie fondamentali debbono essere riguardate a tutti gli effetti come insegnamenti da essere impartiti da un professore di ruolo o da un incaricato.
 
-1) Anatomia e istologia dell'apparato oculare;
+Onde non confondere le esercitazioni di preparazioni chimiche, fondamentali del biennio propedeutico e rispettivamente del triennio di applicazione, questi due corsi verranno indicati nell'ordine degli studi, nei verbali di esame, e negli altri documenti come segue:
 
-2) Nozioni di embriologia e genetica oculare;
+a) Esercitazioni di preparazioni chimiche (biennio propedeutico);
 
-3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;
+b) Esercitazioni di preparazioni chimiche (triennio di applicazione).
 
-4) Nozioni di ottica fisiologica, esame della rifrazione;
+Per essere ammesso all'esame di laurea lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali prescritti per il triennio di applicazione, ed almeno in sette da lui scelti fra i complementari dell'indirizzo seguito.
 
-5) Microbiologia ed igiene oculare.
+L'esame di laurea consiste in:
 
-2° Anno:
+1) Un esame di cultura (con prove pratiche) vertente su concetti fondamentali delle seguenti materie:
 
-1) Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmologia, perimetria, campimetria, adattometria, senso cromatico, tonometria, tonografia, esami elettrofunzionali, radiologia);
+a) Chimica inorganica;
 
-2) Farmacologia oculare e terapia fisica;
+b) Chimica organica;
 
-3) Anatomia patologica oculare;
+c) Chimica fisica;
 
-4) Patologia e clinica oculare (malattie delle palpebre, della congiuntiva, delle vie lacrimali, della cornea e della sclera).
+d) Chimica analitica;
 
-3° Anno:
+e) Gruppo delle materie complementari.
 
-1) Patologia e clinica oculare (malattie dell'uvea, della retina, del nervo e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita, glaucoma);
+2) Discussione di una dissertazione scritta (tesi) concernente ricerche a carattere sperimentale effettuate dal candidato. La dissertazione scritta deve essere presentata alla segreteria della facolta' di scienze matematiche, fisiche e naturali almeno venti giorni prima della sessione di laurea;
 
-2) Anomalie e patologia della motilita' oculare e della visione binoculare. Ortottica e pleottica;
+3) Discussione di una dissertazione scritta anche a carattere compilativo (tesina), tra due scelte dal candidato, in disciplina diversa da quella della tesi.
 
-3) Affezioni otorinolaringoiatriche e occhio;
+Superato l'esame di laurea, lo studente consegue il titolo di dottore in chimica.
 
-4) Tecnica operatoria - 1ª parte.
+Art. 46. - Dall'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono soppressi quelli di: biologia delle razze umane; etnologia; patologia vegetale; entomologia generale; morfologia sperimentale; cristallochimica; citologia chimica; citogenetica; citologia generale e sperimentale.
 
-4° Anno:
+Nel predetto elenco sono aggiunti i seguenti insegnamenti complementari:
 
-1) Neuro-oftalmologia;
+Mineralogia;
 
-2) Malattie oculari in rapporto ad affezioni generali;
+Citologia;
 
-3) Malattie professionali. Infortunistiche e medicina legale oculare;
+Genetica dei microorganismi;
 
-4) Tecnica operatoria - 2ª parte;
+Ecologia.
 
-5) Tesi di specializzazione.
+Art. 47. - Nell'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti quelli di:
 
-Gli esami di profitto si danno alla fine di ciascun anno. Alla line del corso gli iscritti oltre a presentate la dissertazione scritta ed a sostenere la relativa discussione a norma dell'art. 106, devono sostenere una prova pratica sull'ammalato.
+Cristallochimica;
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo di chiunque spetti di osservarlo e di farlo osservare.
+Geologia del sottosuolo;
 
-Dato a Roma, addi' 21 maggio 1965
+Geometria analitica con elementi di proiettiva;
 
-SARAGAT
+Geotecnica;
+
+Petrografia applicata;
+
+Rilevamento geologico.
+
+Dopo l'elenco degli insegnamenti complementari l'ultimo comma e' abrogato e sostituito dai seguenti:
+
+I tre insegnamenti complementari di analisi matematica, di meccanica razionale con elementi di statica grafica e di geometria analitica, sostituiscono l'unico insegnamento fondamentale di "Istituzioni di matematica". Per l'insegnamento di analisi matematica, vale la norma stabilita per la laurea in scienze matematiche. Gli insegnamenti di botanica e di zoologia debbono avere indirizzo biogeografico.
+
+Gli studenti devono osservare le seguenti precedente: l'esame di chimica generale ed inorganica e l'esame di fisica sperimentale devono precedere quelli di mineralogia. L'esame di istituzioni di matematica precede quello di fisica. L'esame di mineralogia deve precedere quello di petrografia, geologia, mineralogia applicata.
+
+L'esame di paleontologia deve precedere quello di geologia, l'esame di geologia deve precedere quello di geologia applicata e quello di geologia regionale. L'esame di geografia generale deve precedere quello di geologia. Gli esami di mineralogia, petrografia e paleontologia devono precedere quelli di sedimentologia.
+
+Per essere ammesso all'esame di laurea, lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti fra gli esami complementari.
+
+L'esame di laurea consiste nella discussione di una dissertazione scritta e di almeno uno fra tre argomenti scelti dal candidato su tre insegnamenti diversi da quello della dissertazione scritta.
+
+Prima di iniziare la tesi lo studente deve notificare alla facolta' l'argomento che intende trattare.
+
+La facolta' decidera' sull'accoglimento o meno. La dissertazione deve essere accettata dalla commissione esaminatrice.
+
+L'esame di laurea e' preceduto da un esame di cultura generale e da due prove pratiche. Le prove pratiche consistono in una prova delle discipline mineralogiche ed in una prova delle discipline geologiche.
+
+La dissertazione di laurea deve essere presentata in segreteria almeno 20 (venti) giorni prima della data fissata per la discussione.
+
+Art. 50, relativo alle propedeuticita' dei corsi di laurea della facolta' e' modificato nel senso che il primo ed il sesto comma di cui alle lettere a) ed f) sono soppressi con il relativo riordinamento dell'ordine alfabetico.
+
+Art. 54. - All'elenco degli insegnamenti complementari del corso di laurea in farmacia sono aggiunti quelli di:
+
+10) Istituzioni di matematiche;
+
+11) Complementi di chimica tossicologica;
+
+12) Analisi chimica farmaceutica strumentale.
+
+Art. 98. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti quelli di:
+
+20) Estetica;
+
+21) Storia del teatro e dello spettacolo;
+
+22) Storia della storiografia;
+
+23) Storia della scienza e delle tecniche;
+
+24) Paleografia latina e diplomatica;
+
+25) Storia delle religioni.
+
+Art. 99. - All'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti quelli di:
+
+13) Estetica;
+
+14) Storia della storiografia;
+
+15) Storia della scienza e delle tecniche.
+
+Art. 100. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di:
+
+15) Estetica;
+
+16) Storia del teatro e dello spettacolo;
+
+17) Storia della scienza e delle tecniche;
+
+18) Storia e letteratura catalana;
+
+19) Storia della letteratura italiana moderna e contemporanea.
+
+Dopo l'art. 105 e con il conseguente spostamento della numerazione successiva e' aggiunto il seguente nuovo articolo relativo alla creazione dell'istituto di storia annesso alla facolta' di magistero.
+
+Art. 106. - Presso la facolta' di magistero e' istituito l'istituto di storia.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 22 marzo 1968
 
 GUI
+
+SARAGAT
 
 Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 30 giugno 1965 Atti del Governo, registro n. 194, foglio n. 35 - VILLA
+alla Corte dei conti, addi' 5 giugno 1968 Atti del Governo, registro n. 220, foglio n. 32. - GRECO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1920 n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-10-14;2412), e modificato con [regio decreto 13 ottobre 1927 n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulato dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare la nuove modifiche proposte;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Palermo approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 18. - Agli insegnamenti complementari del corse di laurea in Economia e commercio sono aggiunti quelli di:  
-14) Statistica economica;  
-15) Sociologia.  
-Art. 31. - All'elenco degli Istituti annessi alla Facolta' di Lettere e filosofia e' aggiunto l'istituto di Lingue e letterature straniere.  
-Dopo l'art. 31, sono aggiunti i seguenti nuovi articoli relativi al regolamento dell'Istituto di Lingue e letterature straniere con il conseguente spostamento della successiva numerazione.  
+Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Istituto di Lingue e letterature straniere  
+Art. 42. - All'elenco degli insegnamenti complementari del corso di laurea in chimica (indirizzo organico-biologico) sono aggiunti quelli di:  
+Strutturistica chimica;  
+Chimica dei composti eterociclici;  
+Stereochimica;  
+Cromatografia.  
+Nel predetto corso di laurea - per l'indirizzo organico biologico - l'insegnamento di "Chimica bromatologica" muta denominazione in quello di "Chimica bromatologica con esercitazioni".  
+Nello stesso corso di laurea - indirizzo organico biologico ed inorganico-chimico fisico - gli insegnamenti complementari di "Analisi matematica (algebrica ed infinitesimale) (biennale)", "Geometria analitica con elementi di proiettiva", "Chimica di guerra", "Meccanica razionale con elementi di statica grafica" sono soppressi.  
+All'elenco degli insegnamenti complementari del corso di laurea in chimica (indirizzo inorganico chimico-fisico) sono aggiunti quelli di:  
+Stereochimica;  
+Cromatografia;  
+Chimica dei composti di coordinazione;  
+Chimica dei composti organometallici;  
+Chimica inorganica superiore;  
+Cinetica chimica.  
+Dopo l'elenco degli insegnamenti complementari le norme circa gli esami di profitto e di laurea sono abrogate e sostituite dalle seguenti:  
+Per ottenere l'iscrizione al triennio di applicazione lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fissati per il biennio di studi propedeutici.  
+Nella scelta degli esami complementari e nelle precedenze degli esami lo studente deve seguire i criteri deliberati dalla facolta'.  
+La scelta di materie complementari diverse da quelle consigliate dal piano di studi deve essere convalidata dalla facolta' su domanda dello studente.  
+Gli insegnamenti biennali, sia del biennio propedeutico che del triennio di applicazione, comportano due distinti esami, uno alla fine di ogni anno di corso. Lo studente dovra' superare l'esame di chimica generale ed inorganica (I parte) prima di sostenere l'esame di chimica generale ed inorganica (II parte) ed analogamente gli esami di chimica fisica (I parte), di esercitazioni di chimica fisica (I parte), di chimica organica (I parte), di istituzioni di matematiche (1 parte), di esercitazioni di matematiche (I parte), e di fisica sperimentale (I parte) prima di sostenere gli esami delle rispettive seconde parti delle materie biennali.  
+Lo studente deve inoltre rispettare le seguenti precedenze: gli esami di chimica generale ed inorganica (I parte) e di esercitazioni e di preparazioni chimiche (biennio propedeutico) debbono essere superati prima di sostenere gli esami di chimica organica (I parte) e di esercitazioni di analisi chimica qualitativa; l'esame di esercitazioni di analisi chimica quantitativa prima dell'esame di esercitazioni di analisi chimica a applicata: lo esame di chimica fisica (I parte) prima dell'esame di elettrochimica.  
+Le esercitazioni costituenti materie fondamentali debbono essere riguardate a tutti gli effetti come insegnamenti da essere impartiti da un professore di ruolo o da un incaricato.  
+Onde non confondere le esercitazioni di preparazioni chimiche, fondamentali del biennio propedeutico e rispettivamente del triennio di applicazione, questi due corsi verranno indicati nell'ordine degli studi, nei verbali di esame, e negli altri documenti come segue:  
+a) Esercitazioni di preparazioni chimiche (biennio propedeutico);  
+b) Esercitazioni di preparazioni chimiche (triennio di applicazione).  
+Per essere ammesso all'esame di laurea lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali prescritti per il triennio di applicazione, ed almeno in sette da lui scelti fra i complementari dell'indirizzo seguito.  
+L'esame di laurea consiste in:  
+1) Un esame di cultura (con prove pratiche) vertente su concetti fondamentali delle seguenti materie:  
+a) Chimica inorganica;  
+b) Chimica organica;  
+c) Chimica fisica;  
+d) Chimica analitica;  
+e) Gruppo delle materie complementari.  
+2) Discussione di una dissertazione scritta (tesi) concernente ricerche a carattere sperimentale effettuate dal candidato. La dissertazione scritta deve essere presentata alla segreteria della facolta' di scienze matematiche, fisiche e naturali almeno venti giorni prima della sessione di laurea;  
+3) Discussione di una dissertazione scritta anche a carattere compilativo (tesina), tra due scelte dal candidato, in disciplina diversa da quella della tesi.  
+Superato l'esame di laurea, lo studente consegue il titolo di dottore in chimica.  
   
-Art. 32. - L'Istituto di Lingue e letterature straniere comprende le cattedre di Lingua e letteratura francese; di Lingua e letteratura inglese, di Lingua e letteratura tedesca, di Lingua e letteratura spagnola della Facolta' di Lettere e filosofia.  
-Art. 33. - L'Istituto ha lo scopo di coordinare e di potenziare l'incremento delle lingue e letterature moderne e delle discipline ad esse complementari nonche' di fornire una adeguata cultura specifica e quegli studenti che si dedicheranno all'insegnamento delle lingue moderne.  
-Art. 34. - L'Istituto ha sede nei locali assegnati alla cattedra di Lingua e letteratura francese.  
-Art. 35. - La direzione dell'Istituto e' affidata, a turno annuale, ad uno dei titolari delle singole discipline.  
-Art. 36. - Presso l'Istituto prestano servizio gli assistenti sia di ruolo sia volontari attualmente in servizio, e quelli che in seguito verranno assunti dalle predette cattedre.  
-Art. 37. - Per il raggiungimento dei propri fini, l'Istituto dispone di materiale didattico e scientifico appropriati, di una fototeca, di una propria biblioteca, da costituirsi quest'ultima con un fondo di libri gia' esistenti presso la biblioteca universitaria, e con singoli donativi.  
-Art. 38. - All'Istituto e' annesso un laboratorio linguistico modernamente attrezzato, al cui funzionamento saranno preposti un assistente di ruolo (coadiuvato per ciascuna lingua, da assistenti di ruolo o volontari, che abbiano una pratica dei recentissimi metodi di insegnamento) e un tecnico specializzato che abbia cura degli apparecchi.  
-Art. 39. - L'Istituto si propone anche di pubblicare una serie di contributi di carattere scientifico preparati da professori assistenti e laureati.  
-Art. 40. - Con la dotazione assegnata all'Istituto dal Consiglio di amministrazione dell'Universita', nonche' le eventuali elargizioni di altri Enti e Istituzioni, l'Istituto potra' provvedere alle proprie attivita' scientifiche e didattiche.  
-L'articolo 96 e' modificato nel senso che la durata della Scuola di specializzazione in Clinica oculistica e' fissata in anni quattro.  
-L'art. 117 e' abrogato e sostituito dal seguente:  
+Art. 46. - Dall'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono soppressi quelli di: biologia delle razze umane; etnologia; patologia vegetale; entomologia generale; morfologia sperimentale; cristallochimica; citologia chimica; citogenetica; citologia generale e sperimentale.  
+Nel predetto elenco sono aggiunti i seguenti insegnamenti complementari:  
+Mineralogia;  
+Citologia;  
+Genetica dei microorganismi;  
+Ecologia.  
   
-Scuola di specializzazione in Clinica oculistica  
+Art. 47. - Nell'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti quelli di:  
+Cristallochimica;  
+Geologia del sottosuolo;  
+Geometria analitica con elementi di proiettiva;  
+Geotecnica;  
+Petrografia applicata;  
+Rilevamento geologico.  
+Dopo l'elenco degli insegnamenti complementari l'ultimo comma e' abrogato e sostituito dai seguenti:  
+I tre insegnamenti complementari di analisi matematica, di meccanica razionale con elementi di statica grafica e di geometria analitica, sostituiscono l'unico insegnamento fondamentale di "Istituzioni di matematica". Per l'insegnamento di analisi matematica, vale la norma stabilita per la laurea in scienze matematiche. Gli insegnamenti di botanica e di zoologia debbono avere indirizzo biogeografico.  
+Gli studenti devono osservare le seguenti precedente: l'esame di chimica generale ed inorganica e l'esame di fisica sperimentale devono precedere quelli di mineralogia. L'esame di istituzioni di matematica precede quello di fisica. L'esame di mineralogia deve precedere quello di petrografia, geologia, mineralogia applicata.  
+L'esame di paleontologia deve precedere quello di geologia, l'esame di geologia deve precedere quello di geologia applicata e quello di geologia regionale. L'esame di geografia generale deve precedere quello di geologia. Gli esami di mineralogia, petrografia e paleontologia devono precedere quelli di sedimentologia.  
+Per essere ammesso all'esame di laurea, lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti fra gli esami complementari.  
+L'esame di laurea consiste nella discussione di una dissertazione scritta e di almeno uno fra tre argomenti scelti dal candidato su tre insegnamenti diversi da quello della dissertazione scritta.  
+Prima di iniziare la tesi lo studente deve notificare alla facolta' l'argomento che intende trattare.  
+La facolta' decidera' sull'accoglimento o meno. La dissertazione deve essere accettata dalla commissione esaminatrice.  
+L'esame di laurea e' preceduto da un esame di cultura generale e da due prove pratiche. Le prove pratiche consistono in una prova delle discipline mineralogiche ed in una prova delle discipline geologiche.  
+La dissertazione di laurea deve essere presentata in segreteria almeno 20 (venti) giorni prima della data fissata per la discussione.  
   
-Art. 117. - La Scuola ha la durata di quattro anni Il numero complessivo degli iscritti ai quattro anni del corso e' di venticinque.  
-Gli insegnamenti impartiti dalla Scuola sono i seguenti:  
-1° Anno:  
-1) Anatomia e istologia dell'apparato oculare;  
-2) Nozioni di embriologia e genetica oculare;  
-3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;  
-4) Nozioni di ottica fisiologica, esame della rifrazione;  
-5) Microbiologia ed igiene oculare.  
-2° Anno:  
-1) Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmologia, perimetria, campimetria, adattometria, senso cromatico, tonometria, tonografia, esami elettrofunzionali, radiologia);  
-2) Farmacologia oculare e terapia fisica;  
-3) Anatomia patologica oculare;  
-4) Patologia e clinica oculare (malattie delle palpebre, della congiuntiva, delle vie lacrimali, della cornea e della sclera).  
-3° Anno:  
-1) Patologia e clinica oculare (malattie dell'uvea, della retina, del nervo e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita, glaucoma);  
-2) Anomalie e patologia della motilita' oculare e della visione binoculare. Ortottica e pleottica;  
-3) Affezioni otorinolaringoiatriche e occhio;  
-4) Tecnica operatoria - 1ª parte.  
-4° Anno:  
-1) Neuro-oftalmologia;  
-2) Malattie oculari in rapporto ad affezioni generali;  
-3) Malattie professionali. Infortunistiche e medicina legale oculare;  
-4) Tecnica operatoria - 2ª parte;  
-5) Tesi di specializzazione.  
-Gli esami di profitto si danno alla fine di ciascun anno. Alla line del corso gli iscritti oltre a presentate la dissertazione scritta ed a sostenere la relativa discussione a norma dell'art. 106, devono sostenere una prova pratica sull'ammalato.  
+Art. 50, relativo alle propedeuticita' dei corsi di laurea della facolta' e' modificato nel senso che il primo ed il sesto comma di cui alle lettere a) ed f) sono soppressi con il relativo riordinamento dell'ordine alfabetico.  
+  
+Art. 54. - All'elenco degli insegnamenti complementari del corso di laurea in farmacia sono aggiunti quelli di:  
+10) Istituzioni di matematiche;  
+11) Complementi di chimica tossicologica;  
+12) Analisi chimica farmaceutica strumentale.  
+  
+Art. 98. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti quelli di:  
+20) Estetica;  
+21) Storia del teatro e dello spettacolo;  
+22) Storia della storiografia;  
+23) Storia della scienza e delle tecniche;  
+24) Paleografia latina e diplomatica;  
+25) Storia delle religioni.  
+  
+Art. 99. - All'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti quelli di:  
+13) Estetica;  
+14) Storia della storiografia;  
+15) Storia della scienza e delle tecniche.  
+  
+Art. 100. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di:  
+15) Estetica;  
+16) Storia del teatro e dello spettacolo;  
+17) Storia della scienza e delle tecniche;  
+18) Storia e letteratura catalana;  
+19) Storia della letteratura italiana moderna e contemporanea.  
+Dopo l'art. 105 e con il conseguente spostamento della numerazione successiva e' aggiunto il seguente nuovo articolo relativo alla creazione dell'istituto di storia annesso alla facolta' di magistero.  
+  
+Art. 106. - Presso la facolta' di magistero e' istituito l'istituto di storia.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo di chiunque spetti di osservarlo e di farlo osservare.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 maggio 1965
+### Dato a Roma, addi' 22 marzo 1968
 
-SARAGAT GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato alla Corte dei conti, addi' 30 giugno 1965
-
-Atti del Governo, registro n. 194, foglio n. 35 - VILLA
+GUI SARAGAT Visto, il Guardasigilli: REALE Registrato alla Corte dei conti, addi' 5 giugno 1968 Atti del Governo, registro n. 220, foglio n. 32. - GRECO

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1976 n. 150
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 giugno 1982 n. 521
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1976 n. 150
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 giugno 1982 n. 521
+=============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad acquistare un immobile.
 ----------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-150. Decreto del Presidente della Repubblica 13 marzo 1976, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad acquistare dalla ditta Natrella Domenica di Bari, al convenuto prezzo di lire 18.535.000, un appartamento di mq 151 sito in Lecce al secondo piano del fabbricato di via Imperatore Adriano, scala C, sorto su terreno distinto dal nuovo catasto terreni con foglio n. 259, particella 4284, nonche' un locale sottostante della superficie di mq 100, da destinare a sede della locale sezione provinciale.  
+521. Decreto del Presidente della Repubblica 8 giugno 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad acquistare, al prezzo di L. 11.000.000, ritenuto congruo dall'ufficio tecnico erariale di Latina, un immobile sito in Latina, via E. Filiberto n. 103, censito al nuovo catasto edilizio urbano alla partita n. 995, foglio numero 142, mappale 3/13, di proprieta' dei signori Antonio Sesti e Antonia Pastore, a condizione di inesistenza di trascrizioni o iscrizioni a carico dei predetti venditori dell'immobile specificato per, il periodo dal 27 aprile 1978 al giorno della trascrizione dell'atto di acquisto da parte dell'Unione italiana dei ciechi.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 20 aprile 1976  
-Atti di Governo, registro n. 5, foglio n. 20
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 2 agosto 1982  
+Registro n. 7 Presidenza, foglio n. 234

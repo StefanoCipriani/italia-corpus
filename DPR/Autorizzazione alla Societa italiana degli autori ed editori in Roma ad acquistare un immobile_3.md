@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 agosto 1985 n. 573
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 agosto 1985 n. 576
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 agosto 1985 n. 573
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 agosto 1985 n. 576
 =============================================================
 
 Autorizzazione alla Societa' italiana degli autori ed editori, in Roma, ad acquistare un immobile.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-573. Decreto del Presidente della Repubblica 6 agosto 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Societa' italiana degli autori ed editori (S.I.A.E.), in Roma, viene autorizzata ad acquistare, al convenuto prezzo di L. 176.000.000, come da atto di compravendita 28 settembre 1981, n. 4040/787 di repertorio, a rogito dott. Nicodemo Operamolla, notaio in Roma, un immobile sito in Brescia, via Creta n. 68, costituito da un ampio locale, ufficio al piano terra di un nuovo stabile condominiale, ricadente sul mappale 81 del foglio 169 della mappa di Brescia, particella censita al nuovo catasto edilizio urbano con scheda registrata al n. 112 in data 3 gennaio 1981, valutato con perizia di parte L. 192.000.000.  
+576. Decreto del Presidente della Repubblica 6 agosto 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Societa' italiana degli autori ed editori (SIAE), in Roma, viene autorizzata ad acquistare, come da atto preliminare di compravendita 10 agosto 1981, n. 64200 di repertorio, a rogito dott. Alberto Menazzi, notaio in Udine, al convenuto prezzo di L. 70.000.000, un immobile sito in Udine, via Valussi, costituito da porzione di fabbricato nel complesso condominiale "Gardenia III", distinto nel catasto terreni con la particella 568 del foglio 48, di are 49.16, consistente in un appartamento al piano primo e locale scantinato complessivamente di m quadri 134,80, valutato con perizia di parte L. 70.300.000.  
   
 Visto, il Guardasigilli: MARTINAZZOLI  
 Registrato alla Corte dei conti, addi' 11 ottobre 1985  
-Registro n. 9 Presidenza, foglio n. 74
+Registro n. 9 Presidenza, foglio n. 73

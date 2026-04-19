@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1959 n. 1044
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1976 n. 1010
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1959 n. 1044
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1976 n. 1010
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Perugia.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successivi;
+Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,7 +20,7 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' degli studi di Perugia e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -30,186 +30,141 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-CAP. XII
+L'art. 99 e' modificato nel senso che al primo comma, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, la scuola di specializzazione in endocrinologia e malattie del ricambio muta la denominazione in endocrinologia.
 
-Corsi di perfezionamento
+L'art. 109, relativo alla scuola di specializzazione in endocrinologia e malattie del ricambio, che muta la denominazione in scuola di specializzazione in endocrinologia, e' soppresso e sostituito dal seguente:
 
-annessi alla Facolta' di medicina veterinaria
+Scuola di specializzazione in endocrinologia
 
-Dopo l'art. 102, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione dei corsi di perfezionamento in "patologia e clinica dei bovini", "approvvigionamenti annonari, mercati e industrie di origine animale" e "alimentazione del bestiame".
+Art. 109. - La scuola ha la durata di anni tre; il numero degli iscritti e' limitato a sei per ogni anno di corso.
 
-Art. 103. - Alla Facolta' di medicina veterinaria sono annessi i corsi di perfezionamento in "patologia e clinica dei bovini", "approvvigionamenti annonari, mercati e industrie di origine animale", "alimentazione del bestiame", tutti della durata di un anno.
+Gli aspiranti saranno ammessi alla scuola in base alla graduatoria formulata dopo un esame preliminare che comprende una prova scritta ed una prova orale, che si svolgera' entro il mese di dicembre.
 
-Alla fine del corso sara' rilasciato un attestato di frequenza o di profitto.
+Gli iscritti alla scuola hanno l'obbligo di frequentare gli insegnamenti stabiliti secondo il programma del corso, nonche' l'istituto sede della scuola.
 
-Art. 104. - Ai corsi di perfezionamento in "patologia e clinica dei bovini" e in "approvvigionamenti annonari, mercati e industrie di origine animale" possono essere iscritti soltanto i laureati in medicina veterinaria; al corso di perfezionamento in "alimentazione del bestiame" possono essere iscritti i laureati in scienze agrarie.
+Coloro che non ottempereranno all'obbligo di frequenza ai corsi di insegnamento e al servizio di corsia e di laboratorio non potranno ottenere l'attestazione di frequenza necessaria.
 
-Non e' ammessa la iscrizione contemporanea a piu' di un corso di perfezionamento.
+Il programma di ciascun anno di corso sara' svolto in almeno 60 lezioni globali e sara' integrato da seminari, conferenze, esercitazioni.
 
-Art. 105. - Il direttore del corso di perfezionamento in "patologia e clinica dei bovini" e' il professore di ruolo di patologia speciale e clinica medica; quello del corso di perfezionamento in "approvvigionamenti annonari, mercati e industrie di origine animale" e' il professore di ruolo della materia; quello del corso di perfezionamento in "alimentazione del bestiame" e' il professore di ruolo di fisiologia generale e speciale degli animali domestici con chimica biologica. Nel caso in cui le cattedre sopradette non siano coperte da un professore di ruolo il direttore e' scelto dal Consiglio di Facolta'.
+Alla fine di ciascun anno accademico, coloro che abbiano ottenuto la prescritta attestazione di frequenza potranno sostenere gli esami di profitto, il cui superamento e' condizione necessaria per l'iscrizione al corso successivo.
 
-Il Consiglio di ciascun corso e' formato dai professori che tengono gli insegnamenti.
+Al termine del terzo anno, per conseguire il diploma di specializzazione in endocrinologia, oltre aver superato le prove d'esame dei singoli insegnamenti obbligatori e di uno almeno scelto tra gli insegnamenti complementari, gli iscritti dovranno presentare una dissertazione scritta su un argomento di ordine endocrinologico "clinico e sperimentale" che sara' stabilito in base ad accordi presi con il direttore della scuola.
 
-Art. 106. - Il numero dei laureati che possono essere iscritti a ciascun corso e' di venti. Per il funzionamento di ciascun corso e' comunque necessario un numero di sei iscritti.
+I candidati non riconosciuti idonei agli esami di ciascun anno di corso e all'esame di diploma, potranno sostenere le prove dopo un altro anno di frequenza.
 
-Qualora il numero degli iscritti ecceda quello massimo l'ammissione ai corsi stessi e' subordinata alla valutazione dei titoli degli aspiranti. Le date d'inizio e di termine dei corsi sono uguali a quelle fissate per l'anno accademico.
+Le materie di insegnamento sono:
 
-Art. 107. - Le tasse d'immatricolazione e di iscrizione ai corsi di perfezionamento sono le stesse dovute dagli studenti della Facolta' di medicina veterinaria.
+1° Anno:
 
-La misura dei contributi per le esercitazioni pratiche verra' fissata dal Consiglio di amministrazione sia proposta del Consiglio della facolta', debitamente approvata dal Senato accademico.
+1) anatomia ed embriologia degli organi endocrini;
 
-Art. 108. - A coloro che hanno frequentato i corsi e superato le prove relative, verra' rilasciato un attestato di frequenza e di profitto.
+2) fisiologia endocrina;
 
-Corso di perfezionamento in patologia e clinica dei bovini
+3) biochimica endocrina;
 
-Art. 109. - Il corso ha la durata di un anno.
+4) anatomia patologica delle malattie endocrine (biennale);
 
-Le materie d'insegnamento sono:
+5) semeiotica e diagnostica endocrina (biennale).
 
-1) anatomia e fisiologia dei bovini;
+2° Anno:
 
-2) anatomia patologica;
+1) anatomia patologica delle malattie endocrine (biennale);
 
-3) ostetricia, ginecologia e fecondazione artificiale;
+2) semeiotica e diagnostica endocrine (biennale);
 
-4) patologia speciale e clinica medica;
+3) patologia speciale medica e clinica delle malattie endocrine e delle auxopatie (biennale);
 
-5) malattie infettive, profilassi e polizia veterinaria;
+4) eredopatologia endocrina.
 
-6) nozioni di medicina veterinaria legale;
+3° Anno:
 
-7) nozioni di chirurgia bovina.
+1) patologia speciale medica e clinica delle malattie endocrine e delle auxopatie (biennale);
 
-Le relative esercitazioni riguarderanno l'anatomia patologica, la diagnosi sperimentale delle malattie infettive, la ginecologia e fecondazione artificiale, la chirurgia e la clinica medica dei bovini.
+2) terapia delle malattie endocrine.
 
-Corso di perfezionamento in approvvigionamenti annonari, mercati e industrie di origine animale
+Insegnamenti complementari:
 
-Art. 110. - Il corso ha la durata di un anno.
+1) farmacologia endocrina;
 
-Le materie d'insegnamento sono:
+2) endocrinologia ostetrico-ginecologica;
 
-1) legislazione annonaria;
-
-2) principi di economia politica e di statistica;
-
-3) tecnica di preparazione, conservazione, trasporto e controllo sanitario degli alimenti di origine animale;
-
-4) nozioni di chimica degli alimenti di origine animale;
-
-5) mercati;
-
-6) tecnica commerciale dei prodotti alimentari di origine animale.
-
-Le relative esercitazioni, riguarderanno, principalmente, le tecniche di preparazione, conservazione, trasporto e controllo sanitario degli alimenti di origine animale.
-
-Corso di perfezionamento in alimentazione del bestiame
-
-Art. 111. - Il corso ha la durata di un anno.
-
-Le materie d'insegnamento sono:
-
-1) nozioni di fisiologia della nutrizione;
-
-2) produzione, conservazione e composizione chimica degli alimenti;
-
-3) metodi di analisi chimica e biologica degli alimenti;
-
-4) tecnica ed economia dell'alimentazione;
-
-5) patologia dell'alimentazione.
-
-Le relative esercitazioni riguarderanno le analisi degli alimenti, il riconoscimento dei foraggi e dei mangimi concentrati, il razionamento.
+3) neuroendocrinologia.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 19 ottobre 1959
+Dato a Roma, addi' 30 ottobre 1976
 
-GRONCHI
+LEONE
 
-MEDICI
+MALFATTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BONIFACIO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 9 dicembre 1959 Atti del Governo, registro n. 122, foglio n. 104. - VILLA
+alla Corte dei conti, addi' 19 febbraio 1977 Registro n. 18 Istruzione, foglio n. 70
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' degli studi di Perugia e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-CAP. XII  
-Corsi di perfezionamento  
-annessi alla Facolta' di medicina veterinaria  
+L'art. 99 e' modificato nel senso che al primo comma, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, la scuola di specializzazione in endocrinologia e malattie del ricambio muta la denominazione in endocrinologia.   
+L'art. 109, relativo alla scuola di specializzazione in endocrinologia e malattie del ricambio, che muta la denominazione in scuola di specializzazione in endocrinologia, e' soppresso e sostituito dal seguente:   
   
-Dopo l'art. 102, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione dei corsi di perfezionamento in "patologia e clinica dei bovini", "approvvigionamenti annonari, mercati e industrie di origine animale" e "alimentazione del bestiame".  
-Art. 103. - Alla Facolta' di medicina veterinaria sono annessi i corsi di perfezionamento in "patologia e clinica dei bovini", "approvvigionamenti annonari, mercati e industrie di origine animale", "alimentazione del bestiame", tutti della durata di un anno.  
-Alla fine del corso sara' rilasciato un attestato di frequenza o di profitto.  
-Art. 104. - Ai corsi di perfezionamento in "patologia e clinica dei bovini" e in "approvvigionamenti annonari, mercati e industrie di origine animale" possono essere iscritti soltanto i laureati in medicina veterinaria; al corso di perfezionamento in "alimentazione del bestiame" possono essere iscritti i laureati in scienze agrarie.  
-Non e' ammessa la iscrizione contemporanea a piu' di un corso di perfezionamento.  
-Art. 105. - Il direttore del corso di perfezionamento in "patologia e clinica dei bovini" e' il professore di ruolo di patologia speciale e clinica medica; quello del corso di perfezionamento in "approvvigionamenti annonari, mercati e industrie di origine animale" e' il professore di ruolo della materia; quello del corso di perfezionamento in "alimentazione del bestiame" e' il professore di ruolo di fisiologia generale e speciale degli animali domestici con chimica biologica. Nel caso in cui le cattedre sopradette non siano coperte da un professore di ruolo il direttore e' scelto dal Consiglio di Facolta'.  
-Il Consiglio di ciascun corso e' formato dai professori che tengono gli insegnamenti.  
-Art. 106. - Il numero dei laureati che possono essere iscritti a ciascun corso e' di venti. Per il funzionamento di ciascun corso e' comunque necessario un numero di sei iscritti.  
-Qualora il numero degli iscritti ecceda quello massimo l'ammissione ai corsi stessi e' subordinata alla valutazione dei titoli degli aspiranti. Le date d'inizio e di termine dei corsi sono uguali a quelle fissate per l'anno accademico.  
-Art. 107. - Le tasse d'immatricolazione e di iscrizione ai corsi di perfezionamento sono le stesse dovute dagli studenti della Facolta' di medicina veterinaria.  
-La misura dei contributi per le esercitazioni pratiche verra' fissata dal Consiglio di amministrazione sia proposta del Consiglio della facolta', debitamente approvata dal Senato accademico.  
-Art. 108. - A coloro che hanno frequentato i corsi e superato le prove relative, verra' rilasciato un attestato di frequenza e di profitto.  
-Corso di perfezionamento in patologia e clinica dei bovini  
-Art. 109. - Il corso ha la durata di un anno.  
-Le materie d'insegnamento sono:  
-1) anatomia e fisiologia dei bovini;  
-2) anatomia patologica;  
-3) ostetricia, ginecologia e fecondazione artificiale;  
-4) patologia speciale e clinica medica;  
-5) malattie infettive, profilassi e polizia veterinaria;  
-6) nozioni di medicina veterinaria legale;  
-7) nozioni di chirurgia bovina.  
-Le relative esercitazioni riguarderanno l'anatomia patologica, la diagnosi sperimentale delle malattie infettive, la ginecologia e fecondazione artificiale, la chirurgia e la clinica medica dei bovini.  
-Corso di perfezionamento in approvvigionamenti annonari, mercati e industrie di origine animale  
-Art. 110. - Il corso ha la durata di un anno.  
-Le materie d'insegnamento sono:  
-1) legislazione annonaria;  
-2) principi di economia politica e di statistica;  
-3) tecnica di preparazione, conservazione, trasporto e controllo sanitario degli alimenti di origine animale;  
-4) nozioni di chimica degli alimenti di origine animale;  
-5) mercati;  
-6) tecnica commerciale dei prodotti alimentari di origine animale.  
-Le relative esercitazioni, riguarderanno, principalmente, le tecniche di preparazione, conservazione, trasporto e controllo sanitario degli alimenti di origine animale.  
-Corso di perfezionamento in alimentazione del bestiame  
-Art. 111. - Il corso ha la durata di un anno.  
-Le materie d'insegnamento sono:  
-1) nozioni di fisiologia della nutrizione;  
-2) produzione, conservazione e composizione chimica degli alimenti;  
-3) metodi di analisi chimica e biologica degli alimenti;  
-4) tecnica ed economia dell'alimentazione;  
-5) patologia dell'alimentazione.  
-Le relative esercitazioni riguarderanno le analisi degli alimenti, il riconoscimento dei foraggi e dei mangimi concentrati, il razionamento.  
+Scuola di specializzazione in endocrinologia   
+Art. 109. - La scuola ha la durata di anni tre; il numero degli iscritti e' limitato a sei per ogni anno di corso.   
+Gli aspiranti saranno ammessi alla scuola in base alla graduatoria formulata dopo un esame preliminare che comprende una prova scritta ed una prova orale, che si svolgera' entro il mese di dicembre.   
+Gli iscritti alla scuola hanno l'obbligo di frequentare gli insegnamenti stabiliti secondo il programma del corso, nonche' l'istituto sede della scuola.   
+Coloro che non ottempereranno all'obbligo di frequenza ai corsi di insegnamento e al servizio di corsia e di laboratorio non potranno ottenere l'attestazione di frequenza necessaria.   
+Il programma di ciascun anno di corso sara' svolto in almeno 60 lezioni globali e sara' integrato da seminari, conferenze, esercitazioni.   
+Alla fine di ciascun anno accademico, coloro che abbiano ottenuto la prescritta attestazione di frequenza potranno sostenere gli esami di profitto, il cui superamento e' condizione necessaria per l'iscrizione al corso successivo.   
+Al termine del terzo anno, per conseguire il diploma di specializzazione in endocrinologia, oltre aver superato le prove d'esame dei singoli insegnamenti obbligatori e di uno almeno scelto tra gli insegnamenti complementari, gli iscritti dovranno presentare una dissertazione scritta su un argomento di ordine endocrinologico "clinico e sperimentale" che sara' stabilito in base ad accordi presi con il direttore della scuola.   
+I candidati non riconosciuti idonei agli esami di ciascun anno di corso e all'esame di diploma, potranno sostenere le prove dopo un altro anno di frequenza.   
+Le materie di insegnamento sono:   
+1° Anno:   
+1) anatomia ed embriologia degli organi endocrini;   
+2) fisiologia endocrina;   
+3) biochimica endocrina;   
+4) anatomia patologica delle malattie endocrine (biennale);   
+5) semeiotica e diagnostica endocrina (biennale).   
+2° Anno:   
+1) anatomia patologica delle malattie endocrine (biennale);   
+2) semeiotica e diagnostica endocrine (biennale);   
+3) patologia speciale medica e clinica delle malattie endocrine e delle auxopatie (biennale);   
+4) eredopatologia endocrina.   
+3° Anno:   
+1) patologia speciale medica e clinica delle malattie endocrine e delle auxopatie (biennale);   
+2) terapia delle malattie endocrine.   
+Insegnamenti complementari:   
+1) farmacologia endocrina;   
+2) endocrinologia ostetrico-ginecologica;   
+3) neuroendocrinologia.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 ottobre 1959
+### Dato a Roma, addi' 30 ottobre 1976
 
-GRONCHI MEDICI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 9 dicembre 1959
+Registrato alla Corte dei conti, addi' 19 febbraio 1977
 
-Atti del Governo, registro n. 122, foglio n. 104. - VILLA
+Registro n. 18 Istruzione, foglio n. 70

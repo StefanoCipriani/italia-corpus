@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 maggio 1970 n. 388
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 dicembre 1972 n. 964
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 maggio 1970 n. 388
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 dicembre 1972 n. 964
+===============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, con sede in Roma, ad acquistare un immobile.
 -------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-388. Decreto del Presidente della Repubblica 1 maggio 1970, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, con sede centrale in Roma, viene autorizzata ad acquistare al prezzo convenuto di lire 16.000.000, dai germani signori Teresa Martuscelli in Ferrieri, dottor Giovanni Martuscelli, dott. Anselmo Martuscelli, Clara Martuscelli in Avati, ing. Mario Martuscelli ed ing. Antonio Martuscelli, alcune porzioni di immobile facenti parte della palazzina sita in Roma con ingresso al numero civico 2/B di via Mentana, ivi compreso anche un appartamento sito al primo piano, distinto col numero int. 4, composto di sette camere ed accessori.  
+964. Decreto del Presidente della Repubblica 6 dicembre 1972, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, con sede in Roma, viene autorizzata ad acquistare dalla signora Maria Alessandrina Ursitti, vedova Romano, al convenuto prezzo di L. 9.200.000, un appartamento al 1° piano, composto di vani sei e accessori, sito in Foggia, via Gorizia, 48.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 17 giugno 1970  
-Atti del Governo, registro n. 236, luglio n. 27. - CARUSO
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 23 gennaio 1973  
+Atti di Governo, registro n. 255, foglio n. 62. - VALENTINI

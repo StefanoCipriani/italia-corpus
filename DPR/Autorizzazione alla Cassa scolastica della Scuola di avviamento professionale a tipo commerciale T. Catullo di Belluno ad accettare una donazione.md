@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1952 n. 739
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 dicembre 1951 n. 1733
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1952 n. 739
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 dicembre 1951 n. 1733
+================================================================
 
 Autorizzazione alla Cassa scolastica della Scuola di avviamento professionale a tipo commerciale "T. Catullo" di Belluno ad accettare una donazione.
 ----------------------------------------------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-739. Decreto del Presidente della Repubblica 14 marzo 1952, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola di avviamento professionale a tipo commerciale "T. Catullo" di Belluno viene autorizzata ad accettare la donazione di nominali L. 25.000 disposta al fine dell'istituzione di un premio di studio intitolato al nome di Renato Sottomani.  
+1733. Decreto del Presidente della Repubblica 7 dicembre 1951, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola di avviamento professionale a tipo commerciale "T. Catullo" di Belluno viene autorizzata ad accettare la donazione di L. 25.000 in titoli di Stato, per l'istituzione, con il relativo reddito, di un annuo premio di studio intitolato "Mosena Pierino".  
   
 Visto, il Guardasigilli: ZOLI  
-Registrato alla Corte dei conti, addi' 30 giugno 1952  
-Atti del Governo, registro n. 54, foglio n. 105. - FRASCA
+Registrato alla Corte dei conti, addi' 13 febbraio 1952  
+Atti del Governo, registro n. 50, foglio n. 27. - FRASCA

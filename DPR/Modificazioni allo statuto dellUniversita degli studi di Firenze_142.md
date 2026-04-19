@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1978 n. 865
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1950 n. 616
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1978 n. 865
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1950 n. 616
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
@@ -10,281 +10,184 @@ Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con il [regio decreto 5 maggio 1939, n. 1165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-05;1165), e modificato con i [regi decreti 12 ottobre 1939, n. 1712](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-12;1712), [27 aprile 1942, n. 467](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-04-27;467) e [24 ottobre 1942, n. 1439](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-10-24;1439);
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduto il [decreto del Presidente della Repubblica 12 luglio 1977, n. 817](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-07-12;817), con il quale e' stato ristrutturato il corso di laurea in scienze forestali;
+Veduto il [regio decreto-legge 27 gennaio 1944, n. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-27;58);
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Firenze e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Vedute le proposte di modifica, allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti succitati, e' cosi' ulteriormente modificato:
 
-L'art. 152, relativo al corso di laurea in scienze forestali, e' soppresso.
+Art. 7. - E' aggiunto il seguente comma:
 
-Dopo l'art. 156 (gia' art. 157), e con il conseguente spostamento della numerazione degli articoli successivi, e' aggiunto il seguente nuovo articolo relativo al corso di laurea in scienze forestali:
+"Nessun anno di stadio e' valido se lo studente non si sia iscritto e non abbia ottenuto attestazioni di frequenza in almeno tre insegnamenti".
 
-Corso di laurea in scienze forestali
+Dopo l'art. 17. - E' aggiunto il seguente nuovo articolo col relativo spostamento della numerazione degli articoli successivi.
 
-Art. 157. - La durata del corso degli studi per la laurea in scienze forestali e' di quattro anni.
+Art. 18. - "Presso la Facolta' di giurisprudenza funziona un Seminario di applicazione forense disciplinato da un proprio regolamento interno approvato dalla Facolta'".
 
-Titoli di ammissione sono quelli previsti dall'[art. 1 della legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1).
+Attuale art. 44. - Nell'elenco degli insegnamenti complementari per il diploma in statistica, e' aggiunto quello di "biometria".
 
-Insegnamenti fondamentali:
+Attuale art 51. - Nell'elenco degli insegnamenti complementari del corso di laurea in lettere sono soppressi quelli di "storia della letteratura latina, medioevale" e di "storia, orientale antica,", mentre e' aggiunto quello di "lingua e letteratura ungherese".
 
-1) alpicoltura I (prati, pascoli, agricoltura nella regione di montagna) (semestrale);
+Il penultimo comma e' sostituito dal seguente:
 
-2) alpicoltura II (zootecnica nella regione di montagna) (semestrale);
+"La Facolta' ove lo ritenga opportuno, potra' controllare i piani di studio presentati dagli studenti per il loro coordinamento ed approvarli prima che siano resi definitivi".
 
-3) assestamento forestale;
+Attuale art. 52. - Nell'elenco degli insegnamenti complementari per il corso di laurea in filosofia vengono soppressi quelli di "storia orientale antica" e di "biologia delle razze umane".
 
-4) botanica forestale;
+L'ultimo comma e' sostituito dal seguente:
 
-5) \* botanica generale;
+"Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e almeno in sei da lui scelti fra i complementari previa approvazione della Facolta'".
 
-6) \* botanica sistematica;
+Attuale art. 55. - Al secondo comma le parole: "E' in potere del preside udito il parere della Facolta' di consentire ai laureati" sono sostituite dalle seguenti:
 
-7) chimica forestale;
+"E' in potere della Facolta' di consentire ai laureati".
 
-8) \* chimica generale ed inorganica con applicazioni di analitica;
+Il penultimo ed ultimo comma sono sostituiti dai seguenti:
 
-9) \* chimica organica;
+"Per gli studenti di cui e' parola nei precedenti comma la Facolta' determina il numero minimo degli insegnamenti che debbono essere seguiti e formare oggetto di esame e consiglia il piano degli studi.
 
-10) costruzioni forestali (semestrale);
+Per gli studenti stranieri che intendono iscriversi alla Facolta' per conseguire la laurea in lettere o in filosofia, la Facolta' stabilisce a quale anno di studio debbono essere iscritti e quali insegnamenti debbono seguire e consiglia, il piano di studi. La Facolta' giuridica dell'equipollenza o meno dei titoli di studio conseguiti all'estero richiesti normalmente per l'ammissione alla Facolta'".
 
-11) dendrometria (semestrale);
+Attuale art. 62. - E' soppresso il terzo comma.
 
-12) economia ed estimo forestale;
+Attuale art. 74. - All'elenco degli insegnamenti complementari per l'indirizzo organico biologico e' aggiunto quello di chimica applicata (ai materiali da costruzione).
 
-13) \* fisica;
+All'elenco degli insegnamenti complementari per l'indirizzo inorganico - chimico fisico e' aggiunto quello di "scienza dei metalli".
 
-14) industrie chimico-forestali (semestrale);
+Dopo l'attuale art. 75. - Viene aggiunto il seguente nuovo articolo col conseguente spostamento della numerazione degli articoli successivi.
 
-15) legislazione forestale;
+Art. 73. - "L'esame di mineralogia deve essere preceduto da quello di clinica generale ed inorganica parte 1ª. L'esame di esercitazioni di analisi chimica applicata, 4° anno, puo' essere sostenuto solo dopo aver superato quello di esercitazioni di analisi chimica quantitativa. L'esame di chimica organica industriale, deve essere preceduto da quello di esercitazioni di chimica organica e analisi organica.
 
-16) \* matematica;
+Gli esami di scienza dei metalli, di elettrochimica e di fisica tecnica debbono essere preceduti da quello di chimica fisica 1ª.
 
-17) \* mineralogia e geologia;
+L'esame di spettroscopia, puo' essere sostenuto solo, dopo superati, quelli di chimica fisica 1° e 2°.
 
-18) patologia vegetale forestale;
+Attuale art. 76. - All'elenco degli insegnamenti complementari per il corso di laurea in fisica sono aggiunti gli insegnamenti seguenti: "Spettroscopia";
 
-19) \* principi di economia politica e di statistica;
+"Fisica terrestre".
 
-20) selvicoltura I (ecologia e selvicoltura generale);
+Attuale art. 77. - E' aggiunto il seguente comma:
 
-21) selvicoltura II (selvicoltura speciale);
+"Lo studente non puo' iscriversi al terzo anno di esercitazioni di fisica sperimentale senza aver prima superato gli esami di "esercitazioni di fisica sperimentale del 1° e 2° anno di corso".
 
-22) sistemazioni idraulico-forestali;
+Attuale art. 80. - All'elenco degli insegnamenti complementari per il corso di laurea in matematica e fisica e' aggiunto quello di "spettroscopia".
 
-23) tecnologia e utilizzazione forestale (compresa meccanica applicata);
+Attuale art. 82. - All'elenco degli insegnamenti complementari per il corso di laurea in scienze naturali sono aggiunti i seguenti:
 
-24) topografia;
+"Geografia fisica";
 
-25) zoologia forestale venatoria e acquicoltura;
+"Genetica".
 
-26) \* zoologia generale.
+Attuale art. 89. - E' soppressa l'espressione seguente contenuta nel quarto comma: "il candidato alla laurea in fisica e in matematica e fisica deve sostenere una prova pratica di fisica sperimentale".
 
-Insegnamenti complementari:
+E' inoltre aggiunto il seguente comma: "gli studenti iscritti ai corsi per le lauree in scienze matematiche, in fisica e matematica e fisica debbono sostenere una prova di cultura alla quale sono ammessi dopo aver superato tutti gli esami speciali e prima della discussione della tesi di laurea.
 
-1) agronomia montana;
+La predetta prova consta: a) per coloro che aspirano alla laurea in scienze matematiche, di una prova scritta consistente nella risoluzione di un problema di applicazione, delle nozioni fondamentali impartite nei corsi di matematica del primo biennio; b) per coloro che aspirano alla laurea in fisica di una prova di laboratorio; c) per coloro che aspirano alla laurea in matematica e fisica della prova di cui alla lettera a) quando la loro tesi di laurea riguardi le scienze matematiche.
 
-2) allevamenti minori in zone montane (semestrale);
+La Commissione esaminatrice e' composta, in ogni caso, dai professori di ruolo delle discipline matematiche e fisiche ed ha facolta' di aggregarsi altri membri scelti fra gli insegnanti, a qualunque titolo, dei corsi nei quali i candidati hanno sostenuto degli esami.
 
-3) alterazioni del legname (semestrale);
+La Commissione di laurea terra' particolarmente conto della prova di cultura nell'assegnare il voto di laurea.
 
-4) conservazioni della natura e delle sue risorse;
+Attuale art. 95. - E' sostituito dal seguente:
 
-5) difesa dagli inquinamenti (semestrale);
+"La direzione e la vigilanza del Seminario e' affidata ai professori della Facolta' "uno dei quali viene scelto dai Consiglio della Facolta' come direttore per la durata di un biennio".
 
-6) ecologia;
-
-7) ecologia zootecnica;
-
-8) economia di mercato dei prodotti forestali;
-
-9) elementi di idraulica e di idrologia;
-
-10) fisiologia degli alberi forestali (semestrale);
-
-11) geologia applicata;
-
-12) idrologia forestale;
-
-13) meccanizzazione forestale;
-
-14) microbiologia forestale;
-
-15) miglioramento genetico degli alberi forestali (semestrale);
-
-16) pedologia forestale;
-
-17) pianificazione ecologica del territorio;
-
-18) protezione dagli incendi boschivi (semestrale);
-
-19) protezione della natura e riassetto del paesaggio;
-
-20) selvicoltura industriale ed alberature;
-
-21) tecniche di rimboschimento nelle zone aride (semestrale);
-
-22) tutela del paesaggio agricolo forestale e riassetto del territorio;
-
-23) vivaistica forestale e rimboschimento;
-
-24) zoologia venatoria;
-
-25) costruzioni stradali forestali e agrarie;
-
-26) valutazioni e amministrazione forestali;
-
-27) geobotanica;
-
-28) inventari forestali;
-
-29) elementi di diritto amministrativo e diritto regionale.
-
-Le materie contrassegnate con asterisco sono in comune con il corso di laurea in scienze agrarie.
-
-Sono inoltre da ritenere complementari del corso di laurea in scienze forestali tutti gli insegnamenti (fondamentali e complementari) impartiti nel corso di laurea in scienze agrarie.
-
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in tre complementari a corso annuale. A tale effetto due corsi complementari semestrali sono computati come corso annuale.
-
-L'esame di laurea consiste in una discussione orale intorno ad una dissertazione scritta sopra un tema scelto dal candidato su un argomento forestale o avente stretta attinenza con le discipline impartite nella facolta'.
-
-Tutti gli insegnamenti impartiti nella facolta' sono di lezioni teoriche e di esercizi pratici che possono essere integrati da visite a fabbriche industriali e da esercitazioni in foresta.
-
-Gli esami di profitto sono orali; ma possono essere integrati da prove pratiche. Il voto e' pero' complessivo.
+Attuale art. 112. Nel secondo comma sono soppresse le parole "e l'argomento di due tesine orali in materie diverse da quella della dissertazione scritta".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 2 ottobre 1978
+Dato a Roma, addi' 11 giugno 1950
 
-PERTINI
+EINAUDI
 
-PEDINI
+GONELLA
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: PICCIONI
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 22 dicembre 1978 Registro n. 132 Istruzione, foglio n. 309
+alla Corte dei conti, addi' 21 agosto 1950 Atti del Governo, registro n. 35, foglio n. 52. - CARLOMAGNO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con il [regio decreto 5 maggio 1939, n. 1165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-05;1165), e modificato con i [regi decreti 12 ottobre 1939, n. 1712](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-12;1712), [27 aprile 1942, n. 467](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-04-27;467) e [24 ottobre 1942, n. 1439](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-10-24;1439);  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduto il [decreto del Presidente della Repubblica 12 luglio 1977, n. 817](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-07-12;817), con il quale e' stato ristrutturato il corso di laurea in scienze forestali;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Firenze e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Veduto il [regio decreto-legge 27 gennaio 1944, n. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-27;58);  
+Vedute le proposte di modifica, allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti succitati, e' cosi' ulteriormente modificato:  
   
-L'art. 152, relativo al corso di laurea in scienze forestali, e' soppresso.  
-Dopo l'art. 156 (gia' art. 157), e con il conseguente spostamento della numerazione degli articoli successivi, e' aggiunto il seguente nuovo articolo relativo al corso di laurea in scienze forestali:  
-  
-Corso di laurea in scienze forestali  
-Art. 157. - La durata del corso degli studi per la laurea in scienze forestali e' di quattro anni.  
-Titoli di ammissione sono quelli previsti dall'[art. 1 della legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1).  
-Insegnamenti fondamentali:  
-1) alpicoltura I (prati, pascoli, agricoltura nella regione di montagna) (semestrale);  
-2) alpicoltura II (zootecnica nella regione di montagna) (semestrale);  
-3) assestamento forestale;  
-4) botanica forestale;  
-5) \* botanica generale;  
-6) \* botanica sistematica;  
-7) chimica forestale;  
-8) \* chimica generale ed inorganica con applicazioni di analitica;  
-9) \* chimica organica;  
-10) costruzioni forestali (semestrale);  
-11) dendrometria (semestrale);  
-12) economia ed estimo forestale;  
-13) \* fisica;  
-14) industrie chimico-forestali (semestrale);  
-15) legislazione forestale;  
-16) \* matematica;  
-17) \* mineralogia e geologia;  
-18) patologia vegetale forestale;  
-19) \* principi di economia politica e di statistica;  
-20) selvicoltura I (ecologia e selvicoltura generale);  
-21) selvicoltura II (selvicoltura speciale);  
-22) sistemazioni idraulico-forestali;  
-23) tecnologia e utilizzazione forestale (compresa meccanica applicata);  
-24) topografia;  
-25) zoologia forestale venatoria e acquicoltura;  
-26) \* zoologia generale.  
-Insegnamenti complementari:  
-1) agronomia montana;  
-2) allevamenti minori in zone montane (semestrale);  
-3) alterazioni del legname (semestrale);  
-4) conservazioni della natura e delle sue risorse;  
-5) difesa dagli inquinamenti (semestrale);  
-6) ecologia;  
-7) ecologia zootecnica;  
-8) economia di mercato dei prodotti forestali;  
-9) elementi di idraulica e di idrologia;  
-10) fisiologia degli alberi forestali (semestrale);  
-11) geologia applicata;  
-12) idrologia forestale;  
-13) meccanizzazione forestale;  
-14) microbiologia forestale;  
-15) miglioramento genetico degli alberi forestali (semestrale);  
-16) pedologia forestale;  
-17) pianificazione ecologica del territorio;  
-18) protezione dagli incendi boschivi (semestrale);  
-19) protezione della natura e riassetto del paesaggio;  
-20) selvicoltura industriale ed alberature;  
-21) tecniche di rimboschimento nelle zone aride (semestrale);  
-22) tutela del paesaggio agricolo forestale e riassetto del territorio;  
-23) vivaistica forestale e rimboschimento;  
-24) zoologia venatoria;  
-25) costruzioni stradali forestali e agrarie;  
-26) valutazioni e amministrazione forestali;  
-27) geobotanica;  
-28) inventari forestali;  
-29) elementi di diritto amministrativo e diritto regionale.  
-Le materie contrassegnate con asterisco sono in comune con il corso di laurea in scienze agrarie.  
-Sono inoltre da ritenere complementari del corso di laurea in scienze forestali tutti gli insegnamenti (fondamentali e complementari) impartiti nel corso di laurea in scienze agrarie.  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in tre complementari a corso annuale. A tale effetto due corsi complementari semestrali sono computati come corso annuale.  
-L'esame di laurea consiste in una discussione orale intorno ad una dissertazione scritta sopra un tema scelto dal candidato su un argomento forestale o avente stretta attinenza con le discipline impartite nella facolta'.  
-Tutti gli insegnamenti impartiti nella facolta' sono di lezioni teoriche e di esercizi pratici che possono essere integrati da visite a fabbriche industriali e da esercitazioni in foresta.  
-Gli esami di profitto sono orali; ma possono essere integrati da prove pratiche. Il voto e' pero' complessivo.  
+Art. 7. - E' aggiunto il seguente comma:  
+"Nessun anno di stadio e' valido se lo studente non si sia iscritto e non abbia ottenuto attestazioni di frequenza in almeno tre insegnamenti".  
+Dopo l'art. 17. - E' aggiunto il seguente nuovo articolo col relativo spostamento della numerazione degli articoli successivi.  
+Art. 18. - "Presso la Facolta' di giurisprudenza funziona un Seminario di applicazione forense disciplinato da un proprio regolamento interno approvato dalla Facolta'".  
+Attuale art. 44. - Nell'elenco degli insegnamenti complementari per il diploma in statistica, e' aggiunto quello di "biometria".  
+Attuale art 51. - Nell'elenco degli insegnamenti complementari del corso di laurea in lettere sono soppressi quelli di "storia della letteratura latina, medioevale" e di "storia, orientale antica,", mentre e' aggiunto quello di "lingua e letteratura ungherese".  
+Il penultimo comma e' sostituito dal seguente:  
+"La Facolta' ove lo ritenga opportuno, potra' controllare i piani di studio presentati dagli studenti per il loro coordinamento ed approvarli prima che siano resi definitivi".  
+Attuale art. 52. - Nell'elenco degli insegnamenti complementari per il corso di laurea in filosofia vengono soppressi quelli di "storia orientale antica" e di "biologia delle razze umane".  
+L'ultimo comma e' sostituito dal seguente:  
+"Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e almeno in sei da lui scelti fra i complementari previa approvazione della Facolta'".  
+Attuale art. 55. - Al secondo comma le parole: "E' in potere del preside udito il parere della Facolta' di consentire ai laureati" sono sostituite dalle seguenti:  
+"E' in potere della Facolta' di consentire ai laureati".  
+Il penultimo ed ultimo comma sono sostituiti dai seguenti:  
+"Per gli studenti di cui e' parola nei precedenti comma la Facolta' determina il numero minimo degli insegnamenti che debbono essere seguiti e formare oggetto di esame e consiglia il piano degli studi.  
+Per gli studenti stranieri che intendono iscriversi alla Facolta' per conseguire la laurea in lettere o in filosofia, la Facolta' stabilisce a quale anno di studio debbono essere iscritti e quali insegnamenti debbono seguire e consiglia, il piano di studi. La Facolta' giuridica dell'equipollenza o meno dei titoli di studio conseguiti all'estero richiesti normalmente per l'ammissione alla Facolta'".  
+Attuale art. 62. - E' soppresso il terzo comma.  
+Attuale art. 74. - All'elenco degli insegnamenti complementari per l'indirizzo organico biologico e' aggiunto quello di chimica applicata (ai materiali da costruzione).  
+All'elenco degli insegnamenti complementari per l'indirizzo inorganico - chimico fisico e' aggiunto quello di "scienza dei metalli".  
+Dopo l'attuale art. 75. - Viene aggiunto il seguente nuovo articolo col conseguente spostamento della numerazione degli articoli successivi.  
+Art. 73. - "L'esame di mineralogia deve essere preceduto da quello di clinica generale ed inorganica parte 1ª. L'esame di esercitazioni di analisi chimica applicata, 4° anno, puo' essere sostenuto solo dopo aver superato quello di esercitazioni di analisi chimica quantitativa. L'esame di chimica organica industriale, deve essere preceduto da quello di esercitazioni di chimica organica e analisi organica.  
+Gli esami di scienza dei metalli, di elettrochimica e di fisica tecnica debbono essere preceduti da quello di chimica fisica 1ª.  
+L'esame di spettroscopia, puo' essere sostenuto solo, dopo superati, quelli di chimica fisica 1° e 2°.  
+Attuale art. 76. - All'elenco degli insegnamenti complementari per il corso di laurea in fisica sono aggiunti gli insegnamenti seguenti: "Spettroscopia";  
+"Fisica terrestre".  
+Attuale art. 77. - E' aggiunto il seguente comma:  
+"Lo studente non puo' iscriversi al terzo anno di esercitazioni di fisica sperimentale senza aver prima superato gli esami di "esercitazioni di fisica sperimentale del 1° e 2° anno di corso".  
+Attuale art. 80. - All'elenco degli insegnamenti complementari per il corso di laurea in matematica e fisica e' aggiunto quello di "spettroscopia".  
+Attuale art. 82. - All'elenco degli insegnamenti complementari per il corso di laurea in scienze naturali sono aggiunti i seguenti:  
+"Geografia fisica";  
+"Genetica".  
+Attuale art. 89. - E' soppressa l'espressione seguente contenuta nel quarto comma: "il candidato alla laurea in fisica e in matematica e fisica deve sostenere una prova pratica di fisica sperimentale".  
+E' inoltre aggiunto il seguente comma: "gli studenti iscritti ai corsi per le lauree in scienze matematiche, in fisica e matematica e fisica debbono sostenere una prova di cultura alla quale sono ammessi dopo aver superato tutti gli esami speciali e prima della discussione della tesi di laurea.  
+La predetta prova consta: a) per coloro che aspirano alla laurea in scienze matematiche, di una prova scritta consistente nella risoluzione di un problema di applicazione, delle nozioni fondamentali impartite nei corsi di matematica del primo biennio; b) per coloro che aspirano alla laurea in fisica di una prova di laboratorio; c) per coloro che aspirano alla laurea in matematica e fisica della prova di cui alla lettera a) quando la loro tesi di laurea riguardi le scienze matematiche.  
+La Commissione esaminatrice e' composta, in ogni caso, dai professori di ruolo delle discipline matematiche e fisiche ed ha facolta' di aggregarsi altri membri scelti fra gli insegnanti, a qualunque titolo, dei corsi nei quali i candidati hanno sostenuto degli esami.  
+La Commissione di laurea terra' particolarmente conto della prova di cultura nell'assegnare il voto di laurea.  
+Attuale art. 95. - E' sostituito dal seguente:  
+"La direzione e la vigilanza del Seminario e' affidata ai professori della Facolta' "uno dei quali viene scelto dai Consiglio della Facolta' come direttore per la durata di un biennio".  
+Attuale art. 112. Nel secondo comma sono soppresse le parole "e l'argomento di due tesine orali in materie diverse da quella della dissertazione scritta".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 ottobre 1978
+### Dato a Roma, addi' 11 giugno 1950
 
-PERTINI PEDINI
+EINAUDI GONELLA
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: PICCIONI
 
-Registrato alla Corte dei conti, addi' 22 dicembre 1978
+Registrato alla Corte dei conti, addi' 21 agosto 1950
 
-Registro n. 132 Istruzione, foglio n. 309
+Atti del Governo, registro n. 35, foglio n. 52. - CARLOMAGNO

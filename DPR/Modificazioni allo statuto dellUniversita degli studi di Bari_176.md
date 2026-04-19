@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 916
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1965 n. 1327
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 916
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1965 n. 1327
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -10,19 +10,19 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, numero 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169) e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta, la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -30,729 +30,159 @@ Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Gli articoli 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, relativi ai corsi di laurea in ingegneria civile, elettrotecnica e meccanica sono abrogati e sostituiti dai seguenti, con il conseguente spostamento della numerazione degli articoli successivi.
+Art. 7. - All'elenco degli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti i seguenti:
 
-Art. 112. - La facolta' di ingegneria conferisce:
+Diritto tributario;
 
-A) Laurea in ingegneria civile (sezioni edile, idraulica, trasporti).
+Sociologia.
 
-B) Laurea in ingegneria elettrotecnica.
+Art. 8, relativo alle propedeuticita' di esami per il corso di laurea in Giurisprudenza e' modificato nel senso che l'esame di "Istituzioni di diritto privato" e' propedeutico anche nei confronti di quelli di "Diritto amministrativo" e di "Diritto fallimentare".
 
-C) Laurea in ingegneria meccanica.
+Art. 24. - Nell'elenco degli insegnamenti complementari del corso di laurea in Lingue e letterature straniere l'insegnamento di "Lingua serbo-croata" muta denominazione in quella di "Lingua e letteratura serbocroata".
 
-Art. 113. - I titoli per l'ammissione alla facolta' di ingegneria sono quelli previsti dalla [legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910), e successive modificazioni.
+Art. 28. - All'elenco degli istituti annessi alla Facolta' di Economia e commercio e' aggiunto il seguente:
 
-Per il conferimento della laurea in ingegneria il corso di studi e' di 5 anni e comprende 30 insegnamenti annuali per le lauree in ingegneria civile e elettrotecnica e 29 per la laurea in ingegneria meccanica.
+"Seminario di studi matematici e finanziari".
 
-L'ordinamento degli studi e' articolato in un biennio propedeutico e in un triennio di applicazione ai sensi del [decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53).
+Art. 160. - L'ordinamento della scuola di specializzazione in oculistica della durata di tre anni e' abrogato e sostituito dal seguente della durata di anni quattro:
 
-Ai sensi dell'[art. 7 del decreto del Presidente della Repubblica del 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53~art7), [primo comma, e dell'art. 1 del decreto del Presidente della Repubblica 24 novembre 1970, n. 827](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-11-24;827~art1-com1), l'ordinamento del triennio per ogni corso di laurea e' cosi' costituito:
+La scuola ha la durata di quattro anni.
 
-a) insegnamenti obbligatori comuni sul piano nazionale;
+Il numero complessivo degli iscritti ai quattro anni del corso e' di sedici.
 
-b) insegnamenti obbligatori sul piano della facolta';
-
-c) gruppi di materie a scelta dello studente.
-
-Le materie di cui alla lettera c) sono indicate nell'elenco di cui all'art. 121.
-
-Da tale elenco la facolta' trarra' per i singoli corsi di laurea le materie da attivare che chiedera' anno per anno sul manifesto degli studi, raggruppate a costituire indirizzi di specializzazione.
-
-Ferma restando l'articolazione del biennio propedeutico ai sensi del [decreto del Presidente della Repubblica n. 53 del 31 gennaio 1960, art. 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53~art2), il consiglio di facolta' provvedera' inoltre anno per anno a distribuire le discipline fra i vari anni di corso, e a specificare le propedeuticita'.
-
-Biennio propedeutico
-
-Art. 114. - Gli insegnamenti del biennio a norma dell'[art. 2 del decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53~art2), sono:
-
-a) per tutti i corsi di laurea:
+Gli insegnamenti impartiti nella scuola sono i seguenti:
 
 1° Anno:
 
-1) analisi matematica I;
+1) Anatomia ed istologia dell'apparato oculare;
 
-2) geometria I;
+2) Nozioni di embriologia e genetica oculare;
 
-3) fisica I;
+3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;
 
-4) chimica;
+4) Nozioni di ottica fisiologica, esame della refrazione;
 
-5) disegno.
+5) Microbiologia ed igiene oculare.
 
 2° Anno:
 
-6) analisi matematica II;
+1) Semeiotica oculare e mezzi d'indagine dell'apparato oculare (biomicroscopia, oftalmologia, perimetria, campimetria, adattometria, senso cromatico, tonometria, tonografia, estimi elettrofunzionali, radiologia);
 
-7) meccanica razionale;
+2) Farmacologia oculare e terapia fisica;
 
-8) fisica II;
+3) Anatomia patologica oculare;
 
-b) per i singoli corsi di laurea, al secondo anno l'insegnamento di geometria II del citato articolo sara' sostituito come indicato nell'art. 115;
+4) Patologia e clinica oculare (malattie delle palpebre della congiuntiva, delle vie lacrimali, della cornea e della sclera).
 
-c) per alcuni corsi di laurea al secondo anno saranno impartiti ai sensi del citato articolo, uno o piu' insegnamenti come indicato all'art. 115.
+3° Anno:
 
-Art. 115. - Ai sensi dell'[art. 2 del decreto del Presidente della Repubblica n. 53 del 31 gennaio 1960](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53~art2) gli insegnamenti sostitutivi di geometria II per i singoli corsi di laurea sono:
+1) Patologia e clinica oculare (malattie dell'uvea, della retina, del nervo ottico e delle vie ottiche, dell'occhio, della sua totalita' e dell'orbita, glaucoma);
 
-per il corso di laurea in ingegneria civile (edile, idraulica, trasporti):
+2) Anomalie e patologia della motilita' oculare e della visione binoculare. Ortottica e pleottica;
 
-9) disegno II (civile);
+3) Affezioni otorinolaringoiatriche e occhio;
 
-per il corso di laurea in ingegneria elettrotecnica:
+4) Tecnica operatoria, la parte.
 
-9) disegno II (elettrotecnica);
+4° Anno:
 
-per il corso di laurea in ingegneria meccanica:
+1) Neuroftalmologia;
 
-9) disegno II (meccanico).
+2) Malattie oculari in rapporto ad affezioni generali;
 
-Al secondo anno vengono inoltre aggiunti i seguenti insegnamenti: per il corso di laurea in ingegneria elettrotecnica:
+3) Malattie professionali, infortunistica e medicina legale oculare;
 
-10) materiali per l'elettrotecnica;
+4) Tecnica operatoria, 2ª parte;
 
-per il corso di laurea in ingegneria meccanica:
+5) Tesi di specializzazione.
 
-10) chimica applicata.
+Gli esami di profitto si danno alla fine di ciascun anno di corso.
 
-Triennio di applicazione
-
-Art. 116. - Gli insegnamenti per il conseguimento della laurea in ingegneria civile, sezione edile, sono i seguenti:
-
-A) Obbligatori sul piano nazionale:
-
-10) scienza delle costruzioni;
-
-11) meccanica applicata alle macchine e macchine;
-
-12) fisica tecnica;
-
-13) elettrotecnica;
-
-14) idraulica;
-
-15) tecnologia dei materiali e chimica applicata;
-
-16) tecnica delle costruzioni;
-
-17) architettura tecnica;
-
-18) topografia;
-
-19) architettura e composizione architettonica.
-
-B) Obbligatori sul piano della facolta':
-
-20) architettura tecnica II;
-
-21) geologia applicata e geotecnica;
-
-22) tecnologia della progettazione e della produzione edilizia;
-
-23) scienza delle costruzioni II;
-
-24) complementi di tecnica delle costruzioni.
-
-C) Sei insegnamenti a scelta tratti dall'elenco di cui all'art. 121 raggruppati a costituire gli indirizzi di specializzazione di cui all'art. 113.
-
-Art. 117. - Gli insegnamenti per il conseguimento della laurea in ingegneria civile, sezione idraulica, sono i seguenti:
-
-A) Obbligatori sul piano nazionale:
-
-10) scienza delle costruzioni;
-
-11) meccanica applicata alle macchine e macchine;
-
-12) fisica tecnica;
-
-13) elettrotecnica;
-
-14) idraulica;
-
-15) tecnologia dei materiali e chimica applicata;
-
-16) tecnica delle costruzioni;
-
-17) architettura tecnica;
-
-18) topografia;
-
-19) costruzioni idrauliche.
-
-B) Obbligatori sul piano della facolta':
-
-20) idrologia e idrografia;
-
-21) costruzioni di strade, ferrovie ed aeroporti;
-
-22) geologia applicata e geotecnica;
-
-23) idraulica agraria;
-
-24) impianti speciali idraulici;
-
-25) materie giuridiche e legislazione dei lavori pubblici.
-
-C) Cinque insegnamenti a scelta tratti dall'elenco di cui all'art. 121 raggruppati a costituire gli indirizzi di specializzazione di cui all'art. 113.
-
-Art. 118. - Gli insegnamenti per il conseguimento della laurea in ingegneria civile, sezione trasporti, sono i seguenti:
-
-A) Obbligatori sul piano nazionale:
-
-10) scienza delle costruzioni;
-
-11) meccanica applicata alle macchine e macchine;
-
-12) fisica tecnica;
-
-13) elettrotecnica;
-
-14) idraulica;
-
-15) tecnologia dei materiali e chimica applicata;
-
-16) tecnica delle costruzioni;
-
-17) architettura tecnica;
-
-18) topografia;
-
-19) costruzioni di strade, ferrovie ed aeroporti.
-
-B) Obbligatori sul piano della facolta':
-
-20) geologia applicata e geotecnica;
-
-21) tecnica urbanistica;
-
-22) fondamenti di trasporti;
-
-23) infrastrutture idrauliche per il territorio;
-
-24) tecnica ed economia delle infrastrutture stradali.
-
-C) Sei insegnamenti a scelta tratti dall'elenco di cui all'art. 121 raggruppati a costituire gli indirizzi di specializzazione di cui all'art. 113.
-
-Art. 119. - Gli insegnamenti per il conseguimento della laurea in ingegneria elettrotecnica sono i seguenti:
-
-A) Obbligatori sul piano nazionale:
-
-11) scienza delle costruzioni;
-
-12) meccanica applicata alle macchine;
-
-13) fisica tecnica;
-
-14) elettrotecnica;
-
-15) idraulica;
-
-16) misure elettriche;
-
-17) macchine;
-
-18) macchine elettriche;
-
-19) impianti elettrici;
-
-20) elettronica applicata.
-
-B) Obbligatori sul piano della facolta':
-
-21) tecnologie meccaniche;
-
-22) complementi di matematiche;
-
-23) complementi di elettrotecnica;
-
-24) dinamica dei sistemi elettrici;
-
-25) controlli automatici;
-
-26) legislazione;
-
-27) economia industriale e organizzazione aziendale.
-
-C) Tre insegnamenti a scelta tratti dall'elenco di cui all'art. 121 raggruppati a costituire gli indirizzi di specializzazione di cui all'art. 113.
-
-Art. 120. - Gli insegnamenti per il conseguimento della laurea in ingegneria meccanica sono i seguenti:
-
-A) Obbligatori sul piano nazionale:
-
-11) scienza delle costruzioni;
-
-12) meccanica applicata alle macchine;
-
-13) fisica tecnica;
-
-14) elettrotecnica;
-
-15) idraulica;
-
-16) macchine;
-
-17) costruzioni di macchine;
-
-18) impianti meccanici;
-
-19) tecnologia meccanica.
-
-B) Obbligatori sul piano della facolta':
-
-20) tecnologia dei metalli;
-
-21) complementi di macchine;
-
-22) calcolo e progetti di macchine;
-
-23) economia ed organizzazione aziendale;
-
-24) ricerca operativa.
-
-C) Cinque insegnamenti a scelta tratti dall'elenco di cui all'art. 121 raggruppati a costituire gli indirizzi di specializzazione di cui all'art. 113.
-
-Art. 121. - L'elenco degli insegnamenti di cui all'art. 113 relativo alle materie a scelta dello studente sono le seguenti:
-
-acquedotti e fognature;
-
-analisi dei sistemi urbani e pianificazione territoriale;
-
-analisi strutturale con l'elaboratore elettronico (sem.);
-
-antenne e propagazione;
-
-applicazioni industriali dell'elettrotecnica;
-
-calcolo numerico e programmazione;
-
-calcolo delle probabilita' e statistica (sem.);
-
-cantieri edili;
-
-centrali termiche e nucleari;
-
-chimica industriale;
-
-chimica e tecnologia delle acque;
-
-complementi di analisi e geometria;
-
-complementi di fisica tecnica;
-
-complementi di idraulica (sem.);
-
-complementi di macchine elettriche;
-
-componenti elettronici;
-
-comunicazioni elettriche;
-
-controlli e collaudi delle infrastrutture di trasporto (sem.);
-
-controllo di qualita';
-
-controllo di processi industriali;
-
-costruzioni automobilistiche;
-
-costruzioni elettromeccaniche;
-
-costruzioni marittime;
-
-costruzioni metalliche;
-
-costruzioni di ponti;
-
-dinamica delle costruzioni;
-
-dinamica dei sistemi industriali (sem.);
-
-elementi di calcolatori e tecniche operative;
-
-elettrochimica;
-
-esercizi e pianificazione dei sistemi di trasporto;
-
-estimo e principi di tecnica economica;
-
-fisica del suolo e stabilita' dei pendii;
-
-gasdinamica e principi di aerotecnica;
-
-generatori elettrici speciali;
-
-gestione degli impianti industriali;
-
-idraulica fluviale e sistemazioni montane;
-
-idrogeologia;
-
-impianti elettrici speciali;
-
-impianti tecnici per l'edilizia;
-
-impianti termotecnici;
-
-ingegneria sanitaria;
-
-lavorazioni meccaniche;
-
-lavorazioni non convenzionali e macchine utensili speciali;
-
-litologia e geologia;
-
-macchine di sollevamento e trasporto;
-
-macchine e organizzazione dei cantieri;
-
-macchine per l'agricoltura e i cantieri;
-
-macchine speciali;
-
-meccanica e miglioramento delle rocce;
-
-microonde;
-
-misure elettroniche;
-
-misure meccaniche e termiche e collaudi;
-
-misure sulle macchine e sugli impianti elettrici;
-
-modelli dei sistemi idraulici e calcolo automatico;
-
-opere speciali stradali, ferroviarie e aeroportuali;
-
-plasticita' e lavorazioni plastiche (sem.);
-
-progetto di infrastrutture stradali (sem.);
-
-progetti di strutture;
-
-propulsione aerea e spaziale;
-
-radiotecnica;
-
-restauro degli edifici;
-
-servomeccanismi e automazione;
-
-sicurezza del lavoro (sem.);
-
-silvicoltura (sem.);
-
-sperimentazione e collaudi (sem.);
-
-storia dell'architettura;
-
-strutture speciali;
-
-tecnica delle alte tensioni;
-
-tecnica della bonifica (problemi tecnico-economici e sociali);
-
-tecnica della circolazione stradale e ferroviaria;
-
-tecnica delle costruzioni industriali;
-
-tecnica di elaborazione elettronica nell'urbanistica e nell'architettura (sem.);
-
-tecnica dei lavori idraulici;
-
-tecniche fotogrammetriche applicate all'urbanistica e all'architettura (sem.);
-
-tecnologia dei materiali edili;
-
-telegrafia, telefonia e telesegnalazione;
-
-termodinamica applicata;
-
-trazione elettrica;
-
-trazione termica ed elettrica.
-
-Integrano l'elenco, ai fini della costituzione degli indirizzi di specializzazione relativi ai singoli corsi di laurea gli insegnamenti obbligatori sul piano nazionale e della facolta' degli altri corsi di laurea.
-
-Gli insegnamenti di cui al presente articolo potranno avere svolgimento diverso per i diversi corsi di laurea e per i diversi indirizzi.
-
-Art. 122. - Per essere ammesso all'esame di laurea lo studente deve aver superato gli esami delle materie obbligatorie e di quelle dell'indirizzo scelto.
-
-Gli esami di profitto consistono di norma in una prova orale sulle materie e di una discussione sui risultati delle esercitazioni e sui progetti.
-
-L'esame di laurea consiste nella discussione di un progetto particolare presentato come tesi.
+Alla fine del corso gli iscritti oltre a presentare una dissertazione scritta ed a' sostenere la relativa discussione, devono sostenere una prova pratica sull'ammalato.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 31 ottobre 1975
+Dato a Roma, addi' 29 ottobre 1965
 
-LEONE
+SARAGAT
 
-MALFATTI
+GUI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 3 marzo 1976 Atti di Governo, registro n. 3, foglio n. 52
+alla Corte dei conti, addi' 4 dicembre 1965 Atti del Governo, registro n. 198, foglio n. 74. - VILLA
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, numero 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta, la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 7. - All'elenco degli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti i seguenti:  
   
-Gli articoli 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, relativi ai corsi di laurea in ingegneria civile, elettrotecnica e meccanica sono abrogati e sostituiti dai seguenti, con il conseguente spostamento della numerazione degli articoli successivi.   
-Art. 112. - La facolta' di ingegneria conferisce:   
-A) Laurea in ingegneria civile (sezioni edile, idraulica, trasporti).   
-B) Laurea in ingegneria elettrotecnica.   
-C) Laurea in ingegneria meccanica.   
-Art. 113. - I titoli per l'ammissione alla facolta' di ingegneria sono quelli previsti dalla [legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910), e successive modificazioni.   
-Per il conferimento della laurea in ingegneria il corso di studi e' di 5 anni e comprende 30 insegnamenti annuali per le lauree in ingegneria civile e elettrotecnica e 29 per la laurea in ingegneria meccanica.   
-L'ordinamento degli studi e' articolato in un biennio propedeutico e in un triennio di applicazione ai sensi del [decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53).   
-Ai sensi dell'[art. 7 del decreto del Presidente della Repubblica del 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53~art7), [primo comma, e dell'art. 1 del decreto del Presidente della Repubblica 24 novembre 1970, n. 827](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-11-24;827~art1-com1), l'ordinamento del triennio per ogni corso di laurea e' cosi' costituito:   
-a) insegnamenti obbligatori comuni sul piano nazionale;   
-b) insegnamenti obbligatori sul piano della facolta';   
-c) gruppi di materie a scelta dello studente.   
-Le materie di cui alla lettera c) sono indicate nell'elenco di cui all'art. 121.   
-Da tale elenco la facolta' trarra' per i singoli corsi di laurea le materie da attivare che chiedera' anno per anno sul manifesto degli studi, raggruppate a costituire indirizzi di specializzazione.   
-Ferma restando l'articolazione del biennio propedeutico ai sensi del [decreto del Presidente della Repubblica n. 53 del 31 gennaio 1960, art. 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53~art2), il consiglio di facolta' provvedera' inoltre anno per anno a distribuire le discipline fra i vari anni di corso, e a specificare le propedeuticita'.   
+Diritto tributario;  
+Sociologia.  
+Art. 8, relativo alle propedeuticita' di esami per il corso di laurea in Giurisprudenza e' modificato nel senso che l'esame di "Istituzioni di diritto privato" e' propedeutico anche nei confronti di quelli di "Diritto amministrativo" e di "Diritto fallimentare".  
+Art. 24. - Nell'elenco degli insegnamenti complementari del corso di laurea in Lingue e letterature straniere l'insegnamento di "Lingua serbo-croata" muta denominazione in quella di "Lingua e letteratura serbocroata".  
+Art. 28. - All'elenco degli istituti annessi alla Facolta' di Economia e commercio e' aggiunto il seguente:  
+"Seminario di studi matematici e finanziari".  
+Art. 160. - L'ordinamento della scuola di specializzazione in oculistica della durata di tre anni e' abrogato e sostituito dal seguente della durata di anni quattro:  
   
-Biennio propedeutico   
-  
-Art. 114. - Gli insegnamenti del biennio a norma dell'[art. 2 del decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53~art2), sono:   
-a) per tutti i corsi di laurea:   
-1° Anno:   
-1) analisi matematica I;   
-2) geometria I;   
-3) fisica I;   
-4) chimica;   
-5) disegno.   
-2° Anno:   
-6) analisi matematica II;   
-7) meccanica razionale;   
-8) fisica II;   
-b) per i singoli corsi di laurea, al secondo anno l'insegnamento di geometria II del citato articolo sara' sostituito come indicato nell'art. 115;   
-c) per alcuni corsi di laurea al secondo anno saranno impartiti ai sensi del citato articolo, uno o piu' insegnamenti come indicato all'art. 115.   
-Art. 115. - Ai sensi dell'[art. 2 del decreto del Presidente della Repubblica n. 53 del 31 gennaio 1960](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53~art2) gli insegnamenti sostitutivi di geometria II per i singoli corsi di laurea sono:   
-per il corso di laurea in ingegneria civile (edile, idraulica, trasporti):   
-9) disegno II (civile);   
-per il corso di laurea in ingegneria elettrotecnica:   
-9) disegno II (elettrotecnica);   
-per il corso di laurea in ingegneria meccanica:   
-9) disegno II (meccanico).   
-Al secondo anno vengono inoltre aggiunti i seguenti insegnamenti: per il corso di laurea in ingegneria elettrotecnica:   
-10) materiali per l'elettrotecnica;   
-per il corso di laurea in ingegneria meccanica:   
-10) chimica applicata.   
-  
-Triennio di applicazione   
-  
-Art. 116. - Gli insegnamenti per il conseguimento della laurea in ingegneria civile, sezione edile, sono i seguenti:   
-A) Obbligatori sul piano nazionale:   
-10) scienza delle costruzioni;   
-11) meccanica applicata alle macchine e macchine;   
-12) fisica tecnica;   
-13) elettrotecnica;   
-14) idraulica;   
-15) tecnologia dei materiali e chimica applicata;   
-16) tecnica delle costruzioni;   
-17) architettura tecnica;   
-18) topografia;   
-19) architettura e composizione architettonica.   
-B) Obbligatori sul piano della facolta':   
-20) architettura tecnica II;   
-21) geologia applicata e geotecnica;   
-22) tecnologia della progettazione e della produzione edilizia;  
-23) scienza delle costruzioni II;   
-24) complementi di tecnica delle costruzioni.   
-C) Sei insegnamenti a scelta tratti dall'elenco di cui all'art. 121 raggruppati a costituire gli indirizzi di specializzazione di cui all'art. 113.   
-Art. 117. - Gli insegnamenti per il conseguimento della laurea in ingegneria civile, sezione idraulica, sono i seguenti:   
-A) Obbligatori sul piano nazionale:   
-10) scienza delle costruzioni;   
-11) meccanica applicata alle macchine e macchine;   
-12) fisica tecnica;   
-13) elettrotecnica;   
-14) idraulica;   
-15) tecnologia dei materiali e chimica applicata;   
-16) tecnica delle costruzioni;   
-17) architettura tecnica;   
-18) topografia;   
-19) costruzioni idrauliche.   
-B) Obbligatori sul piano della facolta':   
-20) idrologia e idrografia;   
-21) costruzioni di strade, ferrovie ed aeroporti;   
-22) geologia applicata e geotecnica;   
-23) idraulica agraria;   
-24) impianti speciali idraulici;   
-25) materie giuridiche e legislazione dei lavori pubblici.   
-C) Cinque insegnamenti a scelta tratti dall'elenco di cui all'art. 121 raggruppati a costituire gli indirizzi di specializzazione di cui all'art. 113.   
-Art. 118. - Gli insegnamenti per il conseguimento della laurea in ingegneria civile, sezione trasporti, sono i seguenti:   
-A) Obbligatori sul piano nazionale:   
-10) scienza delle costruzioni;   
-11) meccanica applicata alle macchine e macchine;   
-12) fisica tecnica;   
-13) elettrotecnica;   
-14) idraulica;   
-15) tecnologia dei materiali e chimica applicata;   
-16) tecnica delle costruzioni;   
-17) architettura tecnica;   
-18) topografia;   
-19) costruzioni di strade, ferrovie ed aeroporti.   
-B) Obbligatori sul piano della facolta':   
-20) geologia applicata e geotecnica;   
-21) tecnica urbanistica;   
-22) fondamenti di trasporti;   
-23) infrastrutture idrauliche per il territorio;   
-24) tecnica ed economia delle infrastrutture stradali.   
-C) Sei insegnamenti a scelta tratti dall'elenco di cui all'art. 121 raggruppati a costituire gli indirizzi di specializzazione di cui all'art. 113.   
-Art. 119. - Gli insegnamenti per il conseguimento della laurea in ingegneria elettrotecnica sono i seguenti:   
-A) Obbligatori sul piano nazionale:   
-11) scienza delle costruzioni;   
-12) meccanica applicata alle macchine;   
-13) fisica tecnica;   
-14) elettrotecnica;   
-15) idraulica;   
-16) misure elettriche;   
-17) macchine;   
-18) macchine elettriche;   
-19) impianti elettrici;   
-20) elettronica applicata.   
-B) Obbligatori sul piano della facolta':   
-21) tecnologie meccaniche;   
-22) complementi di matematiche;   
-23) complementi di elettrotecnica;   
-24) dinamica dei sistemi elettrici;   
-25) controlli automatici;   
-26) legislazione;   
-27) economia industriale e organizzazione aziendale.   
-C) Tre insegnamenti a scelta tratti dall'elenco di cui all'art. 121 raggruppati a costituire gli indirizzi di specializzazione di cui all'art. 113.   
-Art. 120. - Gli insegnamenti per il conseguimento della laurea in ingegneria meccanica sono i seguenti:   
-A) Obbligatori sul piano nazionale:   
-11) scienza delle costruzioni;   
-12) meccanica applicata alle macchine;   
-13) fisica tecnica;   
-14) elettrotecnica;   
-15) idraulica;   
-16) macchine;   
-17) costruzioni di macchine;   
-18) impianti meccanici;   
-19) tecnologia meccanica.   
-B) Obbligatori sul piano della facolta':   
-20) tecnologia dei metalli;   
-21) complementi di macchine;   
-22) calcolo e progetti di macchine;   
-23) economia ed organizzazione aziendale;   
-24) ricerca operativa.   
-C) Cinque insegnamenti a scelta tratti dall'elenco di cui all'art. 121 raggruppati a costituire gli indirizzi di specializzazione di cui all'art. 113.   
-Art. 121. - L'elenco degli insegnamenti di cui all'art. 113 relativo alle materie a scelta dello studente sono le seguenti:   
-acquedotti e fognature;   
-analisi dei sistemi urbani e pianificazione territoriale;   
-analisi strutturale con l'elaboratore elettronico (sem.);   
-antenne e propagazione;   
-applicazioni industriali dell'elettrotecnica;   
-calcolo numerico e programmazione;   
-calcolo delle probabilita' e statistica (sem.);   
-cantieri edili;   
-centrali termiche e nucleari;   
-chimica industriale;   
-chimica e tecnologia delle acque;   
-complementi di analisi e geometria;   
-complementi di fisica tecnica;   
-complementi di idraulica (sem.);   
-complementi di macchine elettriche;   
-componenti elettronici;   
-comunicazioni elettriche;   
-controlli e collaudi delle infrastrutture di trasporto (sem.);   
-controllo di qualita';   
-controllo di processi industriali;   
-costruzioni automobilistiche;   
-costruzioni elettromeccaniche;   
-costruzioni marittime;   
-costruzioni metalliche;   
-costruzioni di ponti;   
-dinamica delle costruzioni;   
-dinamica dei sistemi industriali (sem.);   
-elementi di calcolatori e tecniche operative;   
-elettrochimica;   
-esercizi e pianificazione dei sistemi di trasporto;   
-estimo e principi di tecnica economica;   
-fisica del suolo e stabilita' dei pendii;   
-gasdinamica e principi di aerotecnica;   
-generatori elettrici speciali;   
-gestione degli impianti industriali;   
-idraulica fluviale e sistemazioni montane;   
-idrogeologia;   
-impianti elettrici speciali;   
-impianti tecnici per l'edilizia;   
-impianti termotecnici;   
-ingegneria sanitaria;   
-lavorazioni meccaniche;   
-lavorazioni non convenzionali e macchine utensili speciali;   
-litologia e geologia;   
-macchine di sollevamento e trasporto;   
-macchine e organizzazione dei cantieri;   
-macchine per l'agricoltura e i cantieri;   
-macchine speciali;   
-meccanica e miglioramento delle rocce;   
-microonde;   
-misure elettroniche;   
-misure meccaniche e termiche e collaudi;   
-misure sulle macchine e sugli impianti elettrici;   
-modelli dei sistemi idraulici e calcolo automatico;   
-opere speciali stradali, ferroviarie e aeroportuali;   
-plasticita' e lavorazioni plastiche (sem.);   
-progetto di infrastrutture stradali (sem.);   
-progetti di strutture;   
-propulsione aerea e spaziale;   
-radiotecnica;   
-restauro degli edifici;   
-servomeccanismi e automazione;   
-sicurezza del lavoro (sem.);   
-silvicoltura (sem.);   
-sperimentazione e collaudi (sem.);   
-storia dell'architettura;   
-strutture speciali;   
-tecnica delle alte tensioni;   
-tecnica della bonifica (problemi tecnico-economici e sociali);   
-tecnica della circolazione stradale e ferroviaria;   
-tecnica delle costruzioni industriali;   
-tecnica di elaborazione elettronica nell'urbanistica e nell'architettura (sem.);   
-tecnica dei lavori idraulici;   
-tecniche fotogrammetriche applicate all'urbanistica e all'architettura (sem.);   
-tecnologia dei materiali edili;   
-telegrafia, telefonia e telesegnalazione;   
-termodinamica applicata;   
-trazione elettrica;   
-trazione termica ed elettrica.   
-Integrano l'elenco, ai fini della costituzione degli indirizzi di specializzazione relativi ai singoli corsi di laurea gli insegnamenti obbligatori sul piano nazionale e della facolta' degli altri corsi di laurea.   
-Gli insegnamenti di cui al presente articolo potranno avere svolgimento diverso per i diversi corsi di laurea e per i diversi indirizzi.   
-Art. 122. - Per essere ammesso all'esame di laurea lo studente deve aver superato gli esami delle materie obbligatorie e di quelle dell'indirizzo scelto.   
-Gli esami di profitto consistono di norma in una prova orale sulle materie e di una discussione sui risultati delle esercitazioni e sui progetti.   
-L'esame di laurea consiste nella discussione di un progetto particolare presentato come tesi.   
+La scuola ha la durata di quattro anni.  
+Il numero complessivo degli iscritti ai quattro anni del corso e' di sedici.  
+Gli insegnamenti impartiti nella scuola sono i seguenti:  
+1° Anno:  
+1) Anatomia ed istologia dell'apparato oculare;  
+2) Nozioni di embriologia e genetica oculare;  
+3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;  
+4) Nozioni di ottica fisiologica, esame della refrazione;  
+5) Microbiologia ed igiene oculare.  
+2° Anno:  
+1) Semeiotica oculare e mezzi d'indagine dell'apparato oculare (biomicroscopia, oftalmologia, perimetria, campimetria, adattometria, senso cromatico, tonometria, tonografia, estimi elettrofunzionali, radiologia);  
+2) Farmacologia oculare e terapia fisica;  
+3) Anatomia patologica oculare;  
+4) Patologia e clinica oculare (malattie delle palpebre della congiuntiva, delle vie lacrimali, della cornea e della sclera).  
+3° Anno:  
+1) Patologia e clinica oculare (malattie dell'uvea, della retina, del nervo ottico e delle vie ottiche, dell'occhio, della sua totalita' e dell'orbita, glaucoma);  
+2) Anomalie e patologia della motilita' oculare e della visione binoculare. Ortottica e pleottica;  
+3) Affezioni otorinolaringoiatriche e occhio;  
+4) Tecnica operatoria, la parte.  
+4° Anno:  
+1) Neuroftalmologia;  
+2) Malattie oculari in rapporto ad affezioni generali;  
+3) Malattie professionali, infortunistica e medicina legale oculare;  
+4) Tecnica operatoria, 2ª parte;  
+5) Tesi di specializzazione.  
+Gli esami di profitto si danno alla fine di ciascun anno di corso.  
+Alla fine del corso gli iscritti oltre a presentare una dissertazione scritta ed a' sostenere la relativa discussione, devono sostenere una prova pratica sull'ammalato.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1975
+### Dato a Roma, addi' 29 ottobre 1965
 
-LEONE MALFATTI
+SARAGAT GUI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 3 marzo 1976
+Registrato alla Corte dei conti, addi' 4 dicembre 1965
 
-Atti di Governo, registro n. 3, foglio n. 52
+Atti del Governo, registro n. 198, foglio n. 74. - VILLA

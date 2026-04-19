@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 giugno 1980 n. 532
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1981 n. 752
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 giugno 1980 n. 532
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1981 n. 752
 =============================================================
 
 Modificazione allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
@@ -22,37 +22,37 @@ Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?u
 
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Sulla
------
+Sulla proposta del Ministro della pubblica istruzione;
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Decreta:
+--------
+
+Lo statuto dell'Universita' cattolica del Sacro Cuore - di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Nell'art. 12 - all'elenco degli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti quelli di:  
-tecnica commerciale;  
-economia industriale;  
-analisi economica;  
-diritto del commercio internazionale;  
-statistica metodologica.  
+L'art. 23, concernente il corso di laurea in medicina e chirurgia, e' modificato nel senso che all'elenco degli insegnamenti complementari sono aggiunte le seguenti nuove discipline:  
+malattie dell'apparato cardiovascolare;  
+dermatologia pediatrica;  
+auxologia;  
+fisiopatologia del dolore.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 giugno 1980
+### Dato a Roma, addi' 31 luglio 1981
 
-PERTINI SARTI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 25 agosto 1980
+Registrato alla Corte dei conti, addi' 11 dicembre 1981
 
-Registro n. 79 Istruzione, foglio n. 393
+Registro n. 123 Istruzione, foglio n. 377

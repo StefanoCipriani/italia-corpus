@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1985 n. 339
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 938
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1985 n. 339
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 938
+================================================================
 
 Autorizzazione all'"Istituto Giuseppe Toniolo di studi superiori", in Milano, ad accettare una donazione.
 ---------------------------------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-339. Decreto del Presidente della Repubblica 12 febbraio 1985, col quale, sulla proposta del Ministro della pubblica istruzione, l'"Istituto Giuseppe Toniolo di studi superiori", in Milano, viene autorizzato ad accettare la donazione, consistente in un immobile sito in Milano, via Vanvitelli n. 7, del valore di lire 293.000.000, disposta dalle signore Antonia ed Olimpia Fattorossi con atto pubblico 15 marzo 1983, n. 9908/1427 di repertorio, a rogito dott. Ulderico Brambilla, notaio in Milano, registrato a Milano in data 25 marzo 1983 al n. 8623.  
+938. Decreto del Presidente della Repubblica 5 settembre 1980, col quale, sulla proposta del Ministro della pubblica istruzione, l'"Istituto Giuseppe Toniolo di studi superiori", in Milano, viene autorizzato ad accettare la donazione, consistente in un immobile del valore di L. 1.110.000.000, disposta dalla societa' "S.  
+Francesco d'Assisi" S.p.a., in Milano, con atto pubblico 23 maggio 1978, n. 10976/2115 di repertorio, a rogito dott. Enrico Chiodi Darelli, notaio in Milano.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 1 luglio 1985  
-Registro n. 45 Istruzione, foglio n. 343
+Visto, il Guardasigilli: SARTI  
+Registrato alla Corte dei conti, addi' 30 dicembre 1980  
+Registro n. 122 Istruzione, foglio n. 20

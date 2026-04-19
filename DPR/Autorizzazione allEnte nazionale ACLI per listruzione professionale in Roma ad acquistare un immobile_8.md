@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 agosto 1978 n. 831
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 giugno 1976 n. 968
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 agosto 1978 n. 831
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 giugno 1976 n. 968
 =============================================================
 
 Autorizzazione all'Ente nazionale ACLI per l'istruzione professionale, in Roma, ad acquistare un immobile.
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-831. Decreto del Presidente della Repubblica 8 agosto 1978, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Ente nazionale ACLI per l'istruzione professionale (ENAIP), in Roma, viene autorizzato ad acquistare dalla N.D. sig.na Maria Acclavio, al prezzo di L. 24.000.000, un lotto di terreno edificabile della superficie di mq 10.000 circa sito nel territorio del comune di Taranto in localita' rione Salinella cosi' esattamente censito alla partita del nuovo catasto edilizio urbano:  
-n. 5386 foglio mappale n. 254, particelle 547, 672, 841 per mq rispettivi 4.990,00, 4.480,00, 2.380,00, per un totale di mq 11.850,00, come da contratto condizionato di compravendita in scrittura privata dell'8 aprile 1970, registrato a Roma, primo ufficio registro atti privati, il 13 aprile 1976, n. 2676, e successivamente integrato con atto 28 dicembre 1972, registrato atti privati Roma n. 3601 del 6 marzo 1973, allo scopo di destinarlo alla costruzione di un centro di formazione professionale per i lavoratori.  
+968. Decreto del Presidente della Repubblica 9 giugno 1976, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Ente nazionale ACLI per l'istruzione professionale (ENAIP), in Roma, viene autorizzato ad acquistare, al prezzo globale di L. 60.000.000, un complesso immobiliare sito nel comune di Botticino Sera (Brescia), denominato proprieta' Trinita' e costituito di un fabbricato urbano, distinto al nuovo catasto edilizio urbano ai mappali 1998 - 28881 sub, 1-2197 vari 13, mq 698 RCL 1327 e di uno rurale con terreni attigui segnati con i mappali 1343, 2349, 2197, 1340, 1342, 1341/2-1966, di proprieta' dei signori Giuseppe, Franca, Rosa Maria Marchetti e Lucia Bernardinelli ved. Marchetti.  
   
 Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 15 dicembre 1978  
-Registro n. 1 Lavoro, foglio n. 65
+Registrato alla Corte dei conti, addi' 1 febbraio 1977  
+Registro n. 1 Lavoro, foglio n. 12

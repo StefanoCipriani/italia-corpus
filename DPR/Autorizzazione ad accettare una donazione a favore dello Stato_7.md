@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1978 n. 613
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1984 n. 1222
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1978 n. 613
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1984 n. 1222
+================================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-613. Decreto del Presidente della Repubblica 11 aprile 1978, col quale, sulla proposta del Ministro delle finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dalla sig.ra Morelli Maria Gabriella in Ruozi-Berretta con atto 2 aprile 1977, n. 144656 di repertorio, a rogito notaio Federico Federici, di una area di mq 2.400 destinata all'ampliamento della stazione di controllo autoveicoli di Terni.  
+1222. Decreto del Presidente della Repubblica 5 dicembre 1984, col quale, sulla proposta del Ministro delle finanze, viene autorizzata l'accettazione della donazione a favore dello Stato dell'area della superficie complessiva di mq 9.142, occorsa per la realizzazione del Sacrario militare italiano, disposta dal comune di Mignano Monte Lungo (Caserta) con atto 30 dicembre 1977, n. 29676 di repertorio, a rogito dott. Luigi Gamberale, notaio in Cassino (Frosinone), registrato a Cassino in data 18 gennaio 1978 al n. 264.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 7 luglio 1978  
-Registro n. 28 Finanze, foglio n. 51
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 11 luglio 1985  
+Registro n. 45 Finanze, foglio n. 119

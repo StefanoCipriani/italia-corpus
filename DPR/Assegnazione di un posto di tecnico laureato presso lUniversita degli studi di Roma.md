@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 aprile 1982 n. 345
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 luglio 1984 n. 646
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 aprile 1982 n. 345
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 luglio 1984 n. 646
 =============================================================
 
 Assegnazione di un posto di tecnico laureato presso l'Universita' degli studi di Roma.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-345. Decreto del Presidente della Repubblica 30 aprile 1982, col quale, sulla proposta del Ministro della pubblica istruzione, un posto disponibile nel ruolo dei tecnici laureati viene assegnato all'istituto di quarta clinica chirurgica della facolta' di medicina e chirurgia dell'Universita' di Roma.  
+646. Decreto del Presidente della Repubblica 30 luglio 1984, col quale, sulla proposta del Ministro della pubblica istruzione, un posto disponibile nel ruolo dei tecnici laureati viene assegnato all'istituto di medicina legale e delle assicurazioni (per l'insegnamento di medicina legale e deontologia medica) della facolta' di medicina e chirurgia dell'Universita' di Roma.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 7 giugno 1982  
-Registro n. 77 Istruzione, foglio n. 10
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 22 settembre 1984  
+Registro n. 56 Istruzione, foglio n. 92

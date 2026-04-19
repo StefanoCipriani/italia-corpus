@@ -1,140 +1,91 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 agosto 1970 n. 707
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 maggio 1977 n. 550
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 agosto 1970 n. 707
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 maggio 1977 n. 550
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il regio decreto-legge 20 giugno. 1935, n. 1071, convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduta la [legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla
------
-
-proposta del Ministro per la pubblica istruzione; Decreta:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-La tabella II annessa al [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e' integrata nel senso che la facolta' di scienze economiche e bancarie rilascia anche la laurea in scienze statistiche ed economiche, il cui ordinamento e' riportato nella tabella VII-bis.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Siena e convalidati dal Consiglio superiore della pubblica Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-A decorrere dall'anno accademico 1970-71 e' istituito presso la facolta' di scienze economiche e bancarie dell'Universita' di Siena il corso di laurea in scienze statistiche ed economiche.  
-
-Art. 3
-------
-
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti suindicati e' ulteriormente modificato come dal testo annesso al presente decreto - vistato dal Ministro per la pubblica istruzione - contenente le norme relative all'ordinamento del corso di studi della laurea in scienze statistiche ed economiche.  
+Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
+Dopo l'art. 247 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in medicina dello sport.  
+  
+Scuola di specializzazione in medicina dello sport  
+  
+Art. 248. - La scuola di specializzazione in medicina dello sport dell'Universita' degli studi di Siena si propone:  
+a) di valorizzare ed approfondire gli studi biologici e di medicina applicata nel campo delle attivita' sportive, formative e di competizione e della educazione fisica;  
+b) di preparare adeguatamente sotto l'aspetto teorico e della applicazione pratica, i medici che intendono dedicarsi alle attivita' attinenti a questa particolare branca della medicina applicata, conferendo ad essi il diploma di specialista in medicina dello sport.  
+Art. 249. - Il titolo richiesto per l'ammissione alla scuola e' la laurea in medicina e chirurgia.  
+Il corso di studi ha la durata di tre anni, con frequenza obbligatoria; esso ha sede ufficiale presso l'istituto di fisiologia umana. Gli insegnamenti clinici e specialistici si svolgeranno presso i rispettivi istituti clinici e specialistici.  
+Il numero massimo degli allievi sara' di dodici per anno e complessivamente di trentasei per l'intero corso.  
+L'ammissione ai corsi avviene per titoli. Nel caso di domande eccedenti il numero dei posti disponibili la selezione dei candidati avverra' in base ai risultati di un esame di ammissione.  
+Non sono previste abbreviazioni di corso.  
+La direzione del corso e' affidata al direttore dell'Istituto di Fisiologia umana.  
+Art. 250. - L'ordine degli studi e' il seguente:  
+  
+1° Anno:  
+1) anatomia dell'apparato locomotore;  
+2) fisiologia dell'apparato locomotore;  
+3) biochimica ed energetica muscolare;  
+4) antropometria e auxologia;  
+5) psicologia applicata allo sport;  
+6) storia dell'educazione fisica e dello sport;  
+7) sistematica delle attivita' sportive-agonistiche e regolamenti sportivi.  
+  
+2° Anno:  
+1) fisiologia dell'esercizio fisico;  
+2) biomeccanica dell'esercizio fisico;  
+3) metodologia dell'allenamento sportivo;  
+4) scienza della nutrizione applicata all'attivita' sportiva;  
+5) fisiopatologia degli sport e semeiotica medico sportiva I;  
+6) farmacologia e tossicologia del doping;  
+7) igiene e medicina preventiva applicata all'attivita' sportiva;  
+8) traumatologia degli sport.  
+  
+3° Anno:  
+i) fisiologia applicata agli sport;  
+2) valutazione funzionale dello sportivo;  
+3) fisiopatologia degli sport e semeiotica medico sportiva II;  
+4) fisioterapia e rieducazione funzionale;  
+5) rianimazione e pronto soccorso;  
+6) medicina legale e infortunistica legata agli sport;  
+7) fisiologia dell'adattamento agli ambienti straordinari.  
+  
+La scuola svolgera' brevi corsi integrativi di conferenze o seminari sopra argomenti e discipline che saranno stabiliti, secondo le possibilita' contingenti, dal consiglio dei docenti della scuola.  
+Saranno inoltre svolte esercitazioni pratiche in sede e sul campo.  
+Art. 251. - Alla fine di ogni anno di corso gli allievi dovranno sostenere l'esame di profitto nelle materie di insegnamento, (art.  
+250) previste per ogni anno di corso e articolate in un unico gruppo.  
+L'iscrizione agli anni successivi e' subordinata al superamento di tutti gli esami annuali.  
+Art. 252. - Il diploma si consegue dopo aver superato tutte le prove di esame del triennio; la prova di diploma si svolge con la discussione su una dissertazione scritta concernente un tema assegnato o in ogni altro caso approvato dal direttore della scuola.  
+Art. 253. - Le tasse, soprattasse e contributi della scuola di specializzazione in medicina dello sport sono cosi' fissate:  
+  
+immatricolazione. . . . . . . . . . . . . . . . . . L. 12.000 tassa annuale di iscrizione . . . . . . . . . . . . " 200.000 soprattassa annuale di esame. . . . . . . . . . . . " 16.000 contributi annui di laboratorio . . . . . . . . . . " 14.000 tassa di diploma. . . . . . . . . . . . . . . . . . " 20.000   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 6 agosto 1970
+### Dato a Roma, addi' 23 maggio 1977
 
-SARAGAT MISASI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 29 settembre 1970
+Registrato alla Corte dei conti, addi' 30 luglio 1977
 
-Atti del Governo, registro n. 237, foglio n. 118. - GRECO
-
-Allegato
-
- ALLEGATO   
-  
-Testo delle modifiche dello statuto dell'Universita' degli studi di Siena, relativo alla istituzione del corso di laurea in scienze statistiche ed economiche.   
-  
-Art. 30. - E' abrogato e sostituito dal seguente:   
-La facolta' conferisce:   
-1) la laurea in scienze economiche e bancarie;   
-2) la laurea in scienze economiche;   
-3) la laurea in scienze statistiche ed economiche.   
-La durata del corso di studi per la laurea in scienze economiche e bancarie, per la laurea in scienze economiche e per la laurea in scienze statistiche ed economiche e' di quattro anni.   
-Titolo di ammissione: quello previsto dalle leggi vigenti.   
-Dopo l'art. 39 e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli relativi alla istituzione del corso di laurea in scienze statistiche ed economiche.   
-  
-Laurea in scienze statistiche ed economiche   
-Art. 40. Sono insegnamenti fondamentali:   
-1) Istituzioni di analisi matematica;   
-2) Analisi matematica;   
-3) Geometria analitica;   
-4) Calcolo delle probabilita';   
-5) Istituzioni di statistica;   
-6) Statistica;   
-7) Statistica metodologica;   
-8) Demografia;   
-9) e 10) Economia politica (biennale);   
-11) Politica economica e finanziaria;   
-12) Istituzioni di statistica economica;   
-13) Statistica economica;   
-14) Economia d'azienda;   
-15) Statistica aziendale e analisi di mercato;   
-16) Controllo statistico delle qualita' e statistica industriale;  
-17) Istituzioni di diritto privato;   
-18) Istituzioni di diritto pubblico;   
-19) Teoria dei campioni.   
-Sono insegnamenti complementari:   
-1) Geografia economica;   
-2) Statistica sociale;   
-3) Sociologia;   
-4) Scienza delle finanze;   
-5) Econometria;   
-6) Contabilita' economica nazionale;   
-7) Diritto commerciale;   
-8) Diritto del lavoro;   
-9) Matematica finanziaria e istituzioni di matematica attuariale;  
-10) Teoria tecnica della elaborazione automatica dei dati;   
-11) Ricerca operativa;   
-12) Teoria dei sistemi;   
-13) Psicologia sperimentale;   
-14) Antropologia;   
-15) Statistica medica e biometria;   
-16) Statistica applicata alle scienze fisiche;   
-17) Genetica;   
-18) Diritto pubblico dell'economia;   
-19) Storia della statistica;   
-20) Economia dei trasporti.   
-Gli insegnamenti complementari possono essere scelti dallo studente anche fra le discipline impartite in altre facolta' dell'ateneo, previa approvazione del preside della facolta'. Detta approvazione deve essere richiesta entro il 31 dicembre di ogni anno.   
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti fondamentali e di almeno tre complementari. Deve anche aver superato gli esami di due lingue straniere moderne, dei quali almeno uno di lingua francese o inglese o tedesca presso la facolta' di scienze economiche e bancarie, e l'altro di lingua il cui insegnamento sia impartito presso qualsiasi facolta' dell'ateneo.   
-Per essere iscritto al secondo anno lo studente deve aver superato almeno due esami fondamentali del primo anno.   
-Per l'insegnamento biennale di economia politica e' prescritto l'esame alla fine di ciascun corso annuale, dovendosi il primo considerare propedeutico al secondo.   
-Art. 41. - Gli esami di: istituzioni di matematica, analisi matematica, geometria analitica, calcolo delle probabilita', istituzioni di statistica, statistica, economia politica (1° esame), istituzioni di statistica economica, statistica economica, istituzioni di diritto pubblico, istituzioni di diritto privato, debbono essere superati prima degli altri esami fondamentali.   
-Gli esami di istituzioni di analisi matematica e di geometria analitica dovranno essere superati prima degli esami di analisi matematica e statistica.   
-L'esame di istituzioni di statistica dovra' essere superato prima degli esami di statistica, di demografia e di statistica economica.   
-L'esame di analisi matematica dovra' essere superato prima dell'esame di calcolo delle probabilita'.   
-Gli esami di economia politica (1° esame) e di istituzioni di statistica economica dovranno essere superati prima dell'esame di statistica economica.   
-L'esame di economia politica (2° esame) dovra' essere superato prima dell'esame di politica economica.   
-L'esame di laurea consiste nella discussione di una dissertazione scritta, svolta sul tema approvato dal professore della materia e nella discussione di almeno due su tre temi orali scelti dal candidato vertenti su materie fondamentali del suo corso di studi e parimenti approvati dai professori delle rispettive materie.   
-Uno di questi temi deve riguardare la statistica metodologica ed uno la statistica applicata.   
-  
-Visto, d'ordine del Presidente della Repubblica   
-Il Ministro per la pubblica istruzione   
-  
-MISASI   
+Registro n. 92 Istruzione, foglio n. 30

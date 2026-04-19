@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1984 n. 1212
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 aprile 1977 n. 231
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1984 n. 1212
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 aprile 1977 n. 231
+=============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1212. Decreto del Presidente della Repubblica 5 dicembre 1984, col quale, sulla proposta del Ministro delle finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dal sig. Luigi De Rosa con atto 18 giugno 1976, n. 77769 di repertorio, a rogito dott. Pasquale Tufano, notaio in Napoli, dell'area di mq 1094 circa, sita in Napoli, sezione Pendino, sulla quale insiste un complesso monumentale di rilevante interesse storico e archeologico.   
+231. Decreto del Presidente della Repubblica 14 aprile 1977, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione di una donazione a favore dello Stato disposta dal comune di Orsara di Puglia (Foggia) con atto 31 maggio 1969, n. 291 di repertorio, a rogito notaio Tommaso Olivieri, consistente in un appezzamento di terreno esteso mq 490, sito in localita' Guardiola, catastalmente descritto nell'alto medesimo e sul quale l'Amministrazione dell'agricoltura e delle foreste ha gia' realizzato una caserma forestale.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 12 agosto 1985   
-Registro n. 49 Finanze, foglio n. 399
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 24 maggio 1977  
+Registro n. 23 Finanze, foglio n. 341

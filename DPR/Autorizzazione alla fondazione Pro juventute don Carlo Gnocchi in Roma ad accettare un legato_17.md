@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 147
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1985 n. 564
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 147
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1985 n. 564
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -10,10 +10,10 @@ Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad ac
 Art. 1
 ------
 
-n.
+N.
 
-147. Decreto del Presidente della Repubblica 10 febbraio 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in una somma di L. 27.919.100, disposto dalla sig.ra Catenacci Luigia ved. Mariani con testamento olografo 20 aprile 1983, pubblicato in data 7 luglio 1983, n. 84384/9262 di repertorio, a rogito dott. Acquarone Domenico, notaio in Milano, registrato a Milano in data 21 luglio 1983 al n. 17621.  
+564. Decreto del Presidente della Repubblica 16 luglio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in un quarto della quota residua dell'assegnazione ad altri legatari del ricavato della vendita di un immobile sito in Roma, via Fratelli Ruspoli n. 2 ed annesso box ed altri beni mobili per un totale di L. 47.872.000, come risulta dal prospetto della consistenza, disposto dalla sig.ra Del Barba Maria con testamento olografo 23 luglio 1981, pubblicato il 12 maggio 1982, n. 75394 di repertorio e n. 9847 di raccolta, a rogito dottor Franco Ventura, notaio in Roma, registrato a Roma il 17 maggio 1982 al n. 419031.  
   
 Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 22 aprile 1986  
-Registro n. 4 Presidenza, foglio n. 48
+Registrato alla Corte dei conti, addi' 11 ottobre 1985  
+Registro n. 9 Presidenza, foglio n. 67

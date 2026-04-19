@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1981 n. 833
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 aprile 1977 n. 293
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1981 n. 833
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 aprile 1977 n. 293
+=============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-833. Decreto del Presidente della Repubblica 21 ottobre 1981, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato della donazione, consistente in un dipinto dell'autore Gregorio Sciltian, raffigurante "Bacco all'Osteria" il quale riveste un importante interesse artistico, disposta dal gr. uff. Maurizio Adreani, con atto 27 novembre 1978, n. 137047 di repertorio, a rogito del dott. Marco Serpi, notaio in Milano, da destinare alla soprintendenza speciale alla Galleria nazionale d'arte moderna e contemporanea in Roma.  
+293. Decreto del Presidente della Repubblica 14 aprile 1977, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dal comune di Spoleto (Perugia) con atto 3 aprile 1975, n. 4914 di repertorio, a rogito notaio Dilio Fulignoli, di due appezzamenti di terreno della complessiva superficie di Ha 7.12,50, siti in detto comune, localita' "Maiano", catastalmente indicati e descritti nell'atto succitato, da destinare alla costruzione del nuovo carcere giudiziario.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 29 dicembre 1981  
-Registro n. 25 Beni culturali, foglio n. 164
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 7 giugno 1977  
+Registro n. 25 Finanze, foglio n. 235

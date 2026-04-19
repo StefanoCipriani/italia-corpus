@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 novembre 1985 n. 933
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 giugno 1982 n. 733
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 novembre 1985 n. 933
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 giugno 1982 n. 733
+=============================================================
 
 Autorizzazione all'Associazione italiana della Croce rossa, in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-933. Decreto del Presidente della Repubblica 14 novembre 1985, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare il legato, consistente "in quanto resta in denaro liquido del conto corrente" presso la Banca commerciale, via del Corso, Roma, e "in titoli di Stato", una volta "pagate le spese funebri e religiose e gli onorari notarili" per un ammontare presumibile di L. 30.000.000 e che sara' utilizzato dalla Croce rossa per l'assistenza ai terremotati piu' bisognosi e sofferenti del Friuli, disposto dalla sig.ra Lucia Dini con testamento olografo 28 agosto 1977, pubblicato in data 26 settembre 1979, n. 67608 di repertorio, a rogito dottor Massimo Manara, coadiutore del dott. Achille De Martino, notaio in Roma, registrato a Roma in data 2 ottobre 1979 al n. 10942.   
+733. Decreto del Presidente della Repubblica 17 giugno 1982, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 1.000.000 depositata in cartelle di obbligazioni "B.E.I. - Autostrada I.R.I. - Piano verde" presso il Banco di Chiavari della Riviera ligure, disposto dalla sig.ra Angelica Vitali in favore del sottocomitato C.R.I. di Alassio (Savona) con testamento olografo 25 marzo 1974, pubblicato in data 18 novembre 1976, n. 15027/3755 di repertorio, a rogito dott. Fernando Cauli, notaio in Alassio, registrato ad Albenga (Savona) in data 25 novembre 1976 al n. 4054.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 17 febbraio 1986   
-Registro n. 2 Sanita', foglio n. 133.
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 2 ottobre 1982  
+Registro n. 6 Sanita', foglio n. 235

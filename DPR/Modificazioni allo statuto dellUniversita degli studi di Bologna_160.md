@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1978 n. 808
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1966 n. 684
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1978 n. 808
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1966 n. 684
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -10,73 +10,68 @@ Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);.  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Gli articoli 547, 548, 549, 550, 551 e 552, relativi alla scuola di specializzazione in anestesiologia e rianimazione, che muta la denominazione in quella di scuola di specializzazione in anestesia e rianimazione, sono abrogati e sostituiti dai seguenti con il conseguente spostamento della numerazione degli articoli successivi:   
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 61, relativi agli Istituti annessi alla Facolta' di economia e commercio, i numeri 5, 8 e 11 sono abrogati e sostituiti dai seguenti:  
+5. Istituto di Matematica: per gli insegnamenti di Matematica generale, di Matematica finanziaria, di Elementi di matematica, di Ricerca operativa.  
+8. Istituto di Ragioneria: per gli insegnamenti di Ragioneria generale e applicata, di Contabilita' nazionale, di Ragioneria pubblica.  
+11. Istituto di Tecnica economica: per gli insegnamenti di Tecnica industriale e commerciale, di Tecnica bancaria e professionale, di Organizzazione aziendale.  
+Art. 62, il comma relativo alla direzione dell'Istituto di matematica di cui all'art. 61 e' modificato come segue:  
+"al professore di ruolo che impartisce l'insegnamento di Matematica generale per l'istituto di matematica.  
+Gli articoli 335, 336, 337, 338, 339 e 340 relativi alla Scuola di perfezionamento in oculistica sono abrogati e sostituiti dai seguenti:  
   
-Scuola di specializzazione in anestesia e rianimazione   
-Art. 547. - La scuola di specializzazione in anestesia e rianimazione ha sede presso la facolta' di medicina e chirurgia e conferisce il diploma di specialista in anestesia e rianimazione.   
-La direzione della scuola e' affidata al professore di ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo di materia affine.   
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.   
-E' richiesto, almeno per l'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di tre anni (3) e non e' suscettibile di abbreviazioni.   
-Il numero massimo degli allievi e' di 30 per anno di corso e complessivamente di 90 iscritti per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-Art. 548. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-1) anatomia applicata all'anestesia ed alla rianimazione;   
-2) biochimica applicata all'anestesia ed alla rianimazione;   
-3) farmacologia applicata all'anestesia e alla rianimazione;   
-4) fisiologia applicata all'anestesia ed alla rianimazione;   
-5) fisica applicata all'anestesia ed alla rianimazione;   
-6) anestesiologia I;   
-7) tecniche chirurgiche di interesse anestesiologico;   
-8) aspetti medico-legali dell'anestesia e della rianimazione;   
-9) esercitazioni pratiche.   
-2° Anno:   
-1) anestesiologia II;   
-2) terapia antalgica;   
-3) rianimazione I;   
-4) esercitazioni pratiche.   
-3° Anno:   
-1) rianimazione (II);   
-2) tecniche speciali di anestesia;   
-3) tecniche speciali di rianimazione;   
-4) indagini diagnostiche attinenti alla specialita';   
-5) esercitazioni pratiche.   
-Vengono inoltre impartiti insegnamenti complementari sulle seguenti materie:   
-tecnica degli esami endoscopici (I anno);   
-cardiologia per la rianimazione (II anno);   
-nozioni di tossicologia clinica (III anno).   
-Tali insegnamenti costituiscono materia di esame.   
-Art. 549. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.   
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
-Art. 550. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno.   
-Per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi.   
-Art. 551. - Al termine del corso di studi per il conseguimento del diploma di specialista in anestesia e rianimazione gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
+Scuola di perfezionamento in oculistica  
+Art. 335. - La Scuola di perfezionamento in oculistica conferisce il diploma di specialista in Oculistica.  
+Gli anni di studio postuniversitari necessari per conseguire il titolo sono quattro.  
+Art. 336. - Il numero complessivo degli iscritti ai quattro anni di corso non potra' superare quello di quaranta.  
+Art. 337. - Gli insegnamenti impartiti nella Scuola e distribuiti nei quattro anni di corso sono i seguenti:  
+1° anno:  
+1. Anatomia ed Istologia dell'apparato oculare.  
+2. Nozioni di embriologia e genetica oculare.  
+3. Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari.  
+4. Nozioni di ottica fisiologica, esame della refrazione.  
+5. Microbiologia ed igiene oculare.  
+2° anno:  
+Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia; oftalmologia, perimetria, campimetria, adattometria, senso cromatico, tonometria, esami elettrofunzionali, radiologia).  
+Farmacologia oculare e terapia fisica.  
+Anatomia patologica oculare.  
+Patologia e Clinica oculare (malattie delle palpebre, della congiuntiva, delle vie lacrimali, della cornea e della sclera).  
+3° anno:  
+Patologia e clinica oculare (malattie dell'urea, della retina, del nervo ottico e delle vie ottiche, dell'occhio nella sua totalita', e dell'orbita, glaucoma).  
+Anomalia e patologia della mobilita' oculare e della visione binoculare. Ortottica e pleottica.  
+Affezioni otorinolaringoiatriche e occhio.  
+Tecnica operatoria (biennale).  
+4° anno:  
+Neurooftalmologia.  
+Malattie oculari in rapporto ad affezioni generali.  
+Malattie professionali, infortunistica e medicina legale oculare.  
+Tecnica operatoria (biennale).  
+Art. 338. - E' obbligatorio l'internato per quattro anni nella Clinica oculistica.  
+Art. 339. - Gli esami di profitto verranno sostenuti per gruppo di materie alla fine di ogni anno.  
+Al termine del corso, prima di presentare la dissertazione scritta e sostenere la relativa discussione, i diplomati debbono sostenere una prova pratica sull'ammalato.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella. Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 ottobre 1978
+### Dato a Roma, addi' 13 maggio 1966
 
-PERTINI PEDINI
+SARAGAT GUI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 11 dicembre 1978
+Registrato alla Corte dei conti, addi' 25 agosto 1966
 
-Registro n. 130 Istruzione, foglio n. 151
+Atti del Governo, registro n. 205, foglio n. 18. - VILLA.

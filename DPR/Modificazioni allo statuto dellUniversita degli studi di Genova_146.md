@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1140
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 novembre 1948 n. 1505
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1140
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 novembre 1948 n. 1505
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
@@ -10,17 +10,13 @@ Modificazioni allo statuto dell'Universita' degli studi di Genova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
+Visto lo statuto della Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), modificato con i [regi decreti 13 ottobre 1927, n. 2486](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2486); [25 ottobre 1928, n. 3510](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-10-25;3510); [31 ottobre 1929, n. 2396](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2396); [30 ottobre 1930, n. 1859](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1859); [1 ottobre 1931, n. 1371](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-01;1371); [27 ottobre 1932, n. 2086](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-10-27;2086); [6 dicembre 1934, n. 2281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-12-06;2281); [1 ottobre 1936, n. 2474](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;2474); [20 aprile 1939, n. 1086](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1086); [16 marzo 1942, n. 324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;324); [5 settembre 1942, n. 1236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-09-05;1236); [24 ottobre 1942, n. 1671](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-10-24;1671);
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Visto il testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Visto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Viste le proposte di modificazioni allo statuto formulate dalle autorita' accademiche dell'Universita' predetta;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -28,656 +24,185 @@ Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i regi decreti sopraindicati e' ulteriormente modificato come appresso:
 
-All'art. 155, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, sono apportate le seguenti modifiche:
+Dopo l'art. 140 vengono inseriti i seguenti nuovi articoli:
 
-la scuola di specializzazione in anestesiologia e rianimazione muta la denominazione in quella di scuola di specializzazione in anestesia e rianimazione;
+Scuola di perfezionamento in ortopedia e traumatologia.
 
-la scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale muta la denominazione in quella di scuola di specializzazione in otorinolaringoiatria.
+Art. 141. - La Scuola di perfezionamento in ortopedia e traumatologia ha sede presso la clinica ortopedica e conferisce il diploma di specialista in ortopedia e traumatologia.
 
-Gli articoli 196 e 200, relativi alla scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale che muta la denominazione in scuola di specializzazione in otorinolaringoiatria, sono abrogati e sostituiti dai seguenti:
+Art. 142. - Il corso ha la durata di tre anni. L'insegnamento ha carattere essenzialmente pratico e dimostrativo.
 
-Art. 196. - Presso l'istituto di clinica otorinolaringoiatrica e' istituita la scuola di specializzazione in otorinolaringoiatria che ha lo scopo di conferire la necessaria competenza a coloro che vogliono dedicarsi all'esercizio di questa branca della medicina.
+Art. 143. - Al corso possono iscriversi solamente i laureati in medicina e chirurgia.
 
-Art. 200. - Il numero degli allievi iscrivibile e' di ventuno, per l'intero corso di studi.
+Art. 144. - Le materie tutte obbligatorie ai fini della frequenza e degli esami sono:
 
-L'art. 216, relativo alla scuola di specializzazione in neurologia, e' abrogato e sostituito dal seguente:
+1) anatomia e fisiologia dell'apparato motore;
 
-Art. 216. - La scuola ha la durata di quattro anni.
+2) patologia e clinica ortopedica;
 
-Gli articoli 220, 221 e 222, relativi alla stessa scuola di specializzazione in neurologia, sono soppressi, con il conseguente spostamento della numerazione degli articoli successivi.
+3) patologia e clinica traumatologica;
 
-Gli articoli 251 e 252, concernenti la scuola di specializzazione in oncologia, sono abrogati e sostituiti dai seguenti:
+4) pediatria ortopedica;
 
-Art. 251. - Presso la cattedra di oncologia e' istituita la scuola di specializzazione in oncologia che ha lo scopo di conferire adeguata competenza teorica e pratica ai laureati in medicina e chirurgia ai fini del conseguimento del diploma di specializzazione.
+5) neuropatologia ortopedica;
 
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+6) radiodiagnostica;
 
-Art. 252. - Il numero complessivo degli specializzandi, in ogni caso, non puo' superare i sessanta.
+7) corso teorico-pratico di operazioni ortopediche e traumatologiche;
 
-Gli articoli 255, 256 e 257, relativi alla stessa scuola di specializzazione in oncologia, sono abrogati, con il conseguente spostamento della numerazione degli articoli successivi.
+8) corso teorico-pratico di apparecchi gessati, ortopedici e protesi;
 
-Gli articoli da 258 a 276, riguardanti la scuola di specializzazione in anestesiologia e rianimazione, che muta la denominazione in scuola di specializzazione in anestesia e rianimazione, sono soppressi e sostituiti dai seguenti con il conseguente spostamento della numerazione degli articoli successivi.
+9) terapia fisica.
 
-Scuola di specializzazione in anestesia e rianimazione
+Art. 145. - L'insegnamento e' cosi' suddiviso:
 
-Art. 258. - La scuola di specializzazione in anestesia e rianimazione ha sede presso l'istituto di anestesiologia e conferisce il diploma di specializzazione in anestesia e rianimazione.
+al 1° anno:
 
-Art. 259. - La durata del corso di studi e' di tre anni.
+1) anatomia e fisiologia dell'apparato motore;
 
-Art. 260. - Il numero massimo degli allievi iscrivibili e' di sessanta complessivamente per l'intero corso degli studi.
+2) patologia ortopedica e traumatologica;
 
-Art. 261. - Le materie di insegnamento sono le seguenti:
+3) radiodiagnostica e terapia fisica;
 
-1° Anno:
+4) neuropatologia ortopedica;
 
-anatomia applicata all'anestesia ed alla rianimazione;
+5) pediatria ortopedica;
 
-biochimica applicata all'anestesia ed alla rianimazione;
+al 2° anno:
 
-farmacologia applicata all'anestesia ed alla rianimazione;
+1) clinica, ortopedica;
 
-fisica applicata all'anestesia ed alla rianimazione;
+2) clinica traumatologica;
 
-fisiologia applicata all'anestesia ed alla rianimazione;
+3) corso di operazioni ortopediche e traumatologiche;
 
-anestesiologia I;
+4) corso di apparecchi gessati, ortopedici e protesi;
 
-tecniche chirurgiche di interesse anestesiologico;
+al 3° anno:
 
-aspetti medico-legali dell'anestesia e della rianimazione;
+1) clinica ortopedica;
 
-esercitazioni pratiche.
+2) clinica traumatologica;
 
-2° Anno:
+3) corso di operazioni ortopediche e traumatologiche;
 
-anestesiologia II;
+4) corso di apparecchi gessati, ortopedici e protesi.
 
-terapia antalgica;
+Art. 146. - Gli allievi hanno l'obbligo di frequentare assiduamente per tutto il triennio la clinica ortopedica, i corsi integrativi, l'ambulatorio, i reparti clinici e la sala operatoria, prestando regolare servizio come in terni di clinica.
 
-rianimazione I;
+All'aiuto della clinica e' affidato il controllo della frequenza che verra' tenuto con apposito registro.
 
-esercitazioni pratiche.
+Art. 147. - Per essere ammessi al terzo corso gli allievi devono sostenere un esame di profitto davanti ad una Commissione composta dagli insegnanti del corso, in numero di cinque.
 
-3° Anno:
+Art. 148. - Alla fine del corso gli allievi, che hanno regolarmente frequentato, sono ammessi a dare l'esame di specializzazione, che consiste in una dissertazione scritta originale ed in una prova clinica e pratica.
 
-rianimazione II;
+Art. 149. - L'esame e' dato davanti ad una Commissione, nominata dal preside e composta da cinque membri e cioe': dal (direttore della scuola, da un professore ordinario di ortopedia di altra universita', da due professori di materia affine e da un libero docente in clinica ortopedica.
 
-tecniche speciali di anestesia;
+Art. 150. - Agli allievi che hanno ottenuto l'approvazione viene rilasciato il diploma di specialista in ortopedia e traumatologia.
 
-tecniche speciali di rianimazione;
-
-indagini diagnostiche attinenti alle specialita';
-
-esercitazioni pratiche.
-
-Art. 262. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.
-
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove d'esame.
-
-Art. 263. - Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
-
-Art. 264. - Al termine del corso di studi per il conseguimento del diploma di specializzazione in anestesia e rianimazione gli interessati dovranno superare l'esame di diploma consistente nella discussione di una dissertazione scritta su un argomento attinente alla specializzazione.
-
-Gli articoli 296, 297 e 298, relativi alla scuola di specializzazione in igiene e medicina preventiva, sono abrogati e sostituiti dai seguenti, con il conseguente spostamento della numerazione degli articoli successivi.
-
-Scuola di specializzazione in igiene e medicina preventiva
-
-Art. 296. - La scuola di specializzazione in igiene e medicina preventiva ha sede presso l'istituto di igiene e conferisce il diploma di specializzazione in igiene e medicina preventiva.
-
-Art. 297. - La durata del corso di studi e' di quattro anni.
-
-Il numero massimo di allievi iscrivibili e' di trenta complessivamente per l'intero corso degli studi.
-
-Art. 298. - Il corso si articola in un biennio propedeutico seguito da un biennio differenziato con cinque orientamenti e precisamente:
-
-a) sanita' pubblica;
-
-b) igiene e tecnica ospedaliera;
-
-c) igiene del lavoro;
-
-d) igiene e medicina scolastica;
-
-e) laboratorio.
-
-Art. 299. - Il piano degli studi e' il seguente:
-
-PRIMO BIENNIO
-
-1° Anno:
-
-metodologia statistica e biometria;
-
-educazione sanitaria;
-
-psicologia;
-
-microbiologia ed immunologia I;
-
-parassitologia;
-
-epidemiologia generale e metodologia;
-
-profilassi generale;
-
-sociologia medica ed antropologia culturale;
-
-un insegnamento complementare a scelta.
-
-2° Anno:
-
-microbiologia ed immunologia II;
-
-patologia e clinica delle malattie infettive;
-
-epidemiologia e profilassi delle malattie infettive I;
-
-patologia e clinica delle malattie non infettive di importanza sociale;
-
-epidemiologia e profilassi delle malattie non infettive di importanza sociale I;
-
-demografia e statistica sanitaria;
-
-legislazione e programmazione sanitaria;
-
-un insegnamento complementare a scelta.
-
-SECONDO BIENNIO
-
-a) Orientamento di sanita' pubblica
-
-3° Anno:
-
-epidemiologia e profilassi delle malattie infettive II;
-
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;
-
-igiene dell'ambiente fisico e difesa ecologica;
-
-igiene degli alimenti e della nutrizione;
-
-igiene dell'eta' evolutiva;
-
-igiene del lavoro;
-
-igiene ed assistenza dell'anziano;
-
-un insegnamento complementare a scelta.
-
-4° Anno:
-
-igiene edilizia e dell'aggregato urbano;
-
-igiene ospedaliera;
-
-organizzazione del territorio e programmazione sanitaria;
-
-medicina di comunita';
-
-economia sanitaria;
-
-elementi di diritto amministrativo;
-
-un insegnamento complementare a scelta.
-
-b) Orientamento di igiene e tecnica ospedaliera
-
-3° Anno:
-
-epidemiologia e profilassi delle malattie infettive II;
-
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;
-
-igiene dell'ambiente fisico e difesa ecologica;
-
-igiene e tecnica delle costruzioni ospedaliere; arredamenti ed impianti tecnologici;
-
-igiene dell'alimentazione e dietetica ospedaliera;
-
-organizzazione e funzionamento degli ospedali I;
-
-elementi di diritto e legislazione ospedaliera;
-
-un insegnamento complementare a scelta.
-
-4° Anno:
-
-organizzazione e funzionamento degli ospedali II;
-
-compiti ed attribuzione della direzione sanitaria;
-
-formazione professionale e compiti del personale ospedaliero;
-
-programmazione ospedaliera e medicina di comunita';
-
-assistenza psichiatrica;
-
-aspetti socio-sanitari dell'ospitalismo;
-
-aspetti economici della gestione ospedaliera;
-
-un insegnamento complementare a scelta.
-
-c) Orientamento di igiene del lavoro
-
-3° Anno:
-
-epidemiologia e profilassi delle malattie infettive II;
-
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;
-
-igiene dell'ambiente fisico e difesa ecologica;
-
-epidemiologia e profilassi delle malattie del lavoro;
-
-tecnica ed economia degli impianti industriali;
-
-tossicologia industriale e diagnostica di laboratorio;
-
-elementi di fisica tecnica applicata all'igiene;
-
-igiene dell'ambiente di lavoro I;
-
-un insegnamento complementare a scelta.
-
-4° Anno:
-
-igiene dell'ambiente di lavoro II;
-
-elementi di diritto e legislazione del lavoro;
-
-psicologia del lavoro;
-
-prevenzione degli infortuni;
-
-politica del territorio ed insediamenti industriali;
-
-igiene del lavoro e medicina di comunita';
-
-un insegnamento complementare a scelta.
-
-d) Orientamento di igiene e medicina scolastica
-
-3° Anno:
-
-3° Anno:
-
-epidemiologia e profilassi delle malattie infettive II;
-
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II; igiene dell'ambiente fisico e difesa ecologica;
-
-clinica delle malattie dell'eta' evolutiva;
-
-epidemiologia e profilassi delle malattie dell'eta' evolutiva;
-
-igiene degli alimenti e della nutrizione;
-
-auxologia normale e patologica;
-
-psicologia dell'eta' evolutiva;
-
-un insegnamento complementare a scelta.
-
-4° Anno:
-
-servizi di medicina scolastica;
-
-edilizia ed arredamento scolastico;
-
-elementi di pedagogia;
-
-assistenza parascolastica;
-
-educazione sanitaria nella scuola;
-
-legislazione scolastica;
-
-igiene mentale;
-
-un insegnamento complementare a scelta.
-
-e) Orientamento di laboratorio
-
-3° Anno:
-
-epidemiologia e profilassi delle malattie infettive II;
-
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;
-
-igiene dell'ambiente fisico e difesa ecologica;
-
-metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale I;
-
-metodi e dosaggi biologici per il controllo, dell'inquinamento ambientale;
-
-strumentazione e metodologie chimico-cliniche ed ematologiche I; microscopia applicata all'igiene;
-
-elementi di fisica tecnica applicata all'igiene;
-
-accertamento diagnostico delle malattie infettive e parassitarie I;
-
-un insegnamento complementare a scelta.
-
-4° Anno:
-
-metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale II;
-
-accertamento diagnostico delle malattie infettive e parassitarie II;
-
-strumentazione e metodologie chimico-cliniche ed ematologiche II; ispezione e controllo degli alimenti;
-
-elementi di informatica;
-
-un insegnamento complementare a scelta.
-
-Gli esami relativi alle discipline svolte con insegnamento biennale verranno sostenuti alla fine di detti insegnamenti.
-
-Materie complementari:
-
-automazione del sistema ospedaliero;
-
-biochimica applicata;
-
-climatologia;
-
-diritto sanitario internazionale;
-
-elementi di medicina legale;
-
-genetica umana;
-
-geologia applicata all'igiene;
-
-idrologia;
-
-igiene dei climi tropicali;
-
-igiene dei trasporti;
-
-igiene militare;
-
-igiene rurale;
-
-istituzioni di matematiche;
-
-micologia;
-
-radioprotezionistica.
-
-A giudizio della scuola possono essere indicati come complementari anche altri insegnamenti regolarmente attivati nei corsi di laurea dell'Ateneo.
-
-I corsi saranno integrati da un tirocinio pratico di durata comunque non inferiore a tre mesi, da svolgersi durante il secondo biennio.
-
-Art. 300. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove d'esame.
-
-Gli articoli 403, 404 e 406, relativi alla scuola di perfezionamento in chirurgia oculare che muta la denominazione in scuola di specializzazione in chirurgia oculare, vengono soppressi e sostituiti dai seguenti:
-
-Scuola di specializzazione in chirurgia oculare
-
-Art. 403. - Presso l'istituto di clinica oculistica e' istituita la scuola di specializzazione in chirurgia oculare. Essa ha lo scopo di consentire un ulteriore approfondimento pratico e teorico ai laureati in medicina e chirurgia che, avendo gia' conseguito il diploma presso la scuola di specializzazione in clinica oculistica oppure in oftalmologia, desiderino conseguire la specializzazione nella chirurgia oculare.
-
-Direttore della scuola e' il professore titolare della cattedra di clinica oculistica.
-
-Art. 404. - Il corso ha la durata di tre anni e l'insegnamento ha carattere teorico, pratico e dimostrativo.
-
-Gli insegnamenti riguardano sia l'anestesia del paziente e le sue complicanze, sia la tecnologia degli strumenti operatori, sia la tecnica operatoria specialistica, sia il trattamento e la prevenzione delle complicanze pre e post operatorie.
-
-E' facolta' della scuola di invitare cultori, anche stranieri, della materia a tenere conferenze e seminari su particolari settori.
-
-Art. 406. - Il numero massimo degli allievi iscrivibili e' di dieci per l'intero corso di studi.
-
-Gli articoli 407, 408 e 409, relativi alla stessa scuola di specializzazione in chirurgia oculare, sono soppressi, con il conseguente spostamento della numerazione degli articoli successivi.
+Art. 151. - L'allievo che non abbia ottenuto l'approvazione dovra' ripetere l'anno. L'allievo che per due volte non abbia ottenuto l'approvazione non potra' ulteriormente rimanere iscritto alla Scuola.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 31 ottobre 1977
+Dato a Roma, addi' 2 novembre 1948
 
-LEONE
+EINAUDI
 
-MALFATTI
+GONELLA
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GRASSI
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 24 marzo 1978 Registro n. 31 Istruzione, foglio n. 94
+alla Corte dei conti, addi' 23 dicembre 1948 Atti del Governo, registro n. 25, foglio n. 133. - DUSSONI
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Visto lo statuto della Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), modificato con i [regi decreti 13 ottobre 1927, n. 2486](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2486); [25 ottobre 1928, n. 3510](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-10-25;3510); [31 ottobre 1929, n. 2396](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2396); [30 ottobre 1930, n. 1859](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1859); [1 ottobre 1931, n. 1371](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-01;1371); [27 ottobre 1932, n. 2086](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-10-27;2086); [6 dicembre 1934, n. 2281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-12-06;2281); [1 ottobre 1936, n. 2474](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;2474); [20 aprile 1939, n. 1086](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1086); [16 marzo 1942, n. 324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;324); [5 settembre 1942, n. 1236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-09-05;1236); [24 ottobre 1942, n. 1671](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-10-24;1671);  
+Visto il testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Visto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Viste le proposte di modificazioni allo statuto formulate dalle autorita' accademiche dell'Universita' predetta;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-All'art. 155, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, sono apportate le seguenti modifiche:   
-la scuola di specializzazione in anestesiologia e rianimazione muta la denominazione in quella di scuola di specializzazione in anestesia e rianimazione;   
-la scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale muta la denominazione in quella di scuola di specializzazione in otorinolaringoiatria.   
-Gli articoli 196 e 200, relativi alla scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale che muta la denominazione in scuola di specializzazione in otorinolaringoiatria, sono abrogati e sostituiti dai seguenti:   
-Art. 196. - Presso l'istituto di clinica otorinolaringoiatrica e' istituita la scuola di specializzazione in otorinolaringoiatria che ha lo scopo di conferire la necessaria competenza a coloro che vogliono dedicarsi all'esercizio di questa branca della medicina.   
-Art. 200. - Il numero degli allievi iscrivibile e' di ventuno, per l'intero corso di studi.   
-L'art. 216, relativo alla scuola di specializzazione in neurologia, e' abrogato e sostituito dal seguente:   
-Art. 216. - La scuola ha la durata di quattro anni.   
-Gli articoli 220, 221 e 222, relativi alla stessa scuola di specializzazione in neurologia, sono soppressi, con il conseguente spostamento della numerazione degli articoli successivi.   
-Gli articoli 251 e 252, concernenti la scuola di specializzazione in oncologia, sono abrogati e sostituiti dai seguenti:   
-Art. 251. - Presso la cattedra di oncologia e' istituita la scuola di specializzazione in oncologia che ha lo scopo di conferire adeguata competenza teorica e pratica ai laureati in medicina e chirurgia ai fini del conseguimento del diploma di specializzazione.   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Art. 252. - Il numero complessivo degli specializzandi, in ogni caso, non puo' superare i sessanta.   
-Gli articoli 255, 256 e 257, relativi alla stessa scuola di specializzazione in oncologia, sono abrogati, con il conseguente spostamento della numerazione degli articoli successivi.   
-Gli articoli da 258 a 276, riguardanti la scuola di specializzazione in anestesiologia e rianimazione, che muta la denominazione in scuola di specializzazione in anestesia e rianimazione, sono soppressi e sostituiti dai seguenti con il conseguente spostamento della numerazione degli articoli successivi.   
-Scuola di specializzazione in anestesia e rianimazione   
-Art. 258. - La scuola di specializzazione in anestesia e rianimazione ha sede presso l'istituto di anestesiologia e conferisce il diploma di specializzazione in anestesia e rianimazione.   
-Art. 259. - La durata del corso di studi e' di tre anni.   
-Art. 260. - Il numero massimo degli allievi iscrivibili e' di sessanta complessivamente per l'intero corso degli studi.   
-Art. 261. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-anatomia applicata all'anestesia ed alla rianimazione;   
-biochimica applicata all'anestesia ed alla rianimazione;   
-farmacologia applicata all'anestesia ed alla rianimazione;   
-fisica applicata all'anestesia ed alla rianimazione;   
-fisiologia applicata all'anestesia ed alla rianimazione;   
-anestesiologia I;   
-tecniche chirurgiche di interesse anestesiologico;   
-aspetti medico-legali dell'anestesia e della rianimazione;   
-esercitazioni pratiche.   
-2° Anno:   
-anestesiologia II;   
-terapia antalgica;   
-rianimazione I;   
-esercitazioni pratiche.   
-3° Anno:   
-rianimazione II;   
-tecniche speciali di anestesia;   
-tecniche speciali di rianimazione;   
-indagini diagnostiche attinenti alle specialita';   
-esercitazioni pratiche.   
-Art. 262. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.   
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove d'esame.   
-Art. 263. - Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.   
-Art. 264. - Al termine del corso di studi per il conseguimento del diploma di specializzazione in anestesia e rianimazione gli interessati dovranno superare l'esame di diploma consistente nella discussione di una dissertazione scritta su un argomento attinente alla specializzazione.   
-Gli articoli 296, 297 e 298, relativi alla scuola di specializzazione in igiene e medicina preventiva, sono abrogati e sostituiti dai seguenti, con il conseguente spostamento della numerazione degli articoli successivi.   
-Scuola di specializzazione in igiene e medicina preventiva   
-Art. 296. - La scuola di specializzazione in igiene e medicina preventiva ha sede presso l'istituto di igiene e conferisce il diploma di specializzazione in igiene e medicina preventiva.   
-Art. 297. - La durata del corso di studi e' di quattro anni.   
-Il numero massimo di allievi iscrivibili e' di trenta complessivamente per l'intero corso degli studi.   
-Art. 298. - Il corso si articola in un biennio propedeutico seguito da un biennio differenziato con cinque orientamenti e precisamente:   
-a) sanita' pubblica;   
-b) igiene e tecnica ospedaliera;   
-c) igiene del lavoro;   
-d) igiene e medicina scolastica;   
-e) laboratorio.   
-Art. 299. - Il piano degli studi e' il seguente:   
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i regi decreti sopraindicati e' ulteriormente modificato come appresso:  
+Dopo l'art. 140 vengono inseriti i seguenti nuovi articoli:  
   
-PRIMO BIENNIO   
+Scuola di perfezionamento in ortopedia e traumatologia.  
   
-1° Anno:   
-metodologia statistica e biometria;   
-educazione sanitaria;   
-psicologia;   
-microbiologia ed immunologia I;   
-parassitologia;   
-epidemiologia generale e metodologia;   
-profilassi generale;   
-sociologia medica ed antropologia culturale;   
-un insegnamento complementare a scelta.   
-2° Anno:   
-microbiologia ed immunologia II;   
-patologia e clinica delle malattie infettive;   
-epidemiologia e profilassi delle malattie infettive I;   
-patologia e clinica delle malattie non infettive di importanza sociale;   
-epidemiologia e profilassi delle malattie non infettive di importanza sociale I;   
-demografia e statistica sanitaria;   
-legislazione e programmazione sanitaria;   
-un insegnamento complementare a scelta.   
+Art. 141. - La Scuola di perfezionamento in ortopedia e traumatologia ha sede presso la clinica ortopedica e conferisce il diploma di specialista in ortopedia e traumatologia.  
   
-SECONDO BIENNIO   
+Art. 142. - Il corso ha la durata di tre anni. L'insegnamento ha carattere essenzialmente pratico e dimostrativo.  
   
-a) Orientamento di sanita' pubblica   
-3° Anno:   
-epidemiologia e profilassi delle malattie infettive II;   
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;   
-igiene dell'ambiente fisico e difesa ecologica;   
-igiene degli alimenti e della nutrizione;   
-igiene dell'eta' evolutiva;   
-igiene del lavoro;   
-igiene ed assistenza dell'anziano;   
-un insegnamento complementare a scelta.   
-4° Anno:   
-igiene edilizia e dell'aggregato urbano;   
-igiene ospedaliera;   
-organizzazione del territorio e programmazione sanitaria;   
-medicina di comunita';   
-economia sanitaria;   
-elementi di diritto amministrativo;   
-un insegnamento complementare a scelta.   
-b) Orientamento di igiene e tecnica ospedaliera   
-3° Anno:   
-epidemiologia e profilassi delle malattie infettive II;   
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;   
-igiene dell'ambiente fisico e difesa ecologica;   
-igiene e tecnica delle costruzioni ospedaliere; arredamenti ed impianti tecnologici;   
-igiene dell'alimentazione e dietetica ospedaliera;   
-organizzazione e funzionamento degli ospedali I;   
-elementi di diritto e legislazione ospedaliera;   
-un insegnamento complementare a scelta.   
-4° Anno:   
-organizzazione e funzionamento degli ospedali II;   
-compiti ed attribuzione della direzione sanitaria;   
-formazione professionale e compiti del personale ospedaliero;   
-programmazione ospedaliera e medicina di comunita';   
-assistenza psichiatrica;   
-aspetti socio-sanitari dell'ospitalismo;   
-aspetti economici della gestione ospedaliera;   
-un insegnamento complementare a scelta.   
-c) Orientamento di igiene del lavoro   
-3° Anno:   
-epidemiologia e profilassi delle malattie infettive II;   
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;   
-igiene dell'ambiente fisico e difesa ecologica;   
-epidemiologia e profilassi delle malattie del lavoro;   
-tecnica ed economia degli impianti industriali;   
-tossicologia industriale e diagnostica di laboratorio;   
-elementi di fisica tecnica applicata all'igiene;   
-igiene dell'ambiente di lavoro I;   
-un insegnamento complementare a scelta.   
-4° Anno:   
-igiene dell'ambiente di lavoro II;   
-elementi di diritto e legislazione del lavoro;   
-psicologia del lavoro;   
-prevenzione degli infortuni;   
-politica del territorio ed insediamenti industriali;   
-igiene del lavoro e medicina di comunita';   
-un insegnamento complementare a scelta.   
-d) Orientamento di igiene e medicina scolastica   
-3° Anno:   
-3° Anno:   
-epidemiologia e profilassi delle malattie infettive II;   
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II; igiene dell'ambiente fisico e difesa ecologica;   
-clinica delle malattie dell'eta' evolutiva;   
-epidemiologia e profilassi delle malattie dell'eta' evolutiva;   
-igiene degli alimenti e della nutrizione;   
-auxologia normale e patologica;   
-psicologia dell'eta' evolutiva;   
-un insegnamento complementare a scelta.   
-4° Anno:   
-servizi di medicina scolastica;   
-edilizia ed arredamento scolastico;   
-elementi di pedagogia;   
-assistenza parascolastica;   
-educazione sanitaria nella scuola;   
-legislazione scolastica;   
-igiene mentale;   
-un insegnamento complementare a scelta.   
-e) Orientamento di laboratorio   
-3° Anno:   
-epidemiologia e profilassi delle malattie infettive II;   
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;   
-igiene dell'ambiente fisico e difesa ecologica;   
-metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale I;   
-metodi e dosaggi biologici per il controllo, dell'inquinamento ambientale;   
-strumentazione e metodologie chimico-cliniche ed ematologiche I; microscopia applicata all'igiene;   
-elementi di fisica tecnica applicata all'igiene;   
-accertamento diagnostico delle malattie infettive e parassitarie I;   
-un insegnamento complementare a scelta.   
-4° Anno:   
-metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale II;   
-accertamento diagnostico delle malattie infettive e parassitarie II;   
-strumentazione e metodologie chimico-cliniche ed ematologiche II; ispezione e controllo degli alimenti;   
-elementi di informatica;   
-un insegnamento complementare a scelta.   
-Gli esami relativi alle discipline svolte con insegnamento biennale verranno sostenuti alla fine di detti insegnamenti.   
-Materie complementari:   
-automazione del sistema ospedaliero;   
-biochimica applicata;   
-climatologia;   
-diritto sanitario internazionale;   
-elementi di medicina legale;   
-genetica umana;   
-geologia applicata all'igiene;   
-idrologia;   
-igiene dei climi tropicali;   
-igiene dei trasporti;   
-igiene militare;   
-igiene rurale;   
-istituzioni di matematiche;   
-micologia;   
-radioprotezionistica.   
-A giudizio della scuola possono essere indicati come complementari anche altri insegnamenti regolarmente attivati nei corsi di laurea dell'Ateneo.   
-I corsi saranno integrati da un tirocinio pratico di durata comunque non inferiore a tre mesi, da svolgersi durante il secondo biennio.   
-Art. 300. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove d'esame.   
-Gli articoli 403, 404 e 406, relativi alla scuola di perfezionamento in chirurgia oculare che muta la denominazione in scuola di specializzazione in chirurgia oculare, vengono soppressi e sostituiti dai seguenti:   
+Art. 143. - Al corso possono iscriversi solamente i laureati in medicina e chirurgia.  
   
-Scuola di specializzazione in chirurgia oculare   
-Art. 403. - Presso l'istituto di clinica oculistica e' istituita la scuola di specializzazione in chirurgia oculare. Essa ha lo scopo di consentire un ulteriore approfondimento pratico e teorico ai laureati in medicina e chirurgia che, avendo gia' conseguito il diploma presso la scuola di specializzazione in clinica oculistica oppure in oftalmologia, desiderino conseguire la specializzazione nella chirurgia oculare.   
-Direttore della scuola e' il professore titolare della cattedra di clinica oculistica.   
-Art. 404. - Il corso ha la durata di tre anni e l'insegnamento ha carattere teorico, pratico e dimostrativo.   
-Gli insegnamenti riguardano sia l'anestesia del paziente e le sue complicanze, sia la tecnologia degli strumenti operatori, sia la tecnica operatoria specialistica, sia il trattamento e la prevenzione delle complicanze pre e post operatorie.   
-E' facolta' della scuola di invitare cultori, anche stranieri, della materia a tenere conferenze e seminari su particolari settori.   
-Art. 406. - Il numero massimo degli allievi iscrivibili e' di dieci per l'intero corso di studi.   
-Gli articoli 407, 408 e 409, relativi alla stessa scuola di specializzazione in chirurgia oculare, sono soppressi, con il conseguente spostamento della numerazione degli articoli successivi.   
+Art. 144. - Le materie tutte obbligatorie ai fini della frequenza e degli esami sono:  
+  
+1) anatomia e fisiologia dell'apparato motore;  
+2) patologia e clinica ortopedica;  
+3) patologia e clinica traumatologica;  
+4) pediatria ortopedica;  
+5) neuropatologia ortopedica;  
+6) radiodiagnostica;  
+7) corso teorico-pratico di operazioni ortopediche e traumatologiche;  
+8) corso teorico-pratico di apparecchi gessati, ortopedici e protesi;  
+9) terapia fisica.  
+  
+Art. 145. - L'insegnamento e' cosi' suddiviso:  
+  
+al 1° anno:  
+  
+1) anatomia e fisiologia dell'apparato motore;  
+2) patologia ortopedica e traumatologica;  
+3) radiodiagnostica e terapia fisica;  
+4) neuropatologia ortopedica;  
+5) pediatria ortopedica;  
+  
+al 2° anno:  
+  
+1) clinica, ortopedica;  
+2) clinica traumatologica;  
+3) corso di operazioni ortopediche e traumatologiche;  
+4) corso di apparecchi gessati, ortopedici e protesi;  
+  
+al 3° anno:  
+  
+1) clinica ortopedica;  
+2) clinica traumatologica;  
+3) corso di operazioni ortopediche e traumatologiche;  
+4) corso di apparecchi gessati, ortopedici e protesi.  
+  
+Art. 146. - Gli allievi hanno l'obbligo di frequentare assiduamente per tutto il triennio la clinica ortopedica, i corsi integrativi, l'ambulatorio, i reparti clinici e la sala operatoria, prestando regolare servizio come in terni di clinica.  
+All'aiuto della clinica e' affidato il controllo della frequenza che verra' tenuto con apposito registro.  
+  
+Art. 147. - Per essere ammessi al terzo corso gli allievi devono sostenere un esame di profitto davanti ad una Commissione composta dagli insegnanti del corso, in numero di cinque.  
+  
+Art. 148. - Alla fine del corso gli allievi, che hanno regolarmente frequentato, sono ammessi a dare l'esame di specializzazione, che consiste in una dissertazione scritta originale ed in una prova clinica e pratica.  
+  
+Art. 149. - L'esame e' dato davanti ad una Commissione, nominata dal preside e composta da cinque membri e cioe': dal (direttore della scuola, da un professore ordinario di ortopedia di altra universita', da due professori di materia affine e da un libero docente in clinica ortopedica.  
+  
+Art. 150. - Agli allievi che hanno ottenuto l'approvazione viene rilasciato il diploma di specialista in ortopedia e traumatologia.  
+  
+Art. 151. - L'allievo che non abbia ottenuto l'approvazione dovra' ripetere l'anno. L'allievo che per due volte non abbia ottenuto l'approvazione non potra' ulteriormente rimanere iscritto alla Scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1977
+### Dato a Roma, addi' 2 novembre 1948
 
-LEONE MALFATTI
+EINAUDI GONELLA
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GRASSI
 
-Registrato alla Corte dei conti, addi' 24 marzo 1978
+Registrato alla Corte dei conti, addi' 23 dicembre 1948
 
-Registro n. 31 Istruzione, foglio n. 94
+Atti del Governo, registro n. 25, foglio n. 133. - DUSSONI

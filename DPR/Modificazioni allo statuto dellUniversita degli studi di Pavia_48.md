@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1979 n. 417
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1969 n. 994
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1979 n. 417
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1969 n. 994
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
@@ -10,220 +10,270 @@ Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-L'art. 134, relativo alla scuola di specializzazione in psichiatria, e' soppresso e sostituito dal seguente:
+gli articoli da 129 a 134 relativi alla scuola di specializzazione in igiene che muta denominazione in quella di igiene e medicina preventiva, sono abrogati e sostituiti dai seguenti:
 
-Scuola di specializzazione in psichiatria
+Scuola di specializzazione in igiene e medicina preventiva
 
-Art. 134. - La scuola di specializzazione in psichiatria ha sede presso la clinica psichiatrica e conferisce il diploma di specialista in psichiatria.
+Art. 129. - La scuola di specializzazione in igiene e medicina preventiva e' articolata in quattro orientamenti: a) Sanita' pubblica; b) Laboratorio; c) Igiene e direzione ospedaliera; d) Igiene e medicina scolastica.
 
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+Il corso della scuola ha la durata di tre anni.
 
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.
+Sono ammessi, previo esame di ammissione, i laureati in medicina e chirurgia.
 
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+Sono previste decurtazioni di un anno: A) per il personale medico di ruolo della amministrazione sanitaria centrale e periferica; B) per il personale medico di ruolo degli istituti universitari di igiene e microbiologia; C) per i candidati in possesso del diploma di specializzazione in: igiene, igiene e medicina scolastica, igiene e tecnica ospedaliera, scienza dell'alimentazione, microbiologia, medicina del lavoro, malattie infettive, medici laboratoristi.
 
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.
+Art. 130. - il numero massimo degli iscritti e' di venticinque per ogni anno di corso (totale settantacinque iscritti).
 
-Il numero massimo degli allievi e' di quindici per anno di corso e complessivamente di sessanta iscritti per l'intero corso di studi.
-
-L'ammissione al corso avviene per titoli ed esami.
-
-Le materie di insegnamento sono le seguenti:
+Art. 131. - Il programma di insegnamento e' il seguente:
 
 1° Anno:
 
-1) metodologia del rapporto medico-paziente (annuale);
+Metodologia statistica e biometria;
 
-2) psicologia (annuale);
+Educazione sanitaria;
 
-3) elementi di genetica e biochimica (annuale);
+Psicologia;
 
-4) struttura e funzioni integrative del SNC (annuale);
+Microbiologia;
 
-5) neurologia clinica (annuale);
+Parassitologia;
 
-6) clinica psichiatrica I (quadriennale).
+Epidemiologia e profilassi generale.
 
 2° Anno:
 
-1) psicopatologia e psicodinamica (annuale);
+Patologia e clinica delle malattie infettive;
 
-2) psicoterapia I (triennale);
+Epidemiologia e profilassi delle malattie infettive;
 
-3) psicofarmacologia (annuale);
+Patologia e clinica delle malattie non infettive di importanza sociale;
 
-4) psicofarmacoterapia (annuale);
+Demografia e statistica sanitaria;
 
-5) clinica psichiatrica II (quadriennale).
+Legislazione e organizzazione sanitaria.
 
-3° Anno:
+3° Anno (con orientamento di sanita' pubblica):
 
-1) psicodiagnostica ed informatica psichiatrica (annuale);
+Approvvigionamento idrico, raccolta e smaltimenti dei rifiuti liquidi e solidi, inquinamenti atmosferici;
 
-2) psichiatria sociale I (biennale);
+Igiene edilizia e urbanistica;
 
-3) psichiatria infantile (annuale);
+Igiene dell'alimentazione;
 
-4) psicoterapia II (triennale);
+Igiene e medicina scolastica;
 
-5) clinica psichiatrica III (quadriennale).
+Igiene ospitaliera;
 
-4° Anno:
+Servizi di sanita' pubblica.
 
-1) psicosomatica (annuale);
+3° Anno (con orientamento di laboratorio):
 
-2) psichiatria sociale II (triennale);
+Microscopia applicata all'igiene;
 
-3) psichiatria forense (annuale);
+Microbiologia applicata all'igiene;
 
-4) psicoterapia III (triennale);
+Chimica clinica;
 
-5) clinica psichiatrica IV (quadriennale).
+Accertamento diagnostico delle malattie batteriche e parassitarie;
 
-Note esplicative.
+Accertamento diagnostico delle infezioni virali;
 
-1) Strutture e funzioni integrative del SNC: tale materia, annuale, e' comprensiva della anatomofisiologia del SNC e della psicofisiologia.
+Nozioni di anatomia e istologia patologica.
 
-2) Neurologia clinica: tale insegnamento, annuale, deve essere comprensivo, eventualmente con sottodivisioni, di cenni di anatomia patologica del SNC, di semeiologia neurologica, clinica e strumentale, di neuroradiologia.
+3° Anno (con orientamento di igiene e direzione ospitaliera):
 
-3) Clinica psichiatrica: tale materia, quadriennale, e' comprensiva anche degli elementi di semeiotica psichiatrica, delle tecniche laboratoristiche, delle terapie biologiche.
+Storia degli ospedali e principi metodologici della assistenza ospitaliera; - Igiene e tecnica delle costruzioni ospitaliere, arredamento ed impianti sanitari;
 
-4) Psicoterapia: tale materia, triennale, comprende e considera nel corso dei tre anni, le tecniche e i principi fondamentali delle principali psicoterapie individuali, direttive e non direttive, i principi fondamentali e le dinamiche delle piu' importanti psicoterapie di gruppo, delle prassi psicoterapiche, socioterapiche e delle sociodinamiche delle istituzioni psichiatriche.
+Organizzazione e funzione degli ospedali generali e speciali;
 
-5) Psicodiagnostica ed informatica psichiatrica: tale materia, annuale, e' comprensiva di cenni di statistica, dei reattivi mentali e psicodiagnostica strumentale e di metodologia della ricerca psichiatrica.
+Diritto amministrativo e legislazione ospitaliera;
 
-6) Psichiatria sociale: tale materia, biennale, con molte possibilita' di suddivisioni, e' comprensiva di elementi di sociologia, di antropologia culturale, di etologia, di ecologia psichiatrica, di epidemiologia psichiatrica, di psichiatria transculturale, di psichiatria preventiva e di igiene mentale, prassi ed organizzazione di assistenza psichiatrica sul territorio extra istituzionale.
+Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospitaliera;
 
-7) Psicosomatica: tale materia, annuale, e' comprensiva degli aspetti psichici delle malattie somatiche della cosiddetta medicina integrata, della endocrinologia in riferimento alla psichiatria delle cosiddette specifiche malattie psicosomatiche.
+Selezione a istruzione professionale del personale ospitaliero;
 
-E' obbligatoria la frequenza per undici mesi all'anno; tale periodo comprende sia la frequenza alle lezioni, sia l'esercitazione pratica nei reparti di degenza e nelle strutture ambulatoriali a disposizione della scuola.
+Organizzazione e funzione dei laboratori di analisi e di accertamento necroscopico.
 
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove d'esame.
+3° Anno (con ordinamento di igiene e medicina scolastica):
 
-La scuola programma lo svolgimento dei corsi di insegnamento.
+Auxologia normale e patologica;
 
-Per il passaggio agli anni successivi e' obbligatorio il superamento degli esami per ogni singolo anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
+Epidemiologia e profilassi delle malattie dell'eta' scolare;
 
-Le lezioni teoriche sono integrate da seminari anche interdisciplinari, da documentazioni cliniche e da esperienze effettuate nei vari settori della disciplina.
+Servizi di medicina scolastica;
 
-Alla fine dei quattro anni gli allievi che hanno frequentato i corsi saranno ammessi all'esame di diploma, consistente nella presentazione e discussione di una tesi scritta di argomento pertinente alla psichiatria, in una prova orale e in una prova pratica.
+Elementi di psicologia e pedagogia per l'eta' scolare;
 
-Agli allievi che hanno ottenuto l'approvazione nell'esame di diploma verra' rilasciato il diploma di specializzazione in psichiatria valido a tutti gli effetti di legge.
+Igiene dell'alimentazione;
+
+Assistenza parascolastica;
+
+Edilizia scolastica.
+
+Art. 32. - Le materie complementari, una per anno a scelta dell'iscritto sono le seguenti:
+
+Ispezione delle carni;
+
+Geologia applicata all'igiene;
+
+Igiene mentale;
+
+Malattie professionali e loro prevenzione;
+
+Diritto sanitario;
+
+Igiene navale e dell'emigrazione;
+
+Antropologia culturale e sociologica;
+
+Malattie tropicali;
+
+Istituzioni di matematica;
+
+Genetica;
+
+Gerontologia e geriatria;
+
+Elementi di economia politica.
+
+Art. 133. - Gli esami di profitto si svolgono al termine di ogni anno di corso.
+
+Art. 134. - Per il diploma l'iscritto preparera' una dissertazione scritta su argomento concordato col direttore della scuola. Tale dissertazione sara' discussa davanti alla commissione di diploma; seguira' un esame pratico su argomento della scuola.
+
+Gli articoli da 197 a 203 relativi alla scuola di specializzazione in igiene e medicina scolastica sono soppressi.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 17 maggio 1979
+Dato a Roma, addi' 30 ottobre 1969
 
-PERTINI
+SARAGAT
 
-SPADOLINI
+FERRARI AGGRADI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: GAVA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 23 agosto 1979 Registro n. 65 Istruzione, foglio n. 46
+alla Corte dei conti, addi' 24 dicembre 1969 Atti del Governo, registro n. 230, foglio n. 170. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-L'art. 134, relativo alla scuola di specializzazione in psichiatria, e' soppresso e sostituito dal seguente:  
   
-Scuola di specializzazione in psichiatria  
-Art. 134. - La scuola di specializzazione in psichiatria ha sede presso la clinica psichiatrica e conferisce il diploma di specialista in psichiatria.  
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.  
-Il numero massimo degli allievi e' di quindici per anno di corso e complessivamente di sessanta iscritti per l'intero corso di studi.  
-L'ammissione al corso avviene per titoli ed esami.  
-Le materie di insegnamento sono le seguenti:  
+gli articoli da 129 a 134 relativi alla scuola di specializzazione in igiene che muta denominazione in quella di igiene e medicina preventiva, sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in igiene e medicina preventiva  
+  
+Art. 129. - La scuola di specializzazione in igiene e medicina preventiva e' articolata in quattro orientamenti: a) Sanita' pubblica; b) Laboratorio; c) Igiene e direzione ospedaliera; d) Igiene e medicina scolastica.  
+Il corso della scuola ha la durata di tre anni.  
+Sono ammessi, previo esame di ammissione, i laureati in medicina e chirurgia.  
+Sono previste decurtazioni di un anno: A) per il personale medico di ruolo della amministrazione sanitaria centrale e periferica; B) per il personale medico di ruolo degli istituti universitari di igiene e microbiologia; C) per i candidati in possesso del diploma di specializzazione in: igiene, igiene e medicina scolastica, igiene e tecnica ospedaliera, scienza dell'alimentazione, microbiologia, medicina del lavoro, malattie infettive, medici laboratoristi.  
+Art. 130. - il numero massimo degli iscritti e' di venticinque per ogni anno di corso (totale settantacinque iscritti).  
+Art. 131. - Il programma di insegnamento e' il seguente:  
 1° Anno:  
-1) metodologia del rapporto medico-paziente (annuale);  
-2) psicologia (annuale);  
-3) elementi di genetica e biochimica (annuale);  
-4) struttura e funzioni integrative del SNC (annuale);  
-5) neurologia clinica (annuale);  
-6) clinica psichiatrica I (quadriennale).  
+Metodologia statistica e biometria;  
+Educazione sanitaria;  
+Psicologia;  
+Microbiologia;  
+Parassitologia;  
+Epidemiologia e profilassi generale.  
 2° Anno:  
-1) psicopatologia e psicodinamica (annuale);  
-2) psicoterapia I (triennale);  
-3) psicofarmacologia (annuale);  
-4) psicofarmacoterapia (annuale);  
-5) clinica psichiatrica II (quadriennale).  
-3° Anno:  
-1) psicodiagnostica ed informatica psichiatrica (annuale);  
-2) psichiatria sociale I (biennale);  
-3) psichiatria infantile (annuale);  
-4) psicoterapia II (triennale);  
-5) clinica psichiatrica III (quadriennale).  
-4° Anno:  
-1) psicosomatica (annuale);  
-2) psichiatria sociale II (triennale);  
-3) psichiatria forense (annuale);  
-4) psicoterapia III (triennale);  
-5) clinica psichiatrica IV (quadriennale).  
-Note esplicative.  
-1) Strutture e funzioni integrative del SNC: tale materia, annuale, e' comprensiva della anatomofisiologia del SNC e della psicofisiologia.  
-2) Neurologia clinica: tale insegnamento, annuale, deve essere comprensivo, eventualmente con sottodivisioni, di cenni di anatomia patologica del SNC, di semeiologia neurologica, clinica e strumentale, di neuroradiologia.  
-3) Clinica psichiatrica: tale materia, quadriennale, e' comprensiva anche degli elementi di semeiotica psichiatrica, delle tecniche laboratoristiche, delle terapie biologiche.  
-4) Psicoterapia: tale materia, triennale, comprende e considera nel corso dei tre anni, le tecniche e i principi fondamentali delle principali psicoterapie individuali, direttive e non direttive, i principi fondamentali e le dinamiche delle piu' importanti psicoterapie di gruppo, delle prassi psicoterapiche, socioterapiche e delle sociodinamiche delle istituzioni psichiatriche.  
-5) Psicodiagnostica ed informatica psichiatrica: tale materia, annuale, e' comprensiva di cenni di statistica, dei reattivi mentali e psicodiagnostica strumentale e di metodologia della ricerca psichiatrica.  
-6) Psichiatria sociale: tale materia, biennale, con molte possibilita' di suddivisioni, e' comprensiva di elementi di sociologia, di antropologia culturale, di etologia, di ecologia psichiatrica, di epidemiologia psichiatrica, di psichiatria transculturale, di psichiatria preventiva e di igiene mentale, prassi ed organizzazione di assistenza psichiatrica sul territorio extra istituzionale.  
-7) Psicosomatica: tale materia, annuale, e' comprensiva degli aspetti psichici delle malattie somatiche della cosiddetta medicina integrata, della endocrinologia in riferimento alla psichiatria delle cosiddette specifiche malattie psicosomatiche.  
-E' obbligatoria la frequenza per undici mesi all'anno; tale periodo comprende sia la frequenza alle lezioni, sia l'esercitazione pratica nei reparti di degenza e nelle strutture ambulatoriali a disposizione della scuola.  
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove d'esame.  
-La scuola programma lo svolgimento dei corsi di insegnamento.  
-Per il passaggio agli anni successivi e' obbligatorio il superamento degli esami per ogni singolo anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.  
-Le lezioni teoriche sono integrate da seminari anche interdisciplinari, da documentazioni cliniche e da esperienze effettuate nei vari settori della disciplina.  
-Alla fine dei quattro anni gli allievi che hanno frequentato i corsi saranno ammessi all'esame di diploma, consistente nella presentazione e discussione di una tesi scritta di argomento pertinente alla psichiatria, in una prova orale e in una prova pratica.  
-Agli allievi che hanno ottenuto l'approvazione nell'esame di diploma verra' rilasciato il diploma di specializzazione in psichiatria valido a tutti gli effetti di legge.  
+Patologia e clinica delle malattie infettive;  
+Epidemiologia e profilassi delle malattie infettive;  
+Patologia e clinica delle malattie non infettive di importanza sociale;  
+Demografia e statistica sanitaria;  
+Legislazione e organizzazione sanitaria.  
+3° Anno (con orientamento di sanita' pubblica):  
+Approvvigionamento idrico, raccolta e smaltimenti dei rifiuti liquidi e solidi, inquinamenti atmosferici;  
+Igiene edilizia e urbanistica;  
+Igiene dell'alimentazione;  
+Igiene e medicina scolastica;  
+Igiene ospitaliera;  
+Servizi di sanita' pubblica.  
+3° Anno (con orientamento di laboratorio):  
+Microscopia applicata all'igiene;  
+Microbiologia applicata all'igiene;  
+Chimica clinica;  
+Accertamento diagnostico delle malattie batteriche e parassitarie;  
+Accertamento diagnostico delle infezioni virali;  
+Nozioni di anatomia e istologia patologica.  
+3° Anno (con orientamento di igiene e direzione ospitaliera):  
+Storia degli ospedali e principi metodologici della assistenza ospitaliera; - Igiene e tecnica delle costruzioni ospitaliere, arredamento ed impianti sanitari;  
+Organizzazione e funzione degli ospedali generali e speciali;  
+Diritto amministrativo e legislazione ospitaliera;  
+Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospitaliera;  
+Selezione a istruzione professionale del personale ospitaliero;  
+Organizzazione e funzione dei laboratori di analisi e di accertamento necroscopico.  
+3° Anno (con ordinamento di igiene e medicina scolastica):  
+Auxologia normale e patologica;  
+Epidemiologia e profilassi delle malattie dell'eta' scolare;  
+Servizi di medicina scolastica;  
+Elementi di psicologia e pedagogia per l'eta' scolare;  
+Igiene dell'alimentazione;  
+Assistenza parascolastica;  
+Edilizia scolastica.  
+Art. 32. - Le materie complementari, una per anno a scelta dell'iscritto sono le seguenti:  
+Ispezione delle carni;  
+Geologia applicata all'igiene;  
+Igiene mentale;  
+Malattie professionali e loro prevenzione;  
+Diritto sanitario;  
+Igiene navale e dell'emigrazione;  
+Antropologia culturale e sociologica;  
+Malattie tropicali;  
+Istituzioni di matematica;  
+Genetica;  
+Gerontologia e geriatria;  
+Elementi di economia politica.  
+Art. 133. - Gli esami di profitto si svolgono al termine di ogni anno di corso.  
+Art. 134. - Per il diploma l'iscritto preparera' una dissertazione scritta su argomento concordato col direttore della scuola. Tale dissertazione sara' discussa davanti alla commissione di diploma; seguira' un esame pratico su argomento della scuola.  
+Gli articoli da 197 a 203 relativi alla scuola di specializzazione in igiene e medicina scolastica sono soppressi.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 17 maggio 1979
+### Dato a Roma, addi' 30 ottobre 1969
 
-PERTINI SPADOLINI
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 23 agosto 1979
+Registrato alla Corte dei conti, addi' 24 dicembre 1969
 
-Registro n. 65 Istruzione, foglio n. 46
+Atti del Governo, registro n. 230, foglio n. 170. - CARUSO

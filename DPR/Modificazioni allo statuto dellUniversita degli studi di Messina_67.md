@@ -1,142 +1,115 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1964 n. 1244
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 755
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1964 n. 1244
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 755
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923), e modificato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
+
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della Pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Messina approvato con [regio decreto 20 aprile 1939, numero 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090) e modificato con [regio decreto 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905) e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Vista la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 51, relativo agli Istituti annessi alla Facolta' di scienze matematiche, fisiche e naturali e' abrogato e sostituito dal seguente:  
-Gli Istituti della Facolta' sono i seguenti:  
-a) Seminario chimico;  
-b) 1) Istituto di chimica generale;  
-2) Istituto di fisica;  
-3) Istituto di botanica;  
-4) Istituto e museo di zoologia ed anatomia comparata;  
-5) Istituto di idrobiologia e pescicoltura;  
-6) Istituto di mineralogia e petrografia;  
-7) Istituto geofisico e geodetico;  
-8) Istituto di geografia ed oceanografia;  
-9) Istituto di matematica;  
-10) Istituto di geologia;  
-11) Istituito di disegno;  
-12) Istituto di fisiologia generale;  
-13) Istituto di chimica analitica;  
-14) Istituto di antropologia;  
-15) Istituto di microbiologia;  
-16) Istituto di chimica organica;  
-17) Istituto di chimica fisica.  
-Dopo l'art. 51 e' aggiunto il seguente nuovo articolo relativo alle norme riguardanti il Seminario chimico con il conseguente spostamento della successiva numerazione.  
-Art. 52. - Il Seminario chimico della Facolta' di scienze ha lo scopo di diffondere la cultura chimica di promuovere studi di ricerche nel campo della chimica pura ed applicata e di impartire ad allievi particolarmente distintisi nello studio e nella ricerca una preparazione supplementare atta alla completa valorizzazione delle loro capacita'.  
-L'attivita' del suddetto Seminario consiste in esercitazioni, ricerche, conferenze, discussioni, comunicazioni scientifiche, viaggi di istruzione, corsi di preparazione e di aggiornamento ecc. ed in quanto altro possa servire allo scopo indicato Al Seminario chimico appartengono i professori ufficiali di Chimica della Facolta' di scienze, i quali annualmente propongono al rettore la nomina di un Consiglio di quattro membri ed un direttore scelto questo ultimo fra i professori di ruolo appartenenti al Seminario.  
-L'iscrizione al Seminario e' consigliata per gli studenti del triennio di applicazione dei corsi per le lauree in Chimica; (possono iscriversi anche gli studenti di altre Facolta) nonche' i laureati e diplomati ed i laureandi fuori corso.  
-A tutti gli iscritti e' fatto obbligo di versare contributi che vengono stabiliti dal Consiglio di amministrazione su proposta del Senato accademico, udito il Consiglio del seminario.  
-Il Seminario chimico ha una propria biblioteca ed una raccolta di materiale didattico.  
-Il Consiglio del seminario delibera di anno in anno gli acquisti nuovi.  
-Esso nomina nel suo seno un bibliotecario al quale e' affidata la sorveglianza sul materiale didattico e sui prestiti. Il bibliotecario resta in carica due anni ed e' rieleggibile. Egli e' coadiuvato dagli assistenti degli Istituti chimici. Il Seminario chimico pubblica, quando i fondi lo consentono, un bollettino, sotto la direzione di un Comitato di redazione. Agli iscritti al Seminario puo' venire rilasciato un attestato degli studi compiuti e del profitto dimostrato.  
-L'art. 54, relativo al corso di laurea in Chimica, e' abrogato e sostituito dal seguente:  
-Art. 54. - La durata del corso degli studi per la laurea in Chimica e' di cinque anni divisi in un biennio di studi propedeutici ed in un triennio di studi di applicazione.  
-E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica. Possono, inoltre, essere ammessi i diplomati degli Istituti tecnici industriali, agrari, nautici e per geometri, ai sensi delle vigenti disposizioni di legge.  
-Per il biennio di studi propedeutici sono insegnamenti fondamentali:  
-1) Istituzioni di matematiche (biennale)  
-2) Chimica generale ed inorganica (biennale)  
-3) Chimica organica (biennale);  
-4) Chimica analitica;  
-5) Fisica sperimentale (biennale)  
-6) Mineralogia con esercitazioni pratiche (corso special, per chimici)  
-7) Esercitazioni di matematiche (biennale)  
-8) Esercitazioni di preparazioni chimiche;  
-9) Esercitazioni di disegno di elementi di macchine;  
-10) Esercitazioni di analisi chimica qualitativa  
-11) Esercitazioni di fisica sperimentale.  
-Il triennio di studi di applicazione ha due diversi indirizzi: organico-biologico e inorganico-chimico-fisico. Sono insegnamenti fondamentali comuni ai due indirizzi:  
-1) Chimica fisica (biennale)  
-2) Esercitazioni di analisi chimica quantitativa;  
-3) Esercitazioni di chimica fisica (biennale);  
-4) Esercitazioni di chimica organica e di analisi organica;  
-5) Esercitazioni di preparazioni chimiche ovvero di analisi chimica applicata (a scelta dello studente).  
-Sono insegnamenti complementari per l'indirizzo organico-biologico:  
-1) Chimica organica generale;  
-2) Chimica organica applicata;  
-3) Esercitazioni di tecniche e sintesi speciali organiche;  
-(\*) 4) Chimica agraria;  
-5) Chimica delle sostanze organiche naturali;  
-6) Complementi di chimica organica;  
-7) Chimica delle macromolecole;  
-8) Elettrochimica organica con esercitazioni;  
-9) Biochimica applicata;  
-(\*) 10) Chimica biologica;  
-11) Fisiologia generale (corso annuale speciale per chimici);  
-(\*) 12) Chimica organica industriale;  
-13) Microchimica preparativa;  
-14) Scienza dell'alimentazione;  
-15) Spettroscopia molecolare;  
-16) Chimica delle sostanze naturali;  
-17) Chimica bromatologica;  
-18) Fotochimica;  
-19) Tecnologie chimiche speciali;  
-20) Chimica farmaceutica organica;  
-21) Chimica merceologica;  
-(\*) 22) Farmacologia.  
-Sono insegnamenti complementari per l'indirizzo inorganico-chimico-fisico:  
-1) Chimica teorica;  
-2) Chimica inorganica superiore;  
-(\*) 3) Elettrochimica;  
-4) Strutturistica chimica  
-5) Complementi di chimica generale inorganica;  
-6) Chimica analitica strumentale;  
-7) Scienza dei metalli;  
-8) Geochimica (corso per chimici);  
-9) Chimica inorganica applicata;  
-10) Radiochimica;  
-11) Misure elettriche (corso per chimici)  
-(\*) 12) Spettroscopia;  
-13) Chimica fisica dello stato solido;  
-14) Chimica fisica tecnica;  
-15) Chimica colloidale e delle interfasi;  
-16) Chimica isotopica;  
-17) Chimica degli alti polimeri;  
-18) Cristallochimica inorganica;  
-19) Cinetica chimica  
-20) Chimica dei composti di coordinazione ed elemento-organici;  
-21) Chimica merceologica.  
-Per ottenere l'iscrizione al triennio di applicazione lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fissati per il biennio di studi propedeutici.  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali prescritti per il triennio di applicazione e almeno in sette da lui scelti tra i complementari del gruppo seguito.  
-Gli insegnamenti complementari che per ciascuno dei due indirizzi del triennio di applicazione sono segnati con asterisco (\*) s'intendono consigliati in via preferenziale. Tuttavia ove lo studente intenda scegliere per l'indirizzo prescelto uno o piu' insegnamenti complementari diversi dai predetti deve, all'atto della iscrizione al primo anno degli studi di applicazione, chiederne convalida alla Facolta'.  
-La scelta fatta in tal modo e' impegnativa e non puo' subire comunque variazioni durante il corso degli studi.  
-L'art. 60, relativo al corso di laurea in Chimica, e' abrogato e sostituito dal seguente:  
-Art. 60. - Lo studente del corso di laurea in Chimica, deve osservare negli esami e nella frequenza dei laboratori, l'ordine di precedenza sotto indicato:  
-1) Istituzioni di Matematica per la fisica sperimentale;  
-2) Chimica generale I o Esercitazioni di preparazioni chimiche per la frequenza alle Esercitazioni di analisi chimica qualitativa.  
+Dopo l'art. 186, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in igiene mentale:  
+Art. 187. - E' istituita presso l'Universita' di Messina la scuola di specializzazione in igiene mentale che conferisce il diploma di specialista in igiene mentale.  
+Art. 188. - La direzione della scuola ha sede presso la cattedra di igiene mentale sita al policlinico universitario di Messina.  
+Art. 189. - La scuola ha lo scopo di formare i medici operatori sul territorio nell'ottica della prevenzione e del recupero del disturbo psichico con metodologie diverse da quella di tipo solamente assistenziale-curativo, modello in uso della psichiatria tradizionale.  
+Art. 190. - La durata del corso e' di quattro anni e non e' suscettibile di abbreviazioni.  
+Art. 191. - Il numero degli iscritti e' di nove per ogni anno e complessivamente di trentasei per l'intero corso di studi.  
+Art. 192. - Alla scuola sono ammessi solo i laureati in medicina e chirurgia, in possesso del diploma di abilitazione all'esercizio professionale.  
+Art. 193. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:  
+a) la tesi nella disciplina attinente alla specializzazione;  
+b) il voto di laurea;  
+c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;  
+d) le pubblicazioni nelle predette materie.  
+Il punteggio dei predetti titoli e' quello stabilito dal decreto ministeriale del 16 settembre 1982.  
+Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo riportato.  
+Art. 194. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1) fisiopatologia clinica del sistema nervoso;  
+2) psicologia medica;  
+3) legislazione sanitaria;  
+4) igiene mentale generale;  
+5) psicologia dinamica;  
+6) semeiotica psichiatrica e psicoigienica;  
+7) psicoterapia I.  
+2° Anno:  
+1) psicopedagogia;  
+2) psicodiagnostica;  
+3) neuropsichiatria infantile;  
+4) clinica psichiatrica I;  
+5) psicosomatica clinica;  
+6) igiene mentale dell'eta' evolutiva;  
+7) psicoterapia II.  
+3° Anno:  
+1) psicologia sociale e del lavoro;  
+2) clinica psichiatrica II;  
+3) igiene mentale dell'eta' adulta;  
+4) psichiatria sociale;  
+5) prevenzione psichiatrica I;  
+6) igiene mentale sociale;  
+7) psicoterapia III.  
+4° Anno:  
+1) igiene mentale geriatrica;  
+2) prevenzione psichiatrica II;  
+3) farmacoterapia;  
+4) demografia, statistica medica e metodologia epidemiologica psichiatrica;  
+5) igiene mentale nelle devianze;  
+6) psichiatria forense;  
+7) psicoterapia IV.  
+Tutte le discipline di insegnamento afferiscono alla facolta' di medicina e chirurgia. La materia di insegnamento di psicopedagogia afferisce anche alla facolta' di magistero.  
+Art. 195. - La frequenza ai corsi e' obbligatoria. Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione d'esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso. Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.  
+Art. 196. - Lo specializzando dovra' frequentare obbligatoriamente le attivita' didattiche, consistenti in lezioni teoriche e teorico-pratiche, seminari, gruppi di studio, gruppi di ricerca ed esercitazioni pratiche nei reparti di degenza e nelle strutture ambulatoriali a disposizione della scuola che verranno espletate a giorni alterni nel corso della settimana, secondo un calendario prestabilito dal consiglio della scuola medesima.  
+Ai fini della frequenza e delle attivita' pratiche e' riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitarie attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.  
+Art. 197. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio della scuola di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso.  
+A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.  
+Art. 198. - L'importo delle tasse e sopratasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.  
+Art. 199. - Per ciascuna scuola di specializzazione, anche se comprendente piu' indirizzi, e' costituito un unico consiglio presieduto da un direttore.  
+Il consiglio e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate le attivita' didattiche nella scuola nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).  
+Il consiglio esercita le competenze spettanti ai sensi dell'art. 194 del decreto del Presidente della Repubblica n. 382 al consiglio di corso di laurea in materia di coordinamento di insegnamenti.  
+La direzione della scuola e' affidata a professore ordinario o straordinario, che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegna nella scuola medesima.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 ottobre 1964
+### Dato a Roma, addi' 28 ottobre 1983
 
-Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA GUI
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 24 novembre 1964
+Registrato alla Corte dei conti, addi' 27 dicembre 1983
 
-Atti del Governo, registro n. 188, foglio n. 114. - VILLA
+Registro n. 80 Istruzione, foglio n. 22

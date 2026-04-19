@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1986 n. 888
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 febbraio 1981 n. 187
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1986 n. 888
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 febbraio 1981 n. 187
+===============================================================
 
 Autorizzazione ad accettare un legato a favore dello Stato.
 -----------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-888. Decreto del Presidente della Repubblica 4 giugno 1986, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato del legato, consistente in una collezione composta di ventiquattro esemplari in maiolica e un bronzetto, i quali rivestono un interesse artistico e storico, da destinare al Museo nazionale del Bargello, in Firenze, disposto dalla sig.ra Buschka Diamondstein ved. Manenti con testamento olografo 3 settembre 1981, pubblicato in data 11 febbraio 1982, n. 2383 di repertorio, a rogito dott.ssa Lucia Niccolai, notaio in Firenze, registrato a Firenze in data 19 febbraio 1982 al n. 2109.   
+187. Decreto del Presidente della Repubblica 13 febbraio 1981, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato del legato, consistente in un dipinto ad olio su tela raffigurante la "Carita'" attribuibile a scuola emiliana del XVI secolo, il quale riveste un importante interesse artistico e storico, disposto dalla sig.ra Lina Marzari con testamento olografo 12 maggio 1968, pubblicato in data 23 gennaio 1978, n. 376 di repertorio, a rogito dott. Luigi Rossi, notaio in Bologna, da destinare alla Pinacoteca nazionale di Bologna.  
   
-Visto, il Guardasigilli: ROGNONI   
-Registrato alla Corte dei conti, addi' 15 dicembre 1986   
-Registro n. 35 Beni culturali, foglio n. 36
+Visto, il Guardasigilli: SARTI  
+Registrato alla Corte dei conti, addi' 28 aprile 1981  
+Registro n. 8 Beni culturali, foglio n. 397

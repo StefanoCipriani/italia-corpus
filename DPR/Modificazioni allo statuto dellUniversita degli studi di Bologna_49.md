@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 febbraio 1958 n. 591
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1970 n. 318
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 febbraio 1958 n. 591
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1970 n. 318
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
@@ -12,12 +12,12 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -25,23 +25,49 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 38. - Agli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti i seguenti:  
   
-Statistica economica;  
-Diritto della navigazione;  
-Organizzazione aziendale;  
-Storia delle dottrine economiche.  
+Art. 52. - All'elenco degli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti quelli di:  
+Diritto tributario;  
+Geografia applicata.  
+  
+Art. 64. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti quelli di:  
+Storia della lingua latina;  
+Filologia italiana;  
+Storia contemporanea;  
+Storia delle religioni;  
+Storia della lingua greca;  
+Estetica;  
+Filmologia;  
+Semitistica.  
+Nello stesso elenco l'insegnamento di "Ebraico e lingue semitiche comparate" e' soppresso.  
+  
+Art. 65. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti quelli di:  
+Storia contemporanea;  
+Storia delle religioni;  
+Filmologia.  
+  
+Art. 70. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne sono aggiunti quelli di:  
+Storia della letteratura ispano-americana;  
+Semitistica;  
+Filmologia.  
+Nello stesso elenco l'insegnamento di "Ebraico e lingue semitiche comparate" e' soppresso.  
+Presso la facolta' di scienze matematiche, fisiche e naturali la denominazione del corso di Specializzazione di "Tecniche radioisotopiche e di protezione dalle radiazioni" e' cambiata in quella di "Radioprotezione e tecniche radioisotopiche".  
+  
+Art. 281. - All'elenco degli insegnamenti impartiti nel predetto corso di specializzazione e' aggiunto quello di "Legislazione di radioprotezione".  
+  
+Art. 523, relativo alla scuola di perfezionamento per tecnici fisioterapisti (scuola diretta a fini speciali) e' modificato nel senso che il punto A e' abrogato e sostituito dal seguente:  
+"Al corso possono essere ammessi annualmente venti allievi".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 febbraio 1958
+### Dato a Roma, addi' 7 febbraio 1970
 
-GRONCHI MORO
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 17 giugno 1958
+Registrato alla Corte dei conti, addi' 21 maggio 1970
 
-Atti del Governo, registro n. 112, foglio n. 196. - RELLEVA
+Atti del Governo, registro n. 235, foglio n. 114. - CARUSO

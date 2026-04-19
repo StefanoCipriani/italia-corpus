@@ -1,63 +1,87 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1977 n. 1072
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 1161
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1977 n. 1072
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 1161
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+Veduto lo statuto dell'Universita' di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Parma e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Parma e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Gli articoli 205, 206, 207, 208, relativi alla scuola di specializzazione in dermatologia e venereologia di cui al [decreto del Presidente della Repubblica 31 ottobre 1979, n. 979](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1979-10-31;979), sono soppressi e sostituiti dai seguenti:  
   
-Decreta:   
+Scuola di specializzazione in dermatologia e venereologia  
   
-Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 84 - all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di:   
-oftalmologia pediatrica.   
-Art. 87 - all'elenco degli istituti annessi alla facolta' di medicina, e chirurgia e' aggiunto il seguente:   
-istituto policattedra di clinica medica II e nefrologia medica.   
-Lo stesso elenco e' modificato nel senso che l'istituto di clinica oculistica muta la denominazione in quella di istituto policattedra di oftalmologia.   
-L'art. 137, relativo alle propedeuticita' degli esami per il corso di laurea in farmacia e' modificato nel senso che sono aggiunti i seguenti commi:   
+Art. 205. - La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazioni.  
+Art. 206. - Il numero massimo degli allievi e' di dieci per anno di corso e complessivamente di trenta iscritti per l'intero corso di studi.  
+Art. 207. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1) anatomia e istologia normale della cute;  
+2) fisiologia della cute e degli annessi;  
+3) anatomia e fisiologia dell'apparato genitale;  
+4) microbiologia e parassitologia applicate;  
+5) tecniche di laboratorio applicate alla disciplina;  
+6) semeiotica dermatologica e venereologica.  
+2° Anno:  
+1) patologia delle malattie cutanee;  
+2) patologia delle infezioni veneree;  
+3) istopatologia e citologia dermatologica e venereologica;  
+4) immunopatologia cutanea;  
+5) dermatologia allergologica e professionale;  
+6) angiologia;  
+7) sessuologia.  
+3° Anno:  
+1) clinica delle malattie cutanee;  
+2) clinica delle infezioni veneree;  
+3) dermatologia pediatrica;  
+4) farmacologia e terapia;  
+5) fisioterapia dermatologica;  
+6) cosmetologia;  
+7) chirurgia plastica riparatrice;  
+8) igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.  
+Art. 208. - Il corso di lezioni deve essere impartito mediante almeno cinquanta lezioni annuali, comprensive delle varie materie e la frequenza giornaliera degli iscritti non deve essere inferiore alle quattro ore effettive per tutta la durata dell'anno accademico.  
+Gli specializzandi avranno percio' obblighi di frequenza obbligatoria ai fini di apprendimento onde seguire i corsi di lezioni e svolgere contemporaneamente frequenza obbligatoria ai fini di apprendimento nelle corsie, negli ambulatori e nei laboratori.  
+Gli esami di profitto verranno sostenuti in due sessioni.  
   
-Lo studente non puo' iscriversi al laboratorio del primo corso di esercitazioni di chimica farmaceutica e tossicologica se non ha superato l'esame di chimica generale ed inorganica; pertanto non puo' ottenere l'attestazione di frequenza del suddetto corso.   
-Lo studente non puo' iscriversi al laboratorio del terzo corso di esercitazioni di chimica farmaceutica e tossicologica se non ha superato l'esame di chimica organica; pertanto non puo' ottenere l'attestazione di frequenza del suddetto corso.   
-L'art. 139, relativo agli istituti, annessi alla facolta' di farmacia, e' abrogato e sostituito dal seguente:   
-Alla facolta' di farmacia e' annesso l'istituto di chimica farmaceutica e tossicologica suddiviso nelle seguenti sezioni e laboratori:   
-1) sezione sintesi farmaceutica;   
-2) sezione analisi farmaceutica, con annesso laboratorio di microanalisi elementare organica;   
-3) sezione chimica-fisica farmaceutica, con annesso laboratorio di calorimetria applicata;   
-4) sezione farmaceutica applicata, con annesso laboratorio microbiologico;   
-5) sezione tecnica farmaceutica, con annesso laboratorio tecnologico;   
-6) sezione farmaco-biologica.   
-La facolta' ha una biblioteca centrale per tutti gli insegnamenti riservata ai docenti ed agli studenti dell'Universita' di Parma, secondo le norme fissate dalla facolta'.   
-La biblioteca ha un direttore nominato ogni due anni dal rettore, su proposta della facolta', fra i professori di ruolo e fuori ruolo; il direttore sovraintende alla biblioteca e la amministra a nome e per delega della facolta', secondo le norme da questa fissate.   
-Alla biblioteca e' assegnata una sede, una dotazione sui fondi dell'Universita', contributi dello Stato e degli studenti.   
-L'art. 140, relativo all'ordinamento, degli studi per il corso di laurea in chimica e tecnologia farmaceutiche, e' modificato nel senso che dopo il primo comma successivo all'elenco degli insegnamenti complementari sono aggiunti i seguenti due commi:   
-  
-Lo studente non puo' iscriversi al laboratorio del primo corso di analisi chimico-farmaceutica se non ha superato l'esame di chimica generale ed inorganica; pertanto non puo' ottenere l'attestazione di frequenza del suddetto corso.   
-Lo studente non puo' iscriversi al laboratorio del terzo corso di analisi chimico-farmaceutica se non ha superato l'esame di chimica organica I; pertanto non puo' ottenere l'attestazione di frequenza del suddetto corso.   
-  
-Il presente decreto, munito del sigillo dello stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 7 ottobre 1977   
-  
-LEONE   
-  
-MALFATTI   
-  
-Visto, il Guardasigilli: BONIFACIO   
-Registrato alla Corte dei conti, addi' 31 gennaio 1978   
-Registro n. 12 Istruzione, foglio n. 373   
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Dato a Roma, addi' 22 settembre 1981
+
+PERTINI BODRATO
+
+Visto, il Guardasigilli: DARIDA
+
+Registrato alla Corte dei conti, addi' 10 agosto 1982
+
+Registro n. 99 Istruzione, foglio n. 174

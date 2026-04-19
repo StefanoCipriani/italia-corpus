@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1986 n. 1111
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 873
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1986 n. 1111
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 873
+==============================================================
 
 Modificazioni allo statuto del Politecnico di Torino.
 -----------------------------------------------------
@@ -10,25 +10,25 @@ Modificazioni allo statuto del Politecnico di Torino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Visto lo statuto del Politecnico di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e successive modificazioni;
+Veduto lo statuto del Politecnico di Torino, approvato con [decreto del Presidente della Repubblica 31 ottobre 1973, n. 1145](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-10-31;1145), e modificato con [decreto del Presidente della Repubblica 31 ottobre 1981, n. 1024](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-10-31;1024), e successive modificazioni;
 
-Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi dell'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Visto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Visto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vista la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Visto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
 
-Visto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
 
-Viste le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche del Politecnico di Torino;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici del Politecnico di Torino e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
 
-Udito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio universitario nazionale;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
@@ -41,77 +41,201 @@ Art. 1
 ------
 
   
-Al titolo V, dopo l'art. 36-bis, relativo alla normativa generale per le scuole dirette a fini speciali, e' inserito il seguente:  
-Art. 37 (Scuola di scienze e arti della stampa).  
+  
+L'art. 49, relativo alle norme generali delle scuole di perfezionamento, e' sostituito dal seguente.   
+  
+TITOLO Visto   
+SCUOLE DI SPECIALIZZAZIONE   
+Norme generali   
+  
+Art. 49 - Le scuole di specializzazione hanno lo scopo di svolgere con piu' larga base e approfondimento gli studi riguardanti un particolare ramo dell'ingegneria in modo da formare laureati dotati di qualifica di specialista; e inoltre hanno lo scopo di concorrere a perfezionare le discipline come richiesto dal progresso tecnico.   
+A tutte le scuole di specializzazione possono di norma essere iscritti soltanto coloro che hanno compiuto il corso di studi di ingegneria e conseguita una laurea in ingegneria, salvo le disposizioni speciali previste per le singole scuole negli articoli seguenti.   
+Possono inoltre essere iscritti i laureati presso Universita' straniere che siano in possesso di un titolo di studio universitario giudicato equipollente, ai sensi dell'[art. 332 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art332), a quelli richiesti nel comma precedente.   
+Non e' ammessa l'iscrizione contemporanea a due o piu' scuole, ne' ad una scuola e ad un corso di dottorato di ricerca.   
+Per l'ammissione ad una scuola e' richiesto il superamento di un esame consistente in una prova scritta, intesa ad accertare la cultura generale nell'area di specializzazione, integrata eventualmente da un colloquio e/o da una prova pratica, e dalla valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:   
+a) la tesi nella disciplina attinente la specializzazione;   
+b) il voto di laurea;   
+c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;   
+d) le pubblicazioni nelle predette materie.   
+La ripartizione del punteggio fra i predetti titoli e' quella stabilita dal decreto del Ministro della pubblica istruzione del 16 settembre 1982.   
+I candidati devono inoltre dare prova di una buona conoscenza strumentale di almeno una lingua straniera tra quelle indicate nel bando.   
+Sono ammessi alle scuole di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nella graduatoria compilata sulla base del punteggio complessivo riportato.   
+L'eventuale differenza fra il totale degli iscrivibili previsto per ciascuna scuola ed il corrispondente numero di posti effettivamente banditi puo' essere destinata a concorrenti di cittadinanza straniera.   
+Le specifiche modalita' di ammissione dei cittadini stranieri vengono pubblicate nei singoli bandi di concorso.   
+La commissione per l'esame di ammissione e' costituita da cinque professori di ruolo designati dal consiglio della scuola. Nel caso di convenzione con enti pubblici o privati, che preveda, a carico di questi ultimi, la concessione di borse per frequentare la scuola, la commissione puo' essere integrata da un docente o cultore di materie attinenti alla scuola, quale rappresentante degli enti erogatori.   
+La frequenza ai corsi e' obbligatoria. Gli iscritti a ciascuna scuola devono frequentare le materie di insegnamento previste osservando le condizioni di frequenza, sia alle lezioni, sia alle attivita' pratiche, nonche' sottoporsi agli accertamenti come e' precisato nel manifesto annuale di ciascuna scuola.   
+Il calendario dei corsi di studio e delle attivita' pratiche e' stabilito, anno per anno, dal consiglio della scuola, nel monte ore previsto dall'ordinamento di ogni singola scuola.   
+I corsi possono articolarsi in cicli di lezioni, seminari e moduli di formazione, nell'ambito delle leggi vigenti.   
+Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo.   
+La commissione di esame, di cui fanno parte il direttore della scuola e i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione del candidato verificando la sua competenza nelle singole discipline e la sua capacita' nelle relative attivita' pratiche per l'anno di corso.  
+Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.   
+Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio delle scuole di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso. che dimostri la preparazione scientifica e le capacita' operative collegate alla specifica professionalita'.   
+A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.   
+L'importo delle tasse e soprattasse dovute dagli iscritti alle scuole e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.   
+Sono organi della scuola il direttore ed il consiglio della scuola.  
+Il direttore ha la rappresentanza della scuola. E' un professore di ruolo, di norma ordinario (ai sensi dell'[art. 16 del decreto del Presidente della Repubblica n. 382/80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;382~art16)), eletto, con voto segreto e con le modalita' previste nell'[art. 94 del decreto del Presidente della Repubblica n. 382/80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;382~art94), dal consiglio della scuola; convoca il consiglio della scuola e lo presiede; ha, nell'ambito della conduzione della scuola, le funzioni proprie dei presidenti di consiglio di corso di laurea.   
+Il direttore promuove, per la stipula attraverso il consiglio di amministrazione ed il rettore, le convenzioni per lo svolgimento delle attivita' di formazione. Per la gestione dei fondi a disposizione della scuola si applicano le norme dettate per gli istituti dal regolamento per l'amministrazione e la contabilita' generale dell'Universita'. Il direttore dura in carica tre anni ed e' rieleggibile.   
+Il consiglio della scuola e' composto dai docenti universitari di ruolo e dai professori a contratto, previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99). Il consiglio esercita le competenze spettanti, ai sensi dell'[art. 94 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art94), al consiglio di corso di laurea in materia di coordinamento di insegnamenti.   
 
 Art. 2
 ------
 
   
-Il primo comma dell'art. 2 del decreto del Presidente della Repubblica 17 maggio 1986 (in corso di registrazione) di modifica allo statuto del Politecnico e' cosi' riformulato:  
-"Dopo l'art. 37 e' inserito il, seguente art. 38, relativo all'istituzione della scuola diretta a Fini speciali per esperti della produzione industriale".  
+  
+L'art. 62, relativo al corso di specializzazione nella motorizzazione, che muta denominazione in scuola di specializzazione in motorizzazione, e' soppresso e sostituito dal seguente che assume la numerazione sottoindicata:   
+Scuola di specializzazione in motorizzazione   
+Art. 50 - La scuola di specializzazione in motorizzazione ha la durata di due anni e conferisce il diploma di specialista in motorizzazione in una delle seguenti sezioni:   
+automezzi da trasporto, sottosezione autoveicoli;   
+automezzi da trasporto, sottosezione motori;   
+macchine agricole e movimento terra;   
+produzione automobilistica.   
+Il numero degli iscritti e' al massimo di trenta per ogni anno e complessivamente di sessanta al massimo per l'intero corso di studi.   
+Al funzionamento della scuola concorrono i dipartimenti e gli istituti dell'ateneo interessati.   
+Le materie di insegnamento, che afferiscono tutte alla facolta' di ingegneria, sono le seguenti, di cui quelle contrassegnate con un punto sono opzionali:   
+Sezione automezzi da trasporto, sottosezione autoveicoli.   
+1° Anno:   
+costruzioni automobilistiche;   
+meccanica dell'autoveicolo;   
+motori termici per trazione;   
+progetto degli elementi dell'autotelaio;   
+progetto delle carrozzerie;   
+-calcolo numerico e programmazione;   
+-costruzione di materiale ferroviario;   
+-costruzione di strade, ferrovie ed aeroporti;   
+-normativa e omologazione degli automezzi;   
+-progetto dei motori dell'autoveicolo;   
+-sistematica suolo-veicolo;   
+-tecnica del traffico e della circolazione;   
+tecnica ed economia dei trasporti.   
+2° Anno.   
+costruzione e tecnologia della gomma e del pneumatico;   
+sistemi elettrici ed elettronici dell'autoveicolo;   
+sperimentazione e affidabilita' dell'autoveicolo;   
+tecnologie speciali dell'autoveicolo;   
+-acustica applicata;   
+-aerodinamica;   
+-calcolo strutturale;   
+-complementi di matematica;   
+-complementi di tecnica ed economia dei trasporti;   
+-esercizio del materiale e degli impianti ferroviari;   
+-fluidodinamica;   
+-locomozione fuori strada;   
+-matematica applicata;   
+-meccanica delle vibrazioni;   
+-meccanica superiore per ingegneri;   
+-progettazione meccanica con l'ausilio del calcolatore.   
+Sezione automezzi da trasporto, sottosezione motori.   
+1° Anno:   
+costruzioni automobilistiche;   
+motori termici per trazione;   
+sperimentazione sulle macchine a fluido;   
+tecnologie speciali dell'autoveicolo;   
+-calcolo numerico e programmazione;   
+-elementi di elettronica;   
+-fluidodinamica;   
+-macchine II;   
+-matematica applicata;   
+-meccanica dell'autoveicolo;   
+-meccanica delle vibrazioni;   
+-meccanica superiore per ingegneri;   
+-normativa e omologazione degli automezzi;   
+-regolazioni automatiche;   
+-tecnica del traffico e della circolazione;   
+-tecnica ed economia dei trasporti;   
+-tecnologie aeronautiche.   
+2° Anno:   
+progetto dei motori dell'autoveicolo;   
+sistemi elettrici ed elettronici dell'autoveicolo;   
+sperimentazione e affidabilita' dell'autoveicolo;   
+-acustica applicata;   
+-chimica fisica;   
+-complementi di tecnica ed economia dei trasporti;   
+costruzione di materiale ferroviario;   
+-costruzione e tecnologia della gomma e del pneumatico;   
+-fluidodinamica delle turbomacchine;   
+-gasdinamica;   
+-misure termiche e regolazioni;   
+-oleodinamica e pneumatica;   
+-principi di ingegneria chimica;   
+-progettazione meccanica con l'ausilio del calcolatore.   
+Sezione macchine agricole e movimento terra.   
+1° Anno:   
+macchine agricole;   
+macchine movimento terra;   
+motori termici per trazione;   
+sistematica suolo-veicolo;   
+tecnologie speciali dell'autoveicolo;   
+-calcolo numerico e programmazione;   
+-corrosione e protezione dei materiali metallici;   
+-macchine II;   
+-meccanica dell'autoveicolo;   
+-meccanica delle vibrazioni;   
+-normativa e omologazione degli automezzi;   
+-oleodinamica e pneumatica.   
+2° Anno:   
+costruzione e tecnologia della gomma e del pneumatico;   
+il trattore agricolo;   
+locomozione fuori strada;   
+sperimentazione e affidabilita' dell'autoveicolo;   
+-acustica applicata;   
+-calcolo strutturale;   
+-matematica applicata;   
+-misure termiche e regolazioni;   
+-progettazione meccanica con l'ausilio del calcolatore;   
+-progetto dei motori dell'autoveicolo;   
+-sistemi elettrici ed elettronici dell'autoveicolo.   
+Sezione produzione automobilistica.   
+1° Anno:   
+attrezzature di produzione;   
+costruzioni automobilistiche;   
+impianti meccanici;   
+tecnologia dei materiali metallici;   
+tecnologie speciali dell'autoveicolo;   
+-elementi di elettronica;   
+-impieghi costruttivi e tecnologie delle materie plastiche;   
+-lavorazioni non convenzionali;   
+-macchine utensili;   
+-marketing;   
+-meccanica dei robot;   
+-metallurgia fisica;   
+-oleodinamica e pneumatica;   
+-regolazioni automatiche;   
+-sistemi elettrici ed elettronici dell'autoveicolo;   
+-tecnica dei sistemi numerici;   
+-tecnica delle costruzioni industriali;   
+-tecnologie aeronautiche.   
+2° Anno:   
+costruzione e tecnologia della gomma e del pneumatico;   
+impianti meccanici II;   
+sperimentazione e affidabilita' dell'autoveicolo;   
+-automazione;   
+-controlli automatici;   
+-controllo della qualita';   
+-corrosione e protezione dei materiali metallici;   
+-disciplina giuridica delle attivita' tecnico-ingegneristiche;   
+-gestione e controllo della produzione;   
+-lavorazione per deformazione plastica;   
+-manutenibilita' ed affidabilita' degli impianti industriali;   
+-pianificazione aziendale e tecniche informative;   
+-progetto delle carrozzerie;   
+-programmazione e controllo della produzione;   
+-ricerca operativa;   
+-tecnica della sicurezza ambientale;   
+-tecnologia meccanica II.   
+Il consiglio della scuola indichera' annualmente nell'apposito manifesto le sezioni e i relativi insegnamenti opzionali attivati o attivabili.   
+L'iscritto dovra' frequentare tutte le materie non opzionali della sezione prescelta piu' alcune materie opzionali scelte in modo che siano congruenti con il curriculum degli studi dello specializzando, e in numero tale che il totale delle materie da frequentare sia di almeno sei per anno accademico. In ogni caso, il numero minimo di ore di insegnamento e quello di ore per attivita' pratiche guidate e' complessivamente di 600 per anno accademico.   
+In casi particolari, per esigenze di coordinamento, il consiglio della scuola puo' trasferire un insegnamento dal primo al secondo anno, e viceversa.   
+  
 
-Art. 3
-------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-  
-Nel secondo comma dell'art. 2 del citato decreto del Presidente della Repubblica 17 maggio 1986, l'art. 49 (scuola diretta a fini speciali per esperti della produzione industriale) muta in art. 38, con conseguente spostamento della numerazione degli articoli successivi dello statuto.  
-Gli articoli da 39 a 48 del titolo V dello statuto vigente sono soppressi e sostituiti dai seguenti, con il conseguente spostamento della numerazione degli articoli successivi.  
-Art. 37 (Scuola di scienze e arti della stampa). - E' istituita presso il Politecnico di Torino la scuola diretta a fini speciali di scienze e arti della stampa.  
-La direzione della scuola ha sede presso il Politecnico di Torino - Castello del Valentino - Viale Mattioli, 39 - Torino.  
-La scuola, che promuove la ricerca e le scienze applicate nell'arte della stampa, ha il compito di preparare personale esperto destinato all'industria grafica con una specifica professionalita' in tale ambito, anche con l'utilizzazione di moderne tecnologie per la trasmissione dell'informazione e la composizione elettronica dei testi.  
-La durata del corso e' di tre anni e non e' suscettibile di abbreviazioni.  
-Ciascun anno prevede non meno di trecentocinquanta ore di insegnamento teorico e non meno di trecentocinquanta ore di esercitazioni pratiche ivi compresi brevi periodi di studio guidato.  
-Concorrono alla costituzione della scuola le facolta' di architettura e di ingegneria del Politecnico cui afferiscono gli insegnamenti e tutti i dipartimenti interessati alla scuola stessa.  
-Il numero degli studenti che possono essere iscritti alla scuola e' complessivamente di centoventi per l'intero corso di studi: tale numero puo' essere incrementato del 10% da riservare a personale appartenente ad enti pubblici che operino nel settore cui afferisce la scuola e che siano convenzionati con il Politecnico di Torino anche per l'utilizzazione di strutture extra-universitarie ai fini dello svolgimento di attivita' didattiche.  
-Per l'ammissione al primo anno di corso potranno essere accolti quaranta studenti al massimo, salvo che sussista la possibilita' di incremento di cui al precedente comma; qualora il numero degli aspiranti sia superiore a tale numero massimo, l'ammissione avverra' attraverso una graduatoria stabilita secondo le norme di cui all'articolo precedente.  
-Alla scuola sono ammessi i diplomati degli istituti di istruzione secondaria di secondo grado, secondo le disposizioni vigenti per l'ammissione ai vari corsi di laurea.  
-Tutti gli insegnamenti della scuola hanno durata annuale. Ad ogni insegnamento sono assegnate non meno di tre ore settimanali di lezione e per un periodo didattico non inferiore a venti settimane.  
-L'inizio dei corsi viene fissato nel manifesto annuale della scuola.  
-Le materie di insegnamento sono le seguenti:  
-  
-Primo anno:  
-matematica;  
-fisica applicata nel campo della stampa;  
-disegno;  
-chimica merceologica;  
-elementi di elettronica e di informatica;  
-tipologia generale nel campo della stampa.  
-  
-Secondo anno:  
-informatica applicata e telematica;  
-storia della scrittura e della stampa;  
-fototecnologia e formatura nel campo della stampa;  
-tecniche della composizione dei testi per la stampa;  
-tecniche di stampa e di allestimento degli stampati;  
-studio degli stampati.  
-  
-Terzo anno:  
-tecniche dei sistemi integrati nel campo della stampa;  
-tecniche editoriali;  
-analisi, controlli e standardizzazioni dei procedimenti di stampa;  
-applicazioni giuridiche nel campo delle comunicazioni;  
-impianti industriali ed igiene del lavoro nel campo della stampa; economia e tecnica aziendale nel campo della stampa.  
-  
-Nei tre anni di corso sono prescritte esercitazioni a carattere professionale, anche interdisciplinare; l'insieme di tali esercitazioni e' coordinato dai docenti titolari dei corsi cui si riferiscono dette esercitazioni.  
-Le esercitazioni si completano al terzo anno con un tirocinio obbligatorio presso industrie del settore, convenzionate col Politecnico e sotto la guida e la responsabilita' dei docenti stessi.  
-Per essere ammessi a frequentare il secondo anno di corso gli iscritti devono aver ottenuto le attestazioni di frequenza in tutte le materie del primo anno e superato almeno tre esami.  
-Per essere ammessi a frequentare il terzo anno gli studenti devono aver ottenuto le attestazioni di frequenza in tutte le materie del secondo anno ed aver superato complessivamente almeno sette esami del primo e secondo anno.  
-Per essere ammessi a sostenere l'esame finale di diploma, consistente nella redazione di una monografia o altro elaborato su argomento assegnato da un docente della scuola scelto dal candidato e nella relativa discussione, gli iscritti dovranno aver superato gli esami di tutti gli insegnamenti prescritti e svolto con risultato positivo i periodi di tirocinio.  
-Agli iscritti che avranno superato l'esame finale di diploma viene rilasciato il diploma di "esperto in scienze ed arti della stampa".  
-  
-
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### Dato a Roma, addi' 4 ottobre 1986
+### Dato a Roma, addi' 31 ottobre 1985
 
 COSSIGA
 
-FALCUCCI, Ministro della pubblica istruzione
+FALCUCCI, Ministro della pubblica istruzione Visto il Guardasigilli: MARTINAZZOLI
 
-Visto, il Guardasigilli: ROGNONI
+Registrato alla Corte dei conti, addi' 21 gennaio 1986
 
-Registrato alla Corte dei conti, addi' 29 maggio 1987
-
-Registro n. 32 Istruzione, foglio n. 49
+Registro n. 2 Istruzione, foglio n. 120

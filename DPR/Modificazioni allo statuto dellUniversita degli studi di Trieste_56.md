@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1110
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 ottobre 1979 n. 633
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1110
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 ottobre 1979 n. 633
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Trieste approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,62 +18,111 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati del Consiglio universitario nazionale nel suo parere;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sulla
+-----
 
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+proposta del Ministro della pubblica istruzione; Decreta:
 
 Art. 1
 ------
 
   
-Nell'art. 90, relativo al corso di laurea in farmacia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-farmacia veterinaria;  
-tossicologia e controllo degli inquinamenti;  
-analisi biologiche;  
-farmacognosia;  
-farmacologia applicata;  
-tossicologia.  
+Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+"La scuola di specializzazione in ematologia generale di cui al [decreto del Presidente della Repubblica 27 ottobre 1978, n. 946](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-10-27;946), muta la denominazione in quella di scuola di specializzazione in ematologia generale (clinica e laboratorio)".  
 
 Art. 2
 ------
 
   
-L'art. 91 e' soppresso e sostituito dal seguente:  
-Art. 91. - Il corso biennale di chimica farmaceutica e tossicologica ed il corso triennale di esercitazioni di chimica farmaceutica e tossicologica comportano esami distinti alla fine di ciascun anno.  
-Gli studenti non possono sostenere l'esame di:  
-a) esercitazioni di chimica farmaceutica e tossicologica (primo anno) se non hanno superato l'esame di chimica generale ed inorganica;  
-b) esercitazioni di chimica farmaceutica e tossicologica (secondo anno) se non hanno superato l'esame di chimica organica;  
-c) chimica organica se non hanno superato l'esame di chimica generale ed inorganica;  
-d) chimica biologica se non hanno superato l'esame di chimica organica e di fisica;  
-e) chimica farmaceutica e tossicologica (primo e secondo anno) se non hanno superato l'esame di chimica organica;  
-f) fisiologia generale se non hanno superato l'esame di anatomia umana e di chimica biologica;  
-g) farmacologia se non hanno superato l'esame di fisiologia generale;  
-h) tecnica e legislazione farmaceutica se non hanno superato l'esame di farmacologia.  
-Taluni corsi possono essere mutuati da altre facolta'.  
-  
+Dopo l'art. 171, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in ortognatodonzia.  
+Scuola di specializzazione in ortognatodonzia  
+Art. 172. - La scuola di specializzazione in ortognatodonzia ha sede presso l'istituto di clinica odontoiatrica e stomatologica dell'Universita' degli studi di Trieste.  
+La durata del corso di studi per il conseguimento diploma di specialista in ortognatodonzia e' di tre anni e non e' suscettibile di abbreviazioni.  
+La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.  
+Il numero degli iscritti, distribuiti nel tre anni di corso, e' di diciotto (sei per anno di corso).  
+Art. 173. - Le materie di insegnamento sono le seguenti:  
+1) embriologia e anatomia dell'apparato stomatognatico;  
+2) fisiologia dell'apparato stomatognatico;  
+3) farmacologia clinica;  
+4) patologia odontostomatologica;  
+5) chirurgia odontostomatologica;  
+6) odontoiatria conservativa;  
+7) radiologia odontostomatologica;  
+8) stomatologia preventiva;  
+9) ortognatodonzia;  
+10) odontotecnica;  
+11) semeiotica ortognatodontica;  
+12) cefalometria clinica;  
+13) pedodonzia;  
+14) metallurgia e merceologia in ortognatodonzia;  
+15) pediatria auxologica applicata;  
+16) parodontologia;  
+17) chirurgia ortognatodontica;  
+18) genetica applicata;  
+19) statistica applicata alla ricerca scientifica;  
+20) medicina legale e delle assicurazioni in odontostomatologia; esercitazioni cliniche, di laboratorio e di cefalometria.  
+La didattica del primo anno di corso e' particolarmente dedicata alla preparazione stomatologica di base, essenziale alla formazione dello specialista in ortognatodonzia.  
+Suddivisione delle materie di insegnamento dei tre anni di corso:  
+1° Anno:  
+1) embriologia e anatomia dell'apparato stomatognatico;  
+2) fisiologia dell'apparato stomatognatico (1° anno biennale);  
+3) farmacologia clinica;  
+4) patologia odontostomatologica;  
+5) chirurgia odontostomatologica;  
+6) odontoiatria conservativa;  
+7) radiologia odontostomatologica;  
+8) stomatologia preventiva;  
+9) ortognatodonzia (1° anno triennale);  
+10) odontotecnica;  
+esercitazioni cliniche;  
+esercitazioni di laboratorio.  
+2° Anno:  
+1) fisiologia dell'apparato stomatognatico (2° anno biennale);  
+2) semeiotica ortognatodontica;  
+3) ortognatodonzia (2° anno triennale);  
+4) cefalometria clinica (1° anno biennale);  
+5) pedodonzia;  
+6) metallurgia e merceologia in ortognatodonzia;  
+7) pediatria auxologica applicata;  
+8) parodontologia;  
+esercitazioni cliniche;  
+esercitazioni di laboratorio.  
+3° Anno:  
+1) ortognatodonzia (3° anno triennale);  
+2) cefalometria clinica (2° anno biennale);  
+3) chirurgia ortognatodontica;  
+4) genetica applicata;  
+5) statistica applicata alla ricerca scientifica;  
+6) medicina legale e delle assicurazioni in odontostomatologia; esercitazioni cliniche;  
+esercitazioni di laboratorio;  
+esercitazioni di cefalometria clinica.  
+Ogni iscritto deve provvedere al corredo personale di strumenti.  
+I corsi sono integrati da seminari su argomenti di interesse interdisciplinare.  
+Art. 174. - Al termine di ciascun anno di corso gli allievi devono sostenere un esame di profitto teorico e pratico sulle materie che sono state oggetto di insegnamenti dinanzi ad una apposita commissione di almeno tre membri e presieduta dal direttore della scuola.  
+Per il conseguimento del diploma di specialista in ortognatodonzia l'allievo deve sostenere, dinanzi ad una apposita commissione di sette membri e presieduta dal direttore della scuola, la discussione di una tesi scritta.  
+Le tasse, soprattasse e contributi della scuola di specializzazione in ortognatodonzia sono cosi' fissati:
+
+|  |  |
+| --- | --- |
+| 1° anno | Anni successivi |
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1981
+### Dato a Roma, addi' 9 ottobre 1979
 
-PERTINI BODRATO
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 10 marzo 1982
+Registrato alla Corte dei conti, addi' 13 dicembre 1979
 
-Registro n. 38 Istruzione, foglio n. 272
+Registro n. 96 Istruzione, foglio n. 187

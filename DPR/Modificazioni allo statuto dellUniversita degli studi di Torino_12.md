@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1222
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1985 n. 214
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1222
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1985 n. 214
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
@@ -14,7 +14,7 @@ Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ot
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella legge. 2 gennaio 1936, n. 73;
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
@@ -35,41 +35,40 @@ Decreta:
 
 Lo statuto dell'Universita' di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 1
-------
+Articolo unico
+--------------
 
   
-Art. 78 - il primo comma dell'art. 78, relativo al corso di laurea in fisica, e' soppresso e sostituito dal seguente nuovo comma:  
-Art. 78. - Sono insegnamenti fondamentali obbligatori a tutti gli indirizzi, per quel che riguarda il primo biennio, i seguenti:  
-1) fisica generale I;  
-2) analisi matematica I;  
-3) geometria I;  
-4) esperimentazioni fisica I;  
-5) fisica generale II;  
-6) analisi matematica II;  
-7) meccanica razionale;  
-8) chimica con esercitazioni di laboratorio (per fisici);  
-9) esperimentazioni fisica II.  
-E' soppresso, inoltre, l'ultimo comma dello stesso art. 78 e sostituito dal seguente nuovo comma:  
-"I corsi 4, 8, 9 comprendono esercitazioni sperimentali che gli studenti eseguiranno in laboratorio e comportano un esame finale".  
-
-Art. 2
-------
-
-  
-Art. 80 - il primo comma dell'art. 80 relativo al numero degli esami da sostenere per il corso di laurea in fisica e' soppresso e sostituito dal seguente nuovo comma:  
-"Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami dei diciotto insegnamenti di cui agli articoli precedenti".  
+Nell'art. 47, relativo al corso di laurea in materie letterarie della facolta' di magistero, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
+stilistica e metrica italiana;  
+museografia.  
+Nell'art. 48, relativo al corso di laurea in pedagogia della facolta' di magistero, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
+metodologia e didattica;  
+storia dell'educazione e delle istituzioni scolastiche;  
+educazione degli adulti;  
+sociologia dell'organizzazione;  
+sociologia economica;  
+etnologia;  
+psicologia dei processi cognitivi.  
+Nell'art. 49, relativo al corso di laurea in lingue e letterature straniere della facolta' di magistero, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
+storia della lingua russa;  
+letteratura francese moderna e contemporanea;  
+letteratura inglese moderna e contemporanea;  
+letteratura tedesca moderna e contemporanea;  
+letteratura spagnola moderna e contemporanea.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1983
+### Dato a Roma, addi' 10 gennaio 1985
 
-PERTINI FALCUCCI
+PERTINI
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 28 aprile 1984
+Registrato alla Corte dei conti, addi' 20 maggio 1985
 
-Registro n. 25 Istruzione, foglio n. 177
+Registro n. 33 Istruzione, foglio n. 71

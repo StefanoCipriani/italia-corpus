@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1984 n. 316
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1986 n. 242
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1984 n. 316
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1986 n. 242
+==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
@@ -14,7 +14,7 @@ Veduto lo statuto dell'Universita' di Palermo, approvato con [regio decreto 14 o
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella legge. 2 gennaio 1936, n. 73;
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
@@ -39,18 +39,21 @@ Articolo unico
 --------------
 
   
-Art. 27 - nell'elenco degli insegnamenti complementari del corso di laurea in economia e commercio e' incluso l'insegnamento di "dottrina generale del processo".  
+Nell'art. 27, relativo al corso di laurea in economia e commercio, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+economia e politica industriale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 marzo 1984
+### Dato a Roma, addi' 28 gennaio 1986
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 26 giugno 1984
+Registrato alla Corte dei conti, addi' 19 maggio 1986
 
-Registro n. 39 Istruzione, foglio n. 27
+Registro n. 39 Istruzione, foglio n. 164

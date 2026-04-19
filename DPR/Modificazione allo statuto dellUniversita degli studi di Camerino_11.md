@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 agosto 1983 n. 1017
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1983 n. 437
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 agosto 1983 n. 1017
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1983 n. 437
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Camerino.
 --------------------------------------------------------------------
@@ -33,25 +33,25 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' di Camerino, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Camerino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Nell'art. 42, relativo al corso di laurea in farmacia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-ultrastruttura della cellula.  
+Nell'art. 19, relativo al corso di laurea in scienze politiche, all'elenco degli insegnamenti complementari per l'indirizzo politico-amministrativo e' aggiunto il seguente nuovo insegnamento:  
+diritto del lavoro e legislazione sociale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 agosto 1983
+### Dato a Roma, addi' 17 maggio 1983
 
 PERTINI FALCUCCI
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 29 febbraio 1984
+Registrato alla Corte dei conti, addi' 17 agosto 1983
 
-Registro n. 13 Istruzione, foglio n. 79
+Registro n. 59 Istruzione, foglio n. 126

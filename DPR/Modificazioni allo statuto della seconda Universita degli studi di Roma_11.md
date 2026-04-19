@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1984 n. 503
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 707
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1984 n. 503
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 707
+================================================================
 
 Modificazioni allo statuto della seconda Universita' degli studi di Roma.
 -------------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto della seconda Universita' degli studi di Roma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto della seconda Universita' degli studi di Roma, approvato con [decreto del Presidente della Repubblica 29 ottobre 1980, n. 1137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-10-29;1137), e successive modificazioni;
+Veduto lo statuto della seconda Universita' degli studi di Roma, approvato con [regio decreto 29 ottobre 1980, n. 1137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1980-10-29;1137), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -24,7 +24,7 @@ Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http:
 
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici della seconda Universita' degli studi di Roma e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici della seconda Universita' degli studi di Roma e convalidati dal Consiglio universitario nazionale;
 
 Sentito il parere del Consiglio universitario nazionale;
 
@@ -33,83 +33,112 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto della seconda Universita' di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto della seconda Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Art. 54 - nell'elenco degli insegnamenti complementari del corso di laurea in matematica sono inserite le seguenti discipline: a) per l'indirizzo generale, b) per l'indirizzo didattico, c) per l'indirizzo applicativo:  
-equazioni differenziali alle derivate parziali;  
-processi aleatori;  
-teoria dei controlli;  
-algebra II;  
-algebra lineare;  
-algebra omologica;  
-analisi armonica;  
-analisi funzionale non lineare;  
-calcolo delle probabilita' II;  
-calcolo numerico;  
-calcolo delle variazioni;  
-complementi di algebra;  
-complementi di calcolo numerico;  
-geometria analitica;  
-informatica matematica applicata;  
-metodi della ricerca operativa;  
-operatori differenziali;  
-strutture algebriche;  
-teoria degli algoritmi e calcolabilita';  
-teoria degli automi;  
-teoria dell'ottimizzazione;  
-topologia algebrica;  
-topologia differenziale;  
-calcolo delle probabilita' e statistica.  
-Art. 55 - nella tabella delle propedeuticita' l'espressione: "non si puo' essere ammessi a sostenere l'esame di geometria II se non si e' superato l'esame di geometria I" e' modificata come segue: "non si puo' essere ammessi a sostenere l'esame di geometria II se non si e' superato l'esame di geometria I, algebra".  
-Art. 59 - il punto: "18) corso a scelta (tra quelli individuati dall'art. 54 nell'elenco delle materie complementari)", e' sostituito come segue: "18) corso a scelta (tra quelli individuati dalla lettera G nell'elenco degli insegnamenti complementari del successivo art. 60)".  
-Art. 60 - nell'elenco degli insegnamenti complementari del corso di laurea in fisica sono inseriti i seguenti insegnamenti, per gli indirizzi a fianco di ciascuno indicati (intendendo con G: indirizzo generale e con A:  
-indirizzo applicativo):  
-  
-GA difetti nei solidi;  
-GA fisica dei materiali amorfi;  
-GA fisica stellare;  
-GA proprieta' magnetiche della materia;  
-GA simulazione di sistemi fisici mediante calcolatore;  
-GA superconduttivita'.  
-Art. 61 - alla tabella delle propedeuticita' e' aggiunto quanto segue: "non si puo' essere ammessi a sostenere l'esame di meccanica razionale se non si e' superato l'esame di analisi matematica I, fisica generale I".  
-Art. 64 - nell'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono inseriti i seguenti insegnamenti:  
-acquacoltura;  
-biochimica fisica;  
-biologia di popolazioni;  
-biopolimeri;  
-chimica fisica biologica;  
-ecologia applicata;  
-embriologia molecolare;  
-metodi statistici in biologia;  
-biochimica cellulare;  
-ultrastrutture vegetali;  
-filogenesi vegetale;  
-epistemologia;  
-genetica ecologica;  
-genetica molecolare;  
-immunochimica;  
-immunogenetica;  
-istochimica e citochimica;  
-microbiologia generale;  
-palinologia;  
-primatologia.  
-Art. 66 - nella tabella delle propedeuticita' l'espressione: "non si puo' essere ammessi a sostenere l'esame di chimica organica se non si e' superato l'esame di Istituzioni di matematiche" e' modificata come segue:  
-"non si puo' essere ammessi a sostenere l'esame di chimica organica se non si e' superato l'esame di chimica generale ed inorganica, istituzioni di matematiche".  
+Art. 40 - nell'elenco degli insegnamenti complementari del corso di laurea in ingegneria civile sezione edile sono inseriti i seguenti insegnamenti:  
+affidabilita' e controllo di qualita';  
+analisi matematica III;  
+caratteri distributivi degli edifici;  
+consolidamento e adattamento degli edifici;  
+dinamica delle strutture;  
+fondamenti di economia;  
+instabilita' delle strutture;  
+istituzioni di chimica per ingegneria;  
+meccanica dei continui;  
+ottica;  
+plasticita';  
+progettazione architettonica;  
+progettazione urbana;  
+progetto con l'ausilio del calcolatore;  
+sperimentazione dei materiali e delle strutture;  
+strutture speciali;  
+tecnica delle fondazioni;  
+tecnica del restauro urbano;  
+tecnologia degli alti polimeri;  
+tecnologia dei materiali compositi;  
+termodinamica applicata;  
+trasmissione del calore.  
+Art. 41 - nell'elenco degli insegnamenti complementari del corso di laurea in ingegneria elettronica sono inseriti i seguenti insegnamenti:  
+applicazioni matematiche all'elettronica;  
+applicazioni operative dell'algebra e della teoria dei grafi;  
+automazione degli impianti;  
+automazione e organizzazione sanitaria;  
+biomeccanica;  
+progetto di circuiti a microonde;  
+circuiti integrati;  
+progetto con l'ausilio del calcolatore;  
+compatibilita' elettromagnetica;  
+complementi di geometria e di algebra;  
+conversione diretta dell'energia;  
+costruzioni elettroniche;  
+compilatori e sistemi operativi;  
+elaborazione dei dati biologici;  
+elaborazione di immagini;  
+elettroacustica;  
+elettrochimica;  
+elettronica biomedica;  
+elettronica industriale;  
+elettronica quantistica;  
+fisica atomica;  
+intelligenza artificiale;  
+metodologie di programmazione;  
+misure a microonde;  
+modelli di sistemi fisiologici;  
+modelli matematici;  
+ottica;  
+ottica e interazione;  
+progettazione automatica dei circuiti elettronici;  
+metodi circuitali per la microelettronica;  
+programmazione matematica;  
+robotica industriale;  
+sistemi di telecomunicazione;  
+sistemi elettroottici;  
+strumentazione biomedica;  
+strutture informative;  
+tecniche elettromagnetiche di diagnostica ambientale.  
+Nel medesimo elenco l'insegnamento di "elaborazione digitale dei segnali" cambia la denominazione in "elaborazione numerica dei segnali".  
+Art. 42 - nell'elenco degli insegnamenti complementari del corso di laurea in ingegneria meccanica sono inseriti i seguenti insegnamenti: affidabilita' e controllo di qualita';  
+controlli numerici;  
+automazione e organizzazione sanitaria;  
+biomeccanica;  
+chimica II;  
+combustione;  
+conversione diretta dell'energia;  
+elettroacustica;  
+elettronica quantistica;  
+fisica atomica;  
+impianti di potenza;  
+matematica applicata;  
+metallurgica fisica;  
+metallurgia strutturale;  
+metodi matematici per l'ingegneria;  
+modelli di sistemi fisiologici;  
+motori a combustione interna;  
+ottica;  
+progetto con l'ausilio del calcolatore;  
+robotica industriale;  
+strumentazione biomedica;  
+tecnologia degli alti polimeri;  
+tecnologia dei materiali compositi;  
+tecnologia dei materiali metallici;  
+termodinamica applicata;  
+trasmissione del calore;  
+turbomacchine.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 marzo 1984
+### Dato a Selva di Val Gardena, addi' 2 settembre 1983
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 8 agosto 1984
+Registrato alla Corte dei conti, addi' 14 dicembre 1983
 
-Registro n. 49 Istruzione, foglio n. 194
+Registro n. 76 Istruzione, foglio n. 306

@@ -1,19 +1,18 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1954 n. 907
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 maggio 1948 n. 966
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1954 n. 907
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 maggio 1948 n. 966
 =============================================================
 
-Autorizzazione al Collegio "Ghislieri" di Pavia ad accettare una donazione.
----------------------------------------------------------------------------
+Autorizzazione al Collegio Ghislieri di Pavia ad accettare una donazione.
+-------------------------------------------------------------------------
 
 Art. 1
 ------
 
 N.
 
-907. Decreto del Presidente della Repubblica 31 luglio 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, il Collegio "Ghislieri" di Pavia viene autorizzato ad accettare la donazione di n. 1250 azioni della Societa' Edison, con sede in Milano, costituenti un capitale nominale di L. 2.500.000, disposta in suo favore dall'Associazione alunni del Collegio Ghislieri, per l'istituzione, con la rendita del suddetto capitale, di una borsa per studi di perfezionamento da denominarsi "Borsa di perfezionamento Associazione alunni".  
+966. Decreto del Presidente della Repubblica 5 maggio 1948, col quale, sulla proposta del Ministro per la pubblica istruzione, il Collegio Ghislieri di Pavia viene autorizzato ad accettare la donazione della somma di L. 2.109.000, in titoli di Rendita italiana ed in buoni del Tesoro novennali 5%, disposta in suo favore dal dott. Piero Saronio, con atto pubblico in data 15 ottobre 1947, per l'istituzione di apposito fondo da intitolarsi "Fondo dott. Piero Saronio". Con le relative rendite sara' istituito presso il Collegio medesimo un posto di perfezionamento da assegnarsi ad un laureato che intenda perfezionarsi, presso l'Universita' di Pavia, in una delle discipline chimiche o, in mancanza, in una delle discipline morali o scientifiche.  
   
-Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 24 settembre 1954  
-Atti del Governo, registro n. 86, foglio n. 50. - CARLOMAGNO
+Visto, il Guardasigilli: GRASSI  
+Registrato alla Corte dei conti, addi' 28 giugno 1948

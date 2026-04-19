@@ -1,139 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1955 n. 778
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1971 n. 1178
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1955 n. 778
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1971 n. 1178
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 -------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [regio decreto 12 ottobre 1927, n. 2255](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-12;2255) e modificato con i [regi decreti 15 novembre 1928, n. 2606](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1928-11-15;2606); [31 ottobre 1929, n. 2400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1929-10-31;2400); [1 ottobre 1931, n. 1372](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1931-10-01;1372); [27 ottobre 1932, n. 2062](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1932-10-27;2062); [27 dicembre 1934, n. 2448](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-27;2448); [27 ottobre 1936, n. 2457](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-27;2457); [27 marzo 1939, numero 1296](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-03-27;1296); [9 maggio 1939, n. 1469](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-05-09;1469): [26 ottobre 1910, n. 2065](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1910-10-26;2065); [27 aprile 1942, n. 470](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-04-27;470); [5 settembre 1942, numero 1266, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-09-05;1266) [30 ottobre 1949, n. 1028](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1028); [18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964); [25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207); [10 febbraio 1953, n. 377](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;377), e [8 febbraio 1954, n. 402](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-02-08;402);
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 19. - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti quelli di:
-
-9) Diritto privato comparato;
-
-10) Diritto pubblico comparato;
-
-11) Storia delle dottrine e delle istituzioni politiche;
-
-12) Ordinamento delle comunita' europee.
-
-Dopo l'art. 23 sono aggiunti i seguenti nuovi articoli, relativi alla creazione di alcuni Istituti presso la Facolta' di giurisprudenza, con il conseguente spostamento della numerazione degli articoli successivi.
-
-Art. 24. - Appartengono alla Facolta' gli istituti e i Seminari seguenti:
-
-Istituto di diritto privato, comprendente i Seminari di diritto civile, diritto commerciale, diritto agrario;
-
-Istituto di diritto pubblico, comprendente i Seminari di diritto costituzionale, diritto amministrativo, diritto processuale civile e penale, diritto penale, diritto ecclesiastico, diritto internazionale e diritto del lavoro;
-
-Istituto di storia e filosofia del diritto, comprendente i Seminari di filosofia del diritto, storia del diritto italiano, storia del diritto romano, diritto romano e diritto comparato;
-
-Istituto di scienze economiche e statistiche, comprendente i Seminari di economia politica e statistica;
-
-Istituto di finanza pubblica, comprendente i Seminari di scienza delle finanze e diritto finanziario.
-
-Art. 25. - Gli Istituti ed i Seminari hanno per scopo l'addestramento dei giovani alle ricerche scientifiche ed il loro avviamento allo studio delle fonti e della letteratura delle varie discipline giuridiche ed economiche. I loro lavori consistono in esercitazioni, ricerche e dissertazioni.
-
-Art. 26. - I direttori degli Istituti sono nominati con le norme stabilite dall'art. 23 del regolamento generale universitario e dai regolamenti particolari che li riguardano e durano in carica tre anni.
-
-Il direttore e' assistito da un Consiglio direttivo composto dai professori di ruolo che impartiscono gli insegnamenti delle materie nell'ambito dell'Istituto.
-
-Art. 27. - Sono ammessi a frequentare i singoli Istituti e Seminari gli studenti della Facolta', nonche' gli studenti di altre Facolta', ed i laureati che, in base a regolare domanda, ne ottengano l'autorizzazione del direttore.
-
-Art. 28. - Gli Istituti di diritto privato, di diritto pubblico e di storia della filosofia del diritto, hanno Una biblioteca comune e del pari una biblioteca comune hanno gli Istituti di scienze economiche e statistiche e di finanza pubblica.
-
-Uno dei direttori degli Istituti giuridici sara' incaricato di anno in anno dal Consiglio di Facolta' a sovraintendere alla biblioteca comune e a coordinare il funzionamento degli Istituti stessi; del pari uno dei direttori dei due Istituti economico-finanziario, sara' incaricato di anno in anno dal Consiglio di Facolta' a sovraintendere alla biblioteca comune e a coordinare il funzionamento degli Istituti medesimi.
-
-Art. 30. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti quelli di:
-
-6) Puericoltura
-
-7) Medicina del lavoro;
-
-8) Tisiologia;
-
-9) Idrologia medica;
-
-10) Clinica ortopedica;
-
-11) Urologia.
-
-Art. 34. - Agli insegnamenti complementari del corso di laurea in scienze matematiche sono aggiunti quelli di:
-
-5) Topologia;
-
-6) Teoria delle funzioni.
-
-Art. 39. - Agli insegnamenti complementari del corso di laurea in matematica e fisica sono aggiunti quelli di:
-
-7) Calcolo delle probabilita';
-
-8) Fisica terrestre;
-
-9) Geodesia
-
-10) Astronomia.
-
-Art. 52. - Agli insegnamenti complementari del corso di laurea in scienze naturali e' aggiunto quello di:
-
-9) Geografia fisica.
-
-Art. 57. - Agli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti quelli di:
-
-9) Scienza dell'alimentazione;
-
-10) Entomologia agraria.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 19 luglio 1955
-
-GRONCHI
-
-Rossi
-
-Visto, il Guardasigilli: MORO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 29 agosto 1955 Atti del Governo, registro n. 92, foglio n. 118. - CARLOMAGNO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [regio decreto 12 ottobre 1927, n. 2255](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-12;2255) e modificato con i [regi decreti 15 novembre 1928, n. 2606](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1928-11-15;2606); [31 ottobre 1929, n. 2400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1929-10-31;2400); [1 ottobre 1931, n. 1372](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1931-10-01;1372); [27 ottobre 1932, n. 2062](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1932-10-27;2062); [27 dicembre 1934, n. 2448](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-27;2448); [27 ottobre 1936, n. 2457](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-27;2457); [27 marzo 1939, numero 1296](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-03-27;1296); [9 maggio 1939, n. 1469](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-05-09;1469): [26 ottobre 1910, n. 2065](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1910-10-26;2065); [27 aprile 1942, n. 470](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-04-27;470); [5 settembre 1942, numero 1266, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-09-05;1266) [30 ottobre 1949, n. 1028](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1028); [18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964); [25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207); [10 febbraio 1953, n. 377](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;377), e [8 febbraio 1954, n. 402](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-02-08;402);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -141,55 +24,50 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 19. - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti quelli di:  
-9) Diritto privato comparato;  
-10) Diritto pubblico comparato;  
-11) Storia delle dottrine e delle istituzioni politiche;  
-12) Ordinamento delle comunita' europee.  
-Dopo l'art. 23 sono aggiunti i seguenti nuovi articoli, relativi alla creazione di alcuni Istituti presso la Facolta' di giurisprudenza, con il conseguente spostamento della numerazione degli articoli successivi.  
-Art. 24. - Appartengono alla Facolta' gli istituti e i Seminari seguenti:  
-Istituto di diritto privato, comprendente i Seminari di diritto civile, diritto commerciale, diritto agrario;  
-Istituto di diritto pubblico, comprendente i Seminari di diritto costituzionale, diritto amministrativo, diritto processuale civile e penale, diritto penale, diritto ecclesiastico, diritto internazionale e diritto del lavoro;  
-Istituto di storia e filosofia del diritto, comprendente i Seminari di filosofia del diritto, storia del diritto italiano, storia del diritto romano, diritto romano e diritto comparato;  
-Istituto di scienze economiche e statistiche, comprendente i Seminari di economia politica e statistica;  
-Istituto di finanza pubblica, comprendente i Seminari di scienza delle finanze e diritto finanziario.  
-Art. 25. - Gli Istituti ed i Seminari hanno per scopo l'addestramento dei giovani alle ricerche scientifiche ed il loro avviamento allo studio delle fonti e della letteratura delle varie discipline giuridiche ed economiche. I loro lavori consistono in esercitazioni, ricerche e dissertazioni.  
-Art. 26. - I direttori degli Istituti sono nominati con le norme stabilite dall'art. 23 del regolamento generale universitario e dai regolamenti particolari che li riguardano e durano in carica tre anni.  
-Il direttore e' assistito da un Consiglio direttivo composto dai professori di ruolo che impartiscono gli insegnamenti delle materie nell'ambito dell'Istituto.  
-Art. 27. - Sono ammessi a frequentare i singoli Istituti e Seminari gli studenti della Facolta', nonche' gli studenti di altre Facolta', ed i laureati che, in base a regolare domanda, ne ottengano l'autorizzazione del direttore.  
-Art. 28. - Gli Istituti di diritto privato, di diritto pubblico e di storia della filosofia del diritto, hanno Una biblioteca comune e del pari una biblioteca comune hanno gli Istituti di scienze economiche e statistiche e di finanza pubblica.  
-Uno dei direttori degli Istituti giuridici sara' incaricato di anno in anno dal Consiglio di Facolta' a sovraintendere alla biblioteca comune e a coordinare il funzionamento degli Istituti stessi; del pari uno dei direttori dei due Istituti economico-finanziario, sara' incaricato di anno in anno dal Consiglio di Facolta' a sovraintendere alla biblioteca comune e a coordinare il funzionamento degli Istituti medesimi.  
-Art. 30. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti quelli di:  
-6) Puericoltura  
-7) Medicina del lavoro;  
-8) Tisiologia;  
-9) Idrologia medica;  
-10) Clinica ortopedica;  
-11) Urologia.  
-Art. 34. - Agli insegnamenti complementari del corso di laurea in scienze matematiche sono aggiunti quelli di:  
-5) Topologia;  
-6) Teoria delle funzioni.  
-Art. 39. - Agli insegnamenti complementari del corso di laurea in matematica e fisica sono aggiunti quelli di:  
-7) Calcolo delle probabilita';  
-8) Fisica terrestre;  
-9) Geodesia  
-10) Astronomia.  
-Art. 52. - Agli insegnamenti complementari del corso di laurea in scienze naturali e' aggiunto quello di:  
-9) Geografia fisica.  
-Art. 57. - Agli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti quelli di:  
-9) Scienza dell'alimentazione;  
-10) Entomologia agraria.  
+L'art. 94 relativo alla "Scuola di perfezionamento in ematologia" che muta la denominazione in quella di "Scuola di specializzazione in ematologia clinica e di laboratorio" e' abrogato e sostituito dal seguente:  
+  
+Scuola di specializzazione in ematologia clinica e di laboratorio  
+  
+Art. 94. - La scuola ha la durata di tre anni, con frequenza obbligatoria, ed ha sede presso l'istituto di patologia speciale medica. Il professore di ruolo di patologia speciale medica e' il direttore della scuola. Potranno essere iscritti alla scuola i laureati in medicina e chirurgia, nel numero massimo di otto per anno.  
+Gli insegnamenti saranno cosi' ripartiti:  
+1° Anno:  
+1) Morfologia e morfogenesi normale e patologica del sangue;  
+2) Genetica ematologica;  
+3) Fisiopatologia della coagulazione e dell'emostasi;  
+4) Fisiopatologia patologica;  
+5) Biochimica ematologica;  
+6) Fisiopatologia del plasma;  
+7) Tecniche di laboratorio inerenti all'ematologia.  
+2° Anno:  
+1) Morfologia e morfogenesi normale e patologica del sangue;  
+2) Fisiopatologia ematologica;  
+3) Immunoematologia;  
+4) Tecniche di laboratorio inerenti all'ematologia;  
+5) Patologia speciale ematologica;  
+6) Clinica delle emopatie;  
+7) Anatomia e istologia patologica delle emopatie e fondamenti di oncologia.  
+3° Anno:  
+1) Tecniche di laboratorio inerenti all'ematologia;  
+2) Nozioni di radiobiologia e di medicina nucleare applicata all'ematologia;  
+3) Radiodiagnostica e radioterapia ematologica;  
+4) Patologia speciale ematologica;  
+5) Clinica delle emopatie;  
+6) Terapia sistematica ematologica;  
+7) Terapia trasfusionale.  
+Potra' essere concessa l'abbreviazione di corso, non superiore ad un anno, soltanto ai liberi docenti in una delle branche di medicina generale, clinica pediatrica, patologia generale o anatomia patologica, o specialisti di medicina interna o pediatria.  
+In ogni caso, anche coloro che avranno ottenuto l'abbreviazione, dovranno sostenere gli esami del 1° anno prima del secondo. Il numero massimo degli iscritti non potra' risultare complessivamente superiore a ventiquattro.  
+Il direttore della scuola puo' invitare studiosi competenti ad impartire lezioni o conferenze su argomenti di speciale interesse ematologico.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 luglio 1955
+### Dato a Roma, addi' 18 ottobre 1971
 
-GRONCHI Rossi
+SARAGAT MISASI
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 29 agosto 1955
+Registrato alla Corte dei conti, addi' 30 dicembre 1971
 
-Atti del Governo, registro n. 92, foglio n. 118. - CARLOMAGNO
+Atti del Governo, registro n. 245, foglio n. 167. - VALENTINI

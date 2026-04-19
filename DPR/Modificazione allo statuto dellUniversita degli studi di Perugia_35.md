@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1986 n. 464
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1983 n. 1125
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1986 n. 464
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1983 n. 1125
+==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Perugia.
 -------------------------------------------------------------------
@@ -39,22 +39,20 @@ Articolo unico
 --------------
 
   
-  
-Nell'art. 49, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:   
-medicina dello sport.   
+Nell'art. 35, relativo al corso di laurea in lingue e letterature straniere moderne (indirizzo europeo), all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+letteratura francese moderna e contemporanea;  
+storia contemporanea.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 maggio 1986
+### Dato a Roma, addi' 4 giugno 1983
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 19 luglio 1986
+Registrato alla Corte dei conti, addi' 22 marzo 1984
 
-Registro n. 58 Istruzione, foglio n. 278
+Registro n. 17 Istruzione, foglio n. 342

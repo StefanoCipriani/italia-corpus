@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 489
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 977
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 489
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 977
+================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Venezia.
 -------------------------------------------------------------------
@@ -39,19 +39,19 @@ Articolo unico
 --------------
 
   
-Nell'art. 31, relativo al corso di laurea in chimica industriale, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
-catalisi.  
+Nell'art. 7, relativo al corso di laurea in economia e commercio, all'elenco degli insegnamenti complementari sono aggiunti i seguenti: economia dei mercati agricoli;  
+diritto pubblico dell'economia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 giugno 1983
+### Dato a Selva di Val Gardena, addi' 2 settembre 1983
 
 PERTINI FALCUCCI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 17 agosto 1983
+Registrato alla Corte dei conti, addi' 15 febbraio 1984
 
-Registro n. 59 Istruzione, foglio n. 127
+Registro n. 8 Istruzione, foglio n. 68

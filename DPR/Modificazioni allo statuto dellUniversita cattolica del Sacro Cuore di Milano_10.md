@@ -1,26 +1,24 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1954 n. 1055
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1974 n. 653
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1954 n. 1055
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1974 n. 653
+==============================================================
 
-Modificazioni allo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano.
-----------------------------------------------------------------------------------
+Modificazioni allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
+--------------------------------------------------------------------------------
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 17 ottobre 1941, n. 1282](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-10-17;1282), con [decreto del Capo provvisorio dello Stato 27 luglio 1947, n. 1242](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-07-27;1242) e con [decreti del Presidente della Repubblica 20 ottobre 1949, numero 1026](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;1026); [30 ottobre 1950, n. 1306](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1306), [31 agosto 1951, n. 1774](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-31;1774), [11 aprile 1953, n. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-04-11;417) e [26 gennaio 1954, n. 7](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-01-26;7);
+Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e Successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulare dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -30,70 +28,205 @@ Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 10. - Agli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di:
+L'art. 104, relativo alla scuola di specializzazione in radiologia, e' abrogato e sostituito dal seguente:
 
-13) "Storia dei trattati e politica internazionale".
+Scuola di specializzazione in radiologia
 
-Art. 11. - Agli insegnamenti complementari del corso di laurea, in scienze politiche sono aggiunti quelli di:
+Art. 104. - La scuola rilascia i seguenti diplomi di specializzazione: in radiologia e radiologia diagnostica.
 
-6) "Istituzioni politiche comparate;
+La scuola e' riservata ai laureati in medicina e chirurgia che possono essere accolti in numero massimo di dodici per ciascun anno di corso per radiologia e radiologia diagnostica (totale 42).
 
-7) Storia delle istituzioni politiche;
+La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia e' di quattro anni.
 
-8) Sociologia religiosa".
+Gli insegnamenti sono i seguenti:
+
+a) Matematica, fisica, nozioni di statistica e informatica (annuale) comprendente: richiami di matematica e fisica generale; costituzione della materia; produzione, assorbimento e misura delle radiazioni; statistica applicata alla medicina; informatica e cibernetica applicata alla radiologia;
+
+b) Radiodiagnostica (triennale) comprendente: principi generali di radiodiagnostica; apparecchi, strumenti e tecnica radiodiagnostica; tecnica e fisiologia applicata alla radiodiagnostica; i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia; semeiotica radiologica; diagnostica differenziale radiologica; dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici; dimostrazioni di casistica clinica;
+
+c) Radiobiologia (annuale) comprendente: radiobiologia generale; danni da radiazioni e radiopatie;
+
+d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:
+
+legislazione sanitaria applicata alla radiologia; compiti e responsabilita' medicolegali del radiologo; radioprotezione fisica e dosimetria ad essa connessa; fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni; radioprotezione chimica; problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici;
+
+e) Radioterapia e terapia fisica (triennale) comprendente: radiobiologia applicata; fondamenti generali di radioterapia e terapia fisica; istopatologia speciale dei tumori; nozioni sugli apparecchi e strumenti per la radioterapia; tecnica e metodica radioterapica; dosimetria; clinica radioterapica; fondamenti generali di chemioterapia oncologica; chemioterapia clinica dei tumori e sua associazione alla radioterapia; dimostrazione di casistica clinica;
+
+f) Medicina nucleare (biennale) comprendente: elementi di medicina nucleare; istrumentario, tecnica e metodica dell'impiego dei radioisotopi in medicina nucleare; dosimetria dei radioisotopi somministrati per via interna; diagnostica con radioisotopi somministrati per via interna; radioterapia metabolica; dimostrazioni di casistica clinica.
+
+I singoli insegnamenti, tenuti da uno o piu' docenti, a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze, dimostrazioni pratiche e, ove opportuno e possibile, da visite ad istituzioni di particolare interesse, sono cosi' distribuiti nei quattro anni di corso:
+
+1° Anno (tronco comune):
+
+Matematica, fisica, nozioni di statistica ed informatica;
+
+Radiobiologia;
+
+Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;
+
+Radiodiagnostica (I).
+
+2° Anno:
+
+Radiodiagnostica (II);
+
+Radioterapia e terapia fisica (I).
+
+3° Anno:
+
+Radiodiagnostica (III);
+
+Radioterapia e terapia fisica (II);
+
+Medicina nucleare (I).
+
+4° Anno:
+
+Radioterapia e terapia fisica (III);
+
+Medicina nucleare (II).
+
+La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia diagnostica e' di tre anni.
+
+Gli insegnamenti sono i seguenti:
+
+a) Matematica, fisica, nozioni di statistica e informatica (annuale) comprendente: richiami di matematica e fisica generale; costituzione della materia; produzione, assorbimento e misura delle radiazioni; statistica applicata alla medicina; informatica e cibernetica applicate alla radiologia;
+
+b) Radiodiagnostica (triennale) comprendente: principi generali di radiodiagnostica; apparecchi, strumenti e tecnica radiodiagnostica; tecnica e fisiologia applicate alla radiodiagnostica; i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia; semeiotica radiologica; diagnostica differenziale radiologica; dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici; dimostrazioni di casistica clinica;
+
+c) Radiobiologia (annuale) comprendente: radiobiologia generale; danni da radiazioni e radiopatie;
+
+d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:
+
+legislazione sanitaria applicata alla radiologia; compiti e responsabilita' medico-legali del radiologo; radioprotezione fisica e dosimetria ad essa connessa; fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni; radioprotezione chimica; problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.
+
+I singoli insegnamenti, tenuti da uno o piu' docenti a seconda di quanto opportuno al loro svolgimento e completati da conferenze e dimostrazioni pratiche, sono cosi' distribuiti nei tre anni di corso:
+
+1° Anno (tronco comune):
+
+Matematica, fisica, nozioni di statistica ed informatica;
+
+Radiobiologia;
+
+Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;
+
+Radiodiagnostica (I).
+
+2° Anno:
+
+Radiodiagnostica (II)
+
+3° Anno:
+
+Radiodiagnostica (III).
+
+Per essere ammessi agli esami di diploma in radiologia e in radiologia diagnostica gli iscritti, oltre ad aver compiuto un congruo periodo di internato, devono aver superato un esame su ciascuna materia d'insegnamento ed elaborato una tesi scritta su di un argomento radiologico concordato con il direttore della scuola.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Dogliani, addi' 14 settembre 1954
+Dato a Roma, addi' 28 ottobre 1974
 
-EINAUDI
+LEONE
 
-MARTINO
+MALFATTI
 
-Visto, il Guardasigilli: DE PIETRO
+Visto, il Guardasigilli: ZAGARI
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 11 novembre 1954 Atti del Governo, registro n. 87, foglio n. 11. - CARLOMAGNO
+alla Corte dei conti, addi' 7 dicembre 1974 Atti di Governo, registro n. 7, foglio n. 65. - SCIARRETTA
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 17 ottobre 1941, n. 1282](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-10-17;1282), con [decreto del Capo provvisorio dello Stato 27 luglio 1947, n. 1242](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-07-27;1242) e con [decreti del Presidente della Repubblica 20 ottobre 1949, numero 1026](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;1026); [30 ottobre 1950, n. 1306](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1306), [31 agosto 1951, n. 1774](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-31;1774), [11 aprile 1953, n. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-04-11;417) e [26 gennaio 1954, n. 7](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-01-26;7);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e Successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulare dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 10. - Agli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di:  
-13) "Storia dei trattati e politica internazionale".  
-Art. 11. - Agli insegnamenti complementari del corso di laurea, in scienze politiche sono aggiunti quelli di:  
-6) "Istituzioni politiche comparate;  
-7) Storia delle istituzioni politiche;  
-8) Sociologia religiosa".  
+Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+  
+L'art. 104, relativo alla scuola di specializzazione in radiologia, e' abrogato e sostituito dal seguente:   
+  
+Scuola di specializzazione in radiologia   
+  
+Art. 104. - La scuola rilascia i seguenti diplomi di specializzazione: in radiologia e radiologia diagnostica.   
+La scuola e' riservata ai laureati in medicina e chirurgia che possono essere accolti in numero massimo di dodici per ciascun anno di corso per radiologia e radiologia diagnostica (totale 42).   
+La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia e' di quattro anni.   
+  
+Gli insegnamenti sono i seguenti:   
+a) Matematica, fisica, nozioni di statistica e informatica (annuale) comprendente: richiami di matematica e fisica generale; costituzione della materia; produzione, assorbimento e misura delle radiazioni; statistica applicata alla medicina; informatica e cibernetica applicata alla radiologia;   
+b) Radiodiagnostica (triennale) comprendente: principi generali di radiodiagnostica; apparecchi, strumenti e tecnica radiodiagnostica; tecnica e fisiologia applicata alla radiodiagnostica; i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia; semeiotica radiologica; diagnostica differenziale radiologica; dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici; dimostrazioni di casistica clinica;   
+c) Radiobiologia (annuale) comprendente: radiobiologia generale; danni da radiazioni e radiopatie;   
+d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:   
+legislazione sanitaria applicata alla radiologia; compiti e responsabilita' medicolegali del radiologo; radioprotezione fisica e dosimetria ad essa connessa; fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni; radioprotezione chimica; problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici;   
+e) Radioterapia e terapia fisica (triennale) comprendente: radiobiologia applicata; fondamenti generali di radioterapia e terapia fisica; istopatologia speciale dei tumori; nozioni sugli apparecchi e strumenti per la radioterapia; tecnica e metodica radioterapica; dosimetria; clinica radioterapica; fondamenti generali di chemioterapia oncologica; chemioterapia clinica dei tumori e sua associazione alla radioterapia; dimostrazione di casistica clinica;   
+f) Medicina nucleare (biennale) comprendente: elementi di medicina nucleare; istrumentario, tecnica e metodica dell'impiego dei radioisotopi in medicina nucleare; dosimetria dei radioisotopi somministrati per via interna; diagnostica con radioisotopi somministrati per via interna; radioterapia metabolica; dimostrazioni di casistica clinica.   
+I singoli insegnamenti, tenuti da uno o piu' docenti, a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze, dimostrazioni pratiche e, ove opportuno e possibile, da visite ad istituzioni di particolare interesse, sono cosi' distribuiti nei quattro anni di corso:   
+  
+1° Anno (tronco comune):   
+Matematica, fisica, nozioni di statistica ed informatica;   
+Radiobiologia;   
+Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;   
+Radiodiagnostica (I).   
+  
+2° Anno:   
+Radiodiagnostica (II);   
+Radioterapia e terapia fisica (I).   
+  
+3° Anno:   
+Radiodiagnostica (III);   
+Radioterapia e terapia fisica (II);   
+Medicina nucleare (I).   
+  
+4° Anno:   
+Radioterapia e terapia fisica (III);   
+Medicina nucleare (II).   
+La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia diagnostica e' di tre anni.   
+  
+Gli insegnamenti sono i seguenti:   
+a) Matematica, fisica, nozioni di statistica e informatica (annuale) comprendente: richiami di matematica e fisica generale; costituzione della materia; produzione, assorbimento e misura delle radiazioni; statistica applicata alla medicina; informatica e cibernetica applicate alla radiologia;   
+b) Radiodiagnostica (triennale) comprendente: principi generali di radiodiagnostica; apparecchi, strumenti e tecnica radiodiagnostica; tecnica e fisiologia applicate alla radiodiagnostica; i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia; semeiotica radiologica; diagnostica differenziale radiologica; dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici; dimostrazioni di casistica clinica;   
+c) Radiobiologia (annuale) comprendente: radiobiologia generale; danni da radiazioni e radiopatie;   
+d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:   
+legislazione sanitaria applicata alla radiologia; compiti e responsabilita' medico-legali del radiologo; radioprotezione fisica e dosimetria ad essa connessa; fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni; radioprotezione chimica; problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.   
+I singoli insegnamenti, tenuti da uno o piu' docenti a seconda di quanto opportuno al loro svolgimento e completati da conferenze e dimostrazioni pratiche, sono cosi' distribuiti nei tre anni di corso:   
+  
+1° Anno (tronco comune):   
+Matematica, fisica, nozioni di statistica ed informatica;   
+Radiobiologia;   
+Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;   
+Radiodiagnostica (I).   
+  
+2° Anno:   
+Radiodiagnostica (II)   
+  
+3° Anno:   
+Radiodiagnostica (III).   
+  
+Per essere ammessi agli esami di diploma in radiologia e in radiologia diagnostica gli iscritti, oltre ad aver compiuto un congruo periodo di internato, devono aver superato un esame su ciascuna materia d'insegnamento ed elaborato una tesi scritta su di un argomento radiologico concordato con il direttore della scuola.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Dogliani, addi' 14 settembre 1954
+### Dato a Roma, addi' 28 ottobre 1974
 
-EINAUDI MARTINO
+LEONE MALFATTI
 
-Visto, il Guardasigilli: DE PIETRO
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 11 novembre 1954
+Registrato alla Corte dei conti, addi' 7 dicembre 1974
 
-Atti del Governo, registro n. 87, foglio n. 11. - CARLOMAGNO
+Atti di Governo, registro n. 7, foglio n. 65. - SCIARRETTA

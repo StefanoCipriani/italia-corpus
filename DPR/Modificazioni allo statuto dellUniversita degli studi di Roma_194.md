@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1953 n. 570
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1963 n. 1535
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1953 n. 570
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1963 n. 1535
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
@@ -12,10 +12,10 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), modificato con [regi decreti 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-26;1734); [26 ottobre 1940, n. 2069](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2069); [4 maggio 1942, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-05-04;565); [24 luglio 1942, n. 949](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-24;949); [24 agosto 1942, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-08-24;1098); [24 ottobre 1942, n. 1672, con decreto luogotenenziale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo.luogotenenziale:1942-10-24;1672) [8 febbraio 1946, n. 242, con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-02-08;242) [12 aprile 1947, n. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-04-12;461); [31 dicembre 1947, n. 1758 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-31;1758) [24 dicembre 1948, n. 1619](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-12-24;1619); 18 luglio-1949, n. 882; 20 ottobre 1949, n. 989; 20 ottobre 1949, n. 991; 20 ottobre 1949, n. 1178; 30 ottobre 1949, n. 1152; 11 giugno 1950, n. 622; 16 novembre 1950, n. 1313; 11 maggio 1951, n. 653; 27 ottobre 1951, n. 1813; 14 aprile 1952, n. 888; 16 agosto 1952, n. 2589 e 19 settembre 1952, n. 1697;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e vedute le proposte di modifiche dello statuto formulato dalle autorita' accademiche dell'Universita' anzidetta;  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, numero 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successivi;  
+Veduto il testo unico delle leggi sull'istituzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -23,63 +23,40 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-L'art. 46 e' sostituito dal seguente:  
-"Per il corso di diploma in statistica, l'esame di statistica deve precedere gli esami di demografia, di antropometria, di statistica sanitaria, di statistica economica, di statistica giudiziaria e di statistica sociale.  
-Per il corso di laurea in scienze statistiche e demografiche, gli studenti provenienti da altre Universita', che non abbiano sostenuto esami di statistica o di statistica metodologica, devono sostenere l'esame di statistica prima di quello di statistica metodologica seguendo, ove non lo abbiano gia' fatto, il corso.  
-Per sostenere gli esami di calcolo delle probabilita' e di statistica metodologica deve essersi sostenuto prima o quello di analisi matematica (algebrica) o quello di elementi di matematica seguendo questo ultimo corso, ove cio' non sia stato fatto. L'esame di statistica metodologica deve precedere quelli di sviluppo della popolazione, di biometria, di statistica economica (corso superiore), di applicazioni della statistica alle scienze fisiche, di matematica attuariale e tecnica delle assicurazioni libere sulla vita umana.  
-Per il corso di laurea in scienze statistiche ed attuariali, gli studenti che non abbiano sostenuto esami di statistica o di statistica metodologica debbono sostenere l'esame di statistica con precedenza su tutti gli altri, seguendo il corso, ove non lo abbiano gia' fatto. L'esame di analisi matematica (algebrica) deve precedere quelli di calcolo delle probabilita' e di matematica attuariale e tecnica delle assicurazioni libere sulla vita umana.  
-L'esame di elementi di matematica deve precedere quello di statistica. L'esame di matematica attuariale e tecnica delle assicurazioni libere sulla vita umana deve precedere quello di assicurazioni sociali.  
-Le esercitazioni, per quelli insegnamenti per i quali sono prescritte, si compino nei rispettivi Istituti".  
-Dopo l'art. 58 e' aggiunto il seguente nuovo articolo, relativo alla creazione di alcuni Istituti presso la Facolta' di magistero, con il conseguente spostamento della numerazione degli articoli successivi.  
-Art. 59. - "Sono annessi alla Facolta' di magistero, i seguenti Istituti:  
-Per il gruppo A (materie letterarie) Istituto di letteratura italiana;  
-Istituto di lingua e letteratura latina;  
-Istituto di scienze storiche;  
-Istituto di scienze geografiche e cartografiche.  
-Per il gruppo A (lingue e letterature straniere):  
-Istituto di lingue e letterature straniere.  
-Per il gruppo B (pedagogia) e o (vigilanza scolastica):  
-Istituto di filosofia e di storia della filosofia;  
-Istituto di pedagogia".  
-1. a) L'Istituto di letteratura italiana e' ordinato a seminario ed ha lo scopo di addestrare i giovani negli studi filologici e critici relativi alla disciplina; b) utilizza a tal fine l'opera dei professori titolari, dei liberi docenti, degli assistenti ordinari, straordinari e volontari; c) esso e' diretto dal titolare della disciplina; d) l'istituto promuove ricerche e studi individuali e collettivi e ne cura eventualmente la pubblicazione; e) i requisiti per l'ammissione degli studenti all'Istituto sono stabiliti dal direttore.  
-2. a) L'istituto di lingua e letteratura latina e' ordinato a seminario ed ha lo scopo di addestrare i giovani negli studi filologici e critici relativi alla disciplina; b) utilizza a tal fine l'opera dei professori titolari, dei liberi docenti, degli assistenti ordinari, straordinari e volontari; c) esso e' diretto dal titolare della disciplina; d) l'Istituto promuove ricerche e studi individuali e collettivi e ne cura eventualmente la pubblicazione; e) i requisiti per l'ammissione degli studenti all'Istituto sono stabiliti dal direttore.  
-3. a) L'istituto di scienze storiche e' ordinato a seminario ed ha lo scopo di addestrare i giovani nelle ricerche storiche; b) utilizza a tal fine l'opera dei professori titolari, dei liberi docenti, degli assistenti ordinari, straordinari e volontari; c) Esso e' diretto dal titolare della cattedra di storia; d) l'Istituto promuove ricerche e studi individuali e collettivi e ne cura eventualmente la pubblicazione; e) i requisiti per l'ammissione degli studenti all'Istituto sono stabiliti dal direttore.  
-4. a) L'istituto di scienze geografiche e cartografiche e' ordinato a seminario ed ha lo scopo di addestrare i giovani nelle ricerche geografiche e cartografiche; b) utilizza a tal fine l'opera dei professori titolari dei liberi docenti, degli assistenti ordinari, straordinari e volontari; c) esso e' diretto dal titolare della cattedra di geografia; d) l'Istituto promuove ricerche e studi individuali e collettivi e ne cura eventualmente la pubblicazione; e) i requisiti per l'ammissione degli studenti all'Istituto sono stabiliti dal direttore.  
-5. a) L'Istituto di lingue e letterature straniere e' ordinato a seminario ed ha lo scopo di addestrare i giovani negli studi filologici e critici relativi alle lingue e letterature straniere: francese, inglese, tedesca e spagnola; b) utilizza a tal fine l'opera dei professori titolari, dei liberi docenti, degli assistenti ordinari, straordinari e volontari; c) esso e' diretto dal piu' anziano di grado fra i titolari delle quattro discipline; d) l'Istituto promuove ricerche individuali e collettive e ne cura eventualmente la pubblicazione; e) i requisiti per l'ammissione degli studenti all'Istituto sono stabiliti dal direttore.  
-6. a) L'Istituto di filosofia e di storia della filosofia e' ordinato a seminario ed ha lo scopo di addestrare i giovani negli studi filosofici; b) utilizza a tal fine l'opera dei professori titolari, dei liberi docenti, degli assistenti ordinari, straordinari e volontari: c) esso e' diretto dal piu' anziano di grado fra i titolari delle discipline; d) l'Istituto promuove ricerche e studi individuali e collettivi e ne cura eventualmente la pubblicazione; e) i requisiti per l'ammissione degli studenti all'istituto sono stabiliti dal direttore.  
-7. a) L'Istituto di pedagogia e' ordinato a seminario ed ha lo scopo di addestrare i giovani negli studi pedagogici; b) utilizza a tal fine l'opera dei professori titolari, dei liberi docenti, degli assistenti ordinari, straordinari e volontari; c) esso e' diretto dal titolare della cattedra di pedagogia; d) l'Istituto promuove ricerche e studi individuali e collettivi e ne cura eventualmente la pubblicazione; e) i requisiti per l'ammissione degli studenti all'Istituto sono stabiliti dal direttore.  
-Dopo l'attuale art. 393 sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di perfezionamento in ematologia, con il conseguente spostamento della numerazione degli articoli successivi.  
-  
-Scuola di perfezionamento in ematologia  
-  
-Art. 394. - E' istituita presso l'Istituto di clinica medica generale e terapia medica dell'Universita' di Roma, la Scuola di perfezionamento in ematologia.  
-Il corso degli studi ha la durata di due anni.  
-Art. 395. - Gli insegnamenti impartiti nella Scuola sono i seguenti:  
-1) morfologia e morfogenesi normale e patologica del sangue;  
-2) semeiotica fisica e funzionale;  
-3) biochimica ematologica;  
-4) immunoematologia;  
-5) anatomia e istologia patologica;  
-6) radiodiagnostica e radioterapia;  
-7) clinica ematologica;  
-8) terapia.  
-Vengono, inoltre, quotidianamente tenute, al letto del malato, esercitazioni di semeiotica clinica, di diagnostica differenziale e di terapia, nonche' esercitazioni teorico-pratiche nei laboratori.  
-Art. 396. - La frequenza alle lezioni e alle esercitazioni nei reparti e negli ambulatori e' obbligatoria.  
-Gli iscritti non possono essere ammessi agli esami se non abbiano ottenuto le relative attestazioni di frequenza.  
-Art. 397. - Gli esami di profitto vengono sostenuti alla fine di ciascun anno di corso, secondo le disposizioni che verranno stabilite nel manifesto della Scuola.  
-Gli iscritti non possono essere ammessi al secondo anno di corso se non abbiano superato gli esami di tutti gli insegnamenti prescritti per il primo anno.  
-Art. 398. - L'esame di diploma si svolge con le norme dell'attuale art. 302.  
+Art. 401. - La denominazione della Scuola di perfezionamento in Ostetricia e ginecologia e' modificata in quella di Scuola di specializzazione in Ostetricia e ginecologia.  
+Gli articoli da 471 a 475, relativi alla Scuola di perfezionamento in Ematologia sono abrogati e sostituiti dai seguenti:  
+Art. 471. - E' istituita presso l'Istituto di Semeiotica medica della Universita' di Roma, la Scuola di perfezionamento in Ematologia.  
+Il corso degli studi ha la durata di due anni. Per ogni anno il numero degli iscritti, esclusi i fuori corso, non sara' superiore a quaranta.  
+Le iscrizioni sono condizionate da un esame preliminare di ammissione.  
+Art. 472. - Gli insegnamenti impartiti nella Scuola sono i seguenti:  
+1) Morfologia e morfogenesi normale e patologica del sangue (biennale);  
+2) Biochimica ematologica (annuale, 1° anno);  
+3) Immuno-ematologia (annuale, 1° anno);  
+4) Fisiopatologia dell'emocoagulazione e dell'emostasi (annuale, 1° anno);  
+5) Anatomia e istologia patologica (biennale);  
+6) Protidologia ematologica (annuale, 2° anno);  
+7) Patologia ematologica costituzionale (annuale, 2° anno);  
+8) Radiodiagnostica e radioterapia (annuale, 2° anno);  
+9) Patologia speciale e clinica ematologica (biennale);  
+10) Terapia (annuale, 2° anno).  
+Vengono inoltre quotidianamente tenute al letto del malato, esercitazioni di Semeiotica clinica, di Diagnostica differenziale, di Terapia, esercitazioni teorico pratiche nei laboratori. Gli iscritti hanno l'obbligo di frequentare l'istituto di Anatomia patologica, per assistere alle necroscopie dei cadaveri per malattie del sangue e per le esercitazioni di Istologia patologica.  
+Art. 473. - La frequenza alle lezioni ed alle esercitazioni nei reparti, negli ambulatori, nei laboratori e nella sala incisoria dell'Istituto di Anatomia patologica e' obbligatoria. Gli iscritti non possono essere ammessi agli esami se non abbiamo ottenuto le relative attestazioni di frequenza.  
+Art. 474. - Gli esami di profitto vengono sostenuti alla fine di ciascun anno di corso, secondo le disposizioni che verranno stabilite nel manifesto della Scuola.  
+Gli iscritti non potranno essere ammessi al secondo anno di corso se non avranno superato gli esami di tutti gli insegnamenti prescritti per il 1° anno.  
+Art. 475. - L'esame di diploma si svolge con le norme dell'attuale art. 374.  
+Art. 519, relativo alla Scuola di specializzazione in Farmacoterapia e tossicologia medica e' abrogato e sostituito dal seguente.  
+"La Scuola di specializzazione in Farmacoterapia e tossicologia medica ha la durata di due anni. Essa ha sede presso l'istituto di farmacologia dell'Universita' di Roma. Possono essere ammessi alla Scuola oltre ai laureati in Medicina e chirurgia, i laureati in Farmacia e quelli in Scienze biologiche".  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti osservarlo e di farlo osservare.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 maggio 1953
+### Dato a Roma, addi' 14 ottobre 1963
 
-EINAUDI SEGNI
+SEGNI GUI
 
-Visto, il Guardasigilli: ZOLI
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla corte dei Conti, addi' 8 agosto 1953
+Registrato atta Corte dei conti, addi' 22 novembre 1963
 
-Atti del Governo, registro n. 78, foglio n. 97. - CARLOMAGNO
+Atti del Governo, registro n. 176, foglio n. 80. - VILLA

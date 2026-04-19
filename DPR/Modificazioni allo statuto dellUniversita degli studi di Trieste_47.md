@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 agosto 1982 n. 892
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1023
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 agosto 1982 n. 892
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1023
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1962, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-10-31;1836), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,48 +18,159 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Dopo l'art. 124 e' aggiunto il seguente nuovo articolo relativo alla istituzione della scuola, diretta, a fini speciali, per ortottiste.
+
+Scuola diretta a fini speciali per ortottiste
+
+Art. 125. - La scuola per ortottiste ha sede presso la clinica oculistica dell'Universita' degli studi di Trieste. Essa ha lo scopo di dare una preparazione completa teorica e pratica alle allieve, istruendole sui problemi dei difetti di refrazione, disturbi della oculomazione, dell'ambliopia in genere, per avviarle alla professione di ortottiste.
+
+La durata del corso degli studi per il conseguimento del diploma e' di due anni.
+
+Possono essere ammesse alla scuola allievi di eta' non inferiore ai 17 anni, in possesso del titolo di studio prescritto per l'ammissione all'universita' (preferibilmente del diploma di maturita' classica, del diploma di maturita' scientifica e del diploma di abilitazione magistrale).
+
+Chi aspira ad ottenere l'iscrizione al primo anno della scuola dovra' sostenere un esame di ammissione. Il numero massimo di posti disponibili annualmente e' stabilito nella misura di quattro.
+
+L'esame di ammissione consiste in una prova di cultura generale dinanzi ad una commissione composta di tre professori ufficiali della facolta', fra i quali il direttore della scuola.
+
+L'anno scolastico inizia il 1 novembre e termina il 30 giugno di ogni anno. La domanda di iscrizione alla scuola e' diretta al rettore dell'Universita' e deve essere corredata del titolo originale di studi medi superiori.
+
+Il direttore della scuola e' di diritto il titolare della cattedra di clinica oculistica dell'universita'. Gli insegnanti della scuola sono proposti dal consiglio di facolta' di medicina e chirurgia, udito il direttore e nominati dal rettore.
+
+Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+Elementi di anatomia e fisiologia generale;
+
+Anatomia e fisiologia dell'apparato oculare;
+
+Ottica fisica e fisiologica;
+
+Ortottica;
+
+Pleottica;
+
+Esercitazioni di ortottica;
+
+Esercitazioni di pleottica.
+
+2° Anno
+
+Ortottica;
+
+Pleottica;
+
+Elementi di patologia oculare;
+
+Nozioni di infermieristica oculare;
+
+Esercitazioni di ortottica;
+
+Esercitazioni di pleottica.
+
+L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni nel reparto ortottico della clinica oculistica.
+
+Per essere ammesse a sostenere l'esame di diploma le allieve dovranno aver seguito i corsi, superando gli esami di tutti gli insegnamenti prescritti ed aver compiuto con esito favorevole tutte le esercitazioni previste.
+
+Le commissioni per gli esami di profitto sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola.
+
+Le commissioni sono composte di tre membri: dal professore ufficiale della materia, presidente, di un professore ufficiale di materia affine e di un libero docente o cultore della materia. Ogni commissario ha a disposizione dieci punti.
+
+L'esame per il conseguimento del diploma di ortottista consiste in un colloquio su un tema preventivamente assegnato dal direttore della scuola di fronte ad una commissione di cinque membri, composta dal direttore della scuola e da altri quattro membri designati dal preside della facolta' di medicina e chirurgia. Ogni commissario ha a sua disposizione dieci punti.
+
+Le tasse e soprattasse sono le seguenti:
+
+Tassa iscrizione 1° anno. . . . . . . . . . . . . . . . . . L. 18.000 Tassa iscrizione 2° anno. . . . . . . . . . . . . . . . . . L. 18.000 Tassa esami di profitto per ciascun anno . . . . . . . . . . L. 7.000 Soprattassa per esami di diploma . . . . . . . . . . . . . . L. 3.000
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1972
+
+LEONE
+
+SCALFARO
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 20 febbraio 1973 Atti di Governo, registro n. 256, foglio n. 7. - VALENTINI
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-L'art. 42, relativo all'esame di laurea di economia e commercio, e' soppresso e sostituito dal seguente:  
-Art. 42. - La dissertazione scritta per l'esame di laurea puo' concernere qualunque materia elencata nell'art. 40, ad eccezione delle lingue. Essa dovra' essere depositata in segreteria in quattro copie, a stampa o dattilografate, venti giorni prima del relativo esame.  
-L'esame deve essere integrato dalla discussione di un argomento scelto in una materia diversa da quella della tesi, ma come quella appartenente al gruppo delle discipline caratterizzanti uno degli indirizzi di studio annualmente predisposti dalla facolta'.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Dopo l'art. 43, con il conseguente spostamento degli articoli successivi, e' aggiunto il nuovo seguente articolo:  
-Art. 44. - Biblioteca della facolta' di economia e commercio.  
+Decreta:   
+  
+Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+  
+Dopo l'art. 124 e' aggiunto il seguente nuovo articolo relativo alla istituzione della scuola, diretta, a fini speciali, per ortottiste.   
+Scuola diretta a fini speciali per ortottiste   
+Art. 125. - La scuola per ortottiste ha sede presso la clinica oculistica dell'Universita' degli studi di Trieste. Essa ha lo scopo di dare una preparazione completa teorica e pratica alle allieve, istruendole sui problemi dei difetti di refrazione, disturbi della oculomazione, dell'ambliopia in genere, per avviarle alla professione di ortottiste.   
+La durata del corso degli studi per il conseguimento del diploma e' di due anni.   
+Possono essere ammesse alla scuola allievi di eta' non inferiore ai 17 anni, in possesso del titolo di studio prescritto per l'ammissione all'universita' (preferibilmente del diploma di maturita' classica, del diploma di maturita' scientifica e del diploma di abilitazione magistrale).   
+Chi aspira ad ottenere l'iscrizione al primo anno della scuola dovra' sostenere un esame di ammissione. Il numero massimo di posti disponibili annualmente e' stabilito nella misura di quattro.   
+L'esame di ammissione consiste in una prova di cultura generale dinanzi ad una commissione composta di tre professori ufficiali della facolta', fra i quali il direttore della scuola.   
+L'anno scolastico inizia il 1 novembre e termina il 30 giugno di ogni anno. La domanda di iscrizione alla scuola e' diretta al rettore dell'Universita' e deve essere corredata del titolo originale di studi medi superiori.   
+Il direttore della scuola e' di diritto il titolare della cattedra di clinica oculistica dell'universita'. Gli insegnanti della scuola sono proposti dal consiglio di facolta' di medicina e chirurgia, udito il direttore e nominati dal rettore.   
+Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+Elementi di anatomia e fisiologia generale;   
+Anatomia e fisiologia dell'apparato oculare;   
+Ottica fisica e fisiologica;   
+Ortottica;   
+Pleottica;   
+Esercitazioni di ortottica;   
+Esercitazioni di pleottica.   
+2° Anno   
+Ortottica;   
+Pleottica;   
+Elementi di patologia oculare;   
+Nozioni di infermieristica oculare;   
+Esercitazioni di ortottica;   
+Esercitazioni di pleottica.   
+L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni nel reparto ortottico della clinica oculistica.   
+Per essere ammesse a sostenere l'esame di diploma le allieve dovranno aver seguito i corsi, superando gli esami di tutti gli insegnamenti prescritti ed aver compiuto con esito favorevole tutte le esercitazioni previste.   
+Le commissioni per gli esami di profitto sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola.   
+Le commissioni sono composte di tre membri: dal professore ufficiale della materia, presidente, di un professore ufficiale di materia affine e di un libero docente o cultore della materia. Ogni commissario ha a disposizione dieci punti.   
+L'esame per il conseguimento del diploma di ortottista consiste in un colloquio su un tema preventivamente assegnato dal direttore della scuola di fronte ad una commissione di cinque membri, composta dal direttore della scuola e da altri quattro membri designati dal preside della facolta' di medicina e chirurgia. Ogni commissario ha a sua disposizione dieci punti.   
+Le tasse e soprattasse sono le seguenti:   
+  
+Tassa iscrizione 1° anno. . . . . . . . . . . . . . . . . . L. 18.000 Tassa iscrizione 2° anno. . . . . . . . . . . . . . . . . . L. 18.000 Tassa esami di profitto per ciascun anno . . . . . . . . . . L. 7.000 Soprattassa per esami di diploma . . . . . . . . . . . . . . L. 3.000   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 agosto 1982
+### Dato a Roma, addi' 31 ottobre 1972
 
-PERTINI BODRATO
+LEONE SCALFARO
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 26 novembre 1982
+Registrato alla Corte dei conti, addi' 20 febbraio 1973
 
-Registro n. 128 Istruzione, foglio n. 327
+Atti di Governo, registro n. 256, foglio n. 7. - VALENTINI

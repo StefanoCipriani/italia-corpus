@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1974 n. 589
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1966 n. 288
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1974 n. 589
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1966 n. 288
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
@@ -30,74 +30,124 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Gli articoli 163, 164, 165, relativi alla "Scuola di specializzazione in cardiologia" che muta la denominazione in quella di "Scuola di specializzazione in malattie dell'apparato cardiovascolare", sono abrogati e sostituiti dai seguenti:
+Dopo l'art. 162 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in Medicina interna annessa alla Facolta' di medicina e chirurgia.
 
-Scuola di specializzazione in malattie dell'apparato cardiovascolare
+SCUOLA DI SPECIALIZZAZIONE IN MEDICINA INTERNA
 
-Art. 163. - Alla facolta' di medicina e chirurgia e' annessa una scuola di speciaizzazione in malattie dell'apparato cardio-vascolare con sede presso la clinica medica generale dell'Universita'.
+Art. 163. - Alla Facolta' di medicina e chirurgia e' annessa una Scuola di specializzazione in Medicina interna con sede presso l'Istituto di clinica medica generale, il cui direttore e' anche direttore della Scuola.
 
-Art. 164. - La durata del corso e' di tre anni.
+Art. 164. - Alla Scuola di specializzazione vengono ammessi i laureati in Medicina e chirurgia in numero di 60 per l'intero corso.
 
-Il numero massimo degli iscritti e' di dodici complessivamente nei tre anni.
+Potra' essere accordato l'esonero di uno o piu' anni, secondo i titoli presettati dai singoli candidati, su proposta del Consiglio della scuola approvato dalla Facolta'; in ogni caso non sara' ammessa una abbreviazione superiore ai tre anni, fermo restando l'obbligo di sostenere tutti gli esami del corso.
 
-Art. 165. - Le materie di insegnamento e la loro ripartizione nei singoli anni sono le seguenti:
+Art. 165. - La durata dei corsi e' di 5 anni.
+
+Art. 166. - Gli iscritti hanno l'obbligo della frequenza ai corsi ed alle esercitazioni e non potranno essere ammessi all'anno di corso successivo se non avranno superato gli esami dell'anno cui sono iscritti.
+
+L'internato si svolgera' presso l'Istituto di clinica medica generale e presso l'Istituto di patologia speciale medica dell'Universita'.
+
+Le lezioni saranno integrate da conferenze tenute da eminenti studiosi sull'argomento che e' oggetto di studio durante l'anno.
+
+Art. 167. - Al termine del quinto anno, lo specializzando dovra' elaborare una tesi di specialita' su argomenti clinici o sperimentali di Medicina interna da discutere dinnanzi ad una Commissione giudicatrice composta a norma dell'art. 86 dello statuto dell'Universita'.
+
+Art. 168. - Le materie di insegnamento sono cosi' suddivise nei 5 anni di corso:
 
 1° Anno:
 
-Anatomia normale dell'apparato cardiovascolare;
+Malattie dell'apparato respiratorio:
 
-Fisiologia dell'apparato cardiovascolare e respiratorio;
+a) Anatomia patologica dell'apparato respiratorio;
 
-Fisiopatologia cardiovascolare e respiratoria (1° corso);
+b) Fisiologia dell'apparato respiratorio;
 
-Patologia cardiovascolare (1° corso);
+c) Semeiotica fisica e strumentale dell'apparato respiratorio;
 
-Semeiologia fisica (1° corso);
+d) Patologia delle affezioni tubercolari e non tubercolari del polmone;
 
-Semeiologia strumentale (1° corso).
+e) Radiodiagnostica;
+
+f) Clinica e terapia delle malattie dell'apparato respiratorio;
+
+g) Pratica dispensariale e sanatoriale.
 
 2° Anno:
 
-Fisiopatologia cardiovascolare e respiratoria (2° corso);
+Malattie dell'apparato cardiovascolare:
 
-Patologia cardiovascolare (2° corso);
+a) Anatomia patologica dell'apparato cardiovascolare;
 
-Semeiologia fisica (2° corso);
+b) Fisiologia dell'apparato cardiovascolare;
 
-Semeiologia strumentale (2° corso);
+c) Semeiotica fisica e strumentale (elettrocardiografia) dell'apparato cardiovascolare;
 
-Anatomia patologica dell'apparato cardiovascolare (1° corso);
+d) Patologia dell'apparato cardiovascolare;
 
-Radiologia dell'apparato cardiovascolare;
+e) Radiodiagnostica dell'apparato cardiovascolare;
 
-Farmacologia dell'apparato cardiovascolare;
-
-Clinica e terapia dell'apparato cardiovascolare (1° corso).
+f) Clinica e terapia dell'apparato cardiovascolare.
 
 3° Anno:
 
-Anatomia patologica dell'apparato cardiovascolare (2° corso);
+Malattie degli organi emopoietici e urinari:
 
-Clinica e terapia dell'apparato cardiovascolare (2° corso);
+a) Anatomia patologica degli organi emopoietici e urinari;
 
-Chirurgia dell'apparato cardiovascolare.
+b) Fisiologia degli organi emopoietici e urinari;
 
-Gli esami dovranno essere sostenuti al termine di ogni insegnamento.
+c) Semeiotica ematologica-tecnica dell'esame funzionale del rene;
+
+d) Patologia degli organi emopoietici e urinari;
+
+e) Radiodiagnostica degli organi emopoietici e urinari;
+
+f) Clinica e terapia degli organi emopoietici e urinari.
+
+4° Anno:
+
+Malattie dell'apparato digerente e malattie infettive:
+
+a) Anatomia patologica dell'apparato digerente e delle malattie infettive;
+
+b) Fisiologia dell'apparato digerente e ghiandolare;
+
+c) Semeiotica, batteriologia e sierologia;
+
+d) Radiodiagnostica;
+
+e) Patologia delle infezioni e malattie dell'apparato digerente;
+
+f) Clinica e terapia delle affezioni e delle malattie dell'apparato digerente.
+
+5° Anno:
+
+Malattie dell'apparato endocrino e delle articolazioni:
+
+a) Anatomia patologica dell'apparato endocrino e delle articolazioni;
+
+b) Fisiologia dell'apparato endocrino e delle articolazioni;
+
+c) Patologia dell'apparato endocrino e delle articolazioni;
+
+d) Semeiotica dell'apparato endocrino e delle articolazioni;
+
+e) Radiodiagnostica dell'apparato endocrino e delle articolazioni;
+
+f) Clinica e terapia dell'apparato endocrino e delle articolazioni.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 9 aprile 1974
+Dato a Roma, addi' 31 marzo 1966
 
-LEONE
+SARAGAT
 
-MALFATTI
+GUI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 21 novembre 1974 Atti di Governo, registro n. 7, foglio n. 10. - SCIARRETTA
+alla Corte dei Conti, addi' 6 maggio 1966 Atti del Governo, registro n. 203, foglio n. 13. - VILLA
 
 Art. 1
 ------
@@ -116,51 +166,72 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli 163, 164, 165, relativi alla "Scuola di specializzazione in cardiologia" che muta la denominazione in quella di "Scuola di specializzazione in malattie dell'apparato cardiovascolare", sono abrogati e sostituiti dai seguenti:  
   
-Scuola di specializzazione in malattie dell'apparato cardiovascolare   
-Art. 163. - Alla facolta' di medicina e chirurgia e' annessa una scuola di speciaizzazione in malattie dell'apparato cardio-vascolare con sede presso la clinica medica generale dell'Universita'.  
+Dopo l'art. 162 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in Medicina interna annessa alla Facolta' di medicina e chirurgia.  
   
-Art. 164. - La durata del corso e' di tre anni.  
-Il numero massimo degli iscritti e' di dodici complessivamente nei tre anni.  
+SCUOLA DI SPECIALIZZAZIONE IN MEDICINA INTERNA  
   
-Art. 165. - Le materie di insegnamento e la loro ripartizione nei singoli anni sono le seguenti:  
-  
+Art. 163. - Alla Facolta' di medicina e chirurgia e' annessa una Scuola di specializzazione in Medicina interna con sede presso l'Istituto di clinica medica generale, il cui direttore e' anche direttore della Scuola.  
+Art. 164. - Alla Scuola di specializzazione vengono ammessi i laureati in Medicina e chirurgia in numero di 60 per l'intero corso.  
+Potra' essere accordato l'esonero di uno o piu' anni, secondo i titoli presettati dai singoli candidati, su proposta del Consiglio della scuola approvato dalla Facolta'; in ogni caso non sara' ammessa una abbreviazione superiore ai tre anni, fermo restando l'obbligo di sostenere tutti gli esami del corso.  
+Art. 165. - La durata dei corsi e' di 5 anni.  
+Art. 166. - Gli iscritti hanno l'obbligo della frequenza ai corsi ed alle esercitazioni e non potranno essere ammessi all'anno di corso successivo se non avranno superato gli esami dell'anno cui sono iscritti.  
+L'internato si svolgera' presso l'Istituto di clinica medica generale e presso l'Istituto di patologia speciale medica dell'Universita'.  
+Le lezioni saranno integrate da conferenze tenute da eminenti studiosi sull'argomento che e' oggetto di studio durante l'anno.  
+Art. 167. - Al termine del quinto anno, lo specializzando dovra' elaborare una tesi di specialita' su argomenti clinici o sperimentali di Medicina interna da discutere dinnanzi ad una Commissione giudicatrice composta a norma dell'art. 86 dello statuto dell'Universita'.  
+Art. 168. - Le materie di insegnamento sono cosi' suddivise nei 5 anni di corso:  
 1° Anno:  
-Anatomia normale dell'apparato cardiovascolare;  
-Fisiologia dell'apparato cardiovascolare e respiratorio;  
-Fisiopatologia cardiovascolare e respiratoria (1° corso);  
-Patologia cardiovascolare (1° corso);  
-Semeiologia fisica (1° corso);  
-Semeiologia strumentale (1° corso).  
-  
+Malattie dell'apparato respiratorio:  
+a) Anatomia patologica dell'apparato respiratorio;  
+b) Fisiologia dell'apparato respiratorio;  
+c) Semeiotica fisica e strumentale dell'apparato respiratorio;  
+d) Patologia delle affezioni tubercolari e non tubercolari del polmone;  
+e) Radiodiagnostica;  
+f) Clinica e terapia delle malattie dell'apparato respiratorio;  
+g) Pratica dispensariale e sanatoriale.  
 2° Anno:  
-Fisiopatologia cardiovascolare e respiratoria (2° corso);  
-Patologia cardiovascolare (2° corso);  
-Semeiologia fisica (2° corso);  
-Semeiologia strumentale (2° corso);  
-Anatomia patologica dell'apparato cardiovascolare (1° corso);  
-Radiologia dell'apparato cardiovascolare;  
-Farmacologia dell'apparato cardiovascolare;  
-Clinica e terapia dell'apparato cardiovascolare (1° corso).  
-  
+Malattie dell'apparato cardiovascolare:  
+a) Anatomia patologica dell'apparato cardiovascolare;  
+b) Fisiologia dell'apparato cardiovascolare;  
+c) Semeiotica fisica e strumentale (elettrocardiografia) dell'apparato cardiovascolare;  
+d) Patologia dell'apparato cardiovascolare;  
+e) Radiodiagnostica dell'apparato cardiovascolare;  
+f) Clinica e terapia dell'apparato cardiovascolare.  
 3° Anno:  
-Anatomia patologica dell'apparato cardiovascolare (2° corso);  
-Clinica e terapia dell'apparato cardiovascolare (2° corso);  
-Chirurgia dell'apparato cardiovascolare.  
-  
-Gli esami dovranno essere sostenuti al termine di ogni insegnamento.  
+Malattie degli organi emopoietici e urinari:  
+a) Anatomia patologica degli organi emopoietici e urinari;  
+b) Fisiologia degli organi emopoietici e urinari;  
+c) Semeiotica ematologica-tecnica dell'esame funzionale del rene;  
+d) Patologia degli organi emopoietici e urinari;  
+e) Radiodiagnostica degli organi emopoietici e urinari;  
+f) Clinica e terapia degli organi emopoietici e urinari.  
+4° Anno:  
+Malattie dell'apparato digerente e malattie infettive:  
+a) Anatomia patologica dell'apparato digerente e delle malattie infettive;  
+b) Fisiologia dell'apparato digerente e ghiandolare;  
+c) Semeiotica, batteriologia e sierologia;  
+d) Radiodiagnostica;  
+e) Patologia delle infezioni e malattie dell'apparato digerente;  
+f) Clinica e terapia delle affezioni e delle malattie dell'apparato digerente.  
+5° Anno:  
+Malattie dell'apparato endocrino e delle articolazioni:  
+a) Anatomia patologica dell'apparato endocrino e delle articolazioni;  
+b) Fisiologia dell'apparato endocrino e delle articolazioni;  
+c) Patologia dell'apparato endocrino e delle articolazioni;  
+d) Semeiotica dell'apparato endocrino e delle articolazioni;  
+e) Radiodiagnostica dell'apparato endocrino e delle articolazioni;  
+f) Clinica e terapia dell'apparato endocrino e delle articolazioni.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 aprile 1974
+### Dato a Roma, addi' 31 marzo 1966
 
-LEONE MALFATTI
+SARAGAT GUI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 21 novembre 1974
+Registrato alla Corte dei Conti, addi' 6 maggio 1966
 
-Atti di Governo, registro n. 7, foglio n. 10. - SCIARRETTA
+Atti del Governo, registro n. 203, foglio n. 13. - VILLA

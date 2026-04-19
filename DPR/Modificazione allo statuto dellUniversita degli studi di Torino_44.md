@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1056
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 915
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1056
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 915
 ================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Torino.
@@ -39,21 +39,19 @@ Articolo unico
 --------------
 
   
-Nell'art. 55, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
-urologia pediatrica.  
+Nell'art. 97, relativo al corso di laurea in farmacia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+tecnologie chimico-farmaceutiche.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 dicembre 1985
+### Dato a Selva di Val Gardena, addi' 2 settembre 1983
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 16 aprile 1986
+Registrato alla Corte dei conti, addi' 30 gennaio 1984
 
-Registro n. 28 Istruzione, foglio n. 240
+Registro n. 5 Istruzione, foglio n. 3

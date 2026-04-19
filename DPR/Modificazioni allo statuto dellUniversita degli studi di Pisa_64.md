@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1986 n. 852
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1983 n. 1155
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1986 n. 852
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1983 n. 1155
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -22,15 +22,9 @@ Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?u
 
 Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta, intese ad ottenere l'istituzione del corso di laurea in economia aziendale;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Considerato che e' tuttora in atto la sperimentazione organizzativa e didattica di cui agli [articoli 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art81)-[93, del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art93);
-
-Considerato che le tabelle dell'ordinamento didattico universitario relative ai corsi di laurea sono in fase di riordinamento per effetto di apposite commissioni di studio, e che anzi alcune tabelle sono state gia' riordinate;
-
-Rilevata la necessita' di accogliere la richiesta dell'Universita' degli studi di Pisa di istituire il corso di laurea in economia aziendale presso la facolta' di economia e commercio, allo scopo di riequilibrare le iscrizioni presso gli omonimi corsi di laurea dell'Universita' Bocconi di Milano e dell'Universita' di Venezia, al fine di assicurare una migliore formazione degli studenti;
-
-Riconosciuta la particolare necessita' di approvare la modifica proposta in deroga al termine triennale di cui all'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pisa e convalidati dal Consiglio universitario nazionale nel suo parere;
 
 Sentito il parere del Consiglio universitario nazionale;
 
@@ -39,104 +33,359 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Art. 1
+------
 
   
+Art. 64 - nell'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne (indirizzo europeo) sono inserite le seguenti discipline:  
+istituzioni di lingua francese;  
+istituzioni di lingua inglese;  
+istituzioni di lingua spagnola;  
+linguistica russa;  
+istituzioni di lingua tedesca.  
+
+Art. 2
+------
+
   
-L'art. 52, relativo alle lauree che conferisce la facolta' di economia e commercio, e' soppresso e cosi' sostituito:   
-"Art. 52. - La facolta' di economia e commercio conferisce le lauree in:   
-economia e commercio;   
-economia aziendale".   
-- Dopo l'art. 55, con il conseguente scorrimento della numerazione degli articoli successivi, e' inserito il seguente articolo relativo all'ordinamento degli studi del corso di laurea in economia aziendale:   
-Art. 55. - La durata del corso degli studi per la laurea in economia aziendale e' di quattro anni.   
-Insegnamenti fondamentali:   
-1) sociologia;   
-2) istituzioni di diritto privato;   
-3) istituzioni di diritto pubblico;   
-4-5) economia politica I e II;   
-6) storia economica;   
-7) statistica metodologica;   
-8) economia aziendale;   
-9) metodologie e determinazioni quantitative di azienda;   
-10) diritto commerciale;   
-11) politica economica e scienza delle Finanze;   
-12) economia aziendale (corso progredito);   
-13) economia delle aziende industriali;   
-14) economia delle aziende commerciali;   
-15) economia delle aziende di credito;   
-16) organizzazione del lavoro;   
-17) matematica generale.   
-Insegnamenti complementari:   
-1) economia delle aziende industriali: corso progredito;   
-2) economia delle aziende di credito: corso progredito;   
-3) economia delle aziende commerciali: corso progredito;   
-4) statistica metodologica: corso progredito;   
-5) metodologia delle scienze sociali;   
-6) matematica finanziaria e attuariale;   
-7) direzione e analisi del processo decisionale;   
-8) organizzazione delle imprese industriali;   
-9) programmazione e controllo;   
-10) funzioni finanziarie;   
-11) funzioni commerciali;   
-12) funzioni di produzione;   
-13) amministrazione del personale e analisi delle mansioni;   
-14) economia dei settori di aziende industriali;   
-15) economia dei gruppi, delle concentrazioni e delle cooperazioni aziendali;   
-16) economia delle imprese pubbliche;   
-17) metodi quantitativi per le decisioni;   
-18) bilancio ed altre determinazioni di sintesi;   
-19) contabilita' industriale;   
-20) sistemi di informazioni e di controllo;   
-21) pianificazione a lungo periodo;   
-22) economia delle fonti di energia;   
-23) economia degli intermediari finanziari;   
-24) rilevazioni bancarie;   
-25) organizzazione delle aziende di credito;   
-26) economia del medio circolante;   
-27) economia del mercato mobiliare;   
-28) la gestione valutaria delle banche;   
-29) economia delle aziende del grande dettaglio;   
-30) tecnica delle ricerche di mercato;   
-31) costi di distribuzione e canali di distribuzione;   
-32) organizzazione commerciale;   
-33) economia e tecnica della pubblicita';   
-34) politiche dei prezzi;   
-35) tecnica del commercio internazionale;   
-36) economia delle aziende di assicurazione e di previdenza;   
-37) organizzazione del lavoro nelle amministrazioni pubbliche;   
-38) bilancio ed altre determinazioni di sintesi nelle amministrazioni pubbliche;   
-39) programmazione e pianificazione nella amministrazione pubblica;   
-40) localizzazione delle imprese industriali e commerciali;   
-41) costi e ricavi bancari;   
-42) economia delle aziende agrarie;   
-43) tecnologia dei processi produttivi;   
-44) diritto industriale;   
-45) diritto tributario;   
-46) diritto fallimentare;   
-47) diritto penale commerciale;,   
-48) diritto del lavoro e della previdenza sociale;   
-49) diritto bancario e della borsa;   
-50) diritto amministrativo;   
-51) diritto internazionale.   
-Per essere ammesso all'esame di laurea lo studente deve avere superato gli esami di tutti gli insegnamenti obbligatori fondamentali del corso di laurea e inoltre i nove insegnamenti complementari scelti fra gruppi di discipline indicate dalla facolta' per i singoli piani di studio, a seconda dell'indirizzo prescelto.   
-Gli studenti possono, tuttavia, previa approvazione della facolta', seguire un proprio piano degli studi, fatti salvi gli insegnamenti obbligatori, purche' esso comprenda insegnamenti impartiti nella facolta'.   
-Lo studente, inoltre, dovra' prima di sostenere l'esame di laurea, dar prova di corretta conoscenza di due lingue straniere, scelte fra quelle impartite negli istituti linguistici dell'Universita'.   
+Gli articoli 67 e 68, relativi al corso di laurea in storia, sono soppressi e sostituiti come segue:  
+Art. 67. - La durata del corso degli studi per la laurea in storia e' di quattro anni.  
+Il corso di studi si distingue in sei indirizzi:  
+A) Antico;  
+B) Medioevale;  
+C) Moderno;  
+D) Contemporaneo;  
+E) Orientale;  
+F) Storico-religioso.  
+Sono titoli di ammissione:  
+a) il diploma di scuola media superiore di durata quinquennale;  
+b) il diploma rilasciato al termine dell'anno integrativo frequentato dopo il conseguimento del diploma di scuola media superiore di durata quadriennale.  
+A) Indirizzo antico:  
+Sono insegnamenti fondamentali:  
+\* storia romana;  
+\* storia greca;  
+storia orientale antica;  
+\* storia medioevale;  
+archeologia e storia dell'arte greca e romana;  
+storia del Mediterraneo antico orientale;  
+\* papirologia;  
+geografia storica del mondo antico;  
+epigrafia e antichita' greche;  
+epigrafia e antichita' romane;  
+\* letteratura italiana.  
+Sono insegnamenti complementari:  
+antichita' greche e romane;  
+\* archeologia cristiana;  
+archeologia fenicio-punica;  
+archeologia greca e romana;  
+archeologia orientale;  
+archeologia delle province romane;  
+assirologia;  
+\* ebraico e lingue semitiche comparate;  
+egittologia;  
+epigrafia greca;  
+epigrafia latina;  
+epigrafia semitica;  
+esegesi delle fonti della storia greca e romana;  
+\* etnologia;  
+etruscologia e archeologia italica;  
+filologia semitica;  
+filologia greca e latina;  
+ittitologia;  
+\* letteratura cristiana antica;  
+\* letteratura greca;  
+\* letteratura latina;  
+numismatica antica;  
+paleografia greca;  
+paleografia latina, paletnologia;  
+storia del cristianesimo antico;  
+storia del diritto greco;  
+\* storia del diritto romano;  
+storia economica del mondo antico;  
+storia della filosofia antica;  
+storia delle religioni del mondo classico;  
+storia sociale del mondo antico;  
+topografia dell'Italia antica;  
+storia delle origini cristiane;  
+\* storia del Cristianesimo e storia delle origini cristiane;  
+civilta' antiche dell'Italia meridionale;  
+topografia antica;  
+iranistica;  
+filosofia dell'India e dell'Asia orientale;  
+indologia;  
+\* storia delle dottrine economiche;  
+\* storia della scienza e della tecnica.  
+B) Indirizzo medioevale:  
+Sono insegnamenti fondamentali:  
+\* storia medioevale;  
+\* storia romana;  
+\* storia moderna;  
+storia dell'arte medioevale;  
+\* letteratura italiana;  
+\* paleografia e diplomatica;  
+lingua e letteratura latina medioevale;  
+storia economica medioevale;  
+\* geografia storica dell'Europa;  
+storia della filosofia medioevale;  
+istituzioni medioevali.  
+Sono insegnamenti complementari:  
+\* archivistica;  
+storia bizantina;  
+filologia romanza;  
+archeologia e topografia medioevali;  
+\* storia delle dottrine economiche;  
+\* storia della scienza e della tecnica;  
+storia medioevale dell'Oriente europeo;  
+storia dei Paesi islamici;  
+archeologia medioevale;  
+bibliografia e biblioteconomica;  
+cronologia e cronografia;  
+numismatica, sfragistica e araldica;  
+epigrafia medioevale;  
+storia del diritto italiano;  
+museologia;  
+didattica della storia;  
+\* antropologia culturale;  
+teoria e storia della storiografia;  
+storia del commercio e della navigazione;  
+codicologia;  
+storia delle esplorazioni geografiche;  
+storia e civilta' precolombiane dell'America;  
+storia dell'Europa medioevale;  
+\* politica economica europea;  
+paleografia bizantina;  
+esegesi delle fonti della storia medioevale;  
+letteratura umanistica;  
+storia agraria medioevale;  
+storia del Cristianesimo medioevale;  
+pubblicistica e cronachistica medioevale;  
+storia degli insediamenti tardo-antichi e medioevali;  
+linguistica, onomastica e toponomastica medioevale;  
+storia della Chiesa medioevale e dei movimenti ereticali.  
+C) Indirizzo moderno:  
+Sono insegnamenti fondamentali:  
+\* storia moderna;  
+storia dell'arte moderna;  
+\* storia delle istituzioni e delle dottrine politiche;  
+teoria e storia della storiografia nell'eta' moderna;  
+\* letteratura italiana;  
+storia economica dell'eta' moderna;  
+\* geografia storica dell'Europa;  
+\* storia della filosofia moderna e contemporanea;  
+metodi quantitativi applicati alla storia;  
+storia della scienza e della tecnica nell'eta' moderna;  
+storia degli antichi stati italiani.  
+Sono insegnamenti complementari:  
+storia dell'Africa;  
+storia dell'Asia;  
+storia dell'America latina;  
+storia dell'Europa orientale;  
+storia del Rinascimento;  
+storia dell'America settentrionale;  
+letteratura italiana moderna;  
+storia dell'eta' della Riforma e Controriforma;  
+storia dell'eta' dell'Illuminismo;  
+\* storia del Risorgimento;  
+\* storia e tecnica militare;  
+storia della sanita';  
+storia della chimica;  
+storia urbana;  
+\* storia delle tecnologie;  
+storia agraria moderna;  
+storia delle esplorazioni e scoperte geografiche;  
+storia del commercio e dell'industria;  
+storia della moneta e della borsa;  
+\* politica economica europea;  
+etnologia storica;  
+cronologia e tecniche della misura del tempo;  
+\* istituzioni di educazione civica;  
+storia della fisica;  
+storia delle matematiche;  
+storia della navigazione;  
+storia dell'Europa occidentale nell'eta' moderna;  
+\* storia delle istituzioni sociali e politiche;  
+\* storia medioevale;  
+\* storia contemporanea;  
+\* demografia storica;  
+\* antropologia sociale;  
+storia della Toscana nell'eta' moderna;  
+\* storia delle dottrine economiche;  
+\* storia della scienza e della tecnica.  
+D) Indirizzo contemporaneo:  
+Sono insegnamenti fondamentali:  
+\* storia contemporanea;  
+\* storia del Risorgimento;  
+\* storia delle istituzioni e delle dottrine politiche;  
+storia dell'arte contemporanea;  
+\* letteratura italiana;  
+storia economica dell'eta' industriale;  
+\* geografia storica dell'Europa;  
+\* storia della filosofia moderna e contemporanea;  
+metodologie sociologiche;  
+storia della scienza e della tecnica nell'eta' contemporanea;  
+teoria e storia della storiografia nell'eta' contemporanea.  
+Sono insegnamenti complementari:  
+\* geografia politica ed economica;  
+metodi quantitativi applicati alle scienze storiche e tecniche delle previsioni;  
+letteratura italiana contemporanea;  
+storia della colonizzazione e della decolonizzazione;  
+storia dei Paesi africani nell'eta' contemporanea;  
+storia dei Paesi del vicino e medio Oriente nell'eta' contemporanea;  
+storia degli Stati Uniti d'America;  
+\* storia della Cina contemporanea;  
+\* storia del Giappone contemporaneo;  
+storia dell'America latina contemporanea;  
+storia dell'Europa contemporanea;  
+\* storia della Russia e dell'Unione sovietica;  
+storia della Gran Bretagna e del Commonwealth;  
+storia della Francia contemporanea;  
+storia della Spagna contemporanea;  
+storia della Germania contemporanea;  
+storia contemporanea dei Paesi scandinavi;  
+storia del giornalismo;  
+demografia storica;  
+storia della moneta e della banca;  
+\* storia e tecnica militare;  
+storia dell'aviazione;  
+storia dei trasporti;  
+storia degli sport;  
+\* politica economica europea;  
+\* storia delle tecnologie;  
+\* istituzioni di educazione civica;  
+storia delle dottrine economiche;  
+storia delle tradizioni popolari;  
+storia dell'industria;  
+storia agraria contemporanea;  
+storia del movimento operaio e sindacale;  
+storia dei trattati e delle relazioni internazionali;  
+\* storia delle istituzioni sociali e politiche;  
+\* storia medioevale;  
+\* storia moderna;  
+antropologia sociale;  
+storia dell'Italia post-unitaria;  
+geografia applicata;  
+\* storia delle dottrine economiche;  
+\* storia della scienza e della tecnica;  
+storia dell'Africa contemporanea.  
+E) Indirizzo orientale:  
+Sono insegnamenti fondamentali:  
+\* storia contemporanea;  
+\* storia moderna;  
+storia economica;  
+\* politica economica europea;  
+\* geografia politica ed economica;  
+\* letteratura italiana;  
+\* antropologia culturale;  
+storia dell'Europa orientale;  
+storia e istituzioni dei Paesi islamici;  
+storia e istituzioni dell'Africa sub-sahariana;  
+storia del sub-continente indiano e dell'Asia orientale.  
+Sono insegnamenti complementari:  
+storia dell'Islamismo;  
+istituzioni giuridiche e sociali dell'Europa orientale;  
+lingua bulgara;  
+lingua ceca;  
+lingua greca moderna;  
+lingua polacca;  
+lingua romena;  
+lingua russa;  
+lingua serbocroata;  
+lingua svedese;  
+lingua tedesca;  
+lingua turca;  
+lingua ungherese;  
+storia della storiografia russa e sovietica;  
+storia economica dell'Europa orientale;  
+storia della Polonia;  
+\* storia della Russia e dell'Unione sovietica;  
+diritto mussulmano;  
+dialettologia araba;  
+lingua araba;  
+lingua cinese;  
+lingua giapponese;  
+lingua hindi;  
+lingua indonesiana;  
+lingua persiana;  
+\* storia del Giappone contemporaneo;  
+\* storia della Cina contemporanea;  
+storia dell'India contemporanea;  
+storia e civilta' del vicino e medio Oriente dall'avvento dell'Islam all'eta' moderna;  
+lingua amarica;  
+lingua berbera;  
+lingua hausa;  
+lingua somala;  
+lingua svahili;  
+storia dell'Africa e dell'Asia mediterranee;  
+religione e istituzioni dei popoli dell'Africa;  
+\* storia delle dottrine economiche;  
+\* storia della scienza e della tecnica.  
+F) Indirizzo storico-religioso:  
+Sono insegnamenti fondamentali:  
+\* storia greca;  
+\* storia romana;  
+\* storia medioevale;  
+\* storia moderna;  
+\* storia contemporanea;  
+storia della Chiesa;  
+storia del Cristianesimo;  
+storia delle religioni;  
+\* letteratura italiana;  
+\* letteratura cristiana antica;  
+\* archeologia cristiana.  
+Sono insegnamenti complementari:  
+filologia veterotestamentaria;  
+filologia neotestamentaria;  
+\* ebraico e lingue semitiche comparate;  
+storia della letteratura latina medioevale;  
+\* letteratura latina;  
+\* paleografia e diplomatica;  
+\* archivistica;  
+\* papirologia;  
+\* letteratura greca;  
+storia della teologia;  
+filologia bizantina;  
+filologia medioevale e umanistica;  
+storia e sistemi delle relazioni tra Stato e Chiesa nell'eta' moderna;  
+filosofia della storia;  
+filosofia della religione;  
+filosofia morale;  
+storia della filosofia;  
+filosofia teoretica;  
+sanscrito;  
+\* etnologia;  
+sociologia;  
+storia religiosa dell'Oriente cristiano;  
+agiografia;  
+storia dell'arte medioevale e moderna;  
+\* storia del diritto romano;  
+storia della pedagogia;  
+storia dell'espansione coloniale e della decolonizzazione;  
+metodologia didattica della storia;  
+islamistica;  
+religioni dell'India e dell'estremo Oriente;  
+storia della liturgia;  
+ideologie sociali cristiane;  
+storia delle Chiese e dei movimenti religiosi cristiani;  
+storia religiosa dell'Europa;  
+\* storia delle dottrine economiche;  
+\* storia della scienza e della tecnica.  
+Le materie fondamentali e complementari segnate con asterisco sono comuni ai diversi indirizzi del corso di laurea.  
+Art. 68. - Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed in almeno otto insegnamenti complementari di cui sei dell'indirizzo prescelto.  
+Lo studente dovra', inoltre, aver superato gli esami in due insegnamenti di lingua straniera da mutuarsi presso la stessa o altre facolta' della medesima Universita': una delle due lingue dovra' essere scelta fra quelle del gruppo anglosassone ed una fra quelle del gruppo neolatino.  
+L'esame di laurea in storia consiste nella discussione di una dissertazione scritta svolta dal candidato in uno degli insegnamenti relativi al corso di laurea ed in rapporto al carattere della laurea stessa e dell'indirizzo prescelto.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 ottobre 1986
+### Dato a Roma, addi' 23 dicembre 1983
 
-COSSIGA
+PERTINI FALCUCCI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Visto, il Guardasigilli: ROGNONI
+Registrato alla Corte dei conti, addi' 22 marzo 1984
 
-Registrato alla Corte dei conti, addi' 27 novembre 1986
-
-Registro n. 86 Istruzione, foglio n. 141
+Registro n. 17 Istruzione, foglio n. 329

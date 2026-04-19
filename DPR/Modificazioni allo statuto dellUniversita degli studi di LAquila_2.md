@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1986 n. 937
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 agosto 1986 n. 734
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1986 n. 937
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 agosto 1986 n. 734
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di L'Aquila.
 --------------------------------------------------------------------

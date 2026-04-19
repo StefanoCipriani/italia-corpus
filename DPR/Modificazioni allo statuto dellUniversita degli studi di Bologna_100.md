@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1985 n. 803
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1981 n. 853
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1985 n. 803
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1981 n. 853
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,47 +18,66 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
+Sentito il parere del Consiglio universitario nazionale;
 
-Veduto il parere del Consiglio universitario nazionale;
+Sulla
+-----
 
-Sulla proposta del Ministro della pubblica istruzione;
+proposta del Ministro della pubblica istruzione; Decreta:
 
-Decreta:
---------
-
-Lo statuto dell'Universita' di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
+Art. 1
+------
 
   
-Nell'art. 73, relativo al corso di laurea in lettere della facolta' di lettere e filosofia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
-grammatica greca;  
-didattica del latino;  
-filologia latina;  
-grammatica latina.  
-Nell'art. 84, relativo al corso di laurea in discipline delle arti, della musica e dello spettacolo della facolta' di lettere e filosofia, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
-iconografia teatrale.  
+Lo statuto dell'Universita' di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+All'art. 457 sono aggiunti i seguenti commi:  
+  
+La frequenza alle esercitazioni pratiche e' obbligatoria.  
+La frequenza e' regolamentata secondo modalita' stabilite dal consiglio della scuola e ratificate dal consiglio di facolta'.  
+L'art. 489, relativo alla scuola di specializzazione in odontostomatologia, e' sostituito dal seguente:  
+  
+La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.  
+Gli esami di profitto teorici e pratici saranno sostenuti alla fine di ogni anno in un'unica sessione (ottobre).  
+Alla fine del terzo anno, dopo aver superato gli esami di profitto, gli allievi saranno ammessi a sostenere l'esame di diploma che consiste nella discussione orale di una dissertazione scritta, su un tema proposto in precedenza dall'insegnante della materia sulla quale verte l'argomento, e' approvato dal direttore della scuola.  
+Ogni iscritto deve provvedere al proprio corredo di strumenti.  
+L'art. 500, relativo alla scuola di specializzazione in chirurgia generale, e' sostituito dal seguente:  
+  
+La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.  
+L'art. 501 e' sostituito dal seguente:  
+  
+La frequenza e' regolamentata con modalita' stabilite dal consiglio della scuola e ratificate dal consiglio di facolta'.  
+L'art. 510, relativo alla scuola di specializzazione in medicina legale e delle assicurazioni, e' sostituito dal seguente:  
+  
+Sono disponibili dieci posti per ciascun anno di corso.  
+La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.  
+L'art. 519, relativo alla scuola di specializzazione in neurologia, viene sostituito dal seguente:  
+  
+La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.  
+L'insegnamento avra' carattere eminentemente pratico-dimostrativo-sperimentale a mezzo di lezioni, colloqui, esercitazioni, sopra casi clinici e ricerche di laboratorio. Le ricerche cliniche ed individuali sia a scopo pratico, sia a scopo scientifico, dovranno essere approvate dal direttore dell'istituto.  
+Il superamento degli esami e' obbligatorio alla fine di ogni anno di corso per il passaggio all'anno successivo. Gli esami riguardano le singole materie di ciascun anno di corso. Gli allievi, oltre a dover superare gli esami speciali del predetto quarto anno, sono tenuti, per conseguire il diploma, a discutere una dissertazione scritta.  
+L'art. 545, relativo alla scuola di specializzazione in medicina interna, viene sostituito dal seguente:  
+  
+Sono disponibili dieci posti per ciascun anno di corso.  
+Il numero complessivo dei posti nei cinque anni di corso non dovra' superare i cinquanta iscritti.  
+La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.  
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 settembre 1985
+### Dato a Roma, addi' 31 luglio 1981
 
-COSSIGA
+PERTINI BODRATO
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: DARIDA
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 7 gennaio 1982
 
-Registrato alla Corte dei conti, addi' 19 dicembre 1985
-
-Registro n. 86 Istruzione, foglio n. 138
+Registro n. 1 Istruzione, foglio n. 126

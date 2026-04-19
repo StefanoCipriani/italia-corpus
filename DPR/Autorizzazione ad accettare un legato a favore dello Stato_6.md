@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1976 n. 469
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 maggio 1977 n. 743
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1976 n. 469
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 maggio 1977 n. 743
 =============================================================
 
 Autorizzazione ad accettare un legato a favore dello Stato.
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-469. Decreto del Presidente della Repubblica 12 maggio 1976, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato del legato disposto dal comm. Mario Magrini con testamenti olografi, il primo datato 24 marzo 1964, n. 103 di repertorio, l'altro datato 4 aprile 1964, n. 104 di repertorio, a rogito dott.  
-Nino Bertelli, notaio in Ferrara, consistente in un gruppo di sculture, di dipinti e di oggetti d'arte di notevole interesse artistico e storico, da destinare al museo del Palazzo dei diamanti di Ferrara.  
+743. Decreto del Presidente della Repubblica 9 maggio 1977, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato del legato disposto dal sig. Roberto Moschitti con testamento olografo 6 gennaio 1975, pubblicato con atto pubblico 14 agosto 1975, n. 147250 di repertorio, a rogito dell'avv. Isabella Cosentini, notaio in Napoli, consistente in una raccolta di 13 violini del XIII, XIX e XX secolo, i quali rivestono un importante interesse artistico e storico, da destinare al museo di Capodimonte in Napoli.  
   
 Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 30 giugno 1976  
-Atti di Governo, registro n. 7, foglio n. 36
+Registrato alla Corte dei conti, addi' 7 ottobre 1977  
+Registro n. 14 Beni culturali, foglio n. 279

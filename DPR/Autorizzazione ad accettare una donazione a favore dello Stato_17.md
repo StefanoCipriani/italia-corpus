@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 aprile 1975 n. 379
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1973 n. 1144
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 aprile 1975 n. 379
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1973 n. 1144
+=================================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-379. Decreto del Presidente della Repubblica 28 aprile 1975, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dal comune di Venafro (Isernia) con atto 1 luglio 1972, n. 37081 di repertorio, a rogito notaio Guido Riccio, di un fabbricato sito in Venafro, tra il corso Garibaldi e la via De Amicis, denominato S. Chiara (gia' ex convento S. Chiara).  
+1144. Decreto del Presidente della Repubblica 5 settembre 1973, col quale, sulla proposta del Ministro per la difesa, viene autorizzata l'accettazione della donazione a favore dello Stato di un medagliere navale, disposta dall'avv. Angelo Ponzio con atto del notaio Gianfranco Troise, registrato a Taranto il 23 febbraio 1973 al n. 3407, da conservare in una sala del circolo Marina di Taranto intitolata al dottor Ugo Ponzio-De Quarto, numismatico navale, aperta alla visita di autorita', personalita', studiosi e amatori dell'arte numismatica.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 8 agosto 1975  
-Atti di Governo, registro n. 11, foglio n. 57
+Visto, il Guardasigilli: ZAGARI  
+Registrato alla Corte dei conti, addi' 7 ottobre 1974  
+Atti di Governo, registro n. 6, foglio n. 8. - SCIARRETTA

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1976 n. 763
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 gennaio 1980 n. 42
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1976 n. 763
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 gennaio 1980 n. 42
 =============================================================
 
 Autorizzazione all'associazione "Lega nazionale", in Trieste, ad accettare un legato.
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-763. Decreto del Presidente della Repubblica 16 luglio 1976, col quale, sulla proposta del Ministro per i beni culturali e ambientali, l'associazione "Lega nazionale", in Trieste, viene autorizzata ad accettare il legato disposto dalla sig.ra Maria Spigolotto vedova Franelli con testamento olografo 28 ottobre 1965, pubblicato il 9 marzo 1970, n. 117.771/5536 di repertorio, a rogito dott. Giovanni Tomasi, notaio in Trieste, consistente in una parte di un immobile sito in Trieste, via Crispi, 73, e via Farneto, 4, con l'onere di adibirlo ad asilo educativo e a ritrovo per ragazzi bisognosi.  
+42. Decreto del Presidente della Repubblica 15 gennaio 1980, col quale, sulla proposta del Ministro per i beni culturali e ambientali, l'associazione "Lega nazionale", in Trieste, viene autorizzata ad accettare il legato, consistente in due appartamenti siti in Trieste piu' un importo in contanti, del valore complessivo di circa L. 65.850.000, disposto dal dott. Paolo del Fonte con testamento olografo 10 febbraio 1978, pubblicato in data 21 settembre 1978, n. 16355/1884 di repertorio, a rogito dott.  
+Francesco Testa, notaio in Milano.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 12 novembre 1976  
-Registro n. 10 Beni culturali, foglio n. 287
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti, addi' 25 febbraio 1980  
+Registro n. 4 Beni culturali, foglio n. 35

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1985 n. 859
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 627
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1985 n. 859
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 627
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Urbino.
 ------------------------------------------------------------------
@@ -39,27 +39,23 @@ Articolo unico
 --------------
 
   
-Art. 62 - nell'elenco degli insegnamenti complementari del corso di laurea in materie letterarie e' inserito il seguente insegnamento:  
-storia di una regione italiana (Marche).  
-Art. 63 - nell'elenco degli insegnamenti complementari del corso di laurea in pedagogia e' inserito il seguente insegnamento:  
-storia di una regione italiana (Marche).  
-Art. 64 - nell'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere, della facolta' di magistero, e' inserito il seguente insegnamento:  
-storia di una regione italiana (Marche).  
-Art. 68 - nell'elenco degli insegnamenti complementari del corso di laurea in sociologia, della facolta' di magistero, e' inserito il seguente insegnamento:  
-storia di una regione italiana (Marche).  
+Nell'art. 62, relativo al corso di laurea in materie letterarie, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+storia dell'arte contemporanea.  
+Nell'art. 63, relativo al corso di laurea in pedagogia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+storia dell'arte contemporanea.  
+Nell'art. 64, relativo al corso di laurea in lingue e letterature straniere, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+storia dell'arte contemporanea.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 settembre 1985
+### Dato a Roma, addi' 27 giugno 1983
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 21 gennaio 1986
+Registrato alla Corte dei conti, addi' 15 ottobre 1983
 
-Registro n. 2 Istruzione, foglio n. 98
+Registro n. 66 Istruzione, foglio n. 120

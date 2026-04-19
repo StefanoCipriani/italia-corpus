@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 aprile 1977 n. 400
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1975 n. 652
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 aprile 1977 n. 400
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1975 n. 652
 =============================================================
 
 Autorizzazione all'associazione "Casa di carita' arti e mestieri", in Torino, ad accettare una donazione.
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-400. Decreto del presidente della Repubblica 1 aprile 1977, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'associazione "Casa di carita' arti e mestieri", in Torino, viene autorizzata ad accettare la donazione, da parte dell'"Unione catechisti del SS. Crocefisso e di Maria SS.  
-Immacolata", di Torino, dell'immobile sito in Torino, via Bernardino Galliari, 2, angolo via Saluzzo, censito al nuovo catasto edilizio urbano alla partita 62614, foglio 189, n. 183, comprendente quattordici unita' immobiliari per vani accatastati 42, mq 274, con atto rogato per notar Billia di Torino in data 28 gennaio 1976, n. 61190/28483 di repertorio, registrato in Torino, ufficio atti pubblici il 13 febbraio 1976, al n. 5850, vol. 1313, allo scopo di destinarlo al raggiungimento dei fini istituzionali.  
+652. Decreto del Presidente della Repubblica 31 luglio 1975, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'associazione "Casa di carita' arti e mestieri", in Torino, viene autorizzata ad accettare una donazione, consistente in un immobile e relativo terreno circostante, sito in Torino, corso Benedetto Brin, 26, eccettuato il terzo ed il quarto piano dello stabile, disposta dall'opera diocesana della preservazione della fede in Torino con atto 30 novembre 1971, n. 40953/20460 di repertorio, a rogito dott. Aldo Billia, notaio in Torino, registrato a Torino in data 14 dicembre 1971, al n. 39656, vol. 1197.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 7 luglio 1977  
-Registro n. 1 Lavoro, foglio n. 26
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 15 dicembre 1975  
+Atti di Governo, registro n. 15, foglio n. 29

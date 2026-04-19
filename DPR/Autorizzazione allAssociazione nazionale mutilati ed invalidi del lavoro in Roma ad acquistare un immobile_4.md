@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 febbraio 1985 n. 617
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1985 n. 987
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 febbraio 1985 n. 617
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1985 n. 987
+==============================================================
 
 Autorizzazione all'Associazione nazionale mutilati ed invalidi del lavoro, in Roma, ad acquistare un immobile.
 --------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-617. Decreto del Presidente della Repubblica 20 febbraio 1985, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Associazione nazionale mutilati ed invalidi del lavoro, in Roma, viene autorizzata ad acquistare, al prezzo di lire 90.000.000, un immobile, rappresentato da tre stanze ed accessori piu' vano cantina, sito in Alessandria, via Legnano n. 49, censito al nuovo catasto edilizio urbano al foglio 268/C, mappale 4351/20, di proprieta' di Carla Lombardi, come da atto di compravendita 9 novembre 1982, n. 823 di repertorio, a rogito dott. Sergio Finesso, notaio in Alessandria, registrato ad Alessandria in data 26 novembre 1982, al n. 4904, da adibire ad ufficio.   
+987. Decreto del Presidente della Repubblica 25 ottobre 1985, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Associazione nazionale mutilati ed invalidi del lavoro, in Roma, viene autorizzata ad acquistare, al prezzo di L. 57.200.000, un appartamento al primo piano, scala D, dell'immobile sito in Foggia, via Zuretti, censito al nuovo catasto edilizio urbano alla partita n. 3322, foglio n. 95, particelle n. 30 e n. 35, di proprieta' della S.p.a. S.I.F.T. di Napoli, come da atto preliminare di compravendita 1° luglio 1975, n. 124272 di repertorio, a rogito dott. Francesco Mustilli, notaio in Napoli, da adibire a sede della sezione provinciale dell'Ente.   
   
 Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 29 ottobre 1985   
-Registro n. 1 Lavoro, foglio n. 229
+Registrato alla Corte dei conti, addi' 22 marzo 1986   
+Registro n. 1 Lavoro, foglio n. 236

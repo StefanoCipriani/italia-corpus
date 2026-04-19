@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1966 n. 1332
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1966 n. 1162
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1966 n. 1332
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1966 n. 1162
+=============================================================
 
 Autorizzazione all'Istituto nazionale per l'addestramento e per il perfezionamento dei lavoratori dell'industria (INAPLI), con sede in Roma, ad acquistare un immobile.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1332. Decreto del Presidente della Repubblica 5 settembre 1966, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Istituto nazionale per l'addestramento e per il perfezionamento dei lavoratori dell'industria (INAPLI), con sede in Roma, viene autorizzato ad acquistare dalla sig.ra Pasqualina Campa Alari, un terreno edificatorio sito in Lecce, via del Mare (S. Cataldo), distinto in catasto al foglio n. 215, particella 5/a, partita n. 4256, di mq. 5.273, come da atto pubblico di compravendita per notaio Bruno Franco, repertorio n. 37015, raccolta n. 5447, del 27 luglio 1961.  
+1162. Decreto del Presidente della Repubblica 28 marzo 1966, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Istituto nazionale per l'addestramento e per il perfezionamento dei lavoratori dell'industria (INAPLI), con sede in Roma, viene autorizzato ad acquistare, dal sig. Giuseppe Naccarato, un'area fabbricabile sita in Cosenza, localita' "Torre Alta", della superficie complessiva di mq. 5850, distinta in catasto alla partita n. 1372, foglio n. 7, particella 16 sub c e 167 a (allo scopo di provvedere alla costruzione di stabili da adibire esclusivamente quale sede sociale per il conseguimento degli scopi assistenziali propri dell'Istituto stesso), come da atto notaio Luigi Goffredo, repertorio n. 114839, in data 11 dicembre 1961 e da atto di rettifica del 12 giugno 1962, repertorio 119144.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 20 febbraio 1967  
-Atti del Governo, registro n. 209, foglio n. 59. - VILLA
+Registrato alla Corte dei conti, addi' 21 dicembre 1966  
+Atti del Governo, registro n. 208, foglio n. 49. - VILLA

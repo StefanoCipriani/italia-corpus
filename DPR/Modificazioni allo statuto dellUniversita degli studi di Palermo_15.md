@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1979 n. 403
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1970 n. 942
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1979 n. 403
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1970 n. 942
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
@@ -10,617 +10,183 @@ Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 147 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono apportate le seguenti modifiche:
+Dopo l'art. 110 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di perfezionamento in diritto regionale.
 
-la scuola di specializzazione in chirurgia muta la denominazione in quella di scuola di specializzazione in chirurgia generale;
+Scuola di perfezionamento in diritto regionale
 
-la scuola di specializzazione in clinica oculistica muta la denominazione in quella di scuola di specializzazione in oftalmologia;
+Art. 111. - E' istituita presso la facolta' di giurisprudenza una scuola di perfezionamento in diritto regionale, che ha per fine di indirizzare allo studio dei problemi specifici che interessano il diritto regionale.
 
-la scuola di specializzazione in radiologia (A), radiologia (B), radiologia diagnostica muta la denominazione in quella di scuola di specializzazione in radiologia.
+Art. 112. - Alla scuola di perfezionamento sono ammessi i laureati in giurisprudenza, scienze politiche ed economia e commercio.
 
-La scuola di specializzazione in chirurgia di cui all'art. 163 muta la denominazione in quella di scuola di specializzazione in chirurgia generale.
+Art. 113. - Il corso di studio ha la durata di due anni.
 
-L'art. 169, relativo alla scuola di specializzazione in psichiatria, e' soppresso e sostituito dal seguente:
-
-Scuola di specializzazione in psichiatria
-
-Art. 169. - La scuola di specializzazione in psichiatria ha sede presso la cattedra di psichiatria e conferisce il diploma di specialista in psichiatria.
-
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o in carenza, al professore di ruolo o fuori ruolo di materia affine.
-
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.
-
-E' richiesto, almeno all'inizio del corso, il diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
-
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.
-
-Il numero massimo degli allievi e' di tre per anno di corso e complessivamente di dodici iscritti per l'intero corso di studio.
-
-L'ammissione al corso avviene per titoli ed esame.
-
-Le materie d'insegnamento sono le seguenti:
+Art. 114. - Gli insegnamenti impartiti nella scuola sono:
 
 1° Anno:
 
-1) metodologia del rapporto medico paziente (annuale;
+Diritto costituzionale;
 
-2) psicologia (annuale);
+Storia del diritto pubblico regionale;
 
-3) elementi di genetica e biochimica (annuale);
+Diritto amministrativo I;
 
-4) strutture e funzioni integrative del sistema nervoso centrale (annuale);
+Politica economica regionale I;
 
-5) neurologia clinica (annuale);
-
-6) clinica psichiatrica (I) (quadriennale).
+Diritto tributario.
 
 2° Anno:
 
-1) psicopatologia e psicodinamica (annuale);
+Ordinamento e legislazione regionale;
 
-2) psicoterapia (I) (triennale);
+Diritto amministrativo II;
 
-3) psicofarmacologia (annuale);
+Politica economica regionale II;
 
-4) psicofarmacoterapia (annuale);
+Diritto tributario regionale;
 
-5) clinica psichiatrica (II) (quadriennale).
+Statistica e demografia.
 
-3° Anno:
+Art. 115. - L'insegnamento delle discipline di cui al piano di studi contemplate nel precedente articolo e' affidato per incarico a professori titolari, a liberi docenti e cultori con deliberazione della facolta' di giurisprudenza.
 
-1) psicodiagnostica ed informatica psichiatrica (annuale);
+Art. 116. - Gli insegnamenti e le esercitazioni della scuola di perfezionamento sono tenuti distinti da quelli per gli studenti del corso di giurisprudenza.
 
-2) psichiatria sociale (I) (biennale);
+Art. 117. - Gli insegnamenti possono avere, oltre che carattere di lezioni cattedratiche, quella forma che e' consentita dalla indole di ciascuna disciplina; sono inoltre tenute conferenze sugli argomenti oggetto del corso.
 
-3) psichiatria infantile;
+Art. 118. - Il programma della scuola viene compilato ogni anno dal direttore e deve essere approvato dai docenti della scuola; cosi' pure gli orari settimanali di insegnamento e di esercitazioni. I corsi di insegnamento si uniformano al calendario dell'universita'.
 
-4) psicoterapia (II) (triennale);
+Art. 119. - Gli esami di profitto vengono sostenuti dagli allievi alla fine di ogni anno di corso e si svolgono per singole discipline.
 
-5) clinica psichiatrica (III) (quadriennale).
+Le commissioni relative vengono nominate dal direttore della scuola.
 
-4° Anno:
+Gli esami si svolgono secondo le norme vigenti per gli esami di profitto delle facolta' universitarie.
 
-1) psicosomatica (annuale);
+L'iscritto che non abbia superato gli esami prescritti per il primo anno non viene ammesso all'anno successivo.
 
-2) psichiatria sociale (II) (biennale);
+Art. 120. - Per le materie a corso pluriennale l'esame e' unico e deve essere sostenuto alla fine del corso.
 
-3) psichiatria forense (annuale);
+Art. 121. - L'esame di diploma consiste nella discussione di una dissertazione originale scritta.
 
-4) psicoterapia (III) (triennale);
+Art. 122. - La commissione per l'esame di diploma, nominata dal rettore su proposta del direttore e' costituita dal direttore, che la presiede, e da altri quattro docenti della scuola stessa.
 
-5) clinica psichiatrica (IV) (quadriennale).
+Art. 123. - Tutti gli atti e i documenti relativi alla scuola di perfezionamento in diritto regionale sono conservati dalla segreteria dell'universita' che rilascia i certificati richiesti dagli interessati.
 
-Note esplicative.
+Art. 124. - In base al risultato dell'esame di diploma la segreteria dell'universita' rilascera' il relativo diploma di perfezionamento, che dovra' essere munito della firma del rettore, di quella del direttore della scuola e del direttore amministrativo, oltre che del timbro a secco dell'universita'.
 
-1) Strutture e funzioni applicative del sistema nervoso centrale: tale materia, annuale, e' comprensiva dell'anatomo-fisiologia del sistema nervoso centrale e della psicofisiologia.
+Art. 125. - Per la carriera scolastica, gli esami e la disciplina degli allievi valgono, in quanto applicabili, le disposizioni del regolamento approvato con regio decreto 4 giugno 1938, e successive modificazioni.
 
-2) Neurologia clinica: tale insegnamento, annuale, deve essere comprensivo eventualmente con sottodivisioni, di cenni di anatomia patologica del sistema nervoso centrale, di semeiologia neurologica clinica e strumentale, di neuroradiologia.
+Art. 126. - Gli iscritti devono pagare per tasse d'immatricolazione L. 10.000 e, annualmente, le somme seguenti:
 
-3) Clinica psichiatrica: tale materia, quadriennale, e' comprensiva anche degli elementi di semeiotica psichiatrica, delle tecniche laboratoristiche, delle terapie biologiche.
+per tassa di iscrizione L. 20.000; per contributi di esercitazioni e di seminario L. 15.000; per contributo di biblioteca L. 3000; per soprattasse esami di profitto L. 5000.
 
-4) Psicoterapia: tale materia, triennale, comprende e considera, nel corso dei tre anni, le tecniche ed i principi fondamentali delle principali psicoterapie individuali, direttive e non direttive, i principi fondamentali e le dinamiche piu' importanti - psicoterapie di gruppo - delle prassi psicoterapiche, socioterapiche e delle sociodinamiche delle istituzioni psichiatriche.
+I diplomati dovranno inoltre pagare L. 3000 per soprattasse di diploma. Coloro i quali conseguono il diploma di perfezionamento sono tenuti al versamento delle tasse di diploma in L. 6000, tasse, soprattasse e contributi sono versati alla cassa dell'universita'. La tassa di diploma va invece versata all'erario.
 
-5) Psicodiagnostica ed informativa psichiatrica: tale materia, annuale, e' comprensiva di cenni di statistica, dei reattivi mentali e psicodiagnostica strumentale e di metodologia della ricerca psichiatrica.
+Art. 127. Il provento delle tasse di immatricolazione e di iscrizione va devoluto per meta' alla scuola e per l'altra meta' va incamerato dall'universita'. Il provento dei contributi per esercitazioni devoluto al "Circolo giuridico Sampolo". Il contributo di biblioteca va devoluto interamente alla biblioteca della facolta' di giurisprudenza. Il provento delle soprattasse per gli esami di profitto e diploma va ripartito ai sensi del [decreto del Presidente della Repubblica 1 dicembre 1952, n. 5512](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-12-01;5512).
 
-6) Psichiatria sociale: tale materia, biennale, con molte possibilita' di suddivisioni, e' comprensiva di elementi di sociologia, di antropologia culturale, dietologia, di ecologia psichiatrica, di epidemiologia psichiatrica, di psichiatria transculturale, di psichiatria preventiva e di igiene mentale, prassi ed organizzazioni di assistenza psichiatrica sul territorio extra istituzionale.
+Art. 128. - Il direttore della scuola e' il preside della facolta' di giurisprudenza o un professore da lui delegato ed e' investito di tutti i poteri di direzione sia dal punto di vista didattico, che dal punto di vista amministrativo.
 
-7) Psicosomatica: tale materia, annuale, e' comprensiva degli aspetti psichici delle malattie somatiche della cosiddetta medicina integrata, della endocrinologia in riferimento alla psichiatria delle cosiddette specifiche malattie psicosomatiche.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-E' obbligatoria la frequenza per undici mesi all'anno; tale periodo comprende sia la frequenza alle lezioni, sia l'esperienza nei reparti di degenza e nelle strutture ambulatoriali a disposizione della scuola.
+Dato a Roma, addi' 27 settembre 1970
 
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+SARAGAT
 
-La scuola programma lo svolgimento dei corsi di insegnamento. Per il passaggio agli anni successivi e' obbligatorio il superamento degli esami per ogni singolo anno.
+MISASI
 
-Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi. Le lezioni teoriche sono integrate da seminari anche interdisciplinari, da documentazioni cliniche e da esperienze effettuate nei vari settori della disciplina.
-
-Alla fine dei quattro anni gli allievi che hanno frequentato i corsi saranno ammessi agli esami di diploma, consistenti nella presentazione e discussione di una tesi scritta di un argomento pertinente alla psichiatria, in una prova orale e in una prova pratica.
-
-Agli allievi che hanno ottenuto la approvazione dell'esame di diploma verra' rilasciato il diploma di specializzazione in psichiatria valido a tutti gli effetti di legge.
-
-La scuola di specializzazione in clinica oculistica, di cui all'art. 170, muta la denominazione in quella di scuola di specializzazione in oftalmologia.
-
-L'art. 174, primo comma, e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in medicina legale e delle assicurazioni e' fissato in venti per anno di corso per un totale di sessanta iscritti.
-
-L'art. 175, relativo alla scuola di specializzazione in radiologia, e' soppresso e sostituito dal seguente:
-
-Scuola di specializzazione in radiologia
-
-Art. 175. - La scuola di specializzazione in radiologia ha sede presso l'istituto di radiologia, ed e' diretta da un professore di ruolo o fuori ruolo della stessa materia o, in carenza, di materia affine. Alla scuola possono essere ammessi solo i laureati in medicina e chirurgia in possesso di diploma di abilitazione professionale e la loro immatricolazione e' subordinata all'esito di un esame di ammissione per titoli ed esami.
-
-Non sono ammesse abbreviazioni di corso.
-
-La scuola conferisce i seguenti diplomi:
-
-a) diploma di specialista in radiodiagnostica.
-
-Gli anni di studio necessari per conseguire questo titolo sono quattro;
-
-b) diploma di specialista in radioterapia oncologica.
-
-Gli anni di studio necessari per conseguire questo titolo sono quattro.
-
-La scuola ha un tronco comune di due anni identico per i diplomi di radiodiagnostica e di radioterapia oncologica.
-
-Gli insegnamenti per il diploma di specialista in radiodiagnostica sono cosi' distribuiti nei quattro anni di corso:
-
-1° Anno (comune alla specializzazione in radioterapia oncologica):
-
-a) fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);
-
-b) radiobiologia, legislazione e norme generali di radioprotezione;
-
-c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;
-
-d) nozioni di anatomia e fisiologia generale.
-
-2° Anno (comune alla radioterapia oncologica):
-
-anatomia patologica;
-
-apparecchiature e tecniche radiologiche;
-
-semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);
-
-radiopatologia;
-
-dosimetria applicata.
-
-3° Anno:
-
-tecniche speciali e relativa semeiotica;
-
-radiodiagnostica speciale dei vari organi ed apparati (I).
-
-4° Anno:
-
-tecniche speciali e relativa semeiotica (termografia, ecografia, xerografia, TAC) (II);
-
-radiodiagnostica speciale dei vari organi ed apparati (II)
-
-Gli insegnamenti per il diploma di specialista in radioterapia oncologica sono cosi' distribuiti nei quattro anni di corso:
-
-1° Anno (comune alla specializzazione in radiodiagnostica):
-
-fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);
-
-radiobiologia, legislazione e norme generali di radioprotezione;
-
-tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;
-
-nozioni di anatomia e fisiologia generale.
-
-2° Anno (comune a radiodiagnostica):
-
-anatomia patologica;
-
-apparecchiature e tecniche radiologiche;
-
-semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);
-
-radiopatologia;
-
-dosimetria applicata.
-
-3° Anno:
-
-oncologia generale;
-
-oncologia clinica (I);
-
-tecniche radioterapiche.
-
-4° Anno:
-
-oncologia clinica (II);
-
-fondamenti di terapia chirurgica dei tumori;
-
-radioterapia clinica;
-
-trattamento del canceroso in fase avanzata.
-
-I singoli insegnamenti saranno tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento.
-
-Il numero massimo di iscritti in corso alla scuola e' di venti da ripartirsi annualmente fra i vari corsi di diploma previsti del terzo comma dell'art. 175.
-
-La frequenza pratica e' obbligatoria (dieci mesi all'anno) e deve avvenire in reparti riconosciuti idonei. L'insegnamento verra' svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento aperti anche agli specialisti. Gli allievi per essere ammessi a sostenere gli esami delle singole materie, dovranno avere la firma di frequenza da parte del direttore della scuola stessa.
-
-Gli allievi al termine di ogni anno dovranno superare gli esami di profitto delle materie prescritte per poter ottenere l'iscrizione all'anno successivo.
-
-Gli allievi per conseguire il diploma di specializzazione, oltre ad essere approvati in tutti gli esami, dovranno elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola stessa.
-
-L'art. 180, relativo alla scuola di specializzazione in urologia, e' soppresso e sostituito dal seguente:
-
-Scuola di specializzazione in urologia
-
-Art. 180. - La scuola di specializzazione in urologia ha sede presso la clinica urologica e conferisce il diploma di specialista in urologia.
-
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
-
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.
-
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
-
-La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazioni.
-
-Il numero massimo degli allievi e' di cinque per anno di corso e complessivamente di venticinque iscritti per l'intero corso di studi.
-
-L'ammissione al corso avviene per titoli ed esami.
-
-Le materie d'insegnamento e gli esami sono i seguenti:
-
-Insegnamenti Esami
-
-1° Anno:
-
-1) anatomia sistematica e 1) anatomia sistematica e topografica dell'apparato topografica dell'apparato
-
-urogenitale maschile; urinario e genitale
-
-maschile;
-
-2) fisiologia dell'apparato 2) fisiologia dell'apparato
-
-urinario e genitale maschile; urinario e genitale
-
-maschile;
-
-3) batteriologia in urologia; 3) batteriologia in urologia.
-
-4) semeiotica funzionale e
-
-strumentale dell'apparato
-
-urogenitale I.
-
-2° Anno:
-
-1) semeiotica funzionale e 1) semeiotica funzionale e strumentale dell'apparato strumentale dell'apparato
-
-urogenitale II; urogenitale;
-
-2) le nefropatie mediche; 2) le nefropatie mediche;
-
-3) anatomia chirurgica dell'apparato 3) anatomia chirurgica del-
-
-urinario e genitale maschile; l'apparato urinario e
-
-genitale maschile.
-
-4) patologia dell'apparato
-
-urinario maschile I;
-
-5) radiologia dell'apparato
-
-urinario e genitale maschile I.
-
-3° Anno:
-
-1) patologia dell'apparato 1) patologia dell'apparato urinario e genitale maschile II; urinario genitale maschile;
-
-2) radiologia dell'apparato 2) radiologia dell'apparato
-
-urinario e genitale urinario e genitale
-
-maschile II; maschile;
-
-3) le affezioni cutanee e 3) le affezioni cutanee e veneree nei riguardi veneree nei riguardi
-
-dell'urologia; dell'urologia;
-
-4) andrologia. 4) andrologia.
-
-4° Anno:
-
-1) anatomia ed istologia 1) anatomia ed istologia pato-
-
-patologica dell'apparato logica dell'apparato urina-
-
-urinario e genitale maschile rio e genitale maschile 2) farmacoterapia delle affezioni 2) farmacoterapia delle affe-
-
-urogenitali; zioni urogenitali;
-
-3) anestesia e trattamento 3) anestesia e trattamento pre e post-operatorio pre e post operatorio
-
-del malato urologico; del malato urologico;
-
-4) nefrologia chirurgica; 4) nefrologia chirurgica.
-
-5) clinica urologica I;
-
-6) procedimenti di chirurgia
-
-endoscopica I;
-
-7) interventi e procedimenti
-
-operatori dell'apparato
-
-urinario e genitale maschile I.
-
-5° Anno:
-
-1) clinica urologica II; 1) clinica urologica;
-
-2) patologia e clinica uro- 2) patologia e clinica uro-
-
-logica infantile; logica infantile;
-
-3) urologia ginecologica; 3) urologia ginecologica;
-
-4) procedimenti di urologia 4) interventi e procedimenti
-
-endoscopica II; operatori sull'apparato urinario e genitale
-
-maschile.
-
-5) chirurgia dell'intestino;
-
-6) chirurgia vascolare;
-
-7) interventi e procedimenti
-
-operatori sull'apparato uri-
-
-nario e genitale maschile II.
-
-La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame. Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno ad eccezione delle discipline svolte in corsi pluriennali il cui esame sara' sostenuto alla fine dei corsi medesimi. Al termine del corso di studi per il conseguimento del diploma di specialista in urologia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservano e di farlo osservare.
-
-Dato a Roma, addi' 17 maggio 1979
-
-PERTINI
-
-SPADOLINI
-
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 28 luglio 1979 Registro n. 60 Istruzione, foglio n. 193
+alla Corte dei conti, addi' 5 dicembre 1970 Atti del Governo, registro n. 238, foglio n. 210. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
 Decreta:   
   
 Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 147 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono apportate le seguenti modifiche:   
-la scuola di specializzazione in chirurgia muta la denominazione in quella di scuola di specializzazione in chirurgia generale;   
-la scuola di specializzazione in clinica oculistica muta la denominazione in quella di scuola di specializzazione in oftalmologia;   
-la scuola di specializzazione in radiologia (A), radiologia (B), radiologia diagnostica muta la denominazione in quella di scuola di specializzazione in radiologia.   
-La scuola di specializzazione in chirurgia di cui all'art. 163 muta la denominazione in quella di scuola di specializzazione in chirurgia generale.   
-L'art. 169, relativo alla scuola di specializzazione in psichiatria, e' soppresso e sostituito dal seguente:   
   
-Scuola di specializzazione in psichiatria   
-Art. 169. - La scuola di specializzazione in psichiatria ha sede presso la cattedra di psichiatria e conferisce il diploma di specialista in psichiatria.   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
-Il numero massimo degli allievi e' di tre per anno di corso e complessivamente di dodici iscritti per l'intero corso di studio.   
-L'ammissione al corso avviene per titoli ed esame.   
-Le materie d'insegnamento sono le seguenti:   
+Dopo l'art. 110 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di perfezionamento in diritto regionale.   
+  
+Scuola di perfezionamento in diritto regionale   
+  
+Art. 111. - E' istituita presso la facolta' di giurisprudenza una scuola di perfezionamento in diritto regionale, che ha per fine di indirizzare allo studio dei problemi specifici che interessano il diritto regionale.   
+Art. 112. - Alla scuola di perfezionamento sono ammessi i laureati in giurisprudenza, scienze politiche ed economia e commercio.   
+Art. 113. - Il corso di studio ha la durata di due anni.   
+Art. 114. - Gli insegnamenti impartiti nella scuola sono:   
 1° Anno:   
-1) metodologia del rapporto medico paziente (annuale;   
-2) psicologia (annuale);   
-3) elementi di genetica e biochimica (annuale);   
-4) strutture e funzioni integrative del sistema nervoso centrale (annuale);   
-5) neurologia clinica (annuale);   
-6) clinica psichiatrica (I) (quadriennale).   
+Diritto costituzionale;   
+Storia del diritto pubblico regionale;   
+Diritto amministrativo I;   
+Politica economica regionale I;   
+Diritto tributario.   
 2° Anno:   
-1) psicopatologia e psicodinamica (annuale);   
-2) psicoterapia (I) (triennale);   
-3) psicofarmacologia (annuale);   
-4) psicofarmacoterapia (annuale);   
-5) clinica psichiatrica (II) (quadriennale).   
-3° Anno:   
-1) psicodiagnostica ed informatica psichiatrica (annuale);   
-2) psichiatria sociale (I) (biennale);   
-3) psichiatria infantile;   
-4) psicoterapia (II) (triennale);   
-5) clinica psichiatrica (III) (quadriennale).   
-4° Anno:   
-1) psicosomatica (annuale);   
-2) psichiatria sociale (II) (biennale);   
-3) psichiatria forense (annuale);   
-4) psicoterapia (III) (triennale);   
-5) clinica psichiatrica (IV) (quadriennale).   
-Note esplicative.   
-1) Strutture e funzioni applicative del sistema nervoso centrale: tale materia, annuale, e' comprensiva dell'anatomo-fisiologia del sistema nervoso centrale e della psicofisiologia.   
-2) Neurologia clinica: tale insegnamento, annuale, deve essere comprensivo eventualmente con sottodivisioni, di cenni di anatomia patologica del sistema nervoso centrale, di semeiologia neurologica clinica e strumentale, di neuroradiologia.   
-3) Clinica psichiatrica: tale materia, quadriennale, e' comprensiva anche degli elementi di semeiotica psichiatrica, delle tecniche laboratoristiche, delle terapie biologiche.   
-4) Psicoterapia: tale materia, triennale, comprende e considera, nel corso dei tre anni, le tecniche ed i principi fondamentali delle principali psicoterapie individuali, direttive e non direttive, i principi fondamentali e le dinamiche piu' importanti - psicoterapie di gruppo - delle prassi psicoterapiche, socioterapiche e delle sociodinamiche delle istituzioni psichiatriche.   
-5) Psicodiagnostica ed informativa psichiatrica: tale materia, annuale, e' comprensiva di cenni di statistica, dei reattivi mentali e psicodiagnostica strumentale e di metodologia della ricerca psichiatrica.   
-6) Psichiatria sociale: tale materia, biennale, con molte possibilita' di suddivisioni, e' comprensiva di elementi di sociologia, di antropologia culturale, dietologia, di ecologia psichiatrica, di epidemiologia psichiatrica, di psichiatria transculturale, di psichiatria preventiva e di igiene mentale, prassi ed organizzazioni di assistenza psichiatrica sul territorio extra istituzionale.   
-7) Psicosomatica: tale materia, annuale, e' comprensiva degli aspetti psichici delle malattie somatiche della cosiddetta medicina integrata, della endocrinologia in riferimento alla psichiatria delle cosiddette specifiche malattie psicosomatiche.   
-E' obbligatoria la frequenza per undici mesi all'anno; tale periodo comprende sia la frequenza alle lezioni, sia l'esperienza nei reparti di degenza e nelle strutture ambulatoriali a disposizione della scuola.   
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
-La scuola programma lo svolgimento dei corsi di insegnamento. Per il passaggio agli anni successivi e' obbligatorio il superamento degli esami per ogni singolo anno.   
-Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi. Le lezioni teoriche sono integrate da seminari anche interdisciplinari, da documentazioni cliniche e da esperienze effettuate nei vari settori della disciplina.   
-Alla fine dei quattro anni gli allievi che hanno frequentato i corsi saranno ammessi agli esami di diploma, consistenti nella presentazione e discussione di una tesi scritta di un argomento pertinente alla psichiatria, in una prova orale e in una prova pratica.   
-Agli allievi che hanno ottenuto la approvazione dell'esame di diploma verra' rilasciato il diploma di specializzazione in psichiatria valido a tutti gli effetti di legge.   
-La scuola di specializzazione in clinica oculistica, di cui all'art. 170, muta la denominazione in quella di scuola di specializzazione in oftalmologia.   
-L'art. 174, primo comma, e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in medicina legale e delle assicurazioni e' fissato in venti per anno di corso per un totale di sessanta iscritti.   
-L'art. 175, relativo alla scuola di specializzazione in radiologia, e' soppresso e sostituito dal seguente:   
-  
-Scuola di specializzazione in radiologia   
-Art. 175. - La scuola di specializzazione in radiologia ha sede presso l'istituto di radiologia, ed e' diretta da un professore di ruolo o fuori ruolo della stessa materia o, in carenza, di materia affine. Alla scuola possono essere ammessi solo i laureati in medicina e chirurgia in possesso di diploma di abilitazione professionale e la loro immatricolazione e' subordinata all'esito di un esame di ammissione per titoli ed esami.   
-Non sono ammesse abbreviazioni di corso.   
-La scuola conferisce i seguenti diplomi:   
-a) diploma di specialista in radiodiagnostica.   
-Gli anni di studio necessari per conseguire questo titolo sono quattro;   
-b) diploma di specialista in radioterapia oncologica.   
-Gli anni di studio necessari per conseguire questo titolo sono quattro.   
-La scuola ha un tronco comune di due anni identico per i diplomi di radiodiagnostica e di radioterapia oncologica.   
-Gli insegnamenti per il diploma di specialista in radiodiagnostica sono cosi' distribuiti nei quattro anni di corso:   
-1° Anno (comune alla specializzazione in radioterapia oncologica):   
-a) fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);   
-b) radiobiologia, legislazione e norme generali di radioprotezione;   
-c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;   
-d) nozioni di anatomia e fisiologia generale.   
-2° Anno (comune alla radioterapia oncologica):   
-anatomia patologica;   
-apparecchiature e tecniche radiologiche;   
-semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);   
-radiopatologia;   
-dosimetria applicata.   
-3° Anno:   
-tecniche speciali e relativa semeiotica;   
-radiodiagnostica speciale dei vari organi ed apparati (I).   
-4° Anno:   
-tecniche speciali e relativa semeiotica (termografia, ecografia, xerografia, TAC) (II);   
-radiodiagnostica speciale dei vari organi ed apparati (II)   
-Gli insegnamenti per il diploma di specialista in radioterapia oncologica sono cosi' distribuiti nei quattro anni di corso:   
-1° Anno (comune alla specializzazione in radiodiagnostica):   
-fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);   
-radiobiologia, legislazione e norme generali di radioprotezione;   
-tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;   
-nozioni di anatomia e fisiologia generale.   
-2° Anno (comune a radiodiagnostica):   
-anatomia patologica;   
-apparecchiature e tecniche radiologiche;   
-semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);   
-radiopatologia;   
-dosimetria applicata.   
-3° Anno:   
-oncologia generale;   
-oncologia clinica (I);   
-tecniche radioterapiche.   
-4° Anno:   
-oncologia clinica (II);   
-fondamenti di terapia chirurgica dei tumori;   
-radioterapia clinica;   
-trattamento del canceroso in fase avanzata.   
-I singoli insegnamenti saranno tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento.   
-Il numero massimo di iscritti in corso alla scuola e' di venti da ripartirsi annualmente fra i vari corsi di diploma previsti del terzo comma dell'art. 175.   
-La frequenza pratica e' obbligatoria (dieci mesi all'anno) e deve avvenire in reparti riconosciuti idonei. L'insegnamento verra' svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento aperti anche agli specialisti. Gli allievi per essere ammessi a sostenere gli esami delle singole materie, dovranno avere la firma di frequenza da parte del direttore della scuola stessa.   
-Gli allievi al termine di ogni anno dovranno superare gli esami di profitto delle materie prescritte per poter ottenere l'iscrizione all'anno successivo.   
-Gli allievi per conseguire il diploma di specializzazione, oltre ad essere approvati in tutti gli esami, dovranno elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola stessa.   
-L'art. 180, relativo alla scuola di specializzazione in urologia, e' soppresso e sostituito dal seguente:   
-  
-Scuola di specializzazione in urologia   
-Art. 180. - La scuola di specializzazione in urologia ha sede presso la clinica urologica e conferisce il diploma di specialista in urologia.   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazioni.   
-Il numero massimo degli allievi e' di cinque per anno di corso e complessivamente di venticinque iscritti per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-Le materie d'insegnamento e gli esami sono i seguenti:   
-  
-  
-Insegnamenti Esami  
-1° Anno:  
-1) anatomia sistematica e 1) anatomia sistematica e topografica dell'apparato topografica dell'apparato  
-urogenitale maschile; urinario e genitale  
-maschile;  
-2) fisiologia dell'apparato 2) fisiologia dell'apparato  
-urinario e genitale maschile; urinario e genitale  
-maschile;  
-3) batteriologia in urologia; 3) batteriologia in urologia.  
-4) semeiotica funzionale e  
-strumentale dell'apparato  
-urogenitale I.  
-  
-2° Anno:  
-1) semeiotica funzionale e 1) semeiotica funzionale e strumentale dell'apparato strumentale dell'apparato  
-urogenitale II; urogenitale;  
-2) le nefropatie mediche; 2) le nefropatie mediche;  
-3) anatomia chirurgica dell'apparato 3) anatomia chirurgica del-  
-urinario e genitale maschile; l'apparato urinario e  
-genitale maschile.  
-4) patologia dell'apparato  
-urinario maschile I;  
-5) radiologia dell'apparato  
-urinario e genitale maschile I.  
-  
-3° Anno:  
-1) patologia dell'apparato 1) patologia dell'apparato urinario e genitale maschile II; urinario genitale maschile;  
-2) radiologia dell'apparato 2) radiologia dell'apparato  
-urinario e genitale urinario e genitale  
-maschile II; maschile;  
-3) le affezioni cutanee e 3) le affezioni cutanee e veneree nei riguardi veneree nei riguardi  
-dell'urologia; dell'urologia;  
-4) andrologia. 4) andrologia.  
-  
-4° Anno:  
-1) anatomia ed istologia 1) anatomia ed istologia pato-  
-patologica dell'apparato logica dell'apparato urina-  
-urinario e genitale maschile rio e genitale maschile 2) farmacoterapia delle affezioni 2) farmacoterapia delle affe-  
-urogenitali; zioni urogenitali;  
-3) anestesia e trattamento 3) anestesia e trattamento pre e post-operatorio pre e post operatorio  
-del malato urologico; del malato urologico;  
-4) nefrologia chirurgica; 4) nefrologia chirurgica.  
-5) clinica urologica I;  
-6) procedimenti di chirurgia  
-endoscopica I;  
-7) interventi e procedimenti  
-operatori dell'apparato  
-urinario e genitale maschile I.  
-  
-5° Anno:  
-1) clinica urologica II; 1) clinica urologica;  
-2) patologia e clinica uro- 2) patologia e clinica uro-  
-logica infantile; logica infantile;  
-3) urologia ginecologica; 3) urologia ginecologica;  
-4) procedimenti di urologia 4) interventi e procedimenti  
-endoscopica II; operatori sull'apparato urinario e genitale  
-maschile.  
-5) chirurgia dell'intestino;  
-6) chirurgia vascolare;  
-7) interventi e procedimenti  
-operatori sull'apparato uri-  
-nario e genitale maschile II.  
-  
-  
-La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame. Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno ad eccezione delle discipline svolte in corsi pluriennali il cui esame sara' sostenuto alla fine dei corsi medesimi. Al termine del corso di studi per il conseguimento del diploma di specialista in urologia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
+Ordinamento e legislazione regionale;   
+Diritto amministrativo II;   
+Politica economica regionale II;   
+Diritto tributario regionale;   
+Statistica e demografia.   
+Art. 115. - L'insegnamento delle discipline di cui al piano di studi contemplate nel precedente articolo e' affidato per incarico a professori titolari, a liberi docenti e cultori con deliberazione della facolta' di giurisprudenza.   
+Art. 116. - Gli insegnamenti e le esercitazioni della scuola di perfezionamento sono tenuti distinti da quelli per gli studenti del corso di giurisprudenza.   
+Art. 117. - Gli insegnamenti possono avere, oltre che carattere di lezioni cattedratiche, quella forma che e' consentita dalla indole di ciascuna disciplina; sono inoltre tenute conferenze sugli argomenti oggetto del corso.   
+Art. 118. - Il programma della scuola viene compilato ogni anno dal direttore e deve essere approvato dai docenti della scuola; cosi' pure gli orari settimanali di insegnamento e di esercitazioni. I corsi di insegnamento si uniformano al calendario dell'universita'.   
+Art. 119. - Gli esami di profitto vengono sostenuti dagli allievi alla fine di ogni anno di corso e si svolgono per singole discipline.   
+Le commissioni relative vengono nominate dal direttore della scuola.  
+Gli esami si svolgono secondo le norme vigenti per gli esami di profitto delle facolta' universitarie.   
+L'iscritto che non abbia superato gli esami prescritti per il primo anno non viene ammesso all'anno successivo.   
+Art. 120. - Per le materie a corso pluriennale l'esame e' unico e deve essere sostenuto alla fine del corso.   
+Art. 121. - L'esame di diploma consiste nella discussione di una dissertazione originale scritta.   
+Art. 122. - La commissione per l'esame di diploma, nominata dal rettore su proposta del direttore e' costituita dal direttore, che la presiede, e da altri quattro docenti della scuola stessa.   
+Art. 123. - Tutti gli atti e i documenti relativi alla scuola di perfezionamento in diritto regionale sono conservati dalla segreteria dell'universita' che rilascia i certificati richiesti dagli interessati.   
+Art. 124. - In base al risultato dell'esame di diploma la segreteria dell'universita' rilascera' il relativo diploma di perfezionamento, che dovra' essere munito della firma del rettore, di quella del direttore della scuola e del direttore amministrativo, oltre che del timbro a secco dell'universita'.   
+Art. 125. - Per la carriera scolastica, gli esami e la disciplina degli allievi valgono, in quanto applicabili, le disposizioni del regolamento approvato con regio decreto 4 giugno 1938, e successive modificazioni.   
+Art. 126. - Gli iscritti devono pagare per tasse d'immatricolazione L. 10.000 e, annualmente, le somme seguenti:   
+per tassa di iscrizione L. 20.000; per contributi di esercitazioni e di seminario L. 15.000; per contributo di biblioteca L. 3000; per soprattasse esami di profitto L. 5000.   
+I diplomati dovranno inoltre pagare L. 3000 per soprattasse di diploma. Coloro i quali conseguono il diploma di perfezionamento sono tenuti al versamento delle tasse di diploma in L. 6000, tasse, soprattasse e contributi sono versati alla cassa dell'universita'. La tassa di diploma va invece versata all'erario.   
+Art. 127. Il provento delle tasse di immatricolazione e di iscrizione va devoluto per meta' alla scuola e per l'altra meta' va incamerato dall'universita'. Il provento dei contributi per esercitazioni devoluto al "Circolo giuridico Sampolo". Il contributo di biblioteca va devoluto interamente alla biblioteca della facolta' di giurisprudenza. Il provento delle soprattasse per gli esami di profitto e diploma va ripartito ai sensi del [decreto del Presidente della Repubblica 1 dicembre 1952, n. 5512](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-12-01;5512).   
+Art. 128. - Il direttore della scuola e' il preside della facolta' di giurisprudenza o un professore da lui delegato ed e' investito di tutti i poteri di direzione sia dal punto di vista didattico, che dal punto di vista amministrativo.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservano e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 17 maggio 1979
+### Dato a Roma, addi' 27 settembre 1970
 
-PERTINI SPADOLINI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 28 luglio 1979
+Registrato alla Corte dei conti, addi' 5 dicembre 1970
 
-Registro n. 60 Istruzione, foglio n. 193
+Atti del Governo, registro n. 238, foglio n. 210. - CARUSO

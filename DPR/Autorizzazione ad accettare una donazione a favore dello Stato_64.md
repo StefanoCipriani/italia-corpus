@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 1000
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1975 n. 747
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 1000
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1975 n. 747
+==============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1000. Decreto del Presidente della Repubblica 22 settembre 1981, col quale, sulla proposta del Ministro delle finanze, viene autorizzata l'accettazione della donazione a favore dello Stato, disposta dal comune di Verbania (Novara) con atto 4 dicembre 1975, n. 42186 di repertorio, a rogito dott. Mario Matricardi, notaio in Verbania-Pallanza, consistente in un appezzamento di terreno della superficie di mq 8540 circa, per la costruzione di una stazione di controllo autoveicoli.  
+747. Decreto del Presidente della Repubblica 30 ottobre 1975, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione di una donazione, consistente nell'opera di Vincenzo Gemito "Ritratto del pittore Francesco Paolo Michetti" 1873 (scultura in terracotta alta cm 44), disposta a favore dello Stato dalla signora Paola Ojetti con atto in data 15 febbraio 1974, numero 36962/6730 di repertorio, a rogito dott. Achille de Martino, notaio in Roma, da destinare alla galleria nazionale d'arte moderna di Roma.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 30 novembre 1981  
-Registro n. 36 Finanze, foglio n. 260
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 18 dicembre 1975  
+Atti di Governo, registro n. 15, foglio n. 52

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 ottobre 1981 n. 722
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 novembre 1979 n. 846
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 ottobre 1981 n. 722
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 novembre 1979 n. 846
+===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-722. Decreto del Presidente della Repubblica 9 ottobre 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in un immobile sito in Torino, corso Siracusa n. 71, distinto nel nuovo catasto edilizio urbano alla partita 127999, foglio 84, mappale 820 sub 19, del valore attribuito di L. 11.500.000, elevato dall'ufficio tecnico erariale di Torino a L. 24.000.000, disposto dalla sig.na Teresa Anna Beltramo a favore della fondazione "Pro juventute don Carlo Gnocchi - Istituto mutilatini e poliomielitici", viale Settimio Severo, 65, Torino, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi" come ha fatto presente lo stesso ente, con scheda testamentaria olografa del 10 marzo 1977, pubblicata a rogito dott. Giuseppe Savio, notaio in Torino, in data 5 maggio 1978, n. 15424 di repertorio e n. 7440 di raccolta, registrato a Torino il 22 maggio 1978 al n. 25276, vol. 41.  
+846. Decreto del Presidente della Repubblica 28 novembre 1979, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in beni mobili, titoli, saldo c.c. presso la Cassa di risparmio delle province lombarde del valore di L. 16.023.300 (quota 50% = L. 8.011.650), disposto dalla sig.ra Vincenza Girola, a favore dei mutilatini di don Gnocchi, che si identificano con la fondazione "Pro juventute don Carlo Gnocchi", come ha fatto presente la fondazione medesima, con testamento olografo 30 aprile 1977, pubblicato in data 19 maggio 1977, n. 267623 di repertorio, a rogito avv. Vincenzo Maienza, notaio in Milano, e registrato a Milano in data 20 maggio 1977, n. 03939/71/ M, serie H.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 1 dicembre 1981  
-Registro n. 10 Presidenza, foglio n. 243
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti, addi' 21 marzo 1980  
+Registro n. 2 Presidenza, foglio n. 338

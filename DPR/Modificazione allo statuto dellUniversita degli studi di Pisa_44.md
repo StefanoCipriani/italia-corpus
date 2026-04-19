@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1983 n. 1089
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 1079
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1983 n. 1089
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 1079
 ==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Pisa.
@@ -39,19 +39,15 @@ Articolo unico
 --------------
 
   
-  
-Nell'art. 78, relativo al corso di laurea in medicina e chirurgia, agli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:   
-epidemiologia;   
-semeiotica cardiovascolare;   
-saggi e dosaggi farmacologici;   
-malattie infettive dell'infanzia;   
-tossicologia forense.   
+Nell'art. 23, relativo al corso di laurea in giurisprudenza, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+storia degli ordinamenti degli stati italiani;  
+diritto privato dell'economia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 giugno 1983
+### Dato a Roma, addi' 4 maggio 1983
 
 PERTINI FALCUCCI
 
@@ -59,4 +55,4 @@ Visto, il Guardasigilli: MARTINAZZOLI
 
 Registrato alla Corte dei conti, addi' 15 marzo 1984
 
-Registro n. 16 Istruzione, foglio n. 172
+Registro n. 16 Istruzione, foglio n. 169

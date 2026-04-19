@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 settembre 1980 n. 772
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 giugno 1985 n. 467
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 settembre 1980 n. 772
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 giugno 1985 n. 467
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-772. Decreto del Presidente della Repubblica 15 settembre 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 10.000.000, disposto dalla sig.ra Ida Benetti con testamento olografo 8 gennaio 1969, pubblicato in data 30 dicembre 1975, n. 46652 di repertorio e n. 13274 di raccolta, a rogito dott. Giovanni Carraro, notaio in Schio (Vicenza), registrato a Schio in data 14 gennaio 1976, n. 84, vol. 210/1°.  
+467. Decreto del Presidente della Repubblica 17 giugno 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella quota di meta' dei titoli Fundus depositati presso la S.A.I., valore complessivo L. 25.252.900 - quota 1/2 = L. 12.626.450, disposto dal sig. Fissore Antonio a favore dell'istituto "Don Gnocchi (mutilatini)", che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale 24 novembre 1979 del consiglio di amministrazione della fondazione stessa, con testamento olografo 6 novembre 1978, pubblicato in data 11 dicembre 1978, n. 67641 di repertorio e numero 41556 di raccolta, a rogito dott. Alberto Occelli, coadiutore temporaneo del dott. Giovanni Battista Picco, notaio in Torino, registrato a Torino il 15 dicembre 1978 al n. 51765.  
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 12 novembre 1980  
-Registro n. 8 Presidenza, foglio n. 340
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 2 settembre 1985  
+Registro n. 8 Presidenza, foglio n. 157

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 754
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 marzo 1968 n. 593
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 754
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 marzo 1968 n. 593
+============================================================
 
 Autorizzazione all'Universita' degli studi di Pisa ad acquistare un immobile.
 -----------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-754. Decreto del Presidente della Repubblica 22 settembre 1972, col quale, sulla proposta del Ministro per la pubblica istruzione, il decreto del [Presidente della Repubblica n. 1370 in data 18 luglio 1967](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-07-18;1370) viene revocato. L'Universita' degli studi di Pisa, inoltre, viene autorizzata ad acquistare un immobile sito in Pisa, via Pasquale Paoli, descritto nel nuovo catasto edilizio urbano alla partita 1639, foglio n. 120, particelle 219, 220 sub 1, 226, 356, 220 sub 2, 3, 4, 5, 6, 7 e 8-G, 351, al prezzo di L. 180.000.000.  
+593. Decreto del Presidente della Repubblica 12 marzo 1968, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Pisa viene autorizzata ad acquistare da diversi proprietari, al prezzo di L. 60.000.000, un immobile sito in Pisa, via Serafini n. 1, descritto al catasto fabbricati alla particella 2783 della sez. C, corrispondente nel C. T. al mappale 62 del foglio 124 del comune di Pisa.  
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 29 novembre 1972  
-Atti del Governo, registro n. 253, foglio n. 90. - CARUSO
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 22 aprile 1968  
+Atti del Governo, registro n. 219, foglio n. 34. - GRECO

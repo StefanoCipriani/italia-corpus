@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 luglio 1953 n. 999
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 aprile 1963 n. 807
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 luglio 1953 n. 999
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 aprile 1963 n. 807
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
@@ -10,13 +10,17 @@ Modificazioni allo statuto dell'Universita' degli studi di Messina.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, numero 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e modificato con [regi decreti 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;1905) e [28 maggio 1942, n. 463, con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-05-28;463) [22 giugno 1947, n. 774, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-06-22;774) [5 agosto 1951, n. 1335](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-05;1335) e [27 ottobre 1951, n. 1827](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1827);
+Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090).
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+modificato con [regio decreto 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905) e successivi;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
@@ -30,88 +34,138 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 21. - Agli istituti della Facolta' di lettere e filosofia sono aggiunti un Istituto per le lingue e letterature straniere e i seguenti gabinetti: storia dell'arte, archeologia, geografia, paleografia e diplomatica.
+Art. 14. - Agli insegnamenti complementari del corso di laurea in Scienze politiche sono aggiunti quelli di:
 
-Art. 22. - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di: "29) Letteratura cristiana antica".
+Sociologia;
 
-Art. 23. - Agli insegnamenti complementari del corso di laurea in filosofia e' aggiunto quello di: "11) Storia del cristianesimo".
+Storia dei partiti politici;
 
-Art. 40. - Nell'elenco degli istituti della Facolta' di medicina e chirurgia e' aggiunto quello di: "21) Chimica biologica".
+Storia delle costituzioni;
 
-Art. 47. - Agli insegnamenti complementari del corso di laurea in scienze naturali e' aggiunto quello di: "17) Geochimica".
+Scienza della opinione pubblica;
 
-L'art. 95 (gia' 83) relativo alla scuola di specializzazione in igiene generale e speciale e' sostituito dal seguente:
+Storia dell'economia.
 
-"Al diploma di specialista in igiene possono aspirare i laureati in medicina e chirurgia; al diploma di specialista in igiene veterinaria, i laureati in medicina, veterinaria; al diploma di specialista in chimica applicata all'igiene, i laureati in chimica e i laureati in farmacia".
+Dopo l'art. 24 e con il conseguente spostamento della successiva numerazione e' aggiunto il seguente nuovo articolo:
 
-Dopo l'art. 98 (gia' 86) sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della scuola di specializzazione in clinica oculistica.
+Art. 25. - E' annesso alla Facolta' di Economia e commercio l'istituto di Statistica.
 
-Scuola di specializzazione in clinica oculistica.
+Art. 26. - I gabinetti di Archeologia e di Storia dell'arte medioevale e moderna, annessi alla Facolta' di Lettere e filosofia, cambiano denominazione in:
 
-Art. 99. - E' istituita presso la Facolta' di medicina e chirurgia dell'Universita' di Messina, una scuola di specializzazione in clinica oculistica.
+Istituto di Archeologia;
 
-Tale scuola e' retta secondo le norme generali relative alle scuole di specializzazione in medicina e chirurgia dell'Universita' di Messina.
+Istituto di Storia dell'arte medioevale e moderna.
 
-Art. 100. - Titolo necessario per l'ammissione alla scuola di specializzazione in clinica oculistica e' la laurea in medicina e chirurgia.
+Art. 27. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti quelli di "Filologia iranica" e di "Storia orientale antica".
 
-Art. 101. - La scuola ha la durata di tre anni.
+Art. 28. - Agli insegnamenti complementari del corso di laurea in Filosofia e' aggiunto quello di "Filosofia della storia".
 
-Le materie d'insegnamento sono:
+Art. 37. - Agli insegnamenti complementari del corso di laurea in Pedagogia e' aggiunto quello di "Psicologia dell'eta' evolutiva".
+
+Art. 48. - E' modificato nel senso che l'istituto di Botanica, annesso alla Facolta' di Scienze matematiche, fisiche e naturali cambia denominazione in quella di "Istituto di Botanica e orto Botanico".
+
+Art. 52. - Agli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti i seguenti:
+
+Anatomia vegetale;
+
+Farmacologia;
+
+Fisiologia umana.
+
+Art. 51. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti i seguenti:
+
+Anatomia vegetale;
+
+Farmacologia;
+
+Fisiologia umana;
+
+Scienza dell'alimentazione;
+
+Istologia patologica.
+
+Dopo l'ultimo comma delle norme relative allo stesso corso di laurea in Scienze biologiche e' aggiunto il seguente:
+
+Lo studente fornito di altra laurea, che chiede la iscrizione al corso di laurea in Scienze biologiche, deve ripetere la frequenza e l'esame di ogni materia fondamentale che sia stata sostenuta come complementare nella laurea di provenienza. La tesi di laurea deve essere scelta in uno dei laboratori biennali diverso da quelli in cui e' stata elaborata la tesi per il conseguimento della laurea precedente. Il candidato prima di presentarsi a sostenere l'esame di laurea e' tenuto a sostenere un colloquio di cultura generale con indirizzo biologico. Lo studente non puo' sostenere l'esame di Anatomia comparata se prima non ha sostenuto quello di Zoologia e di istologia ed embriologia; ne' quello di Chimica biologica se prima non ha superato quelli di Chimica generale ed inorganica e di Chimica organica; ne' quello di Botanica e Zoologia se prima non ha superato quello di Chimica generale ed inorganica.
+
+Gli esami di Zoologia e di Botanica biennali debbono essere sostenuti alla fine del corso come esame unico.
+
+Art. 63. - E' modificato nel senso che l'istituto di Biochimica applicata, annesso alla Facolta' di Farmacia cambia denominazione in quella di: "Istituto di Biochimica applicata e di Chimica organica".
+
+Art. 115. - Agli insegnamenti del primo anno della Scuola di specializzazione in Medicina del lavoro e' aggiunto quello di "Psicologia individuale e sociale del lavoro".
+
+Art. 119. - Agli insegnamenti del terzo anno della Scuola di specializzazione in Ostetricia e ginecologia, annessa alla Facolta' di Medicina e Chirurgia e' aggiunto quello di "Ortopedia neo-natale".
+
+Il titolo della Scuola di specializzazione in Malattie del sangue, rene e ricambio e' modificato in "Scuola di specializzazione in Malattie del rene, sangue e ricambio".
+
+Gli articoli 137 e 138 relativi alla suddetta scuola sono abrogati e sostituiti dai seguenti:
+
+Art. 137. - Titolo necessario per l'ammissione alla Scuola di specializzazione in Malattie del rene, sangue e ricambio e' la laurea in Medicina e chirurgia la scuola ha la durata di tre anni. Il numero degli iscritti, per ogni anno, non potra' essere superiore a quindici.
+
+Art. 138. - Le materie di insegnamento sono:
 
 1° anno:
 
-1) Anatomia e fisiologia dell'occhio;
+Anatomia speciale;
 
-2) Semeiotica oculare;
+Biochimica e fisiologia del ricambio;
 
-3) Principi di ottica fisiologica;
+Fisiopatologia sociale apparato uropoietico;
 
-4) Microbiologia.
+Fisiopatologia del sangue;
 
 2° anno:
 
-1) Semeiotica e clinica delle palpebre, congiuntive, vie lacrimali;
+Fisiopatologia speciale del ricambio;
 
-2) Malattie dell'orbita, dell'apparato muscolare, della cornea, dei liquidi endoculari, del cristallino.
+Anatomia e istologia patologica;
+
+Tecnica e diagnostica di laboratorio;
+
+Farmacologia e diagnostica di laboratorio;
+
+Farmacologia speciale;
+
+Clinica medica e terapia.
 
 3° anno:
 
-1) Clinica delle malattie della retina e del nervo ottico;
+Semeiotica generale e speciale;
 
-2) Neurologia oculare, rapporto fra occhio e medicina interna;
+Diagnostica funzionale;
 
-3) Chirurgia oculare;
+Radiologia;
 
-4) Terapia medicamentosa.
+Clinica medica e terapia.
 
-Art. 102. - Per ottenere l'ammissione al secondo anno gli specializzandi dovranno aver sostenuto e superato gli esami sulle materie prescritte per il 1° corso e, cosi' pure per il passaggio dal secondo al terzo anno, dovranno aver superato gli esami del secondo.
-
-Art. 103. - I corsi d'insegnamento si uniformeranno al calendario dell'Universita'; per quanto riguarda invece le esercitazioni ed i servizi interni, l'attivita' della scuola si estendera' all'intero anno solare.
+Art. 141. - E' abrogato e sostituito dal seguente Alla fine del triennio gli studenti che avranno superato tutte le materie, prepareranno una tesi riguardante argomenti contemplati tra le materie di insegnamento e conseguiranno il diploma con esame finale collegiale di tutta la Commissione, presieduta dal di - rettore, della Clinica medica. Il diploma avra' per titolo: "Specializzazione in malattie del rene, sangue e ricambio".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 30 luglio 1953
+Dato a Roma, addi' 18 aprile 1963
 
-EINAUDI
+SEGNI
 
-BETTIOL
+GUI
 
-Visto, il Guardasigilli: AZARA
+Visto, il Guardasigilli; BOSCO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 13 gennaio 1954 Atti del Governo, registro n. 81, foglio n. 35. - PALLA
+alla Corte dei conti, addi' 11 giugno 1963 Atti del Governo, registro n. 170, foglio n. 96. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, numero 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e modificato con [regi decreti 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;1905) e [28 maggio 1942, n. 463, con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-05-28;463) [22 giugno 1947, n. 774, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-06-22;774) [5 agosto 1951, n. 1335](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-05;1335) e [27 ottobre 1951, n. 1827](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1827);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090).  
+modificato con [regio decreto 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -120,48 +174,70 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 21. - Agli istituti della Facolta' di lettere e filosofia sono aggiunti un Istituto per le lingue e letterature straniere e i seguenti gabinetti: storia dell'arte, archeologia, geografia, paleografia e diplomatica.  
-Art. 22. - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di: "29) Letteratura cristiana antica".  
-Art. 23. - Agli insegnamenti complementari del corso di laurea in filosofia e' aggiunto quello di: "11) Storia del cristianesimo".  
-Art. 40. - Nell'elenco degli istituti della Facolta' di medicina e chirurgia e' aggiunto quello di: "21) Chimica biologica".  
-Art. 47. - Agli insegnamenti complementari del corso di laurea in scienze naturali e' aggiunto quello di: "17) Geochimica".  
-L'art. 95 (gia' 83) relativo alla scuola di specializzazione in igiene generale e speciale e' sostituito dal seguente:  
-"Al diploma di specialista in igiene possono aspirare i laureati in medicina e chirurgia; al diploma di specialista in igiene veterinaria, i laureati in medicina, veterinaria; al diploma di specialista in chimica applicata all'igiene, i laureati in chimica e i laureati in farmacia".  
-Dopo l'art. 98 (gia' 86) sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della scuola di specializzazione in clinica oculistica.  
-  
-Scuola di specializzazione in clinica oculistica.  
-  
-Art. 99. - E' istituita presso la Facolta' di medicina e chirurgia dell'Universita' di Messina, una scuola di specializzazione in clinica oculistica.  
-Tale scuola e' retta secondo le norme generali relative alle scuole di specializzazione in medicina e chirurgia dell'Universita' di Messina.  
-Art. 100. - Titolo necessario per l'ammissione alla scuola di specializzazione in clinica oculistica e' la laurea in medicina e chirurgia.  
-Art. 101. - La scuola ha la durata di tre anni.  
-Le materie d'insegnamento sono:  
+Art. 14. - Agli insegnamenti complementari del corso di laurea in Scienze politiche sono aggiunti quelli di:  
+Sociologia;  
+Storia dei partiti politici;  
+Storia delle costituzioni;  
+Scienza della opinione pubblica;  
+Storia dell'economia.  
+Dopo l'art. 24 e con il conseguente spostamento della successiva numerazione e' aggiunto il seguente nuovo articolo:  
+Art. 25. - E' annesso alla Facolta' di Economia e commercio l'istituto di Statistica.  
+Art. 26. - I gabinetti di Archeologia e di Storia dell'arte medioevale e moderna, annessi alla Facolta' di Lettere e filosofia, cambiano denominazione in:  
+Istituto di Archeologia;  
+Istituto di Storia dell'arte medioevale e moderna.  
+Art. 27. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti quelli di "Filologia iranica" e di "Storia orientale antica".  
+Art. 28. - Agli insegnamenti complementari del corso di laurea in Filosofia e' aggiunto quello di "Filosofia della storia".  
+Art. 37. - Agli insegnamenti complementari del corso di laurea in Pedagogia e' aggiunto quello di "Psicologia dell'eta' evolutiva".  
+Art. 48. - E' modificato nel senso che l'istituto di Botanica, annesso alla Facolta' di Scienze matematiche, fisiche e naturali cambia denominazione in quella di "Istituto di Botanica e orto Botanico".  
+Art. 52. - Agli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti i seguenti:  
+Anatomia vegetale;  
+Farmacologia;  
+Fisiologia umana.  
+Art. 51. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti i seguenti:  
+Anatomia vegetale;  
+Farmacologia;  
+Fisiologia umana;  
+Scienza dell'alimentazione;  
+Istologia patologica.  
+Dopo l'ultimo comma delle norme relative allo stesso corso di laurea in Scienze biologiche e' aggiunto il seguente:  
+Lo studente fornito di altra laurea, che chiede la iscrizione al corso di laurea in Scienze biologiche, deve ripetere la frequenza e l'esame di ogni materia fondamentale che sia stata sostenuta come complementare nella laurea di provenienza. La tesi di laurea deve essere scelta in uno dei laboratori biennali diverso da quelli in cui e' stata elaborata la tesi per il conseguimento della laurea precedente. Il candidato prima di presentarsi a sostenere l'esame di laurea e' tenuto a sostenere un colloquio di cultura generale con indirizzo biologico. Lo studente non puo' sostenere l'esame di Anatomia comparata se prima non ha sostenuto quello di Zoologia e di istologia ed embriologia; ne' quello di Chimica biologica se prima non ha superato quelli di Chimica generale ed inorganica e di Chimica organica; ne' quello di Botanica e Zoologia se prima non ha superato quello di Chimica generale ed inorganica.  
+Gli esami di Zoologia e di Botanica biennali debbono essere sostenuti alla fine del corso come esame unico.  
+Art. 63. - E' modificato nel senso che l'istituto di Biochimica applicata, annesso alla Facolta' di Farmacia cambia denominazione in quella di: "Istituto di Biochimica applicata e di Chimica organica".  
+Art. 115. - Agli insegnamenti del primo anno della Scuola di specializzazione in Medicina del lavoro e' aggiunto quello di "Psicologia individuale e sociale del lavoro".  
+Art. 119. - Agli insegnamenti del terzo anno della Scuola di specializzazione in Ostetricia e ginecologia, annessa alla Facolta' di Medicina e Chirurgia e' aggiunto quello di "Ortopedia neo-natale".  
+Il titolo della Scuola di specializzazione in Malattie del sangue, rene e ricambio e' modificato in "Scuola di specializzazione in Malattie del rene, sangue e ricambio".  
+Gli articoli 137 e 138 relativi alla suddetta scuola sono abrogati e sostituiti dai seguenti:  
+Art. 137. - Titolo necessario per l'ammissione alla Scuola di specializzazione in Malattie del rene, sangue e ricambio e' la laurea in Medicina e chirurgia la scuola ha la durata di tre anni. Il numero degli iscritti, per ogni anno, non potra' essere superiore a quindici.  
+Art. 138. - Le materie di insegnamento sono:  
 1° anno:  
-1) Anatomia e fisiologia dell'occhio;  
-2) Semeiotica oculare;  
-3) Principi di ottica fisiologica;  
-4) Microbiologia.  
+Anatomia speciale;  
+Biochimica e fisiologia del ricambio;  
+Fisiopatologia sociale apparato uropoietico;  
+Fisiopatologia del sangue;  
 2° anno:  
-1) Semeiotica e clinica delle palpebre, congiuntive, vie lacrimali;  
-2) Malattie dell'orbita, dell'apparato muscolare, della cornea, dei liquidi endoculari, del cristallino.  
+Fisiopatologia speciale del ricambio;  
+Anatomia e istologia patologica;  
+Tecnica e diagnostica di laboratorio;  
+Farmacologia e diagnostica di laboratorio;  
+Farmacologia speciale;  
+Clinica medica e terapia.  
 3° anno:  
-1) Clinica delle malattie della retina e del nervo ottico;  
-2) Neurologia oculare, rapporto fra occhio e medicina interna;  
-3) Chirurgia oculare;  
-4) Terapia medicamentosa.  
-Art. 102. - Per ottenere l'ammissione al secondo anno gli specializzandi dovranno aver sostenuto e superato gli esami sulle materie prescritte per il 1° corso e, cosi' pure per il passaggio dal secondo al terzo anno, dovranno aver superato gli esami del secondo.  
-Art. 103. - I corsi d'insegnamento si uniformeranno al calendario dell'Universita'; per quanto riguarda invece le esercitazioni ed i servizi interni, l'attivita' della scuola si estendera' all'intero anno solare.  
+Semeiotica generale e speciale;  
+Diagnostica funzionale;  
+Radiologia;  
+Clinica medica e terapia.  
+Art. 141. - E' abrogato e sostituito dal seguente Alla fine del triennio gli studenti che avranno superato tutte le materie, prepareranno una tesi riguardante argomenti contemplati tra le materie di insegnamento e conseguiranno il diploma con esame finale collegiale di tutta la Commissione, presieduta dal di - rettore, della Clinica medica. Il diploma avra' per titolo: "Specializzazione in malattie del rene, sangue e ricambio".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 luglio 1953
+### Dato a Roma, addi' 18 aprile 1963
 
-EINAUDI BETTIOL
+SEGNI GUI
 
-Visto, il Guardasigilli: AZARA
+Visto, il Guardasigilli; BOSCO
 
-Registrato alla Corte dei conti, addi' 13 gennaio 1954
+Registrato alla Corte dei conti, addi' 11 giugno 1963
 
-Atti del Governo, registro n. 81, foglio n. 35. - PALLA
+Atti del Governo, registro n. 170, foglio n. 96. - VILLA

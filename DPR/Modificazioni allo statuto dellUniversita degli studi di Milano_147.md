@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1950 n. 283
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 settembre 1962 n. 1472
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1950 n. 283
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 settembre 1962 n. 1472
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -10,55 +10,91 @@ Modificazioni allo statuto dell'Universita' degli studi di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Visto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 22 maggio 1939, n. 1166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-22;1166), e modificato con [legge 1 giugno 1939, n. 872](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-01;872), con i decreti 26 ottobre 1940, n. 2056 e 15 aprile 1942, n. 423, e con [decreto del Capo provvisorio dello Stato 27 luglio 1947, n. 1138](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-07-27;1138) e con [decreto del Presidente della Repubblica 30 settembre 1949, n. 942](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-30;942);
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1936, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-11-04;2280), modificato con [regio decreto 26 ottobre 1940, n. 2096](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2096), e successivi;
 
-Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Visto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Viste le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' predetta;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Riconosciuta la particolare necessita' di approvare le modifiche proposte;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita', accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla
------
+Sulla proposta del Ministro per la pubblica istruzione;
 
-proposta del Ministro per la pubblica istruzione; Decreta:
+Decreta:
 
-Articolo unico
---------------
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato nel senso che l'art. 10, relativo al corso di laurea in giurisprudenza concernente la discussione dell'esame di laurea e' abrogato e sostituito dal seguente:
 
+Art. 10. - "L'esame di laurea consiste:
+
+a) nella discussione orale di una dissertazione scritta, su tema precedentemente approvato dal professore della materia;
+
+b) nella discussione orale di una breve dissertazione scritta su altro tema parimenti approvato dal professore della materia, su argomento di diritto positivo diverso da quello della dissertazione di laurea.
+
+La dissertazione in quadruplice copia e la sottotesi in triplice copia, debbono essere depositate in segreteria almeno un mese prima della data stabilita per l'esame di laurea".
+
+Art. 32, relativo al corso di laurea in matematica, sono aggiunti i seguenti insegnamenti complementari:
+
+12) Storia delle matematiche per l'indirizzo didattico (tabella A);
+
+12) Calcolo delle probabilita' per l'indirizzo applicativo (tabella A).
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 4 settembre 1962
+
+SEGNI
+
+GUI
+
+Visto, il Guardasigilli: BOSCO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 20 ottobre 1962 Atti del Governo, registro n. 159, foglio n. 64. - VILLA
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1936, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-11-04;2280), modificato con [regio decreto 26 ottobre 1940, n. 2096](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2096), e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita', accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Lo statuto dell'Universita' di Milano, approvato e modificato con i decreti sopraindicati, e' cosi' ulteriormente modificato.  
-E' istituito presso la Facolta' di lettere e filosofia un "Corso di perfezionamento in filologia classica".  
-Dopo l'attuale art. 69 vengono aggiunti i seguenti nuovi articoli col conseguente spostamento della numerazione degli articoli successivi.  
+Decreta:  
   
-Corso di perfezionamento in filologia classica.  
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato nel senso che l'art. 10, relativo al corso di laurea in giurisprudenza concernente la discussione dell'esame di laurea e' abrogato e sostituito dal seguente:  
   
-Art. 70. - Alla Facolta' di lettere e filosofia e' annesso un corso di perfezionamento in filologia classica, che ha la durata di un anno. Al corso possono iscriversi i laureati in lettere.  
-Art. 71. - Gli iscritti devono seguire le lezioni, partecipare alle esercitazioni e superare gli esami orali delle seguenti materie:  
-letteratura latina, letteratura greca, glottologia, filologia greco-latina, papirologia, paleografia classica.  
-Negli esami orali i candidati devono anche dar prova di saper leggere correntemente opere filologiche scritte in francese, inglese e tedesco.  
-Art. 72. - Alla fine del corso i candidati devono inoltre superare un esame scritto consistente nella versione di un passo di autore greco in latino, corredandolo di note filologiche in latino.  
-Art. 73. - Per conseguire il certificato di studio i candidati devono infine presentare una dissertazione intorno ad un argomento riferentesi a una delle materie insegnate nel corso.  
-La discussione della dissertazione ha luogo davanti a una Commissione di sette membri, composta dal preside della Facolta', dai professori della materia seguita nel corso e da altri componenti la Facolta'.  
-Le tasse e sopratasse da pagarsi dagli iscritti sono le seguenti:  
-tassa iscrizione, L. 3000;  
-sopratassa d'esame, L. 1000.  
+Art. 10. - "L'esame di laurea consiste:  
+a) nella discussione orale di una dissertazione scritta, su tema precedentemente approvato dal professore della materia;  
+b) nella discussione orale di una breve dissertazione scritta su altro tema parimenti approvato dal professore della materia, su argomento di diritto positivo diverso da quello della dissertazione di laurea.  
+La dissertazione in quadruplice copia e la sottotesi in triplice copia, debbono essere depositate in segreteria almeno un mese prima della data stabilita per l'esame di laurea".  
+Art. 32, relativo al corso di laurea in matematica, sono aggiunti i seguenti insegnamenti complementari:  
+12) Storia delle matematiche per l'indirizzo didattico (tabella A);  
+12) Calcolo delle probabilita' per l'indirizzo applicativo (tabella A).  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 marzo 1950
+### Dato a Roma, addi' 4 settembre 1962
 
-EINAUDI GONELLA
+SEGNI GUI
 
-Visto, il Guardasigilli: PICCIONI
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 1 giugno 1950
+Registrato alla Corte dei conti, addi' 20 ottobre 1962
 
-Atti del Governo, registro n. 33, foglio n. 67. - CARLOMAGNO
+Atti del Governo, registro n. 159, foglio n. 64. - VILLA

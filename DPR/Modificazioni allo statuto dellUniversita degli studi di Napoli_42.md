@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1979 n. 147
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1195
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1979 n. 147
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1195
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -12,66 +12,48 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904) e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
 Decreta:   
   
 Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Gli articoli 307 e 308, relativi alla scuola di perfezionamento in filologia moderna, sono abrogati e sostituiti dal seguente articolo:   
+Art. 307. - Il consiglio direttivo della scuola, formate da tutti i docenti dell'istituto di filologia moderna, stabilisce ogni anno il programma dei corsi e dei seminari che, nell'ambito delle materie attinenti alla filosofia moderna, saranno tenuti da docenti dell'Istituto o a cio' espressamente invitati. I corsi avranno durata annuale o semestrale e potranno essere integrati da cicli piu' brevi.   
+Gli iscritti dovranno ottenere alla fine di ogni anno un attestato di frequenza e di partecipazione attiva ai seminari; tale attestato non sara' concesso a chi risultera' assente a piu' di un quarto delle sedute.   
+Per il conseguimento del diploma sono richiesti due attestati annuali di frequenza e partecipazione e la presentazione e discussione di un lavoro scientifico originale.   
+L'art. 347, relativo alla scuola di perfezionamento in storia dell'arte medioevale e moderna, e' abrogato e sostituito dal seguente:   
+"E' titolo necessario per l'ammissione alla scuola di perfezionamento la laurea in lettere o in filosofia o in lingue e letterature moderne straniere d'indirizzo europeo, o in architettura o in sociologia o in scienze sociali. Possono essere ammessi anche i laureati in materie letterarie o in pedagogia presso i magisteri.  
+L'ammissione alla scuola si consegue in base al risultato positivo di un colloquio sostenuto dinanzi ad una commissione di professori designati dal comitato direttivo della scuola e volto ad accertare la preparazione in storia dell'arte degli aspiranti e le loro attitudini alla ricerca".   
+Art. 348 - all'elenco degli insegnamenti della scuola di perfezionamento in storia dell'arte medioevale e moderna sono inclusi quelli di:   
   
-Dopo l'art. 652, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chirurgia della mano presso la seconda facolta' di medicina e chirurgia.   
-Scuola di specializzazione in chirurgia della mano   
-Art. 653. - La scuola di specializzazione in chirurgia della mano ha sede presso l'istituto di clinica ortopedica e conferisce il diploma di specialista in chirurgia della mano.   
-Art. 654. - Il corso ha la durata di tre anni. Possono essere ammessi alla scuola i laureati in medicina e chirurgia.   
-Art. 655. - Il numero dei posti disponibili e' di tre per ogni anno.   
-Art. 656. - La frequenza e' obbligatoria nell'istituto sede della scuola per un periodo di nove mesi per ogni anno accademico.   
-Per nessun motivo sono ammesse abbreviazioni della durata degli studi.   
-Art. 657. - Gli insegnamenti impartiti dalla scuola sono:   
-1° Anno:   
-clinica ortopedica dell'arto superiore (biennale I anno);   
-traumatologia dell'arto superiore (biennale I anno);   
-chirurgia plastica ricostruttiva (biennale I anno);   
-anatomia funzionale della mano;   
-anatomia-chirurgia dell'arto superiore;   
-anatomia e istologia patologica;   
-radiodiagnostica dell'arto superiore e nozioni di radioterapia; anestesia e rianimazione.   
-2° Anno:   
-clinica ortopedica dell'arto superiore (biennale II anno);   
-traumatologia dell'arto superiore (biennale II anno);   
-chirurgia plastica ricostruttiva (biennale II anno);   
-tecniche di chirurgia tendinea;   
-tecniche di chirurgia osteo-articolare;   
-chirurgia vascolare dell'arto superiore.   
-3° Anno:   
-semeiotica e clinica neurologica dell'arto superiore;   
-elettrodiagnostica ed elettromiografia;   
-microchirurgia dei nervi periferici;   
-fisiochinesiterapia;   
-clinica dermatologica;   
-nozioni di medicina legale;   
-nozioni di psicologia;   
-protesi sostitutive nelle amputazioni dell'arto superiore.   
-Art. 658. - L'allievo del primo anno, per essere ammesso al secondo, deve aver superato tutti gli esami del primo anno. L'allievo del secondo anno, per essere ammesso al terzo, deve aver superato i tre esami biennali e tutti gli altri esami del secondo anno.   
-Per l'ammissione all'esame di diploma il candidato deve presentare una dissertazione scritta su un argomento della specialita'.   
-Art. 659. - I fondi a disposizione della scuola sono rappresentati dagli introiti delle tasse di iscrizione e di laboratorio, dalle sovvenzioni di enti o di privati, di cui principalmente la clinica ortopedica e traumatologica.   
-Art. 660. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Storia dell'arte contemporanea;   
+Legislazione e amministrazione del patrimonio artistico.   
+  
+Nello stesso articolo il penultimo comma viene abrogato e sostituito dal seguente:   
+"Tre di tali materie, a scelta degli allievi, sono oggetto di esami biennali; tutte le altre sono oggetto di esami annuali".   
+L'art. 349, relativo alla scuola di perfezionamento in storia dell'arte medioevale e moderna, viene abrogato e sostituito dal seguente:   
+"Direttore della scuola di perfezionamento e' il direttore dell'istituto di storia dell'arte medioevale e moderna della facolta' di lettere, coadiuvato da un comitato direttivo del quale fanno parte: a) i titolari di ruolo delle cattedre di storia dell'arte medioevale e moderna della facolta'; b) i professori fuori ruolo di storia dell'arte medioevale e moderna della facolta'; c) il titolare di ruolo della cattedra di archeologia e storia dell'arte antica della facolta'; d) professori aggregati di discipline storico-artistiche della facolta'".   
+L'art. 351, relativo alla scuola di perfezionamento in storia dell'arte medioevale e moderna, viene abrogato e sostituito dal seguente:   
+"Per conseguire il diploma di perfezionamento, gli allievi dovranno presentare una dissertazione scritta, frutto di studi e di ricerche personali in una qualsiasi delle materie di insegnamento, eccettuate quelle per le quali esistono nell'Universita' di Napoli scuole di perfezionamento specifiche".   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 marzo 1979
+### Dato a Roma, addi' 31 ottobre 1973
 
-PERTINI PEDINI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 14 maggio 1979
+Registrato alla Corte dei conti, addi' 19 novembre 1974
 
-Registro n. 33 Istruzione, foglio n. 285
+Atti di Governo, registro n. 6, foglio n. 135. - SCIARRETTA

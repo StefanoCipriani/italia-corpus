@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1980 n. 643
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1980 n. 871
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1980 n. 643
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1980 n. 871
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regi decreti 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743) e [26 marzo 1942, n. 328](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-26;328), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,85 +18,110 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Cagliari e convalidati dal Consiglio universitario nazionale nei suoi pareri;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Cagliari e convalidati dal Consiglio universitario nazionale nel suo parere;
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Veduto il [parere della sezione prima del Consiglio di Stato, n. 1092/74 del 14 febbraio 1975](https://e-justice.europa.eu/ecli/ECLI::::);
+Sulla proposta del Ministro della pubblica istruzione;
 
-Considerato che non appare opportuno, al momento, procedere ad una generale revisione delle norme statutarie di tutti gli atenei relative alla direzione delle scuole di specializzazione e perfezionamento e degli istituti nonche' delle scuole dirette a fini speciali, attualmente affidata esclusivamente ai professori di ruolo o fuori ruolo, in attesa del provvedimento relativo allo stato giuridico del personale docente;
+Decreta:
+--------
 
-Sulla
------
+Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:
 
-proposta del Ministro della pubblica istruzione; Decreta:
-
-Art. 1
-------
+Articolo unico
+--------------
 
   
-Lo statuto dell'Universita' di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-L'art. 146, relativo alla scuola di specializzazione in neurologia e' soppresso e sostituito dal seguente:  
-Art. 131. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in neurologia con sede presso la clinica neurologica. Il numero massimo complessivo degli iscritti e' sette per anno di corso per un totale di ventotto per i quattro anni di corso.  
+I primi due commi dell'art. 56 relativi al corso di laurea in medicina e chirurgia sono sostituiti dai seguenti:  
+  
+La facolta' di medicina e chirurgia conferisce la laurea in medicina e chirurgia e la laurea in odontoiatria e protesi dentaria.  
+La durata del corso degli studi per la laurea in medicina e chirurgia e' di sei anni, divisi in tre bienni.  
+La durata del corso degli studi per la laurea in odontoiatria e protesi dentaria e' di cinque anni, divisi in un biennio e in un triennio.  
+I titoli di ammissione sono quelli previsti dalle vigenti disposizioni di legge per l'ammissione al corso di laurea in medicina e chirurgia.  
+L'accesso al corso di laurea in odontoiatria e protesi dentaria verra' regolato da un esame di ammissione; il punteggio da attribuire nell'esame sara' cosi' ripartito: il 30% sara' riservato al voto riportato dal candidato nell'esame di Stato di licenza della scuola secondaria superiore ed il 70% sara' riservato alla prova di esame di ammissione al corso di laurea con test a scelta multipla su argomenti di biologia generale, chimica fisica e matematica, secondo i programmi della scuola secondaria superiore.  
+Dopo l'art. 56, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi all'istituzione del corso di laurea in odontoiatria e protesi dentaria.  
+Art. 57. - Sono insegnamenti fondamentali per la laurea in medicina e chirurgia quelli contemplati dallo statuto dell'Universita' degli studi di Cagliari, titolo VII, facolta' di medicina e chirurgia.  
+Art. 58 - Laurea in odontoiatria e protesi dentaria.  
+Il numero massimo degli allievi iscrivibili e' di venti per anno di corso.  
+Sono insegnamenti fondamentali per la laurea in odontoiatria e protesi dentaria:  
+Biennio:  
+1) anestesia generale e speciale odontostomatologica (semestrale);  
+\* 2) biologia generale applicata agli studi medici;  
+\* 3) chimica;  
+\* 4) chimica biologica;  
+5) farmacologia (semestrale);  
+\* 6) fisica medica;  
+7) fisiologia umana e dell'apparato stomatognatico;  
+8) igiene e odontoiatria preventiva e sociale con epidemiologia (semestrale);  
+9) istituzioni di anatomia umana normale e dell'apparato stomatognatico;  
+10) istituzioni di anatomia e istologia patologica;  
+\* 11) istologia ed embriologa generale (compresa la citologia);  
+12) materiali dentari;  
+13) microbiologia (semestrale);  
+14) odontoiatria conservatrice (triennale - secondo, terzo e quarto anno);  
+15) patologia generale.  
+Triennio:  
+16) chirurgia speciale odontostomatologica (biennale - terzo e quarto anno);  
+17) clinica odontostomatologica (biennale - quarto e quinto anno);  
+18) medicina legale e delle assicurazioni e deontologia in odontostomatologia (semestrale);  
+19) neuropatologia e psicopatologia (semestrale);  
+20) ortognatodonzia e gnatologia (funzione masticatoria) (biennale - quarto e quinto anno);  
+21) parodontologia (biennale - quarto e quinto anno);  
+22) patologia speciale chirurgica e propedeutica clinica;  
+23) patologia speciale medica e metodologia clinica (compresa la pediatria);  
+24) patologia speciale odontostomatologica;  
+25) pedodonzia (semestrale);  
+26) protesi dentaria (triennale - terzo, quarto e quinto anno);  
+27) radiologia generale e speciale odontostomatologica (semestrale).  
+Insegnamenti complementari:  
+\* 1) chirurgia maxillo-facciale;  
+\* 2) dermatologia e venerologia (semestrale);  
+\* 3) otorinolaringoiatria (semestrale);  
+\* 4) statistica sanitaria;  
+altri insegnamenti complementari nel piano della facolta' sempre mutuati dal corso di laurea in medicina e chirurgia.  
+Gli insegnamenti segnati con asterisco sono mutuati dal corso di laurea in medicina e chirurgia.  
+Gli insegnamenti fondamentali sono teorici e pratici e la loro frequenza e' obbligatoria.  
+Gli insegnamenti specificatamente odontostomatologici di ordine clinico comportano anche un tirocinio pratico continuativo da espletare prima di sostenere i relativi esami.  
+Gli allievi che non conseguono le attestazioni di frequenza, non possono essere ammessi a sostenere le relative prove di esame.  
+Il tirocinio pratico, relativo ad ogni insegnamento clinico, deve prevedere da parte dei componenti dell'organico, una assistenza didattica adeguata al numero degli studenti.
 
-Art. 2
-------
+|  |  |
+| --- | --- |
+| Non si puo' essere ammessi a sostenere l'esame di: | Se non si e' superato l'esame di: |
+| Fisiologia umana e dell'apparato stomatognatico | Istituzioni di anatomia umana normale e dell'apparato stomatognatico; |
+| Patologia generale | Chimica; |
+|  | Biologia generale applicata agli studi medici; |
+|  | Fisica medica; |
+| Patologia speciale medica e metodologia clinica (compresa la pediatria) | Fisiologia umana e dell'apparato stomatognatico; |
+| Patologia speciale chirurgica e propedeutica clinica | Patologia generale; |
+| Clinica odontostomatologica | Patologia speciale medica e metodologia clinica (compresa la pediatria); |
+|  | Patologia speciale chirurgica e propedeutica clinica; |
+|  | Istituzioni di anatomia ed istologia patologica; |
+|  | Patologia speciale odontostomatologica; |
 
   
-All'art. 189, relativo agli insegnamenti della scuola di specializzazione in geriatria e gerontologia di cui al [decreto del Presidente della Repubblica 26 settembre 1978, n. 879](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-09-26;879), l'insegnamento di nefrologia (annuale) del terzo anno di corso e' soppresso e sostituito da neurologia (annuale).  
-
-Art. 3
-------
-
   
-Dopo l'art. 228, e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi alla scuola di specializzazione in anatomia patologica:  
-  
-Scuola di specializzazione in anatomia patologica  
-Art. 229. - La scuola di specializzazione in anatomia patologica ha sede presso l'istituto di anatomia e istologia patologica, e conferisce il diploma di specialista in anatomia patologica.  
-Art. 230. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Art. 231. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalla autorita' competente.  
-Art. 232. - La durata del corso di studi e' di quattro anni, e non e' suscettibile di abbreviazione.  
-Art. 233. - Il numero massimo degli allievi e' di sei per anno di corso, e complessivamente di ventiquattro iscritti per l'intero corso di studi.  
-Art. 234. - L'ammissione al corso avviene per titoli ed esami.  
-Art. 235. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-anatomia patologica sistematica I;  
-tecnica delle autopsie;  
-diagnostica anatomo-patologica macroscopica I;  
-tecniche istologiche e istochimiche.  
-2° Anno:  
-anatomia patologica sistematica II;  
-diagnostica anatomo-patologica macroscopica II;  
-diagnostica istopatologica I;  
-tecniche e diagnostica citologica e citogenetica.  
-3° Anno:  
-diagnostica istopatologica II;  
-tecniche di microscopia elettronica e biologia ultrastrutturale;  
-immunopatologia.  
-4° Anno:  
-diagnostica istopatologica III;  
-diagnostica isto-citopatologica ultrastrutturale;  
-diagnostica autoptica medico legale ed elementi di legislazione sanitaria;  
-applicazioni statistiche ed epidemiologiche.  
-Art. 236. - La frequenza alle lezioni, alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove d'esame.  
-Art. 237. - Alla fine di ogni corso gli iscritti, per essere ammessi agli esami successivi, devono superare le prove d'esame sulle materie impartite durante l'anno.  
-Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.  
-Al termine del corso di studi per il conseguimento del diploma di specialista in anatomia patologica gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
+Per essere ammesso a sostenere l'esame di laurea in odontoiatria e protesi dentaria, lo studente deve aver seguito i corsi ed aver superato gli esami in tutti gli insegnamenti fondamentali ed almeno in due insegnamenti scelti tra i complementari ed aver, inoltre, seguito le prescritte esercitazioni cliniche, i tirocini pratici ed averne conseguito le relative attestazioni.  
+L'esame di laurea consiste nella discussione di una tesi scritta su argomenti di odontostomatologia da richiedere almeno all'inizio dell'ultimo anno di corso.  
+Per il trasferimento degli studenti iscritti al corso di laurea in medicina e chirurgia le abbreviazioni di corso non possono superare l'ammissione oltre il secondo anno, subordinatamente al numero di posti resisi disponibili all'inizio del secondo anno sempre che gli aspiranti abbiano superato gli esami di biologia generale applicata agli studi medici, chimica, fisica medica, istologia ed embriologia generale (compresa la citologia).  
+Per i laureati in medicina e chirurgia le abbreviazioni di corso potranno essere concesse, sempre con iscrizione al secondo anno, subordinatamente al numero di posti resisi disponibili all'inizio del secondo anno e dopo che sia trascorso un anno accademico dal conseguimento della laurea precedente.  
+Per esercitare la professione i laureati in odontoiatria e protesi dentaria devono superare un apposito esame di Stato.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 giugno 1980
+### Dato a Roma, addi' 24 ottobre 1980
 
-PERTINI SARTI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: SARTI
 
-Registrato alla Corte dei conti, addi' 8 ottobre 1980
+Registrato alla Corte dei conti, addi' 10 dicembre 1980
 
-Registro n. 92 Istruzione, foglio n. 139
+Registro n. 115 Istruzione, foglio n. 365

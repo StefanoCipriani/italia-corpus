@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1983 n. 1158
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1986 n. 207
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1983 n. 1158
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1986 n. 207
+==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Bologna.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926 n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -33,29 +33,27 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' di Bologna, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-  
-Nell'art. 128, relativo all'elenco degli insegnamenti complementari del corso di laurea in chimica industriale, sono aggiunti i seguenti nuovi insegnamenti:   
-metodi fisici in chimica organica;   
-sintesi speciali organiche;   
-chimica dei composti eterociclici;   
-complementi di chimica organica.   
+Nell'art. 117, relativo al corso di laurea in scienze naturali della facolta' di scienze matematiche, fisiche e naturali, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
+didattica delle scienze geologiche.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 marzo 1983
+### Dato a Roma, addi' 21 gennaio 1986
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 4 aprile 1984
+Registrato alla Corte dei conti, addi' 28 aprile 1986
 
-Registro n. 21 Istruzione, foglio n. 200
+Registro n. 33 Istruzione, foglio n. 57

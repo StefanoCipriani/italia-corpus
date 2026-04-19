@@ -1,60 +1,175 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 giugno 1975 n. 500
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1744
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 giugno 1975 n. 500
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1744
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Modena.
 ------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035), modificato con [regio decreto 18 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-18;2170) e successivi;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 812](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;812);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica Istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 53. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche vengono aggiunti quelli di:
+
+"Giacimenti minerari";
+
+"Micropaleontologia".
+
+Gli articoli 123, 124 e 125, relativi alla scuola di specializzazione in radiologia e terapia fisica sono modificati come segue:
+
+Art. 123. - La scuola ha la durata di tre anni il numero dei posti disponibili per ogni anno e' il seguente:
+
+1° anno 15 (quindici);
+
+2° anno 20 (venti);
+
+3° anno 20 (venti).
+
+Art. 124. - Gli insegnamenti impartiti nella scuola sono:
+
+Insegnamenti fondamentali:
+
+1° anno:
+
+1) Elettrologia e fisica delle radiazioni;
+
+2) Radiobiologia;
+
+3) Diagnostica radiologica (tecnica, anatomia e fisiologia);
+
+2° anno:
+
+1) Diagnostica radiologica (semeiotica e diagnostica) (biennale);
+
+2) Radioterapia (raggi X, sostanze radioattive naturali e Isoterapia) (biennale);
+
+3) Patologia da radiazioni e protezioni;
+
+4) Terapia fisica;
+
+3° anno:
+
+1) Diagnostica radiologica (semeiotica e diagnostica) (biennale);
+
+2) Radioterapia (raggi X, sostanze radioattive naturali ed Isoterapia) (biennale).
+
+Insegnamento complementare:
+
+1) legislazione e deontologia professionale radiologiche.
+
+Gli insegnamenti saranno completati da esercitazioni pratiche e possono essere integrati da conferenze di argomenti di particolare interesse e novita', affidate anche a cultori della materia estranei al corpo insegnante della scuola.
+
+Art. 125. - L'allievo del primo anno, per essere ammesso al secondo anno, deve avere ottenuto tutte le firme di frequenza dei corsi del primo anno e deve avere superato gli esami delle materie fondamentali del primo anno.
+
+L'allievo del secondo anno, per essere ammesso al terzo, deve avere ottenuto tutte le firme di frequenza dei corsi del secondo e deve avere superato gli esami delle materie fondamentali del secondo anno.
+
+Art. 159, relativo alla scuola di specializzazione in oculistica, e' modificato nel senso che l'insegnamento n. 3) del 2° anno e n. 1) del 3° anno viene denominato:
+
+"Fisiopatologia e chimica oculistica".
+
+Art. 168, relativo alla scuola di specializzazione in malattie del sangue e' modificato nel senso che l'insegnamento n. 1) del 1° anno viene denominato: "Citologia normale e patologica del sangue e degli organi ematopoietici".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 19 ottobre 1960
+
+GRONCHI
+
+BOSCO
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 26 gennaio 1961 Atti del Governo, registro n. 133, foglio n. 96. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035), modificato con [regio decreto 18 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-18;2170) e successivi;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Veduta la [legge 11 aprile 1953, n. 812](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;812);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' degli studi di Modena;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica Istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-L'art. 53, relativo agli insegnamenti del biennio propedeutico degli studi in ingegneria, e' modificato nel senso che l'elenco degli insegnamenti sostitutivi della "Geometria II" e' abrogato e sostituito dal seguente;  
-A) litologia e geologia per il corso di laurea in ingegneria civile;  
-B) chimica organica, per il corso di laurea in ingegneria chimica;  
-C) mineralogia, per il corso di laurea in ingegneria mineraria;  
-D) chimica applicata, per il corso di laurea in ingegneria meccanica;  
-E) metodi di osservazione e misura, per il corso di laurea in ingegneria elettronica:  
-F) chimica dei materiali elettrici, per il corso di laurea in ingegneria elettrotecnica;  
-G) fisica atomica, per il corso di laurea in ingegneria nucleare;  
-H) disegno II, per qualsiasi altro corso di laurea in ingegneria.  
-Nello stesso articolo l'elenco degli insegnamenti fondamentali aggiunti, non sostitutivi dell'insegnamento di geometria II, e' abrogato e sostituito dal seguente:  
-A) litologia e geologia, disegno II, tecnologia dei materiali e chimica applicata per il corso di laurea in ingegneria civile;  
-B) chimica organica, disegno II, chimica applicata per il corso di laurea in ingegneria chimica;  
-C) mineralogia, disegno II, giacimenti minerari, geologia, per il corso di laurea in ingegneria mineraria;  
-D) disegno II, tecnologia dei materiali e chimica applicata, per il corso di laurea in ingegneria meccanica;  
-E) metodi di osservazione e misura per il corso di laurea in ingegneria elettronica;  
-F) chimica dei materiali elettrici, disegno II, complementi di matematiche per il corso di laurea in ingegneria elettrotecnica;  
-G) fisica atomica, disegno II, fisica nucleare, per il corso di laurea in ingegneria nucleare;  
-H) tecnologia generale dei materiali, disegno II, per qualsiasi altro corso di laurea in ingegneria.  
+Art. 53. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche vengono aggiunti quelli di:  
+"Giacimenti minerari";  
+"Micropaleontologia".  
+Gli articoli 123, 124 e 125, relativi alla scuola di specializzazione in radiologia e terapia fisica sono modificati come segue:  
+Art. 123. - La scuola ha la durata di tre anni il numero dei posti disponibili per ogni anno e' il seguente:  
+1° anno 15 (quindici);  
+2° anno 20 (venti);  
+3° anno 20 (venti).  
+Art. 124. - Gli insegnamenti impartiti nella scuola sono:  
+Insegnamenti fondamentali:  
+  
+1° anno:  
+1) Elettrologia e fisica delle radiazioni;  
+2) Radiobiologia;  
+3) Diagnostica radiologica (tecnica, anatomia e fisiologia);  
+2° anno:  
+1) Diagnostica radiologica (semeiotica e diagnostica) (biennale);  
+2) Radioterapia (raggi X, sostanze radioattive naturali e Isoterapia) (biennale);  
+3) Patologia da radiazioni e protezioni;  
+4) Terapia fisica;  
+3° anno:  
+1) Diagnostica radiologica (semeiotica e diagnostica) (biennale);  
+2) Radioterapia (raggi X, sostanze radioattive naturali ed Isoterapia) (biennale).  
+  
+Insegnamento complementare:  
+  
+1) legislazione e deontologia professionale radiologiche.  
+Gli insegnamenti saranno completati da esercitazioni pratiche e possono essere integrati da conferenze di argomenti di particolare interesse e novita', affidate anche a cultori della materia estranei al corpo insegnante della scuola.  
+Art. 125. - L'allievo del primo anno, per essere ammesso al secondo anno, deve avere ottenuto tutte le firme di frequenza dei corsi del primo anno e deve avere superato gli esami delle materie fondamentali del primo anno.  
+L'allievo del secondo anno, per essere ammesso al terzo, deve avere ottenuto tutte le firme di frequenza dei corsi del secondo e deve avere superato gli esami delle materie fondamentali del secondo anno.  
+Art. 159, relativo alla scuola di specializzazione in oculistica, e' modificato nel senso che l'insegnamento n. 3) del 2° anno e n. 1) del 3° anno viene denominato:  
+"Fisiopatologia e chimica oculistica".  
+Art. 168, relativo alla scuola di specializzazione in malattie del sangue e' modificato nel senso che l'insegnamento n. 1) del 1° anno viene denominato: "Citologia normale e patologica del sangue e degli organi ematopoietici".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Roma, addi' 3 giugno 1975
+### Dato a Roma, addi' 19 ottobre 1960
 
-LEONE MALFATTI
+GRONCHI BOSCO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 18 ottobre 1975
+Registrato alla Corte dei conti, addi' 26 gennaio 1961
 
-Atti di Governo, registro n. 13, foglio n. 15
+Atti del Governo, registro n. 133, foglio n. 96. - VILLA

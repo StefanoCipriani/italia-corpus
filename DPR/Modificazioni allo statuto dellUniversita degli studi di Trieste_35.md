@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1259
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1294
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1259
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1294
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), a successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962 n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933 n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,407 +20,189 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Gli articoli 132, 133, relativi alla scuola di specializzazione in anestesiologia e rianimazione, che muta la denominazione in quella di scuola di specializzazione in anestesia e rianimazione, sono abrogati e sostituiti dai seguenti:
+Dopo l'art. 124 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in "chirurgia toracica".
 
-Scuola di specializzazione in anestesia e rianimazione
+Scuola di specializzazione in chirurgia toracica
 
-Art. 132. - La scuola di specializzazione in anestesia e rianimazione ha sede presso l'istituto di anestesiologia e rianimazione dell'Universita' degli studi di Trieste e conferisce il diploma di specialista in anestesia e rianimazione.
+Art. 125. - La scuola di specializzazione in chirurgia toracica ha la durata di 4 anni e prevede l'insegnamento di tutte le branche della chirurgia toracica: chirurgia polmonare, chirurgia cardiaca, chirurgia esofagea, chirurgia del mediastino e della parete toracica.
 
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+Ad essa possono accedere i laureati in medicina e chirurgia che abbiano almeno 3 anni di frequenza in una scuola di specializzazione in chirurgia generale e medici che, a giudizio del consiglio degli insegnanti delle scuole stesse, abbiano acquisito sufficiente pratica in chirurgia generale attraverso servizi prestati in reparti chirurgici.
 
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.
+Coloro che siano in possesso del diploma di specializzazione in chirurgia generale o di libera docenza in una disciplina chirurgica (clinica chirurgica, patologia speciale chirurgica, semeiotica chirurgica, anatomia chirurgica) possono essere ammessi al 2° anno di corso previo esame integrativo vertente sulle materie del primo anno di corso.
 
-E' richiesto, almeno per l'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+In nessun'altra circostanza puo' essere concessa abbreviazione di corso.
 
-La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazione.
+Il numero degli iscritti e' di sei per anno di corso (totale 24 iscritti).
 
-Il numero massimo degli allievi e' di 20 per anno di corso e complessivamente di 60 iscritti per l'intero corso di studi.
+Le tasse e soprattasse che gli iscritti sono tenuti a versare, sono fissate come segue:
 
-L'ammissione al corso avviene per titoli ed esami.
+tassa di immatricolazione. . . . . . . . . . . . . . . . L. 5.000 tassa di iscrizione. . . . . . . . . . . . . . . . . . L. 100.000 soprattasse esami. . . . . . . . . . . . . . . . . . . . L. 7.000
 
-Art. 133. - Le materie di insegnamento sono le seguenti:
+Art. 126. - Il corso si compone di insegnamenti fondamentali, di esercitazioni pratiche, di periodi di internato, di conferenze riguardanti argomenti specialistici, di turni in corsia ed in sala operatoria. La frequenza ai corsi, agli internati in corsia ed in sala operatoria, alle esercitazioni, e' obbligatoria. In caso contrario i candidati non potranno ottenere l'attestazione di frequenza necessaria per l'ammissione agli esami (vedi programma dei corsi). Alla fine di ciascun anno accademico gli specializzandi che abbiano ottenuto la firma di frequenza dovranno sostenere un esame di profitto nelle materie fondamentali, il cui superamento e' condizione necessaria ed indispensabile per ottenere l'iscrizione all'anno successivo e per quelli che, sono stati inscritti al 40 anno, per l'ammissione all'esame di diploma.
 
-1° Anno:
+Art. 127. - Per tutti gli specializzandi che abbiano superato gli esami dei quattro anni, alla fine del quarto anno di corso ha luogo l'esame di diploma, consistente nella presentazione e discussione di una dissertazione scritta su di un argomento in chirurgia toracica (polmonare, cardiaca, esofagea, mediastinica) precedentemente concordata tra il direttore della scuola ed il diplomando all'inizio del terzo o quarto anno.
 
-a) anatomia applicata all'anestesia ed alla rianimazione;
+Art. 128. - La tesi deve essere approvata dallo stesso direttore e depositata presso la direzione almeno 15 giorni prima dell'esame di diploma.
 
-b) biochimica applicata all'anestesia ed alla rianimazione;
+Il candidato dovra' sostenere inoltre una prova clinica.
 
-c) farmacologia applicata all'anestesia ed alla rianimazione;
+I candidati non riconosciuti idonei all'esame di diploma dovranno ripresentarsi all'esame dopo un altro anno di frequenza alla scuola.
 
-d) fisica applicata all'anestesia ed alla rianimazione;
+Se al secondo esame non sia riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove.
 
-e) fisiologia applicata all'anestesia ed alla rianimazione;
+Nell'ultimo anno di corso gli specializzandi frequenteranno la sala operatoria in maniera assidua, dovranno assistere a numerosi interventi di chirurgia toracica ed essere in grado di eseguirne essi stessi.
 
-f) anestesiologia I;
+La loro preparazione tecnica sara' convalidata o meno alla fine del corso dal direttore della scuola di specializzazione.
 
-g) tecniche chirurgiche di interesse anestesiologico;
-
-h) aspetti medico-legali dell'anestesia e della rianimazione;
-
-i) esercitazioni pratiche.
-
-2° Anno:
-
-a) anestesiologia II;
-
-b) terapia antalgica;
-
-c) rianimazione I;
-
-d) esercitazioni pratiche.
-
-3° Anno:
-
-a) rianimazione II;
-
-b) tecniche speciali di anestesia;
-
-c) tecniche speciali di rianimazione;
-
-d) indagini diagnostiche attinenti alla specialita';
-
-e) esercitazioni pratiche.
-
-La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
-
-Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi.
-
-Al termine del corso di studi per il conseguimento del diploma di specialista in anestesia e rianimazione gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
-
-L'art. 144, relativo alla scuola di specializzazione in malattie dell'apparato digerente, che muta la denominazione in quella di scuola di specializzazione in gastroenterologia ed endoscopia digestiva, e' soppresso e sostituito dal seguente:
-
-Scuola di specializzazione in gastroenterologia ed endoscopia
-
-digestiva
-
-Art. 144. - La scuola di specializzazione in gastroenterologia ed endoscopia digestiva ha sede presso la clinica medica e conferisce il diploma di specialista in gastroenterologia ed endoscopia digestiva.
-
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
-
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.
-
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
-
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.
-
-Il numero massimo degli allievi e' di 6 per anno di corso e complessivamente di 24 iscritti per l'intero corso di studi.
-
-L'ammissione al corso avviene per titoli ed esami.
-
-Le materie di insegnamento sono le seguenti:
+Art. 129. - Gli insegnamenti impartiti sono i seguenti:
 
 1° Anno:
 
-anatomia clinica;
+1) Embriologia, anatomia descrittiva e topografica del torace e degli organi endotoracici (parete toracica, apparato respiratorio, diaframma, mediastino, organi mediastinici, cuore e grossi vasi endotoracici) (annuale);
 
-farmacologia clinica;
+2) Anatomia chirurgica del torace e degli organi endotoracici (annuale);
 
-chimica clinica, coprologia, parassitologia;
+3) Anatomia patologica delle malattie del torace (annuale);
 
-genetica;
-
-biostatistica ed epidemiologia.
+4) Anestesia e rianimazione nella chirurgia toracopolmonare ed in cardio-chirurgia (annuale).
 
 2° Anno:
 
-clinica medica generale (triennale);
+1) Fisiopatologia dell'apparato respiratorio e valutazione funzionale (annuale);
 
-clinica e terapia del tubo digerente, fegato e pancreas (triennale);
+2) Fisiopatologia dell'apparato cardio-circolatorio (annuale);
 
-anatomia ed istologia patologica (biennale);
+3) Semeiotica e diagnostica clinica e strumentale dell'apparato respiratorio dell'esofago e mediastino (annuale);
 
-fisiopatologia e semeiotica digestica (biennale);
+4) Semeiotica e diagnostica clinica e strumentale dell'apparato cardio-circolatorio (annuale);
 
-radiologia e medicina nucleare (biennale);
-
-scienza dell'alimentazione e dietetica.
+5) Diagnostica radiologica toraco-polmonare, del cuore e dei grossi vasi endotoracici (annuale).
 
 3° Anno:
 
-clinica medica generale;
+1) Patologia e clinica chirurgica delle affezioni dell'apparato respiratorio, del mediastino, e della parete toracica (biennale);
 
-clinica e terapia del tubo digerente, fegato e pancreas;
+2) Patologia e clinica chirurgica delle affezioni del cuore e dei grossi vasi endotoracici (biennale);
 
-anatomia ed istologia patologica;
+3) Patologia e clinica chirurgica delle affezioni dell'esofago e del diaframma (annuale);
 
-fisiopatologia e semeiotica digestiva;
+4) Terapia chirurgica della tubercolosi polmonare (annuale);
 
-radiologia e medicina nucleare;
+5) Elementi di terapia medica delle cardio-angiopatie (annuale);
 
-endoscopia digestiva (biennale).
+6) Elementi di fisioterapia respiratoria (annuale).
 
 4° Anno:
 
-clinica medica generale;
+1) Patologia e clinica chirurgica delle affezioni dell'apparato respiratorio, del mediastino e della parete toracica (biennale);
 
-clinica e terapia del tubo digerente, fegato e pancreas;
+2) Patologia e clinica chirurgica delle affezioni del cuore e dei grossi vasi endotoracici (biennale);
 
-endoscopia digestiva;
+3) Tecnica operatoria per le affezioni della parete toracica, dell'apparato respiratorio, dell'esofago, del mediastino e del diaframma (annuale);
 
-terapia intensiva;
+4) Tecnica operatoria delle affezioni del cuore, pericardio e grossi vasi endotoracici (annuale);
 
-gastroenterologia pediatrica;
-
-elementi di chirurgia del tubo digerente, fegato e pancreas.
-
-E' obbligatorio il tirocinio pratico durante il quadriennio di studi da svolgere nell'istituto clinico sede della scuola o in reparti ospedalieri di gastroenterologia, conforme alle scelte approvate dal consiglio della scuola.
-
-Alle materie fondamentali obbligatorie potranno essere aggiunte delle materie complementari con corsi semestrali, in numero non superiore a sei per la totalita' del corso.
-
-Per le materie biennali e triennali sara' dato l'esame alla fine del biennio o triennio.
-
-La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
-
-Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno, per le materie biennali e triennali, invece, sara' dato l'esame alla fine del biennio o triennio.
-
-Al termine del corso di studi per il conseguimento del diploma di specialista in gastroenterologia ed endoscopia digestiva, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
-
-Dopo l'art. 171, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla scuola di specializzazione in medicina del lavoro:
-
-Scuola di specializzazione in medicina del lavoro
-
-Art. 172. - La scuola di specializzazione in medicina del lavoro ha sede presso l'istituto di medicina del lavoro dell'Universita' degli studi di Trieste e conferisce il diploma di specialista in medicina del lavoro.
-
-Art. 173. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
-
-Art. 174. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
-
-Art. 175. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.
-
-Art. 176. - Il numero massimo degli allievi e' di cinque per anno di corso e complessivamente di 20 iscritti per l'intero corso di studi.
-
-Art. 177. - L'ammissione al corso avviene per titoli ed esami.
-
-Art. 178. - Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-1) igiene del lavoro (I corso);
-
-2) fisiologia del lavoro ed ergonomia (I corso);
-
-3) tecnologia industriale;
-
-4) statistica medica e biometria;
-
-5) tecniche di laboratorio.
-
-2° Anno:
-
-1) patologia e clinica delle malattie del lavoro (I corso);
-
-2) igiene del lavoro (II corso);
-
-3) fisiologia del lavoro ed ergonomia (II corso);
-
-4) psicologia del lavoro;
-
-5) tossicologia industriale.
-
-3° Anno:
-
-1) patologia e clinica delle malattie del lavoro (II corso);
-
-2) prevenzione degli infortuni e delle malattie da lavoro (I corso);
-
-3) epidemiologia delle malattie da lavoro;
-
-4) radiobiologia e radioprotezione;
-
-5) dermatologia professionale.
-
-4° Anno:
-
-1) patologia e clinica delle malattie da lavoro, III corso);
-
-2) prevenzione degli infortuni e delle malattie da lavoro (II corso);
-
-3) pronto soccorso;
-
-4) medicina legale e delle assicurazioni;
-
-5) organizzazione dei servizi di medicina ed igiene del lavoro.
-
-Gli esami delle discipline svolte in corsi pluriennali verranno sostenuti alla fine dell'ultimo corso.
-
-Art. 179. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
-
-Art. 180. - Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove d'esame sulle materie impartite durante l'anno. Per le materie biennali o triennali l'esame sara' sostenuto alla fine del biennio o del triennio.
-
-Al termine del corso di studi per il conseguimento del diploma di specialista in medicina del lavoro, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta su un argomento inerente alla specializzazione.
+5) Principi e tecniche della circolazione extracorporea e della ipotermia (annuale).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 31 ottobre 1977
+Dato a Roma, addi' 31 ottobre 1972
 
 LEONE
 
-MALFATTI
+SCALFARO
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 9 agosto 1978 Registro n. 89 Istruzione, foglio n. 200
+alla Corte dei conti, addi' 22 dicembre 1973 Atti di Governo, registro n. 263, foglio n. 13. - CARUSO
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), a successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962 n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933 n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Gli articoli 132, 133, relativi alla scuola di specializzazione in anestesiologia e rianimazione, che muta la denominazione in quella di scuola di specializzazione in anestesia e rianimazione, sono abrogati e sostituiti dai seguenti:   
+Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Scuola di specializzazione in anestesia e rianimazione   
-Art. 132. - La scuola di specializzazione in anestesia e rianimazione ha sede presso l'istituto di anestesiologia e rianimazione dell'Universita' degli studi di Trieste e conferisce il diploma di specialista in anestesia e rianimazione.   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno per l'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazione.   
-Il numero massimo degli allievi e' di 20 per anno di corso e complessivamente di 60 iscritti per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-Art. 133. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-a) anatomia applicata all'anestesia ed alla rianimazione;   
-b) biochimica applicata all'anestesia ed alla rianimazione;   
-c) farmacologia applicata all'anestesia ed alla rianimazione;   
-d) fisica applicata all'anestesia ed alla rianimazione;   
-e) fisiologia applicata all'anestesia ed alla rianimazione;   
-f) anestesiologia I;   
-g) tecniche chirurgiche di interesse anestesiologico;   
-h) aspetti medico-legali dell'anestesia e della rianimazione;   
-i) esercitazioni pratiche.   
-2° Anno:   
-a) anestesiologia II;   
-b) terapia antalgica;   
-c) rianimazione I;   
-d) esercitazioni pratiche.   
-3° Anno:   
-a) rianimazione II;   
-b) tecniche speciali di anestesia;   
-c) tecniche speciali di rianimazione;   
-d) indagini diagnostiche attinenti alla specialita';   
-e) esercitazioni pratiche.   
-La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
-Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi.   
-Al termine del corso di studi per il conseguimento del diploma di specialista in anestesia e rianimazione gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
-L'art. 144, relativo alla scuola di specializzazione in malattie dell'apparato digerente, che muta la denominazione in quella di scuola di specializzazione in gastroenterologia ed endoscopia digestiva, e' soppresso e sostituito dal seguente:   
+Dopo l'art. 124 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in "chirurgia toracica".  
   
-Scuola di specializzazione in gastroenterologia ed endoscopia   
-digestiva   
-Art. 144. - La scuola di specializzazione in gastroenterologia ed endoscopia digestiva ha sede presso la clinica medica e conferisce il diploma di specialista in gastroenterologia ed endoscopia digestiva.   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
-Il numero massimo degli allievi e' di 6 per anno di corso e complessivamente di 24 iscritti per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-anatomia clinica;   
-farmacologia clinica;   
-chimica clinica, coprologia, parassitologia;   
-genetica;   
-biostatistica ed epidemiologia.   
-2° Anno:   
-clinica medica generale (triennale);   
-clinica e terapia del tubo digerente, fegato e pancreas (triennale);   
-anatomia ed istologia patologica (biennale);   
-fisiopatologia e semeiotica digestica (biennale);   
-radiologia e medicina nucleare (biennale);   
-scienza dell'alimentazione e dietetica.   
-3° Anno:   
-clinica medica generale;   
-clinica e terapia del tubo digerente, fegato e pancreas;   
-anatomia ed istologia patologica;   
-fisiopatologia e semeiotica digestiva;   
-radiologia e medicina nucleare;   
-endoscopia digestiva (biennale).   
-4° Anno:   
-clinica medica generale;   
-clinica e terapia del tubo digerente, fegato e pancreas;   
-endoscopia digestiva;   
-terapia intensiva;   
-gastroenterologia pediatrica;   
-elementi di chirurgia del tubo digerente, fegato e pancreas.   
-E' obbligatorio il tirocinio pratico durante il quadriennio di studi da svolgere nell'istituto clinico sede della scuola o in reparti ospedalieri di gastroenterologia, conforme alle scelte approvate dal consiglio della scuola.   
-Alle materie fondamentali obbligatorie potranno essere aggiunte delle materie complementari con corsi semestrali, in numero non superiore a sei per la totalita' del corso.   
-Per le materie biennali e triennali sara' dato l'esame alla fine del biennio o triennio.   
-La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
-Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno, per le materie biennali e triennali, invece, sara' dato l'esame alla fine del biennio o triennio.   
-Al termine del corso di studi per il conseguimento del diploma di specialista in gastroenterologia ed endoscopia digestiva, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
-Dopo l'art. 171, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla scuola di specializzazione in medicina del lavoro:   
+Scuola di specializzazione in chirurgia toracica  
   
-Scuola di specializzazione in medicina del lavoro   
-Art. 172. - La scuola di specializzazione in medicina del lavoro ha sede presso l'istituto di medicina del lavoro dell'Universita' degli studi di Trieste e conferisce il diploma di specialista in medicina del lavoro.   
-Art. 173. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Art. 174. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-Art. 175. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
-Art. 176. - Il numero massimo degli allievi e' di cinque per anno di corso e complessivamente di 20 iscritti per l'intero corso di studi.   
-Art. 177. - L'ammissione al corso avviene per titoli ed esami.   
-Art. 178. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-1) igiene del lavoro (I corso);   
-2) fisiologia del lavoro ed ergonomia (I corso);   
-3) tecnologia industriale;   
-4) statistica medica e biometria;   
-5) tecniche di laboratorio.   
-2° Anno:   
-1) patologia e clinica delle malattie del lavoro (I corso);   
-2) igiene del lavoro (II corso);   
-3) fisiologia del lavoro ed ergonomia (II corso);   
-4) psicologia del lavoro;   
-5) tossicologia industriale.   
-3° Anno:   
-1) patologia e clinica delle malattie del lavoro (II corso);   
-2) prevenzione degli infortuni e delle malattie da lavoro (I corso);   
-3) epidemiologia delle malattie da lavoro;   
-4) radiobiologia e radioprotezione;   
-5) dermatologia professionale.   
-4° Anno:   
-1) patologia e clinica delle malattie da lavoro, III corso);   
-2) prevenzione degli infortuni e delle malattie da lavoro (II corso);   
-3) pronto soccorso;   
-4) medicina legale e delle assicurazioni;   
-5) organizzazione dei servizi di medicina ed igiene del lavoro.   
-Gli esami delle discipline svolte in corsi pluriennali verranno sostenuti alla fine dell'ultimo corso.   
-Art. 179. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
-Art. 180. - Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove d'esame sulle materie impartite durante l'anno. Per le materie biennali o triennali l'esame sara' sostenuto alla fine del biennio o del triennio.   
-Al termine del corso di studi per il conseguimento del diploma di specialista in medicina del lavoro, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta su un argomento inerente alla specializzazione.   
+Art. 125. - La scuola di specializzazione in chirurgia toracica ha la durata di 4 anni e prevede l'insegnamento di tutte le branche della chirurgia toracica: chirurgia polmonare, chirurgia cardiaca, chirurgia esofagea, chirurgia del mediastino e della parete toracica.  
+Ad essa possono accedere i laureati in medicina e chirurgia che abbiano almeno 3 anni di frequenza in una scuola di specializzazione in chirurgia generale e medici che, a giudizio del consiglio degli insegnanti delle scuole stesse, abbiano acquisito sufficiente pratica in chirurgia generale attraverso servizi prestati in reparti chirurgici.  
+Coloro che siano in possesso del diploma di specializzazione in chirurgia generale o di libera docenza in una disciplina chirurgica (clinica chirurgica, patologia speciale chirurgica, semeiotica chirurgica, anatomia chirurgica) possono essere ammessi al 2° anno di corso previo esame integrativo vertente sulle materie del primo anno di corso.  
+In nessun'altra circostanza puo' essere concessa abbreviazione di corso.  
+Il numero degli iscritti e' di sei per anno di corso (totale 24 iscritti).  
+Le tasse e soprattasse che gli iscritti sono tenuti a versare, sono fissate come segue:  
+  
+tassa di immatricolazione. . . . . . . . . . . . . . . . L. 5.000 tassa di iscrizione. . . . . . . . . . . . . . . . . . L. 100.000 soprattasse esami. . . . . . . . . . . . . . . . . . . . L. 7.000   
+Art. 126. - Il corso si compone di insegnamenti fondamentali, di esercitazioni pratiche, di periodi di internato, di conferenze riguardanti argomenti specialistici, di turni in corsia ed in sala operatoria. La frequenza ai corsi, agli internati in corsia ed in sala operatoria, alle esercitazioni, e' obbligatoria. In caso contrario i candidati non potranno ottenere l'attestazione di frequenza necessaria per l'ammissione agli esami (vedi programma dei corsi). Alla fine di ciascun anno accademico gli specializzandi che abbiano ottenuto la firma di frequenza dovranno sostenere un esame di profitto nelle materie fondamentali, il cui superamento e' condizione necessaria ed indispensabile per ottenere l'iscrizione all'anno successivo e per quelli che, sono stati inscritti al 40 anno, per l'ammissione all'esame di diploma.  
+Art. 127. - Per tutti gli specializzandi che abbiano superato gli esami dei quattro anni, alla fine del quarto anno di corso ha luogo l'esame di diploma, consistente nella presentazione e discussione di una dissertazione scritta su di un argomento in chirurgia toracica (polmonare, cardiaca, esofagea, mediastinica) precedentemente concordata tra il direttore della scuola ed il diplomando all'inizio del terzo o quarto anno.  
+Art. 128. - La tesi deve essere approvata dallo stesso direttore e depositata presso la direzione almeno 15 giorni prima dell'esame di diploma.  
+Il candidato dovra' sostenere inoltre una prova clinica.  
+I candidati non riconosciuti idonei all'esame di diploma dovranno ripresentarsi all'esame dopo un altro anno di frequenza alla scuola.  
+Se al secondo esame non sia riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove.  
+Nell'ultimo anno di corso gli specializzandi frequenteranno la sala operatoria in maniera assidua, dovranno assistere a numerosi interventi di chirurgia toracica ed essere in grado di eseguirne essi stessi.  
+La loro preparazione tecnica sara' convalidata o meno alla fine del corso dal direttore della scuola di specializzazione.  
+Art. 129. - Gli insegnamenti impartiti sono i seguenti:  
+1° Anno:  
+1) Embriologia, anatomia descrittiva e topografica del torace e degli organi endotoracici (parete toracica, apparato respiratorio, diaframma, mediastino, organi mediastinici, cuore e grossi vasi endotoracici) (annuale);  
+2) Anatomia chirurgica del torace e degli organi endotoracici (annuale);  
+3) Anatomia patologica delle malattie del torace (annuale);  
+4) Anestesia e rianimazione nella chirurgia toracopolmonare ed in cardio-chirurgia (annuale).  
+2° Anno:  
+1) Fisiopatologia dell'apparato respiratorio e valutazione funzionale (annuale);  
+2) Fisiopatologia dell'apparato cardio-circolatorio (annuale);  
+3) Semeiotica e diagnostica clinica e strumentale dell'apparato respiratorio dell'esofago e mediastino (annuale);  
+4) Semeiotica e diagnostica clinica e strumentale dell'apparato cardio-circolatorio (annuale);  
+5) Diagnostica radiologica toraco-polmonare, del cuore e dei grossi vasi endotoracici (annuale).  
+3° Anno:  
+1) Patologia e clinica chirurgica delle affezioni dell'apparato respiratorio, del mediastino, e della parete toracica (biennale);  
+2) Patologia e clinica chirurgica delle affezioni del cuore e dei grossi vasi endotoracici (biennale);  
+3) Patologia e clinica chirurgica delle affezioni dell'esofago e del diaframma (annuale);  
+4) Terapia chirurgica della tubercolosi polmonare (annuale);  
+5) Elementi di terapia medica delle cardio-angiopatie (annuale);  
+6) Elementi di fisioterapia respiratoria (annuale).  
+4° Anno:  
+1) Patologia e clinica chirurgica delle affezioni dell'apparato respiratorio, del mediastino e della parete toracica (biennale);  
+2) Patologia e clinica chirurgica delle affezioni del cuore e dei grossi vasi endotoracici (biennale);  
+3) Tecnica operatoria per le affezioni della parete toracica, dell'apparato respiratorio, dell'esofago, del mediastino e del diaframma (annuale);  
+4) Tecnica operatoria delle affezioni del cuore, pericardio e grossi vasi endotoracici (annuale);  
+5) Principi e tecniche della circolazione extracorporea e della ipotermia (annuale).  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1977
+### Dato a Roma, addi' 31 ottobre 1972
 
-LEONE MALFATTI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 9 agosto 1978
+Registrato alla Corte dei conti, addi' 22 dicembre 1973
 
-Registro n. 89 Istruzione, foglio n. 200
+Atti di Governo, registro n. 263, foglio n. 13. - CARUSO

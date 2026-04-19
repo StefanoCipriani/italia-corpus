@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 443
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 595
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 443
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 595
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Palermo.
@@ -39,27 +39,19 @@ Articolo unico
 --------------
 
   
-  
-Nell'art. 50, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:   
-indagini diagnostiche in anestesiologia;   
-fisiologia;   
-fisiopatologia ostetrico-ginecologica;   
-igiene industriale:   
-tecniche anestesiologiche in terapia antalgica;   
-semeiotica neurologica.   
+Nell'art. 13, relativo al corso di laurea in scienze politiche, all'elenco degli insegnamenti complementari dell'indirizzo politico-internazionale e' aggiunto il seguente nuovo insegnamento:  
+demografia storica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 aprile 1986
+### Dato a Roma, addi' 4 maggio 1983
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 17 luglio 1986
+Registrato alla Corte dei conti, addi' 15 ottobre 1983
 
-Registro n. 57 Istruzione, foglio n. 84
+Registro n. 66 Istruzione, foglio n. 149

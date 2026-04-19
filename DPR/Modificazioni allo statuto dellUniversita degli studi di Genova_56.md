@@ -1,21 +1,126 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1970 n. 1245
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1971 n. 623
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1970 n. 1245
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1971 n. 623
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 29: all'elenco degli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di "Storia delle tecniche artistiche".
+
+Art. 30: all'elenco degli insegnamenti complementari del corso di laurea in filosofia e' aggiunto quello di "Storia della logica".
+
+Art. 46: all'elenco degli insegnamenti complementari del corso di laurea in pedagogia e' aggiunto quello di "Storia della filosofia morale".
+
+Art. 50: all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:
+
+Gastroenterologia;
+
+Epidemiologia.
+
+Art. 58, relativo al corso di laurea in matematica, nell'elenco degli insegnamenti obbligatori per il secondo biennio l'insegnamento di "Calcolo numerico" (con esercitazioni) dal 4° anno passa al 3° anno, mentre lo insegnamento complementare di cui al n. 4) passa dal 3° al 4° anno.
+
+All'elenco degli insegnamenti complementari del II gruppo sono aggiunti i seguenti:
+
+Indirizzo generale:
+
+Geometria differenziale;
+
+Logica matematica;
+
+Teoria del potenziale.
+
+Indirizzo didattico:
+
+Didattica della fisica;
+
+Didattica delle scienze naturali.
+
+Indirizzo applicativo:
+
+Linguaggi programmativi e programmazione;
+
+Struttura dei calcolatori.
+
+Nello stesso elenco sono soppressi i seguenti insegnamenti:
+
+Indirizzo didattico:
+
+Fisica terrestre.
+
+Indirizzo applicativo:
+
+Fisica terrestre.
+
+Nello stesso art. 58 le propedeuticita' dei punti 2) e 3) sono cosi' modificate:
+
+2) L'esame di geometria I deve precedere quello di geometria II e questo deve precedere l'esame di istituzioni di geometria superiore.
+
+3) L'esame di meccanica razionale deve precedere quello di istituzioni di fisica matematica.
+
+Art. 59: all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali e' aggiunto quello di "Paleontologia vegetale".
+
+Art. 63: e' aggiunto il seguente comma: "Oltre alle esercitazioni che sono comprese fra i corsi fondamentali per le lauree in scienze naturali, scienze biologiche, scienze geologiche, col manifesto degli studi saranno prescritte annualmente altre esercitazioni e le eventuali prove per quegli insegnamenti per i quali siano ritenute opportune dalla facolta'".
+
+Art. 104: all'elenco degli insegnamenti complementari della scuola di perfezionamento in storia, indirizzo storia antica, sono aggiunti:
+
+Storia del mediterraneo antico-orientale;
+
+Storia dell'economia antica;
+
+Esegesi delle fonti di storia greca e romana.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 19 maggio 1971
+
+SARAGAT
+
+MISASI
+
+Visto, il Guardasigilli: COLOMBO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 20 agosto 1971 Atti del Governo, registro n. 243, foglio n. 150. - PASQUALUCCI
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -25,57 +130,56 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Dopo l'art. 286 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola per tecnici testisti (scuola diretta a fini speciali).  
+Art. 29: all'elenco degli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di "Storia delle tecniche artistiche".  
+Art. 30: all'elenco degli insegnamenti complementari del corso di laurea in filosofia e' aggiunto quello di "Storia della logica".  
+Art. 46: all'elenco degli insegnamenti complementari del corso di laurea in pedagogia e' aggiunto quello di "Storia della filosofia morale".  
+Art. 50: all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:  
+Gastroenterologia;  
+Epidemiologia.  
+Art. 58, relativo al corso di laurea in matematica, nell'elenco degli insegnamenti obbligatori per il secondo biennio l'insegnamento di "Calcolo numerico" (con esercitazioni) dal 4° anno passa al 3° anno, mentre lo insegnamento complementare di cui al n. 4) passa dal 3° al 4° anno.  
+All'elenco degli insegnamenti complementari del II gruppo sono aggiunti i seguenti:  
   
-Scuola per tecnici testisti  
-(Scuola diretta a fini speciali)  
+Indirizzo generale:  
+Geometria differenziale;  
+Logica matematica;  
+Teoria del potenziale.  
   
-Art. 287. - Presso l'istituto di psicologia e' istituita una scuola per tecnici testisti (scuola diretta a fini speciali) che ha lo scopo di conferire la necessaria competenza teorica e pratica a coloro che affiancheranno, in veste di tecnici, gli psicologi.  
-Art. 288. - Gli insegnamenti impartiti nella scuola sono:  
-1° Anno:  
-Psicologia generale;  
-Psicometria con esercitazioni I;  
-Statistica;  
-Psicofisiologia del sistema nervoso.  
-2° Anno:  
-Psicometria con esercitazioni II;  
-Psicologia sociale e sociologia;  
-Psicologia dello sviluppo e psicopedagogia;  
-Psicopatologia.  
-Art. 289. - La scuola ha la durata di due anni e ha carattere essenzialmente dimostrativo e pratico.  
-Art. 290. - Alla scuola possono iscriversi persone di eta' non inferiore a 18 anni, con licenza di scuola media superiore o con l'ammissione all'ultimo anno di, liceo classico o scientifico.  
-Art. 291. - E' facolta' del direttore di ammettere direttamente alla frequenza del secondo anno le persone che saranno ritenute idonee sulla base di esami e di titoli, che attestano una preparazione nel campo specifico.  
-Art. 292. - Il direttore della scuola e' il direttore dell'istituto di psicologia della facolta' di medicina e chirurgia.  
-Gli insegnanti della scuola sono proposti dal consiglio di facolta' di medicina e chirurgia, udito il direttore e nominati dal rettore.  
-Il consiglio del corso si compone dei docenti che vi tengano gli insegnamenti prescritti ed e' presieduto dal direttore.  
-Art. 293. - La domanda di ammissione alla scuola e' diretta al direttore della scuola, il quale sottopone ogni aspirante ad esame di selezione ed a colloquio per accertare l'attitudine a seguire gli insegnamenti del corso.  
-Art. 294. - Il numero massimo di allievi che possono essere accolti annualmente dalla scuola e' di venticinque per anno.  
-Art. 295. - Gli iscritti hanno l'obbligo di frequentare assiduamente per tutto il biennio le lezioni teoriche nell'istituto di psicologia e le esercitazioni pratiche, che si svolgeranno sia nell'istituto stesso che in altre istituzioni che saranno di volta in volta indicate.  
-Art. 296. - Alla fine del primo anno gli allievi devono superare, per essere ammessi al secondo, prove di esame sugli insegnamenti teorici e pratici impartiti. Al termine del secondo anno per il conseguimento del diploma gli allievi devono sostenere un esame comprendente:  
-a) una prova scritta;  
-b) una prova orale sulle materie dell'intero corso;  
-c) una prova pratica stabilita dalla commissione esaminatrice.  
-Art. 297. - La commissione d'esame e di diploma e' formata da tre membri scelti fra i docenti e nominati dal preside su proposta del direttore della scuola.  
-Ogni commissario ha a disposizione dieci punti. I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza della scuola. Ma se al secondo esame non sia loro riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove.  
-Art. 298. - Le tasse che gli iscritti sono tenuti a pagare vengono cosi' fissate:  
+Indirizzo didattico:  
+Didattica della fisica;  
+Didattica delle scienze naturali.  
   
-1° Anno:  
-Tassa di iscrizione . . . . . . . . . . . . . . . . . . L. 20.000 Contributi. . . . . . . . . . . . . . . . . . . . . . . L. 40.000 Soprattassa esame. . . . . . . . . . . . . . . . . . . . L. 7.000 2° Anno:  
-Tassa di iscrizione . . . . . . . . . . . . . . . . . . L. 20.000 Contributi. . . . . . . . . . . . . . . . . . . . . . . L. 40.000 Soprattassa esame. . . . . . . . . . . . . . . . . . . . L. 7.000 Soprattassa di diploma . . . . . . . . . . . . . . . . . L. 3.000   
-Norma transitoria  
+Indirizzo applicativo:  
+Linguaggi programmativi e programmazione;  
+Struttura dei calcolatori.  
   
-Art. 299. - Alla data dell'entrata in vigore del presente statuto gli allievi dei precedenti corsi di cultura per tecnici testisti tenuti presso l'istituto di psicologia di questa universita' che abbiano sostenuto tutti gli esami e che siano in possesso del regolare attestato di frequenza e profitto, potranno ottenere il corrispondente diploma di tecnico testista, previo colloquio integrativo.  
+Nello stesso elenco sono soppressi i seguenti insegnamenti:  
+  
+Indirizzo didattico:  
+Fisica terrestre.  
+  
+Indirizzo applicativo:  
+Fisica terrestre.  
+  
+Nello stesso art. 58 le propedeuticita' dei punti 2) e 3) sono cosi' modificate:  
+2) L'esame di geometria I deve precedere quello di geometria II e questo deve precedere l'esame di istituzioni di geometria superiore.  
+3) L'esame di meccanica razionale deve precedere quello di istituzioni di fisica matematica.  
+Art. 59: all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali e' aggiunto quello di "Paleontologia vegetale".  
+Art. 63: e' aggiunto il seguente comma: "Oltre alle esercitazioni che sono comprese fra i corsi fondamentali per le lauree in scienze naturali, scienze biologiche, scienze geologiche, col manifesto degli studi saranno prescritte annualmente altre esercitazioni e le eventuali prove per quegli insegnamenti per i quali siano ritenute opportune dalla facolta'".  
+Art. 104: all'elenco degli insegnamenti complementari della scuola di perfezionamento in storia, indirizzo storia antica, sono aggiunti:  
+Storia del mediterraneo antico-orientale;  
+Storia dell'economia antica;  
+Esegesi delle fonti di storia greca e romana.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1970
+### Dato a Roma, addi' 19 maggio 1971
 
 SARAGAT MISASI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 26 gennaio 1971
+Registrato alla Corte dei conti, addi' 20 agosto 1971
 
-Atti del Governo, registro n. 240, foglio n. 122. - CARUSO
+Atti del Governo, registro n. 243, foglio n. 150. - PASQUALUCCI

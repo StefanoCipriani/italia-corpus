@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 673
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1219
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 673
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1219
+===============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 14 ottobre 1926, n. 2090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2090), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -39,19 +39,19 @@ Articolo unico
 --------------
 
   
-  
-Art. 129 - nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia della prima facolta' di medicina e chirurgia gli insegnamenti di "chirurgia pediatrica" e "malattie dell'apparato cardiovascolare" cambiano la denominazione rispettivamente in quella di "clinica chirurgica pediatrica" e "cardiologia".   
+L'art. 155, relativo al corso di laurea in odontoiatria e protesi dentaria della seconda facolta' di medicina e chirurgia e' soppresso e sostituito dal seguente:  
+Art. 155. - Il numero degli iscritti e' di cinquanta per anno di corso e complessivamente di duecentocinquanta per l'intero corso di studi.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 aprile 1984
+### Dato a Roma, addi' 28 ottobre 1983
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 1° ottobre 1984
+Registrato alla Corte dei conti, addi' 28 aprile 1984
 
-Registro n. 58 Istruzione, foglio n. 294
+Registro n. 25 Istruzione, foglio n. 213

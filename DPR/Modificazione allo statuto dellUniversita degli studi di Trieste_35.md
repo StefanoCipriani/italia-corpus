@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1982 n. 822
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 agosto 1982 n. 847
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1982 n. 822
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 agosto 1982 n. 847
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Trieste.
@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -28,7 +28,7 @@ Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte 
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro della pubblica Istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 --------
@@ -39,19 +39,19 @@ Articolo unico
 --------------
 
   
-Nell'art. 61, relativo al corso di laurea In materie letterarie, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-filologia latina medioevale e umanistica.  
+Nell'art. 71, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+fisiopatologia e terapia del dolore.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 15 luglio 1982
+### Dato a Roma, addi' 23 agosto 1982
 
 PERTINI BODRATO
 
 Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 29 ottobre 1982
+Registrato alla Corte dei conti, addi' 8 novembre 1982
 
-Registro n. 121 Istruzione, foglio n. 57
+Registro n. 123 Istruzione, foglio n. 235

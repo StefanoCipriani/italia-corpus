@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 260
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1985 n. 970
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 260
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1985 n. 970
+==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi della Calabria.
 -----------------------------------------------------------------------
@@ -33,20 +33,20 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' della Calabria, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' della Calabria, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Nell'art. 58, relativo all'elenco degli insegnamenti del dipartimento di sociologia e di scienza politica e nella tabella G (allegata all'art. 35 dello statuto) e' aggiunto il seguente nuovo insegnamento:  
-sociologia del mutamento.  
+Nell'art. 42, relativo al dipartimento di filosofia all'elenco degli insegnamenti e aggiunta la seguente nuova disciplina:  
+storia della filosofia politica.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti, di osservarlo e di farlo osservare.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 febbraio 1986
+### Dato a Roma, addi' 22 ottobre 1985
 
 COSSIGA
 
@@ -54,6 +54,6 @@ FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 30 maggio 1986
+Registrato alla Corte dei conti, addi' 24 marzo 1986
 
-Registro n. 44 Istruzione, foglio n. 293
+Registro n. 20 Istruzione, foglio n. 324

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 giugno 1982 n. 733
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 gennaio 1981 n. 734
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 giugno 1982 n. 733
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 gennaio 1981 n. 734
+==============================================================
 
 Autorizzazione all'Associazione italiana della Croce rossa, in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-733. Decreto del Presidente della Repubblica 17 giugno 1982, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 1.000.000 depositata in cartelle di obbligazioni "B.E.I. - Autostrada I.R.I. - Piano verde" presso il Banco di Chiavari della Riviera ligure, disposto dalla sig.ra Angelica Vitali in favore del sottocomitato C.R.I. di Alassio (Savona) con testamento olografo 25 marzo 1974, pubblicato in data 18 novembre 1976, n. 15027/3755 di repertorio, a rogito dott. Fernando Cauli, notaio in Alassio, registrato ad Albenga (Savona) in data 25 novembre 1976 al n. 4054.  
+734. Decreto del Presidente della Repubblica 8 gennaio 1981, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare il legato, consistente in titoli obbligazionari depositati presso il Credito artigiano di Milano, del valore nominale di L. 13.500.000 di cui L. 4.000.000 da devolversi alla delegazione di Bresso, disposto dalla sig.na Irene Giavazzi in favore del comitato provinciale C.R.I. di Milano e della delegazione C.R.I. di Bresso (Milano) con testamento olografo pubblicato in data 15 settembre 1976, n. 28005/2903 di repertorio, a rogito dott.ssa Adele Ricevuti, notaio in Milano.  
   
 Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 2 ottobre 1982  
-Registro n. 6 Sanita', foglio n. 235
+Registrato alla Corte dei conti, addi' 1 dicembre 1981  
+Registro n. 7 Sanita', foglio n. 45

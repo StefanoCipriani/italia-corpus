@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 agosto 1969 n. 667
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1968 n. 839
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 agosto 1969 n. 667
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1968 n. 839
 =============================================================
 
 Autorizzazione alla "Fondazione pro juventute don Carlo Gnocchi", con sede in Roma, ad accettare un legato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-667. Decreto del Presidente della Repubblica 13 agosto 1969, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione pro juventute don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare un legato consistente nella somma di lire 500.000, disposto dalla defunta signora Tanzi Maria Bernardina ved. Vaghi, con testamento olografo del 28 settembre 1964, depositato e pubblicato con atto a rogito dott. Guido Solaro, notaio residente in Desio, in data 28 gennaio 1967, n. 7891 di raccolta, n. 17526 di repertorio.  
+839. Decreto del Presidente della Repubblica 5 giugno 1968, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione pro juventute don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare il legato di L. 1.000.000, disposto dal defunto Antonio Cattaneo, con testamento olografo 8 settembre 1961 e relativi codicilli, pubblicati a rogito dott. Carlo Locatelli, notaio in Milano, in data 22 agosto 1966, n. 21857 di rep., n. 5747 di racc.  
   
-Visto, il Guardasigilli: GAVA  
-Registrato alla Corte dei conti, addi' 9 ottobre 1969  
-Atti del Governo, registro n. 229, foglio n. 87. - CARUSO
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 23 luglio 1968  
+Atti del Governo, registro n. 222, foglio n. 13. - GRECO

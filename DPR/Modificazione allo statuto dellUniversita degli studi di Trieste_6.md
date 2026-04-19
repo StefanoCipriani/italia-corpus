@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 maggio 1983 n. 400
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 maggio 1985 n. 642
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 maggio 1983 n. 400
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 maggio 1985 n. 642
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Trieste.
@@ -39,19 +39,23 @@ Articolo unico
 --------------
 
   
-Nell'art. 71, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il nuovo seguente insegnamento:  
-neuropsicofarmacologia.  
+Nell'art. 71, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+fisiopatologia dell'emostasi;  
+fisiopatologia delle malattie del ricambio;  
+semeiotica cardio-vascolare.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 marzo 1983
+### Dato a Roma, addi' 31 maggio 1985
 
-PERTINI FALCUCCI
+PERTINI
 
-Visto, il Guardasigilli: DARIDA
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 17 agosto 1983
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registro n. 59 Istruzione, foglio n. 119
+Registrato alla Corte dei conti, addi' 9 novembre 1985
+
+Registro n. 74 Istruzione, foglio n. 140

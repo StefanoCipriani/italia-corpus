@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 gennaio 1974 n. 91
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1966 n. 120
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 gennaio 1974 n. 91
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1966 n. 120
+===============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, con sede in Roma, ad accettare un legato.
 ----------------------------------------------------------------------------------------
@@ -12,8 +12,7 @@ Art. 1
 
 N.
 
-91. Decreto del Presidente della Repubblica 16 gennaio 1974, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, con sede in Roma, viene autorizzata ad accettare il legato disposto dalla signora Ottilia Muller vedova Mahl con testamento segreto ricevuto dall'avv. Aldo Pantozzi notaio in Bolzano, in data 10 agosto 1970, repertorio n. 103 atti ultime volonta', e da questi pubblicato con rogito in data 2 dicembre 1971, rep. n. 81651, racc. n. 2851, registrato a Bolzano il 9 dicembre 1971, pubbl. vol. 80, n. 2065, consistente in quattro appartamenti siti in Bolzano, via Bruso n. 221, sub. 1, 2, 3, 4 p. ed 2903 porz. Mat. 3, 4, 5, 6, del valore complessivo di L. 18.000.000.  
-  
-Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 30 marzo 1974  
-Atti di Governo, registro n. 2, foglio n. 59. - SCIARRETTA
+120. Decreto del Presidente della Repubblica 2 febbraio 1966, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, con sede in Roma, viene autorizzata ad accettare il legato disposto dal defunto Servetti Aleandro Enrico Roberto con testamento olografo del 21 agosto 1961, pubblicato con atto a rogito avv. Herve' Benedetti, notaio in Cairo Montenotte in data 7 febbraio 1964, repertorio n. 31545.  
+Visto il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 18 marzo 1966  
+Atti del Governo, registro n. 202, foglio n. 52. - VILLA

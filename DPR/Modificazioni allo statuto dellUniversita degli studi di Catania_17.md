@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1979 n. 473
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1970 n. 808
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1979 n. 473
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1970 n. 808
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
@@ -10,72 +10,54 @@ Modificazioni allo statuto dell'Universita' degli studi di Catania.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' degli studi di Catania e convalidati dal Consiglio superiore e della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 89 - all'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti i seguenti:  
-acarologia agraria (semestrale);  
-alpicoltura (semestrale);  
-assistenza, consulenza e divulgazione agricola;  
-biochimica;  
-chimica delle fermentazioni;  
-coltivazioni arboree delle regioni tropicali e subtropicali (semestrale);  
-cooperazione agricola;  
-costruzione ed impianti per le coltivazioni protette;  
-ecologia agraria;  
-economia degli investimenti pubblici e privati in agricoltura (semestrale);  
-elementi di scienza e tecnica delle costruzioni;  
-enologia (semestrale);  
-entomologia merceologica (semestrale);  
-entomologia ortofrutticola;  
-fisiopatologia vegetale;  
-fitomizologia;  
-entomologia forestale;  
-frutticoltura;  
-irrigazione e drenaggio (semestrale);  
-meccanizzazione delle aziende zootecniche;  
-metodologia sperimentale in agricoltura;  
-microbiologia degli alimenti;  
-microbiologia industriale;  
-nematologia agraria;  
-olivicoltura;  
-patologia vegetale forestale;  
-pianificazione e organizzazione del territorio;  
-politica agraria comparata (semestrale);  
-pomologia;  
-residui e additivi alimentari (semestrale);  
-riordinamento fondiario;  
-storia dell'agricoltura;  
-tecnica vivaistica;  
-tecnologia degli olii, grassi e derivati;  
-urbanistica rurale;  
-virologia vegetale;  
-viticoltura;  
-zooeconomia.  
-Nello stesso articolo sono soppressi gli ultimi due commi ed e' aggiunto il seguente nuovo comma "Gli insegnamenti biennali di chimica agraria, di agronomia generale e coltivazioni erbacee e di economia e politica agraria comportano un esame alla fine di ogni anno, anziche' alla fine del biennio".  
+Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 9. - All'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti i seguenti:   
+  
+Metodologia della scienza giuridica;   
+Sociologia giuridica;   
+Diritto amministrativo comparato;   
+Scienza dell'amministrazione;   
+Diritto pubblico generale;   
+Storia del diritto canonico;   
+Storia delle istituzioni dell'Italia meridionale;   
+Diritto bancario e assicurativo;   
+Diritto privato dell'economia;   
+Diritto privato delle Comunita' europee;   
+Diritto privato comparato;   
+Diritto penale dell'economia;   
+Istituzioni di diritto penale;   
+Sociologia criminale;   
+Automazione della ricerca giuridica;   
+Legislazione urbanistica;   
+Diritto internazionale privato;   
+Diritto matrimoniale;   
+Storia della scienza giuridica;   
+Diritto tributario.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 giugno 1979
+### Dato a Roma, addi' 27 settembre 1970
 
-PERTINI SPADOLINI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 19 settembre 1979
+Registrato alla Corte dei conti, addi' 13 novembre 1970
 
-Registro n. 68 Istruzione, foglio n. 366
+Atti del Governo, registro n. 238, foglio n. 55. - GRECO

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1038
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1978 n. 585
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1038
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1978 n. 585
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
@@ -22,8 +22,6 @@ Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademi
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Catania e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
 Sulla proposta del Ministro della pubblica istruzione;
@@ -32,525 +30,31 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 176 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono aggiunte le scuole di specializzazione in angiologia medica ed in audiologia.
+Art. 176 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono aggiunte le scuole di specializzazione in chirurgia, dell'apparato digerente ed endoscopia digestiva e in neurochirurgia.
 
-Gli articoli 217, 218, 219 e 220, concernenti la scuola di specializzazione in radiologia, sono soppressi e sostituiti dai seguenti:
+Gli articoli 179, 184, relativi alle norme generali per le scuole di specializzazione in medicina e chirurgia, sono abrogati e sostituiti dai seguenti:
 
-Scuola di specializzazione in radiologia
+Art. 179. - Per ciascuna scuola di specializzazione e' stabilito il numero massimo di allievi che vi possono essere accolti.
 
-Art. 217. - La scuola di specializzazione in radiologia ha sede presso l'istituto di radiologia dell'Universita' di Catania ed e' diretta da un professore di ruolo o fuori ruolo della stessa materia o, in carenza, di materia affine. Alla scuola possono essere ammessi solo i laureati in medicina e chirurgia in possesso di diploma di abilitazione professionale e la loro immatricolazione e' subordinata all'esito di un esame di ammissione per titoli ed esami.
+L'ammissione alle scuole avviene a seguito di concorso per titoli ed esami.
 
-Non sono ammesse abbreviazioni di corso.
+Art. 184. - Non sono consentite iscrizioni con abbreviazioni di corso.
 
-La scuola conferisce i seguenti diplomi:
+L'art. 187, relativo alle norme generali per le scuole di specializzazione in medicina e chirurgia, e' soppresso con il conseguente spostamento della numerazione degli articoli successivi.
 
-a) diploma di specialista in radiodiagnostica.
+Dopo l'art. 264, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva e in neurochirurgia.
 
-Gli anni di studio necessari per conseguire questo titolo sono quattro;
+Scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva
 
-b) diploma di specialista in radioterapia oncologica.
+Art. 265. - La scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva ha sede presso l'istituto di seconda clinica chirurgica dell'Universita' di Catania e conferisce il diploma di specialista in chirurgia dell'apparato digerente ed endoscopia digestiva.
 
-Gli anni di studio necessari per conseguire questo titolo sono quattro.
+Art. 266. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione, e in carenza, al professore di ruolo o fuori ruolo di materia affine.
 
-La scuola ha un tronco comune di due anni identico per i diplomi in radiodiagnostica e radioterapia oncologica.
+Art. 267. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalle autorita' competenti.
 
-Art. 218. - Gli insegnamenti per il diploma di specialista in radiodiagnostica sono cosi' distribuiti nei quattro anni di corso:
+Art. 268. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazioni.
 
-1° Anno (comune alla specializzazione in radioterapia oncologica):
-
-fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);
-
-radiobiologia, legislazione e norme generali di radioprotezione;
-
-tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;
-
-nozioni di anatomia e fisiologia generale.
-
-2° Anno (comune alla radioterapia oncologica):
-
-anatomia patologica;
-
-apparecchiature e tecniche radiologiche;
-
-semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);
-
-radiopatologia;
-
-dosimetria applicata.
-
-3° Anno:
-
-tecniche speciali e relativa semeiotica (I);
-
-radiodiagnostica speciale dei vari organi ed apparati (I).
-
-4° Anno:
-
-tecniche speciali e relativa semeiotica (termografia, ecografia, xerografia, TAC) (II);
-
-radiodiagnostica speciale dei vari organi ed apparati (II).
-
-Art. 219. - Gli insegnamenti per il diploma di specialista in radioterapia oncologica sono cosi' distribuiti nei quattro anni di corso:
-
-1° Anno (comune alla specializzazione in radiodiagnostica):
-
-fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);
-
-radiobiologia, legislazione e norme generali di radioprotezione;
-
-tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;
-
-nozioni di anatomia e fisiologia generale.
-
-2° Anno (comune a radiodiagnostica):
-
-anatomia patologica;
-
-apparecchiature e tecniche radiologiche;
-
-semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);
-
-radiopatologia;
-
-dosimetria applicata.
-
-3° Anno:
-
-oncologia generale;
-
-oncologia clinica (I);
-
-tecniche radioterapiche.
-
-4° Anno:
-
-oncologia clinica (II);
-
-fondamenti di terapia chirurgica dei tumori;
-
-radioterapia clinica;
-
-trattamento del canceroso in fase avanzata.
-
-Art. 220. - I singoli insegnamenti saranno tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento.
-
-Il numero massimo di iscritti in corso alla scuola e' di trentadue da ripartirsi annualmente fra i corsi di diploma in radiodiagnostica e radioterapia oncologica.
-
-La frequenza pratica e' obbligatoria (dieci mesi all'anno) e deve avvenire in reparti riconosciuti idonei. L'insegnamento verra' svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento aperti anche a specialisti, ecc. Gli allievi per essere ammessi a sostenere gli esami delle singole materie, dovranno avere la firma di frequenza da parte del direttore della scuola stessa.
-
-Gli allievi al termine di ogni anno dovranno superare gli esami di profitto delle materie prescritte per poter ottenere l'iscrizione all'anno successivo.
-
-Gli allievi per conseguire il diploma di specializzazione oltre ad essere stati approvati in tutti gli esami, dovranno elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola.
-
-Gli articoli 221 e 222, concernenti la scuola di specializzazione in igiene e medicina preventiva, sono soppressi e sostituiti dai seguenti:
-
-Scuola di specializzazione in igiene e medicina preventiva
-
-Art. 221. - La scuola di specializzazione in igiene e medicina preventiva ha sede presso l'istituto di igiene e conferisce il diploma di specialista in igiene e medicina preventiva.
-
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
-
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.
-
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
-
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.
-
-Il numero massimo degli allievi e' di venticinque per anno di corso e complessivamente di cento iscritti per l'intero corso di studi.
-
-L'ammissione al corso avviene per titoli ed esami.
-
-Il corso si articola in un biennio propedeutico seguito da un biennio differenziato con cinque orientamenti e precisamente:
-
-a) sanita' pubblica;
-
-b) igiene e tecnica ospedaliera;
-
-c) igiene del lavoro;
-
-d) igiene e medicina scolastica;
-
-e) laboratorio.
-
-Art. 222. - Il piano di studi e' il seguente:
-
-PRIMO BIENNIO
-
-1° Anno:
-
-metodologia statistica e biometria;
-
-educazione sanitaria;
-
-psicologia;
-
-microbiologia ed immunologia I;
-
-parassitologia;
-
-epidemiologia generale e metodologia;
-
-profilassi generale;
-
-sociologia medica ed antropologia culturale.
-
-2° Anno:
-
-microbiologia e immunologia II;
-
-patologia e clinica delle malattie infettive;
-
-epidemiologia e profilassi delle malattie infettive I;
-
-patologia e clinica delle malattie non infettive di importanza sociale;
-
-epidemiologia e profilassi delle malattie non infettive di importanza sociale I;
-
-demografia e statistica sanitaria;
-
-legislazione e programmazione sanitarie.
-
-SECONDO BIENNIO
-
-a) Orientamento di sanita' pubblica.
-
-3° Anno:
-
-epidemiologia e profilassi delle malattie infettive II;
-
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;
-
-igiene dell'ambiente fisico e difesa ecologica;
-
-igiene degli alimenti e della nutrizione;
-
-igiene dell'eta' evolutiva;
-
-igiene del lavoro;
-
-igiene ed assistenza dell'anziano.
-
-4° Anno:
-
-igiene edilizia e dell'aggregato urbano;
-
-igiene ospedaliera;
-
-organizzazione del territorio e programmazione sanitaria;
-
-medicina di comunita';
-
-economia sanitaria;
-
-elementi di diritto amministrativo.
-
-b) Orientamento di igiene e tecnica ospedaliera.
-
-3° Anno:
-
-epidemiologia e profilassi delle malattie infettive II;
-
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;
-
-igiene dell'ambiente fisico e difesa ecologica;
-
-igiene e tecnica delle costruzioni ospedaliere; arredamenti ed impianti tecnologici;
-
-igiene dell'alimentazione e dietetica ospedaliera;
-
-organizzazione e funzionamento degli ospedali I;
-
-elementi di diritto e legislazione ospedaliera.
-
-4° Anno:
-
-organizzazione e funzionamento degli ospedali II;
-
-compiti ed attribuzione della direzione sanitaria;
-
-formazione professionale e compiti del personale ospedaliero;
-
-programmazione ospedaliera e medicina di comunita';
-
-assistenza psichiatrica;
-
-aspetti sociosanitari dell'ospitalismo;
-
-aspetti economici della gestione ospedaliera.
-
-c) Orientamento di igiene del lavoro.
-
-3° Anno:
-
-epidemiologia e profilassi delle malattie infettive II;
-
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;
-
-igiene dell'ambiente fisico e difesa ecologica;
-
-epidemiologia e profilassi delle malattie del lavoro;
-
-tecnica ed economia degli impianti industriali;
-
-tossicologia industriale e diagnostica di laboratorio;
-
-elementi di fisica tecnica applicata all'igiene;
-
-igiene dell'ambiente di lavoro I.
-
-4° Anno:
-
-igiene dell'ambiente di lavoro II;
-
-elementi di diritto e legislazione del lavoro;
-
-psicologia del lavoro;
-
-prevenzione degli infortuni;
-
-politica del territorio ed insediamenti industriali;
-
-igiene del lavoro e medicina di comunita'.
-
-d) Orientamento di igiene e medicina scolastica.
-
-3° Anno:
-
-epidemiologia e profilassi delle malattie infettive II;
-
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;
-
-igiene dell'ambiente fisico e difesa ecologica;
-
-clinica delle malattie dell'eta' evolutiva;
-
-epidemiologia e profilassi delle malattie dell'eta' evolutiva;
-
-igiene degli alimenti e della nutrizione;
-
-auxologia normale e patologica;
-
-psicologia dell'eta' evolutiva.
-
-4° Anno:
-
-servizi di medicina scolastica;
-
-edilizia ed arredamento scolastico;
-
-elementi di pedagogia;
-
-assistenza parascolastica;
-
-educazione sanitaria nella scuola;
-
-legislazione scolastica;
-
-igiene mentale.
-
-e) Orientamento di laboratorio.
-
-3° Anno:
-
-epidemiologia e profilassi delle malattie infettive II;
-
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;
-
-igiene dell'ambiente fisico e difesa ecologica;
-
-metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale;
-
-metodi e dosaggi biologici per il controllo dell'inquinamento ambientale;
-
-strumentazione e metodologia chimico-cliniche ed ematologiche I; microscopia applicata all'igiene;
-
-elementi di fisica tecnica applicata all'igiene;
-
-accertamento diagnostico delle malattie infettive e parassitarie I.
-
-4° Anno:
-
-metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale II;
-
-accertamento diagnostico delle malattie infettive e parassitarie II;
-
-strumentazione e metodologie chimico-cliniche ed ematologiche II; ispezione e controllo degli alimenti;
-
-elementi di informatica.
-
-Gli esami relativi alle discipline svolte con insegnamento biennale verranno sostenuti alla fine di detti insegnamenti.
-
-I corsi saranno completati da insegnamenti complementari uno per ciascun anno scelti tra i seguenti:
-
-Materie complementari:
-
-automazione del sistema ospedaliero;
-
-biochimica applicata;
-
-climatologia;
-
-diritto sanitario internazionale;
-
-elementi di medicina legale;
-
-genetica umana;
-
-geologia applicata all'igiene;
-
-idrologia;
-
-igiene dei climi tropicali;
-
-igiene dei trasporti;
-
-igiene militare;
-
-igiene rurale;
-
-istituzioni di matematiche;
-
-micologia;
-
-radioprotezionistica.
-
-A giudizio della scuola possono essere scelti come complementari anche altri insegnamenti regolarmente attivati nei corsi di laurea dell'Universita' di Catania.
-
-I corsi saranno integrati da un tirocinio pratico di durata comunque non inferiore a tre mesi, da svolgersi durante il secondo biennio.
-
-La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
-
-Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno; per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
-
-Al termine del corso di studi per il conseguimento del diploma di specialista in igiene e medicina preventiva, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
-
-Gli articoli 245, 246, 247, 248, 249 e 250, concernenti la scuola di specializzazione in microbiologia, sono soppressi e sostituiti dai seguenti:
-
-Scuola di specializzazione in microbiologia
-
-Art. 245. - La scuola di specializzazione in microbiologia ha sede presso l'istituto di microbiologia dell'Universita' di Catania e conferisce il diploma di specialista in microbiologia o in microbiologia con indirizzo tecnico.
-
-La scuola di specializzazione in microbiologia ha lo scopo di allargare e approfondire sul piano scientifico la cultura di coloro che si dedicano allo studio di questa disciplina e di fornire sul piano tecnico una preparazione pratica specifica.
-
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
-
-Art. 246. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
-
-E' contemplato un secondo indirizzo in tecniche microbiologiche al quale sono ammessi i laureati in medicina veterinaria, in scienze biologiche, in scienze naturali, in farmacia, in chimica e tecnologie farmaceutiche.
-
-Art. 247. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.
-
-Il numero massimo degli allievi e' di quaranta per anno di corso e complessivamente di centosessanta iscritti per l'intero corso di studi.
-
-L'ammissione al corso avviene per titoli ed esami.
-
-Art. 248. - Le materie di insegnamento sono le seguenti:
-
-PRIMO BIENNIO
-
-(comune ai due indirizzi)
-
-1° Anno:
-
-batteriologia generale I;
-
-tecniche batteriologiche;
-
-immunologia generale;
-
-genetica dei microrganismi.
-
-2° Anno:
-
-batteriologia generale II;
-
-antibiotici e chemioterapici;
-
-virologia generale;
-
-immunologia generale e tecniche immunologiche;
-
-dosaggio biologico ed analisi statistica.
-
-SECONDO BIENNIO
-
-(indirizzo medico)
-
-3° Anno:
-
-microrganismi patogeni e malattia;
-
-batteriologia speciale I;
-
-virologia speciale e tecniche virologiche;
-
-micologia medica;
-
-epidemiologia delle malattie infettive.
-
-4° Anno:
-
-batteriologia speciale II;
-
-sierologia;
-
-microbiologia degli alimenti;
-
-microbiologia dell'ambiente;
-
-protozoologia medica.
-
-SECONDO BIENNIO
-
-(indirizzo in tecniche microbiologiche)
-
-3° Anno:
-
-azione patogena dei microrganismi;
-
-tecniche batteriologiche e batteriologia speciale I;
-
-micologia generale e tecniche micologiche;
-
-tecniche virologiche e virologia speciale;
-
-protozoologia.
-
-4° Anno:
-
-tecniche batteriologiche e batteriologia speciale II;
-
-microbiologia industriale;
-
-esame microbiologico dell'ambiente;
-
-controllo microbiologico degli alimenti;
-
-tecniche sierologiche.
-
-Il direttore puo' stabilire, per un piu' proficuo conseguimento del fine della scuola, che siano tenuti corsi complementari di conferenze su materie ed argomenti che abbiano attinenza o affinita' con gli insegnamenti impartiti nella scuola.
-
-Art. 249. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
-
-Art. 250. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale, l'esame sara' sostenuto alla fine dei corsi medesimi.
-
-L'esame di diploma constera' di una discussione sopra una tesi scritta.
-
-A coloro che abbiano superato l'esame finale verra' rilasciato un diploma di specialista in microbiologia o, per i non laureati in medicina e chirurgia, un diploma di specialista in microbiologia con indirizzo tecnico.
-
-Dopo l'art. 264, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in angiologia medica ed in audiologia:
-
-Scuola di specializzazione in angiologia medica
-
-Art. 265. - La scuola di specializzazione in angiologia medica ha sede presso l'istituto di semeiotica medica I e conferisce il diploma di specialista in angiologia medica.
-
-Art. 266. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
-
-Art. 267. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia.
-
-Art. 268. - La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazione.
-
-Art. 269. - Il numero massimo degli allievi e' di due per anno di corso e di sei complessivamente per l'intero corso di studio.
+Art. 269. - Il numero massimo degli allievi e' di sei per anno di corso e complessivamente di trenta iscritti per l'intero corso di studi.
 
 Art. 270. - L'ammissione al corso avviene per titoli ed esami.
 
@@ -558,473 +62,290 @@ Art. 271. - Le materie di insegnamento sono le seguenti:
 
 1° Anno:
 
-1) embriologia, anatomia ed istologia dell'apparato vascolare;
+anatomia descrittiva e topografica specialistica (I corso);
 
-2) biochimica;
+fisiopatologia e semeiotica funzionale (I corso);
 
-3) fisiologia del circolo periferico;
+anatomia ed istologia patologica (I corso);
 
-4) fisiopatologia della coagulazione e vasculopatie;
-
-5) semeiotica fisica e strumentale dell'apparato vascolare (1° corso).
+patologia chirurgica (I corso).
 
 2° Anno:
 
-6) anatomia ed istologia patologica dell'apparato vascolare;
+anatomia descrittiva e topografica specialistica (II corso);
 
-7) radiologia;
+fisiopatologia e semeiotica funzionale (II corso);
 
-8) farmacologia;
+anatomia ed istologia patologica (II corso);
 
-9) semeiotica fisica e strumentale dell'apparato vascolare (2° corso);
+patologia chirurgica (II corso);
 
-10) patologia dell'apparato vascolare.
+semeiotica chirurgica (I corso);
+
+radiologia e medicina nucleare (I corso);
+
+endoscopia digestiva diagnostica e terapeutica (I corso).
 
 3° Anno:
 
-11) clinica dell'apparato vascolare;
+patologia chirurgica (III corso);
 
-12) patologia e clinica del microcircolo;
+semeiotica chirurgica (II corso);
 
-13) terapia medica delle vasculopatie;
+radiologia e medicina nucleare (II corso);
 
-14) indicazioni al trattamento chirurgico delle arteriopatie;
+endoscopia digestiva diagnostica e terapeutica (II corso);
 
-15) indicazioni al trattamento chirurgico delle flebopatie.
+clinica e terapia chirurgica (I corso);
 
-Art. 272. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+tecniche operatorie (I corso).
 
-Art. 273. - Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno.
+4° Anno:
 
-Al termine del corso di studi per il conseguimento del diploma di specialista in angiologia medica gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+semeiotica chirurgica (III corso);
 
-Scuola di specializzazione in audiologia
+radiologia e medicina nucleare (III corso);
 
-Art. 274. - La scuola ha sede presso la cattedra di audiologia dell'Universita' di Catania. La durata del corso e' fissata in tre anni.
+endoscopia digestiva diagnostica e terapeutica (III corso);
 
-Art. 275. - Il numero degli iscritti alla scuola, complessivo per i tre anni, e' fissato ad un massimo di dodici (quattro per anno).
+clinica e terapia chirurgica (II corso);
 
-Non e' concesso alcun abbreviamento del corso.
+tecniche operatorie (II corso);
 
-L'ammissione alla scuola avviene mediante concorso per titoli ed esami.
+anestesia e rianimazione;
 
-Art. 276. - Le materie di insegnamento sono:
+riabilitazione in chirurgia digestiva.
+
+5° Anno:
+
+clinica chirurgica e terapia chirurgica (III corso);
+
+tecniche operatorie (III corso);
+
+chirurgia d'urgenza dell'apparato digerente;
+
+chirurgia pediatrica dell'apparato digerente;
+
+terapia intensiva.
+
+Art. 272. - La frequenza alle lezioni, alle esercitazioni pratiche, ai periodi di internato, e' obbligatoria per l'ammissione agli esami.
+
+Il superamento degli esami di ciascun anno sara' condizione indispensabile per l'iscrizione all'anno successivo.
+
+Art. 273. - Al termine del quinquennio per ottenere il diploma, i candidati dovranno presentare una dissertazione scritta su un argomento di chirurgia dell'apparato digerente ed endoscopia digestiva da discutere davanti all'apposita commissione e dovranno inoltre sostenere una prova clinica.
+
+Scuola di specializzazione in neurochirurgia
+
+Art. 274. - La scuola di specializzazione in neurochirurgia ha sede presso l'istituto di neurochirurgia dell'Universita' di Catania e conferisce il diploma di specialista in neurochirurgia.
+
+Art. 275. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Art. 276. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+
+Art. 277. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.
+
+Art. 278. - Il numero massimo degli allievi e' di tre per anno di corso e complessivamente di quindici iscritti per l'intero corso di studi.
+
+Art. 279. - L'ammissione al corso avviene per titoli ed esami.
+
+Art. 280. - Le materie di insegnamento sono le seguenti:
 
 1° Anno:
 
-1) nozioni di fisica acustica;
+neuroanatomia;
 
-2) anatomia dell'orecchio, delle vie e dei centri acustici e vestibolari;
+neurofisiologia;
 
-3) fisiologia dell'orecchio, delle vie e dei centri acustici e vestibolari;
+semeiotica e clinica neurologica;
 
-4) nozioni di psichiatria.
+elementi di psichiatria;
+
+clinica neurochirurgica (I corso).
 
 2° Anno:
 
-1) tecniche audiometriche;
+neuro-oftalmologia;
 
-2) nozioni di neurologia;
+neuro-otoiatria;
 
-3) nozioni di vestibologia.
+neurofisiologia clinica;
+
+clinica neurochirurgica (II corso).
 
 3° Anno:
 
-1) patologia dell'udito;
+neuroanestesia e rianimazione;
 
-2) terapia medica, chirurgica e protesica della sordita';
+neuroradiologia (I corso);
 
-3) la sordita' sotto il profilo sociale;
+neuropatologia;
 
-4) la rieducazione dell'ipoacusico.
+clinica neurochirurgica (III corso).
 
-Art. 277. - Per accedere al 2° e al 3° anno e' obbligatorio il superamento di tutti gli esami, rispettivamente del 1° e del 2° anno.
+4° Anno:
 
-Gli esami possono essere sostenuti solamente in due sessioni annuali, una estiva ed una autunnale.
+neuroradiologia (II corso);
 
-Art. 278. - Il diploma di specialista in audiologia viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinico e sperimentale.
+neurotraumatologia;
+
+tecniche operatorie (I corso);
+
+clinica neurochirurgica (IV corso).
+
+5° Anno:
+
+neurochirurgia funzionale e stereotassica;
+
+neurochirurgia infantile;
+
+tecniche operatorie (II corso);
+
+clinica neurochirurgica (V corso):
+
+Art. 281. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.
+
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Art. 282. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno.
+
+Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
+
+Al termine del corso di studi per il conseguimento del diploma di specialista in neurochirurgia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 31 ottobre 1978
+Dato a Roma, addi' 18 febbraio 1978
 
-PERTINI
+LEONE
 
-PEDINI
+MALFATTI
 
 Visto, il Guardasigilli: BONIFACIO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 17 aprile 1979 Registro n. 25 Istruzione, foglio n. 121
+alla Corte dei conti, addi' 23 settembre 1978 Registro n. 104 Istruzione, foglio n. 279
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Catania e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Catania e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 176 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono aggiunte le scuole di specializzazione in angiologia medica ed in audiologia.   
-Gli articoli 217, 218, 219 e 220, concernenti la scuola di specializzazione in radiologia, sono soppressi e sostituiti dai seguenti:   
-  
-Scuola di specializzazione in radiologia   
-  
-Art. 217. - La scuola di specializzazione in radiologia ha sede presso l'istituto di radiologia dell'Universita' di Catania ed e' diretta da un professore di ruolo o fuori ruolo della stessa materia o, in carenza, di materia affine. Alla scuola possono essere ammessi solo i laureati in medicina e chirurgia in possesso di diploma di abilitazione professionale e la loro immatricolazione e' subordinata all'esito di un esame di ammissione per titoli ed esami.   
-Non sono ammesse abbreviazioni di corso.   
-La scuola conferisce i seguenti diplomi:   
-a) diploma di specialista in radiodiagnostica.   
-Gli anni di studio necessari per conseguire questo titolo sono quattro;   
-b) diploma di specialista in radioterapia oncologica.   
-Gli anni di studio necessari per conseguire questo titolo sono quattro.   
-La scuola ha un tronco comune di due anni identico per i diplomi in radiodiagnostica e radioterapia oncologica.   
-Art. 218. - Gli insegnamenti per il diploma di specialista in radiodiagnostica sono cosi' distribuiti nei quattro anni di corso:   
-1° Anno (comune alla specializzazione in radioterapia oncologica):   
-fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);   
-radiobiologia, legislazione e norme generali di radioprotezione;   
-tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;   
-nozioni di anatomia e fisiologia generale.   
-2° Anno (comune alla radioterapia oncologica):   
-anatomia patologica;   
-apparecchiature e tecniche radiologiche;   
-semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);   
-radiopatologia;   
-dosimetria applicata.   
-3° Anno:   
-tecniche speciali e relativa semeiotica (I);   
-radiodiagnostica speciale dei vari organi ed apparati (I).   
-4° Anno:   
-tecniche speciali e relativa semeiotica (termografia, ecografia, xerografia, TAC) (II);   
-radiodiagnostica speciale dei vari organi ed apparati (II).   
-Art. 219. - Gli insegnamenti per il diploma di specialista in radioterapia oncologica sono cosi' distribuiti nei quattro anni di corso:   
-1° Anno (comune alla specializzazione in radiodiagnostica):   
-fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);   
-radiobiologia, legislazione e norme generali di radioprotezione;   
-tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;   
-nozioni di anatomia e fisiologia generale.   
-2° Anno (comune a radiodiagnostica):   
-anatomia patologica;   
-apparecchiature e tecniche radiologiche;   
-semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);   
-radiopatologia;   
-dosimetria applicata.   
-3° Anno:   
-oncologia generale;   
-oncologia clinica (I);   
-tecniche radioterapiche.   
-4° Anno:   
-oncologia clinica (II);   
-fondamenti di terapia chirurgica dei tumori;   
-radioterapia clinica;   
-trattamento del canceroso in fase avanzata.   
-Art. 220. - I singoli insegnamenti saranno tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento.   
-Il numero massimo di iscritti in corso alla scuola e' di trentadue da ripartirsi annualmente fra i corsi di diploma in radiodiagnostica e radioterapia oncologica.   
-La frequenza pratica e' obbligatoria (dieci mesi all'anno) e deve avvenire in reparti riconosciuti idonei. L'insegnamento verra' svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento aperti anche a specialisti, ecc. Gli allievi per essere ammessi a sostenere gli esami delle singole materie, dovranno avere la firma di frequenza da parte del direttore della scuola stessa.   
-Gli allievi al termine di ogni anno dovranno superare gli esami di profitto delle materie prescritte per poter ottenere l'iscrizione all'anno successivo.   
-Gli allievi per conseguire il diploma di specializzazione oltre ad essere stati approvati in tutti gli esami, dovranno elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola.   
-Gli articoli 221 e 222, concernenti la scuola di specializzazione in igiene e medicina preventiva, sono soppressi e sostituiti dai seguenti:   
-  
-Scuola di specializzazione in igiene e medicina preventiva   
-  
-Art. 221. - La scuola di specializzazione in igiene e medicina preventiva ha sede presso l'istituto di igiene e conferisce il diploma di specialista in igiene e medicina preventiva.   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
-Il numero massimo degli allievi e' di venticinque per anno di corso e complessivamente di cento iscritti per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-Il corso si articola in un biennio propedeutico seguito da un biennio differenziato con cinque orientamenti e precisamente:   
-a) sanita' pubblica;   
-b) igiene e tecnica ospedaliera;   
-c) igiene del lavoro;   
-d) igiene e medicina scolastica;   
-e) laboratorio.   
-Art. 222. - Il piano di studi e' il seguente:   
-  
-PRIMO BIENNIO   
-  
-1° Anno:   
-metodologia statistica e biometria;   
-educazione sanitaria;   
-psicologia;   
-microbiologia ed immunologia I;   
-parassitologia;   
-epidemiologia generale e metodologia;   
-profilassi generale;   
-sociologia medica ed antropologia culturale.   
-2° Anno:   
-microbiologia e immunologia II;   
-patologia e clinica delle malattie infettive;   
-epidemiologia e profilassi delle malattie infettive I;   
-patologia e clinica delle malattie non infettive di importanza sociale;   
-epidemiologia e profilassi delle malattie non infettive di importanza sociale I;   
-demografia e statistica sanitaria;   
-legislazione e programmazione sanitarie.   
-  
-SECONDO BIENNIO   
-  
-a) Orientamento di sanita' pubblica.   
-  
-3° Anno:   
-epidemiologia e profilassi delle malattie infettive II;   
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;   
-igiene dell'ambiente fisico e difesa ecologica;   
-igiene degli alimenti e della nutrizione;   
-igiene dell'eta' evolutiva;   
-igiene del lavoro;   
-igiene ed assistenza dell'anziano.   
-4° Anno:   
-igiene edilizia e dell'aggregato urbano;   
-igiene ospedaliera;   
-organizzazione del territorio e programmazione sanitaria;   
-medicina di comunita';   
-economia sanitaria;   
-elementi di diritto amministrativo.   
-  
-b) Orientamento di igiene e tecnica ospedaliera.   
-  
-3° Anno:   
-epidemiologia e profilassi delle malattie infettive II;   
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;   
-igiene dell'ambiente fisico e difesa ecologica;   
-igiene e tecnica delle costruzioni ospedaliere; arredamenti ed impianti tecnologici;   
-igiene dell'alimentazione e dietetica ospedaliera;   
-organizzazione e funzionamento degli ospedali I;   
-elementi di diritto e legislazione ospedaliera.   
-4° Anno:   
-organizzazione e funzionamento degli ospedali II;   
-compiti ed attribuzione della direzione sanitaria;   
-formazione professionale e compiti del personale ospedaliero;   
-programmazione ospedaliera e medicina di comunita';   
-assistenza psichiatrica;   
-aspetti sociosanitari dell'ospitalismo;   
-aspetti economici della gestione ospedaliera.   
-  
-c) Orientamento di igiene del lavoro.   
-  
-3° Anno:   
-epidemiologia e profilassi delle malattie infettive II;   
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;   
-igiene dell'ambiente fisico e difesa ecologica;   
-epidemiologia e profilassi delle malattie del lavoro;   
-tecnica ed economia degli impianti industriali;   
-tossicologia industriale e diagnostica di laboratorio;   
-elementi di fisica tecnica applicata all'igiene;   
-igiene dell'ambiente di lavoro I.   
-4° Anno:   
-igiene dell'ambiente di lavoro II;   
-elementi di diritto e legislazione del lavoro;   
-psicologia del lavoro;   
-prevenzione degli infortuni;   
-politica del territorio ed insediamenti industriali;   
-igiene del lavoro e medicina di comunita'.   
-  
-d) Orientamento di igiene e medicina scolastica.   
-  
-3° Anno:   
-epidemiologia e profilassi delle malattie infettive II;   
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;   
-igiene dell'ambiente fisico e difesa ecologica;   
-clinica delle malattie dell'eta' evolutiva;   
-epidemiologia e profilassi delle malattie dell'eta' evolutiva;   
-igiene degli alimenti e della nutrizione;   
-auxologia normale e patologica;   
-psicologia dell'eta' evolutiva.   
-4° Anno:   
-servizi di medicina scolastica;   
-edilizia ed arredamento scolastico;   
-elementi di pedagogia;   
-assistenza parascolastica;   
-educazione sanitaria nella scuola;   
-legislazione scolastica;   
-igiene mentale.   
-  
-e) Orientamento di laboratorio.   
-  
-3° Anno:   
-epidemiologia e profilassi delle malattie infettive II;   
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;   
-igiene dell'ambiente fisico e difesa ecologica;   
-metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale;   
-metodi e dosaggi biologici per il controllo dell'inquinamento ambientale;   
-strumentazione e metodologia chimico-cliniche ed ematologiche I; microscopia applicata all'igiene;   
-elementi di fisica tecnica applicata all'igiene;   
-accertamento diagnostico delle malattie infettive e parassitarie I.   
-4° Anno:   
-metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale II;   
-accertamento diagnostico delle malattie infettive e parassitarie II;   
-strumentazione e metodologie chimico-cliniche ed ematologiche II; ispezione e controllo degli alimenti;   
-elementi di informatica.   
-Gli esami relativi alle discipline svolte con insegnamento biennale verranno sostenuti alla fine di detti insegnamenti.   
-I corsi saranno completati da insegnamenti complementari uno per ciascun anno scelti tra i seguenti:   
-Materie complementari:   
-automazione del sistema ospedaliero;   
-biochimica applicata;   
-climatologia;   
-diritto sanitario internazionale;   
-elementi di medicina legale;   
-genetica umana;   
-geologia applicata all'igiene;   
-idrologia;   
-igiene dei climi tropicali;   
-igiene dei trasporti;   
-igiene militare;   
-igiene rurale;   
-istituzioni di matematiche;   
-micologia;   
-radioprotezionistica.   
-A giudizio della scuola possono essere scelti come complementari anche altri insegnamenti regolarmente attivati nei corsi di laurea dell'Universita' di Catania.   
-I corsi saranno integrati da un tirocinio pratico di durata comunque non inferiore a tre mesi, da svolgersi durante il secondo biennio.   
-La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
-Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno; per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.   
-Al termine del corso di studi per il conseguimento del diploma di specialista in igiene e medicina preventiva, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
-Gli articoli 245, 246, 247, 248, 249 e 250, concernenti la scuola di specializzazione in microbiologia, sono soppressi e sostituiti dai seguenti:   
-  
-Scuola di specializzazione in microbiologia   
-  
-Art. 245. - La scuola di specializzazione in microbiologia ha sede presso l'istituto di microbiologia dell'Universita' di Catania e conferisce il diploma di specialista in microbiologia o in microbiologia con indirizzo tecnico.   
-La scuola di specializzazione in microbiologia ha lo scopo di allargare e approfondire sul piano scientifico la cultura di coloro che si dedicano allo studio di questa disciplina e di fornire sul piano tecnico una preparazione pratica specifica.   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Art. 246. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-E' contemplato un secondo indirizzo in tecniche microbiologiche al quale sono ammessi i laureati in medicina veterinaria, in scienze biologiche, in scienze naturali, in farmacia, in chimica e tecnologie farmaceutiche.   
-Art. 247. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
-Il numero massimo degli allievi e' di quaranta per anno di corso e complessivamente di centosessanta iscritti per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-Art. 248. - Le materie di insegnamento sono le seguenti:   
-  
-PRIMO BIENNIO   
-(comune ai due indirizzi)   
-  
-1° Anno:   
-batteriologia generale I;   
-tecniche batteriologiche;   
-immunologia generale;   
-genetica dei microrganismi.   
-2° Anno:   
-batteriologia generale II;   
-antibiotici e chemioterapici;   
-virologia generale;   
-immunologia generale e tecniche immunologiche;   
-dosaggio biologico ed analisi statistica.   
-  
-SECONDO BIENNIO   
-(indirizzo medico)   
-  
-3° Anno:   
-microrganismi patogeni e malattia;   
-batteriologia speciale I;   
-virologia speciale e tecniche virologiche;   
-micologia medica;   
-epidemiologia delle malattie infettive.   
-4° Anno:   
-batteriologia speciale II;   
-sierologia;   
-microbiologia degli alimenti;   
-microbiologia dell'ambiente;   
-protozoologia medica.   
-  
-SECONDO BIENNIO   
-(indirizzo in tecniche microbiologiche)   
-  
-3° Anno:   
-azione patogena dei microrganismi;   
-tecniche batteriologiche e batteriologia speciale I;   
-micologia generale e tecniche micologiche;   
-tecniche virologiche e virologia speciale;   
-protozoologia.   
-4° Anno:   
-tecniche batteriologiche e batteriologia speciale II;   
-microbiologia industriale;   
-esame microbiologico dell'ambiente;   
-controllo microbiologico degli alimenti;   
-tecniche sierologiche.   
-Il direttore puo' stabilire, per un piu' proficuo conseguimento del fine della scuola, che siano tenuti corsi complementari di conferenze su materie ed argomenti che abbiano attinenza o affinita' con gli insegnamenti impartiti nella scuola.   
-Art. 249. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
-Art. 250. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale, l'esame sara' sostenuto alla fine dei corsi medesimi.   
-L'esame di diploma constera' di una discussione sopra una tesi scritta.   
-A coloro che abbiano superato l'esame finale verra' rilasciato un diploma di specialista in microbiologia o, per i non laureati in medicina e chirurgia, un diploma di specialista in microbiologia con indirizzo tecnico.   
-Dopo l'art. 264, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in angiologia medica ed in audiologia:   
-  
-Scuola di specializzazione in angiologia medica   
-  
-Art. 265. - La scuola di specializzazione in angiologia medica ha sede presso l'istituto di semeiotica medica I e conferisce il diploma di specialista in angiologia medica.   
-Art. 266. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Art. 267. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia.   
-Art. 268. - La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazione.   
-Art. 269. - Il numero massimo degli allievi e' di due per anno di corso e di sei complessivamente per l'intero corso di studio.   
-Art. 270. - L'ammissione al corso avviene per titoli ed esami.   
-Art. 271. - Le materie di insegnamento sono le seguenti:   
-  
-1° Anno:   
-1) embriologia, anatomia ed istologia dell'apparato vascolare;   
-2) biochimica;   
-3) fisiologia del circolo periferico;   
-4) fisiopatologia della coagulazione e vasculopatie;   
-5) semeiotica fisica e strumentale dell'apparato vascolare (1° corso).   
-2° Anno:   
-6) anatomia ed istologia patologica dell'apparato vascolare;   
-7) radiologia;   
-8) farmacologia;   
-9) semeiotica fisica e strumentale dell'apparato vascolare (2° corso);   
-10) patologia dell'apparato vascolare.   
-3° Anno:   
-11) clinica dell'apparato vascolare;   
-12) patologia e clinica del microcircolo;   
-13) terapia medica delle vasculopatie;   
-14) indicazioni al trattamento chirurgico delle arteriopatie;   
-15) indicazioni al trattamento chirurgico delle flebopatie.   
-Art. 272. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
-Art. 273. - Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno.   
-Al termine del corso di studi per il conseguimento del diploma di specialista in angiologia medica gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
-  
-Scuola di specializzazione in audiologia   
-  
-Art. 274. - La scuola ha sede presso la cattedra di audiologia dell'Universita' di Catania. La durata del corso e' fissata in tre anni.   
-Art. 275. - Il numero degli iscritti alla scuola, complessivo per i tre anni, e' fissato ad un massimo di dodici (quattro per anno).   
-Non e' concesso alcun abbreviamento del corso.   
-L'ammissione alla scuola avviene mediante concorso per titoli ed esami.   
-Art. 276. - Le materie di insegnamento sono:   
-  
-1° Anno:   
-1) nozioni di fisica acustica;   
-2) anatomia dell'orecchio, delle vie e dei centri acustici e vestibolari;   
-3) fisiologia dell'orecchio, delle vie e dei centri acustici e vestibolari;   
-4) nozioni di psichiatria.   
-2° Anno:   
-1) tecniche audiometriche;   
-2) nozioni di neurologia;   
-3) nozioni di vestibologia.   
-3° Anno:   
-1) patologia dell'udito;   
-2) terapia medica, chirurgica e protesica della sordita';   
-3) la sordita' sotto il profilo sociale;   
-4) la rieducazione dell'ipoacusico.   
-Art. 277. - Per accedere al 2° e al 3° anno e' obbligatorio il superamento di tutti gli esami, rispettivamente del 1° e del 2° anno.   
-Gli esami possono essere sostenuti solamente in due sessioni annuali, una estiva ed una autunnale.   
-Art. 278. - Il diploma di specialista in audiologia viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinico e sperimentale.   
+Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 176 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono aggiunte le scuole di specializzazione in chirurgia, dell'apparato digerente ed endoscopia digestiva e in neurochirurgia.  
+Gli articoli 179, 184, relativi alle norme generali per le scuole di specializzazione in medicina e chirurgia, sono abrogati e sostituiti dai seguenti:  
+Art. 179. - Per ciascuna scuola di specializzazione e' stabilito il numero massimo di allievi che vi possono essere accolti.  
+L'ammissione alle scuole avviene a seguito di concorso per titoli ed esami.  
+Art. 184. - Non sono consentite iscrizioni con abbreviazioni di corso.  
+L'art. 187, relativo alle norme generali per le scuole di specializzazione in medicina e chirurgia, e' soppresso con il conseguente spostamento della numerazione degli articoli successivi.  
+Dopo l'art. 264, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva e in neurochirurgia.  
+Scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva  
+Art. 265. - La scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva ha sede presso l'istituto di seconda clinica chirurgica dell'Universita' di Catania e conferisce il diploma di specialista in chirurgia dell'apparato digerente ed endoscopia digestiva.  
+Art. 266. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione, e in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Art. 267. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalle autorita' competenti.  
+Art. 268. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazioni.  
+Art. 269. - Il numero massimo degli allievi e' di sei per anno di corso e complessivamente di trenta iscritti per l'intero corso di studi.  
+Art. 270. - L'ammissione al corso avviene per titoli ed esami.  
+Art. 271. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+anatomia descrittiva e topografica specialistica (I corso);  
+fisiopatologia e semeiotica funzionale (I corso);  
+anatomia ed istologia patologica (I corso);  
+patologia chirurgica (I corso).  
+2° Anno:  
+anatomia descrittiva e topografica specialistica (II corso);  
+fisiopatologia e semeiotica funzionale (II corso);  
+anatomia ed istologia patologica (II corso);  
+patologia chirurgica (II corso);  
+semeiotica chirurgica (I corso);  
+radiologia e medicina nucleare (I corso);  
+endoscopia digestiva diagnostica e terapeutica (I corso).  
+3° Anno:  
+patologia chirurgica (III corso);  
+semeiotica chirurgica (II corso);  
+radiologia e medicina nucleare (II corso);  
+endoscopia digestiva diagnostica e terapeutica (II corso);  
+clinica e terapia chirurgica (I corso);  
+tecniche operatorie (I corso).  
+4° Anno:  
+semeiotica chirurgica (III corso);  
+radiologia e medicina nucleare (III corso);  
+endoscopia digestiva diagnostica e terapeutica (III corso);  
+clinica e terapia chirurgica (II corso);  
+tecniche operatorie (II corso);  
+anestesia e rianimazione;  
+riabilitazione in chirurgia digestiva.  
+5° Anno:  
+clinica chirurgica e terapia chirurgica (III corso);  
+tecniche operatorie (III corso);  
+chirurgia d'urgenza dell'apparato digerente;  
+chirurgia pediatrica dell'apparato digerente;  
+terapia intensiva.  
+Art. 272. - La frequenza alle lezioni, alle esercitazioni pratiche, ai periodi di internato, e' obbligatoria per l'ammissione agli esami.  
+Il superamento degli esami di ciascun anno sara' condizione indispensabile per l'iscrizione all'anno successivo.  
+Art. 273. - Al termine del quinquennio per ottenere il diploma, i candidati dovranno presentare una dissertazione scritta su un argomento di chirurgia dell'apparato digerente ed endoscopia digestiva da discutere davanti all'apposita commissione e dovranno inoltre sostenere una prova clinica.  
+Scuola di specializzazione in neurochirurgia  
+Art. 274. - La scuola di specializzazione in neurochirurgia ha sede presso l'istituto di neurochirurgia dell'Universita' di Catania e conferisce il diploma di specialista in neurochirurgia.  
+Art. 275. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Art. 276. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+Art. 277. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.  
+Art. 278. - Il numero massimo degli allievi e' di tre per anno di corso e complessivamente di quindici iscritti per l'intero corso di studi.  
+Art. 279. - L'ammissione al corso avviene per titoli ed esami.  
+Art. 280. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+neuroanatomia;  
+neurofisiologia;  
+semeiotica e clinica neurologica;  
+elementi di psichiatria;  
+clinica neurochirurgica (I corso).  
+2° Anno:  
+neuro-oftalmologia;  
+neuro-otoiatria;  
+neurofisiologia clinica;  
+clinica neurochirurgica (II corso).  
+3° Anno:  
+neuroanestesia e rianimazione;  
+neuroradiologia (I corso);  
+neuropatologia;  
+clinica neurochirurgica (III corso).  
+4° Anno:  
+neuroradiologia (II corso);  
+neurotraumatologia;  
+tecniche operatorie (I corso);  
+clinica neurochirurgica (IV corso).  
+5° Anno:  
+neurochirurgia funzionale e stereotassica;  
+neurochirurgia infantile;  
+tecniche operatorie (II corso);  
+clinica neurochirurgica (V corso):  
+Art. 281. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.  
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
+Art. 282. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno.  
+Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.  
+Al termine del corso di studi per il conseguimento del diploma di specialista in neurochirurgia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1978
+### Dato a Roma, addi' 18 febbraio 1978
 
-PERTINI PEDINI
+LEONE MALFATTI
 
 Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 17 aprile 1979
+Registrato alla Corte dei conti, addi' 23 settembre 1978
 
-Registro n. 25 Istruzione, foglio n. 121
+Registro n. 104 Istruzione, foglio n. 279

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 agosto 1959 n. 799
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 settembre 1971 n. 966
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 agosto 1959 n. 799
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 settembre 1971 n. 966
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -10,17 +10,17 @@ Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, numero 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 20 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-20;1904) e successivi;
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1935, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 20 luglio 1957, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-07-20;741);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -32,110 +32,102 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 75. - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne (indirizzo europeo) sono aggiunti quelli di "lingua e letteratura portoghese", "letteratura angloamericana", "storia della lingua italiana".
+Art. 90. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:
 
-Art. 105, e' abrogato e sostituito dal seguente:
+Letteratura neogreca;
 
-"Gli insegnamenti complementari di "clinica delle malattie tropicali e subtropicali" e di "malattie infettive" possono essere riuniti in un'unica cattedra con la denominazione di "clinica delle malattie infettive e delle malattie tropicali".
+Filologia greco medioevale e neogreca;
 
-Art. 145. - Agli insegnamenti complementari della Facolta' di ingegneria e' aggiunto quello di "tecnica del traffico e della circolazione".
+Filologia slava;
 
-SEZIONE XIV. - Scuole e corsi di perfezionamento e di specializzazione
+Filologia medioevale e umanistica;
 
-Dopo l'art. 186 vengono inseriti i seguenti nuovi articoli, relativi alla istituzione della Scuola di perfezionamento in diritto romano, con il conseguente spostamento della numerazione degli articoli successivi.
+Letteratura italiana moderna e contemporanea.
 
-FACOLTA DI GIURISPRUDENZA
+Art. 98. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne (indirizzo europeo) sono aggiunti i seguenti:
 
-Scuola di perfezionamento in diritto romano
+Letteratura neogreca;
 
-Art. 186. - E' istituita, presso la Facolta' di giurisprudenza, la Scuola di perfezionamento in diritto romano, con l'intento di promuovere ricerche scientifiche sul diritto del mondo romano, di organizzare conferenze, discussioni, esercitazioni, pubblicazioni, viaggi, di raccogliere la bibliografia relativa, di coordinare gli insegnamenti impartiti nella Facolta' di giurisprudenza delle discipline speciali, riflettenti gli studi romanistici. Essa e' una Scuola di addestramento e di perfezionamento per chi intenda specializzarvisi.
+Filologia slava.
 
-Art. 187. - La Scuola rilascia il diploma di perfezionamento in diritto romano ed ha la durata di due anni.
+Art. 146. - All'elenco degli insegnamenti complementari del corso di laurea in matematica, indirizzo generale, sono aggiunti i seguenti:
 
-Art. 188. - Sono ammessi alla Scuola i laureati in giurisprudenza.
+Teorie relativistiche;
 
-Art. 159. - Gli insegnamenti della Scuola sono i seguenti:
+Meccanica analitica.
 
-Fondamentali:
+Art. 147. - All'elenco degli insegnamenti complementari del corso di laurea in matematica, indirizzo didattico, sono aggiunti i seguenti:
 
-diritto romano privato (biennale);
+Teorie relativistiche;
 
-diritto romano pubblico (biennale);
+Meccanica analitica.
 
-esercitazioni esegetiche (biennale).
+Art. 148. - All'elenco degli insegnamenti complementari del corso di laurea in matematica, indirizzo applicativo (sia ad orientamento numerico che ad orientamento meccanico) sono aggiunti i seguenti:
 
-Complementari storia romana;
+Teorie relativistiche;
 
-storia greca e bizantina;
+Meccanica analitica.
 
-epigrafia giuridica;
+L'art. 149, relativo alle propedeuticita' degli esami del corso di laurea in matematica e' modificato nel senso che nel sesto comma l'insegnamento di "Astronomia" e' soppresso e sostituito da "Astrodinamica".
 
-papirologia giuridica;
+Nello stesso articolo l'ultimo comma e' modificato nel senso che dopo l'insegnamento di "Teoria delle forze nucleari" e' aggiunto "Astronomia".
 
-paleografia e diplomatica; antica e medioevale;
+Art. 152. - All'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:
 
-storia dei diritti europei medioevali.
+Biologia marina;
 
-Gli insegnamenti sono cosi' ripartiti:
+Idrobiologia.
 
-1° anno:
+L'art. 153, relativo alle propedeuticita' del corso di laurea in scienze naturali e' abrogato e sostituito dal seguente:
 
-diritto romano privato;
+"Gli esami di istituzioni di matematica, di fisica e di chimica generale ed inorganica sono da considerarsi propedeutici rispetto a quelli del III e IV anno, solo ai fini della successione degli stessi".
 
-diritto romano pubblico;
+Art. 156. - All'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:
 
-esercitazioni esegetiche;
+Biologia marina;
 
-tre insegnamenti complementari.
+Idrobiologia;
 
-2° anno:
+Enzimologia.
 
-diritto romano privato;
+Nello stesso articolo dopo l'elenco degli insegnamenti complementari l'ultimo comma e' abrogato e sostituito dal seguente:
 
-diritto romano pubblico;
+"Gli esami di istituzioni di matematica, di fisica e di chimica generale ed inorganica sono da considerarsi propedeutici rispetto a quelli del III e IV anno, solo ai fini della successione degli stessi".
 
-esercitazioni esegetiche.
+L'art. 163, relativo all'elenco degli istituti annessi alla facolta' di scienze matematiche, fisiche e naturali e' modificato nel senso che l'istituto di matematica muta denominazione in quella di "Istituti di matematica Renato Caccioppoli".
 
-Gli insegnamenti fondamentali importano un unico esame alla fine del biennio.
+Nello stesso elenco e' aggiunto il "Seminario didattico".
 
-Art. 190. - La Commissione degli esami speciali e' composta dal professore ufficiale della materia, che la presiede, e da due professori della Scuola.
+L'art. 496, relativo all'ordinamento degli studi della scuola di perfezionamento in fisica teorica e nucleare e' modificato nel senso che l'ultimo comma e' abrogato e sostituito dal seguente:
 
-Art. 191. - E' ammesso all'esame di diploma chi abbia superato gli esami negli insegnamenti fondamentali ed in tre complementari.
-
-Art. 192. - L'esame di diploma si sostiene innanzi al Consiglio direttivo riunito in Commissione. Il candidato deve presentare una dissertazione scritta con previa approvazione, anche sotto il profilo della originalita', di un professore insegnante nella Scuola. Deve discuterla oralmente davanti alla Commissione nell'ambito di un colloquio che dimostri la sua adeguata preparazione nella specializzazione.
-
-Art. 193. - La Scuola e' retta da un Consiglio direttivo composto dai professori ordinari della Facolta' di giurisprudenza delle discipline romanistiche, i quali eleggono il direttore che lo presiede per un triennio ed e' rieleggibile.
-
-Art. 194. - Gli incarichi d'insegnamento sono conferiti su proposta del Consiglio della scuola, approvata dal Senato accademico e dal Consiglio di amministrazione dell'Universita' di Napoli.
-
-Art. 195. - Gli iscritti alla Scuola di perfezionamento sono tenuti a pagare le tasse, le soprattasse, la tassa di diploma, nonche' tutti gli altri contributi stabiliti per gli studenti iscritti alla Facolta' di giurisprudenza dell'Universita' di Napoli.
+"Per adire agli esami di diploma gli iscritti devono aver superato gli esami previsti dall'ordine degli studi ed una prova di cultura generale".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Napoli, addi' 20 agosto 1959
+Dato a Roma, addi' 18 settembre 1971
 
-GRONCHI
+SARAGAT
 
-MEDICi
+MISASI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: COLOMBO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 5 ottobre 1959 Atti del Governo, registro n. 121, foglio n. 2. - VILLA
+alla Corte dei conti, addi' 17 novembre 1971 Atti del Governo, registro n. 245, foglio n. 63. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, numero 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 20 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-20;1904) e successivi;  
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1935, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-09-30;1652), e successive modificazioni;  
-Veduta la [legge 20 luglio 1957, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-07-20;741);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -144,72 +136,52 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 75. - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne (indirizzo europeo) sono aggiunti quelli di "lingua e letteratura portoghese", "letteratura angloamericana", "storia della lingua italiana".  
-  
-Art. 105, e' abrogato e sostituito dal seguente:  
-"Gli insegnamenti complementari di "clinica delle malattie tropicali e subtropicali" e di "malattie infettive" possono essere riuniti in un'unica cattedra con la denominazione di "clinica delle malattie infettive e delle malattie tropicali".  
-  
-Art. 145. - Agli insegnamenti complementari della Facolta' di ingegneria e' aggiunto quello di "tecnica del traffico e della circolazione".  
-  
-SEZIONE XIV. - Scuole e corsi di perfezionamento e di specializzazione  
-  
-Dopo l'art. 186 vengono inseriti i seguenti nuovi articoli, relativi alla istituzione della Scuola di perfezionamento in diritto romano, con il conseguente spostamento della numerazione degli articoli successivi.  
-  
-FACOLTA DI GIURISPRUDENZA  
-  
-Scuola di perfezionamento in diritto romano  
-  
-Art. 186. - E' istituita, presso la Facolta' di giurisprudenza, la Scuola di perfezionamento in diritto romano, con l'intento di promuovere ricerche scientifiche sul diritto del mondo romano, di organizzare conferenze, discussioni, esercitazioni, pubblicazioni, viaggi, di raccogliere la bibliografia relativa, di coordinare gli insegnamenti impartiti nella Facolta' di giurisprudenza delle discipline speciali, riflettenti gli studi romanistici. Essa e' una Scuola di addestramento e di perfezionamento per chi intenda specializzarvisi.  
-  
-Art. 187. - La Scuola rilascia il diploma di perfezionamento in diritto romano ed ha la durata di due anni.  
-  
-Art. 188. - Sono ammessi alla Scuola i laureati in giurisprudenza.  
-  
-Art. 159. - Gli insegnamenti della Scuola sono i seguenti:  
-Fondamentali:  
-diritto romano privato (biennale);  
-diritto romano pubblico (biennale);  
-esercitazioni esegetiche (biennale).  
-Complementari storia romana;  
-storia greca e bizantina;  
-epigrafia giuridica;  
-papirologia giuridica;  
-paleografia e diplomatica; antica e medioevale;  
-storia dei diritti europei medioevali.  
-Gli insegnamenti sono cosi' ripartiti:  
-1° anno:  
-diritto romano privato;  
-diritto romano pubblico;  
-esercitazioni esegetiche;  
-tre insegnamenti complementari.  
-2° anno:  
-diritto romano privato;  
-diritto romano pubblico;  
-esercitazioni esegetiche.  
-Gli insegnamenti fondamentali importano un unico esame alla fine del biennio.  
-  
-Art. 190. - La Commissione degli esami speciali e' composta dal professore ufficiale della materia, che la presiede, e da due professori della Scuola.  
-  
-Art. 191. - E' ammesso all'esame di diploma chi abbia superato gli esami negli insegnamenti fondamentali ed in tre complementari.  
-  
-Art. 192. - L'esame di diploma si sostiene innanzi al Consiglio direttivo riunito in Commissione. Il candidato deve presentare una dissertazione scritta con previa approvazione, anche sotto il profilo della originalita', di un professore insegnante nella Scuola. Deve discuterla oralmente davanti alla Commissione nell'ambito di un colloquio che dimostri la sua adeguata preparazione nella specializzazione.  
-  
-Art. 193. - La Scuola e' retta da un Consiglio direttivo composto dai professori ordinari della Facolta' di giurisprudenza delle discipline romanistiche, i quali eleggono il direttore che lo presiede per un triennio ed e' rieleggibile.  
-  
-Art. 194. - Gli incarichi d'insegnamento sono conferiti su proposta del Consiglio della scuola, approvata dal Senato accademico e dal Consiglio di amministrazione dell'Universita' di Napoli.  
-  
-Art. 195. - Gli iscritti alla Scuola di perfezionamento sono tenuti a pagare le tasse, le soprattasse, la tassa di diploma, nonche' tutti gli altri contributi stabiliti per gli studenti iscritti alla Facolta' di giurisprudenza dell'Universita' di Napoli.  
+Art. 90. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:  
+Letteratura neogreca;  
+Filologia greco medioevale e neogreca;  
+Filologia slava;  
+Filologia medioevale e umanistica;  
+Letteratura italiana moderna e contemporanea.  
+Art. 98. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne (indirizzo europeo) sono aggiunti i seguenti:  
+Letteratura neogreca;  
+Filologia slava.  
+Art. 146. - All'elenco degli insegnamenti complementari del corso di laurea in matematica, indirizzo generale, sono aggiunti i seguenti:  
+Teorie relativistiche;  
+Meccanica analitica.  
+Art. 147. - All'elenco degli insegnamenti complementari del corso di laurea in matematica, indirizzo didattico, sono aggiunti i seguenti:  
+Teorie relativistiche;  
+Meccanica analitica.  
+Art. 148. - All'elenco degli insegnamenti complementari del corso di laurea in matematica, indirizzo applicativo (sia ad orientamento numerico che ad orientamento meccanico) sono aggiunti i seguenti:  
+Teorie relativistiche;  
+Meccanica analitica.  
+L'art. 149, relativo alle propedeuticita' degli esami del corso di laurea in matematica e' modificato nel senso che nel sesto comma l'insegnamento di "Astronomia" e' soppresso e sostituito da "Astrodinamica".  
+Nello stesso articolo l'ultimo comma e' modificato nel senso che dopo l'insegnamento di "Teoria delle forze nucleari" e' aggiunto "Astronomia".  
+Art. 152. - All'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:  
+Biologia marina;  
+Idrobiologia.  
+L'art. 153, relativo alle propedeuticita' del corso di laurea in scienze naturali e' abrogato e sostituito dal seguente:  
+"Gli esami di istituzioni di matematica, di fisica e di chimica generale ed inorganica sono da considerarsi propedeutici rispetto a quelli del III e IV anno, solo ai fini della successione degli stessi".  
+Art. 156. - All'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:  
+Biologia marina;  
+Idrobiologia;  
+Enzimologia.  
+Nello stesso articolo dopo l'elenco degli insegnamenti complementari l'ultimo comma e' abrogato e sostituito dal seguente:  
+"Gli esami di istituzioni di matematica, di fisica e di chimica generale ed inorganica sono da considerarsi propedeutici rispetto a quelli del III e IV anno, solo ai fini della successione degli stessi".  
+L'art. 163, relativo all'elenco degli istituti annessi alla facolta' di scienze matematiche, fisiche e naturali e' modificato nel senso che l'istituto di matematica muta denominazione in quella di "Istituti di matematica Renato Caccioppoli".  
+Nello stesso elenco e' aggiunto il "Seminario didattico".  
+L'art. 496, relativo all'ordinamento degli studi della scuola di perfezionamento in fisica teorica e nucleare e' modificato nel senso che l'ultimo comma e' abrogato e sostituito dal seguente:  
+"Per adire agli esami di diploma gli iscritti devono aver superato gli esami previsti dall'ordine degli studi ed una prova di cultura generale".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Napoli, addi' 20 agosto 1959
+### Dato a Roma, addi' 18 settembre 1971
 
-GRONCHI MEDICi
+SARAGAT MISASI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 5 ottobre 1959
+Registrato alla Corte dei conti, addi' 17 novembre 1971
 
-Atti del Governo, registro n. 121, foglio n. 2. - VILLA
+Atti del Governo, registro n. 245, foglio n. 63. - CARUSO

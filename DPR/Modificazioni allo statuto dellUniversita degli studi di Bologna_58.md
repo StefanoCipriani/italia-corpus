@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1191
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1969 n. 796
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1191
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1969 n. 796
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -12,12 +12,11 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e' modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -26,70 +25,141 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-L'art. 96, relativo all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia, e' modificato nel senso che gli insegnamenti complementari di "Chirurgia sperimentale" e "Scienza dell'alimentazione" mutano rispettivamente la denominazione in "Chirurgia sperimentale e fisiopatologia chirurgica" e "Scienza dell'alimentazione e dietetica".  
-L'art. 141, relativo al corso di laurea in farmacia, e' soppresso, con il relativo spostamento della numerazione degli articoli successivi.  
-La scuola, diretta a fini speciali, per tecnici fisioterapisti muta la denominazione in "Scuola per terapisti della riabilitazione".  
-Gli articoli 595, 596, 597, 598, 599, relativi alla scuola di perfezionamento per tecnici fisioterapisti, sono soppressi e sostituiti dai seguenti, con il conseguente spostamento della numerazione degli articoli successivi.  
+Gli articoli da 447 a 452, relativi all'ordinamento della scuola di perfezionamento in malattie nervose e mentali sono abrogati e sostituiti dai seguenti articoli relativi all'istituzione delle due scuole in "Neurologia" e in "Psichiatria".  
   
-Scuola per terapisti della riabilitazione  
+Scuola di specializzazione in neurologia  
   
-Art. 595. - La sede della scuola e' la clinica ortopedica dell'Universita' di Bologna, ubicata presso l'istituto ortopedico Rizzoli.  
-Il direttore della clinica ortopedica e' il direttore della scuola; la direzione didattica si avvale della collaborazione dei titolari degli insegnamenti di terapia fisica e di clinica neurologica e del dirigente il servizio di riabilitazione.  
-Art. 596. - Scopo della scuola e' quello di dare una preparazione teorica e pratica sui problemi della riabilitazione dei minorati fisici e del loro reinserimento nell'ambiente socio-economico.  
-Art. 597. - La durata del corso per il conseguimento del diploma di terapista della riabilitazione e' di tre anni: i primi due consistenti in lezioni teoriche e pratiche sulle materie propedeutiche; il terzo di tirocinio pratico presso i centri di riabilitazione delle cliniche:  
-ortopedica, neurologica, medica (sezione di terapia fisica) dell'Universita' di Bologna.  
-Art. 598. - Gli allievi hanno l'obbligo della frequenza alle lezioni ed ai tirocini.  
-Art. 599. - Possono accedere alla scuola gli allievi di ambo i sessi di eta' non inferiore a 17 anni, in possesso del titolo di studio prescritto per l'ammissione alla Universita'.  
-Art. 600. - Il numero massimo degli allievi che si possono iscrivere e' di venticinque per ogni anno di corso.  
-Gli aspiranti ad ottenere l'iscrizione al 1° anno della scuola devono sostenere un esame di ammissione consistente in una prova orale di cultura generale ed attitudinale; e' richiesto inoltre, in via preliminare, un certificato di sana e robusta costituzione.  
-Art. 601. - Le materie di insegnamento sono:  
-  
+Art. 447. - La scuola di specializzazione in neurologia conferisce il diploma di specialista in neurologia.  
+Gli anni di studio post-universitari, necessari per conseguire il titolo sono quattro.  
+Il numero massimo complessivo degli iscritti e' fissato in venti.  
+L'iscrizione al primo anno di corso sara' subordinata al superamento di un esame di ammissione di carattere medico-generale.  
+Gli specialisti in psichiatria, neuropsichiatria infantile, neuro-chirurgia potranno, previo superamento di un esame di ammissione, chiedere l'iscrizione al terzo anno di corso, mentre gli specialisti in discipline affini potranno sempre previo superamento di un esame di ammissione, chiedere l'iscrizione al secondo anno di corso.  
+Art. 448. - Le materie d'insegnamento, divise per anno di corso, sono le seguenti:  
 1° Anno:  
-Nozioni generali di anatomia;  
-Nozioni generali di fisiologia;  
-Fisiologia dell'apparato locomotore;  
-Fisiologia del sistema nervoso centrale e periferico;  
-Fisiologia del sistema cardio-respiratorio;  
-Chinesiologia;  
-Igiene e medicina sociale;  
-Nozioni di fisiche delle energie utilizzate in terapia fisica;  
-Nozioni fondamentali di psichiatria;  
-Psicologia applicata alla riabilitazione;  
-Nozioni generali di patologia generale, medica, chirurgica;  
-Patologia e clinica dell'apparato locomotore;  
-Patologia e clinica del sistema nervoso;  
-Patologia e clinica dell'apparato cardio-vascolare;  
-Patologia e clinica dell'apparato respiratorio;  
-Nozioni di farmacologia applicata alla riabilitazione.  
-  
+1) Anatomia e istologia del sistema nervoso;  
+2) Fisiologia del sistema nervoso;  
+3) Biochimica del sistema nervoso;  
+4) Genetica (elementi);  
+5) Psicologia generale;  
+6) Psicopatologia (I);  
+7) Semeiotica psichiatrica.  
 2° Anno:  
-Metodologia della riabilitazione;  
-Tecniche di facilitazione neuro-motoria;  
-Apparecchiature fisio-terapiche;  
-Riabilitazione nelle motulesioni ortopediche;  
-Rieducazione e riabilitazione nelle motulesioni neurologiche;  
-Riabilitazione nelle invalidita' respiratorie;  
-Riabilitazione in reumatologia;  
-Riabilitazione in neuropsichiatria infantile;  
-Tecniche fisioterapiche;  
-Disturbi del linguaggio, della fonetica e loro rieducazione;  
-Nozioni generali e terapia occupazionale;  
-Servizio sociale e relazioni umane.  
-Art. 602. - Alla fine del 1° e del 2° anno, gli allievi dovranno superare una prova scritta, orale e pratica riguardante le materie di insegnamento; il superamento della prova e' indispensabile per essere ammessi all'anno successivo.  
-Art. 603. - Il 3° anno e' esclusivamente dedicato al tirocinio pratico e sara' svolto con un internato della durata di dieci mesi, suddiviso nei tre istituti di: clinica ortopedica, clinica neurologica, istituto di terapia fisica dell'ospedale S. Orsola.  
-Art. 604. - L'esame per il conseguimento del diploma di terapista della riabilitazione consiste in una prova teorico-pratica e nella discussione di una tesi scritta, su tema preventivamente assegnato dal direttore della scuola.  
-Art. 603. - Le lezioni teoriche e pratiche si svolgeranno negli istituti di rispettiva competenza.  
+1) Anatomia e istologia patologica del sistema nervoso;  
+2) Semeiotica neurologica;  
+3) Patologia speciale e diagnostica neurologica (I);  
+4) Neuroradiologia;  
+5) Endocrinologia e neurologia vegetativa.  
+3° Anno:  
+1) Patologia speciale e diagnostica neurologica (II);  
+2) Clinica neurologica;  
+3) Elettroencefalografia;  
+4) Elettromiografia, elettrodiagnostica ed elettroterapia;  
+5) Neuro-oftalmologia;  
+6) Neuro-otologia;  
+7) Esami di laboratorio.  
+4° Anno:  
+1) Clinica neurologica e terapia (II);  
+2) Neurochirurgia;  
+3) Teoria e clinica della riabilitazione;  
+4) Neurologia in rapporto alla patologia internistica;  
+5) Neurotraumatologia, anche sotto l'aspetto della medicina legale.  
+Art. 449. - Gli allievi hanno l'obbligo di svolgere l'internato per l'intero anno accademico: per il 1° anno in psichiatria, per gli altri tre anni in neurologia (sede della scuola).  
+L'internato in psichiatria potra' essere ridotto a non meno di sei mesi per i medici che prestano regolare servizio in reparti neurologici ospedalieri e di quattro mesi per quelli che prestano regolare servizio in istituti psichiatrici.  
+L'internato in neurologia potra' essere ridotto a non meno di quattro mesi all'anno per i medici che prestano regolare servizio in reparti neurologici ospedalieri.  
+L'insegnamento avra' carattere eminentemente pratico dimostrativo sperimentale a mezzo di lezioni, colloqui, esercitazioni sopra casi clinici e ricerche di laboratorio. Le ricerche cliniche ed individuali sia a scopo pratico, sia a scopo scientifico, dovranno essere approvate dal direttore dell'istituto.  
+Il superamento degli esami e' obbligatorio alla fine di ogni anno di corso per il passaggio all'anno successivo. Gli esami riguardano le singole materie di ciascun anno di corso. Alla fine del 4° anno di corso, gli allievi, oltre a dover superare gli esami speciali del predetto 4° anno, sono tenuti, per conseguire il diploma, a discutere una dissertazione scritta.  
+  
+Scuola di specializzazione in psichiatria  
+  
+Art. 450. - La scuola di specializzazione in psichiatria conferisce il diploma di specialista in psichiatria.  
+Gli anni di studio post-universitari necessari per conseguire il titolo sono quattro.  
+Il numero complessivo degli iscritti e' fissato in venti.  
+L'iscrizione al primo anno di corso sara' subordinata al superamento di un esame di ammissione di carattere medico-generale.  
+Gli specialisti in neurologia, neuropsichiatria infantile, neuro-chirurgia potranno, previo superamento di un esame di ammissione, chiedere l'iscrizione al terzo anno di corso, mentre gli specialisti in discipline affini potranno, sempre previo superamento di un esame di ammissione, chiedere l'iscrizione al secondo anno di corso.  
+Art. 451. - Le materie di insegnamento, divise per anno di corso, sono le seguenti:  
+1° Anno:  
+1) Anatomia e istologia del sistema nervoso;  
+2) Fisiologia del sistema nervoso;  
+3) Biochimica del sistema nervoso;  
+4) Genetica (elementi);  
+5) Psicologia generale;  
+6) Psicopatologia (I);  
+7) Semeiotica psichiatrica.  
+2° Anno:  
+1) Anatomia ed istologia del sistema nervoso;  
+2) Semeiotica neurologica;  
+3) Patologia speciale e diagnostica neurologica;  
+4) Neuroradiologia;  
+5) Endocrinologia e neurologia vegetativa;  
+6) Elettroencefalografia.  
+3° Anno:  
+1) Patologia speciale psichiatrica;  
+2) Psicopatologia (II);  
+3) Clinica psichiatrica (I);  
+4) Psicologia clinica e psicodiagnostica;  
+5) Psicofarmacologia;  
+6) Esami di laboratorio;  
+7) Psichiatria in rapporto con la patologia.  
+4° Anno:  
+1) Clinica psichiatrica (II);  
+2) Terapia psichiatrica generale;  
+3) Psicoterapia;  
+4) Neuropsichiatria infantile;  
+5) Psichiatria forense e legislazione psichiatrica;  
+6) Psichiatria sociale (del lavoro, scolastico, igiene e profilassi mentale).  
+Art. 452. - Gli allievi hanno l'obbligo di svolgere lo internato per l'intero anno accademico: per il 1°, 3° e 4° corso in psichiatria (sede della scuola), per il 2° corso in neurologia. L'internato in psichiatria potra' essere ridotto a non meno di quattro mesi all'anno per i medici che prestano regolare servizio in istituti psichiatrici.  
+L'internato in neurologia potra' essere ridotto a non meno di sei mesi per i medici che prestano regolare servizio in istituti psichiatrici e di quattro mesi per quelli che prestano regolare servizio in reparti neurologici ospedalieri.  
+L'insegnamento avra' carattere eminentemente pratico-dimostrativo-sperimentale a mezzo di lezioni, colloqui, esercitazioni sopra casi clinici e ricerche di laboratorio. Le ricerche cliniche ed individuali, sia a scopo pratico, sia a scopo scientifico dovranno essere approvate dal direttore dell'istituto.  
+Il superamento degli esami e' obbligatorio alla fine di ogni anno di corso per il passaggio all'anno successivo.  
+Gli esami riguardano le singole materie di ciascun anno di corso.  
+Alla fine del 4° anno di corso, gli allievi, oltre a dover superare gli esami speciali di detto anno, sono tenuti, per conseguire il diploma, a discutere una dissertazione scritta.  
+Gli articoli da 453 a 458 relativi alla scuola di specializzazione in otorinolaringoiatria che assume la denominazione di scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale, sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale  
+  
+Art. 453. - La scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale conferisce il diploma di specialista in otorinolaringoiatria e patologia cervico-facciale.  
+Art. 454. - Gli anni di studio post-universitari necessari per conseguire il titolo sono tre.  
+Art. 455. - Il numero massimo degli iscritti ad ogni anno di corso e' di cinque, per un totale di quindici specializzandi.  
+Art. 456. - Gli allievi hanno l'obbligo della frequenza alle lezioni, alle visite cliniche, alle medicature agli ambulatori ed a tutte quelle pratiche inerenti ai servizi della specialita'.  
+Il piano degli studi prevede i seguenti insegnamenti:  
+1° Anno:  
+1) Anatomia;  
+2) Fisiologia;  
+3) Audiologia (1° anno);  
+4) Semeiotica otorinolaringoiatrica;  
+5) Tecnica di laboratorio;  
+6) Patologia otorinolaringoiatrica e cervico-facciale (1° anno);  
+7) Anatomia ed istologia patologica otorinolaringoiatrica.  
+2° Anno:  
+1) Tecniche operative in otorinolaringoiatria;  
+2) Anestesiologia in otorinolaringoiatria;  
+3) Patologia e clinica otorinolaringoiatrica e cervico-facciale (2° anno);  
+4) Radiologia in rapporto all'otorinolaringoiatria;  
+5) Pediatria in rapporto all'otorinolaringoiatria;  
+6) Audiologia;  
+7) Otoneurologia;  
+8) Foniatria.  
+3° Anno:  
+1) Patologia e clinica otorinolaringoiatrica e cervico-facciale;  
+2) Terapia medica e fisica in otorinolaringoiatria;  
+3) Neuropatologia in rapporto con l'otorinolaringoiatria;  
+4) Oculistica in rapporto con l'otorinolaringoiatria;  
+5) Chirurgia plastica;  
+6) Tracheo-broncoscopia;  
+7) Medicina legale ed infortunistica in otorinolaringoiatria.  
+Art. 457. - Le lezioni sono teoriche e pratiche sulla scorta dei casi clinici che si presentano di volta in volta all'esame.  
+Art. 458. - Alla fine di ogni anno di corso gli allievi dovranno sostenere un esame sulle materie dell'anno e non potranno essere ammessi al corso successivo senza aver superato tale esame.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1973
+### Dato a Roma, addi' 8 ottobre 1969
 
-LEONE MALFATTI
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 19 novembre 1974
+Registrato alla Corte dei conti, addi' 7 novembre 1969
 
-Atti di Governo, registro n. 6, foglio n. 136. - SCIARRETTA
+Atti del Governo, registro n. 230, foglio n. 20. - CARUSO

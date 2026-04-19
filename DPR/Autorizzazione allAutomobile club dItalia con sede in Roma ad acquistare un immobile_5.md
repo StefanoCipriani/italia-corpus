@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 novembre 1973 n. 946
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 maggio 1970 n. 1494
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 novembre 1973 n. 946
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 maggio 1970 n. 1494
+==============================================================
 
 Autorizzazione all'Automobile club d'Italia, con sede in Roma, ad acquistare un immobile.
 -----------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-946. Decreto del Presidente della Repubblica 12 novembre 1973, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile club d'Italia, con sede in Roma, viene autorizzato ad acquistare in proprieta' dall'impresa ing. Rosazza, per il prezzo di lire 516.000.000, porzioni del complesso immobiliare sito in Torino, piazza Guala angolo via Piobesi e identificato nella mappa catastale e con il mappale 217 del foglio n. 105, per una superficie complessiva di mq. 3.900, da adibire a sede degli uffici delegati.   
+1494. Decreto del Presidente della Repubblica 18 maggio 1970, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile club d'Italia, con sede in Roma, viene autorizzato ad acquistare in proprieta' dall'Amministrazione finanziaria - Provveditorato generale dello Stato, per il prezzo di lire 240.000, l'appezzamento di terreno demaniale esteso mq. 40, posto al valico di Villa di Chiavenna; nel nuovo catasto edilizio urbano riportato al foglio n. 33, mappale n. 221-B.  
   
-Visto, il Guardasigilli: ZAGARI   
-Registrato alla Corte dei conti, addi' 14 gennaio 1974   
-Atti di Governo, registro n. 1, foglio n. 14. - CARUSO
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 4 agosto 1971  
+Atti del Governo, registro n. 243, foglio n. 115. - CARUSO

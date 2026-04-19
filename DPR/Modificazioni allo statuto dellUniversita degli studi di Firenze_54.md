@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 marzo 1970 n. 232
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 gennaio 1977 n. 138
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 marzo 1970 n. 232
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 gennaio 1977 n. 138
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
@@ -16,27 +16,31 @@ Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Firenze e convalidati dal Consiglio superiore della pubblica istruzione;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 68, relativo all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' modificato nel senso che l'insegnamento complementare di "Anestesiologia" muta denominazione in quella di "Anestesiologia e rianimazione".  
+Lo statuto dell'Universita' degli studi di Firenze approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+L'art. 275, terzo comma, e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in ostetricia e ginecologia e' stabilito in 20 per ogni anno di corso.  
+L'art. 278, secondo comma, e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in medicina legale e delle assicurazioni e' stabilito in 8 per anno di corso.  
+L'art. 285, lettera e), e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in chirurgia e' stabilito in 8 per ogni anno di corso per un totale di 40 iscritti.  
+L'art. 297, lettera d), e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in terapia fisica e riabilitazione e' stabilito in 15 per ogni anno di corso per un totale di 45 iscritti.  
+L'art. 307, lettera a), secondo comma, e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in nefrologia medica e' stabilito in 10 per ogni anno di corso.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 marzo 1970
+### Dato a Roma, addi' 19 gennaio 1977
 
-SARAGAT FERRARI AGGRADI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 30 aprile 1970
+Registrato alla Corte dei conti, addi' 13 aprile 1977
 
-Atti del Governo, registro n. 235, foglio n. 41. - CARUSO
+Registro n. 46 Istruzione, foglio n. 179

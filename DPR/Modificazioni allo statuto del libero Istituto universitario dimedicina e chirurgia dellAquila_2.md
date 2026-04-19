@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1974 n. 719
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1978 n. 951
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1974 n. 719
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1978 n. 951
 ==============================================================
 
 Modificazioni allo statuto del libero Istituto universitario di 

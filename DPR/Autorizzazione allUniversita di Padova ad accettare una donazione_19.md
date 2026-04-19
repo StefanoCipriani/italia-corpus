@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 ottobre 1951 n. 1378
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 luglio 1953 n. 912
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 ottobre 1951 n. 1378
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 luglio 1953 n. 912
+=============================================================
 
 Autorizzazione all'Universita' di Padova ad accettare una donazione.
 --------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1378. Decreto del Presidente della Repubblica 1 ottobre 1951, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Padova viene autorizzata ad accettare la donazione della somma di L. 750.000 in contanti, disposta in suo favore dall'avv. Luigi Pellizzari, con atto pubblico amministrativo in data 8 settembre 1950, per aumentare il capitale della borsa di studio "Clinia Romaro".  
+912. Decreto del Presidente della Repubblica 11 luglio 1953, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Padova viene autorizzata ad accettare la donazione di lire 709.022 in contanti, da convertire in titoli di Stato, disposta in suo favore dal prof. Osvaldo Passerini, per l'istituzione, con la rendita del capitale donato, di un premio di studio da intitolarsi "Premio di studio prof. Guido Trentin".  
   
-Visto, il Guardasigilli: ZOLI  
-Registrato alla Corte dei conti, addi' 12 dicembre 1951  
-Atti del Governo, registro n. 47, foglio n. 60. - FRASCA
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 14 dicembre 1953  
+Atti del Governo, registro n. 80, foglio n. 70. - PALLA

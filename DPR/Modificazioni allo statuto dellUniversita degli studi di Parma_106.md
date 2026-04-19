@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 agosto 1959 n. 780
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 aprile 1967 n. 236
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 agosto 1959 n. 780
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 aprile 1967 n. 236
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Parma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772) e successivi;
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -30,104 +30,48 @@ Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Panna, approvato e modificato con i decreti sopraindicati, 6 ulteriormente modificato come appresso:
 
-Art. 27. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di "psichiatria".
+Art. 16. - All'elenco degli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di: "Contabilita' di Stato".
 
-Art. 32. - Agli insegnamenti complementari del corso di laurea in scienze matematiche sono aggiunti quelli di: "matematiche elementari dal punto di vista superiore", "teoria, dei numeri", "calcoli numerici e grafici", "geometria algebrica", "meccanica superiore", "topologia", "algebrica superiore", "teoria generale delle vibrazioni", "meccanica celeste".
+Art. 47. - All'elenco degli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti quelli di:
 
-Art. 39. - Agli insegnamenti complementari del corso di laurea in fisica sono aggiunti quelli di: "fisica atomica", "fisica particelle elementari", "elettronica", "fisica dei solidi".
+Audiologia;
 
-Art. 46. - Agli insegnamenti complementari del corso di laurea in matematica e fisica sono aggiunti quelli di: "matematiche elementari dal punto di vista superiore", "teoria dei numeri", "calcoli numerici e grafici", "geometria algebrica", "meccanica superiore", "topologia", "algebra superiore", "teoria generale delle vibrazioni", "fisica atomica", "fisica delle particelle elementari", "fisica dei solidi", "elettronica".
+Radiobiologia.
 
-Art. 57. - Agli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti quelli di: "biologia marina", "oceanografia".
+Art. 83, relativo al biennio di studi propedeutici per la laurea in Ingegneria dopo il primo comma e' inserito il seguente:
 
-Art. 65. - Agli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti quelli di: "embriologia e morfologia sperimentale", "idrobiologia e pescicoltura", "paleontologia umana e paletnologia", "fitogeografia ed ecologia vegetale".
+"Gli esami di Analisi matematica I, di Geometria I, e di Fisica I, devono precedere rispettivamente gli esami di Analisi matematica II, Geometria II, e Fisica II".
 
-Art. 69. Agli insegnamenti complementari del corso di laurea in scienze geologiche, e' aggiunto quello di "geologia stratigrafica".
+Art. 101. - All'elenco degli insegnamenti complementari del corso di laurea in Medicina veterinaria sono aggiunti quelli di:
 
-Art. 71. - E' aggiunto il seguente comma:
+17) Zooeconomia;
 
-Sono obbligatori due anni di internato in geologia, al III e IV anno".
-
-Art. 73, relativo all'esame di laurea, l'ultimo comma e' abrogato e sostituito dal seguente:
-
-"Fa parte, inoltre, dell'esame di laurea un colloquio di cultura generale nelle scienze geologiche (geologia, paleontologia, geografia, mineralogia, petrografia) da sostenere dinanzi ad una Commissione di cinque professori ufficiali della Facolta', fra cui il preside".
-
-Art. 75. - Agli insegnamenti complementari del corso di laurea in farmacia e' aggiunto quello di "chimica farmaceutica applicata".
-
-Art. 82. - All'elenco delle Scuole di specializzazione annesse alla Facolta' di medicina e chirurgia e' aggiunta quella di igiene.
-
-Dopo l'art. 135, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola, di specializzazione in igiene, con il conseguente spostamento della numerazione degli articoli successivi.
-
-Scuola di specializzazione in igiene.
-
-Art. 136. - E' istituita la Scuola di specializzazione in igiene, che ha sede presso l'Istituto di igiene della Facolta' di medicina e chirurgia.
-
-Art. 137. - Sono ammessi i laureati in medicina e chirurgia.
-
-Art. 138. - L'iscrizione alla Scuola e' limitata, per ogni anno accademico, a dieci allievi.
-
-Art. 139. - La Scuola ha la durata di due anni.
-
-Art. 140. - Le materie di insegnamento sono:
-
-1° anno:
-
-1) igiene generale e speciale (I);
-
-2) batteriologia, immunologia, e microbiologia applicata all'igiene;
-
-3) parassitologia;
-
-4) legislazione sanitaria, statistica e demografia;
-
-5) zoonosi, ispezione delle carni:
-
-6) nozioni di anatomia e istologia patologica.
-
-2° anno:
-
-1) igiene generale e speciale (II);
-
-2) patologia e clinica delle malattie da infezione, da intossicazione, da carenze, ecc.;
-
-3) ingegneria sanitaria;
-
-4) chimica applicata all'igiene;
-
-5) fisica applicata all'igiene;
-
-6) geologia applicata all'igiene.
-
-Art. 141. - Gli allievi dovranno seguire turni di interinato, secondo gli orari stabiliti dalla Scuola, presso l'Istituto di igiene e presso l'Ufficio comunale di igiene.
-
-Art. 142. - Al termine di ciascun anno, gli allievi che abbiano regolarmente frequentato i corsi, dovranno superare un esame di profitto.
-
-Art. 143. - Alla fine dei due anni, gli allievi dovranno presentare una tesi scritta e sostenere un esame di diploma.
+18) Biochimica.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Napoli, addi' 20 agosto 1959
+Dato a Roma, addi' 1 aprile 1967
 
-GRONCHI
+SARAGAT
 
-MEDICI
+GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 28 settembre 1959 Atti del Governo, registro n. 120, foglio n. 162. - VILLA
+alla Corte dei conti, addi' 29 aprile 1967 Atti del Governo, registro n. 210, foglio n. 145. - GRECO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
@@ -138,77 +82,28 @@ Sulla proposta del Ministro per la pubblica istruzione;
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Panna, approvato e modificato con i decreti sopraindicati, 6 ulteriormente modificato come appresso:  
+Art. 16. - All'elenco degli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di: "Contabilita' di Stato".  
+Art. 47. - All'elenco degli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti quelli di:  
   
-Art. 27. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di "psichiatria".  
-  
-Art. 32. - Agli insegnamenti complementari del corso di laurea in scienze matematiche sono aggiunti quelli di: "matematiche elementari dal punto di vista superiore", "teoria, dei numeri", "calcoli numerici e grafici", "geometria algebrica", "meccanica superiore", "topologia", "algebrica superiore", "teoria generale delle vibrazioni", "meccanica celeste".  
-  
-Art. 39. - Agli insegnamenti complementari del corso di laurea in fisica sono aggiunti quelli di: "fisica atomica", "fisica particelle elementari", "elettronica", "fisica dei solidi".  
-  
-Art. 46. - Agli insegnamenti complementari del corso di laurea in matematica e fisica sono aggiunti quelli di: "matematiche elementari dal punto di vista superiore", "teoria dei numeri", "calcoli numerici e grafici", "geometria algebrica", "meccanica superiore", "topologia", "algebra superiore", "teoria generale delle vibrazioni", "fisica atomica", "fisica delle particelle elementari", "fisica dei solidi", "elettronica".  
-  
-Art. 57. - Agli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti quelli di: "biologia marina", "oceanografia".  
-  
-Art. 65. - Agli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti quelli di: "embriologia e morfologia sperimentale", "idrobiologia e pescicoltura", "paleontologia umana e paletnologia", "fitogeografia ed ecologia vegetale".  
-  
-Art. 69. Agli insegnamenti complementari del corso di laurea in scienze geologiche, e' aggiunto quello di "geologia stratigrafica".  
-  
-Art. 71. - E' aggiunto il seguente comma:  
-Sono obbligatori due anni di internato in geologia, al III e IV anno".  
-  
-Art. 73, relativo all'esame di laurea, l'ultimo comma e' abrogato e sostituito dal seguente:  
-"Fa parte, inoltre, dell'esame di laurea un colloquio di cultura generale nelle scienze geologiche (geologia, paleontologia, geografia, mineralogia, petrografia) da sostenere dinanzi ad una Commissione di cinque professori ufficiali della Facolta', fra cui il preside".  
-  
-Art. 75. - Agli insegnamenti complementari del corso di laurea in farmacia e' aggiunto quello di "chimica farmaceutica applicata".  
-  
-Art. 82. - All'elenco delle Scuole di specializzazione annesse alla Facolta' di medicina e chirurgia e' aggiunta quella di igiene.  
-Dopo l'art. 135, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola, di specializzazione in igiene, con il conseguente spostamento della numerazione degli articoli successivi.  
-  
-Scuola di specializzazione in igiene.  
-  
-Art. 136. - E' istituita la Scuola di specializzazione in igiene, che ha sede presso l'Istituto di igiene della Facolta' di medicina e chirurgia.  
-  
-Art. 137. - Sono ammessi i laureati in medicina e chirurgia.  
-  
-Art. 138. - L'iscrizione alla Scuola e' limitata, per ogni anno accademico, a dieci allievi.  
-  
-Art. 139. - La Scuola ha la durata di due anni.  
-  
-Art. 140. - Le materie di insegnamento sono:  
-  
-1° anno:  
-1) igiene generale e speciale (I);  
-2) batteriologia, immunologia, e microbiologia applicata all'igiene;  
-3) parassitologia;  
-4) legislazione sanitaria, statistica e demografia;  
-5) zoonosi, ispezione delle carni:  
-6) nozioni di anatomia e istologia patologica.  
-  
-2° anno:  
-1) igiene generale e speciale (II);  
-2) patologia e clinica delle malattie da infezione, da intossicazione, da carenze, ecc.;  
-3) ingegneria sanitaria;  
-4) chimica applicata all'igiene;  
-5) fisica applicata all'igiene;  
-6) geologia applicata all'igiene.  
-  
-Art. 141. - Gli allievi dovranno seguire turni di interinato, secondo gli orari stabiliti dalla Scuola, presso l'Istituto di igiene e presso l'Ufficio comunale di igiene.  
-  
-Art. 142. - Al termine di ciascun anno, gli allievi che abbiano regolarmente frequentato i corsi, dovranno superare un esame di profitto.  
-  
-Art. 143. - Alla fine dei due anni, gli allievi dovranno presentare una tesi scritta e sostenere un esame di diploma.  
+Audiologia;  
+Radiobiologia.  
+Art. 83, relativo al biennio di studi propedeutici per la laurea in Ingegneria dopo il primo comma e' inserito il seguente:  
+"Gli esami di Analisi matematica I, di Geometria I, e di Fisica I, devono precedere rispettivamente gli esami di Analisi matematica II, Geometria II, e Fisica II".  
+Art. 101. - All'elenco degli insegnamenti complementari del corso di laurea in Medicina veterinaria sono aggiunti quelli di:  
+17) Zooeconomia;  
+18) Biochimica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Napoli, addi' 20 agosto 1959
+### Dato a Roma, addi' 1 aprile 1967
 
-GRONCHI MEDICI
+SARAGAT GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 28 settembre 1959
+Registrato alla Corte dei conti, addi' 29 aprile 1967
 
-Atti del Governo, registro n. 120, foglio n. 162. - VILLA
+Atti del Governo, registro n. 210, foglio n. 145. - GRECO

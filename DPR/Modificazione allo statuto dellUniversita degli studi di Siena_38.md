@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 997
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 febbraio 1983 n. 215
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 997
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 febbraio 1983 n. 215
+===============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
@@ -24,11 +24,11 @@ Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http:
 
 Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge;
 
 Veduto il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro della pubblica istruzione:
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 --------
@@ -39,21 +39,20 @@ Articolo unico
 --------------
 
   
-Nell'art 69, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari, e' aggiunto il seguente nuovo insegnamento:  
-malattie del ricambio.  
+  
+All'art. 11, relativo al corso di laurea in scienze politiche, all'elenco degli insegnamenti complementari per entrambi gli indirizzi storico-politico e politico-amministrativo e' aggiunto il seguente nuovo insegnamento:   
+statistica sociale.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservano e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1985
+### Dato a Roma, addi' 19 febbraio 1983
 
-COSSIGA
+PERTINI FALCUCCI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: DARIDA
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 9 maggio 1983
 
-Registrato alla Corte dei conti, addi' 3 aprile 1986
-
-Registro n. 23 Istruzione, foglio n. 74
+Registro n. 32 Istruzione, foglio n. 33

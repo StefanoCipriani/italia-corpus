@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1968 n. 322
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1982 n. 810
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1968 n. 322
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1982 n. 810
+================================================================
 
 Autorizzazione al Consiglio nazionale delle ricerche ad acquistare un immobile.
 -------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-322. Decreto del Presidente della Repubblica 16 febbraio 1968, col quale, sulla proposta del Presidente del Consiglio dei Ministri, il Consiglio nazionale delle ricerche viene autorizzato ad acquistare della signora Panza Mariasofia o Maria Sofia in Bogoncelli, per il prezzo di L. 70.750.000 come da atto a rogito dottor Paolo Consolandi, notaio in Milano, in data 8 ottobre 1963, n. 10.825/4129 di rep., un immobile sito nel comune di Cinisello Balsamo (Milano), via Alberto Martini numeri 21 e 23, costituito da terreno e fabbricati industriali (formante le unita' 21 e 23 del quartiere industriale), da destinare, rispettivamente, a sede del laboratorio del centro di ricerca sulla tecnologia della propulsione e dei materiali relativi, e a sede del laboratorio del centro sperimentale per le macchine utensili.  
+810. Decreto del Presidente della Repubblica 10 settembre 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, il Consiglio nazionale delle ricerche viene autorizzato ad acquistare dai signori Angelo, Giuseppe, Rosalia, Vittoria e Guido Lamberti, come da atto preliminare di vendita 15 luglio 1981, redatto a rogito dott. Giuseppe Ramondelli, notaio in Roma, al complessivo convenuto prezzo di lire 850.000.000, un complesso immobiliare sito in Napoli, via Gramsci, 5 (gia' viale Elena n. 5), consistente in un appartamento composto di 16,5 vani catastali per una superficie totale di mq 606 circa, di un vano cantina e di un locale sottotetto, distinto nel nuovo catasto edilizio urbano alla partita 31901, sezione CHI, foglio 19, particella 160 sub 16, da destinare a sede di propri organi di ricerca.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 25 marzo 1968  
-Atti del Governo, registro n. 218, foglio n. 77. - DI PRETORO
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 28 ottobre 1982  
+Registro n. 9 Presidenza, foglio n. 373

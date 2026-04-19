@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 novembre 1951 n. 1261
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1952 n. 3489
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 novembre 1951 n. 1261
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1952 n. 3489
 ================================================================
 
 Trasferimento in proprieta' all'Ente per lo sviluppo dell'irrigazione e la trasformazione fondiaria in Puglia e Lucania - Sezione speciale per la riforma fondiaria - di terreni di proprieta' di Pavoncelli Gaetano fu Giuseppe, in comune di Cerignola (Foggia).
@@ -10,40 +10,44 @@ Trasferimento in proprieta' all'Ente per lo sviluppo dell'irrigazione e la trasf
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Visti gli [articoli 77, comma primo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77-com1), ed [87, comma quinto, della, Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5) della Repubblica;
+Visti gli [articoli 77, comma primo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77-com1) ed [87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5) della Repubblica;
 
-Viste le [leggi 12 maggio 1950, n. 230 e 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841);
+Viste le [leggi 12 maggio 1950, n. 230; 21 ottobre 1950, n. 841: 18 maggio 1951, n. 333; 2 aprile 1952, n. 339 e 16 agosto 1952, n. 1200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-08-16;1200);
 
-In virtu' della delegazione concessa dagli [articoli 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5), ed 1 e 2 della [legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841);
+In virtu' della delegazione concessa dagli [articoli 5 della legge 12 maggio 1930, n. 230 ed 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1930-05-12;1~art5) e 2 della [legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841);
 
-Visto il [decreto del Presidente della Repubblica in data 7 febbraio 1951, n. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-02-07;67);
+Visto il proprio decreto 7 febbraio 1951, n. 67;
 
-Udito il parere, in data 4 ottobre 1951, della Commissione parlamentare nominata a norma degli [articoli 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5), ed 1 e 2 della [legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841), la quale ha esaminato il piano particolareggiato di espropriazione n. 77, compilato dall'Ente per lo sviluppo dell'irrigazione e la trasformazione fondiaria in Puglia e Lucania - Sezione speciale per la riforma fondiaria - per i terreni ricadenti nel comune di Cerignola (provincia di Foggia), della superficie di Ha. 57.96.44, nei confronti di Pavoncelli Gaetano fu Giuseppe;
+Visto il piano particolareggiato di espropriazione compilato dall'Ente per lo sviluppo dell'irrigazione e la trasformazione fondiaria in Puglia e Lucania - Sezione speciale per la riforma fondiaria -, nei confronti di Pavoncelli Gaetano fu Giuseppe, per i terreni ricadenti nel comune di Cerignola (provincia di Foggia);
+
+Considerato che il sunnominato ha presentato, ai sensi dell'[art. 2 del decreto Presidenziale 30 agosto 1951, n. 951](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-30;951~art2), la documentazione per l'esclusione dall'esproprio di parte dei terreni compresi nel piano particolareggiato di espropriazione di cui sopra e che silla base degli accertamenti compiuti, ai sensi dell'[art. 10 della legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841~art10), del Ministero dell'agricoltura e delle foreste, non ricorrono tutte le condizioni richieste dal citato art. 10, per escludere dall'esproprio i terreni di cui alla documentazione sopra menzionata;
+
+Udito il parere, in data 3 dicembre 1952, espresso dalla Commissione parlamentare nominata a norma degli [articoli 5 della legge 12 maggio 1950, n. 230 ed 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;1~art5) e 2 della [legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841);
 
 Sentito il Consiglio dei Ministri;
 
 Sulla
 -----
 
-proposta del Ministro Segretario di Stato per l'agricoltura e le foreste; Decreta:
+proposta del Ministro Segretario di stato per l'agricoltura e per le foreste; Decreta:
 
 Art. 1
 ------
 
   
-E' approvato il piano particolareggiato di espropriazione n. 77, compilato dall'Ente per lo sviluppo dell'irrigazione e la trasformazione fondiaria, in Puglia e Lucania - Sezione speciale per la riforma fondiaria - per i terreni ricadenti nel comune di Cerignola (provincia di Foggia), della superficie di Ha. 57.96.44, nei confronti di Pavoncelli Gaetano fu Giuseppe.  
+E' approvato il piano particolareggiato di espropriazione compilato dall'Ente per lo sviluppo dell'irrigazione e la trasformazione fondiaria in Puglia e Lucania - Sezione speciale per la riforma fondiaria -, nei confronti di Pavoncelli Gaetano fu Giuseppe, relativo ai terreni ricadenti nel comune di Cerignola (provincia di Foggia), per una superficie di ettari 115.53.13, specificamente descritti nell'elenco n. 1 allegato al presente decreto.  
 
 Art. 2
 ------
 
   
-I terreni indicati nel precedente articolo e specificamente designati nell'elenco unito al presente decreto, sono trasferiti in proprieta' all'Ente per lo sviluppo dell'irrigazione e la trasformazione fondiaria in Puglia e Lucania. - Sezione speciale per la riforma fondiaria.  
+I terreni indicati nel precedente articolo sono trasferiti in proprieta' all'Ente per lo sviluppo dell'irrigazione e la trasformazione fondiaria in Puglia e Lucania - Sezione speciale per la riforma fondiaria.  
 
 Art. 3
 ------
 
   
-E' ordinata la immediata occupazione, da parte dell'Ente, dei terreni indicati nei precedenti articoli 1 e 2.  
+E' ordinata l'immediata occupazione, da parte dell'Ente predetto, dei terreni indicati nel precedente art. 1.  
 
 Art. 4
 ------
@@ -55,22 +59,23 @@ L'elenco dei terreni, con l'indicazione dell'indennita' di espropriazione offert
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 novembre 1951
+### Dato a Roma, addi' 27 dicembre 1952
 
 EINAUDI DE GASPERI - FANFANI
 
 Visto, il Guardasigilli: ZOLI
 
-Registrato alla Corte dei conti, addi' 26 novembre 1951
+Registrato alla Corte dei conti, addi' 15 gennaio 1953
 
-Atti del Governo, registro n. 46, foglio n. 36. - FRASCA
+Atti del Governo, registro n. 70, foglio n. 125. - PALLA
 
-Elenco
+Allegato 1
 
- COMUNE DI CERIGNOLA (Foggia)   
+ ALLEGATO N. 1   
   
-Elenco dei terreni espropriati nei confronti di Pavoncelli Gaetano fu Giuseppe a norma delle [leggi 12 maggio 1950, n. 230, 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841) e D. P. 7 febbraio 1951, n. 67   
+Elenco dei terreni intestati alla ditta Pavoncelli Gaetano fu Giuseppe, in comune di Cerignola (provincia di Foggia), trasferiti in proprieta' dell'Ente per lo sviluppo dell'irrigazione e la trasformazione fondiaria in Puglia e Lucania - Sezione speciale per la riforma fondiaria, a norma delle [leggi 12 maggio 1950, n. 230, 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841) e [decreto Presidenziale 7 febbraio 1951, n. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-02-07;67).   
   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=051U126100100010110001&dgu=1951-11-30&art.dataPubblicazioneGazzetta=1951-11-30&art.codiceRedazionale=051U1261)
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=052U348900100010110001&dgu=1953-01-19&art.dataPubblicazioneGazzetta=1953-01-19&art.codiceRedazionale=052U3489)
   

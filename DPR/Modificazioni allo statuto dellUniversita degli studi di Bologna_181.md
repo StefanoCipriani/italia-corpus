@@ -1,283 +1,71 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1968 n. 204
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1954 n. 862
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1968 n. 204
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1954 n. 862
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 25 luglio 1966, n. 602](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-07-25;602);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta, relative alla istituzione presso la facolta' di agraria del corso di laurea in scienze della produzione animale;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla
------
-
-proposta del Ministro per la pubblica istruzione; Decreta:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Presso le facolta' di agraria puo' essere istituito il corso di laurea in scienze della produzione animale.  
-Il titolo di studio per l'ammissione al predetto corso di laurea, la durata e l'ordinamento del corso medesimo sono stabiliti dalla tabella annessa al presente decreto, firmato d'ordine del Presidente della Repubblica, dal Ministro per la pubblica istruzione (allegato A).  
-All'elenco delle lauree e dei diplomi, di cui alla tabella I, annessa al [regio decreto 30 settembre 1938, numero 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e' aggiunta la "laurea in scienze della produzione animale".  
-La tabella II, annessa al citato regio decreto n. 1652 e' integrata nel senso che la facolta' di agraria rilascia anche la laurea in "scienze della produzione animale".  
-Dopo la tabella XXXI-bis, annessa al citato regio decreto n. 1652 e' inserita, assumendo il numero XXXI-ter, la tabella annessa al presente decreto.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), modificato con i [regi decreti 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-12;2227); [4 settembre 1930, n. 1312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-09-04;1312); [1 ottobre 1931, n. 1778](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1778); [27 ottobre 1932, n. 2092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2092); [6 dicembre 1934, n. 2394](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2394); [1 ottobre 1936, n. 2502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2502); [12 maggio 1939, numero 1315](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-05-12;1315); [5 ottobre 1939, n. 1644](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1644); [11 luglio 1941, n. 848](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-07-11;848); [18 luglio 1942, n. 928](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-18;928); [24 novembre 1942, n. 1595; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-11-24;1595) [16 maggio 1947, n. 694 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-05-16;694) [22 febbraio 1948, n. 414](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-02-22;414); [30 luglio 1950, numero 1269](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-07-30;1269); [31 ottobre 1950, n. 1307](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1307); [5 agosto 1951, n. 1311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-05;1311); [27 ottobre 1951, n. 1792](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1792); [3 ottobre 1952, numero 4541](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-03;4541); [11 marzo 1953, n. 545](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;545) e [12 maggio 1953, n. 547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-05-12;547);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-A decorrere dall'anno accademico 1968-69 e' istituito presso la facolta' di agraria dell'Universita' di Bologna il corso di laurea in scienze della produzione animale.  
-
-Art. 3
-------
-
+Decreta:  
   
-Lo statuto dell'universita' anzidetta, pertanto, e' ulteriormente modificato come dal testo annesso al presente decreto, firmato d'ordine del Presidente della Repubblica dal Ministro per la pubblica istruzione (allegato B).  
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Dopo l'art. 41 sono aggiunti i seguenti nuovi articoli, relativi all'istituzione della scuola di statistica, presso la Facolta' di economia e commercio, con il conseguente spostamento della numerazione degli articoli successivi:  
+  
+Scuola di statistica  
+  
+Art. 41. - Alla Facolta' di economia e commercio e' annessa la scuola di statistica che ha sede presso l'Istituto di statistica della Facolta' di economia e commercio.  
+La scuola e' diretta dal direttore dell'istituto suddetto e conferisce il diploma in statistica.  
+Art. 42. - La durata del corso degli studi per il conseguimento del diploma in statistica e' di due anni.  
+E' titolo di ammissione il diploma di maturita' classica; di maturita' scientifica; di abilitazione per i provenienti dagli Istituti tecnici commerciali, industriali, agrari, nautici e per geometri.  
+Sono insegnamenti fondamentali:  
+1. Elementi di matematica.  
+2. Statistica.  
+3. Statistica economica - corso elementare.  
+4. Statistica giudiziaria (semestrale).  
+5. Statistica sociale (semestrale).  
+6. Antropometria (semestrale).  
+7. Statistica sanitaria (semestrale).  
+8. Sociologia generale e sociologia coloniale.  
+9. Demografia.  
+10. Geografia politica ed economica.  
+Sono insegnamenti complementari:  
+1. Economia politica - corso elementare.  
+2. Biometria.  
+3. Antropologia.  
+4. Nozioni elementari di diritto privato e pubblico.  
+Gli insegnamenti semestrali di "statistica giudiziaria" e di "statistica sociale" e quelli, pure semestrali, di "statistica sanitaria" e di "antropometria" comportano rispettivamente esami unici. L'insegnamento biennale di statistica economica comporta un esame alla fine di ogni anno.  
+Gli insegnamenti complementari possono essere scelti dallo studente anche fra le altre discipline impartite nella Facolta' di economia e commercio e le discipline impartite in altre Facolta' dell'Ateneo, previa approvazione del preside della Facolta' di economia e commercio.  
+Per essere ammesso all'esame di diploma lo studente deve aver seguito i corsi e superati gli esami in tutti gli insegnamenti fondamentali e almeno in due complementari.  
+Art. 43. - Lo studente non puo' sostenere l'esame di statistica se non abbia superato l'esame di elementi di matematica; non puo' sostenere gli esami di statistica economica, anche per il primo anno, di statistica giudiziaria e sociale, di statistica sanitaria e di antropometria, di demografia, se non abbia superato l'esame di statistica. L'esame di diploma consiste nella discussione orale di una dissertazione scritta, svolta su tema approvato dal professore della materia. L'esame sara' sostenuto dai candidati di fronte ad una commissione composta di sette membri e presieduta dal direttore della scuola di statistica.  
+Art. 44. - Le tasse e soprattasse per la iscrizione e la frequenza ai corsi, e per gli esami di profitto sono pari a quelle stabilite per il primo ed il secondo corso della Facolta' di economia e commercio; i contributi di laboratorio verranno fissati annualmente dal Consiglio di amministrazione su proposta del Senato accademico, udita la Facolta' e scuola.  
+Art. 45. L'Istituto di statistica, per le materie di statistica, statistica economica, statistica giudiziaria, statistica sociale, statistica sanitaria, demografia, funziona come seminario ai sensi dell'art. 23 del regolamento generale universitario.  
+Art. 46. - I diplomati della scuola, che hanno regolarmente seguito almeno per un corso gli insegnamenti di due lingue secondo i programmi della Facolta' di economia e commercio, potranno essere ammessi al terzo corso degli studi della Facolta' stessa.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 febbraio 1968
+### Dato a S. Vincent, addi' 14 agosto 1954
 
-SARAGAT GUI
+EINAUDI MARTINO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DE PIETRO
 
-Registrato alla Corte dei conti, addi' 14 marzo 1968
+Registrato alla Corte dei conti, addi' 23 settembre 1954
 
-Atti del Governo, registro n. 218, foglio n. 18. - GRECO
-
-Allegato A
-
- ALLEGATO A   
-  
-Tabella XXXI-ter   
-  
-Laurea in scienze della produzione animale   
-  
-Durata del corso degli studi: quattro anni, divisi in due bienni.   
-Titolo di ammissione: diploma di maturita' classica o di maturita' scientifica.   
-Diploma di abilitazione per i provenienti dagli istituti tecnici agrari e per geometri.   
-  
-Insegnamenti fondamentali:   
-1° biennio   
-1) Agronomia generale e coltivazioni erbacee;   
-2) Anatomia degli animali domestici;   
-3) Botanica generale;   
-4) Chimica;   
-5) Principi di economia politica e di statistica;   
-6) Estimo rurale e contabilita';   
-7) Fisiologia degli animali domestici;   
-8) Biochimica;   
-9) Patologia generale comparata;   
-10) Zoologia generale;   
-11) Alimentazione animale;   
-12) Genetica animale e zootecnica generale.   
-  
-2° biennio   
-1) Avicoltura;   
-2) Coltivazione e conservazione dei foraggi;   
-3) Igiene veterinaria;   
-4) Industrie alimentari dei prodotti di origine animale;   
-5) Topografia e costruzioni rurali con applicazioni di disegno;   
-6) Microbiologia agraria e tecnica;   
-7) Economia e politica agraria;   
-8) Zooeconomia;   
-9) Zootecnica speciale (biennale);   
-10) Zoognostica.   
-  
-Insegnamenti complementari:   
-1) Chimica agraria;   
-2) Edilizia zootecnica (semestrale);   
-3) Entomologia agraria (semestrale);   
-4) Fisica;   
-5) Fisioclimatologia (semestrale);   
-6) Immunogenetica (semestrale);   
-7) Meccanica agraria con applicazioni di disegno;   
-8) Microbiologia dei prodotti zootecnici (semestrale);   
-9) Meccanizzazione degli impianti zootecnici;   
-10) Organizzazione del lavoro (semestrale);   
-11) Fisiopatologia della riproduzione;   
-12) Parassitologia;   
-13) Patologia vegetale (semestrale);   
-14) Tecnica mangimistica;   
-15) Legislazione zootecnica e contrattazione degli animali domestici (semestrale);   
-16) Idrobiologia. Piscicoltura (semestrale);   
-17) Matematica;   
-18) Approvvigionamenti annonari, mercati ed industrie degli alimenti di origine animale;   
-19) Igiene zootecnica;   
-20) Patologia aviare (semestrale).   
-  
-Per ottenere l'iscrizione al secondo biennio di applicazione, lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali del 1° biennio.   
-L'esame di anatomia degli animali domestici e di biochimica debbono precedere quello di fisiologia degli animali domestici.   
-L'esame di fisiologia degli animali domestici deve precedere quelli di zoognostica, zootecnica speciale, zootecnica generale, zoocolture e alimentazione animale.   
-L'esame di chimica deve precedere quello di biochimica.   
-L'esame di genetica animale e zootecnica generale deve precedere quello di zootecnica speciale.   
-Per essere ammesso all'esame di laurea in scienze della produzione animale lo studente deve aver seguito tutti i corsi e superato gli esami in tutti gli insegnamenti fondamentali del 2° biennio ed almeno in 6 complementari a corso annuale. A tale effetto due corsi complementari semestrali sono computati come corso annuale.   
-  
-Visto, d'ordine del Presidente della Repubblica   
-  
-Il Ministro per la pubblica istruzione   
-GUI   
-
-Allegato B
-
- ALLEGATO B   
-  
-Lo statuto dell'Universita' di Bologna e' modificato come segue:   
-Art. 2. - Il penultimo comma e' abrogato e sostituito dal seguente:  
-Facolta' di agraria.   
-Laurea in scienze agrarie, durata del corso 4 anni, diviso in due bienni.   
-Laurea in scienze della produzione animale, durata del corso 4 anni, diviso in due bienni.   
-  
-Art. 125. - Il primo comma e' abrogato e sostituito dal seguente: "La facolta' di agraria dopo un corso di studi di quattro anni, divisi in due bienni conferisce la laurea in scienze agrarie e la laurea di scienza della produzione animale. E' titolo di ammissione: il diploma di maturita' classica o di maturita' scientifica; ed inoltre il diploma di abilitazione degli istituti tecnici agrari e per geometri".   
-Dopo l'art. 134, e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli, contenenti l'ordinamento del corso di laurea in scienze della produzione animale, annesso alla facolta' di agraria.   
-  
-Art. 135. - Gli insegnamenti per la laurea in scienze della produzione animale sono i seguenti:   
-  
-Fondamentali del 1° biennio:   
-1) Agronomia generale e coltivazioni erbacee;   
-2) Anatomia degli animali domestici;   
-3) Botanica generale;   
-4) Chimica;   
-5) Principi di economia politica e di statistica;   
-6) Estimo rurale e contabilita';   
-7) Fisiologia degli animali domestici;   
-8) Biochimica;   
-9) Patologia generale comparata;   
-10) Zoologia generale;   
-11) Alimentazione animale;   
-12) Genetica animale e zootecnica generale.   
-  
-Fondamentali del 2° biennio:   
-1) Avicoltura;   
-2) Coltivazione e conservazione dei foraggi;   
-3) Igiene veterinaria;   
-4) Industrie alimentari dei prodotti di origine animale;   
-5) Topografia e costruzioni rurali con applicazioni di disegno;   
-6) Microbiologia agraria e tecnica;   
-7) Economia e politica agraria;   
-8) Zooeconomia;   
-9) Zootecnica speciale (biennale);   
-10) Zoognostica.   
-  
-Complementari:   
-1) Chimica agraria;   
-2) Edilizia zootecnica (semestrale);   
-3) Entomologia agraria (semestrale);   
-4) Fisica;   
-5) Fisioclimatologia (semestrale);   
-6) Immunogenetica (semestrale);   
-7) Meccanica agraria con applicazioni di disegno;   
-8) Microbiologia dei prodotti zootecnici (semestrale);   
-9) Meccanizzazione degli impianti zootecnici;   
-10) Organizzazione del lavoro (semestrale);   
-11) Fisiopatologia della riproduzione;   
-12) Parassitologia;   
-13) Patologia vegetale (semestrale);   
-14) Tecnica mangimistica;   
-15) Legislazione zootecnica e contrattazione degli animali domestici (semestrale);   
-16) Idrobiologia. Piscicoltura (semestrale);   
-17) Matematica;   
-18) Approvvigionamenti annonari, mercati ed industrie degli alimenti di origine animale;   
-19) Igiene zootecnica;   
-20) Patologia aviare (semestrale).   
-  
-Sono insegnamenti complementari in accordo al disposto dell'art. 127, comma quarto, anche quelli indicati per il corso di laurea in scienze agrarie, di cui all'art. 127.   
-Per ottenere l'iscrizione al secondo biennio di applicazione lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali del 1° biennio.   
-  
-Art. 136. - I provvedimenti relativi agli insegnamenti delle materie ed agli istituti sottoelencati, verranno adottati dalla facolta' di agraria di concerto col consiglio della facolta' di medicina veterinaria.   
-  
-Insegnamenti fondamentali:   
-1) Anatomia degli animali domestici;   
-2) Fisiologia degli animali domestici;   
-3) Biochimica;   
-4) Alimentazione animale;   
-5) Zootecnica speciale;   
-6) Genetica animale e zootecnica generale;   
-7) Igiene veterinaria;   
-8) Zoognostica.   
-  
-Insegnamenti complementari:   
-1) Microbiologia dei prodotti zootecnici (semestrale);   
-2) Fisiopatologia della riproduzione;   
-3) Parassitologia;   
-4) Approvvigionamenti annonari, mercati ed industrie degli alimenti di origine animale;   
-5) Legislazione zootecnica e contrattazione degli animali domestici (semestrale);   
-6) Patologia aviare (semestrale).   
-  
-Istituti:   
-1) Alimentazione animale;   
-2) Zootecnica speciale.   
-  
-Art. 137. - I seguenti insegnamenti oltre alle lezioni comprendono dimostrazioni pratiche ed esercizi di laboratorio, visite di istruzione ed escursioni:   
-1) Anatomia degli animali domestici;   
-2) Biochimica;   
-3) Chimica;   
-4) Agronomia generale e coltivazioni erbacee;   
-5) Microbiologia agraria e tecnica;   
-6) Economia e politica agraria;   
-7) Meccanica agraria con applicazioni di disegno;   
-8) Zootecnica generale;   
-9) Zootecnica speciale;   
-10) Avicoltura;   
-11) Alimentazione animale;   
-12) Approvvigionamenti annonari, mercati ed industrie degli alimenti di origine animale;   
-13) Topografia e costruzioni rurali con applicazioni di disegno;   
-14) Estimo rurale e contabilita';   
-15) Fisiopatologia della riproduzione;   
-16) Zooeconomia;   
-17) Coltivazione e conservazione dei foraggi:   
-18) Igiene veterinaria.   
-  
-Art. 138. - L'esame di anatomia degli animali domestici e di biochimica debbono precedere quello di fisiologia degli animali domestici.   
-L'esame di fisiologia degli animali domestici deve precedere quelli di zoognostica, zootecnica speciale, zootecnica generale, zoocolture e alimentazione animale. L'esame di chimica deve precedere quello di biochimica.   
-L'esame di genetica animale e zootecnica generale deve precedere quello di zootecnica speciale.   
-  
-Art. 139. - Modifiche agli articoli 135 e 136 saranno effettuate previa intesa con la facolta' di medicina veterinaria dello stesso ateneo.   
-  
-Art. 140. - Per essere ammesso all'esame di laurea in scienze della produzione animale lo studente deve aver seguito tutti i corsi e superato gli esami in tutti gli insegnamenti fondamentali del 2° biennio ed almeno in 6 complementari a corso annuale. A tale effetto due corsi complementari semestrali sono computati come corso annuale.   
-  
-Art. 141. - Norme comuni ad entrambi i corsi di laurea.   
-La scelta delle materie complementari sara' effettuata dallo studente in accordo con un professore di ruolo della facolta', non oltre l'inizio del secondo anno di corso; secondo uno schema predisposto dal docente al fine di indirizzare lo studente stesso verso un dato orientamento entro il quale sara' scelta la dissertazione di laurea.   
-E' ammesso il cambiamento di indirizzo, da convenirsi con altro docente di ruolo con rettifica del piano delle materie complementari.   
-Tra la data del cambiamento e quella della laurea deve decorrere un periodo di tempo che include un intero ciclo di lezioni.   
-E' ammesso il cambiamento di indirizzo, col vincolo di sostenere gli esami nelle materie complementari attinenti il nuovo indirizzo prescelto; il passaggio al nuovo indirizzo sara' quindi concordato sempre con un professore della facolta' e con opportune integrazioni di corsi.   
-  
-Art. 142. - L'insegnamento per ogni disciplina si svolge in almeno tre lezioni settimanali di un'ora ciascuno, in giorni diversi. E' in facolta' dei professori ufficiali e dei liberi docenti di trasformare un certo numero di lezioni in colloqui, conferenze, ecc.   
-  
-Art. 143. - Gli esami di profitto si danno per singoli insegnamenti. L'ammissione agli esami per gli insegnamenti che sono impartiti presso altre facolta' e' regolata dalle disposizioni in esse vigenti. Per le materie dei corsi propri della facolta' di agraria l'ammissione agli esami e' regolata dalle disposizioni stabilite dal consiglio della facolta' medesima.   
-Lo stesso consiglio puo' consentire l'ammissione degli studenti di ciascuno dei due corsi di laurea agli esami complementari dell'altro corso.   
-  
-Art. 144. - Per gli studenti provenienti da altre facolta' e scuole il consiglio stabilisce quali corsi gia' frequentati e quali esami gia' sostenuti siano da considerarsi equipollenti a quelli della facolta' di agraria e determina l'ulteriore svolgimento della carriera scolastica.   
-I giovani forniti di laurea o diploma e che aspirano al conseguimento della laurea in scienze agrarie o in scienze della produzione animale, non possono essere ammessi ad un corso superiore al secondo.   
-Per costoro il consiglio stabilisce gli insegnamenti che debbono seguire e dei quali debbono superare gli esami.   
-In ogni caso i richiedenti devono essere forniti del titolo di studio prescritto per l'iscrizione al corso di laurea.   
-  
-Art. 145. - L'esame di laurea consiste nella discussione di una dissertazione scritta svolta dal candidato su argomento scelto, d'accordo col professore della materia, in una delle discipline di indole professionale clic vengono indicate dal consiglio di facolta'.   
-La dissertazione scritta, in triplice esemplare, deve essere presentata alla segreteria della facolta' almeno un mese prima della data dell'esame di laurea.   
-  
-Visto, d'ordine del Presidente della Repubblica   
-  
-Il Ministro per la pubblica istruzione   
-GUI   
+Atti del Governo, registro n. 86, foglio n. 34. - CARLOMAGNO

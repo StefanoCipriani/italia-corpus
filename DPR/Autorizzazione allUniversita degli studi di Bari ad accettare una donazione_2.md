@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 gennaio 1955 n. 144
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1955 n. 736
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 gennaio 1955 n. 144
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1955 n. 736
+=============================================================
 
 Autorizzazione all'Universita' degli studi di Bari ad accettare una donazione.
 ------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-144. Decreto del Presidente della Repubblica 22 gennaio 1955, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Bari viene autorizzata ad accettare la donazione di L. 231.000 (duecentotrentunomila) contanti, disposta in suo favore dai professori Raffaele Resta, Riccardo Ciusa, Giuseppe Bertaccini, Giuseppe Solarino, Vincenzo Bonomo, Mario Covello e dall'avv. Franco Nitti Valentini, per l'istituzione, con la rendita del capitale donato, di un premio di studio triennale intitolato "Premio prof. Luigi Ferrannini".  
+736. Decreto del Presidente della Repubblica 30 giugno 1955, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Bari viene autorizzata ad accettare la donazione della somma di L. 100.000 (centomila) nominali, disposta dal prof. Vincenzo Ricchioni ad incremento del capitale del premio "Dott. Luigi Ricchioni".  
   
-Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 15 marzo 1955  
-Atti del Governo, registro n. 89, foglio n. 114 - CARLOMAGNO
+Visto, il Guardasigilli: MORO  
+Registrato alla Corte dei conti, addi' 11 agosto 1955  
+Atti del Governo, registro n. 92, foglio n. 66. - E. GRECO.

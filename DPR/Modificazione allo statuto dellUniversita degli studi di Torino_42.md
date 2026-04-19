@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1984 n. 1018
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1983 n. 936
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1984 n. 1018
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1983 n. 936
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Torino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto del 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -39,21 +39,19 @@ Articolo unico
 --------------
 
   
-Nell'art. 55, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
-otoneuroradiologia.  
+Nell'art. 21, relativo al corso di laurea in economia e commercio, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+economia applicata.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1984
+### Dato a Roma, addi' 17 maggio 1983
 
-PERTINI
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 30 gennaio 1985
+Registrato alla Corte dei conti, addi' 30 gennaio 1984
 
-Registro n. 4 Istruzione, foglio n. 329
+Registro n. 4 Istruzione, foglio n. 389

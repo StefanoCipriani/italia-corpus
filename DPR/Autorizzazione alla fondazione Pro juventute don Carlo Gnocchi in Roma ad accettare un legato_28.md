@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 aprile 1982 n. 458
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 novembre 1974 n. 729
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 aprile 1982 n. 458
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 novembre 1974 n. 729
+===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-458. Decreto del Presidente della Repubblica 30 aprile 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in un appartamento sito in Milano, via Pasubio n. 1, distinto nel nuovo catasto edilizio urbano alla partita 167802, foglio 311, mappale 16 sub 55, del valore attribuito con perizia di parte di L. 25.000.000, elevato dall'ufficio tecnico erariale di Milano a L. 37.800.000, disposto dal sig. Praderio Giuseppe a favore dell'istituto don Gnocchi "mutilatini", che si identificano con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale del consiglio di amministrazione della fondazione medesima in data 24 novembre 1979, con testamento olografo e codicilli vari del 30 gennaio 1979, pubblicato in data 15 ottobre 1979, n. 175410 di repertorio e n. 11555 di raccolta, a rogito dott. Pietro Villa, notaio in Milano, registrato a Milano il 19 ottobre 1979, al n. 26033.  
+729. Decreto del Presidente della Repubblica 25 novembre 1974, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 50.000.000, disposto dalla sig.ra Gemma Fragni ved. Sichirollo con testamento pubblico in data 17 febbraio 1970, n. 12 di repertorio atti ultima volonta', a rogito notar Paolo Consolandi in Milano in data 13 luglio 1972 (n. 23038/8352 di repertorio) ed ivi registrato il 14 luglio 1972 al n. A/ 2-13534-71 M - serie F.  
   
-Visto: il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 15 luglio 1982  
-Registro n. 6 Presidenza, foglio n. 369
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 16 gennaio 1975  
+Atti di Governo, registro n. 7, foglio n. 116

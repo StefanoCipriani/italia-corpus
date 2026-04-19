@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 aprile 1985 n. 345
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1982 n. 100
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 aprile 1985 n. 345
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1982 n. 100
+===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-345. Decreto del Presidente della Repubblica 17 aprile 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella quota di 1/3 di beni mobili del valore complessivo di L. 8.809.740: quota di 1/3 = L. 2.936.580, disposto dalla sig.ra Bissacco Emilia ved. Maso a favore dei "Mutilatini di don Gnocchi", che si identificano con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale del consiglio di amministrazione della fondazione in data 16 ottobre 1984, con testamento pubblico 24 febbraio 1981 redatto a rogito dott. Luigi Tassitani, notaio in Castelfranco Veneto e dallo stesso pubblicato il 3 marzo 1983 con il n. 36383 di repertorio e n. 2698 di raccolta, registrato a Castelfranco Veneto in data 10 marzo 1983 al n. 271.  
+100. Decreto del Presidente della Repubblica 8 febbraio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in un negozio sito in Milano, via G. Pascoli n. 18, distinto nel nuovo catasto edilizio urbano alla partita 64183, foglio 317, mappale 364 sub 1, del valore attribuito di L. 22.000.000 elevato dall'ufficio tecnico erariale di Milano a lire 45.750.000, disposto dalla sig.ra Lucia Ortensia Duilia Ferradini ved. Soresina con testamento olografo 30 ottobre 1972, pubblicato a rogito dott. Gaudenzio Traspadini, notaio in Milano, il 22 marzo 1979, numero 23440/3298 di repertorio, registrato a Milano in data 26 marzo 1979 al n. A/4-08039/71 MN.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 4 luglio 1985  
-Registro n. 7 Presidenza, foglio n. 98
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 20 marzo 1982  
+Registro n. 3 Presidenza, foglio n. 53

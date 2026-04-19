@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 luglio 1965 n. 1044
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 940
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 luglio 1965 n. 1044
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 940
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
@@ -12,88 +12,60 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Veduto il [decreto del Presidente della Repubblica 31 ottobre 1964, n. 1670](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1964-10-31;1670);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Riconosciuta la particolare necessita' di approvare le modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 484 - all'elenco degli insegnamenti del terzo anno di corso della scuola di specializzazione in ortopedia e traumatologia e' aggiunto quello di "bio-ingegneria dell'apparato locomotore".  
+Gli articoli 583, 584, 585, relativi alla scuola di specializzazione in malattie dell'apparato digerente, sono abrogati e sostituiti dai seguenti:  
   
-Dopo l'art. 36, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Facolta' di scienze politiche con il conseguente spostamento della numerazione degli articoli successivi.  
-Facolta' di scienze politiche  
-Art. 37. - La Facolta' di scienze politiche conferisce la laurea in scienze politiche.  
-Art. 38. - La durata del corso degli studi per la laurea in Scienze politiche e' di quattro anni.  
-E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.  
-Sono insegnamenti fondamentali:  
-1) Dottrina dello Stato;  
-2) Istituzioni di diritto privato;  
-3) Istituzioni di diritto pubblico;  
-4) Diritto amministrativo (biennale);  
-5) Diritto internazionale:  
-6) Diritto del lavoro;  
-7) Diritto costituzionale italiano e comparato;  
-8) Storia, moderna (biennale)  
-9) Storia delle dottrine politiche;  
-10) Storia ed istituzioni dei Paesi afroasiatici;  
-11) Storia dei trattati e politica internazionale;  
-12) Geografia politica ed economica;  
-13) Economia politica;  
-14) Politica economica e finanziaria;  
-15) Statistica;  
-16) Scienza delle finanze;  
-17) Istituzioni di diritto e di procedura penale.  
-Sono insegnamenti complementari  
-1) Filosofia del diritto:  
-2) Diritto pubblico comparato;  
-3) Diritto pubblico americano;  
-4) Organizzazione internazionale;  
-5) Organizzazione economica internazionale;  
-6) Storia delle istituzioni politiche;  
-7) Storia dei movimenti sindacali;  
-8) Storia delle dottrine economiche;  
-9) Storia dei movimenti e dei partiti politici;  
-10) Storia contemporanea;  
-11) Storia e istituzioni dei Paesi di lingua spagnola;  
-12) Storia e Istituzioni dei Paesi dell'Europa orientale;  
-13) Demografia;  
-14) Scienza politica;  
-15) Scienza dell'amministrazione;  
-16) Sociologia;  
-17) Sociologia del lavoro e dell'industria;  
-18) Sociologia rurale;  
-19) Psicologia;  
-20) Psicologia sociale;  
-21) Contabilita' generale e degli enti pubblici.  
-Art. 39. - Lo studente nella scelta degli insegnamenti complementari deve valersi per due di essi di quelli indicati nell'elenco degli insegnamenti stessi, e per due puo' valersi di qualsiasi altro insegnamento fondamentale o complementare, impartito nelle altre Facolta' dell'Ateneo; in quest'ultimo caso la scelta deve essere approvata dal preside della Facolta' di scienze politiche.  
-Lo studente e' inoltre tenuto a seguire i corsi ed a sostenere le prove di esame in due lingue straniere moderne. Almeno una di esse deve essere la francese, l'inglese, o la tedesca; per altra lingua e' consentita la scelta fra quelle effettivamente insegnate nelle altre Facolta' dell'Ateneo.  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e almeno in quattro complementari.  
-Art. 40. - All'inizio del 4° anno di corso lo studente deve depositare nella segreteria il titolo della dissertazione di laurea concordata con uno dei docenti della Facolta', sia che si tratti di materia fondamentale, sia che si riferisca a materia complementare tra quelle elencate all'art. 38.  
-Sulla dissertazione scritta si svolgera' una discussione atta a comprovare la capacita' del candidato. La Commissione e' composta di 11 membri, essendo relatori oltre il professore di cui sopra un altro docente di materia affine della Facolta'.  
-La discussione della tesi e' integrata da quella di una o piu' tesine concernenti materie di gruppo diverso.  
-Art. 41. - Il Consiglio di Facolta' predispone all'inizio di ogni anno accademico il piano degli studi consigliato. Lo studente puo' tuttavia con la approvazione del preside, variare tale piano.  
-Art. 42. - Coloro che sono in possesso di altra laurea o diploma di studi superiori, purche' forniti del diploma di maturita' classica o scientifica, sono ammessi dal Consiglio di Facolta', a un anno di corso da stabilirsi caso per caso.  
-In tali casi il Consiglio di Facolta' indica allo studente il piano di studi da ulteriormente seguire.  
-Art. 43. - Gli studenti per la laurea in scienze politiche non possono sostenere gli esami di Diritto amministrativo, Diritto internazionale, Diritto del lavoro, Diritto costituzionale italiano e comparato o di altro insegnamento di diritto positivo scelto in diversa Facolta', se non abbiano superato gli esami di istituzioni di Diritto privato e di istituzioni di Diritto pubblico;  
-ne' l'esame di Politica economica e finanziaria o di altro insegnamento economico finanziario scelto in diversa Facolta', se non abbiano superato l'esame di economia politica; ne' l'esame di insegnamenti statistici scelti in diversa Facolta', se non abbiano superato l'esame di statistica.  
+Scuola di specializzazione in malattie dell'apparato digerente  
+Art. 583. - La scuola di specializzazione in malattie dell'apparato digerente, conferisce il diploma in malattie dell'apparato digerente.  
+Abbreviazioni di corso potranno essere concesse, a giudizio insindacabile del consiglio della scuola, soltanto a coloro che diano dimostrazione rigorosamente documentata di avere preparazione, servizi e attivita' scientifica nel campo specifico, di riconosciuto merito e svolti in ambienti qualificati. In ogni caso l'abbreviazione di corso deve essere rigorosamente e dettagliatamente motivata dal consiglio direttivo della scuola.  
+La scuola avra' la durata di anni 4, di cui uno di tirocinio pratico.  
+Art. 584. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+anatomia patologica;  
+fisiopatologia;  
+chimica clinica;  
+semeiotica fisica e funzionale;  
+clinica medica.  
+2° Anno:  
+semeiotica fisica e strumentale;  
+semeiotica radiologica;  
+malattie del tubo digerente;  
+clinica medica.  
+3° Anno:  
+malattie del fegato e del pancreas;  
+clinica medica.  
+4° Anno:  
+tirocinio pratico da svolgersi in una clinica medica o in reparti ospedalieri.  
+A queste materie fondamentali obbligatorie potranno essere aggiunte materie complementari con corsi semestrali in numero non superiore a 6 per la totalita' del corso: farmacologia, immunologia, psicopatologia, parassitologia, dietetica.  
+Art. 585. - L'iscrizione alla scuola avviene per titoli. Nel caso che le domande superino il numero dei posti disponibili, l'ammissione avverra' per titoli ed esami.  
+Sono disponibili n. 10 (dieci) posti per ciascun anno di corso. Il numero complessivo dei posti nei tre anni di corso non dovra' essere superiore a 30.  
+Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni, le visite cliniche, gli ambulatori, nonche' di prestare, se richiesti, servizio nella clinica come medici interni, estendendo storie cliniche e praticando le ricerche di laboratorio.  
+Gli allievi che non conseguano le attestazioni sul relativo libretto non potranno essere ammessi a sostenere le prove d'esame.  
+Alla fine di ogni anno di corso gli iscritti sono tenuti a superare, per gruppi di materie, tutti gli esami relativi ai singoli insegnamenti fondamentali e complementari di ciascun anno per il passaggio all'anno successivo. Gli esami biennali (semeiotica fisica e strumentale) e triennali (clinica medica) saranno superati rispettivamente alla fine del biennio e alla fine del triennio.  
+Al termine del corso di studi per il conseguimento del diploma di specialista, i candidati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento di carattere gastroenterologico.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 luglio 1965
+### Dato a Roma, addi' 31 ottobre 1975
 
-SARAGAT GUI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 4 settembre 1965
+Registrato alla Corte dei conti, addi' 30 marzo 1976
 
-Atti del Governo, registro n. 196, foglio n. 106. - VILLA
+Atti di Governo, registro n. 4, foglio n. 49

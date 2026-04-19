@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1963 n. 1060
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 ottobre 1972 n. 744
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1963 n. 1060
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 ottobre 1972 n. 744
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
@@ -10,17 +10,15 @@ Modificazioni allo statuto dell'Universita' degli studi di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 22 maggio 1939, numero 1166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-22;1166), e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056) e successivi;
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -32,566 +30,149 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 17. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti i seguenti:
+Art. 132. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola in "Chirurgia d'urgenza e di pronto soccorso".
 
-Archivistica;
+Dopo l'art. 225 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chirurgia d'urgenza e di pronto soccorso.
 
-Storia delle dottrine politiche.
+Scuola di specializzazione in chirurgia d'urgenza e di pronto soccorso
 
-Art. 18. - Agli insegnamenti complementari del corso di laurea in Filosofia e' aggiunto quello di "Sociologia".
+Art. 226. - La scuola di specializzazione in chirurgia generale d'urgenza e di pronto soccorso ha sede presso l'istituto di chirurgia d'urgenza dell'Universita' di Milano, ospedale Policlinico, via F.
 
-Art. 30. - Agli insegnamenti complementari del corso di laurea in Fisica sono aggiunti i seguenti:
+Sforza, 33, Milano.
 
-49) Strutture nucleari;
+Art. 227. - Il corso degli studi per il conseguimento del diploma di specialista in chirurgia generale d'urgenza e di pronto soccorso ha la durata di due anni accademici.
 
-50) Tecnologie nucleari;
+Art. 228. - Alla scuola possono iscriversi: i laureati in medicina e chirurgia che abbiano superato gli esami del terzo anno della scuola di specializzazione in chirurgia e che saranno pertanto esclusi dalla prosecuzione di quest'ultima; gli specialisti in chirurgia; i docenti in branche chirurgiche a indirizzo clinico. Il numero massimo degli iscritti alla scuola e' di quindici (15) per ogni anno di corso per un totale di trenta (30) iscritti.
 
-51) Fisica sanitaria;
+Art. 229. - Le materie di insegnamento del corso sono le seguenti:
 
-52) Elettronica nucleare;
+1) Chirurgia generale d'urgenza e di pronto soccorso (biennale);
 
-53) Effetti biologici delle radiazioni.
+2) Chirurgia cardio-vascolare d'urgenza;
 
-Art. 36. - Agli insegnamenti complementari del corso di laurea in Scienze naturali e' aggiunto quello di "Paleontologia umana e paletnologia".
+3) Chirurgia ginecologica d'urgenza;
 
-Art. 40, relativo alle modalita' di esami del corso di laurea in Scienze biologiche, e' abrogato e sostituito dal seguente:
+4) Chirurgia plastica e riparatrice (biennale);
 
-"L'insegnamento biennale di Botanica comporta un esame alla fine di ogni anno: il primo sulla parte generale, il secondo sulla parte sistematica. Quelli di Zoologia e fisiologia generale comportano un solo esame alla fine del biennio.
+5) Chirurgia pediatrica d'urgenza;
 
-Non potranno sostenere gli esami di Botanica I e Chimica, biologica gli studenti che non abbiano superato gli esami di Chimica generale ed inorganica, di Chimica organica, di Fisica e di istituzioni di matematiche.
+6) Chirurgia toracica d'urgenza (biennale);
 
-Non potranno sostenere gli esami di Anatomia comparata e zoologia gli studenti che non abbiano superato gli esami di Anatomia umana, Chimica, generale ed inorganica, Chimica organica, Fisica, Istituzioni di matematiche.
+7) Chirurgia urologica d'urgenza;
 
-Non potranno sostenere l'esame di Fisiologia generale gli studenti che non abbiano superato gli esami di Anatomia umana e Chimica biologica.
+8) Fisiopatologia del politraumatizzato;
 
-Non potranno sostenere i tre esami complementari del quarto anno gli studenti che non abbiano superato tutti gli esami fondamentali".
+9) Neurotraumatologia (biennale);
 
-Art. 46. - Agli insegnamenti complementari del corso di laurea in Scienze agrarie sono aggiunti quelli di:
+10) Radiologia;
 
-"Fitoiatria" e "Virologia vegetale".
+11) Rianimazione;
 
-Art. 49, relativo alle modalita' degli esami di laurea in Scienze agrarie, e' abrogato e sostituito dal seguente:
+12) Ricerche di laboratorio in chirurgia d'urgenza;
 
-"L'esame di laurea consiste:
+13) Semeiologia chirurgica nell'urgenza;
 
-a) nella discussione di una dissertazione scritta, su un tema liberamente scelto dal candidato;
+14) Trattamento del politraumatizzato;
 
-b) nello svolgimento di una tesina su materia diversa da quella della tesi;
+15) Trattamento pre e postoperatorio in chirurgia d'urgenza;
 
-c) nella discussione intorno alle osservazioni pratiche annotate dal candidato sull'apposito libretto delle esercitazioni compiute presso l'Azienda di Landriano.
+16) Traumatologia dell'apparato locomotore (biennale);
 
-I candidati all'esame di laurea devono depositare in segreteria i titoli della dissertazione e della tesina, firmati dai professori relatori, all'atto in cui essi presentano la domanda di ammissione all'esame di laurea.
+17) Traumatologia maxillo-facciale;
 
-La dissertazione di laurea e la tesina devono essere depositate in segreteria, in triplice copia, dattilografate, almeno un mese prima della data stabilita per l'esame di laurea".
+18) Valutazione medico-legale delle lesioni chirurgiche.
 
-Art. 61, relativo ai titoli di ammissione alla Scuola di perfezionamento in filosofia, e' abrogato e sostituito dal seguente: "Alla Scuola possono iscriversi i laureati in Filosofia, nonche' i laureati di altre Facolta' per i quali pero' l'ammissione e subordinata alla approvazione della Direzione della semola.
+Art. 230. - Le materie sopra elencate sono cosi' distribuite:
 
-Dopo l'art. 82 e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della
+1° Anno:
 
-SCUOLA DI PERFEZIONAMENTO IN LINGUE E LETTERATURE
+1) Chirurgia generale d'urgenza e di pronto soccorso (biennale);
 
-STRANIERE MODERNE
+2) Chirurgia cardio-vascolare d'urgenza;
 
-Art. 83. - La Scuola di perfezionamento in lingue e letterature straniere ha lo scopo di guidare i laureati in lingue e nella ricerca scientifica, approfondendo altresi' la loro preparazione didattica.
+3) Chirurgia ginecologica d'urgenza;
 
-Art. 81. - La Scuola ha la durata di due anni. Vi si possono iscrivere i laureati in lingue e letterature straniere moderne delle Facolta' di lettere e di lingue, nonche' i laureati in Lettere che si siano laureati con una tesi di letteratura o filologia moderna.
+4) Chirurgia pediatrica d'urgenza;
 
-L'ammissione e' subordinata alla approvazione della Direzione della Scuola.
+5) Chirurgia plastica e riparatrice (biennale);
 
-Per poter essere ammessi alla Scuola, in ogni modo i candidati dovranno dar prova di saper parlare e scrivere correntemente e correttamente la lingua in cui intendono specializzarsi.
+6) Chirurgia toracica d'urgenza (biennale);
 
-Art. 85. - Gli iscritti devono seguire le lezioni, partecipare alle esercitazioni e superare gli esami nelle seguenti discipline:
+7) Neurotraumatologia (biennale);
 
-a) la lingua e letteratura moderna in cui intendono specializzarsi (esame biennale) con esercitazioni di Metodologia didattica e di storia della civilta', studiata prescelta;
+8) Ricerche di laboratorio in chirurgia d'urgenza;
 
-b) la Filologia corrispondente (esame biennale);
+9) Radiologia;
 
-c) un'altra lingua e letteratura moderna il cui insegnamento sia impartito nella Facolta' (corso annuale)
+10) Semeiologia chirurgica d'urgenza;
 
-d) un corso di storia della filosofia moderna (annuale)
+11) Traumatologia dell'apparato locomotore (biennale);
 
-e) una materia scelta da concordare col direttore dei corsi.
+12) Trattamento pre e postoperatorio in chirurgia d'urgenza.
 
-Art. 86. - Alla fine di ciascun anno di corso i candidati devono superare le seguenti prove scritte gradualmente progressive:
+2° Anno:
 
-a) un dettato;
+1) Chirurgia generale d'urgenza e di pronto soccorso (biennale);
 
-b) una traduzione dall'italiano nella lingua prescelta;
+2) Chirurgia plastica e riparatrice (biennale);
 
-c) una composizione di argomento letterario.
+3) Chirurgia toracica d'urgenza (biennale);
 
-Art. 87. - Per conseguire il diploma di perfezionamento, gli iscritti dovranno presentare una dissertazione dottorale sulla letteratura o filologia in cui si saranno specializzati, stesa interamente o in parte nella lingua straniera prescelta.
+4) Chirurgia urologica d'urgenza;
 
-La scelta del tema della tesi sara' fatta di regola allo inizio del corso di studi, d'intesa col professore della materia e col direttore della Scuola, e il candidato sara' tenuto a informare il professore che lo guida, del progresso delle sue ricerche.
+5) Neurotraumatologia (biennale);
 
-La discussione della tesi sara' fatta parte in italiano e parte nella lingua straniera, davanti ad una Commissione di sette membri, composta dal preside della Facolta', dal direttore della Scuola, dai professori delle materie seguite dal candidato e da un altro professore.
+6) Traumatologia maxillo-facciale;
 
-Art. 88. - La Scuola e' diretta da un direttore, coadiuvato da un Consiglio composto dai titolari delle discipline che sono oggetto di insegnamento.
+7) Traumatologia dell'apparato locomotore (biennale);
 
-Art. 89. - Schema dei corsi:
+8) Fisiopatologia del politraumatizzato;
 
-Francese:
+9) Trattamento del politraumatizzato;
 
-I Anno: Francese; Filologia romanza; materia a scelta;
+10) Rianimazione;
 
-II Anno: Francese; Filologia romanza; Storia della filosofia; 2ª lingua
+11) Valutazione medico-legale delle lesioni chirurgiche.
 
-Inglese:
+Art. 231. - La frequenza alle lezioni ed alle esercitazioni e ai seminari e' obbligatoria per tutti gli iscritti.
 
-I Anno: Inglese; Filologia germanica; materia a scelta;
+L'internato e' obbligatorio durante tutti i due anni del corso sotto forma di permanenza costante in istituto durante le ore della sua attivita'.
 
-II Anno: Inglese; Filologia germanica; Storia della filosofia; 2ª lingua.
+Tale internato avra' la durata annuale di almeno 6 mesi.
 
-Russo:
+Dall'obbligo di tale internato potranno essere esentati, valutato caso per caso, quegli allievi che, in qualita' di assistenti o di aiuti, prestino effettivamente servizio presso reparti di chirurgia d'urgenza e di pronto soccorso delle universita' e di ospedali generali regionali o provinciali.
 
-I Anno: Russo; Filologia slava; materia a scelta;
+Art. 232. - Alla fine del 1° anno di corso gli specializzandi, per poter ottenere l'ammissione all'anno successivo, dovranno superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno in corso.
 
-II Anno: Russo; Filologia slava; Storia della filosofia; 2ª lingua;
+Art. 233. - L'esame di diploma consiste nella discussione di una tesi scritta su un tema preventivamente approvato dal direttore della scuola.
 
-Spagnolo:
-
-I Anno: Spagnolo; Filologia romanza; materia a scelta;
-
-II Anno: Spagnolo; Filologia romanza; Storia della filosofia; 2ª lingua.
-
-Tedesco:
-
-I Anno: Tedesco; Filologia germanica; materia a scelta;
-
-I Anno: Tedesco; Filologia germanica; Storia della filosofia; 2ª lingua.
-
-Art. 141. - E' abrogato e sostituito dal seguente:
-
-"Alla Facolta' di Scienze matematiche, fisiche e naturali sono annesse le seguenti Scuole di perfezionamento:
-
-1) Scuola di perfezionamento in fisica;
-
-2) Scuola di perfezionamento in matematica;
-
-3) Scuola di perfezionamento in biologia;
-
-4) Scuola di perfezionamento in geologia applicata.
-
-la durata del corso per il conseguimento dei singoli diplomi e' di due anni. Alle Scuole di perfezionamento sono ammessi i laureati in possesso dei titoli indicati per ogni singolo diploma".
-
-Dopo gli articoli da 142 a 149 relativi alla Scuola di perfezionamento in Fisica, e con il conseguente spostamento della successiva numerazione sono inseriti i segmenti nuovi articoli relativi alle Scuole di perfezionamento in Matematica, in Biologia e in Geologia applicata.
-
-SCUOLA DI PERFEZIONAMENTO IN MATEMATICA
-
-Art. 150. - La Scuola di perfezionamento in Matematica conferisce i diplomi di "perfezionamento in Matematica" secondo i seguenti indirizzi:
-
-A) Indirizzo didattico;
-
-B) Indirizzo generale;
-
-C) Indirizzo applicativo.
-
-A) Diploma di perfezionamento in Matematica (indirizzo didattico).
-
-Al corso sono ammessi i laureati in Matematica, in Fisica, in Matematica e fisica, in Ingegneria.
-
-Insegnamenti fondamentali:
-
-1) Didattica matematica
-
-2) Critica dei principi.
-
-Insegnamenti complementari:
-
-1) Analisi
-
-2) Algebra;
-
-3) Geometria;
-
-4) Fisica matematica;
-
-5) Logica matematica;
-
-6) Storia delle matematiche.
-
-I predetti insegnamenti sono costituiti da cicli di conferenze, esercitazioni e discussioni a indirizzo didattico.
-
-Gli esami sono tutti annuali. La validita' di un anno di corso implica la frequenza, di almeno due insegnamenti e il superamento degli esami relativi.
-
-Per l'ammissione all'esame di diploma e' richiesto il superamento degli esami sugli insegnamenti fondamentali e su due degli insegnamenti complementari.
-
-L'esame di diploma consiste in una prova teorico-pratica, relativa al complesso dei corsi seguiti dallo allievo.
-
-B) Diploma di perfezionamento in Matematica (indirizzo generale).
-
-Al corso sono ammessi i laureati in Matematica, in Fisica, in Matematica e fisica, in Ingegneria che dimostrino particolari attitudini alla ricerca scientifica, in base ad un giudizio insindacabile del Comitato direttivo.
-
-Gli insegnamenti riguardano cicli di lezioni di aggiornamento relativi alle seguenti discipline:
-
-1) Analisi;
-
-2) Algebra;
-
-3) Geometria;
-
-4) Fisica matematica;
-
-5) Critica dei principi.
-
-Ogni iscritto dovra' svolgere per ogni singolo anno di corso una ricerca originale su un tema assegnato o concordato con un professore ufficiale del corso. La ammissione al secondo anno di corso implica, il superamento degli esami su almeno due degli insegnamenti sopra indicati.
-
-Il diploma sara' rilasciato dopo il superamento degli esami si quattro cieli di lezioni scelti tra quelli sopra elencati ed in seguito ad un giudizio di idoneita' dato da una Commissione, in base ai risultati delle ricerche eseguite durante il biennio di corso.
-
-C) Diploma di perfezionamento in Matematica (indirizzo applicativo).
-
-Al corso, sono ammessi i laureati in Matematica, in Fisica, in Matematica e fisica, in Ingegneria.
-
-Gli insegnamenti riguardano cicli di lezioni di aggiornamento relativi alle seguenti discipline:
-
-1) Calcoli numerici (corso superiore);
-
-2) Economia matematica;
-
-3) Ricerca operativa;
-
-4) Statistica;
-
-5) Teoria delle macchine calcolatrici;
-
-6) Teoria dei giochi.
-
-Per l'ammissione al secondo anno di corso e' richiesto
-
-Il superamento degli esami in almeno due degli insegnamenti sopra elencati.
-
-Per l'ammissione all'esame di diploma e' richiesto il superamento degli esami su quattro degli insegnamenti sopra elencati.
-
-L'esame di diploma consiste in una prova teorico pratica relativa al complesso dei corsi seguiti dallo allievo.
-
-SCUOLA DI PERFEZIONAMENTO IN BIOLOGIA
-
-Art. 151. - La Scuola di perfezionamento in Biologia conferisce il diploma di "perfezionamento in Biologia".
-
-a) ricerche biologiche;
-
-b) genetica applicata;
-
-c) biologia applicata.
-
-Nel diploma di perfezionamento conferito dalla Scuola e' fatta menzione dell'indirizzo seguito.
-
-Titolo preferenziale per l'ammissione al corso e' la laurea in Scienze biologiche; possono tuttavia essere iscritti anche laureati in Scienze naturali, Medicina e Chirurgia, Medicina veterinaria, Agraria, Farmacia. Le iscrizioni sono limitate alla disponibilita' dei posti e gli aspiranti verranno scelti in base ai titoli presentati e al risultato di un colloquio da una Commissione costituita da tre insegnanti del corso.
-
-A) Indirizzo di ricerche biologiche
-
-Gli insegnamenti sono:
-
-1) Chimica e fisica applicata alla biologia (biennale)
-
-2) Metodologia biologica (biennale);
-
-3) Problemi attuali di biologia (biennale).
-
-Gli allievi che non conoscono la lingua inglese saranno tenuti a frequentare, nel primo anno, un corso di tale lingua.
-
-I corsi 1), 2), 3), hanno indirizzo prevalentemente di seminario e di discussione. Gli allievi sono tenuti a svolgere seminari su temi assegnati.
-
-Al termine di ciascun anno gli allievi dovranno sostenere un esame di profitto sugli insegnamenti predetti. L'allievo respinto dovra' ripresentarsi l'anno successivo e, se si tratta dell'esame del secondo anno, dovra' iscriversi alla Scuola per un altro anno.
-
-Gli allievi sono tenuti alla frequenza di uno dei laboratori biologici della Facolta' di scienze. Entro il mese di marzo del primo anno sara' assegnato un tema di ricerca sperimentale. I risultati di questa ricerca saranno presentati in una tesi scritta, all'esame finale per il conseguimento del diploma.
-
-B) Indirizzo in genetica applicata.
-
-Gli insegnamenti sono:
-
-1) Genetica fondamentale;
-
-2) Citogenetica;
-
-3) Genetiche speciali;
-
-4) Produzioni di mutazioni sperimentali;
-
-5) Statistica e pianificazione degli esperimenti;
-
-6) Teoria della selezione.
-
-Saranno svolti inoltre i seminari di Genetica biochimica e di argomenti specialistici. Gli allievi che non conoscono la lingua inglese saranno tenuti a frequentare nel primo anno, un corso di tale lingua.
-
-A meta' del primo anno verra' assegnato un tema di ricerca sperimentale applicativa, che dovra' essere compiuta entro l'anno successivo.
-
-L'ammissione al secondo anno e' condizionata dal superamento di due esami. L'esame di diploma consista nella discussione dei risultati conseguiti nella tesi sperimentale.
-
-C) Indirizzo in Biologia applicata.
-
-Gli insegnamenti sono:
-
-Primo anno:
-
-1) Elementi di statistica applicata;
-
-2) Elementi di biologia degli animali di laboratorio;
-
-3) Tecniche biochimiche I (biennale)
-
-4) Tecniche microbiologiche;
-
-5) Tecniche microscopiche;
-
-Secondo anno:
-
-6) Tecniche biochimiche II;
-
-7) Titolazioni biologiche;
-
-8) Titolazioni microbiologiche;
-
-9) Test di funzionalita'.
-
-Per l'ammissione al secondo anno e' obbligatorio il superamento di almeno due esami degli insegnamenti del primo anno.
-
-L'ammissione all'esame di diploma e' subordinata al superamento degli esami di tutti i corsi sopra elencati.
-
-L'esame di diploma consiste in una prova pratica seguita da una discussione e da un esame di cultura generale.
-
-SCUOLA DI PERFEZIONAMENTO IN GEOLOGIA APPLICATA
-
-Art. 152. - La Scuola di perfezionamento in Geologia applicata conferisce il "Diploma in Geologia applicata" secondo i seguenti indirizzi:
-
-a) Geologia degli idrocarburi;
-
-b) Idrogeologia;
-
-c) Giacimenti minerari.
-
-Alla Scuola sono ammessi i laureati in Scienze geologiche, in Scienze naturali, in Ingegneria mineraria, in Ingegneria chimica, in Chimica industriale. Le iscrizioni sono limitate alle disponibilita' dei posti e gli aspiranti verranno scelti, in base ai titoli presentati (carriera scolastica, titoli scientifici e pratici, conoscenza delle lingue ecc.) e al risultato di un colloquio da una Commissione composta da tre insegnanti della Scuola.
-
-Le materie di insegnamento per i tre indirizzi sono:
-
-A) Indirizzo in "Geologia degli idrocarburi".
-
-Primo anno:
-
-1) Chimica degli idrocarburi naturali;
-
-2) Geofisica applicata alle ricerche degli idrocarburi naturali;
-
-3) Sedimentologia;
-
-4) Petrografia delle rocce sedimentarie;
-
-5) Paleontologia stratigrafica;
-
-6) Micropaleontologia;
-
-7) Stratigrafia;
-
-8) Geologia regionale;
-
-9) Fotogeologia;
-
-10) Metodi e apparecchi di perforazione;
-
-Secondo anno:
-
-11) Geochimica degli idrocarburi;
-
-12) Microfacies;
-
-13) Giacimentologia degli idrocarburi;
-
-14) Tecnica geologica di cantiere nel campo degli idrocarburi;
-
-15) Organizzazione delle ricerche di idrocarburi.
-
-B) Indirizzo in "Idrogeologia".
-
-Primo anno:
-
-1) Meteorizzazione e climatologia;
-
-2) Nozioni di chimica delle acque;
-
-3) Nozioni di idraulica;
-
-4) Idrologia;
-
-5) Geologia regionale;
-
-6) Idrogeologia generale;
-
-7) Nozioni di igiene delle acque;
-
-Secondo anno:
-
-8) Tecnica delle perforazioni;
-
-9) Geofisica applicata alle ricerche idrologiche;
-
-10) Geochimica delle acque;
-
-11) Nozioni di costruzioni idrauliche;
-
-12) Idrologia applicata.
-
-C) indirizzo in "giacimenti minerari".
-
-Primo anno:
-
-1) Analisi chimica di minerali e rocce;
-
-2) Tecniche di microscopia in luce polarizzate trasmessa;
-
-3) Microscopia in luce riflessa e tecniche micrografiche:
-
-4) Mineralogia descrittiva;
-
-5) Geologia regionale;
-
-6) Giacimentologia generale;
-
-Secondo anno:
-
-7) Arte mineraria;
-
-8) Topografia di miniera e stratimetria;
-
-9) Concentrazione meccanica e flottazione dei minerali;
-
-10) Prospezioni geochimiche e minerarie;
-
-11) Prospezioni geofisiche applicate alla ricerca di minerali metallici e non metallici;
-
-12) Giacimentologia regionale.
-
-Norme comuni ai tre indirizzi.
-
-Per l'ammissione al secondo anno e' obbligatorio il superamento di almeno due esami degli insegnamenti previsti per il primo anno del corrispondente indirizzo.
-
-Per l'ammissione all'esame di diploma lo studente dovra' superare gli esami di almeno sei insegnamenti scelti fra quelli previsti, in base ad un piano approvate dal Comitato direttivo.
-
-L'esame di diploma consiste nella discussione di una tesi scritta su un terna approvato in precedenza da un Comitato direttivo e nella dissertazione orale su un argomento prescelto dal candidato su tre proposti dalla Commissione d'esame 24 ore prima.
-
-L'esame di diploma puo' essere preceduto da una prova pratica.
-
-Gli articoli 153, 154 e 155 relativi alla Scuola di perfezionamento in coltivazioni irrigue e allevamenti zootecnici sono abrogati e sostituiti dai seguenti:
-
-SCUOLA DI SPECIALIZZAZIONE IN COLTIVAZIONI IRRIGUE
-
-Art. 153. - Alla Facolta' di agraria e' annessa la Scuola di specializzazione in coltivazioni irrigue.
-
-La durata del corso e' di due anni.
-
-Alla Scuola possono iscriversi i laureati in scienze agrarie.
-
-Le materie d'insegnamento sono:
-
-Primo anno:
-
-1) Complementi di Idraulica agraria;
-
-2) Legislazione delle acque;
-
-3) Acque da irrigazione con esercitazioni di analisi chimica;
-
-4) Coltivazioni irrigue I;
-
-5) Attrezzature da irrigazione (motori, pompe e tubazioni);
-
-6) Irrigazione a pioggia;
-
-7) Patologia delle colture da acque non idonee;
-
-Secondo anno:
-
-8) Progettazioni irrigue;
-
-9) Costruzioni idraulico-agrarie;
-
-10) Coltivazioni irrigue II;
-
-11) Consorzi di irrigazione;
-
-12) Applicazioni economico-estimative.
-
-Gli allievi, al termine di ogni anno, saranno sottoposti agli esami di profitto sulle materie di insegnamento.
-
-L'esame di diploma consiste nella discussione di una dissertazione scritta su argomento preventivamente prescelto e concordato.
-
-SCUOLA DI SPECIALIZZAZIONE IN ZOOTECNICA
-
-Art. 154. - Alla Facolta' di agraria e' annessa una Scuola di specializzazione in Zootecnica.
-
-La durata del corso e' di due anni.
-
-Alla Scuola possono iscriversi i laureati in Scienze agrarie, in Medicina veterinaria o, a giudizio della Facolta', provvisti di lauree similari.
-
-Gli allievi hanno l'obbligo della frequenza alle lezioni ed alle esercitazioni, nonche' di partecipare alle visite ed ai sopralluoghi tecnici in Italia ed in altri Paesi.
-
-Le materie di insegnamento sono:
-
-Primo anno:
-
-1) Etnologia ed Etnografia I;
-
-2) Miglioramento delle popolazioni degli animali domestici I;
-
-3) Dottrina dell'alimentazione degli animali domestici;
-
-4) Legislazione zootecnica;
-
-5) Economia zootecnica;
-
-6) Industria mangimistica;
-
-Secondo anno:
-
-7) Etnologia ed etnografia II;
-
-8) Miglioramento delle popolazioni degli animali domestici II;
-
-9) Tecnica di allevamento degli animali domestici;
-
-10) Razionamento degli animali domestici;
-
-11) Igiene zootecnica e profilassi delle malattie;
-
-12) Tecnica commerciale e indagini di mercato;
-
-13) Organizzazione degli allevatori.
-
-Gli allievi, al termine di ogni anno, saranno sottoposti all'esame di profitto sulle materie di insegnamento. Alla fine del secondo anno, dovranno inoltre superare favorevolmente le prove finali che consistono in un esame scritto, in un esame pratico ed in un esame orale.
-
-L'esame di diploma consiste nella discussione di una dissertazione scritta su argomento preventivamente prescelto e concordato.
-
-Art. 155. - Il direttore della Scuola di specializzazione in coltivazioni irrigue puo' essere il titolare della cattedra di Agronomia generale e coltivazioni erbacee oppure quello di Idraulica agraria; il direttore della Scuola di specializzazione in Zootecnica e' il titolare della cattedra di Zootecnica generale. Ciascun direttore e' assistito da una Commissione di due professori ordinario delegati dal Consiglio della Facolta' di Scienze agrarie. Il direttore della Scuola stabilisce l'ordine e gli orari delle lezioni e delle esercitazioni e decide su tutte le altre modalita' didattiche atte ad assicurare la migliore preparazione degli allievi.
-
-L'ammissione a ciascuna delle Scuole e' limitata ad un massimo di trenta allievi per ciascun anno di corso;
-
-Il Consiglio della Facolta' di Scienze agrarie fissa i criteri per l'accettazione delle domande di ammissione.
+Le norme per l'iscrizione, gli esami, le tasse, ecc. sono quelle generali per la scuola di specializzazione della Universita' di Milano.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 30 giugno 1963
+Dato a Roma, addi' 17 ottobre 1972
 
-SEGNI
+LEONE
 
-GUI
+SCALFARO
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 23 agosto 1963 Atti del Governo, registro n. 173, foglio n. 104. - VILLA
+alla Corte dei conti, addi' 29 novembre 1972 Atti del Governo, registro n. 253, foglio n. 93. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 22 maggio 1939, numero 1166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-22;1166), e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -599,296 +180,78 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 17. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti i seguenti:  
-Archivistica;  
-Storia delle dottrine politiche.  
-Art. 18. - Agli insegnamenti complementari del corso di laurea in Filosofia e' aggiunto quello di "Sociologia".  
-Art. 30. - Agli insegnamenti complementari del corso di laurea in Fisica sono aggiunti i seguenti:  
-49) Strutture nucleari;  
-50) Tecnologie nucleari;  
-51) Fisica sanitaria;  
-52) Elettronica nucleare;  
-53) Effetti biologici delle radiazioni.  
-Art. 36. - Agli insegnamenti complementari del corso di laurea in Scienze naturali e' aggiunto quello di "Paleontologia umana e paletnologia".  
-Art. 40, relativo alle modalita' di esami del corso di laurea in Scienze biologiche, e' abrogato e sostituito dal seguente:  
-"L'insegnamento biennale di Botanica comporta un esame alla fine di ogni anno: il primo sulla parte generale, il secondo sulla parte sistematica. Quelli di Zoologia e fisiologia generale comportano un solo esame alla fine del biennio.  
-Non potranno sostenere gli esami di Botanica I e Chimica, biologica gli studenti che non abbiano superato gli esami di Chimica generale ed inorganica, di Chimica organica, di Fisica e di istituzioni di matematiche.  
-Non potranno sostenere gli esami di Anatomia comparata e zoologia gli studenti che non abbiano superato gli esami di Anatomia umana, Chimica, generale ed inorganica, Chimica organica, Fisica, Istituzioni di matematiche.  
-Non potranno sostenere l'esame di Fisiologia generale gli studenti che non abbiano superato gli esami di Anatomia umana e Chimica biologica.  
-Non potranno sostenere i tre esami complementari del quarto anno gli studenti che non abbiano superato tutti gli esami fondamentali".  
-Art. 46. - Agli insegnamenti complementari del corso di laurea in Scienze agrarie sono aggiunti quelli di:  
-"Fitoiatria" e "Virologia vegetale".  
-Art. 49, relativo alle modalita' degli esami di laurea in Scienze agrarie, e' abrogato e sostituito dal seguente:  
-"L'esame di laurea consiste:  
-a) nella discussione di una dissertazione scritta, su un tema liberamente scelto dal candidato;  
-b) nello svolgimento di una tesina su materia diversa da quella della tesi;  
-c) nella discussione intorno alle osservazioni pratiche annotate dal candidato sull'apposito libretto delle esercitazioni compiute presso l'Azienda di Landriano.  
-I candidati all'esame di laurea devono depositare in segreteria i titoli della dissertazione e della tesina, firmati dai professori relatori, all'atto in cui essi presentano la domanda di ammissione all'esame di laurea.  
-La dissertazione di laurea e la tesina devono essere depositate in segreteria, in triplice copia, dattilografate, almeno un mese prima della data stabilita per l'esame di laurea".  
-Art. 61, relativo ai titoli di ammissione alla Scuola di perfezionamento in filosofia, e' abrogato e sostituito dal seguente: "Alla Scuola possono iscriversi i laureati in Filosofia, nonche' i laureati di altre Facolta' per i quali pero' l'ammissione e subordinata alla approvazione della Direzione della semola.  
-Dopo l'art. 82 e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della  
+Art. 132. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola in "Chirurgia d'urgenza e di pronto soccorso".  
+Dopo l'art. 225 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chirurgia d'urgenza e di pronto soccorso.  
   
-SCUOLA DI PERFEZIONAMENTO IN LINGUE E LETTERATURE  
-STRANIERE MODERNE  
+Scuola di specializzazione in chirurgia d'urgenza e di pronto soccorso  
   
-Art. 83. - La Scuola di perfezionamento in lingue e letterature straniere ha lo scopo di guidare i laureati in lingue e nella ricerca scientifica, approfondendo altresi' la loro preparazione didattica.  
-Art. 81. - La Scuola ha la durata di due anni. Vi si possono iscrivere i laureati in lingue e letterature straniere moderne delle Facolta' di lettere e di lingue, nonche' i laureati in Lettere che si siano laureati con una tesi di letteratura o filologia moderna.  
-L'ammissione e' subordinata alla approvazione della Direzione della Scuola.  
-Per poter essere ammessi alla Scuola, in ogni modo i candidati dovranno dar prova di saper parlare e scrivere correntemente e correttamente la lingua in cui intendono specializzarsi.  
-Art. 85. - Gli iscritti devono seguire le lezioni, partecipare alle esercitazioni e superare gli esami nelle seguenti discipline:  
-a) la lingua e letteratura moderna in cui intendono specializzarsi (esame biennale) con esercitazioni di Metodologia didattica e di storia della civilta', studiata prescelta;  
-b) la Filologia corrispondente (esame biennale);  
-c) un'altra lingua e letteratura moderna il cui insegnamento sia impartito nella Facolta' (corso annuale)  
-d) un corso di storia della filosofia moderna (annuale)  
-e) una materia scelta da concordare col direttore dei corsi.  
-Art. 86. - Alla fine di ciascun anno di corso i candidati devono superare le seguenti prove scritte gradualmente progressive:  
-a) un dettato;  
-b) una traduzione dall'italiano nella lingua prescelta;  
-c) una composizione di argomento letterario.  
-Art. 87. - Per conseguire il diploma di perfezionamento, gli iscritti dovranno presentare una dissertazione dottorale sulla letteratura o filologia in cui si saranno specializzati, stesa interamente o in parte nella lingua straniera prescelta.  
-La scelta del tema della tesi sara' fatta di regola allo inizio del corso di studi, d'intesa col professore della materia e col direttore della Scuola, e il candidato sara' tenuto a informare il professore che lo guida, del progresso delle sue ricerche.  
-La discussione della tesi sara' fatta parte in italiano e parte nella lingua straniera, davanti ad una Commissione di sette membri, composta dal preside della Facolta', dal direttore della Scuola, dai professori delle materie seguite dal candidato e da un altro professore.  
-Art. 88. - La Scuola e' diretta da un direttore, coadiuvato da un Consiglio composto dai titolari delle discipline che sono oggetto di insegnamento.  
-Art. 89. - Schema dei corsi:  
-Francese:  
-I Anno: Francese; Filologia romanza; materia a scelta;  
-II Anno: Francese; Filologia romanza; Storia della filosofia; 2ª lingua  
-Inglese:  
-I Anno: Inglese; Filologia germanica; materia a scelta;  
-II Anno: Inglese; Filologia germanica; Storia della filosofia; 2ª lingua.  
-Russo:  
-I Anno: Russo; Filologia slava; materia a scelta;  
-II Anno: Russo; Filologia slava; Storia della filosofia; 2ª lingua;  
-Spagnolo:  
-I Anno: Spagnolo; Filologia romanza; materia a scelta;  
-II Anno: Spagnolo; Filologia romanza; Storia della filosofia; 2ª lingua.  
-Tedesco:  
-I Anno: Tedesco; Filologia germanica; materia a scelta;  
-I Anno: Tedesco; Filologia germanica; Storia della filosofia; 2ª lingua.  
-Art. 141. - E' abrogato e sostituito dal seguente:  
-"Alla Facolta' di Scienze matematiche, fisiche e naturali sono annesse le seguenti Scuole di perfezionamento:  
-1) Scuola di perfezionamento in fisica;  
-2) Scuola di perfezionamento in matematica;  
-3) Scuola di perfezionamento in biologia;  
-4) Scuola di perfezionamento in geologia applicata.  
-la durata del corso per il conseguimento dei singoli diplomi e' di due anni. Alle Scuole di perfezionamento sono ammessi i laureati in possesso dei titoli indicati per ogni singolo diploma".  
-Dopo gli articoli da 142 a 149 relativi alla Scuola di perfezionamento in Fisica, e con il conseguente spostamento della successiva numerazione sono inseriti i segmenti nuovi articoli relativi alle Scuole di perfezionamento in Matematica, in Biologia e in Geologia applicata.  
-  
-SCUOLA DI PERFEZIONAMENTO IN MATEMATICA  
-  
-Art. 150. - La Scuola di perfezionamento in Matematica conferisce i diplomi di "perfezionamento in Matematica" secondo i seguenti indirizzi:  
-A) Indirizzo didattico;  
-B) Indirizzo generale;  
-C) Indirizzo applicativo.  
-A) Diploma di perfezionamento in Matematica (indirizzo didattico).  
-Al corso sono ammessi i laureati in Matematica, in Fisica, in Matematica e fisica, in Ingegneria.  
-Insegnamenti fondamentali:  
-1) Didattica matematica  
-2) Critica dei principi.  
-Insegnamenti complementari:  
-1) Analisi  
-2) Algebra;  
-3) Geometria;  
-4) Fisica matematica;  
-5) Logica matematica;  
-6) Storia delle matematiche.  
-I predetti insegnamenti sono costituiti da cicli di conferenze, esercitazioni e discussioni a indirizzo didattico.  
-Gli esami sono tutti annuali. La validita' di un anno di corso implica la frequenza, di almeno due insegnamenti e il superamento degli esami relativi.  
-Per l'ammissione all'esame di diploma e' richiesto il superamento degli esami sugli insegnamenti fondamentali e su due degli insegnamenti complementari.  
-L'esame di diploma consiste in una prova teorico-pratica, relativa al complesso dei corsi seguiti dallo allievo.  
-B) Diploma di perfezionamento in Matematica (indirizzo generale).  
-Al corso sono ammessi i laureati in Matematica, in Fisica, in Matematica e fisica, in Ingegneria che dimostrino particolari attitudini alla ricerca scientifica, in base ad un giudizio insindacabile del Comitato direttivo.  
-Gli insegnamenti riguardano cicli di lezioni di aggiornamento relativi alle seguenti discipline:  
-1) Analisi;  
-2) Algebra;  
-3) Geometria;  
-4) Fisica matematica;  
-5) Critica dei principi.  
-Ogni iscritto dovra' svolgere per ogni singolo anno di corso una ricerca originale su un tema assegnato o concordato con un professore ufficiale del corso. La ammissione al secondo anno di corso implica, il superamento degli esami su almeno due degli insegnamenti sopra indicati.  
-Il diploma sara' rilasciato dopo il superamento degli esami si quattro cieli di lezioni scelti tra quelli sopra elencati ed in seguito ad un giudizio di idoneita' dato da una Commissione, in base ai risultati delle ricerche eseguite durante il biennio di corso.  
-C) Diploma di perfezionamento in Matematica (indirizzo applicativo).  
-Al corso, sono ammessi i laureati in Matematica, in Fisica, in Matematica e fisica, in Ingegneria.  
-Gli insegnamenti riguardano cicli di lezioni di aggiornamento relativi alle seguenti discipline:  
-1) Calcoli numerici (corso superiore);  
-2) Economia matematica;  
-3) Ricerca operativa;  
-4) Statistica;  
-5) Teoria delle macchine calcolatrici;  
-6) Teoria dei giochi.  
-Per l'ammissione al secondo anno di corso e' richiesto  
-Il superamento degli esami in almeno due degli insegnamenti sopra elencati.  
-Per l'ammissione all'esame di diploma e' richiesto il superamento degli esami su quattro degli insegnamenti sopra elencati.  
-L'esame di diploma consiste in una prova teorico pratica relativa al complesso dei corsi seguiti dallo allievo.  
-  
-SCUOLA DI PERFEZIONAMENTO IN BIOLOGIA  
-  
-Art. 151. - La Scuola di perfezionamento in Biologia conferisce il diploma di "perfezionamento in Biologia".  
-a) ricerche biologiche;  
-b) genetica applicata;  
-c) biologia applicata.  
-Nel diploma di perfezionamento conferito dalla Scuola e' fatta menzione dell'indirizzo seguito.  
-Titolo preferenziale per l'ammissione al corso e' la laurea in Scienze biologiche; possono tuttavia essere iscritti anche laureati in Scienze naturali, Medicina e Chirurgia, Medicina veterinaria, Agraria, Farmacia. Le iscrizioni sono limitate alla disponibilita' dei posti e gli aspiranti verranno scelti in base ai titoli presentati e al risultato di un colloquio da una Commissione costituita da tre insegnanti del corso.  
-A) Indirizzo di ricerche biologiche  
-Gli insegnamenti sono:  
-1) Chimica e fisica applicata alla biologia (biennale)  
-2) Metodologia biologica (biennale);  
-3) Problemi attuali di biologia (biennale).  
-Gli allievi che non conoscono la lingua inglese saranno tenuti a frequentare, nel primo anno, un corso di tale lingua.  
-I corsi 1), 2), 3), hanno indirizzo prevalentemente di seminario e di discussione. Gli allievi sono tenuti a svolgere seminari su temi assegnati.  
-Al termine di ciascun anno gli allievi dovranno sostenere un esame di profitto sugli insegnamenti predetti. L'allievo respinto dovra' ripresentarsi l'anno successivo e, se si tratta dell'esame del secondo anno, dovra' iscriversi alla Scuola per un altro anno.  
-Gli allievi sono tenuti alla frequenza di uno dei laboratori biologici della Facolta' di scienze. Entro il mese di marzo del primo anno sara' assegnato un tema di ricerca sperimentale. I risultati di questa ricerca saranno presentati in una tesi scritta, all'esame finale per il conseguimento del diploma.  
-B) Indirizzo in genetica applicata.  
-Gli insegnamenti sono:  
-1) Genetica fondamentale;  
-2) Citogenetica;  
-3) Genetiche speciali;  
-4) Produzioni di mutazioni sperimentali;  
-5) Statistica e pianificazione degli esperimenti;  
-6) Teoria della selezione.  
-Saranno svolti inoltre i seminari di Genetica biochimica e di argomenti specialistici. Gli allievi che non conoscono la lingua inglese saranno tenuti a frequentare nel primo anno, un corso di tale lingua.  
-A meta' del primo anno verra' assegnato un tema di ricerca sperimentale applicativa, che dovra' essere compiuta entro l'anno successivo.  
-L'ammissione al secondo anno e' condizionata dal superamento di due esami. L'esame di diploma consista nella discussione dei risultati conseguiti nella tesi sperimentale.  
-C) Indirizzo in Biologia applicata.  
-Gli insegnamenti sono:  
-Primo anno:  
-1) Elementi di statistica applicata;  
-2) Elementi di biologia degli animali di laboratorio;  
-3) Tecniche biochimiche I (biennale)  
-4) Tecniche microbiologiche;  
-5) Tecniche microscopiche;  
-Secondo anno:  
-6) Tecniche biochimiche II;  
-7) Titolazioni biologiche;  
-8) Titolazioni microbiologiche;  
-9) Test di funzionalita'.  
-Per l'ammissione al secondo anno e' obbligatorio il superamento di almeno due esami degli insegnamenti del primo anno.  
-L'ammissione all'esame di diploma e' subordinata al superamento degli esami di tutti i corsi sopra elencati.  
-L'esame di diploma consiste in una prova pratica seguita da una discussione e da un esame di cultura generale.  
-  
-SCUOLA DI PERFEZIONAMENTO IN GEOLOGIA APPLICATA  
-  
-Art. 152. - La Scuola di perfezionamento in Geologia applicata conferisce il "Diploma in Geologia applicata" secondo i seguenti indirizzi:  
-a) Geologia degli idrocarburi;  
-b) Idrogeologia;  
-c) Giacimenti minerari.  
-Alla Scuola sono ammessi i laureati in Scienze geologiche, in Scienze naturali, in Ingegneria mineraria, in Ingegneria chimica, in Chimica industriale. Le iscrizioni sono limitate alle disponibilita' dei posti e gli aspiranti verranno scelti, in base ai titoli presentati (carriera scolastica, titoli scientifici e pratici, conoscenza delle lingue ecc.) e al risultato di un colloquio da una Commissione composta da tre insegnanti della Scuola.  
-Le materie di insegnamento per i tre indirizzi sono:  
-A) Indirizzo in "Geologia degli idrocarburi".  
-Primo anno:  
-1) Chimica degli idrocarburi naturali;  
-2) Geofisica applicata alle ricerche degli idrocarburi naturali;  
-3) Sedimentologia;  
-4) Petrografia delle rocce sedimentarie;  
-5) Paleontologia stratigrafica;  
-6) Micropaleontologia;  
-7) Stratigrafia;  
-8) Geologia regionale;  
-9) Fotogeologia;  
-10) Metodi e apparecchi di perforazione;  
-Secondo anno:  
-11) Geochimica degli idrocarburi;  
-12) Microfacies;  
-13) Giacimentologia degli idrocarburi;  
-14) Tecnica geologica di cantiere nel campo degli idrocarburi;  
-15) Organizzazione delle ricerche di idrocarburi.  
-B) Indirizzo in "Idrogeologia".  
-Primo anno:  
-1) Meteorizzazione e climatologia;  
-2) Nozioni di chimica delle acque;  
-3) Nozioni di idraulica;  
-4) Idrologia;  
-5) Geologia regionale;  
-6) Idrogeologia generale;  
-7) Nozioni di igiene delle acque;  
-Secondo anno:  
-8) Tecnica delle perforazioni;  
-9) Geofisica applicata alle ricerche idrologiche;  
-10) Geochimica delle acque;  
-11) Nozioni di costruzioni idrauliche;  
-12) Idrologia applicata.  
-C) indirizzo in "giacimenti minerari".  
-Primo anno:  
-1) Analisi chimica di minerali e rocce;  
-2) Tecniche di microscopia in luce polarizzate trasmessa;  
-3) Microscopia in luce riflessa e tecniche micrografiche:  
-4) Mineralogia descrittiva;  
-5) Geologia regionale;  
-6) Giacimentologia generale;  
-Secondo anno:  
-7) Arte mineraria;  
-8) Topografia di miniera e stratimetria;  
-9) Concentrazione meccanica e flottazione dei minerali;  
-10) Prospezioni geochimiche e minerarie;  
-11) Prospezioni geofisiche applicate alla ricerca di minerali metallici e non metallici;  
-12) Giacimentologia regionale.  
-Norme comuni ai tre indirizzi.  
-Per l'ammissione al secondo anno e' obbligatorio il superamento di almeno due esami degli insegnamenti previsti per il primo anno del corrispondente indirizzo.  
-Per l'ammissione all'esame di diploma lo studente dovra' superare gli esami di almeno sei insegnamenti scelti fra quelli previsti, in base ad un piano approvate dal Comitato direttivo.  
-L'esame di diploma consiste nella discussione di una tesi scritta su un terna approvato in precedenza da un Comitato direttivo e nella dissertazione orale su un argomento prescelto dal candidato su tre proposti dalla Commissione d'esame 24 ore prima.  
-L'esame di diploma puo' essere preceduto da una prova pratica.  
-Gli articoli 153, 154 e 155 relativi alla Scuola di perfezionamento in coltivazioni irrigue e allevamenti zootecnici sono abrogati e sostituiti dai seguenti:  
-  
-SCUOLA DI SPECIALIZZAZIONE IN COLTIVAZIONI IRRIGUE  
-  
-Art. 153. - Alla Facolta' di agraria e' annessa la Scuola di specializzazione in coltivazioni irrigue.  
-La durata del corso e' di due anni.  
-Alla Scuola possono iscriversi i laureati in scienze agrarie.  
-Le materie d'insegnamento sono:  
-Primo anno:  
-1) Complementi di Idraulica agraria;  
-2) Legislazione delle acque;  
-3) Acque da irrigazione con esercitazioni di analisi chimica;  
-4) Coltivazioni irrigue I;  
-5) Attrezzature da irrigazione (motori, pompe e tubazioni);  
-6) Irrigazione a pioggia;  
-7) Patologia delle colture da acque non idonee;  
-Secondo anno:  
-8) Progettazioni irrigue;  
-9) Costruzioni idraulico-agrarie;  
-10) Coltivazioni irrigue II;  
-11) Consorzi di irrigazione;  
-12) Applicazioni economico-estimative.  
-Gli allievi, al termine di ogni anno, saranno sottoposti agli esami di profitto sulle materie di insegnamento.  
-L'esame di diploma consiste nella discussione di una dissertazione scritta su argomento preventivamente prescelto e concordato.  
-  
-SCUOLA DI SPECIALIZZAZIONE IN ZOOTECNICA  
-  
-Art. 154. - Alla Facolta' di agraria e' annessa una Scuola di specializzazione in Zootecnica.  
-La durata del corso e' di due anni.  
-Alla Scuola possono iscriversi i laureati in Scienze agrarie, in Medicina veterinaria o, a giudizio della Facolta', provvisti di lauree similari.  
-Gli allievi hanno l'obbligo della frequenza alle lezioni ed alle esercitazioni, nonche' di partecipare alle visite ed ai sopralluoghi tecnici in Italia ed in altri Paesi.  
-Le materie di insegnamento sono:  
-Primo anno:  
-1) Etnologia ed Etnografia I;  
-2) Miglioramento delle popolazioni degli animali domestici I;  
-3) Dottrina dell'alimentazione degli animali domestici;  
-4) Legislazione zootecnica;  
-5) Economia zootecnica;  
-6) Industria mangimistica;  
-Secondo anno:  
-7) Etnologia ed etnografia II;  
-8) Miglioramento delle popolazioni degli animali domestici II;  
-9) Tecnica di allevamento degli animali domestici;  
-10) Razionamento degli animali domestici;  
-11) Igiene zootecnica e profilassi delle malattie;  
-12) Tecnica commerciale e indagini di mercato;  
-13) Organizzazione degli allevatori.  
-Gli allievi, al termine di ogni anno, saranno sottoposti all'esame di profitto sulle materie di insegnamento. Alla fine del secondo anno, dovranno inoltre superare favorevolmente le prove finali che consistono in un esame scritto, in un esame pratico ed in un esame orale.  
-L'esame di diploma consiste nella discussione di una dissertazione scritta su argomento preventivamente prescelto e concordato.  
-Art. 155. - Il direttore della Scuola di specializzazione in coltivazioni irrigue puo' essere il titolare della cattedra di Agronomia generale e coltivazioni erbacee oppure quello di Idraulica agraria; il direttore della Scuola di specializzazione in Zootecnica e' il titolare della cattedra di Zootecnica generale. Ciascun direttore e' assistito da una Commissione di due professori ordinario delegati dal Consiglio della Facolta' di Scienze agrarie. Il direttore della Scuola stabilisce l'ordine e gli orari delle lezioni e delle esercitazioni e decide su tutte le altre modalita' didattiche atte ad assicurare la migliore preparazione degli allievi.  
-L'ammissione a ciascuna delle Scuole e' limitata ad un massimo di trenta allievi per ciascun anno di corso;  
-Il Consiglio della Facolta' di Scienze agrarie fissa i criteri per l'accettazione delle domande di ammissione.  
+Art. 226. - La scuola di specializzazione in chirurgia generale d'urgenza e di pronto soccorso ha sede presso l'istituto di chirurgia d'urgenza dell'Universita' di Milano, ospedale Policlinico, via F.  
+Sforza, 33, Milano.  
+Art. 227. - Il corso degli studi per il conseguimento del diploma di specialista in chirurgia generale d'urgenza e di pronto soccorso ha la durata di due anni accademici.  
+Art. 228. - Alla scuola possono iscriversi: i laureati in medicina e chirurgia che abbiano superato gli esami del terzo anno della scuola di specializzazione in chirurgia e che saranno pertanto esclusi dalla prosecuzione di quest'ultima; gli specialisti in chirurgia; i docenti in branche chirurgiche a indirizzo clinico. Il numero massimo degli iscritti alla scuola e' di quindici (15) per ogni anno di corso per un totale di trenta (30) iscritti.  
+Art. 229. - Le materie di insegnamento del corso sono le seguenti:  
+1) Chirurgia generale d'urgenza e di pronto soccorso (biennale);  
+2) Chirurgia cardio-vascolare d'urgenza;  
+3) Chirurgia ginecologica d'urgenza;  
+4) Chirurgia plastica e riparatrice (biennale);  
+5) Chirurgia pediatrica d'urgenza;  
+6) Chirurgia toracica d'urgenza (biennale);  
+7) Chirurgia urologica d'urgenza;  
+8) Fisiopatologia del politraumatizzato;  
+9) Neurotraumatologia (biennale);  
+10) Radiologia;  
+11) Rianimazione;  
+12) Ricerche di laboratorio in chirurgia d'urgenza;  
+13) Semeiologia chirurgica nell'urgenza;  
+14) Trattamento del politraumatizzato;  
+15) Trattamento pre e postoperatorio in chirurgia d'urgenza;  
+16) Traumatologia dell'apparato locomotore (biennale);  
+17) Traumatologia maxillo-facciale;  
+18) Valutazione medico-legale delle lesioni chirurgiche.  
+Art. 230. - Le materie sopra elencate sono cosi' distribuite:  
+1° Anno:  
+1) Chirurgia generale d'urgenza e di pronto soccorso (biennale);  
+2) Chirurgia cardio-vascolare d'urgenza;  
+3) Chirurgia ginecologica d'urgenza;  
+4) Chirurgia pediatrica d'urgenza;  
+5) Chirurgia plastica e riparatrice (biennale);  
+6) Chirurgia toracica d'urgenza (biennale);  
+7) Neurotraumatologia (biennale);  
+8) Ricerche di laboratorio in chirurgia d'urgenza;  
+9) Radiologia;  
+10) Semeiologia chirurgica d'urgenza;  
+11) Traumatologia dell'apparato locomotore (biennale);  
+12) Trattamento pre e postoperatorio in chirurgia d'urgenza.  
+2° Anno:  
+1) Chirurgia generale d'urgenza e di pronto soccorso (biennale);  
+2) Chirurgia plastica e riparatrice (biennale);  
+3) Chirurgia toracica d'urgenza (biennale);  
+4) Chirurgia urologica d'urgenza;  
+5) Neurotraumatologia (biennale);  
+6) Traumatologia maxillo-facciale;  
+7) Traumatologia dell'apparato locomotore (biennale);  
+8) Fisiopatologia del politraumatizzato;  
+9) Trattamento del politraumatizzato;  
+10) Rianimazione;  
+11) Valutazione medico-legale delle lesioni chirurgiche.  
+Art. 231. - La frequenza alle lezioni ed alle esercitazioni e ai seminari e' obbligatoria per tutti gli iscritti.  
+L'internato e' obbligatorio durante tutti i due anni del corso sotto forma di permanenza costante in istituto durante le ore della sua attivita'.  
+Tale internato avra' la durata annuale di almeno 6 mesi.  
+Dall'obbligo di tale internato potranno essere esentati, valutato caso per caso, quegli allievi che, in qualita' di assistenti o di aiuti, prestino effettivamente servizio presso reparti di chirurgia d'urgenza e di pronto soccorso delle universita' e di ospedali generali regionali o provinciali.  
+Art. 232. - Alla fine del 1° anno di corso gli specializzandi, per poter ottenere l'ammissione all'anno successivo, dovranno superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno in corso.  
+Art. 233. - L'esame di diploma consiste nella discussione di una tesi scritta su un tema preventivamente approvato dal direttore della scuola.  
+Le norme per l'iscrizione, gli esami, le tasse, ecc. sono quelle generali per la scuola di specializzazione della Universita' di Milano.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 giugno 1963
+### Dato a Roma, addi' 17 ottobre 1972
 
-SEGNI GUI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 23 agosto 1963
+Registrato alla Corte dei conti, addi' 29 novembre 1972
 
-Atti del Governo, registro n. 173, foglio n. 104. - VILLA
+Atti del Governo, registro n. 253, foglio n. 93. - CARUSO

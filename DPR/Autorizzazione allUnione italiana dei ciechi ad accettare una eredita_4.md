@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1959 n. 187
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1966 n. 136
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1959 n. 187
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1966 n. 136
 ===============================================================
 
 Autorizzazione all'Unione italiana dei ciechi ad accettare una eredita'.
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-187. Decreto del Presidente della Repubblica 16 febbraio 1959, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', disposta a proprio favore dal defunto sig. Gabriele Zotti con testamento pubblico per atto a rogito notaio dott. Federico Federici di Terni, in data 19 giugno 19418, repert. dei testamenti n. 378, e costituita da due fabbricati (un'officina ed una casa di abitazione), siti in Terni.  
+136. Decreto del Presidente della Repubblica 7 febbraio 1966, col quale, sulla proposta del Presidente dei Consiglio dei Ministri, l'Unione italiana dei ciechi viene autorizzata ad accettare, col beneficio di inventario, l'eredita' disposta dal defunto sig.  
+Antonio Spolveretti, con testamento olografo del 17 gennaio 1964 e annesso codicillo in data 10 febbraio 1964, a rogito dott. Giuseppe Gili, notaio residente a Torino, in data 20 marzo 1964, repertorio n. 49356, consistente in beni mobili ed immobili per oltre 400 milioni di lire.  
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 14 aprile 1959  
-Atti del Governo, registro n. 118, foglio n. 37. - VILLA
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 28 marzo 1966  
+Atti del Governo, registro n. 202, foglio n. 73. - VILLA

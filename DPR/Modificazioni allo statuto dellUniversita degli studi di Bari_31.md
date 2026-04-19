@@ -1,91 +1,534 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 ottobre 1979 n. 727
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 agosto 1970 n. 704
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 ottobre 1979 n. 727
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 agosto 1970 n. 704
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita', accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Gli articoli 9, 10 relativi al corso di laurea in scienze politiche sono abrogati e sostituiti dai seguenti:
+
+Laurea in scienze politiche
+
+Art. 9.- La durata del corso di studi per la laurea in scienze politiche e' di quattro anni.
+
+E' titolo di ammissione quello previsto dalle vigenti disposizioni di legge.
+
+Il corso di studi comprende un biennio propedeutico comune a tutti gli iscritti e un biennio di specializzazione articolato secondo i seguenti indirizzi:
+
+a) politico-amministrativo;
+
+b) storico-politico;
+
+c) economico-internazionale;
+
+d) politico-sociale.
+
+Il biennio propedeutico comprende nove insegnamenti obbligatori che sono:
+
+1) Istituzioni di diritto pubblico;
+
+2) Diritto costituzionale italiano e comparato;
+
+3) Economia politica;
+
+4) Statistica;
+
+5) Sociologia;
+
+6) Storia moderna;
+
+7) Storia delle dottrine politiche;
+
+8) Istituzioni di diritto privato;
+
+9) Politica economica e finanziaria.
+
+Lo studente potra' aggiungere ai nove insegnamenti del biennio propedeutico non piu' di tre insegnamenti obbligatori del biennio di specializzazione, indicati nello statuto, a seconda dell'indirizzo prescelto. Tali insegnamenti anticipati al biennio propedeutico vanno in detrazione dal numero degli insegnamenti del biennio di specializzazione.
+
+Nel biennio di specializzazione sono obbligatori i seguenti insegnamenti:
+
+a) indirizzo politico-amministrativo:
+
+1) Diritto amministrativo;
+
+2) Diritto del lavoro;
+
+3) Contabilita' dello Stato e degli enti pubblici;
+
+4) Diritto processuale civile ed amministrativo.
+
+b) indirizzo storico-politico:
+
+1) Storia economica;
+
+2) Sociologia della conoscenza;
+
+3) Storia dei partiti e dei movimenti politici;
+
+4) Filosofia della politica;
+
+c) indirizzo economico-internazionale:
+
+1) Diritto internazionale I anno;
+
+2) Diritto internazionale II anno;
+
+3) Economia internazionale;
+
+4) Storia dei trattati e politica internazionale;
+
+d) indirizzo politico-sociale:
+
+1) Diritto del lavoro;
+
+2) Storia del movimento sindacale;
+
+3) Sociologia del lavoro;
+
+4) Economia del lavoro.
+
+Per ciascun indirizzo la facolta', all'inizio dell'anno accademico, puo' disporre che altri insegnamenti in numero non superiore a tre siano resi obbligatori. Tali insegnamenti dovranno essere prescelti nell'ambito degli insegnamenti opzionali previsti per ciascun indirizzo.
+
+La facolta' determina annualmente, nell'ambito dei seguenti elenchi, le materie da impartire come insegnamenti di libera scelta per lo studente. Per ciascun indirizzo il numero degli insegnamenti annualmente impartiti, ivi compresi gli insegnamenti obbligatori, non dovra' essere superiore a quindici.
+
+Indirizzo politico-amministrativo:
+
+1) Demografia;
+
+2) Diritto delle comunita' europee;
+
+3) Diritto ecclesiastico italiano e comparato con elementi di diritto canonico;
+
+4) Diritto finanziario;
+
+5) Diritto pubblico dell'economia;
+
+6) Diritto pubblico romano;
+
+7) Diritto regionale e degli enti locali;
+
+8) Dottrina dello Stato;
+
+9) Filosofia della politica;
+
+10) Istituzioni di diritto e procedura penale;
+
+11) Scienza dell'amministrazione;
+
+12) Scienza della politica;
+
+13) Sociologia giuridica;
+
+14) Storia contemporanea;
+
+15) Storia dell'amministrazione pubblica;
+
+16) Storia delle istituzioni politiche.
+
+Indirizzo storico-politico:
+
+1) Antropologia culturale;.
+
+2) Demografia;
+
+3) Etnologia;
+
+4) Filosofia del diritto;
+
+5) Geografia politica ed economica;
+
+6) Matematica per le scienze sociali;
+
+7) Metodologia delle scienze sociali;
+
+8) Psicologia sociale;
+
+9) Scienza della politica;
+
+10) Sociologia della religione;
+
+11) Sociologia giuridica;
+
+12) Storia antica;
+
+13) Sociologia economica;
+
+14) Storia contemporanea;
+
+15) Storia dei movimenti sindacali;
+
+16) Storia dei rapporti fra Stato e Chiesa nell'eta' moderna;
+
+17) Storia del diritto italiano;
+
+18) Storia del giornalismo;
+
+19) Storia delle dottrine economiche;
+
+20) Storia delle relazioni internazionali;
+
+21) Storia del pensiero politico classico;
+
+22) Storia del pensiero politico moderno e contemporaneo;
+
+23) Storia medioevale;
+
+24) Storia moderna e contemporanea della Chiesa e delle altre confessioni cristiane;
+
+25) Teoria e politica dello sviluppo economico.
+
+Indirizzo economico-internazionale:
+
+1) Diritto comparato delle societa';
+
+2) Diritto consolare;
+
+3) Diritto del commercio internazionale;
+
+4) Diritto del lavoro e legislazione sociale comparati;
+
+5) Diritto delle Comunita' europee;
+
+6) Diritto internazionale privato;
+
+7) Diritto tributario comparato;
+
+8) Economia e finanza delle Comunita' europee;
+
+9) Economia e politica agraria;
+
+10) Geografia politica ed economica;
+
+11) Matematica per economisti;
+
+12) Organizzazione internazionale;
+
+13) Programmazione dello sviluppo economico;
+
+14) Scienza della politica;
+
+15) Scienza delle finanze;
+
+16) Sociologia delle relazioni internazionali;
+
+17) Statistica economica;
+
+18) Storia contemporanea;
+
+19) Storia dell'analisi economica;
+
+20) Storia economica;
+
+21) Storia moderna e contemporanea dell'Africa (semestrale);
+
+22) Storia moderna e contemporanea dell'America (semestrale);
+
+23) Storia moderna e contemporanea dell'Asia (semestrale);
+
+24) Teoria dello sviluppo economico;
+
+25) Teoria e politica monetaria.
+
+Indirizzo politico-sociale:
+
+1) Amministrazione del personale;
+
+2) Conflitti di lavoro;
+
+3) Contrattazione collettiva;
+
+4) Diritto della previdenza sociale;
+
+5) Diritto del lavoro e legislazione sociale comparati;
+
+6) Diritto sindacale italiano e comparato;
+
+7) Economia e politica industriale;
+
+8) Filosofia della politica;
+
+9) Legislazione sociale;
+
+10) Metodologia delle scienze sociali;
+
+11) Organizzazione aziendale e del lavoro;
+
+12) Organizzazione internazionale;
+
+13) Politica della formazione e dell'addestramento professionale (semestrale);
+
+14) Politica della sicurezza sociale;
+
+15) Politica e programmazione della mano d'opera aziendale (semestrale);
+
+16) Psicologia industriale e del lavoro;
+
+17) Relazioni industriali;
+
+18) Scienza dell'amministrazione;
+
+19) Scienza della politica;
+
+20) Sociologia dell'organizzazione;.
+
+21) Sociologia industriale;
+
+22) Statistica ed econometria aziendali;
+
+23) Storia contemporanea;
+
+24) Storia economica.
+
+Art. 10. - Gli insegnamenti a scelta dello studente non possono essere anticipati al biennio propedeutico.
+
+Alcuni degli insegnamenti dei predetti elenchi possono essere mutuati da quelli impartiti in altre facolta'.
+
+Ai fini del computo del numero degli insegnamenti annuali che lo studente dovra' seguire, due corsi semestrali, tre corsi triennali, un corso trimestrale e uno semestrale, equivarranno ad un corso annuale.
+
+Per quanto riguarda i corsi pluriennali di una stessa materia, ogni esame annuale viene computato ai fini del numero minimo di esami.
+
+Gli insegnamenti di lingue potranno essere anticipati al primo biennio.
+
+Il passaggio da un indirizzo ad un altro potra' essere autorizzato dal consiglio della facolta'.
+
+La convalida degli esami gia' sostenuti e delle frequenze sara' autorizzato dalla facolta'.
+
+Il biennio di specializzazione utilizza in particolare anche esercitazioni, dibattiti, ricerche individuali e di gruppo e ogni altro strumento didattico che si riveli opportuno; fa altresi' ricorso a letture e ricerche integrative in campi di studio affini agli argomenti impartiti.
+
+L'esame di laurea consiste nella discussione orale su una dissertazione scritta.
+
+La dissertazione scritta puo' essere anche il risultato di un lavoro di gruppo e pertanto essere comune a piu' laureandi, purche' il contributo alla ricerca di ciascun laureando sia chiaramente accertabile in sede di esame.
+
+Il tema della dissertazione di laurea deve rientrare nelle materie insegnate nell'indirizzo prescelto dallo studente. Esso viene concordato fra il candidato e i professori delle materie interessate.
+
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami relativi ad almeno diciannove corsi annuali o equivalenti ed inoltre a quelli relativi a due lingue straniere. Per gli indirizzi economico-internazionale e politico-sociale e' obbligatoria la lingua inglese, mentre un secondo corso potra' essere prescelto nelle lingue francese, tedesca, spagnola e russa. Per l'indirizzo storico-politico, una delle due lingue prescelte dallo studente dovra' essere la lingua inglese o la lingua tedesca. Per l'indirizzo politico-amministrativo lo studente potra' scegliere tra gli insegnamenti di lingua inglese, francese, tedesca o russa.
+
+Dopo il superamento dell'esame di laurea la facolta' rilascia allo studente il diploma di dottore in scienze politiche con l'indicazione dell'indirizzo prescelto.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 3 agosto 1970
+
+SARAGAT
+
+MISASI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 29 settembre 1970 Atti del Governo, registro n. 237, foglio n. 131. - CARUSO
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita', accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Dopo l'art. 278 sono istituiti i seguenti nuovi articoli relativi alla istituzione della scuola diretta a fini speciali di preparazione per tecnici di logopedia:  
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Scuola di preparazione per tecnici di logopedia  
-(Scuola diretta a fini speciali)  
+Gli articoli 9, 10 relativi al corso di laurea in scienze politiche sono abrogati e sostituiti dai seguenti:   
   
-Art. 279. - E' istituita ai sensi dell'art. 20 del testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), una scuola speciale di preparazione per tecnici di logopedia che ha sede presso la cattedra di bioacustica dell'Universita'.  
-Art. 280. - La durata del corso degli studi della scuola di preparazione per tecnici di logopedia e' di tre anni.  
-L'indirizzo e' teorico-pratico.  
-Il numero massimo complessivo degli iscritti alla scuola e' di quindici (cinque per anno di corso).  
-Art. 281. - Possono essere ammessi alla scuola coloro che siano in possesso del titolo di studio per l'ammissione all'universita' o a istituto di istruzione universitaria. Gli aspiranti devono, nei termini regolamentari, presentare apposita domanda su carta legale diretta al rettore e corredata dei prescritti documenti e sostenere un esame di ammissione che avra' luogo nei giorni stabiliti dal rettore con apposito manifesto.  
-Le domande di iscrizione ad anni successivi al primo vanno presentate nei termini regolamentari.  
-Art. 282. - Alla scuola si accede previo esame di cultura generale su argomenti facenti parte dei normali programmi dei licei e degli istituti di istruzione secondaria, con particolare riguardo alla parte dell'insegnamento di fisica acustica.  
-La commissione giudicatrice viene nominata dal preside della facolta' di medicina e chirurgia ed e' composta dal direttore della scuola, presidente, e da due membri scelti fra professori di ruolo, incaricati e liberi docenti.  
-Art. 283. - Il direttore della scuola e' il professore di ruolo di bioacustica dell'Universita' di Bari.  
-Gli incarichi di insegnamento sono conferiti dal rettore, su proposta del consiglio di facolta' di medicina e chirurgia, udito il direttore della scuola.  
-Art. 284. - L'anno accademico ha inizio e termine nelle date stabilite dalle leggi in vigore per l'istruzione universitaria.  
-Le date di inizio e termine delle lezioni sono di regola eguali a quelle fissate per l'anno accademico. Tali date, tuttavia, possono essere spostate per ragioni speciali inerenti la natura dei corsi.  
-Art. 285. - Le materie di insegnamento sono:  
-1° Anno:  
-anatomia degli organi e dei sistemi audio-fono-articolatori;  
-elementi di fisica acustica e tecniche di fonometria;  
-psicologia generale;  
-elementi di audiologia;  
-elementi di fonetica e di linguistica;  
-fisiologia degli organi e dei sistemi audio-fono-articolatori. 2° Anno:  
-foniatria I;  
-tecniche di riabilitazione fonetica I;  
-semeiotica foniatrica;  
-fonetica sperimentale;  
-psicologia del linguaggio;  
-tecniche audiometriche.  
-3° Anno:  
-foniatria II;  
-tecniche di riabilitazione II;  
-riabilitazione protesica;  
-neuropsichiatria infantile;  
-tecniche di psicomotricita';  
-psicopedagogia.  
-Art. 286. - L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni e dall'obbligo per gli allievi di esercitazione pratica per un periodo di due anni nei reparti di audiologia e di logopedia della cattedra di bioacustica.  
-La frequenza viene comprovata dall'attestazione rilasciata dagli insegnanti sul libretto di iscrizione. L'attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.  
-Art. 287. - Le commissioni per gli esami di profitto e di diploma sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Le commissioni per gli esami di profitto sono composte di tre membri: il direttore della scuola, presidente, e da due insegnanti della scuola stessa. La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente, e da quattro insegnanti della scuola stessa e da altri docenti. Ogni commissario ha a sua disposizione dieci punti.  
-L'esame di diploma consiste, a scelta del candidato, o nella discussione di una tesi scritta su un argomento riguardante le materie di insegnamento, eventualmente integrata da una prova pratica stabilita dalla commissione esaminatrice, o in un esame generale teorico-pratico.  
-I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola, ma se al secondo anno non sia loro riconosciuta la idoneita', saranno senz'altro esclusi da ulteriori prove.  
-Agli allievi che avranno superato l'esame finale, verra' rilasciato il diploma di tecnico di logopedia.  
-Art. 288. - Per poter essere ammessi a frequentare gli anni di corso successivi al primo, gli iscritti devono aver superato gli esami dell'anno precedente. Alla fine del terzo anno di corso, per essere ammessi all'esame di diploma, gli iscritti devono aver superato tutti gli esami prescritti.  
-Art. 289. - Gli esami di profitto e di diploma si danno in due sessioni; la prima, estiva, ha inizio subito dopo la chiusura annuale dei corsi e la seconda, un mese innanzi il principio del nuovo anno accademico.  
-Art. 290. - Il consiglio di amministrazione dell'Universita', su proposta della direzione della scuola, approvata dal consiglio di facolta', stabilira' di anno in anno l'ammontare dei contributi.  
-Le tasse e soprattasse annuali a carico degli iscritti resteranno cosi' destinate:  
+Laurea in scienze politiche   
   
-tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 15.000 soprattassa annuale di esami . . . . . . . . . . . . . . . . L. 7.000 tassa erariale di diploma. . . . . . . . . . . . . . . . . . L. 6.000 tassa annuale di iscrizione studenti fuoricorso. . . . . . . L. 8.000   
-Art. 291. - Al funzionamento della suddetta scuola si provvedera' con il provento delle tasse, soprattasse e contributi dovuti dagli iscritti e con eventuali elargizioni e contributi di enti pubblici o di privati.  
+Art. 9.- La durata del corso di studi per la laurea in scienze politiche e' di quattro anni.   
+E' titolo di ammissione quello previsto dalle vigenti disposizioni di legge.   
+Il corso di studi comprende un biennio propedeutico comune a tutti gli iscritti e un biennio di specializzazione articolato secondo i seguenti indirizzi:   
+a) politico-amministrativo;   
+b) storico-politico;   
+c) economico-internazionale;   
+d) politico-sociale.   
+Il biennio propedeutico comprende nove insegnamenti obbligatori che sono:   
+1) Istituzioni di diritto pubblico;   
+2) Diritto costituzionale italiano e comparato;   
+3) Economia politica;   
+4) Statistica;   
+5) Sociologia;   
+6) Storia moderna;   
+7) Storia delle dottrine politiche;   
+8) Istituzioni di diritto privato;   
+9) Politica economica e finanziaria.   
+Lo studente potra' aggiungere ai nove insegnamenti del biennio propedeutico non piu' di tre insegnamenti obbligatori del biennio di specializzazione, indicati nello statuto, a seconda dell'indirizzo prescelto. Tali insegnamenti anticipati al biennio propedeutico vanno in detrazione dal numero degli insegnamenti del biennio di specializzazione.   
+Nel biennio di specializzazione sono obbligatori i seguenti insegnamenti:   
+a) indirizzo politico-amministrativo:   
+1) Diritto amministrativo;   
+2) Diritto del lavoro;   
+3) Contabilita' dello Stato e degli enti pubblici;   
+4) Diritto processuale civile ed amministrativo.   
+b) indirizzo storico-politico:   
+1) Storia economica;   
+2) Sociologia della conoscenza;   
+3) Storia dei partiti e dei movimenti politici;   
+4) Filosofia della politica;   
+c) indirizzo economico-internazionale:   
+1) Diritto internazionale I anno;   
+2) Diritto internazionale II anno;   
+3) Economia internazionale;   
+4) Storia dei trattati e politica internazionale;   
+d) indirizzo politico-sociale:   
+1) Diritto del lavoro;   
+2) Storia del movimento sindacale;   
+3) Sociologia del lavoro;   
+4) Economia del lavoro.   
+Per ciascun indirizzo la facolta', all'inizio dell'anno accademico, puo' disporre che altri insegnamenti in numero non superiore a tre siano resi obbligatori. Tali insegnamenti dovranno essere prescelti nell'ambito degli insegnamenti opzionali previsti per ciascun indirizzo.   
+La facolta' determina annualmente, nell'ambito dei seguenti elenchi, le materie da impartire come insegnamenti di libera scelta per lo studente. Per ciascun indirizzo il numero degli insegnamenti annualmente impartiti, ivi compresi gli insegnamenti obbligatori, non dovra' essere superiore a quindici.   
+Indirizzo politico-amministrativo:   
+1) Demografia;   
+2) Diritto delle comunita' europee;   
+3) Diritto ecclesiastico italiano e comparato con elementi di diritto canonico;   
+4) Diritto finanziario;   
+5) Diritto pubblico dell'economia;   
+6) Diritto pubblico romano;   
+7) Diritto regionale e degli enti locali;   
+8) Dottrina dello Stato;   
+9) Filosofia della politica;   
+10) Istituzioni di diritto e procedura penale;   
+11) Scienza dell'amministrazione;   
+12) Scienza della politica;   
+13) Sociologia giuridica;   
+14) Storia contemporanea;   
+15) Storia dell'amministrazione pubblica;   
+16) Storia delle istituzioni politiche.   
+Indirizzo storico-politico:   
+1) Antropologia culturale;.   
+2) Demografia;   
+3) Etnologia;   
+4) Filosofia del diritto;   
+5) Geografia politica ed economica;   
+6) Matematica per le scienze sociali;   
+7) Metodologia delle scienze sociali;   
+8) Psicologia sociale;   
+9) Scienza della politica;   
+10) Sociologia della religione;   
+11) Sociologia giuridica;   
+12) Storia antica;   
+13) Sociologia economica;   
+14) Storia contemporanea;   
+15) Storia dei movimenti sindacali;   
+16) Storia dei rapporti fra Stato e Chiesa nell'eta' moderna;   
+17) Storia del diritto italiano;   
+18) Storia del giornalismo;   
+19) Storia delle dottrine economiche;   
+20) Storia delle relazioni internazionali;   
+21) Storia del pensiero politico classico;   
+22) Storia del pensiero politico moderno e contemporaneo;   
+23) Storia medioevale;   
+24) Storia moderna e contemporanea della Chiesa e delle altre confessioni cristiane;   
+25) Teoria e politica dello sviluppo economico.   
+Indirizzo economico-internazionale:   
+1) Diritto comparato delle societa';   
+2) Diritto consolare;   
+3) Diritto del commercio internazionale;   
+4) Diritto del lavoro e legislazione sociale comparati;   
+5) Diritto delle Comunita' europee;   
+6) Diritto internazionale privato;   
+7) Diritto tributario comparato;   
+8) Economia e finanza delle Comunita' europee;   
+9) Economia e politica agraria;   
+10) Geografia politica ed economica;   
+11) Matematica per economisti;   
+12) Organizzazione internazionale;   
+13) Programmazione dello sviluppo economico;   
+14) Scienza della politica;   
+15) Scienza delle finanze;   
+16) Sociologia delle relazioni internazionali;   
+17) Statistica economica;   
+18) Storia contemporanea;   
+19) Storia dell'analisi economica;   
+20) Storia economica;   
+21) Storia moderna e contemporanea dell'Africa (semestrale);   
+22) Storia moderna e contemporanea dell'America (semestrale);   
+23) Storia moderna e contemporanea dell'Asia (semestrale);   
+24) Teoria dello sviluppo economico;   
+25) Teoria e politica monetaria.   
+Indirizzo politico-sociale:   
+1) Amministrazione del personale;   
+2) Conflitti di lavoro;   
+3) Contrattazione collettiva;   
+4) Diritto della previdenza sociale;   
+5) Diritto del lavoro e legislazione sociale comparati;   
+6) Diritto sindacale italiano e comparato;   
+7) Economia e politica industriale;   
+8) Filosofia della politica;   
+9) Legislazione sociale;   
+10) Metodologia delle scienze sociali;   
+11) Organizzazione aziendale e del lavoro;   
+12) Organizzazione internazionale;   
+13) Politica della formazione e dell'addestramento professionale (semestrale);   
+14) Politica della sicurezza sociale;   
+15) Politica e programmazione della mano d'opera aziendale (semestrale);   
+16) Psicologia industriale e del lavoro;   
+17) Relazioni industriali;   
+18) Scienza dell'amministrazione;   
+19) Scienza della politica;   
+20) Sociologia dell'organizzazione;.   
+21) Sociologia industriale;   
+22) Statistica ed econometria aziendali;   
+23) Storia contemporanea;   
+24) Storia economica.   
+Art. 10. - Gli insegnamenti a scelta dello studente non possono essere anticipati al biennio propedeutico.   
+Alcuni degli insegnamenti dei predetti elenchi possono essere mutuati da quelli impartiti in altre facolta'.   
+Ai fini del computo del numero degli insegnamenti annuali che lo studente dovra' seguire, due corsi semestrali, tre corsi triennali, un corso trimestrale e uno semestrale, equivarranno ad un corso annuale.   
+Per quanto riguarda i corsi pluriennali di una stessa materia, ogni esame annuale viene computato ai fini del numero minimo di esami.   
+Gli insegnamenti di lingue potranno essere anticipati al primo biennio.   
+Il passaggio da un indirizzo ad un altro potra' essere autorizzato dal consiglio della facolta'.   
+La convalida degli esami gia' sostenuti e delle frequenze sara' autorizzato dalla facolta'.   
+Il biennio di specializzazione utilizza in particolare anche esercitazioni, dibattiti, ricerche individuali e di gruppo e ogni altro strumento didattico che si riveli opportuno; fa altresi' ricorso a letture e ricerche integrative in campi di studio affini agli argomenti impartiti.   
+L'esame di laurea consiste nella discussione orale su una dissertazione scritta.   
+La dissertazione scritta puo' essere anche il risultato di un lavoro di gruppo e pertanto essere comune a piu' laureandi, purche' il contributo alla ricerca di ciascun laureando sia chiaramente accertabile in sede di esame.   
+Il tema della dissertazione di laurea deve rientrare nelle materie insegnate nell'indirizzo prescelto dallo studente. Esso viene concordato fra il candidato e i professori delle materie interessate.   
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami relativi ad almeno diciannove corsi annuali o equivalenti ed inoltre a quelli relativi a due lingue straniere. Per gli indirizzi economico-internazionale e politico-sociale e' obbligatoria la lingua inglese, mentre un secondo corso potra' essere prescelto nelle lingue francese, tedesca, spagnola e russa. Per l'indirizzo storico-politico, una delle due lingue prescelte dallo studente dovra' essere la lingua inglese o la lingua tedesca. Per l'indirizzo politico-amministrativo lo studente potra' scegliere tra gli insegnamenti di lingua inglese, francese, tedesca o russa.   
+Dopo il superamento dell'esame di laurea la facolta' rilascia allo studente il diploma di dottore in scienze politiche con l'indicazione dell'indirizzo prescelto.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 ottobre 1979
+### Dato a Roma, addi' 3 agosto 1970
 
-PERTINI VALITUTTI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 16 gennaio 1980
+Registrato alla Corte dei conti, addi' 29 settembre 1970
 
-Registro n. 2 Istruzione, foglio n. 103
+Atti del Governo, registro n. 237, foglio n. 131. - CARUSO

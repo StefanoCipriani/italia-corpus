@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 798
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 472
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 798
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 472
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Milano.
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -33,26 +33,25 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Nell'art. 42, relativo al corso di laurea in fisica, nell'elenco degli insegnamenti complementari e' inserito l'insegnamento di "lingua inglese".  
+Art. 16 - nell'elenco degli insegnamenti complementari del corso di laurea in scienze politiche e' inserito il seguente insegnamento:  
+statistica metodologica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 giugno 1986
+### Dato a Roma, addi' 16 giugno 1983
 
-COSSIGA
+PERTINI FALCUCCI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: DARIDA
 
-Visto, il Guardasigilli: ROGNONI
+Registrato alla Corte dei conti, addi' 17 agosto 1983
 
-Registrato alla Corte dei conti, addi' 17 novembre 1986
-
-Registro n. 84 Istruzione, foglio n. 102
+Registro n. 59 Istruzione, foglio n. 138

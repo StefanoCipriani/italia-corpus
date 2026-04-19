@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 903
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1980 n. 517
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 903
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1980 n. 517
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 -------------------------------------------------------------------
@@ -20,90 +20,51 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio universitario nazionale nel suo parere;
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla
+-----
 
-Decreta:
---------
-
-Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopracitati, e' ulteriormente modificato come appresso:
+proposta del Ministro della pubblica istruzione; Decreta:
 
 Articolo unico
 --------------
 
   
-Nell'art. 47, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-allergologia ed immunologia clinica;  
-analisi chimico-biologiche cliniche;  
-angiologia medica;  
-cardiologia pediatrica;  
-chimica e microscopia clinica;  
-chirurgia geriatrica;  
-chirurgia plastica;  
-chirurgia sostitutiva, trapianti d'organo e organi artificiali;  
-chirurgia sperimentale;  
-citopatologia;  
-diagnostica e chirurgia endoscopica;  
-dietoterapia;  
-embriologia;  
-endocrinologia e medicina costituzionale;  
-farmacologia cellulare;  
-farmacologia clinica;  
-farmacologia molecolare;  
-fisiologia applicata;  
-fisiopatologia dell'emostasi;  
-fisiopatologia medica;  
-fisiopatologia respiratoria;  
-gastroenterologia pediatrica;  
-immunoematologia;  
-malattie dell'apparato cardiovascolare;  
-malattie infettive dell'infanzia;  
-malattie metaboliche del bambino;  
-malattie tropicali e subtropicali;  
-nefrologia pediatrica;  
-neonatologia;  
-neurologia pediatrica;  
-neuropsicofarmacologia;  
-neurotraumatologia;  
-parassitologia;  
-psicopatologia generale dell'eta' evolutiva;  
-terapia pediatrica sistemativa;  
-tecnica fisiologica;  
-tossicologia forense;  
-virologia clinica;  
-urologia pediatrica;  
-neuropatologia;  
-anatomia radiologica;  
-istopatologia ultrastrutturale;  
-neuroanatomia;  
-oncologia medica;  
-nefrologia medica;  
-citogenetica;  
-immunogenetica;  
-micologia;  
-traumatologia della strada;  
-virologia oncologica;  
-otorinolaringologia pediatrica;  
-psicologia clinica;  
-virologia applicata alla epidemiologia.  
+Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+All'art. 38, relativo al corso di laurea in materie letterarie, sono aggiunti i seguenti insegnamenti:  
+geografia regionale;  
+lingua e letteratura anglo-americana;  
+paleografia e diplomatica;  
+storia dell'agricoltura;  
+storia dell'arte contemporanea;  
+storia della critica letteraria;  
+storia della cultura classica;  
+storia della lingua francese;  
+storia dei partiti e dei movimenti politici;  
+storia economica.  
+All'art. 39, relativo al corso di laurea in pedagogia, sono aggiunti i seguenti insegnamenti:  
+economia politica;  
+metodologia delle scienze sociali;  
+psicometria;  
+psicopedagogia;  
+storia delle dottrine economiche;  
+storia della filosofia antica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 settembre 1981
+### Dato a Roma, addi' 27 marzo 1980
 
-PERTINI BODRATO
+PERTINI VALITUTTI
 
-Visto, Il Guardasigilli: DARIDA
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 30 gennaio 1982
+Registrato alla Corte dei conti, addi' 21 agosto 1980
 
-Registro n. 12 Istruzione, foglio n. 34
+Registro n. 79 Istruzione, foglio n. 12

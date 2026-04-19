@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 marzo 1954 n. 756
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 gennaio 1954 n. 206
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 marzo 1954 n. 756
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 gennaio 1954 n. 206
+==============================================================
 
 Autorizzazione all'Universita' di Bari ad accettare una donazione.
 ------------------------------------------------------------------
@@ -12,10 +12,8 @@ Art. 1
 
 N.
 
-756. Decreto del Presidente della Repubblica 23 marzo 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Bari viene autorizzata ad accettare la donazione di lire 200.000 in contanti, disposta in suo favore dal prof.  
-Saverio La Sorsa, con atto pubblico amministrativo in data 31 dicembre 1952, per l'istituzione, con la rendita del capitale donato, di un premio di studio intitolato "Premio capitano dott.  
-Fulvio La Sorsa" e da conferirsi, annualmente e per concorso, alla migliore tesi di laurea in ostetricia.  
+206. Decreto del Presidente della Repubblica 26 gennaio 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Bari viene autorizzata ad accettare la donazione della biblioteca del prof. Enrico Pantanelli, del valore complessivo di L. 1.500.000, composta di 850 volumi fra annate di riviste ed opere italiane e straniere e di 8000 opuscoli in lingua italiana, francese, tedesca e inglese, disposta in suo favore dalla signora Enrichetta Giovanardi vedova Pantanelli, con atto pubblico amministrativo in data 8 gennaio 1953.  
   
 Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte del conti, addi' 25 agosto 1954  
-Atti del Governo, registro n. 85, foglio n. 86. - TEMPESTA
+Registrato alla Corte dei conti, addi' 15 maggio 1954  
+Atti del Governo, registro n. 83, foglio n. 52. - CARLOMAGNO

@@ -1,137 +1,140 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 luglio 1967 n. 915
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 agosto 1970 n. 707
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 luglio 1967 n. 915
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 agosto 1970 n. 707
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il regio decreto-legge 20 giugno. 1935, n. 1071, convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduta la [legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla
+-----
+
+proposta del Ministro per la pubblica istruzione; Decreta:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831), e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+La tabella II annessa al [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e' integrata nel senso che la facolta' di scienze economiche e bancarie rilascia anche la laurea in scienze statistiche ed economiche, il cui ordinamento e' riportato nella tabella VII-bis.  
+
+Art. 2
+------
+
   
-Decreta:  
+A decorrere dall'anno accademico 1970-71 e' istituito presso la facolta' di scienze economiche e bancarie dell'Universita' di Siena il corso di laurea in scienze statistiche ed economiche.  
+
+Art. 3
+------
+
   
-Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Il primo comma dell'art. 29 relativo alla Facolta' di Scienze matematiche, fisiche e naturali e' abrogato e sostituito dal seguente:  
-"La Facolta' conferisce:  
-1) la laurea in Scienze naturali;  
-2) la laurea in Scienze biologiche;  
-3) la laurea in Scienze geologiche.  
-La durata del corso degli studi, sia per la laurea in Scienze naturali, sia per la laurea in Scienze biologiche, sia per la laurea in Scienze geologiche e' di quattro anni".  
-Nello stesso articolo, dopo l'elenco degli insegnamenti fondamentali e complementari, relativo al corso di laurea in Scienze biologiche e' aggiunto quanto segue:  
-"Per la laurea in Scienze geologiche sono insegnamenti fondamentali:  
-1. Istituzioni di matematiche;  
-2. Fisica sperimentale (biennale);  
-3. Chimica generale ed inorganica con elementi di  
-organica;  
-4. Geografia;  
-5. Topografia e Cartografia;  
-6. Mineralogia;  
-7. Paleontologia;  
-8. Geografia fisica;  
-9. Petrografia;  
-10. Geologia;  
-11. Fisica terrestre;  
-12. Geologia applicata;  
-Sono insegnamenti complementari:  
-1. Analisi matematica (biennale);  
-2. Analisi mineralogica;  
-3. Antropologia;  
-4. Botanica;  
-5. Chimica fisica;  
-6. Chimica organica;  
-7. Cristallochimica;  
-8. Elementi di coltivazioni minerarie;  
-9. Fisica dei solidi;  
-10. Fotogeologia;  
-11. Geochimica;  
-12. Geofisica applicata;  
-13. Geofisica mineraria;  
-14. Geologia degli idrocarburi;  
-15. Geologia nucleare;  
-16. Geologia regionale;  
-17. Giacimenti minerari;  
-18. Geotecnica;  
-19. Idrogeologia;  
-20. Metodologie petrografiche;  
-21. Micropaleontologia;  
-22. Paleobotanica;  
-23. Pedologia;  
-24. Petrografia applicata;  
-25. Petrografia regionale;  
-26. Preparazione dei minerali;  
-27. Rilevamento geologico 28. Sedimentologia;  
-29. Statistica;  
-30. Tecnologie dei materiali litoidi;  
-31. Vulcanologia;  
-32. Zoologia.  
-  
-Nello stesso articolo, dopo le norme relative alle propedeuticita' dei corsi e degli esami del corso di laurea in Scienze biologiche e' aggiunto quanto segue:  
-  
-Corso di laurea in Scienze geologiche  
-  
-Discipline Precedenze  
-  
-Fisica sperimentale Istituzioni di matematiche Mineralogia  
-Fisica sperimentale, Chimi- ca generale ed inorganica con elementi di organica Geografia fisica Geografia, Topografia e Cartografia  
-Discipline Precedenze  
-Petrografia Mineralogia  
-Geologia Petrografia, Paleontologia, Geografia fisica  
-Fisica terrestre Fisica sperimentale  
-Geologia applicata Geologia, Fisica terrestre Geochimica Mineralogia  
-Rilevamento geologico Geologia  
-Vulcanologia Petrografia  
-Geofisica applicata Fisica terrestre  
-Sedimentologia Petrografia  
-Giacimenti minerari Petrografia  
-Geologia degli idrocar- Geologia  
-buri  
-Analisi mineralogica Mineralogia  
-Chimica fisica Fisica sperimentale, Chimi- ca generale ed inorganica con elementi di organica Chimica organica Chimica generale ed inorga- nica con elementi di or- ganica  
-Geologica regionale Geologia  
-Idrogeologia Geologia applicata  
-  
-Petrografia applicata Petrografia  
-  
-Statistica Istituzioni di matematiche Pedologia Petrografia, Geografia fi- sica  
-Geologia nucleare Geologia  
-Geotecnica Geologia applicata  
-Petrografia regionale Petrografia  
-Tecnologie dei materiali Petrografia  
-litoidi  
-Elementi di coltivazioni Geologia applicata  
-minerarie  
-Fisica dei solidi Mineralogia  
-Cristallochimica Mineralogia  
-Preparazione dei minerali Petrografia  
-  
-Nello stesso articolo, il terzo comma dopo le norme relative alle propedeuticita' dei corsi e degli esami del corso di laurea in Scienze biologiche e' abrogato e sostituito dal seguente:  
-  
-L'internato puo' essere svolto in uno degli Istituti della Facolta' o in altri Istituti ad indirizzo naturalistico, biologico o geomineralogico, previa autorizzazione del Consiglio di Facolta'.  
+Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti suindicati e' ulteriormente modificato come dal testo annesso al presente decreto - vistato dal Ministro per la pubblica istruzione - contenente le norme relative all'ordinamento del corso di studi della laurea in scienze statistiche ed economiche.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 luglio 1967
+### Dato a Roma, addi' 6 agosto 1970
 
-SARAGAT GUI
+SARAGAT MISASI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 11 ottobre 1967
+Registrato alla Corte dei conti, addi' 29 settembre 1970
 
-Atti del Governo, registro n. 214, foglio n. 44. - GRECO
+Atti del Governo, registro n. 237, foglio n. 118. - GRECO
+
+Allegato
+
+ ALLEGATO   
+  
+Testo delle modifiche dello statuto dell'Universita' degli studi di Siena, relativo alla istituzione del corso di laurea in scienze statistiche ed economiche.   
+  
+Art. 30. - E' abrogato e sostituito dal seguente:   
+La facolta' conferisce:   
+1) la laurea in scienze economiche e bancarie;   
+2) la laurea in scienze economiche;   
+3) la laurea in scienze statistiche ed economiche.   
+La durata del corso di studi per la laurea in scienze economiche e bancarie, per la laurea in scienze economiche e per la laurea in scienze statistiche ed economiche e' di quattro anni.   
+Titolo di ammissione: quello previsto dalle leggi vigenti.   
+Dopo l'art. 39 e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli relativi alla istituzione del corso di laurea in scienze statistiche ed economiche.   
+  
+Laurea in scienze statistiche ed economiche   
+Art. 40. Sono insegnamenti fondamentali:   
+1) Istituzioni di analisi matematica;   
+2) Analisi matematica;   
+3) Geometria analitica;   
+4) Calcolo delle probabilita';   
+5) Istituzioni di statistica;   
+6) Statistica;   
+7) Statistica metodologica;   
+8) Demografia;   
+9) e 10) Economia politica (biennale);   
+11) Politica economica e finanziaria;   
+12) Istituzioni di statistica economica;   
+13) Statistica economica;   
+14) Economia d'azienda;   
+15) Statistica aziendale e analisi di mercato;   
+16) Controllo statistico delle qualita' e statistica industriale;  
+17) Istituzioni di diritto privato;   
+18) Istituzioni di diritto pubblico;   
+19) Teoria dei campioni.   
+Sono insegnamenti complementari:   
+1) Geografia economica;   
+2) Statistica sociale;   
+3) Sociologia;   
+4) Scienza delle finanze;   
+5) Econometria;   
+6) Contabilita' economica nazionale;   
+7) Diritto commerciale;   
+8) Diritto del lavoro;   
+9) Matematica finanziaria e istituzioni di matematica attuariale;  
+10) Teoria tecnica della elaborazione automatica dei dati;   
+11) Ricerca operativa;   
+12) Teoria dei sistemi;   
+13) Psicologia sperimentale;   
+14) Antropologia;   
+15) Statistica medica e biometria;   
+16) Statistica applicata alle scienze fisiche;   
+17) Genetica;   
+18) Diritto pubblico dell'economia;   
+19) Storia della statistica;   
+20) Economia dei trasporti.   
+Gli insegnamenti complementari possono essere scelti dallo studente anche fra le discipline impartite in altre facolta' dell'ateneo, previa approvazione del preside della facolta'. Detta approvazione deve essere richiesta entro il 31 dicembre di ogni anno.   
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti fondamentali e di almeno tre complementari. Deve anche aver superato gli esami di due lingue straniere moderne, dei quali almeno uno di lingua francese o inglese o tedesca presso la facolta' di scienze economiche e bancarie, e l'altro di lingua il cui insegnamento sia impartito presso qualsiasi facolta' dell'ateneo.   
+Per essere iscritto al secondo anno lo studente deve aver superato almeno due esami fondamentali del primo anno.   
+Per l'insegnamento biennale di economia politica e' prescritto l'esame alla fine di ciascun corso annuale, dovendosi il primo considerare propedeutico al secondo.   
+Art. 41. - Gli esami di: istituzioni di matematica, analisi matematica, geometria analitica, calcolo delle probabilita', istituzioni di statistica, statistica, economia politica (1° esame), istituzioni di statistica economica, statistica economica, istituzioni di diritto pubblico, istituzioni di diritto privato, debbono essere superati prima degli altri esami fondamentali.   
+Gli esami di istituzioni di analisi matematica e di geometria analitica dovranno essere superati prima degli esami di analisi matematica e statistica.   
+L'esame di istituzioni di statistica dovra' essere superato prima degli esami di statistica, di demografia e di statistica economica.   
+L'esame di analisi matematica dovra' essere superato prima dell'esame di calcolo delle probabilita'.   
+Gli esami di economia politica (1° esame) e di istituzioni di statistica economica dovranno essere superati prima dell'esame di statistica economica.   
+L'esame di economia politica (2° esame) dovra' essere superato prima dell'esame di politica economica.   
+L'esame di laurea consiste nella discussione di una dissertazione scritta, svolta sul tema approvato dal professore della materia e nella discussione di almeno due su tre temi orali scelti dal candidato vertenti su materie fondamentali del suo corso di studi e parimenti approvati dai professori delle rispettive materie.   
+Uno di questi temi deve riguardare la statistica metodologica ed uno la statistica applicata.   
+  
+Visto, d'ordine del Presidente della Repubblica   
+Il Ministro per la pubblica istruzione   
+  
+MISASI   

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 gennaio 1954 n. 221
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1954 n. 906
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 gennaio 1954 n. 221
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1954 n. 906
+=============================================================
 
 Autorizzazione all'Universita' di Bari ad accettare una donazione.
 ------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-221. Decreto del Presidente della Repubblica 26 gennaio 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Bari viene autorizzata ad accettare la donazione di L. 200.000 in contanti, disposta in suo favore dal prof. Saverio La Sorsa, con atto pubblico amministrativo 29 dicembre 1952, per l'istituzione di un premio di studio da intitolarsi al medesimo e da conferirsi alla migliore tesi di laurea di soggetto storico.  
+906. Decreto del Presidente della Repubblica 31 luglio 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Bari viene autorizzata ad accettare la donazione della, somma di L. 1.000.000 nominali, disposta in suo favore dalla sede di Bari della Banca d'Italia, per l'istituzione, con la rendita del capitale donato, del "Premio gr. uff. Arturo Atti", da conferirsi ad un laureato della Facolta' di economia e commercio della Universita' di Bari.  
   
 Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 15 maggio 1954  
-Atti del Governo, registro n. 83, foglio n. 63. - CARLOMAGNO
+Registrato alla Corte dei conti, addi' 24 settembre 1954  
+Atti del Governo, registro n. 86, foglio n. 60. - CARLOMAGNO

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1972 n. 52
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 febbraio 1965 n. 182
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1972 n. 52
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 febbraio 1965 n. 182
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 -------------------------------------------------------------------
@@ -10,15 +10,17 @@ Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836), e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540) e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -30,247 +32,166 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Dopo l'art. 124 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in igiene e medicina preventiva.
+Art. 25. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di Diritto regionale.
 
-Scuola di specializzazione in igiene e medicina preventiva
+All'art. 124 sono aggiunti i seguenti nuovi articoli relativi alla Scuola di perfezionamento in fisica.
 
-Art. 125. - Durata: tre anni. Ammissione: Esame di ammissione.
+Scuola di perfezionamento in fisica
 
-Ammissione limitata ai laureati in medicina e chirurgia. Solo con orientamento di laboratorio, sono ammessi anche i laureati in scienze biologiche.
+Art. 125. - Presso la Facolta' di scienze fisiche, matematiche e naturali dell'Universita' degli studi di Trieste e' istituita una Scuola di perfezionamento in fisica.
 
-Sono ammessi quindici iscritti per ogni anno di corso.
+Essa ha lo scopo di preparare i laureati alla ricerca scientifica nel campo della fisica nei suoi diversi indirizzi.
 
-Art. 126. - Gli insegnamenti impartiti sono i seguenti:
+Art. 126. - Alla Scuola sono ammessi i laureati in fisica o in matematica o in materia affine e borsisti del Centro internazionale di fisica teorica della agenzia internazionale per l'energia atomica, che soddisfino ai requisiti fissati anno per anno dal Consiglio direttivo per i diversi indirizzi di studio.
 
-1° Anno:
+Art. 127. - La Scuola ha sede presso l'Universita' degli studi di Trieste e si avvale delle attrezzature di questa e della locale sezione dell'Istituto nazionale di fisica nucleare. Possono finanziare la Scuola anche enti pubblici o privati. Per il conseguimento del suo scopo la Scuola puo' avvalersi della collaborazione del Centro internazionale di fisica teorica di Trieste della Agenzia internazionale per l'energia atomica, secondo accordi che saranno presi dal Consiglio con la Direzione del centro.
 
-Statistica medica e biometria;
+Art. 128. - La Scuola e' retta da un Consiglio composto dal direttore che presiede, e dai professori di ruolo di fisica della Facolta' di scienze fisiche, matematiche e naturali dell'Universita' di Trieste.
 
-Educazione sanitaria;
+Alle adunanze possono essere invitati anche altri professori, di ruolo e incaricati, che vi abbiano insegnamento ufficiale, nonche' il direttore del Centro internazionale di fisica teorica dell'I.A.E.A. di Trieste od un suo rappresentante.
 
-Psicologia;
+Il direttore e' eletto dal Consiglio direttivo e nominato con decreto rettorale per la durata di un biennio.
 
-Microbiologia;
+Art. 129. - Il Consiglio direttivo determina:
 
-Parassitologia;
+a) gli indirizzi di studio della Scuola;
 
-Epidemiologia e profilassi generale.
+b) i programmi dei singoli corsi d'insegnamento e la rispettiva durata;
 
-2° Anno:
+c) il numero e le modalita' degli esami richiesti per l'ammissione al secondo anno e per il conseguimento del diploma, secondo i diversi indirizzi di studio;
 
-Patologia e clinica delle malattie infettive;
+d) per ogni anno accademico il numero, i requisiti e le modalita' per l'ammissione degli allievi;
 
-Epidemiologia e profilassi delle malattie infettive;
+e) le proposte da sottoporre al Consiglio di amministrazione dell'Universita' in merito all'ammontare dei contributi da richiedere per la iscrizione e la frequenza ai singoli corsi.
 
-Patologia e clinica delle malattie non infettive di importanza sociale;
+Art. 130. - Di uno stesso insegnamento, genericamente indicato in seguito, possono venire incaricati piu' docenti aventi specifica competenza nelle diverse parti del programma, in particolare un insegnamento annuale puo' essere impartito in due corsi semestrali.
 
-Epidemiologia e profilassi delle malattie non infettive di importanza sociale;
+Art. 131. - La Scuola, alla fine del corso di studi, conferisce, un diploma di perfezionamento in fisica.
 
-Demografia e statistica sanitaria;
+Per il conseguimento del diploma si richiede una frequenza di due anni, il superamento di tutti gli esami relativi al primo ed al secondo anno del corso di studio prescelto dal candidato e dell'esame di diploma. E' in facolta' del Consiglio direttivo di abbreviare il termine di due anni, in casi speciali, tenendo conto dei titoli dei singoli allievi, in particolare per quelli provenienti da altre Scuole di perfezionamento.
 
-Legislazione ed organizzazione sanitaria.
+Art. 132. - L'esame di diploma consiste nella discussione orale di una dissertazione scritta su di un argomento di ricerca assegnato da uno dei docenti della Scuola, su parere del Consiglio direttivo. Il candidato non riconosciuto idoneo alla prima prova dell'esame di diploma non puo' ripresentarsi nello stesso anno accademico.
 
-3° Anno (con orientamento di sanita' pubblica):
+Art. 133. - La frequenza ai corsi e' obbligatoria. I candidati che non riescono a superare un esame del loro corso di studio alla seconda prova, sono esclusi dalla Scuola.
 
-Approvigionamento idrico; raccolta e smaltimento dei rifiuti liquidi e solidi; inquinamenti atmosferici;
+Art. 134. - Gli insegnamenti previsti per la Scuola sono i seguenti:
 
-Igiene edilizia ed urbanistica;
+1) Complementi di analisi matematica;
 
-Igiene dell'alimentazione;
+2) Complementi di fisica teorica;
 
-Igiene e medicina scolastica;
+3) Interazioni forti;
 
-Igiene ospitaliera;
+4) Matematica applicata;
 
-Servizi di sanita' pubblica.
+5) Particelle elementari;
 
-3° Anno (con orientamento di laboratorio):
+6) Teoria dei campi;
 
-Microscopia applicata all'igiene;
+7) Teoria delle reazioni nucleari;
 
-Microbiologia applicata all'igiene;
+8) Complementi di struttura della materia;
 
-Chimica clinica;
+9) Fisica dei reattori;
 
-Accertamento diagnostico delle malattie batteriche e parassitarie;
+10) Macchine acceleratrici;
 
-Accertamento diagnostico delle malattie virali;
+11) Progettazione e discussione di esperienze dell'alta energia;
 
-Nozioni di anatomia ed istologia patologica.
+12) Tecniche sperimentali di fisica nucleare;
 
-3° Anno (con orientamento di igiene e tecnica o direzione ospitaliera):
+13) Astrofisica;
 
-Storia degli ospedali; principi e metodologia dell'assistenza ospedaliera;
+14) Statica e dinamica dei nuclei.
 
-Igiene e tecnica delle costruzioni ospitaliere, arredamento ed impianti sanitari;
+Il Consiglio direttivo determina annualmente quali insegnamenti dovranno essere svolti. A questi si potranno aggiungere, anno per anno, a giudizio del Consiglio, altri corsi monografici, cicli di conferenze e seminari. Il Consiglio stabilisce quali insegnamenti dovranno essere considerati fondamentali e quali complementari per ogni determinato indirizzo di studio.
 
-Organizzazione e funzioni degli ospedali generali e speciali;
-
-Diritto amministrativo e legislazione ospitaliera;
-
-Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospitaliera;
-
-Selezione ed istruzione professionale del personale ospitaliero;
-
-Organizzazione e funzione dei laboratori di analisi e di accertamento necroscopico.
-
-3° Anno (con orientamento di igiene e medicina scolastica):
-
-Auxologia normale e patologica;
-
-Epidemiologia e profilassi delle malattie dell'eta' scolare;
-
-Servizi di medicina scolastica;
-
-Elementi di psicologia e pedagogia per l'eta' scolare;
-
-Igiene dell'alimentazione;
-
-Assistenza parascolastica;
-
-Edilizia scolastica.
-
-Materie complementari:
-
-Ispezione delle carni;
-
-Geologia applicata all'igiene;
-
-Igiene mentale;
-
-Malattie professionali e loro prevenzione;
-
-Diritto sanitario;
-
-Igiene navale e dell'emigrazione;
-
-Antropologia culturale e sociologia;
-
-Malattie tropicali;
-
-Istituzioni di matematica;
-
-Genetica;
-
-Gerontologia e geriatria;
-
-Elementi di economia politica.
+Art. 135. - Le Commissioni di esami sono costituite da insegnanti della Scuola secondo le vigenti norme degli esami universitari. Gli esami saranno svolti in due sessioni estiva e autunnale.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 28 gennaio 1972.
+Dato a Roma, addi' 20 febbraio 1965
 
-LEONE
+SARAGAT
 
-MISASI
+GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 11 marzo 1972 Atti del Governo, registro n. 247, foglio n. 100. - VALENTINI
+alla Corte dei conti, addi' 26 marzo 1965 Atti del Governo, registro n. 191, foglio n. 129. - VILLA
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836), e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 25. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di Diritto regionale.  
+All'art. 124 sono aggiunti i seguenti nuovi articoli relativi alla Scuola di perfezionamento in fisica.  
   
-Dopo l'art. 124 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in igiene e medicina preventiva.   
-Scuola di specializzazione in igiene e medicina preventiva   
+Scuola di perfezionamento in fisica  
   
-Art. 125. - Durata: tre anni. Ammissione: Esame di ammissione.  
-Ammissione limitata ai laureati in medicina e chirurgia. Solo con orientamento di laboratorio, sono ammessi anche i laureati in scienze biologiche.   
-Sono ammessi quindici iscritti per ogni anno di corso.   
-Art. 126. - Gli insegnamenti impartiti sono i seguenti:   
-  
-1° Anno:   
-Statistica medica e biometria;   
-Educazione sanitaria;   
-Psicologia;   
-Microbiologia;   
-Parassitologia;   
-Epidemiologia e profilassi generale.   
-  
-2° Anno:   
-Patologia e clinica delle malattie infettive;   
-Epidemiologia e profilassi delle malattie infettive;   
-Patologia e clinica delle malattie non infettive di importanza sociale;   
-Epidemiologia e profilassi delle malattie non infettive di importanza sociale;   
-Demografia e statistica sanitaria;   
-Legislazione ed organizzazione sanitaria.   
-  
-3° Anno (con orientamento di sanita' pubblica):   
-Approvigionamento idrico; raccolta e smaltimento dei rifiuti liquidi e solidi; inquinamenti atmosferici;   
-Igiene edilizia ed urbanistica;   
-Igiene dell'alimentazione;   
-Igiene e medicina scolastica;   
-Igiene ospitaliera;   
-Servizi di sanita' pubblica.   
-  
-3° Anno (con orientamento di laboratorio):   
-Microscopia applicata all'igiene;   
-Microbiologia applicata all'igiene;   
-Chimica clinica;   
-Accertamento diagnostico delle malattie batteriche e parassitarie;   
-Accertamento diagnostico delle malattie virali;   
-Nozioni di anatomia ed istologia patologica.   
-  
-3° Anno (con orientamento di igiene e tecnica o direzione ospitaliera):   
-Storia degli ospedali; principi e metodologia dell'assistenza ospedaliera;   
-Igiene e tecnica delle costruzioni ospitaliere, arredamento ed impianti sanitari;   
-Organizzazione e funzioni degli ospedali generali e speciali;   
-Diritto amministrativo e legislazione ospitaliera;   
-Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospitaliera;   
-Selezione ed istruzione professionale del personale ospitaliero;   
-Organizzazione e funzione dei laboratori di analisi e di accertamento necroscopico.   
-  
-3° Anno (con orientamento di igiene e medicina scolastica):   
-Auxologia normale e patologica;   
-Epidemiologia e profilassi delle malattie dell'eta' scolare;   
-Servizi di medicina scolastica;   
-Elementi di psicologia e pedagogia per l'eta' scolare;   
-Igiene dell'alimentazione;   
-Assistenza parascolastica;   
-Edilizia scolastica.   
-  
-Materie complementari:   
-Ispezione delle carni;   
-Geologia applicata all'igiene;   
-Igiene mentale;   
-Malattie professionali e loro prevenzione;   
-Diritto sanitario;   
-Igiene navale e dell'emigrazione;   
-Antropologia culturale e sociologia;   
-Malattie tropicali;   
-Istituzioni di matematica;   
-Genetica;   
-Gerontologia e geriatria;   
-Elementi di economia politica.   
+Art. 125. - Presso la Facolta' di scienze fisiche, matematiche e naturali dell'Universita' degli studi di Trieste e' istituita una Scuola di perfezionamento in fisica.  
+Essa ha lo scopo di preparare i laureati alla ricerca scientifica nel campo della fisica nei suoi diversi indirizzi.  
+Art. 126. - Alla Scuola sono ammessi i laureati in fisica o in matematica o in materia affine e borsisti del Centro internazionale di fisica teorica della agenzia internazionale per l'energia atomica, che soddisfino ai requisiti fissati anno per anno dal Consiglio direttivo per i diversi indirizzi di studio.  
+Art. 127. - La Scuola ha sede presso l'Universita' degli studi di Trieste e si avvale delle attrezzature di questa e della locale sezione dell'Istituto nazionale di fisica nucleare. Possono finanziare la Scuola anche enti pubblici o privati. Per il conseguimento del suo scopo la Scuola puo' avvalersi della collaborazione del Centro internazionale di fisica teorica di Trieste della Agenzia internazionale per l'energia atomica, secondo accordi che saranno presi dal Consiglio con la Direzione del centro.  
+Art. 128. - La Scuola e' retta da un Consiglio composto dal direttore che presiede, e dai professori di ruolo di fisica della Facolta' di scienze fisiche, matematiche e naturali dell'Universita' di Trieste.  
+Alle adunanze possono essere invitati anche altri professori, di ruolo e incaricati, che vi abbiano insegnamento ufficiale, nonche' il direttore del Centro internazionale di fisica teorica dell'I.A.E.A. di Trieste od un suo rappresentante.  
+Il direttore e' eletto dal Consiglio direttivo e nominato con decreto rettorale per la durata di un biennio.  
+Art. 129. - Il Consiglio direttivo determina:  
+a) gli indirizzi di studio della Scuola;  
+b) i programmi dei singoli corsi d'insegnamento e la rispettiva durata;  
+c) il numero e le modalita' degli esami richiesti per l'ammissione al secondo anno e per il conseguimento del diploma, secondo i diversi indirizzi di studio;  
+d) per ogni anno accademico il numero, i requisiti e le modalita' per l'ammissione degli allievi;  
+e) le proposte da sottoporre al Consiglio di amministrazione dell'Universita' in merito all'ammontare dei contributi da richiedere per la iscrizione e la frequenza ai singoli corsi.  
+Art. 130. - Di uno stesso insegnamento, genericamente indicato in seguito, possono venire incaricati piu' docenti aventi specifica competenza nelle diverse parti del programma, in particolare un insegnamento annuale puo' essere impartito in due corsi semestrali.  
+Art. 131. - La Scuola, alla fine del corso di studi, conferisce, un diploma di perfezionamento in fisica.  
+Per il conseguimento del diploma si richiede una frequenza di due anni, il superamento di tutti gli esami relativi al primo ed al secondo anno del corso di studio prescelto dal candidato e dell'esame di diploma. E' in facolta' del Consiglio direttivo di abbreviare il termine di due anni, in casi speciali, tenendo conto dei titoli dei singoli allievi, in particolare per quelli provenienti da altre Scuole di perfezionamento.  
+Art. 132. - L'esame di diploma consiste nella discussione orale di una dissertazione scritta su di un argomento di ricerca assegnato da uno dei docenti della Scuola, su parere del Consiglio direttivo. Il candidato non riconosciuto idoneo alla prima prova dell'esame di diploma non puo' ripresentarsi nello stesso anno accademico.  
+Art. 133. - La frequenza ai corsi e' obbligatoria. I candidati che non riescono a superare un esame del loro corso di studio alla seconda prova, sono esclusi dalla Scuola.  
+Art. 134. - Gli insegnamenti previsti per la Scuola sono i seguenti:  
+1) Complementi di analisi matematica;  
+2) Complementi di fisica teorica;  
+3) Interazioni forti;  
+4) Matematica applicata;  
+5) Particelle elementari;  
+6) Teoria dei campi;  
+7) Teoria delle reazioni nucleari;  
+8) Complementi di struttura della materia;  
+9) Fisica dei reattori;  
+10) Macchine acceleratrici;  
+11) Progettazione e discussione di esperienze dell'alta energia;  
+12) Tecniche sperimentali di fisica nucleare;  
+13) Astrofisica;  
+14) Statica e dinamica dei nuclei.  
+Il Consiglio direttivo determina annualmente quali insegnamenti dovranno essere svolti. A questi si potranno aggiungere, anno per anno, a giudizio del Consiglio, altri corsi monografici, cicli di conferenze e seminari. Il Consiglio stabilisce quali insegnamenti dovranno essere considerati fondamentali e quali complementari per ogni determinato indirizzo di studio.  
+Art. 135. - Le Commissioni di esami sono costituite da insegnanti della Scuola secondo le vigenti norme degli esami universitari. Gli esami saranno svolti in due sessioni estiva e autunnale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 gennaio 1972.
+### Dato a Roma, addi' 20 febbraio 1965
 
-LEONE MISASI
+SARAGAT GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 11 marzo 1972
+Registrato alla Corte dei conti, addi' 26 marzo 1965
 
-Atti del Governo, registro n. 247, foglio n. 100. - VALENTINI
+Atti del Governo, registro n. 191, foglio n. 129. - VILLA

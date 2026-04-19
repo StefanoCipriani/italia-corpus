@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 luglio 1979 n. 488
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 novembre 1983 n. 802
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 luglio 1979 n. 488
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 novembre 1983 n. 802
+===============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad acquistare un immobile.
 ----------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-488. Decreto del Presidente della Repubblica 30 luglio 1979, con la quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad acquistare, al prezzo di L. 29.000.000, un immobile di proprieta' della signora Venturini Renata in Schneider, sito in Udine, via Toppo, San Daniele, distinto nel nuovo catasto edilizio urbano alla partita 10740, foglio 30, mappale 108/5 e 1150, da destinare a sede sociale della locale sezione provinciale.  
+802. Decreto del Presidente della Repubblica 21 novembre 1983, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad acquistare, al convenuto prezzo di L. 50.000.000, un immobile sito in Brindisi, via Santa Margherita n. 21, censito al nuovo catasto edilizio urbano alla partita 510, foglio 190, mappale 1890/2, di proprieta' dei signori Maria Elisabetta Errico quale usufruttuaria per un terzo e Giovanni, Carlo, Cecilia e Anna Maria Caputo quali proprietari.   
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 3 ottobre 1979  
-Registro n. 7 Presidenza, foglio n. 118
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 11 gennaio 1984   
+Registro n. 1 Presidenza, foglio n. 85

@@ -1,83 +1,97 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 marzo 1981 n. 557
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1966 n. 99
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 marzo 1981 n. 557
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1966 n. 99
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' degli studi di Perugia e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-L'art. 57, relativo al corso di laurea in scienze biologiche, e' modificato nel senso che l'insegnamento complementare di fitogeografia muta la denominazione in quella di geobotanica.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, numero 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Veduta la [legge 26 luglio 1957, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-07-26;741);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-L'art. 58, relativo alle norme sull'internato negli istituti degli iscritti al corso di laurea in scienze biologiche, e' modificato nel senso che il terzo comma e' soppresso.  
-
-Art. 3
-------
-
+Decreta:  
   
-L'art. 62, relativo alle norme sull'internato negli istituti degli iscritti al corso di laurea in scienze geologiche, e' sostituito dal seguente:  
-"Dopo il primo biennio lo studente dovra' frequentare uno degli istituti della facolta' nel quale attendera' alla elaborazione della tesi di laurea".  
-
-Art. 4
-------
-
-  
-L'art. 63, relativo all'ammissione all'esame di laurea in scienze geologiche, e' sostituito dal seguente:  
-"Per essere ammesso all'esame di laurea, lo studente.  
-deve aver seguito i corsi e superati gli esami degli insegnamenti fondamentali, e di almeno quattro complementari. L'esame di laurea comprende la discussione della tesi".  
-
-Art. 5
-------
-
-  
-L'art. 71, relativo al biennio propedeutico agli studi di ingegneria, e' modificato nel senso che dopo la lettera c) e con lo spostamento della lettera successiva e' inserita la seguente lettera d) con "chimica organica" quando lo studente dichiari di voler proseguire gli studi per la laurea in ingegneria chimica e in una sede dove l'insegnamento della "geometria II" non sia previsto per tale corso di laurea.  
-Nello stesso articolo 71, dopo il primo comma relativo agli insegnamenti fondamentali aggiuntivi, e inserito il seguente comma:  
-"Disegno II (Industriale)", "chimica organica" per gli studenti che intendono proseguire i loro studi per la laurea in ingegneria chimica o meccanica".  
+Lo statuto dell'Universita' degli studi di Perugia approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+L'art. 27 e' abrogato e sostituito dal seguente:  
+"La Facolta' di lettere e filosofia conferisce la laurea in Lettere, la laurea in Filosofia e la laurea in Lingue e letterature straniere moderne (indirizzo europeo).  
+Dopo l'art. 30 e' aggiunto il seguente nuovo articolo, relativo alla istituzione del corso di laurea in Lingue e letterature straniere moderne (indirizzo europeo) presso la Facolta' di lettere e filosofia, con il conseguente spostamento della numerazione degli articoli successivi.  
+Corso di laurea in Lingue o letterature straniere moderne (indirizzo europeo)  
+Art. 31. - La durata del corso degli studi per la laurea in Lingue e letterature straniere moderne (indirizzo europeo) e' di quattro anni.  
+E' titolo di ammissione il diploma di maturita' classica.  
+a) Insegnamenti fondamentali:  
+1) Letteratura italiana;  
+2) Letteratura latina;  
+3) Glottologia;  
+4) Una lingua e letteratura straniera moderna;  
+5) Una seconda lingua e letteratura straniera moderna;  
+6) Filologia romanza (o germanica o ugro-finnica);  
+7) Storia medioevale;  
+8) Storia moderna;  
+9) Storia dell'arte moderna (o storia dell'arte medioevale e moderna);  
+10) Geografia;  
+b) Insegnamenti complementari (quando non siano scelti come fondamentali ai su indicati numeri 4), 5) e 6):  
+1) Lingua e letteratura francese;  
+2) Lingua e letteratura spagnola;  
+3) Lingua e letteratura portoghese;  
+4) Lingua e letteratura romena;  
+5) Lingua e letteratura inglese;  
+6) Lingua e letteratura tedesca;  
+7) Lingua e letteratura russa;  
+8) Filologia romanza;  
+9) Filologia germanica;  
+10) Letteratura anglo-americana;  
+11) Letteratura ispano-americana;  
+12) Storia della lingua italiana;  
+13) Storia della letteratura italiana moderna e contemporanea;  
+14) Storia delle tradizioni popolari;  
+15) Storia della musica;  
+16) Storia del teatro e dello spettacolo;  
+17) Letteratura greca;  
+18) Lingua e letteratura latina medioevale;  
+19) Storia romana;  
+20) Storia greca;  
+21) Storia della filosofia;  
+22) Storia della filosofia moderna e contemporanea.  
+Lo studente dovra' seguire i corsi e sostenere gli esami in tutti gli insegnamenti fondamentali e in tre altri insegnamenti da lui scelti fra i complementari. Uno degli insegnamenti complementari potra' essere sostituito dallo studente con una disciplina di altri corsi di studio della stessa o diversa Facolta'.  
+L'insegnamento della lingua e letteratura straniera moderna, alla quale lo studente intende principalmente dedicarsi, dovra' essere seguito per tutti i quattro anni, alla fine di ciascuno dei quali egli sara' sottoposto a prove scritte, di anno in anno gradualmente progressive.  
+Dovranno poi essere seguiti per due anni l'insegnamento della filologia a cui quella stessa prima lingua si ricollega e l'insegnamento della seconda lingua e letteratura straniera moderna prescelta. Due altri insegnamenti fondamentali dovranno pure essere seguiti per un biennio, lo studente potra' poi seguire per un biennio anche un altro insegnamento, ed in tal caso potra' ridurre da tre a due gli insegnamenti complementari a sua scelta.  
+Gli esami di letteratura italiana e di letteratura latina comprendono una prova scritta preliminare.  
+Il preside, sentita, ove ritenga, la Facolta', deve controllare i piani di studio presentati dagli studenti e approvarli prima che siano resi definitivi.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali dell'indirizzo prescelto e in tutti gli altri insegnamenti compresi nel piano degli studi approvato dal preside.  
+Art. 33 (gia' 32). - Agli insegnamenti complementari del corso di laurea in Materie letterarie sono aggiunti quelli di:  
+11) Storia della scuola e delle istituzioni educative;  
+12) Storia della musica;  
+13) Storia del teatro.  
+Art. 34 (gia' 33). - Agli insegnamenti complementari del corso di laurea in Pedagogia sono aggiunti quelli di:  
+8) Storia della scuola e delle istituzioni educative;  
+9) Didattica;  
+10) Storia del teatro;  
+Il) Storia della letteratura per l'infanzia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 marzo 1981
+### Dato a Roma, addi' 8 febbraio 1966
 
-PERTINI BODRATO
+SARAGAT GUI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 26 settembre 1981
+Registrato alla Corte dei conti, addi' 12 marzo 1966
 
-Registro n. 90 Istruzione, foglio n. 233
+Atti del Governo, registro n. 202, foglio n. 27. - VILLA

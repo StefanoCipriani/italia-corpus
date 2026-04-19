@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 ottobre 1975 n. 869
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1984 n. 1149
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 ottobre 1975 n. 869
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1984 n. 1149
+================================================================
 
 Autorizzazione all'Associazione nazionale mutilati ed invalidi del lavoro, in Roma, ad acquistare un immobile.
 --------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-869. Decreto del Presidente della Repubblica 3 ottobre 1975, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Associazione nazionale mutilati ed invalidi del lavoro, in Roma, viene autorizzata ad acquistare, al prezzo di L. 64.800.000, un fabbricato sito in Arezzo alla via Madonna del Prato numeri 38-40, angolo via Tolletta numeri 2-4-6, distinto nel nuovo catasto edilizio urbano alla partita 5276, foglio 174, part. 72, di proprieta' del sig. Dino Matteini.  
+1149. Decreto del Presidente della Repubblica 5 dicembre 1984, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Associazione nazionale mutilati ed invalidi del lavoro, in Roma, viene autorizzata ad acquistare, al prezzo di lire 74.500.000, i locali di mq 394 al pianoterra dello stabile sito in Pistoia, via Zamenhoff, costruito su terreno censito al nuovo catasto terreni al foglio 220, mappali 445, 446, 447, 448 e 552, di proprieta' del sig.  
+Raffaello Monfardini, come da atto di compravendita sottoposto a condizione sospensiva 18 gennaio 1975, n. 15144 di repertorio, a rogito dott. Raffaele Marchitelli, notaio in Pistoia, registrato a Pistoia in data 4 marzo 1975 al n. 659.   
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 13 febbraio 1976  
-Atti di Governo, registro n. 2, foglio n. 56
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 15 marzo 1985   
+Registro n. 1 Lavoro, foglio n. 224

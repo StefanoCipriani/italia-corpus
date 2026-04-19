@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 settembre 1956 n. 1211
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1973 n. 77
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 settembre 1956 n. 1211
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1973 n. 77
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
@@ -12,44 +12,104 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con i [regi decreti 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-13;2229); [30 ottobre 1930, n. 1931](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1931); [22 ottobre 1931, n. 1463](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-22;1463); [27 ottobre 1932, n. 2079](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2079); [27 dicembre 1934, n. 2435](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-27;2435); [1 ottobre 1936, n. 2472](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2472); [20 aprile 1939, n. 1068](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-04-20;1068); [2 ottobre 1940, n. 1470](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-02;1470); [24 novembre 1941, n. 1443; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1941-11-24;1443) [20 novembre 1947, n. 1702 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-11-20;1702) [20 luglio 1948, n. 1161](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-07-20;1161); [31 ottobre 1950, n. 1278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1278); [19 giugno 1951, n. 1093](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-19;1093); [27 ottobre 1951, n. 1805](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1805); [27 ottobre 1951, n. 1806](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1806); [2 agosto 1952, n. 1222](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-08-02;1222); [12 maggio 1953, n. 549](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-05-12;549); [26 aprile 1954, n. 740](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-04-26;740); [4 febbraio 1955, n. 125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-04;125); [19 luglio 1955, n. 763](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-19;763) e [31 agosto 1955, n. 912](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-08-31;912);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio Superiore della pubblica istruzione;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 27. - E' aggiunto il seguente comma:  
-"Alla Facolta' e' inoltre annesso un istituto di statistica, il quale e' organizzato come i seminari di cui a l'art. 23 del regolamento generale universitario, a cui possono essere ammessi solo laureati o studenti universitari".  
-Art. 31. - Agli insegnamenti del corso di laurea in filosofia sono aggiunti i seguenti:  
-a) Filosofia della storia;  
-b) Storia greca;  
-c) Storia contemporanea;  
-d) Storia della letteratura latina medioevale;  
-e) Lingua e letteratura spagnola.  
-Art. 47. - Agli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti i seguenti:  
-a) Micropaleontologia;  
-b) Geologia stratigrafica.  
-Nel comma settimo, riguardante le precedenze, per l'esame, fra gli insegnamenti del corso di laurea medesimo, e' aggiunta la seguente norma:  
-"l'esame di fisica terrestre se non ha superato quello di fisica sperimentale (biennale)".  
-Art. 58. - Agli insegnamenti complementari del corso di laurea in farmacia e' aggiunto quello di "chimica farmaceutica applicata".  
+  
+Art. 53, relativo all'elenco degli insegnamenti fondamentali del corso di laurea in lettere e' modificato nel senso che l'insegnamento di "Storia greca e storia romana (con esercitazioni di epigrafia romana)" viene scisso nei seguenti insegnamenti:  
+  
+Storia greca;  
+Storia romana (con esercitazioni di epigrafia romana).  
+  
+Art. 60. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:  
+  
+Tisiologia e malattie dell'apparato respiratorio;  
+Fisiopatologia clinica;  
+Analisi chimico-cliniche.  
+  
+Art. 68. - All'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti quelli di:  
+  
+Conservazione della natura;  
+Biologia marina;  
+Chimica agraria;  
+Biometria;  
+Geologia stratigrafica;  
+Sedimentologia;  
+Micropaleontologia;  
+Vulcanologia;  
+Oceanografia;  
+Pedologia;  
+Paleobotanica.  
+  
+Nello stesso elenco l'insegnamento complementare di "Fisica terrestre e climatologia" muta la denominazione in quella di "Fisica terrestre".  
+Nello stesso articolo, dopo l'elenco degli insegnamenti complementari, il secondo comma e' abrogato e sostituito dal seguente:  
+"E' inoltre obbligatoria la frequenza (internato) per un biennio in un laboratorio e per un anno in un altro laboratorio, per la preparazione rispettivamente della dissertazione di laurea e di una sottotesi. La dissertazione di laurea e la sottotesi debbono essere una di argomento biologico e l'altra di argomento geomineralogico".  
+  
+Art. 69. - All'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti quelli di:  
+  
+Conservazione della natura;  
+Biologia marina;  
+Citogenetica;  
+Biochimica industriale;  
+Biometria;  
+Immunologia;  
+Virologia.  
+  
+Nello stesso articolo, dopo l'elenco degli insegnamenti complementari, il terzo comma e' abrogato e sostituito dal seguente: "E' inoltre obbligatoria la frequenza (internato) per un biennio al laboratorio scelto per la dissertazione di laurea e per un anno ad un laboratorio diverso da quello scelto per la dissertazione stessa".  
+  
+Art. 70. - All'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti quelli di:  
+  
+Rilevamento geologico;  
+Geotecnica;  
+Paleobotanica;  
+Paleontologia umana;  
+Mineralogia sistematica;  
+Geologia strutturale;  
+Geofisica applicata;  
+Geologia degli idrocarburi;  
+Geologia nucleare;  
+Geologia regionale;  
+Vulcanologia;  
+Oceanografia;  
+Idrogeologia;  
+Geopedologia;  
+Cristallochimica;  
+Petrografia sedimentaria;  
+Statistica.  
+  
+Nello stesso articolo, dopo l'elenco degli insegnamenti complementari il settimo comma e' modificato nel senso che l'ultima parola in parentesi (biennale) e' abrogata e sostituita dall'ordinale I.  
+Nello stesso articolo l'ottavo comma e' abrogato e sostituito dal seguente:  
+"E' obbligatoria nel secondo biennio la frequenza (internato) per due anni nell'istituto di geologia o di paleontologia o di mineralogia e petrografia per la preparazione di una dissertazione (tesi) sperimentale di laurea".  
+  
+Art. 73, relativo alle norme generali e particolari a ciascun corso di studi e' modificato come segue:  
+Per il corso di laurea in scienze naturali il punto 3) e' abrogato e sostituito dal seguente:  
+3) Discussione della sottotesi.  
+Per il corso di laurea in scienze biologiche il punto 3) e' abrogato e sostituito dal seguente:  
+3) Discussione di un argomento orale o scritto, preferibilmente nella materia scelta per l'internato annuale.  
+  
+Per il corso di laurea in scienze geologiche i punti 1) e 2) sono abrogati e sostituiti dal seguente:  
+Discussione della dissertazione sperimentale scritta.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 settembre 1956
+### Dato a Roma, addi' 16 febbraio 1973
 
-GRONCHI ROSSI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 31 ottobre 1956
+Registrato alla Corte dei conti, addi' 3 aprile 1973
 
-Atti del Governo, registro n. 101, foglio n. 110. - CARLOMAGNO
+Atti di Governo, registro n. 257, foglio n. 40. - VALENTINI

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1103
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1986 n. 504
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1103
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1986 n. 504
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
@@ -39,14 +39,14 @@ Articolo unico
 --------------
 
   
-Nell'art. 81, relativo al corso di laurea in scienze naturali, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-protozoologia.  
+Nell'art. 69, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+analisi chimico-biologiche cliniche.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 dicembre 1985
+### Dato a Roma, addi' 2 maggio 1986
 
 COSSIGA
 
@@ -54,6 +54,6 @@ FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 30 maggio 1986
+Registrato alta Corte dei conti, addi' 11 agosto 1986
 
-Registro n. 44 Istruzione, foglio n. 296
+Registro n. 63 Istruzione, foglio n. 329

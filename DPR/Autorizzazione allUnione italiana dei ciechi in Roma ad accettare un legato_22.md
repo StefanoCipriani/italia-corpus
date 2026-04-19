@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1978 n. 514
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 novembre 1980 n. 978
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1978 n. 514
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 novembre 1980 n. 978
+===============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare un legato.
 -------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-514. Decreto del Presidente della Repubblica 25 luglio 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il legato disposto dal sig. Giudici Davide con testamento pubblico ricevuto dal notaio dott. Gian Mario Grazioli di Bergamo il 10 novembre 1973 ed annotato al n. 232 rep. testamenti, allegato al verbale di passaggio di testamento pubblico agli atti tra vivi il 12 febbraio 1975, n. 30332 di repertorio e n. 12301 di raccolta, registrato a Bergamo il 13 febbraio 1975 ai n. 560 mod. 71/ M, consistente nella somma di L. 100.000.   
+978. Decreto del Presidente della Repubblica 17 novembre 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Russel Edhit L. con testamento 13 ottobre 1972, pagina 8, clausola n. 41 del V paragrafo, e pagina 10 stesso paragrafo V, consistente nella somma di dollari USA 7.269,75.  
   
-Visto, il Guardasigilli: BONIFACIO   
-Registrato alla Corte dei conti, addi' 30 agosto 1978   
-Registro n. 6 Presidenza, foglio n. 161
+Visto, il Guardasigilli: SARTI  
+Registrato alla Corte dei conti, addi' 14 gennaio 1981  
+Registro n. 1 Presidenza, foglio n. 38

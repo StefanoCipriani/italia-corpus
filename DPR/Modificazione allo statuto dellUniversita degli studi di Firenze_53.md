@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1984 n. 269
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1983 n. 792
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1984 n. 269
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1983 n. 792
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
@@ -39,20 +39,24 @@ Articolo unico
 --------------
 
   
-  
-Nell'art. 65, relativo al corso di laurea in medicina e chirurgia della facolta' di medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto ti seguente nuovo insegnamento:   
-biologia molecolare.   
+Nell'art. 65, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+dermatologia allergologica e professionale;  
+semeiotica ostetrica;  
+diabetologia;  
+fisiopatologia chirurgica;  
+chimica tossicologica forense;  
+fisiopatologia endocrina.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 marzo 1984
+### Dato a Roma, addi' 4 giugno 1983
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 11 giugno 1984
+Registrato alla Corte dei conti, addi' 27 dicembre 1983
 
-Registro n. 34 Istruzione, foglio n. 325
+Registro n. 80 Istruzione, foglio n. 13

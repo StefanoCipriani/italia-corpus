@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1986 n. 481
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 ottobre 1985 n. 1138
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1986 n. 481
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 ottobre 1985 n. 1138
+===============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134); e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -39,14 +39,14 @@ Articolo unico
 --------------
 
   
-Nell'art. 96, relativo al corso di laurea in scienze biologiche, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-metodologia biochimica.  
+Nell'art. 54, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+neuroanatomia clinica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 maggio 1986
+### Dato a Roma, addi' 12 ottobre 1985
 
 COSSIGA
 
@@ -54,6 +54,6 @@ FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 25 luglio 1986
+Registrato alla Corte dei conti, addi' 9 settembre 1986
 
-Registro n. 60 Istruzione, foglio n. 337
+Registro n. 69 Istruzione, foglio n. 389

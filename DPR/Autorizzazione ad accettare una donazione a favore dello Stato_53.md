@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 maggio 1976 n. 706
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 settembre 1980 n. 1127
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 maggio 1976 n. 706
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 settembre 1980 n. 1127
+=================================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-706. Decreto del Presidente della Repubblica 18 maggio 1976, col quale, sulla proposta del Ministro per le finanze, di concerto con il Ministro per il lavoro e la previdenza sociale, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dal sig. Menegon Floriano con atto 2 dicembre 1955, n. 10253 di repertorio, a rogito dott. Paolo De Lorenzi, notaio in Ravenna, dell'appezzamento di terreno, catastalmente indicato in atto, sito in comune di Brisighella (Ravenna), parrocchia Zattaglia, strada consorziale torrente Sintria, da stralciarsi dal podere prebendale denominato "Il Casetto", della superficie catastale di mq 3.410 e sul quale il Ministero del lavoro e della previdenza sociale, con le esercitazioni pratiche di corsi di addestramento professionale per lavoratori edili, ha gia' realizzato delle casette minime.  
+1127. Decreto del Presidente della Repubblica 1 settembre 1980, col quale, sulla proposta del Ministro degli affari esteri, di concerto con il Ministro delle finanze, il Ministero delle finanze viene autorizzato ad accettare la donazione di un immobile sito in Montevideo, calle Paraguay n. 1177, da tempo sede dell'Istituto italiano di cultura, disposta dall'associazione "Pro cultura italiana en el Uruguay S.A." con atto di donazione 25 maggio 1970.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 2 ottobre 1976  
-Atti di Governo, registro n. 9, foglio n. 55
+Visto, il Guardasigilli: SARTI  
+Registrato alla Corte dei conti, addi' 16 gennaio 1981  
+Registro n. 1 Esteri, foglio n. 226

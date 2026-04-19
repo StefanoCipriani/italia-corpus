@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1974 n. 406
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 275
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1974 n. 406
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 275
+============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -10,10 +10,10 @@ Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad ac
 Art. 1
 ------
 
-N.
+n.
 
-406. Decreto del Presidente della Repubblica 7 giugno 1974, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Emilia Peluffo ved. Nobile, con testamento olografo in data 12 ottobre 1968, pubblicato, a rogito del notaio dott. Guido Gili di Torino, in data 24 ottobre 1972, n. 3645 di repertorio e n. 1677 di raccolta e registrato a Torino il 7 novembre 1972 al n. 35960 atti pubblici, consistente nella somma di L. 6.952.230.  
+275. Decreto del Presidente della Repubblica 10 marzo 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 75.000.000, disposto dal sig. Tumminello Biagio a favore della fondazione "Pro juventute istituto don Gnocchi", che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale 16 gennaio 1984 del consiglio di amministrazione della fondazione stessa, con testamento olografo 18 maggio 1982, pubblicato in data 30 settembre 1983, n. 214859 di repertorio, a rogito dott. Olivares Giovanni, notaio in Milano, registrato a Milano in data 7 ottobre 1983 al n. 15784.  
   
-Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 22 agosto 1974  
-Atti di Governo, registro n. 5, foglio n. 9. - SCIARRETTA
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 6 giugno 1986  
+Registro n. 5 Presidenza, foglio n. 87

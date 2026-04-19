@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 maggio 1973 n. 395
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 aprile 1973 n. 377
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 maggio 1973 n. 395
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 aprile 1973 n. 377
 =============================================================
 
 Donazione di un immobile disposta a favore dello Stato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-395. Decreto del Presidente della Repubblica 8 maggio 1973, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione a favore dello Stato, disposta dal comune di Gualtieri (Reggio Emilia) con atto 3 aprile 1971, n. 893 di rep., a rogito del notaio Luigi Govoni, del suolo edificatorio di mq. 170 sul quale, a cura e spese dello Stato, e' gia' stata realizzata la sede della sezione di collocamento.  
+377. Decreto del Presidente della Repubblica 6 aprile 1973, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dalla societa' "Ambrogio Margherita e C. - S.a.s.", sedente in Torino, con atto 4 giugno 1970, n. 42819 di rep., a rogito notaio Paolo Di Giovanni di Vado Ligure, di un appezzamento di terreno di circa mq. 1630, al netto delle mezzerie stradali, sito in Andora (Savona).  
   
 Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 9 luglio 1973  
-Atti di Governo, registro n. 258, foglio n. 169. - CARUSO
+Registrato alla Corte dei conti, addi' 2 luglio 1973  
+Atti di Governo, registro n. 258, foglio n. 145. - VALENTINI

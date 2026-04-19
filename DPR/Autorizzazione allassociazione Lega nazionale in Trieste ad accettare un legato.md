@@ -1,20 +1,19 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 gennaio 1980 n. 42
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 novembre 1986 n. 1060
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 gennaio 1980 n. 42
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 novembre 1986 n. 1060
+================================================================
 
-Autorizzazione all'associazione "Lega nazionale", in Trieste, ad accettare un legato.
--------------------------------------------------------------------------------------
+Autorizzazione all'associazione Lega nazionale, in Trieste, ad accettare un legato.
+-----------------------------------------------------------------------------------
 
 Art. 1
 ------
 
-N.
+n.
 
-42. Decreto del Presidente della Repubblica 15 gennaio 1980, col quale, sulla proposta del Ministro per i beni culturali e ambientali, l'associazione "Lega nazionale", in Trieste, viene autorizzata ad accettare il legato, consistente in due appartamenti siti in Trieste piu' un importo in contanti, del valore complessivo di circa L. 65.850.000, disposto dal dott. Paolo del Fonte con testamento olografo 10 febbraio 1978, pubblicato in data 21 settembre 1978, n. 16355/1884 di repertorio, a rogito dott.  
-Francesco Testa, notaio in Milano.  
+1060. Decreto del Presidente della Repubblica 17 novembre 1986, col quale, sulla proposta del Ministro per i beni culturali e ambientali, l'associazione Lega nazionale, in Trieste, viene autorizzata ad accettare il legato, consistente nella somma di L. 5.000.000, piu' gli interessi maturati, disposto dalla sig.ra Gemma Bernardis ved. Mosetti con testamento pubblico 4 aprile 1979, n. 12/1 di repertorio, a rogito dott. Medardo Samengo, notaio in Trieste, registrato con atto 7 febbraio 1985, n. 107047/761 di repertorio, a rogito medesimo notaio, registrato a Trieste in data 13 febbraio 1985 al n. 485.  
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 25 febbraio 1980  
-Registro n. 4 Beni culturali, foglio n. 35
+Visto, il Guardasigilli: ROGNONI  
+Registrato alla Corte dei conti, addi' 25 marzo 1987  
+Registro n. 8 Beni culturali, foglio n. 225

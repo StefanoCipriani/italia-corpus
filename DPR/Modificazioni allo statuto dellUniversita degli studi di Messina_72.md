@@ -1,43 +1,181 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1957 n. 736
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1978 n. 864
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1957 n. 736
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1978 n. 864
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923), e modificato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nella deliberazione degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Dopo l'art. 186, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in anatomia patologica.
+
+Scuola di specializzazione in anatomia patologica
+
+Art. 187. - La scuola di specializzazione in anatomia patologica ha sede presso l'istituto di anatomia patologica - policlinico universitario di Messina - e conferisce il diploma di specialista in anatomia patologica.
+
+Art. 188. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione e, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Art. 189. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+
+Art. 190. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.
+
+Art. 191. - Il numero massimo degli allievi e' di otto per ogni anno di corso e complessivamente di trentadue iscritti per l'intero corso di studio.
+
+Art. 192. - L'ammissione al corso avviene per titoli ed esami.
+
+Art. 193. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+anatomia patologica sistematica I;
+
+tecnica delle autopsie;
+
+diagnostica anatomo-patologica macroscopica I;
+
+tecniche istologiche ed istochimiche.
+
+2° Anno:
+
+anatomia patologica sistematica II;
+
+diagnostica anatomo-patologica macroscopica II;
+
+diagnostica istopatologica I;
+
+tecniche e diagnostica citologica e citogenetica.
+
+3° Anno:
+
+diagnostica istopatologica II;
+
+tecniche di microscopia elettronica e biologia ultrastrutturale;
+
+immunopatologia.
+
+4° Anno:
+
+diagnostica istopatologica III;
+
+diagnostica isto-citopatologica ultrastrutturale;
+
+diagnostica autoptica medico legale ed elementi di
+
+legislazione sanitaria;
+
+applicazioni statistiche ed epidemiologiche.
+
+Art. 194. - La frequenza alle lezioni, alle esercitazioni pratiche e' obbligatoria.
+
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Art. 195. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
+
+Al termine del corso di studi per il conseguimento del diploma di specialista in anatomia patologica gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 12 settembre 1978
+
+PERTINI
+
+PEDINI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 22 dicembre 1978 Registro n. 132 Istruzione, foglio n. 305
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), modificato con [regio decreto 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905), e successivi;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923), e modificato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nella deliberazione degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:   
-art. 46. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di:   
-13) "Genetica medica".   
+Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+Dopo l'art. 186, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in anatomia patologica.  
+Scuola di specializzazione in anatomia patologica  
+Art. 187. - La scuola di specializzazione in anatomia patologica ha sede presso l'istituto di anatomia patologica - policlinico universitario di Messina - e conferisce il diploma di specialista in anatomia patologica.  
+Art. 188. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione e, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Art. 189. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+Art. 190. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.  
+Art. 191. - Il numero massimo degli allievi e' di otto per ogni anno di corso e complessivamente di trentadue iscritti per l'intero corso di studio.  
+Art. 192. - L'ammissione al corso avviene per titoli ed esami.  
+Art. 193. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+anatomia patologica sistematica I;  
+tecnica delle autopsie;  
+diagnostica anatomo-patologica macroscopica I;  
+tecniche istologiche ed istochimiche.  
+2° Anno:  
+anatomia patologica sistematica II;  
+diagnostica anatomo-patologica macroscopica II;  
+diagnostica istopatologica I;  
+tecniche e diagnostica citologica e citogenetica.  
+3° Anno:  
+diagnostica istopatologica II;  
+tecniche di microscopia elettronica e biologia ultrastrutturale;  
+immunopatologia.  
+4° Anno:  
+diagnostica istopatologica III;  
+diagnostica isto-citopatologica ultrastrutturale;  
+diagnostica autoptica medico legale ed elementi di  
+legislazione sanitaria;  
+applicazioni statistiche ed epidemiologiche.  
+Art. 194. - La frequenza alle lezioni, alle esercitazioni pratiche e' obbligatoria.  
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
+Art. 195. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.  
+Al termine del corso di studi per il conseguimento del diploma di specialista in anatomia patologica gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 giugno 1957
+### Dato a Roma, addi' 12 settembre 1978
 
-GRONCHI MORO
+PERTINI PEDINI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 22 agosto 1957
+Registrato alla Corte dei conti, addi' 22 dicembre 1978
 
-Atti del Governo, registro n. 107, foglio n. 57. - CARLOMAGNO
+Registro n. 132 Istruzione, foglio n. 305

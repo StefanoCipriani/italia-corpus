@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 agosto 1953 n. 992
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1965 n. 419
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 agosto 1953 n. 992
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1965 n. 419
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -10,9 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con i [regi decreti 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169); [31 ottobre 1929, n. 2481](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2481); [30 ottobre 1930, n. 1858](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1858); [27 ottobre 1932, n. 2082](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-10-27;2082); 13 dicembre 1934, n.
-
-2404; 1 ottobre 1936, n. 2020; 13 luglio 1939, n. 1168; 26 ottobre 1940, n. 2029 e 24 ottobre 1942, n. 1785; con [regio decreto-legge 27 gennaio 1944, n. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto.legge:1944-01-27;58); con [decreto legislativo luogotenenziale 5 aprile 1945, n. 238](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo.luogotenenziale:1945-04-05;238); e con [decreti del Presidente della Repubblica 21 aprile 1949, n. 451](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-21;451); [31 ottobre 1950, n. 1293](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1293); [11 maggio 1951, n. 633](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-05-11;633) e [23 gennaio 1952, n. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-01-23;66);
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,7 +18,11 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta, Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -30,467 +32,158 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 7. - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti i seguenti:
+Art. 7. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di:
 
-11) Diritto canonico;
+"Organizzazione internazionale".
 
-12) Diritto industriale;
+Art. 10, relativo alle modalita' di insegnamento delle lingue straniere per il corso di laurea in Scienze politiche e' soppresso, con il conseguente spostamento della successiva numerazione.
 
-13) Esegesi delle fonti del diritto italiano.
+Art. 18, concernente il Seminario giuridico, e' modificato nel senso che il secondo comma e' abrogato e sostituito dal seguente: "La Direzione della biblioteca e' affidata ad un bibliotecario di gruppo A, nominato con pubblico concorso, il quale svolgera' la sua attivita' secondo le direttive del Seminario".
 
-Art. 8. - Al n. 1 dopo l'insegnamento di "diritto privato comparato" sono aggiunti i seguenti altri "diritto del lavoro" e "diritto processuale civile".
+Art. 49. - Agli Istituti della Facolta' di agraria e' aggiunto il seguente:
 
-Dopo l'ultimo comma e' aggiunto quanto appresso:
+"Istituto di Entomologia agraria".
 
-5) "l'esame di diritto costituzionale deve precedere quello di diritto amministrativo".
+Art. 79. - L'insegnamento complementare di Astronomia del corso di laurea in Matematica per l'indirizzo didattico viene contraddistinto con un asterisco (\*), per indicare che e' fra i corsi a scelta dello studente ad indirizzo fisico.
 
-Art. 9. - Agli insegnamenti complementari del corso di laurea in scienze politiche sono aggiunti i seguenti:
+Art. 94. - Agli Istituti della Facolta' di scienze matematiche, fisiche e naturali e' aggiunto l'"Osservatorio di Geofisica e Fisica cosmica".
 
-6) Filosofia del diritto;
+Nello stesso articolo la denominazione dell'Istituto di "Chimica, biologica" viene cosi' integrata: "Istituto di Chimica biologica (comprendente il Centro di studi sulla alimentazione)".
 
-7) Sociologia;
+Dopo l'art. 99, e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli, relativi al Centro di studi sull'alimentazione, al Seminario di studi chimici e all'Osservatorio di Geofisica, e Fisica cosmica.
 
-8) Contabilita' di Stato.
+Centro di studi sull'alimentazione
 
-L'art. 14 e' sostituito dal seguente:
+Art. 100. - Presso la Facolta' di scienze viene istituito un Centro di studi sull'alimentazione che ha per finalita' studi sperimentali ed attivita' sociali attinenti a problemi di biochimica alimentare e relative tecniche produttivistiche.
 
-"Alla Facolta' di giurisprudenza sono annessi l'istituto di diritto romano, l'istituto di diritto penale, l'istituto di diritto privato, l'istituto di diritto pubblico, l'istituto di storia del diritto italiano, l'istituto di scienze politiche e sociali, l'istituto di economia e finanza.
+Art. 101. - Tale Centro ha sede presso l'Istituto di Chimica biologica il cui direttore assume anche la direzione di detto Centro.
 
-Ciascun istituto e' diretto dal professore di ruolo che sara' designato dal Consiglio di facolta' per un triennio. Gli istituti provvedono all'acquisto di libri e di periodici, tengono corsi facoltativi di esercitazioni e conferenze, promuovono studi e pubblicazioni ed assegnano eventualmente premi e sussidi sui fondi della rispettiva dotazione.
+Art. 102. - Per la gestione di tale Centro verranno utilizzati i fondi di ordinaria amministrazione dell'Istituto di Chimica biologica ed eventuali sovvenzioni da parte di enti o di privati.
 
-Premi e sussidi possono essere attribuiti sia agli studenti che ai laureati nella Facolta' non oltre i tre anni dalla laurea".
+Seminario di studi chimici
 
-L'art. 15 e' sostituito dal seguente:
+Art. 103. - Viene istituito il Seminario di studi chimici, cui partecipano i diversi istituti chimici della Facolta' di scienze.
 
-"Qualora gli istituti di cui all'articolo precedente non abbiano personale proprio i libri e periodici sono affidati alla custodia della biblioteca del Seminario giuridico".
+Il Seminario di studi chimici ha le seguenti finalita' 1) organizzare simposi, conferenze, cicli di lezione, riunioni e pubblicazioni al fine di ampliare e completare la preparazione degli studenti e dei ricercatori e permettere un aggiornamento sui piu' moderni campi della ricerca pura e applicata 2) promuovere e facilitare la collaborazione tra i vari Istituti chimici mettendo a, disposizione degli stessi servizi, apparecchiature e ogni altro mezzo idoneo allo scopo.
 
-Dopo l'art. 15 sono aggiunti i seguenti nuovi articoli, relativi al Seminario giuridico, con il conseguente spostamento della numerazione degli articoli successivi:
+Art. 104. - Organo direttivo del seminario di studi chimici e' un Comitato costituito da tutti i professori di ruolo delle discipline chimiche della Facolta' di scienze.
 
-Art. 16. - "Alla Facolta' di giurisprudenza e' annesso un seminario giuridico il quale ha lo scopo di fornire agli insegnanti, assistenti e studenti della Facolta' mezzi idonei per lo svolgimento delle loro attivita' di studiosi".
+Il Comitato nomina nel suo seno un direttore del Seminario, che durera' in carica un anno accademico.
 
-Art. 17. - Del Seminario fa parte la biblioteca della Facolta' giuridica. Il Seminario cura la pubblicazione e diffusione degli annuali della Facolta' giuridica e il cambio di essi con pubblicazioni di altri enti ed istituti. Il Seminario patrocina ed eventualmente sussidia o premia studi particolari degli insegnanti, assistenti e studenti. Esso, inoltre, puo' assumere, previo consenso del rettore, altre iniziative intese all'incremento dell'attivita' didattica e scientifica della Facolta'".
+Art. 105. - Le attivita' del Seminario di studi chimici sono determinate e organizzate dal Comitato.
 
-Art. 18. - "La direzione del Seminario giuridico e' affidata ad un professore di ruolo della Facolta' di giurisprudenza nominato dal Consiglio di facolta'.
+Gli atti amministrativi avranno la firma del solo direttore che risponde personalmente del funzionamento del Seminario al Comitato.
 
-La direzione della biblioteca e' affidata ad un professore ufficiale nominato dal Consiglio di facolta' e sentito il direttore del Seminario".
+Osservatorio di Geofisica e Fisica cosmica
 
-Art. 19. - "Lo svolgimento delle varie attivita' del Seminario e' disciplinato da apposito regolamento, emanato dal rettore, sentito il Consiglio di facolta'".
+Art. 106. - E' istituito presso l'Universita' di Bari un osservatorio per la ricerca scientifica nel campo della Geofisica e della Fisica cosmica.
 
-Art. 20 (gia' 16). - L'elenco degli insegnamenti complementari del corso di laurea in economia e commercio e' sostituito dal seguente:
+Art. 107. - Sono preposti alla Direzione dell'osservatorio:
 
-Sono insegnamenti complementari:
+il Comitato direttivo;
 
-1) Diritto della navigazione;
+il direttore tecnico.
 
-2) Diritto amministrativo;
+Art. 108. - Il Comitato direttivo e' costituito da tre professori di ruolo della Universita' di Bari nominati dal rettore su proposta della Facolta' di scienze.
 
-3) Diritto processuale civile;
+Di essi due sono scelti fra i professori del gruppo geomineralogico e del gruppo fisico della Facolta' stessa.
 
-4) Diritto internazionale;
+Tali professori avranno la qualifica di membri effettivi e potranno essere sostituiti, in caso di assenza o impedimento, da due membri supplenti nominati anche dal rettore, su proposta della. Facolta' di scienze, tra i professori titolari di cattedra della Facolta' stessa e graduati secondo l'anzianita' di ruolo.
 
-5) Demografia;
+Art. 109. - Il Comitato direttivo dura in carica un triennio accademico. Esso nomina, nella prima seduta, il suo presidente che rimane in carica per il detto triennio.
 
-6) Economia e finanza delle imprese di assicurazione;
+Art. 110. - Nel caso che, prima della scadenza del triennio, uno dei membri effettivi venga comunque a cessare dal servizio o a trovarsi definitivamente nella impossibilita' di esercitare le sue funzioni, si provvedera' a nominare effettivo il membro supplente piu' anziano del ruolo, procedendosi quindi alla nomina di altro membro supplente in sostituzione di quello passato effettivo.
 
-7) Economia dei trasporti;
+Sia il primo che il secondo dureranno pero' in carica sempre fino alla scadenza del triennio.
 
-8) Legislazione bancaria;
+Qualora la cessazione dal servizio o la definitiva impossibilita' di esercitare le funzioni riguardi proprio il presidente, si procedera' alla nomina del nuovo presidente dopo aver integrato la composizione del Comitato nei sensi prescritti dal comma precedente.
 
-9) Tecnica del commercio internazionale;
+Ed il nuovo presidente rimarra' in carica sempre fino alla fine del triennio.
 
-10) Lingua albanese.
+Art. 111. - Il Comitato direttivo discute, approva, e dirige il programma generale di ricerca scientifica e delibera sin tutte le questioni che riguardano l'attivita' dell'Osservatorio. Il presidente convoca e presiede le riunioni del Comitato e ne fa eseguire le deliberazioni.
 
-L'art. 21 (gia' 17) e' sostituito dal seguente:
+Art. 112. - Il direttore tecnico dell'Osservatorio e' nominato dal rettore su proposta del Comitato direttivo. Egli opera in conformita' alle direttive del Comitato per la organizzazione e il funzionamento dei servizi, rispondendo personalmente, per l'attivita' corrente, al presidente del Comitato.
 
-"Per gli esami devono essere osservate le seguenti precedenze:
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-1) l'esame di economia politica deve precedere quelli di politica economica e finanziaria, di scienza delle finanze e diritto finanziario, di economia e politica agraria;
+Dato a Roma, addi' 18 marzo 1965
 
-2) l'esame di ragioneria (1° anno) deve precedere quello di tecnica bancaria e professionale;
+SARAGAT
 
-3) l'esame di ragioneria (2° anno) deve precedere quello di tecnica industriale e commerciale;
+GUI
 
-4) l'esame di istituzioni di diritto privato deve precedere quelli di diritto commerciale, di diritto internazionale, di diritto processuale civile, diritto del lavoro e di diritto della navigazione;
-
-5) l'esame di istituzioni di diritto pubblico deve precedere quelli di diritto internazionale, di diritto amministrativo e di diritto del lavoro;
-
-6) l'esame di matematica generale deve precedere quello di matematica finanziaria;
-
-7) l'esame di matematica finanziaria deve precedere quello di economia e finanza delle imprese di assicurazione".
-
-Gli esami indicati come successivi possono sostenersi nella stessa sessione in cui si danno i propedeutici".
-
-L'art. 23 (gia' 19) e' sostituito dal seguente:
-
-"Per coloro che, essendo provvisti di altra laurea o diploma, o che, gia' studenti di altra facolta', chiedono l'ammissione al corso per la laurea in economia e commercio, il Consiglio di facolta' determina l'anno di corso al quale possono essere iscritti e stabilisce il piano di studi. In ogni caso i richiedenti devono essere forniti dal titolo di studi medi prescritto per l'ammissione al corso di laurea in economia e commercio".
-
-L'art. 24 (gia' 20) e' sostituito dal seguente:
-
-"Alla Facolta' sono annessi gli istituti di merceologia (comprendente il laboratorio di merceologia ed il museo merceologico), di matematica finanziaria, di ragioneria ed economia aziendale, di tecnica bancaria e professionale, commerciale e industriale, di geografia, di statistica, di politica economica e finanziaria, di economia politica e di storia economica.
-
-"Ciascun istituto e' diretto dal professore di ruolo piu' anziano del rispettivo gruppo di materie. Gli istituti provvedono all'acquisto di libri e periodici, tengono corsi facoltativi di esercitazioni e conferenze, promuovono studi e pubblicazioni ed assegnano eventualmente premi e sussidi in misura non superiore a un quinto della rispettiva dotazione".
-
-Gli articoli 21, 22, 23, 24 e 25 sono abrogati.
-
-Art. 33 (gia' 32). - Nell'elenco delle materie complementari del corso di laurea in farmacia, l'insegnamento di "idrologia" e' soppresso e sostituito con quello di "fisiologia vegetale".
-
-All'art. 34 (gia' 33) e' aggiunto quanto appresso:
-
-"la chimica organica rispetto alla chimica biologica la chimica generale ed inorganica rispetto alle esercitazioni di chimica farmaceutica e tossicologica (1° corso)".
-
-Dopo l'art. 40 (gia' 39) e' aggiunto il seguente nuovo articolo, relativo alla creazione di alcuni istituti presso la Facolta' di agraria, con il conseguente spostamento della numerazione degli articoli successivi.
-
-Art. 41. - Gli istituti della Facolta' di agraria sono i seguenti:
-
-1) Agronomia e coltivazioni;
-
-2) Chimica agraria;
-
-3) Economia e politica agraria;
-
-4) Fitopatologia;
-
-5) Meccanica agraria;
-
-6) Zootecnica.
-
-L'art. 43 (gia' 41) e' sostituito dal seguente:
-
-"Agli effetti della iscrizione e degli esami sono da considerarsi materie propedeutiche: la botanica generale rispetto alla botanica sistematica, la zoologia generale rispetto all'entomologia agraria, l'anatomia e fisiologia degli animali domestici rispetto alla zoognostica, la chimica generale ed inorganica con applicazioni di analitica rispetto alla chimica organica, la matematica rispetto alla fisica, la zootecnica generale rispetto alla zootecnica speciale".
-
-Dopo l'art. 46 (gia' 44) e' aggiunto il seguente nuovo articolo, con il conseguente spostamento della numerazione degli articoli successivi.
-
-Art. 47. - Alla Facolta' di agraria e' annessa la relativa biblioteca la cui direzione e' affidata ad un professore di ruolo designato dal Consiglio di facolta'.
-
-Alla biblioteca e' addetto personale appositamente designato.
-
-All'art. 59 (gia' 56) relativo al corso di laurea in scienze matematiche e' aggiunto il seguente comma:
-
-"Deve inoltre aver superato una prova di cultura generale in matematica e in fisica, da sostenersi almeno quindici giorni prima della laurea".
-
-Art. 61 (gia' 58). - Agli insegnamenti complementari del corso di laurea in fisica, sono aggiunti i seguenti:
-
-10) Radioattivita';
-
-11) Onde elettromagnetiche.
-
-Alla fine del medesimo art. 61 (gia' 58) e' aggiunto il seguente comma: "Deve inoltre aver superato una prova di cultura generale, in fisica ed in matematica, da sostenersi almeno quindici giorni prima della laurea".
-
-Art. 63 (gia' 60). - Agli insegnamenti complementari del corso di laurea in chimica (indirizzo inorganico-chimico-fisico) sono aggiunti quelli di:
-
-9) Scienza dei metalli;
-
-(\*) 10) Elettrochimica;
-
-11) Geochimica.
-
-Nell'elenco degli insegnamenti complementari per l'indirizzo organico-biologico sono aggiunti quelli di:
-
-(\*) 11) Chimica organica industriale;
-
-(\*) 12) Elettrochimica;
-
-(\*) 13) Chimica delle fermentazioni e batteriologia industriale.
-
-L'ultimo comma e' sostituito dal seguente:
-
-"L'esame di laurea consiste nelle seguenti prove pratiche e orali:
-
-a) prova pratica di analisi chimica qualitativa;
-
-b) prova pratica di analisi chimica quantitativa;
-
-c) colloquio di cultura generale in chimica;
-
-d) discussione orale sui risultati delle prove pratiche di cui in a) e b);
-
-e) discussione orale su di una dissertazione scritta (tesi) e su due argomenti (tesine) orali.
-
-Gli insegnamenti complementari contrassegnati con asterisco si intendono consigliati in via preferenziale".
-
-L'art. 64 (gia' 61) e' sostituito dal seguente:
-
-"Lo studente non potra' essere ammesso a sostenere gli esami di chimica generale ed inorganica II, di chimica organica II; di istituzioni di matematiche II, di fisica sperimentale II, senza aver prima, superato gli esami del rispettivo primo corso. Non potra' inoltre essere ammesso a sostenere l'esame di chimica analitica senza aver prima superato gli esami di chimica generale ed inorganica I e I; non potra' inoltre essere ammesso a sostenere l'esame di esercitazioni di analisi chimica qualitativa e senza aver prima superato l'esame di esercitazioni di preparazioni chimiche del 1° anno".
-
-Art. 65 (gia' 62). - L'elenco degli insegnamenti complementari del corso di laurea in scienze naturali e' sostituito dal seguente:
-
-"Sono insegnamenti complementari:
-
-1) Istologia ed embriologia;
-
-2) Chimica fisica;
-
-3) Geografia fisica;
-
-4) Chimica biologica;
-
-5) Genetica;
-
-6) Petrografia;
-
-7) Igiene;
-
-8) Antropologia;
-
-9) Oceanografia;
-
-10) Paleontologia;
-
-11) Fisiologia vegetale;
-
-12) Geochimica;
-
-13) Etnologia;
-
-14) Fisica terrestre e climatologia".
-
-Alla fine del medesimo art. 65 (gia' 62) e' aggiunto il seguente comma:
-
-"Inoltre deve aver superato un esame di cultura integrato da prove pratiche. Tale esame di cultura vertera' sulle seguenti discipline:
-
-1) botanica,
-
-2) zoologia e anatomia comparata;
-
-3) mineralogia;
-
-4) geologia e trattera' argomenti a carattere generale".
-
-L'art. 66 (gia' 63) e' sostituito dal seguente:
-
-"Lo studente non potra' essere ammesso a sostenere l'esame di fisica senza aver prima superato l'esame di istituzioni di matematiche, non potra' essere ammesso a sostenere gli esami di chimica organica e di mineralogia senza aver prima superato l'esame di chimica generale ed inorganica; non potra' essere ammesso a sostenere l'esame di fisiologia generale senza aver prima superato gli esami di fisica, di chimica generale ed inorganica, di chimica organica, di anatomia umana e di anatomia comparata: non potra' essere ammesso a sostenere l'esame di chimica biologica senza aver prima superato l'esame di chimica organica; non potra' essere ammesso a sostenere l'esame di genetica senza aver prima superato gli esami di botanica e di zoologia; non potra' essere ammesso a sostenere gli esami di petrografia e di geochimica senza aver prima superato gli esami di chimica generale ed inorganica e di mineralogia: non potra' essere ammesso a sostenere gli esami di geografia fisica e di fisica terrestre e climatologia senza aver prima superato l'esame di fisica.
-
-I corsi di fisica, di mineralogia e di geologia comportano un corso annuale di esercitazioni di laboratorio; quelli di botanica e di zoologia un corso biennale di esercitazioni di laboratorio.
-
-Alcuni di tali esercizi possono essere svolti anche come escursioni di campagna".
-
-All'art. 67 (gia' 61) relativo al corso di laurea in matematica e fisica e' aggiunto il seguente comma:
-
-"Deve inoltre avere superato una prova di cultura generale in matematica e fisica, da sostenersi almeno quindici giorni prima della laurea".
-
-L'art. 69 (gia' 66) e' sostituito dal seguente: e L'esame di laurea in scienze matematiche, in fisica, in chimica, in scienze naturali, in matematica e fisica, consiste oltre che nell'esame di cultura generale e oltre che nelle prove pratiche di cui gli articoli 63 (gia' 60) e 65 (gia' 62):
-
-a) nella discussione di una dissertazione scritta.
-
-Tale dissertazione deve essere presentata in Segreteria, in triplice copia, almeno quindici giorni prima dell'inizio della sessione di laurea;
-
-b) nella discussione di un argomento orale scelto dal presidente della Commissione fra due presentati dallo studente, concordati tra lui ed uno o piu' professori della Facolta' e notificati alla Segreteria con preavviso di almeno quindici giorni".
-
-L'art. 70 (gia' 67) e' sostituito dal seguente:
-
-"Gli istituti della Facolta' di scienze sono i seguenti:
-
-1) Istituto di chimica generale;
-
-2) Istituto di chimica organica;
-
-3) Istituto di chimica industriale;
-
-4) Istituto di fisica;
-
-5) Istituto di orto botanica;
-
-6) Istituto e museo di zoologia e anatomia comparata;
-
-7) Istituto di mineralogia e petrografia;
-
-8) Istituto di geologia e paleontologia;
-
-9) Istituto di matematica;
-
-10) Istituto di disegno.
-
-Art. 75 (gia' 72). - L'insegnamento fondamentale di cui al n. 6) e' sostituito dal seguente: "Architettura tecnica (biennale per la sola sottosezione edile)".
-
-A gli insegnamenti complementari comuni alle tre sezioni, del corso di laurea in ingegneria e' aggiunto quello di: "6) Costruzioni marittime".
-
-Art. 77 (gia' 74). - E' aggiunto quanto appresso:
-
-n. 8) Architettura tecnica I rispetto ad architettura tecnica II.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta, ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 25 agosto 1953
-
-EINAUDI
-
-SEGNI
-
-Visto, il Guardasigilli: AZARA
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 11 gennaio 1954 Atti del Governo, registro n. 81, foglio n. 26. - PALLA
+alla Corte dei conti, addi' 6 maggio 1965 Atti del Governo, registro n. 193, foglio n. 15. - VILLA
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con i [regi decreti 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1927-10-13;2169); [31 ottobre 1929, n. 2481](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1929-10-31;2481); [30 ottobre 1930, n. 1858](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1930-10-30;1858); [27 ottobre 1932, n. 2082](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1932-10-27;2082); [13 dicembre 1934, n.   
-2404](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-13;2404); [1 ottobre 1936, n. 2020](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-01;2020); [13 luglio 1939, n. 1168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-07-13;1168); [26 ottobre 1940, n. 2029](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2029) e [24 ottobre 1942, n. 1785; con regio decreto-legge](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto.legge:1942-10-24;1785) [27 gennaio 1944, n. 58; con decreto legislativo luogotenenziale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo.luogotenenziale:1944-01-27;58) [5 aprile 1945, n. 238; e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1945-04-05;238) [21 aprile 1949, n. 451](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-21;451); [31 ottobre 1950, n. 1293](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1293); [11 maggio 1951, n. 633](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-05-11;633) e [23 gennaio 1952, n. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-01-23;66);   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta, Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-  
-Art. 7. - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti i seguenti:   
-11) Diritto canonico;   
-12) Diritto industriale;   
-13) Esegesi delle fonti del diritto italiano.   
-Art. 8. - Al n. 1 dopo l'insegnamento di "diritto privato comparato" sono aggiunti i seguenti altri "diritto del lavoro" e "diritto processuale civile".   
-Dopo l'ultimo comma e' aggiunto quanto appresso:   
-5) "l'esame di diritto costituzionale deve precedere quello di diritto amministrativo".   
-Art. 9. - Agli insegnamenti complementari del corso di laurea in scienze politiche sono aggiunti i seguenti:   
-6) Filosofia del diritto;   
-7) Sociologia;   
-8) Contabilita' di Stato.   
-L'art. 14 e' sostituito dal seguente:   
-"Alla Facolta' di giurisprudenza sono annessi l'istituto di diritto romano, l'istituto di diritto penale, l'istituto di diritto privato, l'istituto di diritto pubblico, l'istituto di storia del diritto italiano, l'istituto di scienze politiche e sociali, l'istituto di economia e finanza.   
-Ciascun istituto e' diretto dal professore di ruolo che sara' designato dal Consiglio di facolta' per un triennio. Gli istituti provvedono all'acquisto di libri e di periodici, tengono corsi facoltativi di esercitazioni e conferenze, promuovono studi e pubblicazioni ed assegnano eventualmente premi e sussidi sui fondi della rispettiva dotazione.   
-Premi e sussidi possono essere attribuiti sia agli studenti che ai laureati nella Facolta' non oltre i tre anni dalla laurea".   
-L'art. 15 e' sostituito dal seguente:   
-"Qualora gli istituti di cui all'articolo precedente non abbiano personale proprio i libri e periodici sono affidati alla custodia della biblioteca del Seminario giuridico".   
-Dopo l'art. 15 sono aggiunti i seguenti nuovi articoli, relativi al Seminario giuridico, con il conseguente spostamento della numerazione degli articoli successivi:   
-Art. 16. - "Alla Facolta' di giurisprudenza e' annesso un seminario giuridico il quale ha lo scopo di fornire agli insegnanti, assistenti e studenti della Facolta' mezzi idonei per lo svolgimento delle loro attivita' di studiosi".   
-Art. 17. - Del Seminario fa parte la biblioteca della Facolta' giuridica. Il Seminario cura la pubblicazione e diffusione degli annuali della Facolta' giuridica e il cambio di essi con pubblicazioni di altri enti ed istituti. Il Seminario patrocina ed eventualmente sussidia o premia studi particolari degli insegnanti, assistenti e studenti. Esso, inoltre, puo' assumere, previo consenso del rettore, altre iniziative intese all'incremento dell'attivita' didattica e scientifica della Facolta'".   
-Art. 18. - "La direzione del Seminario giuridico e' affidata ad un professore di ruolo della Facolta' di giurisprudenza nominato dal Consiglio di facolta'.   
-La direzione della biblioteca e' affidata ad un professore ufficiale nominato dal Consiglio di facolta' e sentito il direttore del Seminario".   
-Art. 19. - "Lo svolgimento delle varie attivita' del Seminario e' disciplinato da apposito regolamento, emanato dal rettore, sentito il Consiglio di facolta'".   
-Art. 20 (gia' 16). - L'elenco degli insegnamenti complementari del corso di laurea in economia e commercio e' sostituito dal seguente:   
-Sono insegnamenti complementari:   
-1) Diritto della navigazione;   
-2) Diritto amministrativo;   
-3) Diritto processuale civile;   
-4) Diritto internazionale;   
-5) Demografia;   
-6) Economia e finanza delle imprese di assicurazione;   
-7) Economia dei trasporti;   
-8) Legislazione bancaria;   
-9) Tecnica del commercio internazionale;   
-10) Lingua albanese.   
-L'art. 21 (gia' 17) e' sostituito dal seguente:   
-"Per gli esami devono essere osservate le seguenti precedenze:   
-1) l'esame di economia politica deve precedere quelli di politica economica e finanziaria, di scienza delle finanze e diritto finanziario, di economia e politica agraria;   
-2) l'esame di ragioneria (1° anno) deve precedere quello di tecnica bancaria e professionale;   
-3) l'esame di ragioneria (2° anno) deve precedere quello di tecnica industriale e commerciale;   
-4) l'esame di istituzioni di diritto privato deve precedere quelli di diritto commerciale, di diritto internazionale, di diritto processuale civile, diritto del lavoro e di diritto della navigazione;   
-5) l'esame di istituzioni di diritto pubblico deve precedere quelli di diritto internazionale, di diritto amministrativo e di diritto del lavoro;   
-6) l'esame di matematica generale deve precedere quello di matematica finanziaria;   
-7) l'esame di matematica finanziaria deve precedere quello di economia e finanza delle imprese di assicurazione".   
-Gli esami indicati come successivi possono sostenersi nella stessa sessione in cui si danno i propedeutici".   
-L'art. 23 (gia' 19) e' sostituito dal seguente:   
-"Per coloro che, essendo provvisti di altra laurea o diploma, o che, gia' studenti di altra facolta', chiedono l'ammissione al corso per la laurea in economia e commercio, il Consiglio di facolta' determina l'anno di corso al quale possono essere iscritti e stabilisce il piano di studi. In ogni caso i richiedenti devono essere forniti dal titolo di studi medi prescritto per l'ammissione al corso di laurea in economia e commercio".   
-L'art. 24 (gia' 20) e' sostituito dal seguente:   
-"Alla Facolta' sono annessi gli istituti di merceologia (comprendente il laboratorio di merceologia ed il museo merceologico), di matematica finanziaria, di ragioneria ed economia aziendale, di tecnica bancaria e professionale, commerciale e industriale, di geografia, di statistica, di politica economica e finanziaria, di economia politica e di storia economica.   
-"Ciascun istituto e' diretto dal professore di ruolo piu' anziano del rispettivo gruppo di materie. Gli istituti provvedono all'acquisto di libri e periodici, tengono corsi facoltativi di esercitazioni e conferenze, promuovono studi e pubblicazioni ed assegnano eventualmente premi e sussidi in misura non superiore a un quinto della rispettiva dotazione".   
-Gli articoli 21, 22, 23, 24 e 25 sono abrogati.   
-Art. 33 (gia' 32). - Nell'elenco delle materie complementari del corso di laurea in farmacia, l'insegnamento di "idrologia" e' soppresso e sostituito con quello di "fisiologia vegetale".   
-All'art. 34 (gia' 33) e' aggiunto quanto appresso:   
-"la chimica organica rispetto alla chimica biologica la chimica generale ed inorganica rispetto alle esercitazioni di chimica farmaceutica e tossicologica (1° corso)".   
-Dopo l'art. 40 (gia' 39) e' aggiunto il seguente nuovo articolo, relativo alla creazione di alcuni istituti presso la Facolta' di agraria, con il conseguente spostamento della numerazione degli articoli successivi.   
-Art. 41. - Gli istituti della Facolta' di agraria sono i seguenti:   
-1) Agronomia e coltivazioni;   
-2) Chimica agraria;   
-3) Economia e politica agraria;   
-4) Fitopatologia;   
-5) Meccanica agraria;   
-6) Zootecnica.   
-L'art. 43 (gia' 41) e' sostituito dal seguente:   
-"Agli effetti della iscrizione e degli esami sono da considerarsi materie propedeutiche: la botanica generale rispetto alla botanica sistematica, la zoologia generale rispetto all'entomologia agraria, l'anatomia e fisiologia degli animali domestici rispetto alla zoognostica, la chimica generale ed inorganica con applicazioni di analitica rispetto alla chimica organica, la matematica rispetto alla fisica, la zootecnica generale rispetto alla zootecnica speciale".   
-Dopo l'art. 46 (gia' 44) e' aggiunto il seguente nuovo articolo, con il conseguente spostamento della numerazione degli articoli successivi.   
-Art. 47. - Alla Facolta' di agraria e' annessa la relativa biblioteca la cui direzione e' affidata ad un professore di ruolo designato dal Consiglio di facolta'.   
-Alla biblioteca e' addetto personale appositamente designato.   
-All'art. 59 (gia' 56) relativo al corso di laurea in scienze matematiche e' aggiunto il seguente comma:   
-"Deve inoltre aver superato una prova di cultura generale in matematica e in fisica, da sostenersi almeno quindici giorni prima della laurea".   
-Art. 61 (gia' 58). - Agli insegnamenti complementari del corso di laurea in fisica, sono aggiunti i seguenti:   
-10) Radioattivita';   
-11) Onde elettromagnetiche.   
-Alla fine del medesimo art. 61 (gia' 58) e' aggiunto il seguente comma: "Deve inoltre aver superato una prova di cultura generale, in fisica ed in matematica, da sostenersi almeno quindici giorni prima della laurea".   
-Art. 63 (gia' 60). - Agli insegnamenti complementari del corso di laurea in chimica (indirizzo inorganico-chimico-fisico) sono aggiunti quelli di:   
-9) Scienza dei metalli;   
-(\*) 10) Elettrochimica;   
-11) Geochimica.   
-Nell'elenco degli insegnamenti complementari per l'indirizzo organico-biologico sono aggiunti quelli di:   
-(\*) 11) Chimica organica industriale;   
-(\*) 12) Elettrochimica;   
-(\*) 13) Chimica delle fermentazioni e batteriologia industriale.   
-L'ultimo comma e' sostituito dal seguente:   
-"L'esame di laurea consiste nelle seguenti prove pratiche e orali:   
-a) prova pratica di analisi chimica qualitativa;   
-b) prova pratica di analisi chimica quantitativa;   
-c) colloquio di cultura generale in chimica;   
-d) discussione orale sui risultati delle prove pratiche di cui in a) e b);   
-e) discussione orale su di una dissertazione scritta (tesi) e su due argomenti (tesine) orali.   
-Gli insegnamenti complementari contrassegnati con asterisco si intendono consigliati in via preferenziale".   
-L'art. 64 (gia' 61) e' sostituito dal seguente:   
-"Lo studente non potra' essere ammesso a sostenere gli esami di chimica generale ed inorganica II, di chimica organica II; di istituzioni di matematiche II, di fisica sperimentale II, senza aver prima, superato gli esami del rispettivo primo corso. Non potra' inoltre essere ammesso a sostenere l'esame di chimica analitica senza aver prima superato gli esami di chimica generale ed inorganica I e I; non potra' inoltre essere ammesso a sostenere l'esame di esercitazioni di analisi chimica qualitativa e senza aver prima superato l'esame di esercitazioni di preparazioni chimiche del 1° anno".   
-Art. 65 (gia' 62). - L'elenco degli insegnamenti complementari del corso di laurea in scienze naturali e' sostituito dal seguente:   
-"Sono insegnamenti complementari:   
-1) Istologia ed embriologia;   
-2) Chimica fisica;   
-3) Geografia fisica;   
-4) Chimica biologica;   
-5) Genetica;   
-6) Petrografia;   
-7) Igiene;   
-8) Antropologia;   
-9) Oceanografia;   
-10) Paleontologia;   
-11) Fisiologia vegetale;   
-12) Geochimica;   
-13) Etnologia;   
-14) Fisica terrestre e climatologia".   
-Alla fine del medesimo art. 65 (gia' 62) e' aggiunto il seguente comma:   
-"Inoltre deve aver superato un esame di cultura integrato da prove pratiche. Tale esame di cultura vertera' sulle seguenti discipline:   
-1) botanica,   
-2) zoologia e anatomia comparata;   
-3) mineralogia;   
-4) geologia e trattera' argomenti a carattere generale".   
-L'art. 66 (gia' 63) e' sostituito dal seguente:   
-"Lo studente non potra' essere ammesso a sostenere l'esame di fisica senza aver prima superato l'esame di istituzioni di matematiche, non potra' essere ammesso a sostenere gli esami di chimica organica e di mineralogia senza aver prima superato l'esame di chimica generale ed inorganica; non potra' essere ammesso a sostenere l'esame di fisiologia generale senza aver prima superato gli esami di fisica, di chimica generale ed inorganica, di chimica organica, di anatomia umana e di anatomia comparata: non potra' essere ammesso a sostenere l'esame di chimica biologica senza aver prima superato l'esame di chimica organica; non potra' essere ammesso a sostenere l'esame di genetica senza aver prima superato gli esami di botanica e di zoologia; non potra' essere ammesso a sostenere gli esami di petrografia e di geochimica senza aver prima superato gli esami di chimica generale ed inorganica e di mineralogia: non potra' essere ammesso a sostenere gli esami di geografia fisica e di fisica terrestre e climatologia senza aver prima superato l'esame di fisica.   
-I corsi di fisica, di mineralogia e di geologia comportano un corso annuale di esercitazioni di laboratorio; quelli di botanica e di zoologia un corso biennale di esercitazioni di laboratorio.   
-Alcuni di tali esercizi possono essere svolti anche come escursioni di campagna".   
-All'art. 67 (gia' 61) relativo al corso di laurea in matematica e fisica e' aggiunto il seguente comma:   
-"Deve inoltre avere superato una prova di cultura generale in matematica e fisica, da sostenersi almeno quindici giorni prima della laurea".   
-L'art. 69 (gia' 66) e' sostituito dal seguente: e L'esame di laurea in scienze matematiche, in fisica, in chimica, in scienze naturali, in matematica e fisica, consiste oltre che nell'esame di cultura generale e oltre che nelle prove pratiche di cui gli articoli 63 (gia' 60) e 65 (gia' 62):   
-a) nella discussione di una dissertazione scritta.   
-Tale dissertazione deve essere presentata in Segreteria, in triplice copia, almeno quindici giorni prima dell'inizio della sessione di laurea;   
-b) nella discussione di un argomento orale scelto dal presidente della Commissione fra due presentati dallo studente, concordati tra lui ed uno o piu' professori della Facolta' e notificati alla Segreteria con preavviso di almeno quindici giorni".   
-L'art. 70 (gia' 67) e' sostituito dal seguente:   
-"Gli istituti della Facolta' di scienze sono i seguenti:   
-1) Istituto di chimica generale;   
-2) Istituto di chimica organica;   
-3) Istituto di chimica industriale;   
-4) Istituto di fisica;   
-5) Istituto di orto botanica;   
-6) Istituto e museo di zoologia e anatomia comparata;   
-7) Istituto di mineralogia e petrografia;   
-8) Istituto di geologia e paleontologia;   
-9) Istituto di matematica;   
-10) Istituto di disegno.   
-Art. 75 (gia' 72). - L'insegnamento fondamentale di cui al n. 6) e' sostituito dal seguente: "Architettura tecnica (biennale per la sola sottosezione edile)".   
-A gli insegnamenti complementari comuni alle tre sezioni, del corso di laurea in ingegneria e' aggiunto quello di: "6) Costruzioni marittime".   
-Art. 77 (gia' 74). - E' aggiunto quanto appresso:   
-n. 8) Architettura tecnica I rispetto ad architettura tecnica II.   
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 7. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di:  
+"Organizzazione internazionale".  
+Art. 10, relativo alle modalita' di insegnamento delle lingue straniere per il corso di laurea in Scienze politiche e' soppresso, con il conseguente spostamento della successiva numerazione.  
+Art. 18, concernente il Seminario giuridico, e' modificato nel senso che il secondo comma e' abrogato e sostituito dal seguente: "La Direzione della biblioteca e' affidata ad un bibliotecario di gruppo A, nominato con pubblico concorso, il quale svolgera' la sua attivita' secondo le direttive del Seminario".  
+Art. 49. - Agli Istituti della Facolta' di agraria e' aggiunto il seguente:  
+"Istituto di Entomologia agraria".  
+Art. 79. - L'insegnamento complementare di Astronomia del corso di laurea in Matematica per l'indirizzo didattico viene contraddistinto con un asterisco (\*), per indicare che e' fra i corsi a scelta dello studente ad indirizzo fisico.  
+Art. 94. - Agli Istituti della Facolta' di scienze matematiche, fisiche e naturali e' aggiunto l'"Osservatorio di Geofisica e Fisica cosmica".  
+Nello stesso articolo la denominazione dell'Istituto di "Chimica, biologica" viene cosi' integrata: "Istituto di Chimica biologica (comprendente il Centro di studi sulla alimentazione)".  
+Dopo l'art. 99, e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli, relativi al Centro di studi sull'alimentazione, al Seminario di studi chimici e all'Osservatorio di Geofisica, e Fisica cosmica.  
+Centro di studi sull'alimentazione  
+Art. 100. - Presso la Facolta' di scienze viene istituito un Centro di studi sull'alimentazione che ha per finalita' studi sperimentali ed attivita' sociali attinenti a problemi di biochimica alimentare e relative tecniche produttivistiche.  
+Art. 101. - Tale Centro ha sede presso l'Istituto di Chimica biologica il cui direttore assume anche la direzione di detto Centro.  
+Art. 102. - Per la gestione di tale Centro verranno utilizzati i fondi di ordinaria amministrazione dell'Istituto di Chimica biologica ed eventuali sovvenzioni da parte di enti o di privati.  
+Seminario di studi chimici  
+Art. 103. - Viene istituito il Seminario di studi chimici, cui partecipano i diversi istituti chimici della Facolta' di scienze.  
+Il Seminario di studi chimici ha le seguenti finalita' 1) organizzare simposi, conferenze, cicli di lezione, riunioni e pubblicazioni al fine di ampliare e completare la preparazione degli studenti e dei ricercatori e permettere un aggiornamento sui piu' moderni campi della ricerca pura e applicata 2) promuovere e facilitare la collaborazione tra i vari Istituti chimici mettendo a, disposizione degli stessi servizi, apparecchiature e ogni altro mezzo idoneo allo scopo.  
+Art. 104. - Organo direttivo del seminario di studi chimici e' un Comitato costituito da tutti i professori di ruolo delle discipline chimiche della Facolta' di scienze.  
+Il Comitato nomina nel suo seno un direttore del Seminario, che durera' in carica un anno accademico.  
+Art. 105. - Le attivita' del Seminario di studi chimici sono determinate e organizzate dal Comitato.  
+Gli atti amministrativi avranno la firma del solo direttore che risponde personalmente del funzionamento del Seminario al Comitato.  
+Osservatorio di Geofisica e Fisica cosmica  
+Art. 106. - E' istituito presso l'Universita' di Bari un osservatorio per la ricerca scientifica nel campo della Geofisica e della Fisica cosmica.  
+Art. 107. - Sono preposti alla Direzione dell'osservatorio:  
+il Comitato direttivo;  
+il direttore tecnico.  
+Art. 108. - Il Comitato direttivo e' costituito da tre professori di ruolo della Universita' di Bari nominati dal rettore su proposta della Facolta' di scienze.  
+Di essi due sono scelti fra i professori del gruppo geomineralogico e del gruppo fisico della Facolta' stessa.  
+Tali professori avranno la qualifica di membri effettivi e potranno essere sostituiti, in caso di assenza o impedimento, da due membri supplenti nominati anche dal rettore, su proposta della. Facolta' di scienze, tra i professori titolari di cattedra della Facolta' stessa e graduati secondo l'anzianita' di ruolo.  
+Art. 109. - Il Comitato direttivo dura in carica un triennio accademico. Esso nomina, nella prima seduta, il suo presidente che rimane in carica per il detto triennio.  
+Art. 110. - Nel caso che, prima della scadenza del triennio, uno dei membri effettivi venga comunque a cessare dal servizio o a trovarsi definitivamente nella impossibilita' di esercitare le sue funzioni, si provvedera' a nominare effettivo il membro supplente piu' anziano del ruolo, procedendosi quindi alla nomina di altro membro supplente in sostituzione di quello passato effettivo.  
+Sia il primo che il secondo dureranno pero' in carica sempre fino alla scadenza del triennio.  
+Qualora la cessazione dal servizio o la definitiva impossibilita' di esercitare le funzioni riguardi proprio il presidente, si procedera' alla nomina del nuovo presidente dopo aver integrato la composizione del Comitato nei sensi prescritti dal comma precedente.  
+Ed il nuovo presidente rimarra' in carica sempre fino alla fine del triennio.  
+Art. 111. - Il Comitato direttivo discute, approva, e dirige il programma generale di ricerca scientifica e delibera sin tutte le questioni che riguardano l'attivita' dell'Osservatorio. Il presidente convoca e presiede le riunioni del Comitato e ne fa eseguire le deliberazioni.  
+Art. 112. - Il direttore tecnico dell'Osservatorio e' nominato dal rettore su proposta del Comitato direttivo. Egli opera in conformita' alle direttive del Comitato per la organizzazione e il funzionamento dei servizi, rispondendo personalmente, per l'attivita' corrente, al presidente del Comitato.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta, ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 agosto 1953
+### Dato a Roma, addi' 18 marzo 1965
 
-EINAUDI SEGNI
+SARAGAT GUI
 
-Visto, il Guardasigilli: AZARA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 11 gennaio 1954
+Registrato alla Corte dei conti, addi' 6 maggio 1965
 
-Atti del Governo, registro n. 81, foglio n. 26. - PALLA
+Atti del Governo, registro n. 193, foglio n. 15. - VILLA

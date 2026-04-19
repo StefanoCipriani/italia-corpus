@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 328
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 473
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 328
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 473
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi "La Sapienza" di Roma, approvato con [regio decreto 14 ottobre 1926, n. 2319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2319), e successive modificazioni;
+Veduto lo statuto dell'Universita' "La Sapienza" di Roma, approvato con [regio decreto 14 ottobre 1926, n. 2319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2319), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -33,31 +33,29 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' degli studi "La Sapienza" di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' "La Sapienza" di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Art. 59 - nell'elenco degli insegnamenti complementari del corso di laurea in lettere sono inseriti i seguenti insegnamenti:  
-storia delle universita';  
-antichita' medioevali;  
-esegesi delle fonti della storia medioevale;  
-storia della storiografia medioevale.  
-Art. 60 - nell'elenco degli insegnamenti complementari del corso di laurea in filosofia sono inseriti i seguenti insegnamenti:  
-ermeneutica filosofica;  
-storia dell'estetica.  
+Art. 147 - nell'elenco degli insegnamenti complementari della facolta' di ingegneria sono inseriti i seguenti insegnamenti:  
+optoelettronica;  
+apparecchiature oleodinamiche.  
+Nel medesimo elenco sono soppressi i seguenti insegnamenti:  
+optoelettronica (semestrale);  
+apparecchiature oleodinamiche (semestrale).  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 maggio 1983
+### Dato a Roma, addi' 27 giugno 1983
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 5 luglio 1983
+Registrato alla Corte dei conti, addi' 17 agosto 1983
 
-Registro n. 49 Istruzione, foglio n. 55
+Registro n. 59 Istruzione, foglio n. 141

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1976 n. 459
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 agosto 1973 n. 1097
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1976 n. 459
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 agosto 1973 n. 1097
+==============================================================
 
 Autorizzazione all'Associazione italiana della croce rossa, in Roma, ad accettare una donazione.
 ------------------------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-459. Decreto del Presidente della Repubblica 26 febbraio 1976, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana della croce rossa, in Roma, viene autorizzata ad accettare la donazione disposta dal sig. Leonardini Giuseppe con atto a rogito dott. Giuseppe Bigliardi, notaio in La Spezia, del 13 luglio 1960, n. 21501 di repertorio, successivamente modificato con atto dello stesso notaio del 15 giugno 1962, n. 23569 di repertorio, donazione costituita da un appezzamento di terreno di mq 1300 circa, sito in Varese Ligure (La Spezia), localita' "Pieve", distinto al catasto terreni dello stesso comune alla partita 3238, foglio 55, mappale 268, con annesso fabbricato di due piani e venti vani, destinato ad attivita' istituzionali dell'Associazione.  
+1097. Decreto del Presidente della Repubblica 31 agosto 1973, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana della croce rossa, in Roma, viene autorizzata ad accettare la donazione, consistente in due terreni, per complessivi mq. 129, siti in Monte S. Savino (Arezzo), frazione Montagnano, disposta dalla contessa Maria Antonietta di Frassineto, con atto del notaio Maurizio Licenziati di Monte S. Savino in data 18 giugno 1971, rep.  
+n. 810.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 30 giugno 1976  
-Atti di Governo, registro n. 7, foglio n. 20
+Visto, il Guardasigilli: ZAGARI  
+Registrato alla Corte dei conti, addi' 15 maggio 1974  
+Atti di Governo, registro n. 3, foglio n. 13. - SCIARRETTA

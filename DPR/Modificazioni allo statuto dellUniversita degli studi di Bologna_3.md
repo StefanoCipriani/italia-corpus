@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1980 n. 159
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1986 n. 807
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1980 n. 159
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1986 n. 807
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -10,197 +10,165 @@ Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 19533, n. 1592;
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive, modificazioni;
+Veduto il [regio decreto 30 settembre 1933, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
 
-Sulla
------
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' degli studi di Bologna;
 
-Articolo unico
---------------
+Considerato che e' tuttora in atto la sperimentazione organizzativa e didattica di cui agli [articoli 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art81)-[93 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art93);
+
+Considerato che le tabelle dell'ordinamento didattico universitario relative ai corsi di laurea sono in fase di riordinamento per effetto di apposite commissioni di studio, e che anzi alcune tabelle sono state gia' riordinate;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Rilevata la necessita' di accogliere la richiesta dell'Universita' di Bologna di istituire il corso di laurea in scienze dell'informazione, allo scopo di riequilibrare le iscrizioni presso gli omonimi corsi di laurea degli Atenei viciniori, al fine di assicurare una migliore formazione degli studenti;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 1
+------
 
   
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli 569, 570, relativi alla scuola di specializzazione in igiene e medicina preventiva, sono soppressi e sostituiti dai seguenti:  
-Art. 569. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in igiene e medicina preventiva, con sede presso l'istituto di igiene, che conferisce il diploma di igiene e medicina preventiva con i seguenti orientamenti: sanita' pubblica, igiene e tecnica ospedaliera, igiene del lavoro, igiene e medicina scolastica, laboratorio.  
-Il corso ha la durata di quattro anni.  
-Il corso si distingue in un biennio propedeutico seguito da un biennio differenziato con cinque orientamenti e precisamente:  
-a) sanita' pubblica;  
-b) igiene e tecnica ospedaliera;  
-c) igiene del lavoro;  
-d) igiene e medicina scolastica;  
-e) laboratorio.  
-Sono ammessi i laureati in medicina e chirurgia. La ammissione avviene per titoli ed esami.  
-Sono disponibili trentacinque posti per ciascun anno di corso e complessivamente centoquaranta per l'intero corso di studio.  
-Coloro che hanno conseguito il diploma di specializzazione per uno dei cinque orientamenti, possono essere iscritti al terzo anno di un altro orientamento nell'ambito della disponibilita' dei posti.  
-Non sono consentite altre abbreviazioni di corso.  
-Art. 570. - Il piano di studi e' il seguente:  
   
-I BIENNIO  
+Nell'art. 2, relativo alle facolta' che costituiscono l'Universita' ed alle lauree che si conseguono presso le facolta' medesime, all'elenco delle lauree che si conseguono presso la facolta' di scienze matematiche, fisiche e naturali, e' aggiunta la seguente laurea:   
+"Laurea in scienze dell'informazione, durata del corso quattro anni".   
+
+Art. 2
+------
+
   
-1° Anno:  
-metodologia statistica e biometria;  
-educazione sanitaria;  
-psicologia;  
-microbiologia e immunologia I;  
-parassitologia;  
-epidemiologia generale e metodologia;  
-profilassi generale;  
-sociologia medica ed antropologia culturale.  
-2° Anno:  
-microbiologia e immunologia II;  
-patologia e clinica delle malattie infettive;  
-epidemiologia e profilassi delle malattie infettive I;  
-patologia e clinica delle malattie non infettive di importanza sociale;  
-epidemiologia e profilassi delle malattie non infettive di importanza sociale I;  
-demografia e statistica sanitaria;  
-legislazione e programmazione sanitaria.  
-a) Orientamento di sanita' pubblica  
   
-II BIENNIO  
-  
-3° Anno:  
-epidemiologia e profilassi delle malattie infettive II;  
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;  
-igiene dell'ambiente fisico e difesa ecologica;  
-igiene degli alimenti e della nutrizione;  
-igiene dell'eta' evolutiva;  
-igiene del lavoro;  
-igiene ed assistenza dell'anziano.  
-4° Anno:  
-igiene edilizia e dell'aggregato urbano;  
-igiene ospedaliera;  
-organizzazione del territorio e programmazione sanitaria;  
-medicina di comunita';  
-economia sanitaria;  
-elementi di diritto amministrativo.  
-b) Orientamento di igiene e tecnica ospedaliera  
-  
-II BIENNIO  
-  
-3° Anno:  
-epidemiologia e profilassi delle malattie infettive II;  
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;  
-igiene dell'ambiente fisico e difesa ecologica;  
-igiene e tecnica delle costruzioni ospedaliere; arredamenti ed impianti tecnologici;  
-igiene dell'alimentazione e dietetica ospedaliera;  
-organizzazione e funzionamento degli ospedali I;  
-elementi di diritto e legislazione ospedaliera.  
-4° Anno:  
-organizzazione e funzionamento degli ospedali II;  
-compiti ed attribuzione della direzione sanitaria;  
-formazione professionale e compiti del personale ospedaliero;  
-programmazione ospedaliera e medicina di comunita';  
-assistenza psichiatrica;  
-aspetti socio-sanitari dell'ospitalismo;  
-aspetti economici della gestione ospedaliera.  
-c) Orientamento di igiene del lavoro  
-  
-II BIENNIO  
-  
-3° Anno:  
-epidemiologia e profilassi delle malattie infettive II;  
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;  
-igiene dell'ambiente fisico e difesa ecologica;  
-epidemiologia e profilassi delle malattie del lavoro;  
-tecnica ed economia degli impianti industriali;  
-tossicologia industriale e diagnostica di laboratorio;  
-elementi di fisica tecnica applicata all'igiene;  
-igiene dell'ambiente di lavoro I.  
-4° Anno:  
-igiene dell'ambiente di lavoro II;  
-elementi di diritto e legislazione del lavoro;  
-psicologia del lavoro;  
-prevenzione degli infortuni;  
-politica del territorio ed insediamenti industriali;  
-igiene del lavoro e medicina di comunita'.  
-d) Orientamento di igiene e medicina scolastica  
-  
-II BIENNIO  
-  
-3° Anno:  
-epidemiologia e profilassi delle malattie infettive II;  
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;  
-igiene dell'ambiente fisico e difesa ecologica;  
-clinica delle malattie dell'eta' evolutiva;  
-epidemiologia e profilassi delle malattie dell'eta' evolutiva;  
-igiene degli alimenti e della nutrizione;  
-auxologia normale e patologica;  
-psicologia dell'eta' evolutiva.  
-4° Anno:  
-servizi di medicina scolastica;  
-edilizia ed arredamento scolastico;  
-elementi di pedagogia;  
-assistenza parascolastica;  
-educazione sanitaria nella scuola;  
-legislazione scolastica;  
-igiene mentale.  
-e) Orientamento di laboratorio  
-  
-II BIENNIO  
-  
-3° Anno:  
-epidemiologia e profilassi delle malattie infettive II;  
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;  
-igiene dell'ambiente fisico e difesa ecologica;  
-metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale;  
-metodi e dosaggi biologici per il controllo dell'inquinamento ambientale;  
-strumentazione e metodologie chimico-cliniche ed ematologiche I; microscopia applicata all'igiene;  
-elementi di fisica tecnica applicata all'igiene;  
-accertamento diagnostico delle malattie infettive e parassitarie I.  
-4° Anno:  
-metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale II;  
-accertamento diagnostico delle malattie infettive e parassitarie II;  
-strumentazione e metodologie chimico-cliniche ed ematologiche II; ispezione e controllo degli alimenti;  
-elementi di informatica.  
-I corsi possono essere integrati da insegnamenti complementari scelti dal consiglio della scuola tra i seguenti:  
-Materie complementari:  
-1) automazione del sistema ospedaliero;  
-2) biochimica applicata;  
-3) climatologia;  
-4) diritto sanitario internazionale;  
-5) elementi di medicina legale;  
-6) genetica umana;  
-7) geologia applicata all'igiene;  
-8) idrologia;  
-9) igiene dei climi tropicali;  
-10) igiene dei trasporti;  
-11) igiene militare;  
-12) igiene rurale;  
-13) istituzioni di matematiche;  
-14) micologia;  
-15) radioprotezionistica.  
-A giudizio della scuola possono essere indicati come complementari anche altri insegnamenti regolarmente attivati nei corsi di laurea dell'Universita'.  
-I corsi sono integrati da un tirocinio pratico della durata non inferiore a tre mesi, da svolgersi durante il secondo biennio.  
-La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.  
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.  
-Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove d'esame; per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.  
-Le prove d'esame si svolgono in due sessioni: estiva ed autunnale.  
-Al termine del corso di studi per il conseguimento del diploma di specialista in igiene e medicina preventiva, gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
+L'art. 105, relativo alle lauree che conferisce la facolta' di scienze matematiche, fisiche e naturali e' soppresso e Cosi' sostituito:   
+"Art. 105. - La facolta' di scienze matematiche, fisiche e naturali, conferisce dopo un corso di studi della durata di quattro anni le seguenti lauree:   
+in matematica;   
+in fisica;   
+in scienze naturali;   
+in scienze biologiche;   
+in astronomia;   
+in scienze geologiche;   
+in scienze dell'informazione, e dopo un corso di studi per la durata di cinque anni, la laurea in chimica.   
+Il quinquennio di studi per il conseguimento di questa laurea e' diviso in un biennio di studi propedeutici e in un triennio di studi di applicazione.   
+Titolo di ammissione: quello previsto dalle vigenti disposizioni di legge".   
+Dopo l'art. 120, con il conseguente scorrimento della numerazione degli articoli successivi, sono inseriti l'intitolazione del corso di laurea in scienze dell'informazione e l'articolo relativo all'ordinamento degli studi del corso di laurea medesimo come appresso riportato:   
+h) LAUREA IN SCIENZE DELL'INFORMAZIONE   
+Art. 121. - La durata del corso di studi per la laurea in scienze dell'informazione e' di quattro anni. Titoli di ammissione seno quelli dell'[art. 1 della legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1).   
+Ogni anno, prima dell'apertura delle iscrizioni, il senato accademico e il consiglio di amministrazione, sulla base delle indicazioni motivate dalla facolta', fissano il numero massimo di studenti ammessi all'iscrizione al I anno di corso, compatibilmente con le strutture esistenti.   
+Il corso degli studi si distingue in tre indirizzi: indirizzo generale, indirizzo tecnico (sistemi per l'elaborazione), indirizzo applicativo (gestione).   
+Il primo biennio di studi e' comune ai tre indirizzi.   
+La scelta dell'indirizzo viene fatta dallo studente   
+all'atto della sua iscrizione al terzo anno di corso.   
+a) Sono insegnamenti fondamentali obbligatori per il primo biennio per tutti gli indirizzi:   
+1° Anno:   
+1) analisi matematica I;   
+2) algebra (semestrale);   
+3) fisica I;   
+4) geometria (semestrale);   
+5) teoria ed applicazione delle macchine calcolatrici.   
+2° Anno:   
+1) analisi matematica II;   
+2) calcolo delle probabilita' e statistica (semestrale);   
+3) calcolo numerico (semestrale);   
+4) fisica II;   
+5) ricerca operativa e gestione aziendale;   
+6) sistemi per l'elaborazione dell'informazione I.   
+b) Sono insegnamenti fondamentali obbligatori comuni a tutti gli indirizzi per il secondo biennio:   
+1) metodi per il trattamento dell'informazione;   
+2)
+
+((Sistemi per l'elaborazione dell'informazione II))
+
+;   
+3) teoria dell'informazione e della trasmissione.   
+Sono insegnamenti fondamentali obbligatori:   
+a) Per l'indirizzo generale:   
+1) linguaggi formali e compilatori;   
+2) metodi di approssimazione.   
+b) Per l'indirizzo tecnico:   
+1) tecniche numeriche e analogiche;   
+2) teorie e sistemi. (1)   
+c) Per l'indirizzo applicativo:   
+1) teoria e metodi dell'ottimizzazione;   
+2) economia e organizzazione aziendale (semestrale);   
+3) trattamento dell'informazione nell'impresa (semestrale).   
+Insegnamenti complementari comuni ai tre indirizzi:   
+1) analisi numerica;   
+2) bioelettronica;   
+3) calcolo delle probabilita';   
+4) cibernetica e teoria dell'informazione;   
+5) complementi di gestione aziendale;   
+6) comunicazioni elettriche;   
+7) controlli automatici;   
+8) controllo dei processi industriali;   
+9) documentazione automatica;   
+10) econometria;   
+11) elaborazione dell'informazione non numerica;   
+12) elaborazione di immagini;   
+13) elaborazione dei testi letterari;   
+14) elettronica;   
+15) fisica numerica;   
+16) fisica superiore;   
+17) istituzioni di fisica teorica;   
+18) istituzioni di analisi superiore;   
+19) istituzioni di fisica matematica;   
+20) linguaggi speciali di programmazione;   
+21) logica matematica;   
+22) macchine calcolatrici analogiche;   
+23) teoria dei modelli;   
+24) progetto di sistemi numerici;   
+25) simulazione;   
+26) statistica;   
+27) tecniche di progettazione automatica;   
+28) tecniche direzionali;   
+29) tecniche speciali di elaborazione;   
+30) teoria degli algoritmi e calcolabilita';   
+31) teoria degli automi;   
+32) teoria dei giochi;   
+33) teoria dei grafi;   
+34) teoria delle decisioni.   
+Alcuni di questi corsi complementari potranno avere la durata semestrale.   
+Ciascuno degli insegnamenti, sia fondamentali che complementari, comporta un esame finale.   
+Ciascun insegnamento fondamentale di un indirizzo puo' essere scelto come insegnamento complementare per altro indirizzo in cui non sia fondamentale.   
+La scelta delle materie complementari da parte dello studente e' sottoposta alla preventiva approvazione della facolta'.   
+Per ottenere l'iscrizione al secondo biennio, lo studente deve aver seguito i corsi e superato gli esami di almeno cinque materie annuali del primo biennio - (due corsi semestrali sono valutati come un corso annuale).   
+Per essere ammesso all'esame di laurea, lo studente deve aver seguito i corsi e superato gli esami, in tutti gli insegnamenti fondamentali e almeno in quattro scelti fra i complementari se a corso semestrale, in almeno tre se uno di essi e' annuale, o in almeno due se ambedue sono annuali".   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Data a Roma, addi' 14 gennaio 1980
+### Dato a Roma, addi' 4 agosto 1986
 
-PERTINI VALITUTTI
+COSSIGA
 
-Visto, il Guardasigilli: MORLINO
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 26 aprile 1980
+Visto, il Guardasigilli: ROGNONI
 
-Registro n. 38 Istruzione, foglio n. 32
+Registrato alla Corte dei conti, addi' 17 novembre 1986
+
+Registro n. 84 Istruzione, foglio n. 108
+
+---------------
+
+AGGIORNAMENTO (1)
+
+L'errata corrige in G.U. 10/2/1988, n. 33, ha disposto che nel presente articolo "dove e' scritto: "2) teoria e sistemi", leggasi:  
+"2) teoria dei sistemi"."

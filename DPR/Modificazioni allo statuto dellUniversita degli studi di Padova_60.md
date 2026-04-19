@@ -1,357 +1,240 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1954 n. 1205
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 agosto 1969 n. 648
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1954 n. 1205
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 agosto 1969 n. 648
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regi decreti 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-10-05;1847); [26 ottobre 1940, n. 2058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2058); [16 marzo 1942, n. 323](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-03-16;323); [24 ottobre 1942, n. 1597; e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1597) [23 settembre 1949, n. 932](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;932); [31 ottobre 1950, n. 1308](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1308); [11 aprile 1951, n. 953](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;953); [25 luglio 1952, n. 1501](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1501); [26 ottobre 1952; n. 4529](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4529); [10 febbraio 1953, n. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;384) e [30 luglio 1953, n. 715](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-07-30;715);
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 60. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di:
-
-"Neurochirurgia".
-
-Art. 104, relativo al corso di laurea in farmacia.
-
-Le denominazioni degli insegnamenti complementari di "Chimica di guerra" e di "Chimica fisica" sono sostituite rispettivamente con quelle di "Tossicologia industriale" e "Chimica fisica ed esercizi".
-
-Agli insegnamenti complementari del corso di laurea in farmacia sono aggiunti quelli di:
-
-"Impianti e macchinario farmaceutico;
-
-Chimica analitica;
-
-Fisiologia vegetale".
-
-Art. 175. - Il primo comma e' sostituito dal seguente:
-
-"Alle scuole di perfezionamento possono iscriversi solamente laureati in medicina e chirurgia, eccezion fatta per la scuola d'igiene pubblica, alla quale possono iscriversi anche i laureati in chimica, in farmacia, in scienze biologiche ed in medicina veterinaria, e per quella d'igiene scolastica, alla quale possono iscriversi anche i laureati in farmacia".
-
-Art. 185, relativo alla scuola di perfezionamento in urologia. - Le parole "internato per tre anni in clinica chirurgica con servizio effettivo di assistente volontario" sono sostituite con quelle di "internato per tre anni in clinica chirurgica o patologia chirurgica".
-
-Agli insegnamenti del secondo anno della scuola di perfezionamento in pediatria e' aggiunto quello di:
-
-"Alimentazione del bambino".
-
-Agli insegnamenti del secondo anno della scuola di perfezionamento in radiologia e' aggiunto quello di:
-
-"Radiobiologia".
-
-Dopo la scuola di perfezionamento in puericoltura e' aggiunto l'ordinamento delle nuove scuole di perfezionamento in "Otorinolaringoiatria" ed in "Patologia del sangue e degli organi emopoietici" e della scuola di specializzazione in "Clinica delle malattie del lavoro".
-
-Scuola di otorinolaringoiatria
-
-(durata del corso anni tre)
-
-Primo anno:
-
-Anatomia, istologia ed embriologia dell'orecchio e nelle prime vie respiratorie e digestive;
-
-Patologia speciale otorinolaringoiatrica;
-
-Fisiologia dell'orecchio e delle prime vie respiratorie e digestive;
-
-Nozioni di patologia generale in rapporto all'otorinolaringoiatria;
-
-Clinica otorinolaringoiatrica;
-
-Semeiotica otorinolaringoiatrica.
-
-Secondo anno:
-
-Clinica medica generale;
-
-Clinica otorinolaringoiatrica;
-
-Clinica chirurgica generale;
-
-Semeiotica otorinolaringoiatrica;
-
-Batteriologia, igiene e profilassi;
-
-Interventi chirurgici e tecnica operativa otorinolaringoiatrica;
-
-Nozioni di patologia generale in rapporto all'otorinolaringoiatria;
-
-Audiometria.
-
-Terzo anno:
-
-Radiologia e malattie otorinolaringoiatriche;
-
-Infortunistica e medicina legale in rapporto all'otorinolaringoiatria;
-
-Interventi chirurgici e tecnica operativa otorinolaringoiatrica;
-
-Clinica otorinolaringoiatrica;
-
-Neurologia in rapporto all'otorinolaringoiatria;
-
-Oculistica in rapporto all'otorinolaringoiatria;
-
-Foniatria.
-
-Internato per tre anni in clinica otorinolaringoiatrica, con servizio effettivo di assistente volontario.
-
-Sono ammessi non piu' di dieci allievi per ogni anno di corso.
-
-Scuola di patologia del sangue
-
-e degli organi emopoietici
-
-(durata del corso anni due)
-
-Primo anno:
-
-Istologia normale degli organi emopoietici;
-
-Fisiologia normale del sangue e degli organi emopoietici;
-
-Chimica fisiologica del sangue e degli organi emopoietici;
-
-Anatomia e istologia patologica degli organi emopoietici;
-
-Patologia del sangue e degli organi emopoietici.
-
-Secondo anno:
-
-Metodologia morfologica e chimica delle emopatie (esercitazioni);
-
-Dottrina e tecnica delle emotrasfusioni;
-
-Patologia del sangue e degli organi emopoietici.
-
-Internato per due anni nell'Istituto di patologia speciale medica, con servizio effettivo di assistente volontario.
-
-Sono ammessi non piu' di quindici allievi per ogni anno di corso.
-
-Non sono ammesse abbreviazioni di corso.
-
-Scuola di clinica delle malattie del lavoro
-
-(durata del corso anni due).
-
-Primo anno:
-
-Fisiologia del lavoro;
-
-Patologia generale delle intossicazioni;
-
-Tossicologia da materiale di lavoro;
-
-Anatomia patologica delle malattie professionali;
-
-Radiologia delle tecnopatie;
-
-Psicotecnica;
-
-Statistica;
-
-Igiene del lavoro (biennale);
-
-Medicina assicurativa e valutazione di danno (biennale);
-
-Patologia e clinica delle malattie professionali (biennale).
-
-Secondo anno:
-
-Malattie professionali del sistema nervoso;
-
-Malattie professionali dell'apparato visivo;
-
-Malattie professionali del sistema cutaneo;
-
-Malattie professionali e ginecologia;
-
-Malattie professionali dell'orecchio, naso, gola;
-
-Malattie professionali e traumatologia;
-
-Igiene del lavoro;
-
-Medicina assicurativa e valutazione di danno;
-
-Patologia e clinica delle malattie professionali
-
-Internato per due anni nell'Istituto di medicina del lavoro con servizio effettivo di assistente volontario.
-
-Sono ammessi non piu' di dieci allievi per ogni anno di corso.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Dogliani, addi' 24 settembre 1954
-
-EINAUDI
-
-ERMINI
-
-Visto, il Guardasigilli: DE PIETRO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 30 dicembre 1954 Atti del Governo, registro n. 87, foglio n. 112. - CARLOMAGNO
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regi decreti 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-10-05;1847); [26 ottobre 1940, n. 2058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2058); [16 marzo 1942, n. 323](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-03-16;323); [24 ottobre 1942, n. 1597; e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1597) [23 settembre 1949, n. 932](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;932); [31 ottobre 1950, n. 1308](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1308); [11 aprile 1951, n. 953](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;953); [25 luglio 1952, n. 1501](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1501); [26 ottobre 1952; n. 4529](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4529); [10 febbraio 1953, n. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;384) e [30 luglio 1953, n. 715](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-07-30;715);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Art. 60. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di:  
-"Neurochirurgia".  
-Art. 104, relativo al corso di laurea in farmacia.  
-Le denominazioni degli insegnamenti complementari di "Chimica di guerra" e di "Chimica fisica" sono sostituite rispettivamente con quelle di "Tossicologia industriale" e "Chimica fisica ed esercizi".  
-Agli insegnamenti complementari del corso di laurea in farmacia sono aggiunti quelli di:  
-"Impianti e macchinario farmaceutico;  
-Chimica analitica;  
-Fisiologia vegetale".  
-Art. 175. - Il primo comma e' sostituito dal seguente:  
-"Alle scuole di perfezionamento possono iscriversi solamente laureati in medicina e chirurgia, eccezion fatta per la scuola d'igiene pubblica, alla quale possono iscriversi anche i laureati in chimica, in farmacia, in scienze biologiche ed in medicina veterinaria, e per quella d'igiene scolastica, alla quale possono iscriversi anche i laureati in farmacia".  
-Art. 185, relativo alla scuola di perfezionamento in urologia. - Le parole "internato per tre anni in clinica chirurgica con servizio effettivo di assistente volontario" sono sostituite con quelle di "internato per tre anni in clinica chirurgica o patologia chirurgica".  
-Agli insegnamenti del secondo anno della scuola di perfezionamento in pediatria e' aggiunto quello di:  
-"Alimentazione del bambino".  
-Agli insegnamenti del secondo anno della scuola di perfezionamento in radiologia e' aggiunto quello di:  
-"Radiobiologia".  
-Dopo la scuola di perfezionamento in puericoltura e' aggiunto l'ordinamento delle nuove scuole di perfezionamento in "Otorinolaringoiatria" ed in "Patologia del sangue e degli organi emopoietici" e della scuola di specializzazione in "Clinica delle malattie del lavoro".  
+Art. 362, relativo alle scuole di specializzazione in medicina e chirurgia e' modificato nel senso che i numeri 1, 6, 7 e 8 sono abrogati e sostituiti, con lo spostamento della successiva numerazione, dai seguenti:   
+1. Scuola di anestesiologia e rianimazione che conferisce il diploma di "Specialista in anestesiologia e rianimazione".   
+6. Scuola di igiene e medicina preventiva che conferisce il diploma di "Specialista in medicina preventiva (con orientamenti di: sanita' pubblica, laboratorio, igiene e tecnica ospedaliera, igiene e medicina scolastica)".   
+Nello stesso elenco e' aggiunta la seguente scuola di specializzazione:   
+26. Scuola di psichiatria che conferisce il diploma di "Specialista in psichiatria".   
+Art. 363. - E' modificato nel senso che gli ordinamenti delle scuole di specializzazione in "Anestesiologia e rianimazione", in "Igiene e medicina preventiva", in "Neurochirurgia", in "Neurologia", sono abrogati e sostituiti dai seguenti:   
   
-Scuola di otorinolaringoiatria  
-(durata del corso anni tre)  
+Scuola di specializzazione in anestesiologia e rianimazione   
+(durata del corso: anni 3)   
   
-Primo anno:  
+1° Anno:   
+Anatomia, biochimica, farmacologia, fisica, fisiologia, applicate alla anestesiologia e rianimazione;   
+Anestesiologia;   
+Tecniche chirurgiche di interesse anestesiologico;   
+Aspetti medico-legali dell'anestesia e della rianimazione.   
+2° Anno:   
+Anestesiologia;   
+Terapia antalgica;   
+Rianimazione.   
+3° Anno:   
+Rianimazione;   
+Tecniche speciali di anestesia e rianimazione;   
+Indagini diagnostiche attinenti alla specialita';   
+Internato di tre anni per tutta la durata dell'anno scolastico.   
+Numero di iscritti massimo: trenta per anno, per un totale di novanta specializzandi.   
+Non e' concessa alcuna abbreviazione di corso, ad eccezione dei candidati che, gia' in possesso del diploma di specializzazione in anestesiologia, possono essere ammessi al terzo anno per ottenerne il completamento.   
   
-Anatomia, istologia ed embriologia dell'orecchio e nelle prime vie respiratorie e digestive;  
-Patologia speciale otorinolaringoiatrica;  
-Fisiologia dell'orecchio e delle prime vie respiratorie e digestive;  
-Nozioni di patologia generale in rapporto all'otorinolaringoiatria;  
-Clinica otorinolaringoiatrica;  
-Semeiotica otorinolaringoiatrica.  
+Scuola di specializzazione in igiene e medicina preventiva   
+(durata del corso: anni 3)   
   
-Secondo anno:  
+1° Anno:   
+Statistica medica e biometria;   
+Educazione sanitaria;   
+Psicologia;   
+Microbiologia;   
+Parassitologia;   
+Epidemiologia e profilassi generale.   
+2° Anno:   
+Patologia e clinica delle malattie infettive;   
+Epidemiologia e profilassi delle malattie infettive;   
+Patologia e clinica delle malattie non infettive di importanza sociale;   
+Epidemiologia e profilassi delle malattie non infettive di importanza sociale;   
+Demografia e statistica sanitaria;   
+Legislazione e organizzazione sanitaria.   
+3° Anno (con orientamento di sanita' pubblica):   
+Approvvigionamento idrico; raccolta e smaltimento dei rifiuti liquidi e solidi; inquinamento atmosferico;   
+Igiene edilizia e urbanistica;   
+Igiene dell'alimentazione;   
+Igiene e medicina scolastica;   
+Igiene ospitaliera;   
+Servizi di sanita' pubblica.   
+3° Anno (con orientamento di laboratorio):   
+Microscopia applicata all'igiene;   
+Microbiologia applicata all'igiene;   
+Chimica clinica;   
+Accertamento diagnostico delle malattie batteriche e parassitarie;   
+Accertamento diagnostico delle infezioni virali;   
+Nozioni di anatomia e istologia patologica.   
+3° Anno (con orientamento di igiene e tecnica (o direzione) ospedaliera):   
+Storia degli ospedali e principi metodologici della assistenza ospitaliera;   
+Igiene e tecnica delle costruzioni ospitaliere, arredamento ed impianti sanitari;   
+Organizzazione e funzione degli ospedali generali e speciali;   
+Diritto amministrativo e legislazione ospitaliera;   
+Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospitaliera;   
+Selezione ed istruzione professionale del personale ospitaliero;   
+Organizzazione e funzione dei laboratori di analisi e di accertamento necroscopico.   
+3° Anno (con orientamento di igiene e medicina scolastica):   
+Auxologia normale e patologica;   
+Epidemiologia e profilassi delle malattie dell'eta' scolare;   
+Servizi di medicina scolastica;   
+Elementi di psicologia e pedagogia per l'eta' scolare;   
+Igiene dell'alimentazione;   
+Assistenza parascolastica;   
+Edilizia scolastica.   
+Al piano di studi proposto per ogni anno di corsi si aggiunge obbligatoriamente un corso complementare che il candidato potra' scegliere a seconda dell'interesse fra il seguente gruppo di materie complementari:   
+Ispezione delle carni;   
+Geologia applicata all'igiene;   
+Igiene mentale;   
+Malattie professionali e loro prevenzione;   
+Diritto sanitario;   
+Igiene navale e dell'emigrazione;   
+Antropologia culturale e sociologia;   
+Malattie tropicali;   
+Istituzioni di matematica;   
+Genetica;   
+Gerontologia e geriatria;   
+Elementi di economia politica.   
+Numero massimo di iscritti: quindici per ogni orientamento.   
   
-Clinica medica generale;  
-Clinica otorinolaringoiatrica;  
-Clinica chirurgica generale;  
-Semeiotica otorinolaringoiatrica;  
-Batteriologia, igiene e profilassi;  
-Interventi chirurgici e tecnica operativa otorinolaringoiatrica;  
-Nozioni di patologia generale in rapporto all'otorinolaringoiatria;  
-Audiometria.  
+Scuola di specializzazione in neurochirurgia   
+(durata del corso: anni 4)   
   
-Terzo anno:  
+1° Anno:   
+1. Neuroanatomia;   
+2. Neurofisiologia;   
+3. Clinica neurologica;   
+4. Elementi di psichiatria;   
+5. Clinica neurochirurgica.   
+Alla fine dell'anno gli specializzandi devono superare gli esami di profitto nelle materie di cui ai numeri 1, 2, 3, 4.   
+2° Anno:   
+1. Neuroftalmologia;   
+2. Neurotoiatria;   
+3. Elettroencefalografia ed elettromiografia;   
+4. Clinica neurochirurgica.   
+Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto nelle materie di cui ai numeri 1, 2, 3.   
+3° Anno:   
+1. Anestesiologia;   
+2. Neuropatologia;   
+3. Neuroradiologia;   
+4. Clinica neurochirurgica.   
+Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto nelle materie di cui ai numeri 1 e 2.   
+4° Anno:   
+1. Tecniche operatorie;   
+2. Neuroradiologia;   
+3. Clinica neurochirurgica.   
+Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto nelle materie di cui ai numeri 1, 2, 3.   
+Il numero complessivo degli specializzandi per intero corso e' di trenta.   
+Per la iscrizione alla scuola il candidato dovra' esibire un attestato di frequenza effettiva di almeno un anno in un istituto di patologia chirurgica e di clinica chirurgica.   
+La frequenza alla scuola e' obbligatoria durante l'anno accademico.  
+Il direttore della scuola potra' disporre che gli allievi frequentino per determinati periodi le lezioni e le esercitazioni di laboratorio in altri istituti dell'universita'.   
   
-Radiologia e malattie otorinolaringoiatriche;  
-Infortunistica e medicina legale in rapporto all'otorinolaringoiatria;  
-Interventi chirurgici e tecnica operativa otorinolaringoiatrica;  
-Clinica otorinolaringoiatrica;  
-Neurologia in rapporto all'otorinolaringoiatria;  
-Oculistica in rapporto all'otorinolaringoiatria;  
-Foniatria.  
+Scuola di specializzazione in neurologia   
+(durata del corso: anni 4)   
   
-Internato per tre anni in clinica otorinolaringoiatrica, con servizio effettivo di assistente volontario.  
-Sono ammessi non piu' di dieci allievi per ogni anno di corso.  
+1° Anno:   
+Anatomia e istologia del sistema nervoso;   
+Fisiologia del sistema nervoso;   
+Biochimica del sistema nervoso;   
+Genetica (elementi);   
+Psicologia generale;   
+Psicopatologia (1°);   
+Semeiotica psichiatrica.   
+2° Anno:   
+Anatomia e istologia patologica del sistema nervoso;   
+Semeiotica neurologica;   
+Patologia speciale e diagnostica neurologica (1°);   
+Neuro-radiologia;   
+Endocrinologia e neurologia vegetativa.   
+3° Anno:   
+Patologia speciale e diagnostica neurologica (2° anno);   
+Clinica neurologica (1°);   
+Elettroencefalografia;   
+Elettromiografia, elettrodiagnostica ed elettroterapia;   
+Neuro-oftalmologia;   
+Neuro-otologia;   
+Esami di laboratorio.   
+4° Anno:   
+Clinica neurologica e terapia (2°);   
+Neurochirurgia;   
+Teoria e clinica della riabilitazione;   
+Neurotraumatologia anche sotto l'aspetto della medicina legale;   
+Neurologia in rapporto alla patologia internistica.   
+Nel 1° anno: internato obbligatorio per l'intero anno scolastico in psichiatria. Tale internato potra' essere ridotto a non meno di mesi sei per i medici che prestino servizio in reparto neurologico e a non meno di mesi quattro per coloro che prestino servizio in ospedale psichiatrico.   
+Nel 2°, 3°, 4° anno: internato obbligatorio per l'intero anno scolastico in clinica neurologica, sede della scuola. Tale internato potra' essere ridotto a non meno di mesi quattro per anno per i medici che prestino regolare servizio in reparto neurologico.   
+Esami obbligatori per il passaggio all'anno successivo.   
+Il numero complessivo degli specializzandi per i quattro anni di corso e' di trentadue.   
+Ammissione alla scuola per titoli ed esami.   
+Un'abbreviazione di anni due puo' essere concessa agli specialisti in psichiatria, neuropsichiatria infantile e neurochirurgia, un'abbreviazione di un anno per gli specialisti in altre materie affini (medicina interna, otorinolaringoiatria, oculistica, radiologia). Le abbreviazioni di corso possono essere concesse dalla facolta' solo superando un esame di ammissione e su proposta del direttore della scuola.   
+Nello stesso articolo, dopo la scuola di urologia, e' aggiunta la scuola di specializzazione in psichiatria con il seguente ordinamento:   
   
-Scuola di patologia del sangue  
-e degli organi emopoietici  
-(durata del corso anni due)  
+Scuola di specializzazione in psichiatria   
+(durata del corso: anni 4)   
   
-Primo anno:  
-  
-Istologia normale degli organi emopoietici;  
-Fisiologia normale del sangue e degli organi emopoietici;  
-Chimica fisiologica del sangue e degli organi emopoietici;  
-Anatomia e istologia patologica degli organi emopoietici;  
-Patologia del sangue e degli organi emopoietici.  
-  
-Secondo anno:  
-  
-Metodologia morfologica e chimica delle emopatie (esercitazioni);  
-Dottrina e tecnica delle emotrasfusioni;  
-Patologia del sangue e degli organi emopoietici.  
-  
-Internato per due anni nell'Istituto di patologia speciale medica, con servizio effettivo di assistente volontario.  
-Sono ammessi non piu' di quindici allievi per ogni anno di corso.  
-Non sono ammesse abbreviazioni di corso.  
-  
-Scuola di clinica delle malattie del lavoro  
-(durata del corso anni due).  
-  
-Primo anno:  
-  
-Fisiologia del lavoro;  
-Patologia generale delle intossicazioni;  
-Tossicologia da materiale di lavoro;  
-Anatomia patologica delle malattie professionali;  
-Radiologia delle tecnopatie;  
-Psicotecnica;  
-Statistica;  
-Igiene del lavoro (biennale);  
-Medicina assicurativa e valutazione di danno (biennale);  
-Patologia e clinica delle malattie professionali (biennale).  
-  
-Secondo anno:  
-  
-Malattie professionali del sistema nervoso;  
-Malattie professionali dell'apparato visivo;  
-Malattie professionali del sistema cutaneo;  
-Malattie professionali e ginecologia;  
-Malattie professionali dell'orecchio, naso, gola;  
-Malattie professionali e traumatologia;  
-Igiene del lavoro;  
-Medicina assicurativa e valutazione di danno;  
-Patologia e clinica delle malattie professionali  
-  
-Internato per due anni nell'Istituto di medicina del lavoro con servizio effettivo di assistente volontario.  
-Sono ammessi non piu' di dieci allievi per ogni anno di corso.  
+1° Anno:   
+Anatomia e istologia del sistema nervoso;   
+Fisiologia del sistema nervoso;   
+Biochimica del sistema nervoso;   
+Genetica (elementi);   
+Psicologia generale;   
+Psicopatologia (1°);   
+Semeiotica psichiatrica.   
+2° Anno:   
+Anatomia e istologia patologica del sistema nervoso;   
+Semeiotica neurologica;   
+Patologia speciale e diagnostica neurologica;   
+Neuro-radiologia;   
+Endocrinologia e neurologia vegetativa;   
+Elettroencefalografia.   
+3° Anno:   
+Patologia speciale psichiatrica;   
+Psicopatologia (2°);   
+Clinica psichiatrica (1°);   
+Psicologia clinica e psicodiagnostica;   
+Psicofarmacologia;   
+Psichiatria in rapporto con la patologia internistica;   
+Esami di laboratorio.   
+4° Anno:   
+Clinica psichiatrica (2°);   
+Terapia psichiatrica generale;   
+Psicoterapia;   
+Neuropsichiatria infantile;   
+Psichiatria forense e legislazione psichiatrica;   
+Psichiatria sociale (del lavoro, scolastica, igiene e profilassi mentale).   
+Nel 1°, 3°, 4° anno: internato obbligatorio per l'intero anno scolastico nel reparto psichiatrico della clinica delle malattie nervose e mentali, sede della scuola. Tale internato, potra' essere ridotto a non meno di quattro mesi all'anno per i medici che prestino regolare servizio in ospedale psichiatrico.   
+Nel 2° anno: internato obbligatorio in neurologia, sede della scuola, per l'intero anno scolastico, salvo per i medici che prestino regolare servizio in ospedale psichiatrico per i quali potra' essere ridotto a non meno di sei mesi, e per i medici che prestino regolare servizio in reparto neurologico, per i quali potra' essere ridotto a non meno di mesi quattro.   
+Esami obbligatori per il passaggio all'anno successivo.   
+Ammissione alla scuola per titoli ed esami.   
+Il numero complessivo degli specializzandi per lo intero corso e' di dodici.   
+Per gli specialisti, in neurologia, neuropsichiatria infantile, potra' esservi abbreviazione di corso di due anni. Abbreviazione di un anno per gli specialisti in altre materie affini (psicologia, medicina generale, neurochirurgia). Tali abbreviazioni possono essere concesse solo dopo aver superato l'esame di ammissione, sentito il parere del direttore della scuola, a giudizio della facolta'.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Dogliani, addi' 24 settembre 1954
+### Dato a Roma, addi' 13 agosto 1969
 
-EINAUDI ERMINI
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: DE PIETRO
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 30 dicembre 1954
+Registrato alla Corte dei conti, addi' 29 settembre 1969
 
-Atti del Governo, registro n. 87, foglio n. 112. - CARLOMAGNO
+Atti del Governo, registro n. 229, foglio n. 62. - GRECO

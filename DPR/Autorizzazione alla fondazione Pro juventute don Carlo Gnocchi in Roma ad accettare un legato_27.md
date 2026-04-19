@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1984 n. 651
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1984 n. 1005
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1984 n. 651
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1984 n. 1005
+===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,18 @@ Art. 1
 
 N.
 
-651. Decreto del Presidente della Repubblica 20 giugno 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di lire 15.000.000, disposto dal sig. Picozzi Alessandro con testamento olografo 6 ottobre 1980, pubblicato in data 7 maggio 1981, n. 132021 di repertorio e n. 5425 di raccolta, a rogito dott. Michele Palermo-Patera, notaio in Milano, registrato a Milano il 15 maggio 1982 al n. 12610.  
+1005. Decreto del Presidente della Repubblica 22 ottobre 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la   
+fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene   
+autorizzata ad accettare il legato, consistente nella quota di 1/5 del 50% del valore di un appartamento sito in Milano, via Aselli n.   
+26, censito nel nuovo catasto edilizio urbano alla partita n.   
+33049, foglio n. 319, mappale n. 170 sub 11, e di beni mobili il   
+tutto, detratte le passivita', pari a L. 12.666.664, disposto dalla   
+sig.ra Giulia Vaccari ved. Morassutti con testamento pubblico 31   
+giugno 1968, redatto dal notaio dott. Domenico Moretti e dallo   
+stesso pubblicato in data 17 luglio 1981, n. 14396/26267 di   
+repertorio e registrato a Milano in data 29 luglio 1981 al n.   
+20924.   
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 27 settembre 1984  
-Registro n. 8 Presidenza, foglio n. 91
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 25 gennaio 1985   
+Registro n. 1 Presidenza, foglio n. 181

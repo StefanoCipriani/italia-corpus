@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1977 n. 1122
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1967 n. 1152
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1977 n. 1122
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1967 n. 1152
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
@@ -12,145 +12,54 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788) e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;   
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Torino e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
 Sulla proposta del Ministro per la pubblica istruzione;   
   
 Decreta:   
   
 Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 76. - All'elenco degli insegnamenti complementari del corso di laurea in farmacia sono aggiunti quelli di:   
   
-L'art. 15, relativo al corso di laurea in scienze politiche, e' modificato nel senso che al secondo comma, dopo la lettera d) e' aggiunto, con la lettera e) l'indirizzo politico-amministrativo.   
-Il sesto comma, alla lettera b), e' modificato nel modo seguente:   
-b) per l'indirizzo politico-internazionale:   
-1) diritto internazionale pubblico;   
-2) organizzazione internazionale;   
-3) relazioni internazionali;   
-4) storia delle relazioni internazionali.   
-Nello stesso comma, dopo la lettera d) per l'indirizzo storico-politico, e' aggiunta la lettera e) per l'indirizzo politico-amministrativo:   
-1) diritto amministrativo;   
-2) istituzioni di diritto privato italiano e comparato;   
-3) istituzioni di diritto e procedura penale;   
-4) sociologia politica.   
-Nello stesso articolo l'elenco delle materie complementari e' soppresso e sostituito dal seguente:   
-analisi del linguaggio politico;   
-antropologia culturale;   
-antropologia criminale;   
-antropologia sociale;   
-contabilita' dello Stato e degli enti pubblici;   
-demografia;   
-diritto anglo-americano;   
-diritto commerciale;   
-diritto degli enti locali;   
-diritto delle comunicazioni internazionali;   
-diritto delle comunita' europee;   
-diritto dell'economia;   
-diritto diplomatico e consolare;   
-diritto finanziario;   
-diritto internazionale dell'economia;   
-diritto internazionale privato;   
-diritto del lavoro;   
-diritto regionale;   
-dottrina dello Stato;   
-econometria;   
-economia applicata;   
-economia aziendale;   
-economia degli enti e delle imprese locali;   
-economia dei Paesi socialisti;   
-economia del lavoro;   
-economia internazionale;   
-economia monetaria;   
-economia e politica agraria;   
-economia e politica industriale;   
-economia e politica del territorio;   
-finanza degli enti locali;   
-geografia e politica economica;   
-giustizia amministrativa;   
-governo locale;   
-istituzioni di economia politica;   
-istituzioni di politiche comparate;   
-legislazione sociale;   
-matematica economica;   
-organizzazione economica internazionale;   
-pianificazione e organizzazione del territorio;   
-politica comparata;   
-programmazione economica;   
-psicologia sociale;   
-ricerca operativa;   
-scienza della amministrazione;   
-servizio sociale;   
-sistema politico italiano;   
-sociologia delle comunicazioni;   
-sociologia della conoscenza;   
-sociologia del diritto;   
-sociologia economica;   
-sociologia dell'educazione;   
-sociologia della famiglia;   
-sociologia industriale;   
-sociologia del lavoro;   
-sociologia matematica e sociometria;   
-sociologia dell'organizzazione;   
-sociologia dello sviluppo;   
-sociologia religiosa;   
-sociologia rurale;   
-sociologia urbana;   
-storia dell'agricoltura;   
-storia dell'amministrazione pubblica;   
-storia dell'America settentrionale;   
-storia dell'America latina;   
-storia antica;   
-storia dell'Asia moderna e contemporanea;   
-storia della Chiesa;   
-storia del Cristianesimo nell'eta' moderna e contemporanea;   
-storia e istituzioni dell'Africa;   
-storia e istituzioni dell'Islam;   
-storia del diritto italiano;   
-storia dei diritti dell'antichita';   
-storia dell'economia pre-industriale;   
-storia dell'economia industriale;   
-storia economica dell'Italia unita;   
-storia del giornalismo;   
-storia delle dottrine economiche;   
-storia delle istituzioni politiche;   
-storia medioevale;   
-storia dei popoli slavi;   
-storia dei movimenti sindacali;   
-storia del movimento operaio;   
-storia dei partiti e dei movimenti politici;   
-storia del pensiero politico contemporaneo;   
-storia del pensiero politico classico;   
-storia del pensiero politico medioevale;   
-storia della storiografia;   
-storia dei rapporti tra Stato e Chiesa;   
-tecniche di ricerca e di elaborazione dei dati;   
-teorie dello sviluppo economico;   
-teoria dello sviluppo politico;   
-antropologia economica.   
-L'art. 99, relativo alle norme sulla propedeuticita' degli esami nel corso di laurea in farmacia, e' modificato nel senso che il primo comma e' sostituito dal seguente:   
+Complementi di chimica tossicologica;   
+Chimica delle sostanze organiche naturali;   
+Microchimica;   
+Istituzioni di matematiche.   
+Nello stesso corso di laurea gli insegnamenti complementari di "chimica di guerra" e di "fisiologia vegetale" sono soppressi.   
+Art. 77. - All'elenco degli insegnamenti integrati da esercitazioni pratiche del corso di laurea in farmacia e' aggiunto quello di "chimica farmaceutica applicata".   
+Art. 78, relativo alle norme di iscrizione del predetto corso di laurea i due primi comma sotto la lettera a) e b) e' modificato nel modo seguente:   
+"Gli studenti non possono essere iscritti al corso di esercitazioni di chimica farmaceutica e tossicologica parte II (analisi qualitativa) e al corso di chimica analitica se non hanno superato gli esami di chimica generale ed inorganica e di esercitazioni di chimica farmaceutica e tossicologica parte I (tecniche di laboratorio e preparazioni chimiche);   
+Ai corsi di esercitazioni di chimica farmaceutica e tossicologica parte III (analisi quantitativa preparazioni e analisi quali-quantitativa di farmaci), di chimica bromatologica, di chimica farmaceutica applicata, di biochimica applicata, di complementi di chimica tossicologica, di chimica delle sostanze organiche naturali, chimica fisica, di microchimica se non hanno superato gli esami di chimica organica e di esercitazioni di chimica farmaceutica e tossicologica parte II (analisi qualitativa).   
+Nello stesso articolo la parte riguardante le norme di propedeuticita' e' modificato nel senso che sono abrogati gli insegnamenti di "chimica bromatologica", "biochimica applicata" e "chimica di guerra", elencati sotto la lettera c).   
+Nello stesso articolo il comma sotto la lettera d) e' abrogato e sostituito dal seguente: l'esame di chimica farmaceutica applicata e di tecnica e legislazione farmaceutica se non hanno superato almeno uno degli esami di chimica farmaceutica e tossicologica.   
+Nello stesso articolo il comma sotto la lettera e) e soppresso con il conseguente spostamento dei successivi commi.   
+Art. 79, relativo alle modalita' degli esami di laurea e' modificato nel senso che il secondo, il terzo, il quarto e il sesto comma sono abrogati e sostituiti dai seguenti:   
   
-Lo studente non puo' iscriversi al laboratorio del 2° corso di esercitazioni di chimica farmaceutica e tossicologia se non ha superato l'esame di chimica generale ed inorganica; pertanto non puo' ottenere la firma di frequenza del suddetto corso.   
-Lo studente non puo' iscriversi al laboratorio del 3° corso, secondo semestre, di esercitazioni di chimica farmaceutica e tossicologia se non ha superato l'esame di chimica organica; pertanto non puo' ottenere la firma di frequenza del suddetto corso.   
-L'art. 103, relativo al corso di laurea in chimica e tecnologia farmaceutiche, e' modificato nel senso che prima del terzultimo comma sono inclusi i seguenti:   
-  
-Lo studente non puo' iscriversi al laboratorio del 1° corso di analisi chimico-farmaceutica (analisi qualitativa) se non ha superato l'esame di chimica generale ed inorganica; pertanto non puo' ottenere la firma di frequenza del suddetto corso.   
-Lo studente non puo' iscriversi al laboratorio del 3° corso di analisi chimico-farmaceutica (analisi dei medicamenti) se non ha superato l'esame di chimica organica I; pertanto non puo' ottenere la firma di frequenza del suddetto corso.   
+L'esame di laurea e' preceduto da quattro prove pratiche, da una prova scritta di cultura in chimica e un colloquio.   
+Le quattro prove pratiche consistono:   
+a) nell'analisi qualitativa di una miscela di sali da cui si originano non piu' di cinque anioni e cinque cationi (esclusi gli elementi rari). Tempo massimo otto ore senza interruzione.   
+b) in un dosamento volumetrico di una sostanza iscritta nella farmacopea ufficiale. Tempo massimo quattro ore.   
+c) nel riconoscimento e saggi di purezza di una sostanza iscritta nella farmacopea ufficiale; tempo massimo quattro ore;   
+d) nella spedizione di una ricetta con relazione scritta. Tempo massimo un'ora.   
+Le prove di cui ai punti a), b), c), d) vengono sorteggiate dai candidati. I risultati delle prove pratiche predette sono da raccogliersi in apposita relazione scritta e le prove debbono svolgersi sotto la sorveglianza di almeno due dei commissari appartenenti alla commissione di esame di laurea.   
+La commissione per il colloquio e' costituita da sette membri scelti tra i commissari per gli esami di laurea e di essa fanno parte i professori di chimica farmaceutica, farmacologia e farmacognosia, tecnica farmaceutica, botanica farmaceutica e il farmacista della commissione di laurea.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana, E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 ottobre 1977
+### Dato a Roma, addi' 31 ottobre 1967
 
-LEONE MALFATTI
+SARAGAT GUI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 27 febbraio 1978
+Registrato alla Corte dei conti, addi' 4 dicembre 1967
 
-Registro n. 24 Istruzione, foglio n. 75
+Atti del Governo, registro n. 216, foglio n. 28. - GRECO

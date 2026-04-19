@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 532
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1985 n. 910
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 532
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1985 n. 910
+==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -39,18 +39,20 @@ Articolo unico
 --------------
 
   
-Art. 28 - nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' inserito l'insegnamento di "ematologia pediatrica".  
+Art. 53 - nell'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche e' inserito l'insegnamento di "paleobiogeografia con elementi di paleoecologia".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 giugno 1983
+### Dato a Roma, addi' 22 ottobre 1985
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 23 settembre 1983
+Registrato alla Corte dei conti, addi' 14 febbraio 1986
 
-Registro n. 62 Istruzione, foglio n. 314
+Registro n. 9 Istruzione, foglio n. 113

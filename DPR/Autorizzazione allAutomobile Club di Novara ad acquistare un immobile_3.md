@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 settembre 1966 n. 845
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 gennaio 1967 n. 72
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 settembre 1966 n. 845
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 gennaio 1967 n. 72
+=============================================================
 
 Autorizzazione all'Automobile Club di Novara ad acquistare un immobile.
 -----------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-845. Decreto del Presidente della Repubblica 16 settembre 1966, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile Club di Novara viene autorizzato ad acquistare in proprieta' dal sig. Sergio Cavigioli, per il prezzo di L. 7.300.000, il complesso immobiliare con i relativi servizi, costituito da un vano al piano terreno, da uno al piano interrato e da un vano solaio, facente parte del fabbricato denominato "Condominio Conca d'Oro", sito in Omegna al lungo lago Gramsci, censito alla partita 2744, foglio n. 11, n. 317/4 e partita 2859, foglio n. 11, n. 317/16, per trasferirvi gli uffici della propria delegazione.  
+72. Decreto del Presidente della Repubblica 27 gennaio 1967, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile Club di Novara viene autorizzato ad acquistare in proprieta', per la costruzione di locali da destinare a sede degli uffici della propria delegazione, dal sig. Pietro Brovelli, per il prezzo di L. 4.387.500, l'appezzamento di terreno - esteso are 11.10 - sito in Arona alla strada comunale della Riviera, censito al F. 29, mappale 85/b.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 19 ottobre 1966  
-Atti del Governo, registro n. 206, foglio n. 91. - VILLA
+Registrato alla Corte dei conti, addi' 7 marzo 1967  
+Atti del Governo, registro n. 209, foglio n. 96. - VILLA

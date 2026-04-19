@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1977 n. 991
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1074
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1977 n. 991
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1074
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Modena.
 ------------------------------------------------------------------
@@ -18,487 +18,388 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Modena e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 145 - la scuola di specializzazione in chirurgia muta la propria denominazione in quella di chirurgia generale.
+Gli articoli 117, 118, 119, 120, 121 e 122, relativi alla scuola di specializzazione in ostetricia e ginecologia, che muta la denominazione in quella di scuola di specializzazione in ginecologia e ostetricia, sono soppressi e sostituiti dai seguenti:
 
-Art. 155 - la scuola di specializzazione in oculistica muta la denominazione in quella di oftalmologia.
+Scuola di specializzazione in ginecologia e ostetricia
 
-Art. 170 - la scuola di specializzazione in odontoiatria e protesi dentaria muta la propria denominazione in quella di odontostomatologia.
+Art. 117. - La scuola di specializzazione in ginecologia ed ostetricia ha sede presso la clinica ostetrica e ginecologica e conferisce il diploma di specialista in ginecologia ed ostetricia.
 
-Art. 198 - la scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale muta la propria denominazione in quella di otorinolaringoiatria.
+Art. 118. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
 
-Dopo l'art. 253, e con il conseguente spostamento della numerazione degli articoli successivi, sono istituite la scuola di specializzazione in criminologia clinica e la scuola di specializzazione in neurochirurgia.
+Art. 119. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
 
-Scuola di specializzazione in criminologia clinica
+Art. 120. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.
 
-Art. 254. - La scuola di specializzazione in criminologia clinica conferisce il diploma di specialista in criminologia clinica ed ha sede presso la cattedra di antropologia criminale della facolta' di medicina e chirurgia dell'Universita'. La scuola e' diretta dal professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, dal professore di ruolo o fuori ruolo di materia affine.
+Il numero massimo degli allievi e' di otto per anno di corso e complessivamente di trentadue iscritti per l'intero corso di studi.
 
-Art. 255. - La scuola ha due indirizzi:
+L'ammissione al corso avviene per titoli ed esami.
 
-a) indirizzo medico-psicologico e psichiatrico forense per i laureati in medicina e chirurgia;
-
-b) indirizzo socio-psicologico per i laureati in giurisprudenza, scienze politiche, pedagogia, sociologia, psicologia, lettere e filosofia.
-
-Dell'indirizzo seguito viene fatta espressa menzione sul diploma di specializzazione.
-
-La durata del corso della scuola e' di tre anni, la frequenza e' obbligatoria. Non sono consentite abbreviazioni del corso.
-
-Art. 256. - Gli insegnamenti impartiti nella scuola sono i seguenti:
-
-Insegnamenti fondamentali comuni ai due indirizzi:
-
-1) criminologia generale I;
-
-2) elementi di diritto;
-
-3) elementi di sociologia;
-
-4) elementi di psicologia;
-
-5) elementi di biologia;
-
-6) metodologia della ricerca;
-
-7) criminologia generale II;
-
-8) criminologia minorile;
-
-9) trattamento criminologico;
-
-10) politica criminale e diritto penitenziario.
-
-Insegnamenti fondamentali dell'indirizzo medico-psicologico e psichiatrico forense:
-
-1) psicopatologia generale;
-
-2) psichiatria clinica;
-
-3) diagnostica criminologica;
-
-4) medicina legale e criminalistica;
-
-5) psicodiagnostica;
-
-6) neurologia e psichiatria forense;
-
-7) prevenzione della patologia del comportamento;
-
-8) tecniche di rieducazione minorile;
-
-9) legislazione socio-sanitaria.
-
-Insegnamenti fondamentali dell'indirizzo socio-psicologico:
-
-1) elementi di psicopatologia generale;
-
-2) elementi di psichiatria clinica forense;
-
-3) tecniche di servizio sociale;
-
-4) antropologia culturale;
-
-5) elementi di medicina legale;
-
-6) psicologia sociale;
-
-7) tecniche psicopedagogiche;
-
-8) sociologia della devianza;
-
-9) metodi della prevenzione.
-
-Insegnamenti complementari:
-
-1) antropofenomenologia;
-
-2) etologia dei comportamenti criminosi;
-
-3) sociologia del diritto;
-
-4) psicobiologia;
-
-5) economia della sicurezza e della difesa sociale;
-
-6) psicologia e psicopatologia dell'eta' evolutiva;
-
-7) igiene mentale;
-
-8) psicoterapia.
-
-Il piano di studi della scuola di specializzazione e' il seguente:
-
-1° Anno (comune ai due indirizzi):
-
-1) criminologia generale I;
-
-2) elementi di diritto;
-
-3) elementi di sociologia;
-
-4) elementi di psicologia;
-
-5) elementi di biologia;
-
-6) metodologia della ricerca;
-
-7) una materia integrativa a scelta.
-
-2° Anno:
-
-a) indirizzo medico-psicologico e psichiatrico forense:
-
-1) criminologia generale II;
-
-2) psicopatologia generale;
-
-3) psichiatria clinica;
-
-4) diagnostica criminologica;
-
-5) medicina legale e criminalistica;
-
-6) psicodiagnostica;
-
-7) criminologia minorile;
-
-8) una materia integrativa a scelta;
-
-b) indirizzo socio-psicologico:
-
-1) criminologia generale II;
-
-2) elementi di psicopatologia generale;
-
-3) elementi di psichiatria clinica e forense;
-
-4) tecniche di servizio sociale;
-
-5) antropologia culturale;
-
-6) elementi di medicina legale;
-
-7) criminologia minorile;
-
-8) una materia integrativa a scelta.
-
-3° Anno:
-
-a) indirizzo medico-psicologico e psichiatrico forense:
-
-1) neurologia e psichiatria forense;
-
-2) trattamento criminologico;
-
-3) prevenzione della patologia del comportamento;
-
-4) tecniche di rieducazione minorile;
-
-5) legislazione socio-sanitaria;
-
-6) politica criminale e diritto penitenziario;
-
-7) una materia integrativa a scelta;
-
-b) indirizzo socio-psicologico:
-
-1) psicologia sociale;
-
-2) tecniche psico-pedagogiche;
-
-3) sociologia della devianza;
-
-4) metodi di prevenzione;
-
-5) trattamento criminologico;
-
-6) politica criminale e diritto penitenziario;
-
-7) una materia integrativa a scelta.
-
-Art. 257. - All'atto della domanda di iscrizione a ciascuno dei tre anni di corso l'allievo dovra' indicare alla segreteria della scuola una materia integrativa da scegliere fra le materie complementari ovvero tra quelle fondamentali appartenenti all'indirizzo al quale non e' iscritto. L'indicazione e' vincolante.
-
-Art. 258. - Gli insegnamenti potranno essere integrati da esercitazioni pratiche nonche' da conferenze tenute da esperti italiani e stranieri.
-
-Art. 259. - Alla scuola sono ammessi i laureati in medicina e chirurgia, in giurisprudenza, in scienze politiche, in pedagogia, in sociologia, in psicologia, in lettere, in filosofia, in numero complessivo non superiore a trenta per i tre anni di corso.
-
-L'ammissione alla scuola avverra' mediante concorso per esami.
-
-Art. 260. - Gli esami di profitto sono tenuti ogni anno per singole materie o per gruppi di materie.
-
-Per essere ammesso all'esame di diploma l'allievo deve aver sostenuto ventidue esami, dei quali diciannove relativi alle materie fondamentali dell'indirizzo seguito e tre relativi alle materie integrative scelte.
-
-Art. 261. - L'esame di diploma consiste nella discussione di una dissertazione scritta originale, in una delle materie oggetto d'insegnamento. Il tema, concordato con il docente, dovra' essere presentato al direttore della scuola, per l'approvazione, entro 30 giorni dalla data di inizio dell'ultimo anno di corso.
-
-A coloro che hanno superato l'esame di diploma viene rilasciato il diploma di specialista in criminologia clinica, con la specificazione dell'indirizzo seguito.
-
-Art. 262. - Le norme per l'iscrizione, per gli esami, per le tasse, ecc., sono quelle previste dal titolo 111 dello statuto relativo all'ordinamento delle scuole di specializzazione dell'Universita' di Modena.
-
-Scuola di specializzazione in neurochirurgia
-
-Art. 263. - La scuola di specializzazione in neurochirurgia conferisce il diploma di specialista in neurochirurgia. Gli anni di corso necessari per il conseguimento del diploma sono cinque. Alla scuola sono ammessi i laureati in medicina e chirurgia abilitati all'esercizio della professione.
-
-La scuola e' istituita presso la cattedra di neurochirurgia dell'Universita' degli studi di Modena. La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
-
-Art. 264. - La selezione dei candidati aspiranti all'ammissione alla scuola avviene sulla base dei titoli presentati e in seguito ad un esame scritto. La commissione esaminatrice e' presieduta dal direttore della scuola di specializzazione.
-
-Art. 265. - Il corso di cinque anni non potra' essere abbreviato per alcun motivo e pertanto non sono consentite iscrizioni con abbreviazioni di corso.
-
-Art. 266. - Il numero degli allievi e' di due per anno di corso e complessivamente di dieci iscritti per intero corso di studi.
-
-Art. 267. - Gli insegnamenti della scuola di specializzazione in neurochirurgia sono cosi' distribuiti nei cinque anni di corso:
+Art. 121. - Le materie di insegnamento sono le seguenti:
 
 1° Anno:
 
-neuroanatomia;
+a) elementi di genetica medica;
 
-neurofisiologia;
+b) elementi di embriologia; anatomia macro e micro dell'apparato genitale femminile; anatomia della pelvi;
 
-semeiotica e clinica neurologica;
+c) elementi di fisiopatologia della riproduzione umana;
 
-elementi di psichiatria;
+d) fisiologia ostetrica;
 
-clinica neurochirurgica I.
+e) endocrinologia ginecologica ed ostetrica;
+
+f) semeiotica e diagnostica ostetrica;
+
+g) patologia ostetrica e ginecologica (biennale) I;
+
+h) lingua straniera (inglese)-(quadriennale) I.
 
 2° Anno:
 
-neurooftalmologia;
+a) semeiotica e diagnostica ginecologica;
 
-neurootoiatria;
+b) operazioni ostetriche (biennale) I;
 
-neurofisiologia clinica;
+c) anatomia ed istologia patologica della sfera genitale femminile;
 
-clinica neurochirurgica II.
+d) citologia ginecologica;
+
+e) patologia ostetrica e ginecologica (biennale) II;
+
+f) diagnostica di laboratorio in ostetricia e ginecologia;
+
+g) lingua straniera (inglese) (quadriennale) II.
 
 3° Anno:
 
-neuroanestesia e rianimazione;
+a) puericultura prenatale;
 
-neuroradiologia I;
+b) immunologia ostetrica e ginecologica;
 
-neuropatologia;
+c) analgo-anestesia e rianimazione in ostetricia;
 
-clinica neurochirurgica III.
+d) operazioni ostetriche (biennale) II;
+
+e) operazioni ginecologiche (biennale) I;
+
+f) ostetricia e ginecologia forense;
+
+g) terapia medica in ostetricia e ginecologia;
+
+h) clinica ostetrica e ginecologica (biennale) I;
+
+i) psicosomatica ostetrica e ginecologica;
+
+l) lingua straniera (inglese) (quadriennale) III.
 
 4° Anno:
 
-neuroradiologia II;
+a) neonatologia;
 
-neurotraumatologia;
+b) urologia ginecologica;
 
-tecniche operatorie I;
+c) radiodiagnostica e terapia fisica in ostetricia e ginecologia;
 
-clinica neurochirurgica IV.
+d) chirurgia addominale;
+
+e) operazioni ginecologiche (biennale) II;
+
+f) clinica ostetrica e ginecologica (biennale) II;
+
+g) lingua straniera (inglese) (quadriennale) IV.
+
+Art. 122. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.
+
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi.
+
+Al termine del corso di studi per il conseguimento del diploma di specialista in ginecologia ed ostetricia gli interessati dovranno superare l'esame di diploma di un argomento attinente alla specializzazione.
+
+Dopo l'art. 253, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti articoli relativi alla istituzione della scuola di specializzazione in chirurgia d'urgenza e pronto soccorso:
+
+Scuola di specializzazione in chirurgia d'urgenza e pronto soccorso
+
+Art. 254. - La scuola di specializzazione in chirurgia d'urgenza e di pronto soccorso ha sede presso la cattedra di chirurgia d'urgenza.
+
+Art. 255. - Il corso di studi per il conseguimento del diploma di specialista in chirurgia d'urgenza e di pronto soccorso ha la durata di cinque anni accademici.
+
+Art. 256. - Alla scuola possono iscriversi i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio della professione di medico chirurgico rilasciato dalla autorita' competente di numero massimo degli iscritti e' di tre per anno di corso.
+
+Non sono ammesse abbreviazioni di corso.
+
+L'ammissione al corso avviene per titoli ed esami.
+
+Art. 257. - La frequenza alle lezioni, esercitazioni e seminari e' obbligatoria per tutti gli iscritti. L'internato e' obbligatorio durante tutti e cinque gli anni di corso sotto forma di permanenza costante in istituto durante le ore della sua attivita'.
+
+Art. 258. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+1) clinica chirurgica generale d'urgenza e di pronto soccorso (I) (quinquennale);
+
+2) patologia chirurgica (I) (triennale);
+
+3) anatomia chirurgica;
+
+4) semeiotica (I) (biennale);
+
+5) anestesiologia;
+
+6) ricerche di laboratorio;
+
+7) chirurgia sperimentale.
+
+2° Anno:
+
+8) clinica chirurgica generale d'urgenza e pronto soccorso II (quinquennale);
+
+9) patologia chirurgica II (triennale);
+
+10) anatomia patologica;
+
+11) endoscopia;
+
+12) fisiopatologia chirurgica I (biennale);
+
+13) semeiotica II (biennale);
+
+14) trattamento pre e post operatorio in chirurgia d'urgenza;
+
+15) rianimazione.
+
+3° Anno:
+
+16) clinica chirurgica generale d'urgenza e di pronto soccorso III (quinquennale);
+
+17) patologia chirurgica III (triennale);
+
+18) chirurgia vascolare d'urgenza;
+
+19) traumatologia dell'apparato locomotore I (biennale);
+
+20) neurotraumatologia I (biennale);
+
+21) fisiopatologia chirurgica II;
+
+22) terapia intensiva I (biennale);
+
+23) radiologia.
+
+4° Anno:
+
+24) clinica chirurgica generale, d'urgenza e di pronto soccorso IV (quinquennale);
+
+25) chirurgia ginecologica d'urgenza;
+
+26) chirurgia pediatrica d'urgenza;
+
+27) chirurgia plastica e riparatrice I (biennale);
+
+28) traumatologia dell'apparato locomotore II (biennale);
+
+29) neurotraumatologia II (biennale);
+
+30) chirurgia toracica d'urgenza I (biennale);
+
+31) terapia intensiva II (biennale).
 
 5° Anno:
 
-neurochirurgia funzionale e stereotassica;
+32) clinica chirurgica generale d'urgenza e di pronto soccorso V (quinquennale);
 
-neurochirurgia infantile;
+33) chirurgia plastica e riparatrice II (biennale);
 
-tecniche operatorie II;
+34) chirurgia toracica d'urgenza II (biennale);
 
-clinica neurochirurgica V.
+35) cardiochirurgia d'urgenza;
 
-Art. 268. - La frequenza alle lezioni ed alle attivita' cliniche e' obbligatoria.
+36) chirurgia urologica d'urgenza;
 
-Art. 269. - Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Al termine del corso di studi per il conseguimento del diploma di specialista in neurochirurgia, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento di pertinenza neurochirurgica.
+37) angioradiologia;
+
+38) traumatologia maxillo-facciale;
+
+39) trattamento del politraumatizzato;
+
+40) medicina legale.
+
+Art. 259. - Alla fine di ogni anno accademico gli specializzandi per poter ottenere l'ammissione all'anno successivo dovranno superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno di corso; per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
+
+Art. 260. - L'esame di diploma consiste nella discussione di una tesi su un tema preventivamente approvato dal direttore della scuola.
+
+Il direttore della scuola e' il professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, il professore di ruolo o fuori ruolo di materia affine.
+
+Le norme per l'iscrizione, gli esami, le tasse, ecc., sono quelle generali per le scuole di specializzazione dell'Universita' di Modena.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 19 ottobre 1977
+Dato a Roma, addi' 31 ottobre 1978
 
-LEONE
+PERTINI
 
-MALFATTI
+PEDINI
 
 Visto, il Guardasigilli: BONIFACIO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 29 dicembre 1977 Registro n. 146 Istruzione, foglio n. 323
+alla Corte dei conti, addi' 23 maggio 1979 Registro n. 38 Istruzione, foglio n. 393
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Modena e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Modena e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 145 - la scuola di specializzazione in chirurgia muta la propria denominazione in quella di chirurgia generale.  
-Art. 155 - la scuola di specializzazione in oculistica muta la denominazione in quella di oftalmologia.  
-Art. 170 - la scuola di specializzazione in odontoiatria e protesi dentaria muta la propria denominazione in quella di odontostomatologia.  
-Art. 198 - la scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale muta la propria denominazione in quella di otorinolaringoiatria.  
-Dopo l'art. 253, e con il conseguente spostamento della numerazione degli articoli successivi, sono istituite la scuola di specializzazione in criminologia clinica e la scuola di specializzazione in neurochirurgia.  
-Scuola di specializzazione in criminologia clinica  
-Art. 254. - La scuola di specializzazione in criminologia clinica conferisce il diploma di specialista in criminologia clinica ed ha sede presso la cattedra di antropologia criminale della facolta' di medicina e chirurgia dell'Universita'. La scuola e' diretta dal professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, dal professore di ruolo o fuori ruolo di materia affine.  
-Art. 255. - La scuola ha due indirizzi:  
-a) indirizzo medico-psicologico e psichiatrico forense per i laureati in medicina e chirurgia;  
-b) indirizzo socio-psicologico per i laureati in giurisprudenza, scienze politiche, pedagogia, sociologia, psicologia, lettere e filosofia.  
-Dell'indirizzo seguito viene fatta espressa menzione sul diploma di specializzazione.  
-La durata del corso della scuola e' di tre anni, la frequenza e' obbligatoria. Non sono consentite abbreviazioni del corso.  
-Art. 256. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
-Insegnamenti fondamentali comuni ai due indirizzi:  
-1) criminologia generale I;  
-2) elementi di diritto;  
-3) elementi di sociologia;  
-4) elementi di psicologia;  
-5) elementi di biologia;  
-6) metodologia della ricerca;  
-7) criminologia generale II;  
-8) criminologia minorile;  
-9) trattamento criminologico;  
-10) politica criminale e diritto penitenziario.  
-Insegnamenti fondamentali dell'indirizzo medico-psicologico e psichiatrico forense:  
-1) psicopatologia generale;  
-2) psichiatria clinica;  
-3) diagnostica criminologica;  
-4) medicina legale e criminalistica;  
-5) psicodiagnostica;  
-6) neurologia e psichiatria forense;  
-7) prevenzione della patologia del comportamento;  
-8) tecniche di rieducazione minorile;  
-9) legislazione socio-sanitaria.  
-Insegnamenti fondamentali dell'indirizzo socio-psicologico:  
-1) elementi di psicopatologia generale;  
-2) elementi di psichiatria clinica forense;  
-3) tecniche di servizio sociale;  
-4) antropologia culturale;  
-5) elementi di medicina legale;  
-6) psicologia sociale;  
-7) tecniche psicopedagogiche;  
-8) sociologia della devianza;  
-9) metodi della prevenzione.  
-Insegnamenti complementari:  
-1) antropofenomenologia;  
-2) etologia dei comportamenti criminosi;  
-3) sociologia del diritto;  
-4) psicobiologia;  
-5) economia della sicurezza e della difesa sociale;  
-6) psicologia e psicopatologia dell'eta' evolutiva;  
-7) igiene mentale;  
-8) psicoterapia.  
-Il piano di studi della scuola di specializzazione e' il seguente:  
-1° Anno (comune ai due indirizzi):  
-1) criminologia generale I;  
-2) elementi di diritto;  
-3) elementi di sociologia;  
-4) elementi di psicologia;  
-5) elementi di biologia;  
-6) metodologia della ricerca;  
-7) una materia integrativa a scelta.  
-2° Anno:  
-a) indirizzo medico-psicologico e psichiatrico forense:  
-1) criminologia generale II;  
-2) psicopatologia generale;  
-3) psichiatria clinica;  
-4) diagnostica criminologica;  
-5) medicina legale e criminalistica;  
-6) psicodiagnostica;  
-7) criminologia minorile;  
-8) una materia integrativa a scelta;  
-b) indirizzo socio-psicologico:  
-1) criminologia generale II;  
-2) elementi di psicopatologia generale;  
-3) elementi di psichiatria clinica e forense;  
-4) tecniche di servizio sociale;  
-5) antropologia culturale;  
-6) elementi di medicina legale;  
-7) criminologia minorile;  
-8) una materia integrativa a scelta.  
-3° Anno:  
-a) indirizzo medico-psicologico e psichiatrico forense:  
-1) neurologia e psichiatria forense;  
-2) trattamento criminologico;  
-3) prevenzione della patologia del comportamento;  
-4) tecniche di rieducazione minorile;  
-5) legislazione socio-sanitaria;  
-6) politica criminale e diritto penitenziario;  
-7) una materia integrativa a scelta;  
-b) indirizzo socio-psicologico:  
-1) psicologia sociale;  
-2) tecniche psico-pedagogiche;  
-3) sociologia della devianza;  
-4) metodi di prevenzione;  
-5) trattamento criminologico;  
-6) politica criminale e diritto penitenziario;  
-7) una materia integrativa a scelta.  
-Art. 257. - All'atto della domanda di iscrizione a ciascuno dei tre anni di corso l'allievo dovra' indicare alla segreteria della scuola una materia integrativa da scegliere fra le materie complementari ovvero tra quelle fondamentali appartenenti all'indirizzo al quale non e' iscritto. L'indicazione e' vincolante.  
-Art. 258. - Gli insegnamenti potranno essere integrati da esercitazioni pratiche nonche' da conferenze tenute da esperti italiani e stranieri.  
-Art. 259. - Alla scuola sono ammessi i laureati in medicina e chirurgia, in giurisprudenza, in scienze politiche, in pedagogia, in sociologia, in psicologia, in lettere, in filosofia, in numero complessivo non superiore a trenta per i tre anni di corso.  
-L'ammissione alla scuola avverra' mediante concorso per esami.  
-Art. 260. - Gli esami di profitto sono tenuti ogni anno per singole materie o per gruppi di materie.  
-Per essere ammesso all'esame di diploma l'allievo deve aver sostenuto ventidue esami, dei quali diciannove relativi alle materie fondamentali dell'indirizzo seguito e tre relativi alle materie integrative scelte.  
-Art. 261. - L'esame di diploma consiste nella discussione di una dissertazione scritta originale, in una delle materie oggetto d'insegnamento. Il tema, concordato con il docente, dovra' essere presentato al direttore della scuola, per l'approvazione, entro 30 giorni dalla data di inizio dell'ultimo anno di corso.  
-A coloro che hanno superato l'esame di diploma viene rilasciato il diploma di specialista in criminologia clinica, con la specificazione dell'indirizzo seguito.  
-Art. 262. - Le norme per l'iscrizione, per gli esami, per le tasse, ecc., sono quelle previste dal titolo 111 dello statuto relativo all'ordinamento delle scuole di specializzazione dell'Universita' di Modena.  
-Scuola di specializzazione in neurochirurgia  
-Art. 263. - La scuola di specializzazione in neurochirurgia conferisce il diploma di specialista in neurochirurgia. Gli anni di corso necessari per il conseguimento del diploma sono cinque. Alla scuola sono ammessi i laureati in medicina e chirurgia abilitati all'esercizio della professione.  
-La scuola e' istituita presso la cattedra di neurochirurgia dell'Universita' degli studi di Modena. La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Art. 264. - La selezione dei candidati aspiranti all'ammissione alla scuola avviene sulla base dei titoli presentati e in seguito ad un esame scritto. La commissione esaminatrice e' presieduta dal direttore della scuola di specializzazione.  
-Art. 265. - Il corso di cinque anni non potra' essere abbreviato per alcun motivo e pertanto non sono consentite iscrizioni con abbreviazioni di corso.  
-Art. 266. - Il numero degli allievi e' di due per anno di corso e complessivamente di dieci iscritti per intero corso di studi.  
-Art. 267. - Gli insegnamenti della scuola di specializzazione in neurochirurgia sono cosi' distribuiti nei cinque anni di corso:  
-1° Anno:  
-neuroanatomia;  
-neurofisiologia;  
-semeiotica e clinica neurologica;  
-elementi di psichiatria;  
-clinica neurochirurgica I.  
-2° Anno:  
-neurooftalmologia;  
-neurootoiatria;  
-neurofisiologia clinica;  
-clinica neurochirurgica II.  
-3° Anno:  
-neuroanestesia e rianimazione;  
-neuroradiologia I;  
-neuropatologia;  
-clinica neurochirurgica III.  
-4° Anno:  
-neuroradiologia II;  
-neurotraumatologia;  
-tecniche operatorie I;  
-clinica neurochirurgica IV.  
-5° Anno:  
-neurochirurgia funzionale e stereotassica;  
-neurochirurgia infantile;  
-tecniche operatorie II;  
-clinica neurochirurgica V.  
-Art. 268. - La frequenza alle lezioni ed alle attivita' cliniche e' obbligatoria.  
-Art. 269. - Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Al termine del corso di studi per il conseguimento del diploma di specialista in neurochirurgia, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento di pertinenza neurochirurgica.  
+Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Gli articoli 117, 118, 119, 120, 121 e 122, relativi alla scuola di specializzazione in ostetricia e ginecologia, che muta la denominazione in quella di scuola di specializzazione in ginecologia e ostetricia, sono soppressi e sostituiti dai seguenti:   
+  
+Scuola di specializzazione in ginecologia e ostetricia   
+  
+Art. 117. - La scuola di specializzazione in ginecologia ed ostetricia ha sede presso la clinica ostetrica e ginecologica e conferisce il diploma di specialista in ginecologia ed ostetricia.   
+Art. 118. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Art. 119. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+Art. 120. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.   
+Il numero massimo degli allievi e' di otto per anno di corso e complessivamente di trentadue iscritti per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli ed esami.   
+Art. 121. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+a) elementi di genetica medica;   
+b) elementi di embriologia; anatomia macro e micro dell'apparato genitale femminile; anatomia della pelvi;   
+c) elementi di fisiopatologia della riproduzione umana;   
+d) fisiologia ostetrica;   
+e) endocrinologia ginecologica ed ostetrica;   
+f) semeiotica e diagnostica ostetrica;   
+g) patologia ostetrica e ginecologica (biennale) I;   
+h) lingua straniera (inglese)-(quadriennale) I.   
+2° Anno:   
+a) semeiotica e diagnostica ginecologica;   
+b) operazioni ostetriche (biennale) I;   
+c) anatomia ed istologia patologica della sfera genitale femminile;   
+d) citologia ginecologica;   
+e) patologia ostetrica e ginecologica (biennale) II;   
+f) diagnostica di laboratorio in ostetricia e ginecologia;   
+g) lingua straniera (inglese) (quadriennale) II.   
+3° Anno:   
+a) puericultura prenatale;   
+b) immunologia ostetrica e ginecologica;   
+c) analgo-anestesia e rianimazione in ostetricia;   
+d) operazioni ostetriche (biennale) II;   
+e) operazioni ginecologiche (biennale) I;   
+f) ostetricia e ginecologia forense;   
+g) terapia medica in ostetricia e ginecologia;   
+h) clinica ostetrica e ginecologica (biennale) I;   
+i) psicosomatica ostetrica e ginecologica;   
+l) lingua straniera (inglese) (quadriennale) III.   
+4° Anno:   
+a) neonatologia;   
+b) urologia ginecologica;   
+c) radiodiagnostica e terapia fisica in ostetricia e ginecologia;   
+d) chirurgia addominale;   
+e) operazioni ginecologiche (biennale) II;   
+f) clinica ostetrica e ginecologica (biennale) II;   
+g) lingua straniera (inglese) (quadriennale) IV.   
+Art. 122. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.   
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
+Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi.   
+Al termine del corso di studi per il conseguimento del diploma di specialista in ginecologia ed ostetricia gli interessati dovranno superare l'esame di diploma di un argomento attinente alla specializzazione.   
+Dopo l'art. 253, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti articoli relativi alla istituzione della scuola di specializzazione in chirurgia d'urgenza e pronto soccorso:   
+  
+Scuola di specializzazione in chirurgia d'urgenza e pronto soccorso   
+Art. 254. - La scuola di specializzazione in chirurgia d'urgenza e di pronto soccorso ha sede presso la cattedra di chirurgia d'urgenza.   
+Art. 255. - Il corso di studi per il conseguimento del diploma di specialista in chirurgia d'urgenza e di pronto soccorso ha la durata di cinque anni accademici.   
+Art. 256. - Alla scuola possono iscriversi i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio della professione di medico chirurgico rilasciato dalla autorita' competente di numero massimo degli iscritti e' di tre per anno di corso.   
+Non sono ammesse abbreviazioni di corso.   
+L'ammissione al corso avviene per titoli ed esami.   
+Art. 257. - La frequenza alle lezioni, esercitazioni e seminari e' obbligatoria per tutti gli iscritti. L'internato e' obbligatorio durante tutti e cinque gli anni di corso sotto forma di permanenza costante in istituto durante le ore della sua attivita'.   
+Art. 258. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+1) clinica chirurgica generale d'urgenza e di pronto soccorso (I) (quinquennale);   
+2) patologia chirurgica (I) (triennale);   
+3) anatomia chirurgica;   
+4) semeiotica (I) (biennale);   
+5) anestesiologia;   
+6) ricerche di laboratorio;   
+7) chirurgia sperimentale.   
+2° Anno:   
+8) clinica chirurgica generale d'urgenza e pronto soccorso II (quinquennale);   
+9) patologia chirurgica II (triennale);   
+10) anatomia patologica;   
+11) endoscopia;   
+12) fisiopatologia chirurgica I (biennale);   
+13) semeiotica II (biennale);   
+14) trattamento pre e post operatorio in chirurgia d'urgenza;   
+15) rianimazione.   
+3° Anno:   
+16) clinica chirurgica generale d'urgenza e di pronto soccorso III (quinquennale);   
+17) patologia chirurgica III (triennale);   
+18) chirurgia vascolare d'urgenza;   
+19) traumatologia dell'apparato locomotore I (biennale);   
+20) neurotraumatologia I (biennale);   
+21) fisiopatologia chirurgica II;   
+22) terapia intensiva I (biennale);   
+23) radiologia.   
+4° Anno:   
+24) clinica chirurgica generale, d'urgenza e di pronto soccorso IV (quinquennale);   
+25) chirurgia ginecologica d'urgenza;   
+26) chirurgia pediatrica d'urgenza;   
+27) chirurgia plastica e riparatrice I (biennale);   
+28) traumatologia dell'apparato locomotore II (biennale);   
+29) neurotraumatologia II (biennale);   
+30) chirurgia toracica d'urgenza I (biennale);   
+31) terapia intensiva II (biennale).   
+5° Anno:   
+32) clinica chirurgica generale d'urgenza e di pronto soccorso V (quinquennale);   
+33) chirurgia plastica e riparatrice II (biennale);   
+34) chirurgia toracica d'urgenza II (biennale);   
+35) cardiochirurgia d'urgenza;   
+36) chirurgia urologica d'urgenza;   
+37) angioradiologia;   
+38) traumatologia maxillo-facciale;   
+39) trattamento del politraumatizzato;   
+40) medicina legale.   
+Art. 259. - Alla fine di ogni anno accademico gli specializzandi per poter ottenere l'ammissione all'anno successivo dovranno superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno di corso; per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.   
+Art. 260. - L'esame di diploma consiste nella discussione di una tesi su un tema preventivamente approvato dal direttore della scuola.   
+Il direttore della scuola e' il professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, il professore di ruolo o fuori ruolo di materia affine.   
+Le norme per l'iscrizione, gli esami, le tasse, ecc., sono quelle generali per le scuole di specializzazione dell'Universita' di Modena.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 ottobre 1977
+### Dato a Roma, addi' 31 ottobre 1978
 
-LEONE MALFATTI
+PERTINI PEDINI
 
 Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 29 dicembre 1977
+Registrato alla Corte dei conti, addi' 23 maggio 1979
 
-Registro n. 146 Istruzione, foglio n. 323
+Registro n. 38 Istruzione, foglio n. 393

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1954 n. 740
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 settembre 1969 n. 767
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1954 n. 740
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 settembre 1969 n. 767
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
@@ -10,89 +10,205 @@ Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con i [regi decreti 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-13;2229); [30 ottobre 1930, n. 1931](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1931); [22 ottobre 1931, n. 1463](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-22;1463); [27 ottobre 1932, n. 2079](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2079); [27 dicembre 1934, n. 2435](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-27;2435); [1 ottobre 1936, n. 2472](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2472); [20 aprile 1939, n. 1068](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-04-20;1068); [2 ottobre 1940, n. 1470](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-02;1470); [24 novembre 1941, n. 1443, con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1941-11-24;1443) [20 novembre 1947, n. 1702 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-11-20;1702) [20 luglio 1948, n. 1161](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-07-20;1161); [31 ottobre 1950, n. 1278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1278); [19 giugno 1951, n. 1093](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-19;1093); [27 ottobre 1951, n. 1805](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1805); [27 ottobre 1951, numero 1806](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1806); [2 agosto 1952, n. 1222](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-08-02;1222) e [12 maggio 1953, n. 549](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-05-12;549);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 3 novembre 1952, n. 1787](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-11-03;1787);  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Art. 29. - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di:  
-23) "Estetica".  
-Il decimo comma e' sostituito dal seguente:  
-"La letteratura italiana, la letteratura latina, e un terzo insegnamento fondamentale (che per coloro che scelgono l'indirizzo classico e' obbligatoriamente la letteratura greca) devono essere seguiti per un biennio. Puo' pero' lo studente seguire per un biennio anche uno o due insegnamenti in piu', ed in tal caso puo' ridurre rispettivamente di uno o due gli altri insegnamenti che deve scegliere".  
-L'undicesimo comma e' sostituito dal seguente: "Lo studente deve superare una prova scritta di traduzione latina e una prova scritta di italiano integrativa dell'unico esame di italiano".  
+Gli articoli da 23 a 27, relativi all'ordinamento del corso di laurea in scienze politiche, sono abrogati e sostituiti dai seguenti con il conseguente spostamento della numerazione degli articoli successivi.   
   
-Art. 31. - Agli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:  
-15) "Filosofia della scienza;  
-16) Estetica".  
+FACOLTA' DI SCIENZE POLITICHE   
   
-Art. 36. - Agli insegnamenti fondamentali del 1° biennio del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:  
-7) "Chimica biologica;  
-8) Microbiologia".  
-Agli insegnamenti fondamentali del 3° biennio del corso di laurea in medicina e chirurgia e' aggiunto quello di:  
-"Radiologia (semestrale)".  
-Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di:  
-8) "Statistica sanitaria".  
+Art. 23. - La durata del corso per il conseguimento della laurea in scienze politiche e' di quattro ammesso si articola in un biennio propedeutico e in un biennio di specializzazione;   
+E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.   
+Lo studente per essere ammesso all'esame di laurea deve avere eseguito i corsi e superato gli esami relativi ad almeno diciannove insegnamenti annuali e a quelli relativi a due lingue straniere.   
+Gli insegnamenti possono essere anche mutuati da altre facolta'.   
+Art. 24. - Il biennio propedeutico comprende i seguenti insegnamenti obbligatori:   
+1) Diritto costituzionale, italiano e comparato;   
+2) Economia politica;   
+3) Istituzioni di diritto privato;   
+4) Istituzioni di diritto pubblico;   
+5) Politica economica e finanziaria;   
+6) Sociologia;   
+7) Statistica;   
+8) Storia delle dottrine politiche;   
+9) Storia moderna.   
+L'insegnamento di istituzioni di diritto privato approfondira' anche gli aspetti storico-comparatistici della materia.   
+Art. 25. - All'inizio del terzo anno di corso lo studente presenta domanda di iscrizione a uno dei cinque indirizzi del biennio di specializzazione.   
+Lo studente per essere ammesso al biennio di specializzazione deve aver superato almeno sei esami dei nove obbligatori del biennio propedeutico. I rimanenti esami dovranno comunque essere superati prima della laurea.   
+Art. 26. - Lo studente durante il biennio propedeutico, puo' anticipare fino a tre insegnamenti obbligatori dell'indirizzo di specializzazione che intende seguire.   
+Gli insegnamenti di indirizzo a scelta dello studente non possono essere anticipati.   
+Art. 27. - Lo studente e' tenuto a seguire i corsi con durata biennale e a superare i relativi esami in due lingue straniere moderne. Una di queste deve essere l'inglese; l'altra e' a scelta dello studente, con preferenza per quelle insegnate nella facolta'.  
+La frequenza del corso di lingua inglese deve aver luogo nel biennio propedeutico.   
+Art. 28. - Gli esami di diritto amministrativo, di diritto internazionale, di diritto dell'economia e del lavoro non possono essere sostenuti, se prima non siano stati superati gli esami di istituzioni di diritto privato e di istituzioni di diritto pubblico.   
+L'esame di istituzioni di diritto e procedura penale non puo' essere sostenuto se prima non sia stato superato l'esame di istituzioni di diritto pubblico.   
+Gli esami di politica economica e finanziaria e di scienza delle finanze non possono essere sostenuti se prima non sia stato superato l'esame di economia politica.   
+L'esame di organizzazione economica internazionale non puo' essere sostenuto se prima non sia stato superato l'esame di politica economica e finanziaria.   
+L'esame di demografia e statistica sociale non puo' essere sostenuto se prima non sia stato superato l'esame di statistica.   
+Gli esami di storia dei trattati e relazioni internazionali e di storia ed istituzioni dei paesi afro-asiatici non possono essere sostenuti se prima non sono stati superati gli esami di storia moderna e di storia contemporanea, ove quest'ultima sia prevista come obbligatoria nell'indirizzo prescelto.   
+Gli esami dei corsi a carattere superiore non possono essere sostenuti se prima non sia stato superato l'esame del corso di base.   
+Art. 29. - Il biennio di specializzazione e' suddiviso in cinque indirizzi:   
+1) Politico-amministrativo;   
+2) Politico-economico;   
+3) Politico-internazionale;   
+4) Politico-sociale;   
+5) Storico-politico.   
+Sul diploma di laurea viene indicato l'indirizzo seguito.   
+Art. 30. - Lo studente deve seguire i corsi e superare gli esami di almeno dieci materie indicate nell'elenco predisposto dalla facolta' per ciascun indirizzo. Di questi corsi non piu' di sette e non meno di quattro seno stabiliti come obbligatori; gli altri sono a scelta dello studente nell'ambito dei restanti insegnamenti del suddetto elenco.   
+Art. 31. - L'elenco degli insegnamenti obbligatori e a scelta di indirizzo e' predisposto dalla facolta', prima dell'inizio di ogni anno accademico, ai sensi del capo 5° dell'allegato, tabella IV, del [decreto del Presidente della Repubblica 31 ottobre 1968, n. 1189](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-10-31;1189), sulla base delle indicazioni date nel successivo articolo 13 in relazione ai fini che ciascun indirizzo si propone e avendo riguardo alle esigenze della continuita' degli studi.   
+Art. 32. - La facolta' con riguardo a specifici fini di orientamento didattico puo' predisporre l'elenco degli insegnamenti "a scelta" dei singoli indirizzi in modo differenziato a seconda dei campi di studio che articolano ciascun indirizzo.   
+Art. 33. - La facolta' sceglie gli insegnamenti dei singoli indirizzi nel seguente elenco orientativo:   
+Antropologia culturale;   
+Contabilita' nazionale;   
+Contabilita' dello Stato e degli enti pubblici;   
+Controlli costituzionali;   
+Criminologia;   
+Demografia;   
+Diplomazia e diritto diplomatico;   
+Diritto americano;   
+Diritto amministrativo;   
+Diritto inglese;   
+Diritto commerciale;   
+Diritto della Comunita' europea;   
+Diritto ecclesiastico;   
+Diritto dell'economia e del lavoro;   
+Diritto internazionale;   
+Diritto parlamentare;   
+Diritto penale comparato;   
+Diritto penale e dell'economia;   
+Diritto privato comparato;   
+Diritto processuale civile;   
+Diritto pubblico comparato;   
+Diritto pubblico comparato degli Stati africani;   
+Diritto pubblico regionale;   
+Diritto pubblico romano;   
+Diritto degli scambi internazionali;   
+Diritto tributario;   
+Dottrina dello Stato;   
+Econometria;   
+Economia aziendale;   
+Economia bancaria e monetaria;   
+Economia dei Paesi afro-asiatici;   
+Economia dei Paesi in via di sviluppo;   
+Economia e politica agraria;   
+Economia, del settore pubblico;   
+Etnologia;   
+Filosofia del diritto;   
+Filosofia morale;   
+Filosofia della politica;   
+Filosofia della scienza;   
+Filosofia della storia;   
+Geografia politica ed economica;   
+Istituzioni di diritto e procedura penale;   
+Istituzioni di matematiche;   
+Logica;   
+Metodologia della ricerca storica;   
+Metodologia delle scienze sociali;   
+Organizzazione economica internazionale;   
+Organizzazione internazionale;   
+Organizzazione politica europea;   
+Paleografia e diplomatica;   
+Pedagogia;   
+Politica comparata;   
+Programmazione economica;   
+Psicologia;   
+Psicologia sociale;   
+Ricerca operativa;   
+Scienza dell'amministrazione;   
+Scienza delle finanze;   
+Scienza della politica;   
+Sociologia applicata;   
+Sociologia economica;   
+Sociologia giuridica;   
+Sociologia del lavoro e dell'industria;   
+Sociologia politica;   
+Sociologia urbana e rurale;   
+Statistica economica;   
+Statistica sociale;   
+Storia dell'Africa e dell'Asia mediterranea;   
+Storia americana;   
+Storia antica;   
+Storia degli arabi;   
+Storia contemporanea;   
+Storia costituzionale e amministrativa dell'Italia contemporanea;   
+Storia del Cristianesimo;   
+Storia del diritto italiano;   
+Storia delle dottrine economiche;   
+Storia economica;   
+Storia della filosofia;   
+Storia ed istituzioni dell'Europa orientale,   
+Storia ed istituzioni dei Paesi afro-asiatici;   
+Storia delle istituzioni politiche;   
+Storia medioevale;   
+Storia moderna e contemporanea dell'Africa;   
+Storia moderna e contemporanea dell'Asia centrale;   
+Storia dei partiti e dei movimenti politici;   
+Storia del pensiero sociologico;   
+Storia politica e diplomatica dell'Asia orientale;   
+Storia dei rapporti fra Stato e Chiesa;   
+Storia del Risorgimento;   
+Storia e tecnica dei mezzi di informazione;   
+Storia dei trattati e relazioni internazionali;   
+Tecnica della ricerca sociale;   
+Tecnica degli scambi internazionali;   
+Teoria dell'organizzazione;   
+Teoria dello sviluppo economico;   
+Teoria dello sviluppo politico.   
+Art. 34. - Qualora la facolta' istituisca corsi semestrali o trimestrali due corsi semestrali, tre corsi trimestrali, un corso semestrale e uno trimestrale, equivarranno a un corso annuale.   
+Qualora la facolta' istituisca corsi pluriennali di una stessa materia, ogni esame annuale verra' computato ai fini del numero minimo dei corsi stabilito.   
+Art. 35. - E' consentito il passaggio ad altro indirizzo prima dell'inizio del quarto anno di corso mediante presentazione di apposita domanda. Il consiglio di facolta' decide sulla validita' dei corsi frequentati e degli esami superati nel precedente indirizzo ai fini del proseguimento degli studi nel nuovo indirizzo.   
+Art. 36. - E' ammessa la combinazione di due indirizzi. A tale effetto lo studente deve seguire i corsi e superare gli esami di ambedue gli indirizzi e comunque in non meno di quattordici materie indicate nell'elenco predisposto dalla facolta' rispetto ai due indirizzi scelti.   
+Superato l'esame di laurea lo studente consegue il titolo di dottore in scienze politiche con l'indicazione dell'indirizzo prescelto.   
+Art. 37. - Il consiglio di facolta' stabilisce la distribuzione cronologica degli insegnamenti entro i bienni e le modalita' degli esami.   
+Art. 38. - Il biennio di specializzazione utilizza in particolare anche esercitazioni, dibattiti, ricerche individuali e di gruppo e ogni altro strumento didattico che si riveli opportuno: fa altresi', ricorso a letture, ricerche integrative in campi di studio affini agli argomenti impartiti.   
+Art. 39. - Quando una stessa materia sia prevista in piu' indirizzi, fermo restando il carattere unitario del corso di lezioni per tutti gli studenti, i professori ufficiali, nello svolgimento delle esercitazioni e nelle indicazioni dei testi sui quali lo studente deve compiere la sua preparazione cosi' come negli esami, terranno conto della differenziata caratterizzazione dei vari indirizzi.   
+Art. 40. - L'esame di laurea consiste:   
+a) in una dissertazione scritta su un tema scelto dal candidato nell'ambito delle materie dell'indirizzo seguito e di quelle del biennio propedeutico direttamente connesse e nella discussione della stessa;   
+b) in due dissertazioni orali su argomenti scelti dal candidato nell'ambito delle materie dell'indirizzo seguito e di quelle del biennio propedeutico direttamente connesse.   
+Tali dissertazioni orali possono basarsi su letture, ricerche o esercitazioni compiute, individualmente o in gruppo, nell'ambito degli istituti o dei centri di studi annessi alla facolta'. La scelta del tema della dissertazione scritta e di quelle orali deve essere approvata dal professore ufficiale della materia.   
+La relativa comunicazione alla segreteria della facolta' deve avere luogo almeno sei mesi prima della sessione d'esame per la dissertazione scritta e almeno due mesi prima della sessione d'esame per le dissertazioni orali.   
+Art. 41. - Alla facolta' sono ammessi:   
+una biblioteca   
+e i seguenti istituti:   
+Istituto di studi storici e di politica internazionale;   
+Istituto di storia delle dottrine e delle istituzioni politiche;   
+Istituto di storia e istituzioni dei Paesi afro-asiatici;   
+Istituto di studi politico-economici;   
+Istituto di statistica;   
+Istituto di studi politico-sociali;   
+Istituto di studi politico-giuridici.   
+Gli istituti sono diretti da professori di ruolo o da professori incaricati.   
+Ogni istituto e' disciplinato con apposito regolamento interno.   
   
-Art. 58. - Agli insegnamenti complementari del corso di laurea in farmacia e' aggiunto quello di:  
-9) "Scienza dell'alimentazione".  
+Disposizioni transitorie   
   
-Dopo l'art. 69 sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della scuola di specializzazione in anestesia.  
-  
-Scuola di specializzazione in anestesia  
-  
-Art. 70. - E' istituita presso l'Istituto di patologia chirurgica della Universita' di Pavia una scuola di specializzazione in anestesia per il conseguimento del diploma di specialista in anestesia. La scuola dispone dei reparti e delle attrezzature dell'Istituto di patologia chirurgica e della clinica chirurgica.  
-Direttore della scuola e' il titolare della cattedra di patologia chirurgica.  
-  
-Art. 71. - Sono ammessi alla scuola, in numero non superiore a quattro, i medici che abbiano conseguito la laurea in medicina e chirurgia nelle Universita' italiane da non piu' di quattro anni al momento della iscrizione.  
-  
-Art. 72. - La selezione dei richiedenti la iscrizione, al fine della ammissione entro il numero dei posti disponibili, e' fatta dalla Direzione della scuola che provvedera' alla valutazione degli aspiranti in base ai titoli di studio, ed eventualmente, a mezzo di esami.  
-  
-Art. 73. - La durata del corso e' di due anni; in questo periodo gli specializzandi sono tenuti a prestare regolare e continuato servizio di internato nell'Istituto di patologia chirurgica o nella clinica chirurgica dell'Universita'.  
-  
-Art. 74. - Gli insegnamenti sono i seguenti:  
-1) I fondamenti anatomici delle anestesie;  
-2) I fondamenti fisiologici delle anestesie;  
-3) I fondamenti farmacologici delle anestesie;  
-4) Le anestesie generali;  
-5) Le anestesie loco-regionali;  
-6) Trattamenti pre e post-anestetici;  
-7) La rianimazione.  
-Tali insegnamenti saranno integrati da esercitazioni pratiche di tecnica anestesiologica e di rianimazione.  
-  
-Art. 75. - Gli insegnanti della scuola sono designati dal Consiglio di facolta'.  
-  
-Art. 76. - Al termine del corso gli allievi dovranno superare:  
-un esame speciale sulla materia degli insegnamenti fondamentali; un esame speciale sulla materia degli insegnamenti teorico-pratici;  
-un esame di diploma consistente in una dissertazione scritta su argomento attinente all'anestesia, proposto dal direttore della scuola.  
-La dissertazione scritta deve essere depositata in Segreteria quindici giorni prima dell'esame di diploma.  
-  
-Art. 77. - Le Commissioni degli esami speciali saranno costituite di tre membri nominati dal preside della Facolta' a scelta fra gli insegnanti della scuola.  
-La Commissione degli esami di diploma e' composta di cinque membri ed e' presieduta dal direttore della scuola.  
-  
-Art. 78. - Gli iscritti sono tenuti al pagamento delle tasse e sopratasse secondo le norme generali vigenti.  
+Art. 42. - Il nuovo piano di studi entra in vigore a partire dall'anno accademico 1969-70.   
+Art. 43. - Gli studenti gia' iscritti possono seguire, a loro scelta, sia il presente piano di studi, sia il precedente ordinamento didattico.   
+Art. 44. - Gli studenti iscritti al quarto anno sono ammessi agli indirizzi a condizione che, prima della laurea, abbiano superato gli esami prescritti per l'indirizzo e abbiano svolto, oltre le ordinarie attivita' di seminario, tre ricerche specializzate integrative.   
+Gli studenti fuori corso sono ammessi agli indirizzi purche' rinnovino l'iscrizione al quarto anno e si adeguino alle suddette condizioni.   
+Art. 45. - Il consiglio di facolta' decidera' ai fini della validita' della frequenza e degli esami, sull'equivalenza tra gli insegnamenti previsti del, precedente ordinamento didattico e quelli impartiti in base al presente piano di studi.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Dogliani, addi' 26 aprile 1954
+### Dato a Roma, addi' 8 ottobre 1969
 
-EINAUDI MARTINO
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: DE PIETRO
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 23 agosto 1954
+Registrato alla Corte dei conti, addi' 30 ottobre 1969
 
-Atti del Governo, registro n. 85, foglio n. 82. - TEMPESTA
+Atti del Governo registro, n. 229, foglio n. 163. - CARUSO

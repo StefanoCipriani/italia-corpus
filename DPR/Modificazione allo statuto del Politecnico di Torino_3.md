@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1986 n. 641
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1044
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1986 n. 641
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1044
+================================================================
 
 Modificazione allo statuto del Politecnico di Torino.
 -----------------------------------------------------
@@ -39,15 +39,14 @@ Articolo unico
 --------------
 
   
-Nell'art. 21, relativo ai corsi di laurea in ingegneria, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
-disegno (tecnico);  
-disegno (meccanici).  
+Nell'art. 21, relativo ai corsi di laurea in ingegneria, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
+ottica quantistica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 giugno 1986
+### Dato a Roma, addi' 31 dicembre 1985
 
 COSSIGA
 
@@ -55,6 +54,6 @@ FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 23 settembre 1986
+Registrato alla Corte dei conti, addi' 12 aprile 1986
 
-Registro n. 71 Istruzione, foglio n. 312
+Registro n. 27 Istruzione, foglio n. 328

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1971 n. 676
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1049
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1971 n. 676
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1049
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
@@ -12,159 +12,88 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;   
+Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;   
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le modifiche proposte;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
 Decreta:   
   
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato nel senso che gli articoli 88, 89, 90, 91 e 92, relativi alla scuola di specializzazione in chirurgia sono abrogati e sostituiti dai seguenti:   
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso: dopo l'art. 300, e con lo spostamento della numerazione degli articoli e titoli successivi, sono inseriti i seguenti nuovi articoli e titolo relativi all'inserimento delle norme generali della facolta' di farmacia e alla istituzione della scuola di perfezionamento in farmacologia.   
   
-Scuola di specializzazione in chirurgia   
+TITOLO XIII   
+FACOLTA' DI FARMACIA   
   
-Art. 88. - La scuola di specializzazione in chirurgia conferisce il diploma di specializzazione in chirurgia. Gli anni necessari per il conseguimento del diploma sono cinque.   
-Art. 89. - Le materie del corso sono le seguenti:   
-1) Anatomia chirurgica e corso d'operazioni (triennale);   
-2) Anatomia ed istologia patologica (biennale);   
-3) Anestesia e rianimazione;   
-4) Chirurgia cardiovascolare;   
-5) Chirurgia d'urgenza;   
-6) Chirurgia ginecologica;   
-7) Chirurgia pediatrica;   
-8) Chirurgia riparativa e plastica;   
-9) Chirurgia sperimentale;   
-10) Chirurgia toracica;   
-11) Chirurgia urologica;   
-12) Clinica chirurgica generale (quinquennale);   
-13) Fisiopatologia chirurgica;   
-14) Medicina legale;   
-15) Neurochirurgia;   
-16) Patologia speciale chirurgica (triennale);   
-17) Radiologia;   
-18) Ricerche di laboratorio;   
-19) Semeiotica chirurgica;   
-20) Semeiotica strumentale ed endoscopica;   
-21) Trattamento pre e post-operatorio;   
-22) Traumatologia ed ortopedia.   
-Le materie sopraelencate sono cosi' distribuite:   
+Norme generali   
+  
+Art. 301. - Le scuole di perfezionamento istituite presso la facolta' di farmacia, hanno lo scopo di fornire ai giovani laureati la preparazione necessaria nei singoli campi, dell'analisi e della tecnologia farmaceutica, della farmacologia, in relazione alle esigenze dei lavoratori universitari industriali ed ospedalieri e rilasciano i relativi diplomi di perfezionamento.   
+Art. 302. - I direttori delle scuole sono scelti tra i professori ordinari e straordinari della facolta' di farmacia dell'Universita' di Pavia e nominati dalla facolta' per la durata di un triennio. Il funzionamento della scuola e' affidato ad un consiglio direttivo che e' formato dal direttore e da altri due membri, scelti tra gli insegnanti della scuola, e viene nominato ogni triennio dalla facolta'.   
+Gli insegnanti della scuola sono proposti, d'intesa col consiglio direttivo, dal direttore, che puo' scegliere tra i professori di ruolo e non di ruolo della facolta' ed anche tra persone di riconosciuta competenza nelle materie d'insegnamento delle scuole; tali proposte sono sottoposte all'approvazione della facolta'.   
+Art. 303. - Il programma di ogni scuola viene compilato anno per anno dal direttore della scuola, sottoposto all'approvazione della facolta' e quindi reso pubblico.   
+Art. 304. - La facolta', udito il consiglio della scuola, puo' concedere un abbreviamento di corso di perfezionamento, non superiore ad un anno, a quegli iscritti che si presentino gia' forniti di notevoli titoli di riconosciuto valore.   
+Coloro che eventualmente usufruiscono dell'agevolazione di cui sopra, sono sempre tenuti a sostenere tutti gli esami di profitto e quello di diploma e ad ottemperare agli obblighi amministrativi al pari di quelli che frequentano i corsi secondo la durata regolare.   
+Art. 305. - Per ciascuna scuola puo' essere stabilito un numero minimo di iscrizioni; qualora questo numero non venga raggiunto, il direttore della scuola ha facolta' di non iniziare i corsi. Ma se questi verranno iniziati dovranno essere portati a termine, qualunque sia il numero degli iscritti.   
+Del pari puo' essere fissato un numero massimo di iscritti, oltre al quale non saranno accolte ulteriori iscrizioni.   
+Art. 306. - La sorveglianza sugli iscritti, per tutto quanto riguarda la loro attivita', spetta al direttore della scuola.   
+La frequenza ai singoli insegnamenti annuali deve essere attestata dai rispettivi insegnanti e notificata al direttore della scuola.   
+Art. 307. - Le commissioni per gli esami di profitto sono nominate dal preside della facolta' su proposta del direttore della scuola.  
+Ciascuna commissione non puo' essere composta con meno di tre membri.   
+Art. 308. - L'esame di diploma viene sostenuto davanti ad una commissione di cinque membri, tra cui un relatore ed un controrelatore, nominata a norma dell'art. 42 del regio decreto-legge 4 giugno 1938, fra i professori componenti la scuola.   
+L'esame di diploma consiste in una discussione sopra una dissertazione originale scritta di carattere sperimentale preparata durante il periodo di perfezionamento.   
+I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola. Ma, se al secondo esame non sia loro riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove.   
+A coloro che hanno superato l'esame di diploma viene rilasciato il diploma di perfezionamento.   
+Art. 309. - Le tasse e soprattasse che gli iscritti sono tenuti a pagare sono le stesse che la legge stabilisce per gli studenti della facolta' di farmacia, oltre alla tassa di diploma di L. 6.000.   
+La misura dei contributi per le esercitazioni pratiche e per le altre prestazioni di cui gli iscritti usufruiscono durante il corso di studi, e' fissata anno per anno dal consiglio di amministrazione su proposta della facolta'.   
+L'importo netto delle soprattasse di profitto e di diploma viene ripartito secondo i criteri di cui al [decreto presidenziale 1 dicembre 1952, n. 4512](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-12-01;4512).   
+Scuola di perfezionamento in farmacologia   
+Art. 310. - La scuola di perfezionamento, in farmacologia rilascia il diploma di perfezionamento in farmacologia.   
+La durata del corso e' di tre anni.   
+Art. 311. - Alla scuola possono essere ammessi i laureati in farmacia, in chimica e tecnologia farmaceutiche, in medicina e chirurgia, in scienze biologiche, in scienze delle preparazioni alimentari, in medicina veterinaria, in scienze della produzione animale.   
+Art. 312. - Il numero degli ammessi non puo' essere superiore a 20 per anno di corso.   
+Art. 313. - Gli insegnamenti impartiti dalla scuola nei tre anni sono i seguenti:   
 1° Anno:   
-1) Clinica chirurgica generale;   
-2) Patologia speciale chirurgica;   
-3) Semeiotica chirurgica;   
-4) Anatomia chirurgica e corso d'operazioni;   
-5) Chirurgia sperimentale;   
-6) Anestesia e rianimazione;   
-7) Ricerche di laboratorio.   
+farmacologia generale;   
+farmacologia sistematica I;   
+farmacologia sperimentale I;   
+statistica;   
+tossicologia e teratologia;   
+animali da sperimentazione (semestrale);   
+farmacocinetica (semestrale).   
 2° Anno:   
-1) Clinica chirurgica generale;   
-2) Patologia speciale chirurgica;   
-3) Semeiotica chirurgica;   
-4) Anatomia chirurgica e corso d'operazioni;   
-5) Fisiopatologia chirurgica;   
-6) Trattamento pre e post-operatorio;   
-7) Anatomia ed istologia patologica.   
+farmacologia sistematica II;   
+farmacologia sperimentale II;   
+farmacologia molecolare;   
+farmacologia biochimica;   
+caratteristiche delle forme farmaceutiche;   
+chemioterapia (annuale);   
+immuno-farmacologia (semestrale).   
 3° Anno:   
-1) Clinica chirurgica generale;   
-2) Patologia speciale chirurgica;   
-3) Semeiotica strumentale ed endoscopica;   
-4) Anatomia chirurgica e corso di operazioni;   
-5) Radiologia;   
-6) Anatomia ed istologia patologica.   
-4° Anno:   
-1) Clinica chirurgica generale;   
-2) Chirurgia ginecologica;   
-3) Chirurgia urologica;   
-4) Neurochirurgia;   
-5) Traumatologia e ortopedia;   
-6) Chirurgia pediatrica.   
-5° Anno:   
-1) Clinica chirurgica generale;   
-2) Chirurgia toracica;   
-3) Chirurgia cardiovascolare;   
-4) Chirurgia riparativa e plastica;   
-5) Chirurgia d'urgenza;   
-6) Medicina legale.   
-Art. 90. - I corsi dovranno essere corredati da esercitazioni pratiche obbligatorie. Alla scuola sono ammessi i laureati in medicina e chirurgia per un numero complessivo di settantacinque iscritti. La selezione dei candidati aspiranti all'ammissione alla scuola avverra' sulla base di titoli ed esami. Non sono consentite iscrizioni con abbreviazioni di corso. La frequenza alle lezioni ed alle esercitazioni e' obbligatoria per tutti gli iscritti.  
-L'internato e' obbligatorio durante tutti i cinque anni di corso e si svolgera' presso la clinica chirurgica sotto forma di permanenza costante nella detta clinica durante le ore della sua attivita', con presenza giornaliera agli ambulatori ed ai reparti di degenza.  
-Dall'obbligo di tale internato saranno esentati quegli allievi che, in qualita' di assistenti e di aiuti, prestino effettivamente servizio presso reparti di chirurgia generale delle universita' e di ospedali di 1ª e 2ª categoria. Gli allievi hanno doveri ed attribuzioni analoghe a quelli degli assistenti.   
-La frequenza nelle sale operatorie che e' obbligatoria iniziera' fin dal primo anno di corso, e dopo un periodo di tirocinio, dovra' trasformarsi in compartecipazione attiva degli interventi operatori.  
-Per i corsi che non siano della clinica chirurgica generale, possono essere stabiliti, su parere del direttore della scuola, periodi di continuativa frequenza presso i relativi reparti specialistici, qualora esistano quali reparti indipendenti.   
-Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico dell'operosita' scolastica degli allievi, con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno.   
-Art. 91. - L'allievo che non abbia ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali che sono i seguenti:   
-1° Anno:   
-Anestesia e rianimazione;   
-Ricerche di laboratorio;   
-Chirurgia sperimentale.   
-2° Anno:   
-Fisiopatologia chirurgica;   
-Trattamento pre e post-operatorio;   
-Semeiotica chirurgica.   
-3° Anno:   
-Patologia speciale chirurgica;   
-Semeiotica strumentale ed endoscopica;   
-Anatomia chirurgica e corso di operazioni;   
-Radiologia;   
-Anatomia ed istologia patologica.   
-4° Anno:   
-Chirurgia ginecologica;   
-Chirurgia urologica;   
-Traumatologia e ortopedia;   
-Chirurgia pediatrica.   
-5° Anno:   
-Clinica chirurgica generale;   
-Chirurgia toracica;   
-Chirurgia cardiovascolare;   
-Chirurgia d'urgenza;   
-Chirurgia plastica e riparativa;   
-Medicina legale.   
-Art. 92. - Alla fine del corso l'allievo, dovra' sostenere un esame generale di profitto e l'esame di diploma. Questo consistera' nella stesura di una tesi scritta svolta su argomento concordato col direttore della scuola che verra' discussa e in una prova pratica su un caso clinico.   
-Dopo l'art. 216 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in microbiologia.   
-  
-Scuola di specializzazione in microbiologia   
-  
-Art. 217. - La scuola di specializzazione in microbiologia ha lo scopo di allargare e completare sul piano scientifico la cultura di coloro che si dedicano a questa disciplina e di fornire sul piano tecnico una preparazione pratica specifica.   
-Possono esservi ammessi i laureati in medicina e chirurgia, in medicina veterinaria, in scienze biologiche.   
-Il corso ha la durata di tre anni e si svolge presso l'istituto di microbiologia della facolta' di medicina e chirurgia.   
-Gli iscritti a ciascun anno non potranno superare il numero di 10.  
-Nel caso che le domande fossero in numero maggiore, verra' effettuata una selezione mediante una graduatoria formulata sulla base della valutazione dei titoli e del risultato di prove d'esame. Potranno essere ammesse abbreviazioni del corso di un anno per coloro che fossero in possesso del diploma di specialista in igiene o di medico laboratorista.   
-La direzione della scuola e' affidata al titolare della cattedra di microbiologia.   
-Art. 218. - Le materie d'insegnamento sono le seguenti:   
-1° Anno:   
-Chimica microbiologica;   
-Batteriologia generale e tecnica batteriologica;   
-Analisi statistica del dosaggio biologico;   
-Genetica dei microorganismi;   
-Metodi e dosaggi microbiologici.   
-2° Anno:   
-Immunologia;   
-Batteriologia speciale;   
-Protozoologia;   
-Virologia generale e tecnica virologica.   
-3° Anno:   
-Virologia speciale;   
-Microbiologia degli alimenti;   
-Microbiologia industriale;   
-Micologia.   
-Art. 219. - Gli iscritti hanno l'obbligo della frequenza alle lezioni ed alle esercitazioni degli insegnamenti ufficiali della scuola. Il direttore puo' stabilire che, per un piu' proficuo conseguimento dei fini della scuola siano tenuti corsi di conferenze su materie ed argomenti che abbiano attinenza o affinita' con gli insegnamenti impartiti nella scuola.   
-Gli iscritti devono superare tutti gli esami delle materie del primo anno per essere ammessi al secondo e tutti quelli delle materie del secondo per essere ammessi al terzo.   
-L'esame di diploma consistera' nella stesura e discussione di una tesi scritta su tema concordato col direttore della scuola e di una prova pratica.   
-I candidati non riconosciuti idonei potranno ripresentarsi dopo un altro anno di frequenza della scuola. Se anche al secondo esame non fosse loro riconosciuti l'idoneita', saranno senz'altro esclusi da ulteriori prove.   
+progettazione di farmaci;   
+farmacoterapia;   
+valutazione clinica dei farmaci;   
+neuropsicofarmacologia (semestrale);   
+endocrinologia (semestrale).   
+I corsi saranno accompagnati da dimostrazioni ed esercitazioni pratiche e saranno integrati da seminari su argomenti di particolare attualita'.   
+In aggiunta agli insegnamenti sopra indicati gli iscritti alla scuola dovranno seguire ogni anno un corso universitario scelto su parere del consiglio direttivo della scuola, al fine di colmare eventuali lacune derivanti dal tipo di laurea conseguita; sul corso seguito gli iscritti alla scuola dovranno sostenere un colloquio.   
+Art. 314. - Alla fine di ogni anno gli iscritti dovranno sostenere un esame vertente sugli insegnamenti impartiti dalla scuola in quell'anno, di fronte ad una commissione formata da professori incaricati dei corsi e presieduta dal direttore della scuola.   
+Art. 315. - La facolta' si riserva di attivare il corso del 1° anno in funzione del numero di coloro che hanno presentato domanda d'iscrizione (minimo 10).   
+Gli altri due corsi verranno comunque attivati qualunque sia il numero degli iscritti.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 maggio 1971
+### Dato a Roma, addi' 31 ottobre 1978
 
-SARAGAT MISASI
+PERTINI PEDINI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 21 agosto 1971
+Registrato alla Corte dei conti, addi' 23 aprile 1979
 
-Atti del Governo, registro n. 243, foglio n. 165. - PASQUALUCCI
+Registro n. 27 Istruzione, foglio n. 28

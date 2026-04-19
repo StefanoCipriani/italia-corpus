@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 giugno 1980 n. 604
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1976 n. 149
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 giugno 1980 n. 604
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1976 n. 149
+============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare un legato.
 -------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-604. Decreto del Presidente della Repubblica 18 giugno 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 500.000, disposto dalla sig.na Maria Masenza con testamento pubblico 27 agosto 1971, n. 51 di repertorio, a rogito dott. Oliviero Melchiorre, notaio in Torino, pubblicato in data 10 maggio 1977, n. 21238 di repertorio, n. 8575 d'ordine, a rogito medesimo notaio.  
+149. Decreto del Presidente della Repubblica 6 marzo 1976, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il legato disposto dal sig. Ambrogio Galli con testamento olografo a rogito dott. Giuseppe Gambaro, notaio in Cremona, pubblicato il 4 luglio 1970, n. 13295/7107 di repertorio ed ivi registrato il 17 luglio 1970, n. 2024 di repertorio, volume 290.1.3.510, consistente nel valore di un decimo netto dell'azienda agricola "Lamma", con scorte vive e morte, della superficie di Ha 70.18.70, sita nel comune di Sabbioneta (Mantova).  
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 19 settembre 1980  
-Registro n. 7 Presidenza, foglio n. 327
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 20 aprile 1976  
+Atti di Governo, registro n. 5, foglio n. 19

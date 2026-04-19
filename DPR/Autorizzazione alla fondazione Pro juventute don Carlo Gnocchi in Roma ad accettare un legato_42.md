@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1978 n. 179
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 223
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1978 n. 179
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 223
+===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-179. Decreto del Presidente della Repubblica 10 aprile 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Bandinelli Margherita ved. Cristofori in favore dell'Opera mutilatini don Carlo Gnocchi, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", con testamento olografo 20 aprile 1970, pubblicato dal notaio dott. Pietro Cassina in data 27 novembre 1973, n. 79387 di repertorio e n. 18610 di raccolta, registrato a Milano il 12 dicembre 1973 con il n. A/ I-03809/ 71 M, serie E matr. 18, consistente nella nuda proprieta' di un immobile sito in Milano, via Superga, 13, distinto nel nuovo catasto edilizio urbano alla partita 253585, foglio 8, mappale 914, sub 16, vani catastali 7, ed in una somma in denaro di L. 5.000.000.  
+223. Decreto del Presidente della Repubblica 26 febbraio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato di L. 2.716.050 disposto dalla sig.na Pozzi Angela a favore dei "Mutilatini di don Gnocchi", che si identificano con la fondazione "Pro juventute don Carlo Gnocchi" come si evince dal verbale in data 24 novembre 1979 del consiglio di amministrazione della fondazione medesima, con testamento olografo 21 febbraio 1977, pubblicato a rogito dott. Francesco Boggia, notaio in Vercelli, con atto 22 febbraio 1979, n. 1089 di repertorio e n. 74 di raccolta, registrato a Vercelli il 5 marzo 1979 al n. 559.   
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 8 maggio 1978  
-Registro n. 3 Presidenza, foglio n. 271
+  
+Visto, il Guardasigilli: DARIDA   
+Registrato alla Corte dei Conti, addi' 23 aprile 1982   
+Registro, n. 3 Presidenza, foglio n. 324

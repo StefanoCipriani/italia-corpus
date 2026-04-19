@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1984 n. 808
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 642
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1984 n. 808
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 642
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
 ------------------------------------------------------------------------------
@@ -39,18 +39,20 @@ Articolo unico
 --------------
 
   
-Art. 147 - nell'elenco degli insegnamenti complementari della facolta' di ingegneria e' inserito l'insegnamento di "progettazione integrale".  
+Nell'art. 71, relativo al corso di laurea in lingue e letterature straniere della facolta' di magistero, nell'elenco degli insegnamenti complementari e' inserito l'insegnamento di "storia della cultura tedesca".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 marzo 1984
+### Dato a Roma, addi' 28 giugno 1986
 
-PERTINI FALCUCCI
+COSSIGA
 
-Visto, il Guardasigilli: MARTINAZZOLI
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 22 novembre 1984
+Visto, il Guardasigilli: ROGNONI
 
-Registro n. 71 Istruzione, foglio n. 5
+Registrato alla Corte dei conti, addi' 23 settembre 1986
+
+Registro n. 71 Istruzione, foglio n. 319

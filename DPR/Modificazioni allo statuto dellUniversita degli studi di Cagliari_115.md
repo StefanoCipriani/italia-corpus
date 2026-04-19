@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1048
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 settembre 1966 n. 994
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1048
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 settembre 1966 n. 994
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
@@ -10,104 +10,186 @@ Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1632](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1632), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Cagliari e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Art. 13. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze politiche e' aggiunto quello di: "Storia politica ed economica della Sardegna".
 
+Art. 35. - All'elenco degli insegnamenti complementari del corso di laurea in Materie letterarie e' aggiunto quello di: "Linguistica".
+
+Art. 36. - All'elenco degli insegnamenti complementari del corso di laurea in Pedagogia sono aggiunti quelli di: "Linguistica" e "Igiene".
+
+Art. 37. - All'elenco degli insegnamenti complementari del corso di laurea in Lingue e letterature straniere e' aggiunto quello di: "Linguistica".
+
+Art. 50. - L'elenco degli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' abrogato e sostituito dal seguente:
+
+1) Istologia ed embriologia generale (\*);
+
+2) Parassitologia (\*\*);
+
+3) Biologia delle razze umane (\*);
+
+4) Puericultura (\*\*\*);
+
+5) Semeiotica medica (\*);
+
+6) Tisiologia (\*\*);
+
+7) Clinica delle malattie tropicali e subtropicali (\*\*);
+
+8) Psicologia (\*\*\*);
+
+9) Urologia (\*\*);
+
+10) Anatomia chirurgica e corso di operazioni (\*\*);
+
+11) Medicina preventiva dei lavoratori e psicotecnica (\*\*);
+
+12) Clinica ortopedica (\*\*\*);
+
+13) Neurochirurgia (\*\*\*);
+
+14) Medicina del lavoro (\*\*);
+
+15) Antropologia criminale (\*\*);
+
+16) Psichiatria (\*\*);
+
+17) Genetica medica (\*)
+
+18) Clinica delle malattie infettive (\*);
+
+19) Medicina nucleare (\*);
+
+20) Anatomia topografica (\*), 21) Semeiotica chirurgica (");
+
+22) Fisiologia della nutrizione (\*);
+
+23) Clinica chirurgica pediatrica (\*\*\*);
+
+24) Anestesiologia e rianimazione (\*\*»;
+
+25) Chemioterapia (\*);
+
+26) Virologia (\*\*\*);
+
+27) Tecnica e diagnostica istopatologica (\*).
+
+L'ottavo comma dello stesso articolo e' abrogato e sostituito dal seguente:
+
+"Gli esami di "fisiologia umana", e di "patologia generale, debbono essere superati prima di sostenere quelli di "patologia speciale medica, di "patologia speciale chirurgica, e di "clinica otorinolaringoiatrica"".
+
+Il decimo comma dello stesso articolo e' abrogato e sostituito dal seguente:
+
+"Per gli insegnamenti complementari e' prescritto un corso semestrale; gli studenti hanno l'obbligo di sostenere un insegnamento complementare per ciascun biennio; detto insegnamento dovra' essere scelto tra quelli contrassegnati con un asterisco per il primo biennio, con due asterischi per il secondo biennio e con tre asterischi per il terzo biennio. Per gli insegnamenti non contrassegnati da asterisco gli studenti dovranno attenersi alle disposizioni annualmente impartite dalla Facolta'".
+
+Art. 58, relativo a modalita' di esami dei corsi di laurea in Scienze matematiche, in Fisica e in Scienze naturali - e' soppresso con il conseguente spostamento della numerazione degli articoli successivi.
+
+Art. 69. - Nell'orientamento C dei gruppi di materie a scelta dello studente del corso di laurea in Ingegneria chimica, l'insegnamento di Chimica organica assume la denominazione di "Chimica agraria".
+
+Art. 70, relativo alle precedenze degli insegnamenti del corso di laurea in Ingegneria chimica la materia "Chimica degli altri polimeri" assume la denominazione di "Chimica degli alti polimeri".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 9 settembre 1966
+
+SARAGAT
+
+GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 22 novembre 1966 Atti del Governo, registro n. 207, foglio n. 55. - VILLA
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Dopo l'art. 228, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in ematologia generale (clinica e laboratorio).  
-Scuola di specializzazione in ematologia generale (clinica e laboratorio)  
-Art. 229. - La scuola di specializzazione in ematologia generale (clinica e laboratorio) ha sede presso l'istituto di clinica medica I e conferisce il diploma di specialista in ematologia generale (clinica e laboratorio).  
-Art. 230. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.  
-Art. 231. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalla autorita' competente.  
-Art. 232. - La durata del corso e' di tre anni e non e' suscettibile di abbreviazione.  
-Art. 233. - Il numero massimo degli allievi e' di tre per anno di corso e complessivamente di nove per l'intero corso di studi.  
-Art. 234. - L'ammissione al corso avviene per titoli ed esami.  
-Art. 235. - Il piano di studi della scuola di specializzazione in ematologia comprende i seguenti insegnamenti:  
-morfologia e morfogenesi normale e patologica del sangue (biennale);  
-genetica ematologica (annuale);  
-fisiopatologia della coagulazione e dell'emostasi (annuale);  
-fisiopatologia ematologica (biennale);  
-biochimica ematologica (annuale);  
-fisiopatologia del plasma (annuale);  
-immunoematologia (annuale);  
-tecniche di laboratorio inerenti all'ematologia (triennale);  
-nozioni di radiobiologia e di medicina nucleare applicata all'ematologia (annuale);  
-radiodiagnostica e radioterapia ematologica (annuale);  
-patologia speciale ematologica (biennale);  
-clinica delle emopatie (biennale);  
-anatomia e istologia patologica delle emopatie e fondamenti di oncologia (annuale);  
-terapia sistematica ematologica (annuale);  
-terapia trasfusionale (annuale).  
-Art. 236. - La ripartizione di detti insegnamenti fra i tre anni di corso sara' la seguente:  
-1° Anno:  
-morfologia e morfogenesi normale e patologica del sangue;  
-genetica ematologica;  
-fisiopatologia della coagulazione e dell'emostasi;  
-fisiopatologia ematologica;  
-biochimica ematologica;  
-fisiopatologia del plasma;  
-tecniche di laboratorio inerenti all'ematologia.  
-2° Anno:  
-morfologia e morfogenesi normale e patologica del sangue;  
-fisiopatologia ematologica;  
-immunoematologia;  
-tecniche di laboratorio inerenti all'ematologia;  
-patologia speciale ematologica;  
-clinica delle emopatie;  
-anatomia e istologia patologica delle emopatie e fondamenti di oncologia.  
-3° Anno:  
-tecniche di laboratorio inerenti all'ematologia;  
-nozioni di radiobiologia e di medicina nucleare applicata alla ematologia;  
-radiodiagnostica e radioterapia ematologica;  
-patologia speciale ematologica;  
-clinica delle emopatie;  
-terapia sistematica ematologica;  
-terapia trasfusionale.  
-Art. 237. - Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno.  
-Al termine del corso di studi per il conseguimento del diploma di specialista in ematologia generale (clinica e laboratorio) devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
-Art. 238. - La scuola utilizza i laboratori di ematologia della clinica medica I e avra' a disposizione venticinque posti letto.  
-Per quanto attiene le tasse di iscrizione e soprattasse, queste sono fissate nel modo seguente:
-
-|  |  |  |
-| --- | --- | --- |
-| Primo anno | Altri anni | Fuori corso |
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1632](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1632), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 13. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze politiche e' aggiunto quello di: "Storia politica ed economica della Sardegna".  
+Art. 35. - All'elenco degli insegnamenti complementari del corso di laurea in Materie letterarie e' aggiunto quello di: "Linguistica".  
+Art. 36. - All'elenco degli insegnamenti complementari del corso di laurea in Pedagogia sono aggiunti quelli di: "Linguistica" e "Igiene".  
+Art. 37. - All'elenco degli insegnamenti complementari del corso di laurea in Lingue e letterature straniere e' aggiunto quello di: "Linguistica".  
+Art. 50. - L'elenco degli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' abrogato e sostituito dal seguente:  
+1) Istologia ed embriologia generale (\*);  
+2) Parassitologia (\*\*);  
+3) Biologia delle razze umane (\*);  
+4) Puericultura (\*\*\*);  
+5) Semeiotica medica (\*);  
+6) Tisiologia (\*\*);  
+7) Clinica delle malattie tropicali e subtropicali (\*\*);  
+8) Psicologia (\*\*\*);  
+9) Urologia (\*\*);  
+10) Anatomia chirurgica e corso di operazioni (\*\*);  
+11) Medicina preventiva dei lavoratori e psicotecnica (\*\*);  
+12) Clinica ortopedica (\*\*\*);  
+13) Neurochirurgia (\*\*\*);  
+14) Medicina del lavoro (\*\*);  
+15) Antropologia criminale (\*\*);  
+16) Psichiatria (\*\*);  
+17) Genetica medica (\*)  
+18) Clinica delle malattie infettive (\*);  
+19) Medicina nucleare (\*);  
+20) Anatomia topografica (\*), 21) Semeiotica chirurgica (");  
+22) Fisiologia della nutrizione (\*);  
+23) Clinica chirurgica pediatrica (\*\*\*);  
+24) Anestesiologia e rianimazione (\*\*»;  
+25) Chemioterapia (\*);  
+26) Virologia (\*\*\*);  
+27) Tecnica e diagnostica istopatologica (\*).  
+L'ottavo comma dello stesso articolo e' abrogato e sostituito dal seguente:  
+"Gli esami di "fisiologia umana", e di "patologia generale, debbono essere superati prima di sostenere quelli di "patologia speciale medica, di "patologia speciale chirurgica, e di "clinica otorinolaringoiatrica"".  
+Il decimo comma dello stesso articolo e' abrogato e sostituito dal seguente:  
+"Per gli insegnamenti complementari e' prescritto un corso semestrale; gli studenti hanno l'obbligo di sostenere un insegnamento complementare per ciascun biennio; detto insegnamento dovra' essere scelto tra quelli contrassegnati con un asterisco per il primo biennio, con due asterischi per il secondo biennio e con tre asterischi per il terzo biennio. Per gli insegnamenti non contrassegnati da asterisco gli studenti dovranno attenersi alle disposizioni annualmente impartite dalla Facolta'".  
+Art. 58, relativo a modalita' di esami dei corsi di laurea in Scienze matematiche, in Fisica e in Scienze naturali - e' soppresso con il conseguente spostamento della numerazione degli articoli successivi.  
+Art. 69. - Nell'orientamento C dei gruppi di materie a scelta dello studente del corso di laurea in Ingegneria chimica, l'insegnamento di Chimica organica assume la denominazione di "Chimica agraria".  
+Art. 70, relativo alle precedenze degli insegnamenti del corso di laurea in Ingegneria chimica la materia "Chimica degli altri polimeri" assume la denominazione di "Chimica degli alti polimeri".  
+  
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1981
+### Dato a Roma, addi' 9 settembre 1966
 
-PERTINI BODRATO
+SARAGAT GUI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 24 febbraio 1982
+Registrato alla Corte dei conti, addi' 22 novembre 1966
 
-Registro n. 30 Istruzione, foglio n. 379
+Atti del Governo, registro n. 207, foglio n. 55. - VILLA

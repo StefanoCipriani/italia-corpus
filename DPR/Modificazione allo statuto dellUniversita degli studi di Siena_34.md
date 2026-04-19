@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 451
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1983 n. 446
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 451
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1983 n. 446
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Siena.
@@ -39,21 +39,19 @@ Articolo unico
 --------------
 
   
-Nell'art. 69, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-neuropsichiatria geriatrica.  
+Nell'art. 49, lettera B, relativo al corso di laurea in storia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+storia dell'arte bizantina.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 aprile 1986
+### Dato a Roma, addi' 4 giugno 1983
 
-COSSIGA
+PERTINI FALCUCCI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: DARIDA
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 17 agosto 1983
 
-Registrato alla Corte dei conti, addi' 17 luglio 1986
-
-Registro n. 57 Istruzione, foglio n. 77
+Registro n. 59 Istruzione, foglio n. 99

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1962 n. 1318
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 gennaio 1964 n. 84
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1962 n. 1318
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 gennaio 1964 n. 84
+=============================================================
 
 Autorizzazione alla "Fondazione Pro Juventute Don Carlo Gnocchi" ad accettare un legato.
 ----------------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-1318. Decreto del Presidente della Repubblica 1 agosto 1962, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi" viene autorizzata ad accettare la quota parte di un legato disposto dalla defunta signora Anna Maria Ida Biancardi vedova Mauri a termini del testamento olografo 24 novembre 1938, depositato e pubblicato per atto a rogito notaio dott. Giovanni Scamarone di Milano in data 8 ottobre 1960, n. 30312 di repertorio, a favore dell'"Opera Don Carlo Gnocchi" di Milano.  
+84. Decreto del Presidente della Repubblica 12 gennaio 1964, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi" viene autorizzata ad accettare un legato di L. 2.000.000 (duemilioni), disposto dalla defunta signorina Delfina Maggi, con testamento olografo del 22 novembre 1961, depositato e pubblicato per atto a rogito dott.  
+Settimio Lulli, notaio in Seregno, in data 27 novembre 1962, repertorio n. 3574, racc. n. 1979, a favore dei "Mutilatini Don Gnocchi", che si identificano nella Fondazione sopra indicata.  
   
-Visto, il Guardasigilli: BOSCO  
-Registrato alla Corte dei conti, addi' 31 agosto 1962  
-Atti del Governo, registro n. 158, foglio n. 82. - VILLA
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 4 marzo 1964  
+Atti del governo, registro n. 181, foglio n. 155. - VILLA

@@ -1,87 +1,63 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1965 n. 713
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1963 n. 1007
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1965 n. 713
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1963 n. 1007
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2275](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2275), e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1983, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1983-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati) e' ulteriormente modificato come appresso:
-
-Art. 103. - Agli insegnamenti complementari del corso di laurea in Farmacia e' aggiunto quello di "Farmacia industriale".
-
-All'art. 131, relativo alle norme sulla propedeuticita' del corso di laurea in Scienze agrarie viene aggiunto il seguente comma: "Gli esami di Botanica generale, Botanica sistematica, Agronomia generale e coltivazioni erbacee I e II debbono essere superati prima di quello di Coltivazioni arboree".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 26 aprile 1965
-
-SARAGAT
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 19 giugno 1965 Atti del Governo, registro n. 194, foglio n. 13. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2275](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2275), e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1983, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1983-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto, il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Vedute le proposte di modifiche dello Statuto formulate dalle Autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati) e' ulteriormente modificato come appresso:  
-Art. 103. - Agli insegnamenti complementari del corso di laurea in Farmacia e' aggiunto quello di "Farmacia industriale".  
-All'art. 131, relativo alle norme sulla propedeuticita' del corso di laurea in Scienze agrarie viene aggiunto il seguente comma: "Gli esami di Botanica generale, Botanica sistematica, Agronomia generale e coltivazioni erbacee I e II debbono essere superati prima di quello di Coltivazioni arboree".  
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli 306 e 307, relativi all'ordinamento della scuola di specializzazione in Radiologia e terapia fisica, sono abrogati e sostituiti dai seguenti:  
+Art. 306. - La scuola ha la durata di tre anni ed ha sede presso l'Istituto di radiologia.  
+Il direttore della scuola e' il professore di ruolo di radiologia.  
+Il numero massimo degli allievi da ammettere ogni anno accademico e' di otto.  
+Art. 307. - Le materie d'insegnamento sono le seguenti:  
+1° anno:  
+1) Elettrologia e fisica delle radiazioni;  
+2) Anatomia e radiografia normale;  
+3) Tecnica radiografica;  
+4) Semeiotica radiologica.  
+2° anno:  
+1) Elettrologia e fisica delle radiazioni;  
+2) Radiobiologia;  
+3) Tecnica e principi generali delle radioterapie;  
+4) Semeiotica radiologica.  
+3° anno:  
+1) Medicina nucleare;  
+2) Patologia da radiazioni e protezioni;  
+3) Diagnostica radiologica e diagnostica differenziale;  
+4) Radioterapia clinica.  
+Gli allievi dovranno prestare servizio di internato nell'Istituto di Radiologia.  
+Oltre all'obbligo della frequenza alle lezioni, gli allievi dovranno superare annualmente gli esami di profitto nelle materie prescritte, quale condizione necessaria per l'iscrizione all'anno successivo. Il programma di insegnamento potra' essere integrato da conferenze o brevi corsi iconografici.  
+Alla fine degli esami di corso gli allievi dovranno presentare una tesi scritta, e sostenere un esame di diploma.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 aprile 1965
+### Dato a Roma, addi' 30 giugno 1963
 
-SARAGAT GUI
+SEGNI GUI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 19 giugno 1965
+Registrato alla Corte dei conti, addi' 2 agosto 1963
 
-Atti del Governo, registro n. 194, foglio n. 13. - VILLA
+Atti del Governo, registro n. 172, foglio n. 78. - VILLA

@@ -1,243 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 settembre 1962 n. 1560
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 807
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 settembre 1962 n. 1560
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 807
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, numero 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904) e successivi;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 22. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti quelli di:
-
-Diritto processuale amministrativo;
-
-Diritto degli Enti locali.
-
-Art. 25. - Agli insegnamenti complementari di corso di laurea in Scienze politiche sono aggiunti quelli di:
-
-Diritto degli Enti locali;
-
-Diritto ecclesiastico.
-
-Art. 118. - Agli insegnamenti complementari del corso di laurea in Chimica sono aggiunti i seguenti insegnamenti complementari:
-
-Per l'indirizzo organico biologico:
-
-Chimica delle sostanze naturali;
-
-Chimica macromolecolare;
-
-Analisi strumentale.
-
-Per l'indirizzo inorganico-chimico-fisico:
-
-Chimica macromolecolare;
-
-Struttura della materia;
-
-Istituzioni di fisica teorica;
-
-Analisi strumentale.
-
-Art. 119. - I commi 5°, 6°, 7° ed 8° relativi alle norme per gli esami di laurea in Chimica sono abrogati e sostituiti dai seguenti:
-
-"L'esame di laurea in Chimica consta di due parti:
-
-la prima comprende:
-
-a) un colloquio inteso ad accertare la cultura generale del candidato nelle discipline chimiche del corso di studio seguito;
-
-b) una prova pratica di analisi chimica.
-
-la seconda consiste:
-
-a) nella compilazione di una tesi originale su argomento a libera scelta mila rispondente ai fini essenziali della laurea ed eseguita preferibilmente in uno dei laboratori degli insegnamenti fondamentali del corso di laurea in Chimica
-
-b) nella discussione della tesi medesima nonche', di una argomento scelto anch'esso dal candidato in una materia diversa da quella su cui verte la tesi.
-
-Le Commissioni per il colloquio di cui alla lettera a) e per la prova di cui alla lettera b) della prima parte dell'esame sono composte da professori ufficiali della Facolta' di scienze".
-
-Art. 121. - Agli insegnamenti complementari del corso di laurea in Chimica industriale sono aggiunti quelli di:
-
-Chimica macromolecolare;
-
-Chimica delle sostanze coloranti;
-
-Analisi strumentale.
-
-Art. 122. - I commi 6°, 7°, 8° e 9° relativi alle norme per gli esami di laurea in Chimica industriale sono abrogati e sostituiti dai seguenti:
-
-"L'esame di laurea in Chimica industriale consta in due parti;
-
-la prima comprende:
-
-a) un colloquio inteso ad accertare le cultura generale del candidato nelle discipline chimiche del corso di studi seguito;
-
-b) una prova pratica di analisi chimica;
-
-la seconda consiste:
-
-a) nella compilazione di una tesi originale su argomento a libera scelta ma rispondente ai fini essenziali della laurea ed eseguita preferibilmente in uno dei laboratori degli insegnamenti fondamentali del corso di laurea in Chimica industriale;
-
-b) nella discussione della tesi medesima nonche' di un argomento scelto anch'esso dal candidato in una materia diversa di quella su cui verte la tesi.
-
-Le Commissioni per il colloquio di cui alla lettera a) e per la prova di cui alla lettera b) della prima parte dell'esame sono composte dai professori ufficiali della Facolta' di scienze.
-
-Art. 138. - Agli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti quelli di:
-
-Ecologia;
-
-Biogeografia.
-
-Art. 146. - Agli insegnamenti complementari del corso in Scienze biologiche sono aggiunti quelli di:
-
-Ecologia;
-
-Biogeografia.
-
-Art. 149. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche sono aggiunti quelli di:
-
-Geologia degli idrocarburi;
-
-Geologia regionale;
-
-Idrogeologia;
-
-Mineralogia, applicata;
-
-Paleontologia dei vertebrati;
-
-Rilevamento geologico con elementi di aerofotogeologia.
-
-Sedimentologia.
-
-Art. 180. - E' abolita la propedeuticita' dell'insegnamento di "Strade, ferrovie ed aeroporti" rispetto allo insegnamento di e Tecnica delle fondazioni e Costruzioni in terra a nel corso di laurea in ingegneria civile per le sezioni idraulica e trasporti.
-
-Dopo l'art. 183 e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi all'istituzione del Seminario sulle Tecnologie degli impianti nucleari.
-
-Seminario sulle Tecnologie degli impianti nucleari.
-
-Art. 184. - Nella Facolta' di ingegneria, presso l'Istituto di tecnologie, e' istituito un Seminario sulle Tecnologie degli impianti nucleari.
-
-Art. 185. - Il Seminario indirizza laureati e laureandi in Ingegneria o in altre discipline allo studio di problemi tecnologici specifici delle applicazioni tecniche dell'energia nucleare.
-
-Art. 186. - I corsi del Seminario hanno la durata di un anno accademico.
-
-Art. 187. - Il Seminario e' diretto dal direttore dello Istituto di tecnologie.
-
-Art. 188. - Gli insegnamenti del Seminario possono svolgersi sotto forma di lezioni cattedratiche, discussioni ed esercitazioni di carattere professionale.
-
-Art. 189. - Al Seminario possono iscriversi laureati in ingegnaria o in altre Facolta' che aspirino ad una specifica preparazione nel campo delle applicazioni tecniche dell'ingegneria nucleare.
-
-Possono inoltre iscriversi laureandiin ingegneria che svolgono la tesi stesso campo.
-
-L'ammissione al Seminario e' subordinata ad un esame di ammissione, inteso inteso ad accertare negli aspiranti sufficiente preparazione generale.
-
-Art. 190. - Il Seminario potra' eventualmente disporre di borse di studio che verranno conferite su proposta del Consiglio della Facolta' in base alle modalita' saranno stabilite dallo stesso Consiglio.
-
-Gli articoli 296 e 297 relativi alla Scuola di specializzazione in malattie nervose e mentali sono abrogati e sostituiti dai seguenti:
-
-Scuola di specializzazione in malattie nervose e mentali
-
-Art. 296. - La Scuola ha la durata di tre anni.
-
-Le materie d'insegnamento sono:
-
-I anno:
-
-Anatomia del sistema nervoso;
-
-Anatomia patologica del sistema nervoso;
-
-Neurofisiologia ed elettrobiologia clinica;
-
-Psicologia e psicopatologia;
-
-Semeiotica neurologica;
-
-Semeiotica psichiatrica.
-
-II anno:
-
-Neuroftalmologia;
-
-Otorinolaringoiatria, applicata alla clinica neuropsichiatrica;
-
-Neuroradiologia;
-
-Neurochimica e psicofarmacologia;
-
-Pronto soccorso psichiatrico e tecnica manicomaniale.
-
-III anno:
-
-Clinica neurologica;
-
-Clinica psichiatrica;
-
-Neuropsichiatrica infantile;
-
-Neurochirurgia;
-
-Medicina legale.
-
-Art. 297. - Gli esami saranno sostenuti alla fine di ciascun anno; non saranno ammessi al corso successivo coloro i quali non avranno superato gli esami dell'anno a cui sono iscritti.
-
-Il numero massimo degli iscritti non puo' essere complessivamente superiore a trenta.
-
-Alla fine del corso gli iscritti, oltre a presentare la dissertazione scritta e sostenere la relativa discussione a norma dell'art. 283 devono sostenere una prova pratica di clinica ed una di laboratorio.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti' della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 17 settembre 1962
-
-SEGNI
-
-GUI
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 7 novembre 1962 Atti del Governo, registro n. 160, foglio n. 3. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, numero 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904) e successivi;  
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -245,138 +24,115 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli 382, 383 e 384, relativi alla "Scuola di specializzazione in dermatologia e sifilografia" che muta la denominazione in quella di "Scuola di specializzazione in clinica dermosifilopatica", sono abrogati e sostituiti dai seguenti:  
   
-Art. 22. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti quelli di:  
+Scuola di specializzazione in clinica dermosifilopatica  
   
-Diritto processuale amministrativo;  
-Diritto degli Enti locali.  
+Art. 382. - La scuola ha la durata di tre anni.  
+Il numero degli iscritti alla scuola e' limitato ad otto per ogni anno di corso.  
+Art. 383. - Le materie di studio saranno quelle sotto indicate distribuite per ognuno dei tre anni di corso:  
+1° Anno:  
+Anatomia e istologia normale della cute;  
+Fisiologia della cute e degli annessi cutanei;  
+Anatomia e fisiologia dell'apparato genitale;  
+Microbiologia e parassitologia applicata;  
+Tecnica di laboratorio con particolare riferimento alla sierologia applicata;  
+Semeiotica dermatologica e venereologica.  
+2° Anno:  
+Patologia delle malattie cutanee;  
+Patologia delle infezioni sessuali;  
+Anatomia e istologia patologica della cute;  
+Anatomia patologica delle malattie veneree e sessuali;  
+Dermatosi allergiche e professionali;  
+Angiologia;  
+Sessuologia.  
+3° Anno:  
+Clinica delle malattie cutanee;  
+Clinica delle infezioni sessuali;  
+Farmacologia e terapia medicamentosa;  
+Fisioterapia dermatologica;  
+Cosmetologia;  
+Chirurgia plastica riparatrice;  
+Igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.  
+Art. 384. - Gli esami di profitto degli specializzandi verranno dati in tre gruppi ed in tre sessioni distinte, ogni gruppo comprendente le materie proprie di ciascun anno di studio.  
+L'esame di diploma consistera' nella esposizione e discussione di un argomento della disciplina su un tema dato al candidato 24 ore prima della prova.  
+Gli articoli 392, 393 e 394, relativi alla "Scuola di specializzazione in igiene generale e speciale" che muta la denominazione in quella di "Scuola di specializzazione in igiene e medicina preventiva" sono abrogati e sostituiti dai seguenti, con il conseguente spostamento della numerazione degli articoli successivi:  
   
-Art. 25. - Agli insegnamenti complementari di corso di laurea in Scienze politiche sono aggiunti quelli di:  
+Scuola di specializzazione in igiene e medicina preventiva  
   
-Diritto degli Enti locali;  
-Diritto ecclesiastico.  
-  
-Art. 118. - Agli insegnamenti complementari del corso di laurea in Chimica sono aggiunti i seguenti insegnamenti complementari:  
-  
-Per l'indirizzo organico biologico:  
-Chimica delle sostanze naturali;  
-Chimica macromolecolare;  
-Analisi strumentale.  
-  
-Per l'indirizzo inorganico-chimico-fisico:  
-Chimica macromolecolare;  
-Struttura della materia;  
-Istituzioni di fisica teorica;  
-Analisi strumentale.  
-  
-Art. 119. - I commi 5°, 6°, 7° ed 8° relativi alle norme per gli esami di laurea in Chimica sono abrogati e sostituiti dai seguenti:  
-"L'esame di laurea in Chimica consta di due parti:  
-la prima comprende:  
-a) un colloquio inteso ad accertare la cultura generale del candidato nelle discipline chimiche del corso di studio seguito;  
-b) una prova pratica di analisi chimica.  
-  
-la seconda consiste:  
-a) nella compilazione di una tesi originale su argomento a libera scelta mila rispondente ai fini essenziali della laurea ed eseguita preferibilmente in uno dei laboratori degli insegnamenti fondamentali del corso di laurea in Chimica  
-b) nella discussione della tesi medesima nonche', di una argomento scelto anch'esso dal candidato in una materia diversa da quella su cui verte la tesi.  
-Le Commissioni per il colloquio di cui alla lettera a) e per la prova di cui alla lettera b) della prima parte dell'esame sono composte da professori ufficiali della Facolta' di scienze".  
-  
-Art. 121. - Agli insegnamenti complementari del corso di laurea in Chimica industriale sono aggiunti quelli di:  
-Chimica macromolecolare;  
-Chimica delle sostanze coloranti;  
-Analisi strumentale.  
-  
-Art. 122. - I commi 6°, 7°, 8° e 9° relativi alle norme per gli esami di laurea in Chimica industriale sono abrogati e sostituiti dai seguenti:  
-"L'esame di laurea in Chimica industriale consta in due parti;  
-  
-la prima comprende:  
-a) un colloquio inteso ad accertare le cultura generale del candidato nelle discipline chimiche del corso di studi seguito;  
-b) una prova pratica di analisi chimica;  
-  
-la seconda consiste:  
-a) nella compilazione di una tesi originale su argomento a libera scelta ma rispondente ai fini essenziali della laurea ed eseguita preferibilmente in uno dei laboratori degli insegnamenti fondamentali del corso di laurea in Chimica industriale;  
-b) nella discussione della tesi medesima nonche' di un argomento scelto anch'esso dal candidato in una materia diversa di quella su cui verte la tesi.  
-Le Commissioni per il colloquio di cui alla lettera a) e per la prova di cui alla lettera b) della prima parte dell'esame sono composte dai professori ufficiali della Facolta' di scienze.  
-  
-Art. 138. - Agli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti quelli di:  
-Ecologia;  
-Biogeografia.  
-  
-Art. 146. - Agli insegnamenti complementari del corso in Scienze biologiche sono aggiunti quelli di:  
-Ecologia;  
-Biogeografia.  
-  
-Art. 149. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche sono aggiunti quelli di:  
-Geologia degli idrocarburi;  
-Geologia regionale;  
-Idrogeologia;  
-Mineralogia, applicata;  
-Paleontologia dei vertebrati;  
-Rilevamento geologico con elementi di aerofotogeologia.  
-Sedimentologia.  
-  
-Art. 180. - E' abolita la propedeuticita' dell'insegnamento di "Strade, ferrovie ed aeroporti" rispetto allo insegnamento di e Tecnica delle fondazioni e Costruzioni in terra a nel corso di laurea in ingegneria civile per le sezioni idraulica e trasporti.  
-Dopo l'art. 183 e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi all'istituzione del Seminario sulle Tecnologie degli impianti nucleari.  
-  
-Seminario sulle Tecnologie degli impianti nucleari.  
-  
-Art. 184. - Nella Facolta' di ingegneria, presso l'Istituto di tecnologie, e' istituito un Seminario sulle Tecnologie degli impianti nucleari.  
-  
-Art. 185. - Il Seminario indirizza laureati e laureandi in Ingegneria o in altre discipline allo studio di problemi tecnologici specifici delle applicazioni tecniche dell'energia nucleare.  
-  
-Art. 186. - I corsi del Seminario hanno la durata di un anno accademico.  
-  
-Art. 187. - Il Seminario e' diretto dal direttore dello Istituto di tecnologie.  
-  
-Art. 188. - Gli insegnamenti del Seminario possono svolgersi sotto forma di lezioni cattedratiche, discussioni ed esercitazioni di carattere professionale.  
-  
-Art. 189. - Al Seminario possono iscriversi laureati in ingegnaria o in altre Facolta' che aspirino ad una specifica preparazione nel campo delle applicazioni tecniche dell'ingegneria nucleare.  
-Possono inoltre iscriversi laureandiin ingegneria che svolgono la tesi stesso campo.  
-L'ammissione al Seminario e' subordinata ad un esame di ammissione, inteso inteso ad accertare negli aspiranti sufficiente preparazione generale.  
-  
-Art. 190. - Il Seminario potra' eventualmente disporre di borse di studio che verranno conferite su proposta del Consiglio della Facolta' in base alle modalita' saranno stabilite dallo stesso Consiglio.  
-Gli articoli 296 e 297 relativi alla Scuola di specializzazione in malattie nervose e mentali sono abrogati e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in malattie nervose e mentali  
-  
-Art. 296. - La Scuola ha la durata di tre anni.  
-Le materie d'insegnamento sono:  
-  
-I anno:  
-Anatomia del sistema nervoso;  
-Anatomia patologica del sistema nervoso;  
-Neurofisiologia ed elettrobiologia clinica;  
-Psicologia e psicopatologia;  
-Semeiotica neurologica;  
-Semeiotica psichiatrica.  
-  
-II anno:  
-Neuroftalmologia;  
-Otorinolaringoiatria, applicata alla clinica neuropsichiatrica;  
-Neuroradiologia;  
-Neurochimica e psicofarmacologia;  
-Pronto soccorso psichiatrico e tecnica manicomaniale.  
-  
-III anno:  
-Clinica neurologica;  
-Clinica psichiatrica;  
-Neuropsichiatrica infantile;  
-Neurochirurgia;  
-Medicina legale.  
-  
-Art. 297. - Gli esami saranno sostenuti alla fine di ciascun anno; non saranno ammessi al corso successivo coloro i quali non avranno superato gli esami dell'anno a cui sono iscritti.  
-Il numero massimo degli iscritti non puo' essere complessivamente superiore a trenta.  
-Alla fine del corso gli iscritti, oltre a presentare la dissertazione scritta e sostenere la relativa discussione a norma dell'art. 283 devono sostenere una prova pratica di clinica ed una di laboratorio.  
+Art. 392. - La scuola di specializzazione in igiene e medicina preventiva ha un triplice orientamento:  
+a) Sanita' pubblica;  
+b) Laboratorio;  
+c) Igiene, tecnica e direzione ospedaliera.  
+Il corso di studi ha la durata di tre anni e consiste in un biennio propedeutico completato da un terzo anno con differente orientamento.  
+L'ammissione e' limitata ai laureati in medicina e chirurgia e, all'atto dell'iscrizione, gli aspiranti devono precisare l'orientamento specialistico da loro prescelto.  
+Art. 393. - Orientamento degli studi.  
+Biennio propedeutico.  
+1° Anno:  
+Metodologia statistica e biometria;  
+Educazione sanitaria;  
+Psicologia;  
+Microbiologia;  
+Parassitologia;  
+Epidemiologia e profilassi generale.  
+2° Anno:  
+Patologia e clinica delle malattie infettive;  
+Epidemiologia e profilassi delle malattie infettive;  
+Patologia e clinica delle malattie non infettive di importanza sociale;  
+Epidemiologia e profilassi delle malattie non infettive di importanza sociale;  
+Demografia e statistica sanitaria;  
+Legislazione e organizzazione sanitaria.  
+3° Anno, con orientamento di sanita' pubblica:  
+Approvvigionamento idrico: raccolta e smaltimento dei rifiuti liquidi e solidi: inquinamenti atmosferici;  
+Igiene edilizia e urbanistica;  
+Igiene dell'alimentazione;  
+Igiene e medicina scolastica;  
+Igiene ospedaliera;  
+Servizi di sanita' pubblica.  
+3° Anno, con orientamento di laboratorio:  
+Microscopia applicata all'igiene;  
+Microbiologia applicata all'igiene;  
+Chimica clinica;  
+Accertamento diagnostico delle malattie batteriche e parassitarie;  
+Accertamento diagnostico delle malattie virali;  
+Nozioni di anatomia e istologia patologica.  
+3° Anno, con orientamento di igiene, tecnica e direzione ospedaliera:  
+Storia degli ospedali e principi metodologici dell'assistenza ospedaliera;  
+Igiene e tecnica delle costruzioni ospedaliere, arredamento e impianti sanitari;  
+Organizzazione e funzione degli ospedali generali e speciali;  
+Diritto amministrativo e legislazione ospedaliera;  
+Igiene dell'alimentazione, ispezione degli alimenti e dietologia ospedaliera;  
+Organizzazione e funzione dei laboratori di analisi e di accertamento necroscopico;  
+Selezione e istruzione professionale del personale ospedaliero.  
+Gli allievi dovranno inoltre frequentare i seguenti corsi complementari e sostenere i relativi esami:  
+Primo anno: chimica applicata all'igiene.  
+Secondo anno: fisica applicata all'igiene.  
+Terzo anno, con orientamento di sanita' pubblica: malattie professionali e loro prevenzione.  
+Terzo anno, con orientamento di laboratorio: fondamenti chimico-fisici delle tecniche di laboratorio.  
+Terzo anno, con orientamento di igiene, tecnica e direzione ospedaliera; Gerontologia e geriatria.  
+I corsi saranno completati da esercitazioni pratiche e da conferenze.  
+Per ottenere l'iscrizione all'anno successivo e' obbligatorio aver sostenuto alla fine di ogni anno gli esami previsti dal piano di studi.  
+Alla fine del corso gli iscritti saranno sottoposti agli esami di diploma consistenti in tre prove:  
+una prova pratica, riguardante le materie per le quali nei tre anni si sono tenute esercitazioni pratiche;  
+una prova orale su argomenti sviluppati nel corso della specializzazione;  
+la discussione di una dissertazione scritta, precedentemente depositata alla segreteria della facolta' di medicina.  
+Art. 394. - Il numero degli allievi da ammettere ogni anno accademico non puo' essere superiore a quindici per ogni orientamento specialistico.  
+L'ammissione alla scuola viene regolata da un esame scritto vertente su un tema di epidemiologia e igiene generale e speciale.  
+Art. 395. - Non sono consentite abbreviazioni di corso.  
+Il personale medico di ruolo degli istituti universitari, dell'Amministrazione sanitaria, degli uffici comunali di igiene, dei laboratori provinciali e ospedalieri, delle direzioni sanitarie degli ospedali potra' ottenere l'iscrizione al secondo anno di corso, previo parere favorevole della facolta' su proposta del direttore della scuola. Tale iscrizione non comporta l'esonero dagli esami nelle materie del primo anno ne' dal pagamento delle tasse relative.  
+Gli specialisti in igiene e medicina preventiva in uno dei tre orientamenti, possono accedere ad altro orientamento con la convalida del biennio propedeutico.  
+Gli specialisti in igiene generale speciale, o titolo equipollente iscritti alla scuola di specializzazione in igiene e medicina preventiva, possono ottenere la convalida di esami gia' sostenuti che rientrino nel presente ordinamento di studi, previo parere favorevole del direttore della scuola.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti' della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 17 settembre 1962
+### Dato a Roma, addi' 22 settembre 1972
 
-SEGNI GUI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 7 novembre 1962
+Registrato alla Corte dei conti, addi' 16 dicembre 1972
 
-Atti del Governo, registro n. 160, foglio n. 3. - VILLA
+Atti di Governo, registro n. 254, foglio n. 29. - CARUSO

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1984 n. 682
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 agosto 1986 n. 853
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1984 n. 682
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 agosto 1986 n. 853
 =============================================================
 
 Assegnazione di due posti di tecnico laureato presso l'Universita' degli studi di Pavia.
@@ -12,10 +12,12 @@ Art. 1
 
 N.
 
-682. Decreto del Presidente della Repubblica 9 aprile 1984, col quale, sulla proposta del Ministro della pubblica istruzione, due posti disponibili nel ruolo dei tecnici laureati vengono assegnati all'Universita' di Pavia come segue:  
+853. Decreto del Presidente della Repubblica 29 agosto 1986, col quale, sulla proposta del Ministro della pubblica istruzione, due posti disponibili nel ruolo dei tecnici laureati vengono assegnati all'Universita' di Pavia come segue:   
   
-Facolta' di farmacia:  
-istituto di farmacologia. . . . . . . . . . . . . . . . . . . posti 1 istituto di farmacologia (per le esigenze della seconda cattedra) . . . . . . . . . . . . . . . . . . . . . . . . . . posti 1   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 8 ottobre 1984  
-Registro n. 60 Istruzione, foglio n. 368
+Facolta' di medicina e chirurgia:   
+dipartimento di chirurgia . . . . . . . . . . . . . . . . . . posti 1 Facolta' di scienze politiche:   
+cattedra di storia contemporanea. . . . . . . . . . . . . . . posti 1   
+  
+Visto, il Guardasigilli: ROGNONI   
+Registrato alla Corte dei conti, addi' 2 dicembre 1986   
+Registro n. 87 Istruzione, foglio n. 16

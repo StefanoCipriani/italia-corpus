@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 921
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1985 n. 896
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 921
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1985 n. 896
 ==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Bologna.
@@ -39,17 +39,17 @@ Articolo unico
 --------------
 
   
+Nell'art. 97, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
+tecnica e diagnostica delle autopsie;  
+endocrinologia;  
+radiobiologia medica;  
+istochimica.  
   
-Nell'art. 116, relativo al corso di laurea in scienze naturali della facolta' di scienze matematiche, fisiche e naturali, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:   
-  
-genetica quantitativa.   
-
-((1))
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1985
+### Dato a Roma, addi' 23 ottobre 1985
 
 COSSIGA
 
@@ -57,13 +57,6 @@ FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 14 febbraio 1986
+Registrato alla Corte dei conti, addi' 29 gennaio 1986
 
-Registro n. 9 Istruzione, foglio n. 123
-
----------------
-
-AGGIORNAMENTO (1)
-
-Il D.P.R. 9 marzo 1987 (in G.U. 23/10/1987, n. 248) ha disposto (con l'art. 1, comma 1) che "Nell'art. 118, relativo al corso di laurea in scienze biologiche della facolta' di scienze matematiche, fisiche e naturali dell'Universita' degli studi di Bologna, anziche' nell'art. 116, all'elenco degli insegnamenti complementari e aggiunto il seguente nuovo insegnamento:   
-genetica quantitativa".
+Registro n. 4 Istruzione, foglio n. 115

@@ -1,169 +1,186 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1972 n. 62
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1953 n. 573
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1972 n. 62
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1953 n. 573
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 20 aprile 1939, n. 1118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1118) e modificato con [regi decreti 12 gennaio 1941, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-01-12;34); [27 aprile 1942, n. 571](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;571); [5 settembre 1942, n. 1237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1237); [24 ottobre 1942, n. 1438, con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1438) [4 febbraio 1947, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-02-04;196) e [7 marzo 1947, n. 1727, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-03-07;1727) [26 febbraio 1949, n. 430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;430); [21 aprile 1949, n. 613](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-21;613); [1 settembre 1949, n. 816](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-01;816); [13 marzo 1950, n. 599](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-03-13;599); [30 ottobre 1950, n. 1125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1125); [31 ottobre 1950, n. 1310](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1310); [30 giugno 1951, n. 1148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-30;1148); [27 ottobre 1951, n. 1794](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1794) e [25 luglio 1952, n. 1352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1352);
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati e' cosi' ulteriormente modificato:
+
+All'art. 75, dopo il n. 20, e' aggiunto quanto appresso: 21) chirurgia plastica.
+
+Dopo l'art. 127 sono aggiunti i seguenti nuovi articoli, relativi alla istituzione di una Scuola di specializzazione in chirurgia plastica.
+
+Scuola di specializzazione in chirurgia plastica
+
+Art. 128. - La durata del corso degli studi della Scuola di specializzazione in chirurgia plastica e' di tre anni.
+
+A) La Scuola fa parte integrante dell'Istituto di clinica chirurgica generale.
+
+B) La Scuola e' posta sotto la direzione e la diretta sorveglianza del titolare della cattedra chirurgica generale o di chi avra' l'incarico dell'insegnamento della chirurgia plastica coadiuvato da docenti proposti e particolarmente preparati su tale materia.
+
+C) Il materiale didattico e' anche costituito dalla biblioteca e dalla documentazione raccolta nell'archivio della clinica.
+
+D) Il corso, triennale, si compone di insegnamenti fondamentali e di conferenze su argomenti speciali.
+
+E) Durante i tre anni del corso verranno quotidianamente tenute esercitazioni di diagnostica, di tecnica operatoria, di laboratorio ed altre di indole pratica.
+
+F) La frequenza sia delle lezioni e conferenze che delle esercitazioni teoriche e pratiche e' obbligatoria.
+
+G) Il termine di presentazione delle domande di iscrizione alla scuola, scade il 30 ottobre di ogni anno.
+
+H) Alla fine di ciascun anno scolastico, i perfezionandi, che abbiano ottenuto la firma di frequenza, dovranno sostenere un esame di profitto nelle materie fondamentali, il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo, e, per quelli che sono stati iscritti all'ultimo anno per poter accedere all'esame di diploma.
+
+I) Alla fine del terzo anno del corso ha luogo l'esame di diploma, consistente nella presentazione e discussione di una dissertazione scritta su argomento di chirurgia plastica, concordata fra il diplomando ed il direttore di detta Scuola all'inizio del terzo anno.
+
+La dissertazione deve essere approvata dal direttore stesso e depositata presso la segreteria almeno quindici giorni prima dell'esame.
+
+L) Le Commissioni per gli esami di profitto sono costituite dal direttore della Scuola e da due membri scelti fra i docenti del corso.
+
+M) La Commissione per l'esame di diploma e' composta di sette membri ed e' presieduta dal preside della Facolta'. Di essa fanno parte altri membri scelti dal preside fra i professori ed i liberi docenti dell'Universita' di Torino.
+
+Art. 129. - Gli insegnamenti impartiti nella Scuola sono i seguenti:
+
+1° anno:
+
+Embriologia e anatomia (annuale) - Embriologia generale e speciale - Fenogenesi e classificazione delle malformazioni congenite dello estremo cefalico e dell'apparato genitale esterno - Anatomia delle forme esterne: rivestimento cutaneo, aponeurosi, fascie, muscoli, tendini e nervi periferici - Cavita' nasoboccale - Genitali esterni;
+
+Patologia generale (annuale) - Il processo di guarigione delle ferite (in genere e di quelle tegumentarie in ispecie) - Patologia delle cicatrici - Innesti e trapianti dei vari tessuti;
+
+Anestesia e tecnica operatoria, generale (annuale) - Narcosi e anestesia locale - Esigenze di un reparto operatorio - Sepsi ed antisepsi - Exeresi e sintesi dei tessuti ecc. Chirurgia plastica generale (triennale) - Definizione, storia impostazione attuale, studio della personalita' del mutilato, finalita' dell'opera del chirurgo - Patologia chirurgica delle lesioni congenite e acquisite che richiedono interventi plastici - Clinica e terapia chirurgica: tecnica operatoria.
+
+2° anno:
+
+Chirurgia plastica generale (triennale);
+
+Dermatologia (annuale) - Anomalie congenite della cute - Patologia speciale della cute (processi infiammatori degenerativi, neoplastici) - Lesioni traumatiche - Le ustioni - Le dermatosi antiestetiche - cosmetologia della pelle;
+
+Chirurgia plastica in otorinolaringologia (annuale);
+
+Chirurgia plastica in stomatologia (annuale);
+
+Chirurgia plastica degli organi di movimento (annuale);
+
+Chirurgia plastica in urologia (annuale);
+
+Chirurgia plastica in ginecologia (annuale);
+
+Chirurgia plastica in oculistica (annuale).
+
+3° anno:
+
+Chirurgia plastica generale (triennale);
+
+Medicina legale - Il danno estetico e criteri di sua valutazione (annuale);
+
+Anatomia artistica (annuale);
+
+Fisioterapia delle lesioni cutanee.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 11 marzo 1953
+
+EINAUDI
+
+SEGNI
+
+Visto, il Guardasigilli: ZOLI
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 8 agosto 1953 Atti del Governo, registro n. 78, foglio n. 95. - CARLOMAGNO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 20 aprile 1939, n. 1118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1118) e modificato con [regi decreti 12 gennaio 1941, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-01-12;34); [27 aprile 1942, n. 571](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;571); [5 settembre 1942, n. 1237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1237); [24 ottobre 1942, n. 1438, con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1438) [4 febbraio 1947, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-02-04;196) e [7 marzo 1947, n. 1727, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-03-07;1727) [26 febbraio 1949, n. 430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;430); [21 aprile 1949, n. 613](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-21;613); [1 settembre 1949, n. 816](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-01;816); [13 marzo 1950, n. 599](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-03-13;599); [30 ottobre 1950, n. 1125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1125); [31 ottobre 1950, n. 1310](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1310); [30 giugno 1951, n. 1148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-30;1148); [27 ottobre 1951, n. 1794](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1794) e [25 luglio 1952, n. 1352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1352);  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati e' cosi' ulteriormente modificato:  
   
-Gli articoli 85, 86 e 87, relativi all'ordinamento degli studi della facolta' di medicina veterinaria sono abrogati e sostituiti dai seguenti:  
+All'art. 75, dopo il n. 20, e' aggiunto quanto appresso: 21) chirurgia plastica.  
+Dopo l'art. 127 sono aggiunti i seguenti nuovi articoli, relativi alla istituzione di una Scuola di specializzazione in chirurgia plastica.  
   
-SEZIONE IX  
-FACOLTA' DI MEDICINA VETERINARIA  
+Scuola di specializzazione in chirurgia plastica  
   
-Art. 85. - La facolta' di medicina veterinaria conferisce la laurea in medicina veterinaria.  
-E' titolo di ammissione quello previsto dalle leggi in vigore.  
-Il corso di studi ha la durata di cinque anni e comporta obbligatoriamente l'insegnamento, teorico e pratico, di almeno 4500 ore sulle materie fondamentali relative ad un insegnamento di base e ad un insegnamento veterinario specifico e sulle materie complementari di cui al [decreto del Presidente della Repubblica 23 ottobre 1969, n. 987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-10-23;987), secondo la suddivisione seguente:  
-Numero minimo di ore  
-Insegnamenti fondamentali: ----  
-  
-Fisica. . . . . . . . . . . . . . . . . . . . . . . 120  
-Chimica I . . . . . . . . . . . . . . . . . . . . . 100  
-Chimica II. . . . . . . . . . . . . . . . . . . . . 100  
-Zoologia. . . . . . . . . . . . . . . . . . . . . . 120  
-Botanica. . . . . . . . . . . . . . . . . . . . . . 90  
-Metodi matematici applicati alle scienze biologiche  
-(bio-matematica). . . . . . . . . . . . . . . . . . . . 30  
-Anatomia veterinaria sistematica e comparata I. . . 100  
-Anatomia veterinaria sistematica e comparata II . . 100  
-Anatomia topografica veterinaria. . . . . . . . . . 60  
-Teratologia . . . . . . . . . . . . . . . . . . . . 60  
-Istologia generale e speciale (anatomia microsco-  
-pica) . . . . . . . . . . . . . . . . . . . . . . . . . 80  
-Embriologia . . . . . . . . . . . . . . . . . . . . 40  
-Fisiologia generale e speciale veterinaria I e fi-  
-sica biologica. . . . . . . . . . . . . . . . . . . . . 100  
-Fisiologia generale e speciale veterinaria II e fi-  
-sica biologica. . . . . . . . . . . . . . . . . . . . . 100  
-Biochimica. . . . . . . . . . . . . . . . . . . . . 100  
-Zootecnia I: igiene, aspetti esteriori degli ani-  
-mali, etnologia . . . . . . . . . . . . . . . . . . . . 110  
-Zootecnia II: genetica ed allevamento . . . . . . . 60  
-Alimentazione e nutrizione animale. . . . . . . . . 130  
-Economia rurale ed agronomia. . . . . . . . . . . . 30  
-Farmacologia e farmacodinamia veterinaria . . . . . 60  
-Farmacia e terapeutica generale veterinaria . . . . 45  
-Tossicologia veterinaria. . . . . . . . . . . . . . 45  
-Anatomia patologica veterinaria generale e spe-  
-ciale I . . . . . . . . . . . . . . . . . . . . . . . . 75  
-Anatomia patologica generale e speciale II. . . . . 75  
-Autopsie. . . . . . . . . . . . . . . . . . . . . . 50  
-Propedeutica I: semeiologia medica veterinaria e  
-metodologia clinica . . . . . . . . . . . . . . . . . . 60  
-Propedeutica II: semeiologia chirurgica veterinaria  
-e metodologia clinica . . . . . . . . . . . . . . . . . 60  
-Patologia generale veterinaria. . . . . . . . . . . 50  
-Microbiologia generale veterinaria (batteriologia,  
-virologia, immunologia) . . . . . . . . . . . . . . . . 60  
-Patologia e profilassi delle malattie infettive de-  
-gli animali domestici I . . . . . . . . . . . . . . . . 70  
-Patologia e profilassi delle malattie infettive de-  
-gli animali domestici II. . . . . . . . . . . . . . . . 70  
-Parassitologia veterinaria (compresa micologia,  
-protozoologia, entomologia, elmintologia) . . . . . . . 60  
-Malattie parassitarie degli animali domestici . . . 50  
-Polizia sanitaria . . . . . . . . . . . . . . . . . 30  
-Medicina legale veterinaria, legislazione veterina-  
-ria e deontologia . . . . . . . . . . . . . . . . . . . 30  
-Patologia medica degli animali domestici (ruminan-  
-ti, equidi, carnivori, suini, pollame, conigli, ecc.) . 150  
-Ostetricia veterinaria. . . . . . . . . . . . . . . 80  
-Patologia della riproduzione e fecondazione artifi-  
-Ciale . . . . . . . . . . . . . . . . . . . . . . . . . 70  
-Patologia chirurgica veterinaria e podologia. . . . 80  
-Medicina operatoria veterinaria . . . . . . . . . . 70  
-Ispezione e controllo delle derrate alimentari di  
-origine animale (carni, latte, pesci, uova, ecc.) I . . 80  
-Ispezione e controllo delle derrate alimentari di  
-origine animale (carni, latte, pesci, uova, ecc.) II. . 70  
-Lavori pratici nei macelli. . . . . . . . . . . . . 50  
-Clinica medica veterinaria. . . . . . . . . . . . . 275  
-Clinica chirurgica, veterinaria . . . . . . . . . . 275  
-Clinica ostetrica e ginecologia veterinaria . . . . 275  
-Patologia aviare. . . . . . . . . . . . . . . . . . 275  
-Radiologia veterinaria. . . . . . . . . . . . . . . 50  
-  
-Insegnamenti complementari:  
-  
-Le ore che restano per raggiungere il numero previsto di 4500 ore, dovranno essere ripartite fra tre insegnamenti complementari scelti dallo studente nel seguente elenco:  
-Anestesiologia;  
-Approvvigionamenti annonari, mercati e industrie degli alimenti di origine animale;  
-Patologia bovina;  
-Diagnostica di laboratorio;  
-Ecologia;  
-Ematologia clinica comparata;  
-Endocrinologia degli animali domestici;  
-Etnografia;  
-Fisioclimatologia;  
-Idrobiologia e pescicoltura;  
-Igiene del latte;  
-Igiene e controllo dei prodotti della pesca;  
-Istituzioni di matematica;  
-Istologia patologica;  
-Ittiopatologia;  
-Lingua straniera;  
-Oftalmologia comparata;  
-Patologia tropicale;  
-Storia della medicina veterinaria;  
-Tecnica conserviera;  
-Tecnica mangimistica;  
-Tecnologia avicola;  
-Virologia;  
-Igiene zootecnica.  
-  
-Dall'elenco delle materie complementari sopra riportate, la facolta', con delibera propria e con rispetto delle esigenze didattiche, sceglie i corsi da attivare nei singoli anni accademici nella misura prevista e consentita dalle disposizioni vigenti.  
-La facolta', nell'ambito della propria autonomia didattica, stabilisce altresi' i piani di studio per le materie previste come insegnamenti, fondamentali e complementari, nonche' il numero delle ore da attribuire per lo svolgimento dei corsi e delle relative esercitazioni e le modalita' di esame per materie o per gruppi.  
-E' consentita, su richiesta dello studente, la possibilita' di sostenere esami per gruppi di materie affini in numero non superiore a tre, sull'affinita' delle materie decide il consiglio di facolta'.  
-Gli insegnamenti di clinica medica, di clinica chirurgica, di ispezione e controllo delle derrate alimentari di origine animale e delle materie del gruppo di zootecnia devono essere completati da un tirocinio pratico della durata complessiva di almeno sei mesi presso istituti della facolta' di medicina veterinaria o presso civici macelli o altri enti ed uffici pubblici riconosciuti idonei dalla facolta' di medicina veterinaria.  
-Il periodo semestrale di tirocinio pratico, che deve essere iniziato dopo la chiusura dei corsi di insegnamento del quinto anno e completato prima che i candidati si presentino a sostenere l'esame di abilitazione all'esercizio professionale, e' utilizzabile, ai fini del raggiungimento delle ore richieste per gli insegnamenti clinici (clinica medica, Clinica chirurgica, clinica ostetrica, patologia aviare).  
-Per essere ammesso all'esame di laurea, lo studente deve aver seguito i corsi e superato gli esami negli insegnamenti fondamentali ed almeno in tre altri insegnamenti da lui scelti fra i complementari.  
-Art. 86. - I corsi di chimica, anatomia veterinaria sistematica e comparata, fisiologia generale e speciale veterinaria e fisica biologica, anatomia patologica veterinaria generale e speciale, patologia e profilassi delle malattie infettive degli animali domestici, ispezione e controllo delle derrate alimentari di origine animale, comportano due insegnamenti e due esami distinti (I e II parte); per ciascuno di tali insegnamenti l'esame relativo alla I parte deve precedere quello relativo, alla II parte.  
-Gli esami di fisica, chimica, zoologia, botanica, istologia generale e speciale e di embriologia devono precedere l'esame di anatomia veterinaria sistematica e comparata (I parte).  
-L'esame di anatomia veterinaria (II parte) e l'esame di biochimica devono precedere l'esame di fisiologia generale e speciale veterinaria e fisica biologica (I parte).  
-L'esame di patologia generale deve seguire gli esami di anatomia veterinaria sistematica e comparata II e di fisiologia generale e speciale veterinaria e fisica biologica II e deve precedere quello di anatomia patologica generale e speciale veterinaria (I parte); l'esame di anatomia patologica generale e speciale (I parte) deve precedere gli esami di patologia e profilassi delle malattie infettive degli animali domestici (I parte), patologia medica degli animali domestici, patologia chirurgica veterinaria e podologia, ostetricia veterinaria.  
-L'esame di anatomia patologica veterinaria generale e speciale (II parte) deve precedere l'esame di ispezione e controllo delle derrate di origine animale (II parte).  
-La microbiologia e' propedeutica rispetto alla patologia e profilassi delle malattie infettive degli animali domestici.  
-La parassitologia e' propedeutica rispetto alle malattie parassitarie.  
-L'esame di fisiologia generale e speciale veterinaria II e fisica biologica e' propedeutico per farmacologia e farmacodinamia veterinaria, che deve a sua volta precedere gli esami di farmacia terapeutica generale veterinaria e tossicologia veterinaria.  
-L'esame di zootecnia I (igiene, aspetti esteriori degli animali, etnologia) deve seguire l'esame di fisiologia veterinaria generale e speciale (parte II) e fisica biologica e precedere gli esami di zootecnia II (genetica ed allevamento), alimentazione e nutrizione, economia rurale ed agronomia.  
-Per essere ammesso agli esami di clinica medica, di clinica chirurgica e di clinica ostetrica e ginecologica veterinaria, lo studente deve aver superato l'esame di patologia e profilassi delle malattie infettive degli animali domestici II e rispettivamente gli esami di semeiologia medica veterinaria, di semeiologia chirurgica veterinaria, di patologia medica degli animali domestici, di patologia chirurgica veterinaria e podologia di medicina operatoria, di patologia della riproduzione e fecondazione artificiale e di ostetricia veterinaria.  
-Art. 87. - Per gli studenti provenienti da altre facolta' il consiglio di facolta' stabilisce caso per caso l'anno di corso cui possono essere ammessi, con l'eventuale convalida di frequenza e di esami, dopo aver valutato l'equipollenza e l'affinita' dei rispettivi corsi con quelli previsti nel piano di studi della facolta'.  
-Con gli stessi criteri, il consiglio di facolta' determina l'ammissione al corso di laurea in medicina veterinaria di candidati provvisti di diploma di laurea conseguito presso una qualsiasi altra facolta'.  
-  
-Norma transitoria  
-  
-Gli studenti del corso di laurea in medicina veterinaria, all'atto dell'entrata in vigore delle suddette modifiche di statuto, possono optare per il corso di laurea in quattro o cinque anni. All'uopo debbono presentare regolare domanda per integrare gli esami secondo quanto stabilira' caso per caso il consiglio di facolta'.  
+Art. 128. - La durata del corso degli studi della Scuola di specializzazione in chirurgia plastica e' di tre anni.  
+A) La Scuola fa parte integrante dell'Istituto di clinica chirurgica generale.  
+B) La Scuola e' posta sotto la direzione e la diretta sorveglianza del titolare della cattedra chirurgica generale o di chi avra' l'incarico dell'insegnamento della chirurgia plastica coadiuvato da docenti proposti e particolarmente preparati su tale materia.  
+C) Il materiale didattico e' anche costituito dalla biblioteca e dalla documentazione raccolta nell'archivio della clinica.  
+D) Il corso, triennale, si compone di insegnamenti fondamentali e di conferenze su argomenti speciali.  
+E) Durante i tre anni del corso verranno quotidianamente tenute esercitazioni di diagnostica, di tecnica operatoria, di laboratorio ed altre di indole pratica.  
+F) La frequenza sia delle lezioni e conferenze che delle esercitazioni teoriche e pratiche e' obbligatoria.  
+G) Il termine di presentazione delle domande di iscrizione alla scuola, scade il 30 ottobre di ogni anno.  
+H) Alla fine di ciascun anno scolastico, i perfezionandi, che abbiano ottenuto la firma di frequenza, dovranno sostenere un esame di profitto nelle materie fondamentali, il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo, e, per quelli che sono stati iscritti all'ultimo anno per poter accedere all'esame di diploma.  
+I) Alla fine del terzo anno del corso ha luogo l'esame di diploma, consistente nella presentazione e discussione di una dissertazione scritta su argomento di chirurgia plastica, concordata fra il diplomando ed il direttore di detta Scuola all'inizio del terzo anno.  
+La dissertazione deve essere approvata dal direttore stesso e depositata presso la segreteria almeno quindici giorni prima dell'esame.  
+L) Le Commissioni per gli esami di profitto sono costituite dal direttore della Scuola e da due membri scelti fra i docenti del corso.  
+M) La Commissione per l'esame di diploma e' composta di sette membri ed e' presieduta dal preside della Facolta'. Di essa fanno parte altri membri scelti dal preside fra i professori ed i liberi docenti dell'Universita' di Torino.  
+Art. 129. - Gli insegnamenti impartiti nella Scuola sono i seguenti:  
+1° anno:  
+Embriologia e anatomia (annuale) - Embriologia generale e speciale - Fenogenesi e classificazione delle malformazioni congenite dello estremo cefalico e dell'apparato genitale esterno - Anatomia delle forme esterne: rivestimento cutaneo, aponeurosi, fascie, muscoli, tendini e nervi periferici - Cavita' nasoboccale - Genitali esterni;  
+Patologia generale (annuale) - Il processo di guarigione delle ferite (in genere e di quelle tegumentarie in ispecie) - Patologia delle cicatrici - Innesti e trapianti dei vari tessuti;  
+Anestesia e tecnica operatoria, generale (annuale) - Narcosi e anestesia locale - Esigenze di un reparto operatorio - Sepsi ed antisepsi - Exeresi e sintesi dei tessuti ecc. Chirurgia plastica generale (triennale) - Definizione, storia impostazione attuale, studio della personalita' del mutilato, finalita' dell'opera del chirurgo - Patologia chirurgica delle lesioni congenite e acquisite che richiedono interventi plastici - Clinica e terapia chirurgica: tecnica operatoria.  
+2° anno:  
+Chirurgia plastica generale (triennale);  
+Dermatologia (annuale) - Anomalie congenite della cute - Patologia speciale della cute (processi infiammatori degenerativi, neoplastici) - Lesioni traumatiche - Le ustioni - Le dermatosi antiestetiche - cosmetologia della pelle;  
+Chirurgia plastica in otorinolaringologia (annuale);  
+Chirurgia plastica in stomatologia (annuale);  
+Chirurgia plastica degli organi di movimento (annuale);  
+Chirurgia plastica in urologia (annuale);  
+Chirurgia plastica in ginecologia (annuale);  
+Chirurgia plastica in oculistica (annuale).  
+3° anno:  
+Chirurgia plastica generale (triennale);  
+Medicina legale - Il danno estetico e criteri di sua valutazione (annuale);  
+Anatomia artistica (annuale);  
+Fisioterapia delle lesioni cutanee.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 gennaio 1972
+### Dato a Roma, addi' 11 marzo 1953
 
-LEONE MISASI
+EINAUDI SEGNI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: ZOLI
 
-Registrato alla Corte dei conti, addi' 14 marzo 1972
+Registrato alla Corte dei conti, addi' 8 agosto 1953
 
-Atti del Governo, registro n. 247, foglio n. 128. - VALENTINI
+Atti del Governo, registro n. 78, foglio n. 95. - CARLOMAGNO

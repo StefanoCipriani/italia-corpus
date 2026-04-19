@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1986 n. 236
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 aprile 1986 n. 388
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1986 n. 236
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 aprile 1986 n. 388
+=============================================================
 
 Modificazione allo statuto della seconda Universita' degli studi di Roma.
 -------------------------------------------------------------------------
@@ -39,20 +39,20 @@ Articolo unico
 --------------
 
   
-Nell'art. 51, all'elenco degli insegnamenti del corso di laurea in medicina e chirurgia e' aggiunto l'insegnamento complementare di "tecnica e diagnostica citopatologica".  
+Nell'art. 51, all'elenco degli insegnamenti del corso di laurea in medicina e chirurgia e' aggiunto l'insegnamento di "semeiotica ostetrica".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 gennaio 1986
+### Dato a Roma, addi' 8 aprile 1986
 
 COSSIGA
 
-FALCUCCI, Ministero della pubblica istruzione
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 19 maggio 1986
+Registrato alla Corte dei conti, addi' 11 luglio 1986
 
-Registro n. 39 Istruzione, foglio n. 148
+Registro n. 56 Istruzione, foglio n. 13

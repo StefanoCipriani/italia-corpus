@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 maggio 1960 n. 535
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 novembre 1962 n. 1813
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 maggio 1960 n. 535
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 novembre 1962 n. 1813
+================================================================
 
 Autorizzazione alla "Fondazione Pro Juventute Don Carlo Gnocchi" ad accettare, col beneficio d'inventario, una eredita'.
 ------------------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-535. Decreto del Presidente della Repubblica 10 maggio 1960, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi" viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta a proprio favore dalla defunta signorina Misto' Mercedes con testamento olografo del 10 aprile 1953, pubblicato e depositato per atto a rogito notaio dott. Giacomo Chiodi Daelli di Milano, in data 24 dicembre 1954, n. 6798 di repertorio, n. 2938 di raccolta.  
+1813. Decreto del Presidente della Repubblica 25 novembre 1962, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi" viene autorizzata ad accettare, col beneficio d'inventario, un appartamento, sito in Milano, disposto dalla defunta signora Marina Maggioni in Calzavara - con testamento olografo del 10 ottobre 1957 depositato e pubblicato per atto a rogito dott. Guido Solaro, notaio residente in Desio (iscritto presso il Collegio notarile di Milano), in data 25 settembre 1958, n. 1622 di repertorio e n. 3717 di registro - a favore dei "mutilati di Don Gnocchi", che si identificano con la Fondazione suindicato.  
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 11 giugno 1960  
-Atti del Governo, registro n. 127, foglio n. 58. - VILLA
+Visto, il Guardasigilli: BOSCO  
+Registrato alla Corte dei conti, addi' 9 gennaio 1963  
+Atti del Governo, registro 161, foglio n. 59 - VILLA

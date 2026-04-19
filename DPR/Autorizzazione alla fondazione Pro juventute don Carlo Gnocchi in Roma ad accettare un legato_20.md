@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1977 n. 76
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 giugno 1985 n. 465
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1977 n. 76
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 giugno 1985 n. 465
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-76. Decreto del Presidente della Repubblica 5 febbraio 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Cerutti Maria in favore dell'Ente mutilatini di don Gnocchi che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", con testamento pubblico in data 17 maggio 1968, pubblicato a rogito del notaio dottor Mario Barberi in data 11 giugno 1973, n. 221162 di repertorio, registrato a Novara il 14 giugno 1973, con il n. 3297, vol. 381, consistente nella somma di L. 5.000.000.  
+465. Decreto del Presidente della Repubblica 12 giugno 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in titoli ordinari per un valore di L. 220.728.000, disposto dal sig. Airoldi Benigno con testamento olografo 1 febbraio 1980, pubblicato in data 2 giugno 1983, n. 10094 di repertorio e n. 1462 di raccolta, a rogito dott. Mario Laimati, notaio in Gallarate (Varese), registrato a Gallarate il 4 agosto 1983 al n. 2486.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 14 marzo 1977  
-Registro n. 3 Presidenza, foglio n. 66
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 2 settembre 1985  
+Registro n. 8 Presidenza, foglio n. 156

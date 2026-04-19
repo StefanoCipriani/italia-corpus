@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 febbraio 1972 n. 127
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 maggio 1973 n. 383
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 febbraio 1972 n. 127
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 maggio 1973 n. 383
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute Don Carlo Gnocchi", con sede in Roma, ad accettare una eredita'.
 --------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-127. Decreto del Presidente della Repubblica 21 febbraio 1972, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute Don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', disposta dalla signora Ada Lambertini vedova De Palma, con testamento olografo del 22 settembre 1966 depositato e pubblicato con verbale a rogito dott. Isidoro Finazzi, notaio in Palombara Sabina, in data 16 giugno 1970, n. 1513/464 del repertorio, che si concreta in un appartamento ubicato in Roma in via Nicolo' Tartaglia n. 21 (piano III, int. 8) del valore presunto di L. 18.000.000.   
+383. Decreto del Presidente della Repubblica 24 maggio 1973, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute Don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla signorina Alesina Anna Emilia, con testamento olografo del 23 settembre 1969, pubblicato con verbale a rogito dott. Piero Dentone, notaio in Voghera, in data 10 gennaio 1970 (rep. n. 8356/41223), registrato a Voghera il 16 gennaio 1970 al n. 81, volume 211, consistente in un immobile ed accessori sito in Godiasco (Pavia), per un valore presunto di L. 9.500.000.  
   
-Visto, il Guardasigilli: GONELLA   
-Registrato alla Corte dei conti, addi' 10 aprile 1972   
-Atti del Governo, registro n. 248, foglio n. 31. - VALENTINI
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 4 luglio 1973  
+Atti del Governo, registro n. 258, foglio n. 156. - VALENTINI

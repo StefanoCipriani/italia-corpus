@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1962 n. 2058
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 febbraio 1981 n. 242
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1962 n. 2058
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 febbraio 1981 n. 242
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -10,197 +10,85 @@ Modificazioni allo statuto dell'Universita' degli studi di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056) e successivi;
+Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta.
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte; in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Considerato che appare opportuno approvare nella formulazione proposta dagli organi accademici la norma relativa alla direzione della scuola;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
 Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 17. - Agli insegnamenti complementari del corso di laurea in Lettere e' aggiunto quello di "Storia economica".
+Articolo unico
+--------------
 
-Art. 18. - Agli insegnamenti complementari del corso di laurea in Filosofia e' aggiunto quello di "Storia economica".
-
-Art. 23. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti quelli di:
-
-"Gerontologia";
-
-"Reumatologia";
-
-"Chemioterapia";
-
-"Statistica medica e biometria";
-
-"Virologia applicata alla epidemiologia".
-
-L'art. 135, relativo alla Scuola di specializzazione in Radiologia medica e' abrogato e sostituito dal seguente nuovo ordinamento e con la seguente nuova denominazione.
-
-Scuola di specializzazione in Radiologia
-
-Art. 135. - La durata del corso e' di tre anni. Le materie d'insegnamento sono:
-
-1° Anno:
-
-Elettrologia e fisica delle radiazioni;
-
-Tecnica radiografica (istrumentario, tecnica generale e tecnica speciale);
-
-Anatomia radiografica normale;
-
-Semeiotica radiologica;
-
-Radiobiologia;
-
-Roentgenterapia;
-
-Curieterapia.
-
-2° Anno:
-
-Elettrologia e fisica delle radiazioni;
-
-Tecnica radiografica (istrumentario, tecnica generale e tecnica speciale);
-
-Anatomia radiografica normale;
-
-Semeiotica radiologica;
-
-Diagnostica radiologica e diagnostica differenziale;
-
-Radiobiologia;
-
-Roentgenterapia;
-
-Curieterapia;
-
-Medicina nucleare.
-
-3° Anno:
-
-Diagnostica radiologica e diagnostica differenziale;
-
-Radioterapia con alte energie;
-
-Medicina nucleare;
-
-Patologia da radiazioni e protezioni.
-
-E' obbligatorio un periodo di internato nell'Istituto di radiologia.
-
-Oltre all'obbligo della frequenza agli insegnamenti prescritti, gli allievi dovranno superare al termine del 1° anno un "esame di profitto" sulle materie del programma.
-
-Per essere ammessi all'esame di diploma gli allievi dovranno aver superato i seguenti esami:
-
-1) Elettrologia e fisica delle radiazioni;
-
-2) Tecnica radiografica e semeiotica;
-
-3) Diagnostica radiologica;
-
-4) Radiobiologia e radioterapia.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 31 dicembre 1962
-
-SEGNI
-
-GUI
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 4 aprile 1963 Atti del Governo, registro n. 167, foglio n. 77. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:  
+Titolo II, sotto le parole "facolta' di giurisprudenza" sono aggiunte quelle di "laurea in giurisprudenza".   
+Conseguentemente sono soppresse le parole "laurea in giurisprudenza" attualmente in statuto prima dello art. 9.   
+Nell'art. 8 e' soppresso il secondo comma ed aggiunto tutto il testo dell'attuale art. 9, concernente il corso di laurea in giurisprudenza, con il conseguente spostamento della numerazione degli articoli successivi.   
+Gli articoli 13 e 14, concernenti la scuola di statistica, presso la facolta' di giurisprudenza, sono soppressi con il conseguente spostamento della numerazione degli articoli successivi.   
+Al testo dell'art. 16, relativo alla facolta' di scienze politiche, dopo l'ultimo comma e' aggiunto il seguente nuovo comma:   
   
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 17. - Agli insegnamenti complementari del corso di laurea in Lettere e' aggiunto quello di "Storia economica".  
-Art. 18. - Agli insegnamenti complementari del corso di laurea in Filosofia e' aggiunto quello di "Storia economica".  
-Art. 23. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti quelli di:  
-"Gerontologia";  
-"Reumatologia";  
-"Chemioterapia";  
-"Statistica medica e biometria";  
-"Virologia applicata alla epidemiologia".  
-L'art. 135, relativo alla Scuola di specializzazione in Radiologia medica e' abrogato e sostituito dal seguente nuovo ordinamento e con la seguente nuova denominazione.  
-  
-Scuola di specializzazione in Radiologia  
-  
-Art. 135. - La durata del corso e' di tre anni. Le materie d'insegnamento sono:  
-1° Anno:  
-Elettrologia e fisica delle radiazioni;  
-Tecnica radiografica (istrumentario, tecnica generale e tecnica speciale);  
-Anatomia radiografica normale;  
-Semeiotica radiologica;  
-Radiobiologia;  
-Roentgenterapia;  
-Curieterapia.  
-2° Anno:  
-Elettrologia e fisica delle radiazioni;  
-Tecnica radiografica (istrumentario, tecnica generale e tecnica speciale);  
-Anatomia radiografica normale;  
-Semeiotica radiologica;  
-Diagnostica radiologica e diagnostica differenziale;  
-Radiobiologia;  
-Roentgenterapia;  
-Curieterapia;  
-Medicina nucleare.  
-3° Anno:  
-Diagnostica radiologica e diagnostica differenziale;  
-Radioterapia con alte energie;  
-Medicina nucleare;  
-Patologia da radiazioni e protezioni.  
-E' obbligatorio un periodo di internato nell'Istituto di radiologia.  
-Oltre all'obbligo della frequenza agli insegnamenti prescritti, gli allievi dovranno superare al termine del 1° anno un "esame di profitto" sulle materie del programma.  
-Per essere ammessi all'esame di diploma gli allievi dovranno aver superato i seguenti esami:  
-1) Elettrologia e fisica delle radiazioni;  
-2) Tecnica radiografica e semeiotica;  
-3) Diagnostica radiologica;  
-4) Radiobiologia e radioterapia.  
+Alla facolta' e' annessa la scuola di statistica che conferisce il diploma di statistica.   
+Dopo l'art. 19, sono inseriti, con il conseguente spostamento della numerazione degli articoli successivi, i seguenti nuovi articoli concernenti lo statuto della scuola di statistica.   
+Scuola di statistica   
+Art. 20. - Il direttore della scuola di statistica sara' nominato dal consiglio di facolta', tra i professori ordinari e straordinari della facolta' e della scuola.   
+Art. 21. - La durata del corso degli studi per il diploma di statistica e' di due anni.   
+Sono titoli di ammissione quelli previsti dalle vigenti disposizioni di legge.   
+Insegnamenti fondamentali:   
+1) elementi di matematica;   
+2) statistica;   
+3) statistica economica, corso elementare;   
+4) statistica giudiziaria (semestrale);   
+5) statistica sociale (semestrale);   
+6) antropometria (semestrale);   
+7) statistica sanitaria (semestrale);   
+8) sociologia generale;   
+9) demografia;   
+10) geografia politica ed economica.   
+Insegnamenti complementari:   
+1) economia politica, corso elementare;   
+2) antropologia;   
+3) nozioni elementari di diritto privato e pubblico;   
+4) analisi matematica;   
+5) calcolo delle probabilita';   
+6) teoria e tecnica della elaborazione automatica dei dati;   
+7) programmazione ed interpretazione statistica degli esperimenti;   
+8) elementi di teoria dei campioni.   
+Gli insegnamenti semestrali di statistica giudiziaria, di statistica sociale, di antropometria e di statistica sanitaria comportano rispettivamente esami unici.   
+L'insegnamento biennale di statistica economica comporta un esame alla fine di ogni anno.   
+Gli insegnamenti complementari possono essere scelti dallo studente fra le discipline impartite in altre facolta' dell'Ateneo, previa approvazione del preside della facolta' di scienze politiche.   
+Per essere ammesso all'esame di diploma lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e almeno in due da lui scelti fra i complementari.   
+Art. 22. - L'esame di diploma consiste nella discussione di una dissertazione scritta su argomento statistico scelto dal candidato in uno degli insegnamenti fondamentali.   
+L'argomento della dissertazione deve essere dal candidato sottoposto alla approvazione del direttore della scuola sei mesi prima della discussione.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 dicembre 1962
+### Dato a Roma, addi' 3 febbraio 1981
 
-SEGNI GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: SARTI
 
-Registrato alla Corte dei conti, addi' 4 aprile 1963
+Registrato alla Corte dei conti, addi' 19 maggio 1981
 
-Atti del Governo, registro n. 167, foglio n. 77. - VILLA
+Registro n. 44 Istruzione, foglio n. 147

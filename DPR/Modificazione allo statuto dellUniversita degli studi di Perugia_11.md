@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1983 n. 1125
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 gennaio 1986 n. 202
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1983 n. 1125
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 gennaio 1986 n. 202
 ==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Perugia.
@@ -39,20 +39,21 @@ Articolo unico
 --------------
 
   
-Nell'art. 35, relativo al corso di laurea in lingue e letterature straniere moderne (indirizzo europeo), all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-letteratura francese moderna e contemporanea;  
-storia contemporanea.  
+Nell'art. 25, relativo al corso di laurea in economia e commercio, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
+diritto delle obbligazioni e dei contratti.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 giugno 1983
+### Dato a Roma, addi' 9 gennaio 1986
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 22 marzo 1984
+Registrato alla Corte dei conti, addi' 29 aprile 1986
 
-Registro n. 17 Istruzione, foglio n. 342
+Registro n. 34 Istruzione, foglio n. 113

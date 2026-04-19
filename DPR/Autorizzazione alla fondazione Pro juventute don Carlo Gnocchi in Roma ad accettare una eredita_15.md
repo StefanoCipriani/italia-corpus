@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 ottobre 1978 n. 694
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1984 n. 1079
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 ottobre 1978 n. 694
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1984 n. 1079
+================================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
 -----------------------------------------------------------------------------------------------------
@@ -12,14 +12,14 @@ Art. 1
 
 N.
 
-694. Decreto del Presidente della Repubblica 6 ottobre 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dal sig. Bonecchi Adelmo fu Ferdinando, con testamenti olografi in data 12 novembre 1973 e 28 maggio 1974, pubblicati a rogito notaio dott. Paolo Consolandi in data 2 dicembre 1975, n. 58416/10438 di repertorio, registrati a Milano il 15 dicembre 1975, al n. A/4-12097, consistente in: beni immobili:
-
-a) appartamento al 1° piano dello stabile sito in Milano, via Carlo d'Adda n. 3, distinto al nuovo catasto edilizio urbano alla partita 6291, foglio 518, mappale 132 sub 10, di vani 4;
-
-b) appartamento al 2° piano dello stabile sopracitato, riportato nel nuovo catasto edilizio urbano alla partita 6291, foglio 518, mappale 132 sub 15, di vani 4;
-
-c) appartamento al 2° piano dello stabile sopradescritto, riportato nel nuovo catasto edilizio urbano alla partita 6291, foglio 518, mappale 132 sub 14, di vani 1,5; beni mobili: conti correnti bancari vari, titoli, libretti a risparmio, oggetti preziosi, oro, ecc., custoditi in cassetta di sicurezza; il tutto per un valore complessivo netto di L. 301.418.417.   
+1079. Decreto del Presidente della Repubblica 5 dicembre 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la   
+fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene   
+autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente nella nuda proprieta' di un immobile sito in Novara,   
+via S. Costa n. 10 ed in beni mobili (saldo conti correnti, valori in titoli) il tutto per un valore di L. 124.033.200 al netto delle passivita' e degli usufrutti, disposta dalla sig.ra Sartori Jolanda   
+con testamento olografo 20 dicembre 1956 e relativa modifica del 21   
+luglio 1965, pubblicato in data 25 agosto 1982, n. 288160/31352 di repertorio, a rogito dott. Mario Barberi, notaio in Novara,   
+registrato a Novara in data 2 settembre 1982 al n. 5483.   
   
-Visto, il Guardasigilli: BONIFACIO   
-Registrato alla Corte dei conti, addi' 7 novembre 1978   
-Registro n. 7 Presidenza, foglio n. 200
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 14 febbraio 1985   
+Registro n. 2 Presidenza, foglio n. 34

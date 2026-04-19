@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1980 n. 120
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 271
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1980 n. 120
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 271
+============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
 -----------------------------------------------------------------------------------------------------
@@ -10,10 +10,10 @@ Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad ac
 Art. 1
 ------
 
-N.
+n.
 
-120. Decreto del Presidente della Repubblica 7 febbraio 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, con beneficio d'inventario, l'eredita', consistente nella somma di L. 4.516.523, disposta dalla sig.ra Bice Buonamici ved. Ponzoni a favore dello istituto mutilatini don Gnocchi, che si identifica con la fondazione medesima, con testamento pubblico 14 novembre 1973, pubblicato in data 14 ottobre 1977, n. 16824 di repertorio, a rogito dott. Claudio Malberti, notaio in Corsico (Milano), registrato a Milano in data 25 ottobre 1977, n. A/ 4 5144.  
+271. Decreto del Presidente della Repubblica 10 marzo 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, con beneficio d'inventario, l'eredita' consistente nella quota di 1/2 di saldo conti correnti, titoli obbligazionari ed azionari per un totale di lire 75.370.464, quota 1/2 L. 37.675.232, disposta dal signor Tagliafico Achille con testamento olografo 15 marzo 1974, pubblicato in data 27 ottobre 1978, n. 1571 di repertorio, a rogito dott. Ulderico Brambilla, notaio in Milano, registrato a Milano in data 8 novembre 1978 al n. 18988.  
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 31 marzo 1980  
-Registro n. 3 Presidenza, foglio n. 5
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 6 giugno 1986  
+Registro n. 5 Presidenza, foglio n. 84

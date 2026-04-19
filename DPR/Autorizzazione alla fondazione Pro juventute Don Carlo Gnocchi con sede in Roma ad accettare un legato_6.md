@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 marzo 1973 n. 189
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 giugno 1973 n. 466
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 marzo 1973 n. 189
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 giugno 1973 n. 466
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute Don Carlo Gnocchi", con sede in Roma, ad accettare un legato.
 -----------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-189. Decreto del Presidente della Repubblica 20 marzo 1973, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute Don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare il legato, disposto dalla signora Romini Clotilde, vedova Passerini, con testamento pubblico in data 11 maggio 1967, n. 62 di repertorio atti ultima volonta', reso noto con rogito del notaio dott. Alessandro Cirani di Casalmaggiore in data 30 aprile 1971 (n. 5332 di repertorio e n. 1061 di raccolta) e registrato a Casalmaggiore in data 12 maggio 1971 al n. 310, vol. 125, consistente nella somma di L. 1.500.000.  
+466. Decreto del Presidente della Repubblica 18 giugno 1973, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute Don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare il legato, disposto dalla signora Maria Bruni, vedova Maspero, con testamento olografo del 22 gennaio 1970, pubblicato in data 31 luglio 1970 per rogito avv. Aldo Gazzone, notaio in Genova, con n. 10025 di repertorio e n. 4254 di raccolta, registrato a Genova il 24 agosto 1970 al n. 7822, Vol. 1250, consistente in un magazzino sito in Genova, via della Liberta', 14 rosso, gravato d'usufrutto in favore della signora Papaleo Palmira, del valore presunto di lire 8.000.000.  
   
 Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 2 maggio 1973  
-Atti di Governo, registro n. 258, foglio n. 3. - VALENTINI
+Registrato alla Corte dei conti, addi' 20 luglio 1973  
+Atti di Governo, registro n. 259, foglio n. 30. - VALENTINI

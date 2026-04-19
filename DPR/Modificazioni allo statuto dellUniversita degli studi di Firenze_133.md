@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1972 n. 768
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1955 n. 120
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1972 n. 768
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1955 n. 120
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Firenze approvato con [regio decreto 13 ottobre 1927, numero 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230) e modificato con [regio decreto 30 ottobre 1930, n. 1820](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1820), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, numero 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), modificato con [regi decreti 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1927-10-13;2230); [30 ottobre 1930, n. 1826](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1930-10-30;1826); [1 ottobre 1931, n. 1441](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1931-10-01;1441); [6 dicembre 1934, n. 2449](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-06;2449); [1 ottobre 1936, n. 2475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-01;2475); [27 ottobre 1937, n. 2620](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1937-10-27;2620); [5 maggio 1939, n. 1165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-05-05;1165); [12 ottobre 1939, n. 1712](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-10-12;1712); [26 ottobre 1940, n. 2057](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2057); [27 aprile 1942, n. 467](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-04-27;467); [24 ottobre 1942, n. 1439 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1439) [11 giugno 1950, n. 616](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-06-11;616); [30 ottobre 1950, n. 1127](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1127); [30 ottobre 1950, n. 1304](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1304); [30 giugno 1951, n. 957](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-30;957); [27 ottobre 1951, n. 1681](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1681); [23 gennaio 1952, n. 168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-01-23;168); [26 ottobre 1952, n. 4557](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4557); [26 ottobre 1952, numero 4543](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4543); [10 febbraio 1953, n. 376](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;376); [30 luglio 1953, n. 710](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-07-30;710); [2 marzo 1954, n. 183](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-02;183) e [14 settembre 1954, n. 1202](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1202);
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,7 +20,7 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -32,158 +32,54 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 19. - All'elenco degli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto il seguente:
+Art. 19. - Agli insegnamenti complementari del corso di laurea in scienze politiche sono aggiunti quelli di:
 
-Storia e sistemi delle relazioni fra Stato e Chiesa nell'eta' moderna.
+9) Storia dell'Europa orientale;
 
-Art. 57. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti:
+10) Diritto parlamentare;
 
-Corso di laurea in materie letterarie
+11) Storia del movimento sindacale;
 
-1) Etnomusicologia;
+12) Diritto processuale civile;
 
-2) Storia della musica;
+13) Diritto privato comparato;
 
-3) Archivistica;
+14) Storia delle dottrine economiche.
 
-4) Biblioteconomia e bibliografia;
+Art. 51. - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di:
 
-5) Archeologia medioevale;
+24) Paleografia greca.
 
-6) Istituzioni dei paesi di lingua inglese;
+Art. 117. - Agli insegnamenti complementari del corso di laurea in architettura e' aggiunto quello di:
 
-7) Storia delle dottrine politiche;
-
-8) Dialettologia ispano-americana;
-
-9) Filosofia del linguaggio;
-
-10) Psicologia del linguaggio;
-
-11) Fonetica generale e sperimentale;
-
-12) Linguistica strutturale;
-
-13) Lingua e letteratura catalana;
-
-14) Geografia umana;
-
-15) Geografia regionale;
-
-16) Geografia politica ed economica;
-
-17) Storia dell'arte greca e romana;
-
-18) Storia del movimento sindacale;
-
-19) Storia della linguistica;
-
-20) Semantica e lessicologia;
-
-21) Filologia slava;
-
-22) Lingua e letteratura giapponese.
-
-Art. 58. - All'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti:
-
-Corso di laurea in pedagogia
-
-1) Etnomusicologia;
-
-2) Metodologia dell'insegnamento della lingua inglese;
-
-3) Metodologia dell'insegnamento della lingua spagnola;
-
-4) Didattica dell'insegnamento delle lingue moderne;
-
-5) Psicologia del linguaggio;
-
-6) Storia della filosofia moderna e contemporanea;
-
-7) Teoria e tecnica delle comunicazioni di massa;
-
-8) Psicologia dell'apprendimento;
-
-9) Storia della scuola e delle istituzioni scolastiche;
-
-10) Psicodiagnostica;
-
-11) Psicologia sperimentale;
-
-12) Pedagogia comparata;
-
-13) Ortopedagogia;
-
-14) Letteratura per l'infanzia;
-
-15) Pedagogia sperimentale.
-
-Art. 59. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti i seguenti:
-
-Corso di laurea in lingue e letterature straniere
-
-1) Metodologia dell'insegnamento della lingua inglese;
-
-2) Metodologia dell'insegnamento della lingua spagnola;
-
-3) Filologia inglese;
-
-4) Istituzioni dei paesi di lingua inglese;
-
-5) Dialettologia ispano-americana;
-
-6) Filosofia del linguaggio;
-
-7) Didattica dell'insegnamento delle lingue moderne;
-
-8) Psicologia del linguaggio;
-
-9) Fonetica generale e sperimentale;
-
-10) Linguistica strutturale;
-
-11) Lingua e letteratura catalana;
-
-12) Storia della linguistica;
-
-13) Semantica e lessicologia;
-
-14) Filologia slava;
-
-15) Lingua e letteratura giapponese.
-
-Art. 65, relativo all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' modificato nel senso che l'insegnamento di "Biochimica clinica" muta la denominazione in quella di "Biochimica applicata".
-
-Art. 78. - All'elenco degli insegnamenti complementari del corso di laurea in matematica e' aggiunto il seguente:
-
-Strutture algebriche.
+5) Caratteri dell'achitettura moderna.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 2 ottobre 1972
+Dato a Napoli, addi' 16 febbraio 1955
 
-LEONE
+EINAUDI
 
-SCALFARO
+ERMINI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: DE PIETRO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 5 dicembre 1972 Atti del Governo, registro n. 253, foglio n. 108. - CARUSO
+alla Corte dai conti, addi' 24 marzo 1955 Atti del Governo, registro n. 89 foglio n. 166 -CARLOMAGNO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Firenze approvato con [regio decreto 13 ottobre 1927, numero 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230) e modificato con [regio decreto 30 ottobre 1930, n. 1820](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1820), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, numero 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), modificato con [regi decreti 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1927-10-13;2230); [30 ottobre 1930, n. 1826](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1930-10-30;1826); [1 ottobre 1931, n. 1441](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1931-10-01;1441); [6 dicembre 1934, n. 2449](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-06;2449); [1 ottobre 1936, n. 2475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-01;2475); [27 ottobre 1937, n. 2620](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1937-10-27;2620); [5 maggio 1939, n. 1165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-05-05;1165); [12 ottobre 1939, n. 1712](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-10-12;1712); [26 ottobre 1940, n. 2057](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2057); [27 aprile 1942, n. 467](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-04-27;467); [24 ottobre 1942, n. 1439 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1439) [11 giugno 1950, n. 616](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-06-11;616); [30 ottobre 1950, n. 1127](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1127); [30 ottobre 1950, n. 1304](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1304); [30 giugno 1951, n. 957](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-30;957); [27 ottobre 1951, n. 1681](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1681); [23 gennaio 1952, n. 168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-01-23;168); [26 ottobre 1952, n. 4557](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4557); [26 ottobre 1952, numero 4543](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4543); [10 febbraio 1953, n. 376](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;376); [30 luglio 1953, n. 710](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-07-30;710); [2 marzo 1954, n. 183](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-02;183) e [14 settembre 1954, n. 1202](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1202);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -191,87 +87,28 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 19. - All'elenco degli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto il seguente:  
-Storia e sistemi delle relazioni fra Stato e Chiesa nell'eta' moderna.  
-Art. 57. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti:  
-  
-Corso di laurea in materie letterarie  
-  
-1) Etnomusicologia;  
-2) Storia della musica;  
-3) Archivistica;  
-4) Biblioteconomia e bibliografia;  
-5) Archeologia medioevale;  
-6) Istituzioni dei paesi di lingua inglese;  
-7) Storia delle dottrine politiche;  
-8) Dialettologia ispano-americana;  
-9) Filosofia del linguaggio;  
-10) Psicologia del linguaggio;  
-11) Fonetica generale e sperimentale;  
-12) Linguistica strutturale;  
-13) Lingua e letteratura catalana;  
-14) Geografia umana;  
-15) Geografia regionale;  
-16) Geografia politica ed economica;  
-17) Storia dell'arte greca e romana;  
-18) Storia del movimento sindacale;  
-19) Storia della linguistica;  
-20) Semantica e lessicologia;  
-21) Filologia slava;  
-22) Lingua e letteratura giapponese.  
-Art. 58. - All'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti:  
-  
-Corso di laurea in pedagogia  
-  
-1) Etnomusicologia;  
-2) Metodologia dell'insegnamento della lingua inglese;  
-3) Metodologia dell'insegnamento della lingua spagnola;  
-4) Didattica dell'insegnamento delle lingue moderne;  
-5) Psicologia del linguaggio;  
-6) Storia della filosofia moderna e contemporanea;  
-7) Teoria e tecnica delle comunicazioni di massa;  
-8) Psicologia dell'apprendimento;  
-9) Storia della scuola e delle istituzioni scolastiche;  
-10) Psicodiagnostica;  
-11) Psicologia sperimentale;  
-12) Pedagogia comparata;  
-13) Ortopedagogia;  
-14) Letteratura per l'infanzia;  
-15) Pedagogia sperimentale.  
-Art. 59. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti i seguenti:  
-  
-Corso di laurea in lingue e letterature straniere  
-  
-1) Metodologia dell'insegnamento della lingua inglese;  
-2) Metodologia dell'insegnamento della lingua spagnola;  
-3) Filologia inglese;  
-4) Istituzioni dei paesi di lingua inglese;  
-5) Dialettologia ispano-americana;  
-6) Filosofia del linguaggio;  
-7) Didattica dell'insegnamento delle lingue moderne;  
-8) Psicologia del linguaggio;  
-9) Fonetica generale e sperimentale;  
-10) Linguistica strutturale;  
-11) Lingua e letteratura catalana;  
-12) Storia della linguistica;  
-13) Semantica e lessicologia;  
-14) Filologia slava;  
-15) Lingua e letteratura giapponese.  
-Art. 65, relativo all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' modificato nel senso che l'insegnamento di "Biochimica clinica" muta la denominazione in quella di "Biochimica applicata".  
-Art. 78. - All'elenco degli insegnamenti complementari del corso di laurea in matematica e' aggiunto il seguente:  
-Strutture algebriche.  
+Art. 19. - Agli insegnamenti complementari del corso di laurea in scienze politiche sono aggiunti quelli di:  
+9) Storia dell'Europa orientale;  
+10) Diritto parlamentare;  
+11) Storia del movimento sindacale;  
+12) Diritto processuale civile;  
+13) Diritto privato comparato;  
+14) Storia delle dottrine economiche.  
+Art. 51. - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di:  
+24) Paleografia greca.  
+Art. 117. - Agli insegnamenti complementari del corso di laurea in architettura e' aggiunto quello di:  
+5) Caratteri dell'achitettura moderna.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 ottobre 1972
+### Dato a Napoli, addi' 16 febbraio 1955
 
-LEONE SCALFARO
+EINAUDI ERMINI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: DE PIETRO
 
-Registrato alla Corte dei conti, addi' 5 dicembre 1972
+Registrato alla Corte dai conti, addi' 24 marzo 1955
 
-Atti del Governo, registro n. 253, foglio n. 108. - CARUSO
+Atti del Governo, registro n. 89 foglio n. 166 -CARLOMAGNO

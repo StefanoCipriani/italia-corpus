@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1983 n. 1031
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1986 n. 952
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1983 n. 1031
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1986 n. 952
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi della Calabria.
 -----------------------------------------------------------------------
@@ -33,27 +33,27 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' della Calabria, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi della Calabria, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Nell'art. 50 e nella tabella D, allegata all'art. 30, allo elenco degli insegnamenti afferenti al dipartimento di sistemi e' aggiunto il seguente nuovo insegnamento complementare:  
-ingegneria dei sistemi aerospaziali.  
-Nell'art. 51 e nella tabella C 1, allegata all'art. 30, all'elenco degli insegnamenti afferenti al dipartimento di strutture e' aggiunto il seguente nuovo insegnamento complementare:  
-costruzioni in zone sismiche.  
+Nell'art. 56, concernente gli insegnamenti relativi al dipartimento di economia politica e nella tabella F (allegata all'art. 35), e' aggiunto il seguente nuovo insegnamento:  
+storia del pensiero economico.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 ottobre 1983
+### Dato a Roma, addi' 19 luglio 1986
 
-PERTINI FALCUCCI
+COSSIGA
 
-Visto, il Guardasigilli: MARTINAZZOLI
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 29 febbraio 1984
+Visto, il Guardasigilli: ROGNONI
 
-Registro n. 13 Istruzione, foglio n. 46
+Registrato alla Corte dei conti, addi' 30 dicembre 1986
+
+Registro n. 90 Istruzione, foglio n. 222

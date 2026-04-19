@@ -1,141 +1,111 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1986 n. 843
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1969 n. 423
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1986 n. 843
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1969 n. 423
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Visto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e successive modificazioni;
-
-Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Visto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Visto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vista la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Visto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Viste le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta, con le quali e' stata chiesta l'istituzione del corso di laurea in odontoiatria e protesi dentaria nell'ambito della facolta' di medicina e chirurgia;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pisa e convalidati dal Consiglio universitario nazionale nel suo parere, allo scopo di assicurare una equilibrata distribuzione dei corsi di laurea in odontoiatria e protesi dentaria in tutto il territorio nazionale, ed in particolare nell'ambito della regione Toscana;
-
-Udito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA   
   
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Al titolo VII - facolta' di medicina e chirurgia, l'art. 77 e' modificato come segue:   
-Art. 77. - La facolta' di medicina e chirurgia conferisce le lauree in:   
-a) medicina e chirurgia;   
-b) odontoiatria e protesi dentaria.   
-Dopo l'art. 78, con il conseguente scorrimento della numerazione degli articoli successivi, sono aggiunti i seguenti articoli concernenti il corso di laurea in odontoiatria e protesi dentaria:   
-Art. 79. - La durata del corso degli studi per la laurea in odontoiatria e protesi dentaria e' di cinque anni, suddivisi in un biennio ed un triennio.   
-Il titolo di ammissione e' quello previsto dalle vigenti disposizioni di legge.   
-Gli insegnamenti per la laurea in odontoiatria e protesi dentaria sono i seguenti:   
-Biennio:   
-1) anestesia generale e speciale odontostomatologica (semestrale);   
-2) biologia generale applicata agli studi medici;   
-3) chimica;   
-4) chimica biologica;   
-5) farmacologia (semestrale);   
-6) fisica medica;   
-7) fisiologia umana e dell'apparato stomatognatico;   
-8) igiene e odontoiatria preventiva e sociale con epidemiologia (semestrale);   
-9) istituzioni di anatomia umana normale e dell'apparato stomatognatico;   
-10) istologia ed embriologia generale (compresa la citologia);   
-11) materiali dentari;   
-12) microbiologia (semestrale);   
-13) odontoiatria conservatrice (triennale - 2°, 3° e 4° anno);   
-14) patologia generale.   
-Triennio:   
-15) istituzioni di anatomia ed istologia patologica;   
-16) chirurgia speciale odontostomatologica (biennale - 3° e 4° anno);   
-17) clinica odontostomatologica (biennale 4° e 5° anno);   
-18) medicina legale e delle assicurazioni e deontologia in odontostomatologia (semestrale);   
-19) neuropatologia e psicopatologia (semestrale);   
-20) ortognatodonzia e gnatologia (funzione masticatoria) (biennale - 4° e 5° anno);   
-21) parodontologia (biennale 4° e 5° anno);   
-22) patologia speciale chirurgica e propedeutica clinica;   
-23) patologia speciale medica e metodologia clinica (compresa la pediatria);   
-24) patologia speciale odontostomatologica;   
-25) pedodonzia (semestrale);   
-26) protesi dentaria (triennale - 3°, 4° e 5° anno);   
-27) radiologia generale e speciale odontostomatologica (semestrale).   
-Insegnamenti complementari:   
-1) chirurgia maxillo-facciale;   
-2) dermatologia e venerologia (semestrale);   
-3) otorinolaringoiatria (semestrale);   
-4) statistica sanitaria.   
-Gli insegnamenti fondamentali sono teorici e pratici e la loro frequenza e' obbligatoria.   
-Gli insegnamenti specificatamente odontostomatologici di ordine clinico comportano anche un tirocinio pratico continuativo da espletare prima di sostenere i relativi esami.   
-Gli allievi, che non conseguono le attestazioni di frequenza, non possono essere ammessi a sostenere le relative prove d'esame.   
-Il tirocinio pratico, relativo ad ogni insegnamento clinico, deve prevedere da parte di componenti dell'organico, una assistenza didattica adeguata al numero degli studenti.   
+Decreta:   
   
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 51. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:   
   
-Parte di provvedimento in formato grafico  
+Archeologia delle province romane;   
+Civilta' egee;   
+Geografia regionale;   
+Epigrafia latina;   
+Geografia storica del mondo antico;   
+Archeologia orientale;   
+Filologia biblica;   
+Filologia semitica;   
+Archeologia e storia dell'arte del vicino oriente antico;   
+Storia della geografia;   
+Lingue indoeuropee dell'Italia antica;   
+Linguistica matematica;   
+Fonetica generale e sperimentale;   
+Filologia armena;   
+Filologia baltica;   
+Filologia egeo-anatolica;   
+Storia dell'arte fiamminga e olandese;   
+Storia del disegno e della grafica;   
+Storia della miniatura;   
+Archeologia e storia dell'arte medioevale;   
+Storia dell'arte contemporanea;   
+Archeologia medioevale;   
+Storia economica del mondo antico;   
+Istituzioni giuridiche greche;   
+Filologia italiana;   
+Lingua e letteratura catalana;   
+Filologia ispanica;   
+Storia della filologia germanica;   
+Storia ed istituzioni nord-americane;   
+Storia ed istituzioni dell'Africa;   
+Storia ed istituzioni dell'Asia;   
+Storia e istituzioni latino-americane;   
+Storia e istituzioni dei paesi arabi;   
+Storia della scienza e della tecnica;   
+Storia dell'eta' industriale e delle industrializzazioni moderne;  
+Storia delle istituzioni;   
+Storia economica;   
+Storia dell'agricoltura.   
+Art. 52, - All'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:   
   
+Storia ed Istituzioni nord-americane;   
+Storia ed istituzioni latino-americane;   
+Storia ed istituzioni dell'Africa;   
+Storia ed istituzioni dell'Asia;   
+Storia ed istituzioni dei paesi arabi;   
+Storia della scienza e della tecnica;   
+Storia dell'eta' industriale e delle industrializzazioni moderne;  
+Logica;   
+Storia della logica;   
+Filosofia della scienza;   
+Psicologia dell'eta' evolutiva;   
+Storia della psicologia;   
+Storia della filosofia italiana;   
+Storia della filosofia dell'India e dell'Estremo Oriente;   
+Storia della filosofia araba;   
+Storia della filosofia ebraica;   
+Sociologia;   
+Storia della sociologia;   
+Antropologia culturale;   
+Storia delle istituzioni;   
+Storia economica;   
+Storia dell'agricoltura.   
+Art. 53. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniero moderne (indirizzo europeo) sono aggiunti i seguenti:   
   
-  
-  
-Per essere ammesso a sostenere l'esame di laurea in odontoiatria e   
-protesi dentaria, lo studente deve aver seguito i corsi ed aver superato gli esami in tutti gli insegnamenti fondamentali ed almeno in due insegnamenti scelti fra i complementari ed aver, inoltre, seguito le prescritte esercitazioni cliniche, i tirocini pratici ed averne conseguito le relative attestazioni.   
-  
-L'esame di laurea consiste nella discussione di una tesi scritta su argomenti di odontostomatologia da richiedere almeno all'inizio dell'ultimo anno di corso.   
-  
-Per il trasferimento degli studenti iscritti al corso di laurea in   
-medicina e chirurgia le abbreviazioni di corso non possono superare l'ammissione oltre il secondo anno sempre che gli aspiranti abbiano superato gli esami di biologia generale applicata agli studi medici, chimica, fisica medica, istologia ed embriologia generale (compresa la citologia).   
-  
-Per i laureati in medicina e chirurgia le abbreviazioni di corso   
-potranno essere concesse, sempre con iscrizione al secondo anno, subordinatamente al numero dei posti resisi disponibili all'inizio del secondo anno e dopo che sia trascorso un anno accademico dal conseguimento della laurea precedente.   
-  
-Art. 80. - Il numero degli iscritti e' di cinque per ciascun anno   
-di corso e complessivamente di venticinque per l'intero corso di studi.   
-  
-L'accesso avviene secondo un ordine di graduatoria stabilito in   
-base ad un punteggio riportato in centesimi, cosi' ripartito:   
-  
-70 centesimi riservati all'esito di un test a scelta multipla da   
-completare in un unico giorno vertente su nozioni generali relative ai seguenti argomenti: chimica, fisica, matematica, biologia generale;   
-  
-30 centesimi riservati al punteggio riportato nell'esame finale   
-per il conseguimento del diploma di scuola secondaria superiore.   
-  
-E' prevista la pubblicizzazione dei risultati delle prove che, a   
-richiesta, debbono essere forniti.   
-  
-Art. 81. - Per esercitare la professione i laureati in odontoiatria e protesi dentaria devono superare un apposito esame di Stato.   
-  
-  
-  
+Filologia italiana;   
+Lingua e letteratura catalana;   
+Filologia ispanica;   
+Storia della filologia germanica.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto
-------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+### Dato a Roma, addi' 29 maggio 1969
 
-Dato a Roma, addi' 4 ottobre 1986 COSSIGA
+SARAGAT FERRARI AGGRADI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: GAVA
 
-Visto, il Guardasigilli: ROGNONI
+Registrato alla Corte dei conti, addi' 18 luglio 1969
 
-Registrato alla Corte dei conti, addi' 27 novembre 1986
-
-Registro n. 86 Istruzione, foglio n. 143
+Atti del Governo, registro n. 228, foglio n. 31. - CARUSO

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 febbraio 1974 n. 533
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1982 n. 1055
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 febbraio 1974 n. 533
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1982 n. 1055
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e modificato con [regio decreto 1° ottobre 1931, n. 1441](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-01;1441), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,84 +20,83 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Firenze e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 147 all'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie vengono aggiunti i seguenti:
-
-Fisiopatologia vegetale (annuale);
-
-Mierobiologia del suolo (annuale);
-
-Economia del mercato dei prodotti agricoli (annuale);
-
-Analisi e gestione dell'azienda agraria (annuale);
-
-Infrastrutture territoriali agrarie e forestali (annuale);
-
-Fisiologia delle piante agrarie (semestrale).
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 22 febbraio 1974
-
-LEONE
-
-MALFATTI
-
-Visto, il Guardasigilli: ZAGARI
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 6 novembre 1974 Atti di Governo, registro n. 6, foglio n. 86. - SCIARRETTA
+Lo statuto dell'Universita' di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e modificato con [regio decreto 1° ottobre 1931, n. 1441](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-01;1441), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Art. 57 - nell'art. 57, relativo al corso di laurea in materie letterarie, all'elenco degli insegnamenti complementari, sono inclusi i seguenti:  
+filologia e critica dantesca;  
+filologia italiana;  
+letteratura del Rinascimento;  
+letteratura teatrale italiana;  
+sociologia della letteratura;  
+stilistica e metrica italiana;  
+storia della musica medievale;  
+storia della musica moderna;  
+geografia storica;  
+storia della filologia e della tradizione classica;  
+didattica del latino;  
+storia della lingua latina;  
+storia della storiografia antica;  
+storia agraria medievale;  
+storia dell'eta' della riforma e della controriforma;  
+storia dei partiti e dei movimenti politici;  
+topografia dell'Italia antica;  
+antichita' ed epigrafia latina;  
+storia della Chiesa medievale e dei movimenti ereticali.  
+
+Art. 2
+------
+
   
-Decreta:   
+Art. 58 - nell'art. 58, relativo al corso di laurea in pedagogia, all'elenco degli insegnamenti complementari, sono inclusi i seguenti: metodologia della ricerca sociale;  
+sociologia dell'educazione;  
+storia del pensiero scientifico;  
+filosofia della storia;  
+storia della filosofia contemporanea.  
+Nello stesso articolo, cambia denominazione il seguente insegnamento complementare: da statistica pedagogica a statistica applicata alle scienze sociali.  
+
+Art. 3
+------
+
   
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 147 all'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie vengono aggiunti i seguenti:   
-  
-Fisiopatologia vegetale (annuale);   
-Mierobiologia del suolo (annuale);   
-Economia del mercato dei prodotti agricoli (annuale);   
-Analisi e gestione dell'azienda agraria (annuale);   
-Infrastrutture territoriali agrarie e forestali (annuale);   
-Fisiologia delle piante agrarie (semestrale).   
+Art. 59 - nell'art. 59, relativo al corso di laurea in lingue e letterature straniere, all'elenco degli insegnamenti complementari, sono inclusi i seguenti:  
+letteratura inglese moderna e contemporanea;  
+lingua e letteratura inglese medievale;  
+storia della lingua inglese;  
+letteratura teatrale inglese;  
+letteratura tedesca moderna e contemporanea;  
+storia della lingua tedesca;  
+lingua e letteratura tedesca medievale;  
+lingua e letteratura ceca;  
+storia della lingua francese;  
+storia della letteratura ispano-americana.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 febbraio 1974
+### Dato a Roma, addi' 22 luglio 1982
 
-LEONE MALFATTI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 6 novembre 1974
+Registrato alla Corte dei conti, addi' 20 gennaio 1983
 
-Atti di Governo, registro n. 6, foglio n. 86. - SCIARRETTA
+Registro n. 4 Istruzione, foglio n. 136

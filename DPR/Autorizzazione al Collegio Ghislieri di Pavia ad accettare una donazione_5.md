@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 ottobre 1952 n. 3092
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1951 n. 714
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 ottobre 1952 n. 3092
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1951 n. 714
+=============================================================
 
 Autorizzazione al Collegio Ghislieri di Pavia ad accettare una donazione.
 -------------------------------------------------------------------------
@@ -12,8 +12,7 @@ Art. 1
 
 N.
 
-3092. Decreto del Presidente della Repubblica 3 ottobre 1952, col quale, sulla proposta del Ministro per la pubblica istituzione, il Collegio Ghislieri di Pavia viene autorizzato ad accettare la donazione della somma di L. 2.000.000, disposta in suo favore per desiderio del defunto dott. grand'uff. Manfredo Zanardi Lamberti, dalla consorte, sig.ra Maria Vezzani, rappresentata dal figlio dott. Bruno Zanardi Lamberti, con atto pubblico in data 17 ottobre 1951 per l'istruzione, con la rendita del capitale donato, di una o piu' borse di studio o di perfezionamento in Italia o all'estero, o premi per lavori particolarmente notevoli da intitolarsi "Borsa di studio o di perfezionamento dott. Mario Zanardi" e da conferirsi a giovanni nati, essi stessi, e da genitori originari delle province di Sondrio e di Mantova che intendano dedicarsi o si siano dedicati a studi od a lavori di chimica o di fisica o di economia politica.  
+714. Decreto del Presidente della Repubblica 11 maggio 1951, col quale, sulla proposta del Ministro per la pubblica istruzione, il Collegio Ghislieri di Pavia, viene autorizzato ad accettare la donazione della somma di L. 1.000.000 nominali, in buoni del Tesoro 5%, disposta in suo favore dal dott. Piero Saronio, con atto pubblico in data 15 novembre 1950, per l'istituzione di un posto di perfezionamento presso il predetto Collegio da intitolarsi "Fondo dott. Piero Saronio" e da assegnarsi ad un laureato che intenda perfezionarsi, presso l'Universita' di Pavia, in una delle discipline chimiche o, in mancanza, ad un alunno neo laureato che intenda perfezionarsi in una delle discipline morali o scientifiche.  
   
-Visto, il Guardasigilli: ZOLI  
-Registrato alla Corte dei conti, addi' 18 dicembre 1952  
-Atti del Governo, registro n. 64, foglio n. 29. - PALLA
+Visto, il Guardasigilli: PICCIONI  
+Registrato alla Corte dei conti, addi' 24 agosto 1951

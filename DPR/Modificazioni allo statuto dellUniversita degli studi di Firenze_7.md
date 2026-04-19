@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1981 n. 917
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 gennaio 1969 n. 144
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1981 n. 917
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 gennaio 1969 n. 144
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Firenze, approvato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e modificato con [regio decreto 30 ottobre 1930, n. 1826](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1826), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,109 +20,533 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Firenze e convalidati dal Consiglio universitario nazionale nel suo parere;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato nel senso che gli articoli dal 19 al 31, relativi alla facolta' di scienze politiche, "Cesare Alfieri", sono abrogati e sostituiti dai seguenti con il conseguente spostamento della successiva numerazione:
 
-Articolo unico
---------------
+TITOLO III
 
+Facolta' di scienze politiche "Cesare Alfieri"
+
+Art. 19. - La facolta' di scienze politiche "Cesare Alfieri" conferisce la laurea in scienze politiche. Nel diploma di laurea e' indicato l'indirizzo seguito dal laureato.
+
+Art. 20. - La durata del corso degli studi per la laurea in scienze politiche e' di quattro anni.
+
+E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.
+
+Gli insegnamenti sono determinati dal seguente piano di studi:
+
+1° BIENNIO COMUNE
+
+1° Anno:
+
+1) Istituzioni di diritto pubblico;
+
+2) Storia delle dottrine politiche;
+
+3) Economia politica;
+
+4) Storia moderna;
+
+5) Statistica.
+
+2° Anno:
+
+1) Diritto costituzionale italiano e comparato;
+
+2) Sociologia;
+
+3) Scienza della politica;
+
+4) Politica economica e finanziaria.
+
+Oltre agli insegnamenti obbligatori del primo biennio lo studente potra' anticipare un massimo di tre insegnamenti, scelti tra quelli esistenti in statuto, e resi obbligatori per l'indirizzo prescelto del secondo biennio. Tali insegnamenti anticipati andranno in detrazione dal numero di insegnamenti del biennio di specializzazione.
+
+2° BIENNIO
+
+Per il secondo biennio sono previsti i seguenti cinque indirizzi:
+
+Politico-amministrativo;
+
+Politico-economico;
+
+Politico-internazionale;
+
+Storico-politico;
+
+Politico-sociale.
+
+Fermi restando gli insegnamenti obbligatori del primo biennio elencati in precedenza, gli insegnamenti che possono essere impartiti o mutuati dalla facolta' in relazione agli indirizzi di cui sopra sono i seguenti:
+
+Istituzioni di diritto privato;
+
+Diritto amministrativo;
+
+Scienza dell'amministrazione;
+
+Diritto del lavoro;
+
+Istituzioni di diritto e di procedura penale;
+
+Diritto finanziario;
+
+Diritto tributario;
+
+Diritto degli enti locali;
+
+Diritto delle comunita' europee;
+
+Diritto diplomatico e consolare;
+
+Diritto parlamentare;
+
+Diritto privato comparato;
+
+Diritto pubblico americano;
+
+Diritto pubblico dell'economia;
+
+Diritto regionale;
+
+Istituzioni giuridiche e sociali dell'Europa orientale;
+
+Matematica generale;
+
+Scienza delle finanze;
+
+Economia e politica industriale;
+
+Economia dei trasporti;
+
+Teoria dello sviluppo economico;
+
+Econometria;
+
+Economia internazionale;
+
+Diritto internazionale;
+
+Diritto internazionale privato;
+
+Organizzazione internazionale;
+
+Organizzazione economica internazionale;
+
+Pianificazione e organizzazione territoriale;
+
+Programmazione economica;
+
+Ricerca operativa;
+
+Storia contemporanea;
+
+Storia antica;
+
+Storia della filosofia;
+
+Storia della filosofia moderna e contemporanea;
+
+Storia della filosofia politica;
+
+Storia delle dottrine economiche;
+
+Storia dell'economia;
+
+Storia delle istituzioni politiche;
+
+Storia dell'amministrazione pubblica;
+
+Storia dei partiti e movimenti politici;
+
+Storia del giornalismo;
+
+Storia americana;
+
+Storia dell'Europa orientale;
+
+Storia dei movimenti sindacali;
+
+Storia delle costituzioni;
+
+Storia e istituzioni dei paesi afro-asiatici;
+
+Storia e istituzioni dei paesi latino-americani;
+
+Storia e istituzioni dell'Europa orientale;
+
+Storia moderna e contemporanea;
+
+Storia del Risorgimento;
+
+Storia medioevale;
+
+Storia delle istituzioni religiose;
+
+Storia della Chiesa;
+
+Storia moderna della Chiesa e delle altre confessioni cristiane;
+
+Storia delle relazioni internazionali;
+
+Metodologia della ricerca storica;
+
+Contabilita' dello Stato e degli enti pubblici;
+
+Contabilita' nazionale;
+
+Demografia;
+
+Geografia politica ed economica;
+
+Principi e tecnica delle applicazioni meccanografiche ed elettroniche;
+
+Statistica economica;
+
+Statistica applicata;
+
+Statistica per la ricerca sociale;
+
+Filosofia del diritto;
+
+Filosofia della politica;
+
+Filosofia della scienza;
+
+Logica;
+
+Filosofia morale;
+
+Pedagogia;
+
+Dottrina dello stato;
+
+Politica comparata;
+
+Relazioni internazionali;
+
+Antropologia culturale;
+
+Metodologia delle scienze sociali;
+
+Matematiche per le scienze sociali;
+
+Psicologia;
+
+Psicologia sociale;
+
+Sociologia del lavoro;
+
+Sociologia economica;
+
+Sociologia dell'organizzazione;
+
+Sociologia politica;
+
+Sociologia religiosa;
+
+Sociologia urbana;
+
+Sociologia rurale;
+
+Sociologia delle comunita' locali;
+
+Sociologia della famiglia;
+
+Sociologia della conoscenza;
+
+Sociologia dell'educazione;
+
+Sociologia delle comunicazioni;
+
+Sociologia del diritto;
+
+Sociologia dello sviluppo;
+
+Storia del pensiero sociologico;
+
+Sociologia applicata;
+
+Teoria e tecnica delle comunicazioni di massa;
+
+Teoria delle organizzazioni complesse;
+
+Teoria generale della politica;
+
+Teoria e politica dello sviluppo;
+
+Teoria generale del diritto;
+
+Lingua francese;
+
+Lingua inglese;
+
+Lingua tedesca;
+
+Lingua spagnola;
+
+Lingua russa.
+
+Per ciascun indirizzo attuato la facolta' stabilisce una lista di non piu' di quindici insegnamenti, entro l'elenco generale delle materie in statuto, che la facolta' si riserva di impartire o mutuare da altre facolta' dello Ateneo fiorentino.
+
+All'inizio di ogni anno accademico la facolta' stabilisce e rende note quali degli insegnamenti verranno impartiti durante l'anno, e la durata (pluriennale, annuale, semestrale o trimestrale) degli insegnamenti stessi. La facolta' stabilisce inoltre, indirizzo per indirizzo, quanti e quali insegnamenti siano obbligatori per gli studenti. Gli insegnamenti obbligatori di ciascun indirizzo non potranno essere piu' di sette e meno di quattro. Lo studente dovra' scegliere gli insegnamenti non obbligatori del secondo biennio tra i restanti insegnamenti dell'indirizzo.
+
+Per essere ammesso all'esame di laurea, lo studente deve avere seguito i corsi e superato gli esami di ventuno insegnamenti, ivi comprese due lingue straniere.
+
+Per tutti gli indirizzi e' obbligatoria la lingua inglese.
+
+Per l'indirizzo politico internazionale sono obbligatorie le lingue inglese e francese. Le lingue obbligatorie possono essere anticipate al primo biennio.
+
+Per il computo degli esami, la facolta' stabilisce la equivalenza tra i corsi annuali e i corsi frazionali (trimestrali o semestrali) eventualmente impartiti. Qualora la facolta' istituisca corsi biennali o pluriennali di una stessa materia, ogni esame annuale viene computato ai fini del numero minimo di esami sopra stabilito.
+
+Art. 21. - Ogni studente prima dell'inizio del terzo anno dovra' prescegliere un indirizzo e formulare il piano di studi, che sottoporra' per l'approvazione alla commissione di indirizzo, formato da un professore di materia obbligatoria nell'indirizzo, un professore o assistente di materia dell'indirizzo, e uno studente laureando iscritto a quell'indirizzo.
+
+Lo studente potra' sempre modificare il piano di studio per quanto riguarda le materie a scelta, previo consenso della commissione di indirizzo; potra' anche cambiare indirizzo, accettando di sostenere quegli esami che a tal fine la commissione di indirizzo reputera' necessario.
+
+Art. 22. - Gli insegnamenti sono impartiti mediante lezioni, esercitazioni scritte ed orali, o in forma di seminario.
+
+Art. 23. - Coloro che siano forniti di altra laurea o diploma di studi superiori possono essere iscritti, a giudizio della facolta', a un anno di corso non oltre il secondo, salvo i laureati in giurisprudenza e in economia e commercio che possono essere ammessi al terzo anno.
+
+La facolta', tenuto conto degli studi compiuti e degli esami superati, determina il numero minimo degli insegnamenti che devono essere seguiti e formare oggetto di esame.
+
+Art. 24. - L'esame di laurea consiste nella discussione orale su una dissertazione scritta.
+
+Art. 25. - Il tema della dissertazione di laurea deve essere concordata tra il candidato e il professore della materia prescelta, che deve rientrare tra quelle dello indirizzo seguito dallo studente.
+
+Il professore della materia e' tenuto a indirizzare il candidato durante la preparazione della dissertazione.
+
+Art. 26. - Coloro che precedentemente abbiano conseguito una laurea, debbono comunicare alla segreteria della facolta', con dichiarazione della segreteria dell'universita' o dell'istituto superiore da cui provengono, il tema svolto nella dissertazione scritta per l'esame di laurea, essendo vietato di sostenere l'esame di laurea presso la facolta' "Cesare Alfieri" nello stesso argomento.
+
+Art. 27. - Allo scopo di coordinare e sviluppare i vari insegnamenti, di promuovere la ricerca scientifica e per favorire e completare la cultura specifica degli allievi, sono istituiti i seguenti istituti policattedra:
+
+Istituto di diritto pubblico;
+
+Istituto storico-politico;
+
+Istituto di economia;
+
+Istituto di sociologia;
+
+Istituto di scienza della politica.
+
+Art. 28. - La facolta' si riserva di istituire una scuola biennale di scienze politiche e sociali (scuola diretta a fini speciali), aperta a tutti coloro in possesso dei titoli di studio che danno accesso alla laurea in scienze politiche e a coloro che hanno il diploma di abilitazione tecnica o commerciale, il diploma di abilitazione magistrale o altro titolo considerato dal consiglio di facolta' equipollente ai precedenti. Gli studenti dovranno seguire gli insegnamenti e superare gli esami previsti dal piano di studi della facolta' per il primo biennio. Potra' anche essere richiesta, a giudizio della facolta', una dissertazione finale. A coloro che avranno superato le prove di cui sopra, la facolta' rilascera' il "Diploma di scienze politiche e sociali".
+
+Art. 29. - Disposizioni transitorie per gli studenti in corso.
+
+Al momento dell'entrata in vigore del presente ordinamento gli studenti iscritti nei precedenti anni accademici potranno scegliere l'indirizzo in cui intendono conseguire la laurea, e adeguare ad esso i loro piani di studio, tenendo conto degli esami gia' sostenuti. I criteri di adeguamento dal vecchio al nuovo curricolo sono stabiliti dalla facolta'.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 16 gennaio 1969
+
+SARAGAT
+
+SULLO
+
+Visto, il Guardasigilli: GAVA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 19 aprile 1969 Atti del Governo, registro n. 226, foglio n. 78. - GRECO
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Il testo dell'art. 64, relativo alla facolta' di medicina e chirurgia, e' modificato nel modo seguente:  
-"La facolta' di medicina e chirurgia conferisce la laurea in medicina e chirurgia e la laurea in odontoiatria e protesi dentaria".  
-Dopo l'art. 71, con il conseguente spostamento degli articoli successivi, sono inseriti i nuovi seguenti articoli relativi al corso di laurea in odontoiatria e protesi dentaria.  
-Art. 72. - La durata del corso degli studi per la laurea in odontoiatria e protesi dentaria e' di cinque anni, divisi in un biennio e in un triennio.  
-I titoli di ammissione sono quelli previsti dalle vigenti disposizioni di legge.  
-L'accesso al corso di laurea in odontoiatria e protesi dentaria verra' regolato da un esame di ammissione e il punteggio da attribuire nell'esame sara' cosi' ripartito: il 30% sara' riservato al voto riportato dal candidato nell'esame di Stato di licenza della scuola secondaria superiore ed il 70% sara' riservato alla prova di esame di ammissione al corso di laurea con dei tests a scelta multipla su argomenti di biologia generale, chimica, fisica e matematica, secondo i programmi della scuola secondaria superiore.  
-Il numero massimo degli allievi iscrivibili e' di cinquanta per anno di corso.  
-Art. 73. - Sono insegnamenti fondamentali per la laurea in odontoiatria e protesi dentaria:  
-Biennio:  
-1) anestesia generale e speciale odontostomatologica (semestrale);  
-\*2) biologia generale applicata agli studi medici;  
-\*3) chimica;  
-\*4) chimica biologica;  
-5) farmacologia (semestrale);  
-\*6) fisica medica;  
-7) fisiologia umana e dell'apparato stomatognatico;  
-8) igiene e odontoiatria preventiva e sociale con epidemiologia (semestrale);  
-9) istituzioni di anatomia umana normale e dell'apparato stomatognatico;  
-10) istituzioni di anatomia ed istologia patologica;  
-\*11) istologia ed embriologia generale (compresa la citologia);  
-12) materiali dentari;  
-13) microbiologia (semestrale);  
-14) odontoiatria conservatrice (triennale I, III e IV anno);  
-15) patologia generale.  
-Triennio:  
-16) chirurgia speciale odontostomatologica (biennale III e IV anno);  
-17) clinica odontostomatologica (biennale IV e V anno);  
-18) medicina legale e delle assicurazioni e deontologia in odontostomatologia (semestrale);  
-19) neuropatologia e psicopatologia (semestrale);  
-20) ortognatodonzia e gnatologia (funzione masticatoria) biennale IV e V anno;  
-21) paradontologia (biennale IV e V anno);  
-22) patologia speciale chirurgica e propedeutica clinica;  
-23) patologia speciale medica e metodologia clinica (compresa la pediatria);  
-24) patologia speciale odontostomatologica;  
-25) pedodonzia (semestrale);  
-26) protesi dentaria (triennale III, IV e V anno);  
-27) radiologia generale e speciale odontostomatologica (semestrale).  
-Insegnamenti complementari:  
-\*1) chirurgia maxillo-facciale;  
-\*2) dermatologia e venerologia (semestrale);  
-\*3) otorinolaringoiatria (semestrale);  
-\*4) statistica sanitaria;  
-\*5) auxologia normale e patologica;  
-\*6) istochimica;  
-\*7) tecnica e diagnostica istopatologica;  
-altri insegnamenti complementari nel piano della facolta' sempre mutuati dal corso di laurea in medicina e chirurgia.  
-Gli insegnamenti segnati con asterisco (\*) sono mutuati dal corso di laurea in medicina e chirurgia.  
-Gli insegnamenti fondamentali sono teorici e pratici e la loro frequenza e' obbligatoria.  
-Gli insegnamenti specificatamente odontostomatologici di ordine clinico comportano anche un tirocinio pratico continuativo da espletare prima di sostenere i relativi esami.  
-Gli allievi, che non conseguono le attestazioni di frequenza, non possono essere ammessi a sostenere le relative prove di esame.  
-Il tirocinio pratico, relativo ad ogni insegnamento clinico, deve prevedere da parte dei componenti dell'organico una assistenza didattica adeguata al numero degli studenti.
-
-|  |  |
-| --- | --- |
-| Non si puo' essere ammessi a sostenere l'esame di: | Se non si e' superato l'esame di: |
-| Fisiologia umana e dell'apparato stomatognatico | Istituzioni di anatomia umana normale e dell'apparato stomatognatico; |
-| Patologia generale | Chimica; |
-|  | Biologia generale applicata agli studi medici; |
-|  | Fisica medica; |
-| Patologia speciale medica e metodologia clinica (compresa la pediatria) | Fisiologia umana e dell'apparato stomatognatico; |
-| Patologia speciale chirurgica e propedeutica clinica | Patologia generale; |
-|  | Patologia speciale medica e metodologia clinica (compresa la pediatria); |
-|  | Patologia speciale chirurgica e propedeutica clinica; |
-| Clinica odontostomatologica | Istituzioni di anatomia ed istologia patologica; |
-|  | Patologia speciale odontostomatologica; |
-
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
+Decreta:   
   
-Per essere ammesso a sostenere l'esame di laurea in odontoiatria e protesi dentaria, lo studente deve aver seguito i corsi ed aver superato gli esami in tutti gli insegnamenti fondamentali ed almeno in due insegnamenti scelti tra i complementari ed avere, inoltre, seguito le prescritte esercitazioni cliniche, i tirocini pratici ed averne conseguito le relative attestazioni.  
-L'esame di laurea consiste nella discussione di una tesi scritta su argomenti di odontostomatologia da richiedere almeno all'inizio dell'ultimo anno di corso.  
-Per il trasferimento degli studenti iscritti al corso di laurea in medicina e chirurgia le abbreviazioni di corso non possono superare l'ammissione oltre il secondo anno, subordinatamente al numero di posti resisi disponibili all'inizio del secondo anno sempre che gli aspiranti abbiano superato gli esami di biologia generale applicata agli studi medici, chimica, fisica medica, istologia ed embriologia generale (compresa la citologia).  
-Per i laureati in medicina e chirurgia le abbreviazioni di corso potranno essere concesse, sempre con iscrizione al secondo anno, subordinatamente al numero di posti resisi disponibili all'inizio del secondo anno e dopo che sia trascorso un anno accademico dal conseguimento della laurea precedente.  
-Per esercitare la professione i laureati in odontoiatria e protesi dentaria devono superare un apposito esame di Stato.  
+Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato nel senso che gli articoli dal 19 al 31, relativi alla facolta' di scienze politiche, "Cesare Alfieri", sono abrogati e sostituiti dai seguenti con il conseguente spostamento della successiva numerazione:   
+  
+TITOLO III   
+Facolta' di scienze politiche "Cesare Alfieri"   
+  
+Art. 19. - La facolta' di scienze politiche "Cesare Alfieri" conferisce la laurea in scienze politiche. Nel diploma di laurea e' indicato l'indirizzo seguito dal laureato.   
+Art. 20. - La durata del corso degli studi per la laurea in scienze politiche e' di quattro anni.   
+E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.   
+Gli insegnamenti sono determinati dal seguente piano di studi:   
+  
+1° BIENNIO COMUNE   
+  
+1° Anno:   
+1) Istituzioni di diritto pubblico;   
+2) Storia delle dottrine politiche;   
+3) Economia politica;   
+4) Storia moderna;   
+5) Statistica.   
+2° Anno:   
+1) Diritto costituzionale italiano e comparato;   
+2) Sociologia;   
+3) Scienza della politica;   
+4) Politica economica e finanziaria.   
+Oltre agli insegnamenti obbligatori del primo biennio lo studente potra' anticipare un massimo di tre insegnamenti, scelti tra quelli esistenti in statuto, e resi obbligatori per l'indirizzo prescelto del secondo biennio. Tali insegnamenti anticipati andranno in detrazione dal numero di insegnamenti del biennio di specializzazione.   
+  
+2° BIENNIO   
+  
+Per il secondo biennio sono previsti i seguenti cinque indirizzi:   
+Politico-amministrativo;   
+Politico-economico;   
+Politico-internazionale;   
+Storico-politico;   
+Politico-sociale.   
+Fermi restando gli insegnamenti obbligatori del primo biennio elencati in precedenza, gli insegnamenti che possono essere impartiti o mutuati dalla facolta' in relazione agli indirizzi di cui sopra sono i seguenti:   
+Istituzioni di diritto privato;   
+Diritto amministrativo;   
+Scienza dell'amministrazione;   
+Diritto del lavoro;   
+Istituzioni di diritto e di procedura penale;   
+Diritto finanziario;   
+Diritto tributario;   
+Diritto degli enti locali;   
+Diritto delle comunita' europee;   
+Diritto diplomatico e consolare;   
+Diritto parlamentare;   
+Diritto privato comparato;   
+Diritto pubblico americano;   
+Diritto pubblico dell'economia;   
+Diritto regionale;   
+Istituzioni giuridiche e sociali dell'Europa orientale;   
+Matematica generale;   
+Scienza delle finanze;   
+Economia e politica industriale;   
+Economia dei trasporti;   
+Teoria dello sviluppo economico;   
+Econometria;   
+Economia internazionale;   
+Diritto internazionale;   
+Diritto internazionale privato;   
+Organizzazione internazionale;   
+Organizzazione economica internazionale;   
+Pianificazione e organizzazione territoriale;   
+Programmazione economica;   
+Ricerca operativa;   
+Storia contemporanea;   
+Storia antica;   
+Storia della filosofia;   
+Storia della filosofia moderna e contemporanea;   
+Storia della filosofia politica;   
+Storia delle dottrine economiche;   
+Storia dell'economia;   
+Storia delle istituzioni politiche;   
+Storia dell'amministrazione pubblica;   
+Storia dei partiti e movimenti politici;   
+Storia del giornalismo;   
+Storia americana;   
+Storia dell'Europa orientale;   
+Storia dei movimenti sindacali;   
+Storia delle costituzioni;   
+Storia e istituzioni dei paesi afro-asiatici;   
+Storia e istituzioni dei paesi latino-americani;   
+Storia e istituzioni dell'Europa orientale;   
+Storia moderna e contemporanea;   
+Storia del Risorgimento;   
+Storia medioevale;   
+Storia delle istituzioni religiose;   
+Storia della Chiesa;   
+Storia moderna della Chiesa e delle altre confessioni cristiane;   
+Storia delle relazioni internazionali;   
+Metodologia della ricerca storica;   
+Contabilita' dello Stato e degli enti pubblici;   
+Contabilita' nazionale;   
+Demografia;   
+Geografia politica ed economica;   
+Principi e tecnica delle applicazioni meccanografiche ed elettroniche;   
+Statistica economica;   
+Statistica applicata;   
+Statistica per la ricerca sociale;   
+Filosofia del diritto;   
+Filosofia della politica;   
+Filosofia della scienza;   
+Logica;   
+Filosofia morale;   
+Pedagogia;   
+Dottrina dello stato;   
+Politica comparata;   
+Relazioni internazionali;   
+Antropologia culturale;   
+Metodologia delle scienze sociali;   
+Matematiche per le scienze sociali;   
+Psicologia;   
+Psicologia sociale;   
+Sociologia del lavoro;   
+Sociologia economica;   
+Sociologia dell'organizzazione;   
+Sociologia politica;   
+Sociologia religiosa;   
+Sociologia urbana;   
+Sociologia rurale;   
+Sociologia delle comunita' locali;   
+Sociologia della famiglia;   
+Sociologia della conoscenza;   
+Sociologia dell'educazione;   
+Sociologia delle comunicazioni;   
+Sociologia del diritto;   
+Sociologia dello sviluppo;   
+Storia del pensiero sociologico;   
+Sociologia applicata;   
+Teoria e tecnica delle comunicazioni di massa;   
+Teoria delle organizzazioni complesse;   
+Teoria generale della politica;   
+Teoria e politica dello sviluppo;   
+Teoria generale del diritto;   
+Lingua francese;   
+Lingua inglese;   
+Lingua tedesca;   
+Lingua spagnola;   
+Lingua russa.   
+Per ciascun indirizzo attuato la facolta' stabilisce una lista di non piu' di quindici insegnamenti, entro l'elenco generale delle materie in statuto, che la facolta' si riserva di impartire o mutuare da altre facolta' dello Ateneo fiorentino.   
+All'inizio di ogni anno accademico la facolta' stabilisce e rende note quali degli insegnamenti verranno impartiti durante l'anno, e la durata (pluriennale, annuale, semestrale o trimestrale) degli insegnamenti stessi. La facolta' stabilisce inoltre, indirizzo per indirizzo, quanti e quali insegnamenti siano obbligatori per gli studenti. Gli insegnamenti obbligatori di ciascun indirizzo non potranno essere piu' di sette e meno di quattro. Lo studente dovra' scegliere gli insegnamenti non obbligatori del secondo biennio tra i restanti insegnamenti dell'indirizzo.   
+Per essere ammesso all'esame di laurea, lo studente deve avere seguito i corsi e superato gli esami di ventuno insegnamenti, ivi comprese due lingue straniere.   
+Per tutti gli indirizzi e' obbligatoria la lingua inglese.   
+Per l'indirizzo politico internazionale sono obbligatorie le lingue inglese e francese. Le lingue obbligatorie possono essere anticipate al primo biennio.   
+Per il computo degli esami, la facolta' stabilisce la equivalenza tra i corsi annuali e i corsi frazionali (trimestrali o semestrali) eventualmente impartiti. Qualora la facolta' istituisca corsi biennali o pluriennali di una stessa materia, ogni esame annuale viene computato ai fini del numero minimo di esami sopra stabilito.   
+Art. 21. - Ogni studente prima dell'inizio del terzo anno dovra' prescegliere un indirizzo e formulare il piano di studi, che sottoporra' per l'approvazione alla commissione di indirizzo, formato da un professore di materia obbligatoria nell'indirizzo, un professore o assistente di materia dell'indirizzo, e uno studente laureando iscritto a quell'indirizzo.   
+Lo studente potra' sempre modificare il piano di studio per quanto riguarda le materie a scelta, previo consenso della commissione di indirizzo; potra' anche cambiare indirizzo, accettando di sostenere quegli esami che a tal fine la commissione di indirizzo reputera' necessario.   
+Art. 22. - Gli insegnamenti sono impartiti mediante lezioni, esercitazioni scritte ed orali, o in forma di seminario.   
+Art. 23. - Coloro che siano forniti di altra laurea o diploma di studi superiori possono essere iscritti, a giudizio della facolta', a un anno di corso non oltre il secondo, salvo i laureati in giurisprudenza e in economia e commercio che possono essere ammessi al terzo anno.   
+La facolta', tenuto conto degli studi compiuti e degli esami superati, determina il numero minimo degli insegnamenti che devono essere seguiti e formare oggetto di esame.   
+Art. 24. - L'esame di laurea consiste nella discussione orale su una dissertazione scritta.   
+Art. 25. - Il tema della dissertazione di laurea deve essere concordata tra il candidato e il professore della materia prescelta, che deve rientrare tra quelle dello indirizzo seguito dallo studente.   
+Il professore della materia e' tenuto a indirizzare il candidato durante la preparazione della dissertazione.   
+Art. 26. - Coloro che precedentemente abbiano conseguito una laurea, debbono comunicare alla segreteria della facolta', con dichiarazione della segreteria dell'universita' o dell'istituto superiore da cui provengono, il tema svolto nella dissertazione scritta per l'esame di laurea, essendo vietato di sostenere l'esame di laurea presso la facolta' "Cesare Alfieri" nello stesso argomento.   
+Art. 27. - Allo scopo di coordinare e sviluppare i vari insegnamenti, di promuovere la ricerca scientifica e per favorire e completare la cultura specifica degli allievi, sono istituiti i seguenti istituti policattedra:   
+Istituto di diritto pubblico;   
+Istituto storico-politico;   
+Istituto di economia;   
+Istituto di sociologia;   
+Istituto di scienza della politica.   
+Art. 28. - La facolta' si riserva di istituire una scuola biennale di scienze politiche e sociali (scuola diretta a fini speciali), aperta a tutti coloro in possesso dei titoli di studio che danno accesso alla laurea in scienze politiche e a coloro che hanno il diploma di abilitazione tecnica o commerciale, il diploma di abilitazione magistrale o altro titolo considerato dal consiglio di facolta' equipollente ai precedenti. Gli studenti dovranno seguire gli insegnamenti e superare gli esami previsti dal piano di studi della facolta' per il primo biennio. Potra' anche essere richiesta, a giudizio della facolta', una dissertazione finale. A coloro che avranno superato le prove di cui sopra, la facolta' rilascera' il "Diploma di scienze politiche e sociali".   
+Art. 29. - Disposizioni transitorie per gli studenti in corso.   
+Al momento dell'entrata in vigore del presente ordinamento gli studenti iscritti nei precedenti anni accademici potranno scegliere l'indirizzo in cui intendono conseguire la laurea, e adeguare ad esso i loro piani di studio, tenendo conto degli esami gia' sostenuti. I criteri di adeguamento dal vecchio al nuovo curricolo sono stabiliti dalla facolta'.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1981
+### Dato a Roma, addi' 16 gennaio 1969
 
-PERTINI BODRATO
+SARAGAT SULLO
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 30 gennaio 1982
+Registrato alla Corte dei conti, addi' 19 aprile 1969
 
-Registro n. 12 Istruzione, foglio n. 37
+Atti del Governo, registro n. 226, foglio n. 78. - GRECO

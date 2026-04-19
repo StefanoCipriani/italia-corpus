@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1984 n. 1079
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 aprile 1980 n. 278
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1984 n. 1079
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 aprile 1980 n. 278
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
 -----------------------------------------------------------------------------------------------------
@@ -12,14 +12,8 @@ Art. 1
 
 N.
 
-1079. Decreto del Presidente della Repubblica 5 dicembre 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la   
-fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene   
-autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente nella nuda proprieta' di un immobile sito in Novara,   
-via S. Costa n. 10 ed in beni mobili (saldo conti correnti, valori in titoli) il tutto per un valore di L. 124.033.200 al netto delle passivita' e degli usufrutti, disposta dalla sig.ra Sartori Jolanda   
-con testamento olografo 20 dicembre 1956 e relativa modifica del 21   
-luglio 1965, pubblicato in data 25 agosto 1982, n. 288160/31352 di repertorio, a rogito dott. Mario Barberi, notaio in Novara,   
-registrato a Novara in data 2 settembre 1982 al n. 5483.   
+278. Decreto del Presidente della Repubblica 14 aprile 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla sig.na Jole Pavan, con testamento olografo 28 maggio 1976, pubblicato il 1 giugno 1977, n. 45/13 di repertorio, a rogito dott. Ulderico Brambilla, notaio in Milano, registrato a Milano il 16 giugno 1977 al n. 5330, serie H, consistente in due appartamenti siti in Milano, via Lunigiana n. 4, distinti al nuovo catasto edilizio urbano alla partita 36245, foglio 227, mappale 132 sub 32 e 33, nonche' in mobili vari, libretti al portatore, biglietti di banca, ecc., per un valore complessivo netto di L. 35.589.940.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 14 febbraio 1985   
-Registro n. 2 Presidenza, foglio n. 34
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti, addi' 18 giugno 1980  
+Registro n. 5 Presidenza, foglio n. 105

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 aprile 1968 n. 1506
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 giugno 1968 n. 920
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 aprile 1968 n. 1506
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 giugno 1968 n. 920
+=============================================================
 
 Autorizzazione alla Croce rossa italiana ad accettare un legato.
 ----------------------------------------------------------------
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-1506. Decreto del Presidente della Repubblica 22 aprile 1968, col quale, sulla proposta del Ministro per la sanita', la Croce rossa italiana viene autorizzata ad accettare il legato disposto dal sig.  
-Rocca Raffaele, con testamento pubblicato per atto notaio Felice Bulla di Bergamo il 20 gennaio 1966, rep. 8683, consistente nella somma di L. 15.000.000.   
+920. Decreto del Presidente della Repubblica 29 giugno 1968, col quale, sulla proposta del Ministro per la sanita', la Croce rossa italiana viene autorizzata ad accettare un legato di L. 1.000.000, disposto dalla signorina Grecchi Ada Irma con testamento olografo pubblicato per atto notaio Antonio Stame di Bologna il 7 febbraio 1967, repertorio 67659.  
   
-Visto, il Guardasigilli: GONELLA   
-Registrato alla Corte dei conti, addi' 1° aprile 1969   
-Atti del Governo, registro n. 226, foglio n. 41. - GRECO
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 16 agosto 1968  
+Atti del Governo, registro n. 222, foglio n. 71. - DI PRETORO

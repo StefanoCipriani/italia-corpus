@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 aprile 1960 n. 501
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1973 n. 848
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 aprile 1960 n. 501
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1973 n. 848
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
@@ -10,13 +10,15 @@ Modificazioni allo statuto dell'Universita' degli studi di Padova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successivi;
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), e modificato con [regio decreto 6 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-06;1847), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito, nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
@@ -30,606 +32,319 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-gli articoli dal n. 159 al 176, relativi alla Scuola storico-filosofica delle Venezie, sono soppressi e sostituiti dai seguenti, con il conseguente spostamento della successiva numerazione.
+Art. 42, relativo all'elenco degli insegnamenti complementari del corso di laurea in scienze politiche, e' modificato nel senso che l'insegnamento di "storia della Chiesa" muta la denominazione in quella di "storia moderna e contemporanea della Chiesa e delle altre confessioni cristiane".
 
-Scuole di perfezionamento e di specializzazione
+Art. 49, relativo all'elenco degli istituti annessi alla facolta' di scienze politiche, e' modificato nel senso che il comma contrassegnato con il n. 5) e' abrogato e sostituito dal seguente:
 
-Art. 159. - Le Scuole di perfezionamento e di specializzazione dipendenti dalla Facolta' sono le seguenti:
+"5) Istituto di studi internazionali, comprendente i seminari di diritto internazionale e comunitario, economia internazionale, storia e politica internazionale, studi anglo-americani. Alle attivita' dell'istituto possono partecipare, nei limiti e nei modi stabiliti dal direttore, anche docenti e studiosi italiani e stranieri di dette discipline, pur non appartenenti all'Universita' di Padova".
 
-1. Scuola di perfezionamento in Filosofia;
+Art. 102 - all'elenco degli istituti annessi alla facolta' di medicina e chirurgia e' aggiunto quello di:
 
-2. Scuola di perfezionamento in Filologia classica;
+Istituto di chirurgia cardiovascolare.
 
-3. Scuola di perfezionamento in filologia moderna;
+Art. 226, relativo alle tasse e contributi delle scuole di specializzazione e perfezionamento della facolta' di lettere e filosofia, e' modificato nel senso che il primo comma e' abrogato e sostituito dal seguente:
 
-4. Scuola di perfezionamento in Glottologia;
+"Le tasse e soprattasse annuali a carico degli iscritti restano cosi' determinate:
 
-5. Scuola di perfezionamento in Filologia slava e balcanica;
+tassa di iscrizione per studenti di corso. . . . . . . L. 11.000 tassa di iscrizione per studenti fuori corso. . . . . . L. 5.000 soprattassa esami . . . . . . . . . . . . . . . . . . . . L. 400 Il consiglio di amministrazione dell'Universita', su proposta del senato accademico, udito il consiglio della facolta' di lettere e filosofia, stabilira' di anno in anno l'ammontare dei contributi".
 
-6. Scuola di perfezionamento in Storia antica;
+Art. 244, relativo alla scuola speciale per storici dell'arte medioevale e moderna e conservatori dei beni artistici, e' modificato nel senso che il seguente comma:
 
-7. Scuola di perfezionamento in Storia medioevale e moderna;
+"gli iscritti alla scuola sono tenuti a versare le tasse e soprattasse e contributi secondo le disposizioni vigenti per gli studenti della facolta' di lettere e filosofia", e' abrogato e sostituito dal seguente:
 
-8. Scuola di perfezionamento in Geografia;
+"Le tasse e soprattasse annuali a carico degli iscritti restano cosi' determinate:
 
-9. Scuola di perfezionamento in Storia dell'arte;
+tassa di iscrizione per studenti di corso. . . . . . . L. 11.000 tassa di iscrizione per studenti fuoricorso . . . . . . L. 5.000 soprattassa esami . . . . . . . . . . . . . . . . . . . . L. 400 Il consiglio di amministrazione dell'Universita', su proposta del senato accademico, udito il consiglio della facolta' di lettere e filosofia, stabilira' di anno in anno l'ammontare dei contributi".
 
-10. Scuola di perfezionamento in Storia delle religioni;
+Gli articoli da 245 a 255, relativi alla scuola di perfezionamento nelle discipline pedagogiche e psicologiche, sono soppressi e sostituiti dai seguenti relativi alla istituzione delle scuole di perfezionamento in "discipline pedagogiche" e in "psicologia", con il conseguente spostamento della numerazione degli articoli successivi.
 
-11. Scuola di specializzazione per archivisti;
+TITOLO XVI
 
-12. Scuola di specializzazione per bibliotecari.
+FACOLTA' DI MAGISTERO
 
-Dette scuole, salvo particolari disposizioni indicate a suo luogo, sono di durata biennale.
+SCUOLE DI PERFEZIONAMENTO E DI SPECIALIZZAZIONE
 
-Le materie costitutive di ciascuna scuola sono distinte in fondamentali, fra le quali il perfezionando sceglie la materia centrale di perfezionamento, e integrative della sua preparazione speciale.
+Art. 245. - Alla facolta' di magistero sono annesse le seguenti scuole di perfezionamento e specializzazione:
 
-Art. 160. - Ogni scuola e' retta da un direttore - scelto, sempre che possibile, fra i professori di ruolo a fuori ruolo delle corrispondenti materie fondamentali, nominato dal rettore su designazione della Facolta' - e da un Consiglio composto dai professori ufficiali delle materie costitutive.
+1) Scuola di perfezionamento e specializzazione nelle discipline pedagogiche;
 
-Art. 161. - Le iscrizioni al perfezionamento nelle varie scuole e nelle singole materie previste dal presente statuto sono subordinate all'effettivo funzionamento delle scuole stesse.
+2) Scuola di perfezionamento e specializzazione in psicologia.
 
-Gli aspiranti all'iscrizione per venire ammessi, oltre che essere muniti dei titoli di studio per ciascuna prescritti, devono sostenere una prova preliminare di traduzione a vista da almeno due delle seguenti lingue moderne: francese, inglese e tedesco.
+Scuola di perfezionamento e di specializzazione nelle discipline pedagogiche
 
-Possono essere ammessi alle singole scuole anche perfezionandi muniti di titoli di studio stranieri, purche' riconosciuti dallo Stato italiano e ritenuti equipollenti dal Consiglio della scuola.
+Art. 246. - La scuola di perfezionamento e di specializzazione nelle discipline pedagogiche ha lo scopo di promuovere gli studi nelle discipline pedagogiche e di creare degli specialisti tecnici operatori nella materia.
 
-Entro il 31 dicembre del primo anno di corso essi devono notificare alla segreteria la materia prescelta come centrale, dopo presi i necessari contatti con il professore della materia stessa e ottenuto il benestare suo e del direttore della scuola.
+Art. 247. - La scuola ha la durata di due anni.
 
-Art. 162. - I perfezionandi sono tenuti anzitutto alla frequenza regolare e alla partecipazione attiva alle conferenze colloquio del titolare della materia prescelta come centrale ed a partecipare assiduamente alla vita dell'Istituto. Inoltre essi devono frequentare i corsi, le esercitazioni e le altre attivita' organizzate dalla scuola e sostenere le eventuali prove scritte orali e pratiche se e come verranno prescritte e consigliate dall'ordine annuale degli studi delle singole scuole.
+Art. 248. - La scuola e' retta da un direttore coadiuvato da un consiglio.
 
-L'argomento per la tesi di diploma e la scelta delle materie integrative devono essere concordati con il professore della materia con cui si intende compiere il perfezionamento e approvati dal direttore della scuola.
+Il direttore della scuola e' nominato dal rettore su designazione del consiglio di facolta' di magistero.
 
-Art. 163. - Per ottenere il diploma di perfezionamento, salvo diverse speciali indicazioni, gli studenti devono presentare e discutere una memoria originale scritta, frutto degli studi compiuti durante il corso di perfezionamento.
+Il consiglio della scuola e' composto dai professori che vi tengono insegnamenti.
 
-Sul diploma, oltre la scuola che lo rilascia, sara' indicata la materia particolare, scelta come centrale, nella quale e' stato concesso il perfezionamento.
+Art. 249 - Il rettore, su proposta del consiglio della scuola, determina, di anno in anno, quali corsi debbono funzionare.
 
-Art. 164. - La Commissione per gli esami di profitto (o esami speciali) e' presieduta dal professore ufficiale della materia, assistito da un professore ufficiale di materia affine e da un libero docente o assistente o cultore della materia.
+Art. 250. - Alla scuola di perfezionamento e di specializzazione nelle discipline pedagogiche, possono iscriversi i laureati nelle facolta' di lettere e filosofia, magistero e lingue.
 
-La nomina delle Commissioni per gli esami di profitto (o speciali), e' di competenza del direttore di ogni singola scuola, udito il parere del preside della Facolta'.
-
-Art. 165. - La Commissione per gli esami di diploma e' costituita da sette membri scelti fra i professori ufficiali di materie insegnate nella scuola frequentata dal candidato, tra i professori ufficiali di materie insegnate in scuole affini, tra i liberi docenti e i cultori di dette materie. Essa e' presieduta dal preside di Facolta'.
-
-La nomina della Commissione per gli esami di diploma e' di competenza del preside della Facolta'.
-
-Art. 166. - Le tasse e contributi che gli iscritti dovranno pagare per conseguire il diploma di specializzazione sono fissate dal Consiglio di amministrazione, su proposta del Senato accademico, udito il Consiglio della Facolta' di lettere e filosofia.
-
-La tassa di diploma e' stabilita dall'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).
-
-Disposizione transitoria
-
-All'entrata in vigore del presente statuto, i perfezionandi iscritti da almeno un anno ai corsi della cessata Scuola storico-filologica delle Venezie, potranno completare i loro studi secondo le vecchie disposizioni, oppure chiedere il passaggio alla nuova scuola corrispondente secondo il presente statuto, presentando apposita domanda al direttore della scuola interessata.
-
-Scuola di perfezionamento in Filosofia
-
-Art. 167. - Oltre curare il perfezionamento nelle singole discipline filosofiche, la scuola si propone di promuovere studi speciali in rapporto a particolari interessi culturali e filosofici della Regione veneta (ad es. studi averroistici, studi rosminiani, ecc.) stabilendo eventualmente rapporti con enti o istituti che sorgano nella Regione fuori dell'ambito universitario.
-
-Sono titoli di ammissione alla Scuola le seguenti lauree: in Lettere, in Filosofia, in Materie letterarie, in Pedagogia, in Giurisprudenza, in Scienze politiche, in Medicina e chirurgia, in Ingegneria, Scienze matematiche, fisiche e naturali e in Architettura.
-
-Materie fondamentali:
-
-Storia della filosofia;
-
-Filosofia teoretica;
-
-Filosofia morale;
+Il numero dei candidati ammessi alla frequenza e' limitato ad un massimo di dodici all'anno. Le materie costitutive per conseguire il diploma della scuola sono:
 
 Pedagogia;
 
-Psicologia;
+Storia delle istituzioni scolastiche;
 
-Estetica;
+Metodologia e didattica generale;
 
-Storia della filosofia antica;
+Didattica dei mezzi audiovisivi;
 
-Storia della filosofia medioevale;
+Pedagogia sperimentale.
 
-Filosofia della storia;
+Il curriculum degli studi di ogni singolo candidato sara' fissato dal consiglio della scuola a completamento del corso di studi precedentemente seguito, e comprendera', oltre alle materie costitutive, altre discipline scelte tra le seguenti:
 
-Filosofia della religione;
+Psicopedagogia;
 
-Filosofia della tecnica;
+Storia della pedagogia;
 
-Relazioni umane;
+Psicologia dell'eta' evolutiva;
 
-Prova scritta di Filosofia.
+Sociologia;
 
-Materie integrative:
+Tirocinio didattico (con esercitazioni);
 
-Storia delle religioni;
+Pedagogia comparata;
 
-Storia delle dottrine politiche;
+Pedagogia familiare;
 
-Filosofia del diritto.
+Pedagogia degli adulti;
 
-Scuola di perfezionamento in Filologia classica
+Pedagogia del tempo libero;
 
-Art. 168. - E' titolo di ammissione alla scuola la laurea in Lettere.
+Storia e critica della letteratura per l'infanzia;
 
-Materie fondamentali:
+Legislazione scolastica comparata;
 
-Letteratura greca;
+Didattica particolare;
 
-Letteratura latina;
+Educazione sanitaria;
 
-Filologia bizantina;
-
-Letteratura cristiana antica;
-
-Storia della letteratura latina medioevale;
-
-Grammatica greca e latina.
-
-Materie integrative:
-
-Storia comparata delle lingue classiche;
-
-Glottologia;
-
-Filologia greco-latina;
-
-Storia orientale antica;
-
-Storia greca;
-
-Storia romana;
-
-Antichita' greche e romane;
-
-Storia delle religioni;
-
-Storia del diritto romano;
-
-Papirologia;
-
-Paleografia.
-
-Nella prova preliminare di traduzione a vista di due lingue straniere deve essere in ogni caso compresa la lingua tedesca. Alla fine del biennio il perfezionando sosterra' un esame scritto consistente in una composizione latina oppure in una traduzione dal greco in latino, senza vocabolario.
-
-Scuola di perfezionamento in Filologia moderna
-
-Art. 169. - La scuola ha lo scopo di promuovere sia la formazione scientifica che il perfezionamento didattico dei laureati. Si distingue percio' in due corsi: il 1° triennale per la formazione di studiosi specialisti nelle letterature moderne; il 2° biennale per il perfezionamento dei laureati che intendono dedicarsi all'insegnamento delle lingue e letterature straniere nei vari tipi di istituti medi e superiori.
-
-Sono ammessi alla scuola i laureati in Lettere e filosofia, in Lingue e letterature moderne, in Materie letterarie. Il direttore della scuola potra' caso per caso, decidere dell'ammissione di laureati con titoli simili ed equipollenti.
-
-La Scuola raggruppa e coordina a tale scopo i seguenti insegnamenti:
-
-Materie fondamentali:
-
-Letteratura italiana;
-
-Letteratura italiana moderna e contemporanea;
-
-Storia della lingua italiana;
-
-Filologia romanza;
-
-Letteratura francese;
-
-Letteratura inglese;
-
-Letteratura tedesca;
-
-Letteratura spagnola;
-
-Letteratura portoghese;
-
-Letteratura delle tradizioni popolari.
-
-Materie integrative:
-
-Letterature comprese nella Scuola di perfezionamento in Filologia slava e balcanica;
-
-Storia della letteratura latina medioevale;
-
-Filologia germanica;
-
-Glottologia;
-
-Paleografia;
-
-Estetica.
-
-Gli aspiranti ai due perfezionamenti dovranno frequentare le lezioni ed esercitazioni secondo un piano fissato per ognuno di loro dal professore della materia di perfezionamento e approvato dal direttore.
-
-Gli iscritti al perfezionamento scientifico al principio del 1° e 2° anno dovranno scegliere, d'accordo con i professori, un tema da trattare per iscritto che servira' di base all'esame al termine di ogni corso.
-
-Oltre che nella discussione della tesi scritta tale esame consistera' nell'accertamento teorico e pratico della progressiva preparazione del candidato, ed e' obbligatorio per il passaggio al corso successivo.
-
-I lavori assegnati nel 1° e 2° anno, possono avere carattere preliminare e preparatorio della tesi di diploma che sara' discussa al termine del triennio.
-
-Il Consiglio della scuola puo' concedere l'abbreviazione di un anno per il conseguimento del diploma quando il perfezionando abbia gia' frequentato analoghe scuole, o quando dimostri speciale maturita' e preparazione.
-
-Gli aspiranti al perfezionamento didattico dovranno seguire i corsi e le esercitazioni nella lingua e nella letteratura scelta e in quelle particolarmente affini indicate dalla Direzione della scuola; su consiglio dei professori, quei corsi e quelle esercitazioni che possono meglio introdurli alla conoscenza dei vari aspetti della storia e della civilta' dei popoli di cui studiano la lingua e la letteratura. Per ottenere il diploma, alla fine del 10 anno dovranno superare esami scritti ed orali nella lingua e letteratura prescelta e almeno in tre altre materie consigliate. Per accedere all'esame di diploma i candidati dovranno aver trascorso un periodo di almeno tre mesi nel Paese della lingua prescelta, e aver ivi compiuto studi ed esercitazioni presso istituti qualificati che saranno di volta in volta consigliati dal professore competente. L'esame di diploma consistera' in prove scritte e orali di cultura generale, con particolare riguardo alla lingua e letteratura prescelta in rapporto anche alla civilta', italiana. Tali prove saranno modellate su quelle stabilite per gli esami di concorso e abilitazione per l'insegnamento delle varie lingue negli istituti medi superiori.
-
-Scuola di perfezionamento in Glottologia
-
-Art. 170. - Sono titoli di ammissione alla Scuola le seguenti lauree: in Lettere, in Lingue e letterature straniere (europee ed orientali), in Materie letterarie (limitatamente al perfezionamento in Linguistica moderna), in Medicina e diploma di specializzazione in Otorinolaringoiatria (limitatamente ad un perfezionamento in Fonetica sperimentale).
-
-Sono materie fondamentali:
-
-Glottologia;
-
-Storia comparata delle lingue classiche;
-
-Filologia romanza;
-
-Filologia germanica;
-
-Filologia slava;
-
-Storia della lingua italiana;
-
-Fonetica sperimentale;
-
-Prova scritta di analisi linguistica di un testo.
-
-Sono materie integrative:
-
-Sanscrito;
-
-Grammatica greca e latina;
-
-Lingue orientali.
-
-Nella prova preliminare di traduzione a vista deve essere in ogni caso compresa la lingua tedesca.
-
-Scuola di perfezionamento in Filologia slava e balcanica
-
-Art. 171. - Sono titoli di ammissione alla Scuola le seguenti lauree: in Lettere, in Filosofia, in Lingue e letterature moderne, in Materie letterarie.
-
-Sono materie fondamentali:
-
-Lingua e letteratura russa;
-
-Lingua e letteratura croata;
-
-Lingua e letteratura ceca e slovacca;
-
-Lingua e letteratura bulgara;
-
-Lingua e letteratura serbo-croata;
-
-Lingua e letteratura slovena;
-
-Lingua e letteratura rumena;
-
-Lingua e letteratura albanese;
-
-Lingua e letteratura neo-greca;
-
-Filologia bizantina;
-
-Lingua e letteratura turca;
-
-Lingua e letteratura ungherese.
-
-Sono materie integrative:
-
-Glottologia;
-
-Archeologia cristiana;
-
-Paleografia.
-
-Oltre alla prova preliminare di traduzione a vista da almeno due lingue moderne (francese, inglese, tedesco) e' prescritta una prova preliminare di traduzione a vista da due delle lingue comprese nelle materie fondamentali di questa Scuola.
-
-Per le prove scritte si osservano le disposizioni stabilite per la scuola di perfezionamento in Filologia moderna.
-
-Scuola di perfezionamento in Storia antica
-
-Art. 172. - Sono titoli di ammissione le seguenti lauree: in Lettere, in Filosofia, in Giurisprudenza.
-
-Sono materie fondamentali:
-
-Storia orientale antica;
-
-Storia greca;
-
-Storia romana;
-
-Antichita' greche e romane.
-
-Sono materie integrative:
-
-Letteratura latina;
-
-Letteratura greca;
-
-Numismatica antica;
-
-Archeologia e storia dell'arte greca e romana;
-
-Paletnologia;
-
-Storia del diritto romano;
-
-Istituzioni di diritto romano;
-
-Filosofia della storia.
-
-In linea di massima gli iscritti dovranno sostenere i seguenti esami ripartiti in due anni: Storia romana, Storia greca, Antichita' greche e romane, Storia orientale antica.
-
-Nel caso che nel giro di due anni uno di tale insegnamenti taccia, gli iscritti sosterranno un esame integrativo scelto di concerto con il professore delle materie di perfezionamento e approvato dal direttore.
-
-Nella prova preliminare di traduzione a vista deve essere compresa in ogni caso la lingua tedesca.
-
-Scuola di perfezionamento
-
-in Storia medioevale e moderna
-
-Art. 173. - Sono titoli di ammissione la laurea in Lettere, in Filosofia, in Giurisprudenza, in Scienze politiche, in Materie letterarie.
-
-Sono materie fondamentali:
-
-Storia medioevale;
-
-Storia moderna;
-
-Storia del Risorgimento.
-
-Sono materie integrative:
-
-Storia greca;
-
-Storia romana;
-
-Paleografia e diplomatica;
-
-Storia e geografia dell'Asia orientale;
-
-Geografia storica;
-
-Storia della geografia;
-
-Storia del diritto italiano;
-
-Storia delle dottrine politiche;
-
-Storia dei trattati e politica internazionale;
-
-Storia della filosofia.
-
-Scuola di perfezionamento in Geografia
-
-Art. 174. - Sono titoli di ammissione le seguenti lauree: in Lettere, in Scienze naturali, in Scienze geologiche, in Scienze politiche, in Economia e commercio in Materie letterarie, in Lingue e letterature straniere.
-
-Sono materie fondamentali:
-
-Geografia;
-
-Geografia fisica;
-
-Geografia politica ed economica;
-
-Geologia:
-
-Antropologia Etnologia.
-
-Sono materie integrative:
-
-Geografia storica;
-
-Storia della geografia;
-
-Paletnologia;
-
-Storia delle religioni;
-
-Paleografia e diplomatica;
-
-Storia e geografia dei Paesi del Levante;
-
-Storia e geografia dell'Asia orientale;
-
-Storia delle esplorazioni geografiche;
-
-Geografia della regione mediterranea;
-
-Paleontologia;
-
-Fisica terrestre;
-
-Biogeografia;
-
-Topografia e cartografia;
-
-Geodesia;
-
-Oceanografia;
-
-Vulcanologia;
-
-Demografia;
-
-Storia delle dottrine economiche;
-
-Economia coloniale;
-
-Geografia ed etnografia coloniale.
-
-Per la scelta delle materie integrative, saranno consultati i vari piani di studio a seconda della laurea di provenienza.
-
-I laureati di cui alle lauree elencate al comma primo, i quali durante i rispettivi corsi di studio abbiano gia' frequentato, superando i rispettivi esami, alcuni insegnamenti che dal Consiglio della Facolta' siano giudicati equipollenti all'insegnamento impartito nel corso della Scuola di perfezionamento, potranno essere ammessi al secondo anno di perfezionamento.
-
-Scuola di perfezionamento in Storia dell'arte
-
-Art. 175. - La Scuola si distingue in due corsi: il primo triennale, scientifico, per la formazione di specialisti nella materia; il secondo biennale, professionale, per la preparazione degli insegnanti di Storia dell'arte nei vari tipi di Istituti medi e superiori per i quali e' prescritto detto insegnamento, e di conseguenza rilascia due distinti diplomi di perfezionamento.
-
-La Scuola raggruppa e coordina a tale scopo i seguenti insegnamenti:
-
-Materie fondamentali:
-
-Archeologia e storia dell'arte greca e romana;
-
-Archeologia cristiana;
-
-Storia dell'arte medioevale;
-
-Storia dell'arte moderna.
-
-Materie integrative:
-
-Estetica;
-
-Storia dell'arte mussulmana e copta;
-
-Storia dell'arte del medio ed estremo oriente;
-
-Numismatica;
-
-Paleografia e diplomatica.
-
-Sono ammessi alla Scuola per il perfezionamento scientifico i laureati in Lettere, in Materie letterarie, in Architettura, in Ingegneria civile.
-
-Sono ammessi al perfezionamento professionale gli aspiranti muniti dei titoli previsti per l'ammissione ai concorsi e abilitazione per l'insegnamento della Storia dell'arte nei vari tipi di istituti medi e superiori per i quali e' previsto detto insegnamento.
-
-Art. 176. - Gli aspiranti al perfezionamento scientifico nei primi due anni devono frequentare le lezioni ed esercitazioni degli insegnamenti costitutivi della Scuola che saranno loro prescritti e consigliati dal direttore e partecipare in quanto possibile agli eventuali sopraluoghi e viaggi di studio.
-
-Inoltre, al principio rispettivamente del primo e del secondo anno, ciascun iscritto dovra' scegliere, d'accordo con i professori, un tema di storia dell'arte, in campi fra loro diversi, da trattare in forma di tesi scritta e che servira' di base d'esame al termine del corrispondente anno di corso.
-
-Questo esame, oltre che nella discussione della tesi scritta, consistera' nell'accertamento teorico e pratico della progressiva preparazione del candidato. La tesi del secondo anno puo' avere carattere preliminare per la tesi di diploma.
-
-Non e' ammesso il passaggio all'anno successivo senza avere superato l'esame dell'anno precedente.
-
-Nel terzo anno i perfezionandi dovranno attendere particolarmente alla preparazione della tesi finale e, per quanto possibile, a viaggi di istruzione. Percio' agli effetti amministrativi, non sara' considerato anno di frequenza.
-
-Al termine del triennio, per conseguire il diploma, il perfezionando presentera' e discutera' la tesi scritta sopra detta su argomento approvato dal titolare della materia centrale da lui scelta per il perfezionamento.
-
-Per i perfezionandi in Archeologia e storia dell'arte greca e romana le materie integra uve saranno stabilite per ciascun candidato anche al di fuori delle discipline della Scuola.
-
-Il Consiglio della scuola puo' concedere l'abbreviazione di un anno per il conseguimento del diploma quando riconosce la speciale maturita' del perfezionando.
-
-I laureati che abbiano frequentato in tutto o in parte scuole di perfezionamento in Archeologia o in Storia dell'arte ritenute equipollenti dal Consiglio della scuola, possono essere ammessi al secondo o terzo corso con un piano di studio stabilito di volta in volta dal Consiglio stesso.
-
-Art. 177. - Gli aspiranti al perfezionamento professionale, durante il biennio, dovranno seguire i corsi e le eventuali esercitazioni delle seguenti materie:
-
-Archeologia e storia dell'arte greca e romana;
-
-Archeologia cristiana;
-
-Storia dell'arte medioevale;
-
-Storia dell'arte moderna;
-
-Estetica.
-
-In particolare dovranno seguire regolarmente ogni anno, come fondamentali ed obbligatorie, le conferenze colloquio di almeno due delle materie storico-artistiche ricordate, in modo che nel biennio siano seguite almeno una volta le conferenze-colloquio di tutte le dette materie.
-
-Per ottenere il diploma essi, alla fine del primo anno dovranno superare un esame di cultura generale nelle seguenti materie:
-
-Estetica, Archeologia e storia dell'arte greca e romana, Archeologia cristiana; alla fine del secondo anno poi dovranno sostenere una prova didattica consistente in una lezione su tema scelto fra tre assegnato ventiquattro ore prima, ed un esame di cultura generale con particolare riguardo alla Storia dell'arte medioevale e moderna, davanti al Collegio dei professori ufficiali della Sezione, modellato sui programmi in vigore per gli esami di concorso e di abilitazione per l'insegnamento della Storia, dell'arte negli Istituti medi superiori.
-
-Scuola di perfezionamento in Storia delle religioni
-
-Art. 178. - Sono titoli di ammissione le seguenti lauree: in Lettere, in Filosofia, in Giurisprudenza, in Scienze politiche e in Scienze naturali.
-
-Sono materie fondamentali:
-
-Storia delle religioni;
-
-Storia del cristianesimo;
-
-Filosofia della religione.
-
-Sono materie integrative:
-
-Paletnologia;
-
-Etnologia;
-
-Letteratura delle tradizioni popolari;
-
-Ebraico e lingue semitiche comparate;
-
-Antichita' greche e romane;
-
-Archeologia e storia dell'arte greca e romana;
-
-Letteratura greca;
-
-Letteratura latina;
-
-Filologia bizantina;
-
-Letteratura cristiana antica;
-
-Archeologia cristiana;
+Educazione fisica;
 
 Storia della filosofia;
 
-Filosofia morale.
+Estetica;
 
-Il perfezionando deve frequentare per due anni il corso di Storia delle religioni e per un anno quello di quattro materie integrative scelte fra quelle previste dall'elenco della Scuola o anche altre della Facolta' di Lettere e di altre Facolta', quando lo richieda la natura delle indagini propostesi.
+Orientamenti scolastici e professionali;
 
-Alla fine del primo anno vanno superati gli esami nelle quattro materie integrative, su programma speciale assegnato dai singoli titolari a ciascun perfezionando.
+Tecnica ed organizzazione di centri di lettura e di centri culturali;
 
-Alla fine del secondo anno, prima di essere ammesso alla discussione della tesi di diploma, il perfezionando deve superare un esame di cultura generale in storia delle religioni.
+Tecniche della valutazione scolastica e docimologia.
 
-Scuola di specializzazione per archivisti
+Altri insegnamenti e corsi di conferenze a carattere interpretativo potranno essere istituiti di anno in anno per deliberazione del consiglio direttivo.
 
-Art. 179. - Titolo di ammissione alla Scuola e' la laurea in Lettere o in Giurisprudenza o in Materie letterarie.
+I candidati che avranno superato gli esami prescritti (in numero non inferiore a otto) saranno ammessi a discutere una tesi di perfezionamento consistente in un contributo originale di argomento attinente ai seguenti settori:
 
-Nel primo anno gli iscritti debbono frequentare i corsi e superare gli esami delle seguenti discipline: Archivistica, Bibliografia, Biblioteconomia, Dialetti veneti medioevali, Latino medioevale, Paleografia e diplomatica, Storia ed istituzioni di Venezia.
+1) Pedagogia generale;
 
-Nel secondo anno gli iscritti debbono compiere un tirocinio presso un archivio designato dal direttore della scuola, con esercitazioni dirette dal professore, di Archivistica; alla fine devono superare una prova pratica di ricerca archivistica.
+2) Pedagogia sperimentale;
 
-In questa prova i candidati dovranno dimostrare di conoscere la lingua francese e la lingua tedesca o inglese.
+3) Pedagogia speciale;
 
-Per conseguire il diploma di archivista, gli aspiranti debbono, dopo aver assolti gli obblighi determinati dai precedenti commi, presentare e discutere una dissertazione scritta sopra una delle discipline costitutive del perfezionamento, scelta di concerto con il direttore della scuola.
+4) Educazione familiare e sessuale;
 
-Scuola di specializzazione per bibliotecari
+5) Istituzioni scolastiche e comunita' educativa;
 
-Art. 180. - Titolo di ammissione alla Scuola e' una qualsiasi laurea conseguita presso una Universita' o Istituto superiore universitario.
+6) Attivita' giovanili;
 
-La Scuola puo' articolarsi su due indirizzi: letterario o scientifico.
+7) Comunicazioni di massa.
 
-L'ammissione ad uno o all'altro degli indirizzi e' demandata al Consiglio della scuola, tenuto conto del diploma di laurea in possesso dell'aspirante.
+Art. 251. - Le domande di iscrizione alla scuola di perfezionamento e di specializzazione saranno vagliate dal consiglio della scuola, il quale predisporra' eventuali prove di accertamento e decidera' dell'accettazione dei candidati.
 
-Il Consiglio della scuola si riserva di indicare eventuali materie complementari secondo l'indirizzo prescelto dall'aspirante.
+Art. 252. - Le commissioni giudicatrici degli esami sono nominate dal direttore della scuola. Le commissioni giudicatrici degli esami di diploma di perfezionamento e specializzazione sono nominate dal rettore e composte di sette membri tra cui il direttore della scuola che le presiede.
 
-Gli aspiranti al diploma di bibliotecario nel primo anno della Scuola debbono frequentare i corsi e superare gli esami delle seguenti discipline:
+Art. 253. - Il consiglio di amministrazione, su proposta della direzione della scuola, stabilisce di anno in anno l'ammontare dei contributi.
 
-Bibliografia;
+Le tasse e soprattasse annuali che gli iscritti sono tenuti a versare sono le seguenti:
 
-Biblioteconomia;
+tassa di immatricolazione . . . . . . . . . . . . . . . L. 5.000 tassa iscrizione studenti di corso. . . . . . . . . . . " 18.000 soprattassa esami. . . . . . . . . . . . . . . . . . . . " 7.000 tassa di diploma . . . . . . . . . . . . . . . . . . . . " 6.000 Art. 254. - Il funzionamento della scuola e' a carico del bilancio della facolta' di magistero.
 
-Paleografia;
+Scuola di perfezionamento e di specializzazione in psicologia
 
-Storia e istituzioni di Venezia;
+Art. 255. - La scuola di perfezionamento e di specializzazione in psicologia ha lo scopo di promuovere gli studi nelle discipline psicologiche e di creare degli specialisti nelle applicazioni industriali e sociali della psicologia.
 
-Latino medioevale;
+Art. 256. - La scuola comprende:
 
-Dialetti veneti medioevali;
+a) un ramo di perfezionamento in psicologia, destinato ad accogliere persone che vogliono approfondire la loro preparazione psicologica e orientarsi verso la attivita' di ricerca;
 
-Aspetti artistici del libro.
+b) un ramo di specializzazione in psicologia, che prepara persone che intendono svolgere professionalmente la loro attivita' nel campo della psicologia applicata.
 
-Nel secondo anno della Scuola essi debbono compiere un tirocinio in una biblioteca designata dal direttore della scuola, con esercitazioni dirette dal professore di Biblioteconomia, e alla fine superare una prova pratica di catalogazione e classificazione di libri e una prova pratica di ricerca bibliografica. In queste prove i candidati dovranno dimostrare di conoscere la lingua francese e di saper usare repertori inglesi e tedeschi; potranno anche dare saggio di catalogazione di opere scritte in una lingua slava od orientale.
+Art. 257. - La scuola ha la durata di due anni.
 
-Per conseguire il diploma di bibliotecario gli aspiranti debbono aver assolto gli obblighi determinati dal precedente comma, presentare e discutere una dissertazione sopra una delle discipline costitutive del perfezionamento.
+Art. 258. - La scuola e' retta da un direttore coadiuvato da un consiglio.
+
+Il direttore della scuola e' nominato dal rettore su designazione del consiglio della facolta' di magistero.
+
+Il consiglio della scuola e' composto dei professori universitari di ruolo che vi tengono insegnamenti.
+
+Art. 259. - Titolo di ammissione al ramo di perfezionamento in psicologia e' una delle lauree conferite dalla facolta' di magistero, lettere e filosofia, sociologia, giurisprudenza, scienze matematiche, fisiche e naturali, medicina.
+
+Il numero dei candidati ammessi alla frequenza e' limitato ad un massimo di sei per anno.
+
+Le materie costitutive per conseguire il diploma in perfezionamento in psicologia sono:
+
+Metodologia delle scienze del comportamento;
+
+Psicologia;
+
+Psicologia dell'eta' evolutiva.
+
+Il curriculum degli studi di ogni singolo candidato sara' fissato dal consiglio della scuola a completamento del corso di studi precedentemente seguito, e comprendera', oltre alle materie costitutive, altre discipline scelte fra le seguenti:
+
+Anatomia;
+
+Antropologia;
+
+Antropologia criminale;
+
+Biologia generale;
+
+Epistemologia;
+
+Filosofia;
+
+Filosofia della scienza;
+
+Filosofia del linguaggio;
+
+Fisiologia;
+
+Genetica;
+
+Glottologia;
+
+Istituzioni matematiche;
+
+Pedagogia;
+
+Psicologia applicata;
+
+Psicologia comparata;
+
+Psicologia dinamica;
+
+Psicologia industriale;
+
+Psicologia pedagogica;
+
+Psicologia sociale;
+
+Psicometria;
+
+Psicopatologia;
+
+Psicopedagogia;
+
+Sociologia;
+
+Statistica;
+
+Storia della psicologia;
+
+Storia della scienza;
+
+Tecnica dei metodi proiettivi;
+
+Tecnica dei tests.
+
+I candidati che avranno superato gli esami prescritti dal consiglio direttivo (complessivamente non meno di sci) e ottemperato all'obbligo dell'internato di due anni nell'istituto di psicologia sperimentale, saranno ammessi a discutere la tesi di perfezionamento, consistente in un contributo originale di argomento psicologico.
+
+Art. 260. - Titolo di ammissione al ramo di specializzazione in psicologia e' una delle lauree conferite dalla facolta' di magistero, lettere e filosofia, sociologia, giurisprudenza, scienze politiche, statistica, medicina, scienze matematiche, fisiche e naturali, ingegneria, agraria.
+
+Il numero dei candidati ammessi alla frequenza e' limitato al massimo di venti per anno.
+
+Le materie costitutive per ottenere il diploma di specializzazione in psicologia sono:
+
+Psicologia;
+
+Psicologia dell'eta' evolutiva;
+
+Psicologia dinamica;
+
+Psicologia industriale;
+
+Psicometria;
+
+Tecnica dei metodi proiettivi;
+
+Tecnica dei tests;
+
+Tecnica delle interviste e dell'orientamento professionale.
+
+Il curriculum degli studi sara' fissato dal consiglio della scuola per ogni singolo candidato e comprendera' oltre alle materie costitutive, altre discipline scelte fra le seguenti:
+
+Analisi motivazionale;
+
+Antropologia;
+
+Diagnostica psicologica;
+
+Istituzioni matematiche;
+
+Psicologia applicata;
+
+Psicologia medica;
+
+Psicologia pedagogica;
+
+Psicologia sociale;
+
+Psicopatologia;
+
+Psicopedagogia;
+
+Sociologia;
+
+Statistica.
+
+E' obbligatorio un internato di almeno due mesi in un centro di orientamento professionale o in un centro di psicologia applicata giudicato idoneo dal consiglio direttivo.
+
+Possono essere iscritti direttamente al secondo anno i candidati che data la laurea abbiano acquistato particolare competenza nelle applicazioni della psicologia.
+
+I candidati che avranno ottemperato all'obbligo della frequenza e dell'internato e superato gli esami prescritti dal consiglio direttivo (complessivamente non meno di dodici) saranno ammessi a discutere una tesi di specializzazione consistente in un contributo originale in una delle materie del ramo di specializzazione.
+
+Art. 261. - Le domande di iscrizione alla scuola di perfezionamento e specializzazione saranno vagliate dal consiglio della scuola, il quale predisporra' eventuali prove di accertamento e decidera' dell'accettazione dei candidati.
+
+Art. 262. - Le commissioni giudicatrici degli esami sono nominale dal direttore della scuola. Le commissioni giudicatrici degli esami di diploma di perfezionamento e di specializzazione sono nominate dal rettore e composte di sette membri tra cui il direttore della scuola che le presiede.
+
+Art; 263. - Il consiglio di amministrazione, su proposta della direzione della scuola, stabilisce di anno in anno l'ammontare dei contributi.
+
+Le tasse e soprattasse annuali che gli iscritti sono tenuti a versare sono le seguenti:
+
+tassa di immatricolazione . . . . . . . . . . . . . . . L. 5.000 tassa di iscrizione studenti in corso . . . . . . . . . " 18.000 soprattassa esami. . . . . . . . . . . . . . . . . . . . " 7.000 tassa di diploma . . . . . . . . . . . . . . . . . . . . " 6.000 Art. 264. - Il funzionamento della scuola e' a carico del bilancio della facolta' di magistero.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 3 aprile 1960
+Dato a Roma, addi' 29 settembre 1973
 
-GRONCHI
+LEONE
 
-MEDICI
+MALFATTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: ZAGARI
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 1 giugno 1960 Atti del Governo, registro n. 127, foglio n. 5. - VILLA
+alla Corte dei conti, addi' 22 dicembre 1973 Atti di Governo, registro n. 263, foglio n. 18. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito, nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), e modificato con [regio decreto 6 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-06;1847), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -638,345 +353,168 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-gli articoli dal n. 159 al 176, relativi alla Scuola storico-filosofica delle Venezie, sono soppressi e sostituiti dai seguenti, con il conseguente spostamento della successiva numerazione.  
+Art. 42, relativo all'elenco degli insegnamenti complementari del corso di laurea in scienze politiche, e' modificato nel senso che l'insegnamento di "storia della Chiesa" muta la denominazione in quella di "storia moderna e contemporanea della Chiesa e delle altre confessioni cristiane".  
+Art. 49, relativo all'elenco degli istituti annessi alla facolta' di scienze politiche, e' modificato nel senso che il comma contrassegnato con il n. 5) e' abrogato e sostituito dal seguente:  
+"5) Istituto di studi internazionali, comprendente i seminari di diritto internazionale e comunitario, economia internazionale, storia e politica internazionale, studi anglo-americani. Alle attivita' dell'istituto possono partecipare, nei limiti e nei modi stabiliti dal direttore, anche docenti e studiosi italiani e stranieri di dette discipline, pur non appartenenti all'Universita' di Padova".  
+Art. 102 - all'elenco degli istituti annessi alla facolta' di medicina e chirurgia e' aggiunto quello di:  
+Istituto di chirurgia cardiovascolare.  
+Art. 226, relativo alle tasse e contributi delle scuole di specializzazione e perfezionamento della facolta' di lettere e filosofia, e' modificato nel senso che il primo comma e' abrogato e sostituito dal seguente:  
+"Le tasse e soprattasse annuali a carico degli iscritti restano cosi' determinate:  
+tassa di iscrizione per studenti di corso. . . . . . . L. 11.000 tassa di iscrizione per studenti fuori corso. . . . . . L. 5.000 soprattassa esami . . . . . . . . . . . . . . . . . . . . L. 400 Il consiglio di amministrazione dell'Universita', su proposta del senato accademico, udito il consiglio della facolta' di lettere e filosofia, stabilira' di anno in anno l'ammontare dei contributi".  
+Art. 244, relativo alla scuola speciale per storici dell'arte medioevale e moderna e conservatori dei beni artistici, e' modificato nel senso che il seguente comma:  
+"gli iscritti alla scuola sono tenuti a versare le tasse e soprattasse e contributi secondo le disposizioni vigenti per gli studenti della facolta' di lettere e filosofia", e' abrogato e sostituito dal seguente:  
+"Le tasse e soprattasse annuali a carico degli iscritti restano cosi' determinate:  
+tassa di iscrizione per studenti di corso. . . . . . . L. 11.000 tassa di iscrizione per studenti fuoricorso . . . . . . L. 5.000 soprattassa esami . . . . . . . . . . . . . . . . . . . . L. 400 Il consiglio di amministrazione dell'Universita', su proposta del senato accademico, udito il consiglio della facolta' di lettere e filosofia, stabilira' di anno in anno l'ammontare dei contributi".  
+Gli articoli da 245 a 255, relativi alla scuola di perfezionamento nelle discipline pedagogiche e psicologiche, sono soppressi e sostituiti dai seguenti relativi alla istituzione delle scuole di perfezionamento in "discipline pedagogiche" e in "psicologia", con il conseguente spostamento della numerazione degli articoli successivi.  
   
-Scuole di perfezionamento e di specializzazione  
+TITOLO XVI  
+FACOLTA' DI MAGISTERO  
   
-Art. 159. - Le Scuole di perfezionamento e di specializzazione dipendenti dalla Facolta' sono le seguenti:  
-1. Scuola di perfezionamento in Filosofia;  
-2. Scuola di perfezionamento in Filologia classica;  
-3. Scuola di perfezionamento in filologia moderna;  
-4. Scuola di perfezionamento in Glottologia;  
-5. Scuola di perfezionamento in Filologia slava e balcanica;  
-6. Scuola di perfezionamento in Storia antica;  
-7. Scuola di perfezionamento in Storia medioevale e moderna;  
-8. Scuola di perfezionamento in Geografia;  
-9. Scuola di perfezionamento in Storia dell'arte;  
-10. Scuola di perfezionamento in Storia delle religioni;  
-11. Scuola di specializzazione per archivisti;  
-12. Scuola di specializzazione per bibliotecari.  
-Dette scuole, salvo particolari disposizioni indicate a suo luogo, sono di durata biennale.  
-Le materie costitutive di ciascuna scuola sono distinte in fondamentali, fra le quali il perfezionando sceglie la materia centrale di perfezionamento, e integrative della sua preparazione speciale.  
-Art. 160. - Ogni scuola e' retta da un direttore - scelto, sempre che possibile, fra i professori di ruolo a fuori ruolo delle corrispondenti materie fondamentali, nominato dal rettore su designazione della Facolta' - e da un Consiglio composto dai professori ufficiali delle materie costitutive.  
-Art. 161. - Le iscrizioni al perfezionamento nelle varie scuole e nelle singole materie previste dal presente statuto sono subordinate all'effettivo funzionamento delle scuole stesse.  
-Gli aspiranti all'iscrizione per venire ammessi, oltre che essere muniti dei titoli di studio per ciascuna prescritti, devono sostenere una prova preliminare di traduzione a vista da almeno due delle seguenti lingue moderne: francese, inglese e tedesco.  
-Possono essere ammessi alle singole scuole anche perfezionandi muniti di titoli di studio stranieri, purche' riconosciuti dallo Stato italiano e ritenuti equipollenti dal Consiglio della scuola.  
-Entro il 31 dicembre del primo anno di corso essi devono notificare alla segreteria la materia prescelta come centrale, dopo presi i necessari contatti con il professore della materia stessa e ottenuto il benestare suo e del direttore della scuola.  
-Art. 162. - I perfezionandi sono tenuti anzitutto alla frequenza regolare e alla partecipazione attiva alle conferenze colloquio del titolare della materia prescelta come centrale ed a partecipare assiduamente alla vita dell'Istituto. Inoltre essi devono frequentare i corsi, le esercitazioni e le altre attivita' organizzate dalla scuola e sostenere le eventuali prove scritte orali e pratiche se e come verranno prescritte e consigliate dall'ordine annuale degli studi delle singole scuole.  
-L'argomento per la tesi di diploma e la scelta delle materie integrative devono essere concordati con il professore della materia con cui si intende compiere il perfezionamento e approvati dal direttore della scuola.  
-Art. 163. - Per ottenere il diploma di perfezionamento, salvo diverse speciali indicazioni, gli studenti devono presentare e discutere una memoria originale scritta, frutto degli studi compiuti durante il corso di perfezionamento.  
-Sul diploma, oltre la scuola che lo rilascia, sara' indicata la materia particolare, scelta come centrale, nella quale e' stato concesso il perfezionamento.  
-Art. 164. - La Commissione per gli esami di profitto (o esami speciali) e' presieduta dal professore ufficiale della materia, assistito da un professore ufficiale di materia affine e da un libero docente o assistente o cultore della materia.  
-La nomina delle Commissioni per gli esami di profitto (o speciali), e' di competenza del direttore di ogni singola scuola, udito il parere del preside della Facolta'.  
-Art. 165. - La Commissione per gli esami di diploma e' costituita da sette membri scelti fra i professori ufficiali di materie insegnate nella scuola frequentata dal candidato, tra i professori ufficiali di materie insegnate in scuole affini, tra i liberi docenti e i cultori di dette materie. Essa e' presieduta dal preside di Facolta'.  
-La nomina della Commissione per gli esami di diploma e' di competenza del preside della Facolta'.  
-Art. 166. - Le tasse e contributi che gli iscritti dovranno pagare per conseguire il diploma di specializzazione sono fissate dal Consiglio di amministrazione, su proposta del Senato accademico, udito il Consiglio della Facolta' di lettere e filosofia.  
-La tassa di diploma e' stabilita dall'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).  
+SCUOLE DI PERFEZIONAMENTO E DI SPECIALIZZAZIONE  
   
-Disposizione transitoria  
+Art. 245. - Alla facolta' di magistero sono annesse le seguenti scuole di perfezionamento e specializzazione:  
+1) Scuola di perfezionamento e specializzazione nelle discipline pedagogiche;  
+2) Scuola di perfezionamento e specializzazione in psicologia.  
   
-All'entrata in vigore del presente statuto, i perfezionandi iscritti da almeno un anno ai corsi della cessata Scuola storico-filologica delle Venezie, potranno completare i loro studi secondo le vecchie disposizioni, oppure chiedere il passaggio alla nuova scuola corrispondente secondo il presente statuto, presentando apposita domanda al direttore della scuola interessata.  
+Scuola di perfezionamento e di specializzazione nelle discipline pedagogiche  
   
-Scuola di perfezionamento in Filosofia  
-  
-Art. 167. - Oltre curare il perfezionamento nelle singole discipline filosofiche, la scuola si propone di promuovere studi speciali in rapporto a particolari interessi culturali e filosofici della Regione veneta (ad es. studi averroistici, studi rosminiani, ecc.) stabilendo eventualmente rapporti con enti o istituti che sorgano nella Regione fuori dell'ambito universitario.  
-Sono titoli di ammissione alla Scuola le seguenti lauree: in Lettere, in Filosofia, in Materie letterarie, in Pedagogia, in Giurisprudenza, in Scienze politiche, in Medicina e chirurgia, in Ingegneria, Scienze matematiche, fisiche e naturali e in Architettura.  
-  
-Materie fondamentali:  
-Storia della filosofia;  
-Filosofia teoretica;  
-Filosofia morale;  
+Art. 246. - La scuola di perfezionamento e di specializzazione nelle discipline pedagogiche ha lo scopo di promuovere gli studi nelle discipline pedagogiche e di creare degli specialisti tecnici operatori nella materia.  
+Art. 247. - La scuola ha la durata di due anni.  
+Art. 248. - La scuola e' retta da un direttore coadiuvato da un consiglio.  
+Il direttore della scuola e' nominato dal rettore su designazione del consiglio di facolta' di magistero.  
+Il consiglio della scuola e' composto dai professori che vi tengono insegnamenti.  
+Art. 249 - Il rettore, su proposta del consiglio della scuola, determina, di anno in anno, quali corsi debbono funzionare.  
+Art. 250. - Alla scuola di perfezionamento e di specializzazione nelle discipline pedagogiche, possono iscriversi i laureati nelle facolta' di lettere e filosofia, magistero e lingue.  
+Il numero dei candidati ammessi alla frequenza e' limitato ad un massimo di dodici all'anno. Le materie costitutive per conseguire il diploma della scuola sono:  
 Pedagogia;  
-Psicologia;  
-Estetica;  
-Storia della filosofia antica;  
-Storia della filosofia medioevale;  
-Filosofia della storia;  
-Filosofia della religione;  
-Filosofia della tecnica;  
-Relazioni umane;  
-Prova scritta di Filosofia.  
-Materie integrative:  
-Storia delle religioni;  
-Storia delle dottrine politiche;  
-Filosofia del diritto.  
-  
-Scuola di perfezionamento in Filologia classica  
-  
-Art. 168. - E' titolo di ammissione alla scuola la laurea in Lettere.  
-  
-Materie fondamentali:  
-Letteratura greca;  
-Letteratura latina;  
-Filologia bizantina;  
-Letteratura cristiana antica;  
-Storia della letteratura latina medioevale;  
-Grammatica greca e latina.  
-Materie integrative:  
-Storia comparata delle lingue classiche;  
-Glottologia;  
-Filologia greco-latina;  
-Storia orientale antica;  
-Storia greca;  
-Storia romana;  
-Antichita' greche e romane;  
-Storia delle religioni;  
-Storia del diritto romano;  
-Papirologia;  
-Paleografia.  
-Nella prova preliminare di traduzione a vista di due lingue straniere deve essere in ogni caso compresa la lingua tedesca. Alla fine del biennio il perfezionando sosterra' un esame scritto consistente in una composizione latina oppure in una traduzione dal greco in latino, senza vocabolario.  
-  
-Scuola di perfezionamento in Filologia moderna  
-  
-Art. 169. - La scuola ha lo scopo di promuovere sia la formazione scientifica che il perfezionamento didattico dei laureati. Si distingue percio' in due corsi: il 1° triennale per la formazione di studiosi specialisti nelle letterature moderne; il 2° biennale per il perfezionamento dei laureati che intendono dedicarsi all'insegnamento delle lingue e letterature straniere nei vari tipi di istituti medi e superiori.  
-Sono ammessi alla scuola i laureati in Lettere e filosofia, in Lingue e letterature moderne, in Materie letterarie. Il direttore della scuola potra' caso per caso, decidere dell'ammissione di laureati con titoli simili ed equipollenti.  
-La Scuola raggruppa e coordina a tale scopo i seguenti insegnamenti:  
-  
-Materie fondamentali:  
-Letteratura italiana;  
-Letteratura italiana moderna e contemporanea;  
-Storia della lingua italiana;  
-Filologia romanza;  
-Letteratura francese;  
-Letteratura inglese;  
-Letteratura tedesca;  
-Letteratura spagnola;  
-Letteratura portoghese;  
-Letteratura delle tradizioni popolari.  
-Materie integrative:  
-Letterature comprese nella Scuola di perfezionamento in Filologia slava e balcanica;  
-Storia della letteratura latina medioevale;  
-Filologia germanica;  
-Glottologia;  
-Paleografia;  
-Estetica.  
-Gli aspiranti ai due perfezionamenti dovranno frequentare le lezioni ed esercitazioni secondo un piano fissato per ognuno di loro dal professore della materia di perfezionamento e approvato dal direttore.  
-Gli iscritti al perfezionamento scientifico al principio del 1° e 2° anno dovranno scegliere, d'accordo con i professori, un tema da trattare per iscritto che servira' di base all'esame al termine di ogni corso.  
-Oltre che nella discussione della tesi scritta tale esame consistera' nell'accertamento teorico e pratico della progressiva preparazione del candidato, ed e' obbligatorio per il passaggio al corso successivo.  
-I lavori assegnati nel 1° e 2° anno, possono avere carattere preliminare e preparatorio della tesi di diploma che sara' discussa al termine del triennio.  
-Il Consiglio della scuola puo' concedere l'abbreviazione di un anno per il conseguimento del diploma quando il perfezionando abbia gia' frequentato analoghe scuole, o quando dimostri speciale maturita' e preparazione.  
-Gli aspiranti al perfezionamento didattico dovranno seguire i corsi e le esercitazioni nella lingua e nella letteratura scelta e in quelle particolarmente affini indicate dalla Direzione della scuola; su consiglio dei professori, quei corsi e quelle esercitazioni che possono meglio introdurli alla conoscenza dei vari aspetti della storia e della civilta' dei popoli di cui studiano la lingua e la letteratura. Per ottenere il diploma, alla fine del 10 anno dovranno superare esami scritti ed orali nella lingua e letteratura prescelta e almeno in tre altre materie consigliate. Per accedere all'esame di diploma i candidati dovranno aver trascorso un periodo di almeno tre mesi nel Paese della lingua prescelta, e aver ivi compiuto studi ed esercitazioni presso istituti qualificati che saranno di volta in volta consigliati dal professore competente. L'esame di diploma consistera' in prove scritte e orali di cultura generale, con particolare riguardo alla lingua e letteratura prescelta in rapporto anche alla civilta', italiana. Tali prove saranno modellate su quelle stabilite per gli esami di concorso e abilitazione per l'insegnamento delle varie lingue negli istituti medi superiori.  
-  
-Scuola di perfezionamento in Glottologia  
-  
-Art. 170. - Sono titoli di ammissione alla Scuola le seguenti lauree: in Lettere, in Lingue e letterature straniere (europee ed orientali), in Materie letterarie (limitatamente al perfezionamento in Linguistica moderna), in Medicina e diploma di specializzazione in Otorinolaringoiatria (limitatamente ad un perfezionamento in Fonetica sperimentale).  
-  
-Sono materie fondamentali:  
-Glottologia;  
-Storia comparata delle lingue classiche;  
-Filologia romanza;  
-Filologia germanica;  
-Filologia slava;  
-Storia della lingua italiana;  
-Fonetica sperimentale;  
-Prova scritta di analisi linguistica di un testo.  
-Sono materie integrative:  
-Sanscrito;  
-Grammatica greca e latina;  
-Lingue orientali.  
-Nella prova preliminare di traduzione a vista deve essere in ogni caso compresa la lingua tedesca.  
-  
-Scuola di perfezionamento in Filologia slava e balcanica  
-  
-Art. 171. - Sono titoli di ammissione alla Scuola le seguenti lauree: in Lettere, in Filosofia, in Lingue e letterature moderne, in Materie letterarie.  
-  
-Sono materie fondamentali:  
-Lingua e letteratura russa;  
-Lingua e letteratura croata;  
-Lingua e letteratura ceca e slovacca;  
-Lingua e letteratura bulgara;  
-Lingua e letteratura serbo-croata;  
-Lingua e letteratura slovena;  
-Lingua e letteratura rumena;  
-Lingua e letteratura albanese;  
-Lingua e letteratura neo-greca;  
-Filologia bizantina;  
-Lingua e letteratura turca;  
-Lingua e letteratura ungherese.  
-Sono materie integrative:  
-Glottologia;  
-Archeologia cristiana;  
-Paleografia.  
-Oltre alla prova preliminare di traduzione a vista da almeno due lingue moderne (francese, inglese, tedesco) e' prescritta una prova preliminare di traduzione a vista da due delle lingue comprese nelle materie fondamentali di questa Scuola.  
-Per le prove scritte si osservano le disposizioni stabilite per la scuola di perfezionamento in Filologia moderna.  
-  
-Scuola di perfezionamento in Storia antica  
-  
-Art. 172. - Sono titoli di ammissione le seguenti lauree: in Lettere, in Filosofia, in Giurisprudenza.  
-  
-Sono materie fondamentali:  
-Storia orientale antica;  
-Storia greca;  
-Storia romana;  
-Antichita' greche e romane.  
-Sono materie integrative:  
-Letteratura latina;  
-Letteratura greca;  
-Numismatica antica;  
-Archeologia e storia dell'arte greca e romana;  
-Paletnologia;  
-Storia del diritto romano;  
-Istituzioni di diritto romano;  
-Filosofia della storia.  
-  
-In linea di massima gli iscritti dovranno sostenere i seguenti esami ripartiti in due anni: Storia romana, Storia greca, Antichita' greche e romane, Storia orientale antica.  
-Nel caso che nel giro di due anni uno di tale insegnamenti taccia, gli iscritti sosterranno un esame integrativo scelto di concerto con il professore delle materie di perfezionamento e approvato dal direttore.  
-Nella prova preliminare di traduzione a vista deve essere compresa in ogni caso la lingua tedesca.  
-  
-Scuola di perfezionamento  
-in Storia medioevale e moderna  
-  
-Art. 173. - Sono titoli di ammissione la laurea in Lettere, in Filosofia, in Giurisprudenza, in Scienze politiche, in Materie letterarie.  
-  
-Sono materie fondamentali:  
-Storia medioevale;  
-Storia moderna;  
-Storia del Risorgimento.  
-Sono materie integrative:  
-Storia greca;  
-Storia romana;  
-Paleografia e diplomatica;  
-Storia e geografia dell'Asia orientale;  
-Geografia storica;  
-Storia della geografia;  
-Storia del diritto italiano;  
-Storia delle dottrine politiche;  
-Storia dei trattati e politica internazionale;  
-Storia della filosofia.  
-  
-Scuola di perfezionamento in Geografia  
-  
-Art. 174. - Sono titoli di ammissione le seguenti lauree: in Lettere, in Scienze naturali, in Scienze geologiche, in Scienze politiche, in Economia e commercio in Materie letterarie, in Lingue e letterature straniere.  
-  
-Sono materie fondamentali:  
-Geografia;  
-Geografia fisica;  
-Geografia politica ed economica;  
-Geologia:  
-Antropologia Etnologia.  
-Sono materie integrative:  
-Geografia storica;  
-Storia della geografia;  
-Paletnologia;  
-Storia delle religioni;  
-Paleografia e diplomatica;  
-Storia e geografia dei Paesi del Levante;  
-Storia e geografia dell'Asia orientale;  
-Storia delle esplorazioni geografiche;  
-Geografia della regione mediterranea;  
-Paleontologia;  
-Fisica terrestre;  
-Biogeografia;  
-Topografia e cartografia;  
-Geodesia;  
-Oceanografia;  
-Vulcanologia;  
-Demografia;  
-Storia delle dottrine economiche;  
-Economia coloniale;  
-Geografia ed etnografia coloniale.  
-Per la scelta delle materie integrative, saranno consultati i vari piani di studio a seconda della laurea di provenienza.  
-I laureati di cui alle lauree elencate al comma primo, i quali durante i rispettivi corsi di studio abbiano gia' frequentato, superando i rispettivi esami, alcuni insegnamenti che dal Consiglio della Facolta' siano giudicati equipollenti all'insegnamento impartito nel corso della Scuola di perfezionamento, potranno essere ammessi al secondo anno di perfezionamento.  
-  
-Scuola di perfezionamento in Storia dell'arte  
-  
-Art. 175. - La Scuola si distingue in due corsi: il primo triennale, scientifico, per la formazione di specialisti nella materia; il secondo biennale, professionale, per la preparazione degli insegnanti di Storia dell'arte nei vari tipi di Istituti medi e superiori per i quali e' prescritto detto insegnamento, e di conseguenza rilascia due distinti diplomi di perfezionamento.  
-La Scuola raggruppa e coordina a tale scopo i seguenti insegnamenti:  
-  
-Materie fondamentali:  
-Archeologia e storia dell'arte greca e romana;  
-Archeologia cristiana;  
-Storia dell'arte medioevale;  
-Storia dell'arte moderna.  
-Materie integrative:  
-Estetica;  
-Storia dell'arte mussulmana e copta;  
-Storia dell'arte del medio ed estremo oriente;  
-Numismatica;  
-Paleografia e diplomatica.  
-Sono ammessi alla Scuola per il perfezionamento scientifico i laureati in Lettere, in Materie letterarie, in Architettura, in Ingegneria civile.  
-Sono ammessi al perfezionamento professionale gli aspiranti muniti dei titoli previsti per l'ammissione ai concorsi e abilitazione per l'insegnamento della Storia dell'arte nei vari tipi di istituti medi e superiori per i quali e' previsto detto insegnamento.  
-Art. 176. - Gli aspiranti al perfezionamento scientifico nei primi due anni devono frequentare le lezioni ed esercitazioni degli insegnamenti costitutivi della Scuola che saranno loro prescritti e consigliati dal direttore e partecipare in quanto possibile agli eventuali sopraluoghi e viaggi di studio.  
-Inoltre, al principio rispettivamente del primo e del secondo anno, ciascun iscritto dovra' scegliere, d'accordo con i professori, un tema di storia dell'arte, in campi fra loro diversi, da trattare in forma di tesi scritta e che servira' di base d'esame al termine del corrispondente anno di corso.  
-Questo esame, oltre che nella discussione della tesi scritta, consistera' nell'accertamento teorico e pratico della progressiva preparazione del candidato. La tesi del secondo anno puo' avere carattere preliminare per la tesi di diploma.  
-Non e' ammesso il passaggio all'anno successivo senza avere superato l'esame dell'anno precedente.  
-Nel terzo anno i perfezionandi dovranno attendere particolarmente alla preparazione della tesi finale e, per quanto possibile, a viaggi di istruzione. Percio' agli effetti amministrativi, non sara' considerato anno di frequenza.  
-Al termine del triennio, per conseguire il diploma, il perfezionando presentera' e discutera' la tesi scritta sopra detta su argomento approvato dal titolare della materia centrale da lui scelta per il perfezionamento.  
-Per i perfezionandi in Archeologia e storia dell'arte greca e romana le materie integra uve saranno stabilite per ciascun candidato anche al di fuori delle discipline della Scuola.  
-Il Consiglio della scuola puo' concedere l'abbreviazione di un anno per il conseguimento del diploma quando riconosce la speciale maturita' del perfezionando.  
-I laureati che abbiano frequentato in tutto o in parte scuole di perfezionamento in Archeologia o in Storia dell'arte ritenute equipollenti dal Consiglio della scuola, possono essere ammessi al secondo o terzo corso con un piano di studio stabilito di volta in volta dal Consiglio stesso.  
-Art. 177. - Gli aspiranti al perfezionamento professionale, durante il biennio, dovranno seguire i corsi e le eventuali esercitazioni delle seguenti materie:  
-Archeologia e storia dell'arte greca e romana;  
-Archeologia cristiana;  
-Storia dell'arte medioevale;  
-Storia dell'arte moderna;  
-Estetica.  
-In particolare dovranno seguire regolarmente ogni anno, come fondamentali ed obbligatorie, le conferenze colloquio di almeno due delle materie storico-artistiche ricordate, in modo che nel biennio siano seguite almeno una volta le conferenze-colloquio di tutte le dette materie.  
-Per ottenere il diploma essi, alla fine del primo anno dovranno superare un esame di cultura generale nelle seguenti materie:  
-Estetica, Archeologia e storia dell'arte greca e romana, Archeologia cristiana; alla fine del secondo anno poi dovranno sostenere una prova didattica consistente in una lezione su tema scelto fra tre assegnato ventiquattro ore prima, ed un esame di cultura generale con particolare riguardo alla Storia dell'arte medioevale e moderna, davanti al Collegio dei professori ufficiali della Sezione, modellato sui programmi in vigore per gli esami di concorso e di abilitazione per l'insegnamento della Storia, dell'arte negli Istituti medi superiori.  
-  
-Scuola di perfezionamento in Storia delle religioni  
-  
-Art. 178. - Sono titoli di ammissione le seguenti lauree: in Lettere, in Filosofia, in Giurisprudenza, in Scienze politiche e in Scienze naturali.  
-  
-Sono materie fondamentali:  
-Storia delle religioni;  
-Storia del cristianesimo;  
-Filosofia della religione.  
-Sono materie integrative:  
-Paletnologia;  
-Etnologia;  
-Letteratura delle tradizioni popolari;  
-Ebraico e lingue semitiche comparate;  
-Antichita' greche e romane;  
-Archeologia e storia dell'arte greca e romana;  
-Letteratura greca;  
-Letteratura latina;  
-Filologia bizantina;  
-Letteratura cristiana antica;  
-Archeologia cristiana;  
+Storia delle istituzioni scolastiche;  
+Metodologia e didattica generale;  
+Didattica dei mezzi audiovisivi;  
+Pedagogia sperimentale.  
+Il curriculum degli studi di ogni singolo candidato sara' fissato dal consiglio della scuola a completamento del corso di studi precedentemente seguito, e comprendera', oltre alle materie costitutive, altre discipline scelte tra le seguenti:  
+Psicopedagogia;  
+Storia della pedagogia;  
+Psicologia dell'eta' evolutiva;  
+Sociologia;  
+Tirocinio didattico (con esercitazioni);  
+Pedagogia comparata;  
+Pedagogia familiare;  
+Pedagogia degli adulti;  
+Pedagogia del tempo libero;  
+Storia e critica della letteratura per l'infanzia;  
+Legislazione scolastica comparata;  
+Didattica particolare;  
+Educazione sanitaria;  
+Educazione fisica;  
 Storia della filosofia;  
-Filosofia morale.  
-Il perfezionando deve frequentare per due anni il corso di Storia delle religioni e per un anno quello di quattro materie integrative scelte fra quelle previste dall'elenco della Scuola o anche altre della Facolta' di Lettere e di altre Facolta', quando lo richieda la natura delle indagini propostesi.  
-Alla fine del primo anno vanno superati gli esami nelle quattro materie integrative, su programma speciale assegnato dai singoli titolari a ciascun perfezionando.  
-Alla fine del secondo anno, prima di essere ammesso alla discussione della tesi di diploma, il perfezionando deve superare un esame di cultura generale in storia delle religioni.  
+Estetica;  
+Orientamenti scolastici e professionali;  
+Tecnica ed organizzazione di centri di lettura e di centri culturali;  
+Tecniche della valutazione scolastica e docimologia.  
+Altri insegnamenti e corsi di conferenze a carattere interpretativo potranno essere istituiti di anno in anno per deliberazione del consiglio direttivo.  
+I candidati che avranno superato gli esami prescritti (in numero non inferiore a otto) saranno ammessi a discutere una tesi di perfezionamento consistente in un contributo originale di argomento attinente ai seguenti settori:  
+1) Pedagogia generale;  
+2) Pedagogia sperimentale;  
+3) Pedagogia speciale;  
+4) Educazione familiare e sessuale;  
+5) Istituzioni scolastiche e comunita' educativa;  
+6) Attivita' giovanili;  
+7) Comunicazioni di massa.  
+Art. 251. - Le domande di iscrizione alla scuola di perfezionamento e di specializzazione saranno vagliate dal consiglio della scuola, il quale predisporra' eventuali prove di accertamento e decidera' dell'accettazione dei candidati.  
+Art. 252. - Le commissioni giudicatrici degli esami sono nominate dal direttore della scuola. Le commissioni giudicatrici degli esami di diploma di perfezionamento e specializzazione sono nominate dal rettore e composte di sette membri tra cui il direttore della scuola che le presiede.  
+Art. 253. - Il consiglio di amministrazione, su proposta della direzione della scuola, stabilisce di anno in anno l'ammontare dei contributi.  
+Le tasse e soprattasse annuali che gli iscritti sono tenuti a versare sono le seguenti:  
+tassa di immatricolazione . . . . . . . . . . . . . . . L. 5.000 tassa iscrizione studenti di corso. . . . . . . . . . . " 18.000 soprattassa esami. . . . . . . . . . . . . . . . . . . . " 7.000 tassa di diploma . . . . . . . . . . . . . . . . . . . . " 6.000 Art. 254. - Il funzionamento della scuola e' a carico del bilancio della facolta' di magistero.  
   
-Scuola di specializzazione per archivisti  
+Scuola di perfezionamento e di specializzazione in psicologia  
   
-Art. 179. - Titolo di ammissione alla Scuola e' la laurea in Lettere o in Giurisprudenza o in Materie letterarie.  
-Nel primo anno gli iscritti debbono frequentare i corsi e superare gli esami delle seguenti discipline: Archivistica, Bibliografia, Biblioteconomia, Dialetti veneti medioevali, Latino medioevale, Paleografia e diplomatica, Storia ed istituzioni di Venezia.  
-Nel secondo anno gli iscritti debbono compiere un tirocinio presso un archivio designato dal direttore della scuola, con esercitazioni dirette dal professore, di Archivistica; alla fine devono superare una prova pratica di ricerca archivistica.  
-In questa prova i candidati dovranno dimostrare di conoscere la lingua francese e la lingua tedesca o inglese.  
-Per conseguire il diploma di archivista, gli aspiranti debbono, dopo aver assolti gli obblighi determinati dai precedenti commi, presentare e discutere una dissertazione scritta sopra una delle discipline costitutive del perfezionamento, scelta di concerto con il direttore della scuola.  
-  
-Scuola di specializzazione per bibliotecari  
-  
-Art. 180. - Titolo di ammissione alla Scuola e' una qualsiasi laurea conseguita presso una Universita' o Istituto superiore universitario.  
-La Scuola puo' articolarsi su due indirizzi: letterario o scientifico.  
-L'ammissione ad uno o all'altro degli indirizzi e' demandata al Consiglio della scuola, tenuto conto del diploma di laurea in possesso dell'aspirante.  
-Il Consiglio della scuola si riserva di indicare eventuali materie complementari secondo l'indirizzo prescelto dall'aspirante.  
-Gli aspiranti al diploma di bibliotecario nel primo anno della Scuola debbono frequentare i corsi e superare gli esami delle seguenti discipline:  
-Bibliografia;  
-Biblioteconomia;  
-Paleografia;  
-Storia e istituzioni di Venezia;  
-Latino medioevale;  
-Dialetti veneti medioevali;  
-Aspetti artistici del libro.  
-  
-Nel secondo anno della Scuola essi debbono compiere un tirocinio in una biblioteca designata dal direttore della scuola, con esercitazioni dirette dal professore di Biblioteconomia, e alla fine superare una prova pratica di catalogazione e classificazione di libri e una prova pratica di ricerca bibliografica. In queste prove i candidati dovranno dimostrare di conoscere la lingua francese e di saper usare repertori inglesi e tedeschi; potranno anche dare saggio di catalogazione di opere scritte in una lingua slava od orientale.  
-Per conseguire il diploma di bibliotecario gli aspiranti debbono aver assolto gli obblighi determinati dal precedente comma, presentare e discutere una dissertazione sopra una delle discipline costitutive del perfezionamento.  
+Art. 255. - La scuola di perfezionamento e di specializzazione in psicologia ha lo scopo di promuovere gli studi nelle discipline psicologiche e di creare degli specialisti nelle applicazioni industriali e sociali della psicologia.  
+Art. 256. - La scuola comprende:  
+a) un ramo di perfezionamento in psicologia, destinato ad accogliere persone che vogliono approfondire la loro preparazione psicologica e orientarsi verso la attivita' di ricerca;  
+b) un ramo di specializzazione in psicologia, che prepara persone che intendono svolgere professionalmente la loro attivita' nel campo della psicologia applicata.  
+Art. 257. - La scuola ha la durata di due anni.  
+Art. 258. - La scuola e' retta da un direttore coadiuvato da un consiglio.  
+Il direttore della scuola e' nominato dal rettore su designazione del consiglio della facolta' di magistero.  
+Il consiglio della scuola e' composto dei professori universitari di ruolo che vi tengono insegnamenti.  
+Art. 259. - Titolo di ammissione al ramo di perfezionamento in psicologia e' una delle lauree conferite dalla facolta' di magistero, lettere e filosofia, sociologia, giurisprudenza, scienze matematiche, fisiche e naturali, medicina.  
+Il numero dei candidati ammessi alla frequenza e' limitato ad un massimo di sei per anno.  
+Le materie costitutive per conseguire il diploma in perfezionamento in psicologia sono:  
+Metodologia delle scienze del comportamento;  
+Psicologia;  
+Psicologia dell'eta' evolutiva.  
+Il curriculum degli studi di ogni singolo candidato sara' fissato dal consiglio della scuola a completamento del corso di studi precedentemente seguito, e comprendera', oltre alle materie costitutive, altre discipline scelte fra le seguenti:  
+Anatomia;  
+Antropologia;  
+Antropologia criminale;  
+Biologia generale;  
+Epistemologia;  
+Filosofia;  
+Filosofia della scienza;  
+Filosofia del linguaggio;  
+Fisiologia;  
+Genetica;  
+Glottologia;  
+Istituzioni matematiche;  
+Pedagogia;  
+Psicologia applicata;  
+Psicologia comparata;  
+Psicologia dinamica;  
+Psicologia industriale;  
+Psicologia pedagogica;  
+Psicologia sociale;  
+Psicometria;  
+Psicopatologia;  
+Psicopedagogia;  
+Sociologia;  
+Statistica;  
+Storia della psicologia;  
+Storia della scienza;  
+Tecnica dei metodi proiettivi;  
+Tecnica dei tests.  
+I candidati che avranno superato gli esami prescritti dal consiglio direttivo (complessivamente non meno di sci) e ottemperato all'obbligo dell'internato di due anni nell'istituto di psicologia sperimentale, saranno ammessi a discutere la tesi di perfezionamento, consistente in un contributo originale di argomento psicologico.  
+Art. 260. - Titolo di ammissione al ramo di specializzazione in psicologia e' una delle lauree conferite dalla facolta' di magistero, lettere e filosofia, sociologia, giurisprudenza, scienze politiche, statistica, medicina, scienze matematiche, fisiche e naturali, ingegneria, agraria.  
+Il numero dei candidati ammessi alla frequenza e' limitato al massimo di venti per anno.  
+Le materie costitutive per ottenere il diploma di specializzazione in psicologia sono:  
+Psicologia;  
+Psicologia dell'eta' evolutiva;  
+Psicologia dinamica;  
+Psicologia industriale;  
+Psicometria;  
+Tecnica dei metodi proiettivi;  
+Tecnica dei tests;  
+Tecnica delle interviste e dell'orientamento professionale.  
+Il curriculum degli studi sara' fissato dal consiglio della scuola per ogni singolo candidato e comprendera' oltre alle materie costitutive, altre discipline scelte fra le seguenti:  
+Analisi motivazionale;  
+Antropologia;  
+Diagnostica psicologica;  
+Istituzioni matematiche;  
+Psicologia applicata;  
+Psicologia medica;  
+Psicologia pedagogica;  
+Psicologia sociale;  
+Psicopatologia;  
+Psicopedagogia;  
+Sociologia;  
+Statistica.  
+E' obbligatorio un internato di almeno due mesi in un centro di orientamento professionale o in un centro di psicologia applicata giudicato idoneo dal consiglio direttivo.  
+Possono essere iscritti direttamente al secondo anno i candidati che data la laurea abbiano acquistato particolare competenza nelle applicazioni della psicologia.  
+I candidati che avranno ottemperato all'obbligo della frequenza e dell'internato e superato gli esami prescritti dal consiglio direttivo (complessivamente non meno di dodici) saranno ammessi a discutere una tesi di specializzazione consistente in un contributo originale in una delle materie del ramo di specializzazione.  
+Art. 261. - Le domande di iscrizione alla scuola di perfezionamento e specializzazione saranno vagliate dal consiglio della scuola, il quale predisporra' eventuali prove di accertamento e decidera' dell'accettazione dei candidati.  
+Art. 262. - Le commissioni giudicatrici degli esami sono nominale dal direttore della scuola. Le commissioni giudicatrici degli esami di diploma di perfezionamento e di specializzazione sono nominate dal rettore e composte di sette membri tra cui il direttore della scuola che le presiede.  
+Art; 263. - Il consiglio di amministrazione, su proposta della direzione della scuola, stabilisce di anno in anno l'ammontare dei contributi.  
+Le tasse e soprattasse annuali che gli iscritti sono tenuti a versare sono le seguenti:  
+tassa di immatricolazione . . . . . . . . . . . . . . . L. 5.000 tassa di iscrizione studenti in corso . . . . . . . . . " 18.000 soprattassa esami. . . . . . . . . . . . . . . . . . . . " 7.000 tassa di diploma . . . . . . . . . . . . . . . . . . . . " 6.000 Art. 264. - Il funzionamento della scuola e' a carico del bilancio della facolta' di magistero.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 aprile 1960
+### Dato a Roma, addi' 29 settembre 1973
 
-GRONCHI MEDICI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 1 giugno 1960
+Registrato alla Corte dei conti, addi' 22 dicembre 1973
 
-Atti del Governo, registro n. 127, foglio n. 5. - VILLA
+Atti di Governo, registro n. 263, foglio n. 18. - CARUSO

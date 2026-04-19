@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1984 n. 1149
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 novembre 1985 n. 994
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1984 n. 1149
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 novembre 1985 n. 994
+===============================================================
 
 Autorizzazione all'Associazione nazionale mutilati ed invalidi del lavoro, in Roma, ad acquistare un immobile.
 --------------------------------------------------------------------------------------------------------------
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-1149. Decreto del Presidente della Repubblica 5 dicembre 1984, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Associazione nazionale mutilati ed invalidi del lavoro, in Roma, viene autorizzata ad acquistare, al prezzo di lire 74.500.000, i locali di mq 394 al pianoterra dello stabile sito in Pistoia, via Zamenhoff, costruito su terreno censito al nuovo catasto terreni al foglio 220, mappali 445, 446, 447, 448 e 552, di proprieta' del sig.  
-Raffaello Monfardini, come da atto di compravendita sottoposto a condizione sospensiva 18 gennaio 1975, n. 15144 di repertorio, a rogito dott. Raffaele Marchitelli, notaio in Pistoia, registrato a Pistoia in data 4 marzo 1975 al n. 659.   
+994. Decreto del Presidente della Repubblica 13 novembre 1985, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Associazione nazionale mutilati ed invalidi del lavoro, in Roma, viene autorizzata ad acquistare, al prezzo di L. 55.000.000, un immobile sito in Latina, via Cairoli n. 2, censito al nuovo catasto edilizio urbano alla partita n. 86, foglio n. 143, particella n. 37 sub 17, di proprieta' dei signori Giglio Renato e Zambrano Concetta, come da atto di compravendita 30 giugno 1980, n. 9695/3286 di repertorio, a rogito dott. Antonio Alfonsi, notaio in Latina, registrato a Latina in data 8 luglio 1980 al n. 9496, da adibire a sezione provinciale dell'Associazione.   
   
 Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 15 marzo 1985   
-Registro n. 1 Lavoro, foglio n. 224
+Registrato alla Corte dei conti, addi' 22 marzo 1986   
+Registro n. 1 Lavoro, foglio n. 239

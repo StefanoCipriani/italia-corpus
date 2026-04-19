@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 maggio 1982 n. 409
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1986 n. 421
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 maggio 1982 n. 409
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1986 n. 421
 =============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-409. Decreto del Presidente della Repubblica 14 maggio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in beni immobili e mobili al netto delle passivita' per un importo di L. 97.800.271, disposta dal sig. Iriti Ignazio con testamento olografo 13 febbraio 1975, pubblicato in data 14 maggio 1979 numero 83824 di repertorio e n. 17662 di raccolta, a rogito dott. Edoardo Colozza, notaio in Roma, registrato a Roma il 18 maggio 1979 al n. 6255.  
+421. Decreto del Presidente della Repubblica 11 aprile 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in un immobile sito in Milano, via Fiori Chiari n. 5, distinto nel nuovo catasto edilizio urbano alla partita n. 9702, foglio 349, mappale 49, sub 1 - 12, del valore peritato di L. 230.000.000 elevato dall'ufficio tecnico erariale di Milano a L. 1.200.000.000, e nella quota di un terzo del saldo di conti correnti bancari pari ad un importo di L. 18.477.885, disposta dal sig. Capelli (o Cappelli) Guido Edoardo Andrea detto Guido con testamento olografo 15 settembre 1980, pubblicato in data 11 febbraio 1982, n. 81173/15820 di repertorio, a rogito dott. Luciano Zavanelli, notaio in Milano, registrato a Milano in data 5 maggio 1982 al n. 8562.   
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 30 giugno 1982  
-Registro n. 6 Presidenza, foglio n. 69
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 12 luglio 1986   
+Registro n. 7 Presidenza foglio n. 14

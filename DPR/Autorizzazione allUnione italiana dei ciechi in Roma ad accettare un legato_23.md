@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 gennaio 1985 n. 177
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1978 n. 356
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 gennaio 1985 n. 177
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1978 n. 356
+=============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare un legato.
 -------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-177. Decreto del Presidente della Repubblica 24 gennaio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il lascito di L. 5.000.000 disposto dalla sig.ra Mrakitsch Maria con testamento pubblico 16 febbraio 1982, pubblicato in data 25 febbraio 1983, n. 56473/610 di repertorio, a rogito dott. Ianni Tracanella Edda, notaio in Trieste, registrato a Trieste in data 19 settembre 1983 al n. 875.  
+356. Decreto del Presidente della Repubblica 17 maggio 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Macchi Enrica in favore della Scuola nazionale cani guida per ciechi di Scandicci (Firenze) con testamento olografo a rogito del notaio dottor Luigi Giani, pubblicato in Varese il 13 aprile 1973, n. 59390/4185 di repertorio, ed ivi registrato il 2 maggio 1973 al n. 1078, vol. 263, consistente in un immobile (tipo baita) sito nel comune di Veddasca (Varese), localita' Forcora, distinto nel nuovo catasto terreni al foglio 5 mapp. 1095 in comune censuario di Cadoro con Graglio.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 2 maggio 1985  
-Registro n. 4 Presidenza, foglio n. 83
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 5 luglio 1978  
+Registro n. 5 Presidenza, foglio n. 150

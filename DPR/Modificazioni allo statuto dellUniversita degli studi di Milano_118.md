@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1968 n. 930
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1980 n. 833
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1968 n. 930
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1980 n. 833
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, numero 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,102 +20,51 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopracitati, e' ulteriormente modificato come appresso:
 
-Art. 106. - Il secondo comma, relativo ai titoli di ammissione alla scuola di perfezionamento in lingue e letterature straniere moderne, annessa alla facolta' di lettere e filosofia, e' abrogato e sostituito dal seguente:
+Articolo unico
+--------------
 
-"Vi si possono iscrivere i laureati in lingue e letterature straniere e in lingue e letterature straniere moderne, nonche' i laureati in lettere che si siano laureati con una tesi di letteratura o filologia straniera moderna".
-
-Art. 39. - All'elenco degli insegnamenti complementari del corso di laurea in fisica (indirizzo generale, didattico e applicativo) sono aggiunti quelli di:
-
-54) Elettronica quantistica;
-
-55) Algebra.
-
-Art. 42. - All'elenco degli insegnamenti complementari del corso di laurea in matematica sono aggiunti i seguenti:
-
-Indirizzo generale (Tab. A)
-
-17) Calcoli numerici e grafici
-
-Indirizzo didattico (Tab. A)
-
-15) Geometria superiore
-
-Indirizzo applicativo (Tab. A)
-
-17) Geometria superiore;
-
-18) Ricerca operativa.
-
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 5 giugno 1968
-
-SARAGAT
-
-GUI
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 26 agosto 1968 Atti del Governo, registro n. 222, foglio n. 93. - DI PRETORO
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, numero 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 106. - Il secondo comma, relativo ai titoli di ammissione alla scuola di perfezionamento in lingue e letterature straniere moderne, annessa alla facolta' di lettere e filosofia, e' abrogato e sostituito dal seguente:  
-"Vi si possono iscrivere i laureati in lingue e letterature straniere e in lingue e letterature straniere moderne, nonche' i laureati in lettere che si siano laureati con una tesi di letteratura o filologia straniera moderna".  
-Art. 39. - All'elenco degli insegnamenti complementari del corso di laurea in fisica (indirizzo generale, didattico e applicativo) sono aggiunti quelli di:  
-54) Elettronica quantistica;  
-55) Algebra.  
-Art. 42. - All'elenco degli insegnamenti complementari del corso di laurea in matematica sono aggiunti i seguenti:  
-Indirizzo generale (Tab. A)  
-17) Calcoli numerici e grafici  
-Indirizzo didattico (Tab. A)  
-15) Geometria superiore  
-Indirizzo applicativo (Tab. A)  
-17) Geometria superiore;  
-18) Ricerca operativa.  
+Nell'art. 89, relativo all'elenco delle scuole annesse alla facolta' di lettere e filosofia, la scuola di perfezionamento in storia dell'arte antica, medioevale e moderna cambia la denominazione in quella di scuola di perfezionamento in archeologia e storia dell'arte antica e in storia dell'arte medioevale e moderna.  
+Scuola di perfezionamento in archeologia e storia dell'arte antica e in storia dell'arte medioevale e moderna.  
+Nell'art. 106 e' soppressa la frase incidentale: "nell'ambito delle discipline costitutive".  
+Gli articoli 107, 108 e 109 sono cosi' sostituiti:  
+Art. 107. - La scuola e' della durata di due anni e si articola in due indirizzi:  
+a) archeologia e storia dell'arte antica;  
+b) storia dell'arte medioevale e moderna.  
+All'indirizzo di archeologia e storia dell'arte antica sono ammessi direttamente i laureati con tesi in archeologia e i laureati in lettere che, a giudizio della direzione della scuola, abbiano sostenuto, durante il corso universitario, sufficienti esami di materie archeologiche.  
+All'indirizzo di storia dell'arte medioevale e moderna sono ammessi direttamente i laureati con tesi in discipline storico-artistiche e i laureati in lettere che, a giudizio della direzione della scuola, abbiano sostenuto, durante il corso universitario, sufficienti esami di materie storico-artistiche.  
+I laureati di altri indirizzi e facolta' possono essere ammessi alla scuola sostenendo con esito positivo una prova scritta che documenti la loro specifica preparazione nelle discipline archeologiche e storico-artistiche.  
+Art. 108. - I candidati dovranno indicare, all'atto dell'iscrizione, l'indirizzo che intendono seguire per il perfezionamento.  
+Art. 109. - Per ognuno dei due anni lo studente deve ottenere la firma di iscrizione e frequenza di almeno tre corsi e sostenere i relativi esami.  
+Per l'indirizzo archeologico sono obbligatori gli esami di archeologia e storia dell'arte greca e romana e di etruscologia (uno dei quali biennale), e l'esame di storia dell'arte medioevale e moderna; gli altri due esami devono essere concordati con i docenti.  
+Per l'indirizzo storico-artistico sono obbligatori gli esami di storia dell'arte medioevale e moderna e di critica d'arte (uno dei quali biennale), e l'esame di archeologia e storia dell'arte greca e romana; gli altri esami devono essere concordati con i docenti.  
+I sei esami del biennio, obbligatori e concordati, devono essere inseriti nel piano di studio compilato all'inizio del corso e approvato dal direttore della scuola.  
+Per essere ammesso all'esame di diploma l'iscritto alla scuola, oltre ad aver seguito i corsi e superato gli esami sopra indicati, dovra' dimostrare di conoscere, ai fini di una corrente lettura e traduzione dei testi, almeno due lingue straniere.  
+L'esame di diploma consiste nella discussione di una dissertazione scritta intorno ad un tema prescelto nell'ambito delle discipline della scuola.  
   
 
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 giugno 1968
+### Dato a Roma, addi' 10 settembre 1980
 
-SARAGAT GUI
+PERTINI SARTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 26 agosto 1968
+Registrato alla Corte dei conti, addi' 26 novembre 1980
 
-Atti del Governo, registro n. 222, foglio n. 93. - DI PRETORO
+Registro n. 111 Istruzione, foglio n. 310

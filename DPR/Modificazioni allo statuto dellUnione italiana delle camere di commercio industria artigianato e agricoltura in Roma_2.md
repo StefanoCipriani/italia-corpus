@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1974 n. 735
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 gennaio 1982 n. 173
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1974 n. 735
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 gennaio 1982 n. 173
 ==============================================================
 
 Modificazioni allo statuto dell'Unione italiana delle camere di commercio, industria, artigianato e agricoltura, in Roma.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-735. Decreto del Presidente della Repubblica 21 ottobre 1974, col quale, sulla proposta del Ministro per l'industria, il commercio e l'artigianato, vengono approvate le modificazioni agli articoli 6, 9 e 11 dello statuto dell'Unione italiana delle camere di commercio, industria, artigianato e agricoltura, in Roma, approvato con [decreto del Presidente della Repubblica 23 luglio 1968, n. 1066](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-07-23;1066).  
+173. Decreto del Presidente della Repubblica 12 gennaio 1982, col quale, sulla proposta del Ministro dell'industria, del commercio e dell'artigianato, viene approvata la modificazione all'art. 22 dello statuto dell'Unione italiana delle camere di commercio, industria, artigianato e agricoltura, in Roma, approvato con [decreto del Presidente della Repubblica 23 luglio 1968, n. 1066](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-07-23;1066).  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 16 gennaio 1975  
-Atti di Governo, registro n. 7, foglio n. 115
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 3 marzo 1982  
+Registro n. 4 Industria, foglio n. 121

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 agosto 1964 n. 1511
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 dicembre 1962 n. 2050
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 agosto 1964 n. 1511
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 dicembre 1962 n. 2050
+================================================================
 
 Istituzione di un posto di assistente di ruolo convenzionato presso la cattedra di "Clinica chirurgica generale e terapia chirurgica" della Facolta' di medicina e chirurgia dell'Universita' di Torino.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -10,7 +10,7 @@ Istituzione di un posto di assistente di ruolo convenzionato presso la cattedra 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto il testo unico delle leggi sulla istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592) e successive modificazioni;
+Veduto il testo unico delle leggi sulla istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni;
 
 Veduto il [decreto legislativo 7 maggio 1948, n. 1172](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;1172), ratificato, con modifiche, con [legge 24 giugno 1950, numero 465](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-06-24;465);
 
@@ -25,7 +25,7 @@ Art. 1
 ------
 
   
-E' approvata e resa esecutiva l'annessa convenzione, stipulata in Torino il 3 febbraio 1964, per il finanziamento di un posto di assistente ordinario presso la cattedra di "Clinica chirurgica generale e terapia chirurgica" della Facolta' di medicina e chirurgia della Universita' di Torino.  
+E' approvata e resa esecutiva l'annessa convenzione stipulata in Torino il 19 settembre 1962 per il finanziamento di un posto di assistente ordinario presso la cattedra di "Clinica chirurgica generale e terapia chirurgica" della Facolta' di medicina e chirurgia della Universita' di Torino.  
 
 Art. 2
 ------
@@ -37,141 +37,146 @@ Art. 3
 ------
 
   
-I contributi annui a carico del Pio Istituto Santa Corona di Milano, vengono determinati in L. 1.800.000 (unmilioneottocentomila) per il mantenimento del posto di cui al precedente art. 2 e in L. 360.000 (trecentosessantamila) da destinarsi al trattamento di cessazione dal servizio eventualmente spettante al titolare del posto stesso.  
+I contributi annui a carico della S.p.A. S.A.V.I.D. vengono determinati in lire 2.600.000 (duemilioniseicentomila) per il mantenimento del posto di cui al precedente articolo 2 e in lire 520.000 (cinquecentoventimila) da destinarsi al trattamento economico di cessazione dal servizio che possa spettare al titolare del posto stesso.  
 
 Art. 4
 ------
 
   
-L'Universita' di Torino si obbliga a versare allo Stato sia l'ammontare degli emolumenti effettivamente dovuti al titolare del posto nel loro importo lordo, sia il contributo, di cui al precedente art. 3, da destinarsi al trattamento di cessazione dal servizio eventualmente spettante al titolare del posto stesso.  
+L'Universita' degli studi di Torino si obbliga a versare allo Stato sia l'ammontare degli emolumenti effettivamente dovuti al titolare del posto sia il contributo di cui al precedente art. 3 da destinarsi al trattamento di cessazione dal servizio eventualmente spettante al titolare del posto stesso.  
 
 Art. 5
 ------
 
   
-Qualora la convenzione non sia rinnovata alla scadenza, oppure vengano meno o risultino insufficienti, per qualsiasi motivo, i contributi in essa previsti, il posto di cui al precedente art. 2 sara' senz'altro soppresso ed il titolare cessera' immediatamente dal servizio.  
+Qualora la convenzione non sia rinnovata alla scadenza, oppure vengano meno o risultino insufficienti, per qualsiasi motivo i contributi in essa, previsti, il posto di cui al precedente art. 2 sara' senz'altro soppresso ed il titolare cessera' immediatamente dal servizio.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e farlo osservare.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e del decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 agosto 1964
+### Dato a Roma, addi' 26 dicembre 1962
 
-Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA GUI - COLOMBO
+SEGNI GUI - TREMELLONI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 19 gennaio 1965
+Registrato alla Corte dei conti, addi' 13 marzo 1963
 
-Atti del Governo, registro n. 190, foglio n. 23. - VILLA
+Atti del Governo, registro n. 166, foglio n. 56. - VILLA
 
-Convenzione per la istituzione di un posto di assistente Universita' di Torino-art. 1
+Convenzione posto assistente cattedra Clinica chirurgica medicina di Torino- art. 1
 
- Repertorio n. 358   
+ Repertorio n. 321   
   
   
-Convenzione tra l'Universita' degli studi di Torino ed il Pio Istituto Santa Corona di Milano per la istituzione di un posto di assistente ordinario alla cattedra di Clinica chirurgica generale presso la Facolta' di medicina e chirurgia dell'Universita' di Torino.   
+UNIVERSITA' DEGLI STUDI DI TORINO   
   
   
-  
+Convenzione tra l'Universita' degli studi di Torino e la Soc. p.  
+Az. S.A.V.I.D. per la istituzione di un posto di assistente ordinario riservato alla cattedra di Clinica chirurgica generale e terapia chirurgica della Facolta' di medicina e chirurgia della Universita' di Torino.   
   
   
 REPUBBLICA ITALIANA   
   
   
-L'anno millenovecentosessantaquattro, addi' 3 del mese di febbraio, in Torino nella sala delle adunanze della Universita' degli studi di Torino, in via G. Verdi n. 8, innanzi a me dott. Adolfo Lolli, direttore di sezione e funzionario delegato con decreto rettorale in data 31 gennaio 1961 a redigere e a ricevere gli atti ed i contratti per conto dell'Amministrazione universitaria in conformita' del disposto dell'art. 129 del regolamento generale universitario approvato con [regio decreto 6 aprile 1924, n. 674](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674), omessa la presenza dei testimoni, avendovi le parti rinunciato, con il mio consenso, sono personalmente comparsi i signori:   
-Allara prof. Mario, nato a Torino il giorno 8 agosto 1902 e residente in Torino, via Cosseria, 11, nella sua qualita' di rettore e legale rappresentante della Universita' degli studi di Torino, assistito dal direttore amministrativo dott. Ivo Mattucci, a quest'atto autorizzato con deliberazione del Consiglio di amministrazione dell'Universita' di Torino in data 20 febbraio 1963 deliberazione che per estratto autentico si allega sotto la lettera A) e di cui si omette la lettura per espressa, volonta' delle parti; on.le Gennai Tonietti Erisia, nata a Rio Marina il 5 luglio 1900 e residente in Milano, corso Italia, 52, nella sua qualita' di presidente del Pio Istituto Santa Corona di Milano, assistita dal segretario generale avv. Vittorino Clemente, a questa autorizzata con deliberazione del Consiglio di amministrazione di detto Ente, in data 3 giugno 1963, approvata dal C.P.A.B. della Prefettura di Milano, in data 4 ottobre 1963, deliberazione che per estratto autentico si allega sotto la lettera B) e di cui si omette la lettura per espressa volonta' delle parti.   
+L'anno millenovecentosessantadue, addi' diciannove dei mese di settembre in Torino, nella sala delle adunanze della Universita' degli studi di Torino, via Giuseppe Verdi n. 8, innanzi a me dott.  
+Adolfo Lolli direttore di sezione e funzionario delegato con decreto rettorale in data 31 gennaio 1962, a redigere ed a ricevere gli atti e i contratti per conto dell'Amministrazione universitaria in conformita' del disposti dell'art. 129 del regolamento generale universitario approvato con [regio decreto 6 aprile 1924, n. 674](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674), omessa la presenza dei testimoni, avendovi le parti rinunciato, con il mio consenso, sono personalmente comparsi i signori:   
+Allara prof. Mario, nato a Torino il giorno 8 agosto 1902-2 e residente in Torino, via Cosseria 11, nella sua qualita' di rettore e legale rappresentante della Universita' degli studi di Torino, a questo atto autorizzato con deliberazione dei Consiglio di amministrazione della Universita' di Torino in data 20 giugno 1962, deliberazione che per estratto autentico si allega sotto la lettera A) e di cui si omette la lettura per espressa volonta' delle parti;   
+Brunner dott. ing. Augusto, nato a Voghera il giorno 8 aprile 1905 quale presidente e consigliere delegato della Soc. p. Az.  
+S.A.V.I.D. avente sede in Cernobbio, provincia di Corno, a questo atto autorizzato con deliberazioni del Consiglio di amministrazione di detta Societa' in data 27 febbraio 1962 e 7 maggio 1962, che si allegano sotto le lettere D) e C) e di cui di omette la lettura per espressa volonta' delle parti;   
   
   
-Premesso:   
+Premesso   
   
   
-a) che il Pio Istituto Santa Corona di Milano e l'Universita' degli studi di Torino hanno concordemente riconosciuto l'opportunita' e l'utilita' di istituire un nuovo posto di assistente ordinario convenzionato presso la cattedra di Clinica chirurgica generale;   
-b) che il Pio Istituto Santa Corona di Milano da assunto l'iniziativa di finanziare il posto predetto;   
-c) che il Consiglio della facolta' di medicina e chirurgia, il Senato accademico dell'Universita' degli studi di Torino e il Consiglio di amministrazione della stessa, con deliberazione rispettivamente del 30 marzo 1963, 7 marzo 1963 e 20 febbraio 1963 hanno esaminato ed approvato, entro i limiti della rispettiva competenza, la proposta per l'istituzione mediante convenzione, del detto posto di assistente ordinario;   
+a) che la Soc. p. Az. S.A.V.I.D. di Cernobbio e la Universita' degli studi di Torino hanno concordemente riconosciuto l'utilita' di contribuire all'approfondimento degli studi chirurgici e neurochirurgici svolti nella Universita' di Torino;   
+b) che per la realizzazione del fine sopra specificato si rende necessaria la istituzione di un posto di assistente di ruolo presso la cattedra di Clinica chirurgica generale a terapia chirurgica della Universita' di Torino;   
+c) che il Consiglio della Facolta' di medicina e chirurgia, il Senato accademico della Universita' degli studi di Torino ed il Consiglio di amministrazione della stessa, con deliberazioni rispettivamente del 18 aprile 1962, 2 maggio 1962 e 20 giugno 1962, hanno esaminato ed approvato, entro i limiti della rispettiva competenza, la proposta per la istituzione mediante convenzione del detto posto di assistente ordinario;   
   
   
-Tutto cio' premesso   
+tutto cio' premesso:   
   
   
-I sopra citati signori della cui personale identita' e piena capacita' giuridica, io ufficiale rogante sono certo, a conferma delle premesse di cui sopra che fanno parte integrante del presente atto, convengono e stipulano quanto segue:   
+I sopra citati signori, della cui personale identita' e piena capacita' giuridica, io, ufficiale rogante, sono certo, a conferma delle premesse di cui sopra che fanno parte integrante del presente atto, convengono e stipulano quanto appresso:   
   
   
 Art. 1.   
   
   
-L'Ente Pio Istituto Santa Corona con sede in Milano (corso Italia, 52) affinche' alla cattedra di Clinica chirurgica generale della Facolta' di medicina e chirurgia della Universita' di Torino venga assegnato un assistente ordinario, si impegna a versare all'Universita' medesima i seguenti contributi da destinare al finanziamento di un posto di assistente di ruolo, da istituire a tale uopo a norma dell'art. 1 (sub. [art. 13-bis) della legge 24 giugno 1950, n. 465](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-06-24;465~art13bis):   
-a) L. 1.800.000 (unmilioneottocentomila) pari all'importo del costo medio per trattamento economico di attivita', a qualsiasi titolo di un assistente ordinario;   
-b) L. 360.000 (trecentosessantamila) pari al 20% del contributo di cui alla lettera a), per la copertura degli oneri inerenti ai trattamenti di quiescenza e di previdenza che possano eventualmente spettare al titolare del cennato posto nei casi previsti dalle vigenti disposizioni, ovvero nell'ipotesi di cessazione dal servizio, conseguente al verificarsi di una delle condizioni previste nel successivo art. 6, nonche' per il rimborso dell'onere a carico dello Stato per il trattamento di assistenza sanitaria.   
+Presso la Facolta' di medicina e chirurgia della Universita' degli studi di Torino sara' istituito ai sensi dell'[art. 13-bis della legge 24 giugno 1950, n. 465](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-06-24;465~art13bis), un posto di assistente ordinario in aggiunta a quelli assegnati a detta Facolta', da destinare alla cattedra di Clinica chirurgica generale e terapia chirurgica. Il trattamento giuridico ed economico, nonche' il trattamento di quiescenza del titolare del predetto posto di assistente, sara' quello previsto dalla [legge 18 marzo 1958, n. 349](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-18;349) e dalla [legge 26 gennaio 1962, n. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-01-26;16), contenente le norme sullo stato giuridico ed economico degli assistenti universitari.   
 
-Convenzione per la istituzione di un posto di assistente Universita' di Torino-art. 2
+Convenzione posto assistente cattedra Clinica chirurgica medicina di Torino- art. 2
 
  Art. 2.   
   
   
-I contributi di cui al precedente art. 1 debbono essere versati all'Universita' di Torino in un'unica soluzione all'atto della nomina o del trasferimento del titolare del posto e, successivamente, entro il mese di novembre di ciascun anno.   
+La Soc. p. Az. S.A.V.I.D. con sede in Cernobbio (Como) corrispondera' all'Universita' degli studi di Torino, a decorrere dalla data della nomina del titolare del posto stesso, in due rate semestrali anticipate, la somma di annue lire 2.600.000 (duemilioniseicentomila) per il finanziamento di detto posto di assistente ordinario.   
+La Soc. p. Az. S.A.V.I.D. corrispondera' inoltre alla Universita' degli studi di Torino, oltre a quanto indicato nel comma precedente, l'ulteriore somma di L. 520.000 (cinquecentoventimila) annue, pari al 20% del contributo di lire 2.600.000 al fine di fronteggiare gli oneri relativi ai trattamenti di quiescenza, previdenza ed assistenza.   
 
-Convenzione per la istituzione di un posto di assistente Universita' di Torino-art. 3
+Convenzione posto assistente cattedra Clinica chirurgica medicina di Torino- art. 3
 
  Art. 3.   
   
   
-Qualora, a seguito di miglioramenti economici e di carriera disposti dallo Stato, il costo medio di un assistente universitario di ruolo risulti per trattamento economico di attivita', a qualsiasi titolo, d'importo superiore a quello indicato nella lettera a) del precedente art. 1, o comunque il costo dell'assistente di ruolo superi la somma indicata quale costo medio, l'Ente Pio Istituto Santa Corona si obbliga ad elevare il relativo contributo fino ad adeguarlo al nuovo costo medio, o al costo effettivo e, conseguentemente, ed in proporzione, anche il contributo di cui alla lettera b) dello stesso articolo 1.   
-Nel caso in cui siano adottati provvedimenti comportanti maggiori oneri allo Stato per i trattamenti di quiescenza e di previdenza a favore degli assistenti universitari, l'Ente Pio Istituto Santa Corona s'impegna, altresi', ad adeguare proporzionalmente ed in corrispondenza l'aliquota del 20% indicata nell'art. 1, lettera b).   
-L'aumento dei contributi suindicati avra' effetto della stessa data dalla quale decorreranno i miglioramenti di cui al presente articolo, o dalla data in cui il costo effettivo sia comunque risultato maggiore del costo medio.   
+L'Universita' degli studi di Torino si obbliga, in dipendenza della istituzione del posto di cui all'art. 1, ed in esecuzione degli accordi sopra citati, a versare annualmente allo Stato l'ammontare complessivo degli emolumenti spettanti al titolare di ruolo del posto di assistente ordinario assegnato alla cattedra di Clinica chirurgica generale e terapia chirurgica, nel loro importo al lordo di ogni ritenuta.   
+L'Universita' degli studi di Torino versera' altresi' annualmente allo Stato, con esonero da ogni altro obbligo e responsabilita', la somma prevista dal precedente art. 2 per gli effetti suindicati.   
+Detti versamenti saranno fatti in conto entrate del tesoro al capitolo e articolo che verranno stabiliti dal Ministero del tesoro. 
 
-Convenzione per la istituzione di un posto di assistente Universita' di Torino-art. 4
+Convenzione posto assistente cattedra Clinica chirurgica medicina di Torino- art. 4
 
  Art. 4.   
   
   
-L'Universita' di Torino, per l'attuazione di quanto convenuto nei precedenti articoli, e' tenuta a versare allo Stato l'importo lordo degli assegni effettivamente corrisposti al titolare del posto di assistente di ruolo assegnato alla cattedra di Clinica chirurgica generale.   
-L'Universita' di Torino versera', altresi', annualmente allo Stato, con esonero da ogni altro obbligo e responsabilita', la somma prevista dal precedente art. 1 comma b), per gli effetti suindicati e le eventuali maggiorazioni previste dall'art. 3 secondo comma.   
+Qualora, in seguito a miglioramenti disposti per legge, il trattamento economico (stipendio, carovita e indennita' varie) dell'assistente titolare del posto convenzionato di cui all'art. 1 dovesse superare l'ammontare del contributo di cui all'art. 2 (primo comma indicato in L. 2.600.000 annue), la Soc. p. Az. S.A.V.I.D. versera' tale contributo in misura non inferiore alla spesa effettiva per il mantenimento del posto suddetto, ed aumentera' proporzionalmente la somma da versare all'Universita' degli studi di Torino a norma del secondo comma del precedente articolo 2.   
+Tali aumenti decorreranno dal giorno nel quale si e' determinato, per effetto di legge, il maggior costo di mantenimento del posto.   
 
-Convenzione per la istituzione di un posto di assistente Universita' di Torino-art. 5
+Convenzione posto assistente cattedra Clinica chirurgica medicina di Torino- art. 5
 
  Art. 5.   
   
   
-La presente convenzione ha la durata di anni dieci, dalla decorrenza della nomina o del trasferimento del primo titolare del posto di assistente di cui all'art. 1 e si riterra' tacitamente rinnovata, di dieci anni in dieci anni, qualora non venga disdetta, mediante lettera raccomandata con ricevuta di ritorno almeno un anno prima della scadenza.   
+La presente convenzione avra' la durata di anni dieci a decorrere dalla data di nomina dei titolare dell'istituendo posto di assistente ordinario e si intendera' tacitamente rinnovata per un eguale periodo di tempo, ove non sia denunciata da una delle parti contraenti, mediante lettera raccomandata con ricevuta di ritorno, almeno un anno prima della sua scadenza.   
 
-Convenzione per la istituzione di un posto di assistente Universita' di Torino-art. 6
+Convenzione posto assistente cattedra Clinica chirurgica medicina di Torino- art. 6
 
  Art. 6.   
   
   
-La presente convenzione si intende decaduta:   
-a) qualora venga disdetta nei modi previsti dall'art. 5;   
-b) se vengono a cessare, in tutto o in parte, per qualsiasi motivo ed in qualsiasi momento, i contributi in essa previsti;   
-c) se non vengano aumentati i predetti contributi a norma del precedente art. 3.   
-Al verificarsi di una delle suddette condizioni, il posto di assistente di ruolo di Clinica chirurgica si intendera' senz'altro soppresso ed il titolare cessera' immediatamente dal servizio.   
+Qualora, in qualsiasi momento e per qualsiasi motivo, venisse a cessare il contributo previsto dall'art. 2 sopra trascritto, o la presente convenzione non venisse rinnovata alla scadenza, ovvero la Facolta' di medicina e chirurgia ritenesse esaurito lo scopo oggetto della istituzione del posto di cui trattasi, in conseguenza del raggiunto risultato degli studi e delle ricerche nel campo della chirurgia generale e neurochirurgia, il posto di assistente ordinario di cui al precedente art. 1 verra' senz'altro soppresso e conseguentemente il relativo titolare cessera' dal servizio.   
 
-Convenzione per la istituzione di un posto di assistente Universita' di Torino-art. 7
+Convenzione posto assistente cattedra Clinica chirurgica medicina di Torino- art. 7
 
  Art. 7.   
   
   
-La presente convenzione si intende subordinata all'approvazione da parte del Ministero della pubblica istruzione.   
+La presente convenzione si intende subordinata alla approvazione da parte del Ministero della pubblica istruzione.   
 
-Convenzione per la istituzione di un posto di assistente Universita' di Torino-art. 8
+Convenzione posto assistente cattedra Clinica chirurgica medicina di Torino- art. 8
 
  Art. 8.   
   
   
-Il presente atto, stipulato nell'interesse esclusivo dell'Universita' di Torino, sara' registrato in esenzione della relativa tassa ai sensi dell'[art. 45 della legge 24 luglio 1962, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-07-24;1073~art45).   
-E' richiesto io, ufficiale rogante, ho ricevuto il presente atto stesso su 2 fogli e 7 facciate, scritto da persona di mia fiducia, sotto la mia direzione e l'ho letto ai comparenti, i quali, a mia richiesta, lo dichiarano conforme alla loro volonta' ed, in conferma, meco lo sottoscrivono in calce, firmando anche nel margine i fogli non contenenti le firme finali.   
-F.to Mario ALLARA;   
-" Erisia GENNAI TONIETTI;   
-" Vittorino CLEMENTE;   
-" IVO MATTUCCI;   
-" Adolfo LOLLI, ufficiale rogante.   
+Il presente atto, stipulato nell'interesse della universita' degli studi di Torino, sara' registrato in esenzione di tassa di registro e bollo, ai sensi dell'[art. 45 della legge 24 luglio 1962, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-07-24;1071~art45) (Gazzetta Ufficiale 8 agosto 1962, n. 199).   
+Richiesto io ufficiale rogante, ricevo il presente atto che leggo al signori comparenti i quali, a mia domanda, lo dichiarano conforme alla loro volonta' e lo sottoscrivono, come appresso, insieme con me, ufficiale rogante.   
+Il presente atto, redatto in un originale ed una copia per l'uso della parte, consta di fogli due e facciate sette ed e' stato scritto da persona di mia fiducia.   
   
   
-Registrato a Torino, addi' 4 febbraio 1964, n. 1924 vol. 32. Atti pubblici amministrativi. Esatte lire: Esente.   
+F.to Mario Allara Augusto Brunner   
   
   
-Visto, d'ordine del Presidente della Repubblica   
+Adolfo Lolli, ufficiale rogante.   
   
   
-Il Ministro per la pubblica istruzione   
-GUI   
+Registrato a Torino il 20 settembre 1962 al n. 651, volume 29.   
+Atti pubblici amministrativi. Esatte lire: gratis.   
+  
+  
+La presente copia, in carta libera ad uso interno amministrativo,   
+e' conforme all'originale conservato in atti ed e' firmato in ogni singolo foglio.   
+  
+  
+Torino, 24 settembre 1962   
+  
+  
+L'ufficiale rogante: Adolfo LOLLI.   

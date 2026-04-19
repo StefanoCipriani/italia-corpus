@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1967 n. 199
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 febbraio 1981 n. 505
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1967 n. 199
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 febbraio 1981 n. 505
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Perugia.
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,105 +20,80 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'universita' di Perugia e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
 Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 15. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze politiche sono aggiunti quelli di:
-
-Contabilita' dello Stato;
-
-Sociologia.
-
-Art. 21. - All'elenco degli insegnamenti complementari del corso di laurea in Economia e commercio sono aggiunti quelli di:
-
-Statistica economica;
-
-Economia del turismo;
-
-Principi e tecnica delle applicazioni meccanografiche ed elettroniche;
-
-Diritto fallimentare;
-
-Diritto della navigazione.
-
-Art. 31. - All'elenco degli insegnamenti complementari del corso di laurea in Materie letterarie e' aggiunto quello di "Storia della grammatica e della lingua italiana".
-
-Nello stesso elenco l'insegnamento di "Storia della grammatica della lingua italiana" e' soppresso.
-
-Art. 33. - All'elenco degli insegnamenti complementari del corso di laurea in Pedagogia e' aggiunto quello di "Storia della grammatica e della lingua italiana".
-
-Nello stesso elenco l'insegnamento di "Storia della grammatica" e' soppresso.
-
-Art. 34 (gia' 32). - All'elenco degli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' aggiunto quello di "Anestesiologia e rianimazione".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 25 febbraio 1967
-
-SARAGAT
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 13 aprile 1967 Atti del Governo, registro n. 210, foglio n. 106. - GRECO
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:  
+Il testo dell'art. 74, relativo al corso di laurea in farmacia, e' modificato nel modo seguente:   
+All'elenco degli insegnamenti complementari sono aggiunti quelli di:   
+analisi chimico cliniche;   
+biologia generale;   
+chemioterapia;   
+dietofarmacia;   
+elementi di patologia generale;   
+farmacognosia;   
+microbiologia e parassitologia;   
+organizzazione, deontologia e legislazione farmaceutiche;   
+tossicologia.   
+Dallo stesso elenco sono soppressi quelli di:   
+chimica di guerra;   
+mineralogia.   
+
+Art. 2
+------
+
   
-Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 15. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze politiche sono aggiunti quelli di:  
-Contabilita' dello Stato;  
-Sociologia.  
-Art. 21. - All'elenco degli insegnamenti complementari del corso di laurea in Economia e commercio sono aggiunti quelli di:  
-Statistica economica;  
-Economia del turismo;  
-Principi e tecnica delle applicazioni meccanografiche ed elettroniche;  
-Diritto fallimentare;  
-Diritto della navigazione.  
-Art. 31. - All'elenco degli insegnamenti complementari del corso di laurea in Materie letterarie e' aggiunto quello di "Storia della grammatica e della lingua italiana".  
-Nello stesso elenco l'insegnamento di "Storia della grammatica della lingua italiana" e' soppresso.  
-Art. 33. - All'elenco degli insegnamenti complementari del corso di laurea in Pedagogia e' aggiunto quello di "Storia della grammatica e della lingua italiana".  
-Nello stesso elenco l'insegnamento di "Storia della grammatica" e' soppresso.  
-Art. 34 (gia' 32). - All'elenco degli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' aggiunto quello di "Anestesiologia e rianimazione".  
+Il testo dell'art. 76, relativo alle propedeuticita' degli esami per il corso di laurea in farmacia, e' sostituito dal seguente:   
+Agli effetti degli esami sono da considerarsi materie propedeutiche:   
+1) anatomia umana rispetto a fisiologia generale;   
+2) chimica generale ed inorganica e chimica organica rispetto a chimica farmaceutica e tossicologica (primo anno e secondo anno), chimica biologica e fisiologia generale;   
+3)
+
+(("chimica generale ed inorganica" rispetto ad "esercitazioni di chimica farmaceutica e tossicologica (I anno)"))
+
+;   
+4) chimica organica rispetto ad esercitazioni di chimica farmaceutica e tossicologica (terzo anno).   
+
+Art. 3
+------
+
+  
+Il testo dell'art. 80, relativo al corso di laurea in chimica e tecnologia farmaceutiche e' modificato nel modo seguente:  
+  
+Gli insegnamenti fondamentali del biennio e del triennio di chimica organica I e II e di chimica generale ed inorganica perdono l'asterisco.  
+All'elenco degli insegnamenti complementari sono aggiunti quelli di:  
+chimica analitica;  
+chimica dei composti eterociclici;  
+chimica dei composti fitoiatrici;  
+chimica terapeutica;  
+stechiometria;  
+tecnologie chimico farmaceutiche.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 febbraio 1967
+### Dato a Roma, addi' 13 febbraio 1981
 
-SARAGAT GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 13 aprile 1967
+Registrato alla Corte dei conti, addi' 1 settembre 1981
 
-Atti del Governo, registro n. 210, foglio n. 106. - GRECO
+Registro n. 80 Istruzione, foglio n. 32

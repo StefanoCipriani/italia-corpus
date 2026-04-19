@@ -1,394 +1,46 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1971 n. 846
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1952 n. 1207
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1971 n. 846
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1952 n. 1207
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 564](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;564) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Gli articoli 104, 105, 106, 107 e 108, relativi alla "Scuola di specializzazione in clinica delle malattie nervose e mentali" che assume la denominazione di "Scuola di specializzazione in neurologia", sono abrogati e sostituiti dai seguenti:
-
-Scuola di specializzazione in neurologia
-
-Art. 104. - Il corso della scuola di specializzazione in neurologia, ha la durata di quattro anni ed e' tenuto presso la clinica delle malattie nervose e mentali.
-
-Alla scuola non potranno essere iscritti piu' di cinque laureati in medicina e chirurgia, complessivamente, previa ammissione per titoli ed esami.
-
-Art. 105. - Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-1) Anatomia e istologia del sistema nervoso;
-
-2) Fisiologia del sistema nervoso;
-
-3) Biochimica del sistema nervoso;
-
-4) Genetica (elementi);
-
-5) Psicologia generale;
-
-6) Psicopatologia (1°);
-
-7) Semeiotica psichiatrica.
-
-2° Anno:
-
-1) Anatomia e istologia patologica del sistema nervoso;
-
-2) Semeiotica neurologica;
-
-3) Patologia speciale e diagnostica neurologica (1°);
-
-4) Neuro-radiologia;
-
-5) Endocrinologia e neurologia vegetativa.
-
-3° Anno:
-
-1) Patologia speciale e diagnostica neurologica (2°);
-
-2) Psicopatologia (2°);
-
-3) Clinica neurologica (1°);
-
-4) Elettroencefalografia;
-
-5) Elettromiografia, elettrodiagnostica ed elettroterapia;
-
-6) Neuro-oftalmologia;
-
-7) Neuro-otologia;
-
-8) Esami di laboratorio.
-
-4° Anno:
-
-1) Clinica neurologica e terapia (2°);
-
-2) Neurochirurgia;
-
-3) Teoria e clinica della riabilitazione;
-
-4) Neuro-traumatologia anche sotto l'aspetto della medicina legale;
-
-5) Neurologia in rapporto alla patologia internistica.
-
-Art. 106. - L'internato e' obbligatorio per l'intero anno scolastico nella clinica delle malattie nervose e mentali, sede della scuola.
-
-L'internato del 2°, 3° e 4° anno potra' essere ridotto a non meno di mesi 4 per anno per i medici che prestino regolare servizio in un reparto neurologico. L'internato del 1° anno potra' essere ridotto a non meno di mesi 5 per i medici che prestino regolare servizio in un reparto neurologico e a non meno di mesi 4 per coloro che prestino servizio in un ospedale psichiatrico.
-
-Non potranno accedere ai corsi superiori gli iscritti che non avranno superato tutti gli esami del corso precedente.
-
-Possono ottenere l'esonero di due anni gli specialisti in psichiatria, neuropsichiatria infantile e neurochirurgia. Un anno di esonero possono ottenere gli specialisti in altre materie affini (medicina interna, otorinolaringoiatria, oculistica, radiologia).
-
-Tali esoneri potranno essere concessi solo dopo aver superato l'esame di ammissione e a giudizio del direttore della scuola.
-
-Alla fine del corso il candidato dovra' presentare e discutere una tesi scritta.
-
-Dopo l'art. 127 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in igiene e medicina preventiva.
-
-Scuola di specializzazione in igiene e medicina preventiva
-
-Art. 128. - La scuola ha la durata di tre anni ed ha sede presso l'istituto di igiene il cui professore di ruolo e' direttore della scuola stessa.
-
-Potranno essere iscritti alla scuola i laureati in medicina e chirurgia nel numero massimo di ottanta iscritti per i tre anni di corso.
-
-La scelta dell'orientamento deve avvenire al momento dell'iscrizione al terzo anno e l'ammissione e' limitata ai posti disponibili, tenuto conto del merito scolastico nei primi due anni di corso.
-
-Art. 129. - Gli insegnamenti fondamentali sono:
-
-1° Anno:
-
-Metodologia statistica e biometria;
-
-Educazione, sanitaria;
-
-Psicologia;
-
-Microbiologia;
-
-Parassitologia;
-
-Epidemiologia e profilassi generale.
-
-2° Anno:
-
-Patologia e clinica delle malattie infettive;
-
-Epidemiologia e profilassi delle malattie infettive;
-
-Patologia e clinica delle malattie non infettive di importanza sociale;
-
-Epidemiologia e profilassi delle malattie non infettive di importanza sociale;
-
-Demografia e statistica sanitaria;
-
-Legislazione e organizzazione sanitaria.
-
-3° Anno (con orientamento di sanita' pubblica):
-
-Approvvigionamento idrico, raccolta e smaltimento dei rifiuti liquidi e solidi, inquinamento atmosferico;
-
-Igiene edilizia e urbanistica;
-
-Igiene dell'alimentazione;
-
-Igiene e medicina scolastica;
-
-Igiene ospitaliera;
-
-Servizi di sanita' pubblica.
-
-3° Anno (con orientamento di laboratorio):
-
-Microbiologia applicata all'igiene;
-
-Microscopia applicata all'igiene;
-
-Chimica clinica;
-
-Accertamento diagnostico delle malattie batteriche e parassitarie;
-
-Accertamento diagnostico delle infezioni virali;
-
-Nozioni di anatomia e istologia patologica.
-
-3° Anno (con orientamento di direzione ospedaliera):
-
-Storia degli ospedali e principi metodologici della assistenza ospitaliera;
-
-Igiene e tecnica delle costruzioni ospitaliere, arredamento ed impianti sanitari;
-
-Organizzazione e funzione degli ospedali generali e speciali;
-
-Diritto amministrativo e legislazione ospitaliera;
-
-Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospitaliera;
-
-Selezione ed istruzione professionale del personale ospitaliero;
-
-Organizzazione e funzione dei laboratori di analisi e di accertamento necroscopico.
-
-3° Anno (con orientamento di igiene e medicina scolastica):
-
-Auxologia normale e patologica;
-
-Epidemiologia e profilassi delle malattie dell'eta' scolare;
-
-Elementi di psicologia e pedagogia per l'eta' scolare;
-
-Igiene dell'alimentazione;
-
-Assistenza parascolastica;
-
-Edilizia scolastica.
-
-Al piano di studi proposto per ogni anno di corso si aggiunge obbligatoriamente un corso complementare che il candidato potra' scegliere a seconda dell'interesse fra il seguente gruppo di materie complementari:
-
-Ispezioni delle carni;
-
-Geologia applicata all'igiene;
-
-Igiene mentale;
-
-Malattie professionali e loro prevenzione;
-
-Diritto sanitario;
-
-Igiene navale e dell'emigrazione;
-
-Antropologia culturale e sociologica;
-
-Malattie tropicali;
-
-Istituzioni di matematica;
-
-Genetica;
-
-Gerontologia e geriatria;
-
-Elementi di economia politica.
-
-Art. 130. - Gli allievi sono tenuti a frequentare, in qualita' di interni, l'istituto di igiene e svolgere turni presso istituti, ospedali e altri servizi sanitari secondo quanto stabilito dalla direzione della scuola.
-
-Art. 131. - Alla fine di ogni anno di corso, gli allievi, per essere ammessi agli anni di corso successivi, debbono aver superato tutti gli esami dell'anno precedente.
-
-L'esame di diploma si sostiene alla fine del terzo anno e consiste nella discussione di una tesi scritta assegnata dalla direzione della scuola.
-
-Il presente decreto, munite del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 4 agosto 1971
-
-SARAGAT
-
-MISASI
-
-Visto, il Guardasigilli: COLOMBO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 15 ottobre 1971 Atti del Governo, registro n. 244, foglio n. 153. - CARUSO
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE. DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 564](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;564) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [regio decreto 12 ottobre 1927, n. 2255](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-12;2255) e modificato coi [regi decreti 15 novembre 1928, n. 2606](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1928-11-15;2606); [31 ottobre 1929, n. 2400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1929-10-31;2400); [1 ottobre 1931, n. 1372](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1931-10-01;1372); [27 ottobre 1932, n. 2062](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1932-10-27;2062); [27 dicembre 1934, n. 2448](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-27;2448); [27 ottobre 1936, n. 2457](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-27;2457); [21 marzo 1939, n. 1296](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-03-21;1296); [9 maggio 1939, n. 1469](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-05-09;1469); [26 ottobre 1940, n. 2065](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2065); [27 aprile 1942, n. 470](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-04-27;470) e [5 settembre 1942, n. 1266, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-09-05;1266) [30 ottobre 1949, n. 1028](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1028) e [18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduta la [legge 8 agosto 1942, n. 1096](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-08-08;1096);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli 104, 105, 106, 107 e 108, relativi alla "Scuola di specializzazione in clinica delle malattie nervose e mentali" che assume la denominazione di "Scuola di specializzazione in neurologia", sono abrogati e sostituiti dai seguenti:  
+Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con' i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Attuale art. 25. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di:  
+8) radiologia.  
+Attuale art. 48. - Agli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti  
+7) geologia;  
+8) paleontologia.  
   
-Scuola di specializzazione in neurologia  
-  
-Art. 104. - Il corso della scuola di specializzazione in neurologia, ha la durata di quattro anni ed e' tenuto presso la clinica delle malattie nervose e mentali.  
-Alla scuola non potranno essere iscritti piu' di cinque laureati in medicina e chirurgia, complessivamente, previa ammissione per titoli ed esami.  
-Art. 105. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-1) Anatomia e istologia del sistema nervoso;  
-2) Fisiologia del sistema nervoso;  
-3) Biochimica del sistema nervoso;  
-4) Genetica (elementi);  
-5) Psicologia generale;  
-6) Psicopatologia (1°);  
-7) Semeiotica psichiatrica.  
-2° Anno:  
-1) Anatomia e istologia patologica del sistema nervoso;  
-2) Semeiotica neurologica;  
-3) Patologia speciale e diagnostica neurologica (1°);  
-4) Neuro-radiologia;  
-5) Endocrinologia e neurologia vegetativa.  
-3° Anno:  
-1) Patologia speciale e diagnostica neurologica (2°);  
-2) Psicopatologia (2°);  
-3) Clinica neurologica (1°);  
-4) Elettroencefalografia;  
-5) Elettromiografia, elettrodiagnostica ed elettroterapia;  
-6) Neuro-oftalmologia;  
-7) Neuro-otologia;  
-8) Esami di laboratorio.  
-4° Anno:  
-1) Clinica neurologica e terapia (2°);  
-2) Neurochirurgia;  
-3) Teoria e clinica della riabilitazione;  
-4) Neuro-traumatologia anche sotto l'aspetto della medicina legale;  
-5) Neurologia in rapporto alla patologia internistica.  
-Art. 106. - L'internato e' obbligatorio per l'intero anno scolastico nella clinica delle malattie nervose e mentali, sede della scuola.  
-L'internato del 2°, 3° e 4° anno potra' essere ridotto a non meno di mesi 4 per anno per i medici che prestino regolare servizio in un reparto neurologico. L'internato del 1° anno potra' essere ridotto a non meno di mesi 5 per i medici che prestino regolare servizio in un reparto neurologico e a non meno di mesi 4 per coloro che prestino servizio in un ospedale psichiatrico.  
-Non potranno accedere ai corsi superiori gli iscritti che non avranno superato tutti gli esami del corso precedente.  
-Possono ottenere l'esonero di due anni gli specialisti in psichiatria, neuropsichiatria infantile e neurochirurgia. Un anno di esonero possono ottenere gli specialisti in altre materie affini (medicina interna, otorinolaringoiatria, oculistica, radiologia).  
-Tali esoneri potranno essere concessi solo dopo aver superato l'esame di ammissione e a giudizio del direttore della scuola.  
-Alla fine del corso il candidato dovra' presentare e discutere una tesi scritta.  
-Dopo l'art. 127 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in igiene e medicina preventiva.  
-  
-Scuola di specializzazione in igiene e medicina preventiva  
-  
-Art. 128. - La scuola ha la durata di tre anni ed ha sede presso l'istituto di igiene il cui professore di ruolo e' direttore della scuola stessa.  
-Potranno essere iscritti alla scuola i laureati in medicina e chirurgia nel numero massimo di ottanta iscritti per i tre anni di corso.  
-La scelta dell'orientamento deve avvenire al momento dell'iscrizione al terzo anno e l'ammissione e' limitata ai posti disponibili, tenuto conto del merito scolastico nei primi due anni di corso.  
-Art. 129. - Gli insegnamenti fondamentali sono:  
-1° Anno:  
-Metodologia statistica e biometria;  
-Educazione, sanitaria;  
-Psicologia;  
-Microbiologia;  
-Parassitologia;  
-Epidemiologia e profilassi generale.  
-2° Anno:  
-Patologia e clinica delle malattie infettive;  
-Epidemiologia e profilassi delle malattie infettive;  
-Patologia e clinica delle malattie non infettive di importanza sociale;  
-Epidemiologia e profilassi delle malattie non infettive di importanza sociale;  
-Demografia e statistica sanitaria;  
-Legislazione e organizzazione sanitaria.  
-3° Anno (con orientamento di sanita' pubblica):  
-Approvvigionamento idrico, raccolta e smaltimento dei rifiuti liquidi e solidi, inquinamento atmosferico;  
-Igiene edilizia e urbanistica;  
-Igiene dell'alimentazione;  
-Igiene e medicina scolastica;  
-Igiene ospitaliera;  
-Servizi di sanita' pubblica.  
-3° Anno (con orientamento di laboratorio):  
-Microbiologia applicata all'igiene;  
-Microscopia applicata all'igiene;  
-Chimica clinica;  
-Accertamento diagnostico delle malattie batteriche e parassitarie;  
-Accertamento diagnostico delle infezioni virali;  
-Nozioni di anatomia e istologia patologica.  
-3° Anno (con orientamento di direzione ospedaliera):  
-Storia degli ospedali e principi metodologici della assistenza ospitaliera;  
-Igiene e tecnica delle costruzioni ospitaliere, arredamento ed impianti sanitari;  
-Organizzazione e funzione degli ospedali generali e speciali;  
-Diritto amministrativo e legislazione ospitaliera;  
-Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospitaliera;  
-Selezione ed istruzione professionale del personale ospitaliero;  
-Organizzazione e funzione dei laboratori di analisi e di accertamento necroscopico.  
-3° Anno (con orientamento di igiene e medicina scolastica):  
-Auxologia normale e patologica;  
-Epidemiologia e profilassi delle malattie dell'eta' scolare;  
-Elementi di psicologia e pedagogia per l'eta' scolare;  
-Igiene dell'alimentazione;  
-Assistenza parascolastica;  
-Edilizia scolastica.  
-Al piano di studi proposto per ogni anno di corso si aggiunge obbligatoriamente un corso complementare che il candidato potra' scegliere a seconda dell'interesse fra il seguente gruppo di materie complementari:  
-Ispezioni delle carni;  
-Geologia applicata all'igiene;  
-Igiene mentale;  
-Malattie professionali e loro prevenzione;  
-Diritto sanitario;  
-Igiene navale e dell'emigrazione;  
-Antropologia culturale e sociologica;  
-Malattie tropicali;  
-Istituzioni di matematica;  
-Genetica;  
-Gerontologia e geriatria;  
-Elementi di economia politica.  
-Art. 130. - Gli allievi sono tenuti a frequentare, in qualita' di interni, l'istituto di igiene e svolgere turni presso istituti, ospedali e altri servizi sanitari secondo quanto stabilito dalla direzione della scuola.  
-Art. 131. - Alla fine di ogni anno di corso, gli allievi, per essere ammessi agli anni di corso successivi, debbono aver superato tutti gli esami dell'anno precedente.  
-L'esame di diploma si sostiene alla fine del terzo anno e consiste nella discussione di una tesi scritta assegnata dalla direzione della scuola.  
-  
-Il presente decreto, munite del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.  
-  
-Dato a Roma, addi' 4 agosto 1971  
-  
-SARAGAT  
-  
-MISASI   
-Visto, il Guardasigilli: COLOMBO  
-Registrato alla Corte dei conti, addi' 15 ottobre 1971  
-Atti del Governo, registro n. 244, foglio n. 153. - CARUSO  
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Dato a Roma, addi' 25 luglio 1952
+
+EINAUDI SEGNI
+
+Visto, il Guardasigilli: ZOLI
+
+Registrato alla Corte dei conti, addi' 16 settembre 1952
+
+Atti del Governo, registro n. 58, foglio n. 18. - FRASCA

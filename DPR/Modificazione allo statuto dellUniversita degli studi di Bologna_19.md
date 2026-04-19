@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1983 n. 1112
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 930
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1983 n. 1112
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 930
 ==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Bologna.
@@ -39,19 +39,22 @@ Articolo unico
 --------------
 
   
-Nell'art. 97, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-tecniche operatorie generali.  
+  
+Nell'art. 73, relativo al corso di laurea, in lettere della facolta' di lettere e filosofia, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:   
+geografia applicata e organizzazione del territorio.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 maggio 1983
+### Dato a Roma, addi' 31 ottobre 1985
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 22 marzo 1984
+Registrato alla Corte dei conti, addi' 14 febbraio 1986
 
-Registro n. 17 Istruzione, foglio n. 348
+Registro n. 9 Istruzione, foglio n. 128

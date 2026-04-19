@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1981 n. 144
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 giugno 1980 n. 604
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1981 n. 144
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 giugno 1980 n. 604
+=============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare un legato.
 -------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-144. Decreto del Presidente della Repubblica 25 febbraio 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 1.000.000, disposto dalla sig.na Giotti Ida a favore dell'Associazione nazionale ciechi, che si identifica con l'Unione italiana dei ciechi, con testamento olografo 10 febbraio 1975, pubblicato in data 3 settembre 1975, n. 47190 di repertorio e n. 12130 di fascicolo, a rogito dott. Franco Lobetti Bodoni, notaio in Torino, registrato a Torino in data 5 settembre 1975 al n. 22773 vol. 1302.  
+604. Decreto del Presidente della Repubblica 18 giugno 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 500.000, disposto dalla sig.na Maria Masenza con testamento pubblico 27 agosto 1971, n. 51 di repertorio, a rogito dott. Oliviero Melchiorre, notaio in Torino, pubblicato in data 10 maggio 1977, n. 21238 di repertorio, n. 8575 d'ordine, a rogito medesimo notaio.  
   
-Visto, il Guardasigilli: SARTI  
-Registrato alla Corte dei conti, addi' 13 aprile 1981  
-Registro n. 3 Presidenza, foglio n. 118
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti, addi' 19 settembre 1980  
+Registro n. 7 Presidenza, foglio n. 327

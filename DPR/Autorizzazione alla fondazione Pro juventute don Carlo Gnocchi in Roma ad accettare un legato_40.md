@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 959
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 gennaio 1980 n. 95
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 959
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 gennaio 1980 n. 95
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-959. Decreto del Presidente della Repubblica 31 dicembre 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 20.000.000, disposto dal sig. Bolchi Antonio, con testamento olografo del 29 dicembre 1981, pubblicato in data 8 febbraio 1982, n. 24492 di repertorio, a rogito dott. Luigi Augusto Miserocchi, notaio in Milano registrato a Milano, in data 10 febbraio 1982 al n. 03802.   
+95. Decreto del Presidente della Repubblica 22 gennaio 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in azioni, obbligazioni e libretto di deposito, del valore complessivo lire 19.209.319, disposto dalla sig.ra Maria Zavater ved. Galli con testamento olografo 23 giugno 1975, pubblicato in data 14 luglio 1977, n. 43403 di repertorio, a rogito dott. Mario Matricardi, notaio in Verbania-Pallanza (Novara), registrato a Verbania in data 26 luglio 1977, n. 1750, mod. I, vol. 161.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 10 marzo 1986   
-Registro n. 2 Presidenza, foglio n. 381
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti, addi' 21 marzo 1980  
+Registro n. 2 Presidenza, foglio n. 342

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1982 n. 1072
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1983 n. 698
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1982 n. 1072
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1983 n. 698
+==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
@@ -39,19 +39,39 @@ Articolo unico
 --------------
 
   
-Art. 130 - nell'art. 130, relativo al corso di laurea in architettura, all'elenco degli insegnamenti complementari, e' aggiunto il seguente:  
-diritto e legislazione urbanistica.  
+Nell'art. 9, relativo al corso di laurea in giurisprudenza, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+diritto della famiglia e delle successioni;  
+diritto delle obbligazioni;  
+diritto privato dell'economia;  
+sistemi giuridici comparati;  
+diritto comparato penale e processuale penale;  
+diritto amministrativo comparato;  
+storia delle costituzioni moderne;  
+informatica giuridica;  
+diritto degli enti locali;  
+diritto del commercio internazionale;  
+giustizia costituzionale;  
+diritto della spesa pubblica;  
+storia costituzionale e amministrativa;  
+diritto dell'impiego pubblico;  
+diritto dell'informazione e delle comunicazioni di massa;  
+diritto penale tributario;  
+politica economica.  
+Nel medesimo elenco sono altresi' soppressi i seguenti insegnamenti:  
+diritto di famiglia;  
+contabilita' di Stato;  
+diritto penitenziario.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1982
+### Dato a Roma, addi' 11 ottobre 1983
 
-PERTINI BODRATO
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 31 gennaio 1983
+Registrato alla Corte dei conti, addi' 7 dicembre 1983
 
-Registro n. 6 Istruzione, foglio n. 386
+Registro n. 75 Istruzione, foglio n. 289

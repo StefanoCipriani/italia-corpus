@@ -1,154 +1,48 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1953 n. 383
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 maggio 1972 n. 411
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1953 n. 383
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 maggio 1972 n. 411
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 22 maggio 1939, n. 1166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-22;1166) e modificato con [legge 10 giugno 1939, n. 872](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-10;872); con regi decreti 26 ottobre 1040, n. 2056; 15 aprile 1942, n. 423; con [decreti del Capo provvisorio dello Stato 27 luglio 1947, n. 1138](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-07-27;1138); del [Presidente della Repubblica 23 settembre 1949, n. 942](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;942); [21 novembre 1949, n. 1194](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-11-21;1194); [13 marzo 1950, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-03-13;283); [27 ottobre 1951, n. 1825](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1825) e [23 aprile 1952, n. 873](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-04-23;873);
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati e' cosi' ulteriormente modificato:
-
-Art. 18. - Agli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:
-
-16) Filosofia della storia;
-
-17) Filosofia della religione.
-
-Art. 22. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:
-
-"Puericoltura;
-
-Parassitologia".
-
-Art. 25. - Agli insegnamenti complementari del corso di laurea in chimica industriale e' aggiunto quello di:
-
-9) Elettrotecnica,
-
-Art. 32. - Agli insegnamenti complementari del corso di laurea in scienze matematiche sono aggiunti i seguenti:
-
-13) Geometria algebrica;
-
-14) Teoria delle funzioni;
-
-15) Teoria dei numeri;
-
-16) Topologia;
-
-17) Storia delle matematiche.
-
-Art. 34. - All'elenco degli insegnamenti complementari del corso di laurea in matematica e fisica sono aggiunti i seguenti:
-
-15) Teoria delle funzioni;
-
-16) Topologia;
-
-17) Storia delle matematiche;
-
-18) Fisica terrestre;
-
-19) Onde elettromagnetiche.
-
-Sono soppressi i seguenti insegnamenti complementari: "elettrotecnica" e "mineralogia".
-
-Art. 38. - Laurea in scienze naturali. E' aggiunto all'ultimo comma quanto segue:
-
-"Non potranno presentarsi a sostenere gli esami di "fisiologia vegetale" gli studenti che non abbiano superato gli esami di "chimica generale ed inorganica" e di "chimica organica".
-
-All'art. 91, lettera e), relativo alla Scuola di perfezionamento in anestesia, le parole: "La durata del corso e' di un anno" sono sostituite dalle seguenti:
-
-"La durata del corso e' di due anni".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 10 febbraio 1953
-
-EINAUDI
-
-SEGNI
-
-Visto, il Guardasigilli: ZOLI
-
-Registrato
-----------
-
-alla Corte del conti, addi' 15 maggio 1953 Atti del Governo, registro n. 76, foglio n. 103. - PALLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 22 maggio 1939, n. 1166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-22;1166) e modificato con [legge 10 giugno 1939, n. 872](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-10;872); con regi decreti 26 ottobre 1040, n. 2056; 15 aprile 1942, n. 423; con [decreti del Capo provvisorio dello Stato 27 luglio 1947, n. 1138](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-07-27;1138); del [Presidente della Repubblica 23 settembre 1949, n. 942](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;942); [21 novembre 1949, n. 1194](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-11-21;1194); [13 marzo 1950, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-03-13;283); [27 ottobre 1951, n. 1825](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1825) e [23 aprile 1952, n. 873](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-04-23;873);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, numero 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 20 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-20;2056), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati e' cosi' ulteriormente modificato:  
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 28: all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:  
+Endocrinologia sperimentale;  
+Tossicologia forense;  
+Terapia fisica e riabilitazione;  
+Idrologia e climatologia medica.  
   
-Art. 18. - Agli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:  
-16) Filosofia della storia;  
-17) Filosofia della religione.  
-Art. 22. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:  
-"Puericoltura;  
-Parassitologia".  
-Art. 25. - Agli insegnamenti complementari del corso di laurea in chimica industriale e' aggiunto quello di:  
-9) Elettrotecnica,  
-Art. 32. - Agli insegnamenti complementari del corso di laurea in scienze matematiche sono aggiunti i seguenti:  
-13) Geometria algebrica;  
-14) Teoria delle funzioni;  
-15) Teoria dei numeri;  
-16) Topologia;  
-17) Storia delle matematiche.  
-Art. 34. - All'elenco degli insegnamenti complementari del corso di laurea in matematica e fisica sono aggiunti i seguenti:  
-15) Teoria delle funzioni;  
-16) Topologia;  
-17) Storia delle matematiche;  
-18) Fisica terrestre;  
-19) Onde elettromagnetiche.  
-Sono soppressi i seguenti insegnamenti complementari: "elettrotecnica" e "mineralogia".  
-Art. 38. - Laurea in scienze naturali. E' aggiunto all'ultimo comma quanto segue:  
-"Non potranno presentarsi a sostenere gli esami di "fisiologia vegetale" gli studenti che non abbiano superato gli esami di "chimica generale ed inorganica" e di "chimica organica".  
-All'art. 91, lettera e), relativo alla Scuola di perfezionamento in anestesia, le parole: "La durata del corso e' di un anno" sono sostituite dalle seguenti:  
-"La durata del corso e' di due anni".  
+Nello stesso articolo l'insegnamento di "Fisiochinesiterapia" e' soppresso.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 febbraio 1953
+### Dato a Roma, addi' 16 maggio 1972
 
-EINAUDI SEGNI
+LEONE MISASI
 
-Visto, il Guardasigilli: ZOLI
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte del conti, addi' 15 maggio 1953
+Registrato alla Corte dei conti, addi' 31 luglio 1972
 
-Atti del Governo, registro n. 76, foglio n. 103. - PALLA
+Atti del Governo, registro n. 250, foglio n. 103. - CARUSO

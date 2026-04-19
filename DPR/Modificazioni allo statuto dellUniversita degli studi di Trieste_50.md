@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 674
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1980 n. 168
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 674
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1980 n. 168
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Trieste, approvato con [regio decreto 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1961-10-31;1836), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,77 +18,80 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio universitario nazionale nel suo parere;
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Veduto il [parere della sezione prima del Consiglio di Stato n. 1902/74 del 14 febbraio 1975](https://e-justice.europa.eu/ecli/ECLI::::);
 
-Decreta:
---------
+Considerato che non appare opportuno, al momento, procedere ad una generale revisione delle norme statutarie di tutti gli atenei relative alla direzione delle scuole di specializzazione e perfezionamento e degli istituti nonche' delle scuole dirette a fini speciali, attualmente affidata esclusivamente ai professori di ruolo o fuori ruolo, in attesa del provvedimento relativo allo stato giuridico del personale docente;
 
-Lo statuto dell'Universita' di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Sulla
+-----
+
+proposta del Ministro della pubblica istruzione; Decreta:
 
 Articolo unico
 --------------
 
   
-Art. 61 - all'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti insegnamenti:  
-storia dell'arte moderna e contemporanea;  
-storia della miniatura;  
-storia della cartografia;  
-agiografia;  
-filologia latina;  
-metodologia della ricerca storica;  
-storia del Rinascimento;  
-storia dell'eta' dell'Illuminismo.  
-Art. 62 - all'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti insegnamenti:  
-pedagogia speciale;  
-educazione degli adulti;  
-storia della scuola e delle istituzioni educative;  
-diritto scolastico italiano e comparato.  
-Art. 63 - all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere della facolta' di magistero sono aggiunti i seguenti insegnamenti:  
-filologia slava;  
-storia della lingua tedesca;  
-storia della lingua inglese;  
-storia della lingua francese;  
-storia della lingua spagnola;  
-glottologia;  
-linguistica generale;  
-glottodidattica;  
-letteratura nord-americana;  
-letteratura inglese moderna e contemporanea;  
-letteratura francese moderna e contemporanea;  
-letteratura tedesca moderna e contemporanea;  
-lingua e letteratura slovena;  
-lingua e letteratura ungherese;  
-lingua e letteratura neo-greca;  
-lingua e letteratura scandinava;  
-storia della letteratura austriaca;  
-storia del cinema;  
-storia della musica;  
-storia del teatro e dello spettacolo;  
-psicolinguistica;  
-sociolinguistica;  
-letterature comparate;  
-lingua e letteratura serbo-croata.  
+Lo statuto dell'Universita' di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Dopo l'art. 171, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in dermatologia e venereologia:  
   
+Scuola di specializzazione in dermatologia e venereologia  
+  
+Art. 172. - La scuola di specializzazione in dermatologia e venereologia ha sede presso la clinica dermosifilopatica dell'Universita' degli studi di Trieste e conferisce il diploma di specialista in dermatologia e venereologia. L'obbligo della frequenza presso la clinica dermosifilopatica di Trieste per tutto l'anno accademico puo' essere ridotto ad un mese per gli specializzandi che operino assiduamente in qualita' di assistenti o di aiuti presso reparti dermatologici di altri ospedali regionali.  
+E' obbligatorio il superamento degli esami di un corso per l'ammissione al corso successivo.  
+Art. 173. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo di clinica dermosifilopatica o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Art. 174. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+Art. 175. - La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazioni.  
+Art. 176. - Il numero massimo degli allievi e' di tre per anno di corso e complessivamente di nove iscritti per l'intero corso di studi.  
+Art. 177. - L'ammissione al corso avviene per titoli ed esami.  
+Art. 178. - Le materie d'insegnamento sono le seguenti:  
+1° Anno:  
+1) anatomia ed istologia normale della cute;  
+2) fisiologia della cute e degli annessi cutanei;  
+3) anatomia e fisiologia dell'apparato genitale;  
+4) microbiologia;  
+5) tecniche di laboratorio applicate alla disciplina;  
+6) semeiotica dermatologica e venereologica.  
+2° Anno:  
+1) patologia delle malattie cutanee;  
+2) patologia delle infezioni veneree;  
+3) istopatologia e citologia dermatologica e venereologica;  
+4) immunopatologia cutanea;  
+5) dermatologia allergologica e professionale;  
+6) angiologia;  
+7) sessuologia.  
+3° Anno:  
+1) clinica delle malattie cutanee;  
+2) clinica delle infezioni veneree;  
+3) dermatologia pediatrica;  
+4) farmacologia e terapia;  
+5) fisioterapia dermatologica;  
+6) cosmetologia;  
+7) chirurgia plastica riparatrice;  
+8) igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.  
+Art. 179. - Il corso di lezioni deve essere impartito mediante almeno cinquanta lezioni annuali, comprensive delle varie materie, e la frequenza giornaliera degli iscritti non deve essere inferiore alle quattro ore effettive per tutta la durata dell'anno accademico.  
+Gli specializzandi hanno percio' obbligo di fare esercitazione pratica nei reparti, negli ambulatori e nei laboratori, oltre a seguire i corsi di lezioni ad essi impartiti.  
+Gli esami di profitto vengono sostenuti in due sessioni. L'esame di diploma consiste nella esposizione e discussione di un argomento della disciplina su un tema assegnato al candidato ventiquattro ore prima della prova.  
+Le tasse, soprattasse e contributi della scuola di specializzazione in dermatologia e venereologia sono cosi' fissate:  
+  
+tassa di immatricolazione . . . . . . . . . . . . . . . . . L. 10.000 costo libretto di iscrizione . . . . . . . . . . . . . . . . L. 3.000 tassa annuale di iscrizione. . . . . . . . . . . . . . . . L. 300.000 soprattassa annuale esami di profitto . . . . . . . . . . . L. 10.000 contributo annuale clinica e laboratorio . . . . . . . . . L. 100.000 tassa di diploma . . . . . . . . . . . . . . . . . . . . . . L. 6.000   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 aprile 1984
+### Dato a Roma, addi' 14 gennaio 1980
 
-PERTINI FALCUCCI
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 1 ottobre 1984
+Registrato alla Corte dei conti, addi' 26 aprile 1980
 
-Registro n. 58 Istruzione, foglio n. 302
+Registro n. 38 Istruzione, foglio n. 45

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 855
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 ottobre 1985 n. 964
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 855
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 ottobre 1985 n. 964
+==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Sassari.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Sassari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Sassari, approvato con regio decreto 17 ottobre. 1941, n. 1217, e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,7 +20,7 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980 n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
 Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
@@ -39,18 +39,25 @@ Articolo unico
 --------------
 
   
-Nell'art. 40, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente: fisiopatologia medica.  
+Nell'art. 81, relativo al corso di laurea in scienze agrarie, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+  
+entomologia delle piante ortensi, da fiore e ornamentali;  
+genesi, classificazione e cartografia del terreno;  
+lotta biologica e integrata;  
+inquinamento dell'ambiente agrario.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Selva di Val Gardena, addi' 2 settembre 1983
+### Dato a Roma, addi' 12 ottobre 1985
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 18 gennaio 1984
+Registrato alla Corte dei conti, addi' 20 marzo 1986
 
-Registro n. 2 Istruzione, foglio n. 182.
+Registro n. 18 Istruzione, foglio n. 72

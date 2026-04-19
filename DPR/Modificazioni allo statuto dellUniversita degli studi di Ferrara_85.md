@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1977 n. 1209
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1966 n. 457
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1977 n. 1209
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1966 n. 457
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 -------------------------------------------------------------------
@@ -10,171 +10,187 @@ Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara, e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-L'art. 144, relativo alla scuola di specializzazione in oncologia, e' soppresso e sostituito dal seguente:
+Art. 30. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di: "Chirurgia pediatrica".
 
-Art. 144. - Potranno essere iscritti alla scuola i laureati in medicina e chirurgia, nel numero complessivo di 30 da ripartire nei tre anni di corso.
+Art. 86. - All'elenco degli insegnamenti del 1° e 2° anno della Scuola di perfezionamento in Clinica pediatrica sono aggiunti i seguenti:
 
-Gli articoli 153, 154 e 155, relativi alla scuola di specializzazione in reumatologia, sono abrogati e sostituiti dai seguenti:
+1° anno:
 
-Art. 153. - La scuola di specializzazione in reumatologia, istituita presso la facolta' di medicina dell'Universita' di Ferrara, ha la durata di 4 anni accademici. Alla scuola possono iscriversi solo i laureati in medicina e chirurgia.
+8) Semeiotica pediatrica I;
 
-Per l'ammissione e' previsto un concorso per titoli ed esami.
+9) Assistenza sociale all'infanzia.
 
-Art. 154. - Non potranno essere concesse per nessun titolo abbreviazioni di corso. Il numero complessivo degli iscritti nei quattro anni di corso non potra' essere superiore a 30.
+2° anno:
 
-Alla fine di ogni anno di corso saranno tenuti gli esami relativi agli insegnamenti impartiti come specificato nell'art. 155.
+5) Semeiotica pediatrica II;
 
-Art. 155. - Le materie di insegnamento ed i relativi esami sono cosi' ripartiti:
+6) Igiene e legislazione sanitaria scolastica II.
 
-1° Anno:
+Dopo l'art. 107 sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in Clinica otorinolaringoiatrica, annessa alla Facolta' di medicina e chirurgia.
 
-1) anatomia, istologia e morfogenesi dell'apparato locomotore;
+Scuola di specializzazione in Clinica otorinolaringoiatrica
 
-2) fisiologia e fisiopatologia dell'apparato locomotore;
+Art. 108. - La Scuola di specializzazione in Clinica otorinolaringoiatrica ha sede presso la Clinica otorinolaringoiatrica ed ha la durata di tre anni. Direttore della Scuola e' il direttore della Clinica otorinolaringoiatrica stessa.
 
-3) biochimica di interesse reumatologico;
+Art. 109. - Le materie di insegnamento sono le seguenti:
 
-4) microbiologia in relazione alle malattie reumatiche;
+1° anno:
 
-5) immunologia reumatologica;
+1) Anatomia otorinolaringoiatrica;
 
-6) semeiotica fisica e strumentale in reumatologia (biennale). 2° Anno:
+2) Fisiologia otorinolaringoiatrica;
 
-1) semeiotica fisica e strumentale in reumatologia (biennale);
+3) Semeiotica otorinolaringoiatrica;
 
-2) esami di laboratorio in reumatologia;
+4) Anatomia patologica delle malattie dell'orecchio, naso e gola;
 
-3) diagnostica radiologica delle reumo-artropatie;
+5) Clinica otorinolaringoiatrica I.
 
-4) farmacologia reumatologica;
+2° anno:
 
-5) anatomia e istologia patologica delle malattie reumatiche;
+1) Audiologia;
 
-6) clinica e terapia delle malattie reumatiche (triennale).
+2) Otoneurologia;
 
-3° Anno:
+3) Foniatria;
 
-1) clinica e terapia ortopedica (biennale);
+4) Medicina operatoria otorinolaringoiatrica;
 
-2) fisioterapia reumatologica;
+5) Broncoesofacologia;
 
-3) idro-climatologia di interesse reumatologico;
+6) Clinica otorinolaringoiatrica II.
 
-4) reumo-artropatie professionali;
+3° anno:
 
-5) clinica e terapia delle malattie reumatiche (triennale).
+1) Radiologia otorinolaringoiatrica;
 
-4° Anno:
+2) Allergologia;
 
-1) epidemiologia e aspetti sociali dei reumatismi;
+3) Anestesiologia in otorinolaringologia;
 
-2) riabilitazione del malato reumatico;
+4) Medicina legale e infortunistica otorinolaringoiatrica;
 
-3) clinica e terapia ortopedica (biennale);
+5) Clinica otorinolaringoiatrica III.
 
-4) clinica e terapia delle malattie reumatiche (triennale).
+E' insegnamento fondamentale la Clinica otorinolaringoiatrica e complementare tutti gli altri.
 
-L'[art. 157 del decreto del Presidente della Repubblica 25 luglio 1975, n. 478](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1975-07-25;478~art157), relativo alla scuola di specializzazione in oculistica che muta la denominazione in quella di scuola di specializzazione in oftalmologia, e' soppresso e sostituito dal seguente:
+Art. 110. - Possono iscriversi alla Scuola i laureati in Medicina e chirurgia nel numero massimo di 10 (dieci) per ogni anno.
 
-Art. 157. - La scuola di specializzazione in oftalmologia, che conferisce il diploma di specialista in oftalmologia, ha sede presso la clinica oculistica dell'Universita' ed e' diretta dal direttore della clinica oculistica.
+Ogni anno di corso comporta periodi di internato obbligatorio nella Clinica otorinolaringoiatrica, secondo modalita' stabilite dal direttore della Scuola.
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a, chiunque spetti di osservarlo e di farlo osservare.
+Art. 111. - Alla fine di ogni anno di corso gli iscritti dovranno sostenere un colloquio su tutti gli insegnamenti complementari, in gruppo di materie, che dovra' precedere l'esame fondamentale del rispettivo corso.
 
-Dato a Roma, addi' 7 ottobre 1977
+Non potranno accedere ai corsi successivi gli iscritti che non abbiano superato l'esame della materia fondamentale di ciascun anno.
 
-LEONE
+Alla fine del corso il candidato dovra' presentare e discutere una tesi scritta sull'argomento che gli sara' assegnato dal direttore della Scuola.
 
-MALFATTI
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Visto, il Guardasigilli: BONIFACIO
+Dato a Roma, addi' 13 maggio 1966
+
+SARAGAT
+
+GUI
+
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 27 giugno 1978 Registro n. 67 Istruzione, foglio n. 342
+alla Corte dei conti, addi' 24 giugno 1966 Atti del Governo, registro n. 203, foglio n. 168. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara, e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-L'art. 144, relativo alla scuola di specializzazione in oncologia, e' soppresso e sostituito dal seguente:  
-Art. 144. - Potranno essere iscritti alla scuola i laureati in medicina e chirurgia, nel numero complessivo di 30 da ripartire nei tre anni di corso.  
-Gli articoli 153, 154 e 155, relativi alla scuola di specializzazione in reumatologia, sono abrogati e sostituiti dai seguenti:  
-Art. 153. - La scuola di specializzazione in reumatologia, istituita presso la facolta' di medicina dell'Universita' di Ferrara, ha la durata di 4 anni accademici. Alla scuola possono iscriversi solo i laureati in medicina e chirurgia.  
-Per l'ammissione e' previsto un concorso per titoli ed esami.  
-Art. 154. - Non potranno essere concesse per nessun titolo abbreviazioni di corso. Il numero complessivo degli iscritti nei quattro anni di corso non potra' essere superiore a 30.  
-Alla fine di ogni anno di corso saranno tenuti gli esami relativi agli insegnamenti impartiti come specificato nell'art. 155.  
-Art. 155. - Le materie di insegnamento ed i relativi esami sono cosi' ripartiti:  
-1° Anno:  
-1) anatomia, istologia e morfogenesi dell'apparato locomotore;  
-2) fisiologia e fisiopatologia dell'apparato locomotore;  
-3) biochimica di interesse reumatologico;  
-4) microbiologia in relazione alle malattie reumatiche;  
-5) immunologia reumatologica;  
-6) semeiotica fisica e strumentale in reumatologia (biennale). 2° Anno:  
-1) semeiotica fisica e strumentale in reumatologia (biennale);  
-2) esami di laboratorio in reumatologia;  
-3) diagnostica radiologica delle reumo-artropatie;  
-4) farmacologia reumatologica;  
-5) anatomia e istologia patologica delle malattie reumatiche;  
-6) clinica e terapia delle malattie reumatiche (triennale).  
-3° Anno:  
-1) clinica e terapia ortopedica (biennale);  
-2) fisioterapia reumatologica;  
-3) idro-climatologia di interesse reumatologico;  
-4) reumo-artropatie professionali;  
-5) clinica e terapia delle malattie reumatiche (triennale).  
-4° Anno:  
-1) epidemiologia e aspetti sociali dei reumatismi;  
-2) riabilitazione del malato reumatico;  
-3) clinica e terapia ortopedica (biennale);  
-4) clinica e terapia delle malattie reumatiche (triennale).  
-L'[art. 157 del decreto del Presidente della Repubblica 25 luglio 1975, n. 478](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1975-07-25;478~art157), relativo alla scuola di specializzazione in oculistica che muta la denominazione in quella di scuola di specializzazione in oftalmologia, e' soppresso e sostituito dal seguente:  
-Art. 157. - La scuola di specializzazione in oftalmologia, che conferisce il diploma di specialista in oftalmologia, ha sede presso la clinica oculistica dell'Universita' ed e' diretta dal direttore della clinica oculistica.  
+Art. 30. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di: "Chirurgia pediatrica".  
+Art. 86. - All'elenco degli insegnamenti del 1° e 2° anno della Scuola di perfezionamento in Clinica pediatrica sono aggiunti i seguenti:  
+  
+1° anno:  
+8) Semeiotica pediatrica I;  
+9) Assistenza sociale all'infanzia.  
+2° anno:  
+5) Semeiotica pediatrica II;  
+6) Igiene e legislazione sanitaria scolastica II.  
+  
+Dopo l'art. 107 sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in Clinica otorinolaringoiatrica, annessa alla Facolta' di medicina e chirurgia.  
+Scuola di specializzazione in Clinica otorinolaringoiatrica  
+Art. 108. - La Scuola di specializzazione in Clinica otorinolaringoiatrica ha sede presso la Clinica otorinolaringoiatrica ed ha la durata di tre anni. Direttore della Scuola e' il direttore della Clinica otorinolaringoiatrica stessa.  
+Art. 109. - Le materie di insegnamento sono le seguenti:  
+  
+1° anno:  
+1) Anatomia otorinolaringoiatrica;  
+2) Fisiologia otorinolaringoiatrica;  
+3) Semeiotica otorinolaringoiatrica;  
+4) Anatomia patologica delle malattie dell'orecchio, naso e gola;  
+5) Clinica otorinolaringoiatrica I.  
+2° anno:  
+1) Audiologia;  
+2) Otoneurologia;  
+3) Foniatria;  
+4) Medicina operatoria otorinolaringoiatrica;  
+5) Broncoesofacologia;  
+6) Clinica otorinolaringoiatrica II.  
+3° anno:  
+1) Radiologia otorinolaringoiatrica;  
+2) Allergologia;  
+3) Anestesiologia in otorinolaringologia;  
+4) Medicina legale e infortunistica otorinolaringoiatrica;  
+5) Clinica otorinolaringoiatrica III.  
+  
+E' insegnamento fondamentale la Clinica otorinolaringoiatrica e complementare tutti gli altri.  
+Art. 110. - Possono iscriversi alla Scuola i laureati in Medicina e chirurgia nel numero massimo di 10 (dieci) per ogni anno.  
+Ogni anno di corso comporta periodi di internato obbligatorio nella Clinica otorinolaringoiatrica, secondo modalita' stabilite dal direttore della Scuola.  
+Art. 111. - Alla fine di ogni anno di corso gli iscritti dovranno sostenere un colloquio su tutti gli insegnamenti complementari, in gruppo di materie, che dovra' precedere l'esame fondamentale del rispettivo corso.  
+Non potranno accedere ai corsi successivi gli iscritti che non abbiano superato l'esame della materia fondamentale di ciascun anno.  
+Alla fine del corso il candidato dovra' presentare e discutere una tesi scritta sull'argomento che gli sara' assegnato dal direttore della Scuola.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a, chiunque spetti di osservarlo e di farlo osservare.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 7 ottobre 1977
+### Dato a Roma, addi' 13 maggio 1966
 
-LEONE MALFATTI
+SARAGAT GUI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 27 giugno 1978
+Registrato alla Corte dei conti, addi' 24 giugno 1966
 
-Registro n. 67 Istruzione, foglio n. 342
+Atti del Governo, registro n. 203, foglio n. 168. - VILLA

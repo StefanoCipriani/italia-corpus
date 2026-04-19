@@ -1,114 +1,70 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1969 n. 384
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1981 n. 875
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1969 n. 384
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1981 n. 875
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312); Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio universitario nazionale nei suoi pareri;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Nell'art. 38, relativo al corso di laurea in materie letterarie, all'elenco degli insegnamenti complementari sono aggiunti i nuovi insegnamenti di:  
+demografia storica;  
+filologia patristica;  
+filologia medievale e umanistica;  
+storia della filosofia moderna e contemporanea;  
+letteratura italiana moderna e contemporanea;  
+lingua e civilta' messapica.  
+
+Art. 2
+------
+
   
-Decreta:   
-  
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-  
-Gli articoli 201, 202, 203, 204, 205, 206, 207, 208, 209, 210 e 211 relativi alla scuola di specializzazione in igiene sono abrogati e sostituiti dai seguenti:   
-  
-Scuola di specializzazione in igiene e medicina preventiva   
-  
-Art. 201. - La scuola e' annessa all'istituto d'igiene.   
-La scuola e' articolata in quattro orientamenti: 1) Sanita' pubblica; 2) Laboratorio; 3) Igiene e tecnica ospedaliera; 4) Igiene e medicina scolastica.   
-Sono ammessi i laureati in medicina e chirurgia.   
-Il corso della scuola ha la durata di tre anni. Esso comprendera' lezioni teoriche ed esercitazioni pratiche e sara' integrato da visite ad istituzioni ed a impianti di interesse igienico-sanitario.   
-Verranno, inoltre, tenute conferenze su argomenti di particolare interesse igienico.   
-La frequenza, sia alle lezioni, che alle esercitazioni, e' obbligatoria.   
-Il numero complessivo degli iscritti alla scuola non puo' essere superiore a quarantacinque.   
-A nessun titolo sono ammesse abbreviazioni di corso.   
-Nel caso che il numero degli aspiranti ala iscrizione sia superiore al numero dei posti disponibili, si provvedera' alla scelta da parte della direzione, in base ai titoli di studio ed eventualmente ad esami.   
-Gli insegnamenti impartiti nella scuola sono i seguenti:   
-Biennio propedeutico (comune ai quattro orientamenti):   
-1° Anno:   
-Metodologia statistica e biometria;   
-Educazione sanitaria;   
-Psicologia;   
-Microbiologia;   
-Parassitologia;   
-Epidemiologia e profilassi generale.   
-2° Anno:   
-Patologia e clinica delle malattie infettive;   
-Epidemiologia e profilassi delle malattie infettive;   
-Patologia e clinica delle malattie non infettive di importanza sociale;   
-Epidemiologia e profilassi delle malattie non infettive di importanza sociale;   
-Demografia e statistica sanitaria;   
-Legislazione e organizzazione sanitaria.   
-3° Anno (orientamento sanita' pubblica):   
-Approvvigionamento idrico; raccolta e smaltimento dei rifiuti liquidi e solidi; inquinamenti atmosferici;   
-Igiene edilizia e urbanistica;   
-Igiene dell'alimentazione;   
-Igiene e medicina scolastica;   
-Igiene ospedaliera;   
-Servizi di sanita' pubblica.   
-3° Anno (orientamento laboratorio):   
-Microscopia applicata all'igiene;   
-Microbiologia applicata all'igiene;   
-Chimica clinica;   
-Accertamento diagnostico delle malattie batteriche e parassitarie;   
-Accertamento diagnostico delle infezioni virali;   
-Nozioni di anatomia i istologia patologica.   
-3° Anno (orientamento igiene e tecnica ospedaliera):   
-Storia degli ospedali e principi metodologici della assistenza ospedaliera;   
-Igiene e tecnica delle costruzioni ospedaliere, arredamento ed impianti sanitari;   
-Organizzazione e funzione degli ospedali generali e speciali;  
-Diritto amministrativo e legislazione ospedaliera;   
-Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospedaliera;   
-Selezione e istruzione professionale del personale ospedaliero;   
-Organizzazione e funzione dei laboratori di analisi e di accertamento necroscopico.   
-3° Anno (orientamento igiene e medicina scolastica):   
-Auxologia normale e patologica;   
-Epidemiologia e profilassi delle malattie dell'eta' scolare;.  
-Servizi di medicina scolastica;   
-Elementi di psicologia e pedagogia per l'eta' scolare;   
-Igiene dell'alimentazione;   
-Assistenza parascolastica;   
-Edilizia scolastica.   
-Materie complementari   
-Ispezione delle carni;   
-Geologia applicata all'igiene;   
-Igiene mentale;   
-Malattie professionali e loro prevenzione;   
-Diritto sanitario;   
-Igiene navale e dell'emigrazione;   
-Antropologia culturale e sociologica;   
-Malattie tropicali;   
-Istituzioni di matematica;   
-Genetica;   
-Gerontologia e geriatria;   
-Elementi di economia politica.   
-Per ogni anno di corso lo specializzando e' obbligato, inoltre, a seguire un insegnamento complementare a sua scelta e a superarne l'esame.   
+Nell'art. 39, relativo al corso di laurea in pedagogia, all'elenco degli insegnamenti complementari sono aggiunti i nuovi insegnamenti: filologia patristica;  
+filologia medievale e umanistica;  
+storia della filosofia moderna e contemporanea;  
+lingua e civilta' messapica;  
+letteratura italiana moderna e contemporanea.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 maggio 1969
+### Dato a Roma, addi' 25 settembre 1981
 
-SARAGAT FERRARI AGGRADI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 14 luglio 1969
+Registrato alla Corte dei conti, addi' 7 gennaio 1982
 
-Atti del Governo, registro n. 228, foglio n. 5. - CARUSO
+Registro n. 1 Istruzione, foglio n. 125

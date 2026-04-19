@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1983 n. 409
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 gennaio 1982 n. 130
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1983 n. 409
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 gennaio 1982 n. 130
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Siena.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,54 +18,76 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
+Veduto l'[art. 16 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art16);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Siena e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Veduto il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Decreta:
---------
+Sulla
+-----
 
-Lo statuto dell'Universita' di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+proposta del Ministro della pubblica istruzione; Decreta:
 
-Art. 1
-------
-
-  
-Nell'art. 47, relativo al corso di laurea in filosofia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-filosofia politica.  
-
-Art. 2
-------
+Articolo unico
+--------------
 
   
-Nell'art. 76, relativo al corso di laurea in farmacia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-farmacognosia.  
-
-Art. 3
-------
-
+Lo statuto dell'Universita' di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Nell'art. 69, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-fisiologia clinica.  
+Dopo l'art. 362, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in sicurezza sociale e organizzazione sanitaria.  
+  
+Scuola di specializzazione in sicurezza sociale e organizzazione sanitaria  
+  
+Art. 363. - La scuola di specializzazione in sicurezza sociale e organizzazione sanitaria ha sede presso la cattedra di medicina sociale e conferisce il diploma di specialista in sicurezza sociale e organizzazione sanitaria.  
+Art. 364. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
+Art. 365. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalle autorita' competenti.  
+Art. 366. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.  
+Art. 367. - Il numero massimo degli allievi e' di quindici per anno di corso e complessivamente di sessanta iscritti per l'intero corso di studi.  
+Art. 368. - L'ammissione al corso avviene per titoli ed esami.  
+Art. 369. - L'insegnamento verra' impartito per certe materie secondo moduli interdisciplinari e si articolera' in lezioni e in seminari di ricerca. Le materie d'insegnamento sono le seguenti:  
+1° Anno:  
+storia delle istituzioni sanitarie e previdenziali nel secolo XX;  
+medicina legale e della sicurezza sociale (biennale - 1° anno); deontologia e legislazione sanitaria;  
+diritto della sicurezza sociale;  
+psicopatologia sociale;  
+sociologia medica delle devianze.  
+2° Anno:  
+medicina legale e della sicurezza sociale (2° anno);  
+medicina sociale e preventiva (insegnamento interdisciplinare sugli aspetti sociali delle situazioni patologiche di maggiore importanza) (triennale - 1° anno);  
+informatica ed epidemiologia (insegnamento interdisciplinare: elementi di statistica, statistica sanitaria, informatica sanitaria, epidemiologia generale e clinica, biometria).  
+3° Anno:  
+medicina sociale e preventiva (2° anno);  
+igiene sociale;  
+tossicologia industriale e medicina preventiva dei lavoratori; economia sanitaria;  
+programmazione ed organizzazione dei servizi sanitari (insegnamento interdisciplinare: indicatori di efficienza e di efficacia dei servizi, principi e metodiche di controllo delle prestazioni mediche e farmaceutiche, automazione dei servizi, personale paramedico) (biennale - 1° anno).  
+4° Anno:  
+medicina sociale e preventiva (3° anno);  
+programmazione e organizzazione dei servizi sanitari (i servizi di prevenzione e riabilitazione nel piano fisico e mentale) (2° anno);  
+caratteristiche e competenze dell'U.S.L.;  
+organizzazione e competenze sanitarie e previdenziali nei Paesi della Comunita' europea.  
+Art. 370. - La frequenza alle lezioni e ai seminari di ricerca e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove d'esame.  
+Art. 371. - Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove d'esame sulle materie impartite durante l'anno. Dovranno altresi' presentare un rendiconto scritto sulle loro ricerche seminariali.  
+Per le materie biennali o triennali l'esame sara' sostenuto alla fine del biennio o del triennio.  
+Al termine del corso di studi per il conseguimento del diploma di specialista in "sicurezza sociale e organizzazione sanitaria", gli interessati dovranno superare lo esame di diploma consistente nella dissertazione scritta su un argomento attinente alla specializzazione.  
+Art. 372. - Le tasse, soprattasse e contributi della scuola di specializzazione in sicurezza sociale e organizzazione sanitaria sono quelle previste dalle norme generali del presente statuto.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 aprile 1983
+### Dato a Roma, addi' 15 gennaio 1982
 
-PERTINI FALCUCCI
+PERTINI BODRATO
 
 Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 17 agosto 1983
+Registrato alla Corte dei conti, addi' 20 marzo 1982
 
-Registro n. 59 Istruzione, foglio n. 101
+Registro n. 43 Istruzione, foglio n. 323

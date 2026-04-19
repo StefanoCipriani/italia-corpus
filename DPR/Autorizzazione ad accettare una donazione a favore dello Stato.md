@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1984 n. 1202
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 dicembre 1986 n. 1062
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1984 n. 1202
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 dicembre 1986 n. 1062
+================================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -10,10 +10,10 @@ Autorizzazione ad accettare una donazione a favore dello Stato.
 Art. 1
 ------
 
-N.
+n.
 
-1202. Decreto del Presidente della Repubblica 7 giugno 1984, col quale, sulla proposta del Ministro delle finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dall'ente morale Sacrestia della chiesa parrocchiale di Santa Croce, in Monterosi (Viterbo), con atto 13 marzo 1981, n. 7254 di repertorio, a rogito dott. Luigi De Santis, notaio in Caprarola (Viterbo), registrato a Viterbo in data 18 marzo 1981 al n. 2414, consistente in un terreno della superficie di mq 1000 occorso per la realizzazione del monumento ossario ai caduti in Monterosi.  
+1062. Decreto del Presidente della Repubblica 22 dicembre 1986, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato della donazione, consistente in una collezione di trentaquattro opere, fra dipinti e disegni dei secoli XV, XVIII e XIX, i quali rivestono un importante interesse artistico e storico, da destinare alla Galleria nazionale d'arte moderna di Firenze, disposta dall'avv. Marcello Saltini con atto 6 aprile 1978, n. 15998/7309 di repertorio, a rogito dottor Giovanni Basetti Sani, notaio in Firenze, registrato a Firenze in data 24 aprile 1978 al n. 3421.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 26 ottobre 1984  
-Registro n. 59 Finanze, foglio n. 289
+Visto, il Guardasigilli: ROGNONI  
+Registrato alla Corte dei conti, addi' 25 marzo 1987  
+Registro n. 8 Beni culturali, foglio n. 227

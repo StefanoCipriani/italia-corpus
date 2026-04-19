@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1979 n. 379
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 luglio 1982 n. 779
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1979 n. 379
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 luglio 1982 n. 779
 =============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad acquistare un immobile.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-379. Decreto del Presidente della Repubblica 11 giugno 1979, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad acquistare dai signori Sutera Sardo Gerlando e Leccarda, al convenuto prezzo di L. 12.000.000, un appartamento sito in Agrigento, via Esseneto n. 19, distinto nel nuovo catasto edilizio urbano alla partita 4585, foglio 149, part. 41 sub 3, cat. A/4, classe 5, V.C. 4.00, R.C. L. 1040, da destinare a sede sociale.   
+779. Decreto del Presidente della Repubblica 27 luglio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad acquistare un immobile di mq 328 sito in Modena, viale Gramsci n. 259/277, distinto nel nuovo catasto edilizio urbano alla partita n. 15908, foglio 73, mappale 27465 sub 1, valore attribuito L. 194.634.000 elevato dall'ufficio tecnico erariale di Modena a L. 195.000.000 previa cancellazione dell'ipoteca di L. 72.500.000 a favore della Cassa di risparmio di Modena.  
   
-Visto, il Guardasigilli: MORLINO   
-Registrato alla Corte dei conti, addi' 3 agosto 1979   
-Registro, n. 6 Presidenza, foglio n. 23
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 21 ottobre 1982  
+Registro n. 9 Presidenza, foglio n. 249

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 marzo 1966 n. 401
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1961 n. 495
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 marzo 1966 n. 401
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1961 n. 495
 ============================================================
 
 Autorizzazione all'Unione italiana dei ciechi ad accettare un legato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-401. Decreto del Presidente della Repubblica 3 marzo 1966, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi viene autorizzata ad accettare un legato disposto dal defunto rag. Guido Torre, con testamento pubblico a rogito dott. Giovanni Ghione, notaio in Torino, dell'11 ottobre 1962, n. 452 di repertorio, consistente in buoni del Tesoro novennali 5% del valore di L. 10.000.000 (diecimilioni) in favore della sezione piemontese dell'Unione stessa.  
+495. Decreto del Presidente della Repubblica 31 marzo 1961, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi viene autorizzata ad accettare un legato disposto dalla defunta signora Maria Elisabetta Blume vedova Hohenschleyer - con testamento olografo del 30 maggio 1956, pubblicato per atto a rogito notaio dottor Giuseppe Nicolodi di Trento, in data 5 novembre 1958, numero di repertorio 48707/18281 racc. - a favore della Sezione tridentina della predetta Unione.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 4 giugno 1966  
-Atti del Governo, registro n. 203, foglio n. 113. - VILLA
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 12 giugno 1961  
+Atti del Governo, registro n. 137, foglio n. 24. - VILLA

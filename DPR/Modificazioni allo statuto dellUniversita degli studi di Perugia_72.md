@@ -1,271 +1,42 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1976 n. 700
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 luglio 1955 n. 803
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1976 n. 700
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 luglio 1955 n. 803
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Perugia, approvato con [regio decreto 29 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-29;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Perugia e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Dopo l'art. 134, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla scuola di specializzazione in scienza dell'alimentazione, annessa alla facolta' di farmacia.
-
-Scuola di specializzazione in scienza dell'alimentazione
-
-(Annessa alla facolta' di farmacia)
-
-Art. 135. - E' istituita presso l'istituto di scienza dell'alimentazione della facolta' di farmacia, la scuola di specializzazione in scienza dell'alimentazione.
-
-Direttore della scuola e' il titolare della cattedra di scienza dell'alimentazione o in caso di vacanza della cattedra, il titolare della cattedra di chimica biologica.
-
-Il consiglio della scuola e' costituito da tutti i docenti che insegnano nella scuola stessa. Gli incarichi di insegnamento nella scuola sono conferiti dal rettore su proposta del direttore della scuola.
-
-Art. 136. - La scuola di specializzazione in scienza dell'alimentazione e' articolata secondo il seguente triplice indirizzo:
-
-a) indirizzo dietetico;
-
-b) indirizzo nutrizionistico;
-
-c) indirizzo tecnologico.
-
-L'indirizzo dietetico mira ad approfondire nei medici le conoscenze di base teoriche e pratiche di fondamentale importanza per la dietetica preventiva e curativa ed a stimolare, altresi', la ricerca scientifica nel vasto campo della nutrizione umana. A tale indirizzo possono iscriversi soltanto i laureati in medicina e chirurgia.
-
-L'indirizzo nutrizionistico mira alla preparazione specialistica di laureati in settori concernenti lo studio dei problemi generali e speciali dell'alimentazione negli aspetti fisiologici, bio-chimici, igienici, ecologici, economico-sociali, nonche' a stimolare la ricerca scientifica nei sopra citati settori.
-
-A tale indirizzo possono essere ammessi i laureati in chimica e tecnologia farmaceutiche, in farmacia, in medicina e chirurgia, in medicina veterinaria, in scienze biologiche, in scienze naturali, in scienze agrarie.
-
-L'indirizzo tecnologico mira alla preparazione di laureati per le attivita' direttive in settori concernenti le tecnologie alimentari in funzione dei loro riflessi nutritivi ed igienici sul prodotto finito nonche' a stimolare la ricerca in questo settore.
-
-A tale indirizzo possono essere ammessi i laureati in chimica, chimica e tecnologia farmaceutiche, farmacia, ingegneria chimica, scienze agrarie, scienze biologiche scienza delle preparazioni alimentari.
-
-Art. 137. - Il numero degli iscritti e' fissato a 10 per ogni anno di corso e per ogni indirizzo.
-
-La durata del corso per tutti e tre gli indirizzi e' di tre anni.
-
-Non sono ammesse abbreviazioni di corso, ad eccezione che per quei candidati i quali, gia' in possesso del diploma di specializzazione in scienza dell'alimentazione possono essere ammessi al terzo anno per ottenere il completamento di corso in uno dei tre indirizzi.
-
-Art. 138. - Nel primo biennio vengono impartiti gli insegnamenti comuni agli iscritti a tutti e tre gli indirizzi: gli insegnamenti si differenziano invece al terzo anno a seconda dell'indirizzo prescelto.
-
-Il piano di insegnamento della scuola risulta pertanto cosi' articolato:
-
-1° Anno:
-
-1) chimica degli alimenti;
-
-2) biochimica della nutrizione;
-
-3) fisiologia generale della nutrizione;
-
-4) istituzioni di statistica applicata ai problemi alimentari.
-
-2° Anno:
-
-1) fisiologia della nutrizione umana;
-
-2) igiene degli alimenti ed elementi di legislazione;
-
-3) istituzioni di tecnologie alimentari;
-
-4) biochimica patologica della nutrizione.
-
-3° Anno:
-
-A) Indirizzo dietetico:
-
-1) alimentazione umana;
-
-2) dietetica nell'eta' adulta;
-
-3) dietetica nell'infanzia;
-
-4) dietetica per le collettivita';
-
-5) malattie dell'alimentazione e dietoterapia;
-
-6) dietetica ospedaliera e organizzazione dei relativi
-
-servizi;
-
-B) Indirizzo nutrizionistico:
-
-1) alimentazione umana;
-
-2) alimentazione degli animali da allevamento e da lavoro;
-
-3) ecologia e geografia dell'alimentazione;
-
-4) economia e statistica applicata all'alimentazione;
-
-5) tecnica dei rilevamenti alimentari;
-
-6) analisi chimiche degli alimenti; additivi chimici; frodi
-
-alimentari;
-
-C) Indirizzo tecnologico:
-
-1) microbiologia e chimica delle fermentazioni nell'industria alimentare;
-
-2) tecnologie industriali di preparazione, conservazione e
-
-confezionamento degli alimenti di origine animale;
-
-3) tecnologie industriali di preparazione, conservazione e
-
-confezionamento degli alimenti di origine vegetale;
-
-4) analisi chimiche degli alimenti; additivi chimici; frodi
-
-alimentari.
-
-I corsi sopra indicati possono essere integrati da esercitazioni pratiche e seminari decisi dal consiglio della scuola, nonche' da conferenze su argomenti speciali (come ad esempio, psicologia dell'alimentazione, antropologia nutrizionale, organizzazione della vigilanza e del controllo sulla produzione e commercio degli alimenti e bevande).
-
-Art. 139. - Alla fine di ogni anno di corso gli iscritti che abbiano ottenuto la firma di frequenza potranno sostenere un esame di profitto sulle materie di insegnamento annuali contemplate nel piano di studio.
-
-L'esame di diploma consistera' nella discussione di una dissertazione scritta su un argomento approvato dalla direzione della scuola.
-
-Le commissioni per gli esami di profitto e per l'esame di diploma sono costituite rispettivamente da tre a cinque membri, nominati dal preside della facolta' di farmacia su proposta del direttore della scuola.
-
-Art. 140. - A coloro che hanno frequentato la scuola e superato le prove di esame prescritte verra' rilasciato un diploma di specialista valido a tutti gli effetti di legge.
-
-Art. 141. - Le tasse di immatricolazione e di iscrizione alla scuola sono le stesse dovute dagli studenti della facolta' di farmacia; la misura dei contributi di laboratorio verra' fissata dal consiglio di amministrazione, sentito il senato accademico su proposta del consiglio della scuola.
-
-Il presente decreto munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 25 maggio 1976
-
-LEONE
-
-MALFATTI
-
-Visto, il Guardasigilli: BONIFACIO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 2 ottobre 1976 Atti di Governo, registro n. 9, foglio n. 53
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Perugia, approvato con [regio decreto 29 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-29;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Perugia e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con i [regi decreti 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-02;1471); [17 ottobre 1941, n. 1205](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-10-17;1205); [5 settembre 1942, n. 1239](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1239); [24 ottobre 1942, n. 1651; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1651) [5 ottobre 1946, n. 309 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1946-10-05;309) [28 luglio 1950, n. 936](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-07-28;936); [30 ottobre 1950, n. 1128](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1128); [11 aprile 1951, n. 472](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;472); [27 ottobre 1951, n. 1675](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1675); [14 marzo 1952, n. 768](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-03-14;768); [11 marzo 1953, n. 457](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;457); [6 ottobre 1953, n. 1110](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-10-06;1110); [14 settembre 1954, n. 1009](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1009); [26 ottobre 1954, n. 1203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-26;1203) e [4 febbraio 1955, n. 117](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-04;117);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-  
-Dopo l'art. 134, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla scuola di specializzazione in scienza dell'alimentazione, annessa alla facolta' di farmacia.   
-  
-Scuola di specializzazione in scienza dell'alimentazione   
-(Annessa alla facolta' di farmacia)   
-  
-Art. 135. - E' istituita presso l'istituto di scienza dell'alimentazione della facolta' di farmacia, la scuola di specializzazione in scienza dell'alimentazione.   
-Direttore della scuola e' il titolare della cattedra di scienza dell'alimentazione o in caso di vacanza della cattedra, il titolare della cattedra di chimica biologica.   
-Il consiglio della scuola e' costituito da tutti i docenti che insegnano nella scuola stessa. Gli incarichi di insegnamento nella scuola sono conferiti dal rettore su proposta del direttore della scuola.   
-Art. 136. - La scuola di specializzazione in scienza dell'alimentazione e' articolata secondo il seguente triplice indirizzo:   
-a) indirizzo dietetico;   
-b) indirizzo nutrizionistico;   
-c) indirizzo tecnologico.   
-L'indirizzo dietetico mira ad approfondire nei medici le conoscenze di base teoriche e pratiche di fondamentale importanza per la dietetica preventiva e curativa ed a stimolare, altresi', la ricerca scientifica nel vasto campo della nutrizione umana. A tale indirizzo possono iscriversi soltanto i laureati in medicina e chirurgia.   
-L'indirizzo nutrizionistico mira alla preparazione specialistica di laureati in settori concernenti lo studio dei problemi generali e speciali dell'alimentazione negli aspetti fisiologici, bio-chimici, igienici, ecologici, economico-sociali, nonche' a stimolare la ricerca scientifica nei sopra citati settori.   
-A tale indirizzo possono essere ammessi i laureati in chimica e tecnologia farmaceutiche, in farmacia, in medicina e chirurgia, in medicina veterinaria, in scienze biologiche, in scienze naturali, in scienze agrarie.   
-L'indirizzo tecnologico mira alla preparazione di laureati per le attivita' direttive in settori concernenti le tecnologie alimentari in funzione dei loro riflessi nutritivi ed igienici sul prodotto finito nonche' a stimolare la ricerca in questo settore.   
-A tale indirizzo possono essere ammessi i laureati in chimica, chimica e tecnologia farmaceutiche, farmacia, ingegneria chimica, scienze agrarie, scienze biologiche scienza delle preparazioni alimentari.   
-Art. 137. - Il numero degli iscritti e' fissato a 10 per ogni anno di corso e per ogni indirizzo.   
-La durata del corso per tutti e tre gli indirizzi e' di tre anni.  
-Non sono ammesse abbreviazioni di corso, ad eccezione che per quei candidati i quali, gia' in possesso del diploma di specializzazione in scienza dell'alimentazione possono essere ammessi al terzo anno per ottenere il completamento di corso in uno dei tre indirizzi.   
-Art. 138. - Nel primo biennio vengono impartiti gli insegnamenti comuni agli iscritti a tutti e tre gli indirizzi: gli insegnamenti si differenziano invece al terzo anno a seconda dell'indirizzo prescelto.   
-Il piano di insegnamento della scuola risulta pertanto cosi' articolato:   
-  
-1° Anno:   
-1) chimica degli alimenti;   
-2) biochimica della nutrizione;   
-3) fisiologia generale della nutrizione;   
-4) istituzioni di statistica applicata ai problemi alimentari.   
-  
-2° Anno:   
-1) fisiologia della nutrizione umana;   
-2) igiene degli alimenti ed elementi di legislazione;   
-3) istituzioni di tecnologie alimentari;   
-4) biochimica patologica della nutrizione.   
-  
-3° Anno:   
-A) Indirizzo dietetico:   
-1) alimentazione umana;   
-2) dietetica nell'eta' adulta;   
-3) dietetica nell'infanzia;   
-4) dietetica per le collettivita';   
-5) malattie dell'alimentazione e dietoterapia;   
-6) dietetica ospedaliera e organizzazione dei relativi   
-servizi;   
-B) Indirizzo nutrizionistico:   
-1) alimentazione umana;   
-2) alimentazione degli animali da allevamento e da lavoro;   
-3) ecologia e geografia dell'alimentazione;   
-4) economia e statistica applicata all'alimentazione;   
-5) tecnica dei rilevamenti alimentari;   
-6) analisi chimiche degli alimenti; additivi chimici; frodi   
-alimentari;   
-C) Indirizzo tecnologico:   
-1) microbiologia e chimica delle fermentazioni nell'industria alimentare;   
-2) tecnologie industriali di preparazione, conservazione e   
-confezionamento degli alimenti di origine animale;   
-3) tecnologie industriali di preparazione, conservazione e   
-confezionamento degli alimenti di origine vegetale;   
-4) analisi chimiche degli alimenti; additivi chimici; frodi   
-alimentari.   
-  
-I corsi sopra indicati possono essere integrati da esercitazioni pratiche e seminari decisi dal consiglio della scuola, nonche' da conferenze su argomenti speciali (come ad esempio, psicologia dell'alimentazione, antropologia nutrizionale, organizzazione della vigilanza e del controllo sulla produzione e commercio degli alimenti e bevande).   
-Art. 139. - Alla fine di ogni anno di corso gli iscritti che abbiano ottenuto la firma di frequenza potranno sostenere un esame di profitto sulle materie di insegnamento annuali contemplate nel piano di studio.   
-L'esame di diploma consistera' nella discussione di una dissertazione scritta su un argomento approvato dalla direzione della scuola.   
-Le commissioni per gli esami di profitto e per l'esame di diploma sono costituite rispettivamente da tre a cinque membri, nominati dal preside della facolta' di farmacia su proposta del direttore della scuola.   
-Art. 140. - A coloro che hanno frequentato la scuola e superato le prove di esame prescritte verra' rilasciato un diploma di specialista valido a tutti gli effetti di legge.   
-Art. 141. - Le tasse di immatricolazione e di iscrizione alla scuola sono le stesse dovute dagli studenti della facolta' di farmacia; la misura dei contributi di laboratorio verra' fissata dal consiglio di amministrazione, sentito il senato accademico su proposta del consiglio della scuola.   
+Lo statuto dell'Universita' degli studi di Perugia, approvato a modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 39. - Agli insegnamenti complementari del corso di laurea in scienze agrarie e' aggiunto quello di "geologia applicata".  
   
 
-Il presente decreto munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 maggio 1976
+### Dato a Roma, addi' 27 luglio 1955
 
-LEONE MALFATTI
+GRONCHI ROSSI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: MORO
 
-Registrato alla Corte dei conti, addi' 2 ottobre 1976
+Registrato alla Corte dei conti, addi' 1 settembre 1955
 
-Atti di Governo, registro n. 9, foglio n. 53
+Atti del Governo, registro n. 92, foglio n. 139. - CARLOMAGNO

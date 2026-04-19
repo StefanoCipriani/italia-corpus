@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1970 n. 394
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1958 n. 830
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1970 n. 394
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1958 n. 830
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con regio decreto 20 aprile 1939, numerici 1098 e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successivi;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,7 +18,9 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -30,300 +32,187 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Gli articoli da 159 a 162 relativi alla scuola di specializzazione in "Igiene e sanita' pubblica" e gli articoli da 169 a 171 relativi alla scuola di specializzazione in "Igiene e medicina scolastica" sono soppressi.
+Art. 23. - Agli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti i seguenti:
 
-Dopo l'art. 189 e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in "Igiene e medicina preventiva" e in "Puericultura".
+"Tecnica delle ricerche di mercato e della distribuzione generale";
 
-Scuola di specializzazione in igiene e medicina preventiva
+"Contabilita' degli Enti pubblici";
 
-Art. 190. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in igiene e medicina preventiva con sede presso l'istituto di igiene.
+"Diritto minerario".
 
-Art. 191. - La scuola comprende i seguenti orientamenti: a) di sanita' pubblica; b) di laboratorio; c) di tecnica e direzione ospedaliera; d) di medicina scolastica.
+Dopo l'art. 119 sono aggiunti i seguenti nuovi articoli relativi
 
-Art. 192. - La durata dei corsi e' di tre anni.
+alla istituzione della
 
-Art. 193. - Alla scuola vengono ammessi i laureati in medicina e chirurgia in numero non superiore a quindici per ogni anno di corso.
+Scuola di specializzazione in stomatologia
 
-L'ammissione e' subordinata al superamento di un esame di ammissione.
+(odontoiatria e protesi dentaria).
 
-Art. 194. - Le materie di insegnamento sono le seguenti:
+Art. 120. - Alla Facolta' di medicina e chirurgia e' annessa una Scuola di specializzazione in stomatologia (odontoiatria e protesi dentaria) con sede presso l'Istituto di clinica odontoiatrica.
 
-1° Anno:
+Art. 121. - Alla Scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia in numero di cinque per anno.
 
-Metodologia statistica e biometria;
+L'ammissione si fa previo concorso per titoli ed esami.
 
-Educazione sanitaria;
+Art. 122. - La durata dei corsi e' di due anni.
 
-Psicologia;
+Art. 123. - Gli iscritti hanno l'obbligo della frequenza ai corsi ed alle esercitazioni; debbono altresi' frequentare il laboratorio di odontotecnica e per almeno sei mesi di ogni anno di corso debbono svolgere una reale attivita' in Istituto, con orario pieno.
 
-Microbiologia;
+Art. 124. - Saranno ammessi a sostenere gli esami solo gli iscritti che abbiano adempiuto agli obblighi dell'articolo precedente.
 
-Parassitologia;
+Art. 125. - L'ammissione al secondo anno e' possibile solamente per gli specializzandi che hanno frequentato il primo anno ed abbiano superato le relative prove di esami.
 
-Epidemiologia e profilassi generale.
+Art. 126. - Alla fine del corso per ottenere il titolo di specialista in stomatologia (odontoiatria e protesi dentaria) il candidato deve sostenere una prova di diploma discutendo una tesi scritta.
 
-2° Anno:
+Art. 127. - Le materie di insegnamento sono le seguenti:
 
-Patologia e clinica delle malattie infettive;
+1) Embriologia, istologia e anatomia normale dei denti e della bocca;
 
-Epidemiologia e profilassi delle malattie infettive;
+2) Anatomia patologica (biennale);
 
-Patologia e clinica delle malattie non infettive di importanza sociale;
+3) Radiologia dentaria e mascellare;
 
-Epidemiologia e profilassi delle malattie non infettive di importanza sociale;
+4) Patologia e clinica odontostomatologica (biennale);
 
-Demografia e statistica sanitaria;
+5) Odontotecnica (biennale);
 
-Legislazione e organizzazione sanitaria.
+6) Conservativa (biennale);
 
-3° Anno (orientamento di sanita' pubblica):
+7) Chirurgia dentaria e della bocca (biennale);
 
-Approvvigionamento idrico; raccolta e smaltimento dei rifiuti liquidi e solidi; inquinamenti atmosferici;
+8) Anestesia;
 
-Igiene edilizia e urbanistica;
+9) Clinica ortodontica (biennale);
 
-Igiene dell'alimentazione;
+10) Clinica odontoprotesica (biennale).
 
-Igiene e medicina scolastica;
+Art. 128. - L'ordine degli esami e' il seguente:
 
-Igiene ospedaliera;
+Al termine del primo anno:
 
-Servizi di sanita' pubblica.
+Embriologia, istologia e anatomia normale;
 
-3° Anno (orientamento di laboratorio):
+Anestesia;
 
-Microscopia applicata all'igiene;
+Patologia odontostomatologica;
 
-Microbiologia applicata all'igiene;
+Conservativa (tecnica e metodi);
 
-Chimica clinica;
+Anatomia patologica dell'organo dentale;
 
-Accertamento diagnostico delle malattie batteriche e parassitarie;
+Laboratorio (merceologia e metallurgia).
 
-Accertamento diagnostico delle infezioni virali;
+Al termine del secondo anno:
 
-Nozioni di anatomia e istologia patologica.
+Clinica odontoiatrica;
 
-3° Anno (orientamento di tecnica, o direzione, ospitaliera):
+Chirurgia orale e dentale;
 
-Storia degli ospedali e principi metodologici dell'assistenza ospedaliera;
+Conservativa (clinica);
 
-Igiene e tecnica delle costruzioni ospitaliere, arredamento ed impianti sanitari;
+Clinica odontoprotesica;
 
-Organizzazione e funzione degli ospedali generali e speciali;
+Ortodonzia;
 
-Diritto amministrativo e legislazione ospitaliera;
+Radiologia;
 
-Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospitaliera;
+Laboratorio (prova pratica);
 
-Selezione e istruzione professionale del personale ospitaliero;
+Anatomia patologica della bocca.
 
-Organizzazione e funzione dei laboratori di analisi di accertamento necroscopico.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-3° Anno (orientamento di medicina scolastica):
+Dato a Roma, addi' 3 maggio 1958
 
-Auxologia normale e patologica;
+GRONCHI
 
-Epidemiologia e profilassi delle malattie dell'eta' scolare;
+MORO
 
-Servizi di medicina scolastica;
-
-Elementi di psicologia e pedagogia per l'eta' scolare;
-
-Igiene dell'alimentazione;
-
-Assistenza parascolastica;
-
-Edilizia scolastica.
-
-Materie complementari:
-
-Ispezione delle carni;
-
-Igiene mentale;
-
-Malattie tropicali;
-
-Gerontologia e geriatria.
-
-L'allievo dovra' frequentare due materie complementari a scelta, per ognuna delle specializzazioni e sostenere le relative prove d'esami.
-
-Scuola di specializzazione in puericultura
-
-Art. 195. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in puericultura, con sede presso l'istituto di puericultura.
-
-La scuola ha la durata di tre anni e si propone di conferire la preparazione teorico-pratica in biologia infantile e pediatria preventiva a laureati in medicina e chirurgia.
-
-Art. 196. - Alla scuola possono essere ammessi non piu' di sei allievi per ciascun anno, per un totale complessivo di diciotto allievi. Di questi posti, uno per ciascuno dei tre anni di corso sara' riservato ad allievi stranieri, laureati in medicina, originari di nazioni della area mediterranea che saranno esentati dal pagamento delle tasse di specializzazione. L'iscrizione alla scuola di detti allievi stranieri sara' subordinata ad una documentata, buona conoscenza della lingua italiana e sara' regolata da una insindacabile scelta operata, sulla base delle domande presentate dal consiglio della scuola.
-
-Art. 197. - Le materie di insegnamento sono le seguenti, divise nei tre anni di corso:
-
-1° Anno:
-
-Peculiarita' anatomo-fisiologiche della eta' evolutiva;
-
-Elementi di genetica medica e di eugenetica;
-
-Elementi di puericultura perinatale;
-
-Auxologia;
-
-Alimentazione e dietetica dell'eta' infantile;
-
-Elementi di semeiotica infantile.
-
-2° Anno:
-
-Psicologia ed igiene mentale nell'eta' evolutiva;
-
-Igiene ed assistenza dell'eta' evolutiva;
-
-Profilassi delle malattie infettive dell'infanzia;
-
-Elementi di medicina scolastica;
-
-Legislazione ed assistenza sociale alla infanzia.
-
-3° Anno:
-
-Tirocinio pratico presso l'istituto di puericultura, sede della scuola, o presso altre istituzioni od enti che abbiano, a giudizio del consiglio della scuola, caratteristiche tali da assicurare lo svolgimento di un efficace tirocinio sotto l'aspetto eminentemente pratico.
-
-Durante l'anno saranno svolte esercitazioni pratiche e conferenze su argomenti di puericultura.
-
-Art. 198. - Gli iscritti hanno l'obbligo di internato, con le modalita' e l'orario che saranno stabiliti dal direttore della scuola, sentito il parere della facolta' di medicina e chirurgia.
-
-Alla fine di ognuno dei primi due anni, gli iscritti dovranno sostenere l'esame sulle materie di insegnamento. Al termine del secondo anno, l'allievo sosterra' un esame teorico generale, mentre al termine del terzo anno egli sosterra' un esame pratico, unitamente all'esame di diploma. Eventuali abbreviazioni di corso potranno essere accordate dalla facolta' di medicina e chirurgia, su parere favorevole del consiglio della scuola.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 27 marzo 1970
-
-SARAGAT
-
-FERRARI AGGRADI
-
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 19 giugno 1970 Atti del Governo, registro n. 236, foglio n. 45. - CARUSO
+alla Corte dei conti, addi' 19 agosto 1958 Atti del Governo, registro n. 113, foglio n. 178. - DI PRETORO
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con regio decreto 20 aprile 1939, numerici 1098 e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successivi;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Gli articoli da 159 a 162 relativi alla scuola di specializzazione in "Igiene e sanita' pubblica" e gli articoli da 169 a 171 relativi alla scuola di specializzazione in "Igiene e medicina scolastica" sono soppressi.  
-Dopo l'art. 189 e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in "Igiene e medicina preventiva" e in "Puericultura".  
+Art. 23. - Agli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti i seguenti:   
+"Tecnica delle ricerche di mercato e della distribuzione generale";   
+"Contabilita' degli Enti pubblici";   
+"Diritto minerario".   
+Dopo l'art. 119 sono aggiunti i seguenti nuovi articoli relativi   
+alla istituzione della   
   
-Scuola di specializzazione in igiene e medicina preventiva  
+Scuola di specializzazione in stomatologia   
+(odontoiatria e protesi dentaria).   
   
-Art. 190. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in igiene e medicina preventiva con sede presso l'istituto di igiene.  
-Art. 191. - La scuola comprende i seguenti orientamenti: a) di sanita' pubblica; b) di laboratorio; c) di tecnica e direzione ospedaliera; d) di medicina scolastica.  
-Art. 192. - La durata dei corsi e' di tre anni.  
-Art. 193. - Alla scuola vengono ammessi i laureati in medicina e chirurgia in numero non superiore a quindici per ogni anno di corso.  
-L'ammissione e' subordinata al superamento di un esame di ammissione.  
-Art. 194. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-Metodologia statistica e biometria;  
-Educazione sanitaria;  
-Psicologia;  
-Microbiologia;  
-Parassitologia;  
-Epidemiologia e profilassi generale.  
-2° Anno:  
-Patologia e clinica delle malattie infettive;  
-Epidemiologia e profilassi delle malattie infettive;  
-Patologia e clinica delle malattie non infettive di importanza sociale;  
-Epidemiologia e profilassi delle malattie non infettive di importanza sociale;  
-Demografia e statistica sanitaria;  
-Legislazione e organizzazione sanitaria.  
-3° Anno (orientamento di sanita' pubblica):  
-Approvvigionamento idrico; raccolta e smaltimento dei rifiuti liquidi e solidi; inquinamenti atmosferici;  
-Igiene edilizia e urbanistica;  
-Igiene dell'alimentazione;  
-Igiene e medicina scolastica;  
-Igiene ospedaliera;  
-Servizi di sanita' pubblica.  
-3° Anno (orientamento di laboratorio):  
-Microscopia applicata all'igiene;  
-Microbiologia applicata all'igiene;  
-Chimica clinica;  
-Accertamento diagnostico delle malattie batteriche e parassitarie;  
-Accertamento diagnostico delle infezioni virali;  
-Nozioni di anatomia e istologia patologica.  
-3° Anno (orientamento di tecnica, o direzione, ospitaliera):  
-Storia degli ospedali e principi metodologici dell'assistenza ospedaliera;  
-Igiene e tecnica delle costruzioni ospitaliere, arredamento ed impianti sanitari;  
-Organizzazione e funzione degli ospedali generali e speciali;  
-Diritto amministrativo e legislazione ospitaliera;  
-Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospitaliera;  
-Selezione e istruzione professionale del personale ospitaliero;  
-Organizzazione e funzione dei laboratori di analisi di accertamento necroscopico.  
-3° Anno (orientamento di medicina scolastica):  
-Auxologia normale e patologica;  
-Epidemiologia e profilassi delle malattie dell'eta' scolare;  
-Servizi di medicina scolastica;  
-Elementi di psicologia e pedagogia per l'eta' scolare;  
-Igiene dell'alimentazione;  
-Assistenza parascolastica;  
-Edilizia scolastica.  
-Materie complementari:  
-Ispezione delle carni;  
-Igiene mentale;  
-Malattie tropicali;  
-Gerontologia e geriatria.  
-L'allievo dovra' frequentare due materie complementari a scelta, per ognuna delle specializzazioni e sostenere le relative prove d'esami.  
+Art. 120. - Alla Facolta' di medicina e chirurgia e' annessa una Scuola di specializzazione in stomatologia (odontoiatria e protesi dentaria) con sede presso l'Istituto di clinica odontoiatrica.   
+Art. 121. - Alla Scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia in numero di cinque per anno.  
+L'ammissione si fa previo concorso per titoli ed esami.   
+Art. 122. - La durata dei corsi e' di due anni.   
+Art. 123. - Gli iscritti hanno l'obbligo della frequenza ai corsi ed alle esercitazioni; debbono altresi' frequentare il laboratorio di odontotecnica e per almeno sei mesi di ogni anno di corso debbono svolgere una reale attivita' in Istituto, con orario pieno.   
+Art. 124. - Saranno ammessi a sostenere gli esami solo gli iscritti che abbiano adempiuto agli obblighi dell'articolo precedente.   
+Art. 125. - L'ammissione al secondo anno e' possibile solamente per gli specializzandi che hanno frequentato il primo anno ed abbiano superato le relative prove di esami.   
+Art. 126. - Alla fine del corso per ottenere il titolo di specialista in stomatologia (odontoiatria e protesi dentaria) il candidato deve sostenere una prova di diploma discutendo una tesi scritta.   
+Art. 127. - Le materie di insegnamento sono le seguenti:   
+1) Embriologia, istologia e anatomia normale dei denti e della bocca;   
+2) Anatomia patologica (biennale);   
+3) Radiologia dentaria e mascellare;   
+4) Patologia e clinica odontostomatologica (biennale);   
+5) Odontotecnica (biennale);   
+6) Conservativa (biennale);   
+7) Chirurgia dentaria e della bocca (biennale);   
+8) Anestesia;   
+9) Clinica ortodontica (biennale);   
+10) Clinica odontoprotesica (biennale).   
+Art. 128. - L'ordine degli esami e' il seguente:   
   
-Scuola di specializzazione in puericultura  
+Al termine del primo anno:   
+Embriologia, istologia e anatomia normale;   
+Anestesia;   
+Patologia odontostomatologica;   
+Conservativa (tecnica e metodi);   
+Anatomia patologica dell'organo dentale;   
+Laboratorio (merceologia e metallurgia).   
   
-Art. 195. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in puericultura, con sede presso l'istituto di puericultura.  
-La scuola ha la durata di tre anni e si propone di conferire la preparazione teorico-pratica in biologia infantile e pediatria preventiva a laureati in medicina e chirurgia.  
-Art. 196. - Alla scuola possono essere ammessi non piu' di sei allievi per ciascun anno, per un totale complessivo di diciotto allievi. Di questi posti, uno per ciascuno dei tre anni di corso sara' riservato ad allievi stranieri, laureati in medicina, originari di nazioni della area mediterranea che saranno esentati dal pagamento delle tasse di specializzazione. L'iscrizione alla scuola di detti allievi stranieri sara' subordinata ad una documentata, buona conoscenza della lingua italiana e sara' regolata da una insindacabile scelta operata, sulla base delle domande presentate dal consiglio della scuola.  
-Art. 197. - Le materie di insegnamento sono le seguenti, divise nei tre anni di corso:  
-1° Anno:  
-Peculiarita' anatomo-fisiologiche della eta' evolutiva;  
-Elementi di genetica medica e di eugenetica;  
-Elementi di puericultura perinatale;  
-Auxologia;  
-Alimentazione e dietetica dell'eta' infantile;  
-Elementi di semeiotica infantile.  
-2° Anno:  
-Psicologia ed igiene mentale nell'eta' evolutiva;  
-Igiene ed assistenza dell'eta' evolutiva;  
-Profilassi delle malattie infettive dell'infanzia;  
-Elementi di medicina scolastica;  
-Legislazione ed assistenza sociale alla infanzia.  
-3° Anno:  
-Tirocinio pratico presso l'istituto di puericultura, sede della scuola, o presso altre istituzioni od enti che abbiano, a giudizio del consiglio della scuola, caratteristiche tali da assicurare lo svolgimento di un efficace tirocinio sotto l'aspetto eminentemente pratico.  
-Durante l'anno saranno svolte esercitazioni pratiche e conferenze su argomenti di puericultura.  
-Art. 198. - Gli iscritti hanno l'obbligo di internato, con le modalita' e l'orario che saranno stabiliti dal direttore della scuola, sentito il parere della facolta' di medicina e chirurgia.  
-Alla fine di ognuno dei primi due anni, gli iscritti dovranno sostenere l'esame sulle materie di insegnamento. Al termine del secondo anno, l'allievo sosterra' un esame teorico generale, mentre al termine del terzo anno egli sosterra' un esame pratico, unitamente all'esame di diploma. Eventuali abbreviazioni di corso potranno essere accordate dalla facolta' di medicina e chirurgia, su parere favorevole del consiglio della scuola.  
+Al termine del secondo anno:   
+Clinica odontoiatrica;   
+Chirurgia orale e dentale;   
+Conservativa (clinica);   
+Clinica odontoprotesica;   
+Ortodonzia;   
+Radiologia;   
+Laboratorio (prova pratica);   
+Anatomia patologica della bocca.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 marzo 1970
+### Dato a Roma, addi' 3 maggio 1958
 
-SARAGAT FERRARI AGGRADI
+GRONCHI MORO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 19 giugno 1970
+Registrato alla Corte dei conti, addi' 19 agosto 1958
 
-Atti del Governo, registro n. 236, foglio n. 45. - CARUSO
+Atti del Governo, registro n. 113, foglio n. 178. - DI PRETORO

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1980 n. 727
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 418
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1980 n. 727
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 418
 =============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-727. Decreto del Presidente della Repubblica 22 luglio 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in beni mobili e deposito c/c obbligazioni per un valore al netto delle passivita' di L. 930.000, disposta dal sig.  
-Bellingeri Angelo con testamento olografo 7 gennaio 1974, pubblicato il 27 febbraio 1975, n. 21447/2321 di repertorio, a rogito dott. Ferruccio Brambilla, notaio in Milano, registrato a Busto Arsizio (Varese) il 17 marzo 1975 al n. 603, vol. 156.  
+418. Decreto del Presidente della Repubblica 9 aprile 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio di inventario, l'eredita', consistente nella quota di 1/4 in saldi di conti correnti, titoli obbligazionari, certificati di credito e contanti su depositi bancari, per un valore complessivo di L. 24.435.450, disposta dalla sig.ra Beltrami Ada con testamento pubblico 23 giugno 1983, redatto dal notaio dott. Luigi Prinetti di Milano e pubblicato in data 3 novembre 1983, n. 28347/2487 di repertorio, registrato a Milano in data 9 novembre 1983 al n. 18320.   
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti addi' 27 ottobre 1980  
-Registro n. 8 Presidenza, foglio n. 201
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 12 giugno 1986   
+Registro n. 7 Presidenza, foglio n. 15

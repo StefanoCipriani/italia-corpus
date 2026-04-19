@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 dicembre 1948 n. 1619
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 aprile 1964 n. 395
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 dicembre 1948 n. 1619
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 aprile 1964 n. 395
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
@@ -12,59 +12,214 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con il [regio decreto 14 ottobre 1926, n. 2319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2319), e modificato con i [regi decreti 13 ottobre 1927, n. 2819](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2819); [20 settembre 1928, n. 3018](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-09-20;3018); [31 ottobre 1929, n. 2483](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2483); [30 ottobre 1930, n. 1828](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1828); [10 ottobre 1931, n. 1329](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-10;1329); [22 ottobre 1931, n. 1754](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-22;1754); [22 ottobre 1932, n. 2090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-10-22;2090); [26 ottobre 1933, n. 2391](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-26;2391); [27 dicembre 1934, n. 2419](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-12-27;2419); [10 ottobre 1936, n. 2498](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-10;2498); [27 ottobre 1937, n. 2619](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-10-27;2619); [20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350); [26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734); [26 ottobre 1940, n. 2069](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2069); [4 maggio 1942, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-05-04;565); [24 luglio 1942, n. 949](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-07-24;949); [24 agosto 1942, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-08-24;1098), e con i [decreti del Capo provvisorio dello Stato 12 aprile 1947, n. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-04-12;461) e [31 dicembre 1947, n. 1758](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-12-31;1758);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652);  
-Vedute le proposte relative alle modifiche formulate dall'Universita' predetta;  
-Considerata la particolare necessita' di approvare le modifiche anzidette;  
-Sentito il Consiglio superiore della pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 24 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-24;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autori a' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-E' istituita presso la Facolta' di medicina e chirurgia dell'Universita' degli studi di Roma una "Scuola di perfezionamento" in storia della medicina.  
-Pertanto lo statuto dell'Universita' di Roma viene ulteriormente modificato come segue e la relativa numerazione degli articoli dello statuto viene modificata conformemente a quanto risulta dalle modifiche apportate.  
-Scuola di perfezionamento in storia della medicina.  
-Art. 378. - La scuola ha la durata di due anni e ad essa verranno ammessi i laureati in medicina e chirurgia.  
-Potranno essere ammessi, a giudizio del Consiglio della scuola, anche coloro che sono in possesso di altre lauree.  
-Art. 379. - La scuola ha sede presso l'Istituto di storia della medicina dell'Universita' di Roma.  
-Art. 380. - Gli iscritti alla scuola hanno l'obbligo di frequentare durante il biennio i corsi ufficiali delle lezioni e le relative esercitazioni.  
-Gli insegnamenti costitutivi della scuola sono i seguenti:  
-1) storia della medicina generale;  
-2) evoluzione delle dottrine mediche e specialita' connesse;  
-3) storia della chirurgia e della sua tecnica;  
-4) evoluzione del pensiero biologico;  
-5) evoluzione della terapia e dei metodi terapeutici;  
-6) medicina primitiva e medicina popolare;  
-7) bibliografia, biblioteconomia e storiografia;  
-8) cultura umanistica;  
-9) metodologia documentaria.  
-Art. 381. - Gli esami di profitto sono cosi' ripartiti:  
-Alla fine del 1° anno (primo gruppo):  
-1) storia della medicina generale;  
-2) medicina primitiva e medicina popolare;  
-3) bibliografia, biblioteconomia, storiografia;  
-4) cultura umanistica;  
-5) metodologia documentaria.  
-Alla fine del 2° anno (secondo gruppo):  
-1) evoluzione delle dottrine mediche e specialita' connesse;  
-2) storia della chirurgia e della sua tecnica;  
-3) evoluzione del pensiero biologico;  
-4) evoluzione della terapia e dei metodi terapeutici  
-Art. 382. - Gli iscritti che desiderano compiere ricerche nell'Istituto debbono provvedere alle relative spese.  
-Art. 383. - Al termine di due anni, chi avra' frequentato regolarmente i corsi ed avra' superato gli esami delle singole materie, dovra' presentare per conseguire il diploma una dissertazione scritta su di un argomento della specialita' e sostenere un esame pratico dinnanzi ad una Commissione, formata da almeno cinque insegnanti della scuola.  
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+Art. 27, relativo agli istituti della Facolta' di scienze politiche e' modificato nel senso che l'Istituto di diritto pubblico e di dottrina dello Stato assume la denominazione di "istituto di studi giuridici".  
+Gli articoli 91 e 92 relativi al corso di laurea in Fisica sono abrogati e sostituiti dai seguenti;  
+  
+Art. 91. - Secondo biennio:  
+  
+a) Indirizzo generale:  
+Gli insegnamenti obbligatori sono i seguenti;  
+1) Struttura della materia;  
+2) Istituzioni di Fisica teorica;  
+3) Metodi matematici della fisica;  
+4) Laboratorio di fisica I;  
+5) Corso a scelta tra i complementari contrassegnati con la lettera G;  
+6) Fisica superiore;  
+7) Fisica teorica;  
+8) Laboratorio di Fisica II;  
+9) Corso a scelta tra i complementari contrassegnati con la lettera G.  
+Uno dei corsi a scelta dovra' essere di Matematiche superiori. La Facolta' indichera' anno per anno nell'ordine degli studi i corsi di Matematiche superiori che possono essere scelti.  
+  
+b) Indirizzo didattico:  
+Gli insegnamenti obbligatori sono i seguenti;  
+1) Struttura della materia;  
+2) Istituzioni di Fisica teorica;  
+3) Metodi matematici della fisica;  
+4) Complementi di fisica generale I;  
+5) Preparazione esperienze didattiche I;  
+6) Storia della fisica;  
+7) Complementi di fisica generale II;  
+8) Preparazione esperienze didattiche II;  
+9) Corso a scelta tra i complementari contrassegnati con la lettera D.  
+Qualora il corso di Storia della fisica non venisse svolto, gli studenti dovranno seguire un altro corso tra i complementari contrassegnati con la lettera D.  
+  
+c) Indirizzo applicativo.  
+Gli insegnamenti obbligatori sono i seguenti:  
+1) Struttura della materia;  
+2) Istituzioni di Fisica teorica;  
+3) Metodi matematici della fisica;  
+4) Laboratorio di Fisica I;  
+5) Laboratorio di Fisica II:  
+6-7) Corsi fondamentali stabiliti dalla Facolta' nell'ordine degli studi.  
+8-9) Corsi complementari a scelta dello studente fra quelli contrassegnati nell'elenco con la lettera A.  
+L'indirizzo applicativo puo' avere orientamenti differenti determinati dalla scelta operata dalla Facolta' per i corsi 6-7).  
+I corsi di Struttura della materia, Istituzioni di fisica teorica, Metodi matematici della fisica, Fisica superiore, Fisica teorica, Complementi di fisica generale I e II possono essere accompagnati da esercitazioni che ne fanno parte integrante.  
+Sono insegnamenti complementari i seguenti:  
+G Algebra superiore;  
+G D A Analisi numerica;  
+G Analisi superiore;  
+G D A Astronomia;  
+G D A Astrofisica;  
+G A Calcolatori elettronici;  
+G A Calcolo delle probabilita';  
+G D A Chimica fisica;  
+G A Cibernetica;  
+G A Conduzione elettrica nei gas;  
+G A Elettroacustica;  
+G D A Elettronica;  
+G A Elettronica applicata;  
+G D A Elettromagnetismo;  
+G A Fisica della ionosfera;  
+G A Fisica dei solidi;  
+G D Fisica matematica G D A Fisica nucleare;  
+D A Fisica superiore;  
+G D A Fisica terrestre;  
+D A Fisica teorica;  
+G Geometria differenziale;  
+A Geomagnetismo;  
+G D A Istituzioni di fisica nucleare;  
+G A Logica matematica;  
+G D Matematiche superiori;  
+G D A Meccanica dei fluidi;  
+G D A Meccanica statistica;  
+G D Meccanica superiore;  
+G A Metereologia;  
+G A Raggi cosmici;  
+G D A Spettroscopia;  
+G A Spettroscopia e radiofrequenza (per fisici);  
+G A Sismologia;  
+G A Tecnica della programmazione;  
+G A Teoria delle funzioni;  
+G Teorie relativistiche;  
+G D Teorie quantistiche.  
+  
+Alcuni dei corsi sopra elencati possono essere semestrali, in tal caso due corsi semestrali, pur avendo esami distinti, equivalgono ad uno annuale.  
+  
+Art. 92. - Condizione di ammissione al secondo biennio, e' l'aver superato gli esami di Fisica generale I, Fisica generale II, Analisi matematica I ed Analisi matematica II.  
+Non si puo' essere ammessi a superare gli esami indicati nella prima colonna della tabella seguente se non di e' superato l'esame corrispondente nella seconda colonna:  
+Non si puo essere ammessi Se non si e superato lo  
+a sostenere l'esame di: esame di:  
+Fisica Generale II Fisica Generale I  
+Fisica Teorica Istituzioni fisica teorica Fisica superiore Struttura della materia  
+Analisi matematica II Analisi matematica I  
+Fisica nucleare Istit. di fisica nucleare Elettronica applicata Elettronica  
+Istituzioni fisica teorica Lingue  
+Struttura della materia Lingue  
+Laboratorio di Fisica I Esperimentazione fisica  
+Laboratorio Fisica II Laboratorio Fisica I  
+  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami obbligatori.  
+  
+L'art. 227 e' abrogato e sostituito dal seguente:  
+  
+Art. 227. - Presso la Facolta' di scienze statistiche demografiche ed attuariali sono istituite le scuole di perfezionamento e di specializzazione appresso indicate:  
+Scuola di perfezionamento in sociologia e ricerca sociale;  
+Scuola di perfezionamento in ricerca operativa;  
+Corso di specializzazione in meccanografia per diplomati e laureati in statistica.  
+  
+Dopo l'art. 238, e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli, relativi alla istituzione della Scuola di perfezionamento in ricerca operativa, annessa alla Facolta' di scienze statistiche, demografiche ed attuariali.  
+  
+Scuola di perfezionamento in ricerca operativa  
+  
+Art. 239. - Alla Scuola di perfezionamento in ricerca operativa sono ammessi oltre i laureati della Facolta' di scienze statistiche, demografiche ed attuariali:  
+i laureati in Matematica, in Fisica e in Matematica e fisica, previo un colloquio su un programma che comprende i tre corsi di "Istituzioni di economia", "Istituzioni di statistica" e "Calcolo delle probabilita'";  
+i laureati in Economia e commercio, previo un colloquio su un programma che comprende i due corsi di "Analisi matematica" e "Calcolo delle probabilita'";  
+i laureati in altre Facolta', i quali pero', prima di essere ammessi a sostenere gli esami della scuola debbono, se non hanno gia' superato esami riconosciuti equivalenti dal Consiglio della Scuola, sostenere gli esami delle seguenti materie:  
+Istituzioni di analisi matematica;  
+Istituzioni di economia;  
+Istituzioni di statistica;  
+Analisi matematica;  
+Calcolo delle probabilita'.  
+Coloro che abbiano compiuto corsi di studi all'estero, purche' i titoli o diplomi siano riconosciuti validi ai soli fini dell'iscrizione al corso dalle autorita' accademiche e previa deliberazione del Consiglio della scuola sugli esami che gli aspiranti dovranno superare prima di essere ammessi a sostenere quelli della Scuola.  
+  
+Art. 240. - La Scuola ha la durata di due anni.  
+  
+Art. 241. Sono materie fondamentali di insegnamento:  
+Metodi matematici di ottimizzazione;  
+Matematica applicata all'economia;  
+Teoria dei giochi e delle decisioni;  
+Processi aleatori e teoria delle file d'attesa;  
+Applicazioni operative dell'algebra e della teoria dei grafi;  
+Applicazioni della ricerca operativa ai problemi logistici;  
+Metodi della ricerca operativa;  
+Applicazioni della ricerca operativa ai problemi della difesa  
+  
+Sono materie complementari di insegnamento:  
+Applicazioni della ricerca operativa ai problemi del traffico;  
+Applicazioni della ricerca operativa ai problemi economici;  
+Applicazioni della ricerca operativa ai problemi della direzione aziendale;  
+Cibernetica e teoria dell'informazione;  
+Logica matematica.  
+  
+Art. 242. - Per adire l'esame di diploma gli studenti dovranno aver superato gli esami relativi a tutti gli insegnamenti fondamentali e a due complementari.  
+  
+Art. 243. - L'esame di diploma consiste nella discussione di una tesi scritta accettata da uno dei docenti della Scuola il quale fungera' da relatore.  
+  
+Art. 244. - A coloro che avranno superato l'esame di diploma verra' rilasciato il diploma di specialista in Ricerca operativa.  
+Gli articoli 412 e 413 della Scuola di specializzazione in pediatria sono abrogati e sostituiti dai seguenti:  
+  
+Art. 412. - Il corso degli studi nella Scuola di specializzazione in pediatria ha la durata di tre anni.  
+Il numero di iscritti alla Scuola e' fissato in un massimo di 25 per ogni anno di corso.  
+L'iscrizione alla Scuola avviene in base ad un Concorso interno per titoli, eventualmente integrato da prova di esame.  
+Possono iscriversi direttamente al 2° anno solo gli assistenti effettivi di Clinica pediatrica o di puericultura, che abbiano gia' esercitato questo ufficio da un anno; in via eccezionale anche candidati forniti di titoli riconosciuti equipollenti, secondo il giudizio del di rettore della Scuola e subordinatamente all'approvazione del Consiglio di facolta'.  
+  
+Art. 413. - Gli insegnamenti della Scuola sono i seguenti:  
+  
+1° Anno:  
+1) Morfologia dell'eta' evolutiva;  
+2) Fisiologia e patologia dell'accrescimento;  
+3) Alimentazione e ricambio;  
+4) Igiene e profilassi generale nell'eta' infantile;  
+5) Il neonato, l'immaturo e il post-maturo;  
+6) Patologia del neonato;  
+7) Semeiotica e tecnica pediatrica (biennale).  
+  
+2° Anno:  
+1) Patologia e clinica pediatrica (biennale);  
+2) Semeiotica e tecnica pediatrica (biennale);  
+3) Anatomia patologica delle malattie del bambino;  
+4) Problemi di farmacologia nell'eta' evolutiva;  
+5) Nozioni di radiologia pediatrica;  
+6) Nozioni di chirurgia infantile;  
+7) Nozioni di otorinolaringoiatria infantile;  
+8) Nozioni di odontoiatria infantile.  
+  
+3° Anno:  
+1) Patologia e clinica pediatrica (biennale);  
+2) Malattie dismetaboliche;  
+3) Malattie infettive;  
+4) Parassitologia;  
+5) Nozioni di neuropsichiatria;  
+6) Nozioni di dermatologia;  
+7) Nozioni di oculistica;  
+8) Nozioni di medicina scolastica;  
+9) Igiene mentale dell'eta' evolutiva;  
+10) Compiti sociali della pediatria.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 dicembre 1948
+### Dato a Roma, addi' 27 aprile 1964
 
-EINAUDI GONELLA
+SEGNI GUI
 
-Visto, il Guardasigilli: GRASSI
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 18 febbraio 1949
+Registrato alla Corte dei conti, addi' 9 giugno 1964
 
-Atti del Governo, registro n. 26, foglio n. 85. - CARLOMAGNO
+Atti del Governo, registro n. 183, foglio n. 161. - VILLA

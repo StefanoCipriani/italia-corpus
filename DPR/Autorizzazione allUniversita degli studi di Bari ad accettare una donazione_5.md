@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 novembre 1954 n. 1353
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1950 n. 1175
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 novembre 1954 n. 1353
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1950 n. 1175
+===============================================================
 
 Autorizzazione all'Universita' degli studi di Bari ad accettare una donazione.
 ------------------------------------------------------------------------------
@@ -12,9 +12,7 @@ Art. 1
 
 N.
 
-1353. Decreto del Presidente della Repubblica 30 novembre 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Bari viene autorizzata ad accettare la donazione di L. 10.000 nominali, disposta in suo favore dal dott.  
-Francesco Caputi per incrementare il capitale del "Premio Giuseppe Sangiorgi".  
+1175. Decreto del Presidente della Repubblica 25 ottobre 1950, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Bari viene autorizzata ad accettare la donazione della somma di L. 130.000 nominali, in titoli del Debito pubblico italiano, disposta in suo, favore dal prof. Giuseppe Sangiorgi, con atto pubblico amministrativo in data 28 ottobre 1949, per l'istituzione di un premio di studio annuo da intitolarsi al nome di "Giuseppe Sangiorgi" e da conferirsi per concorso fra laureati in medicina e chirurgia dell'Universita' medesima.  
   
-Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 5 febbraio 1955  
-Atti del Governo, registro n. 88, foglio n. 119. - CARLOMAGNO
+Visto, il Guardasigilli: SEGNI  
+Registrato alla Corte dei conti, addi' 31 gennaio 1951

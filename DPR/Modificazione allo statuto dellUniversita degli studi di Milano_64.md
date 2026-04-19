@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 972
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1980 n. 951
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 972
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1980 n. 951
 ==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Milano.
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
+Visto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,51 +20,47 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione e del Consiglio universitario nazionale;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 --------
 
-Lo statuto dell'Universita' di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Art. 50 - nell'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono inseriti i seguenti nuovi insegnamenti:  
-analisi mineralogica delle rocce;  
-complementi di geofisica;  
-esplorazione geologica del sottosuolo;  
-geologia tecnica;  
-geomorfologia applicata;  
-laboratorio di geochimica;  
-esercitazioni di geologia;  
-esercitazioni di giacimenti minerari;  
-esercitazioni di paleontologia;  
-microfacies;  
-mineralogia delle rocce cristalline;  
-paleontologia vegetale;  
-prospezioni geofisiche;  
-rilevamento petrografico.  
+Nell'art. 28, all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti insegnamenti:  
+immunofarmacologia;  
+psicologia dell'eta' evolutiva;  
+biochimica clinica;  
+neurochirurgia infantile;  
+enzimologia;  
+farmacologia clinica;  
+neurochimica;  
+fisiopatologia e terapia del dolore;  
+psicologia clinica;  
+igiene dell'ambiente e del territorio;  
+organizzazione e legislazione sanitaria;  
+inglese scientifico.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1981
+### Dato a Roma, addi' 16 ottobre 1980
 
-PERTINI BODRATO
+PERTINI SARTI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: SARTI
 
-Registrato alla Corte dei conti, addi' 9 febbraio 1982
+Registrato alla Corte dei conti, addi' 30 dicembre 1980
 
-Registro n. 20 Istruzione, foglio n. 229
+Registro n. 122 Istruzione, foglio n. 38

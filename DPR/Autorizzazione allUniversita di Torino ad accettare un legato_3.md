@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1953 n. 1192
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 agosto 1953 n. 913
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1953 n. 1192
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 agosto 1953 n. 913
+=============================================================
 
 Autorizzazione all'Universita' di Torino ad accettare un legato.
 ----------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1192. Decreto del Presidente della Repubblica 12 settembre 1953, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Torino viene autorizzata ad accettare il legato di L. 100.000 in contanti, disposto in suo favore dal prof. Giuseppe Vicarelli con testamento olografo 14 novembre 1943, per l'istituzione di un premio di studio da intitolarsi "Premio Vicarelli" e da conferirsi, ogni tre anni, all'autore della migliore monografia in lingua italiana, pubblicata nel triennio su argomenti obbligatoriamente attinenti al tema "Lavoro e Maternita'".  
+913. Decreto del Presidente della Repubblica 25 agosto 1953, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Torino viene autorizzata ad accettare il legato di L. 300.000 nominali, in cartelle di Rendita italiana 5%, disposto in suo favore dalla signora Paola Bultri vedova del prof. Ettore Gruner, con testamento olografo 2 dicembre 1948, per l'istituzione, con la rendita del capitale donato, di due premi di studio, di cui uno da intitolarsi "Premio di studio dott. prof. Ettore Gruner" e da conferirsi ogni tre anni ed in perpetuo, ad uno studente dell'Universita' medesima che abbia conseguito nel triennio la migliore laurea in medicina, e l'altro da intitolarsi "Premio di studio Giovanni Francesco Gruner" e da assegnarsi ogni tre anni ed in perpetuo, ad uno studente dell'Universita' stessa che abbia conseguito nel triennio la migliore laurea in farmacia.  
   
 Visto, il Guardasigilli: AZARA  
-Registrato alla Corte dei conti, addi' 28 aprile 1954  
-Atti del Governo, registro n. 82, foglio n. 177. - CARLOMAGNO
+Registrato alla Corte dei conti, addi' 7 dicembre 1953  
+Atti del Governo, registro n. 80, foglio n. 67. - PALLA

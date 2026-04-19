@@ -1,11 +1,125 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 ottobre 1967 n. 1322
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1115
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 ottobre 1967 n. 1322
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1115
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' da approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore, della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 59. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:
+
+Nefrologia di interesse chirurgico;
+
+Terapia fisica e riabilitazione;
+
+Chirurgia vascolare;
+
+Patologia ultrastrutturale.
+
+Art. 174. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola in "Endocrinologia".
+
+Dopo l'art. 223 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in endocrinologia.
+
+Scuola di specializzazione in endocrinologia
+
+Art. 224. - La scuola ha sede presso l'istituto di clinica medica I. Cattedra di endocrinologia e medicina costituzionale.
+
+La scuola ha la durata di tre anni.
+
+Il numero complessivo di iscritti e' limitato a otto per i tre anni di corso in rapporto al numero di letti.
+
+Gli aspiranti saranno ammessi alla scuola in base alla classificazione di un esame preliminare che comprende una prova scritta e una orale che si svolgera' entro il mese di dicembre.
+
+Art. 225. - Gli iscritti alla scuola hanno l'obbligo di frequentare gli insegnamenti stabiliti secondo il programma del corso, nonche' la divisione di endocrinologia annessa alla cattedra di endocrinologia e medicina costituzionale.
+
+Coloro che non ottempereranno all'obbligo di frequenza ai corsi di insegnamento e al servizio di corsia e di laboratorio non potranno ottenere l'attestazione di frequenza, necessaria per l'ammissione agli esami.
+
+Art. 226. - Alla fine di ciascun anno accademico coloro che abbiano ottenuto la prescritta attestazione di frequenza potranno sostenere gli esami di profitto, il cui superamento e' condizione necessaria per l'iscrizione al corso successivo.
+
+Al termine del terzo anno, per conseguire il diploma di specializzazione in endocrinologia, gli iscritti, oltre ad aver superato le prove dei singoli esami, dovranno presentare una dissertazione scritta su un argomento di ordine endocrinologico (clinico e sperimentale), che sara' stabilito in base agli accordi con il direttore della scuola.
+
+I candidati non riconosciuti idonei agli esami di ciascun corso e all'esame di diploma potranno sostenere le prove dopo un altro anno di frequenza.
+
+Art. 227. - Le materie saranno le seguenti:
+
+1° Anno:
+
+1) Anatomia ed endocrinologia degli organi endocrini;
+
+2) Fisiologia endocrina;
+
+3) Biochimica endocrina;
+
+4) Anatomia patologica delle malattie endocrine (1° corso);
+
+5) Semeiotica e diagnostica endocrine (1° corso);
+
+6) Tecniche di laboratorio endocrinologiche (facoltativo).
+
+2° Anno:
+
+1) Anatomia patologica delle malattie endocrine (2° corso);
+
+2) Semeiotica e diagnostica endocrine (2° corso);
+
+3) Patologia speciale medica e clinica delle malattie endocrine e delle auxopatie (1° corso);
+
+4) Erodopatologia endocrina;
+
+5) Neuroendocrinologia (facoltativo).
+
+3° Anno:
+
+1) Patologia speciale medica e clinica delle malattie endocrine e delle auxopatie (2° corso);
+
+2) Terapia delle malattie endocrine;
+
+3) Endocrinologia ostetrico ginecologica (facoltativo).
+
+Degli insegnamenti facoltativi almeno uno - a scelta del candidato - sara' materia di esame.
+
+Il programma di ciascun anno di corso sara' svolto in almeno sessanta lezioni globali e sara' integrato da seminari, conferenze, esercitazioni.
+
+Abbreviazioni di corso potranno eventualmente essere concesse a coloro che siano in possesso del diploma di specializzazione in medicina interna.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1972
+
+LEONE
+
+SCALFARO
+
+Visto,
+------
+
+il Guardasigilli: GONELLA Registrato alla Corte dei conti, addi' 21 marzo 1973
 
 Art. 1
 ------
@@ -18,153 +132,63 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Riconosciuta la particolare necessita' da approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore, della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 35. - All'elenco degli insegnamenti complementari del corso di laurea in farmacia sono aggiunti i seguenti:  
-Stechiometria;  
-Microchimica;  
-Saggi e dosaggi farmacologici;  
-Complementi di chimica tossicologica.  
+Art. 59. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:  
+Nefrologia di interesse chirurgico;  
+Terapia fisica e riabilitazione;  
+Chirurgia vascolare;  
+Patologia ultrastrutturale.  
+Art. 174. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola in "Endocrinologia".  
+Dopo l'art. 223 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in endocrinologia.  
   
-Art. 40. - All'elenco degli istituti della facolta' di farmacia e' aggiunto il seguente:  
-Istituto di chimica organica, per gli insegnamenti di:  
-a) Chimica organica;  
-b) Chimica delle sostanze organiche naturali.  
+Scuola di specializzazione in endocrinologia  
   
-Art. 82. - Nell'elenco degli insegnamenti complementari del corso di laurea in fisica e' aggiunto quello di "Calcoli numerici e grafici con elementi di programmazione I o II (con asterisco).  
-  
-Art. 83, concernente le norme comuni a tutti gli indirizzi del corso di laurea in fisica e' modificato nel senso che il primo comma e' abrogato e sostituito dal seguente: "Gli insegnamenti biennali comportano un esame alla fine di ciascuno anno di corso".  
-  
-Art. 84. - Nell'elenco degli insegnamenti complementari del corso di laurea in chimica (ind. inorganico chimico-fisico) sono aggiunti quelli di:  
-Chimica dei composti di coordinazione e metallorganici;  
-Chimica quantistica;  
-Chimica nucleare;  
-Cinetica chimica;  
-Cromatografia;  
-Chimica delle radiazioni;  
-Chimica macromolecolare;  
-Metodi matematici della chimica;  
-Magnetochimica;  
-Termodinamica statistica.  
-Nello stesso elenco del corso di laurea in chimica (ind.  
-organico-biologico) sono aggiunti quelli di:  
-Cinetica chimica;  
-Cromatografia;  
-Chimica macromolecolare;  
-Chimica delle radiazioni.  
-  
-Art. 86. - Nell'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti quelli di:  
-Algologia;  
-Biochimica vegetale;  
-Esperimentazione dei chimici;  
-Biochimica comparata;  
-Biologia marina;  
-Biologia molecolare;  
-Citologia ed embriologia vegetale;  
-Cristallografia e cristallochimica;  
-Ecologia;  
-Embriologia degli invertebrati;  
-Entomologia;  
-Etologia;  
-Fisiologia comparata;  
-Geologia nucleare;  
-Geologia regionale;  
-Meteorologia;  
-Mineralogia sistematica;  
-Minerogenesi e giacimentologia;  
-Paleontologia dei vertebrati;  
-Sedimentologia;  
-Fitogeografia;  
-Genetica umana;  
-Biologia generale;  
-Biochimica cellulare.  
-Nello stesso corso di laurea l'insegnamento di "Petrografia" muta denominazione in "Petrologia".  
-Nello stesso articolo, all'ultimo comma, alle materie richieste per la prova di cultura generale va aggiunto l'insegnamento di "Fisiologia generale".  
-  
-Art. 87, relativo alle norme di propedeuticita' e di esercitazioni del predetto corso di laurea in scienze naturali e' abrogato e sostituito dal seguente:  
-a) lo studente non potra' essere ammesso a sostenere l'esame di fisica, senza aver prima superato l'esame di istituzioni di matematiche;  
-b) non potra' essere ammesso a sostenere l'esame di chimica generale ed inorganica senza aver prima superato l'esame di fisica;  
-c) non potra' essere ammesso a sostenere l'esame di chimica organica senza avere prima superato l'esame di chimica generale ed inorganica;  
-d) non potra' essere ammesso a sostenere l'esame di mineralogia senza avere prima superato l'esame di chimica generale ed inorganica;  
-e) non potra' essere ammesso a sostenere l'esame di geologia senza aver prima superato l'esame di mineralogia;  
-f) non potra' essere ammesso a sostenere l'esame di fisiologia generale senza aver prima superato gli esami di fisica, di chimica generale ed inorganica, di chimica organica, di anatomia umana e di anatomia comparata;  
-g) non potra' essere ammesso a sostenere l'esame di chimica biologica senza aver prima superato l'esame di chimica organica;  
-h) non potra' essere ammesso a sostenere l'esame di genetica senza aver prima superato gli esami di botanica e di zoologia;  
-i) non potra' essere ammesso a sostenere l'esame di fisiologia vegetale senza aver prima superato gli esami di chimica generale ed inorganica e di chimica organica.  
-Gli insegnamenti fondamentali comportano un corso di esercitazioni, annuale o biennale a seconda del carattere annuale o biennale dell'insegnamento.  
-  
-Art. 88. - Nell'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti quelli di:  
-Algologia;  
-Biochimica comparata;  
-Biochimica molecolare;  
-Biochimica vegetale;  
-Ecologia;  
-Embriologia degli invertebrati;  
-Entomologia;  
-Etologia;  
-Fisiologia comparata;  
-Fitogeografia.  
-Nello stesso articolo, all'ultimo comma, alle materie richieste per la prova di cultura generale va aggiunto l'insegnamento di "Chimica biologica".  
-  
-Art. 89, relativo alle norme sulla propedeuticita' di alcuni esami del corso di laurea in scienze biologiche e' modificato nel senso che il terzo ed il settimo comma sono abrogati e sostituiti dai seguenti:  
-c) non potra' essere ammesso a sostenere l'esame di chimica biologica senza aver prima superato gli esami di chimica generale ed inorganica e di chimica organica;  
-g) non potra' essere ammesso a sostenere l'esame di chimica generale ed inorganica senza aver prima superato l'esame di fisica.  
-Allo stesso articolo e' aggiunto il seguente nuovo comma:  
-"Gli insegnamenti fondamentali comportano un corso di esercitazioni, annuale o biennale a seconda del carattere annuale o biennale dell'insegnamento".  
-  
-Art. 90. - Nell'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti quelli di:  
-Chimica analitica;  
-Cristallografia strutturale;  
-Geofisica nucleare;  
-Geologia nucleare;  
-Geologia stratigrafica;  
-Geotermia;  
-Mineralogia sistematica;  
-Petrografia applicata;  
-Petrotettonica;  
-Sedimentologia.  
-Nello stesso articolo, il quarto, il quinto e il sesto comma sono abrogati e sostituiti dalle seguenti disposizioni:  
-a) gli insegnamenti biennali comportano un esame alla fine di ciascun anno di corso;  
-b) gli esami delle materie fondamentali del III e IV anno devono essere preceduti dagli esami delle materie fondamentali del primo e secondo anno;  
-c) gli esami di fisica sperimentale, topografia e cartografia e di statistica devono essere preceduti da quello di istituzioni di matematiche;  
-d) l'esame di mineralogia deve essere preceduto da quelli di chimica generale ed inorganica con elementi di organica, fisica sperimentale I e II;  
-e) l'esame di geologia applicata deve essere preceduto da quello di geologia;  
-f) gli esami di giacimenti minerari, petrografia applicata, petrotettonica e di vulcanologia devono essere preceduti dall'esame di petrografia;  
-g) gli esami di analisi mineralogica, cristallografia strutturale, geochimica, mineralogia applicata e di mineralogia sistematica devono essere preceduti da quello di mineralogia;  
-h) gli esami di geofisica mineraria, geotermia, geofisica nucleare, di oceanografia e di sismologia devono essere preceduti dagli esami di fisica sperimentale;  
-i) gli esami di fotogeologia, geologia degli idrocarburi, geologia nucleare, geologia regionale, geologia stratigrafica, geotecnica, idrogeologia e di sedimentologia devono essere preceduti dall'esame di geologia;  
-l) l'esame di micropaleontologia deve essere preceduto dall'esame di paleontologia;  
-m) gli esami di chimica analitica, chimica fisica e di chimica organica devono essere preceduti da quello di chimica generale ed inorganica con elementi di organica.  
-Le esercitazioni di topografia e cartografia, petrografia, geologia, paleontologia, fisica terrestre dovranno essere svolte in parte in campagna.  
-Gli insegnamenti di botanica e di zoologia debbono avere indirizzo biogeografico.  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro, da lui scelti, fra i complementari.  
-  
-Art. 91, relativo allo stesso corso di laurea in scienze geologiche e' modificato nel senso che le disposizioni in esso contenute sono abrogate e sostituite dalle seguenti:  
-"L'esame di laurea consta:  
-di una prova di cultura generale;  
-della discussione di una tesi scritta;  
-della discussione di almeno una fra due tesine.  
-La prova di cultura generale vertera' sulle seguenti discipline:  
-Fisica terrestre, geologia, mineralogia, paleontologia, petrografia.  
-Le tesi dovranno consistere in ricerche sul terreno o di laboratorio oppure in ricerche teoriche originali e dovranno essere svolte in discipline che fanno capo agli istituti di geodesia e geofisica, geologia e paleontologia, mineralogia e petrografia. A tal fine lo studente dovra' richiedere, all'inizio del III anno, l'internato biennale presso uno degli istituti sopra menzionati.  
-Un rilevamento geologico e una ricerca di laboratorio dovranno comparire o nella tesi o in una delle due tesine.  
+Art. 224. - La scuola ha sede presso l'istituto di clinica medica I. Cattedra di endocrinologia e medicina costituzionale.  
+La scuola ha la durata di tre anni.  
+Il numero complessivo di iscritti e' limitato a otto per i tre anni di corso in rapporto al numero di letti.  
+Gli aspiranti saranno ammessi alla scuola in base alla classificazione di un esame preliminare che comprende una prova scritta e una orale che si svolgera' entro il mese di dicembre.  
+Art. 225. - Gli iscritti alla scuola hanno l'obbligo di frequentare gli insegnamenti stabiliti secondo il programma del corso, nonche' la divisione di endocrinologia annessa alla cattedra di endocrinologia e medicina costituzionale.  
+Coloro che non ottempereranno all'obbligo di frequenza ai corsi di insegnamento e al servizio di corsia e di laboratorio non potranno ottenere l'attestazione di frequenza, necessaria per l'ammissione agli esami.  
+Art. 226. - Alla fine di ciascun anno accademico coloro che abbiano ottenuto la prescritta attestazione di frequenza potranno sostenere gli esami di profitto, il cui superamento e' condizione necessaria per l'iscrizione al corso successivo.  
+Al termine del terzo anno, per conseguire il diploma di specializzazione in endocrinologia, gli iscritti, oltre ad aver superato le prove dei singoli esami, dovranno presentare una dissertazione scritta su un argomento di ordine endocrinologico (clinico e sperimentale), che sara' stabilito in base agli accordi con il direttore della scuola.  
+I candidati non riconosciuti idonei agli esami di ciascun corso e all'esame di diploma potranno sostenere le prove dopo un altro anno di frequenza.  
+Art. 227. - Le materie saranno le seguenti:  
+1° Anno:  
+1) Anatomia ed endocrinologia degli organi endocrini;  
+2) Fisiologia endocrina;  
+3) Biochimica endocrina;  
+4) Anatomia patologica delle malattie endocrine (1° corso);  
+5) Semeiotica e diagnostica endocrine (1° corso);  
+6) Tecniche di laboratorio endocrinologiche (facoltativo).  
+2° Anno:  
+1) Anatomia patologica delle malattie endocrine (2° corso);  
+2) Semeiotica e diagnostica endocrine (2° corso);  
+3) Patologia speciale medica e clinica delle malattie endocrine e delle auxopatie (1° corso);  
+4) Erodopatologia endocrina;  
+5) Neuroendocrinologia (facoltativo).  
+3° Anno:  
+1) Patologia speciale medica e clinica delle malattie endocrine e delle auxopatie (2° corso);  
+2) Terapia delle malattie endocrine;  
+3) Endocrinologia ostetrico ginecologica (facoltativo).  
+Degli insegnamenti facoltativi almeno uno - a scelta del candidato - sara' materia di esame.  
+Il programma di ciascun anno di corso sara' svolto in almeno sessanta lezioni globali e sara' integrato da seminari, conferenze, esercitazioni.  
+Abbreviazioni di corso potranno eventualmente essere concesse a coloro che siano in possesso del diploma di specializzazione in medicina interna.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 ottobre 1967
+### Dato a Roma, addi' 31 ottobre 1972
 
-SARAGAT GUI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 10 gennaio 1968
-
-Atti del Governo, registro n. 216, foglio n. 120. - GRECO
+Registrato alla Corte dei conti, addi' 21 marzo 1973

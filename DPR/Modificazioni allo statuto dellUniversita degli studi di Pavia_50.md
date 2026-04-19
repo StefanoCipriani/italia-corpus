@@ -1,88 +1,150 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1979 n. 456
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1967 n. 1499
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1979 n. 456
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1967 n. 1499
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduta la proposta avanzata dalle autorita' accademiche dell'Universita' di Pavia intesa ad ottenere l'istituzione della facolta' di ingegneria presso l'universita' medesima;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla
+-----
+
+proposta del Ministro per la pubblica istruzione di concerto col Ministro per il tesoro; Decreta:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Presso l'Universita' degli studi di Pavia e' istituita la facolta' di ingegneria con il corso di laurea in ingegneria elettrotecnica.  
+
+Art. 2
+------
+
   
-Decreta:   
+Per tale facolta' sono assegnati i seguenti posti di ruolo:  
+a) sette posti di professore, prelevati sul contingente di cui all'[art. 1 della legge 24 febbraio 1967, n. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-02-24;62~art1);  
+b) dieci posti di assistente, prelevati sul contingente di cui all'art. 18, secondo comma, della suddetta legge n. 62.  
+
+Art. 3
+------
+
   
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Le attribuzioni demandate dalle vigenti disposizioni di legge e di regolamento al consiglio di facolta', vengono esercitate da un apposito comitato composto di tre professori di ruolo e fuori ruolo, nominati dal Ministro per la pubblica istruzione, sentita la sezione prima del Consiglio superiore della pubblica istruzione.  
+I professori di ruolo che in base alle vigenti disposizioni verranno a far parte della predetta facolta', saranno aggregati al comitato anzidetto. Tale comitato cessera' dalle sue funzioni allorche' alla facolta' stessa risulteranno assegnati tre professori di ruolo.  
+In ogni caso detto comitato non potra' rimanere in carica oltre un triennio e, qualora allo scadere del triennio medesimo, non risultino assegnati alla facolta' tre professori di ruolo, il Ministro per la pubblica istruzione provvedera' alla nomina di un nuovo comitato con le stesse modalita' indicate nel primo comma del presente articolo.  
+
+Art. 4
+------
+
   
-Dopo l'art. 270, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in medicina dello sport.   
-  
-Scuola di specializzazione in medicina dello sport   
-  
-Art. 271. - La scuola di specializzazione in medicina dello sport dell'Universita' degli studi di Pavia si propone:   
-a) di valorizzare e approfondire gli studi biologici e di medicina applicata nel campo delle attivita' sportive, formative e di competizione, e della educazione fisica;   
-b) di preparare adeguatamente sotto l'aspetto teorico e della applicazione pratica, i medici che intendono dedicarsi alle attivita' attinenti a questa particolare branca della medicina applicata, conferendo ad essi il diploma di specialista in medicina dello sport.   
-Art. 272. - Il titolo richiesto per l'ammissione alla scuola e' la laurea in medicina e chirurgia.   
-Il corso di studi ha la durata di tre anni, con frequenza obbligatoria; esso ha la sua sede ufficiale presso l'istituto di fisiologia umana. Gli insegnamenti clinici e specialistici si svolgono presso i rispettivi istituti clinici e specialistici.   
-Il numero massimo degli allievi e' di dodici per anno e complessivamente di trentasei per l'intero corso.   
-L'ammissione ai corsi avviene per titoli. Nel caso di domande eccedenti il numero dei posti disponibili la selezione dei candidati avviene in base ai risultati di un esame di ammissione.   
-Non sono previste abbreviazioni di corso.   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Art. 273. - L'ordine degli studi e' il seguente:   
-1° Anno:   
-1) anatomia dell'apparato locomotore;   
-2) fisiologia dell'apparato locomotore;   
-3) biochimica ed energetica muscolare;   
-4) antropometria e auxologia;   
-5) psicologia applicata allo sport;   
-6) storia dell'educazione fisica e dello sport;   
-7) sistematica delle attivita' sportivo-agonistiche e regolamenti sportivi.   
-2° Anno:   
-1) fisiologia dell'esercizio fisico;   
-2) biomeccanica dell'esercizio fisico;   
-3) metodologia dell'allenamento sportivo;   
-4) scienza della nutrizione applicata all'attivita' sportiva;   
-5) fisiopatologia degli sport e semeiotica medico-sportiva I;   
-6) farmacologia e tossicologia del doping;   
-7) igiene e medicina preventiva applicata all'attivita' sportiva;   
-8) traumatologia degli sport.   
-3° Anno:   
-1) fisiologia applicata agli sport;   
-2) valutazione funzionale dello sportivo;   
-3) fisiopatologia degli sport e semeiotica medico-sportiva II;   
-4) fisioterapia e rieducazione funzionale;   
-5) rianimazione e pronto soccorso;   
-6) medicina legale ed infortunistica legata agli sport;   
-7) fisiologia dell'adattamento agli ambienti straordinari.   
-La scuola svolge brevi corsi integrativi di conferenze o seminari sopra argomenti e discipline che sono stabiliti, secondo le possibilita' contingenti, del consiglio dei docenti della scuola.  
-Sono inoltre svolte esercitazioni pratiche in sede e sul campo.   
-Art. 274. - Alla fine di ogni anno di corso gli allievi devono sostenere l'esame di profitto nelle materie di insegnamento (art. 273), previste per ogni anno di corso e articolate in un unico gruppo.   
-L'iscrizione agli anni successivi e' subordinata al superamento di tutti gli esami annuali.   
-Art. 275. - Il diploma si consegue dopo aver superato tutte le prove di esame del triennio; la prova di diploma si svolge con la discussione su una dissertazione scritta concernente un tema assegnato o in ogni altro caso approvato dal direttore della scuola.   
-Art. 276. - Alle spese occorrenti al funzionamento della scuola si provvede con le seguenti tasse, soprattasse e contributi degli iscritti:   
-  
-tassa di immatricolazione. . . . . . . . . . . . . . . . . . L. 5.000 libretto e tessera . . . . . . . . . . . . . . . . . . . . . L. 2.000 tassa annuale di iscrizione (in due rate). . . . . . . . . L. 186.000 tassa erariale di diploma. . . . . . . . . . . . . . . . . . L. 6.000   
+Lo statuto dell'Universita' di Pavia, approvato e modificato con i decreti suindicati e' ulteriormente modificato come dal testo annesso al presente decreto - vistato dal Ministro per la pubblica istruzione - contenente le norme relative all'ordinamento del triennio di applicazione del corso di laurea in ingegneria elettrotecnica.  
+Il biennio propedeutico all'ingegneria, esistente presso la facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Pavia passa a far parte integrante della facolta' di ingegneria istituita con il presente decreto.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 giugno 1979
+### Dato a Roma, addi' 9 giugno 1967
 
-PERTINI SPADOLINI
+SARAGAT GUI - COLOMBO
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 7 settembre 1979
+Registrato alla Corte dei conti, addi' 16 aprile 1968
 
-Registro n. 67 Istruzione, foglio n. 394
+Atti del Governo, registro n. 219, foglio n. 14. - GRECO
+
+Allegato
+
+TESTO DELLE MODIFICHE DELLO STATUTO DELLA UNIVERSITA' DI PAVIA, RELATIVO ALL'ISTITUZIONE DELLA FACOLTA' DI INGEGNERIA   
+  
+Art. 1. - All'elenco delle facolta' che comprende la Universita' di Pavia e' aggiunta la seguente:   
+Facolta' di ingegneria.   
+  
+Dopo l'art. 52 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi all'istituzione del triennio di applicazione del corso di laurea in ingegneria elettrotecnica.   
+  
+Art. 53. - Gli insegnamenti del triennio (3°, 4° e 5° anno) si distinguono in:   
+  
+A) Obbligatori sul piano nazionale:   
+  
+1. Scienza delle costruzioni;   
+2. Meccanica applicata alle macchine I;   
+3. Fisica tecnica;   
+4. Elettrotecnica;   
+5. Idraulica;   
+6. Misure elettriche;   
+7. Macchine;   
+8. Macchine elettriche;   
+9. Impianti elettrici I;   
+10. Elettronica applicata.   
+  
+B) Obbligatori sul piano della facolta':   
+  
+11. Complementi di analisi matematica;   
+12. Economia ed organizzazione aziendale;   
+13. Tecnica delle costruzioni;   
+14. Costruzioni di macchine elettriche;   
+15. Controlli automatici.   
+  
+C) Gruppi di materie a scelta dello studente:   
+  
+Indirizzo impianti:   
+  
+16. Impianti elettrici II;   
+17. Centrali elettriche;   
+18 e 19, a scelta tra:   
+Trazione elettrica;   
+Campi elettromagnetici e circuiti;   
+Elettrochimica;   
+Radiotecnica;   
+Analisi numerica;   
+Ergotecnica;   
+Igiene applicata all'ingegneria e ingegneria sanitaria   
+Teoria ed applicazioni delle macchine calcolatrici;   
+  
+Indirizzo macchine:   
+  
+16. Costruzione di macchine;   
+17. Trazione elettrica;   
+18 e 19, a scelta tra:   
+Macchine elettriche speciali;   
+Costruzione di apparecchi elettrici;   
+Campi elettromagnetici e circuiti;   
+Impianti elettrici II;   
+Analisi numerica;   
+Meccanica applicata alle macchine II;   
+Ergotecnica;   
+Teoria ed applicazioni delle macchine calcolatrici.   
+  
+Art. 54. La scelta dello studente dovra' comunque cadere sugli insegnamenti effettivamente impartiti nei singoli anni accademici nell'ambito della facolta'.   
+  
+Art. 55. - Per essere ammesso all'esame di laurea lo studente dovra' aver superato tutti gli insegnamenti obbligatori del triennio di applicazione e quelli da lui scelti secondo le norme indicate nell'articolo precedente.   
+  
+Art. 56. - L'esame di laurea comprende due prove scritte (una delle quali a indirizzo specifico e una prova orale) agli studenti iscritti al 5° anno, che abbiano superato gli esami degli anni precedenti con media elevata, e' consentito di sostituire la prova scritta a indirizzo specifico con una tesi anche di carattere teorico.   
+La prova orale verte sulla discussione delle scritte sui progetti svolti nel quinto anno e su argomenti intesi ad accertare la organica preparazione di base del candidato e le sue cognizioni tecniche e pratiche nel ramo dell'ingegneria elettrotecnica.   
+  
+  
+Visto, d'ordine del Presidente della Repubblica   
+  
+Il Ministro per la pubblica istruzione   
+GUI   

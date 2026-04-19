@@ -1,94 +1,74 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1980 n. 1143
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 agosto 1954 n. 987
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1980 n. 1143
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 agosto 1954 n. 987
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni dagli organi accademici dell'Universita' degli studi di Napoli e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-L'art. 9 e' modificato nel senso che e' aggiunta la seguente frase:  
-13. L'Universita' degli studi di Napoli comprende, altresi', un centro di calcolo elettronico interfacolta'.  
-Dopo l'art. 883 sono aggiunti i seguenti nuovi articoli relativi alla istituzione del centro di calcolo elettronico interfacolta'.  
+Veduto lo statuto dell'Universita' degli studi di Napoli approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con i [regi decreti 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;1904); [4 maggio 1942, n. 557](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-05-04;557); [5 settembre 1942, n. 1120 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-09-05;1120) [26 febbraio 1949, n. 612](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;612); [23 settembre 1949, n. 931](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;931); [30 ottobre 1949, n. 1059](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1059); [5 aprile 1950, n. 284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-04-05;284); [30 ottobre 1950, n. 1277](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1277), [31 ottobre 1950, n. 1311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1311); [18 aprile 1951, n. 934](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;934); [30 luglio 1951, n. 1314](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-07-30;1314); [27 ottobre 1951, n. 1680](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1680); [19 settembre 1952, n. 4551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-09-19;4551); [25 agosto 1953, n. 1117](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;1117); [26 aprile 1954, n. 738](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-04-26;738) e [30 giugno 1954, n. 753](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-30;753);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Sezione XVII Centro di calcolo elettronico  
+Decreta:  
   
-Art. 884. - Il centro di calcolo elettronico dell'Universita' di Napoli e' destinato al servizio relativo alle attivita' didattiche e scientifiche dell'Universita' di Napoli, nonche' di altre universita' o istituti universitari che stipulano apposite convenzioni con l'Universita' di Napoli.  
-Art. 885. - Il centro ha le seguenti finalita':  
-a) sopperire alle esigenze di calcolo connesse con la ricerca scientifica delle istituzioni di cui all'art. 884 mettendo a disposizione di coloro che operano in tali istituzioni le attrezzature per il calcolo e le elaborazioni che possono essere necessarie per lo svolgimento delle loro attivita' di ricerca;  
-b) sopperire alle esigenze didattiche delle istituzioni di cui all'art. 884 fornendo le attrezzature necessarie per la preparazione degli studenti;  
-c) promuovere attivita' di documentazione e di studio e qualsiasi altra attivita' connessa con lo sviluppo di mezzi di elaborazione del centro ed il loro impiego;  
-d) favorire il collegamento e la collaborazione con centri di calcolo o centri di studio e di ricerca appartenenti ad altre universita' o enti analoghi.  
-Il centro potra' altresi' soddisfare esigenze di calcolo di altri enti, ma soltanto in quanto cio' non ostacoli il buon perseguimento delle finalita' di cui sopra.  
-Art. 886. - Il centro per sua natura sostiene le attivita' di quelle componenti delle istituzioni di cui all'art. 884 che sono particolarmente volte alle ricerche di informatica.  
-Art. 887. - Sono organi del centro:  
-a) il consiglio direttivo e il suo presidente;  
-b) il comitato tecnico;  
-c) il direttore del centro.  
-Art. 888. - Il consiglio direttivo e' costituito da professori ufficiali rappresentanti dell'Universita' di Napoli e da un massimo di dodici professori ufficiali rappresentanti delle istituzioni di cui all'art. 884 nel numero fissato dalle relative convenzioni.  
-I rappresentanti dell'Universita' di Napoli sono distribuiti come segue:  
-a) tre professori ufficiali della facolta' di scienze;  
-b) tre professori ufficiali della facolta' di ingegneria;  
-c) due professori ufficiali della facolta' di economia e commercio;  
-d) due professori ufficiali della facolta' di agraria;  
-e) due professori ufficiali della facolta' di architettura;  
-f) un professore ufficiale di ciascuna delle altre facolta'.  
-Fa parte inoltre del consiglio direttivo il direttore amministrativo dell'Universita' di Napoli o un funzionario da lui delegato.  
-Il consiglio direttivo elegge il presidente ed il segretario fra i rappresentanti dell'Universita' di Napoli e degli enti di cui all'art. 884.  
-I membri del consiglio direttivo di cui alle voci a), b), c), d), e), f), sono nominati dal rettore su proposta delle rispettive facolta'.  
-I rappresentanti dell'Universita' di Napoli e quelli degli enti di cui all'art. 884 durano in carica tre anni purche' conservino la qualifica di professori ufficiali e sono nominabili al massimo per due volte consecutive.  
-Art. 889. - Il comitato tecnico e' costituito da esperti del settore degli elaboratori elettronici e dell'elaborazione automatica dei dati.  
-Il comitato tecnico e' costituito da:  
-a) il direttore del centro;  
-b) il segretario amministrativo del centro;  
-c) un rappresentante eletto dal personale tecnico del centro nel proprio ambito;  
-d) non piu' di sei membri scelti fra il personale docente delle istituzioni di cui all'art. 884 che abbiano comprovata esperienza nel settore degli elaboratori elettronici e dell'elaborazione automatica dei dati.  
-I membri del comitato tecnico di cui alle voci c) e d) durano in carica due anni.  
-I membri di cui alla voce d) non possono contemporaneamente far parte anche del consiglio direttivo.  
-Art. 890. - Il direttore del centro nominato dal rettore e' scelto tra i professori ufficiali dell'Universita'.  
-Art. 891. - Le norme relative al funzionamento del centro formano oggetto di apposito regolamento approvato dal consiglio di amministrazione dell'Universita' su proposta del consiglio direttivo e previo parere del senato accademico.  
-Il regolamento viene reso esecutivo con decreto del rettore, previa approvazione ministeriale.  
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+Dopo l'art. 285, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione di un "corso di perfezionamento in nipiologia".  
+  
+Corso di perfezionamento in nipiologia  
+  
+Art. 286. - E' istituito presso l'Universita' di Napoli un corso di perfezionamento in nipiologia.  
+Il corso che ha la durata di un anno ha sede presso la clinici pediatrica ed e' diretto dal direttore della clinica stessa.  
+Art. 287. - Possono iscriversi al corso solamente coloro che siano gia' specializzati in pediatria.  
+Art. 288. - Le materie d'insegnamento sono le seguenti:  
+a) concetto e storia della nipiologia. Legislazione per la protezione del lattante;  
+b) genetica ed eugenica;  
+c) embriologia, anatomia, ortogenesi del lattante;  
+d) embriopatie;  
+e) l'eta' del neonato;  
+f) fisiologia del lattante;  
+g) importanza dell'alimentazione sullo sviluppo del lattante;  
+h) psicologia del lattante con speciale riguardo allo sviluppo del sistema neuro-psichico. Psichiatria del lattante;  
+i) l'allergia del lattante;  
+l) ortopedia e traumatologia del lattante;  
+m) oftalmologia del lattante;  
+n) otorinolaringoiatria del lattante;  
+o) dermatologia del lattante;  
+p) pedagogia del lattante;  
+q) influenza dell'ambiente sullo sviluppo del lattante;  
+r) profilassi individuale e sociale del lattante;  
+s) educazione fisica del lattante;  
+t) etnografia del lattante;  
+u) assistenza al lattante illegittimo;  
+v) assistenza al lattante legittimo con speciale riguardo all'azione dell'Opera nazionale per la protezione della maternita' ed infanzia.  
+Art. 289. - Gli iscritti hanno l'obbligo della frequenza alle lezioni e della frequenza a turni nel reparto immaturi esistenti in clinica pediatrica.  
+Art. 290. - I perfezionandi debbono pagare le stesse tasse (immatricolazione, iscrizione, ecc.) vigenti per le altre scuole di perfezionamento e debbono inoltre versare un contributo speciale di L. 30.000 che, ai sensi dell'[art. 11 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art11), sara' devoluto all'istituto di clinica pediatrica.  
+Art. 291. - I perfezionandi dovranno sostenere alla fine del corso un esame orale sulle materie di insegnamento e dovranno discutere una tesi scritta compilata sai mio degli argomenti delle materie di insegnamento.  
+Art. 292. - La Commissione esaminatrice presieduta dal direttore del corso (cioe' dal direttore della clinica pediatrica), sara' composta di cinque insegnanti del corso, invitati a rotazione.  
+Art. 293. - I perfezionandi che, ammessi all'esame in base alla frequenza, lo avranno superato, otterranno un certificato di frequenza e di esame.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 ottobre 1980
+### Dato a Roma, addi' 24 agosto 1954
 
-PERTINI SARTI
+EINAUDI MARTINO
 
-Visto, il Guardasigilli: SARTI
+Visto, il Guardasigilli: DE PIETRO
 
-Registrato alla Corte dei conti, addi' 19 maggio 1981
+Registrato alla Corte dei conti, addi' 22 ottobre 1954
 
-Registro n. 44 istruzione, foglio n. 150
+Atti del Governo, registro n. 86, foglio n. 155. - CARLOMAGNO

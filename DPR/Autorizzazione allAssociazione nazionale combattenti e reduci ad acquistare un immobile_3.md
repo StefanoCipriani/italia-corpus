@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 marzo 1967 n. 225
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 1963 n. 966
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 marzo 1967 n. 225
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 1963 n. 966
+=============================================================
 
 Autorizzazione all'Associazione nazionale combattenti e reduci ad acquistare un immobile.
 -----------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-225. Decreto del Presidente della Repubblica 3 marzo 1967, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale combattenti e reduci viene autorizzata ad acquistare dal sig. Corbellini Ernesto, per il prezzo di L. 50.000 (cinquantamila), come da atto a rogito dott. Emilio Ferrari, notaio residente in Magenta, in data 2 settembre 1961, n. 22821 di rep., n. 7858 di racc., un immobile costituito da un appezzamento di terreno, sito nel comune di Mulazzano (Milano), sezione Quartiano, da destinare all'ampliamento della sede sociale della Sezione combattenti e reduci di Quartiano.  
+966. Decreto del Presidente della Repubblica 6 giugno 1963, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale combattente e reduci viene autorizzata ad acquistare dal geom. Carlo Garella, al prezzo di L. 2.600.000 un appartamento di tre vani utili ed accessori sito in Campobasso alla via G. Albino, come da rogito notaio dott. Michelangelo De Socio di Campobasso, in data 25 gennaio 1910, rep. 21805, raccolta 2657, da adibire a sede della locale Federazione provinciale dell'Associazione anzidetta.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 18 aprile 1967  
-Atti del Governo, registro n. 210, foglio n. 123. - GRECO
+Visto, il Guardasigilli: BOSCO  
+Registrato alla Corte dei conti, addi' 12 luglio 1963  
+Atti del Governo, registro n. 171, foglio n. 124. - VILLA

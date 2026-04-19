@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 849
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 859
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 849
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 859
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
@@ -18,11 +18,11 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto, formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;,
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
 
 Sentito il parere del Consiglio universitario nazionale;
 
@@ -31,17 +31,30 @@ Sulla
 
 proposta del Ministro della pubblica istruzione; Decreta:
 
-Articolo unico
---------------
+Art. 1
+------
 
   
+Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 103, primo comma - la scuola di specializzazione in ematologia clinica e di laboratorio muta la denominazione in quella di scuola di specializzazione in ematologia generale (clinica e laboratorio).  
+
+Art. 2
+------
+
   
-Negli articoli 18, 19 e 20 dello statuto dell'Universita' cattolica del Sacro Cuore di Milano, concernenti i corsi di laurea in materie letterarie, in pedagogia e in lingue e letterature straniere, all'elenco degli insegnamenti complementari sono aggiunti, come segue, quelli di:   
-teoria della letteratura (articoli 18 e 20);   
-letteratura e civilta' del Rinascimento (articoli 18, 19 e 20); storia della letteratura ispano-americana (articoli 18 e 20);   
-metodologia della ricerca psicologica (art. 19);   
-metodologia della ricerca sociologica (art. 19);   
-storia dell'oriente cristiano (articoli 18 e 19).   
+L'art. 107, quarto comma, relativo alla scuola di specializzazione in urologia, e' modificato nel senso che il numero massimo degli iscritti e' stabilito in quindici per anno di corso e complessivamente in settantacinque iscritti per l'intero corso di studi.  
+
+Art. 3
+------
+
+  
+L'art. 114, primo comma, relativo alla scuola di specializzazione in psichiatria, e' modificato nel senso che il numero degli iscritti e' stabilito in dieci per anno di corso e complessivamente in quaranta iscritti per l'intero corso di studi.  
+
+Art. 4
+------
+
+  
+L'[art. 150, terzo comma, del decreto del Presidente della Repubblica 31 ottobre 1977, n. 1260](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-10-31;1260~art150-com3), relativo alla scuola di specializzazione in chirurgia plastica, e' modificato nel senso che il numero degli iscritti e' stabilito in otto per anno di corso e complessivamente in quaranta iscritti per l'intero corso di studi.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
@@ -55,4 +68,4 @@ Visto, il Guardasigilli: MORLINO
 
 Registrato alla Corte dei conti, addi' 20 marzo 1980
 
-Registro n. 24 Istruzione, foglio n. 151
+Registro n. 24 Istruzione, foglio n. 147

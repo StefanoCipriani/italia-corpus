@@ -1,255 +1,173 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1962 n. 559
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 ottobre 1977 n. 1045
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1962 n. 559
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 ottobre 1977 n. 1045
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successivi;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-"Seminario chimico";  
-"Seminario di scienze biologiche";  
-"Seminario di scienze geologiche".  
-Art. 15. - Dall'elenco degli insegnamenti complementari del corso di laurea in Giurisprudenza e' soppresso l'insegnamento di "Diritto coloniale".  
-Art. 39. - Agli insegnamenti complementari del corso di diploma in statistica sono aggiunti quelli di:  
-"Controllo statistico delle qualita' e statistica industriale";  
-"Programmazione ed interpretazione statistica degli esperimenti";  
-"Calcolo numerico e tecnica delle applicazioni meccanografiche ed elettroniche".  
-Art. 42. - Agli insegnamenti complementari del corso di laurea in Scienze politiche e' aggiunto quello di "Storia, contemporanea".  
-Art. 82, relativo al corso di laurea in chimica, e' modificato nel senso che l'elenco degli insegnamenti complementari sia per l'indirizzo organico-biologico che per l'indirizzo inorganico-chimico-fisico e' abrogato e sostituito dal seguente:  
+Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Sentito il parere del Consiglio superiore della, pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-a) Indirizzo organico-biologico;  
+Decreta:  
   
-1) Chimica organica superiore;  
-2) Elettrochimica organica con esercitazioni;  
-3) Chimica organica applicata  
-4) Chimica nucleare con esercitazioni;  
-5) Chimica quantistica;  
-6) Strutturistica chimica;  
-7) Spettroscopia molecolare;  
-8) Chimica degli alti polimeri;  
-9) Chimica bramatologica con esercitazioni;  
-10) Esercitazioni di tecniche e sintesi speciali organiche;  
-11) Chimica biologica (corso speciale per chimici);  
-12) Chimica farmaceutica  
-13) Farmacologia;  
-14) Chimica delle fermentazioni;  
-15) Chimica agraria;  
-16) Scienza dell'alimentazione;  
-17) Fisiologia generale (corso speciale per chimici);  
-18) Microchimica preparativa;  
-19) Didattica della sperimentazione chimica  
-20) Chimica delle sostanze organiche naturali;  
-21) Fotochimica;  
-22) Complementi di chimica  
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli 45 e 46 relativi all'ordinamento degli studi per il conseguimento della laurea in lingue e letterature straniere sono abrogati e sostituiti dai seguenti:  
   
-b) L'elenco degli insegnamenti complementari per l'indirizzo inorganico-chimico-fisico viene sostituito con i seguenti:  
+Laurea in lingue e letterature straniere  
   
-1) Chimica teorica;  
-2) Chimica inorganica superiore;  
-3) Elettrochimica;  
-4) Scienza dei metalli;  
-5) Geochimica (corso speciale per chimici);  
-6) Chimica inorganica applicata;  
-7) Spettroscopia  
-8) Misure elettriche (corso speciale per chimici)  
-9) Radiochimica;  
-10) Chimica fisica dello stato solido;  
-11) Chimica fisica tecnica;  
-12) Strumentazione didattica da laboratorio;  
-13) Chimica colloidale e delle interfasi;  
-14) Chimica isotopica;  
-15) Cinetica chimica;  
-16) Esercitazioni di tecniche e sintesi speciali inorganiche;  
-17) Chimica dei composti elemento-organici;  
-18) Cristallochimica inorganica;  
-19) Chimica macromolecolare;  
-20) Storia delle teorie chimiche.  
-Sono inoltre abrogati e sostituiti dal seguente i tre capoversi finali dello stesso articolo:  
-"La scelta degli insegnamenti complementari e' impegnativa, va effettuata all'inizio del triennio di studi di applicazione, deve essere approvata dalla Facolta' e variata soltanto in casi eccezionali, subordinatamente al parere favorevole della Facolta'".  
-Art. 85, relativo al corso di laurea in chimica industriale, e' modificato nel senso che l'elenco degli insegnamenti complementari e' abrogato e Sostituito dal seguente:  
-"1) Chimica organica industriale;  
-2) Elettrochimica industriale  
-3) Chimica statistica  
-4) Chimica analitica applicata;  
-5) Chimica fisica industriale;  
-6) Chimica degli idrocarburi naturali e derivati;  
-7) Chimica nucleare applicata;  
-8) Chimica delle materie plastiche;  
-9) Chimica applicata ai materiali da costruzione;  
-10) Strutturistica roentgenografica, elettronica e neutronica;  
-11) Spettroscopia applicata;  
-12) Strumentazione elettrica applicata alla chimica industriale;  
-13) Elettrotecnica (corso speciale per chimici industriali);  
-14) Chimica inorganica industriale;  
-15) Chimica merceologica;  
-16) Fisiologia ed igiene del lavoro industriale;  
-17) Storia della chimica;  
-18) Chimica delle radiazioni;  
-19) Siderurgia e metallurgia;  
-20) Chimica delle sostanze coloranti;  
-21) Batteriologia industriale.  
-Sono inoltre abrogati e sostituiti dal seguente i due capoversi finali dello stesso articolo:  
-"La scelta degli insegnamenti complementari e' impegnativa e va effettuata all'inizio del triennio di studi di applicazione, deve essere approvata dalla Facolta' e variata soltanto in casi eccezionali subordinatamente al parere favorevole della Facolta'".  
-Art. 100. - Agli insegnamenti complementari del corso di laurea in scienze biologiche e' aggiunto quello di "Zoogeografia ed ecologia animale".  
-Art. 109, relativo alle modalita' degli esami di laurea e' modificato nel senso che il primo capoverso e' abrogato e sostituito dai seguenti:  
-"L'esame di laurea consiste nella discussione di una dissertazione scritta ed eventualmente di temi orali, l'una e gli altri scelti dal candidato fra le materie di insegnamento di ogni laurea. I temi orali sono due per le lauree in Scienze matematiche, fisiche, matematiche e fisiche, biologiche, geologiche e naturali.  
-Per la laurea in Scienze geologiche uno dei temi orali da discutere deve riguardare un lavoro di rilevamento geologico, ove questo non faccia gia' parte integrante della dissertazione.  
-Per le lauree in Chimica e Chimica industriale ed in Scienze geologiche nello svolgimento e discussione della dissertazione di laurea il relatore e' coadiuvato di regola da un correlatore".  
-Art. 110, relativo agli Istituti della Facolta' di Scienze matematiche, fisiche e naturali, e' abrogato e sostituito dal seguente:  
-"Appartengono alla Facolta' i seguenti Istituti:  
-Istituto ed orto botanico;  
-Istituto di chimica fisica e di elettrochimica;  
-Istituto di chimica generale e inorganica e di chimica analitica Istituto di chimica organica e di chimica organica industriale;  
-Istituto di fisica con annesso osservatorio sismologico;  
-Istituto di fisica terrestre, di geodesia e di geografia fisica;  
-Istituto e museo di antropologia e di etnologia;  
-Istituto e museo di geologia, di paleontologia e di geologia applicata;  
-Istituto e museo di mineralogia, di petrografia e di geochimica;  
-Istituto e museo di zoologia, di anatomia comparata e genetica;  
-Istituto di disegno;  
-Seminario chimico;  
-Seminario di scienze biologiche;  
-Seminario di scienze geologiche;  
-Stazione idrobiologica di Chioggia;  
-Osservatorio astrofisico di Asiago;  
-Semilunario matematico formato dell'Istituto di algebra e di analisi, dall'Istituto di geometria, dall'Istituto di meccanica razionale e dall'istituto di matematiche superiori.  
-I diversi Istituti matematici e il Seminario matematico hanno servizi, sede, biblioteca in comune e amministrazione collegiale e formano la Scuola di scienze matematiche".  
-Dopo l'art. 117, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli contenenti le norme relative al Seminario chimico, al Seminario di scienze biologiche e al Seminario di scienze geologiche.  
-Art. 118. - Il Seminario chimico della Facolta' di scienze ha lo scopo di diffondere la cultura chimica, di promuovere studi e ricerche nel campo della chimica pura e applicata e di impartire ad allievi particolarmente distintisi nello studio e nella ricerca una preparazione supplementare atta alla completa valorizzazione delle loro capacita'.  
-L'attivita' del suddetto seminario consiste in esercitazioni, ricerche, conferenze, discussioni, comunicazioni scientifiche, viaggi d'istruzione corsi di preparazione e di aggiornamento ecc., ed in quanto altro possa servire allo scopo sopra indicato.  
-Art. 119. - Al Seminario chimico appartengono i professori ufficiali di Chimica della Facolta' di scienze, i quali annualmente propongono al rettore la nomina di un Consiglio di quattro membri ed un direttore scelto quest'ultimo fra i professori di ruolo della Facolta', appartenenti al Seminario e che fa parte di diritto del Consiglio.  
-Art. 120. - L'iscrizione al Seminario e' obbligatoria per gli studenti del triennio di applicazione dei corsi per le lauree in chimica e chimica industriale. Possono iscriversi anche gli studenti di altre Facolta' (nonche' i laureati e diplomati) ed i laureandi fuori corso.  
-Art. 121. - A tutti gli iscritti e' fatto obbligo di versare all'atto dell'iscrizione i contributi che vengono stabiliti dai Consiglio di amministrazione su proposta del Senato accademico, udito il Consiglio del seminario.  
-Art. 122. - Il Seminario chimico ha una propria biblioteca ed una raccolta di materiale didattico. Il Consiglio del seminario delibera di anno in anno gli acquisti nuovi. Esso nomina nel suo seno un bibliotecario al quale e' affidata la sorveglianza sul materiale didattico e sui prestiti. Il bibliotecario resta in carica due anni ed e' rieleggibile. Egli e' coadiuvato dagli assistenti degli Istituti chimici.  
-Art. 123. - Il Seminario chimico pubblica, quando i fondi lo consentano, un bollettino sotto la direzione di un comitato di redazione.  
-Art. 124. - Agli iscritti al Seminario puo' venire rilasciato un attestato degli studi compiuti e dei profitto dimostrato.  
-Art. 125. - Il Seminario di scienze biologiche ha lo scopo di promuovere studi e ricerche di biologia e di estendere e approfondire la cultura biologica. L'attivita' del Seminario si svolge per mezzo di conferenze, comunicazioni, discussioni, esercitazioni, dimostrazioni scientifiche in laboratorio e in campagna e con qualsiasi mezzo che possa servire allo scopo suddetto.  
-Art. 126. - Il Seminario e' diretto da un direttore assistito da un Consiglio. Il direttore e' professore di ruolo di disciplina biologica della Facolta', nominato dal rettore su proposta del Consiglio di facolta'. Fanno parte del Consiglio del seminario tutti i professori di ruolo di discipline biologiche della Facolta' di scienze e quelli della Facolta' di medicina e agraria che impartiscono insegnamenti fondamentali e complementari per la laurea in scienze biologiche.  
-Art. 127. - L'iscrizione del Seminario e' obbligatoria per tutti gli studenti del secondo biennio e per i laureandi fuori corso iscritti agli internati d'istituto del corso per la laurea in Scienze biologiche e per quelli dell'indirizzo biologico della laurea in scienze naturali.  
-Possono iscriversi anche studenti di altri corsi di studi e di altre Facolta' (nonche' laureati e diplomati).  
-Art. 128. - Gli iscritti versano una tassa d'iscrizione il cui ammontare viene stabilito anno per anno dal Consiglio di amministrazione, su proposta del Senato accademico, udito il Consiglio del seminario.  
-Art. 129. - Agli iscritti al Seminario puo' essere rilasciato un certificato.  
-Art. 130. - Il Seminario di scienze geologiche ha lo scopo di promuovere studi e ricerche di geologia, mineralogia, geografia fisica e scienze affini pure ed applicative e di estendere e approfondire la cultura geologica. L'attivita' del Seminario si svolge per mezzo di conferenze, comunicazioni, discussioni, dimostrazioni scientifiche in laboratorio e in campagna e con qualsiasi altro mezzo che possa servire allo scopo predetto.  
-Art. 131. - Il Seminario e' diretto da un direttore assistito da un Consiglio. Il direttore e' un professore di ruolo delle discipline geo-mineralogiche della Facolta' di scienze, nominato dal rettore su proposta del Consiglio di Facolta', fanno parte del Consiglio del seminario i professori ufficiali di discipline geologico-mineralogiche e geofisiche.  
-Art. 132. - L'iscrizione al Seminario e' obbligatoria per gli studenti del secondo biennio e per i laureandi fuori corso iscritti agli internati di istituto per la laurea in scienze geologiche e per quelli dell'indirizzo biologico della laurea in scienze naturali.  
-Possono iscriversi anche studenti di altri corsi di studi e di altre Facolta' (nonche' laureati e diplomati).  
-Art. 133. - Gli iscritti versano una tassa di iscrizione il cui ammontare viene stabilito anno per anno dal Consiglio di amministrazione, su proposta del Senato accademico, udito il Consiglio del seminario.  
-Art. 134. - Agli iscritti puo' essere rilasciato un certificato.  
-Gli articoli da 213 a 219 - relativi alla scuola di perfezionamento in Fisica nucleare - sono abrogati e sostituiti dai seguenti che assumono la seguente nuova numerazione.  
+Art. 45. - La durata del corso degli studi di laurea in lingue e letterature straniere e' di quattro anni.  
+I titoli di ammissione sono quelli previsti dalle vigenti disposizioni di legge, nonche' la licenza a norma dell'[art. 2 della legge 9 ottobre 1951, n. 1130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-10-09;1130~art2), dalla scuola civica "Regina Margherita" di Genova ora "Grazia Deledda", o dalla scuola civica "Alessandro Manzoni" di Milano o dall'istituto di cultura e lingue "Marcelline" di Milano ovvero licenza a norma della [legge 12 marzo 1957, n. 94](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-03-12;94), o dal liceo femminile "Santa Caterina da Siena" di Venezia o dal liceo linguistico "Orsoline del Sacro Cuore" di Cortina d'Ampezzo.  
+Sono insegnamenti fondamentali:  
+1) lingua e letteratura italiana (biennale);  
+2) una lingua e letteratura straniera (quadriennale) da scegliersi tra francese, inglese, tedesco, spagnolo o qualsiasi altra il cui insegnamento sia impartito nel corso di laurea;  
+3) una seconda lingua e letteratura straniera (triennale) da scegliersi tra quelle insegnate nel corso di laurea;  
+4) la filologia afferente alla lingua scelta come quadriennale;  
+5) glottologia;  
+6) storia moderna e contemporanea;  
+7) geografia, soprattutto entropica.  
+Sono insegnamenti complementari:  
+1) lingua e letteratura latina I;  
+2) lingua e letteratura latina II;  
+3) storia dell'arte;  
+4) didattica delle lingue moderne;  
+5) storia della filosofia;  
+6) istituzioni economiche e commerciali;  
+7) lingua e letteratura portoghese;  
+8) lingua e letteratura russa;  
+9) pedagogia;  
+10) letteratura comparata;  
+11) storia delle dottrine economiche;  
+12) linguistica generale;  
+13) lingua e letteratura romena;  
+14) letteratura anglo-americana;  
+15) storia dell'Europa orientale;  
+16) biblioteconomia e bibliografia;  
+17) storia moderna;  
+18) storia medioevale;  
+19) storia della lingua italiana;  
+20) letteratura brasiliana;  
+21) arabo;  
+22) filologia italiana;  
+23) istituzioni giuridiche comparate;  
+24) letteratura ibero-americana;  
+25) lingua e letteratura greca;  
+26) lingua serbo-croata;  
+27) lingua slovena;  
+28) linguistica africana;  
+29) filologia slava;  
+30) storia della cultura tedesca;  
+31) storia delle religioni;  
+32) storia della pedagogia;  
+33) storia della lingua francese.  
+Oltre agli insegnamenti fondamentali, lo studente dovra' seguire, superando il relativo esame di ciascuno di essi, tre insegnamenti complementari scelti tra le discipline insegnate nella facolta' (con esclusione di quelle pluriennali).  
+Sono obbligatori, tenuto conto delle esigenze degli sfoci naturali della laurea in lingue e letterature straniere, gli insegnamenti complementari di lingua e letteratura latina I e di pedagogia.  
+Fra gli insegnamenti da impartirsi nel corso di laurea in lingue e letterature straniere devono necessariamente figurare i seguenti: lingua e letteratura latina, storia della filosofia, storia dell'arte, didattica delle lingue moderne.  
+Lo studente deve seguire per tutti i quattro anni l'insegnamento della lingua straniera alla quale intende dedicare i suoi studi (lingua quadriennale) e per tre anni quello di un'altra lingua straniera (triennale).  
+L'art. 46 viene abrogato e sostituito dal seguente:  
+"Gli esami delle lingue straniere consistono in prove scritte ed orali, una per ciascun anno di corso.  
+Le prove scritte, cronologicamente indipendenti rispetto alle prove orali, sono cosi' articolate:  
+primo anno: un dettato;  
+secondo anno: un dettato, una traduzione dalla lingua in italiano ed una traduzione dall'italiano in lingua;  
+terzo anno: un dettato, una traduzione dall'italiano in lingua ed una composizione;  
+quarto anno: un dettato, una traduzione dall'italiano in lingua ed una composizione.  
+Le valutazioni del dettato rientreranno nel voto unico della prova orale.  
+Gli esami di italiano consistono in due prove orali (una per ciascun anno di corso) ed in una prova scritta, che puo' essere sostenuta in uno qualsiasi degli anni di corso.  
+Tutti gli altri esami sono orali.  
+L'esame di storia e quello di geografia sono afferenti alla lingua scelta come quadriennale.  
+L'esame di laurea consiste nella discussione di un elaborato scritto su un argomento scelto tra una delle discipline di cui il candidato abbia superato gli esami, nel quadro della civilta' della lingua quadriennale".  
+Art. 58 - all'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:  
+storia delle Universita';  
+antropologia religiosa;  
+storia dell'agricoltura;  
+storia degli insediamenti tardoantichi e medioevali;  
+demografia storica;  
+storia della storiografia;  
+archeologia umanistica e storia dell'archeologia;  
+grammatica italiana;  
+linguistica romanza.  
+Lo stesso elenco e' modificato nel senso che gli insegnamenti complementari di filologia greco-latina e di paleografia e diplomatica sono soppressi e sostituiti dai seguenti:  
+filologia greca;  
+filologia latina;  
+paleografia latina;  
+diplomatica.  
+Art. 60 - all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne sono aggiunti i seguenti:  
+storia della letteratura russa contemporanea;  
+storia e grammatica storica della lingua russa.  
+Nello stesso elenco l'insegnamento complementare di lingua e letteratura cecoslovacca muta la denominazione quella di lingua e letteratura ceca e slovacca.  
+L'art. 67, relativo all'elenco degli istituti, annessi alla facolta' di lettere e filosofia, e' modificato nel senso che l'istituto di storia delle religioni muta la denominazione in quella di istituto di scienze religiose.  
+L'art. 219, relativo all'elenco delle scuole di perfezionamento e di specializzazione, annesse alla facolta' di lettere e filosofia, e' modificato nel senso che la scuola di perfezionamento in storia delle religioni muta la denominazione in quella di scuola di perfezionamento in scienze religiose.  
+Art. 384 - all'elenco delle scuole e dei corsi, annessi alla facolta' di medicina e chirurgia, e' aggiunta la seguente:  
+scuola speciale per ortottisti - assistenti di oftalmologia.  
+Dopo l'art. 385, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola speciale per ortottisti - assistenti di oftalmologia.  
   
-Scuola di perfezionamento in Fisica  
+Scuola speciale per ortottisti - assistenti di oftalmologia  
   
-Art. 236. - Presso la Facolta' di scienze matematiche, fisiche e naturali e' istituita una scuola di perfezionamento in fisica. Essa ha per scopo la formazione di laureati di preparazione superiore e specializzata in vista della ricerca scientifica, dell'insegnamento e delle applicazioni pratiche.  
-Art. 237. - La scuola e' retta da un Consiglio direttivo composto dal direttore, nominato dal rettore, su proposta del Consiglio di facolta', e dei professori di ruolo che vi tengono corsi regolari.  
-Il Consiglio direttivo determina:  
-a) gli indirizzi di specializzazione della scuola;  
-b) i programmi dei singoli corsi e la rispettiva durata;  
-c) il numero degli esami richiesti per il conseguimento del diploma secondo le diverse specializzazioni e le modalita' di essi;  
-d) per ogni anno accademico il numero degli allievi che possono ammettersi e i requisiti per l'ammissione;  
-e) le proposte da sottoporre al Consiglio di amministrazione in merito all'ammontare dei contributi da richiedere per la iscrizione ai singoli corsi e all'impiego di questi per il funzionamento della scuola.  
-Art. 238. - Di uno stesso insegnamento genericamente indicato in seguito possono venire incaricati piu' docenti aventi specifica competenza nelle diverse parti del programma.  
-Art. 239. - Alla scuola di perfezionamento sono ammessi i laureati in fisica, fisica e matematica, matematica, chimica ed ingegneria che soddisfino ai requisiti fissati anno per anno dal Consiglio direttivo.  
-Art. 240. - Per il conseguimento del diploma di perfezionamento in fisica si richiede una frequenza di due anni. E' in facolta' del Consiglio direttivo di abbreviare questo termine in casi speciali, tenendo conto dei titoli dei singoli candidati, in particolare per quelli provenienti da altre scuole di perfezionamento.  
-Art. 241. - La Scuola ha sede nei locali dell'Istituto di fisica dell'Universita' di Padova e si vale dei mezzi di questa e della locale sezione dell'I.N.F.N.  
-Art. 242. - Gli insegnamenti previsti per la Scuola sono i seguenti 1) Fisica teorica;  
-2) Statica dei nuclei;  
-3) Dinamica dei nuclei;  
-4) Fisica delle particelle elementari;  
-5) Tecniche nucleari;  
-6) Reattori nucleari;  
-7) Macchine acceleratrici;  
-8) Raggi cosmici;  
-9) Radioattivita';  
-10) Elettrodinamica;  
-11) Fisica dei solidi;  
-12) Fisica delle basse temperature;  
-13) Elettronica;  
-14) Radiochimica  
-15) Chimica nucleare;  
-16) Fisica atomica;  
-17) Meccanica quantistica;  
-18) Geologia nucleare;  
-19) Astrofisica;  
-20) Cibernetica e teoria dell'informazione;  
-21) Meccanica statistica;  
-22) Relativita';  
-23) Teoria dei campi.  
-Il Consiglio direttivo determinera' anno per anno quali di questi corsi dovranno essere svolti. A questi si potranno aggiungere anno per anno a giudizio del Consiglio altri insegnamenti che abbiano luogo presso la Facolta' di scienze o di ingegneria come corsi regolari di lezioni e cicli di conferenze.  
-Il Consiglio stabilira' d'altra parte quali corsi dovranno essere considerati come fondamentali per il conseguimento di diploma secondo un determinato indirizzo di specializzazione e quali potranno figurare come complementari allo stesso fine.  
+Art. 386. - E' istituita presso la facolta' di medicina e chirurgia dell'Universita' di Padova una scuola speciale di preparazione per ortottisti - assistenti di oftalmologia che ha sede presso la clinica oculistica di questa Universita'.  
+Art. 387. - La scuola ha lo scopo di dare una preparazione completa, teorico-pratica, istruendo gli allievi sui problemi della motilita' oculare, della ambliopia, delle tecniche diagnostiche della visione binoculare, del trattamento pre e postoperatorio dei pazienti strabici, dei problemi sui vizi di refrazione e della loro correzione e sulle tecniche diagnostiche in oftalmologia.  
+La durata del corso per conseguire il diploma di ortottista - assistente di oftalmologia e' di tre anni.  
+Ne sono titoli di ammissione il possesso di un diploma legalmente valido ai fini dell'iscrizione alla Universita' ai sensi dell'[art. 1 della legge n. 910 dell'11 dicembre 1969](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1) e la conoscenza di una lingua straniera (inglese, francese, tedesco, spagnolo).  
+Art. 388. - Gli aspiranti all'iscrizione al primo anno di corso sono tenuti a sostenere un esame di ammissione consistente in una prova di cultura generale e in una prova per la conoscenza della lingua straniera.  
+E' richiesto un certificato di sana e robusta costituzione, con particolare riguardo alla funzione visiva.  
+Art. 389. - Il numero complessivo degli iscritti alla scuola e' di sei (due per anno di corso). Qualora le domande di iscrizione fossero in numero superiore al numero massimo previsto, il consiglio della scuola si riserva di provvedere ad una scelta tra gli idonei in base ai risultati delle prove di ammissione; gli idonei possono essere ammessi anche in soprannumero in rapporto a posti che si rendessero vacanti, nel corso del secondo o terzo anno. I ripetenti e i fuori corso, qualora riprendano gli studi, sono riammessi in soprannumero.  
+Art. 390. - Il direttore della scuola e' un titolare della cattedra di clinica oculistica o altro docente di disciplina affine, proposto dal titolare della cattedra di clinica oculistica, sentito il consiglio della scuola.  
+Art. 391. - L'anno accademico ha inizio e termine nelle date stabilite dalle leggi in vigore per l'istruzione universitaria.  
+La frequenza e' obbligatoria.  
+Art. 392. - Il corso comprende lezioni teoriche ed esercitazioni pratiche.  
+Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1) elementi di anatomia dell'apparato visivo e del S.N.C.;  
+2) fisiologia dell'occhio, della mobilita' oculare, della visione binoculare;  
+3) ottica fisica e fisiopatologica;  
+4) ortottica I;  
+5) psicologia infantile.  
+2° Anno:  
+1) elementi di patologia oculare;  
+2) elementi di farmacologia oculare;  
+3) elementi di neurooftalmologia;  
+4) nozioni di chirurgia ed assistenza oftalmica;  
+5) ortottica II.  
+3° Anno:  
+1) tecniche semeiologiche dell'apparato visivo I (es. refrazione, contattologia, adattometria, campo visivo, senso cromatico);  
+2) tecniche semeiologiche ed elettrofisiologiche (tonometria e tonografia; ERG, EOG, EMG; ecografia, retinografia e fluoroangiografia);  
+3) ortottica III;  
+4) nozioni di riabilitazione senso motoria nell'eta' infantile;  
+5) legislazione sanitaria.  
+Art. 393. - L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni e dall'obbligo, per gli allievi, dell'internato per l'intero periodo di corso di studi nella clinica oculistica. La frequenza viene comprovata dall'attestazione rilasciata sul libretto di iscrizione dagli insegnanti e per l'attivita' pratica dal direttore della scuola.  
+L'attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.  
+Art. 394. - Alla fine di ogni anno gli allievi devono sostenere un esame sulle materie di insegnamento. Nel caso in cui i candidati non abbiano superato gli esami prescritti, essi rimarranno nella posizione di "ripetenti".  
+Art. 395. - Gli esami di profitto consistono in prove teoriche e pratiche.  
+Art. 396. - Alla fine del corso gli allievi debbono sostenere un esame di diploma che consiste nella discussione di una tesi scritta su un argomento riguardante le materie di insegnamento, assegnata dal direttore della scuola e in una prova pratica stabilita da una commissione esaminatrice. I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola ma se al secondo anno non sia loro riconosciuta l'idoneita' saranno senz'altro esclusi da ulteriori prove.  
+Art. 397. - Gli esami di profitto e di diploma si danno in due sessioni, la prima estiva che ha inizio subito dopo la chiusura annuale dei corsi e la seconda autunnale, nel mese che precede l'inizio del nuovo anno accademico.  
+Art. 398. - Le commissioni per gli esami di ammissione, di profitto e di diploma sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della clinica. Le commissioni per gli esami di ammissione e di profitto sono composte da tre membri; direttore della scuola, presidente, e da due insegnanti della scuola stessa. La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente, e da quattro membri scelti fra gli insegnanti della scuola stessa o altri docenti.  
+Art. 399. - Le tasse e soprattasse annuali a carico degli iscritti restano cosi' destinate:  
   
-Scuola di perfezionamento in fisica nucleare applicata  
-  
-Art. 243. - Presso la Facolta' di scienze fisiche, matematiche e naturali e' istituita una Scuola di perfezionamento in fisica nucleare applicata. Essa ha per scopo la formazione di laureati specialmente preparati in vista dell'applicazione della energia nucleare.  
-Art. 244. - La Scuola e' retta da un Consiglio direttivo composto dal direttore, nominato dal rettore su proposta del Consiglio di facolta', e dei professori di ruolo che vi tengono corsi regolari.  
-Il Consiglio determina:  
-a) il numero e le modalita' e gli esami richiesti per il conseguimento del diploma;  
-b) i programmi dei singoli corsi e la rispettiva durata;  
-c) per ogni anno accademico il numero degli allievi che possono ammettersi e i requisiti per l'ammissione;  
-d) le proposte da sottoporre al Consiglio di amministrazione in merito all'ammontare dei contributi da richiedere per la iscrizione ai singoli corsi e all'impiego di questi per il funzionamento della Scuola.  
-Art. 245. - Di uno stesso insegnamento genericamente indicato in seguito possono venire incaricati piu' docenti aventi specifica competenza nelle diverse parti del programma.  
-Art. 246. - Alla Scuola di perfezionamento sono ammessi i laureati in fisica, matematica, fisica e matematica, ingegneria, chimica e chimica industriale che soddisfino ai requisiti fissati anno per anno dal Consiglio.  
-Art. 247. - Per il conseguimento del diploma di perfezionamento in fisica nucleare applicati si richiede la frequenza di un anno.  
-Art. 248. - La Scuola ha sede nei locali dell'Istituto di fisica della Universita' di Padova e si vale dei mezzi di questa e di quelli messi a disposizione per questo scopo dal C.N.R.N. o da altro organo dello Stato che a questo fosse sostituito.  
-Art. 249. - Gli insegnamenti della Scuola sono i seguenti  
-1) Istituzioni di fisica atomica;  
-2) Istituzioni di fisica nucleare;  
-3) Fisica del reattore;  
-4) Tecniche e misure nucleari;  
-5) Strumentazione nucleare;  
-6) Controlli e servomeccanismi;  
-7) Problemi di sicurezza e dosimetria;  
-8) ingegneria del reattore;  
-9) Materie prime per reattori;  
-10) Chimica nucleare;  
-11) Chimica delle radiazioni;  
-12) Separazione degli isotopi stabili;  
-13) Giacimenti di uranio e torio;  
-14) Teoria del reattore;  
-15) Effetti delle radiazioni sul materiali.  
-Il Consiglio direttivo determinera' anno per anno quali di questi corsi dovranno essere seguiti rispettivamente dagli allievi in possesso delle varie lauree contemplate per l'ammissione alla Scuola.  
-Il Consiglio potra' d'altra parte includere nell'elenco altri insegnamenti che abbiano luogo presso l'Universita' di Padova come corsi regolari o cicli di conferenze.  
+tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 50.000 soprattassa annuale di esame. . . . . . . . . . . . . . . . L. 10.000 tassa erariale di diploma. . . . . . . . . . . . . . . . . . L. 1.200 tassa annuale per iscrizione studenti fuori corso . . . . . L. 10.000 contributi di laboratorio (3° anno) . . . . . . . . . . . . L. 35.000   
+Art. 400. - Al funzionamento della suddetta scuola si provvedera' con il provento delle tasse, soprattasse e contributi dovuti dagli iscritti e con eventuali elargizioni o contributi di enti pubblici o privati.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 maggio 1962
+### Dato a Roma, addi' 10 ottobre 1977
 
-SEGNI GUI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 19 giugno 1962
+Registrato alla Corte dei conti, addi' 21 gennaio 1978
 
-Atti del Governo, registro n. 151, foglio n. 17. - VILLA
+Registro n. 6 Istruzione, foglio n. 202

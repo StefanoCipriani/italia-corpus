@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 977
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1983 n. 239
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 977
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1983 n. 239
+============================================================
 
 Modificazione allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
 --------------------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), e successive modiFicazioni;
+Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -39,20 +39,23 @@ Articolo unico
 --------------
 
   
+Art. 23 - nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono inseriti i seguenti insegnamenti: oncologia clinica;  
+anatomia umana;  
+fisiopatologia endocrina;  
+cardiologia pediatrica;  
+terapia pediatrica sistematica;  
+genetica.  
   
-Art. 23 - nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' inserito l'insegnamento di "malattie metaboliche e del ricambio".   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1985
+### Dato a Roma, addi' 28 marzo 1983
 
-COSSIGA
+PERTINI FALCUCCI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: DARIDA
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 19 maggio 1983
 
-Registrato alla Corte dei conti, addi' 26 marzo 1986
-
-Registro n. 21 Istruzione, foglio n. 254
+Registro n. 36 Istruzione, foglio n. 66

@@ -1,87 +1,109 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1961 n. 1413
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 agosto 1986 n. 985
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1961 n. 1413
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 agosto 1986 n. 985
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta, intese ad ottenere l'istituzione del corso di laurea in chimica e tecnologia farmaceutiche;
+
+Considerato che e' tuttora in atto la sperimentazione organizzativa e didattica di cui agli [articoli 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art81) - [93 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art93);
+
+Considerato che le tabelle dell'ordinamento didattico universitario relative ai corsi di laurea sono in fase di riordinamento per effetto di apposite commissioni di studio, e che anzi alcune tabelle sono state gia' riordinate;
+
+Rilevata la necessita' di accogliere la richiesta dell'Universita' di Catania di istituire il corso di laurea in chimica e tecnologia farmaceutiche, allo scopo di riequilibrare le iscrizioni presso gli omonimi corsi di laurea degli altri Atenei, al fine di assicurare una migliore formazione degli studenti, e quindi, la necessita' di accogliere la richiesta stessa in deroga al termine triennale di cui all'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Veduto il [decreto del Presidente della Repubblica 31 gennaio 1960, n. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;58);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-L'articolo 68, relativo al biennio di studi propedeutici per la laurea in ingegneria e' abrogato e sostituito dal seguente:  
-Art. 68. - E' titolo di ammissione il diploma di maturita' classica o scientifica.  
-Possono essere ammessi i diplomati dagli Istituti tecnici per geometri, agrari, industriali, nautici, alle condizioni stabilite dalla legge.  
-Sono insegnamenti fondamentali comuni a tutti i corsi di laurea in Ingegneria:  
-Primo anno:  
-1) Analisi matematica I;  
-2) Geometria I;  
-3) Fisica I;  
-4) Chimica;  
-5) Disegno.  
-Secondo anno:  
-1) Analisi matematica II;  
-2) Geometria II;  
-3) Meccanica razionale;  
-4) Fisica II.  
-In relazione ai diversi corsi di laurea si hanno inoltre i seguenti insegnamenti aggiuntivi per il secondo anno:  
-1) Ingegneria civile:  
-a) Disegno II (civile);  
-b) Tecnologia generale dei materiali;  
-2) Ingegneria meccanica:  
-a) Disegno II (macchine);  
-b) Tecnologia meccanica;  
-3) Ingegneria elettrotecnica:  
-a) Disegno II (macchine):  
-b) Tecnologia generale dei materiali:  
-4) Ingegneria chimica:  
-a) Chimica organica;  
-b) Disegno II (macchine);  
-5) Ingegneria navale e meccanica:  
-a) Disegno II (macchine):  
-b) Tecnologie generali dei materiali;  
-6) Ingegneria aeronautica:  
-a) Disegno II (macchine);  
-b) Tecnologie generali dei materiali;  
-7) Ingegneria mineraria:  
-a) Disegno II (macchine);  
-8) Ingegneria elettronica:  
-a) Disegno II (macchine);  
-b) Tecnologie generali dei materiali;  
-9) Ingegneria nucleare:  
-a) Disegno II (macchine);  
-b) Tecnologie generali dei materiali.  
-I due esami di Fisica comprendono anche la parte riguardante le relative esercitazioni.  
-Gli studenti del primo anno di corso potranno ottenere la iscrizione al secondo anno di corso qualora abbiano superato almeno due fra i quattro seguenti esami: Analisi matematica I; Geometria I, Fisica I, Chimica.  
-Al termine del secondo anno di corso lo studente per essere ammesso al terzo anno di corso presso una qualunque Facolta' di Ingegneria o Politecnico dovra' aver superato tutti gli esami fondamentali comuni ai vari indirizzi.  
+L'art. 80, relativo alla laurea che conferisce la facolta' di farmacia, e' soppresso e cosi' sostituito:  
+Art. 80. - La facolta' di farmacia conferisce la laurea in:  
+a) farmacia;  
+b) chimica e tecnologia farmaceutiche.  
+Dopo l'art. 87, con il conseguente scorrimento della numerazione degli articoli successivi, e' inserito il seguente articolo, relativo all'ordinamento degli studi del corso di laurea in chimica e tecnologia farmaceutiche:  
+Art. 88. - La durata del corso degli studi per la laurea in chimica e tecnologia farmaceutiche e' di cinque anni divisi in un biennio ed in un triennio.  
+I titoli di ammissione sono quelli previsti dalle vigenti disposizioni di legge.  
+Sono insegnamenti fondamentali:  
+Biennio:  
+1) analisi chimico-farmaceutica I (analisi qualitativa);  
+\* 2) anatomia umana;  
+\* 3) botanica farmaceutica;  
+\* 4) chimica fisica;  
+5) chimica generale ed inorganica;  
+\*\*6) chimica organica I;  
+7) fisica;  
+8) fisiologia generale;  
+\* 9) istituzioni di matematiche;  
+10) microbiologia e igiene.  
+Triennio:  
+11) analisi chimico-farmaceutica II (analisi quantitativa);  
+12) analisi chimico-farmaceutica III (analisi dei medicamenti);  
+13) biochimica applicata;  
+14) chimica biologica;  
+15) chimica degli alimenti;  
+\* 16) chimica farmaceutica applicata;  
+\* 17) chimica farmaceutica e tossicologica I;  
+\* 18) chimica farmaceutica e tossicologica II;  
+\*\*19) chimica organica II;  
+\* 20) farmacologia e farmacognosia;  
+21) impianti dell'industria farmaceutica;  
+22) laboratorio di preparazione estrattiva e sintetica dei farmaci;  
+23) metodi fisici in chimica organica;  
+24) saggi e dosaggi farmacologici;  
+\* 25) tecnica e legislazione farmaceutica.  
+Sono insegnamenti complementari:  
+\* chimica tossicologica;  
+chimica delle fermentazioni e microbiologia industriale;  
+chimica dei prodotti cosmetici;  
+chimica dei prodotti dietetici;  
+chimica analitica;  
+impianti per laboratori galenici.  
+Le materie segnate con un asterisco sono comuni alla laurea in farmacia, quelle con due asterischi sono comuni alla laurea in chimica.  
+Per sostenere gli esami del triennio lo studente deve aver superato tutti gli esami degli insegnamenti fissati per i due anni precedenti.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato tutti gli esami dei corsi fondamentali e almeno due esami a scelta fra i corsi complementari.  
+La prova di laurea comporta la discussione di una tesi sperimentale.  
+Per essere ammesso a sostenere l'esame di Stato per l'esercizio della professione di farmacista, il laureato in chimica e tecnologia farmaceutiche deve aver compiuto un semestre di pratica professionale preso una farmacia oppure un trimestre presso una industria farmaceutica ed un trimestre presso una farmacia.  
+Il periodo di pratica professionale dovra' avere inizio dopo il conseguimento del titolo accademico.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1961
+### Dato a Roma, addi' 29 agosto 1986
 
-GRONCHI BOSCO
+COSSIGA
 
-Visto, il Guardasigilli: GONELLA
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 10 gennaio 1962
+Visto, il Guardasigilli: ROGNONI
 
-Atti del Governo, registro n. 143, foglio n. 26. - VILLA
+Registrato alla Corte dei conti, addi' 20 gennaio 1987
+
+Registro n. 2 Istruzione, foglio n. 65

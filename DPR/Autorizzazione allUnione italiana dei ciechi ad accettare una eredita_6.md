@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1964 n. 1044
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 dicembre 1951 n. 1742
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1964 n. 1044
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 dicembre 1951 n. 1742
+================================================================
 
 Autorizzazione all'Unione italiana dei ciechi ad accettare una eredita'.
 ------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1044. Decreto del Presidente della Repubblica 14 agosto 1964, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi viene autorizzata ad accettare, col beneficio d'inventario, la quota di eredita' disposta dalla defunta signora Anna Gaerber vedova Pritzi, con testamento olografo del 26 giugno 1958 e le relative due aggiunte del 25 aprile 1960 e del 7 luglio 1961, pubblicati per atto a rogito dott. Pietro Longi in data 29 luglio 1961, n. 35659 di rep. e al n. 8055 di raccolta.  
+1742. Decreto del Presidente della Repubblica 26 dicembre 1951, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi viene autorizzata ad accettare col beneficio d'inventario una eredita', disposta in favore della Sezione toscana dell'Unione stessa dal sig. Costa Agostino, con testamento olografo del 20 dicembre 1948 e codicillo del 10 settembre 1950.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 12 ottobre 1964  
-Atti del Governo, registro n. 187, foglio n. 109. - VILLA
+Visto, il Guardasigilli: ZOLI  
+Registrato alla Corte dei conti, addi' 19 febbraio 1952  
+Atti del Governo, registro n. 50, foglio n. 38. - FRASCA

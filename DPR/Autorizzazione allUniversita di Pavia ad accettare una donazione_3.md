@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 luglio 1950 n. 645
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 gennaio 1954 n. 770
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 luglio 1950 n. 645
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 gennaio 1954 n. 770
+==============================================================
 
 Autorizzazione all'Universita' di Pavia ad accettare una donazione.
 -------------------------------------------------------------------
@@ -12,7 +12,8 @@ Art. 1
 
 N.
 
-645. Decreto del Presidente della Repubblica 4 luglio 1950, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Pavia viene autorizzata ad accettare la donazione della somma di L. 170.000, in titoli di Rendita 5%, e di L. 8500, in contanti, disposta in suo favore dal prof. Pietro Vaccari, anche a nome dei familiari, colleghi ed amici, con atto pubblico amministrativo in data 11 gennaio 1950, per l'istituzione di un premio di studio da intitolarsi al nome del "dott. Enrico Vaccari" e da conferirsi, ogni triennio, ad uno studioso italiano per un lavoro pubblicato nel campo della fitogeografia, che riguardi l'Italia.  
+770. Decreto del Presidente della Repubblica 26 gennaio 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Pavia viene autorizzata ad accettare la donazione di L. 200.000 nominali, in titoli di Stato, buoni del Tesoro 5% 1959, da convertirsi in certificati nominativi intestati all'Universita' medesima, con annotazione di vincolo a favore del premio di studio "Dott. Giampiero Veratti" disposta in suo favore dal prof. Emilio Veratti, con atto pubblico amministrativo 25 giugno 1953, allo scopo di incrementare il capitale del gia' costituito premio di studio intitolato "Dott. Giampiero Veratti".  
   
-Visto, il Guardasigilli: PICCIONI  
-Registrato alla Corte dei conti, addi' 8 agosto 1950
+Visto, il Guardasigilli: DE PIETRO  
+Registrato alla Corte dei conti, addi' 26 agosto 1954  
+Atti del Governo, registro n. 85, foglio n. 88. - CARLOMAGNO

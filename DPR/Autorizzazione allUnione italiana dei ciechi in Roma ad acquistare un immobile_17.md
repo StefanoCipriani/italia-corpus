@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1985 n. 575
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 aprile 1976 n. 466
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1985 n. 575
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 aprile 1976 n. 466
 =============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad acquistare un immobile.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-575. Decreto del Presidente della Repubblica 16 luglio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad acquistare dai fratelli Romagnoli Giulia, Alfonso, Margherita e Mario, al convenuto prezzo di L. 63.000.000, ritenuto congruo dall'ufficio tecnico erariale di Piacenza, un immobile sito in detta citta', via Mazzini n. 51, distinto al nuovo catasto edilizio urbano alla partita 2970, foglio 15, mappale 65 sub 2, da destinare a sede sociale.  
+466. Decreto del Presidente della Repubblica 30 aprile 1976, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad acquistare dai coniugi Lerino Nicola e Garo Giuseppa, al convenuto prezzo di L. 10.700.000, un appartamento sito in Reggio Calabria, via Torrione n. 2/N, angolo via Don Minzoni, di vani sei, identificato dalla particella 71 sub. 13 del foglio 122 del nuovo catasto edilizio urbano, da destinare a sede della locale sezione.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 11 ottobre 1985  
-Registro n. 9 Presidenza, foglio n. 75
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 30 giugno 1976  
+Atti di Governo, registro n. 7, foglio n. 33

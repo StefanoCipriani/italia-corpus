@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1984 n. 1005
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1982 n. 219
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1984 n. 1005
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1982 n. 219
 ===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
@@ -12,18 +12,9 @@ Art. 1
 
 N.
 
-1005. Decreto del Presidente della Repubblica 22 ottobre 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la   
-fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene   
-autorizzata ad accettare il legato, consistente nella quota di 1/5 del 50% del valore di un appartamento sito in Milano, via Aselli n.   
-26, censito nel nuovo catasto edilizio urbano alla partita n.   
-33049, foglio n. 319, mappale n. 170 sub 11, e di beni mobili il   
-tutto, detratte le passivita', pari a L. 12.666.664, disposto dalla   
-sig.ra Giulia Vaccari ved. Morassutti con testamento pubblico 31   
-giugno 1968, redatto dal notaio dott. Domenico Moretti e dallo   
-stesso pubblicato in data 17 luglio 1981, n. 14396/26267 di   
-repertorio e registrato a Milano in data 29 luglio 1981 al n.   
-20924.   
+219. Decreto del Presidente della Repubblica 8 febbraio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato di L. 5.000.000 disposto dalla sig.ra Quarti Amelia ved. Sfondrini con testamento pubblico 20 novembre 1975 a rogito dott. Albertario Francesco, notaio in Casorate Primo (Pavia), pubblicato in data 20 febbraio 1976, n. 12779/5485 di repertorio, a rogito dello stesso notaio, registrato a Pavia in data 9 marzo 1976 al n. 485.   
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 25 gennaio 1985   
-Registro n. 1 Presidenza, foglio n. 181
+  
+Visto, il Guardasigilli: DARIDA   
+Registrato alla Corte dei conti, addi' 23 aprile 1982   
+Registro n. 9 Presidenza, foglio n. 323

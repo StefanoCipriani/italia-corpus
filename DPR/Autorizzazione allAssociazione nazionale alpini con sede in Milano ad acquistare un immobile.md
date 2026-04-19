@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 gennaio 1971 n. 12
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 luglio 1968 n. 905
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 gennaio 1971 n. 12
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 luglio 1968 n. 905
 =============================================================
 
 Autorizzazione all'Associazione nazionale alpini, con sede in Milano, ad acquistare un immobile.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-12. Decreto del Presidente della Repubblica 9 gennaio 1971, col quale, sulla proposta del Ministro per la difesa, l'Associazione nazionale alpini, con sede in Milano, viene autorizzata ad acquistare, per adibirlo a sede della redazione del periodico sociale L'Alpino", dai signori Terragni Antonietta ved. Mariani e Mariani Luigia, Giuseppe e Maria, al prezzo di lire venti milioni, l'appartamento situato al primo piano, (secondo fuori terra) del fabbricato che sorge in Milano, via Marsala n. 9, composto di tre vani oltre doppi servizi e disimpegni (con annesso un vano cantina nel sotterraneo) e contraddistinto, nel cessato catasto fabbricati di Milano, sezione citta', con il mappale 78, sub. 11.  
+905. Decreto del Presidente della Repubblica 3 luglio 1968, col quale, sulla proposta del Ministro per la difesa, l'Associazione nazionale alpini, con sede in Milano, viene autorizzata ad acquistare, per la sede della dipendente sezione di Ivrea, dal geometra Giovanni Bennati, al prezzo di L. 3.900.000, l'appartamento situato al piano terreno del fabbricato di nuova costruzione che sorge in detta citta', in via da intestare all'on.le Alcide De Gasperi (su terreno contraddistinto nella vigente mappa dei terreni di Ivrea alla partita n. 9002/10383, foglio XXIII, n. 62), composto di due vani e servizi, della superficie effettiva di mq. 65, e l'annessa cantina, posta nel piano interrato del fabbricato stesso.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 15 febbraio 1971  
-Atti del Governo, registro n. 240, foglio n. 184. - GRECO
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 17 agosto 1968  
+Atti del Governo, registro n. 222, foglio n. 73. - DI PRETORO

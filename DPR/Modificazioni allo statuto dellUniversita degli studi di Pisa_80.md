@@ -1,149 +1,83 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 967
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 961
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 967
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 961
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pisa e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali, a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
+Veduto lo statuto dell'Universita' di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pisa e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
-Gli articoli 302, 303 e 304, relativi alla scuola di specializzazione in ematologia, che muta la denominazione in quella di "ematologia generale" (clinica e laboratorio), sono sostituiti dai seguenti con lo spostamento della numerazione degli articoli successivi.   
+Decreta:   
   
-Scuola di specializzazione in ematologia generale (Clinica e laboratorio)   
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Gli articoli da 202 a 211, relativi alla scuola di perfezionamento in fisica delle particelle elementari e struttura della materia, che muta denominazione in "scuola di perfezionamento in fisica" sono abrogati e sostituiti dai seguenti:   
   
-Art. 302. - La scuola di specializzazione in ematologia generale (clinica e laboratorio) conferisce il diploma di specialista in ematologia generale (clinica e laboratorio).   
-Art. 303. - La scuola ha sede presso l'istituto designato dal consiglio di facolta' di medicina e chirurgia.   
-Art. 304. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.   
-Art. 305. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalle autorita' competenti.   
-Art. 306. - La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazioni.   
-Art. 307. - Il numero massimo degli allievi e' di cinque per anno di corso e complessivamente di quindici iscritti per l'intero corso di studi.   
-Art. 308. - L'ammissione al corso avviene per titoli ed esami.   
-Art. 309. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-morfologia e morfogenesi normale e patologica del sangue (1° anno);   
-genetica ematologica;   
-fisiopatologia ematologica (1° anno);   
-biochimica ematologica;   
-fisiopatologia del plasma;   
-tecniche di laboratorio inerenti all'ematologia (1° anno);   
-fisiopatologia della coagulazione e dell'emostasi.   
-2° Anno:   
-morfologia e morfogenesi normale e patologica del sangue (2° anno);   
-fisiopatologia ematologica (2° anno);   
-immunoematologia;   
-tecniche di laboratorio inerenti all'ematologia (2° anno);   
-patologia speciale ematologica (1° anno);   
-clinica delle emopatie (1° anno);   
-anatomia e istologia patologica delle emopatie e fondamenti di oncologia.   
-3° Anno:   
-tecniche di laboratorio inerenti all'ematologia (3° anno);   
-nozioni di radiobiologia e di medicina nucleare applicata all'ematologia;   
-radiodiagnostica e radioterapia ematologica;   
-patologia speciale ematologica (2° anno);   
-clinica delle emopatie (2° anno);   
-terapia sistematica ematologica;   
-terapia trasfusionale.   
-Art. 310. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esami.   
-Art. 311. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.   
-Al termine del corso di studi per il conseguimento del diploma di specialista in ematologia generale (clinica e laboratorio) gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta su un argomento attinente alla specializzazione.   
-Art. 312. - Le tasse e soprattasse sono le seguenti:   
-tassa di immatricolazione. . . . . . . . . . . . . . . . . . L. 5.000 tassa di iscrizione . . . . . . . . . . . . . . . . . . . . L. 18.000 soprattassa esami profitto . . . . . . . . . . . . . . . . . L. 7.000 soprattassa esame di diploma . . . . . . . . . . . . . . . . L. 6.000   
-
-Art. 2
-------
-
+Scuola di perfezionamento in fisica   
   
-  
-Dopo l'art. 411, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi alla istituzione della scuola di specializzazione in medicina dello sport.   
-  
-Scuola di specializzazione in medicina dello sport   
-  
-Art. 412. - La scuola di specializzazione in medicina dello sport dell'Universita' degli studi di Pisa si propone di:   
-a) valorizzare e approfondire gli studi biologici e di medicina applicata nel campo delle attivita' sportive, formative e di competizione, e della educazione fisica;   
-b) preparare adeguatamente sotto l'aspetto teorico e della applicazione pratica, i medici che intendono dedicarsi alle attivita' attinenti a questa particolare branca della medicina applicata, conferendo ad essi il diploma di "specialista in medicina dello sport".   
-Art. 413. - Il titolo richiesto per l'ammissione alla scuola e' la laurea in medicina e chirurgia. E' richiesto almeno all'inizio del corso il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-Il corso di studi ha la durata di 3 anni, con frequenza obbligatoria; esso ha la sua sede presso l'istituto di fisiologia del lavoro e dello sport. Gli insegnamenti clinici e specialistici si svolgeranno presso i rispettivi istituti clinici e specialistici.   
-Il numero massimo degli allievi sara' di quindici per anno e complessivamente di quarantacinque per l'intero corso.   
-L'ammissione ai corsi avviene per titoli. Nel caso di domande eccedenti il numero di posti disponibili la selezione dei candidati avverra' in base ai risultati di un esame di ammissione.   
-Non sono previste abbreviazioni di corso.   
-La scuola e' retta da un consiglio direttivo composto dal direttore dell'istituto di fisiologia del lavoro e dello sport, da un professore di ruolo di clinica ortopedica e da un professore di ruolo di medicina interna.   
-La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.   
-Art. 414. - L'ordine degli studi e' il seguente:   
-1° Anno:   
-anatomia dell'apparato locomotore;   
-fisiologia dell'apparato locomotore;   
-biochimica ed energetica muscolare;   
-antropometria e auxologia;   
-psicologia applicata allo sport;   
-storia dell'educazione fisica e dello sport;   
-sistematica delle attivita' sportivo-agonistiche e regolamenti sportivi.   
-2° Anno:   
-fisiologia dell'esercizio fisico;   
-biomeccanica dell'esercizio fisico;   
-metodologia dell'allenamento sportivo;   
-scienza della nutrizione applicata alla attivita' sportiva;   
-fisiopatologia degli sports e semeiotica medico-sportiva I;   
-farmacologia e tossicologia del doping;   
-igiene e medicina preventiva applicata all'attivita' sportiva; traumatologia degli sports.   
-3° Anno:   
-fisiologia applicata agli sports;   
-valutazione funzionale dello sportivo;   
-fisiopatologia degli sports e semeiotica medico-sportiva II;   
-fisioterapia e rieducazione funzionale;   
-rianimazione e pronto soccorso;   
-medicina legale ed infortunistica legata agli sports;   
-fisiologia dell'adattamento agli ambienti straordinari.   
-La scuola svolgera' brevi corsi integrativi di conferenze e seminari sopra argomenti e discipline che saranno stabiliti secondo le possibilita' contingenti, dal consiglio dei docenti della scuola.  
-Saranno inoltre svolte esercitazioni pratiche in sede e sul campo.   
-Art. 415. - Alla fine di ogni anno di corso gli allievi dovranno sostenere l'esame di profitto nelle materie di insegnamento previste per ogni anno di corso e articolate in un unico gruppo.   
-L'iscrizione agli anni successivi e' subordinata al superamento di tutti gli esami annuali.   
-Art. 416. - Il diploma si consegue dopo aver superato tutte le prove di esame del triennio; la prova di diploma si svolge con la discussione su una dissertazione scritta concernente un tema assegnato o in ogni altro caso approvato dal direttore della scuola.   
+Art. 202. - La scuola di perfezionamento in fisica, istituita presso la facolta' di scienze matematiche, fisiche e naturali, ha fine scientifico e rilascia il diploma di perfezionamento in fisica.  
+La durata e' di due anni. Non sono consentite abbreviazioni di corso.   
+Art. 203. - La scuola e' retta da un direttore assistito da un consiglio; il direttore della scuola e' nominato dal rettore su designazione del consiglio della facolta' di scienze matematiche, fisiche e naturali.   
+Il direttore dura in carica un biennio ed e' confermabile.   
+Il consiglio della scuola e' costituito da tutti gli insegnanti i cui insegnamenti fanno parte della medesima ed e' presieduta dal direttore. Gli insegnanti della scuola sono proposti dal direttore che puo' sceglierli tra i professori di ruolo, tra i liberi docenti, tra gli assistenti o anche tra persone di riconosciuta competenza sella specialita'; le nomine sono subordinate all'approvazione del consiglio della facolta'.   
+All'inizio di ogni anno accademico il direttore, sentito il parere del consiglio, propone al consiglio della facolta' gli insegnamenti, scelti tra quelli elencati nell'art. 208, da attivare nel corso dello stesso anno accademico.   
+Art. 204. - Alla scuola di perfezionamento in fisica, vengono ammessi i laureati in fisica.   
+Possono altresi' essere ammessi i laureati in altre materie della facolta' di scienze matematiche, fisiche e naturali e ingegneria dietro parere favorevole del consiglio.   
+E' data facolta' al direttore di stabilire prima dello inizio di ogni anno accademico un numero massimo di iscrizioni oltre al quale non potranno essere accolte le domande eccedenti. Quando gli iscritti siano in numero molto limitato gli insegnamenti possono non avere il carattere cattedratico e essere svolti in quella diversa forma che e' consentita dall'indole di ciascuna disciplina.   
+Art. 205. - Il piano di studi di ogni iscritto e' stabilito dal direttore della scuola e ratificato dal consiglio, che si riunisce allo scopo almeno due volte l'anno.   
+Tale piano di studi comprende sei insegnamenti di quelli elencati nel seguente art. 208, divisi in due gruppi, l'uno relativo al primo anno e l'altro al secondo. Il piano di studi sara' cambiato, durante il suo svolgimento, qualora uno degli insegnamenti stabiliti nel piano non possa essere attivato.   
+Art. 206. - La commissione per l'esame di diploma e' formata da cinque membri nominati dal preside della facolta' di scienze su proposta del direttore della scuola. L'esame consistera' in una discussione su una dissertazione scritta contenente risultati originali ottenuti dal candidato. Il voto di diploma sara' assegnato sulla base dell'esito dell'esame e tenendo conto dei voti ottenuti nei vari corsi previsti nei piani di studio dei candidati.   
+Art. 207. - I candidati non riconosciuti idonei potranno presentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola.   
+Nel caso che anche alla seconda prova di esame di diploma essi non siano riconosciuti idonei, saranno senz'altro esclusi da ogni ulteriore prova.   
+Art. 208. - Gli insegnamenti impartiti dalla scuola sono:   
+1) complementi di meccanica quantistica;   
+2) complementi di elettromagnetismo;   
+3) complementi di struttura della materia;   
+4) complementi di fisica nucleare;   
+5) complementi di astrofisica;   
+6) meccanica statistica;   
+7) particelle elementari;   
+8) teoria dei campi;   
+9) elettrodinamica quantistica;   
+10) ottica quantistica;   
+11) spettroscopia a radiofrequenza;   
+12) spettroscopia dei solidi;   
+13) macchine acceleratrici;   
+14) tecniche sperimentali delle alte energie;   
+15) proprieta' dielettriche e magnetiche dei solidi;   
+16) corso monografico;   
+17) corso monografico.   
+Gli insegnamenti possono essere impartiti mediante gruppi di lezioni o corsi semestrali. Il corso semestrale comprende non meno di venticinque lezioni. Esso puo' essere istituito nel caso se ne ravvisi l'opportunita' in rapporto al programma della scuola, stabilito dal direttore, sentito il parere del consiglio.   
+Il corso viene proposto dalla facolta' su indicazione del direttore ed approvato dal rettore entro il mese di giugno.   
+Art. 209. - Ogni iscritto alla scuola di perfezionamento deve frequentare i corsi e superare gli esami dei piani di studi di cui all'art. 205.   
+Art. 210. - Gli iscritti alla scuola di perfezionamento sono tenuti a pagare le tasse e soprattasse previste per gli studenti in corso delle singole facolta' e determinate dalla [legge 18 dicembre 1951, n.   
+1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551). L'ammontare dei contributi viene stabilito dal consiglio di amministrazione su proposta del senato accademico, udito il parere della facolta' e della scuola.   
+Art. 211. - Presso la scuola di perfezionamento in fisica e' istituito, a completamento degli insegnamenti, un seminario di fisica con periodiche conferenze tenute da esperti invitati dal direttore della scuola.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1981
+### Dato a Roma, addi' 31 ottobre 1978
 
-PERTINI BODRATO
+PERTINI PEDINI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 9 febbraio 1982
+Registrato alla Corte dei conti, addi' 30 gennaio 1979
 
-Registro n. 20 Istruzione, foglio n. 200
+Registro n. 4 Istruzione, foglio n. 15

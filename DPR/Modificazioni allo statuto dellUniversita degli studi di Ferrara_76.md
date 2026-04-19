@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1976 n. 915
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1955 n. 778
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1976 n. 915
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1955 n. 778
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 -------------------------------------------------------------------
@@ -10,17 +10,19 @@ Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [regio decreto 12 ottobre 1927, n. 2255](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-12;2255) e modificato con i [regi decreti 15 novembre 1928, n. 2606](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1928-11-15;2606); [31 ottobre 1929, n. 2400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1929-10-31;2400); [1 ottobre 1931, n. 1372](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1931-10-01;1372); [27 ottobre 1932, n. 2062](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1932-10-27;2062); [27 dicembre 1934, n. 2448](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-27;2448); [27 ottobre 1936, n. 2457](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-27;2457); [27 marzo 1939, numero 1296](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-03-27;1296); [9 maggio 1939, n. 1469](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-05-09;1469): [26 ottobre 1910, n. 2065](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1910-10-26;2065); [27 aprile 1942, n. 470](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-04-27;470); [5 settembre 1942, numero 1266, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-09-05;1266) [30 ottobre 1949, n. 1028](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1028); [18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964); [25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207); [10 febbraio 1953, n. 377](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;377), e [8 febbraio 1954, n. 402](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-02-08;402);
 
-Udito il testo unico della legge sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -30,203 +32,164 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-L'art. 115, relativo alla scuola di specializzazione in anestesiologia e rianimazione, e' modificato nel senso che il primo e il secondo comma sono abrogati e sostituiti dai seguenti:
+Art. 19. - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti quelli di:
 
-La scuola di specializzazione in anestesiologia e rianimazione ha sede presso l'istituto di anestesiologia e rianimazione, ed ha la durata di tre anni.
+9) Diritto privato comparato;
 
-Direttore della scuola e' il direttore dell'istituto di anestesia e rianimazione.
+10) Diritto pubblico comparato;
 
-Dopo l'art. 163, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in audiologia e in puericultura annesse alla facolta' di medicina e chirurgia.
+11) Storia delle dottrine e delle istituzioni politiche;
 
-Scuola di specializzazione in audiologia
+12) Ordinamento delle comunita' europee.
 
-Art. 164. - La scuola di specializzazione in audiologia ha sede presso l'istituto di clinica otorinolaringoiatrica dell'Universita' di Ferrara. Essa e' diretta da titolare di una delle cattedre afferenti all'istituto policattedra di clinica otorinolaringoiatrica dell'Universita' con designazione da parte del consiglio di facolta'.
+Dopo l'art. 23 sono aggiunti i seguenti nuovi articoli, relativi alla creazione di alcuni Istituti presso la Facolta' di giurisprudenza, con il conseguente spostamento della numerazione degli articoli successivi.
 
-La scuola e' retta secondo le norme del regolamento generale delle scuole di specializzazione dell'Universita' di Ferrara.
+Art. 24. - Appartengono alla Facolta' gli istituti e i Seminari seguenti:
 
-((Art. 165. - La durata del corso e' di tre anni. L'indirizzo e' teorico-pratico.
+Istituto di diritto privato, comprendente i Seminari di diritto civile, diritto commerciale, diritto agrario;
 
-Il numero massimo complessivo di iscritti e' di dodici.))
+Istituto di diritto pubblico, comprendente i Seminari di diritto costituzionale, diritto amministrativo, diritto processuale civile e penale, diritto penale, diritto ecclesiastico, diritto internazionale e diritto del lavoro;
 
-Art. 166. - L'ammissione al corso e' per titoli e per esami, titolo necessario per l'ammissione al corso e' la laurea in medicina e chirurgia.
+Istituto di storia e filosofia del diritto, comprendente i Seminari di filosofia del diritto, storia del diritto italiano, storia del diritto romano, diritto romano e diritto comparato;
 
-Nessuna abbreviazione di corso puo' essere ammessa.
+Istituto di scienze economiche e statistiche, comprendente i Seminari di economia politica e statistica;
 
-Art. 167. - Alla fine di ciascun anno scolastico gli specializzandi dovranno sostenere un esame di profitto il cui superamento e' condizione necessaria per l'iscrizione nell'anno successivo e, per quelli che sono iscritti all'ultimo anno, per poter accedere all'esame di diploma.
+Istituto di finanza pubblica, comprendente i Seminari di scienza delle finanze e diritto finanziario.
 
-Alla fine del terzo anno di corso ha luogo l'esame di diploma, consistente nella preparazione e discussione di una dissertazione scritta su di un argomento di audiologia, previamente concordato tra il diplomando ed il direttore della scuola.
+Art. 25. - Gli Istituti ed i Seminari hanno per scopo l'addestramento dei giovani alle ricerche scientifiche ed il loro avviamento allo studio delle fonti e della letteratura delle varie discipline giuridiche ed economiche. I loro lavori consistono in esercitazioni, ricerche e dissertazioni.
 
-Art. 168. - Gli insegnamenti impartiti nella scuola sono i seguenti:
+Art. 26. - I direttori degli Istituti sono nominati con le norme stabilite dall'art. 23 del regolamento generale universitario e dai regolamenti particolari che li riguardano e durano in carica tre anni.
 
-1° Anno:
+Il direttore e' assistito da un Consiglio direttivo composto dai professori di ruolo che impartiscono gli insegnamenti delle materie nell'ambito dell'Istituto.
 
-nozioni di fisica acustica;
+Art. 27. - Sono ammessi a frequentare i singoli Istituti e Seminari gli studenti della Facolta', nonche' gli studenti di altre Facolta', ed i laureati che, in base a regolare domanda, ne ottengano l'autorizzazione del direttore.
 
-anatomia dell'orecchio, delle vie e dei centri acustici e vestibolari;
+Art. 28. - Gli Istituti di diritto privato, di diritto pubblico e di storia della filosofia del diritto, hanno Una biblioteca comune e del pari una biblioteca comune hanno gli Istituti di scienze economiche e statistiche e di finanza pubblica.
 
-fisiologia dell'orecchio, delle vie e dei centri acustici e vestibolari;
+Uno dei direttori degli Istituti giuridici sara' incaricato di anno in anno dal Consiglio di Facolta' a sovraintendere alla biblioteca comune e a coordinare il funzionamento degli Istituti stessi; del pari uno dei direttori dei due Istituti economico-finanziario, sara' incaricato di anno in anno dal Consiglio di Facolta' a sovraintendere alla biblioteca comune e a coordinare il funzionamento degli Istituti medesimi.
 
-nozioni di psichiatria.
+Art. 30. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti quelli di:
 
-2° Anno:
+6) Puericoltura
 
-tecniche audiometriche;
+7) Medicina del lavoro;
 
-nozioni di neurologia;
+8) Tisiologia;
 
-nozioni di vestibologia.
+9) Idrologia medica;
 
-3° Anno:
+10) Clinica ortopedica;
 
-patologia dell'udito;
+11) Urologia.
 
-terapia medica, chirurgica e protesica della sordita';
+Art. 34. - Agli insegnamenti complementari del corso di laurea in scienze matematiche sono aggiunti quelli di:
 
-la sordita' sotto il profilo sociale;
+5) Topologia;
 
-la rieducazione dell'ipoacusico.
+6) Teoria delle funzioni.
 
-Per tasse, soprattasse e contributi si fa riferimento alle norme statutarie in vigore.
+Art. 39. - Agli insegnamenti complementari del corso di laurea in matematica e fisica sono aggiunti quelli di:
 
-Scuola di specializzazione in puericultura
+7) Calcolo delle probabilita';
 
-Art. 169. - La scuola di specializzazione in puericultura ha sede presso l'istituto di puericultura e medicina neonatale dell'Universita' di Ferrara ed e' diretta dal professore di ruolo della cattedra stessa.
+8) Fisica terrestre;
 
-Art. 170. - La durata del corso e' di tre anni. Gli iscritti hanno l'obbligo di internato con le modalita' e l'orario che saranno stabiliti dal consiglio della scuola.
+9) Geodesia
 
-Art. 171. - Il numero massimo degli iscritti e' di quindici per i tre anni di corso.
+10) Astronomia.
 
-Art. 172. - L'ammissione al corso e' per titoli.
+Art. 52. - Agli insegnamenti complementari del corso di laurea in scienze naturali e' aggiunto quello di:
 
-Art. 173. - Le materie di insegnamento sono le seguenti:
+9) Geografia fisica.
 
-1° Anno:
+Art. 57. - Agli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti quelli di:
 
-1) peculiarita' anatomo-fisiologiche dell'eta' evolutiva;
+9) Scienza dell'alimentazione;
 
-2) elementi di genetica medica ed eugenetica;
-
-3) elementi di puericultura perinatale;
-
-4) auxologia;
-
-5) alimentazione e dietetica dell'eta' infantile;
-
-6) elementi di semeiotica infantile.
-
-2° Anno:
-
-1) psicologia dell'igiene mentale nell'eta' evolutiva;
-
-2) igiene ed assistenza nell'eta' evolutiva;
-
-3) profilassi delle malattie infettive nell'infanzia;
-
-4) elementi di medicina scolastica;
-
-5) legislazione ed assistenza sociale nell'infanzia.
-
-3° Anno:
-
-tirocinio pratico presso l'istituto dove la scuola ha sede od altre istituzioni od enti che abbiano, a giudizio del consiglio della scuola, caratteristiche tali da assicurare lo svolgimento di un efficace tirocinio sotto l'aspetto eminentemente pratico.
+10) Entomologia agraria.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 28 ottobre 1976
+Dato a Roma, addi' 19 luglio 1955
 
-LEONE
+GRONCHI
 
-MALFATTI
+Rossi
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: MORO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 28 dicembre 1976 Registro n. 104 Istruzione, foglio n. 394
+alla Corte dei conti, addi' 29 agosto 1955 Atti del Governo, registro n. 92, foglio n. 118. - CARLOMAGNO
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;   
-Udito il testo unico della legge sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [regio decreto 12 ottobre 1927, n. 2255](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-12;2255) e modificato con i [regi decreti 15 novembre 1928, n. 2606](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1928-11-15;2606); [31 ottobre 1929, n. 2400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1929-10-31;2400); [1 ottobre 1931, n. 1372](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1931-10-01;1372); [27 ottobre 1932, n. 2062](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1932-10-27;2062); [27 dicembre 1934, n. 2448](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-27;2448); [27 ottobre 1936, n. 2457](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-27;2457); [27 marzo 1939, numero 1296](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-03-27;1296); [9 maggio 1939, n. 1469](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-05-09;1469): [26 ottobre 1910, n. 2065](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1910-10-26;2065); [27 aprile 1942, n. 470](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-04-27;470); [5 settembre 1942, numero 1266, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-09-05;1266) [30 ottobre 1949, n. 1028](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1028); [18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964); [25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207); [10 febbraio 1953, n. 377](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;377), e [8 febbraio 1954, n. 402](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-02-08;402);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-L'art. 115, relativo alla scuola di specializzazione in anestesiologia e rianimazione, e' modificato nel senso che il primo e il secondo comma sono abrogati e sostituiti dai seguenti:   
-  
-La scuola di specializzazione in anestesiologia e rianimazione ha sede presso l'istituto di anestesiologia e rianimazione, ed ha la durata di tre anni.   
-Direttore della scuola e' il direttore dell'istituto di anestesia e rianimazione.   
-Dopo l'art. 163, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in audiologia e in puericultura annesse alla facolta' di medicina e chirurgia.   
-Scuola di specializzazione in audiologia   
-Art. 164. - La scuola di specializzazione in audiologia ha sede presso l'istituto di clinica otorinolaringoiatrica dell'Universita' di Ferrara. Essa e' diretta da titolare di una delle cattedre afferenti all'istituto policattedra di clinica otorinolaringoiatrica dell'Universita' con designazione da parte del consiglio di facolta'.   
-La scuola e' retta secondo le norme del regolamento generale delle scuole di specializzazione dell'Universita' di Ferrara.   
-
-((Art. 165. - La durata del corso e' di tre anni. L'indirizzo e' teorico-pratico.   
-Il numero massimo complessivo di iscritti e' di dodici.))
-
-  
-Art. 166. - L'ammissione al corso e' per titoli e per esami, titolo necessario per l'ammissione al corso e' la laurea in medicina e chirurgia.   
-Nessuna abbreviazione di corso puo' essere ammessa.   
-Art. 167. - Alla fine di ciascun anno scolastico gli specializzandi dovranno sostenere un esame di profitto il cui superamento e' condizione necessaria per l'iscrizione nell'anno successivo e, per quelli che sono iscritti all'ultimo anno, per poter accedere all'esame di diploma.   
-Alla fine del terzo anno di corso ha luogo l'esame di diploma, consistente nella preparazione e discussione di una dissertazione scritta su di un argomento di audiologia, previamente concordato tra il diplomando ed il direttore della scuola.   
-Art. 168. - Gli insegnamenti impartiti nella scuola sono i seguenti:   
-1° Anno:   
-nozioni di fisica acustica;   
-anatomia dell'orecchio, delle vie e dei centri acustici e vestibolari;   
-fisiologia dell'orecchio, delle vie e dei centri acustici e vestibolari;   
-nozioni di psichiatria.   
-2° Anno:   
-tecniche audiometriche;   
-nozioni di neurologia;   
-nozioni di vestibologia.   
-3° Anno:   
-patologia dell'udito;   
-terapia medica, chirurgica e protesica della sordita';   
-la sordita' sotto il profilo sociale;   
-la rieducazione dell'ipoacusico.   
-Per tasse, soprattasse e contributi si fa riferimento alle norme statutarie in vigore.   
-Scuola di specializzazione in puericultura   
-Art. 169. - La scuola di specializzazione in puericultura ha sede presso l'istituto di puericultura e medicina neonatale dell'Universita' di Ferrara ed e' diretta dal professore di ruolo della cattedra stessa.   
-Art. 170. - La durata del corso e' di tre anni. Gli iscritti hanno l'obbligo di internato con le modalita' e l'orario che saranno stabiliti dal consiglio della scuola.   
-Art. 171. - Il numero massimo degli iscritti e' di quindici per i tre anni di corso.   
-Art. 172. - L'ammissione al corso e' per titoli.   
-Art. 173. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-1) peculiarita' anatomo-fisiologiche dell'eta' evolutiva;   
-2) elementi di genetica medica ed eugenetica;   
-3) elementi di puericultura perinatale;   
-4) auxologia;   
-5) alimentazione e dietetica dell'eta' infantile;   
-6) elementi di semeiotica infantile.   
-2° Anno:   
-1) psicologia dell'igiene mentale nell'eta' evolutiva;   
-2) igiene ed assistenza nell'eta' evolutiva;   
-3) profilassi delle malattie infettive nell'infanzia;   
-4) elementi di medicina scolastica;   
-5) legislazione ed assistenza sociale nell'infanzia.   
-3° Anno:   
-tirocinio pratico presso l'istituto dove la scuola ha sede od altre istituzioni od enti che abbiano, a giudizio del consiglio della scuola, caratteristiche tali da assicurare lo svolgimento di un efficace tirocinio sotto l'aspetto eminentemente pratico.   
+Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 19. - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti quelli di:  
+9) Diritto privato comparato;  
+10) Diritto pubblico comparato;  
+11) Storia delle dottrine e delle istituzioni politiche;  
+12) Ordinamento delle comunita' europee.  
+Dopo l'art. 23 sono aggiunti i seguenti nuovi articoli, relativi alla creazione di alcuni Istituti presso la Facolta' di giurisprudenza, con il conseguente spostamento della numerazione degli articoli successivi.  
+Art. 24. - Appartengono alla Facolta' gli istituti e i Seminari seguenti:  
+Istituto di diritto privato, comprendente i Seminari di diritto civile, diritto commerciale, diritto agrario;  
+Istituto di diritto pubblico, comprendente i Seminari di diritto costituzionale, diritto amministrativo, diritto processuale civile e penale, diritto penale, diritto ecclesiastico, diritto internazionale e diritto del lavoro;  
+Istituto di storia e filosofia del diritto, comprendente i Seminari di filosofia del diritto, storia del diritto italiano, storia del diritto romano, diritto romano e diritto comparato;  
+Istituto di scienze economiche e statistiche, comprendente i Seminari di economia politica e statistica;  
+Istituto di finanza pubblica, comprendente i Seminari di scienza delle finanze e diritto finanziario.  
+Art. 25. - Gli Istituti ed i Seminari hanno per scopo l'addestramento dei giovani alle ricerche scientifiche ed il loro avviamento allo studio delle fonti e della letteratura delle varie discipline giuridiche ed economiche. I loro lavori consistono in esercitazioni, ricerche e dissertazioni.  
+Art. 26. - I direttori degli Istituti sono nominati con le norme stabilite dall'art. 23 del regolamento generale universitario e dai regolamenti particolari che li riguardano e durano in carica tre anni.  
+Il direttore e' assistito da un Consiglio direttivo composto dai professori di ruolo che impartiscono gli insegnamenti delle materie nell'ambito dell'Istituto.  
+Art. 27. - Sono ammessi a frequentare i singoli Istituti e Seminari gli studenti della Facolta', nonche' gli studenti di altre Facolta', ed i laureati che, in base a regolare domanda, ne ottengano l'autorizzazione del direttore.  
+Art. 28. - Gli Istituti di diritto privato, di diritto pubblico e di storia della filosofia del diritto, hanno Una biblioteca comune e del pari una biblioteca comune hanno gli Istituti di scienze economiche e statistiche e di finanza pubblica.  
+Uno dei direttori degli Istituti giuridici sara' incaricato di anno in anno dal Consiglio di Facolta' a sovraintendere alla biblioteca comune e a coordinare il funzionamento degli Istituti stessi; del pari uno dei direttori dei due Istituti economico-finanziario, sara' incaricato di anno in anno dal Consiglio di Facolta' a sovraintendere alla biblioteca comune e a coordinare il funzionamento degli Istituti medesimi.  
+Art. 30. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti quelli di:  
+6) Puericoltura  
+7) Medicina del lavoro;  
+8) Tisiologia;  
+9) Idrologia medica;  
+10) Clinica ortopedica;  
+11) Urologia.  
+Art. 34. - Agli insegnamenti complementari del corso di laurea in scienze matematiche sono aggiunti quelli di:  
+5) Topologia;  
+6) Teoria delle funzioni.  
+Art. 39. - Agli insegnamenti complementari del corso di laurea in matematica e fisica sono aggiunti quelli di:  
+7) Calcolo delle probabilita';  
+8) Fisica terrestre;  
+9) Geodesia  
+10) Astronomia.  
+Art. 52. - Agli insegnamenti complementari del corso di laurea in scienze naturali e' aggiunto quello di:  
+9) Geografia fisica.  
+Art. 57. - Agli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti quelli di:  
+9) Scienza dell'alimentazione;  
+10) Entomologia agraria.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1976
+### Dato a Roma, addi' 19 luglio 1955
 
-LEONE MALFATTI
+GRONCHI Rossi
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: MORO
 
-Registrato alla Corte dei conti, addi' 28 dicembre 1976
+Registrato alla Corte dei conti, addi' 29 agosto 1955
 
-Registro n. 104 Istruzione, foglio n. 394
+Atti del Governo, registro n. 92, foglio n. 118. - CARLOMAGNO

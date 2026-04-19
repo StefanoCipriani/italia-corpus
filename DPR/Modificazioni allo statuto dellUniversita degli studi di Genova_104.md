@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 giugno 1968 n. 873
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1978 n. 455
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 giugno 1968 n. 873
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1978 n. 455
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
@@ -12,30 +12,39 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Visto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 74. - Al 5° anno del corso di laurea in ingegneria civile (sezione idraulica) l'insegnamento di "complementi di tecnica delle costruzioni" b) e' soppresso e sostituito da quello di "costruzioni di strade, ferrovie ed aeroporti" b).  
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' modificato come appresso:  
+Art. 63 - dopo l'elenco degli insegnamenti complementari e' inserito il seguente comma:  
+"Per gli insegnamenti pluriennali e' prescritto un esame alla fine di ciascun anno di corso".  
+Art. 64 - dopo l'elenco degli insegnamenti complementari e' inserito il seguente comma:  
+"Per gli insegnamenti pluriennali e' prescritto un esame alla fine di ciascun anno di corso".  
+Art. 65 - dopo l'elenco degli insegnamenti complementari e' inserito il seguente comma:  
+"Per gli insegnamenti pluriennali e' prescritto un esame alla fine di ciascun anno di corso".  
+Art. 66 - dopo l'elenco degli insegnamenti complementari e' inserito il seguente comma:  
+"Per gli insegnamenti pluriennali e' prescritto un esame alla fine di ciascun anno di corso".  
+Art. 81 - il testo del secondo comma dell'art. 81 e' soppresso e sostituito con il seguente:  
+"Gli insegnamenti biennali di istituzioni di matematiche, chimica generale ed inorganica, chimica organica, chimica industriale, impianti industriali chimici con elementi di disegno, chimica fisica, esercitazioni di chimica fisica, zoologia, botanica, fisiologia generale, nonche' l'insegnamento di fisica sperimentale per gli studenti di chimica e di chimica industriale, comportano un esame alla fine di ciascun anno di corso".  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 17 giugno 1968
+### Dato a Roma, addi' 19 giugno 1978
 
-SARAGAT GUI
+p. Il Presidente della Repubblica Il Presidente del Senato FANFANI PEDINI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 27 luglio 1968
+Registrato alla Corte dei conti, addi' 25 luglio 1978
 
-Atti del Governo, registro n. 222, foglio n. 36. - GRECO
+Registro n. 83 Istruzione, foglio n. 147

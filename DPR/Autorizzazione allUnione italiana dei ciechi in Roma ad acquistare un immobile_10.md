@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 febbraio 1975 n. 55
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 marzo 1982 n. 229
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 febbraio 1975 n. 55
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 marzo 1982 n. 229
+============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad acquistare un immobile.
 ----------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-55. Decreto del Presidente della Repubblica 1 febbraio 1975, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad acquistare dall'Ente autonomo Tirrenia, in Pisa, al convenuto prezzo di L. 12.012.000, un appezzamento di terreno della superficie di mq 8008, sito in Tirrenia, comune di Pisa, in via delle Agavi, localita' Calambrone, distinto nel catasto terreni del comune di Pisa nel foglio di mappa 104, porzione lettera B del mappale 75, da destinare alla costruzione di una casa-albergo per ciechi.  
+229. Decreto del Presidente della Repubblica 12 marzo 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad acquistare, al prezzo di L. 60.000.000 ritenuto congruo dall'ufficio tecnico erariale di Torino, un appartamento di mq. 310 circa, sito in Torino, via M. Gioia 49, censito al nuovo catasto edilizio urbano alla partita 175159, foglio 194 particella 18 sub 14, di proprieta' della sig.ra Anna Maria Glavinaz in Vassoney, come da atto di compravendita in data 21 dicembre 1967, n. 30509/14565 di repertorio, a rogito dott. Giovanni Re, notaio in Torino, registrato a Torino in data 9 gennaio 1968 al n. 1401, da destinare a pensionato per giovani lavoratori ciechi.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 21 marzo 1975  
-Atti di Governo, registro n. 9, foglio n. 25
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 27 aprile 1982  
+Registro n. 3 Presidenza, foglio n. 342

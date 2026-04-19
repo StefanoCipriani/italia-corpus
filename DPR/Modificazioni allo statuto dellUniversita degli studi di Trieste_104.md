@@ -1,141 +1,24 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1975 n. 1010
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1964 n. 904
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1975 n. 1010
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1964 n. 904
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 -------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836), e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, numero 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Dopo l'art. 171, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in terapia fisica e riabilitazione.
-
-Scuola di specializzazione in terapia fisica e riabilitazione
-
-Art. 172. - La scuola ha sede presso la clinica ortopedica dell'Universita' di Trieste.
-
-Il direttore della scuola e' il direttore della clinica ortopedica di Trieste.
-
-La durata del corso degli studi e' di tre anni accademici.
-
-E' esclusa senza alcuna eccezione l'abbreviazione dei corsi.
-
-Possono essere ammessi alla scuola soltanto i candidati che siano in possesso della laurea in medicina e chirurgia.
-
-Il numero massimo dei posti disponibili e' di dieci per ognuno dei tre anni di corso.
-
-L'ammissione alla scuola avviene a seguito di concorso per titoli ed esami.
-
-La Frequenza alle lezioni e alle esercitazioni e' obbligatoria.
-
-Per essere ammessi al secondo e terzo anno occorre aver superato tutti gli esami dell'anno precedente.
-
-Art. 173. - Le materie di insegnamento sono distribuite nei tre anni di corso secondo questo piano di studi che gli iscritti alla scuola sono tenuti a rispettare:
-
-1° Anno:
-
-1) principi di anatomia funzionale;
-
-2) fisiopatologia dell'apparato neuromotore;
-
-3) elementi di fisica applicata;
-
-4) elettrodiagnostica ed elettromiografia;
-
-5) medicina assicurativa;
-
-6) psicologia e problemi di psicopatologia della riabilitazione.
-
-2° Anno:
-
-1) semeiotica e clinica delle motulesioni neurologiche;
-
-2) semeiotica e clinica delle deformita' e motulesioni ortopediche;
-
-3) massoterapia e terapia manuale;
-
-4) cinesiologia, cinesiterapia e ginnastica medica;
-
-5) idroterapia e balneoterapia;
-
-6) climatologia e climatoterapia;
-
-7) rieducazione respiratoria;
-
-8) riabilitazione nei disturbi del linguaggio;
-
-9) rieducazione nei disturbi della visione.
-
-3° Anno:
-
-1) elettroterapia;
-
-2) terapia con onde corte ed altri mezzi fisici;
-
-3) rieducazione motoria e riabilitazione in campo ortopedico e traumatologico;
-
-4) rieducazione motoria e riabilitazione in campo neurologico;
-
-5) cinesiterapia e riabilitazione nelle malattie internistiche;
-
-6) cinesiterapia e riabilitazione in pediatria;
-
-7) cinesiterapia e riabilitazione in geriatria;
-
-8) ergoterapia e riqualificazione professionale;
-
-9) elementi di protesi ed ortesi.
-
-Ammontare delle tasse di immatricolazione L. 5.000; di iscrizione L. 100.000; soprattasse esami L. 7.000.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 24 ottobre 1975
-
-LEONE
-
-MALFATTI
-
-Visto, il Guardasigilli: BONIFACIO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 16 giugno 1976 Atti di Governo, registro n. 6, foglio n. 78
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836), e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, numero 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, numero 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
@@ -143,57 +26,114 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Dopo l'art. 171, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in terapia fisica e riabilitazione.  
-Scuola di specializzazione in terapia fisica e riabilitazione  
-Art. 172. - La scuola ha sede presso la clinica ortopedica dell'Universita' di Trieste.  
-Il direttore della scuola e' il direttore della clinica ortopedica di Trieste.  
-La durata del corso degli studi e' di tre anni accademici.  
-E' esclusa senza alcuna eccezione l'abbreviazione dei corsi.  
-Possono essere ammessi alla scuola soltanto i candidati che siano in possesso della laurea in medicina e chirurgia.  
-Il numero massimo dei posti disponibili e' di dieci per ognuno dei tre anni di corso.  
-L'ammissione alla scuola avviene a seguito di concorso per titoli ed esami.  
-La Frequenza alle lezioni e alle esercitazioni e' obbligatoria.  
-Per essere ammessi al secondo e terzo anno occorre aver superato tutti gli esami dell'anno precedente.  
-Art. 173. - Le materie di insegnamento sono distribuite nei tre anni di corso secondo questo piano di studi che gli iscritti alla scuola sono tenuti a rispettare:  
-1° Anno:  
-1) principi di anatomia funzionale;  
-2) fisiopatologia dell'apparato neuromotore;  
-3) elementi di fisica applicata;  
-4) elettrodiagnostica ed elettromiografia;  
-5) medicina assicurativa;  
-6) psicologia e problemi di psicopatologia della riabilitazione.  
-2° Anno:  
-1) semeiotica e clinica delle motulesioni neurologiche;  
-2) semeiotica e clinica delle deformita' e motulesioni ortopediche;  
-3) massoterapia e terapia manuale;  
-4) cinesiologia, cinesiterapia e ginnastica medica;  
-5) idroterapia e balneoterapia;  
-6) climatologia e climatoterapia;  
-7) rieducazione respiratoria;  
-8) riabilitazione nei disturbi del linguaggio;  
-9) rieducazione nei disturbi della visione.  
-3° Anno:  
-1) elettroterapia;  
-2) terapia con onde corte ed altri mezzi fisici;  
-3) rieducazione motoria e riabilitazione in campo ortopedico e traumatologico;  
-4) rieducazione motoria e riabilitazione in campo neurologico;  
-5) cinesiterapia e riabilitazione nelle malattie internistiche;  
-6) cinesiterapia e riabilitazione in pediatria;  
-7) cinesiterapia e riabilitazione in geriatria;  
-8) ergoterapia e riqualificazione professionale;  
-9) elementi di protesi ed ortesi.  
-Ammontare delle tasse di immatricolazione L. 5.000; di iscrizione L. 100.000; soprattasse esami L. 7.000.  
+Art. 56, e' abrogato e sostituito dal seguente:  
+La Facolta' di scienze matematiche, fisiche e naturali conferisce la laurea in:  
+Chimica;  
+Fisica;  
+Matematica Scienze naturali;  
+Scienze biologiche;  
+Scienze geologiche.  
+Dopo l'art. 61, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione dei corsi di laurea in Scienze biologiche ed in Scienze geologiche annessi alla Facolta' di scienze matematiche, fisiche e naturali con il conseguente spostamento della successiva numerazione.  
+  
+Laurea in scienze biologiche  
+  
+Art. 62. - La durata del corso di studi per la laurea in Scienze biologiche e' di quattro anni.  
+Sono insegnamenti fondamentali:  
+1) Istituzioni di matematiche;  
+2) Fisica;  
+3) Chimica generale ed inorganica;  
+4) Chimica organica;  
+5) Botanica (biennale);  
+6) Zoologia (biennale)  
+7) Anatomia comparata;  
+8) Anatomia umana;  
+9) Istologia ed embriologia;  
+10) Fisiologia generale (biennale);  
+11) Chimica biologica;  
+12) Igiene.  
+Sono insegnamenti complementari:  
+1) Chimica fisica;  
+2) Biologia generale;  
+3) Antropologia;  
+4) Biologia delle razze umane;  
+5) Etnologia;  
+6) Genetica;  
+7) Zoocolture (bachi, api, avi, coniglicoltura);  
+8) Idrologia e pescicoltura;  
+9) Patologia generale;  
+10) Microbiologia;  
+11) Parassitologia;  
+12) Entomologia agraria;  
+13) Fisiologia vegetale;  
+14) Geologia;  
+15) Paleontologia;  
+16) Statistica;  
+17) Scienza dell'alimentazione;  
+18) Biologia marina;  
+19) Biochimica applicata;  
+20) Citologia;  
+21) Embriologia sperimentale;  
+22) Fitogeografia;  
+23) Ecologia vegetale.  
+Gli insegnamenti biennali di "Botanica" e di "Zoologia" comprendono tanto la parte generale quanto quella sistematica.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e in quattro almeno da lui scelti fra i complementari.  
+  
+Laurea in Scienze geologiche  
+  
+Art. 63. - La durata del corso di studi per la laurea in Scienze geologiche e' di quattro anni.  
+Sono insegnamenti fondamentali:  
+1) Istituzioni di matematiche;  
+2) Fisica sperimentale (biennale);  
+3) Chimica generale ed inorganica con elementi di organica;  
+4) Mineralogia;  
+5) Geologia;  
+6) Geologia applicata;  
+7) Paleontologia;  
+8) Geografia;  
+9) Geografia fisica;  
+10) Topografia e cartografia;  
+11) Fisica terrestre;  
+12) Petrografia.  
+Sono insegnamenti complementari:  
+1) Chimica organica;  
+2) Chimica fisica;  
+3) Geochimica;  
+4) Astronomia;  
+5) Geodesia;  
+6) Zoologia;  
+7) Botanica;  
+8) Antropologia;  
+9) Etnologia;  
+10) Geografia economica;  
+11) Vulcanologia;  
+12) Analisi matematica (algebrica ed infinitesimale) (biennale);  
+13) Meccanica razionale con elementi di statica grafica e disegno;  
+14) Statistica;  
+15) Giacimenti minerari;  
+16) Micropaleontologia;  
+17) Mineralogia applicata;  
+18) Geologia stratigrafica;  
+19) Geofisica applicata;  
+20) Speleologia;  
+21) Oceanografia;  
+22) Prospezioni geofisiche;  
+23) Idrogeologia;  
+24) Geologia degli idrocarburi;  
+25) Geotecnica.  
+Gli insegnamenti di "Botani" e di "Zoologia" debbono avere indirizzo biogeografico.  
+L'insegnamento di "Analisi matematica" sara' impartito da due professori ciascuno dei quali insegnera' alternativamente "Analisi algebrica" per il primo anno ed"Analisi infinitesimale" per il secondo anno; lo studente dovra' sostenere due esami distinti.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti fra i complementari.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e del decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 ottobre 1975
+### Dato a Roma, addi' 14 agosto 1964
 
-LEONE MALFATTI
+Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA GUI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 16 giugno 1976
+Registrato alla Corte dei conti, addi' 9 ottobre 1964
 
-Atti di Governo, registro n. 6, foglio n. 78
+Atti del Governo, registro n. 187, foglio n. 88. - VILLA

@@ -1,45 +1,69 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1958 n. 656
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1984 n. 1015
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1958 n. 656
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1984 n. 1015
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Dopo l'art. 62, con il conseguente scorrimento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione dell'istituto polidisciplinare di diritto privato:  
   
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 22. - Agli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di "diritto fallimentare".  
-Art. 200, relativo agli insegnamenti del corso di laurea in medicina veterinaria e' modificato nel senso che tra il secondo e terzo comma delle disposizioni concernenti la materia d'esame degli insegnamenti sono aggiunti i seguenti:  
-"L'insegnamento biennale di patologia generale e anatomia patologica comporta due esami distinti e due distinte votazioni. La patologia generale viene svolta al 3° anno, l'anatomia patologica al 3° e 4° anno.  
-L'insegnamento biennale di patologia speciale e clinica medica viene impartito al 3° corso per quanto riguarda la patologia speciale, ed al 4° per la clinica medica. Per essere ammesso all'esame di patologia speciale e clinica medica (biennale) lo studente deve aver superato, alla fine del 3° corso, un colloquio di patologia speciale medica".  
+Istituto polidisciplinare di diritto privato  
+Art. 63. - E' costituito presso la facolta' di giurisprudenza l'istituto polidisciplinare di diritto privato. Esso raggruppa le cattedre di: istituzioni di diritto privato; di diritto civile; di diritto privato comparato; di diritto di famiglia; di diritto agrario; di diritto fallimentare; di diritto d'autore.  
+Art. 64. - L'istituto svolge le attivita' didattiche e di ricerca previste dalla normativa legislativa e regolamentare vigente; cura le pubblicazioni di studi e ricerche, promuove ed organizza seminari, conferenze ed ogni altra iniziativa scientifica, didattica e culturale nelle discipline afferenti.  
+Art. 65. - L'istituto ha sede nei locali messi a sua disposizione dall'Universita'. Esso dispone della biblioteca della facolta' e di proprie raccolte bibliografiche specializzate.  
+Art. 66. - L'istituto disporra' della dotazione da parte dell'Universita' e da parte della facolta' di giurisprudenza, nonche' di ogni altra eventuale erogazione straordinaria di enti pubblici e privati.  
+Art. 67. - L'istituto utilizza il personale assegnato alle cattedre di cui all'art. 1 ed altro eventuale che l'Universita' o il Ministero assegnera'.  
+Art. 68. - Gli organi dell'istituto sono il direttore e il consiglio di istituto. La costituzione, le attribuzioni e le attivita' degli organi suddetti, per quanto non espressamente previsto dallo statuto, sono disciplinati dalla normativa disciplinare e regolamentare vigente.  
+Art. 69. - Studenti e studiosi di altre facolta' o universita' possono frequentare l'istituto su autorizzazione del direttore.  
+Art. 70. - I frequentatori dell'istituto dovranno riferire almeno ogni due mesi al direttore, oppure a chi sia stato a cio' delegato sugli studi e le ricerche che vanno effettuando. Essi dovranno osservare le norme disciplinari e didattiche contenute nel regolamento interno e le altre disposizioni impartite dal direttore.  
+Art. 71. - Il direttore potra' sospendere o escludere dalla frequenza dell'istituto con provvedimento motivato chi commetta gravi infrazioni. Avverso il provvedimento potra' il colpito reclamare nei termini e modi di legge alle competenti autorita' accademiche.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 maggio 1958
+### Dato a Roma, addi' 11 ottobre 1984
 
-GRONCHI MORO
+PERTINI
 
-Visto, il Guardasigilli: GONELLA
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 27 giugno 1958
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Atti del Governo, registro n. 112, foglio n. 256. - RELLEVA
+Registrato alla Corte dei conti, addi' 30 gennaio 1985
+
+Registro n. 4 Istruzione, foglio n. 326

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 settembre 1962 n. 1568
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1972 n. 845
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 settembre 1962 n. 1568
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1972 n. 845
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -10,262 +10,397 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169) e successivi;
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito: il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministero per la pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 7. - Agli insegnamenti complementari per il corso di laurea in Giurisprudenza, sono aggiunti quelli di:
+Art. 174. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, sono aggiunte le scuole in "Gerontologia e geriatria", in "Medicina nucleare", in "Cardioangiochirurgia" di nuova istituzione.
 
-Diritto fallimentare;
+Il secondo comma dell'art. 190 relativo alla scuola di specializzazione in oculistica e' modificato nel senso che il numero complessivo degli iscritti e' stabilito in ventotto (28) per i quattro anni di corso.
 
-Papirologia ed epigrafia giuridica;
+Dopo l'art. 223 sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in "Gerontologia e geriatria" in "Medicina nucleare", in "Cardioangiochirurgia".
 
-Criminologia.
+Scuola di specializzazione in gerontologia e geriatria
 
-Art. 14 - Agli Istituti scientifici, annessi alla Facolta' di giurisprudenza e' aggiunto l' "Istituto di diritto processuale civile".
+Art. 224. - La scuola di specializzazione ha sede presso l'istituto di clinica medica II.
 
-Art. 81, relativo al corso di laurea in Fisica, e' aggiunto il seguente comma dopo l'enumerazione degli insegnamenti obbligatori per l'indirizzo didattico:
+La durata del corso di specializzazione e' di tre anni.
 
-"Il corso di "Storia della fisica" potra' in via transitoria, essere sostituito su deliberazione della Facolta', con un corso scelto fra i complementari.
+La frequenza e' obbligatoria.
 
-Art. 84. - Agli insegnamenti complementari del corso di laurea in chimica, indirizzo inorganico, chimico, fisico, sono aggiunti quelli di:
+Il numero degli iscritti viene fissato in nove posti per tutti i tre anni.
 
-Storia della chimica Strutturistica chimica;
+Art. 225. - Il piano di studio della scuola comprende i seguenti insegnamenti:
 
-Chimica teorica;
+Biologia della senescenza (annuale);
 
-Radiochimica.
+Fisiopatologia della senescenza (biennale);
 
-Art. 88 - Agli insegnamenti complementari del corso di laurea in Scienze biologiche e' aggiunto quello di "Biologia delle razze umane".
+Semeiologia della senescenza (biennale);
 
-Art. 91. - Agli insegnamenti complementari per il corso di laurea in Scienze geologiche sono aggiunti quelli di:
+Anatomia patologica (biennale);
 
-Analisi mineralogica;
+Farmacologia e farmacoterapia (annuale);
 
-Fotogeologia;
+Clinica geriatrica e terapia (biennale);
 
-Geologia regionale;
+Chirurgia geriatrica (annuale);
 
-Geologia degli idrocarburi;
+Radiologia e radioterapia (annuale);
 
-Geotecnica;
+Neurologia (annuale);
 
-Giacimenti minerari;
+Tecniche di riabilitazione (annuale);
 
-Idrogeologia;
+Psichiatria (annuale);
 
-Micropaleontologia;
+Medicina sociale (annuale).
 
-Mineralogia applicata.
+La ripartizione dei dodici insegnamenti nei tre anni di corso avverra' secondo il seguente schema:
 
-Gli insegnamenti complementari di Geologia economica e di Paleontologia umana dello stesso corso di laurea sono soppressi.
+1° Anno:
 
-Art. 96. Agli Istituti scientifici annessi alla Facolta' di scienze matematiche, fisiche e naturali sono aggiunti i seguenti:
+1) Biologia della senescenza;
 
-Istituto ci chimica analitica;
+2) Fisiopatologia della senescenza 1° corso);
 
-Istituto di genetica.
+3) Semeiologia della senescenza (1° corso);
 
-L' Istituto di fisiologia generale cambia denominazione in "Istituto di fisiologia generale e chimica biologica".
+4) Anatomia patologica (1° corso);
 
-Art. 101, relativo alle propedeuticita' del biennio nel corso di laurea in Ingegneria, sono abrogati i primi due commi e sostituiti dai seguenti:
+5) Farmacologia e farmacoterapia.
 
-Agli effetti della successione dei relativi esami nel biennio propedeutico occorre osservare le seguenti precedenze:
+2° Anno:
 
-1) gli esami di Analisi matematica I e di Geometria devono precedere gli esami di Analisi matematica 11 e di Meccanica razionale;
+1) Fisiopatologia della senescenza (2° corso);
 
-2) l'esame di Analisi matematica II deve precedere l'esame di Meccanica razionale;
+2) Semeiologia della senescenza (2° corso);
 
-3) l'esame di Fisica I deve precedere l'esame di Fisica II;
+3) Anatomia patologica (2° corso);
 
-4) l'esame di Disegno I deve precedere l'esame di Disegno II;
+4) Clinica geriatrica e terapia (1° corso);
 
-5) gli studenti del primo anno di corso potranno ottenere l'iscrizione al secondo anno di corso qualora abbiano superato almeno due fra i quattro seguenti esami: Analisi matematica I, Geometria, Fisica I, Chimica.
+5) Chirurgia geriatrica;
 
-Al termine del secondo anno di corso lo studente per essere ammesso al terzo anno di corso dovra' aver superato gli esami di tutte le discipline del biennio propedeutico, stabilite nell'art. 100 dello statuto.
+6) Radiologia e radioterapia;
 
-Dopo l'art. 102 e con il conseguente spostamento della successiva numerazione e' inserito il seguente nuova articolo, relativo alle propedeuticita' del triennio di applicazione nel corso di laurea in Ingegneria.
+7) Neurologia.
 
-Art. 103. - Agli effetti della successione dei relativi esami nel triennio di applicazione occorre osservare le seguenti precedenze:
+3° Anno:
 
-1) l'esame di Scienza della costruzioni deve precedere quelli di Tecnica delle costruzioni, Scienza delle costruzioni II, Costruzione di ponti. Costruzioni stradali e ferroviarie, Costruzioni idrauliche, Costruzioni di macchine, Architettura tecnica;
+1) Clinica geriatrica e terapia (2° corso);
 
-2) l'esame di meccanica applicata, alle macchine, quello di macchine e costruzione di macchine;
+2) Tecniche di riabilitazione;
 
-3) l'esame di Architettura tecnica deve precedere quelli di Architettura, tecnica II, Architettura e composizione architettonica;
+3) Psichiatria;
 
-4) l'esame di Idraulica deve precedere quelli di Costruzioni idrauliche, Impianti speciali idraulici, Costruzioni marittime, Complementi di costruzioni idrauliche, Idrologia, Idraulica agraria, Tecnica della bonifica;
+4) Medicina sociale.
 
-5) l'esame di Costruzioni idrauliche deve precedere quello di Complemento di costruzioni idrauliche;
+Art. 226. - Durante i tre anni di corso sono previste inoltre conferenze di aggiornamento su problemi speciali.
 
-6) l'esame di Elettrotecnica deve precedere quelli di Tecnica ed economia dei trasporti; Trazione elettrica; Complementi di tecnica ed economia dei trasporti;
+L'ammissione alla scuola avverra' per titoli ed esami.
 
-7) l'esame di Fisica tecnica deve precedere quello di Meccanica applicata alle macchine, Macchine, Impianti tecnici edili, Tecnica ed economia dei trasporti, Complementi di tecnica ed economia dei trasporti.
+Il direttore della scuola, al di fuori dei docenti incaricati ufficialmente, puo' invitare studiosi competenti ad impartire lezioni e conferenze, su argomenti di speciale interesse gerontologico-geriatrico.
 
-Art. 104, relativo alle norme per gli esami di laurea del corso di studi in Ingegneria e' abrogato e sostituito dal seguente:
+Per ottenere l'iscrizione alla scuola di specializzazione occorre presentare all'ufficio di segreteria della scuola entro il 30 novembre:
 
-Per essere ammesso all'esame di laurea lo studente deve aver superato gli esami delle materie fondamentali e di quelle dell'indirizzo scelto.
+a) domanda redatta in carta legale indirizzata al rettore;
 
-Gli esami di profitto consistono di norma in una prova orale sulle materie e di una discussione sui risultati delle esercitazioni e sui progetti.
+b) certificato di laurea riportante i voti conseguiti in ogni singolo esame.
 
-Gli esami di Architettura tecnica e di Architettura e composizione architettonica comportano sempre anche una prova pratica.
+Scuola di specializzazione in medicina nucleare
 
-L'esame di laurea consta di due prove, una orale vertente sugli argomenti e sulle esercitazioni svolte nelle materie degli ultimi tre anni: la seconda sulla discussione di un progetto particolare presentato come tesi.
+Art. 227. - La scuola di specializzazione in medicina nucleare ha la finalita' di fornire una preparazione specifica, teorica e pratica, per l'impiego diagnostico e per quello terapeutico dei radionuclidi.
 
-Dopo l'art. 104, e con il conseguente spostamento della numerazione successiva, e' inserito il seguente nuovo articolo.
+La sede della scuola e' presso la II clinica medica, il corso degli studi nella scuola ha la durata di 3 anni accademici.
 
-Art. 105. - Gli Istituti della Facolta' di ingegneria sono i seguenti:
+Durante i tre anni di corso sono previste conferenze di aggiornamento su problemi speciali.
 
-1) Istituto di architettura e composizione architettonica;
+Gli insegnamenti sono impartiti in collaborazione dalla II clinica medica e dall'istituto di radiologia medica dell'Universita' di Bari.
 
-2) Istituto di chimica applicata;
+Alla scuola possono iscriversi i laureati in medicina e chirurgia.
 
-3) Istituto di elettrotecnica;
+L'ammissione alla scuola avverra' per titoli ed esami.
 
-4) Istituto di fisica tecnica;
+Il numero degli iscritti nei tre anni di corso non potra' essere superiore a nove, tre per ogni anno. Alla fine di ogni anno di corso saranno tenuti gli esami relativi agli insegnamenti impartiti.
 
-5) Istituto di idraulica e costruzioni idrauliche;
+Per il conseguimento del diploma ogni allievo dovra' sostenere, davanti all'apposita commissione, la discussione di una tesi scritta su di un argomento di medicina nucleare.
 
-6) Istituto di macchine;
+La direzione della scuola viene assunta, ad anni alterni, dal direttore della II clinica medica e dal direttore dell'istituto di radiologia dell'Universita' di Bari, i quali concordano preventivamente ogni anno il programma.
 
-7) Istituto di scienza delle costruzioni;
+I direttori della scuola, al di fuori dei docenti incaricati ufficialmente, possono invitare studiosi competenti ad impartire lezioni e conferenze su argomenti di speciale interesse specialistico.
 
-8) Istituto di costruzioni stradali e ferroviarie;.
+Per ottenere l'iscrizione alla scuola di specializzazione occorre presentare all'ufficio di segreteria della scuola entro il 30 novembre:
 
-9) Istituto di trasporti.
+a) domanda redatta in carta legale indirizzata al rettore;
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e del decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+b) certificato di laurea riportante i voti conseguiti in ogni singolo esame.
 
-Dato a Roma, addi' 17 settembre 1962
+Art. 228. - Le materie di insegnamento, riportato secondo i diversi anni di corso, sono le seguenti:
 
-SEGNI
+1° Anno:
 
-GUI
+Fondamenti di matematica e di statistica;
 
-Visto, il Guardasigilli: BOSCO
+Fisica nucleare e delle radiazioni;
+
+Tecniche per le misure di radioattivita';
+
+Dosimetria.
+
+2° Anno:
+
+Teoria dei traccianti;
+
+Elementi di radiochimica;
+
+Applicazione diagnostica I;
+
+Elementi di radiobiologia.
+
+3° Anno:
+
+Applicazione diagnostica II;
+
+Applicazioni terapeutiche;
+
+Radioprotezione e legislazione.
+
+Scuola di specializzazione in cardioangiochirurgia
+
+Art. 229. - Possono aspirare all'iscrizione alla scuola di specializzazione in cardioangiochirurgia i laureati in medicina e chirurgia che siano in possesso del diploma di specializzazione in chirurgia generale o che dimostrino di aver frequentato a titolo ufficiale ed in modo continuativo un istituto universitario di chirurgia generale o una divisione ospedaliera di chirurgia generale per almeno due anni.
+
+Il numero complessivo degli specializzandi non puo' essere superiore a quindici.
+
+L'ammissione alla scuola avverra' in seguito a concorso per titoli ed esami.
+
+La data del concorso verra' notificata nell'albo della scuola in tempo utile.
+
+La durata del corso e' di tre anni.
+
+Non saranno consentite abbreviazioni di corso.
+
+La scuola ha sede presso la clinica chirurgica. Reparto di cardioangiochirurgia (Centro di cardiochirurgia).
+
+Gli iscritti alla scuola hanno l'obbligo di internato presso il reparto cardiochirurgico (corsie, diagnostica, sala operatoria; trattamento intensivo) per tutta la durata dei corsi e di frequenza alle lezioni, conferenze speciali ed esercitazioni.
+
+Art. 230. - Gli insegnamenti fondamentali sono i seguenti:
+
+1° Anno:
+
+Embriologia, anatomia descrittiva e topografica dell'apparato cardiovascolare;
+
+Fisiologia dell'apparato cardiovascolare;
+
+Anatomia patologica dell'apparato cardiovascolare;
+
+Semeiotica e diagnostica delle cardiopatie chirurgiche (clinica strumentale, radiologica e di laboratorio) 1° anno;
+
+Semeiotica e diagnostica angiologica;
+
+Patologia e clinica cardiologica, 1° anno;
+
+Principi e tecnica della circolazione extra-corporea;
+
+Nozioni di ingegneria medica.
+
+2° Anno:
+
+Semeiotica e diagnostica delle cardiopatie chirurgiche (clinica, strumentale, radiologica e di laboratorio), 2° anno;
+
+Patologia e clinica cardiologica, 2° anno;
+
+Patologia e clinica angiologica;
+
+Terapia chirurgica e tecnica operatoria, 1° anno;
+
+Anestesia e rianimazione.
+
+3° Anno:
+
+Patologia e clinica cardiologica pediatrica;
+
+Terapia chirurgica e tecnica operatoria, 2° anno;
+
+Trattamento intensivo.
+
+L'esame di diploma consiste nella discussione di una dissertazione scritta su argomento concordato con il direttore della scuola.
+
+Il presente decreto, munita del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farlo osservare.
+
+Dato a Roma, addi' 28 ottobre 1972
+
+LEONE
+
+SCALFARO
+
+Vista, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 12 novembre 1962 Atti del Governo, registro n. 160, foglio n. 15. - VILLA
+alla Corte dei conti, addi' 21 dicembre 1972 Atti di Governo, registro n. 254, foglio n. 43. - CARUSO
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministero per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito: il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 7. - Agli insegnamenti complementari per il corso di laurea in Giurisprudenza, sono aggiunti quelli di:  
-Diritto fallimentare;  
-Papirologia ed epigrafia giuridica;  
-Criminologia.  
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 174. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, sono aggiunte le scuole in "Gerontologia e geriatria", in "Medicina nucleare", in "Cardioangiochirurgia" di nuova istituzione.   
+Il secondo comma dell'art. 190 relativo alla scuola di specializzazione in oculistica e' modificato nel senso che il numero complessivo degli iscritti e' stabilito in ventotto (28) per i quattro anni di corso.   
+Dopo l'art. 223 sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in "Gerontologia e geriatria" in "Medicina nucleare", in "Cardioangiochirurgia".   
   
-Art. 14 - Agli Istituti scientifici, annessi alla Facolta' di giurisprudenza e' aggiunto l' "Istituto di diritto processuale civile".  
+Scuola di specializzazione in gerontologia e geriatria   
   
-Art. 81, relativo al corso di laurea in Fisica, e' aggiunto il seguente comma dopo l'enumerazione degli insegnamenti obbligatori per l'indirizzo didattico:  
-"Il corso di "Storia della fisica" potra' in via transitoria, essere sostituito su deliberazione della Facolta', con un corso scelto fra i complementari.  
+Art. 224. - La scuola di specializzazione ha sede presso l'istituto di clinica medica II.   
+La durata del corso di specializzazione e' di tre anni.   
+La frequenza e' obbligatoria.   
+Il numero degli iscritti viene fissato in nove posti per tutti i tre anni.   
+Art. 225. - Il piano di studio della scuola comprende i seguenti insegnamenti:   
   
-Art. 84. - Agli insegnamenti complementari del corso di laurea in chimica, indirizzo inorganico, chimico, fisico, sono aggiunti quelli di:  
-Storia della chimica Strutturistica chimica;  
-Chimica teorica;  
-Radiochimica.  
+Biologia della senescenza (annuale);   
+Fisiopatologia della senescenza (biennale);   
+Semeiologia della senescenza (biennale);   
+Anatomia patologica (biennale);   
+Farmacologia e farmacoterapia (annuale);   
+Clinica geriatrica e terapia (biennale);   
+Chirurgia geriatrica (annuale);   
+Radiologia e radioterapia (annuale);   
+Neurologia (annuale);   
+Tecniche di riabilitazione (annuale);   
+Psichiatria (annuale);   
+Medicina sociale (annuale).   
+La ripartizione dei dodici insegnamenti nei tre anni di corso avverra' secondo il seguente schema:   
+1° Anno:   
+1) Biologia della senescenza;   
+2) Fisiopatologia della senescenza 1° corso);   
+3) Semeiologia della senescenza (1° corso);   
+4) Anatomia patologica (1° corso);   
+5) Farmacologia e farmacoterapia.   
+2° Anno:   
+1) Fisiopatologia della senescenza (2° corso);   
+2) Semeiologia della senescenza (2° corso);   
+3) Anatomia patologica (2° corso);   
+4) Clinica geriatrica e terapia (1° corso);   
+5) Chirurgia geriatrica;   
+6) Radiologia e radioterapia;   
+7) Neurologia.   
+3° Anno:   
+1) Clinica geriatrica e terapia (2° corso);   
+2) Tecniche di riabilitazione;   
+3) Psichiatria;   
+4) Medicina sociale.   
+Art. 226. - Durante i tre anni di corso sono previste inoltre conferenze di aggiornamento su problemi speciali.   
+L'ammissione alla scuola avverra' per titoli ed esami.   
+Il direttore della scuola, al di fuori dei docenti incaricati ufficialmente, puo' invitare studiosi competenti ad impartire lezioni e conferenze, su argomenti di speciale interesse gerontologico-geriatrico.   
+Per ottenere l'iscrizione alla scuola di specializzazione occorre presentare all'ufficio di segreteria della scuola entro il 30 novembre:   
+a) domanda redatta in carta legale indirizzata al rettore;   
+b) certificato di laurea riportante i voti conseguiti in ogni singolo esame.   
   
-Art. 88 - Agli insegnamenti complementari del corso di laurea in Scienze biologiche e' aggiunto quello di "Biologia delle razze umane".  
+Scuola di specializzazione in medicina nucleare   
   
-Art. 91. - Agli insegnamenti complementari per il corso di laurea in Scienze geologiche sono aggiunti quelli di:  
-Analisi mineralogica;  
-Fotogeologia;  
-Geologia regionale;  
-Geologia degli idrocarburi;  
-Geotecnica;  
-Giacimenti minerari;  
-Idrogeologia;  
-Micropaleontologia;  
-Mineralogia applicata.  
-Gli insegnamenti complementari di Geologia economica e di Paleontologia umana dello stesso corso di laurea sono soppressi.  
+Art. 227. - La scuola di specializzazione in medicina nucleare ha la finalita' di fornire una preparazione specifica, teorica e pratica, per l'impiego diagnostico e per quello terapeutico dei radionuclidi.   
+La sede della scuola e' presso la II clinica medica, il corso degli studi nella scuola ha la durata di 3 anni accademici.   
+Durante i tre anni di corso sono previste conferenze di aggiornamento su problemi speciali.   
+Gli insegnamenti sono impartiti in collaborazione dalla II clinica medica e dall'istituto di radiologia medica dell'Universita' di Bari.   
+Alla scuola possono iscriversi i laureati in medicina e chirurgia.   
+L'ammissione alla scuola avverra' per titoli ed esami.   
+Il numero degli iscritti nei tre anni di corso non potra' essere superiore a nove, tre per ogni anno. Alla fine di ogni anno di corso saranno tenuti gli esami relativi agli insegnamenti impartiti.   
+Per il conseguimento del diploma ogni allievo dovra' sostenere, davanti all'apposita commissione, la discussione di una tesi scritta su di un argomento di medicina nucleare.   
+La direzione della scuola viene assunta, ad anni alterni, dal direttore della II clinica medica e dal direttore dell'istituto di radiologia dell'Universita' di Bari, i quali concordano preventivamente ogni anno il programma.   
+I direttori della scuola, al di fuori dei docenti incaricati ufficialmente, possono invitare studiosi competenti ad impartire lezioni e conferenze su argomenti di speciale interesse specialistico.   
+Per ottenere l'iscrizione alla scuola di specializzazione occorre presentare all'ufficio di segreteria della scuola entro il 30 novembre:   
+a) domanda redatta in carta legale indirizzata al rettore;   
+b) certificato di laurea riportante i voti conseguiti in ogni singolo esame.   
+Art. 228. - Le materie di insegnamento, riportato secondo i diversi anni di corso, sono le seguenti:   
+1° Anno:   
+Fondamenti di matematica e di statistica;   
+Fisica nucleare e delle radiazioni;   
+Tecniche per le misure di radioattivita';   
+Dosimetria.   
+2° Anno:   
   
-Art. 96. Agli Istituti scientifici annessi alla Facolta' di scienze matematiche, fisiche e naturali sono aggiunti i seguenti:  
-Istituto ci chimica analitica;  
-Istituto di genetica.  
-L' Istituto di fisiologia generale cambia denominazione in "Istituto di fisiologia generale e chimica biologica".  
+Teoria dei traccianti;   
+Elementi di radiochimica;   
+Applicazione diagnostica I;   
+Elementi di radiobiologia.   
+3° Anno:   
   
-Art. 101, relativo alle propedeuticita' del biennio nel corso di laurea in Ingegneria, sono abrogati i primi due commi e sostituiti dai seguenti:  
-Agli effetti della successione dei relativi esami nel biennio propedeutico occorre osservare le seguenti precedenze:  
-1) gli esami di Analisi matematica I e di Geometria devono precedere gli esami di Analisi matematica 11 e di Meccanica razionale;  
-2) l'esame di Analisi matematica II deve precedere l'esame di Meccanica razionale;  
-3) l'esame di Fisica I deve precedere l'esame di Fisica II;  
-4) l'esame di Disegno I deve precedere l'esame di Disegno II;  
-5) gli studenti del primo anno di corso potranno ottenere l'iscrizione al secondo anno di corso qualora abbiano superato almeno due fra i quattro seguenti esami: Analisi matematica I, Geometria, Fisica I, Chimica.  
-Al termine del secondo anno di corso lo studente per essere ammesso al terzo anno di corso dovra' aver superato gli esami di tutte le discipline del biennio propedeutico, stabilite nell'art. 100 dello statuto.  
-Dopo l'art. 102 e con il conseguente spostamento della successiva numerazione e' inserito il seguente nuova articolo, relativo alle propedeuticita' del triennio di applicazione nel corso di laurea in Ingegneria.  
+Applicazione diagnostica II;   
+Applicazioni terapeutiche;   
+Radioprotezione e legislazione.   
   
-Art. 103. - Agli effetti della successione dei relativi esami nel triennio di applicazione occorre osservare le seguenti precedenze:  
-1) l'esame di Scienza della costruzioni deve precedere quelli di Tecnica delle costruzioni, Scienza delle costruzioni II, Costruzione di ponti. Costruzioni stradali e ferroviarie, Costruzioni idrauliche, Costruzioni di macchine, Architettura tecnica;  
-2) l'esame di meccanica applicata, alle macchine, quello di macchine e costruzione di macchine;  
-3) l'esame di Architettura tecnica deve precedere quelli di Architettura, tecnica II, Architettura e composizione architettonica;  
-4) l'esame di Idraulica deve precedere quelli di Costruzioni idrauliche, Impianti speciali idraulici, Costruzioni marittime, Complementi di costruzioni idrauliche, Idrologia, Idraulica agraria, Tecnica della bonifica;  
-5) l'esame di Costruzioni idrauliche deve precedere quello di Complemento di costruzioni idrauliche;  
-6) l'esame di Elettrotecnica deve precedere quelli di Tecnica ed economia dei trasporti; Trazione elettrica; Complementi di tecnica ed economia dei trasporti;  
-7) l'esame di Fisica tecnica deve precedere quello di Meccanica applicata alle macchine, Macchine, Impianti tecnici edili, Tecnica ed economia dei trasporti, Complementi di tecnica ed economia dei trasporti.  
+Scuola di specializzazione in cardioangiochirurgia   
   
-Art. 104, relativo alle norme per gli esami di laurea del corso di studi in Ingegneria e' abrogato e sostituito dal seguente:  
-Per essere ammesso all'esame di laurea lo studente deve aver superato gli esami delle materie fondamentali e di quelle dell'indirizzo scelto.  
-Gli esami di profitto consistono di norma in una prova orale sulle materie e di una discussione sui risultati delle esercitazioni e sui progetti.  
-Gli esami di Architettura tecnica e di Architettura e composizione architettonica comportano sempre anche una prova pratica.  
-L'esame di laurea consta di due prove, una orale vertente sugli argomenti e sulle esercitazioni svolte nelle materie degli ultimi tre anni: la seconda sulla discussione di un progetto particolare presentato come tesi.  
-Dopo l'art. 104, e con il conseguente spostamento della numerazione successiva, e' inserito il seguente nuovo articolo.  
+Art. 229. - Possono aspirare all'iscrizione alla scuola di specializzazione in cardioangiochirurgia i laureati in medicina e chirurgia che siano in possesso del diploma di specializzazione in chirurgia generale o che dimostrino di aver frequentato a titolo ufficiale ed in modo continuativo un istituto universitario di chirurgia generale o una divisione ospedaliera di chirurgia generale per almeno due anni.   
+Il numero complessivo degli specializzandi non puo' essere superiore a quindici.   
+L'ammissione alla scuola avverra' in seguito a concorso per titoli ed esami.   
+La data del concorso verra' notificata nell'albo della scuola in tempo utile.   
+La durata del corso e' di tre anni.   
+Non saranno consentite abbreviazioni di corso.   
+La scuola ha sede presso la clinica chirurgica. Reparto di cardioangiochirurgia (Centro di cardiochirurgia).   
+Gli iscritti alla scuola hanno l'obbligo di internato presso il reparto cardiochirurgico (corsie, diagnostica, sala operatoria; trattamento intensivo) per tutta la durata dei corsi e di frequenza alle lezioni, conferenze speciali ed esercitazioni.   
+Art. 230. - Gli insegnamenti fondamentali sono i seguenti:   
+1° Anno:   
   
-Art. 105. - Gli Istituti della Facolta' di ingegneria sono i seguenti:  
-1) Istituto di architettura e composizione architettonica;  
-2) Istituto di chimica applicata;  
-3) Istituto di elettrotecnica;  
-4) Istituto di fisica tecnica;  
-5) Istituto di idraulica e costruzioni idrauliche;  
-6) Istituto di macchine;  
-7) Istituto di scienza delle costruzioni;  
-8) Istituto di costruzioni stradali e ferroviarie;.  
-9) Istituto di trasporti.  
+Embriologia, anatomia descrittiva e topografica dell'apparato cardiovascolare;   
+Fisiologia dell'apparato cardiovascolare;   
+Anatomia patologica dell'apparato cardiovascolare;   
+Semeiotica e diagnostica delle cardiopatie chirurgiche (clinica strumentale, radiologica e di laboratorio) 1° anno;   
+Semeiotica e diagnostica angiologica;   
+Patologia e clinica cardiologica, 1° anno;   
+Principi e tecnica della circolazione extra-corporea;   
+Nozioni di ingegneria medica.   
+2° Anno:   
   
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e del decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### Dato a Roma, addi' 17 settembre 1962
-
-SEGNI GUI
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato alla Corte dei conti, addi' 12 novembre 1962
-
-Atti del Governo, registro n. 160, foglio n. 15. - VILLA
+Semeiotica e diagnostica delle cardiopatie chirurgiche (clinica, strumentale, radiologica e di laboratorio), 2° anno;   
+Patologia e clinica cardiologica, 2° anno;   
+Patologia e clinica angiologica;   
+Terapia chirurgica e tecnica operatoria, 1° anno;   
+Anestesia e rianimazione.   
+3° Anno:   
+  
+Patologia e clinica cardiologica pediatrica;   
+Terapia chirurgica e tecnica operatoria, 2° anno;   
+Trattamento intensivo.   
+L'esame di diploma consiste nella discussione di una dissertazione scritta su argomento concordato con il direttore della scuola.   
+  
+Il presente decreto, munita del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farlo osservare.   
+  
+Dato a Roma, addi' 28 ottobre 1972   
+  
+LEONE   
+  
+SCALFARO   
+  
+Vista, il Guardasigilli: GONELLA   
+Registrato alla Corte dei conti, addi' 21 dicembre 1972   
+Atti di Governo, registro n. 254, foglio n. 43. - CARUSO   

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1978 n. 916
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 luglio 1978 n. 552
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1978 n. 916
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 luglio 1978 n. 552
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una donazione.
 ------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-916. Decreto del Presidente della Repubblica 5 dicembre 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare la donazione disposta dalla sig.ra Matilde Corridori con atto 15 dicembre 1972, n. 14257/1467 di repertorio, registrato a Busto Arsizio (Varese) il 23 dicembre 1972 al n. 3049, vol. 152 A. P., a rogito dott. Ferruccio Brambilla, in Milano, consistente in un appartamento sito in Milano, via Fauche' n. 11, composto di un locale, oltre i servizi, con annesso vano cantina, distinto al nuovo catasto edilizio urbano alla partita 45758, foglio 261, mappale 362 sub 7, di vani utili 2,5, del valore di L. 4.000.000.  
+552. Decreto del Presidente della Repubblica 20 luglio 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare la donazione disposta dai fratelli Sada Pietro, Claudio e Alberto con atto a rogito dott. Giovanni Lainati, notaio in Milano, in data 26 luglio 1976, n. 432904 di repertorio e n. 26153 di raccolta, registrato a Milano il 2 agosto 1976 al n. 1319471/M, serie H, consistente in titoli obbligazionari per complessivi nominali dollari USA 250.000 pari a lire 208.950.000, da destinare ai fini istituzionali dell'ente.  
   
 Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 25 gennaio 1979  
-Registro n. 1 Presidenza, foglio n. 208
+Registrato alla Corte dei conti, addi' 13 settembre 1978  
+Registro n. 6 Presidenza, foglio n. 285

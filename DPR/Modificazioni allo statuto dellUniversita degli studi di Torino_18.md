@@ -1,11 +1,251 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1963 n. 1886
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 741
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1963 n. 1886
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 741
 ================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+L'art. 140, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola in pediatria muta la denominazione in quella di scuola di clinica pediatrica.
+
+Gli articoli 170, 171, 172 relativi alla "Scuola di specializzazione in pediatria" che muta la denominazione in quella di "Scuola di specializzazione in clinica pediatrica" sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in clinica pediatrica
+
+Art. 170. - L'ammissione al corso e' per esami e per titoli.
+
+La durata del corso e' triennale.
+
+Il numero di iscritti e' di venticinque per ogni anno di corso.
+
+L'internato e' obbligatorio con non piu' di due mesi di ferie all'anno.
+
+L'iscrizione direttamente al 2° anno del corso puo' essere consentita, a giudizio del consiglio della scuola per i candidati che abbiano conseguito il diploma di specializzazione in puericultura o che abbiano titoli pediatrici.
+
+Art. 171. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+Clinica pediatrica (triennale);
+
+Patologia pediatrica (biennale);
+
+Puericultura (biennale);
+
+Semeiotica pediatrica e tecnica diagnostica (biennale);
+
+Auxologia normale e patologica (annuale);
+
+Psicologia dell'eta' evolutiva (annuale).
+
+2° Anno:
+
+Clinica pediatrica;
+
+Patologia pediatrica;
+
+Puericultura;
+
+Semeiotica pediatrica e tecnica diagnostica;
+
+Terapia pediatrica (annuale);
+
+Radiologia pediatrica (annuale);
+
+Malattie infettive dell'infanzia (annuale).
+
+3° Anno:
+
+Clinica pediatrica;
+
+Neuropsichiatria ed Igiene mentale dell'infanzia.
+
+Le materie fondamentali sopra elencate saranno integrate dai seguenti insegnamenti, (scelti fra quelli facoltativi a giudizio del consiglio della scuola):
+
+Chirurgia pediatrica (3° anno);
+
+Ortopedia e traumatologia infantile (3° anno);
+
+Cardiologia (3° anno);
+
+Genetica (1° anno), e da altri eventuali che si potranno stabilire di anno in anno.
+
+Art. 172. - Il direttore della scuola puo' disporre che si tengano un certo numero di conferenze su argomenti di interesse pediatrico.
+
+Per conseguire il diploma di specializzazione in clinica pediatrica gli iscritti al corso dopo aver superato tutti gli esami ed effettuato la frequenza obbligatoria, dovranno presentare e discutere una dissertazione scritta su un argomento di pediatria.
+
+Gli articoli 207, 208 relativi alla "Scuola di specializzazione in chirurgia plastica" sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in chirurgia plastica
+
+Art. 207. - La durata del corso degli studi della scuola di specializzazione in chirurgia plastica e' di tre anni.
+
+a) La scuola fa parte integrante dell'istituto di chirurgia plastica ricostruttiva.
+
+b) La scuola e' posta sotto la direzione del titolare della cattedra di chirurgia plastica ricostruttiva, coadiuvato da docenti proposti e particolarmente preparati sulle singole materie di studio.
+
+c) Il materiale didattico, oltreche' dei casi clinici, e' anche costituito dalla biblioteca e dalla documentazione raccolta nell'archivio dell'istituto di chirurgia plastica ricostruttiva.
+
+d) Il corso si compone di insegnamenti fondamentali e di conferenze su argomenti speciali.
+
+e) Durante i tre anni del corso verranno quotidianamente tenute esercitazioni di diagnostica, di tecnica operatoria, di laboratorio od altre di indole pratica.
+
+f) La frequenza sia alle lezioni e conferenze che alle esercitazioni teoriche e pratiche e' obbligatoria.
+
+g) Il termine di presentazione delle domande di iscrizione alla scuola scade il 5 dicembre di ogni anno.
+
+h) L'ammissione alla scuola avviene a seguito di concorso per titoli ed esami.
+
+Sono da considerarsi titoli preferenziali, a parita' di risultato dell'esame di ammissione: 1) il voto di laurea in medicina e chirurgia; 2) aver frequentato come studente interno un istituto di chirurgia generale o specialistica; 3) aver svolto la tesi di laurea su argomenti di interesse per la chirurgia plastica; 4) documentazione di eventuali servizi prestati in reparti della specialita'; 5) eventuali pubblicazioni.
+
+Il numero massimo complessivo degli iscritti ai tre anni di corso e' di dodici (quattro per anno di corso).
+
+Non possono essere accettate domande di iscrizione diretta ad anni successivi al 1°, tranne che nel caso in cui il candidato sia gia' specialista o docente in chirurgia generale, nel qual caso il candidato e' ammesso direttamente al 2° anno.
+
+La domanda di iscrizione al 1° anno dovra' essere convalidata dal superamento da parte del candidato d'un esame generale preliminare con prova scritta ed orale, vertente su argomenti elementari d'interesse per il chirurgo plastico e sostenuto alla presenza del direttore e di due altri docenti della scuola di specializzazione.
+
+L'esame di ammissione deve espletarsi entro il mese di dicembre.
+
+i) Alla fine di ciascun anno scolastico, gli specializzandi, che abbiano ottenuto la firma di frequenza, dovranno sostenere un esame di profitto nelle materie fondamentali, il cui superamento e' condizione necessaria, per l'iscrizione all'anno successivo e, per quelli che sono stati iscritti all'ultimo anno, per poter accedere all'esame di diploma.
+
+Le sessioni di esami di profitto sono due per ogni anno, rispettivamente estiva ed autunnale.
+
+l) Alla fine del terzo anno del corso, ha luogo l'esame di diploma, consistente nella presentazione e discussione di una dissertazione scritta su argomento di chirurgia plastica, con contributo personale, concordato fra il diplomando ed il direttore della scuola all'inizio del 3° anno. La dissertazione deve essere approvata dal direttore stesso e depositata presso la segreteria almeno quindici giorni prima dell'esame.
+
+m) Le commissioni per gli esami di profitto sono costituite dal direttore della scuola e dai docenti delle singole materie di insegnamento.
+
+n) La commissione per l'esame di diploma e' composta di sette membri ed e' presieduta dal preside della facolta'. Di essa fanno parte il direttore della scuola di specializzazione in chirurgia plastica ed altri membri scelti dal preside fra i professori ed i liberi docenti dell'Universita' di Torino.
+
+Art. 208. - Gli insegnamenti impartiti nella scuola di specializzazione in chirurgia plastica sono i seguenti:
+
+1° Anno:
+
+a) Patologia generale - annuale (con concetti di patologia secondaria, guarigione delle ferite, trapianti, omoinnesti, conservazione e tipizzazione dei tessuti, traumatologia delle, parti molli, malattia, da ustione).
+
+b) Anatomia ed embriologia annuale (con specifico riferimento alla faccia, collo, organi genitali, arti superiori ed inferiori e relative malformazioni congenite).
+
+c) Anatomia ed istologia patologica - annuale (con specifico riferimento alla malattia da ustione ed ai tumori cutanei benigni e maligni).
+
+d) Anestesiologia e rianimazione - annuale (concetti generali sui principi che suggeriscono l'adozione dei vari metodi e tecniche anestesiologiche).
+
+e) Tecnica operatoria e anatomia chirurgica annuale.
+
+f) Chirurgia plastica generale (metodologia chirurgica differenziale - triennale).
+
+2° Anno:
+
+a) Elementi di otorinolaringoiatrica - annuale;
+
+b) Elementi di stomatologia - annuale;
+
+c) Elementi di ortopedia generale - annuale;
+
+d) Dermatologia generale - biennale (con specifico riferimento alle malattie e lesioni possibili di trattamento chirurgico);
+
+e) Chirurgia plastica generale - triennale (metodologia chirurgica differenziale).
+
+3° Anno:
+
+a) Chirurgia plastica generale - triennale (metodologia chirurgica differenziale);
+
+b) Chirurgia riparatrice della mano - annuale;
+
+c) Anatomia artistica - annuale (con particolare riferimento alla chirurgia riparatrice e correttiva del viso);
+
+d) Dermatologia generale - biennale;
+
+e) Medicina legale e delle assicurazioni - annuale (con riferimento alle, deformita' anatomiche ed alle menomazioni funzionali di origine traumatica);
+
+f) Fisioterapia delle lesioni cutanee (con elementi di criobiologia e di criochirurgia) annuale;
+
+Gli articoli 227, 229, 230, 232, 233, 235 relativi alla scuola di specializzazione in endocrinologia sono abrogati e sostituiti dai seguenti, mentre l'art. 228 e' soppresso con il conseguente spostamento della numerazione degli articoli successivi:
+
+Scuola di specializzazione in endocrinologia
+
+Art. 227. - La scuola ha la durata di tre anni.
+
+Art. 228. - Il materiale didattico e' costituito dalle biblioteche e dalla documentazione raccolta nei reparti, laboratori, ambulatori degli istituti di clinica medica generale, patologia speciale medica e di semeiotica medica.
+
+Art. 229. - Durante il secondo e terzo anno di corso verranno quotidianamente tenute esercitazioni di clinica endocrinologica, di diagnostica di laboratorio e altre di indole pratica.
+
+Art. 231. - Alla fine di ogni anno scolastico gli specializzandi che abbiano ottenuto le firme di frequenza dovranno sostenere un unico esame di profitto sulle materie di insegnamento, il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo, e, per quelli che abbiano frequentato il terzo anno, per poter accedere all'esame di diploma.
+
+Art. 232. - Alla fine del terzo anno di corso ha luogo l'esame di diploma, consistente nella presentazione e discussione di una dissertazione scritta su argomenti di ordine endocrinologico (clinico o sperimentale), concordato tra il diplomando e il direttore della scuola all'inizio del terzo anno.
+
+La dissertazione deve essere approvata dal direttore stesso e depositata presso la direzione almeno quindici giorni prima degli esami.
+
+Art. 234. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+Anatomia ed embriologia degli organi endocrini;
+
+Fisiologia endocrina;
+
+Biochimica endocrina;
+
+Anatomia patologica delle malattie endocrine (biennale);
+
+Semeiotica e diagnostica endocrina (biennale).
+
+2° Anno:
+
+Anatomia patologica delle malattie endocrine (biennale);
+
+Semeiotica e diagnostica endocrina (biennale);
+
+Eredopatologia endocrina;
+
+Patologia speciale e clinica delle malattie endocrine e delle auxopatie (biennale).
+
+3° Anno:
+
+Patologia speciale clinica delle malattie endocrine e delle auxopatie (biennale);
+
+Terapia delle malattie endocrine.
+
+Insegnamenti complementari, facoltativi, dei quali almeno uno - a scelta del candidato - sara' materia d'esame, sono: farmacologia endocrina, endocrinologia ostetrica e ginecologica, endocrinologia pediatrica, neuroendocrinologia, tecniche di laboratorio endocrinologiche.
+
+Il numero massimo di iscritti per anno e' di otto. La selezione dei candidati viene eseguita mediante esame scritto ed orale di ammissione.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 22 settembre 1972
+
+LEONE
+
+SCALFARO
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 28 novembre 1972 Atti del Governo, registro n. 253, foglio n. 81. - CARUSO
 
 Art. 1
 ------
@@ -13,11 +253,10 @@ Art. 1
  IL PRESIDENTE DELLA REPUBBLICA  
   
 Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1986, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-01-02;73);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -26,105 +265,124 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 27. - All'elenco degli insegnamenti complementari del corso di laurea in Lingue e letterature straniere sono aggiunti quelli di:  
-Letteratura ibero-americana;  
-Letteratura anglo-americana.  
-Dopo l'art. 64 e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della Scuola di amministrazione industriale (scuola diretta a fini speciali).  
+L'art. 140, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola in pediatria muta la denominazione in quella di scuola di clinica pediatrica.  
+Gli articoli 170, 171, 172 relativi alla "Scuola di specializzazione in pediatria" che muta la denominazione in quella di "Scuola di specializzazione in clinica pediatrica" sono abrogati e sostituiti dai seguenti:  
   
-Scuola di amministrazione industriale  
-(Scuola diretta a fini speciali)  
+Scuola di specializzazione in clinica pediatrica  
   
-Art. 65. - Nella Facolta', di economia e commercio e' istituita una "Scuola di amministrazione industriale" ai sensi dell'[art. 20, terzo comma, lettera a) del testo unico del 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20-com3-leta).  
-La Scuola si propone di formare giovani professionalmente preparati per le carriere amministrative e direttive nelle imprese industriali mercantili.  
-La Scuola conferisce il diploma di amministrazione industriale. I titoli di ammissione alla Scuola sono gli stessi richiesti per l' ammissione alla Facolta' di economia e commercio.  
-Art. 66. - La Scuola ha sede presso l'Universita' degli studi di Torino e gode di autonomia amministrativa, finanziaria e didattica.  
-La Scuola ha un proprio bilancio, che viene approvato dal Consiglio di amministrazione della Scuola e allegato al bilancio universitario.  
-Art. 67. - La Scuola ha un proprio Consiglio di amministrazione, nominato dal rettore dell'Universita' e' formato:  
-a) dal direttore della Scuola, che lo presiede;  
-b) da due professori di ruolo dell'Universita' e da un libero docente, designati dal Consiglio della Facolta' di economia e commercio;  
-c) da tre rappresentanti degli enti o istituti finanziatori interessati al funzionamento della Scuola e da essi designati.  
-Il Consiglio dura in carica tre anni e i suoi membri sono rieleggibili.  
-Art. 68. - Il Consiglio di amministrazione della Scuola:  
-a) delibera il bilancio preventivo e relative variazioni, e il bilancio consuntivo;  
-b) propone al Consiglio della Facolta' di economia e commercio l'istituzione di nuovi insegnamenti della Scuola in aggiunta o in sostituzione di quelli esistenti, e la modifica o la soppressione di altri;  
-c) approva il regolamento della Scuola e le sue modificazioni; queste ultime su proposta o sentito il Consiglio dei professori;  
-d) esprime il suo parere su tutte le questioni che siano ad esso sottoposte dal Consiglio della Facolta' o dal Consiglio dei professori.  
-Art. 69. - Direttore della Scuola e' il direttore dello Istituto di amministrazione industriale della Facolta' di economia e commercio.  
-Il direttore ha la direzione e la rappresentanza della Scuola e ne assicura la regolarita' e la disciplina.  
-Art. 70. - Il Consiglio dei professori della Scuola e' composto dal direttore che lo presiede, e dai professori della Scuola. Il Consiglio delibera su tutte le questioni di natura didattica e disciplinare relative alla Scuola.  
-Il Consiglio della Scuola e' convocato dal direttore.  
-Entro il mese di luglio di ogni anno deve riunirsi per esaminare, coordinare ed approvare i programmi dei corsi per l'anno successivo.  
-Art. 71. - Il personale insegnante della Scuola e' nominato su proposta del Consiglio della Facolta' di economia e commercio, sentito il Consiglio di amministrazione della Scuola per la durata di un anno accademico.  
-Art. 72. - Gli uffici di amministrazione e di segreteria dell'Universita' funzionano da uffici di amministrazione e di segreteria della Scuola.  
-Art. 73. - L'anno finanziario inizia il 1 novembre.  
-Il bilancio preventivo della Scuola viene deliberato dal Consiglio di amministrazione entro il mese di luglio di ogni anno.  
-Art. 74. - I proventi della Scuola sono costituiti dalle tasse scolastiche, dagli eventuali contributi dello Stato, di Enti pubblici e di privati, dai lasciti, dalle donazioni e dai relativi redditi.  
-Le tasse, le sopratasse e i contributi sono quelli in vigore nella Universita' di Torino per la Facolta' di economia e commercio. Le disposizioni sulle tasse di laurea si applicano al diploma conferito dalla Scuola.  
-I proventi sono destinati a coprire:  
-a) la spesa per stipendi ed assegni al personale insegnante assistente, tecnico e d'ordine della Scuola;  
-b) la spesa per stipendi al personale insegnante, assistente tecnico e d'ordine, incaricato per il corso biennale di laurea in Amministrazione industriale, quando sia istituito;  
-c) la quota spese da versare al bilancio universitario per l'uso dei locali e per i servizi amministrativi, di segreteria e generali;  
-d) la concessione agli studenti meritevoli e di condizioni economiche non agiate, regolarmente iscritti alla Scuola dell'assistenza scolastica sotto forma di borse, premi ed assegni di studio;  
-e) le altre spese competenti direttamente alla Scuola.  
-Gli eventuali avanzi di esercizio saranno destinati ad un fondo da servire, anche mediante la corresponsione di contributi ad enti e fondazioni per l'acquisto, la costruzione, l'attrezzatura e l'esercizio, di un collegio universitario riservato a studenti iscritti presso l'Universita' di Torino al corso di diploma in Amministrazione industriale.  
-Art. 75. - Il corso di diploma ha la durata di due anni.  
-I singoli insegnamenti possono svolgersi lungo l'intero anno accademico o su un solo semestre. Il regolamento della Scuola (art. 68, lettera c) dovra' determinare l'epoca iniziale e finale dei corsi annuali e semestrali.  
-Art. 76. - Su domanda motivata dell'allievo o di ufficio, l'allievo puo' essere messo fuori corso per uno o piu' semestri, secondo quanto e' giudicato necessario.  
-Il prolungamento ha il fine di consentire a chi non abbia potuto seguire una o piu' materie del corso ne' superare gli esami relativi nel tempo prescritto, di rimettersi al corrente.  
-La durata del periodo fuori corso, salvo motivi da vagliarsi caso per caso dal Consiglio dei professori, non puo' superare complessivamente la durata regolamentare del corso.  
-Salvo gravi motivi, da vagliarsi come detto al precedente capoverso, gli allievi che beneficiano di una borsa di studio o comunque dell'assistenza scolastica e gli allievi ammessi all'esenzione totale o parziale dalle tasse decadono dal beneficio ove siano messi fuori corso.  
-Art. 77. - Il corso della Scuola puo' essere seguito in uno dei seguenti indirizzi:  
-Finanza e controllo;  
-Organizzazione amministrativa;  
-Mercatistica.  
-Art. 78. - Sono materie fondamentali di insegnamento per tutti gli indirizzi:  
-Diritto privato;  
-Statistica metodologica;  
-Matematica generale I (corso semestrale);  
-Matematica generale II (corso semestrale);  
-Ragioneria generale (corso semestrale);  
-Economia dell'impresa;  
-Tecnica industriale e commerciale I; organizzazione della produzione;  
-Problematica generale amministrativa.  
-Sono materie fondamentali per l'indirizzo Finanza e controllo:  
-Ragioneria industriale (corso semestrale);  
-Tecnica industriale e commerciale II: amministrazione finanziaria;  
-Tecnica industriale e commerciale III: programmazione e controllo;  
-Legislazione pratica tributaria (corso semestrale).  
-Sono materie fondamentali per l'indirizzo Organizzazione amministrativa:  
-Psicologia e sociologia del lavoro;  
-Organica;  
-Diritto del lavoro e della previdenza sociale (corso semestrale);  
-Elementi di pubblica amministrazione (corso semestrale).  
-Sono materie fondamentali per l'indirizzo Mercatistica:  
-Statistica demografica ed economica;  
-Mercatistica e ricerche di mercato;  
-Tecnica del commercio internazionale.  
-Per essere ammesso all'esame di diploma lo studente deve aver seguito i corsi e superato gli esami negli insegnamenti fondamentali comuni ed in quelli dell'indirizzo prescelto, nonche' in almeno due altri insegnamenti da lui scelti fra i complementari o fra gli insegnamenti ufficiali del corso di laurea in economia e commercio.  
-Sono insegnamenti complementari:  
-Macchine per l'elaborazione delle informazioni;  
-Psicologia e tecnica delle relazioni pubbliche.  
-La conoscenza pratica di due lingue straniere (fra le quali l'inglese) e' richiesta per l'indirizzo di Mercatistica e dovra' venire comprovata con una prova scritta ed una orale per ciascuna lingua, alla fine del biennio.  
-Art. 79. - Gli esami si svolgono normalmente in due sessioni: la prima nella prima quindicina di luglio e la seconda nella seconda quindicina di ottobre.  
-Una terza sessione da tenersi nel mese di marzo e' limitata agli esami di corsi semestrali svolti nel primo semestre dell'anno.  
-Art. 80. - L'esame finale di diploma consiste nella preparazione e nella discussione di una dissertazione scritta su di un argomento scelto, impostato e' svolto in modo da dimostrare l'attitudine e la capacita' del candidato ad applicare ad una problematica concreta le conoscenze e i metodi studiati. La discussione ha luogo davanti ad una Commissione nominata dal direttore e formata dallo stesso, che la presiede, da almeno quattro membri del Consiglio dei professori della Scuola, da un rappresentante della Facolta' di economia e commercio e da uno del Consiglio di amministrazione della Scuola.  
-Art. 81. - Per quanto non espressamente previsto dalle precedenti disposizioni, si applicano le norme vigenti per l'insegnamento universitario.  
+Art. 170. - L'ammissione al corso e' per esami e per titoli.  
+La durata del corso e' triennale.  
+Il numero di iscritti e' di venticinque per ogni anno di corso.  
+L'internato e' obbligatorio con non piu' di due mesi di ferie all'anno.  
+L'iscrizione direttamente al 2° anno del corso puo' essere consentita, a giudizio del consiglio della scuola per i candidati che abbiano conseguito il diploma di specializzazione in puericultura o che abbiano titoli pediatrici.  
+Art. 171. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+Clinica pediatrica (triennale);  
+Patologia pediatrica (biennale);  
+Puericultura (biennale);  
+Semeiotica pediatrica e tecnica diagnostica (biennale);  
+Auxologia normale e patologica (annuale);  
+Psicologia dell'eta' evolutiva (annuale).  
+2° Anno:  
+Clinica pediatrica;  
+Patologia pediatrica;  
+Puericultura;  
+Semeiotica pediatrica e tecnica diagnostica;  
+Terapia pediatrica (annuale);  
+Radiologia pediatrica (annuale);  
+Malattie infettive dell'infanzia (annuale).  
+3° Anno:  
+Clinica pediatrica;  
+Neuropsichiatria ed Igiene mentale dell'infanzia.  
+Le materie fondamentali sopra elencate saranno integrate dai seguenti insegnamenti, (scelti fra quelli facoltativi a giudizio del consiglio della scuola):  
+Chirurgia pediatrica (3° anno);  
+Ortopedia e traumatologia infantile (3° anno);  
+Cardiologia (3° anno);  
+Genetica (1° anno), e da altri eventuali che si potranno stabilire di anno in anno.  
+Art. 172. - Il direttore della scuola puo' disporre che si tengano un certo numero di conferenze su argomenti di interesse pediatrico.  
+Per conseguire il diploma di specializzazione in clinica pediatrica gli iscritti al corso dopo aver superato tutti gli esami ed effettuato la frequenza obbligatoria, dovranno presentare e discutere una dissertazione scritta su un argomento di pediatria.  
+Gli articoli 207, 208 relativi alla "Scuola di specializzazione in chirurgia plastica" sono abrogati e sostituiti dai seguenti:  
   
-Norma transitoria  
+Scuola di specializzazione in chirurgia plastica  
   
-A giudizio del Consiglio del professori puo' essere concessa l'abbreviazione degli studi, con dispensa dalla frequenza e dagli esami di singoli insegnamenti o di anni di corso, e previ eventuali esami integrativi, a coloro che, alla data d'entrata in vigore delle presenti disposizioni, risultino regolarmente iscritti alla preesistente scuola di applicazione di amministrazione di Torino.  
-Gli ex iscritti alla stessa Scuola, che abbiano sostenuto l'esame finale del biennio presso di essa, potranno ottenere il corrispondente diploma della Scuola di amministrazione industriale previa presentazione e discussione della dissertazione gia' elaborata, davanti alla Commissione di diploma di cui all'art. 80.  
+Art. 207. - La durata del corso degli studi della scuola di specializzazione in chirurgia plastica e' di tre anni.  
+a) La scuola fa parte integrante dell'istituto di chirurgia plastica ricostruttiva.  
+b) La scuola e' posta sotto la direzione del titolare della cattedra di chirurgia plastica ricostruttiva, coadiuvato da docenti proposti e particolarmente preparati sulle singole materie di studio.  
+c) Il materiale didattico, oltreche' dei casi clinici, e' anche costituito dalla biblioteca e dalla documentazione raccolta nell'archivio dell'istituto di chirurgia plastica ricostruttiva.  
+d) Il corso si compone di insegnamenti fondamentali e di conferenze su argomenti speciali.  
+e) Durante i tre anni del corso verranno quotidianamente tenute esercitazioni di diagnostica, di tecnica operatoria, di laboratorio od altre di indole pratica.  
+f) La frequenza sia alle lezioni e conferenze che alle esercitazioni teoriche e pratiche e' obbligatoria.  
+g) Il termine di presentazione delle domande di iscrizione alla scuola scade il 5 dicembre di ogni anno.  
+h) L'ammissione alla scuola avviene a seguito di concorso per titoli ed esami.  
+Sono da considerarsi titoli preferenziali, a parita' di risultato dell'esame di ammissione: 1) il voto di laurea in medicina e chirurgia; 2) aver frequentato come studente interno un istituto di chirurgia generale o specialistica; 3) aver svolto la tesi di laurea su argomenti di interesse per la chirurgia plastica; 4) documentazione di eventuali servizi prestati in reparti della specialita'; 5) eventuali pubblicazioni.  
+Il numero massimo complessivo degli iscritti ai tre anni di corso e' di dodici (quattro per anno di corso).  
+Non possono essere accettate domande di iscrizione diretta ad anni successivi al 1°, tranne che nel caso in cui il candidato sia gia' specialista o docente in chirurgia generale, nel qual caso il candidato e' ammesso direttamente al 2° anno.  
+La domanda di iscrizione al 1° anno dovra' essere convalidata dal superamento da parte del candidato d'un esame generale preliminare con prova scritta ed orale, vertente su argomenti elementari d'interesse per il chirurgo plastico e sostenuto alla presenza del direttore e di due altri docenti della scuola di specializzazione.  
+L'esame di ammissione deve espletarsi entro il mese di dicembre.  
+i) Alla fine di ciascun anno scolastico, gli specializzandi, che abbiano ottenuto la firma di frequenza, dovranno sostenere un esame di profitto nelle materie fondamentali, il cui superamento e' condizione necessaria, per l'iscrizione all'anno successivo e, per quelli che sono stati iscritti all'ultimo anno, per poter accedere all'esame di diploma.  
+Le sessioni di esami di profitto sono due per ogni anno, rispettivamente estiva ed autunnale.  
+l) Alla fine del terzo anno del corso, ha luogo l'esame di diploma, consistente nella presentazione e discussione di una dissertazione scritta su argomento di chirurgia plastica, con contributo personale, concordato fra il diplomando ed il direttore della scuola all'inizio del 3° anno. La dissertazione deve essere approvata dal direttore stesso e depositata presso la segreteria almeno quindici giorni prima dell'esame.  
+m) Le commissioni per gli esami di profitto sono costituite dal direttore della scuola e dai docenti delle singole materie di insegnamento.  
+n) La commissione per l'esame di diploma e' composta di sette membri ed e' presieduta dal preside della facolta'. Di essa fanno parte il direttore della scuola di specializzazione in chirurgia plastica ed altri membri scelti dal preside fra i professori ed i liberi docenti dell'Universita' di Torino.  
+Art. 208. - Gli insegnamenti impartiti nella scuola di specializzazione in chirurgia plastica sono i seguenti:  
+1° Anno:  
+a) Patologia generale - annuale (con concetti di patologia secondaria, guarigione delle ferite, trapianti, omoinnesti, conservazione e tipizzazione dei tessuti, traumatologia delle, parti molli, malattia, da ustione).  
+b) Anatomia ed embriologia annuale (con specifico riferimento alla faccia, collo, organi genitali, arti superiori ed inferiori e relative malformazioni congenite).  
+c) Anatomia ed istologia patologica - annuale (con specifico riferimento alla malattia da ustione ed ai tumori cutanei benigni e maligni).  
+d) Anestesiologia e rianimazione - annuale (concetti generali sui principi che suggeriscono l'adozione dei vari metodi e tecniche anestesiologiche).  
+e) Tecnica operatoria e anatomia chirurgica annuale.  
+f) Chirurgia plastica generale (metodologia chirurgica differenziale - triennale).  
+2° Anno:  
+a) Elementi di otorinolaringoiatrica - annuale;  
+b) Elementi di stomatologia - annuale;  
+c) Elementi di ortopedia generale - annuale;  
+d) Dermatologia generale - biennale (con specifico riferimento alle malattie e lesioni possibili di trattamento chirurgico);  
+e) Chirurgia plastica generale - triennale (metodologia chirurgica differenziale).  
+3° Anno:  
+a) Chirurgia plastica generale - triennale (metodologia chirurgica differenziale);  
+b) Chirurgia riparatrice della mano - annuale;  
+c) Anatomia artistica - annuale (con particolare riferimento alla chirurgia riparatrice e correttiva del viso);  
+d) Dermatologia generale - biennale;  
+e) Medicina legale e delle assicurazioni - annuale (con riferimento alle, deformita' anatomiche ed alle menomazioni funzionali di origine traumatica);  
+f) Fisioterapia delle lesioni cutanee (con elementi di criobiologia e di criochirurgia) annuale;  
+Gli articoli 227, 229, 230, 232, 233, 235 relativi alla scuola di specializzazione in endocrinologia sono abrogati e sostituiti dai seguenti, mentre l'art. 228 e' soppresso con il conseguente spostamento della numerazione degli articoli successivi:  
+  
+Scuola di specializzazione in endocrinologia  
+  
+Art. 227. - La scuola ha la durata di tre anni.  
+Art. 228. - Il materiale didattico e' costituito dalle biblioteche e dalla documentazione raccolta nei reparti, laboratori, ambulatori degli istituti di clinica medica generale, patologia speciale medica e di semeiotica medica.  
+Art. 229. - Durante il secondo e terzo anno di corso verranno quotidianamente tenute esercitazioni di clinica endocrinologica, di diagnostica di laboratorio e altre di indole pratica.  
+Art. 231. - Alla fine di ogni anno scolastico gli specializzandi che abbiano ottenuto le firme di frequenza dovranno sostenere un unico esame di profitto sulle materie di insegnamento, il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo, e, per quelli che abbiano frequentato il terzo anno, per poter accedere all'esame di diploma.  
+Art. 232. - Alla fine del terzo anno di corso ha luogo l'esame di diploma, consistente nella presentazione e discussione di una dissertazione scritta su argomenti di ordine endocrinologico (clinico o sperimentale), concordato tra il diplomando e il direttore della scuola all'inizio del terzo anno.  
+La dissertazione deve essere approvata dal direttore stesso e depositata presso la direzione almeno quindici giorni prima degli esami.  
+Art. 234. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+Anatomia ed embriologia degli organi endocrini;  
+Fisiologia endocrina;  
+Biochimica endocrina;  
+Anatomia patologica delle malattie endocrine (biennale);  
+Semeiotica e diagnostica endocrina (biennale).  
+2° Anno:  
+Anatomia patologica delle malattie endocrine (biennale);  
+Semeiotica e diagnostica endocrina (biennale);  
+Eredopatologia endocrina;  
+Patologia speciale e clinica delle malattie endocrine e delle auxopatie (biennale).  
+3° Anno:  
+Patologia speciale clinica delle malattie endocrine e delle auxopatie (biennale);  
+Terapia delle malattie endocrine.  
+Insegnamenti complementari, facoltativi, dei quali almeno uno - a scelta del candidato - sara' materia d'esame, sono: farmacologia endocrina, endocrinologia ostetrica e ginecologica, endocrinologia pediatrica, neuroendocrinologia, tecniche di laboratorio endocrinologiche.  
+Il numero massimo di iscritti per anno e' di otto. La selezione dei candidati viene eseguita mediante esame scritto ed orale di ammissione.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 dicembre 1963
+### Dato a Roma, addi' 22 settembre 1972
 
-SEGNI GUI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 4 gennaio 1964
+Registrato alla Corte dei conti, addi' 28 novembre 1972
 
-Atti del Governo, registro n. 179, foglio n. 29. - VILLA
+Atti del Governo, registro n. 253, foglio n. 81. - CARUSO

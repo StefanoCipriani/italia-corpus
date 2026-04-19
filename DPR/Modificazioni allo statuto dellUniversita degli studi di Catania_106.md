@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1954 n. 1207
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1955 n. 622
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1954 n. 1207
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1955 n. 622
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
@@ -10,13 +10,15 @@ Modificazioni allo statuto dell'Universita' degli studi di Catania.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939 n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con i [regi decreti 16 ottobre 1940 n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-16;1527); [15 aprile 1942, n. 4224](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;4224); [5 settembre 1942 n. 1235](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1235); [24 ottobre 1942, n. 1596, con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1596) [22 ottobre 1946, n. 423 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1946-10-22;423) [20 luglio 1948, n. 1160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-07-20;1160); [30 ottobre 1949, n. 994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;994); [30 ottobre 1949, n. 1167](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1167); [30 ottobre 1950, n. 1305](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1305); [11 aprile 1951, n. 564](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;564); [27 ottobre 1951, n. 1793](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1793); [11 febbraio 1952, n. 366](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-02-11;366); [26 ottobre 1952, n. 4507](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4507); [10 febbraio 1953, n. 544](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;544); [25 giugno 1953, n. 709](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-06-25;709) e [23 marzo 1954, n. 751](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-23;751);
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), e modificato con i [regi decreti 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-16;1527); [15 aprile 1942, n. 424](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;424); [5 settembre 1942, n. 1235](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1235); [24 ottobre 1942, n. 1596, e con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1596) [22 ottobre 1946, n. 423; e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1946-10-22;423) [20 luglio 1948, n. 1160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-07-20;1160); [30 ottobre 1949, n. 994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;994); [30 ottobre 1949, n. 1167](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1167); [30 ottobre 1950, n. 1305](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1305); [11 aprile 1951, n. 564](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;564); [27 ottobre 1951, n. 1793](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1793); [11 febbraio 1952, n. 366](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-02-11;366); [26 ottobre 1952, n. 4507](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4507); [10 febbraio 1953, n. 544](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;544); [25 giugno 1953, n. 709](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-06-25;709); [23 marzo 1954, n. 751](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-23;751), e [26 ottobre 1954, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-26;1207);
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
@@ -30,136 +32,127 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 21. - Le lettere b), c) e d) sono sostituite dalle seguenti:
+Art. 9. - Agli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di:
 
-b) Istituzioni di diritto pubblico per il diritto internazionale e il diritto amministrativo;
+"Politica economica e finanziaria".
 
-c) Matematica generale per la statistica e per la matematica finanziaria;
+Art. 11, relativo al corso di laurea in giurisprudenza. - Agli insegnamenti cui e' propedeutico quello di: "Istituzioni di diritto privato" indicati nella lettera b) va aggiunta la e medicina legale e delle assicurazioni"; agli insegnamenti cui, e' propedeutico quello di "economia politica", indicati nella lett. d) vanno aggiunti quelli di "diritto commerciale" e di "politica economica e finanziaria".
 
-d) Economica politica del primo e secondo anno per la scienza delle finanziario per la politica economica e finanziaria per l'economia e politica agraria, per l'economia dei trasporti e per la storia economica.
+Vengono poi aggiunti i seguenti nuovi commi:
 
-Art. 22. - La lettera b) e' sostituita dalla seguente:
+e) diritto internazionale per il diritto coloniale;
 
-b) nella discussione orale di due argomenti scelti dal candidato in materie insegnate nella Facolta' diverse fra loro e da quella della dissertazione scritta.
+f) diritto penale per la procedura penale e la medicina legale e delle assicurazioni;
 
-L'art. 23 e' sostituito dal seguente:
+g) diritto costituzionale per il diritto amministrativo.
 
-"Alla Facolta' di economia e commercio sono annessi i seguenti Istituti scientifici; ordinati come seminari, ai sensi dell'art. 23 del regolamento generale universitario:
+Art. 14. - Agli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto quello di e scienza delle finanze".
 
-1) Seminario economico;
+Art. 17. - E' modificato come segue:
 
-2) Istituto di geografia;
+Sono dichiarati propedeutici i seguenti insegnamenti: a) istituzioni di diritto privato per il diritto del lavoro e la filosofia del diritto; b) istituzioni di diritto pubblico per il diritto amministrativo, per il diritto costituzionale italiano e comparato, per la contabilita' di Stato e per il diritto del lavoro;
 
-3) Istituto di merceologia.
+c) economia politica per la scienza delle finanze.
 
-I detti Istituti hanno lo scopo di potenziare la cultura specializzata di studenti e di studiosi, addestrandoli all'indagine scientifica mediante corsi di lezioni, esercitazioni pratiche e conferenze, tenute, oltre che dai docenti della Facolta', da illustri cultori italiani e stranieri delle discipline insegnate nella Facolta', e discipline affini, nonche' di contribuire al progresso degli studi con ricerche, pubblicazioni ed altre iniziative che verranno ritenute opportune".
+Art. 26. - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di:
 
-Art. 39. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di: "Semeiotica medica".
+27) Etruscologia ed archeologia italica.
 
-Art. 107. - Il penultimo comma e' sostituito dal seguente:
+Art. 45. - Agli insegnamenti complementari del corso di laurea in chimica (indirizzo organico-biologico) sono aggiunti quelli di:
 
-"Chi ottiene l'abbreviazione del corso e' tenuto a frequentare le materie e le esercitazioni ed a sostenere e superare gli esami speciali che siano eventualmente previsti per gli anni di corso dai quali e' stato dispensato".
+"Fisica nucleare;
 
-Art. 108. - L'ultimo periodo del secondo comma e' sostituito dal seguente:
+Fisica terrestre;
 
-"L'iscritto che non abbia soddisfatto in tutto o in parte agli obblighi suddetti e che non abbia superato gli esami prescritti per ciascun anno di corso non viene ammesso all'anno successivo".
+Spettroscopia".
 
-Dopo l'art. 138, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione delle scuole di specializzazione in radiologia ed in igiene.
+Agli insegnamenti complementari del corso di laurea in chimica (indirizzo inorganico-chimico-fisico) sono aggiunti quelli di:
 
-Scuola di specializzazione in radiologia
+"Fisica nucleare;
 
-Art. 139. - Il corso degli studi della scuola di specializzazione in radiologia ha la durata di tre anni.
+Fisica terrestre".
 
-La scuola non puo' accogliere piu' di quattro allievi per ciascun anno di corso.
+Art. 46. - La disposizione "Le esercitazioni di fisica (biennali) importano l'esame alla fine di ogni anno" e' abrogata.
 
-Art. 140. - Gli insegnamenti impartiti nella Scuola sono:
+Art. 48. - Agli insegnamenti complementari del corso di laurea in fisica sono aggiunti quelli di:
 
-1) Fisica dei raggi X;
+"Fisica nucleare;
 
-2) Tecnica radiologica;
+Fisica terrestre;
 
-3) Anatomia radiografica;
+Onde elettromagnetiche;
 
-4) Anatomia, patologica in rapporto alla radiologia (biennale);
+Calcolo delle probabilita';
 
-5) Semeiotica radiologica e fisica comparata dei diversi organi ed apparati;
+Topologia;
 
-6) Radiobiologia;
+Matematiche superiori;
 
-7) Roentgendiagnostica dello scheletro;
+Teoria delle funzioni".
 
-8) Roentgendiagnostica del sistema nervoso;
+Art. 51. - Agli insegnamenti complementari del corso di laurea in scienze matematiche sono aggiunti quelli di:
 
-9) Roentgendiagnostica dell'apparato digerente;
+"Fisica nucleare;
 
-10) Roentgediagnostica dell'apparato urinario e genitale;
+Onde elettromagnetiche;
 
-11) Roentgenterapia (biennale);
+Calcolo delle probabilita';
 
-12) Radium-terapia,;
+Topologia;
 
-13) Elettro e foto-terapia;
+Matematiche superiori".
 
-14) Illustrazione e trattazione dei casi clinici esaminati radiologicamente (triennale).
+Art. 52. - Vengono soppressi il sesto e l'ultimo comma.
 
-Scuola di specializzazione in igiene
+Art. 54. - Agli insegnamenti complementari del corso di laurea in matematica e fisica sono aggiunti quelli di:
 
-Art. 141. - Il corso degli studi della scuola di specializzazione in igiene ha la durata di tre anni.
+"Fisica nucleare;
 
-La scuola non puo' accogliere piu' di otto allievi per ciascun anno di corso.
+Fisica terrestre;
 
-Art. 142. - Gli insegnamenti impartiti nella scuola sono:
+Spettroscopia;
 
-1) Igiene generale (suolo, aria, acqua);
+Onde elettromagnetiche;
 
-2) Patologia e clinica delle malattie da infezione, da intossicazione, da carenza;
+Calcolo delle probabilita';
 
-3) Microscopia applicata all'igiene (microbiologia e parassitologia);
+Topologia;
 
-4) Chimica e fisica applicata all'igiene;
+Matematiche superiori".
 
-5) Igiene scolastica, ospitaliera, del lavoro, rurale;
+Art. 55. - Vengono soppressi il quinto e l'ultimo comma.
 
-6) Medicina engeneticogeriatrica, igiene individuale, infantile, dietologica;
+Art. 57. - Agli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti quelli di:
 
-7) Etiologia, epidemiologia profilassi delle malattie infettivo-contagiose, immunoprofilassi, parassitologia;
+"Genetica;
 
-8) Legislazione sanitaria, polizia sanitaria, demografia;
-
-9) Climatologia, l'igiene nell'urbanistica, nelle costruzioni delle abitazioni urbane e rurali, delle scuole, ospedali, industrie;
-
-10) Statistica sanitaria ragionata;
-
-11) Vigilanza igienica sul suolo e sull'abitato, sugli alimenti e sulle bevande;
-
-12) Malattie sociali;
-
-13) Malattie del lavoro.
+Biologia marina".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Dogliani, addi' 26 ottobre 1954
+Dato a Roma, addi' 11 aprile 1955
 
 EINAUDI
 
 ERMINI
 
-Visto, il Guardasigilli: DE PIETRO
+Visto, il Guardasigilli DE PIETRO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 30 dicembre 1954 Atti del Governo, registro n. 87, foglio n. 116. - CARLOMAGNO
+alla Corte dei conti, addi' 1 agosto 1955 Atti del Governo, registro n. 92, foglio n. 5. - CARLOMAGNO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939 n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con i [regi decreti 16 ottobre 1940 n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-16;1527); [15 aprile 1942, n. 4224](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;4224); [5 settembre 1942 n. 1235](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1235); [24 ottobre 1942, n. 1596, con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1596) [22 ottobre 1946, n. 423 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1946-10-22;423) [20 luglio 1948, n. 1160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-07-20;1160); [30 ottobre 1949, n. 994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;994); [30 ottobre 1949, n. 1167](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1167); [30 ottobre 1950, n. 1305](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1305); [11 aprile 1951, n. 564](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;564); [27 ottobre 1951, n. 1793](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1793); [11 febbraio 1952, n. 366](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-02-11;366); [26 ottobre 1952, n. 4507](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4507); [10 febbraio 1953, n. 544](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;544); [25 giugno 1953, n. 709](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-06-25;709) e [23 marzo 1954, n. 751](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-23;751);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), e modificato con i [regi decreti 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-16;1527); [15 aprile 1942, n. 424](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;424); [5 settembre 1942, n. 1235](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1235); [24 ottobre 1942, n. 1596, e con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1596) [22 ottobre 1946, n. 423; e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1946-10-22;423) [20 luglio 1948, n. 1160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-07-20;1160); [30 ottobre 1949, n. 994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;994); [30 ottobre 1949, n. 1167](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1167); [30 ottobre 1950, n. 1305](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1305); [11 aprile 1951, n. 564](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;564); [27 ottobre 1951, n. 1793](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1793); [11 febbraio 1952, n. 366](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-02-11;366); [26 ottobre 1952, n. 4507](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4507); [10 febbraio 1953, n. 544](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;544); [25 giugno 1953, n. 709](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-06-25;709); [23 marzo 1954, n. 751](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-23;751), e [26 ottobre 1954, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-26;1207);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -168,75 +161,65 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 21. - Le lettere b), c) e d) sono sostituite dalle seguenti:  
-b) Istituzioni di diritto pubblico per il diritto internazionale e il diritto amministrativo;  
-c) Matematica generale per la statistica e per la matematica finanziaria;  
-d) Economica politica del primo e secondo anno per la scienza delle finanziario per la politica economica e finanziaria per l'economia e politica agraria, per l'economia dei trasporti e per la storia economica.  
-Art. 22. - La lettera b) e' sostituita dalla seguente:  
-b) nella discussione orale di due argomenti scelti dal candidato in materie insegnate nella Facolta' diverse fra loro e da quella della dissertazione scritta.  
-L'art. 23 e' sostituito dal seguente:  
-"Alla Facolta' di economia e commercio sono annessi i seguenti Istituti scientifici; ordinati come seminari, ai sensi dell'art. 23 del regolamento generale universitario:  
-1) Seminario economico;  
-2) Istituto di geografia;  
-3) Istituto di merceologia.  
-I detti Istituti hanno lo scopo di potenziare la cultura specializzata di studenti e di studiosi, addestrandoli all'indagine scientifica mediante corsi di lezioni, esercitazioni pratiche e conferenze, tenute, oltre che dai docenti della Facolta', da illustri cultori italiani e stranieri delle discipline insegnate nella Facolta', e discipline affini, nonche' di contribuire al progresso degli studi con ricerche, pubblicazioni ed altre iniziative che verranno ritenute opportune".  
-Art. 39. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di: "Semeiotica medica".  
-Art. 107. - Il penultimo comma e' sostituito dal seguente:  
-"Chi ottiene l'abbreviazione del corso e' tenuto a frequentare le materie e le esercitazioni ed a sostenere e superare gli esami speciali che siano eventualmente previsti per gli anni di corso dai quali e' stato dispensato".  
-Art. 108. - L'ultimo periodo del secondo comma e' sostituito dal seguente:  
-"L'iscritto che non abbia soddisfatto in tutto o in parte agli obblighi suddetti e che non abbia superato gli esami prescritti per ciascun anno di corso non viene ammesso all'anno successivo".  
-Dopo l'art. 138, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione delle scuole di specializzazione in radiologia ed in igiene.  
-  
-Scuola di specializzazione in radiologia  
-  
-Art. 139. - Il corso degli studi della scuola di specializzazione in radiologia ha la durata di tre anni.  
-La scuola non puo' accogliere piu' di quattro allievi per ciascun anno di corso.  
-Art. 140. - Gli insegnamenti impartiti nella Scuola sono:  
-1) Fisica dei raggi X;  
-2) Tecnica radiologica;  
-3) Anatomia radiografica;  
-4) Anatomia, patologica in rapporto alla radiologia (biennale);  
-5) Semeiotica radiologica e fisica comparata dei diversi organi ed apparati;  
-6) Radiobiologia;  
-7) Roentgendiagnostica dello scheletro;  
-8) Roentgendiagnostica del sistema nervoso;  
-9) Roentgendiagnostica dell'apparato digerente;  
-10) Roentgediagnostica dell'apparato urinario e genitale;  
-11) Roentgenterapia (biennale);  
-12) Radium-terapia,;  
-13) Elettro e foto-terapia;  
-14) Illustrazione e trattazione dei casi clinici esaminati radiologicamente (triennale).  
-  
-Scuola di specializzazione in igiene  
-  
-Art. 141. - Il corso degli studi della scuola di specializzazione in igiene ha la durata di tre anni.  
-La scuola non puo' accogliere piu' di otto allievi per ciascun anno di corso.  
-Art. 142. - Gli insegnamenti impartiti nella scuola sono:  
-1) Igiene generale (suolo, aria, acqua);  
-2) Patologia e clinica delle malattie da infezione, da intossicazione, da carenza;  
-3) Microscopia applicata all'igiene (microbiologia e parassitologia);  
-4) Chimica e fisica applicata all'igiene;  
-5) Igiene scolastica, ospitaliera, del lavoro, rurale;  
-6) Medicina engeneticogeriatrica, igiene individuale, infantile, dietologica;  
-7) Etiologia, epidemiologia profilassi delle malattie infettivo-contagiose, immunoprofilassi, parassitologia;  
-8) Legislazione sanitaria, polizia sanitaria, demografia;  
-9) Climatologia, l'igiene nell'urbanistica, nelle costruzioni delle abitazioni urbane e rurali, delle scuole, ospedali, industrie;  
-10) Statistica sanitaria ragionata;  
-11) Vigilanza igienica sul suolo e sull'abitato, sugli alimenti e sulle bevande;  
-12) Malattie sociali;  
-13) Malattie del lavoro.  
+Art. 9. - Agli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di:  
+"Politica economica e finanziaria".  
+Art. 11, relativo al corso di laurea in giurisprudenza. - Agli insegnamenti cui e' propedeutico quello di: "Istituzioni di diritto privato" indicati nella lettera b) va aggiunta la e medicina legale e delle assicurazioni"; agli insegnamenti cui, e' propedeutico quello di "economia politica", indicati nella lett. d) vanno aggiunti quelli di "diritto commerciale" e di "politica economica e finanziaria".  
+Vengono poi aggiunti i seguenti nuovi commi:  
+e) diritto internazionale per il diritto coloniale;  
+f) diritto penale per la procedura penale e la medicina legale e delle assicurazioni;  
+g) diritto costituzionale per il diritto amministrativo.  
+Art. 14. - Agli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto quello di e scienza delle finanze".  
+Art. 17. - E' modificato come segue:  
+Sono dichiarati propedeutici i seguenti insegnamenti: a) istituzioni di diritto privato per il diritto del lavoro e la filosofia del diritto; b) istituzioni di diritto pubblico per il diritto amministrativo, per il diritto costituzionale italiano e comparato, per la contabilita' di Stato e per il diritto del lavoro;  
+c) economia politica per la scienza delle finanze.  
+Art. 26. - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di:  
+27) Etruscologia ed archeologia italica.  
+Art. 45. - Agli insegnamenti complementari del corso di laurea in chimica (indirizzo organico-biologico) sono aggiunti quelli di:  
+"Fisica nucleare;  
+Fisica terrestre;  
+Spettroscopia".  
+Agli insegnamenti complementari del corso di laurea in chimica (indirizzo inorganico-chimico-fisico) sono aggiunti quelli di:  
+"Fisica nucleare;  
+Fisica terrestre".  
+Art. 46. - La disposizione "Le esercitazioni di fisica (biennali) importano l'esame alla fine di ogni anno" e' abrogata.  
+Art. 48. - Agli insegnamenti complementari del corso di laurea in fisica sono aggiunti quelli di:  
+"Fisica nucleare;  
+Fisica terrestre;  
+Onde elettromagnetiche;  
+Calcolo delle probabilita';  
+Topologia;  
+Matematiche superiori;  
+Teoria delle funzioni".  
+Art. 51. - Agli insegnamenti complementari del corso di laurea in scienze matematiche sono aggiunti quelli di:  
+"Fisica nucleare;  
+Onde elettromagnetiche;  
+Calcolo delle probabilita';  
+Topologia;  
+Matematiche superiori".  
+Art. 52. - Vengono soppressi il sesto e l'ultimo comma.  
+Art. 54. - Agli insegnamenti complementari del corso di laurea in matematica e fisica sono aggiunti quelli di:  
+"Fisica nucleare;  
+Fisica terrestre;  
+Spettroscopia;  
+Onde elettromagnetiche;  
+Calcolo delle probabilita';  
+Topologia;  
+Matematiche superiori".  
+Art. 55. - Vengono soppressi il quinto e l'ultimo comma.  
+Art. 57. - Agli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti quelli di:  
+"Genetica;  
+Biologia marina".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Dogliani, addi' 26 ottobre 1954
+### Dato a Roma, addi' 11 aprile 1955
 
 EINAUDI ERMINI
 
-Visto, il Guardasigilli: DE PIETRO
+Visto, il Guardasigilli DE PIETRO
 
-Registrato alla Corte dei conti, addi' 30 dicembre 1954
+Registrato alla Corte dei conti, addi' 1 agosto 1955
 
-Atti del Governo, registro n. 87, foglio n. 116. - CARLOMAGNO
+Atti del Governo, registro n. 92, foglio n. 5. - CARLOMAGNO

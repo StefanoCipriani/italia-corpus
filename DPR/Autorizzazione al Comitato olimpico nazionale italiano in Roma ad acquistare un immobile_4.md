@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 febbraio 1975 n. 233
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 febbraio 1982 n. 160
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 febbraio 1975 n. 233
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 febbraio 1982 n. 160
 ===============================================================
 
 Autorizzazione al Comitato olimpico nazionale italiano, in Roma, ad acquistare un immobile.
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-233. Decreto del Presidente della Repubblica 27 febbraio 1975, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, il Comitato olimpico nazionale italiano (C.O.N.I.), in Roma, viene autorizzato ad acquistare un appartamento in Genova, via Ippolito d'Asti n. 3/5, avente la consistenza catastale di mq 190 circa di superficie, cui si deve aggiungere un terrazzo di mq 58, al prezzo di L. 26.000.000, distinto nel nuovo catasto edilizio urbano di Genova alla partita n. 34368, foglio 107, mappale 108, sub 20, cat.  
-A/1, classe 4 per vani 10, per adibirlo a sede dell'organizzazione periferica dell'ente nella provincia di Genova.  
+160. Decreto del Presidente della Repubblica 23 febbraio 1982, col quale, sulla proposta del Ministro del turismo e dello spettacolo, il Comitato olimpico nazionale italiano (C.O.N.I.), in Roma, viene autorizzato ad acquistare, al prezzo di L. 51.000.000, un appartamento di mq 330 sito in Gorizia, corso Italia, angolo via 24 Maggio n. 2, distinto come Ente 13, iscritto nel C.T.I. della P.T. 5874 di Gorizia p.c. 1399/1, iscritto al nuovo catasto di Gorizia alla partita 2250, di proprieta' dei signori Bruno, Gianfranco e Mauro Bigot, come da atto preliminare di compravendita 3 settembre 1973, registrato a Gorizia in data 7 settembre 1973 al n. 7417, da adibire a sede di uffici del comitato provinciale di Gorizia.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 4 giugno 1975  
-Atti di Governo, registro n. 10, foglio n. 4
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 8 aprile 1982  
+Registro n. 4 Turismo, foglio n. 76

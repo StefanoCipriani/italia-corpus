@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 gennaio 1981 n. 133
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 aprile 1982 n. 500
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 gennaio 1981 n. 133
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 aprile 1982 n. 500
+=============================================================
 
 Autorizzazione all'Associazione volontari italiani del sangue, in Milano, ad accettare un lascito.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-133. Decreto del Presidente della Repubblica 3 gennaio 1981, col quale, sulla proposta del Ministro della sanita', l'Associazione volontari italiani del sangue, in Milano, viene autorizzata ad accettare il lascito, consistente in L. 4.000.000 in obbligazioni ENEL, disposto dalla sig.ra Evangelina Guidotti ved. Ballerini con testamento olografo 1 gennaio 1976, pubblicato in data 16 aprile 1976, n. 1633/31655 di repertorio, a rogito dott.ssa Giuseppina Porro, notaio in Cremona.  
+500. Decreto del Presidente della Repubblica 30 aprile 1982, col quale, sulla proposta del Ministro della sanita', l'Associazione volontari italiani del sangue, in Milano, viene autorizzata ad accettare il lascito, consistente in beni mobili del valore di L. 8.000.000, disposto dalla sig.ra Annamaria Paccini con testamento olografo 10 gennaio 1972, pubblicato in data 11 settembre 1978, n. 28983/8246 di repertorio, a rogito dott. Almerico Vegezzi, notaio in Piacenza, registrato a Piacenza in data 20 settembre 1978 al n. 5609.  
   
-Visto, il Guardasigilli: SARTI  
-Registrato alla Corte dei conti, addi' 2 aprile 1981  
-Registro n. 3 Sanita', foglio n. 23
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 26 luglio 1982  
+Registro n. 5 Sanita', foglio n. 216

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 aprile 1959 n. 387
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 giugno 1961 n. 583
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 aprile 1959 n. 387
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 giugno 1961 n. 583
 =============================================================
 
 Immissione alla vendita di un nuovo tipo di pietrine focaie.
@@ -18,6 +18,8 @@ Visto il [decreto del Presidente della Repubblica 1 dicembre 1952, n. 3333](http
 
 Visto il [decreto del Presidente della Repubblica 18 aprile 1959, n. 167](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-04-18;167);
 
+Visto il [decreto del Presidente della Repubblica 20 aprile 1959, n. 387](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-04-20;387);
+
 Sentito il Consiglio dei Ministri;
 
 Sulla
@@ -29,25 +31,25 @@ Art. 1
 ------
 
   
-E' immesso alla vendita un nuovo tipo di pietrine focaie cilindriche, di mm. 2,4 di diametro per mm. 5 di lunghezza (tipo A ter).  
-Il diritto fisso dovuto all'Erario, sopra ognuna di dette pietrine focaie, a partire dalla data di pubblicazione del presente decreto nella Gazzetta Ufficiale della Repubblica, e' stabilito nella misura di Lit. 25 (venticinque), ferme rimanendo le altre quote di cui alla, tab. H del [decreto del Presidente della Repubblica 18 aprile 1959, n. 167](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-04-18;167).  
+E' immesso alla vendita un nuovo tipo di pietrine focaie cilindriche, di mm. 2,6 di diametro per mm. 4 di lunghezza (tipo A quater).  
+Il diritto fisso dovuto all'Erario, sopra ognuna di dette pietrine focaie a partire dalla data di pubblicazione del presente decreto nella Gazzetta Ufficiale della Repubblica, e' stabilito nella misura di L. 25 (venticinque), terme rimanendo le altre quote di cui alla Tabella H del [decreto del Presidente della Repubblica 18 aprile 1959, n. 167](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-04-18;167).  
 
 Art. 2
 ------
 
   
-Il prezzo di vendita al pubblico del suddetto tipo di pietrine focaie e' stabilito in Lit. 30 (trenta) per ogni pietrina.  
+Il prezzo di vendita al pubblico del suddetto tipo di pietrine focaie e' stabilito in L. 30 (trenta) per ogni pietrina.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 aprile 1959
+### Dato a Roma, addi' 14 giugno 1961
 
-GRONCHI SEGNI - TAVIANI
+GRONCHI FANFANI - TRABUCCHI
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 17 giugno 1959
+Registrato alla Corte dei conti, addi' 17 luglio 1961
 
-Atti del Governo, registro n. 119, foglio n. 23. - VILLA
+Atti del Governo, registro n. 137, foglio n. 132. - VILLA

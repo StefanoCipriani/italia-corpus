@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1986 n. 214
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 385
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1986 n. 214
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 385
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
@@ -33,22 +33,22 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' di Firenze, approvato e modificato con i decreti soprindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-  
-Nell'art. 65, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:   
-igiene mentale e psichiatria sociale;   
-patologia embrio-fetale.   
+Nell'art. 50, relativo al corso di laurea in filosofia della facolta' di lettere e filosofia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
+storia delle dottrine sociali;  
+ermeneutica filosofica;  
+didattica della filosofia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 gennaio 1986
+### Dato a Roma, addi' 9 aprile 1986
 
 COSSIGA
 
@@ -56,6 +56,6 @@ FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 28 aprile 1986
+Registrato alla Corte dei conti, addi' 8 luglio 1986
 
-Registro n. 33 Istruzione, foglio n. 58
+Registro n. 54 Istruzione, foglio n. 343

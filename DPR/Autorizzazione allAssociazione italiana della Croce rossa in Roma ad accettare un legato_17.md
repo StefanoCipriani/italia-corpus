@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 luglio 1981 n. 1052
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 agosto 1977 n. 1249
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 luglio 1981 n. 1052
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 agosto 1977 n. 1249
 ==============================================================
 
 Autorizzazione all'Associazione italiana della Croce rossa, in Roma, ad accettare un legato.
@@ -12,9 +12,9 @@ Art. 1
 
 N.
 
-1052. Decreto del Presidente della Repubblica 23 luglio 1981, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare il legato, consistente in L. 100.000, disposto dal sig. Alfredo Pittaluga con testamento olografo 15 dicembre 1972, pubblicato in data 10 novembre 1976, n. 5094/2593 di repertorio, a rogito dott.  
-Tosco Salvatori, notaio in Genova, registrato a Genova in data 2 dicembre 1976 al n. 19821/15169.  
+1249. Decreto del Presidente della Repubblica 24 agosto 1977, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Maria Podesta' con testamento olografo pubblicato a rogito dott. Almerico Vegezzi, notaio in Piacenza, il 3 gennaio 1974, n. 16911 di repertorio, consistente in un complesso immobiliare sito in Piacenza, via Vincenzo Porri n. 14, censito nel nuovo catasto edilizio urbano alla partita n. 7410, foglio 69, mappale 890, cat. A/ 7, classe 2ª, vani 9,5, R.C. L. 3.306; foglio 69, mappale 518/5, cat. C/ 6, classe 7ª, mq 14, R.C.  
+L. 224, costituito da un villino edificato nel periodo 1 aprile 1959-23 marzo 1960 su di un'area della superficie di mq 560, indicata nel catasto terreni al foglio 69 con il mappale 189 di are 5,60 e R.D. lire 78,40, e di una rimessa ad essa annessa.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 2 marzo 1982  
-Registro n. 2 Sanita', foglio n. 36
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 25 luglio 1978  
+Registro n. 5 Sanita', foglio n. 152

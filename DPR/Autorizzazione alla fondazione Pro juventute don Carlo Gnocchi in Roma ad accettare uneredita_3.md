@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1974 n. 263
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 giugno 1985 n. 466
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1974 n. 263
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 giugno 1985 n. 466
 =============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un'eredita'.
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-263. Decreto del Presidente della Repubblica 21 maggio 1974, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in beni mobili (denaro e titoli di credito) ed immobili (villino con terreno in Gallicano del valore presunto di L. 14.197.357), disposta dal sig. Alberto Bagnoli con testamento olografo del 15 maggio 1968, pubblicato a rogito del notaio avv.  
-Pietro Fea in data 20 ottobre 1972 (n. 547661 di repertorio, n. 11306 di raccolta), registrato a Roma il 6 novembre 1972 (n. 21028 vol. 2581).  
+466. Decreto del Presidente della Repubblica 17 giugno 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in un appartamento sito in Cinisello Balsamo (Milano), via Sardegna n. 8/1, distinto al nuovo catasto edilizio urbano alla partita 8378, foglio 45, mappale 277 sub 30, del valore attribuito con perizia di parte di L. 9.000.000, elevato dall'ufficio tecnico erariale di Milano a L. 34.000.000, e in beni mobili come da inventario per L. 16.459.754, totale lire 50.451.754 - passivita' L. 1.165.000, restano lire 49.294.754, disposta dalla sig.ra Martinetti Maria a favore della fondazione "Don Gnocchi", che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale 20 novembre 1981 del consiglio di amministrazione della fondazione stessa, con testamento olografo 10 luglio 1978, pubblicato in data 16 gennaio 1981, n. 4435 di repertorio e n. 733 di raccolta, a rogito dott. Brambilla Ulderico, notaio in Milano, registrato a Milano il 29 gennaio 1981 al n. 2236.  
   
-Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 2 luglio 1974  
-Atti di Governo, registro n. 4, foglio n. 37. - SCIARRETTA
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 2 settembre 1985  
+Registro n. 8 Presidenza, foglio n. 158

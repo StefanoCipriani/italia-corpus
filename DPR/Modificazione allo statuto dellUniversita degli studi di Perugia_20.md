@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1983 n. 703
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1985 n. 863
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1983 n. 703
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1985 n. 863
+================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Perugia.
 -------------------------------------------------------------------
@@ -22,11 +22,11 @@ Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?u
 
 Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Perugia e convalidati dal Consiglio universitario nazionale nel suo parere;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta ai sensi della citata legge n. 615;
 
-Sentito il parere del Consiglio universitario nazionale;
+Veduto il parere del Consiglio universitario nazionale;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
@@ -39,19 +39,23 @@ Articolo unico
 --------------
 
   
-Art. 74 - nell'elenco degli insegnamenti complementari relativi al corso di laurea in farmacia, sono soppressi i seguenti insegnamenti: zoologia generale;  
-biologia generale.  
+Nell'art. 17, relativo al corso di laurea in scienze politiche, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
+  
+teoria e tecnica delle comunicazioni di massa;  
+filosofia della politica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 giugno 1983
+### Dato a Roma, addi' 27 settembre 1985
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 14 dicembre 1983
+Registrato alla Corte dei conti, addi' 21 gennaio 1986
 
-Registro n. 76 Istruzione, foglio n. 291
+Registro n. 2 Istruzione, foglio n. 89

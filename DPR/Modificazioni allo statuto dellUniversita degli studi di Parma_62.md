@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1978 n. 885
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 settembre 1979 n. 719
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1978 n. 885
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 settembre 1979 n. 719
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Parma, approvato con [regio decreto 13 ottobre 1927, n. 279](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;279)° e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
@@ -25,60 +25,68 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli da 344 a 353 compreso, relativi all'ordinamento della scuola speciale per ortottiste, che muta, la denominazione in quella di scuola speciale per ortottisti - assistenti di oftalmologia, sono abrogati e sostituiti dai seguenti:  
+Dopo l'art. 353 sono aggiunti i seguenti articoli concernenti l'istituzione della scuola diretta a fini speciali per la preparazione di tecnici di audiometria, presso la facolta' di medicina e chirurgia:  
   
-Scuola speciale per ortottisti - assistenti di oftalmologia  
-Art. 344. - E' istituita presso la facolta' di medicina e chirurgia dell'Universita' di Parma una scuola speciale di preparazione per ortottisti - assistenti di oftalmologia che ha sede presso l'istituto policattedra di oftalmologia.  
-Art. 345. - La scuola ha lo scopo di dare una preparazione completa, teorico-pratica, istruendo gli allievi sui problemi della motilita' oculare, della ambliopia, delle tecniche diagnostiche della visione binoculare, del trattamento pre e post-operatorio dei pazienti strabici; dei problemi sui vizi di refrazione e della loro correzione e sulle tecniche diagnostiche in oftalmologia.  
-La durata del corso per conseguire il diploma di ortottista-assistente in oftalmologia e' di tre anni.  
-Ne sono titoli di ammissione il possesso di un diploma legalmente valido ai fini dell'iscrizione all'Universita' ai sensi dell'[art. 1 della legge n. 910 dell'11 dicembre 1969](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1) e la conoscenza di una lingua straniera (inglese, francese, tedesco, spagnolo).  
-Art. 346. - Gli aspiranti all'iscrizione al primo anno di corso sono tenuti a sostenere un esame di ammissione consistente in una prova di cultura generale e in una prova per la conoscenza della lingua straniera.  
-E' richiesto un certificato di sana e robusta costituzione, con particolare riguardo alla funzione visiva.  
-Art. 347. - Il numero degli iscritti alla scuola e' fissato in dieci allievi per anno di corso.  
-Art. 348. - Il consiglio di facolta' nomina annualmente, a direttore della scuola, un professore di ruolo o fuori ruolo di clinica oculistica.  
-Qualora, per qualsiasi motivo, non sia possibile provvedere secondo quanto stabilito dal comma precedente, il consiglio di facolta' affida la direzione della scuola a un docente che insegna o abbia insegnato nella scuola stessa.  
-Il consiglio della scuola si compone dei professori che vi tengono gli insegnamenti prescritti ed e' presieduto dal direttore.  
-Art. 349. - L'anno accademico ha inizio e termine nelle date stabilite dalle leggi in vigore per l'istruzione universitaria. La frequenza e' obbligatoria.  
-Art. 350. - Il corso comprende lezioni ed esercitazioni pratiche.  
-Le materie di insegnamento sono le seguenti:  
+Scuola di preparazione per tecnici di audiometria  
+(Scuola diretta a fini speciali)  
+  
+Art. 354. - E' istituita ai sensi dell'art. 20 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), una scuola speciale di preparazione per tecnici di audiometria che ha sede presso la clinica otorinolaringoiatrica della Universita'.  
+Art. 355. - La durata del corso degli studi della scuola di preparazione per tecnici di audiometria e' di tre anni. L'indirizzo e' teorico-pratico. Il numero massimo degli iscritti alla scuola e' di quindici (cinque per anno di corso).  
+Art. 356. - Possono essere ammessi alla scuola coloro che siano in possesso del titolo di studio prescritto per l'ammissione all'Universita' o Istituto di istruzione universitaria.  
+Gli aspiranti debbono, nei termini regolamentari, presentare apposita domanda su carta legale diretta al rettore e corredata dei prescritti documenti e sostenere un esame di ammissione che avra' luogo nei giorni stabiliti dal rettore con apposito manifesto.  
+Le domande di iscrizione ad anni successivi al primo vanno presentate nei termini regolamentari.  
+Art. 357. - Alla scuola si accede previo esame di cultura generale su argomenti facenti parte dei normali programmi di licei o degli istituti di istruzione secondaria, con particolare riguardo alla parte dell'insegnamento di fisica acustica. La commissione giudicatrice viene nominata dal preside della facolta' di medicina e chirurgia ed e' composta dal direttore della scuola, presidente, e da due membri scelti fra professori di ruolo, incaricati e liberi docenti.  
+Art. 358. - Il direttore della scuola e' un professore di ruolo degli insegnamenti che afferiscono all'istituto policattedra clinica otorinolaringoiatrica dell'Universita' di Parma.  
+Gli incarichi di insegnamento sono conferiti dal rettore, su proposta del consiglio di facolta' di medicina e chirurgia udito il direttore della scuola.  
+Art. 359. - L'anno accademico ha inizio e termine nelle date stabilite dalle leggi in vigore per la istruzione universitaria. La data di inizio e termine delle lezioni sono di regola eguali a quelle fissate per l'anno accademico. Tali date, tuttavia, possono essere spostate per ragioni speciali inerenti la natura dei corsi.  
+Art. 360. - Le materie di insegnamento sono le seguenti:  
 1° Anno:  
-elementi di anatomia dell'apparato visivo e del S.N.C.;  
-fisiologia dell'occhio, della motilita' oculare, della visione binoculare;  
-ottica fisica e fisiopatologica;  
-ortottica I;  
-psicologia infantile.  
+1) anatomia degli organi e dei sistemi audiofonoarticolatori;  
+2)fisiologia degli organi e dei sistemi audiofonoarticolatori;  
+3) elementi di fisica acustica e tecniche di fonometria;  
+4) psicologia generale;  
+5) elementi di audiologia;  
+6) elementi di fonetica e linguistica.  
 2° Anno:  
-elementi di patologia oculare;  
-elementi di farmacologia oculare;  
-elementi di neurooftalmologia;  
-nozioni di chirurgia ed assistenza oftalmica;  
-ortottica II.  
+1) tecniche audiometriche I;  
+2) Audiometria infantile;  
+3) neuropsichiatria infantile;  
+4) tecnica di esplorazione vestibolare;  
+5) audiometria di massa e prevenzione della sordita'.  
 3° Anno:  
-tecniche semeiologiche dell'apparato visivo I (es. refrazione, contattologia, adattometria, campo visivo, senso cromatico);  
-tecniche semeiologiche ed elettrofisiologiche (tonometria e tonografia; ERG; EOG; EMG; ecografia, retinografia e fluoro-angiografia);  
-ortottica III;  
-nozioni di riabilitazione senso-motoria nell'eta' infantile;  
-legislazione sanitaria.  
-Art. 351. - L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni e dall'obbligo, per gli allievi, dell'internato per l'intero periodo di corso di studi nella clinica oculistica. La frequenza viene comprovata dall'attestazione rilasciata sul libretto di iscrizione dagli insegnanti e per l'attivita' pratica dal direttore della scuola. L'attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.  
-Art. 352. - Alla fine di ogni anno gli allievi devono sostenere un esame sulle materie di insegnamento.  
-Nel caso in cui i candidati non abbiano superato gli esami prescritti, essi rimarranno nella posizione di "ripetenti".  
-Art. 353. - Gli esami di profitto consistono in prove teoriche e pratiche.  
-Art. 354. - Alla fine del corso gli allievi debbono sostenere un esame di diploma che consiste nella discussione di una tesi scritta su un argomento riguardante le materie di insegnamento, assegnata dal direttore della scuola e in una prova pratica stabilita da una commissione esaminatrice.  
-I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola ma se al secondo anno non sia loro riconosciuta l'idoneita' saranno senz'altro esclusi da ulteriori prove.  
-Art. 355. - Gli esami di profitto e di diploma si danno in due sessioni, la prima estiva che ha inizio subito dopo la chiusura annuale dei corsi e la seconda autunnale, nel mese che precede l'inizio del nuovo anno accademico.  
-Art. 356. - Le commissioni per gli esami di ammissione, di profitto e di diploma, sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Le commissioni per gli esami di ammissione sono composte da tre membri: direttore della scuola, presidente, e da due insegnanti della scuola stessa. Le commissioni per gli esami di profitto e di diploma sono costituite secondo quanto previsto dalle norme generali dello statuto riguardanti le scuole di specialita' della facolta' di medicina.  
-Art. 357. - Al funzionamento della suddetta scuola si provvedera' con il provento delle tasse, soprattasse e contributi dovuti dagli iscritti e con eventuali elargizioni o contributi di enti pubblici o privati.  
+1) tecniche audiometriche II;  
+2) patologia dell'udito, del linguaggio e dell'organo dell'equilibrio;  
+3) tecniche di protesizzazione acustica;  
+4) tecniche di audiometria obiettiva;  
+5) elementi di logopedia.  
+Art. 361. - L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni e dall'obbligo per gli allievi della frequenza per un periodo di due anni nel reparto di audiologia della clinica otorinolaringoiatrica.  
+La frequenza viene comprovata dall'attestazione rilasciata dagli insegnanti sul libretto di iscrizione.  
+L'attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.  
+Art. 362. - Le commissioni per gli esami di profitto e di diploma sono nominate dal preside della facolta' di medicina e chirurgia, su proposta del direttore della scuola.  
+Le commissioni per gli esami di profitto sono composte di tre membri: il direttore della scuola, presidente, e da due insegnanti della scuola stessa.  
+La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente, e da quattro insegnanti della scuola stessa o da altri docenti.  
+Ogni commissario ha a sua disposizione dieci punti.  
+L'esame di diploma consiste, a scelta del candidato, o nella discussione di una tesi scritta su argomento riguardante le materie d'insegnamento, eventualmente integrata da una prova pratica stabilita dalla commissione esaminatrice, o in un esame generale teorico-pratico.  
+I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola, ma, se al secondo anno non sia loro riconosciuta la idoneita', sono senz'altro esclusi da ulteriori prove.  
+Agli allievi che superano l'esame finale viene rilasciato il diploma di tecnico in audiometria.  
+Art. 363. - Per essere ammessi a frequentare gli anni di corso successivi al primo, gli iscritti debbono aver superato gli esami dell'anno precedente. Alla fine del terzo anno di corso, per essere ammessi all'esame di diploma, gli iscritti debbono aver superato tutti gli esami prescritti.  
+Art. 364. - Gli esami di profitto e di diploma si danno in due sessioni, la prima, estiva, ha inizio subito dopo la chiusura annuale dei corsi e la seconda, autunnale, un mese innanzi il principio del nuovo anno accademico.  
+Art. 365. - Il consiglio di amministrazione dell'Universita', su proposta della direzione della scuola, approvata dal consiglio di facolta', stabilira' di anno in anno l'ammontare dei contributi.  
+Le tasse e soprattasse annuali a carico degli iscritti restano cosi' destinate:  
+  
+tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 10.000 soprattassa annuale di esami . . . . . . . . . . . . . . . . L. 5.000 tassa erariale di diploma. . . . . . . . . . . . . . . . . . L. 6.000 tassa annuale di iscrizione per studenti fuori corso . . . . L. 3.000   
+Art. 366. - Al funzionamento della suddetta scuola si provvede con il provento delle tasse, soprattasse e contributi dovuti dagli iscritti e con eventuali elargizioni o contributi di enti pubblici o di privati.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 ottobre 1978
+### Dato a Roma, addi' 15 settembre 1979
 
-PERTINI PEDINI
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 28 dicembre 1978
+Registrato alla Corte dei conti, addi' 16 gennaio 1980
 
-Registro n. 135 Istruzione, foglio n. 301
+Registro n. 2 Istruzione, foglio n. 98

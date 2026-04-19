@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1971 n. 457
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 settembre 1968 n. 1093
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1971 n. 457
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 settembre 1968 n. 1093
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
@@ -18,8 +18,6 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
@@ -32,28 +30,76 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 13. - All'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti i seguenti:
+Dopo l'art. 141 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi all'istituzione presso la facolta' di medicina e chirurgia della scuola di specializzazione in anestesiologia e rianimazione.
 
-Diritto tributario;
+Scuola di specializzazione in anestesiologia e rianimazione
 
-Diritto fallimentare.
+Art. 142. - La scuola di specializzazione in anestesiologia e rianimazione ha sede presso l'istituto di patologia speciale chirurgica e propedeutica clinica dell'Universita' di Messina ed e' retta secondo le norme del regolamento generale per le scuole di specializzazione della facolta' di medicina e chirurgia di cui agli articoli 73 e seguenti.
 
-Art. 69. - All'elenco degli istituti annessi alla facolta' di medicina veterinaria e' aggiunto quello di "biochimica".
+Art. 143. - Il corso degli studi avra' la durata di tre anni e comprendera' le seguenti materie di insegnamento integrate da esercitazioni di pratica specialistica clinica.
+
+Art. 144. - L'obbligo della frequenza ai corsi e' categorico e gli iscritti sono tenuti non soltanto a presenziare alle lezioni ed a prendere parte alle esercitazioni, ma anche a svolgere un internato in modo da poter ricavare una esperienza diretta sia dell'attivita' nei reparti operatori che dall'osservazione clinica continuata del paziente.
+
+Art. 145. - In vista del carattere prevalentemente clinico degli insegnamenti e della necessita' di un periodo sufficientemente lungo di esercitazioni pratiche non sono concesse abbreviazioni di corso ad eccezione dei candidati che, gia' in possesso del diploma di specializzazione in anestesiologia, possono essere ammessi al terzo anno per ottenere la specializzazione in anestesiologia e rianimazione.
+
+Art. 146. - Per accedere ai corsi successivi e' obbligatorio il superamento di tutti gli esami del corso precedente, ivi comprese le materie biennali.
+
+Art. 147. - Gli esami possono aver luogo solamente in due sessioni annuali, una estiva ed una autunnale, e comunque non oltre il 30 novembre dell'anno in corso.
+
+Art. 148. - Il numero degli iscritti da ammettere complessivamente per i tre anni alla scuola e' di 18 specializzandi (sei per ogni anno di corso).
+
+Art. 149. - I corsi di insegnamento si uniformeranno al calendario dell'universita'; per quanto riguarda invece le esercitazioni ed i servizi interni, l'attivita' della scuola si estendera' all'intero anno solare.
+
+Art. 150. - Il diploma di specialista di anestesiologia e rianimazione viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinica e sperimentale.
+
+Materie d'insegnamento
+
+1° Anno:
+
+Anatomia, biochimica, farmacologia, fisica, fisiologia applicata alla anestesiologia e rianimazione;
+
+Anestesiologia;
+
+Tecniche chirurgiche di interesse anestesiologico;
+
+Aspetti medico-legali dell'anestesia e della rianimazione;
+
+Internato.
+
+2° Anno:
+
+Anestesiologia;
+
+Terapia antalgica;
+
+Rianimazione;
+
+Internato.
+
+3° Anno:
+
+Rianimazione;
+
+Tecniche speciali di anestesia e rianimazione;
+
+Indagini diagnostiche attinenti alla specialita';
+
+Internato.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 11 maggio 1971
+Dato a Roma, addi' 11 settembre 1968
 
 SARAGAT
 
-MISASI
+SCAGLIA
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 16 luglio 1971 Atti del Governo, registro n. 243, foglio n. 20. - VALENTINI
+alla Corte dei conti, addi' 22 ottobre 1968 Atti del Governo, registro n. 223, foglio n. 43. - GRECO
 
 Art. 1
 ------
@@ -64,7 +110,6 @@ Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -73,22 +118,50 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 13. - All'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti i seguenti:  
   
-Diritto tributario;  
-Diritto fallimentare.  
-Art. 69. - All'elenco degli istituti annessi alla facolta' di medicina veterinaria e' aggiunto quello di "biochimica".  
+Dopo l'art. 141 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi all'istituzione presso la facolta' di medicina e chirurgia della scuola di specializzazione in anestesiologia e rianimazione.  
+  
+Scuola di specializzazione in anestesiologia e rianimazione  
+  
+Art. 142. - La scuola di specializzazione in anestesiologia e rianimazione ha sede presso l'istituto di patologia speciale chirurgica e propedeutica clinica dell'Universita' di Messina ed e' retta secondo le norme del regolamento generale per le scuole di specializzazione della facolta' di medicina e chirurgia di cui agli articoli 73 e seguenti.  
+Art. 143. - Il corso degli studi avra' la durata di tre anni e comprendera' le seguenti materie di insegnamento integrate da esercitazioni di pratica specialistica clinica.  
+Art. 144. - L'obbligo della frequenza ai corsi e' categorico e gli iscritti sono tenuti non soltanto a presenziare alle lezioni ed a prendere parte alle esercitazioni, ma anche a svolgere un internato in modo da poter ricavare una esperienza diretta sia dell'attivita' nei reparti operatori che dall'osservazione clinica continuata del paziente.  
+Art. 145. - In vista del carattere prevalentemente clinico degli insegnamenti e della necessita' di un periodo sufficientemente lungo di esercitazioni pratiche non sono concesse abbreviazioni di corso ad eccezione dei candidati che, gia' in possesso del diploma di specializzazione in anestesiologia, possono essere ammessi al terzo anno per ottenere la specializzazione in anestesiologia e rianimazione.  
+Art. 146. - Per accedere ai corsi successivi e' obbligatorio il superamento di tutti gli esami del corso precedente, ivi comprese le materie biennali.  
+Art. 147. - Gli esami possono aver luogo solamente in due sessioni annuali, una estiva ed una autunnale, e comunque non oltre il 30 novembre dell'anno in corso.  
+Art. 148. - Il numero degli iscritti da ammettere complessivamente per i tre anni alla scuola e' di 18 specializzandi (sei per ogni anno di corso).  
+Art. 149. - I corsi di insegnamento si uniformeranno al calendario dell'universita'; per quanto riguarda invece le esercitazioni ed i servizi interni, l'attivita' della scuola si estendera' all'intero anno solare.  
+Art. 150. - Il diploma di specialista di anestesiologia e rianimazione viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinica e sperimentale.  
+  
+Materie d'insegnamento  
+  
+1° Anno:  
+Anatomia, biochimica, farmacologia, fisica, fisiologia applicata alla anestesiologia e rianimazione;  
+Anestesiologia;  
+Tecniche chirurgiche di interesse anestesiologico;  
+Aspetti medico-legali dell'anestesia e della rianimazione;  
+Internato.  
+2° Anno:  
+Anestesiologia;  
+Terapia antalgica;  
+Rianimazione;  
+Internato.  
+3° Anno:  
+Rianimazione;  
+Tecniche speciali di anestesia e rianimazione;  
+Indagini diagnostiche attinenti alla specialita';  
+Internato.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 maggio 1971
+### Dato a Roma, addi' 11 settembre 1968
 
-SARAGAT MISASI
+SARAGAT SCAGLIA
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 16 luglio 1971
+Registrato alla Corte dei conti, addi' 22 ottobre 1968
 
-Atti del Governo, registro n. 243, foglio n. 20. - VALENTINI
+Atti del Governo, registro n. 223, foglio n. 43. - GRECO

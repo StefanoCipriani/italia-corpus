@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 ottobre 1985 n. 704
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1984 n. 494
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 ottobre 1985 n. 704
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1984 n. 494
+=============================================================
 
 Assegnazione di due posti di tecnico laureato presso la seconda Universita' degli studi di Roma.
 ------------------------------------------------------------------------------------------------
@@ -12,11 +12,8 @@ Art. 1
 
 N.
 
-704. Decreto del Presidente della Repubblica 1 ottobre 1985, col quale, sulla proposta del Ministro della pubblica istruzione, due posti disponibili nel ruolo dei tecnici laureati vengono assegnati alla seconda Universita' di Roma come segue:   
-Facolta' di medicina e chirurgia:   
+494. Decreto del Presidente della Repubblica 9 aprile 1984, col quale, sulla proposta del Ministro della pubblica istruzione, due posti disponibili nel ruolo dei tecnici laureati vengono assegnati alla cattedra di clinica chirurgica (per le esigenze del laboratorio di immunoematologia e immunogenetica) della facolta' di medicina e chirurgia della seconda Universita' di Roma.  
   
-cattedra di medicina legale e delle assicurazioni . . . . . . posti 1 cattedra di virologia . . . . . . . . . . . . . . . . . . . . posti 1   
-  
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 26 novembre 1985   
-Registro n. 81 Istruzione, foglio n. 308
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 14 agosto 1984  
+Registro n. 50 Istruzione, foglio n. 129

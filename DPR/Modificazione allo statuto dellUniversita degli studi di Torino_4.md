@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1983 n. 906
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 414
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1983 n. 906
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 414
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Torino.
@@ -33,25 +33,27 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appreso:
+Lo statuto dell'Universita' di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Nell'art. 5, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-neurochirurgia infantile.  
+Nell'art. 15, relativo al corso di laurea in scienze politiche, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
+microeconomia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 giugno 1983
+### Dato a Roma, addi' 9 aprile 1986
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 30 gennaio 1984
+Registrato alla Corte dei conti, addi' 11 luglio 1986
 
-Registro n. 5 Istruzione, foglio n. 2
+Registro n. 56 Istruzione, foglio n. 3

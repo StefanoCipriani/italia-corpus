@@ -1,83 +1,199 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 agosto 1970 n. 706
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1971 n. 446
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 agosto 1970 n. 706
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1971 n. 446
 =============================================================
 
 Modificazioni allo statuto della libera Universita' abruzzese "G. 
 D'Annunzio" di Chieti.
 -----------------------------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' libera abruzzese "G. D'Annunzio" di Chieti, approvato con [decreto del Presidente della Repubblica 8 maggio 1965, n. 1007](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-05-08;1007) e modificato con [decreto del Presidente della Repubblica 20 settembre 1966, n. 1291](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-09-20;1291), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto della libera Universita' abruzzese "G. D'Annunzio" di Chieti, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 14. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:
+
+Storia della critica d'arte;
+
+Storia del teatro e dello spettacolo.
+
+Art. 15. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:
+
+Storia della critica d'arte;
+
+Storia del teatro e dello spettacolo.
+
+Art. 28 (gia' 26). - E' abrogato e sostituito dal seguente:
+
+"Ai fini della propedeuticita' degli esami di diversi insegnamenti vale la seguente tabella:
+
+---------------------------------------------------------------------
+
+Non si puo' essere ammessi | se non si e' superato lo
+
+a sostenere gli | esame di:
+
+esami di: |
+
+---------------------------------------------------------------------
+
+Diritto amministrativo | Istituzioni di diritto privato;
+
+| Istituzioni di diritto pubblico;
+
+|
+
+Diritto commerciale | Istituzioni di diritto privato;
+
+| Istituzioni di diritto pubblico;
+
+|
+
+Diritto del lavoro | Istituzioni di diritto privato;
+
+| Istituzioni di diritto pubblico;
+
+|
+
+Diritto della navigazione | Istituzioni di diritto privato;
+
+| Istituzioni di diritto pubblico;
+
+|
+
+Diritto internazionale | Istituzioni di diritto privato;
+
+| Istituzioni di diritto pubblico;
+
+|
+
+Economia e politica agraria | Economia politica I e II;
+
+|
+
+Economia politica II | Economia politica I;
+
+| Matematica generale;
+
+|
+
+Matematica finanziaria I | Matematica generale;
+
+|
+
+Matematica finanziaria II | Matematica finanziaria I;
+
+|
+
+Politica economica e finanziaria | Statistica I -
+
+| Economia politica I;
+
+|
+
+Ragioneria generale ed | Ragioneria generale ed
+
+applicata II | applicata I;
+
+|
+
+Scienza delle finanze e | Economia politica I e II;
+
+diritto finanziario |
+
+|
+
+Statistica II | Statistica I;
+
+|
+
+Tecnica bancaria e professionale | Ragioneria generale ed applicata
+
+| I e II;
+
+|
+
+Tecnica industriale e | Merceologia - Ragioneria
+
+commerciale | generale applicata I e II".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 3 maggio 1971
+
+SARAGAT
+
+MISASI
+
+Visto, il Guardasigilli: COLOMBO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 8 luglio 1971 Atti del Governo, registro n. 243, foglio n. 12. - VALENTINI
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto della libera Universita' abruzzese "G.  
-D'Annunzio" di Chieti, approvato con [decreto del Presidente della Repubblica 8 maggio 1965, n. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-05-08;107) e modificato con [decreto del Presidente della Repubblica 20 settembre 1966, n. 1291](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-09-20;1291), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' libera abruzzese "G. D'Annunzio" di Chieti, approvato con [decreto del Presidente della Repubblica 8 maggio 1965, n. 1007](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-05-08;1007) e modificato con [decreto del Presidente della Repubblica 20 settembre 1966, n. 1291](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-09-20;1291), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' libera abruzzese "G. D'Annunzio" di Chieti, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-L'art. 29, relativo all'ordinamento degli studi del corso di laurea in lingue e letterature straniere e' abrogato e sostituito dal seguente:  
-Art. 29. - Durata del corso degli studi: quattro anni.  
-Titolo d'ammissione: quelli previsti dalle vigenti disposizioni.  
-Insegnamenti fondamentali:  
-1) Lingua e letteratura italiana (biennale);  
-2) una lingua e letteratura straniera (quadriennale) da scegliersi tra: francese, inglese, tedesco, spagnolo e qualsiasi, altra il cui insegnamento sia impartito nel corso di laurea;  
-3) una seconda lingua e letteratura straniera (triennale) da scegliersi tra quelle insegnate nel corso di laurea;  
-4) la filologia afferente la lingua scelta come quadriennale;  
-5) Glottologia;  
-6) Storia moderna e contemporanea;  
-7) Geografia, soprattutto antropica;  
-Insegnamenti complementari:  
-1) Lingua e letteratura latina;  
-2) Storia della filosofia;  
-3) Pedagogia;  
-4) Storia dell'arte;  
-5) Storia del teatro;  
-6) Storia della musica;  
-7) Didattica della lingua moderna;  
-8) Lingua e letteratura russa;  
-9) Lingua e letteratura slovena;  
-10) Lingua e letteratura serbo-croata;  
-11) Filologia slovena;  
-12) Letteratura anglo-americana;  
-13) Lingua e letteratura portoghese;  
-14) Lingua e letteratura catalana;  
-15) Letteratura ibero-americana;  
-16) Lingua e letteratura romena;  
-17) Storia della lingua italiana;  
-18) Filosofia.  
-Oltre gli insegnamenti fondamentali, lo studente dovra' seguire, superando il relativo esame di ciascuno di essi, tre insegnamenti scelti fra le discipline insegnate nella facolta' (con esclusione di quelle pluriennali) ovvero, ma in questo caso previa approvazione del consiglio di facolta', fra le discipline di altra facolta' della libera Universita' abruzzese degli studi "G. D'Annunzio".  
-Gli insegnamenti complementari impartiti nella facolta' sono resi noti tempestivamente prima dell'inizio dei corsi.  
-La facolta' puo' sceglierli fra tutti gli insegnamenti previsti nell'attuale ordinamento degli studi delle facolta' di lingue; di lettere e filosofia; di magistero; di giurisprudenza e di scienze politiche.  
-Gli esami delle lingue straniere consistono in prove scritte e in prove orali. La facolta' determinera' a sua discrezione il modo (dettato, versione, composizione o simili) di quelle scritte, la loro periodicita' (annuale o non) e la interdipendenza o meno fra scritto e orale.  
-Le prove orali devono essere una per ciascuno degli anni di corso.  
-Gli esami di italiano consistono in due prove orali (una per ciascun anno di corso) ed in una prova scritta, che puo' essere sostenuta in uno qualsiasi degli anni di corso.  
-Tutti gli altri esami sono orali.  
-L'esame di storia e quello di geografia sono afferenti alla lingua scelta come quadriennale.  
-Superati tutti gli esami fondamentali e complementari previsti dal piano degli studi, lo studente deve presentare un elaborato scritto su un argomento scelto tra una delle discipline di cui abbia superato gli esami, nel quadro della civilta' della lingua quadriennale. Tale elaborato sara' discusso dinanzi ad una commissione di docenti.  
-  
+Lo statuto della libera Universita' abruzzese "G. D'Annunzio" di Chieti, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 14. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:   
+Storia della critica d'arte;   
+Storia del teatro e dello spettacolo.   
+Art. 15. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:   
+Storia della critica d'arte;   
+Storia del teatro e dello spettacolo.   
+Art. 28 (gia' 26). - E' abrogato e sostituito dal seguente:   
+"Ai fini della propedeuticita' degli esami di diversi insegnamenti vale la seguente tabella:   
+
+|  |  |
+| --- | --- |
+| Non si puo' essere ammessi a sostenere gli esami di: | se non si e' superato lo esame di: |
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 6 agosto 1970
+### Dato a Roma, addi' 3 maggio 1971
 
 SARAGAT MISASI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 29 settembre 1970
+Registrato alla Corte dei conti, addi' 8 luglio 1971
 
-Atti del Governo, registro n. 237, foglio n. 133. - CARUSO
+Atti del Governo, registro n. 243, foglio n. 12. - VALENTINI

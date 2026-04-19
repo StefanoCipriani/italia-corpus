@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 marzo 1983 n. 351
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 novembre 1979 n. 867
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 marzo 1983 n. 351
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 novembre 1979 n. 867
+===============================================================
 
 Autorizzazione alla fondazione "Pro Juventute don Carlo Gnocchi", in Roma, ad accettare una donazione.
 ------------------------------------------------------------------------------------------------------
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-351. Decreto del Presidente della Repubblica 8 marzo 1983, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare la donazione, consistente in un locale destinato a box ed inserito in un complesso edilizio sito in Cascina Vica, frazione del comune di Rivoli (Torino), via Sestriere n. 37, distinto nel nuovo catasto edilizio urbano alla partita 2240, foglio 15, mappale 405 sub 19, del valore attribuito di L. 3.800.000, elevato dall'ufficio tecnico erariale di Torino a lire 8.000.000, disposta dalla sig.ra Detoma Rosa con atto 7 ottobre 1978, n. 8974 di repertorio e n. 1515 di fascicolo, a rogito dott.  
-Angelo Berruto, notaio in Torino, registrato a Rivoli (Torino) l'11 ottobre 1978 al n. 5796.  
+867. Decreto del Presidente della Repubblica 28 novembre 1979, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro Juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare la donazione, consistente in un fabbricato con retrostante terreno sito in Magenta (Milano), via G. Verdi n. 37, distinto nel nuovo catasto edilizio urbano alla partita n. 708, foglio 6, mappale 337 sub 2, cat. A/ 4, cl. 3 V.C. 3.50, per un valore complessivo di L. 9.000.000, disposta dai fratelli Francesco e Guido Oldani con atto 18 maggio 1977, n. 24/8 di repertorio, a rogito dott. Ulderico Brambilla, notaio in Milano e registrato a Milano in data 30 maggio 1977 al n. 6767, serie I.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 13 luglio 1983  
-Registro n. 6 Presidenza, foglio n. 242
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti, addi' 27 marzo 1980  
+Registro n. 2 Presidenza, foglio n. 387

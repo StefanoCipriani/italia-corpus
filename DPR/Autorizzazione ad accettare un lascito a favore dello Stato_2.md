@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 dicembre 1973 n. 1067
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 giugno 1975 n. 384
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 dicembre 1973 n. 1067
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 giugno 1975 n. 384
+=============================================================
 
 Autorizzazione ad accettare un lascito a favore dello Stato.
 ------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1067. Decreto del Presidente della Repubblica 21 dicembre 1973, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione del lascito disposto con testamento olografo 6 gennaio 1960, pubblicato con atto del notaio Roberto Chiari di Napoli in data 21 marzo 1966, repertorio n. 22890/11778, dal prof. Vincenzo Brundy, a favore dello Stato, consistente nella nuda proprieta' di un appartamento sito nella menzionata citta' al corso Vittorio Emanuele n. 460, piano 4°, con l'assegnazione dell'usufrutto, vita natural durante, alla signora Mazziotti Carmela, governante del de cuius, immobile da assegnare in uso perpetuo alla scuola militare "Nunziatella", in Napoli.  
+384. Decreto del Presidente della Repubblica 24 giugno 1975, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione del lascito disposto a favore dello Stato dall'avv. Mario Baldi con testamento olografo datato 11 settembre 1972, pubblicato con atto pubblico in data 1 ottobre 1973, n. 5090 di repertorio, a rogito del dott. Ludovico Sani, notaio in Ferrara, consistente in trentacinque quadri antichi di notevole valore artistico notificati dalla soprintendenza di Bologna, da destinare alla pinacoteca nazionale di Ferrara.  
   
-Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 3 aprile 1974  
-Atti di Governo, registro n. 2, foglio n. 68. - SCIARRETTA
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 8 agosto 1975  
+Atti di Governo, registro n. 11, foglio n. 53

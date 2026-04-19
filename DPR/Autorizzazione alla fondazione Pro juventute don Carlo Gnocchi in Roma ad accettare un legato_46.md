@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 223
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 140
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 223
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 140
 ===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-223. Decreto del Presidente della Repubblica 26 febbraio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato di L. 2.716.050 disposto dalla sig.na Pozzi Angela a favore dei "Mutilatini di don Gnocchi", che si identificano con la fondazione "Pro juventute don Carlo Gnocchi" come si evince dal verbale in data 24 novembre 1979 del consiglio di amministrazione della fondazione medesima, con testamento olografo 21 febbraio 1977, pubblicato a rogito dott. Francesco Boggia, notaio in Vercelli, con atto 22 febbraio 1979, n. 1089 di repertorio e n. 74 di raccolta, registrato a Vercelli il 5 marzo 1979 al n. 559.   
+140. Decreto del Presidente della Repubblica 26 febbraio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella nuda proprieta', per la quota di 1/3 pari a L. 12.087.183, di titoli obbligazionari depositati presso il Credito bergamasco di Milano del valore nominale di lire 54.998.000 e del valore reale di L. 36.262.550 al 15 settembre 1977, disposto dalla sig.ra Angelica Nebuloni ved. Remartini con testamento pubblico redatto a rogito dott. Renzo Rosi, notaio in Milano, in data 21 gennaio 1971, attivato in data 23 giugno 1977, n. 100765 di repertorio e n. 5037 di raccolta, registrato a Milano il 4 luglio 1977 al n. 10110/71/M.  
   
-  
-Visto, il Guardasigilli: DARIDA   
-Registrato alla Corte dei Conti, addi' 23 aprile 1982   
-Registro, n. 3 Presidenza, foglio n. 324
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 31 marzo 1982  
+Registro n. 3 Presidenza, foglio n. 120

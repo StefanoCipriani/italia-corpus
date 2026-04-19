@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1951 n. 973
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 febbraio 1951 n. 373
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1951 n. 973
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 febbraio 1951 n. 373
 ===============================================================
 
 Autorizzazione alla Cassa scolastica della Scuola tecnica commerciale "Vivaldi" di Genova-Nervi ad accettare una donazione.
@@ -12,8 +12,7 @@ Art. 1
 
 N.
 
-973. Decreto del Presidente della Repubblica 7 febbraio 1951, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola tecnica commerciale "Vivaldi" di Genova-Nervi, viene autorizzata ad accettare una donazione, in titoli di Stato, di nominali L. 30.000, disposta al fine dell'istituzione di un premio di studio intitolato al nome del prof. Dino Mora.  
+373. Decreto del Presidente della Repubblica 22 febbraio 1951, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola tecnica, commerciale "Vivaldi" con annessa Scuola di avviamento, di Genova-Nervi, viene autorizzata ad accettare la donazione di L. 50.000, in titoli di Stato, disposta al fine dell'istituzione di un premio di studio intitolato al nome della prof. Monti Maria.  
   
 Visto, il Guardasigilli: PICCIONI  
-Registrato alla Corte dei conti, addi' 17 settembre 1951  
-Atti del Governo, registro n. 44, foglio n. 1. - CARLOMAGNO
+Registrato alla Corte dei conti, addi' 31 maggio 1951

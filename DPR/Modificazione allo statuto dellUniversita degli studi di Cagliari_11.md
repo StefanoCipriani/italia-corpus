@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 717
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 410
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 717
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 410
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Cagliari.
@@ -39,19 +39,21 @@ Articolo unico
 --------------
 
   
-Nell'art. 42, relativo al corso di laurea in pedagogia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-geografia umana.  
+Nell'art. 61, relativo al corso di laurea in chimica, all'elenco degli insegnamenti complementari per gli indirizzi organico-biologico ed inorganico-chimico-fisico e' aggiunto il seguente nuovo insegnamento:  
+catalisi.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 giugno 1983
+### Dato a Roma, addi' 9 aprile 1986
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 14 dicembre 1983
+Registrato alla Corte dei conti, addi' 11 luglio 1986
 
-Registro n. 76 Istruzione, foglio n. 294
+Registro n. 56 Istruzione, foglio n. 12

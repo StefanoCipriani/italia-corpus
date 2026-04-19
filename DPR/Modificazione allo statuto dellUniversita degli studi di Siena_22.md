@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1108
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1984 n. 303
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1108
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1984 n. 303
+============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
@@ -39,21 +39,18 @@ Articolo unico
 --------------
 
   
-Nell'art. 69, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-saggi e dosaggi farmacologici.  
+Art. 69 - nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' inserito l'insegnamento di "medicina criminologica".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 dicembre 1985
+### Dato a Roma, addi' 2 marzo 1984
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 10 giugno 1986
+Registrato alla Corte dei conti, addi' 26 giugno 1984
 
-Registro n. 45 Istruzione, foglio n. 353
+Registro n. 39 Istruzione, foglio n. 26

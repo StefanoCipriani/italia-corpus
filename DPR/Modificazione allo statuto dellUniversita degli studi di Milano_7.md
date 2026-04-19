@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1985 n. 910
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 354
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1985 n. 910
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 354
+============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -39,13 +39,15 @@ Articolo unico
 --------------
 
   
-Art. 53 - nell'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche e' inserito l'insegnamento di "paleobiogeografia con elementi di paleoecologia".  
+Nell'art. 30, relativo al corso di laurea in medicina e chirurgia, nell'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
+psicologia medica;  
+farmacologia applicata.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 ottobre 1985
+### Dato a Roma, addi' 10 marzo 1986
 
 COSSIGA
 
@@ -53,6 +55,6 @@ FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 14 febbraio 1986
+Registrato alla Corte dei conti, addi' 8 luglio 1986
 
-Registro n. 9 Istruzione, foglio n. 113
+Registro n. 54 Istruzione, foglio n. 328

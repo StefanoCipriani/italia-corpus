@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1984 n. 861
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1980 n. 157
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1984 n. 861
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1980 n. 157
+============================================================
 
 Autorizzazione al Consiglio nazionale delle ricerche, in Roma, ad acquistare un immobile.
 -----------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-861. Decreto del Presidente della Repubblica 14 settembre 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, il Consiglio nazionale delle ricerche, in Roma, viene autorizzato ad acquistare dal consorzio Zona industriale e porto di Ancona (Z.I.P.A.), come da promessa di vendita in data 29 marzo 1977, n. 103515 di repertorio, a rogito dott. Giorgio Sabatini, notaio in Ancona, due aree di terreno sito in Ancona, zona industriale del porto, della superficie di mq 463, al prezzo convenuto di L. 4.630.000, terreno contiguo a quello della sede dell'istituto per la tecnologia della pesca e necessario alla migliore funzionalita' degli edifici attigui.  
+157. Decreto del Presidente della Repubblica 13 marzo 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, il Consiglio nazionale delle ricerche, in Roma, viene autorizzato ad acquistare, al prezzo di L. 1.700.000.000, un fabbricato sito in Roma, via Reno, 1, angolo via Clitunno, costituito da cinque piani fuori terra e da un seminterrato, della superficie coperta di mq 1625 piu' area di terreno scoperto di mq 530, censito al nuovo catasto edilizio urbano alla partita 225616, foglio 576, particella 137 sub 1-7, di proprieta' della Societa' mobiliare immobiliare romana a r.l., come da promessa di vendita 9 febbraio 1968, n. 71159/31872 di repertorio, a rogito dottor Vincenzo Colapietro, notaio in Roma.   
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 10 dicembre 1984  
-Registro n. 10 Presidenza, foglio n. 364
+Visto, il Guardasigilli: MORLINO   
+Registrato alla Corte dei conti, addi' 3 maggio 1980   
+Registro n. 3 Presidenza, foglio n. 264

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1984 n. 39
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1985 n. 185
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1984 n. 39
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1985 n. 185
+===============================================================
 
 Autorizzazione alla Societa' italiana degli autori ed editori, in Roma, ad acquistare un immobile.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-39. Decreto del Presidente della Repubblica 10 febbraio 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Societa' italiana degli autori ed editori (S.I.A.E.), in Roma, viene autorizzata ad acquistare, al convenuto prezzo di lire 150.000.000, un immobile sito in Novara, rotonda Massimo d'Azeglio n. 11, costituito da un appartamento al primo piano di mq 148 ed ampio terrazzo, iscritto nel catasto terreni del comune di Novara al foglio 167, part. 179, e regolarmente dichiarato presso il nuovo catasto edilizio urbano di Novara su presentazione rilasciata in data 16 gennaio 1979, n. 414/79, valutato da perizia estimativa di parte L. 160.000.000, come da atto di compravendita 29 gennaio 1981, n. 48459/2756 di repertorio, a rogito dott. Giuseppe Mittino, notaio in Novara, registrato a Novara in data 13 febbraio 1981 al n. 1188.  
+185. Decreto del Presidente della Repubblica 25 febbraio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Societa' italiana degli autori ed editori, in Roma, viene autorizzata ad acquistare, al convenuto prezzo di L. 127.500.000, un immobile sito in Lucca, piazza del Giglio n. 4, distinto nel nuovo catasto edilizio urbano alla partita 9573, foglio 197, mappale 388 sub 4, come da atto in data 18 marzo 1981, n. 64433 di repertorio, a rogito dott. Francesco Raspini, notaio in Lucca, registrato a Lucca in data 6 aprile 1981 al n. 1835.  
   
 Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 14 marzo 1984  
-Registro n. 3 Presidenza, foglio n. 81
+Registrato alla Corte dei conti, addi' 2 maggio 1985  
+Registro n. 4 Presidenza, foglio n. 89

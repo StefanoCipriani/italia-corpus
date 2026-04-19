@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1983 n. 1224
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1985 n. 797
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1983 n. 1224
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1985 n. 797
 ================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Bologna.
@@ -39,21 +39,22 @@ Articolo unico
 --------------
 
   
-Art. 148 - nell'elenco degli insegnamenti complementari della facolta' di ingegneria sono inseriti i seguenti insegnamenti:  
-progetti per la ristrutturazione ed il risanamento edilizio;  
-progettazione urbanistica;  
-architettura e composizione architettonica II.  
+  
+Nell'art. 107, relativo al corso di laurea in fisica della facolta' di scienze matematiche, fisiche e naturali, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:   
+metodi nucleari di analisi tecnologiche.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 dicembre 1983
+### Dato a Roma, addi' 24 settembre 1985
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 28 aprile 1984
+Registrato alla Corte dei conti, addi' 19 dicembre 1985
 
-Registro n. 25 Istruzione, foglio n. 197
+Registro n. 86 Istruzione, foglio n. 147

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1956 n. 891
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1977 n. 840
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1956 n. 891
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1977 n. 840
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
@@ -12,64 +12,110 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), e modificato con i [regi decreti 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-10-05;1847); [26 ottobre 1940, n. 2058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2058); [16 marzo 1942, n. 323](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-03-16;323); [24 ottobre 1942, n. 1597, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1597) [23 settembre 1949, n. 932](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;932); [31 ottobre 1950, n. 1308](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1308); [11 aprile 1951, n. 953](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;953); [25 luglio 1952, n. 1501](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1501); [26 ottobre 1952, n. 4529](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4529); [10 febbraio 1953, n. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;384); [30 luglio 1953; n. 715](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-07-30;715); [24 settembre 1954, n. 1205](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-24;1205); [14 marzo 1955, n. 345](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-03-14;345), e [24 luglio 1955, n. 798](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-24;798);  
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio superiore della pubblica istruzione nei suoi pareri;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 41 - all'elenco degli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti i seguenti:  
+economia aziendale;  
+economia matematica;  
+diritto processuale amministrativo;  
+diritto tributario;  
+diritto delle Comunita' europee.  
+Nello stesso elenco l'insegnamento di tecnica del commercio internazionale muta la denominazione in quella di politica e tecnica degli scambi internazionali.  
+Art. 84 - all'elenco degli istituti, annessi alla facolta' di magistero, e' aggiunto il seguente:  
+istituto di storia del teatro e dello spettacolo.  
+Gli articoli 183, 184, 185, 186, 187, 188 relativi alla scuola di perfezionamento in statistica annessa alla facolta' di giurisprudenza, sono soppressi.  
+Dopo l'art. 232, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di perfezionamento in statistica presso la facolta' di scienze statistiche, demografiche ed attuariali.  
   
-Dopo l'art. 211, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di perfezionamento in economia montana delle Venezie annessa alla Facolta' di agraria.  
+Scuola di perfezionamento in statistica  
   
-Scuola di perfezionamento in economia montana, delle Venezie  
+Art. 233. - Alla facolta' di scienze statistiche, demografiche ed attuariali e' annessa la scuola di perfezionamento in statistica.  
+La scuola conferisce il diploma di perfezionamento in statistica.  
+La durata degli studi per il conseguimento del diploma di perfezionamento e' di due anni.  
+Art. 234. - Sono organi della scuola:  
+a) il direttore;  
+b) il consiglio dei docenti.  
+Il direttore e' nominato dal consiglio di facolta' di scienze statistiche, demografiche ed attuariali.  
+Il consiglio dei docenti e' composto dal direttore che lo presiede e dai docenti degli insegnamenti previsti dal successivo art. 237 o attivati nell'anno.  
+Il consiglio dei docenti: determina e coordina i programmi degli insegnamenti e delle attivita' didattiche connesse; opera la selezione dei candidati; decide su questioni disciplinari.  
+I docenti dei corsi fondamentali e complementari, di cui al successivo art. 237, sono nominati, dal rettore dell'Universita' su proposta del consiglio di facolta', sentito il direttore della scuola.  
+Art. 235. - Alla scuola possono iscriversi quei laureati che, per gli studi gia' compiuti, abbiano interesse a conseguire il diploma di perfezionamento in statistica.  
+Il numero annuo degli iscritti e' determinato dal consiglio di facolta'.  
+Il consiglio dei docenti, di cui al precedente art. 234, provvede alla selezione dei candidati in base alla valutazione dei titoli.  
+Art. 236. - I contributi che gli iscritti dovranno versare per il conseguimento del diploma di perfezionamento in statistica sono fissati annualmente dal consiglio di amministrazione, su proposta del senato accademico, udito il consiglio della facolta' di scienze statistiche, demografiche ed attuariali.  
+Le tasse e soprattasse a carico degli iscritti restano cosi' determinate:  
   
-Art. 212. - Alla Facolta' di agraria e' annessa la "Scuola di perfezionamento in economia montana delle Venezie".  
-La Scuola ha lo scopo di preparare i laureati in scienze agrarie e in scienze forestali per metterli in grado di affrontare i problemi dell'economia montana, delle Venezie, di dirigere, amministrare ed assistere aziende montane, di condurre ricerche in luogo, svolgere azione di propaganda e di impartire l'insegnamento in Istituti e Scuole professionali agrarie specializzate, in relazione alle attivita' preminenti nelle singole zone.  
-La Scuola conferisce il diploma di perfezionamento in economia montana.  
-Art. 213. - Alla Scuola di perfezionamento in economia montana delle Venezie possono iscriversi, per il conseguimento del diploma, i laureati in scienze agrarie o in scienze forestali.  
-Il numero massimo degli iscritti e' determinato annualmente dal direttore della Scuola, con preferenza ai cittadini residenti nelle Venezie.  
-Art. 214. - E' direttore della Scuola il professore ufficiale di economia e politica agraria della Facolta' d'agraria dell'Universita' di Padova.  
-Art. 215. - La durata degli studi per il conseguimento del diploma di perfezionamento e' di un biennio.  
-Art. 216. - Durante il biennio gli iscritti debbono frequentare i seguenti insegnamenti:  
-1. Agronomia delle zone montane;  
-2. Alpicoltura;  
-3. Assestamento forestale e dendrometria;  
-4. Botanica forestale;  
-5. Chimica forestale;  
-6. Economia agraria montana;  
-7. Entomologia forestale;  
-8. Legislazione di interesse della montagna (semestrale);  
-9. Selvicoltura;  
-10. Sistemazioni idraulico-forestali e montane;  
-11. Tecnologie forestali ed industrie montane;  
-12. Zoologia forestale venatoria e acquicoltura;  
-13. Zootecnica.  
-I corsi possono essere integrati da conferenze, esercitazioni e da visite sul luogo.  
-Durante il secondo anno gli iscritti si dedicano anche alla compilazione di un lavoro originale in una delle materie costitutive della Scuola, procedendo alla raccolta di dati, indagini ed esperienze del caso nelle zone montane oggetto della ricerca.  
-L'argomento del lavoro deve essere approvato dal competente professore ufficiale della Scuola.  
-Art. 217. - Per essere ammesso all'esame di diploma l'iscritto deve aver ottenuto tutte le attestazioni di frequenza agli insegnamenti della Scuola superando i relativi esami ed aver compilato il lavoro di cui all'articolo precedente.  
-Art. 218. - L'esame di diploma consiste nella discussione del lavoro compilato dall'iscritto durante il secondo anno del biennio.  
-La Commissione per l'esame di diploma e' presieduta dal preside della Facolta' di agraria e composta di almeno sei professori ufficiali scelti fra i docenti della Scuola e della Facolta' di agraria.  
-Art. 219. - Le tasse e soprattasse che gli iscritti sono tenuti a pagare annualmente, sono fissate dal Consiglio di amministrazione su proposta della Facolta' di agraria.  
-L'ammontare dei contributi viene stabilito dal Consiglio di amministrazione, su proposta del Senato accademico, udita la Facolta' e Scuola.  
-La tassa di diploma e' fissata nella misura di L. 6000, a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).  
+tassa di immatricolazione. . . . . . . . . . . . . . . L. 5.000 tassa annuale di iscrizione. . . . . . . . . . . . . . " 100.000 soprattassa esami di profitto. . . . . . . . . . . . . " 10.000 tassa quale fuori corso. . . . . . . . . . . . . . . . " 10.000   
+La tassa di diploma e' stabilita dall'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).  
+Art. 237. - Gli insegnamenti fondamentali della scuola sono i seguenti:  
+1° Anno:  
+1) complementi di matematiche;  
+2) calcolo delle probabilita' (corso superiore);  
+3) statistica matematica (I anno).  
+2° Anno:  
+4) statistica matematica (II anno);  
+5) ricerca operativa;  
+6) teoria ed applicazioni dei processi stocastici.  
+Gli insegnamenti complementari sono:  
+1° Anno:  
+1) teoria e metodi della affidabilita';  
+2) modelli matematici per la ricerca delle scienze naturali;  
+3) metodi statistici per la ricerca sociale;  
+4) metodi statistici in psicologia;  
+5) complementi di econometria;  
+6) economia matematica;  
+7) analisi della attendibilita' e confrontabilita' delle fonti statistiche;  
+8) teoria dei giochi e delle decisioni;  
+9) teoria delle informazioni;  
+10) teoria e tecnica dell'elaborazione automatica dei dati (corso sup.);  
+11) metodologia delle scienze;  
+12) programmazione matematica.  
+2° Anno:  
+13) teoria dei sistemi;  
+14) controllo statistico dei processi produttivi e della qualita';  
+15) programmazione ed interpretazione statistica degli esperimenti;  
+16) metodi statistici per le scienze fisiche;  
+17) metodi statistici per la ricerca biometrica;  
+18) sociologia matematica e sociometria;  
+19) metodologia della pianificazione sociale;  
+20) analisi delle serie temporali;  
+21) modelli non lineari;  
+22) ricerca operativa nei problemi della pianificazione economica;  
+23) modelli demografici;  
+24) programmazione aziendale;  
+25) ricerca operativa nella gestione aziendale;  
+26) processi aleatori e teoria delle file d'attesa;  
+27) tecnica di simulazione;  
+28) metodi matematici di ottimizzazione;  
+29) genetici di popolazione.  
+Al fine del conseguimento del diploma di perfezionamento, e' necessario aver seguito i corsi e superato gli esami degli insegnamenti fondamentali e di cinque insegnamenti complementari, due al primo anno e tre al secondo, scelti dallo studente.  
+Le lezioni sono integrate da esercitazioni, seminari e conferenze, secondo un programma approvato annualmente dal consiglio dei docenti, su proposta dei singoli docenti.  
+Per essere ammesso all'esame di profitto lo studente dovra' presentare una relazione scritta su un argomento di ricerca proposto dallo studente stesso ed approvato dal docente della disciplina.  
+Art. 238. - L'esame di diploma consiste nella discussione davanti alla commissione di diploma di una dissertazione scritta su un tema approvato dal direttore della scuola e di un tema orale, liberamente scelto dal candidato nell'ambito di una disciplina diversa da quella cui si riferisce la dissertazione scritta.  
+La commissione di diploma, nominata dal direttore della scuola, e' composta di sette membri. Ogni membro dispone di dieci punti ai fini della valutazione complessiva.  
+Art. 239. - La scuola funziona con i proventi delle tasse e dei contributi versati dagli iscritti; ha sede nei locali dell'istituto di statistica della facolta' di scienze statistiche, demografiche ed attuariali dell'Universita' di Padova; si vale degli insegnamenti impartiti da personale insegnante ed in servizio presso le Universita' o altre scuole dello Stato e delle attrezzature didattiche e scientifiche della facolta'.  
+Le proposte concernenti le retribuzioni degli insegnanti e la utilizzazione dei fondi della scuola sono formulate dal consiglio della facolta' e sottoposte all'approvazione del consiglio di amministrazione.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 giugno 1956
+### Dato a Roma, addi' 10 febbraio 1977
 
-GRONCHI ROSSI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 9 agosto 1956
+Registrato alla Corte dei conti, addi' 16 novembre 1977
 
-Atti del Governo, registro n. 100, foglio n. 36. - RELLEVA
+Registro n. 126 Istruzione, foglio n. 340

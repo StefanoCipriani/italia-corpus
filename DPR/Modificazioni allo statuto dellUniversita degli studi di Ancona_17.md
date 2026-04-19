@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 ottobre 1980 n. 1235
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 ottobre 1980 n. 1230
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 ottobre 1980 n. 1235
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 ottobre 1980 n. 1230
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ancona.
@@ -12,19 +12,23 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto dell'Universita' di Ancona, approvato con [decreto del Presidente della Repubblica 4 ottobre 1971, n. 1330](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-10-04;1330) e modificato con [decreto del Presidente della Repubblica 7 agosto 1973, n. 909](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-08-07;909), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvar le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ancona e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ancona e convalidati dal Consiglio universitario nazionale nei suoi pareri;
 
 Sentito il parere del Consiglio universitario nazionale;
+
+Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
 Sulla
 -----
@@ -35,70 +39,109 @@ Articolo unico
 --------------
 
   
+Lo statuto dell'Universita' di Ancona, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Lo statuto dell'Universita' degli studi di Ancona, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Dopo l'art. 28 sono inseriti i seguenti articoli relativi alla istituzione delle scuole di specializzazione in anestesia e rianimazione ed in igiene.  
   
-Dopo l'art. 28 si inseriscono, con conseguente spostamento degli articoli successivi, le norme relative all'ordinamento della scuola diretta a fini speciali per ortottisti - assistenti di oftalmologia.   
+Scuola di specializzazione in anestesia e rianimazione  
   
-Scuola per ortottisti - assistenti di oftalmologia   
-(scuola diretta a fini speciali)   
+Art. 29. - La scuola di specializzazione in anestesia e rianimazione ha sede presso la clinica chirurgica dell'Universita' degli studi di Ancona e conferisce il diploma di specialista in anestesia e rianimazione.  
+Art. 30. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.  
+Art. 31. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+Art. 32. - La durata dei corsi di studio e' di tre anni e non e' suscettibile di abbreviazione.  
+Art. 33. - Il numero massimo di allievi e' di dieci per anno di corso e complessivamente di trenta iscritti per l'intero corso di studi.  
+Art. 34. - L'ammissione alla scuola avviene per titoli ed esami.  
+Art. 35. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1) anatomia applicata all'anestesia ed alla rianimazione;  
+2) biochimica applicata all'anestesia ed alla rianimazione;  
+3) fisica applicata all'anestesia ed alla rianimazione;  
+4) farmacologia applicata all'anestesia ed alla rianimazione;  
+5) fisiologia applicata all'anestesia ed alla rianimazione;  
+6) anestesiologia I;  
+7) tecniche chirurgiche di interesse anestesiologico;  
+8) aspetti medico-legali dell'anestesia e della rianimazione;  
+9) esercitazioni pratiche.  
+2° Anno:  
+1) anestesiologia II;  
+2) terapia antalgica;  
+3) rianimazione I;  
+4) esercitazioni pratiche.  
+3° Anno:  
+1) rianimazione II;  
+2) tecniche speciali di anestesia;  
+3) tecniche speciali di rianimazione;  
+4) indagini diagnostiche attinenti alla specialita';  
+5) esercitazioni pratiche.  
+Art. 36. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.  
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
+Art. 37. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno.  
+Per le materie a corsi pluriennali l'esame va sostenuto alla fine di ognuno dei corsi medesimi.  
+Al termine del corso di studi per il conseguimento del diploma di specialista in anestesia e rianimazione gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta su di un argomento attinente alla specializzazione.  
   
-Art. 29. - La scuola speciale per ortottisti - assistenti di oftalmologia ha sede presso l'istituto di clinica oculistica.   
-Art. 30. - La scuola ha lo scopo di dare una preparazione completa, teorico-pratica, istruendo gli allievi su problemi della motilita' oculare, della ambliopia, delle tecniche diagnostiche della visione binoculare, del trattamento pre e post-operatorio dei pazienti strabici e i problemi sui vizi di refrazione e della loro correzione e sulle tecniche diagnostiche in oftalmologia. La durata del corso per conseguire il diploma di ortottista - assistente di oftalmologia e' di tre anni.   
-Ne sono titolo di ammissione il possesso di un diploma legalmente valido ai fini della iscrizione all'Universita' ai sensi dell'[art. 1 della legge n. 910 dell'11 dicembre 1969](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1) e la conoscenza di una lingua straniera (inglese, tedesco, spagnolo).   
-Art. 31. - Gli aspiranti all'iscrizione al primo anno di corso sono tenuti a sostenere un esame di ammissione consistente in una prova di cultura generale e in una prova per la conoscenza della lingua straniera.   
-E' richiesto un certificato di sana e robusta costituzione con particolare riguardo alla funzione visiva.   
-Art. 32. - Il numero massimo degli iscritti alla scuola e' di ventiquattro (otto per ogni anno di corso).   
-L'ammissione alla scuola avviene in base alla graduatoria formulata a seguito di prove di esame.   
-Art. 33. - Il direttore della scuola e' un professore ordinario, fuori ruolo o straordinario di clinica oculistica, che insegni anche nella scuola stessa. In caso di motivato impedimento dello stesso, la direzione della scuola e' affidata a professore associato che pure insegni nella scuola stessa.   
-Il direttore medesimo propone al consiglio di facolta', che delibera, i docenti dei vari insegnamenti scelti tra il corpo accademico della stessa Universita' o tra cultori delle materie.   
-Art. 34. - Il consiglio della scuola e' costituito dal direttore e dal corpo docente della scuola.   
-Art. 35. - L'anno accademico ha inizio e termina nelle date stabilite dalle leggi in vigore per l'istruzione universitaria. La frequenza e' obbligatoria.   
-Art. 36. - Il corso comprende lezioni teoriche ed esercitazioni pratiche. Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-1) elementi di anatomia dell'apparato visivo e del S.N.C.;   
-2) fisiologia dell'occhio, della motilita' oculare, della visione binoculare;   
-3) ottica fisica e fisiopatologica;   
-4) ortottica I;   
-5) psicologia infantile.   
-2° Anno:   
-1) elementi di patologia oculare;   
-2) elementi di farmacologia oculare;   
-3) elementi di neurooftalmologia;   
-4) nozioni di chirurgia ed assistenza oftalmica;   
-5) ortottica II.   
-3° Anno:   
-1) tecniche semeiologiche ed elettrofisiologiche (tonometria e tonografia, ERG, EOG, EMG econografi, retinografia, fluorangiografia);   
-2) tecniche semeiologiche dell'apparato visivo I (es. refrazione, contattologia, adattometria, campo visivo, senso cromatico);   
-3) ortottica III;   
-4) nozioni di riabilitazione sensomotoria nell'eta' infantile;   
-5) legislazione sanitaria.   
-Art. 37. - L'intero corso di studio e' costituito da lezioni teoriche e pratiche ed esercitazioni e dall'obbligo, per gli allievi, della frequenza alle esercitazioni pratiche per l'intero periodo di corso di studi nella clinica oculistica. La frequenza viene comprovata dalla attestazione rilasciata sul libretto di iscrizione dagli insegnanti e per l'attivita' pratica dal direttore della scuola. L'attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.   
-Art. 38. - Alla fine di ogni anno gli allievi devono sostenere un esame sulle materie di insegnamento.Nel caso in cui i candidati non abbiano superato gli esami prescritti, essi rimarranno nella posizione di "ripetenti".   
-Art. 39. - Gli esami di profitto consistono in prove pratiche e teoriche.   
-Art. 40. - Alla fine del corso gli allievi debbono sostenere un esame di diploma che consiste nella discussione di una tesi scritta su un argomento riguardante la materia di insegnamento assegnata al direttore della scuola e una prova pratica stabilita da una commissione esaminatrice. I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola, ma se al secondo anno non sia loro riconosciuta la idoneita' saranno senz'altro esclusi da ulteriori prove.   
-Art. 41. - Gli esami di profitto e di diploma si danno in due sessioni, la prima estiva che ha inizio subito dopo la chiusura annuale dei corsi e la seconda autunnale, nel mese che precede l'inizio del nuovo anno accademico.   
-Art. 42. - Le commissioni per gli esami di ammissione, di profitto e di diploma sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della clinica.   
-Le commissioni per gli esami di ammissione e di profitto sono composte da tre membri: direttore della scuola, presidente, e da due insegnanti della scuola stessa.   
-La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente, e da quattro scelti tra gli insegnanti della scuola stessa o altri docenti.   
-Art. 43. - Le tasse e le sopratasse annuali a carico degli iscritti restano cosi' destinate:   
+Scuola di specializzazione in igiene  
   
-tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 20.000 sopratassa annuale di esame . . . . . . . . . . . . . . . . L. 10.000 tassa erariale di diploma (da versare interamente all'erario). L.   
-6.000   
-tassa annuale per iscrizione studenti fuori corso. . . . . . L. 6.000 contributi di laboratorio . . . . . . . . . . . . . . . . . L. 35.000   
-  
-Art. 44. - Al funzionamento della suddetta scuola si provvedera' con il provento delle tasse, sopratasse e contributi dovuti dagli iscritti e con eventuali elargizioni o contributi di enti pubblici o privati.   
+Art. 38. - La scuola di specializzazione in igiene ha sede presso l'istituto di igiene. Essa ha lo scopo di conferire adeguata preparazione teorica e pratica ai laureati che intendono dedicarsi alla carriera dei laboratori di sanita' pubblica e della progettazione di impianti tecnologici di ospedali, scuole, industrie.  
+La scuola si articola nei seguenti due indirizzi:  
+1) laboratorio di sanita' pubblica, al quale possono essere ammessi i laureati in chimica, chimica industriale, chimica e tecnologie farmaceutiche, farmacia, fisica, scienze biologiche, scienze naturali, agraria e medicina veterinaria;  
+2) igiene ed edilizia socio-sanitaria, al quale possono essere ammessi i laureati in architettura, fisica ed ingegneria.  
+Art. 39. - La durata del corso di studi e' di due anni e non e' suscettibile di abbreviazione.  
+Art. 40. - L'ammissione al corso avviene per titoli ed esami.  
+Art. 41. - Il numero massimo di allievi iscrivibili alla scuola e' di sessanta suddivisi in quaranta per l'indirizzo di laboratorio di sanita' pubblica e venti per l'indirizzo di igiene ed edilizia socio-sanitaria.  
+Art. 42. - Le materie di insegnamento per l'indirizzo di laboratorio di sanita' pubblica sono le seguenti:  
+1° Anno:  
+1) metodologia statistica e biometria;  
+2) microbiologia e parassitologia;  
+3) epidemiologia e profilassi generale;  
+4) legislazione ed organizzazione;  
+5) elementi di patologia generale;  
+6) biochimica applicata;  
+7) igiene dell'ambiente fisico e difesa ecologica.  
+2° Anno:  
+1) metodi e dosaggi chimici, fisici e biologici per  
+il controllo dell'inquinamento ambientale;  
+2) epidemiologia e profilassi delle malattie infettive  
+e di quelle non infettive di importanza sociale;  
+3) strumentazione e misure chimico-cliniche;  
+4) accertamento diagnostico delle malattie infettive  
+e parassitarie;  
+5) ispezione e controllo degli alimenti;  
+6) elementi di fisica tecnica applicata all'igiene;  
+7) elementi di informatica.  
+Art. 43. - Le materie di insegnamento per l'indirizzo di igiene ed edilizia socio-sanitaria sono le seguenti:  
+1° Anno:  
+1) metodologia statistica e biometria;  
+2) elementi di epidemiologia e profilassi delle malattie infettive e non infettive di importanza sociale;  
+3) legislazione sanitaria;  
+4) igiene dell'ambiente fisico e difesa ecologica;  
+5) organizzazione del territorio e programmazione  
+sanitaria;  
+6) principi di ingegneria del lavoro e della sicurezza.  
+2° Anno:  
+1) igiene edilizia e dell'aggregato urbano;  
+2) igiene e tecnica delle costruzioni ospedaliere, arredamenti e impianti tecnologici;  
+3) edilizia ed arredamento scolastico;  
+4) elementi di fisica tecnica applicata all'igiene;  
+5) urbanistica ed insediamento industriale;  
+6) approvvigionamento idrico e smaltimento dei rifiuti.  
+A giudizio della scuola i corsi possono essere completati da insegnamenti complementari scelti fra gli insegnamenti previsti dallo statuto dell'Universita'. Gli insegnamenti sono svolti sotto forma di lezioni, dimostrazioni ed esercitazioni pratiche, visite ad impianti e strutture interessanti la scuola di specializzazione.  
+I corsi sono integrati da frequenza obbligatoria ai fini di apprendimento di durata comunque non inferiore a mesi dodici - per l'indirizzo di laboratorio di sanita' pubblica - e a mesi sei - per l'indirizzo di igiene ed edilizia socio-sanitaria.  
+Art. 44. - Alla fine di ogni anno gli allievi devono sostenere un esame sulle materie di insegnamento.  
+Nel caso in cui i candidati non abbiano superato gli esami prescritti, rimarranno nella posizione di fuori corso fino a che non avranno assolto agli obblighi di cui sopra.  
+Art. 45. - La frequenza alle lezioni, dimostrazioni, esercitazioni e visite didattiche nonche' lo svolgimento della frequenza ai fini di apprendimento sono obbligatorie.  
+Gli allievi che non conseguono le relative attestazioni di frequenza non possono essere ammessi a sostenere gli esami annuali e l'esame di diploma.  
+Con il consenso della scuola, possono essere esonerati dalla frequenza obbligatoria ai fini di apprendimento unicamente i laureati che prestino regolare servizio in cliniche o istituti universitari o in strutture ospedaliere riconosciute idonee, di volta in volta, a giudizio insindacabile della facolta'.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Dato a Roma, addi' 9 ottobre 1980
 
 PERTINI SARTI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: SARTI
 
-Registrato alla Corte dei conti, addi' 14 novembre 1981
+Registrato alla Corte dei conti, addi' 17 ottobre 1981
 
-Registro n. 107 Istruzione, foglio n. 188
+Registro n. 96 Istruzione, foglio n. 353

@@ -1,13 +1,13 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1987 n. 633
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 marzo 1988 n. 584
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1987 n. 633
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 marzo 1988 n. 584
+============================================================
 
 Istituzione di un istituto professionale di Stato femminile in Roma.
 --------------------------------------------------------------------
 
-Entrata in vigore del decreto: 1/6/1989
+Entrata in vigore del decreto: 14/6/1989
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -18,25 +18,15 @@ Veduto il [regio decreto 3 marzo 1934, n. 383](http://www.normattiva.it/uri-res/
 
 Veduto l'[art. 9 del regio decreto-legge 21 settembre 1938, n. 2038](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-09-21;2038~art9), convertito nella [legge 2 giugno 1939, n. 739](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-02;739);
 
-Veduto il decreto del Presidente della Repubblica
-
-15 gennaio 1972, n. 10;
+Veduto il [decreto del Presidente della Repubblica 15 gennaio 1972, n. 10](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-01-15;10);
 
 Veduta la [legge 30 luglio 1973, n. 477](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-07-30;477);
 
-Veduti i decreti del Presidente della Repubblica
+Veduti i [decreti del Presidente della Repubblica 31 maggio 1974, n. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-05-31;416), [417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-05-31;417) e [420](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-05-31;420);
 
-31 maggio 1974, n. 416, n. 417 e n. 420;
-
-Veduto il decreto del Presidente della Repubblica
-
-24 luglio 1977, n. 616;
+Veduto il [decreto del Presidente della Repubblica 24 luglio 1977, n. 616](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-07-24;616);
 
 Veduta la [legge 20 maggio 1982, n. 270](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-05-20;270);
-
-Visto il [decreto del Presidente della Repubblica 7 marzo 1985, n. 588](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-03-07;588);
-
-Visto l'[art. 2, primo comma, della legge 5 giugno 1985, n. 251](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-06-05;251~art2-com1);
 
 Sulla
 -----
@@ -46,22 +36,14 @@ proposta del Ministro della pubblica istruzione di concerto con quelli dell'inte
 Art. 1
 ------
 
- A decorrere dall'anno scolastico 1987-88 e' istituita in Roma una scuola avente finalita' e ordinamento speciali che assume la denominazione di istituto professionale di Stato femminile.  
+ A decorrere dall'anno scolastico 1982-83 e' istituita in Roma, via dei Genovesi, una scuola avente finalita' e ordinamento speciali che assume la denominazione di istituto professionale di Stato femminile.
 
 Art. 2
 ------
 
  Il predetto istituto professionale ha lo scopo di preparare personale idoneo all'esercizio delle attivita' di ordine esecutivo nei vari settori femminili.  
 Esso e' costituito dalla scuola professionale per le attivita' femminili con sezioni per:  
-Sezioni  
-numero  
-\_\_  
-assistente all'infanzia (triennale) . . . . . . . . . . 6  
-Corsi  
-numero  
-\_\_  
-Corso post-qualifica:  
-assistente comunita' infantili . . . . . . . . . . . . . 3  
+Sezioni numero -- assistente per l'infanzia (triennale) . . . . . . . . . . . 14  
 
 Art. 3
 ------
@@ -80,6 +62,7 @@ Art. 5
 ------
 
  Con decreto del Ministro della pubblica istruzione saranno stabiliti i profili professionali, gli orari e i programmi delle sezioni.  
+I periodi di lezione, di esercitazioni e di vacanze vengono determinati, caso per caso, dal consiglio di istituto, sentito il collegio dei docenti, in relazione alle particolari esigenze degli insegnanti e degli allievi.  
 
 Art. 6
 ------
@@ -95,12 +78,12 @@ Art. 7
 Art. 8
 ------
 
- Nelle sezioni dell'istituto professionale indicate nel precedente art. 2 si impartiscono i seguenti insegnamenti: cultura generale ed educazione civica; lingua straniera; economia domestica; psicologia e pedagogia; anatomia, fisiologia ed igiene; tecnica professionale; esercitazioni pratiche; musica e canto; disegno; lingua lettere italiane e storia; elementi di diritto e legislazione sociale; matematica; igiene mentale e psichiatria infantile; chimica generale, organica e microbiologia; tecniche educative e di esplorazione; tecniche professionali; religione; educazione fisica.  
+ Nelle sezioni dell'istituto professionale indicate nel precedente art. 2 si impartiscono i seguenti insegnamenti: cultura generale ed educazione civica; lingua inglese; economia domestica; psicologia e pedagogia; tecnica professionale; igiene, anatomia, fisiologia; musica e canto; disegno; esercitazioni assistente all'infanzia; religione; educazione fisica.  
 
 Art. 9
 ------
 
- Alle scuole professionali dell'istituto possono accedere i licenziati dalla scuola media.  
+ Alle scuole professionali dell'istituto possono accedere i licenziati dalla scuola media e i licenziati dalla scuola secondaria di avviamento professionale di qualsiasi tipo.  
 
 Art. 10
 -------
@@ -118,8 +101,8 @@ Art. 12
 -------
 
  Le tasse scolastiche di ammissione, di frequenza, di esame e di diploma sono stabilite nella stessa misura di quelle fissate per gli istituti tecnici di analogo indirizzo.  
-Agli alunni puo', inoltre, essere richiesto un contributo per il consumo di materie prime.  
-La misura del contributo e' fissata dal consiglio di istituto.  
+Agli alunni puo', inoltre, essere richiesto un contributo per il consumo di materie prime, nonche' un deposito in garanzia di eventuali danni.  
+La misura del contributo e del deposito e' fissata dal consiglio di istituto.  
 Il consiglio di istituto puo' disporre la concessione di premi e sussidi a favore degli allievi.  
 
 Art. 13
@@ -151,8 +134,8 @@ Le funzioni di direttore sono affidate per incarico dalla giunta esecutiva del c
 Art. 17
 -------
 
- Il posto di preside e' conferito mediante pubblico concorso per titoli e per esami alle condizioni e modalita' previste dall'[art. 27 del decreto del Presidente della Repubblica 31 maggio 1974, n. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-05-31;417~art27).  
-Gli altri posti di ruolo del personale insegnante e tecnico-pratico sono conferiti mediante pubblico concorso ai sensi del [decreto del Presidente della Repubblica 31 maggio 1974, n. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-05-31;417), e successive modificazioni.  
+ Il posto di preside e' conferito mediante pubblico concorso per titoli e per esami, alle condizioni e modalita' previste dall'[art. 27 del decreto del Presidente della Repubblica 31 maggio 1974, n. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-05-31;417~art27).  
+Gli altri posti di ruolo del personale insegnante e tecnico-pratico sono conferiti mediante pubblico concorso ai sensi del [decreto del Presidente della Repubblica 31 maggio 1974, n. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-05-31;417), e successive modificazioni e, qualora se ne ravvisi l'opportunita', secondo le norme dell'[art. 36 della legge 15 giugno 1931, n. 889](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889~art36), sul riordinamento dell'istruzione media tecnica.  
 La tabella organica annessa al presente decreto, vista e firmata d'ordine del Presidente della Repubblica, dal Ministro della pubblica istruzione e da quello del tesoro, indica le qualifiche ed i posti del personale di ruolo ed incaricato.  
 In relazione, sia alle specifiche esigenze dell'addestramento pratico, sia al funzionamento dei laboratori, la giunta esecutiva puo' assumere in servizio temporaneo esperti nel campo della produzione e del lavoro.  
 
@@ -160,10 +143,10 @@ Art. 18
 -------
 
  Alle spese di mantenimento dell'istituto si provvede:  
-1) con un contributo del Ministero della pubblica istruzione fissata in L. 1.576.000.000;  
+1) con un contributo del Ministero della pubblica istruzione fissato in L. 2.043.000.000;  
 2) con gli eventuali contributi degli enti locali, delle organizzazioni professionali e di categoria;  
 3) con lasciti e donazioni da parte di enti e di privati;  
-4) con contributi degli alunni;  
+4) con i contributi degli alunni;  
 5) con i proventi dei laboratori.  
 
 Art. 19
@@ -171,12 +154,12 @@ Art. 19
 
  Per quanto riguarda gli oneri degli enti locali, previsti dall'art. 91, lettera f), del testo unico della legge comunale e provinciale approvato con [regio decreto 3 marzo 1934, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-03;383), essi fanno carico al comune di Roma ed ai comuni sedi delle eventuali sedi coordinate con l'istituto.  
 Per quanto non e' previsto dal presente decreto, si applicano le disposizioni vigenti per gli istituti di istruzione tecnica.  
-L'onere della spesa a carico del Ministero della pubblica istruzione, derivante dall'attuazione del presente decreto, gravera' sugli stanziamenti degli appositi capitoli del bilancio del Ministero della pubblica istruzione.  
+L'onere della spesa a carico del Ministero della pubblica istruzione, derivante dall'attuazione del presente decreto, gravera' sugli stanziamenti degli appositi capitoli del bilanco del Ministero della pubblica istruzione.  
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 ottobre 1987
+### Dato a Roma, addi' 3 marzo 1988
 
 COSSIGA
 
@@ -190,42 +173,36 @@ BATTAGLIA, Ministro dell'industria, del commercio e dell'artigianato
 
 Visto, il Guardasigilli: VASSALLI
 
-Registrato alla Corte dei conti, addi' 8 maggio 1989
+Registrato alla Corte dei conti, addi' 3 maggio 1989
 
-Registro n. 5 Istruzione, foglio n. 143
+Registro n. 24 Istruzione, foglio n. 276
 
 Tabella
 
   
   
-TABELLA ORGANICA DELL'ISTIUTO PROFESSIONALE  
-FEMMINILE DI STATO DI ROMA  
-Sei sezioni di assistente all'infanzia (triennale);  
-Tre corsi post-qualifica - assistenti comunita' infantili,  
-per complessive ventiquattro classi.  
-Personale di ruolo  
-Numero  
-Qualifica dei posti  
-\_\_ \_\_  
-1) Preside . . . . . . . . . . . . . . . . . . . . . . . . 1  
-2) Cattedre di insegnamento . . . . . . . . . . . . . . . . 26  
-3) Docenti diplomati e insegnanti tecnico-pratici . . . . . 18  
-4) Coordinatore amministrativo . . . . . . . . . . . . . . 1  
-5) Collaboratori amministrativi . . . . . . . . . . . . . . 5  
-6) Collaboratori tecnici . . . . . . . . . . . . . . . . . 1  
-7) Ausiliari . . . . . . . . . . . . . . . . . . . . . . . 9  
+TABELLA ORGANICA DELL'ISTITUTO PROFESSIONALE  
+DI STATO FEMMINILE DI ROMA  
+Quattordici sezioni assistenti per l'infanzia (triennale), per complessive quarantadue classi.  
+Numero Qualifica dei posti Personale di ruolo  
+1) Preside . . . . . . . . . . . . . . . . . . . . . . . . . 1  
+2) Cattedre di insegnamento . . . . . . . . . . . . . . . . . 41  
+3) Insegnanti tecnico-pratici . . . . . . . . . . . . . . . . 46  
+4) Segretario economo . . . . . . . . . . . . . . . . . . . . 1  
+5) Applicati di segreteria . . . . . . . . . . . . . . . . . 9  
+6) Magazzinieri . . . . . . . . . . . . . . . . . . . . . . . 2  
+7) Aiutanti tecnici . . . . . . . . . . . . . . . . . . . . . -  
+8) Bidelli . . . . . . . . . . . . . . . . . . . . . . . . . 15  
 Personale incaricato  
-8) Incarichi d'insegnamento per complessive cinquantotto ore  
-settimanali.  
-9) Incarichi insegnamento docenti diplomati ed insegnanti  
-tecnico-pratici per complessive trentasei ore settimanali.  
-\_\_\_\_\_\_\_\_\_\_  
+9) Incarichi d'insegnamento per complessive sessanta ore settimanali.  
+10) Insegnanti tecnico-pratici (1) -.  
 (1) Il trattamento economico e di carriera e' quello previsto per gli insegnanti tecnico-pratici degli istituti tecnici.  
-N.B. - Le materie costituenti le cattedre di insegnamento ed i posti di insegnante tecnico-pratico saranno determinati con decreto del Ministro della pubblica istruzione, ai sensi dell'[art. 5 della legge 9 agosto 1973, n. 463](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-08-09;463~art5).  
+N.B. - Le materie costituenti le cattedre di insegnamento ed i posti di insegnante tecnico-pratico saranno determinati con decreto del Ministro della pubblica istruzione, ai sensi dell'[art. 5 della legge 9 agosto 1978, n. 463](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-08-09;463~art5).  
 Visto, d'ordine del Presidente della Repubblica  
 Il Ministro della pubblica istruzione  
 GALLONI  
 Il Ministro del tesoro  
 AMATO  
+  
   
   

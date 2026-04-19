@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1984 n. 274
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 701
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1984 n. 274
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 701
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Ferrara.
 -------------------------------------------------------------------
@@ -39,18 +39,19 @@ Articolo unico
 --------------
 
   
-Art. 47 - nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' inserito l'insegnamento di "semeiotica neurologica".  
+Nell'art. 38, relativo al corso di laurea in materie letterarie della facolta' di magistero, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+sociologia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 marzo 1984
+### Dato a Roma, addi' 4 maggio 1983
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 11 giugno 1984
+Registrato alla Corte dei conti, addi' 14 dicembre 1983
 
-Registro n. 34 Istruzione, foglio n. 326
+Registro n. 76 Istruzione, foglio n. 308

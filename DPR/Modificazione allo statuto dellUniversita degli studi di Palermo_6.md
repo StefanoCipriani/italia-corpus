@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 800
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1986 n. 465
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 800
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1986 n. 465
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Palermo.
@@ -39,21 +39,21 @@ Articolo unico
 --------------
 
   
-Nell'art. 50, relativo al corso di laurea in medicina e chirurgia, tra gli insegnamenti complementari e' aggiunto il seguente insegnamento:  
-psicoterapia.  
+Nell'art. 77, relativo all'elenco degli insegnamenti a scelta dello studente per i vari corsi di laurea della facolta' di ingegneria, e' aggiunto il seguente nuovo insegnamento:  
+elementi delle macchine con disegno.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 giugno 1986
+### Dato a Roma, addi' 2 maggio 1986
 
 COSSIGA
 
 FALCUCCI, Ministro della pubblica istruzione
 
-Visto, il Guardasigilli: ROGNONI
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 17 novembre 1986
+Registrato alla Corte dei conti, addi' 19 luglio 1986
 
-Registro n. 84 Istruzione, foglio n. 110
+Registro n. 58 Istruzione, foglio n. 275

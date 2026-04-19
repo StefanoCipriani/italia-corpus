@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 608
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 luglio 1977 n. 744
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 608
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 luglio 1977 n. 744
 =============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
@@ -10,10 +10,10 @@ Autorizzazione ad accettare una donazione a favore dello Stato.
 Art. 1
 ------
 
-n.
+N.
 
-608. Decreto del Presidente della Repubblica 17 maggio 1986, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato della donazione, consistente in un dipinto dell'autore Giacomo Balla raffigurante la "Famiglia Carelli" e in due bronzetti su base di marmo scolpiti dallo scultore S. Bueni raffiguranti l'uno "Costantino Gregorio Carelli" e l'altro la "Signora Eleuteria Mileti", i quali rivestono un interesse artistico, da destinare al Museo nazionale di Capodimonte, in Napoli, disposta dalla sig.ra Vera Carelli con atto 9 maggio 1977, n. 81455 di repertorio, a rogito del dott. proc. Alberto Colasanti, notaio in Napoli.  
+744. Decreto del Presidente della Repubblica 13 luglio 1977, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato della donazione disposta dalla signorina Natalia Valli con atto 25 febbraio 1976, n. 41919 di repertorio, a rogito dott. Albino Giacomelli, notaio in Ferrara, consistente in una raccolta di tre dipinti del XIV e XV secolo di notevole interesse artistico e storico, da destinare alla Pinacoteca nazionale di palazzo dei Diamanti in Ferrara.  
   
-Visto, il Guardasigilli: ROGNONI  
-Registrato alla Corte dei conti, addi' 23 settembre 1986  
-Registro n. 24 Beni Culturali, foglio n. 246
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 7 ottobre 1977  
+Registro n. 14 Beni culturali, foglio n. 280

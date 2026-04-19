@@ -1,109 +1,95 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 giugno 1958 n. 882
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1980 n. 158
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 giugno 1958 n. 882
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1980 n. 158
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 -------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla
+-----
+
+proposta del Ministro della pubblica istruzione; Decreta:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207) e successivi;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli 124, 125, 126, 127, 128, 129, relativi alla scuola di specializzazione per medici laboratoristi, che muta la denominazione in quella di scuola di specializzazione in biologia clinica, sono soppressi e sostituiti dai seguenti:  
   
-Decreta:   
-  
-Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-  
-Dopo l'art. 87, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione delle Scuole di specializzazione e di perfezionamento in chirurgia generale ed in anestesiologia, con il conseguente spostamento degli articoli successivi.   
-  
-Scuola di specializzazione in chirurgia generale   
-  
-Art. 88. - La Scuola di specializzazione in chirurgia generale ha la durata di cinque anni, ha sede presso la Clinica chirurgica, il cui professore di ruolo e' il titolare del corso.   
-Art. 89. - Alla Scuola non potranno essere iscritti piu' di cinque medici per ciascun anno di corso.   
-Le materie obbligatorie per il conseguimento del diploma sono le seguenti:   
-1° anno:   
-1) Anatomia chirurgica e corso di operazioni;   
-2) Patologia chirurgica generale;   
-3) Clinica chirurgica generale.   
-2° anno:   
-1) Anatomia e istologia patologica;   
-2) Tecnica di laboratorio applicata (chimica, batteriologia, istologia, serologia);   
-3) Patologia chirurgica speciale;   
-4) Clinica chirurgica generale.   
-3° anno:   
-1) Anatomia ed istologia patologica;   
-2) Patologia chirurgica speciale;   
-3) Clinica chirurgica generale.   
-4° anno:   
-1) Tecnica degli esami e delle operazioni endoscopiche;   
-2) Radiologia;   
-3) Clinica chirurgica generale.   
-5° anno:   
-1) Ortopedia;   
-2) Otorinolaringoiatria;   
-3) Medicina legale;   
-4) Clinica chirurgica generale.   
-Art. 90. - Gli esami di profitto che si sostengono in gruppo di materie sono obbligatori alla fine del 3°, 4° e 5° anno di corso. Gli allievi che non sostengono o non superino gli esami obbligatori non possono essere iscritti all'anno successivo. Alla fine del terzo anno gli allievi sostengono l'esame di profitto nei due gruppi di materie seguenti:   
-I gruppo:   
-1) Anatomia chirurgica e corso di operazioni;   
-2) Patologia chirurgica speciale.   
-II gruppo:   
-1) Anatomia e istologia patologica;   
-2) Tecnica di laboratorio applicata;   
-3) Clinica chirurgica generale.   
-Alla fine del quarto anno di corso gli allievi sostengono l'esame di profitto in un unico gruppo di materie seguenti:   
-III gruppo:   
-1) Tecnica degli esami e delle operazioni endoscopiche;   
-2) Radiologia.   
-Alla fine del corso gli allievi sostengono l'esame di profitto in un unico gruppo nelle rimanenti materie:   
-IV gruppo:   
-1) Clinica chirurgica generale;   
-2) Ortopedia;   
-3) Otorinolaringoiatria;   
-4) Medicina legale.   
-Art. 91. - L'internato e' obbligatorio durante tutti i cinque anni di corso e si svolge nella Clinica chirurgica con presenza giornaliera negli ambulatori e nelle sale di degenza, secondo i turni stabiliti dal direttore della Scuola.   
-  
-Scuola di perfezionamento in anestesiologia   
-  
-Art. 92. - La Scuola di perfezionamento in anestesiologia ha sede presso la Clinica chirurgica ed ha la durata di due anni.   
-Direttore della Scuola e' il direttore della Clinica chirurgica.   
-Alla Scuola non potranno essere iscritti piu' di cinque medici per ciascun anno di corso.   
-Art. 93. - Le materie di insegnamento sono:   
-1° anno:   
-1) Nozioni di anatomia applicata alla anestesia;   
-2) Nozioni di fisiologia applicata alla anestesia;   
-3) Nozioni di biochimica applicata alla anestesia;   
-4) Farmacologia degli anestetici e degli analgesici;   
-5) Preparazione dell'ammalato chirurgico.   
-2° anno:   
-1) Fisiologia e clinica della anestesia;   
-2) Tecniche di anestesia e analgesia;   
-3) Assistenza e rianimazione dell'operato;   
-4) Anestesie speciali.   
-Art. 94. - Costituisce parte del corso l'insegnamento pratico che sara' tenuto durante l'anno accademico nella Clinica chirurgica e nei reparti clinici espressamente designati. Alle esercitazioni pratiche gli allievi interverranno secondo i turni stabiliti dal direttore del corso.   
-L'esame di profitto su tutte le materie di insegnamento sara' tenuto alla fine del corso.   
+Scuola di specializzazione in biologia clinica  
+Art. 124. - La scuola di specializzazione in biologia clinica ha sede presso gli istituti di chimica biologica e di microbiologia e conferisce il diploma di specialista in biologia clinica.  
+La scuola di specializzazione in biologia clinica ha lo scopo di preparare sul piano scientifico e tecnico i medici che intendono dedicarsi particolarmente alle analisi di laboratorio chimico-cliniche e microbiologiche applicate alla clinica.  
+Art. 125. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Art. 126. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+Art. 127. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.  
+Il numero massimo degli allievi e' di cinque per anno di corso e complessivamente di venti iscritti per l'intero corso di studi.  
+L'ammissione al corso avviene per titoli ed esami.  
+Art. 128. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1) chimica biologica generale;  
+2) fondamenti di chimico-fisica biologica;  
+3) batteriologia generale;  
+4) biochimica analitica I;  
+5) tecnica dei prelevamenti;  
+6) fisiopatologia I;  
+7) fondamenti di statistica biologica.  
+2° Anno:  
+8) chimica biologica speciale di organi e tessuti;  
+9) fisiopatologia II;  
+10) ematologia ed ematochimica I;  
+11) batteriologia speciale;  
+12) immunologia e sierologia;  
+13) biochimica analitica II.  
+3° Anno:  
+14) nozioni di igiene e legislazione sanitaria;  
+15) ematologia ed ematochimica II;  
+16) chimica clinica;  
+17) immunochimica;  
+18) parassitologia;  
+19) virologia.  
+4° Anno:  
+20) analisi biologico-tossicologiche;  
+21) endocrinologia clinica e dosaggi ormonali;  
+22) micologia;  
+23) enzimologia clinica;  
+24) automazione e controlli di qualita';  
+25) metodiche microanalitiche;  
+26) microscopia clinica e citodiagnostica.  
+Art. 129. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.  
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.  
+Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.  
+Al termine del corso di studi per il conseguimento del diploma di specialista in biologia clinica gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta su un argomento attinente alla specializzazione e nell'espletamento di prove pratiche.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 giugno 1958
+### Data a Roma, addi' 14 gennaio 1980
 
-GRONCHI MORO
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 13 settembre 1958
+Registrato alla Corte dei conti, addi' 26 aprile 1980
 
-Atti del Governo, registro n. 114, foglio n. 33. - RELLEVA
+Registro n. 38 istruzione, foglio n. 31

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 gennaio 1986 n. 302
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 febbraio 1977 n. 994
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 gennaio 1986 n. 302
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 febbraio 1977 n. 994
+===============================================================
 
 Autorizzazione alla Lega nazionale per la difesa del cane, in Milano, ad accettare un legato.
 ---------------------------------------------------------------------------------------------
@@ -12,8 +12,10 @@ Art. 1
 
 N.
 
-302. Decreto del Presidente della Repubblica 23 gennaio 1986, col quale, sulla proposta del Ministro della sanita', la Lega nazionale per la difesa del cane, in Milano, viene autorizzata ad accettare il legato, consistente nella somma di L. 10.000.000 e in beni immobili siti in Milano e Trescore Balneario (Bergamo) valutati complessivamente dagli uffici tecnici erariali di Milano e Bergamo negli anni 1976-77 in L. 205.600.000, disposto dalla sig.ra Bacchella Rosa Carolina con testamento olografo 3 novembre 1976, pubblicato in data 28 luglio 1977, n. 566788/15532 di repertorio, a rogito dott. Angelo Giordano coadiutore del dottor Giuseppe Rapelli, notaio in Busto Arsizio, da destinare alla realizzazione di un centro addestramento cani guida per ciechi poveri.   
+994. Decreto del Presidente della Repubblica 15 febbraio 1977, col quale, sulla proposta del Ministro per la sanita', la Lega nazionale per la difesa del cane, in Milano, viene autorizzata ad accettare il legato disposto dalla sig.ra Kellemen Agnese ved.  
+Bianchetti con testamento olografo 20 maggio 1973, pubblicato per atto notaio Carlo Emiliano Verde il 5 ottobre 1973.  
+reg. n. 299723, consistente in beni immobili e in beni mobili, per un valore complessivo di L. 41.766.900.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 11 giugno 1986   
-Registro n. 7 Sanita', foglio n. 92
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei Conti, addi' 4 gennaio 1978  
+Registro n. 1 Sanita', foglio n. 40

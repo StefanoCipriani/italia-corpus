@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 452
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 dicembre 1972 n. 1158
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 452
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 dicembre 1972 n. 1158
+================================================================
 
 Autorizzazione ad accettare una donazione disposta a favore dello Stato.
 ------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-452. Decreto del Presidente della Repubblica 26 aprile 1984, col quale, sulla proposta del Ministro delle finanze, viene autorizzata l'accettazione della donazione, consistente in un serbatoio idrico e relativo terreno di insistenza, esteso mq 200,36, sito in Rocca di Papa (Roma), via Cavour, disposta dall'Istituto nazionale delle assicurazioni con atto 20 maggio 1965, n. 37972 di repertorio, a rogito dott. Luigi Mauro, notaio in Roma, registrato a Roma in data 28 maggio 1965 al n. 5462.  
+1158. Decreto del Presidente della Repubblica 20 dicembre 1972 col quale, sulla proposta del Ministro per la pubblica istruzione, viene autorizzata l'accettazione della donazione disposta con atto notarile in data 18 maggio 1971, n. 65209 di repertorio, a rogito del dott. Paolo Pucei, notaio in Sarzana, dal sig. Picedi Benettini conte dott. Mariano e dal sig. Gropallo Marebese avv. Tomaso, a favore dello Stato italiano, con destinazione al Museo nazionale di Luni (comune di Ortonovo) di un cippo marmoreo lunense recante la iscrizione "Imp. Caesari D. F. Imp. V.Cos. VI. III. Vir R.P.C.  
+Patrono".  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 3 agosto 1984  
-Registro n. 46 Finanze, foglio n. 391
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 11 maggio 1973  
+Atti di Governo, registro n. 258, foglio n. 25. - VALENTINI

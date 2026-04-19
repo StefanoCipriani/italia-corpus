@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1973 n. 1148
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1974 n. 662
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1973 n. 1148
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1974 n. 662
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
@@ -12,10 +12,11 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -24,40 +25,62 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli 569, 570, 571, 572, 573, relativi alla scuola di specializzazione in gastroenterologia, che muta la denominazione in quella di scuola di specializzazione in malattie dell'apparato digerente, sono abrogati e sostituiti dai seguenti:  
   
-Scuola di specializzazione in malattie dell'apparato digerente (I scuola)  
-Art. 569. - La scuola svolge un corso di specializzazione in malattie dell'apparato digerente.  
-Alla scuola sono ammessi i laureati in medicina e chirurgia in numero massimo di venti allievi. L'ammissione avviene in base ad un esame preliminare.  
-Art. 570. - Il corso ha la durata di tre anni ed un quarto anno deve essere dedicato al tirocinio pratico gastroenterologico.  
-Il corso ha luogo nell'istituto di clinica delle malattie tropicali e infettive dell'Universita'.  
-Art. 571. - Gli iscritti debbono:  
-a) seguire per i primi tre anni gli insegnamenti della scuola;  
-b) prestare servizio continuativo nelle corsie e nei laboratori della clinica;  
-c) svolgere l'anno di tirocinio pratico gastroenterologico nella clinica o in reparti ospedalieri.  
-Alla fine del corso gli iscritti che abbiano superato tutti gli esami debbono sostenere la discussione su una tesi scritta per conseguire il diploma di specializzazione.  
-Art. 572. - Il corso comprende i seguenti insegnamenti, con esami da sostenere alla fine di ciascuno di essi:  
-1) Anatomia normale e patologica;  
-2) Fisiologia normale e patologica;  
-3) Chimica clinica;  
-4) Semeiotica fisica e strumentale (biennale);  
-5) Semeiotica radiologica;  
-6) Malattie del tubo digerente;  
-7) Malattie del fegato e del pancreas;  
-8) Clinica medica (triennale).  
-Insegnamenti complementari con corsi semestrali, saranno aggiunti in numero non superiore a sei per la totalita' del corso.  
-Art. 573. - L'ordine degli studi (distribuzione degli insegnamenti negli anni di corso), l'ordine e le modalita' degli esami sono stabiliti nel manifesto annuale.  
+Dopo l'art. 81, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione del "Centro di televisione a circuito chiuso" della facolta' di medicina e chirurgia.  
+  
+Centro di televisione a circuito chiuso  
+  
+Art. 82. - L'Universita' degli studi di Roma comprende, altresi', un centro di televisione a circuito chiuso della facolta' di medicina e chirurgia.  
+Art. 83. - Il centro di televisione a circuito chiuso si propone di porre a disposizione degli istituti scientifici e di ricerca della facolta', nonche' di altri eventuali istituti universitari di altre facolta' i mezzi adeguati per sviluppare l'attivita' di ricerca e didattica e scientifica nel campo della applicazione dei mezzi tecnologici all'insegnamento e alla ricerca.  
+Art. 84. - Mediante apposite convenzioni, il centro puo' fornire prestazioni a pagamento su commissione di pubbliche amministrazioni e di privati.  
+Art. 85. - Sono organi direttivi del centro:  
+a) il consiglio direttivo, nominato dalla facolta' di medicina e chirurgia e composto da rappresentanti degli istituti che intendono servirsi del centro e in numero di uno per ciascun istituto;  
+b) il direttore del centro, nominato dal rettore su designazione del consiglio direttivo.  
+Art. 86. - Il consiglio direttivo dura in carica un triennio accademico. Il presidente del consiglio direttivo e' nominato dal rettore su designazione del consiglio stesso.  
+Art. 87. - Le norme relative al funzionamento del centro formano oggetto di apposito regolamento approvato dal consiglio di amministrazione dell'Universita' su proposta del consiglio direttivo e previo parere del senato accademico.  
+Il regolamento viene reso esecutivo con decreto del rettore.  
+Art. 88 (gia' 82) - all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto il seguente:  
+Entomologia medica.  
+  
+Art. 236 (ex 234) - e' modificato nel senso che il "Corso di specializzazione in meccanografia per diplomati e laureati in statistica" muta la denominazione in quella di "Corso di specializzazione in informatica (distinto in: a) indirizzo di ricerca, b) indirizzo aziendale)".  
+L'art. 260 (ex 258), relativo ai titoli di ammissione alla suddetta scuola, e' abrogato e sostituito dal seguente:  
+  
+Sono ammessi alla scuola:  
+Diplomati in statistica;  
+Laureati in scienze statistiche;  
+Laureati in altre facolta' che abbiano sostenuto esami di matematica e di statistica.  
+  
+Il consiglio della scuola puo' ammettere altri laureati che dimostrino, tramite colloquio, la conoscenza degli elementi basilari dell'analisi infinitesimale e della statistica.  
+L'art. 262 (ex 260), relativo agli insegnamenti della suddetta scuola, e' abrogato e sostituito dal seguente:  
+  
+Sono insegnamenti del corso:  
+Struttura fisica degli elaboratori elettronici (semestrale fondamentale);  
+Linguaggi degli elaboratori elettronici (annuale fondamentale);  
+Questioni logiche e metodi di analisi numerica (annuale fondamentale per l'indirizzo di ricerca);  
+Analisi statistiche (annuale fondamentale per l'indirizzo aziendale);  
+Tecniche della ricerca operativa (annuale complementare);  
+Programmazione lineare e dinamica (semestrale complementare);  
+Elaboratori elettronici nelle aziende di servizi (semestrale complementare);  
+Elaboratori elettronici nelle aziende industriali (semestrale complementare);  
+Elaboratori elettronici nella pubblica amministrazione (semestrale complementare):  
+  
+Sistemi informativi aziendali (semestrale complementare);  
+Cibernetica e teoria dell'informazione (semestrale complementare).  
+  
+L'art. 263 (ex 261), relativo al conseguimento del diploma, e' abrogato e sostituito dal seguente:  
+  
+Tutti i discenti per conseguire il diploma dovranno superare i primi tre esami, un esame annuale e due semestrali scelti tra gli esami 6-12. Inoltre per l'indirizzo di ricerca devono superare l'esame 4 e per l'indirizzo aziendale l'esame 5.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 settembre 1973
+### Dato a Roma, addi' 28 ottobre 1974
 
 LEONE MALFATTI
 
 Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 28 ottobre 1974
+Registrato alla Corte dei conti, addi' 7 dicembre 1974
 
-Atti di Governo, registro n. 6, foglio n. 73. - SCIARRETTA
+Atti di Governo, registro n. 7, foglio n. 77. - SCIARRETTA

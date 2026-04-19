@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 dicembre 1986 n. 1062
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 febbraio 1984 n. 472
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 dicembre 1986 n. 1062
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 febbraio 1984 n. 472
+===============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -10,10 +10,10 @@ Autorizzazione ad accettare una donazione a favore dello Stato.
 Art. 1
 ------
 
-n.
+N.
 
-1062. Decreto del Presidente della Repubblica 22 dicembre 1986, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato della donazione, consistente in una collezione di trentaquattro opere, fra dipinti e disegni dei secoli XV, XVIII e XIX, i quali rivestono un importante interesse artistico e storico, da destinare alla Galleria nazionale d'arte moderna di Firenze, disposta dall'avv. Marcello Saltini con atto 6 aprile 1978, n. 15998/7309 di repertorio, a rogito dottor Giovanni Basetti Sani, notaio in Firenze, registrato a Firenze in data 24 aprile 1978 al n. 3421.  
+472. Decreto del Presidente della Repubblica 27 febbraio 1984, col quale, sulla proposta del Ministro per i beni culturali ed ambientali, il Ministero omonimo - Ufficio centrale per i beni librari e gli istituti culturali, viene autorizzato ad accettare la donazione, consistente in circa tremila volumi, nonche' di circa sei raccolte di periodici, del valore complessivo di L. 1.000.000, disposta dalla sig.ra Renata Lidia Arcuno con atto 15 settembre 1980, n. 16857 di repertorio, a rogito dott. Ugo de Cesare, notaio in Napoli.  
   
-Visto, il Guardasigilli: ROGNONI  
-Registrato alla Corte dei conti, addi' 25 marzo 1987  
-Registro n. 8 Beni culturali, foglio n. 227
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 30 luglio 1984  
+Registro n. 28 Beni culturali, foglio n. 65

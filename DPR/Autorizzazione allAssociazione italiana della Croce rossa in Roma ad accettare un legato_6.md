@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 agosto 1986 n. 706
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1984 n. 1028
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 agosto 1986 n. 706
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1984 n. 1028
+===============================================================
 
 Autorizzazione all'Associazione italiana della Croce rossa, in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------
@@ -10,10 +10,13 @@ Autorizzazione all'Associazione italiana della Croce rossa, in Roma, ad accettar
 Art. 1
 ------
 
-n.
+N.
 
-706. Decreto del Presidente della Repubblica 29 agosto 1986, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare il legato, consistente nella meta' del ricavato della vendita di un brillante taglio smeraldo di carati 9,75, disposto dalla sig.ra Lega Sigfrida in Sarteschi con testamento olografo 18 marzo 1981, pubblicato in data 17 febbraio 1982, n. 165640 di repertorio, a rogito dott. Corrado Giannotti, notaio in Como, registrato a Como in data 8 marzo 1982 al n. 1144, da destinare al perseguimento dei fini istituzionali dell'ente.  
+1028. Decreto del Presidente della Repubblica 11 ottobre 1984, col quale, sulla proposta del Ministro della sanita', l'Associazione   
+italiana della Croce rossa, in Roma, viene autorizzata ad accettare   
+il legato, consistente nella somma di L. 10.000.000, disposto dal sig. Gino Macchioro con testamento olografo 4 febbraio 1979,   
+pubblicato in data 2 novembre 1981, numero 25060 di repertorio, a rogito dott. Furio Dei Rossi, notaio in Trieste.   
   
-Visto, il Guardasigilli: ROGNONI  
-Registrato alla Corte dei conti, addi' 18 ottobre 1986  
-Registro n. 10 Sanita', foglio n. 234
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 31 gennaio 1985   
+Registro n. 1 Sanita', foglio n. 228

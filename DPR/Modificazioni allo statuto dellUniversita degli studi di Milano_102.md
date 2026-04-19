@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1956 n. 1132
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1978 n. 810
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1956 n. 1132
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1978 n. 810
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -10,66 +10,80 @@ Modificazioni allo statuto dell'Universita' degli studi di Milano.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 22 maggio 1939, n. 1166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-22;1166), e modificato con [legge 1 giugno 1939, n. 872](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-01;872), e con i [regi decreti 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2056); [15 aprile 1942, n. 423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;423); [24 ottobre 1942, n. 1847, con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1847) [27 luglio 1947, n. 1138, e con decreto del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-07-27;1138) [23 settembre 1949, n. 942](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;942); [21 novembre 1949, n. 1194](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-11-21;1194); [13 marzo 1950, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-03-13;283); [27 ottobre 1951, n. 1825](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1825); [23 aprile 1952, n. 873](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-04-23;873); [10 febbraio 1953, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;383); [13 febbraio 1954, n. 750](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-02-13;750);  
-[14 settembre 1954, n. 1161](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1161); [27 gennaio 1955, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-01-27;219);  
-[16 febbraio 1955, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-16;136); [21 giugno 1955, n. 560](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-06-21;560); [30 giugno 1955, n. 693](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-06-30;693); [27 luglio 1955, n. 786](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-27;786); [27 luglio 1955, n. 802](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-27;802) e [21 settembre 1955, n. 952](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-21;952);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 9. - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti i seguenti:  
-a) storia delle dottrine politiche;  
-b) sociologia;  
-c) organizzazione internazionale;  
-d) dottrina dello Stato;  
-e) diritto internazionale privato e processuale.  
-Art. 25. - Agli insegnamenti complementari del corso di laurea in chimica industriale e' aggiunto quello di "chimica metallurgica".  
-Art. 40. - Agli insegnamenti complementari del corso di laurea in scienze geologiche e' aggiunto quello di "giacimenti minerari".  
-Art. 98. - Dopo l'ordinamento della scuola di specializzazione in "chirurgia plastica ricostruttiva" e' aggiunto il seguente ordinamento relativo alla "scuola di specializzazione in psichiatria".  
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Scuola di specializzazione in psichiatria  
+Dopo l'art. 392 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola diretta a fini speciali in citologia diagnostica, presso la facolta' di medicina e chirurgia:   
   
-1. La durata del corso degli studi e' di tre anni.  
-2. La scuola fa parte integrante della clinica delle malattie nervose e mentali e la direzione di essa e' affidata al direttore della clinica medesima.  
-3. Gli insegnanti della scuola sono nominati dal rettore dell'Universita', su proposta del Consiglio della Facolta' di medicina e chirurgia udito il direttore della scuola.  
-4. Le materie di insegnamento sono le seguenti, ripartite nel triennio:  
-1° anno:  
-a) anatomia, clinica e fisiologia del sistema nervoso con particolare riguardo alla sezione vegetativa ed alle sue relazioni psicosomatiche;  
-b) elementi di psicologia, di psicodinamica e di psicopatologia dall'infanzia all'eta' adulta;  
-c) patologia generale, anatomia e istologia patologica delle malattie mentali.  
-2° anno:  
-a) semeiotica e diagnostica psichiatrica;  
-b) nozioni di igiene e profilassi mentale.  
-3° anno:  
-a) clinica psichiatrica con particolare riguardo alla moderna psicoterapia ed alle cure mediche e chirurgiche delle infermita' mentali;  
-b) richiami alle disposizioni legislative sugli ospedali psichiatrici e sugli alienati ed alle previdenze per i dimessi dagli ospedali psichiatrici;  
-c) nozioni di psichiatria forense.  
-5. Durante i tre anni di corso gli specializzandi sono tenuti a prestare servizio di internato nei reparti della clinica delle malattie nervose e mentali ai quali vengono assegnati e, durante l'ultimo anno, hanno l'obbligo della frequenza bisettimanale nei reparti dell'ospedale psichiatrico provinciale.  
-6. Al termine di ogni anno accademico, gli specializzandi che abbiano ottenuto le prescritte attestazioni di frequenza, dovranno, per potersi iscrivere all'anno di corso successivo, superare gli esami in tutte le materie comprese nel piano degli studi.  
-7. Per essere ammesso all'esame di diploma, che consistera' nella discussione orale di una tesi scritta, in precedenza approvata dal direttore della scuola, lo specializzando dovra' aver superato tutti gli esami previsti dal piano degli studi.  
-8. Nel manifesto annuale la Facolta' comunichera' il numero massimo dei posti disponibili al primo corso e le modalita' di ammissione alla scuola.  
-9. Per l'ammissione agli esami di profitto e di diploma, per la composizione delle relative Commissioni esaminatrici, per quanto concerne le tasse e soprattasse dovute dagli iscritti alla scuola, valgono le norme generali previste dallo statuto per le scuole di specializzazione della Facolta' di medicina e chirurgia. Gli eventuali contributi speciali dovuti dagli iscritti, sono stabiliti anno per anno dal Consiglio di amministrazione dell'Universita', su proposta del Senato accademico, udite la Facolta' e la Scuola.  
+Scuola diretta a fini speciali in citologia diagnostica   
+  
+Art. 393. - La scuola diretta a fini speciali in citologia diagnostica ha sede presso la cattedra di anatomia e istologia patologica (in soprannumero) della Universita' di Milano.   
+Art. 394. - La durata del corso degli studi e' di due anni.   
+Art. 395. - Possono essere ammessi alla scuola gli allievi in possesso di un titolo di istruzione secondaria valido per la ammissione ai corsi universitari.   
+Art. 396. - Per ottenere l'iscrizione alla scuola i candidati debbono sostenere un esame di ammissione.   
+Il numero dei posti disponibili e' determinato anno per anno con decreto del rettore, udito il direttore della scuola.   
+L'ammissione avverra' secondo l'ordine della graduatoria dell'esame sopraddetto.   
+Art. 397. - L'esame di ammissione consiste in una prova scritta di cultura medico-biologica generale e di conoscenza di una lingua straniera, scelta tra l'inglese, il francese ed il tedesco.   
+La commissione esaminatrice e' composta dal preside della facolta' di medicina e chirurgia, dal direttore della scuola e da un terzo membro designato dal rettore dell'Universita'.   
+Art. 398. - L'esame di ammissione avra' luogo entro la prima decade di novembre, nel giorno che sara' stabilito dal rettore con apposito manifesto.   
+Art. 399. - L'anno accademico ha inizio il 15 novembre e termina il 30 giugno.   
+Art. 400. - La domanda di ammissione deve essere corredata dai seguenti documenti: certificato di nascita in carta legale, titolo di studi medi superiori in originale, tre fotografie di cui una autenticata, quietanza del pagamento delle tasse, foglio di iscrizione al corso su modulo rilasciato dall'economato dell'Universita'.   
+Art. 401. - Il direttore della scuola e' di diritto il titolare della cattedra di anatomia e istologia patologica (in soprannumero) dell'Universita' di Milano.   
+Gli insegnanti della scuola sono proposti dal consiglio di facolta' di medicina e chirurgia, udito il direttore della scuola, e nominati dal rettore.   
+Art. 402. - Le materie di insegnamento sono:   
+1° Anno:   
+elementi di anatomia umana normale;   
+istologia e citologia normale;   
+microbiologia;   
+citochimica e istochimica;   
+elementi di anatomia e istologia patologica;   
+tecniche di citopreparazione.   
+2° Anno:   
+citologia diagnostica dell'apparato genitale femminile;   
+citologia diagnostica dell'apparato respiratorio;   
+citologia diagnostica dell'apparato digerente;   
+citologia diagnostica dell'apparato urinario;   
+citologia diagnostica dei versamenti;   
+elementi di citologia diagnostica da agoaspirazione.   
+L'intero corso e' costituito da lezioni teoriche e pratiche ed esercitazioni da effettuarsi a rotazione nei laboratori della cattedra di anatomia e istologia patologica (in soprannumero) e presso servizi di anatomia e istologia patologica ospedalieri.   
+Durante il secondo anno di studi gli allievi presteranno servizio nei laboratori in cui saranno assegnati.   
+Art. 403. - Possono essere ammessi a sostenere l'esame di diploma gli allievi che avranno sostenuto, con esito favorevole, gli esami di tutti gli insegnamenti ed una prova pratica di citologia diagnostica.   
+Art. 404. - Le commissioni per gli esami di profitto sono nominate dal preside della facolta' di medicina e chirurgia, su proposta del direttore della scuola.   
+Le commissioni sono composte di tre membri: il professore ufficiale della materia, presidente, un professore ufficiale di materia affine ed un libero docente e cultore della materia. Ogni commissario ha a disposizione dieci punti.   
+Art. 405. - L'esame di diploma consiste nella discussione di una dissertazione scritta, su tema preventivamente assegnato dal direttore della scuola e in una prova pratica di citologia diagnostica, stabilita dalla commissione esaminatrice.   
+L'esame di diploma viene sostenuto davanti ad una commissione di cinque membri, scelti tra i docenti della scuola, nominata dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Ogni commissario ha a sua disposizione dieci punti.   
+I candidati non riconosciuti idonei potranno ripresentarsi all'esame di diploma dopo un altro anno di frequenza; se al secondo esame non conseguiranno l'idoneita', saranno esclusi da ulteriori prove.   
+Agli allievi che avranno superato l'esame finale viene rilasciato il diploma in citologia diagnostica.   
+Art. 406. - Le tasse e le soprattasse sono le seguenti:   
+  
+tassa annuale di iscrizione . . . . . . . . . . . . . . L. 18.000 soprattassa annuale di iscrizione . . . . . . . . . . . L. 7.000 tassa annuale di iscrizione per gli studenti   
+fuori corso . . . . . . . . . . . . . . . . . . . . . . L. 5.000   
+L'ammontare dei contributi per le esercitazioni pratiche e per le altre prestazioni di cui gli iscritti usufruiscono durante il corso di studi, e' fissato, anno per anno dal consiglio di amministrazione dell'Universita', su proposta del senato accademico, udita la facolta' di medicina e chirurgia e la scuola.   
+La tassa di diploma e' di L. 6.000 ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 settembre 1956
+### Dato a Roma, addi' 2 ottobre 1978
 
-GRONCHI ROSSI
+PERTINI PEDINI
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 12 ottobre 1956
+Registrato alla Corte dei conti, addi' 11 dicembre 1978
 
-Atti del Governo, registro n. 101, foglio n. 25. - CARLOMAGNO
+Registro n. 130 Istruzione, foglio n. 150

@@ -1,85 +1,88 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 luglio 1968 n. 934
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1071
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 luglio 1968 n. 934
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1071
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA.
+-------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e' modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Considerata la necessita' di adeguare le norme sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali, a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Dopo l'art. 259 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di preparazione per tecnici fisiocinesiterapisti (scuola diretta a fini speciali).  
-  
-Scuola di preparazione per tecnici fisiocinesiterapisti  
-(scuola diretta a fini speciali)  
-  
-Art. 260. - E' istituita presso l'istituto di clinica ortopedica dell'Universita' di Pavia ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20), una "Scuola di preparazione per tecnici fisiocinesiterapisti", che ha lo scopo di preparare adeguatamente personale tecnico qualificato alla terapia del movimento e alle tecniche fisioterapiche per l'abilitazione alla professione di fisioterapista. La scuola ha indirizzo teorico-pratico.  
-Art. 261. - La durata del corso degli studi della scuola di preparazione per tecnici fisiocinesiterapisti e' di due anni accademici. E' titolo di ammissione il diploma di scuola media unica ed equipollente, il diploma di avviamento professionale, commerciale o industriale o agrario o ad altro indirizzo, e il diploma di infermiera professionale.  
-Art. 262. - Al primo anno di scuola si accede previo esame di cultura generale davanti ad una commissione composta dal direttore della scuola e da due insegnanti della scuola stessa. L'esame di ammissione avra' luogo entro la prima quindicina del mese di ottobre di ciascun anno, in un giorno stabilito dalla facolta' di medicina e chirurgia, su proposta del direttore della scuola.  
-Art. 263. - Il numero massimo di partecipanti ammessi per ogni anno viene fissato in 20.  
-Art. 264. - Il direttore della scuola e' il direttore dell'istituto di clinica ortopedica dell'Universita' di Pavia.  
-La scuola e' sotto la vigilanza della facolta' di medicina chirurgia, gli insegnanti della scuola sono proposti dal direttore della stessa, approvati dalla facolta' di medicina e chirurgia e nominati dal rettore. Essi possono essere scelti fra i professori ufficiali, tra i liberi docenti, tra gli aiuti e gli assistenti della facolta' di medicina e chirurgia o di altra facolta' dell'ateneo o tra persone di riconosciuta competenza anche al di fuori dell'ambito universitario.  
-Art. 265. - Le materie di insegnamento sono le seguenti:  
-  
+Dopo l'art. 550, e con il conseguente spostamento della numerazione degli articoli successivi, e' inserito il nuovo seguente articolo concernente l'istituzione di una scuola diretta a fini speciali per tecnici infettivologi:  
+Art. 551. - La scuola, istituita ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20), ha lo scopo di preparare tecnici intermedi fra il medico da un lato ed il tecnico-diplomato-infermiere specializzato, dall'altro.  
+La scuola avra' sede presso l'istituto di clinica delle malattie infettive che mettera' a disposizione tutte le attrezzature didattiche e scientifiche necessarie, oltre che i mezzi finanziari per il funzionamento della scuola.  
+La durata del corso di studi e' di due anni.  
+La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa.  
+in caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
+Il direttore sara' coadiuvato nelle discussioni in ordine al funzionamento della scuola da un consiglio della scuola, organismo collegiale di cui faranno parte di diritto cinque docenti della scuola di specializzazione in malattie infettive facenti parte dell'organico di malattie infettive.  
+Possono essere ammessi alla scuola allievi di sana costituzione in possesso di un titolo di istruzione secondaria superiore valido per l'iscrizione all'Universita'.  
+Chi aspira ad ottenere l'iscrizione al primo anno di corso della scuola dovra' sostenere un esame di ammissione per un numero di posti determinato anno per anno dal rettore su proposta del direttore della scuola. Tale numero non potra' essere superiore a quindici.  
+Non sono previste abbreviazioni di corso.  
+Le tasse e soprattasse che gli iscritti sono tenuti a pagare sono quelle previste dall'[art. 7 della legge 18 febbraio 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-02-18;1551~art7).  
+L'importo dei contributi speciali per biblioteche e per spese di laboratorio, di esercitazioni e riscaldamento e' fissato annualmente dal consiglio di amministrazione su proposta del senato accademico, udita la facolta'.  
+Le materie di insegnamento sono le seguenti:  
 1° Anno:  
-Anatomia e fisiologia dell'apparato locomotore  
-Elementi di patologia dell'apparato locomotore (biennale)  
-Elementi di traumatologia  
-Elementi di psicologia  
-Massoterapia  
-Termoterapia  
-  
+1) clinica e patologia delle malattie infettive (biennale);  
+2) epidemiologia generale e speciale delle malattie infettive batteriche, virali e parassitarie (biennale);  
+3) tecniche assistenziali e diagnostiche sul malato (elettrocardiografia, elettroencefalografia, endoscopia, radiologia, medicina nucleare e varie) applicate alle malattie infettive (biennale);  
+4) igiene ambientale con particolare riguardo alla ecologia;  
+5) profilassi diretta delle malattie infettive;  
+6) vaccinazione e campagne di vaccinazione di massa;  
+7) chemioprofilassi nella lotta contro le malattie infettive tropicali e non tropicali.  
 2° Anno:  
-Elementi di patologia dell'apparato locomotore (biennale)  
-Idroterapia e balneoterapia  
-Fangoterapia e crenoterapia  
-Elio-climatoterapia  
-Elettroterapia  
-Terapia radiante  
-Ginnastica medica  
-Rieducazione motoria  
-Riabilitazione del motuleso, terapia di occupazione  
-Ergoterapia.  
+8) clinica e patologia delle malattie infettive (biennale);  
+9) epidemiologia generale e speciale delle malattie infettive batteriche, virali e parassitarie (biennale);  
+10) tecniche assistenziali e diagnostiche sul malato (elettrocardiografia, elettroencefalografia, endoscopia, radiologia, medicina nucleare e varie) applicate alle malattie infettive (biennale);  
+11) diagnostica microbiologica, virologica e parassitologica;  
+12) educazione e legislazione sanitaria nazionale ed internazionale;  
+13) clinica delle malattie tropicali.  
+Per essere ammessi a frequentare il secondo anno di studi gli allievi debbono aver superato tutti gli esami del primo anno.  
+Nel caso in cui non abbiano superato gli esami del primo anno, essi rimarranno nella posizione di fuori corso fino a quando non avranno assolto agli obblighi previsti.  
+L'esame di diploma consiste in un colloquio su un tema preventivamente assegnato dal direttore della scuola.  
   
-Art. 266. - Gli iscritti alla scuola hanno l'obbligo della frequenza del reparto di fisiocinesiterapia della clinica ortopedica per la durata di 2 anni, compiendo anche un tirocinio pratico nelle varie sezioni del reparto.  
-Art. 267. - I programmi di insegnamento e gli orari vengono predisposti dal direttore della scuola ed approvati dal consiglio della facolta' di medicina e chirurgia.  
-La sorveglianza degli iscritti per quanto riguarda la loro attivita' pratica spetta al direttore della scuola. Assenze ingiustificate comportano l'esclusione dal corso.  
-Art. 268. - Per essere ammessi a sostenere gli esami di diploma, gli allievi dovranno aver seguito i corsi, superato gli esami in tutti gli insegnamenti prescritti e aver compiuto con esito favorevole tutte le esercitazioni pratiche previste.  
-Art. 269. - Le commissioni per gli esami di profitto sono nominate dal preside della facolta' di medicina e chirurgia su proposta del, direttore della scuola.  
-Le commissioni sono composte di tre membri, dal professore ufficiale della materia, presidente; da un professore ufficiale di materia affine e da un libero docente o cultore della materia. Ogni commissario ha a disposizione 10 punti.  
-Art. 270. - L'esame di diploma consiste in un esame orale sui temi trattati durante il corso e in una prova pratica stabilita dalla commissione esaminatrice. L'esame di diploma viene sostenuto davanti ad una commissione di cinque membri scelti fra i docenti della scuola, nominata dal preside di facolta' di medicina e chirurgia, su proposta del direttore della scuola. Ogni commissario ha a disposizione dieci punti.  
-I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza della scuola; ma se al secondo esame non sia loro riconosciuta una idoneita', saranno senz'altro esclusi da ulteriori prove.  
-Agli allievi che avranno superato l'esame finale viene rilasciato il diploma di "tecnico fisiocinesiterapista".  
-Art. 271. - Gli iscritti sono tenuti annualmente al pagamento delle seguenti tasse, soprattasse e contributi:  
-  
-Tassa di immatricolazione (da versare una volta sola). . . . L. 2.000 Tassa annuale di iscrizione. . . . . . . . . . . . . . . . . L. 5.000 Soprattassa annuale di esame . . . . . . . . . . . . . . . . L. 3.000 Contributi di laboratorio . . . . . . . . . . . . . . . . . L. 30.000 Tassa erariale di diploma. . . . . . . . . . . . . . . . . . L. 3.000 Libretto e tessera . . . . . . . . . . . . . . . . . . . . . L. 2.000   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 luglio 1968
+### Dato a Roma, addi' 31 ottobre 1981
 
-SARAGAT SCAGLIA
+PERTINI BODRATO
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 27 agosto 1968
+Registrato alla Corte dei conti, addi' 2 marzo 1982
 
-Atti del Governo, registro n. 222, foglio n. 104. - DI PRETORO
+Registro n. 33 Istruzione, foglio n. 341

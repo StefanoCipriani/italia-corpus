@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 852
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 1032
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 852
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 1032
+===============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
@@ -39,19 +39,21 @@ Articolo unico
 --------------
 
   
-Nell'art. 81, relativo alla facolta' di scienze matematiche, fisiche e naturali, all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche e' aggiunto il seguente insegnamento:  
-biologia dello sviluppo.  
+Nell'art. 69, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+diabetologia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Selva di Val Gardena, addi' 2 settembre 1983
+### Dato a Roma, addi' 31 ottobre 1985
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 18 gennaio 1984
+Registrato alla Corte dei conti, addi' 12 aprile 1986
 
-Registro n. 2 Istruzione, foglio n. 186
+Registro n. 27 Istruzione, foglio n. 322

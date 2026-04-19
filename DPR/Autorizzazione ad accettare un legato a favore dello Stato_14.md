@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1979 n. 921
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 ottobre 1982 n. 1118
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1979 n. 921
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 ottobre 1982 n. 1118
+===============================================================
 
 Autorizzazione ad accettare un legato a favore dello Stato.
 -----------------------------------------------------------
@@ -10,8 +10,10 @@ Autorizzazione ad accettare un legato a favore dello Stato.
 Art. 1
 ------
 
-N. 921 del Presidente della Repubblica 14 settembre 1979, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata la accettazione a favore dello Stato del legato disposto dal sig. Amedeo Bocchi con testamento olografo 30 novembre 1976, pubblicato in data 23 maggio 1977, n. 45303 di repertorio, a rogito avv. Franco Galiani, notaio in Roma, consistente in una raccolta di sei dipinti, i quali rivestono un importante interesse artistico e storico, da destinare alla Galleria nazionale in Parma.  
+N.
+
+1118. Decreto del Presidente della Repubblica 13 ottobre 1982, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato del legato disposto dal gen.le Renato Trucchetti con testamento olografo 5 giugno 1973, pubblicato in data 9 febbraio 1979, n. 10637/4341 di repertorio, a rogito dott. Gian Maria Piacentino, notaio in Torino, consistente in una raccolta di mobili e arredi, i quali rivestono un importante interesse artistico e storico, da destinare al Castello reale di Moncalieri (Torino).  
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 30 maggio 1980  
-Registro n. 9 Beni culturali, foglio n. 122  
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 14 febbraio 1983  
+Registro n. 4 Beni culturali, foglio n. 218

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 aprile 1960 n. 505
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 novembre 1983 n. 1156
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 aprile 1960 n. 505
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 novembre 1983 n. 1156
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471) e successivi;
+Veduto lo statuto dell'Universita' di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,122 +20,46 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
+
+Veduto il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita', degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 10. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti quelli di "Diritto industriale" e "Diritto della navigazione e, mentre viene soppresso l'insegnamento di "Diritto coloniale".
-
-Art. 32. - E' sostituito dal seguente: "L'esame di "Diritto costituzionale" deve precedere quelli di "Diritto del lavoro", di "Diritto amministrativo", di "Diritto internazionale", di "Diritto processuale civile", di "Diritto ecclesiastico" e di "Diritto canonico".
-
-L'esame di "Economia politica", deve precedere quello di "Scienza delle finanze" e "Diritto finanziario".
-
-L'esame di "Istituzioni di diritto romano", deve precedere quello di "Diritto romano".
-
-L'esame di "Istituzioni di diritto privato" deve precedere tutti gli altri esami, ad eccezione di quelli indicati,- nell'ordine degli studi consigliato dalla Facolta' per il primo anno di corso".
-
-Art. 14. - E' sostituito dal seguente:
-
-"Sono ammessi alla Facolta' di giurisprudenza i seguenti Istituti giuridici, aventi lo scopo di addestrare i giovani, anche attraverso esercitazioni teoriche e pratiche nelle discipline insegnate dalla Facolta':
-
-a) Istituto di Storia del diritto e di Filosofia del diritto;
-
-b) Istituto di Diritto privato;
-
-c) Istituto di Diritto pubblico;
-
-d) Istituto di Economia e Finanza.
-
-A ciascun istituto e' preposto un direttore scelto dalla Facolta' tra i propri membri. Il direttore dura in carica tre anni e puo' essere confermato.
-
-A lui spettano anche il governo e le rappresentanze dell'Istituto per l'autonoma gestione dei mezzi assegnati di anno in anno all'Istituto.
-
-Il coordinamento delle attivita' degli Istituti sara' curato da un Consiglio composto dai direttori degli Istituti stessi e presieduto dal decano della Facolta' al quale ultimo spettera' il titolo di presidente degli Istituiti giuridici".
-
-Art. 32. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' aggiunto quello di "Anatomia topografica".
-
-Art. 43. - Agli insegnamenti complementari del corso di laurea in Agraria e' aggiunto quello di "Allevamento vegetale".
-
-Art. 60. - Agli insegnamenti complementari del corso di laurea in Scienze naturali e' aggiunto quello di "Patologia generale".
-
-Art. 64. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche e' aggiunto quello di "Geografia".
-
-Art. 96, relativo alla Scuola di perfezionamento in Chirurgia e' modificato nel senso che il numero degli studenti che possono essere iscritti e' limitato a dodici anziche' a cinque.
-
-Art. 100, relativo alla Scuola di perfezionamento in Anestesiologia e' modificato nel senso che il numero degli studenti che possono essere iscritti alla Scuola e' limitato a dodici anziche' a cinque.
-
-Art. 102, relativo alla Scuola di perfezionamento in Cardiologia e' modificato nel senso che il numero degli studenti che possono essere iscritti alla Scuola e' limitato a dodici anziche' ad otto.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 20 aprile 1960
-
-GRONCHI
-
-MEDICI
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 1 giugno 1960 Atti del Governo, registro n. 127, foglio n. 8. - VILLA
+Lo statuto dell'Universita' di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Nell'art. 33, relativo al corso di laurea in filosofia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+storia del pensiero scientifico.  
+
+Art. 2
+------
+
   
-Decreta:  
   
-Lo statuto dell'Universita', degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 10. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti quelli di "Diritto industriale" e "Diritto della navigazione e, mentre viene soppresso l'insegnamento di "Diritto coloniale".  
-Art. 32. - E' sostituito dal seguente: "L'esame di "Diritto costituzionale" deve precedere quelli di "Diritto del lavoro", di "Diritto amministrativo", di "Diritto internazionale", di "Diritto processuale civile", di "Diritto ecclesiastico" e di "Diritto canonico".  
-L'esame di "Economia politica", deve precedere quello di "Scienza delle finanze" e "Diritto finanziario".  
-L'esame di "Istituzioni di diritto romano", deve precedere quello di "Diritto romano".  
-L'esame di "Istituzioni di diritto privato" deve precedere tutti gli altri esami, ad eccezione di quelli indicati,- nell'ordine degli studi consigliato dalla Facolta' per il primo anno di corso".  
-Art. 14. - E' sostituito dal seguente:  
-"Sono ammessi alla Facolta' di giurisprudenza i seguenti Istituti giuridici, aventi lo scopo di addestrare i giovani, anche attraverso esercitazioni teoriche e pratiche nelle discipline insegnate dalla Facolta':  
-a) Istituto di Storia del diritto e di Filosofia del diritto;  
-b) Istituto di Diritto privato;  
-c) Istituto di Diritto pubblico;  
-d) Istituto di Economia e Finanza.  
-A ciascun istituto e' preposto un direttore scelto dalla Facolta' tra i propri membri. Il direttore dura in carica tre anni e puo' essere confermato.  
-A lui spettano anche il governo e le rappresentanze dell'Istituto per l'autonoma gestione dei mezzi assegnati di anno in anno all'Istituto.  
-Il coordinamento delle attivita' degli Istituti sara' curato da un Consiglio composto dai direttori degli Istituti stessi e presieduto dal decano della Facolta' al quale ultimo spettera' il titolo di presidente degli Istituiti giuridici".  
-Art. 32. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' aggiunto quello di "Anatomia topografica".  
-Art. 43. - Agli insegnamenti complementari del corso di laurea in Agraria e' aggiunto quello di "Allevamento vegetale".  
-Art. 60. - Agli insegnamenti complementari del corso di laurea in Scienze naturali e' aggiunto quello di "Patologia generale".  
-Art. 64. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche e' aggiunto quello di "Geografia".  
-Art. 96, relativo alla Scuola di perfezionamento in Chirurgia e' modificato nel senso che il numero degli studenti che possono essere iscritti e' limitato a dodici anziche' a cinque.  
-Art. 100, relativo alla Scuola di perfezionamento in Anestesiologia e' modificato nel senso che il numero degli studenti che possono essere iscritti alla Scuola e' limitato a dodici anziche' a cinque.  
-Art. 102, relativo alla Scuola di perfezionamento in Cardiologia e' modificato nel senso che il numero degli studenti che possono essere iscritti alla Scuola e' limitato a dodici anziche' ad otto.  
+Nell'art. 35, relativo al corso di laurea in lingue e letterature straniere moderne (indirizzo europeo), e' aggiunto il seguente nuovo insegnamento:   
+sinologia.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 aprile 1960
+### Dato a Roma, addi' 22 novembre 1983
 
-GRONCHI MEDICI
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 1 giugno 1960
+Registrato alla Corte dei conti, addi' 22 marzo 1984
 
-Atti del Governo, registro n. 127, foglio n. 8. - VILLA
+Registro n. 17 Istruzione, foglio n. 340

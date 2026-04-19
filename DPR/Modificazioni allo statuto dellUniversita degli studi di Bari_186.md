@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1982 n. 141
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 agosto 1953 n. 857
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1982 n. 141
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 agosto 1953 n. 857
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con i [regi decreti 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1927-10-13;2169); [31 ottobre 1929, n. 2481](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1929-10-31;2481); [30 ottobre 1930, n. 1858](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1930-10-30;1858); [27 ottobre 1932, n. 2082](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1932-10-27;2082); [13 dicembre 1934, n. 2404](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-13;2404); [1 ottobre 1936, n. 2020](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-01;2020); [13 luglio 1939, n. 1168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-07-13;1168); [26 ottobre 1940, n. 2029](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2029) e [24 ottobre 1942, n. 1785; con regio decreto-legge](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto.legge:1942-10-24;1785) [27 gennaio 1944, n. 58, con decreto legislativo luogotenenziale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo.luogotenenziale:1944-01-27;58) [5 aprile 1945, n. 238, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1945-04-05;238) [21 aprile 1949, n. 451](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-21;451); [31 ottobre 1950, n. 1293](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1293); [11 maggio 1951, n. 633](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-05-11;633) e [23 gennaio 1952, n. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-01-23;66);
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,91 +18,184 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Vedute le proposte di modifiche dello statuto formulate delle autorita' accademiche dell'Universita' anzidetta;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio universitario nazionale nel suo parere;
+Sulla proposta del Ministro per la pubblica istruzione;
 
-Sentito il parere del Consiglio universitario nazionale;
+Decreta:
 
-Veduta la necessita' di adeguare le norme sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Sulla
------
+Art. 88 (gia' 85). - La dicitura usata di "scuole di perfezionamento" nell'art. 88 (gia' 85) ed in quelli successivi e' modificata con quella di "scuole di specializzazione".
 
-proposta del Ministro della pubblica istruzione; Decreta:
+L'art. 113 (gia' 110), relativo alla scuola di perfezionamento in otorinolaringoiatrica, e' cosi' modificato:
+
+Scuola di specializzazione
+
+in clinica otorinolaringoiatrica.
+
+Art. 113. - La scuola di specializzazione in clinica otorinolaringoiatrica e' annessa alla clinica otorinolaringoiatrica.
+
+Gli anni di studio per il conseguimento del diploma di specialista sono tre.
+
+Gli insegnamenti impartiti nella scuola sono i seguenti:
+
+1° anno: Anatomia clinica e fisiopatologia dell'orecchio e delle prime vie aeree e digerenti.
+
+2° anno: Tecnica diagnostica speciale.
+
+3° anno: Patologia e clinica otorinolaringologica.
+
+Gli iscritti alla scuola di specializzazione hanno l'obbligo dell'internato nella clinica otorinolaringoiatrica per tutta la durata del corso.
+
+Dopo l'art. 113, sono aggiunti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in medicina interna e in urologia.
+
+Scuola di specializzazione in medicina interna.
+
+Art. 114. - La scuola di specializzazione in medicina interna e' annessa all'Istituto di clinica medica.
+
+Gli anni di studio per il conseguimento del diploma di specialista sono cinque.
+
+Gli insegnamenti impartiti nella scuola sono:
+
+1° anno: Propedeutica clinica.
+
+2° anno: Semeiotica clinica.
+
+3° anno: Indagini di laboratorio.
+
+4° anno: Radiologia clinica.
+
+5° anno: Clinica medica.
+
+Durante lo svolgimento dell'intero corso gli aspiranti al diploma hanno l'obbligo di internato nella clinica medica.
+
+Scuola di specializzazione in urologia.
+
+Art. 115. - La scuola di specializzazione in urologia e' annessa all'Istituto di clinica chirurgica.
+
+Gli anni di studio per il conseguimento del diploma di specialista sono tre.
+
+1° anno:
+
+Anatomia;
+
+Fisiologia;
+
+Patologia chirurgica urologica.
+
+2° anno:
+
+Anatomia patologica;
+
+Clinica chirurgica urologica;
+
+Tecnica di laboratorio e cistoscopia;
+
+Patologia chirurgica urologica.
+
+3° anno:
+
+Clinica chirurgica urologica;
+
+Tecnica di laboratorio e cistoscopia;
+
+Radiologia urologica.
+
+Gli iscritti alla scuola di specializzazione hanno l'obbligo di internato nella clinica chirurgica per tutta la durata dell'insegnamento.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 25 agosto 1953
+
+EINAUDI
+
+SEGNI
+
+Visto, il Guardasigilli: AZARA
+
+Registrato
+----------
+
+atta Corte dei conti, addi' 17 novembre 1953 Atti del Governo, registro n. 80, foglio n. 18. - PALLA
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Lo statuto dell'Universita' di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 192 - all'elenco delle scuole di specializzazione in medicina e' aggiunta la scuola di specializzazione in "biologia clinica".  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con i [regi decreti 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1927-10-13;2169); [31 ottobre 1929, n. 2481](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1929-10-31;2481); [30 ottobre 1930, n. 1858](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1930-10-30;1858); [27 ottobre 1932, n. 2082](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1932-10-27;2082); [13 dicembre 1934, n. 2404](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-13;2404); [1 ottobre 1936, n. 2020](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-01;2020); [13 luglio 1939, n. 1168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-07-13;1168); [26 ottobre 1940, n. 2029](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2029) e [24 ottobre 1942, n. 1785; con regio decreto-legge](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto.legge:1942-10-24;1785) [27 gennaio 1944, n. 58, con decreto legislativo luogotenenziale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo.luogotenenziale:1944-01-27;58) [5 aprile 1945, n. 238, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1945-04-05;238) [21 aprile 1949, n. 451](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-21;451); [31 ottobre 1950, n. 1293](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1293); [11 maggio 1951, n. 633](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-05-11;633) e [23 gennaio 1952, n. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-01-23;66);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Dopo l'art. 265, e con il conseguente spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo relativo alla scuola di specializzazione in biologia clinica.  
+Decreta:  
   
-Scuola di specializzazione in biologia clinica  
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 88 (gia' 85). - La dicitura usata di "scuole di perfezionamento" nell'art. 88 (gia' 85) ed in quelli successivi e' modificata con quella di "scuole di specializzazione".  
+L'art. 113 (gia' 110), relativo alla scuola di perfezionamento in otorinolaringoiatrica, e' cosi' modificato:  
   
-Art. 266. - Alla facolta' di medicina e chirurgia dell'Universita' di Bari e' annessa la scuola di specializzazione in biologia clinica che ha sede presso gli istituti di chimica biologica e patologia medica e metodologia clinica.  
-La scuola ha lo scopo di preparare sul piano scientifico e tecnico i medici che intendono dedicarsi particolarmente alle analisi di laboratorio applicate alla clinica e rilascia il diploma di specialista in biologia clinica.  
-Possono essere ammessi i laureati in medicina e chirurgia. Il corso ha la durata di quattro anni e non possono essere concesse abbreviazioni di corso. L'attivita' della scuola e' basata su lezioni teorico-pratiche e su frequenza obbligatoria ai fini di apprendimento nei laboratori e si svolge presso gli istituti di chimica biologica e patologia medica.  
-La frequenza obbligatoria ai fini di apprendimento puo' essere svolta anche presso i servizi di analisi universitari o ospedalieri previa autorizzazione del direttore della scuola. Il numero massimo degli iscritti e' di trenta per anno ed il numero massimo complessivo e' di centoventi. L'ammissione viene regolata mediante concorso per titoli ed esami.  
-La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento, la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
-Gli insegnamenti impartiti dalla scuola sono distribuiti nei quattro anni cosi' come segue:  
-1° Anno:  
-1) chimica biologica generale;  
-2) fondamenti di chimica fisica biologica;  
-3) batteriologia generale;  
-4) biochimica analitica I;  
-5) tecnica dei prelevamenti;  
-6) fisiopatologia I;  
-7) fondamenti di statistica biologica.  
-2° Anno:  
-8) chimica biologica speciale di organi e tessuti;  
-9) fisiopatologia II;  
-10) ematologia ed ematochimica I;  
-11) batteriologia speciale;  
-12) immunologia e sierologia;  
-13) biochimica analitica II.  
-3° Anno:  
-14) nozioni di igiene e legislazione sanitaria;  
-15) ematologia ed ematochimica II;  
-16) chimica clinica;  
-17) immunochimica;  
-18) parassitologia;  
-19) virologia.  
-4° Anno:  
-20) analisi biologico-tossicologiche;  
-21) endocrinologia clinica e dosaggi ormonali;  
-22) micologia;  
-23) enzimologia clinica;  
-24) automazione e controlli di qualita';  
-25) metodiche microanalitiche;  
-26) microscopia clinica e citodiagnostica.  
-Ogni materia di insegnamento e' anche materia di esame, il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo.  
-Alla fine dei quattro anni gli allievi devono presentare una tesi scritta e sostenere un esame di diploma.  
-L'esame di diploma consiste nella discussione di una dissertazione scritta originale e nell'espletamento di prove pratiche e si svolge secondo norme generali del testo unico.  
-I candidati non riconosciuti idonei possono presentarsi dopo un altro anno di frequenza alla scuola. A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista in biologia clinica.  
-I professori incaricati di svolgere i corsi proposti dal direttore della scuola vengono designati dalla facolta' di medicina e chirurgia in conformita' alle norme vigenti.  
-Gli studenti sono tenuti al pagamento di tasse, soprattasse e contributi in conformita' alle vigenti disposizioni in materia nella misura di: tassa annuale di iscrizione L. 30.000, contributo annuo di laboratorio L. 200.000.  
+Scuola di specializzazione  
+in clinica otorinolaringoiatrica.  
+  
+Art. 113. - La scuola di specializzazione in clinica otorinolaringoiatrica e' annessa alla clinica otorinolaringoiatrica.  
+Gli anni di studio per il conseguimento del diploma di specialista sono tre.  
+Gli insegnamenti impartiti nella scuola sono i seguenti:  
+1° anno: Anatomia clinica e fisiopatologia dell'orecchio e delle prime vie aeree e digerenti.  
+2° anno: Tecnica diagnostica speciale.  
+3° anno: Patologia e clinica otorinolaringologica.  
+Gli iscritti alla scuola di specializzazione hanno l'obbligo dell'internato nella clinica otorinolaringoiatrica per tutta la durata del corso.  
+Dopo l'art. 113, sono aggiunti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in medicina interna e in urologia.  
+  
+Scuola di specializzazione in medicina interna.  
+  
+Art. 114. - La scuola di specializzazione in medicina interna e' annessa all'Istituto di clinica medica.  
+Gli anni di studio per il conseguimento del diploma di specialista sono cinque.  
+Gli insegnamenti impartiti nella scuola sono:  
+1° anno: Propedeutica clinica.  
+2° anno: Semeiotica clinica.  
+3° anno: Indagini di laboratorio.  
+4° anno: Radiologia clinica.  
+5° anno: Clinica medica.  
+Durante lo svolgimento dell'intero corso gli aspiranti al diploma hanno l'obbligo di internato nella clinica medica.  
+  
+Scuola di specializzazione in urologia.  
+  
+Art. 115. - La scuola di specializzazione in urologia e' annessa all'Istituto di clinica chirurgica.  
+Gli anni di studio per il conseguimento del diploma di specialista sono tre.  
+1° anno:  
+Anatomia;  
+Fisiologia;  
+Patologia chirurgica urologica.  
+2° anno:  
+Anatomia patologica;  
+Clinica chirurgica urologica;  
+Tecnica di laboratorio e cistoscopia;  
+Patologia chirurgica urologica.  
+3° anno:  
+Clinica chirurgica urologica;  
+Tecnica di laboratorio e cistoscopia;  
+Radiologia urologica.  
+Gli iscritti alla scuola di specializzazione hanno l'obbligo di internato nella clinica chirurgica per tutta la durata dell'insegnamento.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 febbraio 1982
+### Dato a Roma, addi' 25 agosto 1953
 
-PERTINI BODRATO
+EINAUDI SEGNI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: AZARA
 
-Registrato alla Corte dei conti, addi' 30 marzo 1982
+Registrato atta Corte dei conti, addi' 17 novembre 1953
 
-Registro n. 49 Istruzione, foglio n. 199
+Atti del Governo, registro n. 80, foglio n. 18. - PALLA

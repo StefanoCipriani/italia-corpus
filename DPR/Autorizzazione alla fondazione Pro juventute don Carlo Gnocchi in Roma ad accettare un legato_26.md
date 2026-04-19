@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1976 n. 173
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1984 n. 1007
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1976 n. 173
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1984 n. 1007
+===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,13 @@ Art. 1
 
 N.
 
-173. Decreto del Presidente della Repubblica 6 marzo 1976, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dal sig. don Giuseppe Lazzari in favore dell'Opera di don Gnocchi, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come ha fatto presente la fondazione medesima, con testamento olografo 4 marzo 1972, pubblicato a rogito dott. Gianfranco Palavera, notaio in Gallarate (Milano), in data 26 gennaio 1973, n. 14 di repertorio, n. 1995 di raccolta, registrato a Gallarate il 13 febbraio 1973 con il n. 968, vol. 216, consistente nella somma di L. 3.000.000.  
+1007. Decreto del Presidente della Repubblica 22 ottobre 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la   
+fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene   
+autorizzata ad accettare il legato, consistente nella somma di L. 35.000.000 con possibilita' di aumentare o diminuire tale importo in funzione del successivo realizzo delle attivita' da parte degli esecutori testamentari, disposto dalla sig.ra Gentili Andreina ved.   
+Pagnani, con testamento olografo 1 aprile 1981 pubblicato in data 3   
+dicembre 1981, n. 12044/2772 di repertorio, a rogito dott. Giuseppe   
+Ottolenghi, notaio in Roma, registrato a Roma in data 21 dicembre 1981, al numero 48308/I.A.   
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 24 aprile 1976  
-Atti di Governo, registro n. 5, foglio n. 37
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 25 gennaio 1985   
+Registro n. 1 Presidenza, foglio n. 180

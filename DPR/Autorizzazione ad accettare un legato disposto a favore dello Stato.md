@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1984 n. 189
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1971 n. 1224
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1984 n. 189
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1971 n. 1224
+===============================================================
 
 Autorizzazione ad accettare un legato disposto a favore dello Stato.
 --------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-189. Decreto del Presidente della Repubblica 9 aprile 1984, col quale, sulla proposta del Ministro delle finanze, viene autorizzata l'accettazione del legato, consistente nella villa Boncompagni, sita in Roma, alla via Boncompagni n. 18, con giardino e terreno adiacente e le costruzioni ivi erette, con tutto l'arredamento del piano rialzato di detta villa, disposto a favore dello Stato dalla sig.ra Alice Blanceflor De Bildt, vedova Gancia e gia' vedova Boncompagni Ludovisi, con testamento olografo 22 gennaio 1970, pubblicato in data 15 giugno 1972, n. 749250 di repertorio, a rogito dott. Nazzareno Dobici, notaio in Roma, registrato a Roma in data 7 luglio 1972 al n. 29156.   
+1224. Decreto del Presidente della Repubblica 18 ottobre 1971, col quale, sulla proposta del Ministro per la pubblica istruzione, viene autorizzata l'accettazione del legato disposto a favore dello Stato dall'avv. Ottavio Simoneschi con testamento olografo del 12 gennaio 1957, integrato da tre codicilli del 12 febbraio 1957, 21 gennaio 1958 e 1 novembre 1959 come da atto notarile dell'11 ottobre 1960, rep. n. 21876, a rogito dott. Valente Vincenti, notaio in Montepulciano, consistente in raccolte d'interesse artistico, letterario e scientifico da custodire in Pisa a cura della locale soprintendenza ai monumenti e gallerie ed esposte al pubblico.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 22 maggio 1984   
-Registro n. 31 Finanze, foglio n. 81
+Visto, il Guardasigilli: COLOMBO  
+Registrato alla Corte dei conti, addi' 7 gennaio 1972  
+Atti del Governo, registro n. 245, foglio n. 226. - VALENTINI

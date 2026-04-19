@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1966 n. 402
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1966 n. 803
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1966 n. 402
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1966 n. 803
+=============================================================
 
 Autorizzazione al Commissariato per la gioventu' italiana, con sede in Roma, ad accettare una donazione.
 --------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-402. Decreto del Presidente della Repubblica 28 marzo 1966, col quale, sulla proposta del Ministro per il tesoro, il Commissariato per la gioventu' italiana, con sede in Roma, via Armando Diaz n. 20, viene autorizzato ad accettare la donazione dei terreni di cui al rogito dott. Leonardo Cosco, notaio in Catanzaro del 16 dicembre 1954, n. 13125 di repertorio e n. 7743 di raccolta.  
+803. Decreto del Presidente della Repubblica 25 maggio 1966, col quale, sulla proposta del Ministro per il tesoro, il Commissariato per la gioventu' italiana, con sede in Roma, via Armando Diaz n. 20, viene autorizzato ad accettare la donazione, mortis causa, di alcuni immobili siti nel comune di Torriglia, localita' Lago Buoi, nonche' i terreni ed i fabbricati siti nel comune di Fosdinovo, localita' Zignola, come da rogito notarile Paolo Cassanello del 23 aprile 1936.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 4 giugno 1966  
-Atti del Governo, registro n. 203, foglio n. 115. - VILLA
+Registrato alla Corte dei conti, addi' 7 ottobre 1966  
+Atti del Governo, registro n. 206, foglio n. 42. - VILLA

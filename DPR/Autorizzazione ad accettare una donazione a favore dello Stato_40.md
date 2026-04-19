@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1984 n. 1222
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 1000
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1984 n. 1222
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 1000
+=================================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1222. Decreto del Presidente della Repubblica 5 dicembre 1984, col quale, sulla proposta del Ministro delle finanze, viene autorizzata l'accettazione della donazione a favore dello Stato dell'area della superficie complessiva di mq 9.142, occorsa per la realizzazione del Sacrario militare italiano, disposta dal comune di Mignano Monte Lungo (Caserta) con atto 30 dicembre 1977, n. 29676 di repertorio, a rogito dott. Luigi Gamberale, notaio in Cassino (Frosinone), registrato a Cassino in data 18 gennaio 1978 al n. 264.  
+1000. Decreto del Presidente della Repubblica 22 settembre 1981, col quale, sulla proposta del Ministro delle finanze, viene autorizzata l'accettazione della donazione a favore dello Stato, disposta dal comune di Verbania (Novara) con atto 4 dicembre 1975, n. 42186 di repertorio, a rogito dott. Mario Matricardi, notaio in Verbania-Pallanza, consistente in un appezzamento di terreno della superficie di mq 8540 circa, per la costruzione di una stazione di controllo autoveicoli.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 11 luglio 1985  
-Registro n. 45 Finanze, foglio n. 119
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 30 novembre 1981  
+Registro n. 36 Finanze, foglio n. 260

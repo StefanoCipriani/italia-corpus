@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1978 n. 653
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 728
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1978 n. 653
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 728
 ================================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-653. Decreto del Presidente della Repubblica 12 settembre 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Sforza Teresa ved. Bellingeri con testamento olografo del 1 luglio 1966, pubblicato a rogito notaio dott. Rinaldo Chiaffredo di Torino in data 18 dicembre 1975, n. 27397-13889 di repertorio, registrato a Torino il 19 dicembre 1975 al n. 35299 vol. 1309 a.p. a favore dei minorati dell'istituto don Gnocchi S. Vito, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come ha fatto presente la fondazione medesima, consistente nella somma di L. 3.000.000.  
+728. Decreto del Presidente della Repubblica 5 settembre 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in un appartamento con cantina sito in Milano, via Vittadini n. 25, censito al nuovo catasto edilizio urbano alla partita 33026, foglio 527, mappale 82 sub 2, del valore attribuito di L. 20.500.000 e in beni mobili del valore attribuito di L. 972.500, disposto dalla sig.na Giovanna Morandi con testamento olografo 27 novembre 1969, pubblicato il 5 gennaio 1978, n. 46546 di repertorio e n. 13700 progr., a rogito dott. Enrico Masini, notaio in Milano, registrato a Milano il 13 gennaio 1978, n. 780, serie N.  
   
-Visto, 17 Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 19 ottobre 1978  
-Registro n. 7 Presidenza, foglio n. 66
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti, addi' 27 ottobre 1980  
+Registro n. 8 Presidenza, foglio n. 202

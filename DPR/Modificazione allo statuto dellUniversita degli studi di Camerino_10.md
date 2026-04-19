@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 720
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 750
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 720
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 750
+================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Camerino.
 --------------------------------------------------------------------
@@ -39,21 +39,19 @@ Articolo unico
 --------------
 
   
-Nell'art. 17, relativo al corso di laurea in giurisprudenza, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-immunoematologia forense.  
+Nell'art. 30, relativo al corso di laurea in chimica, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+biopolimeri.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 17 maggio 1986
+### Dato a Selva di Val Gardena, addi' 2 settembre 1983
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 14 ottobre 1986
+Registrato alla Corte dei conti, addi' 16 dicembre 1983
 
-Registro n. 76 Istruzione, foglio n. 367
+Registro n. 78 Istruzione, foglio n. 79

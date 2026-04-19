@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1969 n. 414
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1967 n. 132
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1969 n. 414
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1967 n. 132
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,60 +18,149 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla
------
+Sulla proposta del Ministro per la pubblica istruzione;
 
-proposta del Ministro per la pubblica istruzione; Decreta:
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 49. - L'elenco degli Istituti annessi alla Facolta' di agraria e' modificato nel senso che il primo e secondo comma sono abrogati e sostituiti dai seguenti:
+
+1) Istituto di anatomia e fisiologia degli animali domestici, cui fanno capo gli insegnamenti di: "Anatomia e fisiologia degli animali domestici" e "Zoognostica".
+
+2) Istituto di entomologia agraria, cui fanno capo gli insegnamenti di "Entomologia agraria" e "Zoologia generale".
+
+Art. 56. - All'elenco degli insegnamenti complementari del corso di laurea in Filosofia e' aggiunto quello di:
+
+20) Pedagogia sociale.
+
+Art. 104, relativo al Seminario di studi chimici presso la Facolta' di scienze matematiche, fisiche e naturali e' abrogato e sostituito dal seguente:
+
+Organo direttivo del Seminario di studi chimici e' un Comitato costituito da tutti i professori di ruolo delle discipline chimiche della Facolta' di scienze.
+
+Il Comitato direttivo puo' cooptare all'unanimita' professori di materie chimiche di altre Facolta'. Questi vengono in tal modo a far parte del Comitato direttivo a parita' di diritti.
+
+Il Comitato nomina nel suo seno un direttore del Seminario, che durera' in carica un anno accademico.
+
+Art. 117, relativo al corso di laurea di Ingegneria civile - Sezione edile, gli insegnamenti del gruppo c) materie a scelta dello studente (obbligatorio uno dei due gruppi) sono abrogati e sostituiti dai seguenti:
+
+| 20. Cantieri edili;
+
+I <
+
+| 21. Igiene applicata.
+
+| 20. Tecnologie dei materiali edili;
+
+II <
+
+| 21. Tecnologie della produzione.
+
+Art. 120.- Nel corso di laurea in Ingegneria elettrotecnica l'insegnamento obbligatorio sul piano nazionale di "Elettrotecnica I" e' soppresso e sostituito da quello di "Elettrotecnica".
+
+Nello stesso corso di laurea l'insegnamento obbligatorio sul piano della Facolta' di "Elettrotecnica. II" e' soppresso e sostituito da quello di "Complementi di elettrotecnica".
+
+Nel gruppo c) di materie a scelta dello studente del predetto corso di laurea, l'insegnamento di "Misure elettriche III" (\*) per l'orientamento elettromeccanico e' soppresso e sostituito da quello di "Collaudi elettrici".
+
+Art. 121, relativo alle norme sulle propedeuticita' del triennio di Ingegneria e' modificato nel senso che gli insegnamenti di "Elettrotecnica I" e di "Elettrotecnica II" sono soppressi e sostituiti dai seguenti: "Elettrotecnica" e "Complementi di elettrotecnica".
+
+Nello stesso articolo il nono e decimo comma sono abrogati e sostituiti dai seguenti:
+
+Macchine elettriche: propedeutico per gli esami di Costruzioni elettromeccaniche, di Controlli automatici, di Impianti elettrici II, di Misure elettriche II e di Collaudi elettrici.
+
+Misure elettriche II: propedeutico per l'esame di Collaudi elettrici.
+
+Dopo il decimo comma sono aggiunti i seguenti nuovi commi:
+
+Fisica tecnica: propedeutico per l'esame di Macchine, Per ottenere l'iscrizione al quarto anno di corso lo studente deve aver superato l'esame di Elettrotecnica I.
+
+Per ottenere l'iscrizione al quinto anno di corso lo studente deve aver superato l'esame di Macchine elettriche.
+
+Art. 122, relativo alle norme degli esami, nei corsi di laurea in Ingegneria, dopo il primo comma e' aggiunto il seguente: L'esame di Elettrotecnica I comporta anche una prova scritta.
+
+Nello stesso articolo l'ultimo comma e' abrogato e sostituito dal seguente: l'esame di laurea consistera' nella discussione di un progetto particolare presentato come tesi.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 16 febbraio 1967
+
+SARAGAT
+
+GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 23 marzo 1967 Atti del Governo, registro n. 210, foglio n. 52. - GRECO
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Presso l'Universita' degli studi di Bari e' istituita la facolta' di lingue e letterature straniere.  
-L'attuale corso di laurea in lingue e letterature straniere, annesso alla facolta' di economia e commercio della stessa universita', passa a far parte della nuova facolta' di lingue e letterature straniere.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Per tale facolta' sono assegnati i seguenti posti di ruolo:  
-a) quattro posti di professore, mediante trasferimento dall'organico di cui e' dotata la facolta' di economia e commercio della stessa Universita' di Bari e propriamente i posti assegnati alle cattedre di lingua e letteratura tedesca; di filologia germanica; di lingua serbocroata e un altro posto libero da assegnare;  
-b) diciassette posti di assistente mediante trasferimento dall'organico di cui e' dotata la facolta' di economia e commercio della stessa Universita' di Bari e propriamente i posti assegnati alla cattedra di lingua e letteratura serbo-croata (1); di storia (1); di filologia germanica (2); di lingua e letteratura spagnola (2); di lingua e letteratura inglese (4); di lingua e letteratura tedesca (2); di lingua e letteratura francese (3); di lingua e letteratura italiana (1); di letteratura nord-americana (1).  
-
-Art. 3
-------
-
+Decreta:  
   
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 49. - L'elenco degli Istituti annessi alla Facolta' di agraria e' modificato nel senso che il primo e secondo comma sono abrogati e sostituiti dai seguenti:  
+1) Istituto di anatomia e fisiologia degli animali domestici, cui fanno capo gli insegnamenti di: "Anatomia e fisiologia degli animali domestici" e "Zoognostica".  
+2) Istituto di entomologia agraria, cui fanno capo gli insegnamenti di "Entomologia agraria" e "Zoologia generale".  
+Art. 56. - All'elenco degli insegnamenti complementari del corso di laurea in Filosofia e' aggiunto quello di:  
+20) Pedagogia sociale.  
+Art. 104, relativo al Seminario di studi chimici presso la Facolta' di scienze matematiche, fisiche e naturali e' abrogato e sostituito dal seguente:  
+Organo direttivo del Seminario di studi chimici e' un Comitato costituito da tutti i professori di ruolo delle discipline chimiche della Facolta' di scienze.  
+Il Comitato direttivo puo' cooptare all'unanimita' professori di materie chimiche di altre Facolta'. Questi vengono in tal modo a far parte del Comitato direttivo a parita' di diritti.  
+Il Comitato nomina nel suo seno un direttore del Seminario, che durera' in carica un anno accademico.  
+Art. 117, relativo al corso di laurea di Ingegneria civile - Sezione edile, gli insegnamenti del gruppo c) materie a scelta dello studente (obbligatorio uno dei due gruppi) sono abrogati e sostituiti dai seguenti:  
+| 20. Cantieri edili;  
+I <  
+| 21. Igiene applicata.  
+| 20. Tecnologie dei materiali edili;  
+II <  
+| 21. Tecnologie della produzione.  
   
-Lo statuto dell'Universita' degli studi di Bari, pertanto, approvato e modificato con i decreti suindicati, e' ulteriormente modificato come appresso:   
-  
-Gli articoli 25, 26 e 27, relativi all'ordinamento del diploma in statistica e degli istituti della facolta' di economia e commercio assumono la numerazione 23, 24 e 25.   
-Dopo l'art. 25, e con il conseguente spostamento della successiva numerazione, e' aggiunto, sotto il Titolo IV la seguente intestazione: Facolta' di lingue e letterature straniere.   
-Gli articoli 23 e 24 relativi all'ordinamento degli studi del corso di laurea in lingue e letterature straniere assumono la numerazione 26 e 27.   
-Dopo l'art. 27, e con il conseguente spostamento della successiva numerazione, e' aggiunto il seguente nuovo articolo relativo agli istituti annessi alla nuova facolta' di lingue e letterature straniere. Tali istituti cessano di far parte della facolta' di economia e commercio (ex art. 27) e sono trasferiti alla nuova facolta' di lingue e letterature straniere.   
-Art. 28. - Alla facolta' sono annessi i seguenti istituti:   
-1) Istituto di lingua e letteratura inglese e americana;   
-2) Istituto di lingua e letteratura francese (che comprende anche filologia romanza);   
-3) Istituto di lingua e letteratura tedesca (che comprende anche filologia germanica);   
-4) Istituto di lingua e letteratura spagnola (cui fa capo anche lingua e letteratura portoghese).   
-Ciascun istituto e' diretto dal professore di ruolo piu' anziano del rispettivo gruppo di materie.   
+Art. 120.- Nel corso di laurea in Ingegneria elettrotecnica l'insegnamento obbligatorio sul piano nazionale di "Elettrotecnica I" e' soppresso e sostituito da quello di "Elettrotecnica".  
+Nello stesso corso di laurea l'insegnamento obbligatorio sul piano della Facolta' di "Elettrotecnica. II" e' soppresso e sostituito da quello di "Complementi di elettrotecnica".  
+Nel gruppo c) di materie a scelta dello studente del predetto corso di laurea, l'insegnamento di "Misure elettriche III" (\*) per l'orientamento elettromeccanico e' soppresso e sostituito da quello di "Collaudi elettrici".  
+Art. 121, relativo alle norme sulle propedeuticita' del triennio di Ingegneria e' modificato nel senso che gli insegnamenti di "Elettrotecnica I" e di "Elettrotecnica II" sono soppressi e sostituiti dai seguenti: "Elettrotecnica" e "Complementi di elettrotecnica".  
+Nello stesso articolo il nono e decimo comma sono abrogati e sostituiti dai seguenti:  
+Macchine elettriche: propedeutico per gli esami di Costruzioni elettromeccaniche, di Controlli automatici, di Impianti elettrici II, di Misure elettriche II e di Collaudi elettrici.  
+Misure elettriche II: propedeutico per l'esame di Collaudi elettrici.  
+Dopo il decimo comma sono aggiunti i seguenti nuovi commi:  
+Fisica tecnica: propedeutico per l'esame di Macchine, Per ottenere l'iscrizione al quarto anno di corso lo studente deve aver superato l'esame di Elettrotecnica I.  
+Per ottenere l'iscrizione al quinto anno di corso lo studente deve aver superato l'esame di Macchine elettriche.  
+Art. 122, relativo alle norme degli esami, nei corsi di laurea in Ingegneria, dopo il primo comma e' aggiunto il seguente: L'esame di Elettrotecnica I comporta anche una prova scritta.  
+Nello stesso articolo l'ultimo comma e' abrogato e sostituito dal seguente: l'esame di laurea consistera' nella discussione di un progetto particolare presentato come tesi.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 maggio 1969
+### Dato a Roma, addi' 16 febbraio 1967
 
-SARAGAT FERRARI AGGRADI
+SARAGAT GUI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 16 luglio 1969
+Registrato alla Corte dei conti, addi' 23 marzo 1967
 
-Atti del Governo, registro n. 228, foglio n. 7. - CARUSO
+Atti del Governo, registro n. 210, foglio n. 52. - GRECO

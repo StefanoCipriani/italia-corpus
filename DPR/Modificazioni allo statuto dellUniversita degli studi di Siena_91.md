@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 552
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1980 n. 309
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 552
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1980 n. 309
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Siena.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,47 +18,71 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Siena e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Siena e convalidati dal Consiglio universitario nazionale nel suo parere;
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla
+-----
 
-Decreta:
---------
-
-Lo statuto dell'Universita' di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+proposta del Ministro della pubblica istruzione; Decreta:
 
 Articolo unico
 --------------
 
   
-Art. 9 - all'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti i seguenti insegnamenti:  
-diritto parlamentare;  
-diritto penale dell'economia;  
-diritto tributario.  
-Nel medesimo elenco e' soppresso l'insegnamento di "diritto coloniale".  
-Art. 11 - all'elenco degli insegnamenti complementari sia dell'indirizzo storico-politico sia dell'indirizzo politico-amministrativo del corso di laurea in scienze politiche sono aggiunti i seguenti insegnamenti:  
-storia dell'Italia contemporanea;  
-storia economica dell'Italia unita;  
-politica comparata.  
+Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
+Dopo l'art. 193, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in anatomia patologica.  
+  
+Scuola di specializzazione in anatomia patologica  
+  
+Art. 194. - La scuola di specializzazione in anatomia patologica ha sede presso l'istituto di anatomia patologica e conferisce il diploma di specialista in anatomia patologica.  
+Art. 195. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione e, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Art. 196. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.  
+Art. 197. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.  
+Art. 198. - Il numero massimo degli allievi e' di quattro per anno di corso e, complessivamente, di sedici iscritti per l'intero corso di studi.  
+Art. 199. - L'ammissione al corso avviene per titoli ed esami.  
+Art. 200. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+anatomia patologica sistematica I;  
+tecnica delle autopsie;  
+diagnostica anatomo-patologica macroscopica I;  
+tecniche istologiche ed istochimiche.  
+2° Anno:  
+anatomia patologica sistematica II;  
+diagnostica anatomo-patologica macroscopica II;  
+diagnostica istopatologica I;  
+tecniche e diagnostica citologica e citogenetica.  
+3° Anno:  
+diagnostica istopatologica II;  
+tecniche di microscopia e biologia ultrastrutturale;  
+immunopatologia.  
+4° Anno:  
+diagnostica istopatologica III;  
+diagnostica isto-citopatologica ultrastrutturale;  
+diagnostica autoptica medico-legale ed elementi di legislazione sanitaria;  
+applicazioni statistiche ed epidemiologiche.  
+Art. 201. - La frequenza alle lezioni, alle esercitazioni pratiche, e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.  
+Art. 202. - Alla fine di ogni corso, gli iscritti, per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale, l'esame e' sostenuto alla fine dei corsi medesimi.  
+Al termine del corso di studi, per il conseguimento del diploma di specialista in anatomia patologica, gli interessati devono superare l'esame di diploma, consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
+Art. 203. - Le tasse, soprattasse e contributi della scuola di specializzazione in anatomia patologica sono cosi' fissate:  
+  
+immatricolazione. . . . . . . . . . . . . . . . . . . . . . L. 12.000 tassa annuale di iscrizione. . . . . . . . . . . . . . . . L. 200.000 soprattassa annuale di esame. . . . . . . . . . . . . . . . L. 16.000 contributi annui di laboratorio . . . . . . . . . . . . . . L. 14.000 soprattassa di diploma. . . . . . . . . . . . . . . . . . . L. 20.000   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 aprile 1984
+### Dato a Roma, addi' 14 gennaio 1980
 
-PERTINI FALCUCCI
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 24 agosto 1984
+Registrato alla Corte dei conti, addi' 26 giugno 1980
 
-Registro n. 51 Istruzione, foglio n. 77
+Registro n. 61 Istruzione, foglio n. 283

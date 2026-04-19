@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 aprile 1948 n. 708
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1948 n. 1434
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 aprile 1948 n. 708
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1948 n. 1434
+=================================================================
 
 Autorizzazione all'Universita' di Padova ad accettare una donazione.
 --------------------------------------------------------------------
@@ -12,7 +12,7 @@ Art. 1
 
 N.
 
-708. Decreto del Presidente della Repubblica 18 aprile 1948, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Padova viene autorizzata ad accettare la donazione della somma di L. 9.895, disposta in suo favore dal dott. Giovanni Dogo, a nome della Federazione di Padova del Partito d'Azione, con atto pubblico in data 18 maggio 1947, per l'istituzione di un premio da intitolarsi al nome dell'"Ing. Renato Otello Pighin" e da conferirsi, ogni anno, al miglior laureato di quella facolta' di ingegneria.  
+1434. Decreto del Presidente della Repubblica 14 settembre 1948, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Padova viene autorizzata ad accettare la donazione della somma di L. 1.000.000 nominali, in titoli di Stato, Rendita 5%, disposta in suo favore dal marchese Antonio da Buzzaccarini, con atto pubblico in data 4 febbraio 1948, per l'istituzione di un premio di studio biennale da intitolarsi "Premio N. H. Marchese Pier Galeazzo de Buzzaccarini".  
   
 Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 26 maggio 1948
+Registrato alla Corte dei conti, addi' 15 dicembre 1948

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1023
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 settembre 1966 n. 812
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1023
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 settembre 1966 n. 812
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 -------------------------------------------------------------------
@@ -10,15 +10,17 @@ Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, numero 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -30,95 +32,222 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Dopo l'art. 124 e' aggiunto il seguente nuovo articolo relativo alla istituzione della scuola, diretta, a fini speciali, per ortottiste.
+Art. 25. - All'elenco degli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di: "Diritto tributario".
 
-Scuola diretta a fini speciali per ortottiste
+Art. 32. - All'elenco degli istituti annessi alla Facolta' di giurisprudenza e' aggiunto il seguente: "Istituto di diritto del lavoro".
 
-Art. 125. - La scuola per ortottiste ha sede presso la clinica oculistica dell'Universita' degli studi di Trieste. Essa ha lo scopo di dare una preparazione completa teorica e pratica alle allieve, istruendole sui problemi dei difetti di refrazione, disturbi della oculomazione, dell'ambliopia in genere, per avviarle alla professione di ortottiste.
+Art. 74. - All'elenco delle lauree in Ingegneria conferite dalla Facolta' e' aggiunta la seguente: Laurea in ingegneria mineraria.
 
-La durata del corso degli studi per il conseguimento del diploma e' di due anni.
+Art. 75, relativo agli insegnamenti del biennio propedeutico dei corsi di laurea in Ingegneria e' modificato nel senso che viene aggiunto il seguente ultimo comma:
 
-Possono essere ammesse alla scuola allievi di eta' non inferiore ai 17 anni, in possesso del titolo di studio prescritto per l'ammissione all'universita' (preferibilmente del diploma di maturita' classica, del diploma di maturita' scientifica e del diploma di abilitazione magistrale).
+"Nel secondo anno per la laurea in Ingegneria mineraria sono obbligatori i seguenti insegnamenti:
 
-Chi aspira ad ottenere l'iscrizione al primo anno della scuola dovra' sostenere un esame di ammissione. Il numero massimo di posti disponibili annualmente e' stabilito nella misura di quattro.
+1) Analisi matematica II;
 
-L'esame di ammissione consiste in una prova di cultura generale dinanzi ad una commissione composta di tre professori ufficiali della facolta', fra i quali il direttore della scuola.
+2) Disegno II (industriale);
 
-L'anno scolastico inizia il 1 novembre e termina il 30 giugno di ogni anno. La domanda di iscrizione alla scuola e' diretta al rettore dell'Universita' e deve essere corredata del titolo originale di studi medi superiori.
+3) Fisica II;
 
-Il direttore della scuola e' di diritto il titolare della cattedra di clinica oculistica dell'universita'. Gli insegnanti della scuola sono proposti dal consiglio di facolta' di medicina e chirurgia, udito il direttore e nominati dal rettore.
+4) Meccanica razionale;
 
-Le materie di insegnamento sono le seguenti:
+5) Mineralogia;
 
-1° Anno:
+6) Geologia.
 
-Elementi di anatomia e fisiologia generale;
+Art. 76, relativo al triennio di applicazione dei corsi di laurea in Ingegneria e' modificato nel senso che viene aggiunto il seguente ultimo comma: Per la laurea in Ingegneria mineraria i seguenti insegnamenti sono obbligatori:
 
-Anatomia e fisiologia dell'apparato oculare;
+1) Arte mineraria;
 
-Ottica fisica e fisiologica;
+2) Chimica applicata;
 
-Ortottica;
+3) Chimica fisica;
 
-Pleottica;
+4) Elettrotecnica;
 
-Esercitazioni di ortottica;
+5) Fisica tecnica;
 
-Esercitazioni di pleottica.
+6) Geofisica applicata;
 
-2° Anno
+7) Giacimenti minerari;
 
-Ortottica;
+8) Idraulica;
 
-Pleottica;
+9) Macchine;
 
-Elementi di patologia oculare;
+10) Meccanica applicata alle macchine;
 
-Nozioni di infermieristica oculare;
+11) Metallurgia e metallografia;
 
-Esercitazioni di ortottica;
+12) Scienza delle costruzioni;
 
-Esercitazioni di pleottica.
+13) Tecnica delle costruzioni;
 
-L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni nel reparto ortottico della clinica oculistica.
+14) Topografia;
 
-Per essere ammesse a sostenere l'esame di diploma le allieve dovranno aver seguito i corsi, superando gli esami di tutti gli insegnamenti prescritti ed aver compiuto con esito favorevole tutte le esercitazioni previste.
+15) Geologia applicata;
 
-Le commissioni per gli esami di profitto sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola.
+e costituiranno gruppi di indirizzo i seguenti insegnamenti:
 
-Le commissioni sono composte di tre membri: dal professore ufficiale della materia, presidente, di un professore ufficiale di materia affine e di un libero docente o cultore della materia. Ogni commissario ha a disposizione dieci punti.
+per l'indirizzo miniere (a)
 
-L'esame per il conseguimento del diploma di ortottista consiste in un colloquio su un tema preventivamente assegnato dal direttore della scuola di fronte ad una commissione di cinque membri, composta dal direttore della scuola e da altri quattro membri designati dal preside della facolta' di medicina e chirurgia. Ogni commissario ha a sua disposizione dieci punti.
+16) Impianti minerari;
 
-Le tasse e soprattasse sono le seguenti:
+17) Tecnica ed economia dei trasporti;
 
-Tassa iscrizione 1° anno. . . . . . . . . . . . . . . . . . L. 18.000 Tassa iscrizione 2° anno. . . . . . . . . . . . . . . . . . L. 18.000 Tassa esami di profitto per ciascun anno . . . . . . . . . . L. 7.000 Soprattassa per esami di diploma . . . . . . . . . . . . . . L. 3.000
+18) Tecnologie minerarie;
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+per l'indirizzo prospezione (b)
 
-Dato a Roma, addi' 31 ottobre 1972
+16) Geofisica mineraria;
 
-LEONE
+17) Geotecnica;
 
-SCALFARO
+18) Idrogeologia.
 
-Visto, il Guardasigilli: GONELLA
+Gli articoli da 92 a 100 del Capo II relativi alla scuola di perfezionamento e di specializzazione in Diritto del lavoro e della sicurezza sociale sono abrogati e sostituiti dai seguenti:
+
+CAPO II
+
+Scuola di perfezionamento e di specializzazione
+
+in Diritto del lavoro ed in organizzazione aziendale
+
+Art. 92. - La scuola di perfezionamento e di specializzazione in Diritto del lavoro e della organizzazione aziendale, annessa alla Facolta' di giurisprudenza, nei suoi distinti rami ha lo scopo:
+
+a) d'integrare la preparazione scientifica dei giovani e di perfezionarli nella disciplina del lavoro e della sicurezza sociale.
+
+b) d'integrare la preparazione professionale dei giovani e di specializzarli nella direzione aziendale.
+
+Art. 93. - La scuola e' retta da un direttore e da un Consiglio composto dai professori titolari di cattedra che impartiscono insegnamenti costitutivi della scuola.
+
+Partecipano alle riunioni del Consiglio per l'esame dei problemi concernenti il coordinamento dei programmi tutti i docenti della scuola.
+
+Direttore ne e' il professore titolare della cattedra di Diritto del lavoro della Facolta' di giurisprudenza, o, nel caso che manchi il titolare della cattedra medesima, un professore di ruolo nominato dal rettore su proposta della Facolta' di giurisprudenza, scelto tra i componenti del Consiglio della scuola.
+
+Il direttore puo' designare tra i componenti del Consiglio un vice direttore che lo coadiuva e lo sostituisce in caso di impedimento.
+
+La nomina dei professori incaricati dell'insegnamento e' fatta dal rettore su designazione del Consiglio della Facolta' di giurisprudenza.
+
+Art. 94. - Alla scuola possono essere iscritti soltanto i laureati in Giurisprudenza, Scienze politiche, Economia e commercio, Scienze statistiche ed attuariali, Scienze statistiche e demografiche.
+
+Art. 95. - La scuola si distingue in due corsi separati, della durata di due anni ciascuno in ordine agli scopi per i quali e' istituita: corso di perfezionamento e di specializzazione in Diritto del lavoro e della sicurezza sociale; corso di perfezionamento e di specializzazione in organizzazione aziendale.
+
+Al termine di essi la scuola rilascia, dopo che i candidati abbiano superato le prove nelle materie fondamentali rispettivamente indicate nell'art. 96 e l'esame di diploma, un diploma di perfezionamento.
+
+Art. 96. - Gli insegnamenti fondamentali della scuola sono:
+
+a) per il corso di perfezionamento e di specializzazione in Diritto del lavoro e della sicurezza sociale:
+
+1) Storia del lavoro;
+
+2) Storia del sindacalismo;
+
+3) Diritto del lavoro (biennale);
+
+4) Diritto sindacale (biennale);
+
+5) Diritto della sicurezza sociale (biennale);
+
+6) Diritto del lavoro comparato;
+
+7) Diritto sindacale comparato;
+
+8) Diritto della sicurezza sociale comparato;
+
+9) Diritto processuale del lavoro e della sicurezza sociale;
+
+10) Diritto penale del lavoro;
+
+11) Diritto internazionale e diritto comunitario del lavoro e della sicurezza sociale;
+
+12) Il pubblico impiego.
+
+Insegnamenti monografici: due da scegliere nel seguente elenco:
+
+1) Statistica del lavoro;
+
+2) Tecnica dell'organizzazione sindacale;
+
+3) Economia del lavoro;
+
+4) Storia della cooperazione;
+
+5) Medicina legale e delle assicurazioni;
+
+b) per il corso di perfezionamento e di specializzazione in organizzazione aziendale:
+
+1) Ragioneria generale applicata;
+
+2) Tecnica e legislazione bancaria;
+
+3) Tecnica industriale e commerciale;
+
+4) Organizzazione e direzione aziendale;
+
+5) Diritto del lavoro;
+
+6) Diritto sindacale;
+
+7) Diritto della sicurezza sociale;
+
+8) Diritto privato dell'economia;
+
+9) Diritto pubblico dell'economia;
+
+10) Diritto tributario;
+
+11) Diritto degli enti economici internazionali.
+
+Insegnamenti monografici: due da scegliere nel seguente elenco:
+
+1) Tecnica amministrativa e ragioneria delle aziende pubbliche;
+
+2) Gli enti pubblici economici;
+
+3) Tecnica e legislazione delle assicurazioni sociali;
+
+4) Tecnica e legislazione delle assicurazioni private;
+
+5) Tecnica del commercio internazionale;
+
+6) Tecnica della rilevazione aziendale.
+
+Art. 97. - L'esame di diploma consiste nella discussione di una memoria originale, su argomento scelto fra le materie fondamentali, preventivamente approvate dal Consiglio della scuola, e nella discussione di altri due argomenti anch'essi approvati dal Consiglio.
+
+Art. 98. - La scuola curera' la stampa di quei lavori degli iscritti che, per deliberazione del Consiglio, su relazione del professore della materia saranno giudicati degni, per valore scientifico, di pubblicazione. Curera' inoltre la pubblicazione dei risultati delle ricerche strettamente scientifiche compiute collettivamente sotto la guida dei docenti e in collaborazione con essi.
+
+Art. 99. - La scuola potra' stabilire, su deliberazione del Consiglio, rapporti continuativi con enti sindacali ed istituti attinenti alle materie relative ai due corsi, al fine di raccogliere gli elementi utili agli insegnamenti per il migliore raggiungimento dei fini di ricerca e di diffusione scientifica ed ai fini della specializzazione professionale degli studenti.
+
+La scuola potra', inoltre, su deliberazione del Consiglio, promuovere corsi intensivi di aggiornamento secondo le modalita' stabilite di volta in volta.
+
+Art. 100. - Possono nella scuola aprirsi concorsi a premio fra gli iscritti i cui lavori, compiuti in sede di ricerca e di esercitazione oppure presentati come dissertazione di diploma, siano dichiarati degni di stampa.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 9 settembre 1966
+
+SARAGAT
+
+GUI
+
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 20 febbraio 1973 Atti di Governo, registro n. 256, foglio n. 7. - VALENTINI
+alla Corte dei conti, addi' 10 ottobre 1966 Atti del Governo, registro n. 206, foglio n. 55. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, numero 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
 Sulla proposta del Ministro per la pubblica istruzione;   
@@ -126,51 +255,114 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:   
   
 Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 25. - All'elenco degli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di: "Diritto tributario".   
+Art. 32. - All'elenco degli istituti annessi alla Facolta' di giurisprudenza e' aggiunto il seguente: "Istituto di diritto del lavoro".   
+Art. 74. - All'elenco delle lauree in Ingegneria conferite dalla Facolta' e' aggiunta la seguente: Laurea in ingegneria mineraria.   
+Art. 75, relativo agli insegnamenti del biennio propedeutico dei corsi di laurea in Ingegneria e' modificato nel senso che viene aggiunto il seguente ultimo comma:   
+"Nel secondo anno per la laurea in Ingegneria mineraria sono obbligatori i seguenti insegnamenti:   
+1) Analisi matematica II;   
+2) Disegno II (industriale);   
+3) Fisica II;   
+4) Meccanica razionale;   
+5) Mineralogia;   
+6) Geologia.   
+Art. 76, relativo al triennio di applicazione dei corsi di laurea in Ingegneria e' modificato nel senso che viene aggiunto il seguente ultimo comma: Per la laurea in Ingegneria mineraria i seguenti insegnamenti sono obbligatori:   
+1) Arte mineraria;   
+2) Chimica applicata;   
+3) Chimica fisica;   
+4) Elettrotecnica;   
+5) Fisica tecnica;   
+6) Geofisica applicata;   
+7) Giacimenti minerari;   
+8) Idraulica;   
+9) Macchine;   
+10) Meccanica applicata alle macchine;   
+11) Metallurgia e metallografia;   
+12) Scienza delle costruzioni;   
+13) Tecnica delle costruzioni;   
+14) Topografia;   
+15) Geologia applicata;   
+e costituiranno gruppi di indirizzo i seguenti insegnamenti:   
+per l'indirizzo miniere (a)   
+16) Impianti minerari;   
+17) Tecnica ed economia dei trasporti;   
+18) Tecnologie minerarie;   
+per l'indirizzo prospezione (b)   
+16) Geofisica mineraria;   
+17) Geotecnica;   
+18) Idrogeologia.   
+Gli articoli da 92 a 100 del Capo II relativi alla scuola di perfezionamento e di specializzazione in Diritto del lavoro e della sicurezza sociale sono abrogati e sostituiti dai seguenti:   
   
-Dopo l'art. 124 e' aggiunto il seguente nuovo articolo relativo alla istituzione della scuola, diretta, a fini speciali, per ortottiste.   
-Scuola diretta a fini speciali per ortottiste   
-Art. 125. - La scuola per ortottiste ha sede presso la clinica oculistica dell'Universita' degli studi di Trieste. Essa ha lo scopo di dare una preparazione completa teorica e pratica alle allieve, istruendole sui problemi dei difetti di refrazione, disturbi della oculomazione, dell'ambliopia in genere, per avviarle alla professione di ortottiste.   
-La durata del corso degli studi per il conseguimento del diploma e' di due anni.   
-Possono essere ammesse alla scuola allievi di eta' non inferiore ai 17 anni, in possesso del titolo di studio prescritto per l'ammissione all'universita' (preferibilmente del diploma di maturita' classica, del diploma di maturita' scientifica e del diploma di abilitazione magistrale).   
-Chi aspira ad ottenere l'iscrizione al primo anno della scuola dovra' sostenere un esame di ammissione. Il numero massimo di posti disponibili annualmente e' stabilito nella misura di quattro.   
-L'esame di ammissione consiste in una prova di cultura generale dinanzi ad una commissione composta di tre professori ufficiali della facolta', fra i quali il direttore della scuola.   
-L'anno scolastico inizia il 1 novembre e termina il 30 giugno di ogni anno. La domanda di iscrizione alla scuola e' diretta al rettore dell'Universita' e deve essere corredata del titolo originale di studi medi superiori.   
-Il direttore della scuola e' di diritto il titolare della cattedra di clinica oculistica dell'universita'. Gli insegnanti della scuola sono proposti dal consiglio di facolta' di medicina e chirurgia, udito il direttore e nominati dal rettore.   
-Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-Elementi di anatomia e fisiologia generale;   
-Anatomia e fisiologia dell'apparato oculare;   
-Ottica fisica e fisiologica;   
-Ortottica;   
-Pleottica;   
-Esercitazioni di ortottica;   
-Esercitazioni di pleottica.   
-2° Anno   
-Ortottica;   
-Pleottica;   
-Elementi di patologia oculare;   
-Nozioni di infermieristica oculare;   
-Esercitazioni di ortottica;   
-Esercitazioni di pleottica.   
-L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni nel reparto ortottico della clinica oculistica.   
-Per essere ammesse a sostenere l'esame di diploma le allieve dovranno aver seguito i corsi, superando gli esami di tutti gli insegnamenti prescritti ed aver compiuto con esito favorevole tutte le esercitazioni previste.   
-Le commissioni per gli esami di profitto sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola.   
-Le commissioni sono composte di tre membri: dal professore ufficiale della materia, presidente, di un professore ufficiale di materia affine e di un libero docente o cultore della materia. Ogni commissario ha a disposizione dieci punti.   
-L'esame per il conseguimento del diploma di ortottista consiste in un colloquio su un tema preventivamente assegnato dal direttore della scuola di fronte ad una commissione di cinque membri, composta dal direttore della scuola e da altri quattro membri designati dal preside della facolta' di medicina e chirurgia. Ogni commissario ha a sua disposizione dieci punti.   
-Le tasse e soprattasse sono le seguenti:   
+CAPO II   
+Scuola di perfezionamento e di specializzazione   
+in Diritto del lavoro ed in organizzazione aziendale   
   
-Tassa iscrizione 1° anno. . . . . . . . . . . . . . . . . . L. 18.000 Tassa iscrizione 2° anno. . . . . . . . . . . . . . . . . . L. 18.000 Tassa esami di profitto per ciascun anno . . . . . . . . . . L. 7.000 Soprattassa per esami di diploma . . . . . . . . . . . . . . L. 3.000   
+Art. 92. - La scuola di perfezionamento e di specializzazione in Diritto del lavoro e della organizzazione aziendale, annessa alla Facolta' di giurisprudenza, nei suoi distinti rami ha lo scopo:   
+a) d'integrare la preparazione scientifica dei giovani e di perfezionarli nella disciplina del lavoro e della sicurezza sociale.   
+b) d'integrare la preparazione professionale dei giovani e di specializzarli nella direzione aziendale.   
+Art. 93. - La scuola e' retta da un direttore e da un Consiglio composto dai professori titolari di cattedra che impartiscono insegnamenti costitutivi della scuola.   
+Partecipano alle riunioni del Consiglio per l'esame dei problemi concernenti il coordinamento dei programmi tutti i docenti della scuola.   
+Direttore ne e' il professore titolare della cattedra di Diritto del lavoro della Facolta' di giurisprudenza, o, nel caso che manchi il titolare della cattedra medesima, un professore di ruolo nominato dal rettore su proposta della Facolta' di giurisprudenza, scelto tra i componenti del Consiglio della scuola.   
+Il direttore puo' designare tra i componenti del Consiglio un vice direttore che lo coadiuva e lo sostituisce in caso di impedimento.   
+La nomina dei professori incaricati dell'insegnamento e' fatta dal rettore su designazione del Consiglio della Facolta' di giurisprudenza.   
+Art. 94. - Alla scuola possono essere iscritti soltanto i laureati in Giurisprudenza, Scienze politiche, Economia e commercio, Scienze statistiche ed attuariali, Scienze statistiche e demografiche.   
+Art. 95. - La scuola si distingue in due corsi separati, della durata di due anni ciascuno in ordine agli scopi per i quali e' istituita: corso di perfezionamento e di specializzazione in Diritto del lavoro e della sicurezza sociale; corso di perfezionamento e di specializzazione in organizzazione aziendale.   
+Al termine di essi la scuola rilascia, dopo che i candidati abbiano superato le prove nelle materie fondamentali rispettivamente indicate nell'art. 96 e l'esame di diploma, un diploma di perfezionamento.   
+Art. 96. - Gli insegnamenti fondamentali della scuola sono:   
+a) per il corso di perfezionamento e di specializzazione in Diritto del lavoro e della sicurezza sociale:   
+1) Storia del lavoro;   
+2) Storia del sindacalismo;   
+3) Diritto del lavoro (biennale);   
+4) Diritto sindacale (biennale);   
+5) Diritto della sicurezza sociale (biennale);   
+6) Diritto del lavoro comparato;   
+7) Diritto sindacale comparato;   
+8) Diritto della sicurezza sociale comparato;   
+9) Diritto processuale del lavoro e della sicurezza sociale;   
+10) Diritto penale del lavoro;   
+11) Diritto internazionale e diritto comunitario del lavoro e della sicurezza sociale;   
+12) Il pubblico impiego.   
+Insegnamenti monografici: due da scegliere nel seguente elenco:   
+1) Statistica del lavoro;   
+2) Tecnica dell'organizzazione sindacale;   
+3) Economia del lavoro;   
+4) Storia della cooperazione;   
+5) Medicina legale e delle assicurazioni;   
+b) per il corso di perfezionamento e di specializzazione in organizzazione aziendale:   
+1) Ragioneria generale applicata;   
+2) Tecnica e legislazione bancaria;   
+3) Tecnica industriale e commerciale;   
+4) Organizzazione e direzione aziendale;   
+5) Diritto del lavoro;   
+6) Diritto sindacale;   
+7) Diritto della sicurezza sociale;   
+8) Diritto privato dell'economia;   
+9) Diritto pubblico dell'economia;   
+10) Diritto tributario;   
+11) Diritto degli enti economici internazionali.   
+Insegnamenti monografici: due da scegliere nel seguente elenco:   
+1) Tecnica amministrativa e ragioneria delle aziende pubbliche;  
+2) Gli enti pubblici economici;   
+3) Tecnica e legislazione delle assicurazioni sociali;   
+4) Tecnica e legislazione delle assicurazioni private;   
+5) Tecnica del commercio internazionale;   
+6) Tecnica della rilevazione aziendale.   
+Art. 97. - L'esame di diploma consiste nella discussione di una memoria originale, su argomento scelto fra le materie fondamentali, preventivamente approvate dal Consiglio della scuola, e nella discussione di altri due argomenti anch'essi approvati dal Consiglio.   
+Art. 98. - La scuola curera' la stampa di quei lavori degli iscritti che, per deliberazione del Consiglio, su relazione del professore della materia saranno giudicati degni, per valore scientifico, di pubblicazione. Curera' inoltre la pubblicazione dei risultati delle ricerche strettamente scientifiche compiute collettivamente sotto la guida dei docenti e in collaborazione con essi.   
+Art. 99. - La scuola potra' stabilire, su deliberazione del Consiglio, rapporti continuativi con enti sindacali ed istituti attinenti alle materie relative ai due corsi, al fine di raccogliere gli elementi utili agli insegnamenti per il migliore raggiungimento dei fini di ricerca e di diffusione scientifica ed ai fini della specializzazione professionale degli studenti.   
+La scuola potra', inoltre, su deliberazione del Consiglio, promuovere corsi intensivi di aggiornamento secondo le modalita' stabilite di volta in volta.   
+Art. 100. - Possono nella scuola aprirsi concorsi a premio fra gli iscritti i cui lavori, compiuti in sede di ricerca e di esercitazione oppure presentati come dissertazione di diploma, siano dichiarati degni di stampa.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1972
+### Dato a Roma, addi' 9 settembre 1966
 
-LEONE SCALFARO
+SARAGAT GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 20 febbraio 1973
+Registrato alla Corte dei conti, addi' 10 ottobre 1966
 
-Atti di Governo, registro n. 256, foglio n. 7. - VALENTINI
+Atti del Governo, registro n. 206, foglio n. 55. - VILLA

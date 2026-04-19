@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1977 n. 1214
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1974 n. 673
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1977 n. 1214
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1974 n. 673
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
@@ -10,78 +10,98 @@ Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Art. 52 - all'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:  
-linguistica generale;  
-linguistica applicata;  
-sociolinguistica;  
-teoria della letteratura;  
-geografia umana;  
-storia del pensiero scientifico;  
-metodologia didattica.  
-Art. 53 - all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne sono aggiunti i seguenti:  
-geografia umana;  
-linguistica applicata;  
-psicolinguistica;  
-sociolinguistica;  
-metodologia didattica;  
-pedagogia sperimentale.  
-Art. 54 - all'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:  
-storia del pensiero scientifico;  
-metodologia didattica;  
-linguistica generale;  
-sociolinguistica.  
-Art. 59 - all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto il seguente:  
-immunoematologia.  
-Lo stesso elenco e' modificato nel senso che gli insegnamenti complementari di statistica sanitaria e chirurgia pediatrica mutano rispettivamente la denominazione in quella di:  
-biometria e statistica medica;  
-clinica chirurgia pediatrica.  
-L'art. 77, relativo alla propedeuticita' degli esami per la laurea in farmacia, e' modificato nel senso che e' aggiunto il seguente ultimo comma:  
-"Gli esami di esercitazioni di chimica farmaceutica tossicologica I, II e III devono essere sostenuti e superati in ordine progressivo".  
-Dopo l'art. 85, e con lo spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo, relativo alla propedeuticita' degli esami per la laurea in chimica e tecnologia farmaceutiche.  
-Art. 86. - L'esame di chimica farmaceutica I non puo' essere sostenuto se prima non siano stati superati gli esami di chimica generale ed inorganica e di chimica organica I; l'esame di farmacologia non puo' essere sostenuto se prima non siano stati superati gli esami di botanica e di fisiologia generale.  
-L'esame di fisiologia generale non puo' essere sostenuto se prima non si sia superato l'esame di anatomia umana; l'esame di tecnica e legislazione farmaceutica non puo' essere sostenuto se prima non siano stati superati gli esami di chimica farmaceutica e di farmacologia; l'esame di chimica degli alimenti non potra' essere sostenuto se prima non siano stati superati gli esami di chimica organica I e di analisi chimicofarmaceutiche II.  
-L'esame di chimica biologica non puo' essere sostenuto se prima non sia stato superato l'esame di chimica organica I.  
-L'esame di chimica fisica non puo' essere sostenuto se prima non siano stati superati gli esami di istituzioni di matematiche, di chimica generale ed inorganica e di fisica.  
-L'esame di laboratorio di preparazione estrattiva e sintetica dei farmaci non potra' essere sostenuto se prima non saranno stati superati gli esami di chimica organica I e II.  
-L'esame di analisi chimico-farmaceutiche III non puo' essere sostenuto se non saranno superati gli esami di analisi chimico-farmaceutiche I e analisi chimicofarmaceutiche II.  
-L'esame di metodi fisici in chimica organica non puo' essere sostenuto se prima non saranno stati superati gli esami di chimica organica I e chimica fisica.  
-L'esame di saggi e dosaggi farmacologici non potra' essere sostenuto se prima non verra' superato l'esame di farmacologia.  
-Per essere ammesso al corso di analisi chimico-farmaceutiche I lo studente deve aver superato l'esame di chimica generale ed inorganica.  
-Per essere ammesso ai corsi di analisi chimico-farmaceutiche III, di lab. preparazione estrattiva e sintetica dei farmaci e di chimica degli alimenti lo studente deve aver superato l'esame di chimica organica I.  
-L'esame di laurea in chimica e tecnologia farmaceutiche consiste in:  
-1) un'analisi qualitativa da eseguirsi nel laboratorio di chimica farmaceutica e tossicologica, alla presenza di almeno tre membri della commissione esaminatrice;  
-2) una prova di riconoscimento e saggi di purezza, qualitativi e quantitativi, di due prodotti farmaceutici, iscritti nella F.U.I., da eseguirsi come sopra;  
-3) una prova di riconoscimento di droghe, inclusi procedimenti biologici, da eseguirsi nell'istituto di farmacologia alla presenza di almeno tre membri della commissione esaminatrice;  
-4) preparazione di medicamento, iscritto nella F.U.I., da eseguirsi nell'istituto di chimica farmaceutica alla presenza di almeno tre membri della commissione esaminatrice;  
-5) discussione sui risultati delle predette prove e su di una dissertazione sperimentale, svolta sopra un argomento scelto dal candidato sul campo delle discipline eseguite durante il corso di studi;  
-6) prova orale di cultura tecnica.  
+L'art. 41, relativo all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia, e' modificato nel senso che l'insegnamento complementare di ortopedia muta la denominazione in quella di "Ortopedia e traumatologia".   
+L'art. 86, relativo all'elenco degli istituti annessi alla facolta' di farmacia e' modificato nel senso che l'istituto di farmacologia e farmacognosia e' soppresso e sostituito dal seguente:   
+Istituto di farmacologia.   
+Gli articoli da 307 a 318, relativi alla scuola (diretta a fini speciali) di preparazione per tecnici fisiocinesiterapisti che muta la denominazione in quella di "Terapisti della riabilitazione", sono abrogati e sostituiti dai seguenti:   
+  
+Scuola per terapisti della riabilitazione   
+  
+Art. 307. - E' istituita presso l'istituto di clinica ortopedica dell'Universita' di Pavia, ai sensi dell'[articolo 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20) e veduto l'[art. 5 della legge 30 marzo 1971, n. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-03-30;118~art5), la scuola per terapisti della riabilitazione che ha lo scopo di impartire agli allievi, con unita' di indirizzo e metodo scientifico, tutte le nozioni teoriche e pratiche necessarie a ben esercitare l'attivita' di terapista della riabilitazione.   
+Art. 308. -- La durata del corso della scuola per terapisti della riabilitazione e' di tre anni accademici. Alla scuola possono essere ammessi allievi di ambo i sessi forniti del titolo di istruzione di secondo grado, avendo compiuto il 17° anno di eta'.   
+Art. 309. - Al primo anno di scuola si accede previe esame di cultura generale e attitudinale davanti ad una commissione composta dal direttore della scuola e de due insegnanti della scuola stessa.  
+L'esame di ammissione avra' luogo entro la prima quindicina del mese di ottobre di ciascun anno in un giorno stabilito dalla facolta' di medicina e chirurgia su proposta del direttore della scuola. In casi particolari e' possibile l'ammissione al 2ª anno qualora il direttore della scuola ne ravvisi la necessita'.   
+Art. 310. - Il numero massimo degli allievi che possono essere ammessi ad ogni anno di corso della scuola e' di 35.   
+Art. 311. - Il direttore della scuola e' il direttore dell'istituto di clinica ortopedica dell'Universita' di Pavia. La scuola e' sotto la vigilanza della facolta' di medicina e chirurgia. Gli insegnanti della scuola sono proposti dal direttore della stessa, approvati dalle facolta' di medicina e chirurgia e nominati dal rettore. Essi possono essere scelti fra i professori ufficiali, tre i liberi docenti, tra gli aiuti e gli assistenti della facolta' di medicina e chirurgia o di altra facolta' dell'ateneo o tra persone di riconosciuta competenza anche al di fuori dell'ambito universitario.   
+Art. 312. - Le materie di insegnamento sono le seguenti:   
+  
+1° Anno:   
+Elementi di fisica;   
+Elementi di biomeccanica;   
+Elementi di anatomia umana generale;   
+Elementi di fisiologia umana;   
+Elementi di psicologia;   
+  
+2° Anno:   
+Nozioni di patologia ortopedica;   
+Nozioni di patologia neurologica;   
+Nozioni di traumatologia;   
+Nozioni di patologia dell'apparato cardiorespiratorio;   
+Nozioni di oculistica;   
+Nozioni di patologia ginecologica e addominale di interesse riabilitativo;   
+Cinesiterapia;   
+Elettroterapia;   
+Fisioterapia strumentale;   
+Idroterapia;   
+Terapia occupazionale;   
+Logoterapia;   
+Massoterapia;   
+Nozioni di patologia della cute e sottocutanea;   
+  
+3° Anno:   
+Elementi di igiene e medicina preventiva;   
+Elementi di pronto soccorso;   
+Elementi di legislazione sanitaria e deontologia;   
+Ginnastica medica;   
+Riabilitazione del motuleso;   
+Ergoterapia;   
+Fango terapia e crenoterapia;   
+Elioclimatoterapia.   
+  
+Art. 313. - La frequenza alle lezioni teoriche e alle esercitazioni pratiche e' obbligatoria. Per la validita' dell'anno scolastico l'allievo deve partecipare almeno due terzi delle lezioni sia teorici e che pratiche.   
+Art. 314. - Le lezioni verranno impartite agli allievi nelle aule messe a disposizione della clinica ortopedica. I programmi di insegnamento e gli orari vengono predisposti dal direttore della scuola ed approvati dal consiglio della facolta' di medicina e chirurgia. La sorveglianza degli iscritti per quanto riguarda la loro attivita' pratica, spetta al direttore della scuola. Il tirocinio sara' compiuto dagli allievi sempre sotto la guida dei medici, dei terapisti della riabilitazione didattici, presso il reparto di terapia fisica e riabilitazione della clinica ortopedica e traumatologica di Pavia, nonche', qualora si rendesse necessario, presso altri istituti e associazioni specialistiche.   
+Art. 315. - Per essere ammessi a sostenere gli esami di diploma gli allievi dovranno avere seguito il corso, superati gli esami in tutti gli insegnamenti prescritti e avere compiuto con esito favorevole tutte le esercitazioni previste.   
+Art. 316. - Le commissioni per gli esami di profitto sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Le commissioni sono composte da tre membri: dal professore ufficiale della materia, presidente, da un professore ufficiale di materia affine e da un libero docente cultore della materia. Ogni commissario ha a disposizione 10 punti.   
+Art. 317. - L'esame di diploma consiste in un esame orale sui temi trattati durante il corso e una prova pratica stabilita da una commissione esaminatrice. L'esame di diploma viene sostenuto davanti una commissione di 5 membri scelti fra i docenti della scuola nominati dal preside di facolta' di medicina e chirurgia su proposta del direttore della scuola. Ogni commissario ha a disposizione 10 punti. I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza della scuola, ma se al secondo esame non sia loro riconosciuta l'idoneita' saranno senz'altro esclusi da ulteriori prove. Agli allievi che avranno superato l'esame finale viene rilasciato il diploma di terapista della riabilitazione.   
+Art. 318. - Alle spese occorrenti al funzionamento della scuola si provvede con contributi eventualmente concessi da Ministeri, dalle regioni, da enti pubblici e privati e dalle seguenti tasse, soprattasse e contributi degli iscritti:   
+  
+  
+  
+tassa di immatricolazione (da versare una sola volta) . . L. 2.000  
+tassa annuale di iscrizione. . . . . . . . . . . . . . . . " 5.000  
+soprattassa annuale di esame . . . . . . . . . . . . . . . " 3.000  
+contributi di laboratorio . . . . . . . . . . . . . . . . " 30.000  
+tassa erariale di diploma. . . . . . . . . . . . . . . . . " 3.000  
+libretto e tessera . . . . . . . . . . . . . . . . . . . . " 2.000  
+  
+  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 ottobre 1977
+### Dato a Roma, addi' 29 ottobre 1974
 
 LEONE MALFATTI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 27 giugno 1978
+Registrato alla Corte dei conti, addi' 7 dicembre 1974
 
-Registro n. 67 Istruzione, foglio n. 344
+Atti di Governo, registro n. 7, foglio n. 75. - SCIARRETTA

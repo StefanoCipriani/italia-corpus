@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1972 n. 101
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 settembre 1970 n. 799
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1972 n. 101
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 settembre 1970 n. 799
+================================================================
 
 Autorizzazione all'Universita' degli studi di Genova ad acquistare un immobile.
 -------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-101. Decreto del Presidente della Repubblica 28 gennaio 1972, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Genova viene autorizzata ad acquistare un immobile denominato "Palazzo Balbi" sito in Genova, via Balbi n. 4, iscritto al nuovo catasto edilizio urbano di Genova alla partita 2190, foglio n. 80, mappale 119, al prezzo di L. 550.000.000.  
+799. Decreto del Presidente della Repubblica 23 settembre 1970, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Genova viene autorizzata ad acquistare, al prezzo complessivo di L. 110.000.000, l'immobile denominato "Villa Bonino", sito in Genova, viale Causa, 13.  
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 24 marzo 1972  
-Atti del Governo, registro n. 247, foglio n. 163. - VALENTINI
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 9 novembre 1970  
+Atti del Governo, registro n. 238, foglio n. 41. - CARUSO

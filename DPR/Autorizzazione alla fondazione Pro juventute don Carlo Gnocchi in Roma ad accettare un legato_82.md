@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 maggio 1981 n. 372
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1980 n. 908
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 maggio 1981 n. 372
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1980 n. 908
+==============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-372. Decreto del Presidente della Repubblica 5 maggio 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nel 50% di titoli depositati presso il Banco Lariano di Merone (Como), valore nominale L. 8.200.000, disposto dalla sig.na Fernanda Fraccalossi in favore dei mutilatini di don Gnocchi, che si identificano con la fondazione "Pro juventute don Carlo Gnocchi" come risulta dal verbale del consiglio di amministrazione della fondazione in data 16 dicembre 1978, con testamento olografo del febbraio 1977, pubblicato in data 30 ottobre 1978, n. 48641 di repertorio e n. 10475 di raccolta, a rogito dott. Furio Giazzi, notaio in Erba (Como), registrato ad Erba il 15 novembre 1978 al n. 1301, vol. 7.  
+908. Decreto del Presidente della Repubblica 30 ottobre 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di lire 10.000.000, disposto a favore del centro pilota "Pro juventute a beneficio dei mutilatini di don Gnocchi" che si identifica nella fondazione "Pro juventute don Carlo Gnocchi", come ha fatto presente la fondazione medesima, dalla sig.ra Saltamerenda Jole in Sirtoli con testamento olografo 12 maggio 1972 pubblicato a rogito dott. Enrico Masini, notaio in Milano, in data 10 novembre 1978, n. 48578 di rep. e n. 13212 progress., registrato a Milano il 17 novembre 1978 al n. 19567, serie H.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 3 luglio 1981  
-Registro n. 6 Presidenza, foglio n. 93
+Visto, il Guardasigilli: SARTI  
+Registrato alla Corte dei conti, addi' 20 dicembre 1980  
+Registro n. 9 Presidenza, foglio n. 188

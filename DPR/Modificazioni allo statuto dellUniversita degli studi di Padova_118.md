@@ -1,16 +1,16 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1982 n. 682
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 giugno 1980 n. 649
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1982 n. 682
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 giugno 1980 n. 649
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA, REPUBBLICA
--------------------------------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
-Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 14 ottobre 1926, n. 2133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2133), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -19,8 +19,6 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
@@ -33,28 +31,34 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Art. 1
+------
 
   
-Nell'art. 15, relativo al corso di laurea in giurisprudenza, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-istituzioni di diritto processuale.  
-Il testo dell'art. 16 del medesimo corso di laurea e' soppresso ed e' sostituito dal seguente:  
-"Gli studenti non possono sostenere gli esami di diritto civile, di diritto commerciale, di diritto industriale, di diritto agrario, di diritto privato comparato, e di diritto della navigazione, se non abbiano superato l'esame di istituzioni di diritto privato; ne' gli esami di diritto penale e procedura penale, di diritto amministrativo, di diritto ecclesiastico, di diritto internazionale, di diritto del lavoro, se non abbiano superato gli esami di istituzioni di diritto privato e di diritto costituzionale; ne' l'esame di scienza delle finanze e diritto finanziario, se non abbiano superato gli esami di economia politica, di diritto costituzionale ovvero di diritto pubblico generale; ne' gli esami di diritto romano, di storia del diritto italiano, di diritto canonico, di diritto comune, se non abbiano superato gli esami di istituzioni di diritto romano e di storia del diritto romano, ne' gli esami di diritto penale militari e di medicina legale e delle assicurazioni se non abbiano superato l'esame di diritto penale".  
-Inoltre, nell'art. 18, l'istituto di scienze economiche, annesso alla facolta' di giurisprudenza, cambia la denominazione in quella di: "istituto di economia e finanza".  
+Il secondo comma dell'art. 249, relativo alle norme generali delle scuole di perfezionamento e di specializzazione, e' sostituito dal seguente:  
+  
+Gli aspiranti all'iscrizione per venire ammessi, oltre che essere muniti dei titoli di studio per ciascuna prescritti, devono sostenere una prova preliminare di traduzione a vista da almeno due delle seguenti lingue moderne: francese, inglese, tedesco, russo e spagnolo.  
+
+Art. 2
+------
+
+  
+Nell'art. 257, relativo alla scuola di perfezionamento in filologia classica, all'elenco degli insegnamenti fondamentali sono aggiunti i seguenti:  
+storia della lingua greca;  
+storia della lingua latina.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 giugno 1982
+### Dato a Roma, addi' 3 giugno 1980
 
-PERTINI BODRATO
+PERTINI SARTI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 9 settembre 1982
+Registrato alla Corte dei conti, addi' 8 ottobre 1980
 
-Registro n. 105 Istruzione, foglio n. 225
+Registro n. 92 Istruzione, foglio n. 136

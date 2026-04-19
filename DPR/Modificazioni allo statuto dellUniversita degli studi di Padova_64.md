@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1970 n. 185
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1967 n. 1012
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1970 n. 185
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1967 n. 1012
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
@@ -10,21 +10,21 @@ Modificazioni allo statuto dell'Universita' degli studi di Padova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847) e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate della autorita' accademiche dell'universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentita il parere del Consiglio superiore della pubblica istruzione;
 
 Sulla proposta del Ministro per la pubblica istruzione;
 
@@ -32,98 +32,519 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 15. - All'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di "Diritto anglo-americano".
+Art. 164, e' modificato nel senso che il penultimo comma, e cioe': "Per i corsi di laurea in ingegneria meccanica, elettrotecnica, elettronica: Tecnologie generali dei materiali" e' soppresso.
 
-Art. 37. - All'elenco degli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto quello di "Storia della chiesa".
+Art. 165, e' modificato nel senso che le disposizioni concernenti l'ordinamento degli studi dei corsi di laurea in ingegneria civile (sezione edile, idraulica, trasporti); in ingegneria meccanica; in ingegneria elettrotecnica; in ingegneria elettronica sono abrogate e sostituite dalle seguenti:
 
-Art. 42. - L'elenco degli insegnamenti complementari della facolta' di economia e commercio e' modificato nel senso che la denominazione dell'insegnamento di "Tecnica commerciale dei prodotti agricoli" muta in quella di "Economia di mercato dei prodotti agricoli".
+Nel triennio degli studi applicativi per il corso di laurea in ingegneria civile (sezione edile, idraulica, trasporti) sono obbligatori i seguenti insegnamenti comuni a tutte le sezioni:
 
-Art. 44. - E' abrogato e sostituito dal seguente:
+1) Scienza delle costruzioni
 
-L'esame di matematica generale deve precedere quello di matematica finanziaria e quello di statistica; l'esame di istituzioni di diritto privato deve precedere quelli di diritto commerciale e di diritto industriale; gli esami di istituzioni di diritto privato e di istituzioni di diritto pubblico devono precedere quelli di diritto internazionale, di diritto del lavoro e di diritto amministrativo; gli esami di economia politica (primo corso) e di statistica (primo corso) devono precedere quello di scienza delle finanze e diritto finanziario; gli esami di economia politica (primo corso) e di ragioneria generale devono precedere l'esame di economia e politica agraria; gli esami di statistica (primo corso) e di economia politica (secondo corso) devono precedere l'esame di politica economica e finanziaria; gli esami di ragioneria generale e applicata devono precedere quelli di tecnica bancaria e professionale e di tecnica commerciale e industriale.
+2) Meccanica applicata alle macchine e macchine
 
-Art. 45, relativo agli esami di profitto e di laurea del corso di laurea in economia e commercio e' modificato nel senso che il secondo comma e l'ultimo comma sono abrogati e sostituiti dai seguenti:
+3) Fisica tecnica
 
-"L'esame di laurea riguarda la discussione di una dissertazione scritta svolta sopra un tema scelto dal candidato, con facolta' dello stesso di esporre e discutere anche una tesina su argomento scelto fra due materie diverse fra loro e diverse pure da quella della dissertazione scritta.
+4) Elettrotecnica
 
-Almeno quindici giorni prima dell'inizio degli esami di laurea lo studente deve aver depositato alla segreteria della facolta' la dissertazione scritta con la eventuale indicazione degli argomenti delle tesi orali facoltative".
+5) Idraulica
 
-Art. 46. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di:
+6) Tecnologie dei materiali e chimica applicata
 
-Storia dell'arte;
+7) Tecnica delle costruzioni
 
-Linguistica africana;
+8) Architettura tecnica
 
-Filologia italiana.
+9) Topografia
 
-Art. 56 (gia' 51), relativo alle norme sulla propedeuticita' ed esami del corso di laurea in scienze statistiche ed economiche e' modificato nel senso che i commi primo, secondo, terzo, quarto, quinto e sesto sono abrogati e sostituiti dai seguenti:
+10) Costruzione di strade, ferrovie ed aeroporti
 
-"L'esame di istituzioni di analisi matematica deve essere superato prima degli esami di analisi matematica, calcolo delle probabilita', statistica, demografia, statistica economica; quello di geometria analitica prima degli esami di calcolo delle probabilita' e di statistica; quello di istituzioni di statistica prima degli esami di calcolo delle probabilita', statistica, demografia, istituzioni di statistica economica; quello di istituzioni di statistica economica prima degli esami di politica economica e finanziaria, statistica economica, economia d'azienda, statistica aziendale ed analisi di mercato, quello di economia politica (primo esame) prima dello esame di istituzioni di statistica economica.
+11) Architettura e urbanistica tecniche
 
-Gli esami di analisi matematica, calcolo delle probabilita' e statistica debbono essere superati prima degli esami di statistica metodologica e di teoria dei campioni; quelli di calcolo delle probabilita' e statistica prima degli esami di controllo statistico della qualita' e statistica industriale e di statistica aziendale e analisi di mercato; quelli di statistica e di economia politica (secondo esame) prima dell'esame di politica economica e finanziaria".
+12) Geotecnica
 
-Art. 119, relativo agli istituti annessi alla facolta' di scienze matematiche, fisiche e naturali e' modificato nel senso che l'istituto e museo di anatomia comparata e l'istituto e museo di zoologia e di genetica mutano denominazione in "Istituto di biologia animale".
+13) Materie giuridiche ed economiche (semestrale)
+
+13) Estimo (semestrale)
+
+14) Complementi di scienza delle costruzioni.
+
+Sono inoltre obbligatori:
+
+Nel corso di laurea in ingegneria civile - sezione edile:
+
+15) Architettura e composizione architettonica
+
+16) Ponti
+
+17) Composizione urbanistica e a scelta dello studente:
+
+Primo gruppo:
+
+18) Unificazione e meccanizzazione dell'azienda edile (semestrale)
+
+18') Complementi di costruzioni in cemento armato (semestrale)
+
+19) Impianti tecnologici per l'edilizia
+
+20) Architettura industriale.
+
+Secondo gruppo:
+
+18) Storia dell'architettura (semestrale)
+
+18') Tecnica della circolazione stradale (semestrale)
+
+19) Costruzioni idrauliche
+
+20) Pianificazione territoriale.
+
+Nel corso di laurea in ingegneria civile - sezione idraulica:
+
+15) Costruzioni idrauliche
+
+16) Idromeccanica applicata
+
+17) Costruzioni marittime
+
+18) Idraulica agraria
+
+19) Idrografia e idrologia
+
+e a scelta dello studente:
+
+Primo gruppo:
+
+20) Igiene applicata all'ingegneria (semestrale)
+
+20') Impianti per acquedotti e fognature (semestrale):
+
+Secondo gruppo:
+
+20) Utilizzazioni idrauliche (semestrale)
+
+20') Organizzazione e meccanizzazione dei cantieri (semestrale)
+
+Terzo gruppo:
+
+20) Idrometria (semestrale)
+
+20') Macchinario idraulico (semestrale).
+
+Nel corso di laurea in ingegneria civile - sezione trasporti:
+
+15) Ponti
+
+16) Costruzioni marittime
+
+17) Tecnica ed economia dei trasporti
+
+18) Tecnica della circolazione ed organizzazione dei trasporti
+
+e a scelta dello studente:
+
+Primo gruppo:
+
+19) Complementi di costruzioni in cemento armato (semestrale)
+
+19') Complementi di ponti (semestrale)
+
+Secondo gruppo:
+
+19) Complementi di costruzioni stradali (semestrale)
+
+19') Apparecchi di sollevamento e trasporto (semestrale).
+
+Nel triennio di studi applicativi per il corso di laurea in ingegneria meccanica sono obbligatori i seguenti insegnamenti:
+
+1) Scienza delle costruzioni
+
+2) Meccanica applicata alle macchine
+
+3) Fisica tecnica
+
+4) Elettrotecnica
+
+5» Idraulica
+
+6) Chimica applicata
+
+7) Macchine
+
+8) Costruzioni di macchine
+
+9) Impianti meccanici
+
+10) Tecnologia meccanica
+
+11) Termodinamica applicata
+
+12) Progetti di macchine
+
+13) Macchine speciali
+
+14) Misure meccaniche
+
+15) Costruzioni industriali
+
+16) Scienza dei materiali
+
+17) Meccanica delle vibrazioni
+
+18) Economia ed organizzazione aziendale
+
+19) Macchine per la lavorazione dei metalli (sem.)
+
+19') Elementi costruttivi delle macchine (sem.)
+
+Sono inoltre previsti i seguenti gruppi di materie a scelta dello studente:
+
+Primo gruppo:
+
+20) Tecnica ed economia dei trasporti
+
+21) Propulsione marittima, aerea spaziale.
+
+Secondo gruppo:
+
+20) Centrali elettriche
+
+21) Impianti nucleari.
+
+Terzo gruppo:
+
+20) Principi di regolazione automatica
+
+21) Tecnica del freddo.
+
+Quarto gruppo:
+
+20) Elementi costruttivi degli autoveicoli
+
+21) Complementi di costruzione di macchine.
+
+Nel triennio di studi applicativi per il corso di laurea in ingegneria elettrotecnica sono obbligatori i seguenti insegnamenti:
+
+1) Scienza delle costruzioni
+
+2) Meccanica applicata alle macchine
+
+3) Fisica tecnica
+
+4) Elettrotecnica
+
+5) Idraulica
+
+6) Complementi di matematica
+
+7) Materiali per l'elettrotecnica
+
+8) Misure elettriche
+
+9) Macchine elettriche
+
+10) Elettronica applicata
+
+11) Impianti elettrici
+
+12) Macchine
+
+13) Lavorazioni meccaniche (sem.)
+
+13') Elementi di costruzione di macchine (sem.)
+
+14) Telecomunicazioni
+
+15) Automatismi e regolazione
+
+16) Costruzioni elettromeccaniche
+
+17) Misure sulle macchine e sugli impianti
+
+18) Trasmissione dell'energia elettrica
+
+19) Economia ed organizzazione aziendale e a scelta dello studente:
+
+Primo gruppo:
+
+20) Trazioni elettriche
+
+21) Grandi utilizzazioni
+
+Secondo gruppo:
+
+20) Centrali elettriche
+
+21) Tecnica delle alte tensioni
+
+Terzo gruppo:
+
+20) Elementi di fisica nucleare
+
+21) Impianti nucleari.
+
+Nel triennio di studi applicativi per il corso di laurea in ingegneria elettronica sono obbligatori i seguenti insegnamenti:
+
+1) Scienza delle costruzioni
+
+2) Meccanica delle macchine e macchine;
+
+3) Fisica tecnica
+
+4) Elettrotecnica
+
+5) Componenti elettronici
+
+6) Complementi di matematica
+
+7) Materiali per l'elettrotecnica
+
+8) Misure elettriche
+
+9) Macchine elettriche
+
+10) Elettronica applicata
+
+11) Campi elettromagnetici e circuiti
+
+12) Comunicazioni elettriche
+
+13) Controlli automatici
+
+14) Lavorazioni meccaniche (sem.)
+
+15) Complementi di fisica
+
+16') Complementi di elettrotecnica
+
+17) Misure elettroniche
+
+18) Radiotecnica
+
+19) Economia ed organizzazione aziendale e a scelta dello studente:
+
+Primo gruppo:
+
+20) Telefonia e telegrafia
+
+21) Microonde
+
+Secondo gruppo:
+
+20) Elettronica industriale
+
+21) Calcolatori elettronici
+
+Terzo gruppo:
+
+20) Calcolatori elettronici
+
+21) Elettronica biomedica.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 7 febbraio 1970
+Dato a Roma, addi' 25 settembre 1967
 
-SARAGAT
+Per il Presidente della Repubblica
 
-FERRARI AGGRADI
+Il Presidente del Senato
+
+MERZAGORA
+
+GUI
 
 Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 23 aprile 1970 Atti del Governo, registro n. 234, foglio n. 201. - CARUSO
+alla Corte dei conti, addi' 7 novembre 1967 Atti del Governo, registro n. 214, foglio n. 121. - GRECO
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate della autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentita il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 15. - All'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di "Diritto anglo-americano".   
-Art. 37. - All'elenco degli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto quello di "Storia della chiesa".   
-Art. 42. - L'elenco degli insegnamenti complementari della facolta' di economia e commercio e' modificato nel senso che la denominazione dell'insegnamento di "Tecnica commerciale dei prodotti agricoli" muta in quella di "Economia di mercato dei prodotti agricoli".   
-Art. 44. - E' abrogato e sostituito dal seguente:   
-L'esame di matematica generale deve precedere quello di matematica finanziaria e quello di statistica; l'esame di istituzioni di diritto privato deve precedere quelli di diritto commerciale e di diritto industriale; gli esami di istituzioni di diritto privato e di istituzioni di diritto pubblico devono precedere quelli di diritto internazionale, di diritto del lavoro e di diritto amministrativo; gli esami di economia politica (primo corso) e di statistica (primo corso) devono precedere quello di scienza delle finanze e diritto finanziario; gli esami di economia politica (primo corso) e di ragioneria generale devono precedere l'esame di economia e politica agraria; gli esami di statistica (primo corso) e di economia politica (secondo corso) devono precedere l'esame di politica economica e finanziaria; gli esami di ragioneria generale e applicata devono precedere quelli di tecnica bancaria e professionale e di tecnica commerciale e industriale.   
-Art. 45, relativo agli esami di profitto e di laurea del corso di laurea in economia e commercio e' modificato nel senso che il secondo comma e l'ultimo comma sono abrogati e sostituiti dai seguenti:   
-"L'esame di laurea riguarda la discussione di una dissertazione scritta svolta sopra un tema scelto dal candidato, con facolta' dello stesso di esporre e discutere anche una tesina su argomento scelto fra due materie diverse fra loro e diverse pure da quella della dissertazione scritta.   
-Almeno quindici giorni prima dell'inizio degli esami di laurea lo studente deve aver depositato alla segreteria della facolta' la dissertazione scritta con la eventuale indicazione degli argomenti delle tesi orali facoltative".   
-Art. 46. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di:   
-Storia dell'arte;   
-Linguistica africana;   
-Filologia italiana.   
-Art. 56 (gia' 51), relativo alle norme sulla propedeuticita' ed esami del corso di laurea in scienze statistiche ed economiche e' modificato nel senso che i commi primo, secondo, terzo, quarto, quinto e sesto sono abrogati e sostituiti dai seguenti:   
-"L'esame di istituzioni di analisi matematica deve essere superato prima degli esami di analisi matematica, calcolo delle probabilita', statistica, demografia, statistica economica; quello di geometria analitica prima degli esami di calcolo delle probabilita' e di statistica; quello di istituzioni di statistica prima degli esami di calcolo delle probabilita', statistica, demografia, istituzioni di statistica economica; quello di istituzioni di statistica economica prima degli esami di politica economica e finanziaria, statistica economica, economia d'azienda, statistica aziendale ed analisi di mercato, quello di economia politica (primo esame) prima dello esame di istituzioni di statistica economica.   
-Gli esami di analisi matematica, calcolo delle probabilita' e statistica debbono essere superati prima degli esami di statistica metodologica e di teoria dei campioni; quelli di calcolo delle probabilita' e statistica prima degli esami di controllo statistico della qualita' e statistica industriale e di statistica aziendale e analisi di mercato; quelli di statistica e di economia politica (secondo esame) prima dell'esame di politica economica e finanziaria".   
-Art. 119, relativo agli istituti annessi alla facolta' di scienze matematiche, fisiche e naturali e' modificato nel senso che l'istituto e museo di anatomia comparata e l'istituto e museo di zoologia e di genetica mutano denominazione in "Istituto di biologia animale".   
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 164, e' modificato nel senso che il penultimo comma, e cioe': "Per i corsi di laurea in ingegneria meccanica, elettrotecnica, elettronica: Tecnologie generali dei materiali" e' soppresso.  
+Art. 165, e' modificato nel senso che le disposizioni concernenti l'ordinamento degli studi dei corsi di laurea in ingegneria civile (sezione edile, idraulica, trasporti); in ingegneria meccanica; in ingegneria elettrotecnica; in ingegneria elettronica sono abrogate e sostituite dalle seguenti:  
+Nel triennio degli studi applicativi per il corso di laurea in ingegneria civile (sezione edile, idraulica, trasporti) sono obbligatori i seguenti insegnamenti comuni a tutte le sezioni:  
+1) Scienza delle costruzioni  
+2) Meccanica applicata alle macchine e macchine  
+3) Fisica tecnica  
+4) Elettrotecnica  
+5) Idraulica  
+6) Tecnologie dei materiali e chimica applicata  
+7) Tecnica delle costruzioni  
+8) Architettura tecnica  
+9) Topografia  
+10) Costruzione di strade, ferrovie ed aeroporti  
+11) Architettura e urbanistica tecniche  
+12) Geotecnica  
+13) Materie giuridiche ed economiche (semestrale)  
+13) Estimo (semestrale)  
+14) Complementi di scienza delle costruzioni.  
+Sono inoltre obbligatori:  
+Nel corso di laurea in ingegneria civile - sezione edile:  
+15) Architettura e composizione architettonica  
+16) Ponti  
+17) Composizione urbanistica e a scelta dello studente:  
+Primo gruppo:  
+18) Unificazione e meccanizzazione dell'azienda edile (semestrale)  
+18') Complementi di costruzioni in cemento armato (semestrale)  
+19) Impianti tecnologici per l'edilizia  
+20) Architettura industriale.  
+Secondo gruppo:  
+18) Storia dell'architettura (semestrale)  
+18') Tecnica della circolazione stradale (semestrale)  
+19) Costruzioni idrauliche  
+20) Pianificazione territoriale.  
+Nel corso di laurea in ingegneria civile - sezione idraulica:  
+15) Costruzioni idrauliche  
+16) Idromeccanica applicata  
+17) Costruzioni marittime  
+18) Idraulica agraria  
+19) Idrografia e idrologia  
+  
+e a scelta dello studente:  
+Primo gruppo:  
+20) Igiene applicata all'ingegneria (semestrale)  
+20') Impianti per acquedotti e fognature (semestrale):  
+Secondo gruppo:  
+20) Utilizzazioni idrauliche (semestrale)  
+20') Organizzazione e meccanizzazione dei cantieri (semestrale)  
+Terzo gruppo:  
+20) Idrometria (semestrale)  
+20') Macchinario idraulico (semestrale).  
+Nel corso di laurea in ingegneria civile - sezione trasporti:  
+15) Ponti  
+16) Costruzioni marittime  
+17) Tecnica ed economia dei trasporti  
+18) Tecnica della circolazione ed organizzazione dei trasporti  
+  
+e a scelta dello studente:  
+Primo gruppo:  
+19) Complementi di costruzioni in cemento armato (semestrale)  
+19') Complementi di ponti (semestrale)  
+Secondo gruppo:  
+19) Complementi di costruzioni stradali (semestrale)  
+19') Apparecchi di sollevamento e trasporto (semestrale).  
+Nel triennio di studi applicativi per il corso di laurea in ingegneria meccanica sono obbligatori i seguenti insegnamenti:  
+1) Scienza delle costruzioni  
+2) Meccanica applicata alle macchine  
+3) Fisica tecnica  
+4) Elettrotecnica  
+5» Idraulica  
+6) Chimica applicata  
+7) Macchine  
+8) Costruzioni di macchine  
+9) Impianti meccanici  
+10) Tecnologia meccanica  
+11) Termodinamica applicata  
+12) Progetti di macchine  
+13) Macchine speciali  
+14) Misure meccaniche  
+15) Costruzioni industriali  
+16) Scienza dei materiali  
+17) Meccanica delle vibrazioni  
+18) Economia ed organizzazione aziendale  
+19) Macchine per la lavorazione dei metalli (sem.)  
+19') Elementi costruttivi delle macchine (sem.)  
+Sono inoltre previsti i seguenti gruppi di materie a scelta dello studente:  
+  
+Primo gruppo:  
+20) Tecnica ed economia dei trasporti  
+21) Propulsione marittima, aerea spaziale.  
+Secondo gruppo:  
+20) Centrali elettriche  
+21) Impianti nucleari.  
+Terzo gruppo:  
+20) Principi di regolazione automatica  
+21) Tecnica del freddo.  
+Quarto gruppo:  
+20) Elementi costruttivi degli autoveicoli  
+21) Complementi di costruzione di macchine.  
+Nel triennio di studi applicativi per il corso di laurea in ingegneria elettrotecnica sono obbligatori i seguenti insegnamenti:  
+1) Scienza delle costruzioni  
+2) Meccanica applicata alle macchine  
+3) Fisica tecnica  
+4) Elettrotecnica  
+5) Idraulica  
+6) Complementi di matematica  
+7) Materiali per l'elettrotecnica  
+8) Misure elettriche  
+9) Macchine elettriche  
+10) Elettronica applicata  
+11) Impianti elettrici  
+12) Macchine  
+13) Lavorazioni meccaniche (sem.)  
+13') Elementi di costruzione di macchine (sem.)  
+14) Telecomunicazioni  
+15) Automatismi e regolazione  
+16) Costruzioni elettromeccaniche  
+17) Misure sulle macchine e sugli impianti  
+18) Trasmissione dell'energia elettrica  
+19) Economia ed organizzazione aziendale e a scelta dello studente:  
+Primo gruppo:  
+20) Trazioni elettriche  
+21) Grandi utilizzazioni  
+Secondo gruppo:  
+20) Centrali elettriche  
+21) Tecnica delle alte tensioni  
+Terzo gruppo:  
+20) Elementi di fisica nucleare  
+21) Impianti nucleari.  
+Nel triennio di studi applicativi per il corso di laurea in ingegneria elettronica sono obbligatori i seguenti insegnamenti:  
+1) Scienza delle costruzioni  
+2) Meccanica delle macchine e macchine;  
+3) Fisica tecnica  
+4) Elettrotecnica  
+5) Componenti elettronici  
+6) Complementi di matematica  
+7) Materiali per l'elettrotecnica  
+8) Misure elettriche  
+9) Macchine elettriche  
+10) Elettronica applicata  
+11) Campi elettromagnetici e circuiti  
+12) Comunicazioni elettriche  
+13) Controlli automatici  
+14) Lavorazioni meccaniche (sem.)  
+15) Complementi di fisica  
+16') Complementi di elettrotecnica  
+17) Misure elettroniche  
+18) Radiotecnica  
+19) Economia ed organizzazione aziendale e a scelta dello studente:  
+Primo gruppo:  
+20) Telefonia e telegrafia  
+21) Microonde  
+Secondo gruppo:  
+20) Elettronica industriale  
+21) Calcolatori elettronici  
+Terzo gruppo:  
+20) Calcolatori elettronici  
+21) Elettronica biomedica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 7 febbraio 1970
+### Dato a Roma, addi' 25 settembre 1967
 
-SARAGAT FERRARI AGGRADI
+Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA GUI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 23 aprile 1970
+Registrato alla Corte dei conti, addi' 7 novembre 1967
 
-Atti del Governo, registro n. 234, foglio n. 201. - CARUSO
+Atti del Governo, registro n. 214, foglio n. 121. - GRECO

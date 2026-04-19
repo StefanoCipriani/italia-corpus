@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1969 n. 242
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1971 n. 1177
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1969 n. 242
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1971 n. 1177
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
@@ -12,47 +12,56 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuito dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 12 marzo 1968, n. 442](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-12;442);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sentito il parere del consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Roma approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli 541, 542, 543, 544, 545, 546 relativi alla "Scuola di perfezionamento in anestesia" che muta la denominazione in quella di "Scuola di specializzazione in anestesiologia e rianimazione", sono abrogati e sostituiti dai seguenti:  
   
-Art. 66. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie seno aggiunti i seguenti:  
-sociologia dell'educazione;  
-linguistica applicata;  
-docimologia;  
-psicologia scolastica.  
-Nello stesso articolo, dopo l'elenco degli insegnamenti complementari e' aggiunto il seguente comma: Lo studente che intende conseguire il diploma di laurea con valore abilitante all'insegnamento nella scuola media, deve, oltre agli insegnamenti fondamentali e ai complementari di cui al comma precedente, seguire al quarto anno e superare altri due esami complementari da scegliersi fra i seguenti: 1) psicologia; 2) psicologia dell'eta' evolutiva; 3) psicologia sociale; 4) sociologia dell'educazione; 5) linguistica applicata; 6) docimologia; 7) psicologia scolastica. La laurea abilitante si conseguira' soltanto dopo la frequenza del quinto anno di corso.  
-Art. 67. - All'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti:  
-sociologia dell'educazione;  
-linguistica applicata;  
-docimologia;  
-psicologia scolastica.  
-Nello stesso articolo, dopo l'elenco degli insegnamenti complementari, e' aggiunto il seguente comma: "Lo studente che intende conseguire il diploma di laurea con valore abilitante all'insegnamento nella scuola media, deve, oltre agli insegnamenti fondamentali e ai complementari di cui al comma precedente, seguire al quarto anno e superare altri due esami complementari da scegliersi fra i seguenti: 1) psicologia; 2) psicologia dell'eta' evolutiva; 3) pedagogia speciale; 4) didattica; 5) psicologia sociale; 6) sociologia dell'educazione; 7) linguistica applicata; 8) docimologia;  
-9) psicologia scolastica". La laurea abilitante si conseguira' soltanto dopo la frequenza del quinto anno di corso.  
-Art. 68. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti i seguenti:  
-sociologia dell'educazione;  
-linguistica applicata;  
-docimologia;  
-psicologia scolastica.  
-Nello stesso articolo, dopo l'elenco degli insegnamenti complementari, e' aggiunto il seguente comma: "Lo studente che intende conseguire il diploma di laurea con valore abilitante all'insegnamento nella scuola media, deve, oltre agli insegnamenti fondamentali e ai complementari di cui al comma precedente, seguire al quarto anno e superare altri due esami complementari da scegliersi fra i seguenti: 1) psicologia; 2) psicologia dell'eta' evolutiva; 3) psicologia sociale; 4) sociologia dell'educazione; 5) linguistica applicata; 6) docimologia; 7) psicologia scolastica". La laurea abilitante si conseguira' soltanto dopo la frequenza del quinto anno di corso.  
+Scuola di specializzazione in anestesiologia e rianimazione  
   
-Il presente decreto, munite del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.  
+Art. 541. - La scuola di specializzazione in anestesiologia e rianimazione ha la durata di tre anni.  
+Art. 542. - Il numero massimo degli iscritti e' limitato a cinquanta per ogni anno (totale centocinquanta specializzandi).  
+Art. 543. - Non e' concesso nessun abbreviamento di corso, ad eccezione dei candidati che, gia' in possesso del diploma di specializzazione in anestesiologia, possono essere ammessi al 3° anno per ottenere il completamento.  
+Art. 544. - Le materie di insegnamento sono:  
+1° Anno:  
+1) Anatomia, biochimica, farmacologia, fisica, fisiologia applicate all'anestesiologia e rianimazione;  
+2) Anestesiologia;  
+3) Tecniche chirurgiche di interesse anestesiologico;  
+4) Aspetti medico-legali dell'anestesia e della rianimazione;  
+Internato.  
+2° Anno:  
+1) Anestesiologia;  
+2) Terapia antalgica;  
+3) Rianimazione;  
+Internato.  
+3° Anno:  
+1) Rianimazione;  
+2) Tecniche speciali di anestesia e rianimazione;  
+3) Indagini diagnostiche attinenti alla specializzazione;  
+Internato.  
+Art. 545. - Per accedere ai corsi successivi e' obbligatorio il superamento di tutti gli esami del corso precedente, ivi comprese le materie biennali.  
+Gli esami possono essere sostenuti solamente in due sessioni annuali, una estiva e una autunnale, e comunque non oltre il 30 novembre dell'anno in corso.  
+Art. 546. - Il diploma viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinico o sperimentale.  
   
-Dato a Roma, addi' 21 gennaio 1969  
-  
-SARAGAT  
-  
-SULLO   
-Visto, il Guardasigilli: GAVA  
-Registrato alla Corte dei conti, addi' 23 maggio 1969  
-Atti del Governo, registro n. 226, foglio n. 197. - GRECO  
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Dato a Roma, addi' 4 ottobre 1971
+
+SARAGAT MISASI
+
+Visto, il Guardasigilli: COLOMBO
+
+Registrato alla Corte dei conti, addi' 30 dicembre 1971
+
+Atti del Governo, registro n. 245, foglio n. 169. - VALENTINI

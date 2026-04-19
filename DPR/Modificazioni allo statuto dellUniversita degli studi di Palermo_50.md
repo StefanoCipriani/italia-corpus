@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1974 n. 671
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 991
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1974 n. 671
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 991
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
@@ -18,7 +18,9 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -30,148 +32,28 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 152 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in "Neuropsichiatria infantile".
+Art. 103. - All'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti i seguenti:
 
-Dopo l'art. 189, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in neuropsichiatria infantile.
+Chimica della fertilizzazione;
 
-Scuola di specializzazione in neuropsichiatria infantile
+Microbiologia del terreno.
 
-Art. 190. - La scuola di specializzazione in neuropsichiatria infantile e' annessa alla clinica delle malattie nervose e mentali.
-
-La durata del corso e' di anni 4.
-
-Il numero degli iscritti e' di undici per ogni anno per un numero complessivo di quarantaquattro nei quattro anni.
-
-L'ammissione alla scuola avviene per titoli ed esami.
-
-La frequenza alle lezioni e' obbligatoria.
-
-Art. 191. - E' obbligatorio un internato di sei mesi in clinica pediatrica per gli studenti del 1° anno, di tre mesi in neurologia e di tre mesi in psichiatria per gli studenti del 2° anno, di sei mesi per gli studenti del 3° anno e di sei mesi per gli studenti del 4° anno in neuropsichiatria infantile.
-
-Art. 192. - L'ammissione alla scuola e' al 1° anno per i laureati in medicina e chirurgia, al 2° anno per gli specialisti in clinica delle malattie nervose e mentali; o in neurologia o in psichiatria, in clinica pediatrica.
-
-L'ammissione alla scuola avverra' previo colloquio attitudinale ed esame.
-
-Per ottenere l'iscrizione al 2°, 3° e 4° anno di specializzazione gli iscritti dovranno aver sostenuto gli esami delle materie prescritte per l'anno precedente, tranne che per la clinica psichiatrica infantile il cui esame va sostenuto al 4° anno.
-
-Art. 193. - Gli specialisti in clinica delle malattie nervose e mentali o in neurologia o in psichiatria, iscritti d'ufficio al 2° anno della scuola sono esentati dal sostenere gli esami di profitto di cui ai numeri 1), 2), 5), 7), 8), e dall'espletare il periodo di internato in neurologia e psichiatrica.
-
-Gli specialisti in clinica pediatrica iscritti d'ufficio al 2° anno della scuola, sono esentati dal sostenere gli esami di profitto di cui ai numeri 3) e 4) e dall'espletare il periodo di internato del 1° anno.
-
-Per conseguire il diploma di specialista in neurologia infantile gli iscritti, al termine degli esami, dovranno presentare e discutere una dissertazione scritta su un argomento di neuropsichiatria infantile.
-
-Art. 194. - Gli insegnamenti sono i seguenti:
-
-1° Anno:
-
-1) Anatomia ed embriologia del sistema nervoso;
-
-2) Fisiologia del sistema nervoso con particolare riguardo all'eta' evolutiva;
-
-3) Genetica;
-
-4) Endocrinologia dell'eta' evolutiva e auxologia;
-
-5) Patologia e clinica pediatrica;
-
-6) Tecniche di laboratorio.
-
-2° Anno:
-
-7) Anatomia patologica del sistema nervoso;
-
-8) Biochimica patologica del sistema nervoso;
-
-9) Psicologia dell'eta' evolutiva;
-
-10) Semeiotica e clinica neurologica;
-
-11) Semeiotica e clinica psichiatrica.
-
-3° Anno:
-
-12) Psicologia dell'eta' evolutiva;
-
-13) Semeiotica e clinica neurologica infantile;
-
-14) Psicodiagnostica dell'eta' evolutiva;
-
-15) Elettrofisiologia;
-
-16) Neuroradiologia;
-
-17) Neurochirurgia dell'eta' evolutiva;
-
-18) Semeiotica e clinica psichiatrica infantile (I).
-
-4° Anno:
-
-19) Clinica psichiatrica infantile (II);
-
-20) Terapia generale delle malattie mentali infantili;
-
-21) Psicoterapia dell'eta' evolutiva;
-
-22) Foniatria;
-
-23) Psicopedagogia;
-
-24) SocioLogia applicata alla popolazione infantile;
-
-25) Legislazione.
-
-Gli esami di profitto si sostengono nei seguenti gruppi:
-
-1° Anno:
-
-1) Embriologia ed anatomia del sistema nervoso;
-
-2) Fisiologia del sistema nervoso;
-
-3) Genetica, endocrinologia e auxologia;
-
-4) Patologia e clinica pediatrica.
-
-2° Anno:
-
-5) Anatomia e biochimica patologica del sistema nervoso;
-
-6) Psicologia dell'eta' evolutiva;
-
-7) Semeiotica e clinica neurologica;
-
-8) Semeiotica e clinica psichiatrica.
-
-3° Anno:
-
-9) Semeiotica e clinica neurologica infantile;
-
-10) Psicopatologia dell'eta' evolutiva;
-
-11) Psicodiagnostica dell'eta' evolutiva.
-
-4° Anno:
-
-12) Semeiotica e clinica psichiatrica infantile;
-
-13) Psicopedagogia;
-
-14) Legislazione.
+Nello stesso articolo l'insegnamento di "Frutticoltura industriale" passa da semestrale ad annuale, e l'insegnamento di "Lotta biologica" (semestrale) muta la denominazione in quella di "Lotta biologica ed integrata" (annuale).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 29 ottobre 1974
+Dato a Roma, addi' 31 ottobre 1972
 
 LEONE
 
-MALFATTI
+SCALFARO
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte, dei conti, addi' 7 dicembre 1974 Atti di Governo, registro n. 7, foglio n. 72. - SCIARRETTA
+alla Corte dei conti, addi' 12 febbraio 1973 Atti di Governo, registro n. 255, foglio n. 97. - VALENTINI
 
 Art. 1
 ------
@@ -182,7 +64,8 @@ Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -190,92 +73,23 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 152 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in "Neuropsichiatria infantile".  
-Dopo l'art. 189, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in neuropsichiatria infantile.  
   
-Scuola di specializzazione in neuropsichiatria infantile  
+Art. 103. - All'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti i seguenti:  
+Chimica della fertilizzazione;  
+Microbiologia del terreno.  
   
-Art. 190. - La scuola di specializzazione in neuropsichiatria infantile e' annessa alla clinica delle malattie nervose e mentali.  
-La durata del corso e' di anni 4.  
-Il numero degli iscritti e' di undici per ogni anno per un numero complessivo di quarantaquattro nei quattro anni.  
-L'ammissione alla scuola avviene per titoli ed esami.  
-La frequenza alle lezioni e' obbligatoria.  
-Art. 191. - E' obbligatorio un internato di sei mesi in clinica pediatrica per gli studenti del 1° anno, di tre mesi in neurologia e di tre mesi in psichiatria per gli studenti del 2° anno, di sei mesi per gli studenti del 3° anno e di sei mesi per gli studenti del 4° anno in neuropsichiatria infantile.  
-Art. 192. - L'ammissione alla scuola e' al 1° anno per i laureati in medicina e chirurgia, al 2° anno per gli specialisti in clinica delle malattie nervose e mentali; o in neurologia o in psichiatria, in clinica pediatrica.  
-L'ammissione alla scuola avverra' previo colloquio attitudinale ed esame.  
-Per ottenere l'iscrizione al 2°, 3° e 4° anno di specializzazione gli iscritti dovranno aver sostenuto gli esami delle materie prescritte per l'anno precedente, tranne che per la clinica psichiatrica infantile il cui esame va sostenuto al 4° anno.  
-Art. 193. - Gli specialisti in clinica delle malattie nervose e mentali o in neurologia o in psichiatria, iscritti d'ufficio al 2° anno della scuola sono esentati dal sostenere gli esami di profitto di cui ai numeri 1), 2), 5), 7), 8), e dall'espletare il periodo di internato in neurologia e psichiatrica.  
-Gli specialisti in clinica pediatrica iscritti d'ufficio al 2° anno della scuola, sono esentati dal sostenere gli esami di profitto di cui ai numeri 3) e 4) e dall'espletare il periodo di internato del 1° anno.  
-Per conseguire il diploma di specialista in neurologia infantile gli iscritti, al termine degli esami, dovranno presentare e discutere una dissertazione scritta su un argomento di neuropsichiatria infantile.  
-Art. 194. - Gli insegnamenti sono i seguenti:  
-  
-1° Anno:  
-1) Anatomia ed embriologia del sistema nervoso;  
-2) Fisiologia del sistema nervoso con particolare riguardo all'eta' evolutiva;  
-3) Genetica;  
-4) Endocrinologia dell'eta' evolutiva e auxologia;  
-5) Patologia e clinica pediatrica;  
-6) Tecniche di laboratorio.  
-  
-2° Anno:  
-7) Anatomia patologica del sistema nervoso;  
-8) Biochimica patologica del sistema nervoso;  
-9) Psicologia dell'eta' evolutiva;  
-10) Semeiotica e clinica neurologica;  
-11) Semeiotica e clinica psichiatrica.  
-  
-3° Anno:  
-12) Psicologia dell'eta' evolutiva;  
-13) Semeiotica e clinica neurologica infantile;  
-14) Psicodiagnostica dell'eta' evolutiva;  
-15) Elettrofisiologia;  
-16) Neuroradiologia;  
-17) Neurochirurgia dell'eta' evolutiva;  
-18) Semeiotica e clinica psichiatrica infantile (I).  
-  
-4° Anno:  
-19) Clinica psichiatrica infantile (II);  
-20) Terapia generale delle malattie mentali infantili;  
-21) Psicoterapia dell'eta' evolutiva;  
-22) Foniatria;  
-23) Psicopedagogia;  
-24) SocioLogia applicata alla popolazione infantile;  
-25) Legislazione.  
-  
-Gli esami di profitto si sostengono nei seguenti gruppi:  
-  
-1° Anno:  
-1) Embriologia ed anatomia del sistema nervoso;  
-2) Fisiologia del sistema nervoso;  
-3) Genetica, endocrinologia e auxologia;  
-4) Patologia e clinica pediatrica.  
-  
-2° Anno:  
-5) Anatomia e biochimica patologica del sistema nervoso;  
-6) Psicologia dell'eta' evolutiva;  
-7) Semeiotica e clinica neurologica;  
-8) Semeiotica e clinica psichiatrica.  
-  
-3° Anno:  
-9) Semeiotica e clinica neurologica infantile;  
-10) Psicopatologia dell'eta' evolutiva;  
-11) Psicodiagnostica dell'eta' evolutiva.  
-  
-4° Anno:  
-12) Semeiotica e clinica psichiatrica infantile;  
-13) Psicopedagogia;  
-14) Legislazione.  
+Nello stesso articolo l'insegnamento di "Frutticoltura industriale" passa da semestrale ad annuale, e l'insegnamento di "Lotta biologica" (semestrale) muta la denominazione in quella di "Lotta biologica ed integrata" (annuale).  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 ottobre 1974
+### Dato a Roma, addi' 31 ottobre 1972
 
-LEONE MALFATTI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte, dei conti, addi' 7 dicembre 1974
+Registrato alla Corte dei conti, addi' 12 febbraio 1973
 
-Atti di Governo, registro n. 7, foglio n. 72. - SCIARRETTA
+Atti di Governo, registro n. 255, foglio n. 97. - VALENTINI

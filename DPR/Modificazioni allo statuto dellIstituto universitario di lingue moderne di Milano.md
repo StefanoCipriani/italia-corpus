@@ -1,429 +1,68 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1970 n. 1435
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1969 n. 1327
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1970 n. 1435
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1969 n. 1327
 ===============================================================
 
 Modificazioni allo statuto dell'Istituto universitario di lingue moderne di Milano.
 -----------------------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Istituto universitario di lingue moderne di Milano, approvato con [decreto del Presidente della Repubblica 31 ottobre 1968, n. 1490](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-10-31;1490), e modificato con [decreto del Presidente della Repubblica 31 ottobre 1969, n. 1327](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-10-31;1327);
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Istituto universitario di lingue moderne di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 19. - E' abrogato e sostituito dal seguente:
-
-La facolta' conferisce la laurea in lingue e letterature straniere.
-
-Titolo di ammissione: quello previsto dalle vigenti disposizioni di legge.
-
-La durata del corso degli studi e' di 4 anni.
-
-Il consiglio di facolta' potra', a quanti siano in possesso di un'altra laurea italiana o titolo equipollente straniero, nonche' dei titoli rilasciati in base alla [legge 2 aprile 1968, n. 458](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-04-02;458), accordare l'abbreviazione dei corsi presso la facolta' medesima.
-
-Dopo l'art. 24 sono aggiunti i seguenti nuovi articoli, relativi all'istituzione della scuola di specializzazione in didattica delle lingue e letterature moderne e della scuola speciale di relazioni pubbliche.
-
-Scuola di specializzazione in didattica delle lingue e letterature moderne
-
-Art. 25. - E' costituita, presso l'Istituto universitario di lingue moderne, una "Scuola di specializzazione in didattica delle lingue e letterature moderne" articolata in due indirizzi: 1° linguistico, 2° storico-letterario.
-
-Art. 26. - La scuola e' retta da un consiglio di scuola formato dal direttore dell'I.U.L.M., dal presidente del consiglio d'amministrazione dello I.U.L.M., dai professori ufficiali della scuola stessa. Il consiglio d'amministrazione dell'I.U.L.M. nomina il direttore della scuola ed i docenti (scelti tra professori universitari e cultori della materia italiani e stranieri) e decide sulle proposte didattiche formulate dal consiglio della scuola.
-
-Il direttore della scuola e' nominato per un triennio e puo' sempre essere riconfermato. I docenti sono nominati di anno in anno e possono sempre essere riconfermati.
-
-Art. 27. - Possono iscriversi ai corsi i laureati in una delle seguenti facolta': lingue e letterature straniere, lettere e filosofia, magistero, scienze politiche, economia e commercio. Per quanti siano in possesso di altro tipo di laurea italiana o titolo straniero equipollente, il consiglio di scuola decidera' caso per caso sull'eventuale ammissione, tenuto conto della preparazione linguistica e storico-letteraria dei richiedenti.
-
-Il consiglio della scuola fissa annualmente il numero massimo di iscrizioni al 1° anno.
-
-Gli iscritti alla scuola dovranno versare le seguenti tasse e soprattasse:
-
-1) Tassa annuale di iscrizione di L. 50.000.
-
-2) Soprattassa annuale esami di profitto L. 10.000.
-
-3) Soprattassa esami di diploma L. 6000.
-
-4) Tassa di diploma L. 6000.
-
-Il consiglio di amministrazione, su proposta del competente consiglio della scuola di specializzazione in didattica delle lingue e letterature moderne determinera' annualmente i contributi da versare da parte degli iscritti.
-
-Art. 28. - I corsi hanno durata biennale. Ciascun insegnamento ha durata annuale o biennale. Per talune discipline il consiglio di scuola potra' istituire corsi semestrali.
-
-Il consiglio di scuola potra' inoltre proporre annualmente al consiglio d'amministrazione dello I.U.L.M. variazioni relative alle discipline previste dal piano degli studi.
-
-Art. 29. - Gli iscritti che frequentino regolarmente i corsi saranno sottoposti, durante l'anno, ad una serie di esercitazioni e di accertamenti la cui valutazione complessiva potra' tenere luogo di esame di fine d'anno o di semestre. Coloro che non si trovino nelle condizioni di cui sopra, saranno tenuti a sostenere invece esami (annuali o biennali o semestrali) per l'accertamento del profitto.
-
-Art. 30. - Sin dal primo anno di corso ogni iscritto scegliera', d'accordo con uno dei docenti della scuola un argomento attinente i suoi studi e lo approfondira' nel biennio, nel corso di una ricerca scientifica originale. I risultati della ricerca, che dovranno costituire una monografia sull'argomento, verranno discussi dinnanzi ad una commissione di docenti della materia e di materie affini.
-
-Art. 31. - Coloro che abbiano superati tutti gli esami previsti dal piano degli studi nonche' la discussione della monografia di cui al precedente art. 30 conseguiranno il diploma di specializzazione in didattica della lingua o il diploma di specializzazione in didattica della letteratura e della storia della civilta', con esplicita menzione della lingua a cui tali diplomi si riferiscono.
-
-PIANO DEGLI STUDI
-
-A. - Indirizzo linguistico
-
-1° Anno:
-
-1) Linguistica generale;.
-
-2) Linguistica applicata;
-
-3) Storia della lingua;
-
-4) Fonologia e fonetica applicata;
-
-5) Foniatria e audiometria;
-
-6) Tecnica ed impiego dei mezzi audiovisivi;
-
-7) Esegesi e critica testuale;
-
-8) Didattica delle lingue moderne.
-
-2° Anno:
-
-1) Linguistica generale;
-
-2) Linguistica applicata;
-
-3) Fonologia e fonetica applicata;
-
-4) Psicolinguistica;
-
-5) Tecnica ed impiego dei mezzi audiovisivi;
-
-6) Esegesi e critica testuale;
-
-7) Didattica delle lingue moderne;
-
-8) Filologia (romanza o germanica).
-
-B. - Indirizzo storico-letterario
-
-1° Anno:
-
-1) Bibliografia;
-
-2) Storia della lingua;
-
-3) Linguistica generale;
-
-4) Storia letteraria;
-
-5) Storia politica ed economica;
-
-6) Storia dell'arte;
-
-7) Esegesi e critica testuale.
-
-2° Anno:
-
-1) Linguistica applicata;
-
-2) Esegesi e critica testuale;
-
-3) Storia letteraria;
-
-4) Storia della lingua;
-
-5) Psicolinguistica;
-
-6) Storia della musica;
-
-7) Didattica delle lingue moderne;
-
-8) Filologia (romanza o germanica).
-
-N.B. - Le varie "storie" si riferiscono sempre alla lingua di specializzazione scelta dal candidato.
-
-SCUOLA DI RELAZIONI PUBBLICHE
-
-(Scuola diretta a fini speciali)
-
-Art. 32. - E' istituita, presso l'Istituto universitario di lingua moderna, una scuola diretta a fini speciali per a formazione scientifica, professionale e tecnica nelle relazioni pubbliche, denominata "Scuola di relazioni pubbliche".
-
-Art. 33. - La scuola e' retta da un consiglio di scuola formato dal direttore dell'I.U.L.M., dal presidente del consiglio di amministrazione dello I.U.L.M., dai processori ufficiali della scuola stessa.
-
-Il consiglio d'amministrazione dello I.U.L.M. nomina il direttore della scuola ed i docenti (scelti tra professori universitari e cultori della materia italiani e stranieri) e decide sulle proposte didattiche formulate dal consiglio di scuola.
-
-Il direttore della scuola e' nominato per un triennio e puo' sempre essere riconfermato. I docenti sono nominati di anno in anno e possono sempre essere riconfermati.
-
-Art. 34. - Possono iscriversi ai corsi i diplomati degli istituti di istruzione secondaria superiore.
-
-Il consiglio della scuola potra' valutare, ai fini di eventuali abbreviazioni di corso, gli studi universitari compiuti altrove dai candidati.
-
-Il consiglio della scuola stabilisce anno per anno il numero massimo degli studenti che possono essere iscritti al 1° anno di corso.
-
-Gli iscritti alla scuola dovranno versare le seguenti tasse: e soprattasse:
-
-1) Tassa annuale di iscrizione di L. 50.000.
-
-2) Soprattassa annuale esami di profitto L. 10.000.
-
-3) Soprattassa esami di diploma L. 6000.
-
-4) Tassa di diploma L. 6000.
-
-Il consiglio di amministrazione, su proposta del competente consiglio della scuola speciale di relazioni pubbliche determinera' annualmente i contributi da versare da parte degli iscritti.
-
-Art. 35. - I corsi hanno durata triennale. Ciascun insegnamento ha durata annuale o biennale o triennale.
-
-Per talune discipline il consiglio di scuola potra' istituire corsi semestrali. Il consiglio di scuola potra' inoltre proporre annualmente al consiglio d'amministrazione dello I.U.L.M. variazioni relative alle discipline previste dal piano degli studi.
-
-Art. 36. - Gli iscritti che frequentano regolarmente i corsi saranno sottoposti, durante l'anno, ad una serie di esercitazioni e di accertamenti la cui valutazione complessiva potra' tenere luogo di esame di fine d'anno o di semestre. Coloro che non si trovino nelle condizioni di cui sopra saranno tenuti a sostenere invece esami (semestrali o annuali o biennali o triennali) per l'accertamento del profitto.
-
-Art. 37. - Nel corso dell'ultimo anno di studi ogni iscritto scegliera' un argomento da approfondire in una ricerca personale. I risultati di tale ricerca verranno discussi dinnanzi ad una commissione di docenti della materia e di materie affini.
-
-Art. 38. - Coloro che abbiano superati tutti gli esami previsti dal piano degli studi, nonche' la discussione della ricerca di cui al precedente art. 37, conseguiranno il diploma in relazione pubbliche.
-
-PIANO DEGLI STUDI
-
-1° Anno:
-
-Nozioni di organizzazione aziendale;
-
-Marketing, promozione e pubblicita';
-
-Tecniche delle comunicazioni;
-
-Diritto privato;
-
-Economia politica (I);
-
-Statistica;
-
-Sociologia (I);
-
-1ª Lingua straniera (I);
-
-2ª Lingua straniera (I).
-
-2° Anno:
-
-Relazioni umane e addestramento;
-
-Tecnica di ricerche di mercato e analisi di opinione;
-
-Relazioni pubbliche (storia, mezzi e tecniche) (I);
-
-Diritto pubblico;
-
-Economia politica (II);
-
-Sociologia (II);
-
-Psicologia (I);
-
-1ª Lingua straniera (II);
-
-2ª Lingua straniera (II);
-
-3° Anno:
-
-Relazioni pubbliche (Casi, R.P. nell'industria, R.P.
-
-negli enti pubblici) (II);
-
-Programmazione e analisi di risultati di relazioni pubbliche;
-
-Informatica;
-
-Diritto internazionale;
-
-Sociologia (III);
-
-Psicologia (II); - Scienze delle finanze;
-
-1ª Lingua straniera (III);
-
-2ª Lingua straniera (III).
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 14 ottobre 1970
-
-SARAGAT
-
-MISASI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 8 aprile 1971 Atti del Governo, registro n. 241, foglio n. 123. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Istituto universitario di lingue moderne di Milano, approvato con [decreto del Presidente della Repubblica 31 ottobre 1968, n. 1490](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-10-31;1490), e modificato con [decreto del Presidente della Repubblica 31 ottobre 1969, n. 1327](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-10-31;1327);  
+Veduto lo statuto dell'Istituto universitario di lingue e letterature straniere di Milano approvato con [decreto del Presidente della Repubblica 31 ottobre 1968, n. 1490](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-10-31;1490);  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'istituto anzidetto;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Istituto universitario di lingue moderne di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Istituto universitario di lingue e letterature straniere di Milano approvato con il decreto sopraindicato e' modificato nel senso che gli articoli 20, 21, 23 relativi all'ordinamento degli studi del corso di laurea in lingue e letterature straniere sono abrogati e sostituiti dai seguenti, mentre restano invariati gli articoli 19, 22 e 24.  
+Art. 20. - Gli insegnamenti si distinguono in fondamentali e complementari.  
+Sono insegnamenti fondamentali:  
+1) Lingua e letteratura italiana (biennale);  
+2) Una lingua e letteratura straniera (quadriennale) da scegliersi tra: francese, inglese, tedesco, spagnolo o qualsiasi altra il cui insegnamento sia impartito nel corso di laurea;  
+3) Una seconda lingua e letteratura straniera (triennale) da scegliersi tra quelle insegnate nel corso di laurea;  
+4) La filologia afferente la lingua scelta come quadriennale;  
+5) Glottologia;  
+6) Storia moderna e contemporanea;  
+7) Geografia, soprattutto antropica.  
+Sono insegnamenti complementari: tutti quelli impartiti nella facolta' di lingue, di lettere e filosofia, di magistero, di giurisprudenza e di scienze politiche.  
+Inoltre: relazioni pubbliche, relazioni umane, teoria dell'informazione, ricerca operativa, principi e tecnica delle applicazioni meccanografiche ed elettroniche. Lingua e letteratura latina; una materia filosofica; storia dell'arte; didattica delle lingue moderne.  
+Lo studente dovra' seguire, superando il relativo esame di ciascuno di essi, tre insegnamenti scelti fra le discipline insegnate nella facolta'.  
   
-Art. 19. - E' abrogato e sostituito dal seguente:  
-La facolta' conferisce la laurea in lingue e letterature straniere.  
-Titolo di ammissione: quello previsto dalle vigenti disposizioni di legge.  
-La durata del corso degli studi e' di 4 anni.  
-Il consiglio di facolta' potra', a quanti siano in possesso di un'altra laurea italiana o titolo equipollente straniero, nonche' dei titoli rilasciati in base alla [legge 2 aprile 1968, n. 458](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-04-02;458), accordare l'abbreviazione dei corsi presso la facolta' medesima.  
-Dopo l'art. 24 sono aggiunti i seguenti nuovi articoli, relativi all'istituzione della scuola di specializzazione in didattica delle lingue e letterature moderne e della scuola speciale di relazioni pubbliche.  
+ESAMI  
   
-Scuola di specializzazione in didattica delle lingue e letterature moderne  
-  
-Art. 25. - E' costituita, presso l'Istituto universitario di lingue moderne, una "Scuola di specializzazione in didattica delle lingue e letterature moderne" articolata in due indirizzi: 1° linguistico, 2° storico-letterario.  
-Art. 26. - La scuola e' retta da un consiglio di scuola formato dal direttore dell'I.U.L.M., dal presidente del consiglio d'amministrazione dello I.U.L.M., dai professori ufficiali della scuola stessa. Il consiglio d'amministrazione dell'I.U.L.M. nomina il direttore della scuola ed i docenti (scelti tra professori universitari e cultori della materia italiani e stranieri) e decide sulle proposte didattiche formulate dal consiglio della scuola.  
-Il direttore della scuola e' nominato per un triennio e puo' sempre essere riconfermato. I docenti sono nominati di anno in anno e possono sempre essere riconfermati.  
-Art. 27. - Possono iscriversi ai corsi i laureati in una delle seguenti facolta': lingue e letterature straniere, lettere e filosofia, magistero, scienze politiche, economia e commercio. Per quanti siano in possesso di altro tipo di laurea italiana o titolo straniero equipollente, il consiglio di scuola decidera' caso per caso sull'eventuale ammissione, tenuto conto della preparazione linguistica e storico-letteraria dei richiedenti.  
-Il consiglio della scuola fissa annualmente il numero massimo di iscrizioni al 1° anno.  
-Gli iscritti alla scuola dovranno versare le seguenti tasse e soprattasse:  
-1) Tassa annuale di iscrizione di L. 50.000.  
-2) Soprattassa annuale esami di profitto L. 10.000.  
-3) Soprattassa esami di diploma L. 6000.  
-4) Tassa di diploma L. 6000.  
-Il consiglio di amministrazione, su proposta del competente consiglio della scuola di specializzazione in didattica delle lingue e letterature moderne determinera' annualmente i contributi da versare da parte degli iscritti.  
-Art. 28. - I corsi hanno durata biennale. Ciascun insegnamento ha durata annuale o biennale. Per talune discipline il consiglio di scuola potra' istituire corsi semestrali.  
-Il consiglio di scuola potra' inoltre proporre annualmente al consiglio d'amministrazione dello I.U.L.M. variazioni relative alle discipline previste dal piano degli studi.  
-Art. 29. - Gli iscritti che frequentino regolarmente i corsi saranno sottoposti, durante l'anno, ad una serie di esercitazioni e di accertamenti la cui valutazione complessiva potra' tenere luogo di esame di fine d'anno o di semestre. Coloro che non si trovino nelle condizioni di cui sopra, saranno tenuti a sostenere invece esami (annuali o biennali o semestrali) per l'accertamento del profitto.  
-Art. 30. - Sin dal primo anno di corso ogni iscritto scegliera', d'accordo con uno dei docenti della scuola un argomento attinente i suoi studi e lo approfondira' nel biennio, nel corso di una ricerca scientifica originale. I risultati della ricerca, che dovranno costituire una monografia sull'argomento, verranno discussi dinnanzi ad una commissione di docenti della materia e di materie affini.  
-Art. 31. - Coloro che abbiano superati tutti gli esami previsti dal piano degli studi nonche' la discussione della monografia di cui al precedente art. 30 conseguiranno il diploma di specializzazione in didattica della lingua o il diploma di specializzazione in didattica della letteratura e della storia della civilta', con esplicita menzione della lingua a cui tali diplomi si riferiscono.  
-  
-PIANO DEGLI STUDI  
-  
-A. - Indirizzo linguistico  
-  
-1° Anno:  
-1) Linguistica generale;.  
-2) Linguistica applicata;  
-3) Storia della lingua;  
-4) Fonologia e fonetica applicata;  
-5) Foniatria e audiometria;  
-6) Tecnica ed impiego dei mezzi audiovisivi;  
-7) Esegesi e critica testuale;  
-8) Didattica delle lingue moderne.  
-2° Anno:  
-1) Linguistica generale;  
-2) Linguistica applicata;  
-3) Fonologia e fonetica applicata;  
-4) Psicolinguistica;  
-5) Tecnica ed impiego dei mezzi audiovisivi;  
-6) Esegesi e critica testuale;  
-7) Didattica delle lingue moderne;  
-8) Filologia (romanza o germanica).  
-  
-B. - Indirizzo storico-letterario  
-  
-1° Anno:  
-1) Bibliografia;  
-2) Storia della lingua;  
-3) Linguistica generale;  
-4) Storia letteraria;  
-5) Storia politica ed economica;  
-6) Storia dell'arte;  
-7) Esegesi e critica testuale.  
-2° Anno:  
-1) Linguistica applicata;  
-2) Esegesi e critica testuale;  
-3) Storia letteraria;  
-4) Storia della lingua;  
-5) Psicolinguistica;  
-6) Storia della musica;  
-7) Didattica delle lingue moderne;  
-8) Filologia (romanza o germanica).  
-N.B. - Le varie "storie" si riferiscono sempre alla lingua di specializzazione scelta dal candidato.  
-  
-SCUOLA DI RELAZIONI PUBBLICHE  
-(Scuola diretta a fini speciali)  
-  
-Art. 32. - E' istituita, presso l'Istituto universitario di lingua moderna, una scuola diretta a fini speciali per a formazione scientifica, professionale e tecnica nelle relazioni pubbliche, denominata "Scuola di relazioni pubbliche".  
-Art. 33. - La scuola e' retta da un consiglio di scuola formato dal direttore dell'I.U.L.M., dal presidente del consiglio di amministrazione dello I.U.L.M., dai processori ufficiali della scuola stessa.  
-Il consiglio d'amministrazione dello I.U.L.M. nomina il direttore della scuola ed i docenti (scelti tra professori universitari e cultori della materia italiani e stranieri) e decide sulle proposte didattiche formulate dal consiglio di scuola.  
-Il direttore della scuola e' nominato per un triennio e puo' sempre essere riconfermato. I docenti sono nominati di anno in anno e possono sempre essere riconfermati.  
-Art. 34. - Possono iscriversi ai corsi i diplomati degli istituti di istruzione secondaria superiore.  
-Il consiglio della scuola potra' valutare, ai fini di eventuali abbreviazioni di corso, gli studi universitari compiuti altrove dai candidati.  
-Il consiglio della scuola stabilisce anno per anno il numero massimo degli studenti che possono essere iscritti al 1° anno di corso.  
-Gli iscritti alla scuola dovranno versare le seguenti tasse: e soprattasse:  
-1) Tassa annuale di iscrizione di L. 50.000.  
-2) Soprattassa annuale esami di profitto L. 10.000.  
-3) Soprattassa esami di diploma L. 6000.  
-4) Tassa di diploma L. 6000.  
-Il consiglio di amministrazione, su proposta del competente consiglio della scuola speciale di relazioni pubbliche determinera' annualmente i contributi da versare da parte degli iscritti.  
-Art. 35. - I corsi hanno durata triennale. Ciascun insegnamento ha durata annuale o biennale o triennale.  
-Per talune discipline il consiglio di scuola potra' istituire corsi semestrali. Il consiglio di scuola potra' inoltre proporre annualmente al consiglio d'amministrazione dello I.U.L.M. variazioni relative alle discipline previste dal piano degli studi.  
-Art. 36. - Gli iscritti che frequentano regolarmente i corsi saranno sottoposti, durante l'anno, ad una serie di esercitazioni e di accertamenti la cui valutazione complessiva potra' tenere luogo di esame di fine d'anno o di semestre. Coloro che non si trovino nelle condizioni di cui sopra saranno tenuti a sostenere invece esami (semestrali o annuali o biennali o triennali) per l'accertamento del profitto.  
-Art. 37. - Nel corso dell'ultimo anno di studi ogni iscritto scegliera' un argomento da approfondire in una ricerca personale. I risultati di tale ricerca verranno discussi dinnanzi ad una commissione di docenti della materia e di materie affini.  
-Art. 38. - Coloro che abbiano superati tutti gli esami previsti dal piano degli studi, nonche' la discussione della ricerca di cui al precedente art. 37, conseguiranno il diploma in relazione pubbliche.  
-  
-PIANO DEGLI STUDI  
-  
-1° Anno:  
-Nozioni di organizzazione aziendale;  
-Marketing, promozione e pubblicita';  
-Tecniche delle comunicazioni;  
-Diritto privato;  
-Economia politica (I);  
-Statistica;  
-Sociologia (I);  
-1ª Lingua straniera (I);  
-2ª Lingua straniera (I).  
-2° Anno:  
-Relazioni umane e addestramento;  
-Tecnica di ricerche di mercato e analisi di opinione;  
-Relazioni pubbliche (storia, mezzi e tecniche) (I);  
-Diritto pubblico;  
-Economia politica (II);  
-Sociologia (II);  
-Psicologia (I);  
-1ª Lingua straniera (II);  
-2ª Lingua straniera (II);  
-3° Anno:  
-Relazioni pubbliche (Casi, R.P. nell'industria, R.P.  
-negli enti pubblici) (II);  
-Programmazione e analisi di risultati di relazioni pubbliche;  
-Informatica;  
-Diritto internazionale;  
-Sociologia (III);  
-Psicologia (II); - Scienze delle finanze;  
-1ª Lingua straniera (III);  
-2ª Lingua straniera (III).  
+Art. 21. - Gli esami delle lingue straniere (fondamentali) consistono in prove scritte ed in prove orali.  
+Le prove scritte di lingua consistono: per il 1° e per il 2° anno in una prova di dettato ed in una prova di traduzione dall'italiano nella lingua straniera, oppure in una composizione nella lingua straniera.  
+Le prove scritte del 3° anno consistono in una prova di dettato, in una traduzione dall'italiano nella lingua straniera ed in una composizione nella lingua straniera.  
+Le prove scritte del 4° anno consistono in una prova di dettato, in una traduzione dall'italiano nella lingua straniera ed in una composizione di cultura generale nella lingua straniera.  
+Le prove orali di lingua vertono sul programma svolto nell'anno.  
+Esami di italiano. Gli esami di italiano consistono in due prove orali (uno per ciascun anno di corso) ed una prova scritta, che puo' essere sostenuta in uno qualsiasi degli anni di corso.  
+Gli esami di didattica delle lingue moderne comportano prove pratiche consistenti nello svolgimento di una lezione per ciascuna lingua.  
+Tutti gli altri esami sono orali.  
+L'esame di storia e quello di geografia sono afferenti alla lingua scelta come quadriennale.  
+Il consiglio di facolta' puo', con motivate deliberazioni, rendere obbligatoria una o due delle materie complementari. Esso potra' inoltre consentire che lo studente in luogo dell'insegnamento della seconda lingua (triennale), possa seguire gli insegnamenti di una lingua biennale e di una annuale.  
+Art. 23. - Superati tutti gli esami fondamentali e complementari previsti dal piano degli studi, lo studente deve presentare un elaborato scritto su un argomento scelto tra una delle discipline di cui abbia superato gli esami, nel quadro della civilta' della lingua quadriennale.  
+Tale elaborato sara' discusso dinanzi ad una commissione di docenti (esame di laurea).  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 ottobre 1970
+### Dato a Roma, addi' 31 ottobre 1969
 
-SARAGAT MISASI
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 8 aprile 1971
+Registrato alla Corte dei conti, addi' 17 giugno 1970
 
-Atti del Governo, registro n. 241, foglio n. 123. - CARUSO
+Atti del Governo, registro n. 236, foglio n. 32. - CARUSO

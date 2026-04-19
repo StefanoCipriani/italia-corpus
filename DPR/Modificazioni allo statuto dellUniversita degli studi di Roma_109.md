@@ -1,111 +1,11 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1970 n. 474
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 992
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1970 n. 474
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 992
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 38. - All'elenco degli istituti annessi alla facolta' di economia e commercio e aggiunto l'istituto di diritto internazionale.
-
-Art. 65, relativo all'elenco degli istituti annessi alla facolta' di magistero e' modificato nel senso che per il gruppo A (lingue e letterature straniere) l'istituto di lingue e letterature straniere e' soppresso e sostituito dai seguenti:
-
-Istituto di lingua e letteratura francese;
-
-Istituto di lingua e letteratura inglese e anglo-americana;
-
-Istituto di lingue e letterature germaniche (che comprende i due insegnamenti di lingua e letteratura tedesca e di filologia germanica);
-
-Istituto di lingue e letterature iberiche (che comprende gli insegnamenti di lingua e letteratura spagnola, lingua e letteratura portoghese, letteratura ibero-americana);
-
-Istituto di filologia slava (che comprende gli insegnamenti di lingua e letteratura russa e filologia slava);
-
-Istituto di filologia romanza.
-
-Art. 88. - All'elenco degli insegnamenti complementari del corso di laurea in chimica (indirizzo organico-biologico) e' aggiunto quello di:
-
-"Chimica delle superfici e catalisi".
-
-Nello stesso corso di laurea in chimica (indirizzo inorganico-chimico-fisico) sono aggiunti i seguenti insegnamenti complementari:
-
-Chimica dello stato solido;
-
-Chimica delle superfici e catalisi;
-
-Chimica inorganica superiore;
-
-Esercitazioni di tecniche e sintesi speciali inorganiche.
-
-Art. 89. - All'elenco degli insegnamenti complementari del corso di laurea in chimica industriale sono aggiunti quelli di:
-
-Chimica dello stato solido;
-
-Chimica delle superfici e catalisi;
-
-Chimica inorganica superiore.
-
-Art. 111. - All'elenco degli insegnamenti complementari del corso di laurea in farmacia e' aggiunto quello di:
-
-Chimica analitica clinica.
-
-Art. 114, relativo alle modalita' degli esami di laurea del corso in farmacia e' abrogato e sostituito dal seguente:
-
-"L'esame di laurea consiste in una prova di cultura generale e nella discussione di una dissertazione scritta e di un argomento scelto dalla commissione fra i due presentati dal candidato".
-
-Art. 116. - All'elenco degli insegnamenti complementari del corso di laurea in chimica e tecnologia farmaceutiche sono aggiunti quelli di:
-
-Chimica analitica clinica;
-
-Farmacologia applicata.
-
-Art. 700, relativo ai titoli di ammissione al corso di specializzazione in ingegneria dei controlli automatici e' modificato nel senso che il primo comma e' abrogato e sostituito dal seguente:
-
-"Al corso sono ammessi i laureati in ingegneria aeronautica, ingegneria chimica, ingegneria elettronica, ingegneria elettrotecnica, ingegneria meccanica, ingegneria mineraria, ingegneria nucleare; il consiglio del corso potra' ammettere laureati in altre discipline e laureati in Paesi stranieri.
-
-Su richiesta del Ministero della difesa saranno ammessi a frequentare il corso di specializzazione, ufficiali delle forze armate non forniti del titolo di studio richiesto. Alla fine del corso ad essi potra' essere rilasciato un certificato degli studi compiuti e del profitto riportato.
-
-Tutti gli ufficiali ammessi al corso, su richiesta del Ministero difesa, sono esenti dal pagamento delle tasse e soprattasse".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 12 maggio 1970
-
-SARAGAT
-
-MISASI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 7 luglio 1970 Atti dal Governo, registro n. 236, foglio n. 123. - CARUSO
 
 Art. 1
 ------
@@ -116,7 +16,6 @@ Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio dec
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -126,47 +25,27 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 38. - All'elenco degli istituti annessi alla facolta' di economia e commercio e aggiunto l'istituto di diritto internazionale.  
-Art. 65, relativo all'elenco degli istituti annessi alla facolta' di magistero e' modificato nel senso che per il gruppo A (lingue e letterature straniere) l'istituto di lingue e letterature straniere e' soppresso e sostituito dai seguenti:  
-Istituto di lingua e letteratura francese;  
-Istituto di lingua e letteratura inglese e anglo-americana;  
-Istituto di lingue e letterature germaniche (che comprende i due insegnamenti di lingua e letteratura tedesca e di filologia germanica);  
-Istituto di lingue e letterature iberiche (che comprende gli insegnamenti di lingua e letteratura spagnola, lingua e letteratura portoghese, letteratura ibero-americana);  
-Istituto di filologia slava (che comprende gli insegnamenti di lingua e letteratura russa e filologia slava);  
-Istituto di filologia romanza.  
-Art. 88. - All'elenco degli insegnamenti complementari del corso di laurea in chimica (indirizzo organico-biologico) e' aggiunto quello di:  
-"Chimica delle superfici e catalisi".  
-Nello stesso corso di laurea in chimica (indirizzo inorganico-chimico-fisico) sono aggiunti i seguenti insegnamenti complementari:  
-Chimica dello stato solido;  
-Chimica delle superfici e catalisi;  
-Chimica inorganica superiore;  
-Esercitazioni di tecniche e sintesi speciali inorganiche.  
-Art. 89. - All'elenco degli insegnamenti complementari del corso di laurea in chimica industriale sono aggiunti quelli di:  
-Chimica dello stato solido;  
-Chimica delle superfici e catalisi;  
-Chimica inorganica superiore.  
-Art. 111. - All'elenco degli insegnamenti complementari del corso di laurea in farmacia e' aggiunto quello di:  
-Chimica analitica clinica.  
-Art. 114, relativo alle modalita' degli esami di laurea del corso in farmacia e' abrogato e sostituito dal seguente:  
-"L'esame di laurea consiste in una prova di cultura generale e nella discussione di una dissertazione scritta e di un argomento scelto dalla commissione fra i due presentati dal candidato".  
-Art. 116. - All'elenco degli insegnamenti complementari del corso di laurea in chimica e tecnologia farmaceutiche sono aggiunti quelli di:  
-Chimica analitica clinica;  
-Farmacologia applicata.  
-Art. 700, relativo ai titoli di ammissione al corso di specializzazione in ingegneria dei controlli automatici e' modificato nel senso che il primo comma e' abrogato e sostituito dal seguente:  
-"Al corso sono ammessi i laureati in ingegneria aeronautica, ingegneria chimica, ingegneria elettronica, ingegneria elettrotecnica, ingegneria meccanica, ingegneria mineraria, ingegneria nucleare; il consiglio del corso potra' ammettere laureati in altre discipline e laureati in Paesi stranieri.  
-Su richiesta del Ministero della difesa saranno ammessi a frequentare il corso di specializzazione, ufficiali delle forze armate non forniti del titolo di studio richiesto. Alla fine del corso ad essi potra' essere rilasciato un certificato degli studi compiuti e del profitto riportato.  
-Tutti gli ufficiali ammessi al corso, su richiesta del Ministero difesa, sono esenti dal pagamento delle tasse e soprattasse".  
+Art. 81, relativo all'elenco degli istituti annessi alla facolta' di medicina e chirurgia e' modificato come segue:  
+L'istituto di terapia medica sistematica e idrologia medica e' soppresso e al suo posto sono istituiti i seguenti:  
+Istituto di idrologia medica;  
+Istituto di terapia medica sistematica.  
+L'istituto di patologia speciale chirurgica e propedeutica clinica e' trasformato in istituto di III clinica chirurgica generale e terapia chirurgica.  
+L'istituto di I clinica chirurgica e' scisso nei seguenti quattro istituti:  
+Istituto di I clinica chirurgica generale e terapia chirurgica;  
+Istituto di II patologia speciale chirurgica e propedeutica clinica;  
+Istituto di chirurgia del cuore e dei grossi vasi;  
+istituto di anestesiologia e rianimazione.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 maggio 1970
+### Dato a Roma, addi' 31 ottobre 1972
 
-SARAGAT MISASI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 7 luglio 1970
+Registrato alla Corte dei conti, addi' 12 febbraio 1973
 
-Atti dal Governo, registro n. 236, foglio n. 123. - CARUSO
+Atti di Governo, registro n. 255, foglio n. 95. - VALENTINI

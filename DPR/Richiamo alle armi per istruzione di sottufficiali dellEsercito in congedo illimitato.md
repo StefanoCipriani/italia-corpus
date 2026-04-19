@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 gennaio 1954 n. 23
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 novembre 1951 n. 1785
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 gennaio 1954 n. 23
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 novembre 1951 n. 1785
+================================================================
 
 Richiamo alle armi, per istruzione, di sottufficiali dell'Esercito in congedo illimitato.
 -----------------------------------------------------------------------------------------
@@ -25,17 +25,17 @@ Art. 1
 ------
 
   
-Nel corrente anno 1954 possono essere richiamati alla armi per istruzione tremila sottufficiali in congedo illimitato delle armi di fanteria, cavalleria, artiglieria e genio e del servizio automobilistico appartenenti ai distretti militari dipendenti dai Comandi militari territoriali di Torino, Genova, Milano, Bolzano, Padova, Bologna, Firenze, Roma, Bari, Napoli e Palermo, della seguenti classi di leva:  
+Nell'anno 1952 potranno essere richiamati alle armi per istruzione tremilatrecento sottufficiali in congedo illimitato delle Armi di fanteria, cavalleria, artiglieria e genio e del Servizio automobilistico, appartenenti ad alcuni distretti militari dipendenti dai Comandi militari territoriali di Torino, Genova, Milano, Bolzano, Padova, Bologna, Firenze, Roma, Bari, Napoli e Palermo, delle seguenti classi di leva:  
 per i marescialli dei tre gradi e gli aiutanti di battaglia, classe 1909 e successive;  
-per i sergenti maggiori e sergenti, classe 1914 e successive.  
-Possono, inoltre, essere richiamati trecentocinquanta sottufficiali delle armi indicate al primo comma del presente articolo, prescindendo dalla classe di appartenenza, purche' ancora soggetti ad obblighi militari.  
+per i sergenti maggiori e i sergenti, classe 1914 e successive.  
+Potranno, inoltre, essere richiamati Cinquecento sottufficiali delle Armi indicate al primo comma del presente articolo, prescindendo dalla classe di appartenenza, purche' ancora soggetti ad obblighi militari.  
 
 Art. 2
 ------
 
   
-Il Ministro per la difesa stabilira' per ciascun Comando militare territoriale e per ciascuna arma o servizio, il numero dei sottufficiali da richiamare.  
-Il richiamo avra' luogo nel tempo, nei modi e per la durata che saranno stabiliti dal Ministro per la difesa.  
+Il Ministro per la difesa stabilira' per ciascun Comando militare territoriale e per ciascuna Arma o Servizio, il numero dei sottufficiali da richiamare.  
+Il richiamo avra' luogo nel tempo, nei modi, e per la durata che saranno stabiliti dal Ministro per la difesa.  
 
 Art. 3
 ------
@@ -47,12 +47,12 @@ I sottufficiali da richiamare ai sensi del presente decreto riceveranno apposita
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 gennaio 1954
+### Dato a Roma, addi' 4 novembre 1951
 
-EINAUDI TAVIANI
+EINAUDI PACCIARDI
 
-Visto, il Guardasigilli: DE PIETRO
+Visto, il Guardasigilli: ZOLI
 
-Registrato alla Corte dei conti, addi' 10 marzo 1954
+Registrato alla Corte dei conti, addi' 29 marzo 1952
 
-Atti del Governo, registro n. 82, foglio n. 23. - PALLA
+Atti del Governo, registro n. 50, foglio n. 123. - FRASCA

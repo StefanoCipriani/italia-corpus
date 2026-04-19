@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1954 n. 708
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1951 n. 1357
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1954 n. 708
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1951 n. 1357
+==============================================================
 
 Autorizzazione all'Universita' di Padova ad accettare una donazione.
 --------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-708. Decreto del Presidente della Repubblica 19 maggio 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Padova viene autorizzata ad accettare la donazione di L. 100.000 nominali, investita in titoli dello Stato, intestati all'Universita' medesima, disposta in suo favore dal sig. Fortunato Lion Stoppato, anche a nome e per conto della consorte signora Noemi Lion, con atto pubblico amministrativo 17 agosto 1953, per l'istituzione, con la relativa rendita, di un premio di studio intitolato "Premio di studio dott. Mario Lion Stoppato" e da conferirsi per concorso, ogni due anni, ad uno studente iscritto al quinto corso per la laurea in chimica, il quale nell'anno accademico precedente abbia superato con profitto gli esami indicati nel piano di studio consigliato dalla Facolta' di scienze matematiche) fisiche e naturali, o un numero corrispondente, versi in condizioni economiche disagiate e sia nato nella citta' di Padova o provincia.  
+1357. Decreto del Presidente della Repubblica 11 aprile 1951, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Padova viene autorizzata ad accettare la donazione della somma di L. 150.000, disposta in suo favore dal signor Italo Panzoni, con atto pubblico in data 19 luglio 1950, per l'istituzione, con la rendita del capitale donato, di un premio di studio da intitolarsi "Premio di studio Lodovico Panzoni" e da conferirsi, per concorso, ogni cinque anni ad uno studente di nazionalita' italiana, iscritto al 4° corso della Facolta' di medicina e chirurgia, di condizioni economiche disagiate.  
   
-Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 13 agosto 1954  
-Atti del Governo, registro n. 85, foglio n. 42. - TEMPESTA
+Visto, il Guardasigilli: ZOLI  
+Registrato alla Corte dei conti, addi' 1 dicembre 1951  
+Atti del Governo, registro n. 47, foglio n. 14. - FRASCA

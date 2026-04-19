@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 ottobre 1985 n. 746
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1982 n. 142
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 ottobre 1985 n. 746
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1982 n. 142
 ==============================================================
 
 Autorizzazione all'Associazione italiana della Croce rossa, in Roma, ad accettare un legato.
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-746. Decreto del Presidente della Repubblica 1 ottobre 1985, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare il legato, consistente nell'importo necessario ad acquistare una nuova ambulanza completa di attrezzature compreso il servizio trasfusionale di sangue, determinato in L. 16.903.000 a seguito di contatti intercorsi tra il curatore dell'eredita' giacente e la Fiat di Milano, disposto dalla sig.ra Petronilla Zappa in favore della sezione di Milano con testamento olografo 18 ottobre 1973, pubblicato in data 28 gennaio 1980, n. 52767 di repertorio, a rogito dott. Paolo Consolandi, notaio in Milano, registrato a Milano in data 1 febbraio 1980 al n. A/202968.   
+142. Decreto del Presidente della Repubblica 29 gennaio 1982, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare il legato, consistente in una quota di comproprieta' indivisa e pari a 7/12 di due appartamenti con accessori ed un magazzino siti in Bologna, via De Pretis n. 1, del periziato valore di L. 60.000.000, e in un appartamento occupato dalla de cuius ed ora libero, sito in Bologna, via Santo Stefano n. 29, scala B, 2° piano, del periziato valore di L. 165.000.000, disposto dalla sig.ra Marinoni Amelia ved. Gnudi, in favore del comitato provinciale C.R.I. di Bologna, con testamento olografo pubblicato in data 17 novembre 1978, n. 207 di repertorio, a rogito dott.  
+Giovanni Battista Sassoli, notaio in Bologna e registrato a Bologna in data 5 dicembre 1978 al n. 17504.   
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 23 novembre 1985   
-Registro n. 10 Sanita', foglio n. 76
+Visto, il Guardasigilli: DARIDA   
+Registrato alla Corte dei conti, addi' 30 marzo 1982   
+Registro n. 2 Sanita', foglio n. 203

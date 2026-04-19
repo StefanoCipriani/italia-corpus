@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 722
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1981 n. 290
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 722
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1981 n. 290
+==============================================================
 
 Autorizzazione all'Associazione nazionale alpini, in Milano, ad acquistare un immobile.
 ---------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-722. Decreto del Presidente della Repubblica 5 settembre 1980, col quale, sulla proposta del Ministro della difesa, l'Associazione nazionale alpini, in Milano, viene autorizzata ad acquistare dalle signore Lea Martelli e Alba Musiani, per le rispettive ragioni di usufrutto generale e di nuda proprieta', al prezzo di lire 115.000.000, l'appartamento con annesso vano cantina al piano seminterrato e il box per autorimessa, censiti al nuovo catasto edilizio urbano del comune di Milano, nell'ordine, alla partita 176336, foglio 331, mappale 296, sub 17, via Marsala n. 9, piano 3°, scala 2, di vani 7, 5, e alla partita 265973, foglio 311, mappale 393, sub 25, via Marsala n. 9, piano primo sotterraneo, di mq 14, da adibire a sede dei propri uffici.  
+290. Decreto del Presidente della Repubblica 21 gennaio 1981, col quale, sulla proposta del Ministro della difesa, l'Associazione nazionale alpini, in Milano, viene autorizzata ad acquistare, al prezzo di L. 1.000.000, un terreno in comune di Monghidoro (Bologna), destinato dal piano di fabbricazione ad attrezzature sociali, distinto nel nuovo catasto terreni al foglio n. 18, mappale 593, di metri quadrati 2005, e mappale 623, di metri quadrati 183 (parte), di proprieta' dei signori Gabriella, Gianfranco, Giuseppe e Giovanni Giorgi, nonche' della signora Lea Leognani vedova Giorgi, come da contratto preliminare di compravendita 27 marzo 1979, da utilizzare per la costruzione di una "baita per alpini" da assegnare come sede per il gruppo alpini di quella zona, dipendente dalla sezione di Bologna dell'Associazione stessa.  
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 24 ottobre 1980  
-Registro n. 36 Difesa, foglio n. 24
+Visto, il Guardasigilli: SARTI  
+Registrato alla Corte dei conti, addi' 13 maggio 1981  
+Registro n. 16 Difesa, foglio n. 257

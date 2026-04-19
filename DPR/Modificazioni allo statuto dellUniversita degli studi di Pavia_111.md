@@ -1,457 +1,206 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1986 n. 849
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 maggio 1975 n. 513
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1986 n. 849
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 maggio 1975 n. 513
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
-
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta
--------
-
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), in quanto l'Universita' di Pavia e' tenuta ad uniformarsi al disposto di cui all'[art. 1 del decreto del Presidente della Repubblica 27 settembre 1970, n. 827](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-09-27;827~art1);   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Gli articoli da 208 a 212, relativi alla scuola di specializzazione in cardiologia, sono soppressi.   
-
-Art. 2
-------
-
+Decreta:   
   
-Gli articoli da 257 a 261, relativi alla scuola di specializzazione in malattie infettive, sono soppressi.  
-
-Art. 3
-------
-
-  
-Gli articoli da 191 a 194, relativi alla scuola di specializzazione in odontostomatologia, sono soppressi.  
-
-Art. 4
-------
-
-  
-L'art. 213, relativo alla scuola di specializzazione in otorinolaringoiatria, e' soppresso.  
-
-Art. 5
-------
-
-  
-  
-Dopo l'art. 201, e con lo spostamento della numerazione successiva, sono inseriti i seguenti articoli relativi alle scuole di specializzazione in "cardiologia", in "malattie infettive", in "odontostomatologia" e in "otorinolaringoiatria" afferenti alla facolta' di medicina e chirurgia.   
-Scuola di specializzazione in cardiologia   
-Art. 202. - E' istituita la scuola di specializzazione in cardiologia presso l'Universita' degli studi di Pavia.   
-La scuola ha lo scopo di insegnare e di approfondire gli studi nel campo della cardiologia e di fornire le competenze professionali necessarie per il conseguimento del diploma che legittima l'assunzione della qualifica di specialista in cardiologia.   
-La scuola rilascia il titolo di specialista in cardiologia.   
-Art. 203. - La scuola ha la durata di quattro anni.   
-Ciascun anno di corso prevede ottocento ore di insegnamento e di attivita' pratiche guidate.   
-In base alle strutture ed attrezzature disponibili la scuola e' in grado di accettare il numero massimo di iscritti determinato in venti per ciascun anno di corso, per un totale di ottanta specializzandi.   
-Art. 204. - Per l'attuazione delle attivita' didattiche programmate dal consiglio della scuola provvedono le facolta' di medicina e chirurgia e di ingegneria, con le seguenti strutture:   
-dipartimento di medicina interna e terapia medica:   
-sezione di clinica medica I, sezione di farmacologia I,   
-sezione di fisiopatologia cardiorespiratoria;   
-dipartimento di biochimica: sezione I;   
-dipartimento di patologia umana ed ereditaria:   
-sezione di anatomia ed istologia patologica.   
-dipartimento di informatica e sistemistica;   
-istituto di chirurgia generale e terapia chirurgica;   
-istituto di clinica pediatrica;   
-istituto di anatomia umana normale;   
-istituto di fisiologia umana.   
-Art. 205. - Sono ammessi alle prove per ottenere l'iscrizione i laureati in medicina e chirurgia.   
-Per l'iscrizione alla scuola e' richiesto il possesso del diploma di abilitazione all'esercizio della professione.   
-Art. 206. - La scuola comprende dieci aree di insegnamento e tirocinio professionale:   
-a) strutture e metabolismo del cuore e dei vasi;   
-b) fisiologia dell'apparato cardiovascolare;   
-c) fisiopatologia cardiorespiratoria;   
-d) medicina interna generale;   
-e) semeiotica generale cardiovascolare;   
-f) informatica medica e strumentazione biomedica;   
-g) metodologie diagnostiche non invasive;   
-h) metodologie diagnostiche invasive e cardiochirurgia;   
-i) patologia e clinica cardiovascolare;   
-l) farmacologia e terapia cardiovascolare.   
-Art. 207. - Gli insegnamenti relativi a ciascuna area didattica e formativa professionale sono i seguenti:   
-a) Struttura e metabolismo del cuore e dei vasi:   
-anatomia umana normale ed embriologia dell'apparato cardiovascolare;   
-biochimica;   
-biofisica.   
-b) Fisiologia dell'apparato cardiovascolare:   
-fisiologia dell'apparato cardiovascolare I;   
-fisiologia dell'apparato cardiovascolare II.   
-c) Fisiopatologia cardiorespiratoria:   
-fisiopatologia cardiorespiratoria I;   
-fisiopatologia cardiorespiratoria II.   
-d) Medicina interna generale:   
-fondamenti di semeiotica medica;   
-rapporti tra patologia dei vari apparati e patologia cardiovascolare.   
-e) Semeiotica generale cardiovascolare:   
-semeiotica del ricambio idrosalino;   
-semeiotica fisica cardiovascolare I;   
-semeiotica fisica cardiovascolare II.   
-f) Informatica medica e strumentazione biomedica:   
-informatica medica e strumentazione biomedica I;   
-informatica medica e strumentazione biomedica II.   
-g) Metodologie diagnostiche non invasive:   
-indagini diagnostiche non invasive I (elettrocardiografia e vettocardiografia, fonocardiografia e poligrafia);   
-indagini diagnostiche non invasive II (semeiotica funzionale vascolare periferica, ergometria);   
-indagini diagnostiche non invasive III (elettrocardiografia dinamica, ecocardiografia, radiologia non contrastografica, TAC, risonanza magnetica nucleare [RMN], metodiche radioisotopiche).   
-h) Metodologie diagnostiche invasive e cardiochirurgia:   
-indagini diagnostiche invasive I (emodinamica, elettrofisiologia);   
-indagini diagnostiche invasive II (radiologia contrastografia);  
-cardiochirurgia.   
-i) Patologia e clinica cardiovascolare:   
-anatomia patologica I;   
-anatomia patologica II;   
-patologia e clinica cardiovascolare I;   
-patologia e clinica cardiovascolare II;   
-patologia e clinica cardiovascolare III.   
-l) Farmacologia e terapia cardiovascolare:   
-farmacologia e terapia cardiovascolare;   
-terapie intensive cardiologiche.   
-Art. 208. - L'attivita' didattica comprende ogni anno ottocento ore di didattica formale e di tirocinio professionale guidato. Essa e' organizzata in una attivita' didattica teorico-pratica comune per tutti gli studenti (quattrocento ore come di seguito ripartite) ed in una attivita' didattica elettiva, prevalentemente di carattere tecnico-applicativo di ulteriori quattrocento ore rivolta all'apprendimento del curriculum corrispondente ad uno dei settori formativo-professionali (monte ore elettivo).   
-La frequenza nelle diverse aree avviene pertanto come di seguito specificato:   
-  
-1° Anno:   
-Struttura e metabolismo del cuore e dei vasi (ore 50):   
-anatomia umana normale ed embriologia dell'apparato cardiovascolare.  
-. . . . . . . . . . . . . . . . . . . . . . . ore 20 biochimica e biofisica . . . . . . . . . . . . . . . . . . . . ore 30 Fisiologia dell'apparato cardiovascolare (ore 50):   
-Fisiologia dell'apparato cardiovascolare I . . . . . . . . . . ore 50 Fisiopatologia cardiorespiratoria (ore 100):   
-fisiopatologia cardiorespiratoria I . . . . . . . . . . . . . ore 100 Medicina interna generale (ore 100):   
-fondamenti di semeiotica medica. . . . . . . . . . . . . . . . ore 50 rapporti tra patologia di vari apparati e patologia cardiovascolare.  
-. . . . . . . . . . . . . . . . . . . . . . . ore 50 Semeiotica generale cardiovascolare (ore 50):   
-semeiotica del ricambio idrosalino . . . . . . . . . . . . . . ore 50 Informatica medica e strumentazione biomedica (ore 50):   
-informatica medica e strumentazione biomedica I. . . . . . . . ore 50 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
-  
-2° Anno:   
-Fisiologia dell'apparato cardiovascolare (ore 50):   
-Fisiologia dell'apparato cardiovascolare II. . . . . . . . . . ore 50 Fisiopatologia cardiorespiratoria (ore 50):   
-fisiopatologia cardiorespiratoria II . . . . . . . . . . . . . ore 50 Semeiotica generale cardiovascolare (ore 50):   
-semeiotica fisica cardiovascolare I. . . . . . . . . . . . . . ore 50 Informatica medica e strumentazione biomedica (ore 50):   
-informatica medica e strumentazione biomedica II . . . . . . . ore 50 Metodologie diagnostiche non invasive (ore 50):   
-indagini diagnostiche non invasive I . . . . . . . . . . . . . ore 50 Metodologie diagnostiche invasive e cardiochirurgia (ore 50):   
-indagini diagnostiche invasive I . . . . . . . . . . . . . . . ore 50 Patologia e clinica cardiovascolare (ore 50):   
-anatomia patologica I. . . . . . . . . . . . . . . . . . . . . ore 20 patologia e clinica cardiovascolare. . . . . . . . . . . . . . ore 30 Farmacologia e terapia cardiovascolare (ore 50):   
-farmacologia cardiovascolare . . . . . . . . . . . . . . . . . ore 50 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
-  
-3°Anno:   
-Semeiotica generale cardiovascolare (ore 50):   
-semeiotica fisica cardiovascolare II . . . . . . . . . . . . . ore 50 Metodologie diagnostiche non invasive (ore 100):   
-indagini diagnostiche non invasive II . . . . . . . . . . . . ore 100 Metodologie diagnostiche invasive e cardiochirurgia (ore 50):   
-indagini diagnostiche invasive II. . . . . . . . . . . . . . . ore 50 Patologia e clinica cardiovascolare (ore 100):   
-anatomia patologica II . . . . . . . . . . . . . . . . . . . . ore 20 patologia e clinica cardiovascolare II . . . . . . . . . . . . ore 80 Farmacologia e terapia cardiovascolare (ore 100):   
-farmacologia e terapia cardiovascolare. . . . . . . . . . . . ore 100 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
-  
-4°Anno:   
-Metodologie diagnostiche non invasive (ore 100):   
-indagini diagnostiche non invasive III. . . . . . . . . . . . ore 100 Metodologie diagnostiche invasive e cardiochirurgia (ore 100):   
-cardiochirurgia . . . . . . . . . . . . . . . . . . . . . . . ore 100 Patologia clinica cardiovascolare (ore 100):   
-patologia clinica cardiovascolare III . . . . . . . . . . . . ore 100 Farmacologia e terapia cardiovascolare (ore 100):   
-terapie intensive cardiologiche . . . . . . . . . . . . . . . ore 100 Monte ore elettivo elettivo . . . . . . . . . . . . . . . . . ore 400   
-  
-Art. 209. - Durante i quattro anni di corso e' richiesta la frequenza ai fini dell'apprendimento nei seguenti reparti, divisioni, ambulatori, laboratori:   
-sezione di clinica medica I del dipartimento di medicina interna e terapia medica dell'Universita' degli studi di Pavia;   
-divisione di cardiologia del policlinico S. Matteo istituto di ricovero e cura a carattere scientifico di diritto pubblico di Pavia;   
-centro di cardiologia pediatrica della clinica pediatrica dell'Universita' degli studi di Pavia;   
-divisione di cardiologia dell'ospedale di circolo di Varese;   
-divisione di cardiologia del centro medico di riabilitazione di Montescano della Fondazione clinica del lavoro di Pavia;   
-divisione di cardiologia del centro medico di Veruno della Fondazione clinica del lavoro di Pavia.   
-La frequenza nelle varie aree per complessive ottocento ore annue, compreso il monte ore elettivo di quattrocento ore annue, avverra' secondo delibera del consiglio della scuola, tale da assicurare ad ogni specializzando un adeguato periodo di esperienza e di formazione professionale. Il consiglio della scuola ripartira' annualmente il monte ore elettivo.   
-Il consiglio della scuola predispone apposito libretto di formazione, che consenta allo specializzando ed al consiglio stesso il controllo dell'attivita' svolta e dell'acquisizione dei progressi compiuti, per sostenere gli esami annuali e finali.   
-Art. 210. - Per tutto quanto non previsto dal presente statuto si fa riferimento alle norme generali delle scuole di specializzazione.   
-Scuola di specializzazione in malattie infettive   
-Art. 211. - E' istituita la scuola di specializzazione in malattie infettive presso l'Universita' degli studi di Pavia.   
-La scuola ha lo scopo di insegnare e di approfondire gli studi nel campo delle malattie infettive e di fornire le competenze professionali relative alle malattie infettive, alla epidemiologia, alla diagnostica di laboratorio in malattie infettive, alla medicina delle comunita', con le conseguenti possibilita' operative nel Servizio sanitario nazionale.   
-La scuola rilascia il titolo di specialista in malattie infettive.   
-Art. 212. - La scuola ha la durata di quattro anni.   
-Ciascun anno di corso prevede ottocento ore di insegnamento e di attivita' pratiche guidate.   
-In base alle strutture ed attrezzature disponibili, la scuola e' in grado di accettare il numero massimo di iscritti determinato in quindici per ciascun anno di corso, per un totale di sessanta specializzandi.   
-Art. 213. - Per l'attuazione delle attivita' didattiche programmate dal consiglio della scuola provvedono le facolta' di medicina e chirurgia e scienze matematiche, fisiche e naturali con il contributo dell'istituto di clinica delle malattie infettive dell'Universita' di Pavia - IRCCS S. Matteo, della divisione di malattie infettive dell'ospedale di circolo di Varese e dell'unita' operativa di malattie infettive del presidio ospedaliero USSL n. 8 "Busto Arsizio" e "Valle Olona".   
-Art. 214. - Sono ammessi alle prove per ottenere l'iscrizione i laureati in medicina e chirurgia.   
-Per l'iscrizione alla scuola e' richiesto il possesso del diploma di abilitazione all'esercizio della professione.   
-Art. 215. - La scuola comprende quattro aree di insegnamento e tirocinio professionale:   
-a) etiologia e patogenesi;   
-b) epidemiologia e prevenzione;   
-c) metodologie diagnostiche di laboratorio;   
-d) patologia e clinica delle malattie infettive.   
-Art. 216. - Gli insegnamenti relativi a ciascuna area didattica e formativa professionale sono i seguenti:   
-a) Etiologia e patogenesi   
-batteriologia medica;   
-virologia medica;   
-parassitologia e micologia medica;   
-immunologia delle malattie infettive.   
-b) Epidemiologia e prevenzione:   
-epidemiologia, statistica e informatica delle malattie infettive; medicina delle comunita';   
-legislazione sanitaria delle malattie infettive.   
-c) Metodologie diagnostiche di laboratorio:   
-tecniche batteriologiche;   
-tecniche virologiche;   
-tecniche parassitologiche e micologiche;   
-tecniche immunologiche.   
-d) Patologia e clinica delle malattie infettive:   
-clinica delle malattie infettive;   
-terapia delle malattie infettive;   
-malattie tropicali e subtropicali;   
-metodologia clinica delle malattie infettive.   
-Art. 217. - L'attivita' didattica comprende ogni anno ottocento ore di didattica formale e di tirocinio professionale guidato. Essa e' organizzata in una attivita' didattica teorico-pratica comune per tutti gli studenti (quattrocento ore come di seguito ripartite) ed in una attivita' didattica elettiva, prevalentemente di carattere tecnico-applicativo di ulteriori quattrocento ore rivolta all'apprendimento del curriculum corrispondente ad uno dei settori formativo-professionali (monte ore elettivo).   
-La frequenza nelle diverse aree avviene pertanto come di seguito specificato:   
-  
-1° Anno:   
-Etiologia e patogenesi (ore 150):   
-batteriologia medica . . . . . . . . . . . . . . . . . . . . . ore 50 virologia medica . . . . . . . . . . . . . . . . . . . . . . . ore 50 parassitologia e micologia medica. . . . . . . . . . . . . . . ore 50 Epidemiologia e prevenzione (ore 70):   
-epidemiologia, statistica ed informatica   
-delle malattie infettive . . . . . . . . . . . . . . . . . . . ore 70 Patologia e clinica delle malattie infettive (ore 180):   
-metodologia clinica delle malattie infettive. . . . . . . . . ore 180 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
-  
-2° Anno:   
-Etiologia e patogenesi (ore 50):   
-immunologia delle malattie infettive . . . . . . . . . . . . . ore 50 Metodologie diagnostiche di laboratorio (ore 200):   
-tecniche batteriologiche . . . . . . . . . . . . . . . . . . . ore 60 tecniche virologiche . . . . . . . . . . . . . . . . . . . . . ore 80 tecniche parassitologiche e micologiche. . . . . . . . . . . . ore 60 Patologia e clinica delle malattie infettive (ore 150):   
-malattie tropicali e subtropicali . . . . . . . . . . . . . . ore 150 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
-  
-3° Anno:   
-Epidemiologia e prevenzione (ore 60):   
-medicina delle comunita'. . . . . . . . . . . . . . . . . . . . ore 40 legislazione sanitaria delle malattie infettive. . . . . . . . ore 20 Metodologie diagnostiche di laboratorio (ore 80):   
-tecniche immunologiche . . . . . . . . . . . . . . . . . . . . ore 80 Patologia e clinica delle malattie infettive (ore 260):   
-clinica delle malattie infettive. . . . . . . . . . . . . . . ore 260 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
-  
-4° Anno:   
-Patologia e clinica delle malattie infettive (ore 400):   
-clinica delle malattie infettive. . . . . . . . . . . . . . . ore 300 terapia delle malattie infettive. . . . . . . . . . . . . . . ore 100 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
-  
-Art. 218. - Durante i quattro anni di corso e' richiesta la frequenza ai fini dell'apprendimento nei seguenti reparti/divisioni/ambulatori/laboratori:   
-quattro reparti di degenza e sezione di alto isolamento per complessivi settanta posti letto presso la clinica di malattie infettive di Pavia;   
-una sezione di malattie infettive per complessivi cinquanta posti letto presso l'ospedale di circolo di Varese;   
-una unita' operativa specialistica di malattie infettive per trenta posti letto presso USSL n. 8 "Busto Arsizio" e "Valle Olona"; strutture ambulatoriali policentriche - clinica malattie infettive O.S.M. IRCCS - Pavia;   
-servizi di radiologia ed ecotomografia - O.S.M. IRCCS - Pavia;   
-servizi di cardiologia ed elettroencefalografia - O.S.M. IRCCS - Pavia;   
-servizi ambulatoriali - ospedale di circolo di Varese;   
-servizi ambulatoriali - USSL n. 8 di Busto Arsizio e Valle Olona; servizi di diagnostica infettivologica speciali, articolati in laboratori presso la clinica di malattie infettive di Pavia.   
-servizi di batteriologia clinica con i laboratori di:   
-diagnostica dei batteri Gram-negativi e Gram-positivi.   
-servizi di virologia clinica con i laboratori di:   
-colture cellulari;   
-isolamento ed identificazione dei virus patogeni per l'uomo.   
-servizio di parassitologia clinica con i laboratori di:   
-protozoologia;   
-micologia;   
-elmintologia.   
-servizio di immunopatologia con i laboratori di:   
-immunochimica;   
-immunobiologia;   
-immunopotenziamento.   
-servizio di istopatologia infettivologica con i laboratori di:   
-istologia - istochimica;   
-microscopia elettronica;   
-infezioni sperimentali da protozoi "in vivo" e "in vitro";   
-colture "in vitro" e chemioterapia sperimentale antiprotozoaria.   
-servizio di endoscopia con i laboratori di:   
-laparoscopia - epatologia;   
-fibroendoscopia - gastroenterologia.   
-La frequenza nelle varie aree per complessive ottocento ore annue, compreso il monte ore elettivo di quattrocento ore annue, avverra' secondo delibera del consiglio della scuola, tale da assicurare ad ogni specializzando un adeguato periodo di esperienza e di formazione professionale. Il consiglio della scuola ripartira' annualmente il monte ore elettivo.   
-Il consiglio della scuola predispone apposito libretto di formazione, che consenta allo specializzando ed al consiglio stesso il controllo dell'attivita' svolta e dell'acquisizione dei progressi compiuti, per sostenere gli esami annuali e finali.   
-Art. 219. Norme transitorie. - A partire dall'anno accademico in cui avra' applicazione il presente statuto, si avra' annualmente l'attivazione progressiva della scuola secondo il nuovo ordinamento e, corrispondentemente, la disattivazione progressiva della scuola secondo il vecchio ordinamento.   
-Art. 220. - Per tutto quanto non previsto dal presente statuto si fa riferimento alle norme generali della scuola di specializzazione.   
-Scuola di specializzazione in odontostomatologia   
-Art. 221. - E' istituita la scuola di specializzazione in odontostomatologia presso l'Universita' degli studi di Pavia.   
-La scuola rilascia il titolo di specialista in odontostomatologia.   
-Art. 222. - La scuola ha la durata di tre anni.   
-Ciascun anno di corso prevede ottocento ore di insegnamento e di attivita' pratiche guidate.   
-In base alle strutture ed attrezzature disponibili, la scuola e' in grado di accettare il numero massimo di iscritti determinato in venticinque per ciascun anno di corso, per un totale di settantacinque specializzandi.   
-Art. 223. - Per l'attuazione delle attivita' didattiche programmate dal consiglio della scuola provvede la facolta' di medicina e chirurgia.   
-Contribuiscono al funzionamento della scuola le strutture della clinica odontoiatrica e quelle strutture ospedaliere che verranno eventualmente convenzionate.   
-Art. 225. - La scuola comprende quattro aree di insegnamento e tirocinio professionale:   
-a) area medica;   
-b) area chirurgica;   
-c) area stomatologica;   
-d) area specialistica odontoiatrica.   
-Art. 226. - Gli insegnamenti relativi a ciascuna area didattica e formativa professionale sono i seguenti:   
-a) Area medica:   
-farmacologia;   
-anestesiologia e rianimazione;   
-dermatologia;   
-medicina legale;   
-embriologia (dento-maxillo-facciale).   
-b) Area chirurgica:   
-chirurgia odontostomatologica e tecniche di anestesia locale; clinica chirurgica maxillo-facciale e tecniche operative.   
-c) Area stomatologica:   
-odontostomatologia preventiva;   
-patologia oro-maxillo-facciale;   
-radiologia odontostomatologica;   
-parodontologia;   
-clinica odontostomatologica.   
-d) Area specialistica odontoiatrica:   
-materiali dentali;   
-odontotecnica;   
-odontoiatria infantile;   
-endodonzia;   
-clinica protesica;   
-ortognatodonzia;   
-odontoiatria conservativa.   
-Art. 227. - L'attivita' didattica comprende ogni anno ottocento ore di didattica formale e di tirocinio professionale guidato. Essa e' organizzata in una attivita' didattica teorico-pratica comune per tutti gli studenti (quattrocento ore come di seguito ripartite) ed in una attivita' didattica elettiva, prevalentemente di carattere tecnico-applicativo di ulteriori quattrocento ore rivolte all'apprendimento del curriculum corrispondente ad uno dei settori formativo-professionali (monte ore elettivo).   
-La frequenza nelle diverse aree avviene pertanto come di seguito specificato:   
-  
-1° Anno:   
-Area medica (ore 70):   
-farmacologia . . . . . . . . . . . . . . . . . . . . . . . . . ore 20 anestesiologia e rianimazione. . . . . . . . . . . . . . . . . ore 20 dermatologia . . . . . . . . . . . . . . . . . . . . . . . . . ore 10 embriologia. . . . . . . . . . . . . . . . . . . . . . . . . . ore 20 Area chirurgica (ore 50):   
-chirurgia odontostomatologica e tecniche di anestesia locale . ore 50 Area stomatologica (ore 80):   
-patologia oro-maxillo-facciale . . . . . . . . . . . . . . . . ore 50 clinica odontostomatologia . . . . . . . . . . . . . . . . . . ore 30 Area specialistica odontoiatrica (ore 200):   
-materiali dentali. . . . . . . . . . . . . . . . . . . . . . . ore 50 odontotecnica. . . . . . . . . . . . . . . . . . . . . . . . . ore 50 odontoiatria conservativa . . . . . . . . . . . . . . . . . . ore 100 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
-  
-2° Anno:   
-Area chirurgica (ore 50):   
-chirurgia odontostomatologica e tecniche di anestesia locale . ore 50 Area stomatologica (ore 100):   
-odontostomatologia preventiva. . . . . . . . . . . . . . . . . ore 20 radiologia odontostomatologica . . . . . . . . . . . . . . . . ore 30 paradontologia . . . . . . . . . . . . . . . . . . . . . . . . ore 50 Area specialistica odontoiatrica (ore 250):   
-odontoiatrica infantile. . . . . . . . . . . . . . . . . . . . ore 50 clinica protesica. . . . . . . . . . . . . . . . . . . . . . . ore 70 ortognatodonzia. . . . . . . . . . . . . . . . . . . . . . . . ore 50 odontoiatria conservativa. . . . . . . . . . . . . . . . . . . ore 80 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
-  
-3° Anno:   
-Area medica (ore 20):   
-medicina legale. . . . . . . . . . . . . . . . . . . . . . . . ore 20 Area chirurgica (ore 30):   
-clinica chirurgica maxillo-facciale e tecniche operative . . . ore 30 Area stomatologica (ore 100):   
-paradontologia . . . . . . . . . . . . . . . . . . . . . . . . ore 30 clinica odontostomatologica. . . . . . . . . . . . . . . . . . ore 70 Area specialistica odontoiatrica (ore 250):   
-endodonzia . . . . . . . . . . . . . . . . . . . . . . . . . . ore 50 clinica protesica . . . . . . . . . . . . . . . . . . . . . . ore 100 ortognatodonzia . . . . . . . . . . . . . . . . . . . . . . . ore 100 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
-  
-Art. 228. - Durante i tre anni di corso e' richiesta la frequenza nei seguenti reparti:   
-odontoiatria conservativa;   
-odontoiatria infantile;   
-endodonzia;   
-protesi;   
-ortognatodonzia;   
-paradontologia;   
-chirurgia orale;   
-estrazioni;   
-degenza;   
-radiologia odontostomatologica.   
-La frequenza nelle varie aree per complessive ottocento ore annue, compreso il monte ore elettivo di quattrocento ore annue, avverra' secondo delibera del consiglio della scuola, tale da assicurare ad ogni specializzazione un adeguato periodo di esperienza e di formazione scientifica.   
-Il consiglio della scuola predispone apposito libretto di formazione che consenta allo specializzando ed al consiglio stesso il controllo dell'attivita' svolta e dell'acquisizione dei progressi compiuti.   
-Art. 229. - Per tutto quanto non previsto dal presente statuto si fa riferimento alle norme generali delle scuole di specializzazione.   
-Scuola di specializzazione in otorinolaringoiatria   
-Art. 230. - E' istituita la scuola di specializzazione in otorinolaringoiatria presso l'Universita' degli studi di Pavia.   
-La scuola ha lo scopo di insegnare e approfondire gli studi nel campo della otorinolaringoiatria e di fornire le competenze professionali necessarie per il conseguimento del diploma che legittima l'assunzione della qualifica di specialista in otorinolaringoiatria.   
-La scuola rilascia il titolo di specialista in otorinolaringoiatria.   
-Art. 231. - La scuola ha la durata di quattro anni.   
-Ciascun anno di corso prevede ottocento ore di insegnamento e di attivita' pratiche guidate.   
-In base alle strutture ed attrezzature disponibili, la scuola e' in grado di accettare il numero massimo di iscritti determinato in cinque per ciascun anno di corso, per un totale di venti specializzandi.   
-Art. 232. - Per l'attuazione delle attivita' didattiche programmate dal consiglio della scuola provvede la facolta' di medicina e chirurgia mediante la clinica otorinolaringoiatrica dell'I.R.C.C.S. ospedale S. Matteo.   
-Art. 233. - Sono ammessi alle prove per ottenere l'iscrizione i laureati in medicina e chirurgia.   
-Per l'iscrizione alla scuola e' richiesto il possesso del diploma di abilitazione all'esercizio della professione.   
-Art. 234. - La scuola comprende sette aree di insegnamento e tirocinio professionale:   
-a) area delle scienze basiche fisiche;   
-b) area delle scienze basiche biologiche;   
-c) area clinica;   
-d) area diagnostica;   
-e) area terapeutica;   
-f) area delle scienze correlate;   
-g) area medico-legale e sociale.   
-Art. 235. - Gli insegnamenti relativi a ciascuna area didattica e formativa professionale sono i seguenti:   
-a) Area delle scienze basiche fisiche:   
-informatica medica e strumentazione biomedica.   
-b) Area delle scienze basiche biologiche:   
-anatomia, istologia ed embriologia;   
-fisiologia.   
-c) Area clinica:   
-patologia ORL e cervico-facciale;   
-patologia e clinica ORL e cervico-facciale;   
-ORL pediatrica;   
-audiologia;   
-foniatria.   
-d) Area diagnostica:   
-semeiotica ORL;   
-anatomia e istologia patologica;   
-patologia clinica;   
-otoneurologia;   
-audiometria.   
-e) Area terapeutica:   
-terapia medica;   
-tecniche operatorie otologiche;   
-tecniche operatorie faringolaringee e cervicali;   
-tecniche operatorie ORL maxillo-facciali;   
-chirurgia plastica;   
-tracheobroncoscopia;   
-anestesiologia.   
-f) Area delle scienze correlate:   
-neuropatologia;   
-oculistica;   
-radiologia;   
-pediatria.   
-g) Area legale e sociale:   
-medicina legale e infortunistica;   
-ORL preventiva e sociale.   
-Art. 236. - L'attivita' didattica comprende ogni anno ottocento ore di didattica formale e di tirocinio professionale guidato. Essa e' organizzata in una attivita' didattica teorico-pratica comune per tutti gli studenti (quattrocento ore come di seguito ripartite) ed in una attivita' didattica elettiva, prevalentemente di carattere tecnico-applicativo di ulteriori quattrocento ore rivolta all'apprendimento del curriculum corrispondente ad uno dei settori formativo-professionali (monte ore elettivo).   
-La frequenza nelle diverse aree avviene pertanto come di seguito specificato:   
-  
-1° Anno:   
-Scienze basiche fisiche (ore 50):   
-informatica medica e strumentazione biomedica. . . . . . . . . ore 50 Scienze basiche biologiche (ore 50):   
-anatomia, istologia ed embriologia . . . . . . . . . . . . . . ore 30   
-fisiologia . . . . . . . . . . . . . . . . . . . . . . . . . . ore 20   
-Clinica (ore 100):   
-patologia ORL e cervico-facciale. . . . . . . . . . . . . . . ore 100 Diagnostica (ore 200):   
-semeiotica ORL. . . . . . . . . . . . . . . . . . . . . . . . ore 175 anatomia e istologia patologica. . . . . . . . . . . . . . . . ore 25 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
-  
-2° Anno:   
-Clinica (ore 200):   
-patologia e clinica ORL e cervico-facciale. . . . . . . . . . ore 200 Diagnostica (ore 100):   
-otoneurologia. . . . . . . . . . . . . . . . . . . . . . . . . ore 30 patologia clinica. . . . . . . . . . . . . . . . . . . . . . . ore 30 audiometria. . . . . . . . . . . . . . . . . . . . . . . . . . ore 40 Terapeutica (ore 100):   
-tracheobroncoscopia. . . . . . . . . . . . . . . . . . . . . . ore 50 anestesiologica. . . . . . . . . . . . . . . . . . . . . . . . ore 50 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 Clinica (ore 200):   
-patologia e clinica ORL e cervico-facciale. . . . . . . . . . ore 100 audiologia . . . . . . . . . . . . . . . . . . . . . . . . . . ore 50 foniatria. . . . . . . . . . . . . . . . . . . . . . . . . . . ore 25 ORL pediatrica . . . . . . . . . . . . . . . . . . . . . . . . ore 25 Terapeutica (ore 150):   
-tecniche operatorie faringolaringee e cervicali . . . . . . . ore 100 terapia medica . . . . . . . . . . . . . . . . . . . . . . . . ore 50 Scienze correlate (ore 50):   
-oculistica . . . . . . . . . . . . . . . . . . . . . . . . . . ore 20 radiologia . . . . . . . . . . . . . . . . . . . . . . . . . . ore 30 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
-  
-4° Anno:   
-Terapeutica (ore 350):   
-tecniche operatorie otologiche. . . . . . . . . . . . . . . . ore 175 tecniche operatorie ORL maxillo-facciali. . . . . . . . . . . ore 150 chirurgia plastica . . . . . . . . . . . . . . . . . . . . . . ore 25 cienze correlate (ore 25):   
-neuropatologia . . . . . . . . . . . . . . . . . . . . . . . . ore 15 pediatria. . . . . . . . . . . . . . . . . . . . . . . . . . . ore 10 Medico-legale e sociale (ore 25):   
-medicina legale e infortunistica . . . . . . . . . . . . . . . ore 10 ORL preventiva e sociale . . . . . . . . . . . . . . . . . . . ore 15 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
-  
-Art. 237. - Durante i quattro anni di corso e' richiesta la frequenza nei reparti di degenza e nei servizi specialistici di diagnosi e cura seguenti: clinica otorinolaringoiatrica dell'Universita' di Pavia.   
-La frequenza nelle varie ore per complessive ottocento ore annue, compreso il monte ore elettivo di quattrocento ore annue, avverra' secondo delibera del consiglio della scuola, tale da assicurare ad ogni specializzando un adeguato periodo di esperienza e di formazione professionale.   
-Il consiglio della scuola ripartira' annualmente il monte ore elettivo.   
-Il consiglio della scuola predispone apposito libretto di formazione, che consenta allo specializzando ed al consiglio stesso il controllo dell'attivita' svolta e dell'acquisizione dei progressi compiuti.   
-Art. 238. Norme transitorie. - A partire dall'anno accademico in cui avra' applicazione il presente statuto, si avra' annualmente l'attivazione della scuola secondo il nuovo ordinamento e, corrispondentemente, la disattivazione progressiva della scuola secondo il vecchio ordinamento.   
-Art. 239. - Per tutto quanto non previsto dal presente statuto si fa riferimento alle norme generali delle scuole di specializzazione.   
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+L'art. 91, relativo al biennio di studi per il conseguimento della laurea in ingegneria, e' modificato nel senso che e' aggiunto il seguente ultimo comma:   
+"Gli insegnamenti segnati con un asterisco sono obbligatori sul piano nazionale".   
+Gli articoli 92, 93, 94, relativi ai vari corsi di laurea della facolta' di ingegneria, sono abrogati e sostituiti dai seguenti con lo spostamento della numerazione degli articoli successivi.   
+Art. 92. - Per il corso di laurea in ingegneria elettrotecnica sono insegnamenti del triennio:   
+a) Obbligatori su piano nazionale:   
+1) fisica tecnica;   
+2) idraulica;   
+3) scienza delle costruzioni;   
+4) meccanica applicata alle macchine;   
+5) macchine elettriche;   
+6) impianti elettrici I;   
+7) misure elettriche;   
+8) elettronica applicata;   
+9) macchine.   
+b) Obbligatori sul piano della facolta':   
+10) controlli automatici;   
+11) costruzione di macchine elettriche;   
+12) elettrotecnica industriale.   
+c) Un gruppo di materie a scelta tra quelle elencate nell'art. 95 e negli articoli 93 e 94.   
+Art. 93. - Per il corso di laurea in ingegneria elettronica sono insegnamenti del triennio:   
+a) Obbligatori su piano nazionale:   
+1) scienza delle costruzioni;   
+2) meccanica delle macchine e macchine;   
+3) campi elettromagnetici e circuiti;   
+4) elettronica applicata;   
+5) misure elettriche;   
+6) comunicazioni elettriche;   
+7) radiotecnica;   
+8) controlli automatici.   
+b) Obbligatori sul piano della facolta':   
+9) complementi di fisica;   
+10) metodi matematici per l'ingegneria;   
+11) teoria dei sistemi;   
+12) calcolatori elettronici.   
+c) Un gruppo di materie a scelta tra quelle elencate nell'art. 95 e negli articoli 92 e 94.   
+Art. 94. - Per il corso di laurea in ingegneria civile sono insegnamenti del triennio:   
+a) Obbligatori su piano nazionale:   
+1) scienza delle costruzioni;   
+2) meccanica applicata alle macchine e macchine;   
+3) fisica tecnica;   
+4) idraulica;   
+5) tecnologia dei materiali e chimica applicata;   
+6) tecnica delle costruzioni;   
+7) architettura tecnica;   
+8) topografia;   
+per idraulica:   
+9) costruzioni idrauliche;   
+per trasporti:   
+9) costruzioni di strade, ferrovie ed aeroporti.   
+b) Obbligatori sul piano della facolta':   
+per idraulici:   
+10) geologia applicata;   
+11) ingegneria sanitaria;   
+12) idraulica II;   
+per trasporti:   
+10) geologia applicata;   
+11) costruzione di ponti e grandi strutture;   
+12) tecnica ed economia dei trasporti.   
+c) Un gruppo di materie a scelta tra quelle elencate nell'art. 95 e negli articoli 92 e 93.   
+Art. 95. - Sono insegnamenti complementari ai sensi dell'[art. 1 del decreto del Presidente della Repubblica 27 settembre 1970, n. 827](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-09-27;827~art1), i seguenti:   
+1) acquedotti e fognature;   
+2) affidabilita' e controllo statistico della qualita' (semestrale);   
+3) analisi dei sistemi I;   
+4) analisi dei sistemi II;   
+5) antenne e propagazione;   
+6) bonifica ed irrigazione;   
+7) calcolo numerico e programmazione;   
+8) centrali elettriche;   
+9) chimica applicata;   
+10) chimica e biologia sanitaria;   
+11) chimica fisica;   
+12) collaudo e controllo delle strutture;   
+13) complementi di architettura tecnica;   
+14) complementi di geotecnica;   
+15) complementi di ingegneria sanitaria;   
+16) complementi di misure elettriche;   
+17) complementi di programmazione;   
+18) complementi di scienza delle costruzioni;   
+19) controllo dei processi;   
+20) costruzione di apparecchi elettrici;   
+21) costruzione di macchine;   
+22) costruzioni marittime;   
+23) costruzioni metalliche;   
+24) dinamica delle strutture;   
+25) diritto del lavoro (semestrale);   
+26) dispositivi elettronici;   
+27) ecologia (semestrale);   
+28) economia applicata all'ingegneria;   
+29) elettronica biologica;   
+30) elettronica industriale I;   
+31) elettronica industriale II;   
+32) elettronica numerica;   
+33) elettronica di potenza;   
+34) elettronica quantistica;   
+35) ergonomia (semestrale);   
+36) ergotecnica;   
+37) estimo (semestrale);   
+38) fenomeni aleatori e rumore;   
+39) fisica dei semiconduttori;   
+40) fisiopatologia del lavoro (semestrale);   
+41) fotogrammetria;   
+42) geotecnica;   
+43) geotecnica applicata alla difesa del suolo (semestrale);   
+44) gestione aziendale;   
+45) idrogeologia (semestrale);   
+46) idrologia tecnica;   
+47) igiene applicata all'ingegneria (semestrale);   
+48) impianti elettrici II;   
+49) impianti per l'elaborazione delle informazioni;   
+50) impianti speciali idraulici;   
+51) impianti tecnici per l'edilizia;   
+52) impianti termoelettrici e di potenza;   
+53) informatica industriale;   
+54) infrastrutture idrauliche;   
+55) inquinamento atmosferico (semestrale);   
+56) istituzioni di scienze sociali ed economiche (semestrale);   
+57) tecnica delle alte frequenze;   
+58) progetti di componenti e circuiti integrati;   
+59) costruzioni elettroniche;   
+60) macchine elettriche speciali;   
+61) macchine fluidodinamiche;   
+62) complementi di matematica;   
+63) macchine ed organizzazione dei cantieri;   
+64) materie giuridiche e legislazione dei lavori pubblici;   
+65) materiali e tecnologie elettroniche;   
+66) meccanica dei fluidi;   
+67) meccanica delle rocce;   
+68) medicina del lavoro applicata all'ingegneria (semestrale);   
+69) meteorologia e fisica dell'atmosfera (semestrale);   
+70) metodi probabilistici, statistici e processi stocastici;   
+71) microonde;   
+72) misure elettroniche;   
+73) modelli matematici I;   
+74) modelli matematici II;   
+75) modelli per sistemi idrici (semestrale);   
+76) organizzazione aziendale (semestrale);   
+77) pianificazione delle risorse idriche;   
+78) pianificazione della produzione (semestrale);   
+79) pianificazione territoriale;   
+80) progetti di strutture;   
+81) programmazione dei calcolatori elettronici;   
+82) radiochimica;   
+83) ricerca operativa;   
+84) rifiuti solidi (semestrale);   
+85) scienza dei materiali;   
+86) sistemi di comunicazioni elettriche;   
+87) sistemi elettroottici;   
+88) sistemi per l'elaborazione dell'informazione;   
+89) sistemi di regolazione;   
+90) sistemi di trasporto;   
+91) strumentazione biomedica;   
+92) strumentazione elettronica;   
+93) tecnica delle alte tensioni;   
+94) tecnica del traffico;   
+95) tecnica delle costruzioni II;   
+96) tecnica ed economia dei trasporti II;   
+97) tecnologia delle acque di approvvigionamento e di rifiuto I;   
+98) tecnologia delle acque di approvvigionamento e di rifiuto II;  
+99) teoria dell'informazione;   
+100) teoria delle reti elettriche;   
+101) trazione elettrica;   
+102) unificazione dell'edilizia e prefabbricazione;   
+103) tecnica urbanistica I;   
+104) tecnica urbanistica II.   
+Dall'elenco delle materie complementari la facolta' trarra', per i singoli corsi di laurea, le materie da attivare che indichera' anno per anno nel manifesto degli studi. In tale manifesto pero' le materie non figureranno isolate ma raggruppate a costituire indirizzi di specializzazione relativi a ciascun corso di laurea. Per ciascun indirizzo saranno prescritti sei corsi annuali (o equivalenti).   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 luglio 1986
+### Dato a Roma, addi' 26 maggio 1975
 
-COSSIGA
+LEONE MALFATTI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: REALE
 
-Visto, il Guardasigilli: ROGNONI
+Registrato alla Corte dei conti, addi' 25 ottobre 1975
 
-Registrato alla Corte dei conti, addi' 17 novembre 1986
-
-Registro n. 84 Istruzione, foglio n. 107
+Atti di Governo, registro n. 13, foglio n. 37

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 1006
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 settembre 1965 n. 1224
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 1006
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 settembre 1965 n. 1224
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
@@ -10,17 +10,19 @@ Modificazioni allo statuto dell'Universita' degli studi di Messina.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923), e modificato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090) e modificato con [regio decreto 20 ottobre 1940, n. 1963](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-20;1963) e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -30,158 +32,110 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Dopo l'art. 194, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione, in malattie dell'apparato digerente.
+Art. 13. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di:
 
-Scuola di specializzazione in malattie dell'apparato digerente
+11) Introduzione alle scienze giuridiche.
 
-Art. 195. - La scuola di specializzazione in malattie dell'apparato digerente conferisce il diploma di specialista in malattie dell'apparato digerente e ha sede presso l'istituto di patologia speciale medica e metodologia clinica.
+Art. 21. - Agli insegnamenti complementari del corso di laurea in Economia e commercio sono aggiunti quelli di:
 
-Art. 196. - La scuola ha la durata di 4 anni di cui uno dedicato al tirocinio pratico. Abbreviazioni del corso potranno essere concesse a giudizio insindacabile del consiglio della scuola, soltanto a coloro che diano dimostrazione documentata di avere preparazione, servizio ed attivita' scientifica nel campo specifico di riconosciuto merito e svolti in ambienti qualificati. In ogni caso l'abbreviazione del corso deve essere dettagliatamente motivata dal consiglio della scuola.
+15) Tecnica commerciale dei prodotti agricoli;
 
-Art. 197. - Il corso comprende i seguenti insegnamenti:
+16) Economia aziendale;
 
-1° Anno:
+17) Sociologia;
 
-anatomia patologica;
+18) Diritto privato comparato;
 
-fisiopatologia;
+19) Econometria;
 
-chimica clinica;
+20) Economia del credito;
 
-semeiotica fisica e strumentale (1° anno);
+21) Storia delle dottrine economiche.
 
-clinica medica (1° anno).
+Art. 29. - Agli insegnamenti complementari del corso di laurea in Filosofia e' aggiunto quello di:
 
-2° Anno:
+13) Storia della filosofia moderna e contemporanea.
 
-semeiotica fisica e strumentale (2° anno);
+Art. 52. - Il terz'ultimo comma relativo al corso di laurea in Matematica e' abrogato e sostituito dal seguente:
 
-semeiotica radiologica;
+"L'insegnamento fondamentale per l'indirizzo didattico di Matematiche complementari I e II comporta due esami distinti al termine di ogni singolo corso".
 
-malattie del tubo digerente;
+Art. 54. - Dopo l'elenco degli insegnamenti complementari del corso di laurea in Chimica viene aggiunto il seguente comma:
 
-clinica medica (2° anno).
+"Gli insegnamenti fondamentali di " Chimica generale I e II ", " Istituzioni di matematiche I e II", " Chimica organica I e II ", " Esercitazioni di chimica fisica I e II ", "Chimica fisica I e II " comportano rispettivamente due esami distinti al termine di ogni singolo corso".
 
-3° Anno:
+Art. 55. - Dopo l'elenco degli insegnamenti complementari del corso di laurea in Scienze naturali viene aggiunto il seguente comma:
 
-malattie del fegato e del pancreas;
+"Gli insegnamenti fondamentali di " Botanica I e II ", " Zoologia I e II ", " Fisiologia generale I e II" comportano rispettivamente due esami distinti al termine di ogni singolo corso".
 
-clinica medica (3° anno).
+Art. 56. - Dopo l'elenco degli insegnamenti complementari del corso di laurea in Scienze biologiche viene aggiunto il seguente comma:
 
-4° Anno:
-
-tirocinio pratico da svolgersi in qualificate cliniche universitarie o reparti ospedalieri.
-
-A queste materie fondamentali obbligatorie potranno essere aggiunte le seguenti sei materie complementari con corsi semestrali:
-
-parassitologia (1° anno);
-
-psicopatologia (1° anno);
-
-dietetica (2° anno);
-
-chirurgia dell'apparato digerente (2° anno);
-
-immunologia (3° anno);
-
-farmacologia (3° anno).
-
-Art. 198. - L'iscrizione alla scuola avviene per titoli.
-
-Nel caso che le domande superino il numero dei posti disponibili, l'ammissione avverra' per titoli ed esami. Sono ammessi i laureati in medicina e chirurgia.
-
-Art. 199. - Sono disponibili otto posti per ciascun anno di corso.
-
-Gli iscritti alla scuola hanno obbligo di frequentare le lezioni, le corsie ed i laboratori nonche' di prestare servizio, se richiesti, nell'istituto come medici interni con funzioni assistenziali.
-
-Gli allievi che non dimostrino di aver ottemperato alla richiesta frequenza, non saranno ammessi a sostenere le prove di esami.
-
-Art. 200. - Alla fine di ogni anno di corso gli iscritti sono tenuti a superare tutti gli esami relativi ai singoli insegnamenti fondamentali e complementari di ciascun anno per il passaggio all'anno successivo.
-
-Gli esami biennali e triennali saranno sostenuti rispettivamente alla fine del biennio ed alla fine del triennio.
-
-Art. 201. - Al termine del corso di studi per il conseguimento del diploma, gli iscritti che abbiano superato tutti gli esami, dovranno sostenere una dissertazione scritta su un argomento di carattere gastroenterologico.
+"L'insegnamento fondamentale di " Fisiologia generale I e II " comporta due esami distinti al termine di ogni singolo corso".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 31 ottobre 1975
+Dato a Roma, addi' 28 settembre 1965
 
-LEONE
+SARAGAT
 
-MALFATTI
+GUI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 5 giugno 1976 Atti di Governo, registro n. 6, foglio n. 54
+alla Corte dei conti, addi' 2 novembre 1965 Atti del Governo, registro n. 198, foglio n. 6. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923), e modificato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090) e modificato con [regio decreto 20 ottobre 1940, n. 1963](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-20;1963) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Dopo l'art. 194, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione, in malattie dell'apparato digerente.  
-Scuola di specializzazione in malattie dell'apparato digerente  
-Art. 195. - La scuola di specializzazione in malattie dell'apparato digerente conferisce il diploma di specialista in malattie dell'apparato digerente e ha sede presso l'istituto di patologia speciale medica e metodologia clinica.  
-Art. 196. - La scuola ha la durata di 4 anni di cui uno dedicato al tirocinio pratico. Abbreviazioni del corso potranno essere concesse a giudizio insindacabile del consiglio della scuola, soltanto a coloro che diano dimostrazione documentata di avere preparazione, servizio ed attivita' scientifica nel campo specifico di riconosciuto merito e svolti in ambienti qualificati. In ogni caso l'abbreviazione del corso deve essere dettagliatamente motivata dal consiglio della scuola.  
-Art. 197. - Il corso comprende i seguenti insegnamenti:  
-1° Anno:  
-anatomia patologica;  
-fisiopatologia;  
-chimica clinica;  
-semeiotica fisica e strumentale (1° anno);  
-clinica medica (1° anno).  
-2° Anno:  
-semeiotica fisica e strumentale (2° anno);  
-semeiotica radiologica;  
-malattie del tubo digerente;  
-clinica medica (2° anno).  
-3° Anno:  
-malattie del fegato e del pancreas;  
-clinica medica (3° anno).  
-4° Anno:  
-tirocinio pratico da svolgersi in qualificate cliniche universitarie o reparti ospedalieri.  
-A queste materie fondamentali obbligatorie potranno essere aggiunte le seguenti sei materie complementari con corsi semestrali:  
-parassitologia (1° anno);  
-psicopatologia (1° anno);  
-dietetica (2° anno);  
-chirurgia dell'apparato digerente (2° anno);  
-immunologia (3° anno);  
-farmacologia (3° anno).  
-Art. 198. - L'iscrizione alla scuola avviene per titoli.  
-Nel caso che le domande superino il numero dei posti disponibili, l'ammissione avverra' per titoli ed esami. Sono ammessi i laureati in medicina e chirurgia.  
-Art. 199. - Sono disponibili otto posti per ciascun anno di corso.  
-Gli iscritti alla scuola hanno obbligo di frequentare le lezioni, le corsie ed i laboratori nonche' di prestare servizio, se richiesti, nell'istituto come medici interni con funzioni assistenziali.  
-Gli allievi che non dimostrino di aver ottemperato alla richiesta frequenza, non saranno ammessi a sostenere le prove di esami.  
-Art. 200. - Alla fine di ogni anno di corso gli iscritti sono tenuti a superare tutti gli esami relativi ai singoli insegnamenti fondamentali e complementari di ciascun anno per il passaggio all'anno successivo.  
-Gli esami biennali e triennali saranno sostenuti rispettivamente alla fine del biennio ed alla fine del triennio.  
-Art. 201. - Al termine del corso di studi per il conseguimento del diploma, gli iscritti che abbiano superato tutti gli esami, dovranno sostenere una dissertazione scritta su un argomento di carattere gastroenterologico.  
+Art. 13. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di:  
+11) Introduzione alle scienze giuridiche.  
+Art. 21. - Agli insegnamenti complementari del corso di laurea in Economia e commercio sono aggiunti quelli di:  
+15) Tecnica commerciale dei prodotti agricoli;  
+16) Economia aziendale;  
+17) Sociologia;  
+18) Diritto privato comparato;  
+19) Econometria;  
+20) Economia del credito;  
+21) Storia delle dottrine economiche.  
+Art. 29. - Agli insegnamenti complementari del corso di laurea in Filosofia e' aggiunto quello di:  
+13) Storia della filosofia moderna e contemporanea.  
+Art. 52. - Il terz'ultimo comma relativo al corso di laurea in Matematica e' abrogato e sostituito dal seguente:  
+"L'insegnamento fondamentale per l'indirizzo didattico di Matematiche complementari I e II comporta due esami distinti al termine di ogni singolo corso".  
+Art. 54. - Dopo l'elenco degli insegnamenti complementari del corso di laurea in Chimica viene aggiunto il seguente comma:  
+"Gli insegnamenti fondamentali di " Chimica generale I e II ", " Istituzioni di matematiche I e II", " Chimica organica I e II ", " Esercitazioni di chimica fisica I e II ", "Chimica fisica I e II " comportano rispettivamente due esami distinti al termine di ogni singolo corso".  
+Art. 55. - Dopo l'elenco degli insegnamenti complementari del corso di laurea in Scienze naturali viene aggiunto il seguente comma:  
+"Gli insegnamenti fondamentali di " Botanica I e II ", " Zoologia I e II ", " Fisiologia generale I e II" comportano rispettivamente due esami distinti al termine di ogni singolo corso".  
+Art. 56. - Dopo l'elenco degli insegnamenti complementari del corso di laurea in Scienze biologiche viene aggiunto il seguente comma:  
+"L'insegnamento fondamentale di " Fisiologia generale I e II " comporta due esami distinti al termine di ogni singolo corso".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1975
+### Dato a Roma, addi' 28 settembre 1965
 
-LEONE MALFATTI
+SARAGAT GUI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 5 giugno 1976
+Registrato alla Corte dei conti, addi' 2 novembre 1965
 
-Atti di Governo, registro n. 6, foglio n. 54
+Atti del Governo, registro n. 198, foglio n. 6. - VILLA

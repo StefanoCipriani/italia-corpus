@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1982 n. 80
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1982 n. 93
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1982 n. 80
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1982 n. 93
 =============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare una eredita'.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-80. Decreto del Presidente della Repubblica 29 gennaio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare, con beneficio d'inventario, l'eredita', gravata di un legato di L. 200.000 a favore della chiesa di S. Abbondio di Cremona per S. messe, consistente in appartamento sito in Cremona, via Trieste, 132, censito al nuovo catasto edilizio urbano alla partita 1300, foglio 81, mappale 201, sub 8, del valore di L. 35.480.000, disposta dalla sig.na Irene Giuseppa Barbieri con testamento olografo 30 giugno 1976, pubblicato in data 3 aprile 1979, n. 17980 di repertorio, a rogito dott. Virgilio Rizzi, notaio in Cremona, registrato a Cremona in data 12 aprile 1979, al n. 1003.  
+93. Decreto del Presidente della Repubblica 29 gennaio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in beni mobili (monete d'oro e argento, preziosi vari) e in un conto corrente presso il Banco lariano, in Como, per un importo complessivo di L. 45.032.431, disposta dalla sig.na Astesani Aurelia con testamento olografo 2 novembre 1960, pubblicato in data 16 novembre 1972, n. 15737 di repertorio e n. 723 di raccolta, a rogito dott. Salvatore Pascali, notaio in Como, registrato a Como in data 25 novembre 1972 al n. 5664.  
   
 Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 10 marzo 1982  
-Registro n. 2 Presidenza, foglio n. 356
+Registrato alla Corte dei conti, addi' 18 marzo 1982  
+Registro n. 3 Presidenza, foglio n. 15

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 agosto 1964 n. 1040
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1972 n. 835
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 agosto 1964 n. 1040
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1972 n. 835
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,9 +18,7 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -32,128 +30,103 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 20. - All'elenco degli Istituti annessi alla Facolta' di economia e commercio sono aggiunti quelli di:
+Art. 152. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola in malattie dell'apparato cardiovascolare, di nuova istituzione.
 
-"Istituto di diritto privato; Istituto di scienze demografiche".
+Dopo l'art. 189 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in "Malattie dell'apparato cardiovascolare".
 
-Art. 23. - Agli insegnamenti complementari del corso di laurea in lettere sono aggiunti quelli di:
+Scuola di specializzazione in malattie dell'apparato cardiovascolare
 
-36) Topografia dell'Italia antica;
+Art. 190. - Titolo di iscrizione: laurea in medicina e chirurgia.
 
-37) Storia della Chiesa;
+Numero massimo di iscritti: Otto per ogni anno di corso (totale ventiquattro).
 
-38) Archeologia dell'Africa romana e antichita' provinciali;
+Frequenza: obbligatoria per l'intero anno accademico.
 
-39) Filologia umanistica;
+Vacanze: conformi al calendario universitario con un solo mese completo estivo (agosto).
 
-40) Geografia economica;
+Esami: gli esami di profitto, teorici e pratici, saranno sostenuti alla fine di ogni anno in un'unica sessione (ottobre).
 
-41) Paleografia greca;
+Alla fine del 3° anno, dopo avere superato tutti gli esami di profitto, gli allievi saranno ammessi a sostenere gli esami di diploma, consistenti nella discussione di una dissertazione scritta su un argomento di patologia o di fisiopatologia o clinica cardiologica, la cui scelta sia stata concordata fra diplomando e direttore della scuola durante il 2° anno. La dissertazione, previamente approvata dal direttore, dovra' essere depositata presso la segreteria almeno quindici giorni prima dell'esame.
 
-42) Teoria del restauro;
+I candidati non riconosciuti idonei all'esame di diploma potranno ripresentarsi dopo un altro anno di frequenza alla scuola. Ma se al 2°, esame non sia loro riconosciuta l'idoneita', saranno senz'altro esclusi ulteriori prove.
 
-43) Sociologia.
-
-Art. 24. - Agli insegnamenti complementari del corso di laurea in Filosofia e' aggiunto quello di: "Filosofia della scienza".
-
-Dopo l'art. 30 e con il conseguente spostamento della numerazione successiva e' inserito il seguente nuovo articolo.
-
-Art. 31. - Presso la Facolta' di lettere e filosofia funziona l'Istituto di filosofia".
-
-Dopo l'art. 36 e con il conseguente spostamento della numerazione successiva e' inserito il seguente nuovo articolo.
-
-Art. 37. - Presso la Facolta' di medicina e chirurgia funzionano i seguenti Istituti:
-
-"Istituto di microbiologia; Tisiologia".
-
-Art. 46, relativo alle propedeuticita' dei corsi di laurea della Facolta' di scienze matematiche, fisiche e naturali e' modificato nel senso che sono aggiunti le seguenti:
-
-e) per la laurea in Scienze geologiche:
-
-l'esame di Chimica generale ed inorganica e l'esame di Fisica sperimentale devono precedere quello di Mineralogia; l'esame di Mineralogia deve precedere quello di Petrografia, Geologia, Mineralogia applicata e Geochimica; l'esame di Petrografia deve precedere quello di Vulcanologia e quello di Giacimenti minerari; l'esame di Paleontologia deve precedere quello di Geologia; l'esame di Geologia deve precedere quello di Geologia applicata e quello di Geologia regionale; l'esame di Matematica deve precedere quello di Fisica; l'esame di Geografia generale deve precedere quello di Geologia; gli esami di Mineralogia e paleontologia devono precedere quello di Sedimentologia;
-
-f) per la laurea in Scienze biologiche: gli esami di Chimica generale ed inorganica e di Chimica organica devono precedere quello di Chimica biologica e questo quello di Fisiologia generale.
-
-Art. 47, relativo alle modalita' dell'esame di laurea dei corsi della Facolta' di scienze matematiche, fisiche e naturali e' modificato nel senso che il quinto comma, e' abrogato e sostituito dal seguente:
-
-"Tali prove consistono:
-
-per la laurea in Chimica in un'analisi qualitativa inorganica ed in una quantitativa inorganica ed organica;
-
-per la laurea in Scienze naturali, in una prova, sulle materie biologiche (Zoologia e Botanica a scelta del candidato) e in una prova su quelle non biologiche (Mineralogia e Geologia a scelta del candidato);
-
-per la laurea in Scienze geologiche, la prova pratica per l'esame di laurea consiste in una prova in Mineralogia ed in una in Geologia; per la laurea in Scienze biologiche, il candidato dovra' superare una prova di Botanica ed una a sua scelta di Zoologia o di Anatomia comparata.
-
-Tali prove pratiche non hanno carattere preclusivo".
-
-Art. 62. - Le propedeuticita' della lettera f) e' modificato nel senso che l'esame di Tecnica, delle iperfrequenze debba essere preceduto da quello di Campi elettromagnetici e circuiti.
-
-Art. 84. - Agli insegnamenti complementari del corso di laurea in Materie letterarie sono aggiunti quelli di:
-
-14) Storia della Chiesa;
-
-15) Geografia politica ed economica;
-
-16) Storia contemporanea;
-
-17) Storia ed istituzioni mussulmane;
-
-18) Archivistica.
-
-Art. 86. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere sono aggiunti quelli di:
-
-11) Lingua e letteratura albanese;
-
-12) Letteratura anglo-americana;
-
-13) Lingua e letteratura araba;
-
-14) Linguistica generale.
-
-Art. 94. - All'elenco delle Scuole di specializzazione presso la Facolta' di medicina e chirurgia e' aggiunta quella di:
-
-Scuola di specializzazione in Malattie dell'apparato digerente.
-
-Dopo l'art. 144, e' aggiunto il seguente nuovo articolo, relativo alla istituzione della Scuola di specializzazione in Malattie dell'apparato digerente.
-
-Scuola di specializzazione in Malattie dell'apparato digerente
-
-Art. 145.
+Art. 191. - Materie di insegnamento:
 
 1° Anno:
 
-Anatomia patologica speciale, Fisiopatologia dell'apparato digerente, Semeiotica fisica e funzionale dell'apparato digerente, Esami di laboratorio e tecniche strumentali in relazione alle malattie dell'apparato digerente, Clinica delle malattie dell'apparato digerente (biennale).
+1) Anatomia normale dell'apparato cardiovascolare;
+
+2) Fisiologia dell'apparato cardiovascolare e respiratorio;
+
+3) Fisiopatologia cardiovascolare e respiratoria (biennale);
+
+4) Patologia cardiovascolare (biennale)
+
+5) Semeiologia fisica (biennale);
+
+6) Semeiologia strumentale (biennale);
+
+7) Microbiologia (facoltativa).
 
 2° Anno:
 
-Esami di laboratorio e radiologia in relazione alle malattie dell'apparato digerente, Clinica, delle malattie dell'apparato digerente (biennale), Farmacologia e terapia dell'apparato digerente.
+1) Fisiopatologia cardiovascolare e respiratoria (biennale);
+
+2) Patologia cardiovascolare (biennale);
+
+3) Semeiologia fisica (biennale);
+
+4) Semeiologia strumentale (biennale);
+
+5) Anatomia patologica dell'apparato cardiovascolare (biennale);
+
+6) Radiologia;
+
+7) Farmacologia;
+
+8) Clinica e terapia (biennale).
+
+3° Anno:
+
+1) Anatomia patologica dell'apparato cardiovascolare (biennale);
+
+2) Clinica e terapia (biennale);
+
+3) Chirurgia dell'apparato cardiovascolare;
+
+4) Problemi assicurativi e sociali (facoltativa);
+
+5) Statistica (facoltativa).
+
+Durante il corso degli studi, oltre i corsi di lezioni, vengono tenute, al letto dell'ammalato, esercitazioni di semeiotica clinica, di diagnostica differenziale o di terapia, mentre nei laboratori si svolgono esercitazioni teorico-pratiche di elettrocardiografia, di radiologia, e di, fisiopatologia clinica e sperimentale, di anatomia ed istologia patologica. L'ammissione avviene in base ai titoli di studio e successivamente in seguito ad una prova scritta di esame.
+
+Gli aspiranti hanno l'obbligo di accertarsi presso l'istituto della data del concorso.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 3 agosto 1964
+Dato a Roma, addi' 28 ottobre 1972
 
-SEGNI
+LEONE
 
-GUI
+SCALFARO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 24 ottobre 1964 Atti del Governo, registro n. 187, foglio n. 163 - VILLA
+alla Corte dei conti, addi' 21 dicembre 1972 Atti di Governo, registro n. 254, foglio n. 42. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -161,67 +134,54 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 20. - All'elenco degli Istituti annessi alla Facolta' di economia e commercio sono aggiunti quelli di:  
-"Istituto di diritto privato; Istituto di scienze demografiche".  
-Art. 23. - Agli insegnamenti complementari del corso di laurea in lettere sono aggiunti quelli di:  
-36) Topografia dell'Italia antica;  
-37) Storia della Chiesa;  
-38) Archeologia dell'Africa romana e antichita' provinciali;  
-39) Filologia umanistica;  
-40) Geografia economica;  
-41) Paleografia greca;  
-42) Teoria del restauro;  
-43) Sociologia.  
-Art. 24. - Agli insegnamenti complementari del corso di laurea in Filosofia e' aggiunto quello di: "Filosofia della scienza".  
-Dopo l'art. 30 e con il conseguente spostamento della numerazione successiva e' inserito il seguente nuovo articolo.  
-Art. 31. - Presso la Facolta' di lettere e filosofia funziona l'Istituto di filosofia".  
-Dopo l'art. 36 e con il conseguente spostamento della numerazione successiva e' inserito il seguente nuovo articolo.  
-Art. 37. - Presso la Facolta' di medicina e chirurgia funzionano i seguenti Istituti:  
-"Istituto di microbiologia; Tisiologia".  
-Art. 46, relativo alle propedeuticita' dei corsi di laurea della Facolta' di scienze matematiche, fisiche e naturali e' modificato nel senso che sono aggiunti le seguenti:  
-e) per la laurea in Scienze geologiche:  
-l'esame di Chimica generale ed inorganica e l'esame di Fisica sperimentale devono precedere quello di Mineralogia; l'esame di Mineralogia deve precedere quello di Petrografia, Geologia, Mineralogia applicata e Geochimica; l'esame di Petrografia deve precedere quello di Vulcanologia e quello di Giacimenti minerari; l'esame di Paleontologia deve precedere quello di Geologia; l'esame di Geologia deve precedere quello di Geologia applicata e quello di Geologia regionale; l'esame di Matematica deve precedere quello di Fisica; l'esame di Geografia generale deve precedere quello di Geologia; gli esami di Mineralogia e paleontologia devono precedere quello di Sedimentologia;  
-f) per la laurea in Scienze biologiche: gli esami di Chimica generale ed inorganica e di Chimica organica devono precedere quello di Chimica biologica e questo quello di Fisiologia generale.  
-Art. 47, relativo alle modalita' dell'esame di laurea dei corsi della Facolta' di scienze matematiche, fisiche e naturali e' modificato nel senso che il quinto comma, e' abrogato e sostituito dal seguente:  
-"Tali prove consistono:  
-per la laurea in Chimica in un'analisi qualitativa inorganica ed in una quantitativa inorganica ed organica;  
-per la laurea in Scienze naturali, in una prova, sulle materie biologiche (Zoologia e Botanica a scelta del candidato) e in una prova su quelle non biologiche (Mineralogia e Geologia a scelta del candidato);  
-per la laurea in Scienze geologiche, la prova pratica per l'esame di laurea consiste in una prova in Mineralogia ed in una in Geologia; per la laurea in Scienze biologiche, il candidato dovra' superare una prova di Botanica ed una a sua scelta di Zoologia o di Anatomia comparata.  
-Tali prove pratiche non hanno carattere preclusivo".  
-Art. 62. - Le propedeuticita' della lettera f) e' modificato nel senso che l'esame di Tecnica, delle iperfrequenze debba essere preceduto da quello di Campi elettromagnetici e circuiti.  
-Art. 84. - Agli insegnamenti complementari del corso di laurea in Materie letterarie sono aggiunti quelli di:  
-14) Storia della Chiesa;  
-15) Geografia politica ed economica;  
-16) Storia contemporanea;  
-17) Storia ed istituzioni mussulmane;  
-18) Archivistica.  
-Art. 86. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere sono aggiunti quelli di:  
-11) Lingua e letteratura albanese;  
-12) Letteratura anglo-americana;  
-13) Lingua e letteratura araba;  
-14) Linguistica generale.  
-Art. 94. - All'elenco delle Scuole di specializzazione presso la Facolta' di medicina e chirurgia e' aggiunta quella di:  
+Art. 152. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola in malattie dell'apparato cardiovascolare, di nuova istituzione.  
+Dopo l'art. 189 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in "Malattie dell'apparato cardiovascolare".  
   
-Scuola di specializzazione in Malattie dell'apparato digerente.  
-Dopo l'art. 144, e' aggiunto il seguente nuovo articolo, relativo alla istituzione della Scuola di specializzazione in Malattie dell'apparato digerente.  
-  
-Scuola di specializzazione in Malattie dell'apparato digerente  
-Art. 145.  
+Scuola di specializzazione in malattie dell'apparato cardiovascolare   
+Art. 190. - Titolo di iscrizione: laurea in medicina e chirurgia.  
+Numero massimo di iscritti: Otto per ogni anno di corso (totale ventiquattro).  
+Frequenza: obbligatoria per l'intero anno accademico.  
+Vacanze: conformi al calendario universitario con un solo mese completo estivo (agosto).  
+Esami: gli esami di profitto, teorici e pratici, saranno sostenuti alla fine di ogni anno in un'unica sessione (ottobre).  
+Alla fine del 3° anno, dopo avere superato tutti gli esami di profitto, gli allievi saranno ammessi a sostenere gli esami di diploma, consistenti nella discussione di una dissertazione scritta su un argomento di patologia o di fisiopatologia o clinica cardiologica, la cui scelta sia stata concordata fra diplomando e direttore della scuola durante il 2° anno. La dissertazione, previamente approvata dal direttore, dovra' essere depositata presso la segreteria almeno quindici giorni prima dell'esame.  
+I candidati non riconosciuti idonei all'esame di diploma potranno ripresentarsi dopo un altro anno di frequenza alla scuola. Ma se al 2°, esame non sia loro riconosciuta l'idoneita', saranno senz'altro esclusi ulteriori prove.  
+Art. 191. - Materie di insegnamento:  
 1° Anno:  
-Anatomia patologica speciale, Fisiopatologia dell'apparato digerente, Semeiotica fisica e funzionale dell'apparato digerente, Esami di laboratorio e tecniche strumentali in relazione alle malattie dell'apparato digerente, Clinica delle malattie dell'apparato digerente (biennale).  
+1) Anatomia normale dell'apparato cardiovascolare;  
+2) Fisiologia dell'apparato cardiovascolare e respiratorio;  
+3) Fisiopatologia cardiovascolare e respiratoria (biennale);  
+4) Patologia cardiovascolare (biennale)  
+5) Semeiologia fisica (biennale);  
+6) Semeiologia strumentale (biennale);  
+7) Microbiologia (facoltativa).  
 2° Anno:  
-Esami di laboratorio e radiologia in relazione alle malattie dell'apparato digerente, Clinica, delle malattie dell'apparato digerente (biennale), Farmacologia e terapia dell'apparato digerente.  
+1) Fisiopatologia cardiovascolare e respiratoria (biennale);  
+2) Patologia cardiovascolare (biennale);  
+3) Semeiologia fisica (biennale);  
+4) Semeiologia strumentale (biennale);  
+5) Anatomia patologica dell'apparato cardiovascolare (biennale);  
+6) Radiologia;  
+7) Farmacologia;  
+8) Clinica e terapia (biennale).  
+3° Anno:  
+1) Anatomia patologica dell'apparato cardiovascolare (biennale);  
+2) Clinica e terapia (biennale);  
+3) Chirurgia dell'apparato cardiovascolare;  
+4) Problemi assicurativi e sociali (facoltativa);  
+5) Statistica (facoltativa).  
+Durante il corso degli studi, oltre i corsi di lezioni, vengono tenute, al letto dell'ammalato, esercitazioni di semeiotica clinica, di diagnostica differenziale o di terapia, mentre nei laboratori si svolgono esercitazioni teorico-pratiche di elettrocardiografia, di radiologia, e di, fisiopatologia clinica e sperimentale, di anatomia ed istologia patologica. L'ammissione avviene in base ai titoli di studio e successivamente in seguito ad una prova scritta di esame.  
+Gli aspiranti hanno l'obbligo di accertarsi presso l'istituto della data del concorso.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 agosto 1964
+### Dato a Roma, addi' 28 ottobre 1972
 
-SEGNI GUI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 24 ottobre 1964
+Registrato alla Corte dei conti, addi' 21 dicembre 1972
 
-Atti del Governo, registro n. 187, foglio n. 163 - VILLA
+Atti di Governo, registro n. 254, foglio n. 42. - CARUSO

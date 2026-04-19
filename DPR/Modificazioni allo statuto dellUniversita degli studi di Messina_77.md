@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 settembre 1965 n. 1224
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1980 n. 1032
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 settembre 1965 n. 1224
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1980 n. 1032
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
@@ -10,132 +10,73 @@ Modificazioni allo statuto dell'Universita' degli studi di Messina.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090) e modificato con [regio decreto 20 ottobre 1940, n. 1963](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-20;1963) e successive modificazioni;
+Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923) e modificato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
 Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 13. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di:
+Articolo unico
+--------------
 
-11) Introduzione alle scienze giuridiche.
-
-Art. 21. - Agli insegnamenti complementari del corso di laurea in Economia e commercio sono aggiunti quelli di:
-
-15) Tecnica commerciale dei prodotti agricoli;
-
-16) Economia aziendale;
-
-17) Sociologia;
-
-18) Diritto privato comparato;
-
-19) Econometria;
-
-20) Economia del credito;
-
-21) Storia delle dottrine economiche.
-
-Art. 29. - Agli insegnamenti complementari del corso di laurea in Filosofia e' aggiunto quello di:
-
-13) Storia della filosofia moderna e contemporanea.
-
-Art. 52. - Il terz'ultimo comma relativo al corso di laurea in Matematica e' abrogato e sostituito dal seguente:
-
-"L'insegnamento fondamentale per l'indirizzo didattico di Matematiche complementari I e II comporta due esami distinti al termine di ogni singolo corso".
-
-Art. 54. - Dopo l'elenco degli insegnamenti complementari del corso di laurea in Chimica viene aggiunto il seguente comma:
-
-"Gli insegnamenti fondamentali di " Chimica generale I e II ", " Istituzioni di matematiche I e II", " Chimica organica I e II ", " Esercitazioni di chimica fisica I e II ", "Chimica fisica I e II " comportano rispettivamente due esami distinti al termine di ogni singolo corso".
-
-Art. 55. - Dopo l'elenco degli insegnamenti complementari del corso di laurea in Scienze naturali viene aggiunto il seguente comma:
-
-"Gli insegnamenti fondamentali di " Botanica I e II ", " Zoologia I e II ", " Fisiologia generale I e II" comportano rispettivamente due esami distinti al termine di ogni singolo corso".
-
-Art. 56. - Dopo l'elenco degli insegnamenti complementari del corso di laurea in Scienze biologiche viene aggiunto il seguente comma:
-
-"L'insegnamento fondamentale di " Fisiologia generale I e II " comporta due esami distinti al termine di ogni singolo corso".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 28 settembre 1965
-
-SARAGAT
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 2 novembre 1965 Atti del Governo, registro n. 198, foglio n. 6. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090) e modificato con [regio decreto 20 ottobre 1940, n. 1963](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-20;1963) e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Dopo l'art. 197, con il conseguente spostamento della numerazione successiva, sono aggiunti i seguenti nuovi articoli:  
   
-Decreta:  
+Scuola di specializzazione in biochimica marina  
+Art. 198. - Presso la facolta' di scienze matematiche, fisiche e naturali, e' istituita una scuola biennale di specializzazione in biochimica marina, presso l'istituto di chimica organica.  
+Art. 199. - Scopo della scuola e' quello di fornire agli iscritti le cognizioni scientifiche e tecniche necessarie per svolgere l'attivita' di biochimico nel campo dell'ecologia marina, della produttivita', del controllo igienico-sanitario di qualita' e delle utilizzazioni industriali delle risorse biologiche marine.  
+Art. 200. - Il direttore della scuola e' nominato dal consiglio della facolta' di scienze per un anno ed e' riconfermabile. Egli presiede il consiglio della scuola, costituito da tutti i docenti, vigila sul buon funzionamento di essa ed e' tenuto a dare comunicazione al preside della facolta' di scienze di tutti gli atti e deliberazioni del consiglio da lui presieduto.  
+Art. 201. - Alla scuola possono iscriversi i laureati in chimica, chimica industriale, chimica e tecnologie farmaceutiche, farmacia, medicina e chirurgia, medicina veterinaria, scienze agrarie, scienze biologiche, scienze naturali, che nel corso degli studi abbiano superato l'esame di almeno un insegnamento di indirizzo biologico. Il numero massimo degli iscritti alla scuola, viene stabilito di anno in anno dal consiglio della stessa ed e' approvato dal consiglio di facolta'.  
+Art. 202. - Per il conseguimento del titolo di specialista e' obbligatoria la frequenza alle lezioni, esercitazioni, conferenze, ai colloqui tenuti espressamente per il corso in oggetto; e' altresi' obbligatoria la frequenza, per un periodo non inferiore a sei mesi, dei laboratori, dei dipartimenti o istituti presso i quali si tengono gli insegnamenti, ai fini del migliore apprendimento e dello svolgimento delle tesi di specializzazione.  
+Art. 203. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
+1° Anno:  
+oceanografia fisica e chimica;  
+biochimica e fisiologia degli animali acquatici;  
+biochimica e fisiologia dei vegetali acquatici;  
+metodi analitici per il controllo delle acque di mare;  
+istochimica;  
+biologia marina.  
+2° Anno:  
+biochimica applicata;  
+bromatologia dei prodotti della pesca;  
+microbiologia marina;  
+effetti biologici degli inquinamenti;  
+prodotti biologicamente attivi da organismi marini;  
+fitobiologia marina.  
+Art. 204. - I docenti dei singoli insegnamenti sono nominati per incarico, anno per anno, dal consiglio di facolta' su proposta del direttore della scuola.  
+Art. 205. - Gli esami di profitto vengono sostenuti al termine dell'anno di frequenza. Al termine del 2ª anno viene sostenuto l'esame di diploma, consistente nella discussione di una dissertazione scritta, svolta dal candidato su un argomento da lui scelto ed approvato dal direttore della scuola, di fronte alla commissione di diploma costituita a norma dello statuto dell'Universita'.  
+Art. 206. - Le tasse e sopratasse da pagarsi dagli iscritti alla scuola sono le seguenti:  
   
-Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 13. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di:  
-11) Introduzione alle scienze giuridiche.  
-Art. 21. - Agli insegnamenti complementari del corso di laurea in Economia e commercio sono aggiunti quelli di:  
-15) Tecnica commerciale dei prodotti agricoli;  
-16) Economia aziendale;  
-17) Sociologia;  
-18) Diritto privato comparato;  
-19) Econometria;  
-20) Economia del credito;  
-21) Storia delle dottrine economiche.  
-Art. 29. - Agli insegnamenti complementari del corso di laurea in Filosofia e' aggiunto quello di:  
-13) Storia della filosofia moderna e contemporanea.  
-Art. 52. - Il terz'ultimo comma relativo al corso di laurea in Matematica e' abrogato e sostituito dal seguente:  
-"L'insegnamento fondamentale per l'indirizzo didattico di Matematiche complementari I e II comporta due esami distinti al termine di ogni singolo corso".  
-Art. 54. - Dopo l'elenco degli insegnamenti complementari del corso di laurea in Chimica viene aggiunto il seguente comma:  
-"Gli insegnamenti fondamentali di " Chimica generale I e II ", " Istituzioni di matematiche I e II", " Chimica organica I e II ", " Esercitazioni di chimica fisica I e II ", "Chimica fisica I e II " comportano rispettivamente due esami distinti al termine di ogni singolo corso".  
-Art. 55. - Dopo l'elenco degli insegnamenti complementari del corso di laurea in Scienze naturali viene aggiunto il seguente comma:  
-"Gli insegnamenti fondamentali di " Botanica I e II ", " Zoologia I e II ", " Fisiologia generale I e II" comportano rispettivamente due esami distinti al termine di ogni singolo corso".  
-Art. 56. - Dopo l'elenco degli insegnamenti complementari del corso di laurea in Scienze biologiche viene aggiunto il seguente comma:  
-"L'insegnamento fondamentale di " Fisiologia generale I e II " comporta due esami distinti al termine di ogni singolo corso".  
+tassa di ammissione (all'atto della domanda). . . . . . . . L. 10.000 tassa di immatricolazione . . . . . . . . . . . . . . . . . L. 10.000 tassa di iscrizione . . . . . . . . . . . . . . L. 45.000 (in 4 rate) sopratassa di esame. . . . . . . . . . . . . . . L. 5.000 (in 2 rate) contributo di laboratorio . . . . . . . . . . . L. 90.000 (in 3 rate) libretto . . . . . . . . . . . . . . . . . . . . . . . . . . L. 1.000 sopratassa esame di diploma. . . . . . . . . . . . . . . . . L. 5.000 tassa di ripetizione esami . . . . . . . . . . . . . . . . . L. 2.000 tassa ripetizione esami diploma. . . . . . . . . . . . . . . L. 1.000 tassa fuori corso . . . . . . . . . . . . . . . . . . . . . L. 20.000 contributo pergamena . . . . . . . . . . . . . . . . . . . . L. 2.000 tassa diploma all'erario . . . . . . . . . . . . . . . . . . L. 6.000   
+Art. 207. - Al finanziamento della scuola viene provveduto oltre che con gli introiti di cui all'articolo precedente con eventuali contributi dei Ministeri ed assessorati regionali interessati o di altri enti o istituzioni, pubblici o privati, che intendano cooperare al raggiungimento dei fini che la scuola si propone.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 settembre 1965
+### Dato a Roma, addi' 31 ottobre 1980
 
-SARAGAT GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: SARTI
 
-Registrato alla Corte dei conti, addi' 2 novembre 1965
+Registrato alla Corte dei conti, addi' 31 gennaio 1981
 
-Atti del Governo, registro n. 198, foglio n. 6. - VILLA
+Registro n. 9 Istruzione, foglio n. 69

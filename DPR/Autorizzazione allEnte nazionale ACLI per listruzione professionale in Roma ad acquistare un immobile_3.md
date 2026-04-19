@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1977 n. 1146
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 aprile 1980 n. 220
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1977 n. 1146
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 aprile 1980 n. 220
+=============================================================
 
 Autorizzazione all'Ente nazionale ACLI per l'istruzione professionale, in Roma, ad acquistare un immobile.
 ----------------------------------------------------------------------------------------------------------
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-1146. Decreto del Presidente della Repubblica 23 dicembre 1977, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Ente nazionale ACLI per l'istruzione professionale (ENAIP), in Roma, viene autorizzato ad acquistare dal sig. Giuseppe De Gennaro, al prezzo complessivo di L. 52.000.000, la porzione di fabbricato di nuova costruzione di proprieta' del medesimo ubicato in Bari fra le vie Giuseppe Capruzzi, prima traversa Capruzzi e via Vitantonio De Bellis n. 47 e propriamente l'appartamento di primo piano uso uffici, composto di sette vani, tre saloni, tre gabinetti e corridoio, per una superficie globale di mq 450 circa, denunciato all'ufficio tecnico erariale di Bari con scheda della planimetria serie C, n. 102042, registrato il 22 dicembre 1970 al n. 12148, come da contratto preliminare condizionato redatto in scrittura privata autenticata e registrato all'ufficio del registro di Bari, atti privati, al numero 18387 in data 21 maggio 1971 fra il presidente pro-tempore dell'ENAIP, dott.  
-Emilio Gabaglio ed il gia' menzionato sig. Giuseppe De Gennaro, allo scopo di destinarlo per finalita' connesse alla formazione professionale nel Meridione dei lavoratori del commercio.  
+220. Decreto del Presidente della Repubblica 14 aprile 1980, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Ente nazionale ACLI per l'istruzione professionale (ENAIP), in Roma, viene autorizzato ad acquistare, al prezzo di L. 50.000.000, un immobile sito in Enna, tra via A. Diaz e via delle Scienze, esteso mq 1600, comprendente un sovrastante fabbricato terraneo a copertura, iscritto al nuovo catasto edilizio urbano alla partita 7872, con provenienza dal nuovo catasto terreni, al foglio 37, particella 531, di proprieta' delle Associazioni cristiane dei lavoratori italiani (ACLI), come da contratto condizionato di compravendita redatto in scrittura privata in data 14 dicembre 1973, autenticato a rogito dott. Giuseppe Intersimone, notaio in Roma, n. 106844 di repertorio, registrato a Roma in data 4 gennaio 1974, n. 250, da adibire a sede stabile della propria attivita' di formazione professionale.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 31 marzo 1978  
-Registro n. 1 Lavoro, foglio n. 43
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti, addi' 3 giugno 1980  
+Registro n. 1 Lavoro, foglio n. 106

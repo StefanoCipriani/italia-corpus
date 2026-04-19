@@ -1,44 +1,320 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 settembre 1956 n. 1133
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1963 n. 1512
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 settembre 1956 n. 1133
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1963 n. 1512
 =================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, numero 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successivi;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 9. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di: "Diritto pubblico regionale".
+
+Art. 14. - Agli insegnamenti complementari del corso di laurea in Scienze politiche sono aggiunti quelli di:
+
+Diritto pubblico regionale
+
+Organizzazione internazionale.
+
+Art. 26. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti quelli di:
+
+34) Epigrafia e antichita' semitiche;
+
+35) Assiriologia ed archeologia orientale.
+
+Art. 32, relativo all'ammissione al corso di laurea in Lettere, il primo comma e' abrogato e sostituito dal seguente:
+
+"I laureati in filosofia sono ammessi al quarto anno qualora abbiano frequentato almeno per un anno tutti gli insegnamenti biennali fondamentali per la laurea in Lettere; coloro che sono forniti di altra laurea e del diploma di maturita' classica possono essere ammessi con abbreviazione di corso e con le modalita' che sono proposte dalla Facolta' in rapporto sopratutto all'affinita' degli studi compiuti".
+
+Art. 55, relativo al corso di laurea in Fisica, dopo il settimo comma e' inserito il seguente:
+
+"Gli esami di Fisica generale I e II sono propedeutici rispettivamente agli esami di Esperimentazione fisica I e II. Nel tredicesimo comma fra i corsi a scelta per l'indirizzo generale viene aggiunto l'insegnamento di "Storia della fisica".
+
+Nello stesso articolo nel quattordicesimo comma fra i corsi a scelta di Matematiche superiori, per l'indirizzo generale, viene aggiunto l'insegnamento di: "Istituzioni di fisica matematica".
+
+Nello stesso articolo nel sedicesimo comma fra i corsi a scelta per l'indirizzo didattico sono aggiunti quelli di:
+
+Fisica nucleare;
+
+Fisica superiore;
+
+Meteorologia;
+
+Calcolo elettronico.
+
+Nello stesso articolo fra i corsi qualificativi dei vari orientamenti nell'indirizzo applicativo sono aggiunti quelli di:
+
+Calcolo elettronico;
+
+Fisica molecolare;
+
+Cristallografia.
+
+Art. 61. - Agli insegnamenti complementari del corso di laurea in Scienze naturali e' aggiunto quello di:
+
+19) Micro-paleontologia.
+
+Gli insegnamenti complementari semestrali di: "Zoogeografia;
+
+Fitogeografia; Ecologia animale ed Ecologia vegetale sono soppressi e sostituiti dai seguenti:
+
+20) Zoogeografia ed ecologia animale;
+
+21) Fitogeografia ed ecologia vegetale.
+
+Art. 64. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche e' aggiunto quello di:
+
+21) Geofisica applicata.
+
+Dopo l'art. 65 sono aggiunti i seguenti nuovi articoli relativi alla istituzione del corso di laurea in Scienze biologiche con il conseguente spostamento della numerazione degli articoli successivi.
+
+Laurea in Scienze biologiche
+
+Art. 66. - La durata del corso degli studi per la laurea in Scienze biologiche e' di quattro anni.
+
+E' titolo di ammissione il diploma di maturita' classica e di maturita' scientifica. Possono essere ammessi i diplomati degli istituti tecnici agrari, industriali, nautici e per geometri, alle condizioni stabilite dalla legge.
+
+Sono insegnamenti fondamentali:
+
+1) Istituzioni di matematiche;
+
+2) Fisica;
+
+3) Chimica generale ed inorganica;
+
+4) Chimica organica;
+
+5) Botanica (biennale)
+
+6) Zoologia (biennale);
+
+7) Anatomia comparata
+
+8) Anatomia umana
+
+9) Istologia ed embriologia
+
+10) Fisiologia generale (biennale);
+
+11) Chimica biologica;
+
+12) Igiene.
+
+Sono insegnamenti complementari:
+
+1) Antropologia
+
+2) Biologia generale;
+
+3) Biologia marina;
+
+4) Biologia molecolare;
+
+5) Biologia vegetale applicata;
+
+6) Biometria e statistica;
+
+7) Citologia;
+
+8) Entomologia;
+
+9) Farmacologia;
+
+10) Fisiologia vegetale;
+
+11) Fitobiologia marina;
+
+12) Fitogeografia ed ecologia vegetale;
+
+13) Genetica;
+
+14) Idrobiologia e pescicoltura;
+
+15) Meccanica dello sviluppo;
+
+16) Microbiologia;
+
+17) Parassitologia;
+
+18) Patologia generale;
+
+19) Patologia vegetale;
+
+20) Zoogeografia ed ecologia animale.
+
+Art. 67. - Gli insegnamenti biennali di "Botanica" e di "Zoologia" comprendono sia la parte generale quanto quella sistematica. I corsi di Istituzioni di matematiche, di Fisica sperimentale, di Chimica generale ed inorganica sono propedeutici nella iscrizione e nello esame e quello di Chimica organica nel solo esame ai corsi di Zoologia, di Botanica, di Anatomia comparata, di Fisiologia generale e di Chimica biologica I, corsi di Anatomia umana, di Istologia ed embriologia sono propedeutici nell'iscrizione e nell'esame ai corsi di Zoologia, di Anatomia comparata, di Fisiologia generale e di Igiene. Il corso di Chimica biologica e' propedeutico nell'iscrizione e nell'esame al corso di Fisiologia generale. Gli insegnamenti fondamentali di Zoologia (biennale) e di Botanica (biennale), sono rispettivamente scissi in due distinti esami annuali.
+
+Art. 68. - Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami delle materie fondamentali e di almeno quattro complementari.
+
+L'esame di laurea consiste:
+
+a) in quattro prove pratiche e orali rispettivamente in Botanica, in Zoologia, in Istologia ed embriologia e in Anatomia comparata;
+
+b) nella discussione orale di una dissertazione scritta elaborata nell'ultimo biennio;
+
+c) nella esposizione e discussione orale di due fra tre argomenti scelti dal candidato in materie diverse fra loro e da quella su cui verte la dissertazione scritta.
+
+Art. 82. - Agli insegnamenti complementari del corso di laurea in Scienze agrarie sono aggiunti quelli di:
+
+16) Difesa delle piante;
+
+17) Genetica vegetale;
+
+18) Zoologia agraria (semestrale);
+
+19) Metodologia sperimentale (semestrale);
+
+20) Economia dei mercati agricoli.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 22 settembre 1963
+
+SEGNI
+
+GUI
+
+Visto, il Guardasigilli: BOSCO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 18 novembre 1963 Atti del Governo, registro n. 176, foglio n. 13. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con regio decreto 20 aprile 1939. n. 1073, e modificato con i [regi decreti 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-16;1527); [15 aprile 1942, n. 424](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;424); [5 settembre 1942, n. 1235](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1235); [24 ottobre 1942, n. 1596; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1596) [22 ottobre 1946, n. 423 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1946-10-22;423) [20 luglio 1948, n. 1160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-07-20;1160); [30 ottobre 1949, n. 994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;994); [30 ottobre 1949, n. 1167](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1167); [30 ottobre 1950, n. 1305](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1305); [11 aprile 1951, n. 564](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;564); [27 ottobre 1951, n. 1793](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1793); [11 febbraio 1952, n. 366](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-02-11;366); [26 ottobre 1952, n. 4507](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4507); [10 febbraio 1953, n. 544](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;544); [25 giugno 1953, n. 709](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-06-25;709); [23 marzo 1954, n. 751](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-23;751); [26 ottobre 1954, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-26;1207); [11 aprile 1955, n. 622](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-04-11;622); [20 settembre 1955, n. 937](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-20;937); [25 settembre 1955, n. 959](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-25;959) e [16 marzo 1956, n. 529](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-03-16;529);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 3071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;3071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, numero 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita', accademiche dell'Universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso  
-Art. 26. - L'insegnamento complementare di "letteratura delle tradizioni popolari" del corso di laurea in lettere e' soppresso e sostituito dal seguente "storia delle tradizioni popolari".  
-Art. 48. - Agli insegnamenti complementari del corso di laurea in fisica e' aggiunto quello di "astrofisica".  
-Art. 54. - Agli insegnamenti complementari del corso di laurea in matematica e fisica e' aggiunto quello di "astrofisica".  
-Art. 57. - Agli insegnamenti complementari del corso di laurea in scienze naturali e' aggiunto quello di "chimica biologica".  
-Art. 68. - Il primo comma cosi' formulato: "I laureati in scienze naturali, in fisica, in medicina e chirurgia, in medicina veterinaria e in scienze agrarie aspiranti alla laurea in farmacia, sono ammessi al 3° anno" e' abrogato.  
+Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 9. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di: "Diritto pubblico regionale".  
+Art. 14. - Agli insegnamenti complementari del corso di laurea in Scienze politiche sono aggiunti quelli di:  
+Diritto pubblico regionale  
+Organizzazione internazionale.  
+Art. 26. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti quelli di:  
+34) Epigrafia e antichita' semitiche;  
+35) Assiriologia ed archeologia orientale.  
+Art. 32, relativo all'ammissione al corso di laurea in Lettere, il primo comma e' abrogato e sostituito dal seguente:  
+"I laureati in filosofia sono ammessi al quarto anno qualora abbiano frequentato almeno per un anno tutti gli insegnamenti biennali fondamentali per la laurea in Lettere; coloro che sono forniti di altra laurea e del diploma di maturita' classica possono essere ammessi con abbreviazione di corso e con le modalita' che sono proposte dalla Facolta' in rapporto sopratutto all'affinita' degli studi compiuti".  
+Art. 55, relativo al corso di laurea in Fisica, dopo il settimo comma e' inserito il seguente:  
+"Gli esami di Fisica generale I e II sono propedeutici rispettivamente agli esami di Esperimentazione fisica I e II. Nel tredicesimo comma fra i corsi a scelta per l'indirizzo generale viene aggiunto l'insegnamento di "Storia della fisica".  
+Nello stesso articolo nel quattordicesimo comma fra i corsi a scelta di Matematiche superiori, per l'indirizzo generale, viene aggiunto l'insegnamento di: "Istituzioni di fisica matematica".  
+Nello stesso articolo nel sedicesimo comma fra i corsi a scelta per l'indirizzo didattico sono aggiunti quelli di:  
+Fisica nucleare;  
+Fisica superiore;  
+Meteorologia;  
+Calcolo elettronico.  
+Nello stesso articolo fra i corsi qualificativi dei vari orientamenti nell'indirizzo applicativo sono aggiunti quelli di:  
+Calcolo elettronico;  
+Fisica molecolare;  
+Cristallografia.  
+Art. 61. - Agli insegnamenti complementari del corso di laurea in Scienze naturali e' aggiunto quello di:  
+19) Micro-paleontologia.  
+Gli insegnamenti complementari semestrali di: "Zoogeografia;  
+Fitogeografia; Ecologia animale ed Ecologia vegetale sono soppressi e sostituiti dai seguenti:  
+20) Zoogeografia ed ecologia animale;  
+21) Fitogeografia ed ecologia vegetale.  
+Art. 64. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche e' aggiunto quello di:  
+21) Geofisica applicata.  
+Dopo l'art. 65 sono aggiunti i seguenti nuovi articoli relativi alla istituzione del corso di laurea in Scienze biologiche con il conseguente spostamento della numerazione degli articoli successivi.  
+  
+Laurea in Scienze biologiche  
+  
+Art. 66. - La durata del corso degli studi per la laurea in Scienze biologiche e' di quattro anni.  
+E' titolo di ammissione il diploma di maturita' classica e di maturita' scientifica. Possono essere ammessi i diplomati degli istituti tecnici agrari, industriali, nautici e per geometri, alle condizioni stabilite dalla legge.  
+Sono insegnamenti fondamentali:  
+1) Istituzioni di matematiche;  
+2) Fisica;  
+3) Chimica generale ed inorganica;  
+4) Chimica organica;  
+5) Botanica (biennale)  
+6) Zoologia (biennale);  
+7) Anatomia comparata  
+8) Anatomia umana  
+9) Istologia ed embriologia  
+10) Fisiologia generale (biennale);  
+11) Chimica biologica;  
+12) Igiene.  
+Sono insegnamenti complementari:  
+1) Antropologia  
+2) Biologia generale;  
+3) Biologia marina;  
+4) Biologia molecolare;  
+5) Biologia vegetale applicata;  
+6) Biometria e statistica;  
+7) Citologia;  
+8) Entomologia;  
+9) Farmacologia;  
+10) Fisiologia vegetale;  
+11) Fitobiologia marina;  
+12) Fitogeografia ed ecologia vegetale;  
+13) Genetica;  
+14) Idrobiologia e pescicoltura;  
+15) Meccanica dello sviluppo;  
+16) Microbiologia;  
+17) Parassitologia;  
+18) Patologia generale;  
+19) Patologia vegetale;  
+20) Zoogeografia ed ecologia animale.  
+Art. 67. - Gli insegnamenti biennali di "Botanica" e di "Zoologia" comprendono sia la parte generale quanto quella sistematica. I corsi di Istituzioni di matematiche, di Fisica sperimentale, di Chimica generale ed inorganica sono propedeutici nella iscrizione e nello esame e quello di Chimica organica nel solo esame ai corsi di Zoologia, di Botanica, di Anatomia comparata, di Fisiologia generale e di Chimica biologica I, corsi di Anatomia umana, di Istologia ed embriologia sono propedeutici nell'iscrizione e nell'esame ai corsi di Zoologia, di Anatomia comparata, di Fisiologia generale e di Igiene. Il corso di Chimica biologica e' propedeutico nell'iscrizione e nell'esame al corso di Fisiologia generale. Gli insegnamenti fondamentali di Zoologia (biennale) e di Botanica (biennale), sono rispettivamente scissi in due distinti esami annuali.  
+Art. 68. - Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami delle materie fondamentali e di almeno quattro complementari.  
+L'esame di laurea consiste:  
+a) in quattro prove pratiche e orali rispettivamente in Botanica, in Zoologia, in Istologia ed embriologia e in Anatomia comparata;  
+b) nella discussione orale di una dissertazione scritta elaborata nell'ultimo biennio;  
+c) nella esposizione e discussione orale di due fra tre argomenti scelti dal candidato in materie diverse fra loro e da quella su cui verte la dissertazione scritta.  
+Art. 82. - Agli insegnamenti complementari del corso di laurea in Scienze agrarie sono aggiunti quelli di:  
+16) Difesa delle piante;  
+17) Genetica vegetale;  
+18) Zoologia agraria (semestrale);  
+19) Metodologia sperimentale (semestrale);  
+20) Economia dei mercati agricoli.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 settembre 1956
+### Dato a Roma, addi' 22 settembre 1963
 
-GRONCHI ROSSI
+SEGNI GUI
 
-Registrato alla Corte dei conti, addi' 12 ottobre 1956
+Visto, il Guardasigilli: BOSCO
 
-Atti del Governo, registro n. 101, foglio n. 23. - CARLOMAGNO
+Registrato alla Corte dei conti, addi' 18 novembre 1963
+
+Atti del Governo, registro n. 176, foglio n. 13. - VILLA

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1971 n. 1414
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1973 n. 113
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1971 n. 1414
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1973 n. 113
+===============================================================
 
 Autorizzazione all'Universita' degli studi di Venezia ad acquistare un immobile.
 --------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1414. Decreto del Presidente della Repubblica 23 dicembre 1971, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Venezia viene autorizzata ad acquistare un immobile sito in Venezia, descritto al catasto urbano al foglio n. 14 (Dorsoduro) mappale 1259, 1263, 2563/A Dorsoduro 1686, 1687 mappale 2563/1 Dorsoduro 1649/A, mappale 2563/2 Dorsoduro 1649/B, mappale 2563/B Dorsoduro 1649/C, mappale 3024, Dorsoduro 1657, 1659, al prezzo complessivo di L. 355.000.000.  
+113. Decreto del Presidente della Repubblica 2 febbraio 1973, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Venezia viene autorizzata ad acquistare un complesso immobiliare sito in Venezia sestiere Dorsoduro, denominato palazzo Foscarini della Frascada, descritto nel catasto urbano di Venezia al foglio n. 14, mappali 665/1, 2, 3, 2681/4 e 665/4 al prezzo di lire 220.000.000.  
   
-Visto, il Guardasigilli: COLOMBO  
-Registrato alla Corte dei conti, addi' 10 aprile 1972  
-Atti del Governo, registro n. 248, foglio n. 29. - VALENTINI
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 4 aprile 1973  
+Atti di Governo, registro n. 257, foglio n. 46. - VALENTINI

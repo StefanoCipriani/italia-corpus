@@ -1,96 +1,156 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1039
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1977 n. 1122
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1039
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1977 n. 1122
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Veduto l'[art. 16 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art16);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dall'Universita' di Torino e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA   
   
+Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Torino e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Lo statuto dell'Universita' di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Decreta:   
   
-L'art. 158 e' modificato nel senso che la scuola di specializzazione in oncologia clinica muta denominazione in "oncologia".   
-Gli articoli da 269 a 273 relativi alla scuola di specializzazione in oncologia clinica, che muta denominazione in oncologia, sono sostituiti dai seguenti:   
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Scuola di specializzazione in oncologia   
+L'art. 15, relativo al corso di laurea in scienze politiche, e' modificato nel senso che al secondo comma, dopo la lettera d) e' aggiunto, con la lettera e) l'indirizzo politico-amministrativo.   
+Il sesto comma, alla lettera b), e' modificato nel modo seguente:   
+b) per l'indirizzo politico-internazionale:   
+1) diritto internazionale pubblico;   
+2) organizzazione internazionale;   
+3) relazioni internazionali;   
+4) storia delle relazioni internazionali.   
+Nello stesso comma, dopo la lettera d) per l'indirizzo storico-politico, e' aggiunta la lettera e) per l'indirizzo politico-amministrativo:   
+1) diritto amministrativo;   
+2) istituzioni di diritto privato italiano e comparato;   
+3) istituzioni di diritto e procedura penale;   
+4) sociologia politica.   
+Nello stesso articolo l'elenco delle materie complementari e' soppresso e sostituito dal seguente:   
+analisi del linguaggio politico;   
+antropologia culturale;   
+antropologia criminale;   
+antropologia sociale;   
+contabilita' dello Stato e degli enti pubblici;   
+demografia;   
+diritto anglo-americano;   
+diritto commerciale;   
+diritto degli enti locali;   
+diritto delle comunicazioni internazionali;   
+diritto delle comunita' europee;   
+diritto dell'economia;   
+diritto diplomatico e consolare;   
+diritto finanziario;   
+diritto internazionale dell'economia;   
+diritto internazionale privato;   
+diritto del lavoro;   
+diritto regionale;   
+dottrina dello Stato;   
+econometria;   
+economia applicata;   
+economia aziendale;   
+economia degli enti e delle imprese locali;   
+economia dei Paesi socialisti;   
+economia del lavoro;   
+economia internazionale;   
+economia monetaria;   
+economia e politica agraria;   
+economia e politica industriale;   
+economia e politica del territorio;   
+finanza degli enti locali;   
+geografia e politica economica;   
+giustizia amministrativa;   
+governo locale;   
+istituzioni di economia politica;   
+istituzioni di politiche comparate;   
+legislazione sociale;   
+matematica economica;   
+organizzazione economica internazionale;   
+pianificazione e organizzazione del territorio;   
+politica comparata;   
+programmazione economica;   
+psicologia sociale;   
+ricerca operativa;   
+scienza della amministrazione;   
+servizio sociale;   
+sistema politico italiano;   
+sociologia delle comunicazioni;   
+sociologia della conoscenza;   
+sociologia del diritto;   
+sociologia economica;   
+sociologia dell'educazione;   
+sociologia della famiglia;   
+sociologia industriale;   
+sociologia del lavoro;   
+sociologia matematica e sociometria;   
+sociologia dell'organizzazione;   
+sociologia dello sviluppo;   
+sociologia religiosa;   
+sociologia rurale;   
+sociologia urbana;   
+storia dell'agricoltura;   
+storia dell'amministrazione pubblica;   
+storia dell'America settentrionale;   
+storia dell'America latina;   
+storia antica;   
+storia dell'Asia moderna e contemporanea;   
+storia della Chiesa;   
+storia del Cristianesimo nell'eta' moderna e contemporanea;   
+storia e istituzioni dell'Africa;   
+storia e istituzioni dell'Islam;   
+storia del diritto italiano;   
+storia dei diritti dell'antichita';   
+storia dell'economia pre-industriale;   
+storia dell'economia industriale;   
+storia economica dell'Italia unita;   
+storia del giornalismo;   
+storia delle dottrine economiche;   
+storia delle istituzioni politiche;   
+storia medioevale;   
+storia dei popoli slavi;   
+storia dei movimenti sindacali;   
+storia del movimento operaio;   
+storia dei partiti e dei movimenti politici;   
+storia del pensiero politico contemporaneo;   
+storia del pensiero politico classico;   
+storia del pensiero politico medioevale;   
+storia della storiografia;   
+storia dei rapporti tra Stato e Chiesa;   
+tecniche di ricerca e di elaborazione dei dati;   
+teorie dello sviluppo economico;   
+teoria dello sviluppo politico;   
+antropologia economica.   
+L'art. 99, relativo alle norme sulla propedeuticita' degli esami nel corso di laurea in farmacia, e' modificato nel senso che il primo comma e' sostituito dal seguente:   
   
-Art. 269. - La scuola di specializzazione in oncologia ha sede presso l'istituto di oncologia di Torino, via Cavour, 31 e conferisce il diploma di specialista in oncologia.   
-Art. 270. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.   
-Art. 271. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.   
-Art. 272. - La durata del corso di studi e' di 3 anni e non e' suscettibile di abbreviazione.   
-Art. 273. - Il numero massimo degli allievi e' di venti per anno di corso e complessivamente di sessanta iscritti per l'intero corso di studi (un iscritto ogni quattro posti letto: numero dei letti: duecentoventicinque).   
-Art. 274. - L'ammissione al corso avviene per titoli ed esami.   
-Art. 275. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-patologia generale dei tumori (I);   
-oncologia sperimentale (I);   
-anatomia ed istologia patologica dei tumori (I);   
-epidemiologia dei tumori;   
-cancerogenesi ambientale e professionale e prevenzione primaria;   
-immunologia dei tumori.   
-2° Anno:   
-patologia generale dei tumori (II);   
-oncologia sperimentale (II);   
-anatomia e istologia patologica dei tumori (II);   
-citodiagnostica dei tumori;   
-prevenzione clinica e tecniche diagnostiche e di laboratorio; radiodiagnostica dei tumori;   
-oncologia medica (I);   
-oncologia chirurgica (I).   
-3° Anno:   
-oncologia medica (II);   
-oncologia chirurgica (II);   
-radioterapia dei tumori;   
-oncologia dell'apparato genitale femminile;   
-oncologia pediatrica;   
-principi di riabilitazione oncologica;   
-organizzazione della lotta contro i tumori.   
-Ogni scuola dovra' provvedere ad organizzare seminari e conferenze su specifici argomenti con l'integrazione di quelli elencati nello statuto.   
-Art. 276. - La frequenza alle lezioni, alle esercitazioni pratiche, e' obbligatoria per l'ammissione agli esami; il superamento degli esami di ciascun anno sara' condizione indispensabile per l'iscrizione all'anno successivo. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.   
-Art. 277. - Al termine del triennio per ottenere il diploma i candidati dovranno presentare una dissertazione scritta su un argomento attinente alla specializzazione.   
+Lo studente non puo' iscriversi al laboratorio del 2° corso di esercitazioni di chimica farmaceutica e tossicologia se non ha superato l'esame di chimica generale ed inorganica; pertanto non puo' ottenere la firma di frequenza del suddetto corso.   
+Lo studente non puo' iscriversi al laboratorio del 3° corso, secondo semestre, di esercitazioni di chimica farmaceutica e tossicologia se non ha superato l'esame di chimica organica; pertanto non puo' ottenere la firma di frequenza del suddetto corso.   
+L'art. 103, relativo al corso di laurea in chimica e tecnologia farmaceutiche, e' modificato nel senso che prima del terzultimo comma sono inclusi i seguenti:   
+  
+Lo studente non puo' iscriversi al laboratorio del 1° corso di analisi chimico-farmaceutica (analisi qualitativa) se non ha superato l'esame di chimica generale ed inorganica; pertanto non puo' ottenere la firma di frequenza del suddetto corso.   
+Lo studente non puo' iscriversi al laboratorio del 3° corso di analisi chimico-farmaceutica (analisi dei medicamenti) se non ha superato l'esame di chimica organica I; pertanto non puo' ottenere la firma di frequenza del suddetto corso.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana, E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1981
+### Dato a Roma, addi' 19 ottobre 1977
 
-PERTINI BODRATO
+LEONE MALFATTI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 24 febbraio 1982
+Registrato alla Corte dei conti, addi' 27 febbraio 1978
 
-Registro n. 30 Istruzione, foglio n. 390
+Registro n. 24 Istruzione, foglio n. 75

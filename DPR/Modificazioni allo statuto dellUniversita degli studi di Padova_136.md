@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1118
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1960 n. 1910
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1118
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1960 n. 1910
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
@@ -10,15 +10,17 @@ Modificazioni allo statuto dell'Universita' degli studi di Padova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Padova approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), successivi;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
@@ -26,63 +28,35 @@ Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro per la pubblica Istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Gli articoli da 177 a 188, relativi alla facolta' di ingegneria, sono abrogati e sostituiti dai seguenti con lo spostamento della numerazione degli articoli successivi.
+L'art. 106, relativo al biennio di studi propedeutici per i corsi di laurea in Ingegneria in seno alla Facolta' di scienze matematiche, fisiche e naturali e' soppresso.
 
-Art. 177. - La facolta' di ingegneria conferisce le seguenti lauree:
+Gli articoli da 127 a 138, relativi ai corsi di studi della Facolta' di ingegneria, sono abrogati e sostituiti dai seguenti:
 
-1) Laurea in ingegneria civile (sezioni: edili, idraulica, trasporti);
+Art. 127. - La Facolta' di ingegneria conferisce le seguenti lauree:
 
-2) Laurea in ingegneria meccanica;
+1) laurea in ingegneria civile (sezioni: edile, Idraulica, trasporti);
 
-3) Laurea in ingegneria elettrotecnica;
+2) laurea in ingegneria, meccanica;
 
-4) Laurea in ingegneria elettronica;
+3) laurea in ingegneria elettrotecnica;
 
-5) Laurea in ingegneria chimica.
+4) laurea in ingegneria elettronica;
 
-La durata del corso di studi e' di cinque anni, comprensivi del biennio di studi propedeutici e del triennio di studi applicativi.
+5) laurea in ingegneria chimica.
 
-Ciascun corso di laurea e' articolato in piu' indirizzi di specializzazione.
+La durata del corso di studi e' di cinque anni, suddivisi in un biennio di studi propedeutici e in un triennio di studi applicativi.
 
-Art. 178. - Gli insegnamenti si distinguono, per ciascun corso di laurea, in:
+E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.
 
-a) obbligatori;
+Art. 128. - Il biennio di studi propedeutici comprende i seguenti insegnamenti comuni a tutti i corsi di laurea:
 
-b) di indirizzo, a scelta dello studente per gruppi di materie.
-
-Gli insegnamenti possono essere pieni, detti anche annuali, e ridotti, detti anche semestrali.
-
-Gli insegnamenti di cui alla lettera a) sono indicati per ogni corso di laurea nel successivo art. 179.
-
-Il consiglio di facolta' (a norma del [decreto del Presidente della Repubblica n. 827 del 27 settembre 1970](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-09-27;827)) fissa anno per anno, per ciascun corso di laurea:
-
-gli indirizzi di specializzazione che intende attuare;
-
-gli insegnamenti di cui alla lettera b), per ogni indirizzo, scegliendoli nell'elenco generale riportato nel successivo art. 180; il numero di ore a disposizione per ogni insegnamento, sia obbligatorio sia di indirizzo, e la ripartizione di esse nell'anno; la distribuzione degli insegnamenti negli anni di corso;
-
-le propedeuticita';
-
-le procedure d'esame;
-
-le condizioni per l'iscrizione a ciascun anno di corso.
-
-Il numero complessivo degli insegnamenti pieni (o il numero equivalente di insegnamenti pieni e ridotti) per ciascun corso quinquennale di laurea non sara' superiore a trenta ne' inferiore a ventisette. A tale fine, due insegnamenti ridotti equivalgono ad un insegnamento pieno.
-
-L'identita' di denominazione di insegnamenti impartiti in diversi indirizzi non comporta necessariamente identita' di programma o di trattazione.
-
-In corrispondenza alla stessa denominazione, quando la sua ampiezza lo richieda, la materia puo' essere frazionata in piu' insegnamenti pieni, distinti, in successione di tempo, ognuno dei quali con validita' annuale.
-
-Alcuni insegnamenti potranno essere mutuati da altre facolta' dell'Universita' di Padova.
-
-Art. 179. - Gli insegnamenti obbligatori nei diversi corsi di laurea sono quelli qui di seguito elencati.
-
-Corso di laurea in ingegneria civile (sezione edile) Insegnamenti obbligatori sul piano nazionale:
+1° anno:
 
 1) Analisi matematica I;
 
@@ -92,1697 +66,688 @@ Corso di laurea in ingegneria civile (sezione edile) Insegnamenti obbligatori su
 
 4) Chimica;
 
-5) Disegno;
+5) Disegno I;
 
-6) Analisi matematica II;
+2° anno:
 
-7) Meccanica razionale;
+1) Analisi matematica II;
 
-8) Fisica II;
+2) Meccanica razionale;
 
-9) Geometria II;
+3) Fisica II:
 
-10) Scienza delle costruzioni;
+4) Disegno semestrale;
 
-11) Meccanica applicata alle macchine e macchine;
+5) Geometria II (semestrale).
 
-12) Fisica tecnica;
+Oltre ai predetti insegnamenti, gli studenti devono iscriversi ad un insegnamento distinto per corsi di laurea come sotto specificato, e sostenere il relativo esame.
 
-13) Elettrotecnica;
+Per il corso di laurea in ingegneria civile: Litologia e Geologia.
 
-14) Idraulica;
+Per i corsi di laurea in ingegneria meccanica, elettrotecnica, elettronica: Tecnologia generale dei materiali.
 
-15) Tecnologia dei materiali e chimica applicata;
+Per il corso di laurea in ingegneria, chimica: Chimica organica.
 
-16) Tecnica delle costruzioni;
+Art. 129. - Nel triennio gli studi applicativi per il corso di laurea in ingegneria civile (sezione edile, idraulica trasporti) sono obbligatori i seguenti insegnamenti comuni a tutte le sezioni:
 
-17) Architettura tecnica;
+1) Scienza delle costruzioni;
 
-18) Topografia;
+2) Meccanica applicata alle macchine e macchine;
 
-19) Architettura e composizione architettonica.
+3) Fisica tecnica;
 
-Insegnamenti obbligatori sul piano della facolta':
+4) Elettrotecnica:
 
-20) Elementi di calcolo numerico e programmazione;
+5) Idraulica;
 
-21) Complementi di scienza delle costruzioni;
+6) Tecnologie dei materiali e chimica applicata;
 
-22) Composizione urbanistica;
+7) Tecnica delle costruzioni;
 
-23) Costruzione di ponti;
+8) Architettura tecnica;
 
-24) Geotecnica.
+9) Topografia:
 
-Corso di laurea in ingegneria civile (sezione idraulica)
+10) Costruzioni idrauliche;
 
-Insegnamenti obbligatori sul piano nazionale:
+11) Costruzione di strade, ferrovie ed aeroporti;
 
-1) Analisi matematica I;
+12) Architettura e Urbanistica tecniche;
 
-2) Geometria I;
+13) Geotecnica;
 
-3) Fisica I;
+14) Materie giuridiche ed economiche;
 
-4) Chimica;
+15) Estimo.
 
-5) Disegno;
+Sono inoltre obbligatori:
 
-6) Analisi matematica II;
+nella sezione di ingegneria civile - Sezione edile:
 
-7) Meccanica razionale;
+16) Architettura e composizione architettonica;
 
-8) Fisica II;
+17) Ponti;
 
-9) Elementi di calcolo numerico e programmazione;
+18) Impianti tecnologici per l'edilizia;
 
-10) Scienza delle costruzioni;
+19) Composizione urbanistica:
 
-11) Meccanica applicata alle macchine e macchine;
+e a scelta dello studente:
 
-12) Fisica tecnica;
+1° gruppo:
 
-13) Elettrotecnica;
+20) Storia dell'architettura antica, e moderna (semestrale);
 
-14) Idraulica;
+20) Tecnica della circolazione stradale (semestrale);
 
-15) Tecnologia dei materiali e chimica applicata;
+2° gruppo:
 
-16) Tecnica delle costruzioni;
+20) Storia, dell'architettura moderna e contemporanea (semestrale);
 
-17) Architettura tecnica;
+20) Unificazione e meccanizzazione dell'azienda edile (semestrale).
 
-18) Topografia;
+nella sezione di ingegneria civile - sezione idraulica:
 
-19) Costruzioni idrauliche.
+16) Idromeccanica applicata;
 
-Insegnamenti obbligatori sul piano della facolta':
+17) Costruzioni marittime;
 
-20) Complementi di scienza delle costruzioni;
+18) Impianti idraulici (semestrale);
 
-21) Geotecnica;
+19) Idraulica agraria;
 
-22) Idromeccanica applicata;
+19') Idrografia (semestrale).
 
-23) Idrografia e idrologia;
+Sono inoltre previsti i seguenti gruppi di materie a scelta, dello studente:
 
-24) Costruzioni marittime.
+1° gruppo:
 
-Corso di laurea in ingegneria civile (sezione trasporti)
+20) Igiene applicata all'ingegneria (semestrale);
 
-Insegnamenti obbligatori sul piano nazionale:
+20') Depurazione e potabilizzazione delle acque (semestrale);
 
-1) Analisi matematica I;
+2° gruppo:
 
-2) Geometria I;
+20) Idraulica fluviale e navigazione interna semestrale;
 
-3) Fisica I;
+20') Tecnologia ed organizzazione delle costruzioni idrauliche (semestrale);
 
-4) Chimica;
+nella sezione di ingegneria civile - sezione trasporti:
 
-5) Disegno;
+16) Ponti;
 
-6) Analisi matematica II;
+17) Costruzioni marittime;
 
-7) Meccanica razionale;
+18) Tecnica ed economia dei trasporti;
 
-8) Fisica II;
+19) Tecnica della circolazione stradale;
 
-9) Geometria II;
+e a scelta dello studente:
 
-10) Scienza delle costruzioni;
+1° gruppo:
 
-11) Meccanica applicata alle macchine e macchine;
+20) Complementi di costruzioni in cemento armato (semestrale):
 
-12) Fisica tecnica;
+20') Prove e misure sulle costruzioni e sui ponti semestrale;
 
-13) Elettrotecnica;
+2° gruppo:
 
-14) Idraulica;
+20) Macchine stradali e organizzazione del cantiere semestrale;
 
-15) Tecnologia dei materiali e chimica applicata;
+20') Apparecchi di sollevamento e trasporto (semestrale).
 
-16) Tecnica delle costruzioni;
+Nel triennio di studi applicativi per il corso di laurea in ingegneria meccanica sono obbligatori i seguenti insegnamenti:
 
-17) Architettura tecnica;
+1) Scienza delle costruzioni;
 
-18) Topografia;
+2) Meccanica applicata alle macchine;
 
-19) Costruzione di strade, ferrovie ed aeroporti.
+3) Fisica tecnica,
 
-Insegnamenti obbligatori sul piano della facolta':
+4) Elettrotecnica;
 
-20) Elementi di calcolo numerico e programmazione;
+5) Idraulica,
 
-21) Complementi di scienza delle costruzioni;
+6) Chimica applicata:
 
-22) Costruzione di ponti;
+7) Macchine:
 
-23) Geotecnica;
+8) Costruzioni di macchine;
 
-24) Tecnica ed economia dei trasporti.
+9) Impianti meccanici;
 
-Corso di laurea in ingegneria meccanica
+10) Tecnologia meccanica;
 
-Insegnamenti obbligatori sul piano nazionale:
+11) Termodinamica applicata;
 
-1) Analisi matematica I;
+12) Progetti di macchine;
 
-2) Geometria I;
+13) Macchine speciali;
 
-3) Fisica I;
+14) Misure meccaniche;
 
-4) Chimica;
+15) Costruzioni industriali;
 
-5) Disegno;
+16) Scienza dei materiali;
 
-6) Analisi matematica II;
+17) Meccanica delle vibrazioni;
 
-7) Meccanica razionale;
+18) Economia ed organizzazione aziendale.
 
-8) Fisica II;
+Sono inoltre previsti i seguenti gruppi di materie a scelta dello studente:
 
-9) Elementi di calcolo numerico e programmazione;
+1° gruppo:
 
-10) Scienza delle costruzioni;
+19) Tecnica ed economia dei trasporti;
 
-11) Meccanica applicata alle macchine;
+20) Propulsione marittima, aerea spaziale;
 
-12) Fisica tecnica;
+2° gruppo:
 
-13) Elettrotecnica;
+19) Centrali elettriche;
 
-14) Idraulica;
+20) Impianti nucleari;
 
-15) Chimica applicata;
+3° gruppo:
 
-16) Macchine;
+19) Controlli automatici;
 
-17) Costruzione di macchine;
+20) Tecnica del freddo;
 
-18) Impianti meccanici;
+4° gruppo:
 
-19) Tecnologia meccanica.
+19) Aerodinamica;
 
-Insegnamenti obbligatori sul piano della facolta':
+20) Controlli automatici.
 
-20) Economia ed organizzazione aziendale;
+Nel triennio di studi applicativi per il corso di laurea in ingegneria elettrotecnica sono obbligatori i seguenti insegnamenti:
 
-21) Misure meccaniche e termiche;
+1) Scienza delle costruzioni;
 
-22) Scienza dei materiali;
+2) Meccanica applicata alle macchine;
 
-23) Termodinamica applicata.
+3) Fisica tecnica;
 
-Corso di laurea in ingegneria elettrotecnica
+4) Elettrotecnica;
 
-Insegnamenti obbligatori sul piano nazionale:
+5) Idraulica;
 
-1) Analisi matematica I;
+6) Misure elettriche;
 
-2) Geometria I;
+7) Macchine;
 
-3) Fisica I;
+8) Macchine elettriche;
 
-4) Chimica;
+9) Impianti elettrici;
 
-5) Disegno;
+10) Elettronica applicata;
 
-6) Analisi matematica II;
+11) Controlli automatici;
 
-7) Meccanica razionale;
+12) Trasmissione dell'energia elettrica:
 
-8) Fisica II;
+13) Complementi di matematica (semestrale);
 
-9) Elementi di calcolo numerico e programmazione;
+13') Materiali per l'Elettrotecnica (semestrale);
 
-10) Scienza delle costruzioni;
+14) Comunicazioni elettriche;
 
-11) Meccanica applicata alle macchine;
+15) Misure sulle macchine e sugli impianti;
 
-12) Fisica tecnica;
+16) Economia ed organizzazione aziendale;
 
-13) Elettrotecnica;
+a scelta dello studente:
 
-14) Idraulica;
+1° gruppo:
 
-15) Misure elettriche;
+17) Costruzioni elettromeccaniche;
 
-16) Macchine;
+18) Grandi utilizzazioni (semestrale);
 
-17) Macchine elettriche;
+18) Trazione elettrica (semestrale);
 
-18) Impianti elettrici;
+2° gruppo:
 
-19) Elettronica applicata.
+17) Centrali elettriche;
 
-Insegnamenti obbligatori sul piano della facolta':
+18) Impianti nucleari.
 
-20) Metodi matematici per l'ingegneria;
+Nel triennio di studi applicativi per il corso di laurea in ingegneria elettronica sono obbligatori i seguenti insegnamenti:
 
-21) Controlli automatici;
+1) Scienza delle costruzioni:
 
-22) Trasmissione dell'energia elettrica;
+2) Meccanica delle macchine e macchine;
 
-23) Economia ed organizzazione aziendale.
+3) Fisica tecnica;
 
-Corso di laurea in ingegneria elettronica
+4) Elettrotecnica;
 
-Insegnamenti obbligatori sul piano nazionale:
+5) Campi elettromagnetici e circuiti;
 
-1) Analisi matematica I;
+6) Misure elettriche;
 
-2) Geometria I;
+7) Elettronica applicata;
 
-3) Fisica I;
+8) Comunicazioni elettriche;
 
-4) Chimica;
+9) Controlli automatici;
 
-5) Disegno;
+10) Macchine elettriche;
 
-6) Analisi matematica II;
+11) Radiotecnica,
 
-7) Meccanica razionale;
+12) Complementi di matematica;
 
-8) Fisica II;
+13) Materiali per l'elettrotecnica;
 
-9) Elementi di calcolo numerico e programmazione
+14) Impianti elettrici;
 
-10) Scienze delle costruzioni;
+15) Misure elettroniche;
 
-11) Meccanica delle macchine e macchine;
+16) Tecnologie elettroniche;
 
-12) Fisica tecnica;
+17) Economia ed organizzazione aziendale;
 
-13) Elettrotecnica;
+a scelta dello studente:
 
-14) Campi elettromagnetici e circuiti;
+1° gruppo:
 
-15) Misure elettriche;
+18) Telefonia e telegrafia;
 
-16) Comunicazioni elettriche;
+19) Tecnica delle iperfrequenze;
 
-17) Elettronica applicata;
+2° gruppo:
 
-18) Controlli automatici;
+18) Tecniche elettroniche speciali;
 
-19) Radiotecnica.
+19) Impianti nucleari.
 
-Insegnamenti obbligatori sul piano della facolta':
+Nel triennio di studi applicativi per il corso di laurea in ingegneria chimica sono obbligatori i seguenti insegnamenti:
 
-20) Metodi matematici per l'ingegneria;
+1) Scienza delle costruzioni;
 
-21) Statistica e calcolo delle probabilita';
+2) Meccanica applicata alle macchine;
 
-22) Misure elettroniche;
+3) Fisica tecnica;
 
-23) Economia ed organizzazione aziendale.
+4) Elettrotecnica;
 
-Corso di laurea in ingegneria chimica
+5) Chimica fisica;
 
-Insegnamenti obbligatori sul piano nazionale:
+6) Chimica applicata;
 
-1) Analisi matematica I;
+7) Macchine;
 
-2) Geometria I;
+8) Principi di ingegneria, chimica;
 
-3) Fisica I;
+9) Chimica industriale;
 
-4) Chimica;
+10) Impianti chimici;
 
-5) Disegno;
+11) Termodinamica applicata;
 
-6) Analisi matematica II;
+12) Chimica analitica;
 
-7) Meccanica razionale;
+13) Teoria e sviluppo dei processi chimici;
 
-8) Fisica II;
+14) Scienza dei materiali;
 
-9) Chimica organica;
+15) Economia ed organizzazione aziendale.
 
-10) Scienza delle costruzioni;
+Sono inoltre previsti i seguenti gruppi di materie a scelta dello studente:
 
-11) Meccanica applicata alle macchine;
+1° gruppo:
 
-12) Fisica tecnica;
+16 Mineralogia applicata;
 
-13) Elettrotecnica;
+17) Metallurgia;
 
-14) Chimica applicata;
+18) Siderurgia e fonderia;
 
-15) Macchine;
+2° gruppo:
 
-16) Chimica fisica;
+16) Tecnologie delle reazioni organiche;
 
-17) Chimica industriale;
+17) Tecnologia degli alti polimeri;
 
-18) Principi di ingegneria chimica;
+18) Tecnologia del petrolio;
 
-19) Impianti chimici.
+3° gruppo:
 
-Insegnamenti obbligatori sul piano della facolta':
+16) Processi e materiali nucleari;
 
-20) Elementi di calcolo numerico e programmazione;
+17) Controlli automatici.
 
-21) Teoria e sviluppo dei processi chimici;
+Il Consiglio della facolta' determina, anno per anno, nel piano degli studi, la distribuzione delle materie di insegnamento nei diversi anni di corso, stabilisce le precedenze di esame, nonche' la durata e il programma di ciascun insegnamento e delle relative esercitazioni.
 
-22) Strumentazione chimica;
+Il numero complessivo degli insegnamenti annuali (o equivalenti) per ciascun corso quinquennale di laurea non sara' superiore a 30 ne' inferiore a 27. Un insegnamento biennale equivale a due insegnamenti annuali, due insegnamenti semestrali equivalgono ad un insegnamento annuale.
 
-23) Economia ed organizzazione aziendale.
+Art. 130. - Gli insegnamenti si svolgono sotto forma (i lezione e di esercitazioni pratiche di calcolo, disegno, progettazione, rilevamento o di laboratorio, che formano parte integrante dei rispettivi corsi.
 
-Art. 180. - Elenco generale degli insegnamenti che possono essere impartiti (l'elenco comprende, per completezza, anche gli insegnamenti obbligatori gia' elencati all'art. 179):
+Art. 131. - Lo studente deve frequentare lezioni e le esercitazioni dei corsi ai quali si sia iscritto, ed ottenere la relativa attestazione. Per quanto concerne gli insegnamenti a scelta dello studente, tale scelta e' impegnativa per ciascun gruppo di materie, senza possibilita' di sostituire singole materie di un gruppo con altre prese da gruppi diversi.
 
-Acquedotti e fognature;
+Art. 132. - Gli studenti del primo anno di corso potranno ottenere l'iscrizione al secondo anno qualora abbiano superato almeno due fra i quattro seguenti esami: Analisi matematica I; Geometria I; Fisica I; Chimica.
 
-Acustica applicata e illuminotecnica;
+Al termine del secondo anno di corso lo studente, per essere ammesso al terzo anno, dovra' aver superato tutti gli esami delle discipline del primo e del secondo anno comuni a tutti i corsi, di laurea.
 
-Aerodinamica applicata;
+Art. 133. - Il Consiglio della facolta' delibera sulle domande di passaggio da uno ad altro corso di laurea nonche' sull'ulteriore piano di studi degli studenti che si trasferiscono da altra Facolta'.
 
-Affidabilita' e controllo statistico della qualita';
+Art. 134. - Gli esami di profitto hanno di regola Forma orale e possono essere integrati da prove scritte 3 grafiche o di laboratorio. Possono comprendere anche la discussione di elaborati, progetti od esperienze svolte dal candidato sotto la direzione ed il controllo degli insegnanti.
 
-Algebra e logica matematica;
+Art. 135. - Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti prescritti per il corso di laurea prescelto. Lo studente deve svolgere per la laurea un elaborato consistente nello sviluppo di un progetto specifico, attinente alle materie della specialita' in cui egli intende laurearsi, sotto il controllo di insegnanti di tali materie, e con le modalita' stabilite dal Consiglio della facolta'.
 
-Analisi e simulazione dei processi;
+Tale elaborato potra' essere sostituito da una tesi di carattere teorico, sperimentale o monografico da svolgersi sotto la guida di uno o piu' relatori.
 
-Analisi matematica I;
+Art. 136. - L'esame di laurea consiste nella discussione dell'elaborato e della tesi, estesa in modo da accertare le cognizioni del candidato nelle materie fondamentali, ed in quelle speciali attinenti alla laurea da lui scelta.
 
-Analisi matematica II;
+Il Consiglio della Facolta' puo' anche disporre un accertamento della preparazione dello studente prima della laurea. Tale accertamento non ha carattere eliminatorio.
 
-Analisi sperimentale delle tensioni;
+Art. 137. - Appartengono alla Facolta' di ingegneria i seguenti istituti Biblioteca centrale;
 
-Apparecchi ed impianti di sollevamento e di trasporto;
+Istituto di architettura;
 
-Applicazioni dei calcolatori elettronici;
-
-Architettura degli interni;
-
-Architettura e composizione architettonica;
-
-Architettura industriale;
-
-Architettura tecnica;
-
-Automazione ed organizzazione sanitaria;
-
-Automi e linguaggi formali;
-
-Bacini montani e conservazione del suolo;
-
-Biometria;
-
-Bioingegneria;
-
-Calcolatori elettronici;
-
-Calcolo automatico delle strutture;
-
-Calcolo numerico;
-
-Campi elettromagnetici e circuiti;
-
-Catalisi industriale;
-
-Centrali elettriche;
-
-Chimica;
-
-Chimica applicata;
-
-Chimica fisica;
-
-Chimica fisica applicata;
-
-Chimica industriale;
-
-Chimica organica;
-
-Cinetica chimica applicata;
-
-Compilatori e sistemi operativi;
-
-Complementi di architettura tecnica;
-
-Complementi di chimica industriale;
-
-Complementi di controlli automatici;
-
-Complementi di costruzione di macchine;
-
-Complementi di costruzioni idrauliche;
-
-Complementi di costruzioni stradali;
-
-Complementi di elettronica applicata;
-
-Complementi di fisica;
-
-Complementi di fisica tecnica;
-
-Complementi di macchine;
-
-Complementi di macchine elettriche;
-
-Complementi di ponti;
-
-Complementi di scienza delle costruzioni;
-
-Complementi di trasmissione dell'energia elettrica;
-
-Componenti elettronici;
-
-Composizione urbanistica;
-
-Comunicazioni elettriche;
-
-Controlli automatici;
-
-Controllo dei processi chimici;
-
-Controllo di processi;
-
-Conversione statica dell'energia elettrica;
-
-Corrosione e protezione dei materiali;
-
-Costruzione di apparati elettrici;
-
-Costruzione di apparecchi chimici;
-
-Costruzione di macchine;
-
-Costruzione di macchine elettriche;
-
-Costruzione di ponti;
-
-Costruzione di strade, ferrovie ed aeroporti;
-
-Costruzioni idrauliche;
-
-Costruzioni industriali;
-
-Costruzioni marittime;
-
-Criogenia;
-
-Difesa della natura e dell'ambiente;
-
-Dinamica delle costruzioni;
-
-Dinamica dei sistemi elettrici;
-
-Diritto del lavoro;
-
-Disegno I;
-
-Disegno II;
-
-Disegno di macchine;
-
-Economia applicata all'ingegneria;
-
-Economia delle fonti di energia;
-
-Economia ed estimo civile;
-
-Economia ed estimo industriale;
-
-Economia ed organizzazione aziendale;
-
-Economia urbana e regionale;
-
-Elaborazione automatica delle informazioni;
-
-Elementi costruttivi degli autoveicoli;
-
-Elementi costruttivi delle macchine;
-
-Elementi di calcolo numerico e programmazione;
-
-Elementi di economia e di econometria;
-
-Elementi di fisica nucleare;
-
-Elettromagnetismo;
-
-Elettronica applicata;
-
-Elettronica biomedica;
-
-Elettronica industriale;
-
-Elettronica quantistica;
-
-Elettrotecnica;
-
-Elettrotermia;
-
-Fisica I;
-
-Fisica II;
-
-Fisica dello stato solido;
-
-Fisica del plasma;
-
-Fisica molecolare;
-
-Fisica tecnica;
-
-Fluodinamica chimico-fisica;
-
-Forni per l'industria chimica;
-
-Gasdinamica;
-
-Gas ionizzati;
-
-Geodesia;
-
-Geologia applicata e meccanica delle rocce;
-
-Geometria I;
-
-Geometria II;
-
-Geotecnica;
-
-Idraulica;
-
-Idraulica agraria;
-
-Idrogeologia;
-
-Idrografia e idrologia;
-
-Idromeccanica applicata;
-
-Igiene applicata all'ingegneria;
-
-Impianti chimici;
-
-Impianti di trattamento delle acque e dei liquami;
-
-Impianti elettrici;
-
-Impianti idroelettrici;
-
-Impianti meccanici;
-
-Impianti nucleari;
-
-Impianti per telecomunicazioni;
-
-Impianti tecnici per l'edilizia;
-
-Impianti termotecnici;
-
-Industrializzazione edilizia;
-
-Infortunistica;
-
-Inquinamenti e depurazione dell'ambiente;
-
-Istituzioni di diritto pubblico e privato;
-
-Lavorazioni meccaniche;
-
-Lavorazioni per deformazione plastica;
-
-Legislazione urbanistica;
-
-Litologia e geologia;
-
-Macchinario idraulico;
-
-Macchine;
-
-Macchine elettriche;
-
-Macchine per la lavorazione dei metalli;
-
-Macchine speciali;
-
-Materiali e componenti per la termotecnica;
-
-Materiali per l'elettrotecnica;
-
-Meccanica agraria;
-
-Meccanica applicata alle macchine;
-
-Meccanica applicata alle macchine e macchine;
-
-Meccanica delle vibrazioni;
-
-Meccanica dei fluidi;
-
-Meccanica razionale;
-
-Metallurgia e metallografia;
-
-Metodi di osservazione e di misura;
-
-Metodi matematici per l'ingegneria;
-
-Microonde;
-
-Misure di proprieta' termodinamiche e di trasporto;
-
-Misure elettriche;
-
-Misure elettroniche;
-
-Misure idrauliche;
-
-Misure meccaniche e termiche;
-
-Misure sulle macchine e sugli impianti elettrici;
-
-Misure sulle macchine e sugli impianti meccanici;
-
-Modelli e simulazione di sistemi;
-
-Motori a combustione interna per trazione;
-
-Navigazione interna;
-
-Opere in materiali sciolti;
-
-Organizzazione del lavoro;
-
-Organizzazione di officina;
-
-Organizzazione e meccanizzazione del cantiere;
-
-Ottica elettronica;
-
-Ottimizzazione;
-
-Pianificazione territoriale;
-
-Previsioni e ricerche di mercato;
-
-Principi di ingegneria chimica;
-
-Principi di regolazione automatica;
-
-Processi chimici bioinorganici;
-
-Produzione di energia elettrica per conversione diretta;
-
-Progettazione di sistemi numerici;
-
-Progetti di macchine;
-
-Progetti di strutture;
-
-Programmazione e controllo della produzione;
-
-Programmazione e controllo economico di gestione;
-
-Propagazione ed antenne;
-
-Propulsione marittima e aerea;
-
-Prove ad alta tensione;
-
-Radiotecnica;
-
-Reattori chimici;
-
-Regime e protezione dei litorali;
-
-Ricerca operativa;
-
-Rilievo e restauro;
-
-Risorse idriche;
-
-Scienza dei materiali;
-
-Scienza delle costruzioni;
-
-Siderurgia e fonderia;
-
-Similitudine chimica ed impianti pilota;
-
-Sintesi delle alte pressioni;
-
-Sistemazione dei corsi d'acqua;
-
-Sistemi combinatori e sequenziali;
-
-Sistemi di trasmissione di immagini;
-
-Sistemi informativi aziendali;
-
-Statistica e calcolo delle probabilita';
-
-Storia dell'architettura;
-
-Storia dell'urbanistica;
-
-Storia e metodologia della tecnica;
-
-Strumentazione biomedica;
-
-Strumentazione chimica;
-
-Strumentazione per impianti chimici;
-
-Strutture speciali in acciaio;
-
-Strutture speciali in cemento armato;
-
-Tecnica dei lavori idraulici;
-
-Tecnica del freddo;
-
-Tecnica della circolazione ed organizzazione dei trasporti;
-
-Tecnica delle alte tensioni;
-
-Tecnica delle costruzioni;
-
-Tecnica delle fondazioni;
-
-Tecnica del vuoto;
-
-Tecnica ed economia dei trasporti;
-
-Tecnica urbanistica;
-
-Tecnologia degli alti polimeri;
-
-Tecnologia dei fluidi non newtoniani;
-
-Tecnologia dei materiali e chimica applicata;
-
-Tecnologia dei materiali inorganici;
-
-Tecnologia delle reazioni organiche;
-
-Tecnologia del petrolio;
-
-Tecnologie elettriche;
-
-Tecnologie elettroniche;
-
-Tecnologie meccaniche;
-
-Telecomunicazioni;
-
-Telefonia e trasmissione dati;
-
-Teoria dei processi aleatori;
-
-Teoria dei segnali;
-
-Teoria dei sistemi;
-
-Teoria della identificazione;
-
-Teoria delle decisioni;
-
-Teoria delle reti elettriche;
-
-Teoria e sviluppo dei processi chimici;
-
-Termodinamica applicata;
-
-Topografia;
-
-Trasmissione dell'energia elettrica;
-
-Trasporti aerei;
-
-Trasporti marittimi;
-
-Trasporti terrestri;
-
-Trazione elettrica;
-
-Vettori e veicoli spaziali;
-
-Viabilita' e traffico.
-
-Art. 181. - Gli insegnamenti si svolgono sotto forma di lezioni e di esercitazioni pratiche di calcolo, disegno, progettazione, sperimentazione.
-
-La frequenza alle lezioni ed alle esercitazioni e' attestata con le modalita' disposte dal consiglio di facolta'.
-
-Art. 182. - Il consiglio di facolta' delibera sulle domande di trasferimento da uno ad altro corso di laurea, nonche' sui piani di studio degli studenti provenienti da altre sedi o facolta'.
-
-Art. 183. - Gli esami di profitto possono avere forma orale e scritta ed essere integrati da prove grafiche e di laboratorio; possono comprendere la discussione di elaborati, progetti ed esperienze svolti dal candidato sotto la direzione ed il controllo degli insegnanti.
-
-Art. 184. - Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti prescritti per il corso di laurea prescelto. Lo studente deve presentare allo esame uno o piu' elaborati, attinenti alle materie della specialita' in cui intende laurearsi, svolti sotto il controllo degli insegnanti di tali materie, con le modalita' stabilite dal consiglio di facolta'.
-
-L'esame di laurea consiste nella discussione di detti elaborati, estesa in modo da accertare le cognizioni del candidato nelle materie fondamentali ed in quelle speciali attinenti alla laurea da lui scelta.
-
-Il consiglio di facolta' puo' anche disporre un accertamento della preparazione dello studente prima della laurea. Tale accertamento non ha carattere eliminatorio.
-
-Art. 185. - La facolta' e' articolata in istituti, da attuare, previo parere favorevole del consiglio di amministrazione, nell'ambito del seguente elenco:
-
-Biblioteca centrale;
-
-Istituto di architettura e di urbanistica;
-
-Istituto di chimica per ingegneria;
-
-Istituto di chimica industriale;
-
-Istituto di costruzioni marittime e di geotecnica;
+Istituto di costruzioni marittime;
 
 Istituto di costruzioni, ponti e strade;
 
-Istituto di disegno;
+Istituto di chimica industriale;
 
-Istituto di elettrotecnica e di elettronica;
-
-Istituto di fisica per ingegneria;
+Istituto di elettrotecnica ed elettronica;
 
 Istituto di fisica tecnica;
 
-Istituto di idraulica;
-
-Istituto di impianti chimici;
+Istituto di idraulica e costruzioni idrauliche;
 
 Istituto di macchine;
 
-Istituto di matematica applicata;
-
 Istituto di meccanica applicata alle macchine;
 
-Istituto di organizzazione aziendale;
+Istituto di scienza delle costruzioni e annesso laboratorio per le prove di materiali da costruzione;
 
-Istituto di scienza delle costruzioni ed annesso laboratorio per le prove di materiali da costruzione;
+Istituto di topografia;
 
-Istituto di topografia.
+Istituto di impianti industriali chimici.
 
-In rapporto alle esigenze funzionali, gli istituti possono essere raggruppati, per deliberazione del consiglio di facolta' approvata dal consiglio di amministrazione.
+Gli Istituti della Facolta' possono essere suddivisi in sezioni per deliberazione del Consiglio della facolta' approvata dal Consiglio di amministrazione.
 
-A ciascun istituto, o gruppo di istituti, e' preposto un direttore, designato dal consiglio di facolta'.
+E' preposto un direttore designato dal Consiglio della facolta' a ciascun istituto o sezione di istituto.
 
-Art. 186. - Alla facolta' di ingegneria sono annessi corsi di perfezionamento in alcune discipline (vedi titolo XIX).
+Art. 138. - Alla Facolta' di ingegneria sono annessi corsi di perfezionamento in alcune discipline (Crr. Titolo XVI).
 
-Gli articoli da 348 a 368, relativi ai corsi di perfezionamento ed alla scuola di specializzazione in organizzazione aziendale, sono abrogati e sostituiti dai seguenti con lo spostamento della numerazione degli articoli successivi.
+Il presente, decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Titolo XIX
+Dato a Roma, addi' 30 ottobre 1960
 
-Art. 348. - Sono annessi alla facolta' di ingegneria i seguenti corsi di perfezionamento, la cui attuazione viene decisa anno per anno dal consiglio di facolta':
+GRONCHI
 
-1) Corso di perfezionamento in idraulica sperimentale presso l'istituto di idraulica;
+BOSCO
 
-2) Corso di perfezionamento in idrografia e idrologia, presso l'istituto di idraulica;
-
-3) Corso di perfezionamento in tecnica del traffico, presso l'istituto di costruzioni, ponti e strade;
-
-4) Corso di perfezionamento in tecnica motoristica, presso l'istituto di macchine;
-
-5) Corso di perfezionamento in tecnica del freddo, presso l'istituto di fisica tecnica;
-
-6) Corso di perfezionamento in elettrotecnica sperimentale, presso l'istituto di elettrotecnica e di elettronica;
-
-7) Corso di perfezionamento in elettronica sperimentale, presso l'istituto di elettrotecnica e di elettronica;
-
-8) Corso di perfezionamento in chimica industriale, presso l'istituto di chimica industriale;
-
-9) Corso di perfezionamento in sistemi di controllo, presso l'istituto di elettrotecnica e di elettronica;
-
-10) Corso di perfezionamento in sistemi di elaborazione e trasmissione dell'informazione, presso lo istituto di elettrotecnica e di elettronica;
-
-11) Corso di perfezionamento in ingegneria del territorio, presso l'istituto di architettura ed urbanistica;
-
-12). Corso di perfezionamento in geotecnica, presso l' istituto di costruzioni marittime e geotecnica.
-
-Art. 349. - I corsi hanno la durata di un anno accademico e sono diretti dai rispettivi direttori d'istituto o da professori ufficiali da essi delegati con approvazione del consiglio.
-
-Art. 350. - Titoli di ammissione ai corsi sono, di regola, i seguenti:
-
-« Idraulica sperimentale » e « idrografia e idrologia »: laurea in ingegneria civile, elettrotecnica o meccanica;
-
-per « tecnica del traffico »: laurea in ingegneria civile o meccanica;
-
-per « tecnica motoristica »: laurea in ingegneria meccanica;
-
-per «tecnica del freddo »: laurea in ingegneria meccanica, elettrotecnica o chimica;
-
-per «elettrotecnica sperimentale» o «elettronica sperimentale »: laurea in ingegneria elettrotecnica od elettronica;
-
-per «chimica industriale»: laurea in ingegneria chimica, in chimica o in chimica industriale;
-
-per «sistemi di controllo» e « sistemi di elaborazione e trasmissione dell'informazione »: laurea in ingegneria elettrotecnica, elettronica, meccanica, in matematica o in fisica;
-
-per « ingegneria del territorio »: laurea in ingegneria civile, elettronica, in matematica, in scienze statistiche, in scienze economiche e commerciali, in architettura;
-
-per «geotecnica »: laurea in ingegneria civile,
-
-Art. 351. - Il numero massimo degli iscritti a ciascun corso viene fissato per ogni anno accademico dal consiglio di facolta' che giudica anche dell'accettazione delle domande di iscrizione.
-
-Il consiglio di facolta' puo', caso per caso, deliberare su proposta del direttore del corso, sull'ammissione di laureati in discipline diverse da quelle previste nonche' di laureati all'estero.
-
-Art. 352. - Le modalita' di iscrizione e di svolgimento di ciascun corso sono approvate anno per anno con delibere del consiglio di facolta' su proposta del direttore del corso e sono rese note con apposito comunicato.
-
-Art. 353. - Il profitto conseguito dall'allievo nei vari insegnamenti e l'eventuale attivita' di ricerca sperimentale vengono valutati in una o piu' prove d'esame da commissioni, composte dal direttore del corso, che ne e' il presidente, e da due membri designati dal consiglio di facolta'. L'esito favorevole della prova finale viene riconosciuto mediante rilascio di un certificato, attestante la specializzazione nella disciplina cui il corso si intitola.
-
-Art. 354. - Le tasse di iscrizione e le soprattasse sono fissate in L. 40.000 annue; i contributi vengono annualmente fissati dal consiglio di amministrazione, su proposta del consiglio di facolta'.
-
-Scuola di specializzazione in organizzazione aziendale
-
-Art. 355. - Alla facolta' di ingegneria dell'Universita' degli studi di Padova e' annessa la scuola di specializzazione in organizzazione aziendale, con il compito di diffondere e promuovere la conoscenza dei principi e delle tecniche dell'organizzazione e della conduzione di imprese ed enti, e di effettuare ricerche nel campo degli studi di organizzazione aziendale.
-
-Il funzionamento della scuola e' assicurato dal consorzio universitario per gli studi di organizzazione aziendale, nel seguito denominato CUOA, costituito presso l'Universita' di Padova, con convenzione-statuto in data 20 luglio 1970, repertorio n. 1381.
-
-Art. 356. - La scuola conferisce diplomi in organizzazione aziendale ed attestati di frequenza.
-
-La durata dei corsi di diploma e' di due anni.
-
-Art. 357. - Alla scuola possono essere iscritti laureati in universita' italiane e straniere.
-
-Il consiglio della scuola puo' anche accogliere non laureati, con piani particolari di studio.
-
-Il numero degli iscritti, per ciascun anno di corso, e' determinato dal consiglio di amministrazione del CUOA.
-
-La selezione dei candidati e' fatta da una commissione nominata dal direttore della scuola e che decide a suo insindacabile giudizio.
-
-Art. 358. - Per il conseguimento del diploma sono fondamentali i seguenti insegnamenti:
-
-Comportamento organizzativo;
-
-Finanza e controllo aziendale;
-
-Marketing;
-
-Organizzazione della produzione;
-
-Organizzazione e politica aziendale;
-
-Relazioni industriali;
-
-Metodi quantitativi.
-
-Altri insegnamenti possono essere attivati fra seguenti:
-
-Analisi dei sistemi aziendali;
-
-Analisi delle strutture distributive;
-
-Automazione;
-
-Dinamica di gruppo;
-
-Economia delle aziende pubbliche;
-
-Economia delle imprese bancarie; Economia ed organizzazione dellr aziende di distribuzione;
-
-Economia industriale;
-
-Finanziamenti di impresa;
-
-Fondamenti di legislazione aziendale;
-
-Informistica;
-
-Istituzioni economiche europee;
-
-L'azienda ed il contesto socio-economico;
-
-Localizzazione industriale;
-
-Marketing dei beni strumentali;
-
-Marketing internazionale,
-
-Matematiche aziendali;
-
-Organizzazione del lavoro;
-
-Politica sindacale;
-
-Politiche di ricerca e sviluppo;
-
-Politiche finanziarie internazionali;
-
-Pubblicita' e promozione vendite;
-
-Ricerca operativa;
-
-Sistema tributario e decisioni aziendali;
-
-Sistemi di elaborazione automatica delle informazioni;
-
-Sviluppo tecnologico nell'impresa;
-
-Tecnica della programmazione aziendale;
-
-Tecnica delle prvisioni e ricerche di mercato;
-
-Tecnica delle revisioni aziendali;
-
-Tecniche di amministrazione del personale;
-
-Teorie delle decisioni.
-
-Il consiglio della scuola puo' stabilire particolari piani di studio, in relazione ai titoli di studio e professionali presentati dagli iscritti.
-
-L'insegnamento delle materie sopra indicate e' impartito mediante analisi e discussioni di casi, esercitazioni pratiche, lezioni integrative, conferenze, partecipazione a progetti di ricerca.
-
-Art. 359. - Il profitto degli allievi e' riconosciuto dai docenti con accertamenti durante il corso e mediante prove d'esame al termine di esso.
-
-Al compimento del biennio, gli aspiranti al diploma debbono sostenere un colloquio generale e la discussione di una dissertazione scritta approvata da un docente della scuola.
-
-La commissione per l'esame di diploma e' composta dal direttore della scuola, che la presiede, da quattro docenti di essa e da due esperti in orgamzzazione aziendale.
-
-Agli iscritti sprovvisti di laurea o che abbiano seguito un piano di studi particolare viene rilasciato un attestato di frequenza con l'indicazione degli esami superati.
-
-Art. 360. - Gli organi della scuola sono:
-
-1) il direttore;
-
-2) il consiglio.
-
-Il direttore della scuola viene nominato dal rettore dell'Universita', su proposta del consiglio di amministrazione del CUOA. Egli dura in carica un biennio e puo' essere confermato; a uno dei docenti puo' essere conferita la qualifica di vice direttore.
-
-Il consiglio e' formato, oltre che dal direttore che lo presiede dai docenti incaricati degli insegnamenti fondamentali, nominati dal rettore dell'Universita' su proposta dei direttore della scuola, sentito il consiglio della facolta' di ingegneria, approvata dal consiglio di amministrazione del CUOA.
-
-Il consiglio coordina ed approva i programmi d'insegnamento e delibera in ordine a tutti i problemi specifici della didattica anche per quanto concerne la disciplina, e fissa i criteri per la selezione dei candidati per ciascun anno di corso.
-
-Art. 361. - I docenti della scuola possono essere coadiuvati, nell'attivita' di insegnamento e di ricerca, da collaboratori cui vengono affidati compiti particolari dal direttore, d'intesa con il consiglio della scuola e con l'approvazione del consiglio di amministrazione del CUOA.
-
-Art. 362. - Gli iscritti alla scuola sono tenuti al versamento della tassa di iscrizione di L. 50.000 annue e dei contributi proposti dal consiglio di amministrazione del CUOA, nel rispetto dei regolamenti dell'Universita' degli studi di Padova.
-
-II presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 31 ottobre 1973
-
-LEONE
-
-MALFATTI
-
-Visto. il G1Iardasigilli: ZAGARI
+Visto, il Guardasigilli GONELLA
 
 Registrato
 ----------
 
-alla Corte del conti, addi' 31 maggio 1974 Atti di Governo, registro n. 3, foglio n. 53. - SCIARREITA
+alla Corte dei conti, addi' 31 maggio 1961 Atti del Governo, registro n. 136, foglio n. 189. - VILLA
 
-CAPO I Titolo XI FACOLTA' DI INGEGNERIA
----------------------------------------
+Art. 1
+------
 
-### Art. 1
-
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Padova approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Veduto il [decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica Istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Gli articoli da 177 a 188, relativi alla facolta' di ingegneria, sono abrogati e sostituiti dai seguenti con lo spostamento della numerazione degli articoli successivi.   
+L'art. 106, relativo al biennio di studi propedeutici per i corsi di laurea in Ingegneria in seno alla Facolta' di scienze matematiche, fisiche e naturali e' soppresso.  
+Gli articoli da 127 a 138, relativi ai corsi di studi della Facolta' di ingegneria, sono abrogati e sostituiti dai seguenti:  
   
-Art. 177. - La facolta' di ingegneria conferisce le seguenti lauree:   
-1) Laurea in ingegneria civile (sezioni: edili, idraulica, trasporti);   
-2) Laurea in ingegneria meccanica;   
-3) Laurea in ingegneria elettrotecnica;   
-4) Laurea in ingegneria elettronica;   
-5) Laurea in ingegneria chimica.   
-La durata del corso di studi e' di cinque anni, comprensivi del biennio di studi propedeutici e del triennio di studi applicativi.  
-Ciascun corso di laurea e' articolato in piu' indirizzi di specializzazione.   
-Art. 178. - Gli insegnamenti si distinguono, per ciascun corso di laurea, in:   
-a) obbligatori;   
-b) di indirizzo, a scelta dello studente per gruppi di materie.   
-Gli insegnamenti possono essere pieni, detti anche annuali, e ridotti, detti anche semestrali.   
-Gli insegnamenti di cui alla lettera a) sono indicati per ogni corso di laurea nel successivo art. 179.   
-Il consiglio di facolta' (a norma del [decreto del Presidente della Repubblica n. 827 del 27 settembre 1970](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-09-27;827)) fissa anno per anno, per ciascun corso di laurea:   
-gli indirizzi di specializzazione che intende attuare;   
-gli insegnamenti di cui alla lettera b), per ogni indirizzo, scegliendoli nell'elenco generale riportato nel successivo art. 180; il numero di ore a disposizione per ogni insegnamento, sia obbligatorio sia di indirizzo, e la ripartizione di esse nell'anno; la distribuzione degli insegnamenti negli anni di corso;   
-le propedeuticita';   
-le procedure d'esame;   
-le condizioni per l'iscrizione a ciascun anno di corso.   
-Il numero complessivo degli insegnamenti pieni (o il numero equivalente di insegnamenti pieni e ridotti) per ciascun corso quinquennale di laurea non sara' superiore a trenta ne' inferiore a ventisette. A tale fine, due insegnamenti ridotti equivalgono ad un insegnamento pieno.   
-L'identita' di denominazione di insegnamenti impartiti in diversi indirizzi non comporta necessariamente identita' di programma o di trattazione.   
-In corrispondenza alla stessa denominazione, quando la sua ampiezza lo richieda, la materia puo' essere frazionata in piu' insegnamenti pieni, distinti, in successione di tempo, ognuno dei quali con validita' annuale.   
-Alcuni insegnamenti potranno essere mutuati da altre facolta' dell'Universita' di Padova.   
-Art. 179. - Gli insegnamenti obbligatori nei diversi corsi di laurea sono quelli qui di seguito elencati.   
-Corso di laurea in ingegneria civile (sezione edile) Insegnamenti obbligatori sul piano nazionale:   
-1) Analisi matematica I;   
-2) Geometria I;   
-3) Fisica I;   
-4) Chimica;   
-5) Disegno;   
-6) Analisi matematica II;   
-7) Meccanica razionale;   
-8) Fisica II;   
-9) Geometria II;   
-10) Scienza delle costruzioni;   
-11) Meccanica applicata alle macchine e macchine;   
-12) Fisica tecnica;   
-13) Elettrotecnica;   
-14) Idraulica;   
-15) Tecnologia dei materiali e chimica applicata;   
-16) Tecnica delle costruzioni;   
-17) Architettura tecnica;   
-18) Topografia;   
-19) Architettura e composizione architettonica.   
-Insegnamenti obbligatori sul piano della facolta':   
-20) Elementi di calcolo numerico e programmazione;   
-21) Complementi di scienza delle costruzioni;   
-22) Composizione urbanistica;   
-23) Costruzione di ponti;   
-24) Geotecnica.   
-Corso di laurea in ingegneria civile (sezione idraulica)   
-Insegnamenti obbligatori sul piano nazionale:   
-1) Analisi matematica I;   
-2) Geometria I;   
-3) Fisica I;   
-4) Chimica;   
-5) Disegno;   
-6) Analisi matematica II;   
-7) Meccanica razionale;   
-8) Fisica II;   
-9) Elementi di calcolo numerico e programmazione;   
-10) Scienza delle costruzioni;   
-11) Meccanica applicata alle macchine e macchine;   
-12) Fisica tecnica;   
-13) Elettrotecnica;   
-14) Idraulica;   
-15) Tecnologia dei materiali e chimica applicata;   
-16) Tecnica delle costruzioni;   
-17) Architettura tecnica;   
-18) Topografia;   
-19) Costruzioni idrauliche.   
-Insegnamenti obbligatori sul piano della facolta':   
-20) Complementi di scienza delle costruzioni;   
-21) Geotecnica;   
-22) Idromeccanica applicata;   
-23) Idrografia e idrologia;   
-24) Costruzioni marittime.   
-Corso di laurea in ingegneria civile (sezione trasporti)   
-Insegnamenti obbligatori sul piano nazionale:   
-1) Analisi matematica I;   
-2) Geometria I;   
-3) Fisica I;   
-4) Chimica;   
-5) Disegno;   
-6) Analisi matematica II;   
-7) Meccanica razionale;   
-8) Fisica II;   
-9) Geometria II;   
-10) Scienza delle costruzioni;   
-11) Meccanica applicata alle macchine e macchine;   
-12) Fisica tecnica;   
-13) Elettrotecnica;   
-14) Idraulica;   
-15) Tecnologia dei materiali e chimica applicata;   
-16) Tecnica delle costruzioni;   
-17) Architettura tecnica;   
-18) Topografia;   
-19) Costruzione di strade, ferrovie ed aeroporti.   
-Insegnamenti obbligatori sul piano della facolta':   
-20) Elementi di calcolo numerico e programmazione;   
-21) Complementi di scienza delle costruzioni;   
-22) Costruzione di ponti;   
-23) Geotecnica;   
-24) Tecnica ed economia dei trasporti.   
-Corso di laurea in ingegneria meccanica   
-Insegnamenti obbligatori sul piano nazionale:   
-1) Analisi matematica I;   
-2) Geometria I;   
-3) Fisica I;   
-4) Chimica;   
-5) Disegno;   
-6) Analisi matematica II;   
-7) Meccanica razionale;   
-8) Fisica II;   
-9) Elementi di calcolo numerico e programmazione;   
-10) Scienza delle costruzioni;   
-11) Meccanica applicata alle macchine;   
-12) Fisica tecnica;   
-13) Elettrotecnica;   
-14) Idraulica;   
-15) Chimica applicata;   
-16) Macchine;   
-17) Costruzione di macchine;   
-18) Impianti meccanici;   
-19) Tecnologia meccanica.   
-Insegnamenti obbligatori sul piano della facolta':   
-20) Economia ed organizzazione aziendale;   
-21) Misure meccaniche e termiche;   
-22) Scienza dei materiali;   
-23) Termodinamica applicata.   
-Corso di laurea in ingegneria elettrotecnica   
-Insegnamenti obbligatori sul piano nazionale:   
-1) Analisi matematica I;   
-2) Geometria I;   
-3) Fisica I;   
-4) Chimica;   
-5) Disegno;   
-6) Analisi matematica II;   
-7) Meccanica razionale;   
-8) Fisica II;   
-9) Elementi di calcolo numerico e programmazione;   
-10) Scienza delle costruzioni;   
-11) Meccanica applicata alle macchine;   
-12) Fisica tecnica;   
-13) Elettrotecnica;   
-14) Idraulica;   
-15) Misure elettriche;   
-16) Macchine;   
-17) Macchine elettriche;   
-18) Impianti elettrici;   
-19) Elettronica applicata.   
-Insegnamenti obbligatori sul piano della facolta':   
-20) Metodi matematici per l'ingegneria;   
-21) Controlli automatici;   
-22) Trasmissione dell'energia elettrica;   
-23) Economia ed organizzazione aziendale.   
-Corso di laurea in ingegneria elettronica   
-Insegnamenti obbligatori sul piano nazionale:   
-1) Analisi matematica I;   
-2) Geometria I;   
-3) Fisica I;   
-4) Chimica;   
-5) Disegno;   
-6) Analisi matematica II;   
-7) Meccanica razionale;   
-8) Fisica II;   
-9) Elementi di calcolo numerico e programmazione   
-10) Scienze delle costruzioni;   
-11) Meccanica delle macchine e macchine;   
-12) Fisica tecnica;   
-13) Elettrotecnica;   
-14) Campi elettromagnetici e circuiti;   
-15) Misure elettriche;   
-16) Comunicazioni elettriche;   
-17) Elettronica applicata;   
-18) Controlli automatici;   
-19) Radiotecnica.   
-Insegnamenti obbligatori sul piano della facolta':   
-20) Metodi matematici per l'ingegneria;   
-21) Statistica e calcolo delle probabilita';   
-22) Misure elettroniche;   
-23) Economia ed organizzazione aziendale.   
-Corso di laurea in ingegneria chimica   
-Insegnamenti obbligatori sul piano nazionale:   
-1) Analisi matematica I;   
-2) Geometria I;   
-3) Fisica I;   
-4) Chimica;   
-5) Disegno;   
-6) Analisi matematica II;   
-7) Meccanica razionale;   
-8) Fisica II;   
-9) Chimica organica;   
-10) Scienza delle costruzioni;   
-11) Meccanica applicata alle macchine;   
-12) Fisica tecnica;   
-13) Elettrotecnica;   
-14) Chimica applicata;   
-15) Macchine;   
-16) Chimica fisica;   
-17) Chimica industriale;   
-18) Principi di ingegneria chimica;   
-19) Impianti chimici.   
-Insegnamenti obbligatori sul piano della facolta':   
-20) Elementi di calcolo numerico e programmazione;   
-21) Teoria e sviluppo dei processi chimici;   
-22) Strumentazione chimica;   
-23) Economia ed organizzazione aziendale.   
-Art. 180. - Elenco generale degli insegnamenti che possono essere impartiti (l'elenco comprende, per completezza, anche gli insegnamenti obbligatori gia' elencati all'art. 179):   
+Art. 127. - La Facolta' di ingegneria conferisce le seguenti lauree:  
+1) laurea in ingegneria civile (sezioni: edile, Idraulica, trasporti);  
+2) laurea in ingegneria, meccanica;  
+3) laurea in ingegneria elettrotecnica;  
+4) laurea in ingegneria elettronica;  
+5) laurea in ingegneria chimica.  
+La durata del corso di studi e' di cinque anni, suddivisi in un biennio di studi propedeutici e in un triennio di studi applicativi.  
+E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.  
   
-Acquedotti e fognature;   
-Acustica applicata e illuminotecnica;   
-Aerodinamica applicata;   
-Affidabilita' e controllo statistico della qualita';   
-Algebra e logica matematica;   
-Analisi e simulazione dei processi;   
-Analisi matematica I;   
-Analisi matematica II;   
-Analisi sperimentale delle tensioni;   
-Apparecchi ed impianti di sollevamento e di trasporto;   
-Applicazioni dei calcolatori elettronici;   
-Architettura degli interni;   
-Architettura e composizione architettonica;   
-Architettura industriale;   
-Architettura tecnica;   
-Automazione ed organizzazione sanitaria;   
-Automi e linguaggi formali;   
-Bacini montani e conservazione del suolo;   
-Biometria;   
-Bioingegneria;   
-Calcolatori elettronici;   
-Calcolo automatico delle strutture;   
-Calcolo numerico;   
-Campi elettromagnetici e circuiti;   
-Catalisi industriale;   
-Centrali elettriche;   
-Chimica;   
-Chimica applicata;   
-Chimica fisica;   
-Chimica fisica applicata;   
-Chimica industriale;   
-Chimica organica;   
-Cinetica chimica applicata;   
-Compilatori e sistemi operativi;   
-Complementi di architettura tecnica;   
-Complementi di chimica industriale;   
-Complementi di controlli automatici;   
-Complementi di costruzione di macchine;   
-Complementi di costruzioni idrauliche;   
-Complementi di costruzioni stradali;   
-Complementi di elettronica applicata;   
-Complementi di fisica;   
-Complementi di fisica tecnica;   
-Complementi di macchine;   
-Complementi di macchine elettriche;   
-Complementi di ponti;   
-Complementi di scienza delle costruzioni;   
-Complementi di trasmissione dell'energia elettrica;   
-Componenti elettronici;   
-Composizione urbanistica;   
-Comunicazioni elettriche;   
-Controlli automatici;   
-Controllo dei processi chimici;   
-Controllo di processi;   
-Conversione statica dell'energia elettrica;   
-Corrosione e protezione dei materiali;   
-Costruzione di apparati elettrici;   
-Costruzione di apparecchi chimici;   
-Costruzione di macchine;   
-Costruzione di macchine elettriche;   
-Costruzione di ponti;   
-Costruzione di strade, ferrovie ed aeroporti;   
-Costruzioni idrauliche;   
-Costruzioni industriali;   
-Costruzioni marittime;   
-Criogenia;   
-Difesa della natura e dell'ambiente;   
-Dinamica delle costruzioni;   
-Dinamica dei sistemi elettrici;   
-Diritto del lavoro;   
-Disegno I;   
-Disegno II;   
-Disegno di macchine;   
-Economia applicata all'ingegneria;   
-Economia delle fonti di energia;   
-Economia ed estimo civile;   
-Economia ed estimo industriale;   
-Economia ed organizzazione aziendale;   
-Economia urbana e regionale;   
-Elaborazione automatica delle informazioni;   
-Elementi costruttivi degli autoveicoli;   
-Elementi costruttivi delle macchine;   
-Elementi di calcolo numerico e programmazione;   
-Elementi di economia e di econometria;   
-Elementi di fisica nucleare;   
-Elettromagnetismo;   
-Elettronica applicata;   
-Elettronica biomedica;   
-Elettronica industriale;   
-Elettronica quantistica;   
-Elettrotecnica;   
-Elettrotermia;   
-Fisica I;   
-Fisica II;   
-Fisica dello stato solido;   
-Fisica del plasma;   
-Fisica molecolare;   
-Fisica tecnica;   
-Fluodinamica chimico-fisica;   
-Forni per l'industria chimica;   
-Gasdinamica;   
-Gas ionizzati;   
-Geodesia;   
-Geologia applicata e meccanica delle rocce;   
-Geometria I;   
-Geometria II;   
-Geotecnica;   
-Idraulica;   
-Idraulica agraria;   
-Idrogeologia;   
-Idrografia e idrologia;   
-Idromeccanica applicata;   
-Igiene applicata all'ingegneria;   
-Impianti chimici;   
-Impianti di trattamento delle acque e dei liquami;   
-Impianti elettrici;   
-Impianti idroelettrici;   
-Impianti meccanici;   
-Impianti nucleari;   
-Impianti per telecomunicazioni;   
-Impianti tecnici per l'edilizia;   
-Impianti termotecnici;   
-Industrializzazione edilizia;   
-Infortunistica;   
-Inquinamenti e depurazione dell'ambiente;   
-Istituzioni di diritto pubblico e privato;   
-Lavorazioni meccaniche;   
-Lavorazioni per deformazione plastica;   
-Legislazione urbanistica;   
-Litologia e geologia;   
-Macchinario idraulico;   
-Macchine;   
-Macchine elettriche;   
-Macchine per la lavorazione dei metalli;   
-Macchine speciali;   
-Materiali e componenti per la termotecnica;   
-Materiali per l'elettrotecnica;   
-Meccanica agraria;   
-Meccanica applicata alle macchine;   
-Meccanica applicata alle macchine e macchine;   
-Meccanica delle vibrazioni;   
-Meccanica dei fluidi;   
-Meccanica razionale;   
-Metallurgia e metallografia;   
-Metodi di osservazione e di misura;   
-Metodi matematici per l'ingegneria;   
-Microonde;   
-Misure di proprieta' termodinamiche e di trasporto;   
-Misure elettriche;   
-Misure elettroniche;   
-Misure idrauliche;   
-Misure meccaniche e termiche;   
-Misure sulle macchine e sugli impianti elettrici;   
-Misure sulle macchine e sugli impianti meccanici;   
-Modelli e simulazione di sistemi;   
-Motori a combustione interna per trazione;   
-Navigazione interna;   
-Opere in materiali sciolti;   
-Organizzazione del lavoro;   
-Organizzazione di officina;   
-Organizzazione e meccanizzazione del cantiere;   
-Ottica elettronica;   
-Ottimizzazione;   
-Pianificazione territoriale;   
-Previsioni e ricerche di mercato;   
-Principi di ingegneria chimica;   
-Principi di regolazione automatica;   
-Processi chimici bioinorganici;   
-Produzione di energia elettrica per conversione diretta;   
-Progettazione di sistemi numerici;   
-Progetti di macchine;   
-Progetti di strutture;   
-Programmazione e controllo della produzione;   
-Programmazione e controllo economico di gestione;   
-Propagazione ed antenne;   
-Propulsione marittima e aerea;   
-Prove ad alta tensione;   
-Radiotecnica;   
-Reattori chimici;   
-Regime e protezione dei litorali;   
-Ricerca operativa;   
-Rilievo e restauro;   
-Risorse idriche;   
-Scienza dei materiali;   
-Scienza delle costruzioni;   
-Siderurgia e fonderia;   
-Similitudine chimica ed impianti pilota;   
-Sintesi delle alte pressioni;   
-Sistemazione dei corsi d'acqua;   
-Sistemi combinatori e sequenziali;   
-Sistemi di trasmissione di immagini;   
-Sistemi informativi aziendali;   
-Statistica e calcolo delle probabilita';   
-Storia dell'architettura;   
-Storia dell'urbanistica;   
-Storia e metodologia della tecnica;   
-Strumentazione biomedica;   
-Strumentazione chimica;   
-Strumentazione per impianti chimici;   
-Strutture speciali in acciaio;   
-Strutture speciali in cemento armato;   
-Tecnica dei lavori idraulici;   
-Tecnica del freddo;   
-Tecnica della circolazione ed organizzazione dei trasporti;   
-Tecnica delle alte tensioni;   
-Tecnica delle costruzioni;   
-Tecnica delle fondazioni;   
-Tecnica del vuoto;   
-Tecnica ed economia dei trasporti;   
-Tecnica urbanistica;   
-Tecnologia degli alti polimeri;   
-Tecnologia dei fluidi non newtoniani;   
-Tecnologia dei materiali e chimica applicata;   
-Tecnologia dei materiali inorganici;   
-Tecnologia delle reazioni organiche;   
-Tecnologia del petrolio;   
-Tecnologie elettriche;   
-Tecnologie elettroniche;   
-Tecnologie meccaniche;   
-Telecomunicazioni;   
-Telefonia e trasmissione dati;   
-Teoria dei processi aleatori;   
-Teoria dei segnali;   
-Teoria dei sistemi;   
-Teoria della identificazione;   
-Teoria delle decisioni;   
-Teoria delle reti elettriche;   
-Teoria e sviluppo dei processi chimici;   
-Termodinamica applicata;   
-Topografia;   
-Trasmissione dell'energia elettrica;   
-Trasporti aerei;   
-Trasporti marittimi;   
-Trasporti terrestri;   
-Trazione elettrica;   
-Vettori e veicoli spaziali;   
-Viabilita' e traffico.   
-Art. 181. - Gli insegnamenti si svolgono sotto forma di lezioni e di esercitazioni pratiche di calcolo, disegno, progettazione, sperimentazione.   
-La frequenza alle lezioni ed alle esercitazioni e' attestata con le modalita' disposte dal consiglio di facolta'.   
-Art. 182. - Il consiglio di facolta' delibera sulle domande di trasferimento da uno ad altro corso di laurea, nonche' sui piani di studio degli studenti provenienti da altre sedi o facolta'.   
-Art. 183. - Gli esami di profitto possono avere forma orale e scritta ed essere integrati da prove grafiche e di laboratorio; possono comprendere la discussione di elaborati, progetti ed esperienze svolti dal candidato sotto la direzione ed il controllo degli insegnanti.   
-Art. 184. - Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti prescritti per il corso di laurea prescelto. Lo studente deve presentare allo esame uno o piu' elaborati, attinenti alle materie della specialita' in cui intende laurearsi, svolti sotto il controllo degli insegnanti di tali materie, con le modalita' stabilite dal consiglio di facolta'.   
-L'esame di laurea consiste nella discussione di detti elaborati, estesa in modo da accertare le cognizioni del candidato nelle materie fondamentali ed in quelle speciali attinenti alla laurea da lui scelta.   
-Il consiglio di facolta' puo' anche disporre un accertamento della preparazione dello studente prima della laurea. Tale accertamento non ha carattere eliminatorio.   
-Art. 185. - La facolta' e' articolata in istituti, da attuare, previo parere favorevole del consiglio di amministrazione, nell'ambito del seguente elenco:   
+Art. 128. - Il biennio di studi propedeutici comprende i seguenti insegnamenti comuni a tutti i corsi di laurea:  
+1° anno:  
+1) Analisi matematica I;  
+2) Geometria I;  
+3) Fisica I;  
+4) Chimica;  
+5) Disegno I;  
+2° anno:  
+1) Analisi matematica II;  
+2) Meccanica razionale;  
+3) Fisica II:  
+4) Disegno semestrale;  
+5) Geometria II (semestrale).  
+Oltre ai predetti insegnamenti, gli studenti devono iscriversi ad un insegnamento distinto per corsi di laurea come sotto specificato, e sostenere il relativo esame.  
+Per il corso di laurea in ingegneria civile: Litologia e Geologia.  
+Per i corsi di laurea in ingegneria meccanica, elettrotecnica, elettronica: Tecnologia generale dei materiali.  
+Per il corso di laurea in ingegneria, chimica: Chimica organica.  
   
-Biblioteca centrale;   
-Istituto di architettura e di urbanistica;   
-Istituto di chimica per ingegneria;   
-Istituto di chimica industriale;   
-Istituto di costruzioni marittime e di geotecnica;   
-Istituto di costruzioni, ponti e strade;   
-Istituto di disegno;   
-Istituto di elettrotecnica e di elettronica;   
-Istituto di fisica per ingegneria;   
-Istituto di fisica tecnica;   
-Istituto di idraulica;   
-Istituto di impianti chimici;   
-Istituto di macchine;   
-Istituto di matematica applicata;   
-Istituto di meccanica applicata alle macchine;   
-Istituto di organizzazione aziendale;   
-Istituto di scienza delle costruzioni ed annesso laboratorio per le prove di materiali da costruzione;   
-Istituto di topografia.   
-In rapporto alle esigenze funzionali, gli istituti possono essere raggruppati, per deliberazione del consiglio di facolta' approvata dal consiglio di amministrazione.   
-A ciascun istituto, o gruppo di istituti, e' preposto un direttore, designato dal consiglio di facolta'.   
-Art. 186. - Alla facolta' di ingegneria sono annessi corsi di perfezionamento in alcune discipline (vedi titolo XIX).   
-Gli articoli da 348 a 368, relativi ai corsi di perfezionamento ed alla scuola di specializzazione in organizzazione aziendale, sono abrogati e sostituiti dai seguenti con lo spostamento della numerazione degli articoli successivi.   
-Titolo XIX   
-Art. 348. - Sono annessi alla facolta' di ingegneria i seguenti corsi di perfezionamento, la cui attuazione viene decisa anno per anno dal consiglio di facolta':   
-1) Corso di perfezionamento in idraulica sperimentale presso l'istituto di idraulica;   
-2) Corso di perfezionamento in idrografia e idrologia, presso l'istituto di idraulica;   
-3) Corso di perfezionamento in tecnica del traffico, presso l'istituto di costruzioni, ponti e strade;   
-4) Corso di perfezionamento in tecnica motoristica, presso l'istituto di macchine;   
-5) Corso di perfezionamento in tecnica del freddo, presso l'istituto di fisica tecnica;   
-6) Corso di perfezionamento in elettrotecnica sperimentale, presso l'istituto di elettrotecnica e di elettronica;   
-7) Corso di perfezionamento in elettronica sperimentale, presso l'istituto di elettrotecnica e di elettronica;   
-8) Corso di perfezionamento in chimica industriale, presso l'istituto di chimica industriale;   
-9) Corso di perfezionamento in sistemi di controllo, presso l'istituto di elettrotecnica e di elettronica;   
-10) Corso di perfezionamento in sistemi di elaborazione e trasmissione dell'informazione, presso lo istituto di elettrotecnica e di elettronica;   
-11) Corso di perfezionamento in ingegneria del territorio, presso l'istituto di architettura ed urbanistica;   
-12). Corso di perfezionamento in geotecnica, presso l' istituto di costruzioni marittime e geotecnica.   
-Art. 349. - I corsi hanno la durata di un anno accademico e sono diretti dai rispettivi direttori d'istituto o da professori ufficiali da essi delegati con approvazione del consiglio.   
-Art. 350. - Titoli di ammissione ai corsi sono, di regola, i seguenti:   
-« Idraulica sperimentale » e « idrografia e idrologia »: laurea in ingegneria civile, elettrotecnica o meccanica;   
-per « tecnica del traffico »: laurea in ingegneria civile o meccanica;   
-per « tecnica motoristica »: laurea in ingegneria meccanica;   
-per «tecnica del freddo »: laurea in ingegneria meccanica, elettrotecnica o chimica;   
-per «elettrotecnica sperimentale» o «elettronica sperimentale »: laurea in ingegneria elettrotecnica od elettronica;   
-per «chimica industriale»: laurea in ingegneria chimica, in chimica o in chimica industriale;   
-per «sistemi di controllo» e « sistemi di elaborazione e trasmissione dell'informazione »: laurea in ingegneria elettrotecnica, elettronica, meccanica, in matematica o in fisica;   
-per « ingegneria del territorio »: laurea in ingegneria civile, elettronica, in matematica, in scienze statistiche, in scienze economiche e commerciali, in architettura;   
-per «geotecnica »: laurea in ingegneria civile,   
-Art. 351. - Il numero massimo degli iscritti a ciascun corso viene fissato per ogni anno accademico dal consiglio di facolta' che giudica anche dell'accettazione delle domande di iscrizione.   
-Il consiglio di facolta' puo', caso per caso, deliberare su proposta del direttore del corso, sull'ammissione di laureati in discipline diverse da quelle previste nonche' di laureati all'estero.   
-Art. 352. - Le modalita' di iscrizione e di svolgimento di ciascun corso sono approvate anno per anno con delibere del consiglio di facolta' su proposta del direttore del corso e sono rese note con apposito comunicato.   
-Art. 353. - Il profitto conseguito dall'allievo nei vari insegnamenti e l'eventuale attivita' di ricerca sperimentale vengono valutati in una o piu' prove d'esame da commissioni, composte dal direttore del corso, che ne e' il presidente, e da due membri designati dal consiglio di facolta'. L'esito favorevole della prova finale viene riconosciuto mediante rilascio di un certificato, attestante la specializzazione nella disciplina cui il corso si intitola.   
-Art. 354. - Le tasse di iscrizione e le soprattasse sono fissate in L. 40.000 annue; i contributi vengono annualmente fissati dal consiglio di amministrazione, su proposta del consiglio di facolta'.   
-Scuola di specializzazione in organizzazione aziendale   
-Art. 355. - Alla facolta' di ingegneria dell'Universita' degli studi di Padova e' annessa la scuola di specializzazione in organizzazione aziendale, con il compito di diffondere e promuovere la conoscenza dei principi e delle tecniche dell'organizzazione e della conduzione di imprese ed enti, e di effettuare ricerche nel campo degli studi di organizzazione aziendale.   
-Il funzionamento della scuola e' assicurato dal consorzio universitario per gli studi di organizzazione aziendale, nel seguito denominato CUOA, costituito presso l'Universita' di Padova, con convenzione-statuto in data 20 luglio 1970, repertorio n. 1381.   
-Art. 356. - La scuola conferisce diplomi in organizzazione aziendale ed attestati di frequenza.   
-La durata dei corsi di diploma e' di due anni.   
-Art. 357. - Alla scuola possono essere iscritti laureati in universita' italiane e straniere.   
-Il consiglio della scuola puo' anche accogliere non laureati, con piani particolari di studio.   
-Il numero degli iscritti, per ciascun anno di corso, e' determinato dal consiglio di amministrazione del CUOA.   
-La selezione dei candidati e' fatta da una commissione nominata dal direttore della scuola e che decide a suo insindacabile giudizio.   
-Art. 358. - Per il conseguimento del diploma sono fondamentali i seguenti insegnamenti:   
-Comportamento organizzativo;   
-Finanza e controllo aziendale;   
-Marketing;   
-Organizzazione della produzione;   
-Organizzazione e politica aziendale;   
-Relazioni industriali;   
-Metodi quantitativi.   
-Altri insegnamenti possono essere attivati fra seguenti:   
-Analisi dei sistemi aziendali;   
-Analisi delle strutture distributive;   
-Automazione;   
-Dinamica di gruppo;   
-Economia delle aziende pubbliche;   
-Economia delle imprese bancarie; Economia ed organizzazione dellr aziende di distribuzione;   
-Economia industriale;   
-Finanziamenti di impresa;   
-Fondamenti di legislazione aziendale;   
-Informistica;   
-Istituzioni economiche europee;   
-L'azienda ed il contesto socio-economico;   
-Localizzazione industriale;   
-Marketing dei beni strumentali;   
-Marketing internazionale,   
-Matematiche aziendali;   
-Organizzazione del lavoro;   
-Politica sindacale;   
-Politiche di ricerca e sviluppo;   
-Politiche finanziarie internazionali;   
-Pubblicita' e promozione vendite;   
-Ricerca operativa;   
-Sistema tributario e decisioni aziendali;   
-Sistemi di elaborazione automatica delle informazioni;   
-Sviluppo tecnologico nell'impresa;   
-Tecnica della programmazione aziendale;   
-Tecnica delle prvisioni e ricerche di mercato;   
-Tecnica delle revisioni aziendali;   
-Tecniche di amministrazione del personale;   
-Teorie delle decisioni.   
-Il consiglio della scuola puo' stabilire particolari piani di studio, in relazione ai titoli di studio e professionali presentati dagli iscritti.   
-L'insegnamento delle materie sopra indicate e' impartito mediante analisi e discussioni di casi, esercitazioni pratiche, lezioni integrative, conferenze, partecipazione a progetti di ricerca.   
-Art. 359. - Il profitto degli allievi e' riconosciuto dai docenti con accertamenti durante il corso e mediante prove d'esame al termine di esso.   
-Al compimento del biennio, gli aspiranti al diploma debbono sostenere un colloquio generale e la discussione di una dissertazione scritta approvata da un docente della scuola.   
-La commissione per l'esame di diploma e' composta dal direttore della scuola, che la presiede, da quattro docenti di essa e da due esperti in orgamzzazione aziendale.   
-Agli iscritti sprovvisti di laurea o che abbiano seguito un piano di studi particolare viene rilasciato un attestato di frequenza con l'indicazione degli esami superati.   
-Art. 360. - Gli organi della scuola sono:   
-1) il direttore;   
-2) il consiglio.   
-Il direttore della scuola viene nominato dal rettore dell'Universita', su proposta del consiglio di amministrazione del CUOA. Egli dura in carica un biennio e puo' essere confermato; a uno dei docenti puo' essere conferita la qualifica di vice direttore.   
-Il consiglio e' formato, oltre che dal direttore che lo presiede dai docenti incaricati degli insegnamenti fondamentali, nominati dal rettore dell'Universita' su proposta dei direttore della scuola, sentito il consiglio della facolta' di ingegneria, approvata dal consiglio di amministrazione del CUOA.   
-Il consiglio coordina ed approva i programmi d'insegnamento e delibera in ordine a tutti i problemi specifici della didattica anche per quanto concerne la disciplina, e fissa i criteri per la selezione dei candidati per ciascun anno di corso.   
-Art. 361. - I docenti della scuola possono essere coadiuvati, nell'attivita' di insegnamento e di ricerca, da collaboratori cui vengono affidati compiti particolari dal direttore, d'intesa con il consiglio della scuola e con l'approvazione del consiglio di amministrazione del CUOA.   
-Art. 362. - Gli iscritti alla scuola sono tenuti al versamento della tassa di iscrizione di L. 50.000 annue e dei contributi proposti dal consiglio di amministrazione del CUOA, nel rispetto dei regolamenti dell'Universita' degli studi di Padova.   
-II presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.   
+Art. 129. - Nel triennio gli studi applicativi per il corso di laurea in ingegneria civile (sezione edile, idraulica trasporti) sono obbligatori i seguenti insegnamenti comuni a tutte le sezioni:  
+1) Scienza delle costruzioni;  
+2) Meccanica applicata alle macchine e macchine;  
+3) Fisica tecnica;  
+4) Elettrotecnica:  
+5) Idraulica;  
+6) Tecnologie dei materiali e chimica applicata;  
+7) Tecnica delle costruzioni;  
+8) Architettura tecnica;  
+9) Topografia:  
+10) Costruzioni idrauliche;  
+11) Costruzione di strade, ferrovie ed aeroporti;  
+12) Architettura e Urbanistica tecniche;  
+13) Geotecnica;  
+14) Materie giuridiche ed economiche;  
+15) Estimo.  
+Sono inoltre obbligatori:  
+nella sezione di ingegneria civile - Sezione edile:  
+16) Architettura e composizione architettonica;  
+17) Ponti;  
+18) Impianti tecnologici per l'edilizia;  
+19) Composizione urbanistica:  
+e a scelta dello studente:  
+1° gruppo:  
+20) Storia dell'architettura antica, e moderna (semestrale);  
+20) Tecnica della circolazione stradale (semestrale);  
+2° gruppo:  
+20) Storia, dell'architettura moderna e contemporanea (semestrale);  
+20) Unificazione e meccanizzazione dell'azienda edile (semestrale).  
+nella sezione di ingegneria civile - sezione idraulica:  
+16) Idromeccanica applicata;  
+17) Costruzioni marittime;  
+18) Impianti idraulici (semestrale);  
+19) Idraulica agraria;  
+19') Idrografia (semestrale).  
+Sono inoltre previsti i seguenti gruppi di materie a scelta, dello studente:  
+1° gruppo:  
+20) Igiene applicata all'ingegneria (semestrale);  
+20') Depurazione e potabilizzazione delle acque (semestrale);  
+2° gruppo:  
+20) Idraulica fluviale e navigazione interna semestrale;  
+20') Tecnologia ed organizzazione delle costruzioni idrauliche (semestrale);  
+nella sezione di ingegneria civile - sezione trasporti:  
+16) Ponti;  
+17) Costruzioni marittime;  
+18) Tecnica ed economia dei trasporti;  
+19) Tecnica della circolazione stradale;  
+e a scelta dello studente:  
+1° gruppo:  
+20) Complementi di costruzioni in cemento armato (semestrale):  
+20') Prove e misure sulle costruzioni e sui ponti semestrale;  
+2° gruppo:  
+20) Macchine stradali e organizzazione del cantiere semestrale;  
+20') Apparecchi di sollevamento e trasporto (semestrale).  
+Nel triennio di studi applicativi per il corso di laurea in ingegneria meccanica sono obbligatori i seguenti insegnamenti:  
+1) Scienza delle costruzioni;  
+2) Meccanica applicata alle macchine;  
+3) Fisica tecnica,  
+4) Elettrotecnica;  
+5) Idraulica,  
+6) Chimica applicata:  
+7) Macchine:  
+8) Costruzioni di macchine;  
+9) Impianti meccanici;  
+10) Tecnologia meccanica;  
+11) Termodinamica applicata;  
+12) Progetti di macchine;  
+13) Macchine speciali;  
+14) Misure meccaniche;  
+15) Costruzioni industriali;  
+16) Scienza dei materiali;  
+17) Meccanica delle vibrazioni;  
+18) Economia ed organizzazione aziendale.  
+Sono inoltre previsti i seguenti gruppi di materie a scelta dello studente:  
+1° gruppo:  
+19) Tecnica ed economia dei trasporti;  
+20) Propulsione marittima, aerea spaziale;  
+2° gruppo:  
+19) Centrali elettriche;  
+20) Impianti nucleari;  
+3° gruppo:  
+19) Controlli automatici;  
+20) Tecnica del freddo;  
+4° gruppo:  
+19) Aerodinamica;  
+20) Controlli automatici.  
+Nel triennio di studi applicativi per il corso di laurea in ingegneria elettrotecnica sono obbligatori i seguenti insegnamenti:  
+1) Scienza delle costruzioni;  
+2) Meccanica applicata alle macchine;  
+3) Fisica tecnica;  
+4) Elettrotecnica;  
+5) Idraulica;  
+6) Misure elettriche;  
+7) Macchine;  
+8) Macchine elettriche;  
+9) Impianti elettrici;  
+10) Elettronica applicata;  
+11) Controlli automatici;  
+12) Trasmissione dell'energia elettrica:  
+13) Complementi di matematica (semestrale);  
+13') Materiali per l'Elettrotecnica (semestrale);  
+14) Comunicazioni elettriche;  
+15) Misure sulle macchine e sugli impianti;  
+16) Economia ed organizzazione aziendale;  
+a scelta dello studente:  
+1° gruppo:  
+17) Costruzioni elettromeccaniche;  
+18) Grandi utilizzazioni (semestrale);  
+18) Trazione elettrica (semestrale);  
+2° gruppo:  
+17) Centrali elettriche;  
+18) Impianti nucleari.  
+Nel triennio di studi applicativi per il corso di laurea in ingegneria elettronica sono obbligatori i seguenti insegnamenti:  
+1) Scienza delle costruzioni:  
+2) Meccanica delle macchine e macchine;  
+3) Fisica tecnica;  
+4) Elettrotecnica;  
+5) Campi elettromagnetici e circuiti;  
+6) Misure elettriche;  
+7) Elettronica applicata;  
+8) Comunicazioni elettriche;  
+9) Controlli automatici;  
+10) Macchine elettriche;  
+11) Radiotecnica,  
+12) Complementi di matematica;  
+13) Materiali per l'elettrotecnica;  
+14) Impianti elettrici;  
+15) Misure elettroniche;  
+16) Tecnologie elettroniche;  
+17) Economia ed organizzazione aziendale;  
+a scelta dello studente:  
+1° gruppo:  
+18) Telefonia e telegrafia;  
+19) Tecnica delle iperfrequenze;  
+2° gruppo:  
+18) Tecniche elettroniche speciali;  
+19) Impianti nucleari.  
+Nel triennio di studi applicativi per il corso di laurea in ingegneria chimica sono obbligatori i seguenti insegnamenti:  
+1) Scienza delle costruzioni;  
+2) Meccanica applicata alle macchine;  
+3) Fisica tecnica;  
+4) Elettrotecnica;  
+5) Chimica fisica;  
+6) Chimica applicata;  
+7) Macchine;  
+8) Principi di ingegneria, chimica;  
+9) Chimica industriale;  
+10) Impianti chimici;  
+11) Termodinamica applicata;  
+12) Chimica analitica;  
+13) Teoria e sviluppo dei processi chimici;  
+14) Scienza dei materiali;  
+15) Economia ed organizzazione aziendale.  
+Sono inoltre previsti i seguenti gruppi di materie a scelta dello studente:  
+1° gruppo:  
+16 Mineralogia applicata;  
+17) Metallurgia;  
+18) Siderurgia e fonderia;  
+2° gruppo:  
+16) Tecnologie delle reazioni organiche;  
+17) Tecnologia degli alti polimeri;  
+18) Tecnologia del petrolio;  
+3° gruppo:  
+16) Processi e materiali nucleari;  
+17) Controlli automatici.  
+Il Consiglio della facolta' determina, anno per anno, nel piano degli studi, la distribuzione delle materie di insegnamento nei diversi anni di corso, stabilisce le precedenze di esame, nonche' la durata e il programma di ciascun insegnamento e delle relative esercitazioni.  
+Il numero complessivo degli insegnamenti annuali (o equivalenti) per ciascun corso quinquennale di laurea non sara' superiore a 30 ne' inferiore a 27. Un insegnamento biennale equivale a due insegnamenti annuali, due insegnamenti semestrali equivalgono ad un insegnamento annuale.  
   
-Dato a Roma, addi' 31 ottobre 1973   
-LEONE   
-MALFATTI   
-Visto. il G1Iardasigilli: ZAGARI   
-Registrato alla Corte del conti, addi' 31 maggio 1974   
-Atti di Governo, registro n. 3, foglio n. 53. - SCIARREITA   
+Art. 130. - Gli insegnamenti si svolgono sotto forma (i lezione e di esercitazioni pratiche di calcolo, disegno, progettazione, rilevamento o di laboratorio, che formano parte integrante dei rispettivi corsi.  
+  
+Art. 131. - Lo studente deve frequentare lezioni e le esercitazioni dei corsi ai quali si sia iscritto, ed ottenere la relativa attestazione. Per quanto concerne gli insegnamenti a scelta dello studente, tale scelta e' impegnativa per ciascun gruppo di materie, senza possibilita' di sostituire singole materie di un gruppo con altre prese da gruppi diversi.  
+  
+Art. 132. - Gli studenti del primo anno di corso potranno ottenere l'iscrizione al secondo anno qualora abbiano superato almeno due fra i quattro seguenti esami: Analisi matematica I; Geometria I; Fisica I; Chimica.  
+Al termine del secondo anno di corso lo studente, per essere ammesso al terzo anno, dovra' aver superato tutti gli esami delle discipline del primo e del secondo anno comuni a tutti i corsi, di laurea.  
+  
+Art. 133. - Il Consiglio della facolta' delibera sulle domande di passaggio da uno ad altro corso di laurea nonche' sull'ulteriore piano di studi degli studenti che si trasferiscono da altra Facolta'.  
+  
+Art. 134. - Gli esami di profitto hanno di regola Forma orale e possono essere integrati da prove scritte 3 grafiche o di laboratorio. Possono comprendere anche la discussione di elaborati, progetti od esperienze svolte dal candidato sotto la direzione ed il controllo degli insegnanti.  
+  
+Art. 135. - Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti prescritti per il corso di laurea prescelto. Lo studente deve svolgere per la laurea un elaborato consistente nello sviluppo di un progetto specifico, attinente alle materie della specialita' in cui egli intende laurearsi, sotto il controllo di insegnanti di tali materie, e con le modalita' stabilite dal Consiglio della facolta'.  
+Tale elaborato potra' essere sostituito da una tesi di carattere teorico, sperimentale o monografico da svolgersi sotto la guida di uno o piu' relatori.  
+  
+Art. 136. - L'esame di laurea consiste nella discussione dell'elaborato e della tesi, estesa in modo da accertare le cognizioni del candidato nelle materie fondamentali, ed in quelle speciali attinenti alla laurea da lui scelta.  
+Il Consiglio della Facolta' puo' anche disporre un accertamento della preparazione dello studente prima della laurea. Tale accertamento non ha carattere eliminatorio.  
+  
+Art. 137. - Appartengono alla Facolta' di ingegneria i seguenti istituti Biblioteca centrale;  
+Istituto di architettura;  
+Istituto di costruzioni marittime;  
+Istituto di costruzioni, ponti e strade;  
+Istituto di chimica industriale;  
+Istituto di elettrotecnica ed elettronica;  
+Istituto di fisica tecnica;  
+Istituto di idraulica e costruzioni idrauliche;  
+Istituto di macchine;  
+Istituto di meccanica applicata alle macchine;  
+Istituto di scienza delle costruzioni e annesso laboratorio per le prove di materiali da costruzione;  
+Istituto di topografia;  
+Istituto di impianti industriali chimici.  
+Gli Istituti della Facolta' possono essere suddivisi in sezioni per deliberazione del Consiglio della facolta' approvata dal Consiglio di amministrazione.  
+E' preposto un direttore designato dal Consiglio della facolta' a ciascun istituto o sezione di istituto.  
+  
+Art. 138. - Alla Facolta' di ingegneria sono annessi corsi di perfezionamento in alcune discipline (Crr. Titolo XVI).  
+Il presente, decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.  
+  
+Dato a Roma, addi' 30 ottobre 1960  
+  
+GRONCHI  
+  
+BOSCO   
+Visto, il Guardasigilli GONELLA  
+Registrato alla Corte dei conti, addi' 31 maggio 1961  
+Atti del Governo, registro n. 136, foglio n. 189. - VILLA  

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1979 n. 489
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 luglio 1978 n. 446
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1979 n. 489
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 luglio 1978 n. 446
 =============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad acquistare un immobile.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-489. Decreto del Presidente della Repubblica 4 agosto 1979, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad acquistare, al prezzo di L. 21.000.000, un appartamento di proprieta' del sig. Cocilio Paolo, sito in Torino, corso Vittorio Emanuele, 63, distinto al nuovo catasto edilizio urbano alla partita 15193, foglio 194, mappale 57 sub 13, da destinare ad ampliamento della sede sociale di Torino.  
+446. Decreto del Presidente della Repubblica 13 luglio 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad acquistare, al prezzo di L. 11.500.000, dal sig. Morreale Carmelo, un appartamento sito in Asti, via Q. Sella n. 39/41, descritto al nuovo catasto edilizio urbano alla partita 13417 foglio 77/6 n. 1154 sub 17 e n. 1102, da adibire a sede sociale della sezione di Asti.  
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 3 ottobre 1979  
-Registro n. 7 Presidenza, foglio n. 119
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 8 agosto 1978  
+Registro n. 6 Presidenza, foglio n. 41

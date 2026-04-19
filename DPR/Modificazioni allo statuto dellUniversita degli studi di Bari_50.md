@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1968 n. 1131
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 maggio 1968 n. 795
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1968 n. 1131
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 maggio 1968 n. 795
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -14,9 +14,11 @@ Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio dec
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Visto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
@@ -30,132 +32,40 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-L'art. 197, relativo alla scuola di specializzazione in medicina interna e' abrogato e sostituito dal seguente:
+Art. 86, relativo al corso di laurea in scienze naturali e' modificato nel senso che il quinto e il sesto comma sono abrogati e sostituiti dal seguente:
 
-Scuola di specializzazione in medicina interna
+"Gli insegnamenti biennali di botanica, di zoologia e di fisiologia generale importano un esame alla fine di ogni anno: il primo sulla parte generale, il secondo sulla parte sistematica (per i primi due insegnamenti)".
 
-Art. 197. - Per essere ammessi alla scuola occorre sostenere un esame di ammissione.
+Art. 88, relativo al corso di laurea in scienze biologiche e' modificato nel senso che il quinto e il sesto comma sono abrogati e sostituiti dal seguente:
 
-Il numero complessivo degli specializzandi non puo' superare quello di venticinque (cinque per ciascun anno di corso).
+"Gli insegnamenti biennali di botanica, di zoologia e di fisiologia generale importano un esame alla fine di ogni anno: il primo sulla parte generale, il secondo sulla parte sistematica (per i primi due insegnamenti)".
 
-La durata del corso e' di cinque anni.
+Art. 117, relativo al corso di laurea in ingegneria civile (sez. edile, idraulica e trasporti) e' modificato nel senso che l'insegnamento obbligatorio sul piano della facolta' di "geologia applicata" e' soppresso e sostituito da quello di "geologia applicata all'ingegneria".
 
-Non sono acconsentite abbreviazioni di corso.
+Art. 119, relativo alle norme degli esami del corso di laurea in ingegneria civile e' modificato nel senso che l'ultimo comma e' abrogato e sostituito dal seguente:
 
-E' obbligatorio l'internato in clinica medica per lo intero anno solare e tenuto conto delle ferie stabilite per legge.
+"L'esame di laurea consistera' nella discussione di un progetto particolare presentato come tesi".
 
-Gli insegnamenti della scuola sono i seguenti:
+Art. 120, relativo al corso di laurea in ingegneria elettrotecnica e' modificato nel senso che gli insegnanti obbligatori sul piano della facolta' di "impianti elettrici II" e "misure elettriche II" sono soppressi e sostituiti dai seguenti:
 
-1° Anno:
+"Impianti di trasformazione e distribuzione della energia elettrica";
 
-Malattie infettive, disreattive e del sangue;
-
-Istituzioni di terapia;
-
-Anatomia ed istologia patologica (1° corso);
-
-Clinica medica generale e terapia medica (1° corso).
-
-2° Anno:
-
-Malattie dell'apparato cardiovascolare;
-
-Microbiologia e sierologia;
-
-Chimica clinica;
-
-Anatomia ed istologia patologica (2° corso);
-
-Clinica medica generale e terapia medica (2° corso).
-
-3° Anno:
-
-Malattie dell'apparato digerente;
-
-Malattie renali;
-
-Clinica medica generale e terapia medica (3° anno).
-
-4° Anno:
-
-Malattie dell'apparato respiratorio;
-
-Malattie del sistema nervoso;
-
-Clinica medica generale e terapia medica (4° corso).
-
-5° Anno:
-
-Malattie del ricambio;
-
-Malattie delle ghiandole endocrine;
-
-Clinica medica generale e terapia medica (5° corso).
-
-Due insegnamenti complementari a scelta fra i seguenti:
-
-Parassitologia medica (da frequentarsi al 1° anno);
-
-Semeiotica dermatologica (da frequentarsi al 3° anno);
-
-Radiologia (da frequentarsi al 5° anno).
-
-L'esame di diploma di specializzazione consiste nella discussione di una dissertazione scritta su argomento preventivamente concordato con il direttore della scuola.
-
-Gli articoli 219, 220, 221, 222, 223 concernenti la scuola di specializzazione in anestesiologia, che viene trasformata con il presente decreto in scuola di specializzazione in anestesiologia e rianimazione, sono abrogati e sostituiti dai seguenti:
-
-Scuola di specializzazione in anestesiologia e rianimazione
-
-Art. 219. - La scuola si propone di far perfezionare gli aspiranti allo studio ed alla pratica dell'anestesiologia e della rianimazione.
-
-La scuola e' sotto la direzione del direttore dell'Istituto di clinica chirurgica ed e' affidata per l'insegnamento delle materie specifiche e per la parte tecnica ad un docente di anestesiologia, con funzioni di vicedirettore. Disporra' del reparto di anestesiologia, del reparto di rianimazione, dei reparti clinici, dei laboratori e delle attrezzature dell'istituto stesso, ed eventualmente potra' utilizzare i reparti e le attrezzature di altri istituti.
-
-Art. 220. - La selezione degli aspiranti ai fini della ammissione sara' fatta in base alla valutazione dei titoli ed, eventualmente, a mezzo di esami.
-
-Non saranno concesse abbreviazioni di corso, fatta eccezione per i candidati i quali, gia' in possesso del diploma di specializzazione in anestesiologia, possono essere ammessi al terzo anno per ottenere il completamento.
-
-Art. 221. - La durata della scuola e' di tre anni.
-
-Il numero massimo complessivo di iscritti per tutti e tre gli anni di corso sara' di 45.
-
-L'obbligo della frequenza ai corsi e' categorico, e gli iscritti sono tenuti non soltanto a presenziare a lezioni ed a prendere parte ad esercitazioni, ma anche a svolgere un internato.
-
-Art. 222. - Le materie d'insegnamento sono le seguenti:
-
-1° Anno:
-
-Anatomia, biochimica, farmacologia, fisica, fisiologia applicata alla anestesiologia e rianimazione;
-
-Anestesiologia (1° corso);
-
-Tecniche chirurgiche di interesse anestesiologico;
-
-Aspetti medico-legali dell'anestesia e della rianimazione.
-
-2° Anno:
-
-Anestesiologia (2° corso);
-
-Terapia antalgica;
-
-Rianimazione (1° corso).
-
-L'esame di diploma di specializzazione consiste nella discussione di una dissertazione scritta su argomento precedentemente concordato con il direttore della scuola.
+"Misure sulle macchine elettriche".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 24 settembre 1968
+Dato a Roma, addi' 28 maggio 1968
 
 SARAGAT
 
-SCAGLIA
+GUI
 
 Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti addi' 2 novembre 1968 Atti del Governo, registro n. 223, foglio n. 80. - GRECO
+alla Corte dei conti, addi' 17 luglio 1968 Atti del Governo, registro n. 221, foglio n. 44. - GRECO
 
 Art. 1
 ------
@@ -164,8 +74,9 @@ Art. 1
   
 Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Visto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -174,76 +85,27 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-L'art. 197, relativo alla scuola di specializzazione in medicina interna e' abrogato e sostituito dal seguente:  
-  
-Scuola di specializzazione in medicina interna  
-  
-Art. 197. - Per essere ammessi alla scuola occorre sostenere un esame di ammissione.  
-Il numero complessivo degli specializzandi non puo' superare quello di venticinque (cinque per ciascun anno di corso).  
-La durata del corso e' di cinque anni.  
-Non sono acconsentite abbreviazioni di corso.  
-E' obbligatorio l'internato in clinica medica per lo intero anno solare e tenuto conto delle ferie stabilite per legge.  
-Gli insegnamenti della scuola sono i seguenti:  
-1° Anno:  
-Malattie infettive, disreattive e del sangue;  
-Istituzioni di terapia;  
-Anatomia ed istologia patologica (1° corso);  
-Clinica medica generale e terapia medica (1° corso).  
-2° Anno:  
-Malattie dell'apparato cardiovascolare;  
-Microbiologia e sierologia;  
-Chimica clinica;  
-Anatomia ed istologia patologica (2° corso);  
-Clinica medica generale e terapia medica (2° corso).  
-3° Anno:  
-Malattie dell'apparato digerente;  
-Malattie renali;  
-Clinica medica generale e terapia medica (3° anno).  
-4° Anno:  
-Malattie dell'apparato respiratorio;  
-Malattie del sistema nervoso;  
-Clinica medica generale e terapia medica (4° corso).  
-5° Anno:  
-Malattie del ricambio;  
-Malattie delle ghiandole endocrine;  
-Clinica medica generale e terapia medica (5° corso).  
-Due insegnamenti complementari a scelta fra i seguenti:  
-Parassitologia medica (da frequentarsi al 1° anno);  
-Semeiotica dermatologica (da frequentarsi al 3° anno);  
-Radiologia (da frequentarsi al 5° anno).  
-L'esame di diploma di specializzazione consiste nella discussione di una dissertazione scritta su argomento preventivamente concordato con il direttore della scuola.  
-Gli articoli 219, 220, 221, 222, 223 concernenti la scuola di specializzazione in anestesiologia, che viene trasformata con il presente decreto in scuola di specializzazione in anestesiologia e rianimazione, sono abrogati e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in anestesiologia e rianimazione  
-  
-Art. 219. - La scuola si propone di far perfezionare gli aspiranti allo studio ed alla pratica dell'anestesiologia e della rianimazione.  
-La scuola e' sotto la direzione del direttore dell'Istituto di clinica chirurgica ed e' affidata per l'insegnamento delle materie specifiche e per la parte tecnica ad un docente di anestesiologia, con funzioni di vicedirettore. Disporra' del reparto di anestesiologia, del reparto di rianimazione, dei reparti clinici, dei laboratori e delle attrezzature dell'istituto stesso, ed eventualmente potra' utilizzare i reparti e le attrezzature di altri istituti.  
-Art. 220. - La selezione degli aspiranti ai fini della ammissione sara' fatta in base alla valutazione dei titoli ed, eventualmente, a mezzo di esami.  
-Non saranno concesse abbreviazioni di corso, fatta eccezione per i candidati i quali, gia' in possesso del diploma di specializzazione in anestesiologia, possono essere ammessi al terzo anno per ottenere il completamento.  
-Art. 221. - La durata della scuola e' di tre anni.  
-Il numero massimo complessivo di iscritti per tutti e tre gli anni di corso sara' di 45.  
-L'obbligo della frequenza ai corsi e' categorico, e gli iscritti sono tenuti non soltanto a presenziare a lezioni ed a prendere parte ad esercitazioni, ma anche a svolgere un internato.  
-Art. 222. - Le materie d'insegnamento sono le seguenti:  
-1° Anno:  
-Anatomia, biochimica, farmacologia, fisica, fisiologia applicata alla anestesiologia e rianimazione;  
-Anestesiologia (1° corso);  
-Tecniche chirurgiche di interesse anestesiologico;  
-Aspetti medico-legali dell'anestesia e della rianimazione.  
-2° Anno:  
-Anestesiologia (2° corso);  
-Terapia antalgica;  
-Rianimazione (1° corso).  
-L'esame di diploma di specializzazione consiste nella discussione di una dissertazione scritta su argomento precedentemente concordato con il direttore della scuola.  
+Art. 86, relativo al corso di laurea in scienze naturali e' modificato nel senso che il quinto e il sesto comma sono abrogati e sostituiti dal seguente:  
+"Gli insegnamenti biennali di botanica, di zoologia e di fisiologia generale importano un esame alla fine di ogni anno: il primo sulla parte generale, il secondo sulla parte sistematica (per i primi due insegnamenti)".  
+Art. 88, relativo al corso di laurea in scienze biologiche e' modificato nel senso che il quinto e il sesto comma sono abrogati e sostituiti dal seguente:  
+"Gli insegnamenti biennali di botanica, di zoologia e di fisiologia generale importano un esame alla fine di ogni anno: il primo sulla parte generale, il secondo sulla parte sistematica (per i primi due insegnamenti)".  
+Art. 117, relativo al corso di laurea in ingegneria civile (sez. edile, idraulica e trasporti) e' modificato nel senso che l'insegnamento obbligatorio sul piano della facolta' di "geologia applicata" e' soppresso e sostituito da quello di "geologia applicata all'ingegneria".  
+Art. 119, relativo alle norme degli esami del corso di laurea in ingegneria civile e' modificato nel senso che l'ultimo comma e' abrogato e sostituito dal seguente:  
+"L'esame di laurea consistera' nella discussione di un progetto particolare presentato come tesi".  
+Art. 120, relativo al corso di laurea in ingegneria elettrotecnica e' modificato nel senso che gli insegnanti obbligatori sul piano della facolta' di "impianti elettrici II" e "misure elettriche II" sono soppressi e sostituiti dai seguenti:  
+"Impianti di trasformazione e distribuzione della energia elettrica";  
+"Misure sulle macchine elettriche".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 settembre 1968
+### Dato a Roma, addi' 28 maggio 1968
 
-SARAGAT SCAGLIA
+SARAGAT GUI
 
-Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti addi' 2 novembre 1968
+Visto, il Guardasigilli: GONELLA
 
-Atti del Governo, registro n. 223, foglio n. 80. - GRECO
+Registrato alla Corte dei conti, addi' 17 luglio 1968
+
+Atti del Governo, registro n. 221, foglio n. 44. - GRECO

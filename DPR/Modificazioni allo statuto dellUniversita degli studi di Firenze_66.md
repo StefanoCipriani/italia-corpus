@@ -1,92 +1,80 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 febbraio 1981 n. 556
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 399
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 febbraio 1981 n. 556
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 399
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Firenze e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA   
   
+Veduto lo statuto dell'Universita' di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Firenze e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
-Gli articoli da 184 a 190, relativi alla scuola di perfezionamento in studi politici internazionali, sono sostituiti dai seguenti:   
-Art. 184. - Alla scuola di perfezionamento in studi politici internazionali possono iscriversi i laureati italiani la cui preparazione scientifica sia ritenuta idonea dal consiglio della scuola.   
-Per essere ammessi alla scuola occorre aver superato, dinanzi ad una commissione presieduta dal direttore e composta di altri due professori della scuola, designati dal consiglio, un esame di ammissione, in base a criteri stabiliti dal consiglio della scuola, diretto ad accertare la cultura generale politico-internazionale del candidato e la sua conoscenza di lingue straniere.   
-Potranno essere ammessi laureati stranieri con sufficiente conoscenza della lingua italiana, la cui preparazione scientifica sia ritenuta idonea da una commissione designata dal consiglio della scuola.   
-Art. 185. - In casi eccezionali, tenuto conto degli studi compiuti, degli esami generali e speciali sostenuti e dei titoli conseguiti, per l'eventuale ammissione al secondo corso di candidati che abbiano conseguito titoli accademici all'estero si rinvia alle disposizioni pertinenti del [testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592).   
-Art. 186. - Il numero minimo e massimo degli iscritti verra' fissato di anno in anno, entro il mese di giugno, dal consiglio della scuola, su proposta del direttore, tenuto conto delle attrezzature didattiche e scientifiche della scuola, e sara' pubblicato nel manifesto che verra' affisso all'albo dell'Universita', della facolta' di scienza politiche e della scuola.   
-Art. 187. - Ai laureati italiani e stranieri ammessi alla scuola potranno essere assegnate borse di studio per frequentare la scuola e per studi all'estero.   
-Art. 188. - La scuola e' retta da un direttore, nominato per un biennio dal rettore dell'Universita' su proposta del consiglio della facolta' di scienze politiche "Cesare Alfieri".   
-La nomina dei professori incaricati degli insegnamenti, anche di cittadinanza straniera, e' fatta su proposta del direttore, dal consiglio di facolta' di scienze politiche.   
-Il consiglio della scuola e' costituito dal direttore e dai professori.   
-Il consiglio della scuola determina l'ordine degli studi e il regolamento didattico. Decide, inoltre, su ogni altra questione inerente alla carriera scolastica degli allievi e alla loro disciplina.   
-Art. 189. - La scuola rilascia, dopo due anni di corso e dopo che i candidati abbiano superato le prove nelle materie di cui al piano di studio approvato dal consiglio della scuola, nonche' dopo l'esito favorevole dell'esame di cui all'art. 195, un diploma di perfezionamento in studi politici internazionali.   
-La scuola puo' rilasciare, dopo un anno di corso e dopo che i candidati abbiano superato le prove nelle materie previste nei rispettivi piani di studio approvati dal consiglio della scuola, un attestato di frequenza e profitto.   
-Art. 190. - Gli insegnamenti della scuola sono i seguenti:   
-1° Anno:   
-problemi di diritto internazionale pubblico;   
-organizzazioni internazionali e comunitarie;   
-politica economica e finanziaria;   
-storia dell'eta' contemporanea;   
-storia delle relazioni internazionali;   
-teoria e prassi delle relazioni internazionali.   
-2° Anno:   
-problemi di diritto interno in materia internazionale;   
-economia internazionale;   
-teoria e politica dello sviluppo;   
-problemi politici e sociali internazionali;   
-le ideologie politiche nelle relazioni internazionali;   
-problemi di diritto pubblico comparato.   
-Art. 191. - Gli insegnamenti sono integrati da cicli di lezioni e seminari, nonche' da conferenze su particolari argomenti di attualita' afferenti agli studi economici, giuridici, politici, sociali e storici. Sono, inoltre, previsti viaggi di istruzione in Italia e all'estero ed esercitazioni linguistiche di laboratorio per l'approfondimento della terminologia tecnica.   
-All'inizio di ogni anno accademico il consiglio della scuola decide quali degli argomenti insegnati secondo le modalita' di cui al comma precedente possono essere inseriti nel piano di studi degli allievi come materie in ordine alle quali e' consentito sostenere l'esame al termine dell'anno accademico.   
-I piani di studio presentati dagli allievi e approvati dal consiglio della scuola dovranno prevedere dodici materie, delle quali almeno otto di cui all'art. 190 e non oltre quattro di quelle insegnate nei cicli di lezioni e seminari di cui ai commi precedenti.   
-Nei casi di frequenza annuale della scuola, previsti dagli articoli 185 e 189, comma secondo, i piani di studio dovranno prevedere sei materie delle quali non meno di quattro di cui all'art. 190 e non oltre due di cui al comma primo di questo articolo.   
-Art. 192. - La frequenza della scuola e' obbligatoria.   
-Non potra' essere rilasciata la firma di frequenza a quegli iscritti che non abbiano frequentato, con una assiduita' giudicata sufficiente dai singoli docenti, gli insegnamenti e le altre iniziative didattiche previste nei rispettivi piani di studi approvati dal consiglio della scuola.   
-Art. 193. - Ogni commissione per gli esami di profitto e' composta di tre professori designati dal direttore della scuola.   
-Art. 194. - Per l'ammissione al secondo corso, l'allievo deve aver superato gli esami scritti ed orali previsti nel suo piano di studi.   
-Art. 195. - L'esame di diploma consiste nella discussione orale di una memoria originale, il cui argomento deve essere preventivamente approvato dal direttore della scuola, dinanzi ad una commissione composta di cinque professori, compreso il direttore che la presiede.   
-La scuola puo' munirsi di un regolamento interno, proposto dal consiglio della scuola, approvato dal consiglio della facolta' di scienze politiche e ratificato dal consiglio di amministrazione dell'Universita'.   
+Decreta:   
+  
+Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 273 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunto il corso di perfezionamento in neonatologia.   
+Dopo l'art. 330, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione del corso di perfezionamento in neonatologia:   
+  
+Corso di perfezionamento in neonatologia   
+Art. 331. - E' istituito presso la facolta' di medicina e chirurgia un corso di perfezionamento in neonatologia, il corso ha fini di aggiornamento sul piano teorico, ma soprattutto di perfezionamento clinico-pratico nell'ambito della neonatologia.   
+Art. 332. - La durata del corso e' annuale. Possono essere ammessi al corso gli aspiranti gia' in possesso di un titolo di specializzazione in pediatria (in clinica pediatrica e/o in puericultura), conseguito presso una scuola di specializzazione.   
+Il numero degli ammessi e' stabilito in otto sulla base di esami e titoli.   
+Art. 333. - La direzione del corso e' affidata al professore di ruolo o fuori ruolo della materia del corso di perfezionamento o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Il direttore del corso e' coadiuvato da un consiglio direttivo composto dai direttori della clinica ostetrica e ginecologica, della clinica pediatrica e della puericultura.   
+Art. 334. - Le materie di insegnamento sono le seguenti:   
+1) clinica della gravidanza, del parto normale e a rischio;   
+2) fisiopatologia e teratologia embrio-fetale;   
+3) genetica della patologia cromosomica e delle malattie metaboliche congenite;   
+4) fisiologia neonatale;   
+5) immunologia neonatale;   
+6) biochimica neonatale;   
+7) farmacologia neonatale;   
+8) patologia neonatale;   
+9) diagnostica radiologica neonatale;   
+10) tecniche di laboratorio riguardanti la fisiologia e patologia neonatale;   
+11) assistenza al neonato sano e malato;   
+12) clinica e terapia neonatale;   
+13) rianimazione e cure intensive neonatali;   
+14) affezioni chirurgiche del neonato;   
+15) anatomia e patologia del feto e del neonato;   
+16) evoluzioni ed esiti della patologia feto-neonatale.   
+Le materie fondamentali saranno integrate a giudizio del consiglio direttivo, da conferenze su argomenti specialistici pertinenti a problemi di neonatologia e di profilassi dalla patologia perinatale.   
+Gli insegnamenti verranno impartiti attraverso lezioni, seminari, discussioni cliniche.   
+Art. 335. - L'allievo dovra' ottemperare all'obbligo di effettuare esercitazioni pratiche nei reparti.   
+In tale periodo egli esplichera' attivita' in sala parto e nelle diverse sezioni e servizi interni di assistenza e cura del neonato.  
+In particolare presso la sezione neonatale universitaria, la clinica ostetrico-ginecologica, la clinica pediatrica.   
+Art. 336. - Alla fine del corso l'allievo sosterra' un esame globale di profitto, con prove teoriche e pratiche e svolgera' una dissertazione scritta su argomento di attualita' in campo neonatologico, con relativa discussione dinanzi ad una commissione formata dal direttore e dagli insegnanti del corso.   
+La sessione di esami sara' unica alla fine del corso.   
+All'allievo che avra' completato le prove con esito favorevole verra' rilasciato un diploma di perfezionamento in neonatologia. Il diploma non comporta il diritto alla qualifica di specialista.   
+Art. 337. - Le tasse e i contributi dovuti dall'allievo ammesso al corso sono i seguenti:   
+a) una tassa di immatricolazione, nella misura di L. 7.000;   
+b) una tassa annuale di iscrizione, nella misura di L. 30.000;   
+c) una soprattassa annuale di esami di profitto, nella misura di L. 7.000;   
+d) contributi clinici e di laboratorio, nella misura stabilita dal consiglio di amministrazione per le scuole di specializzazione della facolta' di medicina e chirurgia;   
+e) la tassa di diploma e' fissata in L. 6.000 a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 febbraio 1981
+### Dato a Roma, addi' 11 maggio 1979
 
-PERTINI BODRATO
+PERTINI SPADOLINI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 26 settembre 1981
+Registrato alla Corte dei conti, addi' 28 luglio 1979
 
-Registro n. 90 Istruzione, foglio n. 226
+Registro n. 60 Istruzione, foglio n. 187

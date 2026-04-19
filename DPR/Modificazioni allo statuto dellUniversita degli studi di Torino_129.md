@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1963 n. 2185
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 luglio 1955 n. 785
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1963 n. 2185
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 luglio 1955 n. 785
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
@@ -10,65 +10,35 @@ Modificazioni allo statuto dell'Universita' degli studi di Torino.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e modificato con regio decreto 13 ottobre 127, n. 2758, e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1651](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1651), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica Istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 20 aprile 1939, n. 1118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1118) e modificato con i [regi decreti 12 gennaio 1941, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-01-12;34); [27 aprile 1942, n. 571](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;571); [5 settembre 1942, n. 1237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1237); [24 ottobre 1912, n. 1438; con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1912-10-24;1438) [4 febbraio 1947, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-02-04;196), e [7 marzo 1947, n. 1727, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-03-07;1727) [26 febbraio 1949, n. 430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;430); [21 aprile 1949, n. 613](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-21;613); [1 settembre 1949, n. 816](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-01;816); [13 marzo 1950, n. 599](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-03-13;599); [30 ottobre 1950, n. 1125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1125); [31 ottobre 1950, n. 1310](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1310); [30 giugno 1951, n. 1148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-30;1148); [27 ottobre 1951, n. 1794](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1794); [25 luglio 1952, n. 1352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1352); [16 ottobre 1952, n. 4554](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-16;4554); [26 ottobre 1952, n. 4506](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4506); [30 ottobre 1952, n. 4483](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-30;4483); [11 marzo 1953, n. 573](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;573); [11 marzo 1953, n. 576](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;576); [12 ottobre 1953, n. 1406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-10-12;1406); [2 marzo 1954, n. 181](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-02;181); [26 aprile 1954, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-04-26;741); [29 ottobre 1954, n. 1320](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-29;1320) e [1 marzo 1955, n. 221](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-03-01;221);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1502);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 37. - All'elenco degli insegnamenti complementari del corso di laurea in Chimica, sia per l'indirizzo organico biologico che per l'indirizzo inorganico-chimico-fisico, e' aggiunto quello di: "Chimica fisica tecnica".   
-Art. 38. - All'elenco degli insegnamenti complementari del corso di laurea in Chimica industriale e' aggiunto quello di "Chimica fisica tecnica".   
-Art. 44. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti i seguenti:   
-Statistica e biometria;   
-Sedimentologia;   
-Geologia regionale;   
-Vulcanologia;   
-Idrobiologia e pescicoltura;   
-Citologia;   
-Cristallochimica;   
-Entomologia;   
-Micro-paleontologia;   
-Mineralogia applicata.   
-Art. 46. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti i seguenti:   
-Biologia molecolare;   
-Cristallografia;   
-Endocrinologia comparata;   
-Fisiologia cellulare;   
-Paleobotanica;   
-Radiobiologia;   
-Idrobiologia e pescicoltura;   
-Entomologia;   
-Farmacologia;   
-Biometria.   
-Art. 48. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze geologiche sono aggiunti i seguenti:   
-Vulcanologia;   
-Geologia degli idrocarburi;   
-Geologia stratigrafica;   
-Geotecnica;   
-Mineralogia sistematica;   
-Petrografia applicata;   
-Paleobotanica.   
-Art. 56. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze agrarie e' aggiunto quello di: "Fisiopatologia vegetale" (semestrale).   
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+Art. 9. - Agli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di:  
+"diritto internazionale privato":  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 dicembre 1963
+### Dato a Roma, addi' 27 luglio 1955
 
-SEGNI GUI
+GRONCHI ROSSI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MORO
 
-Registrato alla Corte dei conti, addi' 13 febbraio 1964
+Registrato alla Corte dei conti, addi' 27 agosto 1955
 
-Atti del Governo, registro n. 181, foglio n. 2. - VILLA
+Atti del Governo, registro n. 92, foglio n. 116. - CARLOMAGNO

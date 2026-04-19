@@ -1,965 +1,136 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 aprile 1962 n. 292
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 giugno 1971 n. 619
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 aprile 1962 n. 292
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 giugno 1971 n. 619
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, numero 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successivi;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1935, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 26 luglio 1960, n. 1692](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-07-26;1692);
-
-Veduta la [legge 21 luglio 1961, n. 685](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-21;685);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta
-
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-L'art. 11 e' abrogato e sostituito dal seguente:
-
-Art. 116. - La Facolta' di scienze matematiche, fisiche e naturali conferisce:
-
-a) la laurea in chimica;
-
-b) la laurea in chimica industriale;
-
-c) la laurea in fisica;
-
-d) la laurea in matematica;
-
-e) la laurea in scienze naturali;
-
-f) la laurea in scienze biologiche;
-
-g) la laurea in scienze geologiche.
-
-Il professore titolare di chimica farmaceutica e' aggregato alla Facolta' di scienze matematiche, fisiche e naturali.
-
-Gli articoli da 124 a 132, relativi ai corsi di studi per la laurea in fisica e per la laurea in scienze matematiche sono abrogati e sostituiti dai seguenti:
-
-Laurea in fisica
-
-Art. 124. - La durata del corso di studi per il conseguimento della laurea in fisica e' di quattro anni.
-
-Titolo di ammissione e' il diploma di maturita' classica o di maturita' scientifica. Possono inoltre essere ammessi i diploma ti degli Istituti tecnici industriali, agrari, nautici e per geometri ai sensi delle vigenti disposizioni di legge.
-
-Il corso di studi per la laurea in fisica si distingue in tre indirizzi: generale, didattico e applicativo, sono insegnamenti fondamentali obbligatori, comuni ai tre indirizzi del primo biennio:
-
-1) Fisica generale I;
-
-2) Fisica generale II;
-
-3) Analisi matematica I;
-
-4) Analisi matematica II;
-
-5) Geometria I;
-
-6) Meccanica razionale;
-
-7) Chimica con esercitazioni di laboratorio (per fisici);
-
-8) Esperimentazioni di fisica (biennale).
-
-Si richiedera' inoltre alla fine del primo biennio la prova di conoscenza di due lingue straniere di importanza scientifica, secondo criteri fissati dalla Facolta'.
-
-I corsi di Fisica generale I e II. Analisi matematica I e II non devono essere considerati come corsi biennali, essi constano di due corsi distinti, l'uno propedeutico all'altro e con esami distinti.
-
-Il corso di Meccanica razionale deve essere distinto da quello destinato agli allievi ingegneri, e in comune con gli allievi matematici.
-
-I corsi numeri 1), 2), 3), 4), 5), 6) sono accompagna i da esercitazioni (non di laboratorio) che ne fanno parte integrante.
-
-Per ciascuno dei corsi elencati vi e' un esame finale.
-
-Art. 125. - Potranno iscriversi ai corsi comuni ai tre indirizzi del secondo biennio soltanto quegli studenti che abbiano superato gli esami di Fisica generale I e II. Analisi matematica I e Analisi matematica II.
-
-Gli insegnamenti obbligatori per il secondo biennio sono i seguenti:
-
-a) Comuni a tre indirizzi:
-
-1) Struttura della materia;
-
-2) Istituzione di fisica teorica;
-
-3) Metodi matematici della fisica.
-
-L'insegnamento di Metodi matematici della fisica potra' essere sostituito, su deliberazione della Facolta' con uno dei due seguenti insegnamenti fondamentali del corso di laurea in matematica: istituzioni di analisi superiore, istituzioni di fisica matematica.
-
-b) Corsi per l'indirizzo generale:
-
-4) Fisica superiore;
-
-5) Fisica teorica;
-
-6) Laboratorio di fisica I;
-
-7) Laboratorio di fisica II.
-
-c) Corsi per L'indirizzo didattico:
-
-4) Complementi di fisica generale I;
-
-5) Complementi di fisica generale II;
-
-6) Preparazione di esperienze didattiche I;
-
-7) Preparazione di esperienze didattiche II.
-
-d) Corsi per l'indirizzo applicatorio:
-
-4) Laboratorio di fisica I;
-
-5) Laboratorio di fisica II.
-
-Art. 126. - Dovranno inoltre essere seguiti dei corsi a scelta, fra quelli elencati all'articolo 127 nel numero e con le modalita' qui appresso indicate per i vari indirizzi:
-
-a) Per l'indirizzo generale:
-
-Due corsi di cui uno a scelta fra quelli indicati con asterisco nell'elenco dell'art. 127.
-
-b) Per l'indirizzo didattico:
-
-Due corsi.
-
-c) Per l'indirizzo applicativo:
-
-Quattro corsi, secondo curricula stabiliti anno per anno dalla Facolta' per i diversi orientamenti, o proposti all'approvazione della Facolta' stessa dagli studenti interessati. Ciascun curriculum riguardera' tutti e quattro i predetti corsi e stabilira' le eventuali propedeuticita'.
-
-Art. 127. - Elenco dei corsi complementari da cui potranno essere prescelti quelli lasciati a scelta dello studente con le limitazioni di cui all'art. 126 comma a) e c):
-
-Acustica Algebra;
-
-\* Algebra superiore;
-
-Aerodinamica;
-
-\* Analisi superiore;
-
-Astrofisica;
-
-Astronomia;
-
-Biofisica;
-
-Biologia generale;
-
-\* Calcolo delle probabilita';
-
-Calcolo numerico e programmazione I;
-
-Calcolo numerico e programmazione II;
-
-Calcolo operativo;
-
-Chimica fisica (per fisici);
-
-Chimica biologica;
-
-Chimica organica;
-
-Chimica teorica Cibernetica;
-
-Economia e organizzazione industriale,
-
-Elettronica applicata alle macchine calcolatrici;
-
-Elettrochimica;
-
-Onde elettromagnetiche;
-
-Elettronica;
-
-Elettronica applicata;
-
-Elettrotecnica;
-
-Fisica dei reattori;
-
-Fisica dei neutroni;
-
-Fisica dello stato solido;
-
-Fisica delle particelle elementari;
-
-Fisica matematica;
-
-Fisica nucleare;
-
-Fisica superiore;
-
-Fisica teorica;
-
-Fisica terrestre (geofisica);
-
-Fisica dei plasmi;
-
-Fisica spaziale;
-
-Funzioni speciali;
-
-Gasdinamica;
-
-Genetica;
-
-Geodesia;
-
-Geologia;
-
-Geochimica;
-
-\* Geometria algebrica;
-
-\* Geometria differenziale;
-
-\* Geometria superiore;
-
-Istituzioni di geometria superiore;
-
-Istituzioni di fisica nucleare;
-
-Meccanica quantistica;
-
-Meccanica statistica;
-
-\* Meccanica superiore;
-
-Meccanica delle vibrazioni;
-
-Matematiche complementari (annuale);
-
-\* Matematiche superiori;
-
-Metereologia;
-
-Metereologia e oceanografia;
-
-Mineralogia (per fisici);
-
-Ottica;
-
-Ottica elettronica;
-
-Pedagogia e metodologia scientifica;
-
-Radioattivita';
-
-Radioastronomia;
-
-Relativita';
-
-Sismologia;
-
-Spettroscopia (per fisici);
-
-Storia della fisica;
-
-Tecnica del vuoto;
-
-Teoria delle funzioni;
-
-Teoria delle forze nucleari;
-
-Teoria dell'informazione;
-
-Termodinamica;
-
-Logica matematica;
-
-Epistemologia e metodologia.
-
-Art. 128. - Agli effetti della successione degli esami valgono le seguenti norme:
-
-Gli esami di Fisica generale I e II Analisi ma tematica I e II sono propedeutici a tutti gli esami del secondo biennio. L'esame di esperimentazioni di Fisica e' propedeutico all'esame di Laboratorio di fisica I.
-
-Art. 129. - Per essere ammesso all'esame di laurea, lo studente deve aver seguito i corsi e superati gli esami degli insegnamenti fondamentali e di quelli a scelta stabiliti per ciascun indirizzo.
-
-L'esame di laurea consiste:
-
-a) di una prova atta ad accertare la cultura generale del candidato nelle discipline fisiche;
-
-b) di una prova pratica di laboratorio;
-
-c) della discussione di una tesi scritta su di un tema liberamente scelto dal candidato ma rispondente in modo essenziale ai fini della laurea;
-
-d) della esposizione e discussione di una memoria della letteratura scientifica; a scelta del candidato, ma su di un argomento differente da quello del tema di cui al punto c) precedente.
-
-La tesi deve essere presentata in segreteria almeno dieci giorni prima dell'inizio degli esami insieme al titolo della memoria scelta dal candidato di cui al precedente comma d).
-
-La Commissione per le prove di cui ai punti a) e b) e' composta da non meno di tre professori ufficiali della Facolta' dei quali almeno due ordinari.
-
-Superato l'esame di laurea lo studente consegue il titolo di dottore in Fisica indipendentemente dell'indirizzo prescelto del quale verra' fatta menzione soltanto nella carriera scolastica.
-
-Art. 130. - I laureati in matematica aspiranti alla laurea in fisica sono iscritti al terzo anno con la convalida di non piu' di dieci esami comuni superati, a scelta della Facolta'.
-
-Coloro che sono in possesso di altra laurea ed aspirano alla laurea in fisica possono godere di un'abbreviazione di corso non superiore a due anni, che viene stabilita con decreto rettorale, udito caso per caso, il Consiglio dei professori della Facolta' e tenuto conto degli studi compiuti e degli esami superati.
-
-In ogni caso i richiedenti dovranno essere forniti del titolo di studio prescritto per l'immatricolazione.
-
-Laurea in matematica
-
-Art. 131. - Il corso di studi per il conseguimento della laurea in matematica ha la durata di anni quattro. Titolo di ammissione e' il diploma di maturita' classica o di matuirita' scientifica. Possono inoltre essere ammessi i diplomati degli Istituti tecnici industriali, agrari, nautici e per geometri, ai sensi delle vigenti disposizioni di legge.
-
-Il corso di studi si distingue in tre indirizzi: generale, didattico ed applicativo.
-
-Per l'indirizzo applicativo sono previsti due piani di studi, uno ad orientamento numerico e l'altro ad orientamento meccanico.
-
-Sono insegnamenti fondamentali obbligatori comuni ai tre indirizzi 1° Anno:
-
-Analisi matematica I; Geometria I, Algebra, Fisica generale I.
-
-2° Anno:
-
-Analisi matematica II, Geometria II, Meccanica, razionale, Fisica generale II.
-
-3° Anno:
-
-Istituzioni di analisi superiore, Istituzioni di geometria superiore, Istituzioni di fisica matematica.
-
-Sono altresi' insegnamenti fondamentali:
-
-Per l'indirizzo generale:
-
-4° Anno:
-
-Analisi superiore, Geometria superiore.
-
-Per l'indirizzo didattico:
-
-3° Anno:
-
-Matematiche complementari I.
-
-4° Anno:
-
-Matematiche complementari II.
-
-Per l'indirizzo applicativo con piano di studio ad orientamento numerico:
-
-3° Anno:
-
-Calcolo numerico e programmazione I.
-
-4° Anno:
-
-Calcolo numerico e programmazione II.
-
-Per l'indirizzo applicativo con piano di studio ad orientamento meccanico:
-
-3° Anno:
-
-Meccanica superiore.
-
-4° Anno:
-
-Fisica matematica.
-
-Per ciascuno degli insegnamenti fondamentali sopraelencati vi e' un esame finale e ciascuno di essi e' accompagnato da un corso di esercitazioni che ne e' parte integrante.
-
-L'insegnamento di Istituzioni di analisi superiore ovvero quello di istituzioni di fisica matematica potranno essere sostituiti, previa deliberazione della Facolta', con quello di metodi matematici della fisica, fondamentale per il corso di laurea in fisica.
-
-Art. 132. - Gli studenti iscritti al corso a indirizzo generale dovranno superare gli esami di due corsi complementari uno dei quali dovra' essere seguito al terzo anno e l'altro al quarto; uno almeno di essi dovra' essere a indirizzo fisico.
-
-Gli insegnamenti complementari per il corso di studi ad indirizzo generale dovranno essere scelti entro il seguente elenco, nel quale sono contrassegnati da un asterisco gli insegnamenti da considerarsi a carattere fisico ai fini dell'applicazione del comma precedente:
-
-Algebra superiore;
-
-Astronomia;
-
-Calcolo delle probabilita';
-
-Calcolo numerico e programmazione I;
-
-\* Fisica delle particelle elementari;
-
-Fisica matematica;
-
-\* Fisica superiore;
-
-\* Fisica teorica;
-
-Funzioni speciali;
-
-Geodesia;
-
-Geometria algebrica;
-
-Geometria differenziale;
-
-Logica matematica;
-
-Matematiche superiori;
-
-\* Meccanica quantistica;
-
-Meccanica statistica;
-
-Meccanica superiore
-
-\* Onde elettromagnetiche;
-
-\* Struttura della materia;
-
-Teoria dei numeri;
-
-Teoria delle funzioni;
-
-\* Teoria delle forze nucleari;
-
-Topologia.
-
-Art. 133. - Gli studenti iscritti al corso a indirizzo didattico sono tenuti a superare gli esami di due corsi complementari che dovranno essere seguiti al quarto anno; uno almeno di essi dovra' essere a indirizzo fisico.
-
-Gli insegnamenti complementari per il corso di studi a indirizzo didattico dovranno essere scelti entro il seguente elenco nel quale sono contrassegnati da un asterisco gli insegnamenti da considerarsi a carattere fisico ai fini dell'applicazione del comma precedente:
-
-Analisi superiore;
-
-Astronomia;
-
-Calcolo numerico e programmazione I;
-
-Chimica generale e inorganica con elementi di organica;
-
-\* Complementi di fisica generale (annuale);
-
-Fisica matematica;
-
-\* Fisica superiore;
-
-Fisica teorica;
-
-Funzioni speciali;
-
-Geometria superiore;
-
-Matematica finanziaria ed attuariale;
-
-Matematiche elementari dal punto di vista superiore;
-
-Matematiche superiori;
-
-Meccanica superiore;
-
-\* Onde elettromagnetiche;
-
-Pedagogia e metodologia scientifica;
-
-Preparazione di esperienze didattiche (annuale);
-
-Storia delle matematiche;
-
-\* Struttura della materia;
-
-Teoria dei numeri;
-
-Teoria delle funzioni.
-
-Art. 134. - Gli studenti iscritti al corso a indirizzo applicativo sono tenuti a superare gli esami di due corsi complementari i quali dovranno essere seguiti al quarto anno; uno almeno di essi dovra' essere a indirizzo fisico.
-
-Gli insegnamenti complementari per il corso a indirizzo applicativo con piano di studio ad orientamento numerico dovranno essere scelti entro il seguente elenco nel quale sono contrassegnati da un asterisco gli insegnamenti da considerarsi a carattere fisico ai fini dell'applicazione del comma, precedente:
-
-Algebra superiore;
-
-Analisi superiore;
-
-Astronomia;
-
-Calcolo delle probabilita';
-
-Economia, matematica;
-
-Economia e organizzazione industriale;
-
-\* Elettronica;
-
-\* Elettronica applicata alle macchine calcolatrici;
-
-Fisica matematica;
-
-Fisica superiore;
-
-Fisica teorica;
-
-Funzioni speciali;
-
-Geodesia;
-
-Geometria superiore;
-
-Matematica finanziaria ed attuariale;
-
-Matematiche superiori;
-
-Meccanica superiore;
-
-Onde elettromagnetiche;
-
-Statistica matematica;
-
-\* Struttura della materia;
-
-Teoria dei numeri;
-
-Teoria delle funzioni;
-
-Teoria dell'informazione.
-
-Gli insegnamenti complementari per il corso a indirizzo applicativo con piano di studio ad orientamento meccanico dovranno essere scelti entro il seguente elenco, nel quale sono contrassegnati con asterisco gli insegnamenti da considerarsi a carattere fisico ai fini dell'applicazione del primo comma del presente articolo:
-
-Aerodinamica;
-
-Analisi superiore;
-
-Astronomia;
-
-Calcolo delle probabilita';
-
-Calcolo numerico e programmazione I;
-
-\* Elettronica;
-
-\* Fisica dei plasmi;
-
-Fisica spaziale;
-
-\* Fisica superiore;
-
-\* Fisica teorica;
-
-Fisica terrestre;
-
-Funzioni speciali;
-
-Gasdinamica;
-
-Geodesia;
-
-Geometria differenziale;
-
-Geometria superiore;
-
-Matematiche superiori;
-
-Meccanica delle vibrazioni;
-
-Meccanica del volo;
-
-\* Meccanica quantistica;
-
-Meccanica statistica;
-
-Onde elettromagnetiche;
-
-Scienza delle costruzioni;
-
-Struttura della materia;
-
-Teoria delle funzioni;
-
-Teoria dell'informazione.
-
-Art. 135. - Potranno essere iscritti al secondo anno soltanto quegli studenti che abbiano superato almeno due degli esami di Analisi matematica I, Geometria I, Algebra.
-
-I corsi di Analisi matematica, Geometria, Fisica generale non debbono essere considerati come dei comuni corsi biennali; essi constano ciascuno di due parti annuali distinte, la prima propedeutica alla seconda, e con due esami distinti, il primo propedeutico al secondo.
-
-Gli esami di Analisi matematica I e Geometria I sono propedeutici rispetto agli esami di Analisi matematica II, Geometria II e Meccanica razionale.
-
-Gli esami di Algebra e Geometria II sono propedeutici rispetto a quelli di Algebra superiore, Geometria, algebrica, Geometria superiore, Istituzioni di geometria superiore, Matematiche complementari, Matematiche elementari dal punto di vista superiore, Topologia.
-
-L'esame di Analisi matematica II e' propedeutico rispetto a quelli di analisi superiore, Calcolo delle probabilita', Calcolo numerico e programmazione, Funzioni speciali, Geometria differenziale, Istituzioni di analisi superiore; Matematica finanziaria ed attuariale, Matematiche superiori, Statistica matematica, Teoria dei numeri, Teoria delle funzioni, Teoria dell'informazione, Topologia.
-
-L'esame di Meccanica razionale e' propedeutico rispetto a quelli di Aerodinamica, Astronomia, Fisica matematica, Geodesia, Istituzioni di fisica matematica, Meccanica delle vibrazioni, Meccanica del volo, Meccanica statistica, Meccanica superiore, Scienza delle costruzioni.
-
-L'esame di Fisica generale II e' propedeutico rispetto a quelli di complementi di Fisica, generale, Elettronica, Elettronica applicata alle macchine calcolatrici, Fisica dei plasmi, Fisica delle particelle elementari, Fisica spaziale, Fisica superiore, Fisica teorica, Gasdinamica, Meccanica quantistica, Onde elettromagnetiche, Preparazione di esperienze didattiche, Struttura della materia, Teoria delle forze nucleari.
-
-Art. 136. - Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e nei due da lui scelti tra i complementari.
-
-Detto esame di laurea consta:
-
-a) di una prova scritta e orale intesa ad accertare la cultura generale del candidato nelle varie discipline del corso di studi seguito;
-
-b) della discussione di una tesi scritta su un tema liberamente scelto dal candidato, ma rispondente in modo essenziale ai fini della laurea;
-
-c) della discussione di una tesina orale presentata dal candidato e riguardante un argomento diverso da quelli su cui verte la dissertazione.
-
-Per gli studenti iscritti al corso di studi a indirizzo generale la dissertazione deve avere carattere di ricerca originale.
-
-La tesi deve essere presentata in segreteria almeno dieci giorni prima dell'inizio degli esami insieme al titolo della tesina scelta dal candidato.
-
-La Commissione per la prova di cultura generale e' composta da cinque professori ufficiali della Facolta', dei quali almeno tre ordinari.
-
-Superato l'esame di laurea lo studente consegue il titolo di dottore in matematica, indipendentemente dall'indirizzo prescelto del quale verra' fatta menzione soltanto nella carriera scolastica.
-
-Art. 137. - I laureati in Fisica aspiranti alla laurea in Matematica sono iscritti al terzo anno con la convalida di non piu' di dieci esami comuni superati a scelta della Facolta'.
-
-Coloro che sono in possesso di altra laurea ed aspirano alla laurea in matematica possono godere di una abbreviazione di corso non superiore a due anni che viene stabilita per decreto rettorale, udito caso per caso il Consiglio dei professori della Facolta' e tenuto conto degli studi compiuti e degli esami superati.
-
-In ogni caso i richiedenti dovranno essere forniti del titolo di studio prescritto per l'immatricolazione.
-
-Gli articoli 133, 134, 135, 136 e 137 relativi al corso di studi per la laurea in matematica e fisica sono soppressi.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 8 aprile 1962
-
-GRONCHI
-
-GUI
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 28 maggio 1962 Atti del Governo, registro n. 148, foglio n. 14. - VILLA
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, numero 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1935, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Veduto il [decreto del Presidente della Repubblica 26 luglio 1960, n. 1692](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-07-26;1692);  
-Veduta la [legge 21 luglio 1961, n. 685](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-21;685);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-L'art. 11 e' abrogato e sostituito dal seguente:  
-Art. 116. - La Facolta' di scienze matematiche, fisiche e naturali conferisce:  
-a) la laurea in chimica;  
-b) la laurea in chimica industriale;  
-c) la laurea in fisica;  
-d) la laurea in matematica;  
-e) la laurea in scienze naturali;  
-f) la laurea in scienze biologiche;  
-g) la laurea in scienze geologiche.  
-Il professore titolare di chimica farmaceutica e' aggregato alla Facolta' di scienze matematiche, fisiche e naturali.  
-Gli articoli da 124 a 132, relativi ai corsi di studi per la laurea in fisica e per la laurea in scienze matematiche sono abrogati e sostituiti dai seguenti:  
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Laurea in fisica  
+Dopo l'art. 479 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola speciale per dirigenti dell'assistenza infermieristica.   
   
-Art. 124. - La durata del corso di studi per il conseguimento della laurea in fisica e' di quattro anni.  
-Titolo di ammissione e' il diploma di maturita' classica o di maturita' scientifica. Possono inoltre essere ammessi i diploma ti degli Istituti tecnici industriali, agrari, nautici e per geometri ai sensi delle vigenti disposizioni di legge.  
-Il corso di studi per la laurea in fisica si distingue in tre indirizzi: generale, didattico e applicativo, sono insegnamenti fondamentali obbligatori, comuni ai tre indirizzi del primo biennio:  
-1) Fisica generale I;  
-2) Fisica generale II;  
-3) Analisi matematica I;  
-4) Analisi matematica II;  
-5) Geometria I;  
-6) Meccanica razionale;  
-7) Chimica con esercitazioni di laboratorio (per fisici);  
-8) Esperimentazioni di fisica (biennale).  
-Si richiedera' inoltre alla fine del primo biennio la prova di conoscenza di due lingue straniere di importanza scientifica, secondo criteri fissati dalla Facolta'.  
-I corsi di Fisica generale I e II. Analisi matematica I e II non devono essere considerati come corsi biennali, essi constano di due corsi distinti, l'uno propedeutico all'altro e con esami distinti.  
-Il corso di Meccanica razionale deve essere distinto da quello destinato agli allievi ingegneri, e in comune con gli allievi matematici.  
-I corsi numeri 1), 2), 3), 4), 5), 6) sono accompagna i da esercitazioni (non di laboratorio) che ne fanno parte integrante.  
-Per ciascuno dei corsi elencati vi e' un esame finale.  
-Art. 125. - Potranno iscriversi ai corsi comuni ai tre indirizzi del secondo biennio soltanto quegli studenti che abbiano superato gli esami di Fisica generale I e II. Analisi matematica I e Analisi matematica II.  
-Gli insegnamenti obbligatori per il secondo biennio sono i seguenti:  
-a) Comuni a tre indirizzi:  
-1) Struttura della materia;  
-2) Istituzione di fisica teorica;  
-3) Metodi matematici della fisica.  
-L'insegnamento di Metodi matematici della fisica potra' essere sostituito, su deliberazione della Facolta' con uno dei due seguenti insegnamenti fondamentali del corso di laurea in matematica: istituzioni di analisi superiore, istituzioni di fisica matematica.  
-b) Corsi per l'indirizzo generale:  
-4) Fisica superiore;  
-5) Fisica teorica;  
-6) Laboratorio di fisica I;  
-7) Laboratorio di fisica II.  
-c) Corsi per L'indirizzo didattico:  
-4) Complementi di fisica generale I;  
-5) Complementi di fisica generale II;  
-6) Preparazione di esperienze didattiche I;  
-7) Preparazione di esperienze didattiche II.  
-d) Corsi per l'indirizzo applicatorio:  
-4) Laboratorio di fisica I;  
-5) Laboratorio di fisica II.  
-Art. 126. - Dovranno inoltre essere seguiti dei corsi a scelta, fra quelli elencati all'articolo 127 nel numero e con le modalita' qui appresso indicate per i vari indirizzi:  
-a) Per l'indirizzo generale:  
-Due corsi di cui uno a scelta fra quelli indicati con asterisco nell'elenco dell'art. 127.  
-b) Per l'indirizzo didattico:  
-Due corsi.  
-c) Per l'indirizzo applicativo:  
-Quattro corsi, secondo curricula stabiliti anno per anno dalla Facolta' per i diversi orientamenti, o proposti all'approvazione della Facolta' stessa dagli studenti interessati. Ciascun curriculum riguardera' tutti e quattro i predetti corsi e stabilira' le eventuali propedeuticita'.  
-Art. 127. - Elenco dei corsi complementari da cui potranno essere prescelti quelli lasciati a scelta dello studente con le limitazioni di cui all'art. 126 comma a) e c):  
-Acustica Algebra;  
-\* Algebra superiore;  
-Aerodinamica;  
-\* Analisi superiore;  
-Astrofisica;  
-Astronomia;  
-Biofisica;  
-Biologia generale;  
-\* Calcolo delle probabilita';  
-Calcolo numerico e programmazione I;  
-Calcolo numerico e programmazione II;  
-Calcolo operativo;  
-Chimica fisica (per fisici);  
-Chimica biologica;  
-Chimica organica;  
-Chimica teorica Cibernetica;  
-Economia e organizzazione industriale,  
-Elettronica applicata alle macchine calcolatrici;  
-Elettrochimica;  
-Onde elettromagnetiche;  
-Elettronica;  
-Elettronica applicata;  
-Elettrotecnica;  
-Fisica dei reattori;  
-Fisica dei neutroni;  
-Fisica dello stato solido;  
-Fisica delle particelle elementari;  
-Fisica matematica;  
-Fisica nucleare;  
-Fisica superiore;  
-Fisica teorica;  
-Fisica terrestre (geofisica);  
-Fisica dei plasmi;  
-Fisica spaziale;  
-Funzioni speciali;  
-Gasdinamica;  
-Genetica;  
-Geodesia;  
-Geologia;  
-Geochimica;  
-\* Geometria algebrica;  
-\* Geometria differenziale;  
-\* Geometria superiore;  
-Istituzioni di geometria superiore;  
-Istituzioni di fisica nucleare;  
-Meccanica quantistica;  
-Meccanica statistica;  
-\* Meccanica superiore;  
-Meccanica delle vibrazioni;  
-Matematiche complementari (annuale);  
-\* Matematiche superiori;  
-Metereologia;  
-Metereologia e oceanografia;  
-Mineralogia (per fisici);  
-Ottica;  
-Ottica elettronica;  
-Pedagogia e metodologia scientifica;  
-Radioattivita';  
-Radioastronomia;  
-Relativita';  
-Sismologia;  
-Spettroscopia (per fisici);  
-Storia della fisica;  
-Tecnica del vuoto;  
-Teoria delle funzioni;  
-Teoria delle forze nucleari;  
-Teoria dell'informazione;  
-Termodinamica;  
-Logica matematica;  
-Epistemologia e metodologia.  
+Scuola speciale per dirigenti dell'assistenza infermieristica   
   
-Art. 128. - Agli effetti della successione degli esami valgono le seguenti norme:  
-Gli esami di Fisica generale I e II Analisi ma tematica I e II sono propedeutici a tutti gli esami del secondo biennio. L'esame di esperimentazioni di Fisica e' propedeutico all'esame di Laboratorio di fisica I.  
-Art. 129. - Per essere ammesso all'esame di laurea, lo studente deve aver seguito i corsi e superati gli esami degli insegnamenti fondamentali e di quelli a scelta stabiliti per ciascun indirizzo.  
-L'esame di laurea consiste:  
-a) di una prova atta ad accertare la cultura generale del candidato nelle discipline fisiche;  
-b) di una prova pratica di laboratorio;  
-c) della discussione di una tesi scritta su di un tema liberamente scelto dal candidato ma rispondente in modo essenziale ai fini della laurea;  
-d) della esposizione e discussione di una memoria della letteratura scientifica; a scelta del candidato, ma su di un argomento differente da quello del tema di cui al punto c) precedente.  
-La tesi deve essere presentata in segreteria almeno dieci giorni prima dell'inizio degli esami insieme al titolo della memoria scelta dal candidato di cui al precedente comma d).  
-La Commissione per le prove di cui ai punti a) e b) e' composta da non meno di tre professori ufficiali della Facolta' dei quali almeno due ordinari.  
-Superato l'esame di laurea lo studente consegue il titolo di dottore in Fisica indipendentemente dell'indirizzo prescelto del quale verra' fatta menzione soltanto nella carriera scolastica.  
-Art. 130. - I laureati in matematica aspiranti alla laurea in fisica sono iscritti al terzo anno con la convalida di non piu' di dieci esami comuni superati, a scelta della Facolta'.  
-Coloro che sono in possesso di altra laurea ed aspirano alla laurea in fisica possono godere di un'abbreviazione di corso non superiore a due anni, che viene stabilita con decreto rettorale, udito caso per caso, il Consiglio dei professori della Facolta' e tenuto conto degli studi compiuti e degli esami superati.  
-In ogni caso i richiedenti dovranno essere forniti del titolo di studio prescritto per l'immatricolazione.  
+Art. 480. - E' istituita ai sensi dell'art. 20 del testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), una scuola speciale per dirigenti dell'assistenza infermieristica che ha sede presso l'istituto di igiene della facolta' di medicina e chirurgia dell'Universita' di Napoli. Essa ha lo scopo di formare personale dirigente ed insegnante per le scuole professionali per infermiere, per assistenti sanitarie, visitatrici, per ostetriche, per vigilatrici della infanzia e personale dirigente di servizi infermieristici ospedalieri e di sanita' pubblica.   
+Art. 481. - La durata del corso degli studi per il conseguimento del diploma di dirigenti dell'assistenza infermieristica e' di due anni.   
+Possono essere ammesse alla scuola allieve di eta' non inferiore a 25 anni in possesso dei seguenti titoli:   
+1) del titolo di studio prescritto per l'ammissione all'universita' (preferibilmente del diploma di maturita' classica, del diploma di maturita' scientifica e del diploma di abilitazione magistrale);   
+2) del diploma di infermiere professionale o di ostetrica o di vigilatrice d'infanzia, con votazione media non inferiore ai 147/210.   
+Le infermiere professionali e le vigilatrici dell'infanzia devono aver prestato almeno tre anni di servizio senza demerito presso un ospedale o una scuola per infermiere professionali o vigilatrici dell'infanzia o in un servizio di sanita' pubblica. Tale periodo e' ridotto a due anni per le candidate in possesso del diploma di assistente sanitaria visitatrice, del certificato di abilitazione alle funzioni direttive di ostetricia o di altra specializzazione legalmente riconosciuta;   
+3) per le candidate della sezione dei servizi medico-sociali, e' prescritto il diploma di assistente sanitaria visitatrice conseguito con votazione media non inferiore ai 147/210.   
+Art. 482. - La scuola speciale si suddivide in tre sezioni:   
+1) Pedagogica per la formazione di personale infermieristico insegnante e di direttrice di scuola per: infermiere professionali e assistenti sanitarie visitatrici, ostetriche, vigilatrici dell'infanzia, infermiere ed infermieri generici;   
+2) Amministrativa per servizi assistenziali, per la formazione del personale infermieristico dirigente di servizi assistenziali (ospedalieri, ambulatoriali, mutualistici, etc.);   
+3) Amministrativa per i servizi medico-sociali, per la formazione di personale dirigente di servizi di sanita' pubblica.   
+Art. 483. - L'ammissione al 1° anno della scuola avviene per titoli.   
+Le candidate, tuttavia, prima di essere ammesse definitivamente dovranno essere sottoposte ad un colloquio preliminare. Il numero dei posti disponibili annualmente e' stabilito nella misura massima di trenta complessivamente per le tre sezioni e per ciascun anno di corso. La distribuzione dei posti fra le tre sezioni verra' effettuata annualmente.   
+Art. 484. - II direttore della scuola e' di diritto il titolare della cattedra di igiene della facolta' di medicina e chirurgia della universita'. Gli insegnanti della scuola sono proposti dal consiglio di facolta' di medicina e chirurgia, udito il direttore e nominati dal rettore.   
+La scuola speciale affida la preparazione specifica delle allieve alla scuola convitto professionale per infermiere della C.R.I. di Napoli, via Antonio Cardarelli, 11-A.   
+Il direttore della scuola speciale, sentita la direttrice della scuola convitto professionale della C.R.I. nomina una infermiera altamente qualificata, preferibilmente in possesso del diploma di dirigente dell'assistenza infermieristica o di titolo similare, che viene preposta alla preparazione specifica teorico-pratica delle allieve e riceve la qualifica di vicedirettrice della scuola speciale.   
+Il corpo insegnante e' costituito da docenti delle facolta' di:   
+Medicina e Chirurgia;   
+Magistero;   
+Lettere;   
+Giurisprudenza,   
+e da esperti del campo dell'assistenza infermieristica, dell'amministrazione, dell'educazione sanitaria e da un rappresentante del Ministero della sanita'.   
+Art. 485. - Le materie di insegnamento sono le seguenti:   
   
-Laurea in matematica  
+1° Anno:   
   
-Art. 131. - Il corso di studi per il conseguimento della laurea in matematica ha la durata di anni quattro. Titolo di ammissione e' il diploma di maturita' classica o di matuirita' scientifica. Possono inoltre essere ammessi i diplomati degli Istituti tecnici industriali, agrari, nautici e per geometri, ai sensi delle vigenti disposizioni di legge.  
-Il corso di studi si distingue in tre indirizzi: generale, didattico ed applicativo.  
-Per l'indirizzo applicativo sono previsti due piani di studi, uno ad orientamento numerico e l'altro ad orientamento meccanico.  
-Sono insegnamenti fondamentali obbligatori comuni ai tre indirizzi 1° Anno:  
-Analisi matematica I; Geometria I, Algebra, Fisica generale I.  
-2° Anno:  
-Analisi matematica II, Geometria II, Meccanica, razionale, Fisica generale II.  
-3° Anno:  
-Istituzioni di analisi superiore, Istituzioni di geometria superiore, Istituzioni di fisica matematica.  
-Sono altresi' insegnamenti fondamentali:  
-Per l'indirizzo generale:  
-4° Anno:  
-Analisi superiore, Geometria superiore.  
-Per l'indirizzo didattico:  
-3° Anno:  
-Matematiche complementari I.  
-4° Anno:  
-Matematiche complementari II.  
-Per l'indirizzo applicativo con piano di studio ad orientamento numerico:  
-3° Anno:  
-Calcolo numerico e programmazione I.  
-4° Anno:  
-Calcolo numerico e programmazione II.  
-Per l'indirizzo applicativo con piano di studio ad orientamento meccanico:  
-3° Anno:  
-Meccanica superiore.  
-4° Anno:  
-Fisica matematica.  
-Per ciascuno degli insegnamenti fondamentali sopraelencati vi e' un esame finale e ciascuno di essi e' accompagnato da un corso di esercitazioni che ne e' parte integrante.  
-L'insegnamento di Istituzioni di analisi superiore ovvero quello di istituzioni di fisica matematica potranno essere sostituiti, previa deliberazione della Facolta', con quello di metodi matematici della fisica, fondamentale per il corso di laurea in fisica.  
-Art. 132. - Gli studenti iscritti al corso a indirizzo generale dovranno superare gli esami di due corsi complementari uno dei quali dovra' essere seguito al terzo anno e l'altro al quarto; uno almeno di essi dovra' essere a indirizzo fisico.  
-Gli insegnamenti complementari per il corso di studi ad indirizzo generale dovranno essere scelti entro il seguente elenco, nel quale sono contrassegnati da un asterisco gli insegnamenti da considerarsi a carattere fisico ai fini dell'applicazione del comma precedente:  
-Algebra superiore;  
-Astronomia;  
-Calcolo delle probabilita';  
-Calcolo numerico e programmazione I;  
-\* Fisica delle particelle elementari;  
-Fisica matematica;  
-\* Fisica superiore;  
-\* Fisica teorica;  
-Funzioni speciali;  
-Geodesia;  
-Geometria algebrica;  
-Geometria differenziale;  
-Logica matematica;  
-Matematiche superiori;  
-\* Meccanica quantistica;  
-Meccanica statistica;  
-Meccanica superiore  
-\* Onde elettromagnetiche;  
-\* Struttura della materia;  
-Teoria dei numeri;  
-Teoria delle funzioni;  
-\* Teoria delle forze nucleari;  
-Topologia.  
-Art. 133. - Gli studenti iscritti al corso a indirizzo didattico sono tenuti a superare gli esami di due corsi complementari che dovranno essere seguiti al quarto anno; uno almeno di essi dovra' essere a indirizzo fisico.  
-Gli insegnamenti complementari per il corso di studi a indirizzo didattico dovranno essere scelti entro il seguente elenco nel quale sono contrassegnati da un asterisco gli insegnamenti da considerarsi a carattere fisico ai fini dell'applicazione del comma precedente:  
-Analisi superiore;  
-Astronomia;  
-Calcolo numerico e programmazione I;  
-Chimica generale e inorganica con elementi di organica;  
-\* Complementi di fisica generale (annuale);  
-Fisica matematica;  
-\* Fisica superiore;  
-Fisica teorica;  
-Funzioni speciali;  
-Geometria superiore;  
-Matematica finanziaria ed attuariale;  
-Matematiche elementari dal punto di vista superiore;  
-Matematiche superiori;  
-Meccanica superiore;  
-\* Onde elettromagnetiche;  
-Pedagogia e metodologia scientifica;  
-Preparazione di esperienze didattiche (annuale);  
-Storia delle matematiche;  
-\* Struttura della materia;  
-Teoria dei numeri;  
-Teoria delle funzioni.  
-Art. 134. - Gli studenti iscritti al corso a indirizzo applicativo sono tenuti a superare gli esami di due corsi complementari i quali dovranno essere seguiti al quarto anno; uno almeno di essi dovra' essere a indirizzo fisico.  
-Gli insegnamenti complementari per il corso a indirizzo applicativo con piano di studio ad orientamento numerico dovranno essere scelti entro il seguente elenco nel quale sono contrassegnati da un asterisco gli insegnamenti da considerarsi a carattere fisico ai fini dell'applicazione del comma, precedente:  
-Algebra superiore;  
-Analisi superiore;  
-Astronomia;  
-Calcolo delle probabilita';  
-Economia, matematica;  
-Economia e organizzazione industriale;  
-\* Elettronica;  
-\* Elettronica applicata alle macchine calcolatrici;  
-Fisica matematica;  
-Fisica superiore;  
-Fisica teorica;  
-Funzioni speciali;  
-Geodesia;  
-Geometria superiore;  
-Matematica finanziaria ed attuariale;  
-Matematiche superiori;  
-Meccanica superiore;  
-Onde elettromagnetiche;  
-Statistica matematica;  
-\* Struttura della materia;  
-Teoria dei numeri;  
-Teoria delle funzioni;  
-Teoria dell'informazione.  
-Gli insegnamenti complementari per il corso a indirizzo applicativo con piano di studio ad orientamento meccanico dovranno essere scelti entro il seguente elenco, nel quale sono contrassegnati con asterisco gli insegnamenti da considerarsi a carattere fisico ai fini dell'applicazione del primo comma del presente articolo:  
-Aerodinamica;  
-Analisi superiore;  
-Astronomia;  
-Calcolo delle probabilita';  
-Calcolo numerico e programmazione I;  
-\* Elettronica;  
-\* Fisica dei plasmi;  
-Fisica spaziale;  
-\* Fisica superiore;  
-\* Fisica teorica;  
-Fisica terrestre;  
-Funzioni speciali;  
-Gasdinamica;  
-Geodesia;  
-Geometria differenziale;  
-Geometria superiore;  
-Matematiche superiori;  
-Meccanica delle vibrazioni;  
-Meccanica del volo;  
-\* Meccanica quantistica;  
-Meccanica statistica;  
-Onde elettromagnetiche;  
-Scienza delle costruzioni;  
-Struttura della materia;  
-Teoria delle funzioni;  
-Teoria dell'informazione.  
-Art. 135. - Potranno essere iscritti al secondo anno soltanto quegli studenti che abbiano superato almeno due degli esami di Analisi matematica I, Geometria I, Algebra.  
-I corsi di Analisi matematica, Geometria, Fisica generale non debbono essere considerati come dei comuni corsi biennali; essi constano ciascuno di due parti annuali distinte, la prima propedeutica alla seconda, e con due esami distinti, il primo propedeutico al secondo.  
-Gli esami di Analisi matematica I e Geometria I sono propedeutici rispetto agli esami di Analisi matematica II, Geometria II e Meccanica razionale.  
-Gli esami di Algebra e Geometria II sono propedeutici rispetto a quelli di Algebra superiore, Geometria, algebrica, Geometria superiore, Istituzioni di geometria superiore, Matematiche complementari, Matematiche elementari dal punto di vista superiore, Topologia.  
-L'esame di Analisi matematica II e' propedeutico rispetto a quelli di analisi superiore, Calcolo delle probabilita', Calcolo numerico e programmazione, Funzioni speciali, Geometria differenziale, Istituzioni di analisi superiore; Matematica finanziaria ed attuariale, Matematiche superiori, Statistica matematica, Teoria dei numeri, Teoria delle funzioni, Teoria dell'informazione, Topologia.  
-L'esame di Meccanica razionale e' propedeutico rispetto a quelli di Aerodinamica, Astronomia, Fisica matematica, Geodesia, Istituzioni di fisica matematica, Meccanica delle vibrazioni, Meccanica del volo, Meccanica statistica, Meccanica superiore, Scienza delle costruzioni.  
-L'esame di Fisica generale II e' propedeutico rispetto a quelli di complementi di Fisica, generale, Elettronica, Elettronica applicata alle macchine calcolatrici, Fisica dei plasmi, Fisica delle particelle elementari, Fisica spaziale, Fisica superiore, Fisica teorica, Gasdinamica, Meccanica quantistica, Onde elettromagnetiche, Preparazione di esperienze didattiche, Struttura della materia, Teoria delle forze nucleari.  
-Art. 136. - Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e nei due da lui scelti tra i complementari.  
-Detto esame di laurea consta:  
-a) di una prova scritta e orale intesa ad accertare la cultura generale del candidato nelle varie discipline del corso di studi seguito;  
-b) della discussione di una tesi scritta su un tema liberamente scelto dal candidato, ma rispondente in modo essenziale ai fini della laurea;  
-c) della discussione di una tesina orale presentata dal candidato e riguardante un argomento diverso da quelli su cui verte la dissertazione.  
-Per gli studenti iscritti al corso di studi a indirizzo generale la dissertazione deve avere carattere di ricerca originale.  
-La tesi deve essere presentata in segreteria almeno dieci giorni prima dell'inizio degli esami insieme al titolo della tesina scelta dal candidato.  
-La Commissione per la prova di cultura generale e' composta da cinque professori ufficiali della Facolta', dei quali almeno tre ordinari.  
-Superato l'esame di laurea lo studente consegue il titolo di dottore in matematica, indipendentemente dall'indirizzo prescelto del quale verra' fatta menzione soltanto nella carriera scolastica.  
-Art. 137. - I laureati in Fisica aspiranti alla laurea in Matematica sono iscritti al terzo anno con la convalida di non piu' di dieci esami comuni superati a scelta della Facolta'.  
-Coloro che sono in possesso di altra laurea ed aspirano alla laurea in matematica possono godere di una abbreviazione di corso non superiore a due anni che viene stabilita per decreto rettorale, udito caso per caso il Consiglio dei professori della Facolta' e tenuto conto degli studi compiuti e degli esami superati.  
-In ogni caso i richiedenti dovranno essere forniti del titolo di studio prescritto per l'immatricolazione.  
-Gli articoli 133, 134, 135, 136 e 137 relativi al corso di studi per la laurea in matematica e fisica sono soppressi.  
+a) Insegnamenti fondamentali comuni a tutte e tre le sezioni:   
+1) Psicologia;   
+2) Pedagogia;   
+3) Sociologia;   
+4) Filosofia morale;   
+5) Statistica e biometria;   
+6) Elementi di igiene generale e speciale;   
+7) Storia dell'assistenza infermieristica;   
+8) Deontologia professionale;   
+9) Tecnica infermieristica;   
+10) Elementi di diritto costituzionale.   
+b) Insegnamenti complementari comuni a tutte e tre le sezioni:   
+1) Elementi di biologia;   
+2) Elementi di fisiologia e chimica biologica;   
+3) Medicina sociale.   
+  
+Inoltre le allieve sono tenute ad effettuare i seguenti tirocini:   
+1) Sezione pedagogica:   
+Esercizi didattici preparatori;   
+Insegnamento clinico.   
+2) Sezione amministrativa per i servizi assistenziali:   
+Esercitazioni nei servizi ospedalieri.   
+3) Sezione amministrativa per i servizi medico-sociali:   
+Esercitazioni nei servizi di sanita' pubblica.   
+  
+2° Anno:   
+  
+a) Insegnamenti fondamentali comuni a tutte e tre le sezioni:   
+1) Elementi di pubblica amministrazione;   
+2) Elementi di diritto del lavoro;   
+3) Principi di amministrazione pubblica applicata all'assistenza infermieristica;   
+4) Psicologia applicata alla professione;   
+5) Pedagogia applicata alla professione;   
+6) Elementi di legislazione sanitaria;   
+7) Igiene e tecnica ospedaliera;   
+8) Organizzazione delle associazioni professionali infermieristiche nazionali ed internazionali;   
+9) Organizzazione di scuola per infermiere in Italia e all'estero.   
+  
+b) Insegnamenti complementari comuni a tutte e tre le sezioni:   
+1) Elementi di patologia medica e chirurgica;   
+2) Elementi di farmacologia e terapia clinica.   
+  
+Inoltre le allieve sono tenute ad effettuare i seguenti tirocini:   
+1) Sezione pedagogica:   
+Esercitazioni didattiche;   
+Organizzazione e funzionamento delle scuole;   
+Visite documentative.   
+2) Sezioni amministrative per i servizi assistenziali:   
+Esercitazioni nei servizi ospedalieri;   
+Visite documentative.   
+3) Sezione amministrativa per i servizi medico-sociali:   
+Esercitazioni nei servizi di sanita' pubblica;   
+Visite documentative.   
+  
+Art. 486. - Per essere ammesse al 2° anno le allieve dovranno aver seguito i corsi, superato gli esami in tutti gli insegnamenti fondamentali dell'anno stesso e almeno uno, scelto all'inizio dell'anno scolastico, fra i complementari ed aver compiuto con esito favorevole, tutti i tirocini prescritti.   
+Art. 487. - La commissione, per gli esami di idoneita' al 2ª anno e di ammissione agli esami di diploma sono nominate dal consiglio di facolta' di medicina e chirurgia su proposta del direttore della scuola.   
+Le commissioni sono composte dal presidente che, di regola, e' il professore ufficiale della materia, e da altri due membri di materia affine e da un rappresentante del Ministero della sanita'.   
+Ogni commissario ha a disposizione 10 punti.   
+Art. 488. - Per essere ammesse a sostenere l'esame di diploma le allieve devono aver seguito i corsi del 2° anno, superato gli esami in tutti gli insegnamenti fondamentali dell'anno stesso e almeno uno, scelto allo inizio dell'anno scolastico, fra i complementari ed aver compiuto, con esito favorevole, tutti i tirocini prescritti.   
+Art. 489. - L'esame per il conseguimento del diploma di dirigente della assistenza infermieristica secondo le varie sezioni della scuola consiste nella discussione su un elaborato scritto, preventivamente assegnato dal direttore della scuola, di fronte a una commissione di cinque membri, composta dal direttore della scuola; da tre docenti designati dalla facolta' di medicina e chirurgia e dalla infermiera responsabile della preparazione specifica. Ogni commissario ha a disposizione 10 punti.   
+Art. 490. - Le tasse e le soprattasse per la scuola sono le seguenti:   
+tassa di immatricolazione. . . . . . . . . . . . L. 20.000   
+tassa annuale di iscrizione. . . . . . . . . . . " 100.000   
+soprattassa annuale di esami . . . . . . . . . . " 20.000   
+tassa per l'esame di diploma . . . . . . . . . . " 10.000   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 8 aprile 1962
+### Dato a Roma, addi' 8 giugno 1971
 
-GRONCHI GUI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 28 maggio 1962
+Registrato alla Corte dei conti, addi' 17 agosto 1971
 
-Atti del Governo, registro n. 148, foglio n. 14. - VILLA
+Atti del Governo, registro n. 243, foglio n. 120. - PASQUALUCCI

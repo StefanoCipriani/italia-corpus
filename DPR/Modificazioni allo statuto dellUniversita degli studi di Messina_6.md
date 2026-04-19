@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1986 n. 702
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1985 n. 344
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1986 n. 702
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1985 n. 344
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Messina.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923) e modificato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 1 ottobre 1936, numero 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923), e modificato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -30,123 +30,79 @@ Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte,
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla
+-----
 
-Decreta:
---------
-
-Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+proposta del Ministro della pubblica istruzione; Decreta:
 
 Articolo unico
 --------------
 
   
-Dopo l'art. 387, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chirurgia plastica e ricostruttiva.  
-Scuola di specializzazione in chirurgia plastica e ricostruttiva  
-Art. 388. - E' istituita la scuola di specializzazione in chirurgia plastica e ricostruttiva presso la facolta' di medicina e chirurgia dell'Universita' di Messina.  
-La scuola ha lo scopo di provvedere alla formazione teorico-pratica dei medici specialisti in chirurgia plastica.  
-La scuola rilascia il titolo di specialista in chirurgia plastica.  
-Art. 389. - La scuola ha durata di cinque anni.  
-Ciascun anno di corso prevede ottocento ore di insegnamento e di attivita' guidate.  
-In base alle strutture ed attrezzature disponibili, la scuola e' in grado di accettare il numero massimo di iscritti determinato in due per ciascun anno di corso, per un totale di dieci specializzandi.  
-Art. 390. - Per l'attuazione delle attivita' didattiche programmate dal consiglio della scuola provvede la facolta' di medicina e chirurgia dell'Universita' degli studi di Messina.  
-Art. 391. - Sono ammessi alle prove per ottenere l'iscrizione i laureati in medicina e chirurgia; sono altresi' ammessi al concorso per l'ammissione alla scuola coloro che siano in possesso del titolo di studio conseguito presso universita' straniere e che sia, ai sensi dell'[art. 332 del testo unico del 31 agosto 1983, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1983-08-31;1592~art332), equipollente a quello richiesto.  
-Per l'iscrizione alla scuola e' richiesto il possesso del diploma di abilitazione all'esercizio della professione.  
-Art. 392. - La scuola comprende sei aree di insegnamento e tirocinio professionale:  
-a) biologica;  
-b) morfologica;  
-c) fisio-patologica;  
-d) clinica propedeutica ed integrativa;  
-e) terapia e tecnica chirurgica;  
-f) metodologie complementari.  
-Art. 393. - Gli insegnamenti relativi a ciascuna area didattica e formativa professionale sono i seguenti:  
-a) Biologica:  
-genetica;  
-tipizzazione dei tessuti;  
-biologia dei trapianti.  
-b) Morfologica:  
-anatomia;  
-embriologia;  
-anatomia chirurgica;  
-anatomia e istologia patologica;  
-malformazioni congenite.  
-c) Fisio-patologica:  
-patologia generale;  
-fisio-patologia della malattia da ustione;  
-oncologia;  
-la riparazione tissutale.  
-d) Clinica propedeutica ed integrativa:  
-chirurgia generale;  
-otorinolaringoiatria;  
-odontostomatologia ed ortopedia maxillo-facciale;  
-dermatologia;  
-oculistica;  
-neurochirurgia;  
-ortopedia e traumatologia;  
-radiodiagnostica e radioterapia;  
-anestesiologia e rianimazione;  
-problemi psichiatrici e psicologici in chirurgia plastica.  
-e) Terapia e tecnica chirurgica:  
-chirurgia plastica;  
-chirurgia plastica in eta' pediatrica;  
-le urgenze in chirurgia plastica;  
-chirurgia riparatrice della mano;  
-tecniche di microchirurgia ricostruttiva;  
-clinica e terapia della malattia da ustione;  
-chirurgia estetica;  
-trapianti in chirurgia plastica.  
-f) Metodologie complementari:  
-criobiologia e banca dei tessuti;  
-riabilitazione e terapia fisica;  
-medicina legale e deontologia;  
-metodiche di diagnostica strumentale;  
-applicazioni tecnologiche in chirurgia plastica.  
-Art. 394. - L'attivita' didattica comprende ogni anno ottocento ore di didattica formale e di tirocinio professionale guidato. Essa e' organizzata in una attivita' didattica teorico-pratica comune per tutti gli studenti (quattrocento ore come di seguito ripartite) ed in una attivita' didattica elettiva, prevalentemente di carattere tecnico-applicativo di ulteriori quattrocento ore rivolta all'approfondimento del curriculum corrispondente ad uno dei settori formativo-professionali (monte ore elettivo).  
-La frequenza nelle diverse aree avviene pertanto come di seguito specificato:  
+Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli 198, 199, 200, 201 e 202, relativi alla scuola di specializzazione in farmacognosia, sono costituiti dai seguenti nuovi articoli:  
   
+Scuola di specializzazione in farmacognosia  
+  
+Art. 198. - E' istituita presso l'Universita' di Messina la scuola di specializzazione in farmacognosia che conferisce il diploma di specialista in farmacognosia.  
+La direzione della scuola ha sede presso la cattedra di farmacognosia della facolta' di farmacia dell'Universita' di Messina.  
+Art. 199. - La scuola ha lo scopo di fornire ai giovani laureati tutte quelle specifiche conoscenze che permettano loro di operare sia nell'esercizio professionale sanitario, che in quello della ricerca applicata all'industria.  
+Art. 200. - La durata del corso e' di tre anni e non e' suscettibile di abbreviazioni.  
+Art. 201. - Il numero degli iscritti e' di venti per ogni anno e complessivamente di sessanta per l'intero corso di studi.  
+Art. 202. - Alla scuola sono ammessi coloro che sono in possesso del diploma di laurea in farmacia, in chimica e tecnologia farmaceutiche, in medicina e chirurgia, in medicina veterinaria, in chimica e in scienze biologiche, e, qualora prescritto, anche del diploma di abilitazione all'esercizio professionale.  
+Art. 203. - Per l'ammissione alla scuola e' richiesto il superamento di un esame, consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrate eventualmente da un colloquio e da una valutazione dei seguenti titoli in misura non superiore al 30% del punteggio complessivo a disposizione della commissione:  
+a) la tesi nella disciplina attinente alla specializzazione;  
+b) il voto di laurea;  
+c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;  
+d) le pubblicazioni nelle predette materie.  
+Il punteggio dei predetti titoli e' quello stabilito dal decreto ministeriale del 16 settembre 1982 (Gazzetta Ufficiale del 6 ottobre 1982, n. 285).  
+Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo riportato.  
+Art. 204. - Le materie d'insegnamento, afferenti tutte alla facolta' di farmacia, sono le seguenti:  
 1° Anno:  
-Biologica (ore 50):  
-genetica . . . . . . . . . . . . . . . . . . . . . . . . . . . ore 20 tipizzazione dei tessuti . . . . . . . . . . . . . . . . . . . ore 20 biologia dei trapianti . . . . . . . . . . . . . . . . . . . . ore 10 Morfologica (ore 50):  
-anatomia . . . . . . . . . . . . . . . . . . . . . . . . . . . ore 15 embriologia. . . . . . . . . . . . . . . . . . . . . . . . . . ore 15 anatomia ed istologia patologica . . . . . . . . . . . . . . . ore 20 Clinica propedeutica ed integrativa (ore 200):  
-chirurgia generale. . . . . . . . . . . . . . . . . . . . . . ore 120 radiodiagnostica e radioterapia. . . . . . . . . . . . . . . . ore 40 anestesiologia e rianimazione. . . . . . . . . . . . . . . . . ore 40 Terapia e tecnica chirurgica (ore 100):  
-chirurgia plastica. . . . . . . . . . . . . . . . . . . . . . ore 100 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
+analisi delle droghe medicinali;  
+complementi di biologia animale (semestrale);  
+complementi di biologia vegetale (semestrale);  
+farmacoergasia (coltivazione, acclimatazione, genetica ecc.) (semestrale);  
+farmacogeografia e farmacoemporia (semestrale);  
+farmacognosia generale I;  
+farmacoistoria e farmacoetnologia (semestrale);  
+tecnica istologica e microscopia.  
 2° Anno:  
-Morfologica (ore 50):  
-anatomia chirurgica. . . . . . . . . . . . . . . . . . . . . . ore 40 malformazioni congenite. . . . . . . . . . . . . . . . . . . . ore 10 Fisio-patologica (ore 100):  
-patologia generale . . . . . . . . . . . . . . . . . . . . . . ore 40 fisio-patologia della malattia da ustione. . . . . . . . . . . ore 20 oncologia. . . . . . . . . . . . . . . . . . . . . . . . . . . ore 30 la riparazione tissutale . . . . . . . . . . . . . . . . . . . ore 10 Clinica propedeutica ed integrativa (ore 200):  
-chirurgia generale. . . . . . . . . . . . . . . . . . . . . . ore 100 otorinolaringoiatria . . . . . . . . . . . . . . . . . . . . . ore 50 odontostomatologia ed ortopedia maxillo-facciale . . . . . . . ore 50 Terapia e tecnica chirurgica (ore 50):  
-chirurgia plastica . . . . . . . . . . . . . . . . . . . . . . ore 50 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
+biochimica applicata;  
+chimica dei medicamenti di origine vegetale e animale I;  
+farmacognosia generale II;  
+farmacognosia speciale, vegetale;  
+microbiologia applicata;  
+riconoscimento delle droghe vegetali polverate.  
 3° Anno:  
-Clinica propedeutica ed integrativa (ore 200):  
-chirurgia generale. . . . . . . . . . . . . . . . . . . . . . ore 120 dermatologia . . . . . . . . . . . . . . . . . . . . . . . . . ore 40 oculistica . . . . . . . . . . . . . . . . . . . . . . . . . . ore 40 ortopedia e traumatologia. . . . . . . . . . . . . . . . . . . ore 20 Terapia e tecnica chirurgica (ore 200):  
-chirurgia plastica. . . . . . . . . . . . . . . . . . . . . . ore 100 chirurgia plastica in eta' pediatrica. . . . . . . . . . . . . ore 30 le urgenze in chirurgia plastica . . . . . . . . . . . . . . . ore 30 chirurgia riparatrice della mano . . . . . . . . . . . . . . . ore 40 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
-4° Anno:  
-Clinica propedeutica ed integrativa (ore 100):  
-chirurgia generale . . . . . . . . . . . . . . . . . . . . . . ore 40 neurochirurgia . . . . . . . . . . . . . . . . . . . . . . . . ore 60 Terapia e tecnica chirurgica (ore 200):  
-chirurgia plastica. . . . . . . . . . . . . . . . . . . . . . ore 100 chirurgia plastica in eta' pediatrica. . . . . . . . . . . . . ore 60 clinica e terapia della malattia da ustione. . . . . . . . . . ore 40 Metodologie complementari (ore 100):  
-metodiche di diagnostica strumentale . . . . . . . . . . . . . ore 50 applicazioni tecnologiche in chirurgia plastica. . . . . . . . ore 50 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
-5° Anno:  
-Terapia e tecnica chirurgica (ore 200):  
-chirurgia plastica . . . . . . . . . . . . . . . . . . . . . . ore 40 chirurgia estetica . . . . . . . . . . . . . . . . . . . . . . ore 80 trapianti in chirurgia plastica. . . . . . . . . . . . . . . . ore 80 Metodologie complementari (ore 200):  
-criobiologia e banca dei tessuti . . . . . . . . . . . . . . . ore 30 riabilitazione e terapia fisica. . . . . . . . . . . . . . . . ore 50 medicina legale e deontologia. . . . . . . . . . . . . . . . . ore 10 metodiche di diagnostica strumentale . . . . . . . . . . . . . ore 30 applicazioni tecnologiche in chirurgia plastica. . . . . . . . ore 80 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
-Art. 395. - Durante i cinque anni di corso e' richiesta la frequenza nei seguenti reparti/divisioni/ambulatori/laboratori:  
-reparto di chirurgia plastica - chirurgia generale - chirurgie specialistiche;  
-ambulatori di chirurgia plastica - chirurgia generale - chirurgie specialistiche.  
-La frequenza nelle varie aree per complessive ottocento ore annue, compreso il monte ore elettivo di quattrocento ore annue, avviene secondo delibera del consiglio della scuola, tale da assicurare ad ogni specializzando un adeguato periodo di esperienza e di - formazione professionale. Il consiglio della scuola ripartisce annualmente il monte ore elettivo.  
-Il consiglio della scuola predispone apposito libretto di formazione, che consenta allo specializzando ed al consiglio stesso il controllo dell'attivita' svolta e dell'acquisizione dei progressi compiuti, per sostenere gli esami annuali e finali.  
+chimica dei medicamenti di origine vegetale e animale II;  
+complementi di farmacologia;  
+complementi di tossicologia;  
+dosaggi biologici;  
+farmacognosia marina (semestrale);  
+farmacognosia speciale, animale;  
+fitoterapia.  
+Art. 205. - La frequenza ai corsi e' obbligatoria. Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione d'esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso. Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.  
+Art. 206. - I corsi sono integrati da esercitazioni pratiche e da visite d'istruzione.  
+La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguano le attestazioni di frequenza, almeno per il 75% delle lezioni, non possono essere ammessi a sostenere le prove di esami. Ai fini della frequenza e delle attivita' pratiche puo' essere riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture pubbliche o private attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.  
+Art. 207. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio della scuola di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta, preferibilmente di carattere sperimentale, su una o piu' materie del corso. A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.  
+Art. 208. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.  
+Art. 209. - Il consiglio e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).  
+Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento di insegnamenti.  
+La direzione della scuola e' affidata a professore ordinario o straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserito nella, Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 maggio 1986
+### Dato a Roma, addi' 18 marzo 1985
 
-COSSIGA
+PERTINI
 
 FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 14 ottobre 1986
+Registrato alla Corte dei conti, addi' 1 luglio 1985
 
-Registro n. 76 Istruzione, foglio n. 359
+Registro n. 45 Istruzione, foglio n. 344

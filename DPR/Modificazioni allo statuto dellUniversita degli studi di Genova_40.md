@@ -1,528 +1,217 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1973 n. 748
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1972 n. 56
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1973 n. 748
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1972 n. 56
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 122. - All'elenco delle scuole di specializzazione e di perfezionamento annesse alla facolta' di medicina e chirurgia, e' aggiunta quella di "Chirurgia oculare".
+
+Dopo l'art. 275 e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della "Scuola di perfezionamento in chirurgia oculare".
+
+Scuola di perfezionamento in chirurgia oculare
+
+Art. 276. - Presso l'Istituto di clinica oculistica e' istituita la scuola di perfezionamento in chirurgia oculare. Essa ha lo scopo di consentire un ulteriore perfezionamento ed approfondimento, pratico e teorico, ai laureati in medicina e chirurgia che avendo gia' conseguito il diploma presso la scuola di specializzazione in clinica oculistica desiderano perfezionarsi nella chirurgia oculare.
+
+Direttore della scuola e' il titolare della cattedra di clinica oculistica.
+
+Art. 277. - Il corso ha la durata di tre anni e l'insegnamento ha carattere teorico, pratico e dimostrativo.
+
+Gli iscritti hanno l'obbligo di frequentare per tutto il triennio le lezioni, le esercitazioni e le dimostrazioni prestando regolare servizio come medico interno nella clinica a norma degli articoli 129 e 130 di questo statuto.
+
+Gli insegnamenti riguardano sia l'anestesia del paziente e le sue complicanze, sia la tecnologia degli strumenti operatori, sia la tecnica operatoria specialistica, che il trattamento e la prevenzione delle complicanze pre e postoperatorie.
+
+Tali insegnamenti saranno svolti dal direttore della scuola e dai suoi collaboratori.
+
+E' facolta' della scuola di invitare cultori, anche stranieri, della materia a tenere conferenze e seminari su particolari settori.
+
+I mezzi che sono messi a disposizione della scuola sono le attrezzature operatorie dell'Istituto di clinica oculistica.
+
+La scuola dispone per le dimostrazioni e l'insegnamento degli ammalati operatori ricoverati nella clinica oculistica.
+
+Le norme relative all'iscrizione, alla frequenza, alle lezioni e alle esercitazioni, agli esami, al pagamento delle tasse, sopratasse e contributi, sono quelle generali delle scuole di specializzazione e di perfezionamento contenute negli articoli da 122 e 137 dello statuto della universita'.
+
+Art. 278. - Gli insegnamenti impartiti nella scuola, suddivisi nei tre anni del corso, sono i seguenti:
+
+1° Anno:
+
+Anestesia generale e locale. Complicanze e mezzi per prevenirle e trattarle.
+
+Tecnologia delle attrezzature chirurgiche piu' complesse (apparati per microchirurgia, apparati per fotocoagulazione con sorgenti allo xenone e laser, apparati diatermici, apparati criogenici, dermotomi e mucosotomi, apparati per cheratoplastiche, apparati per la preparazione di impianti plastici e protesi corneali, lenticolari e sclerali, apparati per incisioni corneali e sclerali, materiali per suture).
+
+Chirurgia della cornea: 1) tecniche per la cheratoplastica perforante e lamellare; 2) conservazione del materiale da innesto; 3) cheratoplastiche a scopo refrattivo e tettonico; 4) tecniche delle cheratoprotesi perforanti, delle cheratoprotesi intralamellari, delle epicheratoprotesi e dell'impianto di endotelio artificiale; 5) mezzi di sutura per la cornea e impiego di adesivi tissurali; 6) uso del microscopio operatorio nella chirurgia della cornea.
+
+Chirurgia del cristallino: 1) estrazione del cristallino con microscopio operatorio; 2) crioestrazione del cristallino; 3) zonulolisi enzimatica: indicazioni e complicanze; 4) estrazione del cristallino lussato e sublussato.
+
+Chirurgia del glaucoma: 1) tecniche ed indicazioni degli interventi fistolizzanti; 2) ciclodialisi; 3) cicloanemizzazione ed interventi diretti a ridurre la secrezione dell'umor acqueo (ciclodiatermia, crioapplicazioni); 4) tecniche di trabeculotomia con l'ausilio del microscopio operatorio; 5) intervento per glaucoma secondario; 6) intervento per il glaucoma congenito.
+
+Correzione chirurgica delle eterotropie ed eteroforie con particolare riguardo agli interventi dei muscoli verticali ed al trattamento delle sindromi A e V.
+
+Chirurgia dell'apparato lacrimale: dacriocistorinostomia, lacorinostomia, ricostruzione chirurgica dei canalini lacrimali.
+
+2° Anno:
+
+Chirurgia delle palpebre: 1) correzione chirurgica della ptosi palpebrale; 2) chirurgia dell'entropino; ectropion e lagoftalmo; 3) asportazione di neoformazioni palpebrali ed interventi di ricostruzione plastica.
+
+Tecniche di localizzazione ed estrazione di corpi estranei endoculari magnetizzabili e non magnetizzabili.
+
+Chirurgia dell'orbita: exenteratio orbitae e procedimenti di plastica a scopo cosmetico; procedimenti chirurgici per il trattamento di neoformazioni orbitarie; trattamento chirurgico della retrazione delle cavita' anfotalmiche; procedimenti di enucleazioni ed eviscerazione del bulbo con impianti orbitari per protesi mobili.
+
+Chirurgia del distacco di retina: 1) tecniche diagnostiche inerenti alla chirurgia retinica; 2) interventi di diatermocoagulazione di superficie; 3) interventi di scleroplastica con e senza impiego di impianto intrasclerale; 4) interventi di scleroplastica con cerchiaggio; 5) materiali di impianto organico ed inorganico; 6) interventi di scleroplastica con applicazioni criogeniche; 7) fotocoagulazioni e sue indicazioni, interventi con fotocoagulazione con e senza procedimenti di scleroplastica; 8) chirurgia del vitreo: impianti di vitreo fresco e conservato e suoi succedanei; 9) profilassi del distacco retinico: sue indicazioni ed impiego delle applicazioni diatermiche e della fotocoagulazione.
+
+3° Anno:
+
+Trattamento chirurgico della retinopatia diabetica, della retinopatia di Eales e delle retinopatie angiomatosiche: fotocoagulazione, diatermia, applicazioni criogeniche.
+
+Complicazioni internistiche generali preoperatorie della chirurgia oculare e loro trattamento: complicazioni cardiovascolari, respiratorie, urologiche, endocrine e dismetaboliche, complicazioni jatrogeniche postoperatorie, complicazioni psicologiche e psichiatriche.
+
+Complicazione della chirurgia palpebrale ed in particolare delle operazioni per ptosi palpebrale.
+
+Complicazioni della chirurgia dell'apparato lacrimale.
+
+Complicazioni della chirurgia delle esotropie e delle esoforie.
+
+Complicazioni della chirurgia dell'orbita, della enucleazione ed eviscerazione del bulbo e degli impianti orbitari.
+
+Complicazioni degli interventi sulla cornea, ed in particolare delle cheratoplastiche e degli impianti cheratoprotesici e loro trattamento.
+
+Complicazioni degli interventi per il glaucoma e loro trattamento.
+
+Reinterventi antiglaucomatosi.
+
+Complicazioni della chirurgia del cristallino e loro trattamento.
+
+Complicazioni della chirurgia per il distacco di retina. Recidive e reinterventi.
+
+Art. 279. - Alla scuola sono ammessi i laureati in medicina e chirurgia che abbiano conseguito il diploma di specializzazione presso una scuola di specializzazione in clinica oculistica in numero non superiore a dieci complessivamente. La frequenza ai corsi e' obbligatoria.
+
+Art. 280. - Alla fine di ogni corso, gli iscritti dovranno sostenere un colloquio sulle materie svolte.
+
+Alla fine del terzo anno gli allievi che avranno superato i colloqui saranno ammessi alla prova finale consistente in una prova orale, in una dimostrazione operatoria pratica e nella discussione di una tesi scritta.
+
+Art. 281. - Il colloquio di ciascun anno e la prova finale saranno sostenuti davanti ad una commissione nominata dal rettore e composta da 5 membri preposti dal direttore della scuola (3 dei quali professori di ruolo della stessa materia o di materie affini).
+
+Art. 282. - Agli iscritti alla scuola che avranno superato gli esami prescritti sara' rilasciato un diploma di perfezionamento in chirurgia oculare da valere a tutti gli effetti legali.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 28 gennaio 1972
+
+LEONE
+
+MISASI
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 11 marzo 1972 Atti del Governo, registro n. 247, foglio n. 101. - VALENTINI
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 122. - All'elenco delle scuole di specializzazione e di perfezionamento annesse alla facolta' di medicina e chirurgia, e' aggiunta quella di "Chirurgia oculare".  
+Dopo l'art. 275 e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della "Scuola di perfezionamento in chirurgia oculare".  
+Scuola di perfezionamento in chirurgia oculare  
+Art. 276. - Presso l'Istituto di clinica oculistica e' istituita la scuola di perfezionamento in chirurgia oculare. Essa ha lo scopo di consentire un ulteriore perfezionamento ed approfondimento, pratico e teorico, ai laureati in medicina e chirurgia che avendo gia' conseguito il diploma presso la scuola di specializzazione in clinica oculistica desiderano perfezionarsi nella chirurgia oculare.  
+Direttore della scuola e' il titolare della cattedra di clinica oculistica.  
+Art. 277. - Il corso ha la durata di tre anni e l'insegnamento ha carattere teorico, pratico e dimostrativo.  
+Gli iscritti hanno l'obbligo di frequentare per tutto il triennio le lezioni, le esercitazioni e le dimostrazioni prestando regolare servizio come medico interno nella clinica a norma degli articoli 129 e 130 di questo statuto.  
+Gli insegnamenti riguardano sia l'anestesia del paziente e le sue complicanze, sia la tecnologia degli strumenti operatori, sia la tecnica operatoria specialistica, che il trattamento e la prevenzione delle complicanze pre e postoperatorie.  
+Tali insegnamenti saranno svolti dal direttore della scuola e dai suoi collaboratori.  
+E' facolta' della scuola di invitare cultori, anche stranieri, della materia a tenere conferenze e seminari su particolari settori.  
+I mezzi che sono messi a disposizione della scuola sono le attrezzature operatorie dell'Istituto di clinica oculistica.  
+La scuola dispone per le dimostrazioni e l'insegnamento degli ammalati operatori ricoverati nella clinica oculistica.  
+Le norme relative all'iscrizione, alla frequenza, alle lezioni e alle esercitazioni, agli esami, al pagamento delle tasse, sopratasse e contributi, sono quelle generali delle scuole di specializzazione e di perfezionamento contenute negli articoli da 122 e 137 dello statuto della universita'.  
+Art. 278. - Gli insegnamenti impartiti nella scuola, suddivisi nei tre anni del corso, sono i seguenti:  
   
-L'art. 80, relativo all'ordinamento degli studi dei corsi di laurea della facolta' di ingegneria, e' abrogato e sostituito dai seguenti con il conseguente spostamento della numerazione degli articoli successivi.   
-Art. 80. - Entro il 31 marzo di ciascun anno il consiglio di facolta' redige il manifesto degli studi per il successivo anno accademico.   
-Tale manifesto fissa, tra l'altro:   
-gli indirizzi in atto per ciascun corso di laurea:   
-per ciascun indirizzo, gli insegnamenti, scelti fra le materie elencate nell'art. 90;   
-la distribuzione degli insegnamenti in ciascun anno di corso del triennio di applicazione;   
-il numero globale di ore attribuite a ciascun insegnamento;   
-le modalita' per gli esami di laurea, salvo quanto disposto al successivo articolo 91.   
-Il numero di corsi di indirizzo, per ogni indirizzo, sara' tale che il numero complessivo di insegnamenti per ogni piano di studio sia, nel quinquennio, non inferiore a 27 ne' superiore a 30.   
-L'identita' di denominazione di insegnamenti impartiti in diversi corsi o indirizzi di laurea non comporta generalmente identita' di programma e di trattazione.   
-Art. 81. - Salvo espressa menzione contraria, i corsi ufficiali operanti nella facolta' di ingegneria, avranno estensione virtuale annuale. La loro durata temporale potra' essere anche inferiore ad un anno accademico purche' il numero minimo di lezioni sia non inferiore a quello previsto dalle norme vigenti per i corsi annuali.   
-Art. 82. - Il corso di laurea in ingegneria civile (sezione edile) comprende i seguenti insegnamenti obbligatori:   
-Biennio propedeutico:   
-1° Anno:   
-1) Analisi matematica I;   
-2) Geometria;   
-3) Fisica I;   
-4) Chimica;   
-5) Disegno.   
-2° Anno:   
-6) Analisi matematica II;   
-7) Meccanica razionale;   
-8) Fisica II;   
-9) Tecnologie dei materiali e chimica applicata;   
-10) Disegno II (per allievi ingegneri civili).   
-Triennio di applicazione:   
-11) Scienza delle costruzioni;   
-12) Meccanica applicata alle macchine e macchine;   
-13) Fisica tecnica;   
-14) Idraulica;   
-15) Architettura tecnica;   
-16) Topografia;   
-17) Complementi di scienza delle costruzioni;   
-18) Elettrotecnica;   
-19) Tecnica delle costruzioni;   
-20) Costruzioni metalliche;   
-21) Geologia e geologia applicata;   
-22) Architettura e composizione architettonica;   
-23) Meccanica dei terreni e tecnica delle fondazioni;   
-24) Costruzioni di strade, ferrovie ed aeroporti;   
-25) Tecnica urbanistica.   
-I restanti corsi per il raggiungimento del numero previsto dal penultimo comma dell'art. 80 sono a scelta dello studente. Il consiglio di facolta', anno per anno, indichera' il numero e la composizione degli indirizzi a scelta, secondo quanto disposto dall'art. 80.   
-Art. 83. - Il corso di laurea in ingegneria civile (sezione idraulica) comprende i seguenti insegnamenti obbligatori:   
-Biennio propedeutico:   
-1° Anno:   
-1) Analisi matematica I;   
-2) Geometria;   
-3) Fisica I;   
-4) Chimica;   
-5) Disegno.   
-2° Anno:   
-6) Analisi matematica II;   
-7) Meccanica razionale;   
-8) Fisica II;   
-9) Tecnologia dei materiali e chimica applicata;   
-10) Disegno II (per allievi ingegneri civili).   
-Triennio di applicazione:   
-11) Scienza delle costruzioni;   
-12) Meccanica applicata alle macchine e macchine;   
-13) Fisica tecnica;   
-14) Idraulica;   
-15) Architettura tecnica;   
-16) Topografia;   
-17) Complementi di scienza delle costruzioni;   
-18) Elettrotecnica;   
-19) Tecnica delle costruzioni;   
-20) Costruzioni metalliche;   
-21) Geologia e geologia applicata;   
-22) Impianti speciali idraulici;   
-23) Meccanica dei terreni e tecnica delle fondazioni;   
-24) Costruzioni di strade, ferrovie ed aeroporti;   
-25) Costruzioni idrauliche.   
-I restanti corsi per il raggiungimento del numero previsto dal penultimo comma dell'art. 80 sono a scelta dello studente. Il consiglio di facolta', anno per anno, indichera' il numero e la composizione degli indirizzi a scelta, secondo quanto disposto dall'art. 80.   
-Art. 84. - Il corso di laurea in ingegneria civile (sezione trasporti) comprende i seguenti insegnamenti obbligatori:   
-Biennio propedeutico:   
-1° Anno:   
-1) Analisi matematica I;   
-2) Geometria;   
-3) Fisica I;   
-4) Chimica;   
-5) Disegno.   
-2° Anno:   
-6) Analisi matematica II;   
-7) Meccanica razionale;   
-8) Fisica II;   
-9) Tecnologie dei materiali e chimica applicata;   
-10) Disegno II (per allievi ingegneri civili).   
-Triennio di applicazione:   
-11) Scienza delle costruzioni;   
-12) Meccanica applicata alle macchine e macchine;   
-13) Fisica tecnica;   
-14) Idraulica;   
-15) Architettura tecnica;   
-16) Topografia;   
-17) Complementi di scienza delle costruzioni;   
-18) Elettrotecnica;   
-19) Tecnica delle costruzioni;   
-20) Costruzioni metalliche;   
-21) Geologia e geologia applicata;   
-22) Tecnica ed economia dei trasporti;   
-23) Meccanica dei terreni e tecnica delle fondazioni;   
-24) Costruzioni di strade, ferrovie ed aeroporti;   
-25) Costruzione di ponti.   
-I restanti corsi per il raggiungimento del numero previsto dal penultimo comma dell'art. 80 sono a scelta dello studente. Il consiglio di facolta', anno per anno, indichera' il numero e la composizione degli indirizzi a scelta, secondo quanto disposto dall'art. 80.   
-Art. 85. - Il corso di laurea in ingegneria meccanica comprende i seguenti insegnamenti obbligatori:   
-Biennio propedeutico:   
-1° Anno:   
-1) Analisi matematica I;   
-2) Chimica;   
-3) Geometria I;   
-4) Fisica I;   
-5) Disegno (tecnico).   
-2° Anno:   
-6) Analisi matematica II;   
-7) Tecnologie generali dei materiali;   
-8) Meccanica razionale;   
-9) Fisica II;   
-10) Chimica applicata.   
-Triennio di applicazione:   
-11) Materie giuridiche;   
-12) Meccanica applicata alle macchine;   
-13) Scienza delle costruzioni;   
-14) Idraulica;   
-15) Tecnologia meccanica;   
-16) Fisica tecnica;   
-17) Elettrotecnica;   
-18) Macchine;   
-19) Costruzioni di macchine;   
-20) Disegno di macchine;   
-21) Regolazione delle macchine e degli impianti meccanici;   
-22) Misure e strumentazioni industriali;   
-23) Tecniche di calcolo per l'ingegneria meccanica;   
-24) Impianti meccanici.   
-I restanti corsi per il raggiungimento del numero previsto dal penultimo comma dell'art. 80 sono a scelta dello studente. Il consiglio di facolta', anno per anno, indichera' il numero e la composizione degli indirizzi a scelta, secondo quanto disposto dall'art. 80.   
-Art. 86. - Il corso di laurea in ingegneria elettrotecnica comprende i seguenti insegnamenti obbligatori:   
-Biennio propedeutico:   
-1° Anno:   
-1) Analisi matematica I;   
-2) Geometria I;   
-3) Fisica I;   
-4) Chimica;   
-5) Disegno (tecnico).   
-2° Anno:   
-6) Analisi matematica II;   
-7) Meccanica razionale;   
-8) Fisica II;   
-9) Metodi di osservazione e misura.   
-Triennio di applicazione:   
-10) Scienza delle costruzioni;   
-11) Meccanica applicata alle macchine;   
-12) Fisica tecnica;   
-13) Campi elettromagnetici e circuiti;   
-14) Elettrotecnica;   
-15) Complementi di matematica;   
-16) Macchine;   
-17) Idraulica;   
-18) Macchine elettriche;   
-19) Misure elettriche;   
-20) Elettronica applicata;   
-21) Impianti elettrici;   
-22) Complementi di macchine elettriche;   
-23) Calcolatori elettronici;   
-24) Controlli automatici.   
-I restanti corsi per il raggiungimento del numero previsto dal penultimo comma dell'art. 80 sono a scelta dello studente. Il consiglio di facolta', anno per anno, indichera' il numero e la composizione degli indirizzi a scelta, secondo quanto disposto dall'art. 80.   
-Art. 87. - Il corso di laurea in ingegneria chimica comprende i seguenti insegnamenti obbligatori:   
-Biennio propedeutico:   
-1° Anno:   
-1) Analisi matematica I;   
-2) Geometria I;   
-3) Fisica I;   
-4) Chimica;   
-5) Disegno (tecnico).   
-2° Anno:   
-6) Analisi matematica II;   
-7) Meccanica razionale;   
-8) Fisica II;   
-9) Tecnologie generali dei materiali;   
-10) Chimica organica.   
-Triennio di applicazione:   
-11) Scienza delle costruzioni;   
-12) Meccanica applicata alle macchine;   
-13) Fisica tecnica;   
-14) Chimica applicata;   
-15) Meccanica dei fluidi (per allievi ingegneri chimici);   
-16) Chimica fisica;   
-17) Macchine;   
-18) Elettrotecnica;   
-19) Principi di ingegneria chimica;   
-20) Chimica industriale;   
-21) Controlli chimici dei materiali e dei processi industriali;   
-22) Misure fisico-tecniche e controlli;   
-23) Impianti chimici;   
-24) Ingegneria e sviluppo dei processi chimici industriali.   
-I restanti corsi per il raggiungimento del numero previsto dal penultimo comma dell'art. 80 sono a scelta dello studente. Il consiglio di facolta', anno per anno, indichera' il numero e la composizione degli indirizzi a scelta, secondo quanto disposto dall'art. 80.   
-Art. 88. - Il corso di laurea in ingegneria navale e meccanica comprende i seguenti insegnamenti obbligatori:   
-Biennio propedeutico:   
-1° Anno:   
-1) Analisi matematica I;   
-2) Geometria I;   
-3) Fisica I;   
-4) Chimica;   
-5) Disegno (tecnico).   
-2° Anno:   
-6) Analisi matematica II;   
-7) Meccanica razionale;   
-8) Fisica II;   
-9) Geometria II (semestrale);   
-10) Disegno II (per allievi ingegneri navalmeccanici).   
-Triennio di applicazione:   
-11) Materie giuridiche;   
-12) Scienza delle costruzioni;   
-13) Meccanica applicata alle macchine;   
-14) Fisica tecnica;   
-15) Chimica applicata;   
-16) Idraulica;   
-17) Tecnologia della nave;   
-18) Macchine;   
-19) Elettrotecnica;   
-20) Costruzioni di macchine;   
-21) Statica della nave;   
-22) Costruzioni navali mercantili;   
-23) Macchine marine;   
-24) Elettronica generale ed applicata;   
-25) Architettura navale;   
-26) Costruzioni navali militari.   
-I restanti corsi per il raggiungimento del numero previsto dal penultimo comma dell'art. 80 sono a scelta dello studente. Il consiglio di facolta', anno per anno, indichera' il numero e la composizione degli indirizzi a scelta, secondo quanto disposto dall'art. 80.   
-Art. 89. - Il corso di laurea in ingegneria elettronica comprende i seguenti insegnamenti obbligatori:   
-Biennio propedeutico:   
-1° Anno:   
-1) Analisi matematica I;   
-2) Geometria I;   
-3) Fisica I;   
-4) Chimica;   
-5) Disegno (tecnico).   
-2° Anno:   
-6) Analisi matematica II;   
-7) Meccanica razionale;   
-8) Fisica II;   
-9) Metodi di osservazione e misura.   
-Triennio di applicazione:   
-10) Scienza delle costruzioni;   
-11) Meccanica delle macchine e macchine;   
-12) Fisica tecnica;   
-13) Chimico-fisica applicata dei materiali solidi;   
-14) Elettrotecnica;   
-15) Complementi di matematica;   
-16) Teoria delle reti elettriche;   
-17) Campi elettromagnetici e circuiti;   
-18) Macchine elettriche;   
-19) Misure elettriche;   
-20) Elettronica applicata;   
-21) Comunicazioni elettriche;   
-22) Calcolatori elettronici;   
-23) Radiotecnica;   
-24) Controlli automatici.   
-I restanti corsi per il raggiungimento del numero previsto dal penultimo comma dell'art. 80 sono a scelta dello studente. Il consiglio di facolta', anno per anno, indichera' il numero e la composizione degli indirizzi a scelta, secondo quanto disposto dall'art. 80.   
-Art. 90. - Le materie d'indirizzo sono scelte nel seguente elenco.   
-I corsi che figurano come obbligatori per almeno un corso di laurea negli elenchi degli articoli da 82 a 89 sono contenuti anche nell'elenco seguente poiche' ciascuno di essi puo' essere adottato come corso di indirizzo in corsi di laurea diversi da quello in cui tale corso e' obbligatorio.   
-Aerotecnica;   
-Allestimento navale;   
-Analisi microeconomica e finanziaria degli investimenti chimici industriali;   
-Antenne e propagazione elettromagnetica;   
-Applicazioni di meccanica analitica;   
-Architettura e composizione architettonica;   
-Architettura navale I;   
-Architettura navale II;   
-Architettura navale (ex architettura navale I);   
-Architettura tecnica;   
-Attrezzature e strumenti di bordo;   
-Calcolo numerico e programmazione;   
-Calcolatori elettronici;   
-Campi elettromagnetici e circuiti;   
-Cantieri navali;   
-Caramurgia;   
-Chimica applicata;   
-Chimica della superficie;   
-Chimica fisica;   
-Chimica industriale;   
-Chimica-fisica applicata dei materiali solidi;   
-Chimica organica;   
-Cinetica e statica dei processi chimici industriali;   
-Compilatori e sistemi operativi;   
-Complementi di architettura urbanistica;   
-Complementi di architettura navale;   
-Complementi di costruzione di macchine;   
-Complementi di elettrotecnica;   
-Complementi di idraulica;   
-Complementi di impianti elettrici;   
-Complementi di macchine;   
-Complementi di macchine elettriche;   
-Complementi di matematica;   
-Complementi di meccanica applicata alle macchine;   
-Complementi di meccanica razionale;   
-Complementi di scienza delle costruzioni;   
-Complementi di teoria delle reti;   
-Complementi istituzionali di chimica per l'ingegneria (ex chimica organica);   
-Componenti elettronici;   
-Comunicazioni elettriche;   
-Controlli automatici;   
-Controlli automatici ottimali;   
-Controlli chimici dei materiali e dei processi industriali;   
-Controllo dei processi industriali;   
-Controllo statistico di qualita' (ex controllo di qualita' e ricerca operativa);   
-Corrosione anticorrosione industriale;   
-Costruzione di macchine;   
-Costruzione di ponti;   
-Costruzione di strade, ferrovie e aeroporti;   
-Costruzioni aeronautiche;   
-Costruzioni elettromeccaniche;   
-Costruzioni idrauliche;   
-Costruzioni in cemento armato e cemento armato precompresso;   
-Costruzioni in terra e fondazioni speciali;   
-Costruzioni marittime;   
-Costruzioni metalliche;   
-Costruzioni metalliche speciali (ex strutture metalliche speciali);  
-Costruzione navale (ex costruzioni navali mercantili);   
-Costruzioni navali mercantili;   
-Costruzioni navali militari;   
-Dinamica delle costruzioni;   
-Dinamica delle grandi reti;   
-Dinamica delle macchine elettriche;   
-Disegno;   
-Disegno di architettura;   
-Disegno di macchine;   
-Disegno (tecnico);   
-Disegno II (per allievi ingegneri civili);   
-Disegno II (per allievi ingegneri navalmeccanici);   
-Dispositivi a semiconduttore;   
-Economia dell'ingegneria;   
-Economia ed organizzazione industriale;   
-Economia, stima e sicurezza della nave;   
-Elettronica applicata;   
-Elettronica industriale;   
-Elettronica generale ed applicata;   
-Elettrotecnica;   
-Elementi ecologici di ingegneria chimica;   
-Equazioni differenziali ordinarie;   
-Estimo ed esercizio professionale;   
-Fisica dei solidi;   
-Fisica tecnica;   
-Fisica tecnica del reattore;   
-Fluodinamica dei sistemi polifasi a molti componenti;   
-Fluodinamica delle macchine;   
-Fotogrammetria e cartografia;   
-Gasdinamica;   
-Geologia e geologia applicata;   
-Giacimenti e tecnologia del petrolio e dei gas combustibili;   
-Geometria I;   
-Geometria II;   
-Geotecnica;   
-Identificazione e simulazione;   
-Idraulica;   
-Idraulica (per allievi ingegneri chimici);   
-Idraulica marittima e costiera;   
-Idrologia tecnica;   
-Igiene applicata;   
-Impianti chimici;   
-Impianti di comunicazioni elettriche;   
-Impianti elettrici;   
-Impianti elettrici di bordo;   
-Impianti meccanici;   
-Impianti nucleari;   
-Impianti petrolchimici;   
-Impianti speciali idraulici;   
-Impianti tecnici;   
-Impianti termici speciali;   
-Informatica;   
-Ingegneria dei sistemi nella produzione chimica industriale;   
-Ingegneria e sviluppo dei processi chimici industriali;   
-Ingegneria sanitaria;   
-Introduzione ai calcolatori digitali;   
-Istituzioni di chimica per l'ingegneria (ex chimica);   
-Laboratorio di elettronica;   
-Laboratorio di elettrotecnica;   
-Laboratorio di idraulica e modellistica;   
-Laboratorio di ingegneria chimica;   
-Laboratorio di macchine;   
-Laboratorio di meccanica applicata;   
-Laboratorio di tecnologie meccaniche;   
-Laboratorio di termodinamica applicata;   
-Lavorazioni meccaniche (ex tecnologia meccanica per allievi ingegneri elettrotecnici);   
-Macchine;   
-Macchine elettriche;   
-Macchine marine;   
-Materiali magnetici dielettrici e conduttori;   
-Materiali metallici per costruzioni civili;   
-Materie giuridiche;   
-Meccanica applicata alle macchine;   
-Meccanica applicata alle macchine e macchine;   
-Meccanica applicata alle macchine e macchine (per allievi ingegneri elettronici);   
-Meccanica dei fluidi (per allievi ingegneri chimici) - ex idraulica per allievi ingegneri chimici;   
-Meccanica dei terreni e tecnica delle fondazioni;   
-Meccanica delle macchine e macchine (ex meccanica applicata alle macchine e macchine per allievi ingegneri elettronici);   
-Meccanica delle vibrazioni;   
-Meccanica tecnica superiore;   
-Metodi di conduzione aziendale;   
-Metodi di fabbricazione;   
-Metodi di osservazione e misura;   
-Metodi matematici dell'ingegneria;   
-Mezzi di sollevamento e trasporto;   
-Microonde;   
-Mineralogia;   
-Misure e controlli idraulici;   
-Misure elettriche;   
-Misure elettroniche;   
-Misure e strumentazione industriali;   
-Misure fisico-tecniche e controlli (per allievi ingegneri chimici);  
-Misure fisico-tecniche e controlli (per allievi ingegneri meccanici);   
-Misure meccaniche e collaudi;   
-Misure termo-tecniche e controlli (ex misure fisico-tecniche e controlli per allievi ingegneri meccanici);   
-Organizzazione, sistemi informativi e automazione;   
-Organizzazione aziendale e di cantiere;   
-Petrolchimica;   
-Pianificazione ed organizzazione dei trasporti;   
-Pianificazione territoriale;   
-Plasmi;   
-Principi di bioingegneria;   
-Principi di ingegneria chimica;   
-Principi di ingegneria nucleare;   
-Principi di telefonia e telegrafia;   
-Probabilita', statistica e loro applicazioni industriali;   
-Probabilita', variabili aleatorie e processi stocastici;   
-Processi chimici industriali (ex chimica industriale);   
-Progettazione di circuiti elettronici;   
-Progetto delle navi;   
-Progetti di impianti chimici;   
-Progetti di macchine;   
-Progetto di costruzioni;   
-Programmazione matematica e ottimizzazione;   
-Propulsione aerea e spaziale;   
-Propulsione navale nucleare;   
-Radiotecnica;   
-Regolazione delle macchine e degli impianti meccanici;   
-Reti e sistemi di telecomunicazioni;   
-Ricerca operativa;   
-Scienza dei materiali per l'ingegneria (ex chimica applicata);   
-Scienza delle costruzioni;   
-Servizi di stabilimento;   
-Siderurgia;   
-Sintesi di reti elettriche;   
-Sistemi organizzativi aziendali (ex organizzazione, sistemi informativi e automazione);   
-Sistemi per l'elaborazione dell'informazione;   
-Sperimentazione dei materiali e delle strutture;   
-Statica della nave (ex architettura navale II);   
-Strutture metalliche speciali;   
-Strutture speciali;   
-Tecnica dei reattori nucleari;   
-Tecnica della circolazione;   
-Tecnica della combustione;   
-Tecnica della regolazione;   
-Tecnica delle basse temperature;   
-Tecnica delle costruzioni;   
-Tecnica ed economia dei trasporti;   
-Tecnica ed impianti di elettroacustica;   
-Tecnica industriale edile;   
-Tecnica siderurgica;   
-Tecnica telefonica e telegrafica;   
-Tecnica urbanistica;   
-Tecniche di calcolo per l'ingegneria meccanica;   
-Tecnologia della nave;   
-Tecnologia meccanica;   
-Tecnologia meccanica (per allievi ingegneri elettrotecnici);   
-Tecnologie chimico-inorganiche e nucleari;   
-Tecnologie chimico-organiche e dei combustibili;   
-Tecnologie dei materiali e chimica applicata;   
-Tecnologie dei metalli;   
-Tecnologie elettroniche;   
-Tecnologie generali dei materiali;   
-Tecnologie generali meccaniche;   
-Tecnologie nucleari;   
-Tecnologie speciali;   
-Teoria dei processi siderurgici (ex siderurgia);   
-Teoria dei sistemi lineari;   
-Teoria della regolazione;   
-Teoria delle reti elettriche;   
-Teoria e pratica della lubrificazione;   
-Teoria e tecnica dei processi elettrochimici;   
-Teoria e tecnica dei reattori;   
-Teorie chimico-fisiche applicate all'ingegneria (ex chimica fisica);   
-Termodinamica e termocinetica applicata;   
-Topografia;   
-Trasporti per via d'acqua e aerei;   
-Trazione elettrica;   
-Tribologia;   
-Valorizzazione e difesa dell'ambiente.   
-Art. 91. - Per gli allievi di ingegneria navale e meccanica l'esame di laurea comprende la discussione di una tesi di laurea consistente nella redazione di un progetto di una nave.   
+1° Anno:  
+  
+Anestesia generale e locale. Complicanze e mezzi per prevenirle e trattarle.  
+Tecnologia delle attrezzature chirurgiche piu' complesse (apparati per microchirurgia, apparati per fotocoagulazione con sorgenti allo xenone e laser, apparati diatermici, apparati criogenici, dermotomi e mucosotomi, apparati per cheratoplastiche, apparati per la preparazione di impianti plastici e protesi corneali, lenticolari e sclerali, apparati per incisioni corneali e sclerali, materiali per suture).  
+Chirurgia della cornea: 1) tecniche per la cheratoplastica perforante e lamellare; 2) conservazione del materiale da innesto; 3) cheratoplastiche a scopo refrattivo e tettonico; 4) tecniche delle cheratoprotesi perforanti, delle cheratoprotesi intralamellari, delle epicheratoprotesi e dell'impianto di endotelio artificiale; 5) mezzi di sutura per la cornea e impiego di adesivi tissurali; 6) uso del microscopio operatorio nella chirurgia della cornea.  
+Chirurgia del cristallino: 1) estrazione del cristallino con microscopio operatorio; 2) crioestrazione del cristallino; 3) zonulolisi enzimatica: indicazioni e complicanze; 4) estrazione del cristallino lussato e sublussato.  
+Chirurgia del glaucoma: 1) tecniche ed indicazioni degli interventi fistolizzanti; 2) ciclodialisi; 3) cicloanemizzazione ed interventi diretti a ridurre la secrezione dell'umor acqueo (ciclodiatermia, crioapplicazioni); 4) tecniche di trabeculotomia con l'ausilio del microscopio operatorio; 5) intervento per glaucoma secondario; 6) intervento per il glaucoma congenito.  
+Correzione chirurgica delle eterotropie ed eteroforie con particolare riguardo agli interventi dei muscoli verticali ed al trattamento delle sindromi A e V.  
+Chirurgia dell'apparato lacrimale: dacriocistorinostomia, lacorinostomia, ricostruzione chirurgica dei canalini lacrimali.  
+  
+2° Anno:  
+  
+Chirurgia delle palpebre: 1) correzione chirurgica della ptosi palpebrale; 2) chirurgia dell'entropino; ectropion e lagoftalmo; 3) asportazione di neoformazioni palpebrali ed interventi di ricostruzione plastica.  
+Tecniche di localizzazione ed estrazione di corpi estranei endoculari magnetizzabili e non magnetizzabili.  
+Chirurgia dell'orbita: exenteratio orbitae e procedimenti di plastica a scopo cosmetico; procedimenti chirurgici per il trattamento di neoformazioni orbitarie; trattamento chirurgico della retrazione delle cavita' anfotalmiche; procedimenti di enucleazioni ed eviscerazione del bulbo con impianti orbitari per protesi mobili.  
+Chirurgia del distacco di retina: 1) tecniche diagnostiche inerenti alla chirurgia retinica; 2) interventi di diatermocoagulazione di superficie; 3) interventi di scleroplastica con e senza impiego di impianto intrasclerale; 4) interventi di scleroplastica con cerchiaggio; 5) materiali di impianto organico ed inorganico; 6) interventi di scleroplastica con applicazioni criogeniche; 7) fotocoagulazioni e sue indicazioni, interventi con fotocoagulazione con e senza procedimenti di scleroplastica; 8) chirurgia del vitreo: impianti di vitreo fresco e conservato e suoi succedanei; 9) profilassi del distacco retinico: sue indicazioni ed impiego delle applicazioni diatermiche e della fotocoagulazione.  
+  
+3° Anno:  
+  
+Trattamento chirurgico della retinopatia diabetica, della retinopatia di Eales e delle retinopatie angiomatosiche: fotocoagulazione, diatermia, applicazioni criogeniche.  
+Complicazioni internistiche generali preoperatorie della chirurgia oculare e loro trattamento: complicazioni cardiovascolari, respiratorie, urologiche, endocrine e dismetaboliche, complicazioni jatrogeniche postoperatorie, complicazioni psicologiche e psichiatriche.  
+Complicazione della chirurgia palpebrale ed in particolare delle operazioni per ptosi palpebrale.  
+Complicazioni della chirurgia dell'apparato lacrimale.  
+Complicazioni della chirurgia delle esotropie e delle esoforie.  
+Complicazioni della chirurgia dell'orbita, della enucleazione ed eviscerazione del bulbo e degli impianti orbitari.  
+Complicazioni degli interventi sulla cornea, ed in particolare delle cheratoplastiche e degli impianti cheratoprotesici e loro trattamento.  
+Complicazioni degli interventi per il glaucoma e loro trattamento.  
+Reinterventi antiglaucomatosi.  
+Complicazioni della chirurgia del cristallino e loro trattamento.  
+Complicazioni della chirurgia per il distacco di retina. Recidive e reinterventi.  
+  
+Art. 279. - Alla scuola sono ammessi i laureati in medicina e chirurgia che abbiano conseguito il diploma di specializzazione presso una scuola di specializzazione in clinica oculistica in numero non superiore a dieci complessivamente. La frequenza ai corsi e' obbligatoria.  
+Art. 280. - Alla fine di ogni corso, gli iscritti dovranno sostenere un colloquio sulle materie svolte.  
+Alla fine del terzo anno gli allievi che avranno superato i colloqui saranno ammessi alla prova finale consistente in una prova orale, in una dimostrazione operatoria pratica e nella discussione di una tesi scritta.  
+Art. 281. - Il colloquio di ciascun anno e la prova finale saranno sostenuti davanti ad una commissione nominata dal rettore e composta da 5 membri preposti dal direttore della scuola (3 dei quali professori di ruolo della stessa materia o di materie affini).  
+Art. 282. - Agli iscritti alla scuola che avranno superato gli esami prescritti sara' rilasciato un diploma di perfezionamento in chirurgia oculare da valere a tutti gli effetti legali.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 luglio 1973
+### Dato a Roma, addi' 28 gennaio 1972
 
-LEONE MALFATTI
+LEONE MISASI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 23 novembre 1973
+Registrato alla Corte dei conti, addi' 11 marzo 1972
 
-Atti di Governo, registro n. 262, foglio n. 52. - CARUSO
+Atti del Governo, registro n. 247, foglio n. 101. - VALENTINI

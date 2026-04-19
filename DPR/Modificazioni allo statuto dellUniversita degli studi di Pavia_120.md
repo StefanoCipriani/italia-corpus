@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1969 n. 954
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1957 n. 791
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1969 n. 954
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1957 n. 791
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Pavia approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,7 +18,9 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -30,149 +32,223 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Gli articoli da 122 a 128 relativi alla scuola di specializzazione in idrologia, crenologia e climatoterapia che muta denominazione in quella di idroclimatologia medica e clinica termale, sono abrogati e sostituiti dai seguenti:
+Art. 24. - Agli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto quello di: 8) "Storia economica".
 
-Scuola di specializzazione in idroclimatologia medica e clinica termale
+Art. 27. - Sono aggiunti i seguenti comma:
 
-Art. 122. - La scuola mira a creare una categoria di medici altamente qualificati e competenti nel campo della idrologia e climatologia medica, compresa la talassologia, i quali possono esercitare un'attivita' specifica in particolare nelle stazioni termali e climatiche.
+"Alla Facolta' e' annesso un Istituto di storia delle dottrine politiche che ha per scopo di promuovere il perfezionamento negli studi di storia delle dottrine politiche secondo i piu' moderni procedimenti critici e metodologici, disponendo di opportune dotazioni bibliografiche, periodiche e documentarie.
 
-La durata del corso di studi e' di tre anni.
+L'Istituto e' ordinato come seminario ai sensi dello art. 23 del regolamento generale universitario, e svolge la sua attivita' mediante esercitazioni pratiche, ricerche tecniche e metodologiche, lavori di indagine critica e sistematica nei diversi campi della cultura teorico-politica e della prassi associativa. Sono ammessi all'Istituto studenti e laureati della Facolta' che hanno funzione e carattere di addestramento in prevalenza umanistico e storico sociologico, e cioe' scienze politiche, giurisprudenza, lettere e filosofia, economia e commercio, lingue straniere, ed in generale tutti coloro che intendono professare secondo disciplina scientifica l'ordine degli studi predetti. L'Istituto e' diretto dal professore titolare della storia delle dottrine politiche della Facolta'".
 
-Alla scuola sono ammessi i laureati in medicina e chirurgia.
+Art. 36. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di: 12) "Semeiotica medica".
 
-Il numero totale massimo degli iscritti per i tre anni di corso e' di venticinque, in relazione alle attrezzature dei laboratori ed al personale assistente e tecnico degli istituti dove si svolgono gli insegnamenti.
+Dopo l'art. 144, sono aggiunti i seguenti nuovi articoli relativi all'istituzione delle Scuole di specializzazione in medicina del lavoro ed in malattie infettive.
 
-L'insegnamento e le esercitazioni per gli specializzandi degli ultimi due anni si svolgono nei seguenti istituti: clinica medica, patologia medica, medicina del lavoro, clinica dermosifilopatica, clinica ortopedica, clinica otorinolaringoiatrica, clinica pediatrica, clinica ostetrica e ginecologia, clinica chirurgica. Tali cliniche mettono a disposizione quei casi che possono interessare sul piano didattico l'insegnamento della idroclimatologia e clinica termale.
+Scuola di specializzazione in medicina del lavoro
 
-Art. 123. - Gli insegnamenti impartiti nella scuola sono i seguenti:
+Art. 145. - E' istituita, presso l'Istituto di medicina del lavoro, la Scuola di specializzazione in medicina del lavoro.
 
-1° Anno:
+La Scuola dispone dei reparti e delle attrezzature dell'Istituto di medicina del lavoro e di una sezione malati presso la Clinica medica.
 
-1) Geologia idrologica, geofisica, metereologia e climatologia generale;
+Direttore della Scuola e' il titolare della cattedra di medicina del lavoro.
 
-2) Chimica chimico-fisica idroclimatologica;
+Art. 146. - Durante il corso, che ha la durata di due anni, oltre alle lezioni relative alle materie indicate nel programma, verranno tenute esercitazioni di semiologia, diagnostica differenziale e di terapia speciale al letto dell'ammalato.
 
-3) Effetti biologici e meccanismo d'azione dei fattori idroclimatologici;
+Si svolgeranno esercitazioni teorico-pratiche nei laboratori e si eseguiranno visite didattiche agli ambienti di lavoro.
 
-4) Ecologia medica. Geografia idroclimatologica;
+Art. 147. - La frequenza delle lezioni, delle esercitazioni e delle visite agli ambienti del lavoro e' obbligatoria. Come pure e' obbligatorio l'internato nell'Istituto di medicina del lavoro.
 
-5) Cure idroclimatologiche e terapie fisiche nelle malattie reumatiche.
+Art. 148. - Alla Scuola non sono ammessi piu' di dieci medici per ogni anno. Qualora le domande di iscrizione fossero in numero superiore la direzione della Scuola si riserva di provvedere ad una scelta in base ai titoli di studio ed eventualmente, a mezzo dissertazione.
 
-2° Anno:
+Art. 149. - Alla fine del primo anno gli specializzandi che abbiano ottenuto la firma di frequenza dovranno sostenere un esame di profitto nelle materie di insegnamento annuali.
 
-1) Cure idroclimatologiche nelle malattie dell'apparato respiratorio;
+Alla fine del secondo anno gli specializzandi dovranno sostenere l'esame di profitto nelle materie di insegnamento annuale del secondo corso.
 
-2) Cure idroclimatologiche nelle malattie dell'apparato cardiovascolare;
+L'esame di diploma consiste nella discussione di una dissertazione scritta su di un argomento di medicina del lavoro che deve essere approvato dalla Direzione della Scuola. La dissertazione deve essere presentata per l'approvazione almeno un mese prima delle prove di esame.
 
-3) Cure idroclimatologiche nelle malattie del fegato e del tubo digerente;
+Art. 150. - La Commissione per gli esami di profitto e per l'esame di diploma saranno nominate secondo le norme generali di cui agli articoli 76 e 77 dello statuto.
 
-4) Cure idroclimatologiche in otorinolaringoiatria (complementare);
+Art. 151. - Le materie di insegnamento sono:
 
-5) Cure idroclimatologiche in dermatologia (complementare).
+1° anno:
 
-3° Anno:
+Fisiologia del lavoro;
 
-1) Cure idroclimatologiche nelle malattie delle vie urinarie;
+Patologia generale delle intossicazioni;
 
-2) Cure idroclimatologiche nelle malattie del ricambio e malattie endocrine;
+Tossicologia da materiale di lavoro;
 
-3) Cure idroclimatologiche in ginecologia (complementare);
+Anatomia patologica delle malattie professionali;
 
-4) Organizzazione termale e legislazione in campo idroclimatologico;
+Radiologia delle tecnopatie;
 
-5) Tecniche per l'applicazione delle cure idroclimatologiche.
+Psicotecnica;
 
-Art. 124. - Le lezioni del 1° e 2° anno sono corredate da esercitazioni di carattere sperimentale e clinico; potranno essere effettuate visite di istruzione alle stazioni termali.
+Statistica di patologia professionale;
 
-Art. 125. - Gli specializzandi hanno l'obbligo di frequentare come interni durante il triennio gli istituti dove ha sede la scuola di idroclimatologia. La frequenza alle lezioni ed alle esercitazioni nonche' l'internato sono obbligatori.
+Igiene del lavoro (biennale),
 
-Art. 126. - Al termine di ogni anno verra' sostenuto un esame teorico-pratico sugli insegnamenti impartiti.
+Medicina assicurativa e valutazione di danno (biennale);
 
-La commissione, costituita da tre membri, esprime il giudizio con una votazione in trentesimi.
+Patologia e clinica delle malattie professionali (biennale).
 
-Art. 127. - Al termine dei tre anni verra' presentata una tesi di specializzazione compilativa o sperimentale che verra' giudicata da una commissione di cinque membri.
+2° anno:
 
-La votazione e' espressa in cinquantesimi.
+Malattie professionali del sistema nervoso;
 
-Art. 128. - L'esito favorevole degli esami e' provato da un diploma che da' diritto al titolo professionale di "Specialista in idroclimatologia medica e clinica termale".
+Malattie professionali dell'apparato visivo;
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Malattie professionali del sistema cutaneo;
 
-Dato a Roma, addi' 23 ottobre 1969
+Malattie professionali e ginecologia;
 
-SARAGAT
+Malattie professionali dell'orecchio, naso e gola;
 
-FERRARI AGGRADI
+Malattie professionali e traumatologia;
 
-Visto, il Guardasigilli: GAVA
+Igiene del lavoro;
+
+Medicina assicurativa e valutazione di danno;
+
+Patologia e clinica delle malattie professionali.
+
+Scuola di specializzazione in malattie infettive
+
+Art. 152. - E' istituita, presso l'Istituto di clinica medica e l'Istituto di igiene e microbiologia, la Scuola di specializzazione in malattie infettive.
+
+La Scuola e' posta sotto la direzione del titolare di clinica medica, e dispone del reparto isolamento e dei laboratori della Clinica medica, nonche' dei laboratori dell'Istituto di igiene e microbiologia, compresa la sezione virus.
+
+Art. 153. - Il corso, che si svolge presso l'Istituto di clinica medica e presso l'Istituto di igiene e microbiologia, ha la durata di due anni e comporta i seguenti insegnamenti:
+
+Microbiologia e virologia (corso biennale di 30 lezioni annuali);
+
+Epidemiologia e profilassi delle malattie infettive (corso biennale di 20 lezioni annuali);
+
+Immunologia (corso annuale di 15 lezioni);
+
+Clinica delle malattie-infettive (corso biennale teorico-pratico di 20 lezioni annuali);
+
+Metodi di accertamento diagnostico delle malattie infettive (corso biennale di 10 lezioni annuali);
+
+Terapia immunologica e chemio-antibiotica delle malattie infettive (corso biennale di 10 lezioni annuali).
+
+I suddetti insegnamenti sono integrati da esercitazioni di microbiologia ed immunologia e da esercitazioni al letto del malato.
+
+Art. 154. - Nel primo anno di corso e' obbligatorio un internato di almeno sei mesi nell'Istituto di igiene e microbiologia e nel secondo anno un internato di almeno sei mesi nel reparto degenza della Clinica medica.
+
+Art. 155. - Alla Scuola sono ammessi i laureati in medicina e chirurgia in numero limitato alle disponibilita' dei laboratori dell'Istituto di igiene e microbiologia e dei reparti della Clinica medica.
+
+Il Consiglio della scuola, costituito dal direttore della Clinica medica e dal direttore dell'Istituto di igiene, esaminera' le domande di ammissione e formera' una graduatoria dei candidati ai posti disponibili il cui numero sara' fissato dal Consiglio stesso, di anno in anno, in rapporto alle esigenze di cui sopra.
+
+Art. 156. - Alla fine del primo anno, gli iscritti dovranno sostenere un esame sulle materie dei corsi annuali di lezioni e di esercitazioni svolte durante l'anno. Un esame analogo dovra' essere sostenuto alla fine del secondo anno.
+
+Al termine del corso ha luogo l'esame di diploma che consiste nella presentazione e discussione di una dissertazione scritta su argomento inerente le materie di insegnamento e previamente concordato fra il diplomando e il Consiglio della scuola.
+
+Art. 157. - Le Commissioni per gli esami di profitto e per l'esame di diploma saranno nominate secondo le norme generali di cui agli articoli 76 e 77 dello statuto.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 30 giugno 1957
+
+GRONCHI
+
+MORO
+
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 17 dicembre 1969 Atti del Governo, registro n. 230, foglio n. 151. - CARUSO
+alla Corte dei conti, addi' 5 settembre 1957 Atti del Governo, registro n. 107, foglio n. 105. - RELLEVA
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Pavia approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli da 122 a 128 relativi alla scuola di specializzazione in idrologia, crenologia e climatoterapia che muta denominazione in quella di idroclimatologia medica e clinica termale, sono abrogati e sostituiti dai seguenti:  
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 24. - Agli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto quello di: 8) "Storia economica".   
+Art. 27. - Sono aggiunti i seguenti comma:   
+"Alla Facolta' e' annesso un Istituto di storia delle dottrine politiche che ha per scopo di promuovere il perfezionamento negli studi di storia delle dottrine politiche secondo i piu' moderni procedimenti critici e metodologici, disponendo di opportune dotazioni bibliografiche, periodiche e documentarie.   
+L'Istituto e' ordinato come seminario ai sensi dello art. 23 del regolamento generale universitario, e svolge la sua attivita' mediante esercitazioni pratiche, ricerche tecniche e metodologiche, lavori di indagine critica e sistematica nei diversi campi della cultura teorico-politica e della prassi associativa. Sono ammessi all'Istituto studenti e laureati della Facolta' che hanno funzione e carattere di addestramento in prevalenza umanistico e storico sociologico, e cioe' scienze politiche, giurisprudenza, lettere e filosofia, economia e commercio, lingue straniere, ed in generale tutti coloro che intendono professare secondo disciplina scientifica l'ordine degli studi predetti. L'Istituto e' diretto dal professore titolare della storia delle dottrine politiche della Facolta'".   
+Art. 36. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di: 12) "Semeiotica medica".   
+Dopo l'art. 144, sono aggiunti i seguenti nuovi articoli relativi all'istituzione delle Scuole di specializzazione in medicina del lavoro ed in malattie infettive.   
+Scuola di specializzazione in medicina del lavoro   
+Art. 145. - E' istituita, presso l'Istituto di medicina del lavoro, la Scuola di specializzazione in medicina del lavoro.   
+La Scuola dispone dei reparti e delle attrezzature dell'Istituto di medicina del lavoro e di una sezione malati presso la Clinica medica.   
+Direttore della Scuola e' il titolare della cattedra di medicina del lavoro.   
+Art. 146. - Durante il corso, che ha la durata di due anni, oltre alle lezioni relative alle materie indicate nel programma, verranno tenute esercitazioni di semiologia, diagnostica differenziale e di terapia speciale al letto dell'ammalato.   
+Si svolgeranno esercitazioni teorico-pratiche nei laboratori e si eseguiranno visite didattiche agli ambienti di lavoro.   
+Art. 147. - La frequenza delle lezioni, delle esercitazioni e delle visite agli ambienti del lavoro e' obbligatoria. Come pure e' obbligatorio l'internato nell'Istituto di medicina del lavoro.   
+Art. 148. - Alla Scuola non sono ammessi piu' di dieci medici per ogni anno. Qualora le domande di iscrizione fossero in numero superiore la direzione della Scuola si riserva di provvedere ad una scelta in base ai titoli di studio ed eventualmente, a mezzo dissertazione.   
+Art. 149. - Alla fine del primo anno gli specializzandi che abbiano ottenuto la firma di frequenza dovranno sostenere un esame di profitto nelle materie di insegnamento annuali.   
+Alla fine del secondo anno gli specializzandi dovranno sostenere l'esame di profitto nelle materie di insegnamento annuale del secondo corso.   
+L'esame di diploma consiste nella discussione di una dissertazione scritta su di un argomento di medicina del lavoro che deve essere approvato dalla Direzione della Scuola. La dissertazione deve essere presentata per l'approvazione almeno un mese prima delle prove di esame.   
+Art. 150. - La Commissione per gli esami di profitto e per l'esame di diploma saranno nominate secondo le norme generali di cui agli articoli 76 e 77 dello statuto.   
+Art. 151. - Le materie di insegnamento sono:   
+1° anno:   
+Fisiologia del lavoro;   
+Patologia generale delle intossicazioni;   
+Tossicologia da materiale di lavoro;   
+Anatomia patologica delle malattie professionali;   
+Radiologia delle tecnopatie;   
+Psicotecnica;   
+Statistica di patologia professionale;   
+Igiene del lavoro (biennale),   
+Medicina assicurativa e valutazione di danno (biennale);   
+Patologia e clinica delle malattie professionali (biennale).   
+2° anno:   
+Malattie professionali del sistema nervoso;   
+Malattie professionali dell'apparato visivo;   
+Malattie professionali del sistema cutaneo;   
+Malattie professionali e ginecologia;   
+Malattie professionali dell'orecchio, naso e gola;   
+Malattie professionali e traumatologia;   
+Igiene del lavoro;   
+Medicina assicurativa e valutazione di danno;   
+Patologia e clinica delle malattie professionali.   
   
-Scuola di specializzazione in idroclimatologia medica e clinica termale  
-Art. 122. - La scuola mira a creare una categoria di medici altamente qualificati e competenti nel campo della idrologia e climatologia medica, compresa la talassologia, i quali possono esercitare un'attivita' specifica in particolare nelle stazioni termali e climatiche.  
-La durata del corso di studi e' di tre anni.  
-Alla scuola sono ammessi i laureati in medicina e chirurgia.  
-Il numero totale massimo degli iscritti per i tre anni di corso e' di venticinque, in relazione alle attrezzature dei laboratori ed al personale assistente e tecnico degli istituti dove si svolgono gli insegnamenti.  
-L'insegnamento e le esercitazioni per gli specializzandi degli ultimi due anni si svolgono nei seguenti istituti: clinica medica, patologia medica, medicina del lavoro, clinica dermosifilopatica, clinica ortopedica, clinica otorinolaringoiatrica, clinica pediatrica, clinica ostetrica e ginecologia, clinica chirurgica. Tali cliniche mettono a disposizione quei casi che possono interessare sul piano didattico l'insegnamento della idroclimatologia e clinica termale.  
-Art. 123. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
-1° Anno:  
-1) Geologia idrologica, geofisica, metereologia e climatologia generale;  
-2) Chimica chimico-fisica idroclimatologica;  
-3) Effetti biologici e meccanismo d'azione dei fattori idroclimatologici;  
-4) Ecologia medica. Geografia idroclimatologica;  
-5) Cure idroclimatologiche e terapie fisiche nelle malattie reumatiche.  
-2° Anno:  
-1) Cure idroclimatologiche nelle malattie dell'apparato respiratorio;  
-2) Cure idroclimatologiche nelle malattie dell'apparato cardiovascolare;  
-3) Cure idroclimatologiche nelle malattie del fegato e del tubo digerente;  
-4) Cure idroclimatologiche in otorinolaringoiatria (complementare);  
-5) Cure idroclimatologiche in dermatologia (complementare).  
-3° Anno:  
-1) Cure idroclimatologiche nelle malattie delle vie urinarie;  
-2) Cure idroclimatologiche nelle malattie del ricambio e malattie endocrine;  
-3) Cure idroclimatologiche in ginecologia (complementare);  
-4) Organizzazione termale e legislazione in campo idroclimatologico;  
-5) Tecniche per l'applicazione delle cure idroclimatologiche.  
-Art. 124. - Le lezioni del 1° e 2° anno sono corredate da esercitazioni di carattere sperimentale e clinico; potranno essere effettuate visite di istruzione alle stazioni termali.  
-Art. 125. - Gli specializzandi hanno l'obbligo di frequentare come interni durante il triennio gli istituti dove ha sede la scuola di idroclimatologia. La frequenza alle lezioni ed alle esercitazioni nonche' l'internato sono obbligatori.  
-Art. 126. - Al termine di ogni anno verra' sostenuto un esame teorico-pratico sugli insegnamenti impartiti.  
-La commissione, costituita da tre membri, esprime il giudizio con una votazione in trentesimi.  
-Art. 127. - Al termine dei tre anni verra' presentata una tesi di specializzazione compilativa o sperimentale che verra' giudicata da una commissione di cinque membri.  
-La votazione e' espressa in cinquantesimi.  
-Art. 128. - L'esito favorevole degli esami e' provato da un diploma che da' diritto al titolo professionale di "Specialista in idroclimatologia medica e clinica termale".  
+Scuola di specializzazione in malattie infettive   
+  
+Art. 152. - E' istituita, presso l'Istituto di clinica medica e l'Istituto di igiene e microbiologia, la Scuola di specializzazione in malattie infettive.   
+La Scuola e' posta sotto la direzione del titolare di clinica medica, e dispone del reparto isolamento e dei laboratori della Clinica medica, nonche' dei laboratori dell'Istituto di igiene e microbiologia, compresa la sezione virus.   
+Art. 153. - Il corso, che si svolge presso l'Istituto di clinica medica e presso l'Istituto di igiene e microbiologia, ha la durata di due anni e comporta i seguenti insegnamenti:   
+Microbiologia e virologia (corso biennale di 30 lezioni annuali);   
+Epidemiologia e profilassi delle malattie infettive (corso biennale di 20 lezioni annuali);   
+Immunologia (corso annuale di 15 lezioni);   
+Clinica delle malattie-infettive (corso biennale teorico-pratico di 20 lezioni annuali);   
+Metodi di accertamento diagnostico delle malattie infettive (corso biennale di 10 lezioni annuali);   
+Terapia immunologica e chemio-antibiotica delle malattie infettive (corso biennale di 10 lezioni annuali).   
+I suddetti insegnamenti sono integrati da esercitazioni di microbiologia ed immunologia e da esercitazioni al letto del malato.   
+Art. 154. - Nel primo anno di corso e' obbligatorio un internato di almeno sei mesi nell'Istituto di igiene e microbiologia e nel secondo anno un internato di almeno sei mesi nel reparto degenza della Clinica medica.   
+Art. 155. - Alla Scuola sono ammessi i laureati in medicina e chirurgia in numero limitato alle disponibilita' dei laboratori dell'Istituto di igiene e microbiologia e dei reparti della Clinica medica.   
+Il Consiglio della scuola, costituito dal direttore della Clinica medica e dal direttore dell'Istituto di igiene, esaminera' le domande di ammissione e formera' una graduatoria dei candidati ai posti disponibili il cui numero sara' fissato dal Consiglio stesso, di anno in anno, in rapporto alle esigenze di cui sopra.   
+Art. 156. - Alla fine del primo anno, gli iscritti dovranno sostenere un esame sulle materie dei corsi annuali di lezioni e di esercitazioni svolte durante l'anno. Un esame analogo dovra' essere sostenuto alla fine del secondo anno.   
+Al termine del corso ha luogo l'esame di diploma che consiste nella presentazione e discussione di una dissertazione scritta su argomento inerente le materie di insegnamento e previamente concordato fra il diplomando e il Consiglio della scuola.   
+Art. 157. - Le Commissioni per gli esami di profitto e per l'esame di diploma saranno nominate secondo le norme generali di cui agli articoli 76 e 77 dello statuto.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 ottobre 1969
+### Dato a Roma, addi' 30 giugno 1957
 
-SARAGAT FERRARI AGGRADI
+GRONCHI MORO
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 17 dicembre 1969
+Registrato alla Corte dei conti, addi' 5 settembre 1957
 
-Atti del Governo, registro n. 230, foglio n. 151. - CARUSO
+Atti del Governo, registro n. 107, foglio n. 105. - RELLEVA

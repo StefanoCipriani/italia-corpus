@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1970 n. 997
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 940
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1970 n. 997
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 940
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
@@ -12,7 +12,7 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169) e modificato con [regio decreto 13 ottobre 1929, n. 2481](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-13;2481), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
@@ -26,42 +26,42 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 59. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:  
-1) Chemioterapia;  
-2) Tossicologia:  
-3) Auxologia normale e patologica;  
-4) Chirurgia pediatrica;  
-5) Chirurgia toracica;  
-6) Reumatologia;  
-7) Neurochirurgia;  
-8) Urologia;  
-9) Chirurgia plastica e ricostruttiva;  
-10) Gerontologia e geriatria;  
-11) Immunologia clinica;  
-12) Ortognatodonzia;  
-13) Puericultura prenatale;  
-14) Endocrinologia ginecologica;  
-15) Fisiologia della nutrizione;  
-16) Traumatologia della strada;  
-17) Patologia dell'apparato locomotore;  
-18) Psicologia medica;  
-19) Patologia cellulare;  
-20) Tecnica e diagnostica istopatologica;  
-21) Endocrinologia e medicina costituzionale;  
-22) Chirurgia d'urgenza;  
-23) Chirurgia sperimentale;  
-24) Malattie dell'apparato cardio-vascolare.  
+Art. 7. - All'elenco degli insegnamenti complementari nel corso di laurea in giurisprudenza sono aggiunti seguenti:  
+Storia dei trattati e politica internazionale;  
+Diritto bancario;  
+Diritto delle assicurazioni;  
+Diritto e procedura penale militare;  
+Diritto penale commerciale.  
+  
+Art. 30. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:  
+Storia delle civilta' preclassiche;  
+Ecologia antica;  
+Prospezioni archeologiche;  
+Paleoantropologia;  
+Storia dell'Asia anteriore antica;  
+Civilta' preclassiche del vicino oriente;  
+Antichita' cipriote;  
+Egittologia;  
+Archeologia dei paesi del mondo arabo;  
+Archeologia medioevale;  
+Letteratura popolare;  
+Filologia medioevale e umanistica;  
+Storia della scienza;  
+Lingua e letteratura serbo-croata.  
+  
+Art. 34. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia e' aggiunto il seguente:  
+Storia della scienza;  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 ottobre 1970
+### Dato a Roma, addi' 31 ottobre 1972
 
-SARAGAT MISASI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 10 dicembre 1970
+Registrato alla Corte dei conti, addi' 17 gennaio 1973
 
-Atti del Governo, registro n. 238, foglio n. 221. - CARUSO
+Atti di Governo, registro n. 255, foglio n. 42. - VALENTINI

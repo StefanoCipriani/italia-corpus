@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1979 n. 220
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1965 n. 1385
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1979 n. 220
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1965 n. 1385
+===============================================================
 
 Modificazioni allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
 --------------------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
+Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1910, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-10-26;2030) e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,125 +20,86 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello Statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 11 - all'elenco degli insegnamenti complementari del corso di laurea in scienze politiche sono aggiunti i seguenti:
+Art. 12. - Agli insegnamenti complementari del corso di laurea in Economia e commercio sono aggiunti quelli di:
 
-psicologia politica;
+21) Diritto delle Comunita' europee;
 
-diritto dei collegi rappresentativi;
+22) Diritto penale commerciale;
 
-storia e legislazione delle istituzioni scolastiche;
+23) Economia del lavoro;
 
-storia delle istituzioni militari;
+24) Economia della localizzazione;
 
-storia dell'organizzazione internazionale;
+25) Storia del movimento sindacale;
 
-logica;
+26) Tecnica amministrativa delle imprese di servizi pubblici;
 
-ecologia;
-
-economia e politica del lavoro;
-
-legislazione sociale;
-
-analisi economica;
-
-teoria e politica dello sviluppo economico;
-
-statistica economica;
-
-tecnica industriale e commerciale;
-
-storia della scienza;
-
-economia e politica creditizia;
-
-relazioni industriali;
-
-organizzazione del lavoro;
-
-diritto delle societa';
-
-diritto bancario;
-
-diritto delle assicurazioni.
+27) Tecnica ed ordinamento delle borse.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 14 marzo 1979
+Dato a Roma, addi' 27 ottobre 1965
 
-PERTINI
+SARAGAT
 
-PEDINI
+GUI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 12 giugno 1979 Registro n. 46 Istruzione, foglio n. 107
+alla Corte dei conti, addi' 15 dicembre 1965 Atti del Governo, registro n. 198, foglio n. 125. VILLA
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1910, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-10-26;2030) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello Statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 11 - all'elenco degli insegnamenti complementari del corso di laurea in scienze politiche sono aggiunti i seguenti:   
-psicologia politica;   
-diritto dei collegi rappresentativi;   
-storia e legislazione delle istituzioni scolastiche;   
-storia delle istituzioni militari;   
-storia dell'organizzazione internazionale;   
-logica;   
-ecologia;   
-economia e politica del lavoro;   
-legislazione sociale;   
-analisi economica;   
-teoria e politica dello sviluppo economico;   
-statistica economica;   
-tecnica industriale e commerciale;   
-storia della scienza;   
-economia e politica creditizia;   
-relazioni industriali;   
-organizzazione del lavoro;   
-diritto delle societa';   
-diritto bancario;   
-diritto delle assicurazioni.   
+Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 12. - Agli insegnamenti complementari del corso di laurea in Economia e commercio sono aggiunti quelli di:  
+21) Diritto delle Comunita' europee;  
+22) Diritto penale commerciale;  
+23) Economia del lavoro;  
+24) Economia della localizzazione;  
+25) Storia del movimento sindacale;  
+26) Tecnica amministrativa delle imprese di servizi pubblici;  
+27) Tecnica ed ordinamento delle borse.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 marzo 1979
+### Dato a Roma, addi' 27 ottobre 1965
 
-PERTINI PEDINI
+SARAGAT GUI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 12 giugno 1979
+Registrato alla Corte dei conti, addi' 15 dicembre 1965
 
-Registro n. 46 Istruzione, foglio n. 107
+Atti del Governo, registro n. 198, foglio n. 125. VILLA

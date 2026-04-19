@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 aprile 1971 n. 408
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 ottobre 1962 n. 1620
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 aprile 1971 n. 408
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 ottobre 1962 n. 1620
+===============================================================
 
 Autorizzazione all'Associazione nazionale combattenti e reduci, con sede in Roma, ad acquistare un immobile.
 ------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-408. Decreto del Presidente della Repubblica 15 aprile 1971, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale combattenti e reduci (A.N.C.R.), con sede in Roma, viene autorizzata ad acquistare dalla societa' r.l. Cast, con sede in Roma, un fabbricato in via di ultimazione, di piani sei oltre il piano servizi e il piano cantine, per complessivi metri quadrati 1594, sito in Roma, piazza Ippolito Nievo n. 26, al prezzo di L. 350.000.000 da destinare a sede della Federazione combattenti e reduci e dell'istituto di vigilanza dell'urbe.  
+1620. Decreto del Presidente della Repubblica 15 ottobre 1962, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale combattenti e reduci, con sede in Roma, viene autorizzata ad acquistare dal geom. Cesare Torno, al prezzo di L. 200.000, come da scrittura privata in data 27 febbraio 1960, un immobile costituito da un appezzamento di terreno di mq. 190, sito nel comune di Castano Primo (Milano), da destinare all'ampliamento della sede sociale della locale sezione dell'Associazione anzidetta.  
   
-Visto, il Guardasigilli: COLOMBO  
-Registrato alla Corte dei conti, addi' 21 giugno 1971  
-Atti del Governo, registro n. 242, foglio n. 116. - VALENTINI
+Visto, il Guardasigilli: BOSCO  
+Registrato alla Corte dei conti, addi' 21 novembre 1962  
+Atti del Governo, registro n. 160, foglio n. 37. - VILLA

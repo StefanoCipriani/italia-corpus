@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 764
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1983 n. 524
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 764
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1983 n. 524
+=============================================================
 
 Modificazione allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
 --------------------------------------------------------------------------------
@@ -39,18 +39,30 @@ Articolo unico
 --------------
 
   
-Art. 23 - nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' inserito l'insegnamento di "chemioterapia".  
+Art. 23 - nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono inseriti i seguenti insegnamenti: fisiopatologia dell'emostasi;  
+fisiologia clinica;  
+biochimica cellulare;  
+parassitologia medica;  
+immunopatologia;  
+anestesia sperimentale;  
+radiologia sperimentale;  
+radioprotezione;  
+malattie cardiovascolari;  
+fisiopatologia respiratoria;  
+ematologia pediatrica;  
+igiene ambientale e del territorio;  
+radiobiologia nucleare.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Selva di Val Gardena, addi' 2 settembre 1983
+### Dato a Roma, addi' 4 giugno 1983
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 27 dicembre 1983
+Registrato alla Corte dei conti, addi' 23 settembre 1983
 
-Registro n. 79 Istruzione, foglio n. 394
+Registro n. 62 Istruzione, loglio n. 322

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 862
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1972 n. 336
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 862
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1972 n. 336
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,88 +18,167 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Palermo e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla
------
+Sulla proposta del Ministro per la pubblica istruzione;
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+L'art. 122, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che la "Scuola in tisiologia e malattie polmonari" muta la denominazione in quella di "Scuola in tisiologia e malattie dell'apparato respiratorio".
+
+L'art. 150, relativo alla "Scuola di specializzazione in tisiologia e malattie polmonari" che muta la denominazione in quella di "Scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio", e' abrogato e sostituito dal seguente:
+
+Scuola di specializzazione in tisiologia
+
+e malattie dell'apparato respiratorio
+
+Art. 150. - Durata: tre anni.
+
+Numero massimo di iscritti: quindici per ogni anno di corso (totale n. 45 iscritti).
+
+Piano di studi:
+
+1° Anno:
+
+Anatomia e istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale);
+
+Patologia della tubercolosi polmonare ed extrapolmonare;
+
+Patologia delle malattie dell'apparato respiratorio;
+
+Fisiologia e fisiopatologia generale dell'apparato respiratorio;
+
+Semeiotica fisica e funzionale dell'apparato respiratorio;
+
+Microbiologia;
+
+Epidemiologia e statistica sanitaria della tubercolosi e delle malattie dell'apparato respiratorio.
+
+2° Anno:
+
+Anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale);
+
+Clinica della tubercolosi (biennale);
+
+Clinica delle malattie dell'apparato respiratorio (biennale);
+
+Fisiopatologia speciale della tubercolosi e delle malattie dell'apparato respiratorio;
+
+Broncologia;
+
+Radiologia dell'apparato respiratorio;
+
+Igiene e legislazione sociale;
+
+Profilassi della tubercolosi.
+
+3° Anno:
+
+Clinica della tubercolosi (biennale);
+
+Clinica delle malattie dell'apparato respiratorio (biennale);
+
+Chemioterapia della tubercolosi e delle malattie dell'apparato respiratorio;
+
+Terapia fisiomeccanica nella tubercolosi e nelle malattie dell'apparato respiratorio;
+
+Terapia chirurgica nella tubercolosi e nelle malattie dell'apparato respiratorio.
+
+I corsi di insegnamento sono integrati da turni obbligatori di internato nei reparti di degenza e nei laboratori di ricerca; da esercitazioni pratiche; da conferenze.
+
+Gli esami di profitto hanno luogo al termine di ogni anno di corso.
+
+Per il conseguimento del diploma di specializzazione e' prevista la presentazione e la discussione di una dissertazione scritta.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 7 giugno 1972
+
+LEONE
+
+MISASI
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 24 luglio 1972 Atti del Governo, registro n. 250, foglio n. 29. - CARUSO
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
+  
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
   
 Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 147 - all'elenco delle scuole di specializzazione e' aggiunta la scuola di specializzazione in chirurgia pediatrica.  
-
-Art. 2
-------
-
   
-Dopo l'art. 192, e con il conseguente spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo relativo alla istituzione della scuola di specializzazione in chirurgia pediatrica:  
+L'art. 122, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che la "Scuola in tisiologia e malattie polmonari" muta la denominazione in quella di "Scuola in tisiologia e malattie dell'apparato respiratorio".  
+L'art. 150, relativo alla "Scuola di specializzazione in tisiologia e malattie polmonari" che muta la denominazione in quella di "Scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio", e' abrogato e sostituito dal seguente:  
   
-Scuola di specializzazione in chirurgia pediatrica  
-Art. 193. - La scuola di specializzazione in chirurgia pediatrica ha sede presso la clinica chirurgica pediatrica; la direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine ed e' retta secondo le norme del regolamento generale per le scuole di specializzazione della facolta' di medicina e chirurgia dell'Universita' di Palermo.  
-La scuola di specializzazione in chirurgia pediatrica conferisce il diploma di specialista in chirurgia pediatrica.  
-La durata del corso di studi per il conseguimento della specialita' in chirurgia pediatrica e' fissata in cinque anni.  
-Possono ottenere l'iscrizione alla scuola solo i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-Non e' ammessa abbreviazione di corso.  
-Il numero massimo degli allievi e' di dodici iscritti per l'intero corso di studi.  
-L'ammissione al corso avviene per titoli ed esami.  
-Il corso si compone di insegnamenti fondamentali, oltre ad un periodo di frequenza obbligatoria di almeno sei mesi per ogni anno di corso.  
-Il periodo di frequenza obbligatoria puo' essere abbreviato per coloro che documentino di svolgere effettivo servizio presso i reparti di chirurgia pediatrica universitari od ospedalieri.  
-Le materie d'insegnamento sono le seguenti:  
+Scuola di specializzazione in tisiologia  
+e malattie dell'apparato respiratorio  
+  
+Art. 150. - Durata: tre anni.  
+Numero massimo di iscritti: quindici per ogni anno di corso (totale n. 45 iscritti).  
+Piano di studi:  
+  
 1° Anno:  
-embriologia e genetica delle malformazioni congenite;  
-anatomia patologica generale (biennale) I;  
-diagnostica radiologica e nucleare generale;  
-anestesiologia;  
-clinica pediatrica (biennale) I;  
-patologia e clinica chirurgica generale (biennale) 1.  
+Anatomia e istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale);  
+Patologia della tubercolosi polmonare ed extrapolmonare;  
+Patologia delle malattie dell'apparato respiratorio;  
+Fisiologia e fisiopatologia generale dell'apparato respiratorio;  
+Semeiotica fisica e funzionale dell'apparato respiratorio;  
+Microbiologia;  
+Epidemiologia e statistica sanitaria della tubercolosi e delle malattie dell'apparato respiratorio.  
+  
 2° Anno:  
-patologia e clinica chirurgica generale (biennale) Il;  
-rianimazione e terapia intensiva (biennale) I;  
-anatomia patologica generale (biennale) II;  
-diagnostica radiologica e nucleare delle malattie infantili;  
-clinica pediatrica (biennale) II.  
+Anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale);  
+Clinica della tubercolosi (biennale);  
+Clinica delle malattie dell'apparato respiratorio (biennale);  
+Fisiopatologia speciale della tubercolosi e delle malattie dell'apparato respiratorio;  
+Broncologia;  
+Radiologia dell'apparato respiratorio;  
+Igiene e legislazione sociale;  
+Profilassi della tubercolosi.  
+  
 3° Anno:  
-patologia e clinica chirurgica pediatrica (triennale) I;  
-endocrinologia pediatrica;  
-tecnica chirurgica generale;  
-rianimazione e terapia intensiva (biennale) II;  
-chirurgia neonatale.  
-4° Anno:  
-patologia e clinica chirurgica pediatrica (triennale) II;  
-neurochirurgia pediatrica;  
-tecnica chirurgica pediatrica;  
-ortopedia pediatrica;  
-chirurgia plastica e ricostruttiva pediatrica.  
-5° Anno:  
-patologia e clinica chirurgica pediatrica (triennale) III;  
-otorinolaringoiatria pediatrica;  
-cardiochirurgia pediatrica;  
-urologia pediatrica.  
-La frequenza alle lezioni e' obbligatoria.  
-Al termine di ciascun anno di corso gli specializzandi che abbiano ottenuto le firme di frequenza devono sostenere gli esami di profitto delle materie insegnate.  
-Per accedere ai corsi successivi e' obbligatorio il superamento di tutti gli esami del corso precedente.  
-Al termine del corso gli specializzandi devono presentare una dissertazione scritta su un argomento di chirurgia pediatrica e sostenere l'esame di diploma.  
+Clinica della tubercolosi (biennale);  
+Clinica delle malattie dell'apparato respiratorio (biennale);  
+Chemioterapia della tubercolosi e delle malattie dell'apparato respiratorio;  
+Terapia fisiomeccanica nella tubercolosi e nelle malattie dell'apparato respiratorio;  
+Terapia chirurgica nella tubercolosi e nelle malattie dell'apparato respiratorio.  
+  
+I corsi di insegnamento sono integrati da turni obbligatori di internato nei reparti di degenza e nei laboratori di ricerca; da esercitazioni pratiche; da conferenze.  
+Gli esami di profitto hanno luogo al termine di ogni anno di corso.  
+Per il conseguimento del diploma di specializzazione e' prevista la presentazione e la discussione di una dissertazione scritta.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1979
+### Dato a Roma, addi' 7 giugno 1972
 
-PERTINI VALITUTTI
+LEONE MISASI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 20 marzo 1980
+Registrato alla Corte dei conti, addi' 24 luglio 1972
 
-Registro n. 24 Istruzione, foglio n. 160
+Atti del Governo, registro n. 250, foglio n. 29. - CARUSO

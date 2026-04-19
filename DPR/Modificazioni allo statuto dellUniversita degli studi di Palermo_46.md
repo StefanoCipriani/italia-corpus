@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 ottobre 1969 n. 982
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1971 n. 460
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 ottobre 1969 n. 982
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1971 n. 460
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
@@ -10,17 +10,13 @@ Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduta la [legge 25 luglio 1966, n. 602](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-07-25;602);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
@@ -32,208 +28,78 @@ Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato nel senso che l'art. 155, relativo alla scuola di specializzazione in malattie dell'apparato digerente, e' abrogato e sostituito dal seguente:
 
-Art. 17. - E' modificato nel senso che la parte concernente la facolta' di economia e commercio e' sostituita dalla seguente:
+Scuola di specializzazione in malattie dell'apparato digerente
 
-La facolta' di economia e commercio:
+Art. 155. - Scuola di specializzazione in malattie dell'apparato digerente.
 
-1) Laurea in economia e commercio durata del corso 4 anni;
+Durata: 3 anni di corso ed 1 anno di tirocinio pratico.
 
-2) Laurea in scienze statistiche ed economiche durata del corso 4 anni;
+Numero massimo di iscritti: cinque per ogni anno di corso (totale numero quindici iscritti).
 
-3) Diploma in statistica durata del corso 2 anni.
+Piano di studi:
 
-Dopo l'art. 21 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi all'istituzione del corso di laurea in scienze statistiche ed economiche e del corso di studi per il conseguimento del diploma in statistica.
+1° Anno:
 
-Laurea in scienze statistiche ed economiche
+Anatomia patologica;
 
-Art. 22. - La durata del corso degli studi per la laurea in scienze statistiche ed economiche e' di quattro anni. Il titolo di ammissione e' quello previsto per la laurea in economia e commercio: i diplomati in statistica sono ammessi al terzo anno e il consiglio di facolta' provvedera' a prescrivere di volta in volta il piano di studi per la laurea.
+Fisiopatologia;
 
-Sono insegnamenti fondamentali:
+Chimica clinica;
 
-1) Istituzioni di analisi matematica;
+Semeiotica fisica e strumentale;
 
-2) Analisi matematica;
+Clinica medica.
 
-3) Geometria analitica;
+2° Anno:
 
-4) Calcolo delle probabilita';
+Semeiotica fisica e strumentale;
 
-5) Istituzioni di statistica;
+Semeiotica radiologica;
 
-6) Statistica;
+Malattie del tubo digerente;
 
-7) Statistica metodologica;
+Clinica medica.
 
-8) Demografia;
+3° Anno:
 
-9) e 10) Economia politica (biennale);
+Malattie del fegato e del pancreas;
 
-11) Politica economica e finanziaria;
+Clinica medica.
 
-12) Istituzioni di statistica economica;
+Per le materie biennali (semeiotica) e triennali (clinica medica) sara' dato un esame alla fine del biennio o triennio.
 
-13) Economia d'azienda;
+A queste materie fondamentali obbligatorie potranno essere aggiunte materie complementari con corsi semestrali in numero non superiore a sei per totalita' del corso.
 
-14) Statistica economica;
+Ai tre anni di corso e' aggiunto un quarto anno di tirocinio pratico da svolgere in una clinica medica od in un reparto ospedaliero.
 
-15) Statistica aziendale e analisi di mercato;
-
-16) Controllo statistico delle qualita' e statistica industriale;
-
-17) Istituzioni di diritto privato;
-
-18) Istituzioni di diritto pubblico;
-
-19) Teoria dei campioni.
-
-Sono insegnamenti complementari:
-
-1) Geografia politica ed economica;
-
-2) Statistica sociale;
-
-3) Sociologia;
-
-4) Scienza delle finanze;
-
-5) Econometrica;
-
-6) Contabilita' nazionale;
-
-7) Diritto commerciale;
-
-8) Diritto del lavoro;
-
-9) Matematica finanziaria e istituzioni di matematica attuariale;
-
-10) Teoria e tecnica dell'elaborazione automatica dei dati;
-
-11) Ricerca operativa;
-
-12) Teoria dei sistemi;
-
-13) Psicologia sperimentale;
-
-14) Antropologia;
-
-15) Statistica medica e biometria;
-
-16) Statistica applicata alle scienze fisiche;
-
-17) Genetica;
-
-18) Diritto dell'economia pubblica;
-
-19) Storia della statistica.
-
-Gli insegnamenti complementari possono essere scelti dallo studente anche fra le discipline impartite nel biennio per il diploma di statistica o fra quelle impartite nei corsi di laurea della facolta' e delle altre facolta' dell'ateneo, previa approvazione del preside della facolta'. Detta approvazione deve essere richiesta entro il 31 dicembre di ogni anno.
-
-Per essere ammesso all'esame di laurea lo studente deve avere seguito i corsi e superato gli esami di tutti gli insegnamenti fondamentali e di almeno tre complementari. Deve anche aver seguito per due anni e superato, dopo un biennio di frequenza, gli esami di lingua inglese e di un'altra lingua moderna scelta fra quelle insegnate nella facolta'.
-
-Per essere iscritto al secondo anno lo studente deve aver superato almeno due esami fondamentali del primo anno.
-
-Per l'insegnamento biennale di economia politica e' prescritto l'esame alla fine di ciascun corso annuale, dovendosi il primo considerare propedeutico rispetto al secondo.
-
-Art. 23. - Gli esami di istituzioni di analisi matematica, di analisi matematica, di geometria analitica, di calcolo delle probabilita', di istituzioni di statistica, di statistica, di economia politica (primo esame), di istituzioni di statistica economica, di statistica economica, di istituzioni di diritto privato, di istituzioni di diritto pubblico, devono essere superati prima degli altri esami fondamentali.
-
-Gli esami di istituzioni di analisi matematica e di geometria analitica, dovranno essere superati prima degli esami di analisi matematica e di statistica.
-
-L'esame di istituzioni di statistica dovra' essere superato prima degli esami di statistica, di demografia e di statistica economica.
-
-L'esame di analisi matematica dovra' essere superato prima dell'esame di calcolo delle probabilita'.
-
-Gli esami di economia politica (primo esame) e di istituzioni di statistica economica, dovranno essere superati prima dell'esame di statistica economica.
-
-L'esame di economia politica (secondo esame) dovra' essere superato prima dell'esame di politica economica e finanziaria.
-
-L'esame di laurea consiste nella discussione di una dissertazione scritta svolta sul tema approvato dal professore della materia o nella discussione di almeno due o tre temi orali scelti dal candidato vertenti su materie fondamentali nel suo corso di studio e parimenti approvati dai professori delle rispettive materie.
-
-Uno di questi temi deve riguardare la statistica metodologica ed uno la statistica applicata.
-
-Art. 24. - La durata del corso degli studi per il diploma di statistica e' di due anni.
-
-E' titolo di ammissione il diploma di maturita' classica, di maturita' scientifica, di abilitazione per i provenienti dagli istituti tecnici commerciali, per geometri, industriali, agrari, nautici, per il turismo, per perito aziendale e corrispondenti in lingue estere.
-
-Sono insegnamenti fondamentali:
-
-1) Elementi di matematica;
-
-2) Statistica;
-
-3) Statistica economica - corso elementare;
-
-4) Statistica giudiziaria (semestrale);
-
-5) Statistica sociale (semestrale);
-
-6) Antropometria (semestrale);
-
-7) Statistica sanitaria (semestrale);
-
-8) Sociologia generale;
-
-9) Demografia;
-
-10) Geografia politica ed economica.
-
-Sono insegnamenti complementari.
-
-1) Economia politica - corso elementare;
-
-2) Biometria;
-
-3) Antropologia;
-
-4) Nozioni elementari di diritto privato e pubblico;
-
-5) Calcolo delle probabilita'; sue applicazioni statistiche;
-
-6) Controllo statistico della qualita' e statistica industriale;
-
-7) Programmazione ed interpretazione statistica degli esperimenti;
-
-8) Ricerca operativa.
-
-Gli insegnamenti semestrali di statistica giudiziaria e statistica sociale e quelli pure semestrali di antropometria e statistica sanitaria, comportano rispettivamente esami unici.
-
-L'insegnamento biennale di statistica economica comporta un esame alla fine di ogni anno.
-
-L'insegnamento di elementi di matematica e' propedeutico rispetto a quello di statistica.
-
-Gli insegnamenti complementari possono essere scelti dallo studente anche fra le discipline impartite nel corso di laurea in scienze statistiche ed economiche o in altre facolta' dell'ateneo, previa approvazione del preside della facolta'.
-
-Per essere ammesso all'esame di diploma lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e almeno in due complementari.
-
-Pertanto, gli articoli 111, 112 e 113 relativi alla scuola di statistica sono soppressi con il conseguente spostamento della numerazione degli articoli successivi.
+Al termine del 4° anno si e' ammessi all'esame finale che permette di conseguire il diploma di specialista in malattie dell'apparato digerente.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 15 ottobre 1969
+Dato a Roma, addi' 11 maggio 1971
 
 SARAGAT
 
-FERRARI AGGRADI
+MISASI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: COLOMBO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 30 dicembre 1969 Atti del Governo, registro n. 230, foglio n. 175. - CARUSO
+alla Corte dei conti, addi' 16 luglio 1971 Atti del Governo, registro n. 243, foglio n. 19. - VALENTINI
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Veduta la [legge 25 luglio 1966, n. 602](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-07-25;602);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -241,122 +107,43 @@ Sulla proposta del Ministro per la pubblica istruzione;
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato nel senso che l'art. 155, relativo alla scuola di specializzazione in malattie dell'apparato digerente, e' abrogato e sostituito dal seguente:  
   
-Art. 17. - E' modificato nel senso che la parte concernente la facolta' di economia e commercio e' sostituita dalla seguente:  
+Scuola di specializzazione in malattie dell'apparato digerente  
   
-La facolta' di economia e commercio:  
-1) Laurea in economia e commercio durata del corso 4 anni;  
-2) Laurea in scienze statistiche ed economiche durata del corso 4 anni;  
-3) Diploma in statistica durata del corso 2 anni.  
-  
-Dopo l'art. 21 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi all'istituzione del corso di laurea in scienze statistiche ed economiche e del corso di studi per il conseguimento del diploma in statistica.  
-  
-Laurea in scienze statistiche ed economiche  
-  
-Art. 22. - La durata del corso degli studi per la laurea in scienze statistiche ed economiche e' di quattro anni. Il titolo di ammissione e' quello previsto per la laurea in economia e commercio: i diplomati in statistica sono ammessi al terzo anno e il consiglio di facolta' provvedera' a prescrivere di volta in volta il piano di studi per la laurea.  
-  
-Sono insegnamenti fondamentali:  
-  
-1) Istituzioni di analisi matematica;  
-2) Analisi matematica;  
-3) Geometria analitica;  
-4) Calcolo delle probabilita';  
-5) Istituzioni di statistica;  
-6) Statistica;  
-7) Statistica metodologica;  
-8) Demografia;  
-9) e 10) Economia politica (biennale);  
-11) Politica economica e finanziaria;  
-12) Istituzioni di statistica economica;  
-13) Economia d'azienda;  
-14) Statistica economica;  
-15) Statistica aziendale e analisi di mercato;  
-16) Controllo statistico delle qualita' e statistica industriale;  
-17) Istituzioni di diritto privato;  
-18) Istituzioni di diritto pubblico;  
-19) Teoria dei campioni.  
-  
-Sono insegnamenti complementari:  
-  
-1) Geografia politica ed economica;  
-2) Statistica sociale;  
-3) Sociologia;  
-4) Scienza delle finanze;  
-5) Econometrica;  
-6) Contabilita' nazionale;  
-7) Diritto commerciale;  
-8) Diritto del lavoro;  
-9) Matematica finanziaria e istituzioni di matematica attuariale;  
-10) Teoria e tecnica dell'elaborazione automatica dei dati;  
-11) Ricerca operativa;  
-12) Teoria dei sistemi;  
-13) Psicologia sperimentale;  
-14) Antropologia;  
-15) Statistica medica e biometria;  
-16) Statistica applicata alle scienze fisiche;  
-17) Genetica;  
-18) Diritto dell'economia pubblica;  
-19) Storia della statistica.  
-  
-Gli insegnamenti complementari possono essere scelti dallo studente anche fra le discipline impartite nel biennio per il diploma di statistica o fra quelle impartite nei corsi di laurea della facolta' e delle altre facolta' dell'ateneo, previa approvazione del preside della facolta'. Detta approvazione deve essere richiesta entro il 31 dicembre di ogni anno.  
-Per essere ammesso all'esame di laurea lo studente deve avere seguito i corsi e superato gli esami di tutti gli insegnamenti fondamentali e di almeno tre complementari. Deve anche aver seguito per due anni e superato, dopo un biennio di frequenza, gli esami di lingua inglese e di un'altra lingua moderna scelta fra quelle insegnate nella facolta'.  
-Per essere iscritto al secondo anno lo studente deve aver superato almeno due esami fondamentali del primo anno.  
-Per l'insegnamento biennale di economia politica e' prescritto l'esame alla fine di ciascun corso annuale, dovendosi il primo considerare propedeutico rispetto al secondo.  
-  
-Art. 23. - Gli esami di istituzioni di analisi matematica, di analisi matematica, di geometria analitica, di calcolo delle probabilita', di istituzioni di statistica, di statistica, di economia politica (primo esame), di istituzioni di statistica economica, di statistica economica, di istituzioni di diritto privato, di istituzioni di diritto pubblico, devono essere superati prima degli altri esami fondamentali.  
-Gli esami di istituzioni di analisi matematica e di geometria analitica, dovranno essere superati prima degli esami di analisi matematica e di statistica.  
-L'esame di istituzioni di statistica dovra' essere superato prima degli esami di statistica, di demografia e di statistica economica.  
-L'esame di analisi matematica dovra' essere superato prima dell'esame di calcolo delle probabilita'.  
-Gli esami di economia politica (primo esame) e di istituzioni di statistica economica, dovranno essere superati prima dell'esame di statistica economica.  
-L'esame di economia politica (secondo esame) dovra' essere superato prima dell'esame di politica economica e finanziaria.  
-L'esame di laurea consiste nella discussione di una dissertazione scritta svolta sul tema approvato dal professore della materia o nella discussione di almeno due o tre temi orali scelti dal candidato vertenti su materie fondamentali nel suo corso di studio e parimenti approvati dai professori delle rispettive materie.  
-Uno di questi temi deve riguardare la statistica metodologica ed uno la statistica applicata.  
-  
-Art. 24. - La durata del corso degli studi per il diploma di statistica e' di due anni.  
-E' titolo di ammissione il diploma di maturita' classica, di maturita' scientifica, di abilitazione per i provenienti dagli istituti tecnici commerciali, per geometri, industriali, agrari, nautici, per il turismo, per perito aziendale e corrispondenti in lingue estere.  
-  
-Sono insegnamenti fondamentali:  
-  
-1) Elementi di matematica;  
-2) Statistica;  
-3) Statistica economica - corso elementare;  
-4) Statistica giudiziaria (semestrale);  
-5) Statistica sociale (semestrale);  
-6) Antropometria (semestrale);  
-7) Statistica sanitaria (semestrale);  
-8) Sociologia generale;  
-9) Demografia;  
-10) Geografia politica ed economica.  
-  
-Sono insegnamenti complementari.  
-  
-1) Economia politica - corso elementare;  
-2) Biometria;  
-3) Antropologia;  
-4) Nozioni elementari di diritto privato e pubblico;  
-5) Calcolo delle probabilita'; sue applicazioni statistiche;  
-6) Controllo statistico della qualita' e statistica industriale;  
-7) Programmazione ed interpretazione statistica degli esperimenti;  
-8) Ricerca operativa.  
-  
-Gli insegnamenti semestrali di statistica giudiziaria e statistica sociale e quelli pure semestrali di antropometria e statistica sanitaria, comportano rispettivamente esami unici.  
-L'insegnamento biennale di statistica economica comporta un esame alla fine di ogni anno.  
-L'insegnamento di elementi di matematica e' propedeutico rispetto a quello di statistica.  
-Gli insegnamenti complementari possono essere scelti dallo studente anche fra le discipline impartite nel corso di laurea in scienze statistiche ed economiche o in altre facolta' dell'ateneo, previa approvazione del preside della facolta'.  
-Per essere ammesso all'esame di diploma lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e almeno in due complementari.  
-Pertanto, gli articoli 111, 112 e 113 relativi alla scuola di statistica sono soppressi con il conseguente spostamento della numerazione degli articoli successivi.  
+Art. 155. - Scuola di specializzazione in malattie dell'apparato digerente.  
+Durata: 3 anni di corso ed 1 anno di tirocinio pratico.  
+Numero massimo di iscritti: cinque per ogni anno di corso (totale numero quindici iscritti).  
+Piano di studi:  
+1° Anno:  
+Anatomia patologica;  
+Fisiopatologia;  
+Chimica clinica;  
+Semeiotica fisica e strumentale;  
+Clinica medica.  
+2° Anno:  
+Semeiotica fisica e strumentale;  
+Semeiotica radiologica;  
+Malattie del tubo digerente;  
+Clinica medica.  
+3° Anno:  
+Malattie del fegato e del pancreas;  
+Clinica medica.  
+Per le materie biennali (semeiotica) e triennali (clinica medica) sara' dato un esame alla fine del biennio o triennio.  
+A queste materie fondamentali obbligatorie potranno essere aggiunte materie complementari con corsi semestrali in numero non superiore a sei per totalita' del corso.  
+Ai tre anni di corso e' aggiunto un quarto anno di tirocinio pratico da svolgere in una clinica medica od in un reparto ospedaliero.  
+Al termine del 4° anno si e' ammessi all'esame finale che permette di conseguire il diploma di specialista in malattie dell'apparato digerente.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 15 ottobre 1969
+### Dato a Roma, addi' 11 maggio 1971
 
-SARAGAT FERRARI AGGRADI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 30 dicembre 1969
+Registrato alla Corte dei conti, addi' 16 luglio 1971
 
-Atti del Governo, registro n. 230, foglio n. 175. - CARUSO
+Atti del Governo, registro n. 243, foglio n. 19. - VALENTINI

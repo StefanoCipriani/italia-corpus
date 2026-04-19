@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1075
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1983 n. 873
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1075
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1983 n. 873
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 14 ottobre 1926, n. 2090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2090), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -39,21 +39,20 @@ Articolo unico
 --------------
 
   
-Nell'art. 111, relativo al corso di laurea in sociologia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento complementare:  
-sociologia del mutamento.  
+  
+Nell'art. 228, relativo al corso di laurea in ingegneria chimica, all'elenco degli insegnamenti obbligatori sul piano della facolta' e' aggiunto il seguente insegnamento:   
+dinamica e controllo dei processi chimici.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 dicembre 1985
+### Dato a Roma, addi' 17 maggio 1983
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 28 aprile 1986
+Registrato alla Corte dei conti, addi' 26 gennaio 1984
 
-Registro n. 33 Istruzione, foglio n. 65
+Registro n. 3 Istruzione, foglio n. 260

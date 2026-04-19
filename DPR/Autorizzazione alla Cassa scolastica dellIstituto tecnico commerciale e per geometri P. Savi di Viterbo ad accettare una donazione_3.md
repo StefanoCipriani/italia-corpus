@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 novembre 1951 n. 1699
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1953 n. 978
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 novembre 1951 n. 1699
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1953 n. 978
 ================================================================
 
 Autorizzazione alla Cassa scolastica dell'Istituto tecnico commerciale e per geometri "P. Savi" di Viterbo ad accettare una donazione.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1699. Decreto del Presidente della Repubblica 27 novembre 1951, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica dell'Istituto tecnico commerciale e per geometri "P. Savi" di Viterbo, viene autorizzata ad accettare la donazione di nominali L. 30.000 in titoli di Stato, disposta al fine dell'istituzione, col relativo reddito, di un annuo premio di studio intitolato al nome del preside prof. Cardinali Angelo, a favore degli alunni dell'Istituto.  
+978. Decreto del Presidente della Repubblica 12 settembre 1953, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica dell'Istituto tecnico commerciale e per geometri "P. Savi" di Viterbo, viene autorizzata ad accettare la donazione di nominali L. 30.000 in titoli di Stato, disposta al fine d'istituire, col relativo reddito, un premio di studio intitolato al nome del prof. Drago Carmelo Calogero.  
   
-Visto, il Guardasigilli: ZOLI  
-Registrato alla Corte dei conti, addi' 7 febbraio 1952  
-Atti del Governo, registro n. 50, foglio n. 4. - FRASCA
+Visto, il Guardasigilli: AZARA  
+Registrato alla Corte dei conti, addi' 22 dicembre 1953  
+Atti del Governo, registro n. 80, foglio n. 89. - PALLA

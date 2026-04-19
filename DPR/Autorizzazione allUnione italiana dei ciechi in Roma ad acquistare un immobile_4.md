@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 dicembre 1978 n. 987
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1985 n. 575
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 dicembre 1978 n. 987
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1985 n. 575
+=============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad acquistare un immobile.
 ----------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-987. Decreto del Presidente della Repubblica 21 dicembre 1978, con il quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad acquistare dalla sig.ra Ducci Maria Teresa in Para, al prezzo di lire 16.800.000, l'immobile sito in Pisa, via C. Battisti n. 3, distinto nel nuovo catasto edilizio urbano alla partita 8078, foglio 38, mappale 390 sub 5, di vani 5, da destinare a sede della locale sezione.  
+575. Decreto del Presidente della Repubblica 16 luglio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad acquistare dai fratelli Romagnoli Giulia, Alfonso, Margherita e Mario, al convenuto prezzo di L. 63.000.000, ritenuto congruo dall'ufficio tecnico erariale di Piacenza, un immobile sito in detta citta', via Mazzini n. 51, distinto al nuovo catasto edilizio urbano alla partita 2970, foglio 15, mappale 65 sub 2, da destinare a sede sociale.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 15 febbraio 1979  
-Registro n. 2 Presidenza, foglio n. 29
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 11 ottobre 1985  
+Registro n. 9 Presidenza, foglio n. 75

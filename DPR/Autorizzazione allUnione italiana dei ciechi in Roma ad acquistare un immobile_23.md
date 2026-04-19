@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 luglio 1978 n. 446
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1975 n. 885
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 luglio 1978 n. 446
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1975 n. 885
+===============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad acquistare un immobile.
 ----------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-446. Decreto del Presidente della Repubblica 13 luglio 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad acquistare, al prezzo di L. 11.500.000, dal sig. Morreale Carmelo, un appartamento sito in Asti, via Q. Sella n. 39/41, descritto al nuovo catasto edilizio urbano alla partita 13417 foglio 77/6 n. 1154 sub 17 e n. 1102, da adibire a sede sociale della sezione di Asti.  
+885. Decreto del Presidente della Repubblica 18 dicembre 1975, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad acquistare dal Centro internazionale genti e culture della compagnia di Gesu', al prezzo di L. 80.000.000, un immobile costituito da un appezzamento di terreno con entrostante fabbricato di tre piani fuori terra, sito in Torino, via Monti n. 43, angolo via Chiabrera n. 7, censito al nuovo catasto edilizio urbano alle partite 31143, foglio 185, n. 369, sub 1 ed alle particelle 78070, foglio 185, n. 369, sub 2, da destinare a sede di una casa di riposo per ciechi.   
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 8 agosto 1978  
-Registro n. 6 Presidenza, foglio n. 41
+Visto, il Guardasigilli: REALE   
+Registrato alla Corte dei conti, addi' 18 febbraio 1976   
+Atti di Governo, registro n. 3, foglio n. 23

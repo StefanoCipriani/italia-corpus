@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 marzo 1968 n. 586
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1973 n. 46
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 marzo 1968 n. 586
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1973 n. 46
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -12,11 +12,10 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, numero 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -25,28 +24,21 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 21. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti quelli di:  
-54) Lingue e letterature scandinave;  
-55) Storia della lingua francese;  
-56) Storia della lingua inglese.  
-Art. 22. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti quelli di:  
-25) Storia delle filosofie orientali;  
-26) Storia della filosofia e delle scienze mussulmane;  
-27) Storia della storiografia filosofica.  
-Art. 23. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne sono aggiunti quelli di:  
-43) Storia della lingua francese;  
-44) Storia della lingua inglese.  
+L'art. 226, relativo alla scuola di specializzazione in igiene e medicina preventiva e' modificato nel senso che sono aggiunti i seguenti nuovi comma:  
+E' titolo di ammissione la laurea in medicina e chirurgia.  
+Sono ammessi altresi', limitatamente ad un massimo di 1/5 del numero dei posti disponibili al primo anno, i laureati in scienze biologiche.  
+Questi ultimi tuttavia potranno ottenere solo il diploma in orientamento di sanita' pubblica e in orientamento, di laboratorio.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 marzo 1968
+### Dato a Roma, addi' 2 febbraio 1973
 
-SARAGAT GUI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 24 aprile 1968
+Registrato alla Corte dei conti, addi' 27 marzo 1973
 
-Atti del Governo, registro n. 219, foglio n. 61. - GRECO
+Atti di Governo, registro n. 257, foglio n. 21. - VALENTINI

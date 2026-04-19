@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 novembre 1958 n. 1199
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1956 n. 1138
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 novembre 1958 n. 1199
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1956 n. 1138
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
@@ -12,86 +12,41 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Firenze approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e modificato con [regi decreti 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1927-10-13;2230), [30 ottobre 1930, n. 1826](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1930-10-30;1826); [1 ottobre 1931, numero 1441](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1931-10-01;1441); [6 dicembre 1934, n. 2449](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-06;2449); [1 ottobre 1936, n. 2475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-01;2475); [27 ottobre 1937, n. 2620](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1937-10-27;2620); [5 maggio 1939, n. 1165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-05-05;1165); [12 ottobre 1939, n. 1712](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-10-12;1712); [26 ottobre 1940, n. 2057](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2057); [27 aprile 1942, n. 467](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-04-27;467); [24 ottobre 1942, n. 1439; e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1439) [11 giugno 1950, n. 616](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-06-11;616); [30 ottobre 1950, n. 1127](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1127); [30 ottobre 1950, n. 1304](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1304); [30 giugno 1951, n. 957](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-30;957); [27 ottobre 1951, n. 1681](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1681); [23 gennaio 1952, n. 168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-01-23;168); [26 ottobre 1952, n. 4543](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4543); [26 ottobre 1952, n. 4557](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4557); [10 febbraio 1953, n. 376](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;376); [30 luglio 1953, n. 710](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-07-30;710); [2 marzo 1954, n. 183](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-02;183); [14 settembre 1954, n. 1202](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1202); [22 gennaio 1955, n. 69](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-01-22;69); [16 febbraio 1955, n. 120](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-16;120); [19 luglio 1955, n. 761](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-19;761); [27 luglio 1955, n. 804](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-27;804); [31 agosto 1955, n. 936](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-08-31;936) e [20 settembre 1955, n. 941](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-20;941);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 26 luglio 1957, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-07-26;741);  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica, istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-L'art. 51 e' sostituito dal seguente:  
-"La Facolta' di lettere e filosofia conferisce la laurea in lettere, la laurea in filosofia e la laurea in lingue e letterature straniere moderne (indirizzo europeo)".  
-Dopo l'art. 53 e' aggiunto il seguente nuovo articolo con il conseguente spostamento degli articoli successivi.  
-  
-Corso di laurea in lingue e letterature straniere moderne  
-(indirizzo europeo)  
-  
-Art. 54. - La durata del corso degli studi per la laurea in lingue e letterature straniere moderne (indirizzo europeo) e' di quattro anni.  
-E' titolo di ammissione il diploma di maturita' classica.  
-Sono insegnamenti fondamentali:  
-1) letteratura italiana;  
-2) letteratura latina;  
-3) glottologia;  
-4) una lingua e letteratura straniera moderna;  
-5) una seconda lingua e letteratura straniera moderna;  
-6) filologia romanza (o germanica, o slava, o ugrofinnica);  
-7) storia medioevale;  
-8) storia moderna;  
-9) storia dell'arte moderna (o storia dell'arte medioevale e moderna);  
-10) geografia.  
-Sono insegnamenti complementari (quando non siano scelti come fondamentali ai su indicati numeri 4), 5) e 6):  
-1) lingua e letteratura francese;  
-2) lingua e letteratura spagnola;  
-3) lingua e letteratura inglese;  
-4) lingua e letteratura tedesca;  
-5) lingua e letteratura russa;  
-6) lingua e letteratura romena;  
-7) lingua e letteratura polacca;  
-8) lingua e letteratura ungherese;  
-9) filologia romanza;  
-10) filologia germanica;  
-11) filologia slava;  
-12) filologia ugrofinnica;  
-13) storia della lingua italiana;  
-14) storia delle tradizioni popolari;  
-15) storia della musica;  
-16) letteratura greca;  
-17) storia romana;  
-18) storia greca;  
-19) storia dell'Europa orientale;  
-20) storia della filosofia;  
-21) letteratura anglo-americana.  
-Lo studente dovra' seguire i corsi e sostenere gli esami in tutti gli insegnamenti fondamentali dell'indirizzo prescelto e in tre altri insegnamenti da lui scelti fra i complementari dello stesso indirizzo. Uno degli insegnamenti complementari potra' essere sostituito dallo studente con una disciplina di altri corsi di studi della stessa o di diversa Facolta'.  
-L'insegnamento della lingua e letteratura straniera moderna, alla quale lo studente intende principalmente dedicarsi, dovra' essere seguito per tutti i quattro anni, alla fine di ciascuno dei quali egli sara' sottoposto a prove scritte di anno in anno gradualmente progressive.  
-Dovranno poi essere seguiti per due anni l'insegnamento della filologia a cui quella stessa prima lingua si ricollega e l'insegnamento della seconda lingua straniera moderna prescelta. Due altri insegnamenti fondamentali dovranno pure essere seguiti per un biennio.  
-Lo studente potra' poi seguire per un biennio anche un altro insegnamento; ed in tal caso ridurre da tre a due gli insegnamenti complementari di sua scelta.  
-Gli esami di letteratura italiana e di letteratura latina comprendono una prova scritta preliminare.  
-Il preside, sentita, ove ritenga, la Facolta', deve controllare i piani di studio presentati dagli studenti ed approvarli prima che siano resi definitivi.  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali dell'indirizzo prescelto e in tutti gli altri insegnamenti compresi nel piano di studi approvato dal preside.  
-All'art. 55 (gia' 54) e' aggiunto il seguente nuovo comma:  
-"Quelli delle materie pluriennali per il conseguimento della laurea in lingue e letterature straniere moderne sono sostenuti alla fine di ciascun anno".  
-All'art. 56 (gia' 55) e' aggiunto il seguente nuovo comma:  
-"La dissertazione per la laurea in lingue e letterature straniere moderne dovra' avere ad oggetto un tema, riferentesi alla lingua e letteratura straniera prescelta oppure, col consenso del titolare di questa, alla filologia relativa".  
-All'art. 57 (gia' 56) e' aggiunto il seguente nuovo comma:  
-"Per i laureati, per gli studenti provenienti da altra Facolta' e per gli stranieri che aspirino alla laurea in lingue e letterature straniere moderne, la Facolta' si riserva di determinare caso per caso l'anno quale saranno ammessi e gli esami da sostenere".  
+Art. 9. - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti quelli di:  
+12) Diritto canonico;  
+13) Diritto agrario comparato;  
+14) Contabilita' di Stato.  
+Art. 60. - Agli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti quelli di:  
+8) Storia della pedagogia;  
+9) Psicologia dell'eta' evolutiva.  
+Art. 67. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di:  
+16) "Clinica chirurgica pediatrica".  
+Art. 75. - Agli insegnamenti complementari del corso di laurea in chimica (indirizzo organico-biologico) e' aggiunto quello di:  
+13) "Spettroscopia".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 novembre 1958
+### Dato a Roma, addi' 5 settembre 1956
 
-GRONCHI MORO
+GRONCHI ROSSI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: MORO
 
-Registrato alla Corte dei conti, addi' 19 gennaio 1959
+Registrato alla Corte dei conti, addi' 12 ottobre 1956
 
-Atti del Governo, registro n. 116, foglio n. 19. - RELLEVA
+Atti del Governo, registro n. 101, foglio n. 24. - CARLOMAGNO

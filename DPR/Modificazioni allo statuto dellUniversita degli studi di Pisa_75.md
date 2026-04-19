@@ -1,130 +1,78 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1971 n. 837
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 924
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1971 n. 837
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 924
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pisa e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli 276 e 281 relativi alla "Scuola di specializzazione in medicina generale" che muta la denominazione in quella di "Scuola di specializzazione in medicina interna", sono abrogati e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in medicina interna  
-  
-Art. 276. - La scuola ha la durata di 5 anni ed ha sede presso la clinica medica generale il cui professore di ruolo e' direttore della scuola.  
-Alla scuola sono ammessi cinquanta iscritti per i 5 anni di corso.  
-Art. 281. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-Malattie infettive, disreattive e del sangue;  
-Istituzioni di terapia;  
-Anatomia ed istologia patologica (biennale);  
-Clinica medica generale e terapia medica (quinquennale).  
-2° Anno:  
-Malattie dell'apparato cardiovascolare;  
-Microbiologia e sierologia;  
-Chimica clinica;  
-Anatomia ed istologia patologica (biennale);  
-Clinica medica generale e terapia medica (quinquennale).  
-3° Anno:  
-Malattie dell'apparato digerente;  
-Malattie renali;  
-Clinica medica generale e terapia medica (quinquennale).  
-4° Anno:  
-Malattie dell'apparato respiratorio;  
-Malattie del sistema nervoso;  
-Clinica medica generale e terapia medica (quinquennale).  
-5° Anno:  
-Malattie del ricambio;  
-Malattie delle ghiandole endocrine;  
-Clinica medica generale e terapia medica.  
-Gli articoli 283, 284, 285 e 286, relativi alla "Scuola di specializzazione in malattie nervose e mentali" che muta la denominazione in quella di "Scuola di specializzazione in neurologia" sono abrogati e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in neurologia  
-  
-Art. 283. - La scuola ha la durata di quattro anni, ha sede presso la clinica delle malattie nervose e mentali il cui professore di ruolo e' il direttore della scuola.  
-Art. 284. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-Anatomia e istologia del sistema nervoso;  
-Fisiologia del sistema nervoso;  
-Biochimica del sistema nervoso;  
-Genetica (elementi);  
-Psicologia generale;  
-Psicopatologia;  
-Semeiotica psichiatrica.  
-2° Anno:  
-Anatomia e istologia del sistema nervoso;  
-Semeiotica neurologica;  
-Patologia speciale e diagnostica neurologica (1° corso);  
-Neuroradiologia;  
-Endocrinologia e neurologia vegetativa.  
-3° Anno:  
-Patologia speciale e diagnostica neurologica (2° corso);  
-Clinica neurologica (1° corso);  
-Elettroencefalografia;  
-Elettromiografia, elettrodiagnostica e elettroterapia;  
-Neuro-oftalmologia;  
-Neuro-otologia;  
-Esami di laboratorio.  
-4° Anno:  
-Clinica neurologica e terapia (2° corso);  
-Neurochirurgia;  
-Teoria e clinica della riabilitazione;  
-Neuro-traumatologia anche sotto l'aspetto della medicina legale;  
-Neurologia in rapporto alla patologia internistica.  
-Art. 285. - Gli iscritti hanno l'obbligo di frequentare le lezioni, le esercitazioni di ogni materia di insegnamento e i seguenti internati:  
-A) nel primo anno l'internato in clinica psichiatrica;  
-B) nel secondo, terzo e quarto anno l'internato in clinica delle malattie nervose e mentali, sede della scuola.  
-L'internato di cui alla lettera A) puo' essere ridotto a non meno di sei mesi per coloro che prestino servizio in un reparto di neurologia e a non meno di mesi quattro per coloro che prestino servizio in un ospedale psichiatrico.  
-Art. 286. - Il numero massimo degli iscritti e' fissato in quarantacinque per i 4 anni di corso.  
-Gli articoli 352, 353 e 355, relativi alla "Scuola di specializzazione in medicina nucleare" sono abrogati e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in medicina nucleare  
-  
-Art. 352. - La scuola ha la durata di 3 anni, ha sede presso il centro di medicina nucleare dell'Universita' di Pisa ed e' diretta dal titolare di ruolo della cattedra di patologia speciale medica e metodologia clinica 2ª.  
-Art. 353. - Alla scuola sono ammessi i laureati in medicina e chirurgia in numero massimo di ventiquattro per i 3 anni di corso in base a concorso per titoli ed esami.  
-Art. 355. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-Fondamenti di matematica e di statistica;  
-Fisica nucleare delle radiazioni;  
-Tecniche per le misure di radioattivita';  
-Dosimetria.  
-2° Anno:  
-Teoria dei tracciati;  
-Elementi di radiochimica;  
-Applicazioni diagnostica 1ª;  
-Elementi di radiologia.  
-3° Anno:  
-Applicazioni diagnostica 2ª;  
-Applicazioni terapeutiche;  
-Radioprotezione e legislazione.  
+Dopo l'art. 139, con il conseguente scorrimento della numerazione degli articoli successivi, sono inseriti i seguenti articoli relativi alla istituzione del centro "E. Piaggio".  
+Art. 140. - Il centro "E. Piaggio" ha lo scopo di svolgere studi e ricerche sull'automazione nell'industria e sulla applicazione dell'ingegneria alla soluzione dei problemi posti dallo sviluppo delle tecnologie biomediche.  
+Il centro ha altresi' lo scopo di svolgere attivita' didattica nell'ambito degli studi e ricerche predetti.  
+Il centro "E. Piaggio" e' suddiviso in due sezioni:  
+automazione;  
+bioingegneria.  
+Art. 141 - La sezione automazione intende preparare il personale destinato alla ricerca, alla progettazione, alla messa a punto ed al razionale ed economico impiego degli automatismi, nelle forme che saranno ritenute piu' opportune e che verranno concordate di volta in volta con gli enti, le imprese industriali ed i privati utilizzatori del personale suindicato.  
+La sezione bioingegneria intende preparare il personale destinato alla ricerca, alla progettazione, allo sviluppo ed al razionale impiego dei dispositivi ad uso biomedico.  
+Art. 142. - Il centro costituisce un organo di convergenza degli istituti interessati alle attivita' indicate negli articoli 1 e 2.  
+Fanno parte del centro i seguenti istituti dell'Universita' di Pisa: istituto di chimica generale (facolta' di ingegneria), istituto di elettronica e telecomunicazioni, istituto di elettrotecnica, istituto di matematiche applicate, istituto di tecnologia meccanica, istituto di scienza delle costruzioni, istituto di patologia speciale medica e metodologia clinica, istituto di clinica ortopedica. Del centro faranno parte altresi' i dipartimenti universitari di Pisa che saranno indicati con apposito decreto del rettore.  
+I rapporti del centro con la societa' Piaggio, che a suo tempo ha contribuito alla istituzione del centro interessandosi alle attivita' del centro medesimo, saranno regolati con apposita convenzione fra l'Universita' di Pisa e la societa' Piaggio a norma del [decreto del Presidente della Repubblica 11 luglio 1982, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-07-11;382).  
+Possono entrare a far parte del centro altri istituti dell'Universita' di Pisa, nonche', mediante apposite convenzioni proposte al rettore dal consiglio direttivo del centro, istituti o dipartimenti di altre Universita', altri enti pubblici o privati, imprese industriali o privati interessati alle sue attivita'.  
+Art. 143. - Il centro ha sede presso la facolta' di ingegneria. Per quanto riguarda la sua gestione amministrativa-contabile, il centro e' assimilato ad un istituto universitario e sottoposto alle relative norme vigenti, come previsto dal [decreto del Presidente della Repubblica 4 marzo 1982, n. 371, articoli 63 e seguenti](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-04;371~art63).  
+Art. 144. - All'attivita' del centro presiede un consiglio direttivo composto dai direttori degli istituti universitari che fanno parte del centro, da un rappresentante di ciascuno degli enti, imprese o privati interessati alla sua attivita'.  
+Nel caso che al centro partecipi un ente pubblico di ricerca, esso sara' rappresentato nel consiglio dai direttori degli istituti interessati. I suddetti potranno delegare un loro rappresentante a partecipare, in loro vece, alle sedute del consiglio. Fa pure parte del consiglio direttivo il direttore del centro, designato a norma del successivo art. 145.  
+Art. 145. - Il consiglio direttivo elegge tra i professori ordinari dell'Universita' di Pisa facenti parte del consiglio direttivo il suo presidente; egli dura in carica tre anni e puo' essere riconfermato.  
+Il consiglio direttivo si riunisce ogni quadrimestre e tutte le volte che sia convocato dal presidente; designa il direttore tra i professori ordinari dell'Universita' di Pisa facenti parte del consiglio direttivo del centro.  
+Art. 146. - Il consiglio direttivo provvede alla compilazione dei programmi di attivita' del centro, di cui agli articoli 1 e 2 e da' direttive sulla ripartizione dei fondi e su quanto altro possa occorrere per il funzionamento del centro stesso, che saranno attuate dal direttore seguendo le norme previste dagli [articoli 63 e seguenti del decreto del Presidente della Repubblica 4 marzo 1982, n. 371](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-04;371~art63).  
+Inoltre propone al rettore l'eventuale ammissione al centro di altri dipartimenti o istituti universitari, e, mediante apposite convenzioni con enti pubblici o privati, di imprese industriali e privati in conformita' con gli scopi istituzionali del centro.  
+Il direttore ha il compito di provvedere alla gestione ed amministrazione del centro secondo le norme vigenti per gli istituti universitari e seguendo i programmi stabiliti dal consiglio direttivo. Egli esercita funzioni analoghe a quelle di un direttore di istituto, assumendo le responsabilita' conseguenti. Il direttore indica un docente che possa sostituirlo in caso di assenza o temporaneo impedimento, visto quanto prescrive l'[art. 67 del decreto del Presidente della Repubblica 4 marzo 1982, numero 371](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-04;371~art67).  
+Art. 147. - I fondi del centro sono costituiti dai contributi erogati da enti statali e, attraverso apposite, convenzioni, da enti, imprese e privati interessati al suo sviluppo e alla sua attivita', sia per la ricerca, sia per la utilizzazione dei risultati di esse. I fondi suddetti devono essere iscritti nel bilancio generale dell'Universita' ai sensi dell'[art. 6 del decreto del Presidente della Repubblica 4 marzo 1982, n. 371](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-04;371~art6).  
+Gli apparecchi e le attrezzature acquisite con i fondi del centro restano di proprieta' dell'Universita' di Pisa ed inventariati presso il centro stesso.  
+Art. 148 (ex 140) - nell'elenco degli istituti scientifici e' inserito il centro "Enrico Piaggio".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 agosto 1971
+### Dato a Roma, addi' 28 ottobre 1983
 
-SARAGAT MISASI
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 14 ottobre 1971
+Registrato alla Corte dei conti, addi' 30 gennaio 1984
 
-Atti del Governo, registro n. 244, foglio n. 143. - CARUSO
+Registro n. 4 Istruzione, foglio n. 379

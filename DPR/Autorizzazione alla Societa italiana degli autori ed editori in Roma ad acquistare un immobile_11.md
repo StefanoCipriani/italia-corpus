@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1985 n. 185
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1981 n. 174
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1985 n. 185
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1981 n. 174
 ===============================================================
 
 Autorizzazione alla Societa' italiana degli autori ed editori, in Roma, ad acquistare un immobile.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-185. Decreto del Presidente della Repubblica 25 febbraio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Societa' italiana degli autori ed editori, in Roma, viene autorizzata ad acquistare, al convenuto prezzo di L. 127.500.000, un immobile sito in Lucca, piazza del Giglio n. 4, distinto nel nuovo catasto edilizio urbano alla partita 9573, foglio 197, mappale 388 sub 4, come da atto in data 18 marzo 1981, n. 64433 di repertorio, a rogito dott. Francesco Raspini, notaio in Lucca, registrato a Lucca in data 6 aprile 1981 al n. 1835.  
+174. Decreto del Presidente della Repubblica 25 febbraio 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Societa' italiana degli autori ed editori, in Roma, viene autorizzata ad acquistare, al prezzo di L. 16.500.000, un appartamento sito in Roma, via dei Frassini, 46, villino B, distinto nel nuovo catasto edilizio urbano alla partita 215045, foglio 946, mappale 1002, 1003 sub 3, come da atto di compravendita 4 luglio 1979, n. 1050 di repertorio, a rogito avv. Nicodemo Operamolla, notaio in Roma.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 2 maggio 1985  
-Registro n. 4 Presidenza, foglio n. 89
+Visto, il Guardasigilli: SARTI  
+Registrato alla Corte dei conti, addi' 23 aprile 1981  
+Registro n. 3 Presidenza, foglio n. 211

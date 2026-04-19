@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1969 n. 1045
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1960 n. 1530
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1969 n. 1045
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1960 n. 1530
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
@@ -10,15 +10,15 @@ Modificazioni allo statuto dell'Universita' degli studi di Torino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788) e successivi;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con, [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936 n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifiche dello, statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -30,97 +30,117 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 92, relativo all'elenco delle scuole di specializzazione della facolta' di medicina e chirurgia e' modificato nel senso che la scuola in "Dermosifilopatia" muta denominazione in quella di "Clinica dermosifilopatica".
+Dopo l'art. 185, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi alla Scuola di specializzazione di neurochirurgia, annessa alla Facolta' di medicina e chirurgia.
 
-Gli articoli 118 e 119 relativi alla scuola di specializzazione in dermosifilopatia sono abrogati e sostituiti dai seguenti.
+Scuola di specializzazione in neurochirurgia
 
-Scuola di specializzazione in clinica dermosifilopatica
+Art. 186. - Per il conseguimento del diploma di specialista in neochirurgia, si richiedono cinque anni di corso.
 
-Art. 118. - Gli anni di corso della scuola di specializzazione in clinica dermosifilopatica sono tre, e a tempo pieno.
+Art. 187. - La Scuola e' istituita presso l'istituto di clinica chirurgica generale e della Clinica delle malattie nervose e mentali, ed e posta sotto la direzione e la diretta sorveglianza del titolare della cattedra di clinica chirurgica generale, o di chi avra' l'incarico dell'insegnamento della neurochirurgia, coadiuvato da professori e docenti proposti e particolarmente preparati in tale materia.
 
-Il programma dei corsi verra' svolto con le seguenti materie di studio, distribuite nei tre anni di corso, secondo lo schema:
+Art. 188. - Il materiale didattico e' anche costituito dalla biblioteca e dalla documentazione raccolta nell'archivio delle due Cliniche.
 
-1° Anno:
+Art. 189. - Il corso si compone di insegnamenti fondamentali e di conferenze su argomenti speciali.
 
-Anatomia e istologia normale della cute;
+Art. 190. - Gli insegnamenti fondamentali impartiti dalla Scuola sono i seguenti:
 
-Fisiologia della cute e degli annessi cutanei;
+1° anno:
 
-Anatomia e fisiologia dell'apparato genitale;
+Clinica chirurgica generale;
 
-Microbiologia e parassitologia applicate;
+Anestesiologia;
 
-Tecnica di laboratorio con particolare riferimento alla sierologia applicata;.
+Fisiopatologia generale chirurgica;
 
-Semeiotica dermatologica e venereologica.
+Anatomia del sistema nervoso;
 
-2° Anno:
+Fisiologia del sistema nervoso;
 
-Patologia delle malattie cutanee;
+2° anno:
 
-Patologia delle infezioni sessuali;
+Clinica chirurgica generale;
 
-Anatomia e istologia patologica della cute;
+Patologia chirurgica del sistema nervoso;
 
-Anatomia patologica delle malattie veneree e sessuali;
+Otoneurologia e neuro oftalmologia;
 
-Angiologia;
+Semeiotica e clinica neuropatologica;
 
-Sessuologia.
+3° anno:
 
-3° Anno:
+Anatomia topografica neurochirurgica;
 
-Clinica delle malattie cutanee;
+Anatomia patologica di interesse neurochirurgico;
 
-Clinica delle infezioni sessuali;
+Neurofisiopatologia di interesse neurochirurgico;
 
-Farmacologia e terapia medicamentosa;
+Semeiotica e clinica neuropatologica;
 
-Fisioterapia dermatologica;
+4° anno:
 
-Cosmetologia;
+Clinica neurochirurgica;
 
-Chirurgia plastica riparatrice;
+Neuroradiologia;
 
-Igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.
+Anestesia neurochirurgica;
 
-Art. 119. - Il numero degli iscritti risulta fissato in dieci per ogni anno di corso (totale trenta iscritti).
+Tecnica operatoria neurochirurgica;
 
-Per l'iscrizione alla scuola sara' richiesta la sola laurea in medicina e chirurgia e lo specializzando potra' conseguire l'abilitazione professionale durante il corso di specializzazione.
+5° anno:
 
-Gli iscritti alla scuola dovranno frequentare per la durata dell'anno accademico la clinica dermosifilopatica per almeno quattro ore giornaliere seguendo le lezioni e svolgendo attivita' pratica nelle corsie, negli ambulatori, nei laboratori.
+Clinica neurochirurgica;
 
-Gli aspiranti alla scuola di specializzazione saranno previamente sottoposti ad un esame di ammissione e saranno valutati i titoli preferenziali in caso che i candidati siano in numero superiore al numero chiuso di dieci stabilito.
+Neuroradiologia;
 
-Gli esami di profitto dovranno essere superati in tre gruppi comprendenti ciascuno le materie proprie di ogni singolo anno di studio e comunque in tre sessioni distinte.
+Tecnica operatoria neurochirurgica;
 
-L'esame di diploma consistera' nell'esposizione e nella discussione di un argomento della disciplina, su un tema dato al candidato 24 ore prima della prova.
+Traumatologia; crano-cerebrale e vertebro-midollare;
+
+Neurochirurgia ad indirizzo fisiopatologico.
+
+Art. 191. - Alla fine di ciascun anno accademico, gli specializzandi che abbiano ottenuto le firme di frequenza, dovranno sostenere un esame di profitto nelle materie fondamentali.
+
+Art. 192. - Alla fine del 5° anno di corso, ha luogo l'esame di diploma, che consiste nella discussione di una dissertazione scritta su argomento di neurochirurgia, proposto o approvato dal direttore della scuola e presentato in segreteria, almeno trenta giorni prima dell'esame.
+
+Art. 193. - La Commissione per gli esami di profitto, e' costituita dal direttore della Scuola, dal docente della materia e da un altro docente del corso.
+
+Art. 194. - La Commissione per l'esame di diploma e' formata da sette membri, presieduta dal preside della Facolta', o da un professore da lui delegato.
+
+Art. 195. - Per gli iscritti alla Scuola di specializzazione in chirurgia generale, potra' essere ammesso il passaggio, dopo i primi due anni di specializzazione in chirurgia generale, al 3° corso della Scuola di neurochirurgia, ma con l'obbligo degli esami speciali di indole neurologica dei precedenti due corsi.
+
+Art. 196. - Per gli specializzati in chirurgia generale, o liberi docenti in patologia chirurgica o di clinica chirurgica, potra' essere ammessa l'iscrizione al quarto anno, della scuola di neurochirurgia, ma con l'obbligo di tutti gli esami speciali di indole neurologica, dei corsi precedenti al quarto.
+
+Art. 197. - Il numero delle ammissioni al 1° corso e' limitato al massimo a dieci.
+
+Il numero delle ammissioni di cui all'art. 195 a cinque.
+
+Il numero delle ammissioni di cui all'art. 196 a cinque.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 23 ottobre 1969
+Dato a Roma, addi' 30 ottobre 1960
 
-SARAGAT
+GRONCHI
 
-FERRARI AGGRADI
+BOSCO
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 5 gennaio 1970 Atti del Governo, registro n. 231, foglio n. 8. - CARUSO
+alla Corte dei conti, addi' 17 dicembre 1960 Atti del Governo, registro n. 132, foglio n. 99. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936 n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con, [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello, statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -128,50 +148,61 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 92, relativo all'elenco delle scuole di specializzazione della facolta' di medicina e chirurgia e' modificato nel senso che la scuola in "Dermosifilopatia" muta denominazione in quella di "Clinica dermosifilopatica".  
-Gli articoli 118 e 119 relativi alla scuola di specializzazione in dermosifilopatia sono abrogati e sostituiti dai seguenti.  
-Scuola di specializzazione in clinica dermosifilopatica  
-Art. 118. - Gli anni di corso della scuola di specializzazione in clinica dermosifilopatica sono tre, e a tempo pieno.  
-Il programma dei corsi verra' svolto con le seguenti materie di studio, distribuite nei tre anni di corso, secondo lo schema:  
-1° Anno:  
-Anatomia e istologia normale della cute;  
-Fisiologia della cute e degli annessi cutanei;  
-Anatomia e fisiologia dell'apparato genitale;  
-Microbiologia e parassitologia applicate;  
-Tecnica di laboratorio con particolare riferimento alla sierologia applicata;.  
-Semeiotica dermatologica e venereologica.  
-2° Anno:  
-Patologia delle malattie cutanee;  
-Patologia delle infezioni sessuali;  
-Anatomia e istologia patologica della cute;  
-Anatomia patologica delle malattie veneree e sessuali;  
-Angiologia;  
-Sessuologia.  
-3° Anno:  
-Clinica delle malattie cutanee;  
-Clinica delle infezioni sessuali;  
-Farmacologia e terapia medicamentosa;  
-Fisioterapia dermatologica;  
-Cosmetologia;  
-Chirurgia plastica riparatrice;  
-Igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.  
-Art. 119. - Il numero degli iscritti risulta fissato in dieci per ogni anno di corso (totale trenta iscritti).  
-Per l'iscrizione alla scuola sara' richiesta la sola laurea in medicina e chirurgia e lo specializzando potra' conseguire l'abilitazione professionale durante il corso di specializzazione.  
-Gli iscritti alla scuola dovranno frequentare per la durata dell'anno accademico la clinica dermosifilopatica per almeno quattro ore giornaliere seguendo le lezioni e svolgendo attivita' pratica nelle corsie, negli ambulatori, nei laboratori.  
-Gli aspiranti alla scuola di specializzazione saranno previamente sottoposti ad un esame di ammissione e saranno valutati i titoli preferenziali in caso che i candidati siano in numero superiore al numero chiuso di dieci stabilito.  
-Gli esami di profitto dovranno essere superati in tre gruppi comprendenti ciascuno le materie proprie di ogni singolo anno di studio e comunque in tre sessioni distinte.  
-L'esame di diploma consistera' nell'esposizione e nella discussione di un argomento della disciplina, su un tema dato al candidato 24 ore prima della prova.  
+  
+Dopo l'art. 185, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi alla Scuola di specializzazione di neurochirurgia, annessa alla Facolta' di medicina e chirurgia.  
+Scuola di specializzazione in neurochirurgia  
+Art. 186. - Per il conseguimento del diploma di specialista in neochirurgia, si richiedono cinque anni di corso.  
+Art. 187. - La Scuola e' istituita presso l'istituto di clinica chirurgica generale e della Clinica delle malattie nervose e mentali, ed e posta sotto la direzione e la diretta sorveglianza del titolare della cattedra di clinica chirurgica generale, o di chi avra' l'incarico dell'insegnamento della neurochirurgia, coadiuvato da professori e docenti proposti e particolarmente preparati in tale materia.  
+Art. 188. - Il materiale didattico e' anche costituito dalla biblioteca e dalla documentazione raccolta nell'archivio delle due Cliniche.  
+Art. 189. - Il corso si compone di insegnamenti fondamentali e di conferenze su argomenti speciali.  
+Art. 190. - Gli insegnamenti fondamentali impartiti dalla Scuola sono i seguenti:  
+1° anno:  
+Clinica chirurgica generale;  
+Anestesiologia;  
+Fisiopatologia generale chirurgica;  
+Anatomia del sistema nervoso;  
+Fisiologia del sistema nervoso;  
+2° anno:  
+Clinica chirurgica generale;  
+Patologia chirurgica del sistema nervoso;  
+Otoneurologia e neuro oftalmologia;  
+Semeiotica e clinica neuropatologica;  
+3° anno:  
+Anatomia topografica neurochirurgica;  
+Anatomia patologica di interesse neurochirurgico;  
+Neurofisiopatologia di interesse neurochirurgico;  
+Semeiotica e clinica neuropatologica;  
+4° anno:  
+Clinica neurochirurgica;  
+Neuroradiologia;  
+Anestesia neurochirurgica;  
+Tecnica operatoria neurochirurgica;  
+5° anno:  
+Clinica neurochirurgica;  
+Neuroradiologia;  
+Tecnica operatoria neurochirurgica;  
+Traumatologia; crano-cerebrale e vertebro-midollare;  
+Neurochirurgia ad indirizzo fisiopatologico.  
+Art. 191. - Alla fine di ciascun anno accademico, gli specializzandi che abbiano ottenuto le firme di frequenza, dovranno sostenere un esame di profitto nelle materie fondamentali.  
+Art. 192. - Alla fine del 5° anno di corso, ha luogo l'esame di diploma, che consiste nella discussione di una dissertazione scritta su argomento di neurochirurgia, proposto o approvato dal direttore della scuola e presentato in segreteria, almeno trenta giorni prima dell'esame.  
+Art. 193. - La Commissione per gli esami di profitto, e' costituita dal direttore della Scuola, dal docente della materia e da un altro docente del corso.  
+Art. 194. - La Commissione per l'esame di diploma e' formata da sette membri, presieduta dal preside della Facolta', o da un professore da lui delegato.  
+Art. 195. - Per gli iscritti alla Scuola di specializzazione in chirurgia generale, potra' essere ammesso il passaggio, dopo i primi due anni di specializzazione in chirurgia generale, al 3° corso della Scuola di neurochirurgia, ma con l'obbligo degli esami speciali di indole neurologica dei precedenti due corsi.  
+Art. 196. - Per gli specializzati in chirurgia generale, o liberi docenti in patologia chirurgica o di clinica chirurgica, potra' essere ammessa l'iscrizione al quarto anno, della scuola di neurochirurgia, ma con l'obbligo di tutti gli esami speciali di indole neurologica, dei corsi precedenti al quarto.  
+Art. 197. - Il numero delle ammissioni al 1° corso e' limitato al massimo a dieci.  
+Il numero delle ammissioni di cui all'art. 195 a cinque.  
+Il numero delle ammissioni di cui all'art. 196 a cinque.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 ottobre 1969
+### Dato a Roma, addi' 30 ottobre 1960
 
-SARAGAT FERRARI AGGRADI
+GRONCHI BOSCO
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 5 gennaio 1970
+Registrato alla Corte dei conti, addi' 17 dicembre 1960
 
-Atti del Governo, registro n. 231, foglio n. 8. - CARUSO
+Atti del Governo, registro n. 132, foglio n. 99. - VILLA

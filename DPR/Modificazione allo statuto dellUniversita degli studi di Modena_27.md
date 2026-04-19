@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 agosto 1985 n. 712
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 697
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 agosto 1985 n. 712
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 697
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Modena.
@@ -26,7 +26,7 @@ Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?
 
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
 
-Veduto il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio universitario nazionale;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
@@ -39,22 +39,20 @@ Articolo unico
 --------------
 
   
-Nell'art. 41, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
-terapia medica sistematica;  
-istituzioni di anatomia e istologia patologica.  
+Nell'art. 71, relativo al corso di laurea in economia e commercio, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+sociologia economica;  
+complementi di econometria.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 8 agosto 1985
+### Dato a Roma, addi' 27 giugno 1983
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 26 novembre 1985
+Registrato alla Corte dei conti, addi' 7 dicembre 1983
 
-Registro n. 81 Istruzione, foglio n. 299
+Registro n. 75 Istruzione, foglio n. 287

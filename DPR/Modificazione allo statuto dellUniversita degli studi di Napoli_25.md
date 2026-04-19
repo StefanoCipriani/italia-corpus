@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 446
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 ottobre 1985 n. 807
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 446
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 ottobre 1985 n. 807
+==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -39,15 +39,17 @@ Articolo unico
 --------------
 
   
-Nell'art. 129, relativo al corso di laurea in medicina e chirurgia della prima facolta' di medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-medicina del traffico;  
-pediatria sociale e puericultura.  
+Nell'art. 129, relativo al corso di laurea in medicina e chirurgia della prima facolta', all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+patologia geriatrica;  
+chirurgia proctologica;  
+patologia cellulare;  
+medicina dello sport.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 aprile 1986
+### Dato a Roma, addi' 12 ottobre 1985
 
 COSSIGA
 
@@ -55,6 +57,6 @@ FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 17 luglio 1986
+Registrato alla Corte dei conti, addi' 19 dicembre 1985
 
-Registro n. 57 Istruzione, foglio n. 89
+Registro n. 86 Istruzione, foglio n. 140

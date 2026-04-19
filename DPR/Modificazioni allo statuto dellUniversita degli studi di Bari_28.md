@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1964 n. 1461
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 823
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1964 n. 1461
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 823
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -16,7 +16,7 @@ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regi
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
@@ -30,128 +30,90 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Dopo l'art. 118, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in Diplomatica ed Archivistica annessa alla Facolta' di lettere e filosofia con il conseguente spostamento della numerazione degli articoli successivi.
+Art. 174 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in farmacologia clinica.
 
-Scuola di specializzazione in Diplomatica ed Archivistica
+L'art. 192, relativo alla scuola di specializzazione in psichiatria, e' modificato nel senso che il quarto comma e' abrogato e sostituito dal seguente:
 
-Art. 119. - E' istituita la scuola di specializzazione in Diplomatica ed Archivistica, che ha per fine di promuovere la preparazione tecnica di coloro che aspirano alla carriera direttiva degli archivi e di incrementare lo studio e la pubblicazione dei fondi archivistici e delle fonti storiche in genere, con particolare riguardo ai documenti dell'Italia meridionale.
+"Il numero degli iscritti non potra' superare quello massimo di trentadue (32) per i complessivi quattro anni di corso".
 
-Art. 120. - La Scuola conferisce il diploma di specializzazione in Diplomatica ed Archivistica.
+Dopo l'art. 223 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in farmacologia clinica:
 
-Art. 121. - Sono ammessi alla Scuola i laureati in Giurisprudenza, in Lettere e filosofia e in Scienze politiche, purche' forniti di diploma di maturita' classica Riguardo alle tasse, soprattasse e contributi, valgono in quanto applicabili, le disposizioni regolamentari vigenti per gli studenti dei corsi di laurea.
+Scuola di specializzazione in farmacologia clinica
 
-Gli iscritti sono tenuti altresi' al versamento di un contributo di internato il cui ammontare sara' fissato annualmente dal Consiglio di amministrazione, su proposta del Consiglio della scuola.
+Art. 224. - La scuola di specializzazione ha sede presso l'istituto di farmacologia. La scuola ha la durata di tre anni. Il direttore della scuola e' professore di ruolo in farmacologia. In sua assenza il direttore e' nominato dal consiglio di facolta', sentito il parere dei docenti del corso. Gli insegnamenti sono ripartiti in tre anni e vi possono accedere i laureati in medicina e chirurgia.
 
-Art. 122. - Il corso della Scuola ha la durata di due anni.
-
-Sono insegnamenti costitutivi della Scuola
-
-a) Materie fondamentali:
-
-1) Archivistica;
-
-2) Diplomatica (biennale);
-
-3) Istituzioni di diritto privato medievale e moderno;
-
-4) Istituzioni di diritto romano-bizantino;
-
-5) Paleografia latina (biennale);
-
-6) Storia medievale;
-
-7) Storia moderna;
-
-8) Storia degli ordinamenti giuridici medievali;
-
-9) Storia degli ordinamenti giuridici moderni.
-
-b) Materie complementari:
-
-1) Greco bizantino;
-
-2) Latino medioevale;
-
-3) Paleografia greca;
-
-4) Storia dell'economia medievale e moderna.
-
-Art. 123. - Per conseguire il diploma gli iscritti debbono:
-
-a) aver seguito i corsi e superato gli esami degli insegnamenti assegnati a ciascun anno secondo il seguente piano di studi:
+Art. 225. - Le materie di insegnamento sono le seguenti:
 
 1° Anno:
 
-1) Diplomatica (1° anno);
+Farmacologia generale;
 
-2) Istituzioni di diritto romano-bizantino;
+Farmacologia sperimentale speciale (del circolo, del S.N. dell'apparato gastroenterico, renale, dell'apparato respiratorio, ecc.);
 
-3) Paleografia latina (1° anno);
+Endocrinologia;
 
-4) Storia medievale;
+Microbiologia e chemioterapia;
 
-5) Storia moderna;
-
-6) Storia degli ordinamenti giuridici medievali.
-
-Una materia a scelta fra le complementari.
+Tossicologia sperimentale.
 
 2° Anno:
 
-1) Archivistica;
+Tecnica farmacologica;
 
-2) Diplomatica (2° anno);
+Tecnica farmaceutica;
 
-3) Istituzioni di diritto privato medievale e moderno;
+Farmacocinetica sperimentale;
 
-4) Paleografia latina (2° anno);
+Farmacogenetica;
 
-5) Storia degli ordinamenti giuridici moderni.
+Statistica e biometria medica;
 
-Una materia a scelta fra le complementari.
+Tossicologia clinica.
 
-Gli esami di Paleografia latina e di Diplomatica dovranno essere sostenuti alla fine del biennio;
+3° Anno:
 
-b) aver apprestato e discusso l'edizione critica di una serie di documenti.
+Farmacocinetica clinica;
 
-La discussione e' sottoposta alla previa autorizzazione di due relatori che ne assumono la responsabilita'.
+Tecniche d'indagine chimico-biologiche;
 
-La pubblicazione relativa non potra' essere effettuata se non con l'autorizzazione della Direzione della scuola e sempre nella apposita collana da essa curata.
+Tecniche d'indagine fisico-chimiche;
 
-Art. 124. - Il Consiglio della scuola si compone dei professori incaricati degli insegnamenti costitutivi ed e' presieduto dal direttore, nominato alternativamente per un triennio fra i direttori dei due Istituti di storia del diritto italiano e di paleografia.
+Tecniche d'indagine radio-isotopiche;
 
-Gli incarichi di insegnamento vengono conferiti dal rettore su designazione del Consiglio della scuola.
+Impiego di computers in biologia e clinica;
 
-Per la prima attuazione la designazione per gli incarichi verra' fatta di comune accordo dai direttori dei due Istituti di cui al primo comma.
+Medicina legale;
 
-Il direttore ha compiti di coordinamento ed organizzazione del programma di attivita' didattica e scientifica della Scuola, sentito il Consiglio che lo approva.
+Organizzazione e legislazione ospedaliera.
 
-Art. 125. - Le Commissioni per gli esami di profitto vengono nominate dal direttore della Scuola.
+Art. 226. - Gli insegnamenti sono accompagnati da esercitazioni pratiche e da conferenze su argomenti attinenti alla farmacologia clinica.
 
-Le Commissioni per gli esami di diploma sono nominate dal rettore, sentito il direttore della Scuola, e si compongono di sette membri.
+Gli iscritti dovranno frequentare gli insegnamenti negli istituti di farmacologia con obbligo di servizio identico a quello di assistente volontario o per periodi continuativi prestabiliti.
 
-Art. 126. - A disposizione degli iscritti sara' messo annualmente un certo numero di borse di studio.
+Compito del direttore sara' lo smistamento degli iscritti presso le cliniche attinenti alla scuola di specializzazione.
 
-Le modalita' del conferimento saranno preventivamente fissate e pubblicate prima dell'inizio di ciascun anno accademico dal Consiglio della scuola.
+Potra' venir fissato di anno in anno anche un periodo di internato che gli allievi dovranno passare in istituti italiani ed esteri.
 
-Art. 127. - Al termine di ogni biennio il direttore della Scuola trasmettera' una relazione al rettore e alle Facolta' di giurisprudenza e di lettere e filosofia.
+I docenti del corso possono chiedere l'iscrizione al corso seguente a quello da loro tenuto e puo' essere a loro consentita dal direttore l'iscrizione all'ultimo anno.
+
+Il numero massimo di allievi per ogni anno e' di 16 e possono iscriversi in soprannumero i docenti dei corsi precedenti o i titolari di cattedra universitaria.
+
+Gli esami di profitto sono dati per gruppi alla fine di ciascun anno. Alla fine degli esami gli allievi dovranno presentare una tesi scritta e sostenere un esame di diploma.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 31 ottobre 1964
+Dato a Roma, addi' 31 ottobre 1974
 
-Per il Presidente della Repubblica
+LEONE
 
-Il Presidente del Senato
-
-MERZAGORA GUI
+MALFATTI
 
 Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 7 gennaio 1965 Atti del Governo, registro n. 189, foglio n. 74. - VILLA
+alla Corte dei conti, addi' 27 gennaio 1975 Atti di Governo, registro n. 8, foglio n. 61
 
 Art. 1
 ------
@@ -161,7 +123,7 @@ Art. 1
 Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -170,73 +132,57 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 174 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in farmacologia clinica.  
+L'art. 192, relativo alla scuola di specializzazione in psichiatria, e' modificato nel senso che il quarto comma e' abrogato e sostituito dal seguente:  
+"Il numero degli iscritti non potra' superare quello massimo di trentadue (32) per i complessivi quattro anni di corso".  
+Dopo l'art. 223 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in farmacologia clinica:  
   
-Dopo l'art. 118, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in Diplomatica ed Archivistica annessa alla Facolta' di lettere e filosofia con il conseguente spostamento della numerazione degli articoli successivi.  
+Scuola di specializzazione in farmacologia clinica  
+Art. 224. - La scuola di specializzazione ha sede presso l'istituto di farmacologia. La scuola ha la durata di tre anni. Il direttore della scuola e' professore di ruolo in farmacologia. In sua assenza il direttore e' nominato dal consiglio di facolta', sentito il parere dei docenti del corso. Gli insegnamenti sono ripartiti in tre anni e vi possono accedere i laureati in medicina e chirurgia.  
+Art. 225. - Le materie di insegnamento sono le seguenti:  
   
-Scuola di specializzazione in Diplomatica ed Archivistica  
-  
-Art. 119. - E' istituita la scuola di specializzazione in Diplomatica ed Archivistica, che ha per fine di promuovere la preparazione tecnica di coloro che aspirano alla carriera direttiva degli archivi e di incrementare lo studio e la pubblicazione dei fondi archivistici e delle fonti storiche in genere, con particolare riguardo ai documenti dell'Italia meridionale.  
-Art. 120. - La Scuola conferisce il diploma di specializzazione in Diplomatica ed Archivistica.  
-Art. 121. - Sono ammessi alla Scuola i laureati in Giurisprudenza, in Lettere e filosofia e in Scienze politiche, purche' forniti di diploma di maturita' classica Riguardo alle tasse, soprattasse e contributi, valgono in quanto applicabili, le disposizioni regolamentari vigenti per gli studenti dei corsi di laurea.  
-Gli iscritti sono tenuti altresi' al versamento di un contributo di internato il cui ammontare sara' fissato annualmente dal Consiglio di amministrazione, su proposta del Consiglio della scuola.  
-Art. 122. - Il corso della Scuola ha la durata di due anni.  
-Sono insegnamenti costitutivi della Scuola  
-a) Materie fondamentali:  
-1) Archivistica;  
-2) Diplomatica (biennale);  
-3) Istituzioni di diritto privato medievale e moderno;  
-4) Istituzioni di diritto romano-bizantino;  
-5) Paleografia latina (biennale);  
-6) Storia medievale;  
-7) Storia moderna;  
-8) Storia degli ordinamenti giuridici medievali;  
-9) Storia degli ordinamenti giuridici moderni.  
-b) Materie complementari:  
-1) Greco bizantino;  
-2) Latino medioevale;  
-3) Paleografia greca;  
-4) Storia dell'economia medievale e moderna.  
-Art. 123. - Per conseguire il diploma gli iscritti debbono:  
-a) aver seguito i corsi e superato gli esami degli insegnamenti assegnati a ciascun anno secondo il seguente piano di studi:  
 1° Anno:  
-1) Diplomatica (1° anno);  
-2) Istituzioni di diritto romano-bizantino;  
-3) Paleografia latina (1° anno);  
-4) Storia medievale;  
-5) Storia moderna;  
-6) Storia degli ordinamenti giuridici medievali.  
-Una materia a scelta fra le complementari.  
+Farmacologia generale;  
+Farmacologia sperimentale speciale (del circolo, del S.N. dell'apparato gastroenterico, renale, dell'apparato respiratorio, ecc.);  
+Endocrinologia;  
+Microbiologia e chemioterapia;  
+Tossicologia sperimentale.  
+  
 2° Anno:  
-1) Archivistica;  
-2) Diplomatica (2° anno);  
-3) Istituzioni di diritto privato medievale e moderno;  
-4) Paleografia latina (2° anno);  
-5) Storia degli ordinamenti giuridici moderni.  
-Una materia a scelta fra le complementari.  
-Gli esami di Paleografia latina e di Diplomatica dovranno essere sostenuti alla fine del biennio;  
-b) aver apprestato e discusso l'edizione critica di una serie di documenti.  
-La discussione e' sottoposta alla previa autorizzazione di due relatori che ne assumono la responsabilita'.  
-La pubblicazione relativa non potra' essere effettuata se non con l'autorizzazione della Direzione della scuola e sempre nella apposita collana da essa curata.  
-Art. 124. - Il Consiglio della scuola si compone dei professori incaricati degli insegnamenti costitutivi ed e' presieduto dal direttore, nominato alternativamente per un triennio fra i direttori dei due Istituti di storia del diritto italiano e di paleografia.  
-Gli incarichi di insegnamento vengono conferiti dal rettore su designazione del Consiglio della scuola.  
-Per la prima attuazione la designazione per gli incarichi verra' fatta di comune accordo dai direttori dei due Istituti di cui al primo comma.  
-Il direttore ha compiti di coordinamento ed organizzazione del programma di attivita' didattica e scientifica della Scuola, sentito il Consiglio che lo approva.  
-Art. 125. - Le Commissioni per gli esami di profitto vengono nominate dal direttore della Scuola.  
-Le Commissioni per gli esami di diploma sono nominate dal rettore, sentito il direttore della Scuola, e si compongono di sette membri.  
-Art. 126. - A disposizione degli iscritti sara' messo annualmente un certo numero di borse di studio.  
-Le modalita' del conferimento saranno preventivamente fissate e pubblicate prima dell'inizio di ciascun anno accademico dal Consiglio della scuola.  
-Art. 127. - Al termine di ogni biennio il direttore della Scuola trasmettera' una relazione al rettore e alle Facolta' di giurisprudenza e di lettere e filosofia.  
+Tecnica farmacologica;  
+Tecnica farmaceutica;  
+Farmacocinetica sperimentale;  
+Farmacogenetica;  
+Statistica e biometria medica;  
+Tossicologia clinica.  
+  
+3° Anno:  
+Farmacocinetica clinica;  
+Tecniche d'indagine chimico-biologiche;  
+Tecniche d'indagine fisico-chimiche;  
+Tecniche d'indagine radio-isotopiche;  
+Impiego di computers in biologia e clinica;  
+Medicina legale;  
+Organizzazione e legislazione ospedaliera.  
+  
+Art. 226. - Gli insegnamenti sono accompagnati da esercitazioni pratiche e da conferenze su argomenti attinenti alla farmacologia clinica.  
+Gli iscritti dovranno frequentare gli insegnamenti negli istituti di farmacologia con obbligo di servizio identico a quello di assistente volontario o per periodi continuativi prestabiliti.  
+Compito del direttore sara' lo smistamento degli iscritti presso le cliniche attinenti alla scuola di specializzazione.  
+Potra' venir fissato di anno in anno anche un periodo di internato che gli allievi dovranno passare in istituti italiani ed esteri.  
+I docenti del corso possono chiedere l'iscrizione al corso seguente a quello da loro tenuto e puo' essere a loro consentita dal direttore l'iscrizione all'ultimo anno.  
+Il numero massimo di allievi per ogni anno e' di 16 e possono iscriversi in soprannumero i docenti dei corsi precedenti o i titolari di cattedra universitaria.  
+Gli esami di profitto sono dati per gruppi alla fine di ciascun anno. Alla fine degli esami gli allievi dovranno presentare una tesi scritta e sostenere un esame di diploma.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1964
+### Dato a Roma, addi' 31 ottobre 1974
 
-Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA GUI
+LEONE MALFATTI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 7 gennaio 1965
+Registrato alla Corte dei conti, addi' 27 gennaio 1975
 
-Atti del Governo, registro n. 189, foglio n. 74. - VILLA
+Atti di Governo, registro n. 8, foglio n. 61

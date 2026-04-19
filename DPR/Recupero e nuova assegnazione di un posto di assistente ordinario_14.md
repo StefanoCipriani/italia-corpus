@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1974 n. 536
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 ottobre 1975 n. 813
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1974 n. 536
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 ottobre 1975 n. 813
+==============================================================
 
 Recupero e nuova assegnazione di un posto di assistente ordinario.
 ------------------------------------------------------------------
@@ -10,52 +10,41 @@ Recupero e nuova assegnazione di un posto di assistente ordinario.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Visto l'[art. 14 della legge 24 febbraio 1967, n. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-02-24;62~art14), con il quale sono stati complessivamente istituiti per gli anni accademici dal 1966-67 al 1970-71, settemila posti di assistente ordinario;
+Visto il decreto ministeriale 2 luglio 1949, con il quale, fra l'altro, fu assegnato un posto di assistente ordinario alla cattedra di macchine della facolta' di ingegneria dell'Universita' degli studi di Napoli;
 
-Visto l'art. 15, comma primo, della stessa legge n. 62, concernente la riserva di assegnazione alle cattedre cui prestino servizio assistenti straordinari con almeno cinque anni di servizio retribuito, di un numero di posti corrispondente a quello degli assistenti straordinari forniti del prescritto requisito di anzianita';
+Visto il telegramma n. 20031 del rettore dell'Ateneo napoletano dal quale risulta che il posto in questione e' vacante fin dal 1 novembre 1969 per la nomina a professore aggregato del titolare prof. Guido Jannelli;
 
-Visto il [decreto del Presidente della Repubblica 30 novembre 1967, n. 1348](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-11-30;1348), con il quale, per l'anno accademico 1967-68, in applicazione della riserva stessa, sono stati ripartiti fra le cattedre dei diversi atenei n. 521 posti di assistente riservati per concorso agli assistenti straordinari forniti della predetta anzianita' di servizio, uno dei quali assegnato alla cattedra di metodi di osservazione e misura della facolta' di ingegneria dell'Universita' di Pisa;
+Considerato pertanto che non si e' provveduto alla copertura del posto nei termini fissati dall'ultimo comma dell'[art. 13 della legge 18 marzo 1958, n. 349](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-18;349~art13);
 
-Considerato che ai sensi dell'ultimo comma del citato art. 15 della legge n. 62 i posti riservati, comunque non coperti, debbono essere recuperati e fatti oggetto di una nuova ripartizione;
-
-Visti i [decreti presidenziali 11 dicembre 1968, n. 1331](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-12-11;1331);
-
-27 maggio 1969, n. 325; 23 ottobre 1969, n. 919; 20 novembre 1969, n. 942; 23 marzo 1970, n. 254; 12 maggio 1970, n. 522; 13 giugno 1970, n. 603; 3 luglio 1970, n. 670; 4 luglio 1970, n. 788; 7 novembre 1970, n. 986;
-
-3 dicembre 1970, n. 1201, con i quali, in applicazione del disposto di cui al citato ultimo comma dell'art. 15, sono stati recuperati e nuovamente ripartiti posti di assistente ordinario gia' riservati per concorso agli assistenti straordinari, di cui al [decreto del Presidente della Repubblica 30 novembre 1967, n. 1348](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-11-30;1348);
-
-Considerato che a seguito del concorso riservato bandito dall'Universita' di Pisa per il posto di assistente alla cattedra di metodi di osservazione e misura della facolta' di ingegneria, il posto stesso non e' stato coperto con la nomina in ruolo di assistente straordinario;
-
-Considerato che detto posto e' tuttora vacante;
+Ritenuto che per tale ragione siano venuti meno i motivi che a suo tempo determinarono l'assegnazione del posto alla cattedra in questione;
 
 Sulla
 -----
 
-proposta del Ministro per la pubblica istruzione; Decreta:
+proposta del Ministro Segretario di Stato per la pubblica istruzione; Decreta:
 
 Art. 1
 ------
 
   
-  
-Il posto di assistente ordinario assegnato alla cattedra di metodi di osservazione e misura della facolta' di ingegneria dell'Universita' di Pisa con il [decreto del Presidente della Repubblica 30 novembre 1967, n. 1348](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-11-30;1348), e' recuperato dal contingente riservato.   
+Il posto di assistente ordinario gia' assegnato con decreto ministeriale 2 luglio 1949 alla cattedra di macchine della facolta' di ingegneria dell'Universita' degli studi di Napoli, e' recuperato.
 
 Art. 2
 ------
 
   
-Il posto di assistente ordinario, come sopra recuperato, viene assegnato alla cattedra di chirurgia toracica della facolta' di medicina e chirurgia dell'Universita' di Roma.  
+Il posto di assistente ordinario di cui al precedente articolo e' assegnato alla seconda cattedra di farmacologia della facolta' di medicina e chirurgia della Universita' degli studi di Pavia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 giugno 1974
+### Dato a Roma, addi' 13 ottobre 1975
 
 LEONE MALFATTI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 13 novembre 1974
+Registrato alla Corte dei conti, addi' 26 gennaio 1976
 
-Atti di Governo, registro n. 6, foglio n. 108. - SCIARRETTA
+Atti di Governo, registro n. 1, foglio n. 58

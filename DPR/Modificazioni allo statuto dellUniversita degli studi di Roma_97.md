@@ -1,19 +1,140 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1970 n. 317
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1967 n. 1137
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1970 n. 317
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1967 n. 1137
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734) e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Dopo l'art. 115 e con il conseguente spostamento della successiva numerazione e' aggiunto il seguente nuovo articolo relativo all'istituzione del corso di laurea in chimica e tecnologie farmaceutiche annesso alla facolta' di farmacia.
+
+((Laurea in chimica e tecnologia farmaceutiche))
+
+Art. 116. - Durata del corso degli studi: cinque anni, divisi in un biennio ed un triennio.
+
+Titolo di ammissione: diploma di maturita' classica o scientifica.
+
+Insegnamenti fondamentali
+
+Biennio:
+
+1. Analisi chimico farmaceutica I (analisi qualitativa)
+
+\* 2. Anatomia umana
+
+\* 3. Botanica farmaceutica
+
+\* 4. Chimica fisica
+
+\* 5. Chimica generale ed inorganica
+
+\*\* 6. Chimica organica I
+
+\* 7. Fisica
+
+8. Fisiologia generale
+
+\* 9. Istituzioni di matematiche
+
+10. Microbiologia e igiene
+
+Triennio:
+
+11. Analisi chimico farmaceutica II (analisi quantitativa)
+
+12. Analisi chimico farmaceutica III (analisi dei medicamenti)
+
+\* 13. Biochimica applicata
+
+\* 14. Chimica biologica
+
+\* 15. Chimica degli alimenti
+
+\* 16. Chimica farmaceutica applicata
+
+\* 17. Chimica farmaceutica e tossicologica I
+
+\* 18. Chimica farmaceutica e tossicologica II
+
+\*\* 19. Chimica organica II
+
+\* 20. Farmacologia e farmacognosia
+
+21. Impianti dell'industria farmaceutica
+
+22. Laboratorio di preparazione estrattiva e sintetica dei
+
+farmaci
+
+23. Metodi fisici in chimica organica
+
+24. Saggi e dosaggi farmacologici
+
+\* 25. Tecnica e legislazione farmaceutica.
+
+Insegnamenti complementari
+
+\* Chimica delle fermentazioni e microbiologia industriale
+
+Chimica dei prodotti dietetici
+
+Chimica dei prodotti cosmetici
+
+Impianti per laboratori galenici
+
+Zoologia e parassitologia.
+
+Le materie segnate con un asterisco sono comuni alla laurea in farmacia; quelle segnate con due asterischi sono comuni alla laurea in chimica.
+
+Per ottenere l'iscrizione al 3° anno di corso, lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fissati per i due anni precedenti.
+
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato tutti gli esami dei corsi fondamentali e almeno due esami a scelta fra i corsi complementari.
+
+La prova di laurea comporta la discussione di una tesi sperimentale.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 26 ottobre 1967
+
+SARAGAT
+
+GUI
+
+Vis to, il Guardasigilli: REALE
+
+R egistrato alla Corte dei conti, addi' 4 dicembre 1967 A tti del Governo, registro n. 216, foglio n. 25. - GRECO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
@@ -25,42 +146,65 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Dopo l'art. 624 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chirurgia vascolare.  
-Scuola di specializzazione in chirurgia vascolare  
-Art. 625. - E' istituita, presso l'Istituto di prima patologia chirurgica, la scuola di specializzazione in chirurgia vascolare diretta dal titolare della cattedra stessa.  
-Art. 626. - La durata del corso degli studi per il conseguimento del diploma di "specialista in chirurgia vascolare" e' di tre anni.  
-Art. 627. - Alla scuola sono ammessi i laureati in medicina e chirurgia. Il numero massimo degli iscritti e' stabilito in quarantacinque per l'intero corso.  
-Art. 628. - Non saranno consentite abbreviazioni di corso ne' l'iscrizione contemporanea ad altre scuole di specializzazione.  
-Per l'ammissione agli esami sara' obbligatoria la frequenza alle lezioni ed alle esercitazioni pratiche. Il superamento degli esami di ciascun anno sara' condizione indispensabile per l'iscrizione all'anno successivo.  
-Alla fine del corso, per ottenere il diploma, i candidati dovranno presentare una dissertazione scritta su un argomento di chirurgia vascolare, da discutere in sede di diploma, e dovranno sostenere una prova clinica.  
-Art. 629. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
-1° Anno:  
-1) Embriologia, anatomia macro e microscopica dell'apparato vascolare;  
-2) Fisiopatologia dell'apparato vascolare e della coagulazione sanguigna;  
-3) Anatomia patologica dell'apparato vascolare;  
-4) Semeiologia fisica e strumentale delle malattie vascolari;  
-5) Semeiologia radiologica delle malattie vascolari;  
-6) Vasculopatie di interesse medico e specialistico;  
-2° Anno:  
-7) Patologia e clinica delle malattie del sistema arterioso;  
-8) Patologia e clinica delle malattie del sistema venoso;  
-9) Patologia e clinica delle malattie del sistema linfatico;  
-10) Patologia e clinica delle malattie dei piccoli vasi;  
-3° Anno:  
-11) Nozioni di terapia medica delle malattie vascolari;  
-12) Terapia chirurgica delle malattie vascolari;  
-13) Chirurgia vascolare applicata a malattie dei vari organi.  
+Dopo l'art. 115 e con il conseguente spostamento della successiva numerazione e' aggiunto il seguente nuovo articolo relativo all'istituzione del corso di laurea in chimica e tecnologie farmaceutiche annesso alla facolta' di farmacia.  
+  
+
+((Laurea in chimica e tecnologia farmaceutiche))
+
+  
+  
+Art. 116. - Durata del corso degli studi: cinque anni, divisi in un biennio ed un triennio.  
+Titolo di ammissione: diploma di maturita' classica o scientifica.  
+Insegnamenti fondamentali  
+Biennio:  
+1. Analisi chimico farmaceutica I (analisi qualitativa)  
+\* 2. Anatomia umana  
+\* 3. Botanica farmaceutica  
+\* 4. Chimica fisica  
+\* 5. Chimica generale ed inorganica  
+\*\* 6. Chimica organica I  
+\* 7. Fisica  
+8. Fisiologia generale  
+\* 9. Istituzioni di matematiche  
+10. Microbiologia e igiene  
+Triennio:  
+11. Analisi chimico farmaceutica II (analisi quantitativa)  
+12. Analisi chimico farmaceutica III (analisi dei medicamenti)  
+\* 13. Biochimica applicata  
+\* 14. Chimica biologica  
+\* 15. Chimica degli alimenti  
+\* 16. Chimica farmaceutica applicata  
+\* 17. Chimica farmaceutica e tossicologica I  
+\* 18. Chimica farmaceutica e tossicologica II  
+\*\* 19. Chimica organica II  
+\* 20. Farmacologia e farmacognosia  
+21. Impianti dell'industria farmaceutica  
+22. Laboratorio di preparazione estrattiva e sintetica dei  
+farmaci  
+23. Metodi fisici in chimica organica  
+24. Saggi e dosaggi farmacologici  
+\* 25. Tecnica e legislazione farmaceutica.  
+Insegnamenti complementari  
+\* Chimica delle fermentazioni e microbiologia industriale  
+Chimica dei prodotti dietetici  
+Chimica dei prodotti cosmetici  
+Impianti per laboratori galenici  
+Zoologia e parassitologia.  
+Le materie segnate con un asterisco sono comuni alla laurea in farmacia; quelle segnate con due asterischi sono comuni alla laurea in chimica.  
+Per ottenere l'iscrizione al 3° anno di corso, lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fissati per i due anni precedenti.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato tutti gli esami dei corsi fondamentali e almeno due esami a scelta fra i corsi complementari.  
+La prova di laurea comporta la discussione di una tesi sperimentale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 7 febbraio 1970
+### Dato a Roma, addi' 26 ottobre 1967
 
-SARAGAT FERRARI AGGRADI
+SARAGAT GUI Vis
 
-Visto, il Guardasigilli: REALE
+to, il Guardasigilli: REALE R
 
-Registrato alla Corte dei conti, addi' 21 maggio 1970
+egistrato alla Corte dei conti, addi' 4 dicembre 1967 A
 
-Atti del Governo, registro n. 235, foglio n. 116. - CARUSO
+tti del Governo, registro n. 216, foglio n. 25. - GRECO

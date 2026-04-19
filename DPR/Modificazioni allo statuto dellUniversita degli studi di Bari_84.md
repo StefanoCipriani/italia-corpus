@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1164
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1982 n. 141
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1164
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1982 n. 141
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
@@ -18,75 +18,91 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
 Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate delle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio universitario nazionale nel suo parere;
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Veduta la necessita' di adeguare le norme sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Decreta:
---------
+Sulla
+-----
 
-Lo statuto dell'Universita' di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+proposta del Ministro della pubblica istruzione; Decreta:
 
 Art. 1
 ------
 
   
-L'art. 35 dello statuto dell'Universita' di Bari, relativo agli istituti della facolta' di lettere e filosofia, e' sostituito dal seguente:  
-Gli istituti della facolta' di lettere e filosofia sono:  
-1) istituto di filologia classica;  
-2) istituto di storia dell'arte medioevale e moderna;  
-3) istituto di storia medioevale e moderna;  
-4) istituto di filosofia;  
-5) istituto di glottologia;  
-6) istituto di filologia moderna;  
-7) istituto di psicologia;  
-8) istituto di storia antica (greca e romana);  
-9) istituto di paleografia;  
-10) istituto di archeologia e storia dell'arte greca e romana;  
-11) istituto di filologia e lingue romanze;  
-12) istituto di civilta' preclassiche (con annesso museo paletnologico);  
-13) istituto di storia delle tradizioni popolari;  
-14) seminario di storia della scienza;  
-15) istituto di lingue e letterature straniere.  
-Ciascun istituto ha locali, attrezzature e biblioteca propri.  
+Lo statuto dell'Universita' di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 192 - all'elenco delle scuole di specializzazione in medicina e' aggiunta la scuola di specializzazione in "biologia clinica".  
 
 Art. 2
 ------
 
   
+Dopo l'art. 265, e con il conseguente spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo relativo alla scuola di specializzazione in biologia clinica.  
   
-L'art. 36 dello statuto dell'Universita' di Bari, relativo al seminario di storia della scienza presso la facolta' di lettere e filosofia, e' sostituito dal seguente:   
-Seminario di storia della scienza   
-E' istituito un seminario di storia della scienza che si propone di raggiungere le seguenti finalita':   
-1) favorire il progresso degli studi di storia della scienza;   
-2) organizzare attivita' formative e di ricerca riservata ai giovani laureati provenienti sia da facolta' letterarie-umanistiche che da facolta' tecnico-scientifiche;   
-3) ampliare e completare la formazione degli studenti e dei ricercatori, ed organizzare l'aggiornamento su temi e problemi di storia della scienza, in connessione con la storia civile, politica, economica, sociale, filosofica, letteraria;   
-4) istituire rapporti di collaborazione tra le facolta' umanistiche e quelle scientifiche, nonche' con le istituzioni e con gli enti di ricerca e programmazione operanti nel territorio.   
-A tale scopo il seminario promuove corsi di lezioni, convegni, conferenze, riunioni, esercitazioni ed ogni altra attivita' utile al raggiungimento delle proprie finalita', con la partecipazione di docenti, studiosi e ricercatori italiani e stranieri.   
-Il seminario puo' ricevere contributi dal Ministero della pubblica istruzione e dagli altri organi dello Stato, dal C.N.R. e da altri enti pubblici e privati da accreditare sul bilancio dell'Universita' di Bari.   
-Il seminario e' diretto da un consiglio formato: dal professore di storia della scienza della facolta' di lettere e filosofia, direttore; da un altro professore designato dal consiglio della facolta' di lettere e filosofia; da due professori designati rispettivamente dai consigli della facolta' di scienze e medicina. Il consiglio direttivo potra' cooptare docenti e studiosi in numero illimitato.   
-Il consiglio direttivo dura in carica tre anni ed elegge nel suo ambito un vice direttore ed un segretario.   
-Il consiglio puo' nominare un presidente onorario del seminario.   
-Il seminario sara' dotato di locali, attrezzature, biblioteche, museo-laboratorio propri e curera' proprie pubblicazioni e stampa.   
+Scuola di specializzazione in biologia clinica  
+  
+Art. 266. - Alla facolta' di medicina e chirurgia dell'Universita' di Bari e' annessa la scuola di specializzazione in biologia clinica che ha sede presso gli istituti di chimica biologica e patologia medica e metodologia clinica.  
+La scuola ha lo scopo di preparare sul piano scientifico e tecnico i medici che intendono dedicarsi particolarmente alle analisi di laboratorio applicate alla clinica e rilascia il diploma di specialista in biologia clinica.  
+Possono essere ammessi i laureati in medicina e chirurgia. Il corso ha la durata di quattro anni e non possono essere concesse abbreviazioni di corso. L'attivita' della scuola e' basata su lezioni teorico-pratiche e su frequenza obbligatoria ai fini di apprendimento nei laboratori e si svolge presso gli istituti di chimica biologica e patologia medica.  
+La frequenza obbligatoria ai fini di apprendimento puo' essere svolta anche presso i servizi di analisi universitari o ospedalieri previa autorizzazione del direttore della scuola. Il numero massimo degli iscritti e' di trenta per anno ed il numero massimo complessivo e' di centoventi. L'ammissione viene regolata mediante concorso per titoli ed esami.  
+La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento, la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
+Gli insegnamenti impartiti dalla scuola sono distribuiti nei quattro anni cosi' come segue:  
+1° Anno:  
+1) chimica biologica generale;  
+2) fondamenti di chimica fisica biologica;  
+3) batteriologia generale;  
+4) biochimica analitica I;  
+5) tecnica dei prelevamenti;  
+6) fisiopatologia I;  
+7) fondamenti di statistica biologica.  
+2° Anno:  
+8) chimica biologica speciale di organi e tessuti;  
+9) fisiopatologia II;  
+10) ematologia ed ematochimica I;  
+11) batteriologia speciale;  
+12) immunologia e sierologia;  
+13) biochimica analitica II.  
+3° Anno:  
+14) nozioni di igiene e legislazione sanitaria;  
+15) ematologia ed ematochimica II;  
+16) chimica clinica;  
+17) immunochimica;  
+18) parassitologia;  
+19) virologia.  
+4° Anno:  
+20) analisi biologico-tossicologiche;  
+21) endocrinologia clinica e dosaggi ormonali;  
+22) micologia;  
+23) enzimologia clinica;  
+24) automazione e controlli di qualita';  
+25) metodiche microanalitiche;  
+26) microscopia clinica e citodiagnostica.  
+Ogni materia di insegnamento e' anche materia di esame, il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo.  
+Alla fine dei quattro anni gli allievi devono presentare una tesi scritta e sostenere un esame di diploma.  
+L'esame di diploma consiste nella discussione di una dissertazione scritta originale e nell'espletamento di prove pratiche e si svolge secondo norme generali del testo unico.  
+I candidati non riconosciuti idonei possono presentarsi dopo un altro anno di frequenza alla scuola. A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista in biologia clinica.  
+I professori incaricati di svolgere i corsi proposti dal direttore della scuola vengono designati dalla facolta' di medicina e chirurgia in conformita' alle norme vigenti.  
+Gli studenti sono tenuti al pagamento di tasse, soprattasse e contributi in conformita' alle vigenti disposizioni in materia nella misura di: tassa annuale di iscrizione L. 30.000, contributo annuo di laboratorio L. 200.000.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1981
+### Dato a Roma, addi' 5 febbraio 1982
 
 PERTINI BODRATO
 
 Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 18 agosto 1982
+Registrato alla Corte dei conti, addi' 30 marzo 1982
 
-Registro n. 102 Istruzione, foglio n. 209
+Registro n. 49 Istruzione, foglio n. 199

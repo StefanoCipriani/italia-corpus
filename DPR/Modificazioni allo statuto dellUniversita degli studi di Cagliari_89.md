@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1535
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 giugno 1975 n. 628
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1535
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 giugno 1975 n. 628
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
@@ -10,19 +10,17 @@ Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), modificato con [regio decreto 5 ottobre 1939, n. 17743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;17743), e successivi;
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella, [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche preposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -32,138 +30,207 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 12. - Agli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di "Diritto tributario".
+Dopo l'art. 189, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in psichiatria.
 
-Art. 50. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di "Antropologia criminale".
+Scuola di specializzazione in psichiatria
 
-Art. 54. - Agli insegnamenti complementari del corso di laurea, in chimica e' aggiunto, sia per l'indirizzo organico-biologico che per l'indirizzo inorganico-chimico-fisico, il seguente: "Radiochimica e Chimica nucleare".
+Art. 190. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in psichiatria con sede presso l'istituto di psichiatria.
 
-Dopo l'art. 129, sono aggiunti i seguenti nuovi articoli, relativi all'istituzione della Scuola di specializzazione in igiene e sanita' pubblica.
+Il numero massimo degli iscritti e' di uno per ogni anno di corso per un totale complessivo di quattro iscritti.
 
-Scuola di specializzazione in igiene e sanita' pubblica
+Art. 191. - La durata del corso di studi per il conseguimento del diploma di specialista in psichiatria e' di 4 anni. L'ammissione alla scuola sara' fatta per titoli ed esame.
 
-Art. 130. - Alla Facolta' di medicina e chirurgia e' annessa una Scuola, di specializzazione in igiene e sanita' pubblica, con sede presso l'Istituto di igiene e batteriologia dell'Universita'.
+Art. 192. - Le materie di insegnamento sono le seguenti:
 
-Art. 131. - La durata del corso e' di tre anni. Il numero massimo degli iscritti e' di dieci per anno di corso.
+1° Anno:
 
-Art. 132. - Le materie d'insegnamento sono le seguenti:
+anatomia e istologia del S.N.;
 
-1° corso:
+fisiologia del S.N.;
 
-Igiene generale;
+biochimica del S.N.;
 
-Demografia e statistica;
+genetica (elementi);
 
-Etimologia delle malattie infettive e immunologia;
+psicologia generale;
 
-Chimica e fisica applicata;
+psicopatologia (I);
 
-Chimica e patologia delle malattie infettive, da eredita' morbosa e da carenza;
+semeiotica psichiatrica.
 
-2° corso:
+2° Anno (internato in neurologia):
 
-Epidemiologia, e profilassi;
+anatomia e istologia patologica del S.N.;
 
-Etimologia delle malattie infettive ed immunologia;
+semeiotica neurologica;
 
-Anatomia patologica delle malattie infettive;
+patologia speciale e diagnostica neurologica;
 
-Igiene alimentare;
+neuro-radiologia;
 
-Zoonosi e profilassi veterinaria delle malattie trasmissibili all'uomo;
+endocrinologia e neurologia vegetativa;
 
-Legislazione, ordinamento sanitario, uffici di igiene;
+elettroencefalografia.
 
-3° corso:
+3° Anno:
 
-Igiene sociale;
+patologia speciale psichiatrica;
 
-Ingegneria sanitaria;
+psicopatologia (II);
 
-Igiene del lavoro scolastico;
+clinica psichiatrica (I);
 
-Malattie infettive della scuola;
+psicologia clinica e psicodiagnostica;
 
-Igiene ospedaliera.
+psicofarmacologia;
 
-Le lezioni teoriche sono integrate da esercitazioni pratiche e da internati obbligatori.
+psichiatria in rapporto con la patologia internistica;
 
-Art. 33. - Gli esami delle materie biennali si terranno alla fine del secondo corso,
+esami di laboratorio.
+
+4° Anno:
+
+clinica psichiatrica (II);
+
+terapia psichiatrica generale;
+
+psicoterapia;
+
+neuropsichiatria infantile;
+
+psichiatria forense e legislazione psichiatrica;
+
+psichiatria sociale (del lavoro, scolastica, igiene e profilassi mentale).
+
+Per conseguire il diploma di specializzazione e' previsto, durante il 1°, il 3° ed il 4° anno di corso, l'internato obbligatorio per l'intero anno scolastico presso l'istituto di psichiatria. Tale internato potra' essere ridotto a non meno di mesi quattro all'anno per i medici che prestino regolare servizio in ospedale psichiatrico.
+
+E' altresi' obbligatorio durante il 2° anno di corso l'internato in neurologia (sede della scuola) per l'intero anno scolastico, salvo che per i medici che prestino regolare servizio presso un ospedale psichiatrico per i quali potra' essere ridotto a non meno di mesi sei, mentre per i medici che prestino regolare servizio in un reparto neurologico l'internato medesimo potra' essere ridotto a non meno di mesi 4.
+
+Un esonero dalla frequenza di anni due puo' essere concesso agli specialisti in neurologia e neuropsichiatria infantile; un esonero dalla frequenza di un anno potra' essere concesso agli specialisti in altre materie affini (psicologia, medicina generale, neurochirurgia).
+
+Gli esoneri di cui sopra sono concessi, su proposta del direttore della scuola, dal consiglio della medesima solo dopo il superamento dell'esame di ammissione.
+
+Gli importi delle tasse e soprattasse per l'iscrizione alla scuola di specializzazione in psichiatria sono i seguenti:
+
+immatricolazione....... L. 20.000
+
+iscrizione.................50.000
+
+esami di profitto......." 10.000
+
+laboratorio.......... 150.000
+
+associazione studenti..." 1.000
+
+riscaldamento......... " 5.000
+
+----------
+
+L. 236.000
+
+La tassa per gli studenti fuori corso e' di L. 106.000.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 30 ottobre 1960
+Dato a Roma, addi' 9 giugno 1975
 
-GRONCHI
+LEONE
 
-BOSCO
+MALFATTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 17 dicembre 1960 Atti del Governo, registro n. 132, foglio n. 98. - VILLA
+alla Corte dei conti, addi' 5 dicembre 1975 Atti di Governo, registro n. 14, foglio n. 117
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), modificato con [regio decreto 5 ottobre 1939, n. 17743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;17743), e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella, [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche preposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 12. - Agli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di "Diritto tributario".  
-Art. 50. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di "Antropologia criminale".  
-Art. 54. - Agli insegnamenti complementari del corso di laurea, in chimica e' aggiunto, sia per l'indirizzo organico-biologico che per l'indirizzo inorganico-chimico-fisico, il seguente: "Radiochimica e Chimica nucleare".  
-Dopo l'art. 129, sono aggiunti i seguenti nuovi articoli, relativi all'istituzione della Scuola di specializzazione in igiene e sanita' pubblica.  
+Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Scuola di specializzazione in igiene e sanita' pubblica  
-Art. 130. - Alla Facolta' di medicina e chirurgia e' annessa una Scuola, di specializzazione in igiene e sanita' pubblica, con sede presso l'Istituto di igiene e batteriologia dell'Universita'.  
-Art. 131. - La durata del corso e' di tre anni. Il numero massimo degli iscritti e' di dieci per anno di corso.  
-Art. 132. - Le materie d'insegnamento sono le seguenti:  
-1° corso:  
-Igiene generale;  
-Demografia e statistica;  
-Etimologia delle malattie infettive e immunologia;  
-Chimica e fisica applicata;  
-Chimica e patologia delle malattie infettive, da eredita' morbosa e da carenza;  
-2° corso:  
-Epidemiologia, e profilassi;  
-Etimologia delle malattie infettive ed immunologia;  
-Anatomia patologica delle malattie infettive;  
-Igiene alimentare;  
-Zoonosi e profilassi veterinaria delle malattie trasmissibili all'uomo;  
-Legislazione, ordinamento sanitario, uffici di igiene;  
-3° corso:  
-Igiene sociale;  
-Ingegneria sanitaria;  
-Igiene del lavoro scolastico;  
-Malattie infettive della scuola;  
-Igiene ospedaliera.  
-Le lezioni teoriche sono integrate da esercitazioni pratiche e da internati obbligatori.  
-Art. 33. - Gli esami delle materie biennali si terranno alla fine del secondo corso,  
+Dopo l'art. 189, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in psichiatria.   
+Scuola di specializzazione in psichiatria   
+Art. 190. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in psichiatria con sede presso l'istituto di psichiatria.   
+Il numero massimo degli iscritti e' di uno per ogni anno di corso per un totale complessivo di quattro iscritti.   
+Art. 191. - La durata del corso di studi per il conseguimento del diploma di specialista in psichiatria e' di 4 anni. L'ammissione alla scuola sara' fatta per titoli ed esame.   
+Art. 192. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+anatomia e istologia del S.N.;   
+fisiologia del S.N.;   
+biochimica del S.N.;   
+genetica (elementi);   
+psicologia generale;   
+psicopatologia (I);   
+semeiotica psichiatrica.   
+2° Anno (internato in neurologia):   
+anatomia e istologia patologica del S.N.;   
+semeiotica neurologica;   
+patologia speciale e diagnostica neurologica;   
+neuro-radiologia;   
+endocrinologia e neurologia vegetativa;   
+elettroencefalografia.   
+3° Anno:   
+patologia speciale psichiatrica;   
+psicopatologia (II);   
+clinica psichiatrica (I);   
+psicologia clinica e psicodiagnostica;   
+psicofarmacologia;   
+psichiatria in rapporto con la patologia internistica;   
+esami di laboratorio.   
+4° Anno:   
+clinica psichiatrica (II);   
+terapia psichiatrica generale;   
+psicoterapia;   
+neuropsichiatria infantile;   
+psichiatria forense e legislazione psichiatrica;   
+psichiatria sociale (del lavoro, scolastica, igiene e profilassi mentale).   
+Per conseguire il diploma di specializzazione e' previsto, durante il 1°, il 3° ed il 4° anno di corso, l'internato obbligatorio per l'intero anno scolastico presso l'istituto di psichiatria. Tale internato potra' essere ridotto a non meno di mesi quattro all'anno per i medici che prestino regolare servizio in ospedale psichiatrico.   
+E' altresi' obbligatorio durante il 2° anno di corso l'internato in neurologia (sede della scuola) per l'intero anno scolastico, salvo che per i medici che prestino regolare servizio presso un ospedale psichiatrico per i quali potra' essere ridotto a non meno di mesi sei, mentre per i medici che prestino regolare servizio in un reparto neurologico l'internato medesimo potra' essere ridotto a non meno di mesi 4.   
+Un esonero dalla frequenza di anni due puo' essere concesso agli specialisti in neurologia e neuropsichiatria infantile; un esonero dalla frequenza di un anno potra' essere concesso agli specialisti in altre materie affini (psicologia, medicina generale, neurochirurgia).   
+Gli esoneri di cui sopra sono concessi, su proposta del direttore della scuola, dal consiglio della medesima solo dopo il superamento dell'esame di ammissione.   
+Gli importi delle tasse e soprattasse per l'iscrizione alla scuola di specializzazione in psichiatria sono i seguenti:   
+  
+  
+  
+immatricolazione....... L. 20.000  
+iscrizione.................50.000  
+esami di profitto......." 10.000  
+laboratorio.......... 150.000  
+associazione studenti..." 1.000  
+riscaldamento......... " 5.000  
+----------  
+L. 236.000  
+  
+  
+  
+  
+La tassa per gli studenti fuori corso e' di L. 106.000.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1960
+### Dato a Roma, addi' 9 giugno 1975
 
-GRONCHI BOSCO
+LEONE MALFATTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 17 dicembre 1960
+Registrato alla Corte dei conti, addi' 5 dicembre 1975
 
-Atti del Governo, registro n. 132, foglio n. 98. - VILLA
+Atti di Governo, registro n. 14, foglio n. 117

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 agosto 1953 n. 997
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 novembre 1951 n. 1699
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 agosto 1953 n. 997
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 novembre 1951 n. 1699
+================================================================
 
 Autorizzazione alla Cassa scolastica dell'Istituto tecnico commerciale e per geometri "P. Savi" di Viterbo ad accettare una donazione.
 --------------------------------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-997. Decreto del Presidente della Repubblica 25 agosto 1953, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica dell'Istituto tecnico commerciale e per geometri "P. Savi" Viterbo viene autorizzata ad accettare la donazione di nominali L. 30.000 in titoli di Stato, disposta al fine di istituire, col relativo reddito, un annuo premio di studio intitolato al nome del professore Tamburello Antonino.  
+1699. Decreto del Presidente della Repubblica 27 novembre 1951, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica dell'Istituto tecnico commerciale e per geometri "P. Savi" di Viterbo, viene autorizzata ad accettare la donazione di nominali L. 30.000 in titoli di Stato, disposta al fine dell'istituzione, col relativo reddito, di un annuo premio di studio intitolato al nome del preside prof. Cardinali Angelo, a favore degli alunni dell'Istituto.  
   
-Visto, il Guardasigilli: AZARA  
-Registrato alla Corte dei conti, addi' 8 gennaio 1954  
-Atti del Governo, registro n. 81, foglio, n. 7. - PALLA
+Visto, il Guardasigilli: ZOLI  
+Registrato alla Corte dei conti, addi' 7 febbraio 1952  
+Atti del Governo, registro n. 50, foglio n. 4. - FRASCA

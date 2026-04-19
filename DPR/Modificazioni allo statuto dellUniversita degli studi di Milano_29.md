@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1970 n. 872
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1972 n. 454
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1970 n. 872
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1972 n. 454
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -12,10 +12,11 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926 numero 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -24,92 +25,61 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 245, relativo alle scuole annesse alla facolta' di medicina veterinaria e' abrogato e sostituito dal seguente:  
-"Alla facolta' di medicina veterinaria sono annessi:  
-1) Il corso di perfezionamento in clinica bovina;  
-2) La scuola di specializzazione in clinica di piccoli animali;  
-3) La scuola di specializzazione in diritto e legislazione veterinaria;  
-4) La scuola di specializzazione in tecnologia e igiene delle carni".  
-Dopo l'art. 264, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi alla istituzione delle scuole di specializzazione in diritto e legislazione veterinaria e in tecnologie e igiene delle carni.  
-Scuola di specializzazione in diritto e legislazione veterinaria  
-Art. 265. - La scuola si prefigge lo scopo di curare una particolare conoscenza delle norme vigenti in materia veterinaria sia per coloro che esercitano la professione veterinaria sia per i funzionari addetti ai servizi veterinari.  
-Art. 266. - Il corso ha la durata di due anni.  
-Art. 267. - La scuola rilascia un diploma di perfezionamento in diritto veterinario.  
-Art. 268. - Alla scuola possono essere ammessi i laureati in medicina veterinaria. Le iscrizioni saranno limitate al numero stabilito in relazione a quanto disposto dall'art. 271.  
-Art. 269. - Le materie di insegnamento sono:  
+Art. 31. - All'elenco degli insegnamenti complementari del corso di laurea in chimica per gli indirizzi "organico-biologico" e "inorganico-chimico-fisico" sono aggiunti i seguenti:  
+  
+Stereochimica;  
+Preparazioni di chimica organica.  
+Art. 34, relativo alle modalita' degli esami di laurea in chimica, e' modificato nel senso che il secondo comma e' abrogato e sostituito dal seguente:  
+"L'esame di laurea potra' comprendere anche la discussione di una tesina scritta riguardante argomenti di interesse chimico.  
+Art. 35. - All'elenco degli insegnamenti complementari del corso di laurea in chimica industriale sono aggiunti i seguenti:  
+  
+Stereochimica;  
+Preparazioni di chimica organica;  
+Strutturistica chimica.  
+Art. 38, relativo alle modalita' degli esami di laurea in chimica industriale, e' modificato nel senso che il comma b) e' soppresso e il comma a) e' integrato con la seguente frase:  
+"Potra' essere discusso anche uno studio e un progetto di impianto riguardante l'industria chimica".  
+Art. 45, relativo alle propedeuticita' degli esami per il corso di laurea in scienze naturali, e' modificato nel senso che il secondo comma e' abrogato e sostituito dal seguente:  
+"L'insegnamento biennale di zoologia comporta due esami: il primo di zoologia I (base), il secondo di zoologia II (complementi di zoologia).  
+L'insegnamento biennale di fisiologia generale comporta due esami: il primo di fisiologia generale I (base), il secondo di fisiologia generale II".  
+Art. 48, relativo alle propedeuticita' degli esami per il corso di laurea in scienze biologiche, e' modificato nel senso che il secondo periodo del primo comma e' abrogato e sostituito dal seguente:  
+"L'insegnamento biennale di zoologia comporta due esami: il primo di zoologia I (base), il secondo di zoologia II (complementi di zoologia).  
+L'insegnamento di fisiologia generale comporta due esami: il primo di fisiologia generale I (base), il secondo di fisiologia generale II".  
+Art. 267, relativo alla scuola in diritto e, legislazione veterinaria, e' modificato nel senso che la parola "perfezionamento" e' sostituita da quella di, "specializzazione".  
+Art. 269, relativo alle materie d'insegnamento della scuola di specializzazione in diritto e legislazione e' abrogato e sostituito dal seguente:  
+"Le materie di insegnamento sono:  
 1° Anno:  
 1) Elementi di diritto costituzionale: la disciplina sanitaria veterinaria;  
 2) Elementi di diritto amministrativo con specifica trattazione del diritto sanitario e veterinario;  
 3) Il potere giudiziale: nozioni generali;  
 4) L'amministrazione statale, parastatale e gli enti autarchici;  
 5) La legislazione veterinaria;  
-6) La legislazione internazionale in campo veterinario;  
-7) L'organizzazione veterinaria e sanitaria in Italia;  
-8) Le norme di polizia veterinaria interne ed internazionali;  
-9) Gli alimenti di origine animale nell'attuale legislazione;  
-10) I mangimi nell'attuale legislazione;  
-11) Medicinali per uso veterinario;  
-12) Organizzazione professionale e previdenziale.  
-Art. 270. - La scuola e' retta da un direttore nominato e confermato ogni biennio dal rettore su proposta del consiglio della facolta' veterinaria.  
-Art. 271. - Il direttore, di concerto con i titolari delle singole materie, stabilisce il programma particolareggiato dei corsi, d'accordo col preside propone gli incarichi d'insegnamento e fissa il calendario delle lezioni.  
-I posti disponibili sono 25, con un minimo non inferiore a 20.  
-Gli aspiranti verranno scelti in base ai titoli, accordando preferenza nell'ordine, alle seguenti categorie di titoli:  
-a) titoli scientifici e pratici in relazione alla materia del corso;  
-b) carriera scolastica;  
-c) conoscenza delle lingue straniere.  
-Art. 272. - Il funzionamento amministrativo della scuola e' determinato in armonia con le vigenti disposizioni delle scuole di perfezionamento da un regolamento interno emanato dal rettore su proposta del direttore della scuola.  
-Art. 273. - La frequenza ai corsi di lezioni e' obbligatoria.  
-Art. 274. - Gli esami di profitto saranno tenuti ogni anno. Saranno ammessi soltanto gli iscritti che dimostrino, mediante certificato degli insegnanti, di aver frequentato assiduamente le lezioni delle materie del cui esame trattasi.  
-Art. 275. - Per il conseguimento del diploma, il candidato dovra' discutere una dissertazione scritta in una delle materie oggetto di insegnamento. La dissertazione dovra' avere carattere di originalita'. Potra' essere segnalata la dignita' di stampa.  
-Art. 276. - La commissione degli esami di profitto e' quella prevista per i vari insegnamenti, secondo le disposizioni delle singole facolta'.  
-La commissione degli esami di diploma, composta da cinque membri, e' presieduta dal preside della facolta' o da un suo delegato e ne fanno parte il direttore della scuola e tre professori ufficiali da lui designati.  
-Scuola di specializzazione in tecnologia e igiene delle carni  
-Art. 277. - La scuola si prefigge lo scopo di curare una particolare conoscenza delle norme vigenti in materia veterinaria sia per coloro che esercitano la professione veterinaria sia per i funzionari addetti ai servizi veterinari.  
-Art. 278. - Il corso ha la durata di due anni.  
-Art. 279. - La scuola rilascia un diploma di perfezionamento in tecnologia e igiene delle carni.  
-Art. 280. - Alla scuola possono essere ammessi i laureati in medicina veterinaria. Le iscrizioni saranno limitate al numero stabilito in relazione a quanto disposto dall'art. 283.  
-Art. 281. - Le materie di insegnamento sono:  
-1° Anno:  
-1) Tecnologia e igiene della produzione delle carni;  
-2) Organizzazione e funzionamento dei macelli e dei mercati del bestiame;  
-3) Tecnologia e igiene della pre-macellazione e della macellazione;  
-4) Controllo sanitario dagli animali da macello e delle carni;  
-5) Caratteristiche organolettiche, fisico-chimiche, biochimiche e microbiologiche delle carni fresche;  
-6) Tecnologia e igiene dei mercati delle carni e procedimenti di preconservazione delle carni;  
-7) Operazioni fondamentali della lavorazione delle carni;  
-8) Igiene nelle industrie per la lavorazione delle carni.  
+6) La legislazione internazionale in campo veterinario.  
 2° Anno:  
-1) Ingredienti, additivi, coadiuvanti tecnologici delle carni e dei prodotti a base di carne;  
-2) Tecnologie speciali della trasformazione delle carni;  
-3) Controllo sanitario delle materie prime dei semi-lavorati e dei prodotti finiti;  
-4) Caratteri merceologici e controllo di qualita' delle carni e dei prodotti a base di carne;  
-5) Organizzazione e funzionamento delle industrie della lavorazione delle carni;  
-6) Organizzazione dei laboratori per i controlli igienici e di qualita' delle carni e dei prodotti carnei;  
-7) Tecnologia e igiene della conservazione e distribuzione delle carni e dei prodotti carnei;  
-8) Legislazione sanitaria delle carni e dei prodotti carnei.  
-Art. 282. - La scuola e' retta da un direttore, nominato e confermato ogni biennio dal rettore su proposta del consiglio della facolta' di veterinaria.  
-Art. 283. - Il direttore, di concerto con i titolari delle singole materie, stabilisce il programma particolareggiato dei corsi, d'accordo col preside propone gli incarichi d'insegnamento e fissa il calendario delle lezioni.  
-I posti disponibili sono 20, con un minimo non inferiore a 15.  
-Gli aspiranti vengono scelti in base ai titoli, accordando preferenza, nell'ordine, alle seguenti categorie di titoli:  
-a) titoli scientifici e pratici nel settore della tecnologia ed igiene delle carni;  
-b) carriera scolastica;  
-c) conoscenza delle lingue straniere.  
-Art. 284. - Il funzionamento amministrativo della scuola e' determinato in armonia con le vigenti disposizioni delle scuole di perfezionamento da un regolamento interno emanato dal rettore su proposta del direttore della scuola.  
-Art. 285. - La frequenza ai corsi di lezioni e' obbligatoria.  
-Art. 286. - Gli esami di profitto saranno tenuti ogni anno. Saranno ammessi soltanto gli iscritti che dimostrino; mediante certificato degli insegnanti, di aver frequentato assiduamente le lezioni della materia del cui esame trattasi.  
-Art. 287. - Per il conseguimento del diploma, il candidato dovra' discutere una dissertazione scritta in una delle materie oggetto di insegnamento. La dissertazione dovra' avere carattere di originalita'. Potra' essere segnalata la dignita' di stampa.  
-Art. 288. - La commissione degli esami di profitto e' quella prevista per i vari insegnamenti, secondo le disposizioni delle singole facolta'. La commissione agli esami di diploma e' composta da 5 membri; e' presieduta dal preside della facolta' o da un suo delegato e ne fanno parte il direttore della scuola e 3 professori ufficiali da lui designati.  
+1) L'organizzazione veterinaria e sanitaria in Italia;  
+2) Le norme di polizia veterinaria interne ed internazionali;  
+3) Gli alimenti di origine animale nell'attuale legislazione;  
+4) I mangimi nell'attuale legislazione;  
+5) Medicinali per uso veterinario;  
+6) Organizzazione professionale e previdenziale.  
+Art. 271, relativo alla suddetta scuola, e' modificato nel senso che il 2° comma e' abrogato e sostituito dal seguente:  
+"I posti disponibili al primo anno sono 25".  
+Art. 272. - E' modificato nel senso che la parola "perfezionamento" muta la denominazione in quella di "specializzazione".  
+Art. 276. - E' modificato nel senso che nel secondo comma le parole "cinque" e "tre" sono abrogate e sostituite rispettivamente da "sette" e "cinque".  
+Art. 279, relativo alla scuola in tecnologia e igiene delle carni, e' modificato nel senso che la parola perfezionamento" e' sostituita da quella di "specializzazione".  
+Art. 283, relativo alla suddetta scuola, e' modificato nel senso che il secondo comma e' abrogato e sostituito dal seguente:  
+"I posti disponibili al 1° anno sono 20".  
+Art. 284. - E' modificato nel senso che la parola "perfezionamento" muta la denominazione in quella di "specializzazione".  
+Art. 288. - E' abrogato e sostituito dal seguente:  
+"La commissione degli esami di diploma, composta da sette membri, e' presieduta dal preside della facolta' o da un suo delegato e ne fanno parte il direttore della scuola e cinque professori ufficiali da lui designati".  
   
 
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 ottobre 1970
+### Dato a Roma, addi' 20 giugno 1972
 
-SARAGAT MISASI
+LEONE MISASI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti addi' 10 agosto 1972
 
-Registrato alla Corte dei conti, addi' 18 novembre 1970
-
-Atti del Governo, registro n. 238, foglio n. 91. - CARUSO
+Atti del Governo, registro n. 250, foglio n. 146. - VALENTINI

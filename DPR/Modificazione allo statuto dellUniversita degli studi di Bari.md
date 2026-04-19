@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1986 n. 215
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 luglio 1984 n. 895
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1986 n. 215
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 luglio 1984 n. 895
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazione allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 193. n. 1592;
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -22,42 +22,38 @@ Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?u
 
 Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Veduto il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio universitario nazionale;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 --------
 
-Lo statuto dell'Universita' di Bari, approvato e modificato con i decreti soprindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
+L'art. 67, relativo al corso di laurea in farmacia, e' soppresso e sostituito dal seguente:  
   
-Nell'art. 54, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:   
-otorinolaringoiatria pediatrica;   
-foniatria;   
-chirurgia del piede;   
-gastroenterologia pediatrica.   
+L'esame di laurea in farmacia si sostiene alla fine del quarto anno di studi. Esso consiste in una discussione scritta approvata dal professore che ne ha assegnato il tema, e di argomenti di cultura generale ad essa attinenti.  
+Tale prova puo' anche essere preceduta da un colloquio di cultura inerente le discipline che caratterizzano piu' profondamente il corso di studi.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 gennaio 1986
+### Dato a Roma, addi' 10 luglio 1984
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 28 aprile 1986
+Registrato alla Corte dei conti, addi' 17 dicembre 1984
 
-Registro n. 33 Istruzione, foglio n. 56
+Registro n. 75 Istruzione, foglio n. 127

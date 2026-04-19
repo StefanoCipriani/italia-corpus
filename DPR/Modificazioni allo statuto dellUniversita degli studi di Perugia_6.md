@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1984 n. 374
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1985 n. 212
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1984 n. 374
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1985 n. 212
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 -------------------------------------------------------------------
@@ -28,7 +28,7 @@ Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte 
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del ministro della pubblica istruzione;
 
 Decreta:
 --------
@@ -39,19 +39,59 @@ Articolo unico
 --------------
 
   
-Art. 56 - sono soppressi tutti gli asterischi apposti sia agli insegnamenti fondamentali sia agli insegnamenti complementari del corso di laurea in odontoiatria e protesi dentaria.  
-L'art. 57 e' soppresso.  
+Nell'art. 32, relativo al corso di laurea in lettere della facolta' di lettere e filosofia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
+storia della civilta' minoico-micenea;  
+storia dell'economia antica;  
+storia del Mediterraneo orientale antico;  
+storia delle religioni del mondo classico;  
+grammatica latina;  
+grammatica greca;  
+storia degli insediamenti tardo-antichi e medievali;  
+agiografia;  
+storia agraria medievale;  
+istituzioni medievali;  
+storia economica contemporanea;  
+storia dell'agricoltura e del movimento contadino;  
+storia del movimento operaio e sindacale;  
+filologia e critica dantesca;  
+didattica dell'italiano;  
+sociologia della letteratura;  
+storia della musica medievale e rinascimentale;  
+storia del melodramma;  
+storia della poesia per musica;  
+storia della musica moderna;  
+legislazione per i beni culturali;  
+archeologia medievale.  
+Nell'art. 33, relativo al corso di laurea in filosofia della facolta' di lettere e filosofia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
+antropologia filosofica;  
+storia della logica;  
+filosofia della politica;  
+storia delle dottrine morali;  
+storia dell'estetica;  
+estetica musicale;  
+psicologia dell'eta' evolutiva;  
+storia della psicologia;  
+didattica della filosofia;  
+storia delle dottrine sociali;  
+psicopedagogia.  
+Nell'art. 35, relativo al corso di laurea in lingue e letterature straniere moderne (indirizzo europeo) della facolta' di lettere e filosofia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
+lingua francese;  
+lingua inglese;  
+lingua tedesca;  
+lingua e letteratura nederlandese.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 marzo 1984
+### Dato a Roma, addi' 10 gennaio 1985
 
-PERTINI FALCUCCI
+PERTINI
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 9 luglio 1984
+Registrato alla Corte dei conti, addi' 20 maggio 1985
 
-Registro n. 44 Istruzione, foglio n. 49
+Registro n. 33 Istruzione, foglio n. 72

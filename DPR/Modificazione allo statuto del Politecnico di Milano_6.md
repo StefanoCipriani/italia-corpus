@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1983 n. 432
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1985 n. 716
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1983 n. 432
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1985 n. 716
+================================================================
 
 Modificazione allo statuto del Politecnico di Milano.
 -----------------------------------------------------
@@ -39,20 +39,24 @@ Articolo unico
 --------------
 
   
-Art. 33 - nell'elenco degli insegnamenti complementari della facolta' di architettura sono inseriti i seguenti insegnamenti:  
-tecnologia della progettazione e della produzione edilizia;  
-tipologia edilizia.  
+  
+Art. 29 - nell'elenco degli insegnamenti complementari della facolta' di ingegneria sono inseriti i seguenti insegnamenti:   
+tecnologia chimica del disinquinamento;   
+tecnologie chimiche industriali;   
+sperimentazione dei materiali e delle strutture.   
   
 
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e de decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 maggio 1983
+### Dato a Roma, addi' 2 settembre 1985
 
-PERTINI FALCUCCI
+COSSIGA
 
-Visto, il Guardasigilli: DARIDA
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 11 agosto 1983
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registro n. 58 Istruzione, foglio n. 143
+Registrato alla Corte dei conti, addi' 26 novembre 1985
+
+Registro n. 81 Istruzione, foglio n. 296

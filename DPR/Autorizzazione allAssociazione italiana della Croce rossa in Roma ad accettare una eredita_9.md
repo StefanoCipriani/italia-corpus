@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 novembre 1984 n. 1085
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1980 n. 667
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 novembre 1984 n. 1085
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1980 n. 667
+=============================================================
 
 Autorizzazione all'Associazione italiana della Croce rossa, in Roma, ad accettare una eredita'.
 -----------------------------------------------------------------------------------------------
@@ -12,15 +12,8 @@ Art. 1
 
 N.
 
-1085. Decreto del Presidente della Repubblica 21 novembre 1984, col quale, sulla proposta del Ministro della sanita',   
-l'Associazione italiana della Croce rossa, in Roma, viene   
-autorizzata ad accettare, con beneficio d'inventario, l'eredita', consistente in un deposito bancario presso la Cassa di risparmio di   
-L'Aquila di circa L. 750.000 e in suppellettili contenute   
-nell'abitazione della de cuius, disposta dalla sig.na Cinzia   
-Micarelli con testamento olografo 8 dicembre 1973, pubblicato in   
-data 17 maggio 1974, n. 111787 di repertorio, a rogito dott.   
-Giovanni Fanti, notaio in L'Aquila, registrato a L'Aquila in data 22 maggio 1974 al n. 1552/c.   
+667. Decreto del Presidente della Repubblica 13 maggio 1980, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare, con beneficio d'inventario, l'eredita', del valore di L. 11.000.000 circa, disposta dal sig. Giuseppe Leonardini con testamento olografo 21 aprile 1961, pubblicato in data 13 dicembre 1969, n. 30442 di repertorio, a rogito dott. Giuseppe Bigliardi, notaio in La Spezia.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 19 febbraio 1985   
-Registro n. 2 Sanita', foglio n. 127
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti, addi' 16 ottobre 1980  
+Registro n. 6 Sanita', foglio n. 57

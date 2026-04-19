@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 luglio 1977 n. 745
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1982 n. 352
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 luglio 1977 n. 745
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 gennaio 1982 n. 352
+==============================================================
 
 Autorizzazione alla Societa' italiana autori ed editori, in Roma, ad acquistare due immobili.
 ---------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-745. Decreto del Presidente della Repubblica 5 luglio 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Societa' italiana autori ed editori (S.I.A.E.), in Roma, viene autorizzata ad acquistare, al prezzo complessivo di L. 28.000.000, due porzioni di un fabbricato condominiale sito in Sassari, via Torres, 25/ b, angolo via IV Novembre, costituite da un locale scantinato sito nel seminterrato ed un appartamento sovrastante allo stesso, come da atto di compravendita 19 settembre 1974.  
+352. Decreto del Presidente della Repubblica 29 gennaio 1982 col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Societa' italiana autori ed editori (S.I.A.E.), in Roma, viene autorizzata ad acquistare, al prezzo di L. 48.000.000 e di L. 35.000.000, due appartamenti siti in Parma, via Monte Altissimo n. 4, distinti rispettivamente nel catasto urbano alla partita 10492, foglio 3, mappale 192 sub 5, ed alla partita 10493, foglio 3, mappale 192 sub 6, di proprieta' il primo di Camillo Corradi Cervi e il secondo di Rosa Corradi Cervi, come da atti di compravendita rispettivamente del 20 settembre 1979, n. 13953/10447 di repertorio, a rogito dott. Luigi Caramatti, notaio in Parma, registrato a Parma in data 24 settembre 1979 al n. 6577 e del 20 settembre 1979, n. 13952/10446 di repertorio, a rogito stesso notaio, registrato a Parma in data 24 settembre 1979 al n. 6576.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 10 ottobre 1977  
-Registro n. 8 Presidenza, foglio n. 63
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 5 giugno 1982  
+Registro n. 5 Presidenze, foglio n. 3

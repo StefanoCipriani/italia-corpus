@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 855
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1963 n. 1008
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 855
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1963 n. 1008
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
@@ -10,15 +10,15 @@ Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743) e successivi;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle Autorita' Accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -30,95 +30,73 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Gli articoli 178, 179, 180, 181, 182, relativi alla scuola di specializzazione in gerontologia e geriatria, sono abrogati e sostituiti dai seguenti:
+Dopo l'art. 140 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in Cardiologia.
 
-Scuola di specializzazione in gerontologia e geriatria
+Art. 141. - Alla Facolta' di Medicina e Chirurgia e' annessa una scuola di specializzazione in Cardiologia, con sede presso il Centro cardiologico esistente nella clinica medica dell'Universita'.
 
-Art. 178. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in gerontologia e geriatria con sede presso l'istituto di clinica medica generale, il cui direttore e' anche direttore della scuola.
+Art. 142. - La durata dei corsi e' di tre anni.
 
-Il corso ha la durata di tre anni. In nessun caso sono ammesse abbreviazioni di corso.
+Il numero massimo degli iscritti e' di venti complessivamente nei tre anni.
 
-Art. 179. - Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia in numero di 7 (sette) per l'intero corso. Nel caso che le domande di iscrizione al 1° anno superino il numero compatibile con la disposizione di cui sopra, l'ammissione sara' subordinata all'esito di un concorso per esami. Gli esami, che consisteranno in una prova scritta ed in una orale, si svolgeranno entro il mese di dicembre.
+Art. 143. - Le materie di insegnamento e la loro ripartizione nei singoli anni sono le seguenti:
 
-Art. 180. - Gli iscritti hanno l'obbligo di partecipare a tutte le attivita' didattiche (conferenze, lezioni, esercitazioni, seminari, ecc.) contemplate nel programma dei corsi, nonche' di prestare servizio presso i reparti di degenza, gli ambulatori ed i laboratori dell'istituto sede della scuola. L'ottemperanza agli obblighi suddetti e' indispensabile per ottenere la firma di frequenza a sua volta necessaria per l'ammissione agli esami di profitto.
+Anno 1°:
 
-Questi hanno luogo alla fine di ogni anno di corso: il loro superamento e' condizione necessaria per l'iscrizione all'anno di corso successivo.
+1) Anatomia dell'apparato cardio-vascolare (annuale);
 
-Art. 181. - All'esame di diploma verranno ammessi coloro che avranno superato gli esami di profitto, concernenti le dodici materie di insegnamento obbligatorio.
+2) Fisiologia dell'apparato cardio-vascolare (annuale);
 
-Esso consistera' nella presentazione e discussione di una dissertazione scritta su argomento di gerontologia e geriatria concordato con il direttore della scuola all'inizio del 2° anno e depositato presso la direzione almeno quindici giorni prima dell'esame.
+3) Semeiotica dell'apparato cardio-vascolare (biennale);
 
-Art. 182. - Gli iscritti non riconosciuti idonei agli esami di un determinato corso o all'esame di diploma potranno ripresentarsi alle prove dopo un altro anno di frequenza (fuori corso).
+4) Patologia dell'apparato cardio-vascolare (biennale);
 
-L'ultimo comma dell'art. 183 e' soppresso.
+5) Anatomia patologica dell'apparato cardio-vascolare (annuale).
 
-Gli articoli 184, 185, 186, 187, 188, relativi alla scuola di specializzazione in medicina interna, sono abrogati e sostituiti dai seguenti:
+Anno 2°:
 
-Scuola di specializzazione in medicina interna
+1) Semeiotica dell'apparato cardio-vascolare (biennale);
 
-Art. 184. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in medicina interna con sede presso l'istituto di clinica medica generale il cui direttore e' anche direttore della scuola.
+2) Patologia dell'apparato cardio-vascolare (biennale);
 
-Il corso ha la durata di cinque anni. In nessun caso sono ammesse abbreviazioni di corso.
+3) Radiologia dell'apparato cardio-vascolare (annuale);
 
-Art. 185. - Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia in numero di 22 (ventidue) per l'intero corso. Nel caso che le domande di iscrizione al 1° anno superino il numero compatibile con la disposizione di cui sopra, l'ammissione sara' subordinata all'esito di un concorso per esami.
+4) Clinica dell'apparato cardio-vascolare (biennale).
 
-Gli esami che consisteranno in una prova scritta ed in una orale, si svolgeranno entro il mese di dicembre.
+Anno 3°:
 
-Art. 186. - Gli iscritti hanno l'obbligo di partecipare a tutte le attivita' didattiche (conferenze, lezioni, esercitazioni, seminari, ecc., contemplate nel programma dei corsi, nonche' di prestare servizio presso i reparti di degenza, gli ambulatori ed i laboratori dell'istituto sede della scuola. L'ottemperanza agli obblighi suddetti e' indispensabile per ottenere la firma di frequenza a sua volta necessaria per l'ammissione agli esami di profitto.
+1) Clinica dell'apparato cardio-vascolare (biennale);
 
-Questi hanno luogo alla fine di ogni anno di corso: il loro superamento e' condizione necessaria per l'iscrizione all'anno di corso successivo.
+2) Farmacologia e terapia medica dell'apparato cardio-vascolare (annuale);
 
-Art. 187. - All'esame di diploma verranno ammessi coloro che avranno superato gli esami di profitto concernenti le tredici materie di insegnamento obbligatorie ed almeno una scelta fra le facoltative.
+3) Terapia chirurgica dell'apparato cardio-vascolare (annuale).
 
-Esso consistera' nella presentazione e discussione di una dissertazione scritta su argomento di medicina interna concordato con il direttore della scuola all'inizio del 2° anno e depositato presso la direzione almeno quindici giorni prima dell'esame.
-
-Art. 188. - Gli iscritti non riconosciuti idonei agli esami di un determinato corso o all'esame di diploma potranno ripresentarsi alle prove dopo un altro anno di frequenza (fuori corso).
-
-L'ultimo comma dell'art. 189 e' soppresso.
-
-Gli articoli 190, 191, 192, 194, relativi alla scuola di specializzazione in nefrologia medica, sono abrogati e sostituiti dai seguenti:
-
-Scuola di specializzazione in nefrologia medica
-
-Art. 190. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in nefrologia medica con sede presso l'istituto di clinica medica generale, il cui direttore e' anche direttore della scuola.
-
-Il corso ha la durata di tre anni. In nessun caso sono ammesse abbreviazioni di corso.
-
-Art. 191. - Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia in numero di 5 (cinque) per l'intero corso. Nel caso che le domande di iscrizione al 1° anno superino il numero compatibile con la disposizione di cui sopra, l'ammissione sara' subordinata all'esito di un concorso per esami. Gli esami, che consisteranno in una prova scritta ed in una orale, si svolgeranno entro il mese di dicembre.
-
-Art. 192. - Gli iscritti hanno l'obbligo di partecipare a tutte le attivita' didattiche (conferenze, lezioni, esercitazioni, seminari, ecc.) contemplate nel programma dei corsi, nonche' di prestare servizio presso i reparti di degenza, gli ambulatori ed i laboratori dell'istituto sede della scuola. L'ottemperanza agli obblighi suddetti e' indispensabile per ottenere la firma di frequenza a sua volta necessaria per l'ammissione agli esami di profitto.
-
-Questi hanno luogo alla fine di ogni anno di corso: il loro superamento e' condizione necessaria per l'iscrizione all'anno di corso successivo.
-
-Art. 194. - All'esame di diploma verranno ammessi coloro che avranno superato gli esami di profitto, concernenti le sedici materie di insegnamento obbligatorio. Esso consistera' nella presentazione e discussione di una dissertazione scritta su argomento nefrologico concordato con il direttore della scuola all'inizio del 2° anno e depositato presso la direzione almeno quindici giorni prima dell'esame.
-
-Gli iscritti non riconosciuti idonei agli esami di un determinato corso o all'esame di diploma potranno ripresentarsi alle prove dopo un altro anno di frequenza (fuori corso).
+Gli esami dovranno essere sostenuti al termine di ogni insegnamento.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 31 ottobre 1974
+Dato a Roma, addi' 30 giugno 1963
 
-LEONE
+SEGNI
 
-MALFATTI
+GUI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BOSCO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 17 febbraio 1975 Atti di Governo, registro n. 8, foglio n. 133
+alla Corte dei conti, addi' 2 agosto 1963 Atti del Governo, registro n. 172, foglio n. 79. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle Autorita' Accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -126,55 +104,39 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli 178, 179, 180, 181, 182, relativi alla scuola di specializzazione in gerontologia e geriatria, sono abrogati e sostituiti dai seguenti:  
   
-Scuola di specializzazione in gerontologia e geriatria  
-  
-Art. 178. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in gerontologia e geriatria con sede presso l'istituto di clinica medica generale, il cui direttore e' anche direttore della scuola.  
-Il corso ha la durata di tre anni. In nessun caso sono ammesse abbreviazioni di corso.  
-Art. 179. - Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia in numero di 7 (sette) per l'intero corso. Nel caso che le domande di iscrizione al 1° anno superino il numero compatibile con la disposizione di cui sopra, l'ammissione sara' subordinata all'esito di un concorso per esami. Gli esami, che consisteranno in una prova scritta ed in una orale, si svolgeranno entro il mese di dicembre.  
-Art. 180. - Gli iscritti hanno l'obbligo di partecipare a tutte le attivita' didattiche (conferenze, lezioni, esercitazioni, seminari, ecc.) contemplate nel programma dei corsi, nonche' di prestare servizio presso i reparti di degenza, gli ambulatori ed i laboratori dell'istituto sede della scuola. L'ottemperanza agli obblighi suddetti e' indispensabile per ottenere la firma di frequenza a sua volta necessaria per l'ammissione agli esami di profitto.  
-Questi hanno luogo alla fine di ogni anno di corso: il loro superamento e' condizione necessaria per l'iscrizione all'anno di corso successivo.  
-Art. 181. - All'esame di diploma verranno ammessi coloro che avranno superato gli esami di profitto, concernenti le dodici materie di insegnamento obbligatorio.  
-Esso consistera' nella presentazione e discussione di una dissertazione scritta su argomento di gerontologia e geriatria concordato con il direttore della scuola all'inizio del 2° anno e depositato presso la direzione almeno quindici giorni prima dell'esame.  
-Art. 182. - Gli iscritti non riconosciuti idonei agli esami di un determinato corso o all'esame di diploma potranno ripresentarsi alle prove dopo un altro anno di frequenza (fuori corso).  
-L'ultimo comma dell'art. 183 e' soppresso.  
-Gli articoli 184, 185, 186, 187, 188, relativi alla scuola di specializzazione in medicina interna, sono abrogati e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in medicina interna  
-  
-Art. 184. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in medicina interna con sede presso l'istituto di clinica medica generale il cui direttore e' anche direttore della scuola.  
-Il corso ha la durata di cinque anni. In nessun caso sono ammesse abbreviazioni di corso.  
-Art. 185. - Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia in numero di 22 (ventidue) per l'intero corso. Nel caso che le domande di iscrizione al 1° anno superino il numero compatibile con la disposizione di cui sopra, l'ammissione sara' subordinata all'esito di un concorso per esami.  
-Gli esami che consisteranno in una prova scritta ed in una orale, si svolgeranno entro il mese di dicembre.  
-Art. 186. - Gli iscritti hanno l'obbligo di partecipare a tutte le attivita' didattiche (conferenze, lezioni, esercitazioni, seminari, ecc., contemplate nel programma dei corsi, nonche' di prestare servizio presso i reparti di degenza, gli ambulatori ed i laboratori dell'istituto sede della scuola. L'ottemperanza agli obblighi suddetti e' indispensabile per ottenere la firma di frequenza a sua volta necessaria per l'ammissione agli esami di profitto.  
-Questi hanno luogo alla fine di ogni anno di corso: il loro superamento e' condizione necessaria per l'iscrizione all'anno di corso successivo.  
-Art. 187. - All'esame di diploma verranno ammessi coloro che avranno superato gli esami di profitto concernenti le tredici materie di insegnamento obbligatorie ed almeno una scelta fra le facoltative.  
-Esso consistera' nella presentazione e discussione di una dissertazione scritta su argomento di medicina interna concordato con il direttore della scuola all'inizio del 2° anno e depositato presso la direzione almeno quindici giorni prima dell'esame.  
-Art. 188. - Gli iscritti non riconosciuti idonei agli esami di un determinato corso o all'esame di diploma potranno ripresentarsi alle prove dopo un altro anno di frequenza (fuori corso).  
-L'ultimo comma dell'art. 189 e' soppresso.  
-Gli articoli 190, 191, 192, 194, relativi alla scuola di specializzazione in nefrologia medica, sono abrogati e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in nefrologia medica  
-  
-Art. 190. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in nefrologia medica con sede presso l'istituto di clinica medica generale, il cui direttore e' anche direttore della scuola.  
-Il corso ha la durata di tre anni. In nessun caso sono ammesse abbreviazioni di corso.  
-Art. 191. - Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia in numero di 5 (cinque) per l'intero corso. Nel caso che le domande di iscrizione al 1° anno superino il numero compatibile con la disposizione di cui sopra, l'ammissione sara' subordinata all'esito di un concorso per esami. Gli esami, che consisteranno in una prova scritta ed in una orale, si svolgeranno entro il mese di dicembre.  
-Art. 192. - Gli iscritti hanno l'obbligo di partecipare a tutte le attivita' didattiche (conferenze, lezioni, esercitazioni, seminari, ecc.) contemplate nel programma dei corsi, nonche' di prestare servizio presso i reparti di degenza, gli ambulatori ed i laboratori dell'istituto sede della scuola. L'ottemperanza agli obblighi suddetti e' indispensabile per ottenere la firma di frequenza a sua volta necessaria per l'ammissione agli esami di profitto.  
-Questi hanno luogo alla fine di ogni anno di corso: il loro superamento e' condizione necessaria per l'iscrizione all'anno di corso successivo.  
-Art. 194. - All'esame di diploma verranno ammessi coloro che avranno superato gli esami di profitto, concernenti le sedici materie di insegnamento obbligatorio. Esso consistera' nella presentazione e discussione di una dissertazione scritta su argomento nefrologico concordato con il direttore della scuola all'inizio del 2° anno e depositato presso la direzione almeno quindici giorni prima dell'esame.  
-Gli iscritti non riconosciuti idonei agli esami di un determinato corso o all'esame di diploma potranno ripresentarsi alle prove dopo un altro anno di frequenza (fuori corso).  
+Dopo l'art. 140 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in Cardiologia.  
+Art. 141. - Alla Facolta' di Medicina e Chirurgia e' annessa una scuola di specializzazione in Cardiologia, con sede presso il Centro cardiologico esistente nella clinica medica dell'Universita'.  
+Art. 142. - La durata dei corsi e' di tre anni.  
+Il numero massimo degli iscritti e' di venti complessivamente nei tre anni.  
+Art. 143. - Le materie di insegnamento e la loro ripartizione nei singoli anni sono le seguenti:  
+Anno 1°:  
+1) Anatomia dell'apparato cardio-vascolare (annuale);  
+2) Fisiologia dell'apparato cardio-vascolare (annuale);  
+3) Semeiotica dell'apparato cardio-vascolare (biennale);  
+4) Patologia dell'apparato cardio-vascolare (biennale);  
+5) Anatomia patologica dell'apparato cardio-vascolare (annuale).  
+Anno 2°:  
+1) Semeiotica dell'apparato cardio-vascolare (biennale);  
+2) Patologia dell'apparato cardio-vascolare (biennale);  
+3) Radiologia dell'apparato cardio-vascolare (annuale);  
+4) Clinica dell'apparato cardio-vascolare (biennale).  
+Anno 3°:  
+1) Clinica dell'apparato cardio-vascolare (biennale);  
+2) Farmacologia e terapia medica dell'apparato cardio-vascolare (annuale);  
+3) Terapia chirurgica dell'apparato cardio-vascolare (annuale).  
+Gli esami dovranno essere sostenuti al termine di ogni insegnamento.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1974
+### Dato a Roma, addi' 30 giugno 1963
 
-LEONE MALFATTI
+SEGNI GUI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 17 febbraio 1975
+Registrato alla Corte dei conti, addi' 2 agosto 1963
 
-Atti di Governo, registro n. 8, foglio n. 133
+Atti del Governo, registro n. 172, foglio n. 79. - VILLA

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1267
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1971 n. 676
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1267
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1971 n. 676
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
@@ -10,109 +10,161 @@ Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli 25, 27, 30, 31, 33, 36 e 40, relativi al corso di laurea in scienze politiche, sono modificati nel modo seguente:  
-Art. 25 - e' integrato con il seguente ultimo comma:  
-"Il consiglio di facolta' puo' derogare alla norma di cui al comma precedente nel caso di studenti provenienti da altre facolta' o gia' laureati".  
-Art. 27 - e' abrogato e sostituito dal seguente:  
-"Lo studente e' tenuto a seguire i corsi con durata biennale ed a superare i relativi esami in due lingue straniere moderne. Una di queste deve essere l'inglese o il francese; l'altra e' a scelta dello studente, con preferenza per quelle insegnate nella facolta'. La frequenza del corso di lingua inglese o di lingua francese deve aver luogo nel biennio propedeutico".  
-Art. 30 - e' abrogato e sostituito dal seguente:  
-"Lo studente deve seguire i corsi e superare gli esami di almeno dieci materie indicate nell'elenco predisposto dalla facolta' per ciascun indirizzo. Di questi corsi non piu' di sette e non meno di quattro sono stabiliti nel piano ufficiale della facolta' come obbligatori; gli altri sono a scelta dello studente nell'ambito dei restanti insegnamenti del suddetto elenco".  
-Art. 31 - e' abrogato e sostituito dal seguente:  
-"Il consiglio di facolta' prima dell'inizio di ciascun anno accademico predispone il piano di studi ufficiale che fissa gli insegnamenti, distribuiti per l'anno di corso.  
-Comunque, a norma delle vigenti leggi gli studenti possono presentare motivati piani di studio individuali, divisi per anno di corso e contenenti un numero di insegnamenti pari a quello indicato nel piano ufficiale.  
-Tali piani, ove approvati dal consiglio di facolta', sostituiscono a tutti gli effetti il piano ufficiale".  
-Art. 33 - all'elenco degli insegnamenti complementari del corso di laurea in scienze politiche sono aggiunti i seguenti:  
-analisi del linguaggio politico;  
-demografia storica;  
-diritto commerciale internazionale;  
-diritto degli enti locali;  
-economia internazionale;  
-governo locale;  
-matematiche per le scienze sociali;  
-politica economica regionale;  
-politica economica internazionale;  
-sistemi economici comparati;  
-storia dell'America latina;  
-storia delle istituzioni sociali e politiche;  
-storia dei movimenti sindacali;  
-storia del movimento operaio;  
-storia delle dottrine sociali;  
-storia moderna e contemporanea dell'Asia;  
-storia moderna contemporanea del sub-continente indiano;  
-geografia sociale;  
-sociologia della conoscenza;  
-sociologia dell'educazione;  
-sociologia delle comunicazioni di massa.  
-Lo stesso elenco e' modificato nel senso che l'insegnamento complementare di "Storia moderna e contemporanea dell'Asia centrale" muta la denominazione in quella di "Storia moderna e contemporanea dell'Iran e dell'Asia centrale".  
-Art. 36 - e' abrogato e sostituito dal seguente:  
-"Superato l'esame di laurea lo studente consegue il titolo di dottore in scienze politiche con l'indicazione dell'indirizzo prescelto".  
-Art. 40 - e' abrogato e sostituito dal seguente:  
-"L'esame di laurea consiste in una dissertazione scritta su un tema scelto dal candidato nell'ambito delle materie dell'indirizzo seguito e di quelle del biennio propedeutico direttamente connesse e nella discussione della stessa. La relativa comunicazione alla segreteria della facolta' deve aver luogo almeno sei mesi prima della sessione di esame".  
-Dopo l'art. 62, e con lo spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo relativo agli istituti annessi alla facolta' di medicina e chirurgia:  
-Art. 63. - Alla facolta' di medicina e chirurgia sono annessi i seguenti istituti:  
-anatomia ed istologia patologica;  
-anatomia umana normale;  
-antropologia criminale;  
-biologia generale e genetica medica;  
-chimica biologica;  
-chirurgia vascolare;  
-clinica chirurgica generale e terapia chirurgica;  
-clinica delle malattie infettive;  
-clinica delle malattie nervose e mentali;  
-clinica dermosifilopatica;  
-clinica medica generale e terapia medica I;  
-clinica medica generale e terapia medica II;  
-clinica neurochirurgica;  
-clinica oculistica;  
-clinica odontoiatrica;  
-clinica ortopedica;  
-clinica ostetrica e ginecologica;  
-clinica otorinolaringoiatrica;  
-clinica pediatrica;  
-clinica psichiatrica;  
-clinica tisiologica e delle malattie dell'apparato respiratorio;  
-farmacologia I;  
-farmacologia II;  
-fisiologia umana;  
-gerontologia e geriatria;  
-idrologia medica;  
-igiene;  
-istologia ed embriologia generale;  
-medicina del lavoro;  
-medicina legale delle assicurazioni;  
-medicina preventiva dei lavoratori e psicotecnica;  
-microbiologia;  
-patologia generale;  
-patologia speciale chirurgica e propedeutica clinica;  
-patologia speciale medica e metodologia clinica I;  
-radiologia e terapia fisica;  
-semeiotica chirurgica.  
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato nel senso che gli articoli 88, 89, 90, 91 e 92, relativi alla scuola di specializzazione in chirurgia sono abrogati e sostituiti dai seguenti:   
+  
+Scuola di specializzazione in chirurgia   
+  
+Art. 88. - La scuola di specializzazione in chirurgia conferisce il diploma di specializzazione in chirurgia. Gli anni necessari per il conseguimento del diploma sono cinque.   
+Art. 89. - Le materie del corso sono le seguenti:   
+1) Anatomia chirurgica e corso d'operazioni (triennale);   
+2) Anatomia ed istologia patologica (biennale);   
+3) Anestesia e rianimazione;   
+4) Chirurgia cardiovascolare;   
+5) Chirurgia d'urgenza;   
+6) Chirurgia ginecologica;   
+7) Chirurgia pediatrica;   
+8) Chirurgia riparativa e plastica;   
+9) Chirurgia sperimentale;   
+10) Chirurgia toracica;   
+11) Chirurgia urologica;   
+12) Clinica chirurgica generale (quinquennale);   
+13) Fisiopatologia chirurgica;   
+14) Medicina legale;   
+15) Neurochirurgia;   
+16) Patologia speciale chirurgica (triennale);   
+17) Radiologia;   
+18) Ricerche di laboratorio;   
+19) Semeiotica chirurgica;   
+20) Semeiotica strumentale ed endoscopica;   
+21) Trattamento pre e post-operatorio;   
+22) Traumatologia ed ortopedia.   
+Le materie sopraelencate sono cosi' distribuite:   
+1° Anno:   
+1) Clinica chirurgica generale;   
+2) Patologia speciale chirurgica;   
+3) Semeiotica chirurgica;   
+4) Anatomia chirurgica e corso d'operazioni;   
+5) Chirurgia sperimentale;   
+6) Anestesia e rianimazione;   
+7) Ricerche di laboratorio.   
+2° Anno:   
+1) Clinica chirurgica generale;   
+2) Patologia speciale chirurgica;   
+3) Semeiotica chirurgica;   
+4) Anatomia chirurgica e corso d'operazioni;   
+5) Fisiopatologia chirurgica;   
+6) Trattamento pre e post-operatorio;   
+7) Anatomia ed istologia patologica.   
+3° Anno:   
+1) Clinica chirurgica generale;   
+2) Patologia speciale chirurgica;   
+3) Semeiotica strumentale ed endoscopica;   
+4) Anatomia chirurgica e corso di operazioni;   
+5) Radiologia;   
+6) Anatomia ed istologia patologica.   
+4° Anno:   
+1) Clinica chirurgica generale;   
+2) Chirurgia ginecologica;   
+3) Chirurgia urologica;   
+4) Neurochirurgia;   
+5) Traumatologia e ortopedia;   
+6) Chirurgia pediatrica.   
+5° Anno:   
+1) Clinica chirurgica generale;   
+2) Chirurgia toracica;   
+3) Chirurgia cardiovascolare;   
+4) Chirurgia riparativa e plastica;   
+5) Chirurgia d'urgenza;   
+6) Medicina legale.   
+Art. 90. - I corsi dovranno essere corredati da esercitazioni pratiche obbligatorie. Alla scuola sono ammessi i laureati in medicina e chirurgia per un numero complessivo di settantacinque iscritti. La selezione dei candidati aspiranti all'ammissione alla scuola avverra' sulla base di titoli ed esami. Non sono consentite iscrizioni con abbreviazioni di corso. La frequenza alle lezioni ed alle esercitazioni e' obbligatoria per tutti gli iscritti.  
+L'internato e' obbligatorio durante tutti i cinque anni di corso e si svolgera' presso la clinica chirurgica sotto forma di permanenza costante nella detta clinica durante le ore della sua attivita', con presenza giornaliera agli ambulatori ed ai reparti di degenza.  
+Dall'obbligo di tale internato saranno esentati quegli allievi che, in qualita' di assistenti e di aiuti, prestino effettivamente servizio presso reparti di chirurgia generale delle universita' e di ospedali di 1ª e 2ª categoria. Gli allievi hanno doveri ed attribuzioni analoghe a quelli degli assistenti.   
+La frequenza nelle sale operatorie che e' obbligatoria iniziera' fin dal primo anno di corso, e dopo un periodo di tirocinio, dovra' trasformarsi in compartecipazione attiva degli interventi operatori.  
+Per i corsi che non siano della clinica chirurgica generale, possono essere stabiliti, su parere del direttore della scuola, periodi di continuativa frequenza presso i relativi reparti specialistici, qualora esistano quali reparti indipendenti.   
+Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico dell'operosita' scolastica degli allievi, con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno.   
+Art. 91. - L'allievo che non abbia ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali che sono i seguenti:   
+1° Anno:   
+Anestesia e rianimazione;   
+Ricerche di laboratorio;   
+Chirurgia sperimentale.   
+2° Anno:   
+Fisiopatologia chirurgica;   
+Trattamento pre e post-operatorio;   
+Semeiotica chirurgica.   
+3° Anno:   
+Patologia speciale chirurgica;   
+Semeiotica strumentale ed endoscopica;   
+Anatomia chirurgica e corso di operazioni;   
+Radiologia;   
+Anatomia ed istologia patologica.   
+4° Anno:   
+Chirurgia ginecologica;   
+Chirurgia urologica;   
+Traumatologia e ortopedia;   
+Chirurgia pediatrica.   
+5° Anno:   
+Clinica chirurgica generale;   
+Chirurgia toracica;   
+Chirurgia cardiovascolare;   
+Chirurgia d'urgenza;   
+Chirurgia plastica e riparativa;   
+Medicina legale.   
+Art. 92. - Alla fine del corso l'allievo, dovra' sostenere un esame generale di profitto e l'esame di diploma. Questo consistera' nella stesura di una tesi scritta svolta su argomento concordato col direttore della scuola che verra' discussa e in una prova pratica su un caso clinico.   
+Dopo l'art. 216 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in microbiologia.   
+  
+Scuola di specializzazione in microbiologia   
+  
+Art. 217. - La scuola di specializzazione in microbiologia ha lo scopo di allargare e completare sul piano scientifico la cultura di coloro che si dedicano a questa disciplina e di fornire sul piano tecnico una preparazione pratica specifica.   
+Possono esservi ammessi i laureati in medicina e chirurgia, in medicina veterinaria, in scienze biologiche.   
+Il corso ha la durata di tre anni e si svolge presso l'istituto di microbiologia della facolta' di medicina e chirurgia.   
+Gli iscritti a ciascun anno non potranno superare il numero di 10.  
+Nel caso che le domande fossero in numero maggiore, verra' effettuata una selezione mediante una graduatoria formulata sulla base della valutazione dei titoli e del risultato di prove d'esame. Potranno essere ammesse abbreviazioni del corso di un anno per coloro che fossero in possesso del diploma di specialista in igiene o di medico laboratorista.   
+La direzione della scuola e' affidata al titolare della cattedra di microbiologia.   
+Art. 218. - Le materie d'insegnamento sono le seguenti:   
+1° Anno:   
+Chimica microbiologica;   
+Batteriologia generale e tecnica batteriologica;   
+Analisi statistica del dosaggio biologico;   
+Genetica dei microorganismi;   
+Metodi e dosaggi microbiologici.   
+2° Anno:   
+Immunologia;   
+Batteriologia speciale;   
+Protozoologia;   
+Virologia generale e tecnica virologica.   
+3° Anno:   
+Virologia speciale;   
+Microbiologia degli alimenti;   
+Microbiologia industriale;   
+Micologia.   
+Art. 219. - Gli iscritti hanno l'obbligo della frequenza alle lezioni ed alle esercitazioni degli insegnamenti ufficiali della scuola. Il direttore puo' stabilire che, per un piu' proficuo conseguimento dei fini della scuola siano tenuti corsi di conferenze su materie ed argomenti che abbiano attinenza o affinita' con gli insegnamenti impartiti nella scuola.   
+Gli iscritti devono superare tutti gli esami delle materie del primo anno per essere ammessi al secondo e tutti quelli delle materie del secondo per essere ammessi al terzo.   
+L'esame di diploma consistera' nella stesura e discussione di una tesi scritta su tema concordato col direttore della scuola e di una prova pratica.   
+I candidati non riconosciuti idonei potranno ripresentarsi dopo un altro anno di frequenza della scuola. Se anche al secondo esame non fosse loro riconosciuti l'idoneita', saranno senz'altro esclusi da ulteriori prove.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1977
+### Dato a Roma, addi' 19 maggio 1971
 
-LEONE MALFATTI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 9 ottobre 1978
+Registrato alla Corte dei conti, addi' 21 agosto 1971
 
-Registro n. 109 Istruzione, foglio n. 190
+Atti del Governo, registro n. 243, foglio n. 165. - PASQUALUCCI

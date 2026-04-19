@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1984 n. 1184
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 gennaio 1985 n. 177
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1984 n. 1184
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 gennaio 1985 n. 177
+==============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare un legato.
 -------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1184. Decreto del Presidente della Repubblica 5 dicembre 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 5.000.000, disposta dalla sig.ra Caccia Emma ved. Maggioni con testamento olografo 7 luglio 1970, pubblicato in data 1 febbraio 1977, n. 14694 di repertorio, a rogito dott. Giovanni Ripamonti, notaio in Lodi (Milano), registrato a Lodi in data 4 febbraio 1977 al n. 609.   
+177. Decreto del Presidente della Repubblica 24 gennaio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il lascito di L. 5.000.000 disposto dalla sig.ra Mrakitsch Maria con testamento pubblico 16 febbraio 1982, pubblicato in data 25 febbraio 1983, n. 56473/610 di repertorio, a rogito dott. Ianni Tracanella Edda, notaio in Trieste, registrato a Trieste in data 19 settembre 1983 al n. 875.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 22 aprile 1985   
-Registro n. 3 Presidenza, foglio n. 278
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 2 maggio 1985  
+Registro n. 4 Presidenza, foglio n. 83

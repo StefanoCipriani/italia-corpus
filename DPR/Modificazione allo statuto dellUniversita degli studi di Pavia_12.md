@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1984 n. 1114
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1985 n. 722
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1984 n. 1114
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1985 n. 722
 ================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Pavia.
@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -39,20 +39,23 @@ Articolo unico
 --------------
 
   
-Art. 52 - all'elenco degli insegnamenti complementari del corso di laurea in lettere e' aggiunto l'insegnamento di "ebraico e lingue semitiche comparate e filologia semitica".  
+  
+Art. 59 - nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono inseriti i seguenti insegnamenti:   
+istituzioni di anatomia ed istologia patologica;   
+idrologia chimica.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 dicembre 1984
+### Dato a Roma, addi' 2 settembre 1985
 
-PERTINI
+COSSIGA
 
 FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 5 marzo 1985
+Registrato alla Corte dei conti, addi' 26 novembre 1985
 
-Registro n. 13 Istruzione, foglio n. 367
+Registro n. 81 Istruzione, foglio n. 297

@@ -1,71 +1,133 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 940
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 420
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 940
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 420
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:  
+Art. 106 - all'elenco degli insegnamenti complementari del corso di laurea in matematica sono aggiunti i seguenti insegnamenti:   
+equazioni differenziali;   
+geometria analitica;   
+istruzioni di algebra superiore;   
+sistemi per l'elaborazione dell'informazione;   
+teoria dei gruppi;   
+topologia algebrica.   
+Art. 107 - all'elenco degli insegnamenti complementari del corso di laurea in fisica sono aggiunti i seguenti insegnamenti:   
+didattica della fisica;   
+fisica degli stati condensati;   
+fisica dei metalli;   
+fisica dei semiconduttori;   
+fisica sanitaria;   
+meccanica dei continui;   
+teoria delle forze nucleari;   
+teoria dei campi.   
+Art. 116 - all'elenco degli insegnamenti complementari del corso di laurea in chimica si apportano le seguenti modifiche:   
   
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 484 - all'elenco degli insegnamenti del terzo anno di corso della scuola di specializzazione in ortopedia e traumatologia e' aggiunto quello di "bio-ingegneria dell'apparato locomotore".  
-Gli articoli 583, 584, 585, relativi alla scuola di specializzazione in malattie dell'apparato digerente, sono abrogati e sostituiti dai seguenti:  
+Indirizzo organico-biologico   
   
-Scuola di specializzazione in malattie dell'apparato digerente  
-Art. 583. - La scuola di specializzazione in malattie dell'apparato digerente, conferisce il diploma in malattie dell'apparato digerente.  
-Abbreviazioni di corso potranno essere concesse, a giudizio insindacabile del consiglio della scuola, soltanto a coloro che diano dimostrazione rigorosamente documentata di avere preparazione, servizi e attivita' scientifica nel campo specifico, di riconosciuto merito e svolti in ambienti qualificati. In ogni caso l'abbreviazione di corso deve essere rigorosamente e dettagliatamente motivata dal consiglio direttivo della scuola.  
-La scuola avra' la durata di anni 4, di cui uno di tirocinio pratico.  
-Art. 584. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-anatomia patologica;  
-fisiopatologia;  
-chimica clinica;  
-semeiotica fisica e funzionale;  
-clinica medica.  
-2° Anno:  
-semeiotica fisica e strumentale;  
-semeiotica radiologica;  
-malattie del tubo digerente;  
-clinica medica.  
-3° Anno:  
-malattie del fegato e del pancreas;  
-clinica medica.  
-4° Anno:  
-tirocinio pratico da svolgersi in una clinica medica o in reparti ospedalieri.  
-A queste materie fondamentali obbligatorie potranno essere aggiunte materie complementari con corsi semestrali in numero non superiore a 6 per la totalita' del corso: farmacologia, immunologia, psicopatologia, parassitologia, dietetica.  
-Art. 585. - L'iscrizione alla scuola avviene per titoli. Nel caso che le domande superino il numero dei posti disponibili, l'ammissione avverra' per titoli ed esami.  
-Sono disponibili n. 10 (dieci) posti per ciascun anno di corso. Il numero complessivo dei posti nei tre anni di corso non dovra' essere superiore a 30.  
-Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni, le visite cliniche, gli ambulatori, nonche' di prestare, se richiesti, servizio nella clinica come medici interni, estendendo storie cliniche e praticando le ricerche di laboratorio.  
-Gli allievi che non conseguano le attestazioni sul relativo libretto non potranno essere ammessi a sostenere le prove d'esame.  
-Alla fine di ogni anno di corso gli iscritti sono tenuti a superare, per gruppi di materie, tutti gli esami relativi ai singoli insegnamenti fondamentali e complementari di ciascun anno per il passaggio all'anno successivo. Gli esami biennali (semeiotica fisica e strumentale) e triennali (clinica medica) saranno superati rispettivamente alla fine del biennio e alla fine del triennio.  
-Al termine del corso di studi per il conseguimento del diploma di specialista, i candidati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento di carattere gastroenterologico.  
+Sono soppressi i seguenti insegnamenti:   
+farmacologia;   
+chimica delle fermentazioni;   
+chimica agraria;   
+scienza dell'alimentazione;   
+fisiologia generale e igiene del lavoro industriale;   
+chimica e analisi merceologica con esercitazioni;   
+biochimica generale;   
+storia della dottrina chimico-organica;   
+magnetochimica.   
+Sono aggiunti i seguenti insegnamenti:   
+meccanismi di reazione in chimica organica;   
+metodi fisici in chimica organica;   
+complementi di chimica organica;   
+chimica analitica clinica.   
+  
+Indirizzo inorganico-chimico-fisico   
+  
+Sono soppressi i seguenti insegnamenti:   
+idrologia chimica;   
+storia della dottrina chimico-inorganica;   
+strumentazione didattica da laboratorio;   
+chimica isotopica.   
+Sono aggiunti i seguenti insegnamenti:   
+analisi chimica spettroscopica;   
+termodinamica statistica;   
+meccanismi di reazione in chimica inorganica.   
+Art. 117 - all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti insegnamenti:   
+astronomia;   
+ecologia vegetale;   
+embriologia comparata;   
+etologia;   
+geologia ambientale;   
+laboratorio didattico delle scienze naturali;   
+paleobotanica;   
+paleontologia stratigrafica;   
+paleontologia dei vertebrati.   
+Art. 118 - all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti insegnamenti: metodologie biochimiche;   
+genetica vegetale;   
+ecologia umana;   
+biologia umana;   
+virologia;   
+palinologia;   
+storia della biologia;   
+fisiologia cellulare.   
+Art. 119 - all'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti i seguenti insegnamenti: biostratigrafia e paleoecologia;   
+paleontologia stratigrafica;   
+geodinamica;   
+esplorazione geologica del sottosuolo;   
+geopedologia;   
+geomorfologia applicata;   
+mineralogia dei sedimenti;   
+metodologie mineralogiche-petrografiche;   
+geochimica applicata;   
+petrografia del sedimentario;   
+stratigrafia sismica;   
+geologia matematica.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1975
+### Dato a Roma, addi' 26 aprile 1984
 
-LEONE MALFATTI
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 30 marzo 1976
+Registrato alla Corte dei conti, addi' 20 luglio 1984
 
-Atti di Governo, registro n. 4, foglio n. 49
+Registro n. 45 Istruzione, foglio n. 330

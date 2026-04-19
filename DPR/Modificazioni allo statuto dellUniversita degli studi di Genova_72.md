@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 maggio 1965 n. 768
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1979 n. 606
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 maggio 1965 n. 768
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1979 n. 606
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
@@ -10,219 +10,235 @@ Modificazioni allo statuto dell'Universita' degli studi di Genova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2051](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2051) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla
+-----
 
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati e ulteriormente modificato come appresso:
-
-Art. 29. - Agli insegnamenti complementari del corso di laurea in lettere sono aggiunti quelli di:
-
-39) Storia delle religioni;
-
-40) Storia del cristianesimo;
-
-41) Sociologia;
-
-42) Storia delle tradizioni popolari.
-
-Art. 30. - Agli insegnamenti complementari del corso di laurea in Filosofia sono aggiunti quelli di:
-
-20) Sociologia;
-
-21) Storia contemporanea;
-
-Art. 31. - L'insegnamento complementare di "Statistica sanitaria" del corso di laurea in Medicina e chirurgica e' soppresso e sostituito da quello di "Statistica medica e biometria".
-
-Art. 53. - L'insegnamento complementare di Metodi matematici della fisica, per il corso di laurea in Matematica (indirizzo: generale, didattico e applicativo del II gruppo), e' soppresso.
-
-Art. 55. - Agli insegnamenti complementari dei corso di laurea in Scienze biologiche e' aggiunto quello di "Biologia marina".
-
-Art. 56. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche sono aggiunti quelli di: "Geologia nucleare, Cristallografia".
-
-Art. 58, relativo alle norme per le iscrizioni e gli esami per i vari corsi di laurea della Facolta' di Scienze matematiche, fisiche e naturali 1° ultimo comma e' abrogato e sostituito da seguente:
-
-"Per la laurea in Scienze geologiche, l'esame eventuale di Analisi matematica I deve procedere quello di Analisi matematica II e questo deve precedere l'esame di Meccanica razionale".
-
-Gli articoli dal 117 al 123, relativi alla Scuola di specializzazione in Oftalmoiatria e oculistica, sono abrogati e sostituiti dai seguenti concernente la nuova denominazione e il nuovo ordinamento della Scuola stessa.
-
-Scuola di specializzazione in Clinica oculistica
-
-Art. 117. - Presso l'Istituto di Clinica oculistica 6 istituita la Scuola di specializzazione in Clinica oculistica che ha lo scopo di conferire la necessaria competenza a coloro che vogliono specialmente dedicarsi a questa branca della medicina.
-
-Art. 118. - Il corso ha la durata di quattro anni.
-
-Gli iscritti hanno l'obbligo di frequentare per tutto il quadriennio le lezioni, le esercitazioni e le dimostrazioni, prestando regolare servizio come interni della Clinica a norma degli articoli 98 e 99 di questo statuto.
-
-Art. 119. - Al corso possono iscriversi solo i laureati in Medicina e chirurgia. Il numero degli allievi che possono essere accolti nella Scuola viene fissato in numero massimo di venti.
-
-Le norme di iscrizioni, ammissione, pagamento tasse, sono quelle generali delle Scuole di specializzazione contemplate negli articoli 93, 94, 10, 107 di questo - statuto.
-
-Art. 120. - Gli insegnamenti impartiti nella Scuola per ciascun anno di corso e che formano materie di esame al termine di ciascun anno sono i seguenti:
-
-1° Anno:
-
-1) Anatomia ed istologia dell'apparato oculare;
-
-2) Nozioni di embriologia e genetica oculare;
-
-3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;
-
-4) Nozioni di ottica fisiologica, esame della refrazione;
-
-5) Microbiologia ed igiene oculare.
-
-2° Anno:
-
-1) Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmoscopia, perimetria, campimetria, adattometria, senso cromatico tonometria, tonografia, esami elettrofunzionali, radiologia);
-
-2) Farmacologia oculare e terapia fisica;
-
-3) Anatomia patologica oculare;
-
-4) Patologia e clinica oculare (malattie delle palpebre, della congiuntiva, delle vie lacrimali, della cornea e della sclera).
-
-3° Anno:
-
-1) Patologia e clinica oculare (malattie dell'uvea, della retina), del nervo ottico e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita, glaucoma);
-
-2) Anomalie e patologia della motilita' oculare e della visione binoculare. Ortottica e Pleottica.
-
-3) Affezioni otorinolaringoiatriche e occhio;
-
-4) Tecnica operatoria - la parte.
-
-4° Anno:
-
-1) Neuroftalmologia;
-
-2) Malattie oculari in rapporto ad affezioni generali;
-
-3) Malattie professionali. Infortunistica e medicina legale oculare;
-
-4) Tecnica operatoria - 2° parte;
-
-5) Tesi di specializzazione.
-
-La Direzione della Scuola ha facolta' di organizzare conferenze, dimostrazioni e seminari da tenersi da docenti di altre materie che abbiano attinenza con gli scopi della Scuola.
-
-Art. 121. - Al termine di ciascun anno di corso gli allievi sono tenuti a sostenere gli esami sulle materie d'insegnamento dell'anno stesso di fronte ad una Commissione composta secondo quanto stabilito dall'articolo 100 di questo statuto.
-
-In seguito al risultato degli esami la Commissione stabilira' la loro idoneita' o meno ad essere ammessi al successivo anno di corso.
-
-Art. 122. - Al termine del quarto anno di corso gli allievi che hanno superato gli esami delle materie di detto anno vengono ammessi a sostenere l'esame di diploma di fronte alla Commissione costituita a norma dell'art. 104 di questo statuto. Tale esame consiste nella presentazione di una tesi di specializzazione scritta su argomento di Clinica oculistica preventivamente assegnato dalla Direzione della Scuola, nel sostenere la relativa, discussione e in una prova pratica sull'ammalato.
-
-Art. 123. - Agli allievi che hanno superato l'esame finale di diploma viene rilasciato il diploma di specialista in Clinica oculistica valido a tutti gli effetti di legge.
-
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 24 maggio 1965
-
-SARAGAT
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 1 luglio 1965 Atti del Governo, registro n. 194, foglio n. 68. - VILLA
+proposta del Ministro della pubblica istruzione; Decreta:
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2051](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2051) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Decreta:  
+L'art. 155, relativo all'elenco delle scuole di specializzazione in medicina e chirurgia, e' modificato nel senso che la scuola di specializzazione in malattie dell'apparato digerente muta la denominazione in quella di scuola di specializzazione in gastroenterologia ed endoscopia digestiva.  
+
+Art. 2
+------
+
   
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati e ulteriormente modificato come appresso:  
-Art. 29. - Agli insegnamenti complementari del corso di laurea in lettere sono aggiunti quelli di:  
-39) Storia delle religioni;  
-40) Storia del cristianesimo;  
-41) Sociologia;  
-42) Storia delle tradizioni popolari.  
-Art. 30. - Agli insegnamenti complementari del corso di laurea in Filosofia sono aggiunti quelli di:  
-20) Sociologia;  
-21) Storia contemporanea;  
-Art. 31. - L'insegnamento complementare di "Statistica sanitaria" del corso di laurea in Medicina e chirurgica e' soppresso e sostituito da quello di "Statistica medica e biometria".  
-Art. 53. - L'insegnamento complementare di Metodi matematici della fisica, per il corso di laurea in Matematica (indirizzo: generale, didattico e applicativo del II gruppo), e' soppresso.  
-Art. 55. - Agli insegnamenti complementari dei corso di laurea in Scienze biologiche e' aggiunto quello di "Biologia marina".  
-Art. 56. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche sono aggiunti quelli di: "Geologia nucleare, Cristallografia".  
-Art. 58, relativo alle norme per le iscrizioni e gli esami per i vari corsi di laurea della Facolta' di Scienze matematiche, fisiche e naturali 1° ultimo comma e' abrogato e sostituito da seguente:  
-"Per la laurea in Scienze geologiche, l'esame eventuale di Analisi matematica I deve procedere quello di Analisi matematica II e questo deve precedere l'esame di Meccanica razionale".  
-Gli articoli dal 117 al 123, relativi alla Scuola di specializzazione in Oftalmoiatria e oculistica, sono abrogati e sostituiti dai seguenti concernente la nuova denominazione e il nuovo ordinamento della Scuola stessa.  
-Scuola di specializzazione in Clinica oculistica  
-Art. 117. - Presso l'Istituto di Clinica oculistica 6 istituita la Scuola di specializzazione in Clinica oculistica che ha lo scopo di conferire la necessaria competenza a coloro che vogliono specialmente dedicarsi a questa branca della medicina.  
-Art. 118. - Il corso ha la durata di quattro anni.  
-Gli iscritti hanno l'obbligo di frequentare per tutto il quadriennio le lezioni, le esercitazioni e le dimostrazioni, prestando regolare servizio come interni della Clinica a norma degli articoli 98 e 99 di questo statuto.  
-Art. 119. - Al corso possono iscriversi solo i laureati in Medicina e chirurgia. Il numero degli allievi che possono essere accolti nella Scuola viene fissato in numero massimo di venti.  
-Le norme di iscrizioni, ammissione, pagamento tasse, sono quelle generali delle Scuole di specializzazione contemplate negli articoli 93, 94, 10, 107 di questo - statuto.  
-Art. 120. - Gli insegnamenti impartiti nella Scuola per ciascun anno di corso e che formano materie di esame al termine di ciascun anno sono i seguenti:  
+Gli articoli 201, 202, 203, 204, 205, 206 e 207, relativi alla scuola di specializzazione in radiologia, sono soppressi e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in radiologia  
+Art. 201. - La scuola di specializzazione in radiologia ha sede presso l'istituto di radiologia.  
+Art. 202. - La scuola conferisce i seguenti diplomi:  
+a) diploma di specializzazione in radiodiagnostica;  
+b) diploma di specializzazione in radioterapia oncologica.  
+Gli anni di studio necessari per il conseguimento di detti titoli sono quattro.  
+Art. 203. - Gli insegnamenti dei primi due anni, comuni per i due diplomi conferiti dalla scuola, sono i seguenti:  
 1° Anno:  
-1) Anatomia ed istologia dell'apparato oculare;  
-2) Nozioni di embriologia e genetica oculare;  
-3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;  
-4) Nozioni di ottica fisiologica, esame della refrazione;  
-5) Microbiologia ed igiene oculare.  
+fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);  
+radiobiologia, legislazione e norme generali di radioprotezione;  
+tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;  
+nozioni di anatomia e fisiologia generale.  
 2° Anno:  
-1) Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmoscopia, perimetria, campimetria, adattometria, senso cromatico tonometria, tonografia, esami elettrofunzionali, radiologia);  
-2) Farmacologia oculare e terapia fisica;  
-3) Anatomia patologica oculare;  
-4) Patologia e clinica oculare (malattie delle palpebre, della congiuntiva, delle vie lacrimali, della cornea e della sclera).  
+anatomia patologica;  
+apparecchiature e tecniche radiologiche;  
+semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);  
+radiopatologia;  
+dosimetria applicata.  
+Art. 204. - Gli insegnamenti per il diploma di specializzazione in radiodiagnostica sono i seguenti:  
 3° Anno:  
-1) Patologia e clinica oculare (malattie dell'uvea, della retina), del nervo ottico e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita, glaucoma);  
-2) Anomalie e patologia della motilita' oculare e della visione binoculare. Ortottica e Pleottica.  
-3) Affezioni otorinolaringoiatriche e occhio;  
-4) Tecnica operatoria - la parte.  
+tecniche speciali e relativa semeiotica I;  
+radiodiagnostica speciale dei vari organi ed apparati I.  
 4° Anno:  
-1) Neuroftalmologia;  
-2) Malattie oculari in rapporto ad affezioni generali;  
-3) Malattie professionali. Infortunistica e medicina legale oculare;  
-4) Tecnica operatoria - 2° parte;  
-5) Tesi di specializzazione.  
-La Direzione della Scuola ha facolta' di organizzare conferenze, dimostrazioni e seminari da tenersi da docenti di altre materie che abbiano attinenza con gli scopi della Scuola.  
-Art. 121. - Al termine di ciascun anno di corso gli allievi sono tenuti a sostenere gli esami sulle materie d'insegnamento dell'anno stesso di fronte ad una Commissione composta secondo quanto stabilito dall'articolo 100 di questo statuto.  
-In seguito al risultato degli esami la Commissione stabilira' la loro idoneita' o meno ad essere ammessi al successivo anno di corso.  
-Art. 122. - Al termine del quarto anno di corso gli allievi che hanno superato gli esami delle materie di detto anno vengono ammessi a sostenere l'esame di diploma di fronte alla Commissione costituita a norma dell'art. 104 di questo statuto. Tale esame consiste nella presentazione di una tesi di specializzazione scritta su argomento di Clinica oculistica preventivamente assegnato dalla Direzione della Scuola, nel sostenere la relativa, discussione e in una prova pratica sull'ammalato.  
-Art. 123. - Agli allievi che hanno superato l'esame finale di diploma viene rilasciato il diploma di specialista in Clinica oculistica valido a tutti gli effetti di legge.  
+tecniche speciali e relativa semeiotica (termografia, ecografia, xerografia, TAC) II;  
+radiodiagnostica speciale dei vari organi ed apparati II.  
+Art. 205. - Gli insegnamenti per il diploma di specializzazione in radioterapia oncologica sono i seguenti:  
+3° Anno:  
+oncologia generale;  
+oncologia clinica I;  
+tecniche radioterapiche.  
+4° Anno:  
+oncologia clinica II;  
+fondamenti di terapia chirurgica dei tumori;  
+radioterapia clinica;  
+trattamento del canceroso in fase avanzata.  
+Art. 206. - I singoli insegnamenti sono tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento.  
+Art. 207. - Il numero massimo di iscritti in corso alla scuola e' di sessantaquattro da ripartirsi annualmente fra i vari corsi di diploma previsti dall'art. 202.  
+La frequenza pratica e' obbligatoria (dieci mesi all'anno) e deve avvenire in reparti riconosciuti idonei dal consiglio della scuola.  
+L'insegnamento viene svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento aperti anche a specialisti, ecc. Gli allievi per essere ammessi a sostenere gli esami delle singole materie, devono avere la firma di frequenza da parte del direttore della scuola.  
+Gli allievi, per conseguire il diploma di specializzazione, oltre essere stati approvati in tutti gli esami, devono elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola.  
+
+Art. 3
+------
+
+  
+L'art. 245, secondo comma, relativo alla scuola di specializzazione in chirurgia generale (prima scuola), e' modificato nel senso che il numero degli iscritti e' stabilito in 68 (sessantotto) per tutti i cinque anni di corso.  
+
+Art. 4
+------
+
+  
+L'art. 277, secondo comma, relativo alla scuola di specializzazione in psicologia, e' soppresso e sostituito dal seguente:  
+  
+La durata del corso della scuola e' di tre anni. La frequenza e' obbligatoria. Non e' consentita la contemporanea iscrizione a piu' indirizzi distinti.  
+
+Art. 5
+------
+
+  
+  
+Gli articoli 341, 342, 343, 344 e 345, relativi alla scuola di specializzazione in psichiatria, sono soppressi e sostituiti dai seguenti:   
+  
+Scuola di specializzazione in psichiatria   
+Art. 341. - La scuola di specializzazione in psichiatria ha sede presso la clinica psichiatrica e conferisce il diploma di specializzazione in psichiatria.   
+Art. 342. - La durata del corso di studi e' di quattro anni.   
+Art. 343. - Il numero massimo di allievi iscrivibili e' di trentotto complessivamente per l'intero corso di studi.   
+Art. 344. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+metodologia del rapporto medico-paziente;   
+psicologia;   
+elementi di genetica e biochimica;   
+struttura e funzioni integrative del SNC;   
+neurologia clinica;   
+clinica psichiatrica I.   
+2° Anno:   
+psicopatologia e psicodinamica;   
+psicoterapia I;   
+psicofarmacologia;   
+psicofarmacoterapia;   
+clinica psichiatrica II.   
+3° Anno:   
+psicodiagnostica ed informatica psichiatrica;   
+psichiatria sociale I;   
+psichiatria infantile;   
+psicoterapia II;   
+clinica psichiatrica III.   
+4° Anno:   
+psicosomatica;   
+psichiatria sociale II;   
+psichiatria forense;   
+psicoterapia III;   
+clinica psichiatrica IV.   
+Note esplicative.   
+1) Strutture e funzioni integrative del SNC: tale materia, annuale, o comprensiva dell'anatomofisiologia del SNC e della psicofisiologia.   
+2) Neurologia clinica: tale insegnamento, annuale, deve essere comprensivo, eventualmente con sottodivisioni, di cenni di anatomia patologica del SN, di semeiologia neurologica, clinica e strumentale, di neuroradiologia.   
+3) Clinica psichiatrica: tale materia, quadriennale, e' comprensiva anche degli elementi di semeiotica psichiatrica, delle tecniche laboratoristiche, delle terapie biologiche.   
+4) Psicoterapia: tale materia, triennale, comprende e considera nel corso dei tre anni, le tecniche e i principi fondamentali delle principali psicoterapie individuali, direttive e non direttive, i principi fondamentali e le dinamiche delle piu' importanti psicoterapie di gruppo, delle prassi psicoterapiche, socioterapiche e delle sociodinamiche delle istituzioni psichiatriche.   
+5) Psicodiagnostica ed informatica psichiatrica: tale materia, annuale, e' comprensiva di cenni di statistica, dei reattivi mentali e psicodiagnostica strumentale e di metodologia della ricerca psichiatrica.   
+6) Psichiatria sociale: tale materia, biennale, con molte possibilita' di suddivisioni e' comprensiva di elementi di sociologia, di antropologia culturale, di etologia, di ecologia psichiatrica, di epidemiologia psichiatrica, di psichiatria transculturale, di psichiatria preventiva e di igiene mentale, prassi ed organizzazione di assistenza psichiatrica sul territorio extra istituzionale.   
+7) Psicosomatica: tale materia, annuale, e' comprensiva degli aspetti psichici delle malattie somatiche della cosiddetta medicina integrata, della endocrinologia in riferimento alla psichiatria delle cosiddette specifiche malattie psicosomatiche.   
+Art. 345. - E' obbligatoria la frequenza per undici mesi all'anno; tale periodo comprende sia la frequenza alle lezioni, sia l'esercitazione pratica nei reparti di degenza e nelle strutture ambulatoriali a disposizione della scuola.   
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.   
+La scuola programma lo svolgimento dei corsi di insegnamento.   
+Per le materie a corso pluriennale l'esame e' unico.   
+Le lezioni teoriche sono integrate da seminari anche interdisciplinari, da documentazioni cliniche e da esperienze effettuate nei vari settori della disciplina.   
+Alla fine dei quattro anni gli allievi che hanno frequentato i corsi sono ammessi all'esame di diploma, consistente nella presentazione e discussione di una tesi scritta di argomento pertinente alla psichiatria in una prova orale e in una prova pratica.   
+
+Art. 6
+------
+
+  
+L'art. 348, relativo alla scuola di specializzazione in puericultura, e' soppresso e sostituito dal seguente:  
+  
+Durante l'anno sono svolte esercitazioni pratiche e conferenze su argomenti di puericultura. Gli iscritti hanno l'obbligo di esercitazioni pratiche nei reparti con le modalita' e l'orario che sono stabiliti dal direttore della scuola, sentito il parere della facolta'.  
+Alla fine di ognuno dei due anni gli iscritti devono sostenere l'esame sulle materie di insegnamento. Al termine del secondo anno l'allievo sostiene un esame teorico generale, mentre al termine del terzo anno egli sostiene un esame pratico, unitamente all'esame di diploma, che e' valido a tutti gli effetti di legge.  
+
+Art. 7
+------
+
+  
+L'art. 375, relativo alla scuola di specializzazione in nefrologia, e' modificato nel senso che il numero degli iscritti e' stabilito in sedici per l'intero corso di studi.  
+
+Art. 8
+------
+
+  
+L'art. 383, quarto comma, relativo alla scuola di specializzazione in chirurgia generale (seconda scuola), e' modificato nel senso che il numero degli iscritti e' stabilito in cinquantadue per tutti i cinque anni di corso.  
+
+Art. 9
+------
+
+  
+  
+Gli articoli 389, 390, 391, 392 e 393, relativi alla scuola di specializzazione in malattie dell'apparato digerente, che muta la denominazione in quella di scuola di specializzazione in gastroenterologia ed endoscopia digestiva, sono soppressi e sostituiti dai seguenti:   
+  
+Scuola di specializzazione in gastroenterologia ed endoscopia   
+digestiva   
+Art. 389. - La scuola di specializzazione in gastroenterologia ed endoscopia digestiva ha sede presso l'istituto scientifico di medicina interna e conferisce il diploma di specializzazione in gastroenterologia ed endoscopia digestiva.   
+Art. 390. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Art. 391. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
+Il numero massimo di allievi iscrivibili e' di ventitre complessivamente per i quattro anni di corso.   
+L'ammissione al corso avviene per titoli ed esami.   
+Art. 392. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+anatomia clinica;   
+farmacologia clinica;   
+chimica clinica, coprologia, parassitologia;   
+genetica;   
+biostatistica ed epidemiologia.   
+2° Anno:   
+clinica medica generale I;   
+clinica e terapia del tubo digerente, fegato e pancreas I;   
+anatomia ed istologia patologica I;   
+fisiopatologia e semeiotica digestiva I;   
+radiologia e medicina nucleare I;   
+scienza dell'alimentazione e dietetica.   
+3° Anno:   
+clinica medica generale II;   
+clinica e terapia del tubo digerente, fegato e pancreas II;   
+anatomia ed istologia patologica II;   
+fisiopatologia e semeiotica digestiva II;   
+radiologia e medicina nucleare II;   
+endoscopia digestiva I.   
+4° Anno:   
+clinica medica generale III;   
+clinica e terapia del tubo digerente, fegato e pancreas III;   
+endoscopia digestiva II;   
+terapia intensiva;   
+gastroenterologia pediatrica;   
+elementi di chirurgia del tubo digerente, fegato e pancreas.   
+Art. 393. - E' obbligatorio il tirocinio pratico durante il quadriennio di studi da svolgere nell'istituto clinico sede della scuola o in reparti ospedalieri di gastroenterologia, conforme alle scelte approvate dal consiglio della scuola.   
+Ogni scuola puo' aggiungere a queste materie fondamentali obbligatorie delle materie complementari con corsi semestrali, in numero non superiore a sei per la totalita' del corso.   
+Per le materie biennali e triennali e' dato l'esame alla fine del biennio o triennio.   
+La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.   
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.   
+Per quanto attiene alle modalita' per il superamento degli esami annuali e di diploma, vedasi le norme generali per le scuole di specializzazione della facolta' di medicina e chirurgia contemplate dal presente statuto.   
+
+Art. 10
+-------
+
+  
+L'[art. 416 del decreto del Presidente della Repubblica 31 ottobre 1978, n. 997](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-10-31;997~art416), relativo alla scuola di specializzazione in patologia della riproduzione umana, e' modificato nel senso che il secondo comma e' soppresso.  
   
 
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 maggio 1965
+### Dato a Roma, addi' 24 ottobre 1979
 
-SARAGAT GUI
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 1 luglio 1965
+Registrato alla Corte dei conti, addi' 28 novembre 1979
 
-Atti del Governo, registro n. 194, foglio n. 68. - VILLA
+Registro n. 92 Istruzione, foglio n. 324

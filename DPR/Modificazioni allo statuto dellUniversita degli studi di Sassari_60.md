@@ -1,63 +1,191 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 aprile 1951 n. 769
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 gennaio 1978 n. 431
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 aprile 1951 n. 769
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 gennaio 1978 n. 431
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Sassari.
 -------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084), e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Sassari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+L'ordinamento della scuola di specializzazione in malattie dell'apparato cardiovascolare, istituita con [decreto del Presidente della Repubblica 31 ottobre 1975, n. 954](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1975-10-31;954), che muta la denominazione in quella di scuola di specializzazione in cardiologia, e' abrogato e sostituito dal seguente:
+
+Scuola di specializzazione in cardiologia
+
+Art. 138. - La scuola di specializzazione in cardiologia ha sede presso l'istituto di clinica medica generale e terapia medica e conferisce il diploma di specialista in cardiologia.
+
+Art. 139. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo in cardiologia o, in mancanza di questi, a un professore di ruolo o fuori ruolo di materia affine.
+
+Art. 140. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia in possesso del diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.
+
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.
+
+Il numero massimo degli allievi e' di 6 per anno di corso, e complessivamente di 24 iscritti per l'intero corso di studi.
+
+L'ammissione al corso avviene per titoli ed esami.
+
+Art. 141. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+1) anatomia umana normale ed embriologia dell'apparato cardiovascolare;
+
+2) fisiologia dell'apparato cardiovascolare (I);
+
+3) biochimica e biofisica;
+
+4) semeiotica fisica e strumentale dell'apparato cardiovascolare (I);
+
+5) informatica medica e strumentazione biomedica (I).
+
+2° Anno:
+
+1) anatomia patologica (I);
+
+2) fisiologia dell'apparato cardiovascolare (II);
+
+3) patologia e clinica cardiovascolare (I);
+
+4) semeiotica fisica e strumentale dell'apparato cardiovascolare (II);
+
+5) informatica medica e strumentazione biomedica (II);
+
+6) radiologia (I);
+
+7) aspetti sociali ed epidemiologici delle malattie cardiovascolari.
+
+3° Anno:
+
+1) anatomia patologica (II);
+
+2) semeiotica fisica e strumentale dell'apparato cardiovascolare (III);
+
+3) patologia e clinica cardiovascolare (II);
+
+4) radiologia (II);
+
+5) terapia medica e farmacologia clinica (I).
+
+4° Anno:
+
+1) semeiotica fisica e strumentale dell'apparato cardiovascolare (IV);
+
+2) patologia e clinica cardiovascolare (III);
+
+3) terapia medica e farmacologia clinica (II);
+
+4) terapia chirurgica;
+
+5) terapie intensive cardiologiche.
+
+Art. 142. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguano le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere la prova di esame.
+
+Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Al termine del corso di studi, per il conseguimento del diploma di specialita' in cardiologia, gli interessati dovranno superare l'esame di diploma, consistente nella dissertazione scritta di un argomento di carattere cardiologico.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 30 gennaio 1978
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 25 luglio 1978 Registro n. 83 Istruzione, foglio n. 138
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Sassari, approvato con il [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084), e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1941-10-17;1217) e con il [decreto del Presidente della Repubblica 21 novembre 1950, n. 918](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-11-21;918);  
+Veduto lo statuto dell'Universita' di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084), e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduto il [regio decreto-legge 27 gennaio 1944, n. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-27;58);  
-Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Sassari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati e' cosi' ulteriormente modificato:  
-Attuale art. 2. - E' sostituito dal seguente:  
-"Per ogni insegnamento che si impartisce per singoli corsi di studio, il competente Consiglio di facolta' stabilisce al principio dell'anno accademico, l'orario dei corsi e delle esercitazioni, secondo il calendario scolastico".  
-Attuale art. 7. - E' sostituito dal seguente:  
-"Ogni insegnamento si svolge mediante lezioni ed esercitazioni.  
-Le esercitazioni hanno lo scopo di fare acquistare agli studenti le cognizioni pratiche per l'esercizio delle professioni alle quali le diverse discipline si riferiscono e le attitudini necessarie alla ricerca scientifica, scopi che si perseguono mediante esercitazioni di laboratorio, conferenze, discussioni, ricerche bibliografiche e con ogni altro mezzo che sia ritenuto confacente allo scopo".  
-Attuale art. 10. - Il secondo comma e' soppresso.  
-Attuale art. 13. - Il secondo comma e' sostituito dal seguente:  
-"Nel caso in cui venga accordato la lode, la Commissione puo' anche dichiarare la dissertazione presentata dal candidato degna di pubblicazione; puo' inoltre proporre al Consiglio di amministrazione che la pubblicazione venga effettuata a spese dell'Universita'. Le deliberazioni relative devono essere prese dalla Commissione suddetta all'unanimita'. Detta circostanza deve risultare sul verbale di laurea".  
-Attuale art. 15. - Gli insegnamenti di "diritto corporativo" e di "economia politica corporativa" assumono rispettivamente la denominazione di "diritto del lavoro" e di "economia politica".  
-L'insegnamento di "legislazione del lavoro" e' soppresso e sostituito da quello di "diritto privato comparato", ed inoltre e' aggiunto agli insegnamenti complementari quello di "diritto della navigazione", Attuale art. 16. - E' cosi' modificato:  
-"L'esame di istituzioni di diritto romano deve precedere quello di "diritto romano".  
-L'esame di istituzioni di diritto privato deve precedere quelli di diritto civile, diritto commerciale, diritto processuale civile e diritto amministrativo.  
-L'esame di economia politica deve precedere gli esami di diritto commerciale e di scienza delle finanze e diritto finanziario.  
-L'esame di diritto costituzionale deve precedere quelli di diritto internazionale e di diritto amministrativo".  
-Attuale art. 20. - E' aggiunto il seguente comma:  
-"Possono essere ammessi a frequentare le biblioteche anche studenti non iscritti all'Istituto giuridico, secondo le norme contenute nel regolamento interno".  
-Attuale art. 25. - E' soppresso l'insegnamento complementare di "biologia delle razze umane", e sono aggiunti quelli di "parassitologia", "puericoltura", "semeiotica medica" e "tisiologia".  
-Attuale art. 32. - E' sostituito dal seguente:  
-"Non sono ammessi agli esami di botanica farmaceutica, di zoologia generale, di chimica biologica, di farmacologia e di chimica bromatologica, gli studenti che non hanno superato l'esame di chimica organica.  
-Non sono ammessi a sostenere gli esami di chimica farmaceutica e tossicologica e relativi esercizi e di tecnica e legislazione farmaceutica gli studenti che non hanno superato gli esami di chimica generale ed inorganica e di chimica organica".  
-Attuale art. 35. - Agli insegnamenti complementari del corso di laurea in medicina veterinaria sono aggiunti i seguenti:  
-9. Medicina veterinaria legale;  
-10. Parassitologia.  
+Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+L'ordinamento della scuola di specializzazione in malattie dell'apparato cardiovascolare, istituita con [decreto del Presidente della Repubblica 31 ottobre 1975, n. 954](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1975-10-31;954), che muta la denominazione in quella di scuola di specializzazione in cardiologia, e' abrogato e sostituito dal seguente:  
+  
+Scuola di specializzazione in cardiologia  
+  
+Art. 138. - La scuola di specializzazione in cardiologia ha sede presso l'istituto di clinica medica generale e terapia medica e conferisce il diploma di specialista in cardiologia.  
+Art. 139. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo in cardiologia o, in mancanza di questi, a un professore di ruolo o fuori ruolo di materia affine.  
+Art. 140. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia in possesso del diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.  
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.  
+Il numero massimo degli allievi e' di 6 per anno di corso, e complessivamente di 24 iscritti per l'intero corso di studi.  
+L'ammissione al corso avviene per titoli ed esami.  
+Art. 141. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1) anatomia umana normale ed embriologia dell'apparato cardiovascolare;  
+2) fisiologia dell'apparato cardiovascolare (I);  
+3) biochimica e biofisica;  
+4) semeiotica fisica e strumentale dell'apparato cardiovascolare (I);  
+5) informatica medica e strumentazione biomedica (I).  
+2° Anno:  
+1) anatomia patologica (I);  
+2) fisiologia dell'apparato cardiovascolare (II);  
+3) patologia e clinica cardiovascolare (I);  
+4) semeiotica fisica e strumentale dell'apparato cardiovascolare (II);  
+5) informatica medica e strumentazione biomedica (II);  
+6) radiologia (I);  
+7) aspetti sociali ed epidemiologici delle malattie cardiovascolari.  
+3° Anno:  
+1) anatomia patologica (II);  
+2) semeiotica fisica e strumentale dell'apparato cardiovascolare (III);  
+3) patologia e clinica cardiovascolare (II);  
+4) radiologia (II);  
+5) terapia medica e farmacologia clinica (I).  
+4° Anno:  
+1) semeiotica fisica e strumentale dell'apparato cardiovascolare (IV);  
+2) patologia e clinica cardiovascolare (III);  
+3) terapia medica e farmacologia clinica (II);  
+4) terapia chirurgica;  
+5) terapie intensive cardiologiche.  
+Art. 142. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguano le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere la prova di esame.  
+Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Al termine del corso di studi, per il conseguimento del diploma di specialita' in cardiologia, gli interessati dovranno superare l'esame di diploma, consistente nella dissertazione scritta di un argomento di carattere cardiologico.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 aprile 1951
+### Dato a Roma, addi' 30 gennaio 1978
 
-EINAUDI GONELLA
+LEONE MALFATTI
 
-Visto, il Guardasigilli: PICCIONI
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 3 settembre 1951
+Registrato alla Corte dei conti, addi' 25 luglio 1978
 
-Atti del Governo, registro n. 42, foglio n. 13. - CARLOMAGNO
+Registro n. 83 Istruzione, foglio n. 138

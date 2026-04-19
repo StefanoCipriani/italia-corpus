@@ -1,142 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1973 n. 923
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1164
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1973 n. 923
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1164
+===============================================================
 
-Modificazioni allo statuto dell'Universita' degli studi di Catania.
--------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Gli articoli 194 e 195, relativi alla scuola di specializzazione in "odontoiatria e protesi dentaria" sono abrogati e sostituiti dai seguenti:
-
-Scuola di specializzazione in odontoiatria e protesi dentaria
-
-Art. 194. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in odontoiatria e protesi dentaria con sede presso la clinica odontoiatrica.
-
-Alla scuola di specializzazione vengono ammessi allievi nel numero di dodici per ciascun anno di corso per un totale complessivo di trentasei iscritti.
-
-L'ammissione si ottiene previo concorso per titoli e per esami.
-
-La durata dei corsi e' di 3 anni.
-
-Gli iscritti hanno l'obbligo della frequenza ai corsi ed alle esercitazioni, debbono altresi' frequentare il laboratorio di odontotecnica per l'intero anno scolastico.
-
-Le vacanze saranno conformi al calendario universitario con un solo completo estivo (agosto).
-
-Gli esami di profitto teorici e pratici, saranno sostenuti alla fine di ogni anno in un'unica sessione (ottobre).
-
-Alla fine del terzo anno, dopo aver superato gli esami di profitto gli allievi saranno ammessi a sostenere l'esame di diploma che consiste nella discussione orale di una dissertazione scritta, su un tema proposto in precedenza dall'insegnante della materia sulla quale verte l'argomento ed approvato dal direttore della scuola.
-
-Ogni iscritto deve provvedere al proprio corredo di strumenti.
-
-Art. 195. - Le materie di insegnamento sono:
-
-1° Anno:
-
-Embriologia ed anatomia dentaria e maxillo-facciale;
-
-Microbiologia ed igiene orale;
-
-Farmacologia;
-
-Patologia odontostomatologica;
-
-Odontotecnica;
-
-Anestesia e chirurgia stomatologica;
-
-Odontoiatria conservativa (1° anno) - biennale;
-
-Esercitazioni pratiche.
-
-2° Anno:
-
-Odontoiatria conservativa (2° anno);
-
-Clinica protesica dentaria e maxillo-facciale (1° anno) - biennale;
-
-Paradontologia (1° anno) - biennale;
-
-Anatomia ed istopatologia odontostomatologica;
-
-Odontoiatria infantile;
-
-Radiologia odontostomatologica;
-
-Ortopedia dento-maxillo-facciale (1° anno) - biennale;
-
-Chirurgia maxillo-facciale (1° anno) - biennale;
-
-Esercitazioni pratiche.
-
-3° Anno:
-
-Clinica odontostomatologica;
-
-Chirurgia maxillo-facciale (2° anno);
-
-Medicina legale odontostomatologica e delle assicurazioni;
-
-Ortopedia dento-maxillo-facciale (2- anno);
-
-Clinica protesica dentaria e maxillo-facciale (2° anno);
-
-Paradontologia (2° anno);
-
-Esercitazioni pratiche.
-
-La denominazione della "scuola di specializzazione in tisiologia" istituita con [decreto del Presidente della Repubblica 14 luglio 1970, n. 661](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-07-14;661), e' modificata in quella di "scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 16 ottobre 1973
-
-LEONE
-
-MALFATTI
-
-Visto, il Guardasigilli: ZAGARI
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 8 gennaio 1974 Atti di Governo, registro n. 1, foglio n. 6. - CARUSO
+Modificazioni allo statuto dell'Universita', degli studi di Catania.
+--------------------------------------------------------------------
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -145,60 +24,87 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli 194 e 195, relativi alla scuola di specializzazione in "odontoiatria e protesi dentaria" sono abrogati e sostituiti dai seguenti:  
   
-Scuola di specializzazione in odontoiatria e protesi dentaria  
+L'art. 157, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che la scuola di specializzazione in "Malattie del sangue e del ricambio" muta la denominazione in quella di "Ematologia clinica e di laboratorio".  
+Allo stesso elenco e' aggiunta la scuola in "Endocrinologia" di nuova istituzione.  
+Gli articoli da 204 a 208, relativi alla scuola di specializzazione in "Malattie del sangue e del ricambio" che muta la denominazione in quella di "Ematologia clinica e di laboratorio", sono abrogati e sostituiti dai seguenti:  
   
-Art. 194. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in odontoiatria e protesi dentaria con sede presso la clinica odontoiatrica.  
-Alla scuola di specializzazione vengono ammessi allievi nel numero di dodici per ciascun anno di corso per un totale complessivo di trentasei iscritti.  
-L'ammissione si ottiene previo concorso per titoli e per esami.  
-La durata dei corsi e' di 3 anni.  
-Gli iscritti hanno l'obbligo della frequenza ai corsi ed alle esercitazioni, debbono altresi' frequentare il laboratorio di odontotecnica per l'intero anno scolastico.  
-Le vacanze saranno conformi al calendario universitario con un solo completo estivo (agosto).  
-Gli esami di profitto teorici e pratici, saranno sostenuti alla fine di ogni anno in un'unica sessione (ottobre).  
-Alla fine del terzo anno, dopo aver superato gli esami di profitto gli allievi saranno ammessi a sostenere l'esame di diploma che consiste nella discussione orale di una dissertazione scritta, su un tema proposto in precedenza dall'insegnante della materia sulla quale verte l'argomento ed approvato dal direttore della scuola.  
-Ogni iscritto deve provvedere al proprio corredo di strumenti.  
-Art. 195. - Le materie di insegnamento sono:  
+Scuola di specializzazione in ematologia clinica e di laboratorio  
+  
+Art. 204. - Presso la facolta' di medicina e chirurgia dell'Universita' di Catania e' istituita una scuola di specializzazione in ematologia clinica e di laboratorio.  
+Art. 205. - Il corso di studi della scuola di specializzazione in ematologia clinica e di laboratorio ha la durata di 3 anni.  
+Art. 206. - La scuola non puo' accogliere piu' di 10 iscritti per ogni anno di corso. L'ammissione al 1° anno della scuola, nel caso in cui il numero degli aspiranti muniti di titoli sufficienti superi quello dei posti disponibili, sara' fatto in base ad una graduatoria ricavata dalla valutazione dei titoli e da una prova scritta.  
+Art. 207. - Saranno consentite abbreviazioni di corso con le modalita' previste dalle disposizioni generali relative alle scuole di specializzazione della facolta' di medicina e chirurgia dell'Universita' di Catania.  
+Art. 208. - Gli insegnamenti impartiti nella scuola sono:  
+  
 1° Anno:  
-Embriologia ed anatomia dentaria e maxillo-facciale;  
-Microbiologia ed igiene orale;  
-Farmacologia;  
-Patologia odontostomatologica;  
-Odontotecnica;  
-Anestesia e chirurgia stomatologica;  
-Odontoiatria conservativa (1° anno) - biennale;  
-Esercitazioni pratiche.  
-2° Anno:  
-Odontoiatria conservativa (2° anno);  
-Clinica protesica dentaria e maxillo-facciale (1° anno) - biennale;  
-Paradontologia (1° anno) - biennale;  
-Anatomia ed istopatologia odontostomatologica;  
-Odontoiatria infantile;  
-Radiologia odontostomatologica;  
-Ortopedia dento-maxillo-facciale (1° anno) - biennale;  
-Chirurgia maxillo-facciale (1° anno) - biennale;  
-Esercitazioni pratiche.  
-3° Anno:  
-Clinica odontostomatologica;  
-Chirurgia maxillo-facciale (2° anno);  
-Medicina legale odontostomatologica e delle assicurazioni;  
-Ortopedia dento-maxillo-facciale (2- anno);  
-Clinica protesica dentaria e maxillo-facciale (2° anno);  
-Paradontologia (2° anno);  
-Esercitazioni pratiche.  
+1) Morfologia e morfogenesi normale e patologia del sangue e degli organi emopoietici (1° anno);  
+2) Genetica ematologica;  
+3) Fisiopatologia della coagulazione e della emostasi;  
+4) Fisiopatologia ematologica;  
+5) Fisiopatologia del plasma;  
+6) Biochimica e fisiopatologia ematologica;  
+7) Tecniche di laboratorio inerenti all'ematologia  
   
-La denominazione della "scuola di specializzazione in tisiologia" istituita con [decreto del Presidente della Repubblica 14 luglio 1970, n. 661](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-07-14;661), e' modificata in quella di "scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio".  
+2° Anno:  
+1) Morfologia e morfogenesi normale del sangue e degli organi emopoietici (2° anno);  
+2) Biochimica e fisiopatologia ematologica;  
+3) Immunoematologia;  
+4) Anatomia e istologia patologica delle emopatie e fondamenti di oneologia;  
+5) Patologia speciale ematolgica;  
+6) Clinica e terapia ematologica (1° anno):  
+7) Tecniche di laboratorio inerenti alla ematologia  
+  
+3° Anno:  
+1) Clinica e terapia ematologica (2° anno);  
+2) Nozioni di radiobiologia e di medicina nucleare applicata all'ematologia;  
+3) Radiodiagnostica e radioterapia in clinica ematologica;  
+4) Patologia speciale ematologica;  
+5) Terapia ematologica sistematica;  
+6) Terapia trasfusionale;  
+7) Tecniche di laboratorio (3° anno).  
+  
+Dopo l'articolo 213 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in "Endocrinologia".  
+  
+Scuola di specializzazione in endocrinologia  
+  
+Art. 214. - Presso la facolta' di medicina e chirurgia e istituita una scuola di specializzazione in endocrinologia.  
+Art. 215. - Il corso di studi della scuola di specializzazione in endocrinologia ha la durata di tre anni.  
+Art. 216. - La scuola non puo' accogliere piu' di sette iscritti per ogni anno di corso. L'ammissione al 1° anno della scuola, nel caso in cui il numero degli aspiranti muniti di titoli sufficienti superino quello dei posti disponibili, sara' fatta in base ad una graduatoria ricavata dalla valutazione dei titoli e da una prova scritta.  
+Art. 217. - Saranno consentite abbreviazioni di corso con le modalita' previste dalle disposizioni generali relative alle scuole di specializzazione della facolta' di medicina e chirurgia dell'Universita' di Catania.  
+Art. 218. - Gli insegnamenti impartiti nella scuola sono:  
+  
+1° Anno:  
+Anatomia ed embriologia degli organi endocrini;  
+Fisiologia endocrina;  
+Biochimica endocrina;  
+Anatomia patologica delle malattie endocrine (I);  
+Semeiotica e diagnostica endocrina (I).  
+  
+2° Anno:  
+Anatomia patologica delle malattie endocrine (II);  
+Semeiotica e diagnostica endocrina (II);  
+Patologia speciale medica e clinica delle malattie endocrine e delle auxopatie (I);  
+Eredopatologia endocrina.  
+  
+3° Anno:  
+Patologia speciale medica e clinica delle malattie endocrine e delle auxopatie (II);  
+Terapia delle malattie endocrine;  
+Insegnamenti facoltativi dei quali almeno uno, a scelta del candidato, sara' materia d'esame;  
+Endocrinologia ostetrico-ginecologica;  
+Neuroendocrinologia;  
+Tecniche di laboratori ed endocrinologiche.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 ottobre 1973
+### Dato a Roma, addi' 31 ottobre 1973
 
 LEONE MALFATTI
 
 Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 8 gennaio 1974
+Registrato alla Corte dei conti, addi' 28 ottobre 1974
 
-Atti di Governo, registro n. 1, foglio n. 6. - CARUSO
+Atti di Governo, registro n. 6, foglio n. 55. - SCIARRETTA

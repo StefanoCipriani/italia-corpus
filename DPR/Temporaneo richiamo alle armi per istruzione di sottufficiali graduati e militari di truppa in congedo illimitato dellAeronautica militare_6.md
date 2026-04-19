@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 agosto 1961 n. 1037
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1962 n. 1273
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 agosto 1961 n. 1037
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1962 n. 1273
 ==============================================================
 
 Temporaneo richiamo alle armi per istruzione di sottufficiali, graduati e militari di truppa in congedo illimitato dell'Aeronautica militare.
@@ -25,7 +25,7 @@ Art. 1
 ------
 
   
-Nel corso dell'esercizio finanziario 1961-1962 possono essere richiamati alle armi nell'Aeronautica militare, per esigenze speciali e per istruzione, diciotto sottufficiali di complemento e ottanta graduati e militari di truppa in congedo illimitato, di tutti i ruoli e categorie, purche' ancora soggetti a obblighi militari.  
+Nel corso dell'esercizio finanziario 1962-1963 possono essere richiamati alle armi nell'Aeronautica militare, per esigenze speciali e per istruzione, settecentotrentatre sottufficiali di complemento e diecimilacentosettanta graduati e militari di truppa in congedo illimitato, di tutti i ruoli e categorie, purche' ancora soggetti ad obblighi militari.  
 
 Art. 2
 ------
@@ -38,18 +38,18 @@ Art. 3
 ------
 
   
-I militari da richiamare ai sensi del presente decreto riceveranno apposita partecipazione personale in cui sara' indicato il giorno nel quale dovranno presentarsi e l'Ente o Reparto di destinazione.  
+I militari da richiamare ai sensi del presente decreto riceveranno apposita partecipazione personale in cui sara' indicato il giorno nel quale dovranno presentarsi e l'Ente o reparto di destinazione.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della, Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 agosto 1961
+### Dato a Roma, addi' 18 luglio 1962
 
-GRONCHI ANDREOTTI
+SEGNI ANDREOTTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 13 ottobre 1961
+Registrato alla Corte dei conti, addi' 24 agosto 1962
 
-Atti del Governo registro n. 141, foglio n. 3. - VILLA
+Atti del Governo, registro n. 158, foglio n. 39. - VILLA

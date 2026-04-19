@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 giugno 1985 n. 467
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 156
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 giugno 1985 n. 467
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 156
+===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-467. Decreto del Presidente della Repubblica 17 giugno 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella quota di meta' dei titoli Fundus depositati presso la S.A.I., valore complessivo L. 25.252.900 - quota 1/2 = L. 12.626.450, disposto dal sig. Fissore Antonio a favore dell'istituto "Don Gnocchi (mutilatini)", che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale 24 novembre 1979 del consiglio di amministrazione della fondazione stessa, con testamento olografo 6 novembre 1978, pubblicato in data 11 dicembre 1978, n. 67641 di repertorio e numero 41556 di raccolta, a rogito dott. Alberto Occelli, coadiutore temporaneo del dott. Giovanni Battista Picco, notaio in Torino, registrato a Torino il 15 dicembre 1978 al n. 51765.  
+156. Decreto del Presidente della Repubblica 26 febbraio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in depositi di conto correnti bancari per un saldo complessivo di L. 39.258.182, disposto dalla sig.ra Guzzetti Giuseppa ved. Sala, a favore dei ciechi di don Gnocchi, che si identificano con la fondazione medesima come ha fatto presente il presidente della stessa, con testamento olografo 10 ottobre 1976, pubblicato a rogito dottor Giovanni Olivares, notaio in Milano, in data 11 gennaio 1979, n. 170071/34850 di repertorio, registrato a Milano il 17 ottobre 1979 al n. A/ 2-01032, serie I.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 2 settembre 1985  
-Registro n. 8 Presidenza, foglio n. 157
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 31 marzo 1982  
+Registro n. 3 Presidenza, foglio n. 116

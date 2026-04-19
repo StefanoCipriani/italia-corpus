@@ -1,176 +1,75 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 giugno 1957 n. 617
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 gennaio 1956 n. 163
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 giugno 1957 n. 617
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 gennaio 1956 n. 163
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904) e successivi;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 157. - Agli insegnamenti complementari del corso di laurea in architettura e' aggiunto quello di:
-
-5) Complementi di matematica.
-
-Gli articoli 299 e 300, relativi alla scuola di perfezionamento in idrologia, crenologia e climatoterapia sono modificati come segue:
-
-Art. 299. - Scuola di perfezionamento in idrologia, crenologia e climatoterapia.
-
-a) La scuola ha la durata di due anni.
-
-b) Gli insegnamenti sono i seguenti:
-
-1° anno:
-
-1) Nozioni fisiche sui terreni-acque e atmosfera;
-
-2) Nozioni chimiche e chimico-fisiche, sui terreni, sulle acque e sulla atmosfera;
-
-3) Nozioni biologiche sui terreni, sulle acque e sull'atmosfera;
-
-4) Le azioni biologiche e medicamentose delle acque, dei terreni e dei climi: idrologia, crenologia, climatologia, ecc., la storia delle cure idroclimatologiche:
-
-5) Farmacologia delle acque minerali (1° corso)
-
-6) Igiene, vigilanza sanitaria, organizzazione e legislazione su acque, terreni e climi usati a scopo terapeutico e sulle stazioni di cura.
-
-2° anno:
-
-1) Farmacologia sulle acque minerali (2° corso)
-
-2) Nozioni generali di idroterapia clinica;
-
-3) Terapia idropinica in clinica;
-
-4) Lutoterapia in clinica;
-
-5) Talassoterapia e colonie fluviali;
-
-6) Climatoterapia clinica.
-
-c) Gli insegnamenti sono teorici e pratici e vengono integrati da esercitazioni di laboratorio e cliniche e da visite alle stazioni di cure crenotermali.
-
-Art. 300. - a) Gli esami dei vari corsi del 1° e del 2° anno si svolgono in due sedute: esame teorico, esame pratico (due statini).
-
-Il voto e' in trentesimi, media complessiva delle materie oggetto d'esame.
-
-b) L'esame di diploma consiste nella presentazione e discussione di una tesi scritta (tre copie). La votazione e' in cinquantesimi. Il diploma conferisce il titolo di "Specialista".
-
-Art. 309. - Agli insegnamenti del secondo corso della scuola di specializzazione in Medicina del lavoro e' aggiunto quello di:
-
-5) Radiologia e terapia fisica in rapporto alle malattie professionali.
-
-La denominazione della "Scuola di perfezionamento in malattie infettive" e' cambiata in "Scuola di specializzazione in malattie infettive e tropicali" Pertanto gli articoli 324 e 327, relativi alla predetta scuola sono modificati come segue:
-
-Art. 324. - Scuola di specializzazione in malattie infettive e tropicali.
-
-La scuola di specializzazione in malattie infettive e tropicali ha la durata di anni tre: ha sede presso la clinica delle malattie infettive e tropicali dell'Universita' ed e' diretta dal direttore della clinica stessa.
-
-Art. 327. Ordinamento degli studi: Agli insegnamenti del 2° anno e' aggiunto al n. 6) "Fisiopatologia dei tropici". Agli insegnamenti del 3° anno e' aggiunto al n. 6) "Clinica delle malattie tropicali".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta uffiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 14 giugno 1957
-
-GRONCHI
-
-MORO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 29 luglio 1957 Atti del Governo, registro n. 106, foglio n. 246. - CARLOMAGNO
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904) e successivi;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), modificato con [regi decreti 20 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-20;1904); [4 maggio 1942, n. 557](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-05-04;557); [5 settembre 1942, n. 1120 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-09-05;1120) [26 febbraio 1949, n. 612](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;612); [23 settembre 1949, n. 931](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;931); [30 ottobre 1949, n. 1059](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1059); [5 aprile 1950, n. 284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-04-05;284); [30 ottobre 1950, n. 1277](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1277); [31 ottobre 1950, n. 1311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1311); [18 aprile 1951, n. 934](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;934); [30 luglio 1951, n. 1304](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-07-30;1304); [27 ottobre 1951, n. 1680](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1680); [19 settembre 1952, n. 4551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-09-19;4551); [25 agosto 1953, n. 1117](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;1117); [26 aprile 1954, n. 738](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-04-26;738); [30 giugno 1954, n. 753](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-30;753); luglio 1954, n. 865; 24 agosto 1954, n. 987; 14 settembre 1954, n. 1056; 29 ottobre 1954, n. 1458; 29 ottobre 1954, n. 1465; 4 febbraio 1955, n. 71; 16 febbraio 1955, n. 220; 2 agosto 1955, n. 897 e 20 settembre 1955, n. 939;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 157. - Agli insegnamenti complementari del corso di laurea in architettura e' aggiunto quello di:   
-5) Complementi di matematica.   
-Gli articoli 299 e 300, relativi alla scuola di perfezionamento in idrologia, crenologia e climatoterapia sono modificati come segue:   
-Art. 299. - Scuola di perfezionamento in idrologia, crenologia e climatoterapia.   
-a) La scuola ha la durata di due anni.   
-b) Gli insegnamenti sono i seguenti:   
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-1° anno:   
+Dopo l'attuale art. 235, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della "Scuola di specializzazione in ispezione degli alimenti di origine annuale" con il conseguente spostamento della numerazione degli articoli successivi.  
   
-1) Nozioni fisiche sui terreni-acque e atmosfera;   
-2) Nozioni chimiche e chimico-fisiche, sui terreni, sulle acque e sulla atmosfera;   
-3) Nozioni biologiche sui terreni, sulle acque e sull'atmosfera;   
-4) Le azioni biologiche e medicamentose delle acque, dei terreni e dei climi: idrologia, crenologia, climatologia, ecc., la storia delle cure idroclimatologiche:   
-5) Farmacologia delle acque minerali (1° corso)   
-6) Igiene, vigilanza sanitaria, organizzazione e legislazione su acque, terreni e climi usati a scopo terapeutico e sulle stazioni di cura.   
+Scuola di specializzazione in ispezione  
+degli alimenti di origine animale  
   
-2° anno:   
-  
-1) Farmacologia sulle acque minerali (2° corso)   
-2) Nozioni generali di idroterapia clinica;   
-3) Terapia idropinica in clinica;   
-4) Lutoterapia in clinica;   
-5) Talassoterapia e colonie fluviali;   
-6) Climatoterapia clinica.   
-  
-c) Gli insegnamenti sono teorici e pratici e vengono integrati da esercitazioni di laboratorio e cliniche e da visite alle stazioni di cure crenotermali.   
-Art. 300. - a) Gli esami dei vari corsi del 1° e del 2° anno si svolgono in due sedute: esame teorico, esame pratico (due statini).  
-Il voto e' in trentesimi, media complessiva delle materie oggetto d'esame.   
-b) L'esame di diploma consiste nella presentazione e discussione di una tesi scritta (tre copie). La votazione e' in cinquantesimi. Il diploma conferisce il titolo di "Specialista".   
-Art. 309. - Agli insegnamenti del secondo corso della scuola di specializzazione in Medicina del lavoro e' aggiunto quello di:   
-5) Radiologia e terapia fisica in rapporto alle malattie professionali.   
-La denominazione della "Scuola di perfezionamento in malattie infettive" e' cambiata in "Scuola di specializzazione in malattie infettive e tropicali" Pertanto gli articoli 324 e 327, relativi alla predetta scuola sono modificati come segue:   
-Art. 324. - Scuola di specializzazione in malattie infettive e tropicali.   
-La scuola di specializzazione in malattie infettive e tropicali ha la durata di anni tre: ha sede presso la clinica delle malattie infettive e tropicali dell'Universita' ed e' diretta dal direttore della clinica stessa.   
-Art. 327. Ordinamento degli studi: Agli insegnamenti del 2° anno e' aggiunto al n. 6) "Fisiopatologia dei tropici". Agli insegnamenti del 3° anno e' aggiunto al n. 6) "Clinica delle malattie tropicali".   
+Art. 236. - E' istituita presso la Facolta' di medicina veterinaria una Scuola di specializzazione in ispezione degli alimenti di origine animale, la quale ha lo scopo di approfondire ed aggiornare la preparazione dei laureati in medicina veterinaria, che dovranno assolvere le complesse funzioni della direzione dei pubblici macelli, e di conferire il diploma di specialista a forma dell'[art. 178 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art178).  
+Art. 237. - La Scuola di specializzazione in ispezione degli alimenti di origine animale ha la durata di due anni e puo' essere frequentata solo da laureati in medicina veterinaria.  
+L'internato si svolge in un Istituto designato dal direttore della Scuola.  
+Art. 238. - Gli insegnamenti impartiti nella Scuola sono i seguenti:  
+1° anno:  
+1) Anatomia;  
+2) Fisiopatologia;  
+3) Approvvigionamento e conservazione degli alimenti di origine animale;  
+4) Anatomia patologica;  
+5) Legislazione sanitaria;  
+6) Microbiologia generale;  
+7) Valore alimentare delle carni di diversa origine;  
+2° anno:  
+1) Malattie infettive ed infestive;  
+2) Metodologia clinica applicata agli animali da macello e produttori del latte;  
+3) Ispezione sanitaria delle carni fresche e conservate, dei vari prodotti elaborati, dall'industria delle carni, dei prodotti della pesca, di quelli del latte (latticini ed altri prodotti dell'industria lattifera), delle carni di animale da cortile e della cacciagione (pollame, lepri, conigli, ecc.);  
+4) Microbiologia e diagnostica di laboratorio.  
+Art. 239. - Gli insegnamenti avranno indirizzo teorico-pratico nella prevalente forma di esercitazioni ispettive e verteranno su argomenti di particolare interesse per l'ispettore degli alimenti.  
+Essi saranno integrati da dimostrazioni pratiche sia presso la Facolta', sia presso stabilimenti di lavorazione prescelti dal Consiglio direttivo della Scuola.  
+Alla fine del 1° e 2° anno i candidati dovranno sostenere un esame teorico-pratico sul programma svolto in ciascun insegnamento.  
+Art. 240. - Per essere ammesso all'esame di diploma di specializzazione, che vertera' sulla discussione di una dissertazione scritta su argomenti di una delle materie svolte, l'iscritto dovra' aver frequentato i corsi e le esercitazioni pratiche, aver superata una prova sperimentale, nonche' gli esami delle singole materie teoriche relative alla Scuola di specializzazione.  
+Art. 211. - Il direttore della Scuola e' il professore di ruolo dell'insegnamento di ispezione degli alimenti di origine animale o di anatomia patologica; in mancanza di questi il Consiglio di facolta' lo designera' tra i propri membri.  
+Gli insegnanti della Scuola sono scelti dal Consiglio di facolta', su proposta del direttore, tra i professori di ruolo, tra i liberi docenti, tra gli aiuti ed assistenti, nonche' tra le persone di riconosciuta competenza nella specialita'. Il Consiglio direttivo della Scuola e' composto dai docenti chiamati a svolgere gli insegnamenti prescritti ed e' presieduto dal direttore. Questi stabilisce l'ordinamento e l'indirizzo degli studi nonche' il numero delle lezioni per ogni singolo insegnamento.  
+Art. 242. - La Commissione per gli esami di profitto e' composta dal professore della materia, dal direttore della Scuola e da un docente del corso medesimo. La Commissione di diploma, presieduta dal direttore della, Scuola e' costituita da sette membri scelti fra gli insegnanti della Scuola medesima.  
+Art. 243. - Il Consiglio della scuola stabilira' annualmente se i corsi dovranno effettuarsi qualora gli iscritti non raggiungano il numero prestabilito; come pure scegliera' con giudizio insindacabile gli allievi nel caso che il numero delle domande superi quello prefissato.  
+Art. 244. - Gli iscritti alla Scuola di specializzazione sono tenuti a pagare la tassa di iscrizione, le tasse e soprattasse di esame, la tassa di diploma, nonche' i contributi vari, secondo quanto stabilito per gli studenti della Facolta' di medicina veterinaria.  
+Inoltre gli iscritti dovranno versare un contributo di laboratorio, previsto dall'[art. 11 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art11).  
+Art. 248 (gia' 169). - Dopo il secondo comma e' aggiunto il seguente:  
+"E' inoltre concessa l'abbreviazione di un solo anno di corso, tuttavia con obbligo di frequenza e di esami, agli studiosi gia' specializzati in materie affini o fondamentali, dietro decisione della Facolta' che valutera' caso per caso, motivando tale abbreviazione in base a un giudizio di affinita' tra la specializzazione precedentemente conseguita e quella da conseguirsi".  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta uffiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della, Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 giugno 1957
+### Dato a Roma, addi' 30 gennaio 1956
 
-GRONCHI MORO
+GRONCHI ROSSI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: MORO
 
-Registrato alla Corte dei conti, addi' 29 luglio 1957
+Registrato alla Corte dei conti, addi' 26 marzo 1956
 
-Atti del Governo, registro n. 106, foglio n. 246. - CARLOMAGNO
+Atti del Governo, registro n. 96, foglio n. 174. - CARLOMAGNO

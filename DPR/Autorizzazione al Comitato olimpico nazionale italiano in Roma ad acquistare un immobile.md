@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1975 n. 256
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 febbraio 1975 n. 233
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1975 n. 256
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 febbraio 1975 n. 233
+===============================================================
 
 Autorizzazione al Comitato olimpico nazionale italiano, in Roma, ad acquistare un immobile.
 -------------------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-256. Decreto del Presidente della Repubblica 10 aprile 1975, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, il Comitato olimpico nazionale italiano (C.O.N.I.), in Roma, viene autorizzato ad acquistare, al prezzo di L. 64.715.000, un'area di mq 31286, situata nel comune di Napoli, delimitata a sud dal viale della Mostra, ad est dalla via Domiziana e ad ovest dal vico Starza I Ramo, distinta nel nuovo catasto terreni del comune di Napoli alla partita n. 1 "Aree di enti urbani e promiscui", sezione Chiaia, foglio 21, mappali 1, 2, 3, 4, 5, 6, 7, da destinare alla scuola napoletana di equitazione.  
+233. Decreto del Presidente della Repubblica 27 febbraio 1975, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, il Comitato olimpico nazionale italiano (C.O.N.I.), in Roma, viene autorizzato ad acquistare un appartamento in Genova, via Ippolito d'Asti n. 3/5, avente la consistenza catastale di mq 190 circa di superficie, cui si deve aggiungere un terrazzo di mq 58, al prezzo di L. 26.000.000, distinto nel nuovo catasto edilizio urbano di Genova alla partita n. 34368, foglio 107, mappale 108, sub 20, cat.  
+A/1, classe 4 per vani 10, per adibirlo a sede dell'organizzazione periferica dell'ente nella provincia di Genova.  
   
 Visto, il Guardasigilli: REALE  
 Registrato alla Corte dei conti, addi' 4 giugno 1975  
-Atti di Governo, registro n. 10, foglio n. 39
+Atti di Governo, registro n. 10, foglio n. 4

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1969 n. 259
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1949 n. 1058
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1969 n. 259
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1949 n. 1058
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
@@ -10,19 +10,15 @@ Modificazioni allo statuto dell'Universita' degli studi di Genova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
+Visto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regi decreti 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1927-10-13;2846), [25 ottobre 1928, n. 3510](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1928-10-25;3510), [31 ottobre 1929, n. 2396](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1929-10-31;2396), [30 ottobre 1930, n. 1859](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1930-10-30;1859), [10 ottobre 1931, n. 1371](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1931-10-10;1371), [27 ottobre 1932, n. 2086](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1932-10-27;2086), [6 dicembre 1934, n. 2281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-06;2281), [1 ottobre 1936, n. 2474](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-01;2474), [20 aprile 1939, n. 1086](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-04-20;1086), [16 marzo 1942, n. 324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-03-16;324), [5 settembre 1942, n. 1236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-09-05;1236), [24 ottobre 1942, n. 1671 e decreto del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1671) [2 novembre 1948, n. 1505](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-11-02;1505);
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Visto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Viste le proposte di modifica allo statuto formulate dalle autorita' accademiche della predetta Universita';
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita', accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove, modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -30,152 +26,163 @@ Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti anzidetti, e' ulteriormente modificato come appresso.
 
-Art. 29. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti quelli di:
+Dopo l'art. 158 vengono inseriti i seguenti nuovi articoli col conseguente spostamento della numerazione degli articoli successivi:
 
-Numismatica;
+Scuola di specializzazione in odontoiatria e protesi dentaria.
 
-Epigrafia greca;
+Art. 159. - La Scuola di specializzazione in odontoiatria e protesi dentaria e' annessa all'Istituto di odontoiatria.
 
-Epigrafia latina;
+Art. 160. - La Scuola di specializzazione in odontoiatria e protesi dentaria conferisce il diploma di specialista in odontoiatria e protesi dentaria.
 
-Storia quantitativa;
+Art. 161. - Gli anni di studio per il conseguimento del diploma sono due.
 
-Economia politica;
+Art. 162. - Le materie di insegnamento sono le seguenti, tutte obbligatorie ai fini della frequenza e dell'esame:
 
-Paleografia greca;
+a) anatomia dentale ed orale umana e comparata;
 
-Paleografia musicale;
+b) fisiologia e fisiopatologia dentale ed orale;
 
-Linguistica generale.
+c) istologia dentale normale e patologica;
 
-Art. 30.- All'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti quelli di:
+d) embriologia ed istogenesi;
 
-Glottologia;
+e) microbiologia orale;
 
-Linguistica generale;
+f) materia medica odontoiatrica;
 
-Teoria e storia della storiografia;
+g) storia dell'odontoiatria;
 
-Psicologia dell'eta' evolutiva.
+h) patologia dentale e semiologia;
 
-Art. 31. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne sono aggiunti quelli di:
+i) odontoiatria operativa;
 
-Linguistica generale;
+l) odontotecnica;
 
-Storia della lingua francese;
+m) protesi dentaria;
 
-Storia della lingua inglese;
+n) profilassi ed igiene dentaria;
 
-Storia della lingua tedesca;
+o) medicina orale;
 
-Storia della lingua spagnola;
+p) chirurgia dentale ed orale;
 
-Storia della lingua russa.
+q) ortopedia dento-facciale;
 
-Art. 45. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti quelli di:
+r) clinica odontoiatrica e protetica;
 
-Paleografia;
+s) radiologia dentaria;
 
-Geografia storica.
+t) medicina legale odontoiatrica;
 
-Art. 50. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di:
+u) lezioni complementari circa il rapporto della clinica odontoiatrica con le cliniche generali e speciali.
 
-Biochimica applicata.
+Art. 163. - Oltre le predette lezioni teoriche sono obbligatorie le seguenti esercitazioni individuali:
 
-Art. 80. - Nell'elenco degli insegnamenti del corso di laurea in ingegneria civile (sezione edile, idraulica e trasporti) ai due indirizzi e' aggiunto il seguente nuovo indirizzo:
+a) odontoiatria conservativa sul blocco e sul fantoccio;
 
-Indirizzo III:
+b) odontoiatria conservativa sul paziente;
 
-28) Materiali metallici per costruzioni civili c)
+c) odontotecnica;
 
-29) Strutture metalliche speciali c).
+d) chirurgia dentale ed orale;
 
-Nell'elenco delle materie obbligatorie sul piano della facolta' del terzo anno dei corsi di laurea in ingegneria elettrotecnica ed in ingegneria elettronica l'insegnamento di "Chimica applicata" b) e' soppresso e sostituito da quello di "Chimico-fisica applicata dei materiali solidi" b).
+e) ortopedia dento-facciale;
 
-Art. 104, relativo alla scuola di perfezionamento in storia - per l'indirizzo storia antica - e' modificato nel senso che e' aggiunto l'insegnamento complementare di:
+f) ambulatorio.
 
-19) "Papirologia".
+Art. 164. - Tutte le lezioni ed esercitazioni pratiche hanno luogo nell'Istituto clinico di odontoiatria e protesi dentaria dell'Universita', fatta eccezione di qualche corso e conferenza speciale in altri Istituti.
+
+Art. 165. - Un regolamento interno regola i doveri degli allievi nonche' l'orario delle singole lezioni ed esercitazioni.
+
+Art. 166. - Tutte le lezioni cattedratiche possono essere impartite in modo espositivo, dimostrativo, sperimentale, di colloquio o di conferenza a seconda delle opportunita' didattiche.
+
+Art. 167. - Gli esami di profitto saranno sostenuti in due gruppi, uno alla fine del primo anno e l'altro prima dell'esame di diploma.
+
+La spesa relativa al funzionamento della predetta scuola sara' a carico del bilancio ordinario dell'Universita' di Genova.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 31 marzo 1969
+Dato a Dogliani, addi' 30 ottobre 1949
 
-SARAGAT
+EINAUDI
 
-FERRARI AGGRADI
+GONELLA
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: GRASSI
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 28 maggio 1969 Atti del Governo, registro n. 227, foglio n. 2. - GRECO
+alla Corte dei conti, addi' 25 gennaio 1950 Atti del Governo, registro n. 31, foglio n. 59. - FRASCA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita', accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove, modifiche proposte;  
+Visto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regi decreti 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1927-10-13;2846), [25 ottobre 1928, n. 3510](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1928-10-25;3510), [31 ottobre 1929, n. 2396](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1929-10-31;2396), [30 ottobre 1930, n. 1859](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1930-10-30;1859), [10 ottobre 1931, n. 1371](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1931-10-10;1371), [27 ottobre 1932, n. 2086](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1932-10-27;2086), [6 dicembre 1934, n. 2281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-06;2281), [1 ottobre 1936, n. 2474](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-01;2474), [20 aprile 1939, n. 1086](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-04-20;1086), [16 marzo 1942, n. 324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-03-16;324), [5 settembre 1942, n. 1236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-09-05;1236), [24 ottobre 1942, n. 1671 e decreto del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1671) [2 novembre 1948, n. 1505](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-11-02;1505);  
+Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Visto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Viste le proposte di modifica allo statuto formulate dalle autorita' accademiche della predetta Universita';  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti anzidetti, e' ulteriormente modificato come appresso.  
+Dopo l'art. 158 vengono inseriti i seguenti nuovi articoli col conseguente spostamento della numerazione degli articoli successivi:  
   
-Art. 29. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti quelli di:  
-Numismatica;  
-Epigrafia greca;  
-Epigrafia latina;  
-Storia quantitativa;  
-Economia politica;  
-Paleografia greca;  
-Paleografia musicale;  
-Linguistica generale.  
-Art. 30.- All'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti quelli di:  
-Glottologia;  
-Linguistica generale;  
-Teoria e storia della storiografia;  
-Psicologia dell'eta' evolutiva.  
-Art. 31. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne sono aggiunti quelli di:  
-Linguistica generale;  
-Storia della lingua francese;  
-Storia della lingua inglese;  
-Storia della lingua tedesca;  
-Storia della lingua spagnola;  
-Storia della lingua russa.  
-Art. 45. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti quelli di:  
-Paleografia;  
-Geografia storica.  
-Art. 50. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di:  
-Biochimica applicata.  
-Art. 80. - Nell'elenco degli insegnamenti del corso di laurea in ingegneria civile (sezione edile, idraulica e trasporti) ai due indirizzi e' aggiunto il seguente nuovo indirizzo:  
-Indirizzo III:  
-28) Materiali metallici per costruzioni civili c)  
-29) Strutture metalliche speciali c).  
-Nell'elenco delle materie obbligatorie sul piano della facolta' del terzo anno dei corsi di laurea in ingegneria elettrotecnica ed in ingegneria elettronica l'insegnamento di "Chimica applicata" b) e' soppresso e sostituito da quello di "Chimico-fisica applicata dei materiali solidi" b).  
-Art. 104, relativo alla scuola di perfezionamento in storia - per l'indirizzo storia antica - e' modificato nel senso che e' aggiunto l'insegnamento complementare di:  
-19) "Papirologia".  
+Scuola di specializzazione in odontoiatria e protesi dentaria.  
+  
+Art. 159. - La Scuola di specializzazione in odontoiatria e protesi dentaria e' annessa all'Istituto di odontoiatria.  
+Art. 160. - La Scuola di specializzazione in odontoiatria e protesi dentaria conferisce il diploma di specialista in odontoiatria e protesi dentaria.  
+Art. 161. - Gli anni di studio per il conseguimento del diploma sono due.  
+Art. 162. - Le materie di insegnamento sono le seguenti, tutte obbligatorie ai fini della frequenza e dell'esame:  
+a) anatomia dentale ed orale umana e comparata;  
+b) fisiologia e fisiopatologia dentale ed orale;  
+c) istologia dentale normale e patologica;  
+d) embriologia ed istogenesi;  
+e) microbiologia orale;  
+f) materia medica odontoiatrica;  
+g) storia dell'odontoiatria;  
+h) patologia dentale e semiologia;  
+i) odontoiatria operativa;  
+l) odontotecnica;  
+m) protesi dentaria;  
+n) profilassi ed igiene dentaria;  
+o) medicina orale;  
+p) chirurgia dentale ed orale;  
+q) ortopedia dento-facciale;  
+r) clinica odontoiatrica e protetica;  
+s) radiologia dentaria;  
+t) medicina legale odontoiatrica;  
+u) lezioni complementari circa il rapporto della clinica odontoiatrica con le cliniche generali e speciali.  
+Art. 163. - Oltre le predette lezioni teoriche sono obbligatorie le seguenti esercitazioni individuali:  
+a) odontoiatria conservativa sul blocco e sul fantoccio;  
+b) odontoiatria conservativa sul paziente;  
+c) odontotecnica;  
+d) chirurgia dentale ed orale;  
+e) ortopedia dento-facciale;  
+f) ambulatorio.  
+Art. 164. - Tutte le lezioni ed esercitazioni pratiche hanno luogo nell'Istituto clinico di odontoiatria e protesi dentaria dell'Universita', fatta eccezione di qualche corso e conferenza speciale in altri Istituti.  
+Art. 165. - Un regolamento interno regola i doveri degli allievi nonche' l'orario delle singole lezioni ed esercitazioni.  
+Art. 166. - Tutte le lezioni cattedratiche possono essere impartite in modo espositivo, dimostrativo, sperimentale, di colloquio o di conferenza a seconda delle opportunita' didattiche.  
+Art. 167. - Gli esami di profitto saranno sostenuti in due gruppi, uno alla fine del primo anno e l'altro prima dell'esame di diploma.  
+La spesa relativa al funzionamento della predetta scuola sara' a carico del bilancio ordinario dell'Universita' di Genova.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 marzo 1969
+### Dato a Dogliani, addi' 30 ottobre 1949
 
-SARAGAT FERRARI AGGRADI
+EINAUDI GONELLA
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: GRASSI
 
-Registrato alla Corte dei conti, addi' 28 maggio 1969
+Registrato alla Corte dei conti, addi' 25 gennaio 1950
 
-Atti del Governo, registro n. 227, foglio n. 2. - GRECO
+Atti del Governo, registro n. 31, foglio n. 59. - FRASCA

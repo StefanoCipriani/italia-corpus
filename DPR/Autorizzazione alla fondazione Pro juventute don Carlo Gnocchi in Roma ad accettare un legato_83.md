@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1984 n. 1007
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 gennaio 1976 n. 38
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1984 n. 1007
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 gennaio 1976 n. 38
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,13 +12,8 @@ Art. 1
 
 N.
 
-1007. Decreto del Presidente della Repubblica 22 ottobre 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la   
-fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene   
-autorizzata ad accettare il legato, consistente nella somma di L. 35.000.000 con possibilita' di aumentare o diminuire tale importo in funzione del successivo realizzo delle attivita' da parte degli esecutori testamentari, disposto dalla sig.ra Gentili Andreina ved.   
-Pagnani, con testamento olografo 1 aprile 1981 pubblicato in data 3   
-dicembre 1981, n. 12044/2772 di repertorio, a rogito dott. Giuseppe   
-Ottolenghi, notaio in Roma, registrato a Roma in data 21 dicembre 1981, al numero 48308/I.A.   
+38. Decreto del Presidente della Repubblica 23 gennaio 1976, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla signora Benussi-Bossi Cecchina, con testamenti olografi 20 giugno 1965 e 30 novembre 1970, pubblicati a rogito del dott. Alberto Gallizia, notaio in Milano, in data 19 giugno 1973, n. 10196/1806 di repertorio e registrati a Milano il 5 luglio 1973 con il n. 12577, serie D, consistente nella somma di L. 1.500.000.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 25 gennaio 1985   
-Registro n. 1 Presidenza, foglio n. 180
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 3 marzo 1976  
+Atti di Governo, registro n. 3, foglio n. 56

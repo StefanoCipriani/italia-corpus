@@ -1,133 +1,453 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1973 n. 1107
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 ottobre 1977 n. 1047
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1973 n. 1107
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 ottobre 1977 n. 1047
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Sassari.
 -------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084) e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Sassari, e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+L'art. 77, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel modo seguente:
+
+La scuola di specializzazione in malattie dell'apparato digerente muta la denominazione in quella di scuola di specializzazione in gastroenterologia ed endoscopia digestiva.
+
+La scuola di specializzazione in chirurgia muta la denominazione in quella di scuola di specializzazione in chirurgia generale.
+
+Nello stesso elenco e' aggiunta la scuola di specializzazione in oftalmologia.
+
+Gli articoli 101, 102, 103, 104 e 105, relativi alla scuola di specializzazione in malattie dell'apparato digerente che muta la denominazione in quella di scuola di specializzazione in gastroenterologia ed endoscopia digestiva, sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in gastroenterologia ed endoscopia digestiva
+
+Art. 101. - La scuola di specializzazione in gastroenterologia ed endoscopia digestiva ha sede presso la clinica medica e conferisce il diploma di specialista in gastroenterologia ed endoscopia digestiva.
+
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.
+
+E' richiesto almeno all'inizio del corso il possesso del diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.
+
+Art. 102. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.
+
+Il numero massimo degli allievi e' di sei per anno di corso e complessivamente di ventiquattro iscritti per l'intero corso di studi.
+
+L'ammissione al corso avviene per titoli ed esami.
+
+Art. 103. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+anatomia clinica;
+
+farmacologia clinica;
+
+chimica, clinica, coprologia, parassitologia;
+
+genetica;
+
+biostatistica ed epidemiologia.
+
+2° Anno:
+
+clinica medica generale I;
+
+clinica e terapia del tubo digerente, fegato, pancreas I;
+
+anatomia ed istologia patologica I;
+
+fisiopatologia e semeiotica digestiva I;
+
+radiologia e medicina nucleare I;
+
+scienza dell'alimentazione e dietetica.
+
+3° Anno:
+
+clinica medica generale II;
+
+clinica e terapia del tubo digerente, fegato e pancreas II;
+
+anatomia ed istologia patologica II;
+
+fisiopatologia e semeiotica digestiva II;
+
+radiologia e medicina nucleare II;
+
+endoscopia digestiva I.
+
+4° Anno:
+
+clinica medica generale III;
+
+clinica e terapia del tubo digerente, fegato e pancreas III;
+
+endoscopia digestiva II;
+
+terapia intensiva;
+
+gastroenterologia pediatrica;
+
+elementi di chirurgia del tubo digerente, fegato e pancreas.
+
+Art. 104. - E' obbligatorio il tirocinio pratico durante il quadriennio di studi da svolgere nell'istituto clinico sede della scuola o in reparti ospedalieri di gastroenterologia, conforme alle scelte approvate dal consiglio della scuola.
+
+Ogni scuola puo' aggiungere a queste materie fondamentali obbligatorie delle materie complementari con corsi semestrali, in numero non superiore a sei per la totalita' del corso.
+
+Per le materie biennali o triennali sara' dato l'esame alla fine del biennio o triennio.
+
+La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.
+
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Art. 105. - Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno; per le materie biennali e triennali, invece, sara' dato l'esame alla fine del biennio o del triennio.
+
+Al termine del corso di studi per il conseguimento del diploma di specialista in gastroenterologia ed endoscopia digestiva, gli interessati dovranno superare lo esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+
+Gli articoli 128, 129 e 130, relativi alla scuola di specializzazione in neurochirurgia sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in neurochirurgia.
+
+Art. 128. - Presso l'istituto di clinica neurochirurgica e' istituita la scuola di specializzazione in neurochirurgia.
+
+La scuola conferisce il diploma di specialista in neurochirurgia.
+
+Il corso ha la durata di cinque anni.
+
+Art. 129. - Le materie di insegnamento ed i piani di studio sono:
+
+1° Anno:
+
+neuroanatomia, neurofisiologia;
+
+semeiotica e clinica neurologica;
+
+elementi di psichiatria;
+
+clinica neurochirurgica I.
+
+2° Anno:
+
+neuro-oftalmologia;
+
+neuro-otoiatria;
+
+neurofisiologia clinica;
+
+clinica neurochirurgica II.
+
+3° Anno:
+
+neuroanestesia e rianimazione;
+
+neuroradiologia I;
+
+neuropatologia;
+
+clinica neurologica III.
+
+4° Anno:
+
+neuroradiologia II;
+
+neurotraumatologia;
+
+tecniche operatorie I;
+
+clinica neurochirurgica IV.
+
+5° Anno:
+
+neurochirurgia funzionale e stereotossica;
+
+neurochirurgia infantile;
+
+tecniche operatorie II;
+
+clinica neurochirurgica V.
+
+Art. 130. - Potranno essere ammessi alla scuola i laureati in medicina e chirurgia. Il numero massimo degli iscritti e' di quattro per anno. Le ammissioni avvengono per titoli ed esami. Agli anni successivi al primo sono ammessi gli allievi che abbiano regolarmente frequentato il corso precedente e superati i relativi esami di profitto. Le prove d'esame per ciascun anno di corso riguardano gli insegnamenti impartiti in quello anno, secondo il piano di studio.
+
+Gli esami possono essere sostenuti in due sessioni: estiva e autunnale. Gli allievi che chiedono il trasferimento da altra Universita' potranno essere ammessi alla scuola secondo i modi di legge. Sono ammessi all'esame di diploma gli allievi che abbiano superato tutti gli esami di profitto.
+
+L'esame di diploma consiste nella discussione orale di una tesi scritta su un tema precedentemente approvato dal direttore della scuola.
+
+Abbreviazioni di corso non sono consentite per alcun motivo.
+
+La frequenza e' obbligatoria per un periodo di almeno nove mesi per anno accademico. Il corso comprende lezioni, seminari, esercitazione e internato presso l'istituto di clinica neurochirurgica. Deroghe parziali dall'obbligo dell'internato potranno essere concesse, nei limiti delle norme vigenti, unicamente agli assistenti e borsisti che prestino regolare servizio in istituti universitari di neurochirurgia. Soggiorni di studio presso istituti italiani e stranieri sono ammessi solo previa presentazione di un programma di ricerca che dovra' essere approvato dal direttore della scuola.
+
+L'art. 135, relativo alla scuola di specializzazione in chirurgia che muta la denominazione in quella di scuola di specializzazione in chirurgia generale, e' abrogato e sostituito dal seguente:
+
+"Alla facolta' di medicina e chirurgia dell'Universita' di Sassari e' annessa la scuola di specializzazione in chirurgia generale con sede presso l'istituto di clinica chirurgica. La scuola conferisce il diploma di specializzazione in chirurgia generale. Il corso ha la durata di cinque anni".
+
+Dopo l'art. 137, e con il conseguente spostamento dalla numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in oftalmologia.
+
+Art. 138. - Presso l'istituto di clinica oculistica e' istituita la scuola di specializzazione in oftalmologia che ha lo scopo di conferire la necessaria competenza a coloro che vogliono specificatamente dedicarsi a questa branca della medicina.
+
+Art. 139. - Il corso ha la durata di quattro anni. Gli iscritti hanno l'obbligo di frequentare per tutto il quadriennio le lezioni, le esercitazioni e le dimostrazioni, prestando servizio come medici interni della clinica.
+
+Art. 140. - Al corso possono iscriversi solo i laureati in medicina e chirurgia. Il numero degli allievi che possono essere accolti nella scuola viene fissato nel numero massimo di quattro per ciascun anno di corso.
+
+Nel caso che il numero degli aspiranti ad un corso superi il numero massimo previsto, l'ammissione verra' fatta in base ai risultati di un esame di selezione. Le norme di iscrizione alla scuola sono quelle generali delle scuole di specializzazione dell'Universita' di Sassari.
+
+In particolare ogni iscritto e' tenuto a pagare le seguenti tasse e soprattasse:
+
+tassa di immatricolazione. . . . . . . . . . . . . . . . . . L. 6.000 tassa annuale di iscrizione. . . . . . . . . . . . . . . . . " 60.000 tassa esame di diploma. . . . . . . . . . . . . . . . . . . . " 6.000 soprattassa esame di profitto . . . . . . . . . . . . . . . . " 7.000 soprattassa esame di diploma. . . . . . . . . . . . . . . . . " 3.000 tassa annuale per fuoricorso . . . . . . . . . . . . . . . . " 50.000
+
+I contributi vengono fissati dal consiglio di amministrazione dell'Universita', su proposta del consiglio di facolta' udito il direttore della scuola.
+
+Art. 141. - Gli insegnamenti impartiti nella scuola per ciascun anno di corso e che formano materie di esame al termine di ciascun anno di corso, sono i seguenti:
+
+1° Anno:
+
+anatomia e istologia dell'apparato oculare;
+
+nozioni di embriologia e genetica oculare;
+
+fisiologia dell'occhio e nozioni di biochimica (di tessuti e dei liquidi oculari;
+
+nozioni di ottica fisiologica, esame della refrazione;
+
+microbiologia ed igiene oculare.
+
+2° Anno:
+
+semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmologia, perimetria, compimetria, adattometria, senso cromatico, tonometria, tonografia, esami elettrofunzionali, radiologia);
+
+farmacologia oculare e terapia fisica;
+
+anatomia patologica oculare;
+
+patologia e clinica oculare (malattie delle palpebre, della congiuntiva, delle vie lacrimali, della cornea e della sclera).
+
+3° Anno:
+
+patologia e clinica oculare (malattie dell'uvea, della retina, del nervo ottico e delle vie ottiche dell'occhio nella sua totalita' o dell'orbita, glaucoma);
+
+anomalie e patologia della motilita' oculare e della visione binoculare;
+
+ortottica e pleottica;
+
+affezioni otorinolaringoiatriche e occhio;
+
+tecnica operatoria (prima parte).
+
+4° Anno:
+
+neurooftalmologia;
+
+malattie oculari in rapporto ad affezioni generali;
+
+malattie professionali;
+
+infortunistica e medicina legale oculare;
+
+tecnica operatoria (seconda parte);
+
+tesi di specializzazione.
+
+La direzione della scuola ha la facolta' di organizzare conferenze, dimostrazioni e seminari da tenersi da docenti di altre materie che abbiano attinenza con gli scopi della scuola.
+
+Art. 142. - Al termine di ciascun anno di corso gli allievi sono tenuti a sostenere un esame sulle materie di insegnamento dell'anno stesso, di fronte ad una commissione composta dal direttore della scuola e da almeno altri due insegnanti di materie di corso. In seguito al risultato degli esami, la commissione stabilira' la loro idoneita' o meno ad essere ammessi al successivo anno di corso.
+
+Art. 143. - Al termine del quarto anno di corso gli allievi che hanno superato gli esami delle materie di detto anno, vengono ammessi a sostenere l'esame di diploma. Tale esame consiste nella presentazione di una tesi di specializzazione scritta su un argomento di oftalmologia, preventivamente assegnato dalla direzione della scuola, nel sostenere la relativa discussione e in una prova pratica sull'ammalato.
+
+Art. 144. - Agli allievi che hanno superato l'esame finale di diploma viene rilasciato il diploma di specialista in oftalmologia valido a tutti gli effetti di legge.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 10 ottobre 1977
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 21 gennaio 1978 Registro n. 6 Istruzione, foglio n. 203
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084) e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084) e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Sassari, e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+L'art. 77, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel modo seguente:  
   
-Art. 39 - all'elenco degli istituti annessi alla facolta' di medicina e chirurgia, l'istituto di tisiologia muta denominazione in quella di "Istituto di tisiologia e malattie dell'apparato respiratorio".   
-L'art. 40, relativo all'ordinamento del corso di laurea in medicina e chirurgia, e' modificato nel senso che prima dell'ultimo comma vengono inseriti i seguenti:   
-"Gli esami di biologia e zoologia generale (compresa la genetica e la biologia delle razze) e di chimica biologica devono essere superati prima dell'esame di microbiologia.   
-L'esame di microbiologia deve essere superato prima degli esami di patologia generale, igiene e malattie infettive.   
-Il colloquio di anatomia e istologia patologica, deve essere sostenuto dopo aver superato l'esame di patologia generale.   
-L'esame di patologia generale deve precedere tutti gli esami di insegnamenti clinici, sia fondamentali che complementari".   
-Gli articoli 52, 53, 54 e 55 relativi al corso di laurea in medicina veterinaria sono abrogati e sostituiti dai seguenti:   
+La scuola di specializzazione in malattie dell'apparato digerente muta la denominazione in quella di scuola di specializzazione in gastroenterologia ed endoscopia digestiva.  
+La scuola di specializzazione in chirurgia muta la denominazione in quella di scuola di specializzazione in chirurgia generale.  
+Nello stesso elenco e' aggiunta la scuola di specializzazione in oftalmologia.  
+Gli articoli 101, 102, 103, 104 e 105, relativi alla scuola di specializzazione in malattie dell'apparato digerente che muta la denominazione in quella di scuola di specializzazione in gastroenterologia ed endoscopia digestiva, sono abrogati e sostituiti dai seguenti:  
   
-Art. 52. - La facolta' di medicina veterinaria conferisce la laurea in medicina veterinaria.   
-Il corso di laurea in medicina veterinaria si effettua mediante un ciclo di studi della durata di cinque anni, diviso in un periodo propedeutico durante il quale viene impartito l'insegnamento di base teorico e pratico ed in un periodo dedicato all'insegnamento veterinario specifico.   
-Il titolo di ammissione al corso di laurea e' quello previsto dalle leggi in vigore.   
-Gli studenti iscritti ed i laureati presso altre facolta' possono essere ammessi a frequentare il corso di laurea in medicina veterinaria previa valutazione della carriera universitaria seguita.   
-La facolta' delibera circa l'ammissione dello studente o del laureato ad uno degli anni del corso e, caso per caso, decide la convalida degli insegnamenti seguiti e degli esami sostenuti.   
-I cinque anni di studio comportano l'insegnamento teorico e pratico, con esercitazioni e seminari in non meno di 4.500 (quattromilacinquecento) ore relative alle materie di base ed alle materie veterinarie specifiche, piu' avanti elencate, ed a non meno di tre insegnamenti complementari integrativi scelti dallo studente fra quelli proposti dalla facolta'.   
-Il periodo di insegnamento di base comporta almeno 560 (cinquecentosessanta) ore di lezioni teoriche e pratiche, esercitazioni e seminari, ripartite come segue fra le materie appresso indicate:   
+Scuola di specializzazione in gastroenterologia ed endoscopia digestiva  
   
+Art. 101. - La scuola di specializzazione in gastroenterologia ed endoscopia digestiva ha sede presso la clinica medica e conferisce il diploma di specialista in gastroenterologia ed endoscopia digestiva.  
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto almeno all'inizio del corso il possesso del diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.  
+Art. 102. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.  
+Il numero massimo degli allievi e' di sei per anno di corso e complessivamente di ventiquattro iscritti per l'intero corso di studi.  
+L'ammissione al corso avviene per titoli ed esami.  
+Art. 103. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+anatomia clinica;  
+farmacologia clinica;  
+chimica, clinica, coprologia, parassitologia;  
+genetica;  
+biostatistica ed epidemiologia.  
+2° Anno:  
+clinica medica generale I;  
+clinica e terapia del tubo digerente, fegato, pancreas I;  
+anatomia ed istologia patologica I;  
+fisiopatologia e semeiotica digestiva I;  
+radiologia e medicina nucleare I;  
+scienza dell'alimentazione e dietetica.  
+3° Anno:  
+clinica medica generale II;  
+clinica e terapia del tubo digerente, fegato e pancreas II;  
+anatomia ed istologia patologica II;  
+fisiopatologia e semeiotica digestiva II;  
+radiologia e medicina nucleare II;  
+endoscopia digestiva I.  
+4° Anno:  
+clinica medica generale III;  
+clinica e terapia del tubo digerente, fegato e pancreas III;  
+endoscopia digestiva II;  
+terapia intensiva;  
+gastroenterologia pediatrica;  
+elementi di chirurgia del tubo digerente, fegato e pancreas.  
+Art. 104. - E' obbligatorio il tirocinio pratico durante il quadriennio di studi da svolgere nell'istituto clinico sede della scuola o in reparti ospedalieri di gastroenterologia, conforme alle scelte approvate dal consiglio della scuola.  
+Ogni scuola puo' aggiungere a queste materie fondamentali obbligatorie delle materie complementari con corsi semestrali, in numero non superiore a sei per la totalita' del corso.  
+Per le materie biennali o triennali sara' dato l'esame alla fine del biennio o triennio.  
+La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.  
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
+Art. 105. - Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno; per le materie biennali e triennali, invece, sara' dato l'esame alla fine del biennio o del triennio.  
+Al termine del corso di studi per il conseguimento del diploma di specialista in gastroenterologia ed endoscopia digestiva, gli interessati dovranno superare lo esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
+Gli articoli 128, 129 e 130, relativi alla scuola di specializzazione in neurochirurgia sono abrogati e sostituiti dai seguenti:  
   
+Scuola di specializzazione in neurochirurgia.  
   
-Fisica. . . . . . . . . . . . . . . . . . . . . . . . . . ore 120  
-Chimica I . . . . . . . . . . . . . . . . . . . . . . . . ore 100  
-Chimica II. . . . . . . . . . . . . . . . . . . . . . . . ore 100  
-Zoologia. . . . . . . . . . . . . . . . . . . . . . . . . ore 120  
-Botanica . . . . . . . . . . . . . . . . . . . . . . . . .ore 90  
-Metodi matematici applicati alle scienze biologiche  
-(biomatematica). . . . . . . . . . . . . . . . . . . . . .ore 30  
+Art. 128. - Presso l'istituto di clinica neurochirurgica e' istituita la scuola di specializzazione in neurochirurgia.  
+La scuola conferisce il diploma di specialista in neurochirurgia.  
+Il corso ha la durata di cinque anni.  
+Art. 129. - Le materie di insegnamento ed i piani di studio sono:  
+1° Anno:  
+neuroanatomia, neurofisiologia;  
+semeiotica e clinica neurologica;  
+elementi di psichiatria;  
+clinica neurochirurgica I.  
+2° Anno:  
+neuro-oftalmologia;  
+neuro-otoiatria;  
+neurofisiologia clinica;  
+clinica neurochirurgica II.  
+3° Anno:  
+neuroanestesia e rianimazione;  
+neuroradiologia I;  
+neuropatologia;  
+clinica neurologica III.  
+4° Anno:  
+neuroradiologia II;  
+neurotraumatologia;  
+tecniche operatorie I;  
+clinica neurochirurgica IV.  
+5° Anno:  
+neurochirurgia funzionale e stereotossica;  
+neurochirurgia infantile;  
+tecniche operatorie II;  
+clinica neurochirurgica V.  
+Art. 130. - Potranno essere ammessi alla scuola i laureati in medicina e chirurgia. Il numero massimo degli iscritti e' di quattro per anno. Le ammissioni avvengono per titoli ed esami. Agli anni successivi al primo sono ammessi gli allievi che abbiano regolarmente frequentato il corso precedente e superati i relativi esami di profitto. Le prove d'esame per ciascun anno di corso riguardano gli insegnamenti impartiti in quello anno, secondo il piano di studio.  
+Gli esami possono essere sostenuti in due sessioni: estiva e autunnale. Gli allievi che chiedono il trasferimento da altra Universita' potranno essere ammessi alla scuola secondo i modi di legge. Sono ammessi all'esame di diploma gli allievi che abbiano superato tutti gli esami di profitto.  
+L'esame di diploma consiste nella discussione orale di una tesi scritta su un tema precedentemente approvato dal direttore della scuola.  
+Abbreviazioni di corso non sono consentite per alcun motivo.  
+La frequenza e' obbligatoria per un periodo di almeno nove mesi per anno accademico. Il corso comprende lezioni, seminari, esercitazione e internato presso l'istituto di clinica neurochirurgica. Deroghe parziali dall'obbligo dell'internato potranno essere concesse, nei limiti delle norme vigenti, unicamente agli assistenti e borsisti che prestino regolare servizio in istituti universitari di neurochirurgia. Soggiorni di studio presso istituti italiani e stranieri sono ammessi solo previa presentazione di un programma di ricerca che dovra' essere approvato dal direttore della scuola.  
+L'art. 135, relativo alla scuola di specializzazione in chirurgia che muta la denominazione in quella di scuola di specializzazione in chirurgia generale, e' abrogato e sostituito dal seguente:  
+"Alla facolta' di medicina e chirurgia dell'Universita' di Sassari e' annessa la scuola di specializzazione in chirurgia generale con sede presso l'istituto di clinica chirurgica. La scuola conferisce il diploma di specializzazione in chirurgia generale. Il corso ha la durata di cinque anni".  
+Dopo l'art. 137, e con il conseguente spostamento dalla numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in oftalmologia.  
+Art. 138. - Presso l'istituto di clinica oculistica e' istituita la scuola di specializzazione in oftalmologia che ha lo scopo di conferire la necessaria competenza a coloro che vogliono specificatamente dedicarsi a questa branca della medicina.  
+Art. 139. - Il corso ha la durata di quattro anni. Gli iscritti hanno l'obbligo di frequentare per tutto il quadriennio le lezioni, le esercitazioni e le dimostrazioni, prestando servizio come medici interni della clinica.  
+Art. 140. - Al corso possono iscriversi solo i laureati in medicina e chirurgia. Il numero degli allievi che possono essere accolti nella scuola viene fissato nel numero massimo di quattro per ciascun anno di corso.  
+Nel caso che il numero degli aspiranti ad un corso superi il numero massimo previsto, l'ammissione verra' fatta in base ai risultati di un esame di selezione. Le norme di iscrizione alla scuola sono quelle generali delle scuole di specializzazione dell'Universita' di Sassari.  
+In particolare ogni iscritto e' tenuto a pagare le seguenti tasse e soprattasse:  
   
-  
-  
-Il periodo di insegnamento veterinario specifico comporta non meno di 3.760 (tremilasettecentosessanta) ore di lezioni teoriche e pratiche, esercitazioni e seminari, ripartite come segue fra le materie appresso indicate e raggruppate ai sensi della tabella XXXIII allegata al [decreto del Presidente della Repubblica 23 ottobre 1969, n. 987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-10-23;987):   
-  
-  
-  
-Anatomia veterinaria sistematica e comparata I. . . . . . ore 100 Anatomia veterinaria sistematica e comparata II . . . . . ore 100 Anatomia topografica veterinaria . . . . . . . . . . . . . ore 90 Teratologia. . . . . . . . . . . . . . . . . . . . . . . . ore 30 Istologia generale e speciale (anatomia microscopica). . . ore 80 Embriologia veterinaria. . . . . . . . . . . . . . . . . . ore 40 Fisiologia generale e speciale veterinaria I e fisica biologica . . . . . . . . . . . . . . . . . . . . . . . ore 100 Fisiologia generale e speciale veterinaria II e fisica biologica . . . . . . . . . . . . . . . . . . . . . . . ore 100 Biochimica veterinaria. . . . . . . . . . . . . . . . . . ore 100 Zootecnica I (igiene, aspetti esteriori degli animali, etnologia). . . . . . . . . . . . . . . . . . . . . . . ore 110 Zootecnica II (genetica e allevamento) . . . . . . . . . . ore 60 Alimentazione e nutrizione animale. . . . . . . . . . . . ore 130 Economia rurale e agronomia. . . . . . . . . . . . . . . . ore 50 Farmacologia e farmacodinamia veterinaria. . . . . . . . . ore 60 Farmacia e terapeutica generale veterinaria. . . . . . . . ore 45 Tossicologia veterinaria . . . . . . . . . . . . . . . . . ore 45 Anatomia patologica veterinaria generale e speciale I. . . ore 75 Anatomia patologica veterinaria e speciale II. . . . . . . ore 75 Autopsie . . . . . . . . . . . . . . . . . . . . . . . . . ore 50 Propedeutica I (semiologia medica veterinaria e metodologia clinica) . . . . . . . . . . . . . . . . . . . . . . . . ore 60 Propedeutica II (semiologia chirurgica veterinaria e metodologia clinica) . . . . . . . . . . . . . . . . . . . . . . . . ore 60 Patologia generale veterinaria . . . . . . . . . . . . . . ore 50 Microbiologia generale veterinaria (batteriologia, virologia, immunologia) . . . . . . . . . . . . . . . . . . . . . . ore 50 Patologia e profilassi delle malattie infettive degli animali domestici I. . . . . . . . . . . . . . . . . . . . . . . ore 75 Patologia e profilassi delle malattie infettive degli animali domestici I. . . . . . . . . . . . . . . . . . . . . . . ore 75 Parassitologia veterinaria (con micologia, protozoologia, entomologia, elmintologia) . . . . . . . . . . . . . . . ore 60 Malattie parassitarie degli animali domestici. . . . . . . ore 50 Polizia sanitaria, medicina legale veterinaria, legislazione veterinaria e deontologia. . . . . . . . . . . . . . . . ore 30 Patologia medica degli animali domestici (ruminanti, equini, carnivori, suini, pollame, conigli, etc.). . . . . . . .ore 150 Ostetricia veterinaria . . . . . . . . . . . . . . . . . . ore 80 Patologia della riproduzione e fecondazione artificiale veterinaria. . . . . . . . . . . . . . . . . . . . . . . ore 70 Patologia chirurgica veterinaria e podologia . . . . . . . ore 80 Medicina operatoria veterinaria. . . . . . . . . . . . . . ore 70 Ispezione e controllo delle derrate alimentari di origine animale I (carni, latte, pesce, uova, etc.). . . . . . . . . . . ore 80 Ispezione e controllo delle derrate alimentari di origine animale II (carni, latte, pesce, uova, etc.) . . . . . . . . . . ore 80 Lavori pratici nei macelli . . . . . . . . . . . . . . . . ore 50 Clinica medica veterinaria. . . . . . . . . . . . . . . . ore 275 Clinica chirurgica veterinaria. . . . . . . . . . . . . . ore 275 Clinica ostetrica e ginecologica veterinaria. . . . . . . ore 275 Patologia aviare . . . . . . . . . . . . . . . . . . . . .ore 275 Radiologia veterinaria . . . . . . . . . . . . . . . . . . ore 50   
-  
-Le ore che restano per raggiungere il numero previsto di 4.500 (quattromilacinquecento) dovranno essere ripartite fra tre insegnamenti complementari scelti dallo studente nel seguente elenco:   
-  
-  
-  
-Anestesiologia;  
-Approvvigionamenti annonari, mercati e industrie degli alimenti di origine animale;  
-Biochimica applicata;  
-Diagnostica di laboratorio;  
-Ecologia;  
-Ematologia clinica comparata;  
-Endocrinologia degli animali domestici;  
-Etnografia;  
-Fisioclimatologia;  
-Idrobiologia e pescicoltura;  
-Igiene del latte;  
-Igiene e controllo dei prodotti della pesca;  
-Istituzioni di matematica;  
-Istologia patologica;  
-Ittiopatologia;  
-Lingua straniera;  
-Oftalmologia comparata;  
-Patologia bovina;  
-Patologia ovina;  
-Patologia tropicale;  
-Scienza e tecnica dell'allevamento del bestiame;  
-Scienza e tecnica della fecondazione artificiale;  
-Storia della medicina veterinaria;  
-Tecnica conserviera;  
-Tecnica mangimistica;  
-Tecnologia avicola;  
-Virologia;  
-Zooculture.  
-  
-  
-  
-La facolta' stabilisce, annualmente, nell'ambito della propria autonomia didattica, tenuto conto delle esigenze dell'esercizio professionale, i piani di studio per le materie previste come insegnamenti e per gli insegnamenti complementari integrativi.   
-La facolta' stabilisce altresi' il numero delle ore da attribuire per lo svolgimento dei singoli corsi e le modalita' di esame per singole materie o per gruppi. Il titolare dell'insegnamento puo' istituire colloqui su parti prefissate della materia. Per il raggiungimento del numero di ore fissate negli insegnamenti clinici e' utilizzabile il periodo semestrale di tirocinio pratico di cui al successivo art. 55 del presente statuto.   
-  
-Art. 53. - Gli esami di "Istologia generale e speciale (anatomia microscopica)", "Embriologia veterinaria" e "Zoologia" devono precedere quello di "Anatomia sistematica comparata I"; l'esame di "Chimica" (chimica I e chimica II) quello di "Biochimica".   
-Gli esami di "Anatomia topografica veterinaria", "Teratologia veterinaria" e "Zootecnica I" saranno preceduti da quelli di "Anatomia veterinaria sistematica e comparata I e II" ed il superamento di questi ultimi e degli esami di "Fisica" e "Biochimica veterinaria" e' condizione indispensabile per essere ammessi all'esame di "Fisiologia generale e speciale veterinaria I".   
-Gli esami di "Zootecnica II", "Alimentazione e nutrizione animale", "Patologia generale veterinaria", "Farmacologia e farmacodinamia veterinaria", "Farmacia e terapia generale veterinaria" e "Tossicologia veterinaria" saranno preceduti da quelli di "Fisiologia generale e speciale veterinaria I e II".   
-Gli esami di "Anatomia patologica veterinaria generale e speciale I e II", "Patologia e profilassi delle malattie infettive degli animali domestici I e II", "Propedeutica I e II", "Ostetricia veterinaria" devono essere preceduti da quelli di "Patologia generale veterinaria", "Parassitologia veterinaria", "Malattie parassitarie degli animali domestici", "Farmacologia e farmacodinamia veterinaria", "Farmacia e terapeutica generale veterinaria", "Tossicologia veterinaria" e "Microbiologia generale veterinaria".   
-Gli esami di "Ispezione e controllo delle derrate alimentari di origine animale I e II" saranno preceduti da quelli di "Anatomia patologica veterinaria generale e speciale I e II", "Patologia aviare", "Autopsie", "Polizia sanitaria - Medicina legale veterinaria - Legislazione veterinaria e deontologia".   
-Agli effetti dell'ammissione agli esami sono altresi' considerati propedeutici: "Anatomia topografica veterinaria" per "Propedeutica I e II" e per "Ostetricia veterinaria"; "Botanica" per "Farmacologia e farmacodinamia veterinaria", "Farmacia e terapeutica generale veterinaria", "Tossicologia veterinaria" e per "Alimentazione e nutrizione animale"; "Metodi matematici applicati alle scienze biologiche (Biomatematica)" per "Fisiologia generale e speciale veterinaria I"; "Zootecnica II" per "Economia rurale e agronomia"; "Anatomia patologica veterinaria generale e speciale I e II" per "Patologia aviare"; "Propedeutica I" per "Patologia medica degli animali domestici" e questo per "Clinica medica veterinaria"; "Propedeutica I" per "Patologia chirurgica veterinaria e podologia" questo per "Clinica chirurgica veterinaria" e quest'ultimo ancora per "Medicina operatoria veterinaria"; "Radiologia veterinaria" per "Patologia medica degli animali domestici" e "Patologia chirurgica veterinaria e podologia"; "Ostetricia veterinaria" per "Patologia della riproduzione e fecondazione artificiale" e questo per "Clinica ostetrica e ginecologica veterinaria"; "Ispezione e controllo delle derrate alimentari di origine animale I e II" per "Lavori pratici nei macelli".   
-Gli esami di clinica medica, clinica chirurgica e clinica ostetrica comportano una prova teorica ed una pratica.   
-  
-Art. 54. - Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami corrispondenti a tutti gli insegnamenti fondamentali: (cioe' quelli del periodo propedeutico e del periodo di insegnamento veterinario specifico) e a non meno di tre insegnamenti scelti fra i complementari attivati dalla facolta', i cui corsi siano stati, dallo studente, regolarmente frequentati.   
-L'esame di laurea consiste nella discussione orale di una dissertazione scritta e di due tesine orali su materie diverse fra loro ed a quella sulla quale verte la dissertazione scritta, approvate dai professori della rispettiva disciplina.   
-La dissertazione scritta ed i titoli delle tesine, devono essere depositati, con la firma del candidato, alla segreteria della facolta' almeno 15 giorni prima della data di inizio degli esami di laurea.   
-  
-Art. 55. - Gli insegnamenti di "Clinica medica", di "Clinica chirurgica", di "Clinica ostetrica", di "Ispezione e controllo delle derrate alimentari" e delle materie del gruppo zootecnico ("Genetica e allevamento" e "Alimentazione e nutrizione degli animali domestici") debbono essere completati da un tirocinio pratico, della durata complessiva di almeno sei mesi, da compiersi presso istituti o dipartimenti della facolta' di medicina veterinaria o presso istituti zooprofilattici sperimentali o presso civici macelli o altri enti od uffici pubblici riconosciuti idonei dalla facolta'. Il tirocinio pratico deve essere iniziato dopo la chiusura dei corsi di insegnamento del 5° anno e deve essere completato prima che il laureato si presenti a sostenere l'esame di abilitazione all'esercizio professionale.   
-  
-Norma transitoria   
-  
-Gli studenti immatricolati entro l'anno accademico 1970-71 all'atto della entrata in vigore delle suddette modifiche di statuto possono optare per il corso di laurea in quattro o cinque anni. All'uopo devono presentare regolare domanda per integrare gli esami secondo quanto stabilira', caso per caso, il consiglio di facolta'.   
-L'art. 74, relativo all'ordinamento del corso di laurea in scienze naturali, e' modificato nel senso che prima dell'ultimo comma e' aggiunto il seguente:   
-"Per gli studenti di scienze naturali l'esame di istituzioni di matematiche deve precedere quello di fisica; gli esami di chimica generale ed inorganica e di fisica debbono precedere quello di chimica organica; l'esame di chimica organica deve precedere quelli di chimica biologica e di fisiologia generale (biennale)".   
+tassa di immatricolazione. . . . . . . . . . . . . . . . . . L. 6.000 tassa annuale di iscrizione. . . . . . . . . . . . . . . . . " 60.000 tassa esame di diploma. . . . . . . . . . . . . . . . . . . . " 6.000 soprattassa esame di profitto . . . . . . . . . . . . . . . . " 7.000 soprattassa esame di diploma. . . . . . . . . . . . . . . . . " 3.000 tassa annuale per fuoricorso . . . . . . . . . . . . . . . . " 50.000   
+I contributi vengono fissati dal consiglio di amministrazione dell'Universita', su proposta del consiglio di facolta' udito il direttore della scuola.  
+Art. 141. - Gli insegnamenti impartiti nella scuola per ciascun anno di corso e che formano materie di esame al termine di ciascun anno di corso, sono i seguenti:  
+1° Anno:  
+anatomia e istologia dell'apparato oculare;  
+nozioni di embriologia e genetica oculare;  
+fisiologia dell'occhio e nozioni di biochimica (di tessuti e dei liquidi oculari;  
+nozioni di ottica fisiologica, esame della refrazione;  
+microbiologia ed igiene oculare.  
+2° Anno:  
+semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmologia, perimetria, compimetria, adattometria, senso cromatico, tonometria, tonografia, esami elettrofunzionali, radiologia);  
+farmacologia oculare e terapia fisica;  
+anatomia patologica oculare;  
+patologia e clinica oculare (malattie delle palpebre, della congiuntiva, delle vie lacrimali, della cornea e della sclera).  
+3° Anno:  
+patologia e clinica oculare (malattie dell'uvea, della retina, del nervo ottico e delle vie ottiche dell'occhio nella sua totalita' o dell'orbita, glaucoma);  
+anomalie e patologia della motilita' oculare e della visione binoculare;  
+ortottica e pleottica;  
+affezioni otorinolaringoiatriche e occhio;  
+tecnica operatoria (prima parte).  
+4° Anno:  
+neurooftalmologia;  
+malattie oculari in rapporto ad affezioni generali;  
+malattie professionali;  
+infortunistica e medicina legale oculare;  
+tecnica operatoria (seconda parte);  
+tesi di specializzazione.  
+La direzione della scuola ha la facolta' di organizzare conferenze, dimostrazioni e seminari da tenersi da docenti di altre materie che abbiano attinenza con gli scopi della scuola.  
+Art. 142. - Al termine di ciascun anno di corso gli allievi sono tenuti a sostenere un esame sulle materie di insegnamento dell'anno stesso, di fronte ad una commissione composta dal direttore della scuola e da almeno altri due insegnanti di materie di corso. In seguito al risultato degli esami, la commissione stabilira' la loro idoneita' o meno ad essere ammessi al successivo anno di corso.  
+Art. 143. - Al termine del quarto anno di corso gli allievi che hanno superato gli esami delle materie di detto anno, vengono ammessi a sostenere l'esame di diploma. Tale esame consiste nella presentazione di una tesi di specializzazione scritta su un argomento di oftalmologia, preventivamente assegnato dalla direzione della scuola, nel sostenere la relativa discussione e in una prova pratica sull'ammalato.  
+Art. 144. - Agli allievi che hanno superato l'esame finale di diploma viene rilasciato il diploma di specialista in oftalmologia valido a tutti gli effetti di legge.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 ottobre 1973
+### Dato a Roma, addi' 10 ottobre 1977
 
 LEONE MALFATTI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 1 giugno 1974
+Registrato alla Corte dei conti, addi' 21 gennaio 1978
 
-Atti di Governo, registro n. 4, foglio n. 6. - SCIARRETTA
+Registro n. 6 Istruzione, foglio n. 203

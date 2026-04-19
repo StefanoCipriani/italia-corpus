@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 maggio 1976 n. 530
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 419
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 maggio 1976 n. 530
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 419
 =============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una donazione.
@@ -10,10 +10,10 @@ Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad ac
 Art. 1
 ------
 
-N.
+n.
 
-530. Decreto del Presidente della Repubblica 24 maggio 1976, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare la donazione disposta dalla sig.ra Troiani Piretti Aurora con atto 1 agosto 1973, n. 16387/1705 di repertorio, a rogito dott. Ferruccio Brambilla, notaio in Milano, registrato a Busto Arsizio (Varese) il 7 agosto 1973, n. 2163, vol. 154, consistente in cinque decimi di un appartamento sito in Milano, via Ajaccio, 6, del valore complessivo di L. 8.000.000.  
+419. Decreto del Presidente della Repubblica 9 aprile 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare la donazione, consistente nella nuda proprieta' di un appartamento sito in Milano alla via Graziano Imperatore n. 32/34 distinto nel nuovo catasto edilizio urbano alla partita n. 27688, foglio 75, mappale 11, valore della nuda proprieta' L. 4.500.000, disposta dalla sig.ra Cattaneo Giuseppina in Locatelli con atto 4 marzo 1980, n. 213527/6808 di repertorio, a rogito dott. Oscar De Magistris, notaio in Milano, registrato a Milano in data 13 maggio 1980 al n. 5907.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 19 luglio 1976  
-Atti di Governo, registro n. 7, foglio n. 84
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 12 luglio 1986  
+Registro n. 7 Presidenza, foglio n. 16

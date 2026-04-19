@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 865
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1192
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 865
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1192
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,152 +18,415 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere del Consiglio universitario nazionale;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Sulla
------
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 174 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono aggiunte le scuole in "Allergologia e immunologia clinica" e in "Chirurgia d'urgenza e pronto soccorso".
+
+Dopo l'art. 223 sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in "Allergologia ed immunologia clinica" e in "Chirurgia d'urgenza e pronto soccorso".
+
+Scuola di specializzazione in allergologia ed immunologia clinica
+
+Art. 224. - La scuola di specializzazione ha sede presso l'istituto di clinica medica II.
+
+La durata del corso e' di tre anni.
+
+La frequenza e' obbligatoria.
+
+Il numero degli iscritti e' di cinque per ciascun anno di corso.
+
+Art. 225. - Il piano di studi della scuola comprende i seguenti insegnamenti:
+
+Allergia ed apparato digerente (annuale);
+
+Basi immunologiche e patogenesi dell'allergia (biennale);
+
+Istopatologia generale (annuale);
+
+La patologia allergica in riferimento ai diversi agenti eziologici (annuale);
+
+La patologia autoimmune (annuale);
+
+Semeiotica e diagnostica allergologica (biennale);
+
+Patologia dell'allergia dell'apparato respiratorio (annuale);
+
+Allergia ed otorinolaringoiatria (annuale);
+
+Le malattie cutanee e patogenesi allergica (annuale);
+
+Clinica dell'allergia dell'apparato respiratorio (annuale);
+
+Allergia ed altri organi ed apparati (annuale);
+
+La terapia specifica ed aspecifica delle sindromi allergiche (annuale);
+
+Allergopatie professionali (annuale).
+
+Art. 226. - La ripartizione degli insegnamenti nel tre anni di corso e' la seguente:
+
+1° Anno:
+
+Basi immunologiche e patogenesi dell'allergia (1° corso);
+
+Istopatologia generale;
+
+La patologia allergica in riferimento ai diversi agenti eziologici;
+
+La patologia autoimmune;
+
+Semeiotica e diagnostica allergologica (1° corso).
+
+2° Anno:
+
+Basi immunologiche e patogenesi dell'allergia (2° corso);
+
+Semeiotica e diagnostica allergologica (2° corso);
+
+Patologia dell'allergia dell'apparato respiratorio;
+
+Allergia ed otorinolaringoiatria;
+
+Le malattie cutanee e patogenesi allergica.
+
+3° Anno:
+
+Clinica dell'allergia dell'apparato respiratorio;
+
+Allergia ed apparato digerente;
+
+Allergia ed altri organi ed apparati;
+
+La terapia specifica ed aspecifica delle sindromi allergiche;
+
+Allergopatie professionali.
+
+Art. 227. - L'ammissione alla scuola avverra' per titoli ed esami.
+
+Il direttore della scuola, al di fuori dei docenti incaricati ufficialmente, potra' invitare studiosi competenti ad impartire lezioni o conferenze su argomenti di speciale interesse allergologico od immunologico.
+
+Per ottenere l'iscrizione alla scuola occorre presentare:
+
+1) domanda in carta legale indirizzata al rettore;
+
+2) certificato di laurea (riportante i voti conseguiti in ogni esame).
+
+Gli iscritti alla scuola dovranno pagare le tasse, soprattasse e contributi nella misura stabilita per gli studenti della facolta' di medicina e chirurgia.
+
+Scuola di specializzazione in chirurgia d'urgenza e pronto soccorso
+
+Art. 228. - La scuola di specializzazione in chirurgia d'urgenza e di pronto soccorso conferisce il diploma di specialista in chirurgia d'urgenza e di pronto soccorso. Gli anni necessari per il conseguimento del diploma sono quattro.
+
+Il numero complessivo degli iscritti alla scuola e' di dieci per ogni anno di corso, per un totale di quaranta iscritti. La selezione dei candidati aspiranti all'ammissione alla scuola avverra' sulla base di titoli ed esami.
+
+Art. 229. - Le materie impartite nella scuola sono le seguenti:
+
+Anatomia chirurgica;
+
+Chirurgia cardio-vascolare d'urgenza;
+
+Anestesiologia;
+
+Chirurgia d'urgenza e di pronto soccorso (quadriennale);
+
+Chirurgia generale (quadriennale);
+
+Chirurgia ginecologica d'urgenza;
+
+Chirurgia plastica e riparatrice (biennale);
+
+Chirurgia pediatrica d'urgenza;
+
+Chirurgia toracica d'urgenza;
+
+Chirurgia urologica d'urgenza;
+
+Fisiopatologia del politraumatizzato;
+
+Neurotraumatologia (biennale);
+
+Radiologia;
+
+Rianimazione;
+
+Ricerche di laboratorio in chirurgia d'urgenza;
+
+Semeiotica chirurgica;
+
+Trattamento del politraumatizzato;
+
+Trattamento pre o post-operatorio in chirurgia;
+
+Traumatologia dell'apparato locomotore (biennale);
+
+Traumatologia maxillo-facciale;
+
+Valutazione medico-legale delle lesioni chirurgiche.
+
+Art. 230. - La ripartizione degli insegnamenti nei quattro anni di corso e' la seguente:
+
+1° Anno:
+
+Chirurgia d'urgenza e di pronto soccorso (1° corso);
+
+Chirurgia generale (1° corso);
+
+Traumatologia dell'apparato locomotore (1° corso);
+
+Anestesiologia;
+
+Ricerche di laboratorio in chirurgia d'urgenza;
+
+Semeiotica chirurgica;
+
+Radiologia;
+
+Traumatologia maxillo-facciale.
+
+2° Anno:
+
+Chirurgia d'urgenza e di pronto soccorso (2° corso);
+
+Chirurgia generale (2° corso);
+
+Traumatologia dell'apparato locomotore (2° corso);
+
+Chirurgia plastica-riparatrice (1° corso);
+
+Anatomia chirurgica;
+
+Trattamento pre o post-operatorio in chirurgia d'urgenza;
+
+Chirurgia ginecologica d'urgenza;
+
+Chirurgia urologica d'urgenza.
+
+3° Anno:
+
+Chirurgia d'urgenza e di pronto soccorso (3° corso);
+
+Chirurgia generale (3° corso);
+
+Neurotraumatologia (1° corso);
+
+Chirurgia plastica-riparatrice (2° corso);
+
+Valutazione medico-legale delle lesioni chirurgiche;
+
+Chirurgia toracica d'urgenza;
+
+Chirurgia cardio-vascolare d'urgenza;
+
+Chirurgia pediatrica d'urgenza.
+
+4° Anno:
+
+Chirurgia d'urgenza e di pronto soccorso (4° corso);
+
+Chirurgia generale (4° corso);
+
+Neurotraumatologia (2° corso);
+
+Fisiopatologia del politraumatizzato;
+
+Trattamento del politraumatizzato;
+
+Rianimazione.
+
+Art. 231. - La frequenza alle lezioni ed alle esercitazioni e' obbligatoria per tutti gli iscritti.
+
+L'internato e' obbligatorio durante tutti i quattro anni del corso, che si svolgera' presso l'istituto di clinica chirurgica, con presenza giornaliera nei vari reparti.
+
+Dall'obbligo di tale internato potranno essere esentati quegli allievi che, in qualita' di aiuti o di assistenti di ruolo prestino servizio presso reparti di chirurgia d'urgenza e di pronto soccorso delle universita' o di ospedali regionali o provinciali.
+
+Il direttore e gli insegnanti della scuola si accerteranno, durante l'anno accademico, dell'operosita' scolastica degli allievi, con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno.
+
+L'allievo che non abbia ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali.
+
+Alla fine del corso l'allievo, inoltre, dovra' sostenere un esame generale di profitto che consistera' nella discussione di una dissertazione scritta su di un tema assegnato dal direttore della scuola.
+
+I candidati gia' in possesso della specializzazione in chirurgia generale potranno essere iscritti al 2° anno della scuola di specializzazione in chirurgia d'urgenza e di pronto soccorso, dovranno pero' a tal fine superare l'esame di "Traumatologia maxillo-facciale".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1973
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: ZAGARI
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 19 novembre 1974 Atti di Governo, registro n. 6, foglio n. 138. - SCIARRETTA
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-L'art. 192, relativo all'elenco delle scuole di specializzazione in medicina e chirurgia, e' modificato nel senso che le scuole di specializzazione in clinica dermosifilopatica ed ortopedia e traumatologia mutano rispettivamente la denominazione in quella di scuola di specializzazione in dermatologia e venereologia e scuola di specializzazione in ortopedia.  
-
-Art. 2
-------
-
+Decreta:   
   
-L'art. 222, relativo alla scuola di specializzazione in clinica dermosifilopatica, che muta la denominazione in quella di scuola di specializzazione in dermatologia e venereologia e' soppresso e sostituito dal seguente:  
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 174 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono aggiunte le scuole in "Allergologia e immunologia clinica" e in "Chirurgia d'urgenza e pronto soccorso".   
+Dopo l'art. 223 sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in "Allergologia ed immunologia clinica" e in "Chirurgia d'urgenza e pronto soccorso".   
   
-Scuola di specializzazione in dermatologia e venereologia  
-Art. 222.- La scuola di specializzazione in dermatologia e venereologia ha sede presso la clinica dermatologica dell'Universita', e conferisce il diploma di specializzazione in dermatologia e venereologia.  
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazioni.  
-Il numero massimo degli allievi e' di dieci per anno di corso e complessivamente di trenta iscritti per l'intero corso di studi.  
-L'ammissione al corso avviene per titoli ed esami.  
-Le materie d'insegnamento sono le seguenti:  
-1° Anno:  
-anatomia ed istologia normale della cute;  
-fisiologia della cute e degli annessi;  
-anatomia e fisiologia dell'apparato genitale;  
-microbiologia e parassitologia applicate;  
-tecniche di laboratorio applicate alla disciplina;  
-semeiotica dermatologica e venereologica.  
-2° Anno:  
-patologia delle malattie cutanee;  
-patologia delle infezioni veneree;  
-istopatologia e citologia dermatologica e venereologica;  
-immunopatologia cutanea;  
-dermatologia allergologica e professionale;  
-angiologia;  
-sessuologia.  
-3° Anno:  
-clinica delle malattie cutanee;  
-clinica delle infezioni veneree;  
-dermatologia pediatrica;  
-farmacologia e terapia;  
-fisioterapia dermatologica;  
-cosmetologia;  
-chirurgia plastica riparatrice;  
-igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.  
-Il corso di lezioni deve essere impartito mediante almeno 50 lezioni annuali, comprensive delle varie materie, e la frequenza giornaliera degli iscritti non deve essere inferiore alle 4 ore effettive per tutta la durata dell'anno accademico. Gli specializzandi hanno percio' obblighi di frequenza continuativa a fini di apprendimento onde seguire i corsi di lezioni e svolgere contemporaneamente esercitazione pratica nelle corsie, negli ambulatori e nei laboratori.  
-Gli esami di profitto vengono sostenuti in due sessioni.  
-L'esame di diploma consiste nell'esposizione e discussione di un argomento della disciplina su un tema dato al candidato 24 ore prima della prova.  
-
-Art. 3
-------
-
+Scuola di specializzazione in allergologia ed immunologia clinica   
+Art. 224. - La scuola di specializzazione ha sede presso l'istituto di clinica medica II.   
+La durata del corso e' di tre anni.   
+La frequenza e' obbligatoria.   
+Il numero degli iscritti e' di cinque per ciascun anno di corso.   
+Art. 225. - Il piano di studi della scuola comprende i seguenti insegnamenti:   
   
-L'art. 250, relativo alla scuola di specializzazione in ortopedia e traumatologia, che muta la denominazione in quella di scuola di specializzazione in ortopedia, e' soppresso e sostituito dal seguente:  
+Allergia ed apparato digerente (annuale);   
+Basi immunologiche e patogenesi dell'allergia (biennale);   
+Istopatologia generale (annuale);   
+La patologia allergica in riferimento ai diversi agenti eziologici (annuale);   
+La patologia autoimmune (annuale);   
+Semeiotica e diagnostica allergologica (biennale);   
+Patologia dell'allergia dell'apparato respiratorio (annuale);   
+Allergia ed otorinolaringoiatria (annuale);   
+Le malattie cutanee e patogenesi allergica (annuale);   
+Clinica dell'allergia dell'apparato respiratorio (annuale);   
+Allergia ed altri organi ed apparati (annuale);   
+La terapia specifica ed aspecifica delle sindromi allergiche (annuale);   
+Allergopatie professionali (annuale).   
   
-Scuola di specializzazione in ortopedia  
-Art. 250. - La scuola di specializzazione in ortopedia ha sede presso l'istituto di clinica ortopedica I e conferisce il diploma di specialista in ortopedia. La scuola comprende un insegnamento teorico e pratico.  
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.  
-La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazioni.  
-Il numero massimo degli allievi e' complessivamente di cinquantadue iscritti per l'intero corso di studi.  
-L'ammissione al corso avviene per titoli ed esami.  
-Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-Insegnamento pratico:  
-chirurgia generale;  
-pronto soccorso generale;  
-fisioterapia.  
-Insegnamento teorico:  
-anatomia dell'apparato locomotore;  
-fisiologia dell'apparato locomotore;  
-semeiotica ortopedica;  
-nozioni di chirurgia generale;  
-bioingegneria dell'apparato locomotore I.  
-2° Anno:  
-Insegnamento pratico:  
-chirurgia generale (con frequenza eventuale in reparti specialistici per l'apparato locomotore);  
-reparti di pronto soccorso traumatologico;  
-reparti di ortopedia e traumatologia.  
-Insegnamento teorico:  
-anatomia ed istologia patologica dell'apparato locomotore I; patologia dell'apparato locomotore I;  
-clinica ortopedica I;  
-traumatologia dell'apparato locomotore I;  
-riadiologia I;  
-nozioni di chirurgia d'urgenza e pronto soccorso;  
-bioingegneria dell'apparato locomotore II.  
-3° Anno:  
-Insegnamento pratico:  
-reparti di ortopedia e traumatologia (in particolare sale di degenza e sale gessi).  
-Insegnamento teorico:  
-anatomia ed istologia patologica dell'apparato locomotore II; patologia dell'apparato locomotore II;  
-clinica ortopedica II;  
-traumatologia dell'apparato locomotore II;  
-radiologia II;  
-tecnica operatoria I;  
-apparatoterapia e tecnica degli apparecchi gessati;  
-elementi di reumatologia.  
-4° Anno:  
-Insegnamento pratico:  
-reparti di ortopedia e traumatologia (frequenza nei reparti operatori).  
-Insegnamento teorico:  
-patologia dell'apparato locomotore III;  
-clinica ortopedica III;  
-traumatologia dell'apparato locomotore III;  
-tecnica operatoria II;  
-fisiokinesiterapia I;  
-neuropatologia dell'apparato locomotore ed elettrodiagnostica;  
-nozioni di medicina legale.  
-5° Anno:  
-Insegnamento pratico:  
-reparti di ortopedia e traumatologia (frequenza nei reparti operatori);  
-officine ortopediche.  
-Insegnamento teorico:  
-patologia dell'apparato locomotore IV;  
-clinica ortopedica IV;  
-traumatologia dell'apparato locomotore IV;  
-tecnica operatoria III;  
-fisioterapia II.  
-La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.  
-Alla fine di ogni corso gli iscritti, per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.  
-Al termine del corso di studi per il conseguimento del diploma di specialista in ortopedia gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
+Art. 226. - La ripartizione degli insegnamenti nel tre anni di corso e' la seguente:   
+  
+1° Anno:   
+Basi immunologiche e patogenesi dell'allergia (1° corso);   
+Istopatologia generale;   
+La patologia allergica in riferimento ai diversi agenti eziologici;   
+La patologia autoimmune;   
+Semeiotica e diagnostica allergologica (1° corso).   
+  
+2° Anno:   
+Basi immunologiche e patogenesi dell'allergia (2° corso);   
+Semeiotica e diagnostica allergologica (2° corso);   
+Patologia dell'allergia dell'apparato respiratorio;   
+Allergia ed otorinolaringoiatria;   
+Le malattie cutanee e patogenesi allergica.   
+  
+3° Anno:   
+Clinica dell'allergia dell'apparato respiratorio;   
+Allergia ed apparato digerente;   
+Allergia ed altri organi ed apparati;   
+La terapia specifica ed aspecifica delle sindromi allergiche;   
+Allergopatie professionali.   
+  
+Art. 227. - L'ammissione alla scuola avverra' per titoli ed esami.   
+Il direttore della scuola, al di fuori dei docenti incaricati ufficialmente, potra' invitare studiosi competenti ad impartire lezioni o conferenze su argomenti di speciale interesse allergologico od immunologico.   
+Per ottenere l'iscrizione alla scuola occorre presentare:   
+1) domanda in carta legale indirizzata al rettore;   
+2) certificato di laurea (riportante i voti conseguiti in ogni esame).   
+Gli iscritti alla scuola dovranno pagare le tasse, soprattasse e contributi nella misura stabilita per gli studenti della facolta' di medicina e chirurgia.   
+  
+Scuola di specializzazione in chirurgia d'urgenza e pronto soccorso   
+Art. 228. - La scuola di specializzazione in chirurgia d'urgenza e di pronto soccorso conferisce il diploma di specialista in chirurgia d'urgenza e di pronto soccorso. Gli anni necessari per il conseguimento del diploma sono quattro.   
+Il numero complessivo degli iscritti alla scuola e' di dieci per ogni anno di corso, per un totale di quaranta iscritti. La selezione dei candidati aspiranti all'ammissione alla scuola avverra' sulla base di titoli ed esami.   
+Art. 229. - Le materie impartite nella scuola sono le seguenti:   
+  
+Anatomia chirurgica;   
+Chirurgia cardio-vascolare d'urgenza;   
+Anestesiologia;   
+Chirurgia d'urgenza e di pronto soccorso (quadriennale);   
+Chirurgia generale (quadriennale);   
+Chirurgia ginecologica d'urgenza;   
+Chirurgia plastica e riparatrice (biennale);   
+Chirurgia pediatrica d'urgenza;   
+Chirurgia toracica d'urgenza;   
+Chirurgia urologica d'urgenza;   
+Fisiopatologia del politraumatizzato;   
+Neurotraumatologia (biennale);   
+Radiologia;   
+Rianimazione;   
+Ricerche di laboratorio in chirurgia d'urgenza;   
+Semeiotica chirurgica;   
+Trattamento del politraumatizzato;   
+Trattamento pre o post-operatorio in chirurgia;   
+Traumatologia dell'apparato locomotore (biennale);   
+Traumatologia maxillo-facciale;   
+Valutazione medico-legale delle lesioni chirurgiche.   
+  
+Art. 230. - La ripartizione degli insegnamenti nei quattro anni di corso e' la seguente:   
+  
+1° Anno:   
+Chirurgia d'urgenza e di pronto soccorso (1° corso);   
+Chirurgia generale (1° corso);   
+Traumatologia dell'apparato locomotore (1° corso);   
+Anestesiologia;   
+Ricerche di laboratorio in chirurgia d'urgenza;   
+Semeiotica chirurgica;   
+Radiologia;   
+Traumatologia maxillo-facciale.   
+  
+2° Anno:   
+Chirurgia d'urgenza e di pronto soccorso (2° corso);   
+Chirurgia generale (2° corso);   
+Traumatologia dell'apparato locomotore (2° corso);   
+Chirurgia plastica-riparatrice (1° corso);   
+Anatomia chirurgica;   
+Trattamento pre o post-operatorio in chirurgia d'urgenza;   
+Chirurgia ginecologica d'urgenza;   
+Chirurgia urologica d'urgenza.   
+  
+3° Anno:   
+Chirurgia d'urgenza e di pronto soccorso (3° corso);   
+Chirurgia generale (3° corso);   
+Neurotraumatologia (1° corso);   
+Chirurgia plastica-riparatrice (2° corso);   
+Valutazione medico-legale delle lesioni chirurgiche;   
+Chirurgia toracica d'urgenza;   
+Chirurgia cardio-vascolare d'urgenza;   
+Chirurgia pediatrica d'urgenza.   
+  
+4° Anno:   
+Chirurgia d'urgenza e di pronto soccorso (4° corso);   
+Chirurgia generale (4° corso);   
+Neurotraumatologia (2° corso);   
+Fisiopatologia del politraumatizzato;   
+Trattamento del politraumatizzato;   
+Rianimazione.   
+  
+Art. 231. - La frequenza alle lezioni ed alle esercitazioni e' obbligatoria per tutti gli iscritti.   
+L'internato e' obbligatorio durante tutti i quattro anni del corso, che si svolgera' presso l'istituto di clinica chirurgica, con presenza giornaliera nei vari reparti.   
+Dall'obbligo di tale internato potranno essere esentati quegli allievi che, in qualita' di aiuti o di assistenti di ruolo prestino servizio presso reparti di chirurgia d'urgenza e di pronto soccorso delle universita' o di ospedali regionali o provinciali.   
+Il direttore e gli insegnanti della scuola si accerteranno, durante l'anno accademico, dell'operosita' scolastica degli allievi, con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno.   
+L'allievo che non abbia ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali.   
+Alla fine del corso l'allievo, inoltre, dovra' sostenere un esame generale di profitto che consistera' nella discussione di una dissertazione scritta su di un tema assegnato dal direttore della scuola.   
+I candidati gia' in possesso della specializzazione in chirurgia generale potranno essere iscritti al 2° anno della scuola di specializzazione in chirurgia d'urgenza e di pronto soccorso, dovranno pero' a tal fine superare l'esame di "Traumatologia maxillo-facciale".   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1979
+### Dato a Roma, addi' 31 ottobre 1973
 
-- PERTINI - VALITUTTI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 20 marzo 1980
+Registrato alla Corte dei conti, addi' 19 novembre 1974
 
-Registro n. 24 Istruzione, foglio n. 153
+Atti di Governo, registro n. 6, foglio n. 138. - SCIARRETTA

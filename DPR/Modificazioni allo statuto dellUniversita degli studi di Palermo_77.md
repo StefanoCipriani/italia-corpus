@@ -1,161 +1,403 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1569
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1204
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1569
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1204
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Palermo e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Dopo l'art. 196, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in psicologia presso le facolta' di lettere e filosofia e di medicina e chirurgia.
+
+Scuola di specializzazione in psicologia
+
+Art. 197. - Presso gli istituti di psicologia della facolta' di lettere e filosofia e della facolta' di medicina e chirurgia dell'Universita' di Palermo e' istituita la scuola di specializzazione in psicologia la quale e' articolata nei seguenti indirizzi:
+
+a) medico;
+
+b) differenziale e scolastico;
+
+c) industriale e del lavoro;
+
+d) sociale.
+
+Art. 198. - La durata del corso della scuola e' di tre anni. La frequenza e' obbligatoria. Non sono consentite abbreviazioni di corso se non nei casi previsti dall'art. 214, ne' e' consentita la contemporanea iscrizione a piu' indirizzi.
+
+Art. 199. - La scuola conferisce il diploma di specialista in psicologia con l'indicazione dell'indirizzo seguito.
+
+Il diploma, valido a tutti gli effetti di legge, viene rilasciato all'allievo in rapporto all'indirizzo prescelto, seguito e concluso positivamente negli esami di profitto e di diploma.
+
+Art. 200. - Titoli per l'ammissione alla scuola sono:
+
+a) per l'indirizzo medico la laurea in medicina e chirurgia;
+
+b) per gli altri indirizzi, il diploma di laurea rilasciato da qualsiasi facolta' di una universita' italiana di Stato o ad essa parificata, ovvero un titolo straniero equipollente.
+
+Art. 201. - Nella domanda di ammissione alla scuola deve essere specificato l'indirizzo che si desidera seguire. Nel caso di domande di iscrizione eccedenti il numero massimo stabilito dal consiglio della scuola ed indicato nel manifesto-programma annuale di cui all'art. 212, il consiglio procedera' all'accettazione delle domande attraverso un concorso di merito, le cui modalita' verranno fissate nello stesso manifesto annuale.
+
+Indipendentemente dalla limitazione delle iscrizioni, il consiglio della scuola puo' subordinare l'ammissione ad una prova di idoneita'.
+
+Art. 202. - Il corso e' costituito da lezioni teoriche, esercitazioni pratiche, tirocini, seminari, conferenze;
+
+l'attivita' didattica viene svolta per un numero di ore non inferiore alle venti settimanali, per tutta la durata dell'anno accademico.
+
+Gli insegnamenti statutari sono suddivisi in tre gruppi:
+
+a) insegnamenti comuni a tutti gli indirizzi sopraindicati; tali insegnamenti sono obbligatori per tutti gli allievi, qualunque sia l'indirizzo prescelto;
+
+b) insegnamenti specifici peculiari a ciascuno dei singoli indirizzi indicati nell'art. 197 e nel successivo art. 203; tali insegnamenti sono obbligatori nell'ambito dell'indirizzo prescelto;
+
+c) insegnamenti integrativi. Gli insegnamenti di cui ai punti a) e b) sono fissati nello statuto, il quale stabilisce altresi' la distribuzione degli insegnamenti stessi nei vari anni.
+
+Gli insegnamenti di cui al punto c) vengono stabiliti anno per anno dal consiglio della scuola nel manifesto programma annuale, insieme all'elenco degli insegnamenti di cui ai punti a) e b).
+
+Art. 203. - Gli insegnamenti di cui al punto a) sono:
+
+psicologia generale (comprendente anche la metodologia generale, le teorie della personalita', la psicologia differenziale);
+
+metodologia statistica e psicometria (I);
+
+psicologia dell'eta' evolutiva (I);
+
+psicologia sociale (I);
+
+tecniche psicodiagnostiche;
+
+psicologia dinamica.
+
+Gli insegnamenti di cui al punto b) sono:
+
+Per l'indirizzo medico:
+
+1) psicologia dello sviluppo;
+
+2) psicofisiologia;
+
+3) psicofarmacologia;
+
+4) psicopatologia e neuropsichiatria;
+
+5) medicina psicosomatica;
+
+6) psicologia clinica;
+
+7) psicoterapia;
+
+8) psicologia criminologica, giudiziaria e penitenziaria;
+
+9) igiene mentale.
+
+Per l'indirizzo differenziale e scolastico:
+
+1) fondamenti di biologia generale e di anatomia e fisiologia umana;
+
+2) psicologia dell'eta' evolutiva (II);
+
+3) pedagogia;
+
+4) istituzioni di psicopatologia e di igiene mentale;
+
+5) psicologia pedagogica (comprendente anche la docimologia, le tecniche di valutazione scolastica e le tecniche di intervento individuale e di gruppo);
+
+6) psicologia del disadattamento scolastico e professionale nell'eta' evolutiva;
+
+7) orientamento scolastico e professionale.
+
+Per indirizzo industriale e del lavoro:
+
+1) fondamenti di biologia generale e di anatomia e fisiologia umana;
+
+2) istituzioni di psicopatologia e di igiene mentale;
+
+3) psicologia del lavoro (comprendente anche la ergonomia, l'analisi e la valutazione delle mansioni e profili professionali, e la psicologia delle relazioni interpersonali nell'ambiente del lavoro);
+
+4) psicologia del disadattamento lavorativo (comprendente anche il riadattamento professionale del minorato);
+
+5) analisi motivazionale;
+
+6) orientamento scolastico e professionale;
+
+7) metodologia statistica e psicometria (II).
+
+Per l'indirizzo sociale:
+
+1) antropologia culturale;
+
+2) psicologia della comunicazione (comprendente anche la psicologia del linguaggio);
+
+3) psicologia sociale (II);
+
+4) sociologia;
+
+5) tecniche quantitative dell'indagine psicosociale;
+
+6) dinamiche del gruppo;
+
+7) ricerca motivazionale;
+
+8) tecniche di studio dell'opinione pubblica;
+
+9) patologia e controllo sociale.
+
+Gli insegnamenti specifici di ciascuno dei quattro indirizzi possono valere come integrativi per gli altri indirizzi che non li comprendano, sempre naturalmente nel caso che il funzionamento degli indirizzi stessi sia previsto dal manifesto-programma annuale.
+
+Il manifesto-programma annuale, di cui all'art. 212, indichera' quali indirizzi verranno realizzati e quali insegnamenti integrativi verranno impartiti dalla scuola, durante l'anno accademico.
+
+L'eventuale scissione degli insegnamenti in piu' rami distinti, ai fini sia dell'insegnamento che degli esami di profitto, ovvero l'eventuale loro raggruppamento ai fini degli esami, risulteranno dal manifesto-programma annuale di cui all'art. 212.
+
+Art. 204. - Gli esami sono di profitto e di diploma.
+
+Per essere ammesso agli esami annuali di profitto l'allievo deve avere frequentato assiduamente le lezioni, le esercitazioni, i tirocini, i seminari, ecc., svolti dalla scuola nel relativo anno di corso.
+
+Per essere ammesso all'esame di diploma l'allievo, oltre ad avere adempiuto a tutti gli obblighi di frequenza ed esami dei vari insegnamenti comuni e specifici e di almeno due degli insegnamenti integrativi, ed avere effettuato esercitazioni prescritte, deve presentare una dissertazione scritta nonche' una relazione riassuntiva sulle esercitazioni e su eventuali tirocini effettuati nell'intero triennio.
+
+L'esame di diploma consiste nella discussione della tesi e della relazione e, eventualmente, di una o piu' prove stabilite dal consiglio di scuola.
+
+Art. 205. - La scuola e' retta da un direttore e da un vicedirettore, nominati ogni triennio dal rettore, su proposta dei consigli di facolta' di lettere e filosofia e di medicina e chirurgia fra i professori di ruolo di psicologia nelle due facolta'; nell'assegnazione delle due cariche dovranno essere rappresentate le due facolta'.
+
+Art. 206. - I docenti della scuola sono scelti fra i professori universitari di psicologia (di ruolo, fuori ruolo, incaricati, liberi docenti), fra gli specializzandi in psicologia e fra coloro che, per opere, uffici o insegnamenti tenuti siano di riconosciuta competenza ed esperienza nelle discipline che formano oggetto dei corsi della scuola.
+
+Alla nomina dei docenti provvede il rettore, su proposta presentata annualmente dal direttore della scuola, e su parere conforme del consiglio della scuola stessa e delle facolta'.
+
+Art. 207. - Per i problemi riguardanti l'organizzazione didattica, il direttore e' assistito da un consiglio della scuola, composto: dal direttore stesso che lo presiede, dal vicedirettore che presiede le adunanze del consiglio in caso di assenza o impedimento del direttore, e da tutti i docenti che abbiano avuto regolare nomina rettorale.
+
+Su proposta del direttore, sentito il parere del consiglio, uno dei docenti assolve anche le funzioni di segretario delle adunanze del consiglio stesso; ala relativa nomina provvede il rettore.
+
+Art. 208. - Spetta al consiglio della scuola:
+
+1) determinare, coordinare, approvare i programmi dei corsi teorici, delle esercitazioni, dei tirocini, dei seminari, ecc., relativi sia agli insegnamenti comuni, sia a quelli specifici, sia a quelli integrativi;
+
+2) esprimere il proprio parere sulle proposte del direttore della scuola relativamente alla designazione dei docenti, da sottoporre quindi alla nomina rettorale dopo l'approvazione della facolta';
+
+3) determinare, coordinare, approvare gli orari dei vari insegnamenti, esercitazioni, seminari, ecc., e il diario e modalita' degli esami, sia di profitto, che di diploma e la composizione delle relative commissioni;
+
+4) stabilire le eventuali prove pratiche da fare sostenere agli allievi in occasione dell'esame di diploma;
+
+5) riferire sulle domande di trasferimento di allievi di scuole di specializzazione in psicologia da una universita' o facolta' ad un'altra e deliberare circa il passaggio da un indirizzo all'altro della scuola stessa (conformemente a quanto stabilito dall'art. 214), determinandone gli eventuali obblighi di frequenza ed esame;
+
+6) determinare il numero massimo (in ogni anno non superiore a venticinque) ed eventualmente il numero minimo degli allievi che possono essere iscritti al primo anno di corso. Il numero massimo degli allievi frequentanti nello stesso anno i tre corsi potra' raggiungere i settantacinque, in relazione alle disponibilita' di attrezzature ed aule fornite dall'istituto di psicologia della facolta' di lettere e dall'istituto di psicologia della facolta' medica;
+
+7) stabilire la composizione della commissione per l'esame di concorso di merito di cui al comma 2 dell'art. 201 e della commissione per le eventuali prove di idoneita' di cui allo stesso comma dell'art. 201, nonche' le modalita' dei rispettivi concorsi o prova.
+
+Art. 209. - Il funzionamento amministrativo della scuola e' determinato, in armonia con le vigenti disposizioni sulle scuole di specializzazione, da un regolamento interno emanato dal rettore su proposta del direttore della scuola.
+
+Art. 210. - Le entrate della scuola sono costituite dalle tasse, sopratasse e contributi scolastici e dai contributi erogati eventualmente dallo Stato, dall'universita', da enti e da privati.
+
+Art. 211. - Gli iscritti alla scuola sono tenuti al pagamento delle tasse, sopratasse e contributi generali nella misura stabilita nel vigente statuto.
+
+La misura dei contributi per le esercitazioni pratiche e per le altre prestazioni di cui gli iscritti fruiscono durante il corso di studi e' fissata dal consiglio di amministrazione dell'universita' su proposta del senato accademico, sentito il parere dei consigli delle facolta' di lettere e filosofia e di medicina e chirurgia e del consiglio della scuola.
+
+Art. 212. - Il direttore della scuola - di concerto con il vicedirettore e sulla base delle deliberazioni del consiglio della scuola - compila ogni anno il relativo manifesto-programma che, previa approvazione delle facolta' di lettere e filosofia e di medicina e chirurgia sara' reso di pubblica ragione.
+
+Nel manifesto viene specificato:
+
+1) l'indirizzo o gli indirizzi della scuola che saranno aperti nell'imminente anno accademico;
+
+2) il numero massimo (in ogni anno non superiore a venticinque) ed eventualmente, quello minimo di domande di iscrizione che verranno accettate;
+
+3) le modalita' del concorso di merito in caso di domande eccedenti il numero massimo di iscrizioni consentite;
+
+4) l'eventuale indicazione di prove di idoneita' per l'ammissione alla scuola conformemente al comma 2 dell'art. 201;
+
+5) l'ordine degli studi, coll'indicazione:
+
+a) dell'eventuale scissione degli insegnamenti elencati nell'art. 203 in piu' rami distinti, ai fini dello insegnamento e degli esami di profitto;
+
+b) dell'eventuale raggruppamento degli insegnamenti ai fini dell'esame di profitto;
+
+c) della distribuzione degli insegnamenti nei vari anni di corso;
+
+d) degli insegnamenti integrativi che verranno impartiti nell'anno;
+
+e) dei docenti, per ciascun insegnamento, ed anno di corso;
+
+6) le modalita' e condizioni degli esami di profitto e di diploma;
+
+7) le tasse, le sopratasse e i contributi generali o speciali dovuti dagli allievi.
+
+Art. 213. - L'inclusione della scuola nello statuto dell'universita' non costituisce impegno ad impartire i relativi corsi: l'impegno e' costituito dalla pubblicazione del manifesto-programma annuale. Cio' vale sia per la scuola nel suo insieme, sia per i singoli indirizzi.
+
+Art. 214. - E' prevista, a domanda dell'interessato e non oltre il termine del secondo anno di corso, la possibilita' di passaggio da un indirizzo ad un altro.
+
+L'accoglimento della relativa domanda, sempre subordinata alle condizioni previste dall'art. 213, ha luogo a giudizio insindacabile del consiglio della scuola e con piano di studi da stabilire caso per caso.
+
+Coloro che hanno compiuto l'intero triennio possono essere ammessi ad altro indirizzo con possibilita' di abbreviazione dei corsi, per convalida di esami gia' sostenuti, secondo quanto sara' stabilito caso per caso dal consiglio della scuola.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1977
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 16 giugno 1978 Registro n. 64 Istruzione, foglio n. 273
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, numero 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successivi;  
+Veduto lo statuto dell'Universita' di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Veduto il [decreto del Presidente della Repubblica 26 agosto 1959, n. 1341](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-08-26;1341);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Palermo e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Dopo l'art. 82, sono aggiunti i seguenti nuovi articoli, relativi all'ordinamento della Facolta' di magistero con il conseguente spostamento della numerazione degli articoli successivi.  
-  
-SEZIONE IX  
-FACOLTA' DI MAGISTERO  
-  
-Art. 83. - La Facolta' di magistero rilascia le lauree in materie letterarie, in pedagogia ed in lingue e letterature straniere.  
-Rilascia inoltre il diploma di abilitazione alla vigilanza nelle scuole elementari.  
-Corso di laurea in materie letterarie  
-Art. 84. - La durata del corso di studi per la laurea in materie letterarie e' di quattro anni.  
-Titolo di ammissione: diploma di abilitazione magistrale e concorso.  
-Il concorso di ammissione consiste:  
-a) nella valutazione dei voti riportati negli esami per il conseguimento del diploma di abilitazione magistrale nel gruppo delle materie letterarie;  
-b) una prova scritta di cultura generale per la quale sono concesse sei ore di tempo.  
-Sono insegnamenti fondamentali:  
-1) Lingua, e letteratura italiana (triennale);  
-2) Lingua e letteratura latina (triennale);  
-3) Storia (triennale);  
-4) Geografia (triennale);  
-5) Pedagogia;  
-6) Storia della filosofia;  
-7) Lingua e letteratura moderna straniera a scelta (biennale).  
-Sono insegnamenti complementari:  
-1) Grammatica latina;  
-2) Filologia romanza;  
-3) Storia delle tradizioni popolari;  
-4) Lingua e civilta' greca;  
-5) Istituzioni di diritto pubblico e legislazione scolastica;  
-6) Storia della grammatica e della lingua italiana;  
-7) Storia dell'arte medioevale e moderna;  
-8) Storia della musica;  
-9) Storia della geografia (Storia della scienza e delle esplorazioni);  
-10) Storia del risorgimento;  
-11) Etnologia.  
-Il terzo anno del corso di geografia deve essere differenziato come corso di applicazione.  
-Nel corso di storia (triennale) un anno deve essere dedicato alla storia romana, un anno alla storia medioevale ed uno alla storia moderna, alternativamente.  
-Lo studente deve sostenere una prova scritta di traduzione latina, una della lingua straniera scelta ed una di cultura generale.  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti fra i complementari.  
-Corso di laurea in pedagogia  
-Art. 85. - La durata del corso per la laurea in pedagogia e' di quattro anni.  
-Titoli di ammissione: diploma di abilitazione magistrale e concorso.  
-Il concorso di ammissione consiste:  
-a) nella valutazione dei voti riportati per il conseguimento del diploma di abilitazione magistrale, nella filosofia e nella pedagogia;  
-b) in una prova scritta di cultura generale, per cui sono concesse sei ore di tempo.  
-Sono insegnamenti fondamentali:  
-1) Lingua e letteratura italiana (biennale);  
-2) Lingua e letteratura latina (biennale);  
-3) Storia della filosofia (biennale);  
-4) Filosofia (biennale);  
-5) Pedagogia (triennale);  
-6) Storia (biennale);  
-7) Lingua e letteratura moderna straniera a scelta (biennale).  
-Sono insegnamenti complementari:  
-1) Filologia romanza;  
-2) Istituzioni di diritto pubblico e legislazione scolastica;  
-3) Psicologia;  
-4) Storia delle tradizioni popolari;  
-5) Storia dell'arte medioevale e moderna;  
-6) Storia della grammatica e della lingua italiana;  
-7) Etnologia;  
-8) Storia della musica;  
-9) Storia della pedagogia.  
-Nel corso di storia (biennale) un anno deve essere dedicato alla storia medioevale ed uno alla storia moderna alternativamente.  
-Lo studente deve sostenere una prova scritta di italiano, una di traduzione latina, una della lingua straniera a scelta, ed una di cultura generale sulle discipline filosofiche.  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti fra i complementari.  
-Corso di laurea in lingue o letterature straniere  
-Art. 86. - La durata del corso degli studi per la laurea in lingue e letterature straniere e' di quattro anni.  
-Titoli di ammissione: diploma di abilitazione magistrale, o licenza, a norma dell'[art. 2 della legge 9 ottobre 1951 n. 1130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-10-09;1130~art2), dalla Scuola civica "Regina Margherita" di Genova, ora "Grazia Deledda", o dalla Scuola civica "Alessandro Manzoni" di Milano, o dall'Istituto di cultura e di lingue "Marcelline" di Milano, ovvero licenza a norma della [legge 12 marzo 1957, n. 94](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-03-12;94), o dal Liceo linguistico femminile "Santa Caterina da Siena" di Venezia, o dal Liceo linguistico "Orsoline del Sacro Cuore" di Cortina d'Ampezzo, e concorso.  
-Il concorso di ammissione consiste:  
-a) nella valutazione dei voti riportati, nel gruppo delle materie letterarie agli esami per il conseguimento dei titoli di studi medi prescritto per l'ammissione;  
-b) in una prova scritta, di cultura generale per la quale sono concesse sei ore di tempo.  
-Sono insegnamenti fondamentali:  
-1) Lingua e letteratura italiana (biennale);  
-2) Lingua e letteratura latina (biennale);  
-3) Lingua e letteratura francese;  
-4) Lingua e letteratura tedesca;  
-5) Lingua e letteratura spagnola;  
-6) Lingua e letteratura inglese;  
-7) Filologia romanza;  
-8) Filologia germanica;  
-9) Storia (biennale);  
-10) Geografia.  
-Sono insegnamenti complementari:  
-1) Storia della filosofia;  
-2) Filosofia;  
-3) Pedagogia;  
-4) Storia delle tradizioni popolari;  
-5) Storia e letteratura romena;  
-6) Storia della musica;  
-7) Storia della geografia (Storia della scienza e delle esplorazioni);  
-8) Etnologia;  
-9) Storia delle religioni.  
-Lo studente deve seguire per tutti i quattro anni del corso di laurea l'insegnamento della lingua straniera alla quale intende dedicare i suoi studi, e per due anni quello di un'altra, delle lingue straniere; egli puo' inoltre seguire, pure per due anni, l'insegnamento di una terza lingua straniera, nel quale caso puo' diminuire di uno gli insegnamenti complementari.  
-Nel corso di storia (biennale) un anno deve essere dedicato alla storia medioevale ed uno alla storia moderna, alternativamente.  
-Lo studente deve sostenere una prova scritta di italiano, una di traduzione latina, e una di cultura generale nella lingua straniera nella quale ha approfondito i suoi studi per il conseguimento della laurea.  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in tre da lui scelti fra i complementari.  
-Diploma di abilitazione alla vigilanza nelle scuole elementari  
-Art. 87. - La durata del corso degli studi per il conseguimento del diploma di abilitazione alla vigilanza nelle scuole elementari e' di tre anni.  
-Titoli di ammissione: diploma di abilitazione magistrale e concorso.  
-Il concorso di ammissione consiste:  
-a) nella valutazione dei voti riportati agli esami per il conseguimento del diploma di abilitazione magistrale, nel gruppo delle materie letterarie e nella filosofia e pedagogia;  
-b) in una prova scritta di cultura generale per la quale sono concesse sei ore di tempo.  
-Sono insegnamenti fondamentali:  
-1) Pedagogia (triennale);  
-2) Lingua e letteratura italiana (biennale);  
-3) Lingua e letteratura latina (biennale);  
-4) Storia (biennale);  
-5) Istituzioni di diritto pubblico e legislazione scolastica;  
-6) Geografia (biennale);  
-7) Storia della filosofia (biennale);  
-8) Igiene.  
-Sono insegnamenti complementari:  
-1) Lingua straniera moderna a scelta (biennale).  
-Lo studente deve sostenere una prova scritta di pedagogia, una di italiano e una della lingua straniera prescelta.  
-Per conseguire il diploma lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali, ed in quello complementare.  
-Art. 88. - Lo studente, all'atto della presentazione della domanda di ammissione all'esame di concorso, dovra' dichiarare a quale tipo di corso di laurea o di diploma intende iscriversi.  
-Art. 89. - Gli esami saranno sostenuti per singole materie. Per gli insegnamenti triennali o biennale lo esame sara' sostenuto alla fine del singolo anno di corso.  
-Art. 90. - Il preside controlla ed approva i piani di studi presentati dagli studenti per ogni anno di corso.  
-Art. 91. - Per quanto riguarda l'iscrizione ad anno successivo al primo di studenti gia' laureati in materie letterarie, o pedagogia, o lingue e letterature straniere, o di altre Facolta' universitarie o Istituti superiori che siano, pero' in possesso di diploma di abilitazione magistrale o degli studenti gia' in possesso del diploma di abilitazione alla vigilanza nelle scuole elementari, valgono le disposizioni di cui agli [articoli 10](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-04;1269~art10) e [11 del regio decreto 4 giugno 1938, n. 1269](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-04;1269~art11).  
+Dopo l'art. 196, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in psicologia presso le facolta' di lettere e filosofia e di medicina e chirurgia.  
+Scuola di specializzazione in psicologia  
+Art. 197. - Presso gli istituti di psicologia della facolta' di lettere e filosofia e della facolta' di medicina e chirurgia dell'Universita' di Palermo e' istituita la scuola di specializzazione in psicologia la quale e' articolata nei seguenti indirizzi:  
+a) medico;  
+b) differenziale e scolastico;  
+c) industriale e del lavoro;  
+d) sociale.  
+Art. 198. - La durata del corso della scuola e' di tre anni. La frequenza e' obbligatoria. Non sono consentite abbreviazioni di corso se non nei casi previsti dall'art. 214, ne' e' consentita la contemporanea iscrizione a piu' indirizzi.  
+Art. 199. - La scuola conferisce il diploma di specialista in psicologia con l'indicazione dell'indirizzo seguito.  
+Il diploma, valido a tutti gli effetti di legge, viene rilasciato all'allievo in rapporto all'indirizzo prescelto, seguito e concluso positivamente negli esami di profitto e di diploma.  
+Art. 200. - Titoli per l'ammissione alla scuola sono:  
+a) per l'indirizzo medico la laurea in medicina e chirurgia;  
+b) per gli altri indirizzi, il diploma di laurea rilasciato da qualsiasi facolta' di una universita' italiana di Stato o ad essa parificata, ovvero un titolo straniero equipollente.  
+Art. 201. - Nella domanda di ammissione alla scuola deve essere specificato l'indirizzo che si desidera seguire. Nel caso di domande di iscrizione eccedenti il numero massimo stabilito dal consiglio della scuola ed indicato nel manifesto-programma annuale di cui all'art. 212, il consiglio procedera' all'accettazione delle domande attraverso un concorso di merito, le cui modalita' verranno fissate nello stesso manifesto annuale.  
+Indipendentemente dalla limitazione delle iscrizioni, il consiglio della scuola puo' subordinare l'ammissione ad una prova di idoneita'.  
+Art. 202. - Il corso e' costituito da lezioni teoriche, esercitazioni pratiche, tirocini, seminari, conferenze;  
+l'attivita' didattica viene svolta per un numero di ore non inferiore alle venti settimanali, per tutta la durata dell'anno accademico.  
+Gli insegnamenti statutari sono suddivisi in tre gruppi:  
+a) insegnamenti comuni a tutti gli indirizzi sopraindicati; tali insegnamenti sono obbligatori per tutti gli allievi, qualunque sia l'indirizzo prescelto;  
+b) insegnamenti specifici peculiari a ciascuno dei singoli indirizzi indicati nell'art. 197 e nel successivo art. 203; tali insegnamenti sono obbligatori nell'ambito dell'indirizzo prescelto;  
+c) insegnamenti integrativi. Gli insegnamenti di cui ai punti a) e b) sono fissati nello statuto, il quale stabilisce altresi' la distribuzione degli insegnamenti stessi nei vari anni.  
+Gli insegnamenti di cui al punto c) vengono stabiliti anno per anno dal consiglio della scuola nel manifesto programma annuale, insieme all'elenco degli insegnamenti di cui ai punti a) e b).  
+Art. 203. - Gli insegnamenti di cui al punto a) sono:  
+psicologia generale (comprendente anche la metodologia generale, le teorie della personalita', la psicologia differenziale);  
+metodologia statistica e psicometria (I);  
+psicologia dell'eta' evolutiva (I);  
+psicologia sociale (I);  
+tecniche psicodiagnostiche;  
+psicologia dinamica.  
+Gli insegnamenti di cui al punto b) sono:  
+Per l'indirizzo medico:  
+1) psicologia dello sviluppo;  
+2) psicofisiologia;  
+3) psicofarmacologia;  
+4) psicopatologia e neuropsichiatria;  
+5) medicina psicosomatica;  
+6) psicologia clinica;  
+7) psicoterapia;  
+8) psicologia criminologica, giudiziaria e penitenziaria;  
+9) igiene mentale.  
+Per l'indirizzo differenziale e scolastico:  
+1) fondamenti di biologia generale e di anatomia e fisiologia umana;  
+2) psicologia dell'eta' evolutiva (II);  
+3) pedagogia;  
+4) istituzioni di psicopatologia e di igiene mentale;  
+5) psicologia pedagogica (comprendente anche la docimologia, le tecniche di valutazione scolastica e le tecniche di intervento individuale e di gruppo);  
+6) psicologia del disadattamento scolastico e professionale nell'eta' evolutiva;  
+7) orientamento scolastico e professionale.  
+Per indirizzo industriale e del lavoro:  
+1) fondamenti di biologia generale e di anatomia e fisiologia umana;  
+2) istituzioni di psicopatologia e di igiene mentale;  
+3) psicologia del lavoro (comprendente anche la ergonomia, l'analisi e la valutazione delle mansioni e profili professionali, e la psicologia delle relazioni interpersonali nell'ambiente del lavoro);  
+4) psicologia del disadattamento lavorativo (comprendente anche il riadattamento professionale del minorato);  
+5) analisi motivazionale;  
+6) orientamento scolastico e professionale;  
+7) metodologia statistica e psicometria (II).  
+Per l'indirizzo sociale:  
+1) antropologia culturale;  
+2) psicologia della comunicazione (comprendente anche la psicologia del linguaggio);  
+3) psicologia sociale (II);  
+4) sociologia;  
+5) tecniche quantitative dell'indagine psicosociale;  
+6) dinamiche del gruppo;  
+7) ricerca motivazionale;  
+8) tecniche di studio dell'opinione pubblica;  
+9) patologia e controllo sociale.  
+Gli insegnamenti specifici di ciascuno dei quattro indirizzi possono valere come integrativi per gli altri indirizzi che non li comprendano, sempre naturalmente nel caso che il funzionamento degli indirizzi stessi sia previsto dal manifesto-programma annuale.  
+Il manifesto-programma annuale, di cui all'art. 212, indichera' quali indirizzi verranno realizzati e quali insegnamenti integrativi verranno impartiti dalla scuola, durante l'anno accademico.  
+L'eventuale scissione degli insegnamenti in piu' rami distinti, ai fini sia dell'insegnamento che degli esami di profitto, ovvero l'eventuale loro raggruppamento ai fini degli esami, risulteranno dal manifesto-programma annuale di cui all'art. 212.  
+Art. 204. - Gli esami sono di profitto e di diploma.  
+Per essere ammesso agli esami annuali di profitto l'allievo deve avere frequentato assiduamente le lezioni, le esercitazioni, i tirocini, i seminari, ecc., svolti dalla scuola nel relativo anno di corso.  
+Per essere ammesso all'esame di diploma l'allievo, oltre ad avere adempiuto a tutti gli obblighi di frequenza ed esami dei vari insegnamenti comuni e specifici e di almeno due degli insegnamenti integrativi, ed avere effettuato esercitazioni prescritte, deve presentare una dissertazione scritta nonche' una relazione riassuntiva sulle esercitazioni e su eventuali tirocini effettuati nell'intero triennio.  
+L'esame di diploma consiste nella discussione della tesi e della relazione e, eventualmente, di una o piu' prove stabilite dal consiglio di scuola.  
+Art. 205. - La scuola e' retta da un direttore e da un vicedirettore, nominati ogni triennio dal rettore, su proposta dei consigli di facolta' di lettere e filosofia e di medicina e chirurgia fra i professori di ruolo di psicologia nelle due facolta'; nell'assegnazione delle due cariche dovranno essere rappresentate le due facolta'.  
+Art. 206. - I docenti della scuola sono scelti fra i professori universitari di psicologia (di ruolo, fuori ruolo, incaricati, liberi docenti), fra gli specializzandi in psicologia e fra coloro che, per opere, uffici o insegnamenti tenuti siano di riconosciuta competenza ed esperienza nelle discipline che formano oggetto dei corsi della scuola.  
+Alla nomina dei docenti provvede il rettore, su proposta presentata annualmente dal direttore della scuola, e su parere conforme del consiglio della scuola stessa e delle facolta'.  
+Art. 207. - Per i problemi riguardanti l'organizzazione didattica, il direttore e' assistito da un consiglio della scuola, composto: dal direttore stesso che lo presiede, dal vicedirettore che presiede le adunanze del consiglio in caso di assenza o impedimento del direttore, e da tutti i docenti che abbiano avuto regolare nomina rettorale.  
+Su proposta del direttore, sentito il parere del consiglio, uno dei docenti assolve anche le funzioni di segretario delle adunanze del consiglio stesso; ala relativa nomina provvede il rettore.  
+Art. 208. - Spetta al consiglio della scuola:  
+1) determinare, coordinare, approvare i programmi dei corsi teorici, delle esercitazioni, dei tirocini, dei seminari, ecc., relativi sia agli insegnamenti comuni, sia a quelli specifici, sia a quelli integrativi;  
+2) esprimere il proprio parere sulle proposte del direttore della scuola relativamente alla designazione dei docenti, da sottoporre quindi alla nomina rettorale dopo l'approvazione della facolta';  
+3) determinare, coordinare, approvare gli orari dei vari insegnamenti, esercitazioni, seminari, ecc., e il diario e modalita' degli esami, sia di profitto, che di diploma e la composizione delle relative commissioni;  
+4) stabilire le eventuali prove pratiche da fare sostenere agli allievi in occasione dell'esame di diploma;  
+5) riferire sulle domande di trasferimento di allievi di scuole di specializzazione in psicologia da una universita' o facolta' ad un'altra e deliberare circa il passaggio da un indirizzo all'altro della scuola stessa (conformemente a quanto stabilito dall'art. 214), determinandone gli eventuali obblighi di frequenza ed esame;  
+6) determinare il numero massimo (in ogni anno non superiore a venticinque) ed eventualmente il numero minimo degli allievi che possono essere iscritti al primo anno di corso. Il numero massimo degli allievi frequentanti nello stesso anno i tre corsi potra' raggiungere i settantacinque, in relazione alle disponibilita' di attrezzature ed aule fornite dall'istituto di psicologia della facolta' di lettere e dall'istituto di psicologia della facolta' medica;  
+7) stabilire la composizione della commissione per l'esame di concorso di merito di cui al comma 2 dell'art. 201 e della commissione per le eventuali prove di idoneita' di cui allo stesso comma dell'art. 201, nonche' le modalita' dei rispettivi concorsi o prova.  
+Art. 209. - Il funzionamento amministrativo della scuola e' determinato, in armonia con le vigenti disposizioni sulle scuole di specializzazione, da un regolamento interno emanato dal rettore su proposta del direttore della scuola.  
+Art. 210. - Le entrate della scuola sono costituite dalle tasse, sopratasse e contributi scolastici e dai contributi erogati eventualmente dallo Stato, dall'universita', da enti e da privati.  
+Art. 211. - Gli iscritti alla scuola sono tenuti al pagamento delle tasse, sopratasse e contributi generali nella misura stabilita nel vigente statuto.  
+La misura dei contributi per le esercitazioni pratiche e per le altre prestazioni di cui gli iscritti fruiscono durante il corso di studi e' fissata dal consiglio di amministrazione dell'universita' su proposta del senato accademico, sentito il parere dei consigli delle facolta' di lettere e filosofia e di medicina e chirurgia e del consiglio della scuola.  
+Art. 212. - Il direttore della scuola - di concerto con il vicedirettore e sulla base delle deliberazioni del consiglio della scuola - compila ogni anno il relativo manifesto-programma che, previa approvazione delle facolta' di lettere e filosofia e di medicina e chirurgia sara' reso di pubblica ragione.  
+Nel manifesto viene specificato:  
+1) l'indirizzo o gli indirizzi della scuola che saranno aperti nell'imminente anno accademico;  
+2) il numero massimo (in ogni anno non superiore a venticinque) ed eventualmente, quello minimo di domande di iscrizione che verranno accettate;  
+3) le modalita' del concorso di merito in caso di domande eccedenti il numero massimo di iscrizioni consentite;  
+4) l'eventuale indicazione di prove di idoneita' per l'ammissione alla scuola conformemente al comma 2 dell'art. 201;  
+5) l'ordine degli studi, coll'indicazione:  
+a) dell'eventuale scissione degli insegnamenti elencati nell'art. 203 in piu' rami distinti, ai fini dello insegnamento e degli esami di profitto;  
+b) dell'eventuale raggruppamento degli insegnamenti ai fini dell'esame di profitto;  
+c) della distribuzione degli insegnamenti nei vari anni di corso;  
+d) degli insegnamenti integrativi che verranno impartiti nell'anno;  
+e) dei docenti, per ciascun insegnamento, ed anno di corso;  
+6) le modalita' e condizioni degli esami di profitto e di diploma;  
+7) le tasse, le sopratasse e i contributi generali o speciali dovuti dagli allievi.  
+Art. 213. - L'inclusione della scuola nello statuto dell'universita' non costituisce impegno ad impartire i relativi corsi: l'impegno e' costituito dalla pubblicazione del manifesto-programma annuale. Cio' vale sia per la scuola nel suo insieme, sia per i singoli indirizzi.  
+Art. 214. - E' prevista, a domanda dell'interessato e non oltre il termine del secondo anno di corso, la possibilita' di passaggio da un indirizzo ad un altro.  
+L'accoglimento della relativa domanda, sempre subordinata alle condizioni previste dall'art. 213, ha luogo a giudizio insindacabile del consiglio della scuola e con piano di studi da stabilire caso per caso.  
+Coloro che hanno compiuto l'intero triennio possono essere ammessi ad altro indirizzo con possibilita' di abbreviazione dei corsi, per convalida di esami gia' sostenuti, secondo quanto sara' stabilito caso per caso dal consiglio della scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 ottobre 1960
+### Dato a Roma, addi' 31 ottobre 1977
 
-GRONCHI BOSCO
+LEONE MALFATTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 22 dicembre 1960
+Registrato alla Corte dei conti, addi' 16 giugno 1978
 
-Atti del Governo, registro n. 132, foglio n. 116. - VILLA
+Registro n. 64 Istruzione, foglio n. 273

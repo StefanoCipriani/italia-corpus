@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 401
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1984 n. 515
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 401
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1984 n. 515
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Palermo.
@@ -39,29 +39,20 @@ Articolo unico
 --------------
 
   
-  
-Nell'art. 50, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:   
-foniatria;   
-otorinolaringoiatria pediatrica;   
-ginecologia oncologica;   
-tossicologia industriale;   
-tecnica fisiologica;   
-fisiologia della nutrizione;   
-neuroftalmologia;   
-fisiopatologia della riproduzione.   
+Nell'art. 57, relativo al corso di laurea in chimica, all'elenco degli insegnamenti complementari, per l'indirizzo organico biologico e inorganico-chimico-fisico, vengono aggiunti rispettivamente i seguenti nuovi insegnamenti:  
+chimica fisica delle interfasi;  
+termodinamica statistica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 aprile 1986
+### Dato a Roma, addi' 11 maggio 1984
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 11 luglio 1986
+Registrato alla Corte dei conti, addi' 8 agosto 1984
 
-Registro n. 56 Istruzione, foglio n. 10
+Registro n. 49 Istruzione, foglio n. 199

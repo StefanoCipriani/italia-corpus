@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 novembre 1978 n. 854
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1977 n. 76
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 novembre 1978 n. 854
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1977 n. 76
+==============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-854. Decreto del Presidente della Repubblica 23 novembre 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dal cav. lav. Francesco Penotti a favore dell'opera di don Gnocchi per i mutilatini di guerra che si identificano con la fondazione "Pro juventute don Carlo Gnocchi", come ha fatto presente la fondazione medesima, con testamento olografo 24 giugno 1972, pubblicato a rogito notaio dott. Marco Panvini-Rosati di Roma il 1 aprile 1974, n. 98797/41375 di repertorio, registrato a Roma il 3 aprile 1974 al n. 2437, vol. 1790, consistente nella somma di L. 20.000.000.  
+76. Decreto del Presidente della Repubblica 5 febbraio 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Cerutti Maria in favore dell'Ente mutilatini di don Gnocchi che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", con testamento pubblico in data 17 maggio 1968, pubblicato a rogito del notaio dottor Mario Barberi in data 11 giugno 1973, n. 221162 di repertorio, registrato a Novara il 14 giugno 1973, con il n. 3297, vol. 381, consistente nella somma di L. 5.000.000.  
   
 Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 27 dicembre 1978  
-Registro n. 8 Presidenza, foglio n. 130
+Registrato alla Corte dei conti, addi' 14 marzo 1977  
+Registro n. 3 Presidenza, foglio n. 66

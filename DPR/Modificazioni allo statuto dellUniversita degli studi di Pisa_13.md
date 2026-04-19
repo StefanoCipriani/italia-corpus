@@ -1,60 +1,146 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1957 n. 1168
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 724
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1957 n. 1168
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 724
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 37, relativo all'elenco degli istituti annessi alla facolta' di giurisprudenza e' modificato nel senso che l'istituto di diritto pubblico assume la denominazione di "Istituto di diritto pubblico Guido Zanobini".
+
+Art. 46. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di:
+
+Storia della lingua spagnola;
+
+Letteratura spagnola contemporanea;.
+
+Dialettologia spagnola;
+
+Lingua e letteratura catalana;
+
+Geografia dell'america latina;
+
+Geografia dell'america anglosassone;
+
+Geografia del mondo slavo;
+
+Lingue e letterature celtiche;
+
+Lingua e letteratura anglosassone;
+
+Estetica;
+
+Lingua e letteratura provenzale.
+
+Art. 67, relativo agli istituti della facolta' di medicina e chirurgia e' modificato nel senso che l'istituto di patologia speciale chirurgica e propedeutica clinica e l'istituto di clinica medica generale e terapia medica vengono sdoppiati rispettivamente in:
+
+Istituto di patologia speciale chirurgica e propedeutica clinica I;
+
+Istituto di patologia speciale chirurgica e propedeutica clinica II;
+
+Istituto di clinica medica generale e terapia medica I;
+
+Istituto di clinica medica generale e terapia medica II.
+
+Art. 130. - All'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie e' aggiunto il seguente:
+
+Tecnologie agrarie speciali.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 22 settembre 1972
+
+LEONE
+
+SCALFARO
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 24 novembre 1972 Atti del Governo, registro n. 253, foglio n. 74. CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso.  
-E' istituito presso la Facolta' di medicina e chirurgia un corso di perfezionamento in fisica nucleare applicata alla medicina il cui ordinamento e' il seguente:  
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 37, relativo all'elenco degli istituti annessi alla facolta' di giurisprudenza e' modificato nel senso che l'istituto di diritto pubblico assume la denominazione di "Istituto di diritto pubblico Guido Zanobini".  
+Art. 46. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di:  
   
-Corso di perfezionamento in fisica nucleare applicata alla medicina   
-Art. 253. - Il corso ha la durata di un anno ed ha sede presso la clinica medica nell'Universita' di Pisa.  
-Il direttore del corso e' il professore di ruolo di clinica medica.  
-Art. 254. - Gli insegnamenti sono i seguenti:  
-a) matematica;  
-b) fisica nucleare;  
-c) radiochimica;  
-d) impiego dei radioisotopi nella, medicina sperimentale;  
-e) diagnostica con i radioisotopi;  
-f) terapia con i radioisotopi;  
-g) patologia e profilassi delle radiazioni.  
-La Direzione del corso potra' integrare le lezioni con conferenze su argomenti speciali.  
-Gli insegnamenti sono corredati da esercitazioni pratiche e da un periodo di internato presso la clinica medica (Centro di medicina nucleare).  
-Art. 255. Alla fine del corso, gli allievi dovranno sostenere un esame unico sulle materie di insegnamento riunite in due gruppi:  
-a) matematica, fisica nucleare e radiochimica;  
-b) impiego dei radioisotopi nella medicina sperimentale, diagnostica, con i radioisotopi, terapia con i radioisotopi, patologia e profilassi delle radiazioni.  
-Superato l'esame, gli allievi conseguono un attestato di frequenza e profitto.  
-Il corso di perfezionamento in medicina nucleare funzionera' con i mezzi della, clinica medica generale e con le tasse, soprattasse e contributi versati dagli iscritti.  
-L'ammontare delle tasse e contributi e' fissato secondo i criteri stabiliti nell'art. 171 dello statuto.  
+Storia della lingua spagnola;  
+Letteratura spagnola contemporanea;.  
+Dialettologia spagnola;  
+Lingua e letteratura catalana;  
+Geografia dell'america latina;  
+Geografia dell'america anglosassone;  
+Geografia del mondo slavo;  
+Lingue e letterature celtiche;  
+Lingua e letteratura anglosassone;  
+Estetica;  
+Lingua e letteratura provenzale.  
+  
+Art. 67, relativo agli istituti della facolta' di medicina e chirurgia e' modificato nel senso che l'istituto di patologia speciale chirurgica e propedeutica clinica e l'istituto di clinica medica generale e terapia medica vengono sdoppiati rispettivamente in:  
+  
+Istituto di patologia speciale chirurgica e propedeutica clinica I;  
+Istituto di patologia speciale chirurgica e propedeutica clinica II;  
+Istituto di clinica medica generale e terapia medica I;  
+Istituto di clinica medica generale e terapia medica II.  
+  
+Art. 130. - All'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie e' aggiunto il seguente:  
+  
+Tecnologie agrarie speciali.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 ottobre 1957
+### Dato a Roma, addi' 22 settembre 1972
 
-GRONCHI MORO
+LEONE SCALFARO
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 12 dicembre 1957
+Registrato alla Corte dei conti, addi' 24 novembre 1972
 
-Atti del Governo, registro n. 109, foglio n. 89. - RELLEVA
+Atti del Governo, registro n. 253, foglio n. 74. CARUSO

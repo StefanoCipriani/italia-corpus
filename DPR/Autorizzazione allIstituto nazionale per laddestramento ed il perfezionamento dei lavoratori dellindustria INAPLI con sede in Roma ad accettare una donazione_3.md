@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1963 n. 278
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1964 n. 288
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1963 n. 278
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1964 n. 288
+============================================================
 
 Autorizzazione all'Istituto nazionale per l'addestramento ed il perfezionamento dei lavoratori dell'industria (INAPLI), con sede in Roma, ad accettare una donazione.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-278. Decreto del Presidente della Repubblica 11 gennaio 1963, col quale, sulla proposta del Ministro per il lavoro, e la previdenza sociale, l'istituto nazionale per l'addestramento ed il perfezionamento dei lavoratori dell'industria (INAPLI), con sede in Roma, viene autorizzato ad accettare la donazione disposta dal comune di Viareggio di due aree contigue di terreno fabbricativo, site in Viareggio, localita' "Al Forcone", di rispettivi mq. 1496,25 e 490, in catasto terreni al foglio n. 22, mappale 164 "e" e foglio n. 22, mappale 161 "a", per atti pubblici di donazione a rogito notaio Mario Matrata e Marco Migliorini del 29 ottobre 1955 e del 7 febbraio 1959, nn. 7886/3847 e 79348/2546, per la costruzione ed ampliamento di un Centro di addestramento professionale.  
+288. Decreto del Presidente della Repubblica 13 marzo 1964, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Istituto nazionale per l'addestramento ed il perfezionamento dei lavoratori dell'industria (INAPLI), con sede in Roma, viene autorizzato ad accettare la donazione disposta dal comune di Cervignano del Friuli (Udine), consistente in un terreno edificatorio da adibire esclusivamente per la costruzione di un Centro di addestramento professionale, come da atto di donazione per notar Nicolo' Quarantotto, rep. n. 11894, fascicolo 6430 del 22 ottobre 1957.  
   
-Visto, il Guardasigilli: BOSCO  
-Registrato alla Corte dei conti, addi' 23 febbraio 1963  
-Atti del Governo, registro n. 165, foglio n. 39. - VILLA
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 6 maggio 1964  
+Atti del Governo, registro n. 183, foglio n. 60. - VILLA

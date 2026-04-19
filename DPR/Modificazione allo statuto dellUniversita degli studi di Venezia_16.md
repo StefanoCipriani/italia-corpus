@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 977
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 marzo 1983 n. 804
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 977
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 marzo 1983 n. 804
+============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Venezia.
 -------------------------------------------------------------------
@@ -39,19 +39,19 @@ Articolo unico
 --------------
 
   
-Nell'art. 7, relativo al corso di laurea in economia e commercio, all'elenco degli insegnamenti complementari sono aggiunti i seguenti: economia dei mercati agricoli;  
-diritto pubblico dell'economia.  
+Nell'art. 18, relativo al corso di laurea in lingue e letterature straniere, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+storia dei movimenti e dei partiti politici.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Selva di Val Gardena, addi' 2 settembre 1983
+### Dato a Roma, addi' 21 marzo 1983
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 15 febbraio 1984
+Registrato alla Corte dei conti, addi' 30 dicembre 1983
 
-Registro n. 8 Istruzione, foglio n. 68
+Registro n. 82 Istruzione, foglio n. 227

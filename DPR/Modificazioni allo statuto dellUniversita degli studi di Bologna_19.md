@@ -1,183 +1,209 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 settembre 1955 n. 956
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1974 n. 825
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 settembre 1955 n. 956
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1974 n. 825
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regi decreti 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-12;2227); [4 settembre 1930, n. 1312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-09-04;1312); [1 ottobre 1931, n. 1778](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1778); [27 ottobre 1932, n. 2092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2092); [6 dicembre 1934, n. 2394](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2394); [1 ottobre 1936, n. 2502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2502); [12 maggio 1939, n. 1315](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-05-12;1315); [5 ottobre 1939, n. 1644](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1644); [11 luglio 1941, n. 848](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-07-11;848); [18 luglio 1942, n. 928; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-07-18;928) [16 maggio 1947, n. 694, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-05-16;694) [22 febbraio 1948, n. 414](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-02-22;414); [30 luglio 1950, n. 1268](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-07-30;1268); [31 ottobre 1950, n. 1307](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1307); [5 agosto 1951, n. 1311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-05;1311); [27 ottobre 1951; n. 1792](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1792); [3 ottobre 1952, n. 4541](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-03;4541); [11 marzo 1953,n. 545](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;545); [12 maggio 1953, n. 547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-05-12;547); [30 giugno 1954, n. 742](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-30;742); [30 giugno 1954, n. 755](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-30;755); [14 agosto 1954, n. 862](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-08-14;862); [14 settembre 1954, n. 1231](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1231); [29 ottobre 1954, n. 1319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-29;1319); [29 ottobre 1954, n. 1457](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-29;1457); [1 marzo 1955, n. 222](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-03-01;222) e [24 luglio 1955, n. 799](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-24;799);
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Dopo l'art. 125, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione del "corso di specializzazione in scienze amministrative" con il conseguente spostamento della numerazione degli articoli successivi.
-
-Corso di specializzazione in scienze amministrative
-
-Art. 126. - Alla Facolta' di giurisprudenza e' annesso un corso di specializzazione in scienze amministrative.
-
-Art. 127. - Il corso ha lo scopo di conferire una preparazione specializzata agli aspiranti alle carriere burocratiche pubbliche.
-
-Ad esso possono essere iscritti i laureati in giurisprudenza, in economia e commercio, in scienze politiche.
-
-Art. 128. - Il direttore del corso post-universitario di specializzazione in scienze amministrative e' nominato per un triennio dal rettore fra i professori ordinari, anche fuori ruolo, della Facolta' di giurisprudenza, su proposta del Consiglio della facolta' medesima ed e' rieleggibile.
-
-Il Consiglio dei professori e' costituito da tutti i docenti che impartiscono un insegnamento.
-
-Art. 129. - Il corso ha la durata di un anno e comprende i seguenti insegnamenti:
-
-Insegnamenti fondamentali:
-
-A - 1) Gli istituiti ed i principi fondamentali dei diritto amministrativo;
-
-2) La responsabilita' della pubblica Amministrazione e dei pubblici amministratori;
-
-3) Gli istituti ed i principi fondamentali dello ordinamento della giustizia amministrativa in Italia, con cenni di diritto comparato;
-
-4) La Regione, gli Enti autarchici territoriali ed istituzionali; loro rapporto con lo Stato;
-
-5) Il rapporto di pubblico impiego. Esposizione della disciplina di tale rapporto per gli impiegati civili dello Stato e degli Enti autarchici territoriali ed istituzionali per le Forze armate, per le Forze di polizia;
-
-6) La finanza e contabilita' dello Stato e degli Enti pubblici territoriali, loro rapporto con lo Stato.
-
-B - La tecnica amministrativa:
-
-1) La metodologia del lavoro nella pubblica Amministrazione;
-
-2) Gli strumenti dell'azione amministrativa;
-
-3) Le relazioni umane (interne ed esterne) nella pubblica Amministrazione;
-
-4) La funzione direttiva nella pubblica Amministrazione.
-
-Insegnamenti complementari:
-
-1) La polizia, l'igiene e sanita', l'assistenza;
-
-2) Il lavoro e la previdenza sociale;
-
-3) L'agricoltura, l'industria ed il commercio;
-
-4) La finanza pubblica, il credito e le assicurazioni;
-
-5) I lavori pubblici;
-
-6) I trasporti e le comunicazioni;
-
-7) La difesa nazionale;
-
-8) La pubblica istruzione, le arti e le scienze;
-
-9) Lo spettacolo, le ricreazioni, il turismo, lo sport e la gioventu'.
-
-Art. 130. - I corsi di lezioni saranno completati da esercitazioni pratiche e da visite ai principali uffici pubblici amministrativi, e da conferenze che potranno essere affidate anche a docenti estranei alla scuola e ad eminenti cultori, italiani e stranieri, delle discipline amministrative.
-
-Art. 131. - Le date d'inizio e di termine delle lezioni sono stabilite dal Consiglio dei professori, il quale predispone anche l'ordinamento e la successione dei corsi, graduandoli nel modo piu' confacente ai fini didattici.
-
-Art. 132. - Il Consiglio dei professori compilera' il regolamento di esecuzione delle presenti norme statutarie.
-
-Art. 133. - Al termine del corso verra' rilasciato agli iscritti, che abbiano sostenuto un colloquio su tutte le materie obbligatorie e su due complementari a loro scelta, un attestato di frequenza e di profitto.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 21 settembre 1955
-
-GRONCHI
-
-ROSSI
-
-Visto, il Guardasigilli: MORO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 28 ottobre 1955 Atti del Governo, registro n. 93, foglio n. 96. - CARLOMAGNO
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regi decreti 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-12;2227); [4 settembre 1930, n. 1312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-09-04;1312); [1 ottobre 1931, n. 1778](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1778); [27 ottobre 1932, n. 2092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2092); [6 dicembre 1934, n. 2394](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2394); [1 ottobre 1936, n. 2502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2502); [12 maggio 1939, n. 1315](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-05-12;1315); [5 ottobre 1939, n. 1644](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1644); [11 luglio 1941, n. 848](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-07-11;848); [18 luglio 1942, n. 928; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-07-18;928) [16 maggio 1947, n. 694, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-05-16;694) [22 febbraio 1948, n. 414](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-02-22;414); [30 luglio 1950, n. 1268](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-07-30;1268); [31 ottobre 1950, n. 1307](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1307); [5 agosto 1951, n. 1311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-05;1311); [27 ottobre 1951; n. 1792](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1792); [3 ottobre 1952, n. 4541](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-03;4541); [11 marzo 1953,n. 545](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;545); [12 maggio 1953, n. 547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-05-12;547); [30 giugno 1954, n. 742](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-30;742); [30 giugno 1954, n. 755](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-30;755); [14 agosto 1954, n. 862](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-08-14;862); [14 settembre 1954, n. 1231](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1231); [29 ottobre 1954, n. 1319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-29;1319); [29 ottobre 1954, n. 1457](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-29;1457); [1 marzo 1955, n. 222](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-03-01;222) e [24 luglio 1955, n. 799](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-24;799);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione,   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Gli articoli da 473 a 478 relativi alla scuola di specializzazione in radiologia sono abrogati e sostituiti dai seguenti, con il conseguente spostamento della numerazione degli articoli successivi:   
   
-Dopo l'art. 125, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione del "corso di specializzazione in scienze amministrative" con il conseguente spostamento della numerazione degli articoli successivi.  
+Scuola di specializzazione in radiologia   
   
-Corso di specializzazione in scienze amministrative  
+Art. 473. - La scuola rilascia i seguenti diplomi di specializzazione: in radiologia ed in radiologia diagnostica.   
+L'iscrizione alla scuola e' riservata ai laureati in medicina e chirurgia, che vi possono essere ammessi nel numero massimo di 70 compresi tutti gli anni di corso.   
+Art. 474. - Diploma di specializzazione in radiologia.   
+La durata del corso e' di 4 anni; le materie di insegnamento sono le seguenti:   
+a) Matematica, fisica, nozioni di statistica e informatica (annuale) comprendente:   
+1) Richiami di matematica e fisica generale;   
+2) Costituzione della materia;   
+3) Produzione, assorbimento e misura delle radiazioni;   
+4) Statistica applicata alla medicina;   
+5) Informatica e cibernetica applicata alla radiologia.   
+b) Radiodiagnostica (triennale) comprendente:   
+1) Principi generali di radiodiagnostica;   
+2) Apparecchi, strumenti e tecnica radiodiagnostica;   
+3) Tecnica e fisiologia applicata alla radiodiagnostica;   
+4) I mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;   
+5) Semeiotica radiologica;   
+6) Diagnostica differenziale radiologica;   
+7) Dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;   
+8) Dimostrazioni di casistica clinica.   
+c) Radiobiologia (annuale) comprendente:   
+1) Radiobiologia generale;   
+2) Danni da radiazioni e radiopatie.   
+d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:   
+1) Legislazione sanitaria applicata alla radiologia;   
+2) Compiti e responsabilita' medico legali del radiologo;   
+3) Radioprotezione fisica e dosimetria ad essa connessa;   
+4) Fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;   
+5) Radioprotezione clinica;   
+6) Problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.   
+e) Radioterapia e terapia fisica (triennale) comprendente:   
+1) Radiobiologia applicata;   
+2) Fondamenti generali di radioterapia e terapia fisica;   
+3) Istopatologia speciale dei tumori;   
+4) Nozioni sugli apparecchi e strumenti per la radioterapia;   
+5) Tecnica e metodica radio terapica;   
+6) Dosimetria;   
+7) Clinica radioterapica;   
+8) Fondamenti generali di chemioterapia oncologica;   
+9) Chemioterapia clinica dei tumori e sua associazione alla radioterapia;   
+10) Dimostrazione di casistica clinica.   
+f) Medicina nucleare (biennale) comprendente:   
+1) Elementi di medicina nucleare;   
+2) Istrumento, tecnica e metodica dell'impiego dei radioisotopi in medicina nucleare;   
+3) Dosimetria dei radioisotopi somministrati per via interna;   
+4) Diagnostica con radioisotopi somministrati per via interna;   
+5) Radioterapia metabolica;   
+6) Dimostrazione di casistica clinica.   
+Le materie d'insegnamento sono cosi' distribuite nei quattro anni di corso:   
   
-Art. 126. - Alla Facolta' di giurisprudenza e' annesso un corso di specializzazione in scienze amministrative.  
-Art. 127. - Il corso ha lo scopo di conferire una preparazione specializzata agli aspiranti alle carriere burocratiche pubbliche.  
-Ad esso possono essere iscritti i laureati in giurisprudenza, in economia e commercio, in scienze politiche.  
-Art. 128. - Il direttore del corso post-universitario di specializzazione in scienze amministrative e' nominato per un triennio dal rettore fra i professori ordinari, anche fuori ruolo, della Facolta' di giurisprudenza, su proposta del Consiglio della facolta' medesima ed e' rieleggibile.  
-Il Consiglio dei professori e' costituito da tutti i docenti che impartiscono un insegnamento.  
-Art. 129. - Il corso ha la durata di un anno e comprende i seguenti insegnamenti:  
-Insegnamenti fondamentali:  
-A - 1) Gli istituiti ed i principi fondamentali dei diritto amministrativo;  
-2) La responsabilita' della pubblica Amministrazione e dei pubblici amministratori;  
-3) Gli istituti ed i principi fondamentali dello ordinamento della giustizia amministrativa in Italia, con cenni di diritto comparato;  
-4) La Regione, gli Enti autarchici territoriali ed istituzionali; loro rapporto con lo Stato;  
-5) Il rapporto di pubblico impiego. Esposizione della disciplina di tale rapporto per gli impiegati civili dello Stato e degli Enti autarchici territoriali ed istituzionali per le Forze armate, per le Forze di polizia;  
-6) La finanza e contabilita' dello Stato e degli Enti pubblici territoriali, loro rapporto con lo Stato.  
-B - La tecnica amministrativa:  
-1) La metodologia del lavoro nella pubblica Amministrazione;  
-2) Gli strumenti dell'azione amministrativa;  
-3) Le relazioni umane (interne ed esterne) nella pubblica Amministrazione;  
-4) La funzione direttiva nella pubblica Amministrazione.  
-Insegnamenti complementari:  
-1) La polizia, l'igiene e sanita', l'assistenza;  
-2) Il lavoro e la previdenza sociale;  
-3) L'agricoltura, l'industria ed il commercio;  
-4) La finanza pubblica, il credito e le assicurazioni;  
-5) I lavori pubblici;  
-6) I trasporti e le comunicazioni;  
-7) La difesa nazionale;  
-8) La pubblica istruzione, le arti e le scienze;  
-9) Lo spettacolo, le ricreazioni, il turismo, lo sport e la gioventu'.  
-Art. 130. - I corsi di lezioni saranno completati da esercitazioni pratiche e da visite ai principali uffici pubblici amministrativi, e da conferenze che potranno essere affidate anche a docenti estranei alla scuola e ad eminenti cultori, italiani e stranieri, delle discipline amministrative.  
-Art. 131. - Le date d'inizio e di termine delle lezioni sono stabilite dal Consiglio dei professori, il quale predispone anche l'ordinamento e la successione dei corsi, graduandoli nel modo piu' confacente ai fini didattici.  
-Art. 132. - Il Consiglio dei professori compilera' il regolamento di esecuzione delle presenti norme statutarie.  
-Art. 133. - Al termine del corso verra' rilasciato agli iscritti, che abbiano sostenuto un colloquio su tutte le materie obbligatorie e su due complementari a loro scelta, un attestato di frequenza e di profitto.  
+1° Anno (tronco comune):   
+Matematica, fisica, nozioni di statistica ed informatica;   
+Radiobiologia, protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;   
+Radiodiagnostica (I).   
+  
+2° Anno:   
+Radiodiagnostica (II);   
+Radioterapia e terapia fisica (I).   
+  
+3° Anno:   
+Radiodiagnostica (III);   
+Radioterapia e terapia fisica (II);   
+Medicina nucleare (I).   
+  
+4° Anno:   
+Radioterapia e terapia fisica (III);   
+Medicina nucleare (II).   
+  
+Art. 475 - Diploma di specializzazione in radiologia diagnostica. - La durata dei corsi e' di 3 anni (tre); gli insegnamenti sono i seguenti:   
+a) Matematica, fisica, nozioni di statistica e di informatica (annuale) comprendente:   
+1) Richiami di matematica e fisica generale;   
+2) Costituzione della materia;   
+3) Produzione, assorbimento e misura delle radiazioni;   
+4) Statistica applicata alla medicina;   
+5) Informatica e cibernetica applicata alla radiologia.   
+b) Radiodiagnostica (triennale) comprendente:   
+1) Principi generali di radiodiagnostica;   
+2) Apparecchi, strumenti e tecnica radiodiagnostica;   
+3) Tecnica e fisiologia applicata alla radiodiagnostica;   
+4) I mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;   
+5) Semeiotica radiologica;   
+6) Diagnostica differenziale radiologica;   
+7) Dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;   
+8) Dimostrazioni di casistica clinica.   
+c) Radiobiologia (annuale) comprendente:   
+1) Radiobiologia generale;   
+2) Danni da radiazioni e radiopatie.   
+d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:   
+1) Legislazione sanitaria applicata alla radiologia;   
+2) Compiti e responsabilita' medico-legali del radiologo;   
+3) radioprotezione fisica e dosimetria ad essa connessa;   
+4) Fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;   
+5) Radioprotezione chimica;   
+6) Problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.   
+  
+Le materie d'insegnamento sono cosi' distribuite nei tre anni di corso:   
+  
+1° Anno (tronco comune):   
+Matematica, fisica, nozioni di statistica ed informatica;   
+Radiobiologia;   
+Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;   
+Radiodiagnostica (I).   
+  
+2° Anno:   
+Radiodiagnostica (II).   
+  
+3° Anno:   
+Radiodiagnostica (III).   
+  
+Art. 476 - Disposizioni comuni ai due corsi. - I singoli insegnamenti saranno tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze, dimostrazioni pratiche, seminari, e, ove sia opportuno e possibile, da visite ad istituzioni di particolare interesse.   
+Gli iscritti sono tenuti ad un periodo di internato non inferiore a sei mesi per ogni anno di corso in istituti indicati dal consiglio della scuola con obblighi di frequenza uguali a quelli degli assistenti degli istituti stessi.   
+Gli iscritti ad entrambi i corsi sosterranno un esame in gruppo di materie in programma nell'anno precedente per essere ammessi all'anno successivo.   
+Per essere ammessi agli esami di diploma in radiologia od in radiologia diagnostica, gli iscritti debbono aver superato un esame in ciascuna materia di insegnamento ed elaborata una tesi scritta, su argomento radiologico, concordato con il direttore della scuola.   
+L'art. 561, relativo alla scuola di specializzazione in chirurgia vascolare, e' modificato nel senso che il primo comma e' abrogato e sostituito dal seguente:   
+"Alla scuola sono ammessi i laureati in medicina e chirurgia previo concorso interno per titoli ed esami".   
+Dopo l'art. 594, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in chirurgia d'urgenza e pronto soccorso:   
+  
+Scuola di specializzazione in chirurgia d'urgenza e pronto soccorso   
+  
+Art. 595. - Presso la facolta' di medicina e chirurgia dell'Universita' di Bologna e' istituita la scuola di specializzazione in "Chirurgia d'urgenza e di pronto soccorso" della durata di anni quattro, che conferisce il diploma di specializzazione in "Chirurgia d'urgenza e di pronto soccorso".   
+Art. 596. - Possono essere ammessi alla scuola i laureati in medicina e chirurgia. L'ammissione avviene per titoli ed esami.   
+Art. 597. - Il numero degli iscritti e' di 10 per ogni anno di corso e non potra' superare il numero di 40 (quaranta) per l'intero corso.   
+Art. 598. - Non sono concesse abbreviazioni di corso.   
+Art. 599. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+1) Chirurgia d'urgenza e di pronto soccorso (quadriennale) (I);  
+2) Chirurgia generale (quadriennale) (I);   
+3) Traumatologia dell'apparato locomotore (biennale (I);   
+4) Anestesiologia;   
+5) Ricerche di laboratorio in chirurgia d'urgenza;   
+6) Semeiotica chirurgica;   
+7) Radiologia;   
+8) Traumatologia maxillo-facciale.   
+2° Anno:   
+1) Chirurgia d'urgenza e di pronto soccorso (quadriennale) (II);   
+2) Chirurgia generale (quadriennale) (II);   
+3) Traumatologia dell'apparato locomotore (biennale) (II);   
+4) Chirurgia plastica-riparatrice (biennale) (I);   
+5) Anatomia chirurgica;   
+6) Trattamento pre e post-operatorio in chirurgia d'urgenza;   
+7) Chirurgia ginecologica d'urgenza;   
+8) Chirurgia urologica d'urgenza.   
+3° Anno:   
+1) Chirurgia d'urgenza e di pronto soccorso (quadriennale (III);   
+2) Chirurgia generale (quadriennale) (III);   
+3) Neurotraumatologia (biennale) (I);   
+4) Chirurgia plastica-riparatrice (biennale) (II);   
+5) Valutazione medico-legale delle lesioni chirurgiche;   
+6) Chirurgia toracica d'urgenza;   
+7) Chirurgia cardio-vascolare d'urgenza;   
+8) Chirurgia pediatrica d'urgenza.   
+4° Anno:   
+1) Chirurgia d'urgenza e di pronto soccorso (quadriennale) (IV);   
+2) Chirurgia generale (quadriennale) (IV);   
+3) Neurotraumatologia (biennale) (II);   
+4) Fisiopatologia del politraumatizzato;   
+5) Trattamento del politraumatizzato;   
+6) Rianimazione.   
+Art. 600. - La frequenza alle lezioni ed alle esercitazioni e' obbligatoria per tutti gli iscritti.   
+L'internato e' obbligatorio durante tutti i quattro anni del corso, che si svolgera' presso l'istituto di chirurgia ove ha sede la direzione della Scuola sotto forma di permanenza costante in tale istituto durante le ore della sua attivita', con presenza giornaliera nei vari reparti.   
+Dall'Obbligo di tale internato, saranno esentati quegli allievi che, in qualita' di assistenti o di aiuti, prestino effettivamente servizio presso reparti di chirurgia d'urgenza e di pronto soccorso delle Universita' e di ospedali regionali e/o provinciali.   
+Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico dell'operosita' scolastica degli allievi, con frequenti interrogazioni e vigilando sulle esercitazioni e sui turni di servizio interno.   
+L'allievo che non abbia ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali.   
+Art. 601. - Alla fine di ogni anno di corso gli iscritti sono tenuti a superare, in un unico gruppo, tutti gli esami relativi ai singoli insegnamenti di ciascun anno per il passaggio all'anno successivo. Gli esami biennali e quadriennali saranno sostenuti rispettivamente alla fine di ciascun corso biennale e quadriennale.   
+Gli esami possono essere sostenuti solamente in due sessioni annuali, una estiva ed una autunnale e comunque non oltre il 30 novembre dell'anno in corso.   
+Art. 602. - Per conseguire il diploma di specializzazione i candidati, dopo aver superato tutti gli esami di profitto, dovranno superare l'esame di diploma consistente nella discussione di una tesi scritta a carattere clinico o sperimentale su argomenti attinenti alla specialita'.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 settembre 1955
+### Dato a Roma, addi' 28 ottobre 1974
 
-GRONCHI ROSSI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 28 ottobre 1955
+Registrato alla Corte dei conti, addi' 27 gennaio 1975
 
-Atti del Governo, registro n. 93, foglio n. 96. - CARLOMAGNO
+Atti di Governo, registro n. 8, foglio n. 43

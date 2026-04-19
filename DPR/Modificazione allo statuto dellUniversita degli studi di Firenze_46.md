@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1984 n. 261
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1983 n. 944
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1984 n. 261
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1983 n. 944
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
@@ -39,19 +39,19 @@ Articolo unico
 --------------
 
   
-Nell'art. 82, relativo al corso di laurea in scienze biologiche della facolta' di scienze matematiche, fisiche e naturali, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-chimica analitica strumentale.  
+Nell'art. 9, relativo al corso di laurea in giurisprudenza, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+diritto dell'esecuzione penale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 marzo 1984
+### Dato a Roma, addi' 26 aprile 1983
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 11 giugno 1984
+Registrato alla Corte dei conti, addi' 15 febbraio 1984
 
-Registro n. 34 Istruzione, foglio n. 327
+Registro n. 8 Istruzione, foglio n. 80

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 aprile 1951 n. 555
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1949 n. 199
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 aprile 1951 n. 555
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1949 n. 199
+============================================================
 
 Autorizzazione all'Universita' di Roma ad accettare una donazione.
 ------------------------------------------------------------------
@@ -12,7 +12,7 @@ Art. 1
 
 N.
 
-555. Decreto del Presidente della Repubblica 18 aprile 1951, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Roma viene autorizzata ad accettare la donazione della somma di L. 60.000 nominali, in titoli di Stato, Rendita 5%, disposta in suo favore dalla signorina Emma Ponce de Leon, con atto pubblico amministrativo in data 21 marzo 1950, per l'istituzione del "Premio di studio triennale dott. Giuseppe Ponce de Leon".  
+199. Decreto del Presidente della Repubblica 18 marzo 1949, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Roma viene autorizzata ad accettare la donazione della somma di L. 40.000 nominali, in titoli di Rendita 5% al portatore, disposta in suo favore dalla signorina Emma Ponce de Leon, con atto pubblico in data 3 giugno 1948, per l'istituzione di un premio da denominarsi "Premio di studio triennale Giuseppe Pouce de Leon" e da conferirsi ad un assistente, di ruolo o volontario dell'Istituito di topografia e geodesia della Facolta' di ingegneria in Roma, il quale abbia svolto, nell'ultimo triennio, il miglior lavoro di topografia.  
   
-Visto, il Guardasigilli: PICCIONI  
-Registrato alla Corte dei conti, addi' 18 luglio 1951
+Visto, il Guardasigilli: GRASSI  
+Registrato alla Corte dei conti, addi' 2 maggio 1949

@@ -1,68 +1,146 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1071
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1983 n. 1154
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1071
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1983 n. 1154
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Firenze e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Nell'art. 49, relativo al corso di laurea in lettere, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+lingua latina;  
+lingua greca;  
+sociologia della letteratura;  
+storia dell'Europa contemporanea;  
+storia del Rinascimento;  
+storia dell'eta' dell'Illuminismo;  
+storia dei partiti e dei movimenti sindacali;  
+teoria della letteratura;  
+storia del pensiero politico classico;  
+storia della storiografia antica;  
+storia economica dell'eta' industriale;  
+metodologia della ricerca storica;  
+storia delle religioni del mondo classico;  
+storia economica del mondo antico;  
+archeologia e storia dell'arte tardo-romana;  
+archeologia della Magna Grecia;  
+epigrafia italica;  
+storia della lingua latina;  
+storia della lingua greca;  
+metrica greca e latina;  
+storia della retorica classica;  
+lessicografia italiana;  
+lingue e letterature dell'Etiopia;  
+epigrafia semitica;  
+archivistica;  
+storia della civilta' minoicomicenea;  
+storia del disegno e della grafica;  
+storia della ceramica medievale e moderna;  
+geografia storica;  
+letteratura inglese moderna e contemporanea;  
+letteratura tedesca moderna e contemporanea;  
+letteratura russa moderna e contemporanea;  
+letteratura francese moderna e contemporanea;  
+letteratura inglese medievale;  
+linguistica slava;  
+storia della musica rinascimentale e barocca;  
+storia dell'arte bizantina;  
+storia dell'arte nel Rinascimento;  
+storia dell'arte fiamminga e olandese.  
+
+Art. 2
+------
+
   
-Decreta:  
+Nell'art. 50, relativo al corso di laurea in filosofia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+lingua latina;  
+lingua greca;  
+sociologia della letteratura;  
+storia dell'Europa contemporanea;  
+storia del Rinascimento;  
+storia dell'eta' dell'Illuminismo;  
+storia dei partiti e dei movimenti sindacali;  
+teoria della letteratura;  
+storia del pensiero politico classico;  
+storia della storiografia antica;  
+storia economica dell'eta' industriale;  
+metodologia della ricerca storica;  
+storia delle religioni del mondo classico;  
+storia economica del mondo antico;  
+storia della logica;  
+storia della filosofia contemporanea;  
+storia della storiografia filosofica;  
+storia della filosofia morale;  
+storia del pensiero scientifico.  
+
+Art. 3
+------
+
   
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-L'art. 242 relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che le scuole in "Anestesia" e in "Allergologia" mutano rispettivamente la denominazione in quelle di "Anestesiologia e rianimazione" e in "Allergologia e immunologia clinica".  
-L'art. 253 relativo alla scuola di specializzazione in anestesia, che assume la denominazione di scuola di specializzazione in anestesiologia e rianimazione, e' abrogato e sostituito dal seguente:  
-  
-Scuola di specializzazione in anestesiologia e rianimazione  
-  
-Art. 253. - La durata del corso degli studi e' di tre anni.  
-Le materie di insegnamento impartite nella scuola sono le seguenti: 1° Anno:  
-Anatomia, biochimica, farmacologia, fisica e fisiologia applicate all'anestesiologia ed alla rianimazione;  
-Anestesiologia;  
-Tecniche chirurgiche di interesse anestesiologico;  
-Aspetti medico-legali dell'anestesia e della rianimazione;  
-- Internato.  
-2° Anno:  
-Anestesiologia;  
-Terapia antalgica;  
-Rianimazione;  
-- Internato.  
-3° Anno:  
-Rianimazione;  
-Tecniche speciali di anestesia e rianimazione;  
-Indagini diagnostiche attinenti alla specialita';  
-- Internato.  
-Numero massimo di iscritti venticinque per anno.  
-Non e' concesso alcun abbreviamento di corso, ad eccezione dei candidati che, gia' in possesso del diploma di specializzazione in anestesiologia, possono essere ammessi al terzo anno per ottenerne il completamento.  
-Per accedere ai corsi successivi e' obbligatorio il superamento di tutti gli esami del corso precedente, ivi comprese le materie biennali.  
-Gli esami possono essere sostenuti solamente in due sessioni annuali, una estiva ed una autunnale, e comunque non oltre il 30 novembre dell'anno in corso.  
-Il diploma viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinico o sperimentale.  
+Nell'art. 51, relativo al corso di laurea in lingue e letterature straniera moderne (indirizzo europeo), all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+lingua latina;  
+lingua greca;  
+sociologia della letteratura;  
+storia dell'Europa contemporanea;  
+storia del Rinascimento;  
+storia dell'eta' dell'Illuminismo;  
+storia dei partiti e dei movimenti sindacali;  
+teoria della letteratura;  
+geografia storica;  
+letteratura inglese moderna e contemporanea;  
+letteratura tedesca moderna e contemporanea;  
+letteratura russa moderna e contemporanea;  
+letteratura francese moderna e contemporanea;  
+letteratura inglese medievale;  
+linguistica slava;  
+storia della musica rinascimentale e barocca;  
+storia dell'arte bizantina;  
+storia dell'arte del Rinascimento;  
+storia dell'arte fiamminga e olandese;  
+metodologia dell'insegnamento della lingua inglese.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1970
+### Dato a Roma, addi' 23 dicembre 1983
 
-SARAGAT MISASI
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 24 dicembre 1970
+Registrato alla Corte dei conti, addi' 22 marzo 1984
 
-Atti del Governo, registro n. 239, foglio n. 34. - CARUSO
+Registro n. 17 Istruzione, foglio n. 339

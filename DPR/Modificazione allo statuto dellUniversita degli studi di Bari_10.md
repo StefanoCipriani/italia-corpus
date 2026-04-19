@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 326
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1986 n. 518
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 326
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1986 n. 518
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -39,14 +39,14 @@ Articolo unico
 --------------
 
   
-Nell'art. 54, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-fisiopatologia prenatale.  
+Nell'art. 19, relativo al corso di laurea in economia e commercio, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+diritto privato dell'economia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 febbraio 1986
+### Dato a Roma, addi' 2 maggio 1986
 
 COSSIGA
 
@@ -54,6 +54,6 @@ FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 20 giugno 1986
+Registrato alla Corte dei conti, addi' 11 agosto 1986
 
-Registro n. 49 Istruzione, foglio n. 235
+Registro n. 63 Istruzione, foglio n. 342

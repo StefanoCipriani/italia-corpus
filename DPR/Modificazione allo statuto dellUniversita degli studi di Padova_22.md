@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 1166
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 novembre 1985 n. 1010
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 1166
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 novembre 1985 n. 1010
+================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Padova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 14 ottobre 1926, n. 2133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2133), e successive modificazioni:
+Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 14 ottobre 1926, n. 2133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2133), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -33,26 +33,27 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' di Padova, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Nell'art. 176, relativo al corso di laurea in scienze agrarie, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-tecnologie agrarie speciali;  
-tecnologie alimentari.  
+Nell'art. 177, relativo al corso di laurea in scienze agrarie della facolta' di agraria all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+istituzioni di patologia vegetale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Selva di Val Gardena, addi' 2 settembre 1983
+### Dato a Roma, addi' 22 novembre 1985
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 4 aprile 1984
+Registrato alla Corte dei conti, addi' 7 aprile 1986
 
-Registro n. 21 Istruzione, foglio n. 202
+Registro n. 24 Istruzione, foglio n. 55

@@ -1,70 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1967 n. 277
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 luglio 1966 n. 700
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1967 n. 277
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 luglio 1966 n. 700
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 33. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze politiche e' aggiunto quello di: "Storia politica e diplomatica dell'Asia orientale".
-
-Art. 127. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze agrarie sono aggiunti quelli di:
-
-Storia dell'agricoltura;
-
-Assistenza e divulgazione in agricoltura.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 28 marzo 1967
-
-SARAGAT
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 9 maggio 1967 Atti del Governo, registro n. 211, foglio n. 14. - GRECO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -73,22 +24,35 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 33. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze politiche e' aggiunto quello di: "Storia politica e diplomatica dell'Asia orientale".  
-Art. 127. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze agrarie sono aggiunti quelli di:  
   
-Storia dell'agricoltura;  
-Assistenza e divulgazione in agricoltura.  
+Dopo l'art. 252, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione del Corso di specializzazione di Tecniche radioisotopiche e di protezione dalle radiazioni annesso alla Facolta' di scienze matematiche, fisiche e naturali.  
+Corso di specializzazione di tecniche radioisotopiche e di protezione dalle radiazioni  
+Art. 253. - I corsi di specializzazione di tecniche radioisotopiche e di protezione dalle radiazioni vengono organizzati dall'Istituto di fisica dell'Universita' di Bologna. Gli allievi acquisteranno conoscenza pratica delle tecniche di base per la manipolazione dei radioisotopi e delle tecniche speciali di misura della radioattivita';  
+particolare attenzione verra' dedicata ai problemi di protezione dalle radiazioni.  
+Art. 254. - Saranno ammessi i laureati in Medicina e chirurgia, Medicina veterinaria, Scienze matematiche, fisiche e naturali, Chimica, Chimica industriale, Farmacia, Ingegneria ed Agraria.  
+Inoltre per dare ai partecipanti l'effettiva possibilita' di impiegare successivamente le tecniche nei loro laboratori, ciascuno di essi potra' farsi accompagnare da un tecnico (chimico o elettronico). Una Commissione presieduta dal direttore del corso decidera' per l'ammissione sulla base dei titoli presentati dai candidati.  
+Art. 255. - Il direttore del corso verra' nominato per un triennio dalla Facolta' di scienze, su proposta del direttore dell'Istituto di fisica. Ogni anno il direttore del corso sottoporra' all'approvazione della Facolta' di scienze il calendario dei corsi ed il nome dei docenti tra riconosciuti esperti della materia, italiani o strafieri.  
+Art. 256. - La durata del corso e' annuale. Gli insegnamenti impartiti ed il nome dei docenti, il numero dei posti disponibili verranno resi noti anno per anno con pubblico bando.  
+Gli insegnamenti impartiti sono:  
+1) Elementi di dosimetria e tecniche di misura della dose;  
+2) Elementi di radioattivita' e tecniche di misura;  
+3) Fisica sanitaria e radioprotezione;  
+4) Elementi di chimica nucleare e radiochimica;  
+5) Complementi di matematica (impiego dei calcolatori elettronici).  
+Tutti i corsi sono accompagnati da esercitazioni pratiche.  
+Verranno inoltre tenuti brevi cicli di lezioni su argomenti monografici e di attualita', conferenze e seminari.  
+Art. 257. - Alla fine del corso a coloro che avranno frequentato le lezioni e le esercitazioni pratiche verra' rilasciato un attestato di frequenza; a coloro che avranno frequentato il corso e avranno superato una prova d'esame su tutte le materie verra' rilasciato un certificato di profitto.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 marzo 1967
+### Dato ad Antagnod, addi' 30 luglio 1966
 
-SARAGAT GUI
+- SARAGAT GUI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 9 maggio 1967
+Registrato alla Corte dei conti, addi' 7 settembre 1966
 
-Atti del Governo, registro n. 211, foglio n. 14. - GRECO
+Atti del Governo, registro n. 205, foglio n. 38. - DI PRETORO

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 marzo 1965 n. 442
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1976 n. 1081
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 marzo 1965 n. 442
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1976 n. 1081
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Padova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -22,7 +22,7 @@ Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?u
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' degli studi di Padova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -30,152 +30,360 @@ Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso: L'art. 1 e' abrogato e sostituito dal seguente:
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 105 - all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:
+
+fitobiologia delle acque interne;
+
+fitobiologia marina;
+
+fitogeografia;
+
+zoogeografia;
+
+speleologia;
+
+ecologia vegetale.
+
+Nello stesso elenco l'insegnamento complementare di zoogeografia ed ecologia animale muta la denominazione in quella di ecologia animale.
+
+Nello stesso articolo la seconda frase del penultimo comma e' abrogata e sostituita dalla seguente:
+
+I corsi biennali di botanica, zoologia comportano un esame alla fine di ogni anno accademico.
+
+Art. 108 - all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:
+
+biochimica applicata;
+
+biologia generale;
+
+biologia molecolare;
+
+chimica analitica;
+
+citogenetica;
+
+fitobiologia delle acque interne;
+
+fitobiologia marina;
+
+virologia.
+
+Nello stesso elenco gli insegnamenti di endocrinologia e di fitogeografia ed ecologia vegetale mutano rispettivamente la denominazione in quella di endocrinologia comparata e di ecologia vegetale mentre l'insegnamento di zoogeografia ed ecologia animale viene scisso nei seguenti due zoogeografia e ecologia animale.
+
+Nello stesso articolo la seconda frase del penultimo comma e' abrogata e sostituita dalla seguente:
+
+I corsi biennali di botanica, zoologia e fisiologia generale comportano un esame alla fine di ogni anno.
+
+L'art. 207, relativo alle tasse e contributi per la scuola di perfezionamento nelle discipline del lavoro, e' abrogato e sostituito dal seguente:
+
+"Le tasse e soprattasse che gli iscritti dovranno versare sono fissate come segue:
+
+tassa immatricolazione. . . . . . . . . . . . . . . . . L. 5.000 tassa annuale di iscrizione . . . . . . . . . . . . . . L. 10.000 tassa annuale per i fuori corso . . . . . . . . . . . . L. 5.000 soprattassa esami . . . . . . . . . . . . . . . . . . . L. 3.000
+
+L'ammontare dei contributi sara' stabilito anno per anno dal consiglio di amministrazione, su proposta del senato accademico, udito il consiglio della facolta' di scienze politiche.
+
+L'art. 216, relativo alle tasse e contributi per la scuola di specializzazione in servizio sociale e' abrogato e sostituito dal seguente:
+
+tassa immatricolazione. . . . . . . . . . . . . . . . . L. 5.000 tassa annuale di iscrizione . . . . . . . . . . . . . . L. 10.000 tassa annuale per i fuori corso . . . . . . . . . . . . L. 5.000 soprattassa esami . . . . . . . . . . . . . . . . . . . L. 3.000
+
+L'ammontare dei contributi sara' stabilito di anno in anno dal consiglio di amministrazione, su proposta del senato accademico, udito il consiglio della facolta' di scienze politiche".
+
+Dopo l'art. 216, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di perfezionamento per il commercio con l'estero annessa alla facolta' di scienze politiche.
+
+Scuola di perfezionamento per il commercio con l'estero
+
+[Art. 217 - Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art217) e fini. - Alla facolta' di scienze politiche e' annessa la scuola di perfezionamento per il commercio con l'estero, che si propone lo scopo di promuovere la conoscenza, teorica ed applicativa, delle discipline e delle tecniche giuridiche ed economiche, relative alle transazioni commerciali, in particolare con l'estero.
+
+A tal fine la scuola:
+
+organizza i corsi di cui ai successivi articoli;
+
+istituisce e mantiene una biblioteca specializzata;
+
+raccoglie e classifica la documentazione relativa alle principali attivita' commerciali;
+
+pubblica studi e documenti di interesse anche informativo per gli operatori del settore;
+
+fornisce ad imprese, enti ed associazioni di categoria, informazioni ed orientamenti nelle materie di sua competenza;
+
+intraprende e favorisce ogni iniziativa intesa ad agevolare lo sviluppo del commercio internazionale.
+
+Per i fini suoi propri la scuola puo' istituire centri di ricerca e di informazione nonche' promuovere conferenze, convegni e corsi di aggiornamento.
+
+Art. 218 - Organi di governo. - Sono organi di governo della scuola: la direzione ed il consiglio. Direttore della scuola e' il preside della facolta' di scienze politiche; egli e' assistito nelle sue funzioni da due codirettori, nominati dal consiglio di facolta', rispettivamente per le discipline giuridiche ed economiche. Altri co-direttori possono venire nominati per presiedere alla segreteria della scuola, alla biblioteca, ai gruppi di ricerca, ai centri di informazione ed alle altre iniziative che la scuola intraprende. Le determinazioni del direttore, ai sensi del presente statuto, sono adottate con deliberazione collegiale del direttore e dei co-direttori. Il consiglio della scuola e' composto dal direttore che lo presiede, dai co-direttori, da un rappresentante dell'Universita' nominato dal rettore, da un rappresentante dell'unione delle camere di commercio del Veneto, nonche' dai rappresentanti di enti pubblici, associazioni di categoria o di enti operanti nel settore del commercio con l'estero, cooptati dal consiglio. Alle adunanze che riguardano l'ordinamento didattico dei corsi possono partecipare i docenti della scuola.
+
+Le deliberazioni sono adottate a maggioranza dei voti.
+
+Per singoli argomenti il consiglio puo' delegare i propri poteri al direttore ovvero ad uno o piu' dei suoi membri.
+
+Art. 219 - Amministrazione e bilancio. - La scuola si finanzia in via ordinaria mediante le tasse e i contributi di iscrizione, i proventi delle prestazioni a pagamento, le sovvenzioni di enti, associazioni e privati. Per assicurarne il funzionamento, la facolta' di scienze politiche stanzia annualmente un contributo, da prelevarsi per un terzo sui fondi dell'istituto di scienze giuridiche, per un terzo sui fondi dell'istituto di scienze economiche e per il rimanente terzo sui fondi dell'istituto di studi internazionali.
+
+Detto contributo, da utilizzarsi solo successivamente alle entrate di cui al comma precedente, qualora non impiegato viene restituito agli istituti.
+
+L'amministrazione della scuola compete per la parte ordinaria al direttore e per la parte straordinaria al consiglio.
+
+Delle entrate e delle uscite si redige annualmente rendiconto.
+
+Art. 220 - Diploma di perfezionamento, certificati di profitto, attestati di frequenza. - La scuola organizza due corsi di durata annuale, l'uno dedicato alle discipline giuridiche, l'altro alle discipline economiche del commercio con l'estero. Al termine di un biennio, costituito da entrambi gli anni di corso, la scuola rilascia un diploma di perfezionamento in discipline giuridiche ed economiche del commercio con l'estero. Agli iscritti che abbiano seguito un solo anno di corso la scuola rilascia un certificato di profitto. Agli iscritti sprovvisti di laurea o che abbiano seguito singoli insegnamenti, viene rilasciato un attestato di frequenza, con l'indicazione degli esami sostenuti.
+
+Art. 221 - Ammissione ai corsi. - Costituisce requisito per l'ammissione ai corsi, la laurea in scienze politiche, economia e commercio, giurisprudenza, scienze statistiche. Possono venire altresi' ammessi, con deliberazione del direttore, gli operatori commerciali con qualifica di dirigente in possesso di un'esperienza che, ai fini della frequentazione della scuola, venga giudicata equivalente. Per fini di aggiornamento professionale puo' venire richiesta la frequentazione di singoli insegnamenti. Il consiglio determina, all'inizio di ciascun anno accademico, il numero massimo delle domande che, in ragione delle esigenze didattiche, possono venire accolte per ciascun corso. Non si tiene conto, tra queste, delle domande di ammissione alla frequentazione di singoli insegnamenti. Il direttore provvede, con propria determinazione, all'accoglimento delle domande, previa, ove occorra, valutazione comparativa dei titoli; ai candidati puo' essere richiesto di sostenere un colloquio.
+
+Art. 222. - La scuola impartisce i seguenti insegnamenti:
+
+a) discipline giuridiche:
+
+diritto internazionale privato delle obbligazioni;
+
+diritto della compravendita internazionale;
+
+diritto dell'arbitrato commerciale;
+
+diritto processuale civile internazionale;
+
+diritto europeo della concorrenza;
+
+diritto amministrativo del commercio con l'estero;
+
+diritto delle Comunita' europee;
+
+diritto cambiario internazionale;
+
+diritto comparato dei contratti commerciali;
+
+diritto comparato delle societa';
+
+diritto tributario del commercio internazionale;
+
+diritto industriale comparato;
+
+legislazione e tecnica doganale;
+
+b) discipline economiche:
+
+analisi dei mercati;
+
+disciplina e tecnica di borse e mercati;
+
+disciplina e tecnica dei cambi;
+
+disciplina e tecnica bancaria;
+
+disciplina e tecnica dei trasporti;
+
+disciplina e tecnica delle assicurazioni;
+
+economia e politica della distribuzione commerciale;
+
+geografia economica delle risorse;
+
+merceologia: classificazione e standards di qualita';
+
+organizzazione economica internazionale;
+
+statistica economica;
+
+teoria dei flussi economici;
+
+teoria e politica del commercio estero;
+
+c) lingue:
+
+inglese commerciale;
+
+francese commerciale;
+
+La scuola puo', con deliberazione del consiglio, decidere di impartire direttamente, ovvero di mutuare, qualsiasi insegnamento previsto dallo statuto per le facolta' di scienze politiche, economia e commercio, giurisprudenza, scienze statistiche, demografiche ed attuariali dell'Universita' di Padova.
+
+Art. 223 - Programmi. - All'inizio di ciascun anno accademico il consiglio della scuola delibera l'attivazione degli anni di corso nonche' quali insegnamenti - ivi compresa la lingua straniera - debbono venire in essi impartiti.
+
+A ciascun insegnamento puo' venire assegnato un numero di lezione variabile tra un minimo di cinque ed un massimo di quaranta. Ogni anno di corso deve complessivamente comprendere non meno di 200 ore di lezione.
+
+Il consiglio raccoglie, coordina ed approva i programmi di insegnamento presentati dai singoli docenti.
+
+Art. 224. - I cicli di lezione e di conferenze sono affidati, con deliberazione del consiglio, a studiosi, italiani e stranieri, i quali abbiano recato con i propri lavori, contributi scientifici di rilievo allo studio della materia, ovvero, soprattutto per gli insegnamenti a carattere applicativo, ad esperti di riconosciuta competenza.
+
+Ciascun docente ha l'obbligo di svolgere le lezioni e le conferenze secondo il calendario e con le modalita' stabilite dal direttore e di partecipare alle commissioni di esami di profitto e di diploma nelle quali sia convocato. Egli puo' essere dichiarato decaduto con deliberazione del consiglio, qualora ometta o ritardi i doveri del proprio ufficio.
+
+Art. 225 - Lezioni. - Le lezioni si svolgono secondo modalita' che tengano conto delle esigenze di frequentatori gia' inseriti nel mondo del lavoro. Sono utilizzati di preferenza giorni prefestivi e, ove occorra, una o piu' settimane a tempo pieno.
+
+Il calendario relativo e' fissato, all'inizio dell'anno accademico, dal direttore, sentiti i docenti.
+
+Le lezioni consistono nell'esposizione dell'argomento fatta dal docente, seguita dalla discussione. Esperti di comprovata esperienza possono venire invitati ad illustrare casi pratici. Quando la materia lo richieda, la lezione puo' consistere in dimostrazioni, anche fuori della sede della scuola. La frequenza delle lezioni da parte degli iscritti e' obbligatoria. Essa viene rilevata dal docente ad ogni lezione ed annotata su apposito registro. Non potranno essere ammessi agli esami di profitto i frequentatori le cui assenze per la materia considerata superino il terzo.
+
+Compete al direttore la sorveglianza sulle lezioni e sulle frequenze.
+
+Art. 226. - Gli esami di profitto consistono in un accertamento scritto e/o orale sulla materia che costituisce oggetto del programma. Le commissioni sono nominate dal direttore e si compongono del docente incaricato dell'insegnamento, in qualita' di presidente, e di un cultore della materia, scelto preferibilmente tra i diplomati della scuola; la votazione e' espressa in ventesimi.
+
+Gli esami di diploma consistono nella discussione di una dissertazione scritta su un tema prescelto dal candidato e di tre argomenti prescelti dalla commissione in materie differenti, comunicati al candidato con breve anticipo. La commissione di diploma e' nominata dal direttore che la presiede e si compone di tre docenti della scuola, scelti in ragione delle materie cui l'esame si riferisce, e di tre esperti scelti preferibilmente fra i diplomati della scuola. La votazione e' espressa in settantesimi.
+
+Gli esami, cosi' di profitto che di diploma, si svolgono in due sessioni, estiva ed invernale, secondo il calendario fissato dal direttore, uditi i docenti interessati.
+
+Art. 227. - Le tasse e soprattasse che gli iscritti sono tenuti a versare sono fissate come segue:
+
+tassa di immatricolazione . . . . . . . . . . . . . . . L. 2.000 tassa di iscrizione . . . . . . . . . . . . . . . . . . L. 50.000 soprattassa esami . . . . . . . . . . . . . . . . . . . L. 10.000 tassa erariale di diploma . . . . . . . . . . . . . . . L. 1.200 soprattassa diploma . . . . . . . . . . . . . . . . . . L. 2.000
+
+Con deliberazione del consiglio sono inoltre determinati, di anno in anno, i contributi dovuti dagli iscritti ai corsi o ai singoli insegnamenti.
+
+Art. 228 - Prestazioni a pagamento. - La tariffa delle prestazioni a favore di terzi e' fissata dalla direzione della scuola. I proventi relativi sono percepiti dalla scuola, la quale ne dispone secondo le leggi vigenti ed il presente statuto.
+
+Art. 229 - Disposizioni finali. - Per quanto non previsto dalle presenti disposizioni, si applicano lo statuto dell'Universita' di Padova e le leggi dello Stato relative all'ordinamento didattico universitario.
+
+Spetta comunque al consiglio della scuola di emanare le norme regolamentari necessarie all'attuazione e all'esecuzione delle presenti disposizioni.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 30 ottobre 1976
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 26 settembre 1977 Registro n. 106 Istruzione, foglio n. 358
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Facolta' di giurisprudenza con annessa Scuola di statistica;  
-Facolta' di scienze politiche;  
-Facolta' di economia e commercio;  
-Facolta' di lettere e filosofia;  
-Facolta' di magistero;  
-Facolta' di medicina e chirurgia;  
-Facolta' di scienze matematiche, fisiche e naturali;  
-Facolta' di farmacia;  
-Facolta' di ingegneria;  
-Facolta' di agraria.  
-E' aggregato all'Universita' di Padova l'Istituto sperimentale zooprofilattico delle Venezie.  
-L'art. 2 e' abrogato e sostituito dal seguente:  
-Art. 2. - I direttori dei Seminari sono nominati con le norme stabilite dall'art. 23 del regolamento generale universitario e dai regolamenti particolari che li riguardano, e durano in carica un biennio accademico.  
-Spetta al Consiglio di facolta' di designare il direttore di un Istituto policattedra ovvero di istituire sezioni in seno all'Istituto o, infine, di promuovere la costituzione di nuovi Istituti.  
-La Facolta' assegna le cattedre tra vari Istituti.  
-Art. 15, relativo al corso di laurea in Giurisprudenza, e' aggiunto il seguente comma: "Gli insegnamenti biennali, impartiti da due diversi professori ufficiali, a ciascuno dei quali sia attribuito un distinto anno di corso con proprio programma, comportano due esami separati".  
-Art. 42. - Agli insegnamenti complementari del corso di laurea in Scienze politiche sono aggiunti quelli di:  
-Economia dei Paesi in via di sviluppo (in sostituzione di Economia coloniale);  
-Diritto delle Comunita' europee;  
-Ordinamenti giusprivatistici dei Paesi di lingua spagnola.  
-Art. 47. - Agli insegnamenti complementari del corso di laurea in Economia e commercio e' aggiunto quello di:  
-Storia delle dottrine economiche.  
-Art. 82. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti quelli di:  
-Istochimica patologica;  
-Medicina nucleare.  
-Art. 113. - Presso la Facolta' di scienze matematiche fisiche e naturali la denominazione dell'Osservatorio astrofisico di Asiago e' modificato in "Istituto di astronomia con annesso osservatorio astrofisico di Asiago".  
-Art. 132. - Agli insegnamenti complementari del corso di laurea in Farmacia e' aggiunto quello di Farmacia industriale.  
-Art. 139. - Agli Istituti annessi alla Facolta' di farmacia e' aggiunto il:  
-Seminario di scienze farmaceutiche  
-Seminario di scienze farmaceutiche  
-Art. 140. - Il Seminario di scienze farmaceutiche ha lo scopo di promuovere studi e ricerche nel campo delle discipline farmaceutiche pure ed applicate e di offrire la possibilita' ad allievi particolarmente distintisi nello studio e nella ricerca di raggiungere una piu' completa preparazione.  
-L'attivita' del Seminario si svolge per mezzo di conferenze, comunicazioni scientifiche, discussioni, dimostrazioni, viaggi di istruzione, corsi di preparazione e di aggiornamento e di quanto altro possa servire allo scopo su indicato.  
-Art. 141. - Del Seminario fanno parte tutti i professori di ruolo che compongono il Consiglio della Facolta' di farmacia, che costituiscono pure il Consiglio del Seminario.  
-Il direttore viene nominato dal rettore su proposta del Consiglio del Seminario.  
-Art. 142. - L'iscrizione al Seminario e' obbligatoria per gli studenti del III e IV corso della laurea in Farmacia, possono iscriversi anche laureati e laureandi fuori corso in Farmacia e anche gli studenti di altre Facolta' (nonche' laureati e diplomati).  
-Art. 143. - A tutti gli iscritti e' fatto obbligo di versare all'atto dell'iscrizione i contributi che vengono stabiliti dal Consiglio di amministrazione su proposta del Senato accademico, udito il Consiglio del Seminario.  
-Art. 145. - Agli iscritti al Seminario puo' essere rilasciato un certificato.  
-Art. 325, relativo alla Scuola di specializzazione in Malattie dell'apparato respiratorio e' abrogato e sostituito dal seguente:  
+Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' degli studi di Padova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Scuola di specializzazione in Malattie dell'apparato respiratorio  
-(Durata del corso anni 2)  
-1° Anno:  
-Anatomia normale dell'apparato respiratorio;  
-Fisiologia della respirazione;  
-Batteriologia ed immunologia;  
-Anatomia patologica dell'apparato respiratorio;  
-Semeiotica fisica e strumentale dell'apparato respiratorio;  
-Fisiologia;  
-Ciclica dell'apparato respiratorio.  
-2° Anno:  
-Anatomia patologica dell'apparato respiratorio;  
-Fisiopatologia respiratoria;  
-Clinica dell'apparato respiratorio;  
-Pneumopatie professionali;  
-Radiologia dell'apparato respiratorio;  
-Terapia delle affezioni dell'apparato respiratorio.  
-Il numero dei laureati ammessi ogni anno alla Scuola e' fissato ad un massimo di 20.  
-Internato in Clinica medica, oppure servizio come assistente effettivo per due anni in un sanatorio della Previdenza sociale o in un grande ospedale sanatoriale.  
-- relativo alla Scuola di specializzazione in Radiologia, l'ultimo comma e' abrogato e sostituito dal seguente:  
-"E' obbligatorio l'internato di due anni nell'istituto di radiologia dell'Universita'".  
-- relativo alla Scuola di specializzazione in Cardiologia e' abrogato e sostituito dal seguente:  
+Decreta:   
   
-Scuola di specializzazione in Cardiologia  
-(durata del corso 2 anni)  
-1° Anno:  
-Clinica dell'apparato cardiovascolare (lezioni);  
-Morfologia normale dell'apparato cardiovascolare (conferenze);  
-Fisiologia dell'apparato cardiovascolare (conferenze);  
-Anatomia patologica dell'apparato cardiovascolare (conferenze);  
-Farmacologia dell'apparato cardiovascolare (conferenze);  
-Patologia dell'apparato cardiovascolare (lezioni);  
-Radiologia dell'apparato cardiovascolare (dimostrazioni);  
-Elettrofisiologia cardiaca (conferenze);  
-Emodinamica delle cardiopatie acquisite (conferenze);  
-Semeiotica fisica dell'apparato cardiovascolare (esercitazioni);  
-Elettrocardiografia (esercitazioni).  
-2° Anno:  
-Clinica dell'apparato cardiovascolare (lezioni);  
-Terapia chirurgica dell'apparato cardiovascolare (lezioni);  
-Terapia medica dell'apparato cardiovascolare (lezioni);  
-Patologia dell'apparato cardiovascolare (lezioni);  
-Radiologia dell'apparato cardiovascolare (dimostrazioni);  
-Elettrocardiografia clinica (esercitazioni);  
-Emodinamica delle cardiopatie congenite (conferenze);  
-Fonocardiografia e Poligrafia (conferenze);  
-Fisiopatologia del ricambio (conferenze);  
-Semeiologia dell'apparato cardiovascolare (esercitazioni);  
-Tecnica di registrazione (conferenze).  
-Il numero dei laureati ammessi ogni anno alla Scuola e' fissato ad un massimo di 40.  
-Alla Scuola diretta a fini speciali di preparazione per tecnici di laboratorio di Igiene e microbiologia e' aggiunta la:  
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Scuola speciale di preparazione per tecnici di Fisio-chinesiterapia a) E' istituita presso l'Istituto di clinica ortopedici dell'Universita' di Padova, ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20), una "Scuola di preparazione per tecnici fisio-chinesiterapisti", che ha lo scopo di preparare adeguatamente personale tecnico nel campo della fisio-chinesiterapia. La Scuola ha indirizzo teorico-pratico.  
-b) La durata del corso degli studi della Scuola di preparazione per tecnici fisioterapisti e' di due anni accademici.  
-E' titolo di ammissione il diploma di scuola media unica, il diploma di avviamento professionale, commerciale o industriale o agrario o ad altro indirizzo.  
-c) Al primo anno della Scuola si accede previo esame di cultura generale davanti ad una Commissione composta dal direttore della Scuola e da due insegnanti della Scuola stessa. L'esame di ammissione avra' luogo entro la prima quindicina del mese di ottobre di ciascun anno, in un giorno stabilito dalla Facolta' di medicina e chirurgia, su proposta del direttore della Scuola.  
-d) Il numero massimo dei partecipanti ammessi per ogni anno viene fissato in 20.  
-e) Il direttore della Scuola e' il direttore dell'Istituto di clinica ortopedica dell'universita' di Padova. La Scuola e' sotto la vigilanza della Facolta' di medicina e chirurgia. Gli insegnamenti della Scuola sono proposti dal direttore della stessa, approvati dalla Facolta' di medicina e chirurgia e nominati dal rettore. Essi possono essere scelti tra i professori ufficiali, tra i liberi docenti, tra gli aiuti ed assistenti della Facolta' di medicina e chirurgia o di altra Facolta' dell'Ateneo o tra persone di riconosciuta competenza anche al di fuori dell'ambito universitario.  
-f) Le materie d'insegnamento sono le seguenti:  
-1° Anno  
-1) Anatomia dell'apparato locomotore;  
-2) Fisiologia dell'apparato locomotore;  
-3) Elementi di patologia dell'apparato locomotore (biennale);  
-4) Elementi di medicina generale;  
-5) Elementi di psicologia;  
-6) Massoterapia;  
-7) Termoterapia.  
-2° Anno:  
-1) Elementi di patologia dell'apparato locomotore (biennale);  
-2) Idroterapia e balneoterapia;  
-3) Fangoterapia e crenoterapia;  
-4) Elio-climatoterapia;  
-5) Elettroterapia;  
-6) Terapia radiante;  
-7) Ginnastica medica;  
-8) Rieducazione motoria;  
-9) Riabilitazione del motuleso, terapia di occupazione.  
-Ergoterapia.  
-g) Gli iscritti alla Scuola, hanno l'obbligo della frequenza del reparto di fisio-chinesiterapia della Clinica ortopedica per la durata di due anni, compiendo anche un tirocinio pratico nelle varie sezioni del reparto.  
-h) I programmi di insegnamento e gli orari vengono predisposti dal direttore della Scuola ed approvati dal Consiglio della Facolta' di medicina e chirurgia. La sorveglianza degli iscritti per quanto riguarda la loro attivita' pratica spetta al direttore della Scuola.  
-Assenze ingiustificate comportano l'esclusione dal corso.  
-Per essere ammessi a frequentare il secondo anno gli allievi devono aver sostenuto tutti gli esami del primo corso. Nel caso in cui gli allievi non abbiano superato gli esami prescritti essi rimarranno nella posizione di fuori corso fino a quando non avranno assolti gli obblighi di cui sopra.  
-i) Per essere ammessi a sostenere gli esami di diploma, gli allievi dovranno aver seguito i corsi, superato gli esami in tutti gli insegnamenti prescritti e avere compiuto con esito favorevole tutte le esercitazioni pratiche previste.  
-l) Le Commissioni per gli esami di profitto sono nominate dal preside della Facolta' di medicina e chirurgia su proposta del direttore della Scuola.  
-Le Commissioni sono composte di tre membri: dal professore ufficiale della materia, presidente; da un professore ufficiale di materia affine e da un libero docente o cultore della materia. Ogni commissario ha a disposizione dieci punti.  
-m) L'esame di diploma consiste in un esame orale sui temi trattati durante il corso ed in una prova pratica stabilita dalla Commissione esaminatrice.  
-L'esame di diploma viene sostenuto davanti una Commissione di cinque membri scelti tra i docenti della Scuola, nominata dal preside di Facolta' di medicina e chirurgia, su proposta del direttore della Scuola.  
-Ogni commissario ha a disposizione dieci punti.  
-I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza della Scuola ma se al secondo esame non sia loro riconosciuta, una idoneita', saranno senz'altro esclusi da ulteriori prove.  
-Agli allievi che avranno superato l'esame finale viene rilasciato il diploma di "tecnico fisio-chinesiterapista".  
+Art. 105 - all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:   
+fitobiologia delle acque interne;   
+fitobiologia marina;   
+fitogeografia;   
+zoogeografia;   
+speleologia;   
+ecologia vegetale.   
+Nello stesso elenco l'insegnamento complementare di zoogeografia ed ecologia animale muta la denominazione in quella di ecologia animale.   
+Nello stesso articolo la seconda frase del penultimo comma e' abrogata e sostituita dalla seguente:   
+  
+I corsi biennali di botanica, zoologia comportano un esame alla fine di ogni anno accademico.   
+Art. 108 - all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:   
+biochimica applicata;   
+biologia generale;   
+biologia molecolare;   
+chimica analitica;   
+citogenetica;   
+fitobiologia delle acque interne;   
+fitobiologia marina;   
+virologia.   
+Nello stesso elenco gli insegnamenti di endocrinologia e di fitogeografia ed ecologia vegetale mutano rispettivamente la denominazione in quella di endocrinologia comparata e di ecologia vegetale mentre l'insegnamento di zoogeografia ed ecologia animale viene scisso nei seguenti due zoogeografia e ecologia animale.   
+Nello stesso articolo la seconda frase del penultimo comma e' abrogata e sostituita dalla seguente:   
+  
+I corsi biennali di botanica, zoologia e fisiologia generale comportano un esame alla fine di ogni anno.   
+L'art. 207, relativo alle tasse e contributi per la scuola di perfezionamento nelle discipline del lavoro, e' abrogato e sostituito dal seguente:   
+"Le tasse e soprattasse che gli iscritti dovranno versare sono fissate come segue:   
+  
+tassa immatricolazione. . . . . . . . . . . . . . . . . L. 5.000 tassa annuale di iscrizione . . . . . . . . . . . . . . L. 10.000 tassa annuale per i fuori corso . . . . . . . . . . . . L. 5.000 soprattassa esami . . . . . . . . . . . . . . . . . . . L. 3.000   
+L'ammontare dei contributi sara' stabilito anno per anno dal consiglio di amministrazione, su proposta del senato accademico, udito il consiglio della facolta' di scienze politiche.   
+L'art. 216, relativo alle tasse e contributi per la scuola di specializzazione in servizio sociale e' abrogato e sostituito dal seguente:   
+  
+tassa immatricolazione. . . . . . . . . . . . . . . . . L. 5.000 tassa annuale di iscrizione . . . . . . . . . . . . . . L. 10.000 tassa annuale per i fuori corso . . . . . . . . . . . . L. 5.000 soprattassa esami . . . . . . . . . . . . . . . . . . . L. 3.000   
+L'ammontare dei contributi sara' stabilito di anno in anno dal consiglio di amministrazione, su proposta del senato accademico, udito il consiglio della facolta' di scienze politiche".   
+Dopo l'art. 216, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di perfezionamento per il commercio con l'estero annessa alla facolta' di scienze politiche.   
+  
+Scuola di perfezionamento per il commercio con l'estero   
+  
+[Art. 217 - Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art217) e fini. - Alla facolta' di scienze politiche e' annessa la scuola di perfezionamento per il commercio con l'estero, che si propone lo scopo di promuovere la conoscenza, teorica ed applicativa, delle discipline e delle tecniche giuridiche ed economiche, relative alle transazioni commerciali, in particolare con l'estero.   
+A tal fine la scuola:   
+organizza i corsi di cui ai successivi articoli;   
+istituisce e mantiene una biblioteca specializzata;   
+raccoglie e classifica la documentazione relativa alle principali attivita' commerciali;   
+pubblica studi e documenti di interesse anche informativo per gli operatori del settore;   
+fornisce ad imprese, enti ed associazioni di categoria, informazioni ed orientamenti nelle materie di sua competenza;   
+intraprende e favorisce ogni iniziativa intesa ad agevolare lo sviluppo del commercio internazionale.   
+Per i fini suoi propri la scuola puo' istituire centri di ricerca e di informazione nonche' promuovere conferenze, convegni e corsi di aggiornamento.   
+Art. 218 - Organi di governo. - Sono organi di governo della scuola: la direzione ed il consiglio. Direttore della scuola e' il preside della facolta' di scienze politiche; egli e' assistito nelle sue funzioni da due codirettori, nominati dal consiglio di facolta', rispettivamente per le discipline giuridiche ed economiche. Altri co-direttori possono venire nominati per presiedere alla segreteria della scuola, alla biblioteca, ai gruppi di ricerca, ai centri di informazione ed alle altre iniziative che la scuola intraprende. Le determinazioni del direttore, ai sensi del presente statuto, sono adottate con deliberazione collegiale del direttore e dei co-direttori. Il consiglio della scuola e' composto dal direttore che lo presiede, dai co-direttori, da un rappresentante dell'Universita' nominato dal rettore, da un rappresentante dell'unione delle camere di commercio del Veneto, nonche' dai rappresentanti di enti pubblici, associazioni di categoria o di enti operanti nel settore del commercio con l'estero, cooptati dal consiglio. Alle adunanze che riguardano l'ordinamento didattico dei corsi possono partecipare i docenti della scuola.   
+Le deliberazioni sono adottate a maggioranza dei voti.   
+Per singoli argomenti il consiglio puo' delegare i propri poteri al direttore ovvero ad uno o piu' dei suoi membri.   
+Art. 219 - Amministrazione e bilancio. - La scuola si finanzia in via ordinaria mediante le tasse e i contributi di iscrizione, i proventi delle prestazioni a pagamento, le sovvenzioni di enti, associazioni e privati. Per assicurarne il funzionamento, la facolta' di scienze politiche stanzia annualmente un contributo, da prelevarsi per un terzo sui fondi dell'istituto di scienze giuridiche, per un terzo sui fondi dell'istituto di scienze economiche e per il rimanente terzo sui fondi dell'istituto di studi internazionali.  
+Detto contributo, da utilizzarsi solo successivamente alle entrate di cui al comma precedente, qualora non impiegato viene restituito agli istituti.   
+L'amministrazione della scuola compete per la parte ordinaria al direttore e per la parte straordinaria al consiglio.   
+Delle entrate e delle uscite si redige annualmente rendiconto.   
+Art. 220 - Diploma di perfezionamento, certificati di profitto, attestati di frequenza. - La scuola organizza due corsi di durata annuale, l'uno dedicato alle discipline giuridiche, l'altro alle discipline economiche del commercio con l'estero. Al termine di un biennio, costituito da entrambi gli anni di corso, la scuola rilascia un diploma di perfezionamento in discipline giuridiche ed economiche del commercio con l'estero. Agli iscritti che abbiano seguito un solo anno di corso la scuola rilascia un certificato di profitto. Agli iscritti sprovvisti di laurea o che abbiano seguito singoli insegnamenti, viene rilasciato un attestato di frequenza, con l'indicazione degli esami sostenuti.   
+Art. 221 - Ammissione ai corsi. - Costituisce requisito per l'ammissione ai corsi, la laurea in scienze politiche, economia e commercio, giurisprudenza, scienze statistiche. Possono venire altresi' ammessi, con deliberazione del direttore, gli operatori commerciali con qualifica di dirigente in possesso di un'esperienza che, ai fini della frequentazione della scuola, venga giudicata equivalente. Per fini di aggiornamento professionale puo' venire richiesta la frequentazione di singoli insegnamenti. Il consiglio determina, all'inizio di ciascun anno accademico, il numero massimo delle domande che, in ragione delle esigenze didattiche, possono venire accolte per ciascun corso. Non si tiene conto, tra queste, delle domande di ammissione alla frequentazione di singoli insegnamenti. Il direttore provvede, con propria determinazione, all'accoglimento delle domande, previa, ove occorra, valutazione comparativa dei titoli; ai candidati puo' essere richiesto di sostenere un colloquio.   
+Art. 222. - La scuola impartisce i seguenti insegnamenti:   
+a) discipline giuridiche:   
+diritto internazionale privato delle obbligazioni;   
+diritto della compravendita internazionale;   
+diritto dell'arbitrato commerciale;   
+diritto processuale civile internazionale;   
+diritto europeo della concorrenza;   
+diritto amministrativo del commercio con l'estero;   
+diritto delle Comunita' europee;   
+diritto cambiario internazionale;   
+diritto comparato dei contratti commerciali;   
+diritto comparato delle societa';   
+diritto tributario del commercio internazionale;   
+diritto industriale comparato;   
+legislazione e tecnica doganale;   
+b) discipline economiche:   
+analisi dei mercati;   
+disciplina e tecnica di borse e mercati;   
+disciplina e tecnica dei cambi;   
+disciplina e tecnica bancaria;   
+disciplina e tecnica dei trasporti;   
+disciplina e tecnica delle assicurazioni;   
+economia e politica della distribuzione commerciale;   
+geografia economica delle risorse;   
+merceologia: classificazione e standards di qualita';   
+organizzazione economica internazionale;   
+statistica economica;   
+teoria dei flussi economici;   
+teoria e politica del commercio estero;   
+c) lingue:   
+inglese commerciale;   
+francese commerciale;   
+La scuola puo', con deliberazione del consiglio, decidere di impartire direttamente, ovvero di mutuare, qualsiasi insegnamento previsto dallo statuto per le facolta' di scienze politiche, economia e commercio, giurisprudenza, scienze statistiche, demografiche ed attuariali dell'Universita' di Padova.   
+Art. 223 - Programmi. - All'inizio di ciascun anno accademico il consiglio della scuola delibera l'attivazione degli anni di corso nonche' quali insegnamenti - ivi compresa la lingua straniera - debbono venire in essi impartiti.   
+A ciascun insegnamento puo' venire assegnato un numero di lezione variabile tra un minimo di cinque ed un massimo di quaranta. Ogni anno di corso deve complessivamente comprendere non meno di 200 ore di lezione.   
+Il consiglio raccoglie, coordina ed approva i programmi di insegnamento presentati dai singoli docenti.   
+Art. 224. - I cicli di lezione e di conferenze sono affidati, con deliberazione del consiglio, a studiosi, italiani e stranieri, i quali abbiano recato con i propri lavori, contributi scientifici di rilievo allo studio della materia, ovvero, soprattutto per gli insegnamenti a carattere applicativo, ad esperti di riconosciuta competenza.   
+Ciascun docente ha l'obbligo di svolgere le lezioni e le conferenze secondo il calendario e con le modalita' stabilite dal direttore e di partecipare alle commissioni di esami di profitto e di diploma nelle quali sia convocato. Egli puo' essere dichiarato decaduto con deliberazione del consiglio, qualora ometta o ritardi i doveri del proprio ufficio.   
+Art. 225 - Lezioni. - Le lezioni si svolgono secondo modalita' che tengano conto delle esigenze di frequentatori gia' inseriti nel mondo del lavoro. Sono utilizzati di preferenza giorni prefestivi e, ove occorra, una o piu' settimane a tempo pieno.   
+Il calendario relativo e' fissato, all'inizio dell'anno accademico, dal direttore, sentiti i docenti.   
+Le lezioni consistono nell'esposizione dell'argomento fatta dal docente, seguita dalla discussione. Esperti di comprovata esperienza possono venire invitati ad illustrare casi pratici. Quando la materia lo richieda, la lezione puo' consistere in dimostrazioni, anche fuori della sede della scuola. La frequenza delle lezioni da parte degli iscritti e' obbligatoria. Essa viene rilevata dal docente ad ogni lezione ed annotata su apposito registro. Non potranno essere ammessi agli esami di profitto i frequentatori le cui assenze per la materia considerata superino il terzo.   
+Compete al direttore la sorveglianza sulle lezioni e sulle frequenze.   
+Art. 226. - Gli esami di profitto consistono in un accertamento scritto e/o orale sulla materia che costituisce oggetto del programma. Le commissioni sono nominate dal direttore e si compongono del docente incaricato dell'insegnamento, in qualita' di presidente, e di un cultore della materia, scelto preferibilmente tra i diplomati della scuola; la votazione e' espressa in ventesimi.   
+Gli esami di diploma consistono nella discussione di una dissertazione scritta su un tema prescelto dal candidato e di tre argomenti prescelti dalla commissione in materie differenti, comunicati al candidato con breve anticipo. La commissione di diploma e' nominata dal direttore che la presiede e si compone di tre docenti della scuola, scelti in ragione delle materie cui l'esame si riferisce, e di tre esperti scelti preferibilmente fra i diplomati della scuola. La votazione e' espressa in settantesimi.   
+Gli esami, cosi' di profitto che di diploma, si svolgono in due sessioni, estiva ed invernale, secondo il calendario fissato dal direttore, uditi i docenti interessati.   
+Art. 227. - Le tasse e soprattasse che gli iscritti sono tenuti a versare sono fissate come segue:   
+  
+tassa di immatricolazione . . . . . . . . . . . . . . . L. 2.000 tassa di iscrizione . . . . . . . . . . . . . . . . . . L. 50.000 soprattassa esami . . . . . . . . . . . . . . . . . . . L. 10.000 tassa erariale di diploma . . . . . . . . . . . . . . . L. 1.200 soprattassa diploma . . . . . . . . . . . . . . . . . . L. 2.000   
+Con deliberazione del consiglio sono inoltre determinati, di anno in anno, i contributi dovuti dagli iscritti ai corsi o ai singoli insegnamenti.   
+Art. 228 - Prestazioni a pagamento. - La tariffa delle prestazioni a favore di terzi e' fissata dalla direzione della scuola. I proventi relativi sono percepiti dalla scuola, la quale ne dispone secondo le leggi vigenti ed il presente statuto.   
+Art. 229 - Disposizioni finali. - Per quanto non previsto dalle presenti disposizioni, si applicano lo statuto dell'Universita' di Padova e le leggi dello Stato relative all'ordinamento didattico universitario.   
+Spetta comunque al consiglio della scuola di emanare le norme regolamentari necessarie all'attuazione e all'esecuzione delle presenti disposizioni.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 marzo 1965
+### Dato a Roma, addi' 30 ottobre 1976
 
-SARAGAT GUI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 12 maggio 1965
+Registrato alla Corte dei conti, addi' 26 settembre 1977
 
-Atti del Governo, registro n. 193, foglio n. 41. - VILLA
+Registro n. 106 Istruzione, foglio n. 358

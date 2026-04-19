@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1983 n. 872
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1984 n. 306
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1983 n. 872
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1984 n. 306
 ============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Napoli.
@@ -39,21 +39,18 @@ Articolo unico
 --------------
 
   
-Nell'art. 129, relativo al corso di laurea in medicina e chirurgia della prima facolta', all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-fisiopatologia endocrina;  
-semeiotica e tecniche di fisiopatologia respiratoria;  
-chirurgia traumatologica della strada.  
+Art. 153 - nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia della seconda facolta' di medicina e chirurgia e' inserito l'insegnamento di "cardiologia".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 marzo 1983
+### Dato a Roma, addi' 2 marzo 1984
 
 PERTINI FALCUCCI
 
-Viso, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 26 gennaio 1984
+Registrato alla Corte dei conti, addi' 26 giugno 1984
 
-Registro n. 3 Istruzione, foglio n. 259
+Registro n. 39 Istruzione, foglio n. 36

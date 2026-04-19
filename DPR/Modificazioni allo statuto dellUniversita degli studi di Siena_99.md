@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1971 n. 829
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1406
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1971 n. 829
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1406
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
@@ -12,12 +12,11 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831), modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395) e successivi;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;.  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -25,36 +24,22 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 21. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:  
-  
-Storia dell'arte contemporanea;  
-Storia della teoria musicale;  
-Storia contemporanea;  
-Storia della filosofia moderna e contemporanea.  
-Nello stesso elenco l'insegnamento di "Storia della musica" e' soppresso; al suo posto sono istituiti i seguenti insegnamenti:  
-  
-1) Storia della musica medioevale;  
-2) Storia della musica del Rinascimento;  
-3) Storia della musica moderna.  
-Nello stesso articolo l'insegnamento fondamentale, per l'indirizzo moderno, di storia dell'arte medioevale e moderna e' sdoppiato nei due insegnamenti di:  
-  
-Storia dell'arte medioevale;  
-Storia dell'arte moderna.  
-Art. 23. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:  
-  
-Medicina nucleare;  
-Auxologia e auxopatologia.  
+Art. 26, relativo al corso di laurea in farmacia e' modificato nel senso che al n. 2) viene aggiunto il seguente nuovo comma: "L'insegnamento biennale di chimica farmaceutica e tossicologica viene impartito al terzo e al quarto anno di corso".  
+Art. 40, relativo alla, scuola per assistenza sociale e' soppresso e sostituito dal seguente: "La scuola ha sede presso l'Universita' di Siena e gode di autonomia, agli effetti didattici".  
+Gli articoli 41 e 42 sono soppressi con il conseguente spostamento della numerazione degli articoli successivi.  
+L'art. 43 (gia' 45) e' soppresso e sostituito dal seguente: "I docenti sono nominati dal Consiglio di amministrazione dell'Universita' su proposta del direttore approvata dai Consigli di facolta' riuniti con l'intervento dei soli professori titolari".  
+L'art. 45 (gia' 47) e' cosi' modificato: "Gli uffici di segreteria dell'Universita' funzionano da uffici di segreteria della scuola".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 luglio 1971
+### Dato a Roma, addi' 19 ottobre 1960
 
-SARAGAT MISASI
+GRONCHI BOSCO
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 14 ottobre 1971
+Registrato alla Corte dei conti, addi' 28 novembre 1960
 
-Atti del Governo, registro n. 244, foglio n. 137. - CARUSO
+Atti del Governo, registro n. 131, foglio n. 98. - VILLA

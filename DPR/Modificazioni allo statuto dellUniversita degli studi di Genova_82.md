@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1237
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 393
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1237
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 393
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
@@ -10,254 +10,200 @@ Modificazioni allo statuto dell'Universita' degli studi di Genova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 17 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-17;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Art. 155 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in igiene.
 
+Dopo l'art. 415, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in igiene:
+
+Scuola di specializzazione di igiene
+
+Art. 416. - La scuola di specializzazione in igiene ha sede presso l'istituto di igiene. Essa ha lo scopo di conferire adeguata preparazione teorica e pratica ai laureati che intendono dedicarsi alla carriera dei laboratori di sanita' pubblica e della progettazione di impianti tecnologici di ospedali, scuole, industrie.
+
+La scuola si articola nei seguenti due indirizzi:
+
+1) laboratorio di sanita' pubblica, al quale possono essere ammessi i laureati in chimica, chimica e tecnologie farmaceutiche, farmacia, scienze biologiche, scienze naturali e medicina veterinaria;
+
+2) igiene ed edilizia socio-sanitaria, al quale possono essere ammessi i laureati in architettura, fisica ed ingegneria.
+
+Art. 417. - Il numero massimo di allievi iscrivibili alla scuola e' di ottanta, suddivisi in quaranta per ciascun indirizzo.
+
+Art. 418. - Le materie di insegnamento per l'indirizzo laboratorio di sanita' pubblica sono le seguenti:
+
+1° Anno:
+
+metodologia statistica e biometria;
+
+microbiologia e parassitologia;
+
+epidemiologia e profilassi generale;
+
+legislazione ed organizzazione sanitaria;
+
+elementi di patologia generale;
+
+biochimica applicata;
+
+igiene dell'ambiente fisico e difesa ecologica.
+
+2° Anno:
+
+metodi e dosaggi chimici, fisici e biologici per il controllo dell'inquinamento ambientale;
+
+epidemiologia e profilassi delle malattie infettive e di quelle non infettive di importanza sociale;
+
+strumentazione e misure chimico-cliniche;
+
+accertamento diagnostico delle malattie infettive e parassitarie;
+
+ispezione e controllo degli alimenti;
+
+microscopia applicata all'igiene;
+
+elementi di informatica.
+
+Art. 419. - Le materie di insegnamento per l'indirizzo igiene ed edilizia socio-sanitaria sono le seguenti:
+
+1° Anno:
+
+metodologia statistica e biometria;
+
+elementi di epidemiologia e profilassi delle malattie infettive e non infettive di importanza sociale;
+
+legislazione sanitaria;
+
+igiene dell'ambiente fisico e difesa ecologica;
+
+organizzazione del territorio e programmazione sanitaria;
+
+principi di ingegneria del lavoro e della sicurezza.
+
+2° Anno:
+
+igiene edilizia e dell'aggregato urbano;
+
+igiene e tecnica delle costruzioni ospedaliere; arredamenti ed impianti tecnologici;
+
+edilizia ed arredamento scolastico;
+
+elementi di fisica tecnica applicata all'igiene;
+
+urbanistica ed insediamento industriale;
+
+approvvigionamento idrico e smaltimento dei rifiuti.
+
+Gli insegnamenti sono svolti sotto forma di lezioni integrate da dimostrazioni pratiche, da esercitazioni e da visite ad impianti e strutture interessanti la scuola di specializzazione.
+
+Art. 420. - L'esame di diploma, cui si e' ammessi dopo aver superato tutti gli esami del biennio, consta di una dissertazione scritta, elaborata sotto il controllo di un docente della scuola, su un argomento riguardante l'orientamento scelto.
+
+Agli allievi che abbiano ottenuto l'approvazione all'esame di diploma verra' rilasciato il diploma di specializzazione in igiene con la indicazione del relativo orientamento.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 11 maggio 1979
+
+PERTINI
+
+SPADOLINI
+
+Visto, il Guardasigilli: MORLINO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 28 luglio 1979 Registro n. 60 Istruzione, foglio n. 188
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Gli articoli 116, 117, 118, 119, 120, 121, 122, 123, 124 relativi alla facolta' di architettura, sono soppressi e sostituiti come segue con il conseguente scorrimento della numerazione degli articoli successivi:  
-Art. 116 - La facolta' di architettura ha il fine di promuovere il progresso degli studi di architettura e di fornire la preparazione culturale, scientifica, tecnica e operativa, necessaria al conseguimento della laurea in architettura.  
+Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 17 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-17;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
-LAUREA IN ARCHITETTURA  
+Decreta:   
   
-Art. 117.- La durata del corso degli studi per il conseguimento della laurea in architettura e' di cinque anni. E' titolo di ammissione al primo anno il diploma di scuola secondaria di secondo grado di durata quinquennale e quanto altro previsto dalle vigenti disposizioni di legge.  
-Art. 118. - Gli insegnamenti propri del corso di laurea in architettura si articolano per aree disciplinari. Le aree disciplinari relative sono le seguenti:  
-1) Area progettuale architettonica:  
-composizione architettonica (1ª annualita);  
-composizione architettonica (2ª annualita);  
-allestimento e museografia;  
-arredamento e architettura degli interni arte dei giardini;  
-caratteri tipologici dell'architettura;  
-normative e legislazione per l'edilizia;  
-progettazione architettonica (1ª annualita);  
-progettazione architettonica (2ª annualita);  
-scenografia;  
-teoria dei modelli per la progettazione;  
-teoria e tecniche della progettazione architettonica;  
-progettazione navale;  
-allestimento navale.  
-2) Area della progettazione territoriale e urbanistica:  
-urbanistica (1ª annualita);  
-urbanistica (2ª annualita);  
-analisi dei sistemi urbani;  
-analisi delle strutture urbanistiche e territoriali (1ª annualita);  
-analisi delle strutture urbanistiche e territoriali (2ª annualita);  
-diritto e legislazione urbanistica;  
-econologia applicata;  
-gestione urbanistica del territorio;  
-organizzazione del territorio;  
-pianificazione del territorio;  
-progettazione urbanistica (1ª annualita);  
-progettazione urbanistica (2ª annualita);  
-teoria dell'urbanistica (1ª annualita);  
-teoria dell'urbanistica (2ª annualita);  
-assetto del paesaggio.  
-3) Area storico-critica e del restauro:  
-storia dell'architettura (1ª annualita);  
-storia dell'architettura (2ª annualita);  
-storia dell'urbanistica (1ª annualita);  
-storia dell'urbanistica (2ª annualita);  
-storia dell'architettura contemporanea;  
-storia dell'arte;  
-storia della citta' e del territorio;  
-storia della critica e della letteratura architettonica;  
-storia della scienza;  
-storia della tecnologia;  
-restauro architettonico;  
-restauro urbano;  
-teoria del restauro;  
-rilievo e analisi tecnica dei monumenti antichi;  
-storia della cartografia;  
-storia del paesaggio urbano e rurale.  
-4) Area tecnologica:  
-tecnologia dell'architettura (1ª annualita);  
-tecnologia dell'architettura (2ª annualita);  
-cultura tecnologica della progettazione;  
-disegno industriale;  
-ergonomia;  
-igiene ambientale;  
-morfologia dei componenti;  
-progettazione ambientale;  
-sperimentazione di sistemi e componenti;  
-tecnica ed economia della produzione edilizia;  
-tecnologie dei materiali da costruzione;  
-tipologia strutturale;  
-unificazione edilizia e prefabbricazione;  
-tecnologie del recupero edilizio;  
-metodi e tecniche della normazione edilizia;  
-organizzazione della produzione.  
-5) Area impiantistica:  
-fisica tecnica e impianti;  
-illuminotecnica, acustica e climatizzazione nella edilizia;  
-impianti speciali di sicurezza;  
-impianti tecnici e urbani;  
-ubicazione e distribuzione della produzione della energia;  
-progetto di impianti tecnici;  
-impianti tecnici urbani e territoriali.  
-6) Area fisicomatematica:  
-istituzioni di matematica;  
-calcolo numerico e programmazione;  
-elaborazione elettronica dei dati;  
-elaborazione elettronica della progettazione;  
-fisica;  
-geometria descrittiva;  
-istituzioni di statistica;  
-linguaggio per l'uso dei calcolatori;  
-matematica applicata;  
-modelli matematici per la programmazione territoriale;  
-statistica applicata;  
-teoria dei sistemi.  
-7) Area della scienza e tecnica delle costruzioni:  
-statica;  
-consolidamento ed adattamento degli edifici;  
-costruzioni in zone sismiche;  
-dinamiche delle costruzioni;  
-geotecnica e tecnica delle fondazioni;  
-progettazione di grandi strutture;  
-scienza delle costruzioni;  
-tecnica delle costruzioni (1ª annualita);  
-tecnica delle costruzioni (2ª annualita).  
-8) Area socio-economica:  
-estimo ed esercizio professionale;  
-economia urbana e regionale;  
-antropologia culturale;  
-demografia;  
-economia dei trasporti;  
-fondamenti di economia;  
-geografia urbana e regionale;  
-sociologia urbana e rurale;  
-econometria.  
-9)Area della rappresentazione:  
-disegno e rilievo;  
-applicazioni di geometria descrittiva;  
-cartografia tematica;  
-elementi di fotogrammetria;  
-interpretazione di immagini e telerilevamenti;  
-strumenti e metodi per il rilievo architettonico;  
-strumenti e tecniche di comunicazione visiva;  
-tecniche della cartografia automatica;  
-tecniche di rappresentazione dell'architettura;  
-topografia;  
-rappresentazione dei fenomeni territoriali.  
-Art. 119. - Il corso di laurea prevede i seguenti indirizzi:  
-tecnologico;  
-urbanistico;  
-progettazione architettonica;  
-tutela e recupero del patrimonio storico-architettonico.  
-Art. 120. - Gli insegnamenti fondamentali e comuni a tutti gli indirizzi sono:  
-composizione architettonica (1ª annualita);  
-composizione architettonica (2ª annualita);  
-urbanistica (1ª annualita);  
-storia dell'architettura (1ª annualita);  
-storia dell'architettura (2ª annualita);  
-tecnologia dell'architettura (1ª annualita);  
-tecnologia dell'architettura (2ª annualita);  
-fisica tecnica e impianti;  
-istituzioni di matematica;  
-statica;  
-estimo ed esercizio professionale;  
-disegno e rilievo;  
-progettazione architettonica (1ª annualita);  
-progettazione architettonica (2ª annualita);  
-urbanistica (2ª annualita);  
-restauro architettonico;  
-scienza delle costruzioni;  
-fondamenti di economia.  
-Art. 121. - Le discipline annuali individuanti i vari indirizzi vengono indicate nel manifesto e sono scelte come segue:  
-Indirizzo progettazione architettonica:  
-3 annualita' dell'area progettuale architettonica;  
-1 annualita' dell'area della progettazione territoriale e urbanistica;  
-1 annualita' dell'area storico-critica e del restauro;  
-1 annualita' dell'area tecnologica;  
-2 annualita' dell'area della scienza e della tecnica delle costruzioni;  
-1 annualita' dell'area della rappresentazione.  
-Indirizzo tutela e recupero del patrimonio storico-architettonico:  
-2 annualita' dell'area progettuale architettonica;  
-1 annualita' dell'area della progettazione territoriale e urbanistica;  
-3 annualita' dell'area storico-critica e del restauro;  
-1 annualita' dell'area tecnologica;  
-1 annualita' dell'area della scienza e tecnica delle costruzioni;  
-1 annualita' dell'area della rappresentazione.  
-Indirizzo tecnologico:  
-1 annualita' dell'area progettuale architettonica;  
-1 annualita' dell'area storico-critica e del restauro;  
-3 annualita' dell'area tecnologica;  
-1 annualita' dell'area impiantistica;  
-1 annualita' dell'area fisico-matematica;  
-1 annualita' dell'area scienza e tecnica delle costruzioni;  
-1 annualita' dell'area della rappresentazione.  
-Indirizzo urbanistico:  
-3 annualita' dell'area della progettazione territoriale e urbanistica;  
-1 annualita' dell'area storico-critica e del restauro;  
-1 annualita' dell'area tecnologica;  
-1 annualita' dell'area fisico-matematica;  
-2 annualita' dell'area socio-economica;  
-1 annualita' dell'area della rappresentazione.  
-Art. 122. - Su indicazioni dei consigli di indirizzo il manifesto annuale degli studi prescrivera', per ogni indirizzo, tre ulteriori discipline a carattere obbligatorio.  
-Art. 123. - Ai fini della propedeuticita' degli esami dei diversi insegnamenti valgono i seguenti criteri:  
-Non si puo' essere ammesso a sostenere l'esame di:  
-composizione architettonica (2ª annualita);  
-storia dell'architettura (2ª annualita);  
-tecnologia dell'architettura (2ª annualita);  
-progettazione architettonica (2ª annualita);  
-urbanistica;  
-progettazione architettonica (1ª annualita);  
-statica e fisica tecnica e impianti;  
-scienza delle costruzioni;  
-tecnica delle costruzioni;  
-restauro dei monumenti.  
-se non si e' superato l'esame di:  
-composizione architettonica (1ª annualita);  
-storia dell'architettura (1ª annualita);  
-tecnologia dell'architettura (1ª annualita);  
-progettazione architettonica (1ª annualita);  
-fondamenti di urbanistica;  
-scienza delle costruzioni;  
-statica;  
-storia dell'architettura.  
-Art. 124. - Gli insegnamenti vengono impartiti, secondo le materie, mediante lezioni orali, esercizi, esercitazioni e attivita' seminariali.  
-Art. 125. - Gli esami di profitto consistono in prove individuali, in relazione con il carattere di ciascuna disciplina.  
-Per essere ammesso all'esame di laurea, lo studente deve aver superato gli esami di almeno trenta annualita'.  
-Lo studente, inoltre, dovra' essere sottoposto all'accertamento della conoscenza di almeno una lingua straniera fra quelle indicate dalla facolta' nel manifesto annuale degli studi, mediante colloquio e traduzione di testi scientifici, da effettuarsi prima dell'assegnazione della tesi di laurea con docenti di discipline attinenti alla tesi stessa.  
-Art. 126. - L'esame di laurea si svolge secondo una delle seguenti modalita':  
-1) discussione pubblica di tesi di carattere progettuale;  
-2) discussione pubblica di una tesi di ricerca;  
-3) svolgimento di prove scritte, grafiche, orali, secondo modalita' e contenuti definiti dal consiglio di facolta' nel manifesto annuale.  
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 155 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in igiene.   
+Dopo l'art. 415, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in igiene:   
+  
+Scuola di specializzazione di igiene   
+  
+Art. 416. - La scuola di specializzazione in igiene ha sede presso l'istituto di igiene. Essa ha lo scopo di conferire adeguata preparazione teorica e pratica ai laureati che intendono dedicarsi alla carriera dei laboratori di sanita' pubblica e della progettazione di impianti tecnologici di ospedali, scuole, industrie.   
+La scuola si articola nei seguenti due indirizzi:   
+1) laboratorio di sanita' pubblica, al quale possono essere ammessi i laureati in chimica, chimica e tecnologie farmaceutiche, farmacia, scienze biologiche, scienze naturali e medicina veterinaria;   
+2) igiene ed edilizia socio-sanitaria, al quale possono essere ammessi i laureati in architettura, fisica ed ingegneria.   
+Art. 417. - Il numero massimo di allievi iscrivibili alla scuola e' di ottanta, suddivisi in quaranta per ciascun indirizzo.   
+Art. 418. - Le materie di insegnamento per l'indirizzo laboratorio di sanita' pubblica sono le seguenti:   
+1° Anno:   
+metodologia statistica e biometria;   
+microbiologia e parassitologia;   
+epidemiologia e profilassi generale;   
+legislazione ed organizzazione sanitaria;   
+elementi di patologia generale;   
+biochimica applicata;   
+igiene dell'ambiente fisico e difesa ecologica.   
+2° Anno:   
+metodi e dosaggi chimici, fisici e biologici per il controllo dell'inquinamento ambientale;   
+epidemiologia e profilassi delle malattie infettive e di quelle non infettive di importanza sociale;   
+strumentazione e misure chimico-cliniche;   
+accertamento diagnostico delle malattie infettive e parassitarie;   
+ispezione e controllo degli alimenti;   
+microscopia applicata all'igiene;   
+elementi di informatica.   
+Art. 419. - Le materie di insegnamento per l'indirizzo igiene ed edilizia socio-sanitaria sono le seguenti:   
+1° Anno:   
+metodologia statistica e biometria;   
+elementi di epidemiologia e profilassi delle malattie infettive e non infettive di importanza sociale;   
+legislazione sanitaria;   
+igiene dell'ambiente fisico e difesa ecologica;   
+organizzazione del territorio e programmazione sanitaria;   
+principi di ingegneria del lavoro e della sicurezza.   
+2° Anno:   
+igiene edilizia e dell'aggregato urbano;   
+igiene e tecnica delle costruzioni ospedaliere; arredamenti ed impianti tecnologici;   
+edilizia ed arredamento scolastico;   
+elementi di fisica tecnica applicata all'igiene;   
+urbanistica ed insediamento industriale;   
+approvvigionamento idrico e smaltimento dei rifiuti.   
+Gli insegnamenti sono svolti sotto forma di lezioni integrate da dimostrazioni pratiche, da esercitazioni e da visite ad impianti e strutture interessanti la scuola di specializzazione.   
+Art. 420. - L'esame di diploma, cui si e' ammessi dopo aver superato tutti gli esami del biennio, consta di una dissertazione scritta, elaborata sotto il controllo di un docente della scuola, su un argomento riguardante l'orientamento scelto.   
+Agli allievi che abbiano ottenuto l'approvazione all'esame di diploma verra' rilasciato il diploma di specializzazione in igiene con la indicazione del relativo orientamento.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1983
+### Dato a Roma, addi' 11 maggio 1979
 
-PERTINI FALCUCCI
+PERTINI SPADOLINI
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 23 maggio 1984
+Registrato alla Corte dei conti, addi' 28 luglio 1979
 
-Registro n. 30 Istruzione, foglio n. 77
+Registro n. 60 Istruzione, foglio n. 188

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1963 n. 702
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1986 n. 1004
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1963 n. 702
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1986 n. 1004
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), modificato con [regio decreto 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-12;2227) e successivi;
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,139 +18,131 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
 Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 38. - Agli insegnamenti complementari del corso di laurea in Economia e commercio sono aggiunti quelli di:
+Articolo unico
+--------------
 
-Ragioneria pubblica;
-
-Contabilita' nazionale;
-
-Diritto fallimentare;
-
-Statistica sociale e giudiziaria;
-
-Statistica sanitaria.
-
-Dopo l'art. 47, e con il conseguente spostamento della successiva numerazione e' inserito il seguente articolo relativo agli Istituti annessi alla Facolta' di economia e commercio.
-
-Art. 48. - Alla Facolta' di economia e commercio sono annessi i seguenti Istituti:
-
-Istituto di Diritto;
-
-Istituto di Economia;
-
-Istituto di Geografia economica;
-
-Istituto di Lingue;
-
-Istituto di Matematica finanziaria;
-
-Istituto di Merceologia;
-
-Istituto di Politica economica;
-
-Istituto di Ragioneria pubblica e privata;
-
-Istituto di Statistica;
-
-Istituto di Storia economica e sociale.
-
-Art. 68, relativo al corso di laurea in Lingue e letterature straniere, e' modificato nel senso che il penultimo comma e' abrogato e sostituito dal seguente:
-
-"Lo studente deve sostenere una prova scritta, di italiano, una di traduzione latina ed una di cultura generale nella lingua straniera nella quale ha approfondito i suoi studi per il conseguimento della laurea.
-
-Tale prova verra' sostenuta dallo studente nel quarto anno, mentre alla fine di ognuno dei primi tre anni egli deve essere sottoposto a prove scritte nella stessa lingua, gradualmente progressive.
-
-Art. 90. - Agli insegnamenti complementari del corso di laurea in Farmacia e' aggiunto quello di "Chimica farmaceutica applicata".
-
-Art. 117. - Agli insegnamenti complementari del corso di laurea in Scienze agrarie e' aggiunto quello di "Frutticoltura industriale".
-
-Art. 262, relativo all'internato richiesto agli allievi della Scuola di perfezionamento in Ostetricia e ginecologia, e' abrogato e sostituito dal seguente.
-
-Agli iscritti ai corsi e' richiesto un turno d'internato da fissarsi di anno in anno dalla Direzione della scuola".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 28 marzo 1963
-
-SEGNI
-
-GUI
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 28 maggio 1963 Atti del Governo, registro n. 170, foglio n. 2. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), modificato con [regio decreto 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-12;2227) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:  
+Dopo l'art. 711, e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in tossicologia afferente alla facolta' di farmacia:   
   
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 38. - Agli insegnamenti complementari del corso di laurea in Economia e commercio sono aggiunti quelli di:  
-Ragioneria pubblica;  
-Contabilita' nazionale;  
-Diritto fallimentare;  
-Statistica sociale e giudiziaria;  
-Statistica sanitaria.  
-Dopo l'art. 47, e con il conseguente spostamento della successiva numerazione e' inserito il seguente articolo relativo agli Istituti annessi alla Facolta' di economia e commercio.  
-Art. 48. - Alla Facolta' di economia e commercio sono annessi i seguenti Istituti:  
-Istituto di Diritto;  
-Istituto di Economia;  
-Istituto di Geografia economica;  
-Istituto di Lingue;  
-Istituto di Matematica finanziaria;  
-Istituto di Merceologia;  
-Istituto di Politica economica;  
-Istituto di Ragioneria pubblica e privata;  
-Istituto di Statistica;  
-Istituto di Storia economica e sociale.  
-Art. 68, relativo al corso di laurea in Lingue e letterature straniere, e' modificato nel senso che il penultimo comma e' abrogato e sostituito dal seguente:  
-"Lo studente deve sostenere una prova scritta, di italiano, una di traduzione latina ed una di cultura generale nella lingua straniera nella quale ha approfondito i suoi studi per il conseguimento della laurea.  
-Tale prova verra' sostenuta dallo studente nel quarto anno, mentre alla fine di ognuno dei primi tre anni egli deve essere sottoposto a prove scritte nella stessa lingua, gradualmente progressive.  
-Art. 90. - Agli insegnamenti complementari del corso di laurea in Farmacia e' aggiunto quello di "Chimica farmaceutica applicata".  
-Art. 117. - Agli insegnamenti complementari del corso di laurea in Scienze agrarie e' aggiunto quello di "Frutticoltura industriale".  
-Art. 262, relativo all'internato richiesto agli allievi della Scuola di perfezionamento in Ostetricia e ginecologia, e' abrogato e sostituito dal seguente.  
-Agli iscritti ai corsi e' richiesto un turno d'internato da fissarsi di anno in anno dalla Direzione della scuola".  
+Scuola di specializzazione in tossicologia   
+Art. 712. E' istituita la scuola di specializzazione in tossicologia presso l'Universita' degli studi di Bologna.   
+La scuola ha lo scopo di contribuire alla formazione di una figura professionale particolarmente esperta nel settore farmaco-tossicologico, che possa essere inserita nella problematica del farmaco a tutti i livelli della sua progettazione, alla produzione, al controllo ed alla distribuzione.   
+La necessita' quindi di istituire detta scuola di specializzazione risponde al rapido evolversi della societa' che ha posto nuove problematiche relative ai vantaggi, ma anche ai danni, che dal farmaco (nella sua accezione piu' ampia) derivano per l'uomo e per l'ambiente che lo circonda.   
+La scuola soddisfa precise esigenze espresse dal piano sanitario regionale ([legge regionale 7 febbraio 1981, n. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:regione.:legge:1981-02-07;6), Bollettino ufficiale 11 febbraio 1981, n. 17), che richiede in particolare specialisti farmacologi e tossicologi da inserire nelle strutture operanti nel territorio.   
+La scuola rilascia il titolo di specialista in tossicologia.   
+Art. 713. - La scuola ha la durata di tre anni e non e' suscettibile di abbreviazioni.   
+Ciascun anno di corso prevede ottocento ore di insegnamento e di attivita' pratiche guidate.   
+In base alle strutture ed attrezzature disponibili, la scuola e' in grado di accettare il numero massimo di iscritti determinato in venti per ciascun anno di corso, per un totale di sessanta specializzandi.   
+Art. 714. - Per l'attuazione delle attivita' didattiche programmate dal consiglio della scuola provvede la facolta' di farmacia. Nel manifesto annuale degli studi viene indicata la sede della direzione della scuola.   
+Art. 715. - Sono ammessi alle prove per ottenere l'iscrizione i laureati in chimica e tecnologia farmaceutiche, in farmacia, chimica, scienze biologiche, scienze naturali, medicina e chirurgia, medicina veterinaria, scienze agrarie, scienze delle preparazioni alimentari, scienza della produzione animale, i quali debbono essere in possesso - almeno all'inizio del corso, qualora prescritta - dell'abilitazione all'esercizio professionale.   
+Art. 716. - La scuola comprende tre aree di insegnamento e tirocinio professionale:   
+a) propedeutica;   
+b) sperimentale;   
+c) tecnico-applicativa.   
+Gli insegnamenti relativi a ciascuna area didattica e formativa professionale sono i seguenti:   
+a) Area propedeutica:   
+biologia molecolare;   
+biologia e farmacologia cellulare;   
+chimica farmaceutica e tossicologica molecolare I;   
+biometria e statistica;   
+farmacologia e farmacognosia I;   
+tossicologia sperimentale I;   
+disegno degli esperimenti;   
+cancerogenesi, mutagenesi e teratogenesi I.   
+b) Area sperimentale:   
+immunologia e immunochimica;   
+microbiologia ed igiene;   
+anatomia ed istopatologia degli stati tossici;   
+metodiche analitiche chimico-fisiche e chimico-cliniche;   
+farmacologia e farmacognosia II;   
+cinetica e metabolismo in tossicologia;   
+tossicologia sperimentale II;   
+tossicologia sperimentale III;   
+cancerogenesi, mutagenesi e teratogenesi II;   
+tossicologia da abuso da farmaci.   
+c) tecnico-applicativa:   
+chimica farmaceutica e tossicologica molecolare II;   
+epidemiologia;   
+patologia comparata;   
+tossicologia dell'ambiente e misure di prevenzione;   
+tossicologia nutrizionale;   
+legislazione;   
+organizzazione di laboratori e centri di tossicologia.   
+Art. 717. - L'attivita' didattica comprende ogni anno ottocento ore di didattica formale e di tirocinio professionale guidato. Essa e' organizzata in una attivita' didattica teorico-pratica comune per tutti gli studenti (quattrocento ore come di seguito ripartite) ed in una attivita' didattica elettiva, prevalentemente di carattere tecnico-applicativo di ulteriori quattrocento ore, rivolte all'approfondimento del curriculum di studi professionali.   
+La frequenza nelle varie aree avviene pertanto come di seguito specificato:   
+  
+  
+  
+1° Anno:  
+Propedeutica (ore 220):  
+biologia molecolare. . . . . . . . . . . . . . . . . . . . . . ore 30 biologia e farmacologia cellulare. . . . . . . . . . . . . . . ore 30
+
+((chimica farmaceutica e tossicologica molecolare I))
+
+. . . . .ore 40 biometria e statistica . . . . . . . . . . . . . . . . . . . . ore 40 farmacologia e farmacognosia I . . . . . . . . . . . . . . . . ore 40
+
+((tossicologia sperimentale I))
+
+. . . . . . . . . . . . . . . . ore 40 Sperimentale (ore 180):  
+immunologia ed immunochimica . . . . . . . . . . . . . . . . . ore 60 microbiologia ed igiene. . . . . . . . . . . . . . . . . . . . ore 60 anatomia ed istopatologia degli stati tossici. . . . . . . . . ore 60 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
+  
+  
+  
+2° Anno:  
+Propedeutica (
+
+((ore 70))
+
+):  
+disegno degli esperimenti. . . . . . . . . . . . . . . . . . . ore 30 cancerogenesi, mutagenesi e teratogenesi I . . . . . . . . . . ore 40 Sperimentale (ore 190):  
+
+((metodiche analitiche chimico-fisiche e chimico-cliniche))
+
+. .ore 50 farmacologia e farmacognosia II. . . . . . . . . . . . . . . . ore 40 cinetica e metabolismo in tossicologia . . . . . . . . . . . . ore 40 tossicologia sperimentale II . . . . . . . . . . . . . . . . . ore 60 Tecnico-applicativa (ore 140):  
+chimica farmaceutica e tossicologica molecolare II . . . . . . ore 30 epidemiologia. . . . . . . . . . . . . . . . . . . . . . . . . ore 30 patologia comparata. . . . . . . . . . . . . . . . . . . . . ore
+
+((40))
+
+  
+tossicologia dell'ambiente e misure di prevenzione . . . . . . ore 40 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
+  
+3° Anno:   
+Sperimentale (ore 230):   
+tossicologia sperimentale III. . . . . . . . . . . . . . . . . ore 80 cancerogenesi, mutagenesi e teratogenesi II. . . . . . . . . . ore 80 tossicologia da abuso di farmaci . . . . . . . . . . . . . . . ore 70 Tecnico-applicativa (ore 170):   
+tossicologia nutrizionale. . . . . . . . . . . . . . . . . . . ore 70 legislazione . . . . . . . . . . . . . . . . . . . . . . . . . ore 50 organizzazione di laboratori e centri di tossicologia. . . . . ore 50 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella. Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 marzo 1963
+### Dato a Roma, addi' 4 ottobre 1986
 
-SEGNI GUI
+COSSIGA
 
-Visto, il Guardasigilli: BOSCO
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 28 maggio 1963
+Visto, il Guardasigilli: ROGNONI
 
-Atti del Governo, registro n. 170, foglio n. 2. - VILLA
+Registrato alla Corte dei conti, addi' 3 febbraio 1987
+
+Registro n. 6 Istruzione, foglio n. 141

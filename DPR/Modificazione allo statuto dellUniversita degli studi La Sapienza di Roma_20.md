@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1984 n. 722
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1985 n. 670
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1984 n. 722
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1985 n. 670
+==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
 ------------------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' "La Sapienza" di Roma, approvato con [regio decreto 14 ottobre 1926, n. 2319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2319), e successive modificazioni;
+Veduto lo statuto dell'Universita' "La Sapienza" di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -22,9 +22,11 @@ Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?u
 
 Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' "La Sapienza" di Roma e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' La Sapienza di Roma e convalidati dal Consiglio universitario nazionale nel suo parere;
 
 Sentito il parere del Consiglio universitario nazionale;
 
@@ -39,18 +41,23 @@ Articolo unico
 --------------
 
   
-Art. 147 - La denominazione dell'insegnamento complementare della facolta' di ingegneria di "elettronica applicata (meccanici)" e' rettificata in "elettronica applicata (aeronautici, meccanici)".  
+Art. 46 - nell'elenco degli insegnamenti complementari del corso di laurea in economia e commercio sono inseriti i seguenti insegnamenti: matematica generale II;  
+mercato finanziario e borsa valori;  
+tecnica di finanziamenti internazionali;  
+istituzioni di diritto privato II.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 settembre 1984
+### Dato a Roma, addi' 19 ottobre 1985
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 23 ottobre 1984
+Registrato alla Corte dei conti, addi' 16 novembre 1985
 
-Registro n. 63 Istruzione, foglio n. 56
+Registro n. 77 Istruzione, foglio n. 382

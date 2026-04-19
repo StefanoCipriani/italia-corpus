@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1952 n. 3104
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1952 n. 3105
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1952 n. 3104
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1952 n. 3105
 ================================================================
 
 Trasferimento in proprieta' all'Ente per la trasformazione fondiaria e agraria in Sardegna, di terreni di proprieta' di Dussoni Maria fu Torquato, vedova Arangino, in comune di Atzara (Nuoro).
@@ -33,7 +33,7 @@ Art. 1
 ------
 
   
-E' approvato il piano particolareggiato di espropriazione compilato dall'Ente per la trasformazione fondiaria ed agraria in Sardegna, nei confronti di Dussoni Maria fu Torquato, vedova Arangino, relativo ai terreni ricadenti nei comune di Atzara (provincia di Nuoro), per una superficie di ettari 2223.32.82, specificamente descritti nell'elenco n. 1 allegato al presente decreto.
+E' approvato il piano particolareggiato di espropriazione compilato dall'Ente per la trasformazione fondiaria ed agraria in Sardegna, nei confronti di Dussoni Maria fu Torquato, vedova Arangino, relativo ai terreni ricadenti nel comune di Atzara (provincia di Nuoro), per una superficie di ettari 131.16.60, specificamente descritti nell'elenco n. 1 allegato al presente decreto.
 
 ((1))
 
@@ -75,12 +75,12 @@ Art. 4
 ------
 
   
-L'elenco dei terreni, con l'indicazione dell'indennita' di espropriazione offerta, munito del visto del Ministro proponente, forma parte integrante del presente decreto che entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
+L'elenco dei terreni, con l'indicazione dell'indennita' di espropriazione offerta, munito del visto del Ministro proponente, forma parte integrante del presente decreto, che entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta, Ufficiale della Repubblica italiana.
 
 ((1))
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Dato a Roma, addi' 18 dicembre 1952
 
@@ -92,7 +92,7 @@ Corte dei conti, addi' 13 gennaio 1953
 
 Atti del Governo,
 
-registro n. 65, foglio n. 120. - PALLA
+registro n. 68, foglio n. 121. - PALLA
 
 -------------
 
@@ -104,10 +104,10 @@ Allegato n. 1
 
  ALLEGATO N. 1   
   
-Elenco dei terreni intestati alla ditta Dussoni Maria fu Torquato ved. Arangino Vincenzo da Aritzo, in comune di Atzara (provincia di Nuoro), trasferiti in proprieta' dell'Ente per la trasformazione fondiaria ed agraria della Sardegna, a norma delle [leggi 12 maggio 1950, n. 230, 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841) e [decreto Presidenziale 27 aprile 1951, n. 265](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-27;265).   
+Elenco dei terreni intestati alla ditta Dussoni Maria fu Torquato ved. Arangino Vincenzo da Aritzo, in comune di Atzara (provincia di Nuoro), trasferiti in proprieta' dell'Ente per la trasformazione fondiaria ed agraria della Sardegna, a norma delle [leggi 12 maggio 1950, n. 230; 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841) e [decreto Presidenziale 27 aprile 1951, n. 265](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-27;265).   
   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v052U31040010001011000102&dgu=1953-01-16&art.dataPubblicazioneGazzetta=1953-01-16&art.codiceRedazionale=052U3104)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v052U31050010001011000102&dgu=1953-01-16&art.dataPubblicazioneGazzetta=1953-01-16&art.codiceRedazionale=052U3105)
   
   
   

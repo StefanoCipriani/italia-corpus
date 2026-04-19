@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1985 n. 1139
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1986 n. 476
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1985 n. 1139
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1986 n. 476
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -24,7 +24,7 @@ Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http:
 
 Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita', anzidetta ai sensi della citata legge n. 615;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
 
 Veduto il parere del Consiglio universitario nazionale;
 
@@ -39,18 +39,15 @@ Articolo unico
 --------------
 
   
-Nell'art. 129, relativo al corso di laurea in medicina e chirurgia della prima facolta', all'elenco degli insegnamenti complementari, sono aggiunti i seguenti nuovi insegnamenti:  
-chirurgia plastica e ricostruttiva;  
-tecniche immunologiche;  
-terapia intensiva e d'urgenza in geriatria;  
-allergologia e immunologia clinica;  
-fisiopatologia cardio-vascolare.  
+  
+Nell'art. 22, relativo al corso di laurea in giurisprudenza, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:   
+legislazione minorile.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 ottobre 1985
+### Dato a Roma, addi' 13 maggio 1986
 
 COSSIGA
 
@@ -58,6 +55,6 @@ FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 9 settembre 1986
+Registrato alla Corte dei conti, addi' 19 luglio 1986
 
-Registro n. 69 Istruzione, foglio n. 388
+Registro n. 58 Istruzione, foglio n. 283

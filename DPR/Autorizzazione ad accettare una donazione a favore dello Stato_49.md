@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 aprile 1975 n. 458
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 aprile 1976 n. 433
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 aprile 1975 n. 458
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 aprile 1976 n. 433
 =============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-458. Decreto del Presidente della Repubblica 28 aprile 1975, col quale, sulla proposta del Ministro per le finanze, di concerto con il Ministro per il lavoro e la previdenza sociale, viene autorizzata l'accettazione di una donazione a favore dello Stato, disposta dal comune di Forlimpopoli (Forli), con atto 18 settembre 1954, n. 591 di repertorio, a rogito notaio Vincenzo Santelmo, consistente in un suolo di mq 216, catastalmente indicato nell'atto suddetto e sul quale il Ministero del lavoro e della previdenza sociale, con le esercitazioni pratiche di un corso di qualificazione professionale, ha gia' realizzato un edificio adibito a sede dell'ufficio di collocamento di quel comune.  
+433. Decreto del Presidente della Repubblica 2 aprile 1976, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione disposta a favore dello Stato dall'ente ospedaliero "Ospedale civile di Piacenza" e dall'ente morale "Ospizi civili di Piacenza" con atto 14 aprile 1975, n. 40605 di repertorio, a rogito dott. Alberto Vullo, notaio in Piacenza, del complesso monumentale sito in Alseno (Piacenza), denominato ex monastero di Chiaravalle, ivi compreso il chiostro, con esclusione del terreno agricolo entrostante il muro di cinta.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 13 settembre 1975  
-Atti di Governo, registro n. 12, foglio n. 11
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 16 giugno 1976  
+Atti di Governo, registro n. 6, foglio n. 79

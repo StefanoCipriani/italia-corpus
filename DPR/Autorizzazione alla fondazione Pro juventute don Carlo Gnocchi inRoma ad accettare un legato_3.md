@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1986 n. 1023
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 144
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1986 n. 1023
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 144
+===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in 
 Roma, ad accettare un legato.
@@ -13,8 +13,8 @@ Art. 1
 
 N.
 
-1023. Decreto del Presidente della Repubblica 27 dicembre 1986, col quale, sulla proposta del presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in un immobile sito in Milano, via Montello, 4, distinto nel nuovo catasto edilizio urbano alla partita 44539, foglio 264, mappale 227 sub. 63, valutato con perizia di parte L. 9.000.000, valore elevato dall'ufficio tecnico erariale di Milano a L. 23.800.000, disposto dalla sig.ra Girola Fiorina con testamento olografo 14 gennaio 1982, pubblicato a rogito dott. Ulderico Brambilla, notaio in Milano, il 27 gennaio 1983, n. 9283 di repertorio e n. 1363 di raccolta, registrato a Milano il 9 febbraio 1983 al n. 3312.   
+144. Decreto del Presidente della Repubblica 26 febbraio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Pettenghi Elsa Maria ved. Bogni, a favore dell'Istituto don Gnocchi, con testamento pubblico a rogito dott. Tosco Salvadori, notaio in Genova, in data 5 maggio 1976, attivato dallo stesso notaio in data 4 maggio 1979, n. 6941 di repertorio e n. 3527 di raccolta, registrato a Genova il 9 maggio 1979 al n. 8521, consistente in un appartamento sito in Genova-Nervi, via Somma Donato n. 9/A, distinto nel nuovo catasto edilizio urbano alla partita 5762, foglio 8, mappale 396 sub 15, del valore attribuito di L. 25.000.000 elevato dall'ufficio tecnico erariale di Genova a L. 38.000.000.  
   
-Visto, il Guardasigilli: ROGNONI   
-Registrato alla Corte dei conti, addi' 18 febbraio 1987   
-Registro n. 4 Presidenza, foglio n. 3
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 31 marzo 1982  
+Registro n. 3 Presidenza, foglio n. 118

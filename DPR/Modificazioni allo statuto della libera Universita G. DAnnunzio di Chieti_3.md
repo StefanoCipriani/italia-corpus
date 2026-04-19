@@ -1,93 +1,419 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 924
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 gennaio 1977 n. 298
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 924
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 gennaio 1977 n. 298
 ==============================================================
 
 Modificazioni allo statuto della libera Universita' "G. D'Annunzio" di Chieti.
 ------------------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto della libera Universita' "G. D'Annunzio" di Chieti, approvato con [decreto del Presidente della Repubblica 8 maggio 1965, n. 1007](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-05-08;1007) e modificato con [decreto del Presidente della Repubblica 20 settembre 1966, n. 1291](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-09-20;1291), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' libera "G. D'Annunzio" di Chieti e convalidati dal Consiglio superiore della pubblica istruzione;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' libera "G. D'Annunzio" di Chieti, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Dopo l'art. 107, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alle scuole di specializzazione in radiologia e anestesia e rianimazione.
+
+Scuola di specializzazione in radiologia
+
+Art. 108. - Presso la facolta' di medicina e chirurgia e' istituita la scuola di specializzazione in radiologia che conferisce il diploma di specialita' in radiologia ed e' riservata ai laureati in medicina e chirurgia.
+
+La sede della scuola e' presso la clinica radiologica di questa Universita'.
+
+Art. 109. - La scuola ha la durata di quattro anni.
+
+Art. 110. - L'ammissione alla scuola avverra' sulla base di titoli ed esami. Non sono ammesse abbreviazioni di corso.
+
+Art. 111. - Sono disponibili cinque posti per ciascun anno di corso.
+
+Il numero complessivo dei posti per i quattro anni di corso non dovra' essere superiore a venti.
+
+Art. 112. - Le materie di insegnamento sono le seguenti:
+
+a) matematica, fisica, nozioni di statistica ed informatica (annuale) comprendente:
+
+1) richiami di matematica e fisica generale;
+
+2) costituzione della materia;
+
+3) produzione, assorbimento e misura delle radiazioni;
+
+4) statistica applicata alla medicina;
+
+5) informatica e cibernetica applicata alla radiologia;
+
+b) radiodiagnostica (triennale) comprendente:
+
+1) principi generali di radiodiagnostica;
+
+2) apparecchi, strumenti e tecnica radiodiagnostica;
+
+3) tecnica di fisiologia applicata alla radiodiagnostica;
+
+4) mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;
+
+5) semeiotica radiologica;
+
+6) diagnostica differenziale e radiologica;
+
+7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;
+
+8) dimostrazioni di casistica clinica;
+
+c) radiobiologia (annuale) comprendente:
+
+1) radiobiologia generale;
+
+2) danni da radiazioni e radiopatie;
+
+d) protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicata alla radiologia (annuale) comprendente:
+
+1) legislazione sanitaria applicata alla radiologia;
+
+2) compiti e responsabilita' medico legali del radiologo;
+
+3) radioprotezione fisica e dosimetria ad essa connessa;
+
+4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;
+
+5) radioprotezione chimica;
+
+6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici;
+
+e) radioterapia e terapia fisica (triennale) comprendente:
+
+1) radiobiologia applicata;
+
+2) fondamenti generali di radioterapia e terapia fisica;
+
+3) istopatologia speciale dei tumori;
+
+4) nozioni sugli apparecchi e strumenti per la radioterapia;
+
+5) tecnica e metodica radioterapica;
+
+6) dosimetria;
+
+7) clinica radioterapica;
+
+8) fondamenti generali di chemioterapia oncologica;
+
+9) chemioterapia clinica dei tumori e sua associazione alla radioterapia;
+
+10) dimostrazione di casistica clinica;
+
+f) medicina nucleare (biennale) comprendente:
+
+1) elementi di medicina nucleare;
+
+2) istrumentario, tecnica e metodica dell'impiego di radioisotopi in medicina nucleare;
+
+3) dosimetria di radioisotopi somministrati per via interna;
+
+4) diagnostica con radioisotopi somministrati per via interna;
+
+5) radioterapia metabolica;
+
+6) dimostrazioni di statistica clinica.
+
+I singoli insegnamenti, tenuti da uno o piu' docenti, a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze, dimostrazioni pratiche e, ove opportuno e possibile da visite ad istituzioni di particolare interesse, sono cosi' distribuiti nei quattro anni di corso:
+
+1° Anno (tronco comune):
+
+1) matematica, fisica, nozioni di statistica ed informatica, Radiobiologia, Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia, Radiodiagnostica (I).
+
+2° Anno:
+
+radiodiagnostica (II);
+
+radioterapia e terapia fisica (I).
+
+3° Anno:
+
+1) radiodiagnostica (III);
+
+2) radioterapia e terapia fisica (II);
+
+3) medicina nucleare (I).
+
+4° Anno:
+
+1) radioterapia e terapia fisica (III);
+
+2) medicina nucleare (II).
+
+Art. 113. - Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni e le esercitazioni. L'internato e' obbligatorio durante tutti e quattro gli anni di corso e si svolgera' presso la clinica radiologica sotto forma di presenza costante nei predetti reparti durante le ore della loro attivita' con presenza giornaliera negli ambulatori.
+
+Art. 114. - Gli allievi hanno doveri ed attribuzioni analoghi a quelli degli assistenti.
+
+Art. 115. - Gli allievi che non abbiano ottemperato agli obblighi di frequenza non potranno essere ammessi a sostenere gli esami annuali.
+
+Art. 116. - Alla fine di ogni anno di corso gli iscritti sono tenuti a superare gli esami relativi ai singoli insegnamenti di ciascun anno di corso per il passaggio all'anno successivo.
+
+Art. 117. - Al termine del corso di studi, per il conseguimento del diploma di specialita', gli allievi dovranno superare l'esame di diploma consistente nella dissertazione scritta su materie che sono state oggetto dei corsi.
+
+Art. 118. - Sono stabilite le seguenti tasse, soprattasse e contributi:
+
+tassa di immatricolazione . . . . . . . . . . . . . . . . L. 5.000 tassa annuale di iscrizione . . . . . . . . . . . . . . . " 18.000 soprattassa annuale per esami di profitto . . . . . . . . " 7.000 contributi generali . . . . . . . . . . . . . . . . . . . " 1.950 contributo riscaldamento. . . . . . . . . . . . . . . . . " 7.000 contributo laboratorio per esercitazioni. . . . . . . . . " 140.000 libretto di riconoscimento. . . . . . . . . . . . . . . . " 1.300 indennita di schedatura . . . . . . . . . . . . . . . . . " 500
+
+Scuola di specializzazione in anestesia e rianimazione
+
+Art. 119. - Presso la facolta' di medicina e chirurgia e' istituita la scuola di specializzazione in anestesia e rianimazione che conferisce il diploma di specialista in anestesia e rianimazione.
+
+La sede della scuola e' presso l'istituto di anestesia e rianimazione.
+
+Art. 120. - La scuola ha la durata di tre anni e sono ammessi i laureati in medicina e chirurgia.
+
+Art. 121. - L'ammissione alla scuola avverra' sulla base di titoli ed esami. Non sono ammesse abbreviazioni di corso.
+
+Art. 122. - Sono disponibili 6 (sei) posti per ciascun anno di corso. Il numero complessivo dei posti nei tre anni di corso non dovra' essere superiore a diciotto.
+
+Art. 123. - Le materie di insegnamento per ciascun anno di corso sono le seguenti:
+
+1° Anno:
+
+1) anatomia, biochimica, farmacologia, fisica, fisiologia applicata all'anestesia e rianimazione;
+
+2) anestesiologia (biennale) I;
+
+3) tecniche chirurgiche di interesse anestesiologico;
+
+4) aspetti medico legali dell'anestesia e della rianimazione. 2° Anno:
+
+1) anestesiologia (biennale) II;
+
+2) terapia antalgica;
+
+3) rianimazione (biennale) I.
+
+3° Anno:
+
+1) rianimazione (biennale) II;
+
+2) indagini diagnostiche attinenti alla specialita';
+
+3) tecniche speciali di anestesia e rianimazione.
+
+Verranno inoltre impartiti insegnamenti complementari sulle seguenti materie:
+
+tecnica degli esami endoscopici (al primo anno);
+
+cardiologia della rianimazione (al secondo anno);
+
+nozioni di tecnicologia clinica (al terzo anno).
+
+Art. 124. - Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni e le esercitazioni. L'internato e' obbligatorio durante tutti i tre anni di corso e si svolgera' presso l'istituto di anestesia e rianimazione sotto forma di presenza costante nel predetto reparto durante le ore della sua attivita' con presenza giornaliera negli ambulatori e reparti di degenza.
+
+Art. 125. - Gli allievi hanno doveri ed attribuzioni analoghe a quelle degli assistenti.
+
+Art. 126. - Gli allievi che non abbiano ottemperato agli obblighi di frequenza non potranno essere ammessi a sostenere gli esami annuali.
+
+Art. 127. - Alla fine di ogni anno di corso gli iscritti sono tenuti a superare gli esami relativi ai singoli insegnamenti di ciascun anno per il passaggio all'anno successivo.
+
+Art. 128. - Al termine del corso di studi, per il conseguimento del diploma di specialita', gli allievi dovranno superare l'esame di diploma consistente nella dissertazione scritta su materie che sono state oggetto dei corsi.
+
+Art. 129. - Sono stabiliti i seguenti importi delle tasse, soprattasse e contributi:
+
+tassa di immatricolazione . . . . . . . . . . . . . . . . L. 5.000 tasa annuale di iscrizione. . . . . . . . . . . . . . . . " 18.000 soprattassa annuale per esami di profitto . . . . . . . . " 7.000 contributi generali . . . . . . . . . . . . . . . . . . . " 1.950 contributi di riscaldamento . . . . . . . . . . . . . . . " 7.000 contributi di laboratorio per esercitazioni . . . . . . . " 140.000 libretto di riconoscimento. . . . . . . . . . . . . . . . " 1.300 indennita di schedatura . . . . . . . . . . . . . . . . . " 500
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 19 gennaio 1977
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 3 giugno 1977 Registro n. 66 Istruzione, foglio n. 384
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto della libera Universita' degli studi "G.  
-D'Annunzio" di Chieti approvato con [decreto del Presidente della Repubblica 8 maggio 1965, n. 1007](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-05-08;1007) e modificato con [decreto del Presidente della Repubblica 20 settembre 1966, n. 1291](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-09-20;1291), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto della libera Universita' "G. D'Annunzio" di Chieti, approvato con [decreto del Presidente della Repubblica 8 maggio 1965, n. 1007](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-05-08;1007) e modificato con [decreto del Presidente della Repubblica 20 settembre 1966, n. 1291](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-09-20;1291), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' libera "G. D'Annunzio" di Chieti e convalidati dal Consiglio superiore della pubblica istruzione;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto della libera Universita' "G. D'Annunzio" di Chieti, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' libera "G. D'Annunzio" di Chieti, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Dopo l'art. 48 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in pronto soccorso e terapia d'urgenza.  
+Dopo l'art. 107, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alle scuole di specializzazione in radiologia e anestesia e rianimazione.   
   
-Scuola di specializzazione in pronto soccorso e terapia d'urgenza  
+Scuola di specializzazione in radiologia   
   
-Art. 49. - La scuola di specializzazione in pronto soccorso e terapia d'urgenza ha lo scopo di offrire la possibilita' ai laureati in medicina e chirurgia della migliore conoscenza di tutti i problemi tecnici e scientifici inerenti al pronto soccorso e alla terapia d'urgenza;  
-in modo che, attraverso seri e concreti insegnamenti, si giunga a una piena qualificazione e responsabilizzazione di coloro che saranno impiegati nei reparti di pronto soccorso.  
-La scuola conferisce un diploma di specializzazione in pronto soccorso e terapia d'urgenza.  
-Art. 50. - Alla scuola di specializzazione in pronto soccorso e terapia d'urgenza vengono ammessi i laureati in medicina e chirurgia.  
-Il numero totale degli iscritti e' di sessanta (20 per anno di corso).  
-Art. 51. La scuola ha la durata di un triennio.  
-Art. 52.- Gli insegnamenti impartiti dalla scuola sono i seguenti ripartiti nei suoi tre anni di corso:  
-1° Anno:  
-1) Patologia medica e terapia (I corso);  
-2) Semeiotica speciale di pronto soccorso (radiologia, elettrocardiografia, ecografia, laboratorio d'urgenza) I corso;  
-3) Rianimazione (I corso);  
-4) Traumatologia (I corso);  
-5) Tossicologia;  
-6) Chirurgia plastica corrente;  
-7) Otorinolaringoiatria;  
-8) Tecnica trasfusionale ed emoimmunologia;  
-9) Anatomia chirurgica e operativa.  
-2° Anno:  
-1) Patologia medica e terapia (II corso);  
-2) Semeiotica speciale di pronto soccorso (II corso);  
-3) Rianimazione (II corso);  
-4) Traumatologia (II corso);  
-5) Clinica chirurgica e tecnica operatoria (I corso);  
-6) Malattie infettive;  
-7) Neurologia e psichiatria;  
-8) Pediatria.  
-3° Anno:  
-1) Clinica chirurgia e tecnica operatoria (II corso);  
-2) Cardiologia;  
-3) Ostetricia e ginecologia;  
-4) Anestesia;  
-5) Chirurgia della mano;  
-6) Medicina legale;  
-7) Oculistica;  
-8) Psicologia.  
-Gli insegnamenti suddetti sono conferiti di anno in anno per incarico del rettore su proposta del consiglio della scuola, previa approvazione da parte del comitato tecnico della facolta' di medicina e chirurgia (o del consiglio della facolta).  
-Data la varieta' delle specialita' che concorrono a formare il medico di pronto soccorso e terapia d'urgenza, l'insegnamento propedeutico della anatomia, patologia e fisiologia, relativo ad ogni specialita', sara' oggetto di trattazione da parte dei docenti dei singoli insegnamenti sopra elencati.  
-Art. 53 - Per ogni anno di corso e' obbligatoria la frequenza alle lezioni secondo le modalita' stabilite dal consiglio della scuola.  
-Art. 54. - Il consiglio della scuola ha facolta' di proporre abbreviazioni di corso per quegli iscritti che presentino titoli di riconosciuto valore nel campo del pronto soccorso e della terapia d'urgenza.  
-Coloro che usufruiscono della suddetta agevolazione devono comunque sostenere tutti gli esami di profitto e quello di diploma.  
-Art. 55. - Gli esami di profitto si svolgono per gruppi di materie alla fine di ogni anno.  
-L'esame di diploma consta di una discussione sopra una dissertazione originale scritta stabilita dalla commissione esaminatrice che potra' richiedere eventualmente lo svolgimento di prove pratiche.  
-Art. 56. - Gli organi della scuola sono:  
-1) il direttore;  
-2) il consiglio.  
-Il direttore della scuola viene nominato di anno in anno dal rettore su designazione del comitato tecnico della facolta' di medicina e chirurgia (o dal consiglio della facolta) e puo' essere confermato.  
-Il consiglio della scuola e' composto dal direttore che lo presiede e dai docenti incaricati degli insegnamenti previsti all'art. 52.  
+Art. 108. - Presso la facolta' di medicina e chirurgia e' istituita la scuola di specializzazione in radiologia che conferisce il diploma di specialita' in radiologia ed e' riservata ai laureati in medicina e chirurgia.   
+La sede della scuola e' presso la clinica radiologica di questa Universita'.   
+  
+Art. 109. - La scuola ha la durata di quattro anni.   
+  
+Art. 110. - L'ammissione alla scuola avverra' sulla base di titoli ed esami. Non sono ammesse abbreviazioni di corso.   
+  
+Art. 111. - Sono disponibili cinque posti per ciascun anno di corso.   
+Il numero complessivo dei posti per i quattro anni di corso non dovra' essere superiore a venti.   
+  
+Art. 112. - Le materie di insegnamento sono le seguenti:   
+a) matematica, fisica, nozioni di statistica ed informatica (annuale) comprendente:   
+1) richiami di matematica e fisica generale;   
+2) costituzione della materia;   
+3) produzione, assorbimento e misura delle radiazioni;   
+4) statistica applicata alla medicina;   
+5) informatica e cibernetica applicata alla radiologia;   
+b) radiodiagnostica (triennale) comprendente:   
+1) principi generali di radiodiagnostica;   
+2) apparecchi, strumenti e tecnica radiodiagnostica;   
+3) tecnica di fisiologia applicata alla radiodiagnostica;   
+4) mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;   
+5) semeiotica radiologica;   
+6) diagnostica differenziale e radiologica;   
+7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;   
+8) dimostrazioni di casistica clinica;   
+c) radiobiologia (annuale) comprendente:   
+1) radiobiologia generale;   
+2) danni da radiazioni e radiopatie;   
+d) protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicata alla radiologia (annuale) comprendente:   
+1) legislazione sanitaria applicata alla radiologia;   
+2) compiti e responsabilita' medico legali del radiologo;   
+3) radioprotezione fisica e dosimetria ad essa connessa;   
+4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;   
+5) radioprotezione chimica;   
+6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici;   
+e) radioterapia e terapia fisica (triennale) comprendente:   
+1) radiobiologia applicata;   
+2) fondamenti generali di radioterapia e terapia fisica;   
+3) istopatologia speciale dei tumori;   
+4) nozioni sugli apparecchi e strumenti per la radioterapia;   
+5) tecnica e metodica radioterapica;   
+6) dosimetria;   
+7) clinica radioterapica;   
+8) fondamenti generali di chemioterapia oncologica;   
+9) chemioterapia clinica dei tumori e sua associazione alla radioterapia;   
+10) dimostrazione di casistica clinica;   
+f) medicina nucleare (biennale) comprendente:   
+1) elementi di medicina nucleare;   
+2) istrumentario, tecnica e metodica dell'impiego di radioisotopi in medicina nucleare;   
+3) dosimetria di radioisotopi somministrati per via interna;   
+4) diagnostica con radioisotopi somministrati per via interna;   
+5) radioterapia metabolica;   
+6) dimostrazioni di statistica clinica.   
+  
+I singoli insegnamenti, tenuti da uno o piu' docenti, a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze, dimostrazioni pratiche e, ove opportuno e possibile da visite ad istituzioni di particolare interesse, sono cosi' distribuiti nei quattro anni di corso:   
+1° Anno (tronco comune):   
+1) matematica, fisica, nozioni di statistica ed informatica, Radiobiologia, Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia, Radiodiagnostica (I).   
+2° Anno:   
+radiodiagnostica (II);   
+radioterapia e terapia fisica (I).   
+3° Anno:   
+1) radiodiagnostica (III);   
+2) radioterapia e terapia fisica (II);   
+3) medicina nucleare (I).   
+4° Anno:   
+1) radioterapia e terapia fisica (III);   
+2) medicina nucleare (II).   
+  
+Art. 113. - Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni e le esercitazioni. L'internato e' obbligatorio durante tutti e quattro gli anni di corso e si svolgera' presso la clinica radiologica sotto forma di presenza costante nei predetti reparti durante le ore della loro attivita' con presenza giornaliera negli ambulatori.   
+  
+Art. 114. - Gli allievi hanno doveri ed attribuzioni analoghi a quelli degli assistenti.   
+  
+Art. 115. - Gli allievi che non abbiano ottemperato agli obblighi di frequenza non potranno essere ammessi a sostenere gli esami annuali.   
+  
+Art. 116. - Alla fine di ogni anno di corso gli iscritti sono tenuti a superare gli esami relativi ai singoli insegnamenti di ciascun anno di corso per il passaggio all'anno successivo.   
+  
+Art. 117. - Al termine del corso di studi, per il conseguimento del diploma di specialita', gli allievi dovranno superare l'esame di diploma consistente nella dissertazione scritta su materie che sono state oggetto dei corsi.   
+  
+Art. 118. - Sono stabilite le seguenti tasse, soprattasse e contributi:   
+  
+  
+tassa di immatricolazione . . . . . . . . . . . . . . . . L. 5.000 tassa annuale di iscrizione . . . . . . . . . . . . . . . " 18.000 soprattassa annuale per esami di profitto . . . . . . . . " 7.000 contributi generali . . . . . . . . . . . . . . . . . . . " 1.950 contributo riscaldamento. . . . . . . . . . . . . . . . . " 7.000 contributo laboratorio per esercitazioni. . . . . . . . . " 140.000 libretto di riconoscimento. . . . . . . . . . . . . . . . " 1.300 indennita di schedatura . . . . . . . . . . . . . . . . . " 500   
+  
+  
+  
+Scuola di specializzazione in anestesia e rianimazione   
+  
+Art. 119. - Presso la facolta' di medicina e chirurgia e' istituita la scuola di specializzazione in anestesia e rianimazione che conferisce il diploma di specialista in anestesia e rianimazione.   
+La sede della scuola e' presso l'istituto di anestesia e rianimazione.   
+  
+Art. 120. - La scuola ha la durata di tre anni e sono ammessi i laureati in medicina e chirurgia.   
+  
+Art. 121. - L'ammissione alla scuola avverra' sulla base di titoli ed esami. Non sono ammesse abbreviazioni di corso.   
+  
+Art. 122. - Sono disponibili 6 (sei) posti per ciascun anno di corso. Il numero complessivo dei posti nei tre anni di corso non dovra' essere superiore a diciotto.   
+  
+Art. 123. - Le materie di insegnamento per ciascun anno di corso sono le seguenti:   
+1° Anno:   
+1) anatomia, biochimica, farmacologia, fisica, fisiologia applicata all'anestesia e rianimazione;   
+2) anestesiologia (biennale) I;   
+3) tecniche chirurgiche di interesse anestesiologico;   
+4) aspetti medico legali dell'anestesia e della rianimazione. 2° Anno:   
+1) anestesiologia (biennale) II;   
+2) terapia antalgica;   
+3) rianimazione (biennale) I.   
+3° Anno:   
+1) rianimazione (biennale) II;   
+2) indagini diagnostiche attinenti alla specialita';   
+3) tecniche speciali di anestesia e rianimazione.   
+  
+Verranno inoltre impartiti insegnamenti complementari sulle seguenti materie:   
+tecnica degli esami endoscopici (al primo anno);   
+cardiologia della rianimazione (al secondo anno);   
+nozioni di tecnicologia clinica (al terzo anno).   
+  
+Art. 124. - Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni e le esercitazioni. L'internato e' obbligatorio durante tutti i tre anni di corso e si svolgera' presso l'istituto di anestesia e rianimazione sotto forma di presenza costante nel predetto reparto durante le ore della sua attivita' con presenza giornaliera negli ambulatori e reparti di degenza.   
+  
+Art. 125. - Gli allievi hanno doveri ed attribuzioni analoghe a quelle degli assistenti.   
+  
+Art. 126. - Gli allievi che non abbiano ottemperato agli obblighi di frequenza non potranno essere ammessi a sostenere gli esami annuali.   
+  
+Art. 127. - Alla fine di ogni anno di corso gli iscritti sono tenuti a superare gli esami relativi ai singoli insegnamenti di ciascun anno per il passaggio all'anno successivo.   
+  
+Art. 128. - Al termine del corso di studi, per il conseguimento del diploma di specialita', gli allievi dovranno superare l'esame di diploma consistente nella dissertazione scritta su materie che sono state oggetto dei corsi.   
+  
+Art. 129. - Sono stabiliti i seguenti importi delle tasse, soprattasse e contributi:   
+  
+  
+tassa di immatricolazione . . . . . . . . . . . . . . . . L. 5.000 tasa annuale di iscrizione. . . . . . . . . . . . . . . . " 18.000 soprattassa annuale per esami di profitto . . . . . . . . " 7.000 contributi generali . . . . . . . . . . . . . . . . . . . " 1.950 contributi di riscaldamento . . . . . . . . . . . . . . . " 7.000 contributi di laboratorio per esercitazioni . . . . . . . " 140.000 libretto di riconoscimento. . . . . . . . . . . . . . . . " 1.300 indennita di schedatura . . . . . . . . . . . . . . . . . " 500   
+  
+  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1972
+### Dato a Roma, addi' 19 gennaio 1977
 
-LEONE
+LEONE MALFATTI
 
-Visto, il Guardasigilli: GONNELLA
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 15 gennaio 1973
+Registrato alla Corte dei conti, addi' 3 giugno 1977
 
-Atti di Governo, registro n. 255, foglio n. 30. - VALENTINI
+Registro n. 66 Istruzione, foglio n. 384

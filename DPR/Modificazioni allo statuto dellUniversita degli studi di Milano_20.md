@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1978 n. 791
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 681
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1978 n. 791
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 681
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -10,171 +10,702 @@ Modificazioni allo statuto dell'Universita' degli studi di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvate con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte; in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte; Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 148 - all'elenco delle scuole di specializzazione in medicina e chirurgia e' aggiunta la seconda scuola di specializzazione in anatomia patologica.
+L'art. 132 relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che le scuole in "Igiene ed epidemiologia", "Igiene e tecnica ospedaliera", "Medicina ed igiene scolastica" sono soppresse.
 
-Dopo l'art. 264, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della seconda scuola di specializzazione in anatomia patologica.
+La "Scuola di specializzazione in otorinolaringoiatria" muta la denominazione in quella di "Scuola di specializzazione in otorinolaringoiatria e patologia cervicofacciale".
 
-Seconda scuola di specializzazione in anatomia patologica
+Allo stesso elenco sono aggiunte le scuole di specializzazione in "Igiene e medicina preventiva" e in "Reumatologia" di nuova istituzione.
 
-Art. 265. - La direzione della seconda scuola in anatomia patologica e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+Gli articoli da 156 a 163 relativi alla scuola di specializzazione in "Chirurgia dell'infanzia" sono abrogati e sostituiti dai seguenti:
 
-La scuola ha sede presso la cattedra di anatomia e istologia patologica in soprannumero. Essa conferisce il diploma di specialista in anatomia patologica.
+Scuola di specializzazione in chirurgia dell'infanzia
 
-Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+Art. 156. - La scuola di specializzazione in chirurgia dell'infanzia conferisce il diploma di specialista in chirurgia dell'infanzia.
 
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.
+Art. 157. - La durata del corso di studi per il conseguimento della specialita' in chirurgia dell'infanzia e' fissata in anni due.
 
-Il numero massimo degli allievi e' di quindici per anno di corso e complessivamente di sessanta per l'intero corso di studi.
+Possono ottenere l'iscrizione alla scuola i laureati in medicina e chirurgia che siano in possesso del diploma di specialista in chirurgia o abbiano conseguito la libera docenza in clinica chirurgica o patologia chirurgica, o semeiotica chirurgica, o anatomia chirurgica, o in chirurgia pediatrica.
 
-L'ammissione al corso avviene per titoli ed esami.
+Non e' ammessa l'abbreviazione di corso.
 
-Art. 266. - Le materie di insegnamento sono le seguenti:
+Art. 158. - Il numero degli iscritti alla scuola e' di dieci per anno di corso.
+
+Qualora il numero degli aspiranti superi quello stabilito per la scuola in chirurgia dell'infanzia, l'ammissione sara' subordinata ad una prova d'esame.
+
+Art. 159. - La direzione della scuola e' affidata al titolare dell'insegnamento della chirurgia pediatrica o ad una persona nominata dalla facolta'.
+
+Art. 160. - Il corso si compone di insegnamenti fondamentali e di conferenze su argomenti speciali, oltre ad un periodo di internato obbligatorio di almeno sei mesi per ogni anno di corso.
+
+Il periodo di internato potra' essere abbreviato per coloro che documentino di svolgere effettivo servizio presso reparti di chirurgia pediatrica universitari o ospedalieri.
+
+Art. 161. - Le materie di insegnamento sono le seguenti:
 
 1° Anno:
 
-anatomia patologica sistematica I;
+Anatomia patologica e teratologia (lezioni);
 
-tecnica delle autopsie;
+Endocrinologia infantile (conferenze);
 
-diagnostica anatomo-patologica macroscopica I;
+Clinica pediatrica (lezioni);
 
-tecniche istologiche ed istochimiche.
+Clinica chirurgica pediatrica (lezioni);
+
+Patologia chirurgica e semeiotica chirurgica (lezioni);
+
+Diagnostica radiologica e nucleare delle malattie chirurgiche dell'infanzia (lezioni);
+
+Anestesiologia e rianimazione (conferenze).
 
 2° Anno:
 
-anatomia patologica sistematica II;
+Clinica pediatrica (lezioni);
 
-diagnostica anatomo-patologica macroscopica II;
+Clinica chirurgica pediatrica (lezioni);
 
-diagnostica istopatologica I;
+Chirurgia d'urgenza nell'infanzia (lezioni);
 
-tecniche e diagnostica citologica e citogenetica.
+Otorinolaringoiatria nell'infanzia (conferenze);
+
+Ortopedia nell'infanzia (conferenze);
+
+Urologia nell'infanzia (conferenze);
+
+Neurochirurgia infantile (conferenze);
+
+Chirurgia del cuore e dei grossi vasi (conferenze).
+
+Art. 162. - La frequenza alle lezioni e' obbligatoria.
+
+Al termine di ciascun anno accademico, gli specializzandi, che abbiano ottenuto le firme di frequenza, dovranno sostenere gli esami di profitto nelle materie oggetto di insegnamento.
+
+Art. 163. - Al termine del corso di specializzazione gli specializzandi dovranno presentare una dissertazione scritta su argomento di chirurgia infantile e sostenere l'esame di diploma.
+
+L'art. 178 relativo alla scuola di specializzazione in igiene ed epidemiologia; gli articoli 179-180 relativi alla scuola di specializzazione in igiene e tecnica ospedaliera; l'art. 185 relativo alla scuola di specializzazione in medicina e igiene scolastica sono soppressi con il conseguente spostamento della numerazione degli articoli successivi.
+
+L'art. 202 relativo alla "Scuola di specializzazione in neurochirurgia" e' abrogato e sostituito dal seguente:
+
+Scuola di specializzazione in neurochirurgia
+
+Art. 202. - La durata del corso e' di quattro anni.
+
+Il numero degli iscritti e' stabilito in un massimo di sei per il primo anno di corso (totale ventiquattro iscritti).
+
+Le materie di insegnamento sono:
+
+1° Anno:
+
+1) Neuroanatomia;
+
+2) Neurofisiologia;
+
+3) Semeiotica e clinica neurologica;
+
+4) Elementi di psichiatria;
+
+5) Clinica neurochirurgica (I).
+
+Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto sulle materie di cui ai numeri 1), 2), 3), 4).
+
+2° Anno:
+
+1) Neuro-oftalmologia;
+
+2) Neuro-otoiatria;
+
+3) Elettroencefalografia ed elettromiografia;
+
+4) Clinica neurochirurgica (II).
+
+Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto sulle materie di cui ai numeri 1), 2) e 3).
 
 3° Anno:
 
-diagnostica istopatologica II;
+1) Anestesiologia;
 
-tecniche di microscopia elettronica e biologia ultrastrutturale;
+2) Neuropatologia;
 
-immunopatologia.
+3) Neuroradiologia (I);
+
+4) Clinica neurochirurgica (III).
+
+Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto sulle materie di cui ai numeri 1) e 2).
 
 4° Anno:
 
-diagnostica istopatologica III;
+1) Tecniche operatorie;
 
-diagnostica istocitopatologica ultrastrutturale;
+2) Neuroradiologia (II);
 
-diagnostica autoptica medico-legale ed elementi di legislazione sanitaria;
+3) Clinica neurochirurgica (IV);
 
-applicazioni statistiche ed epidemiologiche.
+4) Neurotraumatologia;
 
-Art. 267. - La frequenza alle lezioni, alle esercitazioni pratiche, e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+5) Neurochirurgia infantile;
 
-Alla fine di ogni corso gli iscritti per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
+6) Chirurgia stereotassica;
 
-Al termine del corso di studi per il conseguimento del diploma di specialista in anatomia patologica gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+7) Neurochirurgia spinale.
 
-Le norme per l'iscrizione, gli esami, le tasse, ecc., sono quelle generali per le scuole di specializzazione dell'Universita' statale di Milano.
+Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto sulle materie di cui ai numeri 1), 2) e 3).
+
+Gli insegnamenti saranno integrati da esercitazioni cliniche e di laboratorio.
+
+La frequenza alla scuola e' obbligatoria durante l'anno accademico.
+
+Gli allievi sono tenuti a frequentare assiduamente le lezioni ed i laboratori della clinica neurochirurgica secondo l'orario stabilito ed a partecipare attivamente alle esercitazioni cliniche e di laboratorio.
+
+Il direttore della scuola potra' disporre che gli allievi frequentino per determinati periodi le lezioni e le esercitazioni di laboratorio in altri istituti dell'universita'.
+
+Al termine di ciascun anno gli allievi che abbiano regolarmente frequentato il corso dovranno superare un esame di profitto.
+
+L'art. 209 relativo alla scuola di specializzazione in otorinolaringoiatria che muta la denominazione in quella di scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale e' abrogato e sostituito dal seguente:
+
+Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale
+
+Art. 209. - La durata del corso e' di tre anni.
+
+Il numero dei posti e' fissato in cinque per ogni anno di corso.
+
+E' obbligatoria la frequenza giornaliera per un minimo di quattro ore.
+
+Le materie di insegnamento sono:
+
+1° Anno:
+
+Anatomia;
+
+Fisiologia;
+
+Audiologia (1° anno);
+
+Semeiotica otorinolaringoiatrica;
+
+Tecnica di laboratorio;
+
+Patologia e clinica otorinolaringoiatrica e cervicofacciale (1° anno);
+
+Anatomia ed istologia patologica otorinolaringoiatrica.
+
+2° Anno:
+
+Tecniche operatorie in otorinolaringoiatria;
+
+Anestesiologia in otorinolaringoiatria;
+
+Patologia e clinica otorinolaringoiatrica e cervicofacciale (2° anno);
+
+Radiologia in rapporto con l'otorinolaringoiatria;
+
+Pediatria in rapporto con l'otorinolaringoiatria;
+
+Audiologia (2° anno);
+
+Otoneurologia;
+
+Foniatria.
+
+3° Anno:
+
+Patologia e clinica otorinolaringoiatrica e cervicofacciale;
+
+Terapia medica e fisica in otorinolaringoiatria;
+
+Neuropatologia in rapporto con l'otorinolaringoiatria;
+
+Oculistica in rapporto con l'otorinolaringoiatria;
+
+Chirurgia plastica;
+
+Tracheo-broncoscopia;
+
+Medicina legale ed infortunistica in otorinolaringoiatria.
+
+Dopo l'art. 225 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in "Igiene e medicina preventiva" e in "Reumatologia".
+
+Scuola di specializzazione in igiene e medicina preventiva
+
+Art. 226. - La scuola e' articolata nei seguenti orientamenti:
+
+a) sanita' pubblica;
+
+b) laboratorio;
+
+c) igiene e tecnica (o direzione) ospedaliera;
+
+d) igiene e medicina scolastica.
+
+La durata del corso e' di tre anni di cui i primi due comuni, il terzo differenziato per i vari orientamenti.
+
+La scuola rilascia il diploma di specialista in igiene e medicina preventiva con l'indicazione dell'orientamento prescelto.
+
+Il numero degli iscritti e' stabilito in un massimo di quindici, per il primo anno di corso.
+
+Art. 227. - Le materie di insegnamento per il primo biennio sono:
+
+1° Anno:
+
+Metodologia statistica e biometria;
+
+Educazione sanitaria;
+
+Psicologia;
+
+Microbiologia;
+
+Parassitologia;
+
+Epidemiologia e profilassi generale.
+
+2° Anno:
+
+Patologia e clinica delle malattie infettive;
+
+Epidemiologia e profilassi delle malattie infettive;
+
+Patologia e clinica delle malattie non infettive di importanza sociale;
+
+Epidemiologia e profilassi delle malattie infettive di importanza sociale;
+
+Demografia e statistica sanitaria;
+
+Legislazione e organizzazione sanitaria.
+
+3° Anno:
+
+a) per l'orientamento di sanita' pubblica:
+
+Approvvigionamento idrico: raccolta e smaltimento dei rifiuti liquidi e solidi; inquinamenti atmosferici;
+
+Igiene edilizia e urbanistica;
+
+Igiene dell'alimentazione;
+
+Igiene e medicina scolastica;
+
+Igiene ospitaliera;
+
+Servizi di sanita' pubblica.
+
+b) per l'orientamento di laboratorio:
+
+Microscopia applicata all'igiene;
+
+Microbiologia applicata all'igiene;
+
+Chimica clinica;
+
+Accertamento diagnostico delle malattie batteriche e parassitarie;
+
+Accertamento diagnostico delle infezioni virali;
+
+Nozioni di anatomia ed istologia patologica.
+
+c) per l'orientamento di igiene e tecnica ospitaliera:
+
+Storia degli ospedali e principi metodologici dell'assistente ospitaliero;
+
+Igiene e tecnica delle costruzioni ospitaliere, arredamento ed impianti sanitari;
+
+Organizzazione e funzione degli ospedali generali e speciali;
+
+Diritto amministrativo e legislazione ospitaliera;
+
+Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospitaliera;
+
+Selezione e istruzione professionale del personale ospitaliero;
+
+Organizzazione e funzione dei laboratori di analisi e di accertamento necroscopico.
+
+d) per l'orientamento di igiene e medicina scolastica:
+
+Auxologia normale e patologica;
+
+Epidemiologia e profilassi delle malattie dell'eta' scolare;
+
+Servizi di medicina scolastica;
+
+Elementi di psicologia e pedagogia per l'eta' scolare;
+
+Igiene dell'alimentazione;
+
+Assistenza parascolastica;
+
+Edilizia scolastica.
+
+Durante i tre anni di corso gli allievi dovranno inoltre seguire i corsi di almeno tre insegnamenti complementari da scegliersi tra i seguenti ed in rapporto con la attinenza all'orientamento prescelto:
+
+Ispezione delle carni;
+
+Geologia applicata all'igiene;
+
+Igiene mentale;
+
+Malattie professionali e loro prevenzione;
+
+Diritto sanitario;
+
+Igiene navale e dell'emigrazione;
+
+Antropologia culturale e sociologia;
+
+Malattie tropicali;
+
+Istituzioni di matematica;
+
+Genetica;
+
+Gerontologia e geriatria;
+
+Elementi di economia politica.
+
+Al termine di ciascun anno gli allievi che abbiano regolarmente frequentato il corso dovranno superare un esame di profitto.
+
+Scuola di specializzazione in reumatologia
+
+Art. 228. - La scuola ha la durata di tre anni e rilascia il diploma di specialista in reumatologia.
+
+Alla scuola sono ammessi i laureati in medicina e chirurgia.
+
+Il numero dei posti disponibili per ogni anno di corso e' fissato nel numero di otto. Nel caso che le domande di ammissione eccedano il numero dei posti disponibili si effettuera' una selezione per titoli ed esami.
+
+Art. 229. - Le materie di insegnamento sono:
+
+1° Anno:
+
+Anatomia, istologia e morfogenesi dell'apparato muscolo-scheletrico ed articolare;
+
+Fisiopatologia dell'apparato muscolo-scheletrico ed articolare;
+
+Biochimica dei tessuti connettivi;
+
+Microbiologia ed immunologia in relazione alle malattie reumatiche;
+
+Semeiotica fisica, strumentale e di laboratorio in reumatologia (biennale).
+
+2° Anno:
+
+Semeiotica fisica, strumentale e di laboratorio in reumatologia (biennale);
+
+Anatomia ed istologia patologica delle malattie reumatiche;
+
+Farmacologia in relazione alle malattie reumatiche;
+
+Diagnostica radiologica;
+
+Patologia, clinica e terapia delle malattie reumatiche (biennale);
+
+Terapia fisica, termale e riabilitativa in reumatologia (biennale).
+
+3° Anno
+
+Patologia, clinica e terapia delle malattie reumatiche (biennale);
+
+Terapia fisica, termale e riabilitativa in reumatologia (biennale);
+
+Clinica e terapia ortopedica applicata alla reumatologia;
+
+Aspetti sociali ed epidemiologici delle malattie reumatiche.
+
+Al termine di ogni anno di corso gli specializzandi, per ottenere l'ammissione all'anno successivo, devono superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno in corso.
+
+Art. 230. - E' obbligatoria la frequenza alle lezioni e alle esercitazioni. E' altresi' obbligatorio un periodo di internato di almeno sei mesi per ciascun anno di corso.
+
+L'esame di diploma consiste nella discussione di una tesi scritta su un tema precedentemente approvato dal direttore della scuola.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 2 ottobre 1978
+Dato a Roma, addi' 22 settembre 1972
 
-PERTINI
+LEONE
 
-PEDINI
+SCALFARO
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 2 dicembre 1978 Registro n. 127 Istruzione, foglio n. 252
+alla Corte dei conti, addi' 17 novembre 1972. Atti del Governo, registro n. 253, foglio n. 52-bis. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvate con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte; in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte; Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 148 - all'elenco delle scuole di specializzazione in medicina e chirurgia e' aggiunta la seconda scuola di specializzazione in anatomia patologica.  
-Dopo l'art. 264, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della seconda scuola di specializzazione in anatomia patologica.  
-Seconda scuola di specializzazione in anatomia patologica  
-Art. 265. - La direzione della seconda scuola in anatomia patologica e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-La scuola ha sede presso la cattedra di anatomia e istologia patologica in soprannumero. Essa conferisce il diploma di specialista in anatomia patologica.  
-Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.  
-Il numero massimo degli allievi e' di quindici per anno di corso e complessivamente di sessanta per l'intero corso di studi.  
-L'ammissione al corso avviene per titoli ed esami.  
-Art. 266. - Le materie di insegnamento sono le seguenti:  
+  
+L'art. 132 relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che le scuole in "Igiene ed epidemiologia", "Igiene e tecnica ospedaliera", "Medicina ed igiene scolastica" sono soppresse.  
+La "Scuola di specializzazione in otorinolaringoiatria" muta la denominazione in quella di "Scuola di specializzazione in otorinolaringoiatria e patologia cervicofacciale".  
+Allo stesso elenco sono aggiunte le scuole di specializzazione in "Igiene e medicina preventiva" e in "Reumatologia" di nuova istituzione.  
+Gli articoli da 156 a 163 relativi alla scuola di specializzazione in "Chirurgia dell'infanzia" sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in chirurgia dell'infanzia  
+  
+Art. 156. - La scuola di specializzazione in chirurgia dell'infanzia conferisce il diploma di specialista in chirurgia dell'infanzia.  
+Art. 157. - La durata del corso di studi per il conseguimento della specialita' in chirurgia dell'infanzia e' fissata in anni due.  
+Possono ottenere l'iscrizione alla scuola i laureati in medicina e chirurgia che siano in possesso del diploma di specialista in chirurgia o abbiano conseguito la libera docenza in clinica chirurgica o patologia chirurgica, o semeiotica chirurgica, o anatomia chirurgica, o in chirurgia pediatrica.  
+Non e' ammessa l'abbreviazione di corso.  
+Art. 158. - Il numero degli iscritti alla scuola e' di dieci per anno di corso.  
+Qualora il numero degli aspiranti superi quello stabilito per la scuola in chirurgia dell'infanzia, l'ammissione sara' subordinata ad una prova d'esame.  
+Art. 159. - La direzione della scuola e' affidata al titolare dell'insegnamento della chirurgia pediatrica o ad una persona nominata dalla facolta'.  
+Art. 160. - Il corso si compone di insegnamenti fondamentali e di conferenze su argomenti speciali, oltre ad un periodo di internato obbligatorio di almeno sei mesi per ogni anno di corso.  
+Il periodo di internato potra' essere abbreviato per coloro che documentino di svolgere effettivo servizio presso reparti di chirurgia pediatrica universitari o ospedalieri.  
+Art. 161. - Le materie di insegnamento sono le seguenti:  
+  
 1° Anno:  
-anatomia patologica sistematica I;  
-tecnica delle autopsie;  
-diagnostica anatomo-patologica macroscopica I;  
-tecniche istologiche ed istochimiche.  
+Anatomia patologica e teratologia (lezioni);  
+Endocrinologia infantile (conferenze);  
+Clinica pediatrica (lezioni);  
+Clinica chirurgica pediatrica (lezioni);  
+Patologia chirurgica e semeiotica chirurgica (lezioni);  
+Diagnostica radiologica e nucleare delle malattie chirurgiche dell'infanzia (lezioni);  
+Anestesiologia e rianimazione (conferenze).  
+  
 2° Anno:  
-anatomia patologica sistematica II;  
-diagnostica anatomo-patologica macroscopica II;  
-diagnostica istopatologica I;  
-tecniche e diagnostica citologica e citogenetica.  
+Clinica pediatrica (lezioni);  
+Clinica chirurgica pediatrica (lezioni);  
+Chirurgia d'urgenza nell'infanzia (lezioni);  
+Otorinolaringoiatria nell'infanzia (conferenze);  
+Ortopedia nell'infanzia (conferenze);  
+Urologia nell'infanzia (conferenze);  
+Neurochirurgia infantile (conferenze);  
+Chirurgia del cuore e dei grossi vasi (conferenze).  
+  
+Art. 162. - La frequenza alle lezioni e' obbligatoria.  
+Al termine di ciascun anno accademico, gli specializzandi, che abbiano ottenuto le firme di frequenza, dovranno sostenere gli esami di profitto nelle materie oggetto di insegnamento.  
+Art. 163. - Al termine del corso di specializzazione gli specializzandi dovranno presentare una dissertazione scritta su argomento di chirurgia infantile e sostenere l'esame di diploma.  
+L'art. 178 relativo alla scuola di specializzazione in igiene ed epidemiologia; gli articoli 179-180 relativi alla scuola di specializzazione in igiene e tecnica ospedaliera; l'art. 185 relativo alla scuola di specializzazione in medicina e igiene scolastica sono soppressi con il conseguente spostamento della numerazione degli articoli successivi.  
+L'art. 202 relativo alla "Scuola di specializzazione in neurochirurgia" e' abrogato e sostituito dal seguente:  
+  
+Scuola di specializzazione in neurochirurgia  
+  
+Art. 202. - La durata del corso e' di quattro anni.  
+Il numero degli iscritti e' stabilito in un massimo di sei per il primo anno di corso (totale ventiquattro iscritti).  
+Le materie di insegnamento sono:  
+  
+1° Anno:  
+1) Neuroanatomia;  
+2) Neurofisiologia;  
+3) Semeiotica e clinica neurologica;  
+4) Elementi di psichiatria;  
+5) Clinica neurochirurgica (I).  
+Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto sulle materie di cui ai numeri 1), 2), 3), 4).  
+  
+2° Anno:  
+1) Neuro-oftalmologia;  
+2) Neuro-otoiatria;  
+3) Elettroencefalografia ed elettromiografia;  
+4) Clinica neurochirurgica (II).  
+Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto sulle materie di cui ai numeri 1), 2) e 3).  
+  
 3° Anno:  
-diagnostica istopatologica II;  
-tecniche di microscopia elettronica e biologia ultrastrutturale;  
-immunopatologia.  
+1) Anestesiologia;  
+2) Neuropatologia;  
+3) Neuroradiologia (I);  
+4) Clinica neurochirurgica (III).  
+Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto sulle materie di cui ai numeri 1) e 2).  
+  
 4° Anno:  
-diagnostica istopatologica III;  
-diagnostica istocitopatologica ultrastrutturale;  
-diagnostica autoptica medico-legale ed elementi di legislazione sanitaria;  
-applicazioni statistiche ed epidemiologiche.  
-Art. 267. - La frequenza alle lezioni, alle esercitazioni pratiche, e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
-Alla fine di ogni corso gli iscritti per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.  
-Al termine del corso di studi per il conseguimento del diploma di specialista in anatomia patologica gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
-Le norme per l'iscrizione, gli esami, le tasse, ecc., sono quelle generali per le scuole di specializzazione dell'Universita' statale di Milano.  
+1) Tecniche operatorie;  
+2) Neuroradiologia (II);  
+3) Clinica neurochirurgica (IV);  
+4) Neurotraumatologia;  
+5) Neurochirurgia infantile;  
+6) Chirurgia stereotassica;  
+7) Neurochirurgia spinale.  
+  
+Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto sulle materie di cui ai numeri 1), 2) e 3).  
+Gli insegnamenti saranno integrati da esercitazioni cliniche e di laboratorio.  
+La frequenza alla scuola e' obbligatoria durante l'anno accademico.  
+Gli allievi sono tenuti a frequentare assiduamente le lezioni ed i laboratori della clinica neurochirurgica secondo l'orario stabilito ed a partecipare attivamente alle esercitazioni cliniche e di laboratorio.  
+Il direttore della scuola potra' disporre che gli allievi frequentino per determinati periodi le lezioni e le esercitazioni di laboratorio in altri istituti dell'universita'.  
+Al termine di ciascun anno gli allievi che abbiano regolarmente frequentato il corso dovranno superare un esame di profitto.  
+L'art. 209 relativo alla scuola di specializzazione in otorinolaringoiatria che muta la denominazione in quella di scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale e' abrogato e sostituito dal seguente:  
+  
+Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale  
+  
+Art. 209. - La durata del corso e' di tre anni.  
+Il numero dei posti e' fissato in cinque per ogni anno di corso.  
+E' obbligatoria la frequenza giornaliera per un minimo di quattro ore.  
+Le materie di insegnamento sono:  
+  
+1° Anno:  
+Anatomia;  
+Fisiologia;  
+Audiologia (1° anno);  
+Semeiotica otorinolaringoiatrica;  
+Tecnica di laboratorio;  
+Patologia e clinica otorinolaringoiatrica e cervicofacciale (1° anno);  
+Anatomia ed istologia patologica otorinolaringoiatrica.  
+  
+2° Anno:  
+Tecniche operatorie in otorinolaringoiatria;  
+Anestesiologia in otorinolaringoiatria;  
+Patologia e clinica otorinolaringoiatrica e cervicofacciale (2° anno);  
+Radiologia in rapporto con l'otorinolaringoiatria;  
+Pediatria in rapporto con l'otorinolaringoiatria;  
+Audiologia (2° anno);  
+Otoneurologia;  
+Foniatria.  
+  
+3° Anno:  
+Patologia e clinica otorinolaringoiatrica e cervicofacciale;  
+Terapia medica e fisica in otorinolaringoiatria;  
+Neuropatologia in rapporto con l'otorinolaringoiatria;  
+Oculistica in rapporto con l'otorinolaringoiatria;  
+Chirurgia plastica;  
+Tracheo-broncoscopia;  
+Medicina legale ed infortunistica in otorinolaringoiatria.  
+  
+Dopo l'art. 225 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in "Igiene e medicina preventiva" e in "Reumatologia".  
+  
+Scuola di specializzazione in igiene e medicina preventiva  
+  
+Art. 226. - La scuola e' articolata nei seguenti orientamenti:  
+a) sanita' pubblica;  
+b) laboratorio;  
+c) igiene e tecnica (o direzione) ospedaliera;  
+d) igiene e medicina scolastica.  
+La durata del corso e' di tre anni di cui i primi due comuni, il terzo differenziato per i vari orientamenti.  
+La scuola rilascia il diploma di specialista in igiene e medicina preventiva con l'indicazione dell'orientamento prescelto.  
+Il numero degli iscritti e' stabilito in un massimo di quindici, per il primo anno di corso.  
+Art. 227. - Le materie di insegnamento per il primo biennio sono:  
+  
+1° Anno:  
+Metodologia statistica e biometria;  
+Educazione sanitaria;  
+Psicologia;  
+Microbiologia;  
+Parassitologia;  
+Epidemiologia e profilassi generale.  
+  
+2° Anno:  
+Patologia e clinica delle malattie infettive;  
+Epidemiologia e profilassi delle malattie infettive;  
+Patologia e clinica delle malattie non infettive di importanza sociale;  
+Epidemiologia e profilassi delle malattie infettive di importanza sociale;  
+Demografia e statistica sanitaria;  
+Legislazione e organizzazione sanitaria.  
+  
+3° Anno:  
+a) per l'orientamento di sanita' pubblica:  
+Approvvigionamento idrico: raccolta e smaltimento dei rifiuti liquidi e solidi; inquinamenti atmosferici;  
+Igiene edilizia e urbanistica;  
+Igiene dell'alimentazione;  
+Igiene e medicina scolastica;  
+Igiene ospitaliera;  
+Servizi di sanita' pubblica.  
+b) per l'orientamento di laboratorio:  
+Microscopia applicata all'igiene;  
+Microbiologia applicata all'igiene;  
+Chimica clinica;  
+Accertamento diagnostico delle malattie batteriche e parassitarie;  
+Accertamento diagnostico delle infezioni virali;  
+Nozioni di anatomia ed istologia patologica.  
+c) per l'orientamento di igiene e tecnica ospitaliera:  
+Storia degli ospedali e principi metodologici dell'assistente ospitaliero;  
+Igiene e tecnica delle costruzioni ospitaliere, arredamento ed impianti sanitari;  
+Organizzazione e funzione degli ospedali generali e speciali;  
+Diritto amministrativo e legislazione ospitaliera;  
+Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospitaliera;  
+Selezione e istruzione professionale del personale ospitaliero;  
+Organizzazione e funzione dei laboratori di analisi e di accertamento necroscopico.  
+d) per l'orientamento di igiene e medicina scolastica:  
+Auxologia normale e patologica;  
+Epidemiologia e profilassi delle malattie dell'eta' scolare;  
+Servizi di medicina scolastica;  
+Elementi di psicologia e pedagogia per l'eta' scolare;  
+Igiene dell'alimentazione;  
+Assistenza parascolastica;  
+Edilizia scolastica.  
+  
+Durante i tre anni di corso gli allievi dovranno inoltre seguire i corsi di almeno tre insegnamenti complementari da scegliersi tra i seguenti ed in rapporto con la attinenza all'orientamento prescelto:  
+  
+Ispezione delle carni;  
+Geologia applicata all'igiene;  
+Igiene mentale;  
+Malattie professionali e loro prevenzione;  
+Diritto sanitario;  
+Igiene navale e dell'emigrazione;  
+Antropologia culturale e sociologia;  
+Malattie tropicali;  
+Istituzioni di matematica;  
+Genetica;  
+Gerontologia e geriatria;  
+Elementi di economia politica.  
+  
+Al termine di ciascun anno gli allievi che abbiano regolarmente frequentato il corso dovranno superare un esame di profitto.  
+  
+Scuola di specializzazione in reumatologia  
+  
+Art. 228. - La scuola ha la durata di tre anni e rilascia il diploma di specialista in reumatologia.  
+Alla scuola sono ammessi i laureati in medicina e chirurgia.  
+Il numero dei posti disponibili per ogni anno di corso e' fissato nel numero di otto. Nel caso che le domande di ammissione eccedano il numero dei posti disponibili si effettuera' una selezione per titoli ed esami.  
+Art. 229. - Le materie di insegnamento sono:  
+  
+1° Anno:  
+Anatomia, istologia e morfogenesi dell'apparato muscolo-scheletrico ed articolare;  
+Fisiopatologia dell'apparato muscolo-scheletrico ed articolare;  
+Biochimica dei tessuti connettivi;  
+Microbiologia ed immunologia in relazione alle malattie reumatiche;  
+Semeiotica fisica, strumentale e di laboratorio in reumatologia (biennale).  
+  
+2° Anno:  
+Semeiotica fisica, strumentale e di laboratorio in reumatologia (biennale);  
+Anatomia ed istologia patologica delle malattie reumatiche;  
+Farmacologia in relazione alle malattie reumatiche;  
+Diagnostica radiologica;  
+Patologia, clinica e terapia delle malattie reumatiche (biennale);  
+Terapia fisica, termale e riabilitativa in reumatologia (biennale).  
+  
+3° Anno  
+Patologia, clinica e terapia delle malattie reumatiche (biennale);  
+Terapia fisica, termale e riabilitativa in reumatologia (biennale);  
+Clinica e terapia ortopedica applicata alla reumatologia;  
+Aspetti sociali ed epidemiologici delle malattie reumatiche.  
+  
+Al termine di ogni anno di corso gli specializzandi, per ottenere l'ammissione all'anno successivo, devono superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno in corso.  
+Art. 230. - E' obbligatoria la frequenza alle lezioni e alle esercitazioni. E' altresi' obbligatorio un periodo di internato di almeno sei mesi per ciascun anno di corso.  
+L'esame di diploma consiste nella discussione di una tesi scritta su un tema precedentemente approvato dal direttore della scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 ottobre 1978
+### Dato a Roma, addi' 22 settembre 1972
 
-PERTINI PEDINI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 2 dicembre 1978
+Registrato alla Corte dei conti, addi' 17 novembre 1972.
 
-Registro n. 127 Istruzione, foglio n. 252
+Atti del Governo, registro n. 253, foglio n. 52-bis. - CARUSO

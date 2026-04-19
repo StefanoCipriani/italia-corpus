@@ -1,20 +1,19 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1964 n. 449
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 settembre 1955 n. 1384
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1964 n. 449
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 settembre 1955 n. 1384
+=================================================================
 
-Autorizzazione all'Opera nazionale di assistenza per gli orfani dei militari dell'Arma dei carabinieri ad accettare una eredita'.
----------------------------------------------------------------------------------------------------------------------------------
+Autorizzazione all'"Opera nazionale di assistenza per gli orfani dei militari dell'Arma dei carabinieri" ad accettare una eredita'.
+-----------------------------------------------------------------------------------------------------------------------------------
 
 Art. 1
 ------
 
 N.
 
-449. Decreto del Presidente della Repubblica 4 maggio 1964, col quale, sulla proposta del Ministro per la difesa, l'Opera nazionale di assistenza per gli orfani dei militari dell'Arma dei carabinieri, viene autorizzata ad accettare, col beneficio di inventario, l'eredita' disposta dal generale di divisione dei Carabinieri Da Pozzo Giovanni Battista, col testamento olografo di cui al verbale 26 marzo 1963 (n. 22403/12369 di rep.) del dott.  
-Bertole' Leopoldo, notaio in Torino.  
+1384. Decreto del Presidente della Repubblica 30 settembre 1955, col quale, sulla proposta del Ministro per la difesa, l' "Opera nazionale di assistenza per gli orfani dei militari dell'Arma dei carabinieri" viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' dell'ing. Zambonini Agenore fu Raimondo.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 24 giugno 1964  
-Atti del Governo, registro n. 184, foglio n. 25. - VILLA
+Visto, il Guardasigilli: MORO  
+Registrato alla Corte dei conti, addi' 7 gennaio 1956  
+Atti del Governo, registro n. 95, foglio n. 11. - CARLOMAGNO

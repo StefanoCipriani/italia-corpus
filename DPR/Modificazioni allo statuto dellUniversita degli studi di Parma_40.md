@@ -1,122 +1,338 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1196
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 agosto 1971 n. 906
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1196
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 agosto 1971 n. 906
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+L'art. 138, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola in "Clinica delle malattie nervose e mentali" e' soppressa e sostituita con l'istituzione delle scuole di specializzazione in "Psichiatria" e in "Neurologia".
+
+Gli articoli 184, 185, 186, 187 relativi alla "Scuola di specializzazione in clinica delle malattie nervose e mentali" sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in psichiatria
+
+Art. 184. - La scuola di specializzazione in psichiatria ha la durata di quattro anni.
+
+Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+Anatomia e istologia del sistema nervoso;
+
+Fisiologia del s.n.;
+
+Biochimica del s.n.;
+
+Genetica (elementi);
+
+Psicologia generale;
+
+Psicopatologia (1°);
+
+Semeiotica psichiatrica.
+
+2° Anno: (internato in neurologia):
+
+Anatomia e istologia patologica del s.n.;
+
+Semeiotica neurologica;
+
+Patologia speciale e diagnostica neurologica;
+
+Neuro-radiologia;
+
+Endocrinologia e neurologia vegetativa;
+
+Elettroencefalografia.
+
+3° Anno:
+
+Patologia speciale psichiatrica;
+
+Psicopatologia (2°);
+
+Clinica psichiatrica (1°);
+
+Psicologia clinica e psicodiagnostica;
+
+Psico-farmacologia;
+
+Psichiatria in rapporto con la patologia internistica;
+
+Esami di laboratorio.
+
+4° Anno:
+
+Clinica psichiatrica (2°);
+
+Terapia psichiatrica generale;
+
+Psicoterapia;
+
+Neuropsichiatria infantile;
+
+Psichiatria forense e legislazione psichiatrica;
+
+Psichiatria sociale (del lavoro, scolastica, igiene e profilassi mentale).
+
+Art. 185. - Internato obbligatorio per l'intero anno scolastico per il 1°, 3° e 4° anno in clinica psichiatrica, sede della scuola.
+
+Tale internato potra': essere ridotto a non meno di 4 mesi all'anno per i medici che prestino servizio regolare in ospedale psichiatrico.
+
+L'internato e' obbligatorio per il 20 anno in neurologia (sede della scuola) per l'intero anno scolastico salvo per i medici che prestino regolare servizio in ospedale psichiatrico per i quali potra' essere ridotto a non meno di mesi 6, e per i medici che prestino regolare servizio in un reparto neurologico per i quali potra' essere ridotto a non meno di mesi 4.
+
+Esami obbligatori per il passaggio all'anno successivo.
+
+Ammissione per titoli ed esame.
+
+Per gli specialisti in neurologia, neuropsichiatria infantile potra' esservi abbuono di due anni.
+
+Un anno di abbuono per gli specialisti in altre materie - affini (psicologia, medicina generale, neurochirurgia).
+
+Tali abbuoni possono essere concessi solo dopo aver superato l'esame di ammissione.
+
+Tutti gli abbuoni di cui sopra sono concessi a giudizio del direttore della scuola.
+
+Alla scuola di specializzazione in psichiatria possono essere ammessi venti iscritti per i quattro anni di corso.
+
+Scuola di specializzazione in neurologia
+
+Art. 186. - La scuola di specializzazione in neurologia ha la durata di quattro anni.
+
+Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+Anatomia e istologia del sistema nervoso;
+
+Fisiologia del s.n.;
+
+Biochimica del s.n.;
+
+Genetica (elementi);
+
+Psicologia generale;
+
+Psicopatologia;
+
+Semeiotica psichiatrica.
+
+2° Anno:
+
+Anatomia e istologia patologica del s.n.;
+
+Semeiotica neurologica;
+
+Patologia speciale diagnostica neurologica (1°);
+
+Neuroradiologia;
+
+Endocrinologia e neurologia vegetativa.
+
+3° Anno:
+
+Patologia speciale e diagnostica neurologica (2°);
+
+Clinica neurologica (1°);
+
+Elettroencefalografia;
+
+Elettromiografia, elettrodiagnostica ed elettroterapia;
+
+Neuro-oftalmologia;
+
+Neuro-otologia;
+
+Esami di laboratorio.
+
+4° Anno:
+
+Clinica neurologica e terapia (2);
+
+Neurochirurgia;
+
+Teoria e clinica della riabilitazione;
+
+Neuro-traumatologia anche sotto l'aspetto della medicina legale;
+
+Neurologia in rapporto alla patologia internistica.
+
+Art. 187. - Internato obbligatorio per l'intero anno scolastico nel secondo, terzo e quarto anno in clinica neurologica sede della scuola. Tale internato potra' essere ridotto a non meno di mesi quattro per anno per i medici che prestino regolare servizio in reparto neurologico.
+
+Internato obbligatorio per l'intero anno scolastico in psichiatria nel 1° anno.
+
+Tale internato potra' essere ridotto a non meno di mesi 6 per i medici che prestino servizio in reparto neurologico e a non meno di mesi 4 per coloro che prestino servizio in ospedale psichiatrico.
+
+Esami obbligatori per il passaggio all'anno successivo.
+
+Ammissione per titoli ed esame. Un abbuono di anni due puo' essere concesso agli specialisti in psichiatria, neuropsichiatria infantile e neurochirurgia.
+
+Un anno di abbuono per gli specialisti in altre materie affini, (medicina interna, otorinolaringoiatria, oculistica, radiologia).
+
+Gli abbuoni possono essere concessi solo superando un esame di ammissione.
+
+Tutti gli abbuoni di cui sopra sono concessi a giudizio del direttore della scuola.
+
+Alla scuola di specializzazione in neurologia possono essere ammessi venti iscritti per i quattro anni di corso.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 28 agosto 1971
+
+SARAGAT
+
+MISASI
+
+Visto, il Guardasigilli: COLOMBO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 6 novembre 1971 Atti del Governo, registro n. 245, foglio - n. 13. - CARUSO
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Dopo l'art. 32, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di notariato e della scuola di specializzazione nelle discipline del lavoro, annesse alla facolta' di giurisprudenza.   
+L'art. 138, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola in "Clinica delle malattie nervose e mentali" e' soppressa e sostituita con l'istituzione delle scuole di specializzazione in "Psichiatria" e in "Neurologia".  
+Gli articoli 184, 185, 186, 187 relativi alla "Scuola di specializzazione in clinica delle malattie nervose e mentali" sono abrogati e sostituiti dai seguenti:  
   
-Scuola di notariato   
+Scuola di specializzazione in psichiatria  
   
-Art. 33. - E' istituita presso la facolta' di giurisprudenza la "Scuola di notariato" annessa alla medesima facolta'.   
-La scuola ha lo scopo di integrare la preparazione scientifica dei laureati e di approfondire, nella ricerca, la conoscenza dei problemi del notariato a fini di specializzazione professionale.   
-Art. 34. - La scuola e' retta dal direttore.   
-Il direttore e' nominato dal rettore dell'Universita' di Parma su designazione della facolta' di giurisprudenza.   
-Il direttore puo' designare un vice-direttore che lo coadiuva e lo sostituisce in caso d'impedimento.   
-Art. 35. - Il consiglio della scuola e' composto dai professori docenti. Fanno anche parte del consiglio, quali membri di diritto, il presidente dell'ordine dei notai di Parma e il preside della facolta' di giurisprudenza dell'Universita' di Parma.   
-I docenti sono scelti fra i professori di ruolo, incaricati, liberi docenti, assistenti della facolta' di giurisprudenza dell'Universita' di Parma e fra notai iscritti all'ordine dei notai di Parma.   
-Gli incarichi d'insegnamento sono conferiti dal rettore dell'universita' su proposta del direttore della scuola, sentito il preside della facolta' di giurisprudenza per quanto concerne le nomine di professori di ruolo, incaricati, liberi docenti, assistenti dell'ateneo; sentito il presidente dell'ordine dei notai di Parma, per quanto concerne le nomine dei notai.   
-Art. 36. - Alla scuola possono iscriversi soltanto laureati in giurisprudenza.   
-Art. 37. - La scuola si distingue in due corsi della durata di un anno per ciascun corso.   
-Al termine di essi la scuola rilascia, dopo che i candidati abbiano superato le prove delle materie fondamentali di cui all'art. 40 e l'esame di diploma, un diploma di perfezionamento in "Discipline del notariato".   
-Art. 38. - Il consiglio puo' determinare, anno per anno, il numero massimo degli iscritti.   
-Il consiglio puo' anche deliberare che uno o entrambi i corsi non siano accesi nel caso di mancato raggiungimento di un numero minimo di iscritti.   
-Art. 39. - Gli insegnamenti fondamentali della scuola sono:   
+Art. 184. - La scuola di specializzazione in psichiatria ha la durata di quattro anni.  
+Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+Anatomia e istologia del sistema nervoso;  
+Fisiologia del s.n.;  
+Biochimica del s.n.;  
+Genetica (elementi);  
+Psicologia generale;  
+Psicopatologia (1°);  
+Semeiotica psichiatrica.  
+2° Anno: (internato in neurologia):  
+Anatomia e istologia patologica del s.n.;  
+Semeiotica neurologica;  
+Patologia speciale e diagnostica neurologica;  
+Neuro-radiologia;  
+Endocrinologia e neurologia vegetativa;  
+Elettroencefalografia.  
+3° Anno:  
+Patologia speciale psichiatrica;  
+Psicopatologia (2°);  
+Clinica psichiatrica (1°);  
+Psicologia clinica e psicodiagnostica;  
+Psico-farmacologia;  
+Psichiatria in rapporto con la patologia internistica;  
+Esami di laboratorio.  
+4° Anno:  
+Clinica psichiatrica (2°);  
+Terapia psichiatrica generale;  
+Psicoterapia;  
+Neuropsichiatria infantile;  
+Psichiatria forense e legislazione psichiatrica;  
+Psichiatria sociale (del lavoro, scolastica, igiene e profilassi mentale).  
+Art. 185. - Internato obbligatorio per l'intero anno scolastico per il 1°, 3° e 4° anno in clinica psichiatrica, sede della scuola.  
+Tale internato potra': essere ridotto a non meno di 4 mesi all'anno per i medici che prestino servizio regolare in ospedale psichiatrico.  
+L'internato e' obbligatorio per il 20 anno in neurologia (sede della scuola) per l'intero anno scolastico salvo per i medici che prestino regolare servizio in ospedale psichiatrico per i quali potra' essere ridotto a non meno di mesi 6, e per i medici che prestino regolare servizio in un reparto neurologico per i quali potra' essere ridotto a non meno di mesi 4.  
+Esami obbligatori per il passaggio all'anno successivo.  
+Ammissione per titoli ed esame.  
+Per gli specialisti in neurologia, neuropsichiatria infantile potra' esservi abbuono di due anni.  
+Un anno di abbuono per gli specialisti in altre materie - affini (psicologia, medicina generale, neurochirurgia).  
+Tali abbuoni possono essere concessi solo dopo aver superato l'esame di ammissione.  
+Tutti gli abbuoni di cui sopra sono concessi a giudizio del direttore della scuola.  
+Alla scuola di specializzazione in psichiatria possono essere ammessi venti iscritti per i quattro anni di corso.  
   
-1° Corso:   
-Ordinamento del notariato;   
-Diritto delle persone e diritto di famiglia;   
-Diritto successorio;   
-Diritti reali;   
-Obbligazioni e contratti;   
-Diritto tributario (1° anno).   
+Scuola di specializzazione in neurologia  
   
-2° Corso:   
-Diritto delle societa';   
-Tutela dei diritti e legislazione sulla pubblicita';   
-Fallimento;   
-Titoli di credito;   
-Volontaria giurisdizione;   
-Diritto tributario (2° anno).   
-  
-Art. 40. - Con deliberazione del consiglio della scuola possono essere fissati altri insegnamenti integrativi a carattere monografico. Il consiglio determina anche se, per tali insegnamenti, debba sostenersi una prova d'esame.   
-Tutte le deliberazioni di cui al presente articolo debbono essere prese prima dell'inizio dei corsi.   
-Art. 41. - L'esame di diploma consiste nella discussione di una memoria originale su argomento preventivamente approvato dal direttore della scuola.   
-Art. 42. - Gli iscritti alla scuola sono tenuti a pagare le tasse, soprattasse e contributi, secondo quanto stabilito per gli studenti della facolta' di giurisprudenza, nonche' la tassa di diploma nella misura di L. 6.000 nei sensi dell'[art. 7 della legge 19 dicembre 1951, n. 1951](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-19;1951~art7).   
-Sono tenuti, altresi', a pagare un contributo speciale nella misura che sara' determinata dal consiglio di amministrazione, previo parere della facolta', su proposta del direttore della scuola.   
-Art. 43. - Le commissioni giudicatrici per gli esami sono composte di tre membri; quelle di diploma sono composte di cinque membri.   
-I membri sono nominati dal direttore fra i docenti della scuola.   
-  
-Scuola di specializzazione nelle discipline del lavoro   
-  
-Art. 44. - E' istituita presso la facolta' di giurisprudenza la "Scuola di specializzazione nelle discipline del lavoro" annessa alla medesima facolta'.   
-La scuola ha lo scopo di integrare la preparazione scientifica dei laureati e di approfondire, nella ricerca, la conoscenza dei problemi del lavoro, anche ai fini di specializzazione professionale.   
-Art. 45. - La scuola e' retta dal direttore.   
-E' direttore il professore titolare della cattedra di diritto del lavoro della facolta' di giurisprudenza.   
-Il direttore puo' designare un vice-direttore che lo coadiuva e lo sostituisce in caso di impedimento.   
-Art. 46. - Gli incarichi d'insegnamento sono conferiti dal rettore dell'Universita' di Parma, su proposta del direttore della scuola.   
-Art. 47. - I professori incaricati, sotto la presidenza del direttore costituiscono il consiglio della scuola.   
-Art. 48. - Alla scuola possono iscriversi soltanto i laureati in giurisprudenza, scienze politiche, economia e commercio.   
-Art. 49. - La scuola si distingue in due corsi della durata di un anno per ciascun corso.   
-Al termine di essi la scuola rilascia, dopo che i candidati abbiano superato le prove delle materie fondamentali di cui all'art. 53 e l'esame di diploma, un diploma di perfezionamento in diritto del lavoro.   
-Art. 50. - Il consiglio puo' determinare, anno per anno, il numero massimo di coloro che possono essere iscritti.   
-Il consiglio puo' anche deliberare che uno o entrambi i corsi non siano accesi nel caso di mancato raggiungimento minimo di iscritti.   
-Art. 51. - Gli insegnamenti della scuola sono:   
-  
-1° Corso:   
-Storia del diritto del lavoro;   
-Storia dei movimenti sindacali;   
-Economia del lavoro;   
-Diritto del lavoro;   
-Diritto sindacale e tecnica della contrattazione collettiva;   
-Elementi di medicina e psicologia del lavoro (semestrale).   
-  
-2° Corso:   
-Selezione del personale, valutazione delle mansioni e tecniche retributive;   
-Sociologia del lavoro;   
-Diritto della cooperazione;   
-Diritto internazionale del lavoro;   
-Diritto comparato del lavoro;   
-Diritto penale del lavoro (semestrale);   
-Diritto processuale del lavoro (semestrale).   
-  
-Art. 52. - Con deliberazione del consiglio della scuola, possono essere fissati altri insegnamenti integrativi a carattere monografico. Il consiglio determina anche se, per tali insegnamenti, debba sostenersi una prova d'esame. Tutte le deliberazioni di cui al presente articolo debbono essere prese prima dell'inizio dei corsi annuali.   
-Art. 53. - L'esame di diploma consiste nella discussione di una memoria originale su argomento preventivamente approvato dal direttore della scuola.   
-Art. 54. - Gli iscritti alla scuola sono tenuti a pagare le tasse, soprattasse e contributi, secondo quanto stabilito per gli studenti della facolta' di giurisprudenza, nonche' la tassa di diploma nella misura di L. 6.000 nei sensi dell'[art. 7 della legge 19 dicembre 1951, n. 1951](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-19;1951~art7).   
-Sono tenuti, altresi', a pagare un contributo speciale nella misura che sara' determinata dal consiglio di amministrazione, previo parere della facolta', su proposta del direttore della scuola.   
-Art. 55. - Le commissioni giudicatrici per gli esami speciali sono composte di tre membri; quelle di diploma sono composte di cinque membri. I membri sono nominati dal direttore fra docenti della scuola.   
+Art. 186. - La scuola di specializzazione in neurologia ha la durata di quattro anni.  
+Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+Anatomia e istologia del sistema nervoso;  
+Fisiologia del s.n.;  
+Biochimica del s.n.;  
+Genetica (elementi);  
+Psicologia generale;  
+Psicopatologia;  
+Semeiotica psichiatrica.  
+2° Anno:  
+Anatomia e istologia patologica del s.n.;  
+Semeiotica neurologica;  
+Patologia speciale diagnostica neurologica (1°);  
+Neuroradiologia;  
+Endocrinologia e neurologia vegetativa.  
+3° Anno:  
+Patologia speciale e diagnostica neurologica (2°);  
+Clinica neurologica (1°);  
+Elettroencefalografia;  
+Elettromiografia, elettrodiagnostica ed elettroterapia;  
+Neuro-oftalmologia;  
+Neuro-otologia;  
+Esami di laboratorio.  
+4° Anno:  
+Clinica neurologica e terapia (2);  
+Neurochirurgia;  
+Teoria e clinica della riabilitazione;  
+Neuro-traumatologia anche sotto l'aspetto della medicina legale;  
+Neurologia in rapporto alla patologia internistica.  
+Art. 187. - Internato obbligatorio per l'intero anno scolastico nel secondo, terzo e quarto anno in clinica neurologica sede della scuola. Tale internato potra' essere ridotto a non meno di mesi quattro per anno per i medici che prestino regolare servizio in reparto neurologico.  
+Internato obbligatorio per l'intero anno scolastico in psichiatria nel 1° anno.  
+Tale internato potra' essere ridotto a non meno di mesi 6 per i medici che prestino servizio in reparto neurologico e a non meno di mesi 4 per coloro che prestino servizio in ospedale psichiatrico.  
+Esami obbligatori per il passaggio all'anno successivo.  
+Ammissione per titoli ed esame. Un abbuono di anni due puo' essere concesso agli specialisti in psichiatria, neuropsichiatria infantile e neurochirurgia.  
+Un anno di abbuono per gli specialisti in altre materie affini, (medicina interna, otorinolaringoiatria, oculistica, radiologia).  
+Gli abbuoni possono essere concessi solo superando un esame di ammissione.  
+Tutti gli abbuoni di cui sopra sono concessi a giudizio del direttore della scuola.  
+Alla scuola di specializzazione in neurologia possono essere ammessi venti iscritti per i quattro anni di corso.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1972
+### Dato a Roma, addi' 28 agosto 1971
 
-LEONE SCALFARO
+SARAGAT MISASI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 13 settembre 1973
+Registrato alla Corte dei conti, addi' 6 novembre 1971
 
-Atti di Governo, registro n. 260, foglio n. 11. - VALENTINI
+Atti del Governo, registro n. 245, foglio - n. 13. - CARUSO

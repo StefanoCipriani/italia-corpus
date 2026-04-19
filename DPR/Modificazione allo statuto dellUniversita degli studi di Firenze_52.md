@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 666
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 agosto 1983 n. 796
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 666
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 agosto 1983 n. 796
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Firenze.
@@ -39,20 +39,19 @@ Articolo unico
 --------------
 
   
-Nell'art. 151, relativo al corso di laurea in scienze agrarie, agli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-pianificazione territoriale in agricoltura;  
-ecologia vegetale agraria.  
+Nell'art. 65, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+dermatologia sperimentale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 giugno 1983
+### Dato a Roma, addi' 5 agosto 1983
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 23 novembre 1983
+Registrato alla Corte dei conti, addi' 27 dicembre 1983
 
-Registro n. 71 Istruzione, foglio n. 273
+Registro n. 80 Istruzione, foglio n. 9

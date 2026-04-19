@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 febbraio 1981 n. 347
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 novembre 1984 n. 1085
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 febbraio 1981 n. 347
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 novembre 1984 n. 1085
+================================================================
 
 Autorizzazione all'Associazione italiana della Croce rossa, in Roma, ad accettare una eredita'.
 -----------------------------------------------------------------------------------------------
@@ -12,8 +12,15 @@ Art. 1
 
 N.
 
-347. Decreto del Presidente della Repubblica 13 febbraio 1981, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare, con beneficio d'inventario, l'eredita', consistente in nove unita' immobiliari site in Bolzano, oltre a somme liquide, il tutto per un valore complessivo di L. 168.500.000, disposta dal dott. Pasquale Fontana con testamento olografo 20 dicembre 1972, pubblicato in data 30 novembre 1974, n. 52378/3041 di repertorio, a rogito dott. Pietro Longi, notaio in Bolzano, registrato a Bolzano in data 3 dicembre 1974, da destinare per l'assistenza ai bambini spastici.  
+1085. Decreto del Presidente della Repubblica 21 novembre 1984, col quale, sulla proposta del Ministro della sanita',   
+l'Associazione italiana della Croce rossa, in Roma, viene   
+autorizzata ad accettare, con beneficio d'inventario, l'eredita', consistente in un deposito bancario presso la Cassa di risparmio di   
+L'Aquila di circa L. 750.000 e in suppellettili contenute   
+nell'abitazione della de cuius, disposta dalla sig.na Cinzia   
+Micarelli con testamento olografo 8 dicembre 1973, pubblicato in   
+data 17 maggio 1974, n. 111787 di repertorio, a rogito dott.   
+Giovanni Fanti, notaio in L'Aquila, registrato a L'Aquila in data 22 maggio 1974 al n. 1552/c.   
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 2 luglio 1981  
-Registro n. 4 Sanita', foglio n. 233
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 19 febbraio 1985   
+Registro n. 2 Sanita', foglio n. 127

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1980 n. 969
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1980 n. 690
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1980 n. 969
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1980 n. 690
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
@@ -10,11 +10,11 @@ Modificazioni allo statuto dell'Universita' degli studi di Catania.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto n. 1073 del 20 aprile 1939](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto n. 1527 del 16 ottobre 1940](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), e convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
@@ -33,70 +33,113 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Art. 1
+------
 
   
-Dopo l'art. 278, relativo alle scuole dirette a fini speciali della facolta' di medicina e chirurgia, sono aggiunti i seguenti nuovi articoli:  
+L'art. 50, relativo alla facolta' di medicina e chirurgia, e' cosi' modificato:  
+La facolta' di medicina e chirurgia conferisce:  
+a) la laurea in medicina e chirurgia;  
+b) la laurea in odontoiatria e protesi dentaria.  
+
+Art. 2
+------
+
   
-Scuola di preparazione per tecnici di audiometria (Scuola diretta a fini speciali)  
+Dopo l'art. 53, con il conseguente spostamento della numerazione degli articoli successivi, viene inserito il seguente nuovo articolo:  
+Art. 54. - La durata del corso di studi per la laurea in odontoiatria e protesi dentaria e' di cinque anni, suddivisi in un biennio e un triennio.  
+Titolo di ammissione: quello previsto dalle vigenti disposizioni di legge.  
+Il numero massimo degli allievi iscrivibili e' di venti per anno di corso e complessivamente cento per l'intero corso di studi.  
+L'accesso avviene secondo un ordine di graduatoria stabilito in base ad un punteggio, riportato in centesimi, cosi' ripartito:  
+70 centesimi riservati all'esito di un test a scelta multipla da espletare in un unico giorno vertente su nozioni generali relative ai seguenti argomenti: chimica, fisica, matematica, biologia generale;  
+30 centesimi riservati al punteggio riportato nell'esame finale per il conseguimento del diploma di scuola secondaria superiore.  
+E' prevista la pubblicizzazione dei risultati delle prove che su richiesta debbono essere forniti.  
+Per il trasferimento degli studenti iscritti al corso di laurea in medicina e chirurgia le abbreviazioni di corso non possono superare l'ammissione oltre il secondo anno, subordinatamente al numero dei posti resisi disponibili all'inizio del secondo anno sempre che gli aspiranti abbiano superato gli esami di biologia generale applicata agli studi medici, chimica, fisica medica, istologia ed embriologia generale (compresa la citologia).  
+Per i laureati in medicina e chirurgia le abbreviazioni di corso potranno essere concesse, sempre con iscrizione al secondo anno, subordinatamente al numero di posti resisi disponibili all'inizio del secondo anno e dopo che sia trascorso un anno accademico dal conseguimento della laurea precedente.  
+Sono insegnamenti fondamentali:  
+Biennio:  
+1) anestesia generale e speciale odontostomatologica (semestrale);  
+\*2) biologia generale applicata agli studi medici;  
+\*3) chimica;  
+\*4) chimica biologica;  
+5) farmacologia (semestrale);  
+\*6) fisica medica;  
+7) fisiologia umana e dell'apparato stomatognatico;  
+8) igiene e odontoiatria preventiva e sociale con epidemiologia (semestrale);  
+9) istituzioni di anatomia umana normale e dell'apparato stomatognatico;  
+10) istituzioni di anatomia ed istologia patologica;  
+\*11) istologia ed embriologia generale (compresa la citologia);  
+12) materiali dentari;  
+13) microbiologia (semestrale);  
+14) odontoiatria conservatrice (triennale: 2°, 3° e 4° anno);  
+15) patologia generale.  
+Triennio:  
+16) chirurgia speciale odontostomatologica (biennale: 3° e 4° anno);  
+17) clinica odontostomatologica (biennale: 4° e 5° anno);  
+18) medicina legale e delle assicurazioni e deontologia in odontostomatologia (semestrale);  
+19) neuropatologia e psicopatologia (semestrale);  
+20) ortognatodonzia e gnatologia (funzione masticatoria) (biennale: 4° e 5° anno);  
+21) parodontologia (biennale: 4° e 5° anno);  
+22) patologia speciale chirurgica e propedeutica clinica;  
+23) patologia speciale medica e metodologia clinica (compresa la pediatria);  
+24) patologia speciale odontostomatologica;  
+25) pedodonzia (semestrale);  
+26) protesi dentaria (triennale: 3°, 4° e 5° anno);  
+27) radiologia generale e speciale odontostomatologica (semestrale).  
+Insegnamenti complementari:  
+\*1) chirurgia maxillo-facciale;  
+\*2) dermatologia e venereologia (semestrale);  
+\*3) otorinolaringoiatria (semestrale);  
+\*4) statistica sanitaria;  
+altri insegnamenti complementari nel piano della facolta' sempre mutuati dal corso di laurea in medicina e chirurgia.  
+Gli insegnamenti segnati con asterisco sono mutuati dal corso di laurea in medicina e chirurgia.  
+Gli insegnamenti fondamentali sono teorici e pratici e la frequenza e' obbligatoria.  
+Gli insegnamenti specificatamente odontostomatologici di ordine clinico comportano anche un tirocinio pratico continuativo da espletare prima di sostenere i relativi esami.  
+Gli allievi, che non conseguono le attestazioni di frequenza, non possono essere ammessi a sostenere le relative prove di esame.  
+Il tirocinio pratico, relativo ad ogni insegnamento clinico, deve prevedere da parte di componenti dell'organico, una assistenza didattica adeguata al numero degli studenti.  
   
-Art. 279. - E' istituita ai sensi dell'art. 20 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), una scuola speciale di preparazione per tecnici di audiometria che ha sede presso il reparto di audiofonologia della clinica otorinolaringoiatrica dell'Universita'.  
-Art. 280. - La durata del corso degli studi della scuola di preparazione per tecnici di audiometria e' di tre anni.  
-L'indirizzo e' teorico-pratico.  
-Il numero massimo complessivo degli iscritti alla scuola e' di quindici (cinque per anno di corso).  
-Art. 281. - Possono essere ammessi alla scuola coloro che siano in possesso del titolo di studio prescritto per l'ammissione all'Universita' o ad istituto di istruzione universitaria.  
-Gli aspiranti debbono, nei termini regolamentari, presentare apposita domanda diretta al rettore e corredata dai prescritti documenti e sostenere un esame di ammissione.  
-Le domande di iscrizione ad anni successivi al primo anno vanno presentate nei termini regolamentari.  
-Art. 282. - Alla scuola si accede previo esame di cultura generale e su argomenti facenti parte dei normali programmi dei licei e degli istituti di istruzione secondaria, con particolare riguardo alla parte dell'insegnamento di fisica acustica. La commissione giudicatrice viene nominata dal preside della facolta' di medicina e chirurgia ed e' composta dal direttore della scuola, presidente, e da due membri scelti fra professori di ruolo, incaricati e liberi docenti.  
-Art. 283. - Il direttore della scuola e' il titolare della cattedra di audiologia dell'Universita' di Catania.  
-Gli incarichi d'insegnamento sono conferiti dal rettore, su proposta del consiglio di facolta' di medicina e chirurgia udito il direttore della scuola.  
-Art. 284. - L'anno accademico ha inizio e termine nelle date stabilite dalle leggi in vigore per l'istruzione universitaria. La data di inizio e termine delle lezioni sono di regola eguali a quelle fissate per l'anno accademico. Tali date, tuttavia possono essere spostate per ragioni speciali, inerenti la natura dei corsi.  
-Art. 285. - Le materie d'insegnamento sono:  
-1° Anno:  
-anatomia degli organi e dei sistemi audiofono-articolatori;  
-fisiologia degli organi e dei sistemi audiofono-articolatori;  
-elementi di fisica acustica e tecniche di fonometria;  
-psicologia generale;  
-elementi di audiologia;  
-elementi di fonetica e di linguistica.  
-2° Anno:  
-tecniche audiometriche (1° corso);  
-audiometria infantile;  
-neuropsichiatria infantile;  
-tecniche di esplorazione vestibolare;  
-audiometria di massa e prevenzione della sordita'.  
-3° Anno:  
-tecniche audiometriche (2° corso);  
-patologia dell'udito, del linguaggio e dell'organo dell'equilibrio;  
-tecniche di protesizzazione acustica;  
-tecniche di audiometria obiettiva;  
-elementi di logopedia.  
-L'intero corso di studio e' costituito da lezioni teoriche e pratiche ed esercitazioni, e dall'obbligo per gli allievi della frequenza ai fini dell'apprendimento per un periodo di tre anni nel reparto di audio fonologia della clinica otorinolaringoiatrica.  
-La frequenza viene comprovata dall'attestazione rilasciata dagli insegnanti sul libretto di iscrizione.  
-L'attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.  
-Art. 286. - Le commissioni per gli esami di profitto e di diploma sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Le commissioni per gli esami di profitto sono composte di tre membri: il direttore della scuola, presidente, e da due insegnanti della scuola stessa. La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente, e da quattro insegnanti della scuola stessa o da altri docenti.  
-Ogni commissario ha a sua disposizione dieci punti. Gli esami di profitto, che consistono in prove teoriche e pratiche, si sostengono in un unico gruppo di materie per ciascun anno di corso.  
-L'esame di diploma consiste nella discussione di una tesi scritta su un argomento riguardante le materie di insegnamento, approvata dal direttore della scuola ed in una prova pratica stabilita dalla commissione esaminatrice.  
-I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola, ma, se al secondo anno non sia loro riconosciuta la idoneita', saranno senz'altro esclusi da ulteriori prove. Agli allievi che avranno superato lo esame finale verra' rilasciato il diploma di tecnico di audiometria.  
-Art. 287. - Per essere ammessi a frequentare gli anni di corso successivi al primo, gli iscritti debbono aver superato gli esami dell'anno precedente. Alla fine del terzo anno di corso, per essere ammessi all'esame di diploma, gli iscritti debbono aver superato tutti gli esami prescritti.  
-Art. 288. - Gli esami di profitto e di diploma si danno in due sessioni, la prima estiva, ha inizio subito dopo la chiusura annuale dei corsi e la seconda, autunnale, un mese innanzi il principio del nuovo anno accademico.  
-Art. 289. - Il consiglio di amministrazione dell'Universita', su proposta della direzione della scuola, approvata dal consiglio di facolta', stabilira' di anno in anno l'ammontare dei contributi.  
-Le tasse e soprattasse annuali a carico degli iscritti restano cosi' destinate:  
+Non si puo' essere ammessi Se non si e' superato  
+a sostenere l'esame di: l'esame di:  
   
-tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 15.000 soprattassa annuale di esami . . . . . . . . . . . . . . . . L. 7.000 tassa erariale di diploma. . . . . . . . . . . . . . . . . . L. 6.000 tassa annuale di iscrizione per studenti fuori corso . . . . L. 8.000   
-Al funzionamento della suddetta scuola si provvedera' con il provento delle tasse, soprattasse e contributi dovuti dagli iscritti e con eventuali elargizioni o contributi di enti pubblici o privati.  
+Fisiologia umana e dell'apparato Istituzioni di anatomia  
+Stomatognatico umana normale e dell'apparato Patologia generale stomatognatico  
+Chimica  
+Biologia generale applicata  
+agli studi medici  
+Fisica medica  
+  
+Patologia speciale medica Fisiologia umana e del-  
+e metodologica clinica l'apparato stomatognatico  
+(compresa la pediatria) Patologia generale  
+Patologia speciale chirurgica  
+e propedeutica clinica  
+  
+Clinica odontostomatologica Patologia speciale medica  
+e metodologia clinica  
+(compresa la pediatria)  
+Patologia speciale chirurgica  
+e propedeutica clinica  
+Istituzioni di anatomia e  
+istologia patologica  
+Patologia speciale odonto-  
+stomatologica  
+Chirurgia speciale odonto-  
+stomatologia  
+  
+Per essere ammesso a sostenere l'esame di laurea in odontoiatria e protesi dentaria, lo studente deve aver seguito i corsi ed aver superato gli esami in tutti gli insegnamenti fondamentali ed almeno in due insegnamenti scelti tra i complementari ed aver, inoltre, seguito le prescritte esercitazioni cliniche, i tirocini pratici ed averne conseguito le relative attestazioni.  
+L'esame di laurea consiste nella discussione di una tesi scritta su argomenti di odontostomatologia da richiedere almeno all'inizio dell'ultimo anno di corso.  
+Per esercitare la professione i laureati in odontoiatria e protesi dentaria devono superare un apposito esame di Stato.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1980
+### Dato a Roma, addi' 25 settembre 1980
 
-PERTINI BODRATO
+p. Il Presidente della Repubblica Il Presidente del Senato FANFANI SARTI
 
-Visto, il Guardasigilli: SARTI
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 30 dicembre 1980
+Registrato alla Corte dei conti, addi' 21 ottobre 1980
 
-Registro n. 122 Istruzione, foglio n. 35
+Registro n. 95 Istruzione, foglio n. 306

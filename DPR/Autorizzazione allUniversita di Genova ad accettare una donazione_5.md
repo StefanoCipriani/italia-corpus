@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1949 n. 174
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1954 n. 693
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1949 n. 174
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1954 n. 693
+=============================================================
 
 Autorizzazione all'Universita' di Genova ad accettare una donazione.
 --------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-174. Decreto del Presidente della Repubblica 26 febbraio 1949, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Genova viene autorizzata ad accettare la donazione della somma, di L. 360.000 nominali, in titoli del Debito pubblico italiano, disposta in suo favore dalla signora Egle Sullam vedova Pardo, con atto pubblico in data 21 luglio 1948, per l'istituzione di uni premio di studio da intitolarsi al nome del marito "Prof.  
-Ruggero Pardo" e da conferirsi, ogni biennio, ad un laureato in medicina e chirurgia dell'Universita' di Genova che abbia svolto la dissertazione di laurea in clinica oculistica ed eseguito nella clinica oculistica dell'Universita' medesima e pubblicato, entro l'anno dalla conseguita laurea, il miglior lavoro su argomenti di oculistica.  
+693. Decreto del Presidente della Repubblica 19 maggio 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Genova viene autorizzata ad accettare la donazione di L. 600.000 contanti, da impiegarsi nell'acquisto di titoli di Stato fruttanti l'interesse annuo del 5%, disposta in suo favore dal prof. Eugenio Giuseppe Togliatti, a nome dell'apposito Comitato, con atto pubblico amministrativo 12 ottobre 1953, per l'istituzione, con la relativa rendita, di un premio di studio biennale intitolato "Premio Gino Loria" e da conferirsi, mediante concorso per titoli, ad un laureato del precedente triennio, che abbia conseguito la laurea in matematica, oppure in matematica e fisica, oppure in fisica presso l'Universita' di Genova, discutendo una dissertazione di laurea originale su argomento matematico.  
   
-Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 26 aprile 1949
+Visto, il Guardasigilli: DE PIETRO  
+Registrato alla Corte dei conti, addi' 13 agosto 1954  
+Atti del Governo, registro n. 85, foglio n. 39. - TEMPESTA

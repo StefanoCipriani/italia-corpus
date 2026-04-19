@@ -1,61 +1,109 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1456
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1976 n. 1064
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1456
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1976 n. 1064
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Torino e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+L'art. 7 e' modificato nel senso che, al penultimo comma, sono aggiunte le parole "e per la facolta' di agraria".
+
+Art. 105 - all'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti i seguenti:
+
+sistemazioni idrauliche e difesa del suolo (annuale);
+
+idrologia e idrografia (semestrale);
+
+viabilita' ed infrastrutture rurali e forestali (semestrale);
+
+geologia applicata;
+
+microbiologia del terreno (semestrale);
+
+approvvigionamenti annonari, mercati e industrie degli alimenti di origine animale.
+
+Nello stesso elenco l'insegnamento di coltivazioni da foraggio passa da semestrale ad annuale e l'insegnamento di produzione delle sementi per colture ortive e floreali cambia denominazione in quella di produzione delle sementi.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 28 ottobre 1976
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 13 giugno 1977 Registro n. 69 Istruzione, foglio n. 257
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788) e successivi;  
+Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Visto il [decreto del Presidente della Repubblica 31 gennaio 1960, n. 55](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;55);  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Torino e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-L'art. 47, e' abrogato e sostituito dal seguente:  
-"Il titolo di ammissione per il biennio di studi propedeutici per le lauree in ingegneria e' il diploma di maturita' classica o di maturita' scientifica.  
-Sono insegnamenti fondamentali:  
-1° anno:  
-1) Analisi matematica I;  
-2) Geometria I;  
-3) Fisica I;  
-4) Chimica;  
-5) Disegno I.  
-2° anno  
-1) Analisi matematica II;  
-2) Geometria II;  
-3) Meccanica razionale;  
-4) Fisica II;  
-5) Disegno II;  
-6) Mineralogia.  
-I due esami di "Fisica" comprendono la parte riguardante le relative esercitazioni.  
-Gli esami di "Analisi matematica,", di "Geometria", di "Fisica" e di "Disegno" importano ciascuno due esami distinti.  
-Gli studenti del primo anno di corso potranno ottenere l'iscrizione al secondo anno di corso qualora abbiano superato almeno due fra i quattro seguenti esami:  
-analisi matematica I, geometria I, fisica I, chimica".  
+  
+L'art. 7 e' modificato nel senso che, al penultimo comma, sono aggiunte le parole "e per la facolta' di agraria".  
+Art. 105 - all'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti i seguenti:  
+sistemazioni idrauliche e difesa del suolo (annuale);  
+idrologia e idrografia (semestrale);  
+viabilita' ed infrastrutture rurali e forestali (semestrale);  
+geologia applicata;  
+microbiologia del terreno (semestrale);  
+approvvigionamenti annonari, mercati e industrie degli alimenti di origine animale.  
+Nello stesso elenco l'insegnamento di coltivazioni da foraggio passa da semestrale ad annuale e l'insegnamento di produzione delle sementi per colture ortive e floreali cambia denominazione in quella di produzione delle sementi.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 ottobre 1960
+### Dato a Roma, addi' 28 ottobre 1976
 
-GRONCHI BOSCO
+LEONE MALFATTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 7 dicembre 1960
+Registrato alla Corte dei conti, addi' 13 giugno 1977
 
-Atti del Governo, registro n. 132, foglio n. 58. - VILLA
+Registro n. 69 Istruzione, foglio n. 257

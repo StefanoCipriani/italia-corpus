@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 marzo 1983 n. 804
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1983 n. 808
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 marzo 1983 n. 804
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1983 n. 808
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Venezia.
 -------------------------------------------------------------------
@@ -39,14 +39,13 @@ Articolo unico
 --------------
 
   
-Nell'art. 18, relativo al corso di laurea in lingue e letterature straniere, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-storia dei movimenti e dei partiti politici.  
+Nell'art. 31, relativo al corso di laurea in chimica industriale, all'elenco degli insegnamenti complementari e' aggiunto il seguente: stereochimica inorganica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 marzo 1983
+### Dato a Roma, addi' 17 maggio 1983
 
 PERTINI FALCUCCI
 
@@ -54,4 +53,4 @@ Visto, il Guardasigilli: MARTINAZZOLI
 
 Registrato alla Corte dei conti, addi' 30 dicembre 1983
 
-Registro n. 82 Istruzione, foglio n. 227
+Registro n. 82 Istruzione, foglio n. 223

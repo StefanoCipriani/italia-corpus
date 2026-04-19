@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1968 n. 1224
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1035
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1968 n. 1224
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1035
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
@@ -10,438 +10,101 @@ Modificazioni allo statuto dell'Universita' degli studi di Torino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788) e successive modificazioni;
+Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il regio decreto-legge 20 giugno 1935, 1071, convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Torino e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Considerata la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso;
 
-Art. 92, relativo alle discipline nelle quali si conferiscono diplomi di specialista o di perfezionamento e' modificato nel senso che la disciplina di cui al n. 11 e' cambiata in "otorinolaringoiatria e patologia cervico-facciale".
+Articolo unico
+--------------
 
-Gli articoli 126, 127, 134 e 135, 138 e 139 relativi rispettivamente alle scuole di specializzazione in otorinolaringoiatria e patologia cervico-facciale, in radiologia, e in patologia generale sono abrogati e sostituiti dai seguenti.
-
-Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale
-
-Art. 126. - La scuola ha la durata di tre anni.
-
-Il numero complessivo da ammettere alla scuola e' di 25 allievi.
-
-Art. 127. - Le materie di insegnamento sono cosi' distribuite per anno di corso:
-
-1° Anno:
-
-Anatomia
-
-Fisiologia
-
-Audiologia (1° anno)
-
-Semeiotica otorinolaringoiatrica
-
-Tecnica di laboratorio
-
-Patologia otorinolaringoiatrica e cervico-facciale (1° anno)
-
-Anatomia ed istologia patologica otorinolaringoiatrica.
-
-2° Anno:
-
-Tecniche operatorie in otorinolaringoiatria
-
-Anestesiologia in otorinolaringoiatria
-
-Patologia e clinica otorinolaringoiatrica e cervico-facciale (2° anno)
-
-Radiologia in rapporto con l'otorinolaringoiatria
-
-Pediatria in rapporto con l'otorinolaringoiatria
-
-Audiologia (2° anno)
-
-Otoneurologia
-
-Foniatria
-
-3° Anno:
-
-Patologia e clinica otorinolaringoiatrica e cervico-facciale
-
-Terapia medica e fisica in otorinolaringoiatria
-
-Neuropatologia in rapporto con l'otorinolaringoiatria
-
-Oculistica in rapporto con l'otorinolaringoiatria
-
-Chirurgia plastica
-
-Tracheo-bronco-esofagoscopia
-
-Medicina legale ed infortunistica in otorinolaringoiatria
-
-Saranno inoltre tenute conferenze di medicina e di chirurgia generale a carattere integrativo.
-
-I singoli esami di profitto devono essere sostenuti alla fine di ogni anno di corso; per accedere al secondo e terzo anno di corso devono essere stati superati gli esami degli anni precedenti.
-
-Per il conseguimento del diploma di specialista deve essere presentata e discussa una dissertazione scritta su un argomento della specialita' e superata una prova tecnica.
-
-Scuola di specializzazione in radiologia
-
-Art. 134. - La scuola di specializzazione in radiologia conferisce il diploma in radiologia e il diploma in radiologia diagnostica.
-
-Il numero complessivo degli allievi da ammettere alla scuola e' di centoventi.
-
-Art. 135. - La durata dei corsi per il conseguimento del diploma in radiologia e' di quattro anni. Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni.
-
-Nozioni sugli apparecchi ed istrumenti della radiologia.
-
-Anatomia radiologica normale.
-
-Fisiologia radiologica.
-
-Tecnica radiologica generale.
-
-Semeiotica radiologica generale.
-
-Fondamenti di radiobiologia.
-
-Nozioni di statistica e matematica.
-
-2° Anno:
-
-Tecnica e metodica dell'esame radiologico dei vari organi, apparati e sistemi.
-
-Semeiotica radiologica speciale e diagnosi differenziale.
-
-Fondamenti di radioterapia.
-
-Danni da radiazioni e mezzi di protezione.
-
-Dimostrazioni cliniche di diagnostica radiologica.
-
-Dimostrazioni cliniche di radioterapia.
-
-3° Anno:
-
-Diagnostica radiologica differenziale.
-
-Dimostrazioni di casistica di roentgendiagnostica con confronto del quadro anatomopatologico.
-
-Dimostrazioni di casistica di roentgenterapia con particolare riferimento all'anatomia patologica.
-
-Radioterapia tradizionale. Curieterapia.
-
-Radioterapia con alte energie.
-
-Elementi di medicina nucleare.
-
-Istrumentario, tecnica e metodica di applicazione.
-
-Dosimetria.
-
-4° Anno:
-
-Moderne tecniche di esplorazione e terapia radiologica.
-
-Diagnostica e terapia con isotopi radioattivi somministrati per via interna.
-
-Radiodiagnostica e radioterapia clinica (casistica).
-
-Medicina legale e legislazione sanitaria in relazione alla radiologia.
-
-I corsi sono integrati da conferenze, esercitazioni e seminari.
-
-Sono strettamente obbligatori la frequenza alle lezioni e l'internato.
-
-La direzione della scuola si riserva di accertare, mediante esame, la preparazione basale generica medicochirurgica dei candidati.
-
-La durata dei corsi per il conseguimento del diploma in radiologia diagnostica e' di tre anni.
-
-Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni.
-
-Nozioni sugli apparecchi ed istrumenti della radiologia.
-
-Anatomia radiologica normale.
-
-Fisiologia radiologica.
-
-Tecnica radiologica generale.
-
-Semeiotica radiologica generale.
-
-Fondamenti di radiobiologia.
-
-Nozioni di statistica e matematica.
-
-2° Anno:
-
-Metodica di esplorazione dei vari organi ed apparati.
-
-Semeiotica radiologica speciale e diagnosi differenziale.
-
-Nozioni generali sulle lesioni da radiazioni e mezzi di protezione.
-
-Moderne tecniche di esplorazione radiologica.
-
-3° Anno:
-
-Esplorazione radiologica nella patologia dei vari organi ed apparati. Diagnostica differenziale. Rapporti con l'anatomia patologica.
-
-Radiodiagnostica clinica.
-
-Medicina legale e legislazione sanitaria in relazione alla
-
-radiologia.
-
-I corsi della scuola sono integrati da conferenze, esercitazioni e seminari. Sono strettamente obbligatori la frequenza alle lezioni e l'internato.
-
-La direzione della scuola si riserva di accertare, mediante esame, la preparazione basale generica medicochirurgica dei candidati.
-
-Scuola di specializzazione in patologia generale
-
-Art. 138. - La scuola di specializzazione in patologia generale ha sede presso l'istituto di patologia generale.
-
-Il corso di studi ha la durata di tre anni.
-
-Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia, in scienze biologiche o di altre facolta' nel cui ordinamento degli studi e' inserito l'insegnamento di patologia generale.
-
-Le iscrizioni ai singoli anni non potranno superare il numero di 30 allievi (totale n. 90).
-
-Nel caso di eccedenza di domande, la scelta tra i candidati richiedenti sara' fatta in base a concorso interno, per esame; gli aspiranti hanno l'obbligo di accertarsi presso l'istituto della eventuale data del concorso.
-
-A giudizio del direttore, entro il numero stabilito per i singoli anni di corso, possono essere ammessi al II corso direttamente i richiedenti sufficientemente forniti di titoli attinenti alla patologia generale (assistenti volontari di patologia generale e materie affini; specializzati in altre discipline affini alla patologia generale, ecc.).
-
-I candidati non riconosciuti idonei all'esame di diploma potranno ripresentarsi dopo un altro anno di frequenza alla scuola. Ma se al secondo esame non sia loro riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove.
-
-Art. 139. - Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-Eziologia generale (cause patogene, fisiche, chimiche e biologiche).
-
-Patologia istochimica.
-
-((Patologia delle infestioni)).
-
-Laboratorio di patologia generale (triennale).
-
-2° Anno:
-
-Patologia delle infezioni.
-
-Immunologia.
-
-Fisiopatologia sistemica (biennale); (Fisiopatologia della
-
-termoregolazione, del cuore e dei vasi, della respirazione).
-
-Patologia del metabolismo (dei protidi, dei lipidi, dell'acqua e dei minerali e dei bioregolatori);
-
-Laboratorio di patologia generale.
-
-3° Anno:
-
-Fisiopatologia sistemica (della digestione, del rene, del sangue e del sistema neuro-endocrino);
-
-Patologia oncologica.
-
-Laboratorio di patologia generale.
-
-Alla fine di ogni anno saranno sostenuti gli esami di ciascuna delle materie suindicate.
-
-Per conseguire il diploma di specializzazione in patologia generale, al termine del corso triennale oltre ad avere superato tutti gli esami nelle singole materie, e' di obbligo presentare una dissertazione scritta, preferibilmente di carattere sperimentale, elaborata nell'istituto.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 18 ottobre 1968
-
-SARAGAT
-
-SCAGLIA
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 6 dicembre 1968 Atti del Governo, registro n. 224, foglio n. 28. - GRECO
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788) e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:   
+Dopo l'art. 305, con il conseguente spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo relativo all'istituzione della scuola diretta a fini speciali di preparazione per tecnici di colpocitologia.   
   
-Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 92, relativo alle discipline nelle quali si conferiscono diplomi di specialista o di perfezionamento e' modificato nel senso che la disciplina di cui al n. 11 e' cambiata in "otorinolaringoiatria e patologia cervico-facciale".   
-Gli articoli 126, 127, 134 e 135, 138 e 139 relativi rispettivamente alle scuole di specializzazione in otorinolaringoiatria e patologia cervico-facciale, in radiologia, e in patologia generale sono abrogati e sostituiti dai seguenti.   
+Scuola diretta a fini speciali di preparazione per tecnici di colpocitologia   
   
-Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale   
-Art. 126. - La scuola ha la durata di tre anni.   
-Il numero complessivo da ammettere alla scuola e' di 25 allievi.   
-Art. 127. - Le materie di insegnamento sono cosi' distribuite per anno di corso:   
+Art. 306. - Presso la facolta' di medicina e chirurgia dell'Universita' degli studi di Torino si istituisce la scuola speciale di preparazione per tecnici di colpocitologia, che ha lo scopo di preparare adeguatamente personale tecnico nel campo della diagnostica precoce delle neoplasie maligne dell'apparato genitale femminile.   
+La scuola ha indirizzo teorico-pratico.   
+La durata del corso degli studi della scuola e' di due anni accademici.   
+Il consiglio di amministrazione dell'Universita', sentiti la direzione della scuola ed il consiglio di facolta', su proposta del senato accademico, stabilisce di anno in anno l'ammontare dei contributi.   
+Al funzionamento della suddetta scuola si provvedera' con il provento delle tasse, soprattasse e contributi dovuti dagli iscritti e con eventuali elargizioni e contributi di enti pubblici e privati.   
+Gli iscritti alla scuola hanno l'obbligo alla frequenza. Per essere ammessi al secondo anno di corso debbono aver superato gli esami del primo corso. Per sostenere gli esami di diploma gli allievi dovranno aver seguito i corsi, superato gli esami di tutte le materie prescritte e aver compiuto, con esito favorevole, le esercitazioni pratiche previste.   
+L'esame di diploma consiste in un esame orale sui temi trattati durante il corso ed in una o piu' prove pratiche stabilite dalla commissione esaminatrice.   
+Agli allievi che avranno superato gli esami finali verra' rilasciato un diploma di "tecnico di colpocitologia".   
+La commissione per gli esami di profitto e' nominata dal preside della facolta' di medicina e chirurgia, su proposta del direttore della scuola, presidente, da un professore ufficiale di materia affine e da un libero docente cultore della materia.   
+La commissione per gli esami di diploma e' formata da cinque membri, composti dal direttore della scuola e da quattro altri insegnanti della scuola, nominati dal preside della facolta' di medicina e chirurgia, su proposta del direttore della scuola.   
+Il titolo di studio richiesto per l'ammissione e' il diploma di scuola media di secondo grado.   
+Il numero massimo di partecipanti e' di dodici per anno di corso.   
+Al primo anno si accede previo esame di cultura generale sostenuto davanti ad una commissione composta dal direttore della scuola e da due insegnanti della stessa scuola. Le domande di iscrizione, su carta legale, dovranno essere presentate dal 1 agosto al 30 ottobre ed essere corredate dai seguenti documenti, tutti in regola con il bollo: 1) certificato di nascita in carta legale; 2) diploma di scuola superiore; 3) due fotografie di cui una autenticata in bollo;  
+4) titoli eventualmente posseduti dal candidato.   
+L'esame di ammissione avra' luogo il 15 novembre.   
+Le materie di insegnamento saranno cosi' ripartite:   
 1° Anno:   
-Anatomia   
-Fisiologia   
-Audiologia (1° anno)   
-Semeiotica otorinolaringoiatrica   
-Tecnica di laboratorio   
-Patologia otorinolaringoiatrica e cervico-facciale (1° anno)   
-Anatomia ed istologia patologica otorinolaringoiatrica.   
+cardiologia;   
+citologia normale;   
+nozioni di anatomia ed istologia normale dell'apparato genitale femminile;   
+nozioni di fisiologia dell'apparato genitale femminile;   
+nozioni di anatomia ed istologia patologica dell'apparato genitale femminile;   
+nozioni di endocrinologia ginecologica;   
+nozioni di microscopia;   
+tecnica citologica;   
+nozioni di microbiologia applicata alla ginecologia;   
+fisiocitologia ginecologica;   
+colpomicroscopia;   
+colposcopia I.   
 2° Anno:   
-Tecniche operatorie in otorinolaringoiatria   
-Anestesiologia in otorinolaringoiatria   
-Patologia e clinica otorinolaringoiatrica e cervico-facciale (2° anno)   
-Radiologia in rapporto con l'otorinolaringoiatria   
-Pediatria in rapporto con l'otorinolaringoiatria   
-Audiologia (2° anno)   
-Otoneurologia   
-Foniatria   
-3° Anno:   
-Patologia e clinica otorinolaringoiatrica e cervico-facciale   
-Terapia medica e fisica in otorinolaringoiatria   
-Neuropatologia in rapporto con l'otorinolaringoiatria   
-Oculistica in rapporto con l'otorinolaringoiatria   
-Chirurgia plastica   
-Tracheo-bronco-esofagoscopia   
-Medicina legale ed infortunistica in otorinolaringoiatria   
-Saranno inoltre tenute conferenze di medicina e di chirurgia generale a carattere integrativo.   
-I singoli esami di profitto devono essere sostenuti alla fine di ogni anno di corso; per accedere al secondo e terzo anno di corso devono essere stati superati gli esami degli anni precedenti.   
-Per il conseguimento del diploma di specialista deve essere presentata e discussa una dissertazione scritta su un argomento della specialita' e superata una prova tecnica.   
+tecnica istologica;   
+istopatologia del collo dell'utero;   
+istopatologia endometriale;   
+citopatologia ginecologica;   
+citochimica;   
+colposcopia II;   
+medicina sociale ed educazione sanitaria;   
+isto e citopatologia mammaria;   
+tecniche di diagnosi precoce del carcinoma mammario;   
+citopatologia peritoneale;   
+urocitogramma in ginecologia;   
+cito-isto e colpofotografia.   
+La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa.   
+In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.   
+Gli incarichi di insegnamento sono conferiti dal rettore, su proposta del consiglio di facolta' di medicine e chirurgia, udito il direttore della scuola.   
+Le tasse e soprattasse annuali a carico degli iscritti resteranno cosi' destinate:   
   
-Scuola di specializzazione in radiologia   
-Art. 134. - La scuola di specializzazione in radiologia conferisce il diploma in radiologia e il diploma in radiologia diagnostica.   
-Il numero complessivo degli allievi da ammettere alla scuola e' di centoventi.   
-Art. 135. - La durata dei corsi per il conseguimento del diploma in radiologia e' di quattro anni. Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni.   
-Nozioni sugli apparecchi ed istrumenti della radiologia.   
-Anatomia radiologica normale.   
-Fisiologia radiologica.   
-Tecnica radiologica generale.   
-Semeiotica radiologica generale.   
-Fondamenti di radiobiologia.   
-Nozioni di statistica e matematica.   
-2° Anno:   
-Tecnica e metodica dell'esame radiologico dei vari organi, apparati e sistemi.   
-Semeiotica radiologica speciale e diagnosi differenziale.   
-Fondamenti di radioterapia.   
-Danni da radiazioni e mezzi di protezione.   
-Dimostrazioni cliniche di diagnostica radiologica.   
-Dimostrazioni cliniche di radioterapia.   
-3° Anno:   
-Diagnostica radiologica differenziale.   
-Dimostrazioni di casistica di roentgendiagnostica con confronto del quadro anatomopatologico.   
-Dimostrazioni di casistica di roentgenterapia con particolare riferimento all'anatomia patologica.   
-Radioterapia tradizionale. Curieterapia.   
-Radioterapia con alte energie.   
-Elementi di medicina nucleare.   
-Istrumentario, tecnica e metodica di applicazione.   
-Dosimetria.   
-4° Anno:   
-Moderne tecniche di esplorazione e terapia radiologica.   
-Diagnostica e terapia con isotopi radioattivi somministrati per via interna.   
-Radiodiagnostica e radioterapia clinica (casistica).   
-Medicina legale e legislazione sanitaria in relazione alla radiologia.   
-I corsi sono integrati da conferenze, esercitazioni e seminari.  
-Sono strettamente obbligatori la frequenza alle lezioni e l'internato.   
-La direzione della scuola si riserva di accertare, mediante esame, la preparazione basale generica medicochirurgica dei candidati.   
-La durata dei corsi per il conseguimento del diploma in radiologia diagnostica e' di tre anni.   
-Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni.   
-Nozioni sugli apparecchi ed istrumenti della radiologia.   
-Anatomia radiologica normale.   
-Fisiologia radiologica.   
-Tecnica radiologica generale.   
-Semeiotica radiologica generale.   
-Fondamenti di radiobiologia.   
-Nozioni di statistica e matematica.   
-2° Anno:   
-Metodica di esplorazione dei vari organi ed apparati.   
-Semeiotica radiologica speciale e diagnosi differenziale.   
-Nozioni generali sulle lesioni da radiazioni e mezzi di protezione.   
-Moderne tecniche di esplorazione radiologica.   
-3° Anno:   
-Esplorazione radiologica nella patologia dei vari organi ed apparati. Diagnostica differenziale. Rapporti con l'anatomia patologica.   
-Radiodiagnostica clinica.   
-Medicina legale e legislazione sanitaria in relazione alla   
-radiologia.   
-I corsi della scuola sono integrati da conferenze, esercitazioni e seminari. Sono strettamente obbligatori la frequenza alle lezioni e l'internato.   
-La direzione della scuola si riserva di accertare, mediante esame, la preparazione basale generica medicochirurgica dei candidati.   
-  
-Scuola di specializzazione in patologia generale   
-Art. 138. - La scuola di specializzazione in patologia generale ha sede presso l'istituto di patologia generale.   
-Il corso di studi ha la durata di tre anni.   
-Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia, in scienze biologiche o di altre facolta' nel cui ordinamento degli studi e' inserito l'insegnamento di patologia generale.   
-Le iscrizioni ai singoli anni non potranno superare il numero di 30 allievi (totale n. 90).   
-Nel caso di eccedenza di domande, la scelta tra i candidati richiedenti sara' fatta in base a concorso interno, per esame; gli aspiranti hanno l'obbligo di accertarsi presso l'istituto della eventuale data del concorso.   
-A giudizio del direttore, entro il numero stabilito per i singoli anni di corso, possono essere ammessi al II corso direttamente i richiedenti sufficientemente forniti di titoli attinenti alla patologia generale (assistenti volontari di patologia generale e materie affini; specializzati in altre discipline affini alla patologia generale, ecc.).   
-I candidati non riconosciuti idonei all'esame di diploma potranno ripresentarsi dopo un altro anno di frequenza alla scuola. Ma se al secondo esame non sia loro riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove.   
-Art. 139. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-Eziologia generale (cause patogene, fisiche, chimiche e biologiche).   
-Patologia istochimica.   
-
-((Patologia delle infestioni))
-
-.   
-Laboratorio di patologia generale (triennale).   
-2° Anno:   
-Patologia delle infezioni.   
-Immunologia.   
-Fisiopatologia sistemica (biennale); (Fisiopatologia della   
-termoregolazione, del cuore e dei vasi, della respirazione).   
-Patologia del metabolismo (dei protidi, dei lipidi, dell'acqua e dei minerali e dei bioregolatori);   
-Laboratorio di patologia generale.   
-3° Anno:   
-Fisiopatologia sistemica (della digestione, del rene, del sangue e del sistema neuro-endocrino);   
-Patologia oncologica.   
-Laboratorio di patologia generale.   
-Alla fine di ogni anno saranno sostenuti gli esami di ciascuna delle materie suindicate.   
-Per conseguire il diploma di specializzazione in patologia generale, al termine del corso triennale oltre ad avere superato tutti gli esami nelle singole materie, e' di obbligo presentare una dissertazione scritta, preferibilmente di carattere sperimentale, elaborata nell'istituto.   
+tassa di immatricolazione. . . . . . . . . . . . . . . . . . L. 2.000 tassa annuale di iscrizione. . . . . . . . . . . . . . . . . . 50.000 soprattassa annuale di esame . . . . . . . . . . . . . . . . . 15.000 tassa di diploma . . . . . . . . . . . . . . . . . . . . . . . 50.000   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 ottobre 1968
+### Dato a Roma, addi' 31 ottobre 1981
 
-SARAGAT SCAGLIA
+PERTINI BODRATO
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 6 dicembre 1968
+Registrato alla Corte dei conti, addi' 24 febbraio 1982
 
-Atti del Governo, registro n. 224, foglio n. 28. - GRECO
+Registro n. 30 Istruzione, foglio n. 386

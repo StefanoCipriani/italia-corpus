@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1980 n. 676
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1980 n. 652
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1980 n. 676
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1980 n. 652
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
@@ -10,146 +10,193 @@ Modificazioni allo statuto dell'Universita' degli studi di Messina.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923) e modificato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923), e modificato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio universitario nazionale nei suoi pareri;
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Veduto il [parere della sezione prima del Consiglio di Stato, n. 1902/74 del 14 febbraio 1975](https://e-justice.europa.eu/ecli/ECLI::::);
 
-Decreta:
---------
+Considerato che non appare opportuno, al momento, procedere ad una generale revisione delle norme statutarie di tutti gli atenei relative alla direzione delle scuole di specializzazione e perfezionamento e degli istituti nonche' delle scuole dirette a fini speciali, attualmente affidata esclusivamente ai professori di ruolo o fuori ruolo, in attesa del provvedimento relativo allo stato giuridico del personale docente;
 
-Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Sulla
+-----
+
+proposta, del Ministro della pubblica istruzione; Decreta:
 
 Art. 1
 ------
 
   
+Lo statuto dell'Universita' di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+L'art. 103, relativo alle norme generali delle scuole di specializzazione in medicina e chirurgia, e' integrato con il seguente nuovo comma:  
   
-L'art. 70, concernente la facolta' di medicina e chirurgia, e' cosi' modificato:   
-Art. 70. - La facolta' di medicina e chirurgia conferisce:   
-a) la laurea in medicina e chirurgia;   
-b) la laurea in odontoiatria e protesi dentaria.   
+Possono iscriversi alle scuole di specializzazione i laureati in medicina e chirurgia salvo diversi indirizzi; e' richiesto almeno all'inizio del corso il possesso della abilitazione all'esercizio professionale rilasciato dalla autorita' competente.  
 
 Art. 2
 ------
 
   
+L'art. 104, relativo alle norme generali delle scuole di specializzazione in medicina e chirurgia, e' integrato con il seguente nuovo comma:  
   
-Dopo l'art. 73, con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli:   
+L'ammissione alla scuola avviene per titoli ed esami.  
+
+Art. 3
+------
+
   
-Corso di laurea in odontoiatria e protesi dentaria   
-Art. 74. - La durata del corso degli studi per la laurea in odontoiatria e protesi dentaria e' di cinque anni suddivisi in un biennio ed un triennio.   
-Titoli di ammissione: quelli consentiti dalle vigenti disposizioni di legge.   
-Art. 75. - Il numero degli iscritti e' di trentadue per ciascun anno di corso e complessivamente di centosessanta per l'intero corso di studi.   
-L'accesso avviene secondo un ordine di graduatoria stabilito in base ad un punteggio riportato in centesimi, cosi' ripartito:   
-70 cent. riservati all'esito di un test a scelta multipla da completare in un unico giorno vertente su nozioni generali relativi ai seguenti argomenti: chimica, fisica, matematica, biologia generale;   
-30 cent. riservati al punteggio riportato nell'esame finale per il conseguimento del diploma di scuola secondaria superiore.   
-E' prevista la pubblicizzazione dei risultati delle prove che a richiesta debbono essere forniti.   
-Art. 76. - Per il trasferimento degli studenti iscritti al corso di laurea in medicina e chirurgia le abbreviazioni di corso non possono superare l'ammissione oltre il secondo anno subordinatamente al numero dei posti resisi disponibili all'inizio del secondo anno sempre che gli aspiranti abbiano superato gli esami di biologia generale applicata agli studi medici, chimica, fisica medica, istologia ed embriologia generale (compresa la citologia).   
-Per i laureati in medicina e chirurgia le abbreviazioni di corso potranno essere concesse, sempre con iscrizione al secondo anno, subordinatamente al numero dei posti disponibili all'inizio del secondo anno e dopo che sia trascorso un anno accademico dal conseguimento della laurea precedente.   
-Art. 77. - Sono insegnamenti fondamentali:   
-Biennio:   
-1) anestesia generale e speciale odontostomatologica (semestrale);   
-\* 2) biologia generale applicata agli studi medici;   
-\* 3) chimica;   
-\* 4) chimica biologica;   
-5) farmacologia (semestrale);   
-\* 6) fisica medica;   
-7) fisiologia umana e dell'apparato stomatognatico;   
-8) igiene e odontoiatria preventiva e speciale con epidemiologia (semestrale);   
-9) istituzioni di anatomia umana normale e dell'apparato stomatognatico;   
-10) istituzioni di anatomia ed istologia patologica;   
-\* 11) istologia ed embriologia generale (compresa la citologia);   
-12) materiali dentari;   
-13) microbiologia (semestrale);   
-14) odontoiatria conservatrice (triennale: 2°, 3° e 4° anno);   
-15) patologia generale.   
-Triennio:   
-16) chirurgia speciale odontostomatologica (biennale: 3° e 4° anno);   
-17) chimica odontostomatologica (biennale: 4° e 5° anno);   
-18) medicina legale e delle assicurazioni e deontologia in odontostomatologia (semestrale);   
-19) neuropatologia e psicopatologia (semestrale);   
-20) ortognatodonzia e gnatologia (funzione masticatoria) (biennale: 4° e 5° anno);   
-21) parodontologia (biennale: 4° e 5° anno);   
-22) patologia speciale medica e metodologia clinica (compresa la pediatria);   
-23) patologia speciale chirurgica e propedeutica clinica;   
-24) patologia speciale odontostomatologica;   
-25) pedodonzia (semestrale);   
-26) protesi dentaria (triennale: 3°, 4° e 5° anno);   
-27) radiologia generale e speciale odontostomatologica (semestrale).   
-Sono insegnamenti complementari:   
-\* 1) chirurgia maxillo-facciale;   
-\* 2) dermatologia e venerologia (semestrale);   
-\* 3) otorinolaringoiatria (semestrale);   
-\* 4) statistica sanitaria;   
-altri insegnamenti complementari nel piano della facolta' sempre mutuati dal corso di laurea in medicina e chirurgia.   
-Gli insegnamenti segnati con asterisco sono mutuati dal corso di laurea in medicina e chirurgia.   
-Gli insegnamenti fondamentali sono teorici e pratiche e la loro frequenza e' obbligatoria.   
-Gli insegnamenti specificamente odontostomatologica di ordine clinico comportano un tirocinio pratico continuativo da espletare prima di sostenere i relativi esami.   
-Gli studenti che non conseguono le attestazioni di frequenza non possono essere ammessi a sostenere le relative prove di esame.   
-Il tirocinio pratico, relativo ad ogni insegnamento clinico, deve provvedere, da parte dei componenti dell'organico, una assistenza didattica adeguata al numero degli studenti.   
-Art. 78. - Ai fini della propedeuticita' degli esami dei diversi insegnamenti vale la seguente tabella:   
+Gli articoli 110 e 111, relativi alle norme generali delle scuole di specializzazione di medicina e chirurgia, sono soppressi e sostituiti dal seguente nuovo articolo, con il conseguente spostamento della numerazione degli articoli successivi.  
+Art. 110. - Non sono consentite abbreviazioni di corso.  
+
+Art. 4
+------
+
+  
+L'art. 112, relativo alle norme generali delle scuole di specializzazione in medicina e chirurgia, e' soppresso e sostituito dal seguente nuovo articolo:  
+Art. 112. - Il numero degli allievi assegnati al corso non puo' essere superato, fatta eccezione per l'ammissione dei riprovati degli anni precedenti e di coloro che, per giustificato motivo, avessero interrotto la successione dei corsi, i quali ultimi saranno ammessi in soprannumero in analogia alla normativa prevista per la reiscrizione degli studenti ai corsi di laurea.  
+
+Art. 5
+------
+
+  
+Gli articoli 184, 185, 186, relativi alla scuola di specializzazione in microbiologia, sono soppressi e sostituiti dai seguenti:  
+Art. 184. - La scuola di specializzazione in microbiologia ha sede presso gli istituti di patologia generale e di microbiologia della facolta' di medicina dell'Universita' di Messina e conferisce il diploma di specialista in microbiologia con indirizzo tecnico.  
+La scuola di specializzazione in microbiologia ha lo scopo di allargare e approfondire sul piano scientifico la cultura di coloro che si dedicano allo studio di questa disciplina e di fornire, sul piano tecnico, una preparazione pratica scientifica.  
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia o al professore di ruolo o fuori ruolo di materia affine.  
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente. E' contemplato un secondo indirizzo in tecniche microbiologiche al quale sono ammessi i laureati in medicina veterinaria, in scienze biologiche, in scienze naturali, in farmacia, in chimica e tecnologie farmaceutiche.  
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.  
+Il numero massimo degli allievi e' di trenta per anno di corso e complessivamente di centoventi iscritti per lo intero corso di studi.  
+L'ammissione al corso avviene per titoli ed esami.  
+Art. 185. - Le materie di insegnamento sono le seguenti:  
+  
+PRIMO BIENNIO  
+(comune ai due indirizzi)  
+  
+1° Anno:  
+1) batteriologia generale I;  
+2) tecniche batteriologiche;  
+3) immunologia generale;  
+4) genetica dei microrganismi.  
+2° Anno:  
+5) batteriologia generale II;  
+6) antibiotici e chemioterapici;  
+7) virologia generale;  
+8) immunologia generale e tecniche immunologiche;  
+9) dosaggio biologico ed analisi statistica.  
+  
+SECONDO BIENNIO  
+(indirizzo medico)  
+  
+3° Anno:  
+10) microrganismi patogeni e malattia;  
+11) batteriologia speciale I;  
+12) virologia speciale e tecniche virologiche;  
+13) micologia medica;  
+14) epidemiologia delle malattie infettive.  
+4° Anno:  
+15) batteriologia speciale II;  
+16) sierologia;  
+17) microbiologia degli alimenti;  
+18) microbiologia dell'ambiente;  
+19) protozoologia medica.  
+  
+SECONDO BIENNIO  
+(indirizzo in tecniche microbiologiche)  
+  
+3° Anno:  
+10) azione patogena dei microrganismi;  
+11) tecniche batteriologiche e batteriologia speciale I;  
+12) micologia generale e tecniche micologiche;  
+13) tecniche virologiche e virologia speciale;  
+14) protozoologia.  
+4° Anno:  
+15) tecniche batteriologiche e batteriologia speciale II;  
+16) microbiologia industriale;  
+17) esame microbiologico dell'ambiente;  
+18) controllo microbiologico degli ambienti;  
+19) tecniche sierologiche.  
+Il direttore puo' stabilire, per un piu' proficuo conseguimento dei fini della scuola, che siano tenuti corsi complementari di conferenze su materie ed argomenti che abbiano attinenza o affinita' con gli insegnamenti impartiti nella scuola.  
+Art. 186. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.  
+Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale, l'esame e' sostenuto alla fine dei corsi medesimi. L'esame di diploma constera' di una discussione sopra una tesi scritta.  
+A coloro che abbiano superato l'esame finale viene rilasciato un diploma di specialista in microbiologia, e, per i non laureati in medicina e chirurgia, un diploma di specialista in microbiologia, con indirizzo tecnico.  
+
+Art. 6
+------
+
   
   
+Il secondo comma dell'art. 190 della scuola di specializzazione in chirurgia pediatrica di cui al [decreto del Presidente della Repubblica 18 febbraio 1978, n. 507](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-02-18;507), e soppresso e sostituito dal seguente:   
+Art. 190, secondo comma. - Il numero massimo degli allievi e' di venti iscritti per l'intero corso di studi. L'ammissione al corso avviene per titoli ed esami.   
+
+Art. 7
+------
+
   
   
-Non si puo' essere ammessi a Se non si e' superato  
-sostenere l'esame di: l'esame di:  
+Dopo l'art. 186, e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi alla istituzione della seguente scuola di specializzazione;   
   
-Fisiologia umana e dell'apparato Istituzioni di anatomia  
-stomatologico umana normale e del-  
-Patologia generale l'apparato stomatognatico  
-Biologia generale applicata  
-agli studi medici  
-Chimica  
-Fisica medica  
+Scuola di specializzazione in biochimica e chimica clinica   
   
-Patologia speciale medica Fisiologia umana e dell'appa-  
-e metodologia clinica rato stomatognatico  
-(compresa la pediatria)  
-Patologia speciale chirurgica Patologia generale  
-e propedeutica clinica  
+Art. 187. - La scuola di specializzazione in biochimica e chimica clinica ha lo scopo di poter offrire una migliore qualificazione scientifica professionale a coloro che intendono dedicarsi alle discipline biochimiche con indirizzo medico-biologico.   
+Alla scuola, che ha la durata di tre anni, possono essere ammessi i laureati in medicina e chirurgia.   
+Il numero complessivo di specializzandi da ammettere alla scuola e' fissato in quarantacinque allievi ripartiti in quindici allievi per anno. L'ammissione alla scuola avviene per titoli ed esami.   
+La direzione della scuola viene assunta da un professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in mancanza, da un professore di ruolo o fuori ruolo di materia affine.   
+Art. 188. - Gli insegnamenti impartiti nei tre anni saranno i seguenti:   
   
-Clinica odontostomatologica Patologia speciale medica e  
-metodologia clinica  
-(compresa la pediatria)  
-Chirurgia speciale odonto-  
-stomatologica  
-Istituzioni di anatomia e  
-istologia patologica  
-Patologia speciale chirurgica  
-e propedeutica clinica  
-Patologia speciale odonto-  
-stomatologica  
+INSEGNAMENTI FONDAMENTALI   
   
+1° Anno:   
+1) biologia generale e speciale;   
+2) biologia molecolare;   
+3) biochimica analitica;   
+4) biometria.   
+2° Anno:   
+1) chimica clinica;   
+2) biochimica patologica;   
+3) enzimologia clinica;   
+4) biochimica dinamica.   
+3° Anno:   
+1) biochimica dei tessuti e degli organi;   
+2) biochimica ormonale;   
+3) biochimica farmacologica;   
+4) tossicologia.   
   
-Art. 79. - Per essere ammessi a sostenere l'esame di laurea in odontoiatria e protesi dentaria lo studente deve avere seguito i corsi ed aver superato gli esami in tutti gli insegnamenti fondamentali ed almeno in due insegnamenti scelti fra i complementari ed avere, inoltre, seguito le prescritte esercitazioni cliniche, i tirocini pratici ed averne conseguito le relative attestazioni.   
-L'esame di laurea consiste nella discussione di una tesi scritta su argomenti di odontostomatologia da richiedere almeno all'inizio dell'ultimo anno di corso.   
-L'esercizio della professione consegue all'esame di Stato.   
+INSEGNAMENTI COMPLEMENTARI   
+  
+1) elementi di ematologia;   
+2) complementi di istologia patologica;   
+3) immunochimica;   
+4) igiene applicata al laboratorio di analisi chimico-cliniche;   
+5) elementi di legislazione sanitaria;   
+6) elementi di anatomia e fisiopatologia;   
+7) biofisica applicata con elementi di elettronica.   
+Art. 189. - Ogni materia di insegnamento e' anche materia d'esame il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo.   
+Per ottenere il diploma di specializzazione in biochimica e chimica clinica gli allievi devono superare quindi tutte le materie e almeno tre materie complementari (una per anno) scelte fra quelle indicate all'art. 188.   
+Alla fine dei tre anni gli allievi devono presentare una tesi scritta su tema concordato con il direttore della scuola e sostenere un esame di diploma. I candidati non riconosciuti idonei possono ripresentarsi dopo un altro anno di frequenza alla scuola.   
+A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista in biochimica e chimica clinica.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 settembre 1980
+### Dato a Roma, addi' 20 giugno 1980
 
-p. Il Presidente della Repubblica Il Presidente del Senato FANFANI SARTI
+PERTINI SARTI
 
 Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 21 ottobre 1980
+Registrato alla Corte dei conti, addi' 8 ottobre 1980
 
-Registro n. 96 Istruzione, foglio n. 258
+Registro n. 92 Istruzione, foglio n. 138

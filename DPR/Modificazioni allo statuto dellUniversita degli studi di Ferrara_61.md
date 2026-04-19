@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1966 n. 457
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 946
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1966 n. 457
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 946
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 -------------------------------------------------------------------
@@ -18,11 +18,9 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -32,165 +30,142 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 30. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di: "Chirurgia pediatrica".
+Gli articoli da 124 a 129, relativi alla "Scuola di perfezionamento in diagnostica di laboratorio" che muta denominazione in quella di "Scuola di specializzazione per medici laboratoristi", sono abrogati e sostituiti dai seguenti:
 
-Art. 86. - All'elenco degli insegnamenti del 1° e 2° anno della Scuola di perfezionamento in Clinica pediatrica sono aggiunti i seguenti:
+Scuola di specializzazione per medici laboratoristi
 
-1° anno:
+Art. 124. - La scuola di specializzazione per medici laboratoristi ha lo scopo di preparare sul piano scientifico e tecnico i medici che intendono dedicarsi particolarmente alle analisi di laboratorio applicate alla clinica e rilascia il diploma di "specialista in analisi cliniche di laboratorio".
 
-8) Semeiotica pediatrica I;
+Possono essere ammessi i laureati in medicina e chirurgia.
 
-9) Assistenza sociale all'infanzia.
+Art. 125. - Il corso ha la durata di tre anni ed ha luogo negli istituti di chimica biologica e di microbiologia, ovvero in loro mancanza presso gli istituti ove le suddette cattedre hanno sede.
 
-2° anno:
+Art. 126. - Gli iscritti al primo anno non potranno superare il numero di 15 con un numero complessivo nei tre anni di 45. Nel caso di domande eccedenti, la selezione verra' effettuata mediante concorso con norme che verranno precisate nel manifesto annuale.
 
-5) Semeiotica pediatrica II;
+Art. 127. - La direzione della scuola viene assunta dai professori di ruolo di chimica biologica e di microbiologia.
 
-6) Igiene e legislazione sanitaria scolastica II.
+Art. 128. - Gli insegnamenti impartiti dalla scuola sono distribuiti nei tre anni come segue:
 
-Dopo l'art. 107 sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in Clinica otorinolaringoiatrica, annessa alla Facolta' di medicina e chirurgia.
+1° Anno:
 
-Scuola di specializzazione in Clinica otorinolaringoiatrica
+1) fisiologia;
 
-Art. 108. - La Scuola di specializzazione in Clinica otorinolaringoiatrica ha sede presso la Clinica otorinolaringoiatrica ed ha la durata di tre anni. Direttore della Scuola e' il direttore della Clinica otorinolaringoiatrica stessa.
+2) patologia generale;
 
-Art. 109. - Le materie di insegnamento sono le seguenti:
+3) chimica biologica generale;
 
-1° anno:
+4) batteriologia generale;
 
-1) Anatomia otorinolaringoiatrica;
+5) nozioni di igiene applicate al laboratorio di analisi cliniche;
 
-2) Fisiologia otorinolaringoiatrica;
+6) tecnica dei prelevamenti;
 
-3) Semeiotica otorinolaringoiatrica;
+7) tecnica di laboratorio.
 
-4) Anatomia patologica delle malattie dell'orecchio, naso e gola;
+2° Anno:
 
-5) Clinica otorinolaringoiatrica I.
+8) batteriologia speciale;
 
-2° anno:
+9) chimica biologica applicata;
 
-1) Audiologia;
+10) fisico-chimica biologica;
 
-2) Otoneurologia;
+11) parassitologia e tecniche relative;
 
-3) Foniatria;
+12) micologia.
 
-4) Medicina operatoria otorinolaringoiatrica;
+3° Anno:
 
-5) Broncoesofacologia;
+13) nozioni di statistica biologica;
 
-6) Clinica otorinolaringoiatrica II.
+14) nozioni di immunochimica applicata;
 
-3° anno:
+15) virologia e tecniche relative;
 
-1) Radiologia otorinolaringoiatrica;
+16) microscopia clinica;
 
-2) Allergologia;
+17) immunologia e tecniche relative;
 
-3) Anestesiologia in otorinolaringologia;
+18) identificazione di tracce biologiche;
 
-4) Medicina legale e infortunistica otorinolaringoiatrica;
+19) tecniche ematologiche di laboratorio.
 
-5) Clinica otorinolaringoiatrica III.
-
-E' insegnamento fondamentale la Clinica otorinolaringoiatrica e complementare tutti gli altri.
-
-Art. 110. - Possono iscriversi alla Scuola i laureati in Medicina e chirurgia nel numero massimo di 10 (dieci) per ogni anno.
-
-Ogni anno di corso comporta periodi di internato obbligatorio nella Clinica otorinolaringoiatrica, secondo modalita' stabilite dal direttore della Scuola.
-
-Art. 111. - Alla fine di ogni anno di corso gli iscritti dovranno sostenere un colloquio su tutti gli insegnamenti complementari, in gruppo di materie, che dovra' precedere l'esame fondamentale del rispettivo corso.
-
-Non potranno accedere ai corsi successivi gli iscritti che non abbiano superato l'esame della materia fondamentale di ciascun anno.
-
-Alla fine del corso il candidato dovra' presentare e discutere una tesi scritta sull'argomento che gli sara' assegnato dal direttore della Scuola.
+Art. 129. - Alla fine di ciascun anno scolastico gli specializzandi dovranno sostenere un esame di profitto, il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo e, per quelli che sono iscritti all'ultimo anno, per poter accedere all'esame di diploma. Alla fine del terzo anno del corso ha luogo l'esame di diploma consistente nella preparazione e discussione di una dissertazione scritta su un argomento previamente concordato tra il diplomando e il direttore della scuola.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 13 maggio 1966
+Dato a Roma, addi' 31 ottobre 1975
 
-SARAGAT
+LEONE
 
-GUI
+MALFATTI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BONIFACIO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 24 giugno 1966 Atti del Governo, registro n. 203, foglio n. 168. - VILLA
+alla Corte dei conti, addi' 30 marzo 1976 Atti di Governo, registro n. 4, foglio n. 48
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
+Decreta:   
+Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Gli articoli da 124 a 129, relativi alla "Scuola di perfezionamento in diagnostica di laboratorio" che muta denominazione in quella di "Scuola di specializzazione per medici laboratoristi", sono abrogati e sostituiti dai seguenti:   
   
-Decreta:  
+Scuola di specializzazione per medici laboratoristi   
   
-Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 30. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di: "Chirurgia pediatrica".  
-Art. 86. - All'elenco degli insegnamenti del 1° e 2° anno della Scuola di perfezionamento in Clinica pediatrica sono aggiunti i seguenti:  
-  
-1° anno:  
-8) Semeiotica pediatrica I;  
-9) Assistenza sociale all'infanzia.  
-2° anno:  
-5) Semeiotica pediatrica II;  
-6) Igiene e legislazione sanitaria scolastica II.  
-  
-Dopo l'art. 107 sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in Clinica otorinolaringoiatrica, annessa alla Facolta' di medicina e chirurgia.  
-Scuola di specializzazione in Clinica otorinolaringoiatrica  
-Art. 108. - La Scuola di specializzazione in Clinica otorinolaringoiatrica ha sede presso la Clinica otorinolaringoiatrica ed ha la durata di tre anni. Direttore della Scuola e' il direttore della Clinica otorinolaringoiatrica stessa.  
-Art. 109. - Le materie di insegnamento sono le seguenti:  
-  
-1° anno:  
-1) Anatomia otorinolaringoiatrica;  
-2) Fisiologia otorinolaringoiatrica;  
-3) Semeiotica otorinolaringoiatrica;  
-4) Anatomia patologica delle malattie dell'orecchio, naso e gola;  
-5) Clinica otorinolaringoiatrica I.  
-2° anno:  
-1) Audiologia;  
-2) Otoneurologia;  
-3) Foniatria;  
-4) Medicina operatoria otorinolaringoiatrica;  
-5) Broncoesofacologia;  
-6) Clinica otorinolaringoiatrica II.  
-3° anno:  
-1) Radiologia otorinolaringoiatrica;  
-2) Allergologia;  
-3) Anestesiologia in otorinolaringologia;  
-4) Medicina legale e infortunistica otorinolaringoiatrica;  
-5) Clinica otorinolaringoiatrica III.  
-  
-E' insegnamento fondamentale la Clinica otorinolaringoiatrica e complementare tutti gli altri.  
-Art. 110. - Possono iscriversi alla Scuola i laureati in Medicina e chirurgia nel numero massimo di 10 (dieci) per ogni anno.  
-Ogni anno di corso comporta periodi di internato obbligatorio nella Clinica otorinolaringoiatrica, secondo modalita' stabilite dal direttore della Scuola.  
-Art. 111. - Alla fine di ogni anno di corso gli iscritti dovranno sostenere un colloquio su tutti gli insegnamenti complementari, in gruppo di materie, che dovra' precedere l'esame fondamentale del rispettivo corso.  
-Non potranno accedere ai corsi successivi gli iscritti che non abbiano superato l'esame della materia fondamentale di ciascun anno.  
-Alla fine del corso il candidato dovra' presentare e discutere una tesi scritta sull'argomento che gli sara' assegnato dal direttore della Scuola.  
+Art. 124. - La scuola di specializzazione per medici laboratoristi ha lo scopo di preparare sul piano scientifico e tecnico i medici che intendono dedicarsi particolarmente alle analisi di laboratorio applicate alla clinica e rilascia il diploma di "specialista in analisi cliniche di laboratorio".   
+Possono essere ammessi i laureati in medicina e chirurgia.   
+Art. 125. - Il corso ha la durata di tre anni ed ha luogo negli istituti di chimica biologica e di microbiologia, ovvero in loro mancanza presso gli istituti ove le suddette cattedre hanno sede.   
+Art. 126. - Gli iscritti al primo anno non potranno superare il numero di 15 con un numero complessivo nei tre anni di 45. Nel caso di domande eccedenti, la selezione verra' effettuata mediante concorso con norme che verranno precisate nel manifesto annuale.   
+Art. 127. - La direzione della scuola viene assunta dai professori di ruolo di chimica biologica e di microbiologia.   
+Art. 128. - Gli insegnamenti impartiti dalla scuola sono distribuiti nei tre anni come segue:   
+1° Anno:   
+1) fisiologia;   
+2) patologia generale;   
+3) chimica biologica generale;   
+4) batteriologia generale;   
+5) nozioni di igiene applicate al laboratorio di analisi cliniche;   
+6) tecnica dei prelevamenti;   
+7) tecnica di laboratorio.   
+2° Anno:   
+8) batteriologia speciale;   
+9) chimica biologica applicata;   
+10) fisico-chimica biologica;   
+11) parassitologia e tecniche relative;   
+12) micologia.   
+3° Anno:   
+13) nozioni di statistica biologica;   
+14) nozioni di immunochimica applicata;   
+15) virologia e tecniche relative;   
+16) microscopia clinica;   
+17) immunologia e tecniche relative;   
+18) identificazione di tracce biologiche;   
+19) tecniche ematologiche di laboratorio.   
+Art. 129. - Alla fine di ciascun anno scolastico gli specializzandi dovranno sostenere un esame di profitto, il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo e, per quelli che sono iscritti all'ultimo anno, per poter accedere all'esame di diploma. Alla fine del terzo anno del corso ha luogo l'esame di diploma consistente nella preparazione e discussione di una dissertazione scritta su un argomento previamente concordato tra il diplomando e il direttore della scuola.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 maggio 1966
+### Dato a Roma, addi' 31 ottobre 1975
 
-SARAGAT GUI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 24 giugno 1966
+Registrato alla Corte dei conti, addi' 30 marzo 1976
 
-Atti del Governo, registro n. 203, foglio n. 168. - VILLA
+Atti di Governo, registro n. 4, foglio n. 48

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1952 n. 440
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 novembre 1952 n. 4509
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1952 n. 440
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 novembre 1952 n. 4509
+================================================================
 
 Autorizzazione all'Universita' di Napoli ad accettare una donazione.
 --------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-440. Decreto del Presidente della Repubblica 2 febbraio 1952, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Napoli viene autorizzata ad accettare la donazione della somma di L. 302.436, depositate su libretto di risparmio del Banco di Napoli e da convertirsi in titoli di Stato 5%, disposta in suo favore dal rag. Italo Forti, con atto pubblico amministrativo in data 11 giugno 1951, per l'istituzione di una borsa di studio, da denominarsi "Borsa di studio Emilio Scaglione" e da conferirsi, ogni due anni, alla migliore tesi di laurea in discipline storiche, svolta nel biennio precedente al bando di concorso, da un laureato della Facolta' di lettere e filosofia dell'Universita' medesima che sia bisognoso e figlio di giornalista di professione dell'Italia meridionale.  
+4509. Decreto del Presidente della Repubblica 2 novembre 1952, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Napoli viene autorizzata ad accettare la donazione di lire 30.000 in contanti, disposta in suo favore dal professore Luigi Auricchio, a nome e per conto del personale insegnante della Scuola di specializzazione in pediatria e del personale sanitario della clinica pediatrica, con atto pubblico amministrativo in data 8 giugno 1951, per l'istituzione di un premio di studio da intitolarsi "Premio dott. Giovanni Fiordelisi" e da conferirsi, ogni cinque anni, ad uno specializzato nel quinquennio in pediatria presso l'Universita' di Napoli, il quale abbia svolto la migliore tesi in detta specializzazione.  
   
 Visto, il Guardasigilli: ZOLI  
-Registrato alla Corte dei conti, addi' 23 aprile 1952  
-Atti del Governo, registro n. 53, foglio n. 7. - FRASCA
+Registrato alla Corte dei conti, addi' 5 marzo 1953  
+Atti del Governo, registro n. 75, foglio n. 56. - PALLA

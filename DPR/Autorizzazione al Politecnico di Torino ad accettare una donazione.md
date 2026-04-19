@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1950 n. 250
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 marzo 1948 n. 353
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1950 n. 250
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 marzo 1948 n. 353
 ============================================================
 
 Autorizzazione al Politecnico di Torino ad accettare una donazione.
@@ -12,7 +12,7 @@ Art. 1
 
 N.
 
-250. Decreto del Presidente della Repubblica 13 marzo 1950, col quale, sulla proposta del Ministro per la pubblica istruzione, il Politecnico di Torino viene autorizzato ad accettare dal comune di Torino un'area sita nella zona dell'ex Stadio, per la costruzione della nuova sede.  
+353. Decreto del Presidente della Repubblica 5 marzo 1948, col quale, sulla proposta del Ministro per la pubblica istruzione, il Politecnico di Torino viene autorizzato ad accettare la donazione della somma di L. 200.000 nominali, in buoni del Tesoro novennali 4% a premi 1951, disposta in suo favore dai signori col. Pompeo Flamia, avv. Giordano Lorenzo, Crema Carlo, geometra Garelli Felice e dott. Cappelletto Francesco, con atto pubblico in data 7 marzo 1946, per l'istituzione di un premio di studio annuale da denominarsi "Premio di studio generale Perotti ing. Giuseppe, medaglia d'oro".  
   
-Visto, il Guardasigilli: PICCIONI  
-Registrato alla Corte dei conti, addi' 22 maggio 1950
+Visto, il Guardasigilli: GRASSI  
+Registrato alla Corte dei conti, addi' 16 aprile 1948

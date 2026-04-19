@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1986 n. 476
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 913
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1986 n. 476
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 913
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Napoli.
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 14 ottobre 1926, n. 2090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2090), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -39,22 +39,19 @@ Articolo unico
 --------------
 
   
-  
-Nell'art. 22, relativo al corso di laurea in giurisprudenza, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:   
-legislazione minorile.   
+Nell'art. 66, relativo al corso di laurea in scienze politiche, all'elenco delle materie a scelta dello studente per l'indirizzo politico-sociale e' aggiunto il seguente nuovo insegnamento:  
+geografia urbana e regionale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 maggio 1986
+### Dato a Roma, addi' 16 giugno 1983
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 19 luglio 1986
+Registrato alla Corte dei conti, addi' 30 gennaio 1984
 
-Registro n. 58 Istruzione, foglio n. 283
+Registro n. 4 Istruzione, foglio n. 384

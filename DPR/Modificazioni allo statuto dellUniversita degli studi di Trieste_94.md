@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1974 n. 675
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 settembre 1962 n. 1540
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1974 n. 675
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 settembre 1962 n. 1540
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 -------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836);
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -30,112 +30,212 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-L'art. 125, relativo alla scuola di specializzazione in radiologia, e' abrogato e sostituito dal seguente:
+Dopo l'art. 100, sono aggiunti i seguenti nuovi articoli relativi all'istituzione della Scuola speciale di lingue moderne per traduttori ed interpreti di conferenze annessa alla Facolta' di economia e commercio.
 
-Scuola di specializzazione in radiologia
+Scuola di lingue moderne per traduttori ed interpreti di conferenze (Scuola diretta fini speciali)
 
-(con indirizzo di "Radiologia diagnostica")
+Art. 101. - Nella Facolta' di economia e commercio e' istituita una "Scuola di lingue moderne per traduttori e interpreti di conferenze" ai sensi dell'[art. 20, terzo comma, lettera a), del testo unico del 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20-com3-leta).
 
-Art. 125. - La scuola di specializzazione in radiologia e' limitata al solo indirizzo roentgen-diagnostico per cui rilascera' il diploma di specialista in radiologia diagnostica.
+La Scuola si propone:
 
-Il corso d'insegnamento ha la durata di 3 anni.
+a) di preparare gli allievi alla sicura e piena conoscenza delle lingue straniere moderne;
 
-Gli insegnamenti sono i seguenti:
+b) di fornire la specializzazione linguistica occorrente all'esercizio delle professioni di traduttore e di interprete.
 
-a) Matematica, fisica, nozioni di statistica e di informatica (annuale) comprendente:
+Art. 102. - La Scuola ha sede presso l'Universita' degli studi di Trieste e gode di autonomia agli effetti puramente amministrativi e didattici.
 
-1) richiami di matematica e fisica generale;
+I proventi della Scuola sono costituiti dalle tasse scolastiche, dal contributo annuo stanziato dal Consiglio di amministrazione dell'Universita' degli studi di Trieste e dagli eventuali contributi dello Stato, di enti pubblici e di privati. La Scuola ha un proprio bilancio che viene approvato dal Consiglio di amministrazione dell'Universita' quelle allegato del bilancio universitario.
 
-2) costituzione della materia;
+Art. 103. - La Scuola ha un proprio Consiglio di amministrazione, nominato dal rettore dell'Universita' e formato:
 
-3) produzione, assorbimento e misura delle radiazioni;
+a) dal direttore della Scuola, che lo presiede;
 
-4) statistica applicata alla medicina;
+b) da quattro professori di ruolo dell'Universita', di cui tre designati dal Consiglio della facolta' di economia e commercio e uno dal Consiglio della Facolta' di lettere e filosofia;
 
-5) informatica e cibernetica applicata alla radiologia;
+c) da due rappresentanti degli enti o istituti finanziatori interessati al funzionamento della Scuola da essi designati.
 
-b) Radiodiagnostica (triennale) comprendente:
+Il Consiglio dura in carica tre anni ed i suoi membri sono rieleggibili.
 
-1) principi generali di radiodiagnostica;
+Art. 104. - Il Consiglio di amministrazione della Scuola:
 
-2) apparecchi, strumenti e tecnica radiodiagnostica;
+a) delibera le proposte di bilancio preventivo e consuntivo da sottoporre all'approvazione del Consiglio di amministrazione dell'Universita';
 
-3) tecnica e fisiologia applicata alla radiodiagnostica;
+b) delibera tutte le proposte aventi effetti finanziari, relative alla Scuola, da sottoporre all'approvazione del Consiglio di amministrazione dell'Universita';
 
-4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;
+c) propone al Consiglio di amministrazione della, Universita', su parere del Consiglio dei professori della Scuola, l'istituzione di nuovi corsi di lingue in aggiunta o in sostituzione di quelli esistenti;
 
-5) semeiotica radiologica;
+d) propone al Consiglio di amministrazione della Universita' il numero massimo degli studenti da ammettere al primo anno dei corsi per traduttori e interpreti di conferenze, da scegliere in base ai risultati degli esami di ammissione;
 
-6) diagnostica differenziale radiologica;
+e) approva il regolamento interno su proposta del Consiglio dei professori della Scuola.
 
-7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;
+Art. 105. - Il Consiglio dei professori della Scuola e' composto dal direttore, "che lo presiede, e dai professori ufficiali della Scuola.
 
-8) dimostrazioni di casistica clinica;
+Il Consiglio delibera su tutte le proposte di natura, didattica o disciplinare relative alla Scuola.
 
-c) Radiobiologia (annuale) comprendente:
+Il Consiglio della scuola deve riunirsi ogni anno entro il mese di ottobre per esaminare, coordinare e approvare i programmi dei corsi e per deliberare l'orario delle lezioni. Il Consiglio determina annualmente i corsi di esercitazioni della Scuola che gli studenti della Facolta' di economia e commercio e delle altre Facolta' possono frequentare ad integrazione degli insegnamenti di lingue e letterature straniere moderne impartiti nell'Universita'. I programmi approvati e l'orario devono essere pubblicati all'inizio delle lezioni. Di massima sono impartite per ogni anno di corso non meno di quindici ore settimanali complessive d'insegnamento, comprese le esercitazioni.
 
-1) radiobiologia generale;
+Art. 106. - Il direttore della Scuola e' il preside della Facolta' di economia e commercio.
 
-2) danni da radiazioni e radiopatie;
+Il Consiglio dei professori della Scuola, su proposta del direttore, puo' nominare un vice-direttore scelto tra i docenti della Scuola. Il direttore ha la rappresentanza e la direzione della Scuola e ne assicura la disciplina.
 
-d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:
+Art. 107. - Il personale insegnante della Scuola e' nominato dal Consiglio di amministrazione dell'Universita', su proposta del Consiglio della Facolta' di economia e commercio e del Consiglio di amministrazione della Scuola, per la durata di un anno, fra i professori ufficiali liberi docenti, assistenti lettori universitari.
 
-1) legislazione sanitaria applicata alla radiologia;
+Per ogni lingua straniera, il corso di traduzione dallo italiano e' affidata ad un lettore straniero; mentre il corso di traduzione in italiano e' affidato ad un lettore italiano. In casi eccezionali l'insegnamento di speciali materie potra' essere affidato a persone estranee all'insegnamento universitario ma di sicura e riconosciuta competenza tecnica.
 
-2) compiti e responsabilita' medico-legali del radiologo;
+Art. 108. - Gli uffici di amministrazione e di segreteria dell'Universita' funzionano da uffici di amministrazione e di segreteria della Scuola.
 
-3) radioprotezione fisica e dosimetria ad essa connessa;
+Art. 109. La durata del corso degli studi per il conseguimento del diploma di e traduttore interprete" e' di un triennio.
 
-4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;
+Dopo due anni; di corso ed il superamento dei prescritti esami di profitto, la Scuola rilascia un attestato di "traduttore corrispondente a, per la lingua fondamentale, con menzione della lingua complementare, Dopo un ulteriore anno di corso, il superamento dei prescritti esami di profitto e degli esami finali, Scuola rilascia il diploma di "traduttore-interprete" per la lingua fondamentale, con menzione della lingua complementare ed eventualmente anche di quella facoltativa.
 
-5) radioprotezione chimica;
+Ai candidati che nelle prove finale avranno raggiunto una media complessiva di nove decimi dei voti di cui la Commissione esaminatrice dispone viene rilasciato il diploma con la specificazione di "interprete di conferenze".
 
-6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.
+Art. 110. Le lingue straniere insegnate sono la francese, l'inglese, la spagnola e la tedesca.
 
-I singoli insegnamenti, tenuti da uno o piu' docenti, a seconda di quanto opportuno al loro migliore svolgimento, sono cosi' distribuiti nei tre anni di corso:
+La Scuola puo', pero', istituire corsi di altre lingue straniere moderne in aggiunta o in sostituzione ai corsi predetti e corsi per traduttori o interpreti di conferenze di lingua italiana per stranieri.
 
-1° Anno:
+Per ogni corso gli studenti prescelgono, tra quelle sopra indicate e le altre che eventualmente venissero successivamente insegnate, una lingua straniera fondamentale ed una complementare. Gli studenti del terzo anno di corso possono facoltativamente scegliere una seconda lingua complementare.
 
-Matematica, fisica, nozioni di statistica ed informatica;
+Art. 111. - Ai corsi di lingue della Scuola sono ammessi gli studenti in possesso di un titolo finale di studio di scuola media superiore, valido per l'iscrizione ad una Facolta' universitaria.
 
-Radiobiologia;
+L'iscrizione ai corsi per traduttori ed interpreti di di ammissione col quali i candidati devono dimostrare di possedere una buona conoscenza della lingua scelta quale fondamentale.
 
-Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;
+Tale esame comprende un dettato, una traduzione in italiano ed una traduzione dell'italiano, senza l'ausilio di dizionari o vocabolari.
 
-Radiodiagnostica (I).
+I candidati di madrelingua diversa dall'italiana devono anche superare un colloquio in lingua italiana.
 
-2° Anno:
+Coloro che non ottengono un giudizio positivo non possono essere ammessi ai corsi e potranno eventualmente ripetere la prova solo nell'anno successivo.
 
-Radiodiagnostica (II).
+L'esame di ammissione ha luogo in un'unica sessione nel mese di ottobre e costituisce prova di accertamento ed ha effetto soltanto ai fini dell'iscrizione ai corsi di lingue della Scuola; non e' da considerarsi titolo di studio, ne' da' diritto ad attestazioni di alcun genere.
 
-3° Anno:
+Art. 112. - L'insegnamento e' svolto in corsi di lezioni cattedratiche e di esercitazioni scritte e orali.
 
-Radiodiagnostica (III).
+Durante il terzo anno di corso possono essere organizzate speciali esercitazioni pubbliche per gli allievi interpreti, sotto il controllo di docenti della Scuola e di interpreti qualificati, in occasione di congressi internazionali in Italia o all'estero.
 
-Per essere ammessi all'esame di diploma in radiologia diagnostica gli iscritti, oltre ad aver compiuto un congruo periodo di internato, devono aver superato un esame su ciascuna materia di insegnamento ed elaborata una tesi scritta su di un argomento radiologico concordato con il direttore della scuola.
+Le lezioni regolari cominciano nella seconda meta' di ottobre e terminano alla fine di maggio. La frequenza degli studenti alle lezioni ed alle esercitazioni e' obbligatoria, ed e' comprovata dalle attestazioni trimestrali dei docenti sul libretto d'iscrizione.
+
+A tale fine gli studenti debbono presentare il libretto ai professori per le firme rispettivamente all'inizio dei mesi di dicembre, marzo e, maggio di ciascun anno Nel corso dell'anno accademico allo scadere del primo e del secondo trimestre (in dicembre ed in marzo) vengono effettuate delle prove che hanno lo scopo di controllare il profitto dei singoli studenti.
+
+Lo studente al quale siano state negate le attestazioni di frequenza ad una materia non e' ammesso al relativo esame ed ha l'obbligo di ripetere l'iscrizione all'anno di corso per la materia stessa.
+
+Art. 113. - Per ogni corso di lingue e' previsto il seguente piano di studio obbligatorio:
+
+1° anno:
+
+Lingua straniera fondamentale I con esercitazioni pratiche;
+
+Traduzione dall'italiano nella lingua fondamentale I; Traduzione in italiano dalla lingua fondamentale I; Nozioni di cultura generale I (sui Paesi in cui e' praticata la lingua fondamentale); Lingua straniera complementare I; Lingua italiana I: Corrispondenza commerciale italiana..
+
+2° anno:
+
+Lingua straniera fondamentale II con esercitazioni pratiche:
+
+Traduzione dall'italiano nella lingua fondamentale II: Traduzione in italiano dalla lingua fondamentale: Lingua straniera complementare II; Lingua italiana II.
+
+3° anno:
+
+Lingua straniera fondamentale III con esercitazioni pratiche:
+
+Traduzione dall'italiano nella lingua fondamentale III: Traduzione dall'italiano dalla lingua fondamentale III: Interpretazione consecutiva; Interpretazione simultanea: Lingua straniera complementare III: Lingua italiana III: Geografia politica ed astronomica: Organizzazioni internazionali.
+
+Tutti gli insegnamenti biennali e trimestrali comportano l'esame alla fine di ciascun corso annuale dovendosi il primo corso considerare come propeduetico al secondo ed il secondo al terzo.
+
+Oltre ai predetti insegnamenti, la Scuola puo' istituire corsi monografici ed organizzare cicli di conferenze i cui argomenti possono essere oggetto di esame.
+
+Art. 114. - L'insegnamento impartito presso la Scuola deve essere integrato da quello delle Facolta' dell'Universita'.
+
+Durante i tre anni di corso gli studenti hanno l'obbligo della frequenza e degli esami di tre insegnamenti, consigliati dalla Scuola tra quelli a carattere istituzionale impartiti nelle Facolta' dell'Universita', allo scopo di apprendere cognizioni fondamentali attinenti all'indirizzo degli studi della specializzazione linguistica.
+
+Art. 115. - Gli esami di profitto si svolgono in un unico appello nelle sessioni estiva ed autunnale, al termine di ciascun corso annuale. Gli esami; finali di interprete si svolgono nella sessione autunnale e le prove orali di detti esami sono pubbliche.
+
+L'approvazione si consegue con i sei decimi dei voti.
+
+Art. 116. - Le Commissioni d'esame sono nominate dal direttore Scuola e sono costituite da tre membri per gli esami di ammissione e di profitto: da sette membri per gli esami finali di interprete. Ogni membro dispone di dieci punti.
+
+Per gli esami finali di interprete, oltre ai professori dell'Universita' ed ai docenti dei corsi, possono essere invitati a fare parte della Commissione anche interpreti ed esponenti di organizzazioni internazionali, di particolare riconosciuta esperienza.
+
+Art. 117. - Per ottenere l'iscrizione al terzo anno di corso, gli studenti dovranno aver seguito i corsi e superato gli esami di tutti gli insegnamenti fissati per il primo ed il secondo anno di corso.
+
+Per tutte le prove scritte previste per i tre anni di corso non e' concesso l'uso di dizionari o vocabolari di alcuni genere.
+
+Art. 118. - Superati tutti gli esami di profitto del terzo anno di corso, gli studenti possono presentarsi alla prima parte dell'esame finale che comprende la discussione orale nelle lingue studiate di tre traduzioni specializzate, preventivamente eseguite dal candidato su argomenti concordati con i professori:
+
+1) dalla lingua straniera fondamentale in italiane;
+
+2) dall'italiano nella lingua straniera fondamentale;
+
+3) dalla lingua straniera complementare in italiano.
+
+Superata la prima parte dell'esame finale, i candidati sono ammessi alla seconda parte, che comprende le seguenti prove pratiche orali:
+
+1) relazione nella lingua straniera fondamentale su un tema proposto dalla Commissione e sorteggiato tre giorni prima;
+
+2) interpretazione consecutiva della lingua straniera fondamentale in italiano;
+
+3) interpretazione consecutiva dall'italiano nella lingua straniera fondamentale;
+
+4) interpretazione consecutiva dalla lingua straniera complementare in italiano;
+
+5) interpretazione simultanea dalla lingua straniera fondamentale in italiano;
+
+6) interpretazione simultanea dall'italiano nella lingua straniera fondamentale;
+
+7) interpretazione simultanea dalla lingua straniera complementare in italiano;
+
+8) relazione in lingua italiana su un tema proposto dalla Commissione e sorteggiato tre giorni prima.
+
+Art. 119. - Coloro i quali abbiano compiuto il corso degli studi senza conseguire l'attestato di traduttore o il diploma di interprete, e che, per qualsiasi motivo, abbiano interrotto gli studi stessi, qualora intendano esercitare i diritti derivanti dalla iscrizione, sono tenuti a chiedere ogni anno la ricognizione della loro qualita' di studenti.
+
+Art. 120. - A giudizio del Consiglio dei professori, puo' essere concessa l'abbreviazione degli studi, con dispensa dalla frequenza e dagli esami di singoli insegnamenti o di anni di corso, e previ eventuali esami integrativi, a coloro che:
+
+a) avendo gia' conseguito l'attestato di traduttore o il diploma di interprete per una lingua fondamentale, intendano iscriversi nuovamente alla Scuola per conseguire l'attestato o il diploma in una diversa lingua;
+
+b) siano in possesso di titoli di studio di specializzazione linguistica conseguiti presso Universita' o Istituti superiori italiani o straniere e riconosciuti validi dal Consiglio dei professori della Scuola;
+
+c) essendo stranieri, chiedano di seguire i corsi per conseguire gli attestati per la propria madrelingua.
+
+In ogni caso i candidati devono possedere il titolo finale di scuola media superiore valido per l'iscrizione ad una Facolta' universitaria.
+
+Art. 121. - Le tasse per l'iscrizione ai corsi e gli eventuali contributi sono deliberati dal Consiglio di amministrazione dell'Universita', su proposta del Consiglio di amministrazione della Scuola.
+
+La tassa di diploma e' fissata in lire 6000, a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).
+
+Art. 122. - Agli studenti meritevoli e di condizioni economiche non agiate, regolarmente iscritti ai corsi della Scuola, puo' essere concessa l'assistenza scolastica sotto forma di borse, premi ed assegni di studio per il pagamento delle tasse scolastiche e per i viaggi all'estero, da parte dell'Opera dell'Universita'.
+
+Per questo scopo all'Opera dell'Universita' sono devoluti:
+
+a) il 15% del gettito delle tasse versate dagli studenti iscritti ai corsi;
+
+b) le eventuali elargizioni di enti e privati a favore dell'assistenza scolastica agli studenti della Scuola.
+
+Il numero, l'ammontare e le condizioni di assegnazione delle borse, dei premi e degli assegni di studio sono annualmente comunicati agli studenti con apposito bando.
+
+Art. 123. - La Scuola puo' avere un regolamento da approvarsi dal Consiglio di amministrazione della Scuola stessa su proposta del Consiglio dei professori.
+
+Art. 124. - Coloro che abbiano conseguito gli attestati di traduttore e di interprete rilasciati dal preesistente Istituto di lingue straniere moderne potranno ottenere il corrispondente attestato o diploma della Scuola alle condizioni e nei modi previsti dall'art. 20.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 29 ottobre 1974
+Dato a Roma, addi' 7 settembre 1962
 
-LEONE
+SEGNI
 
-MALFATTI
+GUI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: BOSCO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 7 dicembre 1974 Atti di Governo, registro n. 7, foglio n. 82. - SCIARRETTA
+alla Corte dei conti, addi' ottobre 1962 Atti del Governo, registro n. 159, foglio n. 85. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
@@ -146,66 +246,111 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Dopo l'art. 100, sono aggiunti i seguenti nuovi articoli relativi all'istituzione della Scuola speciale di lingue moderne per traduttori ed interpreti di conferenze annessa alla Facolta' di economia e commercio.  
   
-L'art. 125, relativo alla scuola di specializzazione in radiologia, e' abrogato e sostituito dal seguente:  
+Scuola di lingue moderne per traduttori ed interpreti di conferenze (Scuola diretta fini speciali)  
   
-Scuola di specializzazione in radiologia  
-(con indirizzo di "Radiologia diagnostica")  
-  
-Art. 125. - La scuola di specializzazione in radiologia e' limitata al solo indirizzo roentgen-diagnostico per cui rilascera' il diploma di specialista in radiologia diagnostica.  
-Il corso d'insegnamento ha la durata di 3 anni.  
-Gli insegnamenti sono i seguenti:  
-a) Matematica, fisica, nozioni di statistica e di informatica (annuale) comprendente:  
-1) richiami di matematica e fisica generale;  
-2) costituzione della materia;  
-3) produzione, assorbimento e misura delle radiazioni;  
-4) statistica applicata alla medicina;  
-5) informatica e cibernetica applicata alla radiologia;  
-b) Radiodiagnostica (triennale) comprendente:  
-1) principi generali di radiodiagnostica;  
-2) apparecchi, strumenti e tecnica radiodiagnostica;  
-3) tecnica e fisiologia applicata alla radiodiagnostica;  
-4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;  
-5) semeiotica radiologica;  
-6) diagnostica differenziale radiologica;  
-7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;  
-8) dimostrazioni di casistica clinica;  
-c) Radiobiologia (annuale) comprendente:  
-1) radiobiologia generale;  
-2) danni da radiazioni e radiopatie;  
-d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:  
-1) legislazione sanitaria applicata alla radiologia;  
-2) compiti e responsabilita' medico-legali del radiologo;  
-3) radioprotezione fisica e dosimetria ad essa connessa;  
-4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;  
-5) radioprotezione chimica;  
-6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.  
-I singoli insegnamenti, tenuti da uno o piu' docenti, a seconda di quanto opportuno al loro migliore svolgimento, sono cosi' distribuiti nei tre anni di corso:  
-  
-1° Anno:  
-Matematica, fisica, nozioni di statistica ed informatica;  
-Radiobiologia;  
-Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;  
-Radiodiagnostica (I).  
-  
-2° Anno:  
-Radiodiagnostica (II).  
-  
-3° Anno:  
-Radiodiagnostica (III).  
-  
-Per essere ammessi all'esame di diploma in radiologia diagnostica gli iscritti, oltre ad aver compiuto un congruo periodo di internato, devono aver superato un esame su ciascuna materia di insegnamento ed elaborata una tesi scritta su di un argomento radiologico concordato con il direttore della scuola.  
+Art. 101. - Nella Facolta' di economia e commercio e' istituita una "Scuola di lingue moderne per traduttori e interpreti di conferenze" ai sensi dell'[art. 20, terzo comma, lettera a), del testo unico del 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20-com3-leta).  
+La Scuola si propone:  
+a) di preparare gli allievi alla sicura e piena conoscenza delle lingue straniere moderne;  
+b) di fornire la specializzazione linguistica occorrente all'esercizio delle professioni di traduttore e di interprete.  
+Art. 102. - La Scuola ha sede presso l'Universita' degli studi di Trieste e gode di autonomia agli effetti puramente amministrativi e didattici.  
+I proventi della Scuola sono costituiti dalle tasse scolastiche, dal contributo annuo stanziato dal Consiglio di amministrazione dell'Universita' degli studi di Trieste e dagli eventuali contributi dello Stato, di enti pubblici e di privati. La Scuola ha un proprio bilancio che viene approvato dal Consiglio di amministrazione dell'Universita' quelle allegato del bilancio universitario.  
+Art. 103. - La Scuola ha un proprio Consiglio di amministrazione, nominato dal rettore dell'Universita' e formato:  
+a) dal direttore della Scuola, che lo presiede;  
+b) da quattro professori di ruolo dell'Universita', di cui tre designati dal Consiglio della facolta' di economia e commercio e uno dal Consiglio della Facolta' di lettere e filosofia;  
+c) da due rappresentanti degli enti o istituti finanziatori interessati al funzionamento della Scuola da essi designati.  
+Il Consiglio dura in carica tre anni ed i suoi membri sono rieleggibili.  
+Art. 104. - Il Consiglio di amministrazione della Scuola:  
+a) delibera le proposte di bilancio preventivo e consuntivo da sottoporre all'approvazione del Consiglio di amministrazione dell'Universita';  
+b) delibera tutte le proposte aventi effetti finanziari, relative alla Scuola, da sottoporre all'approvazione del Consiglio di amministrazione dell'Universita';  
+c) propone al Consiglio di amministrazione della, Universita', su parere del Consiglio dei professori della Scuola, l'istituzione di nuovi corsi di lingue in aggiunta o in sostituzione di quelli esistenti;  
+d) propone al Consiglio di amministrazione della Universita' il numero massimo degli studenti da ammettere al primo anno dei corsi per traduttori e interpreti di conferenze, da scegliere in base ai risultati degli esami di ammissione;  
+e) approva il regolamento interno su proposta del Consiglio dei professori della Scuola.  
+Art. 105. - Il Consiglio dei professori della Scuola e' composto dal direttore, "che lo presiede, e dai professori ufficiali della Scuola.  
+Il Consiglio delibera su tutte le proposte di natura, didattica o disciplinare relative alla Scuola.  
+Il Consiglio della scuola deve riunirsi ogni anno entro il mese di ottobre per esaminare, coordinare e approvare i programmi dei corsi e per deliberare l'orario delle lezioni. Il Consiglio determina annualmente i corsi di esercitazioni della Scuola che gli studenti della Facolta' di economia e commercio e delle altre Facolta' possono frequentare ad integrazione degli insegnamenti di lingue e letterature straniere moderne impartiti nell'Universita'. I programmi approvati e l'orario devono essere pubblicati all'inizio delle lezioni. Di massima sono impartite per ogni anno di corso non meno di quindici ore settimanali complessive d'insegnamento, comprese le esercitazioni.  
+Art. 106. - Il direttore della Scuola e' il preside della Facolta' di economia e commercio.  
+Il Consiglio dei professori della Scuola, su proposta del direttore, puo' nominare un vice-direttore scelto tra i docenti della Scuola. Il direttore ha la rappresentanza e la direzione della Scuola e ne assicura la disciplina.  
+Art. 107. - Il personale insegnante della Scuola e' nominato dal Consiglio di amministrazione dell'Universita', su proposta del Consiglio della Facolta' di economia e commercio e del Consiglio di amministrazione della Scuola, per la durata di un anno, fra i professori ufficiali liberi docenti, assistenti lettori universitari.  
+Per ogni lingua straniera, il corso di traduzione dallo italiano e' affidata ad un lettore straniero; mentre il corso di traduzione in italiano e' affidato ad un lettore italiano. In casi eccezionali l'insegnamento di speciali materie potra' essere affidato a persone estranee all'insegnamento universitario ma di sicura e riconosciuta competenza tecnica.  
+Art. 108. - Gli uffici di amministrazione e di segreteria dell'Universita' funzionano da uffici di amministrazione e di segreteria della Scuola.  
+Art. 109. La durata del corso degli studi per il conseguimento del diploma di e traduttore interprete" e' di un triennio.  
+Dopo due anni; di corso ed il superamento dei prescritti esami di profitto, la Scuola rilascia un attestato di "traduttore corrispondente a, per la lingua fondamentale, con menzione della lingua complementare, Dopo un ulteriore anno di corso, il superamento dei prescritti esami di profitto e degli esami finali, Scuola rilascia il diploma di "traduttore-interprete" per la lingua fondamentale, con menzione della lingua complementare ed eventualmente anche di quella facoltativa.  
+Ai candidati che nelle prove finale avranno raggiunto una media complessiva di nove decimi dei voti di cui la Commissione esaminatrice dispone viene rilasciato il diploma con la specificazione di "interprete di conferenze".  
+Art. 110. Le lingue straniere insegnate sono la francese, l'inglese, la spagnola e la tedesca.  
+La Scuola puo', pero', istituire corsi di altre lingue straniere moderne in aggiunta o in sostituzione ai corsi predetti e corsi per traduttori o interpreti di conferenze di lingua italiana per stranieri.  
+Per ogni corso gli studenti prescelgono, tra quelle sopra indicate e le altre che eventualmente venissero successivamente insegnate, una lingua straniera fondamentale ed una complementare. Gli studenti del terzo anno di corso possono facoltativamente scegliere una seconda lingua complementare.  
+Art. 111. - Ai corsi di lingue della Scuola sono ammessi gli studenti in possesso di un titolo finale di studio di scuola media superiore, valido per l'iscrizione ad una Facolta' universitaria.  
+L'iscrizione ai corsi per traduttori ed interpreti di di ammissione col quali i candidati devono dimostrare di possedere una buona conoscenza della lingua scelta quale fondamentale.  
+Tale esame comprende un dettato, una traduzione in italiano ed una traduzione dell'italiano, senza l'ausilio di dizionari o vocabolari.  
+I candidati di madrelingua diversa dall'italiana devono anche superare un colloquio in lingua italiana.  
+Coloro che non ottengono un giudizio positivo non possono essere ammessi ai corsi e potranno eventualmente ripetere la prova solo nell'anno successivo.  
+L'esame di ammissione ha luogo in un'unica sessione nel mese di ottobre e costituisce prova di accertamento ed ha effetto soltanto ai fini dell'iscrizione ai corsi di lingue della Scuola; non e' da considerarsi titolo di studio, ne' da' diritto ad attestazioni di alcun genere.  
+Art. 112. - L'insegnamento e' svolto in corsi di lezioni cattedratiche e di esercitazioni scritte e orali.  
+Durante il terzo anno di corso possono essere organizzate speciali esercitazioni pubbliche per gli allievi interpreti, sotto il controllo di docenti della Scuola e di interpreti qualificati, in occasione di congressi internazionali in Italia o all'estero.  
+Le lezioni regolari cominciano nella seconda meta' di ottobre e terminano alla fine di maggio. La frequenza degli studenti alle lezioni ed alle esercitazioni e' obbligatoria, ed e' comprovata dalle attestazioni trimestrali dei docenti sul libretto d'iscrizione.  
+A tale fine gli studenti debbono presentare il libretto ai professori per le firme rispettivamente all'inizio dei mesi di dicembre, marzo e, maggio di ciascun anno Nel corso dell'anno accademico allo scadere del primo e del secondo trimestre (in dicembre ed in marzo) vengono effettuate delle prove che hanno lo scopo di controllare il profitto dei singoli studenti.  
+Lo studente al quale siano state negate le attestazioni di frequenza ad una materia non e' ammesso al relativo esame ed ha l'obbligo di ripetere l'iscrizione all'anno di corso per la materia stessa.  
+Art. 113. - Per ogni corso di lingue e' previsto il seguente piano di studio obbligatorio:  
+1° anno:  
+Lingua straniera fondamentale I con esercitazioni pratiche;  
+Traduzione dall'italiano nella lingua fondamentale I; Traduzione in italiano dalla lingua fondamentale I; Nozioni di cultura generale I (sui Paesi in cui e' praticata la lingua fondamentale); Lingua straniera complementare I; Lingua italiana I: Corrispondenza commerciale italiana..  
+2° anno:  
+Lingua straniera fondamentale II con esercitazioni pratiche:  
+Traduzione dall'italiano nella lingua fondamentale II: Traduzione in italiano dalla lingua fondamentale: Lingua straniera complementare II; Lingua italiana II.  
+3° anno:  
+Lingua straniera fondamentale III con esercitazioni pratiche:  
+Traduzione dall'italiano nella lingua fondamentale III: Traduzione dall'italiano dalla lingua fondamentale III: Interpretazione consecutiva; Interpretazione simultanea: Lingua straniera complementare III: Lingua italiana III: Geografia politica ed astronomica: Organizzazioni internazionali.  
+Tutti gli insegnamenti biennali e trimestrali comportano l'esame alla fine di ciascun corso annuale dovendosi il primo corso considerare come propeduetico al secondo ed il secondo al terzo.  
+Oltre ai predetti insegnamenti, la Scuola puo' istituire corsi monografici ed organizzare cicli di conferenze i cui argomenti possono essere oggetto di esame.  
+Art. 114. - L'insegnamento impartito presso la Scuola deve essere integrato da quello delle Facolta' dell'Universita'.  
+Durante i tre anni di corso gli studenti hanno l'obbligo della frequenza e degli esami di tre insegnamenti, consigliati dalla Scuola tra quelli a carattere istituzionale impartiti nelle Facolta' dell'Universita', allo scopo di apprendere cognizioni fondamentali attinenti all'indirizzo degli studi della specializzazione linguistica.  
+Art. 115. - Gli esami di profitto si svolgono in un unico appello nelle sessioni estiva ed autunnale, al termine di ciascun corso annuale. Gli esami; finali di interprete si svolgono nella sessione autunnale e le prove orali di detti esami sono pubbliche.  
+L'approvazione si consegue con i sei decimi dei voti.  
+Art. 116. - Le Commissioni d'esame sono nominate dal direttore Scuola e sono costituite da tre membri per gli esami di ammissione e di profitto: da sette membri per gli esami finali di interprete. Ogni membro dispone di dieci punti.  
+Per gli esami finali di interprete, oltre ai professori dell'Universita' ed ai docenti dei corsi, possono essere invitati a fare parte della Commissione anche interpreti ed esponenti di organizzazioni internazionali, di particolare riconosciuta esperienza.  
+Art. 117. - Per ottenere l'iscrizione al terzo anno di corso, gli studenti dovranno aver seguito i corsi e superato gli esami di tutti gli insegnamenti fissati per il primo ed il secondo anno di corso.  
+Per tutte le prove scritte previste per i tre anni di corso non e' concesso l'uso di dizionari o vocabolari di alcuni genere.  
+Art. 118. - Superati tutti gli esami di profitto del terzo anno di corso, gli studenti possono presentarsi alla prima parte dell'esame finale che comprende la discussione orale nelle lingue studiate di tre traduzioni specializzate, preventivamente eseguite dal candidato su argomenti concordati con i professori:  
+1) dalla lingua straniera fondamentale in italiane;  
+2) dall'italiano nella lingua straniera fondamentale;  
+3) dalla lingua straniera complementare in italiano.  
+Superata la prima parte dell'esame finale, i candidati sono ammessi alla seconda parte, che comprende le seguenti prove pratiche orali:  
+1) relazione nella lingua straniera fondamentale su un tema proposto dalla Commissione e sorteggiato tre giorni prima;  
+2) interpretazione consecutiva della lingua straniera fondamentale in italiano;  
+3) interpretazione consecutiva dall'italiano nella lingua straniera fondamentale;  
+4) interpretazione consecutiva dalla lingua straniera complementare in italiano;  
+5) interpretazione simultanea dalla lingua straniera fondamentale in italiano;  
+6) interpretazione simultanea dall'italiano nella lingua straniera fondamentale;  
+7) interpretazione simultanea dalla lingua straniera complementare in italiano;  
+8) relazione in lingua italiana su un tema proposto dalla Commissione e sorteggiato tre giorni prima.  
+Art. 119. - Coloro i quali abbiano compiuto il corso degli studi senza conseguire l'attestato di traduttore o il diploma di interprete, e che, per qualsiasi motivo, abbiano interrotto gli studi stessi, qualora intendano esercitare i diritti derivanti dalla iscrizione, sono tenuti a chiedere ogni anno la ricognizione della loro qualita' di studenti.  
+Art. 120. - A giudizio del Consiglio dei professori, puo' essere concessa l'abbreviazione degli studi, con dispensa dalla frequenza e dagli esami di singoli insegnamenti o di anni di corso, e previ eventuali esami integrativi, a coloro che:  
+a) avendo gia' conseguito l'attestato di traduttore o il diploma di interprete per una lingua fondamentale, intendano iscriversi nuovamente alla Scuola per conseguire l'attestato o il diploma in una diversa lingua;  
+b) siano in possesso di titoli di studio di specializzazione linguistica conseguiti presso Universita' o Istituti superiori italiani o straniere e riconosciuti validi dal Consiglio dei professori della Scuola;  
+c) essendo stranieri, chiedano di seguire i corsi per conseguire gli attestati per la propria madrelingua.  
+In ogni caso i candidati devono possedere il titolo finale di scuola media superiore valido per l'iscrizione ad una Facolta' universitaria.  
+Art. 121. - Le tasse per l'iscrizione ai corsi e gli eventuali contributi sono deliberati dal Consiglio di amministrazione dell'Universita', su proposta del Consiglio di amministrazione della Scuola.  
+La tassa di diploma e' fissata in lire 6000, a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).  
+Art. 122. - Agli studenti meritevoli e di condizioni economiche non agiate, regolarmente iscritti ai corsi della Scuola, puo' essere concessa l'assistenza scolastica sotto forma di borse, premi ed assegni di studio per il pagamento delle tasse scolastiche e per i viaggi all'estero, da parte dell'Opera dell'Universita'.  
+Per questo scopo all'Opera dell'Universita' sono devoluti:  
+a) il 15% del gettito delle tasse versate dagli studenti iscritti ai corsi;  
+b) le eventuali elargizioni di enti e privati a favore dell'assistenza scolastica agli studenti della Scuola.  
+Il numero, l'ammontare e le condizioni di assegnazione delle borse, dei premi e degli assegni di studio sono annualmente comunicati agli studenti con apposito bando.  
+Art. 123. - La Scuola puo' avere un regolamento da approvarsi dal Consiglio di amministrazione della Scuola stessa su proposta del Consiglio dei professori.  
+Art. 124. - Coloro che abbiano conseguito gli attestati di traduttore e di interprete rilasciati dal preesistente Istituto di lingue straniere moderne potranno ottenere il corrispondente attestato o diploma della Scuola alle condizioni e nei modi previsti dall'art. 20.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 ottobre 1974
+### Dato a Roma, addi' 7 settembre 1962
 
-LEONE MALFATTI
+SEGNI GUI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 7 dicembre 1974
+Registrato alla Corte dei conti, addi' ottobre 1962
 
-Atti di Governo, registro n. 7, foglio n. 82. - SCIARRETTA
+Atti del Governo, registro n. 159, foglio n. 85. - VILLA

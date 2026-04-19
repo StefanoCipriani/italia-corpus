@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1983 n. 1205
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 1216
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1983 n. 1205
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 1216
 ==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Messina.
@@ -39,17 +39,15 @@ Articolo unico
 --------------
 
   
-Nell'art. 51, relativo al corso di laurea in lettere, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-filologia ed esegesi neotestamentaria;  
-filologia greca;  
-religioni del mondo classico;  
-letteratura bizantina.  
+Nell'art. 98, relativo al corso di laurea in chimica, all'elenco degli insegnamenti complementari per l'indirizzo inorganico chimico fisico sono aggiunti i seguenti nuovi insegnamenti:  
+meccanismi di reazione in chimica inorganica;  
+esercitazioni di tecniche e sintesi speciali inorganiche.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 maggio 1983
+### Dato a Roma, addi' 16 giugno 1983
 
 PERTINI FALCUCCI
 
@@ -57,4 +55,4 @@ Visto, il Guardasigilli: MARTINAZZOLI
 
 Registrato alla Corte dei conti, addi' 28 aprile 1984
 
-Registro n. 25 Istruzione, foglio n. 179
+Registro n. 25 Istruzione, foglio n. 191

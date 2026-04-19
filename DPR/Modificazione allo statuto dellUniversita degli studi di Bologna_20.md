@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 gennaio 1984 n. 288
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 921
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 gennaio 1984 n. 288
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 921
 ==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Bologna.
@@ -22,11 +22,11 @@ Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?u
 
 Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio universitario nazionale nel suo parere;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
 
-Sentito il parere del Consiglio universitario nazionale;
+Veduto il parere del Consiglio universitario nazionale;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
@@ -40,20 +40,30 @@ Articolo unico
 
   
   
-Nell'art. 105, relativo al corso di laurea in matematica, sono aggiunti i seguenti nuovi insegnamenti complementari:   
-calcolo numerico e programmazione;   
-teoria dei grafi.   
+Nell'art. 116, relativo al corso di laurea in scienze naturali della facolta' di scienze matematiche, fisiche e naturali, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:   
   
+genetica quantitativa.   
 
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dal decreto della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+((1))
 
-### Dato a Roma, addi' 20 gennaio 1984
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-PERTINI FALCUCCI
+### Dato a Roma, addi' 31 ottobre 1985
+
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 26 giugno 1984
+Registrato alla Corte dei conti, addi' 14 febbraio 1986
 
-Registro n. 39 Istruzione, loglio n. 43
+Registro n. 9 Istruzione, foglio n. 123
+
+---------------
+
+AGGIORNAMENTO (1)
+
+Il D.P.R. 9 marzo 1987 (in G.U. 23/10/1987, n. 248) ha disposto (con l'art. 1, comma 1) che "Nell'art. 118, relativo al corso di laurea in scienze biologiche della facolta' di scienze matematiche, fisiche e naturali dell'Universita' degli studi di Bologna, anziche' nell'art. 116, all'elenco degli insegnamenti complementari e aggiunto il seguente nuovo insegnamento:   
+genetica quantitativa".

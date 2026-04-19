@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1950 n. 1293
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 marzo 1958 n. 334
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1950 n. 1293
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 marzo 1958 n. 334
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -10,36 +10,36 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con i [regi decreti 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169); [31 ottobre 1929, n. 2481](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2481); [30 ottobre 1930, n. 1858](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1858); [22 ottobre 1931, n. 1422](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-22;1422); [27 ottobre 1932, n. 2082](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-10-27;2082); [13 dicembre 1934, n. 2404](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-12-13;2404); [1 ottobre 1936, n. 2020](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;2020); [13 luglio 1939, n. 1168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-07-13;1168); [26 ottobre 1940, n. 2029](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2029); [24 ottobre 1942, numero 1785; e decreto Presidenziale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1785) [21 aprile 1949, numero 451](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-21;451);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifica allo statuto formulate dalle Autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successivi;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i vari decreti sopra indicati, e' cosi' modificato:  
-Cap. VI - Alla fine di detto capitolo, dopo l'art. 54, e' aggiunto il seguente nuovo articolo, con lo spostamento della numerazione degli articoli successivi:  
-Art. 55. - "Gli istituti della Facolta' di lettere e filosofia sono:  
-1) "Istituto di filologia classica";  
-2) "Istituto di storia dell'arte".  
-Ciascun Istituto ha locali, attrezzatura e biblioteca propri.  
-Il direttore dell'Istituto e' nominato annualmente dal preside della Facolta' tra i professori delle relative discipline".  
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 52. - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di:   
+"Lingua e letteratura portoghese".   
+Art. 56. - Agli insegnamenti complementari del corso di laurea in filosofia e' aggiunto quello di:   
+"Filosofia della scienza".   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1950
+### Dato a Roma, addi' 5 marzo 1958
 
-EINAUDI GONELLA
+GRONCHI MORO
 
-Visto, il Guardasigilli: PICCIONI
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 31 maggio 1951
+Registrato alla Corte dei conti, addi' 11 aprile 1958
 
-Atti del Governo, registro n. 39, foglio n. 76. - CARLOMAGNO
+Atti del Governo, registro n. 112, foglio n. 13. - DI PRETORO

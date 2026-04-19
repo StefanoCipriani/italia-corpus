@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1985 n. 619
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 agosto 1982 n. 785
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1985 n. 619
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 agosto 1982 n. 785
 =============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-619. Decreto del Presidente della Repubblica 16 luglio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in un appartamento sito in Parma, viale Rustici n. 42, distinto nel nuovo catasto edilizio urbano alla partita 5217, foglio 17, mappale 170 sub. 6, valore attribuito con perizia di parte L. 33.000.000 elevato dall'ufficio tecnico erariale di Parma a L. 39.000.000, disposto dalla sig.ra Giuseppina Carpi a favore dell'istituto don Gnocchi, via Saffi (che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale del consiglio di amministrazione della fondazione medesima in data 20 novembre 1981), con testamento olografo 25 agosto 1980, pubblicato in data 20 giugno 1981, n. 97910/11356 di repertorio, a rogito dott.  
-Giuseppe Marchi, notaio in Parma, registrato a Parma in data 1 luglio 1981 al n. 4813.   
+785. Decreto del Presidente della Repubblica 2 agosto 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di lire 1.000.000, disposto dalla sig.ra Razzetti Renata vedova Romei a favore dell'"Istituto don Gnocchi" di Torino, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale del consiglio di amministrazione della fondazione suddetta in data 3 dicembre 1977, con testamento olografo 26 luglio 1973, pubblicato a rogito dott. Nazzareno Dobici, notaio in Roma, il 22 luglio 1976, n. 820624 di repertorio e n. 25889 di rogito, registrato a Roma il 23 luglio 1976 al n. 6803.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 25 ottobre 1985   
-Registro n. 9 Presidenza, foglio n. 215
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 21 ottobre 1982  
+Registro n. 9 Presidenza, foglio n. 247

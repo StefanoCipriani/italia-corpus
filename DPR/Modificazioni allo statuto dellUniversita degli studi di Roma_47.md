@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1973 n. 924
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1147
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1973 n. 924
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1147
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
@@ -10,102 +10,134 @@ Modificazioni allo statuto dell'Universita' degli studi di Roma.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte:  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli Studi di Roma, approvato con [regio decreto 20 aprile 1939, numero 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 66 - all'elenco degli insegnamenti complementari del corso di laurea in materie letterarie e' aggiunto il seguente:   
   
-Art. 81, relativo all'elenco degli istituti annessi alla facolta' di medicina e chirurgia, e' modificato nel senso che l'"Istituto di I clinica delle malattie infettive" cambia la denominazione in "Istituto di III clinica medica generale e terapia medica".  
+Storia della lingua francese.   
+Art. 68 - all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere e' aggiunto il seguente:   
   
-Art. 82, relativo all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia, e' modificato nel senso che l'insegnamento di "tisiologia" muta la denominazione in quella di "tisiologia e malattie dell'apparato respiratorio". Poiche' la cattedra di tisiologia e' coperta da un professore di ruolo, il professor Giuseppe Daddi, il suddetto professore viene trasferito nella, cattedra di nuova denominazione.  
+Storia della lingua francese.   
+Art. 81 - all'elenco degli istituti annessi alla facolta' di medicina e chirurgia e' aggiunto il seguente:   
   
-Gli articoli da 775 a 784, relativi al, corso di perfezionamento in "ingegneria nucleare" sono abrogati e sostituiti dai seguenti:  
+Museo di storia della medicina.   
+L'art. 88, relativo all'elenco degli istituti annessi alla facolta' di scienze matematiche, fisiche e naturali e' abrogato e sostituito dal seguente:   
+La facolta' comprende i seguenti istituti:   
+1) istituto di chimica generale ed inorganica;   
+2) istituto di chimica analitica;   
+3) istituto di chimica fisica;   
+4) istituto di chimica organica;   
+5) istituto di fisica;   
+6) istituto di antropologia;   
+7) istituto di mineralogia e petrografia, suddiviso nei laboratori di: mineralogia e petrografia;   
+8) istituto di geologia e paleontologia, suddiviso nei laboratori di: geologia e paleontologia;   
+9) istituto di anatomia comparata;   
+10) istituto di zoologia "Federico Raffaele";   
+11) istituto di fisiologia generale;   
+12) istituto di botanica;   
+13) osservatorio astronomico;   
+14) istituto di matematica con annessi laboratori di:   
+a) analisi matematica e numerica;   
+b) geometria;   
+c) meccanica e fisica matematica;   
+d) calcolo delle probabilita';   
+15) istituto di geochimica;   
+16) istituto di scienza dell'alimentazione;   
+17) istituto di genetica;   
+18) istituto di istologia ed embriologia;   
+19) istituto dell'orto botanico.   
+La facolta' dispone inoltre di un servizio generale chimico cui sono assegnati servizi di comune interesse dei quattro istituti di chimica. La natura di tali servizi e' stabilita dalla facolta'. Il servizio generale chimico dispone di personale non docente ed e' retto da un consiglio costituito da un direttore e quattro membri rappresentanti dei quattro istituti di chimica, nominati dal rettore su proposta della facolta', il direttore tra i professori di ruolo dei quattro istituti e gli altri membri tra i professori di ruolo e gli assistenti di ruolo. Il direttore e i consiglieri durano in carica due anni e possono essere confermati per un altro biennio.   
+L'art. 141, relativo agli esami del corso di laurea in architettura e' modificato nel senso che il secondo periodo del secondo comma e' abrogato e sostituito dal seguente:   
+"L'insegnamento di tecnologia dell'architettura ha durata biennale e comporta un unico esame al termine del secondo corso".   
+L'art. 142, relativo alla propedeuticita' degli esami e' modificato nel senso che la propedeuticita' relativa agli esami di "tecnologia dell'architettura I, composizione architettonica II, statica" nei confronti dell'esame di "tecnologia dell'architettura II" e' soppressa.   
+Dopo l'art. 741 e con lo spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola speciale per terapisti della riabilitazione dell'apparato motore, annessa alla facolta' di medicina e chirurgia.   
+Scuola speciale per terapisti della riabilitazione dell'apparato motore   
+Art. 742. - La scuola speciale per terapisti della riabilitazione dell'apparato motore ha sede presso la cattedra di terapia fisica nell'istituto di clinica ortopedica e traumatologica dell'Universita' di Roma. La scuola ha la finalita' di preparare personale specializzato nella rieducazione motoria e psico-motoria nelle lesioni dell'apparato locomotore sia nell'eta' evolutiva sia nell'eta' adulta.   
+Art. 743. - Il corso di studi per conseguire il diploma di terapista della riabilitazione dell'apparato motore ha la durata di tre anni e comprende lezioni teoriche ed esercitazioni pratiche. Il 3° anno e' esclusivamente dedicato al tirocinio pratico da effettuarsi presso la sede della scuola e in altri istituti riconosciuti idonei.   
+Art. 744. - La direzione della scuola e' affidata al titolare della cattedra di terapia fisica. Esso e' coadiuvato da un vice-direttore e dal consiglio dei docenti.   
+Art. 745. - Il direttore, il vice-direttore, il consiglio dei docenti, formano il consiglio della scuola. Esso e' nominato dal rettore su designazione del consiglio della facolta' di medicina e chirurgia.   
+Art. 746. - Spetta al consiglio della scuola:   
+1) determinare l'ordine degli studi;   
+2) coordinare ed approvare i programmi dei singoli corsi teorici, dei seminari e dei tirocini pratici;   
+3) stabilire l'orario delle lezioni, dei tirocini pratici ed il diario e le modalita' degli esami sia di profitto che di diploma.   
+Per i problemi di carattere amministrativo il direttore della scuola e' assistito da un apposito comitato composto:   
+a) dallo stesso direttore della scuola che lo presiede;   
+b) dal vice-direttore della scuola che presiede il comitato in caso di assenza o impedimento del direttore;   
+c) dagli altri professori docenti della scuola;   
+d) da rappresentanti degli enti o privati che concorrano alle spese di funzionamento con contributi annui individuali; a tale scopo ciascun ente o privato che concorra con un contributo annuo individuale non inferiore a L. 3.000.000 potra' designare un rappresentante per ogni L. 3.000.000, mentre gli enti o privati che concorrano con minor contributo annuo, purche' non inferiore a L. 500.000, hanno diritto di designare collegialmente propri rappresentanti in ragione di un membro per ogni sei concorrenti.   
+Spetta al comitato amministrativo della scuola:   
+1) proporre al rettore l'ammontare del contributo di laboratorio dovuto dagli allievi;   
+2) determinare i compensi da corrispondere ai docenti e a tutti coloro che prestano la loro opera nella scuola;   
+3) autorizzare ogni altra spesa occorrente al funzionamento della scuola;   
+4) assegnare agli allievi piu' meritevoli le borse di studio che perverranno dagli enti interessati a promuovere la formazione dei terapisti;   
+5) approvare il bilancio interno della scuola.   
+Il direttore della scuola da' esecuzione alle deliberazioni del comitato, conformi al bilancio interno ed alle norme amministrative contenute nella legislazione universitaria.   
+Art. 747. - Possono essere ammessi alla scuola allievi di ambo i sessi di eta' non inferiore ai 18 anni provvisti del titolo di studio prescritto per l'ammissione all'Universita'. L'ammissione e' subordinata ad un colloquio attitudinale che si svolgera' presso la sede della scuola ed in base ai titoli prodotti dal candidato. Per ogni corso saranno ammessi al massimo trenta allievi.   
+Art. 748. - Per l'iscrizione alla scuola e per il versamento dei relativi contributi sono valide le norme previste dalla legge vigente per l'iscrizione ai corsi universitari.   
+Art. 749. - La frequenza ai corsi e' obbligatoria.   
+Art. 750. - Le materie di insegnamento sono:   
+1° Anno:   
+1) anatomia con particolare riguardo al sistema neuro-motorio;   
+2) fisiologia;   
+3) chinesiologia generale;   
+4) psicologia e pedagogia generali;   
+5) biologia;   
+6) patologia generale;   
+7) igiene e profilassi. Prevenzione;   
+8) deontologia - Legislazione sanitaria;   
+9) servizio sociale;   
+10) ortopedia e traumatologia;   
+11) neurologia;   
+12) nozioni di pronto soccorso;   
+13) pediatria e puericultura;   
+14) neuropsichiatria infantile e psicopatologia dell'eta' evolutiva;   
+15) massoterapia;   
+16) reumatologia;   
+17) geriatria.   
+2° Anno:   
+1) terapia fisica;   
+2) chinesiologia e chinesiterapia respiratoria:   
+3) nozioni di terapia del linguaggio;   
+4) metodologia e applicazione della O.T.;   
+5) chinesiterapia e riabilitazione in ortopedia e traumatologia;   
+6) chinesiterapia e riabilitazione in neurologia;   
+7) ludoterapia;   
+8) chinesiterapia e riabilitazione dei cerebropatici infantili;   
+9) riabilitazione in geriatria;   
+10) riabilitazione nella patologia cardiovascolare;   
+11) protesi e tutori.   
+3° Anno:   
   
-Corso di perfezionamento in ingegneria nucleare  
-  
-Art. 775. - Presso la facolta' di ingegneria e' istituito un corso di perfezionamento in "ingegneria nucleare". Il corso si prefigge lo scopo di fornire un panorama aggiornato sui sistemi nucleari per produzione di energia di nuova concezione. Al corso sono affiancati seminari di aggiornamento sulle tecniche relative all'impiego delle radiazioni nucleari.  
-  
-Art. 776. - Il corso di perfezionamento in ingegneria nucleare ha la durata di un anno. Il corso e' diretto da un professore ordinario della facolta' nominato dal rettore su designazione del consiglio di facolta'.  
-Il consiglio del corso e' composto dal direttore e dai docenti degli insegnamenti di cui all'art. 779.  
-  
-Art. 777. - Al corso di perfezionamento in ingegneria nucleare sono ammessi i laureati in ingegneria nucleare.  
-Ai seminari di aggiornamento possono essere ammessi, in accordo con le norme di ammissione, i laureati presso le facolta' di ingegneria, di scienze matematiche, fisiche e naturali e di medicina e chirurgia.  
-Il consiglio del corso delibera tempestivamente l'inizio delle lezioni, il numero massimo degli iscritti e le norme per l'ammissione ai seminari nonche' il numero minimo di iscritti affinche' sia il corso sia i seminari di aggiornamento abbiano luogo.  
-Il consiglio di facolta' potra' sospendere lo svolgimento del corso o dei seminari a partire dall'anno accademico successivo alla deliberazione.  
-  
-Art. 778. - La frequenza ai singoli insegnamenti deve essere attestata dai rispettivi docenti secondo le modalita' stabilite dal consiglio del corso.  
-  
-Art. 779. - Gli insegnamenti impartiti nel corso di perfezionamento in ingegneria nucleare sono i seguenti:  
-1) Complementi di fisica nucleare;  
-2) Complementi di fisica dei plasmi;  
-3) Complementi di termotecnica del reattore;  
-4) Complementi di radioprotezione;  
-5) Complementi di chimica degli impianti nucleari;  
-6) Teoria dei reattori veloci;  
-7) Teoria dei reattori a fusione;  
-8) Ingegneria del reattore;  
-9) Danni da radiazione alle alte fluenze;  
-10) Tecnologie avanzate dei materiali;  
-11) Conversione diretta.  
-  
-I seminari di aggiornamento riguardano uno dei seguenti argomenti:  
-1) Metodi nucleari di analisi e di controllo nella ricerca applicata;  
-2) Sorgenti di radiazione e strumentazione nucleare impiegati nell'industria e nella ricerca applicata.  
-  
-Il primo seminario di aggiornamento e' composto dai seguenti insegnamenti:  
-1a) Fisica nucleare;  
-1b) Tecniche e misure di fisica nucleare;  
-1c) Elementi di dosimetria e protezione dalle radiazioni;  
-1d) Tecniche di analisi non distruttive;  
-1e) Impiego di radioisotopi.  
-  
-Il secondo seminario di aggiornamento e' composto dai seguenti insegnamenti:  
-2a) Generatori di neutroni e macchine acceleratrici nella ricerca applicata;  
-2b) Sorgenti radioisotopiche;  
-2c) Elementi di dosimetria e protezione dalle radiazioni;  
-2d) Tecniche di rivelazione e di analisi delle radiazioni nucleari;  
-2e) Progettazione di schermature.  
-  
-Il consiglio del corso stabilisce la durata di ciascuno degli insegnamenti sopraelencati; stabilisce altresi' quali di essi dovranno essere completati con esercitazioni.  
-Gli insegnamenti potranno venire integrati da conferenze e da visite ad impianti.  
-  
-Art. 780. - E' data facolta' al direttore, all'inizio di ogni anno accademico, di rivedere il programma del corso e dei seminari e, sentito il parere del consiglio, di sottoporre al consiglio della facolta' proposte di variazioni che saranno rese pubbliche soltanto dopo l'approvazione degli organi competenti, ai sensi delle vigenti disposizioni di cui al [testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592).  
-  
-Art. 781. - Gli insegnanti del corso e dei seminari sono proposti dal direttore, che puo' scegliere fra i professori di ruolo, fra i liberi docenti, fra gli aiuti e gli assistenti o anche fra persone di riconosciuta competenza delle rispettive specialita', ovvero giovarsi, per talune materie, di insegnamenti svolti presso altre facolta'. Tali proposte sono subordinate all'approvazione del consiglio di facolta' ed alle nomine provvede il rettore.  
-  
-Art. 782. - Per la validita' del corso di perfezionamento e cioe' per il conseguimento dell'attestato di cui all'art. 783, gli iscritti dovranno superare gli esami in sei degli undici insegnamenti elencati nell'art. 779 e redigere un progetto o uno studio sulle materie di insegnamento prescelto.  
-Il progetto o studio finale verra' discusso alla presenza di una commissione di cinque membri scelti fra i docenti del corso e presieduta dal direttore del corso stesso.  
-  
-Art. 783. - Agli iscritti al corso di perfezionamento che abbiano superato il numero di esami di cui all'articolo 782 ed ottenuta l'idoneita' nel progetto o studio finale viene rilasciato un attestato comprovante la carriera scolastica compiuta.  
-Agli iscritti ai seminari di aggiornamento che abbiano seguito con profitto tutti gli insegnamenti di un seminario di cui all'art. 779 viene rilasciato un attestato di frequenza su proposta di una commissione costituita dai docenti del seminario e presieduta dal direttore del corso.  
-  
-Art. 784. - Gli iscritti al corso ed ai seminari sono tenuti a pagare le seguenti tasse e soprattasse:  
-  
-tassa di immatricolazione. . . . . . . . . . . . . . . . . . L. 5.000 tassa di iscrizione . . . . . . . . . . . . . . . . . . . . L. 18.000 soprattassa annuale per esami di profitto  
-(per gli iscritti al corso). . . . . . . . . . . . . . . . . L. 7.000   
-L'ammontare dei contributi generali e per esercitazioni verra' stabilito dal consiglio di amministrazione della Universita', su proposta del consiglio di facolta', udito il direttore del corso.  
+Tirocinio pratico.   
+Art. 751. - Al termine del primo e del secondo anno gli allievi devono sostenere gli esami inerenti le materie d'insegnamento.   
+Nel terzo anno il tirocinio viene diviso in due fasi.   
+Nella prima, di due mesi, saranno scelte sedi comuni a tutti gli allievi. Nella seconda, di cinque mesi, le sedi saranno scelte dopo un colloquio svolto dagli allievi che indichi le esigenze e requisiti di indirizzo di ulteriore qualificazione professionale.   
+Alla fine del terzo anno gli allievi dovranno discutere una tesi e svolgere una prova pratica che attestino una preparazione adeguata nelle materie oggetto di insegnamento.   
+L'esame di diploma deve essere superato entro cinque anni dalla data di immatricolazione.   
+La votazione minima per il superamento degli esami e' stabilita nel punteggio di 6/10 per ciascuna prova.   
+Per l'esame finale la votazione minima sara' espressa in 18/30. La commissione d'esame e' nominata dal direttore della scuola.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 ottobre 1973
+### Dato a Roma, addi' 31 ottobre 1973
 
-LEONE MALFATTI
+LEONE MALFATTI Visto il Guardasigilli: ZAGARI
 
-Visto, il Guardasigilli: ZAGARI
+Registrato alla Corte dei conti, addi' 26 ottobre 1974
 
-Registrato alla Corte dei conti, addi' 8 gennaio 1974
-
-Atti di Governo, registro n. 1, foglio n. 7. - CARUSO
+Atti di Governo, registro n. 6, foglio n. 36. - CARUSO

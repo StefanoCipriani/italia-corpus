@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 408
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 971
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 408
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 971
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225) e successive modificazioni;
+Veduto lo statuto dell'Universita' di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -39,177 +39,151 @@ Art. 1
 ------
 
   
-Nell'art. 62, concernente il corso di laurea in lettere, nell'elenco degli insegnamenti complementari sono soppressi i seguenti insegnamenti:  
-archeologia cristiana;  
-storia dell'arte del medio e estremo Oriente;  
-storia delle scoperte e delle esplorazioni geografiche;  
-filologia armena;  
-storia del disegno e della grafica.  
-Nel medesimo elenco sono inoltre inseriti i seguenti nuovi insegnamenti:  
-letteratura italiana teatrale;  
-stilistica e metrica;  
-teoria della letteratura;  
-filologia francese;  
-geografia urbana;  
-geografia rurale;  
-storia delle tecniche artistiche;  
-iconografia e iconologia;  
-storia della tradizione manoscritta;  
-storia della lingua latina;  
-didattica del latino;  
-dialettologia greca.  
-Nell'art. 63, concernente il corso di laurea in filosofia, nell'elenco degli insegnamenti complementari sono soppressi i seguenti insegnamenti:  
-storia del Risorgimento;  
-storia del diritto italiano;  
-diplomatica;  
-storia ed istituzioni nord-americane;  
-storia ed istituzioni latino-americane;  
-storia ed istituzioni dell'Africa;  
-storia ed istituzioni dell'Asia;  
-storia ed istituzioni dei paesi arabi;  
-storia delle istituzioni;  
-storia dell'agricoltura;  
-paleografia e diplomatica;  
-storia dell'Europa orientale;  
-filologia biblica.  
-Nel medesimo elenco sono inoltre inseriti i seguenti nuovi insegnamenti:  
-teoria e storia dei sistemi filosofici;  
-storia delle dottrine teologiche;  
-esegesi biblica;  
-storia della storiografia filosofica;  
-filosofia della politica;  
-semiotica.  
-Nell'art. 64, concernente il corso di laurea in lingue e letterature straniere moderne (indirizzo europeo), nell'elenco degli insegnamenti complementari sono inseriti i seguenti nuovi insegnamenti:  
-didattica delle lingue straniere moderne;  
-storia della lingua tedesca;  
-storia della lingua portoghese.  
-Nell'art. 67, concernente il corso di laurea in storia, negli elenchi degli insegnamenti complementari distinti per indirizzi sono inseriti i seguenti nuovi insegnamenti:  
-Indirizzo antico:  
-\* storia del cristianesimo e storia delle origini cristiane;  
-civilta' antiche dell'Italia meridionale;  
-topografia antica;  
-iranistica;  
-filosofia dell'India e dell'Asia orientale;  
-indologia;  
-\* storia delle dottrine economiche;  
-\* storia della scienza e della tecnica.  
-Indirizzo medievale:  
-archeologia e topografia medievali;  
-\* storia delle dottrine economiche;  
-\* storia della scienza e della tecnica.  
-Indirizzo moderno:  
-\* storia delle istituzioni sociali e politiche;  
-\* storia medioevale;  
-\* storia contemporanea;  
-\* demografia storica;  
-\* antropologia sociale;  
-storia della Toscana nell'eta' moderna;  
-\* storia delle dottrine economiche;  
-\* storia della scienza e della tecnica.  
-Indirizzo contemporaneo:  
-storia del movimento operaio e sindacale;  
-storia dei trattati e delle relazioni internazionali;  
-\* storia delle istituzioni sociali e politiche;  
-\* storia medioevale;  
-\* storia moderna;  
-antropologia sociale;  
-storia dell'Italia post-unitaria;  
-geografia applicata;  
-\* storia delle dottrine economiche;  
-\* storia della scienza e della tecnica;  
-demografia storica.  
-Il testo dell'art. 71, concernente norme per il conseguimento del diploma di laurea, e' soppresso e sostituito come segue:  
-"Art. 71. - La dissertazione per il conseguimento della laurea in lettere deve riferirsi a discipline letterarie, storiche e geografiche; quella per il conseguimento della laurea in filosofia, a discipline filosofiche e storiche; quella per il conseguimento della laurea in lingue e letterature straniere moderne (indirizzo europeo), a discipline linguistiche e/o letterarie".  
-Gli articoli 73, 74, 75 e 76, concernenti un seminario, annesso alla facolta' di lettere e filosofia, sono soppressi.  
+Nell'art. 88, relativo al corso di laurea in chimica, all'elenco degli insegnamenti complementari per l'indirizzo organico-biologico, sono aggiunti i seguenti insegnamenti:  
+chimica fisica delle interfasi;  
+complementi di chimica fisica;  
+chimica organica teorica;  
+chimica fisica dei polimeri;  
+chimica fisica industriale;  
+chimica colloidale;  
+esercitazioni di tecniche e sintesi speciali organiche;  
+complementi di chimica organica;  
+chimica degli intermedi;  
+chimica analitica clinica;  
+chimica e tecnologia della catalisi;  
+chimica e tecnologia degli alti polimeri;  
+petrolchimica e tecnologia dei prodotti petroliferi;  
+chimica organica applicata;  
+dispositivi e apparecchiature di misura chimica e chimica fisica; complementi di chimica inorganica;  
+chimica inorganica applicata;  
+meccanismi di reazione in chimica inorganica.  
+Nello stesso articolo, all'elenco degli insegnamenti complementari per l'indirizzo inorganico-chimico-fisico, sono aggiunti i seguenti insegnamenti:  
+chimica fisica delle interfasi;  
+complementi di chimica fisica;  
+chimica organica teorica;  
+chimica fisica dei polimeri;  
+chimica fisica industriale;  
+chimica colloidale;  
+esercitazioni di tecniche e sintesi speciali organiche;  
+complementi di chimica organica;  
+chimica degli intermedi;  
+chimica analitica clinica;  
+chimica e tecnologia della catalisi;  
+chimica e tecnologia degli alti polimeri;  
+petrolchimica e tecnologia dei prodotti petroliferi;  
+chimica organica applicata;  
+dispositivi ed apparecchiature di misura chimica e chimica fisica;  
+complementi di chimica inorganica;  
+chimica inorganica applicata;  
+meccanismi di reazione in chimica inorganica.  
 
 Art. 2
 ------
 
   
-  
-  
-Nell'art. 57, concernente il corso di laurea in lingue e letterature straniere, nell'elenco degli insegnamenti complementari sono soppressi i seguenti insegnamenti:   
-sociologia;   
-storia del teatro;   
-storia della letteratura latina medioevale;   
-biblioteconomia e bibliografia;   
-lingue e letterature celtiche;   
-lingua e letteratura anglosassone;   
-estetica.   
-Nel medesimo elenco: l'insegnamento di "lingua e letteratura ispano americana" muta la denominazione in quella di "letteratura ispano americana"; l'insegnamento di "lingua e letteratura cecoslovacca" e' scisso nei due insegnamenti di "lingua e letteratura ceca" e "lingua e letteratura slovacca"; sono, inoltre, inseriti i seguenti nuovi insegnamenti:   
-storia della cultura inglese;   
-storia della cultura francese;   
-storia della cultura russa;   
-storia della cultura nord-americana;   
-storia della lingua tedesca;   
-storia della lingua russa;   
-letteratura inglese contemporanea;   
-letteratura francese contemporanea;   
-letteratura tedesca contemporanea;   
-letteratura russa contemporanea;   
-letteratura portoghese contemporanea;   
-linguistica slava;   
-linguistica ispanica;   
-linguistica francese;   
-linguistica inglese;   
-linguistica tedesca;   
-letteratura inglese medievale;   
-letteratura francese medievale;   
-letteratura slava ecclesiastica;   
-storia del teatro inglese;   
-storia del teatro francese;   
-storia del teatro tedesco;   
-storia del teatro spagnolo;   
-storia del teatro nord-americano;   
-letterature dei paesi di lingua inglese;   
-letterature dei paesi francofoni;   
-balcanistica;   
-geografia economica;   
-linguistica applicata;   
-psicolinguistica;   
-teoria della letteratura;   
-storia della critica letteraria;   
-filosofia morale;   
-psicologia;   
-storia della pedagogia e delle istituzioni scolastiche;   
-filosofia del linguaggio;   
-storia della cultura e della tradizione classica;   
-storia dell'arte contemporanea.   
+Nell'art. 90, relativo al corso di laurea in chimica industriale, all'elenco degli insegnamenti complementari, sono aggiunti i seguenti insegnamenti:  
+chimica fisica delle interfasi;  
+complementi di chimica fisica;  
+chimica organica teorica;  
+chimica fisica dei polimeri;  
+chimica fisica industriale;  
+chimica colloidale;  
+esercitazioni di tecniche e sintesi speciali organiche;  
+complementi di chimica organica;  
+chimica degli intermedi;  
+chimica analitica clinica;  
+chimica e tecnologia della catalisi;  
+chimica e tecnologia degli alti polimeri;  
+petrolchimica e tecnologia dei prodotti petroliferi;  
+chimica organica applicata;  
+dispositivi e apparecchiature di misura chimica e chimica fisica; complementi di chimica inorganica;  
+chimica inorganica applicata;  
+meccanismi di reazione in chimica inorganica.  
 
 Art. 3
 ------
 
   
-Nell'art. 78, concernente il corso di laurea in medicina e chirurgia, nell'elenco degli insegnamenti complementari sono inseriti i seguenti nuovi insegnamenti:  
-igiene mentale;  
-neurochirurgia infantile;  
-neurotraumatologia;  
-neuroendocrinologia;  
-psicologia medica;  
-psicologia sperimentale.  
-Nell'art. 79, concernente l'elenco degli istituti annessi alla facolta' di medicina e chirurgia, l'istituto di "clinica delle malattie nervose e mentali II" e' soppresso; l'istituto di "clinica delle malattie nervose e mentali I" muta la denominazione in quella di "clinica neurologica".  
+Nell'art. 91, relativo al corso di laurea in fisica, all'elenco degli insegnamenti complementari, sono aggiunti i seguenti insegnamenti:  
+didattica della fisica;  
+strumentazione fisica;  
+complementi di astronomia;  
+cosmologia;  
+fisica dei sistemi a molti corpi;  
+teorie relativistiche;  
+teoria quantistica dei campi;  
+elettrodinamica;  
+fluidodinamica;  
+astrofisica teorica;  
+meccanica celeste;  
+fisica atomica;  
+fisica molecolare;  
+fisica dei liquidi;  
+fisica degli stati condensati;  
+fisica dei metalli;  
+ottica quantistica;  
+fisica delle basse temperature;  
+fisica dei plasmi;  
+teoria delle forze nucleari;  
+fisica sperimentale delle particelle elementari;  
+acceleratori di particelle.  
 
 Art. 4
 ------
 
   
-Nell'art. 149, concernente il corso di laurea in medicina veterinaria, nell'elenco degli insegnamenti complementari l'insegnamento di "anestesiologia" muta la denominazione in quella di "anestesiologia veterinaria"; nel medesimo elenco e', inoltre, inserito l'insegnamento di "etologia degli animali domestici".  
-Nell'art. 152, concernente norme di propedeuticita' degli esami del corso di laurea in medicina veterinaria, il primo comma, fino al paragrafo c), compreso, e' soppresso e sostituito come segue (i paragrafi d) ed i seguenti restano invariati):  
-"Art. 152. - Agli effetti degli esami sono da considerarsi materie propedeutiche:  
-a) la chimica rispetto alla biochimica, la botanica e la biochimica rispetto alla alimentazione e nutrizione animale; l'istologia generale e speciale e l'embriologia rispetto all'anatomia veterinaria sistematica comparata I; la zoologia rispetto alla parassitologia ed alle malattie parassitarie;  
-b) la fisica, l'anatomia veterinaria sistematica e comparata I e II e la biochimica rispetto alla fisiologia generale e speciale veterinaria II e fisica biologica;  
-c) la fisiologia generale e speciale veterinaria I e II e fisica biologica rispetto alla patologia generale; la patologia generale rispetto alla patologia medica degli animali domestici, alla patologia chirurgica veterinaria e podologia, alla ostetricia ed alla patologia della riproduzione e fecondazione artificiale, alla patologia e profilassi delle malattie infettive I e II".  
+Nell'art. 99, relativo al corso di laurea in scienze biologiche, all'elenco degli insegnamenti complementari, sono aggiunti i seguenti insegnamenti:  
+conservazione e protezione della natura;  
+analisi chimico-cliniche;  
+biochimica clinica;  
+metodologie biochimiche;  
+biochimica macromolecolare;  
+biochimica comparata;  
+biofisica;  
+laboratorio di tecniche fisiologiche;  
+biologia dello sviluppo;  
+citologia animale;  
+primatologia;  
+zoologia dei vertebrati;  
+statistica e biometria.  
+
+Art. 5
+------
+
+  
+Nell'art. 101, relativo al corso di laurea in scienze geologiche, all'elenco degli insegnamenti complementari, sono aggiunti gli insegnamenti di:  
+cristallochimica;  
+fisica del vulcanismo;  
+sismologia;  
+geofisica della terra solida;  
+mineralogia sistematica;  
+petrologia;  
+petrografia regionale;  
+metodologie mineralogiche petrografiche;  
+geotermia;  
+petrotettonica;  
+tettonica;  
+paleogeografia;  
+esercitazioni di geologia;  
+paleontologia stratigrafica;  
+geologia dell'Appennino;  
+geologia ambientale;  
+geopedologia;  
+geologia del sottosuolo;  
+rilevamento geologico tecnico.  
+Nell'art. 102, relativo alle propedeuticita' degli esami, e' aggiunto il seguente nuovo comma:  
+"Gli esami di fisica sperimentale primo anno e di fisica sperimentale secondo anno precedono gli esami di fisica terrestre, cristallografia, petrografia e geologia".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 febbraio 1982
+### Dato a Roma, addi' 31 ottobre 1981
 
 PERTINI BODRATO
 
 Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 22 giugno 1982
+Registrato alla Corte dei conti, addi' 9 febbraio 1982
 
-Registro n. 82 Istruzione, foglio n. 158
+Registro n. 20 Istruzione, foglio n. 232

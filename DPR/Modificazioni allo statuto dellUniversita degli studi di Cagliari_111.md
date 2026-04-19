@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1964 n. 1288
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 dicembre 1963 n. 2157
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1964 n. 1288
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 dicembre 1963 n. 2157
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
@@ -10,41 +10,47 @@ Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), modificato con [regio decreto 5 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1734), e successivi;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle, leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1392](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1392);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1935, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-09-30;1652), e successive modificazioni Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposto di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio superiore della pubblica a istruzione;
 
 Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dall'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato conte appresso:
 
-Art. 13. - Agli insegnamenti complementari del corso di laurea in Scienze politiche e' aggiunto quello di "Lingua araba".
+Art. 12. - All'elenco degli insegnamenti complementari per il corso di laurea in Giurisprudenza sono aggiunti i seguenti:
 
-Art. 50. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti quelli di: "Anestesiologia e rianimazione" e di "Chemioterapia".
+Diritto privato comparato privato comparato;
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Diritto diplomatico consolare.
 
-Dato a Roma, addi' 27 ottobre 1964
+Art. 13. - All'elenco degli insegnamenti complementari per il corso di la laurea in Scienze politiche sono aggiunti i seguenti:
 
-Per il Presidente della Repubblica
+Statistica economica;
 
-Il Presidente del Senato
+Storia dei partiti politici;
 
-MERZAGORA
+Storia del giornalismo.
+
+Art. 50. - All'elenco degli insegnamenti complementari per il corso di laurea in Medicina e chirurgia e' aggiunto quello di "Semeiotica chirurgica".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della, Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 6 dicembre 1963
+
+SEGNI
 
 GUI
 
@@ -53,39 +59,46 @@ Visto, il Guardasigilli: REALE
 Registrato
 ----------
 
-alla Corte dei conti, addi' 4 dicembre 1964 Atti del Governo, registro n. 188, foglio n. 167. - VILLA
+alla Corte dei conti, addi' 8 febbraio 1964 Atti del governo, registro n. 180, foglio n. 97. VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), modificato con [regio decreto 5 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1734), e successivi;  
+Veduto il testo unico delle, leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1392](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1392);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposto di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Veduto il [regio decreto 30 settembre 1935, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-09-30;1652), e successive modificazioni Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sentito il parere del Consiglio superiore della pubblica a istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dall'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:  
-Art. 13. - Agli insegnamenti complementari del corso di laurea in Scienze politiche e' aggiunto quello di "Lingua araba".  
-Art. 50. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti quelli di: "Anestesiologia e rianimazione" e di "Chemioterapia".  
+Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato conte appresso:  
+Art. 12. - All'elenco degli insegnamenti complementari per il corso di laurea in Giurisprudenza sono aggiunti i seguenti:  
+  
+Diritto privato comparato privato comparato;  
+Diritto diplomatico consolare.  
+Art. 13. - All'elenco degli insegnamenti complementari per il corso di la laurea in Scienze politiche sono aggiunti i seguenti:  
+  
+Statistica economica;  
+Storia dei partiti politici;  
+Storia del giornalismo.  
+Art. 50. - All'elenco degli insegnamenti complementari per il corso di laurea in Medicina e chirurgia e' aggiunto quello di "Semeiotica chirurgica".  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della, Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 ottobre 1964
+### Dato a Roma, addi' 6 dicembre 1963
 
-Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA GUI
+SEGNI GUI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 4 dicembre 1964
+Registrato alla Corte dei conti, addi' 8 febbraio 1964
 
-Atti del Governo, registro n. 188, foglio n. 167. - VILLA
+Atti del governo, registro n. 180, foglio n. 97. VILLA

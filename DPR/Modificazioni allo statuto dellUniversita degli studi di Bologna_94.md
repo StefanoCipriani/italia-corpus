@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1954 n. 1231
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 470
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1954 n. 1231
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 470
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -10,74 +10,79 @@ Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuito dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con i [regi decreti 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-12;2227); [4 settembre 1930, n. 1312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-09-04;1312); [1 ottobre 1931, n. 1778](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1778); [27 ottobre 1932, n. 2092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2092); [6 dicembre 1934, n. 2394](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2394); [1 ottobre 1936, n. 2502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2502); [12 maggio 1939, n. 1315](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-05-12;1315); [5 ottobre 1939, n. 1644](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1644); [11 luglio 1941, n. 848](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-07-11;848); [18 luglio 1942, n. 928](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-18;928), [24 novembre 1942, n. 1595, con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-11-24;1595) [16 maggio 1947, n. 694 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-05-16;694) [22 febbraio 1948, n. 414](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-02-22;414); [30 luglio 1950, n. 1268](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-07-30;1268); [31 ottobre 1950, n. 1307](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1307); [5 agosto 1951, n. 1311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-05;1311); [27 ottobre 1951, n. 1792](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1792); [3 ottobre 1952, n. 4541](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-03;4541); [11 marzo 1953, n. 545](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;545); [12 maggio 1953, n. 547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-05-12;547); [30 giugno 1954, n. 742](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-30;742); [30 giugno 1954, n. 755](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-30;755) e [14 agosto 1954, n. 862](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-08-14;862); [n. 742; 30 giugno 1954](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-30;742), [n. 755 e 14 agosto 1954](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-08-14;755), [n. 862](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-08-14;862);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 933, n. 1592;   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 55. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di: "psicologia".  
-Dopo l'art. 259, sano aggiunti i seguenti nuovi articoli, relativi alla istituzione della scuola di perfezionamento per settori e medici laboratoristi ospedalieri.  
-Scuola di perfezionamento per settori e medici laboratoristi ospedalieri  
-Art. 290. - La scuola di perfezionamento per "settori e medici laboratoristi" ha la durata di tre anni e conferisce il diploma di specializzazione di settore e laboratorista. Alla scuola sono ammessi i laureati in medicina e chirurgia.  
-Il numero dei posti e' stabilito anno per anno dal Consiglio della scuola su parere del Consiglio della Facolta'. Un tirocinio post-laurea presso il laboratorio di un Istituto universitario di un grande Istituto ospedaliero costituira' titolo preferenziale per l'ammissione.  
-Art. 291. - Il corso della scuola di perfezionamento e' costituito dalle seguenti materie:  
-1) Anatomia topografica;  
-2) Tecnica delle autopsie;  
-3) Anatomia microscopica e tecnica istologica;  
-4) Biochimica applicata alla clinica;  
-5) Microbiologia e immunologia;  
-6) Tecnica e diagnostica anatomo-patologica;  
-7) Tecnica e diagnostica istopatologica;  
-8) Tecniche di laboratorio:  
-a) ematologiche,  
-b) sierologiche,  
-c) urologiche, varie (elettrocardiografia, encefalografia, ecc.);  
-9) Anatomia patologica comparata;  
-10) Medicina legale (tossicologia, infortunistica).  
-Art. 292. - Le materie elencate nell'art. 291 sono cosi' distribuite nei tre anni di studio:  
-1° anno:  
-1) Anatomia topografica;  
-2) Anatomia patologica comparata;  
-3) Tecnica delle autopsie;  
-4) Anatomia microscopica e tecnica istologica;  
-5) Biochimica applicata alla clinica.  
-2° anno:  
-1) Microbiologia e immunologia;  
-2) Tecnica e diagnostica anatomo-patologica;  
-3) Tecnica e diagnostica istopatologica;  
-4) Biochimica applicata alla clinica;  
-5) Tecniche varie: ematologiche, sierologiche, urologiche, elettrocardiografia, encefalografia, ecc..  
-3° anno:  
-1) Microbiologia e immunologia;  
-2) Tecniche varie: ematologiche, sierologiche, ecc.;  
-3) Diagnostica anatomo-patologica;  
-4) Diagnostica istopatologica;  
-5) Medicina legale (tossicologica, infortunistica).  
-Art. 293. - Gli specializzandi hanno l'obbligo di frequentare per undici mesi all'anno le lezioni, le esercitazioni, secondo i programmi stabiliti, e di seguire turni di internato nei vari istituti, secondo le designazioni della Direzione della scuola.  
-Art. 294. - Alla fine del primo anno, gli specializzandi che avranno effettivamente frequentato sosterranno un colloquio sulle materie, dell'anno. Alla fine del corso si terra' l'esame su tutte le materie d'insegnamento.  
-Il diploma di specializzazione sara' conferito dopo un esame pratico e relazione scritta su argomento inerente alle discipline di studio.  
-Art. 295. - L'iscrizione ed il pagamento delle tasse relative devono essere effettuati attraverso la segreteria dell'Universita' secondo quanto e' stabilito dal regolamento delle scuole di perfezionamento. I contributi di laboratorio sono fissati in un minimo di L. 60.000 annue e possono essere modificati con determinazione del Consiglio di amministrazione, su proposta del Senato accademico, udite la Facolta' e scuola.  
-I contributi potranno essere pagati in tre rate (ottobre, marzo e luglio).  
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+  
+Dopo l'art. 678, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della seconda scuola di specializzazione in medicina interna.   
+Seconda scuola di specializzazione in medicina interna   
+Art. 679. - Presso la facolta' di medicina e chirurgia e' istituita la seconda scuola di specializzazione in medicina interna, che conferisce il diploma di specialista in medicina interna.   
+Non sono ammesse abbreviazioni di corso.   
+Il corso ha la durata di cinque anni.   
+Art. 680. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+malattie infettive, disreattive e del sangue;   
+istituzioni di terapia;   
+anatomia e istologia patologica (biennale) I;   
+clinica medica generale e terapia medica (quinquennale) I.   
+2° Anno:   
+malattie dell'apparato cardio-vascolare;   
+microbiologia e sierologia;   
+chimica clinica;   
+anatomia ed istologia patologica (biennale) II;   
+clinica medica generale e terapia medica (quinquennale) II.   
+3° Anno:   
+malattie dell'apparato digerente;   
+malattie renali;   
+clinica medica generale e terapia medica (quinquennale) III.   
+4° Anno:   
+malattie dell'apparato respiratorio;   
+malattie del sistema nervoso;   
+clinica medica generale e terapia medica (quinquennale) IV.   
+5° Anno:   
+malattie del ricambio;   
+malattie delle ghiandole endocrine;   
+clinica medica generale e terapia medica (quinquennale) V.   
+Insegnamenti complementari:   
+genetica medica;   
+semeiotica oculistica (5° anno);   
+semeiotica ginecologica (5° anno);   
+psicologia medica (3° anno);   
+radiologia;   
+applicazioni diagnostiche e terapeutiche nella medicina nucleare (3° e 4° anno);   
+semeiotica dermatologica.   
+Art. 681. - L'iscrizione alla scuola avviene per titoli.   
+Nel caso che le domande di iscrizione superino il numero dei posti disponibili l'ammissione avverra' per titoli ed esami.   
+Art. 682. - Sono disponibili sette posti per ciascun anno di corso.  
+Il numero complessivo dei posti nei cinque anni di corso non dovra' superare i trentacinque iscritti.   
+Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni, le visite mediche, gli ambulatori, estendendo storie cliniche e praticando le ricerche di laboratorio.   
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
+Art. 683. - Alla fine di ogni anno di corso gli iscritti sono tenuti a superare tutti gli esami relativi ai singoli insegnamenti fondamentali di ciascun anno per il passaggio all'anno successivo.  
+Gli esami biennali e quinquennali saranno superati rispettivamente alla fine del biennio e alla fine del quinquennio.   
+Al termine del corso di studi per il conseguimento del diploma di specialista gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta su materie oggetto del corso.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Dogliani, addi' 14 settembre 1954
+### Dato a Roma, addi' 11 maggio 1979
 
-EINAUDI MARTINO
+PERTINI SPADOLINI
 
-Visto, il Guardasigilli: DE PIETRO
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 8 gennaio 1955
+Registrato alla Corte dei conti, addi' 19 settembre 1979
 
-Atti del Governo, registro n. 88, foglio n. 5. - CARLOMAGNO
+Registro n. 68 Istruzione, foglio n. 369

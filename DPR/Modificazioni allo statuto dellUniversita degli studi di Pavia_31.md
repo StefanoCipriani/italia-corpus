@@ -1,152 +1,76 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1057
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1968 n. 1318
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1057
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1968 n. 1318
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229) e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Gli articoli 160 e 161, relativi alla scuola di specializzazione in puericultura, che muta la denominazione in quella di scuola di specializzazione in pediatria preventiva e puericultura, sono sostituiti dai seguenti con lo spostamento della numerazione degli articoli successivi.  
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Scuola di specializzazione in pediatria preventiva e puericultura  
+Decreta:  
   
-Art. 160. - Presso l'istituto di clinica pediatrica della Universita' di Pavia e' istituita la scuola di specializzazione in pediatria preventiva e puericultura.  
-Alla scuola stessa possono iscriversi esclusivamente i laureati in medicina e chirurgia. E' richiesto, all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-La scuola si propone di conferire la preparazione teorico-pratica sia nel campo della neonatologia e patologia neonatale, sia nel campo della pratica pediatrica preventiva e sociale, con particolare riguardo alla prevalente funzione preventiva e sociale della medicina infantile sul territorio, che il pediatra e' chiamato a svolgere.  
-Art. 161. - Essa ha la durata di quattro anni ed e' articolata in due indirizzi:  
-a) neonatologia e patologia neonatale;  
-b) pediatria sociale.  
-Dopo un primo biennio comune al due indirizzi, e' istituito un secondo biennio differenziato per ciascuno dei due indirizzi.  
-Art. 162. - I medici che abbiano gia' conseguito la specializzazione in pediatria preventiva e puericultura con uno dei due indirizzi, potranno iscriversi direttamente al secondo biennio della scuola con l'altro indirizzo previsto dallo statuto.  
-Art. 163. - Il numero massimo degli allievi che possono essere iscritti e' di sessanta complessivamente per l'intera durata del corso di studi, bienni orientativi inclusi.  
-La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.  
-L'ammissione al corso avviene per titoli ed esami.  
-Art. 164. - Le materie di insegnamento sono:  
-BIENNIO PROPEDEUTICO COMUNE:  
-1° Anno:  
-1) anatomia e fisiologia dell'eta' evolutiva I;  
-2) elementi di ostetricia e ginecologia;  
-3) semeiotica infantile;  
-4) genetica medica;  
-5) elementi di laboratorio e biochimica clinica;  
-6) fisiologia della nutrizione;  
-7) metabolismo dell'eta' evolutiva I;  
-8) embriologia e fisiologia prenatali;  
-9) patologia infantile I;  
-10) alimentazione nell'eta' evolutiva.  
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 42. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di: "Neurochirurgia".  
+Gli articoli 200, 201, 202, 203, 204, 205, 206, 207, 208 e 209 relativi alla scuola speciale per tecnici di istituti medico-biologici sono abrogati e sostituiti dai seguenti:  
+  
+Scuola per tecnici di istituti medico-biologici  
+(Scuola diretta a fini speciali)  
+  
+Art. 241 (gia' 200). - E' istituita presso l'Universita' di Pavia una scuola ad indirizzo essenzialmente pratico diretta a preparare personale tecnico per gli istituti e laboratori medico-biologici. Il direttore della scuola viene nominato dal rettore su proposta della facolta' di medicina e chirurgia.  
+Gli insegnanti della scuola sono proposti dal direttore che puo' sceglierli fra i professori di ruolo, fra i liberi docenti, fra gli aiuti ed assistenti.  
+Il consiglio della scuola si compone di tutti i professori che tengono gli insegnamenti prescritti ed e' presieduto dal direttore.  
+Art. 242 (gia' 201). - La scuola prende il nome di "Scuola per tecnici di istituti medico-biologici", ha la durata di due anni e conferisce il diploma di "tecnico di istituti medico-biologici", ne e' titolo di ammissione la maturita' classica, scientifica, l'abilitazione magistrale e di istituti tecnici. La facolta' udito il consiglio della scuola puo' concedere un abbreviamento di corso non superiore ad un anno a quegli iscritti che si presentino gia' forniti di notevoli titoli di riconosciuto valore.  
+Art. 243 (gia' 202). - Gli aspiranti all'iscrizione al primo anno di corso sono tenuti a sostenere un esame di ammissione consistente in una prova orale di cultura generale ed in una prova orale di conoscenza di una lingua straniera moderna, scelta tra l'inglese, il francese ed il tedesco.  
+Art. 244 (gia' 203). - Alla scuola non sono ammessi piu' di venti allievi. Qualora le domande di iscrizione fossero in numero superiore la direzione della scuola si riserva di provvedere ad una scelta in base ai risultati dell'esame di ammissione.  
+Art. 245 (gia' 204). - Il corso comprende lezioni tecniche ed esercitazioni pratiche. Le materie di insegnamento sono le seguenti: 1° Anno:  
+Anatomia e istologia;  
+Chimica generale e biochimica;  
+Fisiologia;  
+Farmacologia.  
 2° Anno:  
-1) anatomia e fisiologia dell'eta' evolutiva II;  
-2) metabolismo dell'eta' evolutiva II;  
-3) patologia infantile II;  
-4) auxologia normale;  
-5) malattie infettive e loro prevenzione;  
-6) patologia prenatale;  
-7) patologia perinatale;  
-8) elementi di clinica pediatrica;  
-9) dietologia infantile;  
-10) anatomia patologica infantile;  
-11) O.R.L. e audiologia infantili;  
-12) oculistica e ottica fisio-patologica infantili.  
-  
-INDIRIZZO DI NEONATOLOGIA E PATOLOGIA NEONATALE:  
-3° Anno:  
-1) clinica della gravidanza e del parto normale;  
-2) fisiopatologia embriofetale;  
-3) fisiologia neonatale;  
-4) biochimica neonatale;  
-5) immunologia neonatale;  
-6) diagnostica radiologica neonatale;  
-7) tecniche di laboratorio (con riferimento alla fisiopatologia neonatale);  
-8) patologia neonatale I;  
-9) assistenza al neonato sano ed ammalato;  
-10) semeiotica neonatale.  
-4° Anno:  
-1) patologia neonatale II;  
-2) il neonato a rischio;  
-3) farmacologia neonatale;  
-4) clinica e terapia neonatali;  
-5) rianimazione e terapia intensiva del neonato;  
-6) alimentazione del neonato sano e patologico;  
-7) anatomia patologica del feto e del neonato;  
-8) patologia chirurgica neonatale;  
-9) neurologia neonatale.  
-  
-INDIRIZZO DI PEDIATRIA SOCIALE:  
-3° Anno:  
-1) adolescentologia I;  
-2) auxologia patologica ed endocrinologia infantile;  
-3) neuropsichiatria infantile;  
-4) epidemiologia, statistica medica e biometria;  
-5) epidemiologia e prevenzione di malattie di importanza sociale nell'eta' evolutiva;  
-6) igiene dell'alimentazione;  
-7) medicina scolastica e sua legislazione;  
-8) psicologia dell'eta' evolutiva;  
-9) fisioterapia e riabilitazione;  
-10) consulenza genetica sul territorio;  
-11) patologia e clinica delle malattie di importanza sociale nell'eta' evolutiva.  
-4° Anno:  
-1) adolescentologia II;  
-2) medicina dello sport nell'eta' evolutiva;  
-3) odontologia e odontoiatria;  
-4) ortopedia e traumatologia nell'eta' evolutiva;  
-5) legislazione ed assistenza sociale per l'infanzia e l'adolescenza;  
-6) informazione sanitaria;  
-7) servizi pubblici extra-ospedalieri di sanita' e assistenza per l'eta' evolutiva;  
-8) psicopedagogia;  
-9) sociologia applicata alla popolazione infantile.  
-Art. 165. - Le norme generali per l'iscrizione, gli esami, le tasse, ecc., sono quelle che regolano le scuole di specializzazione dell'Universita' di Pavia.  
-Art. 166. - La frequenza alle lezioni, alle esercitazioni pratiche nei reparti e' obbligatoria: gli allievi che non conseguono le attestazioni di frequenza non possono essere ammessi a sostenere le prove di esame.  
-Art. 167. - Il tirocinio pratico durante il quarto anno della scuola, per l'indirizzo di neonatologia e patologia neonatale potra' essere svolto oltreche' presso l'istituto ove la scuola ha sede, presso strutture assistenziali che abbiano, a giudizio del consiglio della scuola, caratteristiche idonee allo scopo. Tale tirocinio sara' attestato per iscritto dal responsabile di ciascuna struttura.  
-Il tirocinio pratico durante il quarto anno per l'indirizzo di pediatria sociale e' previsto sia svolto almeno in parte, in accordo con le amministrazioni competenti (regione, province, comuni) presso strutture assistenziali sul territorio (consultori, ecc.) che abbiano, a giudizio del consiglio della scuola, caratteristiche idonee allo scopo. Tale tirocinio sara' attestato dall'ente responsabile della struttura.  
-Art. 168. - Alla fine di ciascun anno di corso gli allievi, per essere ammessi agli anni successivi, debbono superare le prove di esame teorico-pratiche sulle materie impartite durante l'anno; per le materie a corso biennale, l'esame sara' sostenuto sotto forma di colloquio, al termine di ciascun anno.  
-Superati gli esami finali, l'allievo sosterra' l'esame di diploma, che potra' essere costituito anche da una dissertazione orale su un argomento precedentemente concordato.  
-Art. 169. - All'allievo risultato idoneo verra' rilasciato il diploma di specialista in pediatria preventiva e puericultura, con espressa menzione dell'indirizzo seguito, valido a tutti gli effetti di legge.  
+Microbiologia;  
+Anatomia patologica;  
+Patologia.  
+Le esercitazioni pratiche comprendono.  
+1° Anno:  
+Tecnica istologica, istochimica, cultura in vitro, microscopia elettronica;  
+Tecnica biochimica;  
+Prove biologiche (di fisiologia e di farmacologia).  
+2° Anno:  
+Tecnica microbiologica;  
+Istologia patologica;  
+Analisi cliniche.  
+Art. 246 (gia' 205). - E' fatto obbligo agli allievi di frequentare le lezioni teoriche e le esercitazioni: queste ultime in forma di tirocinio pratico della durata non inferiore a mesi due consecutivi presso un istituto universitario ad indirizzo biologico o clinico.  
+Art. 247 (gia' 206). - Alla fine di ogni anno di corso gli allievi devono sostenere un esame sulle materie di insegnamento. Nel caso in cui i candidati non abbiano superato gli esami prescritti, essi rimarranno nella posizione di "fuori corso" fino a quando non avranno assolto tutti gli obblighi di cui sopra.  
+Art. 248 (gia' 207). - A conclusione dei loro studi gli allievi devono sostenere un esame di diploma che consiste nella discussione di una dissertazione scritta su argomento che a scelta del candidato potra' essere biologico o clinico e nella esecuzione di una prova pratica di laboratorio.  
+Art. 249 (gia' 208). - I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola. Se al secondo esame non venga loro riconosciuta la idoneita', essi saranno senz'altro esclusi da ulteriori prove.  
+Art. 250 (gia' 209). - Gli iscritti sono tenuti al pagamento di tasse, sopratasse e contributi annuali approvati dal consiglio di amministrazione su proposta della facolta' di medicina e chirurgia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1981
+### Dato a Roma, addi' 31 ottobre 1968
 
-PERTINI BODRATO
+SARAGAT SCAGLIA
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 24 febbraio 1982
+Registrato alla Corte dei conti, addi' 2 gennaio 1969
 
-Registro n. 30 Istruzione, foglio n. 368
+Atti del Governo, registro n. 224, foglio n. 117. - GRECO

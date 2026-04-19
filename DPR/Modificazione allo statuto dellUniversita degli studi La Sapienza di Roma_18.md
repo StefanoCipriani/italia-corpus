@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1983 n. 1087
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 novembre 1985 n. 1011
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1983 n. 1087
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 novembre 1985 n. 1011
 ================================================================
 
 Modificazione allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
@@ -22,11 +22,11 @@ Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?u
 
 Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' "La Sapienza" di Roma e convalidati dal Consiglio universitario nazionale nel suo parere;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
 
-Sentito il parere del Consiglio universitario nazionale;
+Veduto il parere del Consiglio universitario nazionale;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
@@ -39,18 +39,24 @@ Articolo unico
 --------------
 
   
-Art. 92 - nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia l'insegnamento di "immunologia clinica" cambia la denominazione in quella di "allergologia ed immunologia clinica".  
+Nell'art. 92, nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono inseriti i seguenti insegnamenti:  
+citologia normale ed ultrastrutturale;  
+statistica medica e biometria;  
+terapia conservativa dentaria;  
+urodinamica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 dicembre 1983
+### Dato a Roma, addi' 22 novembre 1985
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 15 marzo 1984
+Registrato alla Corte dei conti, addi' 7 aprile 1986
 
-Registro n. 16 Istruzione, foglio n. 176
+Registro n. 24 Istruzione, foglio n. 56

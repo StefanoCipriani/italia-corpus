@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 maggio 1966 n. 431
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1963 n. 2213
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 maggio 1966 n. 431
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1963 n. 2213
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
@@ -12,85 +12,53 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939 n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto - legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito in [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1632](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1632) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Riconosciuta la particolare necessita' di apportare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Dopo l'art. 70, e con il conseguente spostamento della successiva numerazione, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in Studi Sardi annessa alla Facolta' di lettere e filosofia.  
+Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appreso:  
+L'art. 64, relativo al corso di laurea in Ingegneria civile e' abrogato e sostituito dal seguente:  
+Art. 64. Il corso di laurea in Ingegneria civile e' distinto nelle seguenti tre sezioni: Edile, Idraulica, Trasporti; esso comprende i seguenti insegnamenti:  
+Gruppo   
+1° anno  
+1) Analisi matematica I . . . . . . . . . . . . . . . . . . . . A 2) Chimica. . . . . . . . . . . . . . . . . . . . . . . . . . . A 3) Disegno I. . . . . . . . . . . . . . . . . . . . . . . . . . A 4) Fisica I . . . . . . . . . . . . . . . . . . . . . . . . . . A 5) Geometria. . . . . . . . . . . . . . . . . . . . . . . . . . A 6) Analisi matematica . . . . . . . . . . . . . . . . . . . . . A 7) Disegno II . . . . . . . . . . . . . . . . . . . . . . . . . A 8) Fisica II. . . . . . . . . . . . . . . . . . . . . . . . . . A 9) Meccanica razionale. . . . . . . . . . . . . . . . . . . . . A 10) Applicazione di geometria descrittiva . . . . . . . . . . . B Triennio di applicazione:  
+11) Scienza delle costruzioni I . . . . . . . . . . . . . . . . A 12) Meccanica applicata alle macchine e macchine. . . . . . . . A 13) Fisica tecnica. . . . . . . . . . . . . . . . . . . . . . . A 14) Elettrotecnica. . . . . . . . . . . . . . . . . . . . . . . A 15) Architettura tecnica. . . . . . . . . . . . . . . . . . . . A 16) Tecnologia dei materiali e Chimica applicata. . . . . . . . A 17) Topografia. . . . . . . . . . . . . . . . . . . . . . . . . A 18) Idraulica . . . . . . . . . . . . . . . . . . . . . . . . . A 19) Scienza delle costruzioni . . . . . . . . . . . . . . . . . B 20) Tecnica delle costruzioni . . . . . . . . . . . . . . . . . A 21) Costruzioni di strade, ferrovie ed aeroporti. . . . . . A - B 22) Architettura e composizioni architettonica I. . . . . . A - B 24) Economia e diritto. . . . . . . . . . . . . . . . . . . . . B 25) Estimo e contabilita' dei lavori. . . . . . . . . . . . . . B   
+Sezione edile  
   
-Facolta' di lettere e filosofia  
+Orientamento A:  
+26) Architettura e composizione architettonica II . . . . . . . C 27) Urbanistica II. . . . . . . . . . . . . . . . . . . . . . . C 28) Architettura degli interni. . . . . . . . . . . . . . . . . C 29) Storia dell'architettura. . . . . . . . . . . . . . . . . . C 30) Rilievo e restauro dei monumenti. . . . . . . . . . . . . . C   
+Orientamento B:  
+26) Architettura e composizione architettonica II . . . . . . . C 27) Urbanistica II. . . . . . . . . . . . . . . . . . . . . . . C 28) Impianti tecnici edili. . . . . . . . . . . . . . . . . . . C 29) Ponti e strutture speciali. . . . . . . . . . . . . . . . . C 30) Ingegneria sanitaria. . . . . . . . . . . . . . . . . . . . C   
+Orientamento C:  
+26) Ponti e strutture speciali. . . . . . . . . . . . . . . . . C 27) Meccanica delle terre e fondazioni. . . . . . . . . . . . . C 28) Costruzioni idrauliche. . . . . . . . . . . . . . . . . . . C 29) Organizzazione dei cantieri . . . . . . . . . . . . . . . . C 30) Sperimentazione dei materiali e delle strutture . . . . . . C 26) Costruzioni idrauliche. . . . . . . . . . . . . . . . . . . A   
+Indirizzo agrario - sanitario:  
+27) Complementi di idraulica (corso semestrale) . . . . . . . . C 28) Acquedotti, Bonifiche, Fognature. . . . . . . . . . . . . . C 29) Geologia applicata. . . . . . . . . . . . . . . . . . . . . C 30) Idrologia tecnica (corso semestrale). . . . . . . . . . . . C 31) Ingegneria sanitaria. . . . . . . . . . . . . . . . . . . . C   
+Indirizzo impianti:  
+27) Complementi di idraulica (corso semestrale) . . . . . . . . C 28) Impianti speciali idraulici . . . . . . . . . . . . . . . . C 29) Meccanica delle terre e fondazioni. . . . . . . . . . . . . C 30) Costruzioni marittime (corso semestrale). . . . . . . . . . C 31) Geologia, applicata . . . . . . . . . . . . . . . . . . . . C   
+Sezione trasporti  
   
-Art. 71. - Alla Facolta' di lettere e filosofia sono annesse scuole di specializzazione che conferiscono al termine del periodo per ciascuna di esse stabilito e dopo il superamento delle prove di esame relative il diploma di specialista da rilasciarsi ai sensi di legge.  
-  
-Art. 72. - Il direttore di ciascuna scuola viene nominato dalla Facolta', con rotazione triennale, tra i professori di ruolo delle materie comprese in ciascuna scuola e sede ne e' il relativo Istituto o una dipendenza di esso. Nel caso in cui le cattedre non siano coperte da professori di ruolo il direttore e' scelto dalla Facolta'.  
-  
-Art. 73. - Gli insegnanti della scuola sono proposti alla Facolta' dal direttore della scuola stessa e scelti fra i professori di ruolo della Facolta', tra i liberi docenti e tra i cultori particolarmente competenti. Il Consiglio di ciascuna scuola e' costituito dai professori che impartiscono insegnamento ed e' presieduto dal direttore.  
-  
-Art. 74. - Gli insegnamenti di ciascuna scuola sono fissati nel piano annesso.  
-  
-Art. 75. - La domanda di ammissione a ciascuna scuola di specializzazione e diretta al rettore dell'Universita', corredata dal diploma originale di scuola media superiore, dal certificato di laurea e dalla ricevuta delle tasse.  
-  
-Art. 76. - Per ogni scuola e' fissato un numero minimo e un numero massimo di iscritti; il numero minimo e' di tre, il numero massimo di venti. Ogni qualvolta se ne riconosce l'opportunita' per particolari contingenze la Facolta' potra' sospendere le iscrizioni al primo anno di singole scuole dietro proposta del direttore. Ai singoli anni di corso possono essere trasferiti da altre scuole a ordinamento paritetico allievi che dimostrino la iscrizione, la frequenza e gli esami sostenuti nella scuola di provenienza. Il giudizio di ammissione spetta al Consiglio della scuola e deve essere ratificato dalla Facolta' di lettere e filosofia.  
-  
-Art. 77. - Possono essere esonerati dalla frequenza di un anno di corso, previo parere favorevole, in ogni caso, dal Consiglio di facolta' su proposta del direttore della scuola i laureati che siano stati assistenti effettivi, incaricati e volontari in un Istituto universitario della disciplina.  
-  
-Art. 78. - In ogni caso pero' gli iscritti devono sostenere tutti gli esami del corso e l'esame di diploma e pagare le tasse per gli anni effettivamente seguiti.  
-  
-Art. 79. - E' fatto obbligo agli iscritti di frequentare le lezioni e le esercitazioni. I corsi si svolgeranno secondo il calendario accademico.  
-  
-Art. 80. - Ogni scuola di specializzazione comprende due esami obbligatori biennali e quattro esami facoltativi da scegliere fra le discipline insegnate nella scuola di specializzazione alla quale l'allievo si iscrive ed eventualmente anche in altre scuole di specializzazione. Il piano di studi e' concordato fra l'allievo della scuola e il professore della materia in cui l'allievo intende svolgere la dissertazione finale entro il primo anno di corso. Tale piano dovra' essere sottoposto all'approvazione del Consiglio della scuola.  
-  
-Art. 81. - Gli esami di profitto sono dati al termine di ogni singolo anno. Gli esami di diploma, che potranno essere sostenuti solo dopo il completo espletamento delle prove di esami speciali, consisteranno nella presentazione e discussione di una dissertazione originale scritta su un argomento della disciplina prescelta dall'allievo. Le dissertazioni ritenute meritevoli saranno pubblicate in un'apposita collana curata da ciascuna scuola.  
-  
-Art. 82. - Le Commissioni per gli esami di profitto sono costituite dal direttore che le presiede e da insegnanti della scuola stessa in numero non inferiore a tre. Esse sono nominate dal preside della Facolta' di lettere e filosofia. Gli iscritti non potranno passare al corso successivo senza aver superato gli esami del corso precedente e cioe' i due esami annuali obbligatori e i due esami facoltativi.  
-  
-Art. 83. - L'esame di diploma verra' sostenuto davanti a una Commissione di sette membri, nominata e composta a norma dell'art. 42 del regolamento studenti.  
-  
-Art. 84. - Gli iscritti alle scuole di specializzazione sono tenuti al pagamento delle seguenti tasse e soprattasse:  
-  
-tassa di immatricolazione. . . . . . . . . . . . . . . . L. 7.000 tassa annuale di iscrizione . . . . . . . . . . . . . . L. 30.000 tassa di diploma . . . . . . . . . . . . . . . . . . . . L. 6.000 soprattassa annuale per esami di profitto. . . . . . . . L. 7.000 soprattassa per esami di diploma. . . . . . . . . . . . L. 10.000   
-I contributi di laboratorio, di esercitazioni e di riscaldamento sono determinati annualmente, e prima dell'inizio dell'anno accademico, dal Consiglio di amministrazione dell'Universita', su proposta del Senato accademico, udite la Facolta' e la scuola interessata.  
-La ripartizione delle tasse e soprattasse pagate dagli allievi sara' disposta dal Consiglio di amministrazione dell'Universita' su proposta del direttore della scuola.  
-  
-Art. 85. - Tutte le questioni che riguardano il funzionamento delle scuole, comprese quelle concernenti la carriera scolastica degli allievi, sono deferiti all'esame della Facolta' di lettere e filosofia e alle decisioni del Senato accademico.  
-  
-Art. 86. - Per la carriera scolastica, gli esami e la disciplina degli allievi delle scuole valgono, per quanto non e' prescritto dai precedenti articoli ed in quanto possano applicarsi, le disposizioni del regolamento generale universitario.  
-  
-Scuola di specializzazione in studi sardi  
-  
-Art. 87. - Alla Facolta' di lettere e filosofia e' annessa una scuola di specializzazione in studi sardi. La durata del corso e' di due anni. Vi sono ammessi i laureati della Facolta' di lettere e filosofia, di magistero, di giurisprudenza, di scienze politiche e di economia e commercio.  
-  
-Sono materie fondamentali obbligatorie da seguire per un biennio le seguenti:  
-Antichita' sarde;  
-Storia della Sardegna.  
-  
-Sono materie complementari annuali da scegliersi in numero di due per ciascun anno di corso le seguenti:  
-Geografia e ambiente della Sardegna;  
-Linguistica sarda;  
-Antropologia e sociologia della Sardegna;  
-Etnografia e tradizioni popolari della Sardegna;  
-Storia dell'arte sarda;  
-Diritto regionale;  
-Storia delle istituzioni giuridiche ed economiche della Sardegna.  
-  
+Orientamento A:  
+26) Tecnica ed economia dei trasporti I . . . . . . . . . . . . C 27) meccanica delle terre e fondazioni. . . . . . . . . . . . . C 28) Tecnica ed economia dei trasporti II. . . . . . . . . . . . C 29) Trazione elettrica. . . . . . . . . . . . . . . . . . . . . C 30) Tecnica della circolazione stradale . . . . . . . . . . . . C   
+Orientamento B:  
+26) Tecnica ed economia dei trasporti . . . . . . . . . . . . . C 27) Meccanica delle terre e fondazioni. . . . . . . . . . . . . C 28) Organizzazione dei cantieri . . . . . . . . . . . . . . . . C 29) Ponti e strutture speciali. . . . . . . . . . . . . . . . . C 30) Costruzioni di strade ferrovie, aeroporti II. . . . . . . . C   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 maggio 1966.
+### Dato a Sassari, addi' 31 dicembre 1963
 
-SARAGAT GUI
+SEGNI GUI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 18 giugno 1966
+Registrato alla Corte dei conti, addi' 2 marzo 1964
 
-Atti del Governo, registro n. 203, foglio n. 145. - VILLA
+Atti del Governo, registro n. 181, foglio n. 144 - VILLA

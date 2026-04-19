@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1983 n. 1098
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1985 n. 800
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1983 n. 1098
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1985 n. 800
+================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
@@ -39,23 +39,21 @@ Articolo unico
 --------------
 
   
-  
-Nell'art. 51, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:   
-tossicologia clinica;   
-dietoterapia;   
-chirurgia dell'apparato digerente;   
-chirurgia traumatologica della strada.   
+Nell'art. 51, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e aggiunto il seguente nuovo insegnamento:  
+fisica sanitaria.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 marzo 1983
+### Dato a Roma, addi' 24 settembre 1985
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 22 marzo 1984
+Registrato alla Corte dei conti, addi' 19 dicembre 1985
 
-Registro n. 17 Istruzione, foglio n. 362
+Registro n. 86 Istruzione, foglio n. 143

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 marzo 1983 n. 284
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 novembre 1983 n. 1013
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 marzo 1983 n. 284
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 novembre 1983 n. 1013
+================================================================
 
 Modificazione all'ordinamento didattico universitario.
 ------------------------------------------------------
@@ -16,7 +16,7 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Riconosciuta l'opportunita' di procedere ad una modifica della tabella VIII-quater dell'ordinamento didattico universitario, relativa ai corsi di laurea in "economia politica" e in "economia aziendale", nel senso di variare con solo riferimento al corso di laurea in "economia aziendale" la denominazione dell'insegnamento fondamentale di "matematica" in quella di "matematica generale" in quanto la disciplina di nuova denominazione presenta contenuti piu' propri per un corso di laurea in materie economiche;
+Riconosciuta l'opportunita' di procedere ad una modifica dell'ordinamento didattico vigente per gli studi del corso di laurea in medicina e chirurgia;
 
 Sentito il parere del Consiglio universitario nazionale;
 
@@ -29,18 +29,18 @@ Articolo unico
 --------------
 
   
-Nella tabella VIII-quater dell'ordinamento didattico universitario, relativa ai corsi di laurea in "economia politica" e in "economia aziendale", l'insegnamento fondamentale di "matematica" con solo riferimento al corso di laurea in "economia aziendale" cambia la denominazione in quella di "matematica generale".  
+La tabella XVIII dell'ordinamento didattico universitario, annessa al [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), concernente il corso di laurea in medicina e chirurgia, e' modificata nel senso che l'insegnamento complementare di puericultura, previsto dalla citata tabella XVIII, muta la denominazione in quella di "pediatria sociale e puericultura".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 marzo 1983
+### Dato a Roma, addi' 25 novembre 1983
 
 PERTINI FALCUCCI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 6 giugno 1983
+Registrato alla Corte dei conti, addi' 29 febbraio 1984
 
-Registro n. 41 Istruzione, foglio n. 133
+Registro n. 13 Istruzione, foglio n. 39

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 luglio 1966 n. 789
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1978 n. 589
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 luglio 1966 n. 789
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1978 n. 589
 =============================================================
 
 Modificazioni allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
+Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,484 +18,270 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:
 
-Dopo l'art. 98, e con il conseguente spostamento della successiva numerazione, vengono aggiunti i seguenti nuovi articoli relativi all'istituzione della Scuola speciale delle comunicazioni sociali.
+Gli articoli da 156 a 172, relativi alla scuola superiore delle comunicazioni sociali, diretta a fini speciali, per effetto del riordinamento della scuola medesima, mutano, con il conseguente spostamento della numerazione degli articoli successivi, come segue:
 
 Scuola superiore delle comunicazioni sociali
 
-(Scuola diretta a fini speciali)
+L'art. 156 resta invariato.
 
-Art. 99.
+Il testo dell'attuale art. 157 e' soppresso e sostituito come segue:
 
-E' istituita, annessa alla Facolta' di lettere e filosofia, ai sensi dell'[art. 20 lettera a) del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20-leta), una Scuola superiore delle comunicazioni sociali che ha lo scopo di specializzare, con adeguata preparazione scientifica, i laureati che intendono dedicarsi ai vari rami delle comunicazioni sociali.
+Art. 157.- La durata legale del corso di studio della scuola e' di due anni. Sono titoli di ammissione: la laurea nei vari indirizzi della facolta' di lettere e filosofia e di magistero e le lauree in giurisprudenza, in scienze politiche, in sociologia, in architettura, in economia e commercio (solo per l'indirizzo pubblicita), in scienze statistiche (solo per l'indirizzo pubblicita).
 
-Art. 100.
+L'art. 158 resta invariato.
 
-La durata del corso degli studi della Scuola e' di due anni.
+Il testo dell'attuale art. 159 e' soppresso e sostituito come segue:
 
-Sono titoli di ammissione: la laurea nei vari indirizzi della Facolta' di lettere e filosofia e di magistero e le lauree in Giurisprudenza, in Scienze politiche, in Economia e commercio.
-
-Art. 101.
-
-Il direttore della Scuola e i docenti vengono nominati dal rettore dell'Universita' cattolica su designazione del Consiglio della Facolta' di lettere e filosofia.
-
-I docenti possono essere scelti tra i professori ufficiali, tra i liberi docenti e tra persone di riconosciuta competenza anche fuori dell'ambito dell'Universita'.
-
-Il Consiglio della Scuola, presieduto dal direttore, si compone di tutti i professori designati a tenere i corsi.
-
-Al direttore spettera' la scelta, fra i docenti, dei responsabili delle singole Sezioni.
-
-Art. 102.
-
-La Scuola rilascia cinque diplomi:
+Art. 159. - La scuola rilascia tre diplomi:
 
 a) diploma in giornalismo;
 
 b) diploma in pubblicita';
 
-c) diploma in critica e tecnica del cinema;
+c) diploma in scienze dello spettacolo.
 
-d) diploma in critica e tecnica della radio e della televisione;
+Gli articoli 160 e 161 sono soppressi e sostituiti come segue:
 
-e) diploma in critica e tecnica del teatro;
+Art. 160 - Diploma in giornalismo. - Materie costitutive:
 
-Art. 103.
+fondamenti teologici delle comunicazioni sociali;
 
-Le materie istituzionali comuni a tutti i cinque indirizzi sono:
+etica delle comunicazioni sociali;
 
-1) Esposizione della dottrina e della morale cattolica (biennale);
+dottrina e tecnica del giornalismo (due annualita);
 
-2) Psicologia sociale;
+storia del giornalismo;
 
-3) Sociologia;
+storia e teoria del linguaggio giornalistico;
 
-4) Storia della letteratura italiana;
+disciplina giuridica dei mezzi di comunicazione sociale;
 
-5) Storia della chiesa nell'epoca moderna e contemporanea;
+psicologia sociale;
 
-6) Storia moderna e contemporanea;
+sociologia della comunicazione e della cultura.
 
-7) Disciplina giuridica della stampa e dei mezzi audiovisivi;
+Materie ausiliarie - tre materie a scelta tra:
 
-8) Deontologia professionale;
+storia delle dottrine economiche;
 
-9) Storia dell'arte;
+storia delle dottrine politiche;
 
-10) Drammaturgia;
+storia del teatro e dello spettacolo;
 
-11) Dottrina e tecnica del giornalismo (corso generale);
+storia e critica del cinema;
 
-12) Dottrina e tecnica della pubblicita' (corso generale);
+storia della musica;
 
-13) Dottrina e tecnica del cinema (corso generale);
+storia e teoria degli audiovisivi;
 
-14) Dottrina e tecnica delle trasmissioni radio e TV (corso generale);
+etnologia;
 
-15) Dottrina e tecnica del teatro (corso generale).
+semiologia;
 
-Gli studenti potranno iscriversi alle materie costitutive della specializzazione prescelta solo dopo aver superato gli esami nelle cinque "dottrine e tecniche" istituzionali (corso generale); essi sceglieranno una specializzazione primaria, in cui conseguiranno il diploma, ed una specializzazione secondaria di cui seguiranno per un anno il corso superiore di dottrina e tecnica.
+storia della filosofia contemporanea.
 
-Art. 104.
+L'art. 162, che prende il n. 161, e' soppresso e sostituito come segue:
 
-Le materie costitutive per conseguire il diploma in giornalismo sono:
+Art. 161 - Diploma in pubblicita'. - Materie costitutive:
 
-1) Dottrina e tecnica del giornalismo (corso superiore) (biennale);
+fondamenti teologici delle comunicazioni sociali;
 
-2) Storia del giornalismo;
+etica delle comunicazioni sociali;
 
-3) Organizzazione direzionale e redazionale;
+psicologia sociale;
 
-4) Tecnica editoriale;
+sociologia della comunicazione;
 
-5) Tecnica tipografica.
+storia e critica del cinema, oppure dottrina e tecnica del giornalismo;
 
-Gli iscritti che aspirano a conseguire il diploma in giornalismo debbono inoltre scegliere come materie ausiliarie due fra le seguenti:
+dottrina e tecnica della pubblicita' (due annualita);
 
-1) La stampa quotidiana;
+tecnica delle ricerche di mercato e della distribuzione generale;
 
-2) La stampa periodica;
+psicologia della pubblicita';
 
-3) Il rotocalco;
+economia dell'impresa;
 
-4) La stampa per ragazzi;
+ricerche di marketing;
 
-5) Le pubblicazioni aziendali;
+mezzi pubblicitari: pubblicita' a stampa, cinematografica, radiofonica e televisiva, al punto di vendita.
 
-6) L'ufficio stampa;
+Gli articoli 163, 164, e 165 sono soppressi e sostituiti come segue:
 
-7) La stampa tecnica.
+Art. 162 - Diploma in scienze dello spettacolo. - Materie costitutive:
 
-Art. 105.
+fondamenti teologici delle comunicazioni sociali;
 
-Le materie costitutive per conseguire il diploma in pubblicita' sono:
+etica delle comunicazioni sociali;
 
-1) Dottrina e tecnica della pubblicita' (corso superiore) (biennale);
+storia del teatro e dello spettacolo (\*);
 
-2) Psicologia della pubblicita';
+storia e critica del cinema (\*);
 
-3) Sociologia della pubblicita';
+drammaturgia teorica;
 
-4) Ricerca di mercato e pubblicita';
+semiologia;
 
-5) Organizzazione e pianificazione della campagna pubblicitaria.
+sociologia della comunicazione e della cultura;
 
-Gli iscritti che aspirano a conseguire il diploma in pubblicita' debbono inoltre scegliere come materie ausiliarie due fra le seguenti:
+psicologia sociale.
 
-1) Pubblicita' grafica;
+Materie ausiliarie - tre materie a scelta tra:
 
-2) Pubblicita' cinematografica;
+storia della musica;
 
-3) Pubblicita' radiofonica e televisiva;
+storia dell'arte medioevale e moderna;
 
-4) Pubblicita' a stampa.
+storia delle teoriche del cinema;
 
-Art. 106.
+storia delle teoriche teatrali;
 
-Le materie costitutive per conseguire il diploma in critica e tecnica del cinema sono:
+storia e teoria degli audiovisivi;
 
-1) Dottrina e tecnica del film (corso superiore) (biennale);
+storia della filosofia contemporanea.
 
-2) Storia delle teoriche del cinema;
+(\*) Gli allievi sono tenuti a biennalizzare storia e critica del cinema oppure storia del teatro e dello spettacolo.
 
-3) Tecnica della ripresa e del montaggio;
+L'art. 166 diventa 163.
 
-4) La critica cinematografica;
+L'art. 167, che prende il n. 164 e' soppresso e sostituito come segue:
 
-5) Produzione distribuzione cinematografica.
-
-Gli iscritti che aspirano a conseguire il diploma in critica e tecnica del cinema debbono inoltre scegliere come materie ausiliarie due fra le seguenti:
-
-1) La regia filmica;
-
-2) La critica filmica;
-
-3) Il cinema come sussidio didattico;
-
-4) Musica filmica;
-
-5) Il film scientifico;
-
-6) Il film industriale.
-
-Art. 107.
-
-Le materie costitutive per conseguire il diploma in critica e tecnica della radio e della televisione sono:
-
-1) Dottrina e tecnica della radio (corso superiore) (biennale);
-
-2) Dottrina e tecnica della televisione (corso superiore) (biennale);
-
-3) Programmazione radiofonica;
-
-4) Programmazione televisiva;
-
-5) Musica radiofonica e televisiva.
-
-Gli iscritti che aspirano a conseguire il diploma in critica e tecnica della radio e della televisione debbono scegliere come materie ausiliarie due fra le seguenti:
-
-1) Regia radiofonica;
-
-2) Regia televisiva;
-
-3) Critica radiofonica;
-
-4) Critica televisiva;
-
-5) Radio e T.V. come sussidi didattici.
-
-Art. 108.
-
-Le materie costitutive per conseguire il diploma in critica e tecnica dei teatro sono:
-
-1) Dottrina e tecnica del teatro (corso superiore) (biennale);
-
-2) Storia del teatro;
-
-3) Storia della musica teatrale;
-
-4) Composizione drammaturgica;
-
-5) Mimica e dizione.
-
-Gli iscritti che aspirano a conseguire il diploma in critica e tecnica del teatro debbono scegliere come materie ausiliarie due fra le seguenti:
-
-1) Regia teatrale;
-
-2) Critica teatrale;
-
-3) Storia del linguaggio mimico;
-
-4) Architettura teatrale;
-
-5) Scenografia.
-
-Art. 109.
-
-Sono prescritte esercitazioni pratiche presso i vari istituti della scuola.
-
-Art. 110.
-
-Gli esami della Scuola superiore delle comunicazioni sociali sono di profitto e di diploma.
+Art. 164. - Gli esami della scuola superiore delle comunicazioni sociali sono di profitto e di diploma.
 
 Gli esami di profitto, anche per le materie pluriennali, si svolgono alla fine di ciascun anno.
 
-L'ammissione all'esame di diploma richiede l'aver superato tutti gli esami su tutte le materie istituzionali comuni, sulle materie costitutive del diploma e su due scelte fra le ausiliarie proprie.
+L'ammissione all'esame di diploma richiede l'aver superato tutti gli esami su tutte le materie costitutive e dove previsto sul numero stabilito di materie ausiliarie.
 
-Art. 111.
-
-Le Commissioni per gli esami di profitto sono nominate dal direttore della Scuola.
-
-Le Commissioni sono composte di tre membri:
-
-dal professore ufficiale della materia, presidente;
-
-da un professore ufficiale di materia affine;
-
-da un libero docente o cultore della materia.
-
-Ogni commissario ha a disposizione dieci punti.
-
-Art. 112.
-
-L'esame di diploma consiste nella presentazione e discussione di una tesi scritta su argomento monografico con ricerche personali.
-
-Art. 113.
-
-L'esame di diploma viene sostenuto davanti ad una Commissione di sette membri scelti tra i docenti della Scuola, nominati dal preside della Facolta' di lettere e filosofia e su proposta del direttore della Scuola.
-
-Ogni commissionario ha a disposizione dieci punti.
-
-Art. 114.
-
-Le tasse e soprattasse della Scuola sono le seguenti:
-
-Tassa di iscrizione . . . . . . . . . . . . . . . . . . . . L. 20.000 Tassa di frequenza. . . . . . . . . . . . . . . . . . . . . L. 30.000 Soprattassa esami di profitto . . . . . . . . . . . . . . . L. 10.000 Tassa di diploma. . . . . . . . . . . . . . . . . . . . . . L. 10.000 Soprattassa di diploma . . . . . . . . . . . . . . . . . . . L. 5.000
-
-Art. 115.
-
-Il numero dei posti viene determinato anno per anno, con decreto del rettore udito il Consiglio della Scuola.
-
-L'ammissione e' fatta per concorso su una graduatoria di merito.
+Gli articoli 168, 169, 170, 171 e 172 diventano rispettivamente articoli 165, 166, 167, 168 e 169.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 13 luglio 1966
+Dato a Roma, addi' 10 aprile 1978
 
-SARAGAT
+LEONE
 
-GUI
+PEDINI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BONIFACIO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 1 ottobre 1966 Atti del Governo, registro n. 206, foglio n. 37. - DI PRETORO
+alla Corte dei conti, addi' 23 settembre 1978 Registro n. 104 Istruzione, foglio n. 285
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;  
+Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Dopo l'art. 98, e con il conseguente spostamento della successiva numerazione, vengono aggiunti i seguenti nuovi articoli relativi all'istituzione della Scuola speciale delle comunicazioni sociali.  
+Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:  
+Gli articoli da 156 a 172, relativi alla scuola superiore delle comunicazioni sociali, diretta a fini speciali, per effetto del riordinamento della scuola medesima, mutano, con il conseguente spostamento della numerazione degli articoli successivi, come segue:  
   
 Scuola superiore delle comunicazioni sociali  
-(Scuola diretta a fini speciali)  
   
-Art. 99.  
-  
-E' istituita, annessa alla Facolta' di lettere e filosofia, ai sensi dell'[art. 20 lettera a) del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20-leta), una Scuola superiore delle comunicazioni sociali che ha lo scopo di specializzare, con adeguata preparazione scientifica, i laureati che intendono dedicarsi ai vari rami delle comunicazioni sociali.  
-  
-Art. 100.  
-  
-La durata del corso degli studi della Scuola e' di due anni.  
-Sono titoli di ammissione: la laurea nei vari indirizzi della Facolta' di lettere e filosofia e di magistero e le lauree in Giurisprudenza, in Scienze politiche, in Economia e commercio.  
-  
-Art. 101.  
-  
-Il direttore della Scuola e i docenti vengono nominati dal rettore dell'Universita' cattolica su designazione del Consiglio della Facolta' di lettere e filosofia.  
-I docenti possono essere scelti tra i professori ufficiali, tra i liberi docenti e tra persone di riconosciuta competenza anche fuori dell'ambito dell'Universita'.  
-Il Consiglio della Scuola, presieduto dal direttore, si compone di tutti i professori designati a tenere i corsi.  
-Al direttore spettera' la scelta, fra i docenti, dei responsabili delle singole Sezioni.  
-  
-Art. 102.  
-  
-La Scuola rilascia cinque diplomi:  
+L'art. 156 resta invariato.  
+Il testo dell'attuale art. 157 e' soppresso e sostituito come segue:  
+Art. 157.- La durata legale del corso di studio della scuola e' di due anni. Sono titoli di ammissione: la laurea nei vari indirizzi della facolta' di lettere e filosofia e di magistero e le lauree in giurisprudenza, in scienze politiche, in sociologia, in architettura, in economia e commercio (solo per l'indirizzo pubblicita), in scienze statistiche (solo per l'indirizzo pubblicita).  
+L'art. 158 resta invariato.  
+Il testo dell'attuale art. 159 e' soppresso e sostituito come segue:  
+Art. 159. - La scuola rilascia tre diplomi:  
 a) diploma in giornalismo;  
 b) diploma in pubblicita';  
-c) diploma in critica e tecnica del cinema;  
-d) diploma in critica e tecnica della radio e della televisione;  
-e) diploma in critica e tecnica del teatro;  
-  
-Art. 103.  
-  
-Le materie istituzionali comuni a tutti i cinque indirizzi sono:  
-1) Esposizione della dottrina e della morale cattolica (biennale);  
-2) Psicologia sociale;  
-3) Sociologia;  
-4) Storia della letteratura italiana;  
-5) Storia della chiesa nell'epoca moderna e contemporanea;  
-6) Storia moderna e contemporanea;  
-7) Disciplina giuridica della stampa e dei mezzi audiovisivi;  
-8) Deontologia professionale;  
-9) Storia dell'arte;  
-10) Drammaturgia;  
-11) Dottrina e tecnica del giornalismo (corso generale);  
-12) Dottrina e tecnica della pubblicita' (corso generale);  
-13) Dottrina e tecnica del cinema (corso generale);  
-14) Dottrina e tecnica delle trasmissioni radio e TV (corso generale);  
-15) Dottrina e tecnica del teatro (corso generale).  
-Gli studenti potranno iscriversi alle materie costitutive della specializzazione prescelta solo dopo aver superato gli esami nelle cinque "dottrine e tecniche" istituzionali (corso generale); essi sceglieranno una specializzazione primaria, in cui conseguiranno il diploma, ed una specializzazione secondaria di cui seguiranno per un anno il corso superiore di dottrina e tecnica.  
-  
-Art. 104.  
-  
-Le materie costitutive per conseguire il diploma in giornalismo sono:  
-1) Dottrina e tecnica del giornalismo (corso superiore) (biennale);  
-2) Storia del giornalismo;  
-3) Organizzazione direzionale e redazionale;  
-4) Tecnica editoriale;  
-5) Tecnica tipografica.  
-Gli iscritti che aspirano a conseguire il diploma in giornalismo debbono inoltre scegliere come materie ausiliarie due fra le seguenti:  
-1) La stampa quotidiana;  
-2) La stampa periodica;  
-3) Il rotocalco;  
-4) La stampa per ragazzi;  
-5) Le pubblicazioni aziendali;  
-6) L'ufficio stampa;  
-7) La stampa tecnica.  
-  
-Art. 105.  
-  
-Le materie costitutive per conseguire il diploma in pubblicita' sono:  
-1) Dottrina e tecnica della pubblicita' (corso superiore) (biennale);  
-2) Psicologia della pubblicita';  
-3) Sociologia della pubblicita';  
-4) Ricerca di mercato e pubblicita';  
-5) Organizzazione e pianificazione della campagna pubblicitaria.  
-Gli iscritti che aspirano a conseguire il diploma in pubblicita' debbono inoltre scegliere come materie ausiliarie due fra le seguenti:  
-1) Pubblicita' grafica;  
-2) Pubblicita' cinematografica;  
-3) Pubblicita' radiofonica e televisiva;  
-4) Pubblicita' a stampa.  
-  
-Art. 106.  
-  
-Le materie costitutive per conseguire il diploma in critica e tecnica del cinema sono:  
-1) Dottrina e tecnica del film (corso superiore) (biennale);  
-2) Storia delle teoriche del cinema;  
-3) Tecnica della ripresa e del montaggio;  
-4) La critica cinematografica;  
-5) Produzione distribuzione cinematografica.  
-Gli iscritti che aspirano a conseguire il diploma in critica e tecnica del cinema debbono inoltre scegliere come materie ausiliarie due fra le seguenti:  
-1) La regia filmica;  
-2) La critica filmica;  
-3) Il cinema come sussidio didattico;  
-4) Musica filmica;  
-5) Il film scientifico;  
-6) Il film industriale.  
-  
-Art. 107.  
-  
-Le materie costitutive per conseguire il diploma in critica e tecnica della radio e della televisione sono:  
-1) Dottrina e tecnica della radio (corso superiore) (biennale);  
-2) Dottrina e tecnica della televisione (corso superiore) (biennale);  
-3) Programmazione radiofonica;  
-4) Programmazione televisiva;  
-5) Musica radiofonica e televisiva.  
-Gli iscritti che aspirano a conseguire il diploma in critica e tecnica della radio e della televisione debbono scegliere come materie ausiliarie due fra le seguenti:  
-1) Regia radiofonica;  
-2) Regia televisiva;  
-3) Critica radiofonica;  
-4) Critica televisiva;  
-5) Radio e T.V. come sussidi didattici.  
-  
-Art. 108.  
-  
-Le materie costitutive per conseguire il diploma in critica e tecnica dei teatro sono:  
-1) Dottrina e tecnica del teatro (corso superiore) (biennale);  
-2) Storia del teatro;  
-3) Storia della musica teatrale;  
-4) Composizione drammaturgica;  
-5) Mimica e dizione.  
-Gli iscritti che aspirano a conseguire il diploma in critica e tecnica del teatro debbono scegliere come materie ausiliarie due fra le seguenti:  
-1) Regia teatrale;  
-2) Critica teatrale;  
-3) Storia del linguaggio mimico;  
-4) Architettura teatrale;  
-5) Scenografia.  
-  
-Art. 109.  
-  
-Sono prescritte esercitazioni pratiche presso i vari istituti della scuola.  
-  
-Art. 110.  
-  
-Gli esami della Scuola superiore delle comunicazioni sociali sono di profitto e di diploma.  
+c) diploma in scienze dello spettacolo.  
+Gli articoli 160 e 161 sono soppressi e sostituiti come segue:  
+Art. 160 - Diploma in giornalismo. - Materie costitutive:  
+fondamenti teologici delle comunicazioni sociali;  
+etica delle comunicazioni sociali;  
+dottrina e tecnica del giornalismo (due annualita);  
+storia del giornalismo;  
+storia e teoria del linguaggio giornalistico;  
+disciplina giuridica dei mezzi di comunicazione sociale;  
+psicologia sociale;  
+sociologia della comunicazione e della cultura.  
+Materie ausiliarie - tre materie a scelta tra:  
+storia delle dottrine economiche;  
+storia delle dottrine politiche;  
+storia del teatro e dello spettacolo;  
+storia e critica del cinema;  
+storia della musica;  
+storia e teoria degli audiovisivi;  
+etnologia;  
+semiologia;  
+storia della filosofia contemporanea.  
+L'art. 162, che prende il n. 161, e' soppresso e sostituito come segue:  
+Art. 161 - Diploma in pubblicita'. - Materie costitutive:  
+fondamenti teologici delle comunicazioni sociali;  
+etica delle comunicazioni sociali;  
+psicologia sociale;  
+sociologia della comunicazione;  
+storia e critica del cinema, oppure dottrina e tecnica del giornalismo;  
+dottrina e tecnica della pubblicita' (due annualita);  
+tecnica delle ricerche di mercato e della distribuzione generale;  
+psicologia della pubblicita';  
+economia dell'impresa;  
+ricerche di marketing;  
+mezzi pubblicitari: pubblicita' a stampa, cinematografica, radiofonica e televisiva, al punto di vendita.  
+Gli articoli 163, 164, e 165 sono soppressi e sostituiti come segue:  
+Art. 162 - Diploma in scienze dello spettacolo. - Materie costitutive:  
+fondamenti teologici delle comunicazioni sociali;  
+etica delle comunicazioni sociali;  
+storia del teatro e dello spettacolo (\*);  
+storia e critica del cinema (\*);  
+drammaturgia teorica;  
+semiologia;  
+sociologia della comunicazione e della cultura;  
+psicologia sociale.  
+Materie ausiliarie - tre materie a scelta tra:  
+storia della musica;  
+storia dell'arte medioevale e moderna;  
+storia delle teoriche del cinema;  
+storia delle teoriche teatrali;  
+storia e teoria degli audiovisivi;  
+storia della filosofia contemporanea.  
+(\*) Gli allievi sono tenuti a biennalizzare storia e critica del cinema oppure storia del teatro e dello spettacolo.  
+L'art. 166 diventa 163.  
+L'art. 167, che prende il n. 164 e' soppresso e sostituito come segue:  
+Art. 164. - Gli esami della scuola superiore delle comunicazioni sociali sono di profitto e di diploma.  
 Gli esami di profitto, anche per le materie pluriennali, si svolgono alla fine di ciascun anno.  
-L'ammissione all'esame di diploma richiede l'aver superato tutti gli esami su tutte le materie istituzionali comuni, sulle materie costitutive del diploma e su due scelte fra le ausiliarie proprie.  
-  
-Art. 111.  
-  
-Le Commissioni per gli esami di profitto sono nominate dal direttore della Scuola.  
-Le Commissioni sono composte di tre membri:  
-dal professore ufficiale della materia, presidente;  
-da un professore ufficiale di materia affine;  
-da un libero docente o cultore della materia.  
-Ogni commissario ha a disposizione dieci punti.  
-  
-Art. 112.  
-  
-L'esame di diploma consiste nella presentazione e discussione di una tesi scritta su argomento monografico con ricerche personali.  
-  
-Art. 113.  
-  
-L'esame di diploma viene sostenuto davanti ad una Commissione di sette membri scelti tra i docenti della Scuola, nominati dal preside della Facolta' di lettere e filosofia e su proposta del direttore della Scuola.  
-Ogni commissionario ha a disposizione dieci punti.  
-  
-Art. 114.  
-  
-Le tasse e soprattasse della Scuola sono le seguenti:  
-  
-Tassa di iscrizione . . . . . . . . . . . . . . . . . . . . L. 20.000 Tassa di frequenza. . . . . . . . . . . . . . . . . . . . . L. 30.000 Soprattassa esami di profitto . . . . . . . . . . . . . . . L. 10.000 Tassa di diploma. . . . . . . . . . . . . . . . . . . . . . L. 10.000 Soprattassa di diploma . . . . . . . . . . . . . . . . . . . L. 5.000   
-Art. 115.  
-  
-Il numero dei posti viene determinato anno per anno, con decreto del rettore udito il Consiglio della Scuola.  
-L'ammissione e' fatta per concorso su una graduatoria di merito.  
+L'ammissione all'esame di diploma richiede l'aver superato tutti gli esami su tutte le materie costitutive e dove previsto sul numero stabilito di materie ausiliarie.  
+Gli articoli 168, 169, 170, 171 e 172 diventano rispettivamente articoli 165, 166, 167, 168 e 169.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 luglio 1966
+### Dato a Roma, addi' 10 aprile 1978
 
-SARAGAT GUI
+LEONE PEDINI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 1 ottobre 1966
+Registrato alla Corte dei conti, addi' 23 settembre 1978
 
-Atti del Governo, registro n. 206, foglio n. 37. - DI PRETORO
+Registro n. 104 Istruzione, foglio n. 285

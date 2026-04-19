@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1967 n. 1124
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1969 n. 1102
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1967 n. 1124
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1969 n. 1102
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
@@ -12,12 +12,12 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831), e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592),  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -25,42 +25,62 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 6. - E' abrogato e sostituito dal seguente:  
-"Gli insegnamenti pluriennali importano un unico esame alla fine dei corsi salvo disposizioni particolari del presente statuto".  
-Art. 9. - All'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti quelli di:  
-24) Diritto fallimentare;  
-25) Diritto della navigazione;  
-26) Diritto bancario.  
-Art. 26. - All'elenco degli insegnamenti complementari del corso di laurea in farmacia sono aggiunti quelli di:  
   
-Istituzioni di matematiche;  
-Chimica farmaceutica applicata.  
-Nel predetto corso di laurea dopo il terzo comma sono aggiunti i seguenti comma:  
-"Il corso biennale di chimica farmaceutica e tossicologica importa un esame alla fine di ogni anno.  
-Il corso triennale di esercitazioni di chimica farmaceutica e tossicologica importa un esame alla fine di ogni anno".  
-Art. 27, relativo agli esami di laurea e' modificato nel senso che il secondo e il terzo comma sono abrogati e sostituiti dai seguenti: "L'esame di laurea in farmacia consiste in:  
-a) un'analisi chimica qualitativa con miscuglio di almeno tre cationi e tre anioni;  
-b) un'analisi chimica quantitativa di un prodotto iscritto nella F. U.;  
-c) una prova di riconoscimento e saggi di purezza di due prodotti iscritti nella F. U.;  
-d) discussione delle relazioni scritte sui risultati delle predette prove;  
-e) prova orale di cultura tecnico-professionale;  
-f) discussione di una dissertazione scritta, compilativa o sperimentale, in una disciplina scelta dal candidato fra quelle seguite durante il corso di studio e presentate alla segreteria universitaria almeno quindici giorni prima dell'esame di laurea.  
-Dopo l'art. 39, e col conseguente spostamento della successiva numerazione e' aggiunto il seguente nuovo articolo, relativo alla creazione di nuovi istituti annessi alla facolta' di scienze economiche e bancarie.  
-Art. 40. - Fanno parte della facolta' di scienze economiche e bancarie i seguenti istituti:  
-1) Istituto di economia politica;  
-2) Istituto di matematica;  
-3) Istituto di ragioneria generale ed applicata.  
+Art. 26. - Il primo comma e' abrogato e sostituito dal seguente:  
+"La facolta' di farmacia conferisce la laurea in farmacia e la laurea in chimica e tecnologia farmaceutiche".  
+Dopo l'art. 28 e con il conseguente spostamento della successiva numerazione e' aggiunto il seguente nuovo articolo relativo all'istituzione del corso di laurea in chimica e tecnologia farmaceutiche annesso alla facolta' di farmacia.  
+  
+Laurea in chimica e tecnologia farmaceutiche  
+  
+Art. 29. - La durata del corso degli studi per la laurea in chimica e tecnologia farmaceutiche e' di cinque anni divisi in un biennio e in un triennio.  
+E' titolo di ammissione il diploma di maturita' classica o scientifica.  
+Biennio:  
+\* 1) Chimica generale ed inorganica;  
+\* 2) Fisica;  
+\* 3) Anatomia umana;  
+\* 4) Botanica farmaceutica;  
+\* 5) Istituzioni di matematiche;  
+\* 6) Chimica organica;  
+7) Fisiologia generale;  
+8) Microbiologia ed igiene;  
+9) Analisi chimico farmaceutiche I (analisi qualitativa);  
+\* 10) Chimica fisica.  
+Triennio:  
+11) Chimica organica II;  
+\* 12) Chimica biologica;  
+\* 13) Chimica farmaceutica e tossicologica I;  
+\* 14) Farmacologia e farmacognosia;  
+15) Analisi chimica farmaceutica II (analisi quantitativa);  
+16) Metodi fisici in chimica organica;  
+17) Analisi chimico farmaceutica III (analisi dei medicamenti); \* 18) Chimica farmaceutica e tossicologica II;  
+19) Saggi e dosaggi farmacologici;  
+\* 20) Biochimica applicata;  
+\* 21) Tecnica e legislazione farmaceutica;  
+\* 22) Chimica farmaceutica applicata;  
+23) Impianti dell'industria farmaceutica;  
+24) Chimica degli alimenti;  
+25) Laboratorio di preparazione estrattiva e sintetica dei farmaci.  
+Sono insegnamenti complementari:  
+1) Complementi di chimica tossicologica;  
+\* 2) Microchimica;  
+3) Chimica delle sostanze naturali;  
+4) Chimica delle fermentazioni e microbiologia industriale;  
+5) Chimica dei prodotti dietetici;  
+6) Chimica dei prodotti cosmetici.  
+Le materie segnate con l'asterisco sono comuni alla laurea in farmacia.  
+Per ottenere l'iscrizione al terzo anno lo studente deve aver seguito gli insegnamenti del biennio e superati i relativi esami.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superati gli esami in tutti gli insegnamenti fondamentali e in almeno due complementari, da lui scelti. L'esame di laurea in chimica e tecnologia farmaceutiche consiste nella discussione pubblica di una dissertazione scritta, a carattere sperimentale, in una disciplina scelta dal candidato, fra quelle seguite durante il corso di studi e presentata alla segreteria universitaria almeno quindici giorni prima dell'esame di laurea.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 agosto 1967
+### Dato a Roma, addi' 31 ottobre 1969
 
-SARAGAT GUI
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 28 novembre 1967
+Registrato alla Corte dei conti, addi' 23 gennaio 1970
 
-Atti del Governo, registro n. 215, foglio n. 29. - GRECO
+Atti del Governo, registro n. 231, foglio n. 58. - CARUSO

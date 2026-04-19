@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1977 n. 796
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1980 n. 120
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1977 n. 796
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1980 n. 120
+===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
 -----------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-796. Decreto del Presidente della Repubblica 27 settembre 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla sig.ra Zilli Margherita ved. Gritti, con testamento olografo del 14 maggio 1974 pubblicato a rogito del notaio Ferruccio Brambilla il 25 settembre 1974, n. 19605/2121 di repertorio, registrato a Busto Arsizio il 10 ottobre 1974 al n. 2080, vol. 155 A.P., consistente in un bene immobile sito in Milano, via Marocco, 3, distinto nel nuovo catasto edilizio urbano alla partita 24243 foglio 232, mappale 149 sub 1 e 2 e mappale 147 sub 1÷29, del valore presunto di L. 96.500.000, beni mobili consistenti in suppellettili e oggetti vari per un valore presunto di L. 2.360.050. Detti beni, al netto delle passivita', ammontano a L. 94.550.660.   
+120. Decreto del Presidente della Repubblica 7 febbraio 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, con beneficio d'inventario, l'eredita', consistente nella somma di L. 4.516.523, disposta dalla sig.ra Bice Buonamici ved. Ponzoni a favore dello istituto mutilatini don Gnocchi, che si identifica con la fondazione medesima, con testamento pubblico 14 novembre 1973, pubblicato in data 14 ottobre 1977, n. 16824 di repertorio, a rogito dott. Claudio Malberti, notaio in Corsico (Milano), registrato a Milano in data 25 ottobre 1977, n. A/ 4 5144.  
   
-Visto, il Guardasigilli: BONIFACIO   
-Registrato alla Corte dei conti, addi' 26 ottobre 1977   
-Registro n. 8 Presidenza, foglio n. 255
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti, addi' 31 marzo 1980  
+Registro n. 3 Presidenza, foglio n. 5

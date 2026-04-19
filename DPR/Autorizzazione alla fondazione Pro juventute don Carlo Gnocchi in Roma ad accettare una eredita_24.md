@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 marzo 1974 n. 197
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 giugno 1982 n. 522
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 marzo 1974 n. 197
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 giugno 1982 n. 522
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
 -----------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-197. Decreto del Presidente della Repubblica 30 marzo 1974, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente nella somma di L. 2.155.811, disposta dalla sig.ra Campestrini Maria con testamento olografo del maggio 1967, pubblicato il 14 marzo 1972 con verbale a rogito del dott. Cesare Gallavresi, notaio in Milano, n. 56944 di repertorio, n. 20357 di raccolta e registrato a Milano in data 24 maggio 1972 al numero 563371/M.  
+522. Decreto del Presidente della Repubblica 8 giugno 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in titoli azionari, beni mobili, saldi c.c. presso l'Istituto bancario di S. Paolo di Torino, agenzia n. 8, per un importo complessivo di L. 30.024.946, disposta dalla sig.na Laura Castellano a favore della fondazione "Don Gnocchi", viale Settimio Severo n. 65, Torino, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale del consiglio di amministrazione della fondazione medesima in data 24 novembre 1979, con testamento olografo 9 settembre 1977 pubblicato in data 1° ottobre 1979, n. 12747 di repertorio e n. 2728 di fascicolo, a rogito dott. Francesco Goria, notaio in Torino, registrato a Pinerolo (Torino) il 18 ottobre 1979 al n. 5272.   
   
-Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 15 maggio 1974  
-Atti di Governo, registro n. 3, foglio n. 21. - SCIARRETTA
+Visto, il Guardasigilli: DARIDA   
+Registrato alla Corte dei conti, addi' 2 agosto 1982   
+Registro n. 7 Presidenza, foglio n. 233

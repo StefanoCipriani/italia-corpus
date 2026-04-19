@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 dicembre 1962 n. 1938
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1964 n. 519
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 dicembre 1962 n. 1938
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1964 n. 519
+=============================================================
 
 Autorizzazione all'Unione italiana dei ciechi ad accettare un legato.
 ---------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1938. Decreto del Presidente della Repubblica 26 dicembre 1962, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi viene autorizzata ad accettare un legato disposto dal defunto sig. Puccetti Mario, con testamento olografo dell'8 settembre 1959 depositato e pubblicato per atto a rogito notaio Raffaello Vannucchi, residente in Viareggio, in data 24 ottobre 1960, n. 12729 di repertorio e al n. 7011 di fascicolo consistente nella nuda proprieta' di una casa sita in Viareggio, piazza Viani n. 3.  
+519. Decreto del Presidente della Repubblica 4 maggio 1964, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, viene autorizzata ad accettare il legato disposto dal defunto sig. Tremolada Marco Beniamino, con testamento olografo del 30 ottobre 1961, pubblicato e depositato per atto a rogito notaio dott. Giuseppe Gallizia di Milano in data 20 aprile 1962, n. 62199/ 22544 di repertorio e n. 16994 di archivio.  
   
-Visto, il Guardasigilli: BOSCO  
-Registrato alla Corte dei conti, addi' 29 gennaio 1963  
-Atti del Governo, registro n. 162, foglio n. 39. - VILLA
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 27 giugno 1964  
+Atti del Governo, registro n. 184, foglio n. 65. - VILLA

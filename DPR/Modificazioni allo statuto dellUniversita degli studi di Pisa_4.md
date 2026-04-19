@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 agosto 1964 n. 903
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1986 n. 655
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 agosto 1964 n. 903
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1986 n. 655
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Pisa, approvato con [decreto del Presidente della Repubblica 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1926-10-14;2278), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,244 +20,120 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pisa e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
-
-Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 24. - Agli insegnamenti complementari del corso di laurea in Scienze politiche sono aggiunti i seguenti:
-
-Matematica per economisti;
-
-Scienza della politica;
-
-Storia contemporanea;
-
-Storia dei partiti e movimenti politici;
-
-Storia del sindacalismo e del movimento operaio;
-
-Diritto pubblico romano;
-
-Diritto privato comparato.
-
-Art. 41. - Agli Istituti annessi alla Sezione di laurea in lingue e letterature straniere della Facolta' di economia e commercio, sono aggiunti i seguenti:
-
-Istituto di filologia germanica;
-
-Istituto di lingua e letteratura russa.
-
-Art. 82, relativo al corso di laurea in Matematica e' abrogato e sostituito dal seguente:
-
-La durata del corso degli studi per la laurea in Matematica e' di quattro anni.
-
-Titolo di ammissione e' il diploma di maturita' classica odi maturita' scientifica. Possono inoltre essere ammessi i diplomati dagli Istituti tecnici industriali, agrari, nautici e per geometri ai sensi delle vigenti disposizioni di legge.
-
-Il corso di studi si distingue in tre indirizzi: generale, didattico, applicativo.
-
-1° biennio:
-
-Sono insegnamenti fondamentali comuni a tutti gli indirizzi:
-
-per il primo anno:
-
-1) Analisi matematica I;
-
-2) Geometria I;
-
-3) Algebra;
-
-4) Fisica generale I;
-
-per il secondo anno:
-
-1) Analisi matematica II;
-
-2) Geometria II;
-
-3) Meccanica razionale;
-
-4) Fisica generale II.
-
-2° biennio:
-
-Sono insegnamenti fondamentali comuni ai tre indirizzi per il terzo anno
-
-1) Istituzioni di analisi superiore
-
-2) Istituzioni di geometria superiore
-
-3) Istituzioni di fisica matematica.
-
-L'insegnamento di Istituzioni di analisi superiore o quello di Istituzioni di fisica matematica potra' essere sostituito con quello fondamentale di Metodi matematici della fisica del corso di laurea in Fisica.
-
-Sono insegnamenti fondamentali, per l'indirizzo generale
-
-1) Analisi superiore
-
-2) Geometria superiore;
-
-per l'indirizzo applicativo;
-
-1) Calcoli numerici, grafici, meccanici ed elettronici;
-
-2) Matematiche superiori per l'indirizzo didattico
-
-1) Matematiche complementari;
-
-2) Teoria delle funzioni.
-
-Sono insegnamenti complementari comuni ai tre indirizzi:
-
-Insegnamenti complementari ad indirizzo fisico:
-
-Astronomia, Calcolo delle probabilita', Cibernetica e teoria dell'informazione, Complementi di fisica generale, Elettronica, Fisica dello stato solido, Fisica matematica, Fisica nucleare, Fisica superiore, Fisica teorica, Geodesia, Istituzioni di fisica teorica, Meccanica quantistica, Meccanica statistica, Meccanica superiore, Onde elettromagnetiche, Relativita', Teoria ed applicazioni delle macchine calcolatrici.
-
-Insegnamenti complementari ad indirizzo matematico:
-
-Algebra superiore, Analisi funzionale, Analisi superiore, Astronomia, Calcolo delle probabilita', Cibernetica e teorica dell'informazione, Economia matematica, Geodesia, Geometria algebrica, Geometria differenziale, Logica matematica, Matematica finanziaria ed attuariale, Matematiche elementari da un punto di vista superiore, Pedagogia, Statistica matematica, Storia delle matematiche, Teoria dei numeri, Teoria ed applicazioni delle macchine calcolatrici, Topologia.
-
-Ciascuno degli insegnamenti, sia fondamentali che complementari importa un esame finale.
-
-Ciascun insegnamento fondamentale di ciascuno dei tre indirizzi e' insegnamento complementare per quegli indirizzi per cui esso non e' fondamentale.
-
-Per essere ammesso al secondo anno lo studente deve aver ottenuto le firme di frequenza dei tre corsi di "Analisi matematica I", "Geometria I", "Algebra" e deve aver superato almeno due dei relativi esami finali.
-
-Le frequenze a tutti i corsi del primo biennio devono procedere l'iscrizione ai corsi del secondo biennio.
-
-La scelta fra i tre indirizzi avviene all'inizio del terzo anno.
-
-Per essere ammesso all'esame di laurea per l'indirizzo scelto lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali per tale indirizzo ed in almeno due insegnamenti da lui scelti fra i complementari.
-
-Art. 84. - Agli insegnamenti complementari del corso di laurea in Scienze naturali e' aggiunto quello di "Cristallografia".
-
-Art. 89. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche e' aggiunto quello di "Cristallografia".
-
-Art. 127. - Agli insegnamenti complementari del corso di laurea in Scienze agrarie sono aggiunti quelli di:
-
-24) Fisiologia vegetale;
-
-25) Cooperazione agricola;
-
-26) Tecnica della conservazione dei prodotti agricoli;
-
-27) Scienza dell'alimentazione del bestiame.
-
-Art. 131, relativo alle propedeuticita' del corso di laurea in Scienze agrarie, e' modificato nel senso che e' aggiunto il seguente comma: "Gli esami di Botanica generale, Botanica sistematica, Agronomia generale e coltivazioni erbacee I e II debbono essere superati prima di quello riguardante l'Agricoltura tropicale e subtropicale".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 3 agosto 1964
-
-SEGNI
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 10 ottobre 1964 Atti del Governo, registro n. 187, foglio n. 96. - VILLA
-
-Art. 1
+--------
+
+Lo statuto dell'Universita' di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
+  
+Dopo l'art. 154, con il conseguente scorrimento della numerazione degli articoli successivi, sono inseriti i seguenti articoli con l'intitolazione "Normativa generale scuole dirette a fini speciali":  
+  
+Normativa generale scuole dirette a fini speciali  
+  
+Art. 155. - Nell'Universita' di Pisa sono istituite le seguenti scuole dirette a fini speciali:  
+scuola diretta a fini speciali in informatica.  
+Art. 156. - Sono ammessi alle scuole dirette a fini speciali i diplomati degli istituti di istruzione secondaria di secondo grado in conformita' con le disposizioni vigenti per l'ammissione ai corsi di laurea, fatto salvo l'eventuale ulteriore requisito di ammissione previsto per le singole scuole, cioe' il possesso della specifica qualifica di base.  
+Il numero massimo degli iscrivibili per ciascuna scuola e' determinato dalla normativa specifica.  
+Art. 157. - Qualora il numero degli aspiranti sia superiore a quello dei posti disponibili, l'accesso alla scuola, nei limiti dei posti disponibili, e' subordinato al superamento di un esame consistente in una prova scritta che potra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e dalla valutazione, in misura non superiore al 30% del punteggio a disposizione della commissione esaminatrice, dei titoli di studio richiesti per l'ammissione. Le modalita' e il programma di tali prove vengono indicate nel bando di concorso per ciascuna scuola.  
+Sono ammessi ai corsi i candidati che in relazione al numero delle iscrizioni disponibili si siano collocati in posizione utile nella graduatoria compilata sulla base del punteggio complessivo riportato.  
+La commissione per l'esame di ammissione e' costituita da cinque professori di ruolo designati dal consiglio della scuola.  
+Art. 158. - L'importo delle tasse e sovrattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge. I contributi sono stabiliti anno per anno dal consiglio di amministrazione dell'Universita', sentito il consiglio della scuola.  
+Art. 159. - Sono organi della scuola il direttore e il consiglio della scuola.  
+Art. 160. - Il direttore ha la responsabilita' della scuola. E' un professore di ruolo della scuola, di norma di prima fascia. In caso di motivato impedimento dei professori di prima fascia la direzione e' affidata a un professore di seconda fascia. Il direttore e' eletto dal consiglio della scuola, di cui al successivo articolo, convoca il consiglio della scuola e lo presiede; ha nell'ambito della conduzione della scuola, le funzioni proprie dei presidenti di consiglio di corso di laurea. Il direttore promuove, per la stipula attraverso il consiglio di amministrazione dell'Universita' e il rettore, le convenzioni per lo svolgimento delle attivita' di formazione.  
+Per la gestione dei fondi a disposizione della scuola si applicano le norme dettate per gli istituti dal regolamento per l'amministrazione e la contabilita' generale dell'Universita', il direttore dura in carica tre anni ed e' rieleggibile. Nel manifesto annuale degli studi viene indicata la sede della direzione della scuola.  
+Art. 161. - Il consiglio della scuola e' composto da tutti i docenti di ruolo della scuola e dagli eventuali docenti a contratto, da una rappresentanza di tre studenti, eletti secondo quanto previsto dall'[art. 99 del decreto del Presidente della Repubblica n. 382/80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;382~art99) e ai sensi dell'[art. 8 del decreto del Presidente della Repubblica n. 162/82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982;162~art8), dalle altre componenti previste dall'[art. 94 del decreto del Presidente della Repubblica n. 382/80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;382~art94). In ogni caso al consiglio della scuola partecipa anche una rappresentanza dei ricercatori che svolgono attivita' nella scuola, secondo quanto previsto dall'[art. 8 del decreto del Presidente della Repubblica n. 162/82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982;162~art8).  
+Art. 162. - Il consiglio della scuola ne conduce e coordina le attivita' con i consigli dei dipartimenti e delle facolta' interessati, inclusi la designazione dei docenti, l'affidamento degli insegnamenti e le eventuali proposte di contratti.  
+In prima istituzione, i docenti che costituiscono il consiglio della scuola vengono designati in rapporto agli insegnamenti da attivare con apposita delibera, dei consigli di facolta' interessate, sentiti i consigli dei dipartimenti coinvolti.  
+Art. 163. - Lo studente e' tenuto a seguire tutti i corsi di lezione e a partecipare a tutte le attivita' pratiche e alle esercitazioni previste, per ciascun anno di corso, dal manifesto degli studi pubblicato annualmente dal consiglio della scuola nel quadro delle norme piu' sotto indicate.  
+La frequenza della scuola e' obbligatoria per tutti gli iscritti.  
+Le modalita' di accertamento della frequenza sono determinate nel manifesto degli studi.  
+Art. 164. - L'organizzazione didattica della scuola avviene con le modalita' e i limiti stabiliti dall'[art. 4 del decreto del Presidente della Repubblica n. 162/82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982;162~art4): agli studenti della scuola si applicano le disposizioni di legge e di regolamento riguardanti gli studenti universitari ai sensi dell'[art. 10 del decreto del Presidente della Repubblica n. 162/82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982;162~art10).  
+Art. 165. - Il corso si conclude con un esame di diploma consistente nella presentazione e discussione di un elaborato finalizzato alla professionalita' specifica, predisposto sotto la guida di un docente.  
+
+Art. 2
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 24. - Agli insegnamenti complementari del corso di laurea in Scienze politiche sono aggiunti i seguenti:  
-Matematica per economisti;  
-Scienza della politica;  
-Storia contemporanea;  
-Storia dei partiti e movimenti politici;  
-Storia del sindacalismo e del movimento operaio;  
-Diritto pubblico romano;  
-Diritto privato comparato.  
-Art. 41. - Agli Istituti annessi alla Sezione di laurea in lingue e letterature straniere della Facolta' di economia e commercio, sono aggiunti i seguenti:  
-Istituto di filologia germanica;  
-Istituto di lingua e letteratura russa.  
-Art. 82, relativo al corso di laurea in Matematica e' abrogato e sostituito dal seguente:  
-  
-La durata del corso degli studi per la laurea in Matematica e' di quattro anni.  
-Titolo di ammissione e' il diploma di maturita' classica odi maturita' scientifica. Possono inoltre essere ammessi i diplomati dagli Istituti tecnici industriali, agrari, nautici e per geometri ai sensi delle vigenti disposizioni di legge.  
-Il corso di studi si distingue in tre indirizzi: generale, didattico, applicativo.  
-1° biennio:  
-Sono insegnamenti fondamentali comuni a tutti gli indirizzi:  
-per il primo anno:  
-1) Analisi matematica I;  
-2) Geometria I;  
-3) Algebra;  
-4) Fisica generale I;  
-per il secondo anno:  
-1) Analisi matematica II;  
-2) Geometria II;  
-3) Meccanica razionale;  
-4) Fisica generale II.  
-2° biennio:  
-Sono insegnamenti fondamentali comuni ai tre indirizzi per il terzo anno  
-1) Istituzioni di analisi superiore  
-2) Istituzioni di geometria superiore  
-3) Istituzioni di fisica matematica.  
-L'insegnamento di Istituzioni di analisi superiore o quello di Istituzioni di fisica matematica potra' essere sostituito con quello fondamentale di Metodi matematici della fisica del corso di laurea in Fisica.  
-Sono insegnamenti fondamentali, per l'indirizzo generale  
-1) Analisi superiore  
-2) Geometria superiore;  
-per l'indirizzo applicativo;  
-1) Calcoli numerici, grafici, meccanici ed elettronici;  
-2) Matematiche superiori per l'indirizzo didattico  
-1) Matematiche complementari;  
-2) Teoria delle funzioni.  
-Sono insegnamenti complementari comuni ai tre indirizzi:  
-Insegnamenti complementari ad indirizzo fisico:  
-Astronomia, Calcolo delle probabilita', Cibernetica e teoria dell'informazione, Complementi di fisica generale, Elettronica, Fisica dello stato solido, Fisica matematica, Fisica nucleare, Fisica superiore, Fisica teorica, Geodesia, Istituzioni di fisica teorica, Meccanica quantistica, Meccanica statistica, Meccanica superiore, Onde elettromagnetiche, Relativita', Teoria ed applicazioni delle macchine calcolatrici.  
-Insegnamenti complementari ad indirizzo matematico:  
-Algebra superiore, Analisi funzionale, Analisi superiore, Astronomia, Calcolo delle probabilita', Cibernetica e teorica dell'informazione, Economia matematica, Geodesia, Geometria algebrica, Geometria differenziale, Logica matematica, Matematica finanziaria ed attuariale, Matematiche elementari da un punto di vista superiore, Pedagogia, Statistica matematica, Storia delle matematiche, Teoria dei numeri, Teoria ed applicazioni delle macchine calcolatrici, Topologia.  
-Ciascuno degli insegnamenti, sia fondamentali che complementari importa un esame finale.  
-Ciascun insegnamento fondamentale di ciascuno dei tre indirizzi e' insegnamento complementare per quegli indirizzi per cui esso non e' fondamentale.  
-Per essere ammesso al secondo anno lo studente deve aver ottenuto le firme di frequenza dei tre corsi di "Analisi matematica I", "Geometria I", "Algebra" e deve aver superato almeno due dei relativi esami finali.  
-Le frequenze a tutti i corsi del primo biennio devono procedere l'iscrizione ai corsi del secondo biennio.  
-La scelta fra i tre indirizzi avviene all'inizio del terzo anno.  
-Per essere ammesso all'esame di laurea per l'indirizzo scelto lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali per tale indirizzo ed in almeno due insegnamenti da lui scelti fra i complementari.  
-Art. 84. - Agli insegnamenti complementari del corso di laurea in Scienze naturali e' aggiunto quello di "Cristallografia".  
-Art. 89. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche e' aggiunto quello di "Cristallografia".  
-Art. 127. - Agli insegnamenti complementari del corso di laurea in Scienze agrarie sono aggiunti quelli di:  
-24) Fisiologia vegetale;  
-25) Cooperazione agricola;  
-26) Tecnica della conservazione dei prodotti agricoli;  
-27) Scienza dell'alimentazione del bestiame.  
-Art. 131, relativo alle propedeuticita' del corso di laurea in Scienze agrarie, e' modificato nel senso che e' aggiunto il seguente comma: "Gli esami di Botanica generale, Botanica sistematica, Agronomia generale e coltivazioni erbacee I e II debbono essere superati prima di quello riguardante l'Agricoltura tropicale e subtropicale".  
+Sono inseriti i seguenti articoli e intitolazione relativi all'istituzione della scuola diretta a fini speciali in "informatica".   
+Scuola diretta a fini speciali in informatica   
+Art. 166. - E' istituita presso l'Universita' di Pisa una scuola   
+diretta a Fini speciali in informatica.   
+La scuola ha il compito di preparare personale con competenze informatiche, in grado di affrontare i problemi connessi con il trattamento e l'elaborazione dei dati.   
+La scuola rilascia il diploma in informatica   
+Art. 167. - La scuola ha la durata di due anni. Ciascun anno   
+prevede 250 ore di insegnamento e 250 ore di attivita' pratiche guidate.   
+In base alle strutture disponibili, la scuola e' in grado di accettare un numero massimo di iscritti determinato in cento per ciascun anno di corso, per un totale di duecento studenti.   
+Art. 168. - Concorrono alla costituzione della scuola la facolta' di scienze matematiche, fisiche e naturali e i dipartimenti di informatica e di matematica. La scuola e' aperta ai contributi di altre facolta' e dipartimenti. A tal fine, su proposta del consiglio della scuola, la facolta' di scienze matematiche, fisiche e naturali potra' invitare altre facolta' a designare i docenti di specifiche discipline. Nel manifesto annuale degli studi viene indicata la sede della direzione della scuola.   
+Art. 169. - Gli insegnamenti impartiti sono i seguenti:   
+1° Anno.   
+istituzioni di matematica;   
+introduzione alla programmazione;   
+
+((architettura degli elaboratori))
+
+;   
+linguaggi e metodi di programmazione;   
+due insegnamenti scelti tra quelli opzionali.   
+2° Anno.   
+sistemi per l'elaborazione dei dati;   
+basi di dati;   
+sistemi informativi;   
+tre insegnamenti scelti tra quelli opzionali.   
+Gli insegnamenti opzionali sono i seguenti:   
+applicazioni della ricerca operativa;   
+applicazioni gestionali 1;   
+applicazioni gestionali 2;   
+automazione degli uffici;   
+automazione industriale;   
+calcolo numerico;   
+elementi di elettronica;   
+elementi di progettazione di sistemi digitali;   
+fondamenti di informatica;   
+laboratorio di programmazione;   
+matematica computazionale;   
+metodi e applicazioni dell'analisi matematica;   
+probabilita' e statistica;   
+sistemi operativi;   
+metodologie della programmazione;   
+telematica e sistemi distribuiti.   
+Tutti gli insegnamenti sono semestrali.   
+Gli insegnamenti di linguaggi e metodi di programmazione e di sistemi per l'elaborazione dei dati sono a prevalente carattere tecnico pratico.   
+Gli insegnamenti possono essere costituiti con opportuni raggruppamenti e coordinamenti di insegnamenti di corsi di laurea o di altri corsi di diploma.   
+Per la scelta degli insegnamenti opzionali, all'inizio di ciascun anno gli studenti dovranno presentare un piano sulla base delle indicazioni contenute nel manifesto degli studi, che indichera' l'effettiva attivazione degli insegnamenti e la loro collocazione in aree culturali omogenee.   
+I piani di studio sono approvati dal consiglio della scuola. Non sono ammesse abbreviazioni di corso.   
+Art. 170. - Gli insegnamenti prevedono attivita' pratiche che consistono in esercitazioni sulla materia trattata nel corso e in attivita' sperimentali.   
+Art. 171. E' obbligatorio un tirocinio che si svolge sotto la guida di un docente, di massima nell'ambito di uno dei corsi opzionali del secondo anno, ed ha la durata di almeno 80 ore.   
+La frequenza dei corsi e del tirocinio pratico e' obbligatoria.   
+Art. 173. - Il corso si conclude con un esame di diploma   
+consistente nella presentazione e discussione di un elaborato finalizzato alla professionalita' specifica, predisposto sotto la guida di un docente.   
+Art. 174. - L'Universita', su proposta del consiglio della scuola, puo' stabilire convenzioni con enti pubblici e privati, con finalita' di sovvenzionamento e di utilizzazione di strutture extrauniversitarie per lo svolgimento di attivita' didattiche ai sensi del [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382) e del [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162).   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 agosto 1964
+### Dato a Roma, addi' 19 luglio 1986
 
-SEGNI GUI
+COSSIGA
 
-Visto, il Guardasigilli: REALE
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 10 ottobre 1964
+Visto, il Guardasigilli: ROGNONI
 
-Atti del Governo, registro n. 187, foglio n. 96. - VILLA
+Registrato alla Corte dei conti, addi' 3 ottobre 1986
+
+Registro n. 73 Istruzione, foglio n. 316

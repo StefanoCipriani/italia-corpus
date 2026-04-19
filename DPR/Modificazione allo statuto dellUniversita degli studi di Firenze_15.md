@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1983 n. 1066
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 novembre 1985 n. 1034
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1983 n. 1066
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 novembre 1985 n. 1034
 ================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Firenze.
@@ -33,25 +33,28 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' di Firenze, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Nell'art. 76, relativo al corso di laurea in fisica (per l'indirizzo generale, applicativo e didattico), all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-fisica sperimentale delle particelle elementari.  
+Nell'art. 82, relativo al corso di laurea in scienze biologiche della facolta' di scienze matematiche, fisiche e naturali, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
+fisiopatologia vegetale;  
+ultrastrutture vegetali.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 dicembre 1983
+### Dato a Roma, addi' 22 novembre 1985
 
-PERTINI FALCUCCI
+COSSIGA
 
-Visto, il Guardasigilli: MARTINAZZOLI
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 29 febbraio 1984
+Visto, il Guardasigilli MARTINAZZOLI
 
-Registro n. 13 Iscrizione, loglio n. 92
+Registrato alla Corte dei conti, addi' 12 aprile 1986
+
+Registro n. 27 Istruzione, foglio n. 316

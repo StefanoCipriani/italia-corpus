@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1948 n. 1433
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 luglio 1951 n. 1159
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1948 n. 1433
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 luglio 1951 n. 1159
+==============================================================
 
 Autorizzazione al Collegio Ghislieri di Pavia ad accettare una donazione.
 -------------------------------------------------------------------------
@@ -12,7 +12,8 @@ Art. 1
 
 N.
 
-1433. Decreto del Presidente della Repubblica 14 settembre 1948, col quale, sulla proposta del Ministro per la pubblica istruzione, il Collegio Ghislieri di Pavia viene autorizzato ad accettare la donazione della comma di L. 3.000.000, in titoli di Rendita italiana 5%, disposta in suo favore dai prof. dott. Antonio Carini, con atto pubblico in data 10 dicembre 1947, per l'istituzione di un posto gratuito di alunno presso il Collegio medesimo, da intitolarsi al nome del "Prof, dott. Antonio Carini" e da assegnarsi ad un giovane Valtellinese che intenda seguire i corsi di medicina o chimica o scienze naturali.  
+1159. Decreto del Presidente della Repubblica 17 luglio 1951, col quale, sulla proposta del Ministro per la pubblica istruzione, il Collegio Ghislieri di Pavia viene autorizzato ad accettare la donazione della raccolta di libri di economia politica, disposta in suo favore dalla signora Maria Vezzani ved. Zanardi Lamberti, con atto pubblico in data 8 novembre 1950, n. 24176-4798.  
   
-Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 13 dicembre 1948
+Visto, il Guardasigilli: ZOLI  
+Registrato alla Corte dei conti, addi' 5 novembre 1951  
+Atti del Governo, registro n. 45, foglio n. 65. - FRASCA

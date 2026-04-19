@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 gennaio 1981 n. 734
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 gennaio 1981 n. 1078
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 gennaio 1981 n. 734
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 gennaio 1981 n. 1078
+===============================================================
 
 Autorizzazione all'Associazione italiana della Croce rossa, in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-734. Decreto del Presidente della Repubblica 8 gennaio 1981, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare il legato, consistente in titoli obbligazionari depositati presso il Credito artigiano di Milano, del valore nominale di L. 13.500.000 di cui L. 4.000.000 da devolversi alla delegazione di Bresso, disposto dalla sig.na Irene Giavazzi in favore del comitato provinciale C.R.I. di Milano e della delegazione C.R.I. di Bresso (Milano) con testamento olografo pubblicato in data 15 settembre 1976, n. 28005/2903 di repertorio, a rogito dott.ssa Adele Ricevuti, notaio in Milano.  
+1078. Decreto del Presidente della Repubblica 8 gennaio 1981, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare il legato, consistente in un appartamento sito in Piacenza, via Nicolini n. 8, del valore di L. 31.000.000 circa, disposta dal geom. Vincenzo Torelli con testamento pubblico 24 maggio 1975, n. 201 di repertorio, a rogito dott. Viscardo Tagliaferro, notaio in Castel S. Giovanni (Piacenza), registrato a Piacenza in data 9 luglio 1976.  
   
 Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 1 dicembre 1981  
-Registro n. 7 Sanita', foglio n. 45
+Registrato alla Corte dei conti, addi' 13 marzo 1982  
+Registro n. 2 Sanita', foglio n. 58

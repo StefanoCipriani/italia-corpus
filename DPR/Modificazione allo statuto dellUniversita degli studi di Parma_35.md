@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 1136
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1980 n. 1134
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 1136
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1980 n. 1134
 =================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Parma.
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Parma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,38 +20,49 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Visto il [decreto del Presidente della Repubblica 22 ottobre 1964, n. 1495](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1964-10-22;1495) con il quale e' stata istituita la facolta' convenzionata di magistero dell'Universita' di Parma;
 
-Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
+Veduta la ministeriale n. 349 del 6 dicembre 1969;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
+Veduta la convenzione stipulata in data 27 febbraio 1970 tra l'Universita' di Parma ed il comune di Cremona per il funzionamento in Cremona di corsi di laurea della facolta' di magistero;
 
-Veduto il parere del Consiglio universitario nazionale;
+Veduta la successiva convenzione stipulata in data 18 settembre 1979 fra l'Universita' degli studi di Parma ed il comune di Cremona;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Decreta:
---------
+Riconosciuta la particolare necessita' di approvare le convenzioni sopra menzionate;
 
-Lo statuto dell'Universita' di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Sentito il parere del Consiglio universitario nazionale;
 
-Articolo unico
---------------
+Sulla
+-----
+
+proposta del Ministro della pubblica istruzione di concerto con il Ministro del tesoro; Decreta:
+
+Art. 1
+------
 
   
-Nell'art. 142, relativo al corso di laurea in medicina veterinaria, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-igiene veterinaria.  
+Sono approvate e rese esecutive le annesse convenzioni stipulate in data 27 febbraio 1970 e in data 18 settembre 1979 tra l'Universita' degli studi di Parma ed il comune di Cremona per l'istituzione in Cremona di corsi della facolta' di magistero.  
+
+Art. 2
+------
+
+  
+Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Dopo l'art. 82, e con il conseguente spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo:  
+Art. 83. - E' operante in Cremona la convenzione stipulata tra l'Universita' degli studi di Parma e gli enti locali di Cremona per il funzionamento in Cremona di corsi universitari della facolta' di magistero dell'Universita' di Parma.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Selva di Val Gardena, addi' 2 settembre 1983
+### Dato a Roma, addi' 27 settembre 1980
 
-PERTINI FALCUCCI
+p. Il Presidente della Repubblica Il Presidente del Senato FANFANI SARTI - PANDOLFI
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: SARTI
 
-Registrato alla Corte dei conti, addi' 22 marzo 1984
+Registrato alla Corte dei conti, addi' 30 aprile 1981
 
-Registro n. 17 Istruzione, foglio n. 370
+Registro n. 37 Istruzione, foglio n. 397

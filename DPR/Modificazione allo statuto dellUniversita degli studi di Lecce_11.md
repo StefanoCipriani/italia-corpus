@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1984 n. 1165
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 601
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1984 n. 1165
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 601
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Lecce.
 -----------------------------------------------------------------
@@ -40,20 +40,18 @@ Articolo unico
 
   
 Nell'art. 24, relativo al corso di laurea in materie letterarie, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-storia e sistemi dei rapporti tra Stato e Chiesa.  
+storia e tecnica del restauro.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatta obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1984
+### Dato a Roma, addi' 4 maggio 1983
 
-PERTINI
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 18 marzo 1985
+Registrato alla Corte dei conti, addi' 15 ottobre 1983
 
-Registro n. 15 Istruzione, foglio n. 396
+Registro n. 66 Istruzione, foglio n. 135

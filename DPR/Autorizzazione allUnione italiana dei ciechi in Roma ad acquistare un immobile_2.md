@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 giugno 1977 n. 579
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1986 n. 1018
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 giugno 1977 n. 579
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1986 n. 1018
+================================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad acquistare un immobile.
 ----------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-579. Decreto del Presidente della Repubblica 22 giugno 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad acquistare dalla sig.ra Mattia Luisa ved. Epifano, al convenuto prezzo di L. 14.000.000, un appartamento sito in Potenza, corso Garibaldi, 42, composto di 4 vani ed accessori per una superficie di mq 120, indicato in catasto alla partita 2970, foglio 48, particella 360/9, da adibire a sede della locale sezione provinciale. L'ufficio tecnico erariale di Potenza ha fatto presente che il valore di L. 16.000.000 attribuito all'immobile dal perito di parte geom. Canio Cillo puo' ritenersi congruo.  
+1018. Decreto del Presidente della Repubblica 27 dicembre 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad acquistare, al convenuto prezzo di L. 45.000.000, un appartamento sito in Belluno, via Mezzaterra n. 7, distinto nel nuovo catasto edilizio urbano al foglio 71, mappale 361 sub. 11, di proprieta' della sig.ra Marisa Olivotto, da destinare a sede sociale.   
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 17 agosto 1977  
-Registro n. 7 Presidenza, foglio n. 89
+Visto, il Guardasigilli: ROGNONI   
+Registrato alla Corte dei conti, addi' 18 febbraio 1987   
+Registro n. 4 Presidenza, foglio n. 5

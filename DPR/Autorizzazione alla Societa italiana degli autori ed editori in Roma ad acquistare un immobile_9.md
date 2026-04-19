@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 agosto 1985 n. 576
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1984 n. 24
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 agosto 1985 n. 576
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1984 n. 24
 =============================================================
 
 Autorizzazione alla Societa' italiana degli autori ed editori, in Roma, ad acquistare un immobile.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-576. Decreto del Presidente della Repubblica 6 agosto 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Societa' italiana degli autori ed editori (SIAE), in Roma, viene autorizzata ad acquistare, come da atto preliminare di compravendita 10 agosto 1981, n. 64200 di repertorio, a rogito dott. Alberto Menazzi, notaio in Udine, al convenuto prezzo di L. 70.000.000, un immobile sito in Udine, via Valussi, costituito da porzione di fabbricato nel complesso condominiale "Gardenia III", distinto nel catasto terreni con la particella 568 del foglio 48, di are 49.16, consistente in un appartamento al piano primo e locale scantinato complessivamente di m quadri 134,80, valutato con perizia di parte L. 70.300.000.  
+24. Decreto del Presidente della Repubblica 10 gennaio 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Societa' italiana degli autori ed editori (S.I.A.E.), in Roma, viene autorizzata ad acquistare un immobile sito in La Spezia, piazza Verdi n. 41, piano primo, composto di otto vani, censito al nuovo catasto edilizio urbano alla partita n. 5527, foglio 36, mappale 1 subalterno 6, zona censuaria 1, valutato da perizia estimativa di parte L. 170.000.000, come da atto di compravendita 5 febbraio 1981, n. 65.350/4472 di repertorio, a rogito dottor Adriano Cecchi, notaio in La Spezia, registrato a La Spezia in data 12 febbraio 1981 al n. 598.  
   
 Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 11 ottobre 1985  
-Registro n. 9 Presidenza, foglio n. 73
+Registrato alla Corte dei conti, addi' 15 febbraio 1984  
+Registro n. 2 Presidenza, foglio n. 129

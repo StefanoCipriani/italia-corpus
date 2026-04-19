@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 gennaio 1965 n. 70
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1969 n. 1087
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 gennaio 1965 n. 70
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1969 n. 1087
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Catania.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, numero 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,9 +18,7 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -32,154 +30,165 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 9. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti quelli di:
+Art. 157, relativo all'elenco delle scuole di specializzazione della facolta' di medicina e chirurgia e' modificato nel senso che la scuola in "Igiene" muta denominazione in quella di "Igiene e medicina preventiva".
 
-Diritto bizantino;
+Gli articoli 198-199, relativi alla scuola di specializzazione in igiene sono abrogati e sostituiti dai seguenti:
 
-Papirologia giuridica;
+Scuola di specializzazione in igiene e medicina preventiva
 
-Diritto pubblico dell'economia;
+Art. 198. - Il corso degli studi della scuola di specializzazione in igiene e medicina preventiva ha la durata di tre anni ed e' distinto in un biennio di studi comuni mentre il 3° anno e' articolato nei seguenti quattro orientamenti:
 
-Esegesi delle fonti del diritto italiano.
+a) orientamento di sanita' pubblica;
 
-Art. 14. - Agli insegnamenti complementari del corso di laurea in Scienze politiche sono aggiunti quelli di:
+b) orientamento di laboratorio;
 
-Diritto pubblico dell'economia;
+c) orientamento di igiene e tecnica ospedaliera;
 
-Storia del diritto pubblico italiano;
+d) orientamento di igiene e medicina scolastica.
 
-Diritto privato comparato;
+All'atto dell'iscrizione al 3° anno di corso, l'allievo dovra' indicare l'orientamento prescelto e alla fine dell'anno stesso potra' conseguire il diploma di specialista in igiene e medicina preventiva con o di sanita' pubblica, o di laboratorio, o di igiene e tecnica ospedaliera, o di igiene e medicina scolastica.
 
-Diritto processuale generale.
+Il conseguimento del diploma di specializzazione in uno degli orientamenti sopra menzionati, offre la possibilita' di accedere agli altri orientamenti mediante la iscrizione diretta al 3° anno di corso e con la convalida degli studi e degli esami del biennio comune.
 
-Art. 46. - Dopo il sesto comma e' aggiunto alla propedeuticita' relativa al corso di laurea in Medicina e chirurgia l'esame di Fisiologia umana nei riguardi di quello di Farmacologia.
+L'ammissione alla scuola e' subordinata ad un esame di ammissione.
 
-Gli articoli da 89 a 96 relativi alla Scuola di applicazione forense annessa alla Facolta' di giurisprudenza sono abrogati e sostituiti con la seguente nuova denominazione: "Scuola di perfezionamento in Discipline forensi ed amministrative con il conseguente spostamento della numerazione degli articoli successivi".
+La scuola non puo' accogliere piu' di quindici allievi per ciascun anno di corso.
 
-Scuola di perfezionamento in discipline forensi ed amministrative
+Art. 199. - Gli insegnamenti impartiti nella scuola sono:
 
-Art. 89. - Al fine di soddisfare le esigenze teoriche e pratiche della preparazione dei laureati all'esercizio della professione forense ed all'assunzione delle funzioni giudiziarie ed amministrative e' istituita presso la Facolta' di giurisprudenza, nell'ambito delle attivita' del Seminario giuridico, una Scuola di perfezionamento in discipline forensi ed amministrative.
+1° Anno:
 
-Art. 90. - Alla Scuola possono iscriversi i laureati in Giurisprudenza, in Scienze politiche ed in Economia e commercio. La domanda di ammissione, diretta al rettore, dovra' essere corredata del diploma di studi medi precedenti il corso di laurea di provenienza, del certificato di laurea e di tutti quei titoli che l'aspirante ritenga di dover presentare.
+1) Metodologia statistica e biometria;
 
-Il Consiglio di Facolta' determina anno per anno il numero massimo di allievi che possono essere iscritti alla Scuola, secondo le particolari esigenze che si manifestano in ciascun anno accademico.
+2) Educazione sanitaria;
 
-Le domande di ammissione sono rimesse al direttore della Scuola, il quale, ove il numero dei richiedenti sia superiore a quello fissato come sopra, dopo aver valutato comparativamente i titoli, procede alla graduatoria degli aspiranti che deve essere approvata e resa esecutiva dal Consiglio di facolta'.
+3) Psicologia;
 
-Art. 91. - La Direzione della scuola e' affidata dal rettore ad un professore di ruolo della Facolta' di giurisprudenza per un triennio, su proposta della Facolta' stessa. Il direttore della Scuola vigila sulla frequenza, l'attivita' e la disciplina degli iscritti, controllando la osservanza degli orari delle lezioni e delle esercitazioni. La vigilanza del funzionamento generale della Scuola compete al preside della Facolta' di giurisprudenza.
+4) Microbiologia;
 
-Art. 92. - L'insegnamento delle materie previste nel programma della Scuola e' affidato, per incarico, a professori titolari, a liberi docenti od a persone di riconosciuta competenza, con deliberazione della Facolta'.
+5) Parassitologia;
 
-Art. 93. - Gli allievi sono tenuti ad osservare scrupolosamente l'orario delle lezioni e delle esercitazioni.
+6) Epidemiologia e profilassi generale.
 
-La frequenza ai singoli corsi ed alle esercitazioni e' obbligatoria e deve essere attestata dai singoli insegnanti su uno speciale libretto, sul quale il direttore della Scuola dovra' apporre il visto per la validita' di ciascun anno di corso. L'iscritto che non abbia soddisfatto agli obblighi suddetti e che non abbia superato gli esami prescritti per il primo anno non viene ammesso all'anno successivo, ne', se di secondo anno, puo' essere ammesso agli esami di diploma ed e', pertanto, tenuto ad iscriversi quale ripetente al corso non completato.
+2° Anno:
 
-Art. 94. - Gli insegnamenti e le esercitazioni della Scuola debbono essere tenuti distinti da quelli per gli studenti del corso di laurea in Giurisprudenza ed in Scienze politiche. Gli insegnamenti possono avere, oltreche' carattere di lezioni cattedratiche, quella diversa forma che e' consentita dall'indole di ciascuna disciplina e si possono, in parte, svolgere mediante conferenze, esercitazioni e discussioni su problemi della pratica amministrativa e forense.
+1) Patologia e clinica delle malattie infettive;
 
-Il programma della Scuola viene compilato ogni anno dal direttore e deve essere approvato dalla Facolta', che approva altresi' gli orari settimanali di insegnamento, concordati dal direttore della Scuola con gli insegnanti.
+2) Epidemiologia e profilassi delle malattie infettive;
 
-Art. 95. - Il corso di perfezionamento in discipline forensi ed amministrative ha la durata di due anni divisi in un primo anno di studi comuni a tutti gli allievi ed in un anno di studi, distinto in due sezioni:
+3) Patologia e clinica delle malattie non infettive di importanza sociale;
 
-a) di pratica forense;
+4) Demografia e statistica sanitaria;
 
-b) di pratica amministrativa.
+5) Legislazione e organizzazione sanitaria;
 
-Gli insegnamenti del primo anno di corso, comuni alle due sessioni, sono:
+6) Epidemiologia e profilassi delle malattie infettive di importanza sociale.
 
-1) Diritto civile;
+3° Anno:
 
-2) Diritto commerciale;
+Per l'orientamento di sanita' pubblica:
 
-3) Diritto processuale civile;
+1) Approvvigionamento idrico, raccolta e smaltimento dei rifiuti liquidi e solidi; inquinamenti atmosferici;
 
-4) Diritto finanziario;
+2) Igiene edilizia e urbanistica;
 
-5) Diritto penale;
+3) Igiene dell'alimentazione;
 
-6) Procedura penale;
+4) Igiene e medicina scolastica;
 
-7) Diritto amministrativo.
+5) Igiene ospedaliera;
 
-Gli insegnamenti del secondo anno, per la sezione di pratica forense, sono:
+6) Servizi di sanita' pubblica.
 
-1) Diritto costituzionale;
+Per l'orientamento di laboratorio.
 
-2) Diritto ecclesiastico e matrimoniale;
+1) Microscopia applicata all'igiene;
 
-3) Diritto del lavoro e della previdenza sociale;
+2) Microbiologia applicata all'igiene;
 
-4) Diritto processuale amministrativo;
+3) Chimica clinica;
 
-5) Diritto fallimentare.
+4) Accertamento diagnostico delle malattie batteriche e parassitarie;
 
-Gli insegnamenti del secondo anno, per la sezione di pratica amministrativa sono:
+5) Accertamento diagnostico delle infezioni virali;
 
-1) Diritto costituzionale;
+6) Nozioni di anatomia e istologia patologica.
 
-2) Diritto pubblico regionale;
+Per l'orientamento di igiene e tecnica ospedaliera.
 
-3) Diritto del lavoro e della previdenza sociale;
+1) Storia degli ospedali e principi metodologici dell'assistenza ospedaliera;
 
-4) Scienza dell'amministrazione;
+2) Igiene e tecniche delle costruzioni ospedaliere, arredamento ed impianti sanitari;
 
-5) Diritto processuale amministrativo;
+3) Organizzazione e funzioni degli ospedali generali e speciali;
 
-6) Contabilita' dello Stato;
+4) Diritto amministrativo e legislazione ospedaliera;
 
-7) Economia politica e statistica.
+5) Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospedaliera;
 
-Art. 96. - Gli esami di profitto vengono sostenuti dagli allievi, in unica sessione, alla fine di ogni anno di corso e si svolgono secondo le norme seguenti. Le Commissioni relative sono costituite dal Collegio degli insegnanti del primo anno di corso, per gli esami di questo; dal Collegio degli insegnanti del ramo forense, per gli esami del secondo anno di tale specializzazione, e dal Collegio degli insegnanti del ramo amministrativo per gli esami di secondo anno di questa specializzazione. Tali Commissioni sono nominate dal direttore che, in caso di impedimento di uno o piu' degli anzidetti insegnanti, provvede a sostituirli con un professore di ruolo della Facolta', di materie affine o con un libero docente. La Commissione per l'esame di diploma e' nominata dal rettore. Essa e' composta di sette membri di cui uno e' il direttore della Scuola, che la presiede, e gli altri sono scelti dal rettore fra i professori dei corsi ufficiali di insegnamento della Scuola.
+6) Selezione e istruzione professionale del personale ospedaliero;
 
-In caso di impedimento del direttore, la Commissione e' presieduta dal professore piu' anziano di ruolo, insegnante presso la Scuola.
+7) Organizzazione e funzione dei laboratori di analisi e di accertamento necroscopico.
 
-Non possono far parte delle Commissioni esaminatrici persone che siano fra loro o con alcuno dei candidati parenti od affini fino al quarto grado incluso.
+Per l'orientamento di igiene e medicina scolastica.
 
-Art. 97. - Gli esami di profitto del primo anno consistono in un colloquio orale sostenuto dall'allievo con la' Commissione, sulle varie discipline oggetto del corso frequentato. Non e' ammesso al secondo anno di corso quell'allievo che non raggiunga la sufficienza in tutte le materie d'insegnamento del primo anno. Gli esami di profitto del secondo anno consistono nello svolgimento di due temi scritti, su argomenti assegnati dalle Commissioni e riguardanti le discipline trattate nei due anni di corso. Gli allievi sono tenuti a consegnare gli elaborati entro otto ore dalla dettatura del tema.
+1) Auxologia normale e patologica;
 
-Non e' ammesso all'esame di diploma l'allievo che non raggiunga la sufficienza in entrambi i temi assegnatigli. Le Commissioni, in ogni caso, nel formulare il loro giudizio sugli allievi, terranno conto delle esercitazioni scritte da essi elaborate durante l'anno accademico. L'esame di diploma consiste in un colloquio sulle varie materie insegnate nella Scuola.
+2) Epidemiologia e profilassi delle malattie dell'eta' scolastica;
 
-Art. 98. - Per la carriera scolastica, gli esami e la disciplina degli allievi della Scuola di perfezionamento valgono, in quanto applicabili e per quanto non prescritto nel presente statuto, le disposizioni del vigente ordinamento universitario sugli studenti.
+3) Servizi di medicina scolastica;
 
-Art. 99. - Gli iscritti devono pagare per la tassa di Immatricolazione L. 5000, per la tassa annuale d'iscrizione L. 5000; per contributo di biblioteca L. 3000. I diplomandi dovranno, inoltre, pagare per sopratassa di diploma L. 3000; coloro i quali conseguono il diploma di perfezionamento sono tenuti al versamento della tassa di diploma in L. 6000.
+4) Elementi di psicologia e pedagogia per l'eta' scolastica;
 
-Tasse, sopratasse e contributi sono versati alla cassa dell'Universita'; la tassa di diploma, va, invece, versata all'Erario. Il provento delle tasse di immatricolazione e di iscrizione va devoluto, per meta', alla Scuola e per l'altra meta' e' incamerato dall'Universita'.
+5) Igiene dell'alimentazione;
 
-Il contributo di biblioteca va interamente devoluto alla biblioteca del Seminario giuridico. Il provento delle sopratasse per gli esami di profitto e di diploma, e' ripartito a norma del [decreto del Presidente della Repubblica 1 dicembre 1952, n. 4512](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-12-01;4512).
+6) Assistenza parascolastica;
 
-Art. 100. - Il primo anno della Scuola di perfezionamento viene considerato come corso di pratica forense e, pertanto, puo' tener luogo della frequenza dello studio di un procuratore per un periodo non superiore ad un anno, ai sensi ed agli effetti dell'[art. 18 del regio decreto 27 novembre 1933, n. 1578](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-11-27;1578~art18). Gli iscritti che siano in regola con il pagamento di tasse, sopratasse e contributi, possono ottenere il rilascio del certificato relativo da parte del direttore della Scuola, qualora abbiano frequentato il detto primo corso con profitto ed abbiano superato gli esami previsti dal, piano della Scuola per l'ammissione al 2° anno.
+7) Edilizia scolastica.
 
-Art. 101. - Gli atti ed i documenti relativi ai corsi anzidetti sono conservati dalla segreteria dell'Universita', che provvede al rilascio dei certificati che siano richiesti dagli interessati. In base ai risultati degli esami di diploma, il rettore dispone il rilascio dei diplomi di specializzazione, che saranno muniti della sua firma, di quella del direttore della Scuola e del direttore amministrativo, oltreche' del timbro a secco dell'Universita'.
+Insegnamenti complementari (uno per ogni anno di corso) a scelta fra i seguenti:
 
-Art. 166. - L'ultimo comma e' abrogato e sostituito dal seguente: "La frequenza ai corsi, alle esercitazioni cliniche e di laboratorio e' obbligatoria e deve essere attestata dai singoli insegnanti su speciale libretto. Su tale libretto il direttore della Scuola dovra' apporre il visto per la validita' di ciascun anno di corso.
+1) Ispezione delle carni;
 
-L'iscritto che non abbia superati gli esami prescritti per ciascun anno di corso puo' essere ammesso all'anno successivo".
+2) Geologia applicata all'igiene;
+
+3) Igiene mentale;
+
+4) Malattie professionali e loro prevenzione;
+
+5) Igiene navale e dell'emigrazione;
+
+6) Malattie tropicali;
+
+7) Genetica;
+
+8) Gerontologia e geriatria.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 19 gennaio 1965
+Dato a Roma, addi' 23 ottobre 1969
 
 SARAGAT
 
-GUI
+FERRARI AGGRADI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GAVA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 25 febbraio 1965 Atti del Governo, registro n. 191, foglio n. 29. - VILLA
+alla Corte dei conti, addi' 19 gennaio 1970 Atti del Governo, registro n. 231, foglio n. 33. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, numero 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -187,80 +196,87 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 9. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti quelli di:  
-Diritto bizantino;  
-Papirologia giuridica;  
-Diritto pubblico dell'economia;  
-Esegesi delle fonti del diritto italiano.  
-Art. 14. - Agli insegnamenti complementari del corso di laurea in Scienze politiche sono aggiunti quelli di:  
-Diritto pubblico dell'economia;  
-Storia del diritto pubblico italiano;  
-Diritto privato comparato;  
-Diritto processuale generale.  
-Art. 46. - Dopo il sesto comma e' aggiunto alla propedeuticita' relativa al corso di laurea in Medicina e chirurgia l'esame di Fisiologia umana nei riguardi di quello di Farmacologia.  
-Gli articoli da 89 a 96 relativi alla Scuola di applicazione forense annessa alla Facolta' di giurisprudenza sono abrogati e sostituiti con la seguente nuova denominazione: "Scuola di perfezionamento in Discipline forensi ed amministrative con il conseguente spostamento della numerazione degli articoli successivi".  
+Art. 157, relativo all'elenco delle scuole di specializzazione della facolta' di medicina e chirurgia e' modificato nel senso che la scuola in "Igiene" muta denominazione in quella di "Igiene e medicina preventiva".  
+Gli articoli 198-199, relativi alla scuola di specializzazione in igiene sono abrogati e sostituiti dai seguenti:  
   
-Scuola di perfezionamento in discipline forensi ed amministrative  
+Scuola di specializzazione in igiene e medicina preventiva  
   
-Art. 89. - Al fine di soddisfare le esigenze teoriche e pratiche della preparazione dei laureati all'esercizio della professione forense ed all'assunzione delle funzioni giudiziarie ed amministrative e' istituita presso la Facolta' di giurisprudenza, nell'ambito delle attivita' del Seminario giuridico, una Scuola di perfezionamento in discipline forensi ed amministrative.  
-Art. 90. - Alla Scuola possono iscriversi i laureati in Giurisprudenza, in Scienze politiche ed in Economia e commercio. La domanda di ammissione, diretta al rettore, dovra' essere corredata del diploma di studi medi precedenti il corso di laurea di provenienza, del certificato di laurea e di tutti quei titoli che l'aspirante ritenga di dover presentare.  
-Il Consiglio di Facolta' determina anno per anno il numero massimo di allievi che possono essere iscritti alla Scuola, secondo le particolari esigenze che si manifestano in ciascun anno accademico.  
-Le domande di ammissione sono rimesse al direttore della Scuola, il quale, ove il numero dei richiedenti sia superiore a quello fissato come sopra, dopo aver valutato comparativamente i titoli, procede alla graduatoria degli aspiranti che deve essere approvata e resa esecutiva dal Consiglio di facolta'.  
-Art. 91. - La Direzione della scuola e' affidata dal rettore ad un professore di ruolo della Facolta' di giurisprudenza per un triennio, su proposta della Facolta' stessa. Il direttore della Scuola vigila sulla frequenza, l'attivita' e la disciplina degli iscritti, controllando la osservanza degli orari delle lezioni e delle esercitazioni. La vigilanza del funzionamento generale della Scuola compete al preside della Facolta' di giurisprudenza.  
-Art. 92. - L'insegnamento delle materie previste nel programma della Scuola e' affidato, per incarico, a professori titolari, a liberi docenti od a persone di riconosciuta competenza, con deliberazione della Facolta'.  
-Art. 93. - Gli allievi sono tenuti ad osservare scrupolosamente l'orario delle lezioni e delle esercitazioni.  
-La frequenza ai singoli corsi ed alle esercitazioni e' obbligatoria e deve essere attestata dai singoli insegnanti su uno speciale libretto, sul quale il direttore della Scuola dovra' apporre il visto per la validita' di ciascun anno di corso. L'iscritto che non abbia soddisfatto agli obblighi suddetti e che non abbia superato gli esami prescritti per il primo anno non viene ammesso all'anno successivo, ne', se di secondo anno, puo' essere ammesso agli esami di diploma ed e', pertanto, tenuto ad iscriversi quale ripetente al corso non completato.  
-Art. 94. - Gli insegnamenti e le esercitazioni della Scuola debbono essere tenuti distinti da quelli per gli studenti del corso di laurea in Giurisprudenza ed in Scienze politiche. Gli insegnamenti possono avere, oltreche' carattere di lezioni cattedratiche, quella diversa forma che e' consentita dall'indole di ciascuna disciplina e si possono, in parte, svolgere mediante conferenze, esercitazioni e discussioni su problemi della pratica amministrativa e forense.  
-Il programma della Scuola viene compilato ogni anno dal direttore e deve essere approvato dalla Facolta', che approva altresi' gli orari settimanali di insegnamento, concordati dal direttore della Scuola con gli insegnanti.  
-Art. 95. - Il corso di perfezionamento in discipline forensi ed amministrative ha la durata di due anni divisi in un primo anno di studi comuni a tutti gli allievi ed in un anno di studi, distinto in due sezioni:  
-a) di pratica forense;  
-b) di pratica amministrativa.  
-Gli insegnamenti del primo anno di corso, comuni alle due sessioni, sono:  
-1) Diritto civile;  
-2) Diritto commerciale;  
-3) Diritto processuale civile;  
-4) Diritto finanziario;  
-5) Diritto penale;  
-6) Procedura penale;  
-7) Diritto amministrativo.  
-Gli insegnamenti del secondo anno, per la sezione di pratica forense, sono:  
-1) Diritto costituzionale;  
-2) Diritto ecclesiastico e matrimoniale;  
-3) Diritto del lavoro e della previdenza sociale;  
-4) Diritto processuale amministrativo;  
-5) Diritto fallimentare.  
-Gli insegnamenti del secondo anno, per la sezione di pratica amministrativa sono:  
-1) Diritto costituzionale;  
-2) Diritto pubblico regionale;  
-3) Diritto del lavoro e della previdenza sociale;  
-4) Scienza dell'amministrazione;  
-5) Diritto processuale amministrativo;  
-6) Contabilita' dello Stato;  
-7) Economia politica e statistica.  
-Art. 96. - Gli esami di profitto vengono sostenuti dagli allievi, in unica sessione, alla fine di ogni anno di corso e si svolgono secondo le norme seguenti. Le Commissioni relative sono costituite dal Collegio degli insegnanti del primo anno di corso, per gli esami di questo; dal Collegio degli insegnanti del ramo forense, per gli esami del secondo anno di tale specializzazione, e dal Collegio degli insegnanti del ramo amministrativo per gli esami di secondo anno di questa specializzazione. Tali Commissioni sono nominate dal direttore che, in caso di impedimento di uno o piu' degli anzidetti insegnanti, provvede a sostituirli con un professore di ruolo della Facolta', di materie affine o con un libero docente. La Commissione per l'esame di diploma e' nominata dal rettore. Essa e' composta di sette membri di cui uno e' il direttore della Scuola, che la presiede, e gli altri sono scelti dal rettore fra i professori dei corsi ufficiali di insegnamento della Scuola.  
-In caso di impedimento del direttore, la Commissione e' presieduta dal professore piu' anziano di ruolo, insegnante presso la Scuola.  
-Non possono far parte delle Commissioni esaminatrici persone che siano fra loro o con alcuno dei candidati parenti od affini fino al quarto grado incluso.  
-Art. 97. - Gli esami di profitto del primo anno consistono in un colloquio orale sostenuto dall'allievo con la' Commissione, sulle varie discipline oggetto del corso frequentato. Non e' ammesso al secondo anno di corso quell'allievo che non raggiunga la sufficienza in tutte le materie d'insegnamento del primo anno. Gli esami di profitto del secondo anno consistono nello svolgimento di due temi scritti, su argomenti assegnati dalle Commissioni e riguardanti le discipline trattate nei due anni di corso. Gli allievi sono tenuti a consegnare gli elaborati entro otto ore dalla dettatura del tema.  
-Non e' ammesso all'esame di diploma l'allievo che non raggiunga la sufficienza in entrambi i temi assegnatigli. Le Commissioni, in ogni caso, nel formulare il loro giudizio sugli allievi, terranno conto delle esercitazioni scritte da essi elaborate durante l'anno accademico. L'esame di diploma consiste in un colloquio sulle varie materie insegnate nella Scuola.  
-Art. 98. - Per la carriera scolastica, gli esami e la disciplina degli allievi della Scuola di perfezionamento valgono, in quanto applicabili e per quanto non prescritto nel presente statuto, le disposizioni del vigente ordinamento universitario sugli studenti.  
-Art. 99. - Gli iscritti devono pagare per la tassa di Immatricolazione L. 5000, per la tassa annuale d'iscrizione L. 5000; per contributo di biblioteca L. 3000. I diplomandi dovranno, inoltre, pagare per sopratassa di diploma L. 3000; coloro i quali conseguono il diploma di perfezionamento sono tenuti al versamento della tassa di diploma in L. 6000.  
-Tasse, sopratasse e contributi sono versati alla cassa dell'Universita'; la tassa di diploma, va, invece, versata all'Erario. Il provento delle tasse di immatricolazione e di iscrizione va devoluto, per meta', alla Scuola e per l'altra meta' e' incamerato dall'Universita'.  
-Il contributo di biblioteca va interamente devoluto alla biblioteca del Seminario giuridico. Il provento delle sopratasse per gli esami di profitto e di diploma, e' ripartito a norma del [decreto del Presidente della Repubblica 1 dicembre 1952, n. 4512](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-12-01;4512).  
-Art. 100. - Il primo anno della Scuola di perfezionamento viene considerato come corso di pratica forense e, pertanto, puo' tener luogo della frequenza dello studio di un procuratore per un periodo non superiore ad un anno, ai sensi ed agli effetti dell'[art. 18 del regio decreto 27 novembre 1933, n. 1578](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-11-27;1578~art18). Gli iscritti che siano in regola con il pagamento di tasse, sopratasse e contributi, possono ottenere il rilascio del certificato relativo da parte del direttore della Scuola, qualora abbiano frequentato il detto primo corso con profitto ed abbiano superato gli esami previsti dal, piano della Scuola per l'ammissione al 2° anno.  
-Art. 101. - Gli atti ed i documenti relativi ai corsi anzidetti sono conservati dalla segreteria dell'Universita', che provvede al rilascio dei certificati che siano richiesti dagli interessati. In base ai risultati degli esami di diploma, il rettore dispone il rilascio dei diplomi di specializzazione, che saranno muniti della sua firma, di quella del direttore della Scuola e del direttore amministrativo, oltreche' del timbro a secco dell'Universita'.  
-Art. 166. - L'ultimo comma e' abrogato e sostituito dal seguente: "La frequenza ai corsi, alle esercitazioni cliniche e di laboratorio e' obbligatoria e deve essere attestata dai singoli insegnanti su speciale libretto. Su tale libretto il direttore della Scuola dovra' apporre il visto per la validita' di ciascun anno di corso.  
-L'iscritto che non abbia superati gli esami prescritti per ciascun anno di corso puo' essere ammesso all'anno successivo".  
+Art. 198. - Il corso degli studi della scuola di specializzazione in igiene e medicina preventiva ha la durata di tre anni ed e' distinto in un biennio di studi comuni mentre il 3° anno e' articolato nei seguenti quattro orientamenti:  
+a) orientamento di sanita' pubblica;  
+b) orientamento di laboratorio;  
+c) orientamento di igiene e tecnica ospedaliera;  
+d) orientamento di igiene e medicina scolastica.  
+All'atto dell'iscrizione al 3° anno di corso, l'allievo dovra' indicare l'orientamento prescelto e alla fine dell'anno stesso potra' conseguire il diploma di specialista in igiene e medicina preventiva con o di sanita' pubblica, o di laboratorio, o di igiene e tecnica ospedaliera, o di igiene e medicina scolastica.  
+Il conseguimento del diploma di specializzazione in uno degli orientamenti sopra menzionati, offre la possibilita' di accedere agli altri orientamenti mediante la iscrizione diretta al 3° anno di corso e con la convalida degli studi e degli esami del biennio comune.  
+L'ammissione alla scuola e' subordinata ad un esame di ammissione.  
+La scuola non puo' accogliere piu' di quindici allievi per ciascun anno di corso.  
+Art. 199. - Gli insegnamenti impartiti nella scuola sono:  
+1° Anno:  
+1) Metodologia statistica e biometria;  
+2) Educazione sanitaria;  
+3) Psicologia;  
+4) Microbiologia;  
+5) Parassitologia;  
+6) Epidemiologia e profilassi generale.  
+2° Anno:  
+1) Patologia e clinica delle malattie infettive;  
+2) Epidemiologia e profilassi delle malattie infettive;  
+3) Patologia e clinica delle malattie non infettive di importanza sociale;  
+4) Demografia e statistica sanitaria;  
+5) Legislazione e organizzazione sanitaria;  
+6) Epidemiologia e profilassi delle malattie infettive di importanza sociale.  
+3° Anno:  
+  
+Per l'orientamento di sanita' pubblica:  
+1) Approvvigionamento idrico, raccolta e smaltimento dei rifiuti liquidi e solidi; inquinamenti atmosferici;  
+2) Igiene edilizia e urbanistica;  
+3) Igiene dell'alimentazione;  
+4) Igiene e medicina scolastica;  
+5) Igiene ospedaliera;  
+6) Servizi di sanita' pubblica.  
+Per l'orientamento di laboratorio.  
+1) Microscopia applicata all'igiene;  
+2) Microbiologia applicata all'igiene;  
+3) Chimica clinica;  
+4) Accertamento diagnostico delle malattie batteriche e parassitarie;  
+5) Accertamento diagnostico delle infezioni virali;  
+6) Nozioni di anatomia e istologia patologica.  
+Per l'orientamento di igiene e tecnica ospedaliera.  
+1) Storia degli ospedali e principi metodologici dell'assistenza ospedaliera;  
+2) Igiene e tecniche delle costruzioni ospedaliere, arredamento ed impianti sanitari;  
+3) Organizzazione e funzioni degli ospedali generali e speciali;  
+4) Diritto amministrativo e legislazione ospedaliera;  
+5) Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospedaliera;  
+6) Selezione e istruzione professionale del personale ospedaliero;  
+7) Organizzazione e funzione dei laboratori di analisi e di accertamento necroscopico.  
+Per l'orientamento di igiene e medicina scolastica.  
+1) Auxologia normale e patologica;  
+2) Epidemiologia e profilassi delle malattie dell'eta' scolastica;  
+3) Servizi di medicina scolastica;  
+4) Elementi di psicologia e pedagogia per l'eta' scolastica;  
+5) Igiene dell'alimentazione;  
+6) Assistenza parascolastica;  
+7) Edilizia scolastica.  
+Insegnamenti complementari (uno per ogni anno di corso) a scelta fra i seguenti:  
+1) Ispezione delle carni;  
+2) Geologia applicata all'igiene;  
+3) Igiene mentale;  
+4) Malattie professionali e loro prevenzione;  
+5) Igiene navale e dell'emigrazione;  
+6) Malattie tropicali;  
+7) Genetica;  
+8) Gerontologia e geriatria.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 gennaio 1965
+### Dato a Roma, addi' 23 ottobre 1969
 
-SARAGAT GUI
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 25 febbraio 1965
+Registrato alla Corte dei conti, addi' 19 gennaio 1970
 
-Atti del Governo, registro n. 191, foglio n. 29. - VILLA
+Atti del Governo, registro n. 231, foglio n. 33. - CARUSO

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 novembre 1985 n. 1013
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1986 n. 470
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 novembre 1985 n. 1013
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1986 n. 470
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Perugia.
 -------------------------------------------------------------------
@@ -39,14 +39,15 @@ Articolo unico
 --------------
 
   
-Nell'art. 25, relativo al corso di laurea in economia e commercio all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
-istituzioni di statistica economica.  
+Nell'art. 49, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+chimica clinica;  
+analisi biologiche e di laboratorio.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 novembre 1985
+### Dato a Roma, addi' 2 maggio 1986
 
 COSSIGA
 
@@ -54,6 +55,6 @@ FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 7 aprile 1986
+Registrato alla Corte dei conti, addi' 19 luglio 1986
 
-Registro n. 24 Istruzione, foglio n. 58
+Registro n. 58 Istruzione, foglio n. 280

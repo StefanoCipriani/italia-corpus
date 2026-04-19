@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 dicembre 1983 n. 1059
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 448
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 dicembre 1983 n. 1059
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 448
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
@@ -33,25 +33,30 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Nell'art. 88, relativo al corso di laurea in ingegneria, al punto c) riguardante gli "insegnamenti propri dei singoli indirizzi a scelta sul piano locale" nella sezione edile nei due indirizzi di cui alle lettere a) indirizzo "architettura e pianificazione" e c) indirizzo "produzione e direzione opere edili" e' aggiunto il seguente nuovo insegnamento:  
-progettazione architettonica.  
+Nell'art. 51, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+neuroradiologia;  
+epidemiologia clinica;  
+organizzazione e legislazione sanitaria;  
+patologia speciale neurologica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 dicembre 1983
+### Dato a Roma, addi' 9 aprile 1986
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 29 febbraio 1984
+Registrato alla Corte dei conti, addi' 17 luglio 1986
 
-Registro n. 13 Istruzione, foglio n. 83
+Registro n. 57 Istruzione, foglio n. 83

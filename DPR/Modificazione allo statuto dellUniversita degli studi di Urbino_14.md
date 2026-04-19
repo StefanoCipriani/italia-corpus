@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1986 n. 220
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 1204
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1986 n. 220
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 1204
+=================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Urbino.
 ------------------------------------------------------------------
@@ -39,21 +39,19 @@ Articolo unico
 --------------
 
   
-Nell'art. 17, relativo al corso di laurea in giurisprudenza, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-istituzioni di diritto penale.  
+Nell'art. 86, relativo al corso di laurea in farmacia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+analisi chimico-cliniche.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 gennaio 1986
+### Dato a Selva di Val Gardena, addi' 2 settembre 1983
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 10 maggio 1986
+Registrato alla Corte dei conti, addi' 28 aprile 1984
 
-Registro n. 36 Istruzione, foglio n. 196
+Registro n. 25 Istruzione, foglio n. 223

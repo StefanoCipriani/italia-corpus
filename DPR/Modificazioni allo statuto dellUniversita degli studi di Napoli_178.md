@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1973 n. 1149
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 settembre 1962 n. 1560
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1973 n. 1149
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 settembre 1962 n. 1560
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, numero 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904) e successivi;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -32,148 +32,208 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Dopo l'art. 50, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione dell'istituto di "Storia del diritto italiano".
+Art. 22. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti quelli di:
 
-Istituto di storia del diritto italiano
+Diritto processuale amministrativo;
 
-Art. 51. - E' costituito presso la facolta' di giurisprudenza l'istituto di storia del diritto italiano. Fanno parte dell'istituto gli insegnamenti di: storia del diritto italiano (I e II cattedra), esegesi delle fonti del diritto italiano, diritto comune.
+Diritto degli Enti locali.
 
-Art. 52. - L'istituto ha per scopo di dare impulso alle ricerche storico-giuridiche nell'ampio arco di tempo compreso dalla storia del diritto italiano, coordinare l'insegnamento delle discipline che ad esso fanno capo anche in riferimento alle materie dogmatiche dell'ordinamento italiano, promuovere convegni di studio, cicli di seminari e conferenze.
+Art. 25. - Agli insegnamenti complementari di corso di laurea in Scienze politiche sono aggiunti quelli di:
 
-Provvede a curare pubblicazioni sugli ordinamenti storico-giuridici italiani e su singoli istituti, domandandone la responsabilita' dell'edizione ad un dettagliato giudizio scritto dei professori titolari delle discipline facenti parte dell'istituto.
+Diritto degli Enti locali;
 
-Art. 53. - L'istituto, ai suoi fini di studio e di ricerca, si avvarra' di una biblioteca specializzata che, coordinata a quella centrale della facolta', funzionera' come una diramazione di essa.
+Diritto ecclesiastico.
 
-Art. 54. - La direzione dell'istituto e' tenuta vicendevolmente per un quinquennio dai professori titolari della I e II cattedra di storia del diritto italiano e cio' soprattutto allo scopo di sviluppare ed integrare maggiormente le attivita' dell'istituto con il raggiungimento di alternati programmi, sia pure nell'unita' degli intenti.
+Art. 118. - Agli insegnamenti complementari del corso di laurea in Chimica sono aggiunti i seguenti insegnamenti complementari:
 
-Art. 55. - Seno ammessi a frequentare l'istituto gli studenti ed i laureati della facolta'. Sono ammessi, altresi', gli studenti, i laureati di altre facolta' e gli studiosi che, in base a regolare domanda, ne ottengono l'autorizzazione del direttore.
+Per l'indirizzo organico biologico:
 
-Art. 56. - Il regolamento interno dell'istituto e' emanato dal direttore ed approvato dal consiglio della facolta' di giurisprudenza.
+Chimica delle sostanze naturali;
 
-L'art. 116, relativo al corso di laurea in medicina e chirurgia, e' modificato nel senso che l'insegnamento complementare di "Tisiologia" muta la denominazione in quella di "Tisiologia e malattie dell'apparato respiratorio".
+Chimica macromolecolare;
 
-Art. 124 - all'elenco degli istituti annessi alla facolta' di medicina e chirurgia sono aggiunti i seguenti:
+Analisi strumentale.
 
-Istituto di clinica medica II;
+Per l'indirizzo inorganico-chimico-fisico:
 
-Istituto di patologia medica II;
+Chimica macromolecolare;
 
-Istituto di clinica chirurgica II;
+Struttura della materia;
 
-Istituto di patologia chirurgica II;
+Istituzioni di fisica teorica;
 
-Istituto di clinica ostetrica e ginecologica II;
+Analisi strumentale.
 
-Istituto di chirurgia d'urgenza;
+Art. 119. - I commi 5°, 6°, 7° ed 8° relativi alle norme per gli esami di laurea in Chimica sono abrogati e sostituiti dai seguenti:
 
-Istituto di chirurgia sperimentale;
+"L'esame di laurea in Chimica consta di due parti:
 
-Istituto di patologia generale II;
+la prima comprende:
 
-Istituto di istituzioni di patologia generale;
+a) un colloquio inteso ad accertare la cultura generale del candidato nelle discipline chimiche del corso di studio seguito;
 
-Istituto di fisiologia umana II;
+b) una prova pratica di analisi chimica.
 
-Istituto di anatomia patologica II;
+la seconda consiste:
 
-Istituto di clinica ortopedica II;
+a) nella compilazione di una tesi originale su argomento a libera scelta mila rispondente ai fini essenziali della laurea ed eseguita preferibilmente in uno dei laboratori degli insegnamenti fondamentali del corso di laurea in Chimica
 
-Istituto di clinica oculistica II;
+b) nella discussione della tesi medesima nonche', di una argomento scelto anch'esso dal candidato in una materia diversa da quella su cui verte la tesi.
 
-Istituto di clinica delle malattie nervose e mentali II;
+Le Commissioni per il colloquio di cui alla lettera a) e per la prova di cui alla lettera b) della prima parte dell'esame sono composte da professori ufficiali della Facolta' di scienze".
 
-Istituto di anestesiologia e rianimazione;
+Art. 121. - Agli insegnamenti complementari del corso di laurea in Chimica industriale sono aggiunti quelli di:
 
-Istituto di farmacologia II;
+Chimica macromolecolare;
 
-Istituto di chimica biologica II;
+Chimica delle sostanze coloranti;
 
-Istituto di gerontologia e geriatria;
+Analisi strumentale.
 
-Istituto di neurochirurgia;
+Art. 122. - I commi 6°, 7°, 8° e 9° relativi alle norme per gli esami di laurea in Chimica industriale sono abrogati e sostituiti dai seguenti:
 
-Istituto di istologia ed embriologia generale;
+"L'esame di laurea in Chimica industriale consta in due parti;
 
-Istituto di medicina preventiva dei lavoratori e psicotecnica.
+la prima comprende:
 
-L'art. 130, concernente i professori titolari di chimica farmaceutica, e' modificato nel senso che il secondo comma e' abrogato e sostituito dal seguente:
+a) un colloquio inteso ad accertare le cultura generale del candidato nelle discipline chimiche del corso di studi seguito;
 
-"I professori titolari di chimica farmaceutica sono aggregati alla facolta' di scienze matematiche, fisiche e naturali".
+b) una prova pratica di analisi chimica;
 
-Art. 141 - all'elenco degli insegnamenti complementari del corso di laurea in matematica, indirizzo generale, sono aggiunti i seguenti:
+la seconda consiste:
 
-Equazioni funzionali;
+a) nella compilazione di una tesi originale su argomento a libera scelta ma rispondente ai fini essenziali della laurea ed eseguita preferibilmente in uno dei laboratori degli insegnamenti fondamentali del corso di laurea in Chimica industriale;
 
-Meccanica del continuo;
+b) nella discussione della tesi medesima nonche' di un argomento scelto anch'esso dal candidato in una materia diversa di quella su cui verte la tesi.
 
-Algebra commutativa;
+Le Commissioni per il colloquio di cui alla lettera a) e per la prova di cui alla lettera b) della prima parte dell'esame sono composte dai professori ufficiali della Facolta' di scienze.
 
-Teoria dei gruppi;
+Art. 138. - Agli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti quelli di:
 
-Istituzioni di algebra superiore.
+Ecologia;
 
-Art. 147 - all'elenco degli insegnamenti complementari del corso di laurea in matematica, indirizzo applicativo, sono aggiunti i seguenti:
+Biogeografia.
 
-1) Orientamento numerico:
+Art. 146. - Agli insegnamenti complementari del corso in Scienze biologiche sono aggiunti quelli di:
 
-Equazioni funzionali;
+Ecologia;
 
-Meccanica del continuo;
+Biogeografia.
 
-Ricerca operativa.
+Art. 149. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche sono aggiunti quelli di:
 
-2) Orientamento meccanico:
+Geologia degli idrocarburi;
 
-Equazioni funzionali;
+Geologia regionale;
 
-Meccanica del continuo.
+Idrogeologia;
 
-Art. 152 - all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:
+Mineralogia, applicata;
 
-Esercitazioni di chimica organica;
+Paleontologia dei vertebrati;
 
-Genetica umana;
+Rilevamento geologico con elementi di aerofotogeologia.
 
-Citogenetica;
+Sedimentologia.
 
-Genetica vegetale.
+Art. 180. - E' abolita la propedeuticita' dell'insegnamento di "Strade, ferrovie ed aeroporti" rispetto allo insegnamento di e Tecnica delle fondazioni e Costruzioni in terra a nel corso di laurea in ingegneria civile per le sezioni idraulica e trasporti.
 
-Art. 156 - all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:
+Dopo l'art. 183 e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi all'istituzione del Seminario sulle Tecnologie degli impianti nucleari.
 
-Esercitazioni di chimica organica;
+Seminario sulle Tecnologie degli impianti nucleari.
 
-Genetica umana;
+Art. 184. - Nella Facolta' di ingegneria, presso l'Istituto di tecnologie, e' istituito un Seminario sulle Tecnologie degli impianti nucleari.
 
-Citogenetica;
+Art. 185. - Il Seminario indirizza laureati e laureandi in Ingegneria o in altre discipline allo studio di problemi tecnologici specifici delle applicazioni tecniche dell'energia nucleare.
 
-Genetica vegetale;
+Art. 186. - I corsi del Seminario hanno la durata di un anno accademico.
 
-Neurobiologia.
+Art. 187. - Il Seminario e' diretto dal direttore dello Istituto di tecnologie.
 
-Art. 159 - all'elenco degli insegnamenti complementari del corso di laurea in "Scienze geologiche" e' aggiunto il seguente: "Esercitazioni di paleontologia".
+Art. 188. - Gli insegnamenti del Seminario possono svolgersi sotto forma di lezioni cattedratiche, discussioni ed esercitazioni di carattere professionale.
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Art. 189. - Al Seminario possono iscriversi laureati in ingegnaria o in altre Facolta' che aspirino ad una specifica preparazione nel campo delle applicazioni tecniche dell'ingegneria nucleare.
 
-Dato a Roma, addi' 8 ottobre 1973
+Possono inoltre iscriversi laureandiin ingegneria che svolgono la tesi stesso campo.
 
-LEONE
+L'ammissione al Seminario e' subordinata ad un esame di ammissione, inteso inteso ad accertare negli aspiranti sufficiente preparazione generale.
 
-MALFATTI
+Art. 190. - Il Seminario potra' eventualmente disporre di borse di studio che verranno conferite su proposta del Consiglio della Facolta' in base alle modalita' saranno stabilite dallo stesso Consiglio.
 
-Visto, il Guardasigilli: ZAGARI
+Gli articoli 296 e 297 relativi alla Scuola di specializzazione in malattie nervose e mentali sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in malattie nervose e mentali
+
+Art. 296. - La Scuola ha la durata di tre anni.
+
+Le materie d'insegnamento sono:
+
+I anno:
+
+Anatomia del sistema nervoso;
+
+Anatomia patologica del sistema nervoso;
+
+Neurofisiologia ed elettrobiologia clinica;
+
+Psicologia e psicopatologia;
+
+Semeiotica neurologica;
+
+Semeiotica psichiatrica.
+
+II anno:
+
+Neuroftalmologia;
+
+Otorinolaringoiatria, applicata alla clinica neuropsichiatrica;
+
+Neuroradiologia;
+
+Neurochimica e psicofarmacologia;
+
+Pronto soccorso psichiatrico e tecnica manicomaniale.
+
+III anno:
+
+Clinica neurologica;
+
+Clinica psichiatrica;
+
+Neuropsichiatrica infantile;
+
+Neurochirurgia;
+
+Medicina legale.
+
+Art. 297. - Gli esami saranno sostenuti alla fine di ciascun anno; non saranno ammessi al corso successivo coloro i quali non avranno superato gli esami dell'anno a cui sono iscritti.
+
+Il numero massimo degli iscritti non puo' essere complessivamente superiore a trenta.
+
+Alla fine del corso gli iscritti, oltre a presentare la dissertazione scritta e sostenere la relativa discussione a norma dell'art. 283 devono sostenere una prova pratica di clinica ed una di laboratorio.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti' della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 17 settembre 1962
+
+SEGNI
+
+GUI
+
+Visto, il Guardasigilli: BOSCO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 28 ottobre 1974 Atti di Governo, registro n. 6, foglio n. 65. - SCIARRETTA
+alla Corte dei conti, addi' 7 novembre 1962 Atti del Governo, registro n. 160, foglio n. 3. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, numero 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
@@ -186,81 +246,137 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Dopo l'art. 50, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione dell'istituto di "Storia del diritto italiano".  
-Istituto di storia del diritto italiano  
-Art. 51. - E' costituito presso la facolta' di giurisprudenza l'istituto di storia del diritto italiano. Fanno parte dell'istituto gli insegnamenti di: storia del diritto italiano (I e II cattedra), esegesi delle fonti del diritto italiano, diritto comune.  
-Art. 52. - L'istituto ha per scopo di dare impulso alle ricerche storico-giuridiche nell'ampio arco di tempo compreso dalla storia del diritto italiano, coordinare l'insegnamento delle discipline che ad esso fanno capo anche in riferimento alle materie dogmatiche dell'ordinamento italiano, promuovere convegni di studio, cicli di seminari e conferenze.  
-Provvede a curare pubblicazioni sugli ordinamenti storico-giuridici italiani e su singoli istituti, domandandone la responsabilita' dell'edizione ad un dettagliato giudizio scritto dei professori titolari delle discipline facenti parte dell'istituto.  
-Art. 53. - L'istituto, ai suoi fini di studio e di ricerca, si avvarra' di una biblioteca specializzata che, coordinata a quella centrale della facolta', funzionera' come una diramazione di essa.  
-Art. 54. - La direzione dell'istituto e' tenuta vicendevolmente per un quinquennio dai professori titolari della I e II cattedra di storia del diritto italiano e cio' soprattutto allo scopo di sviluppare ed integrare maggiormente le attivita' dell'istituto con il raggiungimento di alternati programmi, sia pure nell'unita' degli intenti.  
-Art. 55. - Seno ammessi a frequentare l'istituto gli studenti ed i laureati della facolta'. Sono ammessi, altresi', gli studenti, i laureati di altre facolta' e gli studiosi che, in base a regolare domanda, ne ottengono l'autorizzazione del direttore.  
-Art. 56. - Il regolamento interno dell'istituto e' emanato dal direttore ed approvato dal consiglio della facolta' di giurisprudenza.  
-L'art. 116, relativo al corso di laurea in medicina e chirurgia, e' modificato nel senso che l'insegnamento complementare di "Tisiologia" muta la denominazione in quella di "Tisiologia e malattie dell'apparato respiratorio".  
-Art. 124 - all'elenco degli istituti annessi alla facolta' di medicina e chirurgia sono aggiunti i seguenti:  
+Art. 22. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti quelli di:  
   
-Istituto di clinica medica II;  
-Istituto di patologia medica II;  
-Istituto di clinica chirurgica II;  
-Istituto di patologia chirurgica II;  
-Istituto di clinica ostetrica e ginecologica II;  
-Istituto di chirurgia d'urgenza;  
-Istituto di chirurgia sperimentale;  
-Istituto di patologia generale II;  
-Istituto di istituzioni di patologia generale;  
-Istituto di fisiologia umana II;  
-Istituto di anatomia patologica II;  
-Istituto di clinica ortopedica II;  
-Istituto di clinica oculistica II;  
-Istituto di clinica delle malattie nervose e mentali II;  
-Istituto di anestesiologia e rianimazione;  
-Istituto di farmacologia II;  
-Istituto di chimica biologica II;  
-Istituto di gerontologia e geriatria;  
-Istituto di neurochirurgia;  
-Istituto di istologia ed embriologia generale;  
-Istituto di medicina preventiva dei lavoratori e psicotecnica.  
-L'art. 130, concernente i professori titolari di chimica farmaceutica, e' modificato nel senso che il secondo comma e' abrogato e sostituito dal seguente:  
-"I professori titolari di chimica farmaceutica sono aggregati alla facolta' di scienze matematiche, fisiche e naturali".  
-Art. 141 - all'elenco degli insegnamenti complementari del corso di laurea in matematica, indirizzo generale, sono aggiunti i seguenti:  
+Diritto processuale amministrativo;  
+Diritto degli Enti locali.  
   
-Equazioni funzionali;  
-Meccanica del continuo;  
-Algebra commutativa;  
-Teoria dei gruppi;  
-Istituzioni di algebra superiore.  
-Art. 147 - all'elenco degli insegnamenti complementari del corso di laurea in matematica, indirizzo applicativo, sono aggiunti i seguenti:  
-1) Orientamento numerico:  
-Equazioni funzionali;  
-Meccanica del continuo;  
-Ricerca operativa.  
-2) Orientamento meccanico:  
-Equazioni funzionali;  
-Meccanica del continuo.  
-Art. 152 - all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:  
+Art. 25. - Agli insegnamenti complementari di corso di laurea in Scienze politiche sono aggiunti quelli di:  
   
-Esercitazioni di chimica organica;  
-Genetica umana;  
-Citogenetica;  
-Genetica vegetale.  
-Art. 156 - all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:  
+Diritto degli Enti locali;  
+Diritto ecclesiastico.  
   
-Esercitazioni di chimica organica;  
-Genetica umana;  
-Citogenetica;  
-Genetica vegetale;  
-Neurobiologia.  
-Art. 159 - all'elenco degli insegnamenti complementari del corso di laurea in "Scienze geologiche" e' aggiunto il seguente: "Esercitazioni di paleontologia".  
+Art. 118. - Agli insegnamenti complementari del corso di laurea in Chimica sono aggiunti i seguenti insegnamenti complementari:  
+  
+Per l'indirizzo organico biologico:  
+Chimica delle sostanze naturali;  
+Chimica macromolecolare;  
+Analisi strumentale.  
+  
+Per l'indirizzo inorganico-chimico-fisico:  
+Chimica macromolecolare;  
+Struttura della materia;  
+Istituzioni di fisica teorica;  
+Analisi strumentale.  
+  
+Art. 119. - I commi 5°, 6°, 7° ed 8° relativi alle norme per gli esami di laurea in Chimica sono abrogati e sostituiti dai seguenti:  
+"L'esame di laurea in Chimica consta di due parti:  
+la prima comprende:  
+a) un colloquio inteso ad accertare la cultura generale del candidato nelle discipline chimiche del corso di studio seguito;  
+b) una prova pratica di analisi chimica.  
+  
+la seconda consiste:  
+a) nella compilazione di una tesi originale su argomento a libera scelta mila rispondente ai fini essenziali della laurea ed eseguita preferibilmente in uno dei laboratori degli insegnamenti fondamentali del corso di laurea in Chimica  
+b) nella discussione della tesi medesima nonche', di una argomento scelto anch'esso dal candidato in una materia diversa da quella su cui verte la tesi.  
+Le Commissioni per il colloquio di cui alla lettera a) e per la prova di cui alla lettera b) della prima parte dell'esame sono composte da professori ufficiali della Facolta' di scienze".  
+  
+Art. 121. - Agli insegnamenti complementari del corso di laurea in Chimica industriale sono aggiunti quelli di:  
+Chimica macromolecolare;  
+Chimica delle sostanze coloranti;  
+Analisi strumentale.  
+  
+Art. 122. - I commi 6°, 7°, 8° e 9° relativi alle norme per gli esami di laurea in Chimica industriale sono abrogati e sostituiti dai seguenti:  
+"L'esame di laurea in Chimica industriale consta in due parti;  
+  
+la prima comprende:  
+a) un colloquio inteso ad accertare le cultura generale del candidato nelle discipline chimiche del corso di studi seguito;  
+b) una prova pratica di analisi chimica;  
+  
+la seconda consiste:  
+a) nella compilazione di una tesi originale su argomento a libera scelta ma rispondente ai fini essenziali della laurea ed eseguita preferibilmente in uno dei laboratori degli insegnamenti fondamentali del corso di laurea in Chimica industriale;  
+b) nella discussione della tesi medesima nonche' di un argomento scelto anch'esso dal candidato in una materia diversa di quella su cui verte la tesi.  
+Le Commissioni per il colloquio di cui alla lettera a) e per la prova di cui alla lettera b) della prima parte dell'esame sono composte dai professori ufficiali della Facolta' di scienze.  
+  
+Art. 138. - Agli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti quelli di:  
+Ecologia;  
+Biogeografia.  
+  
+Art. 146. - Agli insegnamenti complementari del corso in Scienze biologiche sono aggiunti quelli di:  
+Ecologia;  
+Biogeografia.  
+  
+Art. 149. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche sono aggiunti quelli di:  
+Geologia degli idrocarburi;  
+Geologia regionale;  
+Idrogeologia;  
+Mineralogia, applicata;  
+Paleontologia dei vertebrati;  
+Rilevamento geologico con elementi di aerofotogeologia.  
+Sedimentologia.  
+  
+Art. 180. - E' abolita la propedeuticita' dell'insegnamento di "Strade, ferrovie ed aeroporti" rispetto allo insegnamento di e Tecnica delle fondazioni e Costruzioni in terra a nel corso di laurea in ingegneria civile per le sezioni idraulica e trasporti.  
+Dopo l'art. 183 e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi all'istituzione del Seminario sulle Tecnologie degli impianti nucleari.  
+  
+Seminario sulle Tecnologie degli impianti nucleari.  
+  
+Art. 184. - Nella Facolta' di ingegneria, presso l'Istituto di tecnologie, e' istituito un Seminario sulle Tecnologie degli impianti nucleari.  
+  
+Art. 185. - Il Seminario indirizza laureati e laureandi in Ingegneria o in altre discipline allo studio di problemi tecnologici specifici delle applicazioni tecniche dell'energia nucleare.  
+  
+Art. 186. - I corsi del Seminario hanno la durata di un anno accademico.  
+  
+Art. 187. - Il Seminario e' diretto dal direttore dello Istituto di tecnologie.  
+  
+Art. 188. - Gli insegnamenti del Seminario possono svolgersi sotto forma di lezioni cattedratiche, discussioni ed esercitazioni di carattere professionale.  
+  
+Art. 189. - Al Seminario possono iscriversi laureati in ingegnaria o in altre Facolta' che aspirino ad una specifica preparazione nel campo delle applicazioni tecniche dell'ingegneria nucleare.  
+Possono inoltre iscriversi laureandiin ingegneria che svolgono la tesi stesso campo.  
+L'ammissione al Seminario e' subordinata ad un esame di ammissione, inteso inteso ad accertare negli aspiranti sufficiente preparazione generale.  
+  
+Art. 190. - Il Seminario potra' eventualmente disporre di borse di studio che verranno conferite su proposta del Consiglio della Facolta' in base alle modalita' saranno stabilite dallo stesso Consiglio.  
+Gli articoli 296 e 297 relativi alla Scuola di specializzazione in malattie nervose e mentali sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in malattie nervose e mentali  
+  
+Art. 296. - La Scuola ha la durata di tre anni.  
+Le materie d'insegnamento sono:  
+  
+I anno:  
+Anatomia del sistema nervoso;  
+Anatomia patologica del sistema nervoso;  
+Neurofisiologia ed elettrobiologia clinica;  
+Psicologia e psicopatologia;  
+Semeiotica neurologica;  
+Semeiotica psichiatrica.  
+  
+II anno:  
+Neuroftalmologia;  
+Otorinolaringoiatria, applicata alla clinica neuropsichiatrica;  
+Neuroradiologia;  
+Neurochimica e psicofarmacologia;  
+Pronto soccorso psichiatrico e tecnica manicomaniale.  
+  
+III anno:  
+Clinica neurologica;  
+Clinica psichiatrica;  
+Neuropsichiatrica infantile;  
+Neurochirurgia;  
+Medicina legale.  
+  
+Art. 297. - Gli esami saranno sostenuti alla fine di ciascun anno; non saranno ammessi al corso successivo coloro i quali non avranno superato gli esami dell'anno a cui sono iscritti.  
+Il numero massimo degli iscritti non puo' essere complessivamente superiore a trenta.  
+Alla fine del corso gli iscritti, oltre a presentare la dissertazione scritta e sostenere la relativa discussione a norma dell'art. 283 devono sostenere una prova pratica di clinica ed una di laboratorio.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti' della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 8 ottobre 1973
+### Dato a Roma, addi' 17 settembre 1962
 
-LEONE MALFATTI
+SEGNI GUI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 28 ottobre 1974
+Registrato alla Corte dei conti, addi' 7 novembre 1962
 
-Atti di Governo, registro n. 6, foglio n. 65. - SCIARRETTA
+Atti del Governo, registro n. 160, foglio n. 3. - VILLA

@@ -1,172 +1,161 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1963 n. 848
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1569
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1963 n. 848
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1569
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successivi;
-
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 29 giugno 1935 n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-29;1071), convertito nella legge 2 gennaio 136, n. 73;
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Palermo e' approvato e modificato con i decreti sopraindicati. E' ulteriormente modificato come appresso:
-
-Dopo l'art. 144 sono aggiunti i seguenti nuovi articoli relativi alla istituzione di un corso di specializzazione in Viticoltura, ed Enologia annesso alla Facolta' di Scienze agrarie.
-
-Art. 14. - Presso la Facolta' di Scienze agrarie e' istituito un corso di specializzazione in Viticoltura ed Enologia, intitolato al nome di "Federico Paulsen".
-
-Il corso e' biennale e distinto in tre periodi:
-
-1) prevalentemente teorico didattico dal 10 gennaio al luglio da, trascorrersi presso la Facolta' di agraria di Palermo;
-
-2) di applicazione in Chimica enologica e microbiologica, dal 25 agosto al 15 febbraio, da trascorrersi presso il Centro sperimentale per l'industria enologica della Regione siciliana a Marsala;
-
-3) di applicazione viticolo-enologica, dal 16 febbraio al 15 novembre, da trascorrersi presso l'Istituto regionale delle vite e del vino di Palermo.
-
-Art. 146. - Le materie di insegnamento del corso di specializzazione sono distinte in due gruppi: fondamentali e complementari:
-
-Sono fondamentali:
-
-1) Viticoltura;
-
-2) Industria, enologica;
-
-3) Microbiologia enologica;
-
-4) Meccanica applicata a una viticoltura ed alla enologia;
-
-5) Costruzioni ed impianti enologici.
-
-Sono complementari:
-
-1) Malattie della vite;
-
-2) Economia e contabilita' applicata alla viticoltura ed all'enologia;
-
-3) Legislazione viticola enologica;
-
-4) Economia del mercato.
-
-Art. 147. - Il corso di specializzazione e' distinto dai normali corsi di laurea che si svolgono presso la Facolta'. Gli esami speciali per ciascuna materia si svolgono a norma degli ordinamenti vigenti.
-
-Tutti gli insegnamenti sono conferiti per incarico della Facolta' secondo il vigente ordinamento universitario.
-
-Art. 148. - Sono ammessi al corso di specializzazione i laureati in Scienze agrarie.
-
-Il numero massimo degli allievi annualmente ammessi al corso e' di otto. Qualora il numero delle domande sia superiore al numero massimo ammesso, sara' data la preferenza agli aspiranti che abbiano riportato agli esami di laurea votazioni migliori o che abbiano particolari titoli nei riguardi delle finalita' del corso.
-
-Gli stranieri possono essere ammessi in soprannumero sempre che abbiano titoli equipollenti.
-
-Art. 149. - Il diploma di specialista e rilasciato agli iscritti in base:
-
-1) alla regolare frequenza dei tre periodi del corso;
-
-2) all'esito degli esami sostenuti alla fine del primo periodo per le materie fondamentali e del colloquio per quelle complementari;
-
-3) ai giudizi emessi dal direttore del Centro per la industria enologica di Marsala e dal direttore dello Istituto regionale della vite e del vino, rispettivamente, dopo il secondo ed il terzo periodo;
-
-4) all'esame di diploma che consiste nella presentazione di una dissertazione scritta di carattere sperimentale, da sostenersi secondo le norme stabilite dai vigenti ordinamenti per il conferimento dei diplomi di specializzazione.
-
-La Commissione esaminatrice e' composta da tutti i professori incaricati degli insegnamenti e presieduta dal direttore del corso che sara' designato dal Consiglio della Facolta' di Agraria dell'Universita' di Palermo.
-
-Art. 150. - Il Consiglio direttivo del corso e' composto da tutti gli insegnanti del medesimo e dai direttori del Centro sperimentale per l'industria enologica di Marsala e dell'Istituto della vite e del vino di Palermo, presso i quali sara' tenuta la parte pratica del corso ed e' presieduto dal direttore del corso.
-
-Esso fa le proposte relative all'ordinamento degli studi e dell'insegnamento e da' pareri su tutti i provvedimenti riguardanti il corso stesso.
-
-Per quanto riguarda le tasse a carico degli iscritti, il servizio di segreteria e quanto altro occorre al funzionamento del corso, sara' fatto riferimento a quanto previsto dagli ordinamenti in vigore nell'Universita'.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 21 maggio 1963
-
-SEGNI
-
-GUI
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 22 giugno 1963 Atti del Governo, registro n. 171, foglio n. 7. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 29 giugno 1935 n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-29;1071), convertito nella legge 2 gennaio 136, n. 73;  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, numero 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Veduto il [decreto del Presidente della Repubblica 26 agosto 1959, n. 1341](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-08-26;1341);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Palermo e' approvato e modificato con i decreti sopraindicati. E' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Dopo l'art. 144 sono aggiunti i seguenti nuovi articoli relativi alla istituzione di un corso di specializzazione in Viticoltura, ed Enologia annesso alla Facolta' di Scienze agrarie.  
-Art. 14. - Presso la Facolta' di Scienze agrarie e' istituito un corso di specializzazione in Viticoltura ed Enologia, intitolato al nome di "Federico Paulsen".  
-Il corso e' biennale e distinto in tre periodi:  
-1) prevalentemente teorico didattico dal 10 gennaio al luglio da, trascorrersi presso la Facolta' di agraria di Palermo;  
-2) di applicazione in Chimica enologica e microbiologica, dal 25 agosto al 15 febbraio, da trascorrersi presso il Centro sperimentale per l'industria enologica della Regione siciliana a Marsala;  
-3) di applicazione viticolo-enologica, dal 16 febbraio al 15 novembre, da trascorrersi presso l'Istituto regionale delle vite e del vino di Palermo.  
-Art. 146. - Le materie di insegnamento del corso di specializzazione sono distinte in due gruppi: fondamentali e complementari:  
-Sono fondamentali:  
-1) Viticoltura;  
-2) Industria, enologica;  
-3) Microbiologia enologica;  
-4) Meccanica applicata a una viticoltura ed alla enologia;  
-5) Costruzioni ed impianti enologici.  
-Sono complementari:  
-1) Malattie della vite;  
-2) Economia e contabilita' applicata alla viticoltura ed all'enologia;  
-3) Legislazione viticola enologica;  
-4) Economia del mercato.  
-Art. 147. - Il corso di specializzazione e' distinto dai normali corsi di laurea che si svolgono presso la Facolta'. Gli esami speciali per ciascuna materia si svolgono a norma degli ordinamenti vigenti.  
-Tutti gli insegnamenti sono conferiti per incarico della Facolta' secondo il vigente ordinamento universitario.  
-Art. 148. - Sono ammessi al corso di specializzazione i laureati in Scienze agrarie.  
-Il numero massimo degli allievi annualmente ammessi al corso e' di otto. Qualora il numero delle domande sia superiore al numero massimo ammesso, sara' data la preferenza agli aspiranti che abbiano riportato agli esami di laurea votazioni migliori o che abbiano particolari titoli nei riguardi delle finalita' del corso.  
-Gli stranieri possono essere ammessi in soprannumero sempre che abbiano titoli equipollenti.  
-Art. 149. - Il diploma di specialista e rilasciato agli iscritti in base:  
-1) alla regolare frequenza dei tre periodi del corso;  
-2) all'esito degli esami sostenuti alla fine del primo periodo per le materie fondamentali e del colloquio per quelle complementari;  
-3) ai giudizi emessi dal direttore del Centro per la industria enologica di Marsala e dal direttore dello Istituto regionale della vite e del vino, rispettivamente, dopo il secondo ed il terzo periodo;  
-4) all'esame di diploma che consiste nella presentazione di una dissertazione scritta di carattere sperimentale, da sostenersi secondo le norme stabilite dai vigenti ordinamenti per il conferimento dei diplomi di specializzazione.  
-La Commissione esaminatrice e' composta da tutti i professori incaricati degli insegnamenti e presieduta dal direttore del corso che sara' designato dal Consiglio della Facolta' di Agraria dell'Universita' di Palermo.  
-Art. 150. - Il Consiglio direttivo del corso e' composto da tutti gli insegnanti del medesimo e dai direttori del Centro sperimentale per l'industria enologica di Marsala e dell'Istituto della vite e del vino di Palermo, presso i quali sara' tenuta la parte pratica del corso ed e' presieduto dal direttore del corso.  
-Esso fa le proposte relative all'ordinamento degli studi e dell'insegnamento e da' pareri su tutti i provvedimenti riguardanti il corso stesso.  
-Per quanto riguarda le tasse a carico degli iscritti, il servizio di segreteria e quanto altro occorre al funzionamento del corso, sara' fatto riferimento a quanto previsto dagli ordinamenti in vigore nell'Universita'.  
+Dopo l'art. 82, sono aggiunti i seguenti nuovi articoli, relativi all'ordinamento della Facolta' di magistero con il conseguente spostamento della numerazione degli articoli successivi.  
+  
+SEZIONE IX  
+FACOLTA' DI MAGISTERO  
+  
+Art. 83. - La Facolta' di magistero rilascia le lauree in materie letterarie, in pedagogia ed in lingue e letterature straniere.  
+Rilascia inoltre il diploma di abilitazione alla vigilanza nelle scuole elementari.  
+Corso di laurea in materie letterarie  
+Art. 84. - La durata del corso di studi per la laurea in materie letterarie e' di quattro anni.  
+Titolo di ammissione: diploma di abilitazione magistrale e concorso.  
+Il concorso di ammissione consiste:  
+a) nella valutazione dei voti riportati negli esami per il conseguimento del diploma di abilitazione magistrale nel gruppo delle materie letterarie;  
+b) una prova scritta di cultura generale per la quale sono concesse sei ore di tempo.  
+Sono insegnamenti fondamentali:  
+1) Lingua, e letteratura italiana (triennale);  
+2) Lingua e letteratura latina (triennale);  
+3) Storia (triennale);  
+4) Geografia (triennale);  
+5) Pedagogia;  
+6) Storia della filosofia;  
+7) Lingua e letteratura moderna straniera a scelta (biennale).  
+Sono insegnamenti complementari:  
+1) Grammatica latina;  
+2) Filologia romanza;  
+3) Storia delle tradizioni popolari;  
+4) Lingua e civilta' greca;  
+5) Istituzioni di diritto pubblico e legislazione scolastica;  
+6) Storia della grammatica e della lingua italiana;  
+7) Storia dell'arte medioevale e moderna;  
+8) Storia della musica;  
+9) Storia della geografia (Storia della scienza e delle esplorazioni);  
+10) Storia del risorgimento;  
+11) Etnologia.  
+Il terzo anno del corso di geografia deve essere differenziato come corso di applicazione.  
+Nel corso di storia (triennale) un anno deve essere dedicato alla storia romana, un anno alla storia medioevale ed uno alla storia moderna, alternativamente.  
+Lo studente deve sostenere una prova scritta di traduzione latina, una della lingua straniera scelta ed una di cultura generale.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti fra i complementari.  
+Corso di laurea in pedagogia  
+Art. 85. - La durata del corso per la laurea in pedagogia e' di quattro anni.  
+Titoli di ammissione: diploma di abilitazione magistrale e concorso.  
+Il concorso di ammissione consiste:  
+a) nella valutazione dei voti riportati per il conseguimento del diploma di abilitazione magistrale, nella filosofia e nella pedagogia;  
+b) in una prova scritta di cultura generale, per cui sono concesse sei ore di tempo.  
+Sono insegnamenti fondamentali:  
+1) Lingua e letteratura italiana (biennale);  
+2) Lingua e letteratura latina (biennale);  
+3) Storia della filosofia (biennale);  
+4) Filosofia (biennale);  
+5) Pedagogia (triennale);  
+6) Storia (biennale);  
+7) Lingua e letteratura moderna straniera a scelta (biennale).  
+Sono insegnamenti complementari:  
+1) Filologia romanza;  
+2) Istituzioni di diritto pubblico e legislazione scolastica;  
+3) Psicologia;  
+4) Storia delle tradizioni popolari;  
+5) Storia dell'arte medioevale e moderna;  
+6) Storia della grammatica e della lingua italiana;  
+7) Etnologia;  
+8) Storia della musica;  
+9) Storia della pedagogia.  
+Nel corso di storia (biennale) un anno deve essere dedicato alla storia medioevale ed uno alla storia moderna alternativamente.  
+Lo studente deve sostenere una prova scritta di italiano, una di traduzione latina, una della lingua straniera a scelta, ed una di cultura generale sulle discipline filosofiche.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti fra i complementari.  
+Corso di laurea in lingue o letterature straniere  
+Art. 86. - La durata del corso degli studi per la laurea in lingue e letterature straniere e' di quattro anni.  
+Titoli di ammissione: diploma di abilitazione magistrale, o licenza, a norma dell'[art. 2 della legge 9 ottobre 1951 n. 1130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-10-09;1130~art2), dalla Scuola civica "Regina Margherita" di Genova, ora "Grazia Deledda", o dalla Scuola civica "Alessandro Manzoni" di Milano, o dall'Istituto di cultura e di lingue "Marcelline" di Milano, ovvero licenza a norma della [legge 12 marzo 1957, n. 94](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-03-12;94), o dal Liceo linguistico femminile "Santa Caterina da Siena" di Venezia, o dal Liceo linguistico "Orsoline del Sacro Cuore" di Cortina d'Ampezzo, e concorso.  
+Il concorso di ammissione consiste:  
+a) nella valutazione dei voti riportati, nel gruppo delle materie letterarie agli esami per il conseguimento dei titoli di studi medi prescritto per l'ammissione;  
+b) in una prova scritta, di cultura generale per la quale sono concesse sei ore di tempo.  
+Sono insegnamenti fondamentali:  
+1) Lingua e letteratura italiana (biennale);  
+2) Lingua e letteratura latina (biennale);  
+3) Lingua e letteratura francese;  
+4) Lingua e letteratura tedesca;  
+5) Lingua e letteratura spagnola;  
+6) Lingua e letteratura inglese;  
+7) Filologia romanza;  
+8) Filologia germanica;  
+9) Storia (biennale);  
+10) Geografia.  
+Sono insegnamenti complementari:  
+1) Storia della filosofia;  
+2) Filosofia;  
+3) Pedagogia;  
+4) Storia delle tradizioni popolari;  
+5) Storia e letteratura romena;  
+6) Storia della musica;  
+7) Storia della geografia (Storia della scienza e delle esplorazioni);  
+8) Etnologia;  
+9) Storia delle religioni.  
+Lo studente deve seguire per tutti i quattro anni del corso di laurea l'insegnamento della lingua straniera alla quale intende dedicare i suoi studi, e per due anni quello di un'altra, delle lingue straniere; egli puo' inoltre seguire, pure per due anni, l'insegnamento di una terza lingua straniera, nel quale caso puo' diminuire di uno gli insegnamenti complementari.  
+Nel corso di storia (biennale) un anno deve essere dedicato alla storia medioevale ed uno alla storia moderna, alternativamente.  
+Lo studente deve sostenere una prova scritta di italiano, una di traduzione latina, e una di cultura generale nella lingua straniera nella quale ha approfondito i suoi studi per il conseguimento della laurea.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in tre da lui scelti fra i complementari.  
+Diploma di abilitazione alla vigilanza nelle scuole elementari  
+Art. 87. - La durata del corso degli studi per il conseguimento del diploma di abilitazione alla vigilanza nelle scuole elementari e' di tre anni.  
+Titoli di ammissione: diploma di abilitazione magistrale e concorso.  
+Il concorso di ammissione consiste:  
+a) nella valutazione dei voti riportati agli esami per il conseguimento del diploma di abilitazione magistrale, nel gruppo delle materie letterarie e nella filosofia e pedagogia;  
+b) in una prova scritta di cultura generale per la quale sono concesse sei ore di tempo.  
+Sono insegnamenti fondamentali:  
+1) Pedagogia (triennale);  
+2) Lingua e letteratura italiana (biennale);  
+3) Lingua e letteratura latina (biennale);  
+4) Storia (biennale);  
+5) Istituzioni di diritto pubblico e legislazione scolastica;  
+6) Geografia (biennale);  
+7) Storia della filosofia (biennale);  
+8) Igiene.  
+Sono insegnamenti complementari:  
+1) Lingua straniera moderna a scelta (biennale).  
+Lo studente deve sostenere una prova scritta di pedagogia, una di italiano e una della lingua straniera prescelta.  
+Per conseguire il diploma lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali, ed in quello complementare.  
+Art. 88. - Lo studente, all'atto della presentazione della domanda di ammissione all'esame di concorso, dovra' dichiarare a quale tipo di corso di laurea o di diploma intende iscriversi.  
+Art. 89. - Gli esami saranno sostenuti per singole materie. Per gli insegnamenti triennali o biennale lo esame sara' sostenuto alla fine del singolo anno di corso.  
+Art. 90. - Il preside controlla ed approva i piani di studi presentati dagli studenti per ogni anno di corso.  
+Art. 91. - Per quanto riguarda l'iscrizione ad anno successivo al primo di studenti gia' laureati in materie letterarie, o pedagogia, o lingue e letterature straniere, o di altre Facolta' universitarie o Istituti superiori che siano, pero' in possesso di diploma di abilitazione magistrale o degli studenti gia' in possesso del diploma di abilitazione alla vigilanza nelle scuole elementari, valgono le disposizioni di cui agli [articoli 10](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-04;1269~art10) e [11 del regio decreto 4 giugno 1938, n. 1269](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-04;1269~art11).  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 maggio 1963
+### Dato a Roma, addi' 19 ottobre 1960
 
-SEGNI GUI
+GRONCHI BOSCO
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 22 giugno 1963
+Registrato alla Corte dei conti, addi' 22 dicembre 1960
 
-Atti del Governo, registro n. 171, foglio n. 7. - VILLA
+Atti del Governo, registro n. 132, foglio n. 116. - VILLA

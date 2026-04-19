@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1985 n. 907
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1983 n. 963
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1985 n. 907
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1983 n. 963
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Salerno.
 -------------------------------------------------------------------
@@ -39,30 +39,27 @@ Art. 1
 ------
 
   
-Nell'art. 29, relativo al corso di laurea in filosofia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-  
-storia delle dottrine morali.  
+Nell'art. 14, relativo al corso di laurea in scienze politiche, all'elenco degli insegnamenti complementari e' incluso il seguente nuovo insegnamento:  
+storia sociale.  
 
 Art. 2
 ------
 
   
-Nell'art. 34, relativo al corso di laurea in sociologia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-  
-scienza della politica.  
+Nell'art. 38, relativo al corso di laurea in materie letterarie, all'elenco degli insegnamenti complementari sono inclusi i seguenti nuovi insegnamenti:  
+filologia e critica dantesca;  
+storia dell'agricoltura e del movimento contadino.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 ottobre 1985
+### Dato a Roma, addi' 26 aprile 1983
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 14 febbraio 1986
+Registrato alla Corte dei conti, addi' 15 febbraio 1984
 
-Registro n. 9 Istruzione, foglio n. 131
+Registro n. 8 Istruzione, foglio n. 85

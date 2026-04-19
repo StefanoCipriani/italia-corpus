@@ -1,84 +1,150 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 giugno 1978 n. 389
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1958 n. 658
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 giugno 1978 n. 389
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1958 n. 658
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successivi;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 33. - Agli insegnamenti complementari del corso di laurea in economia e commercio e' aggiunto quello di: "ragioneria applicata alle aziende pubbliche".
+
+Art. 41. - Il primo comma e' cosi' modificato: "Lo studente non puo' presentarsi agli esami di "matematica finanziaria" ne' agli esami di "statistica" se non ha superato l'esame di "matematica generale"; ne' agli esami di "scienza delle finanze" e "diritto finanziario", di "storia economica", di "politica economica e finanziaria" e di "economia e politica agraria" se non ha prima superato, quelli di "economia politica"; ne' agli esami di "politica economica e finanziaria" se non ha superato quello di "scienza delle finanze"; ne' agli esami di "tecnica bancaria e professionale" e di "tecnica industriale e commerciale" se prima non ha superato quello di "ragioneria generale ed applicata", ne' agli esami di "diritto commerciale" e di "diritto del lavoro" se non ha superato gli esami di "istituzioni di diritto privato" e di "istituzioni di diritto pubblico".
+
+Art. 59. - Agli insegnamenti complementari del corso di laurea in materie letterarie e' aggiunto quello di: "storia della letteratura latina medioevale ed umanistica".
+
+Art. 61. - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere e' aggiunto quello di "storia della letteratura latina medioevale ed umanistica".
+
+Art. 78. - Agli insegnamenti complementari del corso di laurea in fisica sono aggiunti quelli di:
+
+"Radioattivita'";
+
+"Meccanica statistica";
+
+"Fisica dei solidi";
+
+"Meccanica superiore".
+
+Art. 80. - Agli insegnamenti complementari del corso di laurea in scienze matematiche e' aggiunto quello di "meccanica superiore".
+
+Art. 82. - Agli insegnamenti complementari del corso di laurea in matematica e fisica e' aggiunto quello di "meccanica superiore".
+
+Art. 84. - Agli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti quelli di: "paleontologia umana" e "biologia umana".
+
+Art. 86. - Agli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti quelli di: "paleontologia umana" e "biologia umana".
+
+Art. 88. - Agli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti quelli di: "paleontologia umana" e "biologia umana".
+
+Art. 108. - Agli insegnamenti complementari del corso di laurea in farmacia sono aggiunti quelli di: "biochimica applicata" e "scienza dell'alimentazione".
+
+Art. 109. - E' Aggiunto il seguente comma:
+
+"Gli esami delle materie di anatomia umana, fisiologia generale e chimica biologica devono precedere quelli di farmacologia".
+
+Art. 205. - Al corso di specializzazione annesso alla Facolta' di magistero costituito degli insegnamenti per le lingue francese, inglese e tedesca e' aggiunto quello per la lingua spagnola con il seguente ordinamento:
+
+4) per la lingua spagnola:
+
+1) storia della lingua spagnola e interpretazione di testi;
+
+2) esercitazioni pratiche di lingua, con particolare riguardo alla sintassi e allo stile spagnolo;
+
+3) un corso di lingua e letteratura spagnola della Facolta' di magistero che stabilira' la Facolta' stessa.
+
+L'insegnamento di ciascuna disciplina sara' integrato da esercitazioni, anche presso scuole pubbliche, e da lettura di testi.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 4 maggio 1958
+
+GRONCHI
+
+MORO
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 27 giugno 1958 Atti del Governo, registro n. 112, foglio n. 255. - RELLEVA
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Firenze e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 273 - all'elenco delle scuole di specializzazione in medicina e chirurgia e' aggiunta la scuola di specializzazione in neurochirurgia.   
-L'art. 285 (paragrafo h), relativo alla scuola di specializzazione in chirurgia, e' abrogato e sostituito dal seguente:   
-Art. 285 (paragrafo h). - La frequenza alle, lezioni ed alle esercitazioni e' obbligatoria per tutti gli iscritti. L'internato e' obbligatorio durante tutti i cinque anni del corso e si svolgera' presso la clinica chirurgica sotto forma di permanenza costante nella detta clinica durante le ore della sua attivita', con presenza giornaliera agli ambulatori ed ai reparti di degenza.   
-La frequenza nelle sale operatorie iniziera' fin dal primo anno di corso, e dopo un periodo di tirocinio, dovra' trasformarsi in compartecipazione attiva agli interventi operatori.   
-Per i corsi che non siano della clinica chirurgica generale, possono essere stabiliti, su parere del direttore della scuola, periodi di continuativa frequenza presso i relativi reparti specialistici, qualora esistano quali reparti indipendenti.   
-Dopo l'art. 319, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in neurochirurgia.   
-Scuola di specializzazione in neurochirurgia   
-Art. 320. - La scuola di specializzazione in neurochirurgia ha sede presso la cattedra di neurochirurgia e conferisce il diploma di specialista in neurochirurgia.   
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.   
-Il numero massimo degli allievi e' di due per anno di corso e complessivamente di dieci (10) iscritti per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-Art. 321. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-1) neuroanatomia;   
-2) neurofisiologia;   
-3) semeiotica e clinica neurologica;   
-4) elementi di psichiatria;   
-5) clinica neurochirurgica I.   
-2° Anno:   
-6) neuro-oftalmologia;   
-7) neuro-otoiatria;   
-8) neurofisiologia clinica;   
-9) clinica neurochirurgica II.   
-3° Anno:   
-10) neuroanestesia e rianimazione;   
-11) neuroradiologia I;   
-12) neuropatologia;   
-13) clinica neurochirurgica III.   
-4° Anno:   
-14) neuroradiologia II;   
-15) neurotraumatologia;   
-16) tecniche operatorie I;   
-17) clinica neurochirurgica IV.   
-5° Anno:   
-18) neurochirurgia funzionale e stereotassica;   
-19) neurochirurgia infantile;   
-20) tecniche operatorie II;   
-21) clinica neurochirurgia V.   
-La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.   
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
-Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.   
-Al termine del corso di studi per il conseguimento del diploma di specialista in neurochirurgia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
+Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 33. - Agli insegnamenti complementari del corso di laurea in economia e commercio e' aggiunto quello di: "ragioneria applicata alle aziende pubbliche".  
+Art. 41. - Il primo comma e' cosi' modificato: "Lo studente non puo' presentarsi agli esami di "matematica finanziaria" ne' agli esami di "statistica" se non ha superato l'esame di "matematica generale"; ne' agli esami di "scienza delle finanze" e "diritto finanziario", di "storia economica", di "politica economica e finanziaria" e di "economia e politica agraria" se non ha prima superato, quelli di "economia politica"; ne' agli esami di "politica economica e finanziaria" se non ha superato quello di "scienza delle finanze"; ne' agli esami di "tecnica bancaria e professionale" e di "tecnica industriale e commerciale" se prima non ha superato quello di "ragioneria generale ed applicata", ne' agli esami di "diritto commerciale" e di "diritto del lavoro" se non ha superato gli esami di "istituzioni di diritto privato" e di "istituzioni di diritto pubblico".  
+Art. 59. - Agli insegnamenti complementari del corso di laurea in materie letterarie e' aggiunto quello di: "storia della letteratura latina medioevale ed umanistica".  
+Art. 61. - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere e' aggiunto quello di "storia della letteratura latina medioevale ed umanistica".  
+Art. 78. - Agli insegnamenti complementari del corso di laurea in fisica sono aggiunti quelli di:  
+"Radioattivita'";  
+"Meccanica statistica";  
+"Fisica dei solidi";  
+"Meccanica superiore".  
+Art. 80. - Agli insegnamenti complementari del corso di laurea in scienze matematiche e' aggiunto quello di "meccanica superiore".  
+Art. 82. - Agli insegnamenti complementari del corso di laurea in matematica e fisica e' aggiunto quello di "meccanica superiore".  
+Art. 84. - Agli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti quelli di: "paleontologia umana" e "biologia umana".  
+Art. 86. - Agli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti quelli di: "paleontologia umana" e "biologia umana".  
+Art. 88. - Agli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti quelli di: "paleontologia umana" e "biologia umana".  
+Art. 108. - Agli insegnamenti complementari del corso di laurea in farmacia sono aggiunti quelli di: "biochimica applicata" e "scienza dell'alimentazione".  
+Art. 109. - E' Aggiunto il seguente comma:  
+"Gli esami delle materie di anatomia umana, fisiologia generale e chimica biologica devono precedere quelli di farmacologia".  
+Art. 205. - Al corso di specializzazione annesso alla Facolta' di magistero costituito degli insegnamenti per le lingue francese, inglese e tedesca e' aggiunto quello per la lingua spagnola con il seguente ordinamento:  
+4) per la lingua spagnola:  
+1) storia della lingua spagnola e interpretazione di testi;  
+2) esercitazioni pratiche di lingua, con particolare riguardo alla sintassi e allo stile spagnolo;  
+3) un corso di lingua e letteratura spagnola della Facolta' di magistero che stabilira' la Facolta' stessa.  
+L'insegnamento di ciascuna disciplina sara' integrato da esercitazioni, anche presso scuole pubbliche, e da lettura di testi.  
   
-Il presente decreto, munito del sigillo dello stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 22 giugno 1978   
-  
-p. Il Presidente della Repubblica   
-  
-Il Presidente del Senato   
-FANFANI   
-PEDINI   
-  
-Visto, il Guardasigilli: BONIFACIO   
-Registrato alla Corte dei conti, addi' 16 luglio 1978   
-Registro n. 77 Istruzione, foglio n. 340   
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Dato a Roma, addi' 4 maggio 1958
+
+GRONCHI MORO
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato alla Corte dei conti, addi' 27 giugno 1958
+
+Atti del Governo, registro n. 112, foglio n. 255. - RELLEVA

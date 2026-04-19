@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1985 n. 916
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 797
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1985 n. 916
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 797
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Pavia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -33,26 +33,26 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Art. 70 - nell'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche e' inserito l'insegnamento di "geologia marina".  
+Nell'art. 65, relativo al corso di laurea in chimica, nell'elenco degli insegnamenti complementari sia dell'indirizzo organico-biologico, sia dell'indirizzo inorganico-chimico-fisico e' inserito l'insegnamento di "analisi chimica spettroscopica".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 ottobre 1985
+### Dato a Roma, addi' 28 giugno 1986
 
 COSSIGA
 
 FALCUCCI, Ministro della pubblica istruzione
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: ROGNONI
 
-Registrato alla Corte dei conti, addi' 14 febbraio 1986
+Registrato alla Corte dei conti, addi' 17 novembre 1986
 
-Registro n. 9 Istruzione, foglio n. 112
+Registro n. 84 Istruzione, foglio n. 103

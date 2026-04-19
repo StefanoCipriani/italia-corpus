@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1953 n. 170
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 gennaio 1954 n. 212
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1953 n. 170
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 gennaio 1954 n. 212
 ==============================================================
 
 Autorizzazione all'Universita' di Bari ad accettare una donazione.
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-170. Decreto del Presidente della Repubblica 28 gennaio 1953, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Bari viene autorizzata ad accettare la donazione di lire 198.818 in contanti, disposta in suo favore dal prof. ing.  
-Edoardo Orabona, con atto pubblico amministrativo in data 13 maggio 1952, per l'istituzione di un premio di studio da intitolarsi: "Premio dottoressa Emma Orabona" e da conferirsi ogni due anni ad un laureato nella Facolta' di lettere e filosofia dell'Universita' di Bari, autore della migliore monografia sulla storia dell'arte locale.  
+212. Decreto del Presidente della Repubblica 26 gennaio 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Bari viene autorizzata ad accettare la donazione di un elettrocardiografo a penna scrivente del valore di L. 500.000, disposta in suo favore, per uso della clinica medica, dal prof. Virgilio Chini, con atto pubblico amministrativo 31 dicembre 1952, n. 84 di repertorio.  
   
-Visto, il Guardasigilli: ZOLI  
-Registrato alla Corte dei conti, addi' 17 marzo 1953  
-Atti del Governo, registro n. 75, foglio n. 105. - PALLA
+Visto, il Guardasigilli: DE PIETRO  
+Registrato alla Corte del conti, addi' 15 maggio 1954  
+Atti del Governo, registro n. 83, foglio n. 60. - CARLOMAGNO

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1975 n. 292
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 1981 n. 769
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1975 n. 292
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 1981 n. 769
 =============================================================
 
 Autorizzazione all'Ente nazionale ACLI per l'istruzione professionale, in Roma, ad acquistare un immobile.
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-292. Decreto del Presidente della Repubblica 21 maggio 1975, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Ente nazionale ACLI per l'istruzione professionale (ENAIP), in Roma, viene autorizzato ad acquistare dal comune di Ramacca (Catania), al prezzo simbolico di lire 37.300, un tratto di suolo comunale sito in piazza Italia e della estensione di mq 373, come da rogito di compravendita redatto dal segretario comunale in data 9 luglio 1967, n. 25 di repertorio, da destinare alla costruzione del centro addestramento della casa dei lavoratori di Ramacca.  
+769. Decreto del Presidente della Repubblica 6 giugno 1981, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Ente nazionale ACLI per l'istruzione professionale (ENAIP), in Roma, viene autorizzato ad acquistare, al prezzo di L. 45.000.000, un appartamento al piano terreno di complessivi vani nove, sito in Genova, salita S. Brigida, n. 8/1, censito al nuovo catasto edilizio urbano alla cat. 110873, sezione G.C.A., foglio n. 79, mappale 359-sub 15 di proprieta' della societa' semplice "S.  
+Giuseppe lavoratore", in Genova, come da atto di compravendita 1 aprile 1977, n. 126469/29520 di repertorio, a rogito dott. Giuseppe Intersimone, notaio in Roma, registrato a Roma in data 12 aprile 1977, da adibire a sede per gli uffici regionali dell'ente in Liguria operanti per la formazione professionale.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 8 luglio 1975  
-Atti di Governo, registro n. 10, foglio n. 101
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 16 dicembre 1981  
+Registro n. 1 Lavoro, foglio n. 163

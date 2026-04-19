@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 febbraio 1964 n. 209
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1049
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 febbraio 1964 n. 209
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1049
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
@@ -10,201 +10,143 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 13 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-13;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numeri 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta Riconosciuta la particolare necessita' di approvare le a i ove modifiche proposte;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Decreta:
+Sentito il parere del Consiglio universitario nazionale;
 
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Veduta la necessita' di adeguare le norme sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Art. 7. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di: (i Diritto pubblico americano".
+Sulla
+-----
 
-Art. 8, concernente le norme di propedeuticita' per il corso di laurea in Giurisprudenza e' modificato nel senso che anche gli esami di Istituzioni di diritto privato (n. 1) e di Diritto costituzionale (n. 5) devono precedere gli esami di Diritto ecclesiastico e di Diritto canonico.
-
-Allo stesso articolo e' aggiunto al n. 6 il seguente comma "L'esame di Diritto civile deve precedere quello di Diritto amministrativo".
-
-Art. 88. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti i seguenti Radiobiologia Genetica umana Biologia marina Citogenetica Biochimica cellulare.
-
-Gli articoli 107, 108, 112, 113 e 114 relativi alla Scuola di perfezionamento in Diritto del lavoro e previdenza sociale sono abrogati e sostituiti dai seguenti:
-
-Art. 107. - Alla Scuola potranno iscriversi i laureati in Giurisprudenza, in Economia e commercio, in Lingue e letterature straniere, in Scienze politiche, in Scienze agrarie, in Lettere e filosofia, in Ingegneria, in Medicina e chirurgia, o coloro in possesso di laurea o diploma conferito dalla Facolta' di magistero o di altri titoli equiparati ai precedenti conferiti da istituti italiani o stranieri. Gli iscritti non potranno superare il numero massimo di 150.
-
-Art. 108. - La durata del corso degli studi e' di due anni e al suo termine viene conferito un diploma di perfezionamento in Diritto del lavoro e previdenza sociale.
-
-Il diploma menzionera' pure l'indirizzo di insegnamento, fra quelli previsti dall'art. 113, lettera b); se l'iscritto avra' superato almeno cinque esami opzionali del medesimo indirizzo.
-
-Art. 112. - Il Consiglio della Scuola si compone del direttore e di due professori della Scuola stessa designati dalla Facolta' giuridica.
-
-Art. 113. - Gli insegnamenti della. Scuola si distinguono in:
-
-a) fondamentali, a carattere generale;
-
-b) materie a scelta dell'iscritto, ripartite in due indirizzi:
-
-previdenziale, sindacale-aziendale.
-
-Essi sono indicati nelle tabelle seguenti:
-
-a) Primo anno:
-
-1) Diritto sindacale
-
-2) Rapporto individuale di lavoro;
-
-3) Economia del lavoro;
-
-4) Rapporto di pubblico impiego;
-
-secondo anno:
-
-5) Legislazione sociale e previdenziale;
-
-6) Statistica del lavoro;
-
-7) storia del diritto del lavoro;
-
-8) Diritto ed organizzazione internazionale del lavoro;
-
-b) Indirizzo previdenziale:
-
-Storia e comparazione della legislazione previdenziale;
-
-Organizzazione degli enti previdenziali
-
-Assicurazioni sociali I (corso monografico);
-
-Assicurazioni sociali II (corso monografico)
-
-Contenzioso delle assicurazioni sociali;
-
-Politica ed economia della sicurezza della sicurezza sociale;
-
-Tecnica attuariale applicata alle assicurazioni sociali;
-
-Medicina sociale del lavoro;
-
-Indirizzo sindacale aziendale:
-
-Teoria e storia del sindacalismo;
-
-Sociologia dell'organizzazione sindacale e dei conflitti di lavoro;
-
-Movimenti sindacali e legislazione sindacale all'estero;
-
-Tecnica della contrattazione collettiva;
-
-Metodi retributivi;
-
-Organizzazione aziendale e direzione del personale nelle imprese;
-
-Controversie di lavoro;
-
-Organizzazione dell'attivita' amministrativa di tutela del lavoro.
-
-Il Consiglio della Scuola determina annualmente lo insegnamento di almeno 4 materie per ciascuno indirizzo opzionale, prescegliendole fra quelle indicate nelle precedenti tabelle e ripartendole tra i due anni del corso. Il direttore (della Scuola), inoltre, puo' promuovere conferenze e dibattiti ed assumere altre iniziative intese all'incremento dell'attivita' didattica e scientifica della Scuola, nell'ambito delle direttive deliberate dal Consiglio della scuola.
-
-Art. 111. - All'esame di diploma, consistente nella discussione di una dissertazione scritta, non e' ammesso chi non abbia superato gli esami di profitto in tutti gli insegnamenti fondamentali, e almeno in cinque fra quelli opzionali.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma addi' 24 febbraio 1964
-
-SEGNI
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 21 aprile 1964 Atti del Governo, registro n. 182, foglio n. 1235. - VILLA
+proposta del Ministro della pubblica istruzione; Decreta:
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numeri 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta Riconosciuta la particolare necessita' di approvare le a i ove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Lo statuto dell'Universita' di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Decreta:  
+All'art. 192, relativo alle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, la scuola di specializzazione in puericultura muta la denominazione in scuola di specializzazione in pediatria preventiva e puericultura.  
+
+Art. 2
+------
+
   
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 7. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di: (i Diritto pubblico americano".  
-Art. 8, concernente le norme di propedeuticita' per il corso di laurea in Giurisprudenza e' modificato nel senso che anche gli esami di Istituzioni di diritto privato (n. 1) e di Diritto costituzionale (n. 5) devono precedere gli esami di Diritto ecclesiastico e di Diritto canonico.  
-Allo stesso articolo e' aggiunto al n. 6 il seguente comma "L'esame di Diritto civile deve precedere quello di Diritto amministrativo".  
-Art. 88. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti i seguenti Radiobiologia Genetica umana Biologia marina Citogenetica Biochimica cellulare.  
-Gli articoli 107, 108, 112, 113 e 114 relativi alla Scuola di perfezionamento in Diritto del lavoro e previdenza sociale sono abrogati e sostituiti dai seguenti:  
-Art. 107. - Alla Scuola potranno iscriversi i laureati in Giurisprudenza, in Economia e commercio, in Lingue e letterature straniere, in Scienze politiche, in Scienze agrarie, in Lettere e filosofia, in Ingegneria, in Medicina e chirurgia, o coloro in possesso di laurea o diploma conferito dalla Facolta' di magistero o di altri titoli equiparati ai precedenti conferiti da istituti italiani o stranieri. Gli iscritti non potranno superare il numero massimo di 150.  
-Art. 108. - La durata del corso degli studi e' di due anni e al suo termine viene conferito un diploma di perfezionamento in Diritto del lavoro e previdenza sociale.  
-Il diploma menzionera' pure l'indirizzo di insegnamento, fra quelli previsti dall'art. 113, lettera b); se l'iscritto avra' superato almeno cinque esami opzionali del medesimo indirizzo.  
-Art. 112. - Il Consiglio della Scuola si compone del direttore e di due professori della Scuola stessa designati dalla Facolta' giuridica.  
-Art. 113. - Gli insegnamenti della. Scuola si distinguono in:  
-a) fondamentali, a carattere generale;  
-b) materie a scelta dell'iscritto, ripartite in due indirizzi:  
-previdenziale, sindacale-aziendale.  
-Essi sono indicati nelle tabelle seguenti:  
-a) Primo anno:  
-1) Diritto sindacale  
-2) Rapporto individuale di lavoro;  
-3) Economia del lavoro;  
-4) Rapporto di pubblico impiego;  
-secondo anno:  
-5) Legislazione sociale e previdenziale;  
-6) Statistica del lavoro;  
-7) storia del diritto del lavoro;  
-8) Diritto ed organizzazione internazionale del lavoro;  
-b) Indirizzo previdenziale:  
-Storia e comparazione della legislazione previdenziale;  
-Organizzazione degli enti previdenziali  
-Assicurazioni sociali I (corso monografico);  
-Assicurazioni sociali II (corso monografico)  
-Contenzioso delle assicurazioni sociali;  
-Politica ed economia della sicurezza della sicurezza sociale;  
-Tecnica attuariale applicata alle assicurazioni sociali;  
-Medicina sociale del lavoro;  
-Indirizzo sindacale aziendale:  
-Teoria e storia del sindacalismo;  
-Sociologia dell'organizzazione sindacale e dei conflitti di lavoro;  
-Movimenti sindacali e legislazione sindacale all'estero;  
-Tecnica della contrattazione collettiva;  
-Metodi retributivi;  
-Organizzazione aziendale e direzione del personale nelle imprese;  
-Controversie di lavoro;  
-Organizzazione dell'attivita' amministrativa di tutela del lavoro.  
-Il Consiglio della Scuola determina annualmente lo insegnamento di almeno 4 materie per ciascuno indirizzo opzionale, prescegliendole fra quelle indicate nelle precedenti tabelle e ripartendole tra i due anni del corso. Il direttore (della Scuola), inoltre, puo' promuovere conferenze e dibattiti ed assumere altre iniziative intese all'incremento dell'attivita' didattica e scientifica della Scuola, nell'ambito delle direttive deliberate dal Consiglio della scuola.  
-Art. 111. - All'esame di diploma, consistente nella discussione di una dissertazione scritta, non e' ammesso chi non abbia superato gli esami di profitto in tutti gli insegnamenti fondamentali, e almeno in cinque fra quelli opzionali.  
+L'art. 258, relativo alla scuola di specializzazione in puericultura, che muta la denominazione in scuola di specializzazione in pediatria preventiva e puericultura, e' sostituito dal seguente:  
+  
+Scuola di specializzazione in pediatria preventiva e puericultura  
+  
+Presso l'istituto di puericultura dell'Universita' di Bari e' istituita una scuola di specializzazione in pediatria preventiva e puericultura. Alla scuola stessa possono iscriversi esclusivamente i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente. La scuola si propone di conferire la preparazione teorico-pratica, sia nel campo della neonatologia e patologia neonatale, sia nel campo della pratica pediatrica preventiva e sociale, con particolare riguardo alla prevalente funzione preventiva e sociale della medicina infantile sul territorio, che il pediatra e' chiamato a svolgere.  
+Essa ha la durata di quattro anni ed e' articolata in due indirizzi:  
+a) neonatologia e patologia neonatale;  
+b) pediatria sociale.  
+Dopo un primo biennio comune ai due indirizzi, e' istituito un secondo biennio differenziato per ciascuno dei due indirizzi. I medici che abbiano gia' conseguito la specializzazione in pediatria preventiva e puericultura con uno dei due indirizzi, potranno iscriversi direttamente al secondo biennio della scuola con l'altro indirizzo previsto dallo statuto.  
+Il numero massimo degli allievi che possono essere iscritti e' di quindici complessivamente per l'intera durata del corso di studi, bienni orientativi inclusi.  
+La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento, la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
+L'ammissione al corso avviene per titoli ed esami.  
+Le materie di insegnamento sono:  
+BIENNIO PROPEDEUTICO COMUNE:  
+1° Anno:  
+1) anatomia e fisiologia dell'eta' evolutiva I;  
+2) elementi di ostetricia e ginecologia;  
+3) semeiotica infantile;  
+4) genetica medica;  
+5) elementi di laboratorio e biochimica clinica;  
+6) fisiologia della nutrizione;  
+7) metabolismo dell'eta' evolutiva I;  
+8) embriologia e fisiologia prenatali;  
+9) patologia infantile I;  
+10) alimentazione nell'eta' evolutiva.  
+2° Anno:  
+1) anatomia e fisiologia dell'eta' evolutiva II;  
+2) metabolismo dell'eta' evolutiva II;  
+3) patologia infantile II;  
+4) auxologia normale;  
+5) malattie infettive e loro prevenzione;  
+6) patologia prenatale;  
+7) patologia perinatale;  
+8) elementi di clinica pediatrica;  
+9) dietologia infantile;  
+10) anatomia patologica infantile;  
+11) O.R.L. e audiologia infantili;  
+12) oculistica e ottica fisio-patologica infantili.  
+INDIRIZZO DI NEONATOLOGIA E PATOLOGIA NEONATALE:  
+3° Anno:  
+1) clinica della gravidanza e del parto neonatale;  
+2) fisiopatologia embrio-fetale;  
+3) fisiologia neonatale;  
+4) biochimica neonatale;  
+5) immunologia neonatale;  
+6) diagnostica radiologica neonatale;  
+7) tecniche di laboratorio (con riferimento alla fisiopatologia neonatale);  
+8) patologia neonatale I;  
+9) assistenza al neonato sano ed ammalato;  
+10) semeiotica neonatale.  
+4° Anno:  
+1) patologia neonatale II;  
+2) il neonato a rischio;  
+3) farmacologia neonatale;  
+4) clinica e terapia neonatali;  
+5) rianimazione e terapia intensiva del neonato;  
+6) alimentazione del neonato sano e patologico;  
+7) anatomia patologica del feto e del neonato;  
+8) patologia chirurgica neonatale;  
+9) neurologia neonatale.  
+INDIRIZZO DI PEDIATRIA SOCIALE:  
+3° Anno:  
+1) adolescentologia I;  
+2) auxologia patologica ed endocrinologia infantile;  
+3) neuropsichiatria infantile;  
+4) epidemiologia, statistica medica e biometria;  
+5) epidemiologia e prevenzione di malattie di importanza sociale e nell'eta' evolutiva;  
+6) igiene dell'alimentazione;  
+7) medicina scolastica e sua legislazione;  
+8) psicologia dell'eta' evolutiva;  
+9) fisioterapia genetica sul territorio;  
+10) consulenza genetica sul territorio;  
+11) patologia e clinica delle malattie di importanza sociale nell'eta' evolutiva.  
+4° Anno:  
+1) adolescentologia II;  
+2) medicina dello sport nell'eta' evolutiva;  
+3) odontologia ed odontoiatria;  
+4) ortopedia e traumatologia nell'eta' evolutiva;  
+5) legislazione ed assistenza sociale per l'infanzia e l'adolescenza;  
+6) informazione sanitaria;  
+7) servizi pubblici extra-ospedalieri di sanita' e assistenza per l'eta' evolutiva;  
+8) psicopedagogia;  
+9) sociologia applicata alla popolazione infantile.  
+Le norme generali per l'iscrizione, gli esami, le tasse, ecc. sono quelle che regolano le scuole di specializzazione dell'Universita' di Bari.  
+La frequenza alle lezioni, alle esercitazioni pratiche nei reparti e' obbligatoria; gli allievi che non conseguono le attestazioni di frequenza non possono essere ammessi a sostenere le prove di esame.  
+Il tirocinio pratico durante il quarto anno della scuola per l'indirizzo di neonatologia e patologia neonatale potra' essere svolto oltreche' presso l'istituto ove la scuola ha sede presso strutture assistenziali che abbiano, a giudizio del consiglio della scuola, caratteristiche idonee allo scopo. Tale tirocinio sara' attestato per iscritto dal responsabile di ciascuna struttura.  
+Il tirocinio pratico durante il quarto anno per l'indirizzo in pediatria sociale e' previsto sia svolto almeno in parte, in accordo con le amministrazioni competenti (regioni, province, comuni) presso strutture assistenziali sul territorio (consultori, ecc.), che abbiano, a giudizio del consiglio della scuola, caratteristiche idonee allo scopo. Tale tirocinio sara' attestato dall'ente responsabile della struttura.  
+Alla fine di ciascun anno di corso gli allievi, per essere ammessi agli anni successivi, debbono superare le prove di esame teorico-pratiche sulle materie impartite durante l'anno; per le materie a corso biennale, l'esame sara' sostenuto sotto forma di colloquio, al termine di ciascun anno. Superati gli esami finali, l'allievo sosterra' l'esame di diploma, che potra' essere costituito da una dissertazione orale su un argomento precedentemente concordato.  
+All'allievo risultato idoneo verra' rilasciato il diploma di specialista in pediatria preventiva e puericultura, con espressa menzione dell'indirizzo seguito, valido a tutti gli effetti di legge.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma addi' 24 febbraio 1964
+### Dato a Roma, addi' 31 ottobre 1981
 
-SEGNI GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 21 aprile 1964
+Registrato alla Corte dei conti, addi' 24 febbraio 1982
 
-Atti del Governo, registro n. 182, foglio n. 1235. - VILLA
+Registro n. 30 Istruzione, foglio n. 374

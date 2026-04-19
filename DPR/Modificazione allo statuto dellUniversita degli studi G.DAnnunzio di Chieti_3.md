@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 marzo 1985 n. 349
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 433
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 marzo 1985 n. 349
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 433
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi "G. 
 D'Annunzio" di Chieti.

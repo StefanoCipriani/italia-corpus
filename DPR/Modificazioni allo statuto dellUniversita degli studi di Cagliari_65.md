@@ -1,188 +1,196 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1962 n. 243
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1215
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1962 n. 243
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1215
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Cagliari e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Cagliari, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Veduto il [decreto del Presidente della Repubblica 26 luglio 1960, n. 1692](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-07-26;1692);  
-Veduta la [legge 21 luglio 1961, n. 685](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-21;685);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Dopo l'art. 234 del titolo XII - sezione III, e con il conseguente spostamento degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi all'istituzione delle seguenti scuole:  
   
-Decreta:  
+Scuola diretta a fini speciali per tecnici di igiene ambientale e del lavoro  
+Art. 235. - La scuola ha sede nell'istituto di medicina del lavoro, della facolta' di medicina dell'Universita' di Cagliari: per detta scuola e' istituito un consiglio, presieduto dal direttore. Per la composizione e le attribuzioni del consiglio, l'elezione e i compiti del direttore si applicano le disposizioni di cui all'art. 94, nonche' i [commi secondo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-04;382~art16-com2) e [terzo dell'art. 16 del decreto del Presidente della Repubblica 4 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-04;382~art16-com3).  
+Art. 236. - La scuola prende il nome di scuola per tecnici di igiene ambientale e del lavoro, ha la durata di due anni e conferisce il diploma di tecnico di igiene del lavoro. Titoli di ammissione sono quelli previsti per l'ammissione ai corsi universitari.  
+Art. 237. - Gli aspiranti all'iscrizione al primo anno di corso sono tenuti a sostenere un esame di ammissione consistente in una prova orale di cultura generale con particolare riguardo alle nozioni di biologia, chimica e fisica apprese nelle scuole medie superiori.  
+Art. 238. - Alla scuola non sono ammessi piu' di venti allievi.  
+Qualora il numero degli aspiranti sia superiore a quello determinato per le iscrizioni, e' richiesto il superamento di un esame consistente in una prova scritta, che potra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e dalla valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, del titolo di studio posseduto dagli aspiranti.  
+Sono ammessi ai corsi i candidati che, in relazione al numero delle iscrizioni disponibili, si siano collocati in posizione utile nella graduatoria compilata sulla base del punteggio complessivo riportato.  
+Art. 239. - Il corso comprende lezioni teoriche ed esercitazioni pratiche. Le materie di insegnamento sono le seguenti e afferiscono alla facolta' di medicina e chirurgia:  
+1° Anno:  
+nozioni di chimica, fisica e biologia generale;  
+microanalisi;  
+inquinamenti industriali (prelievo e analisi);  
+rischi nell'ambiente di lavoro;  
+tecnologia industriale;  
+tossicologia industriale.  
+2° Anno:  
+microanalisi (prelievo ed analisi di inquinanti industriali);  
+igiene dell'ambiente di lavoro;  
+elementi di fisiopatologia del lavoro;.  
+organizzazione del lavoro;  
+legislazione sanitaria.  
+Le esercitazioni pratiche sono biennali e comprendono:  
+a) tecniche di prelievo:  
+aria;  
+acque;  
+liquidi e tessuti biologici;  
+agenti fisici.  
+b) tecnica analitica:  
+aria (gas e vapori, sostanze corpuscolate, fumo);  
+acque;  
+liquidi e tessuti biologici;  
+agenti fisici.  
+Art. 240. - E' fatto obbligo agli allievi di frequentare le lezioni teoriche e le esercitazioni: queste ultime, in forma di tirocinio pratico sotto la guida di un docente, della durata non inferiore a mesi due consecutivi, presso istituti universitari oppure enti pubblici e/o privati riconosciuti idonei dalla direzione della scuola.  
+Art. 241. - A conclusione degli studi gli allievi devono sostenere un esame di diploma che consiste nella esecuzione di una prova pratica di laboratorio e nella discussione di una relazione scritta del candidato su un'attivita' di controllo delle condizioni igienico-ambientali assegnatogli dalla direzione della scuola.  
+Art. 242. - I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo altro anno di frequenza della scuola. Se al secondo anno non venga riconosciuta l'idoneita', essi saranno senz'altro esclusi da ulteriori prove.  
+Art. 243. - Agli studenti della scuola si applicano le disposizioni contenute nell'[art. 10 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art10), nonche' quelle previste dal [regio decreto n. 1269/38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938;1269).  
+Scuola diretta a fini speciali di servizio sociale  
+Art. 244. - E' istituita presso l'Universita' degli studi di Cagliari la scuola diretta a fini speciali di servizio sociale.  
+Art. 245. - La direzione della scuola ha sede presso l'istituto di igiene.  
+Art. 246. - La scuola ha lo scopo di formare assistenti sociali attraverso insegnamenti fondamentali e professionali integrati da seminari interdisciplinari e tirocini.  
+Art. 247. - La durata del corso e' di anni tre e non e' suscettibile di abbreviazioni.  
+Art. 248. - Il numero degli studenti che possono essere iscritti e' di venti per ogni anno di corso e complessivamente di sessanta per l'intero corso di studi.  
+Art. 249. - Alla scuola sono ammessi i diplomati degli istituti di istruzione secondaria di secondo grado, giusta le disposizioni vigenti per l'ammissione ai vari corsi di laurea.  
+Art. 250. - Qualora il numero degli aspiranti sia superiore a quello dei posti disponibili, l'accesso alle scuole medesime nei limiti dei posti disponibili e' subordinato al superamento di un esame consistente in una prova scritta, che potra' svolgersi mediante domande a risposte multiple integrate eventualmente da un colloquio e dalla valutazione, in misura non superiore al 30%, del punteggio complessivo a disposizione della commissione dei titoli di studio richiesti per l'ammissione.  
+Art. 251. - Le materie di insegnamento sono le seguenti:  
   
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+1° Anno:  
+elementi di diritto costituzionale ed Amministrativo . . . . . . E.C. elementi di economia politica. . . . . . . . . . . . . . . . . . E.C. sociologia I. . . . . . . . . . . . . . . . . . . . . . . . . . M./L. psicologia I. . . . . . . . . . . . . . . . . . . . . . . . . M.C./M. elementi di biologia e fisiologia umana. . . . . . . . . . . . . M.C. legislazione assistenziale e previdenza sociale I. . . . . . . . . G. istituzioni di servizio sociale I. . . . . . . . . . . . . . . . P.C. metodologia del servizio sociale I . . . . . . . . . . . . . . . P.C. 2° Anno:  
+elementi di diritto privato e del lavoro . . . . . . . . . . . . . G. elementi di diritto penale e penitenziario . . . . . . . . . . . . G. diritto di famiglia e legislazione minorile. . . . . . . . . . . . G. legislazione assistenziale e previdenza sociale II . . . . . . . . G. sociologia II . . . . . . . . . . . . . . . . . . . . . . . . . M./L. psicologia II . . . . . . . . . . . . . . . . . . . . . . . M.C./M.L. igiene e medicina preventiva . . . . . . . . . . . . . . . . . . M.C. tecnica delle comunicazioni e informazione di massa. . . . . . . P.C. istituzioni di servizio sociale II . . . . . . . . . . . . . . . P.C. metodologia del servizio sociale II. . . . . . . . . . . . . . . P.C. 3° Anno:  
+etica professionale. . . . . . . . . . . . . . . . . . . . . . . P.C. antropologia culturale . . . . . . . . . . . . . . . . . . . . . M.C. storia delle istituzioni politiche e sociali . . . . . . . . . . S.P. psicologia sociale . . . . . . . . . . . . . . . . . . . . . . . M.C. medicina sociale ed educazione sanitaria . . . . . . . . . . . . M.C. psicopatologia, psichiatria, igiene mentale. . . . . . . . . . . P.C. metodologia della ricerca sociale. . . . . . . . . . . . . . . . P.C. amministrazione e organizzazione dei servizi sociali . . . . . . P.C. servizio sociale e politica sociale  
   
-L'art. 53 relativo al corso di studi per la laurea in fisica e' abrogato e sostituito dal seguente:  
+E.C. = Economia e commercio  
+M. = Magistero  
+G. = Giurisprudenza  
+P.C. = Professori a contratto  
+L. = Lettere  
+M.C. = Medicina e chirurgia  
+S.P. = Scienze politiche  
+Art. 252. - La frequenza ai corsi e' obbligatoria. Gli esami annuali si svolgono secondo quanto stabilito dal [regio decreto n. 1269/38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938;1269).  
+Lo studente per essere ammesso all'esame teorico-pratico deve documentare con la firma la frequenza di almeno i 2/3 delle lezioni e dei tirocini pratici, nonche' di un seminario interdisciplinare.  
+Il tirocinio pratico verra' svolto nel secondo e terzo anno di corso sotto la guida di un docente presso strutture dell'Universita' o strutture pubbliche convenzionate ai sensi dell'[art. 92 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art92).  
+Art. 253. - L'esame di diploma consiste in una dissertazione scritta su una o piu' materie del corso.  
+A coloro che avranno superato l'esame verra' rilasciato il diploma di assistente sociale.  
+Art. 254. - Le tasse sono quelle previste dall'[art. 10, comma primo, del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art10-com1). I contributi vanno determinati dal consiglio di amministrazione su proposta del consiglio della scuola. Per quanto non previsto nel presente statuto circa lo svolgimento degli esami di profitto e di diploma nonche' la costituzione delle rispettive commissioni si applica la normativa che disciplina gli studenti universitari.  
+Art. 255. - Alle spese di funzionamento della scuola si fara' fronte con le tasse e con finanziamenti di enti pubblici (regione, provincia, comune) e privati.  
+Art. 256. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa.  
+In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
+Art. 257. - Il consiglio della scuola e' composto da tutti i docenti universitari afferenti alla scuola stessa, ivi compresi i professori a contratto. La composizione e le attribuzioni del consiglio, l'elezione e i compiti del direttore sono regolati dall'[art. 94 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art94), relativo ai consigli di corso di laurea ed al presidente.  
+Scuola diretta a fini speciali per tecnici di laboratorio  
+Art. 258. - E' istituita presso l'Universita' degli studi di Cagliari la scuola diretta a fini speciali per tecnici di laboratorio.  
+Art. 259. - La direzione della scuola ha sede presso l'istituto di igiene.  
+Art. 260. - La scuola ha lo scopo di formare tecnici di laboratorio attraverso insegnamenti fondamentali e professionali integrati da seminari interdisciplinari e tirocini.  
+Art. 261. - La durata del corso e' di anni tre e non e' suscettibile di abbreviazioni.  
+Art. 262. - Il numero degli studenti che possono essere iscritti e' di otto per ogni anno di corso e complessivamente di ventiquattro per l'intero corso di studi.  
+Art. 263. - Alla scuola sono ammessi i diplomati degli istituti di istruzione secondaria di secondo grado, giusta le disposizioni vigenti per l'ammissione ai vari corsi di laurea.  
+Art. 264. - Qualora il numero degli aspiranti sia superiore a quelli dei posti disponibili, l'accesso alle scuole medesime nei limiti dei posti disponibili e' subordinato al superamento di un esame consistente in una prova scritta, che potra' svolgersi mediante domande a risposte multiple integrate eventualmente da un colloquio e dalla valutazione, in misura non superiore al 30%, del punteggio complessivo a disposizione della commissione dei titoli di studio richiesti per l'ammissione.  
+Art. 265. - Le materie di insegnamento sono le seguenti:  
   
-Art. 53. - La Facolta' di Scienze matematiche, fisiche e naturali della Universita' di Cagliari conferisce la laurea in Fisica a indirizzo didattico e quella a indirizzo generale. E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica. Possono inoltre essere ammessi i diplomati degli Istituti tecnici industriali, agrari, nautici e per geometri al sensi delle vigenti disposizioni di legge.  
-La durata del corso e' di quattro anni: al termine del primo biennio lo studente puo' optare o per la laurea in fisica a indirizzo didattico o per quella a indirizzo generale.  
-Per il 1° biennio, sono insegnamenti fondamentali comuni ai due indirizzi, obbligatori:  
-1° anno:  
-1) Fisica generale I;  
-2) Analisi matematica I;  
-3) Geometria I;  
-4) Esperimentazioni fisica (biennale);  
-5) Chimica con esercitazioni di laboratorio (corso per fisici). 2° anno:  
-1) Fisica generale II;  
-2) Analisi matematica II;  
-3) Meccanica razionale;  
-4) Esperimentazioni fisica (biennale).  
-Si richiedera' inoltre alla fine del biennio la prova di conoscenza di due lingue straniere di importanza scientifica da scegliere tra inglese, francese e tedesco.  
-I corsi di Fisica generale I e II, Analisi matematica I e II Geometria I e Meccanica razionale sono accompagnati da esercitazioni (non di laboratorio) che ne fanno parte integrante i corsi di Fisica generale I. Fisica generale II, Analisi matematica I e Analisi matematica II, comportano esami distinti e sono da considerare il primo propedeutico al secondo. Il corso di meccanica razionale, distinto da quello destinato agli allievi ingegneri, e' comune a quello tenuto per gli studenti in matematica.  
-Per accedere al secondo biennio e' necessario che lo studente abbia superato gli esami dei seguenti corsi:  
-Analisi matematica I;  
-Analisi matematica II;  
-Fisica generale I,  
-Fisica generale II.  
-Gli insegnamenti del II biennio sono i seguenti:  
-  
-Laurea a indirizzo didattico  
-  
-3° anno:  
-1) Istituzioni di fisica teorica;  
-2) Metodi matematici della fisica;  
-3) Complementi di fisica generale I;  
-4) Fisica, superiore;  
-5) Preparazioni di esperienza didattiche I.  
-4° anno:  
-1) Struttura della materia;  
-2) Complementi di fisica generale II;  
-3) Corso a scelta dello studente;  
-4) Preparazioni di esperienze didattiche II.  
-I corsi di Istituzioni di fisica teorica, metodi matematici della fisica, struttura della materia, complementi di fisica generale I e II, fisica superiore sono accompagnati da esercitazioni (non di laboratorio) che ne fanno parte integrante.  
-Il corso a scelta dello studente puo' anche essere accompagnato, a seconda del suo carattere, da esercitazioni di laboratorio.  
-I corsi di complementi di Fisica generale I e II e di preparazioni di esperienze didattiche comportano esami distinti e sono da considerare l'uno propedeutico all'altro.  
-  
-Corsi complementari  
-  
-Sono corsi complementari per il corso di laurea a indirizzo didattico:  
-1) Acustica;  
-2) Algebra superiore;  
-3) Analisi funzionale;  
-4) Analisi superiore;  
-5) Astrofisica;  
-6) Astronomia;  
-7) Calcolo delle probabilita';  
-8) Calcoli numerici e grafici;  
-9) Cibernetica e teoria dell'informazione;  
-10) Conduzione elettrica nei gas;  
-11) Onde elettromagnetiche;  
-12) Elettrologia;  
-13) Elettrotecnica;  
-14) Fisica dello stato solido;  
-15) Fisica matematica;  
-16) Fisica nucleare;  
-17) Fisica teorica;  
-18) Fisica terrestre;  
-19) Istituzioni di analisi superiore;  
-20) Istituzioni di fisica nucleare;  
-21) Istituzioni di fisica matematica;  
-22) Matematiche superiori;  
-23) Meccanica analitica;  
-24) Meccanica quantistica;  
-25) Meccanica statistica;  
-26) Meccanica superiore;  
-27) Misure elettriche;  
-28) Ottica;  
-29) Radioattivita';  
-30) Relativita';  
-31) Spettroscopia;  
-32) Storia della fisica;  
-33) Tecnica del vuoto;  
-34) Teoria delle funzioni;  
-35) Termodinamica.  
-  
-Laurea a indirizzo generale  
-  
-3° anno:  
-1) Istituzioni di fisica, teorica;  
-2) Metodi matematici della fisica;  
-3) Fisica superiore;  
-4) Laboratorio di fisica I;  
-5) Corso a scelta di matematiche superiori.  
-4° anno:  
-1) Struttura della materia;  
-2) Fisica teorica;  
-3) Laboratorio di fisica II;  
-4) Corso a scelta di fisica.  
-I corsi di Istituzioni di fisica teorica, metodi matematici della fisica, fisica superiore, fisica teorica, e il corso di matematiche superiori (a scelta) sono accompagnati da esercitazioni (non di laboratorio) che ne fanno parte integrante.  
-Il corso a scelta di Fisica, puo' anche essere accompagnato a secondo del suo carattere, da esercitazioni di laboratorio.  
-I corsi di Laboratorio di fisica I e Laboratorio di fisica II sono da considerare il primo propedeutico ad secondo.  
-I corsi di Istituzioni di fisica teorica e di metodi matematici della fisica sono propedeutici per il corso di fisica teorica.  
-I corsi di Laboratorio di fisica comportano due esami distinti e l'uno e' propedeutico all'altro.  
-  
-Corsi complementari  
-  
-Sono corsi complementari per il corso di laurea a indirizzo generale:  
-1) Acustica;  
-2) Algebra superiore;  
-3) Analisi funzionale;  
-4) Analisi superiore;  
-5) Astrofisica;  
-6) Astronomia;  
-7) Calcolo delle probabilita';  
-8) Calcoli numerici e grafici;  
-9) Chimica fisica;  
-10) Cibernetica e teoria dell'informazione;  
-11) Conduzione elettrica dei gas;  
-12) Onde elettromagnetiche;  
-13) Elettrologia;  
-14) Elettronica;  
-15) Elettrotecnica;  
-16) Fisica dei reattori;  
-17) Fisica dei neutroni;  
-18) Fisica dello stato solido;  
-19) Fisica delle particelle elementari;  
-20) Fisica matematica;  
-21) Fisica nucleare;  
-22) Fisica terrestre;  
-23) Istituzioni di analisi superiore;  
-24) Istituzioni di fisica nucleare;  
-25) Istituzioni di fisica matematica;  
-26) Matematiche superiori;  
-27) Meccanica analitica;  
-28) Meccanica quantistica;  
-29) Meccanica statistica;  
-30) Meccanica superiore;  
-31) Misure elettriche;  
-32) Ottica;  
-33) Ottica elettronica;  
-34) Radioattivita';  
-35) Relativita';  
-36) Spettroscopia;  
-37) Storia della fisica;  
-38) Tecnica del vuoto;  
-39) Teoria delle funzioni;  
-40) Termodinamica.  
-Per entrambi gli indirizzi lo studente potra' chiedere l'argomento della tesi di laurea soltanto dopo aver superato tutti gli esami dei primi tre anni di corso e sostenuto con esito favorevole un colloquio di cultura generale in fisica.  
-L'esame di laurea consistera' nella discussione di una tesi scritta alla quale non si richiede necessariamente carattere di ricerca originale e nella esposizione e commento di due memorie di letteratura scientifica (tesine) scelte fra tre presentate dal candidato. Superato l'esame di laurea, lo studente consegue il titolo di dottore in Fisica, indipendentemente dall'indirizzo prescelto del quale verra' fatta menzione soltanto nella carriera scolastica.  
+FACOLTA' DI MEDICINA  
+1° Anno:  
+metodi matematici e statistici in chimica e biologia;  
+elementi di informatica;  
+chimica e microscopia clinica;  
+anatomia e istologia normale;  
+fisiologia umana;  
+biochimica generale;  
+parassitologia.  
+2° Anno:  
+patologia generale;  
+microbiologia e virologia generale;  
+farmacologia;  
+metodologia biochimica;  
+elementi di igiene e medicina preventiva;  
+chimica clinica I.  
+3° Anno:  
+chimica clinica II;  
+immunologia e immunoematologia;  
+analisi biologiche;  
+virologia applicata;  
+anatomia e istologia patologica;  
+igiene ambientale e territorio;  
+educazione sanitaria.  
+Art. 266. - La frequenza ai corsi e' obbligatoria. Gli esami annuali si svolgono secondo quanto stabilito dal [regio decreto n. 1269/38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938;1269).  
+Lo studente per essere ammesso all'esame teorico-pratico deve documentare con la firma di frequenza di almeno i 2/3 delle lezioni e dei tirocini pratici, nonche' di un seminario interdisciplinare.  
+Il tirocinio pratico verra' svolto nel primo e secondo anno di corso sotto la guida di un docente presso strutture dell'Universita' o strutture pubbliche con essa convenzionate ai sensi dell'[art. 92 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art92).  
+Art. 267. - L'esame di diploma consiste in una dissertazione scritta su una o piu' materie del corso.  
+A coloro che avranno superato l'esame verra' rilasciato il diploma di tecnico di laboratorio.  
+Art. 268. - Le tasse sono quelle previste dall'[art. 10, comma primo, del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art10-com1). I contributi vanno determinati dal consiglio di amministrazione su proposta del consiglio della scuola. Per quanto non previsto nel presente statuto circa lo svolgimento degli esami di profitto e di diploma nonche' la costituzione delle rispettive commissioni si applica la normativa che disciplina gli studenti universitari.  
+Art. 269. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa.  
+In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
+Art. 270. - Il consiglio della scuola e' composto da tutti i docenti universitari di ruolo afferenti alla scuola stessa, ivi compresi i professori a contratto. La composizione e le attribuzioni del consiglio, l'elezione e i compiti del direttore sono regolati dall'[art. 94 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art94), relativo ai consigli di corso di laurea ed al presidente.  
+Art. 271. - Alle spese di funzionamento della scuola si fara' fronte con le tasse e con finanziamenti di enti pubblici (regioni, provincia, comune) e privati.  
+Scuola speciale per tecnici di audiometria  
+Art. 272. - La scuola ha sede nell'istituto di clinica otorinolaringoiatrica della facolta' di medicina dell'Universita' di Cagliari; per detta scuola e' istituito un consiglio, presieduto dal direttore. Per la composizione e le attribuzioni del consiglio, l'elezione ed i compiti del direttore si applicano le disposizioni di cui all'art. 94, nonche' i [commi secondo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-04;382~art16-com2) e [terzo dell'art. 16 del decreto del Presidente della Repubblica 4 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-04;382~art16-com3).  
+Art. 273. - La scuola prende il nome di scuola per tecnici di audiometria, ha la durata di due anni e conferisce il diploma di tecnico di audiometria. Titoli di ammissione sono quelli previsti per l'ammissione ai corsi universitari.  
+Art. 274. - Gli aspiranti all'iscrizione al primo anno di corso sono tenuti a sostenere un esame di ammissione consistente in una prova orale di cultura generale con particolare riguardo alle nozioni di biologia e fisica acustica apprese nelle scuole medie superiori.  
+Art. 275. - Alla scuola non sono ammessi piu' di sei allievi (tre per anno di corso). Qualora il numero degli aspiranti sia superiore a quello determinato per le iscrizioni, e' richiesto il superamento di un esame consistente in una prova scritta, che potra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e dalla valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, del titolo di studio posseduto dagli aspiranti.  
+Sono ammessi ai corsi i candidati che, in relazione al numero dei posti disponibili si siano collocati in posizione utile nella graduatoria compilata sulla base del punteggio complessivo riportato.  
+Art. 276. - Il corso comprende lezioni teoriche ed esercitazioni pratiche. Le materie di insegnamento sono le seguenti ed afferiscono alla facolta' di medicina e chirurgia:  
+1° Anno:  
+anatomia e fisiologia dell'orecchio, delle vie e dei centri acustici;  
+elementi di fisica acustica;  
+tecniche audiometriche.  
+2° Anno:  
+patologia dell'udito, del linguaggio, dell'apparato vestibolare;  
+elementi di otoneurologia;  
+elementi di foniatria;  
+tecniche audiometriche.  
+Le esercitazioni pratiche sono biennali e comprendono:  
+a) tecniche audiometriche: audiometria obiettiva;  
+audiometria semiobiettiva, audiometria tonale;  
+b) tecniche vestibolari: elettronistagmografia clinica.  
+Art. 277. - E' fatto obbligo agli allievi di frequentare le lezioni teoriche e il tirocinio, svolto sotto la guida di un docente, per tutta la durata del corso, presso istituti universitari o centri pubblici riconosciuti idonei dalla direzione della scuola.  
+Art. 278. - A conclusione degli studi gli allievi devono sostenere un esame di diploma che consiste nella esecuzione di una prova pratica di audiometria e nella discussione di una relazione scritta del candidato su una metodica audiometrica assegnatagli dalla direzione della scuola.  
+Art. 279. - I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza della scuola. Se al secondo anno non venga riconosciuta l'idoneita', essi saranno senz'altro esclusi da ulteriori prove.  
+Art. 280. - Agli studenti della scuola si applicano le disposizioni contenute nell'[art. 10 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art10).  
+Per quanto non previsto nel presente statuto circa lo svolgimento degli esami di profitto e di diploma nonche' la costituzione delle rispettive commissioni si applica la normativa che disciplina gli studenti universitari.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 marzo 1962
+### Dato a Roma, addi' 28 ottobre 1983
 
-GRONCHI GUI
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 11 maggio 1962
+Registrato alla Corte dei conti, addi' 28 aprile 1984
 
-Atti del Governo, registro n. 146, foglio n. 92. - VILLA
+Registro n. 25 Istruzione, foglio n. 165

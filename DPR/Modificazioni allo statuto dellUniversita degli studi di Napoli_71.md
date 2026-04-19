@@ -1,42 +1,304 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 febbraio 1955 n. 71
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 maggio 1969 n. 448
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 febbraio 1955 n. 71
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 maggio 1969 n. 448
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Napoli approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 22. - Nell'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di "Diritto processuale costituzionale".
+
+Art. 90. - Nell'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti quelli di:
+
+Topografia antica della Campania e della Magna Grecia;
+
+Linguistica generale;
+
+Storia della critica d'arte.
+
+Art. 93. - Nell'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti quelli di:
+
+Psicologia dell'eta' evolutiva;
+
+Psicologia sociale.
+
+Art. 98. - Nell'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne e' aggiunto quello di "Linguistica generale e storia della critica d'arte".
+
+Art. 102. - Nell'elenco degli istituti annessi alla facolta' di lettere e filosofia e' aggiunto quello di "Istituto di psicologia".
+
+Art. 204, relativo agli istituti annessi alla facolta' di Ingegneria e' modificato nel senso che gli istituti di chimica industriale e di impianti chimici mutano denominazione in quelli di:
+
+Istituto di chimica industriale ed impianti chimici;
+
+Istituto di chimica applicata.
+
+Dopo l'art. 323 e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli relativi, alla istituzione del corso di perfezionamento in diritto ecclesiastico e canonico annesso alla facolta' di giurisprudenza.
+
+Corso di perfezionamento in diritto ecclesiastico e canonico
+
+Art. 324. - E' istituito presso la facolta' di giurisprudenza il corso di perfezionamento in diritto ecclesiastico e in diritto canonico.
+
+Art. 325. - Al corso possono essere ammessi i laureati in giurisprudenza ed in scienze politiche.
+
+Art. 326. - Il corso degli studi ha la durata di due anni, al termine del quale viene rilasciato un diploma di perfezionamento in diritto ecclesiastico e in diritto canonico.
+
+Art. 327. - La direzione del corso e' affidata al titolare designato dai professori ufficiali delle materie corrispondenti alle cattedre dell'istituto di diritto ecclesiastico e diritto canonico.
+
+Art. 328. - Nel corso vengono impartiti i seguenti insegnamenti a carattere prevalentemente monografico:
+
+a) Fonti del diritto ecclesiastico (prospetto storico e assetto vigente);
+
+b) Organi dell'amministrazione ecclesiastica;
+
+c) Problematica degli enti ecclesiastici;
+
+d) Amministrazione del patrimonio ecclesiastico;
+
+e) Casi controversi del matrimonio religioso;
+
+f) Storia del diritto canonico (fonti ed istituti);
+
+g) Esegesi ed interpretazione delle fonti;
+
+h) Diritto costituzionale della Chiesa;
+
+i) La Chiesa e le comunita' politiche (storia e dottrine canonistiche sui rapporti tra Chiesa e Stato);
+
+l) L'ordinamento patrimoniale della Chiesa;
+
+m) Diritto processuale canonico;
+
+n) Diritto penale e canonico.
+
+Art. 329. - Il richiedente l'ammissione al corso dovra' proporsi un proprio piano biennale di studi redatto conformemente alle proprie finalita' e nei limiti degli insegnamenti sopraindicati, il quale sia stato approvato dal collegio dei professori ufficiali delle materie corrispondenti alle cattedre dell'istituto.
+
+Art. 330. - La frequenza biennale del corso di perfezionamento, il superamento di un colloquio finale di cultura generale e la discussione di una tesi scritta su argomento assegnato dai docenti daranno diritto al rilascio di un diploma di perfezionamento.
+
+La tesi deve mirare a risolvere o a contribuire a risolvere, con contributi personali, una questione di rilevante interesse relativo ad uno dei campi di insegnamento.
+
+Art. 331. - Gli iscritti al corso sono tenuti a pagare le tasse, soprattasse e contributi, secondo quanto stabilito per gli studenti della facolta' di giurisprudenza, nonche' le tasse di diploma.
+
+Art. 347, relativo alla scuola di perfezionamento in storia dell'arte medioevale e moderna, e' cosi' modificato:
+
+E' titolo necessario per l'ammissione alla scuola di perfezionamento la laurea in lettere o in lingue e letterature straniere moderne (indirizzo europeo)".
+
+Art. 348. - Nell'elenco della scuola di perfezionamento in storia dell'arte medioevale e moderna l'insegnamento di "Estetica e critica d'arte" muta denominazione in quella di "Storia della critica d'arte".
+
+Dopo l'art. 514 e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di perfezionamento in restauro dei monumenti annessa alla facolta' di architettura.
+
+Scuola di perfezionamento in restauro dei monumenti
+
+Art. 515. - E' istituita, presso la facolta' di architettura, la scuola di perfezionamento in restauro dei monumenti, con lo scopo di incrementare la preparazione storico-artistica e tecnica dei professionisti, impegnati nell'attivita' di restauro e di tutela dei monumenti e nella pianificazione urbanistica dei centri antichi.
+
+In particolare, la scuola si propone anche di preparare gli architetti alle funzioni tecniche e scientifiche che vengono svolte presso la soprintendenza ai monumenti.
+
+Art. 516. - La scuola svolge un corso di insegnamento della durata di due anni e rilascia un diploma di perfezionamento in restauro dei monumenti.
+
+Art. 517. - Sono ammessi alla scuola i laureati in architettura ed ingegneria civile (sezione edile). Il numero massimo degli iscritti e' di 50 per ogni anno di corso.
+
+Delle accettazioni delle domande giudica anno per anno il consiglio direttivo della scuola su proposta del direttore.
+
+Art. 513. - Gli insegnamenti della scuola sono i seguenti:
+
+a) Fondamentali:
+
+Teoria e storia del restauro dei monumenti;
+
+Urbanistica dei centri antichi;
+
+Consolidamento ed adattamento degli edifici;
+
+Restauro dei dipinti, affreschi e mosaici;
+
+Nozioni giuridiche ed amministrative.
+
+b) Complementari:
+
+Storia dell'architettura;
+
+Storia dell'arte;
+
+Cantieristica;
+
+Estimo e contabilita' dei lavori.
+
+Le lezioni relative agli insegnamenti suddetti saranno integrate da conferenze svolte da specialisti, dei vari settori.
+
+Il consiglio potra' anche istituire altri corsi non compresi nel suddetto elenco.
+
+Art. 519. - Ciascun insegnamento fondamentale comporta un unico esame alla fine del biennio; a tali esami sono ammessi gli allievi che abbiano frequentato almeno due terzi delle lezioni di ciascun corso. La frequenza viene attestata da ciascun docente.
+
+Le commissioni giudicatrici sono composte da tre insegnanti della scuola e sono presiedute ciascuna dal docente della materia in esame.
+
+Gli esami hanno luogo in due sessioni, estiva ed autunnale.
+
+L'iscritto che ha superato tutti gli esami degli insegnamenti fondamentali e di almeno due complementari e' ammesso all'esame di diploma.
+
+L'allievo che non abbia sostenuto le prove di esame nel termine prescritto, potra' ottenere l'iscrizione fuori corso soltanto per un anno.
+
+L'esame di diploma si sostiene dinanzi al consiglio direttivo riunito in commissione, che in nessun caso dovra' essere costituita da meno di cinque professori.
+
+Il candidato deve presentare una dissertazione scritta, accompagnata da eventuali altri elaborati, su di un tema scelto dall'allievo, d'accordo con il docente della materia, e deve discuterla davanti alla commissione, nell'ambito di un colloquio che dimostri la sua adeguata preparazione nella specializzazione.
+
+I candidati non riconosciuti idonei potranno presentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola. Nel caso che essi anche al secondo esame di diploma non siano riconosciuti idonei, saranno senz'altro esclusi da ogni ulteriore, prova.
+
+Art. 520. - La scuola e' retta da un consiglio direttivo, composto dai professori che insegnano nella scuola stessa, i quali eleggono tra loro il direttore che lo presiede per un triennio ed e' rieleggibile. Il consiglio stabilisce l'ordinamento e l'indirizzo degli studi nonche' il numero delle lezioni per ogni singolo insegnamento.
+
+Art. 521. - Gli incarichi di insegnamento sono conferiti su proposta del consiglio della facolta' di architettura, approvata dal senato accademico ed al consiglio di amministrazione dell'Universita' di Napoli. Gli insegnanti possono essere scelti tra i professori di ruolo e fuori ruolo, tra i liberi docenti e anche tra specialisti italiani o stranieri, di chiara e riconosciuta competenza.
+
+Art. 522. - Gli iscritti alla scuola di perfezionamento sono tenuti a pagare le tasse, le soprattasse, la tassa di diploma, nonche' tutti gli altri contributi stabiliti per gli studenti iscritti alla facolta' di architettura dell'Universita' di Napoli.
+
+Essi sono tenuti, altresi', a pagare un contributo speciale nella misura che sara' determinata annualmente dal consiglio di amministrazione, su proposta del consiglio direttivo della scuola.
+
+La tassa di diploma e' fissata nella misura di L. 6000, ai sensi della [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551).
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 14 maggio 1969
+
+SARAGAT
+
+FERRARI AGGRADI
+
+Visto, il Guardasigilli: GAVA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 18 luglio 1969 Atti del Governo, registro n. 228, foglio n. 40. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regi decreti 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;1904); [4 maggio 1942, n. 557](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-05-04;557); [5 settembre 1942, n. 1120; e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-09-05;1120) [26 febbraio 1949, n. 612](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;612); [23 settembre 1949, n. 931](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;931); [30 ottobre 1949, n. 1059](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1059); [5 aprile 1950, n. 284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-04-05;284); [30 ottobre 1950, n. 1277](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1277); [31 ottobre 1950, n. 1311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1311); [18 aprile 1951, n. 934](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;934); [30 luglio 1951, n. 1304](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-07-30;1304); [27 ottobre 1951, n. 1680](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1680); [19 settembre 1952, n. 4551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-09-19;4551); [25 agosto 1953, n. 1117](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;1117); [26 aprile 1954, n. 738](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-04-26;738); [30 giugno 1954, n. 753](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-30;753); [31 luglio 1954, n. 865](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-07-31;865); [24 agosto 1954, n. 987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-08-24;987) e [14 settembre 1954, n. 1056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1056);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 41. - Agli insegnamenti complementari del corso di laurea in economia e commercio e' aggiunto quello di: "economia bancaria".  
+Lo statuto dell'Universita' degli studi di Napoli approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 22. - Nell'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di "Diritto processuale costituzionale".  
+Art. 90. - Nell'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti quelli di:  
+Topografia antica della Campania e della Magna Grecia;  
+Linguistica generale;  
+Storia della critica d'arte.  
+Art. 93. - Nell'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti quelli di:  
+Psicologia dell'eta' evolutiva;  
+Psicologia sociale.  
+Art. 98. - Nell'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne e' aggiunto quello di "Linguistica generale e storia della critica d'arte".  
+Art. 102. - Nell'elenco degli istituti annessi alla facolta' di lettere e filosofia e' aggiunto quello di "Istituto di psicologia".  
+Art. 204, relativo agli istituti annessi alla facolta' di Ingegneria e' modificato nel senso che gli istituti di chimica industriale e di impianti chimici mutano denominazione in quelli di:  
+Istituto di chimica industriale ed impianti chimici;  
+Istituto di chimica applicata.  
+Dopo l'art. 323 e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli relativi, alla istituzione del corso di perfezionamento in diritto ecclesiastico e canonico annesso alla facolta' di giurisprudenza.  
+  
+Corso di perfezionamento in diritto ecclesiastico e canonico  
+  
+Art. 324. - E' istituito presso la facolta' di giurisprudenza il corso di perfezionamento in diritto ecclesiastico e in diritto canonico.  
+Art. 325. - Al corso possono essere ammessi i laureati in giurisprudenza ed in scienze politiche.  
+Art. 326. - Il corso degli studi ha la durata di due anni, al termine del quale viene rilasciato un diploma di perfezionamento in diritto ecclesiastico e in diritto canonico.  
+Art. 327. - La direzione del corso e' affidata al titolare designato dai professori ufficiali delle materie corrispondenti alle cattedre dell'istituto di diritto ecclesiastico e diritto canonico.  
+Art. 328. - Nel corso vengono impartiti i seguenti insegnamenti a carattere prevalentemente monografico:  
+a) Fonti del diritto ecclesiastico (prospetto storico e assetto vigente);  
+b) Organi dell'amministrazione ecclesiastica;  
+c) Problematica degli enti ecclesiastici;  
+d) Amministrazione del patrimonio ecclesiastico;  
+e) Casi controversi del matrimonio religioso;  
+f) Storia del diritto canonico (fonti ed istituti);  
+g) Esegesi ed interpretazione delle fonti;  
+h) Diritto costituzionale della Chiesa;  
+i) La Chiesa e le comunita' politiche (storia e dottrine canonistiche sui rapporti tra Chiesa e Stato);  
+l) L'ordinamento patrimoniale della Chiesa;  
+m) Diritto processuale canonico;  
+n) Diritto penale e canonico.  
+Art. 329. - Il richiedente l'ammissione al corso dovra' proporsi un proprio piano biennale di studi redatto conformemente alle proprie finalita' e nei limiti degli insegnamenti sopraindicati, il quale sia stato approvato dal collegio dei professori ufficiali delle materie corrispondenti alle cattedre dell'istituto.  
+Art. 330. - La frequenza biennale del corso di perfezionamento, il superamento di un colloquio finale di cultura generale e la discussione di una tesi scritta su argomento assegnato dai docenti daranno diritto al rilascio di un diploma di perfezionamento.  
+La tesi deve mirare a risolvere o a contribuire a risolvere, con contributi personali, una questione di rilevante interesse relativo ad uno dei campi di insegnamento.  
+Art. 331. - Gli iscritti al corso sono tenuti a pagare le tasse, soprattasse e contributi, secondo quanto stabilito per gli studenti della facolta' di giurisprudenza, nonche' le tasse di diploma.  
+Art. 347, relativo alla scuola di perfezionamento in storia dell'arte medioevale e moderna, e' cosi' modificato:  
+E' titolo necessario per l'ammissione alla scuola di perfezionamento la laurea in lettere o in lingue e letterature straniere moderne (indirizzo europeo)".  
+Art. 348. - Nell'elenco della scuola di perfezionamento in storia dell'arte medioevale e moderna l'insegnamento di "Estetica e critica d'arte" muta denominazione in quella di "Storia della critica d'arte".  
+Dopo l'art. 514 e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di perfezionamento in restauro dei monumenti annessa alla facolta' di architettura.  
+  
+Scuola di perfezionamento in restauro dei monumenti  
+  
+Art. 515. - E' istituita, presso la facolta' di architettura, la scuola di perfezionamento in restauro dei monumenti, con lo scopo di incrementare la preparazione storico-artistica e tecnica dei professionisti, impegnati nell'attivita' di restauro e di tutela dei monumenti e nella pianificazione urbanistica dei centri antichi.  
+In particolare, la scuola si propone anche di preparare gli architetti alle funzioni tecniche e scientifiche che vengono svolte presso la soprintendenza ai monumenti.  
+Art. 516. - La scuola svolge un corso di insegnamento della durata di due anni e rilascia un diploma di perfezionamento in restauro dei monumenti.  
+Art. 517. - Sono ammessi alla scuola i laureati in architettura ed ingegneria civile (sezione edile). Il numero massimo degli iscritti e' di 50 per ogni anno di corso.  
+Delle accettazioni delle domande giudica anno per anno il consiglio direttivo della scuola su proposta del direttore.  
+Art. 513. - Gli insegnamenti della scuola sono i seguenti:  
+a) Fondamentali:  
+Teoria e storia del restauro dei monumenti;  
+Urbanistica dei centri antichi;  
+Consolidamento ed adattamento degli edifici;  
+Restauro dei dipinti, affreschi e mosaici;  
+Nozioni giuridiche ed amministrative.  
+b) Complementari:  
+Storia dell'architettura;  
+Storia dell'arte;  
+Cantieristica;  
+Estimo e contabilita' dei lavori.  
+Le lezioni relative agli insegnamenti suddetti saranno integrate da conferenze svolte da specialisti, dei vari settori.  
+Il consiglio potra' anche istituire altri corsi non compresi nel suddetto elenco.  
+Art. 519. - Ciascun insegnamento fondamentale comporta un unico esame alla fine del biennio; a tali esami sono ammessi gli allievi che abbiano frequentato almeno due terzi delle lezioni di ciascun corso. La frequenza viene attestata da ciascun docente.  
+Le commissioni giudicatrici sono composte da tre insegnanti della scuola e sono presiedute ciascuna dal docente della materia in esame.  
+Gli esami hanno luogo in due sessioni, estiva ed autunnale.  
+L'iscritto che ha superato tutti gli esami degli insegnamenti fondamentali e di almeno due complementari e' ammesso all'esame di diploma.  
+L'allievo che non abbia sostenuto le prove di esame nel termine prescritto, potra' ottenere l'iscrizione fuori corso soltanto per un anno.  
+L'esame di diploma si sostiene dinanzi al consiglio direttivo riunito in commissione, che in nessun caso dovra' essere costituita da meno di cinque professori.  
+Il candidato deve presentare una dissertazione scritta, accompagnata da eventuali altri elaborati, su di un tema scelto dall'allievo, d'accordo con il docente della materia, e deve discuterla davanti alla commissione, nell'ambito di un colloquio che dimostri la sua adeguata preparazione nella specializzazione.  
+I candidati non riconosciuti idonei potranno presentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola. Nel caso che essi anche al secondo esame di diploma non siano riconosciuti idonei, saranno senz'altro esclusi da ogni ulteriore, prova.  
+Art. 520. - La scuola e' retta da un consiglio direttivo, composto dai professori che insegnano nella scuola stessa, i quali eleggono tra loro il direttore che lo presiede per un triennio ed e' rieleggibile. Il consiglio stabilisce l'ordinamento e l'indirizzo degli studi nonche' il numero delle lezioni per ogni singolo insegnamento.  
+Art. 521. - Gli incarichi di insegnamento sono conferiti su proposta del consiglio della facolta' di architettura, approvata dal senato accademico ed al consiglio di amministrazione dell'Universita' di Napoli. Gli insegnanti possono essere scelti tra i professori di ruolo e fuori ruolo, tra i liberi docenti e anche tra specialisti italiani o stranieri, di chiara e riconosciuta competenza.  
+Art. 522. - Gli iscritti alla scuola di perfezionamento sono tenuti a pagare le tasse, le soprattasse, la tassa di diploma, nonche' tutti gli altri contributi stabiliti per gli studenti iscritti alla facolta' di architettura dell'Universita' di Napoli.  
+Essi sono tenuti, altresi', a pagare un contributo speciale nella misura che sara' determinata annualmente dal consiglio di amministrazione, su proposta del consiglio direttivo della scuola.  
+La tassa di diploma e' fissata nella misura di L. 6000, ai sensi della [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551).  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 febbraio 1955
+### Dato a Roma, addi' 14 maggio 1969
 
-EINAUDI ERMINI
+SARAGAT FERRARI AGGRADI
 
-Visto, al Guardasigilli: DE PIETRO
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 14 marzo 1955
+Registrato alla Corte dei conti, addi' 18 luglio 1969
 
-Atti del Governo, registro n. 89, foglio n. 99. - CARLOMAGNO
+Atti del Governo, registro n. 228, foglio n. 40. - CARUSO

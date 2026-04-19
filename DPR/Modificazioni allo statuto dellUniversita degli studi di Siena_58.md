@@ -1,322 +1,85 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 813
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1979 n. 538
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 813
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1979 n. 538
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831), e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Dopo l'art. 167 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chirurgia:
-
-Scuola di specializzazione in chirurgia
-
-Art. 168. - Presso gli istituti di clinica chirurgica generale, di patologia speciale chirurgica e di semeiotica chirurgica e' istituita la scuola di specializzazione in chirurgia.
-
-Il direttore della scuola sara' nominato dal consiglio di facolta' fra i direttori degli istituti di clinica chirurgica, patologia chirurgica e di semeiotica chirurgica.
-
-La scuola di specializzazione in chirurgia conferisce il diploma di specialista in chirurgia.
-
-Alla scuola possono iscriversi soltanto i laureati in medicina e chirurgia.
-
-Art. 169. - Gli anni necessari per il conseguimento del diploma sono cinque.
-
-Il numero complessivo degli iscritti e' di 30 per tutti i cinque anni di corso.
-
-La selezione dei candidati aspiranti all'ammissione alla scuola avverra' sulla base di titoli ed esami.
-
-Non sono consentite iscrizioni con abbreviazione di corso.
-
-Art. 170. - Le materie del corso sono le seguenti:
-
-1) Anatomia chirurgica e corso di operazioni (triennale);
-
-2) Anatomia e istologia patologica (biennale);
-
-3) Anestesia e rianimazione;
-
-4) Chirurgia cardiovascolare;
-
-5) Chirurgia d'urgenza;
-
-6) Chirurgia ginecologica;
-
-7) Chirurgia pediatrica;
-
-8) Chirurgia riparativa e plastica;
-
-9) Chirurgia sperimentale;
-
-10) Chirurgia toracica;
-
-11) Chirurgia urologica;
-
-12) Clinica chirurgica generale (quinquennale);
-
-13) Fisiopatologia chirurgica;
-
-14) Medicina legale;
-
-15) Neurochirurgia;
-
-16) Patologia speciale chirurgica (triennale);
-
-17) Radiologia;
-
-18) Ricerche di laboratorio;
-
-19) Semeiotica chirurgica (biennale);
-
-20) Semeiotica strumentale ed endoscopia;
-
-21) Trattamento pre e post-operatorio;
-
-22) Traumatologia ed ortopedia.
-
-Le materie sopraelencate sono cosi' distribuite:
-
-1° Anno:
-
-Clinica chirurgica generale 1°;
-
-Patologia speciale chirurgica 1°;
-
-Semeiotica chirurgica 1°;
-
-Anatomia chirurgica e corso di operazioni 1°;
-
-Chirurgia sperimentale;
-
-Anestesia e rianimazione;
-
-Ricerche di laboratorio.
-
-2° Anno:
-
-Clinica chirurgica generale 2°;
-
-Patologia speciale chirurgica 2°;
-
-Semeiotica chirurgica 2°;
-
-Anatomia chirurgica e corso di operazioni 2°;
-
-Fisiopatologia chirurgica;
-
-Trattamento pre e post-operatorio;
-
-Anatomia e istologia patologica 1°.
-
-3° Anno:
-
-Clinica chirurgica generale 3°;
-
-Patologia speciale chirurgica 3°;
-
-Semeiotica strumentale ed endoscopia;
-
-Anatomia chirurgica e corso di operazioni 3°;
-
-Radiologia;
-
-Anatomia e istologia patologica 2°.
-
-4° Anno:
-
-Clinica chirurgica generale 4°;
-
-Chirurgia ginecologica;
-
-Chirurgia urologica;
-
-Neurochirurgia;
-
-Traumatologia e ortopedia;
-
-Chirurgia pediatrica.
-
-5° Anno:
-
-Clinica chirurgica generale 5°;
-
-Chirurgia toracica;
-
-Chirurgia cardiovascolare;
-
-Chirurgia riparativa e plastica;
-
-Chirurgia d'urgenza;
-
-Medicina legale.
-
-I corsi dovranno essere corredati da esercitazioni pratiche.
-
-Art. 171. - La frequenza alle lezioni ed alle esercitazioni e' obbligatoria per tutti gli iscritti.
-
-L'internato e' obbligatorio durante tutti i cinque anni del corso e si svolgera' presso istituti di chirurgia della facolta' con modalita' e per periodi che saranno fissati all'inizio di ogni anno accademico dal consiglio della, scuola.
-
-Art. 172. - Gli allievi hanno doveri ed attribuzioni analoghi a quelli degli assistenti. Gli specializzandi che abbiano, compiuto il primo triennio e superato i relativi esami, potranno essere chiamati a prestare servizio presso il reparto operatorio.
-
-Art. 173. - Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico dell'operosita' scolastica degli allievi con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno.
-
-L'allievo che non abbia ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali.
-
-Alla fine dei corsi l'allievo, inoltre, dovra' sostenere un esame generale di profitto.
-
-L'esame di diploma consistera' nella discussione di una tesi scritta su argomenti di chirurgia generale.
-
-Agli iscritti alla scuola che avranno superato gli esami prescritti sara' rilasciato un diploma di specialista in chirurgia valido a tutti gli effetti di legge.
-
-Art. 174. - Tassa di immatricolazione (1° anno di corso) L. 12.000; tassa di iscrizione (ogni anno di corso) L. 100.000; sopratassa esami (ogni anno) L. 16.000; contributi di laboratorio (ogni anno di corso) L. 14.000; tassa di diploma (ultimo anno di corso) L. 20.000.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 31 ottobre 1974
-
-LEONE
-
-MALFATTI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 27 gennaio 1975 Atti di Governo, registro n. 8, foglio n. 76
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831), e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Siena e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Dopo l'art. 167 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chirurgia:  
+Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Scuola di specializzazione in chirurgia  
-Art. 168. - Presso gli istituti di clinica chirurgica generale, di patologia speciale chirurgica e di semeiotica chirurgica e' istituita la scuola di specializzazione in chirurgia.  
-Il direttore della scuola sara' nominato dal consiglio di facolta' fra i direttori degli istituti di clinica chirurgica, patologia chirurgica e di semeiotica chirurgica.  
-La scuola di specializzazione in chirurgia conferisce il diploma di specialista in chirurgia.  
-Alla scuola possono iscriversi soltanto i laureati in medicina e chirurgia.  
-Art. 169. - Gli anni necessari per il conseguimento del diploma sono cinque.  
-Il numero complessivo degli iscritti e' di 30 per tutti i cinque anni di corso.  
-La selezione dei candidati aspiranti all'ammissione alla scuola avverra' sulla base di titoli ed esami.  
-Non sono consentite iscrizioni con abbreviazione di corso.  
-Art. 170. - Le materie del corso sono le seguenti:  
-1) Anatomia chirurgica e corso di operazioni (triennale);  
-2) Anatomia e istologia patologica (biennale);  
-3) Anestesia e rianimazione;  
-4) Chirurgia cardiovascolare;  
-5) Chirurgia d'urgenza;  
-6) Chirurgia ginecologica;  
-7) Chirurgia pediatrica;  
-8) Chirurgia riparativa e plastica;  
-9) Chirurgia sperimentale;  
-10) Chirurgia toracica;  
-11) Chirurgia urologica;  
-12) Clinica chirurgica generale (quinquennale);  
-13) Fisiopatologia chirurgica;  
-14) Medicina legale;  
-15) Neurochirurgia;  
-16) Patologia speciale chirurgica (triennale);  
-17) Radiologia;  
-18) Ricerche di laboratorio;  
-19) Semeiotica chirurgica (biennale);  
-20) Semeiotica strumentale ed endoscopia;  
-21) Trattamento pre e post-operatorio;  
-22) Traumatologia ed ortopedia.  
-Le materie sopraelencate sono cosi' distribuite:  
-1° Anno:  
-Clinica chirurgica generale 1°;  
-Patologia speciale chirurgica 1°;  
-Semeiotica chirurgica 1°;  
-Anatomia chirurgica e corso di operazioni 1°;  
-Chirurgia sperimentale;  
-Anestesia e rianimazione;  
-Ricerche di laboratorio.  
-2° Anno:  
-Clinica chirurgica generale 2°;  
-Patologia speciale chirurgica 2°;  
-Semeiotica chirurgica 2°;  
-Anatomia chirurgica e corso di operazioni 2°;  
-Fisiopatologia chirurgica;  
-Trattamento pre e post-operatorio;  
-Anatomia e istologia patologica 1°.  
-3° Anno:  
-Clinica chirurgica generale 3°;  
-Patologia speciale chirurgica 3°;  
-Semeiotica strumentale ed endoscopia;  
-Anatomia chirurgica e corso di operazioni 3°;  
-Radiologia;  
-Anatomia e istologia patologica 2°.  
-4° Anno:  
-Clinica chirurgica generale 4°;  
-Chirurgia ginecologica;  
-Chirurgia urologica;  
-Neurochirurgia;  
-Traumatologia e ortopedia;  
-Chirurgia pediatrica.  
-5° Anno:  
-Clinica chirurgica generale 5°;  
-Chirurgia toracica;  
-Chirurgia cardiovascolare;  
-Chirurgia riparativa e plastica;  
-Chirurgia d'urgenza;  
-Medicina legale.  
-I corsi dovranno essere corredati da esercitazioni pratiche.  
-Art. 171. - La frequenza alle lezioni ed alle esercitazioni e' obbligatoria per tutti gli iscritti.  
-L'internato e' obbligatorio durante tutti i cinque anni del corso e si svolgera' presso istituti di chirurgia della facolta' con modalita' e per periodi che saranno fissati all'inizio di ogni anno accademico dal consiglio della, scuola.  
-Art. 172. - Gli allievi hanno doveri ed attribuzioni analoghi a quelli degli assistenti. Gli specializzandi che abbiano, compiuto il primo triennio e superato i relativi esami, potranno essere chiamati a prestare servizio presso il reparto operatorio.  
-Art. 173. - Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico dell'operosita' scolastica degli allievi con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno.  
-L'allievo che non abbia ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali.  
-Alla fine dei corsi l'allievo, inoltre, dovra' sostenere un esame generale di profitto.  
-L'esame di diploma consistera' nella discussione di una tesi scritta su argomenti di chirurgia generale.  
-Agli iscritti alla scuola che avranno superato gli esami prescritti sara' rilasciato un diploma di specialista in chirurgia valido a tutti gli effetti di legge.  
-Art. 174. - Tassa di immatricolazione (1° anno di corso) L. 12.000; tassa di iscrizione (ogni anno di corso) L. 100.000; sopratassa esami (ogni anno) L. 16.000; contributi di laboratorio (ogni anno di corso) L. 14.000; tassa di diploma (ultimo anno di corso) L. 20.000.  
+Dopo l'art. 227 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in logica matematica presso la facolta' di scienze matematiche, fisiche e naturali.   
+  
+SCUOLE DI SPECIALIZZAZIONE ANNESSE ALLA FACOLTA'   
+DI SCIENZE MATEMATICHE, FISICHE E NATURALI   
+  
+Scuola di specializzazione in logica matematica   
+Art. 228. - E' istituita presso l'Universita' di Siena una scuola di specializzazione in logica matematica. La scuola fa capo alla facolta' di scienze matematiche, fisiche e naturali.   
+Art. 229. - La durata della scuola e' di due anni: titolo di ammissione e' la laurea in matematica. Potranno essere ammessi anche studenti con altro tipo di laurea, con la modalita' prevista nell'articolo seguente.   
+Art. 230. - Per gli studenti che non sono in possesso della laurea in matematica, una commissione nominata dalla facolta' prescrivera', previo colloquio con l'interessato, una opportuna integrazione del piano di studi.   
+Art. 231. - Al primo anno sono insegnamenti obbligatori:   
+logica I;   
+ricorsivita' I;   
+teoria degli insiemi I.   
+Al secondo anno sono insegnamenti obbligatori:   
+logica II,   
+(e, inoltre, almeno due insegnamenti scelti dallo studente fra i seguenti):   
+complementi di logica;   
+logica applicata;   
+ricorsivita' II;   
+complementi di matematica;   
+algebra della logica;   
+storia della logica;   
+teoria degli insiemi II;   
+teoria dei modelli;   
+teoria della dimostrazione.   
+Art. 232. - Il corso si conclude con un esame finale che consiste nella discussione di una tesi scritta. La tesi deve avere carattere originale. Agli studenti che abbiano superato tale prova la scuola rilascia un diploma di specializzazione in logica matematica.   
+Art. 233. - La facolta' potra' stabilire anno per anno che altri insegnamenti impartiti nell'Universita' di Siena possano sostituire a tutti gli effetti alcuni fra gli insegnamenti elencati nell'art. 231.   
+Art. 234. - Ogni insegnamento comporta un esame da svolgersi con le modalita' previste per gli esami universitari in genere.   
+Art. 235. - I docenti della scuola sono nominati dalla facolta' e possono essere: a) cultori della materia retribuiti a carico dello Stato o della Universita', cui verra' attribuito l'incarico con le modalita' previste dalla legge per i professori incaricati; b) professori visitatori a carico del Consiglio nazionale delle ricerche.   
+Art. 236. - Nel prendere decisioni circa la scuola, la facolta' si avvale dell'opera di un consiglio della scuola costituito:   
+a) da tre esperti nominati dalla facolta' per un biennio;   
+b) dai docenti nella situazione a) di cui all'art. 235;   
+c) da due rappresentanti degli studenti.   
+Il consiglio nomina un direttore che entra a farne parte e dura in carica due anni. Il direttore esegue o fa eseguire, in stretto collegamento con il consiglio, le decisioni della facolta' e del consiglio stesso.   
+Art. 237. - L'ammontare delle tasse di frequenza alla scuola e' cosi' fissato:   
+  
+  
+tassa di immatricolazione (primo anno di corso) . . . . .L. 12.000 tassa di iscrizione (ogni anno di corso) . . . . . . . . L. 200.000 soprattassa esami (ogni anno di corso). . . . . . . . . .L. 16.000 contributi di biblioteca (ogni anno di corso) . . . . . .L. 14.000 tassa di diploma (ultimo anno di corso) . . . . . . . . .L. 20.000 tassa di trasferimento per altre sedi . . . . . . . . . .L. 10.000 tassa di registrazione congedi provenienti da altre sedi L. 2.000  
+rilascio diploma originale (oltre alla tassa erariale) per valore dello speciale stampato e delle spese inerenti alla compilazione da parte del calligrafo . . . . . . . . . . . . . . . . . . . L. 6.000  
+  
+  
+  
+Art. 238. - Per quanto riguarda i locali, i servizi di biblioteca, le aule, la scuola fa capo all'istituto di matematica della facolta' di scienze matematiche, fisiche e naturali ed al corso di laurea in matematica.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1974
+### Dato a Roma, addi' 4 giugno 1979
 
-LEONE MALFATTI
+PERTINI SPADOLINI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 27 gennaio 1975
+Registrato alla Corte dei conti, addi' 23 ottobre 1979
 
-Atti di Governo, registro n. 8, foglio n. 76
+Registro n. 77 Istruzione, foglio n. 44

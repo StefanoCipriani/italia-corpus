@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1966 n. 208
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 aprile 1966 n. 441
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1966 n. 208
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 aprile 1966 n. 441
+=============================================================
 
 Autorizzazione all'Automobile Club di Livorno ad acquistare un immobile.
 ------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-208. Decreto del Presidente della Repubblica 25 febbraio 1966, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile Club di Livorno viene autorizzato ad acquistare in proprieta' dai signori Salvatore Scimonelli e Umberto Paolucci, per il prezzo di L. 5.000.000, l'appezzamento di terreno, esteso mq. 2070, sito in Livorno lungo il viale Ippolito Nievo, per la costruzione di una grande stazione di rifornimento carburanti.  
+441. Decreto del Presidente della Repubblica 23 aprile 1966, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile Club di Livorno viene autorizzato ad acquistare in proprieta', dalla signora Andreina Andreozzi, per il prezzo di L. 1.000.000, la piccola zona di terreno, sita in Livorno, alla via Michon, estesa mq. 84, per la costruzione di una stazione di servizio.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 13 aprile 1966  
-Atti del Governo, registro n. 202, foglio n. 131. - VILLA
+Registrato alla Corte dei conti, addi' 15 giugno 1966  
+Atti del Governo, registro n. 203, foglio n. 136. - VILLA

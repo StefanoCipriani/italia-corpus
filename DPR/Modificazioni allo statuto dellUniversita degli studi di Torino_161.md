@@ -1,82 +1,120 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1979 n. 977
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1950 n. 1125
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1979 n. 977
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1950 n. 1125
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con il [regio decreto 20 aprile 1939, numero 1118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1118), e modificato con i [regi decreti 12 gennaio 1941, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-12;34); [27 aprile 1942, n. 571](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-04-27;571); [5 settembre 1942, n. 1237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-09-05;1237) e [24 ottobre 1942, n. 1438](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-10-24;1438); e con i [decreti del Capo provvisorio dello Stato del 4 febbraio 1947, numero 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-02-04;196) e [7 marzo 1947, n. 1727, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-03-07;1727) [21 febbraio 1949, n. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-21;43) e [21 aprile 1949, n. 613](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-21;613);
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto 30 settembre 1933, n. 1052](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-09-30;1052), e successive modificazioni;
+
+Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' di Torino, approvato e modificato con i decreti sopra indicati e' cosi' ulteriormente modificato:
+
+All'attuale art. 66 e' aggiunto quanto appresso:
+
+19) Urologia.
+
+Dopo l'attuale art. 115 sono aggiunti i seguenti nuovi articoli, relativi all'istituzione della Scuola di specializzazione in urologia, con lo spostamento della numerazione degli articoli successivi.
+
+Art. 116. - La durata, del corso degli studi della Scuola di specializzazione in urologia e' di tre anni.
+
+Art. 117. - Gli insegnamenti impartiti nella Scuola sono i seguenti:
+
+1) embriologia, anatomia dell'apparato genito-urinario.
+
+Fisiologia dell'apparato genito-urinario;
+
+2) patologia e clinica medica dell'apparato urinario (urologia medica);
+
+3) patologia e clinica chirurgica dell'apparato urinario (urologia chirurgica);
+
+4) semeiotica endoscopia e radiologia urologica;
+
+5) Interventi endoscopici;
+
+6) tecnica operatoria degli interventi urologici.
+
+Art. 118. - L'insegnamento teorico sara' integrato da esercitazioni pratiche per Cui si richiede un internato di due anni nella divisione urologica della clinica chirurgica.
+
+Art. 119. - L'esame di diploma consiste nella presentazione e discussione di una dissertazione scritta su argomento della specialita'.
+
+Art. 120. - La spesa relativa al funzionamento della predetta Scuola e' a carico del bilancio ordinario dell'Universita' di Torino.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 30 ottobre 1950
+
+EINAUDI
+
+GONELLA
+
+Visto, il Guardasigilli: SEGNI
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 27 gennaio 1951 Atti del Governo, registro n. 37, foglio n. 39. - CARLOMAGNO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Torino e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con il [regio decreto 20 aprile 1939, numero 1118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1118), e modificato con i [regi decreti 12 gennaio 1941, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-12;34); [27 aprile 1942, n. 571](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-04-27;571); [5 settembre 1942, n. 1237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-09-05;1237) e [24 ottobre 1942, n. 1438](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-10-24;1438); e con i [decreti del Capo provvisorio dello Stato del 4 febbraio 1947, numero 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-02-04;196) e [7 marzo 1947, n. 1727, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-03-07;1727) [21 febbraio 1949, n. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-21;43) e [21 aprile 1949, n. 613](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-21;613);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto 30 settembre 1933, n. 1052](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-09-30;1052), e successive modificazioni;  
+Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:  
-  
-Gli articoli da 378 a 385, relativi al corso di specializzazione in viticoltura ed enologia, che cambia denominazione in scuola di specializzazione in viticoltura ed enologia, sono soppressi e sostituiti dai seguenti.  
-  
-Scuola di specializzazione in viticoltura ed enologia  
-  
-Art. 378. - Alla facolta' di agraria dell'Universita' di Torino e' annessa una scuola di specializzazione in viticoltura ed enologia, avente lo scopo di dare ai laureati, mediante corsi teorici ed applicati, una specifica preparazione nella suddetta specialita', conferendo un diploma di specialista in viticoltura ed enologia.  
-Art. 379. - La durata della scuola e' biennale.  
-Art. 380. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
-1° Anno:  
-1) viticoltura generale;  
-2) esercitazioni di viticoltura generale;  
-3) chimica enologica;  
-4) esercitazioni di chimica enologica;  
-5) microbiologia enologica;  
-6) esercitazioni di microbiologia enologica;  
-7) costruzioni enologiche;  
-8) meccanica delle macchine enologiche;  
-9) legislazione viticolo-enologica;  
-10) economia del mercato viti-vinicolo.  
-2° Anno:  
-1) tecnica vinicola;  
-2) esercitazioni di tecnica vinicola;  
-3) tecnologia enologica;  
-4) esercitazioni di tecnologia enologica;  
-5) meccanizzazione della viticoltura;  
-6) patologia viticola;  
-7) zoologia viticola;  
-8) organizzazione aziendale.  
-Potranno inoltre essere tenuti brevi cicli di lezioni e conferenze su particolari argomenti interessanti le varie discipline della scuola.  
-Art. 381. - Sono ammessi alla scuola di specializzazione i laureati in scienze agrarie, in chimica, in chimica industriale, in ingegneria chimica e in scienza delle preparazioni alimentari. Il consiglio della scuola potra' stabilire, di volta in volta, di accettare l'iscrizione di candidati dotati di altra laurea, che dimostrino una particolare competenza e preparazione nel settore vitivinicolo.  
-Il numero degli allievi ammessi annualmente alla scuola e', al massimo, di dieci.  
-Qualora il numero delle domande sia superiore, e l'attrezzatura didattica ne consenta in via eccezionale l'ammissione, sara' data preferenza agli aspiranti che abbiano particolari titoli nei riguardi delle finalita' della scuola. Per l'ammissione di laureati stranieri il consiglio della scuola decidera' caso per caso la validita' dei titoli presentati.  
-Il consiglio di facolta' si riserva di sospendere corsi della scuola, qualora ne ravveda l'opportunita'.  
-Art. 382. - Al termine dei corsi sara' rilasciato agli iscritti un diploma di specialista in viticoltura ed enologia in base:  
-a) alla regolare frequenza dei corsi del biennio;  
-b) all'esito degli esami sostenuti alla fine dei corsi;  
-c) al giudizio emesso dai direttori degli istituti enti o aziende eventualmente frequentate;  
-d) all'esito dell'esame finale, che consiste nella presentazione di una dissertazione scritta di carattere sperimentale, da sostenersi davanti ad apposita commissione di docenti della scuola.  
-Art. 383. - I docenti saranno nominati dal consiglio della facolta' di agraria dell'Universita' di Torino, sulla base dei titoli presentati dagli aspiranti.  
-Il consiglio di facolta' provvedera' inoltre a nominare il direttore della scuola fra i professori di ruolo o fuori ruolo della stessa facolta' o fra i docenti della scuola  
-Art. 384. - Il consiglio direttivo della scuola si compone di tutti i docenti degli insegnamenti (esercitazioni comprese) della scuola stessa. Esso avanza le proposte relative all'ordinamento degli studi e all'insegnamento e da' pareri su tutti i provvedimenti riguardanti la scuola medesima.  
-Art. 385. - Gli iscritti alla scuola saranno tenuti a pagare la tassa d'iscrizione, le tasse e soprattasse d'esame, compresi i contributi integrativi, secondo quanto e' stabilito per gli studenti della facolta' di agraria.  
+Lo statuto dell'Universita' di Torino, approvato e modificato con i decreti sopra indicati e' cosi' ulteriormente modificato:  
+All'attuale art. 66 e' aggiunto quanto appresso:  
+19) Urologia.  
+Dopo l'attuale art. 115 sono aggiunti i seguenti nuovi articoli, relativi all'istituzione della Scuola di specializzazione in urologia, con lo spostamento della numerazione degli articoli successivi.  
+Art. 116. - La durata, del corso degli studi della Scuola di specializzazione in urologia e' di tre anni.  
+Art. 117. - Gli insegnamenti impartiti nella Scuola sono i seguenti:  
+1) embriologia, anatomia dell'apparato genito-urinario.  
+Fisiologia dell'apparato genito-urinario;  
+2) patologia e clinica medica dell'apparato urinario (urologia medica);  
+3) patologia e clinica chirurgica dell'apparato urinario (urologia chirurgica);  
+4) semeiotica endoscopia e radiologia urologica;  
+5) Interventi endoscopici;  
+6) tecnica operatoria degli interventi urologici.  
+Art. 118. - L'insegnamento teorico sara' integrato da esercitazioni pratiche per Cui si richiede un internato di due anni nella divisione urologica della clinica chirurgica.  
+Art. 119. - L'esame di diploma consiste nella presentazione e discussione di una dissertazione scritta su argomento della specialita'.  
+Art. 120. - La spesa relativa al funzionamento della predetta Scuola e' a carico del bilancio ordinario dell'Universita' di Torino.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 giugno 1979
+### Dato a Roma, addi' 30 ottobre 1950
 
-PERTINI SPADOLINI
+EINAUDI GONELLA
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: SEGNI
 
-Registrato alla Corte dei conti, addi' 18 settembre 1980
+Registrato alla Corte dei conti, addi' 27 gennaio 1951
 
-Registro n. 87 Istruzione, foglio n. 27
+Atti del Governo, registro n. 37, foglio n. 39. - CARLOMAGNO

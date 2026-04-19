@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1984 n. 816
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 aprile 1985 n. 345
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1984 n. 816
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 aprile 1985 n. 345
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-816. Decreto del Presidente della Repubblica 14 settembre 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata, ad accettare il legato, con l'obbligo di smobilizzo entro cinque anni dall'avvenuto consolidamento dell'usufrutto, consistente nella nuda proprieta' di un immobile sito nel comune di Settimo Torinese (Torino), via Mincio n. 3, meglio descritto nella perizia giurata del geom. Paolo Maddaloni, del valore di L. 12.000.000 elevato dall'ufficio tecnico erariale di Torino a L. 20.000.000, disposto dalla sig.ra Brusa Fortunata Margherita ved. Kunbrija con testamento olografo 15 marzo 1973, pubblicato a rogito dottore Emilio Turbil, notaio in Torino, in data 15 dicembre 1976, n. 45070 di repertorio, n. 13923 di raccolta, registrato a Torino il 3 gennaio 1977 al n. 44.  
+345. Decreto del Presidente della Repubblica 17 aprile 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella quota di 1/3 di beni mobili del valore complessivo di L. 8.809.740: quota di 1/3 = L. 2.936.580, disposto dalla sig.ra Bissacco Emilia ved. Maso a favore dei "Mutilatini di don Gnocchi", che si identificano con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale del consiglio di amministrazione della fondazione in data 16 ottobre 1984, con testamento pubblico 24 febbraio 1981 redatto a rogito dott. Luigi Tassitani, notaio in Castelfranco Veneto e dallo stesso pubblicato il 3 marzo 1983 con il n. 36383 di repertorio e n. 2698 di raccolta, registrato a Castelfranco Veneto in data 10 marzo 1983 al n. 271.  
   
 Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 24 novembre 1984  
-Registro n. 10 Presidenza, foglio n. 188
+Registrato alla Corte dei conti, addi' 4 luglio 1985  
+Registro n. 7 Presidenza, foglio n. 98

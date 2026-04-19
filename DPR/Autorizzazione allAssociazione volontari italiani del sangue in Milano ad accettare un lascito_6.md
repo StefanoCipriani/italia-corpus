@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 luglio 1979 n. 454
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 gennaio 1981 n. 54
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 luglio 1979 n. 454
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 gennaio 1981 n. 54
 =============================================================
 
 Autorizzazione all'Associazione volontari italiani del sangue, in Milano, ad accettare un lascito.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-454. Decreto del Presidente della Repubblica 3 luglio 1979, col quale, sulla proposta del Ministro della sanita', l'Associazione volontari italiani del sangue, in Milano, viene autorizzata ad accettare, in favore della sezione comunale di Savona, il lascito disposto dal sig. Gioacchino Traverso con testamento olografo 7 gennaio 1966, pubblicato per atto del notaio Franchi di Savona in data 12 giugno 1968, n. 65997 di repertorio, consistente in un appartamento sito in Savona, via Fiume n. 7, iscritto al nuovo catasto edilizio urbano alla partita 11458, foglio 55, con il n. 423/23 di mappa, vani 6,5, cui l'ufficio tecnico erariale di Savona ha attribuito il valore di L. 27.000.000.  
+54. Decreto del Presidente della Repubblica 3 gennaio 1981, col quale, sulla proposta del Ministro della sanita', l'Associazione volontari italiani del sangue, in Milano, viene autorizzata ad accettare il lascito consistente in L. 15.000.000, disposto in favore delle sezioni comunali di Rapallo, Novara e S. Margherita Ligure dalla signora Metilde Ansaldo ved. Parodi con testamento olografo 1 novembre 1972, pubblicato in data 5 dicembre 1975, n. 5486 di repertorio, a rogito dottor Alberto Piaggio, notaio in Moconesi (Genova).  
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 28 agosto 1979  
-Registro n. 6 Sanita', foglio n. 262
+Visto, il Guardasigilli: SARTI  
+Registrato alla Corte dei conti, addi' 26 febbraio 1981  
+Registro n. 2 Sanita', foglio n. 215

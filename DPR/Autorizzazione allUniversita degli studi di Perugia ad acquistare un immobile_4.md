@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 giugno 1970 n. 631
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1971 n. 1028
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 giugno 1970 n. 631
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1971 n. 1028
+==============================================================
 
 Autorizzazione all'Universita' degli studi di Perugia ad acquistare un immobile.
 --------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-631. Decreto del Presidente della Repubblica 10 giugno 1970, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Perugia viene autorizzata ad acquistare l'immobile sito in Perugia, via dell'Aquilone 8, di proprieta' della signora Antelma Peiro, al prezzo di L. 78.000.000.  
+1028. Decreto del Presidente della Repubblica 11 maggio 1971, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Perugia viene autorizzata ad acquistare un immobile sito in Perugia, corso Garibaldi, ai numeri civici 183, 185, 187 e 189 descritto al catasto del comune di Perugia al foglio n. 234, particelle 47/1, 48, 49/1; subalterni 2-3-4-5-6-7; part. 49 sub. 3 - 4; part. 47 sub. 8 - 9, al prezzo di L. 44.500.000.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 20 agosto 1970  
-Atti del Governo, registro n. 237, foglio n. 43. - CARUSO
+Visto, il Guardasigilli: COLOMBO  
+Registrato alla Corte dei conti, addi' 4 dicembre 1971  
+Atti del Governo, registro n. 245, foglio n. 114. - POLIFRONI

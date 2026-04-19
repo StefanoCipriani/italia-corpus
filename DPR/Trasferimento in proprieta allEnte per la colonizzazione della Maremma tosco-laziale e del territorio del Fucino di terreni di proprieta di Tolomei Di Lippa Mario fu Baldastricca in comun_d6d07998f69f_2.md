@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1952 n. 1204
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 novembre 1951 n. 1223
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1952 n. 1204
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 novembre 1951 n. 1223
+================================================================
 
 Trasferimento in proprieta' all'Ente per la colonizzazione della Maremma tosco-laziale e del territorio del Fucino di terreni di proprieta' di Tolomei Di Lippa Mario fu Baldastricca, in comune di Roccastrada (Grosseto).
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -12,70 +12,66 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 77, comma primo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77-com1), ed [87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5) della Repubblica;
 
-Viste le [leggi 12 maggio 1950, n. 230, 21 ottobre 1950, n. 841 e 18 maggio 1951, n. 333](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-05-18;333);
+Viste le [leggi 12 maggio 1950, n. 230 e 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841);
 
 In virtu' della delegazione concessa dagli [articoli 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5), ed 1 e 2 della [legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841);
 
-Visto il proprio decreto 7 febbraio 1951, n. 66;
+Visto il [decreto del Presidente della Repubblica 7 febbraio 1951, n. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-02-07;66);
 
-Visto il piano particolareggiato di espropriazione compilato dall'Ente per la colonizzazione della Maremma tosco-laziale e del territorio del Fucino, nei confronti di Tolomei Di Lippa Mario fu Baldastricca, per i terreni ricadenti nel comune di Roccastrada (provincia di Grosseto);
-
-Visti i precedenti decreti 29 novembre 1951, n. 1223, e 28 dicembre 1951, n. 1385;
-
-Udito il parere, in data 18 giugno 1952, espresso dalla Commissione parlamentare, nominata a norma degli [articoli 5 della legge 12 maggio 1950, n. 230 ed 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;1~art5) e 2 della [legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841);
+Udito il parere, in data 5 ottobre 1951, della Commissione parlamentare, nominata a norma degli [articoli 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5), ed 1 e 2 della [legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841), la quale ha esaminato i piani particolareggiati di espropriazione compilati dal l'Ente per la colonizzazione della Maremma tosco-laziale e del territorio del Fucino, per i terreni ricadenti nel comune di Roccastrada (provincia di Grosseto), della superficie di Ha. 319.89.58, nei confronti di Tolomei Di Lippa Mario Baldastricca;
 
 Sentito il Consiglio dei Ministri;
 
 Sulla
 -----
 
-proposta del Ministro Segretario di Stato per l'agricoltura e per le foreste; Decreta:
+proposta del Ministro Segretario di Stato per l'agricoltura e le foreste; Decreta:
 
 Art. 1
 ------
 
   
-E' approvato il piano particolareggiato di espropriazione compilato dall'Ente per la colonizzazione della Maremma tosco-laziale e del territorio del Fucino, nei confronti di Tolomei di Lippa Mario fu Baldastricca, relativo ai terreni ricadenti nel comune di Roccastrada (provincia di Grosseto), per una superficie di ettari 170.69.43, specificamente descritti nello elenco n. 1 allegato al presente decreto.  
+  
+Sono approvati i piani particolareggiati di espropriazione compilati dall'Ente per la colonizzazione della Maremma tosco-laziale e del territorio del Fucino, per i terreni ricadenti nel comune di Roccastrada (provincia di Grosseto), della superficie di Ha. 319.89.58, nei confronti di Tolomei Di Lippa Mario fu Baldastricca. 
 
 Art. 2
 ------
 
   
-I terreni indicati nel precedente articolo sono trasferiti in proprieta' all'Ente per la colonizzazione della Maremma tosco-laziale e del territorio del Fucino.  
+I terreni indicati nel precedente articolo e specificamente designati negli elenchi uniti al presente decreto, sono trasferiti in proprieta' all'Ente per la colonizzazione della Maremma tosco-laziale e del territorio del Fucino.  
 
 Art. 3
 ------
 
   
-E' ordinata l'immediata occupazione, da parte dell'Ente predetto, dei terreni indicati nei precedenti articoli 1 e 2.  
+E' ordinata la immediata occupazione, da parte dell'Ente, dei terreni indicati nei precedenti articoli 1 e 2.  
 
 Art. 4
 ------
 
   
-L'elenco dei terreni, con l'indicazione dell'indennita' di espropriazione offerta, munito del visto dei Ministro proponente, forma parte integrante del presente decreto, che entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.  
+Gli elenchi dei terreni, con l'indicazione dell'indennita' di espropriazione offerta, muniti del visto del Ministro proponente, formano parte integrante del presente decreto, che entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 luglio 1952
+### Dato a Roma, addi' 4 novembre 1951
 
 EINAUDI DE GASPERI - FANFANI
 
 Visto, il Guardasigilli: ZOLI
 
-Registrato alla Corte dei conti, addi' 18 agosto 1952
+Registrato alla Corte dei conti, addi' 26 novembre 1951
 
-Atti del Governo, registro n. 57, foglio n. 84. - CARLOMAGNO
+Atti del Governo, registro n. 46, foglio n. 8. - FRASCA
 
-Allegato n. 1
+Elenco
 
- ALLEGATO N. 1   
+ COMUNE DI ROCCASTRADA (Grosseto)   
   
-Elenco dei terreni intestati alla ditta Tolomei Di Lippa Mario fu Baldastricca, in comune di Roccastrada (provincia di Grosseto), trasferiti in proprieta' dell'Ente per la colonizzazione della Maremma toscolaziale e del territorio del Fucino, a norma delle [leggi 12 maggio 1950, n. 230, 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841) e [decreto Presidenziale 7 febbraio 1951, n. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-02-07;66).   
+Elenco dei terreni espropriati nei confronti di Tolomei Di Lippa Mario fu Baldastricca a norma delle [leggi 12 maggio 1950, n. 230, 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841) e D. P. 7 febbraio 1951, n. 66.   
   
   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=052U120400100010110001&dgu=1952-09-19&art.dataPubblicazioneGazzetta=1952-09-19&art.codiceRedazionale=052U1204)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=051U122300100010110001&dgu=1951-11-29&art.dataPubblicazioneGazzetta=1951-11-29&art.codiceRedazionale=051U1223)
   

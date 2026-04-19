@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 dicembre 1981 n. 1007
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1984 n. 816
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 dicembre 1981 n. 1007
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1984 n. 816
 ================================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1007. Decreto del Presidente della Repubblica 15 dicembre 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in buoni del Tesoro del valore nominale di L. 5.000.000, disposto dal signor Cairoli Franco con testamento olografo e codicillo del 5 aprile 1968, pubblicato a rogito dott. Enrico Bevilacqua, notaio in Milano, il 3 ottobre 1977, n. 15065/2.811 di repertorio, registrato a Milano il 12 ottobre 1977, al n. A/4-93799 71/ M serie F.  
+816. Decreto del Presidente della Repubblica 14 settembre 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata, ad accettare il legato, con l'obbligo di smobilizzo entro cinque anni dall'avvenuto consolidamento dell'usufrutto, consistente nella nuda proprieta' di un immobile sito nel comune di Settimo Torinese (Torino), via Mincio n. 3, meglio descritto nella perizia giurata del geom. Paolo Maddaloni, del valore di L. 12.000.000 elevato dall'ufficio tecnico erariale di Torino a L. 20.000.000, disposto dalla sig.ra Brusa Fortunata Margherita ved. Kunbrija con testamento olografo 15 marzo 1973, pubblicato a rogito dottore Emilio Turbil, notaio in Torino, in data 15 dicembre 1976, n. 45070 di repertorio, n. 13923 di raccolta, registrato a Torino il 3 gennaio 1977 al n. 44.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 24 febbraio 1982  
-Registro n. 2 Presidenza, foglio n. 176
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 24 novembre 1984  
+Registro n. 10 Presidenza, foglio n. 188

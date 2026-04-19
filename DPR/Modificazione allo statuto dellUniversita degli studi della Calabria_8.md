@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 920
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 260
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 920
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 260
+===============================================================
 
 Modificazione allo statuto dell'Universita' degli studi della Calabria.
 -----------------------------------------------------------------------
@@ -39,20 +39,21 @@ Articolo unico
 --------------
 
   
-Nell'art. 39, relativo all'elenco degli insegnamenti afferenti al dipartimento di storia, sono aggiunti i seguenti nuovi insegnamenti complementari:  
-ittitologia;  
-storia delle origini cristiane.  
+Nell'art. 58, relativo all'elenco degli insegnamenti del dipartimento di sociologia e di scienza politica e nella tabella G (allegata all'art. 35 dello statuto) e' aggiunto il seguente nuovo insegnamento:  
+sociologia del mutamento.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti, di osservarlo e di farlo osservare.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1983
+### Dato a Roma, addi' 10 febbraio 1986
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 30 gennaio 1984
+Registrato alla Corte dei conti, addi' 30 maggio 1986
 
-Registro n. 5 Istruzione, foglio n. 14
+Registro n. 44 Istruzione, foglio n. 293

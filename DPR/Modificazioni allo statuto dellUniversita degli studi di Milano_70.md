@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 gennaio 1982 n. 82
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1114
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 gennaio 1982 n. 82
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1114
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -12,88 +12,80 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduto l'[art. 16 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art16);
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano, e convalidati dal Consiglio universitario nazionale nel suo parere;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Considerata la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Sulla
------
+Sulla proposta del Ministro della pubblica istruzione;
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Lo statuto dell'Universita' di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Dopo l'art. 392 dello statuto sono aggiunti i seguenti articoli relativi all'istituzione di una scuola diretta a fini speciali per tecnici neurofisiopatologi presso la facolta' di medicina e chirurgia.  
   
-Dopo l'art. 327, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in sanita' pubblica veterinaria presso la facolta' di medicina veterinaria.  
+Scuola diretta a fini speciali per tecnici neurofisiopatologi  
   
-Scuola di specializzazione in sanita' pubblica veterinaria  
-  
-Art. 328. - La scuola si prefigge lo scopo specifico di sviluppare la nuova figura del veterinario in conformita' alla normativa riguardante il Servizio sanitario nazionale.  
-Art. 329. - Il corso ha la durata di due anni.  
-Art. 330. - La scuola rilascia un diploma di specializzazione in sanita' pubblica veterinaria.  
-Art. 331. - Alla scuola possono essere ammessi i laureati in medicina veterinaria.  
-Art. 332. - Le materie di insegnamento sono:  
+Art. 393. - La scuola ha lo scopo di preparare gli allievi all'esercizio della professione di tecnico neurofisiopatologo, mediante l'insegnamento teorico di discipline di base e professionali, integrato da esercitazioni e tirocini professionali.  
+Art. 394. - La durata del corso degli studi per il conseguimento del diploma e' di due anni accademici.  
+Le lezioni teoriche ed il tirocinio pratico saranno svolti in istituti universitari. Gli allievi hanno l'obbligo della frequenza alle lezioni, ai seminari ed ai tirocini pratici, secondo le modalita' stabilite dal consiglio della scuola.  
+Art. 395. - Sono ammessi alla scuola gli allievi di ambo i sessi in possesso del titolo di studio della scuola media superiore, che abbiano superato un colloquio attitudinale.  
+Art. 396. - Il numero massimo dei posti disponibili e' stabilito nella misura di trenta, quindici per ciascun anno di corso. I candidati non devono avere superato il trentesimo anno.  
 1° Anno:  
-istituzioni di diritto amministrativo;  
-istituzioni di diritto civile e processuale civile;  
-istituzioni di diritto penale e processuale penale;  
-organizzazione e metodo della P.A. con particolare riferimento all'organizzazione sanitaria;  
-norme e convenzioni di diritto internazionale in materia veterinaria;  
-principi di statistica ed epizootologia veterinaria;  
-elementi di scienza delle finanze e diritto finanziario;  
-principi di economia politica;  
-principi di contabilita' generale dello Stato.  
-Gli allievi che non hanno conoscenza della lingua inglese sono tenuti a frequentare un corso di tale lingua.  
+1) elementi di elettrotecnica;  
+2) elementi di tecnica elettronica e nozioni pratiche di riparazione delle apparecchiature biomediche (biennale);  
+3) nozioni generali di biochimica e biofisica;  
+4) nozioni generali di anatomia e fisiologia;  
+5) anatomia dell'apparato motore e del sistema nervoso;  
+6) nozioni pratiche e teoriche di fisiologia del sistema nervoso (biennale);  
+7) nozioni pratiche e teoriche di elettroencefalografia e neurofisiologia clinica (biennale).  
 2° Anno:  
-Servizio sanitario nazionale: organizzazione e legislazione veterinaria nazionale e regionale;  
-la difesa del consumatore di prodotti di origine animale: legislazione, organizzazione, attivita' preventiva e repressiva;  
-la difesa degli allevamenti zootecnici e della popolazione animale: legislazione ed organizzazione della attivita' preventiva e repressiva;  
-la difesa igienica degli equilibri ambientali: legislazione, organizzazione ed attivita' veterinarie;  
-la produzione industriale: trasporto, conservazione e distribuzione degli alimenti di origine animale. Valore e strutture; analisi delle produzioni zootecniche in Italia, nel Mercato comune e nel mondo;  
-la produzione di alimenti zootecnici e la produzione di farmaci: aspetti scientifici, tecnici, amministrativi e legislativi; la ricerca bio-veterinaria come funzione pubblica.  
-Art. 333. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.  
-Art. 334. - Il direttore, di concerto con i docenti delle singole materie, stabilisce la durata e il programma particolareggiato dei corsi. Gli insegnamenti saranno svolti sotto forma di lezioni, esercitazioni teorico-pratiche, conferenze e seminari.  
-Art. 335. - I professori ai quali devono essere affidate le lezioni, le conferenze, le esercitazioni teorico pratiche e i seminari saranno nominati anno per anno dal rettore su proposta del consiglio di facolta', sentito il direttore della scuola.  
-Art. 336. - I posti disponibili sono:  
-1° anno n. 40,  
-2° anno n. 40.  
-Gli aspiranti verranno scelti in base ai titoli, accordando preferenza, nell'ordine, alle seguenti categorie di titoli:  
-a) titoli scientifici e pratici in relazione alle materie del corso;  
-b) carriera scolastica;  
-c) conoscenza delle lingue straniere, ecc.  
-Art. 337. - Le norme relative al funzionamento amministrativo della scuola sono regolate dalle leggi e dai regolamenti relativi all'istruzione universitaria.  
-L'importo delle tasse e soprattasse e' quello stabilito per gli studenti in corso per la facolta' di medicina veterinaria a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).  
-La tassa di diploma e' fissata nella misura di L. 50.000.  
-L'ammontare dei contributi di laboratorio viene stabilito anno per anno dal consiglio di amministrazione, su proposta del senato accademico, sentita la facolta'.  
-Art. 338. - La frequenza ai corsi di lezioni, alle esercitazioni e seminari e' obbligatoria. Gli esami di profitto saranno tenuti alla fine di ogni anno.  
-Per essere ammessi all'esame di diploma il candidato dovra' dimostrare di aver frequentato i corsi e superato i relativi esami finali; l'esame di diploma consiste nella discussione di una dissertazione scritta su un tema avente carattere di originalita' precedentemente approvato dal direttore della scuola.  
-La commissione di esami di diploma, composta da sette membri, e' presieduta dal preside della facolta' o da un suo delegato e ne fanno parte il direttore della scuola o un suo delegato e cinque professori ufficiali da lui designati.  
+8) elementi di tecnica elettronica e nozioni pratiche di riparazione delle apparecchiature biomediche;  
+9) nozioni pratiche e teoriche di fisiologia del sistema nervoso;  
+10) nozioni di patologia e clinica dell'apparato motore;  
+11) nozioni pratiche e teoriche di elettromiografia, elettrodiagnostica ed elettroterapia;  
+12) nozioni di patologia del sistema nervoso;  
+13) nozioni pratiche e teoriche di elettroencefalografia e neurofisiologia clinica;  
+14) nozioni teoriche e pratiche di ecoencefalografia, reoencefalografia e metodi di registrazione poligrafica.  
+Nel secondo anno viene dato particolare risalto alle dimostrazioni pratiche. I corsi saranno integrati da conferenze e da seminari sulle materie di insegnamento.  
+Art. 397. - Per essere ammessi al secondo anno gli allievi dovranno avere superato gli esami di cui ai punti 1), 3), 4), 5) dell'articolo precedente.  
+Art. 398. - L'esame finale per il conseguimento del diploma di tecnico neurofisiopatologo consiste in un esame scritto ed una prova pratica, previo superamento degli esami di profitto relativi alle materie di insegnamento di cui ai punti 6), 7), 8), 9), 10), 11), 12), 13), 14) con cui l'allievo dovra' dimostrare di avere raggiunto un livello di preparazione adeguato nelle materie che sono oggetto di insegnamento. L'esame di diploma dovra' essere superato entro cinque anni dalla data di immatricolazione.  
+Art. 399. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
+Art. 400. - Il consiglio della scuola e' costituito dal direttore e dal corpo docente della scuola.  
+Art. 401. - Ammontare delle tasse per anno di corso:  
+  
+tassa annuale di iscrizione . . . . . . . . . . . . . . L. 15.000 soprattassa annuale di esame . . . . . . . . . . . . . . L. 5.000 contributo per esercitazioni pratiche . . . . . . . . . L. 25.000 tassa di diploma. . . . . . . . . . . . . . . . . . . . L. 50.000 tassa annuale di iscrizione per studenti fuori corso . . L. 3.000   
+Il pagamento delle tasse, soprattasse e contributi e' ripartibile in due versamenti uguali: il primo da effettuare all'atto dell'iscrizione, il secondo entro il 31 marzo.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 6 gennaio 1982
+### Dato a Roma, addi' 31 ottobre 1981
 
 PERTINI BODRATO
 
 Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 2 marzo 1982
+Registrato alla Corte dei conti, addi' 16 marzo 1982
 
-Registro n. 33 Istruzione, foglio n. 345
+Registro n. 42 Istruzione, foglio n. 183

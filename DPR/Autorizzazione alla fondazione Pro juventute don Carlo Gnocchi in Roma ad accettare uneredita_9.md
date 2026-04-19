@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1986 n. 980
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 1977 n. 418
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1986 n. 980
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 1977 n. 418
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un'eredita'.
 ----------------------------------------------------------------------------------------------------
@@ -10,10 +10,10 @@ Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad ac
 Art. 1
 ------
 
-n.
+N.
 
-980. Decreto del Presidente della Repubblica 3 dicembre 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare col beneficio d'inventario l'eredita', consistente nella quota di 1/2 di beni mobili, saldo conti correnti, depositi di titoli, per un valore complessivo di L. 77.851.131, disposta dal sig. Minghetti Giuseppe a favore della pro juventute (Mutilatini don Gnocchi), che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale del consiglio di amministrazione della fondazione stessa in data 16 febbraio 1984, con testamento olografo 14 ottobre 1982, pubblicato in data 15 aprile 1983, n. 25547/945 di repertorio, a rogito dott. Giuseppe Isotti, notaio in Bolzano, registrato a Bolzano in data 2 maggio 1983 al n. 3996.  
+418. Decreto del Presidente della Repubblica 6 giugno 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla sig.ra Prina Pierina, in favore dell'istituto don Gnocchi, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", con testamento olografo 10 novembre 1965, pubblicato a rogito del notaio dott. Carlo Locatelli di Milano in data 17 ottobre 1974, n. 38595 di repertorio e n. 9564 di raccolta, registrato a Milano il 5 novembre 1974 al n. 16578, serie B, consistente nella somma di lire 8.145.684.  
   
-Visto, il Guardasigilli: ROGNONI  
-Registrato alla Corte dei conti, addi' 14 gennaio 1987  
-Registro n. 1 Presidenza, foglio n. 178
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 15 luglio 1977  
+Registro n. 6 Presidenza, foglio n. 250

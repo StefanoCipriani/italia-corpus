@@ -1,370 +1,259 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 dicembre 1980 n. 1185
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 ottobre 1972 n. 1050
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 dicembre 1980 n. 1185
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 ottobre 1972 n. 1050
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Roma e convalidati dal Consiglio universitario nazionale;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA   
   
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Gli articoli da 918 a 998, relativi ai corsi di perfezionamento e di specializzazione della facolta' di ingegneria, sono sostituiti dai seguenti:   
+Decreta:   
   
-CORSI DI SPECIALIZZAZIONE DELLA FACOLTA' DI INGEGNERIA   
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Gli articoli da 633 a 640 relativi alla "Scuola di specializzazione in chirurgia toracica" sono abrogati e sostituiti dai seguenti:   
   
-Corso di specializzazione in ingegneria del traffico   
+Scuola di specializzazione in chirurgia toracica   
   
-Art. 918. - Presso la facolta' di ingegneria dell'Universita' degli studi di Roma e' istituito un corso di specializzazione in "ingegneria del traffico", al fine di preparare tecnici specializzati alla risoluzione di problemi inerenti alla circolazione dei mezzi di trasporto su strada.   
-Art. 919. - Il corso ha la durata di un anno; e' diretto da un professore della facolta' nominato dal rettore su designazione del consiglio di facolta'.   
-Il consiglio del corso e' composto dal direttore e dai docenti degli insegnamenti costitutivi di cui all'articolo 922.   
-Gli insegnanti del corso sono proposti dal consiglio del corso ovvero, in caso di avviamento del medesimo, da una commissione all'uopo nominata dal consiglio di facolta' e possono essere scelti fra i professori di ruolo, fra i libri docenti, fra gli aiuti e gli assistenti o anche fra persone di riconosciuta competenza nelle rispettive specialita'. Il corso inoltre potra' giovarsi, per talune materie, di insegnamenti svolti presso una delle facolta'.   
-Le proposte di cui sopra sono subordinate all'approvazione del consiglio di facolta'. Alla nomina provvede il rettore.   
-Art. 920. - Al corso possono essere ammessi i laureati in ingegneria e in architettura.   
-Il consiglio del corso delibera ogni anno tempestivamente l'inizio delle lezioni e lo svolgimento delle lezioni, il numero massimo degli iscritti e le norme per l'ammissione, nonche' il numero minimo di iscritti affinche' il corso stesso abbia luogo.   
-Il consiglio di facolta' potra' sospendere lo svolgimento del corso a partire dall'anno accademico successivo alla deliberazione.   
-Art. 921. - La frequenza ai singoli insegnamenti deve essere attestata dai rispettivi docenti, secondo le modalita' stabilite dal consiglio del corso.   
-Art. 922. - Gli insegnamenti impartiti nel corso si distinguono in costitutivi e monografici.   
-Gli insegnamenti costitutivi sono:   
-1) elementi di trasporti:   
-a) meccanica della locomozione e sistemi di trasporto;   
-b) caratteristiche della circolazione;   
-2) regolazione della circolazione;   
-3) attrezzature viarie:   
-a) caratteristiche del nastro stradale;   
-b) svincoli e intersezioni;   
-4) pianificazione dei trasporti;   
-5) dinamica urbanistica:   
-a) elementi di tecnica urbanistica;   
-b) organizzazione dinamica del territorio;   
-6) applicazione e progetti.   
-Gli insegnamenti monografici sono:   
-1) complementi di matematica;   
-2) tecnica della sicurezza stradale;   
-3) problemi economici.   
-Gli esami degli insegnamenti costitutivi possono comprendere una prova pratica.   
-Il consiglio del corso stabilisce la durata degli insegnamenti.   
-Gli insegnamenti monografici formano oggetto di esame di gruppo con voti separati.   
-Gli insegnamenti possono venire integrati da conferenze e visite ad impianti, stabilimenti e situazioni stradali di particolare interesse.   
-Il consiglio del corso puo' esonerare dall'obbligo di frequenza di una o piu' delle parti indicate don a) dei corsi di elementi di trasporti e di dinamica urbanistica quegli iscritti che nei corsi normali di laurea avessero gia' frequentato con profitto materie comprendenti detti argomenti.   
-Art. 923. - E' data facolta' al direttore, all'inizio di ogni anno accademico, di rivedere il programma del corso e, sentito il parere del consiglio, di sottoporre al consiglio delle facolta' proposte di variazioni del medesimo che saranno rese pubbliche soltanto dopo l'approvazione degli organi competenti, ai sensi delle vigenti disposizioni di legge.   
-Il direttore del corso presenta annualmente alla facolta', unitamente alle eventuali proposte di nuovi incarichi, una dettagliata relazione sullo svolgimento del corso nel precedente anno accademico.   
-Art. 924. - Per la validita' del corso gli iscritti debbono superare tutti gli esami degli insegnamenti costitutivi e quelli di gruppo relativi agli insegnamenti monografici nonche' redigere un progetto od uno studio su argomenti attinenti alle materie di insegnamento da presentare e discutere dinanzi ad una commissione composta dai docenti degli insegnamenti costitutivi e presieduta dal direttore del corso.   
-In caso di necessita' il direttore del corso puo' chiamare a far parte della commissione docenti dei corsi monografici in sostituzione di docenti dei corsi costitutivi. L'ammissione alla discussione del lavoro finale e' subordinata all'aver superato tutti gli esami speciali.   
-Il giudizio sugli esami speciali deve essere espresso in trentesimi, quello sull'esame finale in centesimi.   
-Ogni esame fallito puo' essere ripetuto una sola volta.   
-Art. 925. - Agli iscritti che abbiano superato tutti gli esami ed ottenuta l'idoneita' nel progetto o studio finale viene rilasciato un attestato comprovante la carriera scolastica compiuta.   
-Art. 926. - Gli iscritti al corso sono tenuti a pagare le tasse, soprattasse, contributi generali e per esercitazioni nella misura che verra' stabilita dal consiglio di amministrazione dell'Universita' su proposta del consiglio della facolta' udito il direttore del corso.   
-Corso di perfezionamento in ingegneria nucleare   
-Art. 927. - Presso la facolta' di ingegneria e' istituito un corso di perfezionamento in "ingegneria nucleare".   
-Il corso consiste in insegnamenti avanzati sui reattori nucleari e si prefigge lo scopo di approfondire la conoscenza dei sistemi nucleari, anche di nuova concezione, per la produzione di energia.   
-Art. 928. - Il corso ha la durata di un anno. Il corso e' diretto da un professore ordinario della facolta' nominato dal rettore su designazione del consiglio di facolta'.   
-Il consiglio del corso e' composto dal direttore e dai docenti degli insegnamenti di cui all'art. 931.   
-Art. 929. - Al corso di perfezionamento sono ammessi i laureati, presso le universita' italiane o straniere, in ingegneria nucleare.   
-Sono altresi' ammessi al corso ingegneri non nucleari laureati in universita' italiane o straniere previo esame di ammissione, secondo modalita' stabilite annualmente dal consiglio del corso, allo scopo di accertare la preparazione dei candidati sui fondamenti dell'ingegneria nucleare. Il consiglio del corso delibera tempestivamente l'inizio delle lezioni, il numero massimo degli iscritti, nonche' il numero minimo degli iscritti affinche' esse abbiano luogo.   
-Il consiglio di facolta' potra' sospendere lo svolgimento del corso a partire dall'anno accademico successivo alla deliberazione.   
-Art. 930. - La frequenza ai singoli insegnamenti deve essere attestata dai rispettivi docenti secondo le modalita' stabilite dal consiglio del corso.   
-Art. 931. - Gli insegnamenti impartiti nel corso di perfezionamento di ingegneria nucleare sono i seguenti:   
-1) complementi di neutronica;   
-2) complementi di teoria del reattore;   
-3) complementi di termotecnica del reattore;   
-4) ingegneria del reattore;   
-5) complementi del ciclo del combustibile nucleare;   
-6) tecnologie avanzate dei materiali;   
-7) complementi di strumentazione e controllo;   
-8) complementi di radioprotezione;   
-9) complementi di sicurezza nucleare;   
-10) complementi di energetica;   
-11) fisica dei plasmi;   
-12) teoria dei reattori a fusione;   
-13) elementi di economia degli impianti nucleari.   
-Il consiglio del corso stabilisce la durata di ciascuno degli insegnamenti sopraelencati; stabilisce altresi' quali di essi dovranno essere completati con esercitazioni.   
-Gli insegnamenti potranno venire integrati da conferenze e da visite ad impianti.   
-Art. 932. - E' data facolta' al direttore, all'inizio di ogni anno accademico, di rivedere il programma del corso e, sentito il parere del consiglio, di sottoporre al consiglio della facolta' proposte di variazioni che saranno rese pubbliche soltanto dopo l'approvazione degli organi competenti, ai sensi delle vigenti disposizioni di cui al [testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592).   
-Art. 933. - Gli insegnanti del corso sono proposti dal direttore che puo' scegliere tra i professori di ruolo, fra i liberi docenti e fra gli assistenti o anche fra persone di riconosciuta competenza nelle rispettive specialita', ovvero giovarsi, per talune materie, di insegnamenti svolti presso altra facolta'. Tali proposte sono subordinate all'approvazione del consiglio di facolta' ed alle nomine provvede il rettore.   
-Art. 934. - Per la validita' del corso di perfezionamento e cioe' per il conseguimento dell'attestato di cui all'art. 935, gli iscritti dovranno superare gli esami in almeno sette dei tredici insegnamenti elencati nell'art. 931 e redigere un progetto o uno studio sulle materie di insegnamento prescelte.   
-Il progetto o studio finale verra' discusso alla presenza di una commissione di cinque membri scelti fra i docenti del corso e presieduta dal direttore del corso stesso.   
-Art. 935. - Agli iscritti al corso di perfezionamento che abbiano superato il numero di esami di cui all'art. 934 ed ottenuta l'idoneita' nel progetto o studio finale viene rilasciato un attestato comprovante la carriera scolastica compiuta.   
-Art. 936. - Gli iscritti al corso sono tenuti a pagare le tasse, sopratasse e contributi generali e per esercitazioni nella misura che verra' stabilita dal consiglio di amministrazione dell'Universita' su proposta del consiglio della facolta', udito il direttore del corso.   
-Corso di specializzazione in ingegneria dei sistemi di controllo e calcolo automatici   
-Art. 937. - Presso la facolta' di ingegneria e' istituito un corso di specializzazione in ingegneria dei sistemi di controllo e calcolo automatici, per la formazione di esperti nei diversi settori riguardanti la teoria e l'applicazione dell'automatica e dell'informatica.   
-Art. 938. - Il corso ha la durata di un anno. E' direttore del corso un professore della facolta' nominato dal rettore su designazione del consiglio di facolta'. Il consiglio direttivo del corso e' costituito dal direttore e dai docenti dei singoli insegnamenti.   
-Art. 939. - Per l'ammissione al corso e' richiesta la laurea in una universita' italiana o straniera. L'ammissione e' comunque effettuata per titoli e/o per esami secondo modalita' stabilite annualmente dal consiglio del corso, in modo da accertare la preparazione dei candidati nei fondamenti dell'automatica o dell'informatica.   
-Il consiglio direttivo delibera tempestivamente di anno in anno l'inizio e lo svolgimento delle lezioni, il numero degli iscritti e le norme per l'ammissione, nonche' il numero minimo di iscritti affinche' il corso stesso abbia luogo.   
-Il consiglio di facolta' potra' sospendere lo svolgimento del corso a partire dall'anno accademico successivo alla deliberazione.   
-Art. 940. - La frequenza ai singoli insegnamenti deve essere attestata dai rispettivi docenti secondo le modalita' stabilite dal consiglio del corso.   
-Art. 941.- Ciascun allievo puo' predisporre un piano di studi nell'ambito delle discipline elencate nel successivo articolo o insegnate presso l'Universita' di Roma. Il numero degli insegnamenti deve essere almeno equivalente a sei insegnamenti annuali.   
-I piani di studio sono sottoposti all'approvazione del consiglio del corso; verra' attribuita anche in base ai titoli e/o agli esami che hanno consentito l'ammissione al corso.   
-Art. 942. - Gli insegnamenti impartiti sono annuali; alcuni di essi potranno essere suddivisi in due insegnamenti semestrali da svolgersi nell'arco dell'anno accademico. Di anno in anno il consiglio del corso potra' deliberare l'attivazione di uno solo dei semestri in cui questi ultimi sono suddivisi.   
-Gli insegnamenti sono:   
-1) analisi funzionale;   
-2) analisi e progettazione dei sistemi informativi;   
-3) automazione degli impianti industriali;   
-4) azionamenti industriali;   
-5) complementi di impianti di elaborazione dei dati;   
-6) complementi di ricerca operativa;   
-7) complementi di sistemi formali;   
-8) controlli industriali;   
-9) ingegneria del software;   
-10) metodi numerici di ottimizzazione;   
-11) modellistica e controllo di sistemi socio-economici;   
-12) progettazione assistita dal calcolatore;   
-13) seminari di controlli e di calcolatori;   
-14) sintesi dei sistemi di controllo;   
-15) sistemi operativi;   
-16) sistemi organizzativi e gestionali;   
-17) sistemi di elaborazione distribuita;   
-18) strumentazione industriale;   
-19) tecniche digitali di interfaccia;   
-20) tecniche di simulazione e modelli di processi industriali;   
-21) teoria dei sistemi non lineari;   
-22) teoria dei sistemi stocastici;   
-23) teoria della stima e dell'identificazione;   
-24) teoria della misura e processi stocastici;   
-25) teoria dell'ottimizzazione.   
-Il consiglio del corso, ove lo ritenga opportuno, potra' organizzare anno per anno seminari propedeutici allo svolgimento degli insegnamenti suddetti.   
-Art. 943. - Gli insegnanti del corso sono proposti dal consiglio del corso ovvero, in caso di avviamento del medesimo, da una commissione all'uopo nominata dal consiglio di facolta' e possono essere scelti fra i professori di ruolo, fra i liberi docenti, fra gli aiuti e gli assistenti o anche fra persone di riconosciuta competenza nelle rispettive specialita'. Il corso inoltre potra' giovarsi, per alcune materie, di insegnamenti svolti presso una delle facolta'.   
-Le proposte di cui sopra sono subordinate all'approvazione del consiglio di facolta'. Alle nomine provvede il rettore.   
-Il direttore del corso presenta annualmente alla facolta', unitamente alle eventuali proposte di nuovi incarichi, una dettagliata relazione sullo svolgimento del corso nel precedente anno accademico.   
-Art. 944. - Per la validita' del corso e cioe' per il conseguimento dell'attestato di cui all'art. 945 ciascun iscritto dovra' superare gli esami in tutti gli insegnamenti previsti nel suo piano di studi e dovra' svolgere un lavoro personale di carattere teorico o sperimentale.   
-Art. 945. - Agli iscritti che abbiano superato gli esami e abbiano ottenuto l'idoneita' per il lavoro personale eseguito viene rilasciato un attestato comprovante la carriera scolastica compiuta.   
-Corso di specializzazione in pianificazione urbanistica applicata alle aree metropolitane   
-Art. 946. - Presso la facolta' di ingegneria di Roma e' istituito un corso di specializzazione in "pianificazione urbanistica applicata alle aree metropolitane".   
-Il corso ha il fine di integrare e specializzare la preparazione universitaria soprattutto attraverso l'esame di situazioni concrete e lo studio degli strumenti applicativi, mettendo in particolare evidenza le possibilita' offerte dalle piu' recenti tecniche quali la sistemistica.   
-Art. 947. - Direttore del corso e' un professore della facolta' nominato dal rettore su designazione del consiglio di facolta', per un triennio.   
-Il consiglio del corso e' costituito dal direttore e da tutti i docenti degli insegnamenti.   
-Gli insegnanti del corso sono proposti dal consiglio del corso ovvero, in caso di avviamento del medesimo, da una commissione all'uopo costituita dal consiglio di facolta' e possono essere scelti fra i professori di ruolo, fra i liberi docenti, fra gli aiuti o gli assistenti o anche fra persone di riconosciuta competenza nelle rispettive specialita'. Il corso, inoltre, potra' giovarsi, per alcune materie, di insegnamenti svolti presso una delle facolta'.   
-Tali proposte sono subordinate all'approvazione del consiglio di facolta'; le nomine degli insegnanti vengono effettuate dal rettore.   
-Il direttore del corso presenta annualmente alla facolta', unitamente alle eventuali proposte di nuovi incarichi, una dettagliata relazione sullo svolgimento del corso nel precedente anno accademico.   
-Art. 948. - Al corso sono ammessi i laureati in ingegneria edile ed in architettura; il consiglio del corso potra' ammettere laureati in altre discipline e laureati in Paesi stranieri.   
-Il consiglio direttivo delibera tempestivamente di anno in anno le date di inizio e di svolgimento delle lezioni, il numero degli iscritti e le norme per l'ammissione, nonche' il numero di iscritti affinche' il corso stesso abbia luogo.   
-L'ammissione al corso e' subordinata all'esito di un colloquio per quei laureati che non abbiano sostenuto almeno un esame di urbanistica.   
-Il consiglio di facolta' potra' sospendere lo svolgimento del corso a partire dall'anno accademico successivo alla deliberazione.   
-Art. 949. - Il corso ha la durata di un anno. Gli insegnamenti impartiti sono suddivisi, con riferimento al contenuto, in insegnamenti generali e in insegnamenti speciali.   
-Ai fini della formazione del piano di studi di cui al successivo art. 951 gli insegnamenti sono suddivisi in obbligatori e facoltativi, come precisato nell'elenco seguente. Tutti gli insegnamenti generali sono obbligatori. La durata dei corsi viene fissata anno per anno dal consiglio direttivo in relazione alle esigenze del corso.   
-E' inoltre facolta' del consiglio del corso, per motivate esigenze organizzative, di stabilire prima dell'inizio di ogni singolo corso la eventuale sospensione di uno o piu' insegnamenti facoltativi.   
-Gli insegnamenti del corso sono:   
-Insegnamenti generali:   
-a-1) fenomenologia delle grandi concentrazioni urbane (obbligatorio);   
-a-2) urbanesimo e pianificazione (obbligatorio);   
-a-3) fondamenti di pianificazione urbanistica (obbligatorio);   
-a-4) fondamenti di teoria dei sistemi (obbligatorio).   
-Insegnamenti speciali:   
-b-1) analisi funzionale e distributiva degli insediamenti (facoltativo);   
-b-2) mobilita' urbana e trasporti (obbligatorio);   
-b-3) morfologia del territorio e forma urbana (facoltativo);   
-b-4) difesa dell'ambiente (facoltativo);   
-b-5) dinamica del tempo libero e del turismo (facoltativo);   
-b-6) elementi di economia del territorio (obbligatorio);   
-b-7) gestione dei complessi urbani (facoltativo);   
-b-8) igiene applicata alle aree urbane (facoltativo);   
-b-9) elementi di psicologia e di sociologia urbana (facoltativo);   
-b-10) ingegneria dei sistemi urbani (facoltativo).   
-Art. 950. - La frequenza ai singoli insegnamenti deve essere attestata dai rispettivi docenti secondo le modalita' stabilite dal consiglio del corso.   
-Art. 951. - Ciascun allievo puo' predisporre un piano di studi nell'ambito delle discipline elencate nel precedente articolo o, eventualmente, di materie insegnate presso l'Universita' di Roma. Il numero degli insegnamenti deve essere almeno equivalente a sei insegnamenti annuali. Il piano di studi e' sottoposto all'approvazione del consiglio del corso.   
-Art. 952. - Per la validita' del corso, cioe' per il conseguimento dell'attestato di cui all'art. 953, ciascun iscritto dovra' superare gli esami in tutti gli insegnamenti previsti nel suo piano di studi e dovra' svolgere un lavoro personale di carattere teorico o sperimentale.   
-Art. 953. - Agli iscritti che abbiano superato gli esami e abbiano ottenuto l'idoneita' per il lavoro personale eseguito verra' rilasciato un attestato comprovante la carriera scolastica compiuta.   
-Art. 954. - Il consiglio del corso potra' ammettere al corso stesso, in qualita' di uditori, allievi non in possesso dei titoli di cui al precedente art. 348.   
-Tali allievi saranno esonerati dal sostenere gli esami. Ad essi il direttore del corso rilascera' un attestato di frequenza.   
-Corso di specializzazione in conduzione industriale   
-Art. 955. - Presso la facolta' di ingegneria e' istituito un corso di specializzazione in conduzione industriale per la formazione di esperti in impianti industriali e direzione di imprese.   
-Art. 956. - Il corso ha la durata di un anno; e' direttore del corso un professore della facolta' nominato dal rettore, su designazione del consiglio di facolta'.   
-Il consiglio del corso e' costituito dal direttore e dai docenti dei singoli insegnamenti.   
-Art: 957. - Al corso sono ammessi i laureati in ingegneria; il consiglio del corso potra' ammettere laureati in altre discipline e laureati in Paesi stranieri.   
-Il consiglio del corso delibera tempestivamente di anno in anno l'inizio e lo svolgimento delle lezioni, il numero degli iscritti e le norme per le ammissioni, nonche' il numero minimo di iscritti affinche' il corso stesso abbia luogo.   
-Il consiglio di facolta' potra' sospendere lo svolgimento del corso a partire dall'anno accademico successivo alla deliberazione.   
-Art. 958. - La frequenza ai singoli insegnamenti deve essere attestata dai rispettivi docenti secondo le modalita' stabilite dal consiglio di corso.   
-Art. 959. - Il consiglio del corso stabilisce di anno in anno la durata di ciascuno degli insegnamenti.   
-Art. 960. - Sono insegnamenti del corso di specializzazione:   
-1) tecnica ed economia degli impianti industriali;   
-2) principi di ingegneria del lavoro e della sicurezza;   
-3) insediamento industriale e impostazione strutturale dei processi produttivi;   
-4) affidabilita' e manutenzione degli impianti;   
-5) tecnica ed economia delle fonti energetiche;   
-6) ecologia per gli impianti industriali;   
-7) impianti ausiliari;   
-8) programmazione ed organizzazione della produzione;   
-9) struttura degli impianti industriali ed elementi di progettazione;   
-altri insegnamenti monografici secondo deliberazioni del consiglio del corso.   
-Gli insegnamenti comprendono attivita' integrative quali conferenze, visite ad impianti, seminari.   
-Art. 961. - Gli insegnanti del corso sono proposti dal consiglio del corso ovvero, in caso di avviamento del medesimo, da una commissione all'uopo nominata dal consiglio di facolta' e possono essere scelti fra i professori di ruolo, fra i liberi docenti, fra gli aiuti e gli assistenti o anche fra persone di riconosciuta competenza nelle rispettive specialita'. Il corso inoltre potra' giovarsi, per talune materie, di insegnamenti svolti presso una delle facolta'.   
-Le proposte di cui sopra sono subordinate all'approvazione del consiglio di facolta'. Alle nomine provvede il rettore.   
-Il direttore del corso presenta annualmente alla facolta', unitamente alle eventuali proposte di nuovi incarichi, una dettagliata relazione sullo svolgimento del corso nel precedente anno accademico.   
-Art. 962. - Per la validita' del corso, e cioe' per il conseguimento dell'attestato di cui all'articolo seguente, ciascun iscritto dovra' superare gli esami in tutti gli insegnamenti e dovra' svolgere un lavoro personale di carattere teorico o sperimentale. Il lavoro svolto verra' discusso alla presenza di una commissione costituita da tre docenti del corso prescelti dal direttore del corso, da lui presieduta.   
-Art. 963. - Agli iscritti che abbiano superato gli esami ed abbiano ottenuto l'idoneita' per il lavoro personale eseguito viene rilasciato un attestato comprovante la carriera scolastica compiuta.   
-Corso di specializzazione in bioingegneria   
-Art. 964. - Presso la facolta' di ingegneria e' istituito un corso di specializzazione di bioingegneria al fine di preparare tecnici specializzati per lo studio e la soluzione dei problemi interdisciplinari inerenti l'intervento dell'ingegneria nella medicina.   
-Art. 965. - Il corso ha la durata di un anno ed e' suddiviso in due semestri; e' direttore del corso un professore della facolta', nominato dal rettore su designazione del consiglio di facolta'.   
-Il consiglio del corso e' costituito dal direttore e dai docenti dei singoli insegnamenti.   
-Art. 966. - Al corso sono ammessi i laureati in ingegneria aeronautica, ingegneria elettronica, ingegneria elettrotecnica, ingegneria meccanica, ingegneria nucleare; il consiglio del corso potra' ammettere laureati in altre discipline e laureati in Paesi stranieri.   
-Il consiglio del corso delibera tempestivamente di anno in anno l'inizio dello svolgimento delle lezioni, il numero degli iscritti e le norme per l'ammissione, nonche' il numero minimo di iscritti affinche' il corso stesso abbia luogo. L'ammissione al corso e' subordinata all'esito di un colloquio sui fondamenti di controlli automatici e di calcolatori per quei laureati che non abbiano sostenuto un esame su tali materie o su materie equivalenti.   
-Il consiglio di facolta' potra' sospendere lo svolgimento del corso a partire dall'anno accademico successivo alla deliberazione.   
-Art. 967. - La frequenza ai singoli insegnamenti deve essere attestata dai rispettivi docenti secondo le modalita' stabilite dal consiglio del corso.   
-Art. 968. - Gli insegnamenti del corso vengono impartiti per la durata di un semestre ed avranno durata variabile da 45 a 60 ore di lezione.   
-Art. 969. - Sono insegnamenti del primo semestre:   
-1) principi di biologia e anatomia;   
-2) fisio-patologia;   
-3) biomeccanica;   
-4) fluidodinamica fisiologica;   
-5) strumentazione e misure biomediche.   
-Art. 970. - Sono insegnamenti del secondo semestre:   
-1) modellistica dei sistemi fisiologici;   
-2) organi artificiali;   
-3) sistemi uomo-macchina;   
-4) automazione del sistema ospedale;   
-5) principi di gestione del sistema sanitario.   
-Art. 971. - Gli insegnanti del corso sono proposti dal consiglio del corso ovvero, in caso di avviamento del medesimo, da una commissione all'uopo nominata dal consiglio di facolta' e possono essere scelti fra i professori di ruolo, fra i liberi docenti, fra gli aiuti e gli assistenti o anche fra persone di riconosciuta competenza nelle rispettive specialita'. Il corso inoltre potra' giovarsi, per talune materie, di insegnamenti svolti presso una delle facolta'. Le proposte di cui sopra sono subordinate all'approvazione del consiglio di facolta'. Alle nomine provvede il rettore.   
-Il direttore del corso presenta annualmente alla facolta', unitamente alle eventuali proposte di nuovi incarichi, una dettagliata relazione sullo svolgimento del corso nel precedente anno accademico.   
-Art. 972. - Per la validita' del corso e cioe' per il conseguimento dell'attestato di cui all'articolo seguente ciascun iscritto dovra' superare gli esami di tutti gli insegnamenti e dovra' svolgere un lavoro personale di carattere teorico o sperimentale. Il lavoro svolto verra' discusso alla presenza di una commissione costituita da tre docenti del corso prescelto dal direttore del corso e da lui presieduta.   
-Art. 973. - Agli iscritti che abbiano superato gli esami ed abbiano ottenuto l'idoneita' per il lavoro personale eseguito viene rilasciato un attestato comprovante la carriera scolastica compiuta.   
-Corso di specializzazione in elettromagnetismo applicato   
-Art. 974. - Presso la facolta' di ingegneria e' istituito un corso di specializzazione in elettromagnetismo applicato al fine di preparare tecnici specializzati per lo studio e la risoluzione dei problemi inerenti la teoria e le applicazioni dell'elettromagnetismo.   
-Art. 975. - Il corso ha la durata di un anno, e' direttore del corso un professore della facolta' nominato dal rettore su designazione del consiglio di facolta'.   
-Il consiglio del corso e' costituito dal direttore e dai docenti dei singoli insegnamenti.   
-Art. 976. - Al corso sono ammessi i laureati in ingegneria; il consiglio del corso potra' ammettere laureati in altre discipline e laureati in Paesi stranieri.   
-Il consiglio del corso delibera tempestivamente di anno in anno l'inizio e lo svolgimento delle lezioni, il numero degli iscritti e le norme per l'ammissione, nonche' il numero minimo di iscritti affinche' il corso stesso abbia luogo.   
-Il consiglio di facolta' potra' sospendere lo svolgimento del corso a partire dall'anno accademico successivo alla deliberazione.   
-Art. 977. - La frequenza ai singoli insegnamenti deve essere attestata dai rispettivi docenti secondo le modalita' stabilite dal consiglio del corso.   
-Art. 978. - Gli insegnamenti del corso vengono impartiti per la durata di un anno accademico ed avranno durata variabile da 30 a 50 ore di lezione, indicata di anno in anno dal consiglio del corso.   
-Art. 979. - Sono insegnamenti del corso di specializzazione:   
-1) circuiti a microonde;   
-2) diffrazione elettromagnetica;   
-3) elettrodinamica dei mezzi in movimento;   
-4) fenomeni di interazione del campo e.m. ed applicazioni;   
-5) metodi numerici per la risoluzione dei problemi e.m.;   
-6) radiometereologia;   
-7) radiopropagazione;   
-8) tecniche delle misure elettromagnetiche;   
-9) tecnica di progettazione delle antenne;   
-10) tecniche elettromagnetiche di diagnostica ambientale;   
-11) tecniche elettromagnetiche applicate alla bioingegneria;   
-12) tecniche ottiche nell'elettromagnetismo;   
-13) teoria delle antenne;   
-14) teoria ed applicazioni della propagazione in mezzi anisotropi.   
-Art. 980. - Ogni allievo propone un proprio piano di studi, contenente almeno sei degli insegnamenti di cui all'articolo precedente.   
-Il piano di studi deve essere approvato dal consiglio del corso.   
-Inoltre, il consiglio del corso, esaminato il curriculum di ciascun allievo ed il suo piano di studi, potra' consigliare la frequenza di uno o piu' dei seguenti corsi ufficiali della facolta':   
-1) antenne e propagazione;   
-2) campi elettromagnetici e circuiti;   
-3) microonde.   
-Art. 981. Gli insegnanti del corso sono proposti dal consiglio del corso ovvero, in caso di avviamento del medesimo, da una commissione all'uopo nominata dal consiglio di facolta' e possono essere scelti fra i professori di ruolo, fra i liberi docenti, fra gli aiuti e gli assistenti o anche fra persone di riconosciuta competenza nelle rispettive specialita'. Il corso inoltre potra' giovarsi, per talune materie, di insegnamenti svolti presso una delle facolta'.   
-Le proposte di cui sopra sono subordinate all'approvazione del consiglio di facolta'. Alle nomine provvede il rettore.   
-Il direttore del corso presenta annualmente alla facolta', unitamente alle eventuali proposte di nuovi incarichi, una dettagliata relazione sullo svolgimento del corso nel precedente anno accademico.   
-Art. 982. - Per la validita' del corso, e cioe' per il conseguimento dell'attestato di cui all'articolo seguente, ciascun iscritto dovra' superare gli esami in tutti gli insegnamenti del suo piano di studi e dovra' svolgere un lavoro personale di carattere teorico o sperimentale.   
-Il lavoro svolto verra' discusso alla presenza di una commissione costituita da tre docenti del corso prescelti dal direttore del corso e da lui presieduta.   
-Art. 983. - Agli iscritti che abbiano superato gli esami ed abbiano ottenuto l'idoneita' per il lavoro personale eseguito viene rilasciato un attestato comprovante la carriera scolastica compiuta.   
-Corso di specializzazione in metodi avanzati di analisi e   
-progettazione delle strutture   
-Art. 984. - Presso la facolta' di ingegneria dell'Universita' degli studi di Roma e' istituito un corso di specializzazione in metodi avanzati di analisi e progettazione delle strutture al fine di preparare tecnici specializzati nella risoluzione di problemi inerenti alla ricerca e alla progettazione strutturale.   
-Art. 985. - Il corso ha la durata di un anno, esso e' diretto da un professore della facolta' nominato dal rettore, su designazione del consiglio di facolta', per la durata di tre anni.   
-Il consiglio del corso e' composto dal direttore e dai docenti degli insegnamenti di cui all'art. 987.   
-Art. 986. - Al corso possono essere ammessi esclusivamente laureati in ingegneria ed in architettura.   
-Il consiglio del corso delibera ogni anno tempestivamente l'inizio delle lezioni e le norme per l'ammissione nonche' il numero minimo di iscritti affinche' il corso stesso abbia luogo.   
-Art. 987. - Gli insegnamenti previsti nel corso sono i seguenti:   
-Gruppo I: Matematica e fisica matematica:   
-1) I.1: complementi di analisi numerica e programmazione;   
-2) I.2: complementi di meccanica dei solidi;   
-3) I.3: elementi di aerodinamica applicata;   
-4) I.4: elementi di analisi funzionale.   
-Gruppo II: Problemi teorici generali:   
-5) II.1: complementi di teoria delle strutture;   
-6) II.2: dinamica delle strutture;   
-7) II.3: geotecnica teorica;   
-8) II.4: problemi speciali di scienza delle costruzioni;   
-9) II.5: sicurezza delle strutture;   
-10) II.6: stabilita' delle strutture.   
-Gruppo III: Problemi teorici applicati ai materiali strutturali:   
-11) III.1: analisi sperimentale su modelli, strutture e materiali;   
-12) III.2: complementi di teoria delle strutture di cemento armato e cemento armato precompresso;   
-13) III.3: complementi di teoria delle strutture metalliche;   
-14) III.4: proprieta' meccaniche delle terre e sperimentazione geotecnica;   
-15) III.5: tecnologia dei materiali strutturali.   
-Gruppo IV: Problemi applicativi:   
-16) IV.1: materiali e strutture speciali;   
-17) IV.2: metodi di ottimizzazione nei problemi strutturali;   
-18) IV.3: strutture in zona sismica;   
-19) IV.4: tecnica delle fondazioni;   
-20) IV.5: tecnica delle strutture di cemento armato e cemento armato precompresso;   
-21) IV.6: tecnica delle strutture metalliche.   
-Art. 988. - Il consiglio del corso delibera ogni anno tempestivamente quali insegnamenti saranno effettivamente attivati, tenendo conto di eventuali preferenze espresse dai futuri allievi e curando la rotazione dei vari insegnamenti nei successivi anni di attivita' del corso.   
-E' data inoltre facolta' al consiglio del corso, all'inizio di ogni anno accademico, di rivedere il programma del corso e di variarne l'elenco degli insegnamenti. Tali variazioni saranno proposte al consiglio di facolta' e saranno rese pubbliche soltanto dopo l'approvazione del consiglio stesso e degli altri organi competenti.   
-Art. 989. - Gli insegnanti del corso sono proposti dal consiglio del corso ovvero, in caso di avviamento del medesimo, da una commissione all'uopo nominata dal consiglio di facolta' e possono essere scelti fra i professori di ruolo, fra i liberi docenti, fra gli aiuti e gli assistenti o anche fra persone di riconosciuta competenza nelle rispettive specialita'. Il corso inoltre potra' giovarsi, per alcune materie, di insegnamenti svolti presso una delle facolta'.   
-Le proposte di cui sopra sono subordinate all'approvazione del consiglio di facolta'. Alle nomine provvede il rettore.   
-Il direttore del corso presenta annualmente alla facolta', unitamente alle eventuali proposte di nuovi incarichi, una dettagliata relazione sullo svolgimento del corso nel precedente anno accademico.   
-Art. 990. - Gli allievi del corso dovranno seguire almeno sei insegnamenti fra quelli attivati per l'anno in corso, inseriti in un organico piano di studio individuale preventivamente approvato dal consiglio del corso.   
-Durante l'anno gli allievi svolgeranno ricerche su argomenti concordati con il consiglio del corso.   
-Per la validita' del corso, cioe' per il conseguimento del diploma di cui all'art. 991, gli iscritti dovranno superare gli esami degli insegnamenti prescelti e inoltre discutere i risultati delle suddette ricerche davanti ad una commissione di cinque membri, formata dal direttore e da altri quattro docenti del corso, prescelti dal direttore.   
-Art. 991. - Agli iscritti che abbiano superato il corso viene rilasciato un diploma di specializzazione in "metodi avanzati di analisi e progettazione delle strutture".   
-Corso di specializzazione in scienza e tecnologia grafica   
-Art. 992. - Presso la facolta' di ingegneria e' istituito un corso di specializzazione in scienza e tecnologia grafica allo scopo di preparare personale specializzato nelle tecniche, nei procedimenti, nei materiali che interessano l'industria grafica (processi di stampa, di riproduzione, prodotti e macchinario relativo).   
-Il corso si articola in due diversi indirizzi dedicati prevalentemente l'uno (A) agli impianti ed alle macchine grafiche, alle applicazioni dell'elettronica, alla tecnica grafica, etc., l'altro (B) ai materiali e ai processi chimici e chimico-fisici dell'industria grafica.   
-Art. 993. - Il corso ha la durata di un anno.   
-Il direttore del corso e' un professore della facolta', nominato, per un triennio accademico, dal rettore su designazione del consiglio di facolta'.   
-Il consiglio del corso e' formato dal direttore e dai docenti delle varie materie.   
-Art. 994. - Al corso sono ammessi, per l'indirizzo (A), i laureati in ingegneria aeronautica, ingegneria chimica, ingegneria elettronica, ingegneria elettrotecnica, ingegneria meccanica, ingegneria navale e meccanica, ingegneria nucleare, e, per l'indirizzo (B), i laureati in chimica e in chimica industriale.   
-Il consiglio del corso potra' ammettere, come uditori, tecnici di industrie grafiche in possesso dei necessari requisiti per poter trarre profitto dalla frequenza.   
-Il consiglio del corso delibera tempestivamente di anno in anno l'inizio e lo svolgimento delle lezioni, il numero degli iscritti, le norme per l'ammissione.   
-Il consiglio di facolta' potra' sospendere lo svolgimento del corso a partire dall'anno accademico successivo alla deliberazione.   
-Art. 995. - Il corso prevede oltre agli insegnamenti teorici sotto riportati, conferenze ed esercitazioni pratiche.   
-Insegnamenti comuni ai due indirizzi:   
-1) tipologia e tecnologia grafica;   
-2) impianti e macchine grafiche I;   
-3) materiali per l'industria grafica I;   
-4) sicurezza del lavoro e igiene nell'industria grafica;   
-5) legislazione riguardante l'industria grafica;   
-6) organizzazione industriale.   
-Insegnamenti complementari per l'indirizzo A:   
-7) impianti e macchine grafiche II;   
-8) problemi di esercizio delle macchine grafiche;   
-9) elementi di automazione applicata alla tecnografia.   
-Insegnamenti complementari per l'indirizzo B:   
-10) materiali per l'industria grafica II;   
-11) analisi e controlli su materiali per l'industria grafica.   
-Art. 996. - Gli insegnanti del corso sono proposti dal consiglio del corso che puo' sceglierli tra professori, assistenti, tecnici dell'industria, professionisti di riconosciuta competenza nelle rispettive specialita'. In caso di avviamento del corso tali proposte saranno preparate da una commissione all'uopo nominata dal consiglio di facolta'.   
-Le proposte sono subordinate all'approvazione del consiglio di facolta' ed alle nomine provvede il rettore.   
-Il direttore del corso presenta annualmente alla facolta', unitamente alle eventuali proposte di nuovi incarichi, una dettagliata relazione sullo svolgimento del corso nel precedente anno accademico.   
-Art. 997. - Per la validita' del corso e cioe' per il conseguimento dell'attestato di cui all'art. 998 ciascun iscritto dovra' frequentare le lezioni e le esercitazioni e superare gli esami negli insegnamenti seguiti e dovra' inoltre svolgere uno studio di carattere teorico o sperimentale su materia degli insegnamenti. Tale elaborato sara' discusso davanti ad una commissione dei docenti del corso presieduta dal direttore del corso medesimo.   
-Art. 998. - Agli iscritti che abbiano superato gli esami ed abbiano ottenuto l'idoneita' per lo studio personale eseguito viene rilasciato un attestato comprovante la carriera scolastica compiuta.   
+Art. 633. - La scuola di specializzazione in chirurgia toracica ha la durata di 4 anni e prevede l'insegnamento di tutte le branche della chirurgia toracica: chirurgia polmonare, chirurgia cardiaca, chirurgia esofagea, chirurgia del mediastino e della parete toracica.   
+Art. 634. - Alla scuola possono accedere i laureati in medicina e chirurgia che abbiano almeno 3 anni di frequenza in una scuola di specializzazione in chirurgia generale e medici che, a giudizio del consiglio degli insegnanti della scuola stessa, abbiano acquisito sufficiente pratica in chirurgia generale attraverso servizi prestati in reparti chirurgici.   
+Art. 635. - Coloro che siano in possesso del diploma di specializzazione in chirurgia generale e di libera docenza in una disciplina chirurgica (clinica chirurgica, patologia speciale chirurgica, semeiotica chirurgica, anatomia chirurgica) possono essere ammessi al 2° anno di corso previo esame integrativo vertente sulle materie del primo anno di corso.   
+In nessun'altra circostanza puo' essere concessa abbreviazione di corso.   
+Art. 636. - Il numero degli iscritti alla scuola e' fissato in quaranta (40) per i quattro anni di corso (10 per ogni anno).   
+Art. 637. - Il corso si compone di insegnamenti fondamentali, di esercitazioni pratiche, di periodi di internato, di conferenze riguardanti argomenti specialistici, di turni in corsia ed in sala operatoria. La frequenza ai corsi, agli internati in corsia ed in sala operatoria, alle esercitazioni, e' obbligatoria. In caso contrario i candidati non potranno ottenere l'attestazione di frequenza necessaria per l'ammissione agli esami.   
+Art. 638. - Alla fine di ciascun anno accademico gli specializzandi che abbiano ottenuto la firma di frequenza dovranno sostenere un esame di profitto nelle materie fondamentali, il cui superamento e' condizione necessaria ed indispensabile per ottenere l'iscrizione all'anno successivo e per quelli che sono stati iscritti al 4° anno, per l'ammissione all'esame di diploma.   
+Nell'ultimo anno di corso gli specializzandi frequenteranno la sala operatoria in maniera assidua, dovranno assistere a numerosi interventi di chirurgia toracica ed essere in grado di eseguirne essi stessi.   
+La loro preparazione tecnica sara' convalidata o meno alla fine del corso dal direttore della scuola di specializzazione.   
+Art. 639. - Per tutti gli specializzandi che abbiano superato gli esami dei quattro anni, alla fine del quarto anno di corso ha luogo l'esame di diploma, consistente nella presentazione e discussione di una dissertazione scritta su di un argomento di chirurgia toracica (polmonare, cardiaca, esofagea, mediastinica) precedentemente concordata tra il direttore della scuola ed il diplomando all'inizio del terzo o quarto anno.   
+La tesi deve essere approvata dallo stesso direttore e depositata presso la direzione almeno 15 giorni prima dell'esame di diploma.   
+Il candidato dovra' sostenere inoltre una prova clinica.   
+I candidati non riconosciuti idonei all'esame di diploma dovranno ripresentarsi all'esame dopo un altro anno di frequenza alla scuola.  
+Se al secondo esame non sia riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove.   
+Art. 640. - Le materie di insegnamento sono:   
+1° Anno:   
+1) Embriologia, anatomia descrittiva e topografica del torace e degli organi endotoracici (parete toracica, apparato respiratorio, diaframma, mediastino, organi mediastinici, cuore e grossi vasi endotoracici) (annuale);   
+2) Anatomia chirurgica del torace e degli organi endotoracici (annuale);   
+3) Anatomia patologica delle malattie del torace (annuale);   
+4) Anestesia e rianimazione nella chirurgia toracopolmonare ed in cardio-chirurgia (annuale).   
+2° Anno:   
+1) Fisiopatologia dell'apparato respiratorio e valutazione funzionale (annuale);   
+2) Fisiopatologia dell'apparato cardio-circolatorio (annuale);   
+3) Semeiotica e diagnostica clinica e strumentale dell'apparato respiratorio, dell'esofago, del mediastino (annuale);   
+4) Semeiotica e diagnostica clinica e strumentale dell'apparato cardio-circolatorio (annuale);   
+5) Diagnostica radiologica toraco-polmonare, del cuore e dei grossi vasi endotoracici (annuale).   
+3° Anno:   
+1) Patologia e clinica chirurgica delle affezioni dell'apparato respiratorio, del mediastino, e della parete toracica (biennale);   
+2) Patologia e clinica chirurgica delle affezioni del cuore e dei grossi vasi endotoracici (biennale);   
+3) Patologia e clinica chirurgica delle affezioni dell'esofago e del diaframma (annuale);   
+4) Terapia chirurgica della tubercolosi polmonare (annuale);   
+5) Elementi di terapia medica delle cardio-angiopatie (annuale);   
+6) Elementi di fisioterapia respiratoria (annuale).   
+4° Anno:   
+1) Patologia e clinica chirurgica delle affezioni dell'apparato respiratorio, del mediastino e della parete toracica (biennale);   
+2) Patologia e clinica chirurgica delle affezioni del cuore e dei grossi vasi endotoracici (biennale);   
+3) Tecnica operatoria per le affezioni della parete toracica, dell'apparato respiratorio, dell'esofago, del mediastino e del diaframma (annuale);   
+4) Tecnica operatoria delle affezioni del cuore, pericardio e grossi vasi endotoracici (annuale);   
+5) Principi e tecniche della circolazione extracorporea e della ipotermia (annuale).   
+Dopo l'art. 711 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in "Genetica medica", in "Gerontologia medica", in "Chirurgia d'urgenza e pronto soccorso" e della 2ª scuola in neurologia.   
+  
+Scuola di specializzazione in genetica medica   
+  
+Art. 712. - E' istituita la scuola di specializzazione in genetica medica. Finalita' della scuola e' quella di contribuire all'approfondimento dei problemi genetici della medicina, particolarmente nel campo della clinica nonche' della medicina preventiva.   
+Art. 713. - La durata del corso e' di tre anni.   
+L'ammissione alla scuola e' consentita ai laureati in medicina e chirurgia. Il consiglio della scuola puo' decidere inoltre l'ammissione di laureati in altre materie scientifiche.   
+Art. 714. - Gli insegnamenti costitutivi della scuola sono i seguenti:   
+1° Anno:   
+1) Biologia generale;   
+2) Patologia generale;   
+3) Chimica biologica;   
+4) Genetica generale;   
+5) Genetica statistica.   
+2° Anno:   
+1) Biologia molecolare;   
+2) Genetica umana;   
+3) Farmacogenetica;   
+4) Genetica clinica I;   
+5) Laboratorio di genetica clinica I.   
+3° Anno:   
+1) Citogenetica;   
+2) Eugenetica;   
+3) Genetica clinica II;   
+4) Laboratorio di genetica clinica II.   
+I corsi saranno integrati da esercitazioni pratiche.   
+Art. 715. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.   
+Art. 716. - Il numero degli iscritti e' stabilito in centocinquanta (150) per i tre anni di corso.   
+Art. 717. - Gli esami di diploma verranno sostenuti secondo le norme fissate dall'art. 463 dello statuto dell'Universita' di Roma.   
+A coloro che avranno superato l'esame di diploma verra' rilasciato il diploma di specialista in genetica medica.   
+  
+Scuola di specializzazione in gerontologia e geriatria   
+  
+Art. 718. - La scuola di specializzazione in gerontologia e geriatria conferisce il diploma di specialista in gerontologia e geriatria.   
+La scuola ha la durata di tre anni.   
+Art. 719. - Alla scuola sono ammessi i laureati in medicina e chirurgia per un numero complessivo di ventiquattro (24) allievi ripartiti in otto (8) per ogni anno.   
+L'ammissione alla scuola e' per esame.   
+Art. 720. - Le materie d'insegnamento sono:   
+1° Anno:   
+1) Biologia della senescenza (annuale);   
+2) Fisiopatologia della senescenza (biennale I);   
+3) Semeiologia della senescenza (biennale I);   
+4) Anatomia patologica (biennale I);   
+5) Farmacologia e farmacoterapia (annuale).   
+2° Anno:   
+1) Fisiopatologia della senescenza (biennale II);   
+2) Semeiologia della senescenza (biennale II);   
+3) Anatomia patologica (biennale II);   
+4) Clinica geriatrica e terapia (biennale I);   
+5) Chirurgia geriatrica (annuale);   
+6) Radiologia e radioterapia (annuale);   
+7) Neurologia (annuale).   
+3° Anno:   
+1) Clinica geriatrica e terapia (biennale II);   
+2) Tecniche di riabilitazione (annuale);   
+3) Psichiatria (annuale);   
+4) Medicina sociale (annuale).   
+Durante il terzo anno sono previste conferenze di aggiornamento su problemi speciali.   
+Art. 721. - Gli allievi sono tenuti a seguire le lezioni teoriche, le esercitazioni ed i turni di internato stabiliti dal direttore della scuola.   
+Alla fine di ogni anno gli allievi che abbiano ottenuto la prescritta attestazione di frequenza dovranno sostenere un esame di profitto.   
+Alla fine del triennio gli allievi dovranno presentare una dissertazione scritta e sostenere un esame di diploma.   
+  
+Scuola di specializzazione in chirurgia d'urgenza e di pronto soccorso   
+  
+Art. 722. - La scuola di specializzazione in chirurgia d'urgenza e di pronto soccorso conferisce il diploma di specialista in chirurgia d'urgenza e di pronto soccorso.   
+Gli anni necessari per il conseguimento del diploma sono quattro.   
+Art. 723. - Il numero massimo complessivo degli iscritti alla scuola e' di 15 per ogni anno di corso, per un totale di 60 (sessanta) iscritti.   
+La selezione dei candidati aspiranti all'ammissione alla scuola avverra' sulla base di titoli ed esami.   
+Art. 724. - Le materie del corso sono le seguenti:   
+1) Anatomia chirurgica;   
+2) Anestesiologia;   
+3) Chirurgia cardio-vascolare d'urgenza;   
+4) Chirurgia d'urgenza e di pronto soccorso (quadriennale);   
+5) Chirurgia generale (quadriennale);   
+6) Chirurgia ginecologica d'urgenza;   
+7) Chirurgia plastica e riparatrice (biennale);   
+8) Chirurgia pediatrica d'urgenza;   
+9) Chirurgia toracica d'urgenza;   
+10) Chirurgia urologica d'urgenza;   
+11) Fisiopatologia del politraumatizzato;   
+12) Neurotraumatologia (biennale);   
+13) Radiologia;   
+14) Rianimazione;   
+15) Ricerche di laboratorio in chirurgia d'urgenza;   
+16) Semeiotica chirurgica;   
+17) Trattamento del politraumatizzato;   
+18) Trattamento pre e post-operatorio in chirurgia;   
+19) Traumatologia dell'apparato locomotore (biennale);   
+20) Traumatologia maxillo-facciale;   
+21) Valutazione medico-legale delle lesioni chirurgiche.   
+Art. 725. - Le materie sopra elencate sono cosi' distribuite:   
+1° Anno:   
+1) Chirurgia d'urgenza e di pronto soccorso (quadriennale) (I);  
+2) Chirurgia generale (quadriennale) (I);   
+3) Traumatologia dell'apparato locomotore (biennale) (I);   
+4) Anestesiologia;   
+5) Ricerche di laboratorio in chirurgia d'urgenza;   
+6) Semeiotica chirurgica;   
+7) Radiologia;   
+8) Traumatologia maxillo-facciale.   
+2° Anno:   
+1) Chirurgia d'urgenza e di pronto soccorso (quadriennale) (II);   
+2) Chirurgia generale (quadriennale) (II);   
+3) Traumatologia dell'apparato locomotore (biennale) (II);   
+4) Chirurgia plastica-riparatrice (biennale) (I);   
+5) Anatomia chirurgica;   
+6) Trattamento pre e post-operatorio in chirurgia d'urgenza;   
+7) Chirurgia ginecologica d'urgenza;   
+8) Chirurgia urologica d'urgenza.   
+3° Anno:   
+1) Chirurgia d'urgenza e di pronto soccorso (quadriennale) (III);   
+2) Chirurgia generale (quadriennale) (III);   
+3) Neurotraumatologia (biennale) (I);   
+4) Chirurgia plastico-riparatrice (biennale) (II);   
+5) Valutazione medico-legale delle lesioni chirurgiche;   
+6) Chirurgia toracica d'urgenza;   
+7) Chirurgia cardio-vascolare d'urgenza;   
+8) Chirurgia pediatrica d'urgenza.   
+4° Anno:   
+1) Chirurgia d'urgenza e di pronto soccorso (quadriennale) (IV);   
+2) Chirurgia generale (quadriennale) (IV);   
+3) Neurotraumatologia (biennale) (II);   
+4) Fisiopatologia del politraumatizzato;   
+5) Trattamento del politraumatizzato;   
+6) Rianimazione.   
+Art. 726. - Per le materie ad insegnamento pluriennale gli esami di profitto devono essere sostenuti al termine dei relativi corsi.   
+Art. 727. - La frequenza alle lezioni ed alle esercitazioni e' obbligatoria per tutti gli iscritti.   
+L'internato e' obbligatorio durante tutti i quattro anni del corso, che si svolgera' presso l'istituto di chirurgia d'urgenza e di pronto soccorso sotto forma di permanenza costante in tale istituto durante le ore della sua attivita', con presenza giornaliera nei vari reparti.   
+Dall'obbligo di tale internato saranno esentati quegli allievi che, in qualita' di assistenti o di aiuti, prestino effettivamente servizio presso reparti di chirurgia di urgenza e di pronto soccorso delle universita' e di ospedali di 1a e 2ª categoria.   
+Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico dell'operosita' scolastica degli allievi, con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno.   
+L'allievo che non abbia ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali.   
+Art. 728. - Alla fine del corso l'allievo, inoltre, dovra' sostenere un esame generale di profitto.   
+  
+Scuola di specializzazione in neurologia   
+(2ª Scuola)   
+  
+Art. 729. - La seconda scuola di specializzazione in neurologia ha sede presso l'istituto di clinica delle malattie nervose e mentali II ed ha lo scopo di conferire adeguata competenza teorica e pratica ai laureati in medicina e chirurgia che intendono conseguire il diploma di specializzazione in neurologia.   
+Il corso degli studi ha la durata di 4 anni.   
+Il numero massimo di iscritti e' fissato a 18 (diciotto) per i complessivi quattro anni di corso. Sono esclusi da detto computo gli specializzandi "fuori corso".   
+L'ammissione al corso avviene per titoli ed esami;   
+per i gia' specialisti in psichiatria e neuropsichiatria infantile e neurochirurgia potra' esservi abbuono di due anni e per gli specialisti in altre materie affini (medicina interna, otorinolaringoiatria, oculistica, radiologia) di un anno.   
+Tutti gli abbuoni di cui sopra sono concessi a giudizio del direttore della scuola e dopo il superamento di un esame di ammissione da parte del candidato.   
+Art. 730. - Le materie di insegnamento sono:   
+1) Anatomia e istologia del sistema nervoso;   
+2) Fisiologia del sistema nervoso;   
+3) Biochimica del sistema nervoso;   
+4) Elementi di genetica;   
+5) Psicopatologia;   
+6) Semeiotica psichiatrica;   
+7) Psicologia generale.   
+2° Anno:   
+1) Anatomia e istologia patologica del sistema nervoso;   
+2) Semeiotica neurologica;   
+3) Patologia speciale e diagnostica neurologica (I);   
+4) Neuroradiologia;   
+5) Endocrinologia e neurologia vegetativa.   
+3° Anno:   
+1) Patologia speciale e diagnostica neurologica (II);   
+2) Clinica neurologica (I);   
+3) Elettroencefalografia;   
+4) Elettromiografia, elettrodiagnostica ed elettroterapia;   
+5) Neuro-oftalmologia;   
+6) Neuro-otologia;   
+7) Esami di laboratorio.   
+4° Anno:   
+1) Clinica neurologica e terapia (II);   
+2) Neurochirurgia;   
+3) Teoria e clinica della riabilitazione;   
+4) Neuro-traumatologia anche sotto l'aspetto della medicina legale;   
+5) Neurologia in rapporto alla patologia internistica.   
+Tutte le discipline vengono svolte sotto forma di lezioni, dimostrazioni pratiche, illustrazioni di casi clinici, a seconda delle esigenze didattiche delle discipline stesse.   
+Art. 731. - Gli iscritti hanno l'obbligo di frequentare assiduamente per tutti e quattro gli anni i corsi e prestare quotidianamente servizio nei reparti psichiatrici dell'istituto di clinica delle malattie nervose e mentali II per il 1° anno, nei reparti neurologici dello stesso istituto per il 2°, 3°, 4° anno, con diritto ad un mese di vacanza all'anno.   
+Per i medici che prestano servizio regolare in reparti neurologici di altri ospedali la frequenza nei reparti neurologici della clinica delle malattie nervose e mentali II potra' essere ridotta di non piu' di sei mesi allo anno, per quelli che prestano servizio in ospedali psichiatrici potra' essere di non piu' di quattro mesi.   
+Per il passaggio agli anni successivi e' obbligatorio il superamento di un esame finale per ogni singolo anno.   
+Art. 732. - Alla fine dei quattro anni gli allievi che hanno frequentato i corsi saranno ammessi allo esame di diploma consistente nella presentazione e discussione di una tesi scritta di argomento pertinente alla neurologia.   
+Agli allievi che avranno ottenuto l'approvazione nello esame di diploma verra' rilasciato il diploma di specializzazione in neurologia valido a tutti gli effetti di legge.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 dicembre 1980
+### Dato a Roma, addi' 17 ottobre 1972
 
-PERTINI BODRATO
+LEONE SCALFARO
 
-Visto, il Guardasigilli: SARTI
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 30 luglio 1981
+Registrato alla Corte dei conti, addi' 27 febbraio 1973
 
-Registro n. 73 Istruzione, foglio n. 253
+Atti di Governo, registro n. 256, foglio n. 39. - VALENTINI

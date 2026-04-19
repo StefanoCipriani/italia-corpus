@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 gennaio 1976 n. 73
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1975 n. 579
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 gennaio 1976 n. 73
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1975 n. 579
+================================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un'eredita'.
 ----------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-73. Decreto del Presidente della Repubblica 30 gennaio 1976, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla signora Valera Maria Pierina in favore dell'Opera mutilatini don Gnocchi, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi" come ha fatto presente la fondazione medesima, con testamento olografo 25 gennaio 1973 pubblicato a rogito dott. Mario Donati, notaio in Clusone (Bergamo), in data 31 luglio 1973, n. 16331 di repertorio, n. 5612 di raccolta, registrato a Clusone il 9 agosto 1973 con il n. 516, vol. 111-I, consistente in un fabbricato sito in Milano, via Chiesa Rossa n. 31, con annessi mq 70 di terreno del valore presunto di lire 5.000.000, censito al mappale n. 903, gg. 13 sub 1/2, di mq A 114.  
+579. Decreto del Presidente della Repubblica 29 settembre 1975, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, un'eredita' consistente nella quota dell'1,5% dell'asse ereditario, per un valore di L. 1.500.000, disposta dal sig. Giovanni Chiari, con testamento olografo 1 gennaio 1970, pubblicato in data 28 luglio 1971, n. 4510 di repertorio e n. 1302 di raccolta, a rogito dott. Antonio Mosca notaio in Castelfiorentino (Firenze), e registrato a Castelfiorentino in data 30 luglio 1971, al n. 781, vol. 90.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 13 marzo 1976  
-Atti di Governo, registro n. 4, foglio n. 12
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 26 novembre 1975  
+Atti di Governo, registro n. 14, foglio n. 44

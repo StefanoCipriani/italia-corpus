@@ -1,211 +1,77 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 655
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1949 n. 1028
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 655
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1949 n. 1028
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Dopo l'art. 159 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione della "Scuola di preparazione per tecnici di audiometria" (Scuola diretta a fini speciali).
-
-Scuola di preparazione per tecnici di audiometria
-
-(Scuola diretta a fini speciali)
-
-Art. 160. - E' istituita ai sensi dell'art. 20 del testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), una scuola speciale di preparazione per tecnici di audiometria che ha sede presso la clinica otorinolaringoiatrica della universita'.
-
-Art. 161. - La durata del corso degli studi della scuola di preparazione per tecnici di audiometria e' di due anni. L'indirizzo e' teorico-pratico. Il numero massimo complessivo degli iscritti alla scuola e' di dieci (cinque per anno di corso).
-
-Art. 162. - Possono essere ammessi alla scuola coloro che siano in possesso del titolo di studio prescritto per l'ammissione all'universita' o istituto di istruzione universitaria.
-
-Gli aspiranti debbono, nei termini regolamentari, presentare apposita domanda su carta legale diretta al rettore e corredata dei prescritti documenti e sostenere un esame di ammissione che avra' luogo nei giorni stabiliti dal rettore con apposito manifesto.
-
-Le domande di iscrizione ad anni successivi al primo vanno presentate nei termini regolamentari.
-
-Art. 163. - Alla scuola si accede previo esame di cultura generale su argomenti facenti parte dei normali programmi dei licei o degli istituti di istruzione secondaria, con particolare riguardo alla parte dell'insegnamento di fisica acustica. La commissione giudicatrice viene nominata dal preside della facolta' di medicina e chirurgia ed e' composta dal direttore della scuola, presidente, e da due membri scelti fra professori di ruolo, incaricati e liberi docenti.
-
-Art. 164. - Il direttore della scuola e' il titolare della cattedra di clinica otorinolaringoiatrica dell'Universita' di Ferrara.
-
-Gli incarichi di insegnamento sono conferiti dal rettore, su proposta del consiglio di facolta' di medicina e chirurgia udito il direttore della scuola.
-
-Art. 165. - L'anno accademico ha inizio e termine nelle date stabilite dalle leggi in vigore per la istruzione universitaria.
-
-La data di inizio e termine delle lezioni sono di regola eguali a quelle fissate per l'anno accademico. Tali date, tuttavia, possono essere spostate per ragioni speciali inerenti la natura dei corsi.
-
-Art. 166. - Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-Anatomia e fisiologia dell'orecchio, delle vie e dei centri acustici;
-
-Elementi di fisica acustica;
-
-Tecniche audiometriche.
-
-2° Anno:
-
-Patologia dell'udito, del linguaggio e dell'organo dell'equilibrio;
-
-Elementi di otoneurologia;
-
-Elementi di foniatria;
-
-Tecniche audiometriche.
-
-Art. 167. - L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni e dall'obbligo per gli allievi dell'internato per un periodo di due anni nel reparto di audiologia della clinica otorinolaringoiatrica.
-
-La frequenza viene comprovata dalla attestazione rilasciata dagli insegnanti sul libretto di iscrizione.
-
-L'attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.
-
-Art. 168. - Le commissioni per gli esami di profitto e di diploma sono nominate dal preside della facolta' di medicina e chirurgia, su proposta del direttore della scuola.
-
-Le commissioni per gli esami di profitto sono composte di tre membri: il direttore della scuola, presidente, e da due insegnanti della scuola stessa.
-
-La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente, e da quattro insegnanti della scuola stessa o da altri docenti.
-
-Ogni commissario ha a sua disposizione dieci punti.
-
-Gli esami di profitto, che consistono in prove teoriche e pratiche, si sostengono in unico gruppo di materie per ciascun anno di corso.
-
-L'esame di diploma consiste nella discussione di una tesi scritta su un argomento riguardante le materie di insegnamento, approvata dal direttore della scuola ed in una prova pratica stabilita dalla commissione esaminatrice.
-
-I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola ma, se al secondo anno non sia loro riconosciuta la idoneita', saranno senz'altro esclusi da ulteriori prove.
-
-Agli allievi che avranno superato l'esame finale verra' rilasciato il diploma di tecnico in audiometria.
-
-Art. 169. - Per essere ammessi a frequentare il secondo anno di corso gli iscritti debbono aver superato gli esami del primo anno.
-
-Alla fine del secondo anno di corso, per essere ammessi all'esame di diploma, gli iscritti debbono aver superato tutti gli esami prescritti.
-
-Art. 170. - Gli esami di profitto e di diploma si danno in due sessioni, la prima, estiva, ha inizio subito dopo la chiusura annuale dei corsi e la seconda, autunnale, un mese innanzi il principio del nuovo anno accademico.
-
-Art. 171. - Il consiglio di amministrazione della universita', su proposta della direzione della scuola, approvata dal consiglio di facolta', stabilira' di anno in anno l'ammontare dei contributi.
-
-Le tasse e soprattasse annuali a carico degli iscritti restano cosi' destinate:
-
-Tassa annuale d'iscrizione . . . . . . . . . . . . . L. 10.000 Soprattassa annuale di esami . . . . . . . . . . . . " 5.000 Tassa erariale di diploma. . . . . . . . . . . . . . " 6.000 Tassa annuale di iscrizione per studenti fuori corso " 3.000
-
-Art. 172. - Al funzionamento della suddetta scuola si provvedera' con il provento delle tasse, soprattasse e contributi dovuti dagli iscritti e con eventuali elargizioni o contributi di enti pubblici o di privati.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 22 settembre 1972
-
-LEONE
-
-SCALFARO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 8 novembre 1972 Atti del Governo, registro n. 253, foglio n. 5. - CARUSO
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [regio decreto 12 ottobre 1927, n. 2255](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-12;2255), e modificato con i [regi decreti 15 novembre 1928, n. 2606](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-11-15;2606); [31 dicembre 1929, n. 2400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-12-31;2400); [1 ottobre 1932, n. 1372](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-10-01;1372); [27 ottobre 1932, n. 2062](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-10-27;2062); [27 dicembre 1934, n. 2448](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-12-27;2448); [27 ottobre 1936, n. 2457](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-27;2457); [27 marzo 1939, n. 1296](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-03-27;1296); [9 maggio 1939, n. 1469](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-09;1469); [26 ottobre 1940, n. 2065](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2065); [27 aprile 1942, n. 470](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-04-27;470); [5 settembre 1942, n. 1266](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-09-05;1266);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652);  
+Vedute le proposte di modifica allo statuto formulante dalle autorita' accademiche della predetta Universita';  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Dopo l'art. 56 vengono aggiunti i seguenti nuovi articoli col conseguente spostamento della numerazione degli articoli successivi.  
   
-Dopo l'art. 159 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione della "Scuola di preparazione per tecnici di audiometria" (Scuola diretta a fini speciali).   
+SEZIONE V. - Scuola di perfezionamento  
+per la produzione dello zucchero e dell'alcool.  
   
-Scuola di preparazione per tecnici di audiometria   
-(Scuola diretta a fini speciali)   
-  
-Art. 160. - E' istituita ai sensi dell'art. 20 del testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), una scuola speciale di preparazione per tecnici di audiometria che ha sede presso la clinica otorinolaringoiatrica della universita'.   
-Art. 161. - La durata del corso degli studi della scuola di preparazione per tecnici di audiometria e' di due anni. L'indirizzo e' teorico-pratico. Il numero massimo complessivo degli iscritti alla scuola e' di dieci (cinque per anno di corso).   
-Art. 162. - Possono essere ammessi alla scuola coloro che siano in possesso del titolo di studio prescritto per l'ammissione all'universita' o istituto di istruzione universitaria.   
-Gli aspiranti debbono, nei termini regolamentari, presentare apposita domanda su carta legale diretta al rettore e corredata dei prescritti documenti e sostenere un esame di ammissione che avra' luogo nei giorni stabiliti dal rettore con apposito manifesto.   
-Le domande di iscrizione ad anni successivi al primo vanno presentate nei termini regolamentari.   
-Art. 163. - Alla scuola si accede previo esame di cultura generale su argomenti facenti parte dei normali programmi dei licei o degli istituti di istruzione secondaria, con particolare riguardo alla parte dell'insegnamento di fisica acustica. La commissione giudicatrice viene nominata dal preside della facolta' di medicina e chirurgia ed e' composta dal direttore della scuola, presidente, e da due membri scelti fra professori di ruolo, incaricati e liberi docenti.   
-Art. 164. - Il direttore della scuola e' il titolare della cattedra di clinica otorinolaringoiatrica dell'Universita' di Ferrara.   
-Gli incarichi di insegnamento sono conferiti dal rettore, su proposta del consiglio di facolta' di medicina e chirurgia udito il direttore della scuola.   
-Art. 165. - L'anno accademico ha inizio e termine nelle date stabilite dalle leggi in vigore per la istruzione universitaria.   
-La data di inizio e termine delle lezioni sono di regola eguali a quelle fissate per l'anno accademico. Tali date, tuttavia, possono essere spostate per ragioni speciali inerenti la natura dei corsi.   
-Art. 166. - Le materie di insegnamento sono le seguenti:   
-  
-1° Anno:   
-Anatomia e fisiologia dell'orecchio, delle vie e dei centri acustici;   
-Elementi di fisica acustica;   
-Tecniche audiometriche.   
-  
-2° Anno:   
-Patologia dell'udito, del linguaggio e dell'organo dell'equilibrio;   
-Elementi di otoneurologia;   
-Elementi di foniatria;   
-Tecniche audiometriche.   
-  
-Art. 167. - L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni e dall'obbligo per gli allievi dell'internato per un periodo di due anni nel reparto di audiologia della clinica otorinolaringoiatrica.   
-La frequenza viene comprovata dalla attestazione rilasciata dagli insegnanti sul libretto di iscrizione.   
-L'attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.   
-Art. 168. - Le commissioni per gli esami di profitto e di diploma sono nominate dal preside della facolta' di medicina e chirurgia, su proposta del direttore della scuola.   
-Le commissioni per gli esami di profitto sono composte di tre membri: il direttore della scuola, presidente, e da due insegnanti della scuola stessa.   
-La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente, e da quattro insegnanti della scuola stessa o da altri docenti.   
-Ogni commissario ha a sua disposizione dieci punti.   
-Gli esami di profitto, che consistono in prove teoriche e pratiche, si sostengono in unico gruppo di materie per ciascun anno di corso.   
-L'esame di diploma consiste nella discussione di una tesi scritta su un argomento riguardante le materie di insegnamento, approvata dal direttore della scuola ed in una prova pratica stabilita dalla commissione esaminatrice.   
-I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola ma, se al secondo anno non sia loro riconosciuta la idoneita', saranno senz'altro esclusi da ulteriori prove.   
-Agli allievi che avranno superato l'esame finale verra' rilasciato il diploma di tecnico in audiometria.   
-Art. 169. - Per essere ammessi a frequentare il secondo anno di corso gli iscritti debbono aver superato gli esami del primo anno.   
-Alla fine del secondo anno di corso, per essere ammessi all'esame di diploma, gli iscritti debbono aver superato tutti gli esami prescritti.   
-Art. 170. - Gli esami di profitto e di diploma si danno in due sessioni, la prima, estiva, ha inizio subito dopo la chiusura annuale dei corsi e la seconda, autunnale, un mese innanzi il principio del nuovo anno accademico.   
-Art. 171. - Il consiglio di amministrazione della universita', su proposta della direzione della scuola, approvata dal consiglio di facolta', stabilira' di anno in anno l'ammontare dei contributi.   
-Le tasse e soprattasse annuali a carico degli iscritti restano cosi' destinate:   
-  
-  
-Tassa annuale d'iscrizione . . . . . . . . . . . . . L. 10.000 Soprattassa annuale di esami . . . . . . . . . . . . " 5.000 Tassa erariale di diploma. . . . . . . . . . . . . . " 6.000 Tassa annuale di iscrizione per studenti fuori corso " 3.000   
-  
-  
-Art. 172. - Al funzionamento della suddetta scuola si provvedera' con il provento delle tasse, soprattasse e contributi dovuti dagli iscritti e con eventuali elargizioni o contributi di enti pubblici o di privati.   
+Art. 57. - E' istituita presso la Facolta' di scienze matematiche, fisiche e naturali una scuola di perfezionamento per l'industria dello zucchero e dell'alcool intitolata al nome di "Serafino Cevasco".  
+Art. 58. - La scuola ha la sua sede presso l'Universita' degli studi di Ferrara. Essa ha per scopo di impartire lezioni ed esercitazioni pratiche al fine del perfezionamento teorico-pratico nella tecnologia dello zucchero e dell'alcool.  
+Art. 59. - La scuola conferisce un diploma di perfezionamento nella tecnologia dello zucchero e dell'alcool.  
+Art. 60. - Il Consiglio della scuola e' composto da tutti gli insegnanti che la costituiscono ed e' presieduta dal direttore.  
+Il direttore della scuola e' nominato dal rettore su designazione del Consiglio della Facolta' di scienze matematiche, fisiche e naturali tra i professori di ruolo della Facolta' stessa.  
+Art. 61. - La scuola di perfezionamento impartisce i seguenti insegnamenti:  
+1) anatomia e fisiologia della bietola;  
+2) agronomia;  
+3) difesa antiparassitaria della bietola;  
+4) chimica agraria;  
+5) chimica degli zuccheri;  
+6) principi e metodi di misure chimico-fisiche, in zuccherificio con esercitazioni;  
+7) chimica delle fermentazioni;  
+8) microbiologia industriale;  
+9) tecnologia ed impianti dell'industria saccarifera;  
+10) teoria e pratica della depurazione dei sughi;  
+11) teoria e pratica della diffusione;  
+12) teoria e pratica della concentrazione e coltura dei sughi e sciroppi;  
+13) controllo della lavorazione;  
+14) chimica analitica di zuccherificio con esercitazioni.  
+Oltre ai predetti corsi possono essere tenute conferenze di aggiornamento nel campo dell'industria saccarifera.  
+Art. 62. - La durata degli studi del corso di perfezionamento e' di un anno.  
+Alla scuola possono essere ammessi i laureati in:  
+1) chimica;  
+2) chimica industriale;  
+3) ingegneria;  
+4) scienze agrarie.  
+Art. 63. - Il numero massimo degli allievi ammessi alla scuola per ogni anno e' di venti.  
+Art. 64. - I candidati all'ammissione alla scuola verranno scelti in base ad un concorso per titoli da valutarsi a giudizio insindacabile del Consiglio della scuola.  
+Art. 65. - Gli iscritti ai corsi sono tenuti alla frequenza ai corsi di lezione e di esercitazione. La frequenza e' comprovata dall'attestazione rilasciata dai professori sul libretto di iscrizione.  
+L'attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.  
+Art. 66. - Le lezioni e le esercitazioni sono tenute nei locali della Universita' e presso il laboratorio sperimentale della Societa' produttori zucchero di Ferrara.  
+Art. 67. - Gli iscritti ad corso sono tenuti al pagamento di una tassa di iscrizione e di una sopratassa di esami e di diploma nonche' di un contributo per le esercitazioni di laboratorio, il cui ammontare sara' fissato dal Consiglio di amministrazione dell'Universita' su proposta del Consiglio direttivo della scuola.  
+Art. 68. - Le spese relative al funzionamento della predetta scuola saranno a carico del bilancio ordinario dell'Universita' di Ferrara.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 settembre 1972
+### Dato a Dogliani, addi' 30 ottobre 1949
 
-LEONE SCALFARO
+EINAUDI GONELLA
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: GRASSI
 
-Registrato alla Corte dei conti, addi' 8 novembre 1972
+Registrato alla Corte dei conti, addi' 17 gennaio 1950
 
-Atti del Governo, registro n. 253, foglio n. 5. - CARUSO
+Atti del Governo, registro n. 31, foglio n. 40. - FRASCA

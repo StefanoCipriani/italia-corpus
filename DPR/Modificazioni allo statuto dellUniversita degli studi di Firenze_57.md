@@ -1,71 +1,68 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1081
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1010
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1081
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1010
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Veduto l'[art. 16 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art16);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Firenze e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Sulla
+-----
+
+proposta del Ministro della pubblica istruzione; Decreta:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230) e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Lo statuto dell'Universita' di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Decreta:  
+Art. 265 - l'ultimo comma e' sostituito dal seguente:  
+Per essere ammessi a frequentare il primo anno di ciascuna scuola di specializzazione occorre aver superato dinanzi ad una commissione di tre membri, presieduta dal direttore della scuola, un concorso per titoli ed esame (che potra' consistere in prove scritte e/o orali, a scelta del direttore) diretto ad accertare la cultura medico-chirurgica del candidato.  
   
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 267 - e' sostituito dal seguente:  
+Non sono consentite abbreviazioni di corso.  
   
-Art. 78. - All'elenco degli insegnamenti complementari del corso di laurea in matematica vengono aggiunti i seguenti:  
+Art. 269 - il primo comma e' sostituito dal seguente:  
+Al termine di ogni anno di corso l'iscritto dovra' sostenere gli esami speciali prescritti dal regolamento della scuola dinanzi ad una commissione di almeno tre membri. In caso di mancato superamento degli esami non puo' aversi l'iscrizione all'anno successivo.  
   
-Analisi numerica per l'indirizzo generale gruppo A;  
-Didattica della matematica e - Psicopedagogia per l'indirizzo didattico - gruppo A;  
-Analisi numerica per l'indirizzo applicativo gruppo A.  
-  
-Art. 80. - All'elenco degli insegnamenti complementari del corso di laurea in scienze naturali e' aggiunto quello di:  
-  
-Etologia.  
-  
-Art. 81, relativo alla propedeuticita' di alcuni esami del corso di laurea in scienze naturali e' abrogato e sostituito dal seguente:  
-"Lo studente non puo' presentarsi agli esami di "Mineralogia e di chimica organica se non ha superato l'esame di chimica generale ed inorganica; all'esame di chimica biologica se non ha superato l'esame di chimica organica".  
-Art. 83, relativo alle propedeuticita' di alcuni esami del corso di laurea in scienze biologiche e' abrogato e sostituito dal seguente:  
-"Lo studente non puo' presentarsi all'esame di chimica organica se non ha superato l'esame di chimica generale ed inorganica; all'esame di statistica se non ha superato l'esame di istituzioni di matematiche; all'esame di chimica biologica se non ha superato l'esame di chimica organica".  
-Art. 84. - Nell'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche vengono soppressi gli insegnamenti di Antropologia e di "Biologia umana".  
-Nello stesso elenco viene aggiunto l'insegnamento di:  
-  
-Paleoecologia.  
-  
-Nello stesso articolo viene soppresso il primo comma successivo all'elenco degli insegnamenti complementari e sostituito dal seguente:  
-  
-Per ciascuno degli insegnamenti di "Fisica sperimentale" e di "Analisi matematica" lo studente dovra' sostenere due esami distinti.  
-Art. 85, relativo alla propedeuticita' di alcuni esami del corso di laurea di scienze geologiche viene abrogato e sostituito dal seguente:  
-"Lo studente non puo' presentarsi all'esame di mineralogia se non ha superato l'esame di chimica generale ed inorganica; all'esame di geologia applicata se non ha superato l'esame di geologia; all'esame di fisica terrestre se non ha superato l'esame di fisica sperimentale".  
-Art. 89, relativo alle modalita' degli esami di laurea della facolta' di scienze matematiche, fisiche e naturali viene abrogato e sostituito dal seguente:  
-  
-Per i corsi di laurea in scienze naturali, scienze biologiche e scienze geologiche l'esame di laurea consiste nella discussione di una dissertazione scritta riguardante ricerche ed esperienze originali.  
-Inoltre il candidato deve sostenere una prova di cultura.  
-Per gli studenti iscritti ai corsi per la laurea in chimica, in fisica e in matematica si applicano le norme stabilite rispettivamente agli articoli 73, 77, 78.  
+Art. 271 - il primo comma e' sostituito dal seguente:  
+La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1972
+### Dato a Roma, addi' 31 ottobre 1981
 
-LEONE SCALFARO
+PERTINI BODRATO
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 12 marzo 1973
+Registrato alla Corte dei conti, addi' 22 febbraio 1982
 
-Atti di Governo, registro n. 256, foglio n. 64. - VALENTINI
+Registro n. 28 Istruzione, foglio n. 88

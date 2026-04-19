@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1982 n. 104
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 agosto 1975 n. 535
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1982 n. 104
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 agosto 1975 n. 535
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-104. Decreto del Presidente della Repubblica 8 febbraio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in un piccolo locale sito in Genova, vico Superiore del Ferro n. 11/ R, distinto nel nuovo catasto edilizio urbano alla partita n. 28047, foglio 95, mappale 216 sub 5, del valore attribuito di L. 1.800.000, ritenuto congruo dall'ufficio tecnico erariale di Genova, disposto dalla sig.ra Morra Annetta ved. Maggiorotto a favore dei Mutilatini di don Gnocchi, in Genova, con testamento olografo 5 aprile 1976, pubblicato a rogito dott. Pinca Sergio, notaio in Asti, in data 14 febbraio 1977, n. 62208/7899 di repertorio registrato ad Asti il 4 marzo 1977 al n. 1187.  
+535. Decreto del Presidente della Repubblica 11 agosto 1975, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato consistente nella somma di lire 3.000.000 disposto dal sig. Ennio Brandini in favore della fondazione stessa, collegio di Parma, con testamento olografo 29 dicembre 1971, pubblicato a rogito del notaio dott. Giovanni Bergonza in data 31 ottobre 1972, n. 50401 di repertorio, n. 1226 di raccolta, registrato a Parma il 20 novembre 1972 con il n. 4314, vol. 425.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 20 marzo 1982  
-Registro n. 3 Presidenza, foglio n. 52
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 29 ottobre 1975  
+Atti di Governo, registro n. 13, foglio n. 43

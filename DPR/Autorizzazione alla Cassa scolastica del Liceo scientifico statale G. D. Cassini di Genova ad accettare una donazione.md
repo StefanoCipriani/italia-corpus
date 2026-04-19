@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 giugno 1955 n. 869
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1955 n. 325
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 giugno 1955 n. 869
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1955 n. 325
+===============================================================
 
 Autorizzazione alla Cassa scolastica del Liceo scientifico statale "G. D. Cassini" di Genova ad accettare una donazione.
 ------------------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-869. Decreto del Presidente della Repubblica 26 giugno 1955, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica del Liceo scientifico statale "G. D. Cassini" di Genova, viene autorizzata ad accettare la donazione di L. 100.000 (centomila) nominali in titoli di Stato, allo scopo di istituire, col relativo reddito, un premio di studio annuo intitolato al "Prof. Severino Filippon".  
+325. Decreto del Presidente della Repubblica 16 febbraio 1955; col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica del Liceo scientifico statale "G. D. Cassini" di Genova viene autorizzata ad accettare la donazione di L. 200.000 (duecentomila) nominali, fatta da colleghi, amici ed alunni del prof. Gian Battista Gonella, allo scopo di istituire, col relativo reddito, un premio di studio annuo intitolato "Prof. Gian Battista Gonella".  
   
-Visto, il Guardasigilli: MORO  
-Registrato alla Corte dei conti, addi' 27 settembre 1955  
-Atti del Governo, registro n. 92, foglio n. 202. - CARLOMAGNO
+Visto, il Guardasigilli: DE PIETRO  
+Registrato alla Corte dei conti, addi' 30 aprile 1955  
+Atti del Governo, registro n. 90, foglio n. 101. - CARLOMAGNO

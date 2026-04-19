@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 luglio 1971 n. 1314
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1968 n. 911
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 luglio 1971 n. 1314
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1968 n. 911
+=============================================================
 
 Modificazioni allo statuto dell'Istituto autonomo per le case popolari della provincia di Ancona.
 -------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1314. Decreto del Presidente della Repubblica 8 luglio 1971, col quale, sulla proposta del Ministro per i lavori pubblici, vengono approvate le modifiche agli articoli 9, 18, 19 e 23 dello statuto dell'Istituto autonomo per le case popolari della provincia di Ancona.  
+911. Decreto del Presidente della Repubblica 1 giugno 1968, col quale, sulla proposta del Ministro per i lavori pubblici, viene approvata la modifica dello art. 9 dello statuto dell'Istituto autonomo per le case popolari della provincia di Ancona.  
   
-Visto, il Guardasigilli: COLOMBO  
-Registrato alla Corte dei conti, addi' 12 febbraio 1972  
-Atti del Governo, registro n. 247, foglio n. 4. - VALENTINI
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 21 agosto 1968  
+Atti del Governo, registro n. 222, foglio n. 88 - Di PRETORO

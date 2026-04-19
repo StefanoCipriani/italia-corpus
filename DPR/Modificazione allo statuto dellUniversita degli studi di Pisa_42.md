@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1982 n. 1076
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1983 n. 1089
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1982 n. 1076
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1983 n. 1089
+==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
@@ -24,9 +24,9 @@ Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http:
 
 Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata [legge n. 615/1981](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;615);
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
 
-Veduto il parere espresso al riguardo dal Consiglio universitario nazionale;
+Veduto il parere del Consiglio universitario nazionale;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
@@ -39,19 +39,24 @@ Articolo unico
 --------------
 
   
-Art. 78 - all'elenco degli insegnamenti complementari relativi al corso di laurea in medicina e chirurgia, e' aggiunto il seguente:  
-otorinolaringoiatria pediatrica.  
+  
+Nell'art. 78, relativo al corso di laurea in medicina e chirurgia, agli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:   
+epidemiologia;   
+semeiotica cardiovascolare;   
+saggi e dosaggi farmacologici;   
+malattie infettive dell'infanzia;   
+tossicologia forense.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1982
+### Dato a Roma, addi' 11 giugno 1983
 
-PERTINI BODRATO
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 31 gennaio 1983
+Registrato alla Corte dei conti, addi' 15 marzo 1984
 
-Registro n. 6 Istruzione, foglio n. 385
+Registro n. 16 Istruzione, foglio n. 172

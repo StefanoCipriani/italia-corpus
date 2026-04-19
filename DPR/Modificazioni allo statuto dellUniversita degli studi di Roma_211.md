@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1967 n. 1137
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1965 n. 1280
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1967 n. 1137
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1965 n. 1280
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
@@ -10,201 +10,112 @@ Modificazioni allo statuto dell'Universita' degli studi di Roma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734) e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, numero 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734) e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, numero 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) P successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla proposta di Ministro per la pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Dopo l'art. 115 e con il conseguente spostamento della successiva numerazione e' aggiunto il seguente nuovo articolo relativo all'istituzione del corso di laurea in chimica e tecnologie farmaceutiche annesso alla facolta' di farmacia.
+Art. 19. - All'Istituto di Diritto pubblico sono aggiunti i seguenti insegnamenti complementari previsti per il corso di laurea in Giurisprudenza:
 
-((Laurea in chimica e tecnologia farmaceutiche))
+Diritto tributario;
 
-Art. 116. - Durata del corso degli studi: cinque anni, divisi in un biennio ed un triennio.
+Diritto pubblico generale;
 
-Titolo di ammissione: diploma di maturita' classica o scientifica.
+Sociologia giuridica;
 
-Insegnamenti fondamentali
+Giustizia amministrativa.
 
-Biennio:
+Art. 56. - Agli insegnamenti complementari del corso di laurea in Lettere e' aggiunto quello di:
 
-1. Analisi chimico farmaceutica I (analisi qualitativa)
+102) Fonetica sperimentale.
 
-\* 2. Anatomia umana
+Art. 57. - Agli insegnamenti complementari del corso di laurea in Filosofia e' aggiunto quello di:
 
-\* 3. Botanica farmaceutica
+27) Fonetica sperimentale.
 
-\* 4. Chimica fisica
+Art. 58. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere (indirizzi europeo ed orientale) e' aggiunto quello di "Fonetica sperimentale".
 
-\* 5. Chimica generale ed inorganica
+Art. 63, relativo agli Istituti annessi alla Facolta' di lettere e filosofia, e' modificato nel senso che "L'istituto di studi del Medio ed Estremo oriente" cambia denominazione in quello di "Istituto di studi dell'India e dell'Asia orientale".
 
-\*\* 6. Chimica organica I
+Art. 87, relativo agli Istituti annessi alla Facolta' di scienze e matematiche, fisiche e naturali l'Istituto di disegno e' soppresso.
 
-\* 7. Fisica
-
-8. Fisiologia generale
-
-\* 9. Istituzioni di matematiche
-
-10. Microbiologia e igiene
-
-Triennio:
-
-11. Analisi chimico farmaceutica II (analisi quantitativa)
-
-12. Analisi chimico farmaceutica III (analisi dei medicamenti)
-
-\* 13. Biochimica applicata
-
-\* 14. Chimica biologica
-
-\* 15. Chimica degli alimenti
-
-\* 16. Chimica farmaceutica applicata
-
-\* 17. Chimica farmaceutica e tossicologica I
-
-\* 18. Chimica farmaceutica e tossicologica II
-
-\*\* 19. Chimica organica II
-
-\* 20. Farmacologia e farmacognosia
-
-21. Impianti dell'industria farmaceutica
-
-22. Laboratorio di preparazione estrattiva e sintetica dei
-
-farmaci
-
-23. Metodi fisici in chimica organica
-
-24. Saggi e dosaggi farmacologici
-
-\* 25. Tecnica e legislazione farmaceutica.
-
-Insegnamenti complementari
-
-\* Chimica delle fermentazioni e microbiologia industriale
-
-Chimica dei prodotti dietetici
-
-Chimica dei prodotti cosmetici
-
-Impianti per laboratori galenici
-
-Zoologia e parassitologia.
-
-Le materie segnate con un asterisco sono comuni alla laurea in farmacia; quelle segnate con due asterischi sono comuni alla laurea in chimica.
-
-Per ottenere l'iscrizione al 3° anno di corso, lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fissati per i due anni precedenti.
-
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato tutti gli esami dei corsi fondamentali e almeno due esami a scelta fra i corsi complementari.
-
-La prova di laurea comporta la discussione di una tesi sperimentale.
+Art. 239, relativo alla Scuola di perfezionamento in Sociologia e ricerca sociale e' abrogato e sostituito dal seguente: "La Scuola rilascia un diploma di perfezionamento in Sociologia e ricerca sociale".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 26 ottobre 1967
+Dato a Roma, addi' 27 ottobre 1965
 
 SARAGAT
 
 GUI
 
-Vis to, il Guardasigilli: REALE
+Visto, il Guardasigilli: REALE
 
-R egistrato alla Corte dei conti, addi' 4 dicembre 1967 A tti del Governo, registro n. 216, foglio n. 25. - GRECO
+Registrato
+----------
+
+alla Corte dei conti, addi' 20 novembre 1965 Atti del Governo, registro n. 198, foglio n. 56. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734) e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, numero 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734) e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, numero 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) P successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Sulla proposta di Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 19. - All'Istituto di Diritto pubblico sono aggiunti i seguenti insegnamenti complementari previsti per il corso di laurea in Giurisprudenza:  
   
-Dopo l'art. 115 e con il conseguente spostamento della successiva numerazione e' aggiunto il seguente nuovo articolo relativo all'istituzione del corso di laurea in chimica e tecnologie farmaceutiche annesso alla facolta' di farmacia.  
-  
-
-((Laurea in chimica e tecnologia farmaceutiche))
-
-  
-  
-Art. 116. - Durata del corso degli studi: cinque anni, divisi in un biennio ed un triennio.  
-Titolo di ammissione: diploma di maturita' classica o scientifica.  
-Insegnamenti fondamentali  
-Biennio:  
-1. Analisi chimico farmaceutica I (analisi qualitativa)  
-\* 2. Anatomia umana  
-\* 3. Botanica farmaceutica  
-\* 4. Chimica fisica  
-\* 5. Chimica generale ed inorganica  
-\*\* 6. Chimica organica I  
-\* 7. Fisica  
-8. Fisiologia generale  
-\* 9. Istituzioni di matematiche  
-10. Microbiologia e igiene  
-Triennio:  
-11. Analisi chimico farmaceutica II (analisi quantitativa)  
-12. Analisi chimico farmaceutica III (analisi dei medicamenti)  
-\* 13. Biochimica applicata  
-\* 14. Chimica biologica  
-\* 15. Chimica degli alimenti  
-\* 16. Chimica farmaceutica applicata  
-\* 17. Chimica farmaceutica e tossicologica I  
-\* 18. Chimica farmaceutica e tossicologica II  
-\*\* 19. Chimica organica II  
-\* 20. Farmacologia e farmacognosia  
-21. Impianti dell'industria farmaceutica  
-22. Laboratorio di preparazione estrattiva e sintetica dei  
-farmaci  
-23. Metodi fisici in chimica organica  
-24. Saggi e dosaggi farmacologici  
-\* 25. Tecnica e legislazione farmaceutica.  
-Insegnamenti complementari  
-\* Chimica delle fermentazioni e microbiologia industriale  
-Chimica dei prodotti dietetici  
-Chimica dei prodotti cosmetici  
-Impianti per laboratori galenici  
-Zoologia e parassitologia.  
-Le materie segnate con un asterisco sono comuni alla laurea in farmacia; quelle segnate con due asterischi sono comuni alla laurea in chimica.  
-Per ottenere l'iscrizione al 3° anno di corso, lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fissati per i due anni precedenti.  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato tutti gli esami dei corsi fondamentali e almeno due esami a scelta fra i corsi complementari.  
-La prova di laurea comporta la discussione di una tesi sperimentale.  
+Diritto tributario;  
+Diritto pubblico generale;  
+Sociologia giuridica;  
+Giustizia amministrativa.  
+Art. 56. - Agli insegnamenti complementari del corso di laurea in Lettere e' aggiunto quello di:  
+102) Fonetica sperimentale.  
+Art. 57. - Agli insegnamenti complementari del corso di laurea in Filosofia e' aggiunto quello di:  
+27) Fonetica sperimentale.  
+Art. 58. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere (indirizzi europeo ed orientale) e' aggiunto quello di "Fonetica sperimentale".  
+Art. 63, relativo agli Istituti annessi alla Facolta' di lettere e filosofia, e' modificato nel senso che "L'istituto di studi del Medio ed Estremo oriente" cambia denominazione in quello di "Istituto di studi dell'India e dell'Asia orientale".  
+Art. 87, relativo agli Istituti annessi alla Facolta' di scienze e matematiche, fisiche e naturali l'Istituto di disegno e' soppresso.  
+Art. 239, relativo alla Scuola di perfezionamento in Sociologia e ricerca sociale e' abrogato e sostituito dal seguente: "La Scuola rilascia un diploma di perfezionamento in Sociologia e ricerca sociale".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 ottobre 1967
+### Dato a Roma, addi' 27 ottobre 1965
 
-SARAGAT GUI Vis
+SARAGAT GUI
 
-to, il Guardasigilli: REALE R
+Visto, il Guardasigilli: REALE
 
-egistrato alla Corte dei conti, addi' 4 dicembre 1967 A
+Registrato alla Corte dei conti, addi' 20 novembre 1965
 
-tti del Governo, registro n. 216, foglio n. 25. - GRECO
+Atti del Governo, registro n. 198, foglio n. 56. - VILLA

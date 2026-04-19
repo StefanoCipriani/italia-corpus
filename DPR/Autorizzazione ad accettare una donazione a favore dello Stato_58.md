@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1984 n. 1190
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 marzo 1978 n. 519
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1984 n. 1190
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 marzo 1978 n. 519
+============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -10,11 +10,10 @@ Autorizzazione ad accettare una donazione a favore dello Stato.
 Art. 1
 ------
 
-DECRETO 7 giugno 1984, n. 1190.   
 N.
 
-1190. Decreto del Presidente della Repubblica 7 giugno 1984, col quale, sulla proposta del Ministro delle finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dal comune di Dumenza (Varese), con atto 18 giugno 1976, n. 19305 di repertorio, a rogito dott. Claudia Pisciotta, notaio in Luino (Varese), consistente in un appezzamento di terreno di mq 430 sito nel comune di Dumenza, su cui e' stato costruito un fabbricato adibito a posto di vigilanza della Guardia di finanza.   
+519. Decreto del Presidente della Repubblica 23 marzo 1978, col quale, sulla proposta del Ministro delle finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dal comune di Rimini con atto 18 febbraio 1976, n. 187094 di repertorio, a rogito notaio Ulisse Pizzi, di un appezzamento di terreno della superficie catastale di mq 31.189 e reale di mq 31.140, occorso per la costruzione del nuovo carcere giudiziario (casa circondariale).  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 26 ottobre 1984   
-Registro n. 59 Finanze, foglio n. 288
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 22 giugno 1978  
+Registro n. 25 Finanze, foglio n. 202

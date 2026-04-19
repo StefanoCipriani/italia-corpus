@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1986 n. 555
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 giugno 1982 n. 732
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1986 n. 555
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 giugno 1982 n. 732
 =============================================================
 
 Autorizzazione alla Lega italiana per la lotta contro i tumori, in Roma, ad accettare una eredita'.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-555. Decreto del Presidente della Repubblica 19 luglio 1986, col quale, sulla proposta del Ministro della sanita', la Lega italiana per la lotta contro i tumori, in Roma, viene autorizzata ad accettare, con beneficio d'inventario, l'eredita' consistente in titolo di Stato del valore nominale di L. 10.000.000 da devolvere in favore della sezione provinciale della Lega di Milano, per il perseguimento dei suoi fini istituzionali, disposta dalla signora Giovannina Della Volta con testamento olografo 11 maggio 1978, pubblicato in data 30 novembre 1978, n. 129447 di repertorio, a rogito dott. Domenico Moretti, notaio in Milano, registrato a Milano in data 6 dicembre 1978 al n. 17445.   
+732. Decreto del Presidente della Repubblica 17 giugno 1982, col quale, sulla proposta del Ministro della sanita', la Lega italiana per la lotta contro i tumori, in Roma, viene autorizzata ad accettare l'eredita', consistente nella somma di L. 12.257.731, oltre agli interessi maturati e maturandi dal 1 gennaio 1978, depositata presso la Cassa di risparmio di Gorizia sul conto corrente n. 256/30, disposta dal sig. Carlo Maria Verani in favore della sezione provinciale di Trieste dell'ente con testamento olografo 19 gennaio 1978, pubblicato in data 27 settembre 1978 numero 39344/2729 di repertorio, a rogito dott. Giuseppe Sardelli, notaio in Gorizia, registrato a Gorizia in data 4 ottobre 1978 al n. 2198.  
   
-Visto, il Guardasigilli: ROGNONI   
-Registrato alla Corte dei conti, addi' 10 settembre 1986   
-Registro n. 9 Sanita', foglio n. 100
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 2 ottobre 1982  
+Registro n. 6 Sanita', foglio n. 236

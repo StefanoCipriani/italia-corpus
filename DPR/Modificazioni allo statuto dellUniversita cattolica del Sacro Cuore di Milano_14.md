@@ -1,525 +1,746 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1229
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1968 n. 1155
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1229
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1968 n. 1155
+=================================================================
 
-Modificazioni allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
---------------------------------------------------------------------------------
+Modificazioni allo statuto dell'Universita' cattolica del Sacro Cuore, di Milano.
+---------------------------------------------------------------------------------
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
+Veduto lo statuto dell'Universita' cattolica "Sacro Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Gli articoli 132, 133, 134, relativi alla scuola di specializzazione in igiene e medicina preventiva, sono abrogati e sostituiti dai seguenti:
+dopo l'art. 97 e' istituito il titolo IV "Facolta' di medicina e chirurgia" e sono inseriti con il conseguente spostamento della successiva numerazione, i seguenti articoli relativi all'istituzione delle sottoelencate scuole di specializzazione.
 
-Scuola di specializzazione in igiene e medicina preventiva
+1. - Scuole di specializzazione in ematologia clinica e di laboratorio
 
-Art. 132. - La scuola di specializzazione in igiene e medicina preventiva ha sede presso l'istituto di igiene e conferisce il diploma di specialista in igiene e medicina preventiva.
+Art. 98. - La scuola di specializzazione in ematologia clinica e di laboratorio ha la durata di tre anni.
 
-La direzione della scuola e' affidata al professore di ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+L'iscrizione alla scuola e' riservata ai laureati in medicina e chirurgia, che possano essere accolti complessivamente in numero massimo di 45 per i 3 anni di corso.
 
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.
+L'ammissione alla scuola e' condizionata al superamento di una prova preliminare di cultura; qualora il numero degli aspiranti sia superiore al numero dei posti disponibili, per l'accettazione si potra' tener conto anche degli eventuali titoli.
 
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+E' consentita l'abbreviazione di un anno di corso soltanto:
 
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.
+a) a liberi docenti in una delle branche di medicina generale od in clinica pediatrica od in patologia generale od in anatomia patologica;
 
-Il numero massimo degli allievi e' complessivamente di trenta iscritti per l'intero corso di studi.
+b) ad assistenti in attivita' stabile da almeno 3 anni in istituti universitari di medicina interna o di pediatria o di patologia generale o di anatomia patologica;
 
-L'ammissione al corso avviene per titoli ed esami.
+c) a specialisti in medicina interna o in pediatria.
 
-Art. 133. - Il corso si articola in un biennio propedeutico seguito da un biennio differenziato con cinque orientamenti e precisamente:
+In ogni caso coloro che avranno ottenuto l'abbreviazione dovranno sostenere gli esami del primo anno prima di quelli del secondo.
 
-a) sanita' pubblica;
+La frequenza alle lezioni e alle esercitazioni e' obbligatoria. Il piano degli studi della scuola comprende i seguenti insegnamenti:
 
-b) igiene e tecnica ospedaliera;
+Morfologia e morfogenesi normale e patologica del sangue (biennale); Genetica ematologica (annuale); Fisiopatologia della coagulazione e dell'emostasi (annuale); Fisiopatologia ematologica (biennale); Biochimica ematologica (annuale); Fisiopatologia del plasma (annuale); Immunoematologia (annuale); Tecniche di laboratorio inerenti all'ematologia (triennale); Nozioni di radio-biologia e di medicina nucleare applicata all'ematologia (annuale);
 
-c) igiene del lavoro;
+Radiodiagnostica e radioterapia ematologica (annuale); Patologia speciale ematologica (biennale); Clinica delle emopatie (biennale);
 
-d) igiene e medicina scolastica;
+Anatomia e Istologia patologica delle emopatie e fondamenti di oncologia (annuale); Terapia sistematica ematologica (annuale);
 
-e) laboratorio.
+Terapia trasfusionale (annuale).
 
-Il piano di studi e' il seguente:
-
-I BIENNIO
+La ripartizione di detti insegnamenti fra i 3 anni di corso e' la seguente:
 
 1° Anno:
 
-metodologia statistica e biometria;
+Morfologia e morfogenesi normale e patologica del sangue (1°);
 
-educazione sanitaria;
-
-psicologia;
-
-microbiologia ed immunologia I;
-
-parassitologia;
-
-epidemiologia generale e metodologia;
-
-profilassi generale;
-
-sociologia medica ed antropologia culturale.
+Genetica ematologica; Fisiopatologia della coagulazione e dell'emostasi; Fisiopatologia ematologica (1°); Biochimica ematologica; Fisiopatologia del plasma; Tecniche di laboratorio inerenti all'ematologia (1°).
 
 2° Anno:
 
-microbiologia ed immunologia II;
+Morfologia e morfogenesi normale e patologica del sangue (2°);
 
-patologia e clinica delle malattie infettive;
-
-epidemiologia e profilassi delle malattie infettive I;
-
-patologia e clinica delle malattie non infettive di importanza sociale;
-
-epidemiologia e profilassi delle malattie non infettive di importanza sociale I;
-
-demografia e statistica sanitaria;
-
-legislazione e programmazione sanitaria.
-
-II BIENNIO
-
-a) Orientamento di sanita' pubblica
+Fisiopatologia ematologica (2°); Immunoematologia; Tecniche di laboratorio inerenti all'ematologia (2°); Patologia speciale ematologica (1°); Clinica delle emopatie (1°); Anatomia e istologia patologica delle emopatie e fondamenti di oncologia.
 
 3° Anno:
 
-epidemiologia e profilassi delle malattie infettive II;
+Tecniche di laboratorio inerenti all'ematologia (3°); Nozioni di radiobiologia e di medicina nucleare applicata all'ematologia;
 
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;
+Radiodiagnostica e radioterapia ematologica; Patologia speciale ematologica (2°); Clinica delle emopatie (2°); Terapia sistematica ematologica; Terapia trasfusionale.
 
-igiene dell'ambiente fisico e difesa ecologica;
+Il direttore della scuola, al di fuori dei docenti incaricati ufficialmente, puo' invitare studiosi competenti ad impartire lezioni e conferenze su argomenti di speciale interesse ematologico.
 
-igiene degli alimenti e della nutrizione;
+Alla fine del primo e del secondo anno gli allievi dovranno sostenere un esame teorico sulle materie del 1° corso e rispettivamente del 2° corso e una prova pratica di laboratorio. Alla fine del terzo anno gli allievi sosterranno un esame teorico sulle materie del 3° corso e una prova clinica di laboratorio.
 
-igiene dell'eta' evolutiva;
+Gli allievi non potranno essere ammessi ai corsi successivi se non avranno superato le prove prescritte per gli anni precedenti. Alla fine del terzo anno, superate le prove prescritte per il 3° corso, gli allievi dovranno sostenere un esame di diploma con dissertazione su di una tesi scritta di argomento ematologico concordato con il direttore della scuola.
 
-igiene del lavoro;
+2. - Scuola di specializzazione in malattie dell'apparato cardio-vascolare
 
-igiene ed assistenza dell'anziano.
+Art. 99. - La scuola di specializzazione in malattie dell'apparato cardiovascolare ha la durata di tre anni.
 
-4° Anno.
+Potranno essere iscritti alla scuola, previa prova di ammissione, coloro che sono in possesso della laurea in medicina e chirurgia in numero massimo di 60, per i tre anni di corso.
 
-igiene dell'edilizia e dell'aggregato urbano;
+Il piano di studi comprende i seguenti insegnamenti ripartiti nei singoli anni:
 
-igiene ospedaliera;
+1° Anno:
 
-organizzazione del territorio e programmazione sanitaria;
+Anatomia normale dell'apparato cardio-vascolare; Fisiologia dell'apparato cardiovascolare e respiratorio; Fisiopatologia cardio-vascolare e respiratoria (1°); Patologia cardiovascolare (1°);
 
-medicina di comunita';
+Semeiologia fisica (1°); Semeiologia strumentale (1°); Microbiologia (facoltativo).
 
-economia sanitaria;
+2° Anno:
 
-elementi di diritto amministrativo.
-
-b) Orientamento di igiene e tecnica ospedaliera
+Fisiopatologia cardiovascolare, respiratoria (2°); Patologia cardiovascolare (2°); Semeiologia fisica (2°); Semeiologia strumentale (2°); Anatomia patologica dell'apparato cardiovascolare (1°); Radiologia; Farmacologia; Clinica e terapia (1°).
 
 3° Anno:
 
-epidemiologia e profilassi delle malattie infettive II;
+Anatomia patologica dell'apparato cardio-vascolare (2°); Clinica e terapia (2°); Chirurgia dell'apparato cardiovascolare; Problemi assicurativi e sociali (facoltativo); Statistica (facoltativo).
 
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;
+Alla fine di ogni corso si dovra' sostenere un esame per le materie svolte durante l'anno. L'insegnamento avra' carattere eminentemente pratico, dimostrativo a mezzo di lezioni, colloqui, esercitazioni sopra a casi clinici e ricerche di laboratorio.
 
-igiene dell'ambiente fisico e difesa ecologica;
+Gli iscritti hanno l'obbligo di compiere periodi di internato secondo i turni stabiliti dalla direzione della scuola.
 
-igiene e tecnica delle costruzioni ospedaliere; arredamenti ed impianti tecnologici;
+L'esame di diploma, che si sostiene alla fine dei 3 anni di corso, puo' estendersi a tutte le materie di insegnamento vertendo in particolare sull'argomento scelto come tesi.
 
-igiene dell'alimentazione e dietetica ospedaliera;
+3. - Scuola di specializzazione in oncologia
 
-organizzazione e funzionamento degli ospedali I;
+Art. 100. - La scuola di specializzazione in oncologia ha la durata di 3 anni.
 
-elementi di diritto e legislazione ospedaliera.
+Alla scuola sono ammessi i laureati in medicina e chirurgia (con preferenza per gli specializzati in altre materie biologiche e cliniche) in numero massimo di 30 per i tre anni di corso.
+
+Qualora le domande di iscrizione fossero superiori al numero dei posti disponibili, la direzione della scuola si riserva di formare una graduatoria in base ai titoli presentati o ad esami.
+
+La frequenza ai corsi e alle esercitazioni e' obbligatoria. E' fatto anche obbligo di un periodo semestrale di internato nei vari istituti designati dal direttore della scuola. Le materie di insegnamento sono cosi' suddivise nei singoli anni:
+
+1° Anno:
+
+Etiopatogenesi oncologica; Biochimica oncologica; Anatomia ed istologia patologica dei tumori.
+
+2° Anno:
+
+Oncologia sperimentale; Epidemiologia e statistiche dei tumori.
+
+3° Anno:
+
+Diagnosi citologica e citologia dei tumori; Nozioni di diagnostica clinica e terapia dei tumori; Organizzazione della lotta contro i tumori; Clinica e terapia medica applicata all'oncologia; Clinica e terapia chirurgica applicata all'oncologia; Clinica e terapia ginecologica applicata all'oncologia.
+
+L'insegnamento avra' carattere dottrinale, dimostrativo e pratico.
+
+La direzione della scuola ha la facolta' di invitare i cultori della materia a tenere conferenze su capitoli dell'oncologia. Gli insegnamenti saranno completati da esercitazioni pratiche che si svolgeranno durante il corso nei vari istituti.
+
+Alla fine di ogni corso, per essere ammessi al corso successivo, gli iscritti, ottenuta la firma di frequenza dovranno sostenere un colloquio o un esame delle materie svolte. Alla fine del terzo anno gli iscritti che avranno ottenuto la firma di frequenza saranno ammessi alla prova finale, consistente in un esame teorico e pratico, che superato dara' diritto al candidato a discutere una dissertazione su un argomento di oncologia generale e speciale.
+
+L'esame od il colloquio; la prova teorica e pratica e la discussione della tesi di specializzazione saranno sostenuti davanti ad una commissione costituita dal di rettore della scuola, da tre titolari delle materie di insegnamento del corso e da un libero docente di anatomia ed istologia patologica, o di patologia generale quale segretario.
+
+4. - Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale
+
+Art. 101. - La scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale ha la durata di tre anni.
+
+Alla scuola possono iscriversi, previa prova di ammissione, i laureati in medicina e chirurgia che possiedono i requisiti prescritti dalle norme di legge relative alle scuole di specializzazione in medicina e chirurgia.
+
+Possono essere ammessi anche giovani provenienti dall'estero, i quali presentino titoli che, a giudizio delle autorita' accademiche, siano considerati equipollenti alla laurea in medicina e chirurgia rilasciata in Italia.
+
+Il numero degli iscritti e' fissato nella misura di 30 per i tre anni di corso.
+
+Gli insegnamenti impartiti nella scuola hanno la seguente distribuzione:
+
+1° Anno:
+
+Anatomia; Fisiologia; Audiologia (1°); Semeiotica otorinolaringoiatrica; Tecnica di laboratorio; Patologia otorinolaringoiatrica e cervico-facciale (1°); Anatomia e istologia patologica otorinolaringoiatrica.
+
+2° Anno:
+
+Tecniche operatorie in otorinolaringoiatria; Anestesiologia in otorinolaringoiatria; Patologia e clinica otorinolaringoiatrica e cervicofacciale (2°); Radiologia in rapporto con l'otorinolaringoiatria; Pediatria in rapporto con l'otorinolaringoiatria; Audiologia (2°); Otoncurologia; Foniatria.
+
+3° Anno:
+
+Patologia e clinica otorinolaringoiatrica e cervico-facciale (3°);
+
+Terapia medica e fisica in otorinolaringoiatria; Neuropatologia in rapporto con l'otorinolaringoiatria; Oculistica in rapporto con l'otorinolaringoiatria; Chirurgia plastica;
+
+Tracheo-bronco-esofagoscopia; Medicina legale ed infortunistica in otorinolaringoiatria.
+
+Gli allievi che hanno l'obbligo di frequentare i corsi ufficiali e le esercitazioni pratiche ad essi destinate e di prestare servizio come medici interni nei reparti della clinica otorinolaringoiatrica, secondo i turni stabiliti dalla direzione della scuola.
+
+Non sono ammesse abbreviazioni di corso, salvo decisioni particolari in merito da parte del consiglio di facolta'. Saranno ammessi al secondo e al terzo anno di corso della scuola solo gli specializzandi che avranno superato con profitto gli esami, che saranno tenuti rispettivamente al termine del primo e del secondo anno e che verteranno sulle materie e sugli argomenti trattati durante il relativo corso annuale.
+
+Per conseguire il diploma di specializzazione gli iscritti, dopo aver superato gli esami del terzo anno di corso dovranno sostenere l'esame di diploma che consiste nella presentazione e discussione di una tesi su argomento di interesse otorinolaringoiatrico.
+
+5. - Scuola di specializzazione in urologia
+
+Art. 102. - La scuola ha la durata di tre anni.
+
+Alla scuola possono iscriversi, previa prova di ammissione, i laureati in medicina e chirurgia.
+
+Possono essere ammessi anche i giovani provenienti da Paesi stranieri i quali presentino titoli che, a giudizio delle autorita' accademiche, siano considerati equipollenti alla laurea in medicina e chirurgia rilasciata in Italia.
+
+Il numero massimo degli iscritti per ciascun anno di corso e' fissato nella misura di dodici allievi (totale n. 36).
+
+Gli insegnamenti impartiti nella scuola hanno la seguente distribuzione:
+
+1° Anno:
+
+Anatomia descrittiva e topografia dell'apparato urogenitale;
+
+Fisiologia dell'apparato urogenitale; Patologia dell'apparato urinario e genitale maschile; le nefropatie mediche; Semeiotica dell'apparato urogenitale (funzionale e di laboratorio); Tecniche strumentali e semeiologia endoscopica; Batteriologia in urologia;
+
+Farmacoterapia delle affezioni urogenitali.
+
+2° Anno:
+
+Patologia dell'apparato urinario e genitale maschile; Clinica urologica; Patologia genitale femminile di interesse urologico;
+
+Nefrologia chirurgica; Anatomia ed istologia patologica dell'apparato urogenitale; Semeiotica dell'apparato urogenitale (funzionale e di laboratorio); Tecniche strumentali e semeiologia endoscopica;
+
+Anatomia chirurgica dell'apparato urogenitale; Radiologia dell'apparato urinario e genitale; Le affezioni cutanee e veneree nei riguardi dell'urologia; L'anestesiologia ed il trattamento pre o post-operatorio del malato urologico.
+
+3° Anno:
+
+Clinica urologica; Patologia e clinica urologica infantile;
+
+Radiologia dell'apparato urinario e genitale; Tecniche operatorie sull'apparato urinario e genitale; Urologia ginecologica.
+
+Gli allievi hanno l'obbligo di frequentare i corsi ufficiali e le esercitazioni pratiche ad essi destinate e di prestare servizio come medici interni in appositi reparti chirurgici, secondo i turni stabiliti dalla direzione della scuola.
+
+Eventuali abbreviazioni nel corto possono essere consentite agli aspiranti che documentino una precedente specifica attivita' e diano prova della loro preparazione tecnica e culturale nel campo della urologia.
+
+Al termine di ciascun anno di corso gli specializzandi devono sostenere i seguenti esami:
+
+1° Anno:
+
+Anatomia e fisiologia dell'apparato urogenitale; Le nefropatie mediche; Batteriologia in urologia e farmacoterapia delle affezioni urogenitali.
+
+2° Anno:
+
+Patologia dell'apparato urinario e genitale maschile; Anatomia ed istologia patologica; Semeiotica urologica (funzionale e di laboratorio) e tecnica strumentale e semeiologia endoscopica;
+
+Patologia genitale femminile di interesse urologico; le affezioni cutanee e veneree nei riguardi dell'urologia; Anatomia chirurgica dell'apparato urogenitale; Anestesia e trattamento pre e post-operatorio del malato urologico; Nefrologia chirurgica.
+
+3° Anno:
+
+Clinica urologica; Radiologia dell'apparato urinario e genitale;
+
+Interventi e procedimenti operatori sull'apparato urogenitale;
+
+Patologia e clinica urologica infantile; Urologia ginecologica.
+
+Per ottenere l'ammissione al secondo anno ed al terzo occorre aver superato rispettivamente gli esami del primo e del secondo anno.
+
+Per conseguire il diploma di "Specialista in urologia" e' necessario, dopo aver superato gli esami del terzo anno, sostenere l'esame di diploma che consiste nella presentazione e discussione di una tesi di argomento urologico.
+
+6. - Scuola di specializzazione in anestesiologia e rianimazione
+
+Art. 103. - La scuola di specializzazione in anestesiologia e rianimazione ha la durata di tre anni. Ad essa possono iscriversi, previo esame di ammissione, i laureati in medicina e chirurgia.
+
+Il piano degli studi e' il seguente:
+
+1° Anno:
+
+Anatomia, biochimica, farmacologia, fisica, fisiologia applicata alla anestesiologia e rianimazione. Anestesiologia (1°). Tecniche chirurgiche di interesse anestesiologico. Aspetti medico-legali dell'anestesia e della rianimazione. Internato.
+
+2° Anno:
+
+Anestesiologia (2°). Terapia antalgica. Rianimazione (1°).
+
+Internato.
+
+3° Anno:
+
+Rianimazione (2°). Tecniche speciali di anestesia e rianimazione.
+
+Indagini diagnostiche attinenti alla specialita'. Internato.
+
+Il numero degli iscritti e' fissato complessivamente in quarantacinque.
+
+La frequenza delle lezioni e alle esercitazioni e' obbligatoria.
+
+L'internato deve essere svolto secondo i turni fissati dalla direzione.
+
+Non e' concessa alcuna abbreviazione di corso, ad eccezione dei candidati che, gia' in possesso del diploma di specializzazione in anestesiologia, possono essere ammessi al 3° anno per ottenere il completamento.
+
+Per accedere ai corsi successivi e' obbligatorio il superamento di tutti gli esami del corso precedente, ivi comprese le materie biennali.
+
+Gli esami possono essere sostenuti solamente in due sessioni annuali, una estiva ed una autunnale, e comunque non oltre il 30 novembre dell'anno in corso.
+
+Il diploma di specializzazione in anestesiologia e rianimazione viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinico e sperimentale.
+
+7. - Scuola di specializzazione in radiologia
+
+Art. 104. - La scuola rilascia i seguenti diplomi di specializzazione: in radiologia e in radiologia diagnostica.
+
+La scuola e' riservata ai laureati in medicina e chirurgia, che possono essere accolti in numero massimo di dodici per ciascun anno di corso per radiologia e radiologia diagnostica (totale 42).
+
+La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia e' di quattro anni.
+
+Il programma di insegnamento e' il seguente:
+
+1° Anno:
+
+Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;
+
+Nozioni sugli apparecchi ed istrumenti della radiologia; Anatomia radiologica normale; Fisiologia radiologica; Tecnica radiologica generale; Semeiotica radiologica generale; Fondamenti di radiobiologia; Nozioni di statistica e matematica.
+
+2° Anno:
+
+Tecnica e metodica dell'esame radiologico dei vari organi, apparati e sistemi; Semeiotica radiologica speciale e diagnosi differenziale;
+
+Fondamenti di radioterapia; Danni da radiazioni e mezzi di protezione; Dimostrazioni cliniche di diagnostica radiologica;
+
+Dimostrazioni cliniche di radioterapia.
+
+3° Anno:
+
+Diagnostica radiologica differenziale; Dimostrazioni di casistica di roentgendiagnostica con confronto del quadro anatomo-patologico;
+
+Dimostrazioni di casistica di roentgenterapia, con particolare riferimento all'anatomia patologica; Radioterapia tradizionale, Curieterapia; Radioterapia con alte energie; Elementi di medicina nucleare; Istrumentario, tecnica e metodica di applicazione;
+
+Dosimetria.
 
 4° Anno:
 
-organizzazione e funzionamento degli ospedali II;
+Moderne tecniche di esplorazione e terapia radiologica; Diagnostica e terapia con isotopi radioattivi somministrati per via interna;
 
-compiti ed attribuzioni della direzione sanitaria;
+Radiodiagnostica e radioterapia clinica (casistica); Medicina legale e legislazione sanitaria in relazione alla radiologia.
 
-formazione professionale e compiti del personale ospedaliero;
+La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia diagnostica e' di tre anni.
 
-programmazione ospedaliera e medicina di comunita';
+Il programma di insegnamento e' il seguente:
 
-assistenza psichiatrica;
+1° Anno:
 
-aspetti socio-sanitari dell'ospitalismo;
+Il corso e' identico a quello prescritto per il conseguimento del diploma di specializzazione in radiologia.
 
-aspetti economici della gestione ospedaliera.
+2° Anno:
 
-c) Orientamento di igiene del lavoro
-
-3° Anno:
-
-epidemiologia e profilassi delle malattie infettive II;
-
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;
-
-igiene dell'ambiente fisico e difesa ecologica;
-
-epidemiologia e profilassi delle malattie del lavoro;
-
-tecnica ed economia degli impianti industriali;
-
-tossicologia industriale e diagnostica di laboratorio;
-
-elementi di fisica tecnica applicata all'igiene;
-
-igiene dell'ambiente di lavoro I.
-
-4° Anno:
-
-igiene dell'ambiente di lavoro II;
-
-elementi di diritto e legislazione del lavoro;
-
-psicologia del lavoro;
-
-prevenzione degli infortuni;
-
-politica del territorio ed insediamento industriale;
-
-igiene del lavoro e medicina di comunita';
-
-d) Orientamento di igiene e medicina scolastica
+Metodica di esplorazione dei vari organi ed apparati; Semeiotica radiologica speciale e diagnosi differenziale; Nozioni generali sulle lesioni da radiazioni e mezzi di protezione; Moderne tecniche di esplorazione radiologica.
 
 3° Anno:
 
-epidemiologia e profilassi delle malattie infettive II;
+Esplorazione radiologica nella patologia dei vari organi ed apparati; Diagnostica differenziale; Rapporti con l'anatomia patologica; Radiodiagnostica clinica; Medicina legale e legislazione sanitaria in relazione alla radiologia.
 
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;
+I corsi per il conseguimento dei suddetti diplomi in radiologia e in radiologia diagnostica saranno integrati da conferenze, esercitazioni e seminari.
 
-igiene dell'ambiente fisico e difesa ecologica;
+E' obbligatorio un periodo di internato.
 
-clinica delle malattie dell'eta' evolutiva;
+Alla fine di ogni corso gli iscritti dovranno sostenere un esame sulle materie svolte durante l'anno.
 
-epidemiologia e profilassi delle malattie dell'eta' evolutiva;
+Al termine dell'ultimo corso gli allievi dovranno sostenere un esame di diploma con dissertazione su di una tesi scritta di argomento radiologico concordate con il direttore della scuola.
 
-igiene degli alimenti e della nutrizione;
+8. - Scuola di specializzazione in chirurgia vascolare.
 
-auxologia normale e patologica;
+Art. 105. - La scuola di specializzazione in chirurgia vascolare ha la durata di tre anni. Ad essa possono iscriversi i laureati in medicina e chirurgia in numero massimo di 12 per anni (totale n. 36).
 
-psicologia dell'eta' evolutiva.
+Qualora le domande di iscrizione superassero tale numero, la selezione dei candidati sara' fatta mediante concorso da espletarsi entro il 15 dicembre per titoli ed esami. Saranno considerati titoli preferenziali: voto di laurea in medicina e chirurgia, eventuali servizi prestati in ospedali e cliniche universitarie, eventuali pubblicazioni.
 
-4° Anno:
+Gli insegnanti della scuola sono designati dal consiglio ii facolta' su proposta del direttore della scuola.
 
-servizi di medicina scolastica;
+Le materie di insegnamento sono le seguenti:
 
-edilizia ed arredamento scolastico;
+1° Anno:
 
-elementi di pedagogia;
+Embriologia, anatomia macro e microscopica dell'apparato vascolare;
 
-assistenza parascolastica;
+Fisiopatologia dell'apparato vascolare 3 della coagulazione sanguigna; Anatomia patologica dell'apparato vascolare; Semeiologia fisica e strumentale delle malattie vascolari; Vasculopatie di interesse medico e specialistico; Semeiologia radiologica delle malattie vascolari.
 
-educazione sanitaria nella scuola;
+2° Anno:
 
-legislazione scolastica;
-
-igiene mentale.
-
-e) Orientamento di laboratorio
+Patologia e clinica delle malattie del sistema arterioso; Patologia e clinica delle malattie del sistema venoso; Patologia e clinica delle malattie del sistema linfatico; Patologia e clinica delle malattie dei piccoli vasi.
 
 3° Anno:
 
-epidemiologia e profilassi delle malattie infettive II;
+Nozioni di terapia medica delle malattie vascolari; Terapia chirurgica delle malattie vascolari; Chirurgia vascolare applicata a malattie dei vari organi.
 
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;
+L'insegnamento sara' dottrinario e pratico e gli iscritti alla scuola hanno l'obbligo di frequenza sia alle lezioni che al tirocinio pratico.
 
-igiene dell'ambiente fisico e difesa ecologica;
+Non e' consentita alcuna abbreviazione di corso.
 
-metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale;
+Alla fine del triennio gli specializzandi dovranno superare una prova orale-teorica ed una prova clinica prima di essere ammessi all'esame di diploma.
 
-metodi e dosaggi biologici per il controllo dell'inquinamento ambientale;
+L'esame di diploma consistera' nella discussione di una tesi scritta su argomenti di chirurgia vascolare.
 
-strumentazione e metodologie chimico-cliniche ed ematologiche I; microscopia applicata all'igiene;
+9. - Scuola di specializzazione in ostetricia e ginecologia
 
-elementi di fisica e tecnica applicata all'igiene;
+Art. 106. - La scuola di specializzazione in ostetricia e ginecologia ha la durata di quattro anni. Per iscriversi alla scuola e' richiesta la laurea in medicina e chirurgia. Possono essere ammessi anche i giovani provenienti da Paesi stranieri, i quali presentino titoli che, a giudizio delle autorita' accademiche, siano considerati equipollenti alla laurea in medicina e chirurgia rilasciata in Italia.
 
-accertamento diagnostico delle malattie infettive e parassitarie I.
+L'iscrizione avviene a seguito di concorso, da espletarsi entro il mese di dicembre, per titoli ed esami. Saranno considerati titolari preferenziali, a parita' di risultato dell'esame di ammissione il voto di laurea in medicina e chirurgia; aver frequentato come studente interno una clinica ostetrica e ginecologica dell'universita'; aver svolto la tesi di laurea nella clinica ostetrica e ginecologica; documentazione di eventuali servizi prestati in grossi reparti ospitalieri della specialita'; eventuali pubblicazioni.
+
+Il numero complessivo massimo degli iscritti ai quattro anni di corso e' fissato in misura di trentadue allievi.
+
+Gli insegnamenti impartiti dalla scuola sono i seguenti:
+
+1° Anno:
+
+Elementi di genetica e di eugenetica; Anatomia normale ed embriologia dell'apparato genitale femminile;Fisiologia dell'apparato genitale femminile; Endocrinologia fisiologica; Fisiologia ostetrica;
+
+Diagnostica ostetrica; Clinica ostetrica e ginecologica (1°);
+
+2° Anno:
+
+Tecnica operatoria ostetrica; Diagnostica ginecologica; Tecnica diagnostica di laboratorio nel campo ostetricoginecologico, esclusa la istologia (sierologia, batteriologia, citologia, ematologia, biochimica); Clinica ostetrica e ginecologica (2).
+
+3° Anno:
+
+Anatomia patologica ostetrica e ginecologica; Istologia normale e patologica nel campo della specialita'; Puericultura prenatale;
+
+Emoterapia nel campo ostetrico e ginecologico; Anestesia ed analgesia nel campo ostetrico e ginecologico; Tecnica operatoria ginecologica;
+
+Clinica ostetrica e ginecologica (3°); Terapia medica ostetrica e ginecologica.
 
 4° Anno:
 
-metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale II;
+Puericultura post-natale e malattie del neonato; Ostetricia e ginecologia forense; Diagnostico roentgen, radioterapia in ostetricia e ginecologia; Clinica ostetrica e ginecologica (4°) (esame alla fine del quarto anno); Urologia ginecologica; Chirurgia addominale extra genitale.
 
-accertamento diagnostico delle malattie infettive e parassitarie II;
+La frequenza alle lezioni, alle esercitazioni, ai seminari, ecc., e' obbligatoria.
 
-strumentazione e metodologie chimico-cliniche ed ematologiche II; ispezione e controllo degli alimenti;
+Gli iscritti sono pure tenuti a prestare servizio clinico per non meno di nove mesi all'anno.
 
-elementi di informatica.
+Non e' consentita alcuna abbreviazione di corso.
 
-Gli esami relativi alle discipline svolte con insegnamento biennale verranno sostenuti alla fine di detti insegnamenti.
+Alla fine di ciascun anno di corso gli iscritti alla scuola di specializzazione dovranno sostenere esami per gruppi di materie davanti a commissioni composte dal direttore della scuola e dai docenti delle singole discipline. La sessione di esame e' unica ed e' espletata nel mese di ottobre. I candidati non potranno iscriversi agli anni successivi se non avranno superato l'esame di profitto annuale.
 
-I corsi saranno completati da insegnamenti complementari scelti dalla scuola tra i seguenti:
-
-Materie complementari:
-
-automazione del sistema ospedaliero;
-
-biochimica applicata;
-
-climatologia;
-
-diritto sanitario internazionale;
-
-clementi di medicina legale;
-
-genetica umana;
-
-geologia applicata all'igiene;
-
-idrologia;
-
-igiene dei climi tropicali;
-
-igiene dei trasporti;
-
-igiene militare;
-
-igiene rurale;
-
-istituzioni di matematiche;
-
-micologia;
-
-radioprotezionistica.
-
-A giudizio della scuola possono essere indicati come complementari anche altri insegnamenti regolarmente attivati nel corso di laurea in medicina e chirurgia dell'Universita' cattolica.
-
-I corsi saranno integrati da un tirocinio pratico di durata comunque non inferiore a tre mesi da svolgersi durante il secondo biennio.
-
-Art. 134. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.
-
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
-
-Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno;
-
-per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
-
-Al termine del corso di studi per il conseguimento del diploma di specialista in igiene e medicina preventiva gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+Per conseguire il diploma di "Specialista in ostetricia e ginecologia" i candidati dovranno presentare, al termine dei corsi, una dissertazione scritta, elaborata nell'istituto di clinica ostetrica e ginecologica dell'Universita' cattolica del Sacro Cuore.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 31 ottobre 1977
+Dato a Roma, addi' 24 settembre 1968
 
-LEONE
+SARAGAT
 
-MALFATTI
+SCAGLIA
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 27 giugno 1978 Registro n. 67 Istruzione, foglio n. 360
+alla Corte di conti, addi' 9 novembre 1968 Atti del Governo, registro n. 223, foglio n. 94. - DI PRETORO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' cattolica "Sacro Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Gli articoli 132, 133, 134, relativi alla scuola di specializzazione in igiene e medicina preventiva, sono abrogati e sostituiti dai seguenti:  
+dopo l'art. 97 e' istituito il titolo IV "Facolta' di medicina e chirurgia" e sono inseriti con il conseguente spostamento della successiva numerazione, i seguenti articoli relativi all'istituzione delle sottoelencate scuole di specializzazione.  
   
-Scuola di specializzazione in igiene e medicina preventiva  
+1. - Scuole di specializzazione in ematologia clinica e di laboratorio  
   
-Art. 132. - La scuola di specializzazione in igiene e medicina preventiva ha sede presso l'istituto di igiene e conferisce il diploma di specialista in igiene e medicina preventiva.  
-La direzione della scuola e' affidata al professore di ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.  
-Il numero massimo degli allievi e' complessivamente di trenta iscritti per l'intero corso di studi.  
-L'ammissione al corso avviene per titoli ed esami.  
-Art. 133. - Il corso si articola in un biennio propedeutico seguito da un biennio differenziato con cinque orientamenti e precisamente:  
-a) sanita' pubblica;  
-b) igiene e tecnica ospedaliera;  
-c) igiene del lavoro;  
-d) igiene e medicina scolastica;  
-e) laboratorio.  
-Il piano di studi e' il seguente:  
+Art. 98. - La scuola di specializzazione in ematologia clinica e di laboratorio ha la durata di tre anni.  
+L'iscrizione alla scuola e' riservata ai laureati in medicina e chirurgia, che possano essere accolti complessivamente in numero massimo di 45 per i 3 anni di corso.  
+L'ammissione alla scuola e' condizionata al superamento di una prova preliminare di cultura; qualora il numero degli aspiranti sia superiore al numero dei posti disponibili, per l'accettazione si potra' tener conto anche degli eventuali titoli.  
+E' consentita l'abbreviazione di un anno di corso soltanto:  
+a) a liberi docenti in una delle branche di medicina generale od in clinica pediatrica od in patologia generale od in anatomia patologica;  
+b) ad assistenti in attivita' stabile da almeno 3 anni in istituti universitari di medicina interna o di pediatria o di patologia generale o di anatomia patologica;  
+c) a specialisti in medicina interna o in pediatria.  
+In ogni caso coloro che avranno ottenuto l'abbreviazione dovranno sostenere gli esami del primo anno prima di quelli del secondo.  
+La frequenza alle lezioni e alle esercitazioni e' obbligatoria. Il piano degli studi della scuola comprende i seguenti insegnamenti:  
+Morfologia e morfogenesi normale e patologica del sangue (biennale); Genetica ematologica (annuale); Fisiopatologia della coagulazione e dell'emostasi (annuale); Fisiopatologia ematologica (biennale); Biochimica ematologica (annuale); Fisiopatologia del plasma (annuale); Immunoematologia (annuale); Tecniche di laboratorio inerenti all'ematologia (triennale); Nozioni di radio-biologia e di medicina nucleare applicata all'ematologia (annuale);  
+Radiodiagnostica e radioterapia ematologica (annuale); Patologia speciale ematologica (biennale); Clinica delle emopatie (biennale);  
+Anatomia e Istologia patologica delle emopatie e fondamenti di oncologia (annuale); Terapia sistematica ematologica (annuale);  
+Terapia trasfusionale (annuale).  
   
-I BIENNIO  
+La ripartizione di detti insegnamenti fra i 3 anni di corso e' la seguente:  
   
 1° Anno:  
-metodologia statistica e biometria;  
-educazione sanitaria;  
-psicologia;  
-microbiologia ed immunologia I;  
-parassitologia;  
-epidemiologia generale e metodologia;  
-profilassi generale;  
-sociologia medica ed antropologia culturale.  
+  
+Morfologia e morfogenesi normale e patologica del sangue (1°);  
+Genetica ematologica; Fisiopatologia della coagulazione e dell'emostasi; Fisiopatologia ematologica (1°); Biochimica ematologica; Fisiopatologia del plasma; Tecniche di laboratorio inerenti all'ematologia (1°).  
+  
 2° Anno:  
-microbiologia ed immunologia II;  
-patologia e clinica delle malattie infettive;  
-epidemiologia e profilassi delle malattie infettive I;  
-patologia e clinica delle malattie non infettive di importanza sociale;  
-epidemiologia e profilassi delle malattie non infettive di importanza sociale I;  
-demografia e statistica sanitaria;  
-legislazione e programmazione sanitaria.  
   
-II BIENNIO  
-  
-a) Orientamento di sanita' pubblica  
+Morfologia e morfogenesi normale e patologica del sangue (2°);  
+Fisiopatologia ematologica (2°); Immunoematologia; Tecniche di laboratorio inerenti all'ematologia (2°); Patologia speciale ematologica (1°); Clinica delle emopatie (1°); Anatomia e istologia patologica delle emopatie e fondamenti di oncologia.  
   
 3° Anno:  
-epidemiologia e profilassi delle malattie infettive II;  
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;  
-igiene dell'ambiente fisico e difesa ecologica;  
-igiene degli alimenti e della nutrizione;  
-igiene dell'eta' evolutiva;  
-igiene del lavoro;  
-igiene ed assistenza dell'anziano.  
-4° Anno.  
-igiene dell'edilizia e dell'aggregato urbano;  
-igiene ospedaliera;  
-organizzazione del territorio e programmazione sanitaria;  
-medicina di comunita';  
-economia sanitaria;  
-elementi di diritto amministrativo.  
   
-b) Orientamento di igiene e tecnica ospedaliera  
+Tecniche di laboratorio inerenti all'ematologia (3°); Nozioni di radiobiologia e di medicina nucleare applicata all'ematologia;  
+Radiodiagnostica e radioterapia ematologica; Patologia speciale ematologica (2°); Clinica delle emopatie (2°); Terapia sistematica ematologica; Terapia trasfusionale.  
+  
+Il direttore della scuola, al di fuori dei docenti incaricati ufficialmente, puo' invitare studiosi competenti ad impartire lezioni e conferenze su argomenti di speciale interesse ematologico.  
+Alla fine del primo e del secondo anno gli allievi dovranno sostenere un esame teorico sulle materie del 1° corso e rispettivamente del 2° corso e una prova pratica di laboratorio. Alla fine del terzo anno gli allievi sosterranno un esame teorico sulle materie del 3° corso e una prova clinica di laboratorio.  
+Gli allievi non potranno essere ammessi ai corsi successivi se non avranno superato le prove prescritte per gli anni precedenti. Alla fine del terzo anno, superate le prove prescritte per il 3° corso, gli allievi dovranno sostenere un esame di diploma con dissertazione su di una tesi scritta di argomento ematologico concordato con il direttore della scuola.  
+  
+2. - Scuola di specializzazione in malattie dell'apparato cardio-vascolare  
+  
+Art. 99. - La scuola di specializzazione in malattie dell'apparato cardiovascolare ha la durata di tre anni.  
+Potranno essere iscritti alla scuola, previa prova di ammissione, coloro che sono in possesso della laurea in medicina e chirurgia in numero massimo di 60, per i tre anni di corso.  
+Il piano di studi comprende i seguenti insegnamenti ripartiti nei singoli anni:  
+  
+1° Anno:  
+  
+Anatomia normale dell'apparato cardio-vascolare; Fisiologia dell'apparato cardiovascolare e respiratorio; Fisiopatologia cardio-vascolare e respiratoria (1°); Patologia cardiovascolare (1°);  
+Semeiologia fisica (1°); Semeiologia strumentale (1°); Microbiologia (facoltativo).  
+  
+2° Anno:  
+  
+Fisiopatologia cardiovascolare, respiratoria (2°); Patologia cardiovascolare (2°); Semeiologia fisica (2°); Semeiologia strumentale (2°); Anatomia patologica dell'apparato cardiovascolare (1°); Radiologia; Farmacologia; Clinica e terapia (1°).  
   
 3° Anno:  
-epidemiologia e profilassi delle malattie infettive II;  
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;  
-igiene dell'ambiente fisico e difesa ecologica;  
-igiene e tecnica delle costruzioni ospedaliere; arredamenti ed impianti tecnologici;  
-igiene dell'alimentazione e dietetica ospedaliera;  
-organizzazione e funzionamento degli ospedali I;  
-elementi di diritto e legislazione ospedaliera.  
+  
+Anatomia patologica dell'apparato cardio-vascolare (2°); Clinica e terapia (2°); Chirurgia dell'apparato cardiovascolare; Problemi assicurativi e sociali (facoltativo); Statistica (facoltativo).  
+  
+Alla fine di ogni corso si dovra' sostenere un esame per le materie svolte durante l'anno. L'insegnamento avra' carattere eminentemente pratico, dimostrativo a mezzo di lezioni, colloqui, esercitazioni sopra a casi clinici e ricerche di laboratorio.  
+Gli iscritti hanno l'obbligo di compiere periodi di internato secondo i turni stabiliti dalla direzione della scuola.  
+L'esame di diploma, che si sostiene alla fine dei 3 anni di corso, puo' estendersi a tutte le materie di insegnamento vertendo in particolare sull'argomento scelto come tesi.  
+  
+3. - Scuola di specializzazione in oncologia  
+  
+Art. 100. - La scuola di specializzazione in oncologia ha la durata di 3 anni.  
+Alla scuola sono ammessi i laureati in medicina e chirurgia (con preferenza per gli specializzati in altre materie biologiche e cliniche) in numero massimo di 30 per i tre anni di corso.  
+Qualora le domande di iscrizione fossero superiori al numero dei posti disponibili, la direzione della scuola si riserva di formare una graduatoria in base ai titoli presentati o ad esami.  
+La frequenza ai corsi e alle esercitazioni e' obbligatoria. E' fatto anche obbligo di un periodo semestrale di internato nei vari istituti designati dal direttore della scuola. Le materie di insegnamento sono cosi' suddivise nei singoli anni:  
+  
+1° Anno:  
+  
+Etiopatogenesi oncologica; Biochimica oncologica; Anatomia ed istologia patologica dei tumori.  
+  
+2° Anno:  
+  
+Oncologia sperimentale; Epidemiologia e statistiche dei tumori.  
+  
+3° Anno:  
+  
+Diagnosi citologica e citologia dei tumori; Nozioni di diagnostica clinica e terapia dei tumori; Organizzazione della lotta contro i tumori; Clinica e terapia medica applicata all'oncologia; Clinica e terapia chirurgica applicata all'oncologia; Clinica e terapia ginecologica applicata all'oncologia.  
+L'insegnamento avra' carattere dottrinale, dimostrativo e pratico.  
+La direzione della scuola ha la facolta' di invitare i cultori della materia a tenere conferenze su capitoli dell'oncologia. Gli insegnamenti saranno completati da esercitazioni pratiche che si svolgeranno durante il corso nei vari istituti.  
+Alla fine di ogni corso, per essere ammessi al corso successivo, gli iscritti, ottenuta la firma di frequenza dovranno sostenere un colloquio o un esame delle materie svolte. Alla fine del terzo anno gli iscritti che avranno ottenuto la firma di frequenza saranno ammessi alla prova finale, consistente in un esame teorico e pratico, che superato dara' diritto al candidato a discutere una dissertazione su un argomento di oncologia generale e speciale.  
+L'esame od il colloquio; la prova teorica e pratica e la discussione della tesi di specializzazione saranno sostenuti davanti ad una commissione costituita dal di rettore della scuola, da tre titolari delle materie di insegnamento del corso e da un libero docente di anatomia ed istologia patologica, o di patologia generale quale segretario.  
+  
+4. - Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale  
+  
+Art. 101. - La scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale ha la durata di tre anni.  
+Alla scuola possono iscriversi, previa prova di ammissione, i laureati in medicina e chirurgia che possiedono i requisiti prescritti dalle norme di legge relative alle scuole di specializzazione in medicina e chirurgia.  
+Possono essere ammessi anche giovani provenienti dall'estero, i quali presentino titoli che, a giudizio delle autorita' accademiche, siano considerati equipollenti alla laurea in medicina e chirurgia rilasciata in Italia.  
+Il numero degli iscritti e' fissato nella misura di 30 per i tre anni di corso.  
+Gli insegnamenti impartiti nella scuola hanno la seguente distribuzione:  
+  
+1° Anno:  
+  
+Anatomia; Fisiologia; Audiologia (1°); Semeiotica otorinolaringoiatrica; Tecnica di laboratorio; Patologia otorinolaringoiatrica e cervico-facciale (1°); Anatomia e istologia patologica otorinolaringoiatrica.  
+  
+2° Anno:  
+  
+Tecniche operatorie in otorinolaringoiatria; Anestesiologia in otorinolaringoiatria; Patologia e clinica otorinolaringoiatrica e cervicofacciale (2°); Radiologia in rapporto con l'otorinolaringoiatria; Pediatria in rapporto con l'otorinolaringoiatria; Audiologia (2°); Otoncurologia; Foniatria.  
+  
+3° Anno:  
+  
+Patologia e clinica otorinolaringoiatrica e cervico-facciale (3°);  
+Terapia medica e fisica in otorinolaringoiatria; Neuropatologia in rapporto con l'otorinolaringoiatria; Oculistica in rapporto con l'otorinolaringoiatria; Chirurgia plastica;  
+Tracheo-bronco-esofagoscopia; Medicina legale ed infortunistica in otorinolaringoiatria.  
+Gli allievi che hanno l'obbligo di frequentare i corsi ufficiali e le esercitazioni pratiche ad essi destinate e di prestare servizio come medici interni nei reparti della clinica otorinolaringoiatrica, secondo i turni stabiliti dalla direzione della scuola.  
+Non sono ammesse abbreviazioni di corso, salvo decisioni particolari in merito da parte del consiglio di facolta'. Saranno ammessi al secondo e al terzo anno di corso della scuola solo gli specializzandi che avranno superato con profitto gli esami, che saranno tenuti rispettivamente al termine del primo e del secondo anno e che verteranno sulle materie e sugli argomenti trattati durante il relativo corso annuale.  
+Per conseguire il diploma di specializzazione gli iscritti, dopo aver superato gli esami del terzo anno di corso dovranno sostenere l'esame di diploma che consiste nella presentazione e discussione di una tesi su argomento di interesse otorinolaringoiatrico.  
+  
+5. - Scuola di specializzazione in urologia  
+  
+Art. 102. - La scuola ha la durata di tre anni.  
+Alla scuola possono iscriversi, previa prova di ammissione, i laureati in medicina e chirurgia.  
+Possono essere ammessi anche i giovani provenienti da Paesi stranieri i quali presentino titoli che, a giudizio delle autorita' accademiche, siano considerati equipollenti alla laurea in medicina e chirurgia rilasciata in Italia.  
+Il numero massimo degli iscritti per ciascun anno di corso e' fissato nella misura di dodici allievi (totale n. 36).  
+Gli insegnamenti impartiti nella scuola hanno la seguente distribuzione:  
+  
+1° Anno:  
+  
+Anatomia descrittiva e topografia dell'apparato urogenitale;  
+Fisiologia dell'apparato urogenitale; Patologia dell'apparato urinario e genitale maschile; le nefropatie mediche; Semeiotica dell'apparato urogenitale (funzionale e di laboratorio); Tecniche strumentali e semeiologia endoscopica; Batteriologia in urologia;  
+Farmacoterapia delle affezioni urogenitali.  
+  
+2° Anno:  
+  
+Patologia dell'apparato urinario e genitale maschile; Clinica urologica; Patologia genitale femminile di interesse urologico;  
+Nefrologia chirurgica; Anatomia ed istologia patologica dell'apparato urogenitale; Semeiotica dell'apparato urogenitale (funzionale e di laboratorio); Tecniche strumentali e semeiologia endoscopica;  
+Anatomia chirurgica dell'apparato urogenitale; Radiologia dell'apparato urinario e genitale; Le affezioni cutanee e veneree nei riguardi dell'urologia; L'anestesiologia ed il trattamento pre o post-operatorio del malato urologico.  
+  
+3° Anno:  
+  
+Clinica urologica; Patologia e clinica urologica infantile;  
+Radiologia dell'apparato urinario e genitale; Tecniche operatorie sull'apparato urinario e genitale; Urologia ginecologica.  
+Gli allievi hanno l'obbligo di frequentare i corsi ufficiali e le esercitazioni pratiche ad essi destinate e di prestare servizio come medici interni in appositi reparti chirurgici, secondo i turni stabiliti dalla direzione della scuola.  
+Eventuali abbreviazioni nel corto possono essere consentite agli aspiranti che documentino una precedente specifica attivita' e diano prova della loro preparazione tecnica e culturale nel campo della urologia.  
+Al termine di ciascun anno di corso gli specializzandi devono sostenere i seguenti esami:  
+  
+1° Anno:  
+  
+Anatomia e fisiologia dell'apparato urogenitale; Le nefropatie mediche; Batteriologia in urologia e farmacoterapia delle affezioni urogenitali.  
+  
+2° Anno:  
+  
+Patologia dell'apparato urinario e genitale maschile; Anatomia ed istologia patologica; Semeiotica urologica (funzionale e di laboratorio) e tecnica strumentale e semeiologia endoscopica;  
+Patologia genitale femminile di interesse urologico; le affezioni cutanee e veneree nei riguardi dell'urologia; Anatomia chirurgica dell'apparato urogenitale; Anestesia e trattamento pre e post-operatorio del malato urologico; Nefrologia chirurgica.  
+  
+3° Anno:  
+  
+Clinica urologica; Radiologia dell'apparato urinario e genitale;  
+Interventi e procedimenti operatori sull'apparato urogenitale;  
+Patologia e clinica urologica infantile; Urologia ginecologica.  
+Per ottenere l'ammissione al secondo anno ed al terzo occorre aver superato rispettivamente gli esami del primo e del secondo anno.  
+Per conseguire il diploma di "Specialista in urologia" e' necessario, dopo aver superato gli esami del terzo anno, sostenere l'esame di diploma che consiste nella presentazione e discussione di una tesi di argomento urologico.  
+  
+6. - Scuola di specializzazione in anestesiologia e rianimazione  
+  
+Art. 103. - La scuola di specializzazione in anestesiologia e rianimazione ha la durata di tre anni. Ad essa possono iscriversi, previo esame di ammissione, i laureati in medicina e chirurgia.  
+Il piano degli studi e' il seguente:  
+  
+1° Anno:  
+  
+Anatomia, biochimica, farmacologia, fisica, fisiologia applicata alla anestesiologia e rianimazione. Anestesiologia (1°). Tecniche chirurgiche di interesse anestesiologico. Aspetti medico-legali dell'anestesia e della rianimazione. Internato.  
+  
+2° Anno:  
+  
+Anestesiologia (2°). Terapia antalgica. Rianimazione (1°).  
+Internato.  
+  
+3° Anno:  
+  
+Rianimazione (2°). Tecniche speciali di anestesia e rianimazione.  
+Indagini diagnostiche attinenti alla specialita'. Internato.  
+  
+Il numero degli iscritti e' fissato complessivamente in quarantacinque.  
+La frequenza delle lezioni e alle esercitazioni e' obbligatoria.  
+L'internato deve essere svolto secondo i turni fissati dalla direzione.  
+Non e' concessa alcuna abbreviazione di corso, ad eccezione dei candidati che, gia' in possesso del diploma di specializzazione in anestesiologia, possono essere ammessi al 3° anno per ottenere il completamento.  
+Per accedere ai corsi successivi e' obbligatorio il superamento di tutti gli esami del corso precedente, ivi comprese le materie biennali.  
+Gli esami possono essere sostenuti solamente in due sessioni annuali, una estiva ed una autunnale, e comunque non oltre il 30 novembre dell'anno in corso.  
+Il diploma di specializzazione in anestesiologia e rianimazione viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinico e sperimentale.  
+  
+7. - Scuola di specializzazione in radiologia  
+  
+Art. 104. - La scuola rilascia i seguenti diplomi di specializzazione: in radiologia e in radiologia diagnostica.  
+La scuola e' riservata ai laureati in medicina e chirurgia, che possono essere accolti in numero massimo di dodici per ciascun anno di corso per radiologia e radiologia diagnostica (totale 42).  
+La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia e' di quattro anni.  
+Il programma di insegnamento e' il seguente:  
+  
+1° Anno:  
+  
+Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;  
+Nozioni sugli apparecchi ed istrumenti della radiologia; Anatomia radiologica normale; Fisiologia radiologica; Tecnica radiologica generale; Semeiotica radiologica generale; Fondamenti di radiobiologia; Nozioni di statistica e matematica.  
+  
+2° Anno:  
+  
+Tecnica e metodica dell'esame radiologico dei vari organi, apparati e sistemi; Semeiotica radiologica speciale e diagnosi differenziale;  
+Fondamenti di radioterapia; Danni da radiazioni e mezzi di protezione; Dimostrazioni cliniche di diagnostica radiologica;  
+Dimostrazioni cliniche di radioterapia.  
+  
+3° Anno:  
+  
+Diagnostica radiologica differenziale; Dimostrazioni di casistica di roentgendiagnostica con confronto del quadro anatomo-patologico;  
+Dimostrazioni di casistica di roentgenterapia, con particolare riferimento all'anatomia patologica; Radioterapia tradizionale, Curieterapia; Radioterapia con alte energie; Elementi di medicina nucleare; Istrumentario, tecnica e metodica di applicazione;  
+Dosimetria.  
+  
 4° Anno:  
-organizzazione e funzionamento degli ospedali II;  
-compiti ed attribuzioni della direzione sanitaria;  
-formazione professionale e compiti del personale ospedaliero;  
-programmazione ospedaliera e medicina di comunita';  
-assistenza psichiatrica;  
-aspetti socio-sanitari dell'ospitalismo;  
-aspetti economici della gestione ospedaliera.  
   
-c) Orientamento di igiene del lavoro  
+Moderne tecniche di esplorazione e terapia radiologica; Diagnostica e terapia con isotopi radioattivi somministrati per via interna;  
+Radiodiagnostica e radioterapia clinica (casistica); Medicina legale e legislazione sanitaria in relazione alla radiologia.  
+La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia diagnostica e' di tre anni.  
+Il programma di insegnamento e' il seguente:  
   
-3° Anno:  
-epidemiologia e profilassi delle malattie infettive II;  
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;  
-igiene dell'ambiente fisico e difesa ecologica;  
-epidemiologia e profilassi delle malattie del lavoro;  
-tecnica ed economia degli impianti industriali;  
-tossicologia industriale e diagnostica di laboratorio;  
-elementi di fisica tecnica applicata all'igiene;  
-igiene dell'ambiente di lavoro I.  
-4° Anno:  
-igiene dell'ambiente di lavoro II;  
-elementi di diritto e legislazione del lavoro;  
-psicologia del lavoro;  
-prevenzione degli infortuni;  
-politica del territorio ed insediamento industriale;  
-igiene del lavoro e medicina di comunita';  
+1° Anno:  
   
-d) Orientamento di igiene e medicina scolastica  
+Il corso e' identico a quello prescritto per il conseguimento del diploma di specializzazione in radiologia.  
+  
+2° Anno:  
+  
+Metodica di esplorazione dei vari organi ed apparati; Semeiotica radiologica speciale e diagnosi differenziale; Nozioni generali sulle lesioni da radiazioni e mezzi di protezione; Moderne tecniche di esplorazione radiologica.  
   
 3° Anno:  
-epidemiologia e profilassi delle malattie infettive II;  
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;  
-igiene dell'ambiente fisico e difesa ecologica;  
-clinica delle malattie dell'eta' evolutiva;  
-epidemiologia e profilassi delle malattie dell'eta' evolutiva;  
-igiene degli alimenti e della nutrizione;  
-auxologia normale e patologica;  
-psicologia dell'eta' evolutiva.  
-4° Anno:  
-servizi di medicina scolastica;  
-edilizia ed arredamento scolastico;  
-elementi di pedagogia;  
-assistenza parascolastica;  
-educazione sanitaria nella scuola;  
-legislazione scolastica;  
-igiene mentale.  
   
-e) Orientamento di laboratorio  
+Esplorazione radiologica nella patologia dei vari organi ed apparati; Diagnostica differenziale; Rapporti con l'anatomia patologica; Radiodiagnostica clinica; Medicina legale e legislazione sanitaria in relazione alla radiologia.  
+I corsi per il conseguimento dei suddetti diplomi in radiologia e in radiologia diagnostica saranno integrati da conferenze, esercitazioni e seminari.  
+E' obbligatorio un periodo di internato.  
+Alla fine di ogni corso gli iscritti dovranno sostenere un esame sulle materie svolte durante l'anno.  
+Al termine dell'ultimo corso gli allievi dovranno sostenere un esame di diploma con dissertazione su di una tesi scritta di argomento radiologico concordate con il direttore della scuola.  
+  
+8. - Scuola di specializzazione in chirurgia vascolare.  
+  
+Art. 105. - La scuola di specializzazione in chirurgia vascolare ha la durata di tre anni. Ad essa possono iscriversi i laureati in medicina e chirurgia in numero massimo di 12 per anni (totale n. 36).  
+Qualora le domande di iscrizione superassero tale numero, la selezione dei candidati sara' fatta mediante concorso da espletarsi entro il 15 dicembre per titoli ed esami. Saranno considerati titoli preferenziali: voto di laurea in medicina e chirurgia, eventuali servizi prestati in ospedali e cliniche universitarie, eventuali pubblicazioni.  
+Gli insegnanti della scuola sono designati dal consiglio ii facolta' su proposta del direttore della scuola.  
+Le materie di insegnamento sono le seguenti:  
+  
+1° Anno:  
+  
+Embriologia, anatomia macro e microscopica dell'apparato vascolare;  
+Fisiopatologia dell'apparato vascolare 3 della coagulazione sanguigna; Anatomia patologica dell'apparato vascolare; Semeiologia fisica e strumentale delle malattie vascolari; Vasculopatie di interesse medico e specialistico; Semeiologia radiologica delle malattie vascolari.  
+  
+2° Anno:  
+  
+Patologia e clinica delle malattie del sistema arterioso; Patologia e clinica delle malattie del sistema venoso; Patologia e clinica delle malattie del sistema linfatico; Patologia e clinica delle malattie dei piccoli vasi.  
   
 3° Anno:  
-epidemiologia e profilassi delle malattie infettive II;  
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;  
-igiene dell'ambiente fisico e difesa ecologica;  
-metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale;  
-metodi e dosaggi biologici per il controllo dell'inquinamento ambientale;  
-strumentazione e metodologie chimico-cliniche ed ematologiche I; microscopia applicata all'igiene;  
-elementi di fisica e tecnica applicata all'igiene;  
-accertamento diagnostico delle malattie infettive e parassitarie I.  
+  
+Nozioni di terapia medica delle malattie vascolari; Terapia chirurgica delle malattie vascolari; Chirurgia vascolare applicata a malattie dei vari organi.  
+  
+L'insegnamento sara' dottrinario e pratico e gli iscritti alla scuola hanno l'obbligo di frequenza sia alle lezioni che al tirocinio pratico.  
+Non e' consentita alcuna abbreviazione di corso.  
+Alla fine del triennio gli specializzandi dovranno superare una prova orale-teorica ed una prova clinica prima di essere ammessi all'esame di diploma.  
+L'esame di diploma consistera' nella discussione di una tesi scritta su argomenti di chirurgia vascolare.  
+  
+9. - Scuola di specializzazione in ostetricia e ginecologia  
+  
+Art. 106. - La scuola di specializzazione in ostetricia e ginecologia ha la durata di quattro anni. Per iscriversi alla scuola e' richiesta la laurea in medicina e chirurgia. Possono essere ammessi anche i giovani provenienti da Paesi stranieri, i quali presentino titoli che, a giudizio delle autorita' accademiche, siano considerati equipollenti alla laurea in medicina e chirurgia rilasciata in Italia.  
+L'iscrizione avviene a seguito di concorso, da espletarsi entro il mese di dicembre, per titoli ed esami. Saranno considerati titolari preferenziali, a parita' di risultato dell'esame di ammissione il voto di laurea in medicina e chirurgia; aver frequentato come studente interno una clinica ostetrica e ginecologica dell'universita'; aver svolto la tesi di laurea nella clinica ostetrica e ginecologica; documentazione di eventuali servizi prestati in grossi reparti ospitalieri della specialita'; eventuali pubblicazioni.  
+Il numero complessivo massimo degli iscritti ai quattro anni di corso e' fissato in misura di trentadue allievi.  
+Gli insegnamenti impartiti dalla scuola sono i seguenti:  
+  
+1° Anno:  
+  
+Elementi di genetica e di eugenetica; Anatomia normale ed embriologia dell'apparato genitale femminile;Fisiologia dell'apparato genitale femminile; Endocrinologia fisiologica; Fisiologia ostetrica;  
+Diagnostica ostetrica; Clinica ostetrica e ginecologica (1°);  
+  
+2° Anno:  
+  
+Tecnica operatoria ostetrica; Diagnostica ginecologica; Tecnica diagnostica di laboratorio nel campo ostetricoginecologico, esclusa la istologia (sierologia, batteriologia, citologia, ematologia, biochimica); Clinica ostetrica e ginecologica (2).  
+  
+3° Anno:  
+  
+Anatomia patologica ostetrica e ginecologica; Istologia normale e patologica nel campo della specialita'; Puericultura prenatale;  
+Emoterapia nel campo ostetrico e ginecologico; Anestesia ed analgesia nel campo ostetrico e ginecologico; Tecnica operatoria ginecologica;  
+Clinica ostetrica e ginecologica (3°); Terapia medica ostetrica e ginecologica.  
+  
 4° Anno:  
-metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale II;  
-accertamento diagnostico delle malattie infettive e parassitarie II;  
-strumentazione e metodologie chimico-cliniche ed ematologiche II; ispezione e controllo degli alimenti;  
-elementi di informatica.  
-Gli esami relativi alle discipline svolte con insegnamento biennale verranno sostenuti alla fine di detti insegnamenti.  
-I corsi saranno completati da insegnamenti complementari scelti dalla scuola tra i seguenti:  
   
-Materie complementari:  
+Puericultura post-natale e malattie del neonato; Ostetricia e ginecologia forense; Diagnostico roentgen, radioterapia in ostetricia e ginecologia; Clinica ostetrica e ginecologica (4°) (esame alla fine del quarto anno); Urologia ginecologica; Chirurgia addominale extra genitale.  
   
-automazione del sistema ospedaliero;  
-biochimica applicata;  
-climatologia;  
-diritto sanitario internazionale;  
-clementi di medicina legale;  
-genetica umana;  
-geologia applicata all'igiene;  
-idrologia;  
-igiene dei climi tropicali;  
-igiene dei trasporti;  
-igiene militare;  
-igiene rurale;  
-istituzioni di matematiche;  
-micologia;  
-radioprotezionistica.  
-A giudizio della scuola possono essere indicati come complementari anche altri insegnamenti regolarmente attivati nel corso di laurea in medicina e chirurgia dell'Universita' cattolica.  
-I corsi saranno integrati da un tirocinio pratico di durata comunque non inferiore a tre mesi da svolgersi durante il secondo biennio.  
-Art. 134. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.  
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
-Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno;  
-per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.  
-Al termine del corso di studi per il conseguimento del diploma di specialista in igiene e medicina preventiva gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
+La frequenza alle lezioni, alle esercitazioni, ai seminari, ecc., e' obbligatoria.  
+Gli iscritti sono pure tenuti a prestare servizio clinico per non meno di nove mesi all'anno.  
+Non e' consentita alcuna abbreviazione di corso.  
+Alla fine di ciascun anno di corso gli iscritti alla scuola di specializzazione dovranno sostenere esami per gruppi di materie davanti a commissioni composte dal direttore della scuola e dai docenti delle singole discipline. La sessione di esame e' unica ed e' espletata nel mese di ottobre. I candidati non potranno iscriversi agli anni successivi se non avranno superato l'esame di profitto annuale.  
+Per conseguire il diploma di "Specialista in ostetricia e ginecologia" i candidati dovranno presentare, al termine dei corsi, una dissertazione scritta, elaborata nell'istituto di clinica ostetrica e ginecologica dell'Universita' cattolica del Sacro Cuore.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1977
+### Dato a Roma, addi' 24 settembre 1968
 
-LEONE MALFATTI
+SARAGAT SCAGLIA
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 27 giugno 1978
+Registrato alla Corte di conti, addi' 9 novembre 1968
 
-Registro n. 67 Istruzione, foglio n. 360
+Atti del Governo, registro n. 223, foglio n. 94. - DI PRETORO

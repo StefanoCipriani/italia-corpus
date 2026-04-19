@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 febbraio 1983 n. 140
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1968 n. 1368
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 febbraio 1983 n. 140
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1968 n. 1368
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Perugia.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Perugia approvato con [regio decreto 20 aprile 1939, numero 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,64 +20,172 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata [legge n. 615/1981](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;615);
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Veduti i pareri espressi al riguardo dal Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 15. - L'elenco degli insegnamenti complementari del corso di laurea in scienze politiche e' modificato nel senso che l'insegnamento di "Geografia ed etnografia coloniale" muta denominazione in quello di Etnologia";
+
+Art. 43. - All'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti quelli di:
+
+Microbiologia lattiero-casearia;
+
+Scienza dell'alimentazione del bestiame;
+
+Olivicoltura (semestrale);
+
+Virologia (semestrale);
+
+Cooperazione agricola (semestrale);
+
+Micologia (semestrale);
+
+Tecnica della sperimentazione in agricoltura (semestrale);
+
+Economia dei mercati agricoli (semestrali);
+
+Tecnologia delle conserve alimentari (semestrale);
+
+Elettrificazione agricola (semestrale).
+
+Nello stesso corso di laurea dopo il penultimo comma e' inserito il seguente:
+
+"Il corso di economia e politica agraria - pur restando biennale ed unito quanto all'insegnamento - comporta per quanto riguarda l'accertamento due esami distinti uno alla fine del 3° anno di corso (Economia agraria) ed uno alla fine del 4° anno di corso (Politica agraria)".
+
+Art. 44, relativo alle norme sulle propedeuticita' ed esami del corso di laurea in scienze agrarie e' modificato nel senso che viene aggiunto il seguente nuovo comma:
+
+"L'esame di chimica generale ed inorganica e quello di fisica debbono precedere quello di mineralogia e geologia".
+
+Art. 56. - All'elenco degli insegnamenti complementari del corso di laurea in medicina veterinaria sono aggiunti quelli di:
+
+Genetica animale;
+
+Semeiotica medica e metodologia clinica veterinaria;
+
+Fisiopatologia comparata;
+
+Anatomia topografica.
+
+Nello stesso articolo dopo l'elenco degli insegnamenti complementari il primo comma e' abrogato e sostituito dai seguenti:
+
+"Gli insegnamenti biennali di "Anatomia degli animali domestici con istologia ed embriologia" e di "Fisiologia generale e speciale degli animali domestici e chimica biologica" comportano ciascuno due esami distinti che lo studente dovra' sostenere rispettivamente dopo il primo e dopo il secondo anno di corso".
+
+Gli insegnamenti biennali di "Patologia generale ed anatomia patologica" e di "Patologia speciale e clinica medica" comportano ciascuno due esami distinti che lo studente dovra' sostenere rispettivamente dopo il terzo e dopo il quarto anno di corso".
+
+Dopo l'art. 123 e' aggiunto il seguente nuovo articolo relativo alla istituzione del corso di perfezionamento in patologia aviare annesso alla facolta' di medicina veterinaria.
+
+Corso di perfezionamento in patologia aviare
+
+Art. 124. - La durata del corso e' di un anno, le materie di insegnamento sono:
+
+Cenni di anatomia e fisiologia degli uccelli domestici;
+
+Igiene degli allevamenti avicoli e dell'alimentazione degli uccelli domestici;
+
+Malattie di origine nutritiva e carenziale;
+
+Malattie infettive;
+
+Malattie parassitarie;
+
+Avvelenamenti;
+
+Malattie ed eziologia indeterminata ed ereditaria;
+
+Anatomia ed istologia patologica.
+
+Le esercitazioni riguarderanno essenzialmente la anatomia e l'istologia patologica e la diagnosi di laboratorio delle malattie infettive parassitarie. Esse saranno integrate da sopraluoghi presso allevamenti avicoli a carattere rurale ed industriale.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 27 ottobre 1968
+
+SARAGAT
+
+SCAGLIA
+
+Visto, il Guardasigilli: GAVA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 22 gennaio 1969 Atti del Governo registro n. 224, foglio n. 165 - GRECO
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Veduto lo statuto dell'Universita' degli studi di Perugia approvato con [regio decreto 20 aprile 1939, numero 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Art. 32 - nell'elenco degli insegnamenti complementari, relativi al corso di laurea in lettere, sono inclusi i seguenti nuovi insegnamenti:   
-storia della lingua greca;   
-geografia storica dell'antichita'.   
-
-Art. 2
-------
-
+Decreta:  
   
-Art. 33 - nell'elenco degli insegnamenti complementari, relativi al corso di laurea in filosofia, sono inclusi i seguenti nuovi insegnamenti:  
-istituzioni di filosofia;  
-metodologia e didattica.  
-
-Art. 3
-------
-
+Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 15. - L'elenco degli insegnamenti complementari del corso di laurea in scienze politiche e' modificato nel senso che l'insegnamento di "Geografia ed etnografia coloniale" muta denominazione in quello di Etnologia";  
+Art. 43. - All'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti quelli di:  
+Microbiologia lattiero-casearia;  
+Scienza dell'alimentazione del bestiame;  
+Olivicoltura (semestrale);  
+Virologia (semestrale);  
+Cooperazione agricola (semestrale);  
+Micologia (semestrale);  
+Tecnica della sperimentazione in agricoltura (semestrale);  
+Economia dei mercati agricoli (semestrali);  
+Tecnologia delle conserve alimentari (semestrale);  
+Elettrificazione agricola (semestrale).  
+Nello stesso corso di laurea dopo il penultimo comma e' inserito il seguente:  
+"Il corso di economia e politica agraria - pur restando biennale ed unito quanto all'insegnamento - comporta per quanto riguarda l'accertamento due esami distinti uno alla fine del 3° anno di corso (Economia agraria) ed uno alla fine del 4° anno di corso (Politica agraria)".  
+Art. 44, relativo alle norme sulle propedeuticita' ed esami del corso di laurea in scienze agrarie e' modificato nel senso che viene aggiunto il seguente nuovo comma:  
+"L'esame di chimica generale ed inorganica e quello di fisica debbono precedere quello di mineralogia e geologia".  
+Art. 56. - All'elenco degli insegnamenti complementari del corso di laurea in medicina veterinaria sono aggiunti quelli di:  
+Genetica animale;  
+Semeiotica medica e metodologia clinica veterinaria;  
+Fisiopatologia comparata;  
+Anatomia topografica.  
+Nello stesso articolo dopo l'elenco degli insegnamenti complementari il primo comma e' abrogato e sostituito dai seguenti:  
+"Gli insegnamenti biennali di "Anatomia degli animali domestici con istologia ed embriologia" e di "Fisiologia generale e speciale degli animali domestici e chimica biologica" comportano ciascuno due esami distinti che lo studente dovra' sostenere rispettivamente dopo il primo e dopo il secondo anno di corso".  
+Gli insegnamenti biennali di "Patologia generale ed anatomia patologica" e di "Patologia speciale e clinica medica" comportano ciascuno due esami distinti che lo studente dovra' sostenere rispettivamente dopo il terzo e dopo il quarto anno di corso".  
+Dopo l'art. 123 e' aggiunto il seguente nuovo articolo relativo alla istituzione del corso di perfezionamento in patologia aviare annesso alla facolta' di medicina veterinaria.  
   
-Art. 97 - nell'elenco degli insegnamenti complementari, relativi al corso di laurea in medicina veterinaria, e' incluso il seguente nuovo insegnamento:  
-entomologia e aracnologia veterinaria.  
-
-Art. 4
-------
-
+Corso di perfezionamento in patologia aviare  
   
-Art. 84 - nell'elenco degli insegnamenti complementari, relativi al corso di laurea in scienze agrarie, sono inclusi i seguenti nuovi insegnamenti:  
-principi e metodologie genetiche delle produzioni sementiere;  
-risorse genetiche vegetali;  
-fisiologia zootecnica.  
+Art. 124. - La durata del corso e' di un anno, le materie di insegnamento sono:  
+Cenni di anatomia e fisiologia degli uccelli domestici;  
+Igiene degli allevamenti avicoli e dell'alimentazione degli uccelli domestici;  
+Malattie di origine nutritiva e carenziale;  
+Malattie infettive;  
+Malattie parassitarie;  
+Avvelenamenti;  
+Malattie ed eziologia indeterminata ed ereditaria;  
+Anatomia ed istologia patologica.  
+Le esercitazioni riguarderanno essenzialmente la anatomia e l'istologia patologica e la diagnosi di laboratorio delle malattie infettive parassitarie. Esse saranno integrate da sopraluoghi presso allevamenti avicoli a carattere rurale ed industriale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 febbraio 1983
+### Dato a Roma, addi' 27 ottobre 1968
 
-PERTINI FALCUCCI
+SARAGAT SCAGLIA
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 20 aprile 1983
+Registrato alla Corte dei conti, addi' 22 gennaio 1969
 
-Registro n. 28 Istruzione, foglio n. 115
+Atti del Governo registro n. 224, foglio n. 165 - GRECO

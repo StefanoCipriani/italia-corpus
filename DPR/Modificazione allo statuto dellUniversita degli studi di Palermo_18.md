@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 595
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1984 n. 556
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 595
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1984 n. 556
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Palermo.
@@ -39,19 +39,20 @@ Articolo unico
 --------------
 
   
-Nell'art. 13, relativo al corso di laurea in scienze politiche, all'elenco degli insegnamenti complementari dell'indirizzo politico-internazionale e' aggiunto il seguente nuovo insegnamento:  
-demografia storica.  
+Nell'art. 58, relativo al corso di laurea in fisica, della facolta' di scienze matematiche, fisiche e naturali, all'elenco degli insegnamenti complementari per l'indirizzo generale sono aggiunti i seguenti nuovi insegnamenti:  
+astrofisica;  
+fisica dello spazio.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 maggio 1983
+### Dato a Roma, addi' 7 giugno 1984
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 15 ottobre 1983
+Registrato alla Corte dei conti, addi' 24 agosto 1984
 
-Registro n. 66 Istruzione, foglio n. 149
+Registro n. 51 Istruzione, foglio n. 67

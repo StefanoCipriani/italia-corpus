@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1984 n. 319
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 712
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1984 n. 319
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 712
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Catania.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Catania approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -33,25 +33,27 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Nell'art. 60, relativo al corso di laurea in fisica, all'elenco degli insegnamenti complementari a scelta dello studente negli indirizzi: generale, didattico, applicativo e' aggiunto il seguente insegnamento:  
-meccanica statistica.  
+Nell'art. 51, relativo al corso di laurea in medicina e chirurgia, tra gli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+igiene scolastica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 marzo 1984
+### Dato a Roma, addi' 17 maggio 1986
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 26 giugno 1984
+Registrato alla Corte dei conti, addi' 14 ottobre 1986
 
-Registro n. 39 Istruzione, foglio n. 46
+Registro n. 76 Istruzione, foglio n. 361

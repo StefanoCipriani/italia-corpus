@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 maggio 1976 n. 594
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1977 n. 80
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 maggio 1976 n. 594
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1977 n. 80
 =============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-594. Decreto del Presidente della Repubblica 10 maggio 1976, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dal comune di Teggiano (Salerno), con atto 19 novembre 1974, n. 12668 di repertorio, a rogito notaio Luigi Coiro, di tutta l'area in sopraelevazione dell'edificio in cui ha sede la casa comunale e l'istituto magistrale, catastalmente indicata nell'atto suddetto, allo scopo di sopraedificarvi i locali da destinare a caserma dell'Arma dei carabinieri.  
+80. Decreto del Presidente della Repubblica 21 gennaio 1977, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dalla S.A.N.E. S.p.a. per il commercio e il traffico marittimo con l'Africa, in liquidazione, con atto 9 dicembre 1974, n. 10182 di repertorio, a rogito notaio Arnaldo Spicacci, concernente l'immobile-magazzino sito in Genova, quartiere S.  
+Lorenzo, alla via Davide Oliva n. 2.  
   
 Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 19 agosto 1976  
-Atti di Governo, registro n. 8, foglio n. 76
+Registrato alla Corte dei conti, addi' 16 marzo 1977  
+Registro n. 13 Finanze, foglio n. 304

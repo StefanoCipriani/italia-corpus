@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1968 n. 501
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1972 n. 247
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1968 n. 501
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1972 n. 247
 ============================================================
 
 Autorizzazione all'Automobile club di Modena ad acquistare un immobile.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-501. Decreto del Presidente della Repubblica 6 marzo 1968, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile club di Modena viene autorizzato ad acquistare in proprieta' dall'ingegnere Domenico Rabino, per destinarla a sede degli uffici della propria delegazione e per il prezzo di lire 14.000.000, una porzione di fabbricato, estesa per una superficie di circa 130 mq., posta al piano terra nello spigolo sud-est del fabbricato di nuova costruzione sito in Modena alla via Emilia ovest, angolo via S. Cataldo, nel catasto indicata al F. 84, mappale 1743/b, scheda n. 195720.  
+247. Decreto del Presidente della Repubblica 31 marzo 1972, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile club di Modena viene autorizzato ad acquistare in proprieta', dal sig. Enrico. Giusti, per il prezzo di L. 61.250.000, e per la costruzione della sede degli uffici di assistenza automobilistica, l'appezzamento di terreno sito in Modena, esteso per una superficie complessiva di mq. 17.500 circa individuato nel catasto alla sezione Forese, foglio n. 108/109, mappale 33617 e parte dei mappali 33678 e 33679.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 16 aprile 1968  
-Atti del Governo, registro n. 219, foglio n. 5. - GRECO
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 12 giugno 1972  
+Atti del Governo, registro n. 249, foglio n. 57. - CARUSO

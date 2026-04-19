@@ -1,21 +1,82 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 luglio 1966 n. 1096
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1968 n. 1251
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 luglio 1966 n. 1096
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1968 n. 1251
+===============================================================
 
 Modificazioni allo statuto dell'Istituto universitario pareggiato di magistero di Catania.
 ------------------------------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'istituto universitario pareggiato di magistero di Catania, approvato con [decreto del Presidente della Repubblica 18 settembre 1951, n. 1160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-09-18;1160), e modificato con [decreto del Presidente della Repubblica 25 settembre 1955, n. 957](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-25;957), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'istituto anzidetto;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Istituto universitario pareggiato di magistero di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 15. - Agli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti quelli di:
+
+Storia della lingua italiana;
+
+Filologia italiana.
+
+Art. 15-B. - Agli insegnamenti complementari del corso di laurea in pedagogia e' aggiunto quello di: medicina sociale.
+
+Dopo l'art. 70 sono aggiunti i seguenti nuovi articoli:
+
+Art. 71. - Nella prima applicazione delle presenti modifiche, i posti disponibili nei ruoli del personale di carriera direttiva, speciale di ragioneria, di concetto ed esecutiva, e della carriera direttiva e di concetto del personale di biblioteca, di cui alle tabelle organiche annesse allo statuto dell'istituto, sono conferiti dal consiglio di amministrazione, mediante concorsi interni per titoli ed esami, da indire per la qualifica iniziale di ciascun ruolo, e da espletare tra il personale non insegnante di ruolo e quello non di ruolo comunque assunto e denominato, in atto in servizio con qualsiasi qualifica che alla data di entrata in vigore delle presenti modifiche presti servizio da almeno tre anni, e sia in possesso dei prescritti titoli e requisiti, prescindendosi dal limite massimo di eta'.
+
+Art. 72. - Il personale ausiliario, a qualsiasi titolo assunto, che in atto trovasi in servizio nell'istituto, da almeno cinque anni, viene nominato di ruolo dal consiglio di amministrazione, in seguito a concorso interno per titoli, integrato da una prova pratica di scrittura sotto dettato, prescindendosi dal limite massimo di eta'.
+
+Art. 73. - Al personale docente, assistente, amministrativo, di biblioteca e subalterno di ruolo, dipendente dall'istituto verra' corrisposta, all'atto del collocamento in pensione, per ogni anno di servizio prestato, una indennita' di buonuscita pari all'ottanta per cento del solo stipendio o della sola retribuzione in godimento al momento del collocamento a riposo.
+
+Sono validi, ai fini della buonuscita, anche gli anni di servizio pre-ruolo prestati nell'istituto, che, il personale di cui sopra potra' riscattare previo versamento di una ritenuta del 2% sullo stipendio o retribuzione lorda annua corrisposta dall'istituto all'atto della presentazione della domanda di riscatto, e relativa agli anni di servizio per i quali si chiede il riscatto medesimo.
+
+Le tabelle annesse allo statuto sono soppresse e sostituite da quelle annesse al presente decreto, firmate d'ordine del Presidente della Repubblica dal Ministro per la pubblica istruzione.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 2 ottobre 1968
+
+SARAGAT
+
+SCAGLIA
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 13 dicembre 1968 Atti del Governo, registro n. 224, foglio n. 39. - GRECO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Istituto universitario pareggiato di magistero di Catania, approvato con [decreto del Presidente della Repubblica 18 settembre 1951, n. 1160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-09-18;1160) e modificato con [decreto del Presidente della Repubblica 25 settembre 1955, n. 957](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-25;957), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'istituto universitario pareggiato di magistero di Catania, approvato con [decreto del Presidente della Repubblica 18 settembre 1951, n. 1160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-09-18;1160), e modificato con [decreto del Presidente della Repubblica 25 settembre 1955, n. 957](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-25;957), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'istituto anzidetto;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -23,94 +84,179 @@ Sulla proposta del Ministro per la pubblica istruzione;
   
 Decreta:  
   
-Lo statuto dell'istituto universitario pareggiato di magistero di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 4. - L'ultimo comma e' abrogato.  
-Art. 5, relativo alla composizione del Consiglio di amministrazione, e' modificato nel senso che il penultimo comma e' abrogato e sostituito dal seguente:  
-"Avranno diritto ad avere un rappresentante ciascuno nel Consiglio di amministrazione quegli Enti che concorreranno al mantenimento dell'istituto, con una somma non inferiore a L. 2.000.000 (duemilioni) annui".  
-Art. 59, relativo alle disposizioni circa la nomina del direttore amministrativo dell'Istituto e' soppresso con Il conseguente spostamento della successiva numerazione.  
-Art. 61. - E' abrogato e sostituito dal seguente:  
+Lo statuto dell'Istituto universitario pareggiato di magistero di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-All'amministrazione dell'istituto sono assegnati posti di ruolo organico del personale di segreteria delle carriere direttiva, di concetto ed esecutiva, e del personale ausiliario, di cui alle tabelle nn. 2, 3, 4 e 5 annesse alle presenti modifiche. All'istituto sono inoltre assegnati, per il funzionamento della biblioteca, i posti organici, di cui alla tabella n. 6 annessa alle presenti modifiche. Il personale, di cui ai precedenti commi, e' nominato dal Consiglio di amministrazione dell'Istituto, con la qualifica iniziale prevista per ciascuna carriera, In seguito a pubblico concorso, con le norme e modalita' previste per il corrispondente personale dipendente dalle Amministrazioni dello Stato. Verranno altresi' osservate le norme delle Universita' statali per quanto concerne le promozioni di tutto il personale in parola. Per effetto delle su indicate modifiche le tabelle numeri 2, 3 e 4 annesse allo statuto, sono soppresse, e sostituite dalle nuove tabelle numeri 2, 3, 4, 5 e 6, annesse alle presenti modifiche. E' altresi' soppressa la tabella "Tasse, Sopratasse e contributi", in quanto gli stessi sono stati aggiornati nelle misure previste dalla [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551), ai sensi del secondo comma dell'art. 48 dello statuto.  
-Dopo l'art. 71 viene aggiunto il seguente nuovo articolo;  
-Art. 72. - All'atto dell'entrata In vigore delle presenti modifiche, il consigliere di seconda classe, con nove anni di anzianita' nella predetta qualifica, sara' Inquadrato, a giudizio del Consiglio di amministrazione dell'Istituto, nella qualifica di consigliere di prima classe.  
-Le tabelle 1, 2, 3 e 4 annesse allo statuto sono soppresse e sostituite da quelle annesse al presente decreto, firmato d'ordine del Presidente della Repubblica dal Ministro per la pubblica istruzione.  
+Art. 15. - Agli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti quelli di:  
+Storia della lingua italiana;  
+Filologia italiana.  
+  
+Art. 15-B. - Agli insegnamenti complementari del corso di laurea in pedagogia e' aggiunto quello di: medicina sociale.  
+  
+Dopo l'art. 70 sono aggiunti i seguenti nuovi articoli:  
+Art. 71. - Nella prima applicazione delle presenti modifiche, i posti disponibili nei ruoli del personale di carriera direttiva, speciale di ragioneria, di concetto ed esecutiva, e della carriera direttiva e di concetto del personale di biblioteca, di cui alle tabelle organiche annesse allo statuto dell'istituto, sono conferiti dal consiglio di amministrazione, mediante concorsi interni per titoli ed esami, da indire per la qualifica iniziale di ciascun ruolo, e da espletare tra il personale non insegnante di ruolo e quello non di ruolo comunque assunto e denominato, in atto in servizio con qualsiasi qualifica che alla data di entrata in vigore delle presenti modifiche presti servizio da almeno tre anni, e sia in possesso dei prescritti titoli e requisiti, prescindendosi dal limite massimo di eta'.  
+Art. 72. - Il personale ausiliario, a qualsiasi titolo assunto, che in atto trovasi in servizio nell'istituto, da almeno cinque anni, viene nominato di ruolo dal consiglio di amministrazione, in seguito a concorso interno per titoli, integrato da una prova pratica di scrittura sotto dettato, prescindendosi dal limite massimo di eta'.  
+Art. 73. - Al personale docente, assistente, amministrativo, di biblioteca e subalterno di ruolo, dipendente dall'istituto verra' corrisposta, all'atto del collocamento in pensione, per ogni anno di servizio prestato, una indennita' di buonuscita pari all'ottanta per cento del solo stipendio o della sola retribuzione in godimento al momento del collocamento a riposo.  
+Sono validi, ai fini della buonuscita, anche gli anni di servizio pre-ruolo prestati nell'istituto, che, il personale di cui sopra potra' riscattare previo versamento di una ritenuta del 2% sullo stipendio o retribuzione lorda annua corrisposta dall'istituto all'atto della presentazione della domanda di riscatto, e relativa agli anni di servizio per i quali si chiede il riscatto medesimo.  
+Le tabelle annesse allo statuto sono soppresse e sostituite da quelle annesse al presente decreto, firmate d'ordine del Presidente della Repubblica dal Ministro per la pubblica istruzione.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' Inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 1 luglio 1966
+### Dato a Roma, addi' 2 ottobre 1968
 
-SARAGAT GUI
+SARAGAT SCAGLIA
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 14 dicembre 1966
+Registrato alla Corte dei conti, addi' 13 dicembre 1968
 
-Atti dei Governo, registro n. 208, foglio n. 3. - VILLA
+Atti del Governo, registro n. 224, foglio n. 39. - GRECO
 
-Tabelle
+Tabella N. 1
 
  TABELLA N. 1   
   
 ORGANICO DEI PROFESSORI E DEGLI ASSISTENTI   
   
-Posti professori di ruolo. . . . . . . . . . . . . . . . . . . . N. 5 Professori incaricati . . . . . . . . . . . . . . . . . . . . . N. 14 Posti assistenti e lettori ordinari . . . . . . . . . . . . . . N. 11   
+Posti di ruolo   
+Posti professori di ruolo. . . . . . . . . . . . . . 5   
+  
+Professori incaricati. . . . . . . . . . . . . . . . 14   
+  
+Posti assistenti e lettori ordinari. . . . . . . . . 12   
+  
   
 Visto, d'ordine del Presidente della Repubblica   
+  
 Il Ministro per la pubblica istruzione   
-  
-GUI   
-  
-TABELLA N. 2   
+SCAGLIA   
+
+Tabella N. 2
+
+ TABELLA N. 2   
   
 ORGANICO DELLA CARRIERA DIRETTIVA DEGLI UFFICI AMMINISTRATIVI   
   
+Posti di ruolo   
+Direttore amministrativo di 1ª classe. . . . . . . . \ 1   
+Direttore amministrativo di 2ª classe. . . . . . . . /   
+  
+Direttore di sezione . . . . . . . . . . . . . . . . 1   
+  
+Consigliere di 1ª classe . . . . . . . . . . . . . . \_   
+Consigliere di 2ª classe . . . . . . . . . . . . . . > 2   
+Consigliere di 3ª classe . . . . . . . . . . . . . . \_   
   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=066U109600100010110001&dgu=1966-12-23&art.dataPubblicazioneGazzetta=1966-12-23&art.codiceRedazionale=066U1096)
+Visto, d'ordine del Presidente della Repubblica   
+  
+Il Ministro per la pubblica istruzione   
+SCAGLIA   
+
+Tabella N. 3
+
+ TABELLA N. 3   
+  
+ORGANICO DELLA CARRIERA DI CONCETTO DEL PERSONALE AMMINISTRATIVO   
+  
+Posti di ruolo   
+Segretario principale. . . . . . . . . . . . . . . . \_   
+Primo segretario . . . . . . . . . . . . . . . . . . \_   
+Segretario . . . . . . . . . . . . . . . . . . . . . > 2   
+Segretario aggiunto. . . . . . . . . . . . . . . . . \_   
+Vice segretario. . . . . . . . . . . . . . . . . . . \_   
   
   
+Visto, d'ordine del Presidente della Repubblica   
   
-  
-TABELLA N. 3   
+Il Ministro per la pubblica istruzione   
+SCAGLIA   
+
+Tabella N. 4
+
+ TABELLA N. 4   
   
 ORGANICO DELLA CARRIERA SPECIALE DEL PERSONALE DI RAGIONERIA   
   
+Posti di ruolo   
+Carriera direttiva:   
+  
+Direttore di ragioneria. . . . . . . . . . . . . . \ 1   
+Ragioniere principale. . . . . . . . . . . . . . . /   
+  
+Primo ragioniere . . . . . . . . . . . . . . . . . 1   
   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=066U109600100010110002&dgu=1966-12-23&art.dataPubblicazioneGazzetta=1966-12-23&art.codiceRedazionale=066U1096)
+Carriera di concetto:   
+  
+Ragioniere . . . . . . . . . . . . . . . . . . . . \_   
+Ragioniere aggiunto. . . . . . . . . . . . . . . . > 1   
+Vice ragioniere. . . . . . . . . . . . . . . . . . \_   
   
   
+Visto, d'ordine del Presidente della Repubblica   
   
-  
-TABELLA N. 4   
+Il Ministro per la pubblica istruzione   
+SCAGLIA   
+
+Tabella N. 5
+
+ TABELLA N. 5   
   
 ORGANICO DELLA CARRIERA ESECUTIVA   
   
+Posti di ruolo   
+Posti di ruolo Archivista capo . . . . . . . . . . . 1   
+  
+Primo archivista . . . . . . . . . . . . . . . . . . 2   
+  
+Archivista . . . . . . . . . . . . . . . . . . . . . \_   
+Applicato. . . . . . . . . . . . . . . . . . . . . . > 7   
+Applicato aggiunto . . . . . . . . . . . . . . . . . \_   
   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=066U109600100010110003&dgu=1966-12-23&art.dataPubblicazioneGazzetta=1966-12-23&art.codiceRedazionale=066U1096)
+Visto, d'ordine del Presidente della Repubblica   
   
-  
-  
-  
-TABELLA N. 5   
+Il Ministro per la pubblica istruzione   
+SCAGLIA   
+
+Tabella N. 6
+
+ TABELLA N. 6   
   
 ORGANICO DEL PERSONALE AUSILIARIO   
   
+Posti di ruolo   
+Bidello capo . . . . . . . . . . . . . . . . . . . . 1   
+  
+Bidello di 1ª classe . . . . . . . . . . . . . . . . \_   
+Bidello di 2ª classe . . . . . . . . . . . . . . . . > 8   
+Bidello di 3ª classe . . . . . . . . . . . . . . . . \_   
   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=066U109600100010110004&dgu=1966-12-23&art.dataPubblicazioneGazzetta=1966-12-23&art.codiceRedazionale=066U1096)
+Visto, d'ordine del Presidente della Repubblica   
   
-  
-  
-  
-TABELLA N. 6   
+Il Ministro per la pubblica istruzione   
+SCAGLIA   
+
+Tabella N. 7
+
+ TABELLA N. 7   
   
 ORGANICO DEL PERSONALE DI BIBLIOTECA   
   
+Posti di ruolo   
+Carriera direttiva:   
+  
+Bibliotecario di 1ª classe . . . . . . . . . . . . \_   
+Bibliotecario di 2ª classe . . . . . . . . . . . . \_   
+Bibliotecario di 3ª classe . . . . . . . . . . . . > 1   
+Bibliotecario aggiunto . . . . . . . . . . . . . . \_   
+Vice bibliotecario . . . . . . . . . . . . . . . . \_   
   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=066U109600100010110005&dgu=1966-12-23&art.dataPubblicazioneGazzetta=1966-12-23&art.codiceRedazionale=066U1096)
+Visto, d'ordine del Presidente della Repubblica   
   
+Il Ministro per la pubblica istruzione   
+SCAGLIA   

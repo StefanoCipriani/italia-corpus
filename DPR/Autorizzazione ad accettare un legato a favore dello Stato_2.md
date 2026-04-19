@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 ottobre 1984 n. 1004
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1986 n. 888
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 ottobre 1984 n. 1004
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1986 n. 888
+=============================================================
 
 Autorizzazione ad accettare un legato a favore dello Stato.
 -----------------------------------------------------------
@@ -12,15 +12,8 @@ Art. 1
 
 N.
 
-1004. Decreto del Presidente della Repubblica 13 ottobre 1984, col quale, sulla proposta del Ministro delle finanze, viene autorizzato   
-il conseguimento del legato, consistente nella casa sita in Roma, alla via Cassia Antica n. 35, col parco e le costruzioni ivi   
-annesse, compresi anche oggetti e quadri ivi contenuti, esclusi   
-quelli lasciati ad altri, disposto a favore dello Stato dall'avv.   
-Cesare Tumedei con testamento olografo 28 giugno 1976 e successivi codicilli, il tutto pubblicato in data 16 aprile 1980, n. 5827 di repertorio, a rogito dott. Giovanni Gilardoni, notaio in Roma,   
-registrato a Roma in data 29 aprile 1980, da destinare ad   
-abitazione privata del Presidente del Consiglio dei Ministri in   
-carica.   
+888. Decreto del Presidente della Repubblica 4 giugno 1986, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato del legato, consistente in una collezione composta di ventiquattro esemplari in maiolica e un bronzetto, i quali rivestono un interesse artistico e storico, da destinare al Museo nazionale del Bargello, in Firenze, disposto dalla sig.ra Buschka Diamondstein ved. Manenti con testamento olografo 3 settembre 1981, pubblicato in data 11 febbraio 1982, n. 2383 di repertorio, a rogito dott.ssa Lucia Niccolai, notaio in Firenze, registrato a Firenze in data 19 febbraio 1982 al n. 2109.   
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 28 gennaio 1985   
-Registro n. 4 Finanze, foglio n. 301
+Visto, il Guardasigilli: ROGNONI   
+Registrato alla Corte dei conti, addi' 15 dicembre 1986   
+Registro n. 35 Beni culturali, foglio n. 36

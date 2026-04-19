@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1982 n. 921
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 274
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1982 n. 921
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 274
+============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una donazione.
 ------------------------------------------------------------------------------------------------------
@@ -10,10 +10,10 @@ Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad ac
 Art. 1
 ------
 
-N.
+n.
 
-921. Decreto del Presidente della Repubblica 28 ottobre 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare la donazione, consistente nella nuda proprieta' di un appartamento sito in Milano, via Clusone, 1, censito al nuovo catasto edilizio urbano alla partita 268961, foglio 440, particella 395, sub 34, del valore attribuito di L. 3.500.000, ritenuto congruo dall'ufficio tecnico erariale di Milano, disposta dalla sig.na Ermida Maino con atto 11 gennaio 1980, n. 2943/529 di repertorio, a rogito dott. Ulderico Brambilla, notaio in Milano e registrato a Milano in data 29 gennaio 1980 al n. 1986.  
+274. Decreto del Presidente della Repubblica 10 marzo 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare la donazione, consistente nella nuda proprieta' di un immobile sito in Domo (Pavia), distinto al nuovo catasto edilizio urbano alla partita 549, foglio 19, mappali 630, 631 e 483, del valore di L. 70.000.000, disposta dalle sorelle Perotti Pierina ed Emilia, con atto 20 ottobre 1982, n. 1856/1225 di repertorio, a rogito dott. Ulderico Brambilla, notaio in Milano, registrato a Milano in data 29 ottobre 1982 al n. 18628.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 11 dicembre 1982  
-Registro n. 11 Presidenza, foglio n. 181
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 6 giugno 1986  
+Registro n. 5 Presidenza, foglio n. 85

@@ -1,134 +1,139 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1957 n. 447
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 ottobre 1949 n. 989
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1957 n. 447
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 ottobre 1949 n. 989
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regi decreti 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-26;1734), [26 ottobre 1940, n. 2069](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2069), [4 maggio 1942, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-05-04;565), [24 luglio 1942, n. 949](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-24;949), [24 agosto 1942, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-08-24;1098), [24 ottobre 1942, n. 1672, con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1672) [12 aprile 1947, n. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-04-12;461) e [31 dicembre 1947, n. 1758, e con decreto del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-31;1758) [24 dicembre 1948, n. 1619](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-12-24;1619);
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla
+-----
+
+proposta del Ministro per la pubblica istruzione; Decreta:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734) e successivi;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:   
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' cosi' ulteriormente modificato:  
   
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Dopo l'art. 142 vengono inseriti i seguenti nuovi articoli col conseguente spostamento della numerazione degli articoli successivi.  
+Gli articoli dal 238 al 245 vengono abrogati.  
   
-Dopo le scuole di perfezionamento e di specializzazione della Facolta' di giurisprudenza, vanno inserite le seguenti norme riguardanti i corsi di specializzazione della Facolta' di economia e commercio.   
+TITOLO XV.  
+Scuola speciale per bibliotecari e archisti paleografi.  
   
-Corso di specializzazione in discipline bancarie   
+Art. 143. - La scuola speciale per bibliotecari e archivisti paleografi si propone di fornire la preparazione scientifica e tecnica, particolarmente paleografica, a coloro che intendano dedicarsi al governo delle biblioteche e degli archivi pubblici, e altresi' di perfezionare coloro che, appartenendo al personale di quegli istituti, gia' abbiano iniziato tale preparazione.  
+Art. 144. - Alla scuola possono iscriversi i laureati in lettere o in filosofia o in giurisprudenza o in scienze politiche (questi ultimi purche' provvisti del diploma di maturita' classica).  
+Agli iscritti si applicano per quanto concerne le tasse e sopratasse, le disposizioni stabilite per gli studenti della Facolta' di lettere e filosofia.  
+Art. 145. - Il corso della scuola ha la durata di due anni e si distingue in due indirizzi, i quali conducono ai diplomi:  
+a) di bibliotecario-paleografo;  
+b) di archivista-paleografo.  
+All'atto dell'iscrizione gli allievi debbono dichiarare l'indirizzo prescelto. Durante il corso e' consentito il passaggio da un indirizzo all'altro su conforme parere del Consiglio della scuola.  
+Art. 146. - Gli insegnamenti costitutivi della scuola sono i seguenti:  
+1) antichita' medioevali;  
+2) archivistica con esercitazioni;  
+3) bibliografia e biblioteconomia con esercitazioni;  
+4) diplomatica;  
+5) filologia romanza;  
+6) istituzioni giuridiche medioevali e moderne;  
+7) lingua e letteratura latina medioevale;  
+8) paleografia greca e papirologia;  
+9) paleografia latina;  
+10) papirologia giuridica;  
+11) storia della lingua italiana;  
+12) storia della tradizione manoscritta;  
+13) storia delle arti decorative del manoscritto e del libro;  
+14) storia dell'ordinamento amministrativo e giudiziario dei singoli Stati italiani;  
+15) storia del Risorgimento;  
+16) storia medioevale;  
+17) storia moderna.  
+Questi insegnamenti sono impartiti o come corsi ufficiali o come parte dei corsi ufficiali di altri insegnamenti piu' comprensivi delle Facolta' di lettere e filosofia e di giurisprudenza.  
+Il Consiglio della scuola deve controllare e approvare i piani di studio presentati dagli allievi, al quali puo' prescrivere, o semplicemente raccomandare, la frequenza di corsi di insegnamenti, anche diversi da quelli sopra enumerati, impartiti nella Facolta' di lettere e filosofia o in altra Facolta', che abbiano particolare interesse ai fini della scuola.  
+Art. 147. - Sono insegnamenti fondamentali:  
+a) per gli allievi che aspirino al diploma di bibliotecario-paleografo:  
+1) bibliografia e biblioteconomia con esercitazioni (biennale);  
+2) paleografia, latina (biennale);  
+3) paleografia greca e papirologia;  
+4) storia delle arti decorative del manoscritto e del libro;  
+5) lingua e letteratura, latina medioevale;  
+6) storia della tradizione manoscritta;  
+7) archivistica con esercitazioni;  
+b) per gli allievi che aspirino al diploma di archivista-paleografo;  
+1) archivistica con esercitazioni (biennale);  
+2) paleografia latina (biennale);  
+3) diplomatica (biennale);  
+4) istituzioni giuridiche medioevali e moderne (biennale);  
+5) storia dell'ordinamento amministrativo e giudiziario dei singoli Stati italiani;  
+6) antichita' medioevali;  
+7) bibliografia e biblioteconomia con esercitazioni.  
+Sono insegnamenti complementari comuni ai due indirizzi i rimanenti e quelli fra i fondamentali che non siano propri dell'indirizzo prescelto.  
+Per essere ammessi a sostenere l'esame di diploma gli allievi debbono aver seguito i corsi e superato gli esami negli insegnamenti fondamentali propri dell'indirizzo prescelto e almeno in uno od eventualmente due o tre o quattro dei complementari, con l'obbligo di includere fra questi, qualora non ne abbiano seguito i corsi e superato gli esami come studenti delle Facolta' da lettere e filosofia o di giurisprudenza:  
+a) se aspiranti al diploma di bibliotecario-paleografo: filologia romanza, storia medioevale e storia moderna;  
+b) se aspiranti al diploma di archivista paleografo: lingua, e letteratura latina medioevale, storia medioevale, storia moderna e storia del Risorgimento.  
+Gli allievi possono sostenere al termine del primo anno di iscrizione esami biennali negli insegnamenti costitutivi della scuola di cui abbiano seguito i corsi durante l'anno precedente come studenti della Facolta' di lettere e filosofia e di giurisprudenza.  
+L'esame di paleografia latina e' preceduto dalla trascrizione con illustrazione critica e, se il caso, transunto di un testo letterario o documentario, a seconda che trattasi di aspiranti al diploma di bibliotecariopaleografo o a quello di archivista-paleografo.  
+Le esercitazioni pratiche di bibliografia, di biblioteconomia e di archivistica (lavori di ordinamento, catalogazione, ecc.) si fanno presso biblioteche e archivi pubblici, da designarsi a cura del Consiglio della scuola previa intese con i capi di tali istituti.  
+Gli allievi debbono pure dimostrare con titoli o con esami:  
+a) se aspiranti al diploma di bibliotecario-paleografo, di conoscere la lingua francese e la lingua inglese o tedesca, di sapere adoperare materiali bibliografici inglesi, tedeschi e spagnoli e di avere nozioni pratiche di schedatura in altre lingue;  
+b) se aspiranti al diploma di archivista-paleografo, di conoscere la lingua francese e di avere elementi di altre due lingue estere, fra le quali l'inglese o la tedesca.  
+Art. 148. - L'esame di diploma consiste nella presentazione e discussione orale di una dissertazione scritta su di un tema:  
+di bibliografia o di biblioteconomia o di storia delle arti decorative del manoscritto e del libro per gli aspiranti al diploma di bibliotecario-paleografo;  
+di archivistica o di diplomatica o di storia dell'ordinamento amministrativo e giudiziario dei singoli Stati italiani per gli aspiranti al diploma di archivista-paleografo;  
+di paleografia latina o di paleografia greca o di papirologia o di storia della tradizione manoscritta per gli uni e per gli altri.  
+Art. 149. - Agli iscritti che durante gli studi universitari abbiano seguito un corso di paleografia latina e superato il relativo esame o che siano provvisti di diploma, rilasciato da una scuola di paleografia italiana o estera, puo' eccezionalmente essere concessa, a domanda, l'abbreviazione di un anno di corso, quando il Consiglio della scuola lo riconosca giustificato in rapporto ai titoli presentati dai richiedenti a documento della loro preparazione specifica.  
+A coloro che, essendo provvisti di uno dei due diplomi rilasciati dalla scuola o dalla scuola speciale per bibliotecari e archivisti paleografi dell'Universita' degli studi di Firenze, aspirino all'altro, e a coloro che appargano ai ruoli del personale di gruppo A delle biblioteche governative o degli archivi di Stato e rispettivamente aspirino al diploma di bibliotecario -paleografo o a quello di archivista-paleografo, l'abbreviazione e' concessa di diritto.  
+Agli effetti del terzo comma dell'art. 147 gli allievi ai quali sia concessa l'abbreviazione, debbono seguire i corsi e superare gli esami negli insegnamenti fondamentali propri dell'indirizzo prescelto, sostenendo come annuali gli esami biennali; e, su conforme parere del Consiglio della scuola, possono essere dispensati in tutto o in parte dal seguire i corsi e sostenere gli esami negli insegnamenti complementari, se in questi stessi insegnamenti abbiano seguito i corsi e superato gli esami durante gli studi universitari.  
+Hanno di diritto tale dispensa coloro ai quali sia concessa l'abbreviazione ai sensi del comma precedente.  
+Art. 150. - Agli allievi e ai diplomati possono essere conferiti, su proposta del Consiglio della scuola, sussidi per visitare biblioteche o archivi, italiani o esteri, e borse di perfezionamento.  
+Il numero e la misura delle borse e dei sussidi sono determinati annualmente dal Consiglio della scuola in relazione alle disponibilita' finanziarie.  
+Il concorso alle borse e' per titoli, secondo le norme che saranno fissate dal Consiglio della scuola.  
+Gli attuali articoli dal 214 al 221 vengono sostituiti dai seguenti col relativo spostamento della numerazione degli articoli successivi.  
   
-Art. 215. - Il corso di specializzazione in discipline bancarie, annesso alla Facolta' di economia e commercio di Roma, ha lo scopo di completare nei laureati in economia e commercio le conoscenze utili al raggiungimento di una specifica maturita' in ordine alle esigenze di una fattiva e responsabile direzione di organismi bancari importanti.   
-Art. 216. - Il direttore del corso di specializzazione, e' il professore di ruolo, titolare della cattedra di tecnica bancaria e professionale.   
-Il direttore del corso, su conforme parere del Consiglio della facolta', puo' proporre che un professore del Consiglio di facolta', docente del corso assuma le funzioni di vice-direttore con l'incarico di coadiuvarlo e di sostituirlo temporaneamente. Alla nomina provvede il rettore.   
-Gli insegnanti del corso sono proposti annualmente dal direttore, che puo' sceglierli fra i professori di ruolo e fuori ruolo, fra i liberi docenti, o anche fra persone di riconosciuta competenza nelle rispettive specialita'.   
-Tali proposte sono subordinate all'approvazione del Consiglio di facolta' e alle nomine provvede il rettore.   
-Il Consiglio del corso si compone di tutti i professori che vi tengono gli insegnamenti prescritti ed e' presieduto dal direttore.   
-Art. 217. - Al corso possono essere iscritti i laureati in economia e commercio e i laureati stranieri in possesso di titoli di studio che siano giudicati dalle autorita' accademiche equipollenti alla laurea italiana in economia e commercio al solo effetto dell'ammissione al corso.   
-Art. 218. - Nel manifesto annuale possono essere stabilite particolari condizioni di ammissione, nonche' un numero massimo di iscrizioni. In mancanza di un sufficiente numero di iscritti il Consiglio di facolta' puo' disporre che il corso non abbia luogo per un anno.   
-Tuttavia, se il corso venga comunque iniziato, dovra' essere proseguito, qualunque sia il numero degli iscritti, per la durata dell'intero corso.   
-Art. 219. - Il corso ha la durata di un anno e consiste nei seguenti insegnamenti che si svolgeranno nei periodi e con la durata che saranno fissati dal Consiglio dei professori:   
-1) Economia monetaria e creditizia;   
-2) Diritto bancario;   
-3) Ordinamenti bancari esteri;   
-4) Organizzazione amministrativa e gestione delle imprese bancarie;   
-5) Organizzazione contabile delle imprese bancarie;   
-6) Ordinamento e tecnica dei crediti speciali;   
-7) Mercato finanziario e tecnica di borsa;   
-8) Tecnica e disciplina dei cambi e del commercio estero;   
-9) Diritto tributario;   
-10) Statistica di mercato e statistica bancaria;   
-11) Rapporti di lavoro, assistenza e previdenza sociale nelle banche;   
-12) Organizzazione meccanografica dei servizi di banca.   
-Art. 220. - Il corso rilascia un certificato di frequenza e di esami sostenuti ai candidati che, avendo frequentato il corso stesso, superino, entro un periodo massimo di un biennio dalla iscrizione, gli esami delle singole discipline di cui all'art. 219, nonche' un esame finale.   
-Art. 221. - L'esame finale consistera' in una prova orale di cultura generale sulle discipline interessanti la specializzazione e sara' sostenuto dopo aver superato tutti gli esami speciali davanti a una Commissione di sette membri, nominati dal rettore, su proposta del direttore del corso e composta in totalita', od in maggioranza, da insegnanti del corso stesso.   
-Art. 222. - A completamento degli insegnamenti di cui all'art. 219 potranno essere tenute esercitazioni pratiche, conferenze su argomenti interessanti la specializzazione e predisposti viaggi di studio, visite e periodi di pratica in Italia e all'estero.   
-Art. 223. - Per gli iscritti al corso valgono, in quanto applicabili, le disposizioni regolamentari vigenti per gli studenti dei corsi di laurea.   
-Art. 224. - Gli iscritti al corso sono tenuti a pagare le medesime tasse, soprattasse e contributi generali, nella misura stabilita dalle vigenti disposizioni di legge per gli studenti della Facolta' di economia e commercio. La misura dei contributi per le esercitazioni di cui gli iscritti usufruiranno durante il corso e' fissata dal Consiglio di amministrazione, su proposta del Senato accademico, udito il Consiglio di facolta'.   
+Scuola di archeologia.  
   
-Corso di specializzazione in economia dei trasporti e del turismo   
-Art. 225. - Il corso di specializzazione in economia dei trasporti e del turismo annesso alla Facolta' di economia e commercio ha lo scopo di completare nei laureati le conoscenze utili per la direzione e gli impieghi presso le imprese turistiche, alberghiere e di trasporto e presso le aziende e gli enti pubblici interessati al movimento dei forestieri, ai trasporti e alle comunicazioni.   
-Art. 226. - Il direttore del corso e' nominato dal rettore fra i professori di ruolo della Facolta', su proposta del Consiglio della facolta' stessa, dura in carica un triennio, e puo' essere confermato.   
-Il direttore del corso su conforme parere della Facolta' puo' proporre che un professore della stessa Facolta', docente del corso, assuma le funzioni di vice direttore con l'incarico di coadiuvarlo e di sostituirlo temporaneamente. Alla nomina provvede il rettore.   
-Gli insegnanti del corso sono proposti annualmente dal direttore, che puo' sceglierli fra i professori di ruolo e fuori ruolo, fra i liberi docenti, o anche fra persone di riconosciuta competenza nelle rispettive specialita'.   
-Tali proposte sono subordinate all'approvazione della Facolta' e alle nomine provvede il rettore.   
-Il Consiglio del corso si compone di tutti i professori che vi tengono gli insegnamenti prescritti ed e' presieduto dal direttore.   
-Art. 227. - Al corso possono essere iscritti i laureati in economia e commercio, in giurisprudenza, in scienze politiche e in scienze statistiche, demografiche e attuariali od anche laureati stranieri in possesso di titoli di studio che siano giudicati dalle autorita' accademiche equipollenti alle lauree italiane di cui al presente articolo al solo effetto dell'ammissione al corso.   
-Art. 228. - Nel manifesto annuale possono essere stabilite particolari condizioni di ammissione, nonche' un numero, massimo di iscrizioni. In mancanza di un sufficiente numero di iscritti, il Consiglio di facolta' puo' disporre che il corso non abbia luogo per un anno.   
-Tuttavia, se il corso venga comunque iniziato, dovra' essere proseguito, qualunque sia il numero degli iscritti per la durata dell'intero corso.   
-Art. 229. - Il corso ha la durata di un anno e consiste nei seguenti insegnamenti che si svolgeranno nei periodi e con la durata che saranno fissati dal Consiglio dei professori:   
-1) Economia dei trasporti e del turismo;   
-2) Statistica dei trasporti e del turismo;   
-3) Sociologia e psicologia del turismo;   
-4) Geografia delle comunicazioni;   
-5) Tecnica amministrativa delle imprese dei trasporti e di turismo;   
-6) Tecnica merceologica dei trasporti;   
-7) Legislazione dei trasporti e del turismo;   
-8) Tecnica valutaria e creditizia.   
-Art. 230. - Il corso rilascia un certificato di frequenza e di esami sostenuti ai candidati che, avendo frequentato il corso, superino, entro un periodo massimo di un biennio dalla iscrizione, gli esami delle discipline di cui all'art. 229, ed un esame finale nonche' esami di lingua francese e di un'altra lingua europea.   
-Art. 231. - L'esame finale, al quale gli iscritti potranno presentarsi dopo aver superato tutti gli esami di profitto, consistera' nella discussione di una memoria originale su argomento relativo alle materie di insegnamento e sara' sostenuto dai candidati davanti ad una Commissione composta di sette membri, nominata dal rettore, su proposta del direttore del corso e composta in totalita', od in maggioranza, da insegnanti del corso stesso.   
-Art. 232. - A complemento degli insegnamenti di cui all'art. 229 potranno essere tenute conferenze sui problemi della propaganda, della pubblicita', del diritto marittimo ed aereo, di amministrazione e di altre materie affini, da esperti in materia, e potranno anche essere predisposte visite e gite di studio per la conoscenza del funzionamento di organizzazioni per la ricettivita' ed i trasporti.   
-Art. 233. - Per gli iscritti al corso valgono, in quanto applicabili, le disposizioni regolamentari vigenti per gli studenti dei corsi di laurea.   
-Art. 234. - Gli iscritti al corso sono tenuti a pagare le medesime tasse, soprattasse e contributi generali, nella misura stabilita dalle vigenti disposizioni di legge per gli studenti della Facolta' di economia e commercio.   
-La misura dei contributi per le esercitazioni di cui gli iscritti usufruiranno durante il corso e' fissata dal Consiglio di amministrazione su proposta del Senato accademico, udito il Consiglio di facolta'.   
-Dopo l'art. 384, sono aggiunti i seguenti nuovi articoli relativi alla istituzione del corso di specializzazione in ingegneria del traffico, con il conseguente spostamento della numerazione degli articoli successivi.   
-  
-Corso di specializzazione in ingegneria del traffico   
-  
-Art. 385. - Presso la Facolta' di ingegneria della Universita' degli studi di Roma e' istituito un corso di specializzazione in "ingegneria del traffico", al fine di preparare tecnici specializzati alla risoluzione di problemi inerenti alla circolazione dei mezzi di trasporto su strada.   
-Art. 386. - Il corso ha la durata di un anno; e' diretto da un professore ordinario della Facolta' nominato dal rettore su designazione del Consiglio di facolta'.   
-Il Consiglio del corso e' composto dal direttore e dai docenti degli insegnamenti costitutivi di cui all'art. 389.   
-Art. 387. - Al corso possono essere ammessi esclusivamente laureati in ingegneria.   
-Il Consiglio del corso delibera ogni anno tempestivamente l'inizio delle lezioni e lo svolgimento delle lezioni, il numero massimo degli iscritti e le norme per la ammissione nonche' il numero minimo di iscritti affinche' il corso stesso abbia luogo.   
-Il Consiglio di facolta' potra' sospendere lo svolgimento del corso a partire dall'anno accademico successivo alla deliberazione.   
-Art. 388. - La frequenza ai singoli insegnamenti deve essere attestata dai rispettivi docenti, secondo le modalita' stabilite dal Consiglio del corso.   
-Art. 389. - Gli insegnamenti impartiti nel corso si distinguono in costitutivi e monografici.   
-Gli insegnamenti costitutivi (con esercitazioni) sono:   
-1) Elementi del traffico;   
-2) Controllo e regolazione del traffico;   
-3) Progetto della viabilita';   
-4) Traffico e urbanistica.   
-Gli insegnamenti monografici sono:   
-1° gruppo:   
-1) Fondamenti di statistica;   
-2) Elementi di psicotecnica;   
-3) Legislazione e infortunistica.   
-2° gruppo:   
-1) Trasporti pubblici urbani e suburbani;   
-2) Problemi economici della ingegneria del traffico.   
-Gli esami degli insegnamenti costitutivi possono comprendere una prova pratica.   
-Il Consiglio del corso stabilisce la durata degli insegnamenti.   
-Gli insegnamenti monografici formano oggetto di esami di gruppo.   
-Gli insegnamenti potranno venire integrati da conferenze e visite ad impianti, stabilimenti o situazioni stradali di particolare interesse.   
-Art. 390. - E' data facolta' al direttore, all'inizio di ogni anno accademico, di rivedere il programma del corso e, sentito il parere del Consiglio, di sottoporre al Consiglio della facolta' proposte di variazioni del medesimo che saranno rese pubbliche soltanto dopo l'approvazione degli organi competenti, ai sensi delle vigenti disposizioni di legge.   
-Art. 391. - Gli insegnanti del corso sono proposti dal direttore, che puo' sceglierli fra i professori di ruolo e fuori ruolo, fra i liberi docenti, fra gli aiuti e gli assistenti o anche fra persone di riconosciuta competenza nelle rispettive specialita'. Tali proposte sono subordinate alla approvazione del Consiglio di facolta' e alle nomine provvede il rettore.   
-Art. 392. - Per la validita' del corso, cioe' per il conseguimento dell'attestato di cui all'art. 393, gli iscritti dovranno: superare gli esami degli insegnamenti costitutivi e quelli di gruppo sugli insegnamenti monografici; redigere un progetto o uno studio sulle materie d'insegnamento.   
-Tale ultimo elaborato verra' discusso alla presenza di una Commissione di cinque membri scelti fra i docenti del corso e nominata e presieduta dal direttore del corso.   
-Ogni esame fallito potra' essere ripetuto una sola volta.   
-Art. 393. - Agli iscritti che abbiano superato tutti gli esami ed ottenuta la idoneita' nel progetto o studio finale viene rilasciato un attestato comprovante la carriera scolastica compiuta.   
-Art. 394. - Gli iscritti al corso sono tenuti a pagare le tasse, soprattasse, contributi generali e per esercitazioni nella misura che verra' stabilita dal Consiglio di amministrazione della Universita' su proposta del Consiglio della facolta' udito il direttore del corso.   
+Art. 214. - La scuola di archeologia si propone il compito di promuovere il perfezionamento nelle discipline archeologiche e di fornire la preparazione scientifica e l'addestramento pratico ai giovani che intendono dedicarsi allo studio della storia dell'arte e delle antichita' classiche e al governo del monumenti, musei e scavi di antichita'.  
+Art. 215. - Alla scuola possono iscriversi i laureati in lettere.  
+Il corso della scuola ha la durata di tre anni.  
+Art. 216. - Gli insegnamenti costitutivi della Scuola sono: 1) archeologia e storia dell'arte greca e romana; 2) Storia romana con esercitazioni di epigrafia romana; 3) Epigrafia greca; 4) Antichita' greche e romane; 5) Etruscologia, e archeologia italica; 6) Topografia romana; 7) Topografia dell'Italia antica; 8) Paleontologia; 9) Numismatica; 10) Archeologia dell'Africa romana.  
+Art. 217. - La scuola potra' inoltre promuovere lezioni speciali ed esercitazioni pratiche di: 1) Elementi di disegno, cartografia, architettura e rilievo di monumenti; 2) Elementi di mineralogia e geologia applicati all'archeologia 3) Tecnica degli scavi; 4) Tecnica del restauro; 5) Catalogo e ordinamento dei musei.  
+Art. 218. - Il corso di studio si distingue in quattro indirizzi:  
+1) Storia dell'arte antica; 2) Epigrafia e antichita'; 3) Topografia archeologica; 4) Preistoria e protostoria.  
+Ciascun indirizzo comprende sette insegnamenti. Il Consiglio della scuola indichera', all'inizio del corso di studi di ciascun allievo, in rapporto con l'indirizzo da lui prescelto e previo un esame del precedente curricolo, di studi, i sette insegnamenti costitutivi della scuola nei quali egli dovra' compiere il suo perfezionamento.  
+Gli prescrivera' inoltre le lezioni speciali e le esercitazioni pratiche che riterra' opportune.  
+Art. 219. - Al termine di ciascuno dei primi dei due anni gli allievi dovranno dimostrare la loro preparazione attraverso prove di maturita' nei sette insegnamenti indicati a ciascuno dal Consiglio della scuola. Di tali prove quattro saranno sostenute nel primo anno; tre nel secondo anno. Esse potranno avere carattere di colloquio sia sopra il corso, sia sopra un argomento speciale assegnato dal professore o proposto dall'allievo ed accettato dal professore. Due di sette prove, indicate a ciascun allievo dal Consiglio della scuola una nel primo e l'altra nel secondo anno, avranno la forma di saggio scritto.  
+Art. 220. - Il Consiglio della scuola si riserva di prendere gli opportuni accordi con le Soprintendenze e le Direzioni dei musei e degli scavi per agevolare il tirocinio degli allievi e di determinare i programmi dei saggi di scavo, dei sopraluoghi e dei viaggi d'istruzione da compiere di preferenza durante i periodi di vacanza dei primi due anni.  
+Art. 221. - Nel terzo anno gli allievi debbono a loro scelta recarsi in Grecia, a compiere il loro perfezionamento presso la Scuola archeologica italiana di Atene, oppure svolgere in Italia un programma di studio concordato con il Consiglio della scuola, consistente nella partecipazione ad uno scavo appositamente organizzato e, a seconda dei casi, in viaggi, ricognizioni archeologiche od epigrafiche, lavori di catalogazione nei musei, ricerche bibliografiche, ecc. Gli allievi sono tenuti a presentare una relazione scritta dell'attivita' da loro svolta.  
+Il viaggio in Grecia per il perfezionamento e' obbligatorio per gli allievi che siano forniti di una delle borse di studio concesse a norma del [regio decreto 24 maggio 1926, n. 1113](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-05-24;1113). In caso di assoluta impossibilita' il Consiglio della scuola si riserva di indicare il modo di sostituirlo.  
+Art. 222. - Compiuto il terzo anno, gli allievi debbono presentare una dissertazione scritta, di carattere critico, che dia prova della loro maturita' scientifica.  
+Se questa dissertazione e la relativa discussione orale hanno l'approvazione della Commissione giudicatrice, e' rilasciato all'allievo il diploma di perfezionamento.  
+Art. 223. - Il Consiglio della scuola si riserva, in via del tutto eccezionale, la facolta' di concedere l'ammissione al secondo anno della scuola a quegli aspiranti che per gli studi precedentemente compiuti ne siano meritevoli a parere unanime del Consiglio stesso.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 maggio 1957
+### Dato a Roma, addi' 20 ottobre 1949
 
-GRONCHI
+EINAUDI GONELLA
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: GRASSI
 
-Registrato alla Corte dei conti, addi' 24 giugno 1957
+Registrato alla Corte dei conti, addi' 3 gennaio 1950
 
-Atti del Governo, registro n. 106, foglio n. 91. - CARLOMAGNO
+Atti del Governo, registro n. 31, foglio n. 5. - FRASCA

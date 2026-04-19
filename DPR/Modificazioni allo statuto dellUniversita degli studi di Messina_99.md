@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1981 n. 672
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1956 n. 1137
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1981 n. 672
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1956 n. 1137
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
@@ -10,7 +10,11 @@ Modificazioni allo statuto dell'Universita' degli studi di Messina.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923) e modificato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Messina approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090) e modificato con [regi decreti 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905);
+
+28 maggio 1942, n. 643; e con [decreto del Capo provvisorio dello Stato 22 giugno 1947, n. 774](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-06-22;774); e con [decreti del Presidente della Repubblica 5 agosto 1951, n. 1335](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-05;1335);
+
+27 ottobre 1951, n. 1827; 30 luglio 1953, n. 999; 8 febbraio 1954, n. 403; 27 marzo 1954, n. 735; 24 luglio 1955, n. 779 e 28 giugno 1956, n. 764;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,74 +22,72 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare la nuove modifiche proposte;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Sulla proposta del Ministro per la pubblica istruzione;
 
-Sulla
------
+Decreta:
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Art. 14. - Agli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto quello di "diritto pubblico regionale".
 
+Art. 21. - Agli insegnamenti complementari del corso di laurea in economia e commercio e' aggiunto quello di "economia montana e forestale".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 5 settembre 1956
+
+GRONCHI
+
+ROSSI
+
+Visto, il Guardasigilli: MORO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 12 ottobre 1956 Atti del Governo, registro n. 101, foglio n. 21. - CARLOMAGNO
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Lo statuto dell'Universita' di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Veduto lo statuto dell'Universita' degli studi di Messina approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090) e modificato con [regi decreti 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;1905);  
+[28 maggio 1942, n. 643; e con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-05-28;643) [22 giugno 1947, n. 774; e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-06-22;774) [5 agosto 1951, n. 1335](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-05;1335);  
+[27 ottobre 1951, n. 1827](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1827); [30 luglio 1953, n. 999](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-07-30;999); [8 febbraio 1954, n. 403](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-02-08;403); [27 marzo 1954, n. 735](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-27;735); [24 luglio 1955, n. 779](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-24;779) e [28 giugno 1956, n. 764](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-06-28;764);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare la nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Dopo l'art. 186, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in neurofisiopatologia.  
-Scuola di specializzazione in neurofisiopatologia  
-Art. 187. - La scuola di specializzazione in neurofisiopatologia ha sede presso la facolta' di medicina e chirurgia e conferisce il diploma di specializzazione in neurofisiopatologia.  
-Art. 188. - La direzione della scuola e' affidata al professore ordinario, straordinario, o fuori ruolo che insegni anche nella scuola stessa.  
-In caso di motivato impedimento la direzione della scuola e' affidata al professore associato che pure insegni nella scuola medesima.  
-Art. 189. - Possono iscriversi alla scuola i laureati in medicina e chirurgia; e' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-Art. 190. - La durata del corso di studi e' di tre anni accademici e non e' suscettibile di abbreviazione.  
-Art. 191. - Il numero massimo degli iscritti e' di dieci per anno di corso, e complessivamente di trenta iscritti per l'intero corso di studi.  
-Art. 192. - L'ammissione al corso avviene per titoli ed esami.  
-Art. 193. - Gli insegnamenti ripartiti nella scuola sono:  
-1° Anno:  
-neuroanatomia;  
-neurofisiologia;  
-elementi di fisica ed elettronica biomedica;  
-informatica e statistica biomedica;  
-neurochimica;  
-neurofarmacologia.  
-2° Anno:  
-neurofisiopatologia I;  
-neurologia clinica;  
-psichiatria clinica;  
-neurochirurgia;  
-neuroradiologia;  
-elettroencefalografia I.  
-3° Anno:  
-neurofisiopatologia II;  
-elettroencefalografia II;  
-elettromiografia II;  
-tecniche speciali di diagnostica strumentale del sistema nervoso;  
-elettrodiagnostica ed elettroterapia.  
-Art. 194. - Gli iscritti hanno l'obbligo di frequenza, sia alle lezioni sia alle esercitazioni pratiche, presso i laboratori della scuola.  
-Art. 195. - Per le discipline svolte in corsi pluriennali l'esame deve essere sostenuto anno per anno.  
-Art. 196. - Le norme per il pagamento e la dispensa delle tasse, soprattasse e contributi sono quelle della normativa vigente. Gli assistenti, i contrattisti ed i borsisti della facolta' sono dispensati dal pagamento di meta' di tutti gli importi dovuti annualmente.  
-Art. 197. - Alla fine del corso gli allievi debbono superare, per il conseguimento del diploma di specialista in neurofisiopatologia, un esame che consiste di una prova pratica e di una discussione di una tesi scritta su un argomento di neurofisiopatologia preventivamente approvato dal direttore della scuola.  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 14. - Agli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto quello di "diritto pubblico regionale".  
+Art. 21. - Agli insegnamenti complementari del corso di laurea in economia e commercio e' aggiunto quello di "economia montana e forestale".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 febbraio 1981
+### Dato a Roma, addi' 5 settembre 1956
 
-PERTINI BODRATO
+GRONCHI ROSSI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: MORO
 
-Registrato alla Corte dei conti, addi' 18 novembre 1981
+Registrato alla Corte dei conti, addi' 12 ottobre 1956
 
-Registro n. 112 Istruzione, foglio n. 48
+Atti del Governo, registro n. 101, foglio n. 21. - CARLOMAGNO

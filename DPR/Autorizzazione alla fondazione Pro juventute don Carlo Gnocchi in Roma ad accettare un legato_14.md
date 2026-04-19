@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 febbraio 1979 n. 119
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 agosto 1985 n. 818
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 febbraio 1979 n. 119
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 agosto 1985 n. 818
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-119. Decreto del Presidente della Repubblica 19 febbraio 1979, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Zelmira Bianchi ved. Bottarelli a favore dell'istituto don Gnocchi per i mutilatini, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", con testamento pubblico del 18 giugno 1968 del notaio dott. Antonio Viglino e pubblicato dallo stesso notaio con verbale di registrazione di testamento pubblico del 31 ottobre 1968, n. 11476 di repertorio e n. 2383 di raccolta, registrato ad Arona il 18 novembre 1968, al n. 985, vol. 139, mod. 1, consistente nella somma di L. 500.000.  
+818. Decreto del Presidente della Repubblica 8 agosto 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in beni mobili per L. 1.243.000, disposto dalla sig.na Croce Rosa a favore della fondazione "Don Carlo Gnocchi (poliomielitici)", che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale del consiglio di amministrazione della fondazione stessa in data 20 novembre 1981, con testamento olografo 8 febbraio 1975, pubblicato in data 30 aprile 1981, n. 3558 di repertorio e n. 212 di raccolta, a rogito dott. Nicola Maienza, notaio in Milano, registrato a Milano il 5 maggio 1981 al n. 11621.   
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 6 aprile 1979  
-Registro n. 3 Presidenza, foglio n. 60
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 30 dicembre 1985   
+Registro n. 11 Presidenza, foglio n. 76

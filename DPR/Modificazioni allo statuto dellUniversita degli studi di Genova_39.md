@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 febbraio 1966 n. 105
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 marzo 1970 n. 196
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 febbraio 1966 n. 105
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 marzo 1970 n. 196
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
@@ -17,7 +17,7 @@ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regi
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -25,19 +25,21 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 29. - Agli insegnamenti complementari del corso di laurea in Lettere e' aggiunto quello di:  
-30) Storia della scienza e della tecnica.  
-Art. 52. - Agli insegnamenti complementari del corso di laurea in Fisica - I gruppo, e' aggiunto quello di:  
-"Geologia nucleare".  
+Art. 50. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti quelli di:  
+  
+Cardiochirurgia;  
+Chirurgia toracica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 febbraio 1966
+### Dato a Roma, addi' 26 marzo 1970
 
-SARAGAT GUI
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: REALE Registrato alla Corte dei conti addi' 15 marzo 1966
+Visto, il Guardasigilli: REALE
 
-Atti del Governo, registro n. 202, foglio n. 46. - VILLA
+Registrato alla Corte dei conti, addi' 24 aprile 1970
+
+Atti del Governo, registro n. 235, foglio n. 5. - CARUSO

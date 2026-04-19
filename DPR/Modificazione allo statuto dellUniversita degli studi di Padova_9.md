@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 dicembre 1983 n. 1057
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 aprile 1986 n. 425
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 dicembre 1983 n. 1057
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 aprile 1986 n. 425
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Padova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 14 ottobre 1926, n. 2133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2133), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -28,7 +28,7 @@ Vedute le proposte di modifica dello statuto formulate dalle autorita' accademic
 
 Veduto il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del ministro della pubblica istruzione;
 
 Decreta:
 --------
@@ -39,19 +39,22 @@ Articolo unico
 --------------
 
   
-Nell'art. 58, relativo al corso di laurea in lettere, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-archeologia dell'Africa romana e antichita' provinciali.  
+Nell'art. 58, relativo al corso di laurea in lettere della facolta' di lettere e filosofia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
+civilta' antiche dell'Italia meridionale;  
+civilta' dell'Italia preromana:  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 dicembre 1983
+### Dato a Roma, addi' 8 aprile 1986
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 29 febbraio 1984
+Registrato alla Corte dei conti, addi' 17 luglio 1986
 
-Registro n. 13 Istruzione, foglio n. 41
+Registro n. 57 Istruzione, foglio n. 97

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 agosto 1970 n. 762
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 settembre 1971 n. 928
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 agosto 1970 n. 762
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 settembre 1971 n. 928
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
@@ -10,108 +10,61 @@ Modificazioni allo statuto dell'Universita' degli studi di Parma.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta.  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli 240, 241, 242, 243, 244, 245, 246, relativi alla scuola di specializzazione in gerontologia e geriatria sono abrogati e sostituiti dai seguenti:  
   
-Art. 49, relativo agli istituti annessi alla facolta' di economia e commercio e modificato nel senso che vengono attribuiti i seguenti nuovi insegnamenti complementari agli istituti della facolta' a fianco di essi indicati:   
-1) istituto di ricerche aziendali: ragioneria pubblica;   
-3) istituto di tecnica del credito: tecnica degli scambi e cambi con l'estero, economia e tecnica del credito mobiliare;   
-8) istituto di ricerche economico-agrarie e forestali: economia di mercato dei prodotti agricoli;   
-9) istituto di matematica: ricerca operativa, teoria delle decisioni e teoria dei giochi;   
-10) istituto di statistica: statistica aziendale.   
-Dopo l'art. 265 e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di perfezionamento in "Fisica dello stato solido" annessa alla facolta' di scienze matematiche, fisiche e naturali.   
+Scuola di specializzazione in gerontologia e geriatria  
   
-Scuola di perfezionamento in "Fisica dello stato solido"   
-  
-Art. 266. - La scuola di perfezionamento in fisica istituita presso la facolta' di scienze matematiche, fisiche e naturali di Parma, ha fine scientifico e rilascia il diploma di perfezionamento nell'indirizzo di fisica dello stato solido.   
-Il corso degli studi ha la durata di due anni. Non sono consentite abbreviazioni di corso.   
-Art. 267. - Il funzionamento della scuola e' affidato ad un consiglio direttivo nominato dalla facolta'. Il consiglio direttivo propone di anno in anno alla facolta' gli insegnamenti da impartire e i relativi programmi, e nomina per un periodo di un anno un direttore, al quale sono affidate l'organizzazione e la sorveglianza sul regolare funzionamento degli insegnamenti e degli esami. Il direttore e' coadiuvato da un segretario.   
-Gli insegnanti della scuola sono proposti, d'intesa col consiglio direttivo, dal direttore, che puo' scegliere tra i professori di ruolo, tra i liberi docenti, tra gli assistenti ed anche tra persone di riconosciuta competenza in uno degli indirizzi trattati nella scuola; tali proposte sono sottoposte all'approvazione della facolta'.   
-Art. 268. - Alla scuola di perfezionamento in fisica dello stato solido sono ammessi i laureati in fisica, matematica, ingegneria e chimica.   
-L'ammissione alla scuola avviene a seguito di concorso per titoli.   
-Sono da considerarsi titoli preferenziali:   
-a) il voto di laurea;   
-b) documentazione di eventuali servizi prestati attinenti alle discipline impartite nel corso degli studi specialistici;   
-c) eventuali pubblicazioni.   
-Il numero complessivo degli specializzandi da ammettere alla scuola e' fissato in trenta allievi per ogni anno di corso.   
-Nessun titolo puo' esonerare dalla frequenza gli iscritti.   
-La frequenza ai singoli corsi deve essere attestata dai rispettivi docenti.   
-Art. 269. - Le commissioni per gli esami di profitto sono nominate dal consiglio direttivo e sono formate dal professore della materia e da due altri insegnanti della scuola. La commissione per l'esame di diploma e' nominata dal consiglio direttivo ed e' formata da quattro membri scelti fra gli insegnanti della scuola e da un contro-relatore nella persona di un competente nel soggetto particolare della dissertazione; il quale puo' essere anche un professore di altra universita'.   
-L'esame di diploma consistera' nella discussione di una dissertazione-originale scritta.   
-Art. 270. - L'esame di diploma dovra' essere superato entro cinque anni dalla data di immatricolazione.   
-I candidati non riconosciuti idonei ad una prima prova non potranno ripresentarsi prima che sia trascorso un periodo di undici mesi.   
-Art. 271. - Le materie di insegnamento sono:   
-1) Matematica applicata;   
-2) Complementi di analisi;   
-3) Complementi di fisica teorica;   
-4) Complementi di fisica dello stato solido;   
-5) Proprieta' magnetiche della materia:   
-6) Fisica dei liquidi;   
-7) Tecniche della fisica degli stati condensati;   
-8) Complementi di chimica fisica;   
-9) Complementi di meccanica statistica;   
-10) Fisica delle superfici:   
-11) Complementi di elettronica;   
-12) Semiconduttori;   
-13) Elettronica quantistica;   
-14) Spettroscopia a microonde;   
-15) Fisica dei plasmi;   
-16) Fisica dei gas debolmente ionizzati;   
-17) Tecnica dell'alto vuoto;   
-18) Rilevatori a scintillazione;   
-19) Spettrofotometria U.V., ottica e I.R.;   
-20) Diffratometria X ed elettronica;   
-21) Fisica dei metalli;   
-22) Teoria quantistica dei campi;   
-23) Macchine calcolatrici e programmazione.   
-Gli insegnamenti potranno essere annuali o semestrali. Due insegnamenti semestrali sono a tutti gli effetti equivalenti ad un insegnamento annuale.   
-I corsi saranno integrati da esercitazioni pratiche e potranno essere integrati anche con conferenze su materie e argomenti che abbiano attinenza o affinita' con gli insegnamenti impartiti nella scuola.   
-Art. 272. - Per ogni anno di corso il numero minimo degli insegnamenti annuali e' fissato in cinque; il numero massimo in dieci. Gli insegnamenti annuali potranno essere sostituiti in parte con coppie di corsi semestrali secondo l'ordine di studi fissato dal consiglio direttivo della scuola a norma dell'art. 271.   
-Gli allievi per essere ammessi all'esame di diploma dovranno avere superato gli esami di profitto previsti dall'ordinamento di studi.   
-Art. 273. - Il consiglio direttivo della scuola, con manifesto annuale, prima dell'inizio di ciascun anno accademico, stabilisce quali siano i corsi a carattere annuale o semestrale, nonche' degli studi (distribuzione degli insegnamenti nei due anni di corso) e l'ordine e le modalita' degli esami.   
-Art. 274. - Gli iscritti alla scuola sono tenuti a pagare le medesime tasse, soprattasse e contributi generali, stabiliti dalle vigenti disposizioni di legge per gli studenti della facolta'.   
-La tassa di diploma e' pari alla tassa di laurea, a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).   
-La misura dei contributi per le esercitazioni di laboratorio e per altre prestazioni durante il corso degli studi e fissata dal consiglio di amministrazione, su proposta del senato accademico, udita la facolta' di scienze matematiche, fisiche e naturali ed il consiglio direttivo della scuola.   
-Inoltre i mezzi finanziari per il funzionamento della scuola (stipendi e attrezzature) saranno reperiti sui contributi di cui sopra, sui finanziamenti destinati allo istituto di fisica, e, infine, ci si avvarra' di insegnamenti gia' esistenti per il corso di laurea in fisica e gia sovvenzionati.   
-Art. 275. - Presso la scuola di perfezionamento in fisica dello stato solido, e' istituito un seminario di fisica.   
-Gli articoli 278, 279, 281, 282 relativi alla scuola di paleografia musicale sono abrogati e sostituiti dai seguenti:   
-  
-Scuola di paleografia e filologia musicale   
-  
-Art. 278. - La scuola di paleografia e filologia musicale si propone di fornire la preparazione scientifica e tecnica occorrenti a coloro che intendono mettersi in grado di conoscere ed interpretare direttamente le fonti musicali, dedicarsi al governo delle sezioni musicali delle biblioteche e degli archivi e specializzarsi nella storia della musica.   
-La scuola di paleografia e filologia musicale conferisce il diploma di paleografia e filologia musicale.   
-Art. 279. - Il direttore della scuola e' un professore universitario di ruolo ed e' nominato dal rettore su designazione del consiglio della scuola.   
-Art. 281. - Alla scuola di paleografia e filologia musicale possono iscriversi coloro i quali, gia' iscritti a un conservatorio di musica o a un liceo musicale pareggiato, oppure in qualita' di candidati privatisti abbiano superato, presso un conservatorio o un liceo musicale pareggiato, gli esami complementari di armonia e storia della musica previsti per la loro materia musicale principale. Essi dovranno superare una prova scritta di italiano, consistente nello svolgimento di un tema di cultura generale letteraria o storica, e una prova scritta di latino, consistente in una versione in italiano di un brano latino. La prova orale vertera' sulle linee fondamentali della storia letteraria e della storia civile italiane.   
-Possono altresi' iscriversi coloro che sono muniti di un diploma di scuola media di secondo grado. Essi dovranno svolgere una analisi scritta di una composizione musicale a schema morfologico regolare; la prova orale sara' intesa ad accertare la conoscenza della teoria musicale generale. Dovranno inoltre eventualmente sostenere le prove di accertamento letterario, in relazione al loro pregresso curriculum scolastico.   
-Art. 282. - La scuola si riserva di organizzare, senza alcun aggravio finanziario per gli studenti, corsi integrativi di cultura intesi a facilitare la preparazione scientifica degli studenti stessi, con particolare riguardo alla cultura umanistica per i provenienti dai conservatori di musica privi di altro titolo, ed alla cultura musicale per i provenienti da scuole medie di secondo grado, sprovvisti di titolo musicale. Prima dell'esame di diploma, gli iscritti dovranno sostenere un esame inteso ad accertare la loro preparazione specifica umanistica o musicale, rispettivamente per i diplomati dai conservatori e dalle scuole medie superiori. Coloro che sono muniti di entrambi i titoli (umanistico e musicale) sono dispensati da qualunque esame di accertamento.   
-L'art. 285, relativo alla suddetta scuola e' modificato nel senso che il penultimo comma viene soppresso.   
-L'art. 286, relativo alla suddetta scuola e' abrogato e sostituito dal seguente:   
-Art. 286. - Data la particolare finalita' dei singoli insegnamenti anche coloro che sono gia' muniti di laurea e che abbiano sostenuto esami speciali di materie affini a quelle elencate nel piano degli studi della scuola dovranno ugualmente sostenere tutti gli esami senza eccezione.   
-A coloro che sono provvisti di laurea in lettere o materie letterarie, il diploma di cui sopra e' equiparato a quelli conseguiti nei corsi di perfezionamento postuniversitario.   
+Art. 240. - La scuola di specializzazione in gerontologia e geriatria conferisce il diploma di specialista in gerontologia e geriatria. Essa ha la durata di tre anni.  
+Art. 241. - Sono ammessi alla scuola i laureati in medicina e chirurgia.  
+Il numero complessivo degli specializzandi da ammettere alla scuola e' fissato in sessanta allievi, ripartiti in venti allievi per ogni anno di corso.  
+Art. 242. - Le materie di insegnamento sono:  
+1° Anno:  
+1) Biologia della senescenza (annuale);  
+2) Fisiopatologia della senescenza (biennale);  
+3) Semiologia della senescenza (biennale);  
+4) Anatomia patologica (biennale);  
+5) Farmacologia e farmacoterapia (annuale).  
+2° Anno:  
+1) Fisiopatologia della senescenza (biennale);  
+2) Semeiologia della senescenza (biennale);  
+3) Anatomia patologica (biennale);  
+4) Clinica geriatrica e terapia (biennale);  
+5) Chirurgia geriatrica (annuale);  
+6) Radiologia e radioterapia (annuale);  
+7) Neurologia (annuale).  
+3° Anno:  
+1) Clinica geriatrica e terapia (biennale);  
+2) Tecniche di riabilitazione (annuale);  
+3) Psichiatria (annuale);  
+4) Medicina sociale (annuale).  
+Durante il terzo anno sono previste conferenze di aggiornamento sui problemi speciali.  
+Art. 243. - Gli allievi sono tenuti a seguire le lezioni teoriche, le esercitazioni ed i turni di internato stabiliti dal direttore della scuola. Alla fine di ogni anno gli allievi che abbiano ottenuto la prescritta attestazione di frequenza, dovranno sostenere un esame di profitto.  
+Alla fine del triennio gli allievi dovranno presentare una dissertazione scritta e sostenere un esame di diploma.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 agosto 1970
+### Dato a Roma, addi' 18 settembre 1971
 
 SARAGAT MISASI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 21 ottobre 1970
+Registrato alla Corte dei conti, addi' 12 novembre 1971
 
-Atti del Governo, registro n. 238, foglio n. 9. - CARUSO
+Atti del Governo, registro n. 245, foglio n. 19. - CARUSO

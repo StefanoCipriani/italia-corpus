@@ -1,951 +1,149 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1970 n. 915
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1020
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1970 n. 915
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1020
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-L'art. 19, relativo all'istituto di statistica, annesso alla facolta' di giurisprudenza, e' abrogato e sostituito dai seguenti, con il conseguente spostamento della numerazione degli articoli successivi:
-
-Istituto unico policattedra del circolo giuridico.
-
-Art. 19. Il circolo giuridico dell'Universita' di Siena, fondato nel 1879, ha le funzioni di unico istituto policattedra della facolta' di giurisprudenza dell'Universita' di Siena allo scopo di svolgere attivita' didattica e scientifica ai sensi dell'ordinamento universitario e di quanto precisato nel presente statuto.
-
-Art. 20. - Il circolo giuridico e' suddiviso in cinque sezioni, che in base alla legge potranno assumere la qualifica e la funzione di dipartimenti.
-
-Le sezioni sono le seguenti:
-
-I) sezione storico-giuridica, che quali proprie materie comprende:
-
-Storia del diritto romano;
-
-Istituzioni di diritto romano;
-
-Diritto romano;
-
-Storia del diritto italiano;
-
-Esegesi delle fonti del diritto romano;
-
-Esegesi delle fonti del diritto italiano;
-
-Diritto comune;
-
-Diritto greco;
-
-Papirologia giuridica;
-
-Storia del diritto canonico.
-
-II) sezione storico-politica e filosofico-sociologica, che quali proprie materie comprende:
-
-Storia moderna;
-
-Storia delle dottrine politiche;
-
-Storia dei trattati;
-
-Storia ed istituzioni dei paesi afro-asiatici;
-
-Filosofia del diritto;
-
-Sociologia;
-
-Storia dei partiti e dei movimenti politici;
-
-Storia del movimento sindacale;
-
-Storia delle istituzioni politiche;
-
-Teoria generale del diritto;
-
-Storia delle dottrine economiche;
-
-Scienza della politica;
-
-Scienza dell'amministrazione.
-
-III) sezione di diritto privato e diritto processuale civile, che quali proprie materie comprende:
-
-Istituzioni di diritto privato;
-
-Diritto civile;
-
-Diritto commerciale;
-
-Diritto del lavoro;
-
-Diritto processuale civile;
-
-Diritto privato comparato;
-
-Diritto agrario;
-
-Diritto industriale;
-
-Legislazione del lavoro;
-
-Diritto fallimentare;
-
-Diritto della navigazione;
-
-Diritto bancario.
-
-IV) sezione di diritto pubblico, che quali proprie materie comprende:
-
-Istituzioni di diritto pubblico;
-
-Diritto costituzionale;
-
-Diritto costituzionale italiano e comparato;
-
-Diritto ecclesiastico;
-
-Diritto internazionale;
-
-Diritto amministrativo;
-
-Diritto penale;
-
-Procedura penale;
-
-Medicina legale e delle assicurazioni;
-
-Antropologia criminale;
-
-Diritto canonico;
-
-Organizzazione internazionale;
-
-Dottrina generale del processo;
-
-Dottrina dello Stato;
-
-Istituzioni di diritto e di procedura penale;
-
-Diritto parlamentare;
-
-Diritto pubblico regionale;
-
-Diritto pubblico dell'economia;
-
-Criminologia.
-
-V) sezione economico-statistica, che quali proprie materie comprende:
-
-Economia politica;
-
-Politica economica;
-
-Scienza delle finanze e diritto finanziario;
-
-Scienza delle finanze;
-
-Statistica;
-
-Demografia;
-
-Ragioneria generale ed applicata;
-
-Geografia politica ed economica.
-
-Art. 21. - Il funzionamento del circolo giuridico e' disciplinato da un regolamento da approvarsi col voto favorevole della meta' piu' uno dei componenti il consiglio della facolta' di giurisprudenza.
-
-Art. 23 (gia' 21), all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e aggiunto il seguente:
-
-Tecnica e diagnostica istopatologica.
-
-Art. 28 (gia' 26), all'elenco degli istituti annessi alla facolta' di medicina e chirurgia e' annesso il seguente:
-
-Istituto di semeiotica chirurgica.
-
-Art. 29 (gia' 27), e' modificato nel senso che dopo il comma terzo del paragrafo 3, relativo alle modalita' di esami nel corso di laurea in farmacia, e' aggiunto il seguente nuovo comma:
-
-"Il corso biennale di fisiologia generale importa un esame alla fine di ogni anno di corso".
-
-Art. 31 (gia' 29), e' modificato nel senso che all'elenco delle lauree che rilascia la facolta' di scienze matematiche, fisiche e naturali e' aggiunta la seguente:
-
-Laurea in matematica.
-
-Nello stesso articolo ad ogni elenco degli insegnamenti complementari dei corsi di laurea in scienze naturali, in scienze biologiche ed in scienze geologiche e' aggiunto il seguente:
-
-Chimica analitica.
-
-Dopo l'art. 31 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione del corso di laurea in matematica.
-
-Laurea in matematica
-
-Art. 32. - La durata del corso degli studi per la laurea in matematica e' di quattro anni.
-
-Titolo di ammissione e' quello previsto dalle vigenti disposizioni di legge.
-
-Il corso degli studi si distingue in tre indirizzi: generale, didattico, applicativo.
-
-Sono insegnamenti fondamentali obbligatori comuni a tutti gli indirizzi per il primo biennio:
-
-1° Anno:
-
-Algebra;
-
-Analisi matematica I;
-
-Geometria I;
-
-Fisica generale I.
-
-2° Anno:
-
-1) Analisi matematica II;
-
-2) Geometria II;
-
-3) Meccanica razionale;
-
-4) Fisica generale II.
-
-Sono insegnamenti fondamentali obbligatori comuni a tutti gli indirizzi per il terzo anno:
-
-1) Istituzioni di analisi superiore;
-
-2) Istituzioni di geometria superiore;
-
-3) Istituzioni di fisica matematica.
-
-Oltre ai predetti insegnamenti sono prescritti i seguenti altri, a seconda dell'indirizzo prescelto:
-
-Indirizzo generale:
-
-Sono insegnamenti fondamentali obbligatori:
-
-3° Anno:
-
-1) Istituzioni di algebra superiore.
-
-4° Anno:
-
-1) Matematiche superiori.
-
-Al quarto anno sono inoltre prescritti due insegnamenti complementari da scegliersi nel seguente elenco:
-
-Aerodinamica;
-
-Algebra commutativa;
-
-Algebra omologica;
-
-Algebra superiore;
-
-Analisi funzionale;
-
-Analisi superiore;
-
-Astrofisica;
-
-Astronomia;
-
-Calcolo delle probabilita';
-
-Calcolo delle variazioni;
-
-Calcolo tensoriale;
-
-Fisica matematica;
-
-Fisica superiore;
-
-Fisica teorica;
-
-Geometria algebrica;
-
-Geometria differenziale;
-
-Geometria superiore;
-
-Istituzioni di fisica teorica;
-
-Meccanica celeste;
-
-Meccanica quantistica;
-
-Meccanica statistica;
-
-Meccanica superiore;
-
-Metodi gruppali della meccanica quantistica;
-
-Relativita';
-
-Struttura della materia;
-
-Strutture algebriche;
-
-Teoria dei gruppi;
-
-Teoria dei numeri;
-
-Teoria delle equazioni differenziali;
-
-Teoria delle equazioni integrali;
-
-Teoria delle funzioni;
-
-Teoria delle onde;
-
-Topologia.
-
-Uno degli insegnamenti complementari dovra' essere a indirizzo fisico.
-
-Indirizzo didattico:
-
-Sono insegnamenti fondamentali obbligatori:
-
-3° Anno:
-
-1) Matematiche elementari da un punto di vista superiore.
-
-4° Anno:
-
-1) Matematiche complementari.
-
-Al quarto anno sono inoltre prescritti due insegnamenti complementari da scegliersi nel seguente elenco:
-
-Astronomia;
-
-Chimica generale (annuale);
-
-Complementi di fisica generale (annuale);
-
-Istituzioni di algebra superiore;
-
-Logica matematica;
-
-Pedagogia matematica;
-
-Storia delle matematiche.
-
-Uno degli insegnamenti complementari dovra' essere ad indirizzo fisico.
-
-Indirizzo applicativo:
-
-L'indirizzo applicativo si svolge secondo i tre seguenti orientamenti:
-
-a) applicativo elettronico;
-
-b) applicativo statistico economico;
-
-c) applicativo meccanico-astronomico.
-
-Nell'orientamento a) sono corsi fondamentali obbligatori:
-
-3° Anno:
-
-Calcoli numerici e grafici.
-
-4° Anno:
-
-Teoria della programmazione per le macchine calcolatrici.
-
-Al quarto anno sono inoltre prescritti due insegnamenti da scegliersi nel seguente elenco:
-
-Calcolo analogico ed elettronica;
-
-Cibernetica;
-
-Calcolo delle probabilita';
-
-Algebra di Boole;
-
-Logica matematica;
-
-Teoria ed applicazione delle macchine calcolatrici;
-
-Statistica matematica;
-
-Servomeccanismi;
-
-Teoria dell'informazione;
-
-Calcolatori speciali;
-
-Teoria dei circuiti;
-
-Cosmologia;
-
-Teoria delle orbite.
-
-Nell'orientamento b) sono corsi fondamentali obbligatori:
-
-3° Anno:
-
-Calcolo delle probabilita'.
-
-4° Anno:
-
-Economia matematica.
-
-Al quarto anno sono inoltre prescritti due insegnamenti complementari da scegliersi nel seguente elenco:
-
-Calcoli numerici e grafici;
-
-Matematica finanziaria ed attuariale;
-
-Programmazione lineare e non lineare;
-
-Ricerca operativa;
-
-Statistica matematica;
-
-Teoria dei giochi;
-
-Teoria delle decisioni;
-
-Processi stocastici;
-
-Programmazione dinamica e non lineare;
-
-Tecniche elettroniche di calcolo;
-
-Teoria dei grafici;
-
-Teoria dei circuiti.
-
-Nell'orientamento c) sono corsi fondamentali obbligatori:
-
-3° Anno:
-
-Meccanica celeste.
-
-4° Anno:
-
-Aerodinamica.
-
-Al quarto anno sono inoltre prescritti due insegnamenti complementari da scegliersi tra i seguenti:
-
-Astrofisica;
-
-Astronomia;
-
-Calcolo tensoriale;
-
-Fisica matematica;
-
-Geometria differenziale;
-
-Magnetofluidodinamica;
-
-Matematiche superiori;
-
-Meccanica analitica;
-
-Meccanica superiore;
-
-Relativita';
-
-Teoria delle equazioni differenziali;
-
-Teoria delle equazioni integrali;
-
-Teoria delle onde.
-
-Su parere della facolta' lo studente puo' effettuare una delle seguenti sostituzioni: il corso di "Calcoli numerici e grafici" con "Economia matematica", ovvero il corso di "Calcolo delle probabilita'" con "Teoria della programmazione per le macchine calcolatrici".
-
-Art. 33. - Ogni insegnamento comporta un esame.
-
-In particolare gli esami di: analisi matematica I, geometria I, fisica generale I, sono distinti da quelli di: analisi matematica II, geometria II, fisica generale II.
-
-Potranno essere iscritti al secondo anno soltanto quegli studenti che abbiano superato almeno due degli esami di: analisi matematica I, geometria I, algebra.
-
-I corsi e gli esami di: analisi matematica I, geometria I, e fisica generale I sono rispettivamente propedeutici a quelli di analisi matematica II, geometria II e fisica generale II.
-
-Gli esami di analisi matematica I, geometria I, algebra, analisi matematica II, geometria II, meccanica razionale sono propedeutici agli esami del terzo anno.
-
-Gli esami del primo biennio e del terzo anno sono propedeutici agli esami del quarto anno.
-
-Per essere ammesso all'esame di laurea lo studente dovra' aver superato tutti gli esami richiesti dall'indirizzo seguito.
-
-Art. 34. - Ogni corso del primo biennio comporta un corso di esercitazioni che ne e' parte integrante.
-
-La facolta' potra', qualora lo ritenga opportuno, stabilire un corso di esercitazioni per certi insegnamenti del terzo e quarto anno.
-
-Art. 35. - Per ogni indirizzo l'esame di laurea deve comprendere una esercitazione scritta e la discussione orale di due tesine.
-
-Per l'indirizzo generale sara' inoltre richiesto lo svolgimento di una ricerca (tesi) che dovra' presentare dei caratteri originali.
-
-E' in facolta' degli studenti dell'indirizzo applicativo ovvero didattico richiedere di svolgere, oltre alle prove precedenti, una tesi scritta su argomenti da concordarsi con una commissione nominata dalla facolta'.
-
-Superato l'esame di laurea lo studente consegue il titolo di dottore in matematica, indipendentemente dall'indirizzo prescelto del quale verra' fatta menzione soltanto nella carriera scolastica.
-
-Art. 43 (gia' 37), relativo alla facolta' di scienze economiche e bancarie e' modificato nel senso che il secondo comma e' abrogato e sostituito dal seguente:
-
-"La facolta' attribuisce carattere di sbarramento per il passaggio al secondo anno di corso:
-
-per la laurea in scienze economiche e bancarie ai seguenti insegnamenti: istituzioni di economia politica I, matematica, ragioneria generale ed applicata I;
-
-per la laurea in scienze economiche ai seguenti insegnamenti: istituzioni di statistica, istituzioni di economia politica I, matematica".
-
-Art. 46 (gia' 40), e' abrogato e sostituito dal seguente:
-
-Sono considerati propedeutici i seguenti insegnamenti:
-
-per la laurea in scienze economiche e bancarie
-
-non si puo sostenere l'esa- se non si e superato l'esame me di: di:
-
-Diritto commerciale Istituzioni di diritto privato Scienza delle finanze Istituzioni di economia poli- tica II
-
-Matematica finanziaria Matematica
-
-Tecnica bancaria I Istituzioni di economia poli- tica II.
-
-Ragioneria generale ed ap- plicata II.
-
-Tecnica industriale e Ragioneria generale ed aplica- commerciale ta II.
-
-Diritto pubblico dell' eco- Istituzioni di diritto pubbli- nomia co
-
-Diritto finanziario Istituzioni di diritto pubbli- co
-
-Diritto amministrativo Istituzioni di diritto pubbli- co
-
-Diritto del lavoro Istituzioni di diritto privato Diritto fallimentare Diritto commerciale
-
-Economia e tecnica delle Matematica finanziaria
-
-imprese di assicurazione
-
-Tecnica di borsa Tecnica bancaria I
-
-Tecnica industriale e commer- ciale
-
-Statistica Matematica
-
-Istituzioni di statistica
-
-Contabilita' di Stato Istituzioni di diritto pubblico
-
-per la laurea in scienze economiche
-
-non si puo sostenere l'esa- se non si e superato l'esame me di: di:
-
-Diritto commerciale Istituzioni di diritto privato Scienza delle finanze Istituzioni di economia poli- tica II
-
-Economia politica I Istituzioni di economia poli- tica II
-
-Politica economica Scienza delle finanze
-
-Economia monetaria e credi- tizia II
-
-Diritto amministrativo Istituzioni di diritto pubbli- blico
-
-Economia internazionale Istituzioni di economia poli- tico II
-
-Diritto pubblico dell'eco- Istituzioni di diritto pubbli- nomia co
-
-Econometria Statistica
-
-Economia applicata Istituzioni di economia poli- tica II
-
-Economia matematica Istituzioni di economia poli- tica II
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 14 ottobre 1970
-
-SARAGAT
-
-MISASI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 27 novembre 1970 Atti del Governo, registro n. 238, foglio n. 139. - CARUSO
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-L'art. 19, relativo all'istituto di statistica, annesso alla facolta' di giurisprudenza, e' abrogato e sostituito dai seguenti, con il conseguente spostamento della numerazione degli articoli successivi:   
+Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Istituto unico policattedra del circolo giuridico.   
+Dopo l'art. 74 e con il conseguente spostamento della numerazione degli articoli successivi sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola speciale per terapisti della riabilitazione.  
   
-Art. 19. Il circolo giuridico dell'Universita' di Siena, fondato nel 1879, ha le funzioni di unico istituto policattedra della facolta' di giurisprudenza dell'Universita' di Siena allo scopo di svolgere attivita' didattica e scientifica ai sensi dell'ordinamento universitario e di quanto precisato nel presente statuto.   
+Scuola speciale per terapisti della riabilitazione  
   
-Art. 20. - Il circolo giuridico e' suddiviso in cinque sezioni, che in base alla legge potranno assumere la qualifica e la funzione di dipartimenti.   
-Le sezioni sono le seguenti:   
-  
-I) sezione storico-giuridica, che quali proprie materie comprende:   
-Storia del diritto romano;   
-Istituzioni di diritto romano;   
-Diritto romano;   
-Storia del diritto italiano;   
-Esegesi delle fonti del diritto romano;   
-Esegesi delle fonti del diritto italiano;   
-Diritto comune;   
-Diritto greco;   
-Papirologia giuridica;   
-Storia del diritto canonico.   
-  
-II) sezione storico-politica e filosofico-sociologica, che quali proprie materie comprende:   
-  
-Storia moderna;   
-Storia delle dottrine politiche;   
-Storia dei trattati;   
-Storia ed istituzioni dei paesi afro-asiatici;   
-Filosofia del diritto;   
-Sociologia;   
-Storia dei partiti e dei movimenti politici;   
-Storia del movimento sindacale;   
-Storia delle istituzioni politiche;   
-Teoria generale del diritto;   
-Storia delle dottrine economiche;   
-Scienza della politica;   
-Scienza dell'amministrazione.   
-  
-III) sezione di diritto privato e diritto processuale civile, che quali proprie materie comprende:   
-  
-Istituzioni di diritto privato;   
-Diritto civile;   
-Diritto commerciale;   
-Diritto del lavoro;   
-Diritto processuale civile;   
-Diritto privato comparato;   
-Diritto agrario;   
-Diritto industriale;   
-Legislazione del lavoro;   
-Diritto fallimentare;   
-Diritto della navigazione;   
-Diritto bancario.   
-  
-IV) sezione di diritto pubblico, che quali proprie materie comprende:   
-  
-Istituzioni di diritto pubblico;   
-Diritto costituzionale;   
-Diritto costituzionale italiano e comparato;   
-Diritto ecclesiastico;   
-Diritto internazionale;   
-Diritto amministrativo;   
-Diritto penale;   
-Procedura penale;   
-Medicina legale e delle assicurazioni;   
-Antropologia criminale;   
-Diritto canonico;   
-Organizzazione internazionale;   
-Dottrina generale del processo;   
-Dottrina dello Stato;   
-Istituzioni di diritto e di procedura penale;   
-Diritto parlamentare;   
-Diritto pubblico regionale;   
-Diritto pubblico dell'economia;   
-Criminologia.   
-  
-V) sezione economico-statistica, che quali proprie materie comprende:   
-  
-Economia politica;   
-Politica economica;   
-Scienza delle finanze e diritto finanziario;   
-Scienza delle finanze;   
-Statistica;   
-Demografia;   
-Ragioneria generale ed applicata;   
-Geografia politica ed economica.   
-  
-Art. 21. - Il funzionamento del circolo giuridico e' disciplinato da un regolamento da approvarsi col voto favorevole della meta' piu' uno dei componenti il consiglio della facolta' di giurisprudenza.   
-  
-Art. 23 (gia' 21), all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e aggiunto il seguente:   
-Tecnica e diagnostica istopatologica.   
-  
-Art. 28 (gia' 26), all'elenco degli istituti annessi alla facolta' di medicina e chirurgia e' annesso il seguente:   
-Istituto di semeiotica chirurgica.   
-  
-Art. 29 (gia' 27), e' modificato nel senso che dopo il comma terzo del paragrafo 3, relativo alle modalita' di esami nel corso di laurea in farmacia, e' aggiunto il seguente nuovo comma:   
-"Il corso biennale di fisiologia generale importa un esame alla fine di ogni anno di corso".   
-  
-Art. 31 (gia' 29), e' modificato nel senso che all'elenco delle lauree che rilascia la facolta' di scienze matematiche, fisiche e naturali e' aggiunta la seguente:   
-Laurea in matematica.   
-  
-Nello stesso articolo ad ogni elenco degli insegnamenti complementari dei corsi di laurea in scienze naturali, in scienze biologiche ed in scienze geologiche e' aggiunto il seguente:   
-Chimica analitica.   
-  
-Dopo l'art. 31 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione del corso di laurea in matematica.   
-  
-Laurea in matematica   
-  
-Art. 32. - La durata del corso degli studi per la laurea in matematica e' di quattro anni.   
-Titolo di ammissione e' quello previsto dalle vigenti disposizioni di legge.   
-Il corso degli studi si distingue in tre indirizzi: generale, didattico, applicativo.   
-  
-Sono insegnamenti fondamentali obbligatori comuni a tutti gli indirizzi per il primo biennio:   
-1° Anno:   
-Algebra;   
-Analisi matematica I;   
-Geometria I;   
-Fisica generale I.   
-  
-2° Anno:   
-1) Analisi matematica II;   
-2) Geometria II;   
-3) Meccanica razionale;   
-4) Fisica generale II.   
-  
-Sono insegnamenti fondamentali obbligatori comuni a tutti gli indirizzi per il terzo anno:   
-1) Istituzioni di analisi superiore;   
-2) Istituzioni di geometria superiore;   
-3) Istituzioni di fisica matematica.   
-  
-Oltre ai predetti insegnamenti sono prescritti i seguenti altri, a seconda dell'indirizzo prescelto:   
-  
-Indirizzo generale:   
-  
-Sono insegnamenti fondamentali obbligatori:   
-3° Anno:   
-1) Istituzioni di algebra superiore.   
-4° Anno:   
-1) Matematiche superiori.   
-Al quarto anno sono inoltre prescritti due insegnamenti complementari da scegliersi nel seguente elenco:   
-Aerodinamica;   
-Algebra commutativa;   
-Algebra omologica;   
-Algebra superiore;   
-Analisi funzionale;   
-Analisi superiore;   
-Astrofisica;   
-Astronomia;   
-Calcolo delle probabilita';   
-Calcolo delle variazioni;   
-Calcolo tensoriale;   
-Fisica matematica;   
-Fisica superiore;   
-Fisica teorica;   
-Geometria algebrica;   
-Geometria differenziale;   
-Geometria superiore;   
-Istituzioni di fisica teorica;   
-Meccanica celeste;   
-Meccanica quantistica;   
-Meccanica statistica;   
-Meccanica superiore;   
-Metodi gruppali della meccanica quantistica;   
-Relativita';   
-Struttura della materia;   
-Strutture algebriche;   
-Teoria dei gruppi;   
-Teoria dei numeri;   
-Teoria delle equazioni differenziali;   
-Teoria delle equazioni integrali;   
-Teoria delle funzioni;   
-Teoria delle onde;   
-Topologia.   
-  
-Uno degli insegnamenti complementari dovra' essere a indirizzo fisico.   
-  
-Indirizzo didattico:   
-Sono insegnamenti fondamentali obbligatori:   
-  
-3° Anno:   
-1) Matematiche elementari da un punto di vista superiore.   
-4° Anno:   
-1) Matematiche complementari.   
-Al quarto anno sono inoltre prescritti due insegnamenti complementari da scegliersi nel seguente elenco:   
-Astronomia;   
-Chimica generale (annuale);   
-Complementi di fisica generale (annuale);   
-Istituzioni di algebra superiore;   
-Logica matematica;   
-Pedagogia matematica;   
-Storia delle matematiche.   
-  
-Uno degli insegnamenti complementari dovra' essere ad indirizzo fisico.   
-  
-Indirizzo applicativo:   
-L'indirizzo applicativo si svolge secondo i tre seguenti orientamenti:   
-a) applicativo elettronico;   
-b) applicativo statistico economico;   
-c) applicativo meccanico-astronomico.   
-  
-Nell'orientamento a) sono corsi fondamentali obbligatori:   
-3° Anno:   
-Calcoli numerici e grafici.   
-4° Anno:   
-Teoria della programmazione per le macchine calcolatrici.   
-Al quarto anno sono inoltre prescritti due insegnamenti da scegliersi nel seguente elenco:   
-Calcolo analogico ed elettronica;   
-Cibernetica;   
-Calcolo delle probabilita';   
-Algebra di Boole;   
-Logica matematica;   
-Teoria ed applicazione delle macchine calcolatrici;   
-Statistica matematica;   
-Servomeccanismi;   
-Teoria dell'informazione;   
-Calcolatori speciali;   
-Teoria dei circuiti;   
-Cosmologia;   
-Teoria delle orbite.   
-  
-Nell'orientamento b) sono corsi fondamentali obbligatori:   
-  
-3° Anno:   
-Calcolo delle probabilita'.   
-4° Anno:   
-Economia matematica.   
-Al quarto anno sono inoltre prescritti due insegnamenti complementari da scegliersi nel seguente elenco:   
-Calcoli numerici e grafici;   
-Matematica finanziaria ed attuariale;   
-Programmazione lineare e non lineare;   
-Ricerca operativa;   
-Statistica matematica;   
-Teoria dei giochi;   
-Teoria delle decisioni;   
-Processi stocastici;   
-Programmazione dinamica e non lineare;   
-Tecniche elettroniche di calcolo;   
-Teoria dei grafici;   
-Teoria dei circuiti.   
-  
-Nell'orientamento c) sono corsi fondamentali obbligatori:   
-  
-3° Anno:   
-Meccanica celeste.   
-4° Anno:   
-Aerodinamica.   
-Al quarto anno sono inoltre prescritti due insegnamenti complementari da scegliersi tra i seguenti:   
-Astrofisica;   
-Astronomia;   
-Calcolo tensoriale;   
-Fisica matematica;   
-Geometria differenziale;   
-Magnetofluidodinamica;   
-Matematiche superiori;   
-Meccanica analitica;   
-Meccanica superiore;   
-Relativita';   
-Teoria delle equazioni differenziali;   
-Teoria delle equazioni integrali;   
-Teoria delle onde.   
-  
-Su parere della facolta' lo studente puo' effettuare una delle seguenti sostituzioni: il corso di "Calcoli numerici e grafici" con "Economia matematica", ovvero il corso di "Calcolo delle probabilita'" con "Teoria della programmazione per le macchine calcolatrici".   
-  
-Art. 33. - Ogni insegnamento comporta un esame.   
-In particolare gli esami di: analisi matematica I, geometria I, fisica generale I, sono distinti da quelli di: analisi matematica II, geometria II, fisica generale II.   
-  
-Potranno essere iscritti al secondo anno soltanto quegli studenti che abbiano superato almeno due degli esami di: analisi matematica I, geometria I, algebra.   
-I corsi e gli esami di: analisi matematica I, geometria I, e fisica generale I sono rispettivamente propedeutici a quelli di analisi matematica II, geometria II e fisica generale II.   
-Gli esami di analisi matematica I, geometria I, algebra, analisi matematica II, geometria II, meccanica razionale sono propedeutici agli esami del terzo anno.   
-Gli esami del primo biennio e del terzo anno sono propedeutici agli esami del quarto anno.   
-Per essere ammesso all'esame di laurea lo studente dovra' aver superato tutti gli esami richiesti dall'indirizzo seguito.   
-  
-Art. 34. - Ogni corso del primo biennio comporta un corso di esercitazioni che ne e' parte integrante.   
-La facolta' potra', qualora lo ritenga opportuno, stabilire un corso di esercitazioni per certi insegnamenti del terzo e quarto anno.   
-  
-Art. 35. - Per ogni indirizzo l'esame di laurea deve comprendere una esercitazione scritta e la discussione orale di due tesine.   
-Per l'indirizzo generale sara' inoltre richiesto lo svolgimento di una ricerca (tesi) che dovra' presentare dei caratteri originali.   
-E' in facolta' degli studenti dell'indirizzo applicativo ovvero didattico richiedere di svolgere, oltre alle prove precedenti, una tesi scritta su argomenti da concordarsi con una commissione nominata dalla facolta'.   
-Superato l'esame di laurea lo studente consegue il titolo di dottore in matematica, indipendentemente dall'indirizzo prescelto del quale verra' fatta menzione soltanto nella carriera scolastica.   
-  
-Art. 43 (gia' 37), relativo alla facolta' di scienze economiche e bancarie e' modificato nel senso che il secondo comma e' abrogato e sostituito dal seguente:   
-"La facolta' attribuisce carattere di sbarramento per il passaggio al secondo anno di corso:   
-per la laurea in scienze economiche e bancarie ai seguenti insegnamenti: istituzioni di economia politica I, matematica, ragioneria generale ed applicata I;   
-per la laurea in scienze economiche ai seguenti insegnamenti: istituzioni di statistica, istituzioni di economia politica I, matematica".   
-  
-Art. 46 (gia' 40), e' abrogato e sostituito dal seguente:   
-Sono considerati propedeutici i seguenti insegnamenti:   
-  
-per la laurea in scienze economiche e bancarie   
-  
-  
-non si puo sostenere l'esa- se non si e superato l'esame me di: di:  
-  
-Diritto commerciale Istituzioni di diritto privato Scienza delle finanze Istituzioni di economia poli- tica II  
-Matematica finanziaria Matematica  
-Tecnica bancaria I Istituzioni di economia poli- tica II.  
-Ragioneria generale ed ap- plicata II.  
-Tecnica industriale e Ragioneria generale ed aplica- commerciale ta II.  
-  
-Diritto pubblico dell' eco- Istituzioni di diritto pubbli- nomia co  
-Diritto finanziario Istituzioni di diritto pubbli- co  
-Diritto amministrativo Istituzioni di diritto pubbli- co  
-Diritto del lavoro Istituzioni di diritto privato Diritto fallimentare Diritto commerciale  
-Economia e tecnica delle Matematica finanziaria  
-imprese di assicurazione  
-Tecnica di borsa Tecnica bancaria I  
-Tecnica industriale e commer- ciale  
-Statistica Matematica  
-Istituzioni di statistica  
-  
-Contabilita' di Stato Istituzioni di diritto pubblico  
-  
-  
-per la laurea in scienze economiche   
-  
-  
-non si puo sostenere l'esa- se non si e superato l'esame me di: di:  
-  
-Diritto commerciale Istituzioni di diritto privato Scienza delle finanze Istituzioni di economia poli- tica II  
-Economia politica I Istituzioni di economia poli- tica II  
-Politica economica Scienza delle finanze  
-Economia monetaria e credi- tizia II  
-Diritto amministrativo Istituzioni di diritto pubbli- blico  
-Economia internazionale Istituzioni di economia poli- tico II  
-Diritto pubblico dell'eco- Istituzioni di diritto pubbli- nomia co  
-Econometria Statistica  
-Economia applicata Istituzioni di economia poli- tica II  
-Economia matematica Istituzioni di economia poli- tica II  
-  
-  
+Art. 75. - La scuola speciale per terapisti della riabilitazione ha lo scopo di dare una preparazione completa, teorica e pratica, agli allievi istruendoli sui problemi della riabilitazione dei minorati fisici e psichici.  
+Costituiscono indirizzi della scuola:  
+a) rieducazione dei motulesi da lesioni del sistema nervoso centrale e periferico nell'adulto;  
+b) rieducazione dei motulesi da lesioni del sistema nervoso centrale e periferico nel bambino;  
+c) rieducazione in ortopedia e traumatologia:  
+d) riabilitazione della parola e del linguaggio nell'adulto;  
+e) terapia del linguaggio nell'eta' infantile;  
+f) riabilitazione in medicina interna, cardiologia e pneumologia;  
+g) riabilitazione ortofrenica e psicomotoria.  
+Art. 76. - La durata del corso degli studi per il conseguimento del diploma di terapista della riabilitazione e' di due anni accademici.  
+Il primo anno consiste in lezioni teoriche e pratiche su materie propedeutiche e tecniche.  
+Il secondo anno comprende: insegnamento teorico e tirocinio pratico.  
+Le materie di insegnamento del primo anno sono comuni a tutti gli iscritti.  
+Le materie di insegnamento del secondo anno sono qualificanti dell'indirizzo del corso di studio prescelto.  
+Il diploma sara' differenziato in otto branche di cui all'art. 6.  
+Gli allievi hanno l'obbligo della frequenza alle lezioni ed ai tirocini.  
+Art. 77. - Possono essere ammessi alla scuola gli allievi di ambo i sessi, di eta' non inferiore ai 17 anni, in possesso del titolo di studio per l'ammissione alle universita'.  
+Possono ottenere l'ammissione coloro che compiono 17 anni entro l'anno solare.  
+Il numero massimo dei posti disponibili annualmente e' stabilito nella misura di 40. L'iscrizione alla scuola e' subordinata al superamento di un esame di ammissione che sara' sostenuto con una commissione formata da tre docenti della scuola, designati dal direttore.  
+Art. 78. - Il consiglio direttivo della scuola viene nominato dalla facolta' ogni tre anni ed e' composto da Otto membri, uno per ogni indirizzo della scuola. Il consiglio elegge ogni tre anni il direttore della scuola e propone per la nomina al consiglio di facolta' i docenti delle singole materie.  
+Art. 79. - Le materie di insegnamento del primo anno sono:  
+1) Istituzioni di anatomia;  
+2) Istituzioni di fisiologia, fisiologia dello sviluppo;  
+3) Psicologia generale e patologica;  
+4) Nozioni di igiene e medicina sociale;  
+5) Nozioni di clinica della riabilitazione (indicazioni di terapia riabilitativa);  
+6) Istituzioni di patologia ed anatomia patologica;  
+7) Principi e tecniche della riabilitazione;  
+8) Principi di terapia occupazionale e strutture di recupero.  
+Art. 80. - Le materie di insegnamento del secondo anno per ciascun corso qualificato sono:  
+A) Terapia e riabilitazione dei motulesi da lesioni del sistema nervoso centrale e periferico del bambino:  
+1) Fisiologia e fisiopatologia del sistema nervoso;  
+2) Psicologia differenziale e dell'eta' evolutiva;  
+3) Pediatria e neuropsichiatria infantile;  
+4) Ortopedagogia;  
+5) Metodologia e didattica nell'insegnamento al bambino cerebroleso;  
+6) Tecniche di riabilitazione in fisioterapia per il recupero del bambino con paralisi cerebrali;  
+7) Tecniche di riabilitazione psico-motoria e di terapia occupazionale del bambino cerebroleso.  
+B) Terapia e riabilitazione psicomotoria ed ortofrenica:  
+1) Fisiologia e fisiopatologia del sistema nervoso;  
+2) Psicologia differenziale e dell'eta' evolutiva;  
+3) Pediatria differenziale e neuropsichiatria infantile;  
+4) Psicologia pedagogica;  
+5) Ortopedagogia;  
+6) Metodologia e didattica;  
+7) Ludoterapia;  
+8) Tecniche riabilitative psicomotorie ed occupazionali.  
+C) Terapia e riabilitazione del linguaggio nel bambino:  
+1) Fisiologia e fisiopatologia dell'udito e della parola;  
+2) Psicologia differenziale e dell'eta' evolutiva;  
+3) Pediatria e neuropsichiatria infantile;  
+4) Fisica acustica;  
+5) Audiologia;  
+6) Fonetica;  
+7) Foniatria.  
+D) Rieducazione dei motulesi adulti:  
+1) Fisiologia e fisiopatologia del sistema nervoso;  
+2) Clinica neurologica;  
+3) Psichiatria e psicopatologia;  
+4) Chinesiologia e diagnostica dei disturbi del movimento;  
+5) Tecniche di riabilitazione fisiochinesiterapiche nelle lesioni del sistema nervoso centrale;  
+6) Tecniche di riabilitazione fisiochinesiterapiche nelle lesioni del sistema nervoso periferico;  
+7) Tecniche di terapia occupazionale del motuleso.  
+E) Rieducazione dei disturbi della parola e del linguaggio nell'adulto:  
+1) Fisiologia e fisiopatologia dell'udito e della parola;  
+2) Clinica neurologica e diagnostica delle afasie;  
+3) Psicologia differenziale ed applicata;  
+4) Psichiatria e psicopatologia;  
+5) Fisica acustica;  
+6) Audiologia e fonetica;  
+7) Tecniche di riabilitazione delle afasie;  
+8) Tecniche di riabilitazione fonetica;  
+9) Foniatria.  
+F) Terapisti della riabilitazione in ortopedia e traumatologia:  
+1) Fisiologia e fisiopatologia negli organi di movimento;  
+2) Ortopedia e traumatologia;  
+3) Massoterapia, balneoterapia, idroterapia, ludoterapia;  
+4) Ginnastica medica;  
+5) Terapia di movimento e rieducazione motoria;  
+6) Psicologia differenziale e applicata;  
+7) Terapia occupazionale.  
+G) Riabilitazione in medicina interna, cardiologia e pneumologia:  
+1) Fisiologia e fisiopatologia circolatoria e respiratoria;  
+2) Esame del malato; indicazioni della riabilitazione;  
+criteri di recuperabilita';  
+3) Patologia e clinica delle forme polmonari inabilitanti;  
+4) Patologia e clinica delle forme circolatorie centrali o periferiche inabilitanti;  
+5) Metodologie terapeutiche di riabilitazione in patologia circolatoria e cardiaca;  
+6) Metodologie terapeutiche di riabilitazione in patologia respiratoria primitiva e secondaria;  
+7) Aspetti di riabilitazione cardiorespiratoria nel paziente geriatrico;  
+8) Terapia occupazionale.  
+Art. 81. - Il tirocinio pratico verra' effettuato presso istituti o cliniche dell'universita' od enti di ricovero e cura e particolarmente qualificati.  
+Art. 82. - Per essere ammessi a sostenere l'esame di diploma gli allievi dovranno avere seguito i corsi, superato gli esami scritti e orali in tutti gli insegnamenti prescritti, ed aver compiuto, con esito favorevole, le esercitazioni ed il tirocinio previsti.  
+L'esame per il conseguimento del diploma di terapista della riabilitazione consiste nella discussione di una tesi scritta su un tema preventivamente assegnato dal direttore della scuola.  
+Art. 83. - Per ottenere l'ammissione alla scuola dovra' essere presentata all'ufficio di segreteria dell'universita', entro il 1 ottobre, domanda diretta al rettore, redatta in carta da bollo e recante l'indicazione del recapito del richiedente.  
+Art. 84. - I candidati ammessi alla scuola dovranno, entro il termine che verra' a suo tempo comunicato, presentare:  
+a) titolo originale di studio;  
+b) due fotografie formato tessera (su fondo chiaro e firmate) del richiedente, di cui una bollata e autenticata;  
+c) quietanza comprovante il pagamento alla tesoreria universitaria delle tasse, sopratasse e contributi prescritti (immatricolazione L. 5000; tassa annuale di iscrizione L. 10.000; sopratassa annuale esami L. 7000; contributi generali L. 1000; contributo di riscaldamento L. 2000; libretto di riconoscimento L. 1000; indennita' di schedatura L. 1000; contributo di reparto L. 80.000 annuali).  
+Il pagamento della tassa di iscrizione e della soprattassa potra' essere ripartito in due rate uguali.  
+Art. 85. - Per ottenere il rilascio del diploma, gli interessati dovranno presentare:  
+a) domanda diretta al rettore in carta da bollo;  
+b) quietanza comprovante il pagamento di L. 5000 per indennita', diploma, bollo, ecc., effettuato mediante apposito bollettino;  
+c) quietanza comprovante il pagamento della tassa erariale di diploma di L. 5000.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 ottobre 1970
+### Dato a Roma, addi' 31 ottobre 1972
 
-SARAGAT MISASI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 27 novembre 1970
+Registrato alla Corte dei conti, addi' 20 febbraio 1973
 
-Atti del Governo, registro n. 238, foglio n. 139. - CARUSO
+Atti di Governo, registro n. 256, foglio n. 10. - VALENTINI

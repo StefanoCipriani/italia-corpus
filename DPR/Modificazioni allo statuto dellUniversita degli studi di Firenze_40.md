@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 1974 n. 731
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1967 n. 1054
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 1974 n. 731
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1967 n. 1054
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
@@ -12,61 +12,75 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione:  
-  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 257 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' aggiunta la scuola in malattie infettive.  
-Dopo l'art. 300, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in malattie infettive.  
-Scuola di specializzazione in malattie infettive  
-Art. 301. - La durata del corso di studi per il conseguimento del diploma di specialista in malattie infettive e' di tre anni.  
-Il numero dei posti disponibili per gli allievi specialisti e' di quattro per ogni anno di corso.  
-Possono ottenere la iscrizione alla scuola i laureati in medicina e chirurgia che abbiano superato l'esame di ammissione, consistente in una prova scritta ed in una prova orale.  
-Art. 302. - Gli insegnamenti della scuola sono cosi' ripartiti nei tre anni di corso:  
-1° Anno:  
-1) Epidemiologia generale delle malattie infettive;  
-2) Nozioni generali di batteriologia, di virologia, di parassitologia, di immunologia;  
-3) Tecnica batteriologica, virologica, parassitologica, immunologica applicata alle malattie infettive (1° anno).  
-2° Anno:  
-1) Patologia e clinica delle malattie infettive (1° anno);  
-2) Semeiotica e diagnostica delle malattie infettive;  
-3) Anatomia patologica delle malattie infettive;  
-4) Tecnica batteriologica, virologica, parassitologica, immunologica (2° anno).  
-3° Anno:  
-1) Patologia e clinica delle malattie infettive (2° anno);  
-2) Malattie infettive dei Paesi caldi;  
-3) Farmacologia e terapia generale delle malattie infettive;  
-4) Legislazione sanitaria e malattie infettive.  
-Art. 303. - Le lezioni saranno integrate da esercitazioni e dimostrazioni pratiche da eseguirsi nei reparti della divisione specialita' pediatriche, sezione malattie infettive, e nei laboratori della clinica pediatrica.  
-Gli allievi dovranno frequentare i reparti di degenza ed i laboratori clinici per un periodo non inferiore agli otto mesi per ogni anno di corso.  
-Art. 304. - Durante l'intero corso gli allievi dovranno superare i seguenti esami, per essere ammessi allo anno di corso successivo ed all'esame di diploma:  
-1° Anno: un esame sulle seguenti discipline: epidemiologia generale delle malattie infettive e nozioni generali di batteriologia, di virologia, di parassitologia, di immunologia.  
-2° Anno: un esame relativo alle discipline: a) semeiotica e diagnostica delle malattie infettive; b) anatomia patologica delle malattie infettive; c) tecnica batteriologica, virologica, parassitologica, immunologica (1° e 2° anno).  
-3° Anno: un esame relativo alle discipline: a) patologia e clinica delle malattie infettive (1° e 2° anno);  
-b) malattie infettive dei Paesi caldi.  
-Un esame relativo alle discipline: a) farmacologia e terapia generale delle malattie infettive; b) legislazione sanitaria e malattie infettive.  
-Art. 305. - Per il conseguimento del diploma di specializzazione gli allievi dovranno discutere, di fronte ad apposita commissione, una tesi scritta su un argomento riguardante le malattie infettive.  
-La direzione della scuola e' affidata al professore ufficiale dell'insegnamento di malattie infettive della facolta' di medicina e chirurgia.  
+Art. 68. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti quelli di:  
+27) chemioterapia;  
+28) tossicologia.  
+Art. 76. - All'elenco degli insegnamenti complementari del corso di laurea in chimica (indirizzo organicobiologico) e' aggiunto quello di:  
+30) chimica analitica clinica.  
+Nel predetto corso di laurea - per l'indirizzo organico-biologico ed inorganico-chimico-fisico - l'insegnamento complementare di "chimica statistica" e' soppresso ed al suo posto viene istituito quello di "termodinamica statistica".  
+Nello stesso corso di laurea in chimica (indirizzo inorganico-chimico-fisico) sono aggiunti quelli di:  
+27) spettroscopia molecolare;  
+28) chimica dei composti di coordinazione.  
+Art. 77, relativo al corso di laurea in chimica e' aggiunto il seguente comma:  
+  
+L'insegnamento biennale di esercitazioni di chimica fisica e' distinto per i due indirizzi".  
+Art. 78, relativo alle norme sulla propedeuticita' ed esami del corso di laurea in chimica, e' aggiunto il seguente comma:  
+"L'esame di chimica analitica clinica deve essere preceduto dagli esami di esercitazioni di analisi chimica qualitativa, esercitazioni di analisi chimica quantitativa, esercitazioni di chimica organica e di analisi organica".  
+Art. 79, relativo al corso di laurea in fisica, dopo il primo comma e' aggiunto il seguente:  
+"Per i corsi degli indirizzi generale e applicativo che implicano frequenza di laboratorio e cioe' esperimentazione fisica (biennale) e laboratorio di fisica (biennale), si richiedono invece due esami annuali l'uno propedeutico all'altro".  
+Art. 85. - All'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche e' aggiunto quello di:  
+21) biologia molecolare.  
+Art. 270, relativo alla scuola di perfezionamento in fisica, il secondo comma e' abrogato e sostituito dal seguente:  
+"Gli insegnamenti saranno scelti nel seguente piano dal consiglio dei professori della scuola:  
+1) complementi di fisica teorica;  
+2) fisica nucleare teorica;  
+3) fisica dei campi;  
+4) metodi di matematica applicata;  
+5) elettronica superiore;  
+6) tecniche sperimentali di fisica nucleare;  
+7) macchine acceleratrici;  
+8) fisica dei gas ionizzati;  
+9) magneto-idrodinamica ed elettrodinamica cosmica;  
+10) fisica degli stati condensati;  
+11) teoria delle interazioni fondamentali;  
+12) elettrodinamica quantistica;  
+13) teorie relativistiche;  
+14) strutture dei nuclei;  
+15) fisica di alta energia;  
+16) tecniche di rivelazione di particelle;  
+17) elettronica quantistica;  
+18) teoria dell'informazione;  
+19) fisica cosmica;  
+20) astrofisica superiore;  
+21) fisica solare superiore;  
+22) corsi monografici.  
+Il terz'ultimo comma e' abrogato e sostituto dal seguente:  
+"I corsi monografici, in numero non superiore a 4, saranno stabiliti all'inizio di ciascun anno dal consiglio dei professori della scuola nell'indirizzo della scuola o affidati ad esperti italiani e stranieri".  
+Art. 272. - Il secondo comma e' abrogato e sostituito dal seguente: "La commissione per l'esame di diploma e' formata da 4 membri (tra i quali il relatore) scelti dal direttore possibilmente tra gli insegnanti della scuola stessa e da un correlatore nominato da un consiglio dei professori nella persona di un competente nel soggetto particolare della dissertazione, che puo' anche non far parte della Universita' di Firenze".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 6 giugno 1974
+### Dato a Roma, addi' 14 agosto 1967
 
-LEONE MALFATTI
+SARAGAT GUI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 27 gennaio 1975
+Registrato alla Corte dei conti, addi' 15 novembre 1967
 
-Atti di Governo, registro n. 8, foglio n. 26
+Atti del Governo, registro n. 214, foglio n. 147. - GRECO

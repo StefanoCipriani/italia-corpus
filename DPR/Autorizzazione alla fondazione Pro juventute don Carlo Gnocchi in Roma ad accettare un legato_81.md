@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 532
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 gennaio 1976 n. 57
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 532
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 gennaio 1976 n. 57
 =============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-532. Decreto del Presidente della Repubblica 28 giugno 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella quota di 1/2 del ricavato della vendita di un immobile sito in Mantova del valore peritato di L. 43.000.000 - quota 1/2 ÷ L. 21.500.000 - disposto dalla sig.ra Benatti Angela a favore dei bambini handicappati della fondazione "Don Gnocchi", che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale 16 gennaio 1984 del consiglio di amministrazione della fondazione stessa, con testamento olografo 21 gennaio 1981 e codicillo 16 novembre 1982, pubblicato in data 18 aprile 1983, n. 30039 di repertorio e n. 12059 di raccolta, a rogito dott. Bagnoli Enrico, notaio in Volta Mantovana (Mantova), registrato a Castiglione delle Stiviere (Mantova) il 21 aprile 1983 al n. 780.   
+57. Decreto del Presidente della Repubblica 23 gennaio 1976, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Erminia Coppo con testamento olografo 9 luglio 1971, pubblicato e depositato con verbale n. 48147.8353 di repertorio in data 3 luglio 1972 del dott. Fernando Montarolo, notaio in Casale Monferrato (Alessandria), ed ivi registrato il 5 luglio 1972, vol. 413 al n. 1450 atti pubblici, consistente in denaro liquido, oro e valuta estera per un valore presunto di lire 11.067.502.  
   
-Visto, il Guardasigilli: ROGNONI   
-Registrato alla Corte dei conti, addi' 22 agosto 1986   
-Registro n. 8 Presidenza, foglio n. 180
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 13 marzo 1976  
+Atti di Governo, registro n. 4, foglio n. 10

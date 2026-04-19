@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1984 n. 1045
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 531
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1984 n. 1045
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 531
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
@@ -39,21 +39,19 @@ Articolo unico
 --------------
 
   
-Nell'art. 60, relativo al corso di laurea in lingue e letterature straniere moderne della facolta' di lettere e filosofia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-lingua neo-greca.  
+Nell'art. 41, relativo al corso di laurea in economia e commercio, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+diritto regionale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1984
+### Dato a Roma, addi' 4 maggio 1983
 
-PERTINI
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 31 gennaio 1985
+Registrato alla Corte dei conti, addi' 28 settembre 1983
 
-Registro n. 7 Istruzione, foglio n. 32
+Registro n. 63 Istruzione, foglio n. 129

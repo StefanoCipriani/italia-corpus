@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 marzo 1948 n. 357
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 giugno 1949 n. 520
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 marzo 1948 n. 357
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 giugno 1949 n. 520
+=============================================================
 
 Autorizzazione all'Accademia nazionale dei Lincei ad accettare una donazione.
 -----------------------------------------------------------------------------
@@ -12,7 +12,7 @@ Art. 1
 
 N.
 
-357. Decreto del Presidente della Repubblica 24 marzo 1948, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Accademia nazionale dei Lincei viene autorizzata ad accettare la donazione disposta in suo favore dal dott. Aurelio Jucci della somma di L. 75.000 destinata a promuovere presso l'Accademia anzidetta una fondazione denominata, "Fondazione Giovanna Jucci per studi di genetica".  
+520. Decreto del Presidente della Repubblica 8 giugno 1949, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Accademia nazionale dei Lincei viene autorizzata ad accettare, con beneficio d'inventario, la nuda proprieta' di tutti i beni disposta in suo favore dal dott. Guido Donegani con testamento pubblico 1 luglio 1946.  
   
 Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 16 aprile 1948
+Registrato atta Corte dei conti, addi' 22 luglio 1949

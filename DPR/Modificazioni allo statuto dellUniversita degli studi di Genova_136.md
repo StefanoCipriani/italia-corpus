@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1986 n. 607
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 marzo 1965 n. 396
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1986 n. 607
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 marzo 1965 n. 396
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
@@ -10,166 +10,443 @@ Modificazioni allo statuto dell'Universita' degli studi di Genova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846) e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico del 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova;
-
-Considerato che e' tuttora in atto la sperimentazione organizzativa e didattica di cui agli [articoli 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art81)-[93 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art93);
-
-Considerato che le tabelle dell'ordinamento didattico universitario relative ai corsi di laurea sono in fase di riordinamento per effetto di apposite commissioni di studio, e che anzi alcune tabelle sono state gia' riordinate;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Rilevata la necessita' di accogliere la richiesta dell'Universita' di Genova di istituire il corso di laurea in scienze dell'informazione, allo scopo di riequilibrare le iscrizioni presso gli omonimi corsi di laurea degli atenei viciniori, al fine di assicurare una migliore formazione degli studenti;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita', degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Art. 45. - Agli insegnamenti complementari per il corso di laurea in Farmacia sono aggiunti quelli di:
 
+Microchimica;
+
+Microbiologia.
+
+Art. 74. - Agli insegnamenti del 4° anno del corso di laurea, in ingegneria civile (Sezione edile), viene soppresso l'insegnamento di Impianti tecnici e viene inserito al 5° anno.
+
+Gli insegnamenti degli indirizzi 1° e 2° sono soppressi e sostituiti dai seguenti:
+
+Indirizzo 1°:
+
+28) Complementi di architettura e di urbanistica c
+
+29) Costruzione di ponti c.
+
+Indirizzo 2°:
+
+28) Meccanica dei terreni e tecnica delle fondazioni c.
+
+29) Costruzioni marittime.
+
+Agli insegnamenti del 4° anno del corso di laurea in ingegneria civile (Sezione idraulica) e' soppresso l'insegnamento di Costruzioni idrauliche.
+
+Gli insegnamenti del 5° anno dello stesso corso di laurea sono soppressi e sostituiti dai seguenti:
+
+5° Anno:
+
+24) Costruzioni idrauliche
+
+25) Complementi di tecnica delle costruzioni a
+
+26°) Estimo ed esercizio professionale (semestrale) b.
+
+26°) Igiene applicata (semestrale) b
+
+27) Meccanica dei terreni e tecnica delle fondazioni b
+
+28) Gruppi di materie secondo gli insegnamenti a scelta dello studente c
+
+29) Gruppi di materie secondo gli insegnamenti a scelta dello studente c
+
+Indirizzo 2°: Tra, le materie a scelta dello studente viene soppresso l'insegnamento di meccanica, dei terreni e sostituito con quello di "Costruzioni di ponti".
+
+L'insegnamento di "Meccanica dei terreni" del corso di laurea in ingegneria civile (Sezione trasporti) viene soppresso al 4° anno.
+
+Nello stesso corso di laurea l'insegnamento di "Meccanica dei terreni e tecnica delle fondazioni" viene inserito al 5° anno fra gli insegnamenti obbligatori sul piano della Facolta'.
+
+Gli indirizzi 1° e 2° sono soppressi e sostituiti dai seguenti:
+
+Indirizzo 1°:
+
+28) Trazione elettrica c.
+
+29) Mezzi di sollevamento e trasporto c.
+
+Indirizzi 2°:
+
+28) Meccanica tecnica superiore c.
+
+29) Costruzioni marittime c
+
+L'insegnamento di "Estimo ed esercizio professionale (semestrale) del 4° anno del corso di laurea in ingegneria meccanica obbligatorio sul piano della Facolta' e' soppresso e sostituito con quello di Disegno di macchine".
+
+Nel 5° anno dello stesso corso di laurea e' soppresso l'insegnamento di "Disegno di macchine" obbligatorio nel piano della Facolta' e sostituito con quello di "Elettronica industriale".
+
+Agli indirizzi vengono aggiunti i seguenti:
+
+Indirizzo nucleare:
+
+28) Teoria e tecnica dei reattori c
+
+29) Impianti nucleari c.
+
+Indirizzo trasporti:
+
+28) Tecnica ed economia dei trasporti
+
+29) Mezzi sollevamento e trasporti.
+
+L'insegnamento di "Complementi di matematica (semestrale)" del 3° anno - obbligatorio nel piano della Facolta' - del corso di laurea in ingegneria elettrotecnica passa annuale.
+
+Gli insegnamenti del 5° anno sono soppressi e sostituiti dai seguenti:
+
+5° Anno:
+
+23) Costruzioni elettromeccaniche b
+
+24) Tecnologia meccanica (semestrale) b
+
+25) Economia, ed organizzazione industriale b
+
+26) Controlli automatici b
+
+27) Complementi di impianti elettrici b
+
+28) Gruppi di materie secondo gli indirizzi a scelta dello studente c
+
+29) Gruppi di materie secondo gli indirizzi a scelta dello studente c
+
+Gli indirizzi del predetto corso di laurea sono stati modificati nel seguente modo:
+
+Indirizzo "Impianti":
+
+28) Trazione elettrica c
+
+29) Impianti elettrici di bordo c.
+
+Indirizzo "Elettromeccanica":
+
+28) Complementi di macchine elettriche c
+
+29) Costruzione di macchine.
+
+Indirizzo "Automazione":
+
+28) Impianti meccanici
+
+29) Tecnica della regolazione.
+
+Indirizzo "nucleare":
+
+28) Teoria e tecnica dei reattori
+
+29) Impianti nucleari.
+
+Nel piano di studi per il corso di laurea in ingegneria chimica la denominazione degli indirizzi "Chimico industriale inorganico" e "Chimico industriale organico e petrolchimico", vengono sostituite dalle seguenti:
+
+A) indirizzo chimico industriale
+
+B) Indirizzo petrolchimico.
+
+L'insegnamento "Complementi di macchine b" del 5° anno del Corso di laurea in ingegneria navale e meccanica viene soppresso e sostituito da quello di "Elettronica generale ed applicata b".
+
+Inoltre ai tre indirizzi gia' esistenti viene aggiunto:
+
+Indirizzo 4°:
+
+29) Macchine elettriche c
+
+30) Impianti elettrici c.
+
+Il piano di studi per il corso di laurea in ingegneria elettronica viene modificato come segue:
+
+A) Al 3° anno l'insegnamento di "Meccanica applicata alle macchine a" e' sostituito da quello di "Meccanica applicata alle macchine e macchine a"; l'insegnamento di "Complementi di matematica b" da semestrale diventa annuale;
+
+B) Al 4° anno l'insegnamento di "Macchine b" viene soppresso e sostituito da quello di "Teoria delle reti elettriche b";
+
+C) Al 5° anno viene aggiunto l'insegnamento di "Misure elettroniche a";
+
+D) Gli indirizzi vengono soppressi e sostituiti dai seguenti:
+
+Indirizzo "Radio-telecomunicazioni":
+
+28) Microonde c
+
+29) Impianti di comunicazioni elettriche c.
+
+Indirizzo "Calcolatori elettronici":
+
+28) Calcolatori elettronici c
+
+29) Tecnica della regolazione c.
+
+Indirizzo telefonia e telegrafia:
+
+28) Commutazioni telefoniche e telegrafiche c
+
+29) Impianti telefonici e telegrafici c.
+
+Art. 113, relativo alla durata della Scuola di specializzazione in pediatria viene modificato come segue:
+
+"Il corso ha la durata di tre anni".
+
+L'insegnamento ha carattere essenzialmente dimostrativo e pratico.
+
+Gli articoli 201 e 202, relativi alla Scuola di specializzazione in psicologia dell'eta' evolutiva, sono abrogati e sostituiti dai seguenti:
+
+Art. 201. - Presso l'Istituto di psicologia, e' istituita la Scuola di specializzazione in psicologia dell'eta' evolutiva, che ha lo scopo di conferire adeguata competenza teorica e pratica ai laureati in Medicina e chirurgia, in Lettere, in Filosofia e in Pedagogia, i quali intendano dedicarsi all'esercizio della Psicologia, dell'eta' evolutiva.
+
+La Scuola ha la durata di tre anni. Ad essa possono iscriversi i laureati in Medicina e chirurgia, in Lettere, in Filosofia, e in Pedagogia. Le norme d'iscrizione, esami, pagamento tasse, ecc., sono quelle generali delle Scuole di specializzazione e di perfezionamento riferite negli articoli da 91 a 107 dello statuto.
+
+Il numero massimo dei posti per detta scuola e' fissato in dieci per ogni anno.
+
+Art. 202. - Le materie d'insegnamento sono:
+
+1° Anno:
+
+Psicologia generale e sperimentale.
+
+Psicologia dello sviluppo
+
+Elementi di auxologia
+
+Elementi di statistica.
+
+2° Anno:
+
+Psicologie dinamiche analitiche e non analitiche.
+
+Medicina psicosomatica
+
+Tests mentali e tecniche proiettive
+
+Psicopatologia e psichiatria infantile
+
+Pediatria
+
+Psicoterapia infantile.
+
+3° Anno:
+
+Psicologie dinamiche analitiche e non analitiche
+
+Medicina psicosomatica
+
+Psicologia sociale
+
+Protezione e assistenza all'infanzia
+
+Tests mentali e tecniche proiettive
+
+Psicopatologia e psichiatria infantile
+
+Psicologia scolastica e orientamento scolastico e professionale
+
+Psicoterapia infantile.
+
+Tutte le discipline sono svolte sotto forma di lezioni, dimostrazioni pratiche e illustrazioni di casi clinici.
+
+Gli iscritti hanno l'obbligo di frequentare assiduamente per tutto il triennio i corsi e prestare servizio sia nell'Istituto di psicologia che nei reparti chimici e in altre istituzioni che saranno indicate nel programma annuale.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e di decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 22 marzo 1965
+
+SARAGAT
+
+GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 29 aprile 1965 Atti del Governo, registro n. 192, foglio n. 151. - VILLA
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Nell'art. 75, all'elenco delle lauree che conferisce la facolta' di scienze matematiche, fisiche e naturali, e' aggiunta la seguente laurea: "scienze dell'informazione".  
-Dopo l'art. 82, con il conseguente scorrimento della numerazione degli articoli successivi, sono inseriti la intitolazione del corso di laurea in scienze dell'informazione e l'articolo relativo all'ordinamento degli studi del corso di laurea medesimo, come di seguito riportato:  
-"laurea in scienze dell'informazione".  
-Art. 83. - La durata del corso di studi per la laurea in scienze dell'informazione e' di quattro anni. Titoli di ammissione sono quelli previsti dall'[art. 1 della legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1).  
-Ogni anno, prima dell'apertura delle iscrizioni, il senato accademico e il consiglio di amministrazione, sulla base delle indicazioni motivate fornite dalla facolta', fissano il numero massimo di studenti ammessi all'iscrizione al primo anno di corso.  
-Il corso degli studi si distingue in tre indirizzi: indirizzo generale, indirizzo applicativo (gestione), indirizzo tecnico (sistemi per l'elaborazione).  
-Il primo biennio di studi e' comune ai tre indirizzi.  
-La scelta dell'indirizzo viene fatta dallo studente  
-all'atto della sua iscrizione al terzo anno di corso.  
-a) Sono insegnamenti fondamentali obbligatori per il primo biennio per flutti gli indirizzi:  
-1° Anno.  
-1) analisi matematica I;  
-2) algebra (semestrale);  
-3) fisica I;  
-4) geometria (semestrale);  
-5) teoria ed applicazione delle macchine calcolatrici.  
-2° Anno.  
-1) analisi matematica II;  
-2) calcolo delle probabilita' e statistica (semestrale);  
-3) calcolo numerico (semestrale);  
-4) fisica II;  
-5) ricerca operativa e gestione aziendale;  
-6) sistemi per l'elaborazione dell'informazione I.  
-b) Sono insegnamenti fondamentali obbligatori comuni a tutti gli indirizzi per il secondo biennio:  
-1) metodi per il trattamento dell'informazione;  
-2) sistemi per l'elaborazione dell'informazione II;  
-3) teoria dell'informazione e della trasmissione.  
-Sono insegnamenti fondamentali obbligatori:  
-a) Per l'indirizzo generale:  
-1) linguaggi formali e compilatori;  
-2) metodi di approssimazione.  
-b) Per l'indirizzo tecnico:  
-1) tecniche numeriche e analogiche;  
-2) teoria dei sistemi.  
-c) Per l'indirizzo applicativo:  
-1) teoria e metodi dell'ottimizzazione;  
-2) economia e organizzazione aziendale (semestrale);  
-3) trattamento dell'informazione nell'impresa (semestrale).  
-Sono insegnamenti complementari comuni ai tre indirizzi:  
-1) analisi numerica;  
-2) automi e linguaggi formali;  
-3) bioelettronica;  
-4) calcolo delle probabilita';  
-5) cibernetica e teoria dell'informazione;  
-6) complementi di gestione aziendale;  
-7) comunicazioni elettriche;  
-8) controlli automatici;  
-9) controllo dei processi industriali;  
-10) documentazione automatica;  
-11) econometrica;  
-12) elaborazione dell'informazione non numerica;  
-13) elaborazione di immagini;  
-14) elaborazione dei testi letterali;  
-15) elettronica;  
-16) elettronica applicata;  
-17) fisica delle basse temperature;  
-18) fisica delle particelle elementari;  
-19) fisica dei semiconduttori;  
-20) fisica numerica;  
-21) fisica superiore;  
-22) ingegneria del software;  
-23) istituzioni di fisica teorica;  
-24) istituzioni di algebra;  
-25) istituzioni di analisi superiore;  
-26) istituzioni di fisica matematica;  
-27) linguaggi di programmazione;  
-28) linguaggi speciali di programmazione;  
-29) linguaggi e programmazione;  
-30) logica della programmazione;  
-31) logica matematica;  
-32) macchine calcolatrici analogiche;  
-33) matematica applicata;  
-34) metodologie di programmazione;  
-35) metodi di osservazione e misura;  
-36) metodi di analisi numerica;  
-37) modelli per i sistemi socioeconomici;  
-38) progetto con l'ausilio del calcolatore;  
-39) progetto di sistemi numerici;  
-40) ricerca operativa;  
-41) riconoscimento automatico delle forme;  
-42) simulazione;  
-43) sistemi operativi;  
-44) statistica;  
-45) strutture informative;  
-46) tecnica di organizzazione delle informazioni;  
-47) tecniche avanzate di programmazione;  
-48) tecniche di progettazione automatica;  
-49) tecniche direzionali;  
-50) tecniche speciali di elaborazione;  
-51) tecnologia degli elaboratori in tempo reale I (hardware);  
-52) tecnologia degli elaboratori in tempo reale II (software);  
-53) teoria degli algoritmi e calcolabilita';  
-54) teoria degli autonomi;  
-55) teoria dei giochi;  
-56) teoria dei grafi;  
-57) teoria delle decisioni;  
-58) teoria dei linguaggi;  
-59) teoria dei modelli;  
-60) teoria dei sistemi;  
-61) teoria e metodi dell'ottimizzazione;  
-62) teoria e sistemi di programmazione.  
-La facolta' si riserva di indicare quali corsi complementari sono da considerarsi semestrali.  
-Gli insegnamenti fondamentali e complementari sono accompagnati da un corso di esercitazioni che ne e' parte integrante.  
-Ciascuno degli insegnamenti, sia fondamentali che complementari, comporta un esame finale.  
-Ciascun insegnamento fondamentale di un indirizzo, puo' essere scelto come insegnamento complementare per un altro indirizzo in cui non sia fondamentale.  
-La scelta delle materie complementari da parte dello studente e' sottoposta alla preventiva approvazione della facolta'.  
-Per ottenere l'iscrizione al secondo biennio lo studente deve aver seguito i corsi e superato gli esami di almeno cinque materie annuali del primo biennio (due corsi semestrali sono valutati come un corso annuale).  
-Gli esami di analisi matematica I e fisica I sono propedeutici rispettivamente agli esami di analisi matematica II e fisica II e tutti gli esami del primo biennio sono propedeutici agli esami del secondo biennio.  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti fondamentali e almeno di quattro fra i complementari se a corso semestrale, di almeno tre se uno di questi e' annuale e di almeno due se ambedue sono annuali.  
-L'esame di laurea consiste nella discussione di una tesi scritta.  
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
+  
+Lo statuto dell'Universita', degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+Art. 45. - Agli insegnamenti complementari per il corso di laurea in Farmacia sono aggiunti quelli di:  
+Microchimica;  
+Microbiologia.  
+  
+Art. 74. - Agli insegnamenti del 4° anno del corso di laurea, in ingegneria civile (Sezione edile), viene soppresso l'insegnamento di Impianti tecnici e viene inserito al 5° anno.  
+Gli insegnamenti degli indirizzi 1° e 2° sono soppressi e sostituiti dai seguenti:  
+  
+Indirizzo 1°:  
+28) Complementi di architettura e di urbanistica c  
+29) Costruzione di ponti c.  
+  
+Indirizzo 2°:  
+28) Meccanica dei terreni e tecnica delle fondazioni c.  
+29) Costruzioni marittime.  
+Agli insegnamenti del 4° anno del corso di laurea in ingegneria civile (Sezione idraulica) e' soppresso l'insegnamento di Costruzioni idrauliche.  
+Gli insegnamenti del 5° anno dello stesso corso di laurea sono soppressi e sostituiti dai seguenti:  
+  
+5° Anno:  
+24) Costruzioni idrauliche  
+25) Complementi di tecnica delle costruzioni a  
+26°) Estimo ed esercizio professionale (semestrale) b.  
+26°) Igiene applicata (semestrale) b  
+27) Meccanica dei terreni e tecnica delle fondazioni b  
+28) Gruppi di materie secondo gli insegnamenti a scelta dello studente c  
+29) Gruppi di materie secondo gli insegnamenti a scelta dello studente c  
+Indirizzo 2°: Tra, le materie a scelta dello studente viene soppresso l'insegnamento di meccanica, dei terreni e sostituito con quello di "Costruzioni di ponti".  
+L'insegnamento di "Meccanica dei terreni" del corso di laurea in ingegneria civile (Sezione trasporti) viene soppresso al 4° anno.  
+Nello stesso corso di laurea l'insegnamento di "Meccanica dei terreni e tecnica delle fondazioni" viene inserito al 5° anno fra gli insegnamenti obbligatori sul piano della Facolta'.  
+Gli indirizzi 1° e 2° sono soppressi e sostituiti dai seguenti:  
+Indirizzo 1°:  
+28) Trazione elettrica c.  
+29) Mezzi di sollevamento e trasporto c.  
+  
+Indirizzi 2°:  
+28) Meccanica tecnica superiore c.  
+29) Costruzioni marittime c  
+L'insegnamento di "Estimo ed esercizio professionale (semestrale) del 4° anno del corso di laurea in ingegneria meccanica obbligatorio sul piano della Facolta' e' soppresso e sostituito con quello di Disegno di macchine".  
+Nel 5° anno dello stesso corso di laurea e' soppresso l'insegnamento di "Disegno di macchine" obbligatorio nel piano della Facolta' e sostituito con quello di "Elettronica industriale".  
+Agli indirizzi vengono aggiunti i seguenti:  
+  
+Indirizzo nucleare:  
+28) Teoria e tecnica dei reattori c  
+29) Impianti nucleari c.  
+  
+Indirizzo trasporti:  
+28) Tecnica ed economia dei trasporti  
+29) Mezzi sollevamento e trasporti.  
+L'insegnamento di "Complementi di matematica (semestrale)" del 3° anno - obbligatorio nel piano della Facolta' - del corso di laurea in ingegneria elettrotecnica passa annuale.  
+Gli insegnamenti del 5° anno sono soppressi e sostituiti dai seguenti:  
+  
+5° Anno:  
+23) Costruzioni elettromeccaniche b  
+24) Tecnologia meccanica (semestrale) b  
+25) Economia, ed organizzazione industriale b  
+26) Controlli automatici b  
+27) Complementi di impianti elettrici b  
+28) Gruppi di materie secondo gli indirizzi a scelta dello studente c  
+29) Gruppi di materie secondo gli indirizzi a scelta dello studente c  
+Gli indirizzi del predetto corso di laurea sono stati modificati nel seguente modo:  
+  
+Indirizzo "Impianti":  
+28) Trazione elettrica c  
+29) Impianti elettrici di bordo c.  
+  
+Indirizzo "Elettromeccanica":  
+28) Complementi di macchine elettriche c  
+29) Costruzione di macchine.  
+  
+Indirizzo "Automazione":  
+28) Impianti meccanici  
+29) Tecnica della regolazione.  
+  
+Indirizzo "nucleare":  
+28) Teoria e tecnica dei reattori  
+29) Impianti nucleari.  
+Nel piano di studi per il corso di laurea in ingegneria chimica la denominazione degli indirizzi "Chimico industriale inorganico" e "Chimico industriale organico e petrolchimico", vengono sostituite dalle seguenti:  
+A) indirizzo chimico industriale  
+B) Indirizzo petrolchimico.  
+L'insegnamento "Complementi di macchine b" del 5° anno del Corso di laurea in ingegneria navale e meccanica viene soppresso e sostituito da quello di "Elettronica generale ed applicata b".  
+Inoltre ai tre indirizzi gia' esistenti viene aggiunto:  
+  
+Indirizzo 4°:  
+29) Macchine elettriche c  
+30) Impianti elettrici c.  
+Il piano di studi per il corso di laurea in ingegneria elettronica viene modificato come segue:  
+A) Al 3° anno l'insegnamento di "Meccanica applicata alle macchine a" e' sostituito da quello di "Meccanica applicata alle macchine e macchine a"; l'insegnamento di "Complementi di matematica b" da semestrale diventa annuale;  
+B) Al 4° anno l'insegnamento di "Macchine b" viene soppresso e sostituito da quello di "Teoria delle reti elettriche b";  
+C) Al 5° anno viene aggiunto l'insegnamento di "Misure elettroniche a";  
+D) Gli indirizzi vengono soppressi e sostituiti dai seguenti:  
+  
+Indirizzo "Radio-telecomunicazioni":  
+28) Microonde c  
+29) Impianti di comunicazioni elettriche c.  
+  
+Indirizzo "Calcolatori elettronici":  
+28) Calcolatori elettronici c  
+29) Tecnica della regolazione c.  
+  
+Indirizzo telefonia e telegrafia:  
+28) Commutazioni telefoniche e telegrafiche c  
+29) Impianti telefonici e telegrafici c.  
+  
+Art. 113, relativo alla durata della Scuola di specializzazione in pediatria viene modificato come segue:  
+"Il corso ha la durata di tre anni".  
+L'insegnamento ha carattere essenzialmente dimostrativo e pratico.  
+Gli articoli 201 e 202, relativi alla Scuola di specializzazione in psicologia dell'eta' evolutiva, sono abrogati e sostituiti dai seguenti:  
+  
+Art. 201. - Presso l'Istituto di psicologia, e' istituita la Scuola di specializzazione in psicologia dell'eta' evolutiva, che ha lo scopo di conferire adeguata competenza teorica e pratica ai laureati in Medicina e chirurgia, in Lettere, in Filosofia e in Pedagogia, i quali intendano dedicarsi all'esercizio della Psicologia, dell'eta' evolutiva.  
+La Scuola ha la durata di tre anni. Ad essa possono iscriversi i laureati in Medicina e chirurgia, in Lettere, in Filosofia, e in Pedagogia. Le norme d'iscrizione, esami, pagamento tasse, ecc., sono quelle generali delle Scuole di specializzazione e di perfezionamento riferite negli articoli da 91 a 107 dello statuto.  
+Il numero massimo dei posti per detta scuola e' fissato in dieci per ogni anno.  
+  
+Art. 202. - Le materie d'insegnamento sono:  
+  
+1° Anno:  
+Psicologia generale e sperimentale.  
+Psicologia dello sviluppo  
+Elementi di auxologia  
+Elementi di statistica.  
+  
+2° Anno:  
+Psicologie dinamiche analitiche e non analitiche.  
+Medicina psicosomatica  
+Tests mentali e tecniche proiettive  
+Psicopatologia e psichiatria infantile  
+Pediatria  
+Psicoterapia infantile.  
+  
+3° Anno:  
+Psicologie dinamiche analitiche e non analitiche  
+Medicina psicosomatica  
+Psicologia sociale  
+Protezione e assistenza all'infanzia  
+Tests mentali e tecniche proiettive  
+Psicopatologia e psichiatria infantile  
+Psicologia scolastica e orientamento scolastico e professionale  
+Psicoterapia infantile.  
+Tutte le discipline sono svolte sotto forma di lezioni, dimostrazioni pratiche e illustrazioni di casi clinici.  
+Gli iscritti hanno l'obbligo di frequentare assiduamente per tutto il triennio i corsi e prestare servizio sia nell'Istituto di psicologia che nei reparti chimici e in altre istituzioni che saranno indicate nel programma annuale.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e di decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 agosto 1986
+### Dato a Roma, addi' 22 marzo 1965
 
-COSSIGA
+SARAGAT GUI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: REALE
 
-Visto, il Guardasigilli: ROGNONI
+Registrato alla Corte dei conti, addi' 29 aprile 1965
 
-Registrato alla Corte dei conti, addi' 25 settembre 1986
-
-Registro n. 72 Istruzione, foglio n. 136
+Atti del Governo, registro n. 192, foglio n. 151. - VILLA

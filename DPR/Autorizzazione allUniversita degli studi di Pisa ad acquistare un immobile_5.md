@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 settembre 1970 n. 798
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1973 n. 127
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 settembre 1970 n. 798
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1973 n. 127
+===============================================================
 
 Autorizzazione all'Universita' degli studi di Pisa ad acquistare un immobile.
 -----------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-798. Decreto del Presidente della Repubblica 23 settembre 1970, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Pisa viene autorizzata ad acquistare, al prezzo complessivo di L. 144.000.000, dalla Societa' per azioni Lavorazione Pinoli di Milano, un immobile sito in Pisa, via Martiri n. 7.  
+127. Decreto del Presidente della Repubblica 2 febbraio 1973, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Pisa viene autorizzata ad acquistare un immobile sito in Pisa, via Bonanno Pisano, 55, descritto nel nuovo catasto edilizio urbano di Pisa alla partita 3548, particelle 16-118/1, 118/2 - 119 e 135 del foglio n. 27 al prezzo di L. 120.000.000.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 9 novembre 1970  
-Atti del Governo, registro n. 238, foglio n. 44. - CARUSO
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 11 aprile 1973  
+Atti di Governo, registro n. 257, foglio n. 84. - VALENTINI

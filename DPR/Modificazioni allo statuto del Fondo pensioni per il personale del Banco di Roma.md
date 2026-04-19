@@ -1,19 +1,19 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1972 n. 982
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1966 n. 1392
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1972 n. 982
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1966 n. 1392
+=================================================================
 
-Modificazioni allo statuto del "Fondo pensioni per il personale del Banco di Roma".
------------------------------------------------------------------------------------
+Modificazioni allo statuto del Fondo pensioni per il personale del Banco di Roma.
+---------------------------------------------------------------------------------
 
 Art. 1
 ------
 
 N.
 
-982. Decreto del Presidente della Repubblica 27 giugno 1972, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, vengono modificati gli articoli 61 e 62 dello statuto del "Fondo pensioni per il personale del Banco di Roma"  
+1392. Decreto del Presidente della Repubblica 29 settembre 1966, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, vengono approvate le modifiche apportate allo statuto del Fondo pensioni per il personale del Banco di Roma con delibera del 22 ottobre 1964 del Consiglio di amministrazione del Fondo stesso.  
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 7 febbraio 1973  
-Atti di Governo, registro n. 255, foglio n. 87. - VALENTINI
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 2 agosto 1967  
+Atti del Governo, registro n. 212, foglio n. 95. - GRECO

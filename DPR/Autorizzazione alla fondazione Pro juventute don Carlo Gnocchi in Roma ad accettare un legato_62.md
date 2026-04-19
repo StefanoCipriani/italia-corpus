@@ -1,20 +1,19 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1975 n. 580
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 novembre 1983 n. 803
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1975 n. 580
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 novembre 1983 n. 803
+===============================================================
 
-Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
---------------------------------------------------------------------------------------------------
+Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma ad accettare un legato.
+-------------------------------------------------------------------------------------------------
 
 Art. 1
 ------
 
 N.
 
-580. Decreto del Presidente della Repubblica 29 settembre 1975, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare un legato consistente in obbligazioni "E.N.E.L." per il valore nominale di L. 1.000.000, disposto dalla sig.ra Maria Cecchini in favore dell'Istituto don Gnocchi, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come ha fatto presente la fondazione medesima, con testamento olografo 2 marzo 1970, pubblicato in data 27 novembre 1973, n. 3311 di repertorio, n. 2400 di raccolta a rogito avv.  
-Domenico De Nigris notaio in Albano Laziale (Roma), e registrato ad Albano il 4 dicembre 1973, al n. 3286, mod. 3.  
+803. Decreto del Presidente della Repubblica 25 novembre 1983, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in un appartamento sito in Firenze, via Pacinotti n. 12, censito al nuovo catasto edilizio urbano alla partita 8393, foglio 81, mappale 110 sub 3, del valore dichiarato di L. 9.500.000 elevato a L. 14.000.000 dall'ufficio tecnico erariale di Firenze, disposto dalla sig.ra Eleonora Curetti vedova Taddei a favore dell'istituto mutilatini di don Gnocchi che si identifica con la fondazione "Pro Juventute don Carlo Gnocchi", come si evince dal verbale del consiglio di amministrazione della fondazione stessa in data 5 giugno 1976, con testamento pubblico 7 gennaio 1975, pubblicato in data 26 novembre 1975, n. 36896 di repertorio, a rogito dott. Ugolini Golini, notaio in Firenze, registrato a Firenze in data 1 dicembre 1975 al n. 7379.   
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 26 novembre 1975  
-Atti di Governo, registro n. 14, foglio n. 43
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 11 gennaio 1984   
+Registro n. 1 Presidenza, foglio n. 84

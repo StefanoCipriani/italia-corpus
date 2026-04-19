@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1982 n. 1193
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 541
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1982 n. 1193
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 541
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto dell'Universita' di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -35,126 +35,37 @@ Decreta:
 
 Lo statuto dell'Universita' di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 1
-------
-
-  
-Art. 74 - gli insegnamenti del biennio propedeutico e del triennio di applicazione del corso di laurea in ingegneria meccanica, sono soppressi e sostituiti dai seguenti:  
-  
-BIENNIO PROPEDEUTICO  
-  
-1° Anno:  
-1) analisi matematica I;  
-2) chimica;  
-3) disegno I;  
-4) fisica I;  
-5) geometria.  
-2° Anno:  
-6) analisi matematica II;  
-7) fisica II;  
-8) meccanica razionale;  
-9) disegno II;  
-  
-TRIENNIO  
-  
-10) chimica applicata;  
-11) disegno di macchine;  
-12) elettrotecnica;  
-13) fisica tecnica;  
-14) meccanica applicata alle macchine;  
-15) scienza delle costruzioni;  
-16) tecnologie meccaniche;  
-17) calcolo numerico;  
-18) costruzioni di macchine;  
-19) idraulica (meccanica dei fluidi);  
-20) macchine;  
-21) controlli automatici;  
-22) tecnica delle costruzioni;  
-23) impianti meccanici;  
-24) misure meccaniche, termiche e collaudi;  
-25) economia ed organizzazione aziendale;  
-26) progetti di macchine;  
-27-30) un gruppo di materie a scelta fra quelle elencate nell'art. 78.  
-
-Art. 2
-------
-
-  
-Art. 75 - Gli insegnamenti del biennio propedeutico e del triennio di applicazione del corso di laurea in ingegneria elettrotecnica sono soppressi e sostituiti dai seguenti:  
-  
-BIENNIO PROPEDEUTICO  
-  
-1° Anno:  
-1) analisi matematica I;  
-2) chimica;  
-3) disegno I;  
-4) fisica I;  
-5) geometria;  
-2° Anno:  
-6) analisi matematica II;  
-7) meccanica razionale;  
-8) fisica II;  
-9) metodi di osservazione e misure;  
-10) calcolo numerico;  
-  
-TRIENNIO  
-  
-11) scienza delle costruzioni;  
-12) meccanica applicata alle macchine;  
-13) fisica tecnica;  
-14) elettrotecnica;  
-15) idraulica;  
-16) misure elettriche;  
-17) macchine;  
-18) macchine elettriche;  
-19) impianti elettrici;  
-20) elettronica applicata;  
-21) economia ed organizzazione aziendale;  
-22) analisi dei sistemi;  
-23) complementi di elettrotecnica;  
-24) controlli automatici;  
-25) telecomunicazioni;  
-26-30) un gruppo di materie a scelta fra quelle elencate nell'art. 78.  
-
-Art. 3
-------
+Articolo unico
+--------------
 
   
   
-Art. 78 - nell'elenco degli insegnamenti complementari sono inclusi i seguenti:   
-valorizzazione mineralurgica dei rifiuti urbani ed industriali; trattamento e valorizzazione dei combustibili fossili;   
-coltivazione e gestione delle cave;   
-sicurezza e salubrita' delle miniere e delle cave;   
-disegno e rilievo;   
-percezione e tecniche di rappresentazione;   
-tecniche della comunicazione;   
-teoria della plasticita';   
-instabilita' delle strutture;   
-pianificazione e programmazione dei trasporti;   
-trasporti speciali;   
-elementi tecnici dell'urbanistica;   
-affidabilita' strutturale degli elementi meccanici;   
-oliodinamica e pneumatica;   
-servizi di stabilimento;   
-sperimentazione sulle macchine a fluido;   
-teoria e tecnica della combustione;   
-complementi di matematica.   
-Nello stesso elenco, inoltre, cambiano denominazione i seguenti insegnamenti complementari:   
-da "complementi di mineralogia e petrografia" in complementi di giacimentologia e petrografia";   
-da "macchine II" in "complementi di macchine "; da "programmazione degli impianti meccanici e manutenzione programmati" in "gestione degli impianti meccanici";   
-da "termofluidodinamica delle macchine" in "fluidodinamica delle macchine".   
-Nello stesso elenco, infine, viene soppresso l'insegnamento complementare di "generatori di vapori e tecnica della combustione" e sostituito dal seguente: "generatori di vapore".   
+Art. 35 - all'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunte le seguenti discipline:   
+storia della lingua greca;   
+sociologia della letteratura;   
+letteratura ispano-americana;   
+storia dei movimenti e dei partiti politici;   
+etruscologia e antichita' italiche;   
+topografia dell'Italia antica;   
+archeologia delle province romane;   
+storia della critica d'arte;   
+storia delle tecniche artistiche.   
+Art. 36 - all'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunte le seguenti discipline:   
+storia della filosofia politica;   
+storia della cultura materiale;   
+etnologia;   
+sociologia politica.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1982
+### Dato a Roma, addi' 26 aprile 1984
 
-PERTINI BODRATO
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 6 giugno 1983
+Registrato alla Corte dei conti, addi' 24 agosto 1984
 
-Registro n. 41 Istruzione, foglio n. 131
+Registro n. 51 Istruzione, foglio n. 72

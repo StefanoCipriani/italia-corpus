@@ -1,72 +1,143 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1969 n. 413
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 agosto 1963 n. 1377
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1969 n. 413
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 agosto 1963 n. 1377
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, numero 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la proposta di modifica dello statuto formulata dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla
------
-
-proposta del Ministro per la pubblica istruzione; Decreta:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Presso l'Universita' degli studi di Perugia e' istituita la facolta' di economia e commercio.  
-L'attuale corso di laurea in economia e commercio, annesso alla facolta' di scienze politiche della stessa universita', passa a far parte della nuova facolta' di economia e commercio.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1935, numero 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-04-20;1107), e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1392](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1392);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Per tale facolta' sono assegnati i seguenti posti di ruolo:  
-a) otto posti di professore, mediante trasferimento dall'organico di cui e' dotata la facolta' di scienze politiche della stessa universita' di Perugia e propriamente i posti assegnati alle cattedre di diritto commerciale; statistica; ragioneria generale ed applicata; merceologia; tecnica delle ricerche di mercato e della distribuzione generale; istituzioni di diritto pubblico; storia delle dottrine economiche; politica economica e finanziaria;  
-b) diciassette posti di assistente mediante trasferimento dall'organico di cui e' dotata la facolta' di scienze politiche della stessa Universita' di Perugia e propriamente i posti assegnati alle cattedre di matematica finanziaria (1); economia politica (2); merceologia (3); istituzioni di diritto privato (1); economia e politica agraria (1); istituzioni di diritto pubblico (1); tecniche delle ricerche di mercato e della distribuzione generale (1); ragioneria generale ed applicata (2); politica economica e finanziaria (1); diritto commerciale (1), tecnica bancaria professionale (1); statistica (1); tecnica industriale e commerciale (1).  
-
-Art. 3
-------
-
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Perugia, pertanto, approvato e modificato con i decreti suindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 21. - Agli insegnamenti complementari del corso di laurea in Economia e commercio sono aggiunti quelli di:  
+14) Organizzazione aziendale;  
+15) Storia delle dottrine economiche;  
+16) Storia dell'agricoltura;  
   
-L'art. 15 e' abrogato e sostituito dal seguente: "La facolta' di scienze politiche conferisce, dopo un corso di studi della durata di quattro anni, la laurea in scienze politiche.  
-E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica".  
-Dopo l'art. 20 e con il conseguente spostamento della successiva numerazione e' aggiunto il seguente articolo, sotto il cap. IV.  
-Art. 21. - La facolta' di economia e commercio conferisce, dopo un corso di studi della durata di quattro anni, la laurea in economia e commercio.  
-E' titolo di ammissione il diploma di maturita' classica o scientifica; o il diploma di abilitazione per i provenienti dagli istituti tecnici commerciali, per geometri, industriali, agrari, nautici, per periti aziendali e corrispondenti in lingue estere, per il turismo, tecnici femminili.  
-Gli articoli 25 e 26 sono soppressi con il conseguente spostamento della successiva numerazione.  
+Art. 43. - Agli insegnamenti complementari del corso di laurea in Scienze agrarie sono aggiunti quelli di:  
+13) Tecnica commerciale dei prodotti agricoli;  
+14) Viticoltura (semestrale);  
+15) Tecnica della meccanizzazione agricola;  
+16) Microbiologia del terreno;  
+17) Fisiopatologia vegetale;  
+18) Metodologia statistica in agricoltura (semestrale).  
+  
+Art. 60. - Agli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti quelli di:  
+20) Ecologia;  
+21) Fitogeografia;  
+22) Geochimica;  
+23) Geografia fisica;  
+24) Geologia applicata;  
+25) Merceologia;  
+26) Oceanografia e talassobiologia;  
+27) Pedologia;  
+28) Petrografia;  
+29) Zoogeografia;  
+30) Esperienze didattiche.  
+L'insegnamento complementare di "Entomologia agraria" e' soppresso e sostituito con quello di "Entomologia".  
+L'ultimo comma e' soppresso.  
+  
+Art. 61. - E' abrogato e sostituito dal seguente:  
+Dopo il primo biennio lo studente dovra' frequentare per due anni, come interno, di norma, uno degli istituti della Facolta' nel quale attendera' alla elaborazione della tesi di laurea. Durante tale biennio, lo studente e' tenuto a partecipare all'attivita' dell'Istituto.  
+Non potra' essere ammesso all'internato di laurea lo studente che non abbia ancora superato gli esami di Istituzioni di matematiche", di "Chimica generale ed inorganica", di "Fisica".  
+  
+Art. 62. - E' abrogato e sostituito dal seguente:  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami degli insegnamenti fondamentali ed in almeno quattro complementari da lui scelti fra quelli impartiti.  
+  
+Art. 63. - E' abrogato e sostituito dal seguente:  
+Per l'iscrizione di coloro che gia' siano forniti di una laurea il Consiglio di Facolta', decidera' caso per caso sull'anno di iscrizione.  
+Il Consiglio di Facolta' decidera' altresi' sugli esami e sulle frequenze che possono essere convalidati.  
+  
+Art. 64. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti quelli di:  
+Zoogeografia;  
+Biofisica;  
+Citologia sperimentale;  
+Ecologia;  
+Embriologia sperimentale;  
+Virologia;  
+Farmacologia Fitogeografia;  
+Geologia;  
+Micologia;  
+Paleontologia;  
+Paleontologia umana:  
+Psicologia sperimentale  
+L'insegnamento complementare di "Entomologia agraria" e' soppresso e sostituito con quello di "Entomologia".  
+L'ultimo comma e' soppresso.  
+  
+Art. 65. - E' abrogato e sostituito dal seguente:  
+Dopo il primo biennio lo studente dovra' frequentare per due anni, come internato, di norma, uno degli Istituti della Facolta' nel quale attendera' alla elaborazione della tesi di laurea.  
+Durante tale biennio lo studente e' tenuto a partecipare all'attivita' dell'Istituto.  
+Non potra' essere ammesso all'internato di laurea lo studente che non abbia ancora superato gli esami di "Istituzioni di matematiche", di "Chimica generale ed inorganica a, di "Fisica", di "Botanica I", e di "Zoologia generale".  
+  
+Art. 66. - E' abrogato e sostituito dal seguente:  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami degli insegnamenti fondamentali e in almeno quattro complementari da lui scelti fra quelli impartiti.  
+  
+Art. 67. - E' abrogato e sostituito dal seguente:  
+Per l'iscrizione di coloro che gia' siano forniti di una laurea il Consiglio di Facolta' decidera' caso per caso sull'anno di iscrizione.  
+Il Consiglio di Facolta' decidera' sugli esami e sulle frequenze che possono essere convalidati.  
+  
+L'art. 94, relativo al nuovo ordinamento della Scuola di perfezionamento in ostetricia e ginecologia e' abrogato e sostituito dal seguente:  
+  
+Scuola di perfezionamento in Ostetricia e ginecologia  
+  
+Art. 94. - La Scuola ha la durata di quattro anni.  
+Le materie d'insegnamento sono:  
+  
+1° anno:  
+Embriologia ed anatomia dell'apparato genitale femminile:  
+Fisiologia dell'apparato genitale femminile;  
+Endocrinologia femminile;  
+Fisiopatologia della gravidanza;  
+Anatomia e istologia patologica dell'apparato genitale femminile.  
+  
+2° anno  
+Genetica;  
+Puericoltura prenatale;  
+Puericoltura post-natale;  
+Fisiopatologia ginecologica;  
+Ginecologia psicosomatica.  
+  
+3° anno:  
+Clinica ostetrica e ginecologica;  
+Urologia ginecologica;  
+Venereologia;  
+Analgesia e anestesia in ostetricia e ginecologia;  
+Semeiotica ostetrica e ginecologica.  
+  
+4° anno  
+Clinica ostetrica e ginecologica;  
+Medicina legale (ginecologia forense)  
+Radiologia e radioterapia in ostetricia e ginecologia;  
+Operazioni ostetriche e ginecologiche;  
+Igiene e legislazione sanitaria in rapporto alla gravidanza.  
+Per l'ammissione agli anni successivi di corso gli iscritti dovranno avere superato l'esame del gruppo di materie dell'anno precedente.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 maggio 1969
+### Dato a Roma, addi' 28 agosto 1963
 
-SARAGAT FERRARI AGGRADI
+SEGNI GUI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 16 luglio 1969
+Registrato alla Corte dei conti, addi' 16 ottobre 1963
 
-Atti del Governo, registro n. 228, foglio n. 28. - CARUSO
+Atti del Governo, registro n. 175, foglio n. 26. - VILLA

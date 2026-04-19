@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 aprile 1983 n. 1163
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 gennaio 1984 n. 288
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 aprile 1983 n. 1163
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 gennaio 1984 n. 288
 ==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Bologna.
@@ -22,11 +22,11 @@ Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?u
 
 Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Veduto il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio universitario nazionale;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
@@ -39,19 +39,21 @@ Articolo unico
 --------------
 
   
-Nell'art. 128, relativo all'elenco degli insegnamenti complementari del corso di laurea in chimica industriale, e' aggiunto il seguente nuovo insegnamento:  
-chimica delle sostanze organiche naturali.  
+  
+Nell'art. 105, relativo al corso di laurea in matematica, sono aggiunti i seguenti nuovi insegnamenti complementari:   
+calcolo numerico e programmazione;   
+teoria dei grafi.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dal decreto della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 aprile 1983
+### Dato a Roma, addi' 20 gennaio 1984
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 4 aprile 1984
+Registrato alla Corte dei conti, addi' 26 giugno 1984
 
-Registro n. 21 Istruzione, foglio n. 191
+Registro n. 39 Istruzione, loglio n. 43

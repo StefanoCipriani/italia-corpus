@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 maggio 1968 n. 756
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 luglio 1969 n. 603
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 maggio 1968 n. 756
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 luglio 1969 n. 603
 =============================================================
 
 Autorizzazione all'Automobile club di Udine ad acquistare un immobile.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-756. Decreto del Presidente della Repubblica 8 maggio 1968, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile club di Udine viene autorizzato ad acquistare, in proprieta', dalla Azienda generale friulana autolinee - S.G.E.A., per il prezzo di L. 115.000.000, l'intero fabbricato di circa 3850 mq. sito in Udine alla via Crispi n. 7, nel nuovo catasto edilizio urbano riportato al foglio n. 40, mappali 7, 9 e 183, per adibirlo a sede dei propri uffici ed a quelli dei servizi sociali.  
+603. Decreto del Presidente della Repubblica 3 luglio 1969, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile club di Udine viene autorizzato ad acquistare in proprieta', dalla societa' in nome collettivo "Ferri Cormons" (gia' "Ferri Alcide s.p.a. (F.A.S.A.)" con sede in Udine, per adibirlo ad autorimessa e per il prezzo di lire 215.000.000, il locale, esteso mq. 3025, sito in Udine alla via Paolo Sarpi n. 14, contraddistinto nel N.C.E.U. al F. 35, mappali 290, 82/1, 82/2 e 82/3.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 25 giugno 1968  
-Atti del Governo, registro n. 220, foglio n. 86. - GRECO
+Visto, il Guardasigilli: GAVA  
+Registrato alla Corte dei conti, addi' 8 settembre 1969  
+Atti del Governo, registro n. 229, foglio n. 15. - CARUSO

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 144
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 giugno 1975 n. 358
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 144
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 giugno 1975 n. 358
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in 
 Roma, ad accettare un legato.
@@ -13,8 +13,8 @@ Art. 1
 
 N.
 
-144. Decreto del Presidente della Repubblica 26 febbraio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Pettenghi Elsa Maria ved. Bogni, a favore dell'Istituto don Gnocchi, con testamento pubblico a rogito dott. Tosco Salvadori, notaio in Genova, in data 5 maggio 1976, attivato dallo stesso notaio in data 4 maggio 1979, n. 6941 di repertorio e n. 3527 di raccolta, registrato a Genova il 9 maggio 1979 al n. 8521, consistente in un appartamento sito in Genova-Nervi, via Somma Donato n. 9/A, distinto nel nuovo catasto edilizio urbano alla partita 5762, foglio 8, mappale 396 sub 15, del valore attribuito di L. 25.000.000 elevato dall'ufficio tecnico erariale di Genova a L. 38.000.000.  
+358. Decreto del Presidente della Repubblica 24 giugno 1975, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato consistente nella somma di lire 6.000.000 disposto dalla sig.ra Conti Welda ved. Della Valle a favore dell'istituto don Gnocchi, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come ha fatto presente la fondazione medesima, con testamento olografo 18 maggio 1970, pubblicato a rogito del dott. Roberto Zironi notaio in Lugo (Ravenna) il 20 novembre 1971, n. 47582 di repertorio, n. 6251 di raccolta, ed ivi registrato il 25 novembre 1971 con il n. 1517 I vol. n. 147.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 31 marzo 1982  
-Registro n. 3 Presidenza, foglio n. 118
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 30 luglio 1975  
+Atti di Governo, registro n. 11, foglio n. 40

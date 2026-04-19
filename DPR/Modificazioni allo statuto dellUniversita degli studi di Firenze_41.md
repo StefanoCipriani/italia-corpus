@@ -1,380 +1,407 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1969 n. 1325
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1143
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1969 n. 1325
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1143
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230) e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuito formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 60. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti:
-
-Storia del cristianesimo;
-
-Archeologia romana e medioevale;
-
-Storia del cinema;
-
-Storia della critica d'arte;
-
-Storia dell'arte contemporanea;
-
-Storia della critica letteraria;
-
-Linguistica;
-
-Estetica;
-
-Dialettologia italiana.
-
-Art. 61. - All'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti:
-
-Storia della psicologia;
-
-Storia del cristianesimo;
-
-Educazione degli adulti;
-
-Statistica pedagogica;
-
-Storia del cinema;
-
-Storia della critica d'arte;
-
-Storia dell'arte contemporanea;
-
-Linguistica;
-
-Estetica.
-
-Art. 62. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti i seguenti:
-
-Storia del cristianesimo;
-
-Storia del cinema;
-
-Storia della critica d'arte;
-
-Storia dell'arte contemporanea;
-
-Storia della critica letteraria;
-
-Linguistica;
-
-Estetica;
-
-Dialettologia italiana.
-
-Art. 68, relativo agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' modificato nel senso che l'insegnamento di gerontologia muta denominazione in quella di gerontologia e geriatria.
-
-Art. 83. - All'elenco degli insegnamenti complementari del corso di laurea in scienze naturali e' aggiunto il seguente:
-
-Genetica umana.
-
-Art. 85. - All'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche e' aggiunto il seguente:
-
-Genetica umana.
-
-Art. 89. - Relativo al biennio propedeutico agli studi di ingegneria e' modificato nel senso che all'elenco degli insegnamenti per il 2° anno sono aggiunti i seguenti:
-
-5) Tecnologie generali dei materiali;
-
-6) Disegno II (differenziato secondo i corsi di laurea in ingegneria civile e in ingegneria meccanica).
-
-Dopo l'art. 132 e con il conseguente spostamento della successiva numerazione e' aggiunto il seguente nuovo articolo riguardante gli istituti della facolta' di architettura:
-
-Art. 133. - Le cattedre degli insegnamenti tecnologico, scientifico e tecnico delle costruzioni, costituiscono l'istituto di costruzioni.
-
-Il materiale librario, bibliografico, l'attrezzatura tecnico-scientifica e quella didattica, i fondi e quant'altro messo a disposizione delle singole cattedre, costituisce la dotazione dell'istituto ed e' indivisibile. All'istituto e' altresi' annesso il laboratorio ufficiale di prova dei materiali. Il direttore dell'istituto viene nominato dal consiglio di facolta', uditi i professori ufficiali degli insegnamenti relativi alle cattedre sopra dette.
-
-La direzione dell'istituto e' esercitata collegialmente da una giunta costituita dal direttore, dai professori ufficiali di cui al paragrafo precedente, da un rappresentante degli assistenti a tali cattedre, nonche' da un rappresentante degli studenti regolarmente iscritto al triennio di applicazione.
-
-Il direttore assume la responsabilita' amministrativa dell'istituto e ne firma gli atti.
-
-Dopo l'art. 168 e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola diretta a fini speciali di "Servizio sociale".
-
-Scuola di servizio sociale
-
-Art. 169. - Su concorde iniziativa delle facolta' di giurisprudenza e di scienze politiche, viene istituita, presso la Universita' degli studi di Firenze, la scuola di servizio sociale, scuola diretta a fini speciali, ai sensi dell'[art. 20, secondo comma del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20-com2). La scuola si propone di preparare i giovani all'esercizio professionale del servizio sociale. La scuola impartisce insegnamenti teorici di base ed insegnamenti relativi a discipline professionali integrati da esercitazioni e seminari.
-
-La scuola, dopo un corso di studi triennale, conferisce il diploma di assistente sociale, previa discussione, dinanzi ad una commissione nominata dal direttore, di una tesi scritta. Per l'ammissione alla scuola e' richiesto un titolo di scuola media superiore valido per la immatricolazione ai vari corsi universitari.
-
-Nella eventualita' che le domande di ammissione siano superiori alle possibilita' ricettive, tenendo conto delle strutture esistenti, il consiglio direttivo, di cui al successivo art. 172, puo' subordinare la iscrizione ad un esame concorso, stabilendo in tal caso il numero massimo delle iscrizioni.
-
-Art. 170. - I docenti della scuola sono scelti, per gli insegnamenti teorici di base, fra professori universitari di ruolo, incaricati, liberi docenti dell'Universita' di Firenze, assistiti per le esercitazioni ed i seminari da cultori della materia. Per le discipline professionali ed i tirocini pratici, fra assistenti sociali di riconosciuta competenza tecnica ed esperienza.
-
-Art. 171. - I proventi della scuola sono costituiti dalle tasse scolastiche, da eventuali contributi dello Stato, di enti pubblici e privati, da lasciti, donazioni e dai relativi redditi. Tali proventi sono destinati a coprire le spese generali della scuola, quelle per stipendi ed assegni al personale insegnante, assistente ed amministrativo e per quant'altro occorrer possa per il funzionamento della scuola.
-
-La gestione della scuola di servizio sociale, da costituirsi in azienda speciale, e' retta dal consiglio di amministrazione dell'universita' ed e' sottoposta a tutte le norme disciplinanti l'amministrazione e la contabilita' delle universita' e degli istituti di istruzione superiore.
-
-Art. 172. - Ai fini didattici la scuola di servizio sociale e' retta da un consiglio direttivo del quale fanno parte il direttore, che lo presiede, ed i docenti della scuola, sia delle materie di base, che di quelle professionali.
-
-Il direttore della scuola viene nominato con decreto rettorale, su proposta del consiglio direttivo, dura in carica un triennio ed e' riconfermabile. Per la prima nomina, provvede direttamente il rettore, sentiti i presidi delle facolta' di giurisprudenza e scienze politiche.
-
-Tutti i docenti della scuola sono nominati per incarico annuale con decreto del rettore dell'universita', su proposta del direttore della scuola, sentito il consiglio direttivo.
-
-Art. 173. - Le tasse di immatricolazione e di esame sono quelle stabilite per la facolta' di giurisprudenza.
-
-La tassa annuale di iscrizione e frequenza e' fissata dal consiglio di amministrazione in misura di L. 45.000. La tassa di diploma e' fissata in L. 6000, a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).
-
-Art. 174. - Il consiglio direttivo determina l'ordine degli studi, il regolamento didattico ed il programma dei tirocini; l'orario delle lezioni e delle esercitazioni.
-
-Decide, inoltre, su ogni altra questione inerente la carriera scolastica degli allievi, e la loro disciplina.
-
-Art. 175. - Le materie ed i corsi di insegnamento, che dovranno avere carattere teorico-pratico, sono i seguenti:
-
-1° Anno:
-
-Materie di base:
-
-Psicologia generale;
-
-Psicologia dell'eta' evolutiva;
-
-Sociologia I;
-
-Elementi di diritto pubblico e di legislazione assistenziale;
-
-Elementi di diritto privato;
-
-Statistica;
-
-Biologia e fisiologia umana;
-
-Problemi attuali della pedagogia sociale e della educazione degli adulti.
-
-Materia professionale:
-
-Introduzione al servizio sociale.
-
-2° Anno:
-
-Materie di base:
-
-Psicologia sociale;
-
-Sociologia II;
-
-Elementi di diritto penale e legislazione minorile;
-
-Igiene e medicina sociale;
-
-Igiene mentale (psichiatria e neuropsichiatria infantile);
-
-Elementi di diritto del lavoro e della previdenza sociale.
-
-Materie professionali:
-
-Servizio sociale individuale I;
-
-Servizio sociale di gruppo I;
-
-Servizio sociale di comunita' I;
-
-Ricerca sociale I;
-
-Organizzazione ed amministrazione dei servizi sociali.
-
-3° Anno:
-
-Materie di base:
-
-Psicologia clinica;
-
-Lingua straniera (a scelta: francese, inglese, tedesco).
-
-Materie professionali:
-
-Servizio sociale individuale II;
-
-Servizio sociale di gruppo II;
-
-Servizio sociale di comunita' II;
-
-Ricerca sociale II;
-
-Seminari su materie professionali.
-
-Art. 176. - Per tutto quanto non e' qui contemplato si richiamano le norme relative alle analoghe istituzioni universitarie.
-
-La scuola puo' munirsi di un regolamento interno, proposto dal consiglio direttivo ed approvato dal consiglio di amministrazione dell'universita'.
-
-NORME TRANSITORIE
-
-Art. 177. - Coloro che, alla data di approvazione delle presenti modifiche di statuto, hanno gia' conseguito il diploma della scuola di servizio sociale, purche' siano in possesso dei requisiti di cui al precedente art. 169, potranno ottenere il riconoscimento, a tutti gli effetti, del diploma, a condizione che presentino e discutano, nella forma e nei modi prescritti dall'articolo suddetto, una tesi scritta.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 10 marzo 1969
-
-SARAGAT
-
-SULLO
-
-Visto, il Guardasigilli: GAVA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 11 giugno 1970 Atti del Governo, registro n. 236, foglio n. 22. - CARUSO
+Decreto pubblicato in G.U. senza l'indicazione dell'anno di approvazione.
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230) e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuito formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230) e modificato con [regio decreto 30 ottobre 1930, n. 1826](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1826), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istituzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-  
-Art. 60. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti:   
-Storia del cristianesimo;   
-Archeologia romana e medioevale;   
-Storia del cinema;   
-Storia della critica d'arte;   
-Storia dell'arte contemporanea;   
-Storia della critica letteraria;   
-Linguistica;   
-Estetica;   
-Dialettologia italiana.   
-Art. 61. - All'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti:   
-Storia della psicologia;   
-Storia del cristianesimo;   
-Educazione degli adulti;   
-Statistica pedagogica;   
-Storia del cinema;   
-Storia della critica d'arte;   
-Storia dell'arte contemporanea;   
-Linguistica;   
-Estetica.   
-Art. 62. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti i seguenti:   
-Storia del cristianesimo;   
-Storia del cinema;   
-Storia della critica d'arte;   
-Storia dell'arte contemporanea;   
-Storia della critica letteraria;   
-Linguistica;   
-Estetica;   
-Dialettologia italiana.   
-Art. 68, relativo agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' modificato nel senso che l'insegnamento di gerontologia muta denominazione in quella di gerontologia e geriatria.   
-Art. 83. - All'elenco degli insegnamenti complementari del corso di laurea in scienze naturali e' aggiunto il seguente:   
-Genetica umana.   
-Art. 85. - All'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche e' aggiunto il seguente:   
-Genetica umana.   
-Art. 89. - Relativo al biennio propedeutico agli studi di ingegneria e' modificato nel senso che all'elenco degli insegnamenti per il 2° anno sono aggiunti i seguenti:   
-5) Tecnologie generali dei materiali;   
-6) Disegno II (differenziato secondo i corsi di laurea in ingegneria civile e in ingegneria meccanica).   
-Dopo l'art. 132 e con il conseguente spostamento della successiva numerazione e' aggiunto il seguente nuovo articolo riguardante gli istituti della facolta' di architettura:   
-Art. 133. - Le cattedre degli insegnamenti tecnologico, scientifico e tecnico delle costruzioni, costituiscono l'istituto di costruzioni.  
-Il materiale librario, bibliografico, l'attrezzatura tecnico-scientifica e quella didattica, i fondi e quant'altro messo a disposizione delle singole cattedre, costituisce la dotazione dell'istituto ed e' indivisibile. All'istituto e' altresi' annesso il laboratorio ufficiale di prova dei materiali. Il direttore dell'istituto viene nominato dal consiglio di facolta', uditi i professori ufficiali degli insegnamenti relativi alle cattedre sopra dette.   
-La direzione dell'istituto e' esercitata collegialmente da una giunta costituita dal direttore, dai professori ufficiali di cui al paragrafo precedente, da un rappresentante degli assistenti a tali cattedre, nonche' da un rappresentante degli studenti regolarmente iscritto al triennio di applicazione.   
-Il direttore assume la responsabilita' amministrativa dell'istituto e ne firma gli atti.   
-Dopo l'art. 168 e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola diretta a fini speciali di "Servizio sociale".   
-  
-Scuola di servizio sociale   
-  
-Art. 169. - Su concorde iniziativa delle facolta' di giurisprudenza e di scienze politiche, viene istituita, presso la Universita' degli studi di Firenze, la scuola di servizio sociale, scuola diretta a fini speciali, ai sensi dell'[art. 20, secondo comma del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20-com2). La scuola si propone di preparare i giovani all'esercizio professionale del servizio sociale. La scuola impartisce insegnamenti teorici di base ed insegnamenti relativi a discipline professionali integrati da esercitazioni e seminari.   
-La scuola, dopo un corso di studi triennale, conferisce il diploma di assistente sociale, previa discussione, dinanzi ad una commissione nominata dal direttore, di una tesi scritta. Per l'ammissione alla scuola e' richiesto un titolo di scuola media superiore valido per la immatricolazione ai vari corsi universitari.   
-Nella eventualita' che le domande di ammissione siano superiori alle possibilita' ricettive, tenendo conto delle strutture esistenti, il consiglio direttivo, di cui al successivo art. 172, puo' subordinare la iscrizione ad un esame concorso, stabilendo in tal caso il numero massimo delle iscrizioni.   
-Art. 170. - I docenti della scuola sono scelti, per gli insegnamenti teorici di base, fra professori universitari di ruolo, incaricati, liberi docenti dell'Universita' di Firenze, assistiti per le esercitazioni ed i seminari da cultori della materia. Per le discipline professionali ed i tirocini pratici, fra assistenti sociali di riconosciuta competenza tecnica ed esperienza.   
-Art. 171. - I proventi della scuola sono costituiti dalle tasse scolastiche, da eventuali contributi dello Stato, di enti pubblici e privati, da lasciti, donazioni e dai relativi redditi. Tali proventi sono destinati a coprire le spese generali della scuola, quelle per stipendi ed assegni al personale insegnante, assistente ed amministrativo e per quant'altro occorrer possa per il funzionamento della scuola.   
-La gestione della scuola di servizio sociale, da costituirsi in azienda speciale, e' retta dal consiglio di amministrazione dell'universita' ed e' sottoposta a tutte le norme disciplinanti l'amministrazione e la contabilita' delle universita' e degli istituti di istruzione superiore.   
-Art. 172. - Ai fini didattici la scuola di servizio sociale e' retta da un consiglio direttivo del quale fanno parte il direttore, che lo presiede, ed i docenti della scuola, sia delle materie di base, che di quelle professionali.   
-Il direttore della scuola viene nominato con decreto rettorale, su proposta del consiglio direttivo, dura in carica un triennio ed e' riconfermabile. Per la prima nomina, provvede direttamente il rettore, sentiti i presidi delle facolta' di giurisprudenza e scienze politiche.   
-Tutti i docenti della scuola sono nominati per incarico annuale con decreto del rettore dell'universita', su proposta del direttore della scuola, sentito il consiglio direttivo.   
-Art. 173. - Le tasse di immatricolazione e di esame sono quelle stabilite per la facolta' di giurisprudenza.   
-La tassa annuale di iscrizione e frequenza e' fissata dal consiglio di amministrazione in misura di L. 45.000. La tassa di diploma e' fissata in L. 6000, a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).   
-Art. 174. - Il consiglio direttivo determina l'ordine degli studi, il regolamento didattico ed il programma dei tirocini; l'orario delle lezioni e delle esercitazioni.   
-Decide, inoltre, su ogni altra questione inerente la carriera scolastica degli allievi, e la loro disciplina.   
-Art. 175. - Le materie ed i corsi di insegnamento, che dovranno avere carattere teorico-pratico, sono i seguenti:   
-1° Anno:   
-Materie di base:   
-Psicologia generale;   
-Psicologia dell'eta' evolutiva;   
-Sociologia I;   
-Elementi di diritto pubblico e di legislazione assistenziale;   
-Elementi di diritto privato;   
-Statistica;   
-Biologia e fisiologia umana;   
-Problemi attuali della pedagogia sociale e della educazione degli adulti.   
-Materia professionale:   
-Introduzione al servizio sociale.   
-2° Anno:   
-Materie di base:   
-Psicologia sociale;   
-Sociologia II;   
-Elementi di diritto penale e legislazione minorile;   
-Igiene e medicina sociale;   
-Igiene mentale (psichiatria e neuropsichiatria infantile);   
-Elementi di diritto del lavoro e della previdenza sociale.   
-Materie professionali:   
-Servizio sociale individuale I;   
-Servizio sociale di gruppo I;   
-Servizio sociale di comunita' I;   
-Ricerca sociale I;   
-Organizzazione ed amministrazione dei servizi sociali.   
-3° Anno:   
-Materie di base:   
-Psicologia clinica;   
-Lingua straniera (a scelta: francese, inglese, tedesco).   
-Materie professionali:   
-Servizio sociale individuale II;   
-Servizio sociale di gruppo II;   
-Servizio sociale di comunita' II;   
-Ricerca sociale II;   
-Seminari su materie professionali.   
-Art. 176. - Per tutto quanto non e' qui contemplato si richiamano le norme relative alle analoghe istituzioni universitarie.   
-La scuola puo' munirsi di un regolamento interno, proposto dal consiglio direttivo ed approvato dal consiglio di amministrazione dell'universita'.   
-  
-NORME TRANSITORIE   
-  
-Art. 177. - Coloro che, alla data di approvazione delle presenti modifiche di statuto, hanno gia' conseguito il diploma della scuola di servizio sociale, purche' siano in possesso dei requisiti di cui al precedente art. 169, potranno ottenere il riconoscimento, a tutti gli effetti, del diploma, a condizione che presentino e discutano, nella forma e nei modi prescritti dall'articolo suddetto, una tesi scritta.   
+Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come dal testo annesso, concernente il riordinamento degli studi della facolta' di ingegneria e, firmato d'ordine nostro, dal Ministro per la pubblica istruzione.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 marzo 1969
+### Dato a Roma, addi' 31 ottobre 1972
 
-SARAGAT SULLO
+LEONE SCALFARO
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 11 giugno 1970
+Registrato alla Corte dei conti, addi' 11 aprile 1973
 
-Atti del Governo, registro n. 236, foglio n. 22. - CARUSO
+Atti di Governo, registro n. 257, foglio n. 79. - VALENTINI
+
+Allegato
+
+ UNIVERSITA' DEGLI STUDI DI FIRENZE   
+  
+Modifica di statuto   
+  
+TITOLO IX   
+  
+FACOLTA' DI INGEGNERIA   
+  
+Art. 101. - La facolta' di ingegneria conferisce le lauree in:   
+Ingegneria chimica;   
+Ingegneria civile (sezioni edile, idraulica e trasporti);   
+Ingegneria elettronica;   
+Ingegneria meccanica.   
+Il corso di laurea in ingegneria e' di cinque anni, i primi due dei quali costituiscono il biennio propedeutico. I titoli di ammissione al biennio propedeutico sono quelli previsti dalle vigenti disposizioni di legge. Sono insegnamenti fondamentali del biennio:   
+1) Analisi matematica I;   
+2) Geometria;   
+3) Fisica I;   
+4) Chimica;   
+5) Disegno;   
+6) Analisi matematica II;   
+7) Meccanica razionale;   
+8) Fisica II.   
+Il corso di geometria II di cui all'[art. 2 del decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53~art2), e' sostituito con:   
+9) Chimica organica per il corso di laurea in ingegneria chimica;   
+9) Calcolo tensoriale e delle matrici con applicazioni   
+geometriche (obbligatorio su piano della facolta) per il corso di laurea in ingegneria civile;   
+9) Fisica tecnica (obbligatorio su piano nazionale) per il corso di laurea in ingegneria elettronica;   
+9) Chimica applicata (obbligatorio su piano nazionale) per il   
+corso di laurea in ingegneria meccanica.   
+Oltre agli insegnamenti predetti vengono impartiti al biennio i   
+seguenti insegnamenti aggiuntivi:   
+10) Tecnologia dei materiali e chimica applicata (obbligatorio su   
+piano nazionale) per il corso di laurea in ingegneria civile;   
+11) Disegno II (obbligatorio su piano della facolta) per il corso   
+di laurea in ingegneria civile;   
+10) Calcolo automatico e programmazione con applicazioni   
+numeriche (obbligatorio su piano della facolta) per il corso di laurea in ingegneria meccanica.   
+Art. 102. - Gli studenti del primo anno di corso potranno ottenere l'iscrizione al secondo anno di corso qualora abbiano superato almeno due dei quattro esami: analisi matematica I, geometria, fisica I, chimica. Per essere ammessi al terzo anno di corso gli studenti dovranno avere superato tutti gli esami di cui ai precedenti, numeri 1), 2), 3), 4), 5), 6), 7), 8) e 9). Tuttavia lo studente che sia in debito di un solo esame di cui ai numeri 6), 7), 8) e 9) potra' ugualmente essere iscritto al terzo anno, con l'obbligo di superare tale esame prima di sostenerne qualsiasi altro del triennio di applicazione.   
+Art. 103. - Gli insegnamenti del triennio di applicazione per il corso di laurea in ingegneria chimica sono i seguenti:   
+  
+A) Insegnamenti obbligatori comuni su piano nazionale:   
+1) Scienza delle costruzioni;   
+2) Meccanica applicata alle macchine;   
+3) Fisica tecnica;   
+4) Elettronica;   
+5) Chimica fisica;   
+6) Chimica applicata;   
+7) Macchine;   
+8) Principi di ingegneria chimica;   
+9) Chimica industriale;   
+10) Impianti chimici.   
+  
+B) Insegnamenti obbligatori comuni su piano della facolta':   
+1) Teoria e sviluppo dei processi chimici;   
+2) Chimica industriale II;   
+3) Complementi di ingegneria chimica;   
+4) Applicazioni di matematiche superiori;   
+5) Tecniche di controllo degli impianti chimici;   
+6) Costruzioni di macchine.   
+  
+C) Un gruppo di quattro materie a scelta dello studente sara'   
+indicato anno per anno, dalla facolta', nel manifesto degli studi.  
+Tali insegnamenti saranno tratti dall'elenco di cui all'articolo 107.   
+Art. 104. - Gli insegnamenti del triennio di applicazione per il corso di laurea in ingegneria civile sono i seguenti:   
+  
+A) Insegnamenti obbligatori comuni su piano nazionale:   
+1) Scienza delle costruzioni;   
+2) Meccanica applicata alle macchine e macchine;   
+3) Fisica tecnica;   
+4) Elettrotecnica;   
+5) Idraulica;   
+6) Tecnica delle costruzioni;   
+7) Architettura tecnica;   
+8) Topografia;   
+Tecnologie dei materiali e chimica applicata (da sostenere   
+qualora non sia stato superato al biennio quale aggiuntivo).   
+Per la sezione edile:   
+9) Architettura e composizione architettonica.   
+Per la sezione idraulica:   
+9) Costruzioni idrauliche.   
+Per la sezione trasporti:   
+9) Costruzioni di strade, ferrovie ed aeroporti.   
+  
+B) Insegnamenti obbligatori comuni su piano della facolta':   
+10) Calcolo numerico e programmazione;   
+11) Materie giuridiche (semestrale);   
+12) Principi di economia ed estimo (semestrale);   
+13) Complementi di scienza delle costruzioni;   
+14) Litologia e geologia;   
+Calcolo tensoriale e delle matrici con applicazioni geometriche (da sostenere al biennio al posto di geometria II);   
+Disegno II (da sostenere qualora non sia stato superato al   
+biennio quale aggiuntivo).   
+Per la sezione edile:   
+15) Tecnica della progettazione edile.   
+Per la sezione idraulica:   
+15) Impianti idraulici.   
+Per la sezione trasporti:   
+15) Tecnica ed economia dei trasporti.   
+  
+C) Un gruppo di quattro materie a scelta dello studente sara'   
+indicato anno per anno, dalla facolta', nel manifesto degli studi.  
+Tali insegnamenti saranno tratti dall'elenco di cui all'articolo 107.   
+Art. 105. - Gli insegnamenti del triennio di applicazione per il corso di laurea in ingegneria elettronica sono i seguenti:   
+  
+A) Insegnamenti obbligatori comuni su piano nazionale:   
+1) Elettrotecnica;   
+2) Scienza delle costruzioni;   
+3) Meccanica delle macchine e macchine;   
+4) Elettronica applicata;   
+5) Campi elettromagnetici e circuiti;   
+6) Comunicazioni elettriche;   
+7) Misure elettriche;   
+8) Controlli automatici;   
+9) Radiotecnica;   
+Fisica tecnica (da sostenere al biennio al posto di geometria   
+II).   
+  
+B) Insegnamenti obbligatori comuni su piano della facolta':   
+10) Calcolo numerico e programmazione;   
+11) Applicazioni di matematica per l'elettronica;   
+12) Elettronica generale;   
+13) Misure elettroniche.   
+  
+C) Un gruppo di sei materie a scelta dello studente, sara' indicato   
+anno per anno, dalla facolta', nel manifesto degli studi. Tali insegnamenti saranno tratti dall'elenco di cui all'art. 107.   
+Art. 106. - Gli insegnamenti del triennio di applicazione per il   
+corso di laurea in ingegneria meccanica sono i seguenti:   
+  
+A) Insegnamenti obbligatori comuni sul piano nazionale:   
+1) Scienza delle costruzioni;   
+2) Meccanica applicata alle macchine;   
+3) Fisica tecnica;   
+4) Elettrotecnica;   
+5) Idraulica;   
+6) Tecnologia meccanica;   
+7) Macchine;   
+8) Costruzioni di macchine;   
+9) Impianti meccanici;   
+Chimica applicata (da sostenere al biennio al posto di geometria II).   
+  
+B) Insegnamenti obbligatori comuni su piano della facolta':   
+10) Complementi di tecnologia meccanica;   
+11) Progetti di macchine;   
+12) Metodi matematici per l'ingegneria;   
+Calcolo automatico e programmazione con applicazioni numeriche (da sostenere qualora non sia stato superato al biennio quale aggiuntivo).   
+  
+C) Un gruppo di cinque materie a scelta dello studente sara'   
+indicato anno per anno, dalla facolta', nel manifesto degli studi.  
+Tali insegnamenti saranno tratti dall'elenco di cui all'articolo 107.   
+Art. 107. - L'elenco delle materie dalle quali la facolta' forma i gruppi dei singoli indirizzi e' il seguente:   
+Analisi e misura delle tensioni;   
+Calcolatori elettronici;   
+Chimica delle sostanze coloranti;   
+Chimica e tecnologia dei prodotti ceramici;   
+Chimica e tecnologia del vetro;   
+Chimica e tecnologia tessile;   
+Chimica fisica della stato solido e delle superfici;   
+Chimica macromolecolare e tecnologia degli alti polimeri;   
+Complementi di chimica fisica;   
+Complementi di macchine;   
+Consolidamento del suolo e delle rocce;   
+Controlli e servomeccanismi;   
+Controlli numerici;   
+Controllo numerico delle macchine utensili;   
+Costruzione di macchine utensili;   
+Costruzioni di materiale ferroviario;   
+Costruzioni idraulico-sanitarie;   
+Costruzioni marittime e fluviali;   
+Costruzioni metalliche;   
+Dinamica delle strutture ed ingegneria sismica;   
+Economia ed organizzazione aziendale;   
+Edilizia sociale;   
+Elaborazione dei dati biologici;   
+Elettrochimica;   
+Elettronica applicata e strumentazione;   
+Elettronica industriale;   
+Fisiologia;   
+Geotecnica e fondazioni;   
+Idrologia e pianificazione delle risorse idriche;   
+Impianti di potenza;   
+Impianti per telecomunicazioni;   
+Impianti tecnici civili;   
+Impianti tessili;   
+Infrastrutture aeroportuali;   
+Ingegneria sanitaria ed igiene edilizia;   
+Legislazione del lavoro e delle opere pubbliche;   
+Legislazione industriale e diritto del lavoro;   
+Linguaggi di programmazione;   
+Macchine per l'industria tessile;   
+Microonde;   
+Mineralogia applicata;   
+Organizzazione dei cantieri e collaudo delle strutture;   
+Organizzazione dei sistemi di calcolo;   
+Organizzazione del territorio;   
+Ponti e grandi strutture;   
+Protezione del suolo e delle coste;   
+Radioaiuti alla navigazione;   
+Reti logiche;   
+Ricerca operativa;   
+Scienze dei materiali metallici;   
+Scienze dei metalli;   
+Sistemi biologici;   
+Statistica applicata alle fibre;   
+Strumentazione bioelettronica;   
+Strumentazione industriale;   
+Strutture prefabbricate ed industrializzazione edilizia;   
+Tecnica della circolazione;   
+Tecnica della regolazione del traffico;   
+Tecnica delle prove su motori per autotrazione;   
+Tecnica delle ricerche di mercato;   
+Tecnica dell'illuminazione ed acustica ambientale;   
+Tecnica ed economia dei trasporti;   
+Tecniche delle onde elettromagnetiche;   
+Tecniche di controllo;   
+Tecniche di organizzazione dei sistemi;   
+Tecniche di trasmissione dei dati;   
+Tecnologia dei materiali sintetizzati;   
+Tecnologia delle fibre tessili;   
+Tecnologie elettrochimiche;   
+Tecnologie elettroniche;   
+Tecnologie speciali metallurgiche;   
+Tecnologie tintorie;   
+Teoria dei sistemi;   
+Teoria delle reti elettriche;   
+Teoria dell'informazione;   
+Teoria ed analisi delle vibrazioni;   
+Teoria e tecnica delle antenne;   
+Teoria e tecnica radar;   
+Trazione elettrica e termica.   
+Art. 108. - Le materie sopra elencate per i vari corsi di laurea   
+saranno corredate da esercitazioni scritte, orali, grafiche e pratiche, secondo le modalita' stabilite dal consiglio di facolta'.   
+Art. 109. - Discipline dello stesso nome comuni a piu' corsi di   
+laurea potranno avere diverso contenuto, in conformita' dei programmi coordinati dal consiglio di facolta'.   
+Art. 110. - Per essere ammesso all'esame di laurea lo studente deve   
+avere seguito i corsi e superato gli esami di tutti gli insegnamenti prescritti per il corso di laurea prescelto. L'esame di laurea consiste in una prova di cultura sulle materie obbligatorie (sul piano nazionale e sul piano della facolta), relative al corso di laurea seguito dal candidato e nella discussione orale di un elaborato. Tale elaborato, redatto sotto la guida di almeno due professori ufficiali e con le modalita' stabilite dal consiglio di facolta', e' costituito da un progetto o dalla relazione di una ricerca tecnica, attinenti alle materie del corso di laurea e dalla sezione cui appartiene il candidato.   
+Art. 111. Gli studenti dovranno dichiarare all'atto della   
+iscrizione al primo anno della facolta' a quale corso di laurea intendono iscriversi. Gli studenti che seguono il corso di laurea in ingegneria civile dovranno dichiarare inoltre all'atto dell'iscrizione al quarto anno di corso, a quale sezione intendono iscriversi.   
+Potra' essere concesso il passaggio da un corso di laurea ad un   
+altro o da una sezione ad un'altra, quando cio' sia ritenuto possibile dal consiglio di facolta' ed alle condizioni che saranno da esso indicate.   
+Art. 112. - Gli esami di profitto consistono in prove orali,   
+grafiche, scritte e pratiche secondo le modalita' stabilite per ciascun esame dal consiglio di facolta'.   
+Valgono per l'ammissione agli esami le seguenti condizioni di   
+precedenza.   
+a) Per gli esami del biennio:   
+Analisi matematica II: analisi matematica I, geometria;   
+Meccanica razionale: analisi matematica I, geometria;   
+Calcolo automatico e programmazione con applicazioni numeriche: analisi matematica I.   
+b) Per il corso di laurea in ingegneria chimica:   
+Chimica organica: chimica;   
+Chimica industriale I: chimica fisica;   
+Chimica industriale II: chimica industriale I;   
+Chimica fisica dello stato solido: chimica fisica;   
+Impianti chimici: principi di ingegneria chimica;   
+Macchine: fisica tecnica;   
+Principi di ingegneria chimica: chimica fisica, fisica tecnica.   
+c) Per il corso di laurea in ingegneria civile:   
+Architettura e composizione architettonica: architettura tecnica;   
+Architettura tecnica: disegno II;   
+Organizzazione di cantiere e collaudo delle strutture:   
+topografia, tecnica delle costruzioni;   
+Complementi di scienza delle costruzioni: scienza delle   
+costruzioni;   
+Consolidamento del suolo e delle rocce: litologia e geologia;   
+Costruzioni di strade, ferrovie ed aeroporti: scienza delle   
+costruzioni, topografia;   
+Costruzioni idrauliche: idraulica, scienza delle costruzioni;   
+Costruzioni idraulico-sanitarie: idraulica;   
+Costruzioni marittime e fluviali: idraulica, scienza delle   
+costruzioni;   
+Costruzioni metalliche: scienza delle costruzioni;   
+Dinamica delle strutture ed ingegneria sismica: tecnica delle   
+costruzioni;   
+Disegno II: disegno;   
+Edilizia sociale: architettura e composizione architettonica,   
+impianti tecnici civili;   
+Geotecnica e fondazioni: litologia e geologia;   
+Idrologia tecnica e pianificazione delle risorse idriche:   
+idraulica, calcolo numerico e programmazione, litologia e geologia;   
+Impianti idraulici: idraulica, scienza delle costruzioni;   
+Impianti tecnici civili: fisica tecnica;   
+Ingegneria sanitaria ed igiene edilizia: fisica tecnica;   
+Ponti e grandi strutture: tecnica delle costruzioni, scienza   
+delle costruzioni, calcolo numerico e programmazione;   
+Protezione del suolo e delle coste: litologia e geologia;   
+Ricerca operativa: calcolo numerico e programmazione;   
+Strutture prefabbricate ed industrializzazione edilizia: tecnica delle costruzioni, architettura tecnica;   
+Tecnica della progettazione edile: architettura e composizione   
+architettonica, fisica tecnica, scienza delle costruzioni;   
+Tecnica delle costruzioni: scienza delle costruzioni;   
+Tecnica dell'illuminazione ed acustica ambientale: fisica   
+tecnica;   
+Tecnica della circolazione: calcolo numerico e programmazione;   
+Tecnica ed economia dei trasporti: meccanica applicata alle   
+macchine e macchine;   
+Trazione elettrica e termica: elettrotecnica.   
+d) Per il corso di laurea in ingegneria elettronica:   
+Calcolatori elettronici: calcoli numerici e programmazione;   
+elettronica applicata;   
+Comunicazioni elettriche: campi elettromagnetici e circuiti,   
+applicazioni di matematica per l'elettronica;   
+Controlli automatici: elettrotecnica, applicazioni di matematica per l'elettronica;   
+Controlli numerici: controlli automatici;   
+Elaborazione dei dati biologici: calcoli numerici e   
+programmazione;   
+Elettronica applicata: elettrotecnica, elettronica generale;   
+Elettronica industriale: elettronica applicata;   
+Impianti per telecomunicazioni: comunicazioni elettriche;   
+Linguaggi di programmazione: calcoli numerici e programmazione;   
+Microonde: campi elettromagnetici e circuiti;   
+Misure elettriche: elettrotecnica;   
+Misure elettroniche: misure elettriche, elettronica applicata;   
+Radioaiuti alla navigazione: campi elettromagnetici e circuiti;   
+Radiotecnica: campi elettromagnetici e circuiti;   
+Reti logiche: elettronica applicata;   
+Strumentazione bioelettronica: elettronica applicata, misure   
+elettriche;   
+Strumentazione industriale: elettronica applicata, misure   
+elettriche;   
+Tecniche delle onde elettromagnetiche: campi elettromagnetici e circuiti;   
+Tecniche di controllo: controlli automatici;   
+Tecnologie elettroniche: elettronica generale;   
+Teoria delle reti elettriche: applicazioni di matematica per   
+l'elettronica, elettrotecnica;   
+Teoria dell'informazione: applicazioni di matematica per   
+l'elettronica;   
+Teoria e tecnica delle antenne: campi elettromagnetici e   
+circuiti;   
+Teoria e tecnica radar: campi elettromagnetici e circuiti.   
+e) Per il corso di laurea in ingegneria meccanica:   
+Analisi e misura delle tensioni: metodi matematici per   
+l'ingegneria, scienza delle costruzioni;   
+Complementi di macchine: macchine;   
+Complementi di tecnologia meccanica: tecnologia meccanica;   
+Controlli e servomeccanismi: metodi matematici per l'ingegneria, meccanica applicata alle macchine;   
+Controllo numerico delle macchine utensili: calcolo automatico e programmazione con applicazioni numeriche, controlli e servomeccanismi;   
+Costruzione di macchine: meccanica applicata alle macchine,   
+scienza delle costruzioni, tecnologia meccanica;   
+Costruzione di macchina utensili: complementi di tecnologia   
+meccanica, costruzione di macchine;   
+Costruzioni di materiale ferroviario: costruzione di macchine;   
+Elettronica applicata e strumentazione: elettrotecnica;   
+Impianti di potenza: controlli e servomeccanismi, macchine;   
+Impianti meccanici: macchine, tecnologia meccanica, complementi di tecnologia meccanica;   
+Impianti tessili: macchine, chimica e tecnologie tessili;   
+Macchine: meccanica applicata alle macchine, fisica tecnica;   
+Macchine per l'industria tessile: complementi di tecnologia   
+meccanica, costruzione di macchine;   
+Progetti di macchine: costruzioni di macchine;   
+Tecnica della regolazione del traffico: controlli e   
+servomeccanismi;   
+Tecniche delle prove su motori per autotrazione: macchine,   
+meccanica applicata alle macchine;   
+Teoria ed analisi delle vibrazioni: metodi matematici per   
+l'ingegneria, meccanica applicata alle macchine;   
+Trazione elettrica e termica: elettrotecnica, meccanica applicata   
+alle macchine, macchine.   
+  
+Visto, d'ordine del Presidente della Repubblica   
+  
+Il Ministro per la pubblica istruzione   
+SCALFARO   

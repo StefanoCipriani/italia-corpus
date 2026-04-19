@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 agosto 1971 n. 937
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 749
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 agosto 1971 n. 937
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 749
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
@@ -10,384 +10,142 @@ Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Palermo e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla
+-----
 
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-L'art. 122 relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola in "Chirurgia generale" muta la denominazione in quella di scuola in "Chirurgia".
-
-L'art. 137 relativo alla "Scuola di specializzazione in chirurgia generale" che assume la denominazione di "Scuola di specializzazione in chirurgia" e' abrogato e sostituito dal seguente:
-
-Scuola di specializzazione in chirurgia
-
-Art. 137. - La scuola di specializzazione in chirurgia conferisce il diploma di specialista in chirurgia. Gli anni necessari per il conseguimento del diploma sono cinque.
-
-Il numero massimo di iscritti e' di nove per ogni anno di corso (totale quarantacinque iscritti).
-
-Le materie del corso sono le seguenti:
-
-1) Anatomia chirurgica e corso di operazioni (triennale);
-
-2) Anatomia ed istologia patologica (biennale);
-
-3) Anestesia e rianimazione;
-
-4) Chirurgia cardiovascolare;
-
-5) Chirurgia d'urgenza;
-
-6) Chirurgia ginecologica;
-
-7) Chirurgia pediatrica;
-
-8) Chirurgia riparativa e plastica;
-
-9) Chirurgia sperimentale;
-
-10) Chirurgia toracica;
-
-11) Chirurgia urologica;
-
-12) Clinica chirurgica generale (quinquennale);
-
-13) Fisiopatologia chirurgica;
-
-14) Medicina legale;
-
-15) Neurochirurgia;
-
-16) Patologia speciale chirurgica (triennale);
-
-17) Radiologia;
-
-18) Ricerche di laboratorio;
-
-19) Semeiotica chirurgica (biennale);
-
-20) Semeiotica strumentale;
-
-21) Trattamento pre e post-operatorio;
-
-22) Traumatologia ed ortopedia.
-
-Le materie sopraelencate sono cosi' distribuite:
-
-1° Anno:
-
-1) Clinica chirurgica generale;
-
-2) Patologia speciale chirurgica;
-
-3) Semeiotica chirurgica;
-
-4) Anatomia chirurgica e corso di operazioni;
-
-5) Chirurgia sperimentale;
-
-6) Anestesia e rianimazione;
-
-7) Ricerche di laboratorio.
-
-2° Anno:
-
-1) Clinica chirurgica generale;
-
-2) Patologia speciale chirurgica;
-
-3) Semeiotica chirurgica;
-
-4) Anatomia chirurgica e corso di operazioni;
-
-5) Fisiopatologia chirurgica;
-
-6) Trattamento pre e post-operatorio;
-
-7) Anatomia ed istologia patologica.
-
-3° Anno:
-
-1) Clinica chirurgica generale;
-
-2) Patologia speciale chirurgica;
-
-3) Semeiotica strumentale ed endoscopica;
-
-4) Anatomia chirurgica e corso di operazioni;
-
-5) Radiologia;
-
-6) Chirurgia pediatrica;
-
-7) Anatomia ed istologia patologica.
-
-4° Anno:
-
-1) Clinica chirurgica generale;
-
-2) Chirurgia ginecologica;
-
-3) Chirurgia urologica;
-
-4) Neurochirurgia;
-
-5) Traumatologia ed ortopedia;
-
-6) Medicina legale.
-
-5° Anno:
-
-1) Clinica chirurgica generale;
-
-2) Chirurgia toracica;
-
-3) Chirurgia cardiovascolare;
-
-4) Chirurgia riparativa e plastica;
-
-5) Chirurgia d'urgenza.
-
-La selezione dei candidati aspiranti all'ammissione alla scuola avverra' sulla base dei titoli di esami. Non sono consentite iscrizioni con abbreviazioni di corso.
-
-La frequenza alle lezioni e alle esercitazioni e' obbligatoria per tutti gli iscritti. L'internato e' obbligatorio durante i cinque anni del corso e si svolgera' presso la clinica chirurgica sotto forma di permanenza costante nella detta clinica durante le ore della sua attivita', con presenza giornaliera agli ambulatori ed ai reparti di degenza.
-
-Dall'obbligo di tale internato saranno esentati quegli allievi che, in qualita' di assistenti e di aiuti, prestano effettivamente servizio presso reparti di chirurgia generale dell'universita' o di ospedali di 1ª e 2ª categoria.
-
-Gli allievi hanno doveri ed attribuzioni analoghi a quelli degli assistenti. Gli specializzandi, che abbiano completato il primo biennio e superato i relativi esami, potranno essere chiamati a prestare servizio presso il reparto operatorio.
-
-Per i corsi che non siano della clinica chirurgica generale, possono essere stabiliti, su parere del direttore della scuola, periodi di continuativa frequenza presso i relativi reparti specialistici qualora esistano quali reparti indipendenti.
-
-Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico dell'operosita' scolastica degli allievi, con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno. L'allievo che non abbia ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali.
-
-Alla fine del corso l'allievo, inoltre, dovra' sostenere un esame di profitto.
-
-All'art. 147 relativo alla scuola di specializzazione in igiene e medicina preventiva sono inseriti i seguenti nuovi comma:
-
-"Per essere iscritti alla scuola i candidati devono superare una prova di ammissione per titoli ed esame.
-
-L'ammissione e' limitata ai laureati in medicina e chirurgia.
-
-Alla fine di ciascun anno di corso l'allievo deve superare un esame di profitto, che, a giudizio della commissione, puo' vertere anche su prove pratiche.
-
-Alla fine del corso l'allievo deve sostenere un esame finale riassuntivo e discutere una tesi.
-
-Coloro che hanno gia' sostenuto l'esame di diploma di uno degli orientamenti previsti nella scuola possono essere successivamente iscritti al terzo anno di un altro corso di specializzazione con orientamento diverso da quello gia seguito, senza ripetere l'esame di ammissione ne' i due anni propedeutici.
-
-Oltre a seguire le lezioni e le esercitazioni gli allievi devono frequentare come interni l'istituto di igiene".
-
-L'art. 154 relativo alla scuola di specializzazione in urologia e' integrato nel modo seguente:
-
-"Gli esami di profitto si sostengono nei seguenti gruppi:
-
-1° Anno:
-
-1) Anatomia e fisiologia dell'apparato urogenitale;
-
-2) Le nefropatie mediche;
-
-3) Batteriologia in urologia e farmacoterapia delle affezioni urogenitali.
-
-2° Anno:
-
-1) Patologia dell'apparato urinario e genitale maschile; anatomia ed istologia patologica;
-
-2) Semeiotica urologica (funzionale e di laboratorio); tecniche strumentali e semeiologia endoscopica;
-
-3) Patologia genitale femminile di interesse urologico; le affezioni cutanee e veneree nei riguardi dell'urologia;
-
-4) Anatomia chirurgica dell'apparato urogenitale; anestesiologia e trattamento pre e post-operatorio del malato urologico;
-
-5) Nefrologia chirurgica.
-
-3° Anno:
-
-1) Clinica urologica;
-
-2) Radiologia dell'apparato urinario e genitale;
-
-3) Interventi e procedimenti operatori sull'apparato urogenitale;
-
-4) Patologia e clinica urologica infantile;
-
-5) Urologia ginecologica".
-
-All'art. 157 relativo alla scuola di specializzazione in odontoiatria e protesi dentaria sono inseriti i seguenti nuovi comma: "Titolo per l'iscrizione: laurea in medicina e chirurgia.
-
-Frequenza: obbligatoria per l'intero anno accademico.
-
-Vacanze: conformi al calendario universitario, con un solo mese completo estivo (agosto).
-
-Esami: gli esami di profitto teorici e pratici saranno sostenuti alla fine di ogni anno in un'unica sezione (ottobre).
-
-Alla fine del 3° anno, dopo aver superato gli esami di profitto, gli allievi saranno ammessi a sostenere gli esami di diploma che consistono nella discussione orale di una dissertazione scritta, su un tema proposto in precedenza dall'insegnante della materia sulla quale verte l'argomento, e approvato dal direttore della scuola.
-
-Ogni iscritto deve provvedere al proprio corredo di strumenti".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 28 agosto 1971
-
-SARAGAT
-
-MISASI
-
-Visto, il Guardasigilli: COLOMBO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 15 novembre 1971 Atti del Governo, registro n. 245, foglio n. 30. - CARUSO
+proposta del Ministro della pubblica istruzione; Decreta:
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
   
 Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 147 - l'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola di specializzazione in odontoiatria e protesi dentaria muta la denominazione in quella di scuola di specializzazione in odontostomatologia.  
+Allo stesso elenco sono aggiunte le scuole di specializzazione in ematologia generale (clinica e laboratorio) ed in chirurgia dell'apparato digerente ed endoscopia digestiva.  
+
+Art. 2
+------
+
   
-L'art. 122 relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola in "Chirurgia generale" muta la denominazione in quella di scuola in "Chirurgia".  
-L'art. 137 relativo alla "Scuola di specializzazione in chirurgia generale" che assume la denominazione di "Scuola di specializzazione in chirurgia" e' abrogato e sostituito dal seguente:  
+L'art. 183, primo comma, relativo alla scuola di specializzazione in odontoiatria e protesi dentaria, che muta la denominazione in quella di scuola di specializzazione in odontostomatologia, e' soppresso e sostituito dal seguente:  
   
-Scuola di specializzazione in chirurgia  
+Scuola di specializzazione in odontostomatologia. Durata tre anni.  
+Numero massimo di iscritti: dodici per ogni anno di corso per un totale di trentasei iscritti.  
+
+Art. 3
+------
+
   
-Art. 137. - La scuola di specializzazione in chirurgia conferisce il diploma di specialista in chirurgia. Gli anni necessari per il conseguimento del diploma sono cinque.  
-Il numero massimo di iscritti e' di nove per ogni anno di corso (totale quarantacinque iscritti).  
-Le materie del corso sono le seguenti:  
-1) Anatomia chirurgica e corso di operazioni (triennale);  
-2) Anatomia ed istologia patologica (biennale);  
-3) Anestesia e rianimazione;  
-4) Chirurgia cardiovascolare;  
-5) Chirurgia d'urgenza;  
-6) Chirurgia ginecologica;  
-7) Chirurgia pediatrica;  
-8) Chirurgia riparativa e plastica;  
-9) Chirurgia sperimentale;  
-10) Chirurgia toracica;  
-11) Chirurgia urologica;  
-12) Clinica chirurgica generale (quinquennale);  
-13) Fisiopatologia chirurgica;  
-14) Medicina legale;  
-15) Neurochirurgia;  
-16) Patologia speciale chirurgica (triennale);  
-17) Radiologia;  
-18) Ricerche di laboratorio;  
-19) Semeiotica chirurgica (biennale);  
-20) Semeiotica strumentale;  
-21) Trattamento pre e post-operatorio;  
-22) Traumatologia ed ortopedia.  
-Le materie sopraelencate sono cosi' distribuite:  
+Dopo l'art. 196, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in ematologia generale (clinica e laboratorio) e in chirurgia dell'apparato digerente ed endoscopia digestiva.  
+  
+Scuola di specializzazione in ematologia generale (clinica e laboratorio)  
+  
+Art. 197. - La scuola di specializzazione in ematologia generale (clinica e laboratorio) ha sede presso il reparto di ematologia generale e conferisce il diploma di specialista in ematologia generale (clinica e laboratorio).  
+Art. 198. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Art. 199. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+Art. 200. - La durata del corso e' di tre anni e non e' suscettibile di abbreviazione.  
+Art. 201. - Il numero massimo degli allievi e' di quattro per anno di corso e complessivamente di dodici iscritti per l'intero corso di studi.  
+Art. 202. - L'ammissione al corso avviene per titoli ed esami.  
+Art. 203. - Le materie di insegnamento sono le seguenti:  
 1° Anno:  
-1) Clinica chirurgica generale;  
-2) Patologia speciale chirurgica;  
-3) Semeiotica chirurgica;  
-4) Anatomia chirurgica e corso di operazioni;  
-5) Chirurgia sperimentale;  
-6) Anestesia e rianimazione;  
-7) Ricerche di laboratorio.  
+morfologia e morfogenesi normale e patologica del sangue e degli organi emopoietici (1° anno);  
+genetica ematologica;  
+fisiopatologia della coagulazione e della emostasi;  
+fisiopatologia ematologica (1° anno);  
+fisiopatologia del plasma;  
+biochimica ematologica;  
+tecniche di laboratorio inerenti all'ematologia (primo anno).  
 2° Anno:  
-1) Clinica chirurgica generale;  
-2) Patologia speciale chirurgica;  
-3) Semeiotica chirurgica;  
-4) Anatomia chirurgica e corso di operazioni;  
-5) Fisiopatologia chirurgica;  
-6) Trattamento pre e post-operatorio;  
-7) Anatomia ed istologia patologica.  
+morfologia e morfogenesi normale e patologica del sangue e degli organi emopoietici (2° anno);  
+fisiopatologia ematologica (2° anno);  
+immunoematologia;  
+anatomia ed istologia patologica delle emopatie e fondamenti di oncologia;  
+patologia speciale ematologica (1° anno);  
+clinica e terapia ematologica (1° anno);  
+tecniche di laboratorio inerenti all'ematologia (secondo anno). 3° Anno:  
+clinica e terapia ematologica (2° anno);  
+nozioni di radiobiologia e di medicina nucleare applicata alla ematologia;  
+radiodiagnostica e radioterapia in clinica ematologica;  
+patologia speciale ematologica (2° anno);  
+terapia ematologica sistematica;  
+terapia trasfusionale;  
+tecniche di laboratorio inerenti all'ematologia (terzo anno).  
+Art. 204. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.  
+Art. 205. - Alla fine di ogni corso gli iscritti per e ammessi agli anni di corso successivi, devono rare le prove di esame sulle materie impartite durante l'anno.  
+Al termine del corso di studi per il conseguimento del diploma di specialista in ematologia generale (clinica e laboratorio) devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
+  
+Scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva  
+  
+Art. 206. - La scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva ha sede presso la 2ª cattedra di clinica chirurgica generale e terapia chirurgica e conferisce il diploma di specialista in chirurgia dell'apparato digerente ed endoscopia digestiva.  
+Art. 207. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Art. 208. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+Art. 209. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.  
+Art. 210. - Il numero massimo degli allievi e' di cinque per anno di corso e complessivamente di venticinque iscritti per l'intero corso di studi.  
+Art. 211. - L'ammissione al corso avviene per titoli ed esami.  
+Art. 212. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1) anatomia descrittiva e topografica specialistica (1° corso);  
+2) fisiopatologia e semeiotica funzionale (1° corso);  
+3) anatomia ed istologia patologica (1° corso);  
+4) patologia chirurgica (1° corso).  
+2° Anno:  
+5) anatomia descrittiva, e topografica specialistica (2° corso);  
+6) fisiopatologia e semeiotica funzionale (2° corso);  
+7) anatomia ed istologia patologica (2° corso);  
+8) patologia chirurgica (2° corso);  
+9) semeiotica chirurgica (1° corso);  
+10) radiologia e medicina nucleare (1° corso);  
+11) endoscopia digestiva e diagnostica e terapeutica (1° corso).  
 3° Anno:  
-1) Clinica chirurgica generale;  
-2) Patologia speciale chirurgica;  
-3) Semeiotica strumentale ed endoscopica;  
-4) Anatomia chirurgica e corso di operazioni;  
-5) Radiologia;  
-6) Chirurgia pediatrica;  
-7) Anatomia ed istologia patologica.  
-4° Anno:  
-1) Clinica chirurgica generale;  
-2) Chirurgia ginecologica;  
-3) Chirurgia urologica;  
-4) Neurochirurgia;  
-5) Traumatologia ed ortopedia;  
-6) Medicina legale.  
+12) patologia chirurgica (3° corso);  
+13) semeiotica chirurgica (2° corso);  
+14) radiologia e medicina nucleare (2° corso);  
+15) endoscopia digestiva e diagnostica terapeutica (2° corso);  
+16) clinica e terapia chirurgica (1° corso);  
+17) tecniche operatorie (1° corso).  
+4. Anno:  
+18) semeiotica chirurgica (3° corso);  
+19) radiologia e medicina nucleare (3° corso);  
+20) endoscopia digestiva diagnostica e terapeutica (3° corso);  
+21) clinica e terapia chirurgica (2° corso);  
+22) tecniche operatorie (2° corso);  
+23) anestesia e rianimazione;  
+24) riabilitazione in chirurgia digestiva.  
 5° Anno:  
-1) Clinica chirurgica generale;  
-2) Chirurgia toracica;  
-3) Chirurgia cardiovascolare;  
-4) Chirurgia riparativa e plastica;  
-5) Chirurgia d'urgenza.  
-La selezione dei candidati aspiranti all'ammissione alla scuola avverra' sulla base dei titoli di esami. Non sono consentite iscrizioni con abbreviazioni di corso.  
-La frequenza alle lezioni e alle esercitazioni e' obbligatoria per tutti gli iscritti. L'internato e' obbligatorio durante i cinque anni del corso e si svolgera' presso la clinica chirurgica sotto forma di permanenza costante nella detta clinica durante le ore della sua attivita', con presenza giornaliera agli ambulatori ed ai reparti di degenza.  
-Dall'obbligo di tale internato saranno esentati quegli allievi che, in qualita' di assistenti e di aiuti, prestano effettivamente servizio presso reparti di chirurgia generale dell'universita' o di ospedali di 1ª e 2ª categoria.  
-Gli allievi hanno doveri ed attribuzioni analoghi a quelli degli assistenti. Gli specializzandi, che abbiano completato il primo biennio e superato i relativi esami, potranno essere chiamati a prestare servizio presso il reparto operatorio.  
-Per i corsi che non siano della clinica chirurgica generale, possono essere stabiliti, su parere del direttore della scuola, periodi di continuativa frequenza presso i relativi reparti specialistici qualora esistano quali reparti indipendenti.  
-Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico dell'operosita' scolastica degli allievi, con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno. L'allievo che non abbia ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali.  
-Alla fine del corso l'allievo, inoltre, dovra' sostenere un esame di profitto.  
-All'art. 147 relativo alla scuola di specializzazione in igiene e medicina preventiva sono inseriti i seguenti nuovi comma:  
-"Per essere iscritti alla scuola i candidati devono superare una prova di ammissione per titoli ed esame.  
-L'ammissione e' limitata ai laureati in medicina e chirurgia.  
-Alla fine di ciascun anno di corso l'allievo deve superare un esame di profitto, che, a giudizio della commissione, puo' vertere anche su prove pratiche.  
-Alla fine del corso l'allievo deve sostenere un esame finale riassuntivo e discutere una tesi.  
-Coloro che hanno gia' sostenuto l'esame di diploma di uno degli orientamenti previsti nella scuola possono essere successivamente iscritti al terzo anno di un altro corso di specializzazione con orientamento diverso da quello gia seguito, senza ripetere l'esame di ammissione ne' i due anni propedeutici.  
-Oltre a seguire le lezioni e le esercitazioni gli allievi devono frequentare come interni l'istituto di igiene".  
-L'art. 154 relativo alla scuola di specializzazione in urologia e' integrato nel modo seguente:  
-"Gli esami di profitto si sostengono nei seguenti gruppi:  
-1° Anno:  
-1) Anatomia e fisiologia dell'apparato urogenitale;  
-2) Le nefropatie mediche;  
-3) Batteriologia in urologia e farmacoterapia delle affezioni urogenitali.  
-2° Anno:  
-1) Patologia dell'apparato urinario e genitale maschile; anatomia ed istologia patologica;  
-2) Semeiotica urologica (funzionale e di laboratorio); tecniche strumentali e semeiologia endoscopica;  
-3) Patologia genitale femminile di interesse urologico; le affezioni cutanee e veneree nei riguardi dell'urologia;  
-4) Anatomia chirurgica dell'apparato urogenitale; anestesiologia e trattamento pre e post-operatorio del malato urologico;  
-5) Nefrologia chirurgica.  
-3° Anno:  
-1) Clinica urologica;  
-2) Radiologia dell'apparato urinario e genitale;  
-3) Interventi e procedimenti operatori sull'apparato urogenitale;  
-4) Patologia e clinica urologica infantile;  
-5) Urologia ginecologica".  
-All'art. 157 relativo alla scuola di specializzazione in odontoiatria e protesi dentaria sono inseriti i seguenti nuovi comma: "Titolo per l'iscrizione: laurea in medicina e chirurgia.  
-Frequenza: obbligatoria per l'intero anno accademico.  
-Vacanze: conformi al calendario universitario, con un solo mese completo estivo (agosto).  
-Esami: gli esami di profitto teorici e pratici saranno sostenuti alla fine di ogni anno in un'unica sezione (ottobre).  
-Alla fine del 3° anno, dopo aver superato gli esami di profitto, gli allievi saranno ammessi a sostenere gli esami di diploma che consistono nella discussione orale di una dissertazione scritta, su un tema proposto in precedenza dall'insegnante della materia sulla quale verte l'argomento, e approvato dal direttore della scuola.  
-Ogni iscritto deve provvedere al proprio corredo di strumenti".  
+25) clinica chirurgica e terapia chirurgica (3° corso);  
+26) tecniche operatorie (3° corso);  
+27) chirurgia d'urgenza dell'apparato digerente;  
+28) chirurgia pediatrica dell'apparato digerente;  
+29) terapia intensiva.  
+Art. 213. - La frequenza alle lezioni, alle esercitazioni pratiche nei reparti, e' obbligatoria per l'ammissione agli esami; il superamento degli esami di ciascun anno e' condizione indispensabile per l'iscrizione all'anno successivo.  
+Art. 214. - Al termine del quinquennio per ottenere il diploma, i candidati devono presentare una dissertazione scritta su un argomento di chirurgia dell'apparato digerente ed endoscopia digestiva da discutere davanti all'apposita commissione e devono inoltre sostenere una prova clinica.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi o dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 agosto 1971
+### Dato a Roma, addi' 31 ottobre 1979
 
-SARAGAT MISASI
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 15 novembre 1971
+Registrato alla Corte dei conti, addi' 31 gennaio 1980
 
-Atti del Governo, registro n. 245, foglio n. 30. - CARUSO
+Registro n. 7 Istruzione, foglio n. 382

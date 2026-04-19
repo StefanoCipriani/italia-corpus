@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1983 n. 352
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 748
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1983 n. 352
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 748
+================================================================
 
 Autorizzazione alla Societa' italiana degli autori ed editori, in Roma, ad acquistare un immobile.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-352. Decreto del Presidente della Repubblica 31 marzo 1983, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Societa' italiana degli autori ed editori (SIAE), in Roma, viene autorizzata ad acquistare, al convenuto prezzo di. L. 140.000.000, un immobile sito in Palermo, via Francesco Guardione n. 3, distinto nel nuovo catasto edilizio urbano alla partita 101752, foglio 123, particella 498 sub 2, immobile valutato da perizia estimativa di parte in lire 151.000.000 e dall'ufficio tecnico erariale di Palermo L. 132.000.000, come da atto di compravendita 30 luglio 1900, n. 2161 di repertorio, a rogito dott. Alberto Cali, notaio in Palermo, registrato a Palermo in data 11 agosto 1980 al n. 17109.  
+748. Decreto del Presidente della Repubblica 22 settembre 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Societa' italiana degli autori ed editori (S.I.A.E.), in Roma, viene autorizzata ad acquistare, al prezzo di L. 67.500.000, un immobile sito in Roma, via Cerreto di Spoleto numeri 31, 33, 35, distinto nel nuovo catasto edilizio urbano alla partita 280096, foglio 931, mappale 42 sub 3, e valutato dall'ufficio tecnico erariale in L. 150.000.000, come da atto di compravendita 1 marzo 1978, n. 131052/12387 di repertorio, a rogito dott. Francesco Varcasia, notaio in Roma, registrato a Roma in data 17 marzo 1978 al n. 2498.  
   
 Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 13 luglio 1983  
-Registro n. 6 Presidenza, foglio n. 239
+Registrato alla Corte dei conti, addi' 11 dicembre 1981  
+Registro n. 10 Presidenza, foglio n. 340

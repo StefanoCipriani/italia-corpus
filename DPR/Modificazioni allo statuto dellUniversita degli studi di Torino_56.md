@@ -1,147 +1,385 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1961 n. 178
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 maggio 1969 n. 487
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1961 n. 178
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 maggio 1969 n. 487
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), a successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+La denominazione della scuola di amministrazione industriale (scuola diretta a fini speciali) annessa alla facolta' di economia e commercio e' modificata nel senso che la scuola stessa e' intitolata al prof. Vittorio Valletta.
+
+Art. 39. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti quelli di:
+
+Didattica;
+
+Storia delle dottrine politiche;
+
+Storia delle dottrine economiche;
+
+Archeologia medioevale;
+
+Storia bizantina;
+
+Filologia dantesca;
+
+Filologia semitica;
+
+Storia della critica letteraria;
+
+Sociologia.
+
+Nel predetto corso di laurea l'insegnamento complementare di "Ebraico e lingue semitiche comparate" muta denominazione in quella di "Ebraico ed aramaico".
+
+Art. 40. - All'elenco degli insegnamenti complementari del corso di laurea di filosofia sono aggiunti quelli di:
+
+Logica;
+
+Didattica.
+
+Art. 43. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti quelli di:
+
+Storia e critica del cinema;
+
+Storia della lingua latina.
+
+Art. 44. - All'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti quelli di:
+
+Storia e critica del cinema;
+
+Psicopedagogia.
+
+Art. 45. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di:
+
+Storia e critica del cinema;
+
+Storia della lingua latina.
+
+Dopo l'art. 118 e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli relativi all'istituzione della Scuola di perfezionamento in scienza dell'educazione annessa alla facolta' di magistero.
+
+Scuola di perfezionamento in scienza dell'educazione
+
+Art. 119. - E' istituita una scuola di perfezionamento in scienza dell'educazione annessa alla facolta' di magistero.
+
+Art. 120. La scuola e' articolata nei seguenti indirizzi:
+
+a) indirizzo psico-pedagogico;
+
+b) indirizzo socio-pedagogico;
+
+c) indirizzo industriale e del lavoro.
+
+Art. 121. - Per lo svolgimento delle sue attivita' la scuola si avvale delle strutture dell'Istituto di pedagogia e di altri istituti interessati.
+
+Art. 122. - Titolo di ammissione e' la laurea in qualsiasi disciplina, conseguita presso una universita' italiana, oppure un titolo di studio straniero equipollente.
+
+Art. 123. - La scuola e' biennale: non sono consentite abbreviazioni.
+
+Art. 124. - Al termine del corso la scuola rilascia il diploma di perfezionamento in psico-pedagogia o in socio-pedagogia o in pedagogia industriale e del lavoro corrispondentemente agli indirizzi di cui all'art. 120.
+
+Art. 125. - Il consiglio della scuola e' costituito da tutti i docenti (scelti anche tra esperti) ai quali sia stato affidato un corso di insegnamento, e dai rappresentanti degli allievi - eletti di anno in anno dagli allievi della scuola - in numero di due per ogni indirizzo. Il consiglio della scuola propone al consiglio della facolta' di magistero la nomina del direttore e dei docenti, provvede al coordinamento dei vari corsi, discute i programmi presentati dai singoli docenti, predispone l'orario delle lezioni, dei seminari e delle esercitazioni.
+
+Art. 126. - La direzione della scuola e' affidata a un professore ufficiale di materia pedagogica nominato dal consiglio della facolta' di magistero per la durata di un biennio.
+
+Art. 127. - Gli insegnamenti sono suddivisi in due gruppi:
+
+a) insegnamenti comuni a tutti gli indirizzi, obbligatori per tutti gli allievi indipendentemente dall'indirizzo prescelto;
+
+b) insegnamenti costitutivi di ciascun indirizzo, obbligatori nell'ambito dell'indirizzo prescelto.
+
+Art. 128. - Gli insegnamenti comuni sono:
+
+1) Metodologia della ricerca;
+
+2) Pedagogia contemporanea;
+
+3) Tecnologia dell'educazione;
+
+4) Psicologia generale e differenziale;
+
+5) Sociologia generale;
+
+6) Fondamenti di psicopatologia e di igiene mentale;
+
+7) Statistica.
+
+Art. 129. - Gli insegnamenti costitutivi dell'indirizzo psico-pedagogico sono:
+
+1) Psicopedagogia;
+
+2) Didattica generale e differenziale;
+
+3) Psicologia dell'eta' evolutiva;
+
+4) Psicologia clinica;
+
+5) Fisiopatologia dell'eta' evolutiva;
+
+6) Fondamenti di biologia umana e di auxologia.
+
+Art. 130. - Gli insegnamenti costitutivi dell'indirizzo socio-pedagogico sono:
+
+1) Socio-pedagogia;
+
+2) Metodologia dell'azione sociale;
+
+3) Antropologia culturale;
+
+4) Elementi di economia politica dell'educazione;
+
+5) Sociologia degli insediamenti umani;
+
+6) Elementi di diritto familiare e minorile.
+
+Art. 131. - Gli insegnamenti costitutivi dell'indirizzo Industriale e del lavoro sono:
+
+1) Pedagogia della formazione tecnico-professionale e dell'industria;
+
+2) Elementi di organizzazione industriale;
+
+3) Orientamento professionale;
+
+4) Psicologia sociale;
+
+5) Psicologia del lavoro e ergonomia;
+
+6) Elementi di medicina del lavoro.
+
+Art. 132. - Per il conseguimento del diploma l'allievo dovra' superare gli esami degli insegnamenti comuni e degli insegnamenti costitutivi dell'indirizzo prescelto e discutere una tesi riguardante una delle discipline dell'indirizzo.
+
+Art. 133. - Il finanziamento della scuola e' assicurato mediante i proventi delle tasse, nella misura fissata dal consiglio di amministrazione, e da una dotazione annua sul bilancio universitario.
+
+La scuola e' autorizzata a chiedere contributi a enti pubblici e privati e a ricevere lasciti e donazioni.
+
+Dopo l'art. 287 e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in fisica cosmica annessa alla facolta' di scienze matematiche, fisiche e naturali.
+
+Scuola di specializzazione in fisica cosmica
+
+Art. 288. - Alla facolta' di scienze matematiche, fisiche e naturali e' annessa una Scuola di specializzazione in fisica cosmica avente lo scopo di dare, mediante corsi teorici e pratici, una preparazione specifica nella fisica cosmica e spaziale conferendo la qualifica di specialista a norma dell'[art. 178 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art178).
+
+Art. 289. - La durata della scuola e' biennale e consistera' di insegnamenti teorici e di esercitazioni pratiche.
+
+Art. 290. - Gli insegnamenti impartiti durante il biennio sono distinti in fondamentali e complementari.
+
+Insegnamenti fondamentali:
+
+Fisica della radiazione cosmica (1° anno);
+
+Astrofisica delle alte energie (2° anno);
+
+Fisica solare (2° anno);
+
+Fisica dello spazio (1° anno);
+
+Tecniche di fisica cosmica e spaziale con esercizi di laboratorio (1° anno);
+
+Modulazione cosmica e problemi di origini (2° anno).
+
+Insegnamenti complementari:
+
+Geomagnetismo e magnetismo interplanetario (1° anno);
+
+Particelle elementari (1° anno);
+
+Complementi di astrofisica (2° anno);
+
+Elettronica (con esercitazioni di laboratorio) (2° anno).
+
+Verranno inoltre tenuti brevi cicli di lezioni su argomenti monografici e di attualita', conferenze, seminari. L'insegnamento potra' eventualmente essere integrato da visite da permanenza in laboratori specializzati.
+
+Art. 291. - Sono ammessi alla scuola di specializzazione i laureati in matematica ed in ingegneria. Essi dovranno dimostrare, con un colloquio di possedere la necessaria preparazione in rapporto agli insegnamenti previsti dalla scuola.
+
+Art. 292. - Le commissioni degli esami di profitto sono costituite di insegnanti della scuola secondo le vigenti norme per gli esami universitari.
+
+Art. 293. - Il diploma e' rilasciato agli iscritti in base:
+
+a) alla regolare frequenza dei corsi teorici e delle esercitazioni;
+
+b) all'esito degli esami sostenuti sugli insegnamenti fondamentali e su almeno due complementari;
+
+c) all'esame di diploma che consiste nella presentazione di una dissertazione scritta di carattere sperimentale o teorico, da sostenersi davanti ad un'apposita commissione costituita di sette insegnanti della scuola.
+
+Art. 294. - Il consiglio direttivo della scuola si compone di tutti gli insegnanti della medesima; esso fa le proposte relative all'ordinamento degli studi e dell'insegnamento e da' pareri su tutti i provvedimenti riguardanti il corso stesso.
+
+Art. 295. - Il consiglio direttivo di cui all'art. 271 nomina il direttore della scuola.
+
+Art. 296. - Gli iscritti alla scuola sono tenuti al pagamento di una tassa di iscrizione, di una soprattassa di esame pari a quella degli studenti per il corso di laurea in fisica, di una tassa di diploma di L. 6000, a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7), e di un contributo di laboratorio, il cui ammontare sara' fissato, anno per anno, dal consiglio di amministrazione dell'universita' su proposta del consiglio direttivo della scuola stessa. Tasse e contributi serviranno al finanziamento della scuola stessa.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 22 maggio 1969
+
+SARAGAT
+
+FERRARI AGGRADI
+
+Visto, il Guardasigilli: GAVA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 1 agosto 1969 Atti del Governo, registro n. 228, foglio n. 103. - GRECO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788) e successivi;  
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1074](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1074), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta, la particolare necessita' di approvare le nuove modifiche proposte;  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), a successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 24. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere moderne (indirizzo europeo) sono aggiunti quelli di "Storia romana a e "Lingua e letteratura polacca".  
-L'ordinamento della. Scuola di perfezionamento in Archeologia e Storia dell'arte annessa alla Facolta' di lettere e filosofia, e' modificato con la seguente nuova denominazione: Scuola di perfezionamento in Storia dell'arte medioevale e moderna.  
-L'art. 74 e' sostituito dal seguente:  
+La denominazione della scuola di amministrazione industriale (scuola diretta a fini speciali) annessa alla facolta' di economia e commercio e' modificata nel senso che la scuola stessa e' intitolata al prof. Vittorio Valletta.  
+Art. 39. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti quelli di:  
+Didattica;  
+Storia delle dottrine politiche;  
+Storia delle dottrine economiche;  
+Archeologia medioevale;  
+Storia bizantina;  
+Filologia dantesca;  
+Filologia semitica;  
+Storia della critica letteraria;  
+Sociologia.  
+Nel predetto corso di laurea l'insegnamento complementare di "Ebraico e lingue semitiche comparate" muta denominazione in quella di "Ebraico ed aramaico".  
+Art. 40. - All'elenco degli insegnamenti complementari del corso di laurea di filosofia sono aggiunti quelli di:  
+Logica;  
+Didattica.  
+Art. 43. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti quelli di:  
+Storia e critica del cinema;  
+Storia della lingua latina.  
+Art. 44. - All'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti quelli di:  
+Storia e critica del cinema;  
+Psicopedagogia.  
+Art. 45. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di:  
+Storia e critica del cinema;  
+Storia della lingua latina.  
+Dopo l'art. 118 e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli relativi all'istituzione della Scuola di perfezionamento in scienza dell'educazione annessa alla facolta' di magistero.  
   
-Sono insegnamenti costitutivi della Scuola della Storia dell'arte medioevale e moderna:  
-1) Archeologia e storia dell'arte greca;  
-2) Archeologia, e storia dell'arte romana;  
-3) Storia dell'arte medioevale e moderna;  
-4) Storia della musica;  
-5) Estetica.  
-Gli iscritti sono tenuti a sostenere, prima dell'esame di diploma:  
-a) un esame biennale di Storia dell'arte medioevale e moderna;  
-b) un esame annuale di Archeologia e storia dell'arte greca;  
-c) un esame annuale di Archeologia e storia dell'arte romana;  
-d) un esame annuale di Estetica Ognuno degli esami indicati alle lettere b), c), d) puo' essere sostituito con un esame di atti disciplina (previa approvazione del direttore della Scuola) qualora esso sia gia' stato superato dall'iscritto prima del conseguimento della, laurea.  
-Dopo l'art. 74 e' aggiunto il seguente nuovo articolo relativo alla istituzione della Scuola di perfezionamento in Archeologia con il conseguente spostamento della, numerazione degli articoli successivi.  
+Scuola di perfezionamento in scienza dell'educazione  
   
-SCUOLA DI PERFEZIONAMENTO IN ARCHEOLOGIA  
+Art. 119. - E' istituita una scuola di perfezionamento in scienza dell'educazione annessa alla facolta' di magistero.  
+Art. 120. La scuola e' articolata nei seguenti indirizzi:  
+a) indirizzo psico-pedagogico;  
+b) indirizzo socio-pedagogico;  
+c) indirizzo industriale e del lavoro.  
+Art. 121. - Per lo svolgimento delle sue attivita' la scuola si avvale delle strutture dell'Istituto di pedagogia e di altri istituti interessati.  
+Art. 122. - Titolo di ammissione e' la laurea in qualsiasi disciplina, conseguita presso una universita' italiana, oppure un titolo di studio straniero equipollente.  
+Art. 123. - La scuola e' biennale: non sono consentite abbreviazioni.  
+Art. 124. - Al termine del corso la scuola rilascia il diploma di perfezionamento in psico-pedagogia o in socio-pedagogia o in pedagogia industriale e del lavoro corrispondentemente agli indirizzi di cui all'art. 120.  
+Art. 125. - Il consiglio della scuola e' costituito da tutti i docenti (scelti anche tra esperti) ai quali sia stato affidato un corso di insegnamento, e dai rappresentanti degli allievi - eletti di anno in anno dagli allievi della scuola - in numero di due per ogni indirizzo. Il consiglio della scuola propone al consiglio della facolta' di magistero la nomina del direttore e dei docenti, provvede al coordinamento dei vari corsi, discute i programmi presentati dai singoli docenti, predispone l'orario delle lezioni, dei seminari e delle esercitazioni.  
+Art. 126. - La direzione della scuola e' affidata a un professore ufficiale di materia pedagogica nominato dal consiglio della facolta' di magistero per la durata di un biennio.  
+Art. 127. - Gli insegnamenti sono suddivisi in due gruppi:  
+a) insegnamenti comuni a tutti gli indirizzi, obbligatori per tutti gli allievi indipendentemente dall'indirizzo prescelto;  
+b) insegnamenti costitutivi di ciascun indirizzo, obbligatori nell'ambito dell'indirizzo prescelto.  
+Art. 128. - Gli insegnamenti comuni sono:  
+1) Metodologia della ricerca;  
+2) Pedagogia contemporanea;  
+3) Tecnologia dell'educazione;  
+4) Psicologia generale e differenziale;  
+5) Sociologia generale;  
+6) Fondamenti di psicopatologia e di igiene mentale;  
+7) Statistica.  
+Art. 129. - Gli insegnamenti costitutivi dell'indirizzo psico-pedagogico sono:  
+1) Psicopedagogia;  
+2) Didattica generale e differenziale;  
+3) Psicologia dell'eta' evolutiva;  
+4) Psicologia clinica;  
+5) Fisiopatologia dell'eta' evolutiva;  
+6) Fondamenti di biologia umana e di auxologia.  
+Art. 130. - Gli insegnamenti costitutivi dell'indirizzo socio-pedagogico sono:  
+1) Socio-pedagogia;  
+2) Metodologia dell'azione sociale;  
+3) Antropologia culturale;  
+4) Elementi di economia politica dell'educazione;  
+5) Sociologia degli insediamenti umani;  
+6) Elementi di diritto familiare e minorile.  
+Art. 131. - Gli insegnamenti costitutivi dell'indirizzo Industriale e del lavoro sono:  
+1) Pedagogia della formazione tecnico-professionale e dell'industria;  
+2) Elementi di organizzazione industriale;  
+3) Orientamento professionale;  
+4) Psicologia sociale;  
+5) Psicologia del lavoro e ergonomia;  
+6) Elementi di medicina del lavoro.  
+Art. 132. - Per il conseguimento del diploma l'allievo dovra' superare gli esami degli insegnamenti comuni e degli insegnamenti costitutivi dell'indirizzo prescelto e discutere una tesi riguardante una delle discipline dell'indirizzo.  
+Art. 133. - Il finanziamento della scuola e' assicurato mediante i proventi delle tasse, nella misura fissata dal consiglio di amministrazione, e da una dotazione annua sul bilancio universitario.  
+La scuola e' autorizzata a chiedere contributi a enti pubblici e privati e a ricevere lasciti e donazioni.  
+Dopo l'art. 287 e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in fisica cosmica annessa alla facolta' di scienze matematiche, fisiche e naturali.  
   
-Art. 75. - Sono insegnamenti costitutivi della Scuola di perfezionamento in Archeologia:  
-1) Archeologia, e storia dell'arte greca;  
-2) Archeologia e storia dell'arte romana;  
-3) Storia dell'arte medioevale e moderna;  
-4) Estetica;  
-5) Antichita) greche e romane;  
-6) Topografia dell'Italia antica;  
-7) Archeologia delle province romane;  
-8) Etruscologia ed archeologia italica;  
-9) Archeologia, cristiana;  
-10) Paletnologia;  
-11) Numismatica;  
-12) Epigrafia greca;  
-13) Epigrafia latina;  
-14) Egittologia;  
-15) Archeologia orientale;  
-16) Storia orientale antica;  
-17) Indologia;  
-18) Filologia iranica;  
-19) Storia dell'arte islamica;  
-20) Storia e stili dell'architettura.  
-Insegnamenti aggiuntivi:  
-1) Tecnica dello scavo;  
-2) Restauro delle opere d'arte e Museografia;  
-3) Elementi di disegno e di rilievo;  
-4) Restauro dei monumenti;  
-5) Storia greca;  
-6) Storia romana.  
-Di tali insegnamenti quelli ai numeri 3 e 4 solo per gli iscritti provenienti dalla Facolta' di lettere, quelli ai numeri 5 e 6 solo per i provenienti dalla Facolta' di architettura.  
-La Scuola di perfezionamento comprende tre indirizzi:  
-1) Archeologia e storia dell'arte greca e romana;  
-2) Archeologia italica;  
-3) Archeologia orientale.  
-Indirizzo di Archeologia e storia dell'arte greca e romana:  
+Scuola di specializzazione in fisica cosmica  
+  
+Art. 288. - Alla facolta' di scienze matematiche, fisiche e naturali e' annessa una Scuola di specializzazione in fisica cosmica avente lo scopo di dare, mediante corsi teorici e pratici, una preparazione specifica nella fisica cosmica e spaziale conferendo la qualifica di specialista a norma dell'[art. 178 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art178).  
+Art. 289. - La durata della scuola e' biennale e consistera' di insegnamenti teorici e di esercitazioni pratiche.  
+Art. 290. - Gli insegnamenti impartiti durante il biennio sono distinti in fondamentali e complementari.  
+  
 Insegnamenti fondamentali:  
-i) Archeologia e storia dell'arte greca;  
-2) Archeologia e storia dell'arte romana;  
-3) Storia e stile dell'architettura;  
-4) Storia dell'arte medioevale e moderna;  
-5) Estetica.  
-Insegnamenti complementari:  
-1) Antichita', greche e romane;  
-2) Etruscologia e archeologia italica;  
-3) Topografia dell'Italia antica;  
-4) Archeologia delle province romane;  
-5) Numismatica;  
-6) Egittologia;  
-7) Archeologia orientale;  
-5) Epigrafia greca;  
-9) Epigrafia latina.  
-Indirizzo di Archeologia italica:  
-Insegnamenti fondamentali:  
-1) Archeologia e storia dell'arte greca;  
-2) Archeologia e storia dell'arte romana;  
-3) Paletnologia;  
-4) Topografia dell'Italia antica;  
-5) Etruscologia ed archeologia italica.  
-Insegnamenti complementari:  
-1) Archeologia cristiana;  
-2) Storia e stili dell'architettura;  
-3) Antichita' greche e romane;  
-4) Numismatica;  
-5) Epigrafia greca;  
-6) Epigrafia latina;  
-7) Archeologia delle province romane;  
-8) Storia dell'arte medioevale e moderna.  
-Indirizzo di Archeologia orientale:  
-Insegnamenti fondamentali:  
-1) Archeologia orientale;  
-2) Archeologia e storia dell'arte greca;  
-3) Storia, orientale antica;  
-4) Indologia;  
-5) Storia dell'arte islamica.  
-Insegnamenti complementari:  
-1) Filologia iranica;  
-2) Archeologia e storia dell'arte romana;  
-3) Archeologia delle province romane;  
-4) Numismatica;  
-5) Egittologia;  
-6) Storia dell'arte medioevale e moderna;  
-7) Epigrafia greca.  
-Gli iscritti alla Scuola di perfezionamento in Archeologia, possono scegliere uno dei tre indirizzi previsti. Debbono sostenere sette esami per ciascun indirizzo, di cui cinque fondamentali e due complementari a scelta. Debbono altresi' seguire i corsi degli insegnamenti aggiuntivi, sui quali sosterranno un colloquio prima dell'esame fondamentale di archeologia dell'indirizzo prescelto.  
-Gli iscritti dovranno sottoporre entro il 31 gennaio del primo anno di corso, all'approvazione del direttore della Scuola, il programma, degli esami che intendono superare, con la facolta' di scegliere due insegnamenti complementari da quelli dell'indirizzo prescelto.  
-Art. 77 (gia' 76) e' sostituito dal seguente:  
+Fisica della radiazione cosmica (1° anno);  
+Astrofisica delle alte energie (2° anno);  
+Fisica solare (2° anno);  
+Fisica dello spazio (1° anno);  
+Tecniche di fisica cosmica e spaziale con esercizi di laboratorio (1° anno);  
+Modulazione cosmica e problemi di origini (2° anno).  
   
-Ai diplomi di perfezionamento in Filologia classica; in Filologia moderna, in Discipline storiche e geografiche e in Storia dell'arte possono aspirare i laureati in Lettere o in Filosofia della Facolta' di lettere e filosofia; al diploma di perfezionamento in Archeologia i laureati in Lettere o in Filosofia della Facolta' di lettere e filosofia e i laureati della Facolta' di architettura provvisti di diploma di maturita' classica; al diploma di perfezionamento in Filosofia e Pedagogia i laureati in Filosofia o in Lettere della Facolta' di lettere e filosofia e i laureati della Facolta' di giurisprudenza.  
-Art. 78 (gia' 77). - Al secondo comma sono aggiunte le seguenti parole:  
-"salvo quanto diversamente disposto per le Scuole di perfezionamento in Storia dell'arte medioevale e moderna e in archeologia".  
+Insegnamenti complementari:  
+Geomagnetismo e magnetismo interplanetario (1° anno);  
+Particelle elementari (1° anno);  
+Complementi di astrofisica (2° anno);  
+Elettronica (con esercitazioni di laboratorio) (2° anno).  
+  
+Verranno inoltre tenuti brevi cicli di lezioni su argomenti monografici e di attualita', conferenze, seminari. L'insegnamento potra' eventualmente essere integrato da visite da permanenza in laboratori specializzati.  
+Art. 291. - Sono ammessi alla scuola di specializzazione i laureati in matematica ed in ingegneria. Essi dovranno dimostrare, con un colloquio di possedere la necessaria preparazione in rapporto agli insegnamenti previsti dalla scuola.  
+Art. 292. - Le commissioni degli esami di profitto sono costituite di insegnanti della scuola secondo le vigenti norme per gli esami universitari.  
+Art. 293. - Il diploma e' rilasciato agli iscritti in base:  
+a) alla regolare frequenza dei corsi teorici e delle esercitazioni;  
+b) all'esito degli esami sostenuti sugli insegnamenti fondamentali e su almeno due complementari;  
+c) all'esame di diploma che consiste nella presentazione di una dissertazione scritta di carattere sperimentale o teorico, da sostenersi davanti ad un'apposita commissione costituita di sette insegnanti della scuola.  
+Art. 294. - Il consiglio direttivo della scuola si compone di tutti gli insegnanti della medesima; esso fa le proposte relative all'ordinamento degli studi e dell'insegnamento e da' pareri su tutti i provvedimenti riguardanti il corso stesso.  
+Art. 295. - Il consiglio direttivo di cui all'art. 271 nomina il direttore della scuola.  
+Art. 296. - Gli iscritti alla scuola sono tenuti al pagamento di una tassa di iscrizione, di una soprattassa di esame pari a quella degli studenti per il corso di laurea in fisica, di una tassa di diploma di L. 6000, a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7), e di un contributo di laboratorio, il cui ammontare sara' fissato, anno per anno, dal consiglio di amministrazione dell'universita' su proposta del consiglio direttivo della scuola stessa. Tasse e contributi serviranno al finanziamento della scuola stessa.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 febbraio 1961
+### Dato a Roma, addi' 22 maggio 1969
 
-GRONCHI BOSCO
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 27 marzo 1961
+Registrato alla Corte dei conti, addi' 1 agosto 1969
 
-Atti del Governo, registro n. 135, foglio n. 95. - VILLA
+Atti del Governo, registro n. 228, foglio n. 103. - GRECO

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1977 n. 1187
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1952 n. 4557
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1977 n. 1187
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1952 n. 4557
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
@@ -10,729 +10,1317 @@ Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), modificato con i [regi decreti 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1927-10-13;2230): [30 ottobre 1930, n. 1826](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1930-10-30;1826); [1 ottobre 1931, n. 1441](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1931-10-01;1441); [6 dicembre 1934, n. 2449](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-06;2449); [1 ottobre 1936, n. 2475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-01;2475); [27 ottobre 1937, n. 2620](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1937-10-27;2620); [5 maggio 1939, n. 1165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-05-05;1165); [12 ottobre 1939, n. 1712](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-10-12;1712); [26 ottobre 1940, n. 2057](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2057); [27 aprile 1942, n. 467](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-04-27;467); [24 ottobre 1942, n. 1439 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1439) [11 giugno 1950, n. 616](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-06-11;616); [30 ottobre 1950, n. 1127](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1127); [30 ottobre 1950, n. 1304](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1304); [30 giugno 1951, n. 957](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-30;957); [27 ottobre 1951, n. 1681](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1681) e [23 gennaio 1952, n. 168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-01-23;168);
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduto il [regio decreto 30 settembre 1938, n. 1632](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1632), e successive modificazioni;
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Firenze e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Firenze e' cosi' ulteriormente modificato:
 
-Art. 49 - all'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:
+L'attuale art. 77, relativo al corso di laurea in fisica, ultimo comma, e' sostituito dal seguente: , "Lo studente non puo' sostenere gli esami di 3° anno di esercitazioni di fisica sperimentale senza aver superato quelli di esercitazioni di fisica sperimentale del 1° e del 2° anno del corso".
 
-storia della filosofia del Rinascimento;
+Gli articoli dell'attuale statuto dal n. 196 al 220 sono abrogati e sostituiti dai seguenti Scuole di specializzazione annesse alla Facolta' di medicina chirurgica.
 
-filosofia della politica;
+Art. 196. - Per essere iscritti alle scuole di specializzazione della Facolta' di medicina chirurgica occorre avere conseguito la laurea in medicina e chirurgia ed il titolo di abilitazione all'esercizio professionale.
 
-etnologia;
+Non si puo' essere iscritti contemporaneamente a piu' di una scuola di specializzazione.
 
-sociologia;
+Art. 197. - Per essere ammessi a frequentare il primo anno di ciascuna scuola di specializzazione occorre avere superato dinanzi ad una Commissione di tra membri, presieduta dal direttore della scuola, un esame di ammissione che potra' consistere in prove scritte ed orali, a scelta del direttore, dirette ad accertare la cultura medico-chirurgica generale del candidato. Potranno essere esclusi da detta prova di esame coloro che vengono iscritti con abbreviazione di corso.
 
-psicologia sociale;
+La Commissione per l'esame di ammissione e' composta dal direttore della scuola, che la presiede, e da altri due insegnanti della scuola medesima.
 
-psicologia dell'eta' evolutiva;
+Art. 198. - Potranno essere concesse abbreviazioni di corso nelle varie scuole di specializzazione a quegli aspiranti che ne facciano domanda e che dimostrino di essere stati assistenti effettivi o assistenti volontari di nomina rettoriale per un determinato numero di anni presso una clinica od un istituto universitario, ovvero assistenti effettivi preso una divisione ospitaliera di un grande ospedale, della stessa materia cui si riferisce la specializzazione prescelta.
 
-pedagogia sperimentale;
+Art. 199. - La frequenza della scuola di specializzazione e' obbligatoria. Non potra' essere rilasciata la firma di frequenza dal direttore della scuola a quegli iscritti che non abbiano frequentato per un periodo da lui giudicato sufficiente. Mancando la firma di frequenza l'iscritto non potra' essere ammesso a sostenere gli esami speciali di quell'anno di corso e percio' l'anno di corso dovra' essere ripetuto.
 
-grammatica italiana;
+Art. 200. - Al termine di ogni anno di corso l'iscritto dovra' sostenere gli esami speciali prescritti dal regolamento della scuola dinanzi ad una Commissione di tre membri, presieduta dal direttore della scuola.
 
-storia e critica del cinema;
+Alla fine dell'ultimo anno di corso oltre gli esami speciali l'iscritto dovra' sostenere un esame di diploma che consistera' nella presentazione di una tesi scritta e nella sua discussione dinanzi ad una Commissione di sette membri, nominata dal Consiglio della facolta' e presieduta dal direttore della scuola
 
-linguistica romanza;
+Art. 201. - Il numero minimo e massimo degli iscritti alle varie scuole di specializzazione verra' fissato di anno in anno, entro il mese di giugno, dal Consiglio della facolta' medico-chirurgica dietro proposta del direttore della scuola, tenendo conto delle attrezzature scientifiche e didattiche della scuola medesima e sara' pubblicato nel manifesto che verra' affisso nell'albo dell'Universita'.
 
-letteratura italiana del Rinascimento;
+Art. 202. - La direzione di ciascuna scuola di specializzazione spetta al professore titolare della materia oggetto della specializzazione, sia esso di ruolo, ovvero incaricato.
 
-epigrafia greca;
+Gli incarichi di insegnamento nelle varie scuole di specializzazione sono affidati, anno per anno, dalla Facolta' medico chirurgica dietro proposta del direttore della singola scuola.
 
-epigrafia latina;
+Art. 203. Per le scuole di specializzazione si esigono le tasse di immatricolazione, di iscrizione e di diploma nella misura che la legge stabilisce per la Facolta' di medicina e chirurgia, oltre gli eventuali contributi di laboratorio e di gabinetto da approvarsi dal Consiglio di facolta'.
 
-topografia dell'Italia antica;
+Art. 204. - Le scuole di specializzazione sono le seguenti:
 
-iconografia e iconologia.
+1) Scuola di specializzazione in pediatria e puericultura;
 
-Art. 50 - all'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:
+2) Scuola di specializzazione in ostetricia e ginecologia;
 
-storia della filosofia del Rinascimento;
+3) Scuola di specializzazione in oculistica;
 
-fondamenti della matematica;
+4) Scuola di specializzazione in malattie veneree e della pelle;
 
-fondamenti della fisica;
+5) Scuola di specializzazione in medicina legale e delle assicurazioni;
 
-filosofia della politica;
+6) Scuola di specializzazione in otorinolaringoiatria;
 
-etnologia;
+7) Scuola di specializzazione in radiologia medica e radioterapia;
 
-sociologia;
+8) Scuola di specializzazione in odontoiatria e protesi dentaria;
 
-psicologia sociale;
+9) Scuola di specializzazione in malattie cardiovascolari e reumatiche;
 
-psicologia dell'eta' evolutiva;
+10) Scuola di specializzazione in endocrinologia e malattie del ricambio;
 
-pedagogia sperimentale;
+11) Scuola di specializzazione in anestesia;
 
-storia e critica del cinema;
+12) Scuola di specializzazione in chirurgia generale;
 
-linguistica romanza;
+13) Scuola di specializzazione in ortopedia e traumatologia;
 
-letteratura italiana del Rinascimento;
+14) Scuola di specializzazione in malattie nervose e mentali;
 
-iconografia e iconologia.
+15) Scuola di specializzazione in igiene;
 
-Art. 51 - all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne sono aggiunti i seguenti:
+16) Scuola di specializzazione in medicina tossicologica.
 
-storia e critica del cinema;
+Scuola di specializzazione in pediatria e puericultura
 
-linguistica romanza;
+Art. 205. - a) La durata del corso degli studi per il conseguimento del diploma di specialista in pediatria e puericultura e' di due anni.
 
-letteratura italiana del Rinascimento;
+b) Gli insegnamenti della scuola sono cosi' ripartiti nei due anni di corso:
 
-iconografia e iconologia;
+1° anno:
 
-lingua e letteratura serbocroata;
+Clinica pediatrica;
 
-lingua e letteratura ucraina.
+Puericultura;
 
-Art. 73 - all'elenco degli insegnamenti complementari del corso di laurea in chimica sono aggiunti i seguenti:
+Anatomia umana;
 
-Indirizzo organicobiologico:
+Fisiologia;
 
-chimica dei composti eterociclici;
+Farmacologia;
 
-stereochimica organica;
+Immunologia.
 
-impianti industriali chimici;
+2° anno:
 
-chimica dei composti elementorganici.
+Clinica pediatrica;
 
-Indirizzo inorganico chimico-fisico:
+Puericultura;
 
-impianti industriali chimici;
+Clinica chirurgica pediatrica;
 
-chimica dei composti elementorganici.
+Dermatologia;
 
-L'art. 74 e' soppresso e sostituito dal seguente:
+Microbiologia;
 
-"Gli insegnamenti biennali di istituzioni di matematiche, esercitazioni di matematica, chimica generale.
+Radiologia;
 
-ed inorganica, chimica organica, chimica fisica, esercitazioni di chimica fisica, fisica, importano un esame alla fine di ciascun anno di corso".
+Psicologia e neuropsichiatria infantile.
 
-Art. 76 - all'elenco degli insegnamenti complementari del corso di laurea in fisica sono aggiunti i seguenti:
+c) Al termine di ciascun anno dei corso l'iscritto dovra' sostenere un esame di profitto teorico e pratico sulle materie che sono state oggetto di insegnamento nel corso dell'anno.
 
-fisica atomica e molecolare;
+d) L'esame per il conseguimento del diploma di specialita' consistera' in una discussione clinica sul malato e nella discussione di una tesi scritta sopra argomento pediatrico assegnato dai direttore della scuola all'inizio del secondo anno di corso. L'esame potra' essere integrato da interrogazioni sul argomenti trattati durante i due anni di corso.
 
-fisica dello stato solido;
+e) Durante i due anni accademici l'iscritto e' obbligato a frequentare come medico interno la clinica pediatrica.
 
-elettronica quantistica;
+Scuola di specializzazione in ostericia e ginecologia
 
-filosofia della scienza;
+Art. 206. - a) La durata del corso degli studi per il conseguimento del diploma di specialista in ostetricia e ginecologia e' di quattro anni.
 
-teoria dei campi.
+b) Gli insegnamenti impartiti nella scuola sono cosi' distribuiti nei quattro anni di corso:
 
-Nello stesso elenco sono soppressi gli insegnamenti di:
+1° anno:
 
-geodesia elettronica;
+Anatomia ed embriologia dei genitali femminili;
 
-meccanica analitica.
+Fisiologia dell'apparato genitale femminile;
 
-L'art. 78, relativo al corso di laurea in matematica, e' modificato nel senso che dopo l'insegnamento "5) calcoli numerici e grafici" sono soppressi i primi due commi.
+Fisiologia della gravidanza, parto, puerperio;
 
-Inoltre, dopo l'insegnamento complementare "12) analisi numerica (2)" sono aggiunti i seguenti insegnamenti complementari:
+Semeiotica ostetrico-ginecologica;
 
-13) calcolo delle variazioni;
+Esame di laboratorio.
 
-14) equazioni differenziali;
+2° anno:
 
-15) processi stocastici;
+Anatomia patologica dei genitali femminili;
 
-16) teoria dei gruppi;
+Clinica ostetrico-ginecologica;
 
-17) teoria matematica dei controlli;
+Operazioni ostetriche.
 
-18) algebra commutativa;
+3° anno:
 
-19) analisi complessa;
+Tecniche di laboratorio applicate alle diagnosi ostetriche;
 
-20) matematica combinatoria.
+Clinica ostetrico-ginecologica
 
-Dopo l'insegnamento "9) analisi numerica (1)" per l'indirizzo applicativo, sono aggiunti i seguenti insegnamenti:
+Elementi di radiologia e radioterapia ginecologica.
 
-10) equazioni differenziali;
+4° anno:
 
-11) linguaggi programmativi;
+Clinica ostetrico-ginecologica;
 
-12) processi stocastici;
+Tecnica operatoria ginecologica;
 
-13) teoria matematica dei controlli;
+Nozioni di urologia ginecologica e tecnica cistoscopica.
 
-14) calcolo delle variazioni;
+c) Al termine di ciascun anno di corso l'iscritto dovra' sostenere un esame di profitto teorico e pratico sulle materie che sono state oggetto di insegnamento durante il corso dell'anno.
 
-15) biomatematica.
+d) L'esame per il conseguimento del diploma di specialista consistera' in una discussione clinica sopra un caso di ostetricia e di ginecologia e nella discussione di una tesi scritta sopra un argomento vertente o nel campo dell'ostetricia o nel campo della ginecologia.
 
-Dopo l'insegnamento "8) struttura della materia" viene soppresso il primo comma.
+e) Durante gli anni di corso e' obbligatorio l'internato nella clinica ostetrico-ginecologica con servizio effettivo e continuativo.
 
-Inoltre, nello stesso articolo, e' soppressa la frase "Nel terzo anno lo studente deve seguire almeno quattro corsi".
+Scuola di specializzazione in oculistica
 
-L'art. 79 e' modificato nel senso che l'ultimo comma e' soppresso.
+Art. 207. - a) La durata del corso degli studi per il conseguimento del diploma di specialista in oculistica e' di tre anni.
 
-Inoltre al terzo comma e' aggiunta la seguente frase:
+b) Gli insegnamenti della scuola sono cosi' ripartiti nei tre anni di corso:
 
-"Eventuali deroghe potranno essere prese in considerazione in base alla [legge n. 910 dell'11 dicembre 1969](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910)".
+1° anno
 
-Art. 80 - all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:
+Embriologia;
 
-algologia;
+Anatomia e fisiologia dell'apparato oculare;
 
-micologia.
+Ottica fisiologica;
 
-Art. 82 - all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:
+Diottrica oculare;
 
-biofisica;
+Patologia e clinica oculistica;
 
-citogenetica;
+Semeiotica oculare;
 
-immunologia;
+Oftalmoscopia;
 
-virologia.
+Tecnica operatoria.
 
-Art. 84 - all'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti i seguenti:
+2° anno:
 
-analisi mineralogica;
+Patologia oculare e semeiotica oculare;
 
-minerogenesi;
+Clinica oculistica (inclusa la traumatologia);
 
-geochimica applicata;
+Oftalmoscopia;
 
-geofisica applicata.
+Tecnica operatoria;
 
-Nello stesso articolo l'insegnamento complementare di fotogeologia e rilevamento geologico e' soppresso sostituito dai seguenti:
+Istopatologia oculare;
 
-fotogeologia;
+Sierologia.
 
-rilevamento geologico.
+3° anno:
 
-Art. 89 - il secondo comma e' soppresso e sostituito dal seguente: "I candidati per l'esame di laurea in scienze geologiche che devono sostenere una prova di cultura".
+Clinica oculistica;
 
-Art. 113 - all'elenco degli insegnamenti complementare del corso di laurea in farmacia sono aggiunti i seguenti:
+Diagnostica oftalmoscopica;
 
-patologia generale;
+Infortunistica oculare;
 
-farmacognosia;
+Tecnica operatoria;
 
-chemioterapia;
+Neuropatologia oculare;
 
-tossicologia;
+Radiologia oculare.
 
-stechiometria.
+c) Al termine di ciascun anno di studio l'allievo dovra' sostenere una prova orale sugli insegnamenti impartiti nell'anno ed una prova pratica sul malato con esami di laboratorio.
 
-L'art. 124 e' soppresso e sostituito dal seguente:
+d) Per il conseguimento del diploma di specialista il candidato dovra' sostenere una discussione sopra un caso clinico e la discussione di una tesi.
 
-"L'esame di laurea in farmacia consiste nella discussione di una tesi di laurea sperimentale o compilativa".
+e) Oltre a seguire le lezioni cattedratiche e le esercitazioni, gli allievi sono tenuti a frequentare, come interni, la clinica oculistica e gli ambulatori da questa dipendenti.
 
-Art. 127 - all'elenco degli insegnamenti complementari del corso di laurea in chimica e tecnologia farmaceutiche sono aggiunti i seguenti:
+Scuola di specializzazione in malattie veneree e della pelle
 
-farmacognosia;
+Art. 208. - a) La durata del corso degli studi per il conseguimento del diploma di specialista in dermatologia e venereo-sifilografia e' di tre anni.
 
-chemioterapia;
+b) Gli insegnamenti della scuola sono cosi' suddivisi nei tre anni di corso:
 
-tossicologia;
+1° anno:
 
-chimica dei composti eterociclici.
+Anatomia della pelle, degli organi genitali e dell'apparato escretore;
 
-Art. 151 - all'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti i seguenti:
+Fisiologia della pelle, delle mucose, dell'apparato genitale maschile e femminile e dell'apparato escretore;
 
-tecnica vivaistica (sem.);
+Patologia generale dell'infiammazione dei processi degenerativi dei tumori;
 
-sottoprodotti delle industrie agrarie alimentari;
+Allergia. Malattie di adattamento;
 
-industrie agrarie tropicali e sub-tropicali;
+Fisiopatologia della pelle dell'apparato genitale e dell'apparato escretore (con particolare riferimento alla vescica e all'uretra);
 
-prodotti chimici in agricoltura;
+Studio delle lesioni dermatologiche elementari nei riguardi clinici, istopatologici e fisiopatologici;
 
-istituzioni di diritto privato;
+Semeiotica dermatologica;
 
-storia dell'agricoltura e del movimento contadino.
+Tecnica di laboratorio;
 
-L'art. 157 e' soppresso e sostituito dal seguente:
+Istopatologia, microbiologia, sierologia, chimica biologica. 2° anno:
 
-"L'esame di laurea consiste nella dissertazione orale di una dissertazione scritta svolta sopra un argomento scelto dal candidato ed approvato dal professore delle materie alle quali la dissertazione si riferisce.
+Clinica delle malattie cutanee e veneree.
 
-La domanda per l'ammissione agli esami di laurea deve essere presentata almeno un mese prima della data fissata per gli esami stessi.
+3° anno:
 
-All'atto della presentazione delle domande deve essere depositata nella segreteria della facolta' la dissertazione scritta in tre esemplari dattilografati".
+Clinica delle malattie cutanee e veneree;
 
-Dopo l'art. 330, con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione delle scuole dirette a fini speciali di preparazione per tecnici di colpocitologia e di ortottisti e assistenti di oftalmologia presso la facolta' di medicina e chirurgia.
+Dermatosi infantile;
 
-Scuola diretta a fini speciali di preparazione per tecnici di colpocitologia
+Dermatosi professionali;
 
-Art. 331. - E' istituita presso la cattedra di clinica ostetrica e ginecologica dell'Universita' di Firenze ai sensi dell'art. 20 del testo unico delle leggi sulla istruzione universitaria 31 agosto 1933, n. 1592, una scuola di preparazione per citotecnici, che ha lo scopo di preparare adeguatamente personale tecnico nel campo della diagnostica precoce per tumori.
+Igiene e disposizioni legislative;
 
-La scuola ha indirizzo teorico-pratico e la durata del corso degli studi e' di due anni.
+Terapia medica e chirurgica;
 
-Il titolo di ammissione deve essere il diploma di scuola media unica, ovvero il diploma di avviamento professionale, commerciale o industriale o agrario o ad altro indirizzo.
+Terapia fisica (con particolare riferimento alla Roentgen-curieterapia).
 
-Le tasse e contributi che gli iscritti sono tenuti a pagare sono:
+c) Al termine di ciascun anno di corso, nel sostenere gli esami speciali sugli insegnamenti impartiti durante l'anno, l'allievo dovra' praticare la, visita di almeno due malati della specialita', discuterne la diagnosi e la cura, nonche' illustrare un preparato istologico ed eseguire una prova di laboratorio.
 
-tassa di immatricolazione . . . . . . . . . . . . . . . L. 5.000 tassa di iscrizione. . . . . . . . . . . . . . . . . . L. 18.000 soprattassa annuale di esami . . . . . . . . . . . . . L. 7.000 tassa erariale di diploma. . . . . . . . . . . . . . . L. 6.000 contributo di laboratorio. . . . . . . . . . . . . . . L. 80.000 libretto . . . . . . . . . . . . . . . . . . . . . . . L. 1.000 soprattassa esame di diploma . . . . . . . . . . . . . L. 3.000
+d) Al termine del corso l'esame per il conseguimento del diploma consistera' nella discussione di un caso clinico e nella discussione di una tesi scritta sopra un argomento della specialita'.
 
-Alla frequenza della scuola per tecnici di colpocitologia si accede previo esame di cultura generale davanti ad una commissione composta dal direttore della scuola e da due insegnanti della stessa.
+e) Nei tre anni di corso e' obbligatoria la frequenza dell'allievo nella clinica per l'intero anno solare, con gli stessi obblighi cui sono tenuti gli assistenti volontari.
 
-L'esame di ammissione e la valutazione dei titoli ha luogo entro la prima quindicina del mese di ottobre di ciascun anno, in un giorno stabilito dalla facolta' di medicina e chirurgia, e proposto dal direttore della scuola.
+Scuola di specializzazione in medicina legale e delle assicurazioni
 
-Il numero massimo dei partecipanti e' di 20 per anno di corso.
+Art. 209. - a) La durata del corso degli studi per il conseguimento del diploma di specialista in medicina legale e delle assicurazioni e' di due anni.
 
-Il direttore della scuola e' il titolare della cattedra di clinica ostetrica e ginecologica dell'Universita' di Firenze o, su proposta di quest'ultimo, un altro docente della facolta' di medicina e chirurgia di Firenze, nominato dalla facolta' stessa.
+b) Gli insegnamenti della scuola sono cosi' ripartiti nei due anni di corso:
 
-La scuola per il funzionamento si avvale della collaborazione dell'istituto di anatomia e istologia patologica dell'Universita' di Firenze.
+1° anno:
 
-Gli insegnanti della scuola devono essere proposti dal direttore della stessa, approvati dalla facolta' di medicina e chirurgia e nominati dal rettore.
+Medicina legale penalistica e civilistica;
 
-Essi sono scelti fra i docenti della facolta' di medicina e chirurgia e di altre facolta' dell'Ateneo o tra persone di riconosciuta competenza, anche al di fuori dell'ambito universitario.
+Medicina legale delle assicurazioni;
 
-Le materie di insegnamento sono le seguenti:
+Tecnica delle perizie medico-legali e valutazioni infortunistiche;
 
-1° Anno:
+Tecnica diagnostica delle autopsie;
 
-citologia generale;
+Esercitazioni: 1) di laboratorio, 2) di infortunistica e di malattie professionali e del lavoro, 3) di tecnica e diagnostica delle autopsie giudiziarie.
 
-nozioni di anatomia ed istologia normale dell'apparato genitale femminile;
+2° anno:
 
-nozioni di fisiologia dell'apparato genitale femminile;
+Medicina legale penalistica, civilistica e canonistica;
 
-nozioni di anatomia ed istologia patologica dell'apparato genitale femminile;
+Medicina legale delle assicurazioni;
 
-nozioni di endocrinologia ginecologica;
+Tecnica delle perizie medico-legali e valutazioni infortunistiche;
 
-nozioni di microscopia;
+Tossicologia forense;
 
-tecnica citologica;
+Psicopatologia forense;
 
-nozioni di microbiologia (batteriologia, parassitologia, virologia) applicate alla ginecologia;
+Esercitazioni: 1) di infortunistica e malattie professionali e del lavoro,
 
-fisiocitologia ginecologica;
+2) di tecnica e diagnostica delle autopsie giudiziarie.
 
-colposcopia (I).
+c) Alla fine del 1° anno di corso l'allievo dovra' sostenere gli esami di profitto nelle seguenti materie: 1) medicina legale e delle assicurazioni,
 
-2° Anno:
+2) tecnica e diagnostica delle autopsie, 3) prove pratiche attinenti ai corsi di esercitazioni.
 
-tecnica istologica;
+Al termine del secondo anno l'allievo dovra' sostenere gli esami di profitto nelle seguenti materie: 1) medicina legale penalistica, civilistica e canonistica, 2) tecnica delle perizie medico-legali e valutazioni infortunistiche, 3) tossicologia forense, 4) psicopatologia forense, 5) prove pratiche attinenti ai corsi di esercitazioni.
 
-nozioni di istopatologia del collo dell'utero;
+d) Per il conseguimento del diploma di specialista in medicina legale e delle assicurazioni, l'allievo dovra' discutere una tesi scritta, da lui preparata nei due anni di corso.
 
-nozioni di istopatologia endometriale;
+e) Durante i due anni del corso, il direttore della scuola potra' fare svolgere o svolgere personalmente conferenze su argomenti attinenti alla specializzazione, ad integrazione delle materie obbligatorie.
 
-nozioni di citopatologia ginecologica;
+f) Gli iscritti alla scuola hanno l'obbligo di frequentare come interni l'Istituto di medicina legale e delle assicurazioni.
 
-colposcopia (II);
+Scuola di specializzazione in otorinolaringoiatria
 
-citochimica;
+Art. 210. - a) La durata del corso degli studi per il conseguimento del diploma di specialista in otorinolaringoiatria e' di tre anni.
 
-medicina sociale ed educazione sanitaria;
+b) Le materie di insegnamento durante i tre anni del corso sono cosi' suddivise:
 
-nozioni di isto e citopatologia mammaria;
+1° anno:
 
-tecniche di diagnosi precoce del carcinoma mammario;
+Anatomia ed embriologia dell'orecchio e delle prime vie aeree e digerenti;
 
-citopatologia peritoneale;
+Fisiologia dell'orecchio;
 
-urocitogramma in ginecologia;
+Semeiotica otorinolaringologica.
 
-cito, isto e colpo-fotografia.
+2° anno:
 
-Gli iscritti alla scuola hanno l'obbligo di frequenza alle lezioni delle singole materie e devono seguire un tirocinio pratico nel laboratorio di citologia e nell'ambulatorio di colposcopia della clinica ostetrica e ginecologica dell'Universita' per l'intera durata del corso.
+Nozioni di patologia generale e di anatomia patologica con speciale riguardo alla otorinolaringoiatria;
 
-I programmi di insegnamento e gli orari sono predisposti dal direttore della scuola ed approvati dal consiglio della facolta' di medicina e chirurgia.
+Patologia speciale otorinolaringoiatrica.
 
-La sorveglianza degli iscritti per quanto riguarda la loro attivita' teorica e pratica e' svolta dal direttore della scuola in collaborazione con gli insegnanti.
+3° anno:
 
-Assenze ingiustificate comportano l'esclusione dal corso.
+Nozioni di clinica oculistica, di clinica neurologica e di clinica chirurgica generale particolarmente attinenti alla clinica otorinolaringoiatrica;
 
-Per essere ammessi a frequentare gli insegnamenti delle materie del secondo anno gli iscritti devono avere sostenuto con esito favorevole gli esami delle singole materie del primo anno. Gli esami si terranno nel mese di giugno e come secondo appello nel mese di settembre.
+Diagnostica e terapia medica e chirurgica otorinolaringoiatrica.
 
-Le commissioni per gli esami sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola.
+c) Al termine di ciascun anno del corso l'allievo dovra' sostenere un esame teorico e pratico sulle materie che sono state oggetto di insegnamento durante quell'anno.
 
-Le commissioni sono composte da tre membri: il direttore della scuola, presidente, l'insegnante della materia in esame e un altro docente della scuola.
+d) Per il conseguimento del diploma di specialista di clinica otorinolaringoiatrica, l'allievo dovra' sostenere una discussione sopra un caso clinico della specialita', oltre alla discussione di una tesi scritta su argomento specialistico.
 
-Ogni commissario ha a sua disposizione 10 punti.
+e) Gli iscritti al corso di specializzazione dovranno frequentare i reparti e gli ambulatori della clinica con gli stessi obblighi degli assistenti.
 
-L'esame di diploma consiste in una prova orale sui temi trattati durante il corso ed in una o piu' prove pratiche stabilite dalla commissione giudicatrice.
+Scuola di specializzazione in radiologia medica e radioterapia
 
-L'esame di diploma viene sostenuto davanti ad una commissione composta di cinque membri: quattro membri scelti fra i docenti della scuola, nominati dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola, un membro nella persona del medico provinciale, in rappresentanza della regione.
+Art. 211. - a) La durata del corso degli studi per il conseguimento del diploma di specialista in radiologia medica e radioterapia e' di due anni.
 
-Ogni commissario ha a disposizione 10 punti.
+b) Gli insegnamenti impartiti nella scuola sono cosi' suddivisi nei due anni di corso:
 
-I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza della scuola.
+1° anno:
 
-Agli allievi che avranno superato l'esame finale viene rilasciato un diploma di tecnico di colpocitologia.
+Anatomia e fisiologia radiologiche;
 
-Scuola diretta a fini speciali per ortottisti e assistenti di
+Fisica delle radiazioni ionizzanti;
 
-oftalmologia
+Tecnica della radiodiagnostica e radioterapeutica;
 
-Art. 332. - E' istituita presso la facolta' di medicina e chirurgia dell'Universita' di Firenze una scuola speciale di preparazione per ortottisti-assistenti di oftalmologia che ha sede presso la clinica oculistica di questa facolta'.
+Radiobiologia.
 
-Art. 333. - La scuola ha lo scopo di dare una preparazione completa, teorico-pratica, istruendo gli allievi sui problemi della motilita' oculare, della ambliopia, delle tecniche diagnostiche della visione binoculare, del trattamento pre o post-operatorio dei pazienti strabici; dei problemi sui vizi di refrazione e della loro correzione e sulle tecniche diagnostiche in oftalmologia.
+2° anno:
 
-La durata del corso per conseguire il diploma di ortottista-assistente di oftalmologia e' di tre anni.
+Roentgendiagnostica dell'apparato respiratorio;
 
-Ne sono titoli di ammissione il possesso di un diploma legalmente valido ai fini della iscrizione all'Universita' ai sensi dell'[art. 1 della legge n. 910 dell'11 dicembre 1969](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1) e la conoscenza di una lingua straniera (inglese, francese, tedesco, spagnolo).
+Roentgendiagnostica dell'apparato cardiovascolare;
 
-Art. 334. - Gli aspiranti all'iscrizione al primo anno di corso sono tenuti a sostenere un esame di ammissione consistente in una prova di cultura generale B in una prova per la conoscenza della lingua straniera.
+Roentgendiagnostica dell'apparato scheletrico e delle articolazioni;
 
-E' richiesto un certificato di sana e robusta costituzione, con particolare riguardo alla funzione visiva.
+Roentgendiagnostica dell'apparato urogenitale;
 
-Art. 335. - Le attivita' didattiche della scuola sono coordinate dal direttore, su proposta del consiglio direttivo della scuola, composto da tutti i docenti incaricati di un insegnamento della scuola stessa e presieduto dal direttore.
+Roentgendiagnostica dell'apparato digerente e ghiandole annesse;
 
-Art. 336. - Il numero massimo complessivo degli iscritti alla scuola e' di 24. Il consiglio direttivo determinera' anno per anno il numero degli allievi da ammettere al primo anno.
+Roentgendiagnostica del cranio e del sistema nervoso;
 
-Qualora le domande di iscrizione fossero in numero superiore al numero massimo previsto, il consiglio della scuola si riserva di provvedere ad una scelta tra gli idonei in base ai risultati delle prove di ammissione: gli idonei possono essere ammessi anche in soprannumero in rapporto a posti che si rendessero vacanti nel corso del secondo e terzo anno. I ripetenti e i fuori corso, qualora riprendano gli studi, sono riammessi in soprannumero.
+Roentgenterapia e radiumterapia.
 
-Art. 337. - Il direttore della scuola e' nominato dal consiglio della facolta' di medicina e chirurgia dell'Universita' di Firenze su proposta del consiglio direttivo della scuola e dura in carica tre anni. I docenti della scuola sono nominati dallo stesso consiglio di facolta' su proposta del direttore della scuola.
+c) Il corso di lezioni sara' integrato da conferenze di aggiornamento nei vari campi della biologia e dalla clinica.
 
-Art. 338. - L'anno accademico ha inizio e termine nelle date stabilite dalle leggi in vigore per l'istruzione universitaria. La frequenza e' obbligatoria.
+d) Al termine di ciascun anno del corso l'allievo dovra' sostenere un esame di profitto sulle materie che sono state oggetto di insegnamento.
 
-Art. 339. - Il corso comprende lezioni teoriche ed esercitazioni, pratiche. Le materie di insegnamento sono le seguenti:
+e) Per il conseguimento del diploma, l'allievo dovra' sostenere dinanzi all'apposita Commissione la discussione di una tesi scritta su argomento di radiodiagnostica e radioterapia.
 
-1° Anno:
+f) Ogni allievo ha l'obbligo di un internato di almeno quattro mesi per ciascun anno nei vari reparti dell'Istituto.
 
-1) elementi di anatomia dell'apparato visivo e del S.N.C.;
+Scuola di specializzazione in odontoiatria e protesi dentaria
 
-2) fisiologia dell'occhio, della motilita' oculare, della visione binoculare;
+Art. 212. - a) La durata del corso degli studi per il conseguimento del diploma di specialista in odontoiatria e protesi dentaria e' di due anni.
 
-3) ottica fisica e fisiopatologica;
+b) Gli insegnamenti della scuola sono cosi' ripartiti nei due anni del corso:
 
-4) ortottica I;
+1° anno:
 
-5) psicologia infantile.
+Clinica e patologia stomatologica;
 
-2° Anno:
+Anatomia e istologia orale;
 
-1) elementi di patologia oculare;
+Anestesiologia e chirurgia dentale;
 
-2) elementi di farmacologia oculare;
+Fisiologia orale;
 
-3) elementi di neurooftalmologia;
+Microbiologia ed igiene orale;
 
-4) nozioni di chirurgia ed assistenza oftalmica;
+Odontoiatria conservativa e materia medica stomatologica;
 
-5) ortottica II.
+Protesi dentaria e odontotecnica;
 
-3° Anno:
+Radiologia stomatologica.
 
-1) tecniche semeiologiche dell'apparato visivo I (es. refrazione, contattologia, adattometria, campo visivo, senso cromatico);
+2° anno:
 
-2) tecniche semeiologiche ed elettrofisiologiche (tonometria e tonografia; ERG, EOG, EMG; ecografia; retinografia e fluoroangiografia);
+Clinica e patologia stomatologica;
 
-3) ortottica III;
+Odontoiatria infantile;
 
-4) nozioni di riabilitazione senso motorio nell'eta' infantile;
+Chirurgia orale;
 
-5) legislazione sanitaria.
+Ortopedia dento-facciale;
 
-Art. 340. - L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni e dall'obbligo, per gli allievi, dell'internato per l'intero periodo di corso di studi nella clinica oculistica. La frequenza viene comprovata dall'attestazione rilasciata sul libretto di iscrizione dagli insegnanti e per l'attivita' pratica dal direttore della scuola. L'attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.
+Esercitazioni clinico-pratiche;
 
-Art. 341. - Alla fine di ogni anno gli allievi devono sostenere un esame sulle materie di insegnamento. Nel caso in cui i candidati non abbiano superato gli esami prescritti, essi rimarranno nella posizione di ripetenti.
+Odontoiatria conservativa;
 
-Art. 342. - Gli esami di profitto consistono in prove teoriche e pratiche.
+Protesi odontotecnica.
 
-Art. 343. - Alla fine del corso gli allievi debbono sostenere un esame di diploma che consiste nella discussione di una tesi scritta su un argomento riguardante le materie di insegnamento, assegnata dal direttore della scuola e in una prova pratica stabilita da una commissione esaminatrice. I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola ma se al secondo anno non sia loro riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove.
+c) Durante gli anni del corso saranno tenute anche conferenze di carattere complementare su argomenti di patologia e clinica medica, di clinica pediatrica, di clinica otorinolaringoiatrica e di clinica oculistica.
 
-Art. 344. - Gli esami di profitto e di diploma vengono sostenuti in due sessioni, la prima estiva, che ha inizio subito dopo la chiusura annuale dei corsi e la seconda, autunnale, nel mese che precede l'inizio del nuovo anno accademico.
+d) Alla fine di ciascun anno di corso gli allievi dovranno sostenere un esame di profitto, teorico e pratico, sulle materie che sono state oggetto di insegnamento.
 
-Art. 345. - Le commissioni per gli esami di ammissione, di profitto e di diploma sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Le commissioni per gli esami di ammissione e di profitto sono composte da tre membri: dal direttore della scuola, presidente, e da due insegnanti della scuola stessa. La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente, e da quattro scelti fra gli insegnanti della scuola stessa o altri docenti.
+e) Per il conseguimento del diploma e' obbligatoria altresi' la discussione, dinanzi all'apposita Commissione, di una tesi scritta.
 
-Art. 346. - Le tasse e soprattasse annuali a carico degli iscritti restano cosi' destinate:
+f) Gli allievi hanno l'obbligo dell'internato nella clinica odontoiatrica.
 
-tassa annuale di iscrizione . . . . . . . . . . . . . . L. 18.000 sopratassa annuale di esame . . . . . . . . . . . . . . L. 7.000 tassa erariale di diploma . . . . . . . . . . . . . . . L. 6.000 tassa annuale per iscrizione studenti fuori corso . . . L. 15.000 contributi di laboratorio . . . . . . . . . . . . . . . L. 80.000
+Scuola di specializzazione in malattie cardiovascolare e reumatiche
 
-Art. 347. - Al funzionamento della suddetta scuola si provvedera' con il provento dei contributi dovuti dagli iscritti e con eventuali elargizioni o contributi di enti pubblici o privati.
+Art. 213. - a) La durata del corso degli studi per il conseguimento del diploma di specializzazione in malattie cardiovascolari e reumatiche e' di tre anni.
 
-Art. 348. - Per la retribuzione dei docenti si provvedera' secondo quanto previsto per le scuole di specializzazione dell'Universita' di Firenze.
+b) Gli insegnamenti della scuola sono cosi' ripartiti nei tre anni di corso
 
-Art. 349. - Sono ammessi al terzo anno della scuola, con l'obbligo di tutti gli esami del terzo anno e della tesi, le diplomate delle scuole speciali per ortottiste ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20), purche' abbiano esercitato con continuita' una attivita' professionale adeguata e documentata.
+1° anno:
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+1) Anatomia;
 
-Dato a Roma, addi' 19 ottobre 1977
+2) Fisiologia del cuore e dei vasi;
 
-LEONE
+3) Igiene e statistica;
 
-MALFATTI
+4) Metodiche funzionali;
 
-Visto, il Guardasigilli: BONIFACIO
+5) Patologia e clinica medica;
+
+6) Patologia generale;
+
+7) Batterio-immunologia.
+
+2° anno:
+
+1) Farmacologia;
+
+2) Anatomia patologica;
+
+3) Radiologia;
+
+4) Metodiche funzionali;
+
+5) Patologia e clinica medica.
+
+3° anno:
+
+1) Problemi assicurativo-sociali;
+
+2) Chirurgica del cuore e dei vasi;
+
+3) Radiologia;
+
+4) Metodiche funzionali;
+
+5) Patologia e clinica medica;
+
+6) Terapie speciali;
+
+7) Ortopedia.
+
+c) Oltre le lezioni di corsi sopraindicati, potranno essere tenute, dietro designazione del direttore della scuola, delle conferenze e delle dimostrazioni a classi riunite.
+
+d) Le lezioni, le dimostrazioni e le esercitazioni pratiche si svolgeranno in parte presso la clinica medica, in parte presso l'istituto di patologia medica, in conformita' dell'orario, che al principio dell'anno verra' stabilito dal direttore della scuola.
+
+e) Al termine di ciascun anno del corso l'allievo dovra' sostenere un esame teorico-pratico sulle materie che sono state oggetto di insegnamento durante il corso dell'anno.
+
+f) Al termine del triennio per il conseguimento del diploma di specialista l'allievo dovra' sostenere dinanzi alla Commissione la discussione di un caso clinico e la, discussione di una tesi scritta sopra argomento riguardante malattie dell'apparato cardio-vascolare o delle malattie reumatiche.
+
+g) Durante i tre anni del corso gli allievi dovranno frequentare assiduamente, a turno, le infermiere e gli ambulatori della clinica medica, e dell'Istituto di patologia medica.
+
+Scuola di specializzazione in endocrinologia e malattie del ricambio
+
+Art. 214. - a) La durata del corso degli studi per il conseguimento del diploma di specializzazione in malattie del ricambio e endocrinologia e' di due anni.
+
+b) Le materie di insegnamento sono cosi' suddivise fra i due anni del corso:
+
+1° anno:
+
+Anatomia delle ghiandole endocrine;
+
+Fisiologia delle ghiandole endocrine;
+
+Fisiologia della alimentazione e del ricambio;
+
+Chimica biologica Tecnica di laboratorio;
+
+Fisiopatologia endocrina;
+
+Anatomia patologica delle malattie endocrine e metaboliche;
+
+Patologia e clinica delle malattie endocrine;
+
+Patologia, e clinica delle malattie del ricambio;
+
+Genetica (eredo-patologia-diametabolica).
+
+2° anno
+
+Clinica delle malattie endocrine;
+
+Clinica delle malattie del ricambio;
+
+Terapia delle malattie endocrine;
+
+Terapia delle malattie del ricambio;
+
+Radiodiagnostica e radioterapia.
+
+c) Le lezioni, le dimostrazioni e le esercitazioni pratiche si svolgeranno in parte presso la clinica medica, in parte presso l'istituto di patologia, medica in conformita' dell'orario, che al principio dell'anno verra' stabilito dal direttore della scuola.
+
+d) Al termine di ciascun anno del corso l'allievo dovra' sostenere un esame teorico-pratico sulle materie che sono state oggetto di insegnamento durante il corso dell'anno.
+
+e) Al termine del biennio, per il conseguimento del diploma di specialista l'allievo dovra' sostenere dinanzi alla commissione la discussione di un caso clinico e la discussione di una tesi scritta sopra argomento riguardante l'endocrinologia e le malattie del ricambio.
+
+f) Durante i due anni del corso gli allievi dovranno frequentare assiduamente a turno, le infermiere e gli ambulatori della clinica medica e dell'Istituto di patologia medica.
+
+Scuola di specializzazione in anestesia
+
+Art. 215. a) La Scuola per la specializzazione in anestesia ha la durata di due anni.
+
+b) Saranno ammessi alla frequenza della scuola i laureati in medicina e chirurgia che dimostreranno di avere prestato servizio di assistentato in reparto di chirurgia generale e che avranno superato il prescritto esame di ammissione.
+
+c) Le materie di insegnamento sono cosi' suddivise nei due anni di corso:
+
+1° anno:
+
+Nozioni di fisica con particolare riguardo alle leggi di diffusibilita' e della fisica degli agenti anestetici con applicazione allo strumentario di anestesia;
+
+Chimica e farmacologia degli agenti anestitici;
+
+Anatomia (con particolare riguardo all'anatomia dell'apparato respiratorio e circolatorio e al sistema nervoso centrale e periferico);
+
+Fisiologia (con particolare riguardo alla fisiologia dell'apparato respiratorio e circolatorio e del sistema nervoso e endocrino);
+
+Cardiologia (con particolare riguardo alla indagine elettro-cardiologia e al significato della variazione della pressione arteriosa);
+
+Strumentario e tecnica della anestesia.
+
+2° anno:
+
+Patologia della respirazione e della circolazione;
+
+Patologia dell'apparato endocrino e stati diametabolici;
+
+Anestesia e suoi rapporti con la patologia;
+
+Complicazione della anestesia e tecniche della rianimazione;
+
+Nozioni di fisioterapia con particolare riguardo alla ginnastica respiratoria;
+
+Tecniche di anestesia nella chirurgia infantile, nella ostetricia e ginecologia, nella otorinolaringoiatria, nella odontoiatria, nella neurologia e nelle operazioni sul torace;
+
+Tecniche d'impiego degli anestetici in condizioni non chirurgiche (blocchi diagnostici e terapeutici, cura del dolore, alcolizzazione, ecc. d) Alla fine di ciascun anno del corso gli allievi dovranno sostenere un esame sulle materie che sono state oggetto di insegnamento nel corso dell'anno.
+
+e) Alla fine del secondo anno gli allievi dovranno sostenere una prova generale scritta su argomenti che sono stati oggetto d'insegnamento durante i due anni o discutere una tesi originale di specializzazione, nonche' sostenere una prova pratica di conduzione di una anestesia.
+
+f) Durante i due anni del corso e' obbligatoria la frequenza, della clinica chirurgica in conformita' dell'orario che sara' stabilito dalla direzione della scuola.
+
+Ogni specializzando dovra' avere partecipato durante il corso a non meno di duecento anestesie.
+
+Scuola di specializzazione in chirurgia generale
+
+Art. 216. - a) La durata del corso degli studi per il conseguimento del diploma di specialista in chirurgia generale e' di cinque anni.
+
+b) Le materie di insegnamento sono cosi' suddivise nei cinque anni del corso:
+
+1° anno:
+
+Anatomia topografica;
+
+Patologia generale;
+
+Batteriologia e sierologia;
+
+Anatomia patologica e istologia patologica;
+
+Patologia chirurgica;
+
+Semeiotica chirurgica.
+
+2° anno:
+
+Anatomia chirurgica e anatomia clinica radiologica;
+
+Anatomia patologica e istologia patologica;
+
+Chimica biologica;
+
+Patologia chirurgica;
+
+Semeiotica chirurgica.
+
+3° anno:
+
+Anatomia chirurgica e anatomia patologica;
+
+Radiologia;
+
+Patologia chirurgica;
+
+Semeiotica chirurgica;
+
+Clinica chirurgica;
+
+Terapia chirurgica.
+
+4° anno:
+
+Anatomia chirurgica;
+
+Traumatologia;
+
+Tecnica degli apparecchi gessati;
+
+Clinica chirurgica generale;
+
+Semeiotica otorinolaringoiatrica;
+
+Semeiotica ostetrico-ginecologica.
+
+5° anno:
+
+Clinica chirurgica generale;
+
+Neurologia;
+
+Ostetricia e ginecologia;
+
+Ortopedia;
+
+Medicina legale.
+
+c) Alla fine di ciascun anno del corso l'allievo dovra' sostenere un esame teorico pratico sugli insegnamenti impartiti nell'anno del corso. L'esame di clinica chirurgica comprendera' quattro prove distinte: 1) chirurgia della testa e del collo, neurochirurgia e otorinolaringoiatria; 2) chirurgia del torace; 3) chirurgia dell'addome; 4) chirurgia degli arti e traumatologia.
+
+d) Al termine del corso per la specializzazione, gli allievi dovranno sostenere dinanzi alla Commissione per l'esaine di diploma una discussione sopra a un caso clinico, nonche' la discussione di una tesi scritta sopra un argomento di chirurgia.
+
+e) Gli allievi, oltre a seguire le lezioni cattedratiche e le esercitazioni sono tenuti a frequentare come gli interni la clinica chirurgica generale.
+
+Per le discipline al di fuori della clinica chirurgica possono essere indicati, su giudizio del direttore, periodi di internato nei rispettivi istituti.
+
+Scuola di specializzazione in ortopedia e traumatologia
+
+Art. 217. - a) La durata del corso degli studi per il conseguimento del diploma di specializzazione in ortopedia e traumatologia e' di tre anni.
+
+b) Gli insegnamenti sono cosi' suddivisi nei tre anni di corso:
+
+1° anno:
+
+Anatomia degli organi del movimento;
+
+Patologia delle lesioni, deformita' e malattie degli organi di movimento;
+
+Fondamenti di radiologia e radioterapia;
+
+Radiodiagnostica;
+
+Protesi e tecnica degli apparecchi;
+
+Pediatria ortopedica.
+
+2° anno:
+
+Anatomia degli organi del movimento;
+
+Patologia delle lesioni, deformita' e malattie degli organi di movimento;
+
+Fonda menti di radiologia e radioterapia;
+
+Radiodiagnostica;
+
+Protesi e tecnica degli apparecchi;
+
+Pediatria ortopedica.
+
+3° anno:
+
+Corso di operazioni ortopediche;
+
+Terapia fisica;
+
+Clinica ortopedica e traumatologica;
+
+Infortunistica;
+
+Neuropatologia degli organi di movimento.
+
+c) Al termine di ogni anno del corso gli allievi dovranno sostenere un esame teorico-pratico sulle materie che nel corso dell'anno sono state oggetto di insegnamento.
+
+d) Al termine del triennio, per il conseguimento del diploma di specialista, l'allievo dovra' sostenere davanti alla apposita Commissione una discussione sopra uni caso clinico, oltre alla discussione di una tesi di laurea su di argomento attinente alla specialita'.
+
+e) Durante i tre anni del corso gli allievi sono tenuti a frequentare come interni la clinica ortopedica.
+
+Scuola di specializzazione in malattie nervose e mentali
+
+Art. 218. - a) La durata del corso degli studi per il conseguimento del diploma di specialista in malattie nervose e mentali e' di tre anni.
+
+b) Gli insegnamenti della scuola sono cosi' suddivisi nei tre anni di corso:
+
+1° anno
+
+Anatomia clinica del sistema nervoso;
+
+Fisiologia e fisiopatologia generale del sistema nervoso;
+
+Psicopatologia generale.
+
+2° anno:
+
+Anatomia e istologia patologica del sistema nervoso;
+
+Semeiotica neurologica e psichiatrica;
+
+Patologia speciale delle malattie nervose e mentali.
+
+3° anno:
+
+Clinica e terapia delle malattie nervose;
+
+Alti Clinica e terapia delle malattie mentali.
+
+c) Al termine di ciascun anno del corso, l'allievo dovra' sostenere un esame teorico-pratico sulle materie che sono state oggetto di insegnamento durante l'anno.
+
+d) Per il conseguimento del diploma di specialista l'allievo dovra' sostenere dinanzi all'apposita Commissione la discussione di un caso clinico e la discussione di una tesi scritta su di un argomento attinente alla specialita'.
+
+e) Durante i tre anni del corso gli allievi sono obbligati a frequentare come interni la clinica neuropsichiatrica.
+
+Scuola di specializzazione in igiene
+
+Art. 219. - a) La durata del corso degli stadi per il conseguimento del diploma di specialista in igiene e' di due anni.
+
+b) Gli insegnamenti della scuola nei due anni di corso sono cosi' suddivisi:
+
+1° anno:
+
+Igiene generale e speciale;
+
+Demografia, legislazione, polizia sanitaria-statistica;
+
+Microscopia applicata all'igiene, microbiologia, parassitologia, immunologia;
+
+Chimica e fisica applicata all'igiene;
+
+Tecnica delle autopsie e delle biopsie;
+
+Patologia e clinica delle malattie infettive;
+
+Ispezioni delle carni da macello;
+
+Istologia normale e patologica.
+
+2° anno:
+
+Igiene generale e speciale;
+
+Malattie da intossicazione, da carenza, da insalubrita', da credita' morbosa;
+
+Malattie sociali;
+
+Microscopia applicata all'igiene, microbiologia, parassitologia, ed immunologia;
+
+Patologia e clinica delle malattie infettive;
+
+Ingegneria sanitaria.
+
+c) Oltre a seguire le lezioni e le esercitazioni, gli allievi devono frequentare come interni, l'Istituto di igiene.
+
+Per le discipline che non formano oggetto della scuola, possono essere indicati su giudizio del direttore della scuola stessa, periodi di internato nei rispettivi istituti.
+
+d) Alla fine di ciascun corso l'allievo deve sostenere una prova scritta su un tema che abbracci i punti fondamentali dell'insegnamento annuo, una prova orale sugli insegnamenti impartiti durante l'anno di corso, una prova pratica consistente nella lettura e discussione di preparati in manualita' tecniche e dimostrazioni.
+
+e) Alla fine del corso l'allievo dovra' sostenere un esame finale riassuntivo e discutere una tesi.
+
+Scuola di specializzazione in medicina tossicologica
+
+Art. 220. - a) La durata del corso degli studi per il conseguimento del diploma di specialista in medicina tossicologica e' di due anni.
+
+b) Le materie di insegnamento sono cosi' suddivise nei due anni di corso:
+
+1° anno:
+
+Tecnica di prelievo e di conservazione del materiale organico con speciale riguardo a quello cadaverico;
+
+Chimica tossicologica dei metalli e dei metalloidi con particolare riguardo alla loro identificazione in presenza di materia le organico (visceri), (con esercitazioni obbligatorie): sintomatologia clinica presentata dagli avvelenamenti relativi.
+
+2° anno
+
+Clinica tossicologica dei composti organici alifatici ed aromatici e soprattutto degli alcaloidi e glucosidi che piu' frequentemente sono causa di avvelenamento (con esercitazioni obbligatorie come per il primo anno) sintomatologia clinica presentata dagli avvelenamenti relativi.
+
+c) Durante i due anni di frequenza alla scuola tutti gli ammalati che vengono ricoverati nella clinica saranno seguiti e studiati dai laureati in medicina che sono iscritti al corso: casi interessanti di intossicazioni singole o collettive potranno essere oggetto di ricerche speciali o di pubblicazioni da parte di uno o piu' iscritti al corso a seconda dei giudizio del direttore.
+
+d) Alla fine del 1° e del 2° anno avranno luogo esami speciali su gli insegnamenti impartiti e per ottenere il diploma i candidati dovranno superare un esame finale riassuntivo e discutere una tesi sperimentale (o clinica) su argomenti di tossicologia.
+
+e) L'allievo e' tenuto alla frequenza obbligatoria delle lezioni e delle esercitazioni relative oltre a partecipare a ricerche concernenti problemi di tossicologia.
+
+Per l'iscrizione al corso di specializzazione i candidati devono aver fatto almeno un anno di pratica nella clinica medica o in un reparto medico ospedaliero oppure dovranno dar prova di avere nozioni sufficienti di chimica e di semeiotica, medica nell'esame di ammissione.
+
+f) Per l'insegnamento il direttore dell'Istituto di farmacologia e clinica tossicologica potra' ricorrere alla collaborazione di altri titolari di cattedra dell'Universita', particolarmente versati su argomenti concernenti, sia pure indirettamente, la tossicologia.
+
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 26 ottobre 1952
+
+EINAUDI
+
+SEGNI
+
+Visto, il Guardasigilli: ZOLI
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 28 aprile 1978 Registro n. 44 Istruzione, foglio n. 275
+alla Corte dei conti, addi' 9 maggio 1953 Atti dei Governo, registro n. 76, foglio n. 82. - PALLA
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Firenze e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), modificato con i [regi decreti 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1927-10-13;2230): [30 ottobre 1930, n. 1826](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1930-10-30;1826); [1 ottobre 1931, n. 1441](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1931-10-01;1441); [6 dicembre 1934, n. 2449](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-06;2449); [1 ottobre 1936, n. 2475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-01;2475); [27 ottobre 1937, n. 2620](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1937-10-27;2620); [5 maggio 1939, n. 1165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-05-05;1165); [12 ottobre 1939, n. 1712](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-10-12;1712); [26 ottobre 1940, n. 2057](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2057); [27 aprile 1942, n. 467](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-04-27;467); [24 ottobre 1942, n. 1439 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1439) [11 giugno 1950, n. 616](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-06-11;616); [30 ottobre 1950, n. 1127](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1127); [30 ottobre 1950, n. 1304](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1304); [30 giugno 1951, n. 957](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-30;957); [27 ottobre 1951, n. 1681](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1681) e [23 gennaio 1952, n. 168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-01-23;168);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1632](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1632), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Firenze e' cosi' ulteriormente modificato:  
   
-Art. 49 - all'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:   
-storia della filosofia del Rinascimento;   
-filosofia della politica;   
-etnologia;   
-sociologia;   
-psicologia sociale;   
-psicologia dell'eta' evolutiva;   
-pedagogia sperimentale;   
-grammatica italiana;   
-storia e critica del cinema;   
-linguistica romanza;   
-letteratura italiana del Rinascimento;   
-epigrafia greca;   
-epigrafia latina;   
-topografia dell'Italia antica;   
-iconografia e iconologia.   
-Art. 50 - all'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:   
-storia della filosofia del Rinascimento;   
-fondamenti della matematica;   
-fondamenti della fisica;   
-filosofia della politica;   
-etnologia;   
-sociologia;   
-psicologia sociale;   
-psicologia dell'eta' evolutiva;   
-pedagogia sperimentale;   
-storia e critica del cinema;   
-linguistica romanza;   
-letteratura italiana del Rinascimento;   
-iconografia e iconologia.   
-Art. 51 - all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne sono aggiunti i seguenti:   
-storia e critica del cinema;   
-linguistica romanza;   
-letteratura italiana del Rinascimento;   
-iconografia e iconologia;   
-lingua e letteratura serbocroata;   
-lingua e letteratura ucraina.   
-Art. 73 - all'elenco degli insegnamenti complementari del corso di laurea in chimica sono aggiunti i seguenti:   
-Indirizzo organicobiologico:   
+L'attuale art. 77, relativo al corso di laurea in fisica, ultimo comma, e' sostituito dal seguente: , "Lo studente non puo' sostenere gli esami di 3° anno di esercitazioni di fisica sperimentale senza aver superato quelli di esercitazioni di fisica sperimentale del 1° e del 2° anno del corso".  
+Gli articoli dell'attuale statuto dal n. 196 al 220 sono abrogati e sostituiti dai seguenti Scuole di specializzazione annesse alla Facolta' di medicina chirurgica.  
+Art. 196. - Per essere iscritti alle scuole di specializzazione della Facolta' di medicina chirurgica occorre avere conseguito la laurea in medicina e chirurgia ed il titolo di abilitazione all'esercizio professionale.  
+Non si puo' essere iscritti contemporaneamente a piu' di una scuola di specializzazione.  
+Art. 197. - Per essere ammessi a frequentare il primo anno di ciascuna scuola di specializzazione occorre avere superato dinanzi ad una Commissione di tra membri, presieduta dal direttore della scuola, un esame di ammissione che potra' consistere in prove scritte ed orali, a scelta del direttore, dirette ad accertare la cultura medico-chirurgica generale del candidato. Potranno essere esclusi da detta prova di esame coloro che vengono iscritti con abbreviazione di corso.  
+La Commissione per l'esame di ammissione e' composta dal direttore della scuola, che la presiede, e da altri due insegnanti della scuola medesima.  
+Art. 198. - Potranno essere concesse abbreviazioni di corso nelle varie scuole di specializzazione a quegli aspiranti che ne facciano domanda e che dimostrino di essere stati assistenti effettivi o assistenti volontari di nomina rettoriale per un determinato numero di anni presso una clinica od un istituto universitario, ovvero assistenti effettivi preso una divisione ospitaliera di un grande ospedale, della stessa materia cui si riferisce la specializzazione prescelta.  
+Art. 199. - La frequenza della scuola di specializzazione e' obbligatoria. Non potra' essere rilasciata la firma di frequenza dal direttore della scuola a quegli iscritti che non abbiano frequentato per un periodo da lui giudicato sufficiente. Mancando la firma di frequenza l'iscritto non potra' essere ammesso a sostenere gli esami speciali di quell'anno di corso e percio' l'anno di corso dovra' essere ripetuto.  
+Art. 200. - Al termine di ogni anno di corso l'iscritto dovra' sostenere gli esami speciali prescritti dal regolamento della scuola dinanzi ad una Commissione di tre membri, presieduta dal direttore della scuola.  
+Alla fine dell'ultimo anno di corso oltre gli esami speciali l'iscritto dovra' sostenere un esame di diploma che consistera' nella presentazione di una tesi scritta e nella sua discussione dinanzi ad una Commissione di sette membri, nominata dal Consiglio della facolta' e presieduta dal direttore della scuola  
+Art. 201. - Il numero minimo e massimo degli iscritti alle varie scuole di specializzazione verra' fissato di anno in anno, entro il mese di giugno, dal Consiglio della facolta' medico-chirurgica dietro proposta del direttore della scuola, tenendo conto delle attrezzature scientifiche e didattiche della scuola medesima e sara' pubblicato nel manifesto che verra' affisso nell'albo dell'Universita'.  
+Art. 202. - La direzione di ciascuna scuola di specializzazione spetta al professore titolare della materia oggetto della specializzazione, sia esso di ruolo, ovvero incaricato.  
+Gli incarichi di insegnamento nelle varie scuole di specializzazione sono affidati, anno per anno, dalla Facolta' medico chirurgica dietro proposta del direttore della singola scuola.  
+Art. 203. Per le scuole di specializzazione si esigono le tasse di immatricolazione, di iscrizione e di diploma nella misura che la legge stabilisce per la Facolta' di medicina e chirurgia, oltre gli eventuali contributi di laboratorio e di gabinetto da approvarsi dal Consiglio di facolta'.  
+Art. 204. - Le scuole di specializzazione sono le seguenti:  
+1) Scuola di specializzazione in pediatria e puericultura;  
+2) Scuola di specializzazione in ostetricia e ginecologia;  
+3) Scuola di specializzazione in oculistica;  
+4) Scuola di specializzazione in malattie veneree e della pelle;  
+5) Scuola di specializzazione in medicina legale e delle assicurazioni;  
+6) Scuola di specializzazione in otorinolaringoiatria;  
+7) Scuola di specializzazione in radiologia medica e radioterapia;  
+8) Scuola di specializzazione in odontoiatria e protesi dentaria;  
+9) Scuola di specializzazione in malattie cardiovascolari e reumatiche;  
+10) Scuola di specializzazione in endocrinologia e malattie del ricambio;  
+11) Scuola di specializzazione in anestesia;  
+12) Scuola di specializzazione in chirurgia generale;  
+13) Scuola di specializzazione in ortopedia e traumatologia;  
+14) Scuola di specializzazione in malattie nervose e mentali;  
+15) Scuola di specializzazione in igiene;  
+16) Scuola di specializzazione in medicina tossicologica.  
   
-chimica dei composti eterociclici;   
-stereochimica organica;   
-impianti industriali chimici;   
-chimica dei composti elementorganici.   
+Scuola di specializzazione in pediatria e puericultura  
   
-Indirizzo inorganico chimico-fisico:   
+Art. 205. - a) La durata del corso degli studi per il conseguimento del diploma di specialista in pediatria e puericultura e' di due anni.  
+b) Gli insegnamenti della scuola sono cosi' ripartiti nei due anni di corso:  
+1° anno:  
+Clinica pediatrica;  
+Puericultura;  
+Anatomia umana;  
+Fisiologia;  
+Farmacologia;  
+Immunologia.  
+2° anno:  
+Clinica pediatrica;  
+Puericultura;  
+Clinica chirurgica pediatrica;  
+Dermatologia;  
+Microbiologia;  
+Radiologia;  
+Psicologia e neuropsichiatria infantile.  
+c) Al termine di ciascun anno dei corso l'iscritto dovra' sostenere un esame di profitto teorico e pratico sulle materie che sono state oggetto di insegnamento nel corso dell'anno.  
+d) L'esame per il conseguimento del diploma di specialita' consistera' in una discussione clinica sul malato e nella discussione di una tesi scritta sopra argomento pediatrico assegnato dai direttore della scuola all'inizio del secondo anno di corso. L'esame potra' essere integrato da interrogazioni sul argomenti trattati durante i due anni di corso.  
+e) Durante i due anni accademici l'iscritto e' obbligato a frequentare come medico interno la clinica pediatrica.  
   
-impianti industriali chimici;   
-chimica dei composti elementorganici.   
-L'art. 74 e' soppresso e sostituito dal seguente:   
-"Gli insegnamenti biennali di istituzioni di matematiche, esercitazioni di matematica, chimica generale.   
-ed inorganica, chimica organica, chimica fisica, esercitazioni di chimica fisica, fisica, importano un esame alla fine di ciascun anno di corso".   
-Art. 76 - all'elenco degli insegnamenti complementari del corso di laurea in fisica sono aggiunti i seguenti:   
-fisica atomica e molecolare;   
-fisica dello stato solido;   
-elettronica quantistica;   
-filosofia della scienza;   
-teoria dei campi.   
-Nello stesso elenco sono soppressi gli insegnamenti di:   
-geodesia elettronica;   
-meccanica analitica.   
-L'art. 78, relativo al corso di laurea in matematica, e' modificato nel senso che dopo l'insegnamento "5) calcoli numerici e grafici" sono soppressi i primi due commi.   
-Inoltre, dopo l'insegnamento complementare "12) analisi numerica (2)" sono aggiunti i seguenti insegnamenti complementari:   
-13) calcolo delle variazioni;   
-14) equazioni differenziali;   
-15) processi stocastici;   
-16) teoria dei gruppi;   
-17) teoria matematica dei controlli;   
-18) algebra commutativa;   
-19) analisi complessa;   
-20) matematica combinatoria.   
-Dopo l'insegnamento "9) analisi numerica (1)" per l'indirizzo applicativo, sono aggiunti i seguenti insegnamenti:   
-10) equazioni differenziali;   
-11) linguaggi programmativi;   
-12) processi stocastici;   
-13) teoria matematica dei controlli;   
-14) calcolo delle variazioni;   
-15) biomatematica.   
-Dopo l'insegnamento "8) struttura della materia" viene soppresso il primo comma.   
-Inoltre, nello stesso articolo, e' soppressa la frase "Nel terzo anno lo studente deve seguire almeno quattro corsi".   
-L'art. 79 e' modificato nel senso che l'ultimo comma e' soppresso.  
-Inoltre al terzo comma e' aggiunta la seguente frase:   
-"Eventuali deroghe potranno essere prese in considerazione in base alla [legge n. 910 dell'11 dicembre 1969](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910)".   
-Art. 80 - all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:   
-algologia;   
-micologia.   
-Art. 82 - all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:   
-biofisica;   
-citogenetica;   
-immunologia;   
-virologia.   
-Art. 84 - all'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti i seguenti:   
-analisi mineralogica;   
-minerogenesi;   
-geochimica applicata;   
-geofisica applicata.   
-Nello stesso articolo l'insegnamento complementare di fotogeologia e rilevamento geologico e' soppresso sostituito dai seguenti:   
-fotogeologia;   
-rilevamento geologico.   
-Art. 89 - il secondo comma e' soppresso e sostituito dal seguente: "I candidati per l'esame di laurea in scienze geologiche che devono sostenere una prova di cultura".   
-Art. 113 - all'elenco degli insegnamenti complementare del corso di laurea in farmacia sono aggiunti i seguenti:   
-patologia generale;   
-farmacognosia;   
-chemioterapia;   
-tossicologia;   
-stechiometria.   
-L'art. 124 e' soppresso e sostituito dal seguente:   
+Scuola di specializzazione in ostericia e ginecologia  
   
-"L'esame di laurea in farmacia consiste nella discussione di una tesi di laurea sperimentale o compilativa".   
-Art. 127 - all'elenco degli insegnamenti complementari del corso di laurea in chimica e tecnologia farmaceutiche sono aggiunti i seguenti:   
-farmacognosia;   
-chemioterapia;   
-tossicologia;   
-chimica dei composti eterociclici.   
-Art. 151 - all'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti i seguenti:   
-tecnica vivaistica (sem.);   
-sottoprodotti delle industrie agrarie alimentari;   
-industrie agrarie tropicali e sub-tropicali;   
-prodotti chimici in agricoltura;   
-istituzioni di diritto privato;   
-storia dell'agricoltura e del movimento contadino.   
-L'art. 157 e' soppresso e sostituito dal seguente:   
-"L'esame di laurea consiste nella dissertazione orale di una dissertazione scritta svolta sopra un argomento scelto dal candidato ed approvato dal professore delle materie alle quali la dissertazione si riferisce.   
-La domanda per l'ammissione agli esami di laurea deve essere presentata almeno un mese prima della data fissata per gli esami stessi.   
-All'atto della presentazione delle domande deve essere depositata nella segreteria della facolta' la dissertazione scritta in tre esemplari dattilografati".   
-Dopo l'art. 330, con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione delle scuole dirette a fini speciali di preparazione per tecnici di colpocitologia e di ortottisti e assistenti di oftalmologia presso la facolta' di medicina e chirurgia.   
+Art. 206. - a) La durata del corso degli studi per il conseguimento del diploma di specialista in ostetricia e ginecologia e' di quattro anni.  
+b) Gli insegnamenti impartiti nella scuola sono cosi' distribuiti nei quattro anni di corso:  
+1° anno:  
+Anatomia ed embriologia dei genitali femminili;  
+Fisiologia dell'apparato genitale femminile;  
+Fisiologia della gravidanza, parto, puerperio;  
+Semeiotica ostetrico-ginecologica;  
+Esame di laboratorio.  
+2° anno:  
+Anatomia patologica dei genitali femminili;  
+Clinica ostetrico-ginecologica;  
+Operazioni ostetriche.  
+3° anno:  
+Tecniche di laboratorio applicate alle diagnosi ostetriche;  
+Clinica ostetrico-ginecologica  
+Elementi di radiologia e radioterapia ginecologica.  
+4° anno:  
+Clinica ostetrico-ginecologica;  
+Tecnica operatoria ginecologica;  
+Nozioni di urologia ginecologica e tecnica cistoscopica.  
+c) Al termine di ciascun anno di corso l'iscritto dovra' sostenere un esame di profitto teorico e pratico sulle materie che sono state oggetto di insegnamento durante il corso dell'anno.  
+d) L'esame per il conseguimento del diploma di specialista consistera' in una discussione clinica sopra un caso di ostetricia e di ginecologia e nella discussione di una tesi scritta sopra un argomento vertente o nel campo dell'ostetricia o nel campo della ginecologia.  
+e) Durante gli anni di corso e' obbligatorio l'internato nella clinica ostetrico-ginecologica con servizio effettivo e continuativo.  
   
-Scuola diretta a fini speciali di preparazione per tecnici di colpocitologia   
+Scuola di specializzazione in oculistica  
   
-Art. 331. - E' istituita presso la cattedra di clinica ostetrica e ginecologica dell'Universita' di Firenze ai sensi dell'art. 20 del testo unico delle leggi sulla istruzione universitaria 31 agosto 1933, n. 1592, una scuola di preparazione per citotecnici, che ha lo scopo di preparare adeguatamente personale tecnico nel campo della diagnostica precoce per tumori.   
-La scuola ha indirizzo teorico-pratico e la durata del corso degli studi e' di due anni.   
-Il titolo di ammissione deve essere il diploma di scuola media unica, ovvero il diploma di avviamento professionale, commerciale o industriale o agrario o ad altro indirizzo.   
-Le tasse e contributi che gli iscritti sono tenuti a pagare sono:   
-tassa di immatricolazione . . . . . . . . . . . . . . . L. 5.000 tassa di iscrizione. . . . . . . . . . . . . . . . . . L. 18.000 soprattassa annuale di esami . . . . . . . . . . . . . L. 7.000 tassa erariale di diploma. . . . . . . . . . . . . . . L. 6.000 contributo di laboratorio. . . . . . . . . . . . . . . L. 80.000 libretto . . . . . . . . . . . . . . . . . . . . . . . L. 1.000 soprattassa esame di diploma . . . . . . . . . . . . . L. 3.000   
-Alla frequenza della scuola per tecnici di colpocitologia si accede previo esame di cultura generale davanti ad una commissione composta dal direttore della scuola e da due insegnanti della stessa.   
-L'esame di ammissione e la valutazione dei titoli ha luogo entro la prima quindicina del mese di ottobre di ciascun anno, in un giorno stabilito dalla facolta' di medicina e chirurgia, e proposto dal direttore della scuola.   
-Il numero massimo dei partecipanti e' di 20 per anno di corso.   
-Il direttore della scuola e' il titolare della cattedra di clinica ostetrica e ginecologica dell'Universita' di Firenze o, su proposta di quest'ultimo, un altro docente della facolta' di medicina e chirurgia di Firenze, nominato dalla facolta' stessa.   
-La scuola per il funzionamento si avvale della collaborazione dell'istituto di anatomia e istologia patologica dell'Universita' di Firenze.   
-Gli insegnanti della scuola devono essere proposti dal direttore della stessa, approvati dalla facolta' di medicina e chirurgia e nominati dal rettore.   
-Essi sono scelti fra i docenti della facolta' di medicina e chirurgia e di altre facolta' dell'Ateneo o tra persone di riconosciuta competenza, anche al di fuori dell'ambito universitario.   
-Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-citologia generale;   
-nozioni di anatomia ed istologia normale dell'apparato genitale femminile;   
-nozioni di fisiologia dell'apparato genitale femminile;   
-nozioni di anatomia ed istologia patologica dell'apparato genitale femminile;   
-nozioni di endocrinologia ginecologica;   
-nozioni di microscopia;   
-tecnica citologica;   
-nozioni di microbiologia (batteriologia, parassitologia, virologia) applicate alla ginecologia;   
-fisiocitologia ginecologica;   
-colposcopia (I).   
-2° Anno:   
-tecnica istologica;   
-nozioni di istopatologia del collo dell'utero;   
-nozioni di istopatologia endometriale;   
-nozioni di citopatologia ginecologica;   
-colposcopia (II);   
-citochimica;   
-medicina sociale ed educazione sanitaria;   
-nozioni di isto e citopatologia mammaria;   
-tecniche di diagnosi precoce del carcinoma mammario;   
-citopatologia peritoneale;   
-urocitogramma in ginecologia;   
-cito, isto e colpo-fotografia.   
-Gli iscritti alla scuola hanno l'obbligo di frequenza alle lezioni delle singole materie e devono seguire un tirocinio pratico nel laboratorio di citologia e nell'ambulatorio di colposcopia della clinica ostetrica e ginecologica dell'Universita' per l'intera durata del corso.   
-I programmi di insegnamento e gli orari sono predisposti dal direttore della scuola ed approvati dal consiglio della facolta' di medicina e chirurgia.   
-La sorveglianza degli iscritti per quanto riguarda la loro attivita' teorica e pratica e' svolta dal direttore della scuola in collaborazione con gli insegnanti.   
-Assenze ingiustificate comportano l'esclusione dal corso.   
-Per essere ammessi a frequentare gli insegnamenti delle materie del secondo anno gli iscritti devono avere sostenuto con esito favorevole gli esami delle singole materie del primo anno. Gli esami si terranno nel mese di giugno e come secondo appello nel mese di settembre.   
-Le commissioni per gli esami sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola.   
-Le commissioni sono composte da tre membri: il direttore della scuola, presidente, l'insegnante della materia in esame e un altro docente della scuola.   
-Ogni commissario ha a sua disposizione 10 punti.   
-L'esame di diploma consiste in una prova orale sui temi trattati durante il corso ed in una o piu' prove pratiche stabilite dalla commissione giudicatrice.   
-L'esame di diploma viene sostenuto davanti ad una commissione composta di cinque membri: quattro membri scelti fra i docenti della scuola, nominati dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola, un membro nella persona del medico provinciale, in rappresentanza della regione.   
-Ogni commissario ha a disposizione 10 punti.   
-I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza della scuola.   
-Agli allievi che avranno superato l'esame finale viene rilasciato un diploma di tecnico di colpocitologia.   
-Scuola diretta a fini speciali per ortottisti e assistenti di   
-oftalmologia   
-Art. 332. - E' istituita presso la facolta' di medicina e chirurgia dell'Universita' di Firenze una scuola speciale di preparazione per ortottisti-assistenti di oftalmologia che ha sede presso la clinica oculistica di questa facolta'.   
-Art. 333. - La scuola ha lo scopo di dare una preparazione completa, teorico-pratica, istruendo gli allievi sui problemi della motilita' oculare, della ambliopia, delle tecniche diagnostiche della visione binoculare, del trattamento pre o post-operatorio dei pazienti strabici; dei problemi sui vizi di refrazione e della loro correzione e sulle tecniche diagnostiche in oftalmologia.   
-La durata del corso per conseguire il diploma di ortottista-assistente di oftalmologia e' di tre anni.   
-Ne sono titoli di ammissione il possesso di un diploma legalmente valido ai fini della iscrizione all'Universita' ai sensi dell'[art. 1 della legge n. 910 dell'11 dicembre 1969](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1) e la conoscenza di una lingua straniera (inglese, francese, tedesco, spagnolo).   
-Art. 334. - Gli aspiranti all'iscrizione al primo anno di corso sono tenuti a sostenere un esame di ammissione consistente in una prova di cultura generale B in una prova per la conoscenza della lingua straniera.   
-E' richiesto un certificato di sana e robusta costituzione, con particolare riguardo alla funzione visiva.   
-Art. 335. - Le attivita' didattiche della scuola sono coordinate dal direttore, su proposta del consiglio direttivo della scuola, composto da tutti i docenti incaricati di un insegnamento della scuola stessa e presieduto dal direttore.   
-Art. 336. - Il numero massimo complessivo degli iscritti alla scuola e' di 24. Il consiglio direttivo determinera' anno per anno il numero degli allievi da ammettere al primo anno.   
-Qualora le domande di iscrizione fossero in numero superiore al numero massimo previsto, il consiglio della scuola si riserva di provvedere ad una scelta tra gli idonei in base ai risultati delle prove di ammissione: gli idonei possono essere ammessi anche in soprannumero in rapporto a posti che si rendessero vacanti nel corso del secondo e terzo anno. I ripetenti e i fuori corso, qualora riprendano gli studi, sono riammessi in soprannumero.   
-Art. 337. - Il direttore della scuola e' nominato dal consiglio della facolta' di medicina e chirurgia dell'Universita' di Firenze su proposta del consiglio direttivo della scuola e dura in carica tre anni. I docenti della scuola sono nominati dallo stesso consiglio di facolta' su proposta del direttore della scuola.   
-Art. 338. - L'anno accademico ha inizio e termine nelle date stabilite dalle leggi in vigore per l'istruzione universitaria. La frequenza e' obbligatoria.   
-Art. 339. - Il corso comprende lezioni teoriche ed esercitazioni, pratiche. Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-1) elementi di anatomia dell'apparato visivo e del S.N.C.;   
-2) fisiologia dell'occhio, della motilita' oculare, della visione binoculare;   
-3) ottica fisica e fisiopatologica;   
-4) ortottica I;   
-5) psicologia infantile.   
-2° Anno:   
-1) elementi di patologia oculare;   
-2) elementi di farmacologia oculare;   
-3) elementi di neurooftalmologia;   
-4) nozioni di chirurgia ed assistenza oftalmica;   
-5) ortottica II.   
-3° Anno:   
-1) tecniche semeiologiche dell'apparato visivo I (es. refrazione, contattologia, adattometria, campo visivo, senso cromatico);   
-2) tecniche semeiologiche ed elettrofisiologiche (tonometria e tonografia; ERG, EOG, EMG; ecografia; retinografia e fluoroangiografia);   
-3) ortottica III;   
-4) nozioni di riabilitazione senso motorio nell'eta' infantile;  
-5) legislazione sanitaria.   
-Art. 340. - L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni e dall'obbligo, per gli allievi, dell'internato per l'intero periodo di corso di studi nella clinica oculistica. La frequenza viene comprovata dall'attestazione rilasciata sul libretto di iscrizione dagli insegnanti e per l'attivita' pratica dal direttore della scuola. L'attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.   
-Art. 341. - Alla fine di ogni anno gli allievi devono sostenere un esame sulle materie di insegnamento. Nel caso in cui i candidati non abbiano superato gli esami prescritti, essi rimarranno nella posizione di ripetenti.   
-Art. 342. - Gli esami di profitto consistono in prove teoriche e pratiche.   
-Art. 343. - Alla fine del corso gli allievi debbono sostenere un esame di diploma che consiste nella discussione di una tesi scritta su un argomento riguardante le materie di insegnamento, assegnata dal direttore della scuola e in una prova pratica stabilita da una commissione esaminatrice. I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola ma se al secondo anno non sia loro riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove.   
-Art. 344. - Gli esami di profitto e di diploma vengono sostenuti in due sessioni, la prima estiva, che ha inizio subito dopo la chiusura annuale dei corsi e la seconda, autunnale, nel mese che precede l'inizio del nuovo anno accademico.   
-Art. 345. - Le commissioni per gli esami di ammissione, di profitto e di diploma sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Le commissioni per gli esami di ammissione e di profitto sono composte da tre membri: dal direttore della scuola, presidente, e da due insegnanti della scuola stessa. La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente, e da quattro scelti fra gli insegnanti della scuola stessa o altri docenti.   
-Art. 346. - Le tasse e soprattasse annuali a carico degli iscritti restano cosi' destinate:   
+Art. 207. - a) La durata del corso degli studi per il conseguimento del diploma di specialista in oculistica e' di tre anni.  
+b) Gli insegnamenti della scuola sono cosi' ripartiti nei tre anni di corso:  
+1° anno  
+Embriologia;  
+Anatomia e fisiologia dell'apparato oculare;  
+Ottica fisiologica;  
+Diottrica oculare;  
+Patologia e clinica oculistica;  
+Semeiotica oculare;  
+Oftalmoscopia;  
+Tecnica operatoria.  
+2° anno:  
+Patologia oculare e semeiotica oculare;  
+Clinica oculistica (inclusa la traumatologia);  
+Oftalmoscopia;  
+Tecnica operatoria;  
+Istopatologia oculare;  
+Sierologia.  
+3° anno:  
+Clinica oculistica;  
+Diagnostica oftalmoscopica;  
+Infortunistica oculare;  
+Tecnica operatoria;  
+Neuropatologia oculare;  
+Radiologia oculare.  
+c) Al termine di ciascun anno di studio l'allievo dovra' sostenere una prova orale sugli insegnamenti impartiti nell'anno ed una prova pratica sul malato con esami di laboratorio.  
+d) Per il conseguimento del diploma di specialista il candidato dovra' sostenere una discussione sopra un caso clinico e la discussione di una tesi.  
+e) Oltre a seguire le lezioni cattedratiche e le esercitazioni, gli allievi sono tenuti a frequentare, come interni, la clinica oculistica e gli ambulatori da questa dipendenti.  
   
-tassa annuale di iscrizione . . . . . . . . . . . . . . L. 18.000 sopratassa annuale di esame . . . . . . . . . . . . . . L. 7.000 tassa erariale di diploma . . . . . . . . . . . . . . . L. 6.000 tassa annuale per iscrizione studenti fuori corso . . . L. 15.000 contributi di laboratorio . . . . . . . . . . . . . . . L. 80.000   
+Scuola di specializzazione in malattie veneree e della pelle  
   
-Art. 347. - Al funzionamento della suddetta scuola si provvedera' con il provento dei contributi dovuti dagli iscritti e con eventuali elargizioni o contributi di enti pubblici o privati.   
-Art. 348. - Per la retribuzione dei docenti si provvedera' secondo quanto previsto per le scuole di specializzazione dell'Universita' di Firenze.   
-Art. 349. - Sono ammessi al terzo anno della scuola, con l'obbligo di tutti gli esami del terzo anno e della tesi, le diplomate delle scuole speciali per ortottiste ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20), purche' abbiano esercitato con continuita' una attivita' professionale adeguata e documentata.   
+Art. 208. - a) La durata del corso degli studi per il conseguimento del diploma di specialista in dermatologia e venereo-sifilografia e' di tre anni.  
+b) Gli insegnamenti della scuola sono cosi' suddivisi nei tre anni di corso:  
+1° anno:  
+Anatomia della pelle, degli organi genitali e dell'apparato escretore;  
+Fisiologia della pelle, delle mucose, dell'apparato genitale maschile e femminile e dell'apparato escretore;  
+Patologia generale dell'infiammazione dei processi degenerativi dei tumori;  
+Allergia. Malattie di adattamento;  
+Fisiopatologia della pelle dell'apparato genitale e dell'apparato escretore (con particolare riferimento alla vescica e all'uretra);  
+Studio delle lesioni dermatologiche elementari nei riguardi clinici, istopatologici e fisiopatologici;  
+Semeiotica dermatologica;  
+Tecnica di laboratorio;  
+Istopatologia, microbiologia, sierologia, chimica biologica. 2° anno:  
+Clinica delle malattie cutanee e veneree.  
+3° anno:  
+Clinica delle malattie cutanee e veneree;  
+Dermatosi infantile;  
+Dermatosi professionali;  
+Igiene e disposizioni legislative;  
+Terapia medica e chirurgica;  
+Terapia fisica (con particolare riferimento alla Roentgen-curieterapia).  
+c) Al termine di ciascun anno di corso, nel sostenere gli esami speciali sugli insegnamenti impartiti durante l'anno, l'allievo dovra' praticare la, visita di almeno due malati della specialita', discuterne la diagnosi e la cura, nonche' illustrare un preparato istologico ed eseguire una prova di laboratorio.  
+d) Al termine del corso l'esame per il conseguimento del diploma consistera' nella discussione di un caso clinico e nella discussione di una tesi scritta sopra un argomento della specialita'.  
+e) Nei tre anni di corso e' obbligatoria la frequenza dell'allievo nella clinica per l'intero anno solare, con gli stessi obblighi cui sono tenuti gli assistenti volontari.  
+  
+Scuola di specializzazione in medicina legale e delle assicurazioni   
+Art. 209. - a) La durata del corso degli studi per il conseguimento del diploma di specialista in medicina legale e delle assicurazioni e' di due anni.  
+b) Gli insegnamenti della scuola sono cosi' ripartiti nei due anni di corso:  
+1° anno:  
+Medicina legale penalistica e civilistica;  
+Medicina legale delle assicurazioni;  
+Tecnica delle perizie medico-legali e valutazioni infortunistiche;  
+Tecnica diagnostica delle autopsie;  
+Esercitazioni: 1) di laboratorio, 2) di infortunistica e di malattie professionali e del lavoro, 3) di tecnica e diagnostica delle autopsie giudiziarie.  
+2° anno:  
+Medicina legale penalistica, civilistica e canonistica;  
+Medicina legale delle assicurazioni;  
+Tecnica delle perizie medico-legali e valutazioni infortunistiche;  
+Tossicologia forense;  
+Psicopatologia forense;  
+Esercitazioni: 1) di infortunistica e malattie professionali e del lavoro,  
+2) di tecnica e diagnostica delle autopsie giudiziarie.  
+c) Alla fine del 1° anno di corso l'allievo dovra' sostenere gli esami di profitto nelle seguenti materie: 1) medicina legale e delle assicurazioni,  
+2) tecnica e diagnostica delle autopsie, 3) prove pratiche attinenti ai corsi di esercitazioni.  
+Al termine del secondo anno l'allievo dovra' sostenere gli esami di profitto nelle seguenti materie: 1) medicina legale penalistica, civilistica e canonistica, 2) tecnica delle perizie medico-legali e valutazioni infortunistiche, 3) tossicologia forense, 4) psicopatologia forense, 5) prove pratiche attinenti ai corsi di esercitazioni.  
+d) Per il conseguimento del diploma di specialista in medicina legale e delle assicurazioni, l'allievo dovra' discutere una tesi scritta, da lui preparata nei due anni di corso.  
+e) Durante i due anni del corso, il direttore della scuola potra' fare svolgere o svolgere personalmente conferenze su argomenti attinenti alla specializzazione, ad integrazione delle materie obbligatorie.  
+f) Gli iscritti alla scuola hanno l'obbligo di frequentare come interni l'Istituto di medicina legale e delle assicurazioni.  
+  
+Scuola di specializzazione in otorinolaringoiatria  
+  
+Art. 210. - a) La durata del corso degli studi per il conseguimento del diploma di specialista in otorinolaringoiatria e' di tre anni.  
+b) Le materie di insegnamento durante i tre anni del corso sono cosi' suddivise:  
+1° anno:  
+Anatomia ed embriologia dell'orecchio e delle prime vie aeree e digerenti;  
+Fisiologia dell'orecchio;  
+Semeiotica otorinolaringologica.  
+2° anno:  
+Nozioni di patologia generale e di anatomia patologica con speciale riguardo alla otorinolaringoiatria;  
+Patologia speciale otorinolaringoiatrica.  
+3° anno:  
+Nozioni di clinica oculistica, di clinica neurologica e di clinica chirurgica generale particolarmente attinenti alla clinica otorinolaringoiatrica;  
+Diagnostica e terapia medica e chirurgica otorinolaringoiatrica.  
+c) Al termine di ciascun anno del corso l'allievo dovra' sostenere un esame teorico e pratico sulle materie che sono state oggetto di insegnamento durante quell'anno.  
+d) Per il conseguimento del diploma di specialista di clinica otorinolaringoiatrica, l'allievo dovra' sostenere una discussione sopra un caso clinico della specialita', oltre alla discussione di una tesi scritta su argomento specialistico.  
+e) Gli iscritti al corso di specializzazione dovranno frequentare i reparti e gli ambulatori della clinica con gli stessi obblighi degli assistenti.  
+  
+Scuola di specializzazione in radiologia medica e radioterapia  
+  
+Art. 211. - a) La durata del corso degli studi per il conseguimento del diploma di specialista in radiologia medica e radioterapia e' di due anni.  
+b) Gli insegnamenti impartiti nella scuola sono cosi' suddivisi nei due anni di corso:  
+1° anno:  
+Anatomia e fisiologia radiologiche;  
+Fisica delle radiazioni ionizzanti;  
+Tecnica della radiodiagnostica e radioterapeutica;  
+Radiobiologia.  
+2° anno:  
+Roentgendiagnostica dell'apparato respiratorio;  
+Roentgendiagnostica dell'apparato cardiovascolare;  
+Roentgendiagnostica dell'apparato scheletrico e delle articolazioni;  
+Roentgendiagnostica dell'apparato urogenitale;  
+Roentgendiagnostica dell'apparato digerente e ghiandole annesse;  
+Roentgendiagnostica del cranio e del sistema nervoso;  
+Roentgenterapia e radiumterapia.  
+c) Il corso di lezioni sara' integrato da conferenze di aggiornamento nei vari campi della biologia e dalla clinica.  
+d) Al termine di ciascun anno del corso l'allievo dovra' sostenere un esame di profitto sulle materie che sono state oggetto di insegnamento.  
+e) Per il conseguimento del diploma, l'allievo dovra' sostenere dinanzi all'apposita Commissione la discussione di una tesi scritta su argomento di radiodiagnostica e radioterapia.  
+f) Ogni allievo ha l'obbligo di un internato di almeno quattro mesi per ciascun anno nei vari reparti dell'Istituto.  
+  
+Scuola di specializzazione in odontoiatria e protesi dentaria  
+  
+Art. 212. - a) La durata del corso degli studi per il conseguimento del diploma di specialista in odontoiatria e protesi dentaria e' di due anni.  
+b) Gli insegnamenti della scuola sono cosi' ripartiti nei due anni del corso:  
+1° anno:  
+Clinica e patologia stomatologica;  
+Anatomia e istologia orale;  
+Anestesiologia e chirurgia dentale;  
+Fisiologia orale;  
+Microbiologia ed igiene orale;  
+Odontoiatria conservativa e materia medica stomatologica;  
+Protesi dentaria e odontotecnica;  
+Radiologia stomatologica.  
+2° anno:  
+Clinica e patologia stomatologica;  
+Odontoiatria infantile;  
+Chirurgia orale;  
+Ortopedia dento-facciale;  
+Esercitazioni clinico-pratiche;  
+Odontoiatria conservativa;  
+Protesi odontotecnica.  
+c) Durante gli anni del corso saranno tenute anche conferenze di carattere complementare su argomenti di patologia e clinica medica, di clinica pediatrica, di clinica otorinolaringoiatrica e di clinica oculistica.  
+d) Alla fine di ciascun anno di corso gli allievi dovranno sostenere un esame di profitto, teorico e pratico, sulle materie che sono state oggetto di insegnamento.  
+e) Per il conseguimento del diploma e' obbligatoria altresi' la discussione, dinanzi all'apposita Commissione, di una tesi scritta.  
+f) Gli allievi hanno l'obbligo dell'internato nella clinica odontoiatrica.  
+  
+Scuola di specializzazione in malattie cardiovascolare e reumatiche   
+Art. 213. - a) La durata del corso degli studi per il conseguimento del diploma di specializzazione in malattie cardiovascolari e reumatiche e' di tre anni.  
+b) Gli insegnamenti della scuola sono cosi' ripartiti nei tre anni di corso  
+1° anno:  
+1) Anatomia;  
+2) Fisiologia del cuore e dei vasi;  
+3) Igiene e statistica;  
+4) Metodiche funzionali;  
+5) Patologia e clinica medica;  
+6) Patologia generale;  
+7) Batterio-immunologia.  
+2° anno:  
+1) Farmacologia;  
+2) Anatomia patologica;  
+3) Radiologia;  
+4) Metodiche funzionali;  
+5) Patologia e clinica medica.  
+3° anno:  
+1) Problemi assicurativo-sociali;  
+2) Chirurgica del cuore e dei vasi;  
+3) Radiologia;  
+4) Metodiche funzionali;  
+5) Patologia e clinica medica;  
+6) Terapie speciali;  
+7) Ortopedia.  
+c) Oltre le lezioni di corsi sopraindicati, potranno essere tenute, dietro designazione del direttore della scuola, delle conferenze e delle dimostrazioni a classi riunite.  
+d) Le lezioni, le dimostrazioni e le esercitazioni pratiche si svolgeranno in parte presso la clinica medica, in parte presso l'istituto di patologia medica, in conformita' dell'orario, che al principio dell'anno verra' stabilito dal direttore della scuola.  
+e) Al termine di ciascun anno del corso l'allievo dovra' sostenere un esame teorico-pratico sulle materie che sono state oggetto di insegnamento durante il corso dell'anno.  
+f) Al termine del triennio per il conseguimento del diploma di specialista l'allievo dovra' sostenere dinanzi alla Commissione la discussione di un caso clinico e la, discussione di una tesi scritta sopra argomento riguardante malattie dell'apparato cardio-vascolare o delle malattie reumatiche.  
+g) Durante i tre anni del corso gli allievi dovranno frequentare assiduamente, a turno, le infermiere e gli ambulatori della clinica medica, e dell'Istituto di patologia medica.  
+  
+Scuola di specializzazione in endocrinologia e malattie del ricambio   
+Art. 214. - a) La durata del corso degli studi per il conseguimento del diploma di specializzazione in malattie del ricambio e endocrinologia e' di due anni.  
+b) Le materie di insegnamento sono cosi' suddivise fra i due anni del corso:  
+1° anno:  
+Anatomia delle ghiandole endocrine;  
+Fisiologia delle ghiandole endocrine;  
+Fisiologia della alimentazione e del ricambio;  
+Chimica biologica Tecnica di laboratorio;  
+Fisiopatologia endocrina;  
+Anatomia patologica delle malattie endocrine e metaboliche;  
+Patologia e clinica delle malattie endocrine;  
+Patologia, e clinica delle malattie del ricambio;  
+Genetica (eredo-patologia-diametabolica).  
+2° anno  
+Clinica delle malattie endocrine;  
+Clinica delle malattie del ricambio;  
+Terapia delle malattie endocrine;  
+Terapia delle malattie del ricambio;  
+Radiodiagnostica e radioterapia.  
+c) Le lezioni, le dimostrazioni e le esercitazioni pratiche si svolgeranno in parte presso la clinica medica, in parte presso l'istituto di patologia, medica in conformita' dell'orario, che al principio dell'anno verra' stabilito dal direttore della scuola.  
+d) Al termine di ciascun anno del corso l'allievo dovra' sostenere un esame teorico-pratico sulle materie che sono state oggetto di insegnamento durante il corso dell'anno.  
+e) Al termine del biennio, per il conseguimento del diploma di specialista l'allievo dovra' sostenere dinanzi alla commissione la discussione di un caso clinico e la discussione di una tesi scritta sopra argomento riguardante l'endocrinologia e le malattie del ricambio.  
+f) Durante i due anni del corso gli allievi dovranno frequentare assiduamente a turno, le infermiere e gli ambulatori della clinica medica e dell'Istituto di patologia medica.  
+  
+Scuola di specializzazione in anestesia  
+  
+Art. 215. a) La Scuola per la specializzazione in anestesia ha la durata di due anni.  
+b) Saranno ammessi alla frequenza della scuola i laureati in medicina e chirurgia che dimostreranno di avere prestato servizio di assistentato in reparto di chirurgia generale e che avranno superato il prescritto esame di ammissione.  
+c) Le materie di insegnamento sono cosi' suddivise nei due anni di corso:  
+1° anno:  
+Nozioni di fisica con particolare riguardo alle leggi di diffusibilita' e della fisica degli agenti anestetici con applicazione allo strumentario di anestesia;  
+Chimica e farmacologia degli agenti anestitici;  
+Anatomia (con particolare riguardo all'anatomia dell'apparato respiratorio e circolatorio e al sistema nervoso centrale e periferico);  
+Fisiologia (con particolare riguardo alla fisiologia dell'apparato respiratorio e circolatorio e del sistema nervoso e endocrino);  
+Cardiologia (con particolare riguardo alla indagine elettro-cardiologia e al significato della variazione della pressione arteriosa);  
+Strumentario e tecnica della anestesia.  
+2° anno:  
+Patologia della respirazione e della circolazione;  
+Patologia dell'apparato endocrino e stati diametabolici;  
+Anestesia e suoi rapporti con la patologia;  
+Complicazione della anestesia e tecniche della rianimazione;  
+Nozioni di fisioterapia con particolare riguardo alla ginnastica respiratoria;  
+Tecniche di anestesia nella chirurgia infantile, nella ostetricia e ginecologia, nella otorinolaringoiatria, nella odontoiatria, nella neurologia e nelle operazioni sul torace;  
+Tecniche d'impiego degli anestetici in condizioni non chirurgiche (blocchi diagnostici e terapeutici, cura del dolore, alcolizzazione, ecc. d) Alla fine di ciascun anno del corso gli allievi dovranno sostenere un esame sulle materie che sono state oggetto di insegnamento nel corso dell'anno.  
+e) Alla fine del secondo anno gli allievi dovranno sostenere una prova generale scritta su argomenti che sono stati oggetto d'insegnamento durante i due anni o discutere una tesi originale di specializzazione, nonche' sostenere una prova pratica di conduzione di una anestesia.  
+f) Durante i due anni del corso e' obbligatoria la frequenza, della clinica chirurgica in conformita' dell'orario che sara' stabilito dalla direzione della scuola.  
+Ogni specializzando dovra' avere partecipato durante il corso a non meno di duecento anestesie.  
+  
+Scuola di specializzazione in chirurgia generale  
+  
+Art. 216. - a) La durata del corso degli studi per il conseguimento del diploma di specialista in chirurgia generale e' di cinque anni.  
+b) Le materie di insegnamento sono cosi' suddivise nei cinque anni del corso:  
+1° anno:  
+Anatomia topografica;  
+Patologia generale;  
+Batteriologia e sierologia;  
+Anatomia patologica e istologia patologica;  
+Patologia chirurgica;  
+Semeiotica chirurgica.  
+2° anno:  
+Anatomia chirurgica e anatomia clinica radiologica;  
+Anatomia patologica e istologia patologica;  
+Chimica biologica;  
+Patologia chirurgica;  
+Semeiotica chirurgica.  
+3° anno:  
+Anatomia chirurgica e anatomia patologica;  
+Radiologia;  
+Patologia chirurgica;  
+Semeiotica chirurgica;  
+Clinica chirurgica;  
+Terapia chirurgica.  
+4° anno:  
+Anatomia chirurgica;  
+Traumatologia;  
+Tecnica degli apparecchi gessati;  
+Clinica chirurgica generale;  
+Semeiotica otorinolaringoiatrica;  
+Semeiotica ostetrico-ginecologica.  
+5° anno:  
+Clinica chirurgica generale;  
+Neurologia;  
+Ostetricia e ginecologia;  
+Ortopedia;  
+Medicina legale.  
+c) Alla fine di ciascun anno del corso l'allievo dovra' sostenere un esame teorico pratico sugli insegnamenti impartiti nell'anno del corso. L'esame di clinica chirurgica comprendera' quattro prove distinte: 1) chirurgia della testa e del collo, neurochirurgia e otorinolaringoiatria; 2) chirurgia del torace; 3) chirurgia dell'addome; 4) chirurgia degli arti e traumatologia.  
+d) Al termine del corso per la specializzazione, gli allievi dovranno sostenere dinanzi alla Commissione per l'esaine di diploma una discussione sopra a un caso clinico, nonche' la discussione di una tesi scritta sopra un argomento di chirurgia.  
+e) Gli allievi, oltre a seguire le lezioni cattedratiche e le esercitazioni sono tenuti a frequentare come gli interni la clinica chirurgica generale.  
+Per le discipline al di fuori della clinica chirurgica possono essere indicati, su giudizio del direttore, periodi di internato nei rispettivi istituti.  
+  
+Scuola di specializzazione in ortopedia e traumatologia  
+  
+Art. 217. - a) La durata del corso degli studi per il conseguimento del diploma di specializzazione in ortopedia e traumatologia e' di tre anni.  
+b) Gli insegnamenti sono cosi' suddivisi nei tre anni di corso:  
+1° anno:  
+Anatomia degli organi del movimento;  
+Patologia delle lesioni, deformita' e malattie degli organi di movimento;  
+Fondamenti di radiologia e radioterapia;  
+Radiodiagnostica;  
+Protesi e tecnica degli apparecchi;  
+Pediatria ortopedica.  
+2° anno:  
+Anatomia degli organi del movimento;  
+Patologia delle lesioni, deformita' e malattie degli organi di movimento;  
+Fonda menti di radiologia e radioterapia;  
+Radiodiagnostica;  
+Protesi e tecnica degli apparecchi;  
+Pediatria ortopedica.  
+3° anno:  
+Corso di operazioni ortopediche;  
+Terapia fisica;  
+Clinica ortopedica e traumatologica;  
+Infortunistica;  
+Neuropatologia degli organi di movimento.  
+c) Al termine di ogni anno del corso gli allievi dovranno sostenere un esame teorico-pratico sulle materie che nel corso dell'anno sono state oggetto di insegnamento.  
+d) Al termine del triennio, per il conseguimento del diploma di specialista, l'allievo dovra' sostenere davanti alla apposita Commissione una discussione sopra uni caso clinico, oltre alla discussione di una tesi di laurea su di argomento attinente alla specialita'.  
+e) Durante i tre anni del corso gli allievi sono tenuti a frequentare come interni la clinica ortopedica.  
+  
+Scuola di specializzazione in malattie nervose e mentali  
+  
+Art. 218. - a) La durata del corso degli studi per il conseguimento del diploma di specialista in malattie nervose e mentali e' di tre anni.  
+b) Gli insegnamenti della scuola sono cosi' suddivisi nei tre anni di corso:  
+1° anno  
+Anatomia clinica del sistema nervoso;  
+Fisiologia e fisiopatologia generale del sistema nervoso;  
+Psicopatologia generale.  
+2° anno:  
+Anatomia e istologia patologica del sistema nervoso;  
+Semeiotica neurologica e psichiatrica;  
+Patologia speciale delle malattie nervose e mentali.  
+3° anno:  
+Clinica e terapia delle malattie nervose;  
+Alti Clinica e terapia delle malattie mentali.  
+c) Al termine di ciascun anno del corso, l'allievo dovra' sostenere un esame teorico-pratico sulle materie che sono state oggetto di insegnamento durante l'anno.  
+d) Per il conseguimento del diploma di specialista l'allievo dovra' sostenere dinanzi all'apposita Commissione la discussione di un caso clinico e la discussione di una tesi scritta su di un argomento attinente alla specialita'.  
+e) Durante i tre anni del corso gli allievi sono obbligati a frequentare come interni la clinica neuropsichiatrica.  
+  
+Scuola di specializzazione in igiene  
+  
+Art. 219. - a) La durata del corso degli stadi per il conseguimento del diploma di specialista in igiene e' di due anni.  
+b) Gli insegnamenti della scuola nei due anni di corso sono cosi' suddivisi:  
+1° anno:  
+Igiene generale e speciale;  
+Demografia, legislazione, polizia sanitaria-statistica;  
+Microscopia applicata all'igiene, microbiologia, parassitologia, immunologia;  
+Chimica e fisica applicata all'igiene;  
+Tecnica delle autopsie e delle biopsie;  
+Patologia e clinica delle malattie infettive;  
+Ispezioni delle carni da macello;  
+Istologia normale e patologica.  
+2° anno:  
+Igiene generale e speciale;  
+Malattie da intossicazione, da carenza, da insalubrita', da credita' morbosa;  
+Malattie sociali;  
+Microscopia applicata all'igiene, microbiologia, parassitologia, ed immunologia;  
+Patologia e clinica delle malattie infettive;  
+Ingegneria sanitaria.  
+c) Oltre a seguire le lezioni e le esercitazioni, gli allievi devono frequentare come interni, l'Istituto di igiene.  
+Per le discipline che non formano oggetto della scuola, possono essere indicati su giudizio del direttore della scuola stessa, periodi di internato nei rispettivi istituti.  
+d) Alla fine di ciascun corso l'allievo deve sostenere una prova scritta su un tema che abbracci i punti fondamentali dell'insegnamento annuo, una prova orale sugli insegnamenti impartiti durante l'anno di corso, una prova pratica consistente nella lettura e discussione di preparati in manualita' tecniche e dimostrazioni.  
+e) Alla fine del corso l'allievo dovra' sostenere un esame finale riassuntivo e discutere una tesi.  
+  
+Scuola di specializzazione in medicina tossicologica  
+  
+Art. 220. - a) La durata del corso degli studi per il conseguimento del diploma di specialista in medicina tossicologica e' di due anni.  
+b) Le materie di insegnamento sono cosi' suddivise nei due anni di corso:  
+1° anno:  
+Tecnica di prelievo e di conservazione del materiale organico con speciale riguardo a quello cadaverico;  
+Chimica tossicologica dei metalli e dei metalloidi con particolare riguardo alla loro identificazione in presenza di materia le organico (visceri), (con esercitazioni obbligatorie): sintomatologia clinica presentata dagli avvelenamenti relativi.  
+2° anno  
+Clinica tossicologica dei composti organici alifatici ed aromatici e soprattutto degli alcaloidi e glucosidi che piu' frequentemente sono causa di avvelenamento (con esercitazioni obbligatorie come per il primo anno) sintomatologia clinica presentata dagli avvelenamenti relativi.  
+c) Durante i due anni di frequenza alla scuola tutti gli ammalati che vengono ricoverati nella clinica saranno seguiti e studiati dai laureati in medicina che sono iscritti al corso: casi interessanti di intossicazioni singole o collettive potranno essere oggetto di ricerche speciali o di pubblicazioni da parte di uno o piu' iscritti al corso a seconda dei giudizio del direttore.  
+d) Alla fine del 1° e del 2° anno avranno luogo esami speciali su gli insegnamenti impartiti e per ottenere il diploma i candidati dovranno superare un esame finale riassuntivo e discutere una tesi sperimentale (o clinica) su argomenti di tossicologia.  
+e) L'allievo e' tenuto alla frequenza obbligatoria delle lezioni e delle esercitazioni relative oltre a partecipare a ricerche concernenti problemi di tossicologia.  
+Per l'iscrizione al corso di specializzazione i candidati devono aver fatto almeno un anno di pratica nella clinica medica o in un reparto medico ospedaliero oppure dovranno dar prova di avere nozioni sufficienti di chimica e di semeiotica, medica nell'esame di ammissione.  
+f) Per l'insegnamento il direttore dell'Istituto di farmacologia e clinica tossicologica potra' ricorrere alla collaborazione di altri titolari di cattedra dell'Universita', particolarmente versati su argomenti concernenti, sia pure indirettamente, la tossicologia.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 ottobre 1977
+### Dato a Roma, addi' 26 ottobre 1952
 
-LEONE MALFATTI
+EINAUDI SEGNI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: ZOLI
 
-Registrato alla Corte dei conti, addi' 28 aprile 1978
+Registrato alla Corte dei conti, addi' 9 maggio 1953
 
-Registro n. 44 Istruzione, foglio n. 275
+Atti dei Governo, registro n. 76, foglio n. 82. - PALLA

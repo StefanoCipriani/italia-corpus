@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1971 n. 1318
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 agosto 1959 n. 783
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1971 n. 1318
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 agosto 1959 n. 783
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169) e successivi;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,7 +18,9 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -30,387 +32,255 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-L'art. 174, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che la scuola in "Malattie nervose e mentali" e' soppressa e sostituita dalla scuola in "Psichiatria" di nuova istituzione. Allo stesso articolo e' aggiunta la scuola di specializzazione in "Neurologia".
+Art. 8, relativo alla propedeuticita' da osservarsi nel corso di laurea in giurisprudenza, e' cosi' integrato al numero 1, dopo le parole "diritto agrario" dovra' aggiungersi: "e di diritto internazionale"; al numero 5, dopo le parole "diritto amministrativo" dovra' aggiungersi: "e di diritto internazionale".
 
-L'art. 192, relativo alla scuola di specializzazione in malattie nervose e mentali che muta denominazione in quella di "Scuola di specializzazione in psichiatria" e' abrogato e sostituito dal seguente:
+Art. 11, relativo alla propedeuticita' da osservarsi nel corso di laurea in scienze politiche e' cosi' integrato
 
-Scuola di specializzazione in psichiatria
+al numero 3, dopo le parole "di diritto del lavoro" dovra' aggiungersi: "e di diritto internazionale".
 
-Art. 192. - La scuola ha sede presso l'istituto di clinica delle malattie nervose e mentali (Cattedra di psichiatria nella astanteria neuropsichiatrica).
+Art. 20. Agli insegnamenti complementari dei corso di laurea in economia e commercio sono aggiunti quelli di:
 
-La scuola ha la durata di quattro anni di corso. Ad essa possono essere iscritti soltanto laureati in medicina e chirurgia.
+"tecnica, delle ricerche di mercato e della distribuzione in generale" e di: "lingua araba".
 
-L'ammissione alla scuola avviene per concorso per titoli ed esame.
+Art. 33. - Agli istituti annessi alla Facolta' di medicina, e chirurgia e' aggiunto "l'istituto di clinica pediatrica".
 
-Il numero degli iscritti non potra' superare quello massimo di ventiquattro per i complessivi quattro anni di corso.
+Art. 35. - Agli insegnamenti complementari del corso di laurea in farmacia e' aggiunto quello di:
 
-Un'abbreviazione di due anni di corso puo' essere concessa agli specialisti in neurologia od in neuropsichiatria infantile.
+"biochimica applicata".
 
-Un'abbreviazione di un anno di corso puo' essere concessa agli specialisti in altre materie affini (psicologia, neurochirurgia, medicina interna).
+Art. 40. - E' soppresso l'istituto di chimica generale, annesso alla Facolta' di farmacia.
 
-Le abbreviazioni di corso, concesse a giudizio del consiglio della scuola, comportano da parte dell'allievo il superamento di un esame sulle discipline previste per l'insegnamento negli anni di corso dei quali si ottiene l'abbreviazione.
+Art. 78. - E' cosi' integrato:
 
-Le materie d'insegnamento sono le seguenti:
+"La Facolta' di scienze tisiche, matematiche e naturali conferisce le seguenti lauree:
 
-1° Anno:
+a) scienze matematiche;
 
-Anatomia ed istologia del sistema nervoso;
+b) fisica;
 
-Fisiologia del sistema nervoso;
+c) chimica;
 
-Biochimica del sistema nervoso;
+d) scienze naturali;
 
-Genetica (elementi);
+e) matematica e fisica;
 
-Psicologia generale;
+f) scienze biologiche;
 
-Psicopatologia I;
+g) scienze geologiche.
 
-Semeiotica psichiatrica.
+Dopo l'art. 90, e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti articoli relativi al corso di laurea in scienze geologiche.
 
-2° Anno:
+Laurea in scienze geologiche
 
-Anatomia ed istologia patologica del sistema nervoso;
+Art. 91. - La durata del corso degli studi per la laurea in scienze geologiche e' di quattro anni.
 
-Semeiotica neurologica;
+E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.
 
-Patologia speciale e diagnostica neurologica;
+Insegnamenti fondamentali:
 
-Neuroradiologia;
+1) istituzioni di matematiche;
 
-Endocrinologia e neurologia vegetativa;
+2) fisica sperimentale (biennale);
 
-Elettroencefalografia.
+3) chimica generale ed inorganica con elementi di organica;
 
-3° Anno:
+4) mineralogia;
 
-Patologia speciale psichiatrica;
+5) geologia;
 
-Psicopatologia II;
+6) geologia applicata;
 
-Clinica psichiatrica I;
+7) paleontologia;
 
-Psicologia clinica e psicodiagnostica;
+8) geografia;
 
-Psicofarmacologia;
+9) geografia fisica;
 
-Psichiatria in rapporto con la patologia internistica;
+10) topografia e cartografia;
 
-Esami di laboratorio.
+11) fisica terrestre;
 
-4° Anno:
+12) petrografia.
 
-Clinica psichiatrica II;
+Insegnamenti complementari:
 
-Terapia psichiatrica generale;
+1) geochimica;
 
-Psicoterapia;
+2) geodesia;
 
-Neuropsichiatria infantile;
+3) geografia economica;
 
-Psichiatria forense e legislazione psichiatrica;
+4) zoologia;
 
-Psichiatria sociale (del lavoro, scolastica, igiene e profilassi mentale).
+5) botanica;
 
-E' obbligatorio l'internato presso i reparti ed ambulatori della cattedra di psichiatria (astanteria neuropsichiatrica) durante il primo, il terzo ed il quarto anno di corso per l'intero anno accademico. Tale internato potra' essere ridotto a non meno di mesi quattro per anno per i medici che prestino regolare servizio in ospedali psichiatrici provinciali, od a non meno di mesi sei per i medici che prestino regolare servizio in altre istituzioni d'assistenza primariamente psichiatrica delle province e delle regioni.
+6) oceanografia;
 
-E' obbligatorio l'internato presso i reparti neurologici della clinica per le malattie nervose e mentali, durante il secondo anno di corso per l'intero anno accademico; tale internato potra' essere ridotto a non meno di mesi sei per i medici che prestino regolare servizio in ospedale psichiatrico, ed a non meno di mesi quattro per i medici che prestino regolare servizio in reparto neurologico.
+7) analisi matematica (algebrica ed infinitesimale), biennale;
 
-L'esame di diploma di specializzazione consiste nella discussione di una dissertazione scritta su argomento di psichiatria, preventivamente concordato con il direttore della scuola.
+8) meccanica razionale con elementi di statica grafica e disegno;
 
-Dopo l'art. 223 sono inseriti i seguenti articoli relativi alla istituzione della "Scuola di specializzazione in neurologia" e della "Scuola diretta a fini speciali per ortottiste".
+9) statistica;
 
-Scuola di specializzazione in neurologia
+10) chimica fisica;
 
-Art. 224. - La scuola ha sede presso l'istituto di clinica delle malattie nervose e mentali.
+11) paleontologia umana;
 
-La durata del corso e' di quattro anni.
+12) antropologia;
 
-L'ammissione alla scuola avviene con concorso per titoli e per esami.
+13) chimica organica;
 
-Il numero complessivo degli iscritti non potra' superare quello di quaranta.
+14) astronomia;
 
-Un'abbreviazione di due anni di corso puo' essere concessa agli specialisti in psichiatria, neuropsichiatria infantile e neurochirurgia. Un'abbreviazione di un anno di corso puo' essere concessa agli specialisti in altre materie affini (Otorinolaringoiatria, oculistica, medicina interna e radiologia). Le abbreviazioni di corso, concesse a giudizio del consiglio della scuola, comportano da parte dell'allievo il superamento di un esame sulle discipline previste per insegnamento negli anni di corso dei quali si ottiene l'abbuono.
+15) vulcanologia;
 
-Gli insegnamenti impartiti nella scuola sono i seguenti:
+16) anatomia comparata.
 
-1° Anno:
+Gli insegnamenti di: "botanica" e di "zoologia" debbono avere indirizzo biogeografico.
 
-Anatomia ed istologia del sistema nervoso;
+L'insegnamento di "analisi matematica" sara' impartito da due professori, ciascuno dei quali insegnera' alternativamente "analisi algebrica" per il primo anno ed "analisi infinitesimale" per il secondo anno; le studente dovra' sostenere due esami distinti.
 
-Fisiologia del sistema nervoso;
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti fra i complementari.
 
-Biochimica del sistema nervoso;
+Art. 92. - L'esame di mineralogia deve essere preceduto da, quelli di istituzioni di matematiche, fisica sperimentale I, chimica generale ed inorganica con elementi di organica.
 
-Genetica (elementi);
+Gli esami delle materie fondamentali del 3° e 4° anno devono essere preceduti dagli esami delle materie fondamentali del 1° e 2° anno.
 
-Psicologia generale;
+L'esame di geologia applicata deve essere preceduto da quello di geologia.
 
-Psicopatologia;
+Le esercitazioni di topografia e cartografia, petrografia, geologia, paleontologia, fisica terrestre dovranno essere svolte in parte in campagna.
 
-Semeiotica psichiatrica.
+Le tesi di laurea sono solo sperimentali, possono avere indirizzo mineralogico, geologico, paleontologico.
 
-2° Anno:
+All'inizio del 3° anno lo studente dovra' richiedere lo internato presso uno degli istituti di mineralogia e petrografia, geologia e paleontologia, geodesia e geofisica presso i quali svolgera' la tesi di laurea sperimentale.
 
-Anatomia ed istologia patologica del sistema nervoso;
+Art. 93 (gia' 91), riguardante norme comuni e' cosi' integrato:
 
-Semiotica neurologica;
+"L'esame di laurea in scienze matematiche, in fisica, in chimica, in scienze naturali, in matematica e fisica, in scienze biologiche, in scienze geologiche, consiste oltre che nell'esame di cultura generale ed oltre che nelle prove pratiche di cui agli articoli 83 e 85:
 
-Patologia speciale e diagnostica neurologica I;
-
-Neuroradiologia;
-
-Endocrinologia e neurologia vegetativa.
-
-3° Anno:
-
-Patologia speciale e diagnostica neurologica II;
-
-Clinica neurologica e terapia I;
-
-Elettroencefalografia;
-
-Elettromiografia, elettrodiagnostica ed elettroterapia;
-
-Neurooftalmologia;
-
-Neuro-otologia;
-
-Esami di laboratorio.
-
-4° Anno:
-
-Clinica neurologica e terapia II;
-
-Neurochirurgia;
-
-Teoria e clinica della riabilitazione;
-
-Neurotraumatologia anche sotto l'aspetto della medicina legale;
-
-Neurologia in rapporto alla patologia internistica.
-
-E' obbligatorio l'internato, presso i reparti della cattedra di psichiatria (astanteria neuropsichiatrica), durante il primo anno di corso per l'intero anno accademico. Tale internato potra' essere ridotto a non meno di mesi sei per allievi che prestino servizio in reparti neurologici, ed a non meno di mesi quattro per coloro che prestino servizio in ospedale psichiatrico.
-
-E' obbligatorio l'internato, presso la clinica delle malattie nervose e mentali, durante il secondo, terzo e quarto anno di corso per l'intero anno accademico. Tale internato potra' essere ridotto a non meno di mesi quattro per anno per gli allievi che prestino regolare servizio in reparto neurologico.
-
-L'esame di diploma di specializzazione consiste nella discussione di una dissertazione scritta su argomento preventivamente concordato con il direttore della scuola.
-
-Scuola per ortottiste
-
-(Scuola diretta a fini speciali)
-
-Art. 225. - La scuola speciale per ortottiste ha sede presso la clinica oculistica.
-
-La durata del corso per il conseguimento del diploma di ortottista e' di due anni.
-
-La scuola ha lo scopo di preparare le allieve perche' possano coadiuvare i medici oculistici nel campo della diagnosi e della terapia dei difetti di rifrazione, dei disturbi della motilita' oculare in genere e in particolare dell'ambliopia.
-
-Possono essere ammesse alla scuola le aspiranti, di eta' non inferiore ai 17 anni e non superiore ai 30, in possesso di un diploma di scuola media superiore o del diploma di scuola media inferiore integrato da quello di assistente sanitaria o di ostetrica. I necessari requisiti di buona condotta morale, civile e penale saranno accertati d'ufficio.
-
-Il numero complessivo delle iscritte alla scuola non puo' essere superiore a otto.
-
-Chi aspira all'iscrizione al primo anno, dovra' entro il 30 ottobre presentare domanda in carta legale, corredata anche di certificato medico di sana e robusta costituzione fisica e dovra' sostenere un esame di ammissione consistente in una prova di cultura generale, dinanzi ad una commissione composta di tre professori ufficiali della facolta' tra cui il direttore della scuola.
-
-Il direttore della scuola e' di diritto il titolare della cattedra di clinica oculistica.
-
-Gli insegnanti della scuola sono proposti dal consiglio della facolta' di medicina e chirurgia udito il direttore della scuola.
-
-Art. 226. - Le materie di insegnamento sono:
-
-1° Anno:
-
-Anatomia e fisiologia generale;
-
-Anatomia e fisiologia dell'apparato oculare;
-
-Ottica fisica e fisiologica, vizi di rifrazione;
-
-Ortotottica (I parte).
-
-2° Anno:
-
-Ortottica (II parte);
-
-Elementi di patologia oculare;
-
-Nozioni di infermieristica oculare.
-
-Le allieve devono sostenere gli esami di profitto alla fine di ciascun anno. Esse hanno l'obbligo di frequenza alle lezioni teoriche ed alle esercitazioni pratiche.
-
-Non puo' essere iscritto all'anno successivo di corso chi non abbia superato gli esami di profitto dell'anno precedente. E' prevista la posizione di fuori corso.
-
-Per essere ammesse a sostenere l'esame di diploma le allieve dovranno aver seguito i corsi e superato gli esami in tutti gli insegnamenti prescritti ed aver compiuto con esito favorevole tutte le esercitazioni pratiche previste.
-
-Le commissioni per gli esami di profitto sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Esse sono composte dal professore ufficiale della materia, presidente, di un professore ufficiale di materia affine e di un libero docente o cultore della materia.
-
-L'esame per il conseguimento del diploma di ortottista consiste in un colloquio su di un tema preventivamente assegnato dal direttore della scuola, dinanzi ad una commissione di cinque membri, composta dal direttore della scuola e di altri quattro membri, designati dal preside della facolta' di medicina e chirurgia, scelti fra gli insegnanti della scuola.
-
-Gli iscritti alla scuola sono tenuti al pagamento delle seguenti tasse:
-
-Tassa annuale di iscrizione . . . . . . . . . . . . . . L. 15.000 Soprattassa annuale d'esami. . . . . . . . . . . . . . . L. 5.000 Tassa di diploma . . . . . . . . . . . . . . . . . . . . L. 6.000
+(i successivi capoversi a) e b) restano invariati)".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 30 ottobre 1971
+Dato a Napoli, addi' 20 agosto 1959
 
-SARAGAT
+GRONCHI
 
-MISASI
+MEDICI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 17 febbraio 1972 Atti del Governo, registro n. 247, foglio n. 18. - VALENTINI
+alla Corte dei conti, addi' 25 settembre 1959 Atti del Governo, registro n. 120, foglio n. 154. - VILLA
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-L'art. 174, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che la scuola in "Malattie nervose e mentali" e' soppressa e sostituita dalla scuola in "Psichiatria" di nuova istituzione. Allo stesso articolo e' aggiunta la scuola di specializzazione in "Neurologia".   
-L'art. 192, relativo alla scuola di specializzazione in malattie nervose e mentali che muta denominazione in quella di "Scuola di specializzazione in psichiatria" e' abrogato e sostituito dal seguente:   
+Art. 8, relativo alla propedeuticita' da osservarsi nel corso di laurea in giurisprudenza, e' cosi' integrato al numero 1, dopo le parole "diritto agrario" dovra' aggiungersi: "e di diritto internazionale"; al numero 5, dopo le parole "diritto amministrativo" dovra' aggiungersi: "e di diritto internazionale".  
   
-Scuola di specializzazione in psichiatria   
+Art. 11, relativo alla propedeuticita' da osservarsi nel corso di laurea in scienze politiche e' cosi' integrato  
+al numero 3, dopo le parole "di diritto del lavoro" dovra' aggiungersi: "e di diritto internazionale".  
   
-Art. 192. - La scuola ha sede presso l'istituto di clinica delle malattie nervose e mentali (Cattedra di psichiatria nella astanteria neuropsichiatrica).   
-La scuola ha la durata di quattro anni di corso. Ad essa possono essere iscritti soltanto laureati in medicina e chirurgia.   
-L'ammissione alla scuola avviene per concorso per titoli ed esame.   
-Il numero degli iscritti non potra' superare quello massimo di ventiquattro per i complessivi quattro anni di corso.   
-Un'abbreviazione di due anni di corso puo' essere concessa agli specialisti in neurologia od in neuropsichiatria infantile.  
-Un'abbreviazione di un anno di corso puo' essere concessa agli specialisti in altre materie affini (psicologia, neurochirurgia, medicina interna).   
-Le abbreviazioni di corso, concesse a giudizio del consiglio della scuola, comportano da parte dell'allievo il superamento di un esame sulle discipline previste per l'insegnamento negli anni di corso dei quali si ottiene l'abbreviazione.   
-Le materie d'insegnamento sono le seguenti:   
-1° Anno:   
-Anatomia ed istologia del sistema nervoso;   
-Fisiologia del sistema nervoso;   
-Biochimica del sistema nervoso;   
-Genetica (elementi);   
-Psicologia generale;   
-Psicopatologia I;   
-Semeiotica psichiatrica.   
-2° Anno:   
-Anatomia ed istologia patologica del sistema nervoso;   
-Semeiotica neurologica;   
-Patologia speciale e diagnostica neurologica;   
-Neuroradiologia;   
-Endocrinologia e neurologia vegetativa;   
-Elettroencefalografia.   
-3° Anno:   
-Patologia speciale psichiatrica;   
-Psicopatologia II;   
-Clinica psichiatrica I;   
-Psicologia clinica e psicodiagnostica;   
-Psicofarmacologia;   
-Psichiatria in rapporto con la patologia internistica;   
-Esami di laboratorio.   
-4° Anno:   
-Clinica psichiatrica II;   
-Terapia psichiatrica generale;   
-Psicoterapia;   
-Neuropsichiatria infantile;   
-Psichiatria forense e legislazione psichiatrica;   
-Psichiatria sociale (del lavoro, scolastica, igiene e profilassi mentale).   
-E' obbligatorio l'internato presso i reparti ed ambulatori della cattedra di psichiatria (astanteria neuropsichiatrica) durante il primo, il terzo ed il quarto anno di corso per l'intero anno accademico. Tale internato potra' essere ridotto a non meno di mesi quattro per anno per i medici che prestino regolare servizio in ospedali psichiatrici provinciali, od a non meno di mesi sei per i medici che prestino regolare servizio in altre istituzioni d'assistenza primariamente psichiatrica delle province e delle regioni.   
-E' obbligatorio l'internato presso i reparti neurologici della clinica per le malattie nervose e mentali, durante il secondo anno di corso per l'intero anno accademico; tale internato potra' essere ridotto a non meno di mesi sei per i medici che prestino regolare servizio in ospedale psichiatrico, ed a non meno di mesi quattro per i medici che prestino regolare servizio in reparto neurologico.   
-L'esame di diploma di specializzazione consiste nella discussione di una dissertazione scritta su argomento di psichiatria, preventivamente concordato con il direttore della scuola.   
-Dopo l'art. 223 sono inseriti i seguenti articoli relativi alla istituzione della "Scuola di specializzazione in neurologia" e della "Scuola diretta a fini speciali per ortottiste".   
+Art. 20. Agli insegnamenti complementari dei corso di laurea in economia e commercio sono aggiunti quelli di:  
+"tecnica, delle ricerche di mercato e della distribuzione in generale" e di: "lingua araba".  
   
-Scuola di specializzazione in neurologia   
+Art. 33. - Agli istituti annessi alla Facolta' di medicina, e chirurgia e' aggiunto "l'istituto di clinica pediatrica".  
   
-Art. 224. - La scuola ha sede presso l'istituto di clinica delle malattie nervose e mentali.   
-La durata del corso e' di quattro anni.   
-L'ammissione alla scuola avviene con concorso per titoli e per esami.   
-Il numero complessivo degli iscritti non potra' superare quello di quaranta.   
-Un'abbreviazione di due anni di corso puo' essere concessa agli specialisti in psichiatria, neuropsichiatria infantile e neurochirurgia. Un'abbreviazione di un anno di corso puo' essere concessa agli specialisti in altre materie affini (Otorinolaringoiatria, oculistica, medicina interna e radiologia). Le abbreviazioni di corso, concesse a giudizio del consiglio della scuola, comportano da parte dell'allievo il superamento di un esame sulle discipline previste per insegnamento negli anni di corso dei quali si ottiene l'abbuono.   
-Gli insegnamenti impartiti nella scuola sono i seguenti:   
-1° Anno:   
-Anatomia ed istologia del sistema nervoso;   
-Fisiologia del sistema nervoso;   
-Biochimica del sistema nervoso;   
-Genetica (elementi);   
-Psicologia generale;   
-Psicopatologia;   
-Semeiotica psichiatrica.   
-2° Anno:   
-Anatomia ed istologia patologica del sistema nervoso;   
-Semiotica neurologica;   
-Patologia speciale e diagnostica neurologica I;   
-Neuroradiologia;   
-Endocrinologia e neurologia vegetativa.   
-3° Anno:   
-Patologia speciale e diagnostica neurologica II;   
-Clinica neurologica e terapia I;   
-Elettroencefalografia;   
-Elettromiografia, elettrodiagnostica ed elettroterapia;   
-Neurooftalmologia;   
-Neuro-otologia;   
-Esami di laboratorio.   
-4° Anno:   
-Clinica neurologica e terapia II;   
-Neurochirurgia;   
-Teoria e clinica della riabilitazione;   
-Neurotraumatologia anche sotto l'aspetto della medicina legale;  
-Neurologia in rapporto alla patologia internistica.   
-E' obbligatorio l'internato, presso i reparti della cattedra di psichiatria (astanteria neuropsichiatrica), durante il primo anno di corso per l'intero anno accademico. Tale internato potra' essere ridotto a non meno di mesi sei per allievi che prestino servizio in reparti neurologici, ed a non meno di mesi quattro per coloro che prestino servizio in ospedale psichiatrico.   
-E' obbligatorio l'internato, presso la clinica delle malattie nervose e mentali, durante il secondo, terzo e quarto anno di corso per l'intero anno accademico. Tale internato potra' essere ridotto a non meno di mesi quattro per anno per gli allievi che prestino regolare servizio in reparto neurologico.   
-L'esame di diploma di specializzazione consiste nella discussione di una dissertazione scritta su argomento preventivamente concordato con il direttore della scuola.   
+Art. 35. - Agli insegnamenti complementari del corso di laurea in farmacia e' aggiunto quello di:  
+"biochimica applicata".  
   
-Scuola per ortottiste   
-(Scuola diretta a fini speciali)   
+Art. 40. - E' soppresso l'istituto di chimica generale, annesso alla Facolta' di farmacia.  
   
-Art. 225. - La scuola speciale per ortottiste ha sede presso la clinica oculistica.   
-La durata del corso per il conseguimento del diploma di ortottista e' di due anni.   
-La scuola ha lo scopo di preparare le allieve perche' possano coadiuvare i medici oculistici nel campo della diagnosi e della terapia dei difetti di rifrazione, dei disturbi della motilita' oculare in genere e in particolare dell'ambliopia.   
-Possono essere ammesse alla scuola le aspiranti, di eta' non inferiore ai 17 anni e non superiore ai 30, in possesso di un diploma di scuola media superiore o del diploma di scuola media inferiore integrato da quello di assistente sanitaria o di ostetrica. I necessari requisiti di buona condotta morale, civile e penale saranno accertati d'ufficio.   
-Il numero complessivo delle iscritte alla scuola non puo' essere superiore a otto.   
-Chi aspira all'iscrizione al primo anno, dovra' entro il 30 ottobre presentare domanda in carta legale, corredata anche di certificato medico di sana e robusta costituzione fisica e dovra' sostenere un esame di ammissione consistente in una prova di cultura generale, dinanzi ad una commissione composta di tre professori ufficiali della facolta' tra cui il direttore della scuola.   
-Il direttore della scuola e' di diritto il titolare della cattedra di clinica oculistica.   
-Gli insegnanti della scuola sono proposti dal consiglio della facolta' di medicina e chirurgia udito il direttore della scuola.   
-Art. 226. - Le materie di insegnamento sono:   
-1° Anno:   
-Anatomia e fisiologia generale;   
-Anatomia e fisiologia dell'apparato oculare;   
-Ottica fisica e fisiologica, vizi di rifrazione;   
-Ortotottica (I parte).   
-2° Anno:   
-Ortottica (II parte);   
-Elementi di patologia oculare;   
-Nozioni di infermieristica oculare.   
-Le allieve devono sostenere gli esami di profitto alla fine di ciascun anno. Esse hanno l'obbligo di frequenza alle lezioni teoriche ed alle esercitazioni pratiche.   
-Non puo' essere iscritto all'anno successivo di corso chi non abbia superato gli esami di profitto dell'anno precedente. E' prevista la posizione di fuori corso.   
-Per essere ammesse a sostenere l'esame di diploma le allieve dovranno aver seguito i corsi e superato gli esami in tutti gli insegnamenti prescritti ed aver compiuto con esito favorevole tutte le esercitazioni pratiche previste.   
-Le commissioni per gli esami di profitto sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Esse sono composte dal professore ufficiale della materia, presidente, di un professore ufficiale di materia affine e di un libero docente o cultore della materia.   
-L'esame per il conseguimento del diploma di ortottista consiste in un colloquio su di un tema preventivamente assegnato dal direttore della scuola, dinanzi ad una commissione di cinque membri, composta dal direttore della scuola e di altri quattro membri, designati dal preside della facolta' di medicina e chirurgia, scelti fra gli insegnanti della scuola.   
-Gli iscritti alla scuola sono tenuti al pagamento delle seguenti tasse:   
+Art. 78. - E' cosi' integrato:  
+"La Facolta' di scienze tisiche, matematiche e naturali conferisce le seguenti lauree:  
+a) scienze matematiche;  
+b) fisica;  
+c) chimica;  
+d) scienze naturali;  
+e) matematica e fisica;  
+f) scienze biologiche;  
+g) scienze geologiche.  
+Dopo l'art. 90, e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti articoli relativi al corso di laurea in scienze geologiche.  
   
-Tassa annuale di iscrizione . . . . . . . . . . . . . . L. 15.000 Soprattassa annuale d'esami. . . . . . . . . . . . . . . L. 5.000 Tassa di diploma . . . . . . . . . . . . . . . . . . . . L. 6.000   
+Laurea in scienze geologiche  
+  
+Art. 91. - La durata del corso degli studi per la laurea in scienze geologiche e' di quattro anni.  
+E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.  
+  
+Insegnamenti fondamentali:  
+1) istituzioni di matematiche;  
+2) fisica sperimentale (biennale);  
+3) chimica generale ed inorganica con elementi di organica;  
+4) mineralogia;  
+5) geologia;  
+6) geologia applicata;  
+7) paleontologia;  
+8) geografia;  
+9) geografia fisica;  
+10) topografia e cartografia;  
+11) fisica terrestre;  
+12) petrografia.  
+  
+Insegnamenti complementari:  
+1) geochimica;  
+2) geodesia;  
+3) geografia economica;  
+4) zoologia;  
+5) botanica;  
+6) oceanografia;  
+7) analisi matematica (algebrica ed infinitesimale), biennale;  
+8) meccanica razionale con elementi di statica grafica e disegno;  
+9) statistica;  
+10) chimica fisica;  
+11) paleontologia umana;  
+12) antropologia;  
+13) chimica organica;  
+14) astronomia;  
+15) vulcanologia;  
+16) anatomia comparata.  
+Gli insegnamenti di: "botanica" e di "zoologia" debbono avere indirizzo biogeografico.  
+L'insegnamento di "analisi matematica" sara' impartito da due professori, ciascuno dei quali insegnera' alternativamente "analisi algebrica" per il primo anno ed "analisi infinitesimale" per il secondo anno; le studente dovra' sostenere due esami distinti.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti fra i complementari.  
+  
+Art. 92. - L'esame di mineralogia deve essere preceduto da, quelli di istituzioni di matematiche, fisica sperimentale I, chimica generale ed inorganica con elementi di organica.  
+Gli esami delle materie fondamentali del 3° e 4° anno devono essere preceduti dagli esami delle materie fondamentali del 1° e 2° anno.  
+L'esame di geologia applicata deve essere preceduto da quello di geologia.  
+Le esercitazioni di topografia e cartografia, petrografia, geologia, paleontologia, fisica terrestre dovranno essere svolte in parte in campagna.  
+Le tesi di laurea sono solo sperimentali, possono avere indirizzo mineralogico, geologico, paleontologico.  
+All'inizio del 3° anno lo studente dovra' richiedere lo internato presso uno degli istituti di mineralogia e petrografia, geologia e paleontologia, geodesia e geofisica presso i quali svolgera' la tesi di laurea sperimentale.  
+  
+Art. 93 (gia' 91), riguardante norme comuni e' cosi' integrato:  
+"L'esame di laurea in scienze matematiche, in fisica, in chimica, in scienze naturali, in matematica e fisica, in scienze biologiche, in scienze geologiche, consiste oltre che nell'esame di cultura generale ed oltre che nelle prove pratiche di cui agli articoli 83 e 85:  
+(i successivi capoversi a) e b) restano invariati)".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1971
+### Dato a Napoli, addi' 20 agosto 1959
 
-SARAGAT MISASI
+GRONCHI MEDICI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 17 febbraio 1972
+Registrato alla Corte dei conti, addi' 25 settembre 1959
 
-Atti del Governo, registro n. 247, foglio n. 18. - VALENTINI
+Atti del Governo, registro n. 120, foglio n. 154. - VILLA

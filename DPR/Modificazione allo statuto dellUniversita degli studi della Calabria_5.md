@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 1202
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1986 n. 517
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 1202
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1986 n. 517
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi della Calabria.
 -----------------------------------------------------------------------
@@ -39,19 +39,22 @@ Articolo unico
 --------------
 
   
-Nell'art. 56 e nella tabella F all'elenco degli insegnamenti complementari afferenti al dipartimento di economia politica e' aggiunto il seguente nuovo insegnamento:  
-statistica.  
+  
+Nell'art. 57, relativo al dipartimento di organizzazione aziendale e di amministrazione pubblica e nella tabella G (allegata all'art.  
+35) e' aggiunto l'insegnamento "diritto amministrativo".   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Selva di Val Gardena, addi' 2 settembre 1983
+### Dato a Roma, addi' 2 maggio 1986
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 28 aprile 1984
+Registrato alla Corte dei conti, addi' 11 agosto 1986
 
-Registro n. 25 Istruzione, foglio n. 219
+Registro n. 63 Istruzione, foglio n. 341

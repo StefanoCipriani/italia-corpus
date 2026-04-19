@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1127
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 luglio 1979 n. 440
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1127
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 luglio 1979 n. 440
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 -------------------------------------------------------------------
@@ -10,23 +10,21 @@ Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [regio decreto 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1962-09-07;1540), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Visto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Visto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduto l'[art. 16 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art16);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 6 marzo 1978, n. 102](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-03-06;102);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio universitario nazionale nel suo parere;
+Veduta la proposta di modifiche dello statuto formulata dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere del Consiglio universitario nazionale;
-
-Veduta la necessita' di adeguare le norme sulla direzione delle scuole di perfezionamento e di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
 Sulla
 -----
@@ -38,71 +36,228 @@ Articolo unico
 
   
   
-Lo statuto dell'Universita' di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Gli articoli 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206 e 207 dello statuto dell'Universita' degli studi di Trieste sono sostituiti dai seguenti:   
   
-Dopo l'art. 120, e con il conseguente spostamento della numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di perfezionamento in "scienza dell'educazione" presso la facolta' di magistero.   
-Scuola di perfezionamento in scienza dell'educazione   
-Art. 121. - Alla facolta' di magistero dell'Universita' di Trieste e' annessa una scuola di perfezionamento in scienze dell'educazione con lo scopo di integrare, qualificandola professionalmente, la preparazione di giovani che intendono dedicarsi all'insegnamento.   
-Alla scuola possono essere iscritti laureati di qualsiasi facolta' in possesso di un titolo di studio che dia diritto di partecipare ad esami di abilitazione o a concorsi per scuole secondarie.   
-Possono essere ammessi alla scuola un massimo di sessanta iscritti.  
-L'ammissione verra' decisa dal consiglio della scuola dopo un colloquio del richiedente davanti ad apposita commissione.   
-La durata della scuola e' di due anni.   
-La frequenza della scuola e' obbligatoria.   
-Art. 122. - Nella scuola sono impartiti i seguenti insegnamenti distinti per ciascun anno di corso:   
+Scuola superiore di lingue moderne per interpreti e traduttori   
+  
+Art. 184. - Nell'Universita' degli studi di Trieste e' istituita la scuola superiore di lingue moderne per interpreti e traduttori, con effetto dall'entrata in vigore del [decreto del Presidente della Repubblica 6 marzo 1978, n. 102](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-03-06;102).   
+La scuola si propone di fornire la necessaria preparazione tecnica e scientifica a coloro che intendono dedicarsi all'esercizio della professione di traduttore e di interprete.   
+L'ammissione come allievi della scuola e' subordinata all'esito dell'esame di ammissione, di cui ai successivi articoli 190 e 193, bandito annualmente dalla scuola stessa. Gli iscritti alla scuola sono studenti universitari a tutti gli effetti. La scuola superiore di lingue moderne per interpreti e traduttori assorbe la scuola di lingue moderne per traduttori ed interpreti di conferenze funzionante presso la facolta' di economia e commercio dell'Universita' degli studi di Trieste ed istituita con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540).   
+Art. 185. - La scuola superiore di lingue moderne per interpreti e traduttori ha sede a Trieste presso la Universita' degli studi di Trieste e gode di autonomia amministrativa, didattica e disciplinare, nei limiti stabiliti dal [decreto del Presidente della Repubblica del 6 marzo 1978, n. 102](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-03-06;102) e dalle norme di cui al testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e successive modificazioni.   
+Art. 186. - Gli organi di direzione della scuola sono:   
+1) il comitato direttivo;   
+2) il direttore;   
+3) il consiglio della scuola superiore.   
+Art. 187. - Il comitato direttivo e' composto:   
+1) dal rettore dell'Universita' di Trieste che lo presiede;   
+2) dal direttore della scuola superiore, con funzione di vicepresidente;   
+3) da due rappresentanti designati dal consiglio di amministrazione dell'Universita' di Trieste;   
+4) da due rappresentanti dei docenti della scuola superiore eletti dal consiglio della scuola;   
+5) da due rappresentanti degli studenti eletti dagli studenti della scuola;   
+6) da due rappresentanti del personale non docente eletti dal personale non docente assegnato alla scuola;   
+7) dal direttore amministrativo della scuola che svolge le funzioni di segretario.   
+Il comitato direttivo dura in carica un biennio.   
+Il comitato direttivo sovrintende alla gestione speciale della scuola e predispone il bilancio e il conto consuntivo annuale della scuola superiore che vanno approvati dal consiglio di amministrazione dell'Universita' di Trieste e costituiscono rispettivamente parte integrante del bilancio e del conto consuntivo dell'Universita' stessa.   
+Le rappresentanze, di cui ai punti 4), 5) e 6), saranno elette dalle corrispondenti categorie e secondo le modalita' fissate dall'[art. 9 del decreto-legge 1 ottobre 1973, n. 580](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973-10-01;580~art9), convertito, con modificazioni, nella [legge 30 novembre 1973, n. 766](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-30;766), e successive norme integrative e modificative (cfr. art. 35 del decreto del Presidente della Repubblica istitutivo 6 marzo 1978, n. 102).   
+In conformita' di quanto disposto dall'[art. 9, comma quarto, del decreto-legge 1 ottobre 1973, n. 580](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973-10-01;580~art9-com4), convertito, con modificazioni, con [legge 30 novembre 1973, n. 766](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-30;766), e successive norme integrative modificate (cfr. art. 36 del citato decreto del Presidente della Repubblica istitutivo), il direttore della scuola e' un professore di ruolo della scuola stessa eletto dal consiglio della scuola e dura in carica un triennio.   
+Il direttore della scuola promuove e sovrintende allo svolgimento delle attivita' della stessa ed esercita tutti i poteri attribuitigli dal [decreto del Presidente della Repubblica 6 marzo 1978, n. 102](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-03-06;102), dallo statuto e dai regolamenti dell'Universita' nonche' le altre attribuzioni previste dall'ordinamento universitario per i presidi di facolta'.   
+Art. 188. - Il consiglio della scuola svolge le funzioni di consiglio di facolta' ed e' composto dal direttore che lo presiede, dai professori ufficiali della scuola e dai rappresentanti degli studenti della scuola nelle proporzioni e secondo le modalita' di partecipazione di cui all'[art. 9 del decreto-legge 1 ottobre 1973, n.   
+580](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973-10-01;580~art9), convertito con [legge 30 novembre 1973, n. 766](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-30;766), e successive modificazioni ed integrazioni, in materia di consiglio di facolta'.   
+Art. 189. - L'insegnamento ufficiale e' impartito dai professori di ruolo e dai professori incaricati.   
+Tutti i docenti della scuola sono docenti universitari. Per quanto riguarda le procedure di conferimento degli incarichi la scuola dovra' osservare le norme stabilite per il conferimento degli incarichi di insegnamento dall'[art. 4 del decreto-legge 1 ottobre 1973, n. 580](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973-10-01;580~art4), convertito, con modificazioni, nella [legge 30 novembre 1973, n. 766](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-30;766).   
+Art. 190. - La scuola rilascia due titoli: un diploma alla fine del secondo anno e la laurea per interprete o traduttore dopo quattro anni.   
+Al primo anno della scuola possono iscriversi coloro che siano in possesso di un titolo di istruzione secondaria di secondo grado valido per l'immatricolazione ai corsi di laurea universitari, previo superamento dell'esame di ammissione di cui al precedente art. 184 e al seguente art. 193.   
+Al termine del primo biennio gli allievi che abbiano superato tutti gli esami di profitto sostengono un esame per il conseguimento del diploma.   
+Al terzo anno potranno iscriversi coloro che abbiano conseguito il diploma (della scuola superiore). Prima dell'iscrizione al terzo anno, indirizzo interpreti, gli allievi frequenteranno un breve seminario e sosterranno un colloquio di orientamento attitudinale.   
+Coloro che abbiano titolo all'iscrizione al terzo anno di una corrispondente facolta', e coloro che abbiano titolo all'iscrizione al terzo anno di corso della scuola di lingue moderne per traduttori ed interpreti di conferenze funzionante presso la facolta' di economia e commercio dell'Universita' di Trieste, potranno iscriversi al terzo anno della scuola superiore previo superamento di un esame di concorso e nel numero di posti a tal fine stabilito annualmente dal consiglio della scuola. Le prove per l'esame di concorso dovranno consentire l'accertamento della conoscenza della prima e seconda lingua straniera nonche' delle attitudini per la traduzione o per l'interpretazione.   
+Art. 191. - La scuola ha, nel secondo biennio, due indirizzi:   
+1) indirizzo per traduttori;   
+2) indirizzo per interpreti.   
+Entro il 31 luglio il consiglio della scuola puo' concedere agli studenti del terzo anno di cambiare l'indirizzo prescelto, esonerandoli dall'obbligo della frequenza ed indicando quali esami mancanti devono essere sostenuti per ottenere l'iscrizione al quarto anno.   
+Art. 192. - Al momento della prima applicazione del [decreto del Presidente della Repubblica 6 marzo 1978, n. 102](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-03-06;102), le lingue insegnate come "prima lingua straniera" sono il francese, l'inglese, il tedesco e l'italiano per stranieri e le lingue insegnate come "seconda lingua straniera" sono il francese, l'inglese, l'olandese, il russo, il serbo-croato, lo sloveno, lo spagnolo ed il tedesco.   
+Per ogni corso gli studenti seguono una "prima", una "seconda" ed eventualmente una terza lingua straniera, scelta fra le "seconde lingue straniere".   
+Art. 193. - Tutti i corsi della scuola possono essere frequentati da coloro che abbiano superato l'esame di ammissione o di concorso e siano in regola con il pagamento delle tasse.   
+Con l'esame di ammissione i candidati devono dimostrare di possedere una buona conoscenza della lingua prescelta come "prima lingua straniera".   
+L'esame di ammissione comprende un dettato nella prima lingua straniera, una traduzione dalla prima lingua straniera in italiano ed una traduzione dall'italiano nella prima lingua straniera. Per queste prove non e' concesso l'ausilio di alcun vocabolario, dizionario o altro materiale. I candidati devono ottenere un giudizio positivo in tutte le tre prove di esame ed, eventualmente, potranno ripetere l'esame di ammissione negli anni successivi.   
+Gli studenti stranieri, iscrivendosi al corso di italiano "prima" lingua, devono scegliere tra il francese, l'inglese o il tedesco la lingua base per l'intero corso di studio.   
+L'esame di ammissione e quello di concorso, di cui all'art. 190, hanno luogo in un'unica sessione autunnale ed i risultati vengono esposti all'albo della scuola. Gli esami non costituiscono titolo di studio e non danno diritto ad attestazioni di alcun genere.   
+I candidati dichiarati idonei in base all'esame di ammissione o di concorso possono immatricolarsi anche nell'anno accademico successivo.   
+Art. 194. - L'insegnamento e' svolto in corsi di lezioni, esercitazioni e seminari. Durante il terzo e quarto anno di corso possono essere organizzate speciali esercitazioni pubbliche per gli allievi interpreti, con il consenso e sotto il controllo del consiglio della scuola, in occasione di congressi internazionali in Italia o all'estero.   
+La frequenza alle lezioni e' obbligatoria ed e' comprovata dalle attestazioni dei docenti sul libretto d'iscrizione. Lo studente al quale sia stata negata l'attestazione di frequenza ad una materia non e' ammesso al rispettivo esame.   
+Gli insegnamenti sono articolati in corsi annuali e semestrali.   
+Art. 195. - Per ogni anno di corso e' previsto il seguente piano di studi obbligatorio:   
 1° Anno:   
-pedagogia;   
-didattica;   
-psicologia pedagogica;   
-un complementare.   
+1) prima lingua straniera con esercitazioni pratiche - 1 (annuale);   
+2) traduzione dall'italiano nella prima lingua straniera - 1 (annuale);   
+3) traduzione in italiano dalla prima lingua straniera - 1 (annuale);   
+4) lingua, civilta' ed istituzioni del Paese (prima lingua straniera) - 1 (annuale);   
+5) seconda lingua straniera con esercitazioni pratiche - 1 (annuale);   
+6) traduzione dall'italiano nella seconda lingua straniera - 1 (annuale);   
+7) traduzione in italiano dalla seconda lingua straniera - 1 (annuale);   
+8) lingua madre d'iscrizione - 1 (annuale); (a)   
+9) tecnica e corrispondenza commerciale nella prima lingua   
+straniera (annuale);   
+10) linguistica generale ed applicata - 1 (annuale);   
+11) insegnamento opzionale - 1 - scelto fra i complementari attivati (semestrale).   
 2° Anno:   
-pedagogia;   
-didattica;   
-un complementare;   
-un seminario o partecipazione a un progetto sperimentale.   
-Sono insegnamenti complementari:   
-auxologia ed igiene;   
-istituzioni di diritto pubblico e legislazione scolastica;   
-psicologia dell'eta' evolutiva;   
-sociologia dell'educazione.   
-Art. 123. - La scuola di perfezionamento in scienze dell'educazione prevede l'attuazione delle norme generali per le scuole di perfezionamento e di specializzazione di cui al titolo 3, cap. I, articoli 105, 106, 107, 108, 109 e 111 dello statuto dell'Universita' di Trieste.   
-In particolare si precisa ai sensi del suddetto art. 107 che oltre agli insegnamenti stabiliti nello statuto, presso la scuola potranno svolgersi cicli di conferenze e di esercitazioni su speciali materie stabilite annualmente dal consiglio di facolta'.   
-Su tali materie potra' sostenersi la prova d'esame.   
-La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima. La scuola sara' retta da un direttore e da un consiglio composto dai professori ufficiali che impartiscono insegnamenti nella scuola.   
-L'organizzazione della scuola e' affidata all'istituto di pedagogia, a cui fanno capo gli insegnamenti della scuola stessa.  
-Detto istituto porra' a disposizione della scuola quanto necessario per il suo funzionamento e in particolare i corredi di carattere scientifico e bibliografico e i supporti ed i sussidi di carattere didattico che sono disponibili in misura sufficiente nella sede dell'istituto.   
-Ai sensi dell'art. 111 dello statuto dell'Universita' di Trieste, le tasse di iscrizione e le soprattasse della scuola sono le seguenti:   
+1) prima lingua straniera con esercitazioni pratiche - 2 (annuale);   
+2) traduzione dall'italiano nella prima lingua straniera - 2 (annuale);   
+3) traduzione in italiano dalla prima lingua straniera - 2 (annuale);   
+4) linguistica generale ed applicata - 2 (annuale);   
+5) lingua, civilta' e istituzioni del Paese (prima lingua straniera) - 2 (annuale);   
+6) seconda lingua straniera con esercitazioni pratiche - 2 (annuale);   
+7) traduzione dall'italiano nella seconda lingua straniera - 2 (annuale);   
+8) traduzione in italiano dalla seconda lingua straniera - 2 (annuale);   
+9) lingua madre d'iscrizione - 2 (annuale); (b)   
+10) geografia politica ed economica (annuale);   
+11) insegnamento opzionale - 2 - scelto fra i complementari attivati (semestrale).   
+3° Anno (indirizzo interpreti):   
+1) prima lingua straniera con esercitazioni pratiche - 3 (annuale);   
+2) seconda lingua straniera con esercitazioni pratiche - 3 (annuale);   
+3) interpretazione consecutiva dall'italiano nella prima lingua straniera - 1 (annuale);   
+4) interpretazione consecutiva in italiano dalla seconda lingua straniera - 1 (annuale);   
+5) interpretazione consecutiva in italiano dalla prima lingua straniera - 1 (annuale);   
+6) interpretazione simultanea dall'italiano nella prima lingua straniera - 1 (annuale);   
+7) interpretazione simultanea in italiano dalla prima lingua straniera - 1 (annuale);   
+8) interpretazione simultanea in italiano dalla seconda lingua straniera - 1 (annuale);   
+9) letteratura della lingua madre d'iscrizione - 1 (annuale);(c)   
+10) organizzazioni internazionali (annuale);   
+11) insegnamento opzionale - 3 - scelto tra i complementari attivati (semestrale).   
+4° Anno (indirizzo interpreti):   
+1) prima lingua straniera con esercitazioni pratiche - 4 (annuale);   
+2) seconda lingua straniera con esercitazioni pratiche - 4 (annuale);   
+3) interpretazione consecutiva dall'italiano nella prima lingua straniera - 2 (annuale);   
+4) interpretazione consecutiva in italiano dalla prima lingua straniera - 2 (annuale);   
+5) interpretazione consecutiva in italiano dalla seconda lingua straniera - 2 (annuale);   
+6) interpretazione simultanea dall'italiano nella prima lingua straniera - 2 (annuale);   
+7) interpretazione simultanea in italiano dalla prima lingua straniera - 2 (annuale);   
+8) interpretazione simultanea in italiano dalla seconda lingua straniera - 2 (annuale);   
+9) letteratura della lingua madre d'iscrizione - 2 (annuale);(d)   
+10) insegnamento opzionale - 4 - scelto tra i complementari   
+attivati (semestrale).   
+3° Anno (indirizzo traduttori):   
+1) prima lingua straniera con esercitazioni pratiche - 3 (annuale);   
+2) seconda lingua straniera con esercitazioni pratiche - 3 (annuale);   
+3) traduzione dall'italiano nella prima lingua straniera con elementi di traduzione specializzata - 1 (annuale);   
+4) traduzione in italiano dalla prima lingua straniera con elementi di traduzione specializzata - 1 (annuale);   
+5) traduzione dall'italiano nella seconda lingua straniera - 3 (annuale);   
+6) traduzione in italiano dalla seconda lingua straniera - 3 (annuale);   
+7) letteratura della prima lingua straniera - 1 (annuale);   
+8) letteratura della seconda lingua straniera - 1 (annuale);   
+9) letteratura della lingua madre d'iscrizione - 1 (annuale);(c)   
+10) organizzazioni internazionali (annuale);   
+11) insegnamento opzionale - 3 - scelto tra i complementari attivati (semestrale).   
+4° Anno (indirizzo traduttori):   
+1) prima lingua straniera con esercitazioni pratiche - 4 (annuale);   
+2) seconda lingua straniera con esercitazioni pratiche - 4 (annuale);   
+3) traduzione dall'italiano nella prima lingua straniera con elementi di traduzione specializzata - 2 (annuale);   
+4) traduzione in italiano dalla prima lingua straniera con elementi di traduzione specializzata - 2 (annuale);   
+5) traduzione dall'italiano nella seconda lingua straniera - 4 (annuale);   
+6) traduzione in italiano dalla seconda lingua straniera - 4 (annuale);   
+7) letteratura della prima lingua straniera - 2 (annuale);   
+8) letteratura della seconda lingua straniera - 2 (annuale);   
+9) letteratura della lingua madre d'iscrizione - 2 (annuale);(d)   
+10) insegnamento opzionale - 4 - scelto tra i complementari   
+attivati (semestrale).   
+Art. 196. - La scuola attivera' annualmente sei insegnamenti opzionali (semestrali) al fine di permettere agli studenti di approfondire la loro preparazione in alcuni dei principali settori nei quali svolgeranno la loro attivita' professionale di interpreti e di traduttori, e cioe' due insegnamenti nel settore politico-economico, due nel settore sociale-giuridico e due nel settore tecnico-scientifico.   
+Durante i quattro anni di corso gli studenti hanno l'obbligo di sostenere ogni anno un esame opzionale (semestrale) scegliendolo tra gli insegnamenti complementari previsti nello statuto.   
+Insegnamenti complementari (semestrali):   
+1) elementi di diritto pubblico e privato;   
+2) elementi di diritto commerciale;   
+3) elementi di diritto internazionale;   
+4) fondamenti di politica economica;   
+5) fondamenti di economia;   
+6) elementi di scienza delle finanze;   
+7) introduzione allo studio delle risorse naturali;   
+8) elementi biologici relativi alle scienze mediche;   
+9) elementi clinici relativi alle scienze mediche;   
+10) nozioni introduttive alle discipline ingegneristiche;   
+11) nozioni introduttive alle discipline chimiche;   
+12) nozioni introduttive alle discipline fisiche;   
+13) nozioni introduttive alle scienze naturali.   
+Art. 197. - Gli esami di profitto, di diploma e di laurea si svolgono nei periodi fissati dall'art. 164 del testo unico e dell'[art. 1 della legge 5 gennaio 1955, n. 8](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-01-05;8~art1).   
+Le commissioni degli esami di profitto, di diploma e di laurea, sono costituite secondo quanto stabilito dall'art. 42 del regolamento studenti approvato con [regio decreto 4 giugno 1938, n. 1269](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-04;1269).   
+Art. 198. - Per tutte le prove scritte d'esame, previste nel primo biennio, non e' concesso l'uso di dizionari o vocabolari di alcun genere.   
+Per le prove scritte di esame del secondo biennio e dell'esame finale di laurea potra', eventualmente, essere concesso l'uso di vocabolari o dizionari a giudizio del consiglio della scuola.   
+Art. 199. - Per essere ammesso all'esame finale per il conseguimento del diploma lo studente deve aver superato i seguenti diciotto esami annuali e i due esami semestrali:   
+prima lingua straniera con esercitazioni pratiche 1 e 2 (due esami);   
+traduzione dall'italiano nella prima lingua straniera 1 e 2 (due esami);   
+traduzione in italiano dalla prima lingua straniera 1 e 2 (due esami);   
+seconda lingua straniera con esercitazioni pratiche 1 e 2 (due esami);   
+traduzione dall'italiano nella seconda lingua straniera 1 e 2 (due esami);   
+traduzione in italiano dalla seconda lingua straniera 1 e 2 (due esami);   
+lingua, civilta' ed istituzioni del Paese (prima lingua straniera) (due esami);   
+lingua madre di iscrizione 1 e 2 (un esame);   
+tecnica e corrispondenza commerciale nella prima lingua straniera (un esame);   
+linguistica generale ed applicata 1 e 2 (un esame);   
+geografia politica ed economica (un esame);   
+insegnamento opzionale 1 (un esame) (semestrale);   
+insegnamento opzionale 2 (un esame) (semestrale).   
+L'esame finale per il conseguimento del diploma consiste in prove di accertamento della preparazione professionale del candidato determinate dal consiglio della scuola.   
+Per essere ammesso all'esame finale per il conseguimento della laurea lo studente deve aver superato nove esami annuali, comuni ai due indirizzi, che sono:   
+prima lingua straniera con esercitazioni pratiche 3 e 4 (due esami);   
+seconda lingua straniera con esercitazioni pratiche 3 e 4 (due esami);   
+letteratura della lingua madre d'iscrizione 1 e 2 (due esami);   
+organizzazioni internazionali (un esame);   
+insegnamento opzionale 3 (un esame);   
+insegnamento opzionale 4 (un esame).   
+Gli studenti che si presentano all'esame finale per il conseguimento della laurea per interprete devono aver superato inoltre i seguenti dodici esami caratterizzanti:   
+interpretazione consecutiva dall'italiano nella prima lingua straniera 1 e 2 (due esami);   
+interpretazione consecutiva in italiano dalla prima lingua straniera 1 e 2 (due esami);   
+interpretazione consecutiva in italiano dalla seconda lingua straniera 1 e 2 (due esami);   
+interpretazione simultanea dall'italiano nella prima lingua straniera 1 e 2 (due esami);   
+interpretazione simultanea in italiano dalla prima lingua straniera 1 e 2 (due esami);   
+interpretazione simultanea in italiano dalla seconda lingua straniera 1 e 2 (due esami).   
+Gli studenti che si presentano all'esame finale per il conseguimento delLa laurea per traduttore devono, inoltre, aver superato i seguenti dodici esami caratterizzanti:   
+traduzione dall'italiano nella prima lingua straniera con elementi di traduzione specializzata 1 e 2 (due esami);   
+traduzione in italiano dalla prima lingua straniera con elementi di traduzione specializzata 1 e 2 (due esami);   
+traduzione dall'italiano nella seconda lingua straniera 3 e 4 (due esami);   
+traduzione in italiano dalla seconda lingua straniera 3 e 4 (due esami);   
+letteratura della prima lingua straniera 1 e 2 (due esami);   
+letteratura della seconda lingua straniera 1 e 2 (due esami).   
+L'esame finale per i candidati alla laurea per interprete comprende le seguenti prove: relazioni orali in italiano e nella prima lingua straniera su argomenti sorteggiati in precedenza; interpretazione consecutiva dalla prima lingua straniera in italiano; interpretazione consecutiva dalla seconda lingua straniera in italiano; interpretazione simultanea dalla prima lingua straniera in italiano; interpretazione simultanea dalla seconda lingua straniera in italiano; interpretazione simultanea oppure consecutiva dall'italiano nella prima lingua straniera.   
+L'esame finale per i candidati alla laurea per traduttore comprende le seguenti prove: traduzione dall'italiano nella prima lingua straniera; traduzione dalla prima lingua straniera in italiano; traduzione dalla seconda lingua straniera in italiano; discussione orale di una traduzione in italiano di un testo nella prima lingua straniera eseguito in precedenza su un argomento concordato con il relatore e corredato da un commento critico.   
+Art. 200. - Le tasse e soprattasse nonche' le tasse di diploma o di laurea dovute dagli studenti in corso e fuori corso devono essere conformi a quelle stabilite dall'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).   
+L'ammontare invece dei contributi dovra' essere stabilito prima dell'inizio dell'anno accademico dal consiglio di amministrazione con la procedura di cui all'art. 11 della citata legge n. 1551.   
+Art. 201. - Per quanto non previsto dal presente statuto si applicano le norme vigenti per l'ordinamento universitario.   
   
-Primo anno:   
-tassa di immatricolazione . . . . . . . . . . . . . . . . . L. 10.000 tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 50.000 tassa annuale di esami. . . . . . . . . . . . . . . . . . . L. 10.000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . L. 70.000 Anni successivi:   
-tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 50.000 tassa annuale di esami. . . . . . . . . . . . . . . . . . . L. 10.000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . L. 60.000   
+Norme transitorie.   
   
-Soprattassa di diploma L. 10.000, mentre la tassa di diploma e' fissata a norma di legge.   
-Come per legge (art. 20 del testo unico) agli insegnamenti si provvedera' sia con docenti della facolta' di magistero, sia con opportuni raggruppamenti e coordinamenti di insegnamenti propri di altre facolta' della stessa Universita'.   
-Il consiglio della facolta' di magistero provvedera' secondo la normativa vigente alla nomina del direttore e dei docenti della scuola stessa.   
-Art. 124. - Di uno stesso insegnamento, tra quelli indicati, possono venir incaricati piu' docenti aventi specifica competenza nelle diverse parti del programma.   
-Art. 125. - Il consiglio direttivo della scuola determina:   
-a) i curricoli della stessa;   
-b) i programmi dei singoli corsi di insegnamento e la rispettiva durata;   
-c) il numero degli esami richiesti per l'ammissione al secondo anno;   
-d) le proposte da sottoporre al consiglio di amministrazione dell'Universita' per iniziative integrative dell'attivita' normale della scuola.   
-Art. 126. - Il diploma della scuola sara' conseguibile con la discussione orale di un documento scritto, su un tema o prova sperimentale concordati con uno dei docenti della scuola, sentito il parere del consiglio direttivo.   
-Il candidato non riconosciuto idoneo ad una prima prova dell'esame di diploma puo' ripresentarsi una seconda volta, ma non nello stesso anno accademico.   
-Gli esami previsti dal curricolo di ciascun iscritto possono essere sostenuti non piu' di due volte e sempre in sessioni distinte.   
-I candidati che non riescono a superare un esame del loro corso di studi alla seconda prova, sono esclusi dalla scuola.   
-Le commissioni di esame sono costituite da insegnanti della scuola secondo le vigenti norme degli esami universitari.   
-Gli esami vengono svolti nelle sessioni di esami previste dalla legge.   
-Art. 127. - Per il conseguimento del diploma si richiede una frequenza di due anni, il superamento di tutti gli esami relativi al primo e al secondo anno del curricolo scelto dal candidato e dell'esame di diploma.   
+1) A norma dell'art. 17 del testo unico delle leggi sull'istruzione universitaria lo statuto della scuola entrera' in vigore una volta completata la procedura di modifica statutaria.   
+L'attivita' della scuola avra' inizio con l'anno accademico 1978-79.   
+Gli studenti che, alla data di approvazione del presente statuto, risultino iscritti presso la scuola di lingue moderne per traduttori ed interpreti di conferenze funzionante presso la facolta' di economia e commercio dell'Universita' degli studi di Trieste, avranno diritto di sostenere l'esame finale secondo il vecchio ordinamento.  
+Sara' loro rilasciato l'attestato di traduttore-corrispondente in lingue estere ed il diploma di traduttore-interprete o di traduttore-interprete di conferenze con menzione dell'istituto precedente alla entrata in vigore del [decreto del Presidente della Repubblica 6 marzo 1978, n. 102](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-03-06;102).   
+E' data facolta' a questi studenti di proseguire gli studi secondo il nuovo ordinamento, integrando gli esami gia' sostenuti con quelli che il consiglio della scuola determinera' caso per caso.   
+2) La direzione amministrativa dell'Universita' degli studi di Trieste procedera' alla ricostruzione della carriera giuridica ed economica degli incaricati stabilizzati e non stabilizzati, secondo quanto disposto dall'[art. 42 del decreto del Presidente della Repubblica 6 marzo 1978, n. 102](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-03-06;102~art42), e norme successive.   
+Gli incaricati stabilizzati nella scuola di lingue moderne per traduttori ed interpreti di conferenze funzionante presso la facolta' di economia e commercio dell'Universita' degli studi di Trieste potranno chiedere la stabilizzazione di uno degli incarichi di insegnamento affini previsti dal nuovo statuto.   
+L'amministrazione universitaria provvedera' alla regolarizzazione del nuovo decreto secondo le norme previste dall'[art. 42 del decreto del Presidente della Repubblica 6 marzo 1978, n. 102](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-03-06;102~art42), e norme successive, per gli aventi diritto alla stabilizzazione.   
+3) I diplomati della scuola di lingue moderne per traduttori ed interpreti di conferenze, funzionante presso la facolta' di economia e commercio dell'Universita' degli studi di Trieste, potranno conseguire la laurea per interprete o traduttore a seguito di esami integrativi determinati caso per caso dal consiglio della scuola.   
+  
+  
+----------   
+(a) Mutuato da prima lingua straniera con esercitazioni pratiche - 1 (annuale).   
+(b) Mutuato da prima lingua straniera con esercitazioni pratiche - 2 (annuale)   
+(c) Mutuato da letteratura della prima lingua straniera - 1 (annuale).   
+(c) Mutuato dalla letteratura della prima lingua straniera - 1 (annuale).   
+(d) Mutuato dalla letteratura della prima lingia straniera - 2 (annuale).   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1981
+### Dato a Roma, addi' 20 luglio 1979
 
-PERTINI BODRATO
+PERTINI SPADOLINI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 20 marzo 1982
+Registrato alla Corte dei conti, addi' 30 agosto 1979
 
-Registro n. 43 Istruzione, foglio n. 324
+Registro n. 67 Istruzione, foglio n. 190
+
+(1) Mutuato da prima lingua straniera con esercitazioni pratiche - 1 (annuale).  
+(2) Mutuato da prima lingua straniera con esercitazioni pratiche - 2 (annuale).  
+(3) Mutuato da letteratura della prima lingua straniera - 1 (annuale).  
+(4) Mutuato da prima lingua straniera con esercitazioni pratiche - 2 (annuale).  
+(5) Mutuato da letteratura della prima lingua straniera - 1 (annuale).  
+(6) (d) Mutuato dalla letteratura della prima lingua straniera 2 (annuale).

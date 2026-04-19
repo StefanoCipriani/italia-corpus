@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1986 n. 810
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 agosto 1983 n. 668
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1986 n. 810
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 agosto 1983 n. 668
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Firenze.
@@ -39,21 +39,20 @@ Articolo unico
 --------------
 
   
-Nell'art. 30, relativo al corso di laurea in economia e commercio, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
-storia dell'industria.  
+  
+Nell'art. 151, relativo al corso di laurea in scienze agrarie, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:   
+ecologia microbica.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 giugno 1986
+### Dato a Roma, addi' 5 agosto 1983
 
-COSSIGA
+PERTINI FALCUCCI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Visto, il Guardasigilli: ROGNONI
+Registrato alla Corte dei conti, addi' 23 novembre 1983
 
-Registrato alla Corte dei conti, addi' 18 novembre 1986
-
-Registro n. 85 Istruzione, foglio n. 84
+Registro n. 71 Istruzione, foglio n. 271

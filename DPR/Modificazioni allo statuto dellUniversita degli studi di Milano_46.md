@@ -1,77 +1,195 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1954 n. 1161
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1970 n. 390
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1954 n. 1161
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1970 n. 390
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduta la [legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare 19 nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla
+-----
+
+proposta del Ministro per la pubblica istruzione; Decreta:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 22 maggio 1939, numero 1166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-22;1166) e modificato con [legge 1 giugno 1939, numero 872](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-01;872); con [regi decreti 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2056), [15 aprile 1942, n. 423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;423); [24 ottobre 1942, n. 1847, con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1847) [27 luglio 1947, n. 1138 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-07-27;1138) [23 settembre 1949, n. 942](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;942); [21 novembre 1949, n. 1194](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-11-21;1194); [13 marzo 1930, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1930-03-13;283); [27 ottobre 1951, n. 1825](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1825); [23 aprile 1952, n. 873](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-04-23;873); [10 febbraio 1953, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;383) e [13 febbraio 1954, n. 750](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-02-13;750);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta, la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Presso l'Universita' degli studi di Milano e' istituita la facolta' di farmacia con il corso di laurea in farmacia e, il corso di laurea in chimica e tecnologia farmaceutiche.  
+
+Art. 2
+------
+
   
-Decreta:  
+Per tale facolta' sono assegnati i seguenti posti di ruolo.  
+a) tre posti di professore, prelevati dal contingente di cui all'[art. 1 della legge 24 febbraio 1967, n. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-02-24;62~art1) (aliquota 1969-70);  
+b) dieci posti di assistente, prelevati dal contingente di cui all'art. 18, secondo comma, della suddetta legge n. 62 (aliquota 1970-71);  
+
+Art. 3
+------
+
   
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso;  
-Art. 23. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:  
-16) Semeiotica medica;  
-17) Anatomia topografica;  
-18) Semeiotica chirurgica;  
-19) Terapia medica sistematica;  
-20) Neurochirurgia;  
-21) Genetica umana.  
-Art. 51. - Agli insegnamenti complementari del corso di laurea in medicina veterinaria sono aggiunti i seguenti:  
-14) Igiene dei prodotti della pesca e derivati, con elementi di pescicoltura;  
-15) Igiene del latte e derivati;  
-16) Genetica;  
-17) Produzione e conservazione del foraggio ai fini zootecnici.  
-La "scuola di perfezionamento in anestesia" e' trasformata in "scuola di specializzazione in anestesia" con il seguente nuovo ordinamento.  
+Le attribuzioni demandate dalle vigenti disposizioni di legge e di regolamento al consiglio di facolta' vengono esercitate da un apposito comitato composto da tre professori di ruolo o fuori ruolo, nominati dal Ministro per la pubblica istruzione.  
+I professori di ruolo che in base alle vigenti disposizioni verranno a far parte della predetta facolta', saranno aggregati al comitato anzidetto. Tale comitato cessera' dalle sue funzioni allorche' alla facolta' stessa risulteranno assegnati tre professori di ruolo.  
+In ogni caso detto comitato non potra' rimanere in carica oltre un triennio e, qualora allo scadere del triennio medesimo, non risultino assegnati alla facolta' tre professori di ruolo, il Ministro per la pubblica istruzione provvedera' alla nomina di un nuovo comitato con le stesse modalita' indicate nel primo comma del presente articolo.  
+
+Art. 4
+------
+
   
-Scuola di specializzazione in anestesia.  
-  
-Art. 98. - a) E' istituita presso la clinica chirurgica generale la scuola di specializzazione in anestesia per il conseguimento di un diploma di specialista in anestesia.  
-b) Il direttore della scuola e' designato dal Consiglio della Facolta' anno per anno.  
-c) Sono ammessi alla scuola un numero non superiore a 12 di laureati in medicina e chirurgia delle Universita' italiane.  
-d) Il termine per la presentazione delle domande e' tassativamente fissato al 30 novembre di ogni anno.  
-e) La selezione dei richiedenti l'iscrizione al fine della ammissione entro il numero dei posti disponibili, e' fatta dal Consiglio della Facolta', sentito il direttore della, scuola, che provvedera' alla valutazione degli aspiranti in base ai titoli e occorrendo a esame.  
-f) La durata del corso e' di due anni: in questo periodo gli allievi sono tenuti a prestare servizio di internato nella clinica chirurgica generale.  
-g) Le materie di insegnamento sono le seguenti:  
-1) i fondamenti anatomici delle anestesie;  
-2) i fondamenti fisiologici delle anestesie;  
-3) i fondamenti farmacologici delle anestesie;  
-4) le anestesie generali;  
-5) le anestesie locoregionali;  
-6) trattamento pre e post-anestetico.  
-7) Gli insegnanti della scuola sono designati dal Consiglio della Facolta' su proposta del direttore.  
-i) Al termine del primo anno gli allievi dovranno superare un esame speciale sulla materia degli insegnamenti fondamentali come dai paragrafi 1), 2) e 3) della lettera g).  
-Al termine del secondo anno gli allievi dovranno superare:  
-j) un esame speciale sulla materia di insegnamento teorico pratico, come dai paragrafi 4), 5) e 6) della lettera g) 2) un esame di diploma consistente in una dissertazione orale su argomento attinente all'enestesia, scelto dall'allievo ed approvato dal direttore.  
-l) Le Commissioni degli esami speciali saranno costituite di tre membri nominati dal preside della Facolta' scelti fra gli insegnanti della scuola, su proposta, del direttore.  
-La Commissione dell'esame di diploma e' composta di cinque membri ed e' presieduta dal preside od in sua assenza dal direttore della scuola, il quale ne fa parte di diritto.  
-m) Gli iscritti sono tenuti al pagamento delle tasse e sopratasse stabilite per legge per gli studenti del corso di laurea in medicina e chirurgia nonche' ad un contributo nella misura stabilita anno per anno dal Consiglio di amministrazione su proposta del Senato accademico udite la Facolta' e Scuole.  
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti suindicati e' ulteriormente modificato come dal testo annesso al presente decreto, vistato d'ordine nostro dal Ministro per la pubblica istruzione e contenente le norme relative all'ordinamento della facolta' di farmacia (allegato A).  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Dogliani, addi' 14 settembre 1954
+### Dato a Roma, addi' 27 marzo 1970
 
-EINAUDI MARTINO
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: DE PIETRO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 13 dicembre 1954
+Registrato alla Corte dei conti, addi' 17 giugno 1970
 
-Atti del Governo, registro n. 87, foglio n. 81. - CARLOMAGNO
+Atti del Governo, registro n. 236, foglio n. 28. - CARUSO
+
+Allegato A
+
+ ALLEGATO A   
+  
+Testo delle modifiche allo statuto dell'Universita' degli studi di Milano, relativo all'istituzione della facolta' di farmacia.   
+  
+Art. 1. - E' abrogato e sostituito dal seguente:   
+L'Universita' di Milano comprende le seguenti facolta':   
+Facolta' di giurisprudenza;   
+Facolta' di lettere e filosofia;   
+Facolta' di medicina e chirurgia;   
+Facolta' di scienze matematiche, fisiche e naturali.   
+Facolta' di farmacia;   
+Facolta' di agraria;   
+Facolta' di medicina veterinaria.   
+Dopo l'art. 52, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi all'ordinamento della facolta' di farmacia.   
+  
+FACOLTA' DI FARMACIA   
+  
+Art. 53. - La facolta' di farmacia conferisce la laurea in farmacia e la laurea in chimica e tecnologia farmaceutiche.   
+  
+Laurea in farmacia:   
+Art. 54. - La durata del corso degli studi per la laurea in farmacia e' di quattro anni.   
+Sono titoli di ammissione i diplomi contemplati dalle vigenti disposizioni di legge.   
+Insegnamenti fondamentali:   
+1) Chimica generale ed inorganica;   
+2) Chimica organica;   
+3) Chimica farmaceutica e tossicologica (biennale);   
+4) Esercitazioni di chimica farmaceutica e tossicologica (triennale);   
+5) Chimica biologica;   
+6) Fisica;   
+7) Farmacologia e farmacognosia;   
+8) Anatomia umana;   
+9) Fisiologia generale (biennale);   
+10) Botanica farmaceutica;   
+11) Tecnica e legislazione farmaceutica.   
+Insegnamenti complementari:   
+1) Chimica fisica;   
+2) Chimica bromatologica;   
+3) Biochimica applicata;   
+4) Igiene;   
+5) Idrologia;   
+6) Scienza dell'alimentazione;   
+7) Biologia generale;   
+8) Biologia molecolare;   
+9) Chemioterapia;   
+10) Chimica clinica;   
+11) Chimica delle fermentazioni;   
+12) Chimica delle sostanze organiche naturali;   
+13) Chimica farmaceutica applicata;   
+14) Chimica macromolecolare;   
+15) Chimica terapeutica;   
+16) Farmacodinamia molecolare;   
+17) Farmacognosia;   
+18) Microbiologia;   
+19) Patologia generale;   
+20) Saggi e dosaggi farmacologici;   
+21) Statistica;   
+22) Tossicologia.   
+Art. 55. - L'esame di "Chimica farmaceutica e tossicologica I" non puo' essere sostenuto se prima non siano stati superati gli esami di "Chimica generale ed inorganica" e di "Chimica organica"; l'esame di "Farmacologia e farmacognosia" non puo' essere sostenuto se prima non siano stati superati gli esami di "Botanica farmaceutica" e di "Fisiologia generale I e II".   
+L'esame di "Chimica organica" non puo' essere sostenuto se prima non sia stato superato quello di "Chimica generale ed inorganica".   
+L'esame di "Fisiologia generale I" non puo' essere sostenuto se prima non sia stato superato quello di "Anatomia umana"; l'esame di "Tecnica e legislazione farmaceutica" non puo' essere sostenuto se prima non siano stati superati gli esami di "Chimica farmaceutica e tossicologica I e II" e di "Farmacologia e farmacognosia"; l'esame di "Chimica biologica" non puo' essere sostenuto se prima non sia stato superato quello di "Chimica organica".   
+Per essere ammesso al corso di esercitazioni di "Chimica farmaceutica e tossicologica II" lo studente deve avere superato l'esame di "Chimica organica".   
+I corsi biennali e triennali comportano rispettivamente due e tre esami; per essere ammesso all'esame del II corso e' necessario avere superato l'esame del I corso; analogamente per i corsi triennali, per essere ammesso all'esame del II corso e' necessario avere superato l'esame del I corso; per essere ammesso all'esame del III corso, bisogna avere superato quello del II corso.   
+Per essere ammesso all'esame di laurea lo studente deve avere seguito i corsi e superato gli esami di tutti gli insegnamenti fondamentali e di almeno quattro da lui scelti tra i complementari; inoltre deve avere compiuto un periodo semestrale di pratica presso una farmacia autorizzata.   
+  
+Laurea in chimica e tecnologia farmaceutiche:   
+Art. 56. - La durata del corso degli studi per la laurea in chimica e tecnologia farmaceutiche e' di cinque anni, divisi in un biennio ed un triennio.   
+Sono titoli di ammissione i diplomi contemplati dalle vigenti disposizioni di legge.   
+Insegnamenti fondamentali:   
+Biennio:   
+1) Analisi chimico farmaceutica I (analisi qualitativa);   
+\* 2) Anatomia umana;   
+\* 3) Botanica farmaceutica;   
+\* 4) Chimica fisica;   
+\* 5) Chimica generale ed inorganica;   
+\*\* 6) Chimica organica I;   
+\* 7) Fisica;   
+8) Fisiologia generale;   
+\* 9) Istituzioni di matematiche;   
+10) Microbiologia ed igiene.   
+Triennio:   
+11) Analisi chimico farmaceutica II (analisi quantitativa);   
+12) Analisi chimico farmaceutica III (analisi dei medicamenti); \* 13) Biochimica applicata;   
+\* 14) Chimica biologica;   
+\* 15) Chimica degli alimenti;   
+\* 16) Chimica farmaceutica applicata;   
+\* 17) Chimica farmaceutica e tossicologica I;   
+\* 18) Chimica farmaceutica e tossicologica II;   
+\*\* 19) Chimica organica II;   
+\* 20) Farmacologia e farmacognosia;   
+21) Impianti dell'industria farmaceutica;   
+22) Laboratorio di preparazione estrattiva e sintetica dei farmaci;   
+23) Metodi fisici in chimica organica;   
+24) Saggi e dosaggi farmacologici;   
+\* 25) Tecnica e legislazione farmaceutica.   
+Insegnamenti complementari:   
+1) Chimica delle fermentazioni e microbiologia industriale;   
+2) Chimica delle sostanze organiche naturali;   
+3) Chimica dei prodotti dietetici;   
+4) Chimica dei prodotti cosmetici;   
+\* 5) Farmacologia molecolare;   
+6) Microchimica;   
+7) Zoologia e parassitologia.   
+Le materie segnate con un asterisco sono comuni alla laurea in farmacia; quelle segnate con due asterischi sono comuni alla laurea in chimica.   
+Art. 57. - L'esame di "Chimica farmaceutica e tossicologica I" non puo' essere sostenuto se prima non siano stati superati gli esami di "Chimica generale ed inorganica" e di e Chimica organica I": l'esame di "Farmacologia e farmacognosia" non puo' essere sostenuto se prima non siano stati superati gli esami di "Botanica farmaceutica" e di "Fisiologia generale".   
+L'esame di "Chimica organica I" non puo' essere sostenuto se prima non sia stato superato quello di "Chimica generale ed inorganica".   
+L'esame di "Fisiologia generale" non puo' essere sostenuto se prima non sia stato superato quello di "Anatomia umana"; l'esame di "Tecnica e legislazione farmaceutica" non puo' essere sostenuto se prima non siano stati superati gli esami di "Chimica farmaceutica e tossicologica I e II" e di "Farmacologia e farmacognosia"; l'esame di "Chimica biologica" non puo' essere sostenuto se prima non sia stato superato quello di "Chimica organica I".   
+Per essere ammesso al corso di "Analisi chimico-farmaceutica II" lo studente deve avere superato l'esame di "Chimica organica I".   
+I corsi biennali e triennali comportano rispettivamente due e tre esami; per essere ammesso all'esame del II corso e' necessario avere superato l'esame del I corso; analogamente per i i corsi triennali, per essere ammesso all'esame del II corso e' necessario avere superato l'esame del I corso; per essere ammesso all'esame del III corso, bisogna avere superato quello del II corso.   
+Art. 58. - Per ottenere l'iscrizione al III anno di corso, lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fissati per i due anni precedenti.   
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato tutti gli esami dei corsi fondamentali e almeno due esami a scelta fra i corsi complementari.   
+La prova di laurea comporta la discussione di una tesi sperimentale.   
+  
+Visto, d'ordine del Presidente della Repubblica   
+  
+Il Ministro per la pubblica istruzione   
+FERRARI AGGRADI   

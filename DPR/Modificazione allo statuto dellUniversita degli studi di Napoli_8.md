@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1983 n. 770
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 659
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1983 n. 770
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 659
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 14 ottobre 1926, n. 2090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2090), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -21,6 +21,8 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
 Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
 
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
@@ -39,40 +41,21 @@ Articolo unico
 --------------
 
   
-  
-Nell'art. 153, relativo al corso di laurea in medicina e chirurgia della seconda facolta' di medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:   
-psicobiologia;   
-psicologia sociale;   
-psicologia dell'eta' evolutiva;   
-angiologia medica;   
-diagnostica e chirurgia endoscopica;   
-chirurgia neonatale;   
-nefrologia pediatrica;   
-anatomia radiologica;   
-clinica otorinolaringoiatrica pediatrica;   
-fisiopatologia e terapia del dolore;   
-epidemiologia;   
-otoneuroradiologia;   
-fisiologia della nutrizione;   
-oncologia;   
-patologia cellulare;   
-biologia e patologia delle ultrastrutture;   
-igiene mentale;   
-metodologia biochimica;   
-biochimica comparata;   
-dietoterapia;   
-fisiopatologia e clinica dell'orbita.   
+Nell'art. 99, relativo al corso di laurea in lettere, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+egittologia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 ottobre 1983
+### Dato a Roma, addi' 17 maggio 1986
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 27 dicembre 1983
+Registrato alla Corte dei conti, addi' 3 ottobre 1986
 
-Registro n. 79 Istruzione, foglio n. 397
+Registro n. 73 Istruzione, foglio n. 311

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1951 n. 1357
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 maggio 1948 n. 954
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1951 n. 1357
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 maggio 1948 n. 954
+=============================================================
 
 Autorizzazione all'Universita' di Padova ad accettare una donazione.
 --------------------------------------------------------------------
@@ -12,8 +12,7 @@ Art. 1
 
 N.
 
-1357. Decreto del Presidente della Repubblica 11 aprile 1951, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Padova viene autorizzata ad accettare la donazione della somma di L. 150.000, disposta in suo favore dal signor Italo Panzoni, con atto pubblico in data 19 luglio 1950, per l'istituzione, con la rendita del capitale donato, di un premio di studio da intitolarsi "Premio di studio Lodovico Panzoni" e da conferirsi, per concorso, ogni cinque anni ad uno studente di nazionalita' italiana, iscritto al 4° corso della Facolta' di medicina e chirurgia, di condizioni economiche disagiate.  
+954. Decreto del Presidente della Repubblica 5 maggio 1948, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Padova viene autorizzata ad accettare la donazione della somma di L. 44.766, disposta in suo favore dal signor Giuseppe Gaddi, a nome della Federazione di Padova del Partito Comunista, con atto pubblico in data 18 maggio 1947, per l'istituzione di un premio di laurea da intitolarsi al nome del "Dott. Flavio Busonera", e da conferirsi, ogni biennio, ad un figlio di medico con- dotto che sia iscritto alla scuola di specializzazione in clinica pediatrica dell'Universita' di Padova ed abbia conseguito la migliore votazione di laurea.  
   
-Visto, il Guardasigilli: ZOLI  
-Registrato alla Corte dei conti, addi' 1 dicembre 1951  
-Atti del Governo, registro n. 47, foglio n. 14. - FRASCA
+Visto, il Guardasigilli: GRASSI  
+Registrato alla Corte dei conti, addi' 28 giugno 1948

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1951 n. 1148
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1969 n. 1052
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1951 n. 1148
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1969 n. 1052
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
@@ -10,13 +10,15 @@ Modificazioni allo statuto dell'Universita' degli studi di Torino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 20 aprile 1939, n. 1118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1118) e modificato con [regi decreti 12 gennaio 1941, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-01-12;34); [27 aprile 1942, n. 571](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;571); [5 settembre 1942, n. 1237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1237) e [24 ottobre 1942, n. 1438, e con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1438) [4 febbraio 1947, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-02-04;196) e [7 marzo 1947, n. 1727, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-03-07;1727) [26 febbraio 1949, n. 430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;430); [21 aprile 1949, n. 613](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-21;613); [1 settembre 1949, n. 816](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-01;816); [13 marzo 1950, n. 599](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-03-13;599) e [30 ottobre 1950, n. 1125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1125);
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita', anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -28,277 +30,151 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Il secondo comma dell'art. 60, relativo al corso di specializzazione in viticultura, e' sostituito dal seguente:
+Art. 92. - All'elenco delle scuole di specializzazione della facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in "Nefrologia medica".
 
-"prevalentemente teorico-didattico, dal 15 gennaio al 15 maggio da trascorrersi presso la Facolta' di agraria di Torino".
+Dopo l'articolo 176 e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in nefrologia medica.
 
-L'attuale art. 95, relativo alla scuola di specializzazione in igiene e' cosi' modificato:
+Scuola di specializzazione in nefrologia medica
 
-"Gl'insegnamenti impartiti nella scuola sono i seguenti:
+Art. 177. - Alla scuola, di specializzazione sono ammessi i laureati in medicina e chirurgia.
 
-1° anno:
+Il corso di studi per il conseguimento del diploma di specialista ha la durata di tre anni.
 
-1) statistica sanitaria;
+Il numero massimo degli iscritti e' di dieci per ogni singolo anno, totale trenta iscritti.
 
-2) chimica applicata all'igiene;
+Art. 178. - Nel caso che le domande eccedano il numero previsto per gli iscritti alla scuola, la selezione verra' fatta mediante concorso da parte di una commissione presieduta dal direttore della scuola (graduatoria per titoli ed esami). Qualora un aspirante, sufficientemente fornito di titoli attinenti alle materie della scuola, chieda abbreviazione di corso, dovra' presentare motivata istanza al rettore.
 
-3) fisica applicata all'igiene;
+Art. 179. - La direzione della scuola sara' affidata dalla facolta' di medicina al direttore della clinica medica o ad un docente che sia noto cultore della nefrologia medica e che continui a dedicarsi ad essa insieme con i suoi collaboratori.
 
-4) analisi di laboratorio applicate all'igiene;
+Gli iscritti alla scuola avranno l'obbligo di frequentare le lezioni, le esercitazioni, le visite di istruzione e le eventuali conferenze; in caso contrario, non potranno avere l'attestato di frequenza necessario per essere ammessi a sostenere le prove di esame.
 
-5) malattie parassitarie (rispettivamente da infravirus, schizomiceti, micofiti, protozoi, macroparassiti):
+Art. 180. - Al termine di ogni anno accademico, lo allievo della scuola di specializzazione dovra' sostenere un esame di profitto che comprenda il gruppo delle materie in programma; ove non sia superato tale esame, il candidato non potra' essere ammesso al corso successivo.
 
-a) dell'infanzia;
+L'esame di diploma si svolgera' con le norme generali di cui all'art. 98 del presente statuto.
 
-b) degli adulti;
+Al termine del corso di studi, verra' conseguito il diploma di specialista in "nefrologia medica".
 
-c) tropicali;
+Art. 181. - Gli insegnamenti impartiti saranno i seguenti:
 
-6) ingegneria sanitaria.
+1° Anno:
 
-L'allievo ha inoltre l'obbligo della frequenza a titolo pratico presso l'Ufficio di igiene del capoluogo di Provincia per la durata di un mese, presso l'ufficio del medico provinciale pure per la durata di un mese.
+Struttura ed ultrastruttura normale del rene;
 
-Questi due periodi di pratica non possono essere fatti contemporaneamente.
+Aspetti biochimici della funzione renale;
 
-2° anno:
+Fisiologia renale;
 
-1) amministrazione sanitaria (legislazione e organizzazione sanitaria, creazione di centri di sanita', mutualistica, assicurazioni);
+Semeiologia renale (fisica, radiologica, funzionale);
 
-2) epidemiologia e profilassi generale e speciale;
+Microbiologia ed immunologia applicate alla nefrologia;
 
-3) medicina preventiva, rispettivamente:
+Struttura ed ultrastruttura patologica del rene.
 
-a) maternita' e infanzia, malattie cuore e vasi, ricambio, cancro, ecc.;
+2° Anno:
 
-b) igiene del lavoro, mentale e della scuola, dei laboratori e dello sport;
+Patologia del ricambio idro-salino;
 
-c) igiene della alimentazione.
+Insufficienza renale acuta e cronica;
 
-L'allievo ha inoltre l'obbligo della frequenza a titolo pratico presso un consorzio antitubercolare per la durata di un mese e presso la direzione sanitaria di un ospedale di prima classe pure per la durata di un mese.
+Nefropatie glomerulari;
 
-Questi due periodi di pratica non possono essere fatti contemporaneamente.
+Nefropatie tubulari;
 
-Dopo aver superato tutti gli esami e aver ottemperato agli obblighi della frequenza presso le istituzioni di cui sopra, il candidato dovra' presentare una tesi sperimentale o di compilazione su di un argomento facente parte delle materie del corso da discutersi davanti ad una commissione giudicatrice nominata dal rettore udito il preside della Facolta'.
+Farmacologia d'interesse nefrologico;
 
-Dopo l'art. 120 sono aggiunti i seguenti nuovi articoli relativi alle istituzioni della "scuola di perfezionamento in cardiologia", della "scuola di specializzazione in ortopedia e traumatologia" e della "scuola di specializzazione per medici settori ospedalieri, direttori di laboratorio".
+Terapia dietetica e dialitica (1° anno).
 
-Scuola di perfezionamento in cardiologia
+3° Anno:
 
-Art. 121. - E' istituita presso la Facolta' di medicina e chirurgia dell'Universita' di Torino, una scuola di perfezionamento in cardiologia.
+Nefropatie interstiziali;
 
-Art. 122. - Il corso della scuola ha la durata di due anni.
+Nefropatie vascolari;
 
-Art. 123. - Le materie di insegnamento sono le seguenti:
+Nefropatie malformative e neoplastiche;
 
-1° anno:
+Terapia dietetica e dialitica (2° anno);
 
-anatomia dell'apparato cardio-vascolare;
-
-fisiologia dell'apparato cardio-vascolare;
-
-anatomia patologica dell'apparato cardio-vascolare;
-
-semeiotica dell'apparato cardio-vascolare;
-
-tecniche dell'apparato circolatorio;
-
-clinica delle malattie dell'apparato circolatorio.
-
-2° anno:
-
-clinica delle malattie dell'apparato cardio-vascolare;
-
-terapia speciale delle malattie dell'apparato cardiovascolare; chirurgia cardio-vascolare.
-
-I corsi saranno integrati da esercitazioni sull'ammalato e nei laboratori. I mezzi per tali corsi saranno forniti dall'ambulatorio del centro cardiologico istituito presso l'Istituto di patologia speciale medica, dalle infermerie e dai laboratori della clinica di patologia speciale medica attrezzati in modo particolare per lo studio e la cura delle malattie in questione. Alla fine del corso coloro che avranno superato tutti gli esami speciali dovranno presentare una tesi originale da discutere per il conseguimento del diploma.
-
-Scuola di specializzazione in ortopedia e traumatologia
-
-Art. 124. - Il corso della scuola ha la durata di tre anni.
-
-Art. 125. - Gli insegnamenti impartiti nella scuola sono i seguenti:
-
-1° anno:
-
-a) anatomia e fisiologia degli organi di sostegno e di movimento;
-
-b) propedeutica ortopedica e traumatologica.
-
-2° anno:
-
-c) anatomia patologica dagli organi di sostegno e di movimento;
-
-d) patologia e clinica ortopedica e traumatologica;
-
-e) radiologia dell'apparato scheletrico di sostegno e di movimento.
-
-3° anno:
-
-f) infortunistica dal punto di vista sociale e legale;
-
-g) clinica e terapia ortopedica e traumatologica.
-
-Turni di internato nei due ultimi anni in clinica ortopedica.
-
-Tutti gli insegnamenti dovranno essere seguiti da esami.
-
-Alla fine del corso lo specializzando dovra' sostenere una prova teorico-pratica ed una discussione sopra una dissertazione scritta su argomento delle materie contemplate dallo statuto per il conseguimento del diploma di specialista in ortopedia e traumatologia.
-
-Gli allievi dovranno pagare le tasse, le sopratasse e i contributi prescritti per l'analoga scuola di specializzazione in chirurgia.
-
-Il numero degli specializzandi e' limitato a sei per anno.
-
-Scuola di specializzazione per medici settori
-
-ospedalieri, direttori di laboratorio
-
-Art. 126. - E' istituita una "scuola di specializzazione per medici settori ospedalieri, direttori di laboratorio" annessa alla Facolta' di medicina e chirurgia.
-
-Detta scuola ha la durata di due anni.
-
-Art. 127. - Gli insegnamenti impartiti nella scuola sono i seguenti:
-
-1) tecnica delle autopsie;
-
-2) diagnostica anatomo-patologica;
-
-3) tecnica diagnostica istologica ed ematologica;
-
-4) tecnica e diagnostica batteriologica;
-
-5) tecnica e diagnostica immunologica;
-
-6) tecnica e diagnostica per ricerche di chimica clinica;
-
-7) tecnica di necroscopie medico legali;
-
-8) elementi di legislazione sanitaria.
-
-Al termine dei corsi a coloro che avranno superato gli esami speciali ed un esame di diploma, con presentazione di una dissertazione scritta verra' rilasciato un diploma di "settore laboratorista".
+Terapia generale delle nefropatie (antibiotica, antireattiva, sintomatica).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 30 giugno 1951
+Dato a Roma, addi' 31 ottobre 1969
 
-EINAUDI
+SARAGAT
 
-GONELLA
+FERRARI AGGRADI
 
-Visto, il Guardasigilli: ZOLI
+Visto, il Guardasigilli: GAVA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 5 novembre 1951 Atti del Governo, registro n. 45, foglio n. 63. - FRASCA
+alla Corte dei conti, addi'5 gennaio 1970 Atti del Governo, registro n. 231, foglio n. 9. - CARUSO
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 20 aprile 1939, n. 1118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1118) e modificato con [regi decreti 12 gennaio 1941, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-01-12;34); [27 aprile 1942, n. 571](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;571); [5 settembre 1942, n. 1237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1237) e [24 ottobre 1942, n. 1438, e con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1438) [4 febbraio 1947, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-02-04;196) e [7 marzo 1947, n. 1727, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-03-07;1727) [26 febbraio 1949, n. 430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;430); [21 aprile 1949, n. 613](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-21;613); [1 settembre 1949, n. 816](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-01;816); [13 marzo 1950, n. 599](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-03-13;599) e [30 ottobre 1950, n. 1125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1125);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita', anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 92. - All'elenco delle scuole di specializzazione della facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in "Nefrologia medica".   
+Dopo l'articolo 176 e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in nefrologia medica.   
+Scuola di specializzazione in nefrologia medica   
+Art. 177. - Alla scuola, di specializzazione sono ammessi i laureati in medicina e chirurgia.   
+Il corso di studi per il conseguimento del diploma di specialista ha la durata di tre anni.   
+Il numero massimo degli iscritti e' di dieci per ogni singolo anno, totale trenta iscritti.   
+Art. 178. - Nel caso che le domande eccedano il numero previsto per gli iscritti alla scuola, la selezione verra' fatta mediante concorso da parte di una commissione presieduta dal direttore della scuola (graduatoria per titoli ed esami). Qualora un aspirante, sufficientemente fornito di titoli attinenti alle materie della scuola, chieda abbreviazione di corso, dovra' presentare motivata istanza al rettore.   
+Art. 179. - La direzione della scuola sara' affidata dalla facolta' di medicina al direttore della clinica medica o ad un docente che sia noto cultore della nefrologia medica e che continui a dedicarsi ad essa insieme con i suoi collaboratori.   
+Gli iscritti alla scuola avranno l'obbligo di frequentare le lezioni, le esercitazioni, le visite di istruzione e le eventuali conferenze; in caso contrario, non potranno avere l'attestato di frequenza necessario per essere ammessi a sostenere le prove di esame.   
+Art. 180. - Al termine di ogni anno accademico, lo allievo della scuola di specializzazione dovra' sostenere un esame di profitto che comprenda il gruppo delle materie in programma; ove non sia superato tale esame, il candidato non potra' essere ammesso al corso successivo.   
+L'esame di diploma si svolgera' con le norme generali di cui all'art. 98 del presente statuto.   
+Al termine del corso di studi, verra' conseguito il diploma di specialista in "nefrologia medica".   
+Art. 181. - Gli insegnamenti impartiti saranno i seguenti:   
   
-Il secondo comma dell'art. 60, relativo al corso di specializzazione in viticultura, e' sostituito dal seguente:  
-"prevalentemente teorico-didattico, dal 15 gennaio al 15 maggio da trascorrersi presso la Facolta' di agraria di Torino".  
-L'attuale art. 95, relativo alla scuola di specializzazione in igiene e' cosi' modificato:  
-"Gl'insegnamenti impartiti nella scuola sono i seguenti:  
-1° anno:  
-1) statistica sanitaria;  
-2) chimica applicata all'igiene;  
-3) fisica applicata all'igiene;  
-4) analisi di laboratorio applicate all'igiene;  
-5) malattie parassitarie (rispettivamente da infravirus, schizomiceti, micofiti, protozoi, macroparassiti):  
-a) dell'infanzia;  
-b) degli adulti;  
-c) tropicali;  
-6) ingegneria sanitaria.  
-L'allievo ha inoltre l'obbligo della frequenza a titolo pratico presso l'Ufficio di igiene del capoluogo di Provincia per la durata di un mese, presso l'ufficio del medico provinciale pure per la durata di un mese.  
-Questi due periodi di pratica non possono essere fatti contemporaneamente.  
-2° anno:  
-1) amministrazione sanitaria (legislazione e organizzazione sanitaria, creazione di centri di sanita', mutualistica, assicurazioni);  
-2) epidemiologia e profilassi generale e speciale;  
-3) medicina preventiva, rispettivamente:  
-a) maternita' e infanzia, malattie cuore e vasi, ricambio, cancro, ecc.;  
-b) igiene del lavoro, mentale e della scuola, dei laboratori e dello sport;  
-c) igiene della alimentazione.  
-L'allievo ha inoltre l'obbligo della frequenza a titolo pratico presso un consorzio antitubercolare per la durata di un mese e presso la direzione sanitaria di un ospedale di prima classe pure per la durata di un mese.  
-Questi due periodi di pratica non possono essere fatti contemporaneamente.  
-Dopo aver superato tutti gli esami e aver ottemperato agli obblighi della frequenza presso le istituzioni di cui sopra, il candidato dovra' presentare una tesi sperimentale o di compilazione su di un argomento facente parte delle materie del corso da discutersi davanti ad una commissione giudicatrice nominata dal rettore udito il preside della Facolta'.  
-Dopo l'art. 120 sono aggiunti i seguenti nuovi articoli relativi alle istituzioni della "scuola di perfezionamento in cardiologia", della "scuola di specializzazione in ortopedia e traumatologia" e della "scuola di specializzazione per medici settori ospedalieri, direttori di laboratorio".  
+1° Anno:   
+Struttura ed ultrastruttura normale del rene;   
+Aspetti biochimici della funzione renale;   
+Fisiologia renale;   
+Semeiologia renale (fisica, radiologica, funzionale);   
+Microbiologia ed immunologia applicate alla nefrologia;   
+Struttura ed ultrastruttura patologica del rene.   
   
-Scuola di perfezionamento in cardiologia  
+2° Anno:   
+Patologia del ricambio idro-salino;   
+Insufficienza renale acuta e cronica;   
+Nefropatie glomerulari;   
+Nefropatie tubulari;   
+Farmacologia d'interesse nefrologico;   
+Terapia dietetica e dialitica (1° anno).   
   
-Art. 121. - E' istituita presso la Facolta' di medicina e chirurgia dell'Universita' di Torino, una scuola di perfezionamento in cardiologia.  
-Art. 122. - Il corso della scuola ha la durata di due anni.  
-Art. 123. - Le materie di insegnamento sono le seguenti:  
-1° anno:  
-anatomia dell'apparato cardio-vascolare;  
-fisiologia dell'apparato cardio-vascolare;  
-anatomia patologica dell'apparato cardio-vascolare;  
-semeiotica dell'apparato cardio-vascolare;  
-tecniche dell'apparato circolatorio;  
-clinica delle malattie dell'apparato circolatorio.  
-2° anno:  
-clinica delle malattie dell'apparato cardio-vascolare;  
-terapia speciale delle malattie dell'apparato cardiovascolare; chirurgia cardio-vascolare.  
-I corsi saranno integrati da esercitazioni sull'ammalato e nei laboratori. I mezzi per tali corsi saranno forniti dall'ambulatorio del centro cardiologico istituito presso l'Istituto di patologia speciale medica, dalle infermerie e dai laboratori della clinica di patologia speciale medica attrezzati in modo particolare per lo studio e la cura delle malattie in questione. Alla fine del corso coloro che avranno superato tutti gli esami speciali dovranno presentare una tesi originale da discutere per il conseguimento del diploma.  
-  
-Scuola di specializzazione in ortopedia e traumatologia  
-  
-Art. 124. - Il corso della scuola ha la durata di tre anni.  
-Art. 125. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
-1° anno:  
-a) anatomia e fisiologia degli organi di sostegno e di movimento;  
-b) propedeutica ortopedica e traumatologica.  
-2° anno:  
-c) anatomia patologica dagli organi di sostegno e di movimento;  
-d) patologia e clinica ortopedica e traumatologica;  
-e) radiologia dell'apparato scheletrico di sostegno e di movimento.  
-3° anno:  
-f) infortunistica dal punto di vista sociale e legale;  
-g) clinica e terapia ortopedica e traumatologica.  
-Turni di internato nei due ultimi anni in clinica ortopedica.  
-Tutti gli insegnamenti dovranno essere seguiti da esami.  
-Alla fine del corso lo specializzando dovra' sostenere una prova teorico-pratica ed una discussione sopra una dissertazione scritta su argomento delle materie contemplate dallo statuto per il conseguimento del diploma di specialista in ortopedia e traumatologia.  
-Gli allievi dovranno pagare le tasse, le sopratasse e i contributi prescritti per l'analoga scuola di specializzazione in chirurgia.  
-Il numero degli specializzandi e' limitato a sei per anno.  
-  
-Scuola di specializzazione per medici settori  
-ospedalieri, direttori di laboratorio  
-  
-Art. 126. - E' istituita una "scuola di specializzazione per medici settori ospedalieri, direttori di laboratorio" annessa alla Facolta' di medicina e chirurgia.  
-Detta scuola ha la durata di due anni.  
-Art. 127. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
-1) tecnica delle autopsie;  
-2) diagnostica anatomo-patologica;  
-3) tecnica diagnostica istologica ed ematologica;  
-4) tecnica e diagnostica batteriologica;  
-5) tecnica e diagnostica immunologica;  
-6) tecnica e diagnostica per ricerche di chimica clinica;  
-7) tecnica di necroscopie medico legali;  
-8) elementi di legislazione sanitaria.  
-Al termine dei corsi a coloro che avranno superato gli esami speciali ed un esame di diploma, con presentazione di una dissertazione scritta verra' rilasciato un diploma di "settore laboratorista".  
+3° Anno:   
+Nefropatie interstiziali;   
+Nefropatie vascolari;   
+Nefropatie malformative e neoplastiche;   
+Terapia dietetica e dialitica (2° anno);   
+Terapia generale delle nefropatie (antibiotica, antireattiva, sintomatica).   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 giugno 1951
+### Dato a Roma, addi' 31 ottobre 1969
 
-EINAUDI GONELLA
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: ZOLI
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 5 novembre 1951
+Registrato alla Corte dei conti, addi'5 gennaio 1970
 
-Atti del Governo, registro n. 45, foglio n. 63. - FRASCA
+Atti del Governo, registro n. 231, foglio n. 9. - CARUSO

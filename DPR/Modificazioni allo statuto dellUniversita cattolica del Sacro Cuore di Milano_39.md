@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1980 n. 162
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 829
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1980 n. 162
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 829
+================================================================
 
 Modificazioni allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
 --------------------------------------------------------------------------------
@@ -12,77 +12,140 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta.
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Sulla
------
+Sulla proposta del Ministro della pubblica istruzione;
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Decreta:
+--------
 
-Articolo unico
---------------
+Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso.
+
+Art. 1
+------
 
   
-Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-L'art. 105, relativo alla scuola di specializzazione in oncologia, e' soppresso e sostituito dal seguente:  
+L'art. 5, relativo alle lauree e diplomi conferiti nell'Universita', per quanto si riferisce alla facolta' di medicina e chirurgia, e' cosi' riformulato:  
+"Nella facolta' di medicina e chirurgia: la laurea in medicina e chirurgia e la laurea in odontoiatria e protesi dentaria".  
+L'art. 6, primo comma, e' cosi' riformulato:  
+"Gli studi per il conseguimento di ciascuna laurea durante quattro anni, fatta eccezione per la laurea in odontoiatria e protesi dentaria per il cui conseguimento gli studi hanno la durata di cinque anni divisi in un biennio e in un triennio e per la laurea in medicina e chirurgia per il cui conseguimento gli studi hanno la durata di sei anni divisi in tre bienni".  
+
+Art. 2
+------
+
   
-Scuola di specializzazione in oncologia  
-Art. 105. - La scuola di specializzazione in oncologia ha sede presso l'istituto di patologia generale e conferisce il diploma di specialista in oncologia.  
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazione.  
-Il numero massimo degli allievi e' di quindici per anno di corso e complessivamente di quarantacinque iscritti per l'intero corso di studi.  
-L'ammissione al corso avviene per titoli ed esami.  
-Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-patologia generale dei tumori (I);  
-oncologia sperimentale (I);  
-anatomia ed istologia patologica dei tumori (I);  
-epidemiologia dei tumori;  
-cancerogenesi ambientale e professionale e prevenzione primaria; immunologia dei tumori.  
-2° Anno:  
-patologia generale dei tumori (II);  
-oncologia sperimentale (II);  
-anatomia ed istologia patologica dei tumori (II);  
-citodiagnostica dei tumori;  
-prevenzione clinica e tecniche diagnostiche e di laboratorio;  
-radiodiagnostica dei tumori;  
-oncologia medica (I);  
-oncologia chirurgica (I).  
-3° Anno:  
-oncologia medica (II);  
-oncologia chirurgica (II);  
-radioterapia dei tumori;  
-oncologia dell'apparato genitale femminile;  
-oncologia pediatrica;  
-principi di riabilitazione oncologica;  
-organizzazione della lotta contro i tumori.  
-La scuola provvede ad organizzare seminari e conferenze su specifici argomenti con l'integrazione di quelli elencati nello statuto.  
-La frequenza alle lezioni, alle esercitazioni pratiche e' obbligatoria per l'ammissione agli esami; il superamento degli esami di ciascun anno e' condizione indispensabile per l'iscrizione all'anno successivo. Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.  
-Al termine del triennio per ottenere il diploma i candidati devono presentare una dissertazione scritta su un argomento attinente alla specializzazione.  
+  
+Alla parte II, titolo VIII, relativo alla facolta' di medicina e chirurgia, dopo l'art. 23, con il conseguente spostamento della numerazione degli articoli successivi, e' inserito il punto 2) e un nuovo articolo relativi alla istituzione del corso di laurea in odontoiatria e protesi dentaria.   
+2) Laurea in odontoiatria e protesi dentaria   
+Art. 24. - Titoli di ammissione al corso di laurea in odontoiatria e protesi dentaria sono quelli consentiti dalle vigenti disposizioni di legge.   
+Per l'iscrizione al corso di laurea in odontoiatria e protesi dentaria gli aspiranti dovranno essere sottoposti agli stessi esami enunciati nell'art. 23 per l'iscrizione al corso di laurea in medicina e chirurgia, per le medesime motivazioni.   
+Il numero dei posti disponibili al primo anno del corso di laurea e' di quindici, altrettanto dicasi per il numero dei posti disponibili per ciascuno dei quattro successivi anni di corso. Il numero massimo complessivo degli iscritti nei cinque anni e' fissato in settantacinque.   
+Per il trasferimento degli studenti iscritti al corso di laurea in medicina e chirurgia le abbreviazioni di corso non possono superare l'ammissione oltre il secondo anno subordinatamente al numero di posti resisi disponibili all'inizio del secondo anno e sempre che gli aspiranti abbiano superato gli esami di biologie generale applicata agli studi medici, chimica, fisica medica, istologia ed embriologia generale (compresa la citologia).   
+Per i laureati in medicina e chirurgia le abbreviazioni di corso potranno essere concesse, sempre con iscrizione al secondo anno, subordinatamente al numero di posti resisi disponibili all'inizio del secondo anno e non prioritariamente occupati per trasferimento dagli studenti iscritti al corso di laurea in medicina e chirurgia che abbiano domandato abbreviazioni di corso (sempre non superiori per ammissione al secondo anno) e comunque dopo che sia trascorso un anno accademico dal conseguimento della laurea precedente.   
+Per l'ammissione degli studenti che chiedono trasferimento dal corso di laurea in medicina e chirurgia e dei laureati in medicina e chirurgia sono prescritti gli stessi esami di cui al comma secondo dell'art. 23, relativo all'ammissione al corso di laurea in medicina e chirurgia nella facolta' di medicina e chirurgia dell'Universita' cattolica del Sacro Cuore.   
+Sono insegnamenti fondamentali:   
+Biennio:   
+1) anestesia generale e speciale odontostomatologica (semestrale);   
+\*2) biologia generale applicata agli studi medici;   
+\*3) chimica;   
+\*4) chimica biologica;   
+5) farmacologia (semestrale);   
+\*6) fisica medica;   
+7) fisiologia umana e dell'apparato stomatognatico;   
+8) igiene e odontoiatria preventiva e sociale con epidemiologia (semestrale);   
+9) istituzioni di anatomia umana normale e dell'apparato stomatognatico;   
+10) istituzioni di anatomia e istologia patologica;   
+\*11) istologia ed embriologia generale (compresa la citologia);  
+12) materiali dentari;   
+13) microbiologia (semestrale);   
+14) odontoiatria conservatrice (triennale: 2°, 3° e 4° anno);   
+15) patologia generale.   
+Triennio:   
+16) chirurgia speciale odontostomatologica (biennale: 3° e 4° anno);   
+17) clinica odontostomatologica (biennale: 4° e 5° anno);   
+18) medicina legale e delle assicurazioni e deontologia in odontostomatologia (semestrale);   
+19) neuropatologia e psicopatologia (semestrale);   
+20) ortognatodonzia e gnatologia (funzione masticatoria) (biennale: 4° e 5° anno);   
+21) paradontologia (biennale: 4° e 5° anno);   
+22) patologia speciale chirurgica e propedeutica clinica;   
+23) patologia speciale medica e metodologia clinica (compresa la pediatria);   
+24) patologia speciale odontostomatologica;   
+25) pedodonzia (semestrale);   
+26) protesi dentaria (triennale: 3°, 4° e 5° anno);   
+27) radiologia generale e speciale odontostomatologica (semestrale).   
+Sono insegnamenti complementari:   
+\*1) chirurgia maxillo-facciale;   
+\*2) dermatologia e venereologia (semestrale);   
+\*3) otorinolaringoiatria (semestrale);   
+\*4) statistica sanitaria;   
+\*5) chirurgia plastica;   
+\*6) psicologia generale e clinica;   
+\*7) clinica ortopedica;   
+\*8) clinica oculistica;   
+\*9) medicina sociale;   
+\*10) biochimica applicata;   
+\*11) allergologia ed immunologia clinica.   
+Altri insegnamenti complementari nel piano delle facolta' sempre mutuati dal corso di laurea in medicina e chirurgia.   
+Gli insegnamenti segnati con asterisco sono mutuati dal corso di laurea in medicina e chirurgia.   
+
+Art. 3
+------
+
+  
+  
+Alla parte V, titolo II, disposizioni particolari per le varie facolta', dopo l'attuale art. 85, con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli concernenti l'ordinamento didattico del corso di laurea in odontoiatria e protesi dentaria:   
+Art. 86. - Per il corso di laurea in odontoiatria e protesi dentaria gli insegnamenti fondamentali sono teorici e pratici e la loro frequenza e' obbligatoria.   
+Gli insegnamenti specificamente odontostomatologici di ordine clinico comportano un tirocinio pratico continuativo da espletare prima di sostenere i relativi esami.   
+Gli studenti iscritti al corso di laurea in odontoiatria e protesi dentaria che non conseguono le attestazioni di frequenza non possono essere ammessi a sostenere le relative prove di esami.   
+Il tirocinio pratico, relativo ad ogni insegnamento clinico per il corso di laurea in odontoiatria e protesi dentaria, deve prevedere da parte dei componenti dell'organico un'assistenza didattica adeguata al numero degli studenti.   
+Art. 87. - Ai fini delle propedeuticita' degli esami dei diversi insegnamenti vale la seguente tabella:   
+  
+
+|  |  |
+| --- | --- |
+| Non si puo' essere ammessi a sostenere l'esame di: | Se non si e' superato l'esame di: |
+| Fisiologia umana e dell'apparato stomatognatico | Istituzioni di anatomia umana normale e dell'apparato stomatognatico |
+|  | Chimica |
+| Patologia generale | Biologia generale applicata agli studi medici |
+|  | Fisica medica |
+| Patologia speciale medica e metodologia clinica (compresa la pediatria) | Fisiologia umana e dell'apparato stomatognatico |
+| Patologia speciale chirurgica e propedeutica clinica | Patologia generale |
+| Clinica odontostomatologica | Patologia speciale medica e metodologia clinica (compresa la pediatria) |
+|  | Patologia speciale chirurgica e propedeutica clinica |
+|  | Istituzioni di anatomia ed istologia patologica |
+|  | Patologia speciale odontostomatologica |
+
+  
+  
+  
+  
+Art. 88. - Per essere ammesso a sostenere l'esame di laurea in odontoiatria e protesi dentaria lo studente deve aver seguito i corsi ed aver superato gli esami in tutti gli insegnamenti fondamentali ed almeno in due insegnamenti scelti fra i complementari ed aver inoltre seguito le prescritte esercitazioni cliniche, i tirocini pratici ed averne conseguito le relative attestazioni.   
+L'esame di laurea consiste nella discussione di una tesi scritta su argomenti di odontostomatologia da richiedere almeno all'inizio dell'ultimo anno di corso.   
+I laureati debbono fin dall'inizio dell'ultimo anno di corso scegliere la cattedra presso la quale intendono svolgere la loro tesi.   
+Per esercitare la professione i laureati in odontoiatria e protesi dentaria devono superare un apposito esame di Stato.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 gennaio 1980
+### Dato a Roma, addi' 22 settembre 1981
 
-PERTINI VALITUTTI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 26 aprile 1980
+Registrato alla Corte dei Conti, addi' 31 dicembre 1981
 
-Registro n. 38 Istruzione, foglio n. 37
+Registro n. 136 Istruzione, foglio n. 115

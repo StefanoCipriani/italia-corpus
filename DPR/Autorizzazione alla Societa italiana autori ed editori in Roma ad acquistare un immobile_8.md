@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1978 n. 473
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 luglio 1982 n. 778
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1978 n. 473
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 luglio 1982 n. 778
 =============================================================
 
 Autorizzazione alla Societa' italiana autori ed editori, in Roma, ad acquistare un immobile.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-473. Decreto del Presidente della Repubblica 19 giugno 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Societa' italiana autori ed editori (S.I.A.E.), in Roma, viene autorizzata ad acquistare un immobile, costituito da un locale terraneo con retro e servizi del fabbricato in condominio sito in Ravenna, via Venezia, 38, al prezzo di L. 21.000.000, come da atto di compravendita 14 gennaio 1976, n. 35933/6861 di repertorio, a rogito notaio Modonesi.  
+778. Decreto del Presidente della Repubblica 27 luglio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Societa' italiana autori ed editori - SIAE, in Roma, viene autorizzata ad acquistare, al convenuto prezzo di L. 158.000.000, come da atto 24 febbraio 1976, n. 70155 di repertorio, a rogito dott. Gino Aggio, notaio in Conegliano (Treviso), un immobile sito in Milano, Foro Bonaparte n. 18, comprendente autorimessa al pianoterreno, appartamento al piano sesto con relativa cantina al piano sottosuolo, distinto nel nuovo catasto edilizio urbano al foglio 349, mappali n. 9 sub 1 - 8 sub 26, immobile valutato dall'ufficio tecnico erariale di Milano in L. 166.000.000.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 18 agosto 1978  
-Registro n. 6 Presidenza, foglio n. 78
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 21 ottobre 1982  
+Registro n. 9 Presidenza, foglio n. 248

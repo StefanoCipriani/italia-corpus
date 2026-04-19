@@ -1,124 +1,49 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1966 n. 982
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1966 n. 87
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1966 n. 982
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1966 n. 87
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Camerino.
 --------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Camerino, approvato con [decreto del Presidente della Repubblica 1 novembre 1959, n. 1388](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-11-01;1388), e modificato con [decreto del Presidente della Repubblica 18 agosto 1962, n. 1392](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-08-18;1392) e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Camerino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-L'art. 18 contenente norme relative alla propedeuticita' delle materie del corso di laurea in Giurisprudenza e' abrogato e sostituito dal seguente:
-
-Art. 18. - Lo studente non puo' essere ammesso a sostenere gli esami di:
-
-Diritto romano, Esegesi delle fonti del diritto romano e Diritto comune, se non ha superato quelli di Istituzioni di diritto romano, di Storia del diritto romano e di Istituzioni di diritto privato;
-
-Diritto commerciale, se non ha superato quelli di Istituzioni di diritto romano, di Istituzioni di diritto privato e di Economia politica;
-
-Diritto del lavoro, Legislazione del lavoro e Diritto dell'economia, se non ha superato quelli di Istituzioni di diritto privato, di Economia politica e di Diritto costituzionale;
-
-Diritto civile, Diritto agrario, Diritto privato comparato e Diritto della navigazione, se non ha superato quelli di Istituzioni di diritto romano e di Istituzioni di diritto privato;
-
-Storia del diritto italiano ed Esegesi delle fonti del diritto italiano, se non ha superato quelli di Storia del diritto romano e di Istituzioni di diritto romano;
-
-Scienza delle finanze e Diritto finanziario, se non ha superato quello di Economia politica;
-
-Diritto amministrativo e Diritto internazionale, se non ha superato quello di Diritto costituzionale;
-
-Procedura penale, se non ha superato quello di Diritto penale;
-
-Diritto ecclesiastico, Diritto processuale e civile e Diritto internazionale privato e processuale, se non ha superato quello di Istituzioni di diritto privato;
-
-Storia del diritto canonico, se non ha superato quello di Storia del diritto romano.
-
-L'art. 23, relativo al corso di laurea in Giurisprudenza: il 2° e 3° comma sono abrogati e sostituiti dai seguenti:
-
-"La stessa norma e' applicabile anche agli studenti di altra Facolta' che chiedono il passaggio alla Facolta' di giurisprudenza e per gli studenti che provengono da Universita' estere, sempre che gli insegnamenti precedentemente seguiti e gli esami superati, che siano affini ad insegnamenti ed esami della Facolta' di giurisprudenza, siano tali da giustificare l'abbreviazione del corso. In ogni caso la durata complessiva degli studi, tenuto conto degli anni gia' seguiti nel corso di provenienza, non puo' essere inferiore a quattro anni.
-
-Nei casi previsti dal presente articolo la Facolta', tenuto conto degli studi compiuti e degli esami superati, determina il numero minimo degli insegnamenti che devono essere seguiti e formare oggetto di esame, e consiglia il piano di studi".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 11 ottobre 1966
-
-SARAGAT
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 18 novembre 1966 Atti del Governo, registro n. 207, foglio n. 34. - VILLA
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Camerino, approvato con [decreto del Presidente della Repubblica 1 novembre 1959, n. 1388](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-11-01;1388), e modificato con [decreto del Presidente della Repubblica 18 agosto 1962, n. 1392](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-08-18;1392) e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Canerino, approvato con [decreto del Presidente della Repubblica 1 novembre 1959, n. 1388](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-11-01;1388), e modificato con [decreto del Presidente della Repubblica 18 agosto 1962, n. 1392](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-08-18;1392), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 193", n. 1592;  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare l"nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Camerino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-  
-L'art. 18 contenente norme relative alla propedeuticita' delle materie del corso di laurea in Giurisprudenza e' abrogato e sostituito dal seguente:   
-Art. 18. - Lo studente non puo' essere ammesso a sostenere gli esami di:   
-Diritto romano, Esegesi delle fonti del diritto romano e Diritto comune, se non ha superato quelli di Istituzioni di diritto romano, di Storia del diritto romano e di Istituzioni di diritto privato;   
-Diritto commerciale, se non ha superato quelli di Istituzioni di diritto romano, di Istituzioni di diritto privato e di Economia politica;   
-Diritto del lavoro, Legislazione del lavoro e Diritto dell'economia, se non ha superato quelli di Istituzioni di diritto privato, di Economia politica e di Diritto costituzionale;   
-Diritto civile, Diritto agrario, Diritto privato comparato e Diritto della navigazione, se non ha superato quelli di Istituzioni di diritto romano e di Istituzioni di diritto privato;   
-Storia del diritto italiano ed Esegesi delle fonti del diritto italiano, se non ha superato quelli di Storia del diritto romano e di Istituzioni di diritto romano;   
-Scienza delle finanze e Diritto finanziario, se non ha superato quello di Economia politica;   
-Diritto amministrativo e Diritto internazionale, se non ha superato quello di Diritto costituzionale;   
-Procedura penale, se non ha superato quello di Diritto penale;   
-Diritto ecclesiastico, Diritto processuale e civile e Diritto internazionale privato e processuale, se non ha superato quello di Istituzioni di diritto privato;   
-Storia del diritto canonico, se non ha superato quello di Storia del diritto romano.   
-L'art. 23, relativo al corso di laurea in Giurisprudenza: il 2° e 3° comma sono abrogati e sostituiti dai seguenti:   
-"La stessa norma e' applicabile anche agli studenti di altra Facolta' che chiedono il passaggio alla Facolta' di giurisprudenza e per gli studenti che provengono da Universita' estere, sempre che gli insegnamenti precedentemente seguiti e gli esami superati, che siano affini ad insegnamenti ed esami della Facolta' di giurisprudenza, siano tali da giustificare l'abbreviazione del corso. In ogni caso la durata complessiva degli studi, tenuto conto degli anni gia' seguiti nel corso di provenienza, non puo' essere inferiore a quattro anni.   
-Nei casi previsti dal presente articolo la Facolta', tenuto conto degli studi compiuti e degli esami superati, determina il numero minimo degli insegnamenti che devono essere seguiti e formare oggetto di esame, e consiglia il piano di studi".   
+Lo statuto dell'Universita' degli studi di Camerino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 27. - Agli insegnamenti complementari del corso di laurea in Chimica sono aggiunti quelli di:  
+20) Biochimica applicata;  
+21) Biologia molecolare.  
+Art. 29. - Agli insegnamenti complementari del corso di laurea in Scienze naturali e' aggiunto quello di:  
+29) Biochimica applicata.  
+Art. 31. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche e' aggiunto quello di:  
+27) Biochimica applicata.  
+Art. 35. - Agli insegnamenti complementari del corso di laurea in Farmacia e' aggiunto quello di:  
+20) Biologia molecolare.  
+L'art. 37, relativo alle propedeuticita' di esami per il corso di laurea in Farmacia e' modificato nel senso che l'esame di Chimica bromatologica, attualmente vincolato al superamento dell'esame di Chimica biologica, sia invece vincolato al superamento degli esami di "Chimica organica" e di "Esercitazioni di chimica farmaceutica 2°" e che l'esame di "Chimica idrologica", attualmente vincolato al superamento dell'esame di "Farmacologia e farmacognosia", sia invece vincolato al superamento dell'esame di "Chimica biologica".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 ottobre 1966
+### Dato a Roma, addi' 2 febbraio 1966
 
 SARAGAT GUI
 
-Visto, il Guardasigilli: REALE
+Registrato alla Corte dei conti, addi' 8 marzo 1966
 
-Registrato alla Corte dei conti, addi' 18 novembre 1966
-
-Atti del Governo, registro n. 207, foglio n. 34. - VILLA
+Atti del Governo, registro n. 202, foglio n. 10. - VILLA

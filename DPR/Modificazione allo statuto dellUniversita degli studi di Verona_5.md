@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 1100
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1985 n. 802
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 1100
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1985 n. 802
+================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Verona.
 ------------------------------------------------------------------
@@ -39,13 +39,13 @@ Articolo unico
 --------------
 
   
-Nell'art. 34, all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto l'insegnamento di "dermatologia pediatrica".  
+Art. 35 - nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' inserito l'insegnamento di fisiopatologia dell'emostasi.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1985
+### Dato a Roma, addi' 27 settembre 1985
 
 COSSIGA
 
@@ -53,6 +53,6 @@ FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 19 maggio 1986
+Registrato alla Corte dei conti, addi' 19 dicembre 1985
 
-Registro n. 39 Istruzione, foglio n. 163
+Registro n. 86 Istruzione, foglio n. 139

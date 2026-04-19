@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 gennaio 1984 n. 257
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 261
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 gennaio 1984 n. 257
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 261
+===============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -39,19 +39,21 @@ Articolo unico
 --------------
 
   
-Nell'art. 130, relativo all'elenco degli insegnamenti complementari dei corsi di laurea in ingegneria, e' aggiunto il seguente:  
-generatori di potenza.  
+Nell'art. 19, relativo al corso di laurea in economia e commercio, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+politiche del personale e tecniche di retribuzione.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 gennaio 1984
+### Dato a Roma, addi' 10 febbraio 1986
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 11 giugno 1984
+Registrato alla Corte dei conti, addi' 30 maggio 1986
 
-Registro n. 34 Istruzione, foglio n. 324
+Registro n. 44 Istruzione, foglio n. 290

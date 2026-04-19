@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 418
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1978 n. 554
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 418
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1978 n. 554
 =============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-418. Decreto del Presidente della Repubblica 9 aprile 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio di inventario, l'eredita', consistente nella quota di 1/4 in saldi di conti correnti, titoli obbligazionari, certificati di credito e contanti su depositi bancari, per un valore complessivo di L. 24.435.450, disposta dalla sig.ra Beltrami Ada con testamento pubblico 23 giugno 1983, redatto dal notaio dott. Luigi Prinetti di Milano e pubblicato in data 3 novembre 1983, n. 28347/2487 di repertorio, registrato a Milano in data 9 novembre 1983 al n. 18320.   
+554. Decreto del Presidente della Repubblica 25 luglio 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla sig.ra Fassi Virginia ved. Silvioni con testamento olografo 11 giugno 1973, pubblicato a rogito dott. Ferruccio Brambilla, notaio in Milano, in data 16 aprile 1975, n. 22097/2373 di repertorio, registrato a Busto Arsizio (Varese) il 2 maggio 1975 al n. 879, vol. 156, consistente in beni mobili d'arredamento, suppellettili, titoli di credito e buoni postali fruttiferi per un valore presunto di L. 4.206.710.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 12 giugno 1986   
-Registro n. 7 Presidenza, foglio n. 15
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 13 settembre 1978  
+Registro n. 6 Presidenza, foglio n. 287

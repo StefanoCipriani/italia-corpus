@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 850
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 479
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 850
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 479
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -39,20 +39,20 @@ Articolo unico
 --------------
 
   
-Nell'art. 130, relativo all'elenco degli insegnamenti complementari del corso di laurea in ingegneria, sono aggiunti i seguenti insegnamenti:  
-complementi di geotecnica;  
-stabilita' del territorio e consolidamenti.  
+Nell'art. 19, relativo al corso di laurea in economia e commercio, all'elenco degli insegnamenti complementari sono aggiunti i seguenti: demografia storica;  
+pianificazione territoriale in agricoltura;  
+politica agraria comunitaria.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Selva di Val Gardena, addi' 2 settembre 1983
+### Dato a Roma, addi' 16 giugno 1983
 
 PERTINI FALCUCCI
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 18 gennaio 1984
+Registrato alla Corte dei conti, addi' 17 agosto 1983
 
-Registro n. 2 Istruzione, foglio n. 193
+Registro n. 59 Istruzione, foglio n. 151

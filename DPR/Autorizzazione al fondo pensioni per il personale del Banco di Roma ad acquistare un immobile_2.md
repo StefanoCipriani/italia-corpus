@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 dicembre 1969 n. 1202
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 aprile 1970 n. 528
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 dicembre 1969 n. 1202
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 aprile 1970 n. 528
+=============================================================
 
 Autorizzazione al fondo pensioni per il personale del Banco di Roma ad acquistare un immobile.
 ----------------------------------------------------------------------------------------------
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-1202. Decreto del Presidente della Repubblica 29 dicembre 1969, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, il fondo pensioni per il personale del Banco di Roma viene autorizzato ad acquistare per il prezzo di L. 140.000.000 l'area edificabile di circa mq. 540, sita in Milano, con fronte sul viale Sabotino, di proprieta' della SICOS - Societa' italiana costruzioni S.p.a., distinta sul nuovo catasto terreni di Milano alla partita 325659, foglio n. 526, mappale 82, come da rogito per notaio dottor Danilo Cipollone del 3 agosto 1967, rep.  
-n. 215211/2929.  
+528. Decreto del Presidente della Repubblica 27 aprile 1970, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, il fondo pensioni per il personale del Banco di Roma viene autorizzato ad acquistare per il prezzo di L. 624.000.000 l'immobile costituito da sei piani fuori terra oltre due piani cantinati e locali per la portineria sito in Milano alla via Scarlatti, 31, distinto nel nuovo catasto edilizio di Milano dal mappale 151, foglio n. 269, di proprieta' della E.C.C.E. - Ente cooperativo case economiche - S.p.a., come da rogito dott. Danilo Cipollone, repertorio n. 2982.  
   
-Visto, il Guardasigilli: GAVA  
-Registrato alla Corte dei conti, addi' 2 marzo 1970  
-Atti del Governo, registro n. 233, foglio n. 44. - CARUSO
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 16 luglio 1970  
+Atti del Governo, registro n. 236, foglio n. 164. - CARUSO

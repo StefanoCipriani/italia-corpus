@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 739
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 giugno 1974 n. 596
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 739
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 giugno 1974 n. 596
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -13,9 +13,10 @@ Art. 1
  IL PRESIDENTE DELLA REPUBBLICA  
   
 Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -24,44 +25,32 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Dopo l'art. 594, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in medicina nucleare:  
+Art. 74 - nell'elenco degli insegnamenti complementari del corso di laurea in filosofia e' aggiunto il seguente:  
   
-Scuola di specializzazione in medicina nucleare  
-Art. 595. - Presso la facolta' di medicina e chirurgia e' istituita la scuola di specializzazione in medicina nucleare, con sede presso la cattedra di medicina nucleare, della durata di 3 anni, che conferisce il diploma di specialista in medicina nucleare.  
-Art. 596. - Gli insegnamenti impartiti nella scuola sono cosi' suddivisi nei tre anni di corso:  
+Ermeneutica filosofica.  
+Art. 88 - nell'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono inclusi i seguenti:  
   
-1° Anno:  
-Fondamenti di matematica e statistica;  
-Fisica nucleare e delle radiazioni;  
-Tecniche delle misure di radioattivita';  
-Dosimetria.  
+Storia della critica letteraria;  
+Filologia dantesca;  
+Filologia medioevale ed umanistica;  
+Storia delle letterature popolari;  
+Biblioteconomia e bibliografia;  
+Dialettologia italiana;  
+Sociologia della religione.  
+Art. 89 - nell'elenco degli insegnamenti complementari del corso di laurea in pedagogia e' aggiunto il seguente:  
   
-2° Anno:  
-Teoria dei traccianti;  
-Elementi di radiochimica;  
-Applicazioni diagnostiche I;  
-Elementi di radiobiologia.  
-  
-3° Anno:  
-Applicazioni diagnostiche II;  
-Applicazioni terapeutiche;  
-Radioprotezione e legislazione.  
-  
-Art. 597. - L'ammissione alla scuola avverra' sulla base di titoli ed esami.  
-Art. 598. - Il numero degli iscritti e' di 12 per ogni anno di corso. Ogni allievo ha l'obbligo di un internato effettivo della durata di almeno 4 mesi per ciascun anno di corso.  
-Art. 599. - Alla fine di ogni anno di corso gli iscritti sono tenuti a superare gli esami relativi ai singoli insegnamenti di ciascun anno per il passaggio all'anno successivo.  
-Art. 600. - Al termine del corso di studi per il conseguimento del diploma di specialista, gli allievi dovranno superare l'esame di diploma consistente nella dissertazione scritta su materie che sono state oggetto del corso.  
+Sociologia della religione.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1974
+### Dato a Roma, addi' 18 giugno 1974
 
 LEONE MALFATTI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 27 gennaio 1975
+Registrato alla Corte dei conti, addi' 21 novembre 1974
 
-Atti di Governo, registro n. 8, foglio n. 22
+Atti di Governo, registro n. 7, foglio n. 5. - SCIARRETTA

@@ -1,107 +1,102 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1980 n. 859
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1978 n. 748
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1980 n. 859
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1978 n. 748
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1928, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Dopo l'art. 267 sono inseriti i seguenti nuovi articoli, relativi alla istituzione della scuola speciale per tecnici di igiene ambientale e del lavoro, annessa alla facolta' di medicina e chirurgia:  
+Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Veduto il [decreto del Presidente della Repubblica 12 luglio 1977, n. 817](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-07-12;817);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
-Scuola speciale per tecnici di igiene ambientale e del lavoro  
-Art. 268. - E' istituita presso l'Universita' di Bari una scuola ad indirizzo essenzialmente pratico diretta a preparare personale tecnico per gli istituti ed i laboratori clinici e medico-biologici che operano nel campo dell'igiene ambientale e del lavoro nonche' per le aziende pubbliche e private sia industriali che agricole. La scuola ha sede nell'istituto di medicina del lavoro della facolta' di medicina dell'Universita' di Bari.  
-La scuola e' diretta dal direttore dell'istituto di medicina del lavoro della facolta' di medicina dell'Universita' di Bari.  
-Gli insegnanti della scuola sono proposti dal direttore che puo' sceglierli fra i docenti dell'Universita' stessa o fra esperti extrauniversitari che abbiano particolare competenza nelle materie di insegnamento. Il consiglio della scuola si compone di tutti i professori che tengono gli insegnamenti prescritti ed e' presieduto dal direttore.  
-Art. 269. - La scuola prende il nome di scuola per tecnici di igiene ambientale e del lavoro, ha la durata di due anni e conferisce il diploma di tecnico di igiene ambientale e del lavoro. Ne e' titolo di ammissione l'abilitazione di istituti tecnici e magistrale, la maturita' scientifica e classica.  
-Art. 270. - Gli aspiranti all'iscrizione al primo anno di corso sono tenuti a sostenere un esame di ammissione consistente in una prova orale di cultura generale con particolare riguardo alle nozioni di biologia, chimica e fisica apprese nelle scuole medie e superiori.  
-Art. 271. - Alla scuola non sono ammessi piu' di venti allievi.  
-Qualora le domande di iscrizione fossero in numero superiore, la direzione della scuola si riserva di provvedere ad una scelta in base ai risultati degli esami di ammissione.  
-Art. 272. - Il corso comprende lezioni teoriche ed esercitazioni pratiche. Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-nozioni di chimica e biologia generale;  
-microanalisi;  
-strumentazione (prelievo ed analisi);  
-agenti fisici nell'ambiente di lavoro;  
-rischi e tecnologia industriale;  
-tossicologia industriale.  
-2° Anno:  
-microanalisi;  
-igiene dell'ambiente fisico e sociale;  
-elementi di fisiopatologia del lavoro;  
-organizzazione del lavoro;  
-legislazione sanitaria.  
-Le esercitazioni pratiche sono biennali e comprendono:  
-tecnica analitica:  
-aria (gas e vapori, sostanze corpuscolose: fumo, polvere ecc.);  
-acque;  
-liquidi biologici;  
-agenti fisici;  
-tecniche di prelievo:  
-aria (gas e vapori, sostanze corpuscolose);  
-acque;  
-liquidi biologici;  
-agenti fisici.  
-Art. 273. - E' fatto obbligo agli allievi di frequentare le lezioni teoriche e le esercitazioni; queste ultime in forma di tirocinio pratico della durata non inferiore a mesi due consecutivi presso istituti universitari oppure enti pubblici e/o privati riconosciuti idonei dalla direzione della scuola.  
-Art. 274. - A conclusione degli studi gli allievi devono sostenere un esame di diploma che consiste nella esecuzione di una prova pratica di laboratorio e nella discussione di una relazione scritta del candidato su una attivita' di controllo delle condizioni igienico-ambientali assegnatogli dalla direzione della scuola.  
-Art. 275. - I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo altro anno di frequenza della scuola. Se al secondo anno non venga riconosciuta l'idoneita', essi saranno senz'altro esclusi da ulteriori prove.  
-Art. 276. - L'importo delle tasse e soprattasse che gli iscritti alla scuola sono tenuti a pagare e' il seguente:  
-1° Anno:  
-prima rata L. 1.250 sopra esami di profitto;  
-prima rata L. 1.250 tassa di iscrizione;  
-prima rata L. 500 contributo riscaldamento;  
-prima rata L. 17.500 contributo di laboratorio;  
-prima rata L. 2.000 tassa di immatricolazione;  
-Totale L. 22.500;  
-seconda rata, come sopra, esclusa tassa di immatricolazione;  
-terza rata, come sopra, esclusa tassa di immatricolazione;  
-quarta rata, come sopra, esclusa tassa di immatricolazione;  
-Totale L. 84.000.  
-2° Anno:  
-prima rata L. 1.250 sopra esami di profitto;  
-prima rata L. 1.250 tassa di iscrizione;  
-prima rata L. 500 contributo riscaldamento;  
-prima rata L. 17.500 contributo di laboratorio;  
-Totale L. 20.500 per n. 4 rate L. 82.000.  
+Decreta:   
+  
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+  
+L'art. 74, relativo al corso di laurea in scienze forestali, e' soppresso e sostituito dal seguente.   
+Art. 74. - La durata del corso degli studi per la laurea in scienze forestali e' di quattro anni.   
+Titoli di ammissione sono quelli previsti dall'[art. 1 della legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1).   
+Insegnamenti fondamentali:   
+1) alpicoltura I (prati, pascoli, agricoltura nella regione di montagna) (semestrale);   
+2) alpicoltura II (zootecnica nella regione di montagna) (semestrale);   
+3) assestamento forestale;   
+4) botanica forestale;   
+\* 5) botanica generale;   
+\* 6) botanica sistematica;   
+7) chimica forestale;   
+8) chimica generale ed inorganica con applicazioni di analitica; \* 9) chimica organica;   
+10) costruzioni forestali (semestrale);   
+11) dendrometria (semestrale);   
+12) economia ed estimo forestale;   
+\* 13) fisica;   
+14) industrie chimico-forestali (semestrale);   
+15) legislazione forestale;   
+\* 16) matematica;   
+\* 17) mineralogia e geologia;   
+18) patologia vegetale forestale;   
+\* 19) principi di economia politica e di statistica;   
+20) selvicoltura I (ecologia e selvicoltura generale);   
+21) selvicoltura II (selvicoltura speciale);   
+22) sistemazioni idraulico-forestali;   
+23) tecnologia e utilizzazione forestale (compresa meccanica applicata);   
+24) topografia;   
+25) zoologia forestale venatoria e acquicoltura;   
+\* 26) zoologia generale.   
+Insegnamenti complementari:   
+1) agronomia montana;   
+2) allevamenti minori in zone montane (semestrale);   
+3) alterazioni del legname (semestrale);   
+4) conservazione della natura e delle sue risorse;   
+5) difesa dagli inquinamenti (semestrale);   
+\* 6) ecologia;   
+7) ecologia zootecnica;   
+8) economia di mercato dei prodotti forestali;   
+9) elementi di idraulica e di idrologia;   
+10) fisiologia degli alberi forestali (semestrale);   
+11) geologia applicata;   
+12) idrologia forestale;   
+13) meccanizzazione forestale;   
+14) microbiologia forestale;   
+15) miglioramento genetico degli alberi forestali (semestrale);   
+16) pedologia forestale;   
+17) pianificazione ecologica del territorio;   
+18) protezione dagli incendi boschivi (semestrale);   
+19) protezione della natura e riassetto del paesaggio;   
+20) selvicoltura industriale ed alberature;   
+21) tecniche di rimboschimento nelle zone aride (semestrale) 22) tutela del paesaggio agricolo forestale e riassetto del territorio;   
+23) vivaistica forestale e rimboschimento;   
+24) zoologia venatoria.   
+Le materie contrassegnate con un asterisco sono in comune con il corso di laurea in scienze agrarie.   
+Sono inoltre da ritenere complementari del corso di laurea in scienze forestali tutti gli insegnamenti (fondamentali e complementari) impartiti nel corso di laurea in scienze agrarie.   
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in tre complementari a corso annuale. A tale effetto due corsi complementari semestrali sono computati come corso annuale.   
+L'esame di laurea consiste in una discussione orale intorno ad una dissertazione scritta sopra un tema scelto dal candidato su di un argomento forestale o avente stretta attinenza con le discipline impartite nella facolta'.   
+Tutti gli insegnamenti impartiti nella facolta' sono di lezioni teoriche e di esercitazioni pratiche che possono essere integrati da visite a fabbriche industriali e da esercitazioni in foresta.   
+Gli esami di profitto sono orali; ma possono essere integrati da prove pratiche. Il voto e' pero' complessivo.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 ottobre 1980
+### Dato a Roma, addi' 12 settembre 1978
 
-PERTINI SARTI
+PERTINI PEDINI
 
-Visto, il Guardasigilli: SARTI
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 10 dicembre 1980
+Registrato alla Corte dei conti, addi' 16 novembre 1978
 
-Registro n. 115 Istruzione, foglio n. 371
+Registro n. 122 Istruzione, foglio n. 48

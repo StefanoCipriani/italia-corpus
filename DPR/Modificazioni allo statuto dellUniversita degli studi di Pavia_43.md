@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 ottobre 1975 n. 976
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1969 n. 797
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 ottobre 1975 n. 976
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1969 n. 797
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,11 +18,9 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale, di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio superiore della pubblica istruzione nei suoi pareri;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -30,477 +28,681 @@ Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato come appresso:
 
-Dopo l'art. 95, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi alla istituzione della scuola di specializzazione in economia, annessa alla facolta' di economia e commercio.
+Gli articoli 96, 97, 98, 99, 100, 101, 102, 103 e 104 relativi alle scuole di specializzazione in ostetricia e ginecologia, dermosifilopatia, neurologia e psichiatria, oculistica sono abrogati e sostituiti dai seguenti:
 
-Scuola di specializzazione in economia
+Scuola di specializzazione in ostetricia e ginecologia
 
-Art. 96. - E' costituita presso la facolta' di economia e commercio dell'Universita' di Pavia una scuola di specializzazione in economia.
+Art. 96. - Il corso di specializzazione in ostetricia e ginecologia ha la durata di quattro anni. L'ammissione alla scuola avviene a seguito di concorso per titoli ed esami.
 
-Art. 97. - Il corso degli studi ha durata annuale.
+Sono da considerarsi titoli preferenziali, a parita' di risultato dell'esame di ammissione:
 
-Art. 98. - La scuola e' retta da un consiglio direttivo di cinque membri nominati dal consiglio di facolta'.
+a) il voto di laurea in medicina e chirurgia;
 
-Il consiglio elegge il direttore della scuola.
+b) aver frequentato come studente interno una clinica ostetrica e ginecologica dell'universita';
 
-Il consiglio dura in carica tre anni; i suoi membri sono rieleggibili.
+c) aver svolto la tesi di laurea nella clinica ostetrica e ginecologica;
 
-Il direttore e' eletto ogni anno.
+d) documentazione di eventuali servizi prestati in grossi reparti ospedalieri della specialita';
 
-Al direttore sono affidate l'organizzazione e la sorveglianza sul regolare funzionamento degli insegnamenti e degli esami.
+e) eventuali pubblicazioni.
 
-Art. 99. - I docenti della scuola sono proposti, d'intesa con il consiglio direttivo, dal direttore, che puo' sceglierli tra i professori di ruolo, tra i liberi docenti, tra gli assistenti ed anche tra persone di riconosciuta competenza in una delle materie insegnate nella scuola.
+L'esame di ammissione deve espletarsi entro il mese di dicembre.
 
-L'incarico di insegnamento e' deliberato dal consiglio di facolta'.
+Il numero totale degli iscritti e' di trentacinque (35).
 
-Alla scuola sono ammessi coloro che sono laureati in materie economiche, giuridiche, in ingegneria ed in matematica.
+Per nessun motivo il corso di quattro anni puo' essere abbreviato.
 
-E' data facolta' al consiglio direttivo di stabilire prima dell'inizio di ogni anno accademico, un numero massimo di iscrizioni oltre al quale non potranno essere accolte ulteriori domande.
+Nessun titolo puo' esonerare dalla frequenza gli iscritti nei quattro anni di corso.
 
-La frequenza ai singoli insegnamenti deve essere attestata dai rispettivi insegnanti.
+Gli iscritti, oltre all'obbligo di frequenza delle lezioni, esercitazioni, seminari, ecc., devono prestare servizio analogo a quello degli assistenti per non meno di nove mesi all'anno.
 
-Art. 100. - Le commissioni per gli esami di profitto sono nominate dal consiglio direttivo e sono formate dal professore della materia ed altri due insegnanti della scuola.
+Art. 97. - Gli iscritti alla scuola debbono sostenere esami annuali di profitto e l'esame finale di diploma. La sessione di esami di profitto e' unica, ed e' espletata nel mese di ottobre. Non puo' essere iscritto all'anno successivo di corso chi non abbia superato le materie fondamentali della specialita'.
 
-La commissione per l'esame di diploma e' nominata dal consiglio direttivo ed e' formata da quattro insegnanti della scuola e da un correlatore nella persona di un componente nell'oggetto particolare della dissertazione, il quale puo' essere anche un professore di altra facolta' o di altra universita'.
-
-La dissertazione sara' orale e vertera' su un argomento economico in precedenza scelto dal candidato ed accettato da un insegnante della scuola.
-
-Art. 101. - L'esame di diploma deve essere superato entro cinque anni dalla data di immatricolazione.
-
-I candidati non riconosciuti idonei ad una prima prova non potranno presentarsi prima che sia trascorso un periodo di almeno undici mesi.
-
-Art. 102. - Gli iscritti sono tenuti a frequentare i seguenti corsi:
-
-economia politica, corso progredito;
-
-politica economica, corso progredito;
-
-economia aziendale, corso progredito;
-
-organizzazione aziendale, corso progredito;
-
-economia delle imprese industriali;
-
-economia delle imprese bancarie;
-
-matematica per l'analisi economica;
-
-matematica per le decisioni aziendali;
-
-sociologia economica.
-
-Tutti i corsi sono annuali.
-
-Gli insegnamenti potranno essere completati con cicli di conferenze.
-
-Art. 103. - Gli iscritti alla scuola sono tenuti a pagare un contributo di laboratorio di L. 200.000 al quale vanno aggiunte L. 18.000 di tassa di iscrizione, L. 7.000 di soprattassa esame e L. 26.000 di contributo ricerca biblioteca.
-
-Dopo l'art. 331, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola per massaggiatori e massofisioterapisti (scuola diretta a fini speciali) e della scuola in dietologia e dietetica applicata (scuola diretta a fini speciali).
-
-Scuola per massaggiatori e massofisioterapisti
-
-Art. 332. - E' istituita presso l'istituto di clinica ortopedica dell'Universita' di Pavia ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20) e veduto l'[art. 1 della legge 19 maggio 1971, n. 403](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-05-19;403~art1), la scuola di massaggio e massofisioterapia che ha lo scopo di impartire agli allievi, con unita' di indirizzo e metodo scientifico, tutte le nozioni teoriche e pratiche necessarie a ben esercitare l'attivita' di massaggiatore e massofisioterapista.
-
-Art. 333. - La durata del corso degli studi della scuola di preparazione per massaggiatori e massofisioterapisti e' di due anni accademici. Alla scuola possono essere ammessi allievi di ambo i sessi aventi il diploma di scuola media di 1° grado avendo compiuto il 17° anno di eta'.
-
-Art. 334. - Al primo anno della scuola si accede previo esame di cultura generale ed attitudinale davanti ad una commissione composta dal direttore della scuola e da due insegnanti della scuola stessa.
-
-L'esame di ammissione avra' luogo entro la prima quindicina del mese di ottobre di ciascun anno in un giorno stabilito dalla facolta' di medicina e chirurgia su proposta del direttore della scuola. In casi particolari e' possibile l'ammissione al secondo anno qualora il direttore della scuola ne ravvisi la necessita'.
-
-Art. 335. - Il numero massimo degli allievi che possono essere ammessi ad ogni anno di corso della scuola e' di 35.
-
-Art. 336. - Il direttore della scuola e' il direttore dell'istituto di clinica ortopedica dell'Universita' di Pavia.
-
-La scuola e' sotto la vigilanza della facolta' di medicina e chirurgia. Gli insegnanti della scuola non proposti dal direttore della stessa, approvati dalla facolta' di medicina e chirurgia e nominati dal rettore. Essi possono essere scelti fra i professori ufficiali, tra i docenti, tra gli aiuti e gli assistenti della facolta' di medicina e chirurgia o di altra facolta' dell'Ateneo o tra persone di riconosciuta competenza anche al di fuori dell'ambito universitario.
-
-Art. 337. Le materie di insegnamento sono le seguenti:
+Art. 98. - Le materie di insegnamento sono le seguenti:
 
 1° Anno:
 
-anatomia;
+Elementi di genetica e di eugenica;
 
-fisiologia;
+Anatomia normale ed embriologia dell'apparato genitale femminile;
 
-igiene;
+Fisiologia dell'apparato genitale femminile;
 
-elementi di fisica;
+Endocrinologia fisiologica;
 
-metodologia della massoterapia;
+Fisiologia ostetrica;
 
-elementi di psicologia.
+Diagnostica ostetrica;
 
-2° Anno:
-
-elementi di patologia;
-
-pronto soccorso;
-
-fisioterapia strumentale;
-
-legislazione sanitaria.
-
-Art. 338. - La frequenza alle lezioni teoriche e alle esercitazioni pratiche e' obbligatoria. Per la validita' dell'anno scolastico l'allievo deve partecipare ai due terzi delle lezioni sia teoriche che pratiche.
-
-Art. 339. - Le lezioni verranno impartite agli allievi nelle aule messe a disposizione della clinica ortopedica. I programmi di insegnamento e gli orari vengono predisposti dal direttore della scuola ed approvati dal consiglio della facolta' di medicina e chirurgia. La sorveglianza degli iscritti, per quanto riguarda la loro attivita' pratica, spetta al direttore della scuola. Il tirocinio sara' compiuto dagli allievi sempre sotto la guida dei medici, dei terapisti della riabilitazione didattici e massaggiatori diplomati, presso il reparto di terapia fisica e riabilitazione della clinica ortopedica e traumatologica di Pavia nonche', qualora si rendesse necessario, presso altri istituti e associazioni specialistiche.
-
-Art. 340. - Per essere ammessi a sostenere gli esami di diploma gli allievi dovranno avere seguito il corso, superato gli esami in tutti gli insegnamenti prescritti e avere compiuto, con esito favorevole, tutte le esercitazioni pratiche previste.
-
-Art. 341. - Le commissioni per gli esami di profitto sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Le commissioni sono composte da 3 membri: dal professore ufficiale della materia, presidente; dal professore ufficiale di materia affine e da un libero docente cultore della materia. Ogni commissario ha a disposizione 10 punti.
-
-Art. 342. - L'esame di diploma consiste in un esame orale sui temi trattati durante il corso e da una prova pratica stabilita da una commissione esaminatrice.
-
-L'esame di diploma viene sostenuto davanti una commissione di 5 membri scelti fra i docenti della scuola nominati dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Ogni commissario ha a disposizione 10 punti. I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza nella scuola, ma se al secondo esame non sia loro riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove.
-
-Agli allievi che avranno superato l'esame finale viene rilasciato il diploma di tecnico massaggiatore e massofisioterapista.
-
-Art. 343. - Alle spese occorrenti al funzionamento della scuola si provvede con contributi eventualmente concessi da Ministeri, dalle regioni, da enti pubblici e privati e dalle seguenti tasse, soprattasse e contributi degli iscritti:
-
-tassa di immatricolazione (da versare una volta sola). . . . L. 2.000 tassa annuale di iscrizione. . . . . . . . . . . . . . . . . L. 2.000 soprattassa annuale di esame . . . . . . . . . . . . . . . . L. 3.000 contributi di laboratorio . . . . . . . . . . . . . . . . . L. 30.000 tassa erariale di diploma. . . . . . . . . . . . . . . . . . L. 3.000 libretto e tessera . . . . . . . . . . . . . . . . . . . . . L. 2.000
-
-Scuola in dietologia e dietetica applicata
-
-Art. 344. - E' istituita presso la facolta' di medicina e chirurgia dell'Universita' di Pavia la scuola speciale di dietologia e dietetica applicata.
-
-La scuola si propone di preparare il personale tecnico che aspira a svolgere ricerche ed attivita' nel settore della dietetica in qualita' di tecnico dietista, di dietista ospedaliera, di tecnico delle preparazioni alimentari a scopo dietetico e industriale. La scuola conferisce il titolo di dietista. Il corso di studi ha la durata di tre anni. La scuola, annessa alla cattedra di scienza dell'alimentazione, ha sede presso l'istituto di igiene, che ospita attualmente la cattedra su indicata, avvalendosi delle attrezzature e del personale dell'istituto e della cattedra.
-
-Art. 345. - Il direttore della scuola e' il titolare della cattedra di scienza dell'alimentazione e dietologia della facolta' di medicina e chirurgia.
-
-Il direttore puo' essere coadiuvato da un vice direttore nominato, su sua proposta dalla facolta'. Gli insegnanti della scuola sono proposti dal direttore che puo' sceglierli tra i docenti dell'Universita' stessa o fra gli esperti extrauniversitari che abbiano particolare competenza nelle materie di insegnamento. Il consiglio della scuola si compone di tutti i professori che tengono gli insegnamenti prescritti ed e' presieduto dal direttore.
-
-Art. 346. - Gli aspiranti alla iscrizione al primo anno di corso devono essere in possesso di un titolo di studio di scuole medie superiori. La iscrizione al primo anno e' subordinata al superamento di prove di valutazione personale e di cultura generale.
-
-Art. 347. - Alla scuola sono ammessi non piu' di 20 allievi.
-
-Qualora le domande di iscrizione fossero in numero superiore la direzione della scuola si riserva di provvedere ad una scelta in base ai risultati degli esami di ammissione.
-
-Art. 348. - Il corso comprende lezioni teoriche, esercitazioni pratiche, conferenze, seminari, tirocini pratici articolari tenendo presente l'indirizzo e gli scopi professionali della preparazione. Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-1) biologia generale e comparata;
-
-2) anatomia umana normale;
-
-3) chimica;
-
-4) fisica;
-
-5) chimica degli alimenti;
-
-6) geografia economica e sociologia;
-
-7) tecniche di laboratorio applicate agli alimenti e all'alimentazione;
-
-8) igiene;
-
-9) igiene degli alimenti.
+Clinica ostetrica e ginecologica.
 
 2° Anno:
 
-1) fisiologia umana;
+Tecnica operatoria ostetrica;
 
-2) biochimica;
+Diagnostica ginecologica;
 
-3) microbiologia;
+Tecnica diagnostica di laboratorio nel campo ostetrico-ginecologico, esclusa la istologia (sierologia batteriologia, citologia, ematologia, biochimica);
 
-4) parassitologia;
-
-5) fisiologia della nutrizione;
-
-6) patologia generale;
-
-7) tossicologia alimentare;
-
-8) biochimica della nutrizione e del ricambio;
-
-9) legislazione alimentare.
+Clinica ostetrica e ginecologica.
 
 3° Anno:
 
-1) dietologia e dietoterapia;
+Anatomia patologica ostetrica e ginecologica;
 
-2) clinica medica e generale;
+Istologia normale e patologica nel campo della specialita';
 
-3) gastroenterologia e malattie dell'apparato digerente;
+Puericultura prenatale;
 
-4) malattie del metabolismo e della nutrizione;
+Emoterapia nel campo ostetrico e ginecologico;
 
-5) malattie della nutrizione e dello sviluppo dell'infanzia;
+Anestesia e analgesia nel campo ostetrico e ginecologico;
 
-6) malattie dell'apparato cardiovascolare e renale;
+Tecnica operatoria ginecologica;
 
-7) psicologia dell'alimentazione ed educazione alimentare;
+Clinica ostetrica e ginecologica;
 
-8) statistica sanitaria e biometria;
+Terapia medica ostetrica e ginecologica.
 
-9) merceologia e statistiche;
+4° Anno:
 
-10) tecnologia alimentare e conservazione degli alimenti.
+Puericultura postnatale e malattie del neonato;
 
-Art. 349. - La frequenza dei corsi e' obbligatoria.
+Ostetricia e ginecologia forense;
 
-Al termine di ciascun anno di corso l'allievo dovra' superare il relativo esame di profitto in una delle due sessioni (estiva ed autunnale). Le commissioni esaminatrici saranno composte da tre professori della scuola ed i voti saranno espressi in trentesimi. Al termine del corso di studi gli allievi sosterranno un esame finale di abilitazione consistente nella discussione orale di una dissertazione scritta presentata dal candidato. Il consiglio della scuola potra' anche decidere di adottare per il conseguimento del diploma, la integrazione della dissertazione scritta con prove orali e pratiche.
+Diagnostica roentgen, radioterapia in ostetricia e ginecologia;
 
-Il voto di diploma sara' espresso in centesimi. La commissione esaminatrice sara' composta da dieci professori della scuola.
+Clinica ostetrica e ginecologica (esame alla fine del quarto anno);
 
-Art. 350. - Le entrate della scuola sono costituite dalle tasse, soprattasse e contributi scolastici e di laboratorio; dai contributi erogati eventualmente dallo Stato, dall'Universita', da enti pubblici e privati, da privati.
+Urologia ginecologica;
 
-Art. 351. - L'importo delle tasse e soprattasse che gli Iscritti alla scuola sono tenuti a pagare e' il seguente:
+Chirurgia addominale extra genitale.
+
+Gli esami si fanno per gruppi di materie ed i membri delle commissioni saranno proposti dai direttori delle scuole.
+
+Per il conseguimento del diploma, l'iscritto deve presentare e discutere una dissertazione scritta con contributo personale.
+
+Scuola di specializzazione in clinica dermosifilopatica
+
+Art. 99. - La durata del corso e' di anni tre a tempo pieno.
+
+Le materie di insegnamento sono le seguenti:
 
 1° Anno:
 
-1ª rata: L. 1.250 sopra esami di profitto
+1) Anatomia e istologia normale della cute;
 
-" 1.250 tassa di iscrizione
+2) Fisiologia della cute e degli annessi cutanei;
 
-" 500 contributo riscaldamento
+3) Anatomia e fisiologia dell'apparato genitale;
 
-" 2.000 tassa di immatricolazione
+4) Microbiologia e parassitologia applicate;
 
------
+5) Tecnica di laboratorio con particolare riferimento alla sierologia applicata;
 
-Totale ... L. 5.000
-
-2ª rata: come sopra esclusa tassa di immatricolazione;
-
-3ª rata: come sopra, esclusa tassa di immatricolazione;
-
-4ª rata: come sopra, esclusa tassa di immatricolazione.
-
-Totale ... L. 14.000
+6) Semeiotica dermatologica e venereologia.
 
 2° Anno:
 
-1ª rata: L. 1.250 sopra esami di profitto
+1) Patologia delle malattie cutanee;
 
-" 1.250 tassa di iscrizione
+2) Patologia delle infezioni sessuali;
 
-" 500 contributo riscaldamento
+3) Anatomia e istologia patologica della cute;
 
------
+4) Anatomia patologica delle malattie veneree e sessuali;
 
-Totale ... L. 3.000
+5) Dermatosi allergiche e professionali;
 
-2ª rata: come sopra;
+6) Angiologia;
 
-3ª rata: come sopra;
-
-4ª rata: come sopra.
-
-Totale ... L. 12.000
+7) Sessuologia,
 
 3° Anno:
 
-1ª rata: L. 1.250 sopra esami di profitto
+1) Clinica delle malattie cutanee;
 
-" 1.250 tassa di iscrizione
+2) Clinica delle infezioni sessuali;
 
-" 500 contributo riscaldamento
+3) Farmacologia e terapia medicamentosa;
 
-" 3.000 tassa erariale di diploma
+4) Fisioterapia dermatologica;
 
------
+5) Cosmetologia;
 
-Totale ... L. 6.000
+6) Chirurgia plastica riparatrice;
 
-2ª rata: come sopra, esclusa tassa erariale di diploma;
+7) Igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.
 
-3ª rata: come sopra, esclusa tassa erariale di diploma;
+Art. 100. - Le iscrizioni sono limitate a dieci per ogni anno di corso (totale trenta iscritti).
 
-4ª rata: come sopra esclusa tassa erariale di diploma.
+Per le iscrizioni alla scuola e' richiesta la laurea in medicina e chirurgia ed il superamento di un esame di ammissione.
 
-Totale ... L. 15.000
+Gli iscritti saranno obbligati ad una frequenza giornaliera delle corsie, ambulatori e laboratori della clinica dermosifilopatica per tutta la durata dell'anno accademico.
 
-L'ammontare dei contributi di laboratorio verra' stabilito annualmente dal consiglio di amministrazione dell'Universita' su proposta del senato accademico, udito il consiglio di facolta', ai sensi dell'[art. 11 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art11).
+Gli esami di profitto degli specializzandi verranno dati in tre gruppi e in tre sessioni distinte, ogni gruppo comprendente le materie proprie di ciascun anno di studio.
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+L'esame di diploma consistera' nella esposizione e discussione di un argomento della disciplina su un tema dato al candidato 24 ore prima della prova.
 
-Dato a Roma, addi' 20 ottobre 1975
+Scuola di specializzazione in neurologia
 
-LEONE
+Art. 101. - La scuola di specializzazione in neurologia ha la durata di quattro anni.
 
-MALFATTI
+Le materie di insegnamento sono le seguenti:
 
-Visto, il Guardasigilli: REALE
+1° Anno (internato in psichiatria):
+
+Anatomia e istologia del S.N.
+
+Fisiologia del S.N.;
+
+Biochimica del S.N.;
+
+Genetica (elementi);
+
+Psicologia generale;
+
+Psicopatologia (I);
+
+Semeiotica psichiatrica.
+
+2° Anno:
+
+Anatomia e istologia patologica del S.N.;
+
+Semeiotica neurologica;
+
+Patologia speciale e diagnostica neurologica (I);
+
+Neuro-radiologia;
+
+Endocrinologia e neurologia vegetativa.
+
+3° Anno:
+
+Patologia speciale e diagnostica neurologica (II);
+
+Clinica neurologica (I);
+
+Elettroencefalografia;
+
+Elettromiografia, elettrodiagnostica e elettroterapia;
+
+Neuro-oftalmologia;
+
+Neuro-otologia;
+
+Esami di laboratorio.
+
+4° Anno:
+
+Clinica neurologica e terapia (II);
+
+Neuro-chirurgia;
+
+Teoria e clinica della riabilitazione;
+
+Neuro-traumatologia anche sotto l'aspetto della medicina legale;
+
+Neurologia in rapporto alla patologia internistica.
+
+Internato obbligatorio per l'intero anno scolastico nel 2°, 3° e 4° anno in clinica neurologica sede della scuola. Tale internato potra' essere ridotto a non meno di mesi quattro per anno per i medici che prestino regolare servizio in reparto neurologico.
+
+Internato obbligatorio per l'intero anno scolastico in psichiatria nel 1° anno.
+
+Tale internato potra' essere ridotto a non meno di mesi sei per i medici che prestino servizio in reparto neurologico e a non meno di mesi quattro per coloro che prestino servizio in ospedale psichiatrico.
+
+Esami obbligatori per il passaggio all'anno successivo.
+
+Il numero massimo totale degli iscritti e' di quaranta.
+
+Un abbuono di due anni puo' essere concesso per i gia' specializzati in psichiatria, neuropsichiatria infantile e neurochirurgia.
+
+Un anno di abbuono per i gia' specializzati in altre materie affini (medicina interna, otorinolaringoiatria, oculistica, radiologia).
+
+Gli abbuoni possono essere concessi solo superando un esame di ammissione.
+
+Tutti gli abbuoni di cui sopra sono concessi a giudizio del direttore della scuola.
+
+L'esame di diploma consiste nella presentazione di una dissertazione scritta a carattere clinico o sperimentale, relativa discussione e prova pratica sul malato.
+
+Scuola di specializzazione in psichiatria
+
+Art. 102. - La scuola di specializzazione in psichiatria ha la durata di quattro anni.
+
+Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+Anatomia e istologia del S.N.;
+
+Fisiologia del S.N.;
+
+Biochimica del S.N.;
+
+Genetica (elementi);
+
+Psicologia generale;
+
+Psicopatologia (I);
+
+Semeiotica psichiatrica.
+
+2° Anno (internato in neurologia):
+
+Anatomia e istologia patologica del S.N.;
+
+Semeiotica neurologica;
+
+Patologia speciale e diagnostica neurologica;
+
+Neuro-radiologia;
+
+Endocrinologia e neurologia vegetativa;
+
+Elettroencefalografia.
+
+3° Anno:
+
+Patologia speciale psichiatrica;
+
+Psicopatologia (II);
+
+Clinica psichiatrica (I);
+
+Psicologia clinica e psicodiagnostica;
+
+Psicofarmacologia;
+
+Psichiatria in rapporto con la patologia internistica;
+
+Esami di laboratorio.
+
+4° Anno:
+
+Clinica psichiatrica (II);
+
+Terapia psichiatrica generale;
+
+Psicoterapia;
+
+Neuropsichiatria infantile;
+
+Psichiatria forense e legislazione psichiatrica;
+
+Psichiatria sociale (del lavoro, scolastica, igiene e profilassi mentale).
+
+Internato obbligatorio per l'intero anno scolastico per il 1°, 3° e 4° anno in clinica psichiatrica sede della scuola.
+
+Tale internato potra' essere ridotto a non meno di quattro mesi all'anno per i medici che prestino servizio regolare in ospedale psichiatrico.
+
+L'internato e' obbligatorio per il 2° anno in neurologia (sede della scuola) per l'intero anno scolastico, salvo per i medici che prestino regolare servizio in ospedale psichiatrico per i quali potra' essere ridotto a non meno di mesi sei, e per i medici che prestino regolare servizio in un reparto neurologico per i quali potra' essere ridotto a non meno di mesi quattro.
+
+Esami obbligatori per il passaggio all'anno successivo.
+
+Il numero massimo totale degli iscritti e' di quaranta.
+
+Per i gia' specializzati in neurologia, neuropsichiatria infantile potra' esservi abbuono di due anni.
+
+Un anno di abbuono per i gia' specializzati in altre materie affini (psicologia, medicina generale, neurochirurgia).
+
+Tali abbuoni possono essere concessi solo dopo aver superato l'esame di ammissione.
+
+Tutti gli abbuoni di cui sopra sono concessi a giudizio del direttore della scuola.
+
+L'esame di diploma consiste nella presentazione di una dissertazione scritta a carattere clinico o sperimentale, relativa discussione e prova pratica sul malato.
+
+Scuola di specializzazione in clinica oculistica
+
+Art. 103. - Il corso degli studi nella scuola di specializzazione in clinica oculistica ha la durata di quattro anni.
+
+Il numero totale degli iscritti per i quattro anni calcolato sui letti della clinica e' di venti o al massimo di trentacinque specializzandi.
+
+Gli insegnamenti impartiti sono:
+
+1° Anno:
+
+1) Anatomia ed istologia dell'apparato oculare;
+
+2) Nozioni di embriologia e genetica oculare;
+
+3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;
+
+4) Nozioni di ottica fisiologica, esame della refrazione;
+
+5) Microbiologia ed igiene oculare.
+
+2° Anno:
+
+1) Semeiologia oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmoscopia, perimetria, campimetria, adattometria, senso cromatico, tonometria, tonografia, esami elettrofunzionali, radiologia);
+
+2) Farmacologia oculare. Terapia fisica;
+
+3) Anatomia patologica oculare;
+
+4) Patologia e clinica oculare (malattie delle palpebre, della congiuntiva, delle vie lacrimali, della sclera, della cornea).
+
+3° Anno:
+
+1) Patologia clinica oculare (malattie dell'uvea, della retina, del nervo ottico e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita, glaucoma);
+
+2) Anomalie e patologia della motivita' oculare e della visione binoculare;
+
+3) Affezioni otorinolaringoiatriche e occhio;
+
+4) Tecnica operatoria 1ª parte.
+
+4° Anno:
+
+1) Neuroftalmologia;
+
+2) Malattie oculari in rapporto ad affezioni generali;
+
+3) Malattie professionali. Infortunistica e medicina legale oculare;
+
+4) Tecnica operatoria 2ª parte;
+
+5) Tesi di specializzazione.
+
+Art. 104. - Gli esami di profitto si danno alla fine di ciascun anno di corso. Alla fine del corso gli iscritti, oltre a presentare la dissertazione scritta ed a sostenere la relativa discussione, devono sostenere una prova pratica sull'ammalato.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle, leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 8 ottobre 1969
+
+SARAGAT
+
+FERRARI AGGRADI
+
+Visto, il Guardasigilli: GAVA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 23 aprile 1976 Atti di Governo, registro n. 5, foglio n. 23
+alla Corte dei conti, addi' 7 novembre 1969 Atti del Governo, registro n. 230, foglio n. 21. - CARUSO
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale, di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio superiore della pubblica istruzione nei suoi pareri;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato come appresso:   
+Gli articoli 96, 97, 98, 99, 100, 101, 102, 103 e 104 relativi alle scuole di specializzazione in ostetricia e ginecologia, dermosifilopatia, neurologia e psichiatria, oculistica sono abrogati e sostituiti dai seguenti:   
   
-Dopo l'art. 95, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi alla istituzione della scuola di specializzazione in economia, annessa alla facolta' di economia e commercio.  
-Scuola di specializzazione in economia  
-Art. 96. - E' costituita presso la facolta' di economia e commercio dell'Universita' di Pavia una scuola di specializzazione in economia.  
-Art. 97. - Il corso degli studi ha durata annuale.  
-Art. 98. - La scuola e' retta da un consiglio direttivo di cinque membri nominati dal consiglio di facolta'.  
-Il consiglio elegge il direttore della scuola.  
-Il consiglio dura in carica tre anni; i suoi membri sono rieleggibili.  
-Il direttore e' eletto ogni anno.  
-Al direttore sono affidate l'organizzazione e la sorveglianza sul regolare funzionamento degli insegnamenti e degli esami.  
-Art. 99. - I docenti della scuola sono proposti, d'intesa con il consiglio direttivo, dal direttore, che puo' sceglierli tra i professori di ruolo, tra i liberi docenti, tra gli assistenti ed anche tra persone di riconosciuta competenza in una delle materie insegnate nella scuola.  
-L'incarico di insegnamento e' deliberato dal consiglio di facolta'.  
-Alla scuola sono ammessi coloro che sono laureati in materie economiche, giuridiche, in ingegneria ed in matematica.  
-E' data facolta' al consiglio direttivo di stabilire prima dell'inizio di ogni anno accademico, un numero massimo di iscrizioni oltre al quale non potranno essere accolte ulteriori domande.  
-La frequenza ai singoli insegnamenti deve essere attestata dai rispettivi insegnanti.  
-Art. 100. - Le commissioni per gli esami di profitto sono nominate dal consiglio direttivo e sono formate dal professore della materia ed altri due insegnanti della scuola.  
-La commissione per l'esame di diploma e' nominata dal consiglio direttivo ed e' formata da quattro insegnanti della scuola e da un correlatore nella persona di un componente nell'oggetto particolare della dissertazione, il quale puo' essere anche un professore di altra facolta' o di altra universita'.  
-La dissertazione sara' orale e vertera' su un argomento economico in precedenza scelto dal candidato ed accettato da un insegnante della scuola.  
-Art. 101. - L'esame di diploma deve essere superato entro cinque anni dalla data di immatricolazione.  
-I candidati non riconosciuti idonei ad una prima prova non potranno presentarsi prima che sia trascorso un periodo di almeno undici mesi.  
-Art. 102. - Gli iscritti sono tenuti a frequentare i seguenti corsi:  
-economia politica, corso progredito;  
-politica economica, corso progredito;  
-economia aziendale, corso progredito;  
-organizzazione aziendale, corso progredito;  
-economia delle imprese industriali;  
-economia delle imprese bancarie;  
-matematica per l'analisi economica;  
-matematica per le decisioni aziendali;  
-sociologia economica.  
-Tutti i corsi sono annuali.  
-Gli insegnamenti potranno essere completati con cicli di conferenze.  
-Art. 103. - Gli iscritti alla scuola sono tenuti a pagare un contributo di laboratorio di L. 200.000 al quale vanno aggiunte L. 18.000 di tassa di iscrizione, L. 7.000 di soprattassa esame e L. 26.000 di contributo ricerca biblioteca.  
-Dopo l'art. 331, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola per massaggiatori e massofisioterapisti (scuola diretta a fini speciali) e della scuola in dietologia e dietetica applicata (scuola diretta a fini speciali).  
-Scuola per massaggiatori e massofisioterapisti  
-Art. 332. - E' istituita presso l'istituto di clinica ortopedica dell'Universita' di Pavia ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20) e veduto l'[art. 1 della legge 19 maggio 1971, n. 403](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-05-19;403~art1), la scuola di massaggio e massofisioterapia che ha lo scopo di impartire agli allievi, con unita' di indirizzo e metodo scientifico, tutte le nozioni teoriche e pratiche necessarie a ben esercitare l'attivita' di massaggiatore e massofisioterapista.  
-Art. 333. - La durata del corso degli studi della scuola di preparazione per massaggiatori e massofisioterapisti e' di due anni accademici. Alla scuola possono essere ammessi allievi di ambo i sessi aventi il diploma di scuola media di 1° grado avendo compiuto il 17° anno di eta'.  
-Art. 334. - Al primo anno della scuola si accede previo esame di cultura generale ed attitudinale davanti ad una commissione composta dal direttore della scuola e da due insegnanti della scuola stessa.  
-L'esame di ammissione avra' luogo entro la prima quindicina del mese di ottobre di ciascun anno in un giorno stabilito dalla facolta' di medicina e chirurgia su proposta del direttore della scuola. In casi particolari e' possibile l'ammissione al secondo anno qualora il direttore della scuola ne ravvisi la necessita'.  
-Art. 335. - Il numero massimo degli allievi che possono essere ammessi ad ogni anno di corso della scuola e' di 35.  
-Art. 336. - Il direttore della scuola e' il direttore dell'istituto di clinica ortopedica dell'Universita' di Pavia.  
-La scuola e' sotto la vigilanza della facolta' di medicina e chirurgia. Gli insegnanti della scuola non proposti dal direttore della stessa, approvati dalla facolta' di medicina e chirurgia e nominati dal rettore. Essi possono essere scelti fra i professori ufficiali, tra i docenti, tra gli aiuti e gli assistenti della facolta' di medicina e chirurgia o di altra facolta' dell'Ateneo o tra persone di riconosciuta competenza anche al di fuori dell'ambito universitario.  
-Art. 337. Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-anatomia;  
-fisiologia;  
-igiene;  
-elementi di fisica;  
-metodologia della massoterapia;  
-elementi di psicologia.  
-2° Anno:  
-elementi di patologia;  
-pronto soccorso;  
-fisioterapia strumentale;  
-legislazione sanitaria.  
-Art. 338. - La frequenza alle lezioni teoriche e alle esercitazioni pratiche e' obbligatoria. Per la validita' dell'anno scolastico l'allievo deve partecipare ai due terzi delle lezioni sia teoriche che pratiche.  
-Art. 339. - Le lezioni verranno impartite agli allievi nelle aule messe a disposizione della clinica ortopedica. I programmi di insegnamento e gli orari vengono predisposti dal direttore della scuola ed approvati dal consiglio della facolta' di medicina e chirurgia. La sorveglianza degli iscritti, per quanto riguarda la loro attivita' pratica, spetta al direttore della scuola. Il tirocinio sara' compiuto dagli allievi sempre sotto la guida dei medici, dei terapisti della riabilitazione didattici e massaggiatori diplomati, presso il reparto di terapia fisica e riabilitazione della clinica ortopedica e traumatologica di Pavia nonche', qualora si rendesse necessario, presso altri istituti e associazioni specialistiche.  
-Art. 340. - Per essere ammessi a sostenere gli esami di diploma gli allievi dovranno avere seguito il corso, superato gli esami in tutti gli insegnamenti prescritti e avere compiuto, con esito favorevole, tutte le esercitazioni pratiche previste.  
-Art. 341. - Le commissioni per gli esami di profitto sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Le commissioni sono composte da 3 membri: dal professore ufficiale della materia, presidente; dal professore ufficiale di materia affine e da un libero docente cultore della materia. Ogni commissario ha a disposizione 10 punti.  
-Art. 342. - L'esame di diploma consiste in un esame orale sui temi trattati durante il corso e da una prova pratica stabilita da una commissione esaminatrice.  
-L'esame di diploma viene sostenuto davanti una commissione di 5 membri scelti fra i docenti della scuola nominati dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Ogni commissario ha a disposizione 10 punti. I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza nella scuola, ma se al secondo esame non sia loro riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove.  
-Agli allievi che avranno superato l'esame finale viene rilasciato il diploma di tecnico massaggiatore e massofisioterapista.  
-Art. 343. - Alle spese occorrenti al funzionamento della scuola si provvede con contributi eventualmente concessi da Ministeri, dalle regioni, da enti pubblici e privati e dalle seguenti tasse, soprattasse e contributi degli iscritti:  
+Scuola di specializzazione in ostetricia e ginecologia   
   
-tassa di immatricolazione (da versare una volta sola). . . . L. 2.000 tassa annuale di iscrizione. . . . . . . . . . . . . . . . . L. 2.000 soprattassa annuale di esame . . . . . . . . . . . . . . . . L. 3.000 contributi di laboratorio . . . . . . . . . . . . . . . . . L. 30.000 tassa erariale di diploma. . . . . . . . . . . . . . . . . . L. 3.000 libretto e tessera . . . . . . . . . . . . . . . . . . . . . L. 2.000   
-Scuola in dietologia e dietetica applicata  
-Art. 344. - E' istituita presso la facolta' di medicina e chirurgia dell'Universita' di Pavia la scuola speciale di dietologia e dietetica applicata.  
-La scuola si propone di preparare il personale tecnico che aspira a svolgere ricerche ed attivita' nel settore della dietetica in qualita' di tecnico dietista, di dietista ospedaliera, di tecnico delle preparazioni alimentari a scopo dietetico e industriale. La scuola conferisce il titolo di dietista. Il corso di studi ha la durata di tre anni. La scuola, annessa alla cattedra di scienza dell'alimentazione, ha sede presso l'istituto di igiene, che ospita attualmente la cattedra su indicata, avvalendosi delle attrezzature e del personale dell'istituto e della cattedra.  
-Art. 345. - Il direttore della scuola e' il titolare della cattedra di scienza dell'alimentazione e dietologia della facolta' di medicina e chirurgia.  
-Il direttore puo' essere coadiuvato da un vice direttore nominato, su sua proposta dalla facolta'. Gli insegnanti della scuola sono proposti dal direttore che puo' sceglierli tra i docenti dell'Universita' stessa o fra gli esperti extrauniversitari che abbiano particolare competenza nelle materie di insegnamento. Il consiglio della scuola si compone di tutti i professori che tengono gli insegnamenti prescritti ed e' presieduto dal direttore.  
-Art. 346. - Gli aspiranti alla iscrizione al primo anno di corso devono essere in possesso di un titolo di studio di scuole medie superiori. La iscrizione al primo anno e' subordinata al superamento di prove di valutazione personale e di cultura generale.  
-Art. 347. - Alla scuola sono ammessi non piu' di 20 allievi.  
-Qualora le domande di iscrizione fossero in numero superiore la direzione della scuola si riserva di provvedere ad una scelta in base ai risultati degli esami di ammissione.  
-Art. 348. - Il corso comprende lezioni teoriche, esercitazioni pratiche, conferenze, seminari, tirocini pratici articolari tenendo presente l'indirizzo e gli scopi professionali della preparazione. Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-1) biologia generale e comparata;  
-2) anatomia umana normale;  
-3) chimica;  
-4) fisica;  
-5) chimica degli alimenti;  
-6) geografia economica e sociologia;  
-7) tecniche di laboratorio applicate agli alimenti e all'alimentazione;  
-8) igiene;  
-9) igiene degli alimenti.  
-2° Anno:  
-1) fisiologia umana;  
-2) biochimica;  
-3) microbiologia;  
-4) parassitologia;  
-5) fisiologia della nutrizione;  
-6) patologia generale;  
-7) tossicologia alimentare;  
-8) biochimica della nutrizione e del ricambio;  
-9) legislazione alimentare.  
-3° Anno:  
-1) dietologia e dietoterapia;  
-2) clinica medica e generale;  
-3) gastroenterologia e malattie dell'apparato digerente;  
-4) malattie del metabolismo e della nutrizione;  
-5) malattie della nutrizione e dello sviluppo dell'infanzia;  
-6) malattie dell'apparato cardiovascolare e renale;  
-7) psicologia dell'alimentazione ed educazione alimentare;  
-8) statistica sanitaria e biometria;  
-9) merceologia e statistiche;  
-10) tecnologia alimentare e conservazione degli alimenti.  
-Art. 349. - La frequenza dei corsi e' obbligatoria.  
-Al termine di ciascun anno di corso l'allievo dovra' superare il relativo esame di profitto in una delle due sessioni (estiva ed autunnale). Le commissioni esaminatrici saranno composte da tre professori della scuola ed i voti saranno espressi in trentesimi. Al termine del corso di studi gli allievi sosterranno un esame finale di abilitazione consistente nella discussione orale di una dissertazione scritta presentata dal candidato. Il consiglio della scuola potra' anche decidere di adottare per il conseguimento del diploma, la integrazione della dissertazione scritta con prove orali e pratiche.  
-Il voto di diploma sara' espresso in centesimi. La commissione esaminatrice sara' composta da dieci professori della scuola.  
-Art. 350. - Le entrate della scuola sono costituite dalle tasse, soprattasse e contributi scolastici e di laboratorio; dai contributi erogati eventualmente dallo Stato, dall'Universita', da enti pubblici e privati, da privati.  
-Art. 351. - L'importo delle tasse e soprattasse che gli Iscritti alla scuola sono tenuti a pagare e' il seguente:  
-1° Anno:  
-1ª rata: L. 1.250 sopra esami di profitto  
-" 1.250 tassa di iscrizione  
-" 500 contributo riscaldamento  
-" 2.000 tassa di immatricolazione  
------  
-Totale ... L. 5.000  
-2ª rata: come sopra esclusa tassa di immatricolazione;  
-3ª rata: come sopra, esclusa tassa di immatricolazione;  
-4ª rata: come sopra, esclusa tassa di immatricolazione.  
-Totale ... L. 14.000  
-2° Anno:  
-1ª rata: L. 1.250 sopra esami di profitto  
-" 1.250 tassa di iscrizione  
-" 500 contributo riscaldamento  
------  
-Totale ... L. 3.000  
-2ª rata: come sopra;  
-3ª rata: come sopra;  
-4ª rata: come sopra.  
-Totale ... L. 12.000  
-3° Anno:  
-1ª rata: L. 1.250 sopra esami di profitto  
-" 1.250 tassa di iscrizione  
-" 500 contributo riscaldamento  
-" 3.000 tassa erariale di diploma  
------  
-Totale ... L. 6.000  
-2ª rata: come sopra, esclusa tassa erariale di diploma;  
-3ª rata: come sopra, esclusa tassa erariale di diploma;  
-4ª rata: come sopra esclusa tassa erariale di diploma.  
-Totale ... L. 15.000  
-L'ammontare dei contributi di laboratorio verra' stabilito annualmente dal consiglio di amministrazione dell'Universita' su proposta del senato accademico, udito il consiglio di facolta', ai sensi dell'[art. 11 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art11).  
+Art. 96. - Il corso di specializzazione in ostetricia e ginecologia ha la durata di quattro anni. L'ammissione alla scuola avviene a seguito di concorso per titoli ed esami.   
+  
+Sono da considerarsi titoli preferenziali, a parita' di risultato dell'esame di ammissione:   
+  
+a) il voto di laurea in medicina e chirurgia;   
+b) aver frequentato come studente interno una clinica ostetrica e ginecologica dell'universita';   
+c) aver svolto la tesi di laurea nella clinica ostetrica e ginecologica;   
+d) documentazione di eventuali servizi prestati in grossi reparti ospedalieri della specialita';   
+e) eventuali pubblicazioni.   
+L'esame di ammissione deve espletarsi entro il mese di dicembre.   
+Il numero totale degli iscritti e' di trentacinque (35).   
+Per nessun motivo il corso di quattro anni puo' essere abbreviato.  
+Nessun titolo puo' esonerare dalla frequenza gli iscritti nei quattro anni di corso.   
+Gli iscritti, oltre all'obbligo di frequenza delle lezioni, esercitazioni, seminari, ecc., devono prestare servizio analogo a quello degli assistenti per non meno di nove mesi all'anno.   
+  
+Art. 97. - Gli iscritti alla scuola debbono sostenere esami annuali di profitto e l'esame finale di diploma. La sessione di esami di profitto e' unica, ed e' espletata nel mese di ottobre. Non puo' essere iscritto all'anno successivo di corso chi non abbia superato le materie fondamentali della specialita'.   
+  
+Art. 98. - Le materie di insegnamento sono le seguenti:   
+  
+1° Anno:   
+  
+Elementi di genetica e di eugenica;   
+Anatomia normale ed embriologia dell'apparato genitale femminile;  
+Fisiologia dell'apparato genitale femminile;   
+Endocrinologia fisiologica;   
+Fisiologia ostetrica;   
+Diagnostica ostetrica;   
+Clinica ostetrica e ginecologica.   
+  
+2° Anno:   
+  
+Tecnica operatoria ostetrica;   
+Diagnostica ginecologica;   
+Tecnica diagnostica di laboratorio nel campo ostetrico-ginecologico, esclusa la istologia (sierologia batteriologia, citologia, ematologia, biochimica);   
+Clinica ostetrica e ginecologica.   
+  
+3° Anno:   
+  
+Anatomia patologica ostetrica e ginecologica;   
+Istologia normale e patologica nel campo della specialita';   
+Puericultura prenatale;   
+Emoterapia nel campo ostetrico e ginecologico;   
+Anestesia e analgesia nel campo ostetrico e ginecologico;   
+Tecnica operatoria ginecologica;   
+Clinica ostetrica e ginecologica;   
+Terapia medica ostetrica e ginecologica.   
+  
+4° Anno:   
+  
+Puericultura postnatale e malattie del neonato;   
+Ostetricia e ginecologia forense;   
+Diagnostica roentgen, radioterapia in ostetricia e ginecologia;   
+Clinica ostetrica e ginecologica (esame alla fine del quarto anno);   
+Urologia ginecologica;   
+Chirurgia addominale extra genitale.   
+  
+Gli esami si fanno per gruppi di materie ed i membri delle commissioni saranno proposti dai direttori delle scuole.   
+Per il conseguimento del diploma, l'iscritto deve presentare e discutere una dissertazione scritta con contributo personale.   
+  
+Scuola di specializzazione in clinica dermosifilopatica   
+  
+Art. 99. - La durata del corso e' di anni tre a tempo pieno.   
+  
+Le materie di insegnamento sono le seguenti:   
+  
+1° Anno:   
+  
+1) Anatomia e istologia normale della cute;   
+2) Fisiologia della cute e degli annessi cutanei;   
+3) Anatomia e fisiologia dell'apparato genitale;   
+4) Microbiologia e parassitologia applicate;   
+5) Tecnica di laboratorio con particolare riferimento alla sierologia applicata;   
+6) Semeiotica dermatologica e venereologia.   
+  
+2° Anno:   
+  
+1) Patologia delle malattie cutanee;   
+2) Patologia delle infezioni sessuali;   
+3) Anatomia e istologia patologica della cute;   
+4) Anatomia patologica delle malattie veneree e sessuali;   
+5) Dermatosi allergiche e professionali;   
+6) Angiologia;   
+7) Sessuologia,   
+  
+3° Anno:   
+  
+1) Clinica delle malattie cutanee;   
+2) Clinica delle infezioni sessuali;   
+3) Farmacologia e terapia medicamentosa;   
+4) Fisioterapia dermatologica;   
+5) Cosmetologia;   
+6) Chirurgia plastica riparatrice;   
+7) Igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.   
+  
+Art. 100. - Le iscrizioni sono limitate a dieci per ogni anno di corso (totale trenta iscritti).   
+Per le iscrizioni alla scuola e' richiesta la laurea in medicina e chirurgia ed il superamento di un esame di ammissione.   
+Gli iscritti saranno obbligati ad una frequenza giornaliera delle corsie, ambulatori e laboratori della clinica dermosifilopatica per tutta la durata dell'anno accademico.   
+Gli esami di profitto degli specializzandi verranno dati in tre gruppi e in tre sessioni distinte, ogni gruppo comprendente le materie proprie di ciascun anno di studio.   
+  
+L'esame di diploma consistera' nella esposizione e discussione di un argomento della disciplina su un tema dato al candidato 24 ore prima della prova.   
+  
+Scuola di specializzazione in neurologia   
+  
+Art. 101. - La scuola di specializzazione in neurologia ha la durata di quattro anni.   
+  
+Le materie di insegnamento sono le seguenti:   
+  
+1° Anno (internato in psichiatria):   
+  
+Anatomia e istologia del S.N.   
+Fisiologia del S.N.;   
+Biochimica del S.N.;   
+Genetica (elementi);   
+Psicologia generale;   
+Psicopatologia (I);   
+Semeiotica psichiatrica.   
+  
+2° Anno:   
+  
+Anatomia e istologia patologica del S.N.;   
+Semeiotica neurologica;   
+Patologia speciale e diagnostica neurologica (I);   
+Neuro-radiologia;   
+Endocrinologia e neurologia vegetativa.   
+  
+3° Anno:   
+  
+Patologia speciale e diagnostica neurologica (II);   
+Clinica neurologica (I);   
+Elettroencefalografia;   
+Elettromiografia, elettrodiagnostica e elettroterapia;   
+Neuro-oftalmologia;   
+Neuro-otologia;   
+Esami di laboratorio.   
+  
+4° Anno:   
+  
+Clinica neurologica e terapia (II);   
+Neuro-chirurgia;   
+Teoria e clinica della riabilitazione;   
+Neuro-traumatologia anche sotto l'aspetto della medicina legale;   
+Neurologia in rapporto alla patologia internistica.   
+  
+Internato obbligatorio per l'intero anno scolastico nel 2°, 3° e 4° anno in clinica neurologica sede della scuola. Tale internato potra' essere ridotto a non meno di mesi quattro per anno per i medici che prestino regolare servizio in reparto neurologico.   
+Internato obbligatorio per l'intero anno scolastico in psichiatria nel 1° anno.   
+Tale internato potra' essere ridotto a non meno di mesi sei per i medici che prestino servizio in reparto neurologico e a non meno di mesi quattro per coloro che prestino servizio in ospedale psichiatrico.   
+Esami obbligatori per il passaggio all'anno successivo.   
+Il numero massimo totale degli iscritti e' di quaranta.   
+Un abbuono di due anni puo' essere concesso per i gia' specializzati in psichiatria, neuropsichiatria infantile e neurochirurgia.   
+Un anno di abbuono per i gia' specializzati in altre materie affini (medicina interna, otorinolaringoiatria, oculistica, radiologia).   
+Gli abbuoni possono essere concessi solo superando un esame di ammissione.   
+Tutti gli abbuoni di cui sopra sono concessi a giudizio del direttore della scuola.   
+  
+L'esame di diploma consiste nella presentazione di una dissertazione scritta a carattere clinico o sperimentale, relativa discussione e prova pratica sul malato.   
+  
+Scuola di specializzazione in psichiatria   
+  
+Art. 102. - La scuola di specializzazione in psichiatria ha la durata di quattro anni.   
+  
+Le materie di insegnamento sono le seguenti:   
+  
+1° Anno:   
+  
+Anatomia e istologia del S.N.;   
+Fisiologia del S.N.;   
+Biochimica del S.N.;   
+Genetica (elementi);   
+Psicologia generale;   
+Psicopatologia (I);   
+Semeiotica psichiatrica.   
+  
+2° Anno (internato in neurologia):   
+  
+Anatomia e istologia patologica del S.N.;   
+Semeiotica neurologica;   
+Patologia speciale e diagnostica neurologica;   
+Neuro-radiologia;   
+Endocrinologia e neurologia vegetativa;   
+Elettroencefalografia.   
+  
+3° Anno:   
+  
+Patologia speciale psichiatrica;   
+Psicopatologia (II);   
+Clinica psichiatrica (I);   
+Psicologia clinica e psicodiagnostica;   
+Psicofarmacologia;   
+Psichiatria in rapporto con la patologia internistica;   
+Esami di laboratorio.   
+  
+4° Anno:   
+  
+Clinica psichiatrica (II);   
+Terapia psichiatrica generale;   
+Psicoterapia;   
+Neuropsichiatria infantile;   
+Psichiatria forense e legislazione psichiatrica;   
+Psichiatria sociale (del lavoro, scolastica, igiene e profilassi mentale).   
+  
+Internato obbligatorio per l'intero anno scolastico per il 1°, 3° e 4° anno in clinica psichiatrica sede della scuola.   
+Tale internato potra' essere ridotto a non meno di quattro mesi all'anno per i medici che prestino servizio regolare in ospedale psichiatrico.   
+L'internato e' obbligatorio per il 2° anno in neurologia (sede della scuola) per l'intero anno scolastico, salvo per i medici che prestino regolare servizio in ospedale psichiatrico per i quali potra' essere ridotto a non meno di mesi sei, e per i medici che prestino regolare servizio in un reparto neurologico per i quali potra' essere ridotto a non meno di mesi quattro.   
+Esami obbligatori per il passaggio all'anno successivo.   
+Il numero massimo totale degli iscritti e' di quaranta.   
+Per i gia' specializzati in neurologia, neuropsichiatria infantile potra' esservi abbuono di due anni.   
+Un anno di abbuono per i gia' specializzati in altre materie affini (psicologia, medicina generale, neurochirurgia).   
+Tali abbuoni possono essere concessi solo dopo aver superato l'esame di ammissione.   
+Tutti gli abbuoni di cui sopra sono concessi a giudizio del direttore della scuola.   
+L'esame di diploma consiste nella presentazione di una dissertazione scritta a carattere clinico o sperimentale, relativa discussione e prova pratica sul malato.   
+  
+Scuola di specializzazione in clinica oculistica   
+  
+Art. 103. - Il corso degli studi nella scuola di specializzazione in clinica oculistica ha la durata di quattro anni.   
+Il numero totale degli iscritti per i quattro anni calcolato sui letti della clinica e' di venti o al massimo di trentacinque specializzandi.   
+  
+Gli insegnamenti impartiti sono:   
+  
+1° Anno:   
+  
+1) Anatomia ed istologia dell'apparato oculare;   
+2) Nozioni di embriologia e genetica oculare;   
+3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;   
+4) Nozioni di ottica fisiologica, esame della refrazione;   
+5) Microbiologia ed igiene oculare.   
+  
+2° Anno:   
+  
+1) Semeiologia oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmoscopia, perimetria, campimetria, adattometria, senso cromatico, tonometria, tonografia, esami elettrofunzionali, radiologia);   
+2) Farmacologia oculare. Terapia fisica;   
+3) Anatomia patologica oculare;   
+4) Patologia e clinica oculare (malattie delle palpebre, della congiuntiva, delle vie lacrimali, della sclera, della cornea).   
+  
+3° Anno:   
+  
+1) Patologia clinica oculare (malattie dell'uvea, della retina, del nervo ottico e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita, glaucoma);   
+2) Anomalie e patologia della motivita' oculare e della visione binoculare;   
+3) Affezioni otorinolaringoiatriche e occhio;   
+4) Tecnica operatoria 1ª parte.   
+  
+4° Anno:   
+  
+1) Neuroftalmologia;   
+2) Malattie oculari in rapporto ad affezioni generali;   
+3) Malattie professionali. Infortunistica e medicina legale oculare;   
+4) Tecnica operatoria 2ª parte;   
+5) Tesi di specializzazione.   
+  
+Art. 104. - Gli esami di profitto si danno alla fine di ciascun anno di corso. Alla fine del corso gli iscritti, oltre a presentare la dissertazione scritta ed a sostenere la relativa discussione, devono sostenere una prova pratica sull'ammalato.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle, leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 ottobre 1975
+### Dato a Roma, addi' 8 ottobre 1969
 
-LEONE MALFATTI
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 23 aprile 1976
+Registrato alla Corte dei conti, addi' 7 novembre 1969
 
-Atti di Governo, registro n. 5, foglio n. 23
+Atti del Governo, registro n. 230, foglio n. 21. - CARUSO

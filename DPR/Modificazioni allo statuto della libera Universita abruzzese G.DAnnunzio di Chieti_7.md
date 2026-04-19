@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1969 n. 327
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1981 n. 1146
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1969 n. 327
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1981 n. 1146
+===============================================================
 
 Modificazioni allo statuto della libera Universita' abruzzese "G. 
 D'Annunzio" di Chieti.
@@ -11,9 +11,9 @@ D'Annunzio" di Chieti.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto della libera Universita' abruzzese degli studi "G. D'Annunzio" di Chieti, approvato con [decreto del Presidente della Repubblica 8 maggio 1965, n. 1007](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-05-08;1007), e modificato con [decreto del Presidente della Repubblica 20 settembre 1966, n. 1291](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-09-20;1291) e successive modificazioni;
+Veduto lo statuto della libera Universita' abruzzese degli studi "G. D'Annunzio" di Chieti approvato con [decreto del Presidente della Repubblica 8 maggio 1965, n. 1007](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-05-08;1007) e modificato con [decreto del Presidente della Repubblica 20 settembre 1966, n. 1291](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-09-20;1291), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -21,157 +21,90 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta intesa ad ottenere l'istituzione ed il riconoscimento delle facolta' di scienze politiche e di medicina e chirurgia (limitatamente al primo biennio).
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici della libera Universita' abruzzese degli studi "G. D'Annunzio" di Chieti e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sulla
------
+Sentito il parere del Consiglio universitario nazionale;
 
-proposta del Ministro per la pubblica istruzione, di concerto con il Ministro per il tesoro; Decreta:
+Sulla proposta del Ministro della pubblica istruzione di concerto con il Ministro del tesoro;
+
+Decreta:
+--------
+
+Lo statuto della libera Universita' abruzzese "G. D'Annunzio" di Chieti, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Art. 1
 ------
 
   
-Presso la libera Universita' abruzzese degli studi "G. D'Annunzio", sono istituite, in aggiunta alle facolta' di lettere e filosofia, di economia e commercio, con annesso corso di lingue e letterature straniere, e di giurisprudenza, le facolta' di scienze politiche (con sede in Teramo) e di medicina e chirurgia - limitata al primo biennio - con sede in Chieti.  
+Nel capo IV, concernente norme relative al personale insegnante, gli articoli 108, 111 e 112 sono abrogati e sostituiti come segue:  
+Art. 108. - Gli insegnamenti sono impartiti dai professori secondo quanto prescritto dalla normativa universitaria statale con particolare riferimento a quella in materia di riordino della docenza universitaria basata sulle disposizioni di cui al [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382).  
+Art. 111. - All'insegnamento di tutte le discipline ufficiali si provvede, di regola, con i professori di ruolo ordinari e associati in conformita' di quanto stabilito in materia dalla vigente normativa universitaria statale.  
+In ciascuna facolta', comunque, non possono essere attivati insegnamenti in numero superiore a quello consentito dalle tabelle A e A-bis annesse al presente statuto. All'insegnamento nei corsi integrativi di quelli ufficiali si provvede con i professori a contratto.  
+In ciascuna facolta' i corsi integrativi, tenuto conto in ogni caso degli stanziamenti a bilancio, non possono superare il 20% di quelli ufficiali attivati nella facolta' medesima.  
+Art. 112. - I docenti delle diverse categorie devono ottemperare agli obblighi previsti dalla normativa universitaria statale vigente, salvo quanto diversamente disposto dal presente statuto.  
 
 Art. 2
 ------
 
   
-Per tali facolta' sono istituiti tre posti di professore di ruolo per la facolta' di scienze politiche e tre posti di professore di ruolo per la facolta' di medicina e chirurgia.  
-Sono, inoltre, istituiti tre posti di assistente di ruolo per la facolta' di scienze politiche e quattro posti di assistente di ruolo nella facolta' di medicina e chirurgia.  
+Nel capo V, concernente norme relative agli assistenti, l'art. 115 e' abrogato e sostituito come segue:  
+Art. 115. - I posti di assistenti e di lettori del ruolo ad esaurimento sono determinati dalla tabella B annessa al presente statuto.  
+Per quanto non previsto dal presente statuto sono applicabili agli assistenti e lettori di ruolo dell'Universita' "G. D'Annunzio" le norme sullo statuto giuridico e sul trattamento economico degli assistenti e dei lettori di ruolo delle universita' statali.  
+Al trattamento di quiescenza si provvede in conformita' dell'art. 110.  
+L'art. 116 e' abrogato, con il conseguente spostamento della numerazione degli articoli successivi.  
 
 Art. 3
 ------
 
   
-Lo statuto della libera Universita' abruzzese degli studi "G.  
-D'Annunzio" di Chieti, approvato e modificato con i decreti sopraindicati, nonche' le tabelle A e B, allegate allo statuto stesso, sono ulteriormente modificati come dal testo annesso al presente decreto - vistato dal Ministro per la pubblica istruzione - contenente le norme relative all'ordinamento delle due nuove facolta'.  
+Dopo il capo V e relativi articoli e' inserito il seguente capo V-bis concernente i ricercatori e lettori a contratto:  
   
+Capo V-bis  
+  
+RICERCATORI E LETTORI A CONTRATTO  
+  
+Art. 116. - I posti di ricercatore sono determinati dalla tabella B-bis annessa al presente statuto.  
+Ai ricercatori, per quanto non previsto dal presente statuto, si applicano le norme sullo stato giuridico e sul trattamento economico dei ricercatori delle universita' statali. Al trattamento di quiescenza si provvede in conformita' dell'art. 110 del presente statuto.  
+Possono essere stipulati appositi contratti per l'assunzione di lettori in conformita' alla vigente normativa universitaria statale.
+
+Art. 4
+------
+
+  
+Nel capo VIII, concernente norme di carattere amministrativo, l'art. 137 e' abrogato e sostituito come segue:  
+Art. 137. - Per quanto non previsto dal presente statuto si fa richiamo alle norme legislative e regolamentari concernenti le universita' e gli istituti superiori statali in quanto applicabili, ivi inclusa la disciplina che si basa sul [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382).  
+Nel predetto richiamo si intende in particolare compreso anche tutto cio' che e' contemplato in materia di integrazioni elettive e di diritto degli organi accademici tanto dal [decreto-legge 1 ottobre 1973, n. 580](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973-10-01;580), convertito, con modificazioni, nella [legge 30 novembre 1973, n. 766](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-30;766), e successive modificazioni ed integrazioni, quanto dalla disciplina che si basa sul [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382).  
+
+Art. 5
+------
+
+  
+Dopo la tabella A, concernente posti di ruolo dei professori, e' inserita la seguente tabella A-bis concernente posti di ruolo dei professori associati:  
+  
+TABELLA A-bis  
+  
+Posti di ruolo dei professori associati  
+Facolta' di lettere e filosofia . . . . . . . . . . . . . . . . n. 45 Facolta' di economia e commercio. . . . . . . . . . . . . . . . n. 34 Facolta' di lingue e letterature straniere. . . . . . . . . . . n. 29 Facolta' di giurisprudenza. . . . . . . . . . . . . . . . . . . n. 30 Facolta' di scienze politiche . . . . . . . . . . . . . . . . . n. 42 Facolta' di medicina e chirurgia. . . . . . . . . . . . . . . . n. 51 Facolta' di architettura. . . . . . . . . . . . . . . . . . . . n. 56   
+Dopo la tabella B, concernente posti di ruolo degli assistenti, e' inserita la seguente tabella B-bis, concernente posti di ricercatore:  
+  
+TABELLA B-bis  
+  
+Posti di ricercatore  
+Facolta' di lettere e filosofia . . . . . . . . . . . . . . . . n. 34 Facolta' di economia e commercio. . . . . . . . . . . . . . . . n. 43 Facolta' di lingue e letterature straniere. . . . . . . . . . . n. 31 Facolta' di giurisprudenza. . . . . . . . . . . . . . . . . . . n. 41 Facolta' di scienze politiche . . . . . . . . . . . . . . . . . n. 29 Facolta' di medicina e chirurgia. . . . . . . . . . . . . . . . n. 68 Facolta' di architettura. . . . . . . . . . . . . . . . . . . . n. 63   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 giugno 1969
+### Dato a Roma, addi' 21 ottobre 1981
 
-SARAGAT FERRARI AGGRADI - COLOMBO
+PERTINI BODRATO - ANDREATTA
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 3 luglio 1969
+Registrato alla Corte dei conti, addi' 17 maggio 1982
 
-Atti del Governo, registro n. 227, foglio n. 109. - GRECO
-
-Allegato
-
-Testo delle modifiche allo statuto della libera Universita' abruzzese "G. D'Annunzio" di Chieti, relative alla istituzione delle facolta' di scienze politiche e di medicina e chirurgia (limitata al primo biennio).   
-  
-Art. 1. - Il secondo comma e' abrogato e sostituito dal seguente: "Essa e' costituita dalle facolta' di lettere e filosofia, di economia e commercio, con annesso corso di laurea in lingue e letterature straniere, e di medicina e chirurgia - limitata al primo biennio - aventi sede nel territorio del comune di Chieti - localita' Madonna delle Piane -, e delle facolta' di giurisprudenza e di scienze politiche in Teramo".   
-Dopo l'art. 34 e con il conseguente spostamento della successiva numerazione, sono aggiunti i seguenti nuovi articoli, relativi all'ordinamento delle facolta' di scienze politiche e di medicina e chirurgia.   
-  
-Facolta' di scienze politiche   
-  
-Art. 35. - Sono titoli di ammissione alla facolta' di scienze politiche il diploma di maturita' classica o quello di maturita' scientifica.   
-Art. 36. - La durata del corso degli studi per il conseguimento della laurea in scienze politiche e' di quattro anni.   
-Il corso di studi comprende un biennio propedeutico ed un successivo biennio di specializzazione, ordinato nei seguenti indirizzi: politico amministrativo e politico economico.   
-Art. 37. - Il biennio propedeutico comprende i seguenti insegnamenti obbligatori:   
-Istituzioni di diritto privato   
-Istituzioni di diritto pubblico   
-Economia politica   
-Storia moderna   
-Statistica   
-Sociologia   
-Storia delle dottrine politiche   
-Storia contemporanea   
-Diritto costituzionale italiano e comparato.   
-Le istituzioni di diritto pubblico sono propedeutiche al diritto costituzionale italiano e comparato.   
-Art. 38. - Il biennio di specializzazione per l'indirizzo politico amministrativo comprende le seguenti materie di insegnamento:   
-Diritto amministrativo   
-Scienza dell'amministrazione   
-Contabilita' dello Stato e degli enti pubblici   
-Diritto finanziario   
-Diritto internazionale   
-Diritto del lavoro   
-Legislazione sociale   
-Istituzioni di diritto e procedura penale   
-Politica economica e finanziaria   
-Diritto degli enti locali   
-Diritto processuale amministrativo   
-Organizzazione internazionale   
-Dottrina dello Stato   
-Storia dei partiti e dei movimenti politici   
-Diritto ecclesiastico.   
-Di tali materie sono obbligatorie: 1) Diritto amministrativo; 2) Organizzazione internazionale; 3) Dottrina dello Stato; 4) Contabilita' dello Stato e degli enti pubblici. Altre sei materie saranno scelte dallo studente nell'ambito dei restanti insegnamenti sopra elencati.   
-Art. 39. - Il biennio di specializzazione per l'indirizzo politico-economico comprende le seguenti materie di insegnamento:   
-Geografia politica ed economica   
-Politica economica e finanziaria   
-Diritto delle comunita' europee   
-Contabilita' dello Stato e degli enti pubblici   
-Diritto commerciale   
-Storia delle dottrine economiche   
-Scienza delle finanze   
-Statistica per la ricerca economica   
-Organizzazione finanziaria-internazionale   
-Econometria   
-Programmazione economica   
-Storia e istituzioni dei paesi afroasiatici   
-Diritto dei trasporti internazionali   
-Sociologia economica   
-Diritto pubblico dell'economia.   
-Di tali materie sono obbligatorie: 1) Politica economica e finanziaria; 2) Contabilita' dello Stato e degli enti pubblici; 3) Diritto commerciale; 4) Storia delle dottrine economiche. Altre sei materie saranno scelte dallo studente nell'ambito dei restanti insegnamenti sopra elencati.   
-Art. 40. - Il corso degli studi, per entrambi gli indirizzi, comprende altresi' gli insegnamenti biennali di lingua francese e di lingua inglese.   
-Art. 41. - E' data facolta' allo studente di aggiungere ai nove insegnamenti del biennio propedeutico non piu' di tre insegnamenti obbligatori del biennio di specializzazione dell'indirizzo prescelto.   
-Tali insegnamenti anticipati al biennio propedeutico vanno in detrazione del numero degli insegnamenti del biennio di specializzazione.   
-Non e' data facolta' di anticipare al biennio propedeutico gli insegnamenti del biennio di specializzazione rimessi alla scelta dello studente.   
-Art. 42. - Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superati gli esami relativi ad almeno diciannove materie di insegnamento (annuali) oltre quelli relativi alle due lingue straniere.   
-  
-Facolta' di medicina e chirurgia   
-(limitata al I biennio)   
-  
-Art. 43. - Sono titoli di ammissione alla facolta' di medicina e chirurgia il diploma di maturita' classica o il diploma di maturita' scientifica.   
-Art. 44. - Gli insegnamenti del biennio sono i seguenti:   
-Insegnamenti fondamentali:   
-1) Chimica;   
-2) Fisica;   
-3) Biologia e zoologia generale comprese la genetica e la biologia delle razze;   
-4) Anatomia umana normale (biennale);   
-5) Fisiologia umana I (biennale);   
-6) Patologia generale I (biennale);   
-7) Chimica biologica;   
-8) Microbiologia.   
-Sono insegnamenti complementari:   
-1) Istologia ed embriologia generale;   
-2) Anatomia topografica;   
-3) Istochimica;   
-4) Parassitologia;   
-5) Virologia.   
-Le esercitazioni pratiche nelle discipline fondamentali sono obbligatorie per tutti gli studenti.   
-Le esercitazioni per le discipline complementari sono obbligatorie invece solo per gli studenti che seguono i corsi relativi.   
-Per gli insegnamenti complementari e' prescritto un corso semestrale, essi vengono ripartiti nei vari anni di corso con il manifesto degli studi.   
-Lo studente puo' ottenere il trasferimento ad altra universita' se ha frequentato gli insegnamenti fondamentali previsti per il I biennio e ha superato i relativi esami. Il trasferimento puo', tuttavia, essere concesso se lo studente si trovi in difetto di due soli esami.   
-  
-Visto, d'ordine del Presidente della Repubblica   
-  
-Il Ministro per la pubblica istruzione   
-FERRARI AGGRADI   
-  
-  
-  
-TABELLA A   
-Posti di ruolo dei professori  
-  
-Facolta' di lettere e filosofia. . . . . . . . . . . . . . . . . n. 6 Facolta' di economia e commercio . . . . . . . . . . . . . . . . " 7 Facolta' di giurisprudenza . . . . . . . . . . . . . . . . . . . " 6 Facolta' di scienze politiche. . . . . . . . . . . . . . . . . . " 3 Facolta' di medicina e chirurgia . . . . . . . . . . . . . . . . " 3 (limitata al 1° biennio).  
-  
-TABELLA B Posti di ruolo degli assistenti  
-  
-Facolta' di lettere e filosofia. . . . . . . . . . . . . . . . . n. 6 Facolta' di economia e commercio . . . . . . . . . . . . . . . . " 6 Facolta' di giurisprudenza . . . . . . . . . . . . . . . . . . . " 6 Facolta' di scienze politiche. . . . . . . . . . . . . . . . . . " 3 Facolta' di medicina e chirurgia . . . . . . . . . . . . . . . . " 4 (limitata al 1° biennio).  
-  
-  
-Visto, d'ordine del Presidente della Repubblica   
-  
-Il Ministro per la pubblica istruzione   
-FERRARI AGGRADI   
+Registro n. 67 Istruzione, foglio n. 320

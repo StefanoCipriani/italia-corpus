@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 888
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 agosto 1964 n. 1016
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 888
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 agosto 1964 n. 1016
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Padova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,275 +18,165 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere della Sezione prima del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione,
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Gli articoli da 151 a 158, relativi alla facolta' di farmacia, sono abrogati e sostituiti dai seguenti con lo spostamento della numerazione degli articoli successivi:
+Dopo l'art. 165 e con il conseguente spostamento della successiva numerazione, vengono inseriti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in Servizio sociale.
 
-FACOLTA' DI FARMACIA
+Scuola di specializzazione in Servizio sociale
 
-Art. 151. - La facolta' di farmacia conferisce la laurea in farmacia e in chimica e tecnologia farmaceutiche.
+Art. 166. - Alla Facolta' di scienze politiche della Universita' degli studi di Padova, e' annessa la Scuola post-universitaria di Servizio sociale che si propone:
 
-Art. 152. - La durata del corso degli studi per la laurea in farmacia e' di quattro anni. I titoli di ammissione sono quelli previsti dalle vigenti disposizioni di legge.
+a) di perfezionare la preparazione professionale di assistente sociale e di laureati operanti in Organismi economici, sociali, assistenziali e previdenziali;
 
-Sono insegnamenti fondamentali:
+b) di completare la preparazione didattica di docenti presso le scuole di Servizio sociale;
 
-1) chimica generale ed inorganica;
+La Scuola conferisce il diploma di specializzazione in Servizio sociale.
 
-2) chimica organica;
+Art. 167. - La durata dei corsi della Scuola e' di due anni.
 
-3) chimica farmaceutica e tossicologica (biennale);
+Art. 168. - Alla Scuola per il conseguimento del diploma di specializzazione in Servizio sociale, possono iscriversi i laureati in Facolta' universitarie italiane e straniere (questi ultimi in base a lauree debitamente omologate).
 
-4) esercitazioni di chimica farmaceutica e tossicologica (triennale);
+Il numero annuo degli iscritti, di cui ai commi precedenti per ciascun anno di corso, e' determinato dal Consiglio della Scuola (di cui all'art. 172) che provvede anche alla selezione dei candidati a suo insindacabile giudizio, in base alla valutazione dei titoli.
 
-5) chimica biologica;
+Art. 169. - I corsi della Scuola comprendono i seguenti insegnamenti fondamentali:
 
-6) fisica;
+Elementi di diritto pubblico e privato;
 
-7) farmacologia e farmacognosia;
+Elementi di economia politica e politica economica;
 
-8) anatomia umana;
+Elementi di medicina generale e di servizio sanitario;
 
-9) fisiologia generale (biennale);
+Psicologia;
 
-10) botanica farmaceutica;
+Sociologia;
 
-11) tecnica e legislazione farmaceutica.
+Statistica;
 
-Sono insegnamenti complementari:
+Storia e teoria del servizio sociale;
 
-1) biochimica applicata;
+Metodi professionali del servizio sociale.
 
-2) biofarmacia;
+A questi vengono aggiunti, su proposta del direttore della Scuola, insegnamenti complementari, in relazione a particolari esigenze, ai sensi dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
 
-3) biologia molecolare;
+Per ogni singolo iscritto, il Consiglio della Scuola stabilisce il piano di studi, in relazione ai titoli di studio e professionali presentati dall'interessato all'atto dell'iscrizione.
 
-4) chimica analitica;
+Le lezioni sono integrate da conferenze, esercitazioni, dimostrazioni pratiche, visite, viaggi a scopo di studio ed istruzione, ecc.
 
-5) chimica degli alimenti;
+Art. 170. - Al termine del biennio gli iscritti regolari, dopo aver superato gli esami degli insegnamenti fissati dal piano di studi ed un esame riassuntivo generale, sono ammessi a discutere una dissertazione scritta di diploma sul tema approvato da uno degli insegnanti della Scuola.
 
-6) chimica biofarmaceutica;
+Superate tutte le anzidette prove, viene rilasciato un diploma di specializzazione in Servizio sociale.
 
-7) chimica clinica;
+Art. 171. - Gli organi della Scuola sono:
 
-8) chimica dei prodotti cosmetici;
+1) il direttore;
 
-9) chimica farmaceutica applicata;
+2) il Consiglio.
 
-10) chimica fisica;
+Il direttore della Scuola viene nominato dal rettore della Universita' tra i professori della Scuola. Egli dura in carica un biennio accademico e puo' essere confermato. Il direttore nomina i docenti della Scuola, su proposta del Consiglio della Facolta' di scienze politiche.
 
-11) chimica terapeutica;
+Art. 172. - Il Consiglio e' composto dal direttore che lo presiede, dai docenti cui spettano gli insegnamenti fondamentali e complementari, previsti dall'art. 169.
 
-12) chimica tossicologica industriale;
+Spetta al Consiglio della Scuola di determinare e coordinare, i programmi degli insegnamenti e delle attivita' didattiche connesse; operare la selezione dei candidati; decidere su questioni disciplinari.
 
-13) dietofarmacia;
+Art 173. - Le Commissioni per gli esami di profitto nono composte dal professore della materia in qualita' di presidente, e da due altri insegnanti della Scuola.
 
-14) enzimologia;
+La Commissione per l'esame di diploma e' composta dal direttore, che la presiede, da altri quattro professori della Scuola e da due esperti di Servizio sociale.
 
-15) erboristeria;
+Ciascun commissario dispone di dieci punti.
 
-16) farmacia industriale;.
+Art. 174. - Tutti gli iscritti alla Scuola, di cui al precedente art. 168, sono tenuti al versamento annuo delle tasse di iscrizione, secondo quanto prevede il regolamento della Universita' degli studi di Padova, da pagare in due rate uguali, la prima all'atto dell'iscrizione e la seconda entro il 31 marzo, nonche' al pagamento della tassa erariale di cui alla [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551)".
 
-17) farmacia veterinaria;
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-18) farmacologia applicata;
+Dato a Roma, addi' 18 agosto 1964
 
-19) fitofarmacia;
+Per il Presidente della Repubblica
 
-20) fitoterapia;
+Il Presidente del Senato
 
-21) idrologia chimica;
+MERZAGORA
 
-22) igiene;
+GUI
 
-23) impianti e macchinario farmaceutico;
-
-24) organizzazione e amministrazione dell'azienda farmaceutica;
-
-25) istituzioni di matematiche;
-
-26) istituzioni di patologia generale;
-
-27) microbiologia;
-
-28) microchimica;
-
-29) saggi e dosaggi farmacologici.
-
-Il corso biennale di chimica farmaceutica e tossicologica comporta due distinti esami alla fine di ciascun anno del biennio.
-
-Il corso triennale di esercitazioni di chimica farmaceutica e tossicologica comporta tre distinti esami alla fine di ciascun anno di corso. Non e' consentita la frequenza a piu' di un corso di esercitazioni di chimica farmaceutica e tossicologica nello stesso anno accademico.
-
-Art. 153. - Le esercitazioni, che formano parte integrante del corso, sono obbligatorie per gli studenti che frequentano il corso stesso.
-
-Al termine di ogni corso integrato da esercitazioni i professori possono accertarsi del profitto in queste ultime mediante colloqui e prove.
-
-Art. 154. - Sono ammessi al corso di esercitazioni di chimica farmaceutica e tossicologica I gli studenti che abbiano superato l'esame di chimica generale ed inorganica o, in mancanza di questo, che siano risultati idonei in una preliminare prova di accertamento.
-
-Nel sostenere gli esami, lo studente dovra' rispettare le seguenti precedenze:
-
-Parte di provvedimento in formato grafico
-
-La facolta' delibera sui criteri di propedeuticita' da osservare per gli insegnamenti complementari.
-
-Art. 155. - Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed in quattro almeno da lui scelti fra i complementari, ed inoltre deve aver compiuto durante il terzo o quarto anno un periodo semestrale di pratica, documentata, presso una farmacia autorizzata.
-
-L'esame di laurea consiste in un colloquio di cultura e nella discussione di una dissertazione scritta di indole sperimentale o teorica su un argomento attinente ad uno degli insegnamenti della facolta', approvato dal professore della materia.
-
-La facolta' stabilisce il contenuto del colloquio di cultura e le modalita' di discussione della tesi.
-
-L'art. 160, relativo al seminario di scienze farmaceutiche, e' abrogato e sostituito dal seguente:
-
-Seminario di scienze farmaceutiche
-
-Art. 160. - Il seminario di scienze farmaceutiche ha lo scopo di promuovere studi e ricerche nel campo delle discipline farmaceutiche pure ed applicate.
-
-L'attivita' del seminario si svolge per mezzo di conferenze, comunicazioni scientifiche, discussioni, dimostrazioni, viaggi di istruzione, corsi di preparazione e di aggiornamento e di quanto altro possa servire allo scopo su indicato.
-
-Art. 161. - Del seminario fanno parte tutti i docenti della facolta' di farmacia.
-
-Il consiglio del seminario e' formato da un direttore e quattro consiglieri e viene nominato dal rettore su proposta del consiglio della facolta' di farmacia. Il consiglio resta in carica per un triennio.
-
-Art. 162. - L'iscrizione al seminario e' annuale ed e' obbligatoria per gli studenti del 3° e 4° corso della laurea in farmacia e del secondo triennio della laurea in chimica e tecnologia farmaceutiche.
-
-Possono iscriversi anche laureati e laureandi fuori corso e anche gli studenti di altre facolta' (nonche' laureati e diplomati).
-
-Art. 163. - A tutti gli iscritti e' fatto obbligo di versare all'atto della iscrizione i contributi che vengono stabiliti dal consiglio di amministrazione su proposta del senato accademico, udito il consiglio del seminario.
-
-Art. 164. - Agli iscritti al seminario puo' essere rilasciato un certificato.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto
-
-nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 31 ottobre 1978
-
-PERTINI
-
-PEDINI
-
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 28 dicembre 1978 Registro n. 135 Istruzione, foglio n. 302
+alla Corte dei conti, addi' 22 ottobre 1964 Atti del Governo, registro n. 187, foglio n. 152 - VILLA
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere della Sezione prima del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione,  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Gli articoli da 151 a 158, relativi alla facolta' di farmacia, sono abrogati e sostituiti dai seguenti con lo spostamento della numerazione degli articoli successivi:   
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-FACOLTA' DI FARMACIA   
-  
-Art. 151. - La facolta' di farmacia conferisce la laurea in farmacia e in chimica e tecnologia farmaceutiche.   
-Art. 152. - La durata del corso degli studi per la laurea in farmacia e' di quattro anni. I titoli di ammissione sono quelli previsti dalle vigenti disposizioni di legge.   
-Sono insegnamenti fondamentali:   
-1) chimica generale ed inorganica;   
-2) chimica organica;   
-3) chimica farmaceutica e tossicologica (biennale);   
-4) esercitazioni di chimica farmaceutica e tossicologica (triennale);   
-5) chimica biologica;   
-6) fisica;   
-7) farmacologia e farmacognosia;   
-8) anatomia umana;   
-9) fisiologia generale (biennale);   
-10) botanica farmaceutica;   
-11) tecnica e legislazione farmaceutica.   
-Sono insegnamenti complementari:   
-1) biochimica applicata;   
-2) biofarmacia;   
-3) biologia molecolare;   
-4) chimica analitica;   
-5) chimica degli alimenti;   
-6) chimica biofarmaceutica;   
-7) chimica clinica;   
-8) chimica dei prodotti cosmetici;   
-9) chimica farmaceutica applicata;   
-10) chimica fisica;   
-11) chimica terapeutica;   
-12) chimica tossicologica industriale;   
-13) dietofarmacia;   
-14) enzimologia;   
-15) erboristeria;   
-16) farmacia industriale;.   
-17) farmacia veterinaria;   
-18) farmacologia applicata;   
-19) fitofarmacia;   
-20) fitoterapia;   
-21) idrologia chimica;   
-22) igiene;   
-23) impianti e macchinario farmaceutico;   
-24) organizzazione e amministrazione dell'azienda farmaceutica;   
-25) istituzioni di matematiche;   
-26) istituzioni di patologia generale;   
-27) microbiologia;   
-28) microchimica;   
-29) saggi e dosaggi farmacologici.   
-Il corso biennale di chimica farmaceutica e tossicologica comporta due distinti esami alla fine di ciascun anno del biennio.   
-Il corso triennale di esercitazioni di chimica farmaceutica e tossicologica comporta tre distinti esami alla fine di ciascun anno di corso. Non e' consentita la frequenza a piu' di un corso di esercitazioni di chimica farmaceutica e tossicologica nello stesso anno accademico.   
-Art. 153. - Le esercitazioni, che formano parte integrante del corso, sono obbligatorie per gli studenti che frequentano il corso stesso.   
-Al termine di ogni corso integrato da esercitazioni i professori possono accertarsi del profitto in queste ultime mediante colloqui e prove.   
-Art. 154. - Sono ammessi al corso di esercitazioni di chimica farmaceutica e tossicologica I gli studenti che abbiano superato l'esame di chimica generale ed inorganica o, in mancanza di questo, che siano risultati idonei in una preliminare prova di accertamento.   
-Nel sostenere gli esami, lo studente dovra' rispettare le seguenti precedenze:   
-  
-  
-Parte di provvedimento in formato grafico  
-  
-  
-La facolta' delibera sui criteri di propedeuticita' da osservare per gli insegnamenti complementari.   
-Art. 155. - Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed in quattro almeno da lui scelti fra i complementari, ed inoltre deve aver compiuto durante il terzo o quarto anno un periodo semestrale di pratica, documentata, presso una farmacia autorizzata.   
-L'esame di laurea consiste in un colloquio di cultura e nella discussione di una dissertazione scritta di indole sperimentale o teorica su un argomento attinente ad uno degli insegnamenti della facolta', approvato dal professore della materia.   
-La facolta' stabilisce il contenuto del colloquio di cultura e le modalita' di discussione della tesi.   
-L'art. 160, relativo al seminario di scienze farmaceutiche, e' abrogato e sostituito dal seguente:   
-  
-Seminario di scienze farmaceutiche   
-  
-Art. 160. - Il seminario di scienze farmaceutiche ha lo scopo di promuovere studi e ricerche nel campo delle discipline farmaceutiche pure ed applicate.   
-L'attivita' del seminario si svolge per mezzo di conferenze, comunicazioni scientifiche, discussioni, dimostrazioni, viaggi di istruzione, corsi di preparazione e di aggiornamento e di quanto altro possa servire allo scopo su indicato.   
-Art. 161. - Del seminario fanno parte tutti i docenti della facolta' di farmacia.   
-Il consiglio del seminario e' formato da un direttore e quattro consiglieri e viene nominato dal rettore su proposta del consiglio della facolta' di farmacia. Il consiglio resta in carica per un triennio.   
-Art. 162. - L'iscrizione al seminario e' annuale ed e' obbligatoria per gli studenti del 3° e 4° corso della laurea in farmacia e del secondo triennio della laurea in chimica e tecnologia farmaceutiche.   
-Possono iscriversi anche laureati e laureandi fuori corso e anche gli studenti di altre facolta' (nonche' laureati e diplomati).   
-Art. 163. - A tutti gli iscritti e' fatto obbligo di versare all'atto della iscrizione i contributi che vengono stabiliti dal consiglio di amministrazione su proposta del senato accademico, udito il consiglio del seminario.   
-Art. 164. - Agli iscritti al seminario puo' essere rilasciato un certificato.   
+Dopo l'art. 165 e con il conseguente spostamento della successiva numerazione, vengono inseriti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in Servizio sociale.  
+Scuola di specializzazione in Servizio sociale  
+Art. 166. - Alla Facolta' di scienze politiche della Universita' degli studi di Padova, e' annessa la Scuola post-universitaria di Servizio sociale che si propone:  
+a) di perfezionare la preparazione professionale di assistente sociale e di laureati operanti in Organismi economici, sociali, assistenziali e previdenziali;  
+b) di completare la preparazione didattica di docenti presso le scuole di Servizio sociale;  
+La Scuola conferisce il diploma di specializzazione in Servizio sociale.  
+Art. 167. - La durata dei corsi della Scuola e' di due anni.  
+Art. 168. - Alla Scuola per il conseguimento del diploma di specializzazione in Servizio sociale, possono iscriversi i laureati in Facolta' universitarie italiane e straniere (questi ultimi in base a lauree debitamente omologate).  
+Il numero annuo degli iscritti, di cui ai commi precedenti per ciascun anno di corso, e' determinato dal Consiglio della Scuola (di cui all'art. 172) che provvede anche alla selezione dei candidati a suo insindacabile giudizio, in base alla valutazione dei titoli.  
+Art. 169. - I corsi della Scuola comprendono i seguenti insegnamenti fondamentali:  
+Elementi di diritto pubblico e privato;  
+Elementi di economia politica e politica economica;  
+Elementi di medicina generale e di servizio sanitario;  
+Psicologia;  
+Sociologia;  
+Statistica;  
+Storia e teoria del servizio sociale;  
+Metodi professionali del servizio sociale.  
+A questi vengono aggiunti, su proposta del direttore della Scuola, insegnamenti complementari, in relazione a particolari esigenze, ai sensi dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);  
+Per ogni singolo iscritto, il Consiglio della Scuola stabilisce il piano di studi, in relazione ai titoli di studio e professionali presentati dall'interessato all'atto dell'iscrizione.  
+Le lezioni sono integrate da conferenze, esercitazioni, dimostrazioni pratiche, visite, viaggi a scopo di studio ed istruzione, ecc.  
+Art. 170. - Al termine del biennio gli iscritti regolari, dopo aver superato gli esami degli insegnamenti fissati dal piano di studi ed un esame riassuntivo generale, sono ammessi a discutere una dissertazione scritta di diploma sul tema approvato da uno degli insegnanti della Scuola.  
+Superate tutte le anzidette prove, viene rilasciato un diploma di specializzazione in Servizio sociale.  
+Art. 171. - Gli organi della Scuola sono:  
+1) il direttore;  
+2) il Consiglio.  
+Il direttore della Scuola viene nominato dal rettore della Universita' tra i professori della Scuola. Egli dura in carica un biennio accademico e puo' essere confermato. Il direttore nomina i docenti della Scuola, su proposta del Consiglio della Facolta' di scienze politiche.  
+Art. 172. - Il Consiglio e' composto dal direttore che lo presiede, dai docenti cui spettano gli insegnamenti fondamentali e complementari, previsti dall'art. 169.  
+Spetta al Consiglio della Scuola di determinare e coordinare, i programmi degli insegnamenti e delle attivita' didattiche connesse; operare la selezione dei candidati; decidere su questioni disciplinari.  
+Art 173. - Le Commissioni per gli esami di profitto nono composte dal professore della materia in qualita' di presidente, e da due altri insegnanti della Scuola.  
+La Commissione per l'esame di diploma e' composta dal direttore, che la presiede, da altri quattro professori della Scuola e da due esperti di Servizio sociale.  
+Ciascun commissario dispone di dieci punti.  
+Art. 174. - Tutti gli iscritti alla Scuola, di cui al precedente art. 168, sono tenuti al versamento annuo delle tasse di iscrizione, secondo quanto prevede il regolamento della Universita' degli studi di Padova, da pagare in due rate uguali, la prima all'atto dell'iscrizione e la seconda entro il 31 marzo, nonche' al pagamento della tassa erariale di cui alla [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551)".  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto
-------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+### Dato a Roma, addi' 18 agosto 1964
 
-Dato a Roma, addi' 31 ottobre 1978 PERTINI PEDINI
+Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA GUI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 28 dicembre 1978
+Registrato alla Corte dei conti, addi' 22 ottobre 1964
 
-Registro n. 135 Istruzione, foglio n. 302
+Atti del Governo, registro n. 187, foglio n. 152 - VILLA

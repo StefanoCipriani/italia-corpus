@@ -1,139 +1,138 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1102
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1980 n. 680
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1102
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1980 n. 680
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071). convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+L'art. 67, relativo alla facolta' di medicina e chirurgia, e' cosi' riformulato:  
+La facolta' di medicina e chirurgia conferisce le seguenti lauree:  
+laurea in medicina e chirurgia;  
+laurea in odontoiatria e protesi dentaria.  
+Dopo l'art. 71, con il conseguente spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo relativo alla istituzione del corso di laurea in odontoiatria e protesi dentaria.  
+Laurea in odontoiatria e protesi dentaria  
+Art. 72. - La durata del corso di studi e' di cinque anni suddivisi in un biennio ed un triennio.  
+Il titolo di ammissione e' quello previsto dalle vigenti disposizioni di legge.  
+Il numero degli iscritti e' di venti per anno di corso.  
+L'accesso al corso di laurea verra' regolato da un esame di ammissione. Il punteggio da attribuire nell'esame sara' cosi' ripartito: il 30% sara' riservato al voto riportato dal candidato nell'esame di diploma di scuola secondaria superiore ed il 70% sara' riservato alla prova di esame di ammissione al corso di laurea con tests a scelta multipla su argomenti di biologia generale, chimica, fisica e matematica, secondo i programmi della scuola secondaria superiore.  
+Sono insegnamenti fondamentali:  
+Biennio:  
+1) anestesia generale e speciale odontostomatologica (semestrale);  
+\* 2) biologia generale applicata agli studi medici;  
+\* 3) chimica;  
+\* 4) chimica biologica;  
+5) farmacologia (semestrale);  
+\* 6) fisica medica;  
+7) fisiologia umana e dell'apparato stomatognatico;  
+8) igiene e odontoiatria preventiva e sociale con epidemiologia (semestrale);  
+9) istituzioni di anatomia umana normale e dell'apparato stomatognatico;  
+10) istituzioni di anatomia e istologia patologica;  
+\*11) istologia ed embriologia generale (compresa la citologia);  
+12) materiali dentari;  
+13) microbiologia (semestrale);  
+14) odontoiatria conservatrice (triennale - 2°, 3° e 4° anno);  
+15) patologia generale.  
+Triennio:  
+16) chirurgia speciale odontostomatologica (biennale - 3° e 4° anno);  
+17) clinica odontostomatologica (biennale - 4° a 5° anno);  
+18) medicina legale e delle assicurazioni e deontologia in odontostomatologia (semestrale);  
+19) neuropatologia e psicopatologia (semestrale);  
+20) ortognatodonzia e gnatologia (funzione masticatoria) (biennale - 4° e 5° anno);  
+21) parodontologia (biennale - 4° e 5° anno);  
+22) patologia speciale chirurgica e propedeutica clinica;  
+23) patologia speciale medica e metodologia clinica (compresa la pediatria);  
+24) patologia speciale odontostomatologica;  
+25) pedodonzia (semestrale);  
+26) protesi dentaria (triennale - 3°, 4° e 5° anno);  
+27) radiologia generale e speciale odontostomatologica (semestrale).  
+Sono insegnamenti complementari:  
+\* 1) chirurgia maxillo-facciale;  
+\* 2) dermatologia e venereologia (semestrale);  
+\* 3) otorinolaringoiatria (semestrale);  
+\* 4) statistica sanitaria;  
+altri insegnamenti complementari nel piano della facolta' sempre mutuati dal corso di laurea in medicina e chirurgia.  
+Gli insegnamenti segnati con asterisco sono mutuati dal corso di laurea in medicina e chirurgia.  
+Gli insegnamenti fondamentali sono teorici e pratici e la loro frequenza e' obbligatoria.  
+Gli insegnamenti specificatamente odontostomatologici di ordine clinico comportano anche un tirocinio pratico continuativo da espletare prima di sostenere i relativi esami.  
+Gli allievi, che non conseguono le attestazioni di frequenza, non possono essere ammessi a sostenere le relative prove di esame.  
+Il tirocinio pratico, relativo ad ogni insegnamento clinico, deve prevedere da parte di componenti dell'organico, una assistenza didattica adeguata al numero degli studenti.  
   
-Decreta:   
+Non si puo' essere ammessi Se non si e' superato  
+a sostenere l'esame di: l'esame di:  
   
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Fisiologia umana e dell'apparato Istituzioni di anatomia  
+Stomatognatico umana normale e dell'apparato Patologia generale stomatognatico  
+Chimica  
+Biologia generale applicata  
+agli studi medici  
+Fisica medica  
   
-Art. 23. - L'elenco degli insegnamenti complementari del corso di laurea in economia e commercio e' modificato nel senso che gli insegnamenti di "Lingua ungherese" e di "Lingua romena" vengono soppressi.   
-Nello stesso articolo l'insegnamento di "Tecnica delle assicurazioni marittime" muta denominazione in quella di "Diritto e tecnica delle assicurazioni marittime".   
-Art. 24, relativo alle propedeuticita' di esami del corso di laurea in economia e commercio viene soppresso e sostituito dal seguente:   
+Patologia speciale medica Fisiologia umana e del-  
+e metodologica clinica l'apparato stomatognatico  
+(compresa la pediatria) Patologia generale  
+Patologia speciale chirurgica  
+e propedeutica clinica  
   
-"Gli insegnamenti di istituzioni di diritto privato e di istituzioni di diritto pubblico sono considerati propedeutici a tutti gli altri insegnamenti di diritto.   
-L'economia politica e' considerata propedeutica alla scienza delle finanze e diritto finanziario, all'economia e politica agraria, alla storia economica, alla politica economica e finanziaria, all'economia dei trasporti, alla economia internazionale, all'econometrica, all'economia e finanza della sicurezza sociale ed alla storia sociale.   
-L'economia politica primo anno e' propedeutica alla economia e finanza delle imprese di assicurazione, alla economia e tecnica dell'armamento e della navigazione, alla storia delle dottrine economiche, all'economia e tecnica industriale.   
-La statistica primo anno e' propedeutica alla politica economica e finanziaria, alla scienza delle finanze e diritto finanziario, all'econometrica, alla demografia ed alla ricerca operativa.   
-La matematica generale e' considerata propedeutica alla matematica finanziaria, alla statistica, all'economia politica secondo anno ed alla ricerca operativa.   
-La ragioneria generale ed applicata primo anno e' considerata propedeutica a tutti gli insegnamenti di tecnica, nonche' all'economia e finanza delle imprese di assicurazione, alla ragioneria delle imprese marittime, alla ragioneria degli enti pubblici ed all'economia e tecnica industriale.   
-La scienza delle finanze e diritto finanziario e' considerata propedeutica al diritto tributario, alla politica economica e finanziaria, all'economia e finanza della sicurezza sociale.   
-Per ciascuno dei gruppi sopra indicati debbono essere superati prima gli esami sugli insegnamenti propedeutici.   
-Art. 25, relativo alle prove scritte e orali dell'insegnamento triennale delle lingue estere nel corso di laurea in economia e commercio e' modificato nel senso che viene soppresso l'ultimo periodo relativo al "voto di approvazione assegnato alla prova orale soltanto nella stessa sessione".   
-Art. 26, relativo alle dissertazioni e tesi orali viene abrogato e sostituito dal seguente:   
-Le dissertazioni e le tesi orali devono vertere su argomenti appartenenti a gruppi diversi di materie. A tale fine le materie si intendono ripartite in tre gruppi:   
+Clinica odontostomatologica Patologia speciale medica  
+e metodologia clinica  
+(compresa la pediatria)  
+Patologia speciale chirurgica  
+e propedeutica clinica  
+Istituzioni di anatomia e  
+istologia patologica  
+Patologia speciale odonto-  
+stomatologica  
+Chirurgia speciale odonto-  
+Stomatologia  
   
-1) Tecnico:   
-  
-Economia e tecnica dell'armamento e della navigazione;   
-Economia e tecnica industriale;   
-Matematica generale;   
-Matematica finanziaria;   
-Merceologia;   
-Ragioneria generale ed applicata;   
-Ragioneria delle imprese marittime;   
-Ragioneria degli enti pubblici;   
-Ricerca operativa;   
-Tecnica amministrativa delle imprese marittime;   
-Tecnica bancaria e professionale;   
-Tecnica commerciale dei prodotti agricoli;   
-Tecnica del commercio internazionale;   
-Tecnica delle ricerche di mercato e della distribuzione generale;   
-Tecnica industriale e commerciale;   
-Tecnologia dei cicli produttivi.   
-  
-2) Giuridico:   
-  
-Diritto amministrativo;   
-Diritto commerciale;   
-Diritto comunitario;   
-Diritto della navigazione;   
-Diritto del lavoro;   
-Diritto e tecnica delle assicurazioni marittime;   
-Diritto industriale;   
-Diritto internazionale;   
-Diritto processuale civile;   
-Diritto pubblico dell'economia;   
-Diritto tributario;   
-Istituzioni di diritto privato;   
-Istituzioni di diritto pubblico;   
-Legislazione bancaria.   
-  
-3) Economico:   
-  
-Demografia;   
-Econometrica;   
-Economia politica;   
-Economia e politica agraria;   
-Economia dei trasporti;   
-Economia e finanza delle imprese di assicurazione;   
-Economia e finanza della sicurezza sociale;   
-Economia internazionale;   
-Economia montana e forestale;   
-Geografia economica;   
-Geografia regionale;   
-Politica economica e finanziaria;   
-Scienza delle finanze e diritto finanziario;   
-Statistica;   
-Storia delle dottrine economiche;   
-Storia dell'esplorazione geografica;   
-Storia economica;   
-Storia sociale.   
-  
-Art. 50. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:   
-  
-Chemioterapia;   
-Organizzazione dei servizi sanitari;   
-Scienza dell'alimentazione e dietetica.   
-  
-Nello stesso articolo l'insegnamento di "Oncologia sperimentale" muta denominazione in quella di "Oncologia".   
-Art. 57, relativo al corso di laurea in fisica viene modificato nel senso che tra il sesto e il settimo comma viene inserito il seguente:   
-"L'insegnamento biennale di "Esperimentazioni di fisica" comporta un esame alla fine di ogni anno".   
-Art. 69. - All'elenco degli insegnamenti complementari del corso di laurea in farmacia sono aggiunti quelli di:   
-  
-Chimica delle fermentazioni e microbiologia industriale;   
-Stechiometria.   
-  
-Nello stesso articolo l'insegnamento di e Complementi di chimica tossicologica" muta denominazione in quello di "Chimica tossicologica".   
-Art. 74, relativo alle modalita' degli esami di laurea in farmacia e' abrogato e sostituito dal seguente:   
-  
-L'esame di laurea in farmacia consiste nella discussione di una dissertazione scritta e di una tesi orale svolte dal candidato in temi relativi ad insegnamenti fondamentali o complementari del corso di laurea in farmacia. L'argomento della tesi orale deve riferirsi a materia diversa da quella in cui e' stata compilata la dissertazione scritta.   
-Il consiglio di facolta' puo' decidere che i candidati all'esame di laurea vengano sottoposti anche ad una prova pratica e ad un esame di cultura generale.   
-Art. 77. - All'elenco degli insegnamenti complementari del corso di laurea in chimica e tecnologia farmaceutiche e' aggiunto quello di:   
-  
-"Stechiometria".   
-  
-Nello stesso articolo l'insegnamento di "Complementi di chimica tossicologica" muta la denominazione in quella di "Chimica tossicologica".   
+Per essere ammesso a sostenere l'esame di laurea in odontoiatria e protesi dentaria, lo studente deve aver seguito i corsi ed aver superato gli esami in tutti gli insegnamenti fondamentali ed almeno in due insegnamenti scelti tra i complementari ed aver, inoltre, seguito le prescritte esercitazioni cliniche, i tirocini pratici ed averne conseguito le relative attestazioni.  
+L'esame di laurea consiste nella discussione di una tesi scritta su argomenti di odontostomatologia da richiedere almeno all'inizio dell'ultimo anno di corso.  
+Per il trasferimento degli studenti iscritti al corso di laurea in medicina e chirurgia le abbreviazioni di corso non possono superare l'ammissione oltre il secondo anno, subordinatamente al numero di posti resisi disponibili all'inizio del secondo anno sempre che gli aspiranti abbiano superato gli esami di biologia generale applicata agli studi medici, chimica, fisica medica, istologia ed embriologia generale (compresa la citologia).  
+Per i laureati in medicina e chirurgia le abbreviazioni di corso potranno essere concesse, sempre con iscrizione al secondo anno, subordinatamente al numero di posti resisi disponibili all'inizio del secondo anno e dopo che sia trascorso un anno accademico dal conseguimento della laurea precedente.  
+Per esercitare la professione i laureati in odontoiatria e protesi dentaria devono superare un apposito esame di Stato.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1972
+### Dato a Roma, addi' 25 settembre 1980
 
-LEONE SCALFARO
+p. Il Presidente della Repubblica Il Presidente del Senato FANFANI SARTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 20 marzo 1973
+Registrato alla Corte dei conti, addi' 21 ottobre 1980
 
-Atti di Governo, registro n. 256, foglio n. 101. - CARUSO
+Registro n. 95 Istruzione, foglio n. 312

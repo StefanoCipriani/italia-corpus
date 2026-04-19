@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1053
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1088
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1053
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1088
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
@@ -12,543 +12,197 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
-
 Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Veduto il [decreto del Presidente della Repubblica dell'11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
 Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come segue:
+Lo statuto dell'Universita' di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-L'art. 134, relativo alla scuola di specializzazione in psichiatria, e' modificato nel senso che i commi 8, 9, 10 e 11 sono soppressi e sostituiti dal seguente:
+Dopo l'art. 397, e con lo spostamento della numerazione degli articoli successivi, sono Inseriti i seguenti nuovi articoli, relativi alla istituzione delle seguenti scuole:
 
-"Non sono concesse abbreviazioni di corso".
+scuola di specializzazione in anatomia patologica;
 
-Gli articoli 137 e 138, relativi alla scuola di specializzazione in clinica pediatrica, che muta la denominazione in quella di scuola di specializzazione in pediatria, sono soppressi e sostituiti dai seguenti:
+scuola
+------
 
-Scuola di specializzazione in pediatria
-
-Art. 137. - La scuola di specializzazione in pediatria ha sede presso la clinica pediatrica e conferisce il diploma di specialista in pediatria.
-
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
-
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.
-
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
-
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.
-
-Il numero massimo degli allievi e' di dodici per anno di corso e complessivamente di quarantotto per l'intero corso di studi.
-
-L'ammissione al corso avviene per titoli ed esami.
-
-Art. 138. - Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-genetica;
-
-auxologia;
-
-alimentazione;
-
-epidemiologia;
-
-malattie infettive;
-
-clinica pediatrica 1.
-
-2° Anno:
-
-radiologia;
-
-legislazione del minore;
-
-organizzazione sanitaria;
-
-psicologia pediatrica;
-
-oculistica ed ortottica;
-
-otorino e foniatria;
-
-odonto;
-
-neonatologia I;
-
-chirurgia pediatrica I;
-
-pediatria preventiva e sociale I;
-
-clinica pediatrica II.
-
-3° Anno:
-
-neurologia;
-
-psichiatria infantile;
-
-nefrologia e urologia;
-
-ginecologia pediatrica;
-
-neonatologia II;
-
-chirurgia pediatrica II;
-
-pediatria preventiva e sociale II;
-
-cardiologia I;
-
-endocrinologia I;
-
-ematologia I;
-
-immunologia I;
-
-gastroenterologia I;
-
-clinica pediatrica III.
-
-4° Anno:
-
-oncologia;
-
-pneumologia;
-
-ortopedia o traumatologia;
-
-dermatologia;
-
-cardiologia II;
-
-endocrinologia II;
-
-ematologia II;
-
-immunologia II;
-
-gastroenterologia II;
-
-clinica pediatrica IV.
-
-La frequenza alle lezioni, alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto, non potranno essere ammessi a sostenere le prove di esame.
-
-Alla fine di ciascun anno di corso gli iscritti, per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno.
-
-Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
-
-Al termine del corso di studi, per il conseguimento del diploma di specialista in pediatria, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
-
-L'art. 140, relativo alla scuola di specializzazione in puericultura, e' modificato nel senso che l'ultimo comma e' soppresso e sostituito dal seguente:
-
-"Non sono concesse abbreviazioni di corso".
-
-Dopo l'art. 270, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in farmacologia.
-
-Scuola di specializzazione in farmacologia
-
-Art. 271. - ((E' creata una scuola di specializzazione in farmacologia. La scuola rilascia i seguenti diplomi:
-
-a) specialista in farmacologia; indirizzo: farmacologia di base;
-
-b) specialista in farmacologia; indirizzo: farmacologia clinico-ospedaliera;
-
-c) specialista in farmacologia; indirizzo: tossicologia)).
-
-Art. 272. - La scuola ha la durata di quattro anni. I primi due anni sono comuni, il secondo biennio e' diviso nei tre indirizzi previsti: di farmacologia di base, di farmacologia clinico-ospedaliera, di tossicologia. Il numero massimo degli iscritti e' fissato a 20 per ciascun anno di corso da ripartire tra i tre indirizzi previsti; l'ammissione alla scuola viene fatta in base ai titoli e ad apposito esame. Al momento della iscrizione al terzo anno i candidati dovranno scegliere l'indirizzo che intendono seguire.
-
-Per l'indirizzo di farmacologia di base sono richieste le lauree in medicina e chirurgia, in farmacia, in scienze biologiche e in medicina veterinaria. Per gli indirizzi di farmacologia clinico-ospedaliera e in tossicologia e' richiesta la laurea in medicina e chirurgia. Per i laureati in medicina e chirurgia e' necessario avere superato l'esame di Stato. Non e' ammessa l'abbreviazione del corso.
-
-Art. 273. - Le materie di insegnamento sono:
-
-1° Anno:
-
-1) chimica organica;
-
-2) statistica;
-
-3) farmacologia generale;
-
-4) rapporti tra attivita' e struttura dei medicamenti;
-
-5) introduzione alla farmacologia speciale riferentesi ai diversi organi e apparati;
-
-6) biochimica, fisiologia e farmacologia cellulare;
-
-7) immunologia;
-
-8) batteriologia;
-
-9) biologia molecolare dei procarioti e dei virus;
-
-10) saggi e dosaggi farmacologici;
-
-11) inglese scientifico.
-
-2° Anno:
-
-1) farmacologia degli enzimi;
-
-2) le sostanze mediatrici delle attivita' farmacologiche;
-
-3) chemioterapia antibatterica;
-
-4) chemioterapia antivirale, antineoplastica, antifungina, antiparassitaria;
-
-5) endocrinologia e farmaci ad attivita' ormonale;
-
-6) neuropsicofarmacologia;
-
-7) principi di tossicologia;
-
-8) elementi di tossicologia da ambiente, da lavoro, da additivi;
-
-9) tecniche fisiche, chimico-fisiche, immunologiche, radioisotopiche;
-
-10) inglese scientifico;
-
-11) nozioni di informatica.
-
-3° Anno:
-
-A) Indirizzo farmacologia di base:
-
-1) farmacologia speciale;
-
-2) farmacologia molecolare;
-
-3) neurochimica;
-
-4) immunofarmacologia;
-
-5) tecniche ed analisi critica degli "screening" di farmaci "in vivo" e "in vitro";
-
-6) biochimica, fisiologia e farmacologia comparata.
-
-B) Indirizzo farmacologia clinica ospedaliera:
-
-1) organizzazione di un laboratorio di farmacologia clinica e sua funzione;
-
-2) farmacologia clinica e tecniche di sperimentazione clinica;
-
-3) farmacologia speciale in connessione con la patologia dei singoli organi ed apparati;
-
-4) clinica e farmacologia clinica delle malattie del ricambio; della insufficienza epatica e delle malattie epatiche; delle malattie endocrine e reumatiche;
-
-5) clinica e farmacologia clinica delle malattie renali, delle malattie cardiocircolatorie, delle arteriosclerosi; delle malattie del sangue e della coagulazione del sangue;
-
-6) clinica e farmacologia clinica delle malattie nervose e neuro muscolari;
-
-7) biodisponibilita' dei farmaci;
-
-8) farmacocinetica e biochimica clinica.
-
-C) Indirizzo tossicologia:
-
-1) principi di tossicologia generale;
-
-2) tossicologia da agenti chimici e fisici;
-
-3) tossicologia dell'ambiente e misure di prevenzione;
-
-4) tecniche di riconoscimento di sostanze tossiche;
-
-5) anatomia ed istologia degli stati tossici;
-
-6) epidemiologia.
-
-4° Anno:
-
-A) Indirizzo farmacologia di base:
-
-1) farmacologia speciale;
-
-2) modelli sperimentali di malattie umane;
-
-3) metodi di allevamento. Incrocio e stabulazione degli animali di laboratorio;
-
-4) principi di sperimentazione sull'uomo;
-
-5) farmacologia preclinica;
-
-6) legislazione in campo di farmaci.
-
-B) Indirizzo farmacologia clinica ospedaliera:
-
-1) farmacologia speciale in connessione con la patologia degli organi;
-
-2) clinica e farmacologia clinica delle deviazioni del comportamento e delle malattie mentali;
-
-3) clinica e farmacologia clinica delle malattie chirurgiche.
-
-Problemi di farmacologia clinica nella preparazione dell'ammalato chirurgico; nella pratica della anestesia;
-
-4) farmacologia clinica nelle unita' coronariche e nei reparti terapia intensiva;
-
-5) farmacologia in eta' prenatale e perinatale;
-
-6) deontologia e legislazione in campo di farmacologia clinica.
-
-C) Indirizzo tossicologia:
-
-1) tossicologia speciale;
-
-2) terapia e prevenzione degli stati tossici;
-
-3) gli additivi alimentari;
-
-4) tossicologia da abuso di farmaci;
-
-5) principi di cancerologia e teratogenesi;
-
-6) organizzazione di centri antiveleni ed antidroga;
-
-7) uso di farmaci dotati di potere antitossico specifico nei reparti di terapia intensiva;
-
-8) legislazione concernente la tossicologia individuale e di ambiente.
-
-Ciascun corso di lezioni sara' accompagnato da esercitazioni pratiche. Gli insegnamenti verranno integrati da conferenze riguardanti specifici argomenti e problemi farmacoterapici di attualita'.
-
-Art. 274 - Frequenza. - L'insegnamento si svolge normalmente secondo il calendario universitario durante il periodo delle lezioni.
-
-La durata del corso si prolunga tuttavia per tutto l'anno solare, senza interruzioni, per la pratica di laboratorio e clinica, che si esplica attraverso l'internato.
-
-La frequenza ai corsi e all'internato sono obbligatori.
-
-Per essere ammesso all'anno successivo il candidato, al termine di ogni anno, dovra' superare un esame di profitto comprensivo delle materie di insegnamento dell'anno frequentato.
-
-Superati gli esami di profitto prescritti per il quarto anno, il candidato viene ammesso all'esame per il diploma di specializzazione, che consiste nella discussione orale di una dissertazione scritta su di un tema originale approvato dal direttore della scuola.
-
-Art. 275. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
-
-Il direttore puo' durare in carica quattro anni e puo' essere rieletto. Il direttore nomina tre vice-direttori responsabili dei tre indirizzi.
-
-Art. 276 - Sede di organizzazione della scuola. - Le lezioni teoriche e le esercitazioni di laboratorio avranno luogo nei locali messi a disposizione dall'istituto di farmacologia.
-
-La scuola di specializzazione si avvarra' della collaborazione di altri istituti e delle cliniche universitarie situate presso l'ospedale S. Matteo di Pavia.
-
-Art. 277. - Per quanto non regolato dagli articoli di cui sopra, si fa riferimento alle norme generali dello statuto dell'Universita' degli studi di Pavia.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 31 ottobre 1978
-
-PERTINI
-
-PEDINI
-
-Visto, il Guardasigilli: BONIFACIO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 23 aprile 1979 Registro n. 27 Istruzione, foglio n. 35
+di specializzazione in neurofisiologia clinica; di specializzazione in tossicologia forense.
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+Scuola di specializzazione in anatomia patologica
+
   
-Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
   
-Decreta:   
-  
-Lo statuto dell'Universita' di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come segue:   
-L'art. 134, relativo alla scuola di specializzazione in psichiatria, e' modificato nel senso che i commi 8, 9, 10 e 11 sono soppressi e sostituiti dal seguente:   
-"Non sono concesse abbreviazioni di corso".   
-Gli articoli 137 e 138, relativi alla scuola di specializzazione in clinica pediatrica, che muta la denominazione in quella di scuola di specializzazione in pediatria, sono soppressi e sostituiti dai seguenti:   
-  
-Scuola di specializzazione in pediatria   
-  
-Art. 137. - La scuola di specializzazione in pediatria ha sede presso la clinica pediatrica e conferisce il diploma di specialista in pediatria.   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.   
-Il numero massimo degli allievi e' di dodici per anno di corso e complessivamente di quarantotto per l'intero corso di studi.   
+Art. 398. - Alla scuola di specializzazione in anatomia patologica vengono ammessi laureati In medicina e chirurgia in possesso del diploma di abilitazione allo esercizio professionale rilasciato dall'autorita' competente. La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
+La scuola ha sede presso l'istituto di anatomia e istologia patologica. Essa conferisce il diploma di specialista in anatomia patologica.   
+La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima. Il numero massimo di allievi e' di cinque per anno di corso e complessivamente di venti per l'intero corso di studi.   
 L'ammissione al corso avviene per titoli ed esami.   
-Art. 138. - Le materie di insegnamento sono le seguenti:   
+Art. 399. - Le materie di insegnamento sono le seguenti:   
 1° Anno:   
-genetica;   
-auxologia;   
-alimentazione;   
-epidemiologia;   
-malattie infettive;   
-clinica pediatrica 1.   
+anatomia patologica sistematica I;   
+tecnica delle autopsie;   
+diagnostica anatomo-patologica macroscopica I;   
+tecniche istologiche ed istochimiche.   
 2° Anno:   
-radiologia;   
-legislazione del minore;   
-organizzazione sanitaria;   
-psicologia pediatrica;   
-oculistica ed ortottica;   
-otorino e foniatria;   
-odonto;   
-neonatologia I;   
-chirurgia pediatrica I;   
-pediatria preventiva e sociale I;   
-clinica pediatrica II.   
+anatomia patologica sistematica II;   
+diagnostica anatomo-patologica macroscopica II;   
+diagnostica istopatologica I;   
+tecniche e diagnostica citologica e citogenetica.   
 3° Anno:   
-neurologia;   
-psichiatria infantile;   
-nefrologia e urologia;   
-ginecologia pediatrica;   
-neonatologia II;   
-chirurgia pediatrica II;   
-pediatria preventiva e sociale II;   
-cardiologia I;   
-endocrinologia I;   
-ematologia I;   
-immunologia I;   
-gastroenterologia I;   
-clinica pediatrica III.   
+diagnostica istopatologica II;   
+tecniche di microscopia elettronica e biologica ultrastrutturale;   
+immunopatologia.   
 4° Anno:   
-oncologia;   
-pneumologia;   
-ortopedia o traumatologia;   
-dermatologia;   
-cardiologia II;   
-endocrinologia II;   
-ematologia II;   
-immunologia II;   
-gastroenterologia II;   
-clinica pediatrica IV.   
-La frequenza alle lezioni, alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto, non potranno essere ammessi a sostenere le prove di esame.   
-Alla fine di ciascun anno di corso gli iscritti, per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno.   
-Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.   
-Al termine del corso di studi, per il conseguimento del diploma di specialista in pediatria, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
-L'art. 140, relativo alla scuola di specializzazione in puericultura, e' modificato nel senso che l'ultimo comma e' soppresso e sostituito dal seguente:   
-"Non sono concesse abbreviazioni di corso".   
-Dopo l'art. 270, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in farmacologia.   
-  
-Scuola di specializzazione in farmacologia   
-  
-Art. 271. -
+diagnostica istopatologica III;   
+diagnostica istocitopatologica ultrastrutturale;   
+diagnostica autoptica medico-legale ed elementi di legislazione sanitaria;   
+applicazioni statistiche ed epidemiologiche.   
+Art. 400. - Agli allievi della scuola e' fatto obbligo di frequentare le lezioni ed i seminari programmati nonche' di partecipare quotidianamente all'attivita' diagnostica e scientifica svolta nell'istituto di anatomia ed istologia patologica o nel centro di diagnostica istopatologica dell'Universita' di Pavia ovvero di altro istituto o servizio anatomo-patologico che per qualificazione scientifica e professionale dei relativi specialisti, e per attrezzature e casistica disponibili garantisca all'allievo una effettiva ed approfondita esperienza pratica nella disciplina.   
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
+Art. 401. - Alla fine di ogni corso gli iscritti, per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno.Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.   
+Al termine del corso di studi per il conseguimento del diploma di specialista in anatomia patologica gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
 
-((E' creata una scuola di specializzazione in farmacologia. La scuola rilascia i seguenti diplomi:   
-a) specialista in farmacologia; indirizzo: farmacologia di base;   
-b) specialista in farmacologia; indirizzo: farmacologia clinico-ospedaliera;   
-c) specialista in farmacologia; indirizzo: tossicologia))
+Art. 2
+------
 
-.   
-Art. 272. - La scuola ha la durata di quattro anni. I primi due anni sono comuni, il secondo biennio e' diviso nei tre indirizzi previsti: di farmacologia di base, di farmacologia clinico-ospedaliera, di tossicologia. Il numero massimo degli iscritti e' fissato a 20 per ciascun anno di corso da ripartire tra i tre indirizzi previsti; l'ammissione alla scuola viene fatta in base ai titoli e ad apposito esame. Al momento della iscrizione al terzo anno i candidati dovranno scegliere l'indirizzo che intendono seguire.   
-Per l'indirizzo di farmacologia di base sono richieste le lauree in medicina e chirurgia, in farmacia, in scienze biologiche e in medicina veterinaria. Per gli indirizzi di farmacologia clinico-ospedaliera e in tossicologia e' richiesta la laurea in medicina e chirurgia. Per i laureati in medicina e chirurgia e' necessario avere superato l'esame di Stato. Non e' ammessa l'abbreviazione del corso.   
-Art. 273. - Le materie di insegnamento sono:   
+Scuola di specializzazione in neurofisiologia clinica
+
+  
+  
+Art. 402. - La scuola di specializzazione in neurofisiologia clinica ha sede presso la clinica neurologica della facolta' di medicina e chirurgia e conferisce il diploma di specializzazione in neurofisiologia clinica.  
+Art. 403. - La durata del corso e' di tre anni accademici.  
+Art. 404. - Il numero massimo degli allievi iscrivibili e' di quarantacinque complessivamente per l'intero corso di studi.  
+Art. 405. - Gli insegnamenti impartiti nella scuola sono:  
+1° Anno:  
+neuroanatomia funzionale;  
+neurofisiologia;  
+neurochimica;  
+neurofarmacologia;  
+elementi di fisica ed elettronica biomedica;  
+informatica e statistica biomedica.  
+2° Anno:  
+neurofisiopatologia I;  
+psicologia sperimentale;  
+neurologia;  
+anestesia rianimazione;  
+neuropsichiatria infantile;  
+elettroencefalografia I;  
+elettrodiagnostica ed elettroterapia.  
+3° Anno:  
+neurofisiopatologia II;  
+elettroencefalografia II;  
+elettromiografia;  
+tecniche speciali di diagnostica strumentale del sistema nervoso.  
+Art. 406. - Il direttore puo' stabilire, per un piu' proficuo conseguimento dei fini della scuola, che siano tenuti corsi complementari e conferenze su materie ed argomenti che abbiano attinenza o affinita' con gli insegnamenti ripartiti nella scuola stessa.  
+Per le discipline svolte in corsi pluriennali l'esame deve essere sostenuto anno per anno.  
+Art. 407. - Per conseguire il diploma di specializzazione, al termine del corso triennale, oltre ad aver superato tutti gli esami delle singole materie, e' obbligatorio sostenere l'esame finale su una dissertazione scritta, preferibilmente di carattere sperimentale.
+
+Art. 3
+------
+
+Scuola di specializzazione in tossicologia forense
+
+  
+  
+Art. 408. - E' istituita presso l'istituto di medicina legale e delle assicurazioni la scuola di specializzazione in tossicologia forense.   
+La scuola si propone lo scopo di mettere a disposizione di coloro che per diversi aspetti gia' si dedicano a questa disciplina, uno strumento tecnico adeguato alle sempre piu' numerose e diversificate richieste di intervento nell'ambito della tossicologia.   
+La scuola di specializzazione rilascia i seguenti diplomi:   
+a) specialista in tossicologia forense con indirizzo medico;   
+b) specialista in tossicologia forense con indirizzo chimico.   
+Art. 409. - La durata della scuola e' di quattro anni.Sono ammessi a frequentare detta scuola i laureati in medicina e chirurgia, in farmacia, in chimica e tecnologia farmaceutiche, in chimica, in scienze delle preparazioni alimentari, in scienze biologiche.   
+Il numero degli iscritti e' di venti, distribuiti per non oltre cinque iscritti per ogni anno. Nel caso di eccedenza di domande la selezione tra i richiedenti sara' attuata attraverso concorso basato sui titoli e su prove d'esame.   
+Al momento della iscrizione al quarto anno i candidati saranno ripartiti a seconda del rispettivo indirizzo, essendo l'indirizzo medico esclusivamente riservato ai laureati in medicina e chirurgia e l'indirizzo chimico riservato ai laureati in medicina e chirurgia, in farmacia, in chimica e tecnologia farmaceutiche, in chimica, in scienze delle preparazioni alimentari, in scienze biologiche.   
+Art. 410. - Le materie di insegnamento sono:   
 1° Anno:   
-1) chimica organica;   
-2) statistica;   
-3) farmacologia generale;   
-4) rapporti tra attivita' e struttura dei medicamenti;   
-5) introduzione alla farmacologia speciale riferentesi ai diversi organi e apparati;   
-6) biochimica, fisiologia e farmacologia cellulare;   
-7) immunologia;   
-8) batteriologia;   
-9) biologia molecolare dei procarioti e dei virus;   
-10) saggi e dosaggi farmacologici;   
-11) inglese scientifico.   
+tossicologia forense;   
+medicina legale generale;   
+fondamenti di farmacologia;   
+principi di tossicologia generale;   
+elementi di chimica biologica;   
+elementi di fisiopatologia da agenti tossici chimici;   
+prelevamento e conservazione di reparti giudiziari;   
+legislazione in campo tossicologico;   
+elementi di diritto e di procedura penale;   
+struttura, organizzazione e funzioni del laboratorio chimico-tossicologico.   
 2° Anno:   
-1) farmacologia degli enzimi;   
-2) le sostanze mediatrici delle attivita' farmacologiche;   
-3) chemioterapia antibatterica;   
-4) chemioterapia antivirale, antineoplastica, antifungina, antiparassitaria;   
-5) endocrinologia e farmaci ad attivita' ormonale;   
-6) neuropsicofarmacologia;   
-7) principi di tossicologia;   
-8) elementi di tossicologia da ambiente, da lavoro, da additivi;   
-9) tecniche fisiche, chimico-fisiche, immunologiche, radioisotopiche;   
-10) inglese scientifico;   
-11) nozioni di informatica.   
+tossicologia forense speciale I;   
+farmacocinetica;   
+principi di chimica farmaceutica;   
+biochimica molecolare;   
+elementi di farmacognosia e di micologia;   
+tecniche analitiche di base, attrezzatura e strumentazione del laboratorio chimico-tossicologico;   
+analisi tossicologiche I;   
+diagnosi di ubriachezza negli aspetti teorici, pratici e legislativi;   
+elementi di statistica;   
+controllo di qualita'.   
 3° Anno:   
-A) Indirizzo farmacologia di base:   
-1) farmacologia speciale;   
-2) farmacologia molecolare;   
-3) neurochimica;   
-4) immunofarmacologia;   
-5) tecniche ed analisi critica degli "screening" di farmaci "in vivo" e "in vitro";   
-6) biochimica, fisiologia e farmacologia comparata.   
-B) Indirizzo farmacologia clinica ospedaliera:   
-1) organizzazione di un laboratorio di farmacologia clinica e sua funzione;   
-2) farmacologia clinica e tecniche di sperimentazione clinica;   
-3) farmacologia speciale in connessione con la patologia dei singoli organi ed apparati;   
-4) clinica e farmacologia clinica delle malattie del ricambio; della insufficienza epatica e delle malattie epatiche; delle malattie endocrine e reumatiche;   
-5) clinica e farmacologia clinica delle malattie renali, delle malattie cardiocircolatorie, delle arteriosclerosi; delle malattie del sangue e della coagulazione del sangue;   
-6) clinica e farmacologia clinica delle malattie nervose e neuro muscolari;   
-7) biodisponibilita' dei farmaci;   
-8) farmacocinetica e biochimica clinica.   
-C) Indirizzo tossicologia:   
-1) principi di tossicologia generale;   
-2) tossicologia da agenti chimici e fisici;   
-3) tossicologia dell'ambiente e misure di prevenzione;   
-4) tecniche di riconoscimento di sostanze tossiche;   
-5) anatomia ed istologia degli stati tossici;   
-6) epidemiologia.   
-4° Anno:   
-A) Indirizzo farmacologia di base:   
-1) farmacologia speciale;   
-2) modelli sperimentali di malattie umane;   
-3) metodi di allevamento. Incrocio e stabulazione degli animali di laboratorio;   
-4) principi di sperimentazione sull'uomo;   
-5) farmacologia preclinica;   
-6) legislazione in campo di farmaci.   
-B) Indirizzo farmacologia clinica ospedaliera:   
-1) farmacologia speciale in connessione con la patologia degli organi;   
-2) clinica e farmacologia clinica delle deviazioni del comportamento e delle malattie mentali;   
-3) clinica e farmacologia clinica delle malattie chirurgiche.  
-Problemi di farmacologia clinica nella preparazione dell'ammalato chirurgico; nella pratica della anestesia;   
-4) farmacologia clinica nelle unita' coronariche e nei reparti terapia intensiva;   
-5) farmacologia in eta' prenatale e perinatale;   
-6) deontologia e legislazione in campo di farmacologia clinica.   
-C) Indirizzo tossicologia:   
-1) tossicologia speciale;   
-2) terapia e prevenzione degli stati tossici;   
-3) gli additivi alimentari;   
-4) tossicologia da abuso di farmaci;   
-5) principi di cancerologia e teratogenesi;   
-6) organizzazione di centri antiveleni ed antidroga;   
-7) uso di farmaci dotati di potere antitossico specifico nei reparti di terapia intensiva;   
-8) legislazione concernente la tossicologia individuale e di ambiente.   
-Ciascun corso di lezioni sara' accompagnato da esercitazioni pratiche. Gli insegnamenti verranno integrati da conferenze riguardanti specifici argomenti e problemi farmacoterapici di attualita'.   
-Art. 274 - Frequenza. - L'insegnamento si svolge normalmente secondo il calendario universitario durante il periodo delle lezioni.   
-La durata del corso si prolunga tuttavia per tutto l'anno solare, senza interruzioni, per la pratica di laboratorio e clinica, che si esplica attraverso l'internato.   
-La frequenza ai corsi e all'internato sono obbligatori.   
-Per essere ammesso all'anno successivo il candidato, al termine di ogni anno, dovra' superare un esame di profitto comprensivo delle materie di insegnamento dell'anno frequentato.   
-Superati gli esami di profitto prescritti per il quarto anno, il candidato viene ammesso all'esame per il diploma di specializzazione, che consiste nella discussione orale di una dissertazione scritta su di un tema originale approvato dal direttore della scuola.   
-Art. 275. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Il direttore puo' durare in carica quattro anni e puo' essere rieletto. Il direttore nomina tre vice-direttori responsabili dei tre indirizzi.   
-Art. 276 - Sede di organizzazione della scuola. - Le lezioni teoriche e le esercitazioni di laboratorio avranno luogo nei locali messi a disposizione dall'istituto di farmacologia.   
-La scuola di specializzazione si avvarra' della collaborazione di altri istituti e delle cliniche universitarie situate presso l'ospedale S. Matteo di Pavia.   
-Art. 277. - Per quanto non regolato dagli articoli di cui sopra, si fa riferimento alle norme generali dello statuto dell'Universita' degli studi di Pavia.   
+tossicologia forense speciale II;   
+analisi tossicologiche II;   
+tossicologia dell'ambiente e del lavoro;   
+tossicologia degli alimenti;   
+chimica bromatologica;   
+tossicologia delle sostanze dell'abuso;   
+elementi di tossicologia veterinaria;   
+analisi merceologiche;   
+microbiologia applicata alla tossicologia;   
+controllo di preparazioni farmaceutiche;   
+protezione e sicurezza nel laboratorio;   
+principi di analisi in tracce.   
+4° Anno (indirizzo medico):   
+diagnosi medico-legale di avvelenamento;   
+effetti tossici a lungo termine;   
+anatomia patologica in tossicologia;   
+clinica tossicologica e terapia;   
+diagnostica chimico-tossicologica d'urgenza;   
+patologia della terapia e responsabilita' professionale;   
+elementi di radioprotezione;   
+deontologia, legislazione sanitaria e aggiornamenti in tenia di normativa.   
+4° Anno (indirizzo chimico):   
+analisi inorganica e organica in tracce;   
+cromatografia;   
+spettroscopia;   
+tecniche immunologiche ed enzimatiche;   
+saggi e dosaggi biologici;   
+tecniche istochimiche applicate alla tossicologia;   
+metodi radiochimici ed elementi di radioprotezione;   
+automatizzazione ed elementi di informatica.   
+Esercitazioni pratiche affiancheranno gli insegnamenti indicati.   
+Art. 411. - La frequenza alle lezioni e alle esercitazioni e' obbligatoria; e' altresi' obbligatoria la frequenza ai fini di apprendimento presso i laboratori di tossicologia dell'istituto di medicina legale per l'intera durata dell'anno accademico.   
+Alla fine di ogni anno gli specializzandi che abbiano ottenuto la firma di frequenza dovranno sostenere un esame di profitto nelle materie di insegnamento annuali.   
+L'esame di diploma consiste nella discussione di una dissertazione scritta e in una prova pratica su argomenti di tossicologia forense approvati dalla direzione della scuola.   
+Art. 412. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e affidata a professore associato che pure insegni nella scuola medesima.   
+Insegnamenti potranno essere impartiti da specialisti di altre Universita' e di istituzioni non universitarie.   
+Art. 413. - La scuola dispone delle attrezzature, delle biblioteche, del materiale e delle altre opportunita' didattiche messe a disposizione dall'istituto di medicina legale e delle assicurazioni. E' previsto altresi' l'utilizzo di sedi esterne, universitarie e non, per lezioni specialistiche ed esercitazioni.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1978
+### Dato a Roma, addi' 31 ottobre 1981
 
-PERTINI PEDINI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 23 aprile 1979
+Registrato alla Corte dei conti, addi' 10 marzo 1982
 
-Registro n. 27 Istruzione, foglio n. 35
+Registro n. 38 Istruzione, foglio n. 251

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1985 n. 564
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1980 n. 124
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1985 n. 564
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1980 n. 124
+===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-564. Decreto del Presidente della Repubblica 16 luglio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in un quarto della quota residua dell'assegnazione ad altri legatari del ricavato della vendita di un immobile sito in Roma, via Fratelli Ruspoli n. 2 ed annesso box ed altri beni mobili per un totale di L. 47.872.000, come risulta dal prospetto della consistenza, disposto dalla sig.ra Del Barba Maria con testamento olografo 23 luglio 1981, pubblicato il 12 maggio 1982, n. 75394 di repertorio e n. 9847 di raccolta, a rogito dottor Franco Ventura, notaio in Roma, registrato a Roma il 17 maggio 1982 al n. 419031.  
+124. Decreto del Presidente della Repubblica 7 febbraio 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 3.000.000, disposto dalla sig.ra Lodovina Pirro ved. Casaro con testamento pubblico 30 gennaio 1975, pubblicato in data 8 luglio 1975, n. 10457 di repertorio a rogito dott. Enrico Storto, notaio in Moncalieri (Torino), registrato a Moncalieri in data 11 luglio 1975, n. 2390, vol. 87.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 11 ottobre 1985  
-Registro n. 9 Presidenza, foglio n. 67
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti, addi' 31 marzo 1980  
+Registro n. 3 Presidenza, foglio n. 2

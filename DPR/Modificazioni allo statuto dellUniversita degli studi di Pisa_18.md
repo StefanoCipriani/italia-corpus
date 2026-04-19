@@ -1,136 +1,213 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 giugno 1976 n. 583
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1972 n. 478
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 giugno 1976 n. 583
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1972 n. 478
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936; n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 55, relativo agli istituti scientifici della facolta' di lettere e filosofia e' modificato nel senso che l'istituto di filologia classica viene scisso nei due seguenti istituti:
+
+Istituto di filologia greca;
+
+Istituto di filologia latina.
+
+Art. 74. - All'elenco degli istituti scientifici della facolta' di scienze matematiche, fisiche e naturali e' aggiunto quello di:
+
+Istituto di scienze dell'informazione.
+
+Art. 129. - All'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie e' aggiunto quello di:
+
+Ordinamento e gestione dell'azienda agricola.
+
+Art. 138. - All'elenco degli istituti didattici e sperimentali appartenenti alla facolta' di medicina veterinaria sono aggiunti i seguenti:
+
+Istituto di anatomia e istologia degli animali domestici;
+
+Istituto di malattie infettive, profilassi e polizia veterinaria.
+
+Nello stesso articolo l'istituto di patologia speciale clinica medica e polizia sanitaria muta denominazione in quella di istituto di patologia speciale e clinica medica veterinaria.
+
+Gli articoli 201, 202 e 205 relativi al corso di perfezionamento in ingegneria nucleare, annesso alla facolta' di ingegneria sono abrogati e sostituiti dai seguenti:
+
+Art. 201. - Il corso ha la durata di un anno. Il corso di perfezionamento ha diverso contenuto per:
+
+A) i laureati in ingegneria nucleare;
+
+B) i non laureati in ingegneria nucleare.
+
+Per coloro che appartengono alla categoria A), gli insegnamenti sono i seguenti:
+
+A-1) Misure di fisica nucleare;
+
+A-2) Complementi di costruzioni nucleari;
+
+A-3) Metodi avanzati per l'analisi di sicurezza degli impianti nucleari;
+
+A-4) Esercizio degli impianti nucleari.
+
+Per coloro che appartengono alla categoria B), gli insegnamenti sono i seguenti:
+
+B-1) Fisica nucleare;
+
+B-2) Fisica dei reattori nucleari e reattori nucleari;
+
+B-3) Misure di fisica nucleare;
+
+B-4) Impianti nucleari terrestri e navali;
+
+B-5) Costruzioni nucleari;
+
+B-6) Sicurezza e dosimetria;
+
+B-7) Teoria dei servomeccanismi applicata al controllo ed alla regolazione dei reattori;
+
+B-8) Elettronica applicata agli impianti nucleari;
+
+B-9) Chimica dei reattori;
+
+B-10) Tecnologia dei materiali dei reattori. Trattamenti e separazione degli isotopi.
+
+Detti insegnamenti saranno integrati da esercitazioni pratiche ed eventualmente da conferenze.
+
+Art. 202. - Al termine, del corso la facolta' rilascia un certificato di studi per il conseguimento del quale e' necessario:
+
+per gli appartenenti alla categoria A):
+
+aver superato gli esami delle materie A-1), A-2), A-3), A-4) ed aver discusso davanti ad apposita commissione, nominata dal consiglio di facolta', una relazione relativa ad una ricerca applicata all'ingegneria nucleare, cui il candidato abbia apportato contributi originali;
+
+per gli appartenenti alla categoria B):
+
+aver superato gli esami delle materie B-1), B-2), B-3), B-4), B-5), B-6) e alternativamente B-7) e 5-8) oppure B-9) e B-10).
+
+Art. 205. - La tassa e la soprattassa che gli iscritti sono tenuti a pagare sono quelle stabilite per gli studenti in corso.
+
+La tassa di diploma e' fissata in L. 6000 a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7). Gli eventuali contributi potranno essere fissati di anno in anno dal consiglio di amministrazione su proposta del senato accademico, udito il consiglio di facolta'.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 20 giugno 1972
+
+LEONE
+
+MISASI
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 12 agosto 1972 Atti del Governo, registro n. 250, foglio n. 158. - VALENTINI
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pisa e convalidati dal Consiglio superiore della pubblica istruzione nei suoi pareri;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936; n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli 346, 347, 348, relativi alla scuola di specializzazione in ortopedia e traumatologia, sono abrogati e sostituiti dai seguenti:  
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 55, relativo agli istituti scientifici della facolta' di lettere e filosofia e' modificato nel senso che l'istituto di filologia classica viene scisso nei due seguenti istituti:   
   
-Scuola di specializzazione in ortopedia e traumatologia  
-Art. 346. - La scuola ha la durata di tre anni, ha sede presso la clinica ortopedica il cui professore di ruolo e' direttore della scuola.  
-Art. 347. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-clinica ortopedica e traumatologica (triennale) 1°;  
-patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale) 1°;  
-tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale) 1°;  
-radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale) 1°;  
-anatomia ed istologia dell'apparato locomotore;  
-fisiologia dell'apparato locomotore;  
-nozioni di chirurgia generale;  
-nozioni di pediatria.  
-2° Anno:  
-clinica ortopedica e traumatologica (triennale) 2°;  
-patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale) 2°;  
-tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale) 2°;  
-radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale) 2°;  
-neuropatologia dell'apparato locomotore ed elettrodiagnostica; anatomia ed istologia patologica dell'apparato locomotore.  
-3° Anno:  
-clinica ortopedica e traumatologica (triennale) 3°;  
-patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale) 3°;  
-tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale) 3°;  
-apparato terapia ortopedica;  
-fisiochinesiterapia;  
-infortunistica.  
-Art. 348. - Il numero massimo di iscritti e' di dodici per ogni anno. Gli allievi sono tenuti a frequentare le lezioni e le esercitazioni, dovranno frequentare come interni la clinica ortopedica per un periodo non inferiore a nove mesi per ogni anno di corso.  
-Gli esami dovranno essere sostenuti al termine di ogni corso di insegnamento (annuale), (biennale) e (triennale) per gruppi di materie affini. Per l'esame di diploma il candidato dovra' presentare una tesi scritta su argomento della specialita'.  
-L'immatricolazione alla scuola avviene mediante concorso per esame e titoli.  
-Le tasse e soprattasse sono fissate come segue:  
-tassa di immatricolazione . . . . . . L. 5.000  
-tassa di iscrizione annuale . . . . . L. 18.000  
-soprattassa annuale esami di profitto L. 7.000  
-soprattassa esami di diploma. . . . . L. 3.000  
-tassa di diploma. . . . . . . . . . . L. 6.000  
+Istituto di filologia greca;   
+Istituto di filologia latina.   
   
-Gli articoli 352, 353, 354, 355, relativi alla "Scuola di specializzazione in malattie del tubo digerente, del sangue e del ricambio" che muta la denominazione in quella di "Scuola di specializzazione in malattie dell'apparato digerente", sono abrogati e sostituiti dai seguenti:  
+Art. 74. - All'elenco degli istituti scientifici della facolta' di scienze matematiche, fisiche e naturali e' aggiunto quello di:   
   
-Scuola di specializzazione in malattie dell'apparato digerente  
-Art. 352. - La scuola ha la durata di tre anni, ha sede presso l'istituto di patologia medica I il cui professore di ruolo e' il direttore.  
-Art. 353. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-anatomia patologica;  
-fisiopatologia;  
-clinica chimica;  
-semeiotica fisica e funzionale;  
-clinica medica.  
-2° Anno:  
-semeiotica fisica e strumentale (esame comprensivo del corso del 1° e 2° anno);  
-semeiotica radiologica;  
-malattie del tubo digerente;  
-clinica medica.  
-3° Anno:  
-malattie del fegato e del pancreas;  
-clinica medica (esame comprensivo dei corsi del 1° - 2° - 3° anno).  
-Art. 354. - Gli iscritti alla scuola hanno l'obbligo di compiere dopo il 3° anno un internato della durata di un anno nell'istituto di patologia speciale medica.  
-Art. 355. - Il numero massimo di iscritti e' di cinque ogni anno.  
-L'immatricolazione alla scuola avviene mediante concorso per esame e titoli.  
+Istituto di scienze dell'informazione.   
   
-Le tasse e soprattasse sono fissate come segue:  
-tassa di immatricolazione . . . . . . . L. 5.000  
-tassa di iscrizione annuale . . . . . . L. 18.000  
-soprattassa annuale esami di profitto . L. 7.000  
-soprattassa esami di diploma. . . . . . L. 3.000  
-tassa di diploma. . . . . . . . . . . . L. 6.000  
+Art. 129. - All'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie e' aggiunto quello di:   
   
-Gli articoli 372, 373, relativi alla "Scuola di perfezionamento in puericultura e dietetica infantile" che muta la denominazione in quella di "Scuola di specializzazione in puericultura", sono abrogati e sostituiti dai seguenti:  
+Ordinamento e gestione dell'azienda agricola.   
   
-Scuola di specializzazione in puericultura  
-Art. 372. - La scuola si propone di conferire la preparazione teorico-pratica in biologia infantile e pediatria preventiva, ha la durata di tre anni, ha sede presso la clinica pediatrica, il cui professore di ruolo e' direttore della scuola.  
-Art. 373. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-peculiarita' anatomo-fisiologica dell'eta' evolutiva;  
-elementi di genetica medica e di eugenetica;  
-elementi di puericultura perinatale;  
-auxologia;  
-alimentazione e dietetica dell'eta' infantile;  
-elementi di semeiotica infantile.  
-2° Anno:  
-psicologia ed igiene mentale nell'eta' infantile;  
-igiene ed assistenza dell'eta' evolutiva;  
-profilassi delle malattie infettive nell'infanzia;  
-elementi di medicina scolastica;  
-legislazione ed assistenza sociale dell'infanzia.  
-3° Anno:  
-tirocinio pratico presso l'istituto ove la scuola ha sede ed altre istituzioni ed enti che abbiano, a giudizio del consiglio della scuola, caratteristiche tali da assicurare lo svolgimento di un efficace tirocinio sotto l'aspetto eminentemente pratico.  
-I corsi di insegnamento sono integrati da esercitazioni pratiche e da conferenze. Gli iscritti hanno l'obbligo di internato con le modalita' e l'orario stabiliti dalla direzione della scuola. Al termine di ogni anno gli iscritti dovranno sostenere un esame di profitto sulle materie di insegnamento riunite in gruppi. Al termine del terzo anno dovranno sostenere l'esame di diploma presentando e discutendo una dissertazione scritta. Il numero massimo di iscritti e' di otto per ogni anno.  
-L'immatricolazione alla scuola avviene mediante concorso per esame e titoli.  
+Art. 138. - All'elenco degli istituti didattici e sperimentali appartenenti alla facolta' di medicina veterinaria sono aggiunti i seguenti:   
   
-Le tasse e soprattasse sono fissate come segue:  
-tassa di immatricolazione . . . . . . . . L. 5.000  
-tassa di iscrizione annuale . . . . . . . L. 18.000  
-soprattassa annuale esami di profitto . . L. 7.000  
-soprattassa esami di diploma. . . . . . . L. 3.000  
-tassa di diploma. . . . . . . . . . . . . L. 6.000  
+Istituto di anatomia e istologia degli animali domestici;   
+Istituto di malattie infettive, profilassi e polizia veterinaria.   
+  
+Nello stesso articolo l'istituto di patologia speciale clinica medica e polizia sanitaria muta denominazione in quella di istituto di patologia speciale e clinica medica veterinaria.   
+Gli articoli 201, 202 e 205 relativi al corso di perfezionamento in ingegneria nucleare, annesso alla facolta' di ingegneria sono abrogati e sostituiti dai seguenti:   
+Art. 201. - Il corso ha la durata di un anno. Il corso di perfezionamento ha diverso contenuto per:   
+  
+A) i laureati in ingegneria nucleare;   
+B) i non laureati in ingegneria nucleare.   
+  
+Per coloro che appartengono alla categoria A), gli insegnamenti sono i seguenti:   
+  
+A-1) Misure di fisica nucleare;   
+A-2) Complementi di costruzioni nucleari;   
+A-3) Metodi avanzati per l'analisi di sicurezza degli impianti nucleari;   
+A-4) Esercizio degli impianti nucleari.   
+  
+Per coloro che appartengono alla categoria B), gli insegnamenti sono i seguenti:   
+  
+B-1) Fisica nucleare;   
+B-2) Fisica dei reattori nucleari e reattori nucleari;   
+B-3) Misure di fisica nucleare;   
+B-4) Impianti nucleari terrestri e navali;   
+B-5) Costruzioni nucleari;   
+B-6) Sicurezza e dosimetria;   
+B-7) Teoria dei servomeccanismi applicata al controllo ed alla regolazione dei reattori;   
+B-8) Elettronica applicata agli impianti nucleari;   
+B-9) Chimica dei reattori;   
+B-10) Tecnologia dei materiali dei reattori. Trattamenti e separazione degli isotopi.   
+  
+Detti insegnamenti saranno integrati da esercitazioni pratiche ed eventualmente da conferenze.   
+Art. 202. - Al termine, del corso la facolta' rilascia un certificato di studi per il conseguimento del quale e' necessario:   
+per gli appartenenti alla categoria A):   
+aver superato gli esami delle materie A-1), A-2), A-3), A-4) ed aver discusso davanti ad apposita commissione, nominata dal consiglio di facolta', una relazione relativa ad una ricerca applicata all'ingegneria nucleare, cui il candidato abbia apportato contributi originali;   
+per gli appartenenti alla categoria B):   
+aver superato gli esami delle materie B-1), B-2), B-3), B-4), B-5), B-6) e alternativamente B-7) e 5-8) oppure B-9) e B-10).   
+  
+Art. 205. - La tassa e la soprattassa che gli iscritti sono tenuti a pagare sono quelle stabilite per gli studenti in corso.   
+La tassa di diploma e' fissata in L. 6000 a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7). Gli eventuali contributi potranno essere fissati di anno in anno dal consiglio di amministrazione su proposta del senato accademico, udito il consiglio di facolta'.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 giugno 1976
+### Dato a Roma, addi' 20 giugno 1972
 
-LEONE MALFATTI
+LEONE MISASI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 17 agosto 1976
+Registrato alla Corte dei conti, addi' 12 agosto 1972
 
-Atti di Governo, registro n. 8, foglio n. 62
+Atti del Governo, registro n. 250, foglio n. 158. - VALENTINI

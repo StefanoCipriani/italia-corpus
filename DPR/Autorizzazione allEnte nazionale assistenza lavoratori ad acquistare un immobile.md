@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1968 n. 914
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 dicembre 1972 n. 962
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1968 n. 914
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 dicembre 1972 n. 962
+===============================================================
 
 Autorizzazione all'Ente nazionale assistenza lavoratori ad acquistare un immobile.
 ----------------------------------------------------------------------------------
@@ -12,14 +12,8 @@ Art. 1
 
 N.
 
-914. Decreto del Presidente della Repubblica 19 giugno 1968, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Ente nazionale assistenza lavoratori, viene autorizzato ad acquistare dal comune di Ravenna e per il prezzo di L. 70.000, un appezzamento di terreno, della superficie di mq. 700, sito in "Casal Borsetti", distinto in mappa del comune di Ravenna - sezione S.  
-Alberto, partita al rustico n. 1096, foglio 31, particella 58, per consentire la unificazione nello stesso ente della proprieta' del terreno e del fabbricato, adibito a sede del locale circolo E.N.A.L., che insiste sul terreno in parola.   
+962. Decreto del Presidente della Repubblica 6 dicembre 1972, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Ente nazionale assistenza lavoratori (E.N.A.L.) viene autorizzato ad acquistare dalla signora Olda Cencini, al convenuto prezzo di lire 77.500, una striscia di terreno situato nell'abitato della frazione Ponticino del comune di Laterina (Arezzo) della superficie di mq. 52,20 riportata nel catasto del comune di Laterina alla particella 484, foglio 26.  
   
-Visto, il Guardasigilli: GONELLA   
-Registrato alla Corte dei conti, addi' 16 agosto 1968   
-Atti del Governo, registro n. 222, foglio n. 69 - DI PRETORO   
-  
----------------   
-Nota redazionale   
-Il testo del presente articolo e' gia' integrato con le correzioni apportate dall'avviso di rettifica pubblicato in G.U. 10/09/1968, n. 230 durante il periodo di "vacatio legis".   
-E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 23 gennaio 1973  
+Atti di Governo, registro n. 255, foglio n. 63. - VALENTINI

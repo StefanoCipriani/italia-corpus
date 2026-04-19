@@ -1,170 +1,137 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1957 n. 1439
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 aprile 1951 n. 934
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1957 n. 1439
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 aprile 1951 n. 934
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successivi;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 145. - Agli insegnamenti complementari, comuni a tutte le sezioni del corso di laurea in ingegneria, sono aggiunti quelli di "elettronica" e di "reattori nucleari".
-
-Art. 147. - All'elenco, circa la propedeuticita' degli insegnamenti e dei relativi esami nel corso di laurea in ingegneria, e' aggiunta la propedeuticita' dell'esame di aerodinamica rispetto a quello di aeronautica generale e di aeronautica generale rispetto a costruzioni aeronautiche e a collaudo e manovra degli aeromobili.
-
-Alle scuole di specializzazione e perfezionamento annesse alla Facolta' di medicina e chirurgia e' aggiunta quella di specializzazione in cardiologia e malattie dei vasi con il seguente ordinamento:
-
-Scuola di specializzazione in cardiologia e malattie dei vasi
-
-Art. 363. - E' istituita presso la Facolta' di medicina e chirurgia dell'Universita' di Napoli la scuola di specializzazione in cardiologia e malattie dei vasi; essa ha sede presso l'Istituto di clinica medica generale ed e' diretta dal direttore della clinica.
-
-Art. 364. - La scuola ha la durata di tre anni.
-
-Art. 365. Gli iscritti hanno l'obbligo di prestare servizio esclusivo e continuativo presso la clinica medica per tutta la durata degli anni di corso.
-
-Art. 366. - Possono essere iscritti alla scuola i laureati in medicina e chirurgia in numero massimo di dieci medici per ogni anno.
-
-La scelta dei candidati ammessi al 1° anno di corso sara' fatta all'inizio dell'anno accademico in base ai titoli di studio ed al risultato di una prova scritta di esame che sara' tenuta nell'Istituto di clinica medica.
-
-Una abbreviazione di corso potra' essere concessa su proposta del direttore della scuola, esclusivamente a quei candidati che risultino forniti dei titoli di specializzazione in medicina interna, che dimostrino di aver compiuto servizio effettivo e continuativo per piu' di due anni in qualita' di assistente ordinario o volontario presso gli Istituti di medicina interna dell'Universita' di Napoli, e che documentino con il loro curriculum scientifico di avere gia' una buona preparazione nel campo della medicina interna con particolare orientamento per gli studi di cardiologia.
-
-L'abbreviazione di corso potra' essere, nei casi giustificati, di un anno.
-
-Per l'iscrizione all'anno successivo occorre aver superato tutti gli esami dell'anno precedente.
-
-Art. 367. - Le materie di insegnamento sono le seguenti:
-
-1° anno:
-
-1) Anatomia normale e patologica del cuore e dei vasi;
-
-2) Fisiopatologia dell'apparato cardiovascolare;
-
-3) Farmacologia;
-
-4) Semeiotica fisica dell'apparato cardiovascolare.
-
-2° anno:
-
-1) Semeiotica radiologica dell'apparato cardiovascolare;
-
-2) Elettrocardiografia;
-
-3) Semeiotica strumentale speciale cardiologica e angiologica;
-
-4) Patologia speciale medica dell'apparato cardiovascolare.
-
-3° anno:
-
-1) Clinica delle malattie del cuore e dei vasi;
-
-2) Terapia medica dell'apparato cardiovascolare;
-
-3) Terapia chirurgica dell'apparato cardiovascolare.
-
-Art. 368. - I corsi di insegnamento sopraindicati sono tutti obbligatori e saranno completati da corsi di esercitazioni pratiche ed alla fine di ogni anno di corso avranno luogo i relativi esami speciali.
-
-Al termine dei tre anni di corso per conseguire il diploma di specializzazione gli iscritti dovranno presentare una dissertazione scritta elaborata nell'Istituto di clinica medica su argomenti di cardiologia o di malattie vascolari e dovranno sostenere un esame pratico dinanzi ad una Commissione formata da cinque insegnanti della scuola e presieduta dal direttore della scuola.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 30 ottobre 1957
-
-GRONCHI
-
-MORO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 26 marzo 1958 Atti del Governo, registro n. 111, foglio n. 165. - RELLEVA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successivi;  
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regi decreti 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904); [4 maggio 1942, n. 557](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-05-04;557); [5 settembre 1942, n. 1120](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-09-05;1120) e con i [decreti del Presidente della Repubblica 26 febbraio 1949, n. 612](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;612); [23 settembre 1949, n. 931](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;931); [30 ottobre 1949, n. 1059](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1059) e [5 aprile 1950, n. 284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-04-05;284);  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 145. - Agli insegnamenti complementari, comuni a tutte le sezioni del corso di laurea in ingegneria, sono aggiunti quelli di "elettronica" e di "reattori nucleari".  
-Art. 147. - All'elenco, circa la propedeuticita' degli insegnamenti e dei relativi esami nel corso di laurea in ingegneria, e' aggiunta la propedeuticita' dell'esame di aerodinamica rispetto a quello di aeronautica generale e di aeronautica generale rispetto a costruzioni aeronautiche e a collaudo e manovra degli aeromobili.  
-Alle scuole di specializzazione e perfezionamento annesse alla Facolta' di medicina e chirurgia e' aggiunta quella di specializzazione in cardiologia e malattie dei vasi con il seguente ordinamento:  
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati e' cosi' ulteriormente modificato:  
+All'art. 49, relativo al corso di magistero in economia e diritto e' aggiunto il seguente comma:  
+"Per il corso di magistero in "economia e diritto", l'esame di diploma comprende due prove scritte, una prova orale ed una lezione pubblica. Le prove scritte consisteranno nello svolgimento di un tema sulle materie economiche e di uno sulle materie giuridiche, preventivamente fissati dalla Commissione giudicatrice e pel cui svolgimento i candidati dispongono di sei ore di tempo.  
+La prova orale consistera' nella discussione sui temi svolti ed in un esame di ordine generale.  
+La lezione pubblica avra' per oggetto lo svolgimento di un tema scelto dal candidato tra due prestabiliti dalla Commissione e ad esso comunicati ventiquattr'ore prima e deve avere la durata di circa un'ora. Le dette prove si svolgeranno successivamente. L'esito favorevole di ciascuna e' condizione per l'ammissione alla seguente".  
+All'art. 50, relativo al corso di magistero in economia aziendale e' aggiunto il seguente comma:  
+"Per il corso di magistero in "economia aziendale", l'esame di diploma comprende una prova scritta, una prova orale ed una lezione pubblica.  
+La prova scritta consistera' nello svolgimento di un tema di ragioneria e di tecnica, scelto dal candidato tra due assegnati dalla Commissione giudicatrice, per il cui svolgimento i candidati dispongono di sei ora di tempo.  
+La prova orale consistera' nella discussione sui temi svolti ed in un esame di ordine generale.  
+La lezione pubblica avra' per oggetto lo svolgimento di un tema scelto dal candidato tra due prestabiliti dalla Commissione e ad esso comunicati ventiquattr'ore prima e deve avere la durata di circa un'ora.  
+Le dette prove si svolgeranno successivamente. L'esito favorevole di ciascuna e' condizione per l'ammissione alla seguente".  
+Attuale art. 51. - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di "Filologia germanica".  
+Gli insegnamenti di storia greca e di storia romana possono essere cumulati o divisi secondo il parere della Facolta'.  
+All'attuale art. 54, dopo il secondo comma e' aggiunto quanto appresso:  
+"Gli insegnamenti fondamentali del corso di laurea in filosofia, di "storia della filosofia" (biennale) e di "filosofia teoretica" (biennale) importano rispettivamente un esame alla fine di ogni anno".  
+Dopo l'attuale art. 59, sono inseriti i seguenti nuovi articoli con il conseguente spostamento della numerazione degli articoli successivi.  
+Art. 60. - Presso la Facolta' di lettere e filosofia e' istituito un Seminario annesso alla cattedra di "storia medioevale e moderna".  
+Art. 61. - Il Seminario si propone d'istradare gli studenti allo studio della storia medioevale e moderna e al magistero delle stesse discipline nelle scuole secondarie.  
+Art. 62. - Il Seminario avra' una sua biblioteca specializzata che, coordinata con la biblioteca della Facolta' di lettere e filosofia, funzionera' come una filiazione di essa.  
+Art. 63. - Al Seminario di storia medioevale e moderna e' addetto un assistente il quale, oltre i doveri inerenti al suo ufficio, avra' cura della biblioteca di esso.  
+Art. 64. - Il Seminario potra' eventualmente disporre di borse di studio, che verranno conferite dal Consiglio della facolta' di lettere e filosofia, in base alle modalita' che saranno da esso stabilite e alle eventuali disposizioni dei fondatori.  
+Dopo l'art. 217, vengono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in "anestesiologia" e della Scuola di perfezionamento in "malattie infettive".  
   
-Scuola di specializzazione in cardiologia e malattie dei vasi  
+Scuola di specializzazione in anestesiologia.  
   
-Art. 363. - E' istituita presso la Facolta' di medicina e chirurgia dell'Universita' di Napoli la scuola di specializzazione in cardiologia e malattie dei vasi; essa ha sede presso l'Istituto di clinica medica generale ed e' diretta dal direttore della clinica.  
-Art. 364. - La scuola ha la durata di tre anni.  
-Art. 365. Gli iscritti hanno l'obbligo di prestare servizio esclusivo e continuativo presso la clinica medica per tutta la durata degli anni di corso.  
-Art. 366. - Possono essere iscritti alla scuola i laureati in medicina e chirurgia in numero massimo di dieci medici per ogni anno.  
-La scelta dei candidati ammessi al 1° anno di corso sara' fatta all'inizio dell'anno accademico in base ai titoli di studio ed al risultato di una prova scritta di esame che sara' tenuta nell'Istituto di clinica medica.  
-Una abbreviazione di corso potra' essere concessa su proposta del direttore della scuola, esclusivamente a quei candidati che risultino forniti dei titoli di specializzazione in medicina interna, che dimostrino di aver compiuto servizio effettivo e continuativo per piu' di due anni in qualita' di assistente ordinario o volontario presso gli Istituti di medicina interna dell'Universita' di Napoli, e che documentino con il loro curriculum scientifico di avere gia' una buona preparazione nel campo della medicina interna con particolare orientamento per gli studi di cardiologia.  
-L'abbreviazione di corso potra' essere, nei casi giustificati, di un anno.  
-Per l'iscrizione all'anno successivo occorre aver superato tutti gli esami dell'anno precedente.  
-Art. 367. - Le materie di insegnamento sono le seguenti:  
-1° anno:  
-1) Anatomia normale e patologica del cuore e dei vasi;  
-2) Fisiopatologia dell'apparato cardiovascolare;  
+Art. 218.  
+  
+E' istituita una Scuola di specializzazione in anestesiologia per il conferimento del diploma di "specialista in anestesiologia".  
+  
+Art. 219.  
+  
+Il numero massimo degli allievi da ammettere ogni anno accademico e' di dieci; potranno eventualmente ottenere un'abbreviazione di corso coloro i quali siano in possesso di speciali titoli.  
+  
+Art. 220.  
+  
+La Scuola ha la durata di due anni.  
+Le materie d'insegnamento sono:  
+1° Corso:  
+1) Anatomia;  
+2) Fisiologia;  
 3) Farmacologia;  
-4) Semeiotica fisica dell'apparato cardiovascolare.  
-2° anno:  
-1) Semeiotica radiologica dell'apparato cardiovascolare;  
-2) Elettrocardiografia;  
-3) Semeiotica strumentale speciale cardiologica e angiologica;  
-4) Patologia speciale medica dell'apparato cardiovascolare.  
-3° anno:  
-1) Clinica delle malattie del cuore e dei vasi;  
-2) Terapia medica dell'apparato cardiovascolare;  
-3) Terapia chirurgica dell'apparato cardiovascolare.  
-Art. 368. - I corsi di insegnamento sopraindicati sono tutti obbligatori e saranno completati da corsi di esercitazioni pratiche ed alla fine di ogni anno di corso avranno luogo i relativi esami speciali.  
-Al termine dei tre anni di corso per conseguire il diploma di specializzazione gli iscritti dovranno presentare una dissertazione scritta elaborata nell'Istituto di clinica medica su argomenti di cardiologia o di malattie vascolari e dovranno sostenere un esame pratico dinanzi ad una Commissione formata da cinque insegnanti della scuola e presieduta dal direttore della scuola.  
+4) Tecnica anestesiologica generale e speciale (corso biennale).  
+2° Corso:  
+5) Patologia applicata all'anestesia;  
+6) Trattamento pre e post operatorio e rianimazione.  
+  
+Art. 221.  
+  
+Gli esami di profitto sono dati per singole materie alla fine di ogni anno di corso; non sara' concessa la iscrizione al secondo anno senza aver superato tutte le materie del primo corso.  
+  
+Art. 222.  
+  
+Alla fine del corso gli iscritti oltre a presentare la dissertazione scritta e a sostenere la relativa discussione a norma dell'art. 172 dello statuto, devono sostenere una prova pratica sull'ammalato.  
+  
+Art. 223.  
+  
+Per quanto non previsto dal presente statuto valgono le norme generali relative alle Scuole di specializzazione, contenute nel vigente statuto.  
+  
+Scuola di perfezionamento in malattie infettive.  
+  
+Art. 224.  
+  
+La Scuola di perfezionamento in clinica delle malattie infettive La la durata di anni tre; ha sede presso la clinica delle malattie infettive e tropicali dell'Universita' ed e' diretta dal direttore della clinica stessa.  
+  
+Art. 225.  
+  
+Gli iscritti hanno l'obbligo di prestare servizio esclusivamente e continuativamente nella clinica, in qualita' di medici interni, osservando l'orario di servizio del personale assistente e partecipando al servizio di guardia per tutta la durata del corso; potranno soltanto godere di un mese di vacanze estive per anno; saranno divisi in gruppi ed addetti alternativamente ai vari reparti di infermeria e di laboratorio.  
+  
+Art. 226.  
+  
+Il numero massimo degli iscritti sara' stabilito anno per anno dal direttore della Scuola. L'ammissione sara' subordinata all'esito di un concorso che potra' comprendere prove scritte e orali. A parita' di voti saranno preferiti i concorrenti che abbiano maggiori titoli.  
+  
+Art. 227.  
+  
+Ordinamento degli studi:  
+1° Anno:  
+Batteriologia ed immunologia;  
+Parassitologia;  
+Semeiotica;  
+Elementi di anatomia patologica;  
+Elementi di radiognostica nelle malattie infettive.  
+2° Anno:  
+Igiene e profilassi;  
+Diagnostica di laboratorio;  
+Diagnostica clinica delle malattie infettive;  
+Terapia generale e speciale delle malattie infettive.  
+3° Anno:  
+le malattie infettive in pediatria le malattie infettive in otorinolaringoiatria;  
+le malattie infettive in dermatologia le malattie infettive in neuropatologia,.  
+Durante il 2° ed il 3° corso gli specializzandi presteranno, in gruppi per periodi di tre mesi, servizio presso l'Ospedale Cotugno.  
+  
+Art. 228.  
+  
+Al termine di ogni corso lo specializzando sosterra' i relativi esami dinanzi ad una Commissione costituita dai rispettivi insegnanti ed il risultato favorevole degli esami costituisce elemento indispensabile per essere ammessi al corso successivo.  
+Al termine della Scuola, lo specializzando presentera' una dissertazione scritta su un tema clinico e su tale argomento sosterra' un esame dinanzi ad una Commissione costituita da cinque insegnanti della Scuola.  
+  
+Art. 229.  
+  
+Abbreviazioni dei corsi saranno concesse esclusivamente su proposta del Rettore della Scuola, ad assistenti e aiuti universitari di ruolo della materia, oppure di ospedali di 1ª categoria, assunti in reparti di malattie infettive in seguito a regolare concorso. Tale abbreviazione sara' concessa per un numero di anni non eccedente quello del servizio prestato e con l'obbligo comunque di sostenere gli esami dei corsi da cui si e' stati dispensati.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1957
+### Dato a Roma, addi' 18 aprile 1951
 
-GRONCHI MORO
+EINAUDI GONELLA
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: PICCIONI
 
-Registrato alla Corte dei conti, addi' 26 marzo 1958
+Registrato alla Corte dei conti, addi' 12 settembre 1951
 
-Atti del Governo, registro n. 111, foglio n. 165. - RELLEVA
+Atti del Governo, registro n. 42, foglio n. 34. - CARLOMAGNO

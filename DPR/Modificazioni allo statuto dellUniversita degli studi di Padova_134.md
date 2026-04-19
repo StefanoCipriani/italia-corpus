@@ -1,90 +1,42 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 694
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1958 n. 628
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 694
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1958 n. 628
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Dopo l'art. 394 con il conseguente spostamento degli articoli successivi e' inserita la seguente nuova scuola:   
+Decreta:  
   
-Scuola di specializzazione in farmacia ospedaliera   
-  
-Art. 395. - La scuola di specializzazione in farmacia ospedaliera ha l'intento di assicurare ai laureati in discipline farmaceutiche (farmacia e chimica e tecnologia farmaceutiche) la possibilita' di un perfezionamento nelle materie necessarie ad esercitare la loro attivita' nella farmacia ospedaliera.   
-Art. 396. - La scuola rilascia il diploma di specializzazione in farmacia ospedaliera al termine del corso di studi che ha durata biennale.   
-Art. 397. - Alla scuola di specializzazione sono ammessi i laureati in farmacia ed in chimica e tecnologia farmaceutiche.   
-L'ammissione alla scuola e' condizionata al superamento dell'esame di istituzioni di matematiche (programma del corso di laurea in chimica e tecnologia farmaceutiche), ove questo non sia stato superato nel corso degli studi universitari.   
-Art. 398. - Gli insegnamenti della scuola sono i seguenti:   
-1° Anno:   
-1) matematica e informatica;   
-2) patologia generale (\*);   
-3) biofarmaceutica e farmacocinetica I;   
-4) tossicita', interazioni, effetti secondari dei farmaci;   
-5) radiochimica e radiobiologia;   
-6) microbiologia e igiene (\*);   
-7) tecnologia della preparazione magistrali.   
-2° Anno:   
-1) biofarmaceutica e farmacocinetica II;   
-2) immunochimica;   
-3) farmacia clinica;   
-4) documentazione e informazione sui farmaci;   
-5) officina galenica;   
-6) chimica degli alimenti (\*);   
-7) economia, organizzazione e legislazione ospedaliera.   
-Gli insegnamenti comprendono lezioni teoriche ed esercitazioni pratiche.   
-Ove gli esami delle materie segnate con asterisco non fossero stati superati durante gli studi universitari; queste materie dovranno essere seguite in un regolare corso universitario.   
-Esse sono oggetto d'esame, al pari di tutte le altre materie comprese nel piano di studi della scuola. E' prevista la possibilita' di insegnamento e di esami integrati.   
-Art. 399. - La scuola e' organizzata dalla facolta' di farmacia dell'Universita' di Padova. Potranno essere invitati a tenere lezioni, conferenze, seminari ed esercitazioni, docenti di altre facolta' o Universita', od esperti, anche dall'estero.   
-La direzione della scuola e' affidata ad un docente di ruolo o fuori ruolo eletto dal consiglio direttivo costituito da cinque docenti nominati dal consiglio di facolta', per la durata di tre anni, scelti fra i docenti di discipline chimico-farmaceutiche (due), farmaco-biologiche (due) e tecnologie (uno).   
-Il direttore ed i membri del consiglio sono rieleggibili. In caso di decadenza, il nuovo membro resta in carica fino alla scadenza del mandato triennale.   
-Art. 400. - Gli incarichi di insegnamento, anche per un limitato numero di lezioni o esercitazioni, sono conferiti dal rettore su proposta del consiglio direttivo della scuola con l'approvazione del senato accademico e del consiglio di amministrazione dell'Universita'.   
-Art. 401. - Le tasse e sopratasse per l'iscrizione alla scuola sono quelle stabilite per la facolta' di farmacia.   
-I contributi a carico degli iscritti dovranno essere fissati annualmente dal consiglio di amministrazione su proposta del consiglio della scuola e verranno resi noti ogni anno con apposito manifesto.   
-Art. 402. - Il numero massimo di iscritti alla scuola e' di quindici per ogni anno di corso. Iscrizioni in numero superiore possono essere ammesse eccezionalmente su parere favorevole del consiglio direttivo della scuola. L'ammissione alla scuola e' decisa dal consiglio direttivo sulla base di un concorso, per esami e per titoli. La frequenza e' obbligatoria sia per le lezioni che per le esercitazioni.   
-Art. 403. - La scuola e' finanziata con le quote di iscrizione e attraverso contributi della Societa' italiana di farmacia ospedaliera e di contributi, lasciti o donazioni di altri enti e privati.   
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Dopo l'art. 207, relativo alla scuola di specializzazione in chimica nucleare, annessa alla Facolta' di scienze matematiche, fisiche e naturali, e con il conseguente spostamento di quelli successivi e' aggiunto il seguente nuovo articolo, concernente corsi di addestramento in chimica nucleare:  
+Art. 208. - La scuola organizza, inoltre, anche "corsi di addestramento" della durata di anni due per laureati in chimica, chimica industriale, ingegneria, matematica e fisica, fisica, scienze geologiche, scienze biologiche, scienze naturali, agraria, medicina, per diplomati degli Istituti tecnici (scuola media superiore) limitatamente agli indirizzi tecnologici e per coloro che dopo conseguito un diploma di scuola media superiore hanno completato i loro studi presso accademie e scuole militari.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 settembre 1980
+### Dato a Roma, addi' 4 maggio 1958
 
-PERTINI SARTI
+GRONCHI MORO
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 27 ottobre 1980
+Registrato alla Corte dei conti, addi' 23 giugno 1958
 
-Registro n. 97 Istruzione, foglio n. 232
+Atti del Governo, registro n. 112, foglio n. 249. - RELLEVA

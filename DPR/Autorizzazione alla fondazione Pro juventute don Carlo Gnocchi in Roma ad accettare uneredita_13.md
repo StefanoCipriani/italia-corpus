@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 maggio 1976 n. 519
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1980 n. 909
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 maggio 1976 n. 519
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1980 n. 909
+==============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un'eredita'.
 ----------------------------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-519. Decreto del Presidente della Repubblica 24 maggio 1976, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dal sig. Tomaso Pirini con testamento olografo 9 dicembre 1963, pubblicato a rogito dott. Sandro Angelini, notaio in Brescia, in data 30 luglio 1973, n. 20345 di repertorio, n. 2722 di raccolta, e registrato a Brescia il 1 agosto 1973, con il n. 4027-71-m in favore dell'istituto dei mutilati don Gnocchi di Milano, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", consistente nell'intero asse ereditario (eccezione fatta per il mobilio, biancheria e vestiario) per un valore di L. 19.516.105.  
+909. Decreto del Presidente della Repubblica 30 ottobre 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla sig.ra Giussani Eva Pierina ved. Merlini con testamento olografo 30 settembre 1972, pubblicato a rogito dott.  
+Pentangelo Lucio, notaio in Seregno (Milano), in data 11 settembre 1975, n. 25008 di repertorio e n. 1589 di raccolta, registrato a Desio (Milano) il 19 settembre 1975 al n. 3446, consistente in beni mobili ed immobili per complessive lire 44.500.000.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 19 luglio 1976  
-Atti di Governo, registro n. 7, foglio n. 85
+Visto, il Guardasigilli: SARTI  
+Registrato alla Corte dei conti, addi' 20 dicembre 1980  
+Registro n. 9 Presidenza, foglio n. 190

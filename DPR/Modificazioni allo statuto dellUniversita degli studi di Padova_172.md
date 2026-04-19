@@ -1,456 +1,118 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1957 n. 1159
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1963 n. 621
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1957 n. 1159
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1963 n. 621
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successivi;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Dopo l'art. 33 sono inseriti i seguenti articoli relativi alla istituzione della scuola di preparazione sindacale, con il conseguente spostamento della numerazione degli articoli successivi.
-
-Scuola di preparazione sindacale
-
-(Scuola diretta a fini speciali)
-
-Art. 34. - Presso la Facolta' di giurisprudenza e' istituita la scuola di preparazione sindacale.
-
-Il direttore della scuola, e' nominato dal rettore, su proposta del Consiglio di facolta'.
-
-Art. 35. - E' titolo di ammissione il diploma di maturita' o di abilitazione rilasciato da Istituto medio superiore d'istruzione.
-
-La durata del corso degli studi e' annuale.
-
-Alla fine degli studi la scuola conferisce un diploma di preparazione sindacale.
-
-Art. 36. - Sono materie d'insegnamento i seguenti corsi semestrali:
-
-1) Elementi di diritto pubblico;
-
-2) Elementi di diritto privato;
-
-3) Elementi di economia politica;
-
-4) Diritto privato del lavoro;
-
-5) Diritto sindacale;
-
-6) Previdenza e assistenza sociale;
-
-7) Storia del sindacalismo;
-
-8) Storia delle dottrine politiche;
-
-9) Organizzazione internazionale del lavoro.
-
-I corsi si svolgono in due semestri successivi.
-
-Per essere ammesso all'esame di diploma lo studente deve aver seguito tutti i corsi e superato l'esame in tutte le materie oggetto dei medesimi.
-
-L'esame di diploma consiste in una discussione orale tendente ad accertare la preparazione complessiva raggiunta dallo studente nelle materie oggetto dei corsi.
-
-Art. 39. - Agli insegnamenti complementari della scuola di statistica, annessa alla Facolta' di giurisprudenza, e' aggiunto quello di: "calcolo delle probabilita': sulle applicazioni statistiche".
-
-Art. 75. - Gli insegnamenti complementari di "istologia ed embriologia generale" e di "anatomia chirurgica e corso di operazioni" del corso di laurea in medicina e chirurgia saranno denominati rispettivamente "istologia ed embriologia con esercitazioni" e "anatomia chirurgica e corso di operazioni con esercitazioni".
-
-Art. 135. - Agli Istituti annessi alla Facolta' di ingegneria e' aggiunto: "l'Istituto di impianti industriali chimici".
-
-Art. 234, relativo all'esame di diploma per gli iscritti alle scuole di perfezionamento, annesse alla Facolta' di medicina e chirurgia, e' cosi' modificato: "L'esame di diploma consiste nella discussione di una dissertazione su un argomento della specialita', a scelta del candidato. La tesi per la dissertazione puo' essere presentata anche sotto forma di dattiloscritto, purche' in veste completa".
-
-Art. 235. - All'elenco delle scuole di perfezionamento, annesse alla Facolta' di medicina e chirurgia, sono aggiunte le seguenti:
-
-21) Scuola di ortopedia e traumatologia, che conferisce il diploma di "specialista in ortopedia e traumatologia".
-
-22) Scuola di preparazione per tecnici di laboratorio di igiene e di microbiologia (scuola a fini speciali).
-
-Art. 236. - Agli insegnamenti del 2° anno della scuola di perfezionamento in neurologia e' aggiunto quello di "elettroencefalografia".
-
-Agli insegnamenti della scuola di perfezionamento di otorinolaringoiatria sono aggiunti i seguenti:
-
-1° anno:
-
-"Nozioni di anatomia patologica in rapporto con l'otorinolaringoiatria (i tumori del naso, della faringe, della laringe e dell'esofago) in sostituzione di "nozioni di patologia generale in rapporto con l'otorinolaringoiatria".
-
-"Nozioni di clinica pediatrica".
-
-3° anno:
-
-"Nozioni di anestesiologia in otorinolaringoiatria".
-
-L'elenco degli insegnamenti della Scuola di perfezionamento in patologia del sangue e degli organi emopoietici e' cosi' modificato:
-
-Scuola di patologia del sangue e degli organi emopoietici
-
-(durata del corso 2 anni).
-
-1° anno:
-
-Nozioni di istologia normale degli organi emopoietici;
-
-Nozioni di fisiologia del sangue e degli organi emopoietici;
-
-Nozioni di biochimica del sangue e degli organi emopoietici;
-
-Anatomia e istologia patologica degli organi emopoietici;
-
-Esercitazioni di morfologia ematica;
-
-Fisiopatologia del sangue e degli organi emopoietici.
-
-2° anno:
-
-Aspetti ematochimici delle emopatie;
-
-Applicazione della tecnica radioscopica nella diagnostica delle emopatie;
-
-Dottrina e tecnica delle emotrasfusioni e di immunoematologia;
-
-Nozioni di ematologia medico-legale;
-
-Emopatie da intossicazione professionale;
-
-Sistematica clinica e terapia delle emopatie.
-
-L'ordinamento della scuola di perfezionamento in ortopedia e traumatologia e della scuola di preparazione per tecnici di laboratorio di igiene e di microbiologia di cui all'art. 235 e' il seguente:
-
-Scuola di ortopedia e traumatologia (durata del corso anni 3)
-
-1° anno:
-
-Anatomia e istologia normale dell'apparato locomotore;
-
-Patologia ortopedica e traumatologica (biennale);
-
-Clinica ortopedica e traumatologica (triennale);
-
-Fondamenti di radiologia, radiodiagnostica e principi di Roentgenterapia (biennale);
-
-Neurologia;
-
-Pediatria;
-
-Clinica chirurgica.
-
-2° anno:
-
-Patologia ortopedica e traumatologica (biennale);
-
-Clinica ortopedica e traumatologica (triennale);
-
-Fondamenti di radiologia, radiodiagnostica e principi di Roentgenterapia (biennale);
-
-Anatomia e istologia patologica dell'apparato locomotore;
-
-Anatomia chirurgica e tecnica operatoria ortopedica e traumatologica (biennale);
-
-Microscopia e chimica clinica.
-
-3° anno:
-
-Clinica ortopedica e traumatologica (triennale);
-
-Anatomia chirurgica e tecnica operatoria ortopedica e traumatologica (biennale);
-
-Protesi ed apparecchi ortopedici;
-
-Fisioterapia;
-
-Infortunistica e medicina delle assicurazioni;
-
-Internato per tre anni in clinica ortopedica con servizio effettivo di assistente volontario.
-
-Scuole dirette a fini speciali
-
-(Scuola di preparazione per tecnici di laboratorio, di igiene e di microbiologia)
-
-a) E' istituita presso l'Istituto di igiene dell'Universita' di Padova, ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1952](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1952~art20), una "Scuola di preparazione per tecnici di laboratorio biologico" che ha lo scopo di preparare adeguatamente personale tecnico in grado di collaborare nella ricerca scientifica e nella indagine sperimentale. La scuola ha indirizzo teorico-pratico.
-
-b) La durata del corso degli studi della scuola di preparazione per tecnici di laboratorio biologico e' di due anni accademici.
-
-E' titolo di ammissione il diploma di scuola media unica, il diploma di avviamento professionale, commerciale o industriale o, agrario o ad altro indirizzo.
-
-c) Al primo anno della Scuola si accede previo esame orale di cultura generale sostenuto davanti ad una Commissione composta dal direttore della scuola e da due membri designati dal Consiglio della Facolta' di medicina e chirurgia e da una prova di lettura di un testo scientifico in lingua francese. L'esame di ammissione avra' luogo entro la prima quindicina del mese di ottobre di ciascun anno, in un giorno stabilito dalla Facolta' di medicina e chirurgia, su proposta del direttore della scuola.
-
-d) Il numero massimo dei partecipanti viene determinato anno per anno dal rettore, su proposta del direttore della scuola.
-
-e) Le domande di iscrizione devono essere corredate dai seguenti documenti:
-
-1) certificato di nascita in carta legale debitamente legalizzato per i nati fuori della giurisdizione di Padova;
-
-2) titolo di studio di scuola media inferiore;
-
-3) tre fotografie di cui una autenticata;
-
-4) quietanza del pagamento della tassa;
-
-5) domanda di iscrizione, al corso in carta legale.
-
-f) Il direttore della scuola e' il direttore dell'Istituto di igiene dell'Universita' di Padova. La scuola e' sotto la vigilanza della Facolta' di medicina e chirurgia. Gli insegnanti della scuola sono proposti dal direttore della stessa, approvati dalla Facolta' di medicina e chirurgia, e nominati dal rettore. Essi possono essere scelti tra i professori ufficiali, tra i liberi docenti, tra gli aiuti ed assistenti della Facolta' di medicina e chirurgia o di altra Facolta' dell'Ateneo o tra persone di riconosciuta competenza anche al di fuori dell'ambito universitario.
-
-g) Le materie di insegnamento sono le seguenti:
-
-1° anno:
-
-1) Organizzazioni di laboratorio;
-
-2) Anatomia e fisiologia umana e comparata;
-
-3) Tecnica istologica;
-
-4) Batteriologia e sierologia (1°);
-
-5) Chimica (1°).
-
-2° anno:
-
-6) Batteriologia e sierologia (2°);
-
-7) Chimica (2°);
-
-8) Parassitologia;
-
-9) Virologia;
-
-10) Fisica tecnica.
-
-Inoltre gli allievi devono compiere un internato nell'Istituto di igiene della durata di due anni, compiendo un tirocinio di quattro mesi per ciascuno dei seguenti reparti:
-
-1) Preparazioni di laboratorio;
-
-2) Laboratorio di chimica;
-
-3) Reparto di batteriologia e parassitologia;
-
-4) Reparto di virologia;
-
-5) Reparto di allevamento animali e prove biologiche;
-
-6) Laboratorio di chimica e fisica applicata.
-
-h) I programmi di insegnamento e gli orari vengono predisposti dal direttore della scuola ed approvati dal Consiglio della Facolta' di medicina e chirurgia.
-
-La sorveglianza degli iscritti per quanto riguarda le attivita' di laboratorio spetta al direttore della scuola.
-
-La frequenza e' obbligatoria. Assenze ingiustificate comportano l'esclusione dal corso.
-
-Per essere ammessi a frequentare il secondo anno gli allievi devono aver sostenuto tutti gli esami del primo corso. Nel caso in cui gli allievi non abbiano superato gli esami prescritti, essi rimarranno nella posizione di fuori corso fino a quando non avranno assolto gli obblighi di cui sopra.
-
-i) Per essere ammessi a sostenere l'esame di diploma, gli allievi dovranno aver seguito i corsi, superato gli esami in tutti gli insegnamenti prescritti ed aver compiuto con esito favorevole tutte le esercitazioni pratiche previste.
-
-l) Le Commissioni per gli esami di profitto sono nominate dal preside della Facolta' di medicina e chirurgia, su proposta del direttore della scuola.
-
-Le Commissioni sono composte di tre membri: dal professore ufficiale della materia, presidente; da un professore ufficiale di materia affine e da un libero docente o cultore della materia. Ogni commissario ha a disposizione dieci punti.
-
-m) L'esame di diploma consiste in un esame orale sui temi trattati durante il corso e in una prova pratica di laboratorio stabilita dalla Commissione esaminatrice.
-
-L'esame di diploma viene sostenuto davanti ad una Commissione di cinque membri scelti tra i docenti della scuola, nominata dal preside della Facolta' di medicina e chirurgia su proposta del direttore della scuola.
-
-Ogni commissario ha a disposizione dieci punti.
-
-I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma, dopo un altro anno di frequenza alla scuola; ma se al secondo esame non sia loro riconosciuta una idoneita' saranno senz'altro esclusi da ulteriori prove.
-
-Agli allievi che avranno superato l'esame finale viene rilasciato il diploma di "tecnico di laboratorio biologico".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 16 ottobre 1957
-
-GRONCHI
-
-MORO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 7 dicembre 1957 Atti del Governo, registro n. 109, foglio n. 80. - RELLEVA
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successivi;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 28 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-28;1058), modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Veduta la [legge 26 luglio 1957, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-07-26;741);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Dopo l'art. 33 sono inseriti i seguenti articoli relativi alla istituzione della scuola di preparazione sindacale, con il conseguente spostamento della numerazione degli articoli successivi.   
+Art. 47. - E' abrogato e sostituito dal seguente:  
+"La Facolta' di lettere e filosofia conferisce:  
+la laurea in lettere;  
+la laurea in lingue e letterature straniere moderne (indirizzo europeo);  
+la laurea in filosofia.  
+Dopo l'art. 49 e con il conseguente spostamento della successiva numerazione e' inserito il seguente nuovo articolo, relativo alla istituzione del corso di laurea in lingue e letterature straniere moderne (indirizzo europeo).  
   
-Scuola di preparazione sindacale   
-(Scuola diretta a fini speciali)   
+Art. 49. - La durata del corso di studi per la laurea in Lingue e letterature straniere moderne e' di quattro anni.  
+Titolo di ammissione e' il diploma di maturita' classica.  
+L'indirizzo e' quello europeo e lo scopo precipuo e' quello di dure una conoscenza non solo pratica ma scientifica, non solo letteraria ma glottologica delle lingue europee moderne.  
+Sono insegnamenti fondamentali:  
+1) Letteratura italiana;  
+2) Letteratura latina;  
+3) Glottologia;  
+4) Una lingua e letteratura straniera moderna;  
+5) Una seconda lingua e letteratura straniera moderna;  
+6) Filologia romanza (o germanica, o slava, o ugro-finnica);  
+7) Storia medioevale;  
+8) Storia moderna;  
+9) Storia dell'arte moderna, (o storia dell'arte medioevale e moderna);  
+10) Geografia.  
+Sono insegnamenti complementari (quando non siano scelti come fondamentali ai su indicati numeri 4), 5) e 6):  
+1) Lingua e letteratura francese;  
+2) Lingua e letteratura spagnola;  
+3) Lingua e letteratura portoghese;  
+4) Lingua e letteratura romena;  
+5) Lingua e letteratura inglese;  
+6) Lingua e letteratura tedesca;  
+7) Lingua e letteratura olandese e fiamminga;  
+8) Lingue e letterature scandinave;  
+9) Lingua e letteratura russa;  
+10) Lingua e letteratura polacca;  
+11) Lingua e letteratura cecoslovacca;  
+12) Lingua e letteratura serbo-croata;  
+13) Lingua e letteratura slovena;  
+14) Lingua e letteratura bulgara;  
+15) Lingua e letteratura ungherese;  
+16) Lingua e letteratura neo-greca;  
+17) Lingua e letteratura albanese;  
+18) Una lingua e letteratura moderna dell'Asia e dell'Africa;  
+19) Filologia romanza;  
+20) Filologia germanica;  
+21) Filologia slava;  
+22) Filologia ugro-finnica;  
+23) Letteratura nord-americana;  
+24) Letteratura ispano-americana;  
+25) Storia della lingua italiana;  
+26) Storia, della letteratura italiana moderna e contemporanea;  
+27) Storia delle tradizioni popolari;  
+28) Storia dell'arte medioevale;  
+29) Storia della musica;  
+30) Storia del teatro e dello spettacolo;  
+31) Letteratura greca;  
+32) Lingua e letteratura latina medioevale;  
+33) Storia e filologia bizantina (o Filologia bizantina);  
+34) Storia romana;  
+35) Storia greca;  
+36) Storia della filosofia;  
+37) Storia della filosofia moderna e contemporanea.  
   
-Art. 34. - Presso la Facolta' di giurisprudenza e' istituita la scuola di preparazione sindacale.   
-Il direttore della scuola, e' nominato dal rettore, su proposta del Consiglio di facolta'.   
-Art. 35. - E' titolo di ammissione il diploma di maturita' o di abilitazione rilasciato da Istituto medio superiore d'istruzione.   
-La durata del corso degli studi e' annuale.   
-Alla fine degli studi la scuola conferisce un diploma di preparazione sindacale.   
-Art. 36. - Sono materie d'insegnamento i seguenti corsi semestrali:   
-1) Elementi di diritto pubblico;   
-2) Elementi di diritto privato;   
-3) Elementi di economia politica;   
-4) Diritto privato del lavoro;   
-5) Diritto sindacale;   
-6) Previdenza e assistenza sociale;   
-7) Storia del sindacalismo;   
-8) Storia delle dottrine politiche;   
-9) Organizzazione internazionale del lavoro.   
-I corsi si svolgono in due semestri successivi.   
-Per essere ammesso all'esame di diploma lo studente deve aver seguito tutti i corsi e superato l'esame in tutte le materie oggetto dei medesimi.   
-L'esame di diploma consiste in una discussione orale tendente ad accertare la preparazione complessiva raggiunta dallo studente nelle materie oggetto dei corsi.   
-Art. 39. - Agli insegnamenti complementari della scuola di statistica, annessa alla Facolta' di giurisprudenza, e' aggiunto quello di: "calcolo delle probabilita': sulle applicazioni statistiche".   
-Art. 75. - Gli insegnamenti complementari di "istologia ed embriologia generale" e di "anatomia chirurgica e corso di operazioni" del corso di laurea in medicina e chirurgia saranno denominati rispettivamente "istologia ed embriologia con esercitazioni" e "anatomia chirurgica e corso di operazioni con esercitazioni".   
-Art. 135. - Agli Istituti annessi alla Facolta' di ingegneria e' aggiunto: "l'Istituto di impianti industriali chimici".   
-Art. 234, relativo all'esame di diploma per gli iscritti alle scuole di perfezionamento, annesse alla Facolta' di medicina e chirurgia, e' cosi' modificato: "L'esame di diploma consiste nella discussione di una dissertazione su un argomento della specialita', a scelta del candidato. La tesi per la dissertazione puo' essere presentata anche sotto forma di dattiloscritto, purche' in veste completa".   
-Art. 235. - All'elenco delle scuole di perfezionamento, annesse alla Facolta' di medicina e chirurgia, sono aggiunte le seguenti:   
-21) Scuola di ortopedia e traumatologia, che conferisce il diploma di "specialista in ortopedia e traumatologia".   
-22) Scuola di preparazione per tecnici di laboratorio di igiene e di microbiologia (scuola a fini speciali).   
-Art. 236. - Agli insegnamenti del 2° anno della scuola di perfezionamento in neurologia e' aggiunto quello di "elettroencefalografia".   
-Agli insegnamenti della scuola di perfezionamento di otorinolaringoiatria sono aggiunti i seguenti:   
-1° anno:   
-"Nozioni di anatomia patologica in rapporto con l'otorinolaringoiatria (i tumori del naso, della faringe, della laringe e dell'esofago) in sostituzione di "nozioni di patologia generale in rapporto con l'otorinolaringoiatria".   
-"Nozioni di clinica pediatrica".   
-3° anno:   
-"Nozioni di anestesiologia in otorinolaringoiatria".   
-L'elenco degli insegnamenti della Scuola di perfezionamento in patologia del sangue e degli organi emopoietici e' cosi' modificato:   
-  
-Scuola di patologia del sangue e degli organi emopoietici   
-(durata del corso 2 anni).   
-  
-1° anno:   
-Nozioni di istologia normale degli organi emopoietici;   
-Nozioni di fisiologia del sangue e degli organi emopoietici;   
-Nozioni di biochimica del sangue e degli organi emopoietici;   
-Anatomia e istologia patologica degli organi emopoietici;   
-Esercitazioni di morfologia ematica;   
-Fisiopatologia del sangue e degli organi emopoietici.   
-2° anno:   
-Aspetti ematochimici delle emopatie;   
-Applicazione della tecnica radioscopica nella diagnostica delle emopatie;   
-Dottrina e tecnica delle emotrasfusioni e di immunoematologia;   
-Nozioni di ematologia medico-legale;   
-Emopatie da intossicazione professionale;   
-Sistematica clinica e terapia delle emopatie.   
-L'ordinamento della scuola di perfezionamento in ortopedia e traumatologia e della scuola di preparazione per tecnici di laboratorio di igiene e di microbiologia di cui all'art. 235 e' il seguente:   
-  
-Scuola di ortopedia e traumatologia (durata del corso anni 3)   
-  
-1° anno:   
-Anatomia e istologia normale dell'apparato locomotore;   
-Patologia ortopedica e traumatologica (biennale);   
-Clinica ortopedica e traumatologica (triennale);   
-Fondamenti di radiologia, radiodiagnostica e principi di Roentgenterapia (biennale);   
-Neurologia;   
-Pediatria;   
-Clinica chirurgica.   
-2° anno:   
-Patologia ortopedica e traumatologica (biennale);   
-Clinica ortopedica e traumatologica (triennale);   
-Fondamenti di radiologia, radiodiagnostica e principi di Roentgenterapia (biennale);   
-Anatomia e istologia patologica dell'apparato locomotore;   
-Anatomia chirurgica e tecnica operatoria ortopedica e traumatologica (biennale);   
-Microscopia e chimica clinica.   
-3° anno:   
-Clinica ortopedica e traumatologica (triennale);   
-Anatomia chirurgica e tecnica operatoria ortopedica e traumatologica (biennale);   
-Protesi ed apparecchi ortopedici;   
-Fisioterapia;   
-Infortunistica e medicina delle assicurazioni;   
-Internato per tre anni in clinica ortopedica con servizio effettivo di assistente volontario.   
-  
-Scuole dirette a fini speciali   
-(Scuola di preparazione per tecnici di laboratorio, di igiene e di microbiologia)   
-  
-a) E' istituita presso l'Istituto di igiene dell'Universita' di Padova, ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1952](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1952~art20), una "Scuola di preparazione per tecnici di laboratorio biologico" che ha lo scopo di preparare adeguatamente personale tecnico in grado di collaborare nella ricerca scientifica e nella indagine sperimentale. La scuola ha indirizzo teorico-pratico.   
-b) La durata del corso degli studi della scuola di preparazione per tecnici di laboratorio biologico e' di due anni accademici.   
-E' titolo di ammissione il diploma di scuola media unica, il diploma di avviamento professionale, commerciale o industriale o, agrario o ad altro indirizzo.   
-c) Al primo anno della Scuola si accede previo esame orale di cultura generale sostenuto davanti ad una Commissione composta dal direttore della scuola e da due membri designati dal Consiglio della Facolta' di medicina e chirurgia e da una prova di lettura di un testo scientifico in lingua francese. L'esame di ammissione avra' luogo entro la prima quindicina del mese di ottobre di ciascun anno, in un giorno stabilito dalla Facolta' di medicina e chirurgia, su proposta del direttore della scuola.   
-d) Il numero massimo dei partecipanti viene determinato anno per anno dal rettore, su proposta del direttore della scuola.   
-e) Le domande di iscrizione devono essere corredate dai seguenti documenti:   
-1) certificato di nascita in carta legale debitamente legalizzato per i nati fuori della giurisdizione di Padova;   
-2) titolo di studio di scuola media inferiore;   
-3) tre fotografie di cui una autenticata;   
-4) quietanza del pagamento della tassa;   
-5) domanda di iscrizione, al corso in carta legale.   
-f) Il direttore della scuola e' il direttore dell'Istituto di igiene dell'Universita' di Padova. La scuola e' sotto la vigilanza della Facolta' di medicina e chirurgia. Gli insegnanti della scuola sono proposti dal direttore della stessa, approvati dalla Facolta' di medicina e chirurgia, e nominati dal rettore. Essi possono essere scelti tra i professori ufficiali, tra i liberi docenti, tra gli aiuti ed assistenti della Facolta' di medicina e chirurgia o di altra Facolta' dell'Ateneo o tra persone di riconosciuta competenza anche al di fuori dell'ambito universitario.   
-g) Le materie di insegnamento sono le seguenti:   
-1° anno:   
-1) Organizzazioni di laboratorio;   
-2) Anatomia e fisiologia umana e comparata;   
-3) Tecnica istologica;   
-4) Batteriologia e sierologia (1°);   
-5) Chimica (1°).   
-2° anno:   
-6) Batteriologia e sierologia (2°);   
-7) Chimica (2°);   
-8) Parassitologia;   
-9) Virologia;   
-10) Fisica tecnica.   
-Inoltre gli allievi devono compiere un internato nell'Istituto di igiene della durata di due anni, compiendo un tirocinio di quattro mesi per ciascuno dei seguenti reparti:   
-1) Preparazioni di laboratorio;   
-2) Laboratorio di chimica;   
-3) Reparto di batteriologia e parassitologia;   
-4) Reparto di virologia;   
-5) Reparto di allevamento animali e prove biologiche;   
-6) Laboratorio di chimica e fisica applicata.   
-h) I programmi di insegnamento e gli orari vengono predisposti dal direttore della scuola ed approvati dal Consiglio della Facolta' di medicina e chirurgia.   
-La sorveglianza degli iscritti per quanto riguarda le attivita' di laboratorio spetta al direttore della scuola.   
-La frequenza e' obbligatoria. Assenze ingiustificate comportano l'esclusione dal corso.   
-Per essere ammessi a frequentare il secondo anno gli allievi devono aver sostenuto tutti gli esami del primo corso. Nel caso in cui gli allievi non abbiano superato gli esami prescritti, essi rimarranno nella posizione di fuori corso fino a quando non avranno assolto gli obblighi di cui sopra.   
-i) Per essere ammessi a sostenere l'esame di diploma, gli allievi dovranno aver seguito i corsi, superato gli esami in tutti gli insegnamenti prescritti ed aver compiuto con esito favorevole tutte le esercitazioni pratiche previste.   
-l) Le Commissioni per gli esami di profitto sono nominate dal preside della Facolta' di medicina e chirurgia, su proposta del direttore della scuola.   
-Le Commissioni sono composte di tre membri: dal professore ufficiale della materia, presidente; da un professore ufficiale di materia affine e da un libero docente o cultore della materia. Ogni commissario ha a disposizione dieci punti.   
-m) L'esame di diploma consiste in un esame orale sui temi trattati durante il corso e in una prova pratica di laboratorio stabilita dalla Commissione esaminatrice.   
-L'esame di diploma viene sostenuto davanti ad una Commissione di cinque membri scelti tra i docenti della scuola, nominata dal preside della Facolta' di medicina e chirurgia su proposta del direttore della scuola.   
-Ogni commissario ha a disposizione dieci punti.   
-I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma, dopo un altro anno di frequenza alla scuola; ma se al secondo esame non sia loro riconosciuta una idoneita' saranno senz'altro esclusi da ulteriori prove.   
-Agli allievi che avranno superato l'esame finale viene rilasciato il diploma di "tecnico di laboratorio biologico".   
+Lo studente dovra' seguire i corsi e sostenere gli esami in tutti gli insegnamenti fondamentali e in tre insegnamenti da lui scelti fra i complementari. Gli esami dei corsi pluriennali devono essere sostenuti annualmente.  
+Uno degli insegnamenti complementari potra' essere sostituito dallo studente con una disciplina di altri corsi di studio della stessa o di diversa Facolta'.  
+L'insegnamento della lingua e letteratura straniera moderna, alla quale lo studente intende principalmente dedicarsi, dovra' essere seguito per tutti i quattro anni alla fine di ciascuno dei quali egli sara' sottoposto a prove scritte, di anno in anno gradualmente progressive.  
+Dovranno poi essere seguiti per due anni l'insegnamento della filologia a cui quella stessa prima lingua si ricollega e l'insegnamento della seconda lingua e letteratura straniera moderna, prescelta.  
+Due altri insegnamenti fondamentali dovranno essere seguiti per un biennio. Lo studente potra' poi seguire per un biennio anche un altro insegnamento, ed in tal caso potra' ridurre da tre a due gli insegnamenti complementari di sua scelta.  
+Gli esami di Letteratura italiana e di Letteratura latina comprendono una prova scritta preliminare.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e in tutti gli altri insegnamenti compresi nel piano di studio approvato dal preside.  
+Gli studenti devono iscriversi ai lettorati delle lingue quadriennali e biennali.  
+Se la lingua quadriennale scelta e' francese, spagnolo o romeno, la filologia biennale deve essere la filologia romanza; se la lingua biennale scelta e': tedesco, inglese, olandese, o fiammingo, una delle materie complementari a scelta dovra' essere la filologia germanica; se e' invece una lingua slava, la filologia slava, e cosi' parallelamente sempre la filologia che e' biennale per la lingua quadriennale.  
+Se la lingua quadriennale scelta e': inglese, tedesco, olandese, o fiammingo, la filologia biennale e' quella germanica; se la lingua biennale e': francese, spagnolo o romeno, una delle materie complementari a scelta, dovra' essere la filologia romanza; se la materia quadriennale e' inglese, si raccomanda la filologia romanza anche se la seconda lingua biennale e' diversa dalle romanze.  
+Se la lingua quadriennale scelta e': la russa, polacca, serbo, croata (eventualmente ceca, bulgara), la filologia biennale e' la slava, ma si raccomanda che fra le materie complementari a scelta sia presa la filologia romanza a meno che la seconda lingua non sia una del gruppo germanico, per cui e' raccomandabile la filologia germanica.  
+Se la lingua quadriennale scelta e': l'ungherese. la filologia biennale e' l'ugro-finnica, ma si raccomanda di scegliere fra le materie complementari la. filologia romanza, a meno che la seconda lingua non sia una del gruppo germanico, per cui e' raccomandabile la filologia germanica.  
+Se la lingua quadriennale scelta e': la neo-greca, la filologia biennale e' la bizantina, ma si raccomanda che fra le materie complementari vengano scelte la filologia romanza e la letteratura greca.  
+Se la lingua quadriennale scelta e': l'albanese, la filologia, biennale e' la romanza, ma si raccomanda che fra le materie complementari siano incluse la filologia slava e la filologia bizantina.  
+La tesi di laurea deve essere svolta in una delle letterature quadriennali e deve essere scritta nella lingua rispettiva. Nel caso che questa non sia il francese, spagnolo, tedesco o inglese, deve essere accompagnata da un largo riassunto in italiano.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 ottobre 1957
+### Dato a Roma, addi' 14 marzo 1963
 
-GRONCHI MORO
+SEGNI GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: Bosco
 
-Registrato alla Corte dei conti, addi' 7 dicembre 1957
+Registrato alla Corte dei conti, addi' 29 aprile 1963
 
-Atti del Governo, registro n. 109, foglio n. 80. - RELLEVA
+Atti del Governo, registro n. 168, foglio n. 98. - VILLA

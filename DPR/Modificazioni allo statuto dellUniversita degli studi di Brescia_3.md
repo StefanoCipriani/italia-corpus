@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1986 n. 928
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 agosto 1986 n. 750
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1986 n. 928
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 agosto 1986 n. 750
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Brescia.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Brescia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Brescia, approvato con [decreto del Presidente della Repubblica 27 ottobre 1983, n. 844](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1983-10-27;844), e modificato con [decreto del Presidente della Repubblica 31 ottobre 1984, n. 836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1984-10-31;836), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Brescia, approvato con [decreto del Presidente della Repubblica 27 ottobre 1983, n. 844](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1983-10-27;844), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,15 +18,25 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 271](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;271);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
 Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+Considerato che e' tuttora in atto la sperimentazione organizzativa e didattica di cui agli [articoli 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art81) e [93 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art93);
+
+Considerato che le tabelle dell'ordinamento didattico universitario relative ai corsi di laurea sono in fase di riordinamento per effetto di apposite commissioni di studio, e che anzi alcune tabelle sono state gia' riordinate;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Rilevata la necessita' di accogliere la richiesta dell'Universita' di Brescia di istituire il corso di laurea in ingegneria civile - sezione edile, allo scopo di riequilibrare le iscrizioni presso gli omonimi corsi di laurea degli atenei viciniori, al fine di assicurare una migliore formazione degli studenti;
+
+Rilevata, quindi, la necessita' di apportare le modifiche proposte in deroga al termine triennale di cui all'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 --------
@@ -38,92 +48,74 @@ Articolo unico
 
   
   
-Dopo l'articolo 132 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in otorinolaringoiatria:   
+Nell'art. 34, relativo alla facolta' di ingegneria, il secondo comma e' cosi' sostituito:   
   
-Scuola di specializzazione in otorinolaringoiatria   
-Art. 133. - E' istituita la scuola di specializzazione in otorinolaringoiatria presso l'Universita' degli studi di Brescia.   
-La scuola ha lo scopo di insegnare e approfondire gli studi nel campo della otorinolaringoiatria e di fornire le competenze professionali necessarie per il conseguimento del diploma che legittima l'assunzione della qualifica di specialista in otorinolaringoiatria.   
-La scuola rilascia il titolo di specialista in otorinolaringoiatria.   
-Art. 134. - La scuola ha la durata di quattro anni.   
-Ciascun anno di corso prevede ottocento ore di insegnamento e di attivita' pratiche guidate.   
-In base alle strutture ed attrezzature disponibili, la scuola e' in grado di accettare il numero massimo di iscritti determinato in quattro per ciascun anno di corso, per un totale di sedici specializzandi.   
-Art. 135. - Per l'attivazione delle attivita' didattiche programmate dal consiglio della scuola provvede la facolta' di medicina e chirurgia.   
-Art. 136. - Sono ammessi alle prove per ottenere l'iscrizione i laureati in medicina e chirurgia.   
-Per l'iscrizione alla scuola e' richiesto il possesso del diploma di abilitazione all'esercizio della professione.   
-Art. 137. - La scuola comprende sette aree di insegnamento e tirocinio professionale:   
-a) area delle scienze basiche fisiche;   
-b) area delle scienze basiche biologiche;   
-c) area clinica;   
-d) area diagnostica;   
-e) area terapeutica;   
-f) area delle scienze correlate;   
-g) area medico-legale e sociale.   
-Art. 138. - Gli insegnamenti relativi a ciascuna area didattica e formativa professionale sono i seguenti:   
-a) Area delle scienze basiche fisiche:   
-informatica medica e strumentazione biomedica.   
-b) Area delle scienze basiche biologiche:   
-anatomia, istologia ed embriologia;   
-fisiologia.   
-c) Area clinica:   
-patologia ORL e cervico-facciale;   
-patologia e clinica ORL e cervico-facciale;   
-ORL pediatrica;   
-audiologia;   
-foniatria.   
-d) Area diagnostica:   
-semeiotica ORL;   
-anatomia e istologia patologica;   
-patologia clinica;   
-otoneurologia;   
-audiometria.   
-e) Area terapeutica:   
-terapia medica;   
-tecniche operatorie otologiche;   
-tecniche operatorie faringologiche e cervicali;   
-tecniche operatorie ORL maxillo-facciali;   
-chirurgia plastica;   
-tracheobroncoscopia;   
-anestesiologia.   
-f) Area delle scienze correlate:   
-neuropatologia;   
-oculistica;   
-radiologia;   
-pediatria.   
-g) Area medico-legale e sociale:   
-medicina legale e infortunistica;   
-ORL preventiva e sociale.   
-Art. 139. - L'attivita' didattica comprende ogni anno ottocento ore di didattica formale e di tirocinio professionale guidato. Essa e' organizzata in una attivita' didattica teorico-pratica comune per tutti gli studenti (quattrocento ore come di seguito ripartite) ed in una attivita' didattica elettiva, prevalentemente di carattere tecnico-applicativo, di ulteriori quattrocento ore rivolta all'approfondimento del curriculum corrispondente ad uno dei settori formativo-professionali (monte ore elettivo).   
-La frequenza nelle diverse aree avviene pertanto come di seguito specificato:   
+I corsi di laurea in ingegneria meccanica ed in ingegneria civile - sezione edile, comprendono un numero di trenta insegnamenti, divisi in insegnamenti obbligatori per tutti gli studenti iscritti ai corsi e insegnamenti da scegliersi entro il gruppo di materie indicate in apposito elenco stabilito nello statuto.   
   
-1° Anno:   
-Scienze basiche fisiche (ore 50):   
-informatica medica e strumentazione biomedica. . . . . . . . . ore 50 Scienze basiche biologiche (ore 50):   
-anatomia, istologia ed embriologia . . . . . . . . . . . . . . ore 30 fisiologia . . . . . . . . . . . . . . . . . . . . . . . . . . ore 20 Clinica (ore 100):   
-patologia ORL e cervico-facciale. . . . . . . . . . . . . . . ore 100 Diagnostica (ore 200):   
-semeiotica ORL. . . . . . . . . . . . . . . . . . . . . . . . ore 175 anatomia e istologia patologica. . . . . . . . . . . . . . . . ore 25 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 2° Anno:   
-Clinica (ore 200):   
-patologia e clinica ORL e cervico-facciale. . . . . . . . . . ore 200 Diagnostica (ore 100):   
-otoneurologia. . . . . . . . . . . . . . . . . . . . . . . . . ore 30 patologia clinica. . . . . . . . . . . . . . . . . . . . . . . ore 30 audiometria. . . . . . . . . . . . . . . . . . . . . . . . . . ore 40 Terapeutica (ore 100):   
-tracheobroncoscopia. . . . . . . . . . . . . . . . . . . . . . ore 50 anestesiologia . . . . . . . . . . . . . . . . . . . . . . . . ore 50 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 3° Anno:   
-Clinica (ore 200):   
-patologia e clinica ORL e cervico-facciale. . . . . . . . . . ore 100 audiologia . . . . . . . . . . . . . . . . . . . . . . . . . . ore 50 foniatria. . . . . . . . . . . . . . . . . . . . . . . . . . . ore 25 ORL pediatrica . . . . . . . . . . . . . . . . . . . . . . . . ore 25 Terapeutica (ore 150):   
-tecniche operatorie faringolaringee e cervicali . . . . . . . ore 100 terapia medica . . . . . . . . . . . . . . . . . . . . . . . . ore 50 Scienze correlate (ore 50):   
-oculistica . . . . . . . . . . . . . . . . . . . . . . . . . . ore 20 radiologia . . . . . . . . . . . . . . . . . . . . . . . . . . ore 30 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 4° Anno:   
-Terapeutica (ore 350):   
-tecniche operatorie otologiche. . . . . . . . . . . . . . . . ore 175 tecniche operatorie ORL maxillo-facciali. . . . . . . . . . . ore 150 chirurgia plastica . . . . . . . . . . . . . . . . . . . . . . ore 25 Scienze correlate (ore 25):   
-neuropatologia . . . . . . . . . . . . . . . . . . . . . . . . ore 15 pediatria. . . . . . . . . . . . . . . . . . . . . . . . . . . ore 10 Medico-legale e sociale (ore 25):   
-medicina legale e infortunistica in ORL. . . . . . . . . . . . ore 10 ORL preventiva e sociale . . . . . . . . . . . . . . . . . . . ore 15 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
-  
-Art. 140. - Durante i quattro anni di corso e' richiesta la frequenza nei reparti di degenza e nei servizi specialistici di diagnosi e cura seguenti: audiologico, otoneurologico, foniatrico, tracheobroncoscopico, chirurgico dell'istituto sede della scuola.   
-La frequenza nelle varie ore per complessive ottocento ore annue, compreso il monte ore elettivo di quattrocento ore annue, avverra' secondo delibera del consiglio della scuola, tale da assicurare ad ogni specializzando un adeguato periodo di esperienza e di formazione professionale.   
-Il consiglio della scuola ripartira' annualmente il monte ore elettivo.   
-Il consiglio della scuola predispone apposito libretto di formazione, che consenta allo specializzando ed al consiglio stesso il controllo dell'attivita' svolta e dell'acquisizione dei progressi compiuti.   
+Nell'art. 36, il primo comma e' soppresso e cosi' sostituito:   
+Ciascun corso di laurea si articola:   
+in un biennio propedeutico comune ad entrambi i corsi di laurea;   
+in un triennio di applicazione.   
+Nell'art. 38, con il conseguente scorrimento della numerazione degli articoli successivi, e' inserito il seguente articolo relativo al triennio di applicazione del corso di laurea in ingegneria civile - sezione edile:   
+Art. 39. - Insegnamenti del triennio di applicazione in ingegneria civile - sezione edile:   
+fisica tecnica;   
+elettrotecnica;   
+disegno II (civili);   
+scienza delle costruzioni;   
+meccanica applicata alle macchine e macchine;   
+idraulica;   
+topografia;   
+architettura e composizione architettonica;   
+architettura tecnica;   
+tecnologie dei materiali e chimica applicata;   
+scienza delle costruzioni II;   
+tecnica delle costruzioni;   
+architettura e composizione architettonica II;   
+conservazione edilizia e tecnologie del restauro;   
+urbanistica.   
+Ai predetti insegnamenti e' da aggiungere un gruppo a scelta di sei insegnamenti costituenti indirizzi di specializzazione che il consiglio di facolta' indichera' anno per anno nel piano ufficiale degli studi.   
+All'art. 39, che per effetto della disposizione di cui sopra e' divenuto art. 40, sono aggiunti i seguenti insegnamenti:   
+infrastrutture dei trasporti;   
+geotecnica;   
+ingegneria sismica;   
+ingegneria sanitaria;   
+tecnica delle fondazioni;   
+calcolo automatico delle strutture;   
+instabilita' delle strutture:   
+dinamica delle strutture;   
+statica delle strutture prefabbricate;   
+costruzioni in acciaio;   
+consolidamento e adattamento degli edifici;   
+restauro urbano e ambientale;   
+elementi costruttivi;   
+tecnica del restauro;   
+architettura tecnica (impianti) II;   
+ergotecnica edile;   
+unificazione edilizia e prefabbricazione;   
+costruzioni in cemento armato e cemento armato precompresso; impianti tecnici per l'edilizia;   
+costruzioni idrauliche;   
+caratteri distributivi degli edifici;   
+regolamentazione edilizia e urbanistica;   
+storia dell'architettura e dell'urbanistica;   
+caratteri dell'architettura contemporanea;   
+caratteri stilistici e costruttivi dei monumenti;   
+urbanistica;   
+tecnica delle analisi territoriali;   
+analisi delle strutture territoriali;   
+disegno e comunicazione visiva;   
+fotogrammetria;   
+applicazioni di geometria descrittiva;   
+metodi di osservazione e misura;   
+materie giuridiche;   
+diritto e legislazione urbanistica ed edilizia;   
+estimo ed esercizio professionale;   
+programmazione e costi per l'edilizia.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 ottobre 1986
+### Dato a Roma, addi' 29 agosto 1986
 
 COSSIGA
 
@@ -131,6 +123,6 @@ FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: ROGNONI
 
-Registrato alla Corte dei conti, addi' 10 dicembre 1986
+Registrato alla Corte dei conti, addi' 31 ottobre 1986
 
-Registro n. 88 Istruzione, foglio n. 11
+Registro n. 80 Istruzione, foglio n. 361

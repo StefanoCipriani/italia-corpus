@@ -1,46 +1,68 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 luglio 1953 n. 716
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1985 n. 568
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 luglio 1953 n. 716
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1985 n. 568
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Cagliari e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regi decreti 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1743); [26 marzo 1942, n. 328; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-03-26;328) [22 ottobre 1946, n. 398, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1946-10-22;398) [30 ottobre 1949, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1027); [11 aprile 1951, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;565); [23 gennaio 1952, n. 365](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-01-23;365) e [26 ottobre 1952, n. 4542](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4542);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Nell'art. 63, relativo al corso di laurea in scienze naturali, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+complementi di fisica generale;  
+esercitazioni di preparazioni chimiche;  
+biologia delle popolazioni umane.  
+
+Art. 2
+------
+
   
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, cosi' ulteriormente modificato:  
-  
-L'art. 7, e' sostituito dal seguente: - "L'esame di laurea in farmacia consiste in prove pratiche e in un esame orale. Le prove pratiche sono costituite da un'analisi qualitativa, un'analisi quantitativa, un'analisi o preparazione di due prodotti farmaceutici, una prova pratica di tecnica farmaceutica.  
-Il candidato deve presentare alla Segreteria, almeno quindici giorni prima dell'esame, una dissertazione scritta, preferibilmente di carattere sperimentale, su argomento da lui scelto ed approvato dal professore della materia cui si riferisce. La Segreteria cura che tale dissertazione sia subito inviata alla Facolta'.  
-L'esame orale comprende la discussione di tale dissertazione e delle prove pratiche ed un colloquio professionale nel quale il candidato deve dimostrare la sua conoscenza dei medicamenti, dei tossici e degli antidoti delle droghe e delle piante medicinali, e rispondere sull'arte del ricettare, sulla farmacopea e su quelle parti della legislazione sanitaria che hanno attinenza con la farmacia.  
-Ove il risultato delle prove pratiche o del colloquio preliminare sia ritenuto dalla maggioranza della Commissione assolutamente lontano dalla sufficienza, il candidato e' tenuto a ripetere le prove in altra sessione prima della discussione della tesi.  
-La ripetizione delle prove non implica il pagamento di nuove tasse".  
+Nell'art. 65, relativo al corso di laurea in scienze geologiche, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+metodologie petrografiche.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 luglio 1953
+### Dato a Roma, addi' 18 marzo 1985
 
-EINAUDI BETTIOL
+PERTINI
 
-Visto, il Guardasigilli: AZARA
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 30 settembre 1953
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Atti del Governo, registro n. 79, foglio n. 69. - PALLA
+Registrato alla Corte dei conti, addi' 12 ottobre 1985
+
+Registro n. 68 Istruzione, foglio n. 223

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 aprile 1951 n. 955
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1970 n. 534
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 aprile 1951 n. 955
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1970 n. 534
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Modena.
@@ -10,13 +10,15 @@ Modificazioni allo statuto dell'Universita' degli studi di Modena.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035), modificato con i [regi decreti 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170); [30 ottobre 1930, n. 1825](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1825); [1 ottobre 1931, numero 1336](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-01;1336); [27 ottobre 1932, n. 2073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-10-27;2073); [6 dicembre 1934, n. 2291](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-12-06;2291), [1 ottobre 1936, n. 2088](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;2088); [20 aprile 1939, n. 1075](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1075); e con i [decreti del Capo provvisorio dello Stato 15 ottobre 1947, n. 1874](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-10-15;1874); [30 dicembre 1947, n. 1877 e con decreto del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-30;1877) [23 settembre 1949, n. 817](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;817);
+Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, numero 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulato dalle autorita' accademiche dell'universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -26,279 +28,234 @@ Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati e' cosi' ulteriormente modificato:
+Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 41. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti quelli di "semeiotica medica" e di "malattie infettive".
+Gli articoli da 146 a 151 relativi alla scuola di specializzazione in medicina legale e delle assicurazioni; gli articoli da 184 a 187 relativi alla scuola di specializzazione in gerontologia e geriatria, sono abrogati e sostituiti dai seguenti:
 
-Gli insegnamenti complementari del predetto corso di laurea di "clinica delle malattie tropicali e subtropicali" e di "malattie infettive" sono riuniti in una unica cattedra con la denominazione di "clinica delle malattie infettive e delle malattie tropicali".
+Scuola di specializzazione in medicina legale e delle assicurazioni
 
-Art. 47. - Agli insegnamenti complementari del corso di laurea in scienze matematiche sono aggiunti i seguenti:
+Art. 146. - La scuola di specializzazione in medicina legale e delle assicurazioni conferisce il diploma di specialista in medicina legale e delle assicurazioni.
 
-7) teoria delle funzioni;
+Art. 147. - La scuola ha sede presso l'istituto di medicina legale e delle assicurazioni. Alla scuola sono ammessi i laureati in medicina e chirurgia.
 
-8) meccanica superiore.
+Art. 148. - La scuola ha la durata di tre anni. Sono ammessi dieci specializzandi per ciascun anno di corso (totale: trenta iscritti).
 
-Art. 48. - Agli insegnamenti complementari del corso di laurea in matematica e fisica sono aggiunti i seguenti:
+Art. 149. - E' fatto obbligo all'allievo di frequentare le lezioni ed un periodo di internato di almeno sei mesi per ciascun anno.
 
-9) teoria delle funzioni;
+Art. 150. - Gli insegnamenti impartiti nella scuola sono i seguenti:
 
-10) meccanica superiore,
+1° Anno:
 
-Art. 50. - Gli insegnamenti fondamentali biennali di "chimica fisica" e di "esercitazioni di chimica fisica" del corso di laurea in chimica, importano ciascuno due distinti esami annuali.
+Insegnamenti fondamentali:
 
-Dopo l'art. 91 sono aggiunti i seguenti nuovi articoli relativi alla istituzione delle Scuole di perfezionamento in clinica ostetrico-ginecologica ed in clinica neuropsichiatrica.
+1) Medicina legale generale;
 
-CAP. IV
+2) Elementi di diritto pubblico e privato;
 
-Scuola di perfezionamento
+3) Tecnica e diagnostica anatomo-patologica generale e medico-legale;
 
-in clinica ostetrico-ginecologica.
+4) Traumatologia medico-legale;
 
-Art. 92. - La Scuola di perfezionamento in clinica ostetrico-ginecologica conferisce il diploma di specialista in ostetricia e ginecologia.
+5) Semeiotica medico-legale.
 
-La Scuola ha la durata di quattro anni.
+2° Anno:
 
-Art. 93. - Gli insegnamenti della Scuola sono cosi' distribuiti nei quattro anni di studio:
+Insegnamenti fondamentali:
 
-1° anno:
+1) Medicina legale penalistica;
 
-1) fisiologia della gravidanza, del parto e del puerperio;
+2) Deontologia medica;
 
-2) esame clinico della gravida;
+3) Neuropsichiatria medico-legale;
 
-3) nozioni applicate di laboratorio.
+4) Elementi di medicina criminologica e medicina penitenziaria;
 
-2° anno:
+5) Indagini di sopraluogo;
 
-1) semeiotica e clinica ostetrica;
+6) Identificazione personale.
 
-2) fisiopatologia della gravidanza e del puerperio;
+3° Anno:
 
-3) puericultura prenatale e postnatale;
+Insegnamenti fondamentali:
 
-4) operazioni ostetriche;
+1) Medicina legale civilistica e canonistica;
 
-5) farmacologia applicata.
+2) Tossicologia medico-legale;
 
-3° anno:
+3) Tecniche di laboratorio medico-legale ed ematologia forense;
 
-1) patologia della gravidanza, del parto e del puerperio;
+4) Ostetricia e ginecologia forensi;
 
-2) anatomia patologica applicata;
+5) Elementi di legislazione del lavoro;
 
-3) roentgeudiagnostica e roentgeu-radium terapia. Altre terapie fisiche della branca.
+6) Elementi di medicina del lavoro;
 
-4° anno:
+7) Medicina delle assicurazioni;
 
-1) semeiotica e clinica ostetrica e ginecologica;
+8) Medicina legale militare e pensionistica civile.
 
-2) nozioni di urologia applicata;
+Art. 151. - Alla fine di ogni anno gli iscritti sosterranno gli esami di profitto sulle singole materie di insegnamento. Chi non ha superato tutti gli esami dell'anno frequentato non puo' essere iscritto all'anno successivo.
 
-3) igiene e legislazione sanitaria applicata.
+Scuola di specializzazione in gerontologia e geriatria
 
-Art. 94. - Gli esami di profitto si danno al termine di ogni anno di studio.
+Art. 184. - La scuola ha sede presso l'istituto di clinica medica generale e terapia medica dell'universita' e conferisce il diploma di specialista in gerontologia e geriatria.
 
-Art. 95. - Superati gli esami di profitto dei quattro anni, il candidato puo' presentarsi a discutere la dissertazione per il conseguimento del diploma.
+Art. 185. - Alla scuola, che ha la durata di tre anni, sono ammessi i laureati in medicina e chirurgia per un numero massimo complessivo di trentadue specializzandi.
 
-CAP. V
+L'ammissione e' per esame.
 
-Scuola di perfezionamento in clinica neuropsichiatrica.
+Art. 186. - Gli insegnamenti impartiti dalla scuola sono:
 
-Art. 96. - La Scuola di perfezionamento in clinica neuropsichiatrica conferisce il diploma di specialista in clinica neuropsichiatrica.
+1° Anno:
 
-La Scuola ha la durata di tre anni.
+1) Biologia della senescenza (annuale);
 
-Art. 97. - Le materie obbligatorie, per il conseguimento del diploma, sono le seguenti:
+2) Fisiopatologia della senescenza (biennale I);
 
-1) anatomia del sistema nervoso;
+3) Semeiologia della senescenza (biennale I);
 
-2) fisiologia del sistema nervoso;
+4) Anatomia patologica (biennale);
 
-3) anatomia patologica ed isto-patologica del sistema nervoso;
+5) Farmacologia e farmacoterapia (annuale).
 
-4) semeiotica clinica e di laboratorio;
+2° Anno:
 
-5) patologia nervosa;
+1) Fisiopatologia della senescenza (biennale II);
 
-6) terapeutica neurologica;
+2) Semeiologia della senescenza (biennale II);
 
-7) radio-neuro-chirurgica;
+3) Anatomia patologica (biennale II);
 
-8) clinica neurologica propriamente detta;
+4) Clinica geriatrica e terapia (biennale I);
 
-9) psicologia e psicopatologia;
+5) Chirurgia geriatrica (annuale);
 
-10) semeiotica psichiatrica;
+6) Radiologia e radioterapia (annuale);
 
-11) clinica psichiatrica;
+7) Neurologia (annuale).
 
-12) psicoterapia, psichiatria sociale e igiene dei nervi.
+3° Anno:
 
-Art. 98. - Le materie elencate nell'articolo precedente sono distribuite nei tre anni di studio:
+1) Clinica geriatrica e terapia (biennale II);
 
-1° anno:
+2) Tecniche di riabilitazione (annuale);
 
-1) anatomia del sistema nervoso;
+3) Psichiatria (annuale);
 
-2) fisiologia del sistema nervoso;
+4) Medicina sociale (annuale).
 
-3) anatomia patologica ed isto-patologica del sistema nervoso;
+Nel terzo anno sono previste conferenze d'aggiornamento su problemi speciali.
 
-4) semeiotica clinica e di laboratorio.
+Art. 187. - L'esame di profitto si sosterra' alla fine dei singoli corsi: gli insegnamenti biennali importano un unico esame alla fine del corso.
 
-2° anno:
-
-1) patologia nervosa;
-
-2) terapeutica neurologica;
-
-3) radio-neuro-chirurgia;
-
-4) clinica neurologica propriamente detta.
-
-3° anno:
-
-1) psicologia e psicopatologia;
-
-2) semeiotica psichiatrica;
-
-3) clinica psichiatrica;
-
-4) psicoterapia, psichiatria sociale e igiene dei nervi.
-
-Gli esami di profitto si danno in tre gruppi.
-
-L'esame di diploma comprendera' la presentazione la discussione di una tesi scritta.
-
-Art. 99. - L'internato e' obbligatorio durante i tre anni di corso, nella clinica neurologica, con doveri e attribuzioni uguali a quelle degli assistenti volontari della clinica.
-
-Gli iscritti debbono assistere agli ambulatori della clinica e seguire le ricerche scientifiche e le cure degli ammalati che si svolgono nella clinica stessa.
-
-Art. 100. - Le lezioni sono tutte impartite in modo dimostrativo.
-
-Art. 101. - Le tasse e sopratasse sono eguali a quelle stabilite per gli studenti della Facolta' di medicina e chirurgia.
+Gli allievi del primo e del secondo anno, per essere ammessi, rispettivamente al secondo ed al terzo anno, debbono aver ottenuto tutte le firme di frequenza dei corsi e devono aver superato tutti i relativi esami.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 28 aprile 1951
+Dato a Roma, addi' 1 giugno 1970
 
-EINAUDI
+SARAGAT
 
-GONELLA
+MISASI
 
-Visto, il Guardasigilli: PICCIONI
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 17 aprile 1951 Atti del Governo, registro n. 44, foglio n. 14. - CARLOMAGNO
+alla Corte dei conti, addi' 22 luglio 1970 Atti del Governo, registro n. 236, foglio n. 174. - IZZI
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035), modificato con i [regi decreti 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170); [30 ottobre 1930, n. 1825](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1825); [1 ottobre 1931, numero 1336](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-01;1336); [27 ottobre 1932, n. 2073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-10-27;2073); [6 dicembre 1934, n. 2291](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-12-06;2291), [1 ottobre 1936, n. 2088](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;2088); [20 aprile 1939, n. 1075](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1075); e con i [decreti del Capo provvisorio dello Stato 15 ottobre 1947, n. 1874](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-10-15;1874); [30 dicembre 1947, n. 1877 e con decreto del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-30;1877) [23 settembre 1949, n. 817](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;817);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, numero 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulato dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati e' cosi' ulteriormente modificato:  
-Art. 41. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti quelli di "semeiotica medica" e di "malattie infettive".  
-Gli insegnamenti complementari del predetto corso di laurea di "clinica delle malattie tropicali e subtropicali" e di "malattie infettive" sono riuniti in una unica cattedra con la denominazione di "clinica delle malattie infettive e delle malattie tropicali".  
-Art. 47. - Agli insegnamenti complementari del corso di laurea in scienze matematiche sono aggiunti i seguenti:  
-7) teoria delle funzioni;  
-8) meccanica superiore.  
-Art. 48. - Agli insegnamenti complementari del corso di laurea in matematica e fisica sono aggiunti i seguenti:  
-9) teoria delle funzioni;  
-10) meccanica superiore,  
-Art. 50. - Gli insegnamenti fondamentali biennali di "chimica fisica" e di "esercitazioni di chimica fisica" del corso di laurea in chimica, importano ciascuno due distinti esami annuali.  
-Dopo l'art. 91 sono aggiunti i seguenti nuovi articoli relativi alla istituzione delle Scuole di perfezionamento in clinica ostetrico-ginecologica ed in clinica neuropsichiatrica.  
+Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli da 146 a 151 relativi alla scuola di specializzazione in medicina legale e delle assicurazioni; gli articoli da 184 a 187 relativi alla scuola di specializzazione in gerontologia e geriatria, sono abrogati e sostituiti dai seguenti:  
   
-CAP. IV  
-Scuola di perfezionamento  
-in clinica ostetrico-ginecologica.  
+Scuola di specializzazione in medicina legale e delle assicurazioni   
+Art. 146. - La scuola di specializzazione in medicina legale e delle assicurazioni conferisce il diploma di specialista in medicina legale e delle assicurazioni.  
+Art. 147. - La scuola ha sede presso l'istituto di medicina legale e delle assicurazioni. Alla scuola sono ammessi i laureati in medicina e chirurgia.  
+Art. 148. - La scuola ha la durata di tre anni. Sono ammessi dieci specializzandi per ciascun anno di corso (totale: trenta iscritti).  
+Art. 149. - E' fatto obbligo all'allievo di frequentare le lezioni ed un periodo di internato di almeno sei mesi per ciascun anno.  
+Art. 150. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
+1° Anno:  
+Insegnamenti fondamentali:  
+1) Medicina legale generale;  
+2) Elementi di diritto pubblico e privato;  
+3) Tecnica e diagnostica anatomo-patologica generale e medico-legale;  
+4) Traumatologia medico-legale;  
+5) Semeiotica medico-legale.  
+2° Anno:  
+Insegnamenti fondamentali:  
+1) Medicina legale penalistica;  
+2) Deontologia medica;  
+3) Neuropsichiatria medico-legale;  
+4) Elementi di medicina criminologica e medicina penitenziaria;  
+5) Indagini di sopraluogo;  
+6) Identificazione personale.  
+3° Anno:  
+Insegnamenti fondamentali:  
+1) Medicina legale civilistica e canonistica;  
+2) Tossicologia medico-legale;  
+3) Tecniche di laboratorio medico-legale ed ematologia forense;  
+4) Ostetricia e ginecologia forensi;  
+5) Elementi di legislazione del lavoro;  
+6) Elementi di medicina del lavoro;  
+7) Medicina delle assicurazioni;  
+8) Medicina legale militare e pensionistica civile.  
+Art. 151. - Alla fine di ogni anno gli iscritti sosterranno gli esami di profitto sulle singole materie di insegnamento. Chi non ha superato tutti gli esami dell'anno frequentato non puo' essere iscritto all'anno successivo.  
   
-Art. 92. - La Scuola di perfezionamento in clinica ostetrico-ginecologica conferisce il diploma di specialista in ostetricia e ginecologia.  
-La Scuola ha la durata di quattro anni.  
-Art. 93. - Gli insegnamenti della Scuola sono cosi' distribuiti nei quattro anni di studio:  
-1° anno:  
-1) fisiologia della gravidanza, del parto e del puerperio;  
-2) esame clinico della gravida;  
-3) nozioni applicate di laboratorio.  
-2° anno:  
-1) semeiotica e clinica ostetrica;  
-2) fisiopatologia della gravidanza e del puerperio;  
-3) puericultura prenatale e postnatale;  
-4) operazioni ostetriche;  
-5) farmacologia applicata.  
-3° anno:  
-1) patologia della gravidanza, del parto e del puerperio;  
-2) anatomia patologica applicata;  
-3) roentgeudiagnostica e roentgeu-radium terapia. Altre terapie fisiche della branca.  
-4° anno:  
-1) semeiotica e clinica ostetrica e ginecologica;  
-2) nozioni di urologia applicata;  
-3) igiene e legislazione sanitaria applicata.  
-Art. 94. - Gli esami di profitto si danno al termine di ogni anno di studio.  
-Art. 95. - Superati gli esami di profitto dei quattro anni, il candidato puo' presentarsi a discutere la dissertazione per il conseguimento del diploma.  
+Scuola di specializzazione in gerontologia e geriatria  
   
-CAP. V  
-Scuola di perfezionamento in clinica neuropsichiatrica.  
-  
-Art. 96. - La Scuola di perfezionamento in clinica neuropsichiatrica conferisce il diploma di specialista in clinica neuropsichiatrica.  
-La Scuola ha la durata di tre anni.  
-Art. 97. - Le materie obbligatorie, per il conseguimento del diploma, sono le seguenti:  
-1) anatomia del sistema nervoso;  
-2) fisiologia del sistema nervoso;  
-3) anatomia patologica ed isto-patologica del sistema nervoso;  
-4) semeiotica clinica e di laboratorio;  
-5) patologia nervosa;  
-6) terapeutica neurologica;  
-7) radio-neuro-chirurgica;  
-8) clinica neurologica propriamente detta;  
-9) psicologia e psicopatologia;  
-10) semeiotica psichiatrica;  
-11) clinica psichiatrica;  
-12) psicoterapia, psichiatria sociale e igiene dei nervi.  
-Art. 98. - Le materie elencate nell'articolo precedente sono distribuite nei tre anni di studio:  
-1° anno:  
-1) anatomia del sistema nervoso;  
-2) fisiologia del sistema nervoso;  
-3) anatomia patologica ed isto-patologica del sistema nervoso;  
-4) semeiotica clinica e di laboratorio.  
-2° anno:  
-1) patologia nervosa;  
-2) terapeutica neurologica;  
-3) radio-neuro-chirurgia;  
-4) clinica neurologica propriamente detta.  
-3° anno:  
-1) psicologia e psicopatologia;  
-2) semeiotica psichiatrica;  
-3) clinica psichiatrica;  
-4) psicoterapia, psichiatria sociale e igiene dei nervi.  
-Gli esami di profitto si danno in tre gruppi.  
-L'esame di diploma comprendera' la presentazione la discussione di una tesi scritta.  
-Art. 99. - L'internato e' obbligatorio durante i tre anni di corso, nella clinica neurologica, con doveri e attribuzioni uguali a quelle degli assistenti volontari della clinica.  
-Gli iscritti debbono assistere agli ambulatori della clinica e seguire le ricerche scientifiche e le cure degli ammalati che si svolgono nella clinica stessa.  
-Art. 100. - Le lezioni sono tutte impartite in modo dimostrativo.  
-Art. 101. - Le tasse e sopratasse sono eguali a quelle stabilite per gli studenti della Facolta' di medicina e chirurgia.  
+Art. 184. - La scuola ha sede presso l'istituto di clinica medica generale e terapia medica dell'universita' e conferisce il diploma di specialista in gerontologia e geriatria.  
+Art. 185. - Alla scuola, che ha la durata di tre anni, sono ammessi i laureati in medicina e chirurgia per un numero massimo complessivo di trentadue specializzandi.  
+L'ammissione e' per esame.  
+Art. 186. - Gli insegnamenti impartiti dalla scuola sono:  
+1° Anno:  
+1) Biologia della senescenza (annuale);  
+2) Fisiopatologia della senescenza (biennale I);  
+3) Semeiologia della senescenza (biennale I);  
+4) Anatomia patologica (biennale);  
+5) Farmacologia e farmacoterapia (annuale).  
+2° Anno:  
+1) Fisiopatologia della senescenza (biennale II);  
+2) Semeiologia della senescenza (biennale II);  
+3) Anatomia patologica (biennale II);  
+4) Clinica geriatrica e terapia (biennale I);  
+5) Chirurgia geriatrica (annuale);  
+6) Radiologia e radioterapia (annuale);  
+7) Neurologia (annuale).  
+3° Anno:  
+1) Clinica geriatrica e terapia (biennale II);  
+2) Tecniche di riabilitazione (annuale);  
+3) Psichiatria (annuale);  
+4) Medicina sociale (annuale).  
+Nel terzo anno sono previste conferenze d'aggiornamento su problemi speciali.  
+Art. 187. - L'esame di profitto si sosterra' alla fine dei singoli corsi: gli insegnamenti biennali importano un unico esame alla fine del corso.  
+Gli allievi del primo e del secondo anno, per essere ammessi, rispettivamente al secondo ed al terzo anno, debbono aver ottenuto tutte le firme di frequenza dei corsi e devono aver superato tutti i relativi esami.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 aprile 1951
+### Dato a Roma, addi' 1 giugno 1970
 
-EINAUDI GONELLA
+SARAGAT MISASI
 
-Visto, il Guardasigilli: PICCIONI
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 17 aprile 1951
+Registrato alla Corte dei conti, addi' 22 luglio 1970
 
-Atti del Governo, registro n. 44, foglio n. 14. - CARLOMAGNO
+Atti del Governo, registro n. 236, foglio n. 174. - IZZI

@@ -1,88 +1,96 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 novembre 1956 n. 1604
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1984 n. 704
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 novembre 1956 n. 1604
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1984 n. 704
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), modificato con i [regi decreti 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;1904); [4 maggio 1942, n. 557](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-05-04;557); [5 settembre 1942, n. 1120 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-09-05;1120) [26 febbraio 1949, n. 612](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;612); [23 settembre 1949, n. 931](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;931); [30 ottobre 1949, n. 1059](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1059); [5 aprile 1950, n. 284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-04-05;284); [30 ottobre 1950, n. 1277](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1277); [31 ottobre 1950, n. 1311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1311); [18 aprile 1951, n. 934](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;934); [30 luglio 1951, n. 1304](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-07-30;1304); [27 ottobre 1951, n. 1680](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1680); [19 settembre 1952, n. 4551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-09-19;4551); [25 agosto 1953, n. 1117](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;1117); [26 aprile 1954, n. 738](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-04-26;738); [30 giugno 1954, n. 753](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-30;753); [31 luglio 1954, n. 865](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-07-31;865); [24 agosto 1954, n. 987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-08-24;987); [14 settembre 1954, numero 1056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1056); [29 ottobre 1954, n. 1458](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-29;1458); [29 ottobre 1954, n. 1465](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-29;1465); [4 febbraio 1955, n. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-04;71); [16 febbraio 1955, n. 220](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-16;220); [2 agosto 1955, n. 897](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-08-02;897); [20 settembre 1955, n. 939](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-20;939); [30 gennaio 1956, n. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-01-30;163) e [28 giugno 1956, n. 892](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-06-28;892);
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, numero Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconoscimento la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 66. - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di "storia contemporanea".
-
-Art. 69. - Agli insegnamenti complementari del corso di laurea in filosofia sono aggiunti quelli di "filosofia della scienza" e "filosofia della storia".
-
-Art. 171. - Agli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti quelli di "alpicoltura e selvicoltura" e "economia dei mercati agricoli".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 1 novembre 1956
-
-GRONCHI
-
-ROSSI
-
-Visto, il Guardasigilli: MORO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 5 febbraio 1957 Atti del Governo, registro n. 104, foglio n. 11. - CARLOMAGNO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), modificato con i [regi decreti 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;1904); [4 maggio 1942, n. 557](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-05-04;557); [5 settembre 1942, n. 1120 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-09-05;1120) [26 febbraio 1949, n. 612](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;612); [23 settembre 1949, n. 931](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;931); [30 ottobre 1949, n. 1059](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1059); [5 aprile 1950, n. 284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-04-05;284); [30 ottobre 1950, n. 1277](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1277); [31 ottobre 1950, n. 1311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1311); [18 aprile 1951, n. 934](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;934); [30 luglio 1951, n. 1304](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-07-30;1304); [27 ottobre 1951, n. 1680](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1680); [19 settembre 1952, n. 4551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-09-19;4551); [25 agosto 1953, n. 1117](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;1117); [26 aprile 1954, n. 738](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-04-26;738); [30 giugno 1954, n. 753](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-30;753); [31 luglio 1954, n. 865](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-07-31;865); [24 agosto 1954, n. 987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-08-24;987); [14 settembre 1954, numero 1056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1056); [29 ottobre 1954, n. 1458](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-29;1458); [29 ottobre 1954, n. 1465](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-29;1465); [4 febbraio 1955, n. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-04;71); [16 febbraio 1955, n. 220](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-16;220); [2 agosto 1955, n. 897](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-08-02;897); [20 settembre 1955, n. 939](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-20;939); [30 gennaio 1956, n. 163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-01-30;163) e [28 giugno 1956, n. 892](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-06-28;892);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, numero Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconoscimento la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 14 ottobre 1926, numero 2090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2090) e modificato con [regio decreto 13 ottobre 1927, n. 2288](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2288), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933 numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);  
+Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);  
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);  
+Sentito il parere del Consiglio universitario nazionale;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 66. - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di "storia contemporanea".  
-Art. 69. - Agli insegnamenti complementari del corso di laurea in filosofia sono aggiunti quelli di "filosofia della scienza" e "filosofia della storia".  
-Art. 171. - Agli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti quelli di "alpicoltura e selvicoltura" e "economia dei mercati agricoli".  
+Dopo l'art. 926, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in medicina nucleare.  
+  
+SECONDA FACOLTA' DI MEDICINA E CHIRURGIA  
+  
+Scuola di specializzazione in medicina nucleare  
+Art. 927. - Si istituisce presso l'Universita' di Napoli la scuola di specializzazione in medicina nucleare che conferisce il diploma di specialista in medicina nucleare.  
+Art. 928. - La direzione della scuola ha sede presso l'istituto di radiologia, prima cattedra, seconda facolta' di medicina e chirurgia di Napoli.  
+Art. 929. - La scuola ha lo scopo di rendere idonei i laureati in medicina e chirurgia all'esercizio della medicina nucleare.  
+Art. 930. - La durata del corso e' di tre (3) anni e non e' suscettibile di abbreviazioni.  
+Art. 931. Il numero di iscritti e' di otto (8) per ogni anno e complessivamente di ventiquattro (24) per l'intero corso di studi.  
+Art. 932. - Alla scuola sono ammessi solo i laureati in medicina e chirurgia. E' richiesta l'abilitazione allo esercizio professionale.  
+Art. 933. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrate eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:  
+a) la tesi della disciplina attinente alla specializzazione;  
+b) il voto di laurea;  
+c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;  
+d) le pubblicazioni nelle predette materie.  
+Il punteggio dei predetti titoli e' quello stabilito dal decreto ministeriale 16 settembre 1982.  
+Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo riportato.  
+Art. 934. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+a) fisica con richiami di matematica, nozioni di statistica, informatica e dosimetria (facolta' di medicina e chirurgia);  
+b) radiobiologia, legislazione e norme generali di radioprotezione (facolta' di medicina e chirurgia);  
+c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione ed archiviazione (facolta' di medicina e chirurgia);  
+d) nozioni di anatomia e fisiologia generale (facolta' di medicina).  
+2° Anno:  
+a) teoria dei traccianti (facolta' di medicina e chirurgia);  
+b) elementi di radiochimica (facolta' di medicina e chirurgia);  
+c) applicazioni di diagnostica I (facolta' di medicina e chirurgia);  
+d) tecniche di misura di radioattivita' (facolta' di medicina e chirurgia).  
+3° Anno:  
+a) applicazioni diagnostiche II (facolta' di medicina e chirurgia);  
+b) applicazioni terapeutiche (facolta' di medicina e chirurgia);  
+c) radioprotezione e legislazione applicata (facolta' di medicina e chirurgia).  
+Art. 935. - La frequenza ai corsi e' obbligatoria. Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione d'esame, di cui fanno parte il direttore della scuola e i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' prescritte per l'anno di corso.  
+Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.  
+Art. 936. - Attivita' pratiche:  
+tecnica di eluzione da un generatore;  
+marcatura di un composto chimico;  
+controllo di qualita' radionuclidica;  
+controllo di qualita' radiochimiche;  
+tecniche di misura della radioattivita' in vitro;  
+Spettrometria gamma;  
+tecniche di misura della radioattivita' in vivo;  
+nozioni di funzionamento del planiscanner;  
+gammacamera, tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione.  
+Frequenza: le lezioni teoriche e le applicazioni pratiche, per ogni insegnamento, vengono impartite con cadenza di una per settimana o cinque consecutive nella stessa settimana per una settimana al mese, tenendo conto delle esigenze degli allievi. Per sostenere gli esami e' necessaria una frequenza di almeno due terzi delle lezioni.  
+Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla legge 9 febbraio 1979 in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.  
+Art. 937. - superato l'esame teorico-pratico dell'ultimo anno, il corso di studio delle scuole di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta in una o piu' materie del corso. A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.  
+Art. 938. - L'importo delle tasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.  
+Art. 939. - Il consiglio della scuola, presieduto dal direttore della scuola stessa, e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).  
+Il consiglio esercita le competenze spettanti, ai sensi dell'[art. 94 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art94), al consiglio del corso di laurea in materia di coordinamento di insegnamenti.  
+La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 1 novembre 1956
+### Dato a Roma, addi' 18 luglio 1984
 
-GRONCHI ROSSI
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 5 febbraio 1957
+Registrato alla Corte dei conti, addi' 11 ottobre 1984
 
-Atti del Governo, registro n. 104, foglio n. 11. - CARLOMAGNO
+Registro n. 61 Istruzione, foglio n. 204

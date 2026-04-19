@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 gennaio 1981 n. 15
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 luglio 1975 n. 468
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 gennaio 1981 n. 15
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 luglio 1975 n. 468
 =============================================================
 
 Autorizzazione all'Associazione nazionale alpini, in Milano, ad acquistare un immobile.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-15. Decreto del Presidente della Repubblica 3 gennaio 1981, col quale, sulla proposta del Ministro della difesa, l'Associazione nazionale alpini, in Milano, viene autorizzata ad acquistare dai signori Rosmilia, Maddalena, Maria Teresa, Carlo Giuseppe, Paolo, Mario, Francesca, Angiola Maria, Rosa Emilia e Anna Maria Battaglia, nudi proprietari, nonche' dalla signora Amalia Garelli ved. Battaglia, usufruttuaria, al prezzo di L. 8.000.000, l'appartamento di sei vani posto al primo piano del fabbricato che sorge in Mondovi', via Beccaria n. 13, censito al nuovo catasto edilizio urbano alla partita 505, foglio 92, mappale 171 sub 8 parte, da adibire a sede della sezione di Mondovi'.  
+468. Decreto del Presidente della Repubblica 7 luglio 1975, col quale, sulla proposta del Ministro per la difesa, l'Associazione nazionale alpini, in Milano, viene autorizzata ad acquistare, al prezzo di lire 1.800.000, un compendio immobiliare di proprieta' del demanio dello Stato, denominato "Ex casermetta al passo della Forcola, in comune di Livigno (Sondrio)", censito nel nuovo catasto edilizio urbano alla partita 131, foglio n. 4, mappale n. 3, della superficie tra area coperta ed area scoperta di mq 6070, da adibire a rifugio ed a casa per ferie per i propri soci.  
   
-Visto, il Guardasigilli: SARTI  
-Registrato alla Corte dei conti, addi' 3 febbraio 1981  
-Registro n. 7 Difesa, foglio n. 26
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 3 settembre 1975  
+Atti di Governo, registro n. 12, foglio n. 2

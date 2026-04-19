@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 settembre 1971 n. 965
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1961 n. 1413
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 settembre 1971 n. 965
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1961 n. 1413
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
@@ -10,209 +10,78 @@ Modificazioni allo statuto dell'Universita' degli studi di Catania.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduto il [decreto del Presidente della Repubblica 31 gennaio 1960, n. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;58);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Gli articoli 88, 89 e 92 relativi all'ordinamento della facolta' di ingegneria sono abrogati e sostituiti dai seguenti:   
-L'art. 88 viene cosi' modificato:   
-La durata del corso di studi per le lauree in ingegneria e' di cinque anni.   
-Sono titoli di ammissione quelli previsti dalle vigenti disposizioni di legge.   
-I primi due anni hanno funzione preminentemente propedeutica e comprendono i seguenti insegnamenti fondamentali:   
-1° Anno:   
-1) Analisi matematica I;   
-2) Geometria I;   
-3) Fisica I;   
-4) Chimica;   
-5) Disegno (per civili) per il corso in ingegneria civile;   
-5) Disegno (per industriali) per il corso in ingegneria elettrotecnica.   
-2° Anno:   
-6) Analisi matematica II;   
-7) Meccanica razionale;   
-8) Fisica II;   
-9) Disegno II (per civili) per il corso in ingegneria civile;   
-9) Disegno II (per industriali) per il corso in ingegneria elettrotecnica;   
-10) Storia dell'architettura moderna per il corso di ingegneria civile (sezione edile) (da considerarsi insegnamento obbligatorio del triennio nel piano della facolta);   
-10) Tecnologia generale dei materiali per il corso in ingegneria civile (sezione idraulica e trasporti);   
-10) Materiali per l'elettrotecnica per il corso in ingegneria elettrotecnica (da considerarsi insegnamento obbligatorio del triennio nel piano della facolta).   
-L'art. 89 viene cosi' modificato:   
-Triennio (3°, 4° e 5° anno) del corso di laurea in ingegneria civile (sezione edile, idraulica, trasporti).   
-Sono insegnamenti fondamentali del triennio (3°, 4° e 5° anno):   
-a) Insegnamenti obbligatori comuni su piano nazionale:   
-1) Scienza delle costruzioni;   
-2) Meccanica applicata alle macchine e macchine;   
-3) Fisica tecnica;   
-4) Elettrotecnica;   
-5) Idraulica;   
-6) Tecnologia dei materiali e chimica applicata;   
-7) Tecnica delle costruzioni;   
-8) Architettura tecnica;   
-9) Topografia;   
-10) Architettura e composizione architettonica (per edili);   
-10) Costruzioni idrauliche (per idraulica);   
-10) Costruzioni di strade, ferrovie ed aeroporti (per trasporti);   
-b) Insegnamenti obbligatori su piano locale:   
-  
-Sezione edile:   
-  
-11) Progetti edili;   
-12) Urbanistica;   
-13) Estimo (semestrale);   
-13) Materie giuridiche (semestrale);   
-14) Architettura tecnica II;   
-15) Tecnica urbanistica;   
-  
-Sezione idraulica:   
-  
-11) Idrologia tecnica;   
-12) Complementi di idraulica;   
-13) Architettura tecnica II;   
-14) Tecnica urbanistica;   
-  
-Sezione trasporti:   
-  
-11) Litologia e geologia;   
-12) Complementi di costruzioni stradali;   
-13) Tecnica ed economia dei trasporti;   
-14) Architettura tecnica II;   
-15) Tecnica urbanistica;   
-c) Insegnamenti propri dei singoli indirizzi a scelta su piano locale:   
-  
-Sezione edile:   
-  
-a) Indirizzo "Architettura e pianificazione":   
-16) Costruzioni di strade, ferrovie e aeroporti;   
-17) Pianificazione territoriale urbanistica;   
-18) Storia dell'arte;   
-b) Indirizzo "Strutture edili":   
-16) Geotecnica;   
-17) Complementi di scienza delle costruzioni;   
-18) Ponti e grandi strutture;   
-c) Indirizzo "Produzione e direzione opere edili":   
-16) Economia e tecnica aziendale;   
-17) Tecnologie degli elementi costruttivi;   
-18) Ergotecnica edile;   
-  
-Sezione idraulica:   
-  
-a) Indirizzo "Attrezzature territoriali":   
-15) Costruzioni di strade, ferrovie ed aeroporti;   
-16) Litologia e geologia;   
-17) Impianti speciali idraulici;   
-18) Pianificazione territoriale urbanistica;   
-b) Indirizzo "Impianti":   
-15) Chimica organica;   
-16) Ingegneria sanitaria;   
-17) Metodi di osservazione e misure;   
-18) Impianti speciali idraulici;   
-c) Indirizzo "Economico":   
-15) Economia e tecnica aziendale;   
-16) Programmazione ed applicazione dei calcolatori elettronici;  
-17) Statistica e teoria dell'informazione;   
-18) Estimo (semestrale);   
-18) Materie giuridiche (semestrale);   
-  
-Sezione trasporti:   
-  
-a) Indirizzo "Strutture":   
-16) Ponti e grandi strutture;   
-17) Complementi di scienza delle costruzioni;   
-18) Geotecnica;   
-b) Indirizzo "Impianti":   
-16) Impianti di trasporto (trazione elettrica);   
-17) Ingegneria sanitaria;   
-18) Tecnica del traffico;   
-c) Indirizzo "economico":   
-16) Economia e tecnica aziendale;   
-17) Programmazione ed applicazione dei calcolatori elettronici;  
-18) Estimo (semestrale);   
-18) Materie giuridiche (semestrale);   
-Ogni insegnamento dichiarato biennale sara' considerato a tutti gli effetti come due insegnamenti annuali distinti.   
-L'art. 92 viene cosi' modificato:   
-Triennio (3°, 4° e 5° anno) del corso di laurea in ingegneria elettrotecnica.   
-a) Insegnamenti obbligatori comuni su piano nazionale:   
-1) Scienza delle costruzioni;   
-2) Meccanica applicata alle macchine;   
-3) Fisica tecnica;   
-4) Elettrotecnica;   
-5) Idraulica;   
-6) Misure elettriche;   
-7) Macchine;   
-8) Macchine elettriche;   
-9) Impianti elettrici;   
-10) Elettrotecnica applicata;   
-b) Insegnamenti obbligatori comuni su piano locale:   
-11) Complementi di elettrotecnica;   
-12) Teoria delle reti;   
-13) Controlli automatici;   
-14) Complementi di matematica;   
-15) Economia e tecnica aziendale;   
-c) Insegnamenti propri dei singoli indirizzi a scelta, su piano locale:   
-  
-Indirizzo "Impianti elettrici":   
-  
-16) Trasmissione dell'energia;   
-17) Impianti nucleo e termoelettrici;   
-18) Elettrochimica;   
-19) Tecnica della regolazione;   
-  
-Indirizzo "Elettronico":   
-  
-16) Componenti elettronici;   
-17) Elettronica industriale;   
-18) Calcolatori e logica dei circuiti;   
-  
-Indirizzo "Automazione":   
-  
-16) Elettronica industriale;   
-17) Automazione;   
-18) Calcolatori e logica dei circuiti;   
-19) Tecnica della regolazione;   
-  
-Indirizzo "Comunicazioni elettriche":   
-  
-16) Microonde;   
-17) Teoria della informazione;   
-18) Telefonia, telegrafia e telesegnalazioni;   
-19) Radiotecnica e televisione;   
-  
-Indirizzo "Elettromeccanico":   
-  
-16) Costruzioni elettromeccaniche;   
-17) Progettazione di macchine elettriche;   
-18) Misure sulle macchine e sugli impianti elettrici;   
-19) Trazione elettrica;   
-  
-Indirizzo "Dirigenziale":   
-  
-16) Legislazione sul lavoro e sulla infortunistica;   
-17) Elementi sui calcolatori e tecniche operative;   
-18) Automazione;   
-19) Contabilita' aziendale.   
-Ogni insegnamento dichiarato biennale sara' considerato a tutti gli effetti come due insegnamenti annuali distinti.   
+L'articolo 68, relativo al biennio di studi propedeutici per la laurea in ingegneria e' abrogato e sostituito dal seguente:  
+Art. 68. - E' titolo di ammissione il diploma di maturita' classica o scientifica.  
+Possono essere ammessi i diplomati dagli Istituti tecnici per geometri, agrari, industriali, nautici, alle condizioni stabilite dalla legge.  
+Sono insegnamenti fondamentali comuni a tutti i corsi di laurea in Ingegneria:  
+Primo anno:  
+1) Analisi matematica I;  
+2) Geometria I;  
+3) Fisica I;  
+4) Chimica;  
+5) Disegno.  
+Secondo anno:  
+1) Analisi matematica II;  
+2) Geometria II;  
+3) Meccanica razionale;  
+4) Fisica II.  
+In relazione ai diversi corsi di laurea si hanno inoltre i seguenti insegnamenti aggiuntivi per il secondo anno:  
+1) Ingegneria civile:  
+a) Disegno II (civile);  
+b) Tecnologia generale dei materiali;  
+2) Ingegneria meccanica:  
+a) Disegno II (macchine);  
+b) Tecnologia meccanica;  
+3) Ingegneria elettrotecnica:  
+a) Disegno II (macchine):  
+b) Tecnologia generale dei materiali:  
+4) Ingegneria chimica:  
+a) Chimica organica;  
+b) Disegno II (macchine);  
+5) Ingegneria navale e meccanica:  
+a) Disegno II (macchine):  
+b) Tecnologie generali dei materiali;  
+6) Ingegneria aeronautica:  
+a) Disegno II (macchine);  
+b) Tecnologie generali dei materiali;  
+7) Ingegneria mineraria:  
+a) Disegno II (macchine);  
+8) Ingegneria elettronica:  
+a) Disegno II (macchine);  
+b) Tecnologie generali dei materiali;  
+9) Ingegneria nucleare:  
+a) Disegno II (macchine);  
+b) Tecnologie generali dei materiali.  
+I due esami di Fisica comprendono anche la parte riguardante le relative esercitazioni.  
+Gli studenti del primo anno di corso potranno ottenere la iscrizione al secondo anno di corso qualora abbiano superato almeno due fra i quattro seguenti esami: Analisi matematica I; Geometria I, Fisica I, Chimica.  
+Al termine del secondo anno di corso lo studente per essere ammesso al terzo anno di corso presso una qualunque Facolta' di Ingegneria o Politecnico dovra' aver superato tutti gli esami fondamentali comuni ai vari indirizzi.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 settembre 1971
+### Dato a Roma, addi' 31 ottobre 1961
 
-SARAGAT MISASI
+GRONCHI BOSCO
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 17 novembre 1971
+Registrato alla Corte dei conti, addi' 10 gennaio 1962
 
-Atti del Governo, registro n. 245, foglio n. 64. - CARUSO
+Atti del Governo, registro n. 143, foglio n. 26. - VILLA

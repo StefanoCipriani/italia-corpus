@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1966 n. 332
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1981 n. 744
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1966 n. 332
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1981 n. 744
+===============================================================
 
 Concessione di amnistia e di indulto.
 -------------------------------------
@@ -10,228 +10,231 @@ Concessione di amnistia e di indulto.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Visto l'[art. 79 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art79);
+Visti gli [articoli 79](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art79) e [87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
 
-Vista la legge di delegazione per la concessione di amnistia e di indulto del 3 giugno 1966, n. 331;
+Vista la legge di delegazione per la concessione di amnistia e di indulto 18 dicembre 1981, n. 743;
 
-Sentito il Consiglio dei Ministri;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 18 dicembre 1981;
 
-Sulla
+Sulla proposta del Ministro di grazia e giustizia;
+
+EMANA
 -----
 
-proposta del Ministro Segretario di Stato per la grazia e la giustizia, di concerto con i Ministri per le finanze e per la difesa; Decreta:
+il seguente decreto:
 
 Art. 1
 ------
 
-(Amnistia)
-
-  
-  
-E' concessa amnistia, salvo quanto previsto dal presente decreto per i reati in materia tributaria:  
-a) per i reati per i quali la legge commina una pena detentiva non superiore nel massimo a tre anni, oppure una pena pecuniaria, sola o congiunta alla pena detentiva menzionata in questa lettera;  
-b) per il delitto di furto di piante o di legna nei boschi e di pesce in acque demaniali e private, se concorre l'attenuante prevista dall'[art. 62, n. 4, del Codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art62-num4); nonche' per il delitto di appropriazione indebita, di furto e di truffa, qualora in tutti i predetti reati ricorra non piu' di una aggravante anche speciale e concorra, invece, l'attenuante prevista dall'[art. 62, n. 4, del Codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art62-num4);  
-c) per il delitto di lesioni personali lievissime previsto dall'art. 582 capoverso del [Codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398), se il fatto e' commesso contro il coniuge, il fratello o la sorella, il padre o la madre adottivi, o il figlio adottivo, o contro un affine in linea retta;  
-d) per i reati per i quali la legge commina una pena detentiva non superiore nel massimo a quattro anni, oppure una pena pecuniaria, sola o congiunta alla pena detentiva menzionata in questa lettera, se il reato e' stato commesso da minore degli anni diciotto o da chi aveva superato gli anni settanta;  
-e) per i reati previsti e puniti dall'[art. 57 del Codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art57), commessi dal direttore o vice direttore responsabile, quando sia noto l'autore della pubblicazione;  
-f) per il delitto di diffamazione col mezzo della stampa, anche se consistente nell'attribuzione di un fatto determinato. Salvo il disposto della lettera precedente, sono escluse dall'amnistia le ipotesi prevedute dal [terzo comma dell'art. 596, numeri 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art596-com3-num1), [2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~num2), [3 del Codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~num3).  
-L'amnistia non si applica ai reati previsti dagli articoli 316, 318, 319 ultima parte, 320, 321, 322 prima parte, 371, 443, 444, 445, 446, 447, 528; 530 del [Codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398), 14 e 15 della [legge 8 febbraio 1948, n. 47, e articolo 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-02-08;47~art1) della [legge 12 dicembre 1960, n. 1591](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1960-12-12;1591), nonche' ai reati previsti dagli [articoli 515](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art515) e [640 del Codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art640) se, per questi ultimi due reati, non ricorre l'applicazione dell'attenuante prevista dall'[art. 62, n. 4, del Codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art62-num4).  
-
-Art. 2
-------
-
-(Amnistia per speciali reati)
-
-  
-  
-E concessa amnistia:  
-a) per i reati commessi dal 25 luglio 1943 al 2 giugno 1946 da appartenenti al movimento della Resistenza o da chiunque abbia cooperato con esso, se determinati da movente o fine politico, o se connessi con tali reati ai sensi dell'[art. 45, n. 2, del Codice di procedura penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447~art45-num2);  
-b) per i reati commessi, dal 25 luglio 1943 al 2 giugno 1946, anche da altri cittadini che si siano opposti al movimento di liberazione, se determinati da movente o fine politico, o connessi con tali reati ai sensi dello [art. 45, n. 2, del Codice di procedura penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447~art45-num2);  
-c) per i reati previsti nelle disposizioni contenute nei testi unici approvati con [decreti del Presidente della Repubblica 5 febbraio 1948, n. 26](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-02-05;26), [30 marzo 1957, n. 361](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-03-30;361) e [16 maggio 1960, n. 570](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-05-16;570);  
-d) per i reati previsti negli articoli 330, primo capoverso, 337, 340, 341, 414, 415, 507, 508 - anche in relazione all'[art. 510](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art510) - [610](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art610) e [635 del Codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art635) e dal [decreto legislativo 22 gennaio 1948, n. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-01-22;66), se commessi per motivi ed in occasione di manifestazioni sindacali;  
-e) per i reati previsti negli [articoli 337](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art337), [340](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art340), [341](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art341), [415](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art415), [610](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art610) e [635 del Codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art635), se commessi per motivi politici.  
-L'amnistia si applica ai reati indicati dalle lettere c), d), e) del precedente comma anche quando concorrano aggravanti comuni o specifiche, esclusa l'ipotesi di uso di armi e l'ipotesi di fatto commesso da persone travisate o valendosi della forza intimidatrice derivante da segrete associazioni.  
-
-Art. 3
-------
-
-(Indulto)
-
-  
-  
-E' concesso indulto, salvo quanto previsto dal presente decreto per i reati in materia tributaria, nella misura non superiore a due anni per le pene detentive e non superiore a lire due milioni per le pene pecuniarie, sole o congiunte alle pene detentive.  
-L'indulto non puo' essere superiore ad un anno per le pene detentive e ad un milione per le pene pecuniarie:  
-a) nei confronti di coloro che per le medesime condanne hanno usufruito o possono usufruire di precedenti indulti;  
-b) nei confronti di coloro i quali, alla data di entrata in vigore del presente decreto, abbiano riportato una o piu' condanne, sia pure con la medesima sentenza, a pena detentiva per delitti non colposi complessivamente per oltre due anni di reclusione. Nella valutazione dei precedenti penali non si tiene conto delle condanne per le quali sia intervenuta o si ottenga la riabilitazione, ne' delle condanne coperte da precedente amnistia impropria, ne' dei reati estinti alla data di entrata in vigore del presente decreto per il decorso dei termini della sospensione condizionale della pena a norma dell'[art. 167 del Codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art167), ne' delle condanne per delitti per i quali sia stata riconosciuta la attenuante dei motivi di particolare valore morale e sociale;  
-c) nei confronti delle condanne per i reati previsti dagli [articoli 314](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art314), [315](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art315), [316](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art316), [317](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art317), [318](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art318), [319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art319), [321](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art321), [322](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art322), [422](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art422), [438](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art438), [439](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art439), [440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art440), [441](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art441), [443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art443), [444](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art444), [445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art445), [446](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art446), [447](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art447), [528](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art528), [575](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art575), [576](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art576), [577](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art577), [628](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art628), [629](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art629), [630 del Codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art630), nonche' dagli [articoli 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-10-22;1041~art5), [6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-10-22;1041~art6) e [18 della legge 22 ottobre 1954, n. 1041](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-10-22;1041~art18); nei confronti, altresi', delle condanne per il reato previsto dall'[art. 589 del Codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art589) quando e' connesso con i reati previsti dagli articoli 593 dello stesso [Codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398) e 133 del [Codice stradale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285).  
-
-Art. 4
-------
-
-(Esclusioni oggettive per i reati militari)
-
-  
-  
-L'amnistia e l'indulto non si applicano ai reati previsti dal libro secondo, titolo primo e titolo secondo, capo quarto, del [Codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398) militare di pace e dal libro terzo, titolo secondo e dall'[art. 115 del Codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art115) militare di guerra.  
-
-Art. 5
-------
-
-(Computo della pena per l'applicazione dell'amnistia)
-
-  
-  
-Ai fini del computo della pena per l'applicazione dell'amnistia:  
-a) si ha riguardo alla pena stabilita dalla legge per ciascun reato consumato o tentato;  
-b) non si tiene conto dell'aumento della pena dipendente dalla continuazione;  
-c) si tiene conto dell'aumento della pena dipendente dalle circostanze aggravanti, salvo casi di prevalenza o equivalenza preveduti dall'[art. 69, secondo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art69-com2) e [terzo comma, del Codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art69-com3); della recidiva non si tiene conto anche se per essa la legge stabilisce una pena di specie diversa;  
-d) non si tiene conto della diminuzione della pena dipendente dalle circostanze attenuanti.  
-
-Art. 6
-------
-
-(Condizione soggettiva  
-per l'applicazione dell'amnistia e dell'indulto)
-
-  
-  
-L'amnistia non si applica e l'indulto non e' concesso ai delinquenti abituali o professionali o per tendenza, ne' a coloro i quali, alla data di entrata in vigore del presente decreto, siano stati sottoposti a misure definitive di prevenzione, esclusa la diffida, a norma della [legge 27 dicembre 1956, n. 1423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-27;1423), nonche' della [legge 31 maggio 1965, n. 575](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-31;575).  
-L'amnistia inoltre non si applica a coloro i quali, alla data di entrata in vigore del presente decreto, abbiano riportato una o piu' condanne, gia pure con la medesima sentenza, a pena detentiva per delitti non colposi complessivamente per oltre due anni di reclusione. Nella valutazione dei precedenti penali non si tiene conto delle condanne per le quali sia intervenuta o si ottenga la riabilitazione, ne' delle condanne coperte da precedente amnistia impropria, ne' dei reati estinti alla data di entrata in vigore del presente decreto per il decorso dei termini della sospensione condizionale della pena a norma dell'[art. 167 del Codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art167), ne' delle condanne per delitti per i quali sia stata riconosciuta l'attenuante dei motivi di particolare valore morale e sociale.  
-Nell'applicazione dell'amnistia per le contravvenzioni non si tiene conto delle esclusioni previste dai commi precedenti.  
-
-Art. 7
-------
-
-(Amnistia per reati in materia tributaria)
+Amnistia
 
   
   
 E' concessa amnistia:  
-1) per i reati punibili soltanto con la pena della ammenda non superiore nel massimo a lire centomila previsti dalle leggi sulle dogane, salvo quanto e' stabilito nel numero 3) del presente articolo in materia di tabacchi, e sulle imposte di fabbricazione;  
-2) per i reati punibili soltanto con la pena della multa o dell'ammenda non superiore nel massimo a lire centomila previsti dalle leggi sul monopolio dei sali e dei tabacchi, limitatamente ai sali, sul chinino dello Stato, sugli apparecchi automatici di accensione e pietrine focaie, sui fiammiferi, sulla fabbricazione, importazione e monopolio delle cartine e tubetti per sigarette;  
-3) per i reati punibili soltanto con la pena della multa o dell'ammenda non superiore nel massimo a lire due milioni e duecentocinquantamila previsti, relativamente ai tabacchi, dalle leggi sulle dogane e sul monopolio dei sali e dei tabacchi;  
-4) per i reati punibili soltanto con la pena della multa o dell'ammenda - salvo il caso di recidiva in omessa o tardiva dichiarazione - previsti dalle leggi sulle imposte dirette, ordinarie o straordinarie, con la esclusione dall'amnistia dei reati previsti dalle leggi sulla nominativita' obbligatoria dei titoli azionari e sulla ritenuta d'acconto o d'imposta sugli utili distribuiti dalle societa';  
-5) per i reati punibili soltanto con la pena della multa o dell'ammenda previsti dalle leggi sulle tasse ed imposte indirette sugli affari.  
-L'applicazione dell'amnistia non e' esclusa quando con la pena della multa o dell'ammenda concorrano altre sanzioni non aventi natura penale.  
+a) per ogni reato non finanziario per il quale e' stabilita una pena detentiva non superiore nel massimo a tre anni ovvero una pena pecuniaria sola o congiunta a detta pena;  
+b) per ogni reato non finanziario per il quale e' stabilita una pena detentiva non superiore nel massimo a quattro anni, ovvero una pena pecuniaria, sola o congiunta a detta pena, se commesso dal minore degli anni diciotto o da chi, alla data di entrata in vigore del presente decreto, ha superato gli anni settanta;  
+c) per i reati previsti dall'[art. 57 del codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art57) (reati commessi col mezzo della stampa periodica) commessi dal direttore o dal vice direttore responsabile, quando sia noto l'autore della pubblicazione;  
+d) per il reato previsto dall'art. 476 in relazione agli [articoli 491](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art491) e [482 del codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art482) limitatamente alla falsita' in cambiale o in altro titolo di credito trasmissibile per girata o al portatore;  
+e) per il reato previsto dal [primo comma dell'articolo 334 del codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art334-com1) (sottrazione o danneggiamento di cose sottoposte a pignoramento o a sequestro) se il valore della cosa sottoposta a pignoramento o a sequestro sia di speciale tenuita';  
+f) per gli illeciti penali concernenti distrazioni di fondi pubblici commessi da pubblico ufficiale dal 23 novembre 1980 al 30 aprile 1981, al fine di soccorrere persone o comunita' colpite dagli effetti del sisma del 23 novembre 1980, purche' egli non ne abbia tratto profitto proprio;  
+g) per i reati previsti dall'[art. 610 del codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art610) e dall'[art. 1 del decreto legislativo 22 gennaio 1948, n. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-01-22;66~art1), commessi a causa e in occasione di manifestazioni sindacali o in conseguenza di situazioni di gravi disagi dovuti a calamita' naturali o a disfunzione di pubblici servizi, anche se aggravati dal numero delle persone e dalle circostanze di cui all'[art. 61 del codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art61), fatta esclusione di quelle previste dai numeri 1, 7 e 10, e sempre che non ricorrano altre aggravanti.  
 
-Art. 8
+Art. 2
 ------
 
-(Indulto per reati in materia di dogane,  
-di imposte di fabbricazione e di monopolio)
+Esclusioni oggettive dall'amnistia
 
   
   
-Fuori dei casi previsti dall'articolo 7, e' concesso indulto:  
-1) nella misura non superiore a lire centomila per le pene della multa o dell'ammenda, sole o congiunte a pena detentiva, per i reati previsti dalle seguenti leggi sul monopolio dei sali e dei tabacchi, limitatamente ai sali, sulle dogane, salvo quanto e' stabilito nel n. 2) del presente articolo per i tabacchi, sulle imposte di fabbricazione, sul chinino dello Stato, sugli apparecchi automatici di accensione e pietrine focaie, sui fiammiferi, sulla fabbricazione, importazione e monopolio delle cartine e tubetti per sigarette;  
-2) nella misura non superiore a lire due milioni e duecentocinquantamila, per le pene della multa o della ammenda, sole o congiunte a pena detentiva, per i reati previsti, relativamente ai tabacchi, dalle leggi sulle dogane e sul monopolio dei sali e dei tabacchi;  
-3) nella misura non superiore alla meta' per le pene detentive in conversione di pene pecuniarie per i reati previsti dalle leggi sul monopolio dei tabacchi e sulle dogane, relativamente ai soli tabacchi, fermo restando l'obbligo del pagamento del diritto o del tributo evaso e degli interessi di mora nei termini indicati nell'art. 9 del presente decreto.  
-L'indulto e' esteso alle pene per i reati previsti dalle leggi sull'imposta generale sull'entrata quando siano connessi a quelli indicati nei numeri 1) e 2) del comma precedente e nei limiti in essi stabiliti.  
+L'amnistia non si applica:   
+a) ai delitti previsti dai seguenti articoli del [codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398): 316 (peculato mediante profitto dell'errore altrui);   
+318 (corruzione per un atto d'ufficio);   
+319, quarto comma (corruzione per un atto contrario ai doveri d'ufficio);   
+320 (corruzione di persona incaricata di un pubblico servizio); 321 (pene per il corruttore);   
+355 (inadempimento di contratti di pubbliche forniture), salvo che si tratti di fatto commesso per colpa;   
+371 (falso giuramento della parte);   
+372 (falsa testimonianza) quando la deposizione verte su fatti connessi all'esercizio di pubbliche funzioni espletate dal testimone;   
+385 (evasione) limitatamente alle ipotesi previste nel secondo comma;   
+391 (procurata inosservanza di misure di sicurezza detentive) limitatamente alle ipotesi previste nel primo comma;   
+443 (commercio o somministrazione di medicinali guasti);   
+444 (commercio di sostanze alimentari nocive);   
+445 (somministrazione di medicinali in modo pericoloso per la salute pubblica);   
+501 (rialzo e ribasso fraudolento di prezzi sul pubblico mercato o nelle borse di commercio);   
+501-bis (manovre speculative su merci);   
+590, secondo e terzo comma (lesioni personali colpose), limitatamente ai fatti commessi con violazione delle norme per la prevenzione degli infortuni sul lavoro o relative all'igiene del lavoro, che abbiano determinato le conseguenze previste dal [primo comma, n. 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~com1-num2), o dal [secondo comma dell'art. 583 del codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art583-com2);   
+644 (usura).   
+Per i delitti previsti dagli articoli 316, 318, 320, primo comma e 321 del [codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398), l'esclusione dall'amnistia non opera se la retribuzione corrisposta o promessa ovvero l'ammontare del denaro o l'utilita' ricevuta o ritenuta, per se' o per un terzo, o il profitto ingiustamente procurato a se' o ad altri, sia stato di speciale tenuita' e concorrano le circostanze attenuanti generiche;   
+b) al delitto previsto dall'[art. 218 del codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art218) militare di pace (peculato militare mediante profitto dell'errore altrui), salvo che l'ammontare del denaro o il valore della cosa ricevuta o ritenuta sia stato di speciale tenuita' e concorrano le circostanze attenuanti generiche;   
+c) ai reati previsti:   
+1) dall'[art. 41, primo comma, lettera b), della legge 17 agosto 1942, n. 1150](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-08-17;1150~art41-com1-letb) - come sostituito dall'[art. 13 della legge 6 agosto 1967, n. 765](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-08-06;765~art13) (legge urbanistica) - e dall'[art. 17, lettera b), della legge 28 gennaio 1977, n. 10](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-01-28;10~art17-letb) (norme per la edificabilita' dei suoli), quando si tratti di inosservanza dell'[art. 28 della legge 17 agosto 1942, n. 1150](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-08-17;1150~art28), e successive modificazioni, ovvero di lavori eseguiti senza licenza o concessione o in totale difformita' da queste, salvo che si tratti di violazioni riguardanti una area di piccola estensione, in assenza di opere edilizie, ovvero di violazioni che comportino una limitata entita' dei volumi illegittimamente realizzati o limitate modifiche dei volumi esistenti, e sempre che non sussista lesione degli interessi pubblici tutelati da vincoli di carattere idrogeologico, paesaggistico, archeologico, storico-artistico previsti da strumenti normativi
 
-Art. 9
+((e))
+
+urbanistici sulle aree o edifici interessati, nonche' da norme poste a tutela della incolumita' e dell'igiene pubbliche;   
+2) dagli [articoli 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-07-13;615~art9), [10](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-07-13;615~art10), [14](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-07-13;615~art14), [15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-07-13;615~art15), [18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-07-13;615~art18) e [20 della legge 13 luglio 1966, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-07-13;615~art20) (provvedimenti contro l'inquinamento atmosferico) e dagli [articoli 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319~art21) e [22 della legge 10 maggio 1976, n. 319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-05-10;319~art22) (norme per la tutela delle acque dall'inquinamento), salvo che il reato consista nella mancata presentazione della domanda di autorizzazione o di rinnovo di cui all'art. 15, secondo comma, della stessa legge;   
+3) dalla [legge 18 aprile 1975, n. 110](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-04-18;110) (norme integrative della disciplina vigente per il controllo delle armi, delle munizioni e degli esplosivi), nonche' dagli [articoli 697](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art697), [698](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art698) e [699 del codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art699) (detenzione abusiva di armi, omessa consegna di armi e porto abusivo di armi);   
+4) dall'[art. 1-bis del decreto-legge 4 marzo 1976, n. 31](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1976-03-04;31~art1bis) (disposizioni penali in materia di infrazioni valutarie), convertito, con modificazioni, nella [legge 30 aprile 1976, n. 159](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-30;159), inserito dall'[art. 2 della legge 23 dicembre 1976, n. 863](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-12-23;863~art2);   
+d) ai reati commessi per finalita' di terrorismo o di eversione dell'ordine democratico;   
+e) al delitto previsto dalla lettera d) dell'art. 1 del presente decreto, aggravato ai sensi dell'[art. 61, n. 2, del codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art61-num2), quando l'aggravante riguarda reati finanziari, valutari o delitti contro la pubblica amministrazione.   
+Quando vi e' stata condanna ai sensi dell'[art. 81 del codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art81), l'amnistia non si applica se il reato piu' grave ed uno degli altri reati sono esclusi dall'amnistia; se e' escluso dall'amnistia solo il reato piu' grave sono estinti gli altri reati; se sono esclusi dall'amnistia uno o piu' dei reati che danno luogo all'aumento di pena, ma non il reato piu' grave, e' estinto solo quest'ultimo.   
+
+Art. 3
 ------
 
-(Condizioni per la concessione di amnistia  
-e di indulto per i reati in materia di dogane,  
-di imposte di fabbricazione e di monopolio)
+Computo della pena per l'applicazione dell'amnistia
 
   
   
-L'amnistia e l'indulto per i reati indicati nell'art. 7 ai numeri 1), 2) e 3) e nell'art. 8 sono subordinati alle seguenti altre condizioni:  
-1) che, trattandosi di omissioni di adempimenti o di formalita', previsti dalle singole leggi tributarie, si ottemperi agli adempimenti ed alle formalita' omessi nel termine di 120 giorni dalla data di entrata in vigore del presente decreto;  
-2) che, trattandosi di mancato pagamento di diritti o tributi evasi:  
-a) si effettui il pagamento dei diritti o dei tributi stessi e dei relativi interessi di mora nel termine di 120 giorni dalla data di entrata in vigore del presente decreto, salvo che la merce oggetto del reato sia stata Interamente sequestrata, ancorche' non sia intervenuto il provvedimento di confisca;  
-b) il trasgressore non abbia subito condanna a pena detentiva per uno dei reati previsti dalle leggi sulle dogane, sulle imposte di fabbricazione e di monopolio.  
+Ai fini del computo della pena per l'applicazione dell'amnistia:  
+a) si ha riguardo alla pena stabilita per ciascun reato consumato o tentato;  
+b) non si tiene conto dell'aumento di pena derivante dalla continuazione e dalla recidiva, anche se per quest'ultima la legge stabilisce una pena di specie diversa;  
+c) si tiene conto dell'aumento di pena derivante dalle circostanze aggravanti per le quali la legge stabilisce una pena di specie diversa o determina la misura della pena in modo indipendente da quella ordinaria del reato. Si tiene conto delle circostanze aggravanti previste dall'[art. 61, numeri 7](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art61-num7), [9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art61-num9) e [10, del codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art61-num10), salvo che, ai sensi dell'art. 69 del codice stesso, risultino prevalenti o equivalenti le attenuanti previste dall'[art. 62, numeri 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art62-num1) e [6, del codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art62-num6). Non si tiene conto delle altre circostanze aggravanti;  
+d) della circostanza attenuante di cui all'[art. 62, n. 4, del codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art62-num4) si tiene conto, se prevalente o equivalente, ai sensi dell'art. 69 del codice stesso, rispetto ad ogni tipo di circostanza aggravante, fatta eccezione per quelle previste dall'[art. 625, numeri 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art625-num1) e [4, del codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art625-num4);  
+e) in nessun altro caso si tiene conto delle circostanze attenuanti o della loro prevalenza o equivalenza rispetto alle circostanze aggravanti;  
+f) si tiene conto delle circostanze attenuanti previste dall'[art. 48 del codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art48) militare di pace quando siano prevalenti o equivalenti, ai sensi dell'[art. 69 del codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art69), rispetto ad ogni tipo di circostanza aggravante.  
 
-Art. 10
--------
+Art. 4
+------
 
-(Condizioni per la concessione di amnistia  
-per i reati in materia di imposte dirette)
-
-  
-  
-L'amnistia per i reati indicati nell'articolo 7 al n. 4) e' subordinata all'adempimento, nel termine di 120 giorni dall'entrata in vigore del presente decreto, delle seguenti altre condizioni da parte del trasgressore:  
-1) che, nel caso di omessa dichiarazione, questa venga presentata, anche se sia stato notificato accertamento d'ufficio non ancora definito;  
-2) che, nel caso di dichiarazione incompleta, venga presentata denunzia dei redditi e dei patrimoni omessi, anche se siano stati notificati accertamenti di ufficio non ancora definiti;  
-3) che, nel caso di morosita' nel pagamento delle imposte ovvero di omissione di adempimenti o di formalita' previsti dalle singole leggi tributarie, si effettui il pagamento delle imposte e delle maggiorazioni dovute ovvero si ottemperi agli adempimenti o formalita' stessi.  
-Le dichiarazioni previste nei numeri 1) e 2) del presente articolo sono improduttive di ogni effetto, se non Interviene la definizione amministrativa dell'accertamento.  
-
-Art. 11
--------
-
-(Condizioni per la concessione di amnistia per i reati  
-in materia di tasse e imposte indirette sugli affari)
+Condizioni soggettive per l'applicabilita' dell'amnistia
 
   
   
-L'amnistia per i reati indicati nell'art. 7 al n. 5) e' subordinata all'adempimento, nel termine di 120 giorni dalla data di entrata in vigore del presente decreto, delle seguenti altre condizioni:  
-1) che venga ottemperato agli adempimenti e alle formalita' omessi previsti dalle singole leggi tributarie, od alle eventuali ottemperanze sostitutive;  
-2) che venga effettuato il pagamento dei tributi evasi e degli interessi di mora.  
-Per i reati previsti dalle leggi sull'imposta generale sull'entrata e connessi a quelli indicati nell'art. 7 ai numeri 1), 2) e 3) si applicano le disposizioni dell'art. 9.  
+L'amnistia non si applica:  
+a) ai delinquenti abituali o professionali e a coloro i quali alla data di entrata in vigore del presente decreto si trovano sottoposti alle misure di prevenzione del divieto o dell'obbligo di soggiorno, disposte con provvedimento definitivo ai sensi delle [leggi 27 dicembre 1956, n. 1423, e 31 maggio 1965, n. 575](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-31;575);  
+b) a coloro i quali nei cinque anni precedenti la data di entrata in vigore del presente decreto hanno riportato una o piu' condanne, sia pure con la medesima sentenza, a pena detentiva complessiva superiore a due anni per delitti non colposi o, se si tratta di persone di eta' superiore a settanta anni, a pena detentiva complessiva superiore a tre anni per delitti non colposi;  
+c) fuori dell'ipotesi prevista dalla lettera precedente, a coloro i quali, se di eta' inferiore ai settanta anni alla data di entrata in vigore del presente decreto hanno riportato una o piu' condanne, sia pure con la medesima sentenza, a pena detentiva complessiva superiore a dieci anni per delitti non colposi.  
+Nella valutazione dei precedenti penali non si tiene conto:  
+1) delle condanne per le quali e' intervenuta riabilitazione, anche successivamente alla data di entrata in vigore del presente decreto, sempreche' le condizioni per la riabilitazione preesistano a detta data;  
+2) dei reati estinti alla data di entrata in vigore del presente decreto per il decorso dei termini della sospensione condizionale della pena a norma dell'[articolo 167 del codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art167);  
+3) dei reati estinguibili per effetto di precedenti amnistie;  
+4) delle condanne per reati militari di diserzione, di renitenza alla leva e di mancanza alla chiamata, la cui consumazione sia iniziata tra l'8 settembre 1943 e il 9 maggio 1945.  
+Nell'applicazione dell'amnistia alle contravvenzioni non si tiene conto delle esclusioni previste dal precedente primo comma.  
 
-Art. 12
--------
+Art. 5
+------
 
-(Definitivita' dei tributi, diritti, maggiorazioni  
-e interessi di mora corrisposti)
-
-  
-  
-I tributi, i diritti, le maggiorazioni e gli interessi di mora, corrisposti per beneficiare dell'amnistia e dell'indulto per i reati in materia tributaria, non sono in nessun caso ripetibili.  
-
-Art. 13
--------
-
-(Latitanti)
-
-  
-  
-Il condono si applica a coloro che si sono sottratti volontariamente all'esecuzione di un mandato od ordine di cattura o di carcerazione, se lo stato di latitanza cessa entro quattro mesi dalla data di pubblicazione del presente decreto.  
-La osservanza della condizione summenzionata non e' richiesta se la pena da espiare risulta interamente estinta per l'applicazione dell'indulto.  
-
-Art. 14
--------
-
-(Rinunciabilita' dell'amnistia)
+Rinunciabilita' all'amnistia
 
   
   
 L'amnistia non si applica qualora l'imputato, prima che sia pronunciata sentenza di non doversi procedere per estinzione del reato per amnistia, faccia espressa dichiarazione di non volerne usufruire.  
 
-Art. 15
+Art. 6
+------
+
+Indulto
+
+  
+  
+E' concesso indulto nella misura non superiore a due anni per le pene detentive e non superiore a lire due milioni per le pene pecuniarie, sole o congiunte alle pene detentive.  
+L'indulto non puo' essere superiore ad un anno per la reclusione e a lire un milione per la multa in relazione alle pene inflitte per i reati previsti dagli articoli 441, 442, 519, 521, 624 - aggravato ai sensi dei [numeri 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art625-num1) e [4 dell'art. 625](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art625-num4) - [628, primo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art628-com1) e [secondo comma, e 629](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art629-com2), [primo comma, del codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~com1). L'indulto si applica nella stessa misura alle pene inflitte per il reato previsto dall'[art. 575 del codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art575), anche se aggravato, quando sia stata riconosciuta una delle attenuanti di cui all'[art. 62, numeri 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art62-num1) e [2, del codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art62-num2).  
+Nei casi previsti dai commi precedenti, l'indulto e' ridotto alla meta' nei confronti di coloro che si trovano nelle condizioni previste dall'art. 4, lettere b) e c), del presente decreto, e di coloro che per le medesime condanne hanno usufruito o possono usufruire di precedenti indulti; e' ridotto a un quarto quando concorrono entrambe le cause di riduzione dell'indulto.  
+L'indulto e' raddoppiato nei confronti di coloro i quali alla data di entrata in vigore del presente decreto abbiano compiuto il settantesimo anno di eta'.  
+Quando l'indulto estingue la pena inflitta per uno dei delitti previsti dall'[art. 8 della legge 15 dicembre 1972, n. 772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1972-12-15;772~art8), come modificato dall'[art. 2 della legge 24 dicembre 1974, n. 695](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-12-24;695~art2), agli effetti del terzo comma del citato art. 8 la pena condonata e' equiparata a quella espiata.  
+
+Art. 7
+------
+
+Esclusioni soggettive dall'indulto
+
+  
+  
+L'indulto non si applica ai delinquenti abituali o professionali ed a coloro i quali, alla data di entrata in vigore del presente decreto, si trovano sottoposti alle misure di prevenzione del divieto o dell'obbligo di soggiorno, disposte con provvedimento definitivo ai sensi delle [leggi 27 dicembre 1956, n. 1433, e 31 maggio 1965, n. 575](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-31;575).  
+
+Art. 8
+------
+
+Esclusioni oggettive dall'indulto
+
+  
+  
+Salvo che ricorra la circostanza di cui all'[art. 4, primo comma, del decreto-legge 15 dicembre 1979, n. 625](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1979-12-15;625~art4-com1), convertito, con modificazioni, nella [legge 6 febbraio 1980, n. 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-06;15), l'indulto non si applica alle pene:  
+a) per i delitti previsti dai seguenti articoli del [codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398):  
+253 (distruzione o sabotaggio di opere militari);  
+270 (associazioni sovversive);  
+270-bis (associazioni con finalita' di terrorismo e di eversione dell'ordine democratico);  
+276 (attentato contro il Presidente della Repubblica);  
+280 (attentato per finalita' terroristiche o di eversione);  
+283 (attentato contro la Costituzione dello Stato);  
+284 (insurrezione armata contro i poteri dello Stato);  
+285 (devastazione, saccheggio e strage);  
+286 (guerra civile);  
+289-bis, primo, secondo e terzo comma (sequestro di persona a scopo di terrorismo o di eversione);  
+306 (banda armata);  
+314 (peculato);  
+315 (malversazione a danno di privati);  
+317 (concussione);  
+319, primo, secondo e terzo comma e, in relazione ai fatti ivi previsti, 320 e 321 (corruzione per un atto contrario ai doveri di ufficio);  
+385 (evasione) se l'evasione e' aggravata dalla violenza o minaccia commessa con armi o da piu' persone riunite;  
+420 (attentato ad impianti di pubblica utilita);  
+422 (strage);  
+428 (naufragio, sommersione o disastro aviatorio);  
+429, secondo comma (danneggiamento seguito da naufragio);  
+430 (disastro ferroviario);  
+431 (pericolo di disastro ferroviario causato da danneggiamento);  
+432, primo e terzo comma (attentato alla sicurezza dei trasporti);  
+433, terzo comma (attentati alla sicurezza degli impianti di energia elettrica e del gas, ovvero delle pubbliche comunicazioni);  
+434 (crollo di costruzioni o altri disastri dolosi);  
+438 (epidemia);  
+439 (avvelenamento di acque o di sostanze alimentari);  
+440 (adulterazioni e contraffazioni di sostanze alimentari);  
+575 (omicidio) salvo che sia stata riconosciuta una delle attenuanti di cui all'[art. 62, numeri 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art62-num1) e [2, del codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art62-num2);  
+628, ultimo comma (rapina aggravata);  
+629, secondo comma (estorsione aggravata);  
+630, primo, secondo e terzo comma (sequestro di persona a scopo di rapina o di estorsione);  
+648-bis (sostituzione di denaro o valori provenienti da rapina aggravata, estorsione aggravata o sequestro di persona a scopo di estorsione);  
+b) per i delitti previsti dai seguenti articoli:  
+2 della [legge 20 giugno 1952, n. 645](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-06-20;645), modificato dall'[art. 8 della legge 22 maggio 1975, n. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-05-22;152~art8), concernente la riorganizzazione del disciolto partito fascista;  
+75 della [legge 22 dicembre 1975, n. 685](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-12-22;685), concernente la disciplina degli stupefacenti e delle sostanze psicotrope;  
+1 del [decreto-legge 4 marzo 1976, n. 31](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1976-03-04;31), convertito, con modificazioni, nella [legge 30 aprile 1976, n. 159](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-30;159), sostituito dall'[art. 2 della legge 23 dicembre 1976, n. 863](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-12-23;863~art2), contenente disposizioni penali in materia di infrazioni valutarie, quando ricorre l'aggravante di cui al quinto comma del predetto art. 1;  
+c) per i reati finanziari;  
+d) per i delitti concernenti le armi da guerra, tipo guerra e le materie esplodenti, gli ordigni esplosivi o incendiari di cui all'[art. 1 della legge 18 aprile 1975, n. 110](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-04-18;110~art1), e per i delitti di illegale fabbricazione, importazione e vendita di armi comuni da sparo;  
+e) per i reati commessi per finalita' di terrorismo e di eversione dell'ordine democratico.  
+Nei casi previsti dall'[art. 81 del codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art81), l'indulto non si applica quando sono escluse ai sensi del precedente comma le pene per il reato piu' grave e per uno degli altri reati; se e' esclusa solo la pena per il reato piu' grave, l'indulto si applica alla pena per gli altri reati; se sono escluse le pene per uno o piu' reati che danno luogo all'aumento della pena inflitta per il reato piu' grave, l'indulto si applica solo a quest'ultimo.  
+
+Art. 9
+------
+
+Indulto per le pene accessorie
+
+  
+  
+E' concesso indulto, per intero, per le pene accessorie temporanee quando conseguono a condanne per le quali e' applicato, anche solo in parte, l'indulto.  
+
+Art. 10
 -------
 
-(Revoca dell'indulto)
+Revoca dell'indulto
 
   
   
-Il beneficio dell'indulto e' revocato di diritto qualora chi ne abbia usufruito commetta, entro cinque anni dalla data della entrata in vigore del presente decreto, un delitto non colposo per il quale riporti condanna a pena detentiva non inferiore a mesi sei.  
+Il beneficio dell'indulto e' revocato di diritto qualora chi ne abbia usufruito commetta, entro cinque anni dalla data di entrata in vigore del presente decreto, un delitto non colposo per il quale riporti condanna a pena detentiva non inferiore a sei mesi.  
 
-Art. 16
+Art. 11
 -------
 
-(Termine di efficacia dei benefici)
+Termine di efficacia dell'amnistia e dell'indulto
 
   
   
-L'amnistia e l'indulto hanno efficacia per i reati commessi fino a tutto il giorno 31 gennaio 1966.  
+L'amnistia e l'indulto hanno efficacia per i reati commessi fino a tutto il giorno 31 agosto 1981.  
 
-Art. 17
+Art. 12
 -------
 
-(Entrata in vigore)
+Entrata in vigore
 
   
   
-Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica.  
+Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 giugno 1966
+### Dato a Roma, addi' 18 dicembre 1981
 
-SARAGAT MORO - REALE - PRETI - TREMELLONI
+PERTINI SPADOLINI - DARIDA
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DARIDA

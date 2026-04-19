@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 dicembre 1975 n. 1213
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 dicembre 1975 n. 968
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 dicembre 1975 n. 1213
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 dicembre 1975 n. 968
+===============================================================
 
 Autorizzazione all'Associazione volontari italiani del sangue, in Milano, ad acquistare un immobile.
 ----------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1213. Decreto del Presidente della Repubblica 13 dicembre 1975, col quale, sulla proposta del Ministro per la sanita', l'Associazione volontari italiani del sangue, in Milano, viene autorizzata ad acquistare, al prezzo complessivo di L. 45.000.000, un fabbricato sito in Torino, corso Moncalieri, 272, distinto in catasto terreni al foglio 134, mappale 194, in corso di censimento al nuovo catasto edilizio urbano, coerenziato a levante con il corso Moncalieri, a mezzodi' con un passaggio di accesso al cortile dello stesso fabbricato, a ponente con le parti comuni del cortile condominiale, a settentrione con la piazza Merano, da destinare a sede sociale.  
+968. Decreto del Presidente della Repubblica 13 dicembre 1975, col quale, sulla proposta del Ministro per la sanita', l'Associazione volontari italiani del sangue, in Milano, viene autorizzata ad acquistare dal sig. Bortolozzi Costante un immobile sito in Venaria Reale (Torino), via Buridani, 23, costituito da un fabbricato distinto in mappa presso l'ufficio tecnico erariale di Torino con il n. 144, f. 25, coerenziato a nord con la proprieta' Brizio, a est con la proprieta' Signetti, a sud con la proprieta' Bollero, a ovest con la proprieta' Bonabello, censito al nuovo catasto edilizio urbano alla partita 417, f. 25, n. 94 sub 4, e n. 96 sub 2.  
   
 Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 8 gennaio 1977  
-Registro n. 1 Sanita', foglio n. 7
+Registrato alla Corte dei conti, addi' 12 aprile 1976  
+Atti di Governo, registro n. 4, foglio n. 107

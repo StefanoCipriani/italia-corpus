@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 maggio 1973 n. 616
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 aprile 1976 n. 460
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 maggio 1973 n. 616
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 aprile 1976 n. 460
 =============================================================
 
 Autorizzazione alla Cassa di risparmio di Citta' di Castello ad accettare un legato.
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-616. Decreto del Presidente della Repubblica 16 maggio 1973, col quale, sulla proposta del Ministro per il tesoro, la Cassa di risparmio di Citta' di Castello, con sede in Citta' di Castello (Perugia), viene autorizzata a conseguire il legato, di cui al verbale di pubblicazione del testamento pubblico del marchese Gioacchino Capelletti, redatto dal notaio dott. Clara Cale' in data 14 novembre 1968 dal quale risulta che alla Cassa di risparmio di Citta' di Castello e' stato legato il compendio di proprieta' del testatore descritto nei rogiti del notaio Ciavi in data 27 ottobre 1965 e dello stesso notaio Cale' in data 6 maggio 1968, costituito fra l'altro da una villa, detta di Garavelle, con annesso parco, nonche' da un appezzamento di terreno circostante la villa stessa, con sovrastante fabbricato colonico, della superficie complessiva di ettari sei, are ventuno, centiare sessanta, il tutto con le modalita' e condizioni specificate nei sopradetti rogiti.  
+460. Decreto del Presidente della Repubblica 8 aprile 1976, col quale, sulla proposta del Ministro per il tesoro, la Cassa di risparmio di Citta' di Castello (Perugia) viene autorizzata ad accettare il legato disposto dalla sig.ra Edvige Meneghini ved.  
+Piccioli con testamento olografo 15 febbraio 1968, pubblicato in data 5 dicembre 1973 a rogito dott. Renzo Battaglia, notaio in Borgosesia (Vercelli), costituito da un appartamento sito in Milano, via Lombardia n. 1, con le modalita' e condizioni specificate nel predetto rogito.  
   
-Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 19 ottobre 1973  
-Atti di Governo, registro n. 261, foglio n. 42. - VALENTINI
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 30 giugno 1976  
+Atti di Governo, registro n. 7, foglio n. 26

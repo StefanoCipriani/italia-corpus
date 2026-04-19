@@ -1,158 +1,180 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 febbraio 1960 n. 58
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1163
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 febbraio 1960 n. 58
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1163
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 122 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in medicina nucleare.
+
+Dopo l'art. 275, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in medicina nucleare.
+
+Scuola di specializzazione in medicina nucleare
+
+Art. 276. - La scuola di specializzazione in medicina nucleare ha la durata di tre anni. Essa ha sede presso l'istituto scientifico di medicina interna.
+
+Il direttore della scuola e' un professore di ruolo designato dalla facolta' a norma dell'art. 123 dello statuto dell'Universita'.
+
+Art. 277. - Alla scuola possono essere iscritti solo i laureati in medicina e chirurgia. In ogni anno accademico possono essere ammessi al primo anno di corso un numero massimo di 10 candidati. Il totale massimo degli iscritti per tutti e tre gli anni e' di trenta.
+
+Non e' consentita alcuna abbreviazione di corso.
+
+Art. 278. - Gli aspiranti saranno ammessi alla scuola dopo il superamento di un esame preliminare che comprende una prova scritta ed una prova orale e che si svolgera' entro il mese di dicembre.
+
+Art. 279. - Gli iscritti alla scuola hanno l'obbligo di frequentare gli insegnamenti secondo il programma del corso, nonche' l'istituto sede della scuola.
+
+Coloro che non ottempereranno all'obbligo di frequenza ai corsi di insegnamento ed al servizio di corsi e di laboratorio non potranno ottenere l'attestazione di frequenza necessaria per l'ammissione agli esami.
+
+Art. 280. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+Fondamenti di matematica e di statistica;
+
+Fisica nucleare e delle radiazioni;
+
+Tecniche per le misure di radioattivita';
+
+Dosimetria.
+
+2° Anno:
+
+Teoria dei traccianti;
+
+Elementi di radiochimica;
+
+Applicazioni diagnostiche I;
+
+Elementi di radiobiologia.
+
+3° Anno:
+
+Applicazioni diagnostiche II;
+
+Applicazioni terapeutiche;
+
+Radioprotezione e legislazione.
+
+Il programma sara' svolto in complessive otto settimane per un totale di almeno 60 lezioni globali e sara' integrato da seminari, conferenze, esercitazioni. Il direttore della scuola potra' ripartire lo svolgimento del programma in due o piu' periodi tra il 15 gennaio ed il 30 giugno.
+
+Art. 281. - Alla fine di ciascun anno accademico coloro i quali abbiano ottenuto la prescritta attestazione di frequenza, potranno sostenere gli esami di profitto, il cui superamento e' condizione necessaria per la iscrizione al corso successivo.
+
+Gli esami consistono in prove scritte (risposte ad un questionario di almeno cinque domande) ed in una prova orale su ciascuna delle materie di insegnamento che sono oggetto di esame in ogni anno di corso.
+
+Art. 282. - Al termine del terzo anno, per conseguire il diploma di specializzazione, gli iscritti, oltre ad aver superato le prove di esame nelle singole materie, dovranno presentare una dissertazione scritta su un argomento di medicina nucleare (clinico o sperimentale) che sara' stabilito in base agli accordi presi con il direttore della scuola.
+
+I candidati non riconosciuti idonei agli esami di ciascun corso e all'esame di diploma potranno sostenere le prove dopo un altro anno di frequenza.
+
+Art. 283. - Le norme per l'iscrizione, per le tasse, ecc. sono quelle generali delle scuole di specializzazione e di perfezionamento riferite negli articoli da 122 a 137 dello statuto dell'Universita'.
+
+Art. 284. - Agli allievi che abbiano ottenuto l'approvazione nell'esame finale viene rilasciato il diploma di specializzazione in medicina nucleare.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1973
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: ZAGARI
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 28 ottobre 1974 Atti di Governo, registro n. 6, foglio n. 53. - SCIARRETTA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successivi;  
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione:  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 122 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in medicina nucleare.  
+Dopo l'art. 275, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in medicina nucleare.  
   
-Art. 88. - All'elenco delle scuole di specializzazione e di perfezionamento annesse alla Facolta' di medicina e chirurgia sono aggiunte quelle di Angiologia:  
-Ematologia clinica e di laboratorio;  
-Tisiologia;  
-Igiene e tecnica ospedaliera;  
-Neuropsichiatria infantile.  
-Dopo l'art. 209 sono aggiunti i seguenti nuovi articoli concernenti l'istituzione delle seguenti scuole:  
+Scuola di specializzazione in medicina nucleare  
   
-Scuola di specializzazione in Tisiologia  
+Art. 276. - La scuola di specializzazione in medicina nucleare ha la durata di tre anni. Essa ha sede presso l'istituto scientifico di medicina interna.  
+Il direttore della scuola e' un professore di ruolo designato dalla facolta' a norma dell'art. 123 dello statuto dell'Universita'.  
+Art. 277. - Alla scuola possono essere iscritti solo i laureati in medicina e chirurgia. In ogni anno accademico possono essere ammessi al primo anno di corso un numero massimo di 10 candidati. Il totale massimo degli iscritti per tutti e tre gli anni e' di trenta.  
+Non e' consentita alcuna abbreviazione di corso.  
+Art. 278. - Gli aspiranti saranno ammessi alla scuola dopo il superamento di un esame preliminare che comprende una prova scritta ed una prova orale e che si svolgera' entro il mese di dicembre.  
+Art. 279. - Gli iscritti alla scuola hanno l'obbligo di frequentare gli insegnamenti secondo il programma del corso, nonche' l'istituto sede della scuola.  
+Coloro che non ottempereranno all'obbligo di frequenza ai corsi di insegnamento ed al servizio di corsi e di laboratorio non potranno ottenere l'attestazione di frequenza necessaria per l'ammissione agli esami.  
+Art. 280. - Le materie di insegnamento sono le seguenti:  
   
-Art. 210. - Presso l'Istituto di clinica tisiologica dell'Universita' di Genova e' istituita la scuola di specializzazione in Tisiologia, che ha lo scopo di formare una adeguata competenza scientifica e di completare la preparazione clinica, e tecnica dei laureati in medicina, e chirurgia che vogliono dedicarsi allo studio ed alla pratica clinica della malattia tubercolare nei suoi aspetti generali e speciali in rapporto alla diagnostica differenziale delle altre malattie del polmone.  
-La direzione della scuola e' affidata al direttore della clinica tisiologica; i corsi si svolgeranno presso l'Istituto di tisiologia dell'Universita' di Genova secondo il programma e gli orari stabiliti all'inizio di ogni anno accademico.  
-Art. 211. - Il programma del corso comprende le materie inerenti alla patologia, alla clinica, alla terapia ed alla diagnostica generale, differenziale e speciale delle pneumopatie acute e croniche, tubercolari e non tubercolari. Le materie d'insegnamento sono annuali e biennali.  
-Sono biennali:  
-Patologia e clinica della tubercolosi; Patologia e clinica differenziale delle pneumopatie acute e croniche non tubercolari;  
-Terapia delle pneumopatie;  
-Sono annuali:  
-Anatomia ed istologia patologica delle pneumopatie tubercolari;  
-Radiologia del torace; Semeiotica medica del torace; Batteriologia, sierologia e immunologia della tubercolosi; Indicazioni e tecnica della colassoterapia;  
-Patologia chirurgica delle pneumopatie; Patologia e clinica delle prime vie respiratorie e dei bronchi; Clinica delle pneumopatie tubercolari infantili; Clinica della tubercolosi extrapolmonare;  
-Istituzioni di igiene e medicina delle assicurazioni sociali;  
-Fisiopatologia dell'apparato respiratorio e circolatorio: Biochimica della tubercolosi; Tecnica di laboratorio applicata alla diagnostica delle pneumopatie.  
-Art. 212. - Il corso ha la durata di due anni e l'insegnamento ha carattere dottrinale, dimostrativo e pratico. Gli iscritti hanno l'obbligo di frequentare tutti gli insegnamenti, le esercitazioni ed eventuali lezioni e conferenze varie; sono altresi' obbligati a svolgere continuativa attivita' di medico interno per almeno sei mesi all'anno.  
-Art. 213. - Alla scuola potranno essere ammessi soltanto i laureati in medicina e chirurgia. Il numero massimo di posti per ciascun anno e' di venticinque.  
-Le norme di iscrizione, esami, pagamento tasse e tutte le altre norme generali sono tutte quelle comprese negli articoli da 81 a 97 dello statuto della Universita' di Genova.  
-Art. 214. - Alla fine del corso gli allievi che lo hanno frequentato regolarmente sono ammessi agli esami finali e alla discussione di una tesi scritta, da loro preparata su un argomento attinente alla specialita'. A coloro che hanno ottenuto l'approvazione verra' rilasciato il diploma di specialista in Tisiologia valido a tutti gli effetti di legge.  
+1° Anno:  
+Fondamenti di matematica e di statistica;  
+Fisica nucleare e delle radiazioni;  
+Tecniche per le misure di radioattivita';  
+Dosimetria.  
   
-Scuola di specializzazione in Igiene e tecnica ospedaliera  
+2° Anno:  
+Teoria dei traccianti;  
+Elementi di radiochimica;  
+Applicazioni diagnostiche I;  
+Elementi di radiobiologia.  
   
-Art. 215. - Presso l'Istituto di igiene e' istituita la "Scuola di specializzazione in Igiene e tecnica ospedaliera" la quale ha lo scopo di conferire adeguata competenza teorica e pratica ai laureati in medicina e chirurgia o in ingegneria i quali intendano conseguire il diploma di specializzazione in Igiene e tecnica ospedaliera.  
-La scuola, della durata di due anni, ha carattere essenzialmente dimostrativo e pratico.  
-Alla scuola potranno essere ammessi i laureati in medicina e chirurgia, ed i laureati in ingegneria civile edile.  
-Le norme di iscrizione, esami, pagamento tasse e tutte le altre norme generali sono tutte quelle comprese negli articoli da 81 a 97 dello statuto dell'Universita' di Genova. Il numero massimo di iscritti per ogni anno e' quindici.  
-Art. 216. - Gli insegnamenti impartiti nella scuola sono:  
-1° anno Storia dell'assistenza sanitaria;  
-Igiene generale applicata all'ambiente ospedaliero;  
-Batteriologia, chimica e fisica applicata;  
-Epidemiologia e profilassi generale delle malattie infettive;  
-Igiene dell'alimentazione.  
-2° anno:  
-Architettura ed edilizia ospedaliera;  
-Organizzazione e funzionamento degli ospedali;  
-Attrezzature ospedaliere;  
-Statistica ospedaliera;  
-Dietetica ospedaliera;  
-Formazione del personale ospedaliero;  
-Legislazione della assistenza ospedaliera.  
-Le lezioni teoriche e le esercitazioni pratiche sono integrate da visite ad ambienti interessanti la specialita'.  
-Art. 217. Alla fine del corso gli allievi che lo hanno frequentato regolarmente sono ammessi all'esame di diploma che consiste in una prova teorico-pratica con discussione di una tesi scritta su un argomento attinente alla specialita'. A coloro che hanno ottenuto l'approvazione nell'esame di diploma verra' rilasciato il diploma di specialista in Igiene e tecnica ospedaliera, valido a tutti gli effetti di legge.  
+3° Anno:  
+Applicazioni diagnostiche II;  
+Applicazioni terapeutiche;  
+Radioprotezione e legislazione.  
   
-Scuola di specializzazione in Neuropsichiatria infantile  
-  
-Art. 218. - Presso l'Istituto di clinica delle malattie nervose e mentali e' istituita la scuola di specializzazione in Neuropsichiatria infantile, la quale ha lo scopo di conferire adeguata competenza teorica e pratica ai laureati in medicina e chirurgia i quali intendono conseguire il diploma di specializzazione in Neuropsichiatria infantile.  
-La scuola ha la durata di anni quattro. Ad essa possono iscriversi soltanto i laureati in medicina e chirurgia. Le norme di iscrizione, esami, pagamento tasse, ecc., sono quelle generali delle scuole di specializzazione di questa Facolta', riferite negli articoli da 81 a 97 dello statuto di questa Universita'.  
-Art. 219. - Le materie di insegnamento sono:  
-1° anno:  
-Anatomia e Fisiopatologia dalla nascita alla puberta';  
-Genetica e Scienza costituzionale dello sviluppo.  
-2° anno:  
-Anatomia, Embriologia e Fisiologia del sistema nervoso;  
-Alimentazione del bambino.  
-3° anno:  
-Semeiotica e Clinica delle malattie del bambino;  
-Semeiotica e Clinica delle malattie nervose e mentali.  
-4° anno:  
-Psicologia e Psicopatologia dell'eta' evolutiva;  
-Clinica neurologica e psichiatrica infantile;  
-Psicoterapia e Psicopedagogia.  
-Tutte le discipline sono svolte sotto forma di lezioni e dimostrazioni pratiche e illustrazioni di casi clinici.  
-Gli iscritti hanno l'obbligo di frequentare assiduamente per tutti e quattro gli anni i corsi e prestare servizio in appositi reparti della clinica neuropsichiatrica e della clinica pediatrica, come medici interni con diritto a due mesi di vacanza ogni anno.  
-Il numero dei posti e' fissato in dieci per ogni anno del corso.  
-Art. 220. - Alla fine dei quattro anni gli allievi, che hanno frequentato i corsi, saranno ammessi all'esame di diploma; consistente nella presentazione e discussione di una tesi scritta di argomento pertinente alla Neuropsichiatria infantile, in una prova orale e in una prova pratica.  
-Agli allievi che hanno ottenuto l'approvazione nello esame di diploma verra' rilasciato il diploma di specializzazione in Neuropsichiatria infantile, valido a tutti gli effetti di legge.  
-  
-Scuola di specializzazione in Angiologia  
-  
-Art. 221. - Presso l'Istituto di patologia chirurgica e' istituita la scuola di specializzazione in Angiologia, la quale ha lo scopo di conferire adeguata competenza teorica e pratica ai laureati in medicina e chirurgia i quali intendano conseguire il diploma di specializzazione in Angiologia.  
-La scuola ha la durata di due anni. Ad essa possono iscriversi soltanto i laureati in medicina e chirurgia.  
-Le norme di iscrizione, esami, pagamento tasse e tutte le altre norme generali, sono tutte quelle comprese negli articoli da 81 a 97 dello statuto dell'Universita'.  
-Il numero massimo di iscritti e' di venticinque per ogni anno della scuola.  
-Art. 222. - Le materie di insegnamento sono:  
-1° anno  
-Anatomia macro e microscopica e radiologica dell'apparato vascolare;  
-Fisiologia della circolazione periferica;  
-Anatomia e fisiologia patologica delle alterazioni morbose dell'apparato vascolare;  
-Fisiopatologia della coagulazione e vasculopatie;  
-Semeiologia fisica e strumentale dell'apparato vascolare;  
-Le angiopatie in medicina;  
-Le angiopatie dei tegumenti.  
-2° anno:  
-Arteriopatie;  
-Flebopatie;  
-Lesioni dei piccoli vasi e linfopatie;  
-Terapia medica delle angiopatie;  
-Chirurgia vascolare.  
-Tutte le discipline sono svolte sotto forma di lezioni e dimostrazioni pratiche e illustrazioni di casi clinici.  
-Gli iscritti hanno l'obbligo di frequentare assiduamente per tutto il biennio i corsi e prestare servizio in apposito reparto dell'Istituto di patologia chirurgica come medici interni, con diritto a due mesi di vacanza ogni anno.  
-Art. 223. - Alla fine del biennio gli allievi che hanno frequentato i corsi saranno ammessi all'esame di diploma, consistente nella presentazione e discussione di una tesi scritta di argomento pertinente alla Angiologia, in una prova teorica e in una prova pratica.  
-Agli allievi che hanno ottenuto l'approvazione nell'esame di diploma verra' rilasciato il diploma di specializzazione in Angiologia valido a tutti gli effetti di legge.  
-  
-Scuola di specializzazione in Ematologia clinica e di laboratorio  
-  
-Art. 224. - Presso l'Istituto di patologia medica A istituita la scuola di specializzazione in Ematologia clinica e di laboratorio, la quale ha lo scopo di conferire adeguata competenza teorica e pratica ai laureati in medicina e chirurgia, i quali intendano conseguire il diploma di specializzazione in Ematologia clinica e di laboratorio.  
-La scuola ha la durata di due anni, ad essa possono iscriversi soltanto i laureati in medicina e chirurgia. Le norme di iscrizione, esami, pagamenti, tasse e tutte le altre norme generali sono tutte quelle comprese negli articoli da 81 a 97 dello statuto di questa Universita'. Il numero massimo di iscritti e' di venticinque per ogni anno della scuola.  
-Art. 225. - Le materie di insegnamento sono:  
-1° anno:  
-1) Citologia ematologica e anatomia normale e patologica del sangue e degli organi emopoietici;  
-2) Fisiologia ematologica;  
-3) Biochimica ematologica;  
-4) Basi biochimiche per l'indagine di laboratorio;  
-5) Fondamenti metodologici per analisi cliniche;  
-6) Fondamenti fisiopatologici per analisi cliniche.  
-2° anno:  
-1) Corso di clinica ematologica;  
-2) Applicazioni cliniche delle indagini di laboratorio.  
-Tutte le discipline sono svolte sotto forma di lezioni e dimostrazioni pratiche ed illustrazioni di casi clinici. Gli iscritti hanno l'obbligo di frequentare assiduamente per tutto il biennio i corsi e prestare servizio in apposito reparto dell'Istituto di patologia medica come medici interni con diritto a due mesi di vacanza per ogni anno.  
-Art. 226. - Alla fine del biennio gli allievi che hanno frequentato i corsi saranno ammessi all'esame di diploma, consistente nella presentazione e discussione di una tesi scritta di argomento pertinente alla Ematologia, in una prova orale teorica e in una prova pratica.  
-Agli allievi che hanno ottenuto l'approvazione nello esame di diploma verra' rilasciato il diploma di specializzazione in Ematologia clinica e di laboratorio valido a tutti gli effetti di legge.  
+Il programma sara' svolto in complessive otto settimane per un totale di almeno 60 lezioni globali e sara' integrato da seminari, conferenze, esercitazioni. Il direttore della scuola potra' ripartire lo svolgimento del programma in due o piu' periodi tra il 15 gennaio ed il 30 giugno.  
+Art. 281. - Alla fine di ciascun anno accademico coloro i quali abbiano ottenuto la prescritta attestazione di frequenza, potranno sostenere gli esami di profitto, il cui superamento e' condizione necessaria per la iscrizione al corso successivo.  
+Gli esami consistono in prove scritte (risposte ad un questionario di almeno cinque domande) ed in una prova orale su ciascuna delle materie di insegnamento che sono oggetto di esame in ogni anno di corso.  
+Art. 282. - Al termine del terzo anno, per conseguire il diploma di specializzazione, gli iscritti, oltre ad aver superato le prove di esame nelle singole materie, dovranno presentare una dissertazione scritta su un argomento di medicina nucleare (clinico o sperimentale) che sara' stabilito in base agli accordi presi con il direttore della scuola.  
+I candidati non riconosciuti idonei agli esami di ciascun corso e all'esame di diploma potranno sostenere le prove dopo un altro anno di frequenza.  
+Art. 283. - Le norme per l'iscrizione, per le tasse, ecc. sono quelle generali delle scuole di specializzazione e di perfezionamento riferite negli articoli da 122 a 137 dello statuto dell'Universita'.  
+Art. 284. - Agli allievi che abbiano ottenuto l'approvazione nell'esame finale viene rilasciato il diploma di specializzazione in medicina nucleare.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 1 febbraio 1960
+### Dato a Roma, addi' 31 ottobre 1973
 
-GRONCHI MEDICI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 26 febbraio 1960
+Registrato alla Corte dei conti, addi' 28 ottobre 1974
 
-Atti del Governo, registro n. 124, foglio n. 88. - VILLA
+Atti di Governo, registro n. 6, foglio n. 53. - SCIARRETTA

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1986 n. 1022
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 agosto 1981 n. 520
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1986 n. 1022
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 agosto 1981 n. 520
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
 -----------------------------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-1022. Decreto del Presidente della Repubblica 27 dicembre 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente nella quota di 1/6 del ricavo della vendita di beni immobili siti in Grottaferrata (Roma) e di beni mobili rinvenuti nell'abitazione della de cuius in Roma, via Mecenate n. 59, e in Grottaferrata, per un importo di L. 72.212.600 al netto delle passivita', quota 1/6 L. 12.035.433, disposta dalla sig.ra Coratella Carmela a favore dell'opera "Mutilatini Don Gnocchi" di Roma, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale 20 novembre 1982 del consiglio di amministrazione della fondazione stessa, con testamento olografo 1 ottobre 1981, pubblicato a rogito dott.ssa Maria Festa, notaio in Roma, in data 1 marzo 1982, n. 13629/3252 di repertorio, registrato a Roma l'11 marzo 1982.   
+520. Decreto del Presidente della Repubblica 6 agosto 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, con beneficio d'inventario, l'eredita', consistente in beni immobili, saldo libretto, buoni postali fruttiferi, contanti come da inventario redatto dal notaio dott.  
+Egidio Luoni in data 13 gennaio 1979 per un valore complessivo, al netto delle passivita', di L. 9.376.710, disposta dalla sig.ra Lattuada Rosa ved. Guglielmi con testamento olografo 10 luglio 1978, pubblicato con atto 17 aprile 1979, n. 15334/2541 di repertorio, a rogito dott. Egidio Luoni, notaio in Gallarate (Varese), registrato a Gallarate in data 23 aprile 1979 al n. 1148, vol. 226.  
   
-Visto, il Guardasigilli: ROGNONI   
-Registrato alla Corte dei conti, addi' 18 febbraio 1987   
-Registro n. 4 Presidenza, foglio n. 2
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 12 settembre 1981  
+Registro n. 7 Presidenza, foglio n. 350

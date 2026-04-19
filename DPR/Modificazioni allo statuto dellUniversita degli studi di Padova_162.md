@@ -1,236 +1,94 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1975 n. 559
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 febbraio 1966 n. 219
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1975 n. 559
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 febbraio 1966 n. 219
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli Studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio superiore della pubblica istruzione nei suoi pareri;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 15 - all'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di:
-
-storia del diritto veneziano
-
-Art. 86 - all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di:
-
-bioacustica.
-
-L'art. 89, relativo alle modalita' dell'esame di laurea in medicina e chirurgia, e' modificato nel senso che sono soppresse le seguenti parole: "e nella discussione di uno su tre temi scelti dal candidato in materie, diverse fra loro e da quella della dissertazione scritta".
-
-Art. 384 - all'elenco delle scuole di specializzazione e scuole dirette a fini speciali, annesse alla facolta' di medicina e chirurgia, e' aggiunta quella di:
-
-scuola di preparazione per tecnici di audiometria (scuola diretta a fini speciali).
-
-L'art. 385, relativo agli ordinamenti di ciascuna scuola di specializzazione e' modificato nel senso che e' aggiunto quello della scuola di preparazione per tecnici di audiometria (scuola diretta a fini speciali).
-
-Scuola di preparazione per tecnici di audiometria
-
-(scuola diretta a fini speciali)
-
-a) E' istituita, ai sensi dell'art. 20 del testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), una scuola speciale di preparazione per tecnici di audiometria che ha sede presso la clinica otorinolaringoiatrica dell'Universita' di Padova.
-
-b) La durata del corso degli studi della scuola di preparazione per tecnici di audiometria e' di due anni. L'indirizzo e' teorico-pratico. Il numero massimo complessivo degli iscritti alla scuola e' dieci (cinque per anno di corso).
-
-c) Possono essere ammessi alla scuola coloro che siano in possesso del titolo di studio prescritto per l'ammissione all'Universita' o istituto d'istruzione universitaria.
-
-Gli aspiranti debbono, nei termini regolamentari, presentare apposita domanda su carta legale diretta al rettore e corredata dei prescritti documenti e sostenere un esame di ammissione che avra' luogo nei giorni stabiliti dal rettore con apposito manifesto.
-
-Le domande di iscrizione ad anni successivi al primo vanno presentate nei termini regolamentari.
-
-d) Alla scuola si accede previo esame di cultura generale su argomenti facenti parte dei normali programmi dei licei e degli istituti di istruzione secondaria, con particolare riguardo alla parte dell'insegnamento della fisica acustica. La commissione giudicatrice viene nominata dal preside della facolta' di medicina e chirurgia ed e' composta dal direttore della scuola, presidente, e da due membri scelti fra professori di ruolo ed altro personale docente.
-
-e) Il direttore della scuola e' il direttore dell'istituto di clinica otorinolaringoiatrica dell'Universita' di Padova.
-
-Gli incarichi di insegnamento sono conferiti dal rettore, su proposta del consiglio di facolta' di medicina e chirurgia, udito il direttore della scuola.
-
-f) L'anno accademico ha inizio e termine nelle date stabilite dalle leggi in vigore per l'istruzione universitaria.
-
-La data di inizio e termine delle lezioni sono di regola uguali a quelle fissate per l'anno accademico. Tali date, tuttavia, possono essere spostate per ragioni speciali inerenti la natura dei corsi.
-
-g) Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-anatomia e fisiologia dell'orecchio, delle vie e dei centri acustici;
-
-elementi di fisica acustica;
-
-tecniche audiometriche.
-
-2° Anno:
-
-patologia dell'udito e dell'organo dell'equilibrio;
-
-elementi di otoneurologia;
-
-elementi di foniatria;
-
-tecniche audiometriche.
-
-h) L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni e dall'obbligo per gli allievi dell'internato per un periodo di due anni nei reparti della clinica otorinolaringoiatrica.
-
-La frequenza viene comprovata dall'attestazione rilasciata dagli insegnanti sul libretto di iscrizione.
-
-L'attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.
-
-i) Le commissioni per gli esami di profitto e di diploma sono nominate dal preside della facolta' di medicina e chirurgia, su proposta del direttore della scuola.
-
-Le commissioni per gli esami di profitto sono composte da tre membri: il direttore della scuola, presidente, e due insegnanti della scuola stessa.
-
-La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente, e da quattro insegnanti della scuola stessa o da altri docenti.
-
-Ogni commissario ha a disposizione dieci punti.
-
-Gli esami di profitto, che consistono in prove teoriche e pratiche, si sostengono in un unico gruppo di materie per ciascun anno di corso.
-
-L'esame di diploma consiste nella discussione di una tesi scritta su un argomento riguardante le materie di insegnamento, approvata dal direttore della scuola ed in una prova pratica stabilita dalla commissione esaminatrice.
-
-I candidati non conosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola ma, se al secondo anno non sia loro riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove.
-
-Agli allievi che avranno superato l'esame finale verra' rilasciato il diploma di tecnico in audiometria.
-
-l) Per essere ammessi a frequentare il secondo anno di corso, gli iscritti debbono aver superato tutti gli esami prescritti.
-
-m) Gli esami di profitto e di diploma si danno in due sessioni; la prima, estiva, ha inizio subito dopo la chiusura annuale dei corsi, e la seconda, autunnale, un mese innanzi il principio del nuovo anno accademico.
-
-n) Il consiglio di amministrazione dell'Universita', su proposta della direzione della scuola, approvata dal consiglio di facolta', stabilira' di anno in anno l'ammontare dei contributi.
-
-Le tasse e sopratasse annuali a carico degli iscritti restano cosi' determinate:
-
-tassa di immatricolazione..... L. 2.000
-
-tassa di iscrizione.........." 50.000
-
-sopratassa esami.........." 10.000
-
-tassa erariale di diploma."...... 1.200
-
-tassa di iscrizione quale fuori corso..." 5.000
-
-o) Al funzionamento della suddetta scuola si provvedera' con i proventi delle tasse, sopratassa e contributi dovuti dagli iscritti e con eventuali elargizioni o contributi di enti pubblici o di privati.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 29 settembre 1975
-
-LEONE
-
-MALFATTI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 21 novembre 1975 Atti di Governo, registro n. 14, foglio n. 8
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli Studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio superiore della pubblica istruzione nei suoi pareri;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 15 - all'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di:   
-storia del diritto veneziano   
-Art. 86 - all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di:   
-bioacustica.   
-L'art. 89, relativo alle modalita' dell'esame di laurea in medicina e chirurgia, e' modificato nel senso che sono soppresse le seguenti parole: "e nella discussione di uno su tre temi scelti dal candidato in materie, diverse fra loro e da quella della dissertazione scritta".   
-Art. 384 - all'elenco delle scuole di specializzazione e scuole dirette a fini speciali, annesse alla facolta' di medicina e chirurgia, e' aggiunta quella di:   
-scuola di preparazione per tecnici di audiometria (scuola diretta a fini speciali).   
-L'art. 385, relativo agli ordinamenti di ciascuna scuola di specializzazione e' modificato nel senso che e' aggiunto quello della scuola di preparazione per tecnici di audiometria (scuola diretta a fini speciali).   
-Scuola di preparazione per tecnici di audiometria   
-(scuola diretta a fini speciali)   
-a) E' istituita, ai sensi dell'art. 20 del testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), una scuola speciale di preparazione per tecnici di audiometria che ha sede presso la clinica otorinolaringoiatrica dell'Universita' di Padova.   
-b) La durata del corso degli studi della scuola di preparazione per tecnici di audiometria e' di due anni. L'indirizzo e' teorico-pratico. Il numero massimo complessivo degli iscritti alla scuola e' dieci (cinque per anno di corso).   
-c) Possono essere ammessi alla scuola coloro che siano in possesso del titolo di studio prescritto per l'ammissione all'Universita' o istituto d'istruzione universitaria.   
-Gli aspiranti debbono, nei termini regolamentari, presentare apposita domanda su carta legale diretta al rettore e corredata dei prescritti documenti e sostenere un esame di ammissione che avra' luogo nei giorni stabiliti dal rettore con apposito manifesto.   
-Le domande di iscrizione ad anni successivi al primo vanno presentate nei termini regolamentari.   
-d) Alla scuola si accede previo esame di cultura generale su argomenti facenti parte dei normali programmi dei licei e degli istituti di istruzione secondaria, con particolare riguardo alla parte dell'insegnamento della fisica acustica. La commissione giudicatrice viene nominata dal preside della facolta' di medicina e chirurgia ed e' composta dal direttore della scuola, presidente, e da due membri scelti fra professori di ruolo ed altro personale docente.   
-e) Il direttore della scuola e' il direttore dell'istituto di clinica otorinolaringoiatrica dell'Universita' di Padova.   
-Gli incarichi di insegnamento sono conferiti dal rettore, su proposta del consiglio di facolta' di medicina e chirurgia, udito il direttore della scuola.   
-f) L'anno accademico ha inizio e termine nelle date stabilite dalle leggi in vigore per l'istruzione universitaria.   
-La data di inizio e termine delle lezioni sono di regola uguali a quelle fissate per l'anno accademico. Tali date, tuttavia, possono essere spostate per ragioni speciali inerenti la natura dei corsi.   
-g) Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-anatomia e fisiologia dell'orecchio, delle vie e dei centri acustici;   
-elementi di fisica acustica;   
-tecniche audiometriche.   
-2° Anno:   
-patologia dell'udito e dell'organo dell'equilibrio;   
-elementi di otoneurologia;   
-elementi di foniatria;   
-tecniche audiometriche.   
-h) L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni e dall'obbligo per gli allievi dell'internato per un periodo di due anni nei reparti della clinica otorinolaringoiatrica.   
-La frequenza viene comprovata dall'attestazione rilasciata dagli insegnanti sul libretto di iscrizione.   
-L'attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.   
-i) Le commissioni per gli esami di profitto e di diploma sono nominate dal preside della facolta' di medicina e chirurgia, su proposta del direttore della scuola.   
-Le commissioni per gli esami di profitto sono composte da tre membri: il direttore della scuola, presidente, e due insegnanti della scuola stessa.   
-La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente, e da quattro insegnanti della scuola stessa o da altri docenti.   
-Ogni commissario ha a disposizione dieci punti.   
-Gli esami di profitto, che consistono in prove teoriche e pratiche, si sostengono in un unico gruppo di materie per ciascun anno di corso.   
-L'esame di diploma consiste nella discussione di una tesi scritta su un argomento riguardante le materie di insegnamento, approvata dal direttore della scuola ed in una prova pratica stabilita dalla commissione esaminatrice.   
-I candidati non conosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola ma, se al secondo anno non sia loro riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove.   
-Agli allievi che avranno superato l'esame finale verra' rilasciato il diploma di tecnico in audiometria.   
-l) Per essere ammessi a frequentare il secondo anno di corso, gli iscritti debbono aver superato tutti gli esami prescritti.   
-m) Gli esami di profitto e di diploma si danno in due sessioni; la prima, estiva, ha inizio subito dopo la chiusura annuale dei corsi, e la seconda, autunnale, un mese innanzi il principio del nuovo anno accademico.   
-n) Il consiglio di amministrazione dell'Universita', su proposta della direzione della scuola, approvata dal consiglio di facolta', stabilira' di anno in anno l'ammontare dei contributi.   
-Le tasse e sopratasse annuali a carico degli iscritti restano cosi' determinate:   
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 53. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti quelli di:  
+73) Estetica;  
+74) Storia della Chiesa;  
+75) Storia dell'arte contemporanea;  
+76) Storia dell'architettura e dell'urbanistica;  
+77) Istituzioni medioevali;  
+78) Filologia dantesca.  
+Dopo l'art. 68 e con il conseguente spostamento della numerazione degli articoli successivi e' aggiunto il seguente nuovo articolo relativo alla istituzione del seminario di lingue e letterature straniere moderne ammesso alla Facolta' di lettere e filosofia.  
   
-tassa di immatricolazione..... L. 2.000   
-tassa di iscrizione.........." 50.000   
-sopratassa esami.........." 10.000   
-tassa erariale di diploma."...... 1.200   
-tassa di iscrizione quale fuori corso..." 5.000   
+Seminario di lingue e letterature straniere moderne  
   
-o) Al funzionamento della suddetta scuola si provvedera' con i proventi delle tasse, sopratassa e contributi dovuti dagli iscritti e con eventuali elargizioni o contributi di enti pubblici o di privati.   
+Art. 69. - Il seminario di lingue e letterature straniere moderne comprende ed integra gli insegnamenti di lingua e letteratura francese, inglese, tedesca, spagnola, olandese e fiamminga, rumena, russa, le letterature ispano-americana e nord-americana e le eventuali altre letterature moderne.  
+Art. 70. - Agli insegnamenti complementari del corso di laurea in Materie letterarie sono aggiunti quelli di:  
+19) Linguistica;  
+20) Storia e critica del cinema;  
+21) Metodologia e didattica degli audiovisivi;  
+22) Storia della lingua latina;  
+23) Storia contemporanea.  
+Gli articoli dal n. 357 al 364, relativi alla Scuola di perfezionamento in Economia montana delle Venezie sono abrogati e sostituiti dai seguenti relativi al corso di perfezionamento in Economia montana delle Venezie.  
+  
+Corso di perfezionamento in Economia montana delle Venezie  
+  
+Art. 357. - Alla Facolta' di agraria e' annesso il corso di perfezionamento in "Economia montana delle Venezie".  
+Il corso ha lo scopo di preparare i laureati in Scienze agrarie e in Scienze forestali per metterli in grado di affrontare i problemi dell'economia montana, di dirigere, amministrare ed assistere aziende silvane e pastorali di montagna, di condurre ricerche in luogo, svolgere azione di propaganda e di impartire l'insegnamento in Istituti e Scuole professionali agrarie specializzate, in relazione alle attivita' preminenti delle singole zone.  
+Il corso ha due diversi indirizzi:  
+a) ecologico-selvicolturale;  
+b) economico-zootecnico.  
+Alla fine del corso viene rilasciato un certificato di frequenza e di esami.  
+Art. 358. - Al corso di perfezionamento in Economia montana delle Venezie possono iscriversi, per il conseguimento del certificato di frequenza e di esami, i laureati in Scienze agrarie o in Scienze forestali.  
+Il numero massimo degli iscritti e' determinato annualmente dal direttore del corso, con preferenza ai cittadini residenti nelle Venezie.  
+Art. 359. - E' direttore del corso il professore ufficiale di Economia e politica agraria della Facolta' di agraria dell'Universita' di Padova e vicedirettore il professore ufficiale di Selvicoltura.  
+Art. 360. - La durata degli studi per il conseguimento del certificato di frequenza e di esami del corso di perfezionamento e' di un anno.  
+Art. 361. - Durante il corso per l'indirizzo ecologico-selvicolturale gli iscritti debbono frequentare i seguenti insegnamenti:  
+1) Geologia, mineralogia e petrografia;  
+2) Climatologia;  
+3) Sistematica delle specie di interesse forestale;  
+4) Pedologia (chimica, fisica e biologia del suolo);  
+5) Metodologie per la definizione dei caratteri stazionali;  
+6) Selvicoltura: trattamento del bosco, biologia ed ecologia degli alberi forestali e dei vegetali del sottobosco.  
+Durante il corso per l'indirizzo economico-zootecnico gli iscritti debbono frequentare i seguenti insegnamenti:  
+1) Agronomia montana: pascolicoltura, praticoltura;  
+2) Economia dell'azienda di montagna;  
+3) Legislazione relativa alla montagna;  
+4) Zoologia forestale venatoria ed acquicoltura;  
+5) Zootecnica.  
+I corsi possono essere integrati da conferenze, esercitazioni e da visite sul luogo.  
+Durante il corso gli iscritti si dedicano anche alla compilazione di un lavoro applicativo originale (piano, progetto, studio, ecc.) in una delle materie professionali, procedendo nelle zone montane oggetto della ricerca, alla raccolta di dati, indagini ed esperienze necessari.  
+L'argomento del lavoro deve essere approvato dal competente professore ufficiale.  
+Art. 362. - Per essere ammesso all'esame per il conseguimento del certificato, l'iscritto deve aver ottenuto tutte le attestazioni di frequenza agli insegnamenti del corso, superando i relativi esami ed aver compilato il lavoro originale di cui all'articolo precedente.  
+Art. 363. - L'esame per il conseguimento del certificato consiste nella discussione del lavoro compilato dall'iscritto durante il corso.  
+La Commissione di esame per il conseguimento del certificato e' presieduta dal preside della Facolta' di agraria e composta di almeno cinque professori ufficiali scelti tra i docenti del corso e della Facolta' di agraria.  
+Art. 364. - Le tasse e sopratasse che gli iscritti sono tenuti a pagare per la iscrizione e la frequenza del corso sono fissate dal Consiglio di amministrazione su proposta della Facolta' di agraria.  
+L'ammontare dei contributi viene stabilito dal Consiglio di amministrazione, su proposta del Senato accademico, udita la Facolta' e il direttore del corso.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 settembre 1975
+### Dato a Roma, addi' 14 febbraio 1966
 
-LEONE MALFATTI
+SARAGAT GUI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 21 novembre 1975
+Registrato alla Corte dei conti, addi' 18 aprile 1966
 
-Atti di Governo, registro n. 14, foglio n. 8
+Atti del Governo, registro n. 202, foglio n. 138. - VILLA

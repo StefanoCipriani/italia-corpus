@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1982 n. 678
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 febbraio 1985 n. 348
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1982 n. 678
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 febbraio 1985 n. 348
+===============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
@@ -20,7 +20,9 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Visto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
 
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
@@ -39,20 +41,22 @@ Articolo unico
 --------------
 
   
-Nell'art. 99, relativo al corso di laurea in fisica, l'insegnamento fondamentale di "Esperimentazioni fisica (biennale)" e' soppresso ed e' sostituito dai seguenti due insegnamenti:  
-esperimentazioni fisica I;  
-esperimentazioni fisica II.  
+  
+Art. 56 - all'elenco degli insegnamenti complementari del corso di laurea in economia e commercio e' aggiunto il seguente nuovo insegnamento:   
+programmazione e controllo.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e de decreti della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 luglio 1982
+### Dato a Roma, addi' 6 febbraio 1985
 
-PERTINI BODRATO
+PERTINI
 
-Visto, il Guardasigilli: DARIDA
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 9 settembre 1982
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registro n. 105 Istruzione, foglio n. 224
+Registrato alla Corte dei conti, addi' 1 luglio 1985
+
+Registro n. 45 Istruzione, foglio n. 341

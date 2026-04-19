@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 dicembre 1949 n. 1148
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 novembre 1949 n. 1007
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 dicembre 1949 n. 1148
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 novembre 1949 n. 1007
 ================================================================
 
 Autorizzazione all'Universita' di Roma ad accettare una donazione.
@@ -12,7 +12,7 @@ Art. 1
 
 N.
 
-1148. Decreto del Presidente della Repubblica 8 dicembre 1949, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Roma viene autorizzata ad accettare la donazione della somma di L. 40.000 nominali, in titoli dello Stato, rendita 5%, disposta in suo favore dalla signora Olga Balacco in Capurso, con atto pubblico amministrativo in data 3 maggio 1949, al fine di aumentare a L. 200 mila il capitale del premio annuale di studio "Professore Giovanni De Candia", istituito presso l'Universita' medesima.  
+1007. Decreto del Presidente della Repubblica 4 novembre 1949, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Roma viene autorizzata ad accettare la donazione della biblioteca tecnica e dei manoscritti del defunto prof. ing.Luciano Conti, disposta in suo favore dagli eredi legittimi del "de cujus", con atti Pubblici amministrativi in data 7 marzo 1946 e 28 dicembre 1948.  
   
 Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 27 febbraio 1950
+Registrato alla Corte dei conti, addi' 9 gennaio 1950

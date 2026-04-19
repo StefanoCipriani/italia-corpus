@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 503
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1976 n. 81
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 503
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1976 n. 81
+==============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad acquistare un immobile.
 ----------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-503. Decreto del Presidente della Repubblica 27 giugno 1983, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad acquistare, al convenuto prezzo di L. 32.000.000, un immobile sito in Viterbo, via Secchi n. 16, di proprieta' dei signori Peris Fernando e Onorati Lidia, distinto al nuovo catasto edilizio urbano alla partita 16227, foglio 170, particella 472/ A, da destinare a sede sociale.  
+81. Decreto del Presidente della Repubblica 16 febbraio 1976, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad acquistare, al prezzo di L. 10.168.000, un appartamento facente parte del fabbricato, non ancora accatastato perche' di recente costruzione, sito in Alessandria, via Bergamo n. 2, al piano secondo, scala B, di mq 91 circa, di proprieta' della S.p.a. "Laurenzia Bergamo" in Torino, da adibire a sede della locale sezione provinciale.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 19 settembre 1983  
-Registro n. 7 Presidenza, foglio n. 331
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 30 marzo 1976  
+Atti di Governo, registro n. 4, foglio n. 37

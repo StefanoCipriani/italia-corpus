@@ -1,102 +1,104 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 791
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1964 n. 1456
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 791
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1964 n. 1456
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Palermo e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
+  
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiori, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1935, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Veduta la [legge 26 luglio 1957, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-07-26;741);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
   
 Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 147 - all'elenco delle scuole di specializzazione in medicina e chirurgia e' aggiunta la scuola di specializzazione in chirurgia toracica.  
-
-Art. 2
-------
-
-  
-  
-Dopo l'art. 196, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chirurgia toracica:   
-  
-Scuola di specializzazione in chirurgia toracica   
-  
-Art. 197. - La scuola di specializzazione in chirurgia toracica ha sede presso l'istituto di patologia speciale chirurgica e propedeutica clinica e conferisce il diploma di specialista in chirurgia toracica.   
-Art. 198. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Art. 199. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalla autorita' competente.   
-Art. 200. - La durata del corso e' di cinque anni, non suscettibile di abbreviazione e prevede l'insegnamento di tutte le branche della chirurgia toracica, chirurgia polmonare, chirurgia cardiaca, chirurgia esofagea, chirurgia del mediastino e della parete toracica.   
-Art. 201. - Il numero degli allievi e' di sei per anno di corso e complessivamente di trenta iscritti per l'intero corso di studi.   
-Art. 202. - L'ammissione al corso avviene per concorso per titoli ed esami.   
-Art. 203. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-1) embriologia, anatomia descrittiva e topografica del torace e degli organi endotoracici;   
-2) anatomia chirurgica del torace e degli organi endotoracici;   
-3) anatomia patologica delle malattie del torace (biennale) I;   
-4) anestesia in chirurgia toracica.   
-2° Anno:   
-1) fisiopatologia dell'apparato respiratorio;   
-2) fisiopatologia dell'apparato cardiocircolatorio;   
-3) semeiotica dell'apparato respiratorio, dell'esofago e del mediastino;   
-4) semeiotica dell'apparato cardiocircolatorio;   
-5) anatomia patologica delle malattie del torace (biennale) II.   
-3° Anno:   
-1) patologia e clinica chirurgica delle affezioni dell'apparato respiratorio, del mediastino e della parete toracica (biennale) I;   
-2) patologia e clinica chirurgica delle affezioni del cuore e dei grossi vasi endotoracici;   
-3) patologia e clinica chirurgica delle affezioni dell'esofago e del diaframma;   
-4) elementi di terapia medica delle cardio-angiopatie;   
-5) elementi di fisioterapia respiratoria;   
-6) diagnostica radiologica nelle malattie chirurgiche del torace.   
-4° Anno:   
-1) patologia e clinica chirurgica delle affezioni dell'apparato respiratorio, del mediastino e della parete toracica (biennale) II;   
-2) tecnica operatoria per le affezioni della parete toracica, dell'apparato respiratorio, dell'esofago, del mediastino e del diaframma (biennale) I;   
-3) tecnica operatoria delle affezioni del cuore, pericardio e grossi vasi endotoracici;   
-4) principi e tecniche della circolazione extracorporea.   
-5° Anno:   
-1) terapia intensiva e rianimazione in chirurgia toracica;   
-2) tecnica operatoria per le affezioni della parete toracica, dell'apparato respiratorio, dell'esofago, del mediastino e del diaframma (biennale) II;   
-3) terapia chirurgica della tbc pleuropolmonare.   
-Art. 204. - Il corso si compone di lezioni, di esercitazioni pratiche, di frequenza obbligatoria ai fini di apprendimento, di conferenze riguardanti argomenti specialistici, di turni in corsia ed in sala operatoria. La frequenza ai corsi, in corsia ed in sala operatoria, alle esercitazioni e' obbligatoria.   
-In caso contrario i candidati non possono ottenere l'attestazione di frequenza necessaria per l'ammissione agli esami.   
-Art. 205.- Alla fine di ciascun anno di corso gli specialisti che abbiano ottenuto la firma di frequenza devono sostenere un esame di profitto sulle materie di insegnamento il cui superamento e' condizione necessaria ed indispensabile per ottenere l'iscrizione all'anno successivo e, per quelli che sono stati iscritti al quinto anno, per l'ammissione all'esame di diploma.   
-Durante il corso gli specializzandi frequentano la sala operatoria in maniera assidua, devono assistere a numerosi interventi in chirurgia toracica ed essere in grado di eseguirne essi stessi.   
-Art. 206. - Per tutti gli specializzandi che hanno superato gli esami dei cinque anni, alla fine del quinto anno di corso ha luogo l'esame di diploma, consistente nella presentazione e discussione di una dissertazione scritta su un argomento di chirurgia toracica concordato con la direzione della scuola.   
+Art. 20. - All'elenco degli Istituti annessi alla Facolta' di economia e commercio e' aggiunto quelli di e Istituto di matematica per la ricerca operativa".  
+Il direttore di detto Istituto sara' il professore ufficiale dell'insegnamento di Matematica generale.  
+Dopo l'art. 30 e' aggiunto il seguente nuovo articolo, relativo alla istituzione del corso di laurea in Lingue e letterature straniere moderne (indirizzo europeo) annesso alla Facolta' di lettere e filosofia con il conseguente spostamento della numerazione degli articoli successivi Laurea in Lingue e letterature straniere moderne (indirizzo europeo)  
+Art. 31. - La durata del corso degli studi per la laurea in Lingue e letterature straniere moderne (indirizzo europeo) e' di quattro anni.  
+E' titolo di ammissione il diploma di maturita' classica.  
+Sono insegnamenti fondamentali:  
+1) Letteratura italiana;  
+2) Letteratura latina;  
+3) Glottologia;  
+4) Una lingua e letteratura straniera moderna;  
+5) Una seconda lingua e letteratura straniera moderna;  
+6) Filologia romanza (o germanica, o slava, o ugrofinnica);  
+7) Storia medioevale;  
+8) Storia moderna;  
+9) Storia dell'arte moderna (o storia dell'arte medioevale e moderna)  
+10) Geografia.  
+Sono insegnamenti complementari (quando non siano scelti come fondamentali ai su indicati numeri 4), 5), 6):  
+1) Lingua e letteratura francese;  
+2) Lingua e letteratura spagnola;  
+3) Lingua e letteratura portoghese;  
+4) Lingua e letteratura romena;  
+5) Lingua e letteratura inglese;  
+6) Lingua e letteratura tedesca;  
+7) Lingua e letteratura olandese e fiamminga;  
+8) Lingue e letterature scandinave;  
+9) Lingua e letteratura russa;  
+10) Lingua e letteratura polacca;  
+11) Lingua e letteratura cecoslovacca;  
+12) Lingua e letteratura serbo-croata;  
+13) Lingua e letteratura slovena;  
+14) Lingua e letteratura bulgara;  
+15) Lingua e letteratura ungherese;  
+16) Lingua e letteratura neo-greca;  
+17) Lingua e letteratura albanese;  
+18) Lingua e letteratura moderna dell'Asia e dell'Africa;  
+19) Filologia romanza;  
+20) Filologia germanica;  
+21) Filologia slava;  
+22) Filologia ugrofinnica;  
+23) Letteratura anglo-americana;  
+24) Letteratura ispano-americana;  
+25) Letteratura brasiliana;  
+26) Storia della lingua italiana  
+27) Storia della letteratura italiana, moderna e contemporanea;  
+28) Storia dalle tradizioni popolari;  
+29) Storia dell'arte medioevale  
+30) Storia della musica;  
+31) Storia del teatro e dello spettacolo;  
+32) Letteratura, greca;  
+33) Lingua e letteratura latina e medioevale;  
+34) Storia e filologia bizantina (o Filologia bizantina)  
+35) Storia, romana;  
+36) Storia greca;  
+37) Storia dell'Europa orientale;  
+38) Storia della filosofia;  
+39) Storia della filosofia, moderna e contemporanea;  
+40) Filosofia del linguaggio.  
+Lo studente dovra' seguire i corsi e sostenere gli esami in tutti gli insegnamenti fondamentali dell'indirizzo prescelto e in tre altri insegnamenti da lui scelti fra i complementari dello stesso indirizzo.  
+Uno degli insegnamenti complementari potra' essere sostituito dallo studente con una disciplina di altri corsi di studio della stessa o di diversa Facolta'.  
+L'insegnamento della lingua e letteratura stranieri moderna, alla quale lo studente intende principalmente dedicarsi, dovra' essere seguito per tutti i quattro anni, alla fine di ciascuno dei quali egli sara' sottoposto a prove scritte, di anno in anno, gradualmente progressive. Dovranno poi essere seguiti per due anni l'insegnamento della Filologia a cui quella stessa prima lingua si ricollega e l'insegnamento della seconda lingua e letteratura straniera moderna prescelta.  
+Due altri insegnamenti fondamentali dovranno pure essere scritti per un biennio. Lo studente potra' poi seguire per un biennio anche un altro insegnamento; ed in tal caso potra' ridurre da tre a due gli insegnamenti complementari di sua scelta.  
+Gli esami di Letteratura italiana e letteratura latina comprendono una prova scritta preliminare. "Il preside, sentita ove ritenga la Facolta' deve controllare i piani di studio presentati dagli studenti ed approvarli prima che siano resi definitivi. Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti oli insegnamenti fondamentali dell'indirizzo prescelto e in tutti gli altri insegnamenti compresi nel piano di studi approvato dal preside".  
+Art. 32. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' aggiunto quello di "Psichiatria".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1979
+### Dato a Roma, addi' 31 ottobre 1964
 
-PERTINI VALITUTTI
+Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA GUI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 22 febbraio 1980
+Registrato alla Corte dei conti, addi' 5 gennaio 1965
 
-Registro n. 13 Istruzione, foglio n. 324
+Atti del Governo, registro n. 189, foglio n. 63. - VILLA

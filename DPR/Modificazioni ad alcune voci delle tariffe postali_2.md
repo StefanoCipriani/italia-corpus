@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 maggio 1960 n. 564
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1966 n. 1351
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 maggio 1960 n. 564
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1966 n. 1351
+================================================================
 
 Modificazioni ad alcune voci delle tariffe postali.
 ---------------------------------------------------
@@ -10,29 +10,11 @@ Modificazioni ad alcune voci delle tariffe postali.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Visto l'art. 8 del Codice postale e delle telecomunicazioni, approvato con il [regio decreto 27 febbraio 1936, n. 145](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;145);
+Visto l'art. 8 del Codice postale e delle telecomunicazioni, approvato con [regio decreto 27 febbraio 1936, n. 645](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645), e successive modificazioni;
 
-Visto il [decreto del Presidente della Repubblica 2 agosto 1948, n. 1052](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-08-02;1052);
+Visto il [decreto del Presidente della Repubblica 22 luglio 1965, n. 880](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-07-22;880);
 
-Visto il [decreto del Presidente della Repubblica 5 aprile 1949, n. 111](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-05;111);
-
-Visto il [decreto del Presidente della Repubblica 22 gennaio 1950, n. 193](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-01-22;193);
-
-Visto il [decreto del Presidente della Repubblica 29 giugno 1931, n. 582](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1931-06-29;582);
-
-Visto il [decreto del Presidente della Repubblica 2 agosto 1952, n. 1316](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-08-02;1316);
-
-Visto il [decreto del Presidente della Repubblica 30 giugno 1954, n. 819](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-30;819);
-
-Visto il [decreto del Presidente della Repubblica 10 ottobre 1955, n. 1099](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-10-10;1099);
-
-Visto il [decreto del Presidente della Repubblica 20 marzo 1957, n. 333](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-03-20;333);
-
-Visto il [decreto del Presidente della Repubblica 24 marzo 1957, n. 366](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-03-24;366);
-
-Visto il [decreto del Presidente della Repubblica 5 settembre 1957, n. 855](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-09-05;855);
-
-Visto il [decreto del Presidente della Repubblica 8 agosto 1959, n. 675](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-08-08;675);
+Visto il [decreto del Presidente della Repubblica 15 dicembre 1965, n. 1414](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-12-15;1414);
 
 Sentito il Consiglio di amministrazione delle poste e delle telecomunicazioni;
 
@@ -47,30 +29,64 @@ Art. 1
 ------
 
   
-Le voci n. 1 e n. 2 della tabella n. 1 allegata al [decreto del Presidente della Repubblica 2 agosto 1948, n. 1052](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-08-02;1052), concernente le tariffe postali per l'interno della Repubblica, e successive modificazioni, sono sostituite dalle seguenti:  
-1. Lettere:  
-per i primi 20 grammi....................................... L. 30 per ogni porto successivo di 20 grammi o frazione........... " 20 lettere a tariffa ridotta:  
-per i primi 20 grammi..................................... " 15 per ogni porto successivo di 20 grammi o frazione......... " 10   
-2. Biglietti postali (messi in vendita dall'Amministrazione  
-delle pp. e tt.):  
-per i primi 20 grammi....................................... " 35 per ogni porto successivo di 20 grammi o frazione........... " 20
+Nella Tabella n. 1, allegata al [decreto del Presidente della Repubblica 22 luglio 1965, n. 880](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-07-22;880), la voce n. 29 e' sostituita dalla seguente:  
+29 - Sopratassa di trasporto aereo:  
+L.C. - (lettere, biglietti postali, cartoline postali,  
+vaglia di rimborso relativi ad invii con assegno,  
+titoli da riscuotere, lettere assicurate, avvisi di  
+accreditamento del postagiro, avvisi di ricevimento  
+e di pagamento) per ogni 5 gr. o frazione........... L. 10  
+A.O. - Tutti gli altri oggetti non rientranti nella  
+categoria L.C. per ogni 30 gr. o frazione........... " 10  
+Pacchi - sopratassa:  
+fino a 1000 grammi.................................. " 220  
+per ogni 500 grammi o frazione in piu'............... " 110  
+  
+Al trasporto aereo sono ammessi i pacchi ordinari normali e quelli voluminosi sino a 20 kg.  
+I pacchi inviati per via aerea fino a kg. 10 sono recapitati per espresso e debbono essere gravati, in aggiunta alla sopratassa di trasporto aereo, del relativo diritto fisso di L. 180. Sia la sopratassa che il diritto fisso di cui sopra debbono essere aggiunti all'ammontare della tariffa ordinaria.  
 
 Art. 2
 ------
 
   
-Il presente decreto avra' effetto dal 1 luglio 1960.  
+Nella rubrica "Limiti massimi di peso" della Tabella n. 2, allegata al [decreto del Presidente della Repubblica 22 luglio 1965, n. 880](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-07-22;880), le voci n. 7 e n. 8 e la lettera b) della voce n. 10 sono sostituite dalle seguenti:  
+n. 7 - Cartoline illustrate, biglietti da visita,  
+stampe augurali contenenti non piu di cinque parole di  
+convenevoli manoscritti, fatture commerciali, estratti  
+di conto delle amministrazioni dei giornali, cedole di  
+commissioni librarie e cartoncini a stampa di cui alla  
+voce 10 della tabella n. 1............................ gr. 15  
+n. 8 - Stampe augurali contenenti convenevoli redat  
+ti interamente a stampa e partecipazioni di nascita,  
+morte, matrimonio, ecc................................ " 20  
+n. 10 - Pacchi:  
+b) Pacchi urgenti..................................... kg. 5  
+
+Art. 3
+------
+
+  
+Alla rubrica "Dimensioni massime" della Tabella n. 2, allegata al [decreto del Presidente della Repubblica 22 luglio 1965, n. 880](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-07-22;880), le voci n. 4 e n. 5 sono sostituite dalle seguenti:  
+n. 4 - Cartoline illustrate, biglietti da visita o stampe augurali con non piu' di cinque parole di convenevoli manoscritti, estratti di conto delle amministrazioni dei giornali, cedole di commissioni librarie e cartoncini a stampa di cui alla voce 10 della Tabella n. 1, cm. 15 x 10,5.  
+Le corrispondenze suddette possono avere anche dimensioni maggiori purche' siano contenute nei limiti indicati, mediante ripiegatura, e non superino il peso massimo per esse stabilito.  
+n. 5 - Stampe augurali contenenti convenevoli redatti interamente a stampa e partecipazioni cm. 23,5 X 12 - Tolleranza in piu' mm. 2.  
+
+Art. 4
+------
+
+  
+Il presente decreto ha effetto dal primo giorno del mese successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 maggio 1960
+### Dato a Roma, addi' 5 dicembre 1966
 
-GRONCHI TAMBRONI - MANNA - TAVIANI
+SARAGAT MORO - SPAGNOLLI - COLOMBO
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 20 giugno 1960
+Registrato alla Corte dei conti, addi' 16 marzo 1967
 
-Atti del Governo, registro n. 127, foglio n. 75. - VILLA
+Atti del Governo, registro n. 210, foglio n. 16. - VILLA

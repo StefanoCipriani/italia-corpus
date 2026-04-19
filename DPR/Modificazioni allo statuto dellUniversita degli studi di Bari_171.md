@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1969 n. 424
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 agosto 1964 n. 942
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1969 n. 424
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 agosto 1964 n. 942
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
@@ -10,19 +10,19 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169) e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con il [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta, la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -32,163 +32,135 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 27, relativo all'elenco degli istituti annessi alla facolta' di economia e commercio e' modificato nel senso che le denominazioni degli istituti di cui al n. 7 "Istituto di politica economica e finanziaria" e al n. 14 "Istituto di lingua e letteratura tedesca" (che comprende anche filologia germanica) sono mutate in quelle di:
+L'art. 107, relativo all'ordinamento del triennio di applicazione del corso di laurea in ingegneria elettrotecnica e' abrogato e sostituito dai seguenti, con il conseguente spostamento della successiva numerazione:
 
-7. Istituto di politica economica e finanziaria (che comprende anche scienza delle finanze e diritto finanziario);
+Art. 107. - Gli insegnamenti del triennio (3°, 4° e 5° anno) si distinguono in:
 
-14. Istituto di lingue e letterature germaniche.
+A) Obbligatori sul piano nazionale:
 
-Art. 41. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti quelli di:
+1) Scienza delle costruzioni;
 
-Dialettologia italiana;
+2) Meccanica applicata alle macchine;
 
-Linguistica generale.
+3) Fisica tecnica;
 
-L'art. 42, concernente le norme sulle propedeuticita' ed esami del corso di laurea in materie letterarie e' soppresso.
+4) Elettrotecnica I;
 
-Art. 59. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:
+5) Idraulica;
 
-Antropologia criminale;
+6) Misure elettriche I;
 
-Istituzioni di patologia generale;
+7) Macchine;
 
-Oncologia sperimentale;
+8) Macchine elettriche;
 
-Immunologia;
+9) Impianti elettrici I;
 
-Radiobiologia;
+10) Elettronica applicata;
 
-Medicina nucleare;
+B) Obbligatori sul piano della Facolta':
 
-Virologia;
+11) Tecnologie meccaniche;
 
-Ottica fisio-patologica;
+12) Materiali;
 
-Nefrologia medica;
+13) Complementi di matematiche;
 
-Dermatologia allergologica e professionale;
+14) Elettrotecnica II;
 
-Statistica medica e biometria.
+15) Impianti elettrici II;
 
-Art. 63. - Il primo comma e' abrogato e sostituito dal seguente: "La facolta' di farmacia conferisce la laurea in farmacia e la laurea in chimica e tecnologia farmaceutiche".
+16) Controlli automatici;
 
-Dopo l'art. 69 e con il conseguente spostamento della successiva numerazione e' aggiunto il seguente nuovo articolo relativo alla istituzione del corso di laurea in chimica e tecnologia farmaceutiche annesso alla facolta' di farmacia.
+17) Misure elettriche II;
 
-Laurea in chimica e tecnologia farmaceutiche
+18) Legislazione (semestrale);
 
-Art. 70. - Durata del corso degli studi: cinque anni, divisi in un biennio ed un triennio.
+19) Economia industriale (semestrale).
 
-Titolo di ammissione: diploma di maturita' classica e scientifica.
+C) Gruppi di materie a scelta dello studente:
 
-Insegnamenti fondamentali:
+a) Orientamento impianti:
 
-Biennio:
+20) Impianti elettrici speciali;
 
-1) Analisi chimico farmaceutica I (analisi qualitativa);
+21) Elettrochimica;
 
-\* 2) Anatomia umana;
+b) Orientamento elettromeccanico:
 
-\* 3) Botanica farmaceutica;
+20) Costruzioni elettromeccaniche;
 
-\* 4) Chimica fisica;
+21) Misure elettriche III;
 
-\* 5) Chimica generale ed inorganica;
+c) Orientamento comunicazioni:
 
-\*\* 6) Chimica organica I;
+20) Comunicazioni elettriche;
 
-\* 7) Fisica;
+21) Radiotecnica e televisione.
 
-8) Fisiologia generale;
+Art. 108. - Ordine degli esami:
 
-\* 9) Istituzioni di matematiche;
+Elettrotecnica I: propedeutico per gli esami di Elettrotecnica II, di Misure elettriche I, di Impianti elettrici I e di Elettronica applicata;
 
-10) Microbiologia e igiene.
+Complementi di matematica: propedeutico per gli esami di Elettrotecnica II, di Impianti elettrici I e di Elettronica applicata;
 
-Triennio:
+Materiali: propedeutico per l'esame di Elettro-tecnica I;
 
-11) Analisi chimico farmaceutica II (analisi quantitativa);
+Elettrotecnica II: propedeutico per gli esami di Macchine elettriche, di Misura elettriche II e di Impianti elettrici II;
 
-12) Analisi chimico farmaceutica III (analisi dei medicamenti); \* 13) Biochimica applicata;
+Impianti elettrici I: propedeutico per l'esame di Impianti elettrici II;
 
-\* 14) Chimica biologica;
+Misure elettriche I: propedeutico per gli esami di Misure elettriche II e di Elettrochimica;
 
-\* 15) Chimica degli alimenti;
+Elettronica applicata: propedeutico per gli esami di Controlli automatici, di Comunicazioni elettriche, di Radiotecnica e televisione;
 
-\* 16) Chimica farmaceutica applicata;
+Impianti elettrici II: propedeutico per l'esame di Impianti elettrici speciali;
 
-\* 17) Chimica farmaceutica e tossicologica I;
+Macchine elettriche: propedeutico per l'esame di Costruzioni elettro-meccaniche;
 
-\* 18) Chimica farmaceutica e tossicologica II;
+Misure elettriche II: propedeutico per l'esame di Misure elettriche III.
 
-\*\* 19) Chimica organica II;
+Art. 109. - Gli esami di Misure elettriche I e Misure elettriche II comportano anche una prova pratica di laboratorio. L'esame di Impianti elettrici II comporta la preventiva esecuzione di un progetto.
 
-\* 20) Farmacologia e farmacognosia;
+Per essere ammesso all'esame di laurea lo studente deve aver superato gli esami nelle materie obbligatorie e nelle due dell'indirizzo prescelto.
 
-21) Impianti dell'industria farmaceutica;
+L'esame di laurea consiste in due prove orali: una vertente sugli studi e sulle esercitazioni svolte negli ultimi tre anni di corso; l'altra sulla discussione di un progetto particolare presentato come tesi.
 
-22) Laboratorio di preparazione estrattiva e sintetica dei farmaci;
+Art. 110. - All'elenco degli Istituti della Facolta' di ingegneria e' aggiunto il seguente:
 
-23) Metodi fisici in chimica organica;
-
-\* 24) Saggi e dosaggi farmacologici;
-
-\* 25) Tecnica e legislazione farmaceutica.
-
-Insegnamenti complementari:
-
-Chimica delle fermentazioni e microbiologia industriale;
-
-\* Chimica delle sostanze organiche naturali;
-
-Chimica dei prodotti dietetici;
-
-\* Complementi di chimica tossicologica;
-
-\* Microchimica;
-
-\* Stechiometria;
-
-Zoologia e parassitologia.
-
-Le materie segnate con un asterisco sono comuni alla laurea in farmacia; quelle segnate con due asterischi sono comuni alla laurea in chimica.
-
-Per ottenere l'iscrizione al 3° anno di corso, lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fissati per i due anni precedenti.
-
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato tutti gli esami dei corsi fondamentali e almeno due esami a scelta fra i corsi complementari.
-
-La prova di laurea comporta la discussione di una tesi sperimentale.
-
-Art. 148, relativo alla scuola di specializzazione in diplomatica ed archivistica e' modificato nel senso che il primo comma e' abrogato e sostituito dal seguente:
-
-"Il consiglio della scuola si compone dei professori incaricati degli insegnamenti costitutivi, ed e' presieduto dal direttore nominato per un triennio alternativamente dalla facolta' di giurisprudenza e dalla facolta' di lettere e filosofia nella persona di un professore di ruolo".
+Istituto di geologia applicata.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 29 maggio 1969
+Dato a Roma, addi' 13 agosto 1964
 
-SARAGAT
+Per il Presidente della Repubblica
 
-FERRARI AGGRADI
+Il Presidente del Senato
 
-Visto, il Guardasigilli: GAVA
+MERZAGORA
+
+GUI
+
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 18 luglio 1969 Atti del Governo, registro n. 228, foglio n. 29. - CARUSO
+alla Corte dei conti, addi' 19 ottobre 1964 Atti del Governo, registro n. 187, foglio n. 138. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con il [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta, la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
@@ -196,84 +168,69 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 27, relativo all'elenco degli istituti annessi alla facolta' di economia e commercio e' modificato nel senso che le denominazioni degli istituti di cui al n. 7 "Istituto di politica economica e finanziaria" e al n. 14 "Istituto di lingua e letteratura tedesca" (che comprende anche filologia germanica) sono mutate in quelle di:  
-7. Istituto di politica economica e finanziaria (che comprende anche scienza delle finanze e diritto finanziario);  
-14. Istituto di lingue e letterature germaniche.  
-Art. 41. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti quelli di:  
-Dialettologia italiana;  
-Linguistica generale.  
-L'art. 42, concernente le norme sulle propedeuticita' ed esami del corso di laurea in materie letterarie e' soppresso.  
-Art. 59. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:  
-Antropologia criminale;  
-Istituzioni di patologia generale;  
-Oncologia sperimentale;  
-Immunologia;  
-Radiobiologia;  
-Medicina nucleare;  
-Virologia;  
-Ottica fisio-patologica;  
-Nefrologia medica;  
-Dermatologia allergologica e professionale;  
-Statistica medica e biometria.  
-Art. 63. - Il primo comma e' abrogato e sostituito dal seguente: "La facolta' di farmacia conferisce la laurea in farmacia e la laurea in chimica e tecnologia farmaceutiche".  
-Dopo l'art. 69 e con il conseguente spostamento della successiva numerazione e' aggiunto il seguente nuovo articolo relativo alla istituzione del corso di laurea in chimica e tecnologia farmaceutiche annesso alla facolta' di farmacia.  
+L'art. 107, relativo all'ordinamento del triennio di applicazione del corso di laurea in ingegneria elettrotecnica e' abrogato e sostituito dai seguenti, con il conseguente spostamento della successiva numerazione:  
+Art. 107. - Gli insegnamenti del triennio (3°, 4° e 5° anno) si distinguono in:  
+A) Obbligatori sul piano nazionale:  
+1) Scienza delle costruzioni;  
+2) Meccanica applicata alle macchine;  
+3) Fisica tecnica;  
+4) Elettrotecnica I;  
+5) Idraulica;  
+6) Misure elettriche I;  
+7) Macchine;  
+8) Macchine elettriche;  
+9) Impianti elettrici I;  
+10) Elettronica applicata;  
+B) Obbligatori sul piano della Facolta':  
+11) Tecnologie meccaniche;  
+12) Materiali;  
+13) Complementi di matematiche;  
+14) Elettrotecnica II;  
+15) Impianti elettrici II;  
+16) Controlli automatici;  
+17) Misure elettriche II;  
+18) Legislazione (semestrale);  
+19) Economia industriale (semestrale).  
+C) Gruppi di materie a scelta dello studente:  
   
-Laurea in chimica e tecnologia farmaceutiche  
+a) Orientamento impianti:  
+20) Impianti elettrici speciali;  
+21) Elettrochimica;  
   
-Art. 70. - Durata del corso degli studi: cinque anni, divisi in un biennio ed un triennio.  
-Titolo di ammissione: diploma di maturita' classica e scientifica.  
-Insegnamenti fondamentali:  
-Biennio:  
-1) Analisi chimico farmaceutica I (analisi qualitativa);  
-\* 2) Anatomia umana;  
-\* 3) Botanica farmaceutica;  
-\* 4) Chimica fisica;  
-\* 5) Chimica generale ed inorganica;  
-\*\* 6) Chimica organica I;  
-\* 7) Fisica;  
-8) Fisiologia generale;  
-\* 9) Istituzioni di matematiche;  
-10) Microbiologia e igiene.  
-Triennio:  
-11) Analisi chimico farmaceutica II (analisi quantitativa);  
-12) Analisi chimico farmaceutica III (analisi dei medicamenti); \* 13) Biochimica applicata;  
-\* 14) Chimica biologica;  
-\* 15) Chimica degli alimenti;  
-\* 16) Chimica farmaceutica applicata;  
-\* 17) Chimica farmaceutica e tossicologica I;  
-\* 18) Chimica farmaceutica e tossicologica II;  
-\*\* 19) Chimica organica II;  
-\* 20) Farmacologia e farmacognosia;  
-21) Impianti dell'industria farmaceutica;  
-22) Laboratorio di preparazione estrattiva e sintetica dei farmaci;  
-23) Metodi fisici in chimica organica;  
-\* 24) Saggi e dosaggi farmacologici;  
-\* 25) Tecnica e legislazione farmaceutica.  
-Insegnamenti complementari:  
-Chimica delle fermentazioni e microbiologia industriale;  
-\* Chimica delle sostanze organiche naturali;  
-Chimica dei prodotti dietetici;  
-\* Complementi di chimica tossicologica;  
-\* Microchimica;  
-\* Stechiometria;  
-Zoologia e parassitologia.  
-Le materie segnate con un asterisco sono comuni alla laurea in farmacia; quelle segnate con due asterischi sono comuni alla laurea in chimica.  
-Per ottenere l'iscrizione al 3° anno di corso, lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fissati per i due anni precedenti.  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato tutti gli esami dei corsi fondamentali e almeno due esami a scelta fra i corsi complementari.  
-La prova di laurea comporta la discussione di una tesi sperimentale.  
-Art. 148, relativo alla scuola di specializzazione in diplomatica ed archivistica e' modificato nel senso che il primo comma e' abrogato e sostituito dal seguente:  
-"Il consiglio della scuola si compone dei professori incaricati degli insegnamenti costitutivi, ed e' presieduto dal direttore nominato per un triennio alternativamente dalla facolta' di giurisprudenza e dalla facolta' di lettere e filosofia nella persona di un professore di ruolo".  
+b) Orientamento elettromeccanico:  
+20) Costruzioni elettromeccaniche;  
+21) Misure elettriche III;  
+  
+c) Orientamento comunicazioni:  
+20) Comunicazioni elettriche;  
+21) Radiotecnica e televisione.  
+Art. 108. - Ordine degli esami:  
+Elettrotecnica I: propedeutico per gli esami di Elettrotecnica II, di Misure elettriche I, di Impianti elettrici I e di Elettronica applicata;  
+Complementi di matematica: propedeutico per gli esami di Elettrotecnica II, di Impianti elettrici I e di Elettronica applicata;  
+Materiali: propedeutico per l'esame di Elettro-tecnica I;  
+Elettrotecnica II: propedeutico per gli esami di Macchine elettriche, di Misura elettriche II e di Impianti elettrici II;  
+Impianti elettrici I: propedeutico per l'esame di Impianti elettrici II;  
+Misure elettriche I: propedeutico per gli esami di Misure elettriche II e di Elettrochimica;  
+Elettronica applicata: propedeutico per gli esami di Controlli automatici, di Comunicazioni elettriche, di Radiotecnica e televisione;  
+Impianti elettrici II: propedeutico per l'esame di Impianti elettrici speciali;  
+Macchine elettriche: propedeutico per l'esame di Costruzioni elettro-meccaniche;  
+Misure elettriche II: propedeutico per l'esame di Misure elettriche III.  
+Art. 109. - Gli esami di Misure elettriche I e Misure elettriche II comportano anche una prova pratica di laboratorio. L'esame di Impianti elettrici II comporta la preventiva esecuzione di un progetto.  
+Per essere ammesso all'esame di laurea lo studente deve aver superato gli esami nelle materie obbligatorie e nelle due dell'indirizzo prescelto.  
+L'esame di laurea consiste in due prove orali: una vertente sugli studi e sulle esercitazioni svolte negli ultimi tre anni di corso; l'altra sulla discussione di un progetto particolare presentato come tesi.  
+Art. 110. - All'elenco degli Istituti della Facolta' di ingegneria e' aggiunto il seguente:  
+Istituto di geologia applicata.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 maggio 1969
+### Dato a Roma, addi' 13 agosto 1964
 
-SARAGAT FERRARI AGGRADI
+Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA GUI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 18 luglio 1969
+Registrato alla Corte dei conti, addi' 19 ottobre 1964
 
-Atti del Governo, registro n. 228, foglio n. 29. - CARUSO
+Atti del Governo, registro n. 187, foglio n. 138. - VILLA

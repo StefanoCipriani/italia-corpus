@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 novembre 1974 n. 729
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 502
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 novembre 1974 n. 729
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 502
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-729. Decreto del Presidente della Repubblica 25 novembre 1974, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 50.000.000, disposto dalla sig.ra Gemma Fragni ved. Sichirollo con testamento pubblico in data 17 febbraio 1970, n. 12 di repertorio atti ultima volonta', a rogito notar Paolo Consolandi in Milano in data 13 luglio 1972 (n. 23038/8352 di repertorio) ed ivi registrato il 14 luglio 1972 al n. A/ 2-13534-71 M - serie F.  
+502. Decreto del Presidente della Repubblica 27 giugno 1983, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in un libretto a risparmio di L. 2.286.442, disposto dalla sig.ra Zappa Petronilla ved. Cavagnoli con testamento olografo 18 ottobre 1973, pubblicato in data 28 gennaio 1980, numero 52767/12496 di repertorio, a rogito dott. Paolo Consolandi, notaio in Milano, registrato a Milano il 1 febbraio 1980 al n. A/2-02968.   
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 16 gennaio 1975  
-Atti di Governo, registro n. 7, foglio n. 116
+Visto, il Guardasigilli: DARIDA   
+Registrato alla Corte dei conti, addi' 19 settembre 1983   
+Registro n. 7 Presidenza, loglio n. 329

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1981 n. 1032
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1981 n. 930
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1981 n. 1032
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1981 n. 930
+==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
@@ -33,24 +33,25 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' di Genova, approvato e modificato con i decreti soprindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Art. 68 - nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' inserito l'insegnamento di "biofisica".  
+Art. 63 - nell'elenco degli insegnamenti complementari del corso di laurea in materie letterarie e' inserita la seguente nuova disciplina:  
+diplomatica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 ottobre 1981
+### Dato a Roma, addi' 26 ottobre 1981
 
 PERTINI BODRATO
 
 Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 24 febbraio 1982
+Registrato alla Corte dei conti, addi' 9 febbraio 1982
 
-Registro n. 30 Istruzione, foglio n. 387
+Registro n. 20 Istruzione, foglio n. 187

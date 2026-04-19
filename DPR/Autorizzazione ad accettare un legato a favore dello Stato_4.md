@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1984 n. 475
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1986 n. 672
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1984 n. 475
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1986 n. 672
 =============================================================
 
 Autorizzazione ad accettare un legato a favore dello Stato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-475. Decreto del Presidente della Repubblica 21 maggio 1984, col quale, sulla proposta del Ministro per i beni culturali ed ambientali, il Ministero omonimo - Ufficio centrale per i beni librari e gli istituti culturali, viene autorizzato ad accettare il legato, consistente in circa diecimila volumi del valore di lire 40.000.000, attribuito secondo il parere del direttore della biblioteca interessata, disposto alla biblioteca nazionale centrale "Vittorio Emanuele II" di Roma dalla prof.ssa Maria Luisa Astaldi con atto pubblico 3 gennaio 1983, n. 4401/1066 di repertorio, a rogito dott. Nino Filippo. Corrado, notaio in Roma.  
+672. Decreto del Presidente della Repubblica 13 maggio 1986, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato del legato, consistente in due dipinti dell'autore G. Ottani, raffiguranti "Due tempeste", i quali rivestono un interesse artistico e storico, da destinare alla soprintendenza per i beni artistici e storici - Pinacoteca nazionale di Bologna, disposto dalla sig.ra Albertina Villoresi con testamento olografo 23 marzo 1982, pubblicato in data 26 aprile 1982, n. 25168 di repertorio, a rogito dottor Alessandro Ruggiero, notaio in Firenze, registrato a Firenze in data 3 maggio 1981 al n. 4978.   
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 3 agosto 1984  
-Registro n. 29 Beni culturali, foglio n. 330
+Visto, il Guardasigilli: ROGNONI   
+Registrato alla Corte dei conti, addi' 10 ottobre 1986   
+Registro n. 26 Beni culturali, foglio n. 120

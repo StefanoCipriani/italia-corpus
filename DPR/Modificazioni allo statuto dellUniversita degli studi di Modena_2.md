@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1234
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1986 n. 766
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1234
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1986 n. 766
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Modena.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Modena.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035), e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,250 +18,142 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:
 
-gli articoli da 138 a 141, relativi alla scuola di specializzazione in malattie dell'apparato digerente e del ricambio che muta la denominazione in scuola di specializzazione in malattie dell'apparato digerente;
+Articolo unico
+--------------
 
-gli articoli da 164 a 166, relativi alla scuola di specializzazione in malattie del sangue che muta la denominazione in scuola di specializzazione in ematologia clinica e di laboratorio, sono abrogati e sostituiti dai seguenti:
-
-Scuola di specializzazione in malattie dell'apparato digerente
-
-Art. 138. - La scuola di specializzazione in malattie dell'apparato digerente conferisce un diploma di specialista in malattie dell'apparato digerente.
-
-Art. 139. - Alla scuola sono ammessi i laureati in medicina e chirurgia.
-
-Il numero dei posti e' fissato in 10 per il 1° corso; in 11 per il 2° corso, 3° e 4° corso.
-
-Art. 140. - La scuola, che ha sede presso la clinica medica, ha la durata di anni quattro di cui uno di tirocinio pratico.
-
-Art. 141. - Gli insegnamenti impartiti dalla scuola sono:
-
-1° Anno:
-
-Anatomia patologica;
-
-Fisiopatologia;
-
-Chimica clinica;
-
-Semeiotica fisica e strumentale (biennale);
-
-Clinica medica (triennale).
-
-2° Anno:
-
-Semeiotica fisica e strumentale (biennale);
-
-Semeiotica radiologica;
-
-Patologia speciale delle malattie del tubo digerente;
-
-Clinica medica (triennale).
-
-3° Anno:
-
-Patologia speciale delle malattie del fegato e del pancreas;
-
-Clinica medica (triennale).
-
-A queste materie fondamentali possono essere aggiunte materie complementari in numero non superiore a 4 per la totalita' del corso, secondo i particolari sviluppi di ricerca e di dottrina caratteristici della scuola.
-
-4° Anno:
-
-Internato: applicazione delle tecniche diagnostiche della specialita'.
-
-Gli insegnamenti saranno integrati da esercitazioni pratiche.
-
-L'esame di profitto si sosterra' alla fine dei singoli corsi e gli insegnamenti biennali e triennali importano un unico esame alla fine del corso.
-
-Gli allievi del 1°, del 2° e 3° anno, per essere ammessi rispettivamente al 2°, 3° e 4° anno, debbono aver ottenuto tutte le firme di frequenza dei corsi e devono avere superato tutti i relativi esami.
-
-Scuola di specializzazione in ematologia clinica e di laboratorio
-
-Art. 164. - La scuola di specializzazione in ematologia clinica e di laboratorio conferisce il diploma di specialista in ematologia e clinica di laboratorio.
-
-La durata del corso e' di tre anni. Il numero dei posti disponibili e' di dodici per anno di corso (totale 36 posti).
-
-La scuola ha sede presso l'istituto di patologia medica e metodologia clinica.
-
-La direzione della scuola di specializzazione in ematologia clinica e di laboratorio spetta di diritto al professore di ruolo dell'istituto di patologia medica e metodologia clinica: nel caso che tale cattedra non sia ricoperta da un professore di ruolo, la facolta' nomina un professore di ruolo scegliendolo fra i propri componenti.
-
-Art. 165. - Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-Morfologia e morfogenesi normale e patologica del sangue (biennale);
-
-Genetica ematologica (annuale);
-
-Fisiopatologia della coagulazione e dell'emostasi (annuale);
-
-Fisiopatologia ematologica (biennale);
-
-Biochimica ematologica (annuale);
-
-Fisiopatologia del plasma (annuale);
-
-Tecniche di laboratorio inerenti all'ematologia (triennale).
-
-2° Anno:
-
-Morfologia e morfogenesi normale e patologica del sangue (biennale);
-
-Fisiopatologia ematologica (biennale);
-
-Immunoematologia (annuale);
-
-Tecniche di laboratorio inerenti all'ematologia (triennale);
-
-Patologia speciale ematologica (biennale);
-
-Clinica delle emopatie (biennale);
-
-Anatomia e istologia patologica delle emopatie e fondamenti di oncologia (annuale).
-
-3° Anno:
-
-Tecniche di laboratorio inerenti all'ematologia (triennale);
-
-Nozioni di radiobiologia e di medicina nucleare applicate all'ematologia (annuale);
-
-Radiodiagnostica e radioterapia ematologica (annuale);
-
-Patologia speciale ematologica (biennale);
-
-Clinica delle emopatie (biennale);
-
-Terapia sistematica ematologica (annuale);
-
-Terapia trasfusionale (annuale).
-
-E' obbligatoria la frequenza alle lezioni, alle esercitazioni cliniche e di laboratorio annesse ai corsi.
-
-Art. 166. - L'esame di profitto si sostiene alla fine dell'anno in corso.
-
-Gli esami degli insegnamenti biennali e triennali si sostengono alla fine del biennio o del triennio.
-
-L'esame di diploma consiste nella discussione di una dissertazione.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 30 ottobre 1970
-
-SARAGAT
-
-MISASI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 19 gennaio 1971 Atti del Governo, registro n. 240, foglio n. 84. - CARUSO
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:   
+Dopo l'art. 106, e con lo spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli, relativi alla istituzione della seconda scuola di specializzazione in chirurgia generale, afferente alla facolta' di medicina e chirurgia:   
   
-Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-gli articoli da 138 a 141, relativi alla scuola di specializzazione in malattie dell'apparato digerente e del ricambio che muta la denominazione in scuola di specializzazione in malattie dell'apparato digerente;   
-gli articoli da 164 a 166, relativi alla scuola di specializzazione in malattie del sangue che muta la denominazione in scuola di specializzazione in ematologia clinica e di laboratorio, sono abrogati e sostituiti dai seguenti:   
+Seconda scuola di specializzazione in chirurgia generale   
   
-Scuola di specializzazione in malattie dell'apparato digerente   
+Art. 107. - E' istituita la scuola di specializzazione in chirurgia generale seconda presso l'Universita' degli studi di Modena.   
+La scuola ha lo scopo di preparare personale medico specializzato nel campo della chirurgia generale.   
+La scuola rilascia il titolo di specialista in chirurgia generale.   
+Art. 108.- La scuola ha la durata di cinque anni.   
+Ciascun anno di corso prevede ottocento ore di insegnamento e di attivita' pratiche guidate.   
+In base alle strutture ed attrezzature disponibili, la scuola e' in grado di accettare il numero massimo di iscritti determinato in cinque per ciascun anno di corso, per un totale di venticinque specializzandi.   
+Art. 109. - Per l'attuazione delle attivita' didattiche programmate dal consiglio della scuola provvede la facolta' di medicina e chirurgia, in particolare gli istituti e le cattedre di patologia chirurgica, patologia generale, centro calcolo, medicina legale, laboratorio e analisi, anatomia patologica, radiologia, gastroenterologia, anestesia e rianimazione, ortopedia, neurochirurgia, ostetricia, clinica chirurgica.   
+Art. 110.- Sono ammessi alle prove per ottenere l'iscrizione i laureati in medicina e chirurgia.   
+Per l'iscrizione alla scuola e' richiesto il possesso del diploma di abilitazione all'esercizio della professione.   
+Art. 111. - La scuola comprende sei aree di insegnamento e tirocinio professionale:   
+a) propedeutica generale;   
+b) diagnostica strumentale e di laboratorio;   
+c) tecnica operativa;   
+d) fisiopatologia speciale;   
+e) chirurgia generale;   
+f) chirurgia speciale.   
+Art. 112. - Gli insegnamenti relativi a ciascuna area didattica e formativa professionale sono i seguenti:   
+a) Propedeutica generale:   
+fisiopatologia generale;   
+informatica;   
+medicina legale;   
+chirurgia sperimentale e microchirurgia.   
+b) Diagnostica strumentale e di laboratorio:   
+patologia clinica;   
+anatomia patologica;   
+radiologia;   
+semeiotica strumentale.   
+c) Tecnica operatoria:   
+anatomia chirurgica;   
+tecniche operatorie;   
+chirurgia endoscopica.   
+d) Fisiopatologia speciale:   
+anestesia e rianimazione;   
+trattamento pre e post-operatorio;   
+fisiopatologia chirurgica.   
+e) Chirurgia generale:   
+chirurgia generale;   
+chirurgia pediatrica;   
+chirurgia d'urgenza;   
+chirurgia oncologica;   
+chirurgia geriatrica.   
+f) Chirurgia speciale:   
+ortopedia e traumatologia;   
+neurochirurgia;   
+chirurgia ginecologica;   
+chirurgia toracica;   
+chirurgia cardiovascolare;   
+endocrinochirurgia;   
+chirurgia urologica;   
+chirurgia plastica e riparativa.   
+Art. 113. - L'attivita' didattica comprende ogni anno ottocento ore di didattica formale e di tirocinio professionale guidato. Essa e' organizzata in un'attivita' didattica teorico-pratica comune per tutti gli specializzandi (quattrocento ore come di seguito ripartite) ed in una attivita' didattica elettiva, prevalentemente di carattere tecnico applicativo di ulteriori quattrocento ore, rivolta all'approfondimento del curriculum corrispondente ad uno dei settori formativo-professionali (monte ore elettivo).   
+La frequenza nelle diverse aree avviene, pertanto, come di seguito specificato:   
   
-Art. 138. - La scuola di specializzazione in malattie dell'apparato digerente conferisce un diploma di specialista in malattie dell'apparato digerente.   
-Art. 139. - Alla scuola sono ammessi i laureati in medicina e chirurgia.   
-Il numero dei posti e' fissato in 10 per il 1° corso; in 11 per il 2° corso, 3° e 4° corso.   
-Art. 140. - La scuola, che ha sede presso la clinica medica, ha la durata di anni quattro di cui uno di tirocinio pratico.   
-Art. 141. - Gli insegnamenti impartiti dalla scuola sono:   
 1° Anno:   
-Anatomia patologica;   
-Fisiopatologia;   
-Chimica clinica;   
-Semeiotica fisica e strumentale (biennale);   
-Clinica medica (triennale).   
+Propedeutica generale (ore 100):   
+fisiopatologia generale. . . . . . . . . . . . . . . . . . . . ore 30 informatica. . . . . . . . . . . . . . . . . . . . . . . . . . ore 30 chirurgia sperimentale e microchirurgia. . . . . . . . . . . . ore 40 Diagnostica strumentale e di laboratorio (ore 50):   
+patologia clinica. . . . . . . . . . . . . . . . . . . . . . . ore 50 Tecnica operatoria (ore 100):   
+anatomia chirurgica . . . . . . . . . . . . . . . . . . . . . ore 100 Fisiopatologia speciale (ore 50):   
+anestesia e rianimazione . . . . . . . . . . . . . . . . . . . ore 50 Chirurgia generale (ore 100):   
+chirurgia generale. . . . . . . . . . . . . . . . . . . . . . ore 100 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
+  
 2° Anno:   
-Semeiotica fisica e strumentale (biennale);   
-Semeiotica radiologica;   
-Patologia speciale delle malattie del tubo digerente;   
-Clinica medica (triennale).   
-3° Anno:   
-Patologia speciale delle malattie del fegato e del pancreas;   
-Clinica medica (triennale).   
-A queste materie fondamentali possono essere aggiunte materie complementari in numero non superiore a 4 per la totalita' del corso, secondo i particolari sviluppi di ricerca e di dottrina caratteristici della scuola.   
+Diagnostica strumentale e di laboratorio (ore 100):   
+anatomia patologica. . . . . . . . . . . . . . . . . . . . . . ore 50 semeiotica strumentale . . . . . . . . . . . . . . . . . . . . ore 50 Tecnica operatoria (ore 100):   
+anatomia chirurgica . . . . . . . . . . . . . . . . . . . . . ore 100 Fisiopatologia speciale (ore 100):   
+trattamento pre e post-operatorio. . . . . . . . . . . . . . . ore 50 fisiopatologia chirurgica. . . . . . . . . . . . . . . . . . . ore 50 Chirurgia generale (ore 100):   
+chirurgia generale. . . . . . . . . . . . . . . . . . . . . . ore 100 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
+  
+3° Anno.   
+Diagnostica strumentale e di laboratorio (ore 100):   
+anatomia patologica. . . . . . . . . . . . . . . . . . . . . . ore 20 radiologia . . . . . . . . . . . . . . . . . . . . . . . . . . ore 30 semeiotica strumentale . . . . . . . . . . . . . . . . . . . . ore 50 Tecnica operatoria (ore 100):   
+tecnica operatoria. . . . . . . . . . . . . . . . . . . . . . ore 100 Chirurgia generale (ore 150):   
+chirurgia generale. . . . . . . . . . . . . . . . . . . . . . ore 150 Chirurgia speciale (ore 50):   
+endocrinochirurgia . . . . . . . . . . . . . . . . . . . . . . ore 50 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
+  
 4° Anno:   
-Internato: applicazione delle tecniche diagnostiche della specialita'.   
-Gli insegnamenti saranno integrati da esercitazioni pratiche.   
-L'esame di profitto si sosterra' alla fine dei singoli corsi e gli insegnamenti biennali e triennali importano un unico esame alla fine del corso.   
-Gli allievi del 1°, del 2° e 3° anno, per essere ammessi rispettivamente al 2°, 3° e 4° anno, debbono aver ottenuto tutte le firme di frequenza dei corsi e devono avere superato tutti i relativi esami.   
+Tecnica operatoria (ore 80):   
+tecnica operatoria . . . . . . . . . . . . . . . . . . . . . . ore 80 Chirurgia generale (ore 170):   
+chirurgia generale. . . . . . . . . . . . . . . . . . . . . . ore 100 chirurgia pediatrica . . . . . . . . . . . . . . . . . . . . . ore 45 chirurgia geriatrica . . . . . . . . . . . . . . . . . . . . . ore 25 Chirurgia speciale (ore 150):   
+ortopedia e traumatologia. . . . . . . . . . . . . . . . . . . ore 30 neurochirurgia . . . . . . . . . . . . . . . . . . . . . . . . ore 20 chirurgia ginecologica . . . . . . . . . . . . . . . . . . . . ore 50 chirurgia urologica. . . . . . . . . . . . . . . . . . . . . . ore 50 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
   
-Scuola di specializzazione in ematologia clinica e di laboratorio   
-Art. 164. - La scuola di specializzazione in ematologia clinica e di laboratorio conferisce il diploma di specialista in ematologia e clinica di laboratorio.   
-La durata del corso e' di tre anni. Il numero dei posti disponibili e' di dodici per anno di corso (totale 36 posti).   
-La scuola ha sede presso l'istituto di patologia medica e metodologia clinica.   
-La direzione della scuola di specializzazione in ematologia clinica e di laboratorio spetta di diritto al professore di ruolo dell'istituto di patologia medica e metodologia clinica: nel caso che tale cattedra non sia ricoperta da un professore di ruolo, la facolta' nomina un professore di ruolo scegliendolo fra i propri componenti.   
-Art. 165. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-Morfologia e morfogenesi normale e patologica del sangue (biennale);   
-Genetica ematologica (annuale);   
-Fisiopatologia della coagulazione e dell'emostasi (annuale);   
-Fisiopatologia ematologica (biennale);   
-Biochimica ematologica (annuale);   
-Fisiopatologia del plasma (annuale);   
-Tecniche di laboratorio inerenti all'ematologia (triennale).   
-2° Anno:   
-Morfologia e morfogenesi normale e patologica del sangue (biennale);   
-Fisiopatologia ematologica (biennale);   
-Immunoematologia (annuale);   
-Tecniche di laboratorio inerenti all'ematologia (triennale);   
-Patologia speciale ematologica (biennale);   
-Clinica delle emopatie (biennale);   
-Anatomia e istologia patologica delle emopatie e fondamenti di oncologia (annuale).   
-3° Anno:   
-Tecniche di laboratorio inerenti all'ematologia (triennale);   
-Nozioni di radiobiologia e di medicina nucleare applicate all'ematologia (annuale);   
-Radiodiagnostica e radioterapia ematologica (annuale);   
-Patologia speciale ematologica (biennale);   
-Clinica delle emopatie (biennale);   
-Terapia sistematica ematologica (annuale);   
-Terapia trasfusionale (annuale).   
-E' obbligatoria la frequenza alle lezioni, alle esercitazioni cliniche e di laboratorio annesse ai corsi.   
-Art. 166. - L'esame di profitto si sostiene alla fine dell'anno in corso.   
-Gli esami degli insegnamenti biennali e triennali si sostengono alla fine del biennio o del triennio.   
-L'esame di diploma consiste nella discussione di una dissertazione.   
+5° Anno:   
+Propedeutica generale (ore 20):   
+medicina legale. . . . . . . . . . . . . . . . . . . . . . . . ore 20 Tecnica operatoria (ore 100):   
+tecnica operatoria . . . . . . . . . . . . . . . . . . . . . . ore 80 chirurgia endoscopica. . . . . . . . . . . . . . . . . . . . . ore 20 Chirurgia generale (ore 180):   
+chirurgia generale . . . . . . . . . . . . . . . . . . . . . . ore 50 chirurgia d'urgenza. . . . . . . . . . . . . . . . . . . . . . ore 80 chirurgia oncologica . . . . . . . . . . . . . . . . . . . . . ore 50 Chirurgia speciale (ore 100):   
+chirurgia toracica . . . . . . . . . . . . . . . . . . . . . . ore 40 chirurgia cardiovascolare. . . . . . . . . . . . . . . . . . . ore 40 chirurgia plastica e riparativa. . . . . . . . . . . . . . . . ore 20 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
+  
+Art. 114. - Durante i cinque anni di corso e' richiesta la frequenza nei seguenti reparti/divisioni/ambulatori laboratori:   
+istituto di patologia chirurgica;   
+cattedra di clinica chirurgica III;   
+seconda divisione di chirurgia;   
+ambulatori specialistici afferenti.   
+La frequenza nelle varie aree per complessive ottocento ore annue compreso il monte elettivo di quattrocento ore annue, avverra' secondo delibera del consiglio della scuola, tale da assicurare ad ogni specializzando un adeguato periodo di esperienza e di formazione professionale. Il consiglio della scuola ripartira' annualmente il monte ore elettivo.   
+Il consiglio della scuola predispone apposito libretto di formazione, che consenta allo specializzando ed al consiglio stesso il controllo dell'attivita' svolta e dell'acquisizione dei progressi compiuti, per sostenere gli esami annuali e finali.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1970
+### Dato a Roma, addi' 19 luglio 1986
 
-SARAGAT MISASI
+COSSIGA
 
-Visto, il Guardasigilli: REALE
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 19 gennaio 1971
+Visto, il Guardasigilli: ROGNONI
 
-Atti del Governo, registro n. 240, foglio n. 84. - CARUSO
+Registrato alla Corte dei conti, addi' 10 novembre 1986
+
+Registro n. 83 Istruzione, foglio n. 37

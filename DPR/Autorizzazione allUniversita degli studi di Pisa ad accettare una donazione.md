@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 luglio 1955 n. 834
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1955 n. 374
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 luglio 1955 n. 834
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1955 n. 374
+============================================================
 
 Autorizzazione all'Universita' degli studi di Pisa ad accettare una donazione.
 ------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-834. Decreto del Presidente della Repubblica 27 luglio 1955, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Pisa viene autorizzata ad accettare la donazione della somma di L. 249.273 (duecentoquarantanovemiladuecentosettantatre), disposta dal Comitato per le onoranze al prof. Giovan Battista Bellissima, per l'istituzione di un premio di studio intitolato al medesimo professore.  
+374. Decreto del Presidente della Repubblica 14 marzo 1955, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Pisa viene autorizzata ad accettare la donazione della somma di lire 1.000.000 (un milione) nominali in buoni del tesoro 5%, disposta in suo favore dal prof. Remo de Fazi, per l'istituzione con la relativa rendita, di un premio di studio biennale intitolato "Premio dottor Laura de Fazi".  
   
-Visto, il Guardasigilli: MORO  
-Registrato alla Corte dei conti, addi' 10 settembre 1955  
-Atti del Governo, registro n. 92, foglio n. 167. - E. GRECO
+Visto, il Guardasigilli: DE PIETRO  
+Registrato alla Corte dei conti, addi' 6 maggio 1955  
+Atti del Governo, registro n. 90, foglio n. 138. - CARLOMAGNO

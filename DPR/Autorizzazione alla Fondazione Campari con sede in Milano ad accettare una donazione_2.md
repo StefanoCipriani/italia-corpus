@@ -1,19 +1,19 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 gennaio 1960 n. 56
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 maggio 1958 n. 642
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 gennaio 1960 n. 56
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 maggio 1958 n. 642
 =============================================================
 
-Autorizzazione alla Fondazione Campari, con sede in Milano, ad accettare una donazione.
----------------------------------------------------------------------------------------
+Autorizzazione, alla Fondazione "Campari", con sede in Milano, ad accettare una donazione.
+------------------------------------------------------------------------------------------
 
 Art. 1
 ------
 
 N.
 
-56. Decreto del Presidente della Repubblica 19 gennaio 1960, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, la Fondazione Campari, con sede in Milano, viene autorizzata ad accettare la donazione delle somme nominali di L. 29.550.000 in titoli dello Stato, oltre a L. 6670 in contanti, di cui all'atto di donazione in data 28 aprile 1959, rogito notaio Piontelli, n. 80473/5309 di repertorio, della Societa' Davide Campari S.p.A., con sede in Milano.  
+642. Decreto del Presidente della Repubblica 20 maggio 1958, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, la Fondazione "Campari", con sede in Milano, viene autorizzata ad accettare la donazione delle somme di L. 90.000.000 nominali, in titoli dello Stato, e di L. 1.813.329 in contanti, deliberata dalla Societa' Davide Campari, societa' per azioni, con sede in Milano.  
   
 Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 23 febbraio 1960  
-Atti del Governo, registro n. 124, foglio n. 83. - VILLA
+Registrato alla Corte dei conti, addi' 27 giugno 1958  
+Atti del Governo, registro n. 112, foglio n. 254. - RELLEVA

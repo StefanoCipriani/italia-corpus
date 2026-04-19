@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1974 n. 481
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 marzo 1982 n. 305
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1974 n. 481
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 marzo 1982 n. 305
+============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-481. Decreto del Presidente della Repubblica 22 luglio 1974, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione a favore dello Stato, consistente in un appezzamento di terreno di ettari 1.04.85 sito in Monastir (Cagliari), disposta dall'ente comunale di assistenza di Monastir con atto 20 aprile 1972, n. 63847 di repertorio a rogito notaio Antonio Loi di Cagliari.  
+305. Decreto del Presidente della Repubblica 9 marzo 1982, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato della donazione, consistente in una raccolta di oggetti di origine protostorica-paleoveneta, i quali rivestono un importante interesse archeologico, disposta dal sig. Giancarlo Ligabue con atto pubblico 14 settembre 1976, n. 51523 di repertorio, a rogito dell'avv. prof.  
+Giulio Argenti, notaio in Venezia, da destinare al museo archeologico in Venezia.  
   
-Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 26 settembre 1974  
-Atti di Governo, registro n. 5, foglio n. 89. - SCIARRETTA
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 24 maggio 1982  
+Registro n. 14 Beni culturali, foglio n. 14

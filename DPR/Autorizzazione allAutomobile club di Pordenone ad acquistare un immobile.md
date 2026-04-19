@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1985 n. 249
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 gennaio 1986 n. 145
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1985 n. 249
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 gennaio 1986 n. 145
+==============================================================
 
 Autorizzazione all'Automobile club di Pordenone ad acquistare un immobile.
 --------------------------------------------------------------------------
@@ -10,10 +10,10 @@ Autorizzazione all'Automobile club di Pordenone ad acquistare un immobile.
 Art. 1
 ------
 
-N.
+n.
 
-249. Decreto del Presidente della Repubblica 12 febbraio 1985, col quale, sulla proposta del Ministro del turismo e dello spettacolo, l'Automobile club di Pordenone viene autorizzato ad acquistare dalla ditta Furgiuele e Baldelli S.a.s., in Udine, per il prezzo di L. 115.000.000 una porzione immobiliare facente parte del complesso immobiliare denominato Condominio A.C.I. - 1° lotto, sito in Pordenone - viale Dante Alighieri, 42, e costituito da un locale a forma rettangolare al piano terra di mq 110 circa, costruito sull'area catastalmente censita col n. 982 sub 17 del foglio 20 ed allibrato alla partita 4744, da destinare a sede degli uffici dell'ente.  
+145. Decreto del Presidente della Repubblica 4 gennaio 1986, col quale, sulla proposta del Ministro del turismo e dello spettacolo, l'Automobile club di Pordenone viene autorizzato ad acquistare, al prezzo di L. 70.000.000, e con il costo di ristrutturazione completamente a carico della ditta venditrice, una porzione di un immobile sito in S. Vito al Tagliamento (Pordenone), via Sarpi, censita al nuovo catasto edilizio urbano al foglio n. 20, mappali 233, 1073 e 1074, di proprieta' del geom. Paolo Mancini, come da atto preliminare di compravendita 9 luglio 1985, registrato a Pordenone in data 17 luglio 1985 al n. 3124, da adibire a sede degli uffici dell'ente.  
   
 Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 27 maggio 1985  
-Registro n. 4 Turismo, foglio n. 251
+Registrato alla Corte dei conti, addi' 17 aprile 1986  
+Registro n. 4 Turismo, foglio n. 293

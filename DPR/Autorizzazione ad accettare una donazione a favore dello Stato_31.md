@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1975 n. 713
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 aprile 1977 n. 292
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1975 n. 713
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 aprile 1977 n. 292
+=============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-713. Decreto del Presidente della Repubblica 30 ottobre 1975, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione di una donazione, consistente in dieci opere del pittore Giuseppe Capogrossi, disposta a favore dello Stato dal prof. Renato Cardazzo con atto in data 17 febbraio 1975, n. 10819/1245 di repertorio, a rogito dott.  
-Giuseppe Santambrogio, notaio in Lodi (Milano), da destinare alla galleria nazionale d'arte moderna di Roma.  
+292. Decreto del Presidente della Repubblica 14 aprile 1977, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dal comune di Reggio Calabria con atto 6 febbraio 1960, n. 14734 di repertorio, a rogito notaio Giuseppe Macri', del fabbricato adibito a carcere giudiziario mandamentale di Reggio Calabria, catastalmente indicato e descritto nell'atto medesimo.   
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 18 dicembre 1975  
-Atti di Governo, registro n. 15, foglio n. 50
+Visto, il Guardasigilli: BONIFACIO   
+Registrato alla Corte dei conti, addi' 7 giugno 1977   
+Registro n. 25 Finanze, foglio n. 236

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 agosto 1979 n. 783
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 aprile 1975 n. 271
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 agosto 1979 n. 783
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 aprile 1975 n. 271
 =============================================================
 
 Autorizzazione alla camera di commercio, industria, artigianato e agricoltura di Rovigo ad acquistare un immobile.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-783. Decreto del Presidente della Repubblica 11 agosto 1979, col quale, sulla proposta del Ministro dell'industria, del commercio e dell'artigianato, la camera di commercio, industria, artigianato e agricoltura di Rovigo viene autorizzata ad acquistare, al prezzo di L. 932.000, un appezzamento di terreno di mq 932 sito in comune di Lusia (Rovigo), censito al nuovo catasto terreni alla partita n. 1869, foglio n. 4, mappale n. 296, di proprieta' dei fratelli Bruno, Vittorino, Sante ed Umbertina Bassani, come da atto preliminare di compravendita 22 dicembre 1977, da destinare alla rettifica dei confini ed al completamento delle opere di recinzione della adiacente centrale ortofrutticola.  
+271. Decreto del Presidente della Repubblica 24 aprile 1975, col quale, sulla proposta del Ministro per l'industria, il commercio e l'artigianato, la camera di commercio, industria, artigianato e agricoltura di Rovigo viene autorizzata ad acquistare dai signori Bassani Umbertina, Sante, Vitorino e Bruno, per un importo di L. 658.920, un appezzamento di terreno di mq 646, sito nel comune di Lusia (Rovigo) ed indicato in catasto al foglio n. V, mappale n. 76-h, destinato a ampliare la locale centrale ortofrutticola.   
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 31 dicembre 1979  
-Registro n. 12 Industria, foglio n. 66
+Visto, il Guardasigilli: REALE   
+Registrato alla Corte dei conti, addi' 23 giugno 1975   
+Atti di Governo, registro n. 10, foglio n. 74

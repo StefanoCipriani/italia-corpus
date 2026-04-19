@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1976 n. 66
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 147
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1976 n. 66
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 147
+===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -10,11 +10,10 @@ Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad ac
 Art. 1
 ------
 
-N.
+n.
 
-66. Decreto del Presidente della Repubblica 28 gennaio 1976, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dal sig. Ettore Cavosi con testamento olografo 14 dicembre 1967, pubblicato a rogito dott.  
-Fabriano Rossi notaio in Cles (Trento), in data 12 dicembre 1972, n. 14075/2805 di repertorio, registrato a Cles il 2 gennaio 1973 con il n. 6, vol. 58, consistente nella somma di lire 16.146.875.  
+147. Decreto del Presidente della Repubblica 10 febbraio 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in una somma di L. 27.919.100, disposto dalla sig.ra Catenacci Luigia ved. Mariani con testamento olografo 20 aprile 1983, pubblicato in data 7 luglio 1983, n. 84384/9262 di repertorio, a rogito dott. Acquarone Domenico, notaio in Milano, registrato a Milano in data 21 luglio 1983 al n. 17621.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 13 marzo 1976  
-Atti di Governo, registro n. 4, foglio n. 11
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 22 aprile 1986  
+Registro n. 4 Presidenza, foglio n. 48

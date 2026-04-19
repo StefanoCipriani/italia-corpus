@@ -1,16 +1,16 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 900
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 settembre 1978 n. 871
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 900
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 settembre 1978 n. 871
+================================================================
 
-Modificazioni allo statuto dell'Universita' cattolica "S. Cuore" di Milano.
----------------------------------------------------------------------------
+Modificazioni allo statuto dell'Universita' cattolica S. Cuore di Milano.
+-------------------------------------------------------------------------
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' cattolica "S. Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
+Veduto lo statuto dell'Universita' cattolica S. Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,226 +18,1523 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217):
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica S. Cuore di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162):
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
-
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' cattolica "S. Cuore" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' cattolica S. Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Il primo comma dell'art. 102, concernente le norme generali per le scuole di specializzazione della facolta' di medicina e chirurgia, e' soppresso e sostituito dal seguente:
 
+Art. 102, primo comma. - Le scuole di specializzazione della facolta' di medicina e chirurgia hanno lo scopo di promuovere l'incremento scientifico e pratico delle singole branche della medicina e di conferire diplomi che abilitino al particolare esercizio delle medesime con la qualifica di specialista, a norma dell'art. 178 del testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592).
+
+L'ammissione, alle scuole e' riservata ai laureati in medicina e chirurgia, salvo diverso indirizzo. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalla autorita' competente.
+
+L'ammissione alle scuole avviene mediante concorso per titoli ed esami.
+
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+L'art. 107, riguardante la scuola di specializzazione in urologia, e' soppresso e sostituito dal seguente:
+
+Scuola di specializzazione in urologia
+
+Art. 107. - La scuola di specializzazione in urologia ha sede presso l'istituto di clinica chirurgica e conferisce il diploma di specializzazione in urologia.
+
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.
+
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+
+La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazioni.
+
+Il numero massimo degli allievi e' di dieci per anno di corso e complessivamente di cinquanta iscritti per l'intero corso di studi.
+
+L'ammissione al corso avviene per titoli ed esami.
+
+Le materie di insegnamento e gli esami sono i seguenti:
+
+Insegnamenti Esami
+
+--- ---
+
+1° Anno:
+
+1) anatomia sistematica e topo- 1) anatomia sistematica e top
+
+grafia dell'apparato urinario e grafica dell'apparato urinario
+
+genitale maschile; e genitale maschile;
+
+2) fisiologia dell'apparato 2) fisiologia dell'apparato urinario e genitale maschile; rinario e genitale maschile;
+
+3) batteriologia in urourologia; 3) batteriologia in urourologia.
+
+4) semeiotica funzionale e stru-
+
+mentale dell'apparato urogenita-
+
+le I.
+
+2° Anno:
+
+1) semeiotica funzionale e stru- 1) semeiotica funzionale e stru-
+
+mentale dell'apparato urogenita- mentale dell'apparato urogeni-
+
+le II; tale;
+
+2) le nefropatie mediche; 2) le nefropatie mediche;
+
+3) anatomia chirurgica dell'ap- 3) anatomia chirurgica dell'ap-
+
+parato urinario e genitale ma- parato urinario e genitale ma-
+
+schile; schile.
+
+4) patologia dell'apparato uri-
+
+nario e genitale maschile I;
+
+5) radiologia dell'apparato uri-
+
+nario e genitale maschile I.
+
+3° Anno:
+
+1) patologia dell'apparato uri- 1) patologia dell'apparato uri-
+
+nario e genitale maschile II; nario e genitale maschile;
+
+2) radiologia dell'apparato uri- 2) radiologia dell'apparato uri-
+
+nario e genitale maschile II; nario e genitale maschile;
+
+3) le affezioni cutanee veneree 3) le affezioni cutanee veneree
+
+nei riguardi dell'urologia; nei riguardi dell'urologia;
+
+4) andrologia. 4) andrologia.
+
+4° Anno:
+
+1) anatomia e istologia patolo- 1) anatomia e istologia patolo-
+
+gica dell'apparato urinario e ge- gica dell'apparato urinario e ge-
+
+nitale maschile; nitale maschile;
+
+2) farmacoterapia delle affezio- 2) farmacoterapia delle affezio-
+
+ni urogenitali; ni urogenitali;
+
+3) anestesia e trattamento pre e 3) anestesia e trattamento pree
+
+post operatorio del malato urolo- post operatorio del malato urolo-
+
+gico; gico;
+
+4) nefrologia chirurgica; 4) nefrologia chirurgica.
+
+5) clinica urologica I;
+
+6) procedimenti di chirurgia en-
+
+doscopica I;
+
+7) interventi e procedimenti o-
+
+peratori sull'apparato urinario e
+
+genitale maschile I.
+
+5° Anno:
+
+1) clinica urologica II; 1) clinica urologica;
+
+2) patologia e clinica urologica 2) patologia e clinica urologica
+
+infantile; infantile;
+
+3) urologia ginecologica; 3) urologia ginecologica;
+
+4) procedimenti di chirurgia en- 4) interventi e procedimenti doscopica II; operatori sull'aparato urinario
+
+e genitale maschile.
+
+5) la chirurgia dell'intestino;
+
+6) la chirurgia vascolare;
+
+7) interventi e procedimenti o-
+
+peratori sull'apparato urinario e
+
+genitale maschile II.
+
+La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno ad eccezione delle discipline svolte in corsi pluriennali il cui esame sara' sostenuto alla fine dei corsi medesimi.
+
+Al termine del corso di studi per il conseguimento del diploma di specialista in urologia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+
+L'art. 117, riguardante la scuola di specializzazione in ortopedia e traumatologia, che cambia la denominazione in quella di scuola di specializzazione in ortopedia, e' abrogato e sostituito dal seguente:
+
+Scuola di specializzazione in ortopedia
+
+Art. 117. - La scuola di specializzazione in ortopedia ha sede presso l'istituto di clinica ortopedica e conferisce il diploma di specialista in ortopedia. La scuola comprende un insegnamento teorico e pratico.
+
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.
+
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.
+
+La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazioni.
+
+Il numero massimo degli allievi e' di otto per anno di corso e complessivamente di quaranta iscritti per l'intero corso di studi.
+
+L'ammissione al corso avviene per titoli ed esami.
+
+Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+insegnamento pratico:
+
+chirurgia generale;
+
+pronto soccorso generale;
+
+fisioterapia;
+
+insegnamento teorico:
+
+anatomia dell'apparato locomotore;
+
+fisiologia dell'apparato locomotore;
+
+semeiotica ortopedica;
+
+nozioni di chirurgia generale;
+
+bioingegneria dell'apparato locomotore I.
+
+2° Anno:
+
+insegnamento pratico:
+
+chirurgia generale (con frequenza eventuale in
+
+reparti specialistici interessanti per l'apparato locomotore; reparti di pronto soccorso traumatologico;
+
+reparti di ortopedia e traumatologia;
+
+insegnamento teorico:
+
+anatomia ed istologia patologia dell'apparato locomotore I;
+
+patologia dell'apparato locomotore I;
+
+clinica ortopedica I;
+
+traumatologia dell'apparato locomotore I;
+
+radiologia I;
+
+nozioni di chirurgia d'urgenza e pronto soccorso;
+
+bioingegneria dell'apparato locomotore II.
+
+3° Anno:
+
+insegnamento pratico:
+
+reparti di ortopedia e traumatologia (in particolare sale di degenza e sale gessi);
+
+insegnamento teorico:
+
+anatomia e istologia patologica dell'apparato locomotore II;
+
+patologia dell'apparato locomotore II;
+
+clinica ortopedica II;
+
+traumatologia dell'apparato locomotore II;
+
+radiologia II;
+
+tecnica operatoria I;
+
+apparatoterapia e tecnica degli apparecchi gessati;
+
+elementi di reumatologia.
+
+4° Anno:
+
+insegnamento pratico:
+
+reparti di ortopedia e traumatologia (frequenza nei reparti operatori);
+
+insegnamento teorico:
+
+patologia dell'apparato locomotore III;
+
+clinica ortopedica III;
+
+traumatologia dell'apparato locomotore III;
+
+tecnica operatoria II;
+
+fisiokinesiterapia;
+
+neuropatologia dell'apparato locomotore ed elettrodiagnostica; nozioni di medicina legale.
+
+5° Anno:
+
+insegnamento pratico:
+
+reparti di ortopedia e traumatologia (frequenza nei reparti operatori);
+
+officine ortopediche;
+
+insegnamento teorico:
+
+patologia dell'apparato locomotore IV;
+
+clinica ortopedica IV;
+
+traumatologia dell'apparato locomotore IV;
+
+tecnica operatoria III;
+
+fisioterapia.
+
+La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno.
+
+Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
+
+Al termine del corso di studi per il conseguimento del diploma di specialista in ortopedia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+
+L'art. 118, riguardante la scuola di specializzazione in clinica pediatrica, che muta la denominazione in pediatria, e' soppresso e sostituito dal seguente:
+
+Scuola di specializzazione in pediatria
+
+Art. 118. - La scuola di specializzazione in pediatria ha sede presso l'istituto di clinica pediatrica e conferisce il diploma di specialista in pediatria.
+
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.
+
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.
+
+Il numero massimo degli allievi e' di nove per anno di corso e complessivamente di trentasei per l'intero corso di studi.
+
+L'ammissione al corso avviene per titoli ed esami.
+
+Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+genetica;
+
+auxologia;
+
+alimentazione;
+
+epidemiologia;
+
+malattie infettive;
+
+clinica pediatrica I.
+
+2° Anno:
+
+radiologia;
+
+legislazione del minore;
+
+organizzazione sanitaria;
+
+psicologia pediatrica;
+
+oculistica ed ortottica;
+
+otorino e foniatria;
+
+odonto;
+
+neonatologia I;
+
+chirurgia pediatrica I;
+
+pediatria preventiva e sociale I;
+
+clinica pediatrica II.
+
+3° Anno:
+
+neurologia;
+
+psichiatria infantile;
+
+nefrologia e urologia;
+
+ginecologia pediatrica;
+
+neonatologia II;
+
+chirurgia pediatrica II;
+
+pediatria preventiva e sociale II;
+
+cardiologia I;
+
+endocrinologia I;
+
+ematologia I;
+
+immunologia I;
+
+gastroenterologia I;
+
+clinica pediatrica III.
+
+4° Anno:
+
+oncologia;
+
+pneumologia;
+
+ortopedia e traumatologia;
+
+dermatologia;
+
+cardiologia II;
+
+endocrinologia II;
+
+ematologia II;
+
+immunologia II;
+
+gastroenterologia II;
+
+clinica pediatrica IV.
+
+La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. E' altresi' obbligatorio un periodo di internato di almeno dieci mesi per ogni anno di corso.
+
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto, non potranno essere ammessi a sostenere le prove di esame.
+
+Alla fine di ciascun anno di corso gli iscritti per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
+
+Al termine del corso di studi, per il conseguimento del diploma di specialista in pediatria, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+
+Gli articoli 120, 121, 122, concernenti la scuola di specializzazione in anatomia ed istologia patologica, che muta la denominazione in anatomia patologica, sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in anatomia patologica
+
+Art. 120. - La scuola di specializzazione in anatomia patologica ha sede presso l'istituto di anatomia ed istologia patologica e conferisce il diploma di specialista in anatomia patologica.
+
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.
+
+Il numero massimo degli allievi e' di sette per anno di corso e complessivamente di ventotto iscritti per l'intero corso di studi.
+
+L'ammissione al corso avviene per titoli ed esami.
+
+Art. 121. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+anatomia patologica sistematica I;
+
+tecnica delle autopsie;
+
+diagnostica anatomo-patologica macroscopica I;
+
+tecniche istologiche ed istochimiche.
+
+2° Anno:
+
+anatomia patologica sistematica II;
+
+diagnostica anatomo-patologica macroscopica II;
+
+diagnostica istopatologica I;
+
+tecniche e diagnostica citologica e citogenetica.
+
+3° Anno:
+
+diagnostica istopatologica II;
+
+tecniche di microscopia elettronica e biologia ultrastrutturale;
+
+immunopatologia.
+
+4° Anno:
+
+diagnostica istopatologica III;
+
+diagnostica isto-citopatologica ultrastrutturale;
+
+diagnostica autoptica medico legale ed elementi di legislazione sanitaria;
+
+applicazioni statistiche ed epidemiologiche.
+
+Art. 122. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.
+
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno.
+
+Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
+
+Al termine del corso di studi per il conseguimento del diploma di specialista in anatomia patologica gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+
+Gli articoli 135, 136, 137, riguardanti la scuola di specializzazione in microbiologia, sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in microbiologia
+
+Art. 135. - La scuola di specializzazione in microbiologia ha sede presso l'istituto di microbiologia e conferisce il diploma di specialista in microbiologia o in microbiologia con indirizzo tecnico.
+
+La scuola di specializzazione in microbiologia ha lo scopo di allargare e approfondire sul piano scientifico la cultura di coloro che si dedicano allo studio di questa disciplina e di fornire sul piano tecnico una preparazione pratica specifica.
+
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.
+
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente. E' contemplato un secondo indirizzo in tecniche microbiologiche al quale sono ammessi i laureati in medicina veterinaria, in scienze biologiche, in scienze naturali, in farmacia, in chimica e tecnologie farmaceutiche.
+
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.
+
+Il numero massimo degli allievi e' complessivamente di trenta iscritti per l'intero corso di studi.
+
+L'ammissione al corso avviene per titoli ed esami.
+
+Art. 136. - Le materie di insegnamento sono le seguenti:
+
+PRIMO BIENNIO
+
+(comune ai due indirizzi)
+
+1° Anno:
+
+batteriologia generale I;
+
+tecniche batteriologiche;
+
+immunologia generale;
+
+genetica dei microrganismi.
+
+2° Anno:
+
+batteriologia generale II;
+
+antibiotici e chemioterapici;
+
+virologia generale;
+
+immunologia generale e tecniche immunologiche;
+
+dosaggio biologico e analisi statistica.
+
+SECONDO BIENNIO
+
+(indirizzo medico)
+
+3° Anno:
+
+microrganismi patogeni e malattia;
+
+batteriologia speciale I;
+
+virologia speciale e tecniche virologiche;
+
+micologia medica;
+
+epidemiologia delle malattie infettive.
+
+4° Anno:
+
+batteriologia speciale II;
+
+sierologia;
+
+microbiologia degli alimenti;
+
+microbiologia dell'ambiente;
+
+protozoologia medica.
+
+SECONDO BIENNIO
+
+(indirizzo in tecniche microbiologiche)
+
+3° Anno:
+
+azione patogena dei microrganismi;
+
+tecniche batteriologiche e batteriologia speciale I;
+
+micologia generale e tecniche micologiche;
+
+tecniche virologiche e virologia speciale;
+
+protozoologia.
+
+4° Anno:
+
+tecniche batteriologiche e batteriologia speciale II;
+
+microbiologia industriale;
+
+esame microbiologico dell'ambiente;
+
+controllo microbiologico degli alimenti;
+
+tecniche sierologiche.
+
+Art. 137. - Il direttore puo' stabilire, per un piu' proficuo conseguimento dei fini della scuola, che siano tenuti corsi complementari di conferenze su materie ed argomenti che abbiano attinenza o affinita' con gli insegnamenti impartiti nella scuola.
+
+La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Alla fine di ogni anno di corso gli iscritti per essere ammessi agli esami di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno.
+
+Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi. L'esame di diploma constera' in una discussione sopra una tesi scritta.
+
+A coloro che abbiano superato l'esame finale verra' rilasciato un diploma di specialista in microbiologia o, per i non laureati in medicina e chirurgia, un diploma di specialista in microbiologia con indirizzo tecnico.
+
+Gli articoli 141, 142, 143, 144, 145, 146 e 147, riguardanti la scuola di specializzazione in neurochirurgia, sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in neurochirurgia
+
+Art. 141. - La scuola di specializzazione in neurochirurgia ha sede presso l'istituto di neurochirurgia e conferisce il diploma di specialista in neurochirurgia.
+
+Art. 142. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.
+
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+
+Art. 143. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazioni.
+
+Il numero massimo degli allievi e' di tre per anno di corso e complessivamente di quindici iscritti per l'intero corso di studi.
+
+L'ammissione al corso avviene per titoli ed esami.
+
+Art. 144. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+neuroanatomia;
+
+neurofisiologia;
+
+semeiotica e clinica neurologica;
+
+elementi di psichiatria;
+
+clinica neurochirurgica I.
+
+2° Anno:
+
+neuro-oftalmologia;
+
+neuro-otoiatria;
+
+neurofisiologia clinica;
+
+clinica neurochirurgica II.
+
+3° Anno:
+
+neuroanestesia e rianimazione;
+
+neuroradiologia I;
+
+neuropatologia;
+
+clinica neurochirurgica III.
+
+4° Anno:
+
+neuroradiologia II;
+
+neurotraumatologia;
+
+tecniche operatorie I;
+
+clinica neurochirurgica IV.
+
+5° Anno:
+
+neurochirurgia funzionale e stereotassica;
+
+neurochirurgia infantile;
+
+tecniche operatorie II;
+
+clinica neurochirurgica V.
+
+Art. 145. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.
+
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Art. 146. - Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
+
+Art. 147. - Al termine del corso di studio per il conseguimento del diploma di specialista in neurochirurgia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+
+Dopo l'art. 155, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alle istituzioni delle scuole di specializzazione in diabetologia e malattie del ricambio, malattie infettive, geriatria e gerontologia:
+
+Scuola di specializzazione in diabetologia e malattie del ricambio
+
+Art. 156. - La scuola di specializzazione in diabetologia e malattie del ricambio ha sede presso l'istituto di patologia speciale medica e conferisce il diploma di specialita' in diabetologia e malattie del ricambio.
+
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Art. 157. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+
+La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazioni.
+
+Art. 158. - Il numero massimo degli allievi e' di dieci per anno di corso e complessivamente di trenta iscritti per l'intero corso di studi.
+
+L'ammissione al corso avviene per titoli ed esami.
+
+Art. 159. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+anatomia e citomorfologia funzionali;
+
+elementi di genetica del diabete e delle malattie del ricambio; metodi di analisi chimica e quantitativa;
+
+patologia molecolare;
+
+fisiopatologia clinica del diabete e delle malattie del ricambio; elementi di biometria e di statistica (complementare);
+
+auxologia e auxopatia metaboliche (complementare).
+
+2° Anno:
+
+patologia sperimentale metabolica;
+
+semeiotica fisica e funzionale del diabete e delle malattie del ricambio;
+
+clinica del diabete e delle malattie del ricambio;
+
+medicina sociale e preventiva del diabete e delle malattie del ricambio;
+
+neuropatologia del diabete e delle malattie del ricambio (complementare);
+
+fisiopatologia e clinica ostetrico-ginecologica del diabete e delle malattie del ricambio (complementare).
+
+3° Anno:
+
+clinica del diabete e delle malattie del ricambio;
+
+farmacologia del diabete e delle malattie del ricambio;
+
+dietologia del diabete e delle malattie del ricambio;
+
+elementi di psicologia nel diabete e nelle malattie del ricambio (complementare);
+
+terapia chirurgica nel diabete e nelle malattie del ricambio (complementare);
+
+oftalmologia nel diabete e nelle malattie del ricambio (complementare).
+
+Art. 160. - I corsi saranno integrati da conferenze su argomenti specialistici e da esercitazioni pratiche cliniche e di laboratorio.
+
+La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Art. 161. - Alla fine di ogni corso gli iscritti, per essere ammessi agli anni successivi, devono superare le prove di esame delle materie impartite durante l'anno.
+
+Al termine del corso di studi per il conseguimento del titolo di specialista in diabetologia e malattie del ricambio gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+
+Scuola di specializzazione in malattie infettive
+
+Art. 162. - La scuola di specializzazione in malattie infettive ha sede presso l'istituto di clinica delle malattie infettive e conferisce il diploma di specialista in malattie infettive.
+
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Art. 163. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalle autorita' competenti.
+
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.
+
+Art. 164. - Il numero massimo degli allievi e' di quattro per anno di corso e complessivamente di sedici iscritti per l'intero corso di studi.
+
+L'ammissione al corso avviene per titoli ed esami.
+
+Art. 165. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+epidemiologia generale delle malattie infettive;
+
+batteriologia e micologia;
+
+virologia;
+
+parassitologia;
+
+immunologia generale.
+
+2° Anno:
+
+tecniche batteriologiche e micologia applicate alle malattie infettive;
+
+tecniche virologiche applicate alle malattie infettive;
+
+tecniche parassitologiche applicate alle malattie infettive;
+
+tecniche immunologiche applicate alle malattie infettive;
+
+anatomia patologica;
+
+genetica.
+
+3° Anno:
+
+clinica delle malattie infettive I;
+
+diagnostica e semeiotica delle malattie infettive;
+
+radiologia;
+
+medicina preventiva delle malattie infettive.
+
+4° Anno:
+
+clinica delle malattie infettive II;
+
+malattie tropicali;
+
+legislazione sanitaria delle malattie infettive;
+
+farmacologia e terapia delle malattie infettive.
+
+Art. 166. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.
+
+Al termine di ciascun anno di corso gli allievi sono tenuti a sostenere gli esami del rispettivo anno; al termine del corso di studi per il conseguimento del diploma di specialista in malattie infettive gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specialita'.
+
+Agli allievi i quali abbiano ottenuto l'approvazione nell'esame di diploma verra' rilasciato il diploma di specializzazione in malattie infettive.
+
+Scuola di specializzazione in geriatria e gerontologia
+
+Art. 167. - La scuola di specializzazione in geriatria e gerontologia ha sede presso l'istituto di patologia speciale medica e conferisce il diploma di specialista in geriatria e gerontologia.
+
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Art. 168. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.
+
+Art. 169. - Il numero massimo degli allievi e' di dieci iscritti per anno di corso e complessivamente di quaranta iscritti per l'intero corso di studi.
+
+L'ammissione al corso avviene per titoli ed esami.
+
+Art. 170. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+farmacologia;
+
+principi e tecniche della riabilitazione nella patologia dell'apparato locomotore;
+
+anatomia e istologia patologica I;
+
+biologia della senescenza I;
+
+fisiopatologia I;
+
+geriatria sociale I;
+
+semeiotica I;
+
+principi e tecniche di materie specialistiche in geriatria I.
+
+2° Anno:
+
+principi e tecniche della riabilitazione cardiovascolare e respiratoria;
+
+anatomia e istologia patologica II;
+
+biologia della senescenza II;
+
+fisiopatologia II;
+
+geriatria sociale II;
+
+semeiotica II;
+
+radiologia e radioterapia I;
+
+principi e tecniche di materie specialistiche in geriatria II.
+
+3° Anno:
+
+neurologia;
+
+principi e tecniche della riabilitazione neurologica;
+
+psicologia;
+
+radiologia e radioterapia 11;
+
+principi e tecniche di materie specialistiche in geriatria III; clinica geriatrica I;
+
+terapia medica I;
+
+pratica geriatrica extraospedaliera I.
+
+4° Anno:
+
+chirurgia geriatrica;
+
+formazione degli operatori geriatrici;
+
+principi e tecniche della riabilitazione nel campo delle funzioni cerebrali superiori;
+
+principi e tecniche di riattivazione, terapia occupazionale, geragogia;
+
+psicogeriatria;
+
+clinica geriatrica II;
+
+terapia medica II;
+
+pratica geriatrica extraospedaliera II.
+
+Art. 171. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.
+
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Al termine del corso di studi per il conseguimento del diploma di specialista in geriatria e gerontologia, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+
+Il presente decreto, munito del sigillo dello stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 26 settembre 1973
+
+PERTINI
+
+PEDINI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 22 dicembre 1978 Registro n. 132 Istruzione, foglio n. 306
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA   
+  
+Veduto lo statuto dell'Universita' cattolica S. Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica S. Cuore di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
+  
+Decreta:   
+  
+Lo statuto dell'Universita' cattolica S. Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+  
+Il primo comma dell'art. 102, concernente le norme generali per le scuole di specializzazione della facolta' di medicina e chirurgia, e' soppresso e sostituito dal seguente:   
+Art. 102, primo comma. - Le scuole di specializzazione della facolta' di medicina e chirurgia hanno lo scopo di promuovere l'incremento scientifico e pratico delle singole branche della medicina e di conferire diplomi che abilitino al particolare esercizio delle medesime con la qualifica di specialista, a norma dell'art. 178 del testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592).   
+L'ammissione, alle scuole e' riservata ai laureati in medicina e chirurgia, salvo diverso indirizzo. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalla autorita' competente.   
+L'ammissione alle scuole avviene mediante concorso per titoli ed esami.   
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+  
+L'art. 107, riguardante la scuola di specializzazione in urologia, e' soppresso e sostituito dal seguente:   
+  
+Scuola di specializzazione in urologia   
+  
+Art. 107. - La scuola di specializzazione in urologia ha sede presso l'istituto di clinica chirurgica e conferisce il diploma di specializzazione in urologia.   
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazioni.   
+Il numero massimo degli allievi e' di dieci per anno di corso e complessivamente di cinquanta iscritti per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli ed esami.   
+Le materie di insegnamento e gli esami sono i seguenti:   
   
   
-Dopo l'art. 89, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in "economia e relazioni internazionali" e in "relazioni industriali".   
-Scuola di specializzazione in economia e relazioni internazionali Art. 90. - E' istituita presso l'Universita' cattolica del Sacro Cuore di Milano la scuola di specializzazione in economia e relazioni internazionali, che conferisce il diploma di specialista in economia e relazioni internazionali.   
-Art. 91. - La direzione della scuola ha sede presso la facolta' di scienze politiche che provvede all'organizzazione didattica della scuola secondo il disposto dell'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4).   
-Art. 92. - La scuola ha lo scopo di fornire una conoscenza scientifica delle relazioni e delle istituzioni internazionali, promuovendo l'analisi economica e politologica dei problemi del sistema internazionale. Tale conoscenza costituisce l'essenziale requisito per legittimare la qualifica di specialista nei rami di esercizio professionale che, attinenti ai campi dell'economia e delle relazioni internazionali, interessano sia gli organismi pubblici e privati nazionali sia le organizzazioni internazionali.   
-Nella scuola vengono trattati - anche sotto i profili storici e giuridici - i grandi temi dello sviluppo economico e politico mondiale, della crescita di lungo periodo dei sistemi economici, delle relazioni tra economie in diverse aree di sviluppo, dei progetti di sviluppo, dell'innovazione tecnologica, dell'interscambio tra tecnologie e materie prime. Particolare attenzione viene rivolta anche alle relazioni tra l'Italia e i Paesi con diverso grado di sviluppo. Le finalita' e le attivita' della scuola soddisfano inoltre il disposto dell'art. 3 del decreto del Presidente della Repubblica 10 marzo 1982, essendo rivolte anche alle qualificazioni professionali necessarie all'attuazione di piani di sviluppo economico e sociale previsti dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.   
-Art. 93. - La durata del corso e' di due anni e non e suscettibile di abbreviazioni.   
-Art. 94. - Il numero degli iscritti e' di venticinque per ogni anno e complessivamente di cinquanta per l'intero corso di studi.   
-I concorsi di ammissione sono banditi con decreto rettorale in tempo utile per ogni anno accademico.   
-L'eventuale differenza tra il totale degli iscrivibili ed il numero di posti effettivamente banditi potra' esser destinata a concorrenti di cittadinanza straniera.   
-Il numero complessivo degli specializzandi di cittadinanza straniera non potra' comunque essere superiore al 20% di quelli di cittadinanza italiana.   
-Requisiti di ammissione per tali candidati sono la conoscenza della lingua italiana e il possesso di titolo di studio equipollente ai diplomi di laurea di cui a successivo art. 95.   
-Art. 95. - Alla scuola sono ammessi coloro i quali abbiano conseguito il diploma di laurea in scienze politiche o giurisprudenza o economia e commercio.   
-Sono ammessi altresi' gli studenti stranieri in possesso di titolo equipollente ai sensi dell'[art. 332 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art332).   
-La domanda di ammissione alla Scuola e' diretta al rettore dell'Universita' e deve essere corredata di un certificato di laurea con l'indicazione dei voti conseguiti in tutti gli esami speciali e in quello di laurea.   
-Art. 96. - L'ammissione avviene in adempimento dei criteri fissati dall'[art. 13 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art13) e del decreto ministeriale del 16 settembre 1982.   
-Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:   
-a) la tesi nella disciplina attinente alla specializzazione;   
-b) il voto di laurea;   
-c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;   
-d) le pubblicazioni nelle predette materie.   
-Il punteggio dei predetti titoli e' quello stabilito da [decreto ministeriale 16 settembre 1982 (Gazzetta Ufficiale n. 275 del 6 ottobre 1982](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1982-10-06&numeroGazzetta=275)).   
-Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo riportato.   
-Nel caso di convenzioni con enti pubblici e privati, che preveda, a carico di questi ultimi, la concessione di borse per frequentare la scuola, la commissione per l'esame di ammissione, composta di norma da cinque professori di ruolo designati dal consiglio della scuola stessa, puo' essere integrata da un docente o cultore delle materie attinenti, scelto dal consiglio entro una terna designata dagli enti erogatori.   
-Art. 97. - Organizzazione dei corsi: durante il primo anno di corso vengono impartiti cinque insegnamenti, durante il secondo anno tre insegnamenti.   
-Nel primo anno di corso sono obbligatorie (insegnamenti fondamentali) le seguenti materie:   
-1) economia e politica superiore;   
-2) struttura del sistema economico mondiale;   
-3) teoria e tipologia dei processi politici.   
-Lo studente deve altresi' scegliere due materie nel gruppo di discipline opzionali (complementari).   
-Nel secondo anno di corso sono obbligatorie (insegnamenti fondamentali) le seguenti materie:   
-4) economia internazionale;   
-5) teoria e politica dello sviluppo economico.   
-Lo studente deve altresi' scegliere una materia complementare. Un corso annuale puo' essere sostituito da due corsi semestrali.   
-I corsi opzionali (complementari) da attivare di anno in anno sono deliberati dagli organi direttivi della scuola e vengono scelti fra le seguenti discipline:   
-1) diritto commerciale internazionale;   
-2) diritto finanziario internazionale;   
-3) diritto industriale internazionale;   
-4) diritto internazionale privato superiore;   
-5) diritto internazionale pubblico superiore;   
-6) economia dei Paesi in via di sviluppo;   
-7) economia della innovazione e dei trasferimenti di tecnologia;   
-8) economia e organizzazione delle aree regionali;   
-9) economia e politica industriale internazionale;   
-10) economia e politica internazionale del lavoro;   
-11) economia e politica internazionale delle materie prime e risorse naturali;   
-12) economia e politica monetaria e finanziaria internazionale;   
-13) il sistema bancario e creditizio internazionale;   
-14) il sistema politico internazionale;   
-15) integrazione economica internazionale;   
-16) integrazione internazionale dei processi produttivi;   
-17) organizzazione economica internazionale;   
-18) organizzazione internazionale;   
-19) politica del commercio internazionale;   
-20) politica internazionale;   
-21) scienza delle relazioni internazionali;   
-22) sistemi economici comparati;   
-23) sistemi economici e politici delle aree socialiste;   
-24) sistemi politici comparati;   
-25) storia contemporanea superiore;   
-26) storia della popolazione;   
-27) storia delle relazioni e delle istituzioni economiche internazionali;   
-28) storia delle relazioni e delle istituzioni internazionali;   
-29) storia dello sviluppo economico mondiale;   
-30) storia economica superiore;   
-31) teoria e tecnica dei progetti di sviluppo;   
-32) teoria e tipologia delle organizzazioni complesse;   
-33) tipologia delle istituzioni economiche.   
-Le discipline fondamentali sono suddivise in due gruppi: economico-politico (discipline 1, 2, 3, 4, 5) e politico (disciplina 3).   
-Le discipline complementari indicate sono suddivise in quattro gruppi: giuridico (discipline 1, 2, 3, 4, 5); economico e politico (discipline 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 31, 33); storico e politico (discipline 24, 25, 26, 27, 28, 30, 32).   
-Considerato, secondo il disposto dell'[art. 3 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art3), che l'attuazione di piani di sviluppo economico e sociale, ed in particolare quelli connessi alla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), rende necessarie nuove figure professionali per la cui realizzazione non sono istituiti corsi di studi universitari, le discipline fondamentali e complementari indicate sono afferenti a gruppi disciplinari (in particolare degli indirizzi politico-economico, politico-internazionale, storico-politico, politico-amministrativo) della facolta' di scienze politiche con una finalizzazione maggiore rispetto alle consuete discipline dei curricula di laurea.   
-Le materie di insegnamento possono essere integrate di anno in anno, su richiesta del consiglio della scuola, da corsi, conferenze e seminari su argomenti specialistici tenuti da studiosi delle varie materie.   
-Art. 98. - Gli specializzandi sono tenuti a seguire i corsi delle lezioni e a partecipare alle attivita' pratiche nei termini qui di seguito precisati:   
-a) i corsi annuali vengono impartiti con un numero di ore di lezione pari a quelle di un corso universitario e quelli semestrali con ore di lezione pari alla meta' di un corso annuale;   
-b) la frequenza e' obbligatoria per un numero di ore di lezioni non inferiore all'85% delle lezioni del corso.   
-Tale numero di ore obbligatorie, per cio' che concerne l'eventuale distribuzione temporale nel corso dell'anno, viene stabilito all'inizio dell'anno dagli organi direttivi della scuola in base ai programmi dei corsi obbligatori e opzionali;   
-c) durante l'anno di corso vengono tenuti seminari e attivita' pratiche stabiliti all'inizio dell'anno. E' fatto obbligo di partecipare agli stessi secondo le modalita' di cui al punto b) precedente;   
-d) durante l'anno potranno essere tenute, a seconda delle esigenze dei singoli insegnamenti, attivita' pratiche consistenti nella predisposizione da parte degli studenti di elaborati sui temi di insegnamento e sotto la supervisione dei docenti.   
-Le modalita' di accertamento degli adempimenti relativi alla frequenza sono determinate dal consiglio della scuola e rese note nel manifesto annuale degli studi.   
-Restano fermi peraltro i disposti degli [articoli 11](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art11) e [12 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art12), nel cui ambito altre specificazioni sui doveri e sugli adempimenti degli specializzandi possono essere stabiliti dagli organi direttivi della scuola all'inizio di ogni anno accademico.   
-Art. 99. - Per il conseguimento del diploma di specialista e' richiesto il superamento dell'esame teorico-pratico di cui all'[art. 11 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art11), relativo al primo e secondo anno di frequenza; superato l'esame teorico-pratico dell'ultimo anno, il corso di studio si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie di insegnamento.   
-La commissione giudicatrice di tale esame finale e' costituita da cinque professori di ruolo della scuola designati dal relativo consiglio e integrati volta a volta dal docente titolare dell'insegnamento della materia in cui avviene la dissertazione.   
-La commissione giudicatrice per l'esame teorico-pratico relativo ad ogni anno di corso e' costituita da docenti della scuola delle discipline interessate dal programma di formazione dei candidati.   
-A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista in economia e relazioni internazionali.   
-Art. 100. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' determinato dal consiglio di amministrazione dell'Universita' in base alle vigenti disposizioni di legge.   
-I contributi sono stabiliti anno per anno dallo stesso consiglio di amministrazione.   
-Art. 101.- Gli organi della scuola, costituiti in base al disposto dell'[art. 14 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art14), sono:   
-a) il consiglio;   
-b) il direttore.   
-Art. 102. - Il consiglio, presieduto dal direttore, e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).   
-Il consiglio esercita le competenze spettanti, ai sensi dell'[art. 94 del decreto del Presidente della Repubblica n. 382/1980](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;382~art94), al consiglio di corso di laurea in materia di coordinamento di insegnamenti.   
-In particolare conduce e coordina le attivita' della scuola inclusi la designazione dei docenti, l'affidamento degli insegnamenti e le eventuali proposte di contratti.   
-In prima istituzione, i docenti che costituiscono il consiglio della scuola vengono designati in rapporto agli insegnamenti da attivare, con apposita delibera del consiglio della facolta' di scienze politiche dell'Universita' cattolica di Milano secondo quanto previsto dall'art. 91.   
-Il direttore viene nominato dal rettore, su proposta del consiglio della scuola che lo elegge a voto segreto tra i professori ordinari, straordinari o fuori ruolo che insegnino anche nella scuola stessa; dura in carica tre anni ed e' rieleggibile.   
-In caso di motivato impedimento la direzione della scuola e' affidata a un professore associato che pure insegni nella scuola medesima.   
-Il direttore ha la responsabilita' della scuola, convoca il consiglio e lo presiede, e ha, nell'ambito della conduzione della scuola stessa, le funzioni proprie dei presidenti del consiglio del corso di laurea.   
-Il direttore promuove altresi' per la stipula, attraverso il consiglio di amministrazione e il rettore, le convenzioni per lo svolgimento dell'attivita' di formazione.   
-Scuola di specializzazione in relazioni industriali   
-Art. 103. - E' istituita presso l'Universita' cattolica del Sacro Cuore di Milano la scuola di specializzazione in relazioni industriali che conferisce il diploma di specialista in relazioni industriali.   
-Art. 104. - La direzione della scuola ha sede presso la facolta' di scienze politiche che provvede all'organizzazione didattica della scuola secondo il disposto dell'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4).   
-Art. 105. - La scuola ha lo scopo di fornire una conoscenza scientifica delle relazioni industriali promuovendo l'analisi delle relazioni di lavoro nell'impresa e nella societa' e degli istituti preposti alla regolamentazione dei relativi contenuti economici e normativi.   
-Nella scuola vengono tra l'altro trattati - nei diversi aspetti sociologici, economici, storici, psicologici e giuridici - i temi dei conflitti di lavoro in rapporto alle diverse variabili, che incidono sul contesto aziendale, tecnologiche e organizzative ma anche ambientali, e in rapporto all'evoluzione complessiva dei moderni sistemi socio-economici.   
-L'insieme delle conoscenze cosi' acquisite costituira' l'essenziale requisito per legittimare la qualifica di specialista di relazioni industriali.   
-Art. 106. - La durata del corso e' di due anni e non e' suscettibile di abbreviazioni.   
-Art. 107. - Il numero degli iscritti e' di venticinque per ogni anno e complessivamente di cinquanta per l'intero corso di studi.   
-I concorsi di ammissione sono banditi con decreto rettorale in tempo utile per ogni anno accademico.   
-Art. 108. - Alla scuola sono ammessi coloro i quali abbiano conseguito il diploma di laurea in scienze politiche o giurisprudenza o economia e commercio.   
-Art. 109. - L'ammissione avviene in adempimento dei criteri fissati dall'[art. 13 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art13).   
-Nel caso di convenzione con enti pubblici e privati, che preveda, a carico di questi ultimi, la concessione di borse per frequentare la scuola, la commissione per l'esame di ammissione, composta di norma da cinque professori di ruolo designati dal consiglio della scuola stessa, puo' essere integrata da un docente o cultore della materia attinente, scelto dal consiglio entro una terna designata dagli enti erogatori.   
-Costituiscono titolo di ammissione:   
-a) la tesi di laurea;   
-b) il voto di laurea;   
-c) il voto riportato negli esami di profitto nel corso di laurea in discipline attinenti la specializzazione ed indicate nel bando di concorso per ciascuno dei corsi di laurea che danno accesso alla scuola;   
-d) le pubblicazioni scientifiche.   
-Il punteggio dei predetti titoli e' quello stabilito dal decreto ministeriale del 16 settembre 1982, emanato ai sensi dell'[art. 13, quinto comma, del decreto del Presidente della Repubblica n. 162/82, pubblicato nella Gazzetta Ufficiale n. 275 del 6 ottobre 1982](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1982-10-06&numeroGazzetta=275).   
-Art. 110. - Organizzazione dei corsi: durante il primo anno di corso vengono impartiti otto insegnamenti e altrettanti durante il secondo anno.   
-Nel primo anno di corso sono obbligatorie (insegnamenti fondamentali) le seguenti materie:   
-1) industrializzazione italiana ed europea;   
-2) storia delle relazioni sindacali in Europa;   
-3) bilancio e altre determinazioni di sintesi;   
-4) sociologia del lavoro e dell'industria;   
-5) economia industriale e del terziario o economia delle amministrazioni pubbliche.   
-Lo studente deve altresi' scegliere tre materie del gruppo di discipline opzionali (complementari).   
-Nel secondo anno di corso sono obbligatorie le seguenti materie:   
-1) gestione delle risorse umane e delle trattative sindacali;   
-2) diritto sindacale;   
-3) deontologia professionale.   
-Lo studente deve altresi' scegliere altre cinque materie del gruppo di discipline opzionali.   
-Un corso annuale puo' essere sostituito da due corsi semestrali.   
-I corsi opzionali da attivare di anno in anno sono deliberati dagli organi direttivi della scuola e vengono scelti fra le seguenti discipline:   
-1) storia della produzione;   
-2) storia della tecnologia;   
-3) storia del sindacato dei lavoratori e delle rappresentanze industriali in Italia;   
-4) diritto dell'economia;   
-5) diritto del lavoro;   
-6) legislazione sociale e previdenziale;   
-7) diritto processuale del lavoro;   
-8) economia del lavoro;   
-9) economia delle aziende di credito;   
-10) politica delle relazioni sindacali;   
-11) ricerca operativa;   
-12) economia di impresa;   
-13) pianificazione e budget delle risorse umane;   
-14) amministrazione del personale;   
-15) gestione operativa della formazione;   
-16) teoria delle organizzazioni complesse;   
-17) psicologia del lavoro e della comunicazione;   
-18) sociologia economica;   
-19) storia sociale del lavoro;   
-20) metodologia e tecnica della ricerca sociale;   
-21) teoria e tecnica dell'organizzazione;   
-22) organizzazione del lavoro nell'impresa e nelle amministrazioni pubbliche;   
-23) igiene e medicina del lavoro;   
-24) medicina preventiva e igiene mentale;   
-25) sicurezza sul lavoro;   
-26) sociologia dei conflitti di lavoro;   
-27) politiche del lavoro.   
-Considerato, secondo il disposto dell'[art. 3 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art3), che l'attuazione di piani di sviluppo economico e sociale, ed in particolare quelli connessi alla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), rende necessarie nuove figure professionali per la cui realizzazione non sono istituiti corsi di studi universitari, le discipline fondamentali e complementari indicate sono afferenti a gruppi disciplinari della facolta' di scienze politiche (in particolare degli indirizzi politico-sociale, politico-economico, storico-politico, politico-amministrativo), con una finalizzazione maggiore rispetto alle consuete discipline dei curricula di laurea.   
-Le materie di insegnamento possono essere integrate di anno in anno, su richiesta del consiglio della scuola, da corsi, conferenze e seminari su argomenti specialistici tenuti da studiosi delle varie materie.   
-Art. 111. - Gli specializzandi sono tenuti a seguire i corsi delle lezioni e a partecipare alle attivita' pratiche nei termini qui di seguito precisati:   
-a) i corsi annuali vengono impartiti con un numero di ore di lezione pari a quelle di un corso universitario e quelli semestrali con ore di lezione pari alla meta' di un corso annuale;   
-b) la frequenza e' obbligatoria per un numero di ore di lezione non inferiore all'85% delle lezioni del corso.   
-Tale numero di ore obbligatorie, per cio' che concerne l'eventuale distribuzione temporale del corso dell'anno, viene stabilito all'inizio dell'anno dagli organi direttivi della scuola in base ai programmi dei corsi obbligatori e opzionali;   
-c) durante l'anno di corso vengono tenuti seminari e attivita' pratiche stabiliti all'inizio dell'anno. E' fatto obbligo di partecipare agli stessi secondo le modalita' di cui al punto b) precedente;   
-d) durante l'anno potranno essere tenute, a seconda delle esigenze dei singoli insegnamenti, attivita' pratiche consistenti nella predisposizione da parte degli studenti di elaborati sui temi d'insegnamento e sotto la supervisione dei docenti.   
-Le modalita' di accertamento degli adempimenti relativi alla frequenza sono determinate dal consiglio della scuola e rese note nel manifesto annuale degli studi.   
-Restano fermi peraltro i disposti degli [articoli 11](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art11) e [12 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art12), nel cui ambito altre specificazioni sui doveri e gli adempimenti degli specializzandi possono essere stabilite dagli organi direttivi della scuola all'inizio di ogni anno accademico.   
-Art. 112. - Per il conseguimento del diploma di specialista e' richiesto il superamento dell'esame teorico-pratico di cui all'[art. 11 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art11);   
-superato l'esame teorico-pratico dell'ultimo anno, il corso di studio si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie di insegnamento impartite nella scuola.   
-La commissione giudicatrice di tale esame finale e' costituita da cinque professori di ruolo della scuola designati dal relativo consiglio e integrati volta a volta dal docente titolare dell'insegnamento della materia in cui avviene la dissertazione.   
-La commissione giudicatrice per l'esame teorico-pratico relativo ad ogni anno di corso e' costituita da docenti della scuola delle discipline interessate dal programma di formazione dei candidati.   
-A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista in relazioni industriali.   
-Art. 113. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' determinato dal consiglio di amministrazione dell'Universita' in base alle vigenti disposizioni di legge.   
-I contributi sono stabiliti anno per anno dallo stesso consiglio di amministrazione.   
-Art. 114. - Gli organi della scuola, costituiti in base al disposto dell'[art. 14 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art14), sono:   
-a) il consiglio;   
-b) il direttore.   
-Art. 115. - Il consiglio, presieduto dal direttore, e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).   
-Il consiglio esercita le competenze spettanti, ai sensi dell'[art. 94 del decreto del Presidente della Repubblica n. 382/1980](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;382~art94), al consiglio di corso di laurea in materia di coordinamento di insegnamenti.   
-In particolare conduce e coordina le attivita' della scuola inclusi la designazione dei docenti, l'affidamento degli insegnamenti, e le eventuali proposte di contratti.   
-In prima istituzione, i docenti che costituiscono il consiglio della scuola vengono designati in rapporto agli insegnamenti da attivare, con apposita delibera del consiglio della facolta' di scienze politiche dell'Universita' cattolica di Milano secondo quanto previsto dall'art. 104.   
-Il direttore viene nominato dal rettore, su proposta del consiglio della scuola, che lo elegge a voto segreto tra i professori ordinari, straordinari o fuori ruolo che insegnino anche nella scuola stessa; dura in carica tre anni ed e' rieleggibile. In caso di motivato impedimento la direzione della scuola e' affidata a un professore associato che pure insegni nella scuola medesima.   
-Il direttore ha la responsabilita' della scuola, convoca il consiglio e lo presiede, e ha, nell'ambito della conduzione della scuola stessa, le funzioni proprie dei presidenti del consiglio del corso di laurea.   
-Il direttore promuove altresi' per la stipula, attraverso il consiglio di amministrazione e il rettore, le convenzioni per lo svolgimento dell'attivita' di formazione.   
   
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### Dato a Roma, addi' 28 giugno 1986
-
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
-
-Visto, il Guardasigilli: ROGNONI
-
-Registrato alla Corte dei conti, addi' 10 dicembre 1986
-
-Registro n. 88 Istruzione, foglio n. 10
+  
+Insegnamenti Esami  
+--- ---  
+  
+1° Anno:  
+  
+1) anatomia sistematica e topo- 1) anatomia sistematica e top  
+grafia dell'apparato urinario e grafica dell'apparato urinario  
+genitale maschile; e genitale maschile;  
+  
+2) fisiologia dell'apparato 2) fisiologia dell'apparato urinario e genitale maschile; rinario e genitale maschile;  
+  
+3) batteriologia in urourologia; 3) batteriologia in urourologia.  
+  
+4) semeiotica funzionale e stru-  
+mentale dell'apparato urogenita-  
+le I.  
+  
+2° Anno:  
+  
+1) semeiotica funzionale e stru- 1) semeiotica funzionale e stru-  
+mentale dell'apparato urogenita- mentale dell'apparato urogeni-  
+le II; tale;  
+  
+2) le nefropatie mediche; 2) le nefropatie mediche;  
+  
+3) anatomia chirurgica dell'ap- 3) anatomia chirurgica dell'ap-  
+parato urinario e genitale ma- parato urinario e genitale ma-  
+schile; schile.  
+  
+4) patologia dell'apparato uri-  
+nario e genitale maschile I;  
+  
+5) radiologia dell'apparato uri-  
+nario e genitale maschile I.  
+  
+  
+3° Anno:  
+  
+  
+1) patologia dell'apparato uri- 1) patologia dell'apparato uri-  
+nario e genitale maschile II; nario e genitale maschile;  
+  
+2) radiologia dell'apparato uri- 2) radiologia dell'apparato uri-  
+nario e genitale maschile II; nario e genitale maschile;  
+  
+3) le affezioni cutanee veneree 3) le affezioni cutanee veneree  
+nei riguardi dell'urologia; nei riguardi dell'urologia;  
+  
+4) andrologia. 4) andrologia.  
+  
+  
+4° Anno:  
+  
+  
+1) anatomia e istologia patolo- 1) anatomia e istologia patolo-  
+gica dell'apparato urinario e ge- gica dell'apparato urinario e ge-  
+nitale maschile; nitale maschile;  
+  
+2) farmacoterapia delle affezio- 2) farmacoterapia delle affezio-  
+ni urogenitali; ni urogenitali;  
+  
+3) anestesia e trattamento pre e 3) anestesia e trattamento pree  
+post operatorio del malato urolo- post operatorio del malato urolo-  
+gico; gico;  
+  
+4) nefrologia chirurgica; 4) nefrologia chirurgica.  
+  
+5) clinica urologica I;  
+  
+6) procedimenti di chirurgia en-  
+doscopica I;  
+  
+7) interventi e procedimenti o-  
+peratori sull'apparato urinario e  
+genitale maschile I.  
+  
+  
+5° Anno:  
+  
+  
+1) clinica urologica II; 1) clinica urologica;  
+  
+2) patologia e clinica urologica 2) patologia e clinica urologica  
+infantile; infantile;  
+  
+3) urologia ginecologica; 3) urologia ginecologica;  
+  
+4) procedimenti di chirurgia en- 4) interventi e procedimenti doscopica II; operatori sull'aparato urinario  
+e genitale maschile.  
+  
+5) la chirurgia dell'intestino;  
+  
+6) la chirurgia vascolare;  
+  
+7) interventi e procedimenti o-  
+peratori sull'apparato urinario e  
+genitale maschile II.  
+  
+  
+  
+La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
+Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno ad eccezione delle discipline svolte in corsi pluriennali il cui esame sara' sostenuto alla fine dei corsi medesimi.   
+Al termine del corso di studi per il conseguimento del diploma di specialista in urologia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
+  
+L'art. 117, riguardante la scuola di specializzazione in ortopedia e traumatologia, che cambia la denominazione in quella di scuola di specializzazione in ortopedia, e' abrogato e sostituito dal seguente:   
+  
+Scuola di specializzazione in ortopedia   
+  
+Art. 117. - La scuola di specializzazione in ortopedia ha sede presso l'istituto di clinica ortopedica e conferisce il diploma di specialista in ortopedia. La scuola comprende un insegnamento teorico e pratico.   
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.   
+La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazioni.   
+Il numero massimo degli allievi e' di otto per anno di corso e complessivamente di quaranta iscritti per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli ed esami.   
+Le materie di insegnamento sono le seguenti:   
+  
+1° Anno:   
+insegnamento pratico:   
+chirurgia generale;   
+pronto soccorso generale;   
+fisioterapia;   
+insegnamento teorico:   
+anatomia dell'apparato locomotore;   
+fisiologia dell'apparato locomotore;   
+semeiotica ortopedica;   
+nozioni di chirurgia generale;   
+bioingegneria dell'apparato locomotore I.   
+  
+2° Anno:   
+insegnamento pratico:   
+chirurgia generale (con frequenza eventuale in   
+reparti specialistici interessanti per l'apparato locomotore; reparti di pronto soccorso traumatologico;   
+reparti di ortopedia e traumatologia;   
+insegnamento teorico:   
+anatomia ed istologia patologia dell'apparato locomotore I;   
+patologia dell'apparato locomotore I;   
+clinica ortopedica I;   
+traumatologia dell'apparato locomotore I;   
+radiologia I;   
+nozioni di chirurgia d'urgenza e pronto soccorso;   
+bioingegneria dell'apparato locomotore II.   
+  
+3° Anno:   
+insegnamento pratico:   
+reparti di ortopedia e traumatologia (in particolare sale di degenza e sale gessi);   
+insegnamento teorico:   
+anatomia e istologia patologica dell'apparato locomotore II;   
+patologia dell'apparato locomotore II;   
+clinica ortopedica II;   
+traumatologia dell'apparato locomotore II;   
+radiologia II;   
+tecnica operatoria I;   
+apparatoterapia e tecnica degli apparecchi gessati;   
+elementi di reumatologia.   
+  
+4° Anno:   
+insegnamento pratico:   
+reparti di ortopedia e traumatologia (frequenza nei reparti operatori);   
+insegnamento teorico:   
+patologia dell'apparato locomotore III;   
+clinica ortopedica III;   
+traumatologia dell'apparato locomotore III;   
+tecnica operatoria II;   
+fisiokinesiterapia;   
+neuropatologia dell'apparato locomotore ed elettrodiagnostica; nozioni di medicina legale.   
+  
+5° Anno:   
+insegnamento pratico:   
+reparti di ortopedia e traumatologia (frequenza nei reparti operatori);   
+officine ortopediche;   
+insegnamento teorico:   
+patologia dell'apparato locomotore IV;   
+clinica ortopedica IV;   
+traumatologia dell'apparato locomotore IV;   
+tecnica operatoria III;   
+fisioterapia.   
+  
+La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
+Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno.   
+Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.   
+Al termine del corso di studi per il conseguimento del diploma di specialista in ortopedia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
+  
+L'art. 118, riguardante la scuola di specializzazione in clinica pediatrica, che muta la denominazione in pediatria, e' soppresso e sostituito dal seguente:   
+  
+Scuola di specializzazione in pediatria   
+  
+Art. 118. - La scuola di specializzazione in pediatria ha sede presso l'istituto di clinica pediatrica e conferisce il diploma di specialista in pediatria.   
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.   
+Il numero massimo degli allievi e' di nove per anno di corso e complessivamente di trentasei per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli ed esami.   
+Le materie di insegnamento sono le seguenti:   
+  
+1° Anno:   
+genetica;   
+auxologia;   
+alimentazione;   
+epidemiologia;   
+malattie infettive;   
+clinica pediatrica I.   
+  
+2° Anno:   
+radiologia;   
+legislazione del minore;   
+organizzazione sanitaria;   
+psicologia pediatrica;   
+oculistica ed ortottica;   
+otorino e foniatria;   
+odonto;   
+neonatologia I;   
+chirurgia pediatrica I;   
+pediatria preventiva e sociale I;   
+clinica pediatrica II.   
+  
+3° Anno:   
+neurologia;   
+psichiatria infantile;   
+nefrologia e urologia;   
+ginecologia pediatrica;   
+neonatologia II;   
+chirurgia pediatrica II;   
+pediatria preventiva e sociale II;   
+cardiologia I;   
+endocrinologia I;   
+ematologia I;   
+immunologia I;   
+gastroenterologia I;   
+clinica pediatrica III.   
+  
+4° Anno:   
+oncologia;   
+pneumologia;   
+ortopedia e traumatologia;   
+dermatologia;   
+cardiologia II;   
+endocrinologia II;   
+ematologia II;   
+immunologia II;   
+gastroenterologia II;   
+clinica pediatrica IV.   
+  
+La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. E' altresi' obbligatorio un periodo di internato di almeno dieci mesi per ogni anno di corso.   
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto, non potranno essere ammessi a sostenere le prove di esame.   
+Alla fine di ciascun anno di corso gli iscritti per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.   
+Al termine del corso di studi, per il conseguimento del diploma di specialista in pediatria, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
+  
+Gli articoli 120, 121, 122, concernenti la scuola di specializzazione in anatomia ed istologia patologica, che muta la denominazione in anatomia patologica, sono abrogati e sostituiti dai seguenti:   
+  
+Scuola di specializzazione in anatomia patologica   
+  
+Art. 120. - La scuola di specializzazione in anatomia patologica ha sede presso l'istituto di anatomia ed istologia patologica e conferisce il diploma di specialista in anatomia patologica.   
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.   
+Il numero massimo degli allievi e' di sette per anno di corso e complessivamente di ventotto iscritti per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli ed esami.   
+Art. 121. - Le materie di insegnamento sono le seguenti:   
+  
+1° Anno:   
+anatomia patologica sistematica I;   
+tecnica delle autopsie;   
+diagnostica anatomo-patologica macroscopica I;   
+tecniche istologiche ed istochimiche.   
+  
+2° Anno:   
+anatomia patologica sistematica II;   
+diagnostica anatomo-patologica macroscopica II;   
+diagnostica istopatologica I;   
+tecniche e diagnostica citologica e citogenetica.   
+  
+3° Anno:   
+diagnostica istopatologica II;   
+tecniche di microscopia elettronica e biologia ultrastrutturale;   
+immunopatologia.   
+  
+4° Anno:   
+diagnostica istopatologica III;   
+diagnostica isto-citopatologica ultrastrutturale;   
+diagnostica autoptica medico legale ed elementi di legislazione sanitaria;   
+applicazioni statistiche ed epidemiologiche.   
+  
+Art. 122. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.   
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
+Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno.   
+Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.   
+Al termine del corso di studi per il conseguimento del diploma di specialista in anatomia patologica gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
+  
+Gli articoli 135, 136, 137, riguardanti la scuola di specializzazione in microbiologia, sono abrogati e sostituiti dai seguenti:   
+  
+Scuola di specializzazione in microbiologia   
+  
+Art. 135. - La scuola di specializzazione in microbiologia ha sede presso l'istituto di microbiologia e conferisce il diploma di specialista in microbiologia o in microbiologia con indirizzo tecnico.   
+La scuola di specializzazione in microbiologia ha lo scopo di allargare e approfondire sul piano scientifico la cultura di coloro che si dedicano allo studio di questa disciplina e di fornire sul piano tecnico una preparazione pratica specifica.   
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente. E' contemplato un secondo indirizzo in tecniche microbiologiche al quale sono ammessi i laureati in medicina veterinaria, in scienze biologiche, in scienze naturali, in farmacia, in chimica e tecnologie farmaceutiche.   
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.   
+Il numero massimo degli allievi e' complessivamente di trenta iscritti per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli ed esami.   
+Art. 136. - Le materie di insegnamento sono le seguenti:   
+  
+PRIMO BIENNIO   
+(comune ai due indirizzi)   
+  
+1° Anno:   
+batteriologia generale I;   
+tecniche batteriologiche;   
+immunologia generale;   
+genetica dei microrganismi.   
+  
+2° Anno:   
+batteriologia generale II;   
+antibiotici e chemioterapici;   
+virologia generale;   
+immunologia generale e tecniche immunologiche;   
+dosaggio biologico e analisi statistica.   
+  
+SECONDO BIENNIO   
+(indirizzo medico)   
+  
+3° Anno:   
+microrganismi patogeni e malattia;   
+batteriologia speciale I;   
+virologia speciale e tecniche virologiche;   
+micologia medica;   
+epidemiologia delle malattie infettive.   
+  
+4° Anno:   
+batteriologia speciale II;   
+sierologia;   
+microbiologia degli alimenti;   
+microbiologia dell'ambiente;   
+protozoologia medica.   
+  
+SECONDO BIENNIO   
+(indirizzo in tecniche microbiologiche)   
+  
+3° Anno:   
+azione patogena dei microrganismi;   
+tecniche batteriologiche e batteriologia speciale I;   
+micologia generale e tecniche micologiche;   
+tecniche virologiche e virologia speciale;   
+protozoologia.   
+  
+4° Anno:   
+tecniche batteriologiche e batteriologia speciale II;   
+microbiologia industriale;   
+esame microbiologico dell'ambiente;   
+controllo microbiologico degli alimenti;   
+tecniche sierologiche.   
+  
+Art. 137. - Il direttore puo' stabilire, per un piu' proficuo conseguimento dei fini della scuola, che siano tenuti corsi complementari di conferenze su materie ed argomenti che abbiano attinenza o affinita' con gli insegnamenti impartiti nella scuola.   
+La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
+Alla fine di ogni anno di corso gli iscritti per essere ammessi agli esami di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno.   
+Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi. L'esame di diploma constera' in una discussione sopra una tesi scritta.   
+A coloro che abbiano superato l'esame finale verra' rilasciato un diploma di specialista in microbiologia o, per i non laureati in medicina e chirurgia, un diploma di specialista in microbiologia con indirizzo tecnico.   
+  
+Gli articoli 141, 142, 143, 144, 145, 146 e 147, riguardanti la scuola di specializzazione in neurochirurgia, sono abrogati e sostituiti dai seguenti:   
+  
+Scuola di specializzazione in neurochirurgia   
+  
+Art. 141. - La scuola di specializzazione in neurochirurgia ha sede presso l'istituto di neurochirurgia e conferisce il diploma di specialista in neurochirurgia.   
+Art. 142. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+Art. 143. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazioni.   
+Il numero massimo degli allievi e' di tre per anno di corso e complessivamente di quindici iscritti per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli ed esami.   
+Art. 144. - Le materie di insegnamento sono le seguenti:   
+  
+1° Anno:   
+neuroanatomia;   
+neurofisiologia;   
+semeiotica e clinica neurologica;   
+elementi di psichiatria;   
+clinica neurochirurgica I.   
+  
+2° Anno:   
+neuro-oftalmologia;   
+neuro-otoiatria;   
+neurofisiologia clinica;   
+clinica neurochirurgica II.   
+  
+3° Anno:   
+neuroanestesia e rianimazione;   
+neuroradiologia I;   
+neuropatologia;   
+clinica neurochirurgica III.   
+  
+4° Anno:   
+neuroradiologia II;   
+neurotraumatologia;   
+tecniche operatorie I;   
+clinica neurochirurgica IV.   
+  
+5° Anno:   
+neurochirurgia funzionale e stereotassica;   
+neurochirurgia infantile;   
+tecniche operatorie II;   
+clinica neurochirurgica V.   
+  
+Art. 145. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.   
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
+Art. 146. - Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.   
+Art. 147. - Al termine del corso di studio per il conseguimento del diploma di specialista in neurochirurgia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
+  
+Dopo l'art. 155, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alle istituzioni delle scuole di specializzazione in diabetologia e malattie del ricambio, malattie infettive, geriatria e gerontologia:   
+  
+Scuola di specializzazione in diabetologia e malattie del ricambio   
+Art. 156. - La scuola di specializzazione in diabetologia e malattie del ricambio ha sede presso l'istituto di patologia speciale medica e conferisce il diploma di specialita' in diabetologia e malattie del ricambio.   
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Art. 157. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazioni.   
+Art. 158. - Il numero massimo degli allievi e' di dieci per anno di corso e complessivamente di trenta iscritti per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli ed esami.   
+Art. 159. - Le materie di insegnamento sono le seguenti:   
+  
+1° Anno:   
+anatomia e citomorfologia funzionali;   
+elementi di genetica del diabete e delle malattie del ricambio; metodi di analisi chimica e quantitativa;   
+patologia molecolare;   
+fisiopatologia clinica del diabete e delle malattie del ricambio; elementi di biometria e di statistica (complementare);   
+auxologia e auxopatia metaboliche (complementare).   
+  
+2° Anno:   
+patologia sperimentale metabolica;   
+semeiotica fisica e funzionale del diabete e delle malattie del ricambio;   
+clinica del diabete e delle malattie del ricambio;   
+medicina sociale e preventiva del diabete e delle malattie del ricambio;   
+neuropatologia del diabete e delle malattie del ricambio (complementare);   
+fisiopatologia e clinica ostetrico-ginecologica del diabete e delle malattie del ricambio (complementare).   
+  
+3° Anno:   
+clinica del diabete e delle malattie del ricambio;   
+farmacologia del diabete e delle malattie del ricambio;   
+dietologia del diabete e delle malattie del ricambio;   
+elementi di psicologia nel diabete e nelle malattie del ricambio (complementare);   
+terapia chirurgica nel diabete e nelle malattie del ricambio (complementare);   
+oftalmologia nel diabete e nelle malattie del ricambio (complementare).   
+  
+Art. 160. - I corsi saranno integrati da conferenze su argomenti specialistici e da esercitazioni pratiche cliniche e di laboratorio.   
+La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
+Art. 161. - Alla fine di ogni corso gli iscritti, per essere ammessi agli anni successivi, devono superare le prove di esame delle materie impartite durante l'anno.   
+  
+Al termine del corso di studi per il conseguimento del titolo di specialista in diabetologia e malattie del ricambio gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
+  
+Scuola di specializzazione in malattie infettive   
+  
+Art. 162. - La scuola di specializzazione in malattie infettive ha sede presso l'istituto di clinica delle malattie infettive e conferisce il diploma di specialista in malattie infettive.   
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Art. 163. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalle autorita' competenti.   
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.   
+Art. 164. - Il numero massimo degli allievi e' di quattro per anno di corso e complessivamente di sedici iscritti per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli ed esami.   
+Art. 165. - Le materie di insegnamento sono le seguenti:   
+  
+1° Anno:   
+epidemiologia generale delle malattie infettive;   
+batteriologia e micologia;   
+virologia;   
+parassitologia;   
+immunologia generale.   
+  
+2° Anno:   
+tecniche batteriologiche e micologia applicate alle malattie infettive;   
+tecniche virologiche applicate alle malattie infettive;   
+tecniche parassitologiche applicate alle malattie infettive;   
+tecniche immunologiche applicate alle malattie infettive;   
+anatomia patologica;   
+genetica.   
+  
+3° Anno:   
+clinica delle malattie infettive I;   
+diagnostica e semeiotica delle malattie infettive;   
+radiologia;   
+medicina preventiva delle malattie infettive.   
+  
+4° Anno:   
+clinica delle malattie infettive II;   
+malattie tropicali;   
+legislazione sanitaria delle malattie infettive;   
+farmacologia e terapia delle malattie infettive.   
+  
+Art. 166. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.   
+Al termine di ciascun anno di corso gli allievi sono tenuti a sostenere gli esami del rispettivo anno; al termine del corso di studi per il conseguimento del diploma di specialista in malattie infettive gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specialita'.   
+Agli allievi i quali abbiano ottenuto l'approvazione nell'esame di diploma verra' rilasciato il diploma di specializzazione in malattie infettive.   
+  
+Scuola di specializzazione in geriatria e gerontologia   
+  
+Art. 167. - La scuola di specializzazione in geriatria e gerontologia ha sede presso l'istituto di patologia speciale medica e conferisce il diploma di specialista in geriatria e gerontologia.   
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Art. 168. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.   
+Art. 169. - Il numero massimo degli allievi e' di dieci iscritti per anno di corso e complessivamente di quaranta iscritti per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli ed esami.   
+Art. 170. - Le materie di insegnamento sono le seguenti:   
+  
+1° Anno:   
+farmacologia;   
+principi e tecniche della riabilitazione nella patologia dell'apparato locomotore;   
+anatomia e istologia patologica I;   
+biologia della senescenza I;   
+fisiopatologia I;   
+geriatria sociale I;   
+semeiotica I;   
+principi e tecniche di materie specialistiche in geriatria I.   
+  
+2° Anno:   
+principi e tecniche della riabilitazione cardiovascolare e respiratoria;   
+anatomia e istologia patologica II;   
+biologia della senescenza II;   
+fisiopatologia II;   
+geriatria sociale II;   
+semeiotica II;   
+radiologia e radioterapia I;   
+principi e tecniche di materie specialistiche in geriatria II.   
+  
+3° Anno:   
+neurologia;   
+principi e tecniche della riabilitazione neurologica;   
+psicologia;   
+radiologia e radioterapia 11;   
+principi e tecniche di materie specialistiche in geriatria III; clinica geriatrica I;   
+terapia medica I;   
+pratica geriatrica extraospedaliera I.   
+  
+4° Anno:   
+chirurgia geriatrica;   
+formazione degli operatori geriatrici;   
+principi e tecniche della riabilitazione nel campo delle funzioni cerebrali superiori;   
+principi e tecniche di riattivazione, terapia occupazionale, geragogia;   
+psicogeriatria;   
+clinica geriatrica II;   
+terapia medica II;   
+pratica geriatrica extraospedaliera II.   
+  
+Art. 171. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.   
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
+Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Al termine del corso di studi per il conseguimento del diploma di specialista in geriatria e gerontologia, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
+  
+Il presente decreto, munito del sigillo dello stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 26 settembre 1973   
+  
+PERTINI   
+  
+PEDINI   
+  
+Visto, il Guardasigilli: BONIFACIO   
+Registrato alla Corte dei conti, addi' 22 dicembre 1978   
+Registro n. 132 Istruzione, foglio n. 306   

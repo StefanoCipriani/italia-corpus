@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1978 n. 802
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1969 n. 727
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1978 n. 802
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1969 n. 727
 ================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
@@ -10,36 +10,45 @@ Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Cagliari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-L'art. 35, relativo all'ordinamento degli studi del corso di laurea in lettere, e' modificato nel senso che l'insegnamento complementare di grammatica greca e latina e' abrogato e sostituito dai seguenti:  
-grammatica greca;  
-grammatica latina.  
-L'art. 69, relativo all'ordinamento degli studi del corso di laurea in chimica e tecnologia farmaceutiche, e' modificato nel senso che l'insegnamento complementare di calcoli statistici applicati alla biologia muta la denominazione in quella di "metodi matematici e statistici in chimica e biologia".  
+Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+  
+Art. 60. - All'elenco degli insegnamenti complementari del corso di laurea in farmacia sono aggiunti i seguenti:   
+Biologia molecolare;   
+Chimica delle sostanze organiche naturali;   
+Chimica dei composti eterociclici;   
+Farmacologia molecolare;   
+Metodi matematici e statistici in chimica e biologia.   
+Nello stesso articolo il quinto comma e' abrogato e sostituito dal seguente:   
+"Nel sostenere gli esami lo studente deve rispettare il seguente ordine di precedenza:   
+l'esame di chimica generale ed inorganica deve precedere quelli di chimica organica, di chimica farmaceutica e delle esercitazioni di chimica farmaceutica e tossicologica (triennale);   
+l'esame di chimica organica deve precedere quelli di chimica biologica e di chimica farmaceutica e tossicologica (biennale);   
+l'esame di anatomia umana deve precedere quello di fisiologia generale (biennale);   
+gli esami di fisiologia generale (biennale) e di chimica biologica debbono precedere quello di farmacologia e farmacognosia; gli esami di esercitazioni di chimica farmaceutica e tossicologica (triennale) sono propedeutici i primi nei confronti dei successivi".   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 settembre 1978
+### Dato a Roma, addi' 10 settembre 1969
 
-PERTINI PEDINI
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 11 dicembre 1978
+Registrato alla Corte dei conti, addi' 27 ottobre 1969
 
-Registro n. 130 Istruzione, foglio n. 153
+Atti del Governo, registro n. 229, foglio n. 148. - CARUSO

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1973 n. 657
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1970 n. 879
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1973 n. 657
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1970 n. 879
+==============================================================
 
 Autorizzazione alla fondazione "Fondo assistenza, previdenza e premi per il personale dell'Arma dei carabinieri", con sede in Roma, ad acquistare un complesso immobiliare.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-657. Decreto del Presidente della Repubblica 10 settembre 1973, col quale, sulla proposta del Ministro per la difesa, la fondazione "Fondo assistenza, previdenza e premi per il personale dell'Arma dei carabinieri", con sede in Roma, viene autorizzata ad acquistare, per adibirlo a soggiorno per militari della Arma stessa e loro famiglie, dai fratelli D'Ambra Claudio, Camillo, Alfonso, Teresa e Filomena, al prezzo di L. 165.000.000, il complesso immobiliare denominato "Pensione Geronda", ubicato in Ischia (Napoli), via Alfredo De Luca, 14, composto di un fabbricato di tre piani fuori terra con circostante giardino di mq. 3503, meglio specificato nel contratto preliminare di vendita 7 aprile 1973, n. 46610 di repertorio, a rogito dott. Alfredo De Martino, notaio in Roma.  
+879. Decreto del Presidente della Repubblica 7 ottobre 1970, col quale, sulla proposta del Ministro per la difesa, la fondazione "Fondo assistenza, previdenza e premi per il personale dell'Arma dei carabinieri", con sede in Roma, viene autorizzata ad acquistare dall'Azienda di Stato per le foreste demaniali, al prezzo di L. 12.155.000 il complesso immobiliare sito in localita' "Villaggio Mancuso" del comune di Taverna (Catanzaro), facente parte della foresta demaniale "Sila", distinto nel vigente catasto terreni di quel comune alla partita 130, foglio n. 32, col n. 8 parte, come da contratto preliminare di vendita 18 febbraio 1970, a rogito dott.  
+Alfredo De Martino, notaio in Roma, n. 41312 di repertorio.  
   
-Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 30 ottobre 1973  
-Atti di Governo, registro n. 261, foglio n. 71. - VALENTINI
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 23 novembre 1970  
+Atti del Governo, registro n. 238, foglio n. 100. - CARUSO

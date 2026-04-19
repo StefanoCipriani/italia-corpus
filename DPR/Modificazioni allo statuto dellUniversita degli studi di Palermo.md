@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 843
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1984 n. 785
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 843
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1984 n. 785
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
@@ -10,430 +10,249 @@ Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Palermo e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario, nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-L'art. 180, relativo alla scuola di specializzazione in radiologia, e' abrogato e sostituito dal seguente:
+Articolo unico
+--------------
 
-Scuola di specializzazione in radiologia
-
-Art. 180. - La scuola di specializzazione in radiologia rilascia due diplomi:
-
-a) diploma di specializzazione in radiologia;
-
-b) diploma di specializzazione in radiologia diagnostica.
-
-La scuola e' riservata ai laureati in medicina e chirurgia che possono essere accolti in numero massimo di sei per ciascun anno di corso per radiologia e radiologia diagnostica (totale quarantadue iscritti).
-
-A) Diploma di specializzazione in radiologia:
-
-Durata del corso: quattro anni;
-
-Numero massimo di iscritti: sei per ogni anno di corso (totale iscritti ventiquattro).
-
-Gli insegnamenti sono i seguenti:
-
-a) Matematica, fisica, nozioni di statistica ed informatica (annuale) comprendente:
-
-1) richiami di matematica e fisica generale;
-
-2) costituzione della materia;
-
-3) produzione, assorbimento e misura delle radiazioni;
-
-4) statistica applicata alla medicina;
-
-5) informatica e cibernetica.
-
-b) Radiodiagnostica (triennale) comprendente:
-
-1) principi generali di radiodiagnostica;
-
-2) apparecchi, strumenti e tecnica radiodiagnostica;
-
-3) tecnica e fisiologia applicata alla radiodiagnostica;
-
-4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;
-
-5) semeiologia radiologica;
-
-6) diagnostica differenziale radiologica;
-
-7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;
-
-8) dimostrazioni di casistica clinica.
-
-c) Radiobiologia (annuale) comprendente:
-
-1) radiobiologia generale;
-
-2) danni da radiazioni e radiopatie.
-
-d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:
-
-1) legislazione sanitaria applicata alla radiologia;
-
-2) compiti e responsabilita' medico-legali del radiologo;
-
-3) radioprotezione fisica e dosimetria ad essa connessa;
-
-4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;
-
-5) radioprotezione chimica;
-
-6) problemi tecnici e funzionali inerenti la progettazione ed attivazione dei reparti radiologici.
-
-e) Radioterapia e terapia fisica (triennale) comprendente:
-
-1) radiobiologia applicata;
-
-2) fondamenti generali di radioterapia e terapia fisica;
-
-3) istopatologia speciale dei tumori;
-
-4) nozioni sugli apparecchi e strumenti per la radioterapia;
-
-5) tecnica e metodica radioterapica;
-
-6) dosimetria;
-
-7) clinica radioterapica;
-
-8) fondamenti generali di chemioterapia oncologica;
-
-9) chemioterapia clinica dei tumori e sua associazione alla radioterapia;
-
-10) dimostrazione di casistica clinica.
-
-f) Medicina nucleare (triennale) comprendente:
-
-1) elementi di medicina nucleare;
-
-2) istrumentario, tecnica e metodica dell'impiego dei radioisotopi in medicina nucleare;
-
-3) dosimetria dei radioisotopi somministrati per via interna;
-
-4) diagnostica con radioisotopi somministrati per via interna;
-
-5) radioterapia metabolica;
-
-6) dimostrazioni di casistica clinica.
-
-I singoli insegnamenti, tenuti da uno o piu' docenti, a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze, dimostrazioni pratiche e, ove opportuno e possibile, da visite ad istituzioni di particolare interesse, sono cosi' distribuiti nei quattro anni di corso:
-
-1° Anno (tronco comune):
-
-Matematica, fisica, nozioni di statistica ed informatica;
-
-Radiologia;
-
-Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;
-
-Radiodiagnostica (I).
-
-2° Anno:
-
-Radiodiagnostica (II);
-
-Radioterapia e terapia fisica (I).
-
-3° Anno:
-
-Radiodiagnostica (III);
-
-Radioterapia e terapia fisica (II);
-
-Medicina nucleare (I).
-
-4° Anno:
-
-Radioterapia e terapia fisica (III);
-
-Medicina nucleare (II).
-
-B) Diploma di specializzazione in radiologia diagnostica:
-
-Durata del corso: tre anni;
-
-Numero massimo di iscritti: sei per ogni anno di corso (totale diciotto iscritti).
-
-Gli insegnamenti sono i seguenti:
-
-a) Matematica, fisica, nozioni di statistica ed informatica (annuale) comprendente:
-
-1) Richiami di matematica e fisica generale;
-
-2) Costituzione della materia;
-
-3) Produzione, assorbimento e misura delle radiazioni;
-
-4) Statistica applicata alla medicina;
-
-5) Informatica e cibernetica applicate alla radiologia.
-
-b) Radiodiagnostica (triennale) comprendente:
-
-1) Principi generali di radiodiagnostica;
-
-2) Apparecchi, strumenti e tecnica radiodiagnostica;
-
-3) Tecnica e fisiologia applicate alla radiodiagnostica;
-
-4) I mezzi di contrasto artificiale di radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;
-
-5) Semeiologia radiologica;
-
-6) Diagnostica differenziale radiologica;
-
-7) Dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;
-
-8) Dimostrazioni di casistica clinica.
-
-c) Radiobiologia (annuale) comprendente:
-
-1) Radiobiologia generale;
-
-2) Danni da radiazioni e radiopatie.
-
-d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:
-
-1) Legislazione sanitaria applicata alla radiologia;
-
-2) Compiti e responsabilita' medico-legali del radiologo;
-
-3) Radioprotezione fisica e dosimetria ad essa connessa;
-
-4) Fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;
-
-5) Radioprotezione chimica;
-
-6) Problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.
-
-I singoli insegnamenti, tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze e dimostrazioni pratiche, sono cosi' distribuiti nei tre anni di corso:
-
-1° Anno (tronco comune):
-
-Matematica, fisica, nozioni di statistica ed informatica;
-
-Radiobiologia;
-
-Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;
-
-Radiodiagnostica (I).
-
-2° Anno:
-
-Radiodiagnostica (II).
-
-3°Anno:
-
-Radiodiagnostica (III).
-
-E' obbligatorio l'internato. L'obbligo della frequenza durante tutto l'anno accademico (nove mesi) presso l'istituto di radiologia, sede della scuola, puo' essere ridotto ad un mese (su concessione del direttore della scuola) per gli specializzandi che fanno parte di istituti universitari della stessa disciplina che non abbiano la scuola e per gli assistenti di ruolo di primariato della stessa disciplina presso ospedali di prima categoria.
-
-Non e' consentita l'abbreviazione dei corsi, fatta eccezione per gli specializzati in radiologia diagnostica, che intendano conseguire il diploma di specializzazione in radiologia, i quali potranno essere ammessi al terzo o quarto anno del corso in radiologia a giudizio del direttore della scuola in base alla valutazione dei loro titoli.
-
-E' obbligatorio il superamento degli esami di un corso per l'ammissione al corso successivo.
-
-Per essere ammessi agli esami di diploma in radiologia e, radiologia diagnostica, gli iscritti, oltre ad aver compiuto un congruo periodo di internato, devono aver superato un esame su ciascuna materia di insegnamento ed elaborata una tesi scritta su di un argomento radiologico concordato con il direttore della scuola.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 31 ottobre 1974
-
-LEONE
-
-MALFATTI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 10 febbraio 1975 Atti di Governo, registro n. 8, foglio n. 102
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
-  
-Decreta:   
-  
-Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-  
-L'art. 180, relativo alla scuola di specializzazione in radiologia, e' abrogato e sostituito dal seguente:   
-  
-Scuola di specializzazione in radiologia   
-  
-Art. 180. - La scuola di specializzazione in radiologia rilascia due diplomi:   
-a) diploma di specializzazione in radiologia;   
-b) diploma di specializzazione in radiologia diagnostica.   
-La scuola e' riservata ai laureati in medicina e chirurgia che possono essere accolti in numero massimo di sei per ciascun anno di corso per radiologia e radiologia diagnostica (totale quarantadue iscritti).   
-  
-A) Diploma di specializzazione in radiologia:   
-Durata del corso: quattro anni;   
-Numero massimo di iscritti: sei per ogni anno di corso (totale iscritti ventiquattro).   
-Gli insegnamenti sono i seguenti:   
-  
-a) Matematica, fisica, nozioni di statistica ed informatica (annuale) comprendente:   
-1) richiami di matematica e fisica generale;   
-2) costituzione della materia;   
-3) produzione, assorbimento e misura delle radiazioni;   
-4) statistica applicata alla medicina;   
-5) informatica e cibernetica.   
-  
-b) Radiodiagnostica (triennale) comprendente:   
-1) principi generali di radiodiagnostica;   
-2) apparecchi, strumenti e tecnica radiodiagnostica;   
-3) tecnica e fisiologia applicata alla radiodiagnostica;   
-4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;   
-5) semeiologia radiologica;   
-6) diagnostica differenziale radiologica;   
-7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;   
-8) dimostrazioni di casistica clinica.   
-  
-c) Radiobiologia (annuale) comprendente:   
-1) radiobiologia generale;   
-2) danni da radiazioni e radiopatie.   
-  
-d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:   
-1) legislazione sanitaria applicata alla radiologia;   
-2) compiti e responsabilita' medico-legali del radiologo;   
-3) radioprotezione fisica e dosimetria ad essa connessa;   
-4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;   
-5) radioprotezione chimica;   
-6) problemi tecnici e funzionali inerenti la progettazione ed attivazione dei reparti radiologici.   
-  
-e) Radioterapia e terapia fisica (triennale) comprendente:   
-1) radiobiologia applicata;   
-2) fondamenti generali di radioterapia e terapia fisica;   
-3) istopatologia speciale dei tumori;   
-4) nozioni sugli apparecchi e strumenti per la radioterapia;   
-5) tecnica e metodica radioterapica;   
-6) dosimetria;   
-7) clinica radioterapica;   
-8) fondamenti generali di chemioterapia oncologica;   
-9) chemioterapia clinica dei tumori e sua associazione alla radioterapia;   
-10) dimostrazione di casistica clinica.   
-  
-f) Medicina nucleare (triennale) comprendente:   
-1) elementi di medicina nucleare;   
-2) istrumentario, tecnica e metodica dell'impiego dei radioisotopi in medicina nucleare;   
-3) dosimetria dei radioisotopi somministrati per via interna;   
-4) diagnostica con radioisotopi somministrati per via interna;   
-5) radioterapia metabolica;   
-6) dimostrazioni di casistica clinica.   
-  
-I singoli insegnamenti, tenuti da uno o piu' docenti, a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze, dimostrazioni pratiche e, ove opportuno e possibile, da visite ad istituzioni di particolare interesse, sono cosi' distribuiti nei quattro anni di corso:   
-  
-1° Anno (tronco comune):   
-Matematica, fisica, nozioni di statistica ed informatica;   
-Radiologia;   
-Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;   
-Radiodiagnostica (I).   
-  
-2° Anno:   
-Radiodiagnostica (II);   
-Radioterapia e terapia fisica (I).   
-  
-3° Anno:   
-Radiodiagnostica (III);   
-Radioterapia e terapia fisica (II);   
-Medicina nucleare (I).   
-  
-4° Anno:   
-Radioterapia e terapia fisica (III);   
-Medicina nucleare (II).   
-  
-B) Diploma di specializzazione in radiologia diagnostica:   
-Durata del corso: tre anni;   
-Numero massimo di iscritti: sei per ogni anno di corso (totale diciotto iscritti).   
-Gli insegnamenti sono i seguenti:   
-  
-a) Matematica, fisica, nozioni di statistica ed informatica (annuale) comprendente:   
-1) Richiami di matematica e fisica generale;   
-2) Costituzione della materia;   
-3) Produzione, assorbimento e misura delle radiazioni;   
-4) Statistica applicata alla medicina;   
-5) Informatica e cibernetica applicate alla radiologia.   
-  
-b) Radiodiagnostica (triennale) comprendente:   
-1) Principi generali di radiodiagnostica;   
-2) Apparecchi, strumenti e tecnica radiodiagnostica;   
-3) Tecnica e fisiologia applicate alla radiodiagnostica;   
-4) I mezzi di contrasto artificiale di radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;   
-5) Semeiologia radiologica;   
-6) Diagnostica differenziale radiologica;   
-7) Dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;   
-8) Dimostrazioni di casistica clinica.   
-  
-c) Radiobiologia (annuale) comprendente:   
-1) Radiobiologia generale;   
-2) Danni da radiazioni e radiopatie.   
-  
-d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:   
-1) Legislazione sanitaria applicata alla radiologia;   
-2) Compiti e responsabilita' medico-legali del radiologo;   
-3) Radioprotezione fisica e dosimetria ad essa connessa;   
-4) Fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;   
-5) Radioprotezione chimica;   
-6) Problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.   
-  
-I singoli insegnamenti, tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze e dimostrazioni pratiche, sono cosi' distribuiti nei tre anni di corso:   
-  
-1° Anno (tronco comune):   
-Matematica, fisica, nozioni di statistica ed informatica;   
-Radiobiologia;   
-Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;   
-Radiodiagnostica (I).   
-  
-2° Anno:   
-Radiodiagnostica (II).   
-  
-3°Anno:   
-Radiodiagnostica (III).   
-  
-E' obbligatorio l'internato. L'obbligo della frequenza durante tutto l'anno accademico (nove mesi) presso l'istituto di radiologia, sede della scuola, puo' essere ridotto ad un mese (su concessione del direttore della scuola) per gli specializzandi che fanno parte di istituti universitari della stessa disciplina che non abbiano la scuola e per gli assistenti di ruolo di primariato della stessa disciplina presso ospedali di prima categoria.   
-Non e' consentita l'abbreviazione dei corsi, fatta eccezione per gli specializzati in radiologia diagnostica, che intendano conseguire il diploma di specializzazione in radiologia, i quali potranno essere ammessi al terzo o quarto anno del corso in radiologia a giudizio del direttore della scuola in base alla valutazione dei loro titoli.   
-E' obbligatorio il superamento degli esami di un corso per l'ammissione al corso successivo.   
-Per essere ammessi agli esami di diploma in radiologia e, radiologia diagnostica, gli iscritti, oltre ad aver compiuto un congruo periodo di internato, devono aver superato un esame su ciascuna materia di insegnamento ed elaborata una tesi scritta su di un argomento radiologico concordato con il direttore della scuola.   
+Art. 57 - all'elenco degli insegnamenti complementari del corso di laurea in chimica sono aggiunti i seguenti insegnamenti:  
+Per l'indirizzo organico-biologico:  
+metodi fisici in chimica organica;  
+chimica e tecnologia delle sostanze coloranti;  
+complementi di chimica organica;  
+stereochimica organica;  
+esercitazioni di tecniche e sintesi speciali organiche;  
+cristallochimica;  
+chemiometria;  
+didattica della chimica;  
+epistemologia;  
+chimica analitica clinica;  
+chimica dell'ambiente;  
+catalisi;  
+termodinamica dei processi irreversibili;  
+spettroscopia molecolare;  
+fotochimica;  
+cinetica chimica.  
+Per l'indirizzo inorganico-chimico-fisico:  
+complementi di chimica inorganica;  
+chimica fisica delle interfasi;  
+complementi di chimica fisica;  
+termodinamica statistica;  
+cristallochimica;  
+chemiometria;  
+didattica della chimica;  
+epistemologia;  
+chimica analitica clinica;  
+chimica dell'ambiente;  
+teoria degli elettroliti;  
+chimica fisica dello stato solido;  
+catalisi;  
+termodinamica dei processi irreversibili;  
+fotochimica;  
+spettroscopia molecolare.  
+L'art. 59, relativo al corso di laurea in matematica, a partire dalla lettera b) inclusa, e' soppresso e sostituito come segue:  
+b) Sono insegnamenti fondamentali obbligatori, comuni a tutti e tre gli indirizzi per il III anno:  
+1) istituzioni di geometria superiore;  
+2) istituzioni di analisi superiore;  
+3) istituzioni di fisica matematica.  
+c) Nel secondo biennio, oltre gli insegnamenti 1), 2) e 3) della lettera comune ai tre indirizzi, debbono essere seguiti altri quattro insegnamenti, di cui uno al III anno e gli altri tre al IV.  
+Di questi quattro insegnamenti, due sono fondamentali obbligatori, e due complementari a scelta dello studente.  
+I due insegnamenti fondamentali sono per ciascun indirizzo i seguenti:  
+Per l'indirizzo generale:  
+4) analisi superiore;  
+5) algebra superiore.  
+Per l'indirizzo didattico:  
+4) matematiche complementari (con esercitazioni);  
+5) complementi di geometria e algebra.  
+Per l'indirizzo applicativo:  
+4) calcolo delle probabilita';  
+5) fisica matematica.  
+Per l'indirizzo generale:  
+Primo gruppo:  
+meccanica superiore;  
+meccanica dei continui;  
+teoria delle onde;  
+teorie relativistiche;  
+magnetofluidodinamica;  
+fisica teorica;  
+teoria dei campi;  
+fisica superiore.  
+Secondo gruppo:  
+geometria algebrica;  
+complementi di geometria e algebra;  
+teoria dei gruppi;  
+teoria delle funzioni;  
+topologia;  
+geometria superiore;  
+teoria dei numeri;  
+equazioni differenziali.  
+Per l'indirizzo didattico:  
+Primo gruppo:  
+istituzioni di meccanica superiore;  
+meccanica dei continui;  
+fluidodinamica;  
+elettrodinamica;  
+termodinamica;  
+complementi di fisica generale;  
+istituzioni di fisica teorica;  
+preparazione di esperienze didattiche;  
+istituzioni di meccanica quantistica;  
+fisica nucleare;  
+fisica delle particelle elementari.  
+Secondo gruppo:  
+critica dei principi;  
+didattica della matematica;  
+teoria delle funzioni di variabili reali;  
+geometria differenziale;  
+logica matematica;  
+storia delle matematiche;  
+matematiche elementari da un punto di vista superiore;  
+analisi funzionale;  
+matematica finanziaria e attuariale;  
+algebra superiore;  
+calcolo delle probabilita';  
+analisi superiore;  
+complementi di matematica;  
+algebra superiore;  
+teoria delle funzioni.  
+Per l'indirizzo applicativo:  
+Primo gruppo:  
+teoria dei sistemi dinamici;  
+modelli matematici per l'economia;  
+astronomia;  
+geodesia;  
+metodi matematici della fisica;  
+meccanica statistica;  
+biomatematica;  
+fisica dei solidi.  
+Secondo gruppo:  
+teoria e applicazione delle macchine calcolatrici;  
+cibernetica;  
+teoria degli algoritmi e calcolabilita';  
+linguaggi formali e compilatori;  
+metodi per il trattamento dell'informazione;  
+documentazione automatica;  
+statistica matematica;  
+calcolo numerico;  
+analisi numerica;  
+biomatematica;  
+programmazione;  
+processi aleatori e teoria matematica delle file di attesa.  
+Art. 60 - nell'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono inseriti i seguenti insegnamenti:  
+entomologia generale;  
+geomorfologia;  
+ecofisiologia vegetale;  
+didattica naturalistica e biologica;  
+conservazione e protezione della natura;  
+etologia ed ecologia animale;  
+geobotanica;  
+esercitazioni di matematiche;  
+analisi chimica strumentale;  
+zoologia applicata;  
+micologia;  
+biologia cellulare;  
+algologia.  
+Nel medesimo elenco sono soppressi i seguenti insegnamenti:  
+entomologia agraria;  
+zoocoltura (bachi, api, avi-coniglicoltura);  
+biologia delle razze umane.  
+Inoltre al testo del medesimo art. 60 e' aggiunto il seguente comma:  
+"Tutti gli insegnamenti sia fondamentali che complementari si intendono con esercitazioni".  
+Art. 61 - l'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche e' soppresso e sostituito come segue:  
+Sono insegnamenti complementari:  
+chimica fisica;  
+biologia generale;  
+antropologia;  
+idrobiologia e pescicoltura;  
+microbiologia;  
+parassitologia;  
+fisiologia vegetale;  
+paleontologia;  
+statistica;  
+biofisica;  
+embriologia chimica;  
+entomologia;  
+fisiologia dello sviluppo;  
+genetica umana;  
+radiobiologia;  
+farmacologia;  
+biologia molecolare;  
+neurologia comparata;  
+citologia;  
+genetica dei microrganismi;  
+ecologia;  
+biochimica fisica;  
+biologia cellulare;  
+elettrofisiologia;  
+genetica molecolare;  
+immunologia;  
+neurobiologia;  
+virologia;  
+biochimica applicata;  
+citogenetica;  
+endocrinologia comparata;  
+genetica applicata;  
+genetica di popolazioni;  
+patologia generale;  
+anatomia vegetale;  
+biologia marina;  
+biologia vegetale applicata;  
+ecologia vegetale;  
+embriologia comparata;  
+etologia;  
+fisiologia comparata;  
+zoologia dei vertebrati.  
+Art. 62 - nell'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono inseriti i seguenti insegnamenti:  
+geochimica degli isotopi;  
+petrografia del sedimentario;  
+petrologia;  
+sismologia;  
+biostratigrafia e paleoecologia;  
+geologia stratigrafica;  
+geomorfologia applicata;  
+geotermia.  
+Nel medesimo elenco sono soppressi i seguenti insegnamenti:  
+chimica organica;  
+astronomia;  
+geodesia;  
+antropologia;  
+analisi matematica (algebra ed infinitesimale) biennale;  
+meccanica razionale con elementi di statistica grafica e disegno; geometria analitica con elementi di proiettiva.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1974
+### Dato a Roma, addi' 13 marzo 1984
 
-LEONE MALFATTI
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 10 febbraio 1975
+Registrato alla Corte dei conti, addi' 12 novembre 1984
 
-Atti di Governo, registro n. 8, foglio n. 102
+Registro n. 69 Istruzione, foglio n. 121

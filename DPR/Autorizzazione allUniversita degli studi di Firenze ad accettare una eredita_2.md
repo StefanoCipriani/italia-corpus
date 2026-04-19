@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 giugno 1967 n. 674
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 luglio 1978 n. 1135
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 giugno 1967 n. 674
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 luglio 1978 n. 1135
+==============================================================
 
 Autorizzazione all'Universita' degli studi di Firenze ad accettare una eredita'.
 --------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-674. Decreto del Presidente della Repubblica 10 giugno 1967, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Firenze viene autorizzata ad accettare, con beneficio d'inventario, l'eredita' disposta dalla defunta signorina Ada Boncinelli, consistente in beni mobili ed immobili, dedotti alcuni legati, del valore complessivo di L. 60.000.000 circa, come da testamento olografo datato 26 novembre 1961 a rogito dott. Antonino Piazza, notaio dei distretti notarili di Firenze e Pistoia, con il n. 23645 di repertorio e registrato a Firenze il 25 giugno 1964 al n. 15649, mod. 71-M. Con lo stesso decreto, inoltre, la Fondazione "La Gemma", con sede presso l'Universita' di Firenze, viene eretta in ente morale e ne viene approvato lo statuto.  
+1135. Decreto del Presidente della Repubblica 13 luglio 1978, col quale, sulla proposta del Ministro della pubblica istruzione, l'Universita' degli studi di Firenze viene autorizzata ad accettare l'eredita' consistente in due immobili siti in Firenze, il primo in piazza Cavalleggeri n. 2, censito al nuovo catasto edilizio urbano alla partita 43655, foglio di mappa 175, part. 273, l'altro in via dei Serragli n. 76, censito al nuovo catasto edilizio urbano alla partita 87440, foglio di mappa 171, part. 128, in un immobile sito in Borgo S. Lorenzo (Firenze), localita' "Volpinaia", iscritto al nuovo catasto terreni del comune di Borgo S. Lorenzo alla partita 2396, foglio di mappa 18, particella 108, per un valore complessivo di L. 32.000.000, e in beni mobili per un valore di circa L. 28.370.000, disposta dalla sig.ra Adele Pietrabissa con il testamento, pubblico in data 19 agosto 1975, pubblicato col verbale n. 32411 del 18 ottobre 1975, a rogito dott. Vincenzo Ferro, notaio in Pistoia, per destinarne capitali e frutti eventuali agli studi specifici nel campo dei tumori.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 29 luglio 1967  
-Atti del Governo, registro n. 212, foglio n. 91. - GRECO
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti, addi' 21 dicembre 1979  
+Registro n. 99 Istruzione, foglio n. 339

@@ -1,105 +1,98 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1968 n. 1498
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 911
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1968 n. 1498
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 911
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939; n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 359, e' modificato nel senso che la scuola di specializzazione in radiologia conferisce il diploma di specialista in radiologia e il diploma di specialista in radiologia diagnostica.  
-Art. 360, e' modificato nel senso che l'ordinamento della scuola di specializzazione in radiologia e' abrogato e sostituito dal seguente:  
-  
-Scuola di specializzazione in radiologia  
-  
-A) diploma di specializzazione in radiologia.  
-(durata del corso anni 4)  
-  
-1° Anno:  
-Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;  
-Nozioni sugli apparecchi ed istrumenti della radiologia;  
-Anatomia radiologica normale Fisiologia radiologica;  
-Tecnica radiologica generale;  
-Semeiotica radiologica generale;  
-Fondamenti di radiobiologia;  
-Nozioni di statistica e matematica.  
-2° Anno:  
-Tecnica e metodica dell'esame radiologico dei vari organi, apparati e sistemi;  
-Semeiotica radiologica speciale e diagnosi differenziale;  
-Fondamenti di radioterapia;  
-Danni da radiazioni e mezzi di protezione;  
-Dimostrazioni cliniche di diagnostica radiologica;  
-Dimostrazioni cliniche di radioterapia.  
-3° Anno:  
-Diagnostica radiologica differenziale;  
-Dimostrazione di casistica di roentgendiagnostica con confronto del quadro anatomo-patologico;  
-Radioterapia con alta energia;  
-Radioterapia tradizionale. Curieterapia;  
-Elementi di medicina nucleare;  
-Istrumentario, tecnica e metodiche di applicazione;  
-Dimostrazioni di casistica di roentgenterapia con particolare riferimento alla anatomia patologica;  
-Radioterapia con alte energie;  
-Dosimetria.  
-4° Anno:  
-Moderne tecniche di esplorazione e terapia radiologica;  
-Diagnostica e terapia con isotopi radioattivi somministrati per via interna;  
-Radiodiagnostica e radioterapia clinica (casistica);  
-Medicina legale e legislazione sanitaria in relazione alla radiologia.  
-  
-B) diploma di specializzazione in radiologia diagnostica.  
-(durata del corso anni 3)  
-  
-1° Anno:  
-Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;  
-Nozioni sugli apparecchi ed istrumenti della radiologia;  
-Anatomia radiologica normale;  
-Fisiologia radiologica;  
-Tecnica radiologica generale;  
-Semeiotica radiologica generale;  
-Fondamenti di radiobiologia;  
-Nozioni di statistica e matematica.  
-2° Anno:  
-Metodica di esplorazione dei vari organi ed apparati;  
-Semeiotica radiologica speciale e diagnosi differenziale;  
-Nozioni generali sulle lesioni da radiazioni e mezzi di protezione;  
-Moderne tecniche di esplorazione radiologica.  
-3° Anno:  
-Esplorazione radiologica nella patologia dei vari organi ed apparati; diagnostica differenziale; rapporti con l'anatomia patologica;  
-Radiodiagnostica clinica;  
-Medicina legale e legislazione sanitaria in relazione alla radiologia.  
-E' obbligatorio l'internato.  
-I corsi, per entrambi i diplomi, saranno integrati da conferenze, esercitazioni e seminari.  
-L'obbligo della frequenza durante tutto l'anno accademico (nove mesi) presso l'istituto di radiologia, sede della scuola, puo) essere ridotto ad un mese (su concessione del direttore della scuola) per gli specializzandi che fanno parte di istituti universitari della stessa disciplina che non abbiano la scuola e per gli assistenti di ruolo di primariati della stessa disciplina presso ospedali di 1ª categoria. Non e' consentita l'abbreviazione dei corsi, fatta eccezione per gli specializzati di radiologia diagnostica che intendano conseguire il diploma di specializzazione in radiologia, i quali potranno essere ammessi al 3° o 4° anno del corso in radiologia, a giudizio del direttore della scuola, in base alla valutazione dei loro titoli.  
-E' obbligatorio il superamento degli esami di un corso per l'ammissione al corso successivo.  
-Il numero degli iscritti alla scuola di radiologia non deve superare quello medio di 12 per anno (totale n. 42).  
+Gli articoli 395 e 397, relativi all'elenco dei corsi di perfezionamento della facolta' di ingegneria ed ai titoli di ammissione ai suddetti corsi, sono sostituiti dai seguenti:  
+Art. 395. - Sono annessi alla facolta' di ingegneria i seguenti corsi di perfezionamento, la cui attuazione viene decisa anno per anno dal consiglio di facolta':  
+1) corso di perfezionamento in idraulica sperimentale, presso l'istituto di idraulica;  
+2) corso di perfezionamento in idrografia e idrologia, presso l'istituto di idraulica;  
+3) corso di perfezionamento in tecnica del traffico, presso l'istituto di costruzioni, ponti e strade;  
+4) corso di perfezionamento in tecnica motoristica, presso l'istituto di macchine;  
+5) corso di perfezionamento in tecnica del freddo, presso l'istituto di fisica tecnica;  
+6) corso di perfezionamento in elettrotecnica sperimentale, presso l'istituto di elettrotecnica e di elettronica;  
+7) corso di perfezionamento in elettronica sperimentale, presso l'istituto di elettrotecnica ed elettronica;  
+8) corso di perfezionamento in chimica industriale, presso l'istituto di chimica industriale;  
+9) corso di perfezionamento in sistemi di controllo, presso l'istituto di elettrotecnica e di elettronica;  
+10) corso di perfezionamento in ingegneria del territorio, presso l'istituto di architettura ed urbanistica;  
+11) corso di perfezionamento in geotecnica, presso l'istituto di costruzioni marittime e geotecnica;  
+12) corso di perfezionamento in energetica, presso l'istituto di elettrotecnica ed elettronica;  
+13) corso di perfezionamento in fluidodinamica delle macchine, presso· l'istituto di macchine;  
+14) corso di perfezionamento in industrializzazione edilizia, presso l'istituto di architettura ed urbanistica;  
+15) corso di perfezionamento in ingegneria biomedica, presso l'istituto di elettrotecnica ed elettronica;  
+16) corso di perfezionamento in ingegneria dei sistemi, presso l'istituto di elettrotecnica e di elettronica;  
+17) corso di perfezionamento in ingegneria delle alte tensioni, presso l'istituto di elettrotecnica e di elettronica;  
+18) corso di perfezionamento in ingegneria del plasma e della fusione termonucleare controllata, presso l'istituto di elettrotecnica e di elettronica;  
+19) corso di perfezionamento in ingegneria informatica, presso l'istituto di elettrotecnica e di elettronica;  
+20) corso di perfezionamento in ingegneria marittima e costiera, presso l'istituto di costruzioni marittime e geotecnica;  
+21) corso di perfezionamento in matematica applicata e programmazione, presso l'istituto di matematica applicata;  
+22) corso di perfezionamento in restauro edilizio, presso l'istituto di architettura ed urbanistica;  
+23) corso di perfezionamento in strumentazione elettrica ed elettronica, presso l'istituto di elettrotecnica e di elettronica;  
+24) corso di perfezionamento in telecomunicazioni, presso l'istituto di elettrotecnica e di elettronica.  
+Art. 397. - Titoli di ammissione ai corsi sono di regola, i seguenti:  
+per idraulica sperimentale e idrografia e idrologia: laurea in ingegneria civile, elettrotecnica e meccanica;  
+per tecnica del traffico: laurea in ingegneria civile o meccanica;  
+per tecnica motoristica e fluidodinamica delle macchine: laurea in ingegneria meccanica;  
+per tecnica del freddo: laurea in ingegneria meccanica, elettrotecnica o chimica;  
+per elettrotecnica sperimentale e elettronica Sperimentale: laurea in ingegneria elettrotecnica o elettronica;  
+per chimica industriale: laurea in ingegneria chimica, in chimica o in chimica industriale;  
+per sistemi di controllo, ingegneria dei sistemi, ingegneria informatica e strumentazione elettrica ed elettronica: laurea in ingegneria elettronica, elettrotecnica, meccanica, in matematica, in fisica, in scienze dell'informazione;  
+per ingegneria del territorio: laurea in ingegneria civile, elettronica, in matematica, in scienze statistiche, in scienze economiche e commerciali, in architettura;  
+per geotecnica: laurea in ingegneria civile;  
+per energetica: laurea in ingegneria;  
+per industrializzazione edilizia: laurea in ingegneria chimica, civile e meccanica, in architettura, in scienze economiche e commerciali, in scienze statistiche;  
+per ingegneria biomedica: laurea in ingegneria elettronica, elettrotecnica, in medicina e chirurgia, in scienze biologiche;  
+per ingegneria delle alte tensioni: laurea in ingegneria elettrotecnica;  
+per ingegneria del plasma e della fusione termonucleare controllata: laurea in ingegneria elettronica, elettrotecnica, in fisica;  
+per ingegneria marittima e costiera: laurea in ingegneria, in fisica, in scienze geologiche;  
+per matematica applicata e programmazione: laurea in ingegneria, in matematica, in fisica, in scienze dell'informazione;  
+per restauro edilizio: laurea in ingegneria chimica, civile, in architettura, in lettere;  
+per telecomunicazioni: laurea in ingegneria elettronica, elettrotecnica, in fisica, in astronomia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 ottobre 1968
+### Dato a Roma, addi' 31 ottobre 1979
 
-SARAGAT SCAGLIA
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 24 marzo 1969
+Registrato alla Corte dei conti, addi' 26 maggio 1980
 
-Atti del Governo, registro n. 226, foglio n. 10. - GRECO
+Registro n. 49 Istruzione, foglio n. 240

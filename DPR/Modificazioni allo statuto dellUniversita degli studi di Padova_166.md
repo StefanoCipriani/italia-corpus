@@ -1,268 +1,78 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1978 n. 728
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 dicembre 1965 n. 1630
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1978 n. 728
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 dicembre 1965 n. 1630
 ================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Gli articoli 180 e 181, relativi al corso di laurea in scienze forestali, sono abrogati e sostituiti dai seguenti:
-
-Corso di laurea in scienze forestali
-
-Art. 180. - La durata del corso di studi per la laurea in scienze forestali e' di quattro anni.
-
-Titoli di ammissione sono quelli previsti dall'[art. 1 della legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1).
-
-Insegnamenti fondamentali:
-
-1) alpicoltura I (prati, pascoli, agricoltura nella regione di montagna) (semestrale);
-
-2) alpicoltura II (zootecnica nella regione di montagna) (semestrale);
-
-3) assestamento forestale;
-
-4) botanica forestale;
-
-\*5) botanica generale;
-
-\*6) botanica sistematica;
-
-7) chimica forestale;
-
-\*8) chimica generale ed inorganica con applicazioni di analitica;
-
-\*9) chimica organica;
-
-10) costruzioni forestali (semestrale);
-
-11) dendrometria (semestrale);
-
-12) economia ed estimo forestale;
-
-\*13) fisica;
-
-14) industrie chimico-forestali (semestrale);
-
-15) legislazione forestale;
-
-16) matematica;
-
-\*17) mineralogia e geologia;
-
-18) patologia vegetale forestale;
-
-\*19) principi di economia politica e di statistica;
-
-20) selvicoltura I (ecologia e selvicoltura generale);
-
-21) selvicoltura II (selvicoltura speciale);
-
-22) sistemazioni idraulico-forestali;
-
-23) tecnologia e utilizzazione forestale (compresa meccanica applicata);
-
-24) topografia;
-
-25) zoologia forestale venatoria e acquicoltura;
-
-\*26) zoologia generale.
-
-Insegnamenti complementari:
-
-1) agronomia montana;
-
-2) allevamenti minori in zone montane (semestrale);
-
-3) alterazioni del legname (semestrale);
-
-4) conservazione della natura e delle sue risorse;
-
-5) difesa dagli inquinamenti (semestrale);
-
-6) ecologia;
-
-7) ecologia zootecnica;
-
-8) economia di mercato dei prodotti forestali;
-
-9) elementi di idraulica e di idrologia;
-
-10) fisiologia degli alberi forestali (semestrale);
-
-11) geologia applicata;
-
-12) idrologia forestale;
-
-13) meccanizzazione forestale;
-
-14) microbiologia forestale;
-
-15) miglioramento genetico degli alberi forestali (semestrale);
-
-16) pedologia forestale;
-
-17) pianificazione ecologica del territorio;
-
-18) protezione dagli incendi boschivi (semestrale);
-
-19) protezione della natura e riassetto del paesaggio;
-
-20) selvicoltura industriale ed alberature;
-
-21) tecniche di rimboschimento nelle zone aride (semestrale);
-
-22) tutela del paesaggio agricolo forestale e riassetto del territorio;
-
-23) vivaistica forestale e rimboschimento;
-
-24) zoologia venatoria.
-
-Le materie contrassegnate con un asterisco sono in comune con il corso di laurea in scienze agrarie.
-
-Sono inoltre da ritenere complementari del corso di laurea in scienze forestali tutti gli insegnamenti (fondamentali e complementari) impartiti nel corso di laurea in scienze agrarie.
-
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superati gli esami in tutti gli insegnamenti fondamentali ed almeno in tre complementari a corso annuale. A tale effetto due corsi complementari semestrali sono computati come corso annuale.
-
-Art. 181. - L'esame di laurea consiste in una discussione orale intorno ad una dissertazione scritta sopra un tema scelto dal candidato su di un argomento forestale o avente stretta attinenza con le discipline impartite nella facolta'.
-
-Tutti gli insegnamenti impartiti nella facolta' sono di lezioni teoriche e di esercizi pratici che possono essere integrati da visite a fabbriche industriali e da esercitazioni in foresta.
-
-Gli esami di profitto sono orali, ma possono essere integrati da prove pratiche. Il voto e' pero' complessivo.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 12 settembre 1978
-
-PERTINI
-
-PEDINI
-
-Visto, il Guardasigilli: BONIFACIO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 13 novembre 1978 Registro n. 121 Istruzione, foglio n. 170
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con regio, decreto 20 aprile 1939, numero 1058, e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Veduta la proposta avanzata dalle autorita' accademiche dell'Universita' anzidetta intesa ad ottenere l'istituzione del corso di laurea in lingue e letterature straniere presso la Facolta' di economia e commercio;  
+Riconosciuta la particolare necessita' di approvare la proposta stessa;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Gli articoli 180 e 181, relativi al corso di laurea in scienze forestali, sono abrogati e sostituiti dai seguenti:   
+La tabella IX annessa al [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e' integrata nel senso che la laurea in Lingue e letterature straniere e' rilasciata anche dall'Universita' di Padova.  
+Lo statuto dell'Universita' di Padova approvato e modificato con i decreti sopraindicati e' ulteriormente modificato come appresso:  
   
-Corso di laurea in scienze forestali   
-Art. 180. - La durata del corso di studi per la laurea in scienze forestali e' di quattro anni.   
-Titoli di ammissione sono quelli previsti dall'[art. 1 della legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1).   
-Insegnamenti fondamentali:   
-1) alpicoltura I (prati, pascoli, agricoltura nella regione di montagna) (semestrale);   
-2) alpicoltura II (zootecnica nella regione di montagna) (semestrale);   
-3) assestamento forestale;   
-4) botanica forestale;   
-\*5) botanica generale;   
-\*6) botanica sistematica;   
-7) chimica forestale;   
-\*8) chimica generale ed inorganica con applicazioni di analitica;  
-\*9) chimica organica;   
-10) costruzioni forestali (semestrale);   
-11) dendrometria (semestrale);   
-12) economia ed estimo forestale;   
-\*13) fisica;   
-14) industrie chimico-forestali (semestrale);   
-15) legislazione forestale;   
-16) matematica;   
-\*17) mineralogia e geologia;   
-18) patologia vegetale forestale;   
-\*19) principi di economia politica e di statistica;   
-20) selvicoltura I (ecologia e selvicoltura generale);   
-21) selvicoltura II (selvicoltura speciale);   
-22) sistemazioni idraulico-forestali;   
-23) tecnologia e utilizzazione forestale (compresa meccanica applicata);   
-24) topografia;   
-25) zoologia forestale venatoria e acquicoltura;   
-\*26) zoologia generale.   
-Insegnamenti complementari:   
-1) agronomia montana;   
-2) allevamenti minori in zone montane (semestrale);   
-3) alterazioni del legname (semestrale);   
-4) conservazione della natura e delle sue risorse;   
-5) difesa dagli inquinamenti (semestrale);   
-6) ecologia;   
-7) ecologia zootecnica;   
-8) economia di mercato dei prodotti forestali;   
-9) elementi di idraulica e di idrologia;   
-10) fisiologia degli alberi forestali (semestrale);   
-11) geologia applicata;   
-12) idrologia forestale;   
-13) meccanizzazione forestale;   
-14) microbiologia forestale;   
-15) miglioramento genetico degli alberi forestali (semestrale);   
-16) pedologia forestale;   
-17) pianificazione ecologica del territorio;   
-18) protezione dagli incendi boschivi (semestrale);   
-19) protezione della natura e riassetto del paesaggio;   
-20) selvicoltura industriale ed alberature;   
-21) tecniche di rimboschimento nelle zone aride (semestrale);   
-22) tutela del paesaggio agricolo forestale e riassetto del territorio;   
-23) vivaistica forestale e rimboschimento;   
-24) zoologia venatoria.   
-Le materie contrassegnate con un asterisco sono in comune con il corso di laurea in scienze agrarie.   
-Sono inoltre da ritenere complementari del corso di laurea in scienze forestali tutti gli insegnamenti (fondamentali e complementari) impartiti nel corso di laurea in scienze agrarie.   
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superati gli esami in tutti gli insegnamenti fondamentali ed almeno in tre complementari a corso annuale. A tale effetto due corsi complementari semestrali sono computati come corso annuale.   
-Art. 181. - L'esame di laurea consiste in una discussione orale intorno ad una dissertazione scritta sopra un tema scelto dal candidato su di un argomento forestale o avente stretta attinenza con le discipline impartite nella facolta'.   
-Tutti gli insegnamenti impartiti nella facolta' sono di lezioni teoriche e di esercizi pratici che possono essere integrati da visite a fabbriche industriali e da esercitazioni in foresta.   
-Gli esami di profitto sono orali, ma possono essere integrati da prove pratiche. Il voto e' pero' complessivo.   
+L'art. 47 e' abrogato e sostituito dal seguente: La Facolta' di economia e commercio conferisce le lauree in Economia e commercio e in Lingue e letterature straniere.  
+Dopo l'art. 50 sono inseriti i seguenti nuovi articoli con il conseguente spostamento della numerazione degli articoli successivi.  
+Art. 51. - La durata del corso degli studi per la laurea in Lingue e letterature straniere e' di quattro anni.  
+Titolo di ammissione: diploma di maturita' classica, di maturita' scientifica, di abilitazione magistrale o licenza, a norma dell'[art. 2 della legge 9 ottobre 1951 n. 1130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-10-09;1130~art2), della Scuola civica "Regina Margherita" di Genova ora "Grazia Deledda" o della Scuola civica "Alessandro Manzoni" di Milano o dell'Istituto di cultura e lingue "Marcelline" di Milano ovvero licenza a norma della [legge 12 marzo 1957, n. 94](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-03-12;94), o dal Liceo linguistico femminile "Santa Caterina da Siena" di Venezia o dal Liceo linguistico "Orsoline del Sacro Cuore" di Cortina d'Ampezzo; diploma di abilitazione per i provenienti dagli Istituti tecnici di ogni tipo compresi gli Istituti tecnici femminili e diploma della Scuola di magistero professionale per la donna a norma e con le modalita' di cui alla [legge 21 luglio 1961, n. 685](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-21;685).  
+Insegnamenti fondamentali:  
+1) Lingua e letteratura italiana (biennale)  
+2) Lingua e letteratura latina (biennale)  
+3) Lingua e letteratura francese  
+4) Lingua e letteratura tedesca  
+5) Lingua e letteratura inglese  
+6) Lingua e letteratura spagnola  
+7) Filologia romanza  
+8) Filologia germanica  
+9) Storia (biennale)  
+10) Geografia.  
+Insegnamenti complementari:  
+1) Storia della filosofia  
+2) Storia delle dottrine economiche  
+3) Pedagogia  
+4) Istituzioni giuridiche comparate  
+5) Istituzioni economiche e commerciali  
+6) Lingua e letteratura russa  
+7) Lingua serbo-croata  
+8) Glottologia  
+9) Lingua slovena  
+10) Lingua e letteratura neo-greca  
+11) Letteratura ibero-americana  
+12) Lingua e letteratura portoghese.  
+Art. 52. - Lo studente deve seguire per tutti i quattro anni l'insegnamento della lingua straniera alla quale intende dedicare i suoi studi, e per due anni quello di un'altra delle lingue straniere; egli puo' inoltre seguire per due anni l'insegnamento di una terza lingua straniera, nel qual caso puo' diminuire di uno gli insegnamenti complementari.  
+Nel corso di storia (biennale) un anno deve essere dedicato alla Storia medioevale ed uno alla Storia moderna, alternativamente.  
+Tutti gli insegnamenti, sia annuali che pluriennali, comportano un esame alla fine di ciascun anno di corso.  
+Lo studente deve sostenere una prova scritta di italiano, una di traduzione latina.  
+L'esame della lingua e letteratura straniera scelta come materia quadriennale consta, ogni anno, di una prova scritta e di una orale.  
+La prova scritta per il quarto anno sara' di cultura generale.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in tre da lui scelti fra i complementari.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 settembre 1978
+### Dato a Roma, addi' 15 dicembre 1965
 
-PERTINI PEDINI
+SARAGAT GUI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 13 novembre 1978
+Registrato alla Corte dei conti, addi' 5 febbraio 1966
 
-Registro n. 121 Istruzione, foglio n. 170
+Atti del Governo, registro n. 201, foglio n. 13. - VILLA

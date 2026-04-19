@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 dicembre 1960 n. 1750
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 giugno 1963 n. 903
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 dicembre 1960 n. 1750
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 giugno 1963 n. 903
+=============================================================
 
 Autorizzazione alla "Fondazione Pro Juventute Don Carlo Gnocchi" ad accettare un legato.
 ----------------------------------------------------------------------------------------
@@ -12,10 +12,8 @@ Art. 1
 
 N.
 
-1750. Decreto del Presidente della Repubblica 7 dicembre 1960, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi", viene autorizzata ad accettare un legato di L. 1.000.000 disposto dal defunto sig.  
-Vittorio Ferri - con testamento pubblico ricevuto dal notaio dott.  
-Alfonso Scannone di Milano, in data 19 novembre 1959, ed inserito dallo stesso notaio nel fascicolo generale degli atti fra vivi al n. 48602 di rep., n. 6990 di racc., del 27 novembre 1959 - a favore della sede di Milano dei "Mutilatini di Don Gnocchi" che, come e' nota, si identificano con la Fondazione suindicata.  
+903. Decreto del Presidente della Repubblica 2 giugno 1903, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi" viene autorizzata ad accettare un legato consistente nella somma di lire 1.500.000, disposto a suo favore dal defunto signor Adolfo Bellentani con testamento pubblico a rogito notaio dott. Camillo Aggazzotti di Modena, in data 31 ottobre 1961, n. 159 di repertorio, registrato in data 15 novembre 1961, rep. n. 65853,6224.  
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi', 26 gennaio 1961  
-Atti del Governo, registro n. 133, foglio n. 99. - VILLA
+Visto, il Guardasigilli: BOSCO  
+Registrato alla Corte dei conti, addi' 27 giugno 1963  
+Atti del Governo, registro n. 171, foglio n. 39. - VILLA

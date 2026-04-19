@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 settembre 1970 n. 768
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 998
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 settembre 1970 n. 768
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 998
+==============================================================
 
 Modificazioni allo statuto del Politecnico di Milano.
 -----------------------------------------------------
@@ -17,7 +17,7 @@ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regi
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche del politecnico anzidetto;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -26,118 +26,19 @@ Decreta:
   
 Lo statuto del Politecnico di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-L'art. 23 del titolo III, relativo ai corsi di perfezionamento presso la facolta' di ingegneria, e' abrogato e sostituito dal seguente:  
-  
-Art. 23. - Sono istituiti presso la facolta' di ingegneria i seguenti corsi di perfezionamento:  
-I) corso di perfezionamento in ingegneria stradale con i seguenti insegnamenti:  
-Complementi sulla costruzione della sede stradale;  
-Gestione tecnico-amministrativa della viabilita';  
-Rapporti fra veicoli e strade;  
-Complementi di scienza delle costruzioni-ponti;  
-Complementi di materiali da costruzione e di geologia applicata all'ingegneria;  
-Complementi di topografia;  
-Diritto stradale;  
-Altri insegnamenti monografici eventuali.  
-Al corso possono essere iscritti i laureati in ingegneria.  
-II) corso di perfezionamento per le costruzioni in cemento armato, coi seguenti insegnamenti:  
-Calcolo di strutture con l'ausilio di elaboratrici numeriche (con particolare riferimento alle strutture in c. a.);  
-Cemento armato precompresso;  
-Comportamento viscoso delle strutture di c. a.;  
-Costruzioni antisismiche di cemento armato;  
-Dighe in calcestruzzo;  
-Fondazioni in cemento armato;  
-Indagini sperimentali su modelli e strutture;  
-Lastre piane e curve (con particolare riferimento alle strutture di c. a.);  
-Opere idrauliche in calcestruzzo;  
-Pavimentazione di calcestruzzo per strade ed aeroporti;  
-Ponti in c. a. e c. a. p.;  
-Problemi di instabilita' delle strutture in c. a.;  
-Strutture miste in acciaio calcestruzzo;  
-Strutture prefabbricate in c.a. e c. a. p.;  
-Strutture speciali in c. a.;  
-Tecnologia dei materiali per le costruzioni in cemento armato.  
-Al corso possono essere iscritti i laureati in ingegneria ed architettura.  
-III) corso di perfezionamento in ingegneria elettronica, coi seguenti insegnamenti;  
-Teoria dei circuiti elettrici;  
-Circuiti elettronici;  
-Teoria dell'informazione;  
-Teoria statistica delle comunicazioni;  
-Reti di telecomunicazione e problemi di congestione;  
-Antenne e propagazione;  
-Tecnica delle microonde;  
-Elettroacustica;  
-Telegrafia e trasmissione dei dati;  
-Multiplex telefonici;  
-Trasmissione su ponti radio;  
-Trasmissione su linee e cavi;  
-Commutazione telefonica;  
-Elementi di elettronica quantistica;  
-Tecnologie dei componenti;  
-Teoria della regolazione automatica;  
-Teoria dei sistemi;  
-Calcolatori analogici speciali;  
-Controllo numerico dei processi;  
-Controllo dei processi;  
-Circuiti elettronici per controlli automatici;  
-Strumentazione per processi;  
-Teoria delle reti di commutazione;  
-Fondamenti di programmazione;  
-Teoria dei linguaggi di programmazione;  
-Circuiti di commutazione;  
-Sistemi per l'elaborazione delle informazioni;  
-Calcolo numerico;  
-Ricerca operativa;  
-Altri insegnamenti monografici eventuali.  
-Ciascun allievo potra' proporre un piano di studi che dovra' comprendere almeno quattro insegnamenti scelti tra quelli sopra indicati e che dovra' essere approvato da una apposita commissione.  
-Al corso possono essere iscritti i laureati in ingegneria elettronica. A giudizio della commissione e per particolari piani di studio possono essere ammessi laureati in ingegneria di altre specializzazioni.  
-IV) corso di perfezionamento in industrie tessili, coi seguenti insegnamenti:  
-Fondamenti di tecnologia meccanica della filatura e tessitura;  
-Fondamenti di chimica tessile;  
-Tecnologie tessili speciali;  
-Organizzazione della produzione e determinazione dei costi;  
-Meccanica tessile;  
-Analisi tessile;  
-Esercitazioni di laboratorio;  
-Altri insegnamenti monografici eventuali.  
-Al corso possono essere iscritti i laureati in ingegneria industriale ed in chimica industriale.  
-V) corso di perfezionamento in fisica nucleare applicata, coi seguenti insegnamenti:  
-Introduzione alla fisica atomica (con esercitazioni);  
-Meccanica quantistica (con esercitazioni);  
-Introduzione alla fisica nucleare (con esercitazioni);  
-Fisica del neutrone. Dinamica nucleare (con esercitazioni);  
-I reattori nucleari (con esercitazioni);  
-Tecniche e misure di fisica nucleare (con esercitazioni e dimostrazioni sperimentali):  
-a) camere di ionizzazione, contatori di Geiger;  
-b) acceleratori e spettrografi di massa;  
-Elettronica della fisica nucleare (con esercitazioni);  
-Tecnologia dell'acqua pesante (con esercitazioni);  
-Chimica e metallurgia dell'uranio;  
-Geologia dell'uranio - Prospezioni;  
-Radiochimica (con dimostrazioni);  
-Applicazioni ed implicazioni medico-biologiche della fisica nucleare - Protezioni;  
-Armi atomiche e radioattive. Problemi della difesa antiatomica;  
-Altri insegnamenti monografici eventuali.  
-Al corso possono essere iscritti i laureati in ingegneria industriale, fisica; chimica, matematica e fisica che superino un colloquio atto ad accertare la loro preparazione.  
-VI) corso di perfezionamento in tecnica del traffico, coi seguenti insegnamenti:  
-La tecnica di esercizio dei trasporti;  
-Le esigenze costruttive della strada in relazione ai veicoli;  
-Le caratteristiche costruttive e di esercizio del veicolo in rapporto alla strada;  
-Norme di sicurezza e disciplina della circolazione;  
-Le esigenze della circolazione nel quadro urbanistico;  
-Il fattore umano nei trasporti; psicotecnica e infortunistica;  
-Altri insegnamenti monografici eventuali.  
-Al corso possono essere iscritti i laureati in ingegneria.  
+Art. 9. - All'elenco degli insegnamenti complementari del corso di laurea in ingegneria civile (sezione edile) e' aggiunto quello di:  
+Tecnica del restauro.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 settembre 1970
+### Dato a Roma, addi' 31 ottobre 1972
 
-SARAGAT MISASI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 31 ottobre 1970
+Registrato alla Corte dei conti, addi' 12 febbraio 1973
 
-Atti del Governo, registro n. 238, foglio n. 22. - CARUSO
+Atti di Governo, registro n. 255, foglio n. 100. - VALENTINI

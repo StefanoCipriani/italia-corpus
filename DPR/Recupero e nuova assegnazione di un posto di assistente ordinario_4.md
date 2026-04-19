@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 maggio 1976 n. 565
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1974 n. 250
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 maggio 1976 n. 565
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1974 n. 250
+============================================================
 
 Recupero e nuova assegnazione di un posto di assistente ordinario.
 ------------------------------------------------------------------
@@ -10,41 +10,47 @@ Recupero e nuova assegnazione di un posto di assistente ordinario.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Visto il [decreto del Presidente della Repubblica 21 agosto 1971, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-08-21;910), con il quale, tra gli altri, e' stato assegnato un posto di assistente ordinario alla cattedra di storia economica della facolta' di economia e commercio dell'Universita' di Roma;
+Visto l'[art. 14 della legge 24 febbraio 1967, n. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-02-24;62~art14), con il quale sono stati complessivamente istituiti per gli anni accademici dal 1966-67 al 1970-71, settemila posti di assistente ordinario;
 
-Visto il telegramma del 30 marzo 1976 con cui il rettore dell'Universita' di Roma comunica che il posto suddetto e' vacante fin dall'assegnazione;
+Visto l'art. 15, comma primo, della stessa legge n. 62, concernente la riserva di assegnazione alle cattedre cui prestino servizio assistenti straordinari con almeno cinque anni di servizio retribuito, di un numero di posti corrispondente a quello degli assistenti straordinari forniti del prescritto requisito di anzianita';
 
-Considerato, pertanto, che non si e' provveduto alla copertura del posto nei termini fissati dall'ultimo comma dell'[art. 13 della legge 18 marzo 1958, n. 349](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-18;349~art13);
+Visto il [decreto del Presidente della Repubblica 8 gennaio 1970, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-01-08;28), con il quale, per l'anno accademico 1969-70, in applicazione della riserva stessa, sono stati ripartiti fra le cattedre dei diversi atenei quattordici posti di assistente riservati per concorso agli assistenti straordinari forniti della prescritta anzianita' di servizio, uno dei quali assegnato alla cattedra di diritto ecclesiastico della facolta' di giurisprudenza dell'Universita' di Napoli;
 
-Ritenuto che per tale ragione sono venuti meno i motivi che a suo tempo determinarono l'assegnazione del posto alla cattedra sopracitata;
+Considerato che ai sensi del terzo e quarto comma del citato art. 15 della legge n. 62 i posti riservati, comunque non messi a concorso, debbono essere recuperati e fatti oggetto di una nuova ripartizione;
+
+Visti i [decreti presidenziali 24 luglio 1971, n. 826](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-07-24;826); [4 agosto 1971, n. 993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-08-04;993); [30 ottobre 1971, n. 1297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-10-30;1297), con i quali, in applicazione del disposto di cui ai citati terzo e quarto comma dell'art. 15, sono stati recuperati e nuovamente ripartiti posti di assistente ordinario gia' riservati per concorso agli assistenti straordinari, di cui al [decreto del Presidente della Repubblica 8 gennaio 1970, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-01-08;28);
+
+Considerato che il concorso riservato non e' stato bandito dall'Universita' di Napoli per il posto di assistente alla cattedra di diritto ecclesiastico della facolta' di giurisprudenza, e che pertanto il posto stesso non e' stato coperto con la nomina in ruolo di un assistente straordinario;
+
+Considerato che detto posto e' tuttora vacante;
 
 Sulla
 -----
 
-proposta del Ministro Segretario di Stato per la pubblica istruzione; Decreta:
+proposta del Ministro per la pubblica istruzione; Decreta:
 
 Art. 1
 ------
 
   
-Il posto di assistente ordinario gia' assegnato con [decreto del Presidente della Repubblica n. 910 del 21 agosto 1971](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-08-21;910) alla cattedra di storia economica della facolta' di economia e commercio dell'Universita' di Roma e' recuperato.  
+Il posto di assistente ordinario assegnato alla cattedra di diritto ecclesiastico della facolta' di giurisprudenza dell'Universita' di Napoli con il [decreto del Presidente della Repubblica 8 gennaio 1970, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-01-08;28), e' recuperato dal contingente riservato.  
 
 Art. 2
 ------
 
   
-Il posto di cui sopra e' assegnato all'insegnamento di istituzioni di diritto e procedura penale della facolta' di scienze politiche dell'Universita' di Genova.  
+Il posto di assistente ordinario, come sopra recuperato, viene assegnato alla cattedra di patologia speciale medica e metodologica clinica II della facolta' di medicina e chirurgia dell'Universita' di Torino.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 maggio 1976
+### Dato a Roma, addi' 6 marzo 1974
 
 LEONE MALFATTI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 18 agosto 1976
+Registrato alla Corte dei conti, addi' 28 giugno 1974
 
-Atti di Governo, registro n. 8, foglio n. 68
+Atti di Governo, registro n. 4, foglio n. 36. - SCIARRETTA

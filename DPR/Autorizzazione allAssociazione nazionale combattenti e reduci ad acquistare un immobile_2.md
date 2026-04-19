@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 dicembre 1961 n. 1617
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1966 n. 1005
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 dicembre 1961 n. 1617
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1966 n. 1005
+==============================================================
 
 Autorizzazione all'Associazione nazionale combattenti e reduci ad acquistare un immobile.
 -----------------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-1617. Decreto del Presidente della Repubblica 22 dicembre 1961, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale combattenti e reduci, viene autorizzata ad acquistare al prezzo di L. 1.300.000, come da nota del Ministero delle finanze - Direzione generale del demanio numero 162632 del 23 settembre 1958, l'immobile costituito dalla casa dell'ex fascio con l'annesso terreno, sito in localita' "Ca' Brusa'" di Vicenza, da destinare a sede degli uffici della Federazione provinciale di Vicenza dell'Associazione suindicata e del dipendente Corpo di vigilanza notturna.  
+1005. Decreto del Presidente della Repubblica 27 giugno 1966, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale combattenti e reduci, viene autorizzata ad acquistare dal reverendo don Niccolo' Stacchini, per il prezzo di lire 4.000.000 (quattromilioni) - come da atto a rogito dott.  
+Giorgio Favilli, notaio in Radda in Chianti in data 4 aprile 1961, n. 1891 repertorio, n. 354 racc. - un appartamento di civile abitazione, sito in Siena, piazza Matteotti n. 20, composto di otto vani ed accessori al terzo piano, da destinare a sede della locale Federazione provinciale dell'Associazione anzidetta.  
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 24 febbraio 1962  
-Atti del Governo, registro n. 144, foglio n. 6. - VILLA
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 21 novembre 1966  
+Atti del Governo registro n. 207, foglio n. 51. - VILLA

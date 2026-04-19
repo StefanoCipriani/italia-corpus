@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1954 n. 862
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 marzo 1965 n. 365
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1954 n. 862
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 marzo 1965 n. 365
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -12,11 +12,11 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), modificato con i [regi decreti 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-12;2227); [4 settembre 1930, n. 1312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-09-04;1312); [1 ottobre 1931, n. 1778](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1778); [27 ottobre 1932, n. 2092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2092); [6 dicembre 1934, n. 2394](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2394); [1 ottobre 1936, n. 2502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2502); [12 maggio 1939, numero 1315](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-05-12;1315); [5 ottobre 1939, n. 1644](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1644); [11 luglio 1941, n. 848](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-07-11;848); [18 luglio 1942, n. 928](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-18;928); [24 novembre 1942, n. 1595; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-11-24;1595) [16 maggio 1947, n. 694 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-05-16;694) [22 febbraio 1948, n. 414](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-02-22;414); [30 luglio 1950, numero 1269](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-07-30;1269); [31 ottobre 1950, n. 1307](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1307); [5 agosto 1951, n. 1311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-05;1311); [27 ottobre 1951, n. 1792](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1792); [3 ottobre 1952, numero 4541](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-03;4541); [11 marzo 1953, n. 545](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;545) e [12 maggio 1953, n. 547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-05-12;547);  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -24,48 +24,36 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Dopo l'art. 41 sono aggiunti i seguenti nuovi articoli, relativi all'istituzione della scuola di statistica, presso la Facolta' di economia e commercio, con il conseguente spostamento della numerazione degli articoli successivi:  
   
-Scuola di statistica  
+Dopo l'art. 36 sono aggiunti i seguenti nuovi articoli relativi alla costituzione del "Centro per la ricerca e lo studio dei testi civilistici medievali" annesso alla Facolta' di giurisprudenza con il conseguente spostamento della numerazione degli articoli successivi.  
   
-Art. 41. - Alla Facolta' di economia e commercio e' annessa la scuola di statistica che ha sede presso l'Istituto di statistica della Facolta' di economia e commercio.  
-La scuola e' diretta dal direttore dell'istituto suddetto e conferisce il diploma in statistica.  
-Art. 42. - La durata del corso degli studi per il conseguimento del diploma in statistica e' di due anni.  
-E' titolo di ammissione il diploma di maturita' classica; di maturita' scientifica; di abilitazione per i provenienti dagli Istituti tecnici commerciali, industriali, agrari, nautici e per geometri.  
-Sono insegnamenti fondamentali:  
-1. Elementi di matematica.  
-2. Statistica.  
-3. Statistica economica - corso elementare.  
-4. Statistica giudiziaria (semestrale).  
-5. Statistica sociale (semestrale).  
-6. Antropometria (semestrale).  
-7. Statistica sanitaria (semestrale).  
-8. Sociologia generale e sociologia coloniale.  
-9. Demografia.  
-10. Geografia politica ed economica.  
-Sono insegnamenti complementari:  
-1. Economia politica - corso elementare.  
-2. Biometria.  
-3. Antropologia.  
-4. Nozioni elementari di diritto privato e pubblico.  
-Gli insegnamenti semestrali di "statistica giudiziaria" e di "statistica sociale" e quelli, pure semestrali, di "statistica sanitaria" e di "antropometria" comportano rispettivamente esami unici. L'insegnamento biennale di statistica economica comporta un esame alla fine di ogni anno.  
-Gli insegnamenti complementari possono essere scelti dallo studente anche fra le altre discipline impartite nella Facolta' di economia e commercio e le discipline impartite in altre Facolta' dell'Ateneo, previa approvazione del preside della Facolta' di economia e commercio.  
-Per essere ammesso all'esame di diploma lo studente deve aver seguito i corsi e superati gli esami in tutti gli insegnamenti fondamentali e almeno in due complementari.  
-Art. 43. - Lo studente non puo' sostenere l'esame di statistica se non abbia superato l'esame di elementi di matematica; non puo' sostenere gli esami di statistica economica, anche per il primo anno, di statistica giudiziaria e sociale, di statistica sanitaria e di antropometria, di demografia, se non abbia superato l'esame di statistica. L'esame di diploma consiste nella discussione orale di una dissertazione scritta, svolta su tema approvato dal professore della materia. L'esame sara' sostenuto dai candidati di fronte ad una commissione composta di sette membri e presieduta dal direttore della scuola di statistica.  
-Art. 44. - Le tasse e soprattasse per la iscrizione e la frequenza ai corsi, e per gli esami di profitto sono pari a quelle stabilite per il primo ed il secondo corso della Facolta' di economia e commercio; i contributi di laboratorio verranno fissati annualmente dal Consiglio di amministrazione su proposta del Senato accademico, udita la Facolta' e scuola.  
-Art. 45. L'Istituto di statistica, per le materie di statistica, statistica economica, statistica giudiziaria, statistica sociale, statistica sanitaria, demografia, funziona come seminario ai sensi dell'art. 23 del regolamento generale universitario.  
-Art. 46. - I diplomati della scuola, che hanno regolarmente seguito almeno per un corso gli insegnamenti di due lingue secondo i programmi della Facolta' di economia e commercio, potranno essere ammessi al terzo corso degli studi della Facolta' stessa.  
+Centro per la ricerca e lo studio dei testi civilistici medievali  
+  
+Art. 37. - Presso l'Universita' di Bologna e' costituito il "Centro per la ricerca e lo studio dei testi civilistici medievali".  
+Art. 38. - Il Centro ha lo scopo di promuovere lo studio della dottrina giuridica, medievale; e in particolare:  
+a) la raccolta dei dati relativi ai codici medievali italiani attinenti al Corpus iuris civilis, conservati sia in Italia sia all'estero;  
+b) la raccolta di microfilms o fotocopie dei sopraddetti codici;  
+c) la compilazione di uno schedario relativo;  
+d) l'attivita' di collegamento e di scambio fra, studiosi di istituti scientifico-culturali, anche attraverso incontri e convegni;  
+e) l'organizzazione di corsi tecnici di specializzazione nello studio delle fonti civilistiche medievali;  
+f) l'eventuale pubblicazione di un suo bollettino a stampa.  
+Art. 39. - I mezzi economici per il funzionamento del Centro sono costituiti da contributi dell'Universita' di Bologna e da elargizioni di altri enti pubblici e privati.  
+Art. 40. - Il Centro e' aperto alle adesioni sia di privati sia di enti scientifico-culturali.  
+Art. 41. - Sono organi del Centro:  
+a) il Comitato direttivo composto da un numero di membri da 5 a 15, designati dalla Facolta' di giurisprudenza dell'Universita' di Bologna, che eleggono nel loro seno il presidente, un segretario ed un economo;  
+b) una Giunta esecutiva, di membri tecnici, in numero da 3 a 5, eletta dai Comitato direttivo.  
+Art. 42. - Il funzionamento del Centro sara' disciplinato da apposito regolamento da redigersi entro un anno dall'approvazione del Centro stesso da parte delle competenti autorita'.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a S. Vincent, addi' 14 agosto 1954
+### Dato a Roma, addi' 8 marzo 1965
 
-EINAUDI MARTINO
+SARAGAT GUI
 
-Visto, il Guardasigilli: DE PIETRO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 23 settembre 1954
+Registrato alla Corte dei conti, addi' 26 aprile 1965
 
-Atti del Governo, registro n. 86, foglio n. 34. - CARLOMAGNO
+Atti del Governo, registro n. 192, foglio n. 91. - VILLA

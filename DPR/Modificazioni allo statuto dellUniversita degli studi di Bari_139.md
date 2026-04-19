@@ -1,175 +1,82 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1502
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 settembre 1956 n. 1210
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1502
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 settembre 1956 n. 1210
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successivi;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592):
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione:
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 9. - Agli insegnamenti complementari del corso di laurea in Scienze politiche sono aggiunti quelli di:
-
-"Diritto tributario";
-
-"Organizzazione internazionale".
-
-Art. 52. - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di "Letteratura anglo-americana".
-
-Art. 127. - All'elenco delle Scuole di specializzazione annesse alla Facolta' di medicina e chirurgia e' aggiunta quella di "Anestesiologia".
-
-Dopo l'art. 171 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola in specializzazione di anestesiologia.
-
-Scuola di specializzazione in anestesiologia
-
-Art. 172. - La Scuola si propone di far perfezionare gli aspiranti allo studio ed alla pratica dell'anestesiologia.
-
-La Scuola e' sotto la direzione del direttore dell'Istituto di patologia speciale chirurgica, ed e' affidata per l'insegnamento delle materie specifiche e per la parte tecnica ad un docente di anestesiologia, capo del servizio di anestesiologia dell'istituto, e disporra' dei reparti clinici, dei laboratori e delle attrezzature dell'Istituto stesso, ed eventualmente potra' utilizzare i reparti clinici e le attrezzature di altri istituti.
-
-Art. 173. - Alla Scuola potranno essere ammessi i laureati in medicina e chirurgia, che abbiano conseguito la laurea da non oltre quattro anni e che, dopo la laurea, abbiano svolto un internato di almeno un anno in un reparto medico o chirurgico.
-
-La selezione degli aspiranti ai fini dell'ammissione sara' fatta dal direttore della Scuola, che provvedera' alla loro valutazione in base ai titoli di studio ed eventualmente, per mezzo di esami.
-
-Le decisioni al riguardo adottate dalla Direzione saranno approvate dal Consiglio di Facolta'.
-
-Non saranno concesse abbreviazioni di corso, fatta eccezione per gli assistenti in carica presso gli Istituti di chirurgia della Facolta'.
-
-Art. 174. - La durata della Scuola e' di due anni.
-
-Il numero massimo degli iscritti sara' di dieci per anno di corso.
-
-Gli iscritti saranno tenuti a prestare regolare e continuato servizio di internato presso l'Istituto per tutta la, durata dei corsi.
-
-Art. 175. - Le materie d'insegnamento sono le seguenti:
-
-1° anno:
-
-1) Fondamenti di anatomia d'interesse anestesiologico;
-
-2) Fondamenti di fisiologia applicata all'anestesiologia;
-
-3) Chimica e farmacologia degli anestetici e delle sostanze coadiuvanti;
-
-4) Anestesiologia, parte generale;
-
-5) Rianimazione.
-
-2° anno:
-
-1) Anestesiologia, parte speciale.
-
-Tali insegnamenti saranno integrati da esercitazioni pratiche di tecnica anestesiologica e di rianimazione.
-
-Art. 176. - Al termine di ciascun anno di corso gli allievi dovranno superare un esame unico sulle materie di insegnamento.
-
-Al termine del secondo corso gli allievi, dovranno inoltre superare un esame di diploma, consistente nella discussione di una tesi scritta su argomento attinente all'anestesiologia, proposta dal direttore della Scuola.
-
-Il presente decreto, munito del sigillo dello stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 19 ottobre 1960
-
-GRONCHI
-
-BOSCO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 28 novembre 1960 Atti del Governo, registro n. 131, foglio n. 100. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592):  
-  
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 21341](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;21341) e modificato con i [regi decreti 15 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1927-10-15;2169); [31 ottobre 1929, n. 2481](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1929-10-31;2481); [30 ottobre 1930, n. 1858](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1930-10-30;1858); [22 ottobre 1931, n. 1422](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1931-10-22;1422); [27 ottobre 1932, n. 2082](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1932-10-27;2082); [13 dicembre 1934, n. 2404](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-13;2404); [1 ottobre 1936, n. 2020](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-01;2020); [13 luglio 1939, n. 1168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-07-13;1168); [26 ottobre 1940, n. 2029](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2029); [24 ottobre 1942, n. 1785 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1785) [21 aprile 1949, n. 451](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-21;451);  
+[31 ottobre 1950, n. 1293](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1293); [11 maggio 1951, n. 633](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-05-11;633); [23 gennaio 1952, n. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-01-23;66); [25 giugno 1953, n. 753](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-06-25;753); [30 luglio 1953, n. 758](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-07-30;758), [25 agosto 1953, n. 857](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;857); [25 agosto 1953, n. 992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;992);  
+[14 settembre 1954, n. 1198](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1198); [11 aprile 1955, n. 621](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-04-11;621);  
+[31 agosto 1955, n. 896](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-08-31;896);, [25 settembre 1955, n. 958](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-25;958) e [25 febbraio 1956, n. 298](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-02-25;298);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione:  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 20 (gia' 16). - Agli insegnamenti complementari dei corso di laurea in economia e commercio sono aggiunti i seguenti:  
+a) "Economia montana e forestale";  
+b) "Tecnica commerciale dei prodotti agricoli";  
+c) "Storia delle esplorazioni geografiche".  
+Art. 50 (gia' 47). - Il comma quinto e' sostituito dal seguente:  
+"Gli insegnamenti di storia greca e storia romana sono riuniti in unica cattedra. I corsi rispettivi vengono tenuti alternativamente e ogni anno viene indicato nel manifesto degli studi il corso che sara' impartito".  
+Art. 54 (gia' 51). - Il comma secondo, riguardante la riunione degli insegnamenti di storia medioevale e storia moderna in unica cattedra, per il corso di laurea in filosofi a, e' soppresso.  
+Art. 56 (gia' 53). - E' sostituito dal seguente "I laureati in lettere sono iscritti, sul loro domanda, al terzo o quarto anno del corso di laurea in filosofia a secondo del numero degli esami obbligatori e complementari, validi per il conseguimento della laurea in filosofia, superati durante il corso per il conseguimento della laurea in lettere".  
+Art. 57. - L'elenco degli insegnamenti complementari del corso di laurea in materie letterarie e' sostituito dal seguente:  
+1) Grammatica latina;  
+2) Filologia romanza;  
+3) Istituzioni di diritto pubblico e legislazione scolastica;  
+4) Filologia germanica;  
+5) Storia dell'arte medioevale e moderna;  
+6) Storia della grammatica e della lingua italiana;  
+7) Storia della musica.  
+Art. 59. - L'elenco degli insegnamenti complementari del corso di laurea in pedagogia e' sostituito dal seguente:  
+1) Filologia romanza;  
+2) Filologia germanica;  
+3) Istituzioni di diritto pubblico e legislazione scolastica;  
+4) Psicologia;  
+5) Storia dell'arte medioevale e moderna;  
+6) Storia della pedagogia;  
+7) Storia delle dottrine politiche;  
+8) Psicologia dell'eta' evolutiva;  
+9) Geografia.  
+Art. 65. - Il secondo comma, concernente l'argomento della dissertazione di laurea nella Facolta' di magistero, e' sostituito dal seguente:  
+"L'argomento della dissertazione deve essere letterario, storico o geografico per gli aspiranti alla laurea in materie letterarie di carattere filosofico-pedagogico per gli aspiranti alla laurea in pedagogia".  
+Art. 74 (gia' 56). - Agli insegnamenti complementari del corso di laurea in scienze matematiche e' aggiunto quello di "astronomia".  
+Art. 77 (gia' 59) riguardante le precedenze, per l'esame, fra gli insegnamenti del corso di laurea in fisica. - Nella parte relativa all'esame di fisica sperimentale, e' cosi' modificato:  
+"L'esame di fisica sperimentale deve precedere gli esami di fisica superiore, fisica teorica, fisica terrestre, fisica tecnica, elettrologia, radioattivita', onde elettromagnetiche".  
+Art. 81 (gia' 63) riguardante le precedenze, per l'esame, fra gli insegnamenti del corso di laurea in scienze naturali. - Nel primo comma e' inserita la seguente norma:  
+"Non potra' essere ammesso a sostenere l'esame di geologia senza aver prima superato l'esame di mineralogia".  
+Alt. 842 (gia' 64). - Agli insegnamenti complementari del corso di laurea in matematica e fisica sono aggiunti i seguenti:  
+a) Matematiche superiori;  
+b) Astronomia.  
+Art. 83 (gia' 65). - Agli insegnamenti del corso di laurea in matematica e fisica, i cui esami non possono essere sostenuti senza aver superato l'esame di fisica sperimentale, e' aggiunto quello di "onde elettromagnetiche".  
+Art. 92 (gia' 72). - Agli insegnamenti complementari del corso di laurea in ingegneria e' aggiunto quello di "impianti industriali elettrici e meccanici".  
   
-Art. 9. - Agli insegnamenti complementari del corso di laurea in Scienze politiche sono aggiunti quelli di:  
-"Diritto tributario";  
-"Organizzazione internazionale".  
-  
-Art. 52. - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di "Letteratura anglo-americana".  
-  
-Art. 127. - All'elenco delle Scuole di specializzazione annesse alla Facolta' di medicina e chirurgia e' aggiunta quella di "Anestesiologia".  
-Dopo l'art. 171 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola in specializzazione di anestesiologia.  
-  
-Scuola di specializzazione in anestesiologia  
-  
-Art. 172. - La Scuola si propone di far perfezionare gli aspiranti allo studio ed alla pratica dell'anestesiologia.  
-La Scuola e' sotto la direzione del direttore dell'Istituto di patologia speciale chirurgica, ed e' affidata per l'insegnamento delle materie specifiche e per la parte tecnica ad un docente di anestesiologia, capo del servizio di anestesiologia dell'istituto, e disporra' dei reparti clinici, dei laboratori e delle attrezzature dell'Istituto stesso, ed eventualmente potra' utilizzare i reparti clinici e le attrezzature di altri istituti.  
-  
-Art. 173. - Alla Scuola potranno essere ammessi i laureati in medicina e chirurgia, che abbiano conseguito la laurea da non oltre quattro anni e che, dopo la laurea, abbiano svolto un internato di almeno un anno in un reparto medico o chirurgico.  
-La selezione degli aspiranti ai fini dell'ammissione sara' fatta dal direttore della Scuola, che provvedera' alla loro valutazione in base ai titoli di studio ed eventualmente, per mezzo di esami.  
-Le decisioni al riguardo adottate dalla Direzione saranno approvate dal Consiglio di Facolta'.  
-Non saranno concesse abbreviazioni di corso, fatta eccezione per gli assistenti in carica presso gli Istituti di chirurgia della Facolta'.  
-  
-Art. 174. - La durata della Scuola e' di due anni.  
-Il numero massimo degli iscritti sara' di dieci per anno di corso.  
-Gli iscritti saranno tenuti a prestare regolare e continuato servizio di internato presso l'Istituto per tutta la, durata dei corsi.  
-  
-Art. 175. - Le materie d'insegnamento sono le seguenti:  
-  
-1° anno:  
-1) Fondamenti di anatomia d'interesse anestesiologico;  
-2) Fondamenti di fisiologia applicata all'anestesiologia;  
-3) Chimica e farmacologia degli anestetici e delle sostanze coadiuvanti;  
-4) Anestesiologia, parte generale;  
-5) Rianimazione.  
-  
-2° anno:  
-1) Anestesiologia, parte speciale.  
-  
-Tali insegnamenti saranno integrati da esercitazioni pratiche di tecnica anestesiologica e di rianimazione.  
-  
-Art. 176. - Al termine di ciascun anno di corso gli allievi dovranno superare un esame unico sulle materie di insegnamento.  
-Al termine del secondo corso gli allievi, dovranno inoltre superare un esame di diploma, consistente nella discussione di una tesi scritta su argomento attinente all'anestesiologia, proposta dal direttore della Scuola.  
-  
-Il presente decreto, munito del sigillo dello stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.  
-  
-Dato a Roma, addi' 19 ottobre 1960  
-  
-GRONCHI  
-  
-BOSCO   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 28 novembre 1960  
-Atti del Governo, registro n. 131, foglio n. 100. - VILLA  
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta, ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Dato a Roma, addi' 11 settembre 1956
+
+GRONCHI ROSSI
+
+Visto, il Guardasigilli: MORO
+
+Registrato alla Corte dei conti, addi' 30 ottobre 1956
+
+Atti del Governo, registro n. 101, foglio n. 107. - CARLOMAGNO

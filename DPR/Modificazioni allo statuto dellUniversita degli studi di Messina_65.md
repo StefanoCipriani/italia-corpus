@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1980 n. 1042
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 787
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1980 n. 1042
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 787
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
@@ -10,19 +10,23 @@ Modificazioni allo statuto dell'Universita' degli studi di Messina.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923) e modificato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 1 ottobre 1936, numero 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923) e modificato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio universitario nazionale nel suo parere;
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
 
 Sentito il parere del Consiglio universitario nazionale;
 
@@ -37,50 +41,73 @@ Articolo unico
 --------------
 
   
-Dopo l'art. 18, con il conseguente spostamento della numerazione successiva, sono aggiunti i seguenti nuovi articoli:  
+Gli articoli 187, 188 e 189, relativi alla scuola di specializzazione in biochimica e chimica clinica, sono soppressi e sostituiti dai seguenti con il conseguente spostamento della numerazione degli articoli successivi.  
   
-Centro universitario di studi sui trasporti (CUST)  
+Scuola di specializzazione in biochimica e chimica clinica  
   
-Art. 19. - Il "Centro universitario di studi sui trasporti" (CUST), e' annesso alla facolta' di giurisprudenza dell'Universita' di Messina.  
-Art. 20. - Il centro e' un istituto scientifico che ha per finalita' attivita' di informazione e studio sui trasporti terrestri, marittimi e aerei, interni e internazionali, con particolare riguardo ai problemi giuridici e territoriali ed alla correlata programmazione socio-economica.  
-Rientrano in particolare tra i suoi scopi:  
-a) la raccolta e classificazione sistematica della documentazione giuridica, economica, statistica, geografica e politica in materia;  
-b) l'organizzazione di corsi di studio e di aggiornamento nel settore, anche in collaborazione con altre facolta' o Universita', centri o enti locali nazionali o internazionali, interessati;  
-c) la realizzazione di studi e ricerche relative ai trasporti nel quadro della integrazione economica europea;  
-d) l'organizzazione di conferenze, seminari, riunioni di studio e congressi per promuovere la divulgazione, l'indagine e il dibattito riguardo alle materie di cui al primo comma di questo articolo;  
-e) la esecuzione di studi, ricerche e consulenze, di carattere temporaneo o permanente, a scopo teorico o applicativo, su determinati problemi dei trasporti, anche per conto di amministrazioni e di enti pubblici o privati, nazionali o internazionali;  
-f) la formazione di ricercatori ai fini del conseguimento di una specializzazione post-universitaria nel settore;  
-g) eventuali pubblicazioni relative alle predette attivita'.  
-I corsi di cui alla lettera b) del secondo comma di questo articolo si propongono lo scopo di integrare ed aggiornare la preparazione di studenti e laureati nelle materie indicate nei precedenti commi 1 e 2. A conclusione dei corsi di studio non vengono rilasciati titoli di studio.  
-Art. 21. - Sono organi del centro:  
-a) il direttore;  
-b) il comitato consultivo.  
-Art. 22. - Il direttore del centro, nominato con decreto rettorale su designazione del consiglio di facolta' di giurisprudenza, e' un professore di ruolo ordinario o straordinario della facolta' stessa nell'ambito della cui cattedra rientri spiccatamente l'insegnamento della materia dei trasporti.  
-Il nominato rimane in carica finche' conserva detto insegnamento.  
-In mancanza di professori di ruolo ordinari e straordinari aventi i requisiti di cui al comma 1 del presente articolo, il direttore del centro verra' designato dal consiglio di facolta' di giurisprudenza tra i professori di ruolo dell'Universita' di Messina nell'ambito della cui cattedra rientri spiccatamente l'insegnamento della materia dei trasporti.  
-Il direttore cura lo svolgimento dell'attivita' di ricerca e documentazione del centro e la realizzazione dei programmi speciali di ricerca e formazione del centro.  
-Art. 23. - Il comitato consultivo e' composto dal preside della facolta' di giurisprudenza, che lo presiede, e dal direttore del centro, membri di diritto. Esso inoltre, e' formato: da un rappresentante del Ministero della pubblica istruzione; da un rappresentante della Direzione generale dell'aviazione civile del Ministero dei trasporti; da un rappresentante del Ministero degli affari esteri; da un rappresentante del Consiglio nazionale delle ricerche; da un rappresentante dell'assessorato al turismo ed ai trasporti della regione siciliana; da un rappresentante del consiglio di amministrazione della Universita' di Messina designato dal rettore.  
-Il comitato consultivo esprime il proprio parere, non vincolante, sui programmi speciali di ricerca e formazione del centro.  
-Esso si riunisce almeno una volta l'anno, in Messina od altra sede indicata dal presidente del comitato. Le deliberazioni sono prese a maggioranza semplice dei presenti, e, in caso di parita', prevale il voto del presidente.  
-Art. 24. - I membri non di diritto del comitato consultivo sono nominati con decreto rettorale, durano in carica un triennio e possono essere riconfermati.  
-Art. 25. - Al funzionamento del centro si provvede con i fondi assegnati dall'Universita' di Messina. Questa ultima attribuira' al centro quei fondi che il Ministero della pubblica istruzione o altri Ministeri, enti pubblici e privati, italiani e stranieri, conferiscono a tal fine all'Universita'.  
-Art. 26. - I fondi del centro sono gestiti in conformita' a quanto previsto dall'art. 53 del testo unico sulla istruzione universitaria.  
-Art. 27. - Per il raggiungimento dei suoi fini istituzionali il centro e' dotato di personale non docente universitario assegnato dal consiglio di amministrazione dell'Universita' di Messina o dal Ministero della pubblica istruzione.  
-Allo stesso fine, il centro puo' proporre ai competenti organi dell'Universita' di procedere alla stipula di apposite convenzioni con Ministeri ed enti pubblici o privati, nazionali o internazionali, per il distacco presso il centro di personale amministrativo.  
-L'onere finanziario relativo ricadra' interamente sugli enti che stipulano la convenzione con l'Universita' a favore del centro.  
-Art. 28. - L'Universita' di Messina fornisce i locali idonei all'attivita' di ricerca e informazione del centro.  
-Art. 29. - Per quanto non previsto dal presente statuto si applicano le norme del testo unico sull'istruzione universitaria.  
+Art. 187. - E' istituita presso l'Universita' di Messina la scuola di specializzazione in biochimica e chimica clinica che conferisce il diploma di specialista in biochimica e chimica clinica ad indirizzo diagnostico.  
+Art. 188. - La direzione della scuola ha sede presso l'istituto di chimica biologica della facolta' di medicina e chirurgia.  
+Art. 189. - La scuola ha lo scopo di poter offrire una migliore qualificazione scientifica professionale ai laureati in medicina che intendono dedicarsi alle discipline biochimiche con indirizzo diagnostico di laboratorio.  
+Art. 190. - La durata del corso e' di quattro anni e non e' suscettibile di abbreviazioni.  
+Art. 191. - Il numero degli iscritti e' di quindici per ogni anno e complessivamente di sessanta per l'intero corso di studi.  
+Art. 192. - Alla scuola sono ammessi solo i laureati in medicina e chirurgia forniti di abilitazione all'esercizio professionale.  
+Art. 193. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:  
+a) la tesi nella disciplina attinente alla specializzazione;  
+b) il voto di laurea;  
+c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;  
+d) le pubblicazioni nelle predette materie.  
+Il punteggio dei predetti titoli e' quello stabilito dal decreto ministeriale 16 settembre 1982.  
+Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo riportato.  
+Art. 194. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+biochimica generale;  
+biologia molecolare;  
+biometria statistica sanitaria;  
+biochimica analitica I con esercitazioni;  
+tecnica dei prelevamenti.  
+2° Anno:  
+biochimica dinamica;  
+biochimica patologica;  
+chimica clinica;  
+elementi di ematologia;  
+diagnostica elementi di microbiologia;  
+diagnostica biochimica analitica II con esercitazioni.  
+3° Anno:  
+biochimica ormonale;  
+biochimica della riproduzione e dello sviluppo;  
+immunologia diagnostica;  
+enzimologia clinica;  
+organizzazione, gestione, automazione di laboratorio.  
+4° Anno:  
+biochimica dei tessuti e degli organi;  
+biochimica farmacologica e farmacocinetica;  
+tossicologia;  
+informatica medica;  
+elementi di istologia patologica;  
+elementi di legislazione sanitaria.  
+Gli insegnamenti suddetti afferiscono tutti alla facolta' di medicina e chirurgia.  
+Art. 195. - La frequenza ai corsi e' obbligatoria. Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione d'esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno in corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno in corso. Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.  
+Art. 196. - Le attivita' pratiche consistono in esercitazioni di biochimica analitica per il 1° e 2° anno, esercitazioni di chimica clinica ed elementi di ematologia diagnostica per il 2° anno, in tecniche dei prelevamenti per il 1° anno, esercitazioni di immunologia diagnostica ed enzimologia clinica per il 3° anno ed esercitazioni di biochimica farmacologica e farmacocinetica, tossicologia ed elementi di istologia patologica per il 4° anno.  
+La frequenza e' giornaliera. La didattica viene svolta nelle ore antimeridiane e le esercitazioni nelle ore pomeridiane.  
+Per sostenere gli esami lo specializzando dovra' aver frequentato almeno il 70% delle lezioni e delle esercitazioni pratiche.  
+Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.  
+Art. 197. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio della scuola di specializzazione di biochimica e chimica clinica si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso.  
+A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.  
+Art. 198. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.  
+Art. 199. - Per la scuola di specializzazione in biochimica e chimica clinica, e' costituito il relativo consiglio presieduto dal direttore.  
+Il consiglio e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99). Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento di insegnamenti.  
+La direzione della scuola e' affidata a professore ordinario o straordinario che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1980
+### Dato a Roma, addi' 28 ottobre 1983
 
-PERTINI BODRATO
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: SARTI
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 4 febbraio 1981
+Registrato alla Corte dei conti, addi' 27 dicembre 1983
 
-Registro n. 10 Istruzione, foglio n. 172
+Registro n. 80 Istruzione, foglio n. 21

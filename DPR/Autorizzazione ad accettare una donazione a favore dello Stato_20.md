@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 679
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1974 n. 473
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 679
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1974 n. 473
 =============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-679. Decreto del Presidente della Repubblica 17 maggio 1986, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato della donazione, consistente in una raccolta di cinque tavole e una statuetta di porcellana, le quali rivestono un interesse artistico, con destinazione alla Pinacoteca nazionale di Brera, in Milano, disposta dal conte Alfredo Gerli con atto 1 dicembre 1982, a rogito prof. Carlo Bertelli, soprintendente per i beni artistici e storici di Milano, registrato a Milano in data 13 dicembre 1982 al n. 55208.   
+473. Decreto del Presidente della Repubblica 27 giugno 1974, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dalla sig.ra Genzone Laura con atto 30 novembre 1972, n. 59196 di repertorio per notaio Renzo Lazzareschi, del terreno di mq 36, sito in comune di Lucca, frazione di S. Lorenzo a Vaccoli, localita' "ai Picchi".  
   
-Visto, il Guardasigilli: ROGNONI   
-Registrato alla Corte dei conti, addi' 10 ottobre 1986   
-Registro n. 26 Beni culturali, foglio n. 121
+Visto, il Guardasigilli: ZAGARI  
+Registrato alla Corte dei conti, addi' 26 settembre 1974  
+Atti di Governo, registro n. 5, foglio n. 90. - SCIARRETTA

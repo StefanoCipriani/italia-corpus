@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 novembre 1985 n. 1061
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1983 n. 823
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 novembre 1985 n. 1061
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1983 n. 823
+===============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Sassari.
 -------------------------------------------------------------------
@@ -24,7 +24,7 @@ Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http:
 
 Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Veduto il parere del Consiglio universitario nazionale;
 
@@ -39,21 +39,20 @@ Articolo unico
 --------------
 
   
-Nell'art. 36, relativo al corso di laurea in materie letterarie, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-storia delle esplorazioni geografiche.  
+Nell'art. 40, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i nuovi seguenti insegnamenti:  
+neuroftalmologia;  
+fisiopatologia della riproduzione umana.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 novembre 1985
+### Dato a Roma, addi' 25 febbraio 1983
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 17 aprile 1986
+Registrato alla Corte dei conti, addi' 18 gennaio 1984
 
-Registro n. 30 Istruzione, foglio n. 199
+Registro n. 2 Istruzione, foglio n. 185

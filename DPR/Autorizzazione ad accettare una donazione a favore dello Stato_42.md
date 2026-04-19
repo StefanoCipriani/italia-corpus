@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 aprile 1977 n. 292
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 857
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 aprile 1977 n. 292
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 857
+================================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-292. Decreto del Presidente della Repubblica 14 aprile 1977, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dal comune di Reggio Calabria con atto 6 febbraio 1960, n. 14734 di repertorio, a rogito notaio Giuseppe Macri', del fabbricato adibito a carcere giudiziario mandamentale di Reggio Calabria, catastalmente indicato e descritto nell'atto medesimo.   
+857. Decreto del Presidente della Repubblica 22 settembre 1981, col quale, sulla proposta del Ministro delle finanze, viene autorizzata l'accettazione della donazione a favore dello Stato, consistente in un terreno della superficie di mq 200, sito in comune di Ronago (Como), localita' Valmulini, destinato all'ampliamento della caserma della guardia di finanza, disposta dal dott. Francesco Ambrosoli con atto 22 giugno 1978, n. 45189/16099 di repertorio, a rogito dott. Achille Pedraglio, notaio in Como.  
   
-Visto, il Guardasigilli: BONIFACIO   
-Registrato alla Corte dei conti, addi' 7 giugno 1977   
-Registro n. 25 Finanze, foglio n. 236
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 12 gennaio 1982  
+Registro n. 2 Finanze, foglio n. 128

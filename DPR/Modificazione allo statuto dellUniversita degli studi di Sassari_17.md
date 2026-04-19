@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1982 n. 816
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1984 n. 1191
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1982 n. 816
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1984 n. 1191
+================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Sassari.
 -------------------------------------------------------------------
@@ -39,19 +39,23 @@ Articolo unico
 --------------
 
   
-Nell'art. 40, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-oncologia sperimentale.  
+Nell'art. 37, relativo al corso di laurea in pedagogia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+storia del pensiero sociologico;  
+sociologia industriale e del lavoro;  
+sociologia dello sviluppo.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 15 luglio 1982
+### Dato a Roma, addi' 5 dicembre 1984
 
-PERTINI BODRATO
+PERTINI
 
-Visto, il Guardasigilli: DARIDA
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 26 ottobre 1982
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registro n. 121 Istruzione, foglio n. 45
+Registrato alla Corte dei conti, addi' 29 aprile 1985
+
+Registro n. 27 Istruzione, foglio n. 152

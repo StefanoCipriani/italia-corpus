@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 marzo 1973 n. 357
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 ottobre 1969 n. 837
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 marzo 1973 n. 357
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 ottobre 1969 n. 837
+==============================================================
 
 Modificazioni allo statuto dell'ente autonomo "Fiera di Trieste - Campionaria internazionale", con sede in Trieste.
 -------------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-357. Decreto del Presidente della Repubblica 15 marzo 1973, col quale, sulla proposta del Ministro per l'industria, il commercio e l'artigianato, viene modificato il primo comma dell'art. 6 dell'ente autonomo "Fiera di Trieste - Campionaria internazionale", con sede in Trieste.  
+837. Decreto del Presidente della Repubblica 1 ottobre 1969, col quale, sulla proposta del Ministro per l'industria, il commercio e l'artigianato, viene modificato il primo comma dell'art. 6 dello statuto dell'ente autonomo "Fiera di Trieste - Campionaria internazionale", con sede in Trieste.  
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 20 giugno 1973  
-Atti di Governo, registro n. 255, foglio n. 119. - VALENTINI
+Visto, il Guardasigilli: GAVA  
+Registrato alla Corte dei conti, addi' 24 novembre 1969  
+Atti del Governo, registro n. 230, foglio n. 57. - CARUSO

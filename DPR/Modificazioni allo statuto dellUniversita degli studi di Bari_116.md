@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1969 n. 60
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 maggio 1978 n. 645
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1969 n. 60
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 maggio 1978 n. 645
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
@@ -10,63 +10,72 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Art. 70. - E' abrogato e sostituito dal seguente: "La facolta' di agraria conferisce:  
-la laurea in scienze agrarie;  
-la laurea in scienze forestali.  
-Dopo l'art. 76, e con il conseguente spostamento della numerazione degli articoli successivi, viene aggiunto il seguente nuovo articolo, relativo alla istituzione del corso di laurea in scienze forestali.  
-Art. 77. - La durata del corso degli studi per la laurea in scienze forestali e' di due anni.  
-Titolo di ammissione: certificato di aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali del primo biennio di studi per la laurea in scienze agrarie.  
-Insegnamenti fondamentali:  
-1) Botanica forestale;  
-2) Alpicoltura I (prati, pascoli, agricoltura nella regione di montagna - semestrale);  
-3) Alpicoltura II (zootecnia nella regione di montagna - semestrale);  
-4) Chimica forestale;  
-5) Zoologia forestale venatoria e acquicoltura;  
-6) Dendrometria (semestrale);  
-7) Selvicoltura I (ecologia e selvicoltura generale);  
-8) Selvicoltura II (selvicoltura speciale);  
-9) Topografia;  
-10) Costruzioni forestali (semestrale);  
-11) Sistemazioni idraulico-forestali;  
-12) Assestamento forestale;  
-13) Tecnologia e utilizzazione forestali (compresa meccanica applicata);  
-14) Patologia vegetale forestale;  
-15) Industrie chimico forestali (semestrale);  
-16) Legislazione forestale;  
-17) Economia ed estimo forestale.  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali del biennio.  
-Gli esami di profitto sono orali, ma possono essere integrati da prove pratiche.  
-L'esame di laurea consiste:  
-a) in una discussione orale intorno ad una dissertazione scritta sopra un tema scelto dal candidato su di un argomento forestale o avente stretta attinenza con le discipline impartite nella facolta';  
-b) nella discussione di due tesi orali scelte dal candidato tra due materie di insegnamento estranee alla disciplina cui si riferisce la dissertazione scritta.  
-E' in facolta' della commissione di limitare l'esame orale ad una sola delle due tesi di cui alla lettera b).  
-La dissertazione scritta e gli argomenti delle due tesi orali debbono essere depositati in segreteria almeno quindici giorni prima dell'inizio delle sedute di esami di laurea.  
+Dopo l'art. 267 e' inserito il seguente nuovo articolo, relativo alla istituzione della scuola diretta a fini speciali per igieniste dentali, annessa alla facolta' di medicina e chirurgia.   
+Scuola per igieniste dentali (scuola diretta a fini speciali)   
+Art. 268. - La scuola speciale per igieniste dentali e' connessa alla clinica odontoiatrica.   
+Essa ha lo scopo di preparare le allieve a coadiuvare i medici dentisti nel campo della odontoiatria sociale e ai fini della educazione stomatologica infantile e scolastica, oltre che nella profilassi delle carie e delle malattie bucco-dentali e nella prevenzione delle anomalie dento-maxillo-facciali.   
+Direttore della scuola e' il direttore e titolare della cattedra di clinica odontoiatrica.   
+Gli insegnanti della scuola sono designati dal consiglio di facolta' di medicina e chirurgia su proposta del direttore della scuola, in ottemperanza alle vigenti disposizioni di legge sugli incarichi universitari.   
+La durata del corso per il conseguimento del diploma di igienista dentaria e' di due anni.   
+Il numero complessivo delle iscritte alla scuola non puo' essere superiore a 60.   
+Possono essere ammesse alla scuola le aspiranti di eta' non inferiore a 17 anni e non superiore ai 30, in possesso di un diploma di scuola media superiore o del diploma della scuola media inferiore integrato da quello di assistente sanitaria o di ostetrica.   
+I necessari requisiti di buona condotta morale, civile e penale saranno accertati d'ufficio.   
+La domanda di iscrizione alla scuola dovra' essere presentata in carta legale entro il 15 ottobre, corredata dei titoli richiesti e del certificato di sana e robusta costituzione fisica.   
+E' previsto un esame di ammissione consistente in una prova di cultura generale.   
+Le materie d'insegnamento sono:   
+1° Anno:   
+anatomia generale e oro-dentale;   
+microbiologia e igiene orale;   
+farmacologia odontostomatologica;   
+radiologia stomatologica;   
+fisiologia generale e oro-dentale;   
+patologia generale e oro-dentale (I anno);   
+odontoiatria conservativa (I anno);   
+odontotecnica applicata.   
+Esercitazioni pratiche integreranno i corsi.   
+2° Anno:   
+patologia generale e oro-dentale (II anno);   
+odontoiatria conservativa (II anno);   
+ortodonzia;   
+paradentologia;   
+protesi;   
+odontoiatria sociale.   
+Esercitazioni pratiche integreranno i corsi.   
+Le allieve hanno l'obbligo di frequenza alle lezioni teoriche ed alle esercitazioni pratiche e alla fine di ciascun anno devono sostenere gli esami di profitto. Il superamento degli esami di profitto consente la iscrizione all'anno successivo di corso. E' prevista la posizione di fuori corso.   
+Per l'esame finale di diploma le allieve che hanno superato gli esami di tutti gli insegnamenti prescritti, nonche' le prove pratiche previste, sono ammesse a sostenere l'esame finale di diploma.   
+La commissione per gli esami di profitto e' nominata dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola, presidente, da un professore ufficiale di materie affini e da un libero docente cultore della materia.   
+L'esame finale di diploma di igienista dentale consiste in un colloquio su un tema preventivamente assegnato dal direttore della scuola dinanzi ad una commissione di cinque membri, composta dal direttore della scuola e da quattro altri insegnanti della scuola nominati dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola.   
+Le iscritte alla scuola sono tenute al pagamento delle seguenti tasse:   
+tassa annuale di iscrizione .............. L. 50.000   
+soprattassa annuale d'esami .............. L. 15.000   
+tassa di diploma ......................... L. 6.000   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 gennaio 1969
+### Dato a Roma, addi' 30 maggio 1978
 
-SARAGAT SULLO
+LEONE PEDINI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 22 marzo 1969
+Registrato alla Corte dei conti, addi' 13 ottobre 1978
 
-Atti del Governo, registro n. 225, foglio n. 164. - GRECO
+Registro n. 109 Istruzione, foglio n. 228

@@ -1,68 +1,76 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1010
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 ottobre 1967 n. 1075
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1010
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 ottobre 1967 n. 1075
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Veduto l'[art. 16 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art16);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Firenze e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Lo statuto dell'Universita' di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' suddetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Art. 265 - l'ultimo comma e' sostituito dal seguente:  
-Per essere ammessi a frequentare il primo anno di ciascuna scuola di specializzazione occorre aver superato dinanzi ad una commissione di tre membri, presieduta dal direttore della scuola, un concorso per titoli ed esame (che potra' consistere in prove scritte e/o orali, a scelta del direttore) diretto ad accertare la cultura medico-chirurgica del candidato.  
+Decreta:  
   
-Art. 267 - e' sostituito dal seguente:  
-Non sono consentite abbreviazioni di corso.  
+Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 269 - il primo comma e' sostituito dal seguente:  
-Al termine di ogni anno di corso l'iscritto dovra' sostenere gli esami speciali prescritti dal regolamento della scuola dinanzi ad una commissione di almeno tre membri. In caso di mancato superamento degli esami non puo' aversi l'iscrizione all'anno successivo.  
+Dopo l'art. 267 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione, presso la facolta' di medicina e chirurgia, della scuola di specializzazione in allergologia.  
+Scuola di specializzazione in allergologia  
+Art. 268. - Presso l'istituto di patologia speciale medica e metodologia clinica dell'Universita' di Firenze e' istituita una scuola di specializzazione in allergologia.  
+Art. 269. - La durata del corso degli studi per il conseguimento del diploma di specializzazione in allergologia e' di tre anni.  
+Possono ottenere l'iscrizione alla scuola, previo esame di ammissione, i laureati in medicina e chirurgia.  
+Il numero dei posti disponibili per gli allievi e' di 20 per ciascun anno di corso. Il numero degli allievi e' valutato in base all'attivita' scientifica e pratica nel campo allergologico che si svolge nell'istituto di patologia speciale medica e metodologia clinica dell'Universita' di Firenze.  
+Al corso si accede superando una prova scritta o orale.  
+Potranno eventualmente ottenere un'abbreviazione di corso coloro i quali sono in possesso di speciali titoli.  
+Art. 270. - Le lezioni saranno integrate da esercitazioni e dimostrazioni pratiche nei reparti e nei laboratori dell'istituto di patologia speciale medica IL.  
+Al termine di ogni anno di corso gli allievi dovranno sostenere un esame di profitto sulle materie che sono oggetto di insegnamento.  
+Art. 271. - Per il conseguimento del diploma di specializzazione gli allievi dovranno sostenere davanti alla apposita commissione la discussione di una tesi scritta su un argomento di allergologia.  
+Art. 272. - La direzione della scuola e' affidata al direttore dell'istituto di patologia speciale medica e metodologia clinica II.  
+Art. 273. - Le tasse e soprattasse sono quelle stabilite dalla facolta' di medicina e chirurgia dell'Universita' di Firenze. La tassa di diploma e' di L. 6000 ai sensi della [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551).  
+Art. 274. - Le materie di insegnamento sono cosi' suddivise nei tre anni di corso:  
   
-Art. 271 - il primo comma e' sostituito dal seguente:  
-La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
+1° Anno:  
+Basi immunologiche e patogenesi dell'allergia;  
+Istopatologia generale;  
+La patologia allergica in riferimento ai diversi agenti etiologici;  
+La patologia autoimmune;  
+Semeiotica e diagnostica allergologica.  
+  
+2° Anno:  
+Basi immunologiche e patogenesi dell'allergia;  
+Semeiotica e diagnostica allergologica;  
+Patologia dell'allergia dell'apparato respiratorio;  
+Allergia e otorinolaringoiatria;  
+Le malattie cutanee e patogenesi allergica.  
+  
+3° Anno:  
+Clinica dell'allergia dell'apparato respiratorio;  
+Allergia ed apparato digerente;  
+Allergia ed altri organi ed apparati;  
+La terapia specifica e aspecifica delle sindromi allergiche;  
+Allergopatie professionali.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1981
+### Dato a Roma, addi' 17 ottobre 1967
 
-PERTINI BODRATO
+SARAGAT GUI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 22 febbraio 1982
+Registrato alla Corte dei conti, addi' 18 novembre 1967
 
-Registro n. 28 Istruzione, foglio n. 88
+Atti del Governo, registro n. 215, foglio n. 11. - GRECO

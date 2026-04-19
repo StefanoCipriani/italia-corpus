@@ -1,18 +1,124 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1973 n. 1159
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 settembre 1955 n. 956
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1973 n. 1159
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 settembre 1955 n. 956
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regi decreti 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-12;2227); [4 settembre 1930, n. 1312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-09-04;1312); [1 ottobre 1931, n. 1778](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1778); [27 ottobre 1932, n. 2092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2092); [6 dicembre 1934, n. 2394](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2394); [1 ottobre 1936, n. 2502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2502); [12 maggio 1939, n. 1315](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-05-12;1315); [5 ottobre 1939, n. 1644](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1644); [11 luglio 1941, n. 848](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-07-11;848); [18 luglio 1942, n. 928; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-07-18;928) [16 maggio 1947, n. 694, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-05-16;694) [22 febbraio 1948, n. 414](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-02-22;414); [30 luglio 1950, n. 1268](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-07-30;1268); [31 ottobre 1950, n. 1307](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1307); [5 agosto 1951, n. 1311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-05;1311); [27 ottobre 1951; n. 1792](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1792); [3 ottobre 1952, n. 4541](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-03;4541); [11 marzo 1953,n. 545](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;545); [12 maggio 1953, n. 547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-05-12;547); [30 giugno 1954, n. 742](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-30;742); [30 giugno 1954, n. 755](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-30;755); [14 agosto 1954, n. 862](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-08-14;862); [14 settembre 1954, n. 1231](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1231); [29 ottobre 1954, n. 1319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-29;1319); [29 ottobre 1954, n. 1457](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-29;1457); [1 marzo 1955, n. 222](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-03-01;222) e [24 luglio 1955, n. 799](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-24;799);
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Dopo l'art. 125, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione del "corso di specializzazione in scienze amministrative" con il conseguente spostamento della numerazione degli articoli successivi.
+
+Corso di specializzazione in scienze amministrative
+
+Art. 126. - Alla Facolta' di giurisprudenza e' annesso un corso di specializzazione in scienze amministrative.
+
+Art. 127. - Il corso ha lo scopo di conferire una preparazione specializzata agli aspiranti alle carriere burocratiche pubbliche.
+
+Ad esso possono essere iscritti i laureati in giurisprudenza, in economia e commercio, in scienze politiche.
+
+Art. 128. - Il direttore del corso post-universitario di specializzazione in scienze amministrative e' nominato per un triennio dal rettore fra i professori ordinari, anche fuori ruolo, della Facolta' di giurisprudenza, su proposta del Consiglio della facolta' medesima ed e' rieleggibile.
+
+Il Consiglio dei professori e' costituito da tutti i docenti che impartiscono un insegnamento.
+
+Art. 129. - Il corso ha la durata di un anno e comprende i seguenti insegnamenti:
+
+Insegnamenti fondamentali:
+
+A - 1) Gli istituiti ed i principi fondamentali dei diritto amministrativo;
+
+2) La responsabilita' della pubblica Amministrazione e dei pubblici amministratori;
+
+3) Gli istituti ed i principi fondamentali dello ordinamento della giustizia amministrativa in Italia, con cenni di diritto comparato;
+
+4) La Regione, gli Enti autarchici territoriali ed istituzionali; loro rapporto con lo Stato;
+
+5) Il rapporto di pubblico impiego. Esposizione della disciplina di tale rapporto per gli impiegati civili dello Stato e degli Enti autarchici territoriali ed istituzionali per le Forze armate, per le Forze di polizia;
+
+6) La finanza e contabilita' dello Stato e degli Enti pubblici territoriali, loro rapporto con lo Stato.
+
+B - La tecnica amministrativa:
+
+1) La metodologia del lavoro nella pubblica Amministrazione;
+
+2) Gli strumenti dell'azione amministrativa;
+
+3) Le relazioni umane (interne ed esterne) nella pubblica Amministrazione;
+
+4) La funzione direttiva nella pubblica Amministrazione.
+
+Insegnamenti complementari:
+
+1) La polizia, l'igiene e sanita', l'assistenza;
+
+2) Il lavoro e la previdenza sociale;
+
+3) L'agricoltura, l'industria ed il commercio;
+
+4) La finanza pubblica, il credito e le assicurazioni;
+
+5) I lavori pubblici;
+
+6) I trasporti e le comunicazioni;
+
+7) La difesa nazionale;
+
+8) La pubblica istruzione, le arti e le scienze;
+
+9) Lo spettacolo, le ricreazioni, il turismo, lo sport e la gioventu'.
+
+Art. 130. - I corsi di lezioni saranno completati da esercitazioni pratiche e da visite ai principali uffici pubblici amministrativi, e da conferenze che potranno essere affidate anche a docenti estranei alla scuola e ad eminenti cultori, italiani e stranieri, delle discipline amministrative.
+
+Art. 131. - Le date d'inizio e di termine delle lezioni sono stabilite dal Consiglio dei professori, il quale predispone anche l'ordinamento e la successione dei corsi, graduandoli nel modo piu' confacente ai fini didattici.
+
+Art. 132. - Il Consiglio dei professori compilera' il regolamento di esecuzione delle presenti norme statutarie.
+
+Art. 133. - Al termine del corso verra' rilasciato agli iscritti, che abbiano sostenuto un colloquio su tutte le materie obbligatorie e su due complementari a loro scelta, un attestato di frequenza e di profitto.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 21 settembre 1955
+
+GRONCHI
+
+ROSSI
+
+Visto, il Guardasigilli: MORO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 28 ottobre 1955 Atti del Governo, registro n. 93, foglio n. 96. - CARLOMAGNO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regi decreti 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-12;2227); [4 settembre 1930, n. 1312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-09-04;1312); [1 ottobre 1931, n. 1778](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1778); [27 ottobre 1932, n. 2092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2092); [6 dicembre 1934, n. 2394](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2394); [1 ottobre 1936, n. 2502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2502); [12 maggio 1939, n. 1315](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-05-12;1315); [5 ottobre 1939, n. 1644](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1644); [11 luglio 1941, n. 848](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-07-11;848); [18 luglio 1942, n. 928; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-07-18;928) [16 maggio 1947, n. 694, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-05-16;694) [22 febbraio 1948, n. 414](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-02-22;414); [30 luglio 1950, n. 1268](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-07-30;1268); [31 ottobre 1950, n. 1307](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1307); [5 agosto 1951, n. 1311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-05;1311); [27 ottobre 1951; n. 1792](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1792); [3 ottobre 1952, n. 4541](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-03;4541); [11 marzo 1953,n. 545](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;545); [12 maggio 1953, n. 547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-05-12;547); [30 giugno 1954, n. 742](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-30;742); [30 giugno 1954, n. 755](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-30;755); [14 agosto 1954, n. 862](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-08-14;862); [14 settembre 1954, n. 1231](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1231); [29 ottobre 1954, n. 1319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-29;1319); [29 ottobre 1954, n. 1457](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-29;1457); [1 marzo 1955, n. 222](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-03-01;222) e [24 luglio 1955, n. 799](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-24;799);  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
@@ -25,52 +131,53 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Dopo l'art. 594, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in "Chirurgia dell'infanzia".  
+Dopo l'art. 125, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione del "corso di specializzazione in scienze amministrative" con il conseguente spostamento della numerazione degli articoli successivi.  
   
-Scuola di specializzazione in chirurgia dell'infanzia  
+Corso di specializzazione in scienze amministrative  
   
-Art. 595. - Presso la facolta' di medicina e chirurgia dell'Universita' di Bologna e' istituita la scuola di specializzazione in chirurgia dell'infanzia, della durata di due anni, che conferisce il diploma di specialista in chirurgia dell'infanzia.  
-Art. 596. - Possono ottenere l'iscrizione alla scuola i laureati in medicina e chirurgia che siano in possesso del diploma di specializzazione in chirurgia generale, o abbiano conseguito la libera docenza in clinica chirurgica, o patologia chirurgica, o semeiotica chirurgica, o anatomia chirurgica, o chirurgia pediatrica.  
-Non e' ammessa abbreviazione di corso.  
-Art. 597. - Il numero degli iscritti alla scuola e' di quattro per anno di corso.  
-Qualora il numero degli aspiranti superi quello stabilito, l'ammissione sara' subordinata ad una prova di esame orale.  
-Art. 598. - Il corso si compone di insegnamenti fondamentali e di conferenze su argomenti speciali, oltre ad un periodo di internato obbligatorio di almeno sei mesi per ogni anno di corso.  
-Il periodo di internato potra' essere abbreviato per coloro che documentino di svolgere effettivo servizio presso reparti di chirurgia pediatrica universitari e ospedalieri.  
-Art. 599. - Le materie d'insegnamento sono le seguenti:  
-  
-1° Anno:  
-Anatomia patologica e teratologia (lezioni);  
-Endocrinologia infantile (conferenze);  
-Clinica pediatrica (biennale-lezioni);  
-Clinica chirurgica pediatrica (biennale-lezioni);  
-Patologia chirurgica e semeiotica chirurgica (lezioni);  
-Diagnostica radiologica e nucleare delle malattie chirurgiche dell'infanzia (lezioni);  
-Anestesiologia e rianimazione (lezioni).  
-  
-2° Anno:  
-Clinica pediatrica (biennale-lezioni);  
-Clinica chirurgica pediatrica (biennale-lezioni);  
-Chirurgia d'urgenza nell'infanzia (lezioni);  
-Otorinolaringoiatria nell'infanzia (conferenze);  
-Ortopedia nell'infanzia (conferenze);  
-Urologia nell'infanzia (conferenze);  
-Neurochirurgia infantile (conferenze);  
-Chirurgia del cuore e dei grossi vasi (conferenze).  
-  
-Art. 600. - La frequenza alle lezioni e alle conferenze e' obbligatoria.  
-Al termine di ciascun anno accademico gli specializzandi che abbiano ottenuto le firme di frequenza dovranno sostenere gli esami di profitto nelle materie oggetto di insegnamento, in un unico gruppo.  
-Al termine del corso di specializzazione gli specializzandi dovranno presentare una dissertazione scritta su argomento di chirurgia infantile e sostenere l'esame di diploma.  
+Art. 126. - Alla Facolta' di giurisprudenza e' annesso un corso di specializzazione in scienze amministrative.  
+Art. 127. - Il corso ha lo scopo di conferire una preparazione specializzata agli aspiranti alle carriere burocratiche pubbliche.  
+Ad esso possono essere iscritti i laureati in giurisprudenza, in economia e commercio, in scienze politiche.  
+Art. 128. - Il direttore del corso post-universitario di specializzazione in scienze amministrative e' nominato per un triennio dal rettore fra i professori ordinari, anche fuori ruolo, della Facolta' di giurisprudenza, su proposta del Consiglio della facolta' medesima ed e' rieleggibile.  
+Il Consiglio dei professori e' costituito da tutti i docenti che impartiscono un insegnamento.  
+Art. 129. - Il corso ha la durata di un anno e comprende i seguenti insegnamenti:  
+Insegnamenti fondamentali:  
+A - 1) Gli istituiti ed i principi fondamentali dei diritto amministrativo;  
+2) La responsabilita' della pubblica Amministrazione e dei pubblici amministratori;  
+3) Gli istituti ed i principi fondamentali dello ordinamento della giustizia amministrativa in Italia, con cenni di diritto comparato;  
+4) La Regione, gli Enti autarchici territoriali ed istituzionali; loro rapporto con lo Stato;  
+5) Il rapporto di pubblico impiego. Esposizione della disciplina di tale rapporto per gli impiegati civili dello Stato e degli Enti autarchici territoriali ed istituzionali per le Forze armate, per le Forze di polizia;  
+6) La finanza e contabilita' dello Stato e degli Enti pubblici territoriali, loro rapporto con lo Stato.  
+B - La tecnica amministrativa:  
+1) La metodologia del lavoro nella pubblica Amministrazione;  
+2) Gli strumenti dell'azione amministrativa;  
+3) Le relazioni umane (interne ed esterne) nella pubblica Amministrazione;  
+4) La funzione direttiva nella pubblica Amministrazione.  
+Insegnamenti complementari:  
+1) La polizia, l'igiene e sanita', l'assistenza;  
+2) Il lavoro e la previdenza sociale;  
+3) L'agricoltura, l'industria ed il commercio;  
+4) La finanza pubblica, il credito e le assicurazioni;  
+5) I lavori pubblici;  
+6) I trasporti e le comunicazioni;  
+7) La difesa nazionale;  
+8) La pubblica istruzione, le arti e le scienze;  
+9) Lo spettacolo, le ricreazioni, il turismo, lo sport e la gioventu'.  
+Art. 130. - I corsi di lezioni saranno completati da esercitazioni pratiche e da visite ai principali uffici pubblici amministrativi, e da conferenze che potranno essere affidate anche a docenti estranei alla scuola e ad eminenti cultori, italiani e stranieri, delle discipline amministrative.  
+Art. 131. - Le date d'inizio e di termine delle lezioni sono stabilite dal Consiglio dei professori, il quale predispone anche l'ordinamento e la successione dei corsi, graduandoli nel modo piu' confacente ai fini didattici.  
+Art. 132. - Il Consiglio dei professori compilera' il regolamento di esecuzione delle presenti norme statutarie.  
+Art. 133. - Al termine del corso verra' rilasciato agli iscritti, che abbiano sostenuto un colloquio su tutte le materie obbligatorie e su due complementari a loro scelta, un attestato di frequenza e di profitto.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Lussemburgo, ambasciata d'Italia, addi' 27 ottobre 1973
+### Dato a Roma, addi' 21 settembre 1955
 
-LEONE MALFATTI
+GRONCHI ROSSI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: MORO
 
-Registrato alla Corte dei conti, addi' 28 ottobre 1974
+Registrato alla Corte dei conti, addi' 28 ottobre 1955
 
-Atti di Governo, registro n. 6, foglio n. 72. - SCIARRETTA
+Atti del Governo, registro n. 93, foglio n. 96. - CARLOMAGNO

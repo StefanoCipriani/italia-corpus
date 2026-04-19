@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1977 n. 86
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1982 n. 228
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1977 n. 86
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1982 n. 228
+============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-86. Decreto del Presidente della Repubblica 21 gennaio 1977, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dal dott. Francesco Ambrosoli, con atto 24 settembre 1974, n. 40712 di repertorio, a rogito notaio Achille Pedraglio, di un appezzamento di terreno di mq 1500, sito in comune di Ronago (Como).  
+228. Decreto del Presidente della Repubblica 6 marzo 1982, col quale, sulla proposta del Ministro per i beni culturali ed ambientali, viene autorizzata l'accettazione a favore dello Stato della donazione disposta dal gr. uff. dott. Andrew Stanislaus Ciechanowiecki, con atto 1 ottobre 1979, n. 255/79 di repertorio, a rogito del console generale d'Italia a Londra, dott. Francesco Cardi, consistente in un dipinto di G.B. Wicar, raffigurante "Scene di storia antica", datato Roma 1827, della dimensione di cm 300 x 200, il quale riveste un importante interesse artistico, da destinare alla soprintendenza speciale alla Galleria nazionale d'arte moderna e contemporanea di Roma.   
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 26 marzo 1977  
-Registro n. 15 Finanze, foglio n. 323
+  
+Visto, il Guardasigilli: DARIDA   
+Registrato alla Corte dei conti, addi' 21 aprile 1982   
+Registro n. 11 Beni culturali, foglio n. 144

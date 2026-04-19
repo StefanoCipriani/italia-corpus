@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 luglio 1975 n. 487
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1977 n. 474
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 luglio 1975 n. 487
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1977 n. 474
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836), e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,7 +20,7 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio superiore della pubblica istruzione;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -30,177 +30,306 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Dopo l'art. 124 sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in chirurgia vascolare.
+Art. 136 - il quarto comma relativo alla scuola di specializzazione in psichiatria e' abrogato.
 
-Scuola di specializzazione in chirurgia vascolare
+L'art. 137, relativo alla scuola in psichiatria, e' integrato dal comma seguente:
 
-Art. 125. - E' istituita presso l'istituto di semeiotica chirurgica dell'Universita' di Trieste la scuola di specializzazione in chirurgia vascolare.
-
-Art. 126. - La durata del corso di studi per il conseguimento del diploma in chirurgia vascolare e' di 3 anni.
-
-Art. 127. - Alla scuola sono ammessi i laureati in medicina e chirurgia. Il numero degli iscritti e' stabilito in nove per l'intero corso (tre per anno di corso).
-
-Art. 128. - Non saranno consentite abbreviazioni di corsi e iscrizioni contemporanee ad altre specializzazioni. Per l'ammissione agli esami sara' obbligatoria la frequenza alle lezioni e alle esercitazioni pratiche. Il superamento degli esami di ciascun anno sara' condizione indispensabile per l'iscrizione all'anno successivo.
-
-Alla fine del corso per l'ottenimento del diploma il candidato dovra' presentare una dissertazione scritta in sede di diploma e dovra' sostenere una prova clinica.
-
-Art. 129. - Gli insegnamenti previsti dalla scuola sono i seguenti: 1° Anno:
-
-1) Embriologia e anatomia macro e microscopica dell'apparato vascolare;
-
-2) Fisiopatologia dell'apparato vascolare e della coagulazione sanguigna;
-
-3) Anatomia patologica dell'apparato vascolare;
-
-4) Semeiologia fisica e strumentale delle malattie vascolari;
-
-5) Semeiologia radiologica delle malattie vascolari;
-
-6) Vasculopatie di interesse medico e specialistico.
-
-2° Anno:
-
-1) Patologia e clinica delle malattie del sistema arterioso;
-
-2) Patologia e clinica delle malattie del sistema venoso;
-
-3) Patologia e clinica delle malattie del sistema linfatico;
-
-4) Patologia e clinica delle malattie dei piccoli vasi.
-
-3° Anno:
-
-1) Nozioni di terapia medica delle malattie vascolari;
-
-2) Emodinamica in anestesia (complementare);
-
-3) Terapia intensiva delle vasculopatie (complementare);
-
-4) Terapia chirurgica delle malattie vascolari;
-
-5) Chirurgia vascolare applicata a malattie dei vari organi.
-
-Art. 130. - Per quanto riguarda le iscrizioni e le domande di immatricolazione i candidati sono tenuti a seguire le norme di ammissione alle scuole di specializzazione della facolta' di medicina e chirurgia della Universita' di Trieste.
-
-Le tasse, soprattasse e contributi in particolare saranno i seguenti:
+Le tasse, soprattasse e contributi che gli iscritti sono tenuti a versare sono fissate come segue:
 
 1° Anno Anni successivi
 
-Tassa di immatricolazione.... L. 5.000 -
+Tassa di immatricolazione ................. 5.000 -
 
-Costo libretto d'iscrizione.. " 1.000 -
+Costo libretto iscrizione e tesserino ..... 1.500 -
 
-Tassa annuale d'iscrizione.. " 100.000 L. 100.000
+Tassa annuale di iscrizione ............... 100.000 100.000
 
-Soprattassa esami di profitto " 7.000 " 7.000
+Soprattassa esami profitto ................ 7.000 7.000
 
-Contributo opere sportive e
+Contributo opere sportive assistenziali ... 1.000 1.000
 
-assistenziali.............. " 1.000 " 1.000
+Contributo di biblioteca .................. 10.000 10.000
 
-Contributo di biblioteca..... " 10.000 " 10.000
+Contributo clinica e laboratorio .......... 48.000 48.000
 
-Contributo clinica e labora-
+Prestazioni di segreteria ................. 3.000 3.000
 
-torio...................... " 48.000 " 48.000
+Contributo di riscaldamento ............... 3.000 3.000
 
-Prestazione di segreteria.... " 3.000 " 3.000
+------- -------
 
-Contributo di riscaldamento.. " 3.000 " 3.000
+178.500 172.000
+
+L'art. 140, secondo comma, relativo alla scuola di specializzazione in igiene e medicina preventiva, e' modificato nel senso che il numero degli iscritti al 1° anno e' fissato in 15 per ogni indirizzo.
+
+L'art. 143, primo comma, relativo alla scuola di specializzazione in oculistica, e' modificato nel senso che il numero degli iscritti da ammettere alla scuola e' fissato in 5 per ogni anno di corso.
+
+Art. 146 - il quarto comma relativo alla scuola di specializzazione in neurologia e' soppresso.
+
+Lo stesso articolo e' integrato con il comma seguente:
+
+Le tasse e soprattasse che gli iscritti sono tenuti a versare sono fissati come segue:
+
+1° Anno Anni successivi
+
+Tassa di immatricolazione ................. 5.000 -
+
+Costo libretto iscrizione e tesserino ..... 1.500 -
+
+Tassa annuale di iscrizione ............... 100.000 100.000
+
+Soprattassa esami profitto ................ 7.000 7.000
+
+Contributo opere sportive assistenziali ... 1.000 1.000
+
+Contributo di biblioteca .................. 10.000 10.000
+
+Contributo clinica e laboratorio .......... 48.000 48.000
+
+Prestazioni di segreteria ................. 3.000 3.000
+
+Contributo di riscaldamento ............... 3.000 3.000
+
+------- -------
+
+178.500 172.000
+
+L'art. 147, settimo comma, relativo alla scuola di specializzazione in ostetricia e ginecologia e' modificato nel senso che il numero degli iscritti alla scuola e' fissato in dieci per ogni anno di corso.
+
+L'art. 153 e' modificato nel senso che la scuola di specializzazione in chirurgia muta la denominazione in quella di chirurgia generale.
+
+L'art. 154, relativo alla scuola di specializzazione in chirurgia generale viene integrato nel modo seguente:
+
+Le tasse e soprattasse che gli iscritti sono tenuti a versare sono fissate come segue:
+
+1° Anno Anni successivi
+
+Tassa di immatricolazione ................. 5.000 -
+
+Costo libretto iscrizione e tesserino ..... 1.500 -
+
+Tassa annuale di iscrizione ............... 100.000 100.000
+
+Soprattassa esami profitto ................ 7.000 7.000
+
+Contributo opere sportive assistenziali ... 1.000 1.000
+
+Contributo di biblioteca .................. 10.000 10.000
+
+Contributo clinica e laboratorio .......... 48.000 48.000
+
+Prestazioni di segreteria ................. 3.000 3.000
+
+Contributo di riscaldamento ............... 3.000 3.000
+
+------- -------
+
+178.500 172.000
+
+L'art. 164 e' modificato nel senso che la scuola di specializzazione in otorinolaringoiatria e patologia cervicofacciale muta la denominazione in quella di otorinolaringoiatria.
+
+Allo stesso articolo il settimo comma e' abrogato e sostituito dal seguente:
+
+Le tasse e soprattasse che gli iscritti sono tenuti a versare sono fissate come segue:
+
+1° Anno Anni successivi
+
+Tassa di immatricolazione ................. 5.000 -
+
+Costo libretto iscrizione e tesserino ..... 1.500 -
+
+Tassa annuale di iscrizione ............... 100.000 100.000
+
+Soprattassa esami profitto ................ 7.000 7.000
+
+Contributo opere sportive assistenziali ... 1.000 1.000
+
+Contributo di biblioteca .................. 10.000 10.000
+
+Contributo clinica e laboratorio .......... 48.000 48.000
+
+Prestazioni di segreteria ................. 3.000 3.000
+
+Contributo di riscaldamento ............... 3.000 3.000
+
+------- -------
+
+178.500 172.000
+
+L'art. 168, relativo alla scuola di specializzazione in chirurgia vascolare, e' modificato nel senso che il numero degli iscritti da ammettere alla scuola e' fissato in sei per anno di corso.
+
+L'art. 172 e' modificato nel senso che la scuola di specializzazione in terapia fisica e riabilitazione muta la denominazione in quella di fisioterapia.
+
+Lo stesso articolo e' integrato con il comma seguente:
+
+Le tasse e soprattasse che gli iscritti sono tenuti a versare sono fissate come segue:
+
+1° Anno Anni successivi
+
+Tassa di immatricolazione ................. 5.000 -
+
+Costo libretto iscrizione e tesserino ..... 1.500 -
+
+Tassa annuale di iscrizione ............... 100.000 100.000
+
+Soprattassa esami profitto ................ 7.000 7.000
+
+Contributo opere assistenziali ............ 1.000 1.000
+
+Contributo di biblioteca .................. 10.000 10.000
+
+Contributo clinica e laboratorio .......... 48.000 48.000
+
+Prestazioni di segreteria ................. 3.000 3.000
+
+Contributo di riscaldamento ............... 3.000 3.000
+
+------- -------
+
+178.500 172.000
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 9 luglio 1975
+Dato a Roma, addi' 10 febbraio 1977
 
 LEONE
 
 MALFATTI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BONIFACIO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 9 ottobre 1975 Atti di Governo, registro n. 13, foglio n. 1
+alla Corte dei conti, addi' 26 luglio 1977 Registro n. 86 Istruzione, foglio n. 156
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836), e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio superiore della pubblica istruzione;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 136 - il quarto comma relativo alla scuola di specializzazione in psichiatria e' abrogato.   
+L'art. 137, relativo alla scuola in psichiatria, e' integrato dal comma seguente:   
+Le tasse, soprattasse e contributi che gli iscritti sono tenuti a versare sono fissate come segue:   
   
-Dopo l'art. 124 sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in chirurgia vascolare.  
   
-Scuola di specializzazione in chirurgia vascolare  
-  
-Art. 125. - E' istituita presso l'istituto di semeiotica chirurgica dell'Universita' di Trieste la scuola di specializzazione in chirurgia vascolare.  
-Art. 126. - La durata del corso di studi per il conseguimento del diploma in chirurgia vascolare e' di 3 anni.  
-Art. 127. - Alla scuola sono ammessi i laureati in medicina e chirurgia. Il numero degli iscritti e' stabilito in nove per l'intero corso (tre per anno di corso).  
-Art. 128. - Non saranno consentite abbreviazioni di corsi e iscrizioni contemporanee ad altre specializzazioni. Per l'ammissione agli esami sara' obbligatoria la frequenza alle lezioni e alle esercitazioni pratiche. Il superamento degli esami di ciascun anno sara' condizione indispensabile per l'iscrizione all'anno successivo.  
-Alla fine del corso per l'ottenimento del diploma il candidato dovra' presentare una dissertazione scritta in sede di diploma e dovra' sostenere una prova clinica.  
-Art. 129. - Gli insegnamenti previsti dalla scuola sono i seguenti: 1° Anno:  
-1) Embriologia e anatomia macro e microscopica dell'apparato vascolare;  
-2) Fisiopatologia dell'apparato vascolare e della coagulazione sanguigna;  
-3) Anatomia patologica dell'apparato vascolare;  
-4) Semeiologia fisica e strumentale delle malattie vascolari;  
-5) Semeiologia radiologica delle malattie vascolari;  
-6) Vasculopatie di interesse medico e specialistico.  
-2° Anno:  
-1) Patologia e clinica delle malattie del sistema arterioso;  
-2) Patologia e clinica delle malattie del sistema venoso;  
-3) Patologia e clinica delle malattie del sistema linfatico;  
-4) Patologia e clinica delle malattie dei piccoli vasi.  
-3° Anno:  
-1) Nozioni di terapia medica delle malattie vascolari;  
-2) Emodinamica in anestesia (complementare);  
-3) Terapia intensiva delle vasculopatie (complementare);  
-4) Terapia chirurgica delle malattie vascolari;  
-5) Chirurgia vascolare applicata a malattie dei vari organi.  
-Art. 130. - Per quanto riguarda le iscrizioni e le domande di immatricolazione i candidati sono tenuti a seguire le norme di ammissione alle scuole di specializzazione della facolta' di medicina e chirurgia della Universita' di Trieste.  
-Le tasse, soprattasse e contributi in particolare saranno i seguenti:  
 1° Anno Anni successivi   
-Tassa di immatricolazione.... L. 5.000 -  
+Tassa di immatricolazione ................. 5.000 -  
+Costo libretto iscrizione e tesserino ..... 1.500 -  
+Tassa annuale di iscrizione ............... 100.000 100.000  
+Soprattassa esami profitto ................ 7.000 7.000  
+Contributo opere sportive assistenziali ... 1.000 1.000  
+Contributo di biblioteca .................. 10.000 10.000  
+Contributo clinica e laboratorio .......... 48.000 48.000  
+Prestazioni di segreteria ................. 3.000 3.000  
+Contributo di riscaldamento ............... 3.000 3.000  
+------- -------  
+178.500 172.000  
   
-Costo libretto d'iscrizione.. " 1.000 -  
   
-Tassa annuale d'iscrizione.. " 100.000 L. 100.000  
+L'art. 140, secondo comma, relativo alla scuola di specializzazione in igiene e medicina preventiva, e' modificato nel senso che il numero degli iscritti al 1° anno e' fissato in 15 per ogni indirizzo.   
+L'art. 143, primo comma, relativo alla scuola di specializzazione in oculistica, e' modificato nel senso che il numero degli iscritti da ammettere alla scuola e' fissato in 5 per ogni anno di corso.   
+Art. 146 - il quarto comma relativo alla scuola di specializzazione in neurologia e' soppresso.   
+Lo stesso articolo e' integrato con il comma seguente:   
+Le tasse e soprattasse che gli iscritti sono tenuti a versare sono fissati come segue:   
   
-Soprattassa esami di profitto " 7.000 " 7.000  
   
-Contributo opere sportive e  
-assistenziali.............. " 1.000 " 1.000  
+1° Anno Anni successivi  
   
-Contributo di biblioteca..... " 10.000 " 10.000  
+Tassa di immatricolazione ................. 5.000 -  
+Costo libretto iscrizione e tesserino ..... 1.500 -  
+Tassa annuale di iscrizione ............... 100.000 100.000  
+Soprattassa esami profitto ................ 7.000 7.000  
+Contributo opere sportive assistenziali ... 1.000 1.000  
+Contributo di biblioteca .................. 10.000 10.000  
+Contributo clinica e laboratorio .......... 48.000 48.000  
+Prestazioni di segreteria ................. 3.000 3.000  
+Contributo di riscaldamento ............... 3.000 3.000  
+------- -------  
+178.500 172.000  
   
-Contributo clinica e labora-  
-torio...................... " 48.000 " 48.000  
   
-Prestazione di segreteria.... " 3.000 " 3.000  
+L'art. 147, settimo comma, relativo alla scuola di specializzazione in ostetricia e ginecologia e' modificato nel senso che il numero degli iscritti alla scuola e' fissato in dieci per ogni anno di corso.   
+L'art. 153 e' modificato nel senso che la scuola di specializzazione in chirurgia muta la denominazione in quella di chirurgia generale.   
+L'art. 154, relativo alla scuola di specializzazione in chirurgia generale viene integrato nel modo seguente:   
+Le tasse e soprattasse che gli iscritti sono tenuti a versare sono fissate come segue:   
   
-Contributo di riscaldamento.. " 3.000 " 3.000  
+  
+1° Anno Anni successivi   
+Tassa di immatricolazione ................. 5.000 -  
+Costo libretto iscrizione e tesserino ..... 1.500 -  
+Tassa annuale di iscrizione ............... 100.000 100.000  
+Soprattassa esami profitto ................ 7.000 7.000  
+Contributo opere sportive assistenziali ... 1.000 1.000  
+Contributo di biblioteca .................. 10.000 10.000  
+Contributo clinica e laboratorio .......... 48.000 48.000  
+Prestazioni di segreteria ................. 3.000 3.000  
+Contributo di riscaldamento ............... 3.000 3.000  
+------- -------  
+178.500 172.000  
+  
+  
+L'art. 164 e' modificato nel senso che la scuola di specializzazione in otorinolaringoiatria e patologia cervicofacciale muta la denominazione in quella di otorinolaringoiatria.   
+Allo stesso articolo il settimo comma e' abrogato e sostituito dal seguente:   
+Le tasse e soprattasse che gli iscritti sono tenuti a versare sono fissate come segue:   
+  
+  
+1° Anno Anni successivi   
+Tassa di immatricolazione ................. 5.000 -  
+Costo libretto iscrizione e tesserino ..... 1.500 -  
+Tassa annuale di iscrizione ............... 100.000 100.000  
+Soprattassa esami profitto ................ 7.000 7.000  
+Contributo opere sportive assistenziali ... 1.000 1.000  
+Contributo di biblioteca .................. 10.000 10.000  
+Contributo clinica e laboratorio .......... 48.000 48.000  
+Prestazioni di segreteria ................. 3.000 3.000  
+Contributo di riscaldamento ............... 3.000 3.000  
+------- -------  
+178.500 172.000  
+  
+  
+L'art. 168, relativo alla scuola di specializzazione in chirurgia vascolare, e' modificato nel senso che il numero degli iscritti da ammettere alla scuola e' fissato in sei per anno di corso.   
+L'art. 172 e' modificato nel senso che la scuola di specializzazione in terapia fisica e riabilitazione muta la denominazione in quella di fisioterapia.   
+Lo stesso articolo e' integrato con il comma seguente:   
+Le tasse e soprattasse che gli iscritti sono tenuti a versare sono fissate come segue:   
+  
+  
+1° Anno Anni successivi   
+Tassa di immatricolazione ................. 5.000 -  
+Costo libretto iscrizione e tesserino ..... 1.500 -  
+Tassa annuale di iscrizione ............... 100.000 100.000  
+Soprattassa esami profitto ................ 7.000 7.000  
+Contributo opere assistenziali ............ 1.000 1.000  
+Contributo di biblioteca .................. 10.000 10.000  
+Contributo clinica e laboratorio .......... 48.000 48.000  
+Prestazioni di segreteria ................. 3.000 3.000  
+Contributo di riscaldamento ............... 3.000 3.000  
+------- -------  
+178.500 172.000  
+  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 luglio 1975
+### Dato a Roma, addi' 10 febbraio 1977
 
 LEONE MALFATTI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 9 ottobre 1975
+Registrato alla Corte dei conti, addi' 26 luglio 1977
 
-Atti di Governo, registro n. 13, foglio n. 1
+Registro n. 86 Istruzione, foglio n. 156

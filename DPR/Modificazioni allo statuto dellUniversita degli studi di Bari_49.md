@@ -1,106 +1,124 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 febbraio 1981 n. 1134
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 ottobre 1969 n. 1296
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 febbraio 1981 n. 1134
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 ottobre 1969 n. 1296
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Il testo dell'art. 31, relativo al corso di laurea in lettere, e' modificato nel senso che all'elenco degli insegnamenti complementari sono aggiunti i seguenti:  
-archeologia della Magna Grecia;  
-didattica del latino;  
-epigrafia latina;  
-metrica greca e latina;  
-storia della storiografia;  
-storia del teatro greco e latino;  
-storia del teatro latino medievale e umanistico;  
-filologia italiana;  
-letteratura ispano americana;  
-letteratura teatrale italiana;  
-linguistica generale;  
-storia della lingua inglese;  
-storia e critica del cinema;  
-teoria e storia dei generi letterari;  
-metodologia e tecniche dello scavo;  
-diplomatica e scienze ausiliarie della storia;  
-geografia economica;  
-museologia;  
-paleografia latina;  
-storia agraria;  
-storia americana;  
-storia del giornalismo;  
-storia della fotografia;  
-storia dell'urbanistica;  
-storia delle istituzioni politiche;  
-storia delle istituzioni religiose nell'eta' moderna e contemporanea;  
-storia del mondo islamico;  
-storia del movimento cattolico;  
-storia del movimento operaio;  
-storia economica e sociale del medioevo;  
-storia e tecnica del restauro;  
-storia religiosa del medioevo.  
-Nello stesso elenco l'insegnamento di archeologia e storia dell'arte greca e romana e' scisso nei due insegnamenti di "archeologia e storia dell'arte greca" e "archeologia e storia dell'arte romana".  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Il testo dell'art. 33, relativo al corso di laurea in filosofia, e' modificato nel senso che all'elenco degli insegnamenti complementari sono aggiunti i seguenti:  
-antropologia culturale;  
-filosofia della politica;  
-filosofia della religione;  
-logica;  
-religioni e filosofie dell'estremo Oriente;  
-religioni e filosofie dell'India;  
-semiotica;  
-sociologia dell'educazione;  
-sociologia urbana;  
-storia dell'estetica;  
-storia della filosofia araba;  
-storia della storiografia filosofica;  
-storia della tecnica.  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+Art. 26. - All'elenco degli insegnamenti complementari per il conseguimento del diploma in statistica sono aggiunti i seguenti:  
+Analisi matematica;  
+Geometria analitica;  
+Calcolo delle probabilita'.  
+Gli articoli 32 e 33, concernenti abbreviazioni di corso per i laureati di altri corsi di laurea che intendono iscriversi al corso di laurea in lettere, e gli articoli 36 e 37, concernenti abbreviazioni di corso per i laureati di altri corsi di laurea, che intendono iscriversi al corso di laurea in filosofia sono soppressi con il conseguente spostamento della numerazione degli articoli successivi.  
+Art. 59. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti quelli di "Neuropsichiatria infantile" e "Bioacustica".  
+Art. 62. - All'elenco degli istituti della facolta' di medicina e chirurgia e' aggiunto il seguente: "Istituto di semeiotica chirurgica".  
+Art. 80. - All'elenco degli insegnamenti complementari del corso di laurea in matematica, indirizzo generale, sono aggiunti i seguenti:  
+Analisi numerica;  
+Analisi non lineare;  
+Equazioni differenziali;  
+Magnetofluidodinamica;  
+Metodi di approssimazione;  
+Ricerca operativa (1);  
+Teoria dell'informazione (1);  
+Teoria dell'ottimizzazione (1).  
+Nello stesso elenco l'insegnamento di "Calcolo delle probabilita'" e' contraddistinto da una chiamata (1).  
+All'elenco degli insegnamenti complementari del corso di laurea in matematica, indirizzo didattico, sono aggiunti i seguenti:  
+Analisi numerica;  
+Analisi non lineare;  
+Equazioni differenziali;  
+Magnetofluidodinamica;  
+Metodi di approssimazione;  
+Ricerca operativa (1);  
+Teoria dell'informazione (1);  
+Teoria dell'ottimizzazione (1).  
+Nello stesso elenco l'insegnamento di "Calcolo delle probabilita'" e' contraddistinto da una chiamata (1).  
+All'elenco degli insegnamenti complementari del corso di laurea in matematica, indirizzo applicativo, sono aggiunti i seguenti:  
+Analisi non lineare;  
+Equazioni differenziali;  
+Magnetofluidodinamica;  
+Metodi di approssimazione;  
+Ricerca operativa (1);  
+Teoria dell'informazione (1);  
+Teoria dell'ottimizzazione (1).  
+Nello stesso elenco l'insegnamento di "Calcolo delle probabilita'" e' contraddistinto da una chiamata (1).  
+Nello stesso elenco l'insegnamento di cibernetica e teoria dell'informazione e' soppresso.  
+Gli insegnamenti contraddistinti dalla chiamata (1) hanno carattere ambivalente, sia fisico che matematico.  
+Gli insegnamenti contraddistinti con asterisco sono ad indirizzo fisico.  
+Art. 82. - All'elenco degli insegnamenti complementari del corso di laurea in fisica sono aggiunti i seguenti:  
+Algebra (\*);  
+Analisi dei sistemi;  
+Analisi numerica (\*);  
+Biofisica;  
+Biologia molecolare;  
+Calcolo delle probabilita' (1);  
+Calcolatori elettronici;  
+Cibernetica;  
+Elettronica quantistica;  
+Istituzioni di algebra (\*),  
+Istituzioni di analisi superiore (\*),  
+Istituzioni di fisica matematica (\*);  
+Logica matematica (\*);  
+Metodi di approssimazione (\*);  
+Metodi per il trattamento delle informazioni;  
+Metodi statistici;  
+Misure nucleari;  
+Ricerca operativa (1);  
+Teoria dei campi;  
+Teoria dei gruppi (per fisici);  
+Teoria dell'informazione (1).  
+Nello stesso articolo sono soppressi i seguenti insegnamenti complementari:  
+Acustica;  
+Calcolo delle probabilita' (\*);  
+Chimica teorica;  
+Cibernetica e teoria dell'informazione;  
+Conduzione elettrica nei gas;  
+Elettrotecnica;  
+Epistemologia e metodologia;  
+Fisica dei fluidi;  
+Fisica terrestre (geofisica);  
+Geodesia;  
+Geologia;  
+Mineralogia;  
+Ottica;  
+Semiconduttori;  
+Sismologia Strutturistica;  
+Tecnica del vuoto;  
+Teoria delle reazioni nucleari;  
+Termodinamica.  
+Gli insegnamenti contraddistinti dalla chiamata (1) hanno carattere ambivalente, sia fisico che matematico.  
+Gli insegnamenti contraddistinti con asterisco sono ad indirizzo matematico.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 febbraio 1981
+### Dato a Roma, addi' 15 ottobre 1969
 
-PERTINI BODRATO
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 24 aprile 1982
+Registrato alla Corte dei conti, addi' 22 aprile 1970
 
-Registro n. 58 Istruzione, foglio n. 174
+Atti del Governo, registro n. 234, foglio n. 196. - CARUSO

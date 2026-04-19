@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1976 n. 1053
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 giugno 1971 n. 963
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1976 n. 1053
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 giugno 1971 n. 963
+=============================================================
 
 Modificazioni alle circoscrizioni territoriali della Marina mercantile.
 -----------------------------------------------------------------------
@@ -10,113 +10,105 @@ Modificazioni alle circoscrizioni territoriali della Marina mercantile.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Visto il [decreto del Presidente della Repubblica 9 agosto 1956, n. 1250](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-08-09;1250) e successive modificazioni, che approva le tabelle delle circoscrizioni territoriali della Marina mercantile;
+Visto il [decreto del Presidente della Repubblica 9 agosto 1956, n. 1250](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-08-09;1250), e successive modificazioni, che approva la tabella delle circoscrizioni territoriali della Marina mercantile;
 
 Visto l'[art. 16 del codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327~art16), approvato con [regio decreto 30 marzo 1942, n. 327](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327);
 
 Visti gli articoli 1 e 2 del regolamento per l'esecuzione del [codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327) (navigazione marittima) approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-02-15;328);
 
-Attesa la necessita' di apportare alcune modifiche alle circoscrizioni territoriali della Marina mercantile;
-
 Udito il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per la marina mercantile, di concerto con i Ministri per la grazia e giustizia, per la difesa e per il tesoro;
 
-proposta del Ministro per la marina mercantile, di concerto con i Ministri per la grazia e giustizia, per la difesa e per il tesoro; Decreta:
+Attesa
+------
+
+la necessita' di apportare alcune modifiche alle circoscrizioni territoriali della Marina mercantile; Decreta:
 
 Art. 1
 ------
 
   
-L'ufficio locale marittimo di Arbatax viene elevato a circondario marittimo ed assume la denominazione di ufficio circondariale marittimo di Arbatax.  
+L'ufficio circondariale marittimo di Augusta viene elevato a capitaneria di porto ed assume la denominazione di capitaneria di porto di Augusta.  
 
 Art. 2
 ------
 
   
-  
-I limiti territoriali del circondario marittimo di Cagliari, in conseguenza della modificazione di cui allo art. 1, sono variati in conformita' alla tabella unita al presente decreto, firmata dai Ministri per la marina mercantile, per la grazia e giustizia, per la difesa e per il tesoro.   
+La circoscrizione della direzione marittima di Catania, in conseguenza della modificazione di cui all'art. 1 e' variata in conformita' alla tabella unita al presente decreto, firmata dai Ministri per la marina mercantile, per la grazia e giustizia, per la difesa e per il tesoro.  
 
 Art. 3
 ------
 
   
-L'ufficio locale marittimo di Gela viene elevato a circondario marittimo ed assume la denominazione di ufficio circondariale marittimo di Gela.  
+La delegazione di spiaggia di Fregene del compartimento marittimo di Roma e' elevata ad ufficio marittimo locale.  
 
 Art. 4
 ------
 
   
-I limiti territoriali del circondario marittimo di Licata, in conseguenza della modificazione di cui allo art. 3, sono variati in conformita' alla tabella unita al presente decreto, firmata dai Ministri per la marina mercantile, per la grazia e giustizia, per la difesa e per il tesoro.  
+Le delegazioni di spiaggia di Fezzano, del compartimento marittimo di La Spezia, di San Menaio, del compartimento marittimo di Manfredonia, di Torrette, del compartimento marittimo di Ancona, di Malfa, del compartimento marittimo di Messina e di Capo Molini, del compartimento marittimo di Catania, sono soppresse.  
 
 Art. 5
 ------
 
   
-La delegazione di spiaggia di Porto Civitanova del compartimento marittimo di Ancona viene elevata ad ufficio locale marittimo.  
+La delegazione di spiaggia di S. Liberata, del compartimento marittimo di Livorno, e' soppressa.  
+Nell'ambito dello stesso compartimento e' istituita la delegazione di spiaggia di 3ª classe di Orbetello, inclusa nella giurisdizione dell'ufficio circondariale marittimo di Porto S. Stefano.  
 
 Art. 6
 ------
 
   
-Nell'ambito del compartimento marittimo di Gallipoli e' istituita la delegazione di spiaggia di 2ª classe di Torre S. Giovanni d'Ugento.  
+La delegazione di spiaggia di Torre Canne, del compartimento marittimo di Brindisi, e' soppressa.  
+Nell'ambito dello stesso compartimento e' istituita la delegazione di spiaggia di 1ª classe di Savelletri.  
 
 Art. 7
 ------
 
   
-Le delegazioni di spiaggia di Scaletta Zanclea e di Nizza Sicilia del compartimento marittimo di Messina sono soppresse.  
+La delegazione di spiaggia di Primaro, del compartimento marittimo di Ravenna, e' soppressa.  
+Nell'ambito dello stesso compartimento e' istituita la delegazione di spiaggia di 3ª classe di Casalborsetti.  
 
 Art. 8
 ------
 
   
-Nell'ambito del compartimento marittimo di Messina e' istituita la delegazione di spiaggia di 3ª classe di Ali' Terme.  
+La delegazione di spiaggia di Porto Lignano, del compartimento marittimo di Monfalcone, assume, per effetto della costituzione in comune autonomo della localita' in cui ha sede, la denominazione di Lignano Sabbiadoro.  
 
 Art. 9
 ------
 
   
   
-Nell'ambito del compartimento marittimo di Rimini e' istituita la delegazione di spiaggia di 1ª classe di Misano Adriatico.   
+La provincia di Pordenone, costituita con [legge 1° marzo 1968, n. 171](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-01;171), e' compresa, ai fini marittimi, nella giurisdizione del compartimento marittimo di Venezia.   
 
 Art. 10
 -------
 
   
-Le delegazioni di spiaggia di Sturla, del compartimento marittimo di Genova, di Scario e di Agnone Cilento, del compartimento marittimo di Salerno, di Caronia Marina e di Rinella, del compartimento marittimo di Messina, di Viserba, del compartimento marittimo di Rimini, sono soppresse.  
-
-Art. 11
--------
-
-  
-Il presente decreto entra in vigore trenta giorni dopo la sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.  
+Il presente decreto entra in vigore trenta giorni dopo la sua pubblicazione.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 dicembre 1976
+### Dato a Roma, addi' 14 giugno 1971
 
-LEONE ANDREOTTI - FABBRI - BONIFACIO - LATTANZIO - STAMMATI
+SARAGAT ATTAGUILE - COLOMBO - TANASSI - FERRARI-AGGRADI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 8 aprile 1977
+Registrato alla Corte dei conti, addi' 23 novembre 1971
 
-Atti di Governo, registro n. 12, foglio n. 39
+Atti del Governo, registro n. 245, foglio n. 90 - CARUSO
 
 Allegato
 
- CIRCOSCRIZIONI TERRITORIALI DELLA MARINA MERCANTILE   
+ DIREZIONE MARITTIMA DI CATANIA   
   
   
-Allegato  
-  
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=076U105300100010110001&dgu=1977-04-20&art.dataPubblicazioneGazzetta=1977-04-20&art.codiceRedazionale=076U1053)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=071U096300100010110001&dgu=1971-11-27&art.dataPubblicazioneGazzetta=1971-11-27&art.codiceRedazionale=071U0963)
   

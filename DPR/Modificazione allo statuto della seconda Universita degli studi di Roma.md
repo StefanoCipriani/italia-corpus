@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1985 n. 898
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 luglio 1984 n. 823
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1985 n. 898
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 luglio 1984 n. 823
+=============================================================
 
 Modificazione allo statuto della seconda Universita' degli studi di Roma.
 -------------------------------------------------------------------------
@@ -39,20 +39,18 @@ Articolo unico
 --------------
 
   
-Art. 51 - nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' inserito l'insegnamento di "chirurgia gastroenterologica".  
+Art. 51 - nell'elenco degli insegnamenti del corso di laurea in medicina e chirurgia e' inserito l'insegnamento complementare di "statistica medica".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 ottobre 1985
+### Dato a Roma, addi' 30 luglio 1984
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 29 gennaio 1986
+Registrato alla Corte dei conti, addi' 22 novembre 1984
 
-Registro n. 4 Istruzione, foglio n. 114
+Registro n. 71 Istruzione, foglio n. 13

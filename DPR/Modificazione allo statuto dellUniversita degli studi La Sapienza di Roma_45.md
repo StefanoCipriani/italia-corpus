@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 novembre 1985 n. 1011
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 769
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 novembre 1985 n. 1011
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 769
 ================================================================
 
 Modificazione allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
@@ -39,24 +39,18 @@ Articolo unico
 --------------
 
   
-Nell'art. 92, nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono inseriti i seguenti insegnamenti:  
-citologia normale ed ultrastrutturale;  
-statistica medica e biometria;  
-terapia conservativa dentaria;  
-urodinamica.  
+Art. 113 - nell'elenco degli insegnamenti complementari del corso di laurea in matematica: indirizzo applicativo, e' inserito l'insegnamento di "teoria degli algoritmi e della calcolabilita'".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 novembre 1985
+### Dato a Selva di Val Gardena, addi' 2 settembre 1983
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 7 aprile 1986
+Registrato alla Corte dei conti, addi' 27 dicembre 1983
 
-Registro n. 24 Istruzione, foglio n. 56
+Registro n. 79 Istruzione, foglio n. 392

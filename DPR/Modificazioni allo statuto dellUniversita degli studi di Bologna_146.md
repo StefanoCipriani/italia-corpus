@@ -1,80 +1,186 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1971 n. 621
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 giugno 1957 n. 735
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1971 n. 621
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 giugno 1957 n. 735
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 1 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-01;2227), e successivi;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il regio decreto-legge 20 giugno 935, n. 1071, convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 104. - Agli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti quelli di:
+
+9) Miglioramento genetico delle piante agrarie (semestrale);
+
+Art. 233, relativo ai corsi di perfezionamento presso la Facolta' di medicina veterinaria, e' modificato come segue:
+
+"Presso la Facolta' di medicina veterinaria sono istituiti i seguenti corsi annuali di perfezionamento:
+
+a) malattie infettive e profilassi, per laureati in medicina veterinaria;
+
+b) ispezioni annonarie, per i laureati in medicina veterinaria;
+
+c) alimentazione del bestiame, per laureati in medicina veterinaria e scienze agrarie;
+
+d) chirurgia ostetricia veterinaria e fecondazione artificiale, per laureati in medicina veterinaria".
+
+Art. 235. - L'articolo e' cosi' modificato:
+
+"Per il corso di malattie infettive e profilassi sono stabiliti i seguenti insegnamenti:
+
+1) anatomia patologica delle malattie infettive;
+
+2) diagnostica sperimentale;
+
+3) clinica medica e terapia;
+
+4) malattie infettive e infestive e terapia;
+
+5) legislazione e polizia sanitaria.
+
+Per il corso di ispezioni annonarie sono stabiliti i seguenti insegnamenti:
+
+1) chimica applicata all'igiene degli alimenti;
+
+2) ispezione delle carni fresche;
+
+3) ispezione delle carni conservate;
+
+4) ispezione dei prodotti della pesca;
+
+5) ispezione dei funghi;
+
+6) anatomia e istologia patologiche;
+
+7) malattie infettive;
+
+8) approvvigionamenti annonari.
+
+Per il corso di alimentazione del bestiame sono stabiliti i seguenti insegnamenti:
+
+1) biochimica degli alimenti;
+
+2) tecnica dell'alimentazione;
+
+3) alimenti e carenze alimentari;
+
+4) economia dell'alimentazione.
+
+Per il corso di chirurgia e ostetricia veterinaria e fecondazione artificiale sono stabiliti i seguenti insegnamenti:
+
+1) anatomia;
+
+2) endocrinologia sessuale;
+
+3) clinica chirurgica e chirurgia operativa;
+
+4) clinica ostetrico-ginecologica e operazioni ostetriche;
+
+5) fecondazione artificiale".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 14 giugno 1957
+
+GRONCHI
+
+MORO
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 23 agosto 1957 Atti del Governo, registro n. 107, foglio n. 61. - RELLEVA
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 1 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-01;2227), e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il regio decreto-legge 20 giugno 935, n. 1071, convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-  
-Art. 78: all'elenco degli insegnamenti complementari del corso di laurea in materie letterarie l'insegnamento di "Letteratura moderna e contemporanea" muta denominazione in quella di "Letteratura italiana moderna e contemporanea".   
-Art. 79: all'elenco degli insegnamenti complementari del corso di laurea in pedagogia l'insegnamento di "Letteratura moderna e contemporanea" muta denominazione in quella di "Letteratura italiana moderna e contemporanea".   
-Art. 80: all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere l'insegnamento di "Letteratura moderna e contemporanea" muta denominazione in quella di "Letteratura italiana moderna e contemporanea".   
-Art. 95: all'elenco degli insegnamenti complementari del corso di laurea in fisica e' aggiunto quello di "Radiazione cosmica".   
-Art. 343: il primo comma e' modificato nel modo seguente: "Alla scuola possono iscriversi coloro che siano in possesso della laurea in scienze agrarie, in scienze naturali e biologiche ed in chimica e in chimica industriale conseguite in una universita' italiana.  
-Possono essere ammessi al 2° corso allievi che pur non avendo frequentato il 1° corso dimostrino di possedere una particolare preparazione mediante una prova da sostenere di fronte ad una commissione costituita da tre insegnanti del corso".   
-Art. 369: relativo alla scuola di specializzazione in patologia aviare e' modificato nel modo seguente:   
-"Gli insegnamenti impartiti nella scuola sono i seguenti:   
-1) Tecnologia dell'avicoltura (biennale);   
-2) Anatomia, istologia ed embriologia (semestrale);   
-3) Biochimica;   
-4) Fisiologia;   
-5) Microbiologia, immunologia e diagnostica di laboratorio.  
-Profilassi e polizia veterinaria (biennale);   
-6) Patologia generale applicata alla patologia aviare;   
-7) Patologia speciale e terapia (malattie infettive, malattie parassitarie, patologia dell'alimentazione, patologia dell'embrione, tossicosi);   
-8) Scienza dell'alimentazione;   
-9) Approvvigionamento dei prodotti avicoli;   
-10) Ispezione sanitaria dei prodotti avicoli".   
-Art. 371: e' modificato nel modo seguente:   
-"Gli esami previsti per il 1° anno di corso sono i seguenti:   
-1) Anatomia, istologia ed embriologia;   
-2) Biochimica;   
-3) Fisiologia;   
-4) Tecnologia dell'avicoltura (1ª parte);   
-5) Microbiologia, immunologia e diagnostica di laboratorio.  
-Profilassi e polizia veterinaria (1ª parte).   
-6) Patologia generale applicata alla patologia aviare.   
-Gli esami previsti per il 2° anno di corso sono i seguenti:   
-1) Tecnologia dell'avicoltura (2ª parte);   
-2) Microbiologia, immunologia e diagnostica di laboratorio.  
-Profilassi e polizia veterinaria (2ª parte);   
-3) Patologia speciale e terapia;   
-4) Scienza dell'alimentazione;   
-5) Approvvigionamenti dei prodotti avicoli;.   
-6) Ispezione sanitaria dei prodotti avicoli.   
-Per essere ammessi a sostenere gli esami del 2° anno, gli allievi dovranno aver superato gli esami previsti per il 1° anno.   
-L'esame di diploma consistera' nella discussione di una dissertazione scritta svolta dal candidato su argomento da lui scelto con approvazione del direttore della scuola, di fronte alla commissione di diploma costituita a norma dell'art. 172, primo comma, dello statuto della Universita' di Bologna".   
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 104. - Agli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti quelli di:  
+9) Miglioramento genetico delle piante agrarie (semestrale);  
+Art. 233, relativo ai corsi di perfezionamento presso la Facolta' di medicina veterinaria, e' modificato come segue:  
+"Presso la Facolta' di medicina veterinaria sono istituiti i seguenti corsi annuali di perfezionamento:  
+a) malattie infettive e profilassi, per laureati in medicina veterinaria;  
+b) ispezioni annonarie, per i laureati in medicina veterinaria;  
+c) alimentazione del bestiame, per laureati in medicina veterinaria e scienze agrarie;  
+d) chirurgia ostetricia veterinaria e fecondazione artificiale, per laureati in medicina veterinaria".  
+Art. 235. - L'articolo e' cosi' modificato:  
+"Per il corso di malattie infettive e profilassi sono stabiliti i seguenti insegnamenti:  
+1) anatomia patologica delle malattie infettive;  
+2) diagnostica sperimentale;  
+3) clinica medica e terapia;  
+4) malattie infettive e infestive e terapia;  
+5) legislazione e polizia sanitaria.  
+Per il corso di ispezioni annonarie sono stabiliti i seguenti insegnamenti:  
+1) chimica applicata all'igiene degli alimenti;  
+2) ispezione delle carni fresche;  
+3) ispezione delle carni conservate;  
+4) ispezione dei prodotti della pesca;  
+5) ispezione dei funghi;  
+6) anatomia e istologia patologiche;  
+7) malattie infettive;  
+8) approvvigionamenti annonari.  
+Per il corso di alimentazione del bestiame sono stabiliti i seguenti insegnamenti:  
+1) biochimica degli alimenti;  
+2) tecnica dell'alimentazione;  
+3) alimenti e carenze alimentari;  
+4) economia dell'alimentazione.  
+Per il corso di chirurgia e ostetricia veterinaria e fecondazione artificiale sono stabiliti i seguenti insegnamenti:  
+1) anatomia;  
+2) endocrinologia sessuale;  
+3) clinica chirurgica e chirurgia operativa;  
+4) clinica ostetrico-ginecologica e operazioni ostetriche;  
+5) fecondazione artificiale".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 maggio 1971
+### Dato a Roma, addi' 14 giugno 1957
 
-SARAGAT MISASI
+GRONCHI MORO
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 20 agosto 1971
+Registrato alla Corte dei conti, addi' 23 agosto 1957
 
-Atti del Governo, registro n. 243, foglio n. 146. - PASQUALUCCI
+Atti del Governo, registro n. 107, foglio n. 61. - RELLEVA

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1986 n. 643
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1985 n. 998
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1986 n. 643
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1985 n. 998
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Lecce.
 -----------------------------------------------------------------
@@ -10,21 +10,19 @@ Modificazioni allo statuto dell'Universita' degli studi di Lecce.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Visto lo statuto dell'Universita' degli studi di Lecce, approvato con [decreto del Presidente della Repubblica 22 giugno 1968, n. 1200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-06-22;1200);
+Veduto lo statuto dell'Universita' di Lecce approvato con [decreto del Presidente della Repubblica 22 giugno 1968, n. 1200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-06-22;1200), e successive modificazioni;
 
-Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istituzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Visto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Visto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vista la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Visto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Visto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
-
-Viste le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Lecce e convalidati dal Consiglio universitario nazionale nel suo parere;
 
@@ -35,58 +33,91 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' degli studi di Lecce, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Lecce, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 1
-------
-
-  
-L'art. 1 dello statuto dell'Universita' degli studi di Lecce e' soppresso ed e' sostituito dal seguente:  
-L'Universita' degli studi di Lecce e' costituita dalle seguenti facolta':  
-1) facolta' di scienze economico-bancarie, assicurative e previdenziali;  
-2) facolta' di lettere e filosofia;  
-3) facolta' di magistero;  
-4) facolta' di scienze matematiche, fisiche e naturali.  
-Ciascuna facolta' conferisce le lauree indicate nel presente statuto.  
-
-Art. 2
-------
-
-  
-Al capo II dello statuto dell'Universita' di Lecce, e' introdotta con lo scorrimento della numerazione dei capi successivi, la facolta' di scienze economico-bancarie, assicurative e previdenziali, che conferisce:  
-a) la laurea in scienze economiche e bancarie;  
-b) la laurea in scienze assicurative.  
-
-Art. 3
-------
-
-  
-La tabella I dell'ordinamento didattico universitario, contenente l'elenco delle lauree e dei diplomi, e' modificata nel senso che dopo il numero 11, e con lo scorrimento della numerazione successiva, e' aggiunta la "laurea in scienze assicurative".  
-
-Art. 4
-------
+Articolo unico
+--------------
 
   
   
-Nella tabella II dell'ordinamento didattico universitario, contenente l'elenco delle facolta' universitarie dalle quali possono essere rilasciati le lauree e i diplomi indicati nella tabella I, e' aggiunta, dopo la facolta' di scienze economiche e bancarie, la seguente facolta' che rilascia le lauree appresso indicate:   
-  
-Facolta' di scienze economico-bancarie, assicurative e previdenziali:   
-  
-laurea in scienze economiche e bancarie;   
-laurea in scienze assicurative.   
+Art. 24 - nell'elenco degli insegnamenti complementari del corso di laurea in materie letterarie, sono aggiunte le seguenti discipline: bibliografia e biblioteconomia;   
+semiotica;   
+storia del pensiero politico medievale;   
+storia economica e sociale del medioevo;   
+istituzioni medievali;   
+storia della Chiesa nell'eta' moderna;   
+letteratura teatrale;   
+istituzioni di diritto romano;   
+didattica del latino;   
+storia dell'arte bizantina;   
+geografia umana;   
+geografia dei Paesi del Levante;   
+pubblicistica e cronachistica medievale;   
+critica del testo;   
+metrica greca e latina;   
+storia del teatro greco e latino;   
+storia greca;   
+archeologia romana;   
+archeologia del vicino Oriente;   
+storia delle religioni nel mondo classico;   
+sociolinguistica;   
+letteratura comparata;   
+sociologia della cultura;   
+sociologia della conoscenza;   
+sociologia delle comunicazioni;   
+filosofia del linguaggio;   
+teoria della letteratura.   
+Art. 29 - nell'elenco degli insegnamenti complementari del corso di laurea in pedagogia, sono aggiunte le seguenti discipline:   
+psicologia dinamica;   
+psicologia;   
+metodologia della ricerca sociale;   
+metodologia del servizio sociale;   
+storia della filosofia politica;   
+filosofia della religione;   
+filosofia del diritto;   
+storia della filosofia morale;   
+metodologia delle scienze sociali;   
+filosofia politica;   
+storia del pensiero politico medievale;   
+storia economica e sociale del Medioevo;   
+storia dell'arte bizantina;   
+pedagogia sperimentale;   
+storia della filosofia contemporanea;   
+epistemologia;   
+sociolinguistica;   
+letteratura comparata;   
+sociologia della cultura;   
+sociologia della conoscenza;   
+sociologia delle comunicazioni;   
+filosofia del linguaggio;   
+teoria della letteratura.   
+Art. 36 - nell'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere, sono aggiunte le seguenti discipline:   
+storia della lingua francese;   
+lingua e letteratura polacca;   
+storia della Francia;   
+storia della Gran Bretagna;   
+drammaturgia;   
+lingua e letteratura albanese;   
+sociolinguistica;   
+letteratura comparata;   
+sociologia della cultura;   
+sociologia della conoscenza;   
+sociologia delle comunicazioni;   
+filosofia del linguaggio;   
+teoria della letteratura.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 agosto 1986
+### Dato a Roma, addi' 19 ottobre 1985
 
 COSSIGA
 
 FALCUCCI, Ministro della pubblica istruzione
 
-Visto, il Guardasigilli: ROGNONI
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 23 settembre 1986
+Registrato alla Corte dei conti, addi' 9 aprile 1986
 
-Registro n. 71 Istruzione, foglio n. 320
+Registro n. 26 Istruzione, foglio n. 205

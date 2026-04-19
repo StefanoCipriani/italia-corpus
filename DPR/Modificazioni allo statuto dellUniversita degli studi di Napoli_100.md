@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 giugno 1971 n. 619
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1979 n. 476
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 giugno 1971 n. 619
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1979 n. 476
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
@@ -12,125 +12,320 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
 Decreta:   
   
 Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Dopo l'art. 560, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi alla istituzione presso la prima facolta' di medicina e chirurgia, delle scuole di specializzazione in medicina nucleare ed in urologia:   
   
-Dopo l'art. 479 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola speciale per dirigenti dell'assistenza infermieristica.   
+Scuola di specializzazione in medicina nucleare   
   
-Scuola speciale per dirigenti dell'assistenza infermieristica   
-  
-Art. 480. - E' istituita ai sensi dell'art. 20 del testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), una scuola speciale per dirigenti dell'assistenza infermieristica che ha sede presso l'istituto di igiene della facolta' di medicina e chirurgia dell'Universita' di Napoli. Essa ha lo scopo di formare personale dirigente ed insegnante per le scuole professionali per infermiere, per assistenti sanitarie, visitatrici, per ostetriche, per vigilatrici della infanzia e personale dirigente di servizi infermieristici ospedalieri e di sanita' pubblica.   
-Art. 481. - La durata del corso degli studi per il conseguimento del diploma di dirigenti dell'assistenza infermieristica e' di due anni.   
-Possono essere ammesse alla scuola allieve di eta' non inferiore a 25 anni in possesso dei seguenti titoli:   
-1) del titolo di studio prescritto per l'ammissione all'universita' (preferibilmente del diploma di maturita' classica, del diploma di maturita' scientifica e del diploma di abilitazione magistrale);   
-2) del diploma di infermiere professionale o di ostetrica o di vigilatrice d'infanzia, con votazione media non inferiore ai 147/210.   
-Le infermiere professionali e le vigilatrici dell'infanzia devono aver prestato almeno tre anni di servizio senza demerito presso un ospedale o una scuola per infermiere professionali o vigilatrici dell'infanzia o in un servizio di sanita' pubblica. Tale periodo e' ridotto a due anni per le candidate in possesso del diploma di assistente sanitaria visitatrice, del certificato di abilitazione alle funzioni direttive di ostetricia o di altra specializzazione legalmente riconosciuta;   
-3) per le candidate della sezione dei servizi medico-sociali, e' prescritto il diploma di assistente sanitaria visitatrice conseguito con votazione media non inferiore ai 147/210.   
-Art. 482. - La scuola speciale si suddivide in tre sezioni:   
-1) Pedagogica per la formazione di personale infermieristico insegnante e di direttrice di scuola per: infermiere professionali e assistenti sanitarie visitatrici, ostetriche, vigilatrici dell'infanzia, infermiere ed infermieri generici;   
-2) Amministrativa per servizi assistenziali, per la formazione del personale infermieristico dirigente di servizi assistenziali (ospedalieri, ambulatoriali, mutualistici, etc.);   
-3) Amministrativa per i servizi medico-sociali, per la formazione di personale dirigente di servizi di sanita' pubblica.   
-Art. 483. - L'ammissione al 1° anno della scuola avviene per titoli.   
-Le candidate, tuttavia, prima di essere ammesse definitivamente dovranno essere sottoposte ad un colloquio preliminare. Il numero dei posti disponibili annualmente e' stabilito nella misura massima di trenta complessivamente per le tre sezioni e per ciascun anno di corso. La distribuzione dei posti fra le tre sezioni verra' effettuata annualmente.   
-Art. 484. - II direttore della scuola e' di diritto il titolare della cattedra di igiene della facolta' di medicina e chirurgia della universita'. Gli insegnanti della scuola sono proposti dal consiglio di facolta' di medicina e chirurgia, udito il direttore e nominati dal rettore.   
-La scuola speciale affida la preparazione specifica delle allieve alla scuola convitto professionale per infermiere della C.R.I. di Napoli, via Antonio Cardarelli, 11-A.   
-Il direttore della scuola speciale, sentita la direttrice della scuola convitto professionale della C.R.I. nomina una infermiera altamente qualificata, preferibilmente in possesso del diploma di dirigente dell'assistenza infermieristica o di titolo similare, che viene preposta alla preparazione specifica teorico-pratica delle allieve e riceve la qualifica di vicedirettrice della scuola speciale.   
-Il corpo insegnante e' costituito da docenti delle facolta' di:   
-Medicina e Chirurgia;   
-Magistero;   
-Lettere;   
-Giurisprudenza,   
-e da esperti del campo dell'assistenza infermieristica, dell'amministrazione, dell'educazione sanitaria e da un rappresentante del Ministero della sanita'.   
-Art. 485. - Le materie di insegnamento sono le seguenti:   
-  
+Art. 561. - La scuola di specializzazione in medicina nucleare ha sede presso l'istituto di radiologia della prima facolta' di medicina e chirurgia ed e' diretta da un professore di ruolo o fuori ruolo della stessa materia o, in carenza, di materia affine.   
+Alla scuola possono essere ammessi solo i laureati in medicina e chirurgia in possesso del diploma di abilitazione professionale e la loro immatricolazione e' subordinata all'esito di un esame di ammissione.   
+Non sono ammesse abbreviazioni di corso.   
+Art. 562. - La scuola conferisce il diploma di specialista in medicina nucleare.   
+Gli anni di studio necessari per conseguire questo titolo sono tre.  
+Art. 563. - Gli insegnamenti per il conseguimento del diploma di specialista in medicina nucleare sono cosi' distribuiti nei tre anni di corso.   
 1° Anno:   
-  
-a) Insegnamenti fondamentali comuni a tutte e tre le sezioni:   
-1) Psicologia;   
-2) Pedagogia;   
-3) Sociologia;   
-4) Filosofia morale;   
-5) Statistica e biometria;   
-6) Elementi di igiene generale e speciale;   
-7) Storia dell'assistenza infermieristica;   
-8) Deontologia professionale;   
-9) Tecnica infermieristica;   
-10) Elementi di diritto costituzionale.   
-b) Insegnamenti complementari comuni a tutte e tre le sezioni:   
-1) Elementi di biologia;   
-2) Elementi di fisiologia e chimica biologica;   
-3) Medicina sociale.   
-  
-Inoltre le allieve sono tenute ad effettuare i seguenti tirocini:   
-1) Sezione pedagogica:   
-Esercizi didattici preparatori;   
-Insegnamento clinico.   
-2) Sezione amministrativa per i servizi assistenziali:   
-Esercitazioni nei servizi ospedalieri.   
-3) Sezione amministrativa per i servizi medico-sociali:   
-Esercitazioni nei servizi di sanita' pubblica.   
-  
+a) fisica: con richiami di matematica, nozioni di statistica, informatica e dosimetria;   
+b) radiobiologia, legislazione e norme generali di radioprotezione;   
+c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;   
+d) nozioni di anatomia e fisiologia generale.   
 2° Anno:   
+a) teoria dei traccianti;   
+b) elementi di radiochimica;   
+c) applicazioni di diagnostica I;   
+d) tecniche di misure di radioattivita'.   
+3° Anno:   
+a) applicazioni diagnostiche II;   
+b) applicazioni terapeutiche;   
+c) radioprotezione e legislazione applicate.   
+Art. 564. - I singoli insegnamenti sono tenuti da uno o piu' docenti a secondo di quanto opportuno al loro migliore svolgimento.   
+Art. 565. - Il numero massimo di iscritti in corso alla scuola e' di otto per anno di corso e complessivamente di ventiquattro iscritti per l'intero corso di studi.   
+Art. 566. - La frequenza pratica e' obbligatoria (dieci mesi all'anno) e deve avvenire in reparti riconosciuti idonei.  
+L'insegnamento viene svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento aperti anche a specialisti, ecc. Gli allievi, per essere ammessi a sostenere gli esami delle singole materie, devono avere la firma di frequenza da parte del direttore della scuola stessa. Gli allievi, al termine di ogni anno devono superare gli esami di profitto delle materie prescritte per poter ottenere l'iscrizione all'anno successivo.   
+Art. 567. - Gli allievi, per conseguire il diploma di specializzazione, oltre ad essere stati approvati in tutti gli esami, devono elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola.   
   
-a) Insegnamenti fondamentali comuni a tutte e tre le sezioni:   
-1) Elementi di pubblica amministrazione;   
-2) Elementi di diritto del lavoro;   
-3) Principi di amministrazione pubblica applicata all'assistenza infermieristica;   
-4) Psicologia applicata alla professione;   
-5) Pedagogia applicata alla professione;   
-6) Elementi di legislazione sanitaria;   
-7) Igiene e tecnica ospedaliera;   
-8) Organizzazione delle associazioni professionali infermieristiche nazionali ed internazionali;   
-9) Organizzazione di scuola per infermiere in Italia e all'estero.   
+Scuola di specializzazione in urologia   
   
-b) Insegnamenti complementari comuni a tutte e tre le sezioni:   
-1) Elementi di patologia medica e chirurgica;   
-2) Elementi di farmacologia e terapia clinica.   
+Art. 568. - La scuola di specializzazione in urologia ha sede presso l'istituto di patologia speciale chirurgica e propedeutica clinica della prima facolta' di medicina e chirurgia e conferisce il diploma di specialista in urologia.   
+Art. 569. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Art. 570. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalla autorita' competente.   
+Art. 571. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.   
+Art. 572. - Il numero massimo degli allievi e' complessivamente di diciotto iscritti per l'intero corso di studi.   
+Art. 573. - L'ammissione al corso avviene per titoli ed esami.   
+Art. 574. - Le materie di insegnamento e gli esami sono i seguenti:   
   
-Inoltre le allieve sono tenute ad effettuare i seguenti tirocini:   
-1) Sezione pedagogica:   
-Esercitazioni didattiche;   
-Organizzazione e funzionamento delle scuole;   
-Visite documentative.   
-2) Sezioni amministrative per i servizi assistenziali:   
-Esercitazioni nei servizi ospedalieri;   
-Visite documentative.   
-3) Sezione amministrativa per i servizi medico-sociali:   
-Esercitazioni nei servizi di sanita' pubblica;   
-Visite documentative.   
   
-Art. 486. - Per essere ammesse al 2° anno le allieve dovranno aver seguito i corsi, superato gli esami in tutti gli insegnamenti fondamentali dell'anno stesso e almeno uno, scelto all'inizio dell'anno scolastico, fra i complementari ed aver compiuto con esito favorevole, tutti i tirocini prescritti.   
-Art. 487. - La commissione, per gli esami di idoneita' al 2ª anno e di ammissione agli esami di diploma sono nominate dal consiglio di facolta' di medicina e chirurgia su proposta del direttore della scuola.   
-Le commissioni sono composte dal presidente che, di regola, e' il professore ufficiale della materia, e da altri due membri di materia affine e da un rappresentante del Ministero della sanita'.   
-Ogni commissario ha a disposizione 10 punti.   
-Art. 488. - Per essere ammesse a sostenere l'esame di diploma le allieve devono aver seguito i corsi del 2° anno, superato gli esami in tutti gli insegnamenti fondamentali dell'anno stesso e almeno uno, scelto allo inizio dell'anno scolastico, fra i complementari ed aver compiuto, con esito favorevole, tutti i tirocini prescritti.   
-Art. 489. - L'esame per il conseguimento del diploma di dirigente della assistenza infermieristica secondo le varie sezioni della scuola consiste nella discussione su un elaborato scritto, preventivamente assegnato dal direttore della scuola, di fronte a una commissione di cinque membri, composta dal direttore della scuola; da tre docenti designati dalla facolta' di medicina e chirurgia e dalla infermiera responsabile della preparazione specifica. Ogni commissario ha a disposizione 10 punti.   
-Art. 490. - Le tasse e le soprattasse per la scuola sono le seguenti:   
-tassa di immatricolazione. . . . . . . . . . . . L. 20.000   
-tassa annuale di iscrizione. . . . . . . . . . . " 100.000   
-soprattassa annuale di esami . . . . . . . . . . " 20.000   
-tassa per l'esame di diploma . . . . . . . . . . " 10.000   
+Insegnamenti Esami  
+  
+1° Anno:  
+  
+anatomia sistematica e to- anatomia sistematica e to- pografica dell'apparato pografica dell'apparato urinario e genitale ma- urinario e genitale ma- schile maschile  
+fisiologia dell'apparato fisiologia dell'apparato urinario e genitale ma- urinario e genitale ma- schile schile  
+batteriologia in urologia batteriologia in urologia semeiotica funzionale e  
+strumentale dell'appara-  
+to uro-genitale I.  
+  
+2° Anno:  
+  
+semeiotica funzionale e semeiotica funzionale e strumentale dell'appara- strumentale dell'appara- to uro-genitale II to uro-genitale II  
+le nefropatie mediche le nefropatie mediche  
+anatomia chirurgica del- anatomia chirurgica del- l'apparato urinario e l'apparato urinario e genitale maschile genitale maschile  
+patologia dell'apparato  
+urinario e genitale ma-  
+schile I  
+radiologia dell'apparato  
+urinario e genitale ma-  
+schile I  
+  
+3° Anno:  
+  
+patologia dell'apparato patologia dell'apparato urinario e genitale ma- urinario e genitale ma- schile II schile  
+radiologia dell'apparato radiologia dell'apparato urinario e genitale ma- urinario e genitale ma- schile II schile  
+le affezioni cutanee e ve- le affezioni cutanee e ve- neree nei riguardi del- nei riguardi dell'urolo- l'urologia gia  
+andrologia andrologia  
+  
+4° Anno:  
+  
+anatomia ed istologia pa- anatomia ed istologia pa- tologica dell'apparato tologica dell'apparato urinario e genitale ma- urinario e genitale ma- schile schile  
+farmacoterapia delle affe- farmacoterapia delle affe- zioni uro-genitali zioni uro-genitali  
+anestesia e trattamento anestesia e trattamento pre e post-operatorio pre e post-operatorio del malato urologico del malato urologico  
+nefrologia chirurgica nefrologia chirurgica  
+clinica urologica I  
+procedimenti di chirurgia  
+endoscopica I  
+interventi e procedimenti  
+operatori, sull'appara-  
+urinario e genitale ma-  
+schile I  
+  
+5° Anno:  
+  
+clinica urologica II clinica urologica  
+patologia e clinica urolo- patologia e clinica urolo- gica infantile gica infantile  
+  
+urologia ginecologica urologia ginecologica  
+procedimenti di chirurgia interventi e procedimenti endoscopica II operatori sull'apparato chirurgia dell'intestino urinario e genitale ma- chirurgia vascolare schile  
+interventi e procedimenti  
+operatori sull'apparato  
+urinario e genitale ma-  
+schile II  
+  
+  
+Art. 575. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.   
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.   
+Art. 576. - Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno ad eccezione delle discipline svolte in corsi pluriennali il cui esame e' sostenuto alla fine dei corsi medesimi.   
+Art. 577. - Al termine del corso di studi, per il conseguimento del diploma di specialista in urologia, gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
+Gli articoli 596, 597, 598, 599, 600, 601 e 602, relativi alla scuola di specializzazione in malattie infettive della seconda facolta' di medicina e chirurgia, sono soppressi e sostituiti dai seguenti:   
+  
+Scuola di specializzazione in malattie infettive   
+  
+Art. 596. - La scuola di specializzazione in malattie infettive ha sede presso la clinica delle malattie infettive e conferisce il diploma di specialista in malattie infettive.   
+Art. 597. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Art. 598. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato d'alle autorita' competenti.   
+Art. 599. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
+Art. 600. - Il numero massimo di allievi e' di tredici per anno di corso e complessivamente di cinquantadue iscritti per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli ed esami.   
+Art. 601. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+epidemiologia generale delle malattie infettive;   
+batteriologia e micologia;   
+virologia;   
+parassitologia;   
+immunologia generale.   
+2° Anno:   
+tecniche batteriologiche e micologia applicate alle malattie infettive;   
+tecniche virologiche applicate alle malattie infettive;   
+tecniche parassitologiche applicate alle malattie infettive;   
+tecniche immunologiche applicate alle malattie infettive;   
+anatomia patologica;   
+genetica.   
+3° Anno:   
+clinica delle malattie infettive 1° anno;   
+diagnostica e semeiotica delle malattie infettive;   
+radiologia;   
+medicina preventiva delle malattie infettive.   
+4° Anno:   
+clinica delle malattie infettive 2° anno;   
+malattie tropicali;   
+legislazione sanitaria delle malattie infettive;   
+farmacologia e terapia delle malattie infettive.   
+Art. 602. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.   
+Al termine di ciascun anno di corso gli allievi sono tenuti a sostenere gli esami del rispettivo anno; al termine del corso di studi per il conseguimento del diploma di specialista in malattie infettive gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente la specialita'.   
+Agli allievi i quali abbiano ottenuto l'approvazione nell'esame di diploma viene rilasciato il diploma di specializzazione in malattie infettive.   
+Gli articoli 613, 614, 615, 616, 617, relativi alla scuola di specializzazione in ostetricia e ginecologia della seconda facolta' di medicina e chirurgia, che muta la denominazione in quella di scuola di specializzazione in ginecologia e ostetricia, sono soppressi e sostituiti dai seguenti:   
+  
+Scuola di specializzazione in ginecologia e ostetricia   
+  
+Art. 613. - La scuola di specializzazione in ginecologia ed ostetricia ha sede presso la clinica ostetrica e ginecologica e conferisce il diploma di specialista in ginecologia ed ostetricia.   
+Art. 614. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Art. 615. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
+Il numero massimo degli allievi e' di dodici per anno di corso e complessivamente di quarantotto iscritti per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli ed esami.   
+Art. 616. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+elementi di genetica medica;   
+elementi di embriologia; anatomia macro e micro dell'apparato genitale femminile; anatomia della pelvi;   
+elementi di fisiopatologia della riproduzione umana;   
+fisiologia ostetrica;   
+endocrinologia ginecologica ed ostetrica;   
+semeiotica e diagnostica ostetrica;   
+patologia ostetrica e ginecologica (biennale) I;   
+lingua straniera (inglese) quadriennale I.   
+2° Anno:   
+semeiotica e diagnostica ginecologica;   
+operazioni ostetriche (biennale) I;   
+anatomia ed istologia patologica della sfera genitale femminile;   
+citologia ginecologica;   
+patologia ostetrica e ginecologica (biennale) II;   
+diagnostica di laboratorio in ostetricia e ginecologia;   
+lingua straniera (inglese) quadriennale II.   
+3° Anno:   
+puericultura prenatale;   
+immunologia ostetrica e ginecologica;   
+analgo-anestesia e rianimazione in ostetricia;   
+operazioni ostetriche (biennale) II;   
+operazioni ginecologiche (biennale) I;   
+ostetricia e ginecologia forense;   
+terapia medica in ostetricia e ginecologia;   
+clinica ostetrica e ginecologica (biennale) I;   
+psicosomatica ostetrica e ginecologica;   
+lingua straniera (inglese) quadriennale III.   
+4° Anno:   
+neonatologia;   
+urologia ginecologica;   
+radio-diagnostica e terapia fisica in ostetricia e ginecologia; chirurgia addominale;   
+operazioni ginecologiche (biennale) II;   
+clinica ostetrica e ginecologica (biennale) II;   
+lingua straniera (inglese) quadriennale.   
+Art. 617.- La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.   
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.   
+Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corsi pluriennali l'esame e' sostenuto alla fine dei corsi medesimi.   
+Al termine del corso di studi, per il conseguimento del diploma di specialista in ginecologia ed ostetricia, gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
+Dopo l'art. 652, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione presso la seconda facolta' di medicina e chirurgia della scuola di specializzazione in chirurgia vascolare:   
+  
+Scuola di specializzazione in chirurgia vascolare   
+  
+Art. 653. - La scuola di specializzazione in chirurgia vascolare ha sede presso la clinica chirurgica e conferisce il diploma di specialista in chirurgia vascolare.   
+Art. 654. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Art. 655. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+Art. 656. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.   
+Art. 657. - Il numero massimo degli allievi e' di quattro per anno di corso e complessivamente di venti iscritti per l'intero corso di studi.   
+Art. 658. - L'ammissione al corso avviene per titoli ed esami.   
+Art. 659. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+embriologia, anatomia macro e microscopica dell'apparato vascolare;   
+fisiopatologia dell'apparato vascolare e della coagulazione sanguigna;   
+anatomia patologica dell'apparato vascolare;   
+semiologia fisica e strumentale delle malattie vascolari;   
+semiologia radiologica delle malattie vascolari;   
+vasculopatie di interesse medico e specialistico.   
+2° Anno:   
+patologia e clinica delle malattie del sistema arterioso;   
+patologia e clinica delle malattie del sistema venoso;   
+patologia e clinica delle malattie del sistema linfatico;   
+patologia e clinica delle malattie dei piccoli vasi.   
+3° Anno:   
+nozioni di terapia medica delle malattie vascolari;   
+terapia chirurgica delle malattie vascolari;   
+chirurgia vascolare applicata a malattie dei vari organi I.   
+4° Anno:   
+informatica medica;   
+rianimazione e terapia intensiva;   
+patologia e clinica vascolare pediatrica I;   
+epidemiologia delle malattie vascolari;   
+elementi di legislazione sanitaria comunitaria;   
+chirurgia vascolare applicata a malattie dei vari organi II.   
+5° Anno:   
+elementi di bioingegneria applicati al circolo;   
+principi e tecnica di circolazione extracorporea;   
+terapia intensiva;   
+patologia e clinica vascolare pediatrica II;   
+tecniche chirurgiche applicate alla patologia vascolare;   
+chirurgia vascolare applicata a malattie dei vari organi III.   
+Art. 660. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.   
+Art. 661. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.   
+Al termine del corso di studi per il conseguimento del diploma di specialista in chirurgia vascolare gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione e devono sostenere una prova clinica.   
+L'ordinamento della scuola di specializzazione in radiologia della seconda facolta' di medicina e chirurgia di cui al [decreto del Presidente della Repubblica 24 ottobre 1975, n. 602](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1975-10-24;602), e' soppresso e sostituito dal seguente:   
+  
+Scuola di specializzazione in radiologia   
+  
+La scuola di specializzazione in radiologia ha sede presso la radiologia della seconda facolta' di medicina e chirurgia ed e' diretta da un professore di ruolo o fuori ruolo della stessa materia o, in carenza, di materia affine.   
+Alla scuola possono essere ammessi solo i laureati in medicina e chirurgia in possesso del diploma di abilitazione professionale e la loro immatricolazione e' subordinata all'esito di un esame di ammissione per titoli ed esami.   
+Non sono ammesse abbreviazioni di corso.   
+La scuola conferisce i seguenti diplomi:   
+a) diploma di specialista in radiodiagnostica.   
+Gli anni di studio necessari per conseguire questo titolo sono quattro;   
+b) diploma di specialista in radioterapia oncologica.   
+Gli anni di studio necessari per conseguire questo titolo sono quattro.   
+La scuola ha un tronco comune di due anni identico per i diplomi in radiodiagnostica e radioterapia oncologica.   
+Gli insegnamenti per il diploma di specialista in radiodiagnostica sono cosi' distribuiti in quattro anni di corso:   
+1° Anno (comune alla specializzazione in radioterapia oncologica):   
+a) fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);   
+b) radiobiologia, legislazione e norme generali di radioprotezione;   
+c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;   
+d) nozioni di anatomia e Fisiologia generale.   
+2° Anno (comune alla radioterapia oncologica):   
+a) anatomia patologica;   
+b) apparecchiature e tecniche radiologiche;   
+c) semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);   
+d) radiopatologia;   
+e) dosimetria applicata.   
+3° Anno:   
+a) tecniche speciali e relativa semeiotica (I);   
+b) radiodiagnostica speciale dei vari organi ed apparati (I). 4° Anno:   
+a) tecniche speciali e relativa semeiotica (termografia, ecografia, xerografia, TAC) (II);   
+b) radiodiagnostica speciale dei vari organi ed apparati (II).   
+Gli insegnamenti per il diploma di specialista in radioterapia oncologica sono cosi' distribuiti nei quattro anni di corso:   
+1° Anno (comune alla specializzazione in radiodiagnostica):   
+a) fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);   
+b) radiobiologia, legislazione e norme generali di radioprotezione;   
+c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;   
+d) nozioni di anatomia e fisiologia generale.   
+2° Anno (comune alla radiodiagnostica):   
+a) anatomia patologica;   
+b) apparecchiature e tecniche radiologiche;   
+c) semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);   
+d) radiopatologia;   
+e) dosimetria applicata.   
+3° Anno:   
+a) oncologia generale;   
+b) oncologia clinica (I);   
+c) tecniche radioterapiche.   
+4° Anno:   
+a) oncologia clinica (II);   
+b) fondamenti di terapia chirurgica dei tumori;   
+c) radioterapia clinica;   
+d) trattamento del canceroso in fase avanzata.   
+I singoli insegnamenti sono tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento.   
+Il numero massimo di iscritti in corso alla scuola e' di 30 (trenta) da ripartirsi annualmente fra i vari corsi di diploma previsti dal comma quarto.   
+La frequenza pratica e' obbligatoria (dieci mesi all'anno) e deve avvenire in reparti riconosciuti idonei.   
+L'insegnamento viene svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento aperti a specialisti, ecc.   
+Gli allievi, per essere ammessi a sostenere gli esami delle singole materie, devono avere la firma di frequenza da parte del direttore della scuola stessa.   
+Gli allievi al termine di ogni anno devono superare gli esami di profitto delle materie prescritte per poter Ottenere l'iscrizione all'anno successivo.   
+Gli allievi, per conseguire il diploma di specializzazione, oltre ad essere stati approvati in tutti gli esami, devono elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 8 giugno 1971
+### Dato a Roma, addi' 11 giugno 1979
 
-SARAGAT MISASI
+PERTINI SPADOLINI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 17 agosto 1971
+Registrato alla Corte dei conti, addi' 19 settembre 1979
 
-Atti del Governo, registro n. 243, foglio n. 120. - PASQUALUCCI
+Registro n. 68 Istruzione, foglio n. 368

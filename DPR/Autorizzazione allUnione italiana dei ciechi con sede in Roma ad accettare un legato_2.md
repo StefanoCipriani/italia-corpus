@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1970 n. 92
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 gennaio 1974 n. 91
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1970 n. 92
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 gennaio 1974 n. 91
+=============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, con sede in Roma, ad accettare un legato.
 ----------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-92. Decreto del Presidente della Repubblica 5 febbraio 1970, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, con sede in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 5.000.000 disposto dalla signora Enrichetta Maggioli ved. Fabbroni, con testamento pubblico, rogato l'8 gennaio 1967, n. 623 rep. a. u. v. e pubblicato con atto notaio Riccardo Tomezzoli di Verona, rep. 22896, racc. 9784, registrato a Verona il 6 giugno 1967, al n. 2868.  
+91. Decreto del Presidente della Repubblica 16 gennaio 1974, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, con sede in Roma, viene autorizzata ad accettare il legato disposto dalla signora Ottilia Muller vedova Mahl con testamento segreto ricevuto dall'avv. Aldo Pantozzi notaio in Bolzano, in data 10 agosto 1970, repertorio n. 103 atti ultime volonta', e da questi pubblicato con rogito in data 2 dicembre 1971, rep. n. 81651, racc. n. 2851, registrato a Bolzano il 9 dicembre 1971, pubbl. vol. 80, n. 2065, consistente in quattro appartamenti siti in Bolzano, via Bruso n. 221, sub. 1, 2, 3, 4 p. ed 2903 porz. Mat. 3, 4, 5, 6, del valore complessivo di L. 18.000.000.  
   
-Visto, il Guardasigilli: GAVA  
-Registrato alla Corte dei conti, addi' 20 marzo 1970  
-Atti del Governo, registro n. 234, foglio n. 34. - CARUSO
+Visto, il Guardasigilli: ZAGARI  
+Registrato alla Corte dei conti, addi' 30 marzo 1974  
+Atti di Governo, registro n. 2, foglio n. 59. - SCIARRETTA

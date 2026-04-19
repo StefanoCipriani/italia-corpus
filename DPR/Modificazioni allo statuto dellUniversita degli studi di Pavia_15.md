@@ -1,124 +1,124 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 maggio 1976 n. 723
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1984 n. 988
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 maggio 1976 n. 723
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1984 n. 988
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
+
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e modificato con [regio decreto 13 ottobre 1927 n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Gli articoli 451, 452, 453, 454 e 455, relativi alla scuola di perfezionamento in analisi e tecnologie farmaceutiche, sono soppressi.  
+
+Art. 2
+------
+
   
-Decreta:   
+Dopo l'art. 432, e con lo spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli, relativi alla istituzione della scuola di specializzazione in "farmacia industriale" afferente alla facolta' di farmacia.  
   
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso: gli articoli 207, 208, 209, 210, 211, concernenti la scuola di specializzazione in scienza dell'alimentazione sono soppressi e sostituiti dai seguenti:   
-Art. 207. - E' istituita presso l'istituto di igiene la scuola di specializzazione in scienza dell'alimentazione.   
-Direttore della scuola e' il titolare della cattedra di igiene.   
-Art. 208. - La scuola di specializzazione in scienza dell'alimentazione e' articolata secondo il seguente triplice indirizzo:   
-a) indirizzo dietetico;   
-b) indirizzo nutrizionistico;   
-c) indirizzo tecnologico.   
-L'attivazione di quest'ultimo indirizzo e' facoltativa nelle singole scuole.   
-L'indirizzo dietetico mira ad approfondire nei medici le basi teoriche e pratiche di fondamentale importanza per la dietetica preventiva e curativa ed a stimolare, altresi', la ricerca scientifica nel vasto campo della nutrizione umana.   
-A tale indirizzo possono iscriversi soltanto i laureati in medicina e chirurgia.   
-L'indirizzo nutrizionistico mira alla preparazione specialistica di laureati in settori concernenti lo studio dei problemi generali e speciali dell'alimentazione negli aspetti fisiologici, biochimici, igienici, ecologici, economico-sociali, nonche' a stimolare la ricerca scientifica nei sopracitati settori.   
-A tale indirizzo possono essere ammessi i laureati in chimica e tecnologie farmaceutiche, in farmacia, in medicina e chirurgia, in medicina veterinaria, in scienze biologiche, in scienze naturali.   
-L'indirizzo tecnologico mira alla preparazione di laureati per le attivita' direttive in settori concernenti le tecnologie alimentari in funzione dei loro riflessi nutritivi ed igienici sul prodotto finito, nonche' a stimolare la ricerca in questo settore.   
-A tale indirizzo possono essere ammessi i laureati in chimica, chimica e tecnologie farmaceutiche, farmacia, ingegneria chimica, scienze agrarie, scienze biologiche, scienza delle preparazioni alimentari.   
-Il numero degli iscritti e' fissato in dieci per ogni anno di corso e per ogni indirizzo (totale sessanta iscritti).   
-Art. 209. - La durata del corso per tutti e tre gli indirizzi e' di tre anni. Non sono ammesse abbreviazioni di corso, ad eccezione dei candidati che, gia' in possesso del diploma di specializzazione in scienza dell'alimentazione possono essere ammessi al terzo anno per ottenere il completamento di corso in uno dei tre indirizzi.   
-Nel primo biennio vengono impartiti insegnamenti comuni agli iscritti a tutti e tre gli indirizzi: gli insegnamenti si differenziano invece al terzo anno a seconda dell'indirizzo prescelto.   
-Art. 210. - Il piano di insegnamento della scuola risulta pertanto cosi' strutturato:   
-1° Anno:   
-chimica degli alimenti;   
-biochimica della nutrizione;   
-fisiologia generale della nutrizione;   
-istituzioni di statistica applicata ai problemi alimentari.   
-2° Anno:   
-fisiologia della nutrizione umana;   
-igiene alimentare ed elementi di legislazione;   
-istituzioni di tecnologie alimentari;   
-biochimica patologica della nutrizione.   
-3° Anno:   
-A) Indirizzo dietetico:   
-alimentazione umana;   
-dietetica nell'eta' adulta;   
-dietetica nell'infanzia;   
-dietetica per le collettivita';   
-malattie dell'alimentazione e dietoterapia;   
-dietetica ospedaliera e organizzazione dei relativi servizi.   
-B) Indirizzo nutrizionistico:   
-alimentazione umana;   
-alimentazione degli animali da allevamento e da lavoro;   
-ecologia e geografia dell'alimentazione;   
-economia e statistica applicata all'alimentazione;   
-tecnica dei rilevamenti alimentari;   
-analisi chimiche degli alimenti; additivi chimici;   
-sofisticazioni e adulterazioni alimentari.   
-C) Indirizzo tecnologico:   
-microbiologia e chimica delle fermentazioni nell'industria alimentare;   
-tecnologia industriale di preparazione, conservazione e confezionamento degli alimenti di origine animale;   
-tecnologie industriali di preparazione, conservazione e confezionamento degli alimenti di origine vegetale;   
-analisi chimiche degli alimenti; additivi chimici; sofisticazioni e adulterazioni alimentari.   
-I corsi sopraindicati possono essere integrati da insegnamenti complementari decisi dal consiglio direttivo della scuola, nonche' da conferenze su argomenti speciali (psicologia dell'alimentazione, antropologia nutrizionale, organizzazione della vigilanza e del controllo sulla produzione e commercio degli alimenti e bevande, ecc.).   
-Art. 211. - Alla fine di ogni anno di corso gli iscritti che abbiano ottenuto la firma di frequenza dovranno sostenere un esame di profitto sulle materie di insegnamento annuali contemplate nel piano di studio. L'esame di diploma consistera' nella dissertazione scritta su un argomento approvato dalla direzione della scuola.   
-Le commissioni per gli esami di profitto e per l'esame di diploma saranno nominate secondo le norme generali di cui agli articoli 120 e 121 dello statuto.   
-Dopo l'art. 286, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i nuovi articoli concernenti l'istituzione della scuola di specializzazione in citogenetica umana.   
-Scuola di specializzazione in citogenetica umana   
-Art. 287. - La scuola di specializzazione in citogenetica umana ha lo scopo di fornite una preparazione scientifica e tecnico-pratica a coloro che intendono dedicarsi a questa disciplina sia nei suoi aspetti di ricerca scientifica specializzata che nelle sue varie applicazioni pratiche nell'ambito della medicina. Possono esservi ammessi i laureati in medicina e chirurgia e in scienze biologiche.  
-Il corso ha la durata di tre anni e si svolge presso l'istituto di biologia e zoologia generale della facolta' di medicina e chirurgia.   
-Gli iscritti a ciascun anno non potranno superare il numero di cinque. Nel caso che le domande fossero in numero maggiore, verra' effettuata una selezione mediante una graduatoria formulata sulla base della valutazione dei titoli e del risultato di prove d'esame.   
-La direzione della scuola e' affidata al direttore dell'istituto di biologia e zoologia generale della facolta' di medicina e chirurgia.   
-Art. 288. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-genetica generale;   
-citogenetica generale;   
-genetica biochimica;   
-biochimica cellulare;   
-tecniche delle colture in vitro;   
-biochimica delle cellule in vitro;   
-radiobiologia generale.   
-2° Anno:   
-genetica medica;   
-citogenetica dell'uomo;   
-anomalie cromosomiche da radiazioni;   
-citochimica;   
-tecnica microscopica;   
-tecniche di analisi cromosomica;   
-patologia cromosomica dell'uomo.   
-3° Anno:   
-malattie cromosomiche legate alla riproduzione;   
-malattie cromosomiche in pediatria;   
-malattie cromosomiche in medicina interna;   
-malattie cromosomiche in neuropsichiatria;   
-farmacogenetica;   
-patologia cromosomica dei tumori;   
-prognosi genetica e prevenzione delle malattie cromosomiche.   
-Art. 289. - Gli iscritti hanno l'obbligo della frequenza alle lezioni ed alle esercitazioni degli insegnamenti ufficiali della scuola il direttore puo' stabilire che, per un piu' proficuo conseguimento dei fini della scuola siano tenuti corsi di conferenze su materie ed argomenti che abbiano attinenza o affinita' con gli insegnamenti impartiti nella scuola. Gli iscritti devono superare tutti gli esami delle materie del primo anno per essere ammessi al secondo e tutti quelli delle materie del secondo per essere ammessi al terzo. L'esame di diploma consistera' nella stesura e discussione di una tesi scritta su tema concordato col direttore della scuola e di una prova pratica.   
-I candidati non riconosciuti idonei potranno ripresentarsi dopo un altro anno di frequenza della scuola.Se anche al secondo esame non fosse loro riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove.   
+Scuola di specializzazione in farmacia industriale  
+Art. 433. - E' istituita presso l'Universita' di Pavia la scuola di specializzazione in farmacia industriale che conferisce il diploma di specialista in farmacia industriale.  
+Art. 434. - La direzione della scuola ha sede presso la facolta' di farmacia dell'Universita' di Pavia.  
+Art. 435. - La scuola ha lo scopo di preparare specialisti in grado di ricoprire posti dirigenziali nell'industria farmaceutica quali direttore tecnico, capo controllo di qualita', direttore di reparto, responsabile ricerche tecnica farmaceutica etc.  
+Art. 436. - La durata del corso e' di tre anni e non e' suscettibile di abbreviazioni.  
+Art. 437. - Il numero massimo degli iscritti e' di venti per ogni anno, complessivamente di sessanta per l'intero corso di studi. La facolta' si riserva di attivare il corso del primo anno in funzione del numero di coloro che hanno presentato domanda di iscrizione (minimo cinque). Il secondo corso verra' comunque attivato qualunque sia il numero degli iscritti.  
+Art. 438. - Alla scuola sono ammessi i laureati in farmacia, in chimica e tecnologia farmaceutiche, in chimica ed in chimica industriale.  
+L'ammissione e' subordinata al possesso anche del diploma di abilitazione professionale, qualora prescritto come previsto dal [secondo comma dell'art. 13 del decreto del Presidente della Repubblica n. 162/1982](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982;162~art13-com2).  
+Art. 439. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:  
+a) la tesi nella disciplina attinente alla specializzazione;  
+b) il voto di laurea;  
+c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;  
+d) le pubblicazioni nelle predette materie.  
+Il punteggio dei predetti titoli e' quello stabilito dal decreto ministeriale del Ministero della pubblica istruzione 16 settembre 1982. Sono ammessi alla scuola di specializzazione coloro che in relazione al numero dei posti disponibili, si siano collocati in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo riportato.  
+Art. 440. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+chimica farmaceutica (I);  
+formulazione farmaceutica;  
+metodologie analitiche;  
+farmacologia applicata;  
+statistica ed elementi di informatica (semestrale);  
+legislazione farmaceutica (semestrale).  
+2° Anno:  
+chimica farmaceutica (II);  
+biofarmaceutica-farmacocinetica;  
+analisi dei costituenti delle forme farmaceutiche (I);  
+tecnologia industriale delle forme farmaceutiche (I);  
+organizzazione della produzione farmaceutica (semestrale);  
+tecnologia e controllo dei preparati cosmetici (semestrale).  
+3° Anno:  
+tecnologia e controllo dei preparati dietetici (semestrale);  
+tecnologia industriale delle forme farmaceutiche (II);  
+controlli tecnologici delle forme farmaceutiche;  
+analisi e controlli microbiologici e biologici;  
+tecnologia dei materiali di confezionamento (semestrale);  
+controllo di qualita' e norme di buona fabbricazione.  
+Tutti gli insegnamenti afferiscono alla facolta' di farmacia.  
+Art. 441. - Gli specializzandi dovranno partecipare alle attivita' della scuola. Le attivita' della scuola sono rappresentate:  
+a) dalle lezioni teoriche;  
+b) dalle esercitazioni pratiche di laboratorio;  
+c) da seminari e conferenze.  
+La frequenza alle attivita' precitate e' obbligatoria.  
+Lo specializzando non potra' sostenere gli esami previsti per ogni anno di corso qualora: non abbia assistito almeno all'ottanta per cento delle lezioni teoriche impartite per ogni materia di insegnamento dell'anno in corso; non abbia partecipato a tutte le esercitazioni pratiche; non abbia partecipato ad almeno l'ottanta per cento dei seminari e conferenze indette.  
+Il consiglio della scuola, presieduto dal suo direttore, e' l'unico organismo valido a valutare i motivi che, eventualmente, abbiano impedito allo specializzando di ottemperare a quanto sopra richiesto.  
+Ai fini della frequenza alle attivita' della scuola e' riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.  
+Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione d'esame, di cui fanno parte, il direttore della scuola ed i docenti delle materie relative all'anno in corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno in corso. Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.  
+Art. 442. - In aggiunta agli insegnamenti precedenti gli iscritti alla scuola dovranno seguire uno o piu' corsi universitari, tra quelli impartiti dalla facolta' di farmacia, per colmare eventuali lacune in relazione al tipo di laurea conseguito.  
+Gli insegnamenti da seguire verranno indicati ad ogni iscritto, dal consiglio direttivo della scuola, tenendo conto del suo curriculum e dei suoi interessi scientifici.  
+Art. 443. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio delle scuole di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso.  
+A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista, la commissione per l'esame di diploma e' composta da cinque membri nominati dal rettore, su proposta del direttore della scuola e composta dal direttore presidente e da quattro membri scelti tra i docenti della scuola stessa.  
+Art. 444. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.  
+Art. 445. - Il consiglio della scuola e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99). Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento di insegnamenti.  
+La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
+Il direttore della scuola e' nominato dal rettore su proposta del consiglio della scuola; ha mandato triennale ed e' rieleggibile. In caso di decadenza il nuovo eletto resta in carica per la parte restante del triennio.  
+Art. 446 (Norme transitorie). - Gli studenti iscritti alla scuola di perfezionamento in analisi e tecnologia farmaceutiche dovranno sostenere l'esame di diploma entro l'anno accademico antecedente a quello della trasformazione in scuola di specializzazione in farmacia industriale.  
+Gli iscritti ai diversi anni della scuola di perfezionamento in analisi e tecnologie farmaceutiche potranno ottenere il passaggio al medesimo anno od all'anno successivo della scuola di specializzazione con motivata delibera del consiglio della scuola che procedera' alla eventuale convalida degli esami superati stabilendo altresi' gli eventuali esami da sostenere, relativi agli anni di corso precedenti a quello di ammissione, non previsti nel vecchio ordinamento.  
+Qualora il passaggio degli iscritti dalla scuola di perfezionamento a quella di specializzazione determini il superamento del numero dei posti disponibili, le ammissioni degli stessi avvengono in soprannumero e verranno riassorbite con la riduzione del numero dei posti disponibili per gli anni successivi.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 maggio 1976
+### Dato a Roma, addi' 8 ottobre 1984
 
-LEONE MALFATTI
+PERTINI
 
-Visto, il Guardasigilli: BONIFACIO
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 29 ottobre 1976
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Atti di Governo, registro n. 11, foglio n. 1
+Registrato alla Corte dei conti, addi' 18 gennaio 1985
+
+Registro n. 2 Istruzione, foglio n. 351

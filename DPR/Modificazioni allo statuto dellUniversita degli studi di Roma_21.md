@@ -1,123 +1,108 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1980 n. 774
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 887
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1980 n. 774
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 887
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Roma e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Roma, approvato e modificato con i decreti su indicati, e' ulteriormente modificato come appresso:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-All'art. 50, relativo alla facolta' di scienze statistiche, demografiche ed attuariali, dopo la laurea in scienze statistiche ed attuariali e' aggiunta:  
-laurea in scienze statistiche ed economiche.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Dopo l'art. 56, con il conseguente spostamento della numerazione degli articoli successivi, e' aggiunto il seguente nuovo articolo:  
-Art. 57. - La durata del corso degli studi per la laurea in scienze statistiche ed economiche e' di quattro anni.  
-Titoli di ammissione: quelli previsti dalle vigenti disposizioni.  
-I diplomati in statistica sono ammessi al terzo anno, ma il consiglio di facolta' provvedera' a prescrivere di volta in volta il piano di studi per adire la laurea.  
-Per le abbreviazioni di corso e il riconoscimento di esami in base ad altre lauree conseguite presso Universita' o Istituti superiori italiani e per i provenienti da altri corsi di laurea, decide il consiglio di facolta' caso per caso.  
-Sono insegnamenti fondamentali:  
-1) istituzioni di analisi matematica;  
-2) analisi matematica;  
-3) geometria analitica;  
-4) calcolo delle probabilita';  
-5) istituzioni di statistica;  
-6) statistica;  
-7) statistica metodologica;  
-8) demografia;  
-9)-10) economia politica (biennale);  
-11) politica economica e finanziaria;  
-12) istituzioni di statistica economica;  
-13) statistica economica;  
-14) economia d'azienda;  
-15) statistica aziendale e analisi di mercato;  
-16) controllo statistico della qualita' e statistica industriale;  
-17) istituzioni di diritto privato;  
-18) istituzioni di diritto pubblico;  
-19) teoria dei campioni.  
-Sono insegnamenti complementari:  
-1) analisi economica;  
-2) analisi economica II;  
-3) complementi di econometria;  
-4) contabilita' nazionale;  
-5) demografia investigativa;  
-6) econometria;  
-7) economia applicata;  
-8) economia industriale (I semestre);  
-9) economia industriale (II semestre);  
-10) economia internazionale;  
-11) economia del lavoro;  
-12) economia matematica;  
-13) economia monetaria;  
-14) economia della pianificazione economica;  
-15) economia pubblica;  
-16) geografia politica ed economica;  
-17) matematica finanziaria ed istituzioni di matematica attuariale;  
-18) metodi matematici di ottimizzazione;  
-19) metodologia della scienza;  
-20) politica economica e finanziaria II;  
-21) processi aleatori e teoria delle file di attesa;  
-22) metodologia statistica della ricerca sperimentale;  
-23) ragioneria generale (semestrale);  
-24) ricerca operativa;  
-25) scienza delle finanze;  
-26) statistica matematica;  
-27) storia economica;  
-28) storia delle dottrine economiche;  
-29) teoria dei giochi e delle decisioni;  
-30) teoria e politica dello sviluppo economico (I semestre);  
-31) teoria e politica dello sviluppo economico (II semestre);  
-32) teoria dei sistemi;  
-33) teoria delle informazioni;  
-34) elaborazione automatica dei dati.  
-Gli insegnamenti complementari possono essere scelti dallo studente anche fra le discipline impartite nel biennio per il diploma in statistica o fra quelle impartite in altre facolta' dell'ateneo, previa approvazione del preside della facolta'. Detta approvazione deve essere richiesta entro il 31 dicembre di ogni anno.  
-Per essere ammesso all'esame di laurea, lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e in almeno tre complementari. Deve anche aver superato gli esami di due lingue straniere moderne, dei quali almeno uno di lingua francese o inglese o tedesca presso la facolta' di scienze politiche, e l'altro di lingua il cui insegnamento sia impartito presso qualsiasi facolta' dell'ateneo.  
-Per essere iscritto al secondo anno lo studente deve aver superato almeno due esami fondamentali del primo anno.  
-Per l'insegnamento biennale di economia politica e' prescritto l'esame alla fine di ciascun corso annuale, dovendosi il primo considerare propedeutico rispetto al secondo.  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli 217, 219 e 220, relativi alla scuola di perfezionamento in diritto sindacale e del lavoro, che muta la denominazione in quella di "Scuola di perfezionamento in diritto sindacale, del lavoro e della previdenza sociale", sono abrogati e sostituiti dai seguenti:  
+Art. 217. - La scuola di perfezionamento in diritto sindacale, del lavoro e della previdenza sociale, annessa alla facolta' di giurisprudenza, ha lo scopo di perfezionare i giovani nelle discipline sindacali, del lavoro e della previdenza sociale, di integrarne la preparazione scientifica e di approfondire, nella ricerca, la loro conoscenza del diritto del lavoro, dell'organizzazione sindacale e del sistema previdenziale.  
+Art. 219. - La scuola rilascia un diploma di perfezionamento in diritto sindacale, del lavoro e della previdenza sociale, dopo due anni di corso e dopo che i candidati abbiano superato gli esami nelle materie costitutive della scuola e nelle altre materie in cui sia prescritto l'esame.  
+Art. 220. - Il corso si distingue in due indirizzi:  
+a) sindacale e del lavoro; b) previdenziale.  
+Sono insegnamenti costitutivi dell'indirizzo sindacale e del lavoro:  
+1) Diritto del lavoro;  
+2) Diritto sindacale;  
+3) Principi di sicurezza sociale;  
+4) Diritto della previdenza sociale;  
+5) Storia del lavoro e del movimento sindacale;  
+6) Diritto sindacale e del lavoro comparato;  
+7) Tecnica sindacale;  
+8) Economia del lavoro.  
+Sono insegnamenti costitutivi dell'indirizzo previdenziale:  
+1) Diritto del lavoro;  
+2) Diritto sindacale;  
+3) Principi di sicurezza sociale;  
+4) Diritto della previdenza sociale;  
+5) Storia e comparazione della previdenza sociale;  
+6) Organizzazione amministrativa del lavoro;  
+7) Tecnica delle assicurazioni sociali;  
+8) Assicurazione sociale di invalidita', vecchiaia e superstiti;  
+9) Assicurazione sociale di malattia;  
+10) Assicurazione sociale per infortuni e malattie professionali.  
+Il consiglio stabilisce e pubblica sul manifesto annuale quali degli insegnamenti suddetti abbiano durata biennale e determina quali altri insegnamenti a carattere monografico possono essere impartiti e se su tali insegnamenti debba sostenersi la relativa prova di esame.  
+Al momento dell'iscrizione al corso l'allievo deve indicare quale dei due indirizzi intende seguire.  
+Gli articoli da 355 a 359, relativi alla scuola di glottologia, sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di glottologia  
+Art. 355. - La scuola di glottologia conferisce il diploma di perfezionamento in glottologia.  
+Art. 356. - Titolo di ammissione e' la laurea in lettere.  
+Per il secondo comma dell'art. 290 del presente statuto, il consiglio della scuola puo' sottoporre gli aspiranti a un colloquio preliminare.  
+Il consiglio della scuola giudica altresi' dell'ammissibilita' di aspiranti provvisti di laurea diversa.  
+Il corso della scuola ha la durata di due anni.  
+Art. 357. - Il perfezionamento in glottologia ha per oggetto due indirizzi di studi:  
+a) la linguistica indoeuropea;  
+b) la linguistica generale.  
+Art. 358. - Sono insegnamenti costitutivi della scuola:  
+a) Per la linguistica indoeuropea:  
+1) Glottologia;  
+2) Storia comparata delle lingue classiche;  
+3) Linguistica celtica;  
+4) Linguistica germanica;  
+5) Linguistica italica;  
+6) Linguistica balto-slava;  
+7) Linguistica indo-iranica;  
+8) Linguistica anatolica;  
+9) Linguistica armenica;  
+10) Linguistica albanese;  
+11) Linguistica romanza;  
+12) Storia della lingua italiana;  
+13) Dialettologia italiana;  
+14) Fonetica sperimentale.  
+b) Per la linguistica generale:  
+1) Glottologia;  
+2) Teoria della lingua e del linguaggio;  
+3) Fonetica sperimentale;  
+4) Linguistica quantitativa e matematica;  
+5) Psicolinguistica;  
+6) Sociolinguistica;  
+7) Etnolinguistica;  
+8) Linguistica applicata;  
+9) Lessicologia applicata.  
+Art. 359. - Per essere ammessi a sostenere l'esame di diploma gli iscritti devono aver superato un esame biennale di glottologia e gli esami di altre sei annualita' di corso tra le materie del gruppo prescelto (a) o b), di cui all'art. 358).  
+Con l'approvazione da parte del consiglio della scuola, nel piano di studio, presentato alla direzione della stessa, possono essere programmate materie di entrambi i gruppi.  
+Previa autorizzazione del consiglio della scuola, gli iscritti possono sostituire al massimo quattro annualita' dei corsi previsti con altrettante annualita' previste in altri corsi di perfezionamento.  
+L'esame di diploma consiste nella discussione di una dissertazione che abbia carattere di ricerca originale e che rientri nell'ambito delle discipline elencate nell'articolo precedente.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 settembre 1980
+### Dato a Roma, addi' 31 ottobre 1974
 
-PERTINI SARTI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 13 novembre 1980
+Registrato alla Corte dei conti, addi' 21 marzo 1975
 
-Registro n. 106 Istruzione, foglio n. 273
+Atti di Governo, registro n. 9, foglio n. 5

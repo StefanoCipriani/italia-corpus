@@ -1,75 +1,213 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 settembre 1962 n. 1570
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1964 n. 1306
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 settembre 1962 n. 1570
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1964 n. 1306
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con [regio decreto 13 ottobre 1927, n. 2210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2210), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936 n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 96, e' sostituito dal seguente:
+
+"La durata di ciascuna Scuola e' fissata come segue:
+
+cinque anni per le Scuole di specializzazione in Medicina generale ed in chirurgia generale;
+
+quattro anni per quelle di Ostetricia e ginecologia;
+
+tre anni per quelle di Ortopedia, Oculistica, Malattie nervose e mentali. Otorinolaringoiatria, Pediatria e Puericoltura, Radiologia medica e Radioterapia, Medicina legale e delle assicurazioni, Medicina del lavoro, Urologia;
+
+due anni per quelle di Malattie cutanee e veneree. Tisiologia e malattie polmonari, Igiene, Anestesiologia".
+
+Art. 98, e' sostituito dal seguente:
+
+"Il corso delle lezioni sara' impartito dal direttore della Scuola e da un corpo insegnanti che verra' scelto ogni anno dalla Facolta' stessa, su proposta del direttore della Scuola tra i professori titolari e incaricati, tra i liberi docenti e gli assistenti di ruolo".
+
+Art. 101 e' sostituito dal seguente:
+
+"Il programma dei corsi e il numero delle lezioni sara' coordinato dalla Facolta' su proposta dei direttori della Scuola".
+
+Art. 108, i primi due commi sono abrogati e sostituiti dai seguenti:
+
+"Gli specializzandi dovranno ottenere la firma di frequenza relativa ai singoli corsi di lezione e alla fine dovranno sostenere un esame per ogni singolo corso di lezioni.
+
+I riprovati in non piu' di due materie potranno essere ammessi all'anno successivo, mantenendo l'obbligo di superare tali esami alla prima sessione.
+
+Le Commissioni per gli esami di profitto, composte di non meno di 3 membri, compreso un libero docente sono nominate dal preside su proposta del direttore della Scuola".
+
+L'art. 118, relativo all'ordinamento della Scuola di specializzazioni in Pediatria e' abrogato e sostituito da seguente nuovo ordinamento.
+
+Scuola di specializzazione in Pediatria e puericoltura
+
+Art. 118. - I Anno: Fisio-patologia della nutrizione e della crescita, Anatomia ed istologia patologica, Diagnostica di laboratorio, Puericultura.
+
+II Anno: Ortopedia e chirurgia infantile. Dermato-venercologia, Semeiotica pediatrica, Clinica pediatrica.
+
+III Anno: Otorinolaringolatria, Neuropsichiatria infantile, Legislazione sanitaria ed igiene scolastica.
+
+Particolarita' di terapia nell'eta' infantile, Clinica pediatrica.
+
+L'art. 121, relativo all'ordinamento della Scuola di specializzazione in Medicina legale e delle assicurazioni e' abrogato e sostituito dal seguente:
+
+Scuola di specializzazione in Medicina legale e delle assicurazioni
+
+Art. 121. - I Anno: Tecnica delle autopsie e diagnostica anatomo-patologica, Tecnica delle autopsie giudiziarie, Microscopia legata alla medicina legale (laboratorio); Questioni medico-legali in rapporto al diritto penale e civile, Elementi di Diritto pubblico e privato, Elementi di Diritto processuale penale e civile.
+
+II Anno: Elementi di legislazione del lavoro e delle assicurazioni, Tecnica delle perizie medico-legali, Semeiotica medica negli operai assicurati ed infortunistica, Chimica e tossicologia forense, Traumatologia forense (semeiotica), Malattie del lavoro.
+
+III Anno: Medicina legale assicurativa, Infortunistica medico-legale, Elementi di matematica attuariale e tecnica delle assicurazioni, Invalidita' e rieducazione professionale, Polizia scientifica e medico giudiziaria, Psicologia forense e antropologia criminale.
+
+L'art. 122, relativo all'ordinamento della Scuola di specializzazione in Radiologia medica e radioterapia e' abrogato e sostituito dal seguente.
+
+Scuola di specializzazione in Radiologia medica e radioterapia
+
+Art. 122. - I Anno: Fisica delle radiazioni, Tecnica radiodiagnostica, Proiettica radiografica, Tecnica radioterapica, Radiobiologia (biennale), Elettrobiologia e terapia.
+
+II Anno: Diagnostica radiologica (biennale), Radiobiologia, Radioterapia (biennale), Medicina nucleare (biennale), Dosimetria.
+
+III Anno: Diagnostica radiologica, Radioterapia, Medicina nucleare, Patologia da radiazioni, Radioprotezioni.
+
+Gli articoli dal n. 126 al 134 relativi alla Scuola di specializzazione in Medicina del lavoro sono abrogati e sostituiti dal seguente nuovo ordinamento:
+
+Scuola di specializzazione in Medicina del lavoro
+
+Art. 126. - I Anno: Fisiologia del lavoro, Igiene del lavoro, Tecnologia, Psicologia del lavoro e psicotecnica, Patologia del lavoro, Tecnica e diagnostica di laboratorio.
+
+II Anno: Clinica del lavoro, Tossicologia professionale, Anatomia patologica delle malattie professionali, Radiologia, Medicina preventiva.
+
+III Anno: Clinica del lavoro, Infortunistica, Dermatologia professionale, Neuropatologia professionale, Medicina assicurativa e valutazione di danno.
+
+Gli articoli dal n. 135 al n. 144, relativi alla Scuola di specializzazione in Urologia sono abrogati e sostituiti dal seguente nuovo ordinamento.
+
+Scuola di specializzazione in Urologia
+
+Art. 127. - I Anno: Anatomia, delle vie urinarie, Fisiopatologia della funzione urinaria (reni, ureteri, vescica, prostata), Tecnica urologica ed endoscopica.
+
+II Anno: Semeiotica e diagnostica urologica, Radiologia urologica, Anatomia patologica delle vie urinarie.
+
+III Anno: Patologia e terapia medica e chirurgica delle vie urinarie, Tecnica operatoria chirurgica ed urologica.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica.
+
+italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1964
+
+Per il Presidente della Repubblica
+
+Il Presidente del Senato
+
+MERZAGORA
+
+GUI
+
+Visto, Il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 11 dicembre 1964 Atti del Governo, registro n. 189, foglio n. 4. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con [regio decreto 13 ottobre 1927, n. 2210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2210), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936 n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita', accademiche dell'Universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Riconosciute valide le deduzioni formulate dalle autorita' accademiche dell'Universita' anzidetta nei riguardi del predetto parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 96, e' sostituito dal seguente:  
+"La durata di ciascuna Scuola e' fissata come segue:  
+cinque anni per le Scuole di specializzazione in Medicina generale ed in chirurgia generale;  
+quattro anni per quelle di Ostetricia e ginecologia;  
+tre anni per quelle di Ortopedia, Oculistica, Malattie nervose e mentali. Otorinolaringoiatria, Pediatria e Puericoltura, Radiologia medica e Radioterapia, Medicina legale e delle assicurazioni, Medicina del lavoro, Urologia;  
+due anni per quelle di Malattie cutanee e veneree. Tisiologia e malattie polmonari, Igiene, Anestesiologia".  
+Art. 98, e' sostituito dal seguente:  
+"Il corso delle lezioni sara' impartito dal direttore della Scuola e da un corpo insegnanti che verra' scelto ogni anno dalla Facolta' stessa, su proposta del direttore della Scuola tra i professori titolari e incaricati, tra i liberi docenti e gli assistenti di ruolo".  
+Art. 101 e' sostituito dal seguente:  
+"Il programma dei corsi e il numero delle lezioni sara' coordinato dalla Facolta' su proposta dei direttori della Scuola".  
+Art. 108, i primi due commi sono abrogati e sostituiti dai seguenti:  
+"Gli specializzandi dovranno ottenere la firma di frequenza relativa ai singoli corsi di lezione e alla fine dovranno sostenere un esame per ogni singolo corso di lezioni.  
+I riprovati in non piu' di due materie potranno essere ammessi all'anno successivo, mantenendo l'obbligo di superare tali esami alla prima sessione.  
+Le Commissioni per gli esami di profitto, composte di non meno di 3 membri, compreso un libero docente sono nominate dal preside su proposta del direttore della Scuola".  
+L'art. 118, relativo all'ordinamento della Scuola di specializzazioni in Pediatria e' abrogato e sostituito da seguente nuovo ordinamento.  
   
-Art. 56. - L'elenco degli insegnamenti del 2° anno del biennio propedeutico dei corsi di laurea in Ingegneria e' abrogato e sostituito dal seguente:  
-1) Analisi matematica II;  
-2) Meccanica razionale;  
-3) Fisica II;  
-4) Disegno di macchine.  
-Per i corsi di laurea in Ingegneria civile l'insegnamento di "Disegno di macchine" e' sostituito dall'insegnamento di "Applicazione di geometria descrittiva".  
+Scuola di specializzazione in Pediatria e puericoltura  
   
-Art. 57. - Agli insegnamenti obbligatori sul piano della Facolta' nel corso di laurea in Ingegneria civile - Sezione edile - e' aggiunto l'insegnamento di "Tecnologie generali dei materiali".  
-Nei gruppi a scelta "Indirizzo stradale" assume la denominazione di "Indirizzo stradale ed urbanistico" e nello stesso gruppo l'insegnamento di "Costruzioni di ponti" viene sostituito da quello di "Macchine da cantiere e di impianti stradali".  
-Agli insegnamenti obbligatori sul piano della Facolta' del corso di laurea in Ingegneria civile - Sezione idraulica - sono aggiunti gli insegnamenti di "Progetti di strutture" e di "Tecnologie generali dei materiali" mentre l'insegnamento di "Estimo ed esercizio professionale" viene soppresso.  
-Nel gruppo b) di materie a scelta della stessa Sezione idraulica l'insegnamento di "Costruzioni di ponti" viene sostituito con quello di "Estimo ed esercizio professionale".  
-Nel gruppo b) di materie a scelta del corso di laurea in Ingegneria civile - Sezione trasporti - l'insegnamento di e Impianti elettrici a media e bassa frequenza" viene sostituito con quello di "Macchine da cantiere ed impianti stradali".  
-Nel corso di laurea in Ingegneria elettronica gli insegnamento di e "Apparecchiature radio trasmittenti e ricercati" e di "Tubi elettronici e semiconduttori" obbligatori sul piano della Facolta' vengono rispettivamente sostituiti con quelli di "Radiotecnica" e di "Componenti elettronici".  
-Nel corso di laurea in Ingegneria meccanica gli insegna menti di e Organizzazione aziendale, e legislazione industriale e di "Preparazione meccanica, dei minerali da semestrali passano annuali.  
-Nello stesso corso di laurea ai gruppi di materie a scelta viene aggiunto il seguente:  
-Indirizzo navale:  
-"Tecnologie meccaniche applicate alle costruzioni navali e e Impianti ausiliari navali".  
-Tra gli insegnamenti obbligatori sul piano della Facolta' nel corso di laurea in Ingegneria l'insegnamento di "Apparecchiature radio trasmittenti e riceventi" e' soppresso mentre l'insegnamento di "Tubi elettronici e semiconduttori" assume la denominazioni di "Componenti elettronici".  
-Nel gruppo a) delle materie a scelta dello stesso corso di laurea l'insegnamento di "Sintesi circuitale" viene abrogato e sostituito con quello di "Impianti elettrici".  
+Art. 118. - I Anno: Fisio-patologia della nutrizione e della crescita, Anatomia ed istologia patologica, Diagnostica di laboratorio, Puericultura.  
+II Anno: Ortopedia e chirurgia infantile. Dermato-venercologia, Semeiotica pediatrica, Clinica pediatrica.  
+III Anno: Otorinolaringolatria, Neuropsichiatria infantile, Legislazione sanitaria ed igiene scolastica.  
+Particolarita' di terapia nell'eta' infantile, Clinica pediatrica.  
+L'art. 121, relativo all'ordinamento della Scuola di specializzazione in Medicina legale e delle assicurazioni e' abrogato e sostituito dal seguente:  
   
-Art. 62, relativo alla precedenza e' cosi' modificato:  
-Nell'elenco degli esami di cui alla lettere c) viene soppresso quello di "Idraulica "nel senso che non deve essere soppresso preceduto dall'esame di "Fisica".  
-Nell'elenco degli esami di cui alla lettere f) quelli di Apparecchiature radio trasmittenti riceventi e di "Tubi elettronici e semiconduttori" assumono rispettivamente la denominazione di "Radiotecnica" e di "Componenti elettronici" mentre viene soppresso quello di "Impianti elettronici a media e bassa frequenza" nel senso che non deve essere precisato da "Macchine elettriche".  
-Dopo l'elenco degli esami di cui alla lettera a) e' aggiunto il seguente nuova comma".  
-L'esame di "Strumentazione ed assistenza al volo e (Ingegneria aeronautica) deve essere preceduto da quelli di "Aeronautica generale" di Elettrotecnica" e di e Fisica tecnica".  
-L'elenco degli esami di cui alla lettera a) e' soppresso e sostituito dal seguente:  
-a) l'esame di e Impianti elettrici deve essere preceduto da quelli di "Impianti elettrici a media e bassa tensione" di "Misure elettriche" e quello di Misure elettriche ad alta frequenza dall'esame di "Misure elettriche".  
-Gli esami di e Complementi di comunicazioni elettriche", "Controlli automatici", e "Radiotecnica" devono essere precedenti a quello di e "Comunicazioni elettriche". L'esame di "Elettronica applicata" deve essere preceduto ne quello di Componenti elettronici".  
-Gli esami di "Controlli automatici", "Radiotecnica e, "Misure elettriche ad alta frequenza", e Complementi di comunicazioni elettriche", e Tecnica, delle microonde e Circuiti logici e calcolatrici elettroniche" devono essere preceduti dall'esame di "Elettronica applicata.".  
+Scuola di specializzazione in Medicina legale e delle assicurazioni   
+Art. 121. - I Anno: Tecnica delle autopsie e diagnostica anatomo-patologica, Tecnica delle autopsie giudiziarie, Microscopia legata alla medicina legale (laboratorio); Questioni medico-legali in rapporto al diritto penale e civile, Elementi di Diritto pubblico e privato, Elementi di Diritto processuale penale e civile.  
+II Anno: Elementi di legislazione del lavoro e delle assicurazioni, Tecnica delle perizie medico-legali, Semeiotica medica negli operai assicurati ed infortunistica, Chimica e tossicologia forense, Traumatologia forense (semeiotica), Malattie del lavoro.  
+III Anno: Medicina legale assicurativa, Infortunistica medico-legale, Elementi di matematica attuariale e tecnica delle assicurazioni, Invalidita' e rieducazione professionale, Polizia scientifica e medico giudiziaria, Psicologia forense e antropologia criminale.  
+L'art. 122, relativo all'ordinamento della Scuola di specializzazione in Radiologia medica e radioterapia e' abrogato e sostituito dal seguente.  
   
-Art. 64, relativo alle modalita' degli esami di profitto e' modificato nel senso che l'ultimo periodo dei terzo comma e' soppresso e sostituito dal seguente:  
-"Le prove scritte, grafiche e sperimentali non sono eliminatorie".  
+Scuola di specializzazione in Radiologia medica e radioterapia  
+  
+Art. 122. - I Anno: Fisica delle radiazioni, Tecnica radiodiagnostica, Proiettica radiografica, Tecnica radioterapica, Radiobiologia (biennale), Elettrobiologia e terapia.  
+II Anno: Diagnostica radiologica (biennale), Radiobiologia, Radioterapia (biennale), Medicina nucleare (biennale), Dosimetria.  
+III Anno: Diagnostica radiologica, Radioterapia, Medicina nucleare, Patologia da radiazioni, Radioprotezioni.  
+Gli articoli dal n. 126 al 134 relativi alla Scuola di specializzazione in Medicina del lavoro sono abrogati e sostituiti dal seguente nuovo ordinamento:  
+  
+Scuola di specializzazione in Medicina del lavoro  
+  
+Art. 126. - I Anno: Fisiologia del lavoro, Igiene del lavoro, Tecnologia, Psicologia del lavoro e psicotecnica, Patologia del lavoro, Tecnica e diagnostica di laboratorio.  
+II Anno: Clinica del lavoro, Tossicologia professionale, Anatomia patologica delle malattie professionali, Radiologia, Medicina preventiva.  
+III Anno: Clinica del lavoro, Infortunistica, Dermatologia professionale, Neuropatologia professionale, Medicina assicurativa e valutazione di danno.  
+Gli articoli dal n. 135 al n. 144, relativi alla Scuola di specializzazione in Urologia sono abrogati e sostituiti dal seguente nuovo ordinamento.  
+  
+Scuola di specializzazione in Urologia  
+  
+Art. 127. - I Anno: Anatomia, delle vie urinarie, Fisiopatologia della funzione urinaria (reni, ureteri, vescica, prostata), Tecnica urologica ed endoscopica.  
+II Anno: Semeiotica e diagnostica urologica, Radiologia urologica, Anatomia patologica delle vie urinarie.  
+III Anno: Patologia e terapia medica e chirurgica delle vie urinarie, Tecnica operatoria chirurgica ed urologica.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica.
+---------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 settembre 1962
+### italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-SEGNI GUI
+Dato a Roma, addi' 31 ottobre 1964 Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA GUI
 
-Visto, il Guardasigilli: BOSCO
+Visto, Il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 12 novembre 1962
+Registrato alla Corte dei conti, addi' 11 dicembre 1964
 
-Atti del Governo, registro n. 160, foglio n. 16. - VILLA
+Atti del Governo, registro n. 189, foglio n. 4. - VILLA

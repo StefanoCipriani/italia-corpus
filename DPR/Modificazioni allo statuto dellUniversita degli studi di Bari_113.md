@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 dicembre 1973 n. 1196
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1978 n. 751
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 dicembre 1973 n. 1196
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1978 n. 751
 ================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
@@ -10,255 +10,758 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro per la pubblica istruzione:
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-L'art. 59, relativo al corso di laurea in medicina e chirurgia, e' modificato nel senso che dopo il terzo comma, successivo all'elenco degli insegnamenti complementari, e' inserito il nuovo comma riguardante la propedeuticita' degli esami:
+Art. 192 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono apportate le seguenti modifiche:
 
-"L'esame di fisiologia umana deve essere superato prima di sostenere quelli di patologia generale, di farmacologia e di tutti gli insegnamenti clinici. L'esame di patologia generale deve essere superato prima di sostenere gli esami di tutti gli insegnamenti clinici".
+La scuola di specializzazione in allergologia e immunologia clinica muta la denominazione in quella di scuola di specializzazione in allergologia.
 
-Art. 64 - nell'elenco degli insegnamenti complementari del corso di laurea in farmacia sono aggiunti gli insegnamenti di "Istituzioni di patologia generale" e "Fisiologia cellulare".
+La scuola di specializzazione in ematologia clinica e di laboratorio muta la denominazione in quella di scuola di specializzazione in ematologia generale.
 
-Art. 70 - nell'elenco degli insegnamenti complementari del corso di laurea in chimica e tecnologie farmaceutiche sono aggiunti gli insegnamenti di "Istituzioni di patologia generale" e "Fisiologia cellulare".
+La scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale muta la denominazione in quella di scuola di specializzazione in otorinolaringoiatria.
 
-L'art. 78, concernente l'elenco degli istituti annessi alla facolta' di agraria, e' abrogato e sostituito dai seguenti:
+La scuola di specializzazione in allergologia e immunologia clinica di cui agli articoli 203, 204, 205, 206, muta la denominazione in quella di scuola di specializzazione in allergologia.
 
-Istituto di agronomia e coltivazioni erbacee, cui fanno capo gli insegnamenti di: agronomia generale, coltivazioni erbacee, orticoltura e floricoltura, ecologia, fisica del terreno agrario, agricoltura tropicale e subtropicale, colture protette, tecnica della fertilizzazione, tecnica agronomica della irrigazione, orticoltura, floricoltura, ecologia agraria, foraggicoltura.
+La scuola di specializzazione in ematologia clinica e di laboratorio di cui agli articoli 224, 225, 226, 227, muta la denominazione in quella di scuola di specializzazione in ematologia generale.
 
-Istituto di coltivazione arboree, cui fanno capo gli insegnamenti di: coltivazioni arboree, viticoltura, olivicoltura, tecnica vivaistica, frutticoltura industriale, agrumicoltura, pomologia, tecnica dei frangiventi.
+L'art. 235, relativo alla scuola di specializzazione in igiene e medicina preventiva, e' soppresso e sostituito dal seguente:
 
-Istituto di chimica agraria, cui fanno capo gli insegnamenti di: chimica generale ed inorganica con applicazioni di analitica, chimica organica, chimica agraria (biennale), enzimologia, chimica biologica, chimica degli antiparassitari, pedologia, biochimica vegetale.
+Scuola di specializzazione in igiene e medicina preventiva
 
-Istituto di patologia vegetale, cui fanno capo gli insegnamenti di: patologia vegetale, patologia vegetale forestale, fisiopatologia, patologia delle piante ortive, patologia delle sementi, patologia dei prodotti e delle derrate agrarie, fitoiatria, diserbanti, batteriologia fitopatologica, virologia vegetale, nematologia, micologia, botanica generale, botanica sistematica, fisiologia vegetale.
+Art. 235. - La scuola di specializzazione in igiene e medicina preventiva ha sede presso l'istituto di igiene e conferisce il diploma di specialista in igiene e medicina preventiva.
 
-Istituto di microbiologia agraria e tecnica, cui fanno capo gli insegnamenti di: microbiologia agraria e tecnica, microbiologia industriale, micotossicologia, residui dei biocidi e biodegradazione.
+La direzione della scuola e' affidata al professore di ruolo della stessa materia della specializzazione, o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
 
-Istituto di zootecnia, cui fanno capo gli insegnamenti di: zootecnica generale, zootecnica speciale, avicoltura e coniglicoltura, igiene zootecnica, immunogenetica, fisiologia e tecnica della riproduzione animale, tecnica mangimistica, avicoltura, coniglicoltura, idrobiologia e pescicoltura, ovinicoltura, tecnica dell'alimentazione del bestiame, etnografia zootecnica e studio della popolazione, fisioclimatologia animale.
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.
 
-Istituto di anatomia e fisiologia degli animali domestici, cui fanno capo gli insegnamenti di: anatomia e fisiologia degli animali domestici, zoognostica, fisiologia zootecnica, approvvigionamenti annonari.
+E' richiesto, almeno all'inizio del corso, il possesso del diploma - di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
 
-Istituto di meccanica agraria, cui fanno capo gli insegnamenti di: matematica, fisica, meccanica agraria, tecnica della meccanizzazione agricola, proprieta' fisico-meccaniche dei prodotti agricoli, impianti frigoriferi, macchine ed impianti di industrie agrarie.
+Art. 236. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.
 
-Istituto di costruzioni rurali, cui fanno capo gli insegnamenti di: costruzioni agricole d'esercizio e di abitazione, topografia e costruzioni rurali, edilizia zootecnica, costruzioni ed impianti per le coltivazioni protette, idraulica agraria, tecnica della bonifica, impianti idrici rurali.
+Art. 237. - Il numero massimo degli allievi e' di venti per anno di corso e complessivamente di ottanta iscritti per l'intero corso di studi.
 
-Istituto di industrie agrarie, cui fanno capo gli insegnamenti di: industrie agrarie, tecnica delle applicazioni frigorifere, tecnica commerciale dei prodotti agricoli, tecnologia degli oli grassi e derivati, legislazione dei prodotti agrari e delle sostanze di uso agrario, industria della distillazione.
+Art. 238. - L'ammissione al corso avviene per titoli ed esami.
 
-Istituto di economia e politica agraria, cui fanno capo gli insegnamenti di: principi di economia politica e statistica, economia e politica agraria, cooperazione agricola, sociologia rurale, storia dell'agricoltura, diritto agrario, tecnica del mercato dei prodotti agricoli, programmazione economica in agricoltura, zooeconomia.
+Art. 239. - Il corso si articola in un biennio propedeutico seguito da un biennio differenziato con cinque orientamenti e precisamente:
 
-Istituto di estimo rurale e contabilita', cui fanno capo gli insegnamenti di: estimo rurale e contabilita', analisi contabile e gestione aziendale, istituzioni di statistica economico-agraria, economia degli investimenti pubblici e privati in agricoltura.
+a) sanita' pubblica;
 
-Istituto di entomologia agraria, cui fanno capo gli insegnamenti di: entomologia agraria, zoologia generale, acarologia, parassitologia animale dei vegetali, bachicoltura e apicoltura, principi e metodi di applicazione della lotta chimica contro gli insetti, entomologia ortofrutticola, tecnica di lotta biologica.
+b) igiene e tecnica ospedaliera;
 
-Azienda agraria sperimentale "Enrico Pantanelli".
+c) igiene del lavoro;
 
-Azienda agraria sperimentale "Vincenzo Ricchioni".
+d) igiene e medicina scolastica;
 
-Istituto di miglioramento genetico delle piante agrarie, cui fanno capo gli insegnamenti di: miglioramento genetico delle piante agrarie, genetica, genetica vegetale, genetica vegetale quantitativa, metodologia statistica, produzione e controllo delle sementi.
+e) laboratorio.
 
-Istituto di selvicoltura, cui fanno capo gli insegnamenti di: botanica forestale, selvicoltura I (ecologia e selvicoltura generale), selvicoltura II (selvicoltura speciale).
+Art. 240. - Il piano di studi e' il seguente:
 
-Azienda sperimentale "Pasquale Martucci".
+PRIMO BIENNIO
 
-Dopo l'art. 164 sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in "Patologia delle colture mediterranee", con il conseguente spostamento della numerazione degli articoli successivi:
+1° Anno:
 
-Scuola di specializzazione in patologia delle colture mediterranee
+metodologia statistica e biometria;
 
-Art. 165. - Scopo della scuola e' di fornire una speciale competenza nel campo della patologia delle colture erbacee ed arboree, tipiche della regione mediterranea. La scuola, della durata di due anni, conferira' il diploma di "Specialista in patologia delle colture mediterranee" valevole a tutti gli effetti di legge.
+educazione sanitaria;
 
-Art. 166. - Direttore della scuola e' il direttore dell'istituto di patologia vegetale, cui la scuola stessa afferisce. In caso di sua indisponibilita' il direttore della scuola sara' nominato anno per anno dalla facolta' e sara' rieleggibile.
+psicologia;
 
-Art. 167. - Il consiglio della scuola e' presieduto dal direttore ed e' costituito dai docenti che vi impartiscono insegnamenti.
+microbiologia ed immunologia I;
 
-Art. 168. - Per il conseguimento del titolo di specialista e' obbligatoria la frequenza alle lezioni, alle esercitazioni, alle conferenze, ai colloqui, ecc. Nel secondo anno e' obbligatorio l'internato presso l'istituto di patologia vegetale.
+parassitologia;
 
-Art. 169. - Alla scuola possono iscriversi coloro - italiani e stranieri - che siano in possesso della laurea in scienze agrarie, in scienze forestali, in scienze biologiche e in scienze naturali, conseguita in una universita' italiana. Alla scuola sono ugualmente ammessi coloro che siano in possesso di equipollenti titoli accademici stranieri. Possono essere ammessi al secondo anno allievi che, pur non avendo frequentato il primo anno, mostrino di possedere una particolare preparazione mediante una prova da sostenere di fronte ad una commissione nominata dalla facolta' su proposta del direttore. La valutazione degli aspiranti, ai fini dell'ammissione alla scuola, sara' fatta da una commissione presieduta dal direttore e nominata dalla facolta'. Nel caso in cui gli aspiranti superino il numero massimo fissato dalla facolta', la stessa commissione provvedera' a stabilire una graduatoria di merito.
+epidemiologia generale e metodologia;
 
-Art. 170. - Gli insegnamenti possono non avere carattere cattedratico ed essere svolti in quella diversa forma che e' consentita dall'indole di ciascuna disciplina.
+profilassi generale;
 
-Art. 171. - Gli insegnamenti impartiti nella scuola sono i seguenti:
+sociologia medica e antropologia culturale.
 
-Ecologia della regione mediterranea (semestrale);
+2° Anno:
 
-Legislazione e organizzazione dei servizi fitopatologici (semestrale);
+microbiologia e immunologia II;
 
-Patologia generale e processi patogenetici;
+patologia e clinica delle malattie infettive;
 
-Parassitologia animale delle colture;
+epidemiologia e profilassi delle malattie infettive I;
 
-Agenti eziologici di malattie (corsi monografici);
+patologia e clinica delle malattie non infettive di importanza sociale;
 
-Epifitologia, previsione e stima delle malattie e metodologia statistica;
+epidemiologia e profilassi delle malattie non infettive di importanza sociale I;
 
-Principi di lotta, mezzi meccanici e metodi di applicazione dei biocidi;
+demografia e statistica sanitaria;
 
-Variabilita' dei patogeni e piante resistenti (semestrale);
+legislazione e programmazione sanitaria.
 
-Produzione di sementi e piante sane (semestrale);
+SECONDO BIENNIO
 
-Malattie delle principali colture mediterranee (corsi monografici).
+a) Orientamento di "sanita' pubblica":
 
-Art. 172. - I docenti dei singoli insegnamenti o di parte di essi e i docenti dei corsi monografici sono nominati per incarico, anno per anno, dal consiglio di facolta' su proposta del direttore della scuola.
+3° Anno:
 
-Art. 173. - Alla fine del primo anno si sostengono i seguenti esami di profitto:
+epidemiologia e profilassi delle malattie infettive II;
 
-Ecologia della regione mediterranea;
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;
 
-Legislazione e organizzazione dei servizi fitopatologici;
+igiene dell'ambiente fisico e difesa ecologica;
 
-Patologia generale e processi patogenetici;
+igiene degli alimenti e della nutrizione;
 
-Parassitologia animale delle colture;
+igiene dell'eta' evolutiva;
 
-Agenti eziologici di malattie;
+igiene del lavoro;
 
-Epifitologia, previsione e stima delle malattie e metodologia statistica.
+igiene ed assistenza dell'anziano.
 
-Alla fine del secondo anno si sostengono i seguenti esami di profitto:
+4° Anno:
 
-Principi di lotta, mezzi meccanici e metodi di applicazione dei biocidi;
+igiene edilizia e dell'aggregato urbano;
 
-Variabilita' dei patogeni e piante resistenti;
+igiene ospedaliera;
 
-Produzione di sementi e piante sane;
+organizzazione del territorio e programmazione sanitaria;
 
-Malattie delle principali colture mediterranee.
+medicina di comunita';
 
-L'esame di diploma consiste nella discussione di una dissertazione scritta, svolta dal candidato dinnanzi ad una commissione nominata dalla facolta', su proposta del direttore. L'argomento della dissertazione sara' scelto dal candidato con l'approvazione del direttore della scuola.
+economia sanitaria;
 
-Art. 174. - Le tasse e soprattasse per gli iscritti alla scuola sono le stesse stabilite dalla legge per gli iscritti alla facolta' di agraria. Il contributo annuo che gli iscritti debbono corrispondere per le esercitazioni pratiche e per le prestazioni di qualunque natura di cui usufruiscono durante l'anno di studio, e' stabilito, anno per anno, dal consiglio di facolta' e dal senato accademico.
+elementi di diritto amministrativo.
 
-Art. 175. - Al funzionamento della scuola viene provveduto, oltre che con gli introiti di cui all'articolo precedente, con eventuali contributi da parte dei Ministeri, di enti o privati, che intendono cooperare all'attuazione dei fini che la scuola si propone di conseguire.
+b) Orientamento di "igiene e tecnica ospedaliera":
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e di decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+3° Anno:
 
-Dato a Roma, addi' 24 dicembre 1973
+epidemiologia e profilassi delle malattie infettive II;
 
-LEONE
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;
 
-MALFATTI
+igiene dell'ambiente fisico e difesa ecologica;
 
-Visto, il Guardasigilli: ZAGARI
+igiene e tecnica delle costruzioni ospedaliere; arredamenti ed impianti tecnologici;
+
+igiene dell'alimentazione e dietetica ospedaliera;
+
+organizzazione e funzionamento degli ospedali I;
+
+elementi di diritto e legislazione ospedaliera.
+
+4° Anno:
+
+organizzazione e funzionamento degli ospedali II;
+
+compiti ed attribuzioni della direzione sanitaria;
+
+formazione professionale e compiti del personale ospedaliero;
+
+programmazione ospedaliera e medicina di comunita';
+
+assistenza psichiatrica;
+
+aspetti socio-sanitari dell'ospitalismo;
+
+aspetti economici della gestione ospedaliera.
+
+c) Orientamento di "igiene del lavoro":
+
+3° Anno:
+
+epidemiologia e profilassi delle malattie infettive II;
+
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;
+
+igiene dell'ambiente fisico e difesa ecologica;
+
+epidemiologia e profilassi delle malattie del lavoro;
+
+tecnica ed economia degli impianti industriali;
+
+tossicologia industriale e diagnostica di laboratorio;
+
+elementi di fisica tecnica applicata all'igiene;
+
+igiene dell'ambiente di lavoro I.
+
+4° Anno:
+
+igiene dell'ambiente di lavoro II;
+
+elementi di diritto e legislazione del lavoro;
+
+psicologia del lavoro;
+
+prevenzione degli infortuni;
+
+politica del territorio ed insediamenti industriali;
+
+igiene del lavoro e medicina di comunita'.
+
+d) Orientamento di "igiene e medicina scolastica":
+
+3° Anno:
+
+epidemiologia e profilassi delle malattie non infettive II;
+
+epidemiologia e profilassi delle malattie infettive II;
+
+igiene dell'ambiente fisico e difesa ecologica;
+
+clinica delle malattie dell'eta' evolutiva;
+
+epidemiologia e profilassi delle malattie dell'eta' evolutiva;
+
+igiene degli alimenti e della nutrizione;
+
+auxologia normale e patologica;
+
+psicologia dell'eta' evolutiva.
+
+4° Anno:
+
+servizi di medicina scolastica;
+
+edilizia ed arredamento scolastico;
+
+elementi di pedagogia;
+
+assistenza parascolastica;
+
+educazione sanitaria nella scuola;
+
+legislazione scolastica;
+
+igiene mentale.
+
+e) Orientamento di "laboratorio":
+
+3° Anno:
+
+epidemiologia e profilassi delle malattie infettive II;
+
+epidemiologia e profilassi delle malattie non infettive II;
+
+igiene dell'ambiente fisico e difesa ecologica;
+
+metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale I;
+
+metodi e dosaggi biologici per il controllo dell'inquinamento ambientale;
+
+strumentazione e metodologie chimico-cliniche ed ematologiche I; microscopia applicata all'igiene;
+
+elementi di fisica tecnica applicata all'igiene;
+
+accertamento diagnostico delle malattie infettive e parassitarie I.
+
+4° Anno:
+
+metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale II;
+
+accertamento diagnostico delle malattie infettive e parassitarie II;
+
+strumentazione e metodologie chimico-cliniche ed ematologiche II;
+
+ispezione e controllo degli alimenti;
+
+elementi di informatica.
+
+Gli esami relativi alle discipline svolte con insegnamento biennale verranno sostenute alla fine di detti insegnamenti. I corsi saranno completati da insegnamenti complementari scelti dalla scuola tra i seguenti:
+
+Materie complementari:
+
+automazione del sistema ospedaliero;
+
+biochimica applicata;
+
+climatologia;
+
+diritto sanitario internazionale;
+
+elementi di medicina legale;
+
+genetica umana;
+
+geologia applicata all'igiene;
+
+idrologia;
+
+igiene dei climi tropicali;
+
+igiene dei trasporti;
+
+igiene militare;
+
+igiene rurale;
+
+istituzioni di matematiche;
+
+micologia;
+
+radioprotezionistica.
+
+A giudizio della scuola possono essere indicati come complementari anche altri insegnamenti regolarmente attivati nei corsi di laurea di ciascuna Universita'.
+
+I corsi saranno integrati da un tirocinio pratico di durata comunque non inferiore a tre mesi, da svolgersi durante il secondo biennio.
+
+Art. 241. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Art. 242. - Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno; per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
+
+Al termine del corso di studi per il conseguimento del diploma di specialista in igiene e medicina preventiva, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+
+Gli articoli 243, 244, relativi alla scuola di specializzazione in medicina nucleare, sono soppressi e sostituiti dai seguenti:
+
+Scuola di specializzazione in medicina nucleare
+
+Art. 243. - La scuola di specializzazione in medicina nucleare ha sede presso l'istituto di medicina nucleare ed e' diretta da un professore di ruolo o fuori ruolo della stessa materia o, in carenza, di materie affini.
+
+Alla scuola possono essere ammessi solo i laureati in medicina e chirurgia in possesso del diploma di abilitazione professionale e la loro immatricolazione e' subordinata all'esito di un esame di ammissione. Non sono ammesse abbreviazioni di corso.
+
+La scuola conferisce il diploma di specialista in medicina nucleare. Gli anni di studio necessari per conseguire questo titolo sono tre.
+
+Il primo anno di corso e' identico a quello della scuola di specializzazione in radiologia ed e' da essa mutuabile.
+
+Art. 244. - Gli insegnamenti per il conseguimento del diploma di specialista in medicina nucleare sono cosi' distribuiti nei tre anni di corso:
+
+1° Anno (comune alla specializzazione in radiodiagnostica e radioterapia oncologica):
+
+a) fisica: con richiami di matematica, nozioni di statistica, informatica e dosimetria;
+
+b) radiobiologia, legislazione e norme generali di radioprotezione;
+
+c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione ed archiviazione;
+
+d) nozioni di anatomia e fisiologia generale.
+
+2° Anno:
+
+a) teoria dei tracciati;
+
+b) elementi di radiochimica;
+
+c) applicazioni di diagnostica I;
+
+d) tecniche di misure di radioattivita'.
+
+3° Anno:
+
+a) applicazioni diagnostiche II;
+
+b) applicazioni terapeutiche;
+
+c) radioprotezione e legislazione applicate.
+
+I singoli insegnamenti saranno tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento.
+
+Il numero di iscritti in corso alla scuola e' di nove.
+
+La frequenza e' obbligatoria (dieci mesi all'anno) e deve avvenire in reparti riconosciuti idonei. L'insegnamento verra' svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento aperti a specialisti, ecc. Gli allievi per essere ammessi a sostenere gli esami delle singole materie dovranno avere la firma di frequenza da parte del direttore della scuola stessa. Gli allievi al termine di ogni anno dovranno superare gli esami di profitto delle materie prescritte per poter ottenere l'iscrizione all'anno successivo.
+
+Gli allievi per conseguire il diploma di specializzazione, oltre ad essere stati approvati in tutti gli esami, dovranno elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola.
+
+La scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale di cui all'art. 252 muta la denominazione in quella di scuola di specializzazione in otorinolaringoiatria.
+
+L'art. 259, relativo alla scuola di specializzazione in radiologia e' soppresso e sostituito dal seguente:
+
+Scuola di specializzazione in radiologia
+
+Art. 259. - La scuola di specializzazione in radiologia ha sede presso l'istituto di radiologia ed e' diretta da un professore di ruolo o fuori ruolo della stessa materia o, in carenza, di materia affine. Alla scuola possono essere ammessi solo i laureati in medicina e chirurgia in possesso di diploma di abilitazione professionale e la loro immatricolazione e' subordinata all'esito di un esame di ammissione per titoli ed esami.
+
+Non sono ammesse abbreviazioni di corso.
+
+La scuola conferisce i seguenti diplomi:
+
+a) diploma di specializzazione in radiodiagnostica.
+
+Gli anni di studio necessari per conseguire questo titolo sono quattro;
+
+b) diploma di specializzazione in radioterapia oncologica.
+
+Gli anni di studio necessari per conseguire questo titolo sono quattro.
+
+La scuola ha un tronco comune di due anni identico per i diplomi di radiodiagnostica e radioterapia oncologica.
+
+Gli insegnamenti per il diploma di specialista in radiodiagnostica sono cosi' distribuiti nei quattro anni di corso:
+
+1° Anno (comune alla specializzazione in radioterapia oncologica):
+
+a) fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);
+
+b) radiobiologia, legislazione e norme generali di radioprotezione;
+
+c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;
+
+d) nozioni di anatomia e fisiologia generale.
+
+2° Anno (comune alla radioterapia oncologica):
+
+a) anatomia patologica;
+
+b) apparecchiature e tecniche radiologiche;
+
+c) semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);
+
+d) radiopatologia;
+
+e) dosimetria applicata.
+
+3° Anno:
+
+a) tecniche speciali e relativa semeiotica I;
+
+b) radiodiagnostica speciale dei vari organi ed apparati I.
+
+4° Anno:
+
+a) tecniche speciali e relativa semeiotica (termografia, ecografia, xerografia, TAC) II;
+
+b) radiodiagnostica speciale dei vari organi ed apparati II.
+
+Gli insegnamenti per il diploma di specialista in radioterapia oncologica sono cosi' distribuiti nei quattro anni di corso:
+
+1° Anno (comune alla specializzazione in radiodiagnostica):
+
+a) fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);
+
+b) radiobiologia, legislazione e norme generali di radioprotezione;
+
+c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione, archiviazione;
+
+d) nozioni di anatomia e fisiologia generale.
+
+2° Anno (comune a radiodiagnostica):
+
+a) anatomia patologica;
+
+b) apparecchiature e tecniche radiologiche;
+
+c) semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);
+
+d) radiopatologia;
+
+e) dosimetria applicata.
+
+3° Anno:
+
+a) oncologia generale;
+
+b) oncologia clinica I;
+
+c) tecniche radioterapiche.
+
+4° Anno:
+
+a) oncologia clinica II;
+
+b) fondamenti di terapia chirurgica dei tumori;
+
+c) radioterapia clinica;
+
+d) trattamento del canceroso in fase avanzata.
+
+I singoli insegnamenti saranno tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento.
+
+Il numero massimo di iscritti in corso alla scuola e' di quaranta da ripartirsi annualmente fra i vari corsi di diploma previsti dall'art. 2.
+
+La frequenza pratica (internato) e' obbligatoria e deve avvenire in reparti riconosciuti idonei.
+
+L'insegnamento verra' svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento aperti anche a specialisti, ecc. Gli allievi per essere ammessi a sostenere gli esami delle singole materie, dovranno avere la firma di frequenza da parte del direttore della scuola stessa. Gli allievi al termine di ogni anno dovranno superare gli esami di profitto delle materie prescritte per poter ottenere l'iscrizione all'anno successivo.
+
+Per conseguire il diploma di specializzazione, gli allievi, oltre ad essere stati approvati in tutti gli esami, dovranno elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola.
+
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e de decreti della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 12 settembre 1978
+
+PERTINI
+
+PEDINI
+
+Visto, il Guardasigilli: BONIFACIO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 19 novembre 1974 Atti di Governo, registro n. 6, foglio n. 132. - SCIARRETTA
+alla Corte dei conti, addi' 16 novembre 1978 Registro n. 122 Istruzione, foglio n. 44
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione:   
+Sulla proposta del Ministro della pubblica istruzione;   
   
 Decreta:   
   
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-L'art. 59, relativo al corso di laurea in medicina e chirurgia, e' modificato nel senso che dopo il terzo comma, successivo all'elenco degli insegnamenti complementari, e' inserito il nuovo comma riguardante la propedeuticita' degli esami:   
-"L'esame di fisiologia umana deve essere superato prima di sostenere quelli di patologia generale, di farmacologia e di tutti gli insegnamenti clinici. L'esame di patologia generale deve essere superato prima di sostenere gli esami di tutti gli insegnamenti clinici".   
-Art. 64 - nell'elenco degli insegnamenti complementari del corso di laurea in farmacia sono aggiunti gli insegnamenti di "Istituzioni di patologia generale" e "Fisiologia cellulare".   
-Art. 70 - nell'elenco degli insegnamenti complementari del corso di laurea in chimica e tecnologie farmaceutiche sono aggiunti gli insegnamenti di "Istituzioni di patologia generale" e "Fisiologia cellulare".   
-L'art. 78, concernente l'elenco degli istituti annessi alla facolta' di agraria, e' abrogato e sostituito dai seguenti:   
+Art. 192 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono apportate le seguenti modifiche:   
   
-Istituto di agronomia e coltivazioni erbacee, cui fanno capo gli insegnamenti di: agronomia generale, coltivazioni erbacee, orticoltura e floricoltura, ecologia, fisica del terreno agrario, agricoltura tropicale e subtropicale, colture protette, tecnica della fertilizzazione, tecnica agronomica della irrigazione, orticoltura, floricoltura, ecologia agraria, foraggicoltura.   
-Istituto di coltivazione arboree, cui fanno capo gli insegnamenti di: coltivazioni arboree, viticoltura, olivicoltura, tecnica vivaistica, frutticoltura industriale, agrumicoltura, pomologia, tecnica dei frangiventi.   
-Istituto di chimica agraria, cui fanno capo gli insegnamenti di: chimica generale ed inorganica con applicazioni di analitica, chimica organica, chimica agraria (biennale), enzimologia, chimica biologica, chimica degli antiparassitari, pedologia, biochimica vegetale.   
-Istituto di patologia vegetale, cui fanno capo gli insegnamenti di: patologia vegetale, patologia vegetale forestale, fisiopatologia, patologia delle piante ortive, patologia delle sementi, patologia dei prodotti e delle derrate agrarie, fitoiatria, diserbanti, batteriologia fitopatologica, virologia vegetale, nematologia, micologia, botanica generale, botanica sistematica, fisiologia vegetale.   
-Istituto di microbiologia agraria e tecnica, cui fanno capo gli insegnamenti di: microbiologia agraria e tecnica, microbiologia industriale, micotossicologia, residui dei biocidi e biodegradazione.   
-Istituto di zootecnia, cui fanno capo gli insegnamenti di: zootecnica generale, zootecnica speciale, avicoltura e coniglicoltura, igiene zootecnica, immunogenetica, fisiologia e tecnica della riproduzione animale, tecnica mangimistica, avicoltura, coniglicoltura, idrobiologia e pescicoltura, ovinicoltura, tecnica dell'alimentazione del bestiame, etnografia zootecnica e studio della popolazione, fisioclimatologia animale.   
-Istituto di anatomia e fisiologia degli animali domestici, cui fanno capo gli insegnamenti di: anatomia e fisiologia degli animali domestici, zoognostica, fisiologia zootecnica, approvvigionamenti annonari.   
-Istituto di meccanica agraria, cui fanno capo gli insegnamenti di: matematica, fisica, meccanica agraria, tecnica della meccanizzazione agricola, proprieta' fisico-meccaniche dei prodotti agricoli, impianti frigoriferi, macchine ed impianti di industrie agrarie.   
-Istituto di costruzioni rurali, cui fanno capo gli insegnamenti di: costruzioni agricole d'esercizio e di abitazione, topografia e costruzioni rurali, edilizia zootecnica, costruzioni ed impianti per le coltivazioni protette, idraulica agraria, tecnica della bonifica, impianti idrici rurali.   
-Istituto di industrie agrarie, cui fanno capo gli insegnamenti di: industrie agrarie, tecnica delle applicazioni frigorifere, tecnica commerciale dei prodotti agricoli, tecnologia degli oli grassi e derivati, legislazione dei prodotti agrari e delle sostanze di uso agrario, industria della distillazione.   
-Istituto di economia e politica agraria, cui fanno capo gli insegnamenti di: principi di economia politica e statistica, economia e politica agraria, cooperazione agricola, sociologia rurale, storia dell'agricoltura, diritto agrario, tecnica del mercato dei prodotti agricoli, programmazione economica in agricoltura, zooeconomia.   
-Istituto di estimo rurale e contabilita', cui fanno capo gli insegnamenti di: estimo rurale e contabilita', analisi contabile e gestione aziendale, istituzioni di statistica economico-agraria, economia degli investimenti pubblici e privati in agricoltura.   
-Istituto di entomologia agraria, cui fanno capo gli insegnamenti di: entomologia agraria, zoologia generale, acarologia, parassitologia animale dei vegetali, bachicoltura e apicoltura, principi e metodi di applicazione della lotta chimica contro gli insetti, entomologia ortofrutticola, tecnica di lotta biologica.   
-Azienda agraria sperimentale "Enrico Pantanelli".   
-Azienda agraria sperimentale "Vincenzo Ricchioni".   
-Istituto di miglioramento genetico delle piante agrarie, cui fanno capo gli insegnamenti di: miglioramento genetico delle piante agrarie, genetica, genetica vegetale, genetica vegetale quantitativa, metodologia statistica, produzione e controllo delle sementi.   
-Istituto di selvicoltura, cui fanno capo gli insegnamenti di: botanica forestale, selvicoltura I (ecologia e selvicoltura generale), selvicoltura II (selvicoltura speciale).   
-Azienda sperimentale "Pasquale Martucci".   
+La scuola di specializzazione in allergologia e immunologia clinica muta la denominazione in quella di scuola di specializzazione in allergologia.   
+La scuola di specializzazione in ematologia clinica e di laboratorio muta la denominazione in quella di scuola di specializzazione in ematologia generale.   
+La scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale muta la denominazione in quella di scuola di specializzazione in otorinolaringoiatria.   
+La scuola di specializzazione in allergologia e immunologia clinica di cui agli articoli 203, 204, 205, 206, muta la denominazione in quella di scuola di specializzazione in allergologia.   
+La scuola di specializzazione in ematologia clinica e di laboratorio di cui agli articoli 224, 225, 226, 227, muta la denominazione in quella di scuola di specializzazione in ematologia generale.   
+L'art. 235, relativo alla scuola di specializzazione in igiene e medicina preventiva, e' soppresso e sostituito dal seguente:   
   
-Dopo l'art. 164 sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in "Patologia delle colture mediterranee", con il conseguente spostamento della numerazione degli articoli successivi:   
+Scuola di specializzazione in igiene e medicina preventiva   
+Art. 235. - La scuola di specializzazione in igiene e medicina preventiva ha sede presso l'istituto di igiene e conferisce il diploma di specialista in igiene e medicina preventiva.   
+La direzione della scuola e' affidata al professore di ruolo della stessa materia della specializzazione, o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma - di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+Art. 236. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
+Art. 237. - Il numero massimo degli allievi e' di venti per anno di corso e complessivamente di ottanta iscritti per l'intero corso di studi.   
+Art. 238. - L'ammissione al corso avviene per titoli ed esami.   
+Art. 239. - Il corso si articola in un biennio propedeutico seguito da un biennio differenziato con cinque orientamenti e precisamente:   
+a) sanita' pubblica;   
+b) igiene e tecnica ospedaliera;   
+c) igiene del lavoro;   
+d) igiene e medicina scolastica;   
+e) laboratorio.   
+Art. 240. - Il piano di studi e' il seguente:   
   
-Scuola di specializzazione in patologia delle colture mediterranee   
-Art. 165. - Scopo della scuola e' di fornire una speciale competenza nel campo della patologia delle colture erbacee ed arboree, tipiche della regione mediterranea. La scuola, della durata di due anni, conferira' il diploma di "Specialista in patologia delle colture mediterranee" valevole a tutti gli effetti di legge.   
-Art. 166. - Direttore della scuola e' il direttore dell'istituto di patologia vegetale, cui la scuola stessa afferisce. In caso di sua indisponibilita' il direttore della scuola sara' nominato anno per anno dalla facolta' e sara' rieleggibile.   
-Art. 167. - Il consiglio della scuola e' presieduto dal direttore ed e' costituito dai docenti che vi impartiscono insegnamenti.   
-Art. 168. - Per il conseguimento del titolo di specialista e' obbligatoria la frequenza alle lezioni, alle esercitazioni, alle conferenze, ai colloqui, ecc. Nel secondo anno e' obbligatorio l'internato presso l'istituto di patologia vegetale.   
-Art. 169. - Alla scuola possono iscriversi coloro - italiani e stranieri - che siano in possesso della laurea in scienze agrarie, in scienze forestali, in scienze biologiche e in scienze naturali, conseguita in una universita' italiana. Alla scuola sono ugualmente ammessi coloro che siano in possesso di equipollenti titoli accademici stranieri. Possono essere ammessi al secondo anno allievi che, pur non avendo frequentato il primo anno, mostrino di possedere una particolare preparazione mediante una prova da sostenere di fronte ad una commissione nominata dalla facolta' su proposta del direttore. La valutazione degli aspiranti, ai fini dell'ammissione alla scuola, sara' fatta da una commissione presieduta dal direttore e nominata dalla facolta'. Nel caso in cui gli aspiranti superino il numero massimo fissato dalla facolta', la stessa commissione provvedera' a stabilire una graduatoria di merito.   
-Art. 170. - Gli insegnamenti possono non avere carattere cattedratico ed essere svolti in quella diversa forma che e' consentita dall'indole di ciascuna disciplina.   
-Art. 171. - Gli insegnamenti impartiti nella scuola sono i seguenti:   
+PRIMO BIENNIO   
   
-Ecologia della regione mediterranea (semestrale);   
-Legislazione e organizzazione dei servizi fitopatologici (semestrale);   
-Patologia generale e processi patogenetici;   
-Parassitologia animale delle colture;   
-Agenti eziologici di malattie (corsi monografici);   
-Epifitologia, previsione e stima delle malattie e metodologia statistica;   
-Principi di lotta, mezzi meccanici e metodi di applicazione dei biocidi;   
-Variabilita' dei patogeni e piante resistenti (semestrale);   
-Produzione di sementi e piante sane (semestrale);   
-Malattie delle principali colture mediterranee (corsi monografici).   
+1° Anno:   
+metodologia statistica e biometria;   
+educazione sanitaria;   
+psicologia;   
+microbiologia ed immunologia I;   
+parassitologia;   
+epidemiologia generale e metodologia;   
+profilassi generale;   
+sociologia medica e antropologia culturale.   
+2° Anno:   
+microbiologia e immunologia II;   
+patologia e clinica delle malattie infettive;   
+epidemiologia e profilassi delle malattie infettive I;   
+patologia e clinica delle malattie non infettive di importanza sociale;   
+epidemiologia e profilassi delle malattie non infettive di importanza sociale I;   
+demografia e statistica sanitaria;   
+legislazione e programmazione sanitaria.   
   
-Art. 172. - I docenti dei singoli insegnamenti o di parte di essi e i docenti dei corsi monografici sono nominati per incarico, anno per anno, dal consiglio di facolta' su proposta del direttore della scuola.   
-Art. 173. - Alla fine del primo anno si sostengono i seguenti esami di profitto:   
+SECONDO BIENNIO   
   
-Ecologia della regione mediterranea;   
-Legislazione e organizzazione dei servizi fitopatologici;   
-Patologia generale e processi patogenetici;   
-Parassitologia animale delle colture;   
-Agenti eziologici di malattie;   
-Epifitologia, previsione e stima delle malattie e metodologia statistica.   
+a) Orientamento di "sanita' pubblica":   
+3° Anno:   
+epidemiologia e profilassi delle malattie infettive II;   
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;   
+igiene dell'ambiente fisico e difesa ecologica;   
+igiene degli alimenti e della nutrizione;   
+igiene dell'eta' evolutiva;   
+igiene del lavoro;   
+igiene ed assistenza dell'anziano.   
+4° Anno:   
+igiene edilizia e dell'aggregato urbano;   
+igiene ospedaliera;   
+organizzazione del territorio e programmazione sanitaria;   
+medicina di comunita';   
+economia sanitaria;   
+elementi di diritto amministrativo.   
+b) Orientamento di "igiene e tecnica ospedaliera":   
+3° Anno:   
+epidemiologia e profilassi delle malattie infettive II;   
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;   
+igiene dell'ambiente fisico e difesa ecologica;   
+igiene e tecnica delle costruzioni ospedaliere; arredamenti ed impianti tecnologici;   
+igiene dell'alimentazione e dietetica ospedaliera;   
+organizzazione e funzionamento degli ospedali I;   
+elementi di diritto e legislazione ospedaliera.   
+4° Anno:   
+organizzazione e funzionamento degli ospedali II;   
+compiti ed attribuzioni della direzione sanitaria;   
+formazione professionale e compiti del personale ospedaliero;   
+programmazione ospedaliera e medicina di comunita';   
+assistenza psichiatrica;   
+aspetti socio-sanitari dell'ospitalismo;   
+aspetti economici della gestione ospedaliera.   
+c) Orientamento di "igiene del lavoro":   
+3° Anno:   
+epidemiologia e profilassi delle malattie infettive II;   
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;   
+igiene dell'ambiente fisico e difesa ecologica;   
+epidemiologia e profilassi delle malattie del lavoro;   
+tecnica ed economia degli impianti industriali;   
+tossicologia industriale e diagnostica di laboratorio;   
+elementi di fisica tecnica applicata all'igiene;   
+igiene dell'ambiente di lavoro I.   
+4° Anno:   
+igiene dell'ambiente di lavoro II;   
+elementi di diritto e legislazione del lavoro;   
+psicologia del lavoro;   
+prevenzione degli infortuni;   
+politica del territorio ed insediamenti industriali;   
+igiene del lavoro e medicina di comunita'.   
+d) Orientamento di "igiene e medicina scolastica":   
+3° Anno:   
+epidemiologia e profilassi delle malattie non infettive II;   
+epidemiologia e profilassi delle malattie infettive II;   
+igiene dell'ambiente fisico e difesa ecologica;   
+clinica delle malattie dell'eta' evolutiva;   
+epidemiologia e profilassi delle malattie dell'eta' evolutiva;   
+igiene degli alimenti e della nutrizione;   
+auxologia normale e patologica;   
+psicologia dell'eta' evolutiva.   
+4° Anno:   
+servizi di medicina scolastica;   
+edilizia ed arredamento scolastico;   
+elementi di pedagogia;   
+assistenza parascolastica;   
+educazione sanitaria nella scuola;   
+legislazione scolastica;   
+igiene mentale.   
+e) Orientamento di "laboratorio":   
+3° Anno:   
+epidemiologia e profilassi delle malattie infettive II;   
+epidemiologia e profilassi delle malattie non infettive II;   
+igiene dell'ambiente fisico e difesa ecologica;   
+metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale I;   
+metodi e dosaggi biologici per il controllo dell'inquinamento ambientale;   
+strumentazione e metodologie chimico-cliniche ed ematologiche I; microscopia applicata all'igiene;   
+elementi di fisica tecnica applicata all'igiene;   
+accertamento diagnostico delle malattie infettive e parassitarie I.   
+4° Anno:   
+metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale II;   
+accertamento diagnostico delle malattie infettive e parassitarie II;   
+strumentazione e metodologie chimico-cliniche ed ematologiche II;   
+ispezione e controllo degli alimenti;   
+elementi di informatica.   
+Gli esami relativi alle discipline svolte con insegnamento biennale verranno sostenute alla fine di detti insegnamenti. I corsi saranno completati da insegnamenti complementari scelti dalla scuola tra i seguenti:   
+Materie complementari:   
+automazione del sistema ospedaliero;   
+biochimica applicata;   
+climatologia;   
+diritto sanitario internazionale;   
+elementi di medicina legale;   
+genetica umana;   
+geologia applicata all'igiene;   
+idrologia;   
+igiene dei climi tropicali;   
+igiene dei trasporti;   
+igiene militare;   
+igiene rurale;   
+istituzioni di matematiche;   
+micologia;   
+radioprotezionistica.   
+A giudizio della scuola possono essere indicati come complementari anche altri insegnamenti regolarmente attivati nei corsi di laurea di ciascuna Universita'.   
+I corsi saranno integrati da un tirocinio pratico di durata comunque non inferiore a tre mesi, da svolgersi durante il secondo biennio.   
+Art. 241. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
+Art. 242. - Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno; per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.   
+Al termine del corso di studi per il conseguimento del diploma di specialista in igiene e medicina preventiva, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
+Gli articoli 243, 244, relativi alla scuola di specializzazione in medicina nucleare, sono soppressi e sostituiti dai seguenti:   
   
-Alla fine del secondo anno si sostengono i seguenti esami di profitto:   
+Scuola di specializzazione in medicina nucleare   
+Art. 243. - La scuola di specializzazione in medicina nucleare ha sede presso l'istituto di medicina nucleare ed e' diretta da un professore di ruolo o fuori ruolo della stessa materia o, in carenza, di materie affini.   
+Alla scuola possono essere ammessi solo i laureati in medicina e chirurgia in possesso del diploma di abilitazione professionale e la loro immatricolazione e' subordinata all'esito di un esame di ammissione. Non sono ammesse abbreviazioni di corso.   
+La scuola conferisce il diploma di specialista in medicina nucleare. Gli anni di studio necessari per conseguire questo titolo sono tre.   
+Il primo anno di corso e' identico a quello della scuola di specializzazione in radiologia ed e' da essa mutuabile.   
+Art. 244. - Gli insegnamenti per il conseguimento del diploma di specialista in medicina nucleare sono cosi' distribuiti nei tre anni di corso:   
+1° Anno (comune alla specializzazione in radiodiagnostica e radioterapia oncologica):   
+a) fisica: con richiami di matematica, nozioni di statistica, informatica e dosimetria;   
+b) radiobiologia, legislazione e norme generali di radioprotezione;   
+c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione ed archiviazione;   
+d) nozioni di anatomia e fisiologia generale.   
+2° Anno:   
+a) teoria dei tracciati;   
+b) elementi di radiochimica;   
+c) applicazioni di diagnostica I;   
+d) tecniche di misure di radioattivita'.   
+3° Anno:   
+a) applicazioni diagnostiche II;   
+b) applicazioni terapeutiche;   
+c) radioprotezione e legislazione applicate.   
+I singoli insegnamenti saranno tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento.   
+Il numero di iscritti in corso alla scuola e' di nove.   
+La frequenza e' obbligatoria (dieci mesi all'anno) e deve avvenire in reparti riconosciuti idonei. L'insegnamento verra' svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento aperti a specialisti, ecc. Gli allievi per essere ammessi a sostenere gli esami delle singole materie dovranno avere la firma di frequenza da parte del direttore della scuola stessa. Gli allievi al termine di ogni anno dovranno superare gli esami di profitto delle materie prescritte per poter ottenere l'iscrizione all'anno successivo.   
+Gli allievi per conseguire il diploma di specializzazione, oltre ad essere stati approvati in tutti gli esami, dovranno elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola.   
+La scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale di cui all'art. 252 muta la denominazione in quella di scuola di specializzazione in otorinolaringoiatria.   
+L'art. 259, relativo alla scuola di specializzazione in radiologia e' soppresso e sostituito dal seguente:   
   
-Principi di lotta, mezzi meccanici e metodi di applicazione dei biocidi;   
-Variabilita' dei patogeni e piante resistenti;   
-Produzione di sementi e piante sane;   
-Malattie delle principali colture mediterranee.   
-  
-L'esame di diploma consiste nella discussione di una dissertazione scritta, svolta dal candidato dinnanzi ad una commissione nominata dalla facolta', su proposta del direttore. L'argomento della dissertazione sara' scelto dal candidato con l'approvazione del direttore della scuola.   
-Art. 174. - Le tasse e soprattasse per gli iscritti alla scuola sono le stesse stabilite dalla legge per gli iscritti alla facolta' di agraria. Il contributo annuo che gli iscritti debbono corrispondere per le esercitazioni pratiche e per le prestazioni di qualunque natura di cui usufruiscono durante l'anno di studio, e' stabilito, anno per anno, dal consiglio di facolta' e dal senato accademico.   
-Art. 175. - Al funzionamento della scuola viene provveduto, oltre che con gli introiti di cui all'articolo precedente, con eventuali contributi da parte dei Ministeri, di enti o privati, che intendono cooperare all'attuazione dei fini che la scuola si propone di conseguire.   
+Scuola di specializzazione in radiologia   
+Art. 259. - La scuola di specializzazione in radiologia ha sede presso l'istituto di radiologia ed e' diretta da un professore di ruolo o fuori ruolo della stessa materia o, in carenza, di materia affine. Alla scuola possono essere ammessi solo i laureati in medicina e chirurgia in possesso di diploma di abilitazione professionale e la loro immatricolazione e' subordinata all'esito di un esame di ammissione per titoli ed esami.   
+Non sono ammesse abbreviazioni di corso.   
+La scuola conferisce i seguenti diplomi:   
+a) diploma di specializzazione in radiodiagnostica.   
+Gli anni di studio necessari per conseguire questo titolo sono quattro;   
+b) diploma di specializzazione in radioterapia oncologica.   
+Gli anni di studio necessari per conseguire questo titolo sono quattro.   
+La scuola ha un tronco comune di due anni identico per i diplomi di radiodiagnostica e radioterapia oncologica.   
+Gli insegnamenti per il diploma di specialista in radiodiagnostica sono cosi' distribuiti nei quattro anni di corso:   
+1° Anno (comune alla specializzazione in radioterapia oncologica):   
+a) fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);   
+b) radiobiologia, legislazione e norme generali di radioprotezione;   
+c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;   
+d) nozioni di anatomia e fisiologia generale.   
+2° Anno (comune alla radioterapia oncologica):   
+a) anatomia patologica;   
+b) apparecchiature e tecniche radiologiche;   
+c) semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);   
+d) radiopatologia;   
+e) dosimetria applicata.   
+3° Anno:   
+a) tecniche speciali e relativa semeiotica I;   
+b) radiodiagnostica speciale dei vari organi ed apparati I.   
+4° Anno:   
+a) tecniche speciali e relativa semeiotica (termografia, ecografia, xerografia, TAC) II;   
+b) radiodiagnostica speciale dei vari organi ed apparati II.   
+Gli insegnamenti per il diploma di specialista in radioterapia oncologica sono cosi' distribuiti nei quattro anni di corso:   
+1° Anno (comune alla specializzazione in radiodiagnostica):   
+a) fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);   
+b) radiobiologia, legislazione e norme generali di radioprotezione;   
+c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione, archiviazione;   
+d) nozioni di anatomia e fisiologia generale.   
+2° Anno (comune a radiodiagnostica):   
+a) anatomia patologica;   
+b) apparecchiature e tecniche radiologiche;   
+c) semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);   
+d) radiopatologia;   
+e) dosimetria applicata.   
+3° Anno:   
+a) oncologia generale;   
+b) oncologia clinica I;   
+c) tecniche radioterapiche.   
+4° Anno:   
+a) oncologia clinica II;   
+b) fondamenti di terapia chirurgica dei tumori;   
+c) radioterapia clinica;   
+d) trattamento del canceroso in fase avanzata.   
+I singoli insegnamenti saranno tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento.   
+Il numero massimo di iscritti in corso alla scuola e' di quaranta da ripartirsi annualmente fra i vari corsi di diploma previsti dall'art. 2.   
+La frequenza pratica (internato) e' obbligatoria e deve avvenire in reparti riconosciuti idonei.   
+L'insegnamento verra' svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento aperti anche a specialisti, ecc. Gli allievi per essere ammessi a sostenere gli esami delle singole materie, dovranno avere la firma di frequenza da parte del direttore della scuola stessa. Gli allievi al termine di ogni anno dovranno superare gli esami di profitto delle materie prescritte per poter ottenere l'iscrizione all'anno successivo.   
+Per conseguire il diploma di specializzazione, gli allievi, oltre ad essere stati approvati in tutti gli esami, dovranno elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e di decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e de decreti della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 dicembre 1973
+### Dato a Roma, addi' 12 settembre 1978
 
-LEONE MALFATTI
+PERTINI PEDINI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 19 novembre 1974
+Registrato alla Corte dei conti, addi' 16 novembre 1978
 
-Atti di Governo, registro n. 6, foglio n. 132. - SCIARRETTA
+Registro n. 122 Istruzione, foglio n. 44

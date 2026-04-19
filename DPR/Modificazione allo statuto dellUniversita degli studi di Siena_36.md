@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1983 n. 683
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1983 n. 406
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1983 n. 683
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1983 n. 406
+============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
@@ -39,22 +39,19 @@ Articolo unico
 --------------
 
   
-Nell'art. 69, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti: chirurgia sostitutiva e dei trapianti d'organo;  
-endocrinochirurgia;  
-chirurgia dell'apparato digerente;  
-patologia cellulare;  
-chirurgia traumatologica della strada.  
+Nell'art. 56, relativo al corso di laurea in pedagogia, all'elenco degli insegnamenti complementari e' aggiunto il nuovo seguente insegnamento:  
+educazione degli adulti.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 17 maggio 1983
+### Dato a Roma, addi' 28 marzo 1983
 
 PERTINI FALCUCCI
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 7 dicembre 1983
+Registrato alla Corte dei conti, addi' 17 agosto 1983
 
-Registro n. 75 Istruzione, foglio n. 282
+Registro n. 59 Istruzione, foglio n. 103

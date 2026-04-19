@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1985 n. 337
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1099
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1985 n. 337
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1099
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 14 ottobre 1926, n. 2090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2090), e modificato con [regio decreto 13 ottobre 1927, n. 2281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2281), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 14 ottobre 1926, n. 2090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2090) e modificato con [regio decreto 17 ottobre 1927, n. 2281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-17;2281), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,88 +18,61 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte In deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio universitario nazionale nel suo parere;
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Sulla
------
+Sulla proposta del Ministro della pubblica istruzione;
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Decreta:
+--------
 
-Articolo unico
---------------
+Lo statuto dell'Universita' di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 1
+------
 
   
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Dopo l'art. 983, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in scienza e tecnica delle piante officinali.  
+Nell'art. 189, relativo al corso di laurea in farmacia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+lingua inglese.  
+
+Art. 2
+------
+
   
-Scuola di specializzazione in scienza e tecnica delle piante officinali  
-  
-Art. 984. - E' istituita presso l'Universita' di Napoli la scuola di specializzazione in "scienza e tecnica delle piante officinali" che conferisce il diploma di specializzazione in scienza e tecnica delle piante officinali.  
-Art. 985. - La direzione della scuola ha sede presso la facolta' di farmacia dell'Universita' di Napoli.  
-Art. 986. - La scuola ha lo scopo di promuovere lo studio e la ricerca nel settore delle piante officinali.  
-Art. 987. - La durata del corso e' di due anni e non e' suscettibile di abbreviazione.  
-Art. 988. - Il numero degli iscritti e' di quindici per ogni anno e complessivamente di trenta per l'intero corso di studi.  
-Art. 989. - Alla scuola sono ammessi i laureati in farmacia, chimica e tecnologia farmaceutiche, scienze biologiche, scienze naturali, scienze agrarie, in possesso del diploma di abilitazione all'esercizio professionale ove previsto.  
-Art. 990. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:  
-a) la tesi nella disciplina attinente alla specializzazione;  
-b) il voto di laurea;  
-c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;  
-d) le pubblicazioni nelle predette materie.  
-Il punteggio dei predetti titoli e' quello stabilito dal [decreto ministeriale 16 settembre 1982, pubblicato nella Gazzetta Ufficiale n. 275 del 6 ottobre 1982](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1982-10-06&numeroGazzetta=275).  
-Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo riportato.  
-Art. 991. - La commissione giudicatrice e' nominata dal rettore su proposta del consiglio di facolta' di farmacia. Essa e' composta dal direttore della scuola, che la presiede, e da due professori che insegnano nella scuola stessa. La commissione nel suo interno stabilisce chi deve espletare le funzioni di segretario.  
-Art. 992. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-complementi di botanica farmaceutica;  
-botanica fitognostica ed erboristica;  
-ecologia e fitogeografia;  
-complementi di agronomia e tecnica delle coltivazioni;  
-fitofarmacia;  
-complementi di chimica organica vegetale.  
-2° Anno:  
-farmacognosia generale e speciale;  
-farmacologia speciale delle droghe;  
-tecnica farmaceutica speciale per le preparazioni ricavate da droghe o da derivati di droghe;  
-genetica;  
-industria e commercio erboristico;  
-analisi delle piante medicinali;  
-identificazione di costituenti di piante medicinali.  
-Tutti gli insegnamenti afferiscono alla facolta' di farmacia. I titolari degli insegnamenti possono essere proposti anche tra i professori di ruolo di altre facolta', nei termini previsti dalla legislazione vigente.  
-Il consiglio della facolta' di farmacia, su proposta del consiglio della scuola, sentite le facolta' interessate, coordina annualmente le attivita' didattiche della scuola, e designa altresi' i professori a contratto cui affidare corsi specialistici, secondo quanto previsto dagli [articoli 7](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art7), [9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art9) e [25 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art25).  
-Per lo svolgimento dei suoi compiti e delle sue attivita', la scuola di specializzazione in "scienza e tecnica delle piante officinali" puo' disporre del personale docente e non docente afferente agli istituti e ai dipartimenti della facolta'.  
-Art. 993. - La frequenza ai corsi e' obbligatoria. Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione d'esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno in corso, esprime il giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso. Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.  
-Art. 994. - I corsi sono integrati da esercitazioni pratiche, da erborizzazione in campagna e da gite di istruzione. La frequenza e' obbligatoria sia per i corsi sia per le esercitazioni.  
-Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.  
-Art. 995. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio della scuola di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su uno o piu' materie del corso. A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista in "scienza e tecnica delle piante officinali".  
-Art. 996. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge, i contributi sono stabiliti anno per anno dal consiglio di amministrazione.  
-Art. 997. - Per ciascuna scuola di specializzazione, anche se comprendente piu' indirizzi, e' costituito un unico consiglio presieduto da un direttore. Il consiglio e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).  
-Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento di insegnamenti. Ad esso si applicano le norme generali sul funzionamento degli organi collegiali universitari.  
-La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo della facolta' di farmacia che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
-Art. 998. - Il direttore e' nominato dal rettore su proposta del consiglio della scuola. Dura in carica tre anni ed e' rieleggibile.  
-Il direttore presiede il consiglio della scuola, vigila sul buon andamento di essa, trasmette al preside della facolta' di farmacia gli atti e le deliberazioni del consiglio stesso.  
+Gli articoli 190, 191, 192, 197 e 201 sono soppressi e sostituiti dai seguenti:  
+Art. 190. - Agli insegnamenti di analisi chimica tossicologica, botanica farmaceutica, chimica biologica, chimica bromatologica, chimica farmaceutica applicata, farmacologia e farmacognosia, fisiologia generale, igiene, laboratorio di preparazione estrattiva e sintetica dei farmaci, metodi fisici in chimica organica, saggi e dosaggi farmacologici, tecnica e legislazione farmaceutica, sono annessi corsi di esercitazioni sperimentali.  
+Art. 191. - L'insegnamento biennale di chimica farmaceutica e tossicologica importa un esame al termine di ogni anno e quello triennale di esercitazioni di chimica farmaceutica e tossicologica importa ugualmente un esame al termine di ciascun anno di corso.  
+L'insegnamento biennale di fisiologia generale importa un esame al termine di ogni anno di corso. Gli studenti non possono essere iscritti al terzo corso di esercitazioni di chimica farmaceutica e tossicologica se non hanno superato l'esame di chimica organica. Gli studenti non possono sostenere:  
+a) l'esame del primo corso di esercitazioni di chimica farmaceutica e tossicologica se non hanno superato l'esame di chimica generale ed inorganica;  
+b) gli esami del secondo e terzo corso di esercitazioni di chimica farmaceutica e tossicologica se non hanno superato l'esame di chimica organica e, rispettivamente, gli esami del primo corso e del secondo corso di esercitazioni di chimica farmaceutica e tossicologica;  
+c) l'esame di chimica organica se non hanno superato gli esami di chimica generale ed inorganica e di fisica;  
+d) gli esami di chimica farmaceutica e tossicologica se non hanno superato l'esame di chimica organica;  
+e) l'esame di fisiologia generale Il se non hanno superato gli esami di anatomia umana e di chimica biologica;  
+f) l'esame di farmacologia e farmacognosia se non hanno superato l'esame di fisiologia generale;  
+g) l'esame di tecnica e legislazione farmaceutica se non hanno superato l'esame di esercitazioni di chimica farmaceutica e tossicologica (secondo anno).  
+Art. 192. - Per essere ammesso all'esame di laurea in farmacia lo studente, durante il quadriennio, deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e almeno in quattro complementari da lui scelti, non rientrando in questo computo l'insegnamento di lingua inglese. Deve aver compiuto nel terzo o quarto anno un periodo semestrale di pratica presso una farmacia autorizzata il cui nominativo notifichera' all'inizio alla segreteria della facolta'. L'inizio ed il termine della pratica devono risultare da attestazione rilasciata dal direttore della farmacia presso la quale lo studente l'ha esercitata. Tali dichiarazioni devono essere redatte in carta bollata e debitamente legalizzate.  
+(Omissis).  
+Art. 197. - L'istituto di farmacologia sperimentale raggruppa le cattedre di: farmacologia e farmacognosia (base), farmacologia e farmacognosia (raddoppio) e gli insegnamenti di saggi e dosaggi farmacologici, tossicologia, farmacognosia, patologia generale, chemioterapia, farmacologia applicata.  
+(Omissis).  
+Art. 201. - La direzione di ogni istituto e' affidata ad un professore ordinario o straordinario di una delle discipline afferenti ai singoli istituti, nominato dal rettore su designazione del consiglio di istituto.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 febbraio 1985
+### Dato a Roma, addi' 31 ottobre 1981
 
-PERTINI
+PERTINI BODRATO
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: DARIDA
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 10 marzo 1982
 
-Registrato alla Corte dei conti, addi' 1 luglio 1985
-
-Registro n. 45 Istruzione, foglio n. 342
+Registro n. 38 Istruzione, foglio n. 280

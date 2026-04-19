@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 giugno 1980 n. 607
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1957 n. 995
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 giugno 1980 n. 607
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1957 n. 995
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Modena.
 ------------------------------------------------------------------
@@ -12,48 +12,42 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;   
-Veduto, il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto, il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035), modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successivi;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'universita' di Modena e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
 Decreta:   
   
 Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Dopo l'art. 268, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione del corso di perfezionamento in matematica (ad indirizzo didattico).   
-Corso di perfezionamento in matematica (ad indirizzo didattico)   
-Art. 269. - Presso, la facolta' di scienze matematiche, fisiche e naturali viene istituito un corso di perfezionamento in matematica ad indirizzo didattico.   
-Il corso conferisce un attestato di frequenza ed esame ed ha sede presso l'istituto matematico dell'Universita' di Modena.   
-Art. 270: - Per l'iscrizione al corso di perfezionamento in matematica ad indirizzo didattico e' titolo di ammissione qualunque laurea che, secondo le leggi vigenti, consente l'insegnamento della matematica, o di materie di cui la matematica sia parte, in qualunque tipo di scuola secondaria.   
-Art. 271. - Gli insegnamenti si svolgono presso l'istituto matematico dell'Universita' di Modena e hanno la durata di un anno accademico.   
-Il direttore del corso e' nominato di anno in anno dal consiglio di facolta' e puo' essere riconfermato.   
-Art. 272. - La tassa di iscrizione, le soprattasse e i contributi sono fissati negli importi corrispondenti richiesti agli iscritti al 1° anno di corso della laurea in matematica, salvo i contributi di esercitazioni pratiche e di seminario che vengono fissati di anno in anno dal consiglio di amministrazione sentito il parere della facolta'.   
-Art. 273. - Gli insegnamenti impartiti dal corso sono:   
-1) didattica della matematica;   
-2) complementi di matematica;   
-3) matematica applicata;   
-4) fondamenti della logica e della matematica;   
-5) storia della matematica.   
-Essi consistono in lezioni teoriche, seminari ed esercitazioni.   
-Il corso puo' mutare insegnamenti della facolta' di scienze matematiche, fisiche e naturali ed eventualmente anche di altre facolta' su parere del consiglio di facolta'.   
-Art. 274. - Il profitto degli allievi e' accertato dagli insegnanti durante il corso e mediante una prova finale d'esame al termine del corso.   
-Art. 275. - L'attestato di cui al primo articolo del corso viene rilasciato a cura dell'Universita' di Modena.   
+Art. 47. - All'elenco degli insegnamenti complementari del corso di laurea in scienze matematiche sono aggiunti:   
+"Calcolo delle probabilita'";   
+"Topologia".   
+Art. 48. - All'elenco degli insegnamenti complementari del corso di laurea in fisica e' aggiunto:   
+"Calcolo delle probabilita'".   
+Art. 49. - All'elenco degli insegnamenti complementari del corso di laurea in matematica e fisica sono aggiunti:   
+"Calcolo delle probabilita'";   
+"Topologia".   
+Art. 50. - Dall'elenco degli insegnamenti complementari del corso di laurea in chimica - indirizzo organico biologico - sono depennati: "Chimica di guerra" e "Chimica applicata", e aggiunto "Strutturistica chimica".   
+Dall'elenco degli insegnamenti complementari del corso di laurea in chimica - indirizzo inorganico-chimico-fisico - sono depennati: "Chimica di guerra" e "Strutturistica chimica" e aggiunto: "Scienza dei metalli"; mentre la denominazione dell'insegnamento di "Spettroscopia" viene mutata in quella di "Spettroscopia (corso speciale per chimici)".   
+Art. 51. - All'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti: "Antropologia", "Geologia applicata", "Geografia fisica", "Chimica biologica" (in luogo di "Zooculture") e "Genetica" (in luogo di "Biologia delle razze umane").   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 giugno 1980
+### Dato a Roma, addi' 24 settembre 1957
 
-PERTINI SARTI
+GRONCHI MORO
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 25 settembre 1980
+Registrato alla Corte dei conti, addi' 28 ottobre 1957
 
-Registro n. 88 Istruzione, foglio n. 76
+Atti del Governo, registro n. 108, foglio n. 117. - RELLEVA

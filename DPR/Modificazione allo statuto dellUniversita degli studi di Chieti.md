@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1983 n. 523
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 938
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1983 n. 523
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 938
+==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Chieti.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Chieti.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Chieti, approvato con [decreto del Presidente della Repubblica 8 maggio 1965, n. 1007](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-05-08;1007), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Chieti, approvato con [decreto del Presidente della Repubblica 27 ottobre 1983, n. 1273](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1983-10-27;1273), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -39,19 +39,20 @@ Articolo unico
 --------------
 
   
-Art. 48 - nell'elenco degli insegnamenti complementari del corso di laurea di architettura e' inserito il seguente insegnamento:  
-progettazione ambientale.  
+Art. 17 - nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' inserito l'insegnamento di "scienza dell'ortogenesi".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 maggio 1983
+### Dato a Roma, addi' 31 ottobre 1985
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 23 settembre 1983
+Registrato alla Corte dei conti, addi' 25 febbraio 1986
 
-Registro n. 62 Istruzione, foglio n. 313
+Registro n. 12 Istruzione, foglio n. 264

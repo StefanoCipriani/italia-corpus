@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 settembre 1976 n. 853
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 giugno 1974 n. 608
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 settembre 1976 n. 853
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 giugno 1974 n. 608
+=============================================================
 
 Trasferimento di un posto di professore di ruolo presso la facolta' di lettere e filosofia dell'Universita' di Padova.
 ----------------------------------------------------------------------------------------------------------------------
@@ -12,25 +12,24 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Visto il [decreto del Presidente della Repubblica 9 maggio 1968, n. 704](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-05-09;704), con il quale alla facolta' di lettere e filosofia dell'Universita' di Padova e' stato assegnato, tra gli altri, un nuovo posto di professore di ruolo per il raddoppiamento della cattedra di storia della filosofia, ai sensi della [legge 24 febbraio 1967, n. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-02-24;62);  
-Visto il verbale dell'adunanza del 3 settembre 1976, nella quale la predetta facolta' di lettere e filosofia ha proposto che il posto stesso venga trasferito al raddoppiamento della cattedra di filosofia morale, in considerazione dell'elevato numero di studenti frequentanti detto insegnamento;  
-Ritenuta la necessita' dell'accoglimento della proposta di cui trattasi;  
+Visto il [decreto del Presidente della Repubblica 22 ottobre 1965, n. 1251](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-10-22;1251), con il quale, tra altri, venne assegnato un nuovo posto di professore di ruolo alla facolta' di lettere e filosofia dell'Universita' di Padova per il raddoppiamento della cattedra di geografia, ai sensi della [legge 13 luglio 1965, n. 874](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-07-13;874);  
+Visti i verbali delle adunanze del 22 ottobre e del 26 novembre 1973 della predetta facolta' e il relativo verbale di approvazione del senato accademico in data 25 gennaio 1974, concernenti la proposta di trasferimento, del posto gia' assegnato al raddoppiamento della cattedra di geografia, al raddoppiamento della cattedra di glottologia, in considerazione dell'elevato numero di studenti;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Il [decreto del Presidente della Repubblica 9 maggio 1968, n. 704](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-05-09;704), citato nelle premesse, e' parzialmente rettificato nel senso che il posto di professore di ruolo gia' assegnato alla facolta' di lettere e filosofia dell'Universita' di Padova per il raddoppiamento della cattedra di storia della filosofia e' trasferito al raddoppiamento di filosofia morale della stessa facolta'.  
+Il [decreto del Presidente della Repubblica 22 ottobre 1965, n. 1251](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-10-22;1251), citato nelle premesse, e' parzialmente rettificato nel senso che il posto di professore di ruolo gia' assegnato alla facolta' di lettere e filosofia dell'Universita' di Padova per il raddoppiamento della cattedra di geografia e' trasferito al raddoppiamento della cattedra di glottologia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 settembre 1976
+### Dato a Roma, addi' 14 giugno 1974
 
 LEONE MALFATTI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 20 dicembre 1976
+Registrato alla Corte dei conti, addi' 25 novembre 1974
 
-Registro n. 101 Istruzione, foglio n. 58
+Atti di Governo, registro n. 7, foglio n. 40. - SCIARRETTA

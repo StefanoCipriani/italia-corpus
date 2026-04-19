@@ -1,19 +1,19 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 aprile 1980 n. 279
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1975 n. 661
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 aprile 1980 n. 279
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1975 n. 661
+==============================================================
 
-Approvazione del nuovo statuto dell'"Istituto del nastro azzurro fra combattenti decorati al valor militare", in Roma.
-----------------------------------------------------------------------------------------------------------------------
+Approvazione del nuovo statuto dell'Istituto del nastro azzurro fra combattenti decorati al valor militare, in Roma.
+--------------------------------------------------------------------------------------------------------------------
 
 Art. 1
 ------
 
 N.
 
-279. Decreto del Presidente della Repubblica 23 aprile 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, viene approvato il nuovo statuto dell'"Istituto del nastro azzurro fra combattenti decorati al valor militare", in Roma, eretto in ente morale con [regio decreto 31 maggio 1928, n. 1308](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-05-31;1308).  
+661. Decreto del Presidente della Repubblica 24 ottobre 1975, col quale, sulla proposta del Presidente del Consiglio dei Ministri, viene approvato il nuovo statuto, composto di trentaquattro articoli, dell'Istituto del nastro azzurro fra combattenti decorati al valor militare, quale risulta dalla deliberazione del XV congresso nazionale dell'Istituto adottata nella riunione del 27 novembre 1970, ulteriormente modificato dal XVI congresso nazionale del sodalizio nella seduta del 28 ottobre 1973.  
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 19 giugno 1980  
-Registro n. 5 Presidenza, foglio n. 134
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 15 dicembre 1975  
+Atti di Governo, registro n. 15, foglio n. 33

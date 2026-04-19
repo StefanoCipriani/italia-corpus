@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 marzo 1968 n. 700
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 maggio 1970 n. 541
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 marzo 1968 n. 700
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 maggio 1970 n. 541
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
@@ -10,21 +10,19 @@ Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240) e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del consiglio superiore della pubblica Istruzione;
 
 Sulla proposta del Ministro per la pubblica istruzione;
 
@@ -32,299 +30,180 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 42. - All'elenco degli insegnamenti complementari del corso di laurea in chimica (indirizzo organico-biologico) sono aggiunti quelli di:
+Gli articoli 122, 123, 124, 125, 126, 127, 128, 130, 132, 135, relativi alle norme generali per le scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono abrogati e sostituiti dai seguenti:
 
-Strutturistica chimica;
+Art. 122. - Presso la facolta' di medicina e chirurgia sono istituite le seguenti scuole di specializzazione che conferiscono diplomi di "specialisti nelle discipline professionali medico-chirurgiche" ai sensi dell'[art. 4 del regio decreto 31 dicembre 1923, n. 2909](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;2909~art4):
 
-Chimica dei composti eterociclici;
+Scuola di medicina interna;
 
-Stereochimica;
+Scuola di chirurgia generale;
 
-Cromatografia.
+Scuola di ostetricia e ginecologia;
 
-Nel predetto corso di laurea - per l'indirizzo organico biologico - l'insegnamento di "Chimica bromatologica" muta denominazione in quello di "Chimica bromatologica con esercitazioni".
+Scuola di ortopedia e traumatologia;
 
-Nello stesso corso di laurea - indirizzo organico biologico ed inorganico-chimico fisico - gli insegnamenti complementari di "Analisi matematica (algebrica ed infinitesimale) (biennale)", "Geometria analitica con elementi di proiettiva", "Chimica di guerra", "Meccanica razionale con elementi di statica grafica" sono soppressi.
+Scuola di otorinolaringoiatria e patologia cervicofacciale;
 
-All'elenco degli insegnamenti complementari del corso di laurea in chimica (indirizzo inorganico chimico-fisico) sono aggiunti quelli di:
+Scuola di malattie nervose e mentali;
 
-Stereochimica;
+Scuola di clinica oculistica;
 
-Cromatografia;
+Scuola di clinica pediatrica;
 
-Chimica dei composti di coordinazione;
+Scuola di clinica dermosifilopatica;
 
-Chimica dei composti organometallici;
+Scuola di igiene e medicina preventiva;
 
-Chimica inorganica superiore;
+Scuola di medicina legale e delle assicurazioni;
 
-Cinetica chimica.
+Scuola di radiologia medica e radioterapia;
 
-Dopo l'elenco degli insegnamenti complementari le norme circa gli esami di profitto e di laurea sono abrogate e sostituite dalle seguenti:
+Scuola di tisiologia e malattie polmonari;
 
-Per ottenere l'iscrizione al triennio di applicazione lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fissati per il biennio di studi propedeutici.
+Scuola di anestesiologia e rianimazione;
 
-Nella scelta degli esami complementari e nelle precedenze degli esami lo studente deve seguire i criteri deliberati dalla facolta'.
+Scuola di medicina del lavoro;
 
-La scelta di materie complementari diverse da quelle consigliate dal piano di studi deve essere convalidata dalla facolta' su domanda dello studente.
+Scuola di urologia;
 
-Gli insegnamenti biennali, sia del biennio propedeutico che del triennio di applicazione, comportano due distinti esami, uno alla fine di ogni anno di corso. Lo studente dovra' superare l'esame di chimica generale ed inorganica (I parte) prima di sostenere l'esame di chimica generale ed inorganica (II parte) ed analogamente gli esami di chimica fisica (I parte), di esercitazioni di chimica fisica (I parte), di chimica organica (I parte), di istituzioni di matematiche (1 parte), di esercitazioni di matematiche (I parte), e di fisica sperimentale (I parte) prima di sostenere gli esami delle rispettive seconde parti delle materie biennali.
+Scuola di malattie dell'apparato digerente;
 
-Lo studente deve inoltre rispettare le seguenti precedenze: gli esami di chimica generale ed inorganica (I parte) e di esercitazioni e di preparazioni chimiche (biennio propedeutico) debbono essere superati prima di sostenere gli esami di chimica organica (I parte) e di esercitazioni di analisi chimica qualitativa; l'esame di esercitazioni di analisi chimica quantitativa prima dell'esame di esercitazioni di analisi chimica a applicata: lo esame di chimica fisica (I parte) prima dell'esame di elettrochimica.
+Scuola di chirurgia vascolare;
 
-Le esercitazioni costituenti materie fondamentali debbono essere riguardate a tutti gli effetti come insegnamenti da essere impartiti da un professore di ruolo o da un incaricato.
+Scuola di odontoiatria e protesi dentaria.
 
-Onde non confondere le esercitazioni di preparazioni chimiche, fondamentali del biennio propedeutico e rispettivamente del triennio di applicazione, questi due corsi verranno indicati nell'ordine degli studi, nei verbali di esame, e negli altri documenti come segue:
+Art. 123. - La durata dei corsi e' indicata nei piani di studio delle singole scuole.
 
-a) Esercitazioni di preparazioni chimiche (biennio propedeutico);
+Art. 124. - Il direttore di ciascuna scuola e' il professore che tiene a titolo ufficiale l'insegnamento che forma oggetto della specializzazione. Ove il suddetto professore non sia nel contempo direttore dell'istituto o clinica presso cui la scuola ha sede, la facolta' puo' affidare la direzione della scuola al direttore dell'istituto.
 
-b) Esercitazioni di preparazioni chimiche (triennio di applicazione).
+Art. 125. - I corsi delle lezioni saranno tenuti dal direttore della scuola e da un corpo di insegnanti che verra' designato ogni anno dalla facolta' stessa, su proposta del direttore della scuola, tra i professori di ruolo, fuori ruolo, aggregati, incaricati, liberi docenti e tra gli assistenti di ruolo e cultori della materia.
 
-Per essere ammesso all'esame di laurea lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali prescritti per il triennio di applicazione, ed almeno in sette da lui scelti fra i complementari dell'indirizzo seguito.
+Art. 126. - La sede della scuola e' la rispettiva clinica o istituto specializzato.
 
-L'esame di laurea consiste in:
+Art. 127. - I piani di studio sono indicati nell'ordinamento di ciascuna scuola.
 
-1) Un esame di cultura (con prove pratiche) vertente su concetti fondamentali delle seguenti materie:
+Gli insegnamenti fondamentali e le esercitazioni vanno tenuti distinti da quelli per gli studenti del corso di laurea.
 
-a) Chimica inorganica;
+Gli insegnamenti possono avere, anziche' carattere di lezioni cattedratiche, quella diversa forma che e' suggerita dall'indole di ciascuna disciplina.
 
-b) Chimica organica;
+L'internato e' obbligatorio per gli allievi.
 
-c) Chimica fisica;
+Art. 128. - Lo svolgimento dei corsi e il diario degli esami saranno predisposti dalla facolta' su proposta dei direttori delle scuole.
 
-d) Chimica analitica;
+Art. 130. - Gli iscritti ad ogni scuola non potranno superare un massimo che viene indicato nell'ordinamento di ciascuna scuola. In linea eccezionale, con parere della facolta', possono essere iscritti in soprannumero allievi stranieri, allievi ripetenti o provenienti da altre scuole.
 
-e) Gruppo delle materie complementari.
+Il direttore di ciascuna scuola puo' stabilire un numero minimo di iscritti. Qualora questo numero non venga raggiunto, il direttore della scuola, sentito il parere della facolta', puo' non iniziare i corsi; ma gli allievi in corso di studio hanno diritto a proseguire la scuola.
 
-2) Discussione di una dissertazione scritta (tesi) concernente ricerche a carattere sperimentale effettuate dal candidato. La dissertazione scritta deve essere presentata alla segreteria della facolta' di scienze matematiche, fisiche e naturali almeno venti giorni prima della sessione di laurea;
+Art. 132. - Non sono consentite abbreviazioni di corso. Solo agli assistenti ordinari, straordinari e incaricati puo' essere concesso, a giudizio della facolta' una abbreviazione di corso pari agli anni di servizio prestati nella predetta qualita' in cliniche e istituti universitari, nei quali vengono impartite discipline strettamente affini alla specialita'.
 
-3) Discussione di una dissertazione scritta anche a carattere compilativo (tesina), tra due scelte dal candidato, in disciplina diversa da quella della tesi.
+Se gli anni di servizio sono pari a quelli del corso di specializzazione e' consentita su proposta della facolta' e con l'approvazione del senato accademico, l'ammissione diretta all'esame di specializzazione.
 
-Superato l'esame di laurea, lo studente consegue il titolo di dottore in chimica.
+Art. 135. - Gli specializzandi dovranno ottenere la firma di frequenza relativa ai singoli corsi di lezioni.
 
-Art. 46. - Dall'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono soppressi quelli di: biologia delle razze umane; etnologia; patologia vegetale; entomologia generale; morfologia sperimentale; cristallochimica; citologia chimica; citogenetica; citologia generale e sperimentale.
+Gli esami di profitto vengono sostenuti alla fine dell'anno accademico, per singole materie o per gruppi di materie stabiliti dalla facolta'.
 
-Nel predetto elenco sono aggiunti i seguenti insegnamenti complementari:
+I riprovati in non piu' di due materie potranno essere ammessi all'anno successivo, mantenendo l'obbligo di superare tali esami alla prima sessione.
 
-Mineralogia;
+Le commissioni per gli esami di profitto, composte di due professori ufficiali e di un libero docente o cultore della materia, sono nominati dal preside su proposta del direttore della scuola.
 
-Citologia;
+Le commissioni per l'esame di diploma sono costituite da cinque membri nominati dal preside della facolta' udito il direttore della scuola.
 
-Genetica dei microorganismi;
+Tali commissioni sono costituite da professori ufficiali in maggioranza e da liberi docenti o cultori delle discipline impartite nella scuola.
 
-Ecologia.
+I candidati non riconosciuti idonei possono presentarsi all'esame di diploma soltanto una seconda volta dopo un altro anno di frequenza alla scuola. A coloro che superano l'esame di diploma viene rilasciato il "diploma di specialista".
 
-Art. 47. - Nell'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti quelli di:
+Dopo l'art. 135, e con il conseguente spostamento della successiva numerazione, e' inserito il seguente nuovo articolo relativo alle norme per le scuole di specializzazione in medicina e chirurgia.
 
-Cristallochimica;
-
-Geologia del sottosuolo;
-
-Geometria analitica con elementi di proiettiva;
-
-Geotecnica;
-
-Petrografia applicata;
-
-Rilevamento geologico.
-
-Dopo l'elenco degli insegnamenti complementari l'ultimo comma e' abrogato e sostituito dai seguenti:
-
-I tre insegnamenti complementari di analisi matematica, di meccanica razionale con elementi di statica grafica e di geometria analitica, sostituiscono l'unico insegnamento fondamentale di "Istituzioni di matematica". Per l'insegnamento di analisi matematica, vale la norma stabilita per la laurea in scienze matematiche. Gli insegnamenti di botanica e di zoologia debbono avere indirizzo biogeografico.
-
-Gli studenti devono osservare le seguenti precedente: l'esame di chimica generale ed inorganica e l'esame di fisica sperimentale devono precedere quelli di mineralogia. L'esame di istituzioni di matematica precede quello di fisica. L'esame di mineralogia deve precedere quello di petrografia, geologia, mineralogia applicata.
-
-L'esame di paleontologia deve precedere quello di geologia, l'esame di geologia deve precedere quello di geologia applicata e quello di geologia regionale. L'esame di geografia generale deve precedere quello di geologia. Gli esami di mineralogia, petrografia e paleontologia devono precedere quelli di sedimentologia.
-
-Per essere ammesso all'esame di laurea, lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti fra gli esami complementari.
-
-L'esame di laurea consiste nella discussione di una dissertazione scritta e di almeno uno fra tre argomenti scelti dal candidato su tre insegnamenti diversi da quello della dissertazione scritta.
-
-Prima di iniziare la tesi lo studente deve notificare alla facolta' l'argomento che intende trattare.
-
-La facolta' decidera' sull'accoglimento o meno. La dissertazione deve essere accettata dalla commissione esaminatrice.
-
-L'esame di laurea e' preceduto da un esame di cultura generale e da due prove pratiche. Le prove pratiche consistono in una prova delle discipline mineralogiche ed in una prova delle discipline geologiche.
-
-La dissertazione di laurea deve essere presentata in segreteria almeno 20 (venti) giorni prima della data fissata per la discussione.
-
-Art. 50, relativo alle propedeuticita' dei corsi di laurea della facolta' e' modificato nel senso che il primo ed il sesto comma di cui alle lettere a) ed f) sono soppressi con il relativo riordinamento dell'ordine alfabetico.
-
-Art. 54. - All'elenco degli insegnamenti complementari del corso di laurea in farmacia sono aggiunti quelli di:
-
-10) Istituzioni di matematiche;
-
-11) Complementi di chimica tossicologica;
-
-12) Analisi chimica farmaceutica strumentale.
-
-Art. 98. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti quelli di:
-
-20) Estetica;
-
-21) Storia del teatro e dello spettacolo;
-
-22) Storia della storiografia;
-
-23) Storia della scienza e delle tecniche;
-
-24) Paleografia latina e diplomatica;
-
-25) Storia delle religioni.
-
-Art. 99. - All'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti quelli di:
-
-13) Estetica;
-
-14) Storia della storiografia;
-
-15) Storia della scienza e delle tecniche.
-
-Art. 100. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di:
-
-15) Estetica;
-
-16) Storia del teatro e dello spettacolo;
-
-17) Storia della scienza e delle tecniche;
-
-18) Storia e letteratura catalana;
-
-19) Storia della letteratura italiana moderna e contemporanea.
-
-Dopo l'art. 105 e con il conseguente spostamento della numerazione successiva e' aggiunto il seguente nuovo articolo relativo alla creazione dell'istituto di storia annesso alla facolta' di magistero.
-
-Art. 106. - Presso la facolta' di magistero e' istituito l'istituto di storia.
+Art. 136. - Le norme particolari delle singole scuole possono derogare dalle norme contenute nei precedenti articoli.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 22 marzo 1968
-
-GUI
+Dato a Roma, addi' 18 maggio 1970
 
 SARAGAT
+
+MISASI
 
 Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 5 giugno 1968 Atti del Governo, registro n. 220, foglio n. 32. - GRECO
+alla Corte dei conti, addi' 24 luglio 1970 Atti del Governo, registro n. 236, foglio n. 182. - IZZI
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240) e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sentito il parere del consiglio superiore della pubblica Istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 42. - All'elenco degli insegnamenti complementari del corso di laurea in chimica (indirizzo organico-biologico) sono aggiunti quelli di:  
-Strutturistica chimica;  
-Chimica dei composti eterociclici;  
-Stereochimica;  
-Cromatografia.  
-Nel predetto corso di laurea - per l'indirizzo organico biologico - l'insegnamento di "Chimica bromatologica" muta denominazione in quello di "Chimica bromatologica con esercitazioni".  
-Nello stesso corso di laurea - indirizzo organico biologico ed inorganico-chimico fisico - gli insegnamenti complementari di "Analisi matematica (algebrica ed infinitesimale) (biennale)", "Geometria analitica con elementi di proiettiva", "Chimica di guerra", "Meccanica razionale con elementi di statica grafica" sono soppressi.  
-All'elenco degli insegnamenti complementari del corso di laurea in chimica (indirizzo inorganico chimico-fisico) sono aggiunti quelli di:  
-Stereochimica;  
-Cromatografia;  
-Chimica dei composti di coordinazione;  
-Chimica dei composti organometallici;  
-Chimica inorganica superiore;  
-Cinetica chimica.  
-Dopo l'elenco degli insegnamenti complementari le norme circa gli esami di profitto e di laurea sono abrogate e sostituite dalle seguenti:  
-Per ottenere l'iscrizione al triennio di applicazione lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fissati per il biennio di studi propedeutici.  
-Nella scelta degli esami complementari e nelle precedenze degli esami lo studente deve seguire i criteri deliberati dalla facolta'.  
-La scelta di materie complementari diverse da quelle consigliate dal piano di studi deve essere convalidata dalla facolta' su domanda dello studente.  
-Gli insegnamenti biennali, sia del biennio propedeutico che del triennio di applicazione, comportano due distinti esami, uno alla fine di ogni anno di corso. Lo studente dovra' superare l'esame di chimica generale ed inorganica (I parte) prima di sostenere l'esame di chimica generale ed inorganica (II parte) ed analogamente gli esami di chimica fisica (I parte), di esercitazioni di chimica fisica (I parte), di chimica organica (I parte), di istituzioni di matematiche (1 parte), di esercitazioni di matematiche (I parte), e di fisica sperimentale (I parte) prima di sostenere gli esami delle rispettive seconde parti delle materie biennali.  
-Lo studente deve inoltre rispettare le seguenti precedenze: gli esami di chimica generale ed inorganica (I parte) e di esercitazioni e di preparazioni chimiche (biennio propedeutico) debbono essere superati prima di sostenere gli esami di chimica organica (I parte) e di esercitazioni di analisi chimica qualitativa; l'esame di esercitazioni di analisi chimica quantitativa prima dell'esame di esercitazioni di analisi chimica a applicata: lo esame di chimica fisica (I parte) prima dell'esame di elettrochimica.  
-Le esercitazioni costituenti materie fondamentali debbono essere riguardate a tutti gli effetti come insegnamenti da essere impartiti da un professore di ruolo o da un incaricato.  
-Onde non confondere le esercitazioni di preparazioni chimiche, fondamentali del biennio propedeutico e rispettivamente del triennio di applicazione, questi due corsi verranno indicati nell'ordine degli studi, nei verbali di esame, e negli altri documenti come segue:  
-a) Esercitazioni di preparazioni chimiche (biennio propedeutico);  
-b) Esercitazioni di preparazioni chimiche (triennio di applicazione).  
-Per essere ammesso all'esame di laurea lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali prescritti per il triennio di applicazione, ed almeno in sette da lui scelti fra i complementari dell'indirizzo seguito.  
-L'esame di laurea consiste in:  
-1) Un esame di cultura (con prove pratiche) vertente su concetti fondamentali delle seguenti materie:  
-a) Chimica inorganica;  
-b) Chimica organica;  
-c) Chimica fisica;  
-d) Chimica analitica;  
-e) Gruppo delle materie complementari.  
-2) Discussione di una dissertazione scritta (tesi) concernente ricerche a carattere sperimentale effettuate dal candidato. La dissertazione scritta deve essere presentata alla segreteria della facolta' di scienze matematiche, fisiche e naturali almeno venti giorni prima della sessione di laurea;  
-3) Discussione di una dissertazione scritta anche a carattere compilativo (tesina), tra due scelte dal candidato, in disciplina diversa da quella della tesi.  
-Superato l'esame di laurea, lo studente consegue il titolo di dottore in chimica.  
+Gli articoli 122, 123, 124, 125, 126, 127, 128, 130, 132, 135, relativi alle norme generali per le scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono abrogati e sostituiti dai seguenti:  
   
-Art. 46. - Dall'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono soppressi quelli di: biologia delle razze umane; etnologia; patologia vegetale; entomologia generale; morfologia sperimentale; cristallochimica; citologia chimica; citogenetica; citologia generale e sperimentale.  
-Nel predetto elenco sono aggiunti i seguenti insegnamenti complementari:  
-Mineralogia;  
-Citologia;  
-Genetica dei microorganismi;  
-Ecologia.  
-  
-Art. 47. - Nell'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti quelli di:  
-Cristallochimica;  
-Geologia del sottosuolo;  
-Geometria analitica con elementi di proiettiva;  
-Geotecnica;  
-Petrografia applicata;  
-Rilevamento geologico.  
-Dopo l'elenco degli insegnamenti complementari l'ultimo comma e' abrogato e sostituito dai seguenti:  
-I tre insegnamenti complementari di analisi matematica, di meccanica razionale con elementi di statica grafica e di geometria analitica, sostituiscono l'unico insegnamento fondamentale di "Istituzioni di matematica". Per l'insegnamento di analisi matematica, vale la norma stabilita per la laurea in scienze matematiche. Gli insegnamenti di botanica e di zoologia debbono avere indirizzo biogeografico.  
-Gli studenti devono osservare le seguenti precedente: l'esame di chimica generale ed inorganica e l'esame di fisica sperimentale devono precedere quelli di mineralogia. L'esame di istituzioni di matematica precede quello di fisica. L'esame di mineralogia deve precedere quello di petrografia, geologia, mineralogia applicata.  
-L'esame di paleontologia deve precedere quello di geologia, l'esame di geologia deve precedere quello di geologia applicata e quello di geologia regionale. L'esame di geografia generale deve precedere quello di geologia. Gli esami di mineralogia, petrografia e paleontologia devono precedere quelli di sedimentologia.  
-Per essere ammesso all'esame di laurea, lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti fra gli esami complementari.  
-L'esame di laurea consiste nella discussione di una dissertazione scritta e di almeno uno fra tre argomenti scelti dal candidato su tre insegnamenti diversi da quello della dissertazione scritta.  
-Prima di iniziare la tesi lo studente deve notificare alla facolta' l'argomento che intende trattare.  
-La facolta' decidera' sull'accoglimento o meno. La dissertazione deve essere accettata dalla commissione esaminatrice.  
-L'esame di laurea e' preceduto da un esame di cultura generale e da due prove pratiche. Le prove pratiche consistono in una prova delle discipline mineralogiche ed in una prova delle discipline geologiche.  
-La dissertazione di laurea deve essere presentata in segreteria almeno 20 (venti) giorni prima della data fissata per la discussione.  
-  
-Art. 50, relativo alle propedeuticita' dei corsi di laurea della facolta' e' modificato nel senso che il primo ed il sesto comma di cui alle lettere a) ed f) sono soppressi con il relativo riordinamento dell'ordine alfabetico.  
-  
-Art. 54. - All'elenco degli insegnamenti complementari del corso di laurea in farmacia sono aggiunti quelli di:  
-10) Istituzioni di matematiche;  
-11) Complementi di chimica tossicologica;  
-12) Analisi chimica farmaceutica strumentale.  
-  
-Art. 98. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti quelli di:  
-20) Estetica;  
-21) Storia del teatro e dello spettacolo;  
-22) Storia della storiografia;  
-23) Storia della scienza e delle tecniche;  
-24) Paleografia latina e diplomatica;  
-25) Storia delle religioni.  
-  
-Art. 99. - All'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti quelli di:  
-13) Estetica;  
-14) Storia della storiografia;  
-15) Storia della scienza e delle tecniche.  
-  
-Art. 100. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di:  
-15) Estetica;  
-16) Storia del teatro e dello spettacolo;  
-17) Storia della scienza e delle tecniche;  
-18) Storia e letteratura catalana;  
-19) Storia della letteratura italiana moderna e contemporanea.  
-Dopo l'art. 105 e con il conseguente spostamento della numerazione successiva e' aggiunto il seguente nuovo articolo relativo alla creazione dell'istituto di storia annesso alla facolta' di magistero.  
-  
-Art. 106. - Presso la facolta' di magistero e' istituito l'istituto di storia.  
+Art. 122. - Presso la facolta' di medicina e chirurgia sono istituite le seguenti scuole di specializzazione che conferiscono diplomi di "specialisti nelle discipline professionali medico-chirurgiche" ai sensi dell'[art. 4 del regio decreto 31 dicembre 1923, n. 2909](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;2909~art4):  
+Scuola di medicina interna;  
+Scuola di chirurgia generale;  
+Scuola di ostetricia e ginecologia;  
+Scuola di ortopedia e traumatologia;  
+Scuola di otorinolaringoiatria e patologia cervicofacciale;  
+Scuola di malattie nervose e mentali;  
+Scuola di clinica oculistica;  
+Scuola di clinica pediatrica;  
+Scuola di clinica dermosifilopatica;  
+Scuola di igiene e medicina preventiva;  
+Scuola di medicina legale e delle assicurazioni;  
+Scuola di radiologia medica e radioterapia;  
+Scuola di tisiologia e malattie polmonari;  
+Scuola di anestesiologia e rianimazione;  
+Scuola di medicina del lavoro;  
+Scuola di urologia;  
+Scuola di malattie dell'apparato digerente;  
+Scuola di chirurgia vascolare;  
+Scuola di odontoiatria e protesi dentaria.  
+Art. 123. - La durata dei corsi e' indicata nei piani di studio delle singole scuole.  
+Art. 124. - Il direttore di ciascuna scuola e' il professore che tiene a titolo ufficiale l'insegnamento che forma oggetto della specializzazione. Ove il suddetto professore non sia nel contempo direttore dell'istituto o clinica presso cui la scuola ha sede, la facolta' puo' affidare la direzione della scuola al direttore dell'istituto.  
+Art. 125. - I corsi delle lezioni saranno tenuti dal direttore della scuola e da un corpo di insegnanti che verra' designato ogni anno dalla facolta' stessa, su proposta del direttore della scuola, tra i professori di ruolo, fuori ruolo, aggregati, incaricati, liberi docenti e tra gli assistenti di ruolo e cultori della materia.  
+Art. 126. - La sede della scuola e' la rispettiva clinica o istituto specializzato.  
+Art. 127. - I piani di studio sono indicati nell'ordinamento di ciascuna scuola.  
+Gli insegnamenti fondamentali e le esercitazioni vanno tenuti distinti da quelli per gli studenti del corso di laurea.  
+Gli insegnamenti possono avere, anziche' carattere di lezioni cattedratiche, quella diversa forma che e' suggerita dall'indole di ciascuna disciplina.  
+L'internato e' obbligatorio per gli allievi.  
+Art. 128. - Lo svolgimento dei corsi e il diario degli esami saranno predisposti dalla facolta' su proposta dei direttori delle scuole.  
+Art. 130. - Gli iscritti ad ogni scuola non potranno superare un massimo che viene indicato nell'ordinamento di ciascuna scuola. In linea eccezionale, con parere della facolta', possono essere iscritti in soprannumero allievi stranieri, allievi ripetenti o provenienti da altre scuole.  
+Il direttore di ciascuna scuola puo' stabilire un numero minimo di iscritti. Qualora questo numero non venga raggiunto, il direttore della scuola, sentito il parere della facolta', puo' non iniziare i corsi; ma gli allievi in corso di studio hanno diritto a proseguire la scuola.  
+Art. 132. - Non sono consentite abbreviazioni di corso. Solo agli assistenti ordinari, straordinari e incaricati puo' essere concesso, a giudizio della facolta' una abbreviazione di corso pari agli anni di servizio prestati nella predetta qualita' in cliniche e istituti universitari, nei quali vengono impartite discipline strettamente affini alla specialita'.  
+Se gli anni di servizio sono pari a quelli del corso di specializzazione e' consentita su proposta della facolta' e con l'approvazione del senato accademico, l'ammissione diretta all'esame di specializzazione.  
+Art. 135. - Gli specializzandi dovranno ottenere la firma di frequenza relativa ai singoli corsi di lezioni.  
+Gli esami di profitto vengono sostenuti alla fine dell'anno accademico, per singole materie o per gruppi di materie stabiliti dalla facolta'.  
+I riprovati in non piu' di due materie potranno essere ammessi all'anno successivo, mantenendo l'obbligo di superare tali esami alla prima sessione.  
+Le commissioni per gli esami di profitto, composte di due professori ufficiali e di un libero docente o cultore della materia, sono nominati dal preside su proposta del direttore della scuola.  
+Le commissioni per l'esame di diploma sono costituite da cinque membri nominati dal preside della facolta' udito il direttore della scuola.  
+Tali commissioni sono costituite da professori ufficiali in maggioranza e da liberi docenti o cultori delle discipline impartite nella scuola.  
+I candidati non riconosciuti idonei possono presentarsi all'esame di diploma soltanto una seconda volta dopo un altro anno di frequenza alla scuola. A coloro che superano l'esame di diploma viene rilasciato il "diploma di specialista".  
+Dopo l'art. 135, e con il conseguente spostamento della successiva numerazione, e' inserito il seguente nuovo articolo relativo alle norme per le scuole di specializzazione in medicina e chirurgia.  
+Art. 136. - Le norme particolari delle singole scuole possono derogare dalle norme contenute nei precedenti articoli.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 marzo 1968
+### Dato a Roma, addi' 18 maggio 1970
 
-GUI SARAGAT Visto, il Guardasigilli: REALE Registrato alla Corte dei conti, addi' 5 giugno 1968 Atti del Governo, registro n. 220, foglio n. 32. - GRECO
+SARAGAT MISASI
+
+Visto, il Guardasigilli: REALE
+
+Registrato alla Corte dei conti, addi' 24 luglio 1970
+
+Atti del Governo, registro n. 236, foglio n. 182. - IZZI

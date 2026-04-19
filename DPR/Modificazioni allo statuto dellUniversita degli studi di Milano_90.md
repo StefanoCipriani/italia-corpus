@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 681
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1976 n. 935
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 681
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1976 n. 935
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -10,17 +10,19 @@ Modificazioni allo statuto dell'Universita' degli studi di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvate con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1632](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1632), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte; Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
 Sulla proposta del Ministro per la pubblica istruzione;
 
@@ -28,684 +30,687 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-L'art. 132 relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che le scuole in "Igiene ed epidemiologia", "Igiene e tecnica ospedaliera", "Medicina ed igiene scolastica" sono soppresse.
+L'art. 148, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che la scuola di specializzazione in biometria e statistica medica muta la denominazione in quella di scuola di specializzazione in statistica medica.
 
-La "Scuola di specializzazione in otorinolaringoiatria" muta la denominazione in quella di "Scuola di specializzazione in otorinolaringoiatria e patologia cervicofacciale".
+Nello stesso elenco sono inserite le seguenti scuole di specializzazione:
 
-Allo stesso elenco sono aggiunte le scuole di specializzazione in "Igiene e medicina preventiva" e in "Reumatologia" di nuova istituzione.
+scuola di specializzazione in ortognatodonzia;
 
-Gli articoli da 156 a 163 relativi alla scuola di specializzazione in "Chirurgia dell'infanzia" sono abrogati e sostituiti dai seguenti:
+scuola di specializzazione in diabetologia e malattie del ricambio;
 
-Scuola di specializzazione in chirurgia dell'infanzia
+scuola di specializzazione in fisiopatologia e fisiochinesiterapia respiratoria;
 
-Art. 156. - La scuola di specializzazione in chirurgia dell'infanzia conferisce il diploma di specialista in chirurgia dell'infanzia.
+scuola di specializzazione in biochimica e chimica clinica.
 
-Art. 157. - La durata del corso di studi per il conseguimento della specialita' in chirurgia dell'infanzia e' fissata in anni due.
+Gli articoli 172, 173, 174, 175, 176, 177, 178, 179, relativi alla scuola di specializzazione in biometria e statistica medica che muta la denominazione in quella di scuola di specializzazione in statistica medica sono abrogati e sostituiti dai seguenti:
 
-Possono ottenere l'iscrizione alla scuola i laureati in medicina e chirurgia che siano in possesso del diploma di specialista in chirurgia o abbiano conseguito la libera docenza in clinica chirurgica o patologia chirurgica, o semeiotica chirurgica, o anatomia chirurgica, o in chirurgia pediatrica.
+Scuola di specializzazione in statistica medica
 
-Non e' ammessa l'abbreviazione di corso.
+Art. 172. - La scuola e' articolata nei seguenti orientamenti:
 
-Art. 158. - Il numero degli iscritti alla scuola e' di dieci per anno di corso.
+a) clinico;
 
-Qualora il numero degli aspiranti superi quello stabilito per la scuola in chirurgia dell'infanzia, l'ammissione sara' subordinata ad una prova d'esame.
+b) epidemiologico,
 
-Art. 159. - La direzione della scuola e' affidata al titolare dell'insegnamento della chirurgia pediatrica o ad una persona nominata dalla facolta'.
+sulla base di materie di insegnamento comuni a tutti gli allievi e materie differenziate per i due orientamenti come specificato all'art. 175. La scuola rilascia 11 diploma di specialista in statistica medica con l'indicazione dell'orientamento prescelto.
 
-Art. 160. - Il corso si compone di insegnamenti fondamentali e di conferenze su argomenti speciali, oltre ad un periodo di internato obbligatorio di almeno sei mesi per ogni anno di corso.
+Art. 173. - La durata del corso e' fissata in tre anni.
 
-Il periodo di internato potra' essere abbreviato per coloro che documentino di svolgere effettivo servizio presso reparti di chirurgia pediatrica universitari o ospedalieri.
+Il numero degli iscritti e' fissato ad un massimo di dieci per il primo anno, e per un totale complessivo di trenta specializzandi per i tre anni di corso.
 
-Art. 161. - Le materie di insegnamento sono le seguenti:
+Art. 174. - Alla scuola di specializzazione in statistica medica sono ammessi oltre i laureati in medicina e chirurgia anche i laureati in altre discipline (limitatamente all'orientamento epidemiologico) su motivato parere della direzione della scuola, previo accertamento diretto della loro idoneita'.
+
+Art. 175. - Il piano di studi per la scuola di specializzazione in statistica medica e' il seguente:
 
 1° Anno:
 
-Anatomia patologica e teratologia (lezioni);
+Insegnamenti comuni ai due orientamenti:
 
-Endocrinologia infantile (conferenze);
+1) matematica generale (I);
 
-Clinica pediatrica (lezioni);
+2) metodologia statistica (I);
 
-Clinica chirurgica pediatrica (lezioni);
+3) calcolo automatico;
 
-Patologia chirurgica e semeiotica chirurgica (lezioni);
+4) metodologia demografica.
 
-Diagnostica radiologica e nucleare delle malattie chirurgiche dell'infanzia (lezioni);
+Insegnamenti per l'orientamento clinico:
 
-Anestesiologia e rianimazione (conferenze).
+5) l'evidenza clinica;
+
+6) tassometria per la nosografia.
+
+Insegnamenti per l'orientamento epidemiologico:
+
+5) sociologia medica;
+
+6) storia medica.
 
 2° Anno:
 
-Clinica pediatrica (lezioni);
+Insegnamenti comuni ai due orientamenti:
 
-Clinica chirurgica pediatrica (lezioni);
+1) matematica generale (II);
 
-Chirurgia d'urgenza nell'infanzia (lezioni);
+2) metodologia statistica (II);
 
-Otorinolaringoiatria nell'infanzia (conferenze);
+3) informatica medica;
 
-Ortopedia nell'infanzia (conferenze);
+4) metodologia epidemiologica generale.
 
-Urologia nell'infanzia (conferenze);
+Insegnamenti per l'orientamento clinico:
 
-Neurochirurgia infantile (conferenze);
+5) il ragionamento diagnostico;
 
-Chirurgia del cuore e dei grossi vasi (conferenze).
+6) il riconoscimento automatico.
 
-Art. 162. - La frequenza alle lezioni e' obbligatoria.
+Insegnamenti per l'orientamento epidemiologico:
 
-Al termine di ciascun anno accademico, gli specializzandi, che abbiano ottenuto le firme di frequenza, dovranno sostenere gli esami di profitto nelle materie oggetto di insegnamento.
+5) geografia medica;
 
-Art. 163. - Al termine del corso di specializzazione gli specializzandi dovranno presentare una dissertazione scritta su argomento di chirurgia infantile e sostenere l'esame di diploma.
+6) econometria sanitaria.
 
-L'art. 178 relativo alla scuola di specializzazione in igiene ed epidemiologia; gli articoli 179-180 relativi alla scuola di specializzazione in igiene e tecnica ospedaliera; l'art. 185 relativo alla scuola di specializzazione in medicina e igiene scolastica sono soppressi con il conseguente spostamento della numerazione degli articoli successivi.
+3° Anno:
 
-L'art. 202 relativo alla "Scuola di specializzazione in neurochirurgia" e' abrogato e sostituito dal seguente:
+Insegnamenti comuni ai due orientamenti:
 
-Scuola di specializzazione in neurochirurgia
+1) disegno ed analisi dell'esperimento clinico;
 
-Art. 202. - La durata del corso e' di quattro anni.
+2) disegno ed analisi dell'inchiesta sanitaria.
 
-Il numero degli iscritti e' stabilito in un massimo di sei per il primo anno di corso (totale ventiquattro iscritti).
+Insegnamenti per l'orientamento clinico:
+
+3) biometria umana;
+
+4) programmazione e valutazione terapeutica;
+
+5) il dossier clinico;
+
+6) demografia ospedaliera;
+
+7) il sistema informativo sanitario.
+
+Insegnamenti per l'orientamento epidemiologico:
+
+3) metodologia epidemiologica applicata alla patologia infantile;
+
+4) metodologia epidemiologica applicata alla patologia infettiva;
+
+5) metodologia epidemiologica applicata alla patologia genetica;
+
+6) metodologia epidemiologica applicata alla patologia degenerativa;
+
+7) metodologia epidemiologica applicata alla patologia da lavoro;
+
+8) metodologia epidemiologica applicata alla patologia psichiatrica.
+
+Art. 176. - I corsi sono composti di lezioni teoriche e di esercitazioni pratiche sulle materie di cui all'art. 175 e si terranno presso l'istituto di biometria e statistica medica o in altre sedi a cura dello stesso istituto.
+
+Art. 177. - La frequenza alle lezioni e alle esercitazioni e' obbligatoria e condiziona l'ammissione degli allievi all'esame annuale di profitto. Continuando durante uno dei primi tre anni di corso gli allievi sono tenuti a svolgere un internato presso l'istituto di biometria e statistica medica secondo un piano deciso dal direttore della scuola.
+
+Art. 178. - Alla fine di ogni anno di corso gli specializzandi per poter ottenere l'ammissione all'anno successivo, dovranno superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno di corso.
+
+Art. 179. - Per essere ammesso all'esame finale di diploma l'allievo dovra' dimostrare di aver seguito regolarmente i corsi e superato gli esami di profitto dei tre anni di corso.
+
+L'esame di diploma consiste nella discussione orale di una dissertazione scritta su tema approvato in precedenza dal direttore della scuola corredata da dati originali.
+
+Il secondo comma dell'art. 210, relativo alla scuola di specializzazione in idrologia, climatologia e talassoterapia e' modificato nel senso che il numero degli iscritti da ammettere alla suddetta scuola e' stabilito in quindici per ogni anno di corso.
+
+L'art. 218, relativo alla scuola di specializzazione in medicina dello sport, viene abrogato e sostituito dal seguente:
+
+Scuola di specializzazione in medicina dello sport
+
+Art. 218. - La durata del corso di studi e' di tre anni. Il numero degli iscritti e' stabilito in venti per ciascun anno di corso (totale 60 iscritti).
+
+Il piano degli studi e' il seguente:
+
+1° Anno:
+
+anatomia dell'apparato locomotore;
+
+fisiologia dell'apparato locomotore;
+
+biochimica ed energetica muscolare;
+
+antropometria e auxologia;
+
+storia dell'educazione fisica e degli sports;
+
+psicologia applicata allo sport;
+
+sistematica dell'attivita' sportivo-agonistica e regolamenti sportivi.
+
+2° Anno:
+
+fisiologia dell'esercizio fisico;
+
+biomeccanica dell'esercizio fisico;
+
+traumatologia dello sport;
+
+metodologia dell'allenamento sportivo;
+
+fisiopatologia degli sports e semeiotica medicosportiva (biennale);
+
+scienza della nutrizione applicata all'attivita' sportiva;
+
+farmacologia e tossicologia del doping;
+
+igiene e medicina preventiva applicati all'attivita' sportiva. 3° Anno:
+
+fisiologia applicata allo sport;
+
+valutazione funzionale dello sportivo;
+
+rianimazione e pronto soccorso;
+
+medicina legale e infortunistica applicata allo sport;
+
+fisioterapia e rieducazione funzionale;
+
+fisiopatologia degli sports e semeiotica medicosportiva.
+
+Dopo l'art. 280, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione delle scuole di specializzazione in ortognatodonzia, diabetologia e malattie del ricambio, fisiopatologia e fisiochinesiterapia respiratoria, biochimica e chimica clinica, di cui all'art. 148.
+
+Scuola di specializzazione in ortognatodonzia
+
+Art. 281. - La scuola di specializzazione in ortognatodonzia ha sede presso la cattedra di clinica odontoiatrica II dell'Universita' di Milano.
+
+Art. 282. - Il corso degli studi per il conseguimento del diploma di specialista in ortognatodonzia ha la durata di due anni accademici.
+
+Art. 283. - Alla scuola possono iscriversi gli specialisti in odontoiatria e protesi dentaria. Il numero degli iscritti alla scuola e' fissato in dieci per anno di corso per un totale di venti iscritti. L'ammissione avviene previo concorso per titoli ed esami.
+
+Art. 284. - Le materie di insegnamento del corso sono le seguenti: 1° Anno:
+
+1) anatomia ed embriologia maxillo-facciale;
+
+2) istologia dentale e paradentale;
+
+3) fisiologia in ortognatodonzia (I anno) (biennale);
+
+4) ortodonzia (I anno) (biennale);
+
+5) genetica in ortognatodonzia;
+
+6) radiologia in ortognatodonzia;
+
+7) metallurgia e merceologia in ortognatodonzia;
+
+8) statistica applicata alla ricerca scientifica;
+
+9) semeiotica ortodontica.
+
+2° Anno:
+
+1) fisiologia in ortognatodonzia (II anno);
+
+2) ortodonzia (II anno);
+
+3) patologia stomatologica in ortodonzia;
+
+4) pediatria auxologica applicata;
+
+5) pedodonzia;
+
+6) otorinolaringoiatria applicata;
+
+7) fonoterapia.
+
+Art. 285. - La frequenza alle lezioni e alle esercitazioni e' obbligatoria per tutti gli iscritti.
+
+Art. 286. - Alla fine del primo anno di corso gli specializzandi, per poter ottenere l'ammissione all'anno successivo dovranno superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno in corso.
+
+Art. 287. - L'esame di diploma consiste nella discussione di una tesi scritta su un tema preventivamente approvato dal direttore della scuola.
+
+Art. 288. - Le norme per l'iscrizione, gli esami, le tasse, ecc., sono quelle generali per la scuola di specializzazione per l'Universita' di Milano.
+
+Scuola di specializzazione in diabetologia e malattie del ricambio
+
+Art. 289. - La scuola ha la durata di tre anni e la frequenza ai corsi e' obbligatoria.
 
 Le materie di insegnamento sono:
 
 1° Anno:
 
-1) Neuroanatomia;
+anatomia e citomorfologia funzionali;
 
-2) Neurofisiologia;
+elementi di genetica del, diabete e delle malattie del ricambio;
 
-3) Semeiotica e clinica neurologica;
+metodi di analisi chimica e quantitativa;
 
-4) Elementi di psichiatria;
+patologia molecolare;
 
-5) Clinica neurochirurgica (I).
+fisiopatologia clinica del diabete e delle malattie del ricambio;
 
-Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto sulle materie di cui ai numeri 1), 2), 3), 4).
+elementi di biometria e di statistica (complementare);
+
+auxologia e auxopatia metaboliche (complementare).
 
 2° Anno:
 
-1) Neuro-oftalmologia;
+patologia sperimentale metabolica;
 
-2) Neuro-otoiatria;
+semeiotica fisica e funzionale del diabete e delle malattie del ricambio;
 
-3) Elettroencefalografia ed elettromiografia;
+clinica del diabete e delle malattie del ricambio (1);
 
-4) Clinica neurochirurgica (II).
+medicina sociale e preventiva del diabete e delle malattie del ricambio;
 
-Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto sulle materie di cui ai numeri 1), 2) e 3).
+neuropatologia del diabete e delle malattie del ricambio (complementare);
+
+fisiopatologia e clinica ostetrico-ginecologica del diabete e delle malattie del ricambio (complementare).
 
 3° Anno:
 
-1) Anestesiologia;
+clinica del diabete e delle malattie del ricambio;
 
-2) Neuropatologia;
+farmacologia del diabete e delle malattie del ricambio;
 
-3) Neuroradiologia (I);
+dietologia del diabete e delle malattie del ricambio;
 
-4) Clinica neurochirurgica (III).
+elementi di psicologia nel diabete e nelle malattie del ricambio (complementare);
 
-Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto sulle materie di cui ai numeri 1) e 2).
+terapia chirurgica nel diabete e nelle malattie del ricambio (complementare);
 
-4° Anno:
+oftalmologia nel diabete e nelle malattie del ricambio (complementare).
 
-1) Tecniche operatorie;
+I corsi saranno integrati da conferenze su argomenti specialistici e da esercitazioni pratiche cliniche e di laboratorio.
 
-2) Neuroradiologia (II);
+Il numero degli specializzandi ammesso al primo anno e' fissato in dieci per un totale di trenta nel corso dei tre anni.
 
-3) Clinica neurochirurgica (IV);
+Alla fine di ogni anno, per potersi iscrivere al successivo, gli allievi dovranno superare un esame di profitto comprensivo delle materie di insegnamento dell'anno stesso. Per l'ammissione all'esame e' necessario ottenere l'attestazione di frequenza. L'esame di diploma consistera' nella discussione di una dissertazione scritta su un tema approvato dal direttore della scuola stessa.
 
-4) Neurotraumatologia;
+Scuola di specializzazione in fisiopatologia e in fisiokinesiterapia respiratoria
 
-5) Neurochirurgia infantile;
+Art. 290. - La scuola di specializzazione in fisiopatologia e fisiokinesiterapia respiratoria ha la durata dei corsi di anni tre.
 
-6) Chirurgia stereotassica;
-
-7) Neurochirurgia spinale.
-
-Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto sulle materie di cui ai numeri 1), 2) e 3).
-
-Gli insegnamenti saranno integrati da esercitazioni cliniche e di laboratorio.
-
-La frequenza alla scuola e' obbligatoria durante l'anno accademico.
-
-Gli allievi sono tenuti a frequentare assiduamente le lezioni ed i laboratori della clinica neurochirurgica secondo l'orario stabilito ed a partecipare attivamente alle esercitazioni cliniche e di laboratorio.
-
-Il direttore della scuola potra' disporre che gli allievi frequentino per determinati periodi le lezioni e le esercitazioni di laboratorio in altri istituti dell'universita'.
-
-Al termine di ciascun anno gli allievi che abbiano regolarmente frequentato il corso dovranno superare un esame di profitto.
-
-L'art. 209 relativo alla scuola di specializzazione in otorinolaringoiatria che muta la denominazione in quella di scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale e' abrogato e sostituito dal seguente:
-
-Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale
-
-Art. 209. - La durata del corso e' di tre anni.
-
-Il numero dei posti e' fissato in cinque per ogni anno di corso.
-
-E' obbligatoria la frequenza giornaliera per un minimo di quattro ore.
-
-Le materie di insegnamento sono:
+Il piano di studi e' il seguente:
 
 1° Anno:
 
-Anatomia;
+1) anatomia funzionale dell'apparato respiratorio;
 
-Fisiologia;
+2) fisiomeccanica della respirazione;
 
-Audiologia (1° anno);
+3) le funzioni respiratorie ai vari livelli;
 
-Semeiotica otorinolaringoiatrica;
+4) le funzioni del circolo polmonare;
 
-Tecnica di laboratorio;
+5) attivita' non respiratorie del polmone;
 
-Patologia e clinica otorinolaringoiatrica e cervicofacciale (1° anno);
+6) metodologia di indagine della funzionalita' respiratoria;
 
-Anatomia ed istologia patologica otorinolaringoiatrica.
+7) i farmaci del respiro.
 
 2° Anno:
 
-Tecniche operatorie in otorinolaringoiatria;
+1) inquadramento generale e diagnostico di patologia broncopolmonare;
 
-Anestesiologia in otorinolaringoiatria;
+2) alterazioni funzionali respiratorie in patologia broncopolmonare;
 
-Patologia e clinica otorinolaringoiatrica e cervicofacciale (2° anno);
+3) l'insufficienza respiratoria nei suoi aspetti ezio-patogenetici, clinici e terapeutici;
 
-Radiologia in rapporto con l'otorinolaringoiatria;
+4) fisiopatologia cardiocircolatoria nei broncopneumopatici;
 
-Pediatria in rapporto con l'otorinolaringoiatria;
-
-Audiologia (2° anno);
-
-Otoneurologia;
-
-Foniatria.
+5) le alterazioni funzionari respiratorie nei vasculopatici e nei cardiopatici.
 
 3° Anno:
 
-Patologia e clinica otorinolaringoiatrica e cervicofacciale;
+1) terapia medica generale delle sindromi da disfunzione respiratoria;
 
-Terapia medica e fisica in otorinolaringoiatria;
+2) terapia strumentale dell'insufficienza respiratoria;
 
-Neuropatologia in rapporto con l'otorinolaringoiatria;
+3) metodologie di rieducazione funzionale respiratoria;
 
-Oculistica in rapporto con l'otorinolaringoiatria;
+4) la rieducazione respiratoria nelle broncopneumopatie invalidanti;
 
-Chirurgia plastica;
+5) terapia cardiologica e del circolo dei bronco pneumopatici cronici;
 
-Tracheo-broncoscopia;
+6) terapia d'urgenza nelle sindromi disfunzionali respiratorie;
 
-Medicina legale ed infortunistica in otorinolaringoiatria.
+7) prevenzione cura delle invalidita' respiratorie
 
-Dopo l'art. 225 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in "Igiene e medicina preventiva" e in "Reumatologia".
+Art. 291. - Il numero degli iscritti per ogni anno e' dieci.
 
-Scuola di specializzazione in igiene e medicina preventiva
+Art. 292 - Esercitazioni, esami, diploma. - I corsi d'insegnamento sono integrati da turni obbligatori d'internato nei reparti di degenza, nei laboratori di ricerca, da esercitazioni pratiche e da conferenze; gli esami di profitto hanno luogo al termine di ogni anno di corso; per il conseguimento del diploma di specializzazione e' prescritta la presentazione e la discussione di una dissertazione scritta.
 
-Art. 226. - La scuola e' articolata nei seguenti orientamenti:
+Scuola di specializzazione in biochimica e chimica clinica
 
-a) sanita' pubblica;
+Art. 293. - La scuola di specializzazione in biochimica e chimica clinica ha lo scopo di poter offrire una migliore qualificazione scientifica professionale a coloro che intendono dedicarsi alle discipline biochimiche con indirizzo medico-biologico.
 
-b) laboratorio;
+Art. 294. - Alla scuola, che ha la durata di tre anni, possono essere ammessi i laureati in medicina e chirurgia.
 
-c) igiene e tecnica (o direzione) ospedaliera;
+Art. 295. - Il numero complessivo di specializzandi da ammettere alla scuola e' fissato in novanta allievi ripartiti in trenta allievi per anno.
 
-d) igiene e medicina scolastica.
+L'ammissione alla scuola avviene per titoli e per esami.
 
-La durata del corso e' di tre anni di cui i primi due comuni, il terzo differenziato per i vari orientamenti.
+Art. 296. - La direzione della scuola viene assunta da un professore di ruolo di chimica biologica o di materia affine. Il direttore della scuola puo' nominare un vicedirettore che lo coadiuvi ed un segretario.
 
-La scuola rilascia il diploma di specialista in igiene e medicina preventiva con l'indicazione dell'orientamento prescelto.
+Art. 297. - Gli insegnamenti impartiti nei tre anni saranno i seguenti:
 
-Il numero degli iscritti e' stabilito in un massimo di quindici, per il primo anno di corso.
-
-Art. 227. - Le materie di insegnamento per il primo biennio sono:
+INSEGNAMENTI FONDAMENTALI:
 
 1° Anno:
 
-Metodologia statistica e biometria;
+1) biologia generale e speciale;
 
-Educazione sanitaria;
+2) biologia molecolare;
 
-Psicologia;
+3) biochimica analitica;
 
-Microbiologia;
-
-Parassitologia;
-
-Epidemiologia e profilassi generale.
+4) biometria.
 
 2° Anno:
 
-Patologia e clinica delle malattie infettive;
+1) chimica clinica;
 
-Epidemiologia e profilassi delle malattie infettive;
+2) biochimica patologica;
 
-Patologia e clinica delle malattie non infettive di importanza sociale;
+3) enzimologia clinica;
 
-Epidemiologia e profilassi delle malattie infettive di importanza sociale;
-
-Demografia e statistica sanitaria;
-
-Legislazione e organizzazione sanitaria.
+4) biochimica dinamica.
 
 3° Anno:
 
-a) per l'orientamento di sanita' pubblica:
+1) biochimica dei tessuti e degli organi;
 
-Approvvigionamento idrico: raccolta e smaltimento dei rifiuti liquidi e solidi; inquinamenti atmosferici;
+2) biochimica ormonale;
 
-Igiene edilizia e urbanistica;
+3) biochimica farmacologica;
 
-Igiene dell'alimentazione;
+4) tossicologia.
 
-Igiene e medicina scolastica;
+INSEGNAMENTI COMPLEMENTARI:
 
-Igiene ospitaliera;
+1) elementi di ematologia;
 
-Servizi di sanita' pubblica.
+2) complementi di istologia patologica;
 
-b) per l'orientamento di laboratorio:
+3) immunochimica;
 
-Microscopia applicata all'igiene;
+4) igiene applicata al laboratorio di analisi chimicocliniche;
 
-Microbiologia applicata all'igiene;
+5) elementi di legislazione sanitaria;
 
-Chimica clinica;
+6) elementi di anatomia e fisiopatologia;
 
-Accertamento diagnostico delle malattie batteriche e parassitarie;
+7) immunochimica;
 
-Accertamento diagnostico delle infezioni virali;
+8) biofisica applicata con elementi di elettronica;
 
-Nozioni di anatomia ed istologia patologica.
+9) igiene applicata al laboratorio di analisi chimicocliniche;
 
-c) per l'orientamento di igiene e tecnica ospitaliera:
+10) elementi di legislazione sanitaria.
 
-Storia degli ospedali e principi metodologici dell'assistente ospitaliero;
+Art. 298. - Ogni materia di insegnamento e' anche materia d'esame il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo. Per ottenere il diploma di specializzazione in biochimica e chimica clinica gli allievi dovranno superare quindi tutte le materie e almeno tre materie complementari (una per anno). I laureati in medicina e chirurgia devono scegliere i tre insegnamenti complementari fra quelli indicati all'art. 297.
 
-Igiene e tecnica delle costruzioni ospitaliere, arredamento ed impianti sanitari;
+Art. 299. - Alla fine dei tre anni gli allievi dovranno presentare una tesi scritta su tema concordato con il direttore della scuola e sostenere un esame di diploma. I candidati non riconosciuti idonei potranno ripresentarsi dopo un altro anno di frequenza alla scuola.
 
-Organizzazione e funzione degli ospedali generali e speciali;
-
-Diritto amministrativo e legislazione ospitaliera;
-
-Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospitaliera;
-
-Selezione e istruzione professionale del personale ospitaliero;
-
-Organizzazione e funzione dei laboratori di analisi e di accertamento necroscopico.
-
-d) per l'orientamento di igiene e medicina scolastica:
-
-Auxologia normale e patologica;
-
-Epidemiologia e profilassi delle malattie dell'eta' scolare;
-
-Servizi di medicina scolastica;
-
-Elementi di psicologia e pedagogia per l'eta' scolare;
-
-Igiene dell'alimentazione;
-
-Assistenza parascolastica;
-
-Edilizia scolastica.
-
-Durante i tre anni di corso gli allievi dovranno inoltre seguire i corsi di almeno tre insegnamenti complementari da scegliersi tra i seguenti ed in rapporto con la attinenza all'orientamento prescelto:
-
-Ispezione delle carni;
-
-Geologia applicata all'igiene;
-
-Igiene mentale;
-
-Malattie professionali e loro prevenzione;
-
-Diritto sanitario;
-
-Igiene navale e dell'emigrazione;
-
-Antropologia culturale e sociologia;
-
-Malattie tropicali;
-
-Istituzioni di matematica;
-
-Genetica;
-
-Gerontologia e geriatria;
-
-Elementi di economia politica.
-
-Al termine di ciascun anno gli allievi che abbiano regolarmente frequentato il corso dovranno superare un esame di profitto.
-
-Scuola di specializzazione in reumatologia
-
-Art. 228. - La scuola ha la durata di tre anni e rilascia il diploma di specialista in reumatologia.
-
-Alla scuola sono ammessi i laureati in medicina e chirurgia.
-
-Il numero dei posti disponibili per ogni anno di corso e' fissato nel numero di otto. Nel caso che le domande di ammissione eccedano il numero dei posti disponibili si effettuera' una selezione per titoli ed esami.
-
-Art. 229. - Le materie di insegnamento sono:
-
-1° Anno:
-
-Anatomia, istologia e morfogenesi dell'apparato muscolo-scheletrico ed articolare;
-
-Fisiopatologia dell'apparato muscolo-scheletrico ed articolare;
-
-Biochimica dei tessuti connettivi;
-
-Microbiologia ed immunologia in relazione alle malattie reumatiche;
-
-Semeiotica fisica, strumentale e di laboratorio in reumatologia (biennale).
-
-2° Anno:
-
-Semeiotica fisica, strumentale e di laboratorio in reumatologia (biennale);
-
-Anatomia ed istologia patologica delle malattie reumatiche;
-
-Farmacologia in relazione alle malattie reumatiche;
-
-Diagnostica radiologica;
-
-Patologia, clinica e terapia delle malattie reumatiche (biennale);
-
-Terapia fisica, termale e riabilitativa in reumatologia (biennale).
-
-3° Anno
-
-Patologia, clinica e terapia delle malattie reumatiche (biennale);
-
-Terapia fisica, termale e riabilitativa in reumatologia (biennale);
-
-Clinica e terapia ortopedica applicata alla reumatologia;
-
-Aspetti sociali ed epidemiologici delle malattie reumatiche.
-
-Al termine di ogni anno di corso gli specializzandi, per ottenere l'ammissione all'anno successivo, devono superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno in corso.
-
-Art. 230. - E' obbligatoria la frequenza alle lezioni e alle esercitazioni. E' altresi' obbligatorio un periodo di internato di almeno sei mesi per ciascun anno di corso.
-
-L'esame di diploma consiste nella discussione di una tesi scritta su un tema precedentemente approvato dal direttore della scuola.
+A coloro che abbiano superato l'esame finale verra' rilasciato il diploma di specialista in biochimica e chimica clinica.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 22 settembre 1972
+Dato a Roma, addi' 30 ottobre 1976
 
 LEONE
 
-SCALFARO
+MALFATTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BONIFACIO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 17 novembre 1972. Atti del Governo, registro n. 253, foglio n. 52-bis. - CARUSO
+alla Corte dei conti, addi' 30 dicembre 1976 Registro n. 105 Istruzione, foglio n. 307
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvate con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte; Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1632](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1632), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-L'art. 132 relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che le scuole in "Igiene ed epidemiologia", "Igiene e tecnica ospedaliera", "Medicina ed igiene scolastica" sono soppresse.  
-La "Scuola di specializzazione in otorinolaringoiatria" muta la denominazione in quella di "Scuola di specializzazione in otorinolaringoiatria e patologia cervicofacciale".  
-Allo stesso elenco sono aggiunte le scuole di specializzazione in "Igiene e medicina preventiva" e in "Reumatologia" di nuova istituzione.  
-Gli articoli da 156 a 163 relativi alla scuola di specializzazione in "Chirurgia dell'infanzia" sono abrogati e sostituiti dai seguenti:  
+L'art. 148, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che la scuola di specializzazione in biometria e statistica medica muta la denominazione in quella di scuola di specializzazione in statistica medica.   
+Nello stesso elenco sono inserite le seguenti scuole di specializzazione:   
+scuola di specializzazione in ortognatodonzia;   
+scuola di specializzazione in diabetologia e malattie del ricambio;   
+scuola di specializzazione in fisiopatologia e fisiochinesiterapia respiratoria;   
+scuola di specializzazione in biochimica e chimica clinica.   
+Gli articoli 172, 173, 174, 175, 176, 177, 178, 179, relativi alla scuola di specializzazione in biometria e statistica medica che muta la denominazione in quella di scuola di specializzazione in statistica medica sono abrogati e sostituiti dai seguenti:   
   
-Scuola di specializzazione in chirurgia dell'infanzia  
+Scuola di specializzazione in statistica medica   
   
-Art. 156. - La scuola di specializzazione in chirurgia dell'infanzia conferisce il diploma di specialista in chirurgia dell'infanzia.  
-Art. 157. - La durata del corso di studi per il conseguimento della specialita' in chirurgia dell'infanzia e' fissata in anni due.  
-Possono ottenere l'iscrizione alla scuola i laureati in medicina e chirurgia che siano in possesso del diploma di specialista in chirurgia o abbiano conseguito la libera docenza in clinica chirurgica o patologia chirurgica, o semeiotica chirurgica, o anatomia chirurgica, o in chirurgia pediatrica.  
-Non e' ammessa l'abbreviazione di corso.  
-Art. 158. - Il numero degli iscritti alla scuola e' di dieci per anno di corso.  
-Qualora il numero degli aspiranti superi quello stabilito per la scuola in chirurgia dell'infanzia, l'ammissione sara' subordinata ad una prova d'esame.  
-Art. 159. - La direzione della scuola e' affidata al titolare dell'insegnamento della chirurgia pediatrica o ad una persona nominata dalla facolta'.  
-Art. 160. - Il corso si compone di insegnamenti fondamentali e di conferenze su argomenti speciali, oltre ad un periodo di internato obbligatorio di almeno sei mesi per ogni anno di corso.  
-Il periodo di internato potra' essere abbreviato per coloro che documentino di svolgere effettivo servizio presso reparti di chirurgia pediatrica universitari o ospedalieri.  
-Art. 161. - Le materie di insegnamento sono le seguenti:  
+Art. 172. - La scuola e' articolata nei seguenti orientamenti:   
+a) clinico;   
+b) epidemiologico,   
+sulla base di materie di insegnamento comuni a tutti gli allievi e materie differenziate per i due orientamenti come specificato all'art. 175. La scuola rilascia 11 diploma di specialista in statistica medica con l'indicazione dell'orientamento prescelto.   
+Art. 173. - La durata del corso e' fissata in tre anni.   
+Il numero degli iscritti e' fissato ad un massimo di dieci per il primo anno, e per un totale complessivo di trenta specializzandi per i tre anni di corso.   
+Art. 174. - Alla scuola di specializzazione in statistica medica sono ammessi oltre i laureati in medicina e chirurgia anche i laureati in altre discipline (limitatamente all'orientamento epidemiologico) su motivato parere della direzione della scuola, previo accertamento diretto della loro idoneita'.   
+Art. 175. - Il piano di studi per la scuola di specializzazione in statistica medica e' il seguente:   
+1° Anno:   
+Insegnamenti comuni ai due orientamenti:   
+1) matematica generale (I);   
+2) metodologia statistica (I);   
+3) calcolo automatico;   
+4) metodologia demografica.   
+Insegnamenti per l'orientamento clinico:   
+5) l'evidenza clinica;   
+6) tassometria per la nosografia.   
+Insegnamenti per l'orientamento epidemiologico:   
+5) sociologia medica;   
+6) storia medica.   
+2° Anno:   
+Insegnamenti comuni ai due orientamenti:   
+1) matematica generale (II);   
+2) metodologia statistica (II);   
+3) informatica medica;   
+4) metodologia epidemiologica generale.   
+Insegnamenti per l'orientamento clinico:   
+5) il ragionamento diagnostico;   
+6) il riconoscimento automatico.   
+Insegnamenti per l'orientamento epidemiologico:   
+5) geografia medica;   
+6) econometria sanitaria.   
+3° Anno:   
+Insegnamenti comuni ai due orientamenti:   
+1) disegno ed analisi dell'esperimento clinico;   
+2) disegno ed analisi dell'inchiesta sanitaria.   
+Insegnamenti per l'orientamento clinico:   
+3) biometria umana;   
+4) programmazione e valutazione terapeutica;   
+5) il dossier clinico;   
+6) demografia ospedaliera;   
+7) il sistema informativo sanitario.   
+Insegnamenti per l'orientamento epidemiologico:   
+3) metodologia epidemiologica applicata alla patologia infantile;   
+4) metodologia epidemiologica applicata alla patologia infettiva;   
+5) metodologia epidemiologica applicata alla patologia genetica;   
+6) metodologia epidemiologica applicata alla patologia degenerativa;   
+7) metodologia epidemiologica applicata alla patologia da lavoro;   
+8) metodologia epidemiologica applicata alla patologia psichiatrica.   
+Art. 176. - I corsi sono composti di lezioni teoriche e di esercitazioni pratiche sulle materie di cui all'art. 175 e si terranno presso l'istituto di biometria e statistica medica o in altre sedi a cura dello stesso istituto.   
+Art. 177. - La frequenza alle lezioni e alle esercitazioni e' obbligatoria e condiziona l'ammissione degli allievi all'esame annuale di profitto. Continuando durante uno dei primi tre anni di corso gli allievi sono tenuti a svolgere un internato presso l'istituto di biometria e statistica medica secondo un piano deciso dal direttore della scuola.   
+Art. 178. - Alla fine di ogni anno di corso gli specializzandi per poter ottenere l'ammissione all'anno successivo, dovranno superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno di corso.   
+Art. 179. - Per essere ammesso all'esame finale di diploma l'allievo dovra' dimostrare di aver seguito regolarmente i corsi e superato gli esami di profitto dei tre anni di corso.   
+L'esame di diploma consiste nella discussione orale di una dissertazione scritta su tema approvato in precedenza dal direttore della scuola corredata da dati originali.   
+Il secondo comma dell'art. 210, relativo alla scuola di specializzazione in idrologia, climatologia e talassoterapia e' modificato nel senso che il numero degli iscritti da ammettere alla suddetta scuola e' stabilito in quindici per ogni anno di corso.   
+L'art. 218, relativo alla scuola di specializzazione in medicina dello sport, viene abrogato e sostituito dal seguente:   
   
-1° Anno:  
-Anatomia patologica e teratologia (lezioni);  
-Endocrinologia infantile (conferenze);  
-Clinica pediatrica (lezioni);  
-Clinica chirurgica pediatrica (lezioni);  
-Patologia chirurgica e semeiotica chirurgica (lezioni);  
-Diagnostica radiologica e nucleare delle malattie chirurgiche dell'infanzia (lezioni);  
-Anestesiologia e rianimazione (conferenze).  
+Scuola di specializzazione in medicina dello sport   
+Art. 218. - La durata del corso di studi e' di tre anni. Il numero degli iscritti e' stabilito in venti per ciascun anno di corso (totale 60 iscritti).   
+Il piano degli studi e' il seguente:   
+1° Anno:   
+anatomia dell'apparato locomotore;   
+fisiologia dell'apparato locomotore;   
+biochimica ed energetica muscolare;   
+antropometria e auxologia;   
+storia dell'educazione fisica e degli sports;   
+psicologia applicata allo sport;   
+sistematica dell'attivita' sportivo-agonistica e regolamenti sportivi.   
+2° Anno:   
+fisiologia dell'esercizio fisico;   
+biomeccanica dell'esercizio fisico;   
+traumatologia dello sport;   
+metodologia dell'allenamento sportivo;   
+fisiopatologia degli sports e semeiotica medicosportiva (biennale);   
+scienza della nutrizione applicata all'attivita' sportiva;   
+farmacologia e tossicologia del doping;   
+igiene e medicina preventiva applicati all'attivita' sportiva. 3° Anno:   
+fisiologia applicata allo sport;   
+valutazione funzionale dello sportivo;   
+rianimazione e pronto soccorso;   
+medicina legale e infortunistica applicata allo sport;   
+fisioterapia e rieducazione funzionale;   
+fisiopatologia degli sports e semeiotica medicosportiva.   
+Dopo l'art. 280, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione delle scuole di specializzazione in ortognatodonzia, diabetologia e malattie del ricambio, fisiopatologia e fisiochinesiterapia respiratoria, biochimica e chimica clinica, di cui all'art. 148.   
   
-2° Anno:  
-Clinica pediatrica (lezioni);  
-Clinica chirurgica pediatrica (lezioni);  
-Chirurgia d'urgenza nell'infanzia (lezioni);  
-Otorinolaringoiatria nell'infanzia (conferenze);  
-Ortopedia nell'infanzia (conferenze);  
-Urologia nell'infanzia (conferenze);  
-Neurochirurgia infantile (conferenze);  
-Chirurgia del cuore e dei grossi vasi (conferenze).  
+Scuola di specializzazione in ortognatodonzia   
   
-Art. 162. - La frequenza alle lezioni e' obbligatoria.  
-Al termine di ciascun anno accademico, gli specializzandi, che abbiano ottenuto le firme di frequenza, dovranno sostenere gli esami di profitto nelle materie oggetto di insegnamento.  
-Art. 163. - Al termine del corso di specializzazione gli specializzandi dovranno presentare una dissertazione scritta su argomento di chirurgia infantile e sostenere l'esame di diploma.  
-L'art. 178 relativo alla scuola di specializzazione in igiene ed epidemiologia; gli articoli 179-180 relativi alla scuola di specializzazione in igiene e tecnica ospedaliera; l'art. 185 relativo alla scuola di specializzazione in medicina e igiene scolastica sono soppressi con il conseguente spostamento della numerazione degli articoli successivi.  
-L'art. 202 relativo alla "Scuola di specializzazione in neurochirurgia" e' abrogato e sostituito dal seguente:  
+Art. 281. - La scuola di specializzazione in ortognatodonzia ha sede presso la cattedra di clinica odontoiatrica II dell'Universita' di Milano.   
+Art. 282. - Il corso degli studi per il conseguimento del diploma di specialista in ortognatodonzia ha la durata di due anni accademici.   
+Art. 283. - Alla scuola possono iscriversi gli specialisti in odontoiatria e protesi dentaria. Il numero degli iscritti alla scuola e' fissato in dieci per anno di corso per un totale di venti iscritti. L'ammissione avviene previo concorso per titoli ed esami.   
+Art. 284. - Le materie di insegnamento del corso sono le seguenti: 1° Anno:   
+1) anatomia ed embriologia maxillo-facciale;   
+2) istologia dentale e paradentale;   
+3) fisiologia in ortognatodonzia (I anno) (biennale);   
+4) ortodonzia (I anno) (biennale);   
+5) genetica in ortognatodonzia;   
+6) radiologia in ortognatodonzia;   
+7) metallurgia e merceologia in ortognatodonzia;   
+8) statistica applicata alla ricerca scientifica;   
+9) semeiotica ortodontica.   
+2° Anno:   
+1) fisiologia in ortognatodonzia (II anno);   
+2) ortodonzia (II anno);   
+3) patologia stomatologica in ortodonzia;   
+4) pediatria auxologica applicata;   
+5) pedodonzia;   
+6) otorinolaringoiatria applicata;   
+7) fonoterapia.   
+Art. 285. - La frequenza alle lezioni e alle esercitazioni e' obbligatoria per tutti gli iscritti.   
+Art. 286. - Alla fine del primo anno di corso gli specializzandi, per poter ottenere l'ammissione all'anno successivo dovranno superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno in corso.   
+Art. 287. - L'esame di diploma consiste nella discussione di una tesi scritta su un tema preventivamente approvato dal direttore della scuola.   
+Art. 288. - Le norme per l'iscrizione, gli esami, le tasse, ecc., sono quelle generali per la scuola di specializzazione per l'Universita' di Milano.   
   
-Scuola di specializzazione in neurochirurgia  
+Scuola di specializzazione in diabetologia e malattie del ricambio   
+Art. 289. - La scuola ha la durata di tre anni e la frequenza ai corsi e' obbligatoria.   
+Le materie di insegnamento sono:   
+1° Anno:   
+anatomia e citomorfologia funzionali;   
+elementi di genetica del, diabete e delle malattie del ricambio;   
+metodi di analisi chimica e quantitativa;   
+patologia molecolare;   
+fisiopatologia clinica del diabete e delle malattie del ricambio;   
+elementi di biometria e di statistica (complementare);   
+auxologia e auxopatia metaboliche (complementare).   
+2° Anno:   
+patologia sperimentale metabolica;   
+semeiotica fisica e funzionale del diabete e delle malattie del ricambio;   
+clinica del diabete e delle malattie del ricambio (1);   
+medicina sociale e preventiva del diabete e delle malattie del ricambio;   
+neuropatologia del diabete e delle malattie del ricambio (complementare);   
+fisiopatologia e clinica ostetrico-ginecologica del diabete e delle malattie del ricambio (complementare).   
+3° Anno:   
+clinica del diabete e delle malattie del ricambio;   
+farmacologia del diabete e delle malattie del ricambio;   
+dietologia del diabete e delle malattie del ricambio;   
+elementi di psicologia nel diabete e nelle malattie del ricambio (complementare);   
+terapia chirurgica nel diabete e nelle malattie del ricambio (complementare);   
+oftalmologia nel diabete e nelle malattie del ricambio (complementare).   
+I corsi saranno integrati da conferenze su argomenti specialistici e da esercitazioni pratiche cliniche e di laboratorio.   
+Il numero degli specializzandi ammesso al primo anno e' fissato in dieci per un totale di trenta nel corso dei tre anni.   
+Alla fine di ogni anno, per potersi iscrivere al successivo, gli allievi dovranno superare un esame di profitto comprensivo delle materie di insegnamento dell'anno stesso. Per l'ammissione all'esame e' necessario ottenere l'attestazione di frequenza. L'esame di diploma consistera' nella discussione di una dissertazione scritta su un tema approvato dal direttore della scuola stessa.   
   
-Art. 202. - La durata del corso e' di quattro anni.  
-Il numero degli iscritti e' stabilito in un massimo di sei per il primo anno di corso (totale ventiquattro iscritti).  
-Le materie di insegnamento sono:  
+Scuola di specializzazione in fisiopatologia e in fisiokinesiterapia respiratoria   
   
-1° Anno:  
-1) Neuroanatomia;  
-2) Neurofisiologia;  
-3) Semeiotica e clinica neurologica;  
-4) Elementi di psichiatria;  
-5) Clinica neurochirurgica (I).  
-Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto sulle materie di cui ai numeri 1), 2), 3), 4).  
+Art. 290. - La scuola di specializzazione in fisiopatologia e fisiokinesiterapia respiratoria ha la durata dei corsi di anni tre.   
+Il piano di studi e' il seguente:   
+1° Anno:   
+1) anatomia funzionale dell'apparato respiratorio;   
+2) fisiomeccanica della respirazione;   
+3) le funzioni respiratorie ai vari livelli;   
+4) le funzioni del circolo polmonare;   
+5) attivita' non respiratorie del polmone;   
+6) metodologia di indagine della funzionalita' respiratoria;   
+7) i farmaci del respiro.   
+2° Anno:   
+1) inquadramento generale e diagnostico di patologia broncopolmonare;   
+2) alterazioni funzionali respiratorie in patologia broncopolmonare;   
+3) l'insufficienza respiratoria nei suoi aspetti ezio-patogenetici, clinici e terapeutici;   
+4) fisiopatologia cardiocircolatoria nei broncopneumopatici;   
+5) le alterazioni funzionari respiratorie nei vasculopatici e nei cardiopatici.   
+3° Anno:   
+1) terapia medica generale delle sindromi da disfunzione respiratoria;   
+2) terapia strumentale dell'insufficienza respiratoria;   
+3) metodologie di rieducazione funzionale respiratoria;   
+4) la rieducazione respiratoria nelle broncopneumopatie invalidanti;   
+5) terapia cardiologica e del circolo dei bronco pneumopatici cronici;   
+6) terapia d'urgenza nelle sindromi disfunzionali respiratorie;  
+7) prevenzione cura delle invalidita' respiratorie   
+Art. 291. - Il numero degli iscritti per ogni anno e' dieci.   
+Art. 292 - Esercitazioni, esami, diploma. - I corsi d'insegnamento sono integrati da turni obbligatori d'internato nei reparti di degenza, nei laboratori di ricerca, da esercitazioni pratiche e da conferenze; gli esami di profitto hanno luogo al termine di ogni anno di corso; per il conseguimento del diploma di specializzazione e' prescritta la presentazione e la discussione di una dissertazione scritta.   
   
-2° Anno:  
-1) Neuro-oftalmologia;  
-2) Neuro-otoiatria;  
-3) Elettroencefalografia ed elettromiografia;  
-4) Clinica neurochirurgica (II).  
-Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto sulle materie di cui ai numeri 1), 2) e 3).  
+Scuola di specializzazione in biochimica e chimica clinica   
   
-3° Anno:  
-1) Anestesiologia;  
-2) Neuropatologia;  
-3) Neuroradiologia (I);  
-4) Clinica neurochirurgica (III).  
-Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto sulle materie di cui ai numeri 1) e 2).  
-  
-4° Anno:  
-1) Tecniche operatorie;  
-2) Neuroradiologia (II);  
-3) Clinica neurochirurgica (IV);  
-4) Neurotraumatologia;  
-5) Neurochirurgia infantile;  
-6) Chirurgia stereotassica;  
-7) Neurochirurgia spinale.  
-  
-Alla fine dell'anno gli specializzandi dovranno superare gli esami di profitto sulle materie di cui ai numeri 1), 2) e 3).  
-Gli insegnamenti saranno integrati da esercitazioni cliniche e di laboratorio.  
-La frequenza alla scuola e' obbligatoria durante l'anno accademico.  
-Gli allievi sono tenuti a frequentare assiduamente le lezioni ed i laboratori della clinica neurochirurgica secondo l'orario stabilito ed a partecipare attivamente alle esercitazioni cliniche e di laboratorio.  
-Il direttore della scuola potra' disporre che gli allievi frequentino per determinati periodi le lezioni e le esercitazioni di laboratorio in altri istituti dell'universita'.  
-Al termine di ciascun anno gli allievi che abbiano regolarmente frequentato il corso dovranno superare un esame di profitto.  
-L'art. 209 relativo alla scuola di specializzazione in otorinolaringoiatria che muta la denominazione in quella di scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale e' abrogato e sostituito dal seguente:  
-  
-Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale  
-  
-Art. 209. - La durata del corso e' di tre anni.  
-Il numero dei posti e' fissato in cinque per ogni anno di corso.  
-E' obbligatoria la frequenza giornaliera per un minimo di quattro ore.  
-Le materie di insegnamento sono:  
-  
-1° Anno:  
-Anatomia;  
-Fisiologia;  
-Audiologia (1° anno);  
-Semeiotica otorinolaringoiatrica;  
-Tecnica di laboratorio;  
-Patologia e clinica otorinolaringoiatrica e cervicofacciale (1° anno);  
-Anatomia ed istologia patologica otorinolaringoiatrica.  
-  
-2° Anno:  
-Tecniche operatorie in otorinolaringoiatria;  
-Anestesiologia in otorinolaringoiatria;  
-Patologia e clinica otorinolaringoiatrica e cervicofacciale (2° anno);  
-Radiologia in rapporto con l'otorinolaringoiatria;  
-Pediatria in rapporto con l'otorinolaringoiatria;  
-Audiologia (2° anno);  
-Otoneurologia;  
-Foniatria.  
-  
-3° Anno:  
-Patologia e clinica otorinolaringoiatrica e cervicofacciale;  
-Terapia medica e fisica in otorinolaringoiatria;  
-Neuropatologia in rapporto con l'otorinolaringoiatria;  
-Oculistica in rapporto con l'otorinolaringoiatria;  
-Chirurgia plastica;  
-Tracheo-broncoscopia;  
-Medicina legale ed infortunistica in otorinolaringoiatria.  
-  
-Dopo l'art. 225 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in "Igiene e medicina preventiva" e in "Reumatologia".  
-  
-Scuola di specializzazione in igiene e medicina preventiva  
-  
-Art. 226. - La scuola e' articolata nei seguenti orientamenti:  
-a) sanita' pubblica;  
-b) laboratorio;  
-c) igiene e tecnica (o direzione) ospedaliera;  
-d) igiene e medicina scolastica.  
-La durata del corso e' di tre anni di cui i primi due comuni, il terzo differenziato per i vari orientamenti.  
-La scuola rilascia il diploma di specialista in igiene e medicina preventiva con l'indicazione dell'orientamento prescelto.  
-Il numero degli iscritti e' stabilito in un massimo di quindici, per il primo anno di corso.  
-Art. 227. - Le materie di insegnamento per il primo biennio sono:  
-  
-1° Anno:  
-Metodologia statistica e biometria;  
-Educazione sanitaria;  
-Psicologia;  
-Microbiologia;  
-Parassitologia;  
-Epidemiologia e profilassi generale.  
-  
-2° Anno:  
-Patologia e clinica delle malattie infettive;  
-Epidemiologia e profilassi delle malattie infettive;  
-Patologia e clinica delle malattie non infettive di importanza sociale;  
-Epidemiologia e profilassi delle malattie infettive di importanza sociale;  
-Demografia e statistica sanitaria;  
-Legislazione e organizzazione sanitaria.  
-  
-3° Anno:  
-a) per l'orientamento di sanita' pubblica:  
-Approvvigionamento idrico: raccolta e smaltimento dei rifiuti liquidi e solidi; inquinamenti atmosferici;  
-Igiene edilizia e urbanistica;  
-Igiene dell'alimentazione;  
-Igiene e medicina scolastica;  
-Igiene ospitaliera;  
-Servizi di sanita' pubblica.  
-b) per l'orientamento di laboratorio:  
-Microscopia applicata all'igiene;  
-Microbiologia applicata all'igiene;  
-Chimica clinica;  
-Accertamento diagnostico delle malattie batteriche e parassitarie;  
-Accertamento diagnostico delle infezioni virali;  
-Nozioni di anatomia ed istologia patologica.  
-c) per l'orientamento di igiene e tecnica ospitaliera:  
-Storia degli ospedali e principi metodologici dell'assistente ospitaliero;  
-Igiene e tecnica delle costruzioni ospitaliere, arredamento ed impianti sanitari;  
-Organizzazione e funzione degli ospedali generali e speciali;  
-Diritto amministrativo e legislazione ospitaliera;  
-Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospitaliera;  
-Selezione e istruzione professionale del personale ospitaliero;  
-Organizzazione e funzione dei laboratori di analisi e di accertamento necroscopico.  
-d) per l'orientamento di igiene e medicina scolastica:  
-Auxologia normale e patologica;  
-Epidemiologia e profilassi delle malattie dell'eta' scolare;  
-Servizi di medicina scolastica;  
-Elementi di psicologia e pedagogia per l'eta' scolare;  
-Igiene dell'alimentazione;  
-Assistenza parascolastica;  
-Edilizia scolastica.  
-  
-Durante i tre anni di corso gli allievi dovranno inoltre seguire i corsi di almeno tre insegnamenti complementari da scegliersi tra i seguenti ed in rapporto con la attinenza all'orientamento prescelto:  
-  
-Ispezione delle carni;  
-Geologia applicata all'igiene;  
-Igiene mentale;  
-Malattie professionali e loro prevenzione;  
-Diritto sanitario;  
-Igiene navale e dell'emigrazione;  
-Antropologia culturale e sociologia;  
-Malattie tropicali;  
-Istituzioni di matematica;  
-Genetica;  
-Gerontologia e geriatria;  
-Elementi di economia politica.  
-  
-Al termine di ciascun anno gli allievi che abbiano regolarmente frequentato il corso dovranno superare un esame di profitto.  
-  
-Scuola di specializzazione in reumatologia  
-  
-Art. 228. - La scuola ha la durata di tre anni e rilascia il diploma di specialista in reumatologia.  
-Alla scuola sono ammessi i laureati in medicina e chirurgia.  
-Il numero dei posti disponibili per ogni anno di corso e' fissato nel numero di otto. Nel caso che le domande di ammissione eccedano il numero dei posti disponibili si effettuera' una selezione per titoli ed esami.  
-Art. 229. - Le materie di insegnamento sono:  
-  
-1° Anno:  
-Anatomia, istologia e morfogenesi dell'apparato muscolo-scheletrico ed articolare;  
-Fisiopatologia dell'apparato muscolo-scheletrico ed articolare;  
-Biochimica dei tessuti connettivi;  
-Microbiologia ed immunologia in relazione alle malattie reumatiche;  
-Semeiotica fisica, strumentale e di laboratorio in reumatologia (biennale).  
-  
-2° Anno:  
-Semeiotica fisica, strumentale e di laboratorio in reumatologia (biennale);  
-Anatomia ed istologia patologica delle malattie reumatiche;  
-Farmacologia in relazione alle malattie reumatiche;  
-Diagnostica radiologica;  
-Patologia, clinica e terapia delle malattie reumatiche (biennale);  
-Terapia fisica, termale e riabilitativa in reumatologia (biennale).  
-  
-3° Anno  
-Patologia, clinica e terapia delle malattie reumatiche (biennale);  
-Terapia fisica, termale e riabilitativa in reumatologia (biennale);  
-Clinica e terapia ortopedica applicata alla reumatologia;  
-Aspetti sociali ed epidemiologici delle malattie reumatiche.  
-  
-Al termine di ogni anno di corso gli specializzandi, per ottenere l'ammissione all'anno successivo, devono superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno in corso.  
-Art. 230. - E' obbligatoria la frequenza alle lezioni e alle esercitazioni. E' altresi' obbligatorio un periodo di internato di almeno sei mesi per ciascun anno di corso.  
-L'esame di diploma consiste nella discussione di una tesi scritta su un tema precedentemente approvato dal direttore della scuola.  
+Art. 293. - La scuola di specializzazione in biochimica e chimica clinica ha lo scopo di poter offrire una migliore qualificazione scientifica professionale a coloro che intendono dedicarsi alle discipline biochimiche con indirizzo medico-biologico.   
+Art. 294. - Alla scuola, che ha la durata di tre anni, possono essere ammessi i laureati in medicina e chirurgia.   
+Art. 295. - Il numero complessivo di specializzandi da ammettere alla scuola e' fissato in novanta allievi ripartiti in trenta allievi per anno.   
+L'ammissione alla scuola avviene per titoli e per esami.   
+Art. 296. - La direzione della scuola viene assunta da un professore di ruolo di chimica biologica o di materia affine. Il direttore della scuola puo' nominare un vicedirettore che lo coadiuvi ed un segretario.   
+Art. 297. - Gli insegnamenti impartiti nei tre anni saranno i seguenti:   
+INSEGNAMENTI FONDAMENTALI:   
+1° Anno:   
+1) biologia generale e speciale;   
+2) biologia molecolare;   
+3) biochimica analitica;   
+4) biometria.   
+2° Anno:   
+1) chimica clinica;   
+2) biochimica patologica;   
+3) enzimologia clinica;   
+4) biochimica dinamica.   
+3° Anno:   
+1) biochimica dei tessuti e degli organi;   
+2) biochimica ormonale;   
+3) biochimica farmacologica;   
+4) tossicologia.   
+INSEGNAMENTI COMPLEMENTARI:   
+1) elementi di ematologia;   
+2) complementi di istologia patologica;   
+3) immunochimica;   
+4) igiene applicata al laboratorio di analisi chimicocliniche;   
+5) elementi di legislazione sanitaria;   
+6) elementi di anatomia e fisiopatologia;   
+7) immunochimica;   
+8) biofisica applicata con elementi di elettronica;   
+9) igiene applicata al laboratorio di analisi chimicocliniche;   
+10) elementi di legislazione sanitaria.   
+Art. 298. - Ogni materia di insegnamento e' anche materia d'esame il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo. Per ottenere il diploma di specializzazione in biochimica e chimica clinica gli allievi dovranno superare quindi tutte le materie e almeno tre materie complementari (una per anno). I laureati in medicina e chirurgia devono scegliere i tre insegnamenti complementari fra quelli indicati all'art. 297.   
+Art. 299. - Alla fine dei tre anni gli allievi dovranno presentare una tesi scritta su tema concordato con il direttore della scuola e sostenere un esame di diploma. I candidati non riconosciuti idonei potranno ripresentarsi dopo un altro anno di frequenza alla scuola.   
+A coloro che abbiano superato l'esame finale verra' rilasciato il diploma di specialista in biochimica e chimica clinica.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 settembre 1972
+### Dato a Roma, addi' 30 ottobre 1976
 
-LEONE SCALFARO
+LEONE MALFATTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 17 novembre 1972.
+Registrato alla Corte dei conti, addi' 30 dicembre 1976
 
-Atti del Governo, registro n. 253, foglio n. 52-bis. - CARUSO
+Registro n. 105 Istruzione, foglio n. 307

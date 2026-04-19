@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 655
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 luglio 1975 n. 527
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 655
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 luglio 1975 n. 527
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-655. Decreto del Presidente della Repubblica 22 settembre 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 4.000.000, disposto dal sig. Vallero Luigi con testamento pubblico redatto dal dott. Federico Bottino, notaio in Torino, il 10 maggio 1974, attivato dallo stesso notaio con verbale 3 luglio 1979, n. 44399 di repertorio e n. 8859 di raccolta, registrato a Torino il 17 luglio 1979 al n. 35153, vol. 132, a favore dell'Opera mutilatini di don Gnocchi che si identifica con la fondazione - Pro juventute don Carlo Gnocchi", come ha fatto presente la fondazione medesima.  
+527. Decreto del Presidente della Repubblica 9 luglio 1975, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato consistente nella somma di lire 400.000 disposto dalla sig.ra Enrica Pernigotti con testamento olografo 22 luglio 1971, pubblicato, a rogito del notaio dott.  
+Muzio Battista in data 21 settembre 1971, n. 36714 di repertorio, n. 14810 di raccolta, e registrato a Voghera il 4 ottobre 1971 con il n. 1482, vol. 215.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 14 novembre 1981  
-Registro n. 10 Presidenza, foglio n. 39
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 29 ottobre 1975  
+Atti di Governo, registro n. 13, foglio n. 42

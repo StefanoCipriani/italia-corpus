@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1982 n. 1112
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1984 n. 1162
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1982 n. 1112
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1984 n. 1162
 ===============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Catania.
@@ -39,18 +39,20 @@ Articolo unico
 --------------
 
   
-Nell'art. 51, relativo all'elenco degli insegnamenti del corso di laurea in medicina e chirurgia, l'insegnamento complementare di "chirurgia pediatrica" muta la denominazione in quella di "clinica chirurgica pediatrica".  
+Art. 51 - all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto l'insegnamento di "urodinamica".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1982
+### Dato a Roma, addi' 30 ottobre 1984
 
-PERTINI BODRATO
+PERTINI
 
-Visto, il Guardasigilli: DARIDA
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 17 febbraio 1983
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registro n. 12 Istruzione, foglio n. 173
+Registrato alla Corte dei conti, addi' 18 marzo 1985
+
+Registro n. 15 Istruzione, foglio n. 391

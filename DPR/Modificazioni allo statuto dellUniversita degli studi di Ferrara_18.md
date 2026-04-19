@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1971 n. 1178
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 aprile 1970 n. 409
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1971 n. 1178
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 aprile 1970 n. 409
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 -------------------------------------------------------------------
@@ -16,6 +16,7 @@ Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decret
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -24,50 +25,78 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-L'art. 94 relativo alla "Scuola di perfezionamento in ematologia" che muta la denominazione in quella di "Scuola di specializzazione in ematologia clinica e di laboratorio" e' abrogato e sostituito dal seguente:  
-  
-Scuola di specializzazione in ematologia clinica e di laboratorio  
-  
-Art. 94. - La scuola ha la durata di tre anni, con frequenza obbligatoria, ed ha sede presso l'istituto di patologia speciale medica. Il professore di ruolo di patologia speciale medica e' il direttore della scuola. Potranno essere iscritti alla scuola i laureati in medicina e chirurgia, nel numero massimo di otto per anno.  
-Gli insegnamenti saranno cosi' ripartiti:  
-1° Anno:  
-1) Morfologia e morfogenesi normale e patologica del sangue;  
-2) Genetica ematologica;  
-3) Fisiopatologia della coagulazione e dell'emostasi;  
-4) Fisiopatologia patologica;  
-5) Biochimica ematologica;  
-6) Fisiopatologia del plasma;  
-7) Tecniche di laboratorio inerenti all'ematologia.  
-2° Anno:  
-1) Morfologia e morfogenesi normale e patologica del sangue;  
-2) Fisiopatologia ematologica;  
-3) Immunoematologia;  
-4) Tecniche di laboratorio inerenti all'ematologia;  
-5) Patologia speciale ematologica;  
-6) Clinica delle emopatie;  
-7) Anatomia e istologia patologica delle emopatie e fondamenti di oncologia.  
-3° Anno:  
-1) Tecniche di laboratorio inerenti all'ematologia;  
-2) Nozioni di radiobiologia e di medicina nucleare applicata all'ematologia;  
-3) Radiodiagnostica e radioterapia ematologica;  
-4) Patologia speciale ematologica;  
-5) Clinica delle emopatie;  
-6) Terapia sistematica ematologica;  
-7) Terapia trasfusionale.  
-Potra' essere concessa l'abbreviazione di corso, non superiore ad un anno, soltanto ai liberi docenti in una delle branche di medicina generale, clinica pediatrica, patologia generale o anatomia patologica, o specialisti di medicina interna o pediatria.  
-In ogni caso, anche coloro che avranno ottenuto l'abbreviazione, dovranno sostenere gli esami del 1° anno prima del secondo. Il numero massimo degli iscritti non potra' risultare complessivamente superiore a ventiquattro.  
-Il direttore della scuola puo' invitare studiosi competenti ad impartire lezioni o conferenze su argomenti di speciale interesse ematologico.  
+Art. 44, relativo agli indirizzi del corso di laurea in matematica e' modificato nel senso che nelle tre tabelle B gli insegnamenti di "Fisica nucleare" e di "Chimica generale o inorganica con elementi di organica" sono soppressi.  
+Art. 51. - All'elenco degli insegnamenti complementari per il corso di laurea in chimica (indirizzo organico-biologico) sono aggiunti i seguenti:  
+Radiochimica;  
+Chimica teorica;  
+Chimica organica superiore;  
+Biologia molecolare.  
+Nello stesso articolo all'elenco degli insegnamenti complementari del corso di laurea in chimica (indirizzo inorganico-chimico-fisico) e' aggiunto il seguente:  
+Chimica metallurgica.  
+Art. 54, relativo alle norme circa l'iscrizione al triennio di applicazione del suddetto corso di laurea e' modificato nel senso che il terzo comma e' abrogato e sostituito dal seguente:  
+"La scelta dei complementari, da farsi anno per anno nel triennio di applicazione, e l'eventuale variazione di tale scelta sono sottoposti all'approvazione del consiglio di facolta'".  
+Art. 56. - All'elenco degli insegnamenti del corso di laurea in scienze naturali sono aggiunti i seguenti:  
+Paleontologia umana;  
+Paletnologia;  
+Citologia ed embriologia vegetale;  
+Ecologia;  
+Fitogeografia;  
+Micologia;  
+Fitosociologia;  
+Geologia e paleontologia del quaternario;  
+Entomologia;  
+Zoogeografia.  
+Nello stesso articolo l'insegnamento complementare di "Topografia antica e biofisica della antichita' spinetica" e' soppresso.  
+Art. 57, relativo alle propedeuticita' del suddetto corso di laurea e' modificato nel senso che il terzo comma e' abrogato e sostituito dal seguente:  
+"Gli insegnamenti biennali di "Botanica", di "Zoologia" e di "Fisiologia generale" comportano un esame alla fine di ogni anno".  
+Art. 61. - All'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:  
+Biochimica applicata;  
+Citologia sperimentale;  
+Fitogeografia;  
+Farmacologia;  
+Endocrinologia comparata;  
+Parassitologia;  
+Virologia;  
+Citologia ed embriologia generale;  
+Ecologia;  
+Zoogeografia;  
+Micologia;  
+Fitosociologia;  
+Entomologia.  
+Nello stesso articolo l'insegnamento complementare di "Topografia antica e biofisica della antichita' spinetica" e' soppresso.  
+Art. 62, relativo alle propedeuticita' del suddetto corso di laurea e' modificato nel senso che il terzo comma e' abrogato e sostituito dal seguente:  
+"Gli insegnamenti biennali di "Botanica", di "Zoologia" e di "Fisiologia generale" comportano un esame alla fine di ogni anno".  
+Art. 66. - All'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti i seguenti:  
+Paleontologia umana;  
+Paletnologia;  
+Prospezioni geofisiche;  
+Cristallochimica.  
+Art. 67. - All'elenco delle propedeuticita' del suddetto corso di laurea e' aggiunto il seguente ultimo comma:  
+"Non potra' essere ammesso all'internato lo studente che non abbia superato i seguenti esami fondamentali:  
+Istituzioni di matematiche;  
+Chimica generale e inorganica con elementi di organica;  
+Fisica sperimentale I;  
+Mineralogia e uno a scelta fra fisica sperimentale II, geografia fisica e paleontologia.  
+Art. 70. - L'ultimo comma relativo al corso biennale di studi propedeutici per la laurea in ingegneria e' abrogato e sostituito dal seguente:  
+"Agli insegnamenti del II anno vanno aggiunti obbligatoriamente due insegnamenti da scegliersi dagli studenti fra i seguenti:  
+Disegno II;  
+Litologia e geologia;  
+Metodi di osservazione e misura;  
+Tecnologia generale dei materiali.  
+in rapporto all'indirizzo che verra' scelto dagli studenti stessi nel successivo triennio".  
+Nello stesso articolo e' aggiunto il seguente ultimo comma:  
+"Gli insegnamenti di analisi matematica I, analisi matematica II, geometria I, geometria II e meccanica razionale sono distinti dagli analoghi insegnamenti del corso di laurea in matematica".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 ottobre 1971
+### Dato a Roma, addi' 2 aprile 1970
 
 SARAGAT MISASI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 30 dicembre 1971
+Registrato alla Corte dei conti, addi' 24 giugno 1970
 
-Atti del Governo, registro n. 245, foglio n. 167. - VALENTINI
+Atti del Governo, registro n. 236, foglio n. 68. - CARUSO

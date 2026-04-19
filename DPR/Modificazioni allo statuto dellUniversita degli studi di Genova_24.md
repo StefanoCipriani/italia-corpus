@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1964 n. 798
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 maggio 1972 n. 448
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1964 n. 798
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 maggio 1972 n. 448
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
@@ -10,733 +10,795 @@ Modificazioni allo statuto dell'Universita' degli studi di Genova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846) e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro per da pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 29. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti i seguenti:
+L'art. 122, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che le scuole di "Dermatologia", di "Medicina generale", e di "Tisiologia" mutano rispettivamente la denominazione in quella di scuola di "Clinica dermosifilopatica", di "Medicina interna" e di "Tisiologia e malattie dell'apparato respiratorio".
 
-Storia della Chiesa;
+Gli articoli da 154 a 160, relativi alla "Scuola di specializzazione in dermatologia" che assume la denominazione di "Scuola di specializzazione in clinica dermosifilopatica", sono abrogati e sostituiti dai seguenti:
 
-Storia delle dottrine politiche;
+Scuola di specializzazione in clinica dermosifilopatica
 
-Storia delle esplorazioni geografiche;
+Art. 154. - Presso l'istituto di clinica dermosifilopatica e' istituita la scuola di specializzazione in clinica dermosifilopatica che ha lo scopo di conferire la necessaria competenza a coloro che vogliono dedicarsi all'esercizio della specialita' dermosifilopatica.
 
-Storia americana;
+Il diploma che viene rilasciato in seguito ad esami attribuisce la qualifica di specialista in clinica dermosifilopatica. Direttore della scuola e' il titolare della cattedra di clinica dermosifilopatica.
 
-Storia dell'Europa orientale;
+Art. 155. - La durata del corso e' di anni tre a tempo pieno. La frequenza non sara' inferiore a quattro ore effettive giornaliere per tutta la durata dell'anno accademico.
 
-Storia dei Paesi afro-asiatici;
+Art. 156. - Le materie di insegnamento sono le seguenti:
 
-Storia e geografia, dell'Asia orientale;
+1° Anno:
 
-Teoria e storia della storiografia;
+1) Anatomia e istologia normale della cute;
 
-Storia religiosa dell'Oriente cristiano.
+2) Fisiologia della cute e degli annessi cutanei;
 
-Art. 45. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' aggiunto quello di "Ematologia".
+3) Anatomia e fisiologia dell'apparato genitale;
 
-Art. 50. - Agli insegnamenti complementari del orso di laurea in Chimica sono aggiunti i seguenti:
+4) Microbiologia e parassitologia applicata;
 
-Per l'indirizzo organico-biologico:
+5) Tecnica di laboratorio con particolare riferimento alla sierologia applicata;
 
-24) Chimica degli idrocarburi naturali e derivati;
+6) Semeiotica dermatologica e venereologica.
 
-26) Spettroscopia molecolare;
+2° Anno:
 
-26) Biopolimeri (Biochimica macroniolecolare);
+1) Patologia delle malattie cutanee;
 
-27) Chimica delle radiazioni;
+2) Patologia delle infezioni sessuali;
 
-28) Pietrolchimica;
+3) Anatomia e istologia patologica della cute;
 
-29) Chimica organica, superiore;
+4) Anatomia patologica delle malattie veneree e sessuali;
 
-30) Chimica delle sostanze organiche naturali;
+5) Angiologia:
 
-31) Chimica analitica strumentale con esercitazioni;
+6) Sessuologia.
 
-32) Cinetica chimica;
+3° Anno:
 
-33) Chimica dei composti di coordinazione.
+1) Clinica delle malattie cutanee;
 
-Per l'indirizzo inorganico-chimico-fisico:
+2) Clinica delle infezioni sessuali;
 
-21) Spettroscopia molecolare;
+3) Farmacologia e terapia medicamentosa;
 
-22) Chimica delle radiazioni;
+4) Fisioterapia dermatologica;
 
-23) Chimica fisica dello stato solido;
+5) Cosmetologia;
 
-24) Cristallochimica-inorganica;
+6) Chirurgia plastica riparatrice;
 
-25) Chimica analitica strumentale con esercitazioni;
+7) Igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.
 
-26) Cinetica chimica;
+Tali materie verranno insegnate complessivamente in oltre cinquanta lezioni annuali.
 
-27) Chimica inorganica, applicata;
+Art. 157. - Il numero degli iscritti non puo' superare i ventiquattro per l'intero corso degli studi.
 
-28) Chimica inorganica superiore;
+Per le iscrizioni alla scuola e' richiesta la laurea in medicina e chirurgia ed il superamento di un esame di ammissione. Gli iscritti saranno obbligati ad una frequenza giornaliera delle corsie, ambulatori e laboratori della clinica dermosifilopatica per tutta la durata dell'anno accademico.
 
-29) Chimica dei composti di coordinazione.
+Art. 158. - Le norme di iscrizione, pagamento tasse, ecc. sono quelle generali delle scuole di specializzazione e di perfezionamento riferite negli articoli da 122 a 137 dello statuto dell'universita'.
 
-Nello stesso articolo le norme riguardanti le propedeuticita' di iscrizioni e di esami sono abrogate e sostituite dalle seguenti:
+Art. 159. - Gli esami di profitto degli specializzandi verranno dati in tre gruppi e in tre sessioni distinte, ogni gruppo comprendente le materie proprie di ciascun anno di studio.
 
-a) I tre insegnamenti complementari di analisi matematica, di geometria analitica con elementi di proiettiva e di meccanica razionale con elementi di statica grafica possono sostituire l'unico insegnamento fondamentale di istituzioni di matematiche (biennale).
+Art. 160. - L'esame di diploma consistera' nella esposizione e discussione di un argomento della disciplina su un tema dato al candidato ventiquattro ore prima della prova.
 
-b) Per l'insegnamento di analisi matematica, vale la norma stabilita per il corso di laurea in Matematica;
+Gli articoli da 188 a 197, relativi alla "Scuola di specializzazione in ortopedia e traumatologia", sono abrogati e sostituiti dai seguenti, con il relativo spostamento della numerazione degli articoli successivi.
 
-c) Per ottenere, l'iscrizione al triennio di applicazione lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali prescritti per il triennio di applicazione e almeno in sette da lui scelti fra i complementari del gruppo seguito;
+Scuola di specializzazione in ortopedia e traumatologia
 
-d) Per l'iscrizione al corso di "Esercitazioni di analisi chimica qualitativa" occorre aver superato l'esame di "Esercitazioni di preparazioni chimiche".
+Art. 188. - La scuola di specializzazione in ortopedia e traumatologia ha sede presso l'istituto di clinica ortopedica e conferisce il diploma di specializzazione in ortopedia e traumatologia.
 
-e) Per l'iscrizione ai corsi di "Esercitazioni di preparazioni chimiche IV" ed "Esercitazioni di analisi chimica applicata" e' necessario aver ottenuto l'attestazione di frequenza relativa al corso di "Esercitazioni di analisi chimica quantitativa".
+Direttore della scuola e' un professore di ruolo dell'istituto di clinica ortopedica.
 
-f) Per l'iscrizione ai corsi di "Esercitazioni di chimica organica ed Analisi organica" e (Chimica biologica" occorre aver superato gli esami di "Chimica organica I e II".
+Il corso ha durata di tre anni.
 
-g) Per l'iscrizione al corso di "Chimica organica industriale" occorre aver superato l'esame di "Chimica organica I" ed aver ottenuto l'attestazione di frequenza del corso di "Chimica organica II".
+Art. 189. - Potranno essere ammessi alla scuola i laureati in medicina e chirurgia.
 
-h) Per gli esami dovranno osservarsi le seguenti propedeuticita':
+Il numero degli iscritti non potra' superare il numero di trenta complessivamente.
 
-1) Gli esami di "Istituzioni di matematiche I", "Chimica generale ed inorganica I" e "Fisica sperimentale I" devono precedere l'esame di "Mineralogia con esercitazioni pratiche".
+Art. 190. - La frequenza e' obbligatoria nell'istituto sede della scuola, per un periodo di almeno nove mesi per ogni anno accademico.
 
-2) L'esame di "Chimica fisica I con esercizi" deve precedere quello di "Chimica fisica II con esercizi".
+E' in facolta' del direttore della scuola di concedere una deroga a tale norma solo agli iscritti alla scuola che facciano parte di cliniche ortopediche che non abbiano la scuola di specializzazione o che siano assistenti di ruolo in divisioni di ortopedia e traumatologia di ospedali di prima categoria; per queste due categorie di iscritti il periodo di frequenza presso l'istituto sede della scuola puo' essere ridotto fino a non meno di un mese ogni anno.
 
-3) L'esame eventuale di "Analisi matematica I" deve precedere quello di "Analisi matematica II" e questo deve precedere l'esame di "Meccanica razionale".
+Per nessun motivo sono ammesse abbreviazioni della durata degli studi.
 
-4) Per sostenere l'esame di "Chimica organica industriale" occorre aver superato quello di "Chimica organica II".
+Art. 191. - Gli insegnamenti si svolgeranno con indirizzo prevalentemente pratico e dimostrativo, ma per ogni singola materia di insegnamento dovra' anche svolgersi un corso regolare di lezioni, il cui numero verra' fissato annualmente dal direttore della scuola in accordo con i docenti delle singole materie.
 
-i) Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali prescritti per il triennio di applicazione e almeno in sette da lui scelti tra i complementari del gruppo seguito.
+Art. 192. - Le materie di insegnamento sono le seguenti:
 
-l) I sette insegnamenti complementari che, per ciascuno dei due indirizzi del triennio di applicazione, sono segnati con asterisco si intendono consigliati in via preferenziale. Tuttavia, ove lo studente intenda scegliere per l'indirizzo prescelto uno o piu' insegnamenti complementari diversi dai predetti, deve, all'atto dell'iscrizione al 1° anno degli studi di applicazione, chiederne convalida alla Facolta'. La scelta fatta in tal modo e' impegnativa e non puo' subire comunque variazioni durante il corso degli studi.
+1) Clinica ortopedica e traumatologica (triennale);
 
-Art. 51. - Agli insegnamenti complementari del corso di laurea in Chimica industriale sono aggiunta i seguenti:
+2) Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale);
 
-23) Chimica degli idrocarburi naturali e derivati;
+3) Tecnica operatoria ortopedica e traumatologica cruenta ed incruenta (triennale);
 
-24) Spettroscopia molecolare;
+4) Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale);
 
-25) Biopolimeri (Biochimica macromolecolare);
+5) Anatomia ed istologia dell'apparato locomotore;
 
-26) Chimica delle radiazioni;
+6) Fisiologia dell'apparato locomotore;
 
-27) Petrolchimica;
+7) Anatomia ed istologia patologica dell'apparato locomotore;
 
-28) Chimica analitica strumentale con esercitazioni;
+8) Nozioni di chirurgia generale;
 
-29) Cinetica chimica.
+9) Neuropatologia dell'apparato locomotore ed elettrodiagnostica;
 
-Nello stesso articolo le norme riguardanti le propedeuticita' di iscrizioni e di esami sono abrogate e sostituite dalle seguenti:
+10) Nozioni di pediatria;
 
-Le norme di cui alle lettere a), b), e), d), g), h), per la laurea in chimica valgono anche per la laurea in Chimica industriale.
+11) Apparato terapia ortopedica;
 
-a) Per l'iscrizione al corso di "Esercitazioni di Chimica industriale (I parte)" occorre aver superato l'esame di "Chimica organica I" ed aver ottenuto la attestazione di frequenza relativa al corso di "Esercitazioni di analisi chimica quantitativa".
+12) Fisiochinesiterapia;
 
-b) Per l'iscrizione al corso di "Esercitazioni di Chimica industriale (II parte)" occorre aver ottenuto l'attestazione di frequenza relativa al corso di "Esercitazioni di Chimica industriale (I parte)".
+13) Infortunistica;
 
-c) Per gli esami dovranno osservarsi le seguenti propedeuticita':
+14) Anestesia e rianimazione.
 
-1) Gli esami di "Chimica organica (I e II parte)" devono precedere quello di "Chimica industriale (parte organica)".
+Art. 193. - Le materie di insegnamento sono cosi' suddivise nei vari anni di corso:
 
-2) L'esame di "Esercitazioni di Analisi chimica quantitativa" deve precedere quello di "Esercitazioni di Chimica industriale (I e II parte)".
+1° Anno:
 
-3) L'esame di "Chimica fisica I con esercizi" deve precedere quelli di "Chimica industriale I e II".
+1) Clinica ortopedica e traumatologica (triennale);
 
-4) L'esame di e Fisica tecnica" deve precedere quelli di "Impianti industriali chimici I e II".
+2) Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale);
 
-d) Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali del triennio di applicazione e almeno in quattro da lui scelti tra i complementari.
+3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale);
 
-e) I laureati in Chimica potranno essere ammessi al quarto anno di corso della laurea in Chimica industriale, e dovranno seguire i corsi e sostenere gli esami delle seguenti materie fondamentali:
+4) Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale);
 
-1) Chimica industriale (biennale);
+5) Anatomia ed istologia dell'apparato locomotore;
 
-2) Impianti industriali chimici con elementi di disegno (biennale);
+6) Fisiologia dell'apparato locomotore;
 
-3) Elementi di diritto, di economia e di legislazione sociale;
+7) Nozioni di chirurgia generale;
 
-4) Fisica tecnica;
+8) Nozioni di pediatria.
 
-5) Esercitazioni di Chimica industriale (biennale).
+2° Anno:
 
-L'esame di Fisica tecnica, eventualmente gia' sostenuto per la laurea in Chimica, potra' essere convalidato agli effetti dell'iscrizione al quarto anno di corso per la laurea in Chimica industriale.
+1) Clinica ortopedica e traumatologica (triennale):
 
-Art. 56. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche sono aggiunti i seguenti:
+2) Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale);
 
-21) Geidrologia;
+3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale);
 
-22) Sedimentologia;
+4) Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale);
 
-23) Oceanografia fisica;
+5) Neuropatologia dell'apparato locomotore ed elettrodiagnostica;
 
-24) Mineralogia applicata.
+6) Anatomia ed istologia patologica dell'apparato locomotore;
 
-Art. 58. - E' modificato nel senso che anche l'insegnamento biennale di Fisiologia generale e' aggiunto all'elenco degli insegnamenti biennali, che importano un esame alla fine di ciascun anno di corso.
+7) Anestesia e rianimazione.
 
-Art. 80, relativo agli insegnamenti della Scuola di perfezionamento in Filosofia e' abrogato e sostituito dal seguente:
+3° Anno:
 
-"Le materie costitutive per conseguire il diploma di perfezionamento in Filosofia sono cinque, tre biennali e due annuali.
+1) Clinica ortopedica e traumatologica (triennale);
 
-Sono obbligatori come biennali gli esami di:
+2) Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale);
 
-Filosofia teoretica;
+3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale);
 
-Storia della filosofia;
+4) Apparato terapia ortopedica;
 
-Filosofia morale.
+5) Fisiochinesiterapia;
 
-Gli altri due esami possono essere scelta tra le seguenti discipline:
+6) Infortunistica.
 
-Estetica;
+Art. 194. - Gli esami si svolgeranno per singole materie. Gli esami di clinica ortopedica e traumatologica, di tecnica operatoria cruenta ed incruenta ortopedica e traumatologica, di radiodiagnostica, saranno teorici e pratici.
 
-Pedagogia Storia della filosofia antica;
+Per l'ammissione al corso successivo e' obbligatorio il superamento degli esami delle materie di ciascun corso.
 
-Storia della filosofia medioevale;
+Per l'ammissione all'esame di diploma il candidato dovra' presentare una tesi a stampa o dattiloscritta su un argomento della specialita'.
 
-Filosofia della religione;
+Art. 195. - Le norme per l'iscrizione, per le tasse ecc. sono quelle generali per le scuole di specializzazione e di perfezionamento riferite negli articoli da 122 a 137 dello statuto dell'universita'.
 
-Filosofia della scienza;
+Gli articoli da 198 a 203, relativi alla "Scuola di specializzazione in medicina generale" che muta la denominazione in quella di "Scuola di specializzazione in medicina interna", sono abrogati e sostituiti dai seguenti:
 
-Storia della letteratura latina medioevale;
+Scuola di specializzazione in medicina interna
 
-Letteratura greca;
+Art. 198. - Presso l'istituto scientifico di medicina, interna e con la direzione di un professore di ruolo dell'istituto, e' istituita la scuola di specializzazione in medicina interna, che ha lo scopo di conferire la necessaria competenza a coloro che vogliano particolarmente dedicarsi all'esercizio della medicina interna.
 
-Paleografia e diplomatica;
+Art. 199. - Alla scuola possono essere iscritti solo i laureati in medicina e chirurgia.
 
-Psicologia;
+Il corso ha la durata di cinque anni.
 
-Biologia (delle razze umane);
+Il numero massimo dei posti per detta scuola e' fissato per venticinque per l'intero corso degli studi.
 
-Economia politica;
+Art. 200. - Gli insegnamenti della scuola sono i seguenti:
 
-Storia delle dottrine politiche;
+1° Anno:
 
-Filosofia del diritto;
+1) Malattie infettive disreattive e del sangue;
 
-Storia della filosofia moderna e contemporanea;
+2) Istituzioni di terapia;
 
-Sociologia.
+3) Anatomia ed istologia patologica (biennale);
 
-Gli articoli 137 e 138 della Scuola di specializzazione in Radiologia medica sono abrogati e sostituiti dai seguenti:
+4) Clinica medica generale e terapia medica (quinquennale).
 
-Art. 137. - Gli insegnamenti impartiti dalla Scuola sono:
+2° Anno:
 
-a) Elettrologia e fisica delle radiazioni;
+1) Malattie dell'apparato cardiovascolare;
 
-b) Diagnostica radiologica (tecnica, anatomia e fisiologia semeiotica, diagnostica);
+2) Microbiologia e sierologia;
 
-c) Radiobiologia;
+3) Chimica clinica;
 
-d) Radioterapia (raggi X, sostanze radioattive naturali ed artificiali);
+4) Anatomia ed istologia patologica (biennale);
 
-e) Patologia da radiazioni e protezione.
+5) Clinica medica generale e terapia medica (quinquennale).
 
-L'insegnamento sara' teorico e pratico; verranno illustrati casi scelti fra gli ammalati degenti nelle Cliniche e nell'Ospedale di San Martino o frequentanti l'ambulatorio dell'Istituto di radiologia, il corso sara' completato da lezioni tenute da professori titolari della Facolta' di Medicina e chirurgia di Genova su argomenti attinenti alla Radiologia.
+3° Anno:
 
-Art. 138. - Il corso ha la durata di tre anni; verranno accettati 20 allievi ogni anno di corso.
+1) Malattie dell'apparato digerente;
 
-Dopo l'art. 235 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in Igiene e medicina scolastica.
+2) Malattie renali;
 
-Scuola di specializzazione in Igiene e medicina scolastica.
+3) Clinica medica generale e terapia medica (quinquennale).
 
-Art. 236. - Presso l'Istituto di igiene e' istituita la Scuola di specializzazione in Igiene e medicina scolastica che ha lo scopo di conferire la necessaria competenza teorica e pratica ai laureati in Medicina e chirurgia i quali intendono conseguire il diploma di specializzazione in Igiene e medicina scolastica.
+4° Anno:
 
-La Scuola ha la durata di due anni. Ad essa possono iscriversi i laureati in Medicina e chirurgia.
+1) Malattie dell'apparato respiratorio;
 
-Le norme per le iscrizioni, per gli esami, le tasse, ecc. sono quelle generali per le scuole di specializzazione e di perfezionamento riferite negli articoli da 91 a 107 dello statuto di questa Universita'.
+2) Malattie del sistema nervoso;
 
-Art. 237. - Gli insegnamenti impartiti nella suddetta Scuola sono i seguenti:
+3) Clinica medica generale e terapia medica (quinquennale).
 
-1° anno:
+5° Anno:
 
-Demografia e statistica sanitaria;
+1) Malattie del ricambio;
 
-Igiene dell'alimentazione;
+2) Malattie delle ghiandole endocrine;
 
-Igiene scolastica;
+3) Clinica medica generale e terapia medica (quinquennale).
 
-Legislazione scolastica Fisiopatologia della crescenza;
+Il direttore della scuola ha la facolta' di inserire uno o piu' insegnamenti complementari nei vari anni del corso di specializzazione, scelti fra i seguenti:
 
-Patologia e clinica delle malattie dell'eta' scolare (biennale) Epidemiologia e profilassi delle malattie dell'eta' scolare (biennale).
+1) Parassitologia medica;
 
-2° anno:
+2) Genetica medica;
 
-Pedagogia ed ortofrenia;
+3) Semeiotica dermatologica;
 
-Psicologia;
+4) Radiologia;
 
-Auxologia ed educazione fisica;
+5) Semeiotica oculistica;
 
-Educazione sanitaria e propaganda igienica;
+6) Semeiotica ginecologica.
 
-Patologia e clinica delle malattie dell'eta', scolare;
+Art. 201. - Il numero e la distribuzione delle ore di lezione saranno fissati dal direttore della scuola al principio di ogni anno accademico.
 
-Epidemiologia e profilassi delle malattie dell'eta' scolare.
+Oltre alle materie suddette, oggetto di lezioni, gli iscritti avranno esercitazioni pratiche nelle materie di insegnamento.
 
-Il numero e la distribuzione delle ore di lezione sono fissati dal direttore della Scuola al principio di ogni anno accademico.
+Ogni anno sara', inoltre, tenuto un ciclo di conferenze di cultura generale e collaterale soprattutto riguardante l'apporto alla clinica medica da parte delle branche specialistiche.
 
-Avranno inoltre luogo esercitazioni pratiche delle materie oggetto di insegnamento.
+Art. 202. - Gli iscritti hanno l'obbligo di frequentare i corsi ufficiali di lezioni e le esercitazioni.
 
-Il numero massimo dei posti per detta Scuola e' fissato in n. 20 per ogni anno.
+Essi dovranno, inoltre, prestare servizio nell'istituto scientifico di medicina interna come medici interni per i periodi prestabiliti.
 
-Art. 238. - Al termine del secondo anno gli allievi che hanno frequentato il corso saranno ammessi all'esame di diploma consistente nella presentazione e discussione di una tesi scritta di argomento pertinente all'igiene e medicina scolastica, in una prova orale teorica ed in una prova pratica.
+Art. 203. - Le norme per l'iscrizione, per gli esami, per le tasse ecc. sono quelle generali per le scuole di specializzazione e di perfezionamento, riferite negli articoli da 122 a 137 dello statuto dell'universita'.
 
-Agli allievi che hanno ottenuto l'approvazione nello esame di diploma sara' rilasciato il diploma di specializzazione in Igiene e medicina scolastica, valido a tutti gli effetti di legge.
+Alla fine del quinto anno, sempre subordinatamente all'ottenuta frequenza al corso, gli allievi saranno ammessi all'esame finale consistente in un esame orale - od eventualmente scritto - con discussione sulla diagnosi, prognosi, terapia di un caso clinico.
 
-Gli articoli da 239 a 250, relativi alla Scuola di perfezionamento in Fisica, sono abrogati e sostituiti dai seguenti:
+Una volta superato tale esame, i candidati dovranno presentare e discutere una tesi scritta su un argomento di ordine medico.
 
-Scuola di perfezionamento in fisica
+Agli allievi che abbiano ottenuto l'approvazione nell'esame finale viene rilasciato il diploma di specializzazione in medicina interna, valido a tutti gli effetti di legge.
 
-Art. 239. - La Scuola di perfezionamento in Fisica, istituita presso la Facolta' di Scienze matematiche, fisiche e naturali, ha fine scientifico e rilascia un diploma di perfezionamento in Fisica.
+Gli articoli da 204 a 212, relativi alla "Scuola di specializzazione in odontoiatria e protesi dentaria", sono abrogati e sostituiti dai seguenti, con il relativo spostamento della numerazione degli articoli successivi.
 
-Il corso degli studi ha, la, durata di due anni.
+Scuola di specializzazione in odontoiatria e protesi dentaria
 
-Non sono consentite abbreviazioni di corso.
+Art. 204. - Presso l'istituto di clinica odontoiatrica e' istituita la scuola di specializzazione in odontoiatria e protesi dentaria, che ha lo scopo di conferire la necessaria competenza a coloro che vogliano particolarmente dedicarsi all'esercizio dell'odontoiatria e della protesi dentaria.
 
-Art. 240. - La Scuola e' retta da un direttore assistito da un Consiglio; il direttore della Scuola e' nominato dal rettore su designazione del Consiglio di Facolta' di Scienze matematiche, fisiche e naturali. Il Consiglio della scuola e' costituito da tutti gli insegnanti i cui insegnamenti fanno parte della medesima, ed e' presieduto dal direttore. Gli insegnanti della scuola sono proposti dal direttore, che puo' sceglierli tra i professori di ruolo, tra i liberi docenti, tra gli assistenti o anche tra persone di riconosciuta competenza in uno degli indirizzi trattati nella Scuola; tali proposte sono approvate dal Consiglio della Facolta'.
+Direttore della scuola e' il titolare della cattedra di clinica odontoiatrica.
 
-Art. 241. - Alla Scuola di perfezionamento in Fisica vengono ammessi i laureati in Fisica; a giudizio del Consiglio della scuola potranno essere ammessi candidati in possesso di laurea in altra materia, o titolo giudicato equivalente. E' data, facolta' al direttore di stabilire, prima dell'inizio di ogni anno accademico, un numero massimo di iscrizioni oltre al quale potranno non essere accolte le domande eccedenti.
+Art. 205. - Alla scuola possono iscriversi solo i laureati in medicina e chirurgia in numero di sessanta per l'intero corso degli studi.
 
-Art. 242. - La sorveglianza degli iscritti per tutto quanto riguarda la loro attivita' spetta al direttore della Scuola. La frequenza ai singoli insegnamenti deve essere attestata dai rispettivi insegnanti.
+La durata del corso di studi e' di tre anni.
 
-Art. 243. - La Commissione per gli esami di profitto sono formate dal professore della materia, e da altri due insegnanti della Scuola.
+La frequenza e' obbligatoria per l'intero anno scolastico.
 
-Art. 244. - La Commissione per gli esami di diploma e' formata da quattro membri (tra i quali il relatore) scelti dal direttore tra gli insegnanti della Scuola stessa e da un correlatore, nominato dal Consiglio dei professori nella persona di un competente nel soggetto particolare della dissertazione, il quale non faccia parte dell'Universita' di Genova. L'esame di diploma, il quale potra' essere sostenuto solo dopo che l'allievo abbia superato gli esami di profitto previsti dall'art. 245, consistera' nella discussione sopra una dissertazione originale scritta.
+Le vacanze sono conformi al calendario universitario con un solo mese completo estivo (agosto).
 
-Art. 245. - Per poter adire all'esame di diploma, gli iscritti alla Scuola dovranno, durante la loro permanenza nella Scuola stessa, superare almeno cinque esami scelti tra gli insegnamenti sotto specificati o un numero corrispondente se si tratta di insegnamenti semestrali (vedi articolo 246).
+Ogni iscritto deve provvedere al proprio corredo di strumenti.
 
-Art. 246. - Il direttore proporra' all'inizio di ciascun anno al Consiglio di Facolta' di Scienze l'elenco dei professori incaricati dei corsi; questi verranno nominati dal Consiglio di Facolta'. Gli insegnamenti saranno scelti secondo il seguente piano dal Consiglio dei professori della Scuola:
+Art. 206. - Le norme di iscrizione, pagamento tasse, ecc. sono quelle generali riferite negli articoli da 122 a 137 dello statuto dell'universita'.
 
-1) Fisica delle particelle elementari;
+Art. 207. - Le materie di insegnamento della scuola sono:
 
-2) Fisica nucleare teorica;
+1) Embriologia e anatomia dentaria e maxillo-facciale;
 
-3) Teoria dei campi;
+2) Anatomia e istologia odontostomatologica;
 
-4) Metodi matematici della fisica;
+3) Microbiologia e igiene orale;
 
-5) Elettronica;
+4) Farmacologia odontostomatologica;
 
-6) Tecniche sperimentali di fisica nucleare;
+5) Patologia odontostomatologica;
 
-7) Macchine acceleratrici;
+6) Clinica odontostomatologica;
 
-8) Fisica del plasma,;
+7) Chirurgia maxillo-facciale;
 
-9) Magneto idrodinamica o elettrodinamica coemica;
+8) Anestesia e chirurgia stomatologica;
 
-10) Fisica, degli stati condensati;
+9) Odontoiatria conservativa;
 
-11) Corsi monografici.
+10) Parodontologia;
 
-I corsi monografici in numero non superiore a due saranno stabiliti all'inizio di ciascun anno dal Consiglio dei professori della Scuola nell'indirizzo della Scuola e affidati ad esperti italiani e stranieri.
+11) Clinica protesica dentaria e maxillo-facciale;
 
-Gli insegnamenti potranno essere annuali o semestrali. A tutti gli effetti due corsi semestrali sono equivalenti a un corso annuale.
+12) Ortopedia dento-maxillo-facciale;
 
-Un corso annuale consistera' di non meno di 40 lezioni.
+13) Radiologia odontostomatologica;
 
-Il programma della Scuola potra' altresi' essere integrato da Seminari.
+14) Odontotecnica;
 
-Art. 247. - Ciascun allievo dovra' comunicare al direttore della Scuola, entro il 15 novembre di ciascun anno, il piano degli studi che egli intende seguire in relazione alle materie che sono oggetto d'insegnamento durante l'anno in corso.
+15) Odontoiatria infantile;
 
-Tale piano dovra' essere approvato dal direttore della Scuola.
+16) Medicina legale odontostomatologica e delle assicurazioni.
 
-Art. 248. - Per gli iscritti al primo anno, il piano di cui all'art. 247 dovra' contemplare la frequenza di almeno tre corsi: per gli iscritti al secondo anno almeno due. Non potranno essere iscritti al secondo anno gli allievi che durante il primo anno non abbiano superato almeno due esami.
+Esercitazioni pratiche affiancheranno gli insegnamenti.
 
-Il direttore della Scuola potra' riconoscere la validita' dei corsi frequentati o di esami sostenuti presso altre Scuole di perfezionamento.
+Art. 208. - Le materie di insegnamento sono cosi' ripartite nei tre anni di corso:
 
-Art. 249. - In quanto precede, il Consiglio dei professori e' costituito dal direttore e dai professori che sono incaricati nell'anno in corso o precedente di un insegnamento presso la Scuola.
+1° Anno:
 
-Il direttore e' nominato dal Consiglio di facolta' di Scienze tra i titolari di cattedre di discipline fisiche; dura in carica quattro anni ed e' rieleggibile.
+1) Embriologia e anatomia dentaria e maxillo-facciale;
 
-Art. 250. - Gli iscritti alla Scuola di perfezionamento sono tenuti a pagare le medesime tasse, soprattasse e contributi generali stabiliti dalle vigenti disposizioni di legge per gli studenti della Facolta'.
+2) Microbiologia e igiene orale;
 
-Dopo l'art. 250 vengono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di perfezionamento in Matematica.
+3) Farmacologia;
 
-Scuola di perfezionamento in matematica.
+4) Patologia odontostomatologica;
 
-Art. 251. - E' istituita presso la Facolta' di Scienze matematiche, fisiche e naturali la "Scuola di perfezionamento in matematica" che rilascia un diploma di perfezionamento.
+5) Odontotecnica;
 
-Art. 252. - La Scuola e' diretta da un direttore, nominato ogni due anni dal rettore su proposta del Consiglio della Facolta' di Scienze matematiche, fisiche e naturali, udito il Consiglio direttivo dell'Istituto di matematica.
+6) Anestesia e chirurgia stomatologica;
 
-Il direttore e' assistito da un Consiglio composto da tutti i professori titolari di insegnamento nella Scuola.
+7) Odontoiatria conservativa (I anno) (biennale).
 
-Art. 253. - Gli incarichi di insegnamento nella Scuola di perfezionamento in matematica sono annuali, e vengono conferiti dal Consiglio della Facolta' di Scienze matematiche, fisiche e naturali su proposta del direttore della Scuola.
+Esercitazioni pratiche.
 
-Art. 254. - All'inizio di ogni anno accademico il Consiglio della Scuola scegliera' gli indirizzi dell'insegnamento e stabilira' e rendera' noti, con apposito bando, i programmi dei relativi corsi.
+2° Anno:
 
-Art. 255. - Il corso degli studi ha la durata di due anni: non sono consentite abbreviazioni di corso.
+1) Odontoiatria conservativa (II anno);
 
-Sono previsti per ciascun anno due insegnamenti fondamentali ed un insegnamento complementare.
+2) Clinica protesica dentaria e maxillo-facciale (I anno) (biennale);
 
-Questi ultimi possono essere scelti, previo il parere favorevole del Consiglio direttivo della scuola, tra gli insegnamenti impartiti nel secondo biennio della laurea in Matematica.
+3) Parodontologia (I anno) (biennale);
 
-Art. 256. - Per essere iscritto al primo anno occorre il diploma di laurea in Matematica od altra laurea giudicata sufficiente dal Consiglio direttivo della scuola.
+4) Anatomia e istopatologia odontostomatologica;
 
-Per essere inseriti al secondo anno occorre aver frequentato i corsi e superato tutti gli esami previsti per il primo anno.
+5) Odontoiatria infantile;
 
-All'esame di diploma si accede dopo aver superato tutti gli esami speciali del biennio; le modalita' di esso saranno fissate dal Consiglio direttivo della scuola in relazione all'indirizzo prescelto.
+6) Radiologia odontostomatologica;
 
-Art. 257. - Le Commissioni per gli esami speciali sono costituite dal titolare del corso e da due professori della scuola.
+7) Ortopedia dento-maxillo-facciale (I anno) (biennale);
 
-Per l'esame di diploma il direttore nominera' una Commissione di cinque membri scelti tra i professori della Scuola o dell'Istituto di matematica della Facolta' di Scienze matematiche, fisiche e naturali.
+8) Chirurgia maxillo-facciale (I anno) (biennale).
 
-Art. 258. - Gli studenti inseriti alla Scuola di perfezionamento in matematica sono tenuti a pagare le medesime tasse, sopratasse e contributi stabiliti dalle vigenti disposizioni di legge per gli studenti del secondo biennio della laurea in Matematica.
+Esercitazioni pratiche.
 
-Art. 259. - Gli indirizzi d'insegnamento di cui all'art. 251 sono i seguenti: indirizzo applicativo, indirizzo didattico, indirizzo generale.
+3° Anno:
 
-Gli insegnamenti impartiti dalla Scuola sono:
+1) Clinica odontostomatologica;
 
-Insegnamenti fondamentali.
+2) Chirurgia maxillo-facciale (II anno);
 
-Per l'indirizzo applicativo:
+3) Medicina legale odontostomatologica e delle assicurazioni;
 
-1) Complementi di analisi numerica;
+4) Ortopedia dento-maxillo-facciale (II anno);
 
-2) Automazione del calcolo;
+5) Clinica protesica dentaria e maxillo-facciale (Il anno);
 
-3) Probabilita' e statistica;
+6) Parodontologia (II anno).
 
-4) Complementi di analisi matematica.
+Esercitazioni pratiche.
 
-Per l'indirizzo didattico:
+Art. 209. - Gli esami di profitto teorici e pratici saranno sostenuti alla fine di ogni anno in una unica sessione (ottobre).
 
-1) Matematiche elementari da un punto di vista superiore;
+Alla fine del terzo anno, dopo aver superato gli esami di profitto, gli allievi saranno ammessi a sostenere l'esame di diploma che consiste nella discussione scritta, su un tema proposto in precedenza dall'insegnante della materia sulla quale verte l'argomento e approvata dal direttore della scuola.
 
-2) Logica e metodologia matematica;
+Art. 210. - Agli allievi che abbiano ottenuto l'approvazione nell'esame di diploma, verra' rilasciato il diploma di specializzazione in odontoiatria e protesi dentaria valido a tutti gli effetti di legge.
 
-3) Storia della matematica;
+Gli articoli da 243 a 247, relativi alla "Scuola di specializzazione in tisiologia" che muta la denominazione in quella di "Tisiologia e malattie dell'apparato respiratorio", sono abrogati e sostituiti dai seguenti.
 
-4) Complementi di algebra.
+Scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio
 
-Per l'indirizzo generale:
+Art. 243. - Presso l'istituto di clinica tisiologica dell'Universita' di Genova e' istituita la scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio che ha lo scopo di formare una adeguata competenza scientifica e di completare la preparazione clinica e tecnica dei laureati in medicina e chirurgia che vogliono dedicarsi allo studio ed alla pratica clinica della malattia tubercolare e delle pneumopatie acute e croniche nei loro aspetti generali e speciali anche in rapporto alla diagnostica differenziale.
 
-1) Complementi di algebra e topologia;
+La direzione della scuola e' affidata al direttore dell'istituto di clinica tisiologica; i corsi si svolgeranno presso l'istituto di clinica tisiologica dell'Universita' di Genova secondo il programma e gli orari stabiliti all'inizio di ogni anno accademico.
 
-2) Complementi di analisi matematica;
+Art. 244. - Il programma del corso comprende le materie inerenti alla patologia, alla clinica, alla terapia ed alla diagnostica generale, differenziale e speciale delle pneumopatie acute e croniche, tubercolarie non tubercolari.
 
-3) Complementi di geometria;
+Le materie di insegnamento sono:
 
-4) Complementi di fisica matematica.
+1° Anno:
 
-Insegnamenti complementari:
+1) Anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio;
 
-1) Ricerca operativa;
+2) Patologia della tubercolosi polmonare ed extrapolmonare;
 
-2) Teoria dell'informazione;
+3) Patologia delle malattie dell'apparato respiratorio;
 
-3) Teoria ed applicazioni delle macchine calcolatrici;
+4) Fisiologia e fisiopatologia generale dell'apparato respiratorio;
 
-4) Economia matematica;
+5) Semeiotica fisica e funzionale dell'apparato respiratorio;
 
-5) Elementi di matematica finanziaria ed attuariale;
+6) Microbiologia;
 
-6) Osservazioni scientifiche;
+7) Epidemiologia e statistica sanitaria della tubercolosi e delle malattie dell'apparato respiratorio.
 
-7) Didattica matematica con esercitazioni;
+2° Anno:
 
-8) Analisi funzionale;
+1) Anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio;
 
-9) Equazioni differenziali;
+2) Clinica della tubercolosi;
 
-10) Teoria della misura e delle probabilita';
+3) Clinica delle malattie dell'apparato respiratorio;
 
-11) Calcolo delle variazioni;
+4) Fisiopatologia speciale della tubercolosi e delle malattie dell'apparato respiratorio;
 
-12) Teoria dei numeri;
+5) Broncologia;
 
-13) Geometria differenziale.
+6) Radiologia dell'apparato respiratorio;
 
-Potra' essere scelto inoltre come complementare ogni insegnamento fondamentale in ciascuno degli indirizzi diversi da quello scelto dall'iscritto.
+7) Profilassi della tubercolosi;
+
+8) Igiene e legislazione sociale.
+
+3° Anno:
+
+1) Clinica della tubercolosi;
+
+2) Clinica delle malattie dell'apparato respiratorio;
+
+3) Chemioterapia della tubercolosi e delle malattie dell'apparato respiratorio;
+
+4) Terapia fisiomeccanica nella tubercolosi e nelle malattie dell'apparato respiratorio;
+
+5) Terapia chirurgica nella tubercolosi e nelle malattie dell'apparato respiratorio.
+
+Art. 245. - Il corso ha la durata di tre anni e l'insegnamento ha carattere dottrinale, dimostrativo e pratico. Gli iscritti hanno l'obbligo di frequentare tutti gli insegnamenti, le esercitazioni ed eventuali lezioni e conferenze varie; sono altresi' obbligati a svolgere continuativa attivita' di medico interno per almeno sei mesi all'anno.
+
+Art. 246. - Alla scuola potranno essere ammessi soltanto i laureati in medicina e chirurgia. L'ammissione e' stabilita attraverso un colloquio orale.
+
+Il numero massimo dei posti per ciascun anno e' di quindici. Le norme di iscrizione, esami, pagamento tasse e tutte le altre norme generali sono tutte quelle comprese negli articoli da 122 a 137 dello statuto dell'universita'.
+
+Art. 247. - Gli esami di profitto hanno luogo al termine di ogni anno di corso.
+
+Alla fine del corso gli allievi che lo hanno frequentato regolarmente sono ammessi agli esami finali ed alla presentazione e discussione di una tesi scritta da loro preparata su un argomento attinente alla specialita'. A coloro che hanno ottenuto l'approvazione verra' rilasciato il diploma di specialista in tisiologia e malattie dell'apparato respiratorio valido a tutti gli effetti di legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 12 luglio 1964
+Dato a Roma, addi' 16 maggio 1972
 
-SEGNI
+LEONE
 
-GUI
+MISASI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 16 settembre 1964 Atti del Governo, registro n. 186, foglio n. 60. - DI PRETORO
+alla Corte dei conti, addi' 5 agosto 1972 Atti del Governo, registro n. 250, foglio n. 116. - VALENTINI
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846) e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per da pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 29. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti i seguenti:  
-Storia della Chiesa;  
-Storia delle dottrine politiche;  
-Storia delle esplorazioni geografiche;  
-Storia americana;  
-Storia dell'Europa orientale;  
-Storia dei Paesi afro-asiatici;  
-Storia e geografia, dell'Asia orientale;  
-Teoria e storia della storiografia;  
-Storia religiosa dell'Oriente cristiano.  
-Art. 45. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' aggiunto quello di "Ematologia".  
-Art. 50. - Agli insegnamenti complementari del orso di laurea in Chimica sono aggiunti i seguenti:  
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Per l'indirizzo organico-biologico:  
-24) Chimica degli idrocarburi naturali e derivati;  
-26) Spettroscopia molecolare;  
-26) Biopolimeri (Biochimica macroniolecolare);  
-27) Chimica delle radiazioni;  
-28) Pietrolchimica;  
-29) Chimica organica, superiore;  
-30) Chimica delle sostanze organiche naturali;  
-31) Chimica analitica strumentale con esercitazioni;  
-32) Cinetica chimica;  
-33) Chimica dei composti di coordinazione.  
+L'art. 122, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che le scuole di "Dermatologia", di "Medicina generale", e di "Tisiologia" mutano rispettivamente la denominazione in quella di scuola di "Clinica dermosifilopatica", di "Medicina interna" e di "Tisiologia e malattie dell'apparato respiratorio".   
+Gli articoli da 154 a 160, relativi alla "Scuola di specializzazione in dermatologia" che assume la denominazione di "Scuola di specializzazione in clinica dermosifilopatica", sono abrogati e sostituiti dai seguenti:   
   
-Per l'indirizzo inorganico-chimico-fisico:  
-21) Spettroscopia molecolare;  
-22) Chimica delle radiazioni;  
-23) Chimica fisica dello stato solido;  
-24) Cristallochimica-inorganica;  
-25) Chimica analitica strumentale con esercitazioni;  
-26) Cinetica chimica;  
-27) Chimica inorganica, applicata;  
-28) Chimica inorganica superiore;  
-29) Chimica dei composti di coordinazione.  
-Nello stesso articolo le norme riguardanti le propedeuticita' di iscrizioni e di esami sono abrogate e sostituite dalle seguenti:  
-a) I tre insegnamenti complementari di analisi matematica, di geometria analitica con elementi di proiettiva e di meccanica razionale con elementi di statica grafica possono sostituire l'unico insegnamento fondamentale di istituzioni di matematiche (biennale).  
-b) Per l'insegnamento di analisi matematica, vale la norma stabilita per il corso di laurea in Matematica;  
-c) Per ottenere, l'iscrizione al triennio di applicazione lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali prescritti per il triennio di applicazione e almeno in sette da lui scelti fra i complementari del gruppo seguito;  
-d) Per l'iscrizione al corso di "Esercitazioni di analisi chimica qualitativa" occorre aver superato l'esame di "Esercitazioni di preparazioni chimiche".  
-e) Per l'iscrizione ai corsi di "Esercitazioni di preparazioni chimiche IV" ed "Esercitazioni di analisi chimica applicata" e' necessario aver ottenuto l'attestazione di frequenza relativa al corso di "Esercitazioni di analisi chimica quantitativa".  
-f) Per l'iscrizione ai corsi di "Esercitazioni di chimica organica ed Analisi organica" e (Chimica biologica" occorre aver superato gli esami di "Chimica organica I e II".  
-g) Per l'iscrizione al corso di "Chimica organica industriale" occorre aver superato l'esame di "Chimica organica I" ed aver ottenuto l'attestazione di frequenza del corso di "Chimica organica II".  
-h) Per gli esami dovranno osservarsi le seguenti propedeuticita':  
-1) Gli esami di "Istituzioni di matematiche I", "Chimica generale ed inorganica I" e "Fisica sperimentale I" devono precedere l'esame di "Mineralogia con esercitazioni pratiche".  
-2) L'esame di "Chimica fisica I con esercizi" deve precedere quello di "Chimica fisica II con esercizi".  
-3) L'esame eventuale di "Analisi matematica I" deve precedere quello di "Analisi matematica II" e questo deve precedere l'esame di "Meccanica razionale".  
-4) Per sostenere l'esame di "Chimica organica industriale" occorre aver superato quello di "Chimica organica II".  
-i) Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali prescritti per il triennio di applicazione e almeno in sette da lui scelti tra i complementari del gruppo seguito.  
-l) I sette insegnamenti complementari che, per ciascuno dei due indirizzi del triennio di applicazione, sono segnati con asterisco si intendono consigliati in via preferenziale. Tuttavia, ove lo studente intenda scegliere per l'indirizzo prescelto uno o piu' insegnamenti complementari diversi dai predetti, deve, all'atto dell'iscrizione al 1° anno degli studi di applicazione, chiederne convalida alla Facolta'. La scelta fatta in tal modo e' impegnativa e non puo' subire comunque variazioni durante il corso degli studi.  
-Art. 51. - Agli insegnamenti complementari del corso di laurea in Chimica industriale sono aggiunta i seguenti:  
-23) Chimica degli idrocarburi naturali e derivati;  
-24) Spettroscopia molecolare;  
-25) Biopolimeri (Biochimica macromolecolare);  
-26) Chimica delle radiazioni;  
-27) Petrolchimica;  
-28) Chimica analitica strumentale con esercitazioni;  
-29) Cinetica chimica.  
-Nello stesso articolo le norme riguardanti le propedeuticita' di iscrizioni e di esami sono abrogate e sostituite dalle seguenti:  
-Le norme di cui alle lettere a), b), e), d), g), h), per la laurea in chimica valgono anche per la laurea in Chimica industriale.  
-a) Per l'iscrizione al corso di "Esercitazioni di Chimica industriale (I parte)" occorre aver superato l'esame di "Chimica organica I" ed aver ottenuto la attestazione di frequenza relativa al corso di "Esercitazioni di analisi chimica quantitativa".  
-b) Per l'iscrizione al corso di "Esercitazioni di Chimica industriale (II parte)" occorre aver ottenuto l'attestazione di frequenza relativa al corso di "Esercitazioni di Chimica industriale (I parte)".  
-c) Per gli esami dovranno osservarsi le seguenti propedeuticita':  
-1) Gli esami di "Chimica organica (I e II parte)" devono precedere quello di "Chimica industriale (parte organica)".  
-2) L'esame di "Esercitazioni di Analisi chimica quantitativa" deve precedere quello di "Esercitazioni di Chimica industriale (I e II parte)".  
-3) L'esame di "Chimica fisica I con esercizi" deve precedere quelli di "Chimica industriale I e II".  
-4) L'esame di e Fisica tecnica" deve precedere quelli di "Impianti industriali chimici I e II".  
-d) Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali del triennio di applicazione e almeno in quattro da lui scelti tra i complementari.  
-e) I laureati in Chimica potranno essere ammessi al quarto anno di corso della laurea in Chimica industriale, e dovranno seguire i corsi e sostenere gli esami delle seguenti materie fondamentali:  
-1) Chimica industriale (biennale);  
-2) Impianti industriali chimici con elementi di disegno (biennale);  
-3) Elementi di diritto, di economia e di legislazione sociale;  
-4) Fisica tecnica;  
-5) Esercitazioni di Chimica industriale (biennale).  
-L'esame di Fisica tecnica, eventualmente gia' sostenuto per la laurea in Chimica, potra' essere convalidato agli effetti dell'iscrizione al quarto anno di corso per la laurea in Chimica industriale.  
-Art. 56. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche sono aggiunti i seguenti:  
-21) Geidrologia;  
-22) Sedimentologia;  
-23) Oceanografia fisica;  
-24) Mineralogia applicata.  
-Art. 58. - E' modificato nel senso che anche l'insegnamento biennale di Fisiologia generale e' aggiunto all'elenco degli insegnamenti biennali, che importano un esame alla fine di ciascun anno di corso.  
-Art. 80, relativo agli insegnamenti della Scuola di perfezionamento in Filosofia e' abrogato e sostituito dal seguente:  
-"Le materie costitutive per conseguire il diploma di perfezionamento in Filosofia sono cinque, tre biennali e due annuali.  
-Sono obbligatori come biennali gli esami di:  
-Filosofia teoretica;  
-Storia della filosofia;  
-Filosofia morale.  
-Gli altri due esami possono essere scelta tra le seguenti discipline:  
-Estetica;  
-Pedagogia Storia della filosofia antica;  
-Storia della filosofia medioevale;  
-Filosofia della religione;  
-Filosofia della scienza;  
-Storia della letteratura latina medioevale;  
-Letteratura greca;  
-Paleografia e diplomatica;  
-Psicologia;  
-Biologia (delle razze umane);  
-Economia politica;  
-Storia delle dottrine politiche;  
-Filosofia del diritto;  
-Storia della filosofia moderna e contemporanea;  
-Sociologia.  
-Gli articoli 137 e 138 della Scuola di specializzazione in Radiologia medica sono abrogati e sostituiti dai seguenti:  
-Art. 137. - Gli insegnamenti impartiti dalla Scuola sono:  
-a) Elettrologia e fisica delle radiazioni;  
-b) Diagnostica radiologica (tecnica, anatomia e fisiologia semeiotica, diagnostica);  
-c) Radiobiologia;  
-d) Radioterapia (raggi X, sostanze radioattive naturali ed artificiali);  
-e) Patologia da radiazioni e protezione.  
-L'insegnamento sara' teorico e pratico; verranno illustrati casi scelti fra gli ammalati degenti nelle Cliniche e nell'Ospedale di San Martino o frequentanti l'ambulatorio dell'Istituto di radiologia, il corso sara' completato da lezioni tenute da professori titolari della Facolta' di Medicina e chirurgia di Genova su argomenti attinenti alla Radiologia.  
-Art. 138. - Il corso ha la durata di tre anni; verranno accettati 20 allievi ogni anno di corso.  
-Dopo l'art. 235 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in Igiene e medicina scolastica.  
+Scuola di specializzazione in clinica dermosifilopatica   
   
-Scuola di specializzazione in Igiene e medicina scolastica.  
+Art. 154. - Presso l'istituto di clinica dermosifilopatica e' istituita la scuola di specializzazione in clinica dermosifilopatica che ha lo scopo di conferire la necessaria competenza a coloro che vogliono dedicarsi all'esercizio della specialita' dermosifilopatica.   
+Il diploma che viene rilasciato in seguito ad esami attribuisce la qualifica di specialista in clinica dermosifilopatica. Direttore della scuola e' il titolare della cattedra di clinica dermosifilopatica.   
+Art. 155. - La durata del corso e' di anni tre a tempo pieno. La frequenza non sara' inferiore a quattro ore effettive giornaliere per tutta la durata dell'anno accademico.   
+Art. 156. - Le materie di insegnamento sono le seguenti:   
   
-Art. 236. - Presso l'Istituto di igiene e' istituita la Scuola di specializzazione in Igiene e medicina scolastica che ha lo scopo di conferire la necessaria competenza teorica e pratica ai laureati in Medicina e chirurgia i quali intendono conseguire il diploma di specializzazione in Igiene e medicina scolastica.  
-La Scuola ha la durata di due anni. Ad essa possono iscriversi i laureati in Medicina e chirurgia.  
-Le norme per le iscrizioni, per gli esami, le tasse, ecc. sono quelle generali per le scuole di specializzazione e di perfezionamento riferite negli articoli da 91 a 107 dello statuto di questa Universita'.  
-Art. 237. - Gli insegnamenti impartiti nella suddetta Scuola sono i seguenti:  
-1° anno:  
-Demografia e statistica sanitaria;  
-Igiene dell'alimentazione;  
-Igiene scolastica;  
-Legislazione scolastica Fisiopatologia della crescenza;  
-Patologia e clinica delle malattie dell'eta' scolare (biennale) Epidemiologia e profilassi delle malattie dell'eta' scolare (biennale).  
-2° anno:  
-Pedagogia ed ortofrenia;  
-Psicologia;  
-Auxologia ed educazione fisica;  
-Educazione sanitaria e propaganda igienica;  
-Patologia e clinica delle malattie dell'eta', scolare;  
-Epidemiologia e profilassi delle malattie dell'eta' scolare.  
-Il numero e la distribuzione delle ore di lezione sono fissati dal direttore della Scuola al principio di ogni anno accademico.  
-Avranno inoltre luogo esercitazioni pratiche delle materie oggetto di insegnamento.  
-Il numero massimo dei posti per detta Scuola e' fissato in n. 20 per ogni anno.  
-Art. 238. - Al termine del secondo anno gli allievi che hanno frequentato il corso saranno ammessi all'esame di diploma consistente nella presentazione e discussione di una tesi scritta di argomento pertinente all'igiene e medicina scolastica, in una prova orale teorica ed in una prova pratica.  
-Agli allievi che hanno ottenuto l'approvazione nello esame di diploma sara' rilasciato il diploma di specializzazione in Igiene e medicina scolastica, valido a tutti gli effetti di legge.  
-Gli articoli da 239 a 250, relativi alla Scuola di perfezionamento in Fisica, sono abrogati e sostituiti dai seguenti:  
+1° Anno:   
+1) Anatomia e istologia normale della cute;   
+2) Fisiologia della cute e degli annessi cutanei;   
+3) Anatomia e fisiologia dell'apparato genitale;   
+4) Microbiologia e parassitologia applicata;   
+5) Tecnica di laboratorio con particolare riferimento alla sierologia applicata;   
+6) Semeiotica dermatologica e venereologica.   
   
-Scuola di perfezionamento in fisica  
+2° Anno:   
+1) Patologia delle malattie cutanee;   
+2) Patologia delle infezioni sessuali;   
+3) Anatomia e istologia patologica della cute;   
+4) Anatomia patologica delle malattie veneree e sessuali;   
+5) Angiologia:   
+6) Sessuologia.   
   
-Art. 239. - La Scuola di perfezionamento in Fisica, istituita presso la Facolta' di Scienze matematiche, fisiche e naturali, ha fine scientifico e rilascia un diploma di perfezionamento in Fisica.  
-Il corso degli studi ha, la, durata di due anni.  
-Non sono consentite abbreviazioni di corso.  
-Art. 240. - La Scuola e' retta da un direttore assistito da un Consiglio; il direttore della Scuola e' nominato dal rettore su designazione del Consiglio di Facolta' di Scienze matematiche, fisiche e naturali. Il Consiglio della scuola e' costituito da tutti gli insegnanti i cui insegnamenti fanno parte della medesima, ed e' presieduto dal direttore. Gli insegnanti della scuola sono proposti dal direttore, che puo' sceglierli tra i professori di ruolo, tra i liberi docenti, tra gli assistenti o anche tra persone di riconosciuta competenza in uno degli indirizzi trattati nella Scuola; tali proposte sono approvate dal Consiglio della Facolta'.  
-Art. 241. - Alla Scuola di perfezionamento in Fisica vengono ammessi i laureati in Fisica; a giudizio del Consiglio della scuola potranno essere ammessi candidati in possesso di laurea in altra materia, o titolo giudicato equivalente. E' data, facolta' al direttore di stabilire, prima dell'inizio di ogni anno accademico, un numero massimo di iscrizioni oltre al quale potranno non essere accolte le domande eccedenti.  
-Art. 242. - La sorveglianza degli iscritti per tutto quanto riguarda la loro attivita' spetta al direttore della Scuola. La frequenza ai singoli insegnamenti deve essere attestata dai rispettivi insegnanti.  
-Art. 243. - La Commissione per gli esami di profitto sono formate dal professore della materia, e da altri due insegnanti della Scuola.  
-Art. 244. - La Commissione per gli esami di diploma e' formata da quattro membri (tra i quali il relatore) scelti dal direttore tra gli insegnanti della Scuola stessa e da un correlatore, nominato dal Consiglio dei professori nella persona di un competente nel soggetto particolare della dissertazione, il quale non faccia parte dell'Universita' di Genova. L'esame di diploma, il quale potra' essere sostenuto solo dopo che l'allievo abbia superato gli esami di profitto previsti dall'art. 245, consistera' nella discussione sopra una dissertazione originale scritta.  
-Art. 245. - Per poter adire all'esame di diploma, gli iscritti alla Scuola dovranno, durante la loro permanenza nella Scuola stessa, superare almeno cinque esami scelti tra gli insegnamenti sotto specificati o un numero corrispondente se si tratta di insegnamenti semestrali (vedi articolo 246).  
-Art. 246. - Il direttore proporra' all'inizio di ciascun anno al Consiglio di Facolta' di Scienze l'elenco dei professori incaricati dei corsi; questi verranno nominati dal Consiglio di Facolta'. Gli insegnamenti saranno scelti secondo il seguente piano dal Consiglio dei professori della Scuola:  
-1) Fisica delle particelle elementari;  
-2) Fisica nucleare teorica;  
-3) Teoria dei campi;  
-4) Metodi matematici della fisica;  
-5) Elettronica;  
-6) Tecniche sperimentali di fisica nucleare;  
-7) Macchine acceleratrici;  
-8) Fisica del plasma,;  
-9) Magneto idrodinamica o elettrodinamica coemica;  
-10) Fisica, degli stati condensati;  
-11) Corsi monografici.  
-I corsi monografici in numero non superiore a due saranno stabiliti all'inizio di ciascun anno dal Consiglio dei professori della Scuola nell'indirizzo della Scuola e affidati ad esperti italiani e stranieri.  
-Gli insegnamenti potranno essere annuali o semestrali. A tutti gli effetti due corsi semestrali sono equivalenti a un corso annuale.  
-Un corso annuale consistera' di non meno di 40 lezioni.  
-Il programma della Scuola potra' altresi' essere integrato da Seminari.  
-Art. 247. - Ciascun allievo dovra' comunicare al direttore della Scuola, entro il 15 novembre di ciascun anno, il piano degli studi che egli intende seguire in relazione alle materie che sono oggetto d'insegnamento durante l'anno in corso.  
-Tale piano dovra' essere approvato dal direttore della Scuola.  
-Art. 248. - Per gli iscritti al primo anno, il piano di cui all'art. 247 dovra' contemplare la frequenza di almeno tre corsi: per gli iscritti al secondo anno almeno due. Non potranno essere iscritti al secondo anno gli allievi che durante il primo anno non abbiano superato almeno due esami.  
-Il direttore della Scuola potra' riconoscere la validita' dei corsi frequentati o di esami sostenuti presso altre Scuole di perfezionamento.  
-Art. 249. - In quanto precede, il Consiglio dei professori e' costituito dal direttore e dai professori che sono incaricati nell'anno in corso o precedente di un insegnamento presso la Scuola.  
-Il direttore e' nominato dal Consiglio di facolta' di Scienze tra i titolari di cattedre di discipline fisiche; dura in carica quattro anni ed e' rieleggibile.  
-Art. 250. - Gli iscritti alla Scuola di perfezionamento sono tenuti a pagare le medesime tasse, soprattasse e contributi generali stabiliti dalle vigenti disposizioni di legge per gli studenti della Facolta'.  
-Dopo l'art. 250 vengono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di perfezionamento in Matematica.  
-Scuola di perfezionamento in matematica.  
-Art. 251. - E' istituita presso la Facolta' di Scienze matematiche, fisiche e naturali la "Scuola di perfezionamento in matematica" che rilascia un diploma di perfezionamento.  
-Art. 252. - La Scuola e' diretta da un direttore, nominato ogni due anni dal rettore su proposta del Consiglio della Facolta' di Scienze matematiche, fisiche e naturali, udito il Consiglio direttivo dell'Istituto di matematica.  
-Il direttore e' assistito da un Consiglio composto da tutti i professori titolari di insegnamento nella Scuola.  
-Art. 253. - Gli incarichi di insegnamento nella Scuola di perfezionamento in matematica sono annuali, e vengono conferiti dal Consiglio della Facolta' di Scienze matematiche, fisiche e naturali su proposta del direttore della Scuola.  
-Art. 254. - All'inizio di ogni anno accademico il Consiglio della Scuola scegliera' gli indirizzi dell'insegnamento e stabilira' e rendera' noti, con apposito bando, i programmi dei relativi corsi.  
-Art. 255. - Il corso degli studi ha la durata di due anni: non sono consentite abbreviazioni di corso.  
-Sono previsti per ciascun anno due insegnamenti fondamentali ed un insegnamento complementare.  
-Questi ultimi possono essere scelti, previo il parere favorevole del Consiglio direttivo della scuola, tra gli insegnamenti impartiti nel secondo biennio della laurea in Matematica.  
-Art. 256. - Per essere iscritto al primo anno occorre il diploma di laurea in Matematica od altra laurea giudicata sufficiente dal Consiglio direttivo della scuola.  
-Per essere inseriti al secondo anno occorre aver frequentato i corsi e superato tutti gli esami previsti per il primo anno.  
-All'esame di diploma si accede dopo aver superato tutti gli esami speciali del biennio; le modalita' di esso saranno fissate dal Consiglio direttivo della scuola in relazione all'indirizzo prescelto.  
-Art. 257. - Le Commissioni per gli esami speciali sono costituite dal titolare del corso e da due professori della scuola.  
-Per l'esame di diploma il direttore nominera' una Commissione di cinque membri scelti tra i professori della Scuola o dell'Istituto di matematica della Facolta' di Scienze matematiche, fisiche e naturali.  
-Art. 258. - Gli studenti inseriti alla Scuola di perfezionamento in matematica sono tenuti a pagare le medesime tasse, sopratasse e contributi stabiliti dalle vigenti disposizioni di legge per gli studenti del secondo biennio della laurea in Matematica.  
-Art. 259. - Gli indirizzi d'insegnamento di cui all'art. 251 sono i seguenti: indirizzo applicativo, indirizzo didattico, indirizzo generale.  
-Gli insegnamenti impartiti dalla Scuola sono:  
-Insegnamenti fondamentali.  
+3° Anno:   
+1) Clinica delle malattie cutanee;   
+2) Clinica delle infezioni sessuali;   
+3) Farmacologia e terapia medicamentosa;   
+4) Fisioterapia dermatologica;   
+5) Cosmetologia;   
+6) Chirurgia plastica riparatrice;   
+7) Igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.   
   
-Per l'indirizzo applicativo:  
-1) Complementi di analisi numerica;  
-2) Automazione del calcolo;  
-3) Probabilita' e statistica;  
-4) Complementi di analisi matematica.  
+Tali materie verranno insegnate complessivamente in oltre cinquanta lezioni annuali.   
+Art. 157. - Il numero degli iscritti non puo' superare i ventiquattro per l'intero corso degli studi.   
+Per le iscrizioni alla scuola e' richiesta la laurea in medicina e chirurgia ed il superamento di un esame di ammissione. Gli iscritti saranno obbligati ad una frequenza giornaliera delle corsie, ambulatori e laboratori della clinica dermosifilopatica per tutta la durata dell'anno accademico.   
+Art. 158. - Le norme di iscrizione, pagamento tasse, ecc. sono quelle generali delle scuole di specializzazione e di perfezionamento riferite negli articoli da 122 a 137 dello statuto dell'universita'.   
+Art. 159. - Gli esami di profitto degli specializzandi verranno dati in tre gruppi e in tre sessioni distinte, ogni gruppo comprendente le materie proprie di ciascun anno di studio.   
+Art. 160. - L'esame di diploma consistera' nella esposizione e discussione di un argomento della disciplina su un tema dato al candidato ventiquattro ore prima della prova.   
+Gli articoli da 188 a 197, relativi alla "Scuola di specializzazione in ortopedia e traumatologia", sono abrogati e sostituiti dai seguenti, con il relativo spostamento della numerazione degli articoli successivi.   
   
-Per l'indirizzo didattico:  
-1) Matematiche elementari da un punto di vista superiore;  
-2) Logica e metodologia matematica;  
-3) Storia della matematica;  
-4) Complementi di algebra.  
+Scuola di specializzazione in ortopedia e traumatologia   
   
-Per l'indirizzo generale:  
-1) Complementi di algebra e topologia;  
-2) Complementi di analisi matematica;  
-3) Complementi di geometria;  
-4) Complementi di fisica matematica.  
+Art. 188. - La scuola di specializzazione in ortopedia e traumatologia ha sede presso l'istituto di clinica ortopedica e conferisce il diploma di specializzazione in ortopedia e traumatologia.   
+Direttore della scuola e' un professore di ruolo dell'istituto di clinica ortopedica.   
+Il corso ha durata di tre anni.   
+Art. 189. - Potranno essere ammessi alla scuola i laureati in medicina e chirurgia.   
+Il numero degli iscritti non potra' superare il numero di trenta complessivamente.   
+Art. 190. - La frequenza e' obbligatoria nell'istituto sede della scuola, per un periodo di almeno nove mesi per ogni anno accademico.  
+E' in facolta' del direttore della scuola di concedere una deroga a tale norma solo agli iscritti alla scuola che facciano parte di cliniche ortopediche che non abbiano la scuola di specializzazione o che siano assistenti di ruolo in divisioni di ortopedia e traumatologia di ospedali di prima categoria; per queste due categorie di iscritti il periodo di frequenza presso l'istituto sede della scuola puo' essere ridotto fino a non meno di un mese ogni anno.   
+Per nessun motivo sono ammesse abbreviazioni della durata degli studi.   
+Art. 191. - Gli insegnamenti si svolgeranno con indirizzo prevalentemente pratico e dimostrativo, ma per ogni singola materia di insegnamento dovra' anche svolgersi un corso regolare di lezioni, il cui numero verra' fissato annualmente dal direttore della scuola in accordo con i docenti delle singole materie.   
+Art. 192. - Le materie di insegnamento sono le seguenti:   
   
-Insegnamenti complementari:  
-1) Ricerca operativa;  
-2) Teoria dell'informazione;  
-3) Teoria ed applicazioni delle macchine calcolatrici;  
-4) Economia matematica;  
-5) Elementi di matematica finanziaria ed attuariale;  
-6) Osservazioni scientifiche;  
-7) Didattica matematica con esercitazioni;  
-8) Analisi funzionale;  
-9) Equazioni differenziali;  
-10) Teoria della misura e delle probabilita';  
-11) Calcolo delle variazioni;  
-12) Teoria dei numeri;  
-13) Geometria differenziale.  
-Potra' essere scelto inoltre come complementare ogni insegnamento fondamentale in ciascuno degli indirizzi diversi da quello scelto dall'iscritto.  
+1) Clinica ortopedica e traumatologica (triennale);   
+2) Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale);   
+3) Tecnica operatoria ortopedica e traumatologica cruenta ed incruenta (triennale);   
+4) Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale);   
+5) Anatomia ed istologia dell'apparato locomotore;   
+6) Fisiologia dell'apparato locomotore;   
+7) Anatomia ed istologia patologica dell'apparato locomotore;   
+8) Nozioni di chirurgia generale;   
+9) Neuropatologia dell'apparato locomotore ed elettrodiagnostica;  
+10) Nozioni di pediatria;   
+11) Apparato terapia ortopedica;   
+12) Fisiochinesiterapia;   
+13) Infortunistica;   
+14) Anestesia e rianimazione.   
+  
+Art. 193. - Le materie di insegnamento sono cosi' suddivise nei vari anni di corso:   
+  
+1° Anno:   
+1) Clinica ortopedica e traumatologica (triennale);   
+2) Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale);   
+3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale);   
+4) Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale);   
+5) Anatomia ed istologia dell'apparato locomotore;   
+6) Fisiologia dell'apparato locomotore;   
+7) Nozioni di chirurgia generale;   
+8) Nozioni di pediatria.   
+  
+2° Anno:   
+1) Clinica ortopedica e traumatologica (triennale):   
+2) Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale);   
+3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale);   
+4) Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale);   
+5) Neuropatologia dell'apparato locomotore ed elettrodiagnostica;  
+6) Anatomia ed istologia patologica dell'apparato locomotore;   
+7) Anestesia e rianimazione.   
+  
+3° Anno:   
+1) Clinica ortopedica e traumatologica (triennale);   
+2) Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale);   
+3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale);   
+4) Apparato terapia ortopedica;   
+5) Fisiochinesiterapia;   
+6) Infortunistica.   
+  
+Art. 194. - Gli esami si svolgeranno per singole materie. Gli esami di clinica ortopedica e traumatologica, di tecnica operatoria cruenta ed incruenta ortopedica e traumatologica, di radiodiagnostica, saranno teorici e pratici.   
+Per l'ammissione al corso successivo e' obbligatorio il superamento degli esami delle materie di ciascun corso.   
+Per l'ammissione all'esame di diploma il candidato dovra' presentare una tesi a stampa o dattiloscritta su un argomento della specialita'.   
+Art. 195. - Le norme per l'iscrizione, per le tasse ecc. sono quelle generali per le scuole di specializzazione e di perfezionamento riferite negli articoli da 122 a 137 dello statuto dell'universita'.   
+Gli articoli da 198 a 203, relativi alla "Scuola di specializzazione in medicina generale" che muta la denominazione in quella di "Scuola di specializzazione in medicina interna", sono abrogati e sostituiti dai seguenti:   
+  
+Scuola di specializzazione in medicina interna   
+  
+Art. 198. - Presso l'istituto scientifico di medicina, interna e con la direzione di un professore di ruolo dell'istituto, e' istituita la scuola di specializzazione in medicina interna, che ha lo scopo di conferire la necessaria competenza a coloro che vogliano particolarmente dedicarsi all'esercizio della medicina interna.   
+Art. 199. - Alla scuola possono essere iscritti solo i laureati in medicina e chirurgia.   
+Il corso ha la durata di cinque anni.   
+Il numero massimo dei posti per detta scuola e' fissato per venticinque per l'intero corso degli studi.   
+Art. 200. - Gli insegnamenti della scuola sono i seguenti:   
+  
+1° Anno:   
+1) Malattie infettive disreattive e del sangue;   
+2) Istituzioni di terapia;   
+3) Anatomia ed istologia patologica (biennale);   
+4) Clinica medica generale e terapia medica (quinquennale).   
+  
+2° Anno:   
+1) Malattie dell'apparato cardiovascolare;   
+2) Microbiologia e sierologia;   
+3) Chimica clinica;   
+4) Anatomia ed istologia patologica (biennale);   
+5) Clinica medica generale e terapia medica (quinquennale).   
+  
+3° Anno:   
+1) Malattie dell'apparato digerente;   
+2) Malattie renali;   
+3) Clinica medica generale e terapia medica (quinquennale).   
+  
+4° Anno:   
+1) Malattie dell'apparato respiratorio;   
+2) Malattie del sistema nervoso;   
+3) Clinica medica generale e terapia medica (quinquennale).   
+  
+5° Anno:   
+1) Malattie del ricambio;   
+2) Malattie delle ghiandole endocrine;   
+3) Clinica medica generale e terapia medica (quinquennale).   
+  
+Il direttore della scuola ha la facolta' di inserire uno o piu' insegnamenti complementari nei vari anni del corso di specializzazione, scelti fra i seguenti:   
+  
+1) Parassitologia medica;   
+2) Genetica medica;   
+3) Semeiotica dermatologica;   
+4) Radiologia;   
+5) Semeiotica oculistica;   
+6) Semeiotica ginecologica.   
+  
+Art. 201. - Il numero e la distribuzione delle ore di lezione saranno fissati dal direttore della scuola al principio di ogni anno accademico.   
+Oltre alle materie suddette, oggetto di lezioni, gli iscritti avranno esercitazioni pratiche nelle materie di insegnamento.   
+Ogni anno sara', inoltre, tenuto un ciclo di conferenze di cultura generale e collaterale soprattutto riguardante l'apporto alla clinica medica da parte delle branche specialistiche.   
+Art. 202. - Gli iscritti hanno l'obbligo di frequentare i corsi ufficiali di lezioni e le esercitazioni.   
+Essi dovranno, inoltre, prestare servizio nell'istituto scientifico di medicina interna come medici interni per i periodi prestabiliti.   
+Art. 203. - Le norme per l'iscrizione, per gli esami, per le tasse ecc. sono quelle generali per le scuole di specializzazione e di perfezionamento, riferite negli articoli da 122 a 137 dello statuto dell'universita'.   
+Alla fine del quinto anno, sempre subordinatamente all'ottenuta frequenza al corso, gli allievi saranno ammessi all'esame finale consistente in un esame orale - od eventualmente scritto - con discussione sulla diagnosi, prognosi, terapia di un caso clinico.   
+Una volta superato tale esame, i candidati dovranno presentare e discutere una tesi scritta su un argomento di ordine medico.   
+Agli allievi che abbiano ottenuto l'approvazione nell'esame finale viene rilasciato il diploma di specializzazione in medicina interna, valido a tutti gli effetti di legge.   
+Gli articoli da 204 a 212, relativi alla "Scuola di specializzazione in odontoiatria e protesi dentaria", sono abrogati e sostituiti dai seguenti, con il relativo spostamento della numerazione degli articoli successivi.   
+  
+Scuola di specializzazione in odontoiatria e protesi dentaria   
+  
+Art. 204. - Presso l'istituto di clinica odontoiatrica e' istituita la scuola di specializzazione in odontoiatria e protesi dentaria, che ha lo scopo di conferire la necessaria competenza a coloro che vogliano particolarmente dedicarsi all'esercizio dell'odontoiatria e della protesi dentaria.   
+Direttore della scuola e' il titolare della cattedra di clinica odontoiatrica.   
+Art. 205. - Alla scuola possono iscriversi solo i laureati in medicina e chirurgia in numero di sessanta per l'intero corso degli studi.   
+La durata del corso di studi e' di tre anni.   
+La frequenza e' obbligatoria per l'intero anno scolastico.   
+Le vacanze sono conformi al calendario universitario con un solo mese completo estivo (agosto).   
+Ogni iscritto deve provvedere al proprio corredo di strumenti.   
+Art. 206. - Le norme di iscrizione, pagamento tasse, ecc. sono quelle generali riferite negli articoli da 122 a 137 dello statuto dell'universita'.   
+Art. 207. - Le materie di insegnamento della scuola sono:   
+  
+1) Embriologia e anatomia dentaria e maxillo-facciale;   
+2) Anatomia e istologia odontostomatologica;   
+3) Microbiologia e igiene orale;   
+4) Farmacologia odontostomatologica;   
+5) Patologia odontostomatologica;   
+6) Clinica odontostomatologica;   
+7) Chirurgia maxillo-facciale;   
+8) Anestesia e chirurgia stomatologica;   
+9) Odontoiatria conservativa;   
+10) Parodontologia;   
+11) Clinica protesica dentaria e maxillo-facciale;   
+12) Ortopedia dento-maxillo-facciale;   
+13) Radiologia odontostomatologica;   
+14) Odontotecnica;   
+15) Odontoiatria infantile;   
+16) Medicina legale odontostomatologica e delle assicurazioni.   
+Esercitazioni pratiche affiancheranno gli insegnamenti.   
+  
+Art. 208. - Le materie di insegnamento sono cosi' ripartite nei tre anni di corso:   
+  
+1° Anno:   
+1) Embriologia e anatomia dentaria e maxillo-facciale;   
+2) Microbiologia e igiene orale;   
+3) Farmacologia;   
+4) Patologia odontostomatologica;   
+5) Odontotecnica;   
+6) Anestesia e chirurgia stomatologica;   
+7) Odontoiatria conservativa (I anno) (biennale).   
+Esercitazioni pratiche.   
+  
+2° Anno:   
+1) Odontoiatria conservativa (II anno);   
+2) Clinica protesica dentaria e maxillo-facciale (I anno) (biennale);   
+3) Parodontologia (I anno) (biennale);   
+4) Anatomia e istopatologia odontostomatologica;   
+5) Odontoiatria infantile;   
+6) Radiologia odontostomatologica;   
+7) Ortopedia dento-maxillo-facciale (I anno) (biennale);   
+8) Chirurgia maxillo-facciale (I anno) (biennale).   
+Esercitazioni pratiche.   
+  
+3° Anno:   
+1) Clinica odontostomatologica;   
+2) Chirurgia maxillo-facciale (II anno);   
+3) Medicina legale odontostomatologica e delle assicurazioni;   
+4) Ortopedia dento-maxillo-facciale (II anno);   
+5) Clinica protesica dentaria e maxillo-facciale (Il anno);   
+6) Parodontologia (II anno).   
+Esercitazioni pratiche.   
+  
+Art. 209. - Gli esami di profitto teorici e pratici saranno sostenuti alla fine di ogni anno in una unica sessione (ottobre).   
+Alla fine del terzo anno, dopo aver superato gli esami di profitto, gli allievi saranno ammessi a sostenere l'esame di diploma che consiste nella discussione scritta, su un tema proposto in precedenza dall'insegnante della materia sulla quale verte l'argomento e approvata dal direttore della scuola.   
+Art. 210. - Agli allievi che abbiano ottenuto l'approvazione nell'esame di diploma, verra' rilasciato il diploma di specializzazione in odontoiatria e protesi dentaria valido a tutti gli effetti di legge.   
+Gli articoli da 243 a 247, relativi alla "Scuola di specializzazione in tisiologia" che muta la denominazione in quella di "Tisiologia e malattie dell'apparato respiratorio", sono abrogati e sostituiti dai seguenti.   
+  
+Scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio   
+  
+Art. 243. - Presso l'istituto di clinica tisiologica dell'Universita' di Genova e' istituita la scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio che ha lo scopo di formare una adeguata competenza scientifica e di completare la preparazione clinica e tecnica dei laureati in medicina e chirurgia che vogliono dedicarsi allo studio ed alla pratica clinica della malattia tubercolare e delle pneumopatie acute e croniche nei loro aspetti generali e speciali anche in rapporto alla diagnostica differenziale.   
+La direzione della scuola e' affidata al direttore dell'istituto di clinica tisiologica; i corsi si svolgeranno presso l'istituto di clinica tisiologica dell'Universita' di Genova secondo il programma e gli orari stabiliti all'inizio di ogni anno accademico.   
+Art. 244. - Il programma del corso comprende le materie inerenti alla patologia, alla clinica, alla terapia ed alla diagnostica generale, differenziale e speciale delle pneumopatie acute e croniche, tubercolarie non tubercolari.   
+Le materie di insegnamento sono:   
+  
+1° Anno:   
+1) Anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio;   
+2) Patologia della tubercolosi polmonare ed extrapolmonare;   
+3) Patologia delle malattie dell'apparato respiratorio;   
+4) Fisiologia e fisiopatologia generale dell'apparato respiratorio;   
+5) Semeiotica fisica e funzionale dell'apparato respiratorio;   
+6) Microbiologia;   
+7) Epidemiologia e statistica sanitaria della tubercolosi e delle malattie dell'apparato respiratorio.   
+  
+2° Anno:   
+1) Anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio;   
+2) Clinica della tubercolosi;   
+3) Clinica delle malattie dell'apparato respiratorio;   
+4) Fisiopatologia speciale della tubercolosi e delle malattie dell'apparato respiratorio;   
+5) Broncologia;   
+6) Radiologia dell'apparato respiratorio;   
+7) Profilassi della tubercolosi;   
+8) Igiene e legislazione sociale.   
+  
+3° Anno:   
+1) Clinica della tubercolosi;   
+2) Clinica delle malattie dell'apparato respiratorio;   
+3) Chemioterapia della tubercolosi e delle malattie dell'apparato respiratorio;   
+4) Terapia fisiomeccanica nella tubercolosi e nelle malattie dell'apparato respiratorio;   
+5) Terapia chirurgica nella tubercolosi e nelle malattie dell'apparato respiratorio.   
+  
+Art. 245. - Il corso ha la durata di tre anni e l'insegnamento ha carattere dottrinale, dimostrativo e pratico. Gli iscritti hanno l'obbligo di frequentare tutti gli insegnamenti, le esercitazioni ed eventuali lezioni e conferenze varie; sono altresi' obbligati a svolgere continuativa attivita' di medico interno per almeno sei mesi all'anno.   
+Art. 246. - Alla scuola potranno essere ammessi soltanto i laureati in medicina e chirurgia. L'ammissione e' stabilita attraverso un colloquio orale.   
+Il numero massimo dei posti per ciascun anno e' di quindici. Le norme di iscrizione, esami, pagamento tasse e tutte le altre norme generali sono tutte quelle comprese negli articoli da 122 a 137 dello statuto dell'universita'.   
+Art. 247. - Gli esami di profitto hanno luogo al termine di ogni anno di corso.   
+Alla fine del corso gli allievi che lo hanno frequentato regolarmente sono ammessi agli esami finali ed alla presentazione e discussione di una tesi scritta da loro preparata su un argomento attinente alla specialita'. A coloro che hanno ottenuto l'approvazione verra' rilasciato il diploma di specialista in tisiologia e malattie dell'apparato respiratorio valido a tutti gli effetti di legge.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 luglio 1964
+### Dato a Roma, addi' 16 maggio 1972
 
-SEGNI GUI
+LEONE MISASI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 16 settembre 1964
+Registrato alla Corte dei conti, addi' 5 agosto 1972
 
-Atti del Governo, registro n. 186, foglio n. 60. - DI PRETORO
+Atti del Governo, registro n. 250, foglio n. 116. - VALENTINI

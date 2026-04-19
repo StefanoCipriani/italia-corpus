@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 781
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1983 n. 1020
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 781
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1983 n. 1020
+==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
@@ -39,23 +39,19 @@ Articolo unico
 --------------
 
   
-Nell'art. 142, relativo al corso di laurea in scienze agrarie, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-regolatori di crescita delle piante (semestrale);  
-orticoltura industriale da pieno campo (semestrale);  
-tecnica vivaistica (semestrale);  
-fertilita' e nutrizione delle piante;  
-inquinamento dell'ambiente agrario.  
+Nell'art. 67, relativo al corso di laurea in storia, all'elenco degli insegnamenti complementari dell'indirizzo contemporaneo di cui alla lettera D) e' aggiunto il seguente nuovo insegnamento:  
+storia dell'Africa contemporanea.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 maggio 1983
+### Dato a Roma, addi' 17 maggio 1983
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 27 dicembre 1983
+Registrato alla Corte dei conti, addi' 29 febbraio 1984
 
-Registro n. 80 Istruzione, foglio n. 15
+Registro n. 13 Istruzione, foglio n. 88

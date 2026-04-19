@@ -1,94 +1,265 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 578
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1971 n. 615
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 578
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1971 n. 615
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 13 ottobre 1927, numero 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230) e modificato con [regio decreto 30 ottobre 1930, n. 1826](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1826), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 58: all'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti quelli di:
+
+Etnomusicologia;
+
+Storia della musica;
+
+Archivistica;
+
+Biblioteconomia e bibliografia;
+
+Archeologia medioevale;
+
+Storia delle dottrine politiche;
+
+Filosofia del linguaggio;
+
+Psicologia del linguaggio;
+
+Fonetica generale e sperimentale;
+
+Lingua e letteratura catalana;
+
+Geografia umana;
+
+Geografia regionale;
+
+Geografia politica ed economica;
+
+Storia dell'arte greca e romana;
+
+Storia del movimento sindacale;
+
+Lingua e letteratura giapponese;
+
+Filologia slava.
+
+Art. 59: all'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti quelli di:
+
+Etnomusicologia;
+
+Didattica dell'insegnamento delle lingue moderne;
+
+Psicologia del linguaggio;
+
+Storia della filosofia moderna e contemporanea;
+
+Teoria e tecnica delle comunicazioni di massa;
+
+Psicologia dell'apprendimento;
+
+Storia della scuola e delle istituzioni scolastiche;
+
+Psicodiagnostica;
+
+Psicologia sperimentale;
+
+Pedagogia comparata;
+
+Ortopedagogia;
+
+Letteratura per l'infanzia;
+
+Pedagogia sperimentale.
+
+Art. 60: all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di:
+
+Filologia inglese;
+
+Filosofia del linguaggio;
+
+Didattica dell'insegnamento delle lingue moderne;
+
+Psicologia del linguaggio;
+
+Fonetica generale e sperimentale;
+
+Lingua e letteratura catalana;
+
+Filologia slava;
+
+Lingua e letteratura giapponese.
+
+Art. 78, relativo alle norme dell'esame di laurea in fisica e' modificato nel senso che l'ultimo comma e' abrogato e sostituito dal seguente: "L'esame di laurea consiste nella discussione di una tesi scritta alla quale non si richiede necessariamente il carattere di ricerca originale".
+
+Art. 79, relativo alle norme dell'esame di laurea del corso di studi in matematica e' modificato nel senso che la lettera c) e' abrogata e sostituita nel modo seguente:
+
+"c) della discussione di una tesina preparata dallo studente su di un argomento attinente ad una disciplina diversa da quella cui si riferisce il lavoro scritto".
+
+L'ultimo comma e' abrogato e sostituito dal seguente:
+
+"La parte a) deve precedere le parti b) e c)".
+
+Art. 92, relativo alle norme dell'esame di laurea e' modificato nel senso che e' soppresso il seguente comma:
+
+"Il candidato alla laurea in chimica deve sostenere una prova pratica consistente in una analisi qualitativa, in una quantitativa ed in un saggio di riconoscimento di sostanze organiche".
+
+Art. 115, relativo alle modalita' per gli esami di laurea in farmacia e' abrogato e sostituito dal seguente:
+
+"L'esame di laurea in farmacia consiste in una prova pratica e in un esame orale. La prova pratica verte sopra una preparazione di tecnica farmaceutica relativa all'esercizio della professione in farmacia, con riconoscimento e controllo di qualita' delle sostanze impiegate nella preparazione.
+
+Il candidato deve presentare almeno 15 giorni prima dell'esame di laurea dissertazione scritta, preferibilmente di carattere sperimentale, su argomento da lui scelto ed approvato dal professore della materia cui si riferisce.
+
+L'esame orale comprende la discussione della dissertazione e della prova pratica ed un esame professionale nel quale il candidato deve dimostrare la sua conoscenza sui medicamenti contenuti nella farmacopea ufficiale, sulla ricettazione e su quelle parti della legislazione sanitaria che hanno attinenza con la farmacia".
+
+Art. 283, relativo alla scuola per terapisti della riabilitazione (scuola diretta a fini speciali) e' modificato nel senso che la lettera c) e' abrogata e sostituita dalla seguente:
+
+"c) quietanza comprovante il pagamento delle tasse, soprattasse e contributi prescritti (immatricolazione 5.000, tassa annuale di iscrizione 18.000, soprattassa annuale di esame 7.000, contributo di riscaldamento 2.000, libretto 1.000, contributo di laboratorio 80.000, contributo studenti 1.000".
+
+Art. 284, relativo alla predetta scuola e' abrogate e sostituito dal seguente: "Per ottenere il rilascio del diploma, gli interessati dovranno presentare:
+
+a) domanda diretta al rettore in carta bollata;
+
+b) quietanza comprovante il pagamento di L. 3.000 per soprattassa esame di diploma;
+
+c) quietanza comprovante il pagamento della tassa erariale di diploma di L. 6.000;
+
+d) quietanza comprovante il pagamento per stampa diploma".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 11 giugno 1971
+
+SARAGAT
+
+MISASI
+
+Visto, il Guardasigilli: COLOMBO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 17 agosto 1971 Atti del Governo, registro n. 243, foglio n. 128. - PASQUALUCCI
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 13 ottobre 1927, numero 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230) e modificato con [regio decreto 30 ottobre 1930, n. 1826](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1826), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-L'art. 280, relativo alla scuola di specializzazione in radiologia, e' soppresso e sostituito dal seguente:   
+Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Scuola di specializzazione in radiologia   
-Art. 280. - La scuola di specializzazione in radiologia ha sede presso l'istituto di radiologia. Alla scuola possono essere ammessi solo i laureati in medicina e chirurgia in possesso di diploma di abilitazione professionale e la loro immatricolazione e' subordinata all'esito di un esame di ammissione per titoli ed esami.   
-Non sono ammesse abbreviazioni di corso.   
-La scuola conferisce i seguenti diplomi:   
-a) diploma di specialista in radiodiagnostica. Gli anni di studio necessari per conseguire questo titolo sono quattro;   
-b) diploma di specialista in radioterapia oncologica. Gli anni di studio necessari per conseguire questo titolo sono quattro.   
-La scuola ha un tronco comune di due anni identico per i diplomi in radiodiagnostica e radioterapia oncologica.   
-Diploma di specialista in radiodiagnostica Programma di insegnamento:   
-1° Anno (comune alla specializzazione in radioterapia oncologica):   
-a) fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);   
-b) radiobiologia, legislazione e norme generali di radioprotezione;   
-c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;   
-d) nozioni di anatomia e fisiologia generale.   
-2° Anno (comune alla radioterapia oncologica):   
-a) anatomia patologica;   
-b) apparecchiature e tecniche radiologiche;   
-c) semeiotica radiologica (integrata con le semeiotiche cliniche, isotopica e di laboratorio);   
-d) radiopatologia;   
-e) dosimetria applicata.   
-3° Anno:   
-a) tecniche speciali e relativa semeiotica (I);   
-b) radiodiagnostica speciale dei vari organi ed apparati (I). 4° Anno:   
-a) tecniche speciali e relativa semeiotica (temiografia, ecografia, xerografia, TAC) (II);   
-b) radiodiagnostica speciale dei vari organi ed apparati (II).   
-Diploma di specialista in radioterapia oncologica   
-Programma di insegnamento:   
-1° Anno (comune alla specializzazione in radiodiagnostica):   
-a) fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);   
-b) radiobiologia, legislazione e norme generali di radioprotezione;   
-c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;   
-d) nozioni di anatomia e fisiologia generale.   
-2° Anno (comune alla specializzazione in radiodiagnostica):   
-a) anatomia patologica;   
-b) apparecchiature e tecniche radiologiche;   
-c) semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);   
-d) radiopatologia;   
-e) dosimetria applicata.   
-3° Anno:   
-a) oncologia generale;   
-b) oncologia clinica (I);   
-c) tecniche radioterapiche (I).   
-4° Anno:   
-a) oncologia clinica (II);   
-b) fondamenti di terapia chirurgica dei tumori;   
-c) radioterapia clinica;   
-d) trattamento del canceroso in fase avanzata.   
-I singoli insegnamenti saranno tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento, secondo un programma da approvarsi annualmente dal consiglio di facolta' su proposta del direttore della scuola.   
-Il numero massimo di iscritti per anno di corso alla scuola e' di sedici, da ripartirsi annualmente fra i due indirizzi di diploma.   
-La frequenza pratica e' obbligatoria (dieci mesi all'anno) e deve avvenire in reparti riconosciuti idonei dal direttore della scuola.   
-L'insegnamento verra' svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento, aperti anche a specialisti, ecc. Gli allievi, per essere ammessi a sostenere gli esami delle singole materie, dovranno avere la firma di frequenza da parte del direttore della scuola stessa.   
-Gli allievi al termine di ogni anno dovranno superare gli esami di profitto delle materie prescritte per poter ottenere l'iscrizione all'anno successivo.   
-Gli allievi per conseguire il diploma di specializzazione, oltre ad essere stati approvati in tutti gli esami, dovranno elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola.   
+Art. 58: all'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti quelli di:  
+  
+Etnomusicologia;  
+Storia della musica;  
+Archivistica;  
+Biblioteconomia e bibliografia;  
+Archeologia medioevale;  
+Storia delle dottrine politiche;  
+Filosofia del linguaggio;  
+Psicologia del linguaggio;  
+Fonetica generale e sperimentale;  
+Lingua e letteratura catalana;  
+Geografia umana;  
+Geografia regionale;  
+Geografia politica ed economica;  
+Storia dell'arte greca e romana;  
+Storia del movimento sindacale;  
+Lingua e letteratura giapponese;  
+Filologia slava.  
+  
+Art. 59: all'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti quelli di:  
+  
+Etnomusicologia;  
+Didattica dell'insegnamento delle lingue moderne;  
+Psicologia del linguaggio;  
+Storia della filosofia moderna e contemporanea;  
+Teoria e tecnica delle comunicazioni di massa;  
+Psicologia dell'apprendimento;  
+Storia della scuola e delle istituzioni scolastiche;  
+Psicodiagnostica;  
+Psicologia sperimentale;  
+Pedagogia comparata;  
+Ortopedagogia;  
+Letteratura per l'infanzia;  
+Pedagogia sperimentale.  
+  
+Art. 60: all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di:  
+  
+Filologia inglese;  
+Filosofia del linguaggio;  
+Didattica dell'insegnamento delle lingue moderne;  
+Psicologia del linguaggio;  
+Fonetica generale e sperimentale;  
+Lingua e letteratura catalana;  
+Filologia slava;  
+Lingua e letteratura giapponese.  
+  
+Art. 78, relativo alle norme dell'esame di laurea in fisica e' modificato nel senso che l'ultimo comma e' abrogato e sostituito dal seguente: "L'esame di laurea consiste nella discussione di una tesi scritta alla quale non si richiede necessariamente il carattere di ricerca originale".  
+Art. 79, relativo alle norme dell'esame di laurea del corso di studi in matematica e' modificato nel senso che la lettera c) e' abrogata e sostituita nel modo seguente:  
+"c) della discussione di una tesina preparata dallo studente su di un argomento attinente ad una disciplina diversa da quella cui si riferisce il lavoro scritto".  
+L'ultimo comma e' abrogato e sostituito dal seguente:  
+"La parte a) deve precedere le parti b) e c)".  
+Art. 92, relativo alle norme dell'esame di laurea e' modificato nel senso che e' soppresso il seguente comma:  
+"Il candidato alla laurea in chimica deve sostenere una prova pratica consistente in una analisi qualitativa, in una quantitativa ed in un saggio di riconoscimento di sostanze organiche".  
+Art. 115, relativo alle modalita' per gli esami di laurea in farmacia e' abrogato e sostituito dal seguente:  
+"L'esame di laurea in farmacia consiste in una prova pratica e in un esame orale. La prova pratica verte sopra una preparazione di tecnica farmaceutica relativa all'esercizio della professione in farmacia, con riconoscimento e controllo di qualita' delle sostanze impiegate nella preparazione.  
+Il candidato deve presentare almeno 15 giorni prima dell'esame di laurea dissertazione scritta, preferibilmente di carattere sperimentale, su argomento da lui scelto ed approvato dal professore della materia cui si riferisce.  
+L'esame orale comprende la discussione della dissertazione e della prova pratica ed un esame professionale nel quale il candidato deve dimostrare la sua conoscenza sui medicamenti contenuti nella farmacopea ufficiale, sulla ricettazione e su quelle parti della legislazione sanitaria che hanno attinenza con la farmacia".  
+Art. 283, relativo alla scuola per terapisti della riabilitazione (scuola diretta a fini speciali) e' modificato nel senso che la lettera c) e' abrogata e sostituita dalla seguente:  
+"c) quietanza comprovante il pagamento delle tasse, soprattasse e contributi prescritti (immatricolazione 5.000, tassa annuale di iscrizione 18.000, soprattassa annuale di esame 7.000, contributo di riscaldamento 2.000, libretto 1.000, contributo di laboratorio 80.000, contributo studenti 1.000".  
+Art. 284, relativo alla predetta scuola e' abrogate e sostituito dal seguente: "Per ottenere il rilascio del diploma, gli interessati dovranno presentare:  
+a) domanda diretta al rettore in carta bollata;  
+b) quietanza comprovante il pagamento di L. 3.000 per soprattassa esame di diploma;  
+c) quietanza comprovante il pagamento della tassa erariale di diploma di L. 6.000;  
+d) quietanza comprovante il pagamento per stampa diploma".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 maggio 1979
+### Dato a Roma, addi' 11 giugno 1971
 
-PERTINI SPADOLINI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 31 ottobre 1979
+Registrato alla Corte dei conti, addi' 17 agosto 1971
 
-Registro n. 83 Istruzione, foglio n. 70
+Atti del Governo, registro n. 243, foglio n. 128. - PASQUALUCCI

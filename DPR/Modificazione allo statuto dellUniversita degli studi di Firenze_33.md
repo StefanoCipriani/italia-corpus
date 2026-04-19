@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1986 n. 209
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1984 n. 261
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1986 n. 209
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1984 n. 261
+============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
@@ -39,21 +39,19 @@ Articolo unico
 --------------
 
   
-Nell'art. 19, relativo al corso di laurea in scienze politiche, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-storia dei trattati e politica internazionale.  
+Nell'art. 82, relativo al corso di laurea in scienze biologiche della facolta' di scienze matematiche, fisiche e naturali, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+chimica analitica strumentale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 gennaio 1986
+### Dato a Roma, addi' 2 marzo 1984
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 28 aprile 1986
+Registrato alla Corte dei conti, addi' 11 giugno 1984
 
-Registro n. 33 Istruzione, foglio n. 59
+Registro n. 34 Istruzione, foglio n. 327

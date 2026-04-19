@@ -1,43 +1,290 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 gennaio 1955 n. 69
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1978 n. 865
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 gennaio 1955 n. 69
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1978 n. 865
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduto il [decreto del Presidente della Repubblica 12 luglio 1977, n. 817](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-07-12;817), con il quale e' stato ristrutturato il corso di laurea in scienze forestali;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Firenze e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+L'art. 152, relativo al corso di laurea in scienze forestali, e' soppresso.
+
+Dopo l'art. 156 (gia' art. 157), e con il conseguente spostamento della numerazione degli articoli successivi, e' aggiunto il seguente nuovo articolo relativo al corso di laurea in scienze forestali:
+
+Corso di laurea in scienze forestali
+
+Art. 157. - La durata del corso degli studi per la laurea in scienze forestali e' di quattro anni.
+
+Titoli di ammissione sono quelli previsti dall'[art. 1 della legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1).
+
+Insegnamenti fondamentali:
+
+1) alpicoltura I (prati, pascoli, agricoltura nella regione di montagna) (semestrale);
+
+2) alpicoltura II (zootecnica nella regione di montagna) (semestrale);
+
+3) assestamento forestale;
+
+4) botanica forestale;
+
+5) \* botanica generale;
+
+6) \* botanica sistematica;
+
+7) chimica forestale;
+
+8) \* chimica generale ed inorganica con applicazioni di analitica;
+
+9) \* chimica organica;
+
+10) costruzioni forestali (semestrale);
+
+11) dendrometria (semestrale);
+
+12) economia ed estimo forestale;
+
+13) \* fisica;
+
+14) industrie chimico-forestali (semestrale);
+
+15) legislazione forestale;
+
+16) \* matematica;
+
+17) \* mineralogia e geologia;
+
+18) patologia vegetale forestale;
+
+19) \* principi di economia politica e di statistica;
+
+20) selvicoltura I (ecologia e selvicoltura generale);
+
+21) selvicoltura II (selvicoltura speciale);
+
+22) sistemazioni idraulico-forestali;
+
+23) tecnologia e utilizzazione forestale (compresa meccanica applicata);
+
+24) topografia;
+
+25) zoologia forestale venatoria e acquicoltura;
+
+26) \* zoologia generale.
+
+Insegnamenti complementari:
+
+1) agronomia montana;
+
+2) allevamenti minori in zone montane (semestrale);
+
+3) alterazioni del legname (semestrale);
+
+4) conservazioni della natura e delle sue risorse;
+
+5) difesa dagli inquinamenti (semestrale);
+
+6) ecologia;
+
+7) ecologia zootecnica;
+
+8) economia di mercato dei prodotti forestali;
+
+9) elementi di idraulica e di idrologia;
+
+10) fisiologia degli alberi forestali (semestrale);
+
+11) geologia applicata;
+
+12) idrologia forestale;
+
+13) meccanizzazione forestale;
+
+14) microbiologia forestale;
+
+15) miglioramento genetico degli alberi forestali (semestrale);
+
+16) pedologia forestale;
+
+17) pianificazione ecologica del territorio;
+
+18) protezione dagli incendi boschivi (semestrale);
+
+19) protezione della natura e riassetto del paesaggio;
+
+20) selvicoltura industriale ed alberature;
+
+21) tecniche di rimboschimento nelle zone aride (semestrale);
+
+22) tutela del paesaggio agricolo forestale e riassetto del territorio;
+
+23) vivaistica forestale e rimboschimento;
+
+24) zoologia venatoria;
+
+25) costruzioni stradali forestali e agrarie;
+
+26) valutazioni e amministrazione forestali;
+
+27) geobotanica;
+
+28) inventari forestali;
+
+29) elementi di diritto amministrativo e diritto regionale.
+
+Le materie contrassegnate con asterisco sono in comune con il corso di laurea in scienze agrarie.
+
+Sono inoltre da ritenere complementari del corso di laurea in scienze forestali tutti gli insegnamenti (fondamentali e complementari) impartiti nel corso di laurea in scienze agrarie.
+
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in tre complementari a corso annuale. A tale effetto due corsi complementari semestrali sono computati come corso annuale.
+
+L'esame di laurea consiste in una discussione orale intorno ad una dissertazione scritta sopra un tema scelto dal candidato su un argomento forestale o avente stretta attinenza con le discipline impartite nella facolta'.
+
+Tutti gli insegnamenti impartiti nella facolta' sono di lezioni teoriche e di esercizi pratici che possono essere integrati da visite a fabbriche industriali e da esercitazioni in foresta.
+
+Gli esami di profitto sono orali; ma possono essere integrati da prove pratiche. Il voto e' pero' complessivo.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 2 ottobre 1978
+
+PERTINI
+
+PEDINI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 22 dicembre 1978 Registro n. 132 Istruzione, foglio n. 309
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), modificato con i [regi decreti 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1927-10-13;2230); [30 ottobre 1930, n. 1826](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1930-10-30;1826); [1 ottobre 1931, n. 1441](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1931-10-01;1441); [6 dicembre 1934, n. 2449](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-06;2449); [1 ottobre 1936, n. 2475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-01;2475); [27 ottobre 1937, n. 2620](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1937-10-27;2620); [5 maggio 1939, n. 1165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-05-05;1165); [12 ottobre 1939, n. 1712](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-10-12;1712); [26 ottobre 1940; n. 2057](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2057); [27 aprile 1942, n. 467](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-04-27;467); [24 ottobre 1942, n. 1439, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1439) [11 giugno 1950, n. 616](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-06-11;616); [30 ottobre 1950, n. 1127](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1127); [30 ottobre 1950, n. 1304](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1304); [30 giugno 1951, n. 957](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-30;957); [27 ottobre 1951, n. 1681](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1681); [23 gennaio 1952, n. 168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-01-23;168); [26 ottobre 1952, n. 4557](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4557); [26 ottobre 1952, n. 4543](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4543); [10 febbraio 1953, n. 376](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;376); [30 luglio 1953, n. 710](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-07-30;710); [2 marzo 1954, n. 183](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-02;183) e [14 settembre 1954, n. 1202](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1202);  
+Veduto lo statuto dell'Universita' di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduto il [decreto del Presidente della Repubblica 12 luglio 1977, n. 817](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-07-12;817), con il quale e' stato ristrutturato il corso di laurea in scienze forestali;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Firenze e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Firenze approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 51. - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di "storia americana".  
-Art. 60. - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere e' aggiunto quello di "letteratura nord-americana".  
+Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+L'art. 152, relativo al corso di laurea in scienze forestali, e' soppresso.  
+Dopo l'art. 156 (gia' art. 157), e con il conseguente spostamento della numerazione degli articoli successivi, e' aggiunto il seguente nuovo articolo relativo al corso di laurea in scienze forestali:  
+  
+Corso di laurea in scienze forestali  
+Art. 157. - La durata del corso degli studi per la laurea in scienze forestali e' di quattro anni.  
+Titoli di ammissione sono quelli previsti dall'[art. 1 della legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1).  
+Insegnamenti fondamentali:  
+1) alpicoltura I (prati, pascoli, agricoltura nella regione di montagna) (semestrale);  
+2) alpicoltura II (zootecnica nella regione di montagna) (semestrale);  
+3) assestamento forestale;  
+4) botanica forestale;  
+5) \* botanica generale;  
+6) \* botanica sistematica;  
+7) chimica forestale;  
+8) \* chimica generale ed inorganica con applicazioni di analitica;  
+9) \* chimica organica;  
+10) costruzioni forestali (semestrale);  
+11) dendrometria (semestrale);  
+12) economia ed estimo forestale;  
+13) \* fisica;  
+14) industrie chimico-forestali (semestrale);  
+15) legislazione forestale;  
+16) \* matematica;  
+17) \* mineralogia e geologia;  
+18) patologia vegetale forestale;  
+19) \* principi di economia politica e di statistica;  
+20) selvicoltura I (ecologia e selvicoltura generale);  
+21) selvicoltura II (selvicoltura speciale);  
+22) sistemazioni idraulico-forestali;  
+23) tecnologia e utilizzazione forestale (compresa meccanica applicata);  
+24) topografia;  
+25) zoologia forestale venatoria e acquicoltura;  
+26) \* zoologia generale.  
+Insegnamenti complementari:  
+1) agronomia montana;  
+2) allevamenti minori in zone montane (semestrale);  
+3) alterazioni del legname (semestrale);  
+4) conservazioni della natura e delle sue risorse;  
+5) difesa dagli inquinamenti (semestrale);  
+6) ecologia;  
+7) ecologia zootecnica;  
+8) economia di mercato dei prodotti forestali;  
+9) elementi di idraulica e di idrologia;  
+10) fisiologia degli alberi forestali (semestrale);  
+11) geologia applicata;  
+12) idrologia forestale;  
+13) meccanizzazione forestale;  
+14) microbiologia forestale;  
+15) miglioramento genetico degli alberi forestali (semestrale);  
+16) pedologia forestale;  
+17) pianificazione ecologica del territorio;  
+18) protezione dagli incendi boschivi (semestrale);  
+19) protezione della natura e riassetto del paesaggio;  
+20) selvicoltura industriale ed alberature;  
+21) tecniche di rimboschimento nelle zone aride (semestrale);  
+22) tutela del paesaggio agricolo forestale e riassetto del territorio;  
+23) vivaistica forestale e rimboschimento;  
+24) zoologia venatoria;  
+25) costruzioni stradali forestali e agrarie;  
+26) valutazioni e amministrazione forestali;  
+27) geobotanica;  
+28) inventari forestali;  
+29) elementi di diritto amministrativo e diritto regionale.  
+Le materie contrassegnate con asterisco sono in comune con il corso di laurea in scienze agrarie.  
+Sono inoltre da ritenere complementari del corso di laurea in scienze forestali tutti gli insegnamenti (fondamentali e complementari) impartiti nel corso di laurea in scienze agrarie.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in tre complementari a corso annuale. A tale effetto due corsi complementari semestrali sono computati come corso annuale.  
+L'esame di laurea consiste in una discussione orale intorno ad una dissertazione scritta sopra un tema scelto dal candidato su un argomento forestale o avente stretta attinenza con le discipline impartite nella facolta'.  
+Tutti gli insegnamenti impartiti nella facolta' sono di lezioni teoriche e di esercizi pratici che possono essere integrati da visite a fabbriche industriali e da esercitazioni in foresta.  
+Gli esami di profitto sono orali; ma possono essere integrati da prove pratiche. Il voto e' pero' complessivo.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 gennaio 1955
+### Dato a Roma, addi' 2 ottobre 1978
 
-EINAUDI ERMINI
+PERTINI PEDINI
 
-Visto, il Guardasigilli: DE PIETRO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 14 marzo 1955
+Registrato alla Corte dei conti, addi' 22 dicembre 1978
 
-Atti del Governo, registro n. 89, foglio n. 96. - CARLOMAGNO
+Registro n. 132 Istruzione, foglio n. 309

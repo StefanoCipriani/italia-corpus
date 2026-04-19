@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 gennaio 1986 n. 202
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 363
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 gennaio 1986 n. 202
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 363
+============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Perugia.
 -------------------------------------------------------------------
@@ -39,14 +39,14 @@ Articolo unico
 --------------
 
   
-Nell'art. 25, relativo al corso di laurea in economia e commercio, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
-diritto delle obbligazioni e dei contratti.  
+Nell'art. 49, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
+otorinolaringoiatria pediatrica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 gennaio 1986
+### Dato a Roma, addi' 10 marzo 1986
 
 COSSIGA
 
@@ -54,6 +54,6 @@ FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 29 aprile 1986
+Registrato alla Corte dei conti, addi' 8 luglio 1986
 
-Registro n. 34 Istruzione, foglio n. 113
+Registro n. 54 Istruzione, foglio n. 332

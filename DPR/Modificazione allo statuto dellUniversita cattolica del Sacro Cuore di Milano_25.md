@@ -1,16 +1,16 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 661
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 526
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 661
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 526
 =============================================================
 
-Modificazione allo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano.
-----------------------------------------------------------------------------------
+Modificazione allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
+--------------------------------------------------------------------------------
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), e successive modificazioni;
+Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -33,31 +33,28 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con 1 decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Nell'art. 23, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-patologia dell'apparato locomotore;  
-radioterapia;  
-tecniche speciali di anestesia;  
-medicina subacquea e iperbarica;  
-tecniche speciali di rianimazione.  
+  
+Art. 23 - nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono inseriti i seguenti insegnamenti:   
+medicina preventiva dei lavoratori;   
+embriologia;   
+citologia.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 giugno 1986
+### Dato a Roma, addi' 16 giugno 1983
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 3 ottobre 1986
+Registrato alla Corte dei conti, addi' 23 settembre 1983
 
-Registro n. 73 Istruzione, foglio n. 313
+Registro n. 62 Istruzione, foglio n. 318

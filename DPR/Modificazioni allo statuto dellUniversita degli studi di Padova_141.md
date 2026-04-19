@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1968 n. 1437
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1957 n. 993
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1968 n. 1437
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1957 n. 993
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Padova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939 n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successivi;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,9 +18,7 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -30,236 +28,159 @@ Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:
 
-Art. 42. - All'elenco degli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti quelli di:
+Dopo l'art. 187 sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di perfezionamento in scienze farmaceutiche e biochimica applicata, con il conseguente spostamento della numerazione degli articoli successivi.
 
-Finanza aziendale;
+Scuola di perfezionamento in scienze farmaceutiche e biochimica applicata
 
-Tecnica di borsa;
+Art. 188. - Alla Facolta' di farmacia e' annessa la scuola di perfezionamento in scienze farmaceutiche e biochimica applicata.
 
-Demografia;
+Art. 189. - Scopo della scuola e' di utilizzare e perfezionare la cultura dei laureati in farmacia in modo da metterli anche in condizione di eseguire con sicurezza tutte quelle ricerche di indole chimico-biologica che richiedono professionisti specificamente preparati.
 
-Statistica economica.
+Art. 190. - Il corso di studi e' integrato da insegnamenti utili anche a chi si indirizza verso la farmacia ospedaliera o verso le industrie farmaceutiche e chimico-biologiche.
 
-Nel predetto corso di laurea l'insegnamento complementare di "Ragioneria legale" e' soppresso.
+Art. 191. - Ai fini del conseguimento del diploma di specializzazione e' necessario aver frequentato durante un triennio corsi teorici ed esercitazioni sperimentali di:
 
-Art. 49, relativo alle norme sulle propedeuticita' di esami, del corso di laurea in economia e commercio e' modificato nel senso che viene aggiunto il seguente comma: "L'esame di ragioneria I deve precedere quello di economia e politica agraria".
+1) Biologia generale: per coloro che non hanno sostenuto l'esame di zoologia generale nel corso per la laurea.
 
-Art. 51. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere e' aggiunto quello di:
+2) Microbiologia, sierologia umana e veterinaria, tecnica immunologica.
 
-13) Arabo.
+3) Complementi di chimica biologica, e descrittiva e dinamica.
 
-Art. 53, relativo agli istituti annessi alla facolta' di economia e commercio e' modificato nel senso che gli istituti di "Ragioneria e tecnica economica" e di "Storia economica" sono soppressi mentre vengono istituiti i seguenti:
+4) Biochimica applicata.
 
-Istituto di ricerche aziendali;
+5) Complementi di chimica farmaceutica e analitica.
 
-Istituto di storia economica e sociale;
+6) Chimica farmaceutica industriale.
 
-Istituto di geografia.
+7) Complementi di farmacologia.
 
-Art. 83, relativo agli istituti annessi alla facolta' di magistero e' modificato nel senso che viene aggiunto il seguente:
+8) Analisi chimico-fisiche.
 
-Istituto di psicologia dell'eta' evolutiva.
+9) Determinazioni chimiche su materiali biologici.
 
-Art. 89, relativo agli istituti annessi alla facolta' di medicina e chirurgia e' modificato nel senso che sono aggiunti i seguenti:
+10) Microanalisi e determinazioni microchimiche su farmacie e materiali biologici.
 
-Istituto di microbiologia;
+11) Fermentazioni e microbiologia tecnica.
 
-Istituto di chirurgia plastica.
+12) Lavorazioni industriali di materiali biologici.
 
-Art. 99, relativo alle norme e agli esami del corso di laurea in fisica, e' modificato nel senso che il 1° periodo del secondo comma e' abrogato e sostituito dal seguente:
+13) Farmacia ospedaliera e laboratorio ospedaliero.
 
-"Deve infine avere compiuto un anno di internato presso un istituto di scienze fisiche dell'universita', o presso altro istituto approvato dalla facolta' di scienze, per la preparazione della tesi di laurea".
+14) Impianti e macchinario farmaceutico.
 
-Nello stesso corso di laurea il terzo comma e' abrogato e sostituito dal seguente:
+I corsi possono essere divisi in piu' parti anche con insegnanti diversi.
 
-"L'esame di laurea consiste nella discussione di una tesi scritta e di una tesina orale".
+Art. 192. - Direttore della scuola e' il professore di chimica farmaceutica quando questi e' un professore di ruolo. Nel caso in cui questa cattedra non sia coperta da un professore di ruolo, il direttore e' nominato dal rettore su designazione del Consiglio della Facolta'.
 
-Art. 100. - All'elenco degli insegnamenti complementari previsti per il 4° anno del corso di laurea in matematica, indirizzo generale, sono aggiunti i seguenti:
+Gli insegnanti vengono nominati dal Consiglio della Facolta' di farmacia.
 
-Meccanica dei continui;
+Fra questi i professori di ruolo dell'Universita' di Padova costituiscono il Consiglio della scuola che e' presieduto dal direttore.
 
-Istituzioni di fisica nucleare;
+Art. 193. - Gli insegnamenti possono anche non avere carattere cattedratico ed essere svolti nella maniera piu' adatta che viene stabilita dal Consiglio della scuola, il quale fissa anche la durata dei singoli corsi o delle parti di essi.
 
-Geodesia.
+Art. 194. - Alla scuola saranno ammessi i migliori fra i laureati in farmacia. Il numero di essi, i criteri di scelta, i temi di eventuali esami di ammissione saranno fissati anno per anno dal Consiglio della scuola.
 
-Sono insegnamenti complementari, inoltre, tutti gli insegnamenti fondamentali degli altri indirizzi.
+Il Consiglio della scuola puo' inoltre deliberare la dispensa della frequenza di qualche corso o la convalida del relativo esame e anche un accorciamento della durata degli studi per candidati in possesso di titoli particolari conseguiti successivamente alla laurea.
 
-All'elenco degli insegnamenti complementari previsti per il 4° anno del predetto corso di laurea - indirizzo didattico - sono aggiunti i seguenti:
+Art. 195. - La sorveglianza degli iscritti, per i quali e' obbligatoria la continua presenza, spetta al direttore che eventualmente sottopone casi particolari al Consiglio della scuola che delibera la non ammissione agli esami di chi non ha dimostrato sufficiente diligenza.
 
-Struttura della materia;
+Art. 196. - Le tasse di iscrizione, le soprattasse per gli esami di profitto, di diploma e per la ripetizione di esami sono proposte al Consiglio della scuola e sottoposte all'approvazione del Consiglio di amministrazione.
 
-Istituzioni di fisica nucleare.
+L'ammontare dei contributi di laboratorio viene stabilito dal Consiglio di amministrazione su proposta del Senato accademico, udite la Facolta' e scuola, ai sensi della [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551).
 
-Nell'elenco degli insegnamenti complementari previsti per il 4° anno del suddetto corso di laurea ad indirizzo applicativo, orientamento a) vengono soppressi quelli di "Cosmologia", "Teoria delle orbite" e viene aggiunto quello di "Programmazione matematica".
+La tassa di diploma e' fissata nella misura di L. 6000, ai sensi dell'art. 7 della citata legge n. 1551.
 
-Nell'elenco degli insegnamenti complementari previsti per il suddetto corso di laurea ad indirizzo applicativo, orientamento b) "Programmazione lineare e non lineare" e "Programmazione dinamica e non lineare" sono sostituiti rispettivamente da quelli di "Programmazione matematica" e "Programmazione dinamica"; e' inoltre aggiunto l'insegnamento di "Meccanica dei continui".
+Le proposte concernenti la retribuzione agli insegnanti e l'utilizzazione dei fondi della scuola sono formulate dal Consiglio della scuola e sottoposte alla approvazione del Consiglio di amministrazione, con la osservanza delle disposizioni di cui alla [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551), e del [decreto del Presidente della Repubblica 1° dicembre 1952, n. 4512](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-12-01;4512).
 
-Nell'elenco degli insegnamenti complementari previsti per il suddetto corso di laurea per l'orientamento c) sono aggiunti quelli di:
+Art. 197. - Gli esami per le singole materie vengono sostenuti davanti ad una Commissione di tre membri nominata dal direttore della scuola. Ove il candidato sia respinto due volte nello stesso esame, il caso viene esaminato dal Consiglio della scuola che si pronuncia circa il proseguimento degli studi. Superati tutti gli esami i candidati sono ammessi all'esame di diploma.
 
-Meccanica dei continui;
+Art. 198. - L'esame di diploma consiste in una tesi scritta relativa ad una ricerca sperimentale ed in una tesina orale di natura sperimentale e compilativa, viene sostenuto davanti ad una Commissione di undici (11) membri nominati e presieduti dal direttore della scuola.
 
-Cosmologia;
+Per concordare i temi delle due dissertazioni gli specializzati si rivolgeranno a loro scelta a due professori della scuola.
 
-Teoria delle orbite;
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Statistica stellare;
+Dato a Roma, addi' 2 settembre 1957
 
-Astrofisica teorica.
+GRONCHI
 
-Art. 108, relativo alle norme e agli esami del corso di laurea in scienze naturali e' modificato nel senso che il primo e il secondo comma sono abrogati e sostituiti dai seguenti:
-
-"Dopo il primo biennio lo studente dovra' frequentare per due anni, come interno, uno degli istituti di scienze naturali dell'universita' e, dietro approvazione del preside della facolta', altro istituto dell'universita', nel quale attendera' alla elaborazione della tesi di laurea. Durante tale biennio lo studente e' tenuto a seguire l'attivita' didattica che si svolge nell'istituto".
-
-L'ammissione all'internato e' regolata dalle norme contenute nell'ordinamento annuale degli studi della facolta'".
-
-Art. 116 relativo agli istituti annessi alla facolta' di scienze matematiche, fisiche e naturali e' modificato nel senso che l'istituto di botanica e di fisiologia vegetale con annesso orto botanico e' soppresso e sostituito da quelli di:
-
-Istituto di botanica e di fisiologia generale;
-
-Orto botanico;
-
-Istituto di chimica analitica e chimica analitica applicata.
-
-Art. 175. - All'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti quelli di:
-
-Parassitologia animale dei vegetali;
-
-Fitoiatria;
-
-Tecnologia della produzione degli alimenti zootecnici;
-
-Tecnica delle applicazioni frigorifere.
-
-Art. 177, relativo alle norme sugli esami del corso di laurea in scienze agrarie e' modificato nel senso che viene aggiunto il seguente nuovo comma:
-
-"Il corso biennale di agronomia generale e coltivazioni erbacee pur restando unito quanto all'insegnamento comporta per l'accertamento due distinti esami annuali (Agronomia generale e, separatamente coltivazioni erbacee)".
-
-Art. 182. - L'elenco degli istituti annessi alla facolta' di agraria e' modificato nel senso che viene aggiunto il seguente:
-
-Estimo rurale e contabilita'.
-
-Art. 327. - L'elenco dei corsi di perfezionamento annessi alla facolta' di ingegneria e' modificato nel senso che dopo il 1° corso va inserito il seguente:
-
-2) corso di perfezionamento in idrografia o idrologia presso l'istituto di idraulica con il conseguente spostamento della numerazione successiva.
-
-Art. 329. - Il primo periodo relativo ai titoli di ammissione ai corsi di perfezionamento e' modificato nel modo seguente:
-
-per i corsi di perfezionamento in idraulica sperimentale ed in idrografia e idrologia, presso l'istituto di idraulica;
-
-Art. 339, relativo alla "Scuola post-universitaria di organizzazione aziendale" e' modificato nel senso che il titolo muta denominazione in quello di: "Scuola di specializzazione in organizzazione aziendale".
-
-Il secondo comma e' abrogato e sostituito dal seguente:
-
-"La scuola conferisce, il diploma di specializzazione in "Organizzazione aziendale".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 31 ottobre 1968
-
-SARAGAT
-
-SCAGLIA
+MORO
 
 Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 26 febbraio 1969 Atti del Governo, registro n. 225 foglio n. 69. - GRECO
+alla Corte dei conti, addi' 28 ottobre 1957 Atti del Governo, registro n. 108, foglio n. 110. - RELLEVA
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939 n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successivi;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:   
   
-Art. 42. - All'elenco degli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti quelli di:  
-Finanza aziendale;  
-Tecnica di borsa;  
-Demografia;  
-Statistica economica.  
-Nel predetto corso di laurea l'insegnamento complementare di "Ragioneria legale" e' soppresso.  
-Art. 49, relativo alle norme sulle propedeuticita' di esami, del corso di laurea in economia e commercio e' modificato nel senso che viene aggiunto il seguente comma: "L'esame di ragioneria I deve precedere quello di economia e politica agraria".  
-Art. 51. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere e' aggiunto quello di:  
-13) Arabo.  
-Art. 53, relativo agli istituti annessi alla facolta' di economia e commercio e' modificato nel senso che gli istituti di "Ragioneria e tecnica economica" e di "Storia economica" sono soppressi mentre vengono istituiti i seguenti:  
-Istituto di ricerche aziendali;  
-Istituto di storia economica e sociale;  
-Istituto di geografia.  
-Art. 83, relativo agli istituti annessi alla facolta' di magistero e' modificato nel senso che viene aggiunto il seguente:  
-Istituto di psicologia dell'eta' evolutiva.  
-Art. 89, relativo agli istituti annessi alla facolta' di medicina e chirurgia e' modificato nel senso che sono aggiunti i seguenti:  
-Istituto di microbiologia;  
-Istituto di chirurgia plastica.  
-Art. 99, relativo alle norme e agli esami del corso di laurea in fisica, e' modificato nel senso che il 1° periodo del secondo comma e' abrogato e sostituito dal seguente:  
-"Deve infine avere compiuto un anno di internato presso un istituto di scienze fisiche dell'universita', o presso altro istituto approvato dalla facolta' di scienze, per la preparazione della tesi di laurea".  
-Nello stesso corso di laurea il terzo comma e' abrogato e sostituito dal seguente:  
-"L'esame di laurea consiste nella discussione di una tesi scritta e di una tesina orale".  
-Art. 100. - All'elenco degli insegnamenti complementari previsti per il 4° anno del corso di laurea in matematica, indirizzo generale, sono aggiunti i seguenti:  
-Meccanica dei continui;  
-Istituzioni di fisica nucleare;  
-Geodesia.  
-Sono insegnamenti complementari, inoltre, tutti gli insegnamenti fondamentali degli altri indirizzi.  
-All'elenco degli insegnamenti complementari previsti per il 4° anno del predetto corso di laurea - indirizzo didattico - sono aggiunti i seguenti:  
-Struttura della materia;  
-Istituzioni di fisica nucleare.  
-Nell'elenco degli insegnamenti complementari previsti per il 4° anno del suddetto corso di laurea ad indirizzo applicativo, orientamento a) vengono soppressi quelli di "Cosmologia", "Teoria delle orbite" e viene aggiunto quello di "Programmazione matematica".  
-Nell'elenco degli insegnamenti complementari previsti per il suddetto corso di laurea ad indirizzo applicativo, orientamento b) "Programmazione lineare e non lineare" e "Programmazione dinamica e non lineare" sono sostituiti rispettivamente da quelli di "Programmazione matematica" e "Programmazione dinamica"; e' inoltre aggiunto l'insegnamento di "Meccanica dei continui".  
-Nell'elenco degli insegnamenti complementari previsti per il suddetto corso di laurea per l'orientamento c) sono aggiunti quelli di:  
-Meccanica dei continui;  
-Cosmologia;  
-Teoria delle orbite;  
-Statistica stellare;  
-Astrofisica teorica.  
-Art. 108, relativo alle norme e agli esami del corso di laurea in scienze naturali e' modificato nel senso che il primo e il secondo comma sono abrogati e sostituiti dai seguenti:  
-"Dopo il primo biennio lo studente dovra' frequentare per due anni, come interno, uno degli istituti di scienze naturali dell'universita' e, dietro approvazione del preside della facolta', altro istituto dell'universita', nel quale attendera' alla elaborazione della tesi di laurea. Durante tale biennio lo studente e' tenuto a seguire l'attivita' didattica che si svolge nell'istituto".  
-L'ammissione all'internato e' regolata dalle norme contenute nell'ordinamento annuale degli studi della facolta'".  
-Art. 116 relativo agli istituti annessi alla facolta' di scienze matematiche, fisiche e naturali e' modificato nel senso che l'istituto di botanica e di fisiologia vegetale con annesso orto botanico e' soppresso e sostituito da quelli di:  
-Istituto di botanica e di fisiologia generale;  
-Orto botanico;  
-Istituto di chimica analitica e chimica analitica applicata.  
-Art. 175. - All'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti quelli di:  
-Parassitologia animale dei vegetali;  
-Fitoiatria;  
-Tecnologia della produzione degli alimenti zootecnici;  
-Tecnica delle applicazioni frigorifere.  
-Art. 177, relativo alle norme sugli esami del corso di laurea in scienze agrarie e' modificato nel senso che viene aggiunto il seguente nuovo comma:  
-"Il corso biennale di agronomia generale e coltivazioni erbacee pur restando unito quanto all'insegnamento comporta per l'accertamento due distinti esami annuali (Agronomia generale e, separatamente coltivazioni erbacee)".  
-Art. 182. - L'elenco degli istituti annessi alla facolta' di agraria e' modificato nel senso che viene aggiunto il seguente:  
-Estimo rurale e contabilita'.  
-Art. 327. - L'elenco dei corsi di perfezionamento annessi alla facolta' di ingegneria e' modificato nel senso che dopo il 1° corso va inserito il seguente:  
-2) corso di perfezionamento in idrografia o idrologia presso l'istituto di idraulica con il conseguente spostamento della numerazione successiva.  
-Art. 329. - Il primo periodo relativo ai titoli di ammissione ai corsi di perfezionamento e' modificato nel modo seguente:  
-per i corsi di perfezionamento in idraulica sperimentale ed in idrografia e idrologia, presso l'istituto di idraulica;  
-Art. 339, relativo alla "Scuola post-universitaria di organizzazione aziendale" e' modificato nel senso che il titolo muta denominazione in quello di: "Scuola di specializzazione in organizzazione aziendale".  
-Il secondo comma e' abrogato e sostituito dal seguente:  
-"La scuola conferisce, il diploma di specializzazione in "Organizzazione aziendale".  
+Dopo l'art. 187 sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di perfezionamento in scienze farmaceutiche e biochimica applicata, con il conseguente spostamento della numerazione degli articoli successivi.   
+  
+Scuola di perfezionamento in scienze farmaceutiche e biochimica applicata   
+  
+Art. 188. - Alla Facolta' di farmacia e' annessa la scuola di perfezionamento in scienze farmaceutiche e biochimica applicata.   
+Art. 189. - Scopo della scuola e' di utilizzare e perfezionare la cultura dei laureati in farmacia in modo da metterli anche in condizione di eseguire con sicurezza tutte quelle ricerche di indole chimico-biologica che richiedono professionisti specificamente preparati.   
+Art. 190. - Il corso di studi e' integrato da insegnamenti utili anche a chi si indirizza verso la farmacia ospedaliera o verso le industrie farmaceutiche e chimico-biologiche.   
+Art. 191. - Ai fini del conseguimento del diploma di specializzazione e' necessario aver frequentato durante un triennio corsi teorici ed esercitazioni sperimentali di:   
+1) Biologia generale: per coloro che non hanno sostenuto l'esame di zoologia generale nel corso per la laurea.   
+2) Microbiologia, sierologia umana e veterinaria, tecnica immunologica.   
+3) Complementi di chimica biologica, e descrittiva e dinamica.   
+4) Biochimica applicata.   
+5) Complementi di chimica farmaceutica e analitica.   
+6) Chimica farmaceutica industriale.   
+7) Complementi di farmacologia.   
+8) Analisi chimico-fisiche.   
+9) Determinazioni chimiche su materiali biologici.   
+10) Microanalisi e determinazioni microchimiche su farmacie e materiali biologici.   
+11) Fermentazioni e microbiologia tecnica.   
+12) Lavorazioni industriali di materiali biologici.   
+13) Farmacia ospedaliera e laboratorio ospedaliero.   
+14) Impianti e macchinario farmaceutico.   
+I corsi possono essere divisi in piu' parti anche con insegnanti diversi.   
+Art. 192. - Direttore della scuola e' il professore di chimica farmaceutica quando questi e' un professore di ruolo. Nel caso in cui questa cattedra non sia coperta da un professore di ruolo, il direttore e' nominato dal rettore su designazione del Consiglio della Facolta'.   
+Gli insegnanti vengono nominati dal Consiglio della Facolta' di farmacia.   
+Fra questi i professori di ruolo dell'Universita' di Padova costituiscono il Consiglio della scuola che e' presieduto dal direttore.   
+Art. 193. - Gli insegnamenti possono anche non avere carattere cattedratico ed essere svolti nella maniera piu' adatta che viene stabilita dal Consiglio della scuola, il quale fissa anche la durata dei singoli corsi o delle parti di essi.   
+Art. 194. - Alla scuola saranno ammessi i migliori fra i laureati in farmacia. Il numero di essi, i criteri di scelta, i temi di eventuali esami di ammissione saranno fissati anno per anno dal Consiglio della scuola.   
+Il Consiglio della scuola puo' inoltre deliberare la dispensa della frequenza di qualche corso o la convalida del relativo esame e anche un accorciamento della durata degli studi per candidati in possesso di titoli particolari conseguiti successivamente alla laurea.   
+Art. 195. - La sorveglianza degli iscritti, per i quali e' obbligatoria la continua presenza, spetta al direttore che eventualmente sottopone casi particolari al Consiglio della scuola che delibera la non ammissione agli esami di chi non ha dimostrato sufficiente diligenza.   
+Art. 196. - Le tasse di iscrizione, le soprattasse per gli esami di profitto, di diploma e per la ripetizione di esami sono proposte al Consiglio della scuola e sottoposte all'approvazione del Consiglio di amministrazione.   
+L'ammontare dei contributi di laboratorio viene stabilito dal Consiglio di amministrazione su proposta del Senato accademico, udite la Facolta' e scuola, ai sensi della [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551).   
+La tassa di diploma e' fissata nella misura di L. 6000, ai sensi dell'art. 7 della citata legge n. 1551.   
+Le proposte concernenti la retribuzione agli insegnanti e l'utilizzazione dei fondi della scuola sono formulate dal Consiglio della scuola e sottoposte alla approvazione del Consiglio di amministrazione, con la osservanza delle disposizioni di cui alla [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551), e del [decreto del Presidente della Repubblica 1° dicembre 1952, n. 4512](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-12-01;4512).   
+Art. 197. - Gli esami per le singole materie vengono sostenuti davanti ad una Commissione di tre membri nominata dal direttore della scuola. Ove il candidato sia respinto due volte nello stesso esame, il caso viene esaminato dal Consiglio della scuola che si pronuncia circa il proseguimento degli studi. Superati tutti gli esami i candidati sono ammessi all'esame di diploma.   
+Art. 198. - L'esame di diploma consiste in una tesi scritta relativa ad una ricerca sperimentale ed in una tesina orale di natura sperimentale e compilativa, viene sostenuto davanti ad una Commissione di undici (11) membri nominati e presieduti dal direttore della scuola.   
+Per concordare i temi delle due dissertazioni gli specializzati si rivolgeranno a loro scelta a due professori della scuola.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1968
+### Dato a Roma, addi' 2 settembre 1957
 
-SARAGAT SCAGLIA
+GRONCHI MORO
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 26 febbraio 1969
+Registrato alla Corte dei conti, addi' 28 ottobre 1957
 
-Atti del Governo, registro n. 225 foglio n. 69. - GRECO
+Atti del Governo, registro n. 108, foglio n. 110. - RELLEVA

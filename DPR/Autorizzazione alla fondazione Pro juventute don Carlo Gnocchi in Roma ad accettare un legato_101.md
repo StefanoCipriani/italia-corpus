@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1982 n. 410
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 giugno 1975 n. 345
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1982 n. 410
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 giugno 1975 n. 345
 =============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-410. Decreto del Presidente della Repubblica 17 maggio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in una raccolta di francobolli del valore di L. 900.000, come risulta dal verbale d'inventario, disposto dal sig. Ramelli Giampiero con testamento olografo 9 febbraio 1980, pubblicato in data 24 marzo 1980, n. 11011/1015 di repertorio, a rogito dott. Luigi Prinetti, notaio in Milano, registrato a Milano l'8 aprile 1980 al numero A/Z 08152.  
+345. Decreto del Presidente della Repubblica 24 giugno 1975, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dal prof. Guido Riva Crugnola con testamento olografo 17 gennaio 1971, pubblicato per atto del dott. Pietro Cassina, notaio in Milano, in data 2 marzo 1972, n. 76789 di repertorio e n. 17978 di fascicolo, registrato a Milano il 9 marzo 1972 al n. 4794/71. M. serie E, consistente in obbligazioni bancarie per un valore complessivo di lire 9.222.610.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 30 giugno 1982  
-Registro n. 6 Presidenza, foglio n. 70
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 30 luglio 1975  
+Atti di Governo, registro n. 11, foglio n. 34

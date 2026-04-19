@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 508
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 giugno 1975 n. 337
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 508
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 giugno 1975 n. 337
 =============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-508. Decreto del Presidente della Repubblica 27 giugno 1983, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 350.000.000, disposto dal sig. Cantoni Giovanni a favore dell'istituto "Don Carlo Gnocchi", che si identifica con la fondazione "Pro juventute don Carlo Gnocchi" come si evince dal verbale del consiglio di amministrazione della fondazione stessa in data 20 novembre 1981, con testamento olografo 28 luglio 1980, pubblicato in data 1 aprile 1981, n. 164398 di repertorio e n. 23083 di raccolta, a rogito dott. Alessandro Maffi, notaio in Milano, registrato a Milano il 10 aprile 1981 al n. 07614 M 71.  
+337. Decreto del Presidente della Repubblica 24 giugno 1975, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato consistente in buoni del Tesoro per un valore nominale di L. 5.000.000 ed in titoli per un valore di L. 23.212.125 disposto dal sig. Luigi Cotta Ramusino con testamento olografo 8 ottobre 1965, pubblicato a rogito del notaio dott. Margherita Spessa Salvadori in data 6 settembre 1971, n. 135731 di repertorio e n. 13098 di raccolta e registrato a Recco (Genova) il 16 settembre 1971 con il n. 981 M.I. vol. 161.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 19 settembre 1983  
-Registro n. 7 Presidenza, foglio n. 330
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 30 luglio 1975  
+Atti di Governo, registro n. 11, foglio n. 33

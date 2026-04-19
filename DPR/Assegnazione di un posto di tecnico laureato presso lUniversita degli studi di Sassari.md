@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 luglio 1985 n. 835
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1984 n. 644
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 luglio 1985 n. 835
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1984 n. 644
 =============================================================
 
 Assegnazione di un posto di tecnico laureato presso l'Universita' degli studi di Sassari.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-835. Decreto del Presidente della Repubblica 17 luglio 1985, col quale, sulla proposta del Ministro della pubblica istruzione, un posto disponibile nel ruolo dei tecnici laureati viene assegnato all'istituto di patologia generale (per le esigenze del corso di laurea in odontoiatria) della facolta' di medicina e chirurgia dell'Universita' di Sassari.   
+644. Decreto del Presidente della Repubblica 12 luglio 1984, col quale, sulla proposta del Ministro della pubblica istruzione, un posto disponibile nel ruolo dei tecnici laureati viene assegnato all'istituto di coltivazioni arboree della facolta' di agraria dell'Universita' di Sassari.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 21 gennaio 1986   
-Registro n. 27 Istruzione, foglio n. 119
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 22 settembre 1984  
+Registro n. 56 Istruzione, foglio n. 88

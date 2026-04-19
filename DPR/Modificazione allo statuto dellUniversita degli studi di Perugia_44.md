@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1982 n. 987
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1983 n. 703
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1982 n. 987
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1983 n. 703
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Perugia.
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Perugia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -39,34 +39,19 @@ Articolo unico
 --------------
 
   
-Nell'art. 49, relativo alla facolta' di medicina e chirurgia, corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunte le seguenti discipline:  
-diabetologia;  
-statistica medica;  
-antropologia criminale;  
-biochimica sistematica umana;  
-farmacologia applicata;  
-farmacologia cellulare;  
-virologia clinica;  
-malattie del ricambio del bambino;  
-auxologia;  
-tossicologia forense;  
-ottica fisiologica;  
-tecnica e diagnostica istopatologica;  
-istochimica patologica;  
-biologia cellulare;  
-medicina delle comunita';  
-semeiotica ostetrica.  
+Art. 74 - nell'elenco degli insegnamenti complementari relativi al corso di laurea in farmacia, sono soppressi i seguenti insegnamenti: zoologia generale;  
+biologia generale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 giugno 1982
+### Dato a Roma, addi' 4 giugno 1983
 
-PERTINI BODRATO
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 10 gennaio 1983
+Registrato alla Corte dei conti, addi' 14 dicembre 1983
 
-Registro n. 1 Istruzione, foglio n. 4
+Registro n. 76 Istruzione, foglio n. 291

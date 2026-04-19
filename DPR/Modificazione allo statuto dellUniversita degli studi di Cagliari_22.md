@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 600
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1985 n. 723
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 600
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1985 n. 723
+================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto dell'Universita' di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -39,13 +39,14 @@ Articolo unico
 --------------
 
   
-Nell'art. 78, relativo all'elenco degli insegnamenti complementari della facolta' di ingegneria, e' aggiunto l'insegnamento di "disegno II (civile)".  
+  
+Art. 56 - nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' inserito l'insegnamento di "tecnica e diagnostica citopatologica".   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 17 maggio 1986
+### Dato a Roma, addi' 2 settembre 1985
 
 COSSIGA
 
@@ -53,6 +54,6 @@ FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 17 settembre 1986
+Registrato alla Corte dei conti, addi' 26 novembre 1985
 
-Registro n. 71 Istruzione, foglio n. 183
+Registro n. 81 Istruzione, foglio n. 303

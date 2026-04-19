@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1983 n. 1157
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 febbraio 1983 n. 159
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1983 n. 1157
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 febbraio 1983 n. 159
+===============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
@@ -24,7 +24,7 @@ Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http:
 
 Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata [legge n. 615/1981](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;615);
 
 Veduto il parere del Consiglio universitario nazionale;
 
@@ -39,19 +39,18 @@ Articolo unico
 --------------
 
   
-Art. 76 - nell'elenco degli insegnamenti complementari dell'indirizzo applicativo, secondo gruppo, del corso di laurea in matematica e' inserito il seguente insegnamento:  
-linguaggi di programmazione.  
+Art. 33 - nell'elenco degli insegnamenti complementari del corso di laurea in scienze politiche e' inserito l'insegnamento di "storia del pensiero politico contemporaneo".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 dicembre 1983
+### Dato a Roma, addi' 9 febbraio 1983
 
 PERTINI FALCUCCI
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 22 marzo 1984
+Registrato alla Corte dei conti, addi' 20 aprile 1983
 
-Registro n. 17 Istruzione, foglio n. 323
+Registro n. 28 Istruzione, foglio n. 107

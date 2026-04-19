@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1969 n. 423
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 gennaio 1966 n. 78
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1969 n. 423
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 gennaio 1966 n. 78
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
@@ -10,102 +10,49 @@ Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 51. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:   
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Archeologia delle province romane;   
-Civilta' egee;   
-Geografia regionale;   
-Epigrafia latina;   
-Geografia storica del mondo antico;   
-Archeologia orientale;   
-Filologia biblica;   
-Filologia semitica;   
-Archeologia e storia dell'arte del vicino oriente antico;   
-Storia della geografia;   
-Lingue indoeuropee dell'Italia antica;   
-Linguistica matematica;   
-Fonetica generale e sperimentale;   
-Filologia armena;   
-Filologia baltica;   
-Filologia egeo-anatolica;   
-Storia dell'arte fiamminga e olandese;   
-Storia del disegno e della grafica;   
-Storia della miniatura;   
-Archeologia e storia dell'arte medioevale;   
-Storia dell'arte contemporanea;   
-Archeologia medioevale;   
-Storia economica del mondo antico;   
-Istituzioni giuridiche greche;   
-Filologia italiana;   
-Lingua e letteratura catalana;   
-Filologia ispanica;   
-Storia della filologia germanica;   
-Storia ed istituzioni nord-americane;   
-Storia ed istituzioni dell'Africa;   
-Storia ed istituzioni dell'Asia;   
-Storia e istituzioni latino-americane;   
-Storia e istituzioni dei paesi arabi;   
-Storia della scienza e della tecnica;   
-Storia dell'eta' industriale e delle industrializzazioni moderne;  
-Storia delle istituzioni;   
-Storia economica;   
-Storia dell'agricoltura.   
-Art. 52, - All'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:   
+Art. 51. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti quelli di:  
+67) Diplomatica;  
+68) Paleografia latina;  
+69) Istituzioni medioevali;  
+70) Storia della letteratura italiana moderna e contemporanea;  
+71) Filosofia della storia.  
   
-Storia ed Istituzioni nord-americane;   
-Storia ed istituzioni latino-americane;   
-Storia ed istituzioni dell'Africa;   
-Storia ed istituzioni dell'Asia;   
-Storia ed istituzioni dei paesi arabi;   
-Storia della scienza e della tecnica;   
-Storia dell'eta' industriale e delle industrializzazioni moderne;  
-Logica;   
-Storia della logica;   
-Filosofia della scienza;   
-Psicologia dell'eta' evolutiva;   
-Storia della psicologia;   
-Storia della filosofia italiana;   
-Storia della filosofia dell'India e dell'Estremo Oriente;   
-Storia della filosofia araba;   
-Storia della filosofia ebraica;   
-Sociologia;   
-Storia della sociologia;   
-Antropologia culturale;   
-Storia delle istituzioni;   
-Storia economica;   
-Storia dell'agricoltura.   
-Art. 53. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniero moderne (indirizzo europeo) sono aggiunti i seguenti:   
+Art. 52. - Agli insegnamenti complementari del corso di laurea in Filosofia sono aggiunti quelli di:  
+19) Diplomatica;  
+20) Paleografia latina;  
+21) Istituzioni medioevali;  
+22) Antichita' medioevali.  
   
-Filologia italiana;   
-Lingua e letteratura catalana;   
-Filologia ispanica;   
-Storia della filologia germanica.   
+Art. 76. - Agli insegnamenti complementari del corso di laurea in Chimica (indirizzo inorganico-chimicofisico) sono aggiunti quelli di:  
+29) Complementi di matematica per chimici;  
+30) Chimica biologica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 maggio 1969
+### Dato a Roma, addi' 27 gennaio 1966
 
-SARAGAT FERRARI AGGRADI
+SARAGAT GUI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 18 luglio 1969
+Registrato alla Corte dei conti, addi' 25 febbraio 1966
 
-Atti del Governo, registro n. 228, foglio n. 31. - CARUSO
+Atti del Governo, registro n. 201, foglio n. 88. - VILLA

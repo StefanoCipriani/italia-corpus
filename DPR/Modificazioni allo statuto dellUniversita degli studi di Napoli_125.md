@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 950
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1978 n. 677
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 950
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1978 n. 677
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -10,11 +10,11 @@ Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Napoli, approvato con [decreto del Presidente della Repubblica 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1939-04-20;1162) e modificato con [decreto del Presidente della Repubblica 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1940-10-26;1904), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1933, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
@@ -22,122 +22,85 @@ Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?u
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' degli studi di Napoli e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933 n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 93 - all'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:
+Art. 189 - all'elenco degli insegnamenti complementari nel corso di laurea in farmacia sono aggiunti i seguenti:
 
-storia della questione meridionale;
+chimica delle sostanze naturali;
 
-storia della chiesa antica;
+endocrinologia;
 
-storia della chiesa medioevale;
+neurochimica.
 
-letteratura giudaico-ellenistica.
+Art. 191 - il primo comma del su indicato articolo e' soppresso e sostituito dal seguente:
 
-Art. 96 - all'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:
+"L'insegnamento biennale di chimica farmaceutica e tossicologica importa un esame al termine di ogni anno e quello triennale di esercitazioni di chimica farmaceutica e tossicologica importa ugualmente un esame al termine di ciascun anno di corso.
 
-storia della questione meridionale;
-
-storia della chiesa medioevale;
-
-storia della chiesa antica;
-
-letteratura giudaico-ellenistica.
-
-L'art. 301, concernente i titoli di ammissione alla scuola di perfezionamento in diritto amministrativo e scienza dell'amministrazione, e' integrato nel senso che possono essere ammessi anche i laureati in scienze economico-marittime.
-
-Art. 146 - all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia (2ª facolta) sono aggiunti i seguenti: genetica dei microrganismi di interesse medico;
-
-oncologia ginecologica;
-
-audiologia;
-
-foniatria;
-
-programmazione ed organizzazione dei servizi sanitari.
-
-Il primo comma dell'art. 346 e l'art. 348, relativi alla scuola di perfezionamento nelle ricerche storico-giuridiche che muta la denominazione in quella di "Scuola di specializzazione degli ordinamenti giuridici medioevali e moderni" sono abrogati e sostituiti dai seguenti:
-
-Scuola di specializzazione degli ordinamenti giuridici medioevali e moderni
-
-Art. 346. - La scuola di specializzazione negli ordinamenti giuridici medioevali e moderni ha lo scopo di promuovere l'approfondimento dello studio del metodo storico, quale mezzo di valutazione esegetica degli ordinamenti e delle norme loro congruenti, per la migliore formazione dello spirito critico del giurista, di giovare efficacemente all'inclinazione storica dei giovani, che mirano ad una positiva ricerca del diritto nelle realta' sociali del tempo in cui si e' svolto, ed offrire un valido strumento di scienza a chi voglia avviarsi alla carriera archivistica.
-
-Art. 348. - La scuola conferisce il diploma di specializzazione negli ordinamenti giuridici medioevali e moderni.
+L'insegnamento biennale di fisiologia generale importa un esame al termine di ogni anno di corso".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 31 ottobre 1975
+Dato a Roma, addi' 19 giugno 1978
 
-LEONE
+p. Il Presidente della Repubblica
 
-MALFATTI
+Il Presidente del Senato
+
+FANFANI
+
+PEDINI
 
 Visto, il Guardasigilli: BONIFACIO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 30 marzo 1976 Atti di Governo, registro n. 4, foglio n. 38
+alla Corte dei conti, addi' 27 ottobre 1978 Registro n. 115 Istruzione, foglio n. 370
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
+Veduto lo statuto dell'Universita' di Napoli, approvato con [decreto del Presidente della Repubblica 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1939-04-20;1162) e modificato con [decreto del Presidente della Repubblica 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1940-10-26;1904), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto-legge 20 giugno 1933, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' degli studi di Napoli e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933 n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 93 - all'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:  
-storia della questione meridionale;  
-storia della chiesa antica;  
-storia della chiesa medioevale;  
-letteratura giudaico-ellenistica.  
-Art. 96 - all'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:  
-storia della questione meridionale;  
-storia della chiesa medioevale;  
-storia della chiesa antica;  
-letteratura giudaico-ellenistica.  
-L'art. 301, concernente i titoli di ammissione alla scuola di perfezionamento in diritto amministrativo e scienza dell'amministrazione, e' integrato nel senso che possono essere ammessi anche i laureati in scienze economico-marittime.  
-Art. 146 - all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia (2ª facolta) sono aggiunti i seguenti: genetica dei microrganismi di interesse medico;  
-oncologia ginecologica;  
-audiologia;  
-foniatria;  
-programmazione ed organizzazione dei servizi sanitari.  
-Il primo comma dell'art. 346 e l'art. 348, relativi alla scuola di perfezionamento nelle ricerche storico-giuridiche che muta la denominazione in quella di "Scuola di specializzazione degli ordinamenti giuridici medioevali e moderni" sono abrogati e sostituiti dai seguenti:  
-  
-Scuola di specializzazione degli ordinamenti giuridici medioevali e moderni  
-  
-Art. 346. - La scuola di specializzazione negli ordinamenti giuridici medioevali e moderni ha lo scopo di promuovere l'approfondimento dello studio del metodo storico, quale mezzo di valutazione esegetica degli ordinamenti e delle norme loro congruenti, per la migliore formazione dello spirito critico del giurista, di giovare efficacemente all'inclinazione storica dei giovani, che mirano ad una positiva ricerca del diritto nelle realta' sociali del tempo in cui si e' svolto, ed offrire un valido strumento di scienza a chi voglia avviarsi alla carriera archivistica.  
-Art. 348. - La scuola conferisce il diploma di specializzazione negli ordinamenti giuridici medioevali e moderni.  
+Lo statuto dell'Universita' di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 189 - all'elenco degli insegnamenti complementari nel corso di laurea in farmacia sono aggiunti i seguenti:  
+chimica delle sostanze naturali;  
+endocrinologia;  
+neurochimica.  
+Art. 191 - il primo comma del su indicato articolo e' soppresso e sostituito dal seguente:  
+"L'insegnamento biennale di chimica farmaceutica e tossicologica importa un esame al termine di ogni anno e quello triennale di esercitazioni di chimica farmaceutica e tossicologica importa ugualmente un esame al termine di ciascun anno di corso.  
+L'insegnamento biennale di fisiologia generale importa un esame al termine di ogni anno di corso".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1975
+### Dato a Roma, addi' 19 giugno 1978
 
-LEONE MALFATTI
+p. Il Presidente della Repubblica Il Presidente del Senato FANFANI PEDINI
 
 Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 30 marzo 1976
+Registrato alla Corte dei conti, addi' 27 ottobre 1978
 
-Atti di Governo, registro n. 4, foglio n. 38
+Registro n. 115 Istruzione, foglio n. 370

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 271
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1985 n. 192
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 271
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1985 n. 192
+===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
 -----------------------------------------------------------------------------------------------------
@@ -10,10 +10,11 @@ Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad ac
 Art. 1
 ------
 
-n.
+N.
 
-271. Decreto del Presidente della Repubblica 10 marzo 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, con beneficio d'inventario, l'eredita' consistente nella quota di 1/2 di saldo conti correnti, titoli obbligazionari ed azionari per un totale di lire 75.370.464, quota 1/2 L. 37.675.232, disposta dal signor Tagliafico Achille con testamento olografo 15 marzo 1974, pubblicato in data 27 ottobre 1978, n. 1571 di repertorio, a rogito dott. Ulderico Brambilla, notaio in Milano, registrato a Milano in data 8 novembre 1978 al n. 18988.  
+192. Decreto del Presidente della Repubblica 25 febbraio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in un fabbricato con annesso terreno sito in Serina (Bergamo), via Cavagna n. 157, iscritto nel nuovo catasto edilizio urbano alla partita n. 5, mappale 723, valore L. 9.500.000, e in beni mobili come da inventario per un valore di L. 4.077.666. I suindicati beni, per un valore complessivo di L. 13.577.666, sono gravati di usufrutto a favore dei coniugi Gabba di Milano.  
+L'eredita' e' stata disposta dal sig. Libero Santo con testamento olografo 29 dicembre 1971, pubblicato in data 5 gennaio 1973, n. 14720 di repertorio, a rogito dott. Ferruccio Brambilla, notaio in Milano, registrato a Busto Arsizio in data 29 gennaio 1973 al n. 430.   
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 6 giugno 1986  
-Registro n. 5 Presidenza, foglio n. 84
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 2 maggio 1985   
+Registro n. 4 Presidenza, foglio n. 91

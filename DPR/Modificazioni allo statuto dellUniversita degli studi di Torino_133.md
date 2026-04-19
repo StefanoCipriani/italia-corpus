@@ -1,61 +1,74 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1980 n. 1047
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1963 n. 2185
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1980 n. 1047
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1963 n. 2185
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Torino e convalidati dal Consiglio universitario nazionale nei suoi pareri;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Lo statuto dell'Universita' di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-L'art. 204, relativo alla scuola di specializzazione in odontostomatologia, e' integrato con il seguente nuovo comma:  
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e modificato con regio decreto 13 ottobre 127, n. 2758, e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1651](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1651), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica Istruzione;   
   
-Ogni iscritto deve provvedere al corredo personale di strumenti per le esercitazioni.  
-
-Art. 2
-------
-
+Decreta:   
   
-L'art. 288, settimo comma, dello statuto dell'Universita' di Torino di cui al [decreto del Presidente della Repubblica 10 ottobre 1977, n. 1129](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-10-10;1129), relativo alla scuola di specializzazione in neuropsichiatria infantile, e' modificato nel senso che la parola "internato" e' sostituita con "frequenza".  
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 37. - All'elenco degli insegnamenti complementari del corso di laurea in Chimica, sia per l'indirizzo organico biologico che per l'indirizzo inorganico-chimico-fisico, e' aggiunto quello di: "Chimica fisica tecnica".   
+Art. 38. - All'elenco degli insegnamenti complementari del corso di laurea in Chimica industriale e' aggiunto quello di "Chimica fisica tecnica".   
+Art. 44. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti i seguenti:   
+Statistica e biometria;   
+Sedimentologia;   
+Geologia regionale;   
+Vulcanologia;   
+Idrobiologia e pescicoltura;   
+Citologia;   
+Cristallochimica;   
+Entomologia;   
+Micro-paleontologia;   
+Mineralogia applicata.   
+Art. 46. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti i seguenti:   
+Biologia molecolare;   
+Cristallografia;   
+Endocrinologia comparata;   
+Fisiologia cellulare;   
+Paleobotanica;   
+Radiobiologia;   
+Idrobiologia e pescicoltura;   
+Entomologia;   
+Farmacologia;   
+Biometria.   
+Art. 48. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze geologiche sono aggiunti i seguenti:   
+Vulcanologia;   
+Geologia degli idrocarburi;   
+Geologia stratigrafica;   
+Geotecnica;   
+Mineralogia sistematica;   
+Petrografia applicata;   
+Paleobotanica.   
+Art. 56. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze agrarie e' aggiunto quello di: "Fisiopatologia vegetale" (semestrale).   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1980
+### Dato a Roma, addi' 31 dicembre 1963
 
-PERTINI BODRATO
+SEGNI GUI
 
-Visto, il Guardasigilli: SARTI
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 7 febbraio 1981
+Registrato alla Corte dei conti, addi' 13 febbraio 1964
 
-Registro n. 12 Istruzione, foglio n. 279
+Atti del Governo, registro n. 181, foglio n. 2. - VILLA

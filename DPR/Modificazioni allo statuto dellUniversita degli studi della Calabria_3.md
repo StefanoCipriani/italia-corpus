@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 631
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 716
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 631
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 716
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi della Calabria.
@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto dell'Universita' della Calabria, approvato con [decreto del Presidente della Repubblica 1 dicembre 1971, n. 1329](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-12-01;1329), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -39,18 +39,24 @@ Articolo unico
 --------------
 
   
-Nell'art. 57 e nella tabella G, all'elenco degli insegnamenti afferenti al dipartimento di organizzazione aziendale e amministrazione pubblica, e' aggiunto il seguente nuovo insegnamento: diritto costituzionale italiano e comparato.  
+All'elenco degli insegnamenti del dipartimento di strutture di cui all'art. 51 e alla tabella B1 (allegata all'art. 30), e' aggiunto il seguente nuovo insegnamento:  
+meccanica dei continui.  
+All'elenco degli insegnamenti del dipartimento di difesa del suolo di cui all'art. 53 e alla tabella Cl (allegata all'art. 30), sono aggiunti i seguenti nuovi insegnamenti:  
+infrastrutture idrauliche;  
+complementi di costruzioni idrauliche.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 luglio 1983
+### Dato a Roma, addi' 17 maggio 1986
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 25 ottobre 1983
+Registrato alla Corte dei conti, addi' 14 ottobre 1986
 
-Registro n. 67 Istruzione, foglio n. 46
+Registro n. 76 Istruzione, foglio n. 364

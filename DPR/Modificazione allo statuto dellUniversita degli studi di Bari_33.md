@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 agosto 1982 n. 832
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1984 n. 559
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 agosto 1982 n. 832
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1984 n. 559
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Bari.
@@ -39,18 +39,20 @@ Articolo unico
 --------------
 
   
-Nell'art. 130, relativo al corso di laurea in ingegneria, nell'elenco degli insegnamenti complementari l'insegnamento di trazione termica ed elettrica muta la denominazione in sistemi di trazione e trasporto terrestre.  
+Art. 7 - all'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti i seguenti insegnamenti:  
+diritto penale del lavoro;  
+diritto dell'esecuzione penale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 agosto 1982
+### Dato a Roma, addi' 11 maggio 1984
 
-PERTINI BODRATO
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 29 ottobre 1982
+Registrato alla Corte dei conti, addi' 24 agosto 1984
 
-Registro n. 121 Istruzione, foglio n. 61
+Registro n. 51 Istruzione, foglio n. 73

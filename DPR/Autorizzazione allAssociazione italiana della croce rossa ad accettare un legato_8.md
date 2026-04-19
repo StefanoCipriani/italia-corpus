@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 giugno 1973 n. 531
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1973 n. 680
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 giugno 1973 n. 531
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1973 n. 680
 =============================================================
 
 Autorizzazione all'Associazione italiana della croce rossa ad accettare un legato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-531. Decreto del Presidente della Repubblica 26 giugno 1973, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana della croce rossa viene autorizzata ad accettare il legato di L. 2.000.000, disposto dalla sig.ra Lavarello Rosa, vedova Cilea, con testamento olografo, pubblicato per rogito del notaio Giuseppe Moro di Genova in data 3 dicembre 1970, n. 62362 rep., a favore del sottocomitato della Croce rossa italiana di Varazze.  
+680. Decreto del Presidente della Repubblica 11 giugno 1973, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana della croce rossa viene autorizzata ad accettare il legato di L. 1.000.000, disposto dal dott. Bruno Pertici con testamento olografo, pubblicato il 2 maggio 1970, n. 16893 di rep. a rogito notaio Vincenzo Tavassi di Certaldo, a favore del sottocomitato C.R.I. di Certaldo.  
   
 Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 31 agosto 1973  
-Atti di Governo, registro n. 259, foglio n. 90. - VALENTINI
+Registrato alla Corte dei conti, addi' 7 novembre 1973  
+Atti di Governo, registro n. 262, foglio n. 12. - VALENTINI

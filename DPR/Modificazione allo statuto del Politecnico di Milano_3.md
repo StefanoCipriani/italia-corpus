@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1070
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 967
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1070
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 967
+==============================================================
 
 Modificazione allo statuto del Politecnico di Milano.
 -----------------------------------------------------
@@ -39,13 +39,12 @@ Articolo unico
 --------------
 
   
-Nell'art. 29, all'elenco degli insegnamenti complementari della facolta' di ingegneria, e' aggiunto l'insegnamento di "materiali polimerici".  
-  
+Art. 29 - nell'elenco degli insegnamenti complementari della facolta' di ingegneria e' inserito l'insegnamento di "principi di bioingegneria".  
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 dicembre 1985
+### Dato a Roma, addi' 31 ottobre 1985
 
 COSSIGA
 
@@ -53,6 +52,6 @@ FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 29 aprile 1986
+Registrato alla Corte dei conti, addi' 20 marzo 1986 Registro n. 18
 
-Registro n. 34 Istruzione, foglio n. 115
+Istruzione, foglio n. 71

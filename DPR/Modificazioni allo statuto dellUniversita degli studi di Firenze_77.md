@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1981 n. 940
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 febbraio 1981 n. 266
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1981 n. 940
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 febbraio 1981 n. 266
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2330](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2330), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -37,26 +37,46 @@ Art. 1
 ------
 
   
-All'art. 32, relativo all'elenco degli istituti della facolta' di economia e commercio, l'istituto di matematica attuariale muta la denominazione in quella di "istituto di matematica applicata alle scienze economiche e sociali".  
+All'art. 30, relativo al corso di laurea in economia e commercio, sono aggiunti i seguenti insegnamenti complementari:  
+contabilita' industriale;  
+diritto agrario;  
+diritto e legislazione bancaria;  
+diritto sindacale;  
+economia e politica industriale;  
+matematica per le scienze economiche e sociali;  
+statistica metodologica;  
+storia economica medioevale;  
+tecnica professionale;  
+tecnologia dei cicli produttivi.  
+Nello stesso articolo sono soppressi i seguenti insegnamenti complementari:  
+analisi di mercato;  
+diritto e procedura civile;  
+diritto internazionale pubblico e privato;  
+diritto delle assicurazioni private e sociali;  
+sociologia;  
+storia della ragioneria;  
+storia delle teorie monetarie;  
+tecnica amministrativa delle imprese pubbliche;  
+economia dei trasporti;  
+economia e finanza delle imprese di assicurazione.  
 
 Art. 2
 ------
 
   
-All'art. 324, relativo alla scuola - diretta a fini speciali - per terapisti della riabilitazione, dopo le parole "il direttore del centro di rieducazione motoria "A. Torrigiani" della C.R.I. di Firenze" sono aggiunte le seguenti: "il direttore del centro di riabilitazione e terapia occupazionale "I Fraticini I.N.R.C.A." di Firenze".  
-All'art. 326, al quarto comma, nell'elenco degli istituti nei quali puo' essere eseguito il tirocinio pratico e' aggiunto il seguente istituto:  
-7) centro di riabilitazione e terapia occupazionale "I Fraticini" di Firenze.  
+All'art. 32 l'istituto di matematica attuariale cambia denominazione in "istituto di matematica applicata alle scienze economiche e sociali".  
+Nello stesso articolo e' inserito il "centro di calcolo elettronico".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1981
+### Dato a Roma, addi' 3 febbraio 1981
 
 PERTINI BODRATO
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: SARTI
 
-Registrato alla Corte dei conti, addi' 9 febbraio 1952
+Registrato alla Corte dei conti, addi' 25 maggio 1981
 
-Registro n. 20 Istruzione, foglio n. 203
+Registro n. 48 Istruzione, foglio n. 296

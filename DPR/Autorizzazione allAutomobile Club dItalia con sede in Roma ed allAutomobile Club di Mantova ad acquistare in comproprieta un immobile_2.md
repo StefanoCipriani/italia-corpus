@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 marzo 1966 n. 198
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 marzo 1966 n. 192
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 marzo 1966 n. 198
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 marzo 1966 n. 192
 ============================================================
 
 Autorizzazione all'Automobile Club d'Italia, con sede in Roma, ed all'Automobile Club di Mantova ad acquistare in comproprieta' un immobile.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-198. Decreto del Presidente della Repubblica 3 marzo 1966, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile Club d'Italia, con sede in Roma, e l'Automobile Club di Mantova vengono autorizzati ad acquistare in comproprieta' dalla societa' a responsabilita' limitata "Dyadema s. r. l.", con sede in Verona, per il prezzo di lire 68.000.000, la porzione immobiliare costituita da vani al piano scantinato, piano terra e piano ammezzato, per complessivi mq. 526 circa, facente parte del fabbricato sito in Mantova alla piazza 800 Reggimento Fanteria numeri 12, 13 e 14, censito alla sezione A, fol. V, mappale 310/ b sub 5, da adibire a nuova sede dei propri uffici.  
+192. Decreto del Presidente della Repubblica 8 marzo 1966, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile Club d'Italia, con sede in Roma, e l'Automobile Club di Mantova vengono autorizzati ad acquistare in comproprieta' dalla societa' a responsabilita' limitata "Dyadema s.r.l.", con sede in Verona, per il prezzo di L. 5.000.000, il vano con relativo servizio posto al piano interrato del fabbricato sito in Mantova in fregio alla piazza 80° Reggimento Fanteria ed alla via Alberto Mario, censito alla sez. A, fol. V, mappale n. 310/B sub 69, per l'ampliamento della sede dei propri uffici.  
   
 Visto, il Guardasigilli: REALE  
 Registrato alla Corte dei conti, addi' 13 aprile 1966  
-Atti del Governo, registro n. 202, foglio n. 124. - VILLA
+Atti del Governo, registro n. 2 foglio n. 135. - VILLA

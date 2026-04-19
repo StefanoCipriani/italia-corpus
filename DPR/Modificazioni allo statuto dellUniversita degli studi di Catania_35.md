@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 agosto 1986 n. 985
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 marzo 1973 n. 556
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 agosto 1986 n. 985
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 marzo 1973 n. 556
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Catania.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,92 +18,358 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta, intese ad ottenere l'istituzione del corso di laurea in chimica e tecnologia farmaceutiche;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Considerato che e' tuttora in atto la sperimentazione organizzativa e didattica di cui agli [articoli 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art81) - [93 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art93);
-
-Considerato che le tabelle dell'ordinamento didattico universitario relative ai corsi di laurea sono in fase di riordinamento per effetto di apposite commissioni di studio, e che anzi alcune tabelle sono state gia' riordinate;
-
-Rilevata la necessita' di accogliere la richiesta dell'Universita' di Catania di istituire il corso di laurea in chimica e tecnologia farmaceutiche, allo scopo di riequilibrare le iscrizioni presso gli omonimi corsi di laurea degli altri Atenei, al fine di assicurare una migliore formazione degli studenti, e quindi, la necessita' di accogliere la richiesta stessa in deroga al termine triennale di cui all'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
 Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+L'art. 157, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che la scuola in "Chirurgia generale" muta la denominazione in quella di "Chirurgia".
 
+Allo stesso elenco e' aggiunta la scuola in "Neurologia".
+
+Gli articoli 190 e 191, relativi alla "Scuola di specializzazione in chirurgia generale", che assume la denominazione di "Scuola di specializzazione in chirurgia", sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in chirurgia
+
+Art. 190. - La scuola di specializzazione in chirurgia conferisce il diploma di specialista in chirurgia.
+
+Gli anni necessari per il conseguimento del diploma sono cinque.
+
+Le materie di corso sono cosi' suddivise:
+
+1° Anno:
+
+Clinica chirurgica generale;
+
+Patologia speciale chirurgica;
+
+Semeiotica chirurgica;
+
+Anatomia chirurgica e corso di operazioni;
+
+Chirurgia sperimentale;
+
+Anestesia e rianimazione;
+
+Ricerche di laboratorio.
+
+2° Anno:
+
+Clinica chirurgica generale;
+
+Patologia speciale chirurgica;
+
+Semeiotica chirurgica;
+
+Anatomia chirurgica e corso di operazioni;
+
+Fisiopatologia chirurgica;
+
+Trattamento pre e post-operatorio;
+
+Anatomia e istologia patologica.
+
+3° Anno:
+
+Clinica chirurgica generale;
+
+Patologia speciale chirurgica;
+
+Semeiotica strumentale ed endoscopia;
+
+Anatomia chirurgica e corso di operazioni;
+
+Radiologia;
+
+Anatomia ed istologia patologica.
+
+4° Anno:
+
+Clinica chirurgica generale;
+
+Chirurgia ginecologica;
+
+Chirurgia urologica;
+
+Neurochirurgia;
+
+Traumatologia ed ortopedia;
+
+Chirurgia pediatrica.
+
+5° Anno:
+
+Clinica chirurgica generale;
+
+Chirurgia toracica;
+
+Chirurgia cardiovascolare;
+
+Chirurgia riparatrice e plastica;
+
+Chirurgia d'urgenza;
+
+Medicina legale.
+
+Art. 191. - Alla scuola possono essere ammessi sedici iscritti per ogni anno di corso (totale: ottanta iscritti).
+
+La selezione dei candidati aspiranti all'ammissione alla scuola avverra' sulla base di titoli ed esami.
+
+Non sono consentite iscrizioni con abbreviazioni di corso.
+
+La frequenza alle lezioni ed alle esercitazioni e' obbligatoria per tutti gli iscritti.
+
+L'internato e' obbligatorio durante tutti i cinque anni del corso e si svolgera' presso la clinica chirurgica sotto forma di permanenza costante nella detta clinica durante le ore della sua attivita', con presenza giornaliera agli ambulatori ed ai reparti di degenza.
+
+Dall'obbligo di tale internato saranno esentati quegli allievi che, in qualita' di assistenti ed aiuti, prestino effettivamente servizio presso reparti di chirurgia generale delle universita' e di ospedali di 1° e 2° categoria.
+
+Gli allievi hanno doveri ed attribuzioni analoghi a quelli degli assistenti.
+
+La frequenza nelle sale operatorie iniziera' fin dal primo anno di corso e, dopo un periodo di tirocinio, dovra' trasformarsi in compartecipazione attiva agli interventi operatori.
+
+Per i corsi che non siano della clinica chirurgica generale, possono essere stabiliti, su parere del direttore della scuola, periodi di continuativa frequenza presso i relativi reparti specialistici, qualora esistano quali reparti indipendenti.
+
+Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico dell'operosita' scolastica degli allievi, con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno.
+
+L'allievo che non abbia ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali.
+
+Alla fine del corso l'allievo, inoltre, dovra' sostenere un esame generale di profitto.
+
+Dopo l'art. 213 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in neurologia.
+
+Scuola di specializzazione in neurologia
+
+Art. 214. - Ammissioni per titoli ed esami. Abbuoni: anni due per gli specialisti in psichiatria, neuropsichiatria infantile e neurochirurgia. Anni uno per gli specialisti in discipline affini. In ogni caso gli abbuoni possono essere concessi solo dopo aver superato un esame di ammissione.
+
+Art. 215. - Numero degli iscritti per ogni anno di corso: dieci.
+
+Art. 216. - Internato per II, III, IV corso obbligatorio per l'intero anno scolastico in neurologia, sede della scuola.
+
+Tale internato potra' essere ridotto a non meno di mesi 4 all'anno per i medici che prestano regolare servizio in divisioni neurologiche.
+
+Internato in psichiatria per il I corso, obbligatorio per l'intero anno scolastico.
+
+Tale internato potra' essere ridotto a non meno di 6 mesi per i medici che prestano regolare servizio in divisioni neurologiche, e a 4 mesi per quelli che prestano regolare servizio in O.P.
+
+Art. 217. - Esami obbligatori per il passaggio nell'anno successivo.
+
+Materie d'insegnamento:
+
+1° Anno:
+
+Anatomia del sistema nervoso;
+
+Fisiologia del sistema nervoso;
+
+Biochimica del sistema nervoso;
+
+Genetica (elementi);
+
+Psicologia generale;
+
+Psicopatologia generale;
+
+Semeiotica psichiatrica.
+
+2° Anno:
+
+Anatomia e istologia del sistema nervoso;
+
+Semeiotica neurologica;
+
+Patologia speciale e diagnostica neurologica (I);
+
+Neuroradiologia;
+
+Endocrinologia e neurologia vegetativa.
+
+3° Anno:
+
+Patologia speciale e diagnostica neurologica (II);
+
+Clinica neurologica;
+
+Elettroencefalografia;
+
+Elettromiografia, elettrodiagnostica ed elettroterapia;
+
+Neuro-oftalmologia;
+
+Neuro-otologia;
+
+Esami di laboratorio.
+
+4° Anno:
+
+Clinica neurologica e terapia;
+
+Neurochirurgia;
+
+Teoria e clinica della riabilitazione;
+
+Neurologia in rapporto con la patologia internistica;
+
+Neurotraumatologia anche sotto l'aspetto della medicina legale.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 15 marzo 1973
+
+LEONE
+
+SCALFARO
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 13 settembre 1973 Atti di Governo, registro n. 260, foglio n. 13, - VALENTINI
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-L'art. 80, relativo alla laurea che conferisce la facolta' di farmacia, e' soppresso e cosi' sostituito:  
-Art. 80. - La facolta' di farmacia conferisce la laurea in:  
-a) farmacia;  
-b) chimica e tecnologia farmaceutiche.  
-Dopo l'art. 87, con il conseguente scorrimento della numerazione degli articoli successivi, e' inserito il seguente articolo, relativo all'ordinamento degli studi del corso di laurea in chimica e tecnologia farmaceutiche:  
-Art. 88. - La durata del corso degli studi per la laurea in chimica e tecnologia farmaceutiche e' di cinque anni divisi in un biennio ed in un triennio.  
-I titoli di ammissione sono quelli previsti dalle vigenti disposizioni di legge.  
-Sono insegnamenti fondamentali:  
-Biennio:  
-1) analisi chimico-farmaceutica I (analisi qualitativa);  
-\* 2) anatomia umana;  
-\* 3) botanica farmaceutica;  
-\* 4) chimica fisica;  
-5) chimica generale ed inorganica;  
-\*\*6) chimica organica I;  
-7) fisica;  
-8) fisiologia generale;  
-\* 9) istituzioni di matematiche;  
-10) microbiologia e igiene.  
-Triennio:  
-11) analisi chimico-farmaceutica II (analisi quantitativa);  
-12) analisi chimico-farmaceutica III (analisi dei medicamenti);  
-13) biochimica applicata;  
-14) chimica biologica;  
-15) chimica degli alimenti;  
-\* 16) chimica farmaceutica applicata;  
-\* 17) chimica farmaceutica e tossicologica I;  
-\* 18) chimica farmaceutica e tossicologica II;  
-\*\*19) chimica organica II;  
-\* 20) farmacologia e farmacognosia;  
-21) impianti dell'industria farmaceutica;  
-22) laboratorio di preparazione estrattiva e sintetica dei farmaci;  
-23) metodi fisici in chimica organica;  
-24) saggi e dosaggi farmacologici;  
-\* 25) tecnica e legislazione farmaceutica.  
-Sono insegnamenti complementari:  
-\* chimica tossicologica;  
-chimica delle fermentazioni e microbiologia industriale;  
-chimica dei prodotti cosmetici;  
-chimica dei prodotti dietetici;  
-chimica analitica;  
-impianti per laboratori galenici.  
-Le materie segnate con un asterisco sono comuni alla laurea in farmacia, quelle con due asterischi sono comuni alla laurea in chimica.  
-Per sostenere gli esami del triennio lo studente deve aver superato tutti gli esami degli insegnamenti fissati per i due anni precedenti.  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato tutti gli esami dei corsi fondamentali e almeno due esami a scelta fra i corsi complementari.  
-La prova di laurea comporta la discussione di una tesi sperimentale.  
-Per essere ammesso a sostenere l'esame di Stato per l'esercizio della professione di farmacista, il laureato in chimica e tecnologia farmaceutiche deve aver compiuto un semestre di pratica professionale preso una farmacia oppure un trimestre presso una industria farmaceutica ed un trimestre presso una farmacia.  
-Il periodo di pratica professionale dovra' avere inizio dopo il conseguimento del titolo accademico.  
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+L'art. 157, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che la scuola in "Chirurgia generale" muta la denominazione in quella di "Chirurgia".  
+Allo stesso elenco e' aggiunta la scuola in "Neurologia".  
+Gli articoli 190 e 191, relativi alla "Scuola di specializzazione in chirurgia generale", che assume la denominazione di "Scuola di specializzazione in chirurgia", sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in chirurgia  
+  
+Art. 190. - La scuola di specializzazione in chirurgia conferisce il diploma di specialista in chirurgia.  
+Gli anni necessari per il conseguimento del diploma sono cinque.  
+Le materie di corso sono cosi' suddivise:  
+  
+1° Anno:  
+Clinica chirurgica generale;  
+Patologia speciale chirurgica;  
+Semeiotica chirurgica;  
+Anatomia chirurgica e corso di operazioni;  
+Chirurgia sperimentale;  
+Anestesia e rianimazione;  
+Ricerche di laboratorio.  
+  
+2° Anno:  
+Clinica chirurgica generale;  
+Patologia speciale chirurgica;  
+Semeiotica chirurgica;  
+Anatomia chirurgica e corso di operazioni;  
+Fisiopatologia chirurgica;  
+Trattamento pre e post-operatorio;  
+Anatomia e istologia patologica.  
+  
+3° Anno:  
+Clinica chirurgica generale;  
+Patologia speciale chirurgica;  
+Semeiotica strumentale ed endoscopia;  
+Anatomia chirurgica e corso di operazioni;  
+Radiologia;  
+Anatomia ed istologia patologica.  
+  
+4° Anno:  
+Clinica chirurgica generale;  
+Chirurgia ginecologica;  
+Chirurgia urologica;  
+Neurochirurgia;  
+Traumatologia ed ortopedia;  
+Chirurgia pediatrica.  
+  
+5° Anno:  
+Clinica chirurgica generale;  
+Chirurgia toracica;  
+Chirurgia cardiovascolare;  
+Chirurgia riparatrice e plastica;  
+Chirurgia d'urgenza;  
+Medicina legale.  
+  
+Art. 191. - Alla scuola possono essere ammessi sedici iscritti per ogni anno di corso (totale: ottanta iscritti).  
+La selezione dei candidati aspiranti all'ammissione alla scuola avverra' sulla base di titoli ed esami.  
+Non sono consentite iscrizioni con abbreviazioni di corso.  
+La frequenza alle lezioni ed alle esercitazioni e' obbligatoria per tutti gli iscritti.  
+L'internato e' obbligatorio durante tutti i cinque anni del corso e si svolgera' presso la clinica chirurgica sotto forma di permanenza costante nella detta clinica durante le ore della sua attivita', con presenza giornaliera agli ambulatori ed ai reparti di degenza.  
+Dall'obbligo di tale internato saranno esentati quegli allievi che, in qualita' di assistenti ed aiuti, prestino effettivamente servizio presso reparti di chirurgia generale delle universita' e di ospedali di 1° e 2° categoria.  
+Gli allievi hanno doveri ed attribuzioni analoghi a quelli degli assistenti.  
+La frequenza nelle sale operatorie iniziera' fin dal primo anno di corso e, dopo un periodo di tirocinio, dovra' trasformarsi in compartecipazione attiva agli interventi operatori.  
+Per i corsi che non siano della clinica chirurgica generale, possono essere stabiliti, su parere del direttore della scuola, periodi di continuativa frequenza presso i relativi reparti specialistici, qualora esistano quali reparti indipendenti.  
+Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico dell'operosita' scolastica degli allievi, con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno.  
+L'allievo che non abbia ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali.  
+Alla fine del corso l'allievo, inoltre, dovra' sostenere un esame generale di profitto.  
+Dopo l'art. 213 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in neurologia.  
+  
+Scuola di specializzazione in neurologia  
+  
+Art. 214. - Ammissioni per titoli ed esami. Abbuoni: anni due per gli specialisti in psichiatria, neuropsichiatria infantile e neurochirurgia. Anni uno per gli specialisti in discipline affini. In ogni caso gli abbuoni possono essere concessi solo dopo aver superato un esame di ammissione.  
+Art. 215. - Numero degli iscritti per ogni anno di corso: dieci.  
+Art. 216. - Internato per II, III, IV corso obbligatorio per l'intero anno scolastico in neurologia, sede della scuola.  
+Tale internato potra' essere ridotto a non meno di mesi 4 all'anno per i medici che prestano regolare servizio in divisioni neurologiche.  
+Internato in psichiatria per il I corso, obbligatorio per l'intero anno scolastico.  
+Tale internato potra' essere ridotto a non meno di 6 mesi per i medici che prestano regolare servizio in divisioni neurologiche, e a 4 mesi per quelli che prestano regolare servizio in O.P.  
+Art. 217. - Esami obbligatori per il passaggio nell'anno successivo.  
+Materie d'insegnamento:  
+  
+1° Anno:  
+Anatomia del sistema nervoso;  
+Fisiologia del sistema nervoso;  
+Biochimica del sistema nervoso;  
+Genetica (elementi);  
+Psicologia generale;  
+Psicopatologia generale;  
+Semeiotica psichiatrica.  
+  
+2° Anno:  
+Anatomia e istologia del sistema nervoso;  
+Semeiotica neurologica;  
+Patologia speciale e diagnostica neurologica (I);  
+Neuroradiologia;  
+Endocrinologia e neurologia vegetativa.  
+  
+3° Anno:  
+Patologia speciale e diagnostica neurologica (II);  
+Clinica neurologica;  
+Elettroencefalografia;  
+Elettromiografia, elettrodiagnostica ed elettroterapia;  
+Neuro-oftalmologia;  
+Neuro-otologia;  
+Esami di laboratorio.  
+  
+4° Anno:  
+Clinica neurologica e terapia;  
+Neurochirurgia;  
+Teoria e clinica della riabilitazione;  
+Neurologia in rapporto con la patologia internistica;  
+Neurotraumatologia anche sotto l'aspetto della medicina legale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 agosto 1986
+### Dato a Roma, addi' 15 marzo 1973
 
-COSSIGA
+LEONE SCALFARO
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: GONELLA
 
-Visto, il Guardasigilli: ROGNONI
+Registrato alla Corte dei conti, addi' 13 settembre 1973
 
-Registrato alla Corte dei conti, addi' 20 gennaio 1987
-
-Registro n. 2 Istruzione, foglio n. 65
+Atti di Governo, registro n. 260, foglio n. 13, - VALENTINI

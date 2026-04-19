@@ -1,118 +1,370 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1963 n. 621
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1163
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1963 n. 621
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1163
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+All'art. 151, relativo alle lauree rilasciate dalla facolta' di farmacia, sono aggiunte le seguenti parole: "e in chimica e tecnologia farmaceutiche".
+
+Dopo l'art. 158, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi alla istituzione del corso di laurea in chimica e tecnologia farmaceutiche.
+
+Corso di laurea in chimica e tecnologia farmaceutiche
+
+Art. 159. - La durata del corso degli studi per la laurea in chimica e tecnologia farmaceutiche e' di cinque anni, divisi in un biennio di studi propedeutici e in un triennio di applicazione.
+
+I titoli di ammissione sono quelli previsti dalle vigenti disposizioni di legge.
+
+Nel biennio di studi propedeutici sono insegnamenti fondamentali:
+
+1) anatomia umana(\*);
+
+2) botanica farmaceutica (\*);
+
+3) chimica generale ed inorganica (\*);
+
+4) fisica;
+
+5) istituzioni di matematiche (\*);
+
+6) chimica fisica (\*);
+
+7) chimica organica I (\*\*);
+
+8) fisiologia generale;
+
+9) microbiologia ed igiene;
+
+10) analisi chimico-farmaceutica I (analisi qualitativa).
+
+Nel triennio di studi di applicazione sono insegnamenti fondamentali:
+
+1) chimica biologica (\*);
+
+2) chimica farmaceutica e tossicologica I (\*);
+
+3) chimica farmaceutica e tossicologica II (\*);
+
+4) chimica organica II (\*\*);
+
+5) chimica degli alimenti (\*);
+
+6) metodi fisici in chimica organica;
+
+7) analisi chimico-farmaceutica II (analisi quantitativa);
+
+8) farmacologia e farmacognosia (\*);
+
+9) tecnica e legislazione farmaceutica (\*);
+
+10) biochimica applicata (\*);
+
+11) analisi chimico-farmaceutica III (analisi dei medicamenti);
+
+12) saggi e dosaggi farmacologici;
+
+13) chimica farmaceutica applicata (\*);
+
+14) impianti dell'industria farmaceutica;
+
+15) laboratori di preparazione estrattiva e sintetica dei farmaci.
+
+Sono insegnamenti complementari:
+
+1) biofarmacia (\*);
+
+2) biologia molecolare;
+
+3) biopolimeri;
+
+4) chemioterapia;
+
+5) chimica analitica (\*);
+
+6) chimica biofarmaceutica (\*);
+
+7) chimica clinica (\*);
+
+8) chimica degli eterocicli;
+
+9) chimica dei prodotti cosmetici;
+
+10) chimica dei prodotti dietetici;
+
+11) chimica delle fermentazioni e microbiologia industriale;
+
+12) chimica delle sostanze organiche naturali;
+
+13) chimica terapeutica (\*);
+
+14) chimica tossicologica industriale (\*);
+
+15) complementi di chimica organica;
+
+16) enzimologia;
+
+17) farmacia industriale (\*);
+
+18) farmacia veterinaria;
+
+19) farmacognosia;
+
+20) farmacologia molecolare;
+
+21) fitofarmaci;
+
+22) inglese scientifico;
+
+23) istituzioni di patologia generale;
+
+24) microchimica (\*);
+
+25) radiochimica;
+
+26) sintesi speciali organiche;
+
+27) statistica e biometria.
+
+Le materie segnate con asterisco sono comuni alla laurea in farmacia, quelle segnate con due asterischi sono comuni alla laurea in chimica.
+
+Art. 160. - Per ottenere l'iscrizione al terzo anno di corso lo studente deve aver superato tutti i 10 esami previsti nel primo biennio. Inoltre lo studente non puo' iscriversi al laboratorio del primo corso di analisi chimico-farmaceutica se non ha superato l'esame di chimica generale ed inorganica; pertanto non puo' ottenere la frequenza al suddetto corso.
+
+Lo studente non puo' iscriversi al laboratorio del terzo corso di analisi chimico-farmaceutica se non ha superato l'esame di chimica organica 1; pertanto non puo' ottenere la frequenza al suddetto corso.
+
+Dovranno inoltre essere osservate le seguenti precedenze:
+
+Lo studente non puo' essere ammes- Se non ha superato l'esame di: so a sostenere l'esame di:
+
+chimica organica I chimica generale ed inorganica
+
+chimica fisica chimica generale ed inorganica + fisica + istituzioni di matema- tiche
+
+chimica farmaceutica e chimica organica I
+
+tossicologica I
+
+fisiologia anatomia umana
+
+farmacologia e farmacognosia fisiologia
+
+chimica biologica chimica organica I
+
+saggi e dosaggi farmaco- farmacologia e farmaco
+
+logici gnosia
+
+tecnica e legislazione far- chimica farmaceutica e tos-
+
+maceutica sicologica I
+
+impianti dell'industria chimica farmaceutica e tos
+
+farmaceutica sicologica I e II
+
+metodi fisici in chimica fisica + chimica organica I
+
+organica
+
+biochimica applicata chimica biologica
+
+chimica farmaceutica ap- chimica farmaceutica e tos-
+
+plicata sicologica I e II + tec-
+
+nica e legislazione farma-
+
+ceutica
+
+analisi chimico-farmaceu- analisi chimico-farmaceuti-
+
+tica II ca I
+
+analisi chimico-farmaceu- analisi chimico-farmaceuti-
+
+tica III ca II
+
+Art. 161. - Per essere ammesso all'esame di laurea, lo studente deve aver seguito i corsi e superato tutti gli esami dei corsi fondamentali e almeno due esami fra i corsi complementari; deve inoltre presentare una dissertazione scritta, di indole sperimentale.
+
+L'esame di laurea consiste nella discussione pubblica della dissertazione scritta.
+
+Per essere ammesso a sostenere l'esame di Stato il laureato in chimica e tecnologia farmaceutiche dovra' aver fatto un semestre di pratica professionale presso una farmacia oppure un trimestre presso una farmacia e un trimestre presso una industria farmaceutica secondo le modalita' indicate dalla facolta'.
+
+Il periodo di pratica professionale deve essere svolto dopo il conseguimento del titolo accademico.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1977
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 5 aprile 1978 Registro n. 38 Istruzione, foglio n. 305
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 28 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-28;1058), modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Veduta la [legge 26 luglio 1957, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-07-26;741);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Art. 47. - E' abrogato e sostituito dal seguente:  
-"La Facolta' di lettere e filosofia conferisce:  
-la laurea in lettere;  
-la laurea in lingue e letterature straniere moderne (indirizzo europeo);  
-la laurea in filosofia.  
-Dopo l'art. 49 e con il conseguente spostamento della successiva numerazione e' inserito il seguente nuovo articolo, relativo alla istituzione del corso di laurea in lingue e letterature straniere moderne (indirizzo europeo).  
+All'art. 151, relativo alle lauree rilasciate dalla facolta' di farmacia, sono aggiunte le seguenti parole: "e in chimica e tecnologia farmaceutiche".   
+Dopo l'art. 158, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi alla istituzione del corso di laurea in chimica e tecnologia farmaceutiche.   
+Corso di laurea in chimica e tecnologia farmaceutiche   
+Art. 159. - La durata del corso degli studi per la laurea in chimica e tecnologia farmaceutiche e' di cinque anni, divisi in un biennio di studi propedeutici e in un triennio di applicazione.   
+I titoli di ammissione sono quelli previsti dalle vigenti disposizioni di legge.   
+Nel biennio di studi propedeutici sono insegnamenti fondamentali:   
+1) anatomia umana(\*);   
+2) botanica farmaceutica (\*);   
+3) chimica generale ed inorganica (\*);   
+4) fisica;   
+5) istituzioni di matematiche (\*);   
+6) chimica fisica (\*);   
+7) chimica organica I (\*\*);   
+8) fisiologia generale;   
+9) microbiologia ed igiene;   
+10) analisi chimico-farmaceutica I (analisi qualitativa).   
+Nel triennio di studi di applicazione sono insegnamenti fondamentali:   
+1) chimica biologica (\*);   
+2) chimica farmaceutica e tossicologica I (\*);   
+3) chimica farmaceutica e tossicologica II (\*);   
+4) chimica organica II (\*\*);   
+5) chimica degli alimenti (\*);   
+6) metodi fisici in chimica organica;   
+7) analisi chimico-farmaceutica II (analisi quantitativa);   
+8) farmacologia e farmacognosia (\*);   
+9) tecnica e legislazione farmaceutica (\*);   
+10) biochimica applicata (\*);   
+11) analisi chimico-farmaceutica III (analisi dei medicamenti);   
+12) saggi e dosaggi farmacologici;   
+13) chimica farmaceutica applicata (\*);   
+14) impianti dell'industria farmaceutica;   
+15) laboratori di preparazione estrattiva e sintetica dei farmaci.   
+Sono insegnamenti complementari:   
+1) biofarmacia (\*);   
+2) biologia molecolare;   
+3) biopolimeri;   
+4) chemioterapia;   
+5) chimica analitica (\*);   
+6) chimica biofarmaceutica (\*);   
+7) chimica clinica (\*);   
+8) chimica degli eterocicli;   
+9) chimica dei prodotti cosmetici;   
+10) chimica dei prodotti dietetici;   
+11) chimica delle fermentazioni e microbiologia industriale;   
+12) chimica delle sostanze organiche naturali;   
+13) chimica terapeutica (\*);   
+14) chimica tossicologica industriale (\*);   
+15) complementi di chimica organica;   
+16) enzimologia;   
+17) farmacia industriale (\*);   
+18) farmacia veterinaria;   
+19) farmacognosia;   
+20) farmacologia molecolare;   
+21) fitofarmaci;   
+22) inglese scientifico;   
+23) istituzioni di patologia generale;   
+24) microchimica (\*);   
+25) radiochimica;   
+26) sintesi speciali organiche;   
+27) statistica e biometria.   
   
-Art. 49. - La durata del corso di studi per la laurea in Lingue e letterature straniere moderne e' di quattro anni.  
-Titolo di ammissione e' il diploma di maturita' classica.  
-L'indirizzo e' quello europeo e lo scopo precipuo e' quello di dure una conoscenza non solo pratica ma scientifica, non solo letteraria ma glottologica delle lingue europee moderne.  
-Sono insegnamenti fondamentali:  
-1) Letteratura italiana;  
-2) Letteratura latina;  
-3) Glottologia;  
-4) Una lingua e letteratura straniera moderna;  
-5) Una seconda lingua e letteratura straniera moderna;  
-6) Filologia romanza (o germanica, o slava, o ugro-finnica);  
-7) Storia medioevale;  
-8) Storia moderna;  
-9) Storia dell'arte moderna, (o storia dell'arte medioevale e moderna);  
-10) Geografia.  
-Sono insegnamenti complementari (quando non siano scelti come fondamentali ai su indicati numeri 4), 5) e 6):  
-1) Lingua e letteratura francese;  
-2) Lingua e letteratura spagnola;  
-3) Lingua e letteratura portoghese;  
-4) Lingua e letteratura romena;  
-5) Lingua e letteratura inglese;  
-6) Lingua e letteratura tedesca;  
-7) Lingua e letteratura olandese e fiamminga;  
-8) Lingue e letterature scandinave;  
-9) Lingua e letteratura russa;  
-10) Lingua e letteratura polacca;  
-11) Lingua e letteratura cecoslovacca;  
-12) Lingua e letteratura serbo-croata;  
-13) Lingua e letteratura slovena;  
-14) Lingua e letteratura bulgara;  
-15) Lingua e letteratura ungherese;  
-16) Lingua e letteratura neo-greca;  
-17) Lingua e letteratura albanese;  
-18) Una lingua e letteratura moderna dell'Asia e dell'Africa;  
-19) Filologia romanza;  
-20) Filologia germanica;  
-21) Filologia slava;  
-22) Filologia ugro-finnica;  
-23) Letteratura nord-americana;  
-24) Letteratura ispano-americana;  
-25) Storia della lingua italiana;  
-26) Storia, della letteratura italiana moderna e contemporanea;  
-27) Storia delle tradizioni popolari;  
-28) Storia dell'arte medioevale;  
-29) Storia della musica;  
-30) Storia del teatro e dello spettacolo;  
-31) Letteratura greca;  
-32) Lingua e letteratura latina medioevale;  
-33) Storia e filologia bizantina (o Filologia bizantina);  
-34) Storia romana;  
-35) Storia greca;  
-36) Storia della filosofia;  
-37) Storia della filosofia moderna e contemporanea.  
+Le materie segnate con asterisco sono comuni alla laurea in farmacia, quelle segnate con due asterischi sono comuni alla laurea in chimica.   
+Art. 160. - Per ottenere l'iscrizione al terzo anno di corso lo studente deve aver superato tutti i 10 esami previsti nel primo biennio. Inoltre lo studente non puo' iscriversi al laboratorio del primo corso di analisi chimico-farmaceutica se non ha superato l'esame di chimica generale ed inorganica; pertanto non puo' ottenere la frequenza al suddetto corso.   
+Lo studente non puo' iscriversi al laboratorio del terzo corso di analisi chimico-farmaceutica se non ha superato l'esame di chimica organica 1; pertanto non puo' ottenere la frequenza al suddetto corso.   
+Dovranno inoltre essere osservate le seguenti precedenze:   
   
-Lo studente dovra' seguire i corsi e sostenere gli esami in tutti gli insegnamenti fondamentali e in tre insegnamenti da lui scelti fra i complementari. Gli esami dei corsi pluriennali devono essere sostenuti annualmente.  
-Uno degli insegnamenti complementari potra' essere sostituito dallo studente con una disciplina di altri corsi di studio della stessa o di diversa Facolta'.  
-L'insegnamento della lingua e letteratura straniera moderna, alla quale lo studente intende principalmente dedicarsi, dovra' essere seguito per tutti i quattro anni alla fine di ciascuno dei quali egli sara' sottoposto a prove scritte, di anno in anno gradualmente progressive.  
-Dovranno poi essere seguiti per due anni l'insegnamento della filologia a cui quella stessa prima lingua si ricollega e l'insegnamento della seconda lingua e letteratura straniera moderna, prescelta.  
-Due altri insegnamenti fondamentali dovranno essere seguiti per un biennio. Lo studente potra' poi seguire per un biennio anche un altro insegnamento, ed in tal caso potra' ridurre da tre a due gli insegnamenti complementari di sua scelta.  
-Gli esami di Letteratura italiana e di Letteratura latina comprendono una prova scritta preliminare.  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e in tutti gli altri insegnamenti compresi nel piano di studio approvato dal preside.  
-Gli studenti devono iscriversi ai lettorati delle lingue quadriennali e biennali.  
-Se la lingua quadriennale scelta e' francese, spagnolo o romeno, la filologia biennale deve essere la filologia romanza; se la lingua biennale scelta e': tedesco, inglese, olandese, o fiammingo, una delle materie complementari a scelta dovra' essere la filologia germanica; se e' invece una lingua slava, la filologia slava, e cosi' parallelamente sempre la filologia che e' biennale per la lingua quadriennale.  
-Se la lingua quadriennale scelta e': inglese, tedesco, olandese, o fiammingo, la filologia biennale e' quella germanica; se la lingua biennale e': francese, spagnolo o romeno, una delle materie complementari a scelta, dovra' essere la filologia romanza; se la materia quadriennale e' inglese, si raccomanda la filologia romanza anche se la seconda lingua biennale e' diversa dalle romanze.  
-Se la lingua quadriennale scelta e': la russa, polacca, serbo, croata (eventualmente ceca, bulgara), la filologia biennale e' la slava, ma si raccomanda che fra le materie complementari a scelta sia presa la filologia romanza a meno che la seconda lingua non sia una del gruppo germanico, per cui e' raccomandabile la filologia germanica.  
-Se la lingua quadriennale scelta e': l'ungherese. la filologia biennale e' l'ugro-finnica, ma si raccomanda di scegliere fra le materie complementari la. filologia romanza, a meno che la seconda lingua non sia una del gruppo germanico, per cui e' raccomandabile la filologia germanica.  
-Se la lingua quadriennale scelta e': la neo-greca, la filologia biennale e' la bizantina, ma si raccomanda che fra le materie complementari vengano scelte la filologia romanza e la letteratura greca.  
-Se la lingua quadriennale scelta e': l'albanese, la filologia, biennale e' la romanza, ma si raccomanda che fra le materie complementari siano incluse la filologia slava e la filologia bizantina.  
-La tesi di laurea deve essere svolta in una delle letterature quadriennali e deve essere scritta nella lingua rispettiva. Nel caso che questa non sia il francese, spagnolo, tedesco o inglese, deve essere accompagnata da un largo riassunto in italiano.  
+  
+Lo studente non puo' essere ammes- Se non ha superato l'esame di: so a sostenere l'esame di:  
+  
+  
+  
+  
+chimica organica I chimica generale ed inorganica  
+chimica fisica chimica generale ed inorganica + fisica + istituzioni di matema- tiche  
+chimica farmaceutica e chimica organica I  
+tossicologica I  
+fisiologia anatomia umana  
+farmacologia e farmacognosia fisiologia  
+chimica biologica chimica organica I  
+saggi e dosaggi farmaco- farmacologia e farmaco  
+logici gnosia  
+tecnica e legislazione far- chimica farmaceutica e tos-  
+maceutica sicologica I  
+impianti dell'industria chimica farmaceutica e tos  
+farmaceutica sicologica I e II  
+metodi fisici in chimica fisica + chimica organica I  
+organica  
+biochimica applicata chimica biologica  
+chimica farmaceutica ap- chimica farmaceutica e tos-  
+plicata sicologica I e II + tec-  
+nica e legislazione farma-  
+ceutica  
+analisi chimico-farmaceu- analisi chimico-farmaceuti-  
+tica II ca I  
+analisi chimico-farmaceu- analisi chimico-farmaceuti-  
+tica III ca II  
+  
+  
+Art. 161. - Per essere ammesso all'esame di laurea, lo studente deve aver seguito i corsi e superato tutti gli esami dei corsi fondamentali e almeno due esami fra i corsi complementari; deve inoltre presentare una dissertazione scritta, di indole sperimentale.  
+L'esame di laurea consiste nella discussione pubblica della dissertazione scritta.   
+Per essere ammesso a sostenere l'esame di Stato il laureato in chimica e tecnologia farmaceutiche dovra' aver fatto un semestre di pratica professionale presso una farmacia oppure un trimestre presso una farmacia e un trimestre presso una industria farmaceutica secondo le modalita' indicate dalla facolta'.   
+Il periodo di pratica professionale deve essere svolto dopo il conseguimento del titolo accademico.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 marzo 1963
+### Dato a Roma, addi' 31 ottobre 1977
 
-SEGNI GUI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: Bosco
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 29 aprile 1963
+Registrato alla Corte dei conti, addi' 5 aprile 1978
 
-Atti del Governo, registro n. 168, foglio n. 98. - VILLA
+Registro n. 38 Istruzione, foglio n. 305

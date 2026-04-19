@@ -1,131 +1,87 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1174
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1955 n. 760
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1174
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1955 n. 760
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, numero 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con i [regi decreti 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-26;1734); [26 ottobre 1940, n. 2069](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2069); [4 maggio 1942, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-05-04;565); [24 luglio 1942, n. 949](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-24;949); [24 agosto 1942, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-08-24;1098); [24 ottobre 1942, n. 1672, con decreto luogotenenziale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo.luogotenenziale:1942-10-24;1672) [8 febbraio 1946, n. 242, con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-02-08;242) [12 aprile 1947, n. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-04-12;461), e [31 dicembre 1947, n. 1758, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-31;1758) [24 dicembre 1948, n. 1619](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-12-24;1619); [18 luglio 1949, n. 882](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-07-18;882); [20 ottobre 1949, n. 989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;989); [20 ottobre 1949, n. 991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;991);
+
+20 ottobre 1949, n. 1178; 30 ottobre 1949, n. 1152; 11 giugno 1950, n. 622; 16 novembre 1950, n. 1313; 11 maggio 1951, n. 653; 27 ottobre 1951, n. 1813; 14 aprile 1952, n. 888; 16 agosto 1952, n. 2589; 19 settembre 1952, n. 1697; 11 marzo 1953, n. 565; 12 maggio 1953, n. 570; 25 agosto 1953, n. 834; 26 ottobre 1954, n. 1232 e 12 febbraio 1955, n. 34;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 137. - La denominazione dell'insegnamento di "Tecnologia dei materiali dei motori (con esercitazioni di laboratorio)", materia d'insegnamento nella Scuola speciale d'ingegneria aeronautica, e' cosi' modificata:
+
+"Tecnologia dei materiali dei motori e Chimica della combustione".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 19 luglio 1955
+
+GRONCHI
+
+ROSSI
+
+Visto, il Guardasigilli: MORO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 22 agosto 1955 Atti del Governo, registro n. 92, foglio n. 96. - CARLOMAGNO
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, numero 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con i [regi decreti 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-26;1734); [26 ottobre 1940, n. 2069](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2069); [4 maggio 1942, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-05-04;565); [24 luglio 1942, n. 949](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-24;949); [24 agosto 1942, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-08-24;1098); [24 ottobre 1942, n. 1672, con decreto luogotenenziale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo.luogotenenziale:1942-10-24;1672) [8 febbraio 1946, n. 242, con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-02-08;242) [12 aprile 1947, n. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-04-12;461), e [31 dicembre 1947, n. 1758, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-31;1758) [24 dicembre 1948, n. 1619](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-12-24;1619); [18 luglio 1949, n. 882](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-07-18;882); [20 ottobre 1949, n. 989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;989); [20 ottobre 1949, n. 991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;991);  
+[20 ottobre 1949, n. 1178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;1178); [30 ottobre 1949, n. 1152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1152); [11 giugno 1950, n. 622](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-06-11;622); [16 novembre 1950, n. 1313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-11-16;1313); [11 maggio 1951, n. 653](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-05-11;653); [27 ottobre 1951, n. 1813](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1813); [14 aprile 1952, n. 888](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-04-14;888); [16 agosto 1952, n. 2589](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-08-16;2589); [19 settembre 1952, n. 1697](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-09-19;1697); [11 marzo 1953, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;565); [12 maggio 1953, n. 570](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-05-12;570); [25 agosto 1953, n. 834](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;834); [26 ottobre 1954, n. 1232](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-26;1232) e [12 febbraio 1955, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-12;34);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-  
-Dopo l'art. 711, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alle istituzioni del corso di specializzazione in "neonatologia" e della seconda scuola di specializzazione in "chirurgia toracica".   
-  
-  
-Corso di specializzazione in neonatologia   
-  
-Art. 712. - E' istituito presso la facolta' di medicina e chirurgia dell'Universita' di Roma un corso di specializzazione in neonatologia. Il corso ha fini di aggiornamento sul piano teorico ma soprattutto di perfezionamento clinico-pratico nell'ambito della neonatologia.   
-La durata del corso e' annuale.   
-Possono essere ammessi al corso gli aspiranti in possesso di un titolo di specializzazione in pediatria (o clinica pediatrica) o in puericultura conseguito presso una scuola di specializzazione di durata almeno biennale.   
-Il numero degli ammessi resta fissato in venti.   
-  
-Art. 713. - Il corso e' diretto da un consiglio direttivo di cui fanno parte i professori ordinari, straordinari e aggregati degli istituti di clinica pediatrica e puericultura, i direttori degli istituti di clinica ostetrica che collaborano all'insegnamento, nonche' tutti gli altri docenti del corso.   
-Su proposta del consiglio direttivo, il consiglio di facolta' designera' anno per anno il direttore del corso, scelto fra un professore ufficiale di discipline pediatriche membro del consiglio stesso.   
-  
-Art. 714. - Le materie d'insegnamento sono le seguenti:   
-1) Clinica della gravidanza, del parto normale e a rischio;   
-2) Fisiopatologia e teratologia embrio-fetale;   
-3) Genetica della patologia cromosomica e delle malattie metaboliche congenite;   
-4) Fisiologia neonatale;   
-5) Immunologia neonatale;   
-6) Biochimica neonatale;   
-7) Farmacologia neonatale;   
-8) Patologia neonatale;   
-9) Diagnostica radiologica neonatale;   
-10) Tecniche di laboratorio riguardanti la fisiologia e patologia neonatale;   
-11) Assistenza al neonato sano ed ammalato;   
-12) Clinica e terapia neonatale;   
-13) Rianimazione e cure intensive neonatali;   
-14) Affezioni chirurgiche del neonato;   
-15) Anatomia e patologia del feto e del neonato;   
-16) Evoluzione ed esiti della patologia feto-neonatale.   
-Gli insegnamenti verranno impartiti attraverso lezioni, seminari, discussioni cliniche ed integrati da conferenze su argomenti specialistici pertinenti a problemi di neonatologia.   
-  
-Art. 715. - L'allievo dovra' ottemperare all'internato obbligatorio per la durata di 10 mesi. In tale periodo egli esplichera' attivita' in sala parto e nei diversi servizi di assistenza e cura al neonato.   
-  
-Art. 716. - Alla fine del corso l'allievo sosterra' un esame globale di profitto con prove teoriche e pratiche e svolgera' una dissertazione orale su un argomento in campo neonatologico con relativa discussione dinnanzi ad una commissione formata dal direttore e dagli insegnanti del corso.   
-La sessione di esami sara' unica alla fine del corso.   
-All'allievo che avra' completato le prove con esito favorevole verra' rilasciato un diploma di specializzazione in neonatologia.   
-Scuola di specializzazione in chirurgia toracica   
-(annessa alla 1a clinica chirurgica)   
-  
-Art. 717. - La scuola di specializzazione in chirurgia toracica ha la durata di quattro anni e prevede l'insegnamento di tutte le branche della chirurgia toracica: chirurgia polmonare, chirurgia cardiaca, chirurgia esofagea, chirurgia del mediastino e della parete toracica.   
-  
-Art. 718. - Alla scuola possono accedere tutti i laureati in medicina e chirurgia che abbiano almeno tre anni di frequenza in una scuola di specializzazione in chirurgia generale e medici che, a giudizio del consiglio degli insegnanti della scuola stessa, abbiano acquisito sufficiente pratica in chirurgia generale attraverso servizi prestati in reparti chirurgici.   
-  
-Art. 719. - Coloro che siano in possesso del diploma di specializzazione in chirurgia generale o di libera docenza in una disciplina chirurgica (clinica chirurgica, patologia speciale chirurgica, semeiotica chirurgica, anatomia chirurgica) possono essere ammessi al 2° anno di corso previo esame integrativo vertente sulle materie del primo anno di corso.   
-In nessun altra circostanza puo' essere concessa abbreviazione di corso.   
-  
-Art. 720. - Il numero degli iscritti alla scuola e' fissato ad un massimo di 4° (10 per ogni anno di corso).   
-  
-Art. 721.- Il corso si compone di insegnamenti fondamentali; di esercitazioni pratiche, di periodi di internato, di conferenze riguardanti argomenti specialistici, di turni in corsia ed in sala operatoria. La frequenza ai corsi, agli internati, in corsia ed in sala operatoria, alle esercitazioni, e' obbligatoria. In caso contrario i candidati non potranno ottenere l'attestazione di frequenza necessaria per l'ammissione agli esami.   
-  
-Art. 722. - Alla fine di ciascun anno accademico gli specializzandi che abbiano ottenuto la firma di frequenza dovranno sostenere un esame di profitto nelle materie fondamentali, il cui superamento e' condizione necessaria ed indispensabile per ottenere l'iscrizione all'anno successivo e per quelli che sono stati iscritti al quarto anno per l'ammissione all'esame di diploma.   
-Nell'ultimo anno di corso gli specializzandi frequenteranno la sala operatoria in maniera assidua, dovranno assistere a numerosi interventi di chirurgia toracica ed essere in grado di eseguirne essi stessi.   
-La loro preparazione tecnica sara' convalidata o meno alla fine del corso dal direttore della scuola di specializzazione.   
-  
-Art. 723. - Per tutti gli specializzandi che abbiano superato gli esami dei quattro anni, alla fine del quarto anno di corso ha luogo l'esame di diploma, consistente nella presentazione e discussione di una dissertazione scritta su di un argomento di chirurgia toracica (polmonare, cardiaca, esofagea, mediastinica) precedentemente concordata tra il direttore della scuola di specializzazione ed il diplomando all'inizio del terzo o quarto anno.   
-La tesi deve essere approvata dallo stesso direttore e depositata presso la direzione almeno quindici giorni prima dell'esame di diploma.   
-Il candidato dovra' sostenere inoltre una prova clinica.   
-I candidati non riconosciuti idonei all'esame di diploma dovranno ripresentarsi all'esame dopo un altro anno di frequenza alla scuola.  
-Se al secondo esame non sia riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove.   
-  
-Art. 724. - Le materie d'insegnamento sono:   
-  
-1° Anno:   
-1) Embriologia, anatomia descrittiva e topografica del torace e degli organi endotoracici (parte toracica, apparato respiratorio, diaframma, mediastino, organi mediastinici, cuore e grossi vasi endotoracici) (annuale);   
-2) Anatomia chirurgia del torace e degli organi endotoracici (annuale);   
-3) Anatomia patologica delle malattie del torace (annuale);   
-4) Anestesia e rianimazione nella chirurgia toracopolmonare ed in cardio-chirurgia (annuale).   
-  
-2° Anno:   
-1) Fisiopatologia dell'apparato respiratorio valutazione funzionale (annuale);   
-2) Fisiopatologia dell'apparato cardio-circolatorio (annuale);   
-3) Semeiotica e diagnostica clinica e strumentale dell'apparato respiratorio dell'esofago, del mediastino (annuale);   
-4) Semeiotica e diagnostica clinica e strumentale dell'apparato cardio-circolatorio (annuale);   
-5) Diagnostica radiologica toraco-polmonare, del cuore e dei grossi vasi endotoracici (annuale).   
-  
-3° Anno:   
-1) Patologia e clinica chirurgica delle affezioni dell'apparato respiratorio, del mediastino e della parete toracica (biennale);   
-2) Patologia e clinica chirurgica delle affezioni del cuore e dei grossi vasi endotoracici (biennale);   
-3) Patologia e clinica chirurgica delle affezioni dell'esofago e del diagramma (annuale);   
-4) Terapia chirurgica della tubercolosi polmonare (annuale);   
-5) Elementi della terapia medica delle cardio-angiopatie (annuale);   
-6) Elementi di fisioterapia respiratoria (annuale).   
-  
-4° Anno:   
-1) Patologia e clinica chirurgica delle affezioni dell'apparato respiratorio, del mediastino e della parete toracica (biennale);   
-2) Patologia e clinica chirurgica delle affezioni del cuore e dei grossi vasi endotoracici (biennale);   
-3) Tecnica operatoria per le affezioni della parete toracica, dell'apparato respiratorio, dell'esofago, del mediastino e del diaframma (annuale);   
-4) Tecnica operatoria delle affezioni del cuore, pericardio e grossi vasi endotoracici (annuale);   
-5) Principi e tecniche della circolazione extracorporea e della ipotermia (annuale).   
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 137. - La denominazione dell'insegnamento di "Tecnologia dei materiali dei motori (con esercitazioni di laboratorio)", materia d'insegnamento nella Scuola speciale d'ingegneria aeronautica, e' cosi' modificata:  
+"Tecnologia dei materiali dei motori e Chimica della combustione".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1973
+### Dato a Roma, addi' 19 luglio 1955
 
-LEONE MALFATTI
+GRONCHI ROSSI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: MORO
 
-Registrato alla Corte dei conti, addi' 26 ottobre 1974
+Registrato alla Corte dei conti, addi' 22 agosto 1955
 
-Atti di Governo, registro n. 6, foglio n. 35. - SCIARRETTA
+Atti del Governo, registro n. 92, foglio n. 96. - CARLOMAGNO

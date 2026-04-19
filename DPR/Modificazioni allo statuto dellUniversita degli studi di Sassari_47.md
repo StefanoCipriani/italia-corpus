@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 aprile 1976 n. 506
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1105
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 aprile 1976 n. 506
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1105
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Sassari.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Sassari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084) e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084) e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,233 +18,84 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
+Veduto l'[art. 16 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art16);
+
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Sassari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Sassari e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Decreta:
+Sulla
+-----
 
-Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+proposta del Ministro della pubblica istruzione; Decreta:
 
-Art. 77 - all'elenco delle scuole di specializzazione in medicina e chirurgia e' aggiunta la scuola di specializzazione in urologia.
+Articolo unico
+--------------
 
-Dopo l'art. 137, e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in urologia.
-
-Scuola di specializzazione in urologia
-
-Art. 138. - Alla scuola vengono ammessi i laureati in medicina e chirurgia, in numero non superiore a quattro. Qualora il numero delle domande di iscrizione al primo corso sia superiore al numero di quattro, la scelta degli iscritti sara' fatta in seguito al concorso interno per esami. Gli aspiranti hanno l'obbligo di accertarsi presso la cattedra di urologia della eventuale data del concorso.
-
-Eventuali abbreviazioni di corso potranno essere concesse su richiesta motivata dei candidati, a giudizio del direttore della scuola e subordinatamente all'approvazione della facolta'.
-
-Art. 139. - La scuola ha la durata di tre anni. Essa ha sede presso la cattedra di urologia.
-
-Art. 140. - Gli iscritti alla scuola devono frequentare i seguenti insegnamenti:
-
-1° Anno:
-
-1) anatomia descrittiva e topografica dell'apparato urogenitale;
-
-2) fisiologia dell'apparato urogenitale;
-
-3) patologia dell'apparato urinario e genitale maschile;
-
-4) le nefropatie mediche;
-
-5) semeiotica dell'apparato urogenitale (funzionale e di laboratorio);
-
-6) tecniche strumentali e semeiologia endoscopica;
-
-7) batteriologia in urologia.
-
-2° Anno:
-
-1) patologia dell'apparato urinario e genitale maschile;
-
-2) clinica urologica;
-
-3) patologia genitale femminile di interesse urologico;
-
-4) nefrologia chirurgica;
-
-5) anatomia ed istologia patologica dell'apparato urogenitale;
-
-6) semeiotica dell'apparato urogenitale (funzionale e di laboratorio);
-
-7) tecniche strumentali e semeiologia endoscopica;
-
-8) anatomia chirurgica dell'apparato genitale urinario;
-
-9) radiologia dell'apparato urinario e genitale;
-
-10) affezioni cutanee e veneree nei riguardi dell'urologia;
-
-11) l'anestesia e il trattamento pre post-operatorio del malato urologico.
-
-3° Anno:
-
-1) Clinica urologica;
-
-2) patologia e clinica urologica infantile;
-
-3) radiologia dell'apparato urinario e genitale;
-
-4) tecniche operatorie sull'apparato urinario e genitale;
-
-5) urologia ginecologica.
-
-Gli esami di profitto si sostengono nei seguenti gruppi:
-
-1° Anno:
-
-1) anatomia e fisiologia dell'apparato urogenitale;
-
-2) le nefropatie mediche;
-
-3) batteriologia in urologia e farmacoterapia delle affezioni urogenitali.
-
-2° Anno:
-
-1) patologia dell'apparato urinario e genitale maschile; anatomia ed istologia patologica;
-
-2) semeiotica urologica (funzionale e di laboratorio) e tecnica strumentale e semeiologica endoscopica;
-
-3) patologia genitale femminile di interesse urologico; le affezioni cutanee e veneree nei riguardi dell'urologia;
-
-4) anatomia chirurgica dell'apparato urogenitale;
-
-anestesia e trattamento pre e post-operatorio del malato urologico;
-
-5) nefrologia chirurgica.
-
-3° Anno:
-
-1) clinica urologica;
-
-2) radiologia dell'apparato urinario e genitale;
-
-3) interventi e procedimenti operatori sull'apparato urogenitale;
-
-4) patologia e clinica urologica infantile;
-
-5) urologia ginecologica.
-
-Art. 141. - Le tasse di iscrizione e frequenza vengono fissate come segue:
-
-tassa di immatricolazione . . . . . . L. 6.000
-
-tassa annuale di iscrizione . . . . . L. 60.000
-
-soprattasse esami di profitto . . . . L. 7.000
-
-soprattassa esami di diploma. . . . . L. 3.000
-
-tassa annuale per fuori corso . . . . L. 50.000
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 30 aprile 1976
-
-LEONE
-
-MALFATTI
-
-Visto, il Guardasigilli: BONIFACIO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 21 luglio 1976 Atti di Governo, registro n. 8, foglio n. 7
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084) e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Sassari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Lo statuto dell'Universita' di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 77 - all'elenco delle scuole di specializzazione in medicina e chirurgia e' aggiunta la scuola di specializzazione in urologia.  
-Dopo l'art. 137, e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in urologia.  
-Scuola di specializzazione in urologia  
-Art. 138. - Alla scuola vengono ammessi i laureati in medicina e chirurgia, in numero non superiore a quattro. Qualora il numero delle domande di iscrizione al primo corso sia superiore al numero di quattro, la scelta degli iscritti sara' fatta in seguito al concorso interno per esami. Gli aspiranti hanno l'obbligo di accertarsi presso la cattedra di urologia della eventuale data del concorso.  
-Eventuali abbreviazioni di corso potranno essere concesse su richiesta motivata dei candidati, a giudizio del direttore della scuola e subordinatamente all'approvazione della facolta'.  
-Art. 139. - La scuola ha la durata di tre anni. Essa ha sede presso la cattedra di urologia.  
-Art. 140. - Gli iscritti alla scuola devono frequentare i seguenti insegnamenti:  
+Dopo l'art. 179 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in difesa e conservazione del suolo presso la facolta' di agraria.  
+Scuola di specializzazione in difesa e conservazione del suolo  
+Art. 180. - E' istituita, presso la facolta' di agraria, la scuola di specializzazione in difesa e conservazione del suolo, la quale ha lo scopo di preparare gli allievi per il conferimento del diploma di specialista ai sensi dell'[art. 178 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art178).  
+Art. 181. - I corsi hanno la durata di due anni, al termine dei quali viene rilasciato un diploma di specializzazione in difesa e conservazione del suolo.  
+Art. 182. - Alla scuola sono ammessi i laureati in scienze agrarie o forestali. Il numero massimo degli allievi da ammettere alla scuola e' di dieci per ogni anno accademico.  
+Art. 183. - Il consiglio direttivo della scuola e' composto da tutti i docenti incaricati di insegnamento ed e' presieduto dal direttore della scuola.  
+Art. 184. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
+Art. 185. - Gli incarichi di insegnamento delle singole discipline sono conferiti dal consiglio di facolta' su proposta del direttore della scuola, con l'approvazione del senato accademico e del consiglio di amministrazione dell'Universita'. Gli insegnanti proposti sono scelti dal direttore della scuola stessa fra i professori di ruolo e non di ruolo, liberi docenti, aiuti ed assistenti della facolta' e tra persone di particolare competenza nella disciplina anche se non appartenenti alla facolta'.  
+Art. 186. - Nella scuola si impartiscono i seguenti insegnamenti teorici ed esercitazioni pratiche:  
 1° Anno:  
-1) anatomia descrittiva e topografica dell'apparato urogenitale;  
-2) fisiologia dell'apparato urogenitale;  
-3) patologia dell'apparato urinario e genitale maschile;  
-4) le nefropatie mediche;  
-5) semeiotica dell'apparato urogenitale (funzionale e di laboratorio);  
-6) tecniche strumentali e semeiologia endoscopica;  
-7) batteriologia in urologia.  
+insegnamenti teorici:  
+1) geologia applicata;  
+2) topografia;  
+3) complementi di idraulica agraria;  
+4) complementi di meccanica agraria;  
+5) complementi di economia ed estimo;  
+6) geochimica;  
+7) sistemazioni idraulico-forestali;  
+esercitazioni pratiche:  
+laboratorio di geochimica delle acque;  
+rilevamenti topografici;  
+cartografia applicata.  
 2° Anno:  
-1) patologia dell'apparato urinario e genitale maschile;  
-2) clinica urologica;  
-3) patologia genitale femminile di interesse urologico;  
-4) nefrologia chirurgica;  
-5) anatomia ed istologia patologica dell'apparato urogenitale;  
-6) semeiotica dell'apparato urogenitale (funzionale e di laboratorio);  
-7) tecniche strumentali e semeiologia endoscopica;  
-8) anatomia chirurgica dell'apparato genitale urinario;  
-9) radiologia dell'apparato urinario e genitale;  
-10) affezioni cutanee e veneree nei riguardi dell'urologia;  
-11) l'anestesia e il trattamento pre post-operatorio del malato urologico.  
-3° Anno:  
-1) Clinica urologica;  
-2) patologia e clinica urologica infantile;  
-3) radiologia dell'apparato urinario e genitale;  
-4) tecniche operatorie sull'apparato urinario e genitale;  
-5) urologia ginecologica.  
-Gli esami di profitto si sostengono nei seguenti gruppi:  
-1° Anno:  
-1) anatomia e fisiologia dell'apparato urogenitale;  
-2) le nefropatie mediche;  
-3) batteriologia in urologia e farmacoterapia delle affezioni urogenitali.  
-2° Anno:  
-1) patologia dell'apparato urinario e genitale maschile; anatomia ed istologia patologica;  
-2) semeiotica urologica (funzionale e di laboratorio) e tecnica strumentale e semeiologica endoscopica;  
-3) patologia genitale femminile di interesse urologico; le affezioni cutanee e veneree nei riguardi dell'urologia;  
-4) anatomia chirurgica dell'apparato urogenitale;  
-anestesia e trattamento pre e post-operatorio del malato urologico;  
-5) nefrologia chirurgica.  
-3° Anno:  
-1) clinica urologica;  
-2) radiologia dell'apparato urinario e genitale;  
-3) interventi e procedimenti operatori sull'apparato urogenitale;  
-4) patologia e clinica urologica infantile;  
-5) urologia ginecologica.  
-Art. 141. - Le tasse di iscrizione e frequenza vengono fissate come segue:  
+insegnamenti teorici:  
+1) catasto geometrico particellare;  
+2) erosione e conservazione del suolo;  
+3) geopedologia;  
+4) idrologia e idrografia;  
+5) bonifica idraulica ed irrigazione;  
+6) sistemazioni superficiali e scelta delle colture;  
+7) selvicoltura e alpicoltura;  
+esercitazioni pratiche:  
+laboratorio di geopedologia;  
+progetti.  
+Art. 187. - Per il conseguimento del diploma e' necessario aver superato gli esami relativi alle materie teoriche ed aver ottenuto l'attestazione di frequenza alle esercitazioni pratiche.  
+Art. 188. - I programmi di insegnamento sono coordinati all'inizio di ogni anno dal consiglio direttivo della scuola.  
+Art. 189. - La commissione per gli esami speciali, composta da tre professori della scuola, e' presieduta dal titolare della materia in esame.  
+Art. 190. - La commissione per gli esami di diploma e' costituita da sette membri fra i docenti della scuola ed e' nominata dal rettore su proposta del direttore della scuola che la presiede.  
+Art. 191. - Gli iscritti alla scuola sono tenuti a pagare le tasse, soprattasse e contributi secondo quanto stabilito per gli studenti della facolta' di agraria, come appresso indicato:  
   
-tassa di immatricolazione . . . . . . L. 6.000  
-tassa annuale di iscrizione . . . . . L. 60.000  
-soprattasse esami di profitto . . . . L. 7.000  
-soprattassa esami di diploma. . . . . L. 3.000  
-tassa annuale per fuori corso . . . . L. 50.000  
+tassa immatricolazione . . . . . . . . . . . . . . . . . . . L. 5.000 tassa annuale iscrizione. . . . . . . . . . . . . . . . . . L. 18.000 soprattassa esami. . . . . . . . . . . . . . . . . . . . . . L. 7.000 soprattassa esami diploma. . . . . . . . . . . . . . . . . . L. 3.000 contributo opere assistenziali e sportive. . . . . . . . . . L. 1.000 contributo assicurazione . . . . . . . . . . . . . . . . . . . L. 580   
+La tassa di diploma sara' pari alla somma fissata dalle norme di legge.  
+Sono tenuti, altresi', a pagare un contributo speciale nella misura che sara' determinata annualmente dal consiglio di amministrazione, previo parere della facolta' su proposta del direttore della scuola.  
+Art. 192. - Il diploma e' rilasciato dal rettore e firmato inoltre dal direttore della scuola e dal direttore amministrativo dell'Universita'.  
+Art. 193. - La domanda di ammissione alla scuola e' diretta al rettore dell'Universita' corredata dal diploma originale o copia autenticata di maturita', dal diploma di laurea o copia autenticata in scienze agrarie o forestali con le relative votazioni della carriera scolastica e da ogni altro titolo che l'aspirante ritenga presentare.  
+Art. 194. - Le domande sono rimesse al direttore della scuola il quale, unitamente al consiglio direttivo della scuola, dopo aver valutato i titoli degli aspiranti accertera' le attitudini e la preparazione degli stessi a seguire i corsi, riservandosi la possibilita' di sottoporre i candidati ad eventuale colloquio supplementare informativo.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 aprile 1976
+### Dato a Roma, addi' 31 ottobre 1981
 
-LEONE MALFATTI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 21 luglio 1976
+Registrato alla Corte dei conti, addi' 10 marzo 1982
 
-Atti di Governo, registro n. 8, foglio n. 7
+Registro n. 38 Istruzione, foglio n. 270

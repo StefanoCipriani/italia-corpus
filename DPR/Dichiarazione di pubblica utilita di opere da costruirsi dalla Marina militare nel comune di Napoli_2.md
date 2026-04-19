@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1958 n. 880
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 settembre 1959 n. 933
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1958 n. 880
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 settembre 1959 n. 933
+================================================================
 
 Dichiarazione di pubblica utilita' di opere da costruirsi dalla Marina militare nel comune di Napoli.
 -----------------------------------------------------------------------------------------------------
@@ -25,27 +25,26 @@ Art. 1
 ------
 
   
-Le fortificazioni, i fabbricati e le opere in genere destinate alla difesa, da costruirsi dalla Marina militare nel comune di Napoli, nonche' ogni altra sistemazione necessaria per la funzionalita' dei servizi della Marina militare nello stesso Comune, sono dichiarati di pubblica utilita'.  
-Le sistemazioni di cui al precedente comma rientrano nelle ipotesi previste dall'[art. 11 della legge 25 giugno 1865, n. 2359](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359~art11), sulle espropriazioni per causa di pubblica utilita'.  
+Le opere, le predisposizioni ed ogni altra sistemazione necessarie per assicurare una completa funzionalita' dell'Infermeria della Marina militare in Napoli, sono dichiarati di pubblica utilita'.  
+Le sistemazioni di cui al precedente comma rientrano nelle ipotesi previste dall'[art. 11 della legge 25 giugno 1865, n. 2359](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359~art11), sulle espropriazioni per cause di pubblica utilita'.  
 
 Art. 2
 ------
 
   
-  
-All'esproprio degli immobili, nonche' dei diritti immobiliari all'uopo occorrenti, e che verranno designati dal Ministro per la difesa, sara' provveduto a norma delle [leggi 25 giugno 1865, n. 2359, e 18 dicembre 1879, n. 5188](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1879-12-18;5188), citate nelle premesse, entro il termine di mesi dodici dalla data di pubblicazione del presente decreto nella Gazzetta Ufficiale della Repubblica.   
-Il termine entro il quale le opere di cui al precedente art. 1 dovranno essere portate a compimento e' stabilito in anni tre sempre a far tempo dalla data suddetta.   
+All'esproprio degli immobili, nonche' dei diritti immobiliari all'uopo occorrenti, e che verranno designati dal Ministro per la difesa, sara' provveduto a norma delle [leggi 25 giugno 1865, n. 2359, e 18 dicembre 1879, n. 5188](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1879-12-18;5188), citate nelle premesse, entro il termine di mesi ventiquattro dalla data di pubblicazione del presente decreto nella Gazzetta Ufficiale della Repubblica.  
+Il termine entro il quale le opere di cui al precedente art. 1 dovranno essere portate a compimento e' stabilito in anni tre, sempre a far tempo dalla data suddetta.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 luglio 1958
+### Dato a Roma, addi' 28 settembre 1959
 
-GRONCHI SEGNI
+GRONCHI ANDREOTTI
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 12 settembre 1958
+Registrato alla Corte dei conti, addi' 7 novembre 1959
 
-Atti del Governo, registro n. 114, foglio n. 17. - RELLEVA
+Atti del Governo, registro n. 122, foglio n. 5. - VILLA

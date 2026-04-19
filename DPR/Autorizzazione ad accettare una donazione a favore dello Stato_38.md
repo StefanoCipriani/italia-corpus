@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1975 n. 747
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1977 n. 82
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1975 n. 747
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1977 n. 82
+=============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-747. Decreto del Presidente della Repubblica 30 ottobre 1975, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione di una donazione, consistente nell'opera di Vincenzo Gemito "Ritratto del pittore Francesco Paolo Michetti" 1873 (scultura in terracotta alta cm 44), disposta a favore dello Stato dalla signora Paola Ojetti con atto in data 15 febbraio 1974, numero 36962/6730 di repertorio, a rogito dott. Achille de Martino, notaio in Roma, da destinare alla galleria nazionale d'arte moderna di Roma.  
+82. Decreto del Presidente della Repubblica 21 gennaio 1977, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione a favore dello Stato di un terreno di circa mq 32.767, sito in agro di Fasano (Brindisi), disposta dall'amministrazione provinciale di Brindisi con atto 16 gennaio 1973, n. 193026 di repertorio, a rogito notaio Gaetano Greco, da destinare alla costruzione dell'Antiquarium di Egnathia.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 18 dicembre 1975  
-Atti di Governo, registro n. 15, foglio n. 52
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 17 marzo 1977  
+Registro n. 13 Finanze, foglio n. 305

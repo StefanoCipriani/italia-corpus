@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1959 n. 108
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1965 n. 942
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1959 n. 108
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1965 n. 942
+=============================================================
 
 Autorizzazione alla "Fondazione Pro Juventute Don Carlo Gnocchi", con sede in Roma, ad accettare una quota di eredita'.
 -----------------------------------------------------------------------------------------------------------------------
@@ -12,9 +12,9 @@ Art. 1
 
 N.
 
-108. Decreto del Presidente della Repubblica 5 febbraio 1959, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare, col beneficio d'inventario, la quota di eredita' disposta dalla defunta signora Assunta Ricci ved.  
-Delfino con testamento olografo 12 luglio 1955, a favore dell'"Opera dei mutilatini di Don Gnocchi", che si identifica con la Fondazione suindicata.  
+942. Decreto del Presidente della Repubblica 5 giugno 1965, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare, col beneficio d'inventario, una quota di eredita' (sette decimi), disposta dalla defunta signora Masini Giuseppina ved. Corvisieri, con testamento olografico del 23 giugno 1962, depositato e pubblicato con atto a rogito dott.  
+Ezechiele Zanzi, notaio residente in Busto Arsizio, in data 27 aprile 1963, n. 74102 rep., n. 17954 racc. e n. 31045 di posiz.  
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 27 marzo 1959  
-Atti del Governo, registro n. 117, foglio n. 34. - VILLA
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 21 luglio 1965  
+Atti del Governo, registro n. 196, foglio n. 12. - VILLA

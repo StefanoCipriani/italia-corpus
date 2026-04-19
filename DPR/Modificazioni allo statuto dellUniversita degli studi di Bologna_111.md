@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1963 n. 1768
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 febbraio 1981 n. 269
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1963 n. 1768
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 febbraio 1981 n. 269
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
@@ -10,145 +10,84 @@ Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926,numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successivi;
+Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1392](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1392);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1632](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1632), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le Proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita', anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Bologna approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso.
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Dopo l'art. 187, e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della Scuola di perfezionamento in Archeologia.
+Articolo unico
+--------------
 
-Art. 188. - Al corso biennale di perfezionamento in Archeologia possono iscriversi i laureati in Lettere.
-
-Art. 189. - Per conseguire il diploma gli iscritti alla Scuola di perfezionamento in Archeologia dovranno:
-
-a) superare due esami biennali nelle materie obbligatorie della Scuola e un terzo, pure biennale, scelto fra gli insegnamenti fondamentali o complementari.
-
-Ove l'iscritto scelga per la dissertazione prescritta per il conseguimento del diploma di specializzazione una disciplina fondamentale o complementare, il terzo esame biennale dovra' vertere sulla stessa;
-
-b) superare tre esami annuali scelti fra le discipline fondamentali e complementari;
-
-c) sostenere una prova scritta consistente in traduzioni, con l'uso del dizionario, dal greco antico e da due lingue moderne, di brevi passi riguardanti l'arte antica;
-
-d) presentare e discutere una dissertazione scritta su una delle discipline della Scuola. Il tema, dovra' essere scelto agli inizi del primo anno di corso.
-
-Art. 190. - Sono corsi biennali obbligatori:
-
-Archeologia;
-
-Storia dell'arte medioevale e moderna.
-
-Sono insegnamenti fondamentali:
-
-Antichita' greche e romane;
-
-Archeologia cristiana;
-
-Etruscologia ed archeologia italica;
-
-Numismatica;
-
-Paletnologia;
-
-Topografia dell'Italia antica.
-
-Sono insegnamenti complementari:
-
-Critica d'arte;
-
-Paleografia e diplomatica;
-
-Storia greca;
-
-Storia romana.
-
-Art. 191. - Potranno essere concesse abbreviazioni di corso con deliberazione del Consiglio della scuola ai laureati in possesso di titoli post-universitari attinenti allo studio della Archeologia.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 22 ottobre 1963
-
-SEGNI
-
-GUI
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 9 dicembre 1963 Atti del Governo, registro n. 178, foglio n. 30. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926,numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1392](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1392);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1632](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1632), e successive modificazioni;  
-Vedute le Proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita', anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Gli articoli da 701 a 705, relativi alla scuola diretta a fini speciali per ortottisti, che muta la denominazione in scuola diretta a fini speciali per ortottisti-assistenti di oftalmologia, sono sostituiti dai seguenti:  
   
-Decreta:  
+Scuola diretta a fini speciali per ortottisti, assistenti di oftalmologia  
+Art. 701. - E' istituita presso la facolta' di medicina e chirurgia della Universita' di Bologna, una scuola speciale di preparazione per ortottisti-assistenti di oftalmologia che ha sede presso la clinica oculistica di questa Universita'.  
+La scuola ha lo scopo di dare una preparazione completa, teorico pratica, istruendo gli allievi sui problemi della motilita' oculare, della ambliopia, delle tecniche diagnostiche della visione binoculare, del trattamento pre e post-operatorio dei pazienti strabici, dei problemi sui vizi di rifrazione e della loro correzione e sulle tecniche diagnostiche in oftalmologia.  
+La durata del corso per conseguire il diploma di ortottista-assistente di oftalmologia e' di tre anni.  
+Art. 702. - Ne sono titoli di ammissione il possesso di un diploma legalmente valido ai fini della iscrizione alla Universita' ai sensi dell'[art. 1 della legge n. 910 dell'11 dicembre 1969](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1) e la conoscenza di una lingua straniera (inglese, francese, tedesco, spagnolo).  
+Gli aspiranti all'iscrizione al primo corso sono tenuti a sostenere un esame di ammissione consistente in una prova di cultura generale ed in una prova per la conoscenza della lingua straniera. E' richiesto un certificato di sana e robusta costituzione, con particolare riguardo alla funzione visiva.  
+Il numero complessivo degli iscritti alla scuola e' da sei a quindici in totale (da due a cinque per anno di corso). Qualora le domande di iscrizione fossero in numero superiore al numero massimo previsto, il consiglio della scuola si riserva di provvedere ad una scelta tra gli idonei in base ai risultati delle prove di ammissione; gli idonei possono essere ammessi anche in soprannumero in rapporto a posti che fossero disponibili al secondo e terzo anno. I ripetenti ed i fuori corso, qualora riprendano gli studi, sono riammessi in soprannumero.  
+L'anno accademico ha inizio e termine nelle date stabilite dalle leggi in vigore per l'istruzione universitaria. La frequenza e' obbligatoria.  
   
-Lo statuto dell'Universita' degli studi di Bologna approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso.  
-Dopo l'art. 187, e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della Scuola di perfezionamento in Archeologia.  
+Art. 703  
   
-Art. 188. - Al corso biennale di perfezionamento in Archeologia possono iscriversi i laureati in Lettere.  
-  
-Art. 189. - Per conseguire il diploma gli iscritti alla Scuola di perfezionamento in Archeologia dovranno:  
-a) superare due esami biennali nelle materie obbligatorie della Scuola e un terzo, pure biennale, scelto fra gli insegnamenti fondamentali o complementari.  
-Ove l'iscritto scelga per la dissertazione prescritta per il conseguimento del diploma di specializzazione una disciplina fondamentale o complementare, il terzo esame biennale dovra' vertere sulla stessa;  
-b) superare tre esami annuali scelti fra le discipline fondamentali e complementari;  
-c) sostenere una prova scritta consistente in traduzioni, con l'uso del dizionario, dal greco antico e da due lingue moderne, di brevi passi riguardanti l'arte antica;  
-d) presentare e discutere una dissertazione scritta su una delle discipline della Scuola. Il tema, dovra' essere scelto agli inizi del primo anno di corso.  
-  
-Art. 190. - Sono corsi biennali obbligatori:  
-Archeologia;  
-Storia dell'arte medioevale e moderna.  
-Sono insegnamenti fondamentali:  
-Antichita' greche e romane;  
-Archeologia cristiana;  
-Etruscologia ed archeologia italica;  
-Numismatica;  
-Paletnologia;  
-Topografia dell'Italia antica.  
-Sono insegnamenti complementari:  
-Critica d'arte;  
-Paleografia e diplomatica;  
-Storia greca;  
-Storia romana.  
-  
-Art. 191. - Potranno essere concesse abbreviazioni di corso con deliberazione del Consiglio della scuola ai laureati in possesso di titoli post-universitari attinenti allo studio della Archeologia.  
+1° Anno:  
+1) elementi di anatomia dell'apparato visivo e del S.N.C.;  
+2) fisiologia dell'occhio, della motilita' oculare, della visione binoculare;  
+3) ottica fisica e fisiopatologica;  
+4) ortottica I;  
+5) psicologia infantile.  
+2° Anno:  
+1) elementi di patologia oculare;  
+2) elementi di farmacologia oculare;  
+3) elementi di neurooftalmologia;  
+4) nozioni di chirurgia ed assistenza oftalmica;  
+5) ortottica II.  
+3° Anno:  
+1) tecniche semeiologiche dell'apparato visivo I (es. refrazione, contattologia, adattometria, campo visivo, senso cromatico);  
+2) tecniche semeiologiche ed elettrofisiologiche (tonometria e tonografia, ERG, EOG, EMG, ecografia, retinografia e fluoroangiografia);  
+3) ortottica III;  
+4) nozioni di riabilitazione senso motorio nell'eta' infantile;  
+5) legislazione sanitaria.  
+Art. 704. - L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni e dall'obbligo, per gli allievi, dell'internato per l'intero periodo di corso di studi nella clinica oculistica.  
+La frequenza viene comprovata dalla attestazione rilasciata sul libretto di iscrizione dagli insegnanti e per l'attivita' pratica dal direttore della scuola. L'attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.  
+Alla fine di ogni anno gli allievi devono sostenere un esame sulle materie di insegnamento. Nel caso in cui i candidati non abbiano superato gli esami prescritti, non potranno essere ammessi all'anno successivo e resteranno in soprannumero in qualita' di fuori corso.  
+Gli esami di profitto consistono in prove teoriche e pratiche.  
+Art. 705. - Alla fine del corso gli allievi debbono sostenere un esame di diploma che consiste nella discussione di una tesi scritta su un argomento riguardante le materie di insegnamento, assegnata dal direttore della scuola ed in una prova pratica stabilita da una commissione esaminatrice. I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di iscrizione alla scuola, ma se alla seconda prova non sia loro riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove.  
+Gli esami di profitto e di diploma si danno in due sessioni, la prima estiva che ha inizio subito dopo la chiusura annuale dei corsi e la seconda autunnale, nel mese che precede l'inizio del nuovo anno accademico.  
+Per quanto concerne le tasse, soprattasse e contributi, vige quanto disposto dall'art. 193 dello statuto dell'Universita' di Bologna.  
+Al funzionamento della suddetta scuola si provvedera' con il provento delle tasse, soprattasse e contributi dovuti dagli iscritti e con eventuali elargizioni di enti pubblici e privati.  
+Sono ammesse al 3° anno della scuola, con l'obbligo di tutti gli esami del terzo anno e della tesi, le diplomate delle scuole speciali per ortottiste ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20), purche' abbiano esercitato con continuita' una attivita' professionale adeguata e documentata.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 ottobre 1963
+### Dato a Roma, addi' 3 febbraio 1981
 
-SEGNI GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: SARTI
 
-Registrato alla Corte dei conti, addi' 9 dicembre 1963
+Registrato alla Corte dei conti, addi' 25 maggio 1981
 
-Atti del Governo, registro n. 178, foglio n. 30. - VILLA
+Registro n. 48 Istruzione, foglio n. 298

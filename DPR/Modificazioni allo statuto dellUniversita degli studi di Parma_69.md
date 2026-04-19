@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 1118
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1976 n. 880
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 1118
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1976 n. 880
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
@@ -10,132 +10,187 @@ Modificazioni allo statuto dell'Universita' degli studi di Parma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella legge 2 gennaio 193, n. 73;
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche, proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Parma e convalidati dal Consiglio universitario nazionale nei suoi pareri;
+Riconosciuta la particolare necessita' di approvare le modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Parma e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla,
-------
+Sulla proposta del Ministro per la pubblica istruzione;
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 164 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in oncologia clinica.
+
+Dopo l'art. 291, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in oncologia clinica.
+
+Scuola di specializzazione in oncologia clinica
+
+Art. 292. - La scuola ha la durata di 3 anni.
+
+Art. 293. - Sono ammessi i laureati in medicina e chirurgia. Nella iscrizione alla scuola di specializzazione sara' data la preferenza a candidati gia' in possesso della libera docenza e di specializzazione in altre materie biologiche e cliniche.
+
+Art. 294. - Il numero complessivo degli specializzandi da ammettere alla scuola nei tre anni di corso e' di 15 allievi (5 ogni anno accademico).
+
+Art. 295. - Gli insegnamenti previsti sono cosi' ripartiti:
+
+1° Anno:
+
+patologia generale dei tumori;
+
+biochimica dei tumori;
+
+patologia oncologica speciale;
+
+diagnosi istologica e citocardiologica dei tumori;
+
+registrazione epidemiologica dei tumori.
+
+2° Anno:
+
+prevenzione dei tumori;
+
+diagnosi precoce dei tumori;
+
+riscontri anatomo clinici;
+
+clinica medica generale dei tumori;
+
+clinica chirurgica generale dei tumori;
+
+diagnosi e terapia radiologica dei tumori;
+
+gli isotopi radioattivi nella diagnosi e nella terapia;
+
+immunologia e immunoterapia dei tumori.
+
+3° Anno:
+
+diagnosi e terapia dei tumori ORL;
+
+diagnosi e terapia dei tumori del cavo orale;
+
+diagnosi e terapia dei tumori genitali femminili;
+
+diagnosi e terapia dei tumori cutanei;
+
+chirurgia oncologica;
+
+terapia antalgica dei tumori;
+
+chemioterapia antiblastica.
+
+INSEGNAMENTI FACOLTATIVI:
+
+semeiotica dei tumori;
+
+tecniche chirurgiche complementari;
+
+chirurgia riparatrice.
+
+Art. 296. - La frequenza ai corsi e alle esercitazioni e' obbligatoria.
+
+Art. 297. - Alla fine di ogni anno gli allievi dovranno sostenere un esame di profitto sulle materie che sono state oggetto di insegnamento.
+
+Art. 298. - Alla fine del triennio gli allievi dovranno presentare una dissertazione scritta e sostenere un esame di diploma.
+
+Art. 299. - Il direttore della scuola, al di fuori dei docenti incaricati ufficialmente, puo' invitare studiosi competenti ad impartire lezioni o conferenze su argomenti di speciale interesse oncologico.
+
+Art. 300. - Gli iscritti alle scuole di specializzazione sono tenuti a pagare le tasse e soprattasse secondo quanto stabilito per gli studenti della facolta' di medicina e chirurgia, nonche' la tassa di diploma nella misura di L. 6.000 ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7). Sono altresi' tenuti al pagamento di speciali contributi nella misura che sara' determinata dal consiglio di amministrazione, previo parere della facolta', su proposta del direttore della scuola.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 27 ottobre 1976
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 28 dicembre 1976 Registro n. 102 Istruzione, foglio n. 73
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella legge 2 gennaio 193, n. 73;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Parma e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Lo statuto dell'Universita' di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 164 - all'elenco delle scuole di specializzazione in medicina e chirurgia sono apportate le seguenti modifiche:   
-la scuola di specializzazione in idrologia, crenologia e climatoterapia muta la denominazione in idrologia medica;   
-la scuola di specializzazione in fisiocinesiterapia ortopedica muta la denominazione in fisioterapia.   
-
-Art. 2
-------
-
+Decreta:  
   
-Gli articoli 212 e 213, relativi alla scuola di specializzazione in psichiatria, sono soppressi e sostituiti dai seguenti con il conseguente spostamento della numerazione degli articoli successivi:  
-  
-Scuola di specializzazione in psichiatria  
-  
-Art. 212. - La scuola di specializzazione in psichiatria conferisce il diploma di specialista in psichiatria alla fine dei quattro anni di corso.  
-Art. 213. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.  
-Art. 214. - Il numero massimo degli allievi e' di quindici per anno di corso e complessivamente di sessanta iscritti per l'intero corso di studi.  
-Art. 215. - Le materie di insegnamento sono le seguenti:  
+Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 164 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in oncologia clinica.  
+Dopo l'art. 291, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in oncologia clinica.  
+Scuola di specializzazione in oncologia clinica  
+Art. 292. - La scuola ha la durata di 3 anni.  
+Art. 293. - Sono ammessi i laureati in medicina e chirurgia. Nella iscrizione alla scuola di specializzazione sara' data la preferenza a candidati gia' in possesso della libera docenza e di specializzazione in altre materie biologiche e cliniche.  
+Art. 294. - Il numero complessivo degli specializzandi da ammettere alla scuola nei tre anni di corso e' di 15 allievi (5 ogni anno accademico).  
+Art. 295. - Gli insegnamenti previsti sono cosi' ripartiti:  
 1° Anno:  
-1) metodologia del rapporto medico-paziente (annuale);  
-2) psicologia (annuale);  
-3) elementi di genetica e biochimica (annuale);  
-4) struttura e funzioni integrative del SNC (annuale);  
-5) neurologia clinica (annuale);  
-6) clinica psichiatrica I (quadriennale).  
+patologia generale dei tumori;  
+biochimica dei tumori;  
+patologia oncologica speciale;  
+diagnosi istologica e citocardiologica dei tumori;  
+registrazione epidemiologica dei tumori.  
 2° Anno:  
-1) psicopatologia e psicodinamica (annuale);  
-2) psicoterapia I (triennale);  
-3) psicofarmacologia (annuale);  
-4) psicofarmacoterapia (annuale);  
-5) clinica psichiatrica II (quadriennale).  
+prevenzione dei tumori;  
+diagnosi precoce dei tumori;  
+riscontri anatomo clinici;  
+clinica medica generale dei tumori;  
+clinica chirurgica generale dei tumori;  
+diagnosi e terapia radiologica dei tumori;  
+gli isotopi radioattivi nella diagnosi e nella terapia;  
+immunologia e immunoterapia dei tumori.  
 3° Anno:  
-1) psicodiagnostica ed informatica psichiatrica (annuale);  
-2) psichiatria sociale I (biennale);  
-3) psichiatria infantile (annuale);  
-4) psicoterapia II (triennale);  
-5) clinica psichiatrica III (quadriennale).  
-4° Anno:  
-1) psicosomatica (annuale);  
-2) psichiatria sociale II (biennale);  
-3) psichiatria forense (annuale);  
-4) psicoterapia III (triennale);  
-5) clinica psichiatrica IV (quadriennale).  
+diagnosi e terapia dei tumori ORL;  
+diagnosi e terapia dei tumori del cavo orale;  
+diagnosi e terapia dei tumori genitali femminili;  
+diagnosi e terapia dei tumori cutanei;  
+chirurgia oncologica;  
+terapia antalgica dei tumori;  
+chemioterapia antiblastica.  
   
-Note esplicative:  
-1) Strutture e funzioni integrative del SNC: tale materia annuale, e' comprensiva della anatomofisiologia del SNC e della psicofisiologia.  
-2) Neurologia clinica: tale insegnamento, annuale, deve essere comprensivo, eventualmente con sottodivisioni, di cenni di anatomia patologica del SN, di semeiologia neurologica, clinica e strumentale, di neuroradiologia.  
-3) Clinica psichiatrica: tale materia, quadriennale, e' comprensiva anche degli elementi di semeiotica psichiatrica, delle tecniche laboratoristiche, delle terapie biologiche.  
-4) Psicoterapia: tale materia, triennale, comprendo e considera nel corso dei tre anni le tecniche e i principi fondamentali delle principali psicoterapie individuali direttive e non direttive, i principi fondamentali e le dinamiche delle piu' importanti psicoterapie di gruppo, delle prassi psicoterapiche, socioterapiche e delle sociodinamiche delle istituzioni psichiatriche.  
-5) Psicodiagnostica ed informatica psichiatrica: tale materia, annuale, e' comprensiva di cenni di statistica, dei reattivi mentali e psicodiagnostica strumentale e di metodologia della ricerca psichiatrica.  
-6) Psichiatria sociale: tale materia, biennale, con molte possibilita' di suddivisioni, e' comprensiva di elementi di sociologia, di antropologia culturale, di etologia, di ecologia psichiatrica, di epidemiologia psichiatrica, di psichiatria transculturale, di psichiatria preventiva e di igiene mentale, prassi ed organizzazione di assistenza psichiatrica sul territorio extra istituzionale.  
-7) Psicosomatica: tale materia, annuale, e' comprensiva degli aspetti psichici delle malattie somatiche della cosiddetta medicina integrata, della endocrinologia in riferimento alla psichiatria, delle cosiddette specifiche malattie psicosomatiche.  
-
-Art. 3
-------
-
-  
-Gli articoli 236, 237, 238, 239, 240, 241 e 242, relativi alla scuola di specializzazione in fisiocinesiterapia ortopedica che muta la denominazione in fisioterapia, sono soppressi e sostituiti dai seguenti, con il conseguente spostamento della numerazione degli articoli successivi:  
-  
-Scuola di specializzazione in fisioterapia  
-  
-Art. 236. - La scuola di fisioterapia conferisce il diploma di specialista in fisioterapia.  
-Art. 237. - La durata del corso di studi e' di tre anni.  
-Art. 238. - Il numero massimo degli allievi da ammettere alla scuola e' complessivamente di quaranta.  
-Art. 239. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-1) principi di anatomia funzionale (propedeutico per tutte le materie di base degli anni successivi e per quelle facoltative);  
-2) fisiopatologia dell'apparato neuro-motore (come sopra).  
-2° Anno:  
-1) semeiotica e clinica delle motulesioni neurologiche (propedeutico per le materie di insegnamento di base del terzo anno);  
-2) semeiotica e clinica delle deformita' e motulesioni ortopediche (come sopra);  
-3) massoterapia e terapia manuale;  
-4) cinesiologia e cinesiterapia e ginnastica medica;  
-5) idroterapia e balneoterapia.  
-3° Anno:  
-1) elettroterapia ed elettrologia;  
-2) terapia con onde corte ed altri mezzi fisici;  
-3) rieducazione motoria e riabilitazione in campo ortopedico e traumatologico;  
-4) rieducazione motoria e riabilitazione in campo neurologico.  
-Insegnamenti complementari:  
-1) elettromiografia;  
-2) cinesiterapia e riabilitazione nelle malattie internistiche;  
-3) rieducazione respiratoria;  
-4) riabilitazione nei disturbi del linguaggio;  
-5) problemi psicologici e psicopatologici della riabilitazione;  
-6) medicina assicurativa;  
-7) rieducazione nei disturbi della visione;  
-8) climatoterapia;  
-9) problemi di riabilitazione geriatrica;  
-10) riqualificazione professionale.  
+INSEGNAMENTI FACOLTATIVI:  
+semeiotica dei tumori;  
+tecniche chirurgiche complementari;  
+chirurgia riparatrice.  
+Art. 296. - La frequenza ai corsi e alle esercitazioni e' obbligatoria.  
+Art. 297. - Alla fine di ogni anno gli allievi dovranno sostenere un esame di profitto sulle materie che sono state oggetto di insegnamento.  
+Art. 298. - Alla fine del triennio gli allievi dovranno presentare una dissertazione scritta e sostenere un esame di diploma.  
+Art. 299. - Il direttore della scuola, al di fuori dei docenti incaricati ufficialmente, puo' invitare studiosi competenti ad impartire lezioni o conferenze su argomenti di speciale interesse oncologico.  
+Art. 300. - Gli iscritti alle scuole di specializzazione sono tenuti a pagare le tasse e soprattasse secondo quanto stabilito per gli studenti della facolta' di medicina e chirurgia, nonche' la tassa di diploma nella misura di L. 6.000 ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7). Sono altresi' tenuti al pagamento di speciali contributi nella misura che sara' determinata dal consiglio di amministrazione, previo parere della facolta', su proposta del direttore della scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 settembre 1980
+### Dato a Roma, addi' 27 ottobre 1976
 
-PERTINI SARTI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: SARTI
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 10 aprile 1981
+Registrato alla Corte dei conti, addi' 28 dicembre 1976
 
-Registro n. 33 Istruzione, foglio n. 376
+Registro n. 102 Istruzione, foglio n. 73

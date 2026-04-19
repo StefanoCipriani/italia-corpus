@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1985 n. 1109
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 667
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1985 n. 1109
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 667
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
@@ -39,25 +39,20 @@ Articolo unico
 --------------
 
   
-Nell'art. 69, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-antropologia sociale;  
-epidemiologia;  
-chirurgia cardiovascolare;  
-biologia molecolare;  
-metodologie biochimiche.  
+  
+Nell'art. 74, relativo al corso di laurea in odontoiatria e protesi dentaria, nell'elenco degli insegnamenti fondamentali e complementari sono soppressi gli asterischi.   
+Nel medesimo articolo il primo comma dopo l'elenco degli insegnamenti complementari e' soppresso.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 settembre 1985
+### Dato a Roma, addi' 16 giugno 1983
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 10 giugno 1986
+Registrato alla Corte dei conti, addi' 23 novembre 1983
 
-Registro n. 45 Istruzione, foglio n. 367
+Registro n. 71 Istruzione, foglio n. 276

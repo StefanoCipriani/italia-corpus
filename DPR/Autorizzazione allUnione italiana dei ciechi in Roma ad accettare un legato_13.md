@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1985 n. 184
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 139
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1985 n. 184
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 139
 ===============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare un legato.
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-184. Decreto del Presidente della Repubblica 12 febbraio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il legato, consistente in buoni del Tesoro per un valore di L. 100.000.000, disposto dalla prof.ssa Barbizzoli Angela Maria ved. Migliavacca, con testamento olografo 16 luglio 1975, pubblicato in data 9 giugno 1982, n. 371565/12394 di repertorio, a rogito avv. Luigi Piontelli, notaio in Milano, registrato a Milano in data 11 giugno 1982 al n. 11861, con l'onere di destinare il reddito della somma elargita al funzionamento della "Casa di riposo Carlo e Antonio Migliavacca", in Caravate (Varese).  
+139. Decreto del Presidente della Repubblica 26 febbraio 1932, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il legato disposto dalla sig.na Elvira Castagnola con testamento olografo 30 gennaio 1972, pubblicato a rogito dott.  
+Marco Cagnole, notaio in Genova, in data 31 gennaio 1978, n. 10959 di repertorio e registrato a Chiavari (Genova) il 14 febbraio 1978, vol. 238, n. 1209, consistente in beni immobili siti in Chiavari per un valore complessivo dichiarato di L. 71.140.000, elevato dall'ufficio tecnico erariale di Genova a L. 113.000.000.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 2 maggio 1985  
-Registro n. 4 Presidenza, foglio n. 87
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 31 marzo 1982  
+Registro n. 3 Presidenza, foglio n. 123

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1976 n. 951
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 aprile 1957 n. 315
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1976 n. 951
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 aprile 1957 n. 315
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Catania.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con i [regi decreti 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-16;1527); [15 aprile 1942, n. 424](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;424); [5 settembre 1942, n. 1235](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1235); [24 ottobre 1942, n. 1596; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1596) [22 ottobre 1946, n. 423 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1946-10-22;423) [20 luglio 1948, n. 1160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-07-20;1160); [30 ottobre 1949, n. 994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;994); [30 ottobre 1949, n. 1167](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1167); [30 ottobre 1950, n. 1305](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1305); [11 aprile 1951, n. 564](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;564); [27 ottobre 1951, n. 1793](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1793); [11 febbraio 1952, n. 366](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-02-11;366); [26 ottobre 1952, n. 4507](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4507); [10 febbraio 1953, n. 544](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;544); [25 giugno 1953, n. 709](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-06-25;709); [23 marzo 1954, n. 751](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-23;751); [26 ottobre 1954, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-26;1207); [11 aprile 1955 n. 622](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-04-11;622); [20 settembre 1955, n. 937](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-20;937); [25 settembre 1955, n. 959](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-25;959); [16 marzo 1956, n. 529](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-03-16;529) e [3 settembre 1956, n. 1133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-09-03;1133);
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,9 +18,11 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Catania e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -30,193 +32,101 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 176 - all'elenco delle scuole di specializzazione in medicina e chirurgia e' aggiunta la scuola di specializzazione in medicina interna.
+Art. 9. - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti quelli di:
 
-Dopo l'art. 271, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in medicina interna annessa alla facolta' di medicina e chirurgia.
+13) Istituzioni di diritto pubblico;
 
-Scuola di specializzazione in medicina interna
+14) Storia delle dottrine politiche;
 
-Art. 272. - La scuola di specializzazione in medicina interna avra' la durata di cinque anni.
+15) Politica economica e finanziaria;
 
-Art. 273. - La direzione della scuola viene affidata al professore ordinario di clinica medica che tiene, a titolo ufficiale, l'insegnamento di clinica medica generale e terapia medica.
+16) Diritto fallimentare;
 
-Art. 274.- Il corso delle lezioni sara' impartito, oltre che dal direttore, da un corpo insegnanti che verra' scelto ogni anno dalla facolta' su proposta del direttore della scuola tra i professori titolari, incaricati, liberi docenti, assistenti di ruolo, tutti cultori particolari delle discipline oggetto d'insegnamento della scuola.
+17) Contabilita' di Stato;
 
-Art. 275. - La sede della scuola e della rispettiva direzione e' la clinica medica generale e terapia medica, mentre alcuni insegnamenti potranno essere impartiti in altri istituti universitari dello stesso ateneo.
+18) Storia dei trattati e politica internazionale.
 
-Art. 276. - Le materie d'insegnamento, in conformita' alla scuola di specializzazione in altre sedi universitarie, vengono fissate ed articolate nella seguente maniera:
+Art. 11. - Agli insegnamenti del corso di laurea in giurisprudenza, dichiarati propedeutici, vanno aggiunti i seguenti:
 
-1° Anno:
+h) istituzioni di diritto privato e diritto costituzionale per il diritto internazionale.
 
-malattie infettive, disreattive e del sangue;
+Art. 26. - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di:
 
-istituzioni di terapia;
+28) Dialettologia siciliana.
 
-anatomia ed istologia patologica (biennale);
+Art. 47. - Agli insegnamenti complementari del corso di laurea in chimica (indirizzo organico biologico e indirizzo inorganico-chimico-fisico) sono aggiunti quelli di:
 
-clinica medica generale e terapia medica (quinquennale).
+Tecnologia e chimica del petrolio;
 
-2° Anno:
+Impianti chimici industriali;
 
-malattie dell'apparato cardiovascolare;
+Chimica applicata.
 
-microbiologia e sierologia;
+Art. 48. - E' aggiunto il seguente comma:
 
-chimica clinica;
-
-anatomia ed istologia patologica (biennale);
-
-clinica medica generale e terapia medica (quinquennale).
-
-3° Anno:
-
-malattie dell'apparato digerente;
-
-malattie renali;
-
-clinica medica generale e terapia medica (quinquennale).
-
-4° Anno:
-
-malattie dell'apparato respiratorio;
-
-malattie del sistema nervoso;
-
-clinica medica generale e terapia medica (quinquennale).
-
-5° Anno:
-
-malattie del ricambio;
-
-malattie delle ghiandole endocrine;
-
-clinica medica generale e terapia medica (quinquennale).
-
-Insegnamenti complementari:
-
-parassitologia medica;
-
-genetica medica;
-
-semeiotica dermatologica;
-
-radiologia;
-
-semeiotica oculistica;
-
-semeiotica ginecologica.
-
-Art. 277. - Gli insegnamenti fondamentali e le esercitazioni vanno tenuti distinti da quelli degli studenti del corso di laurea. Gli insegnamenti possono avere carattere di lezioni cattedratica o pratica, secondo l'indole delle discipline.
-
-Art. 278. - E' obbligatorio per gli allievi un periodo di frequenza o internato nell'istituto di clinica medica generale in cui ha sede la scuola, non inferiore alla meta' della durata di ciascun corso.
-
-Art. 279. - Il programma del corso ed il numero delle lezioni saranno coordinati dalla facolta' su proposta del direttore della scuola.
-
-Art. 280. - Il numero degli allievi che possono essere accolti e' di 4 per ogni anno di corso, mentre con parere della facolta' possono far parte di un corso, in soprannumero, allievi ripetenti e provenienti da altre scuole o istituti universitari.
-
-Art. 281. - La domanda di ammissione alla scuola va indirizzata al magnifico rettore, corredata dal diploma di studi medi di ammissione alla facolta', dal diploma originale di laurea in medicina e chirurgia, dal diploma di abilitazione all'esercizio professionale, dalla carriera scolastica e da altri titoli che l'aspirante ritenga di dover presentare.
-
-Art. 282. - Il direttore della scuola valuta i titoli dei candidati e sottopone gli stessi ad una prova di esame scritta per stabilire una motivata graduatoria per l'iscrizione che sara' proposta al consiglio di facolta'.
-
-Art. 283. - La mancata frequenza esclude gli allievi dagli esami e, sempre su parere del direttore della scuola, se recidiva nell'anno successivo, su parere della facolta', l'allievo viene escluso dal proseguimento del corso.
-
-Art. 284. - Per ottenere il diploma di specialista in medicina interna e' necessario avere eseguito un periodo di internato o di frequenza per il tempo stabilito, avere seguito le lezioni e le esercitazioni, avere superato gli esami previsti dalla scuola e presentare una tesi corredata da contributi personali e discuterla oralmente nell'esame di diploma.
-
-Art. 285. - Gli specializzandi dovranno ottenere la firma di presenza relativa ai singoli corsi di lezioni, alla fine dei quali dovranno sostenere i rispettivi esami. I respinti in non piu' di due materie, potranno essere ammessi nell'anno successivo, mantenendo l'obbligo di superare tali esami alla prima sessione.
-
-Art. 286. - Le commissioni per gli esami di profitto composte da non piu' di tre membri, compreso un libero docente, sono nominate dal consiglio di facolta' su proposta del direttore della scuola. La commissione per gli esami di diploma e' costituita da cinque membri nominati dal consiglio di facolta', udito il parere del direttore della scuola e composta a norma dell'art. 86 del regolamento generale universitario. I candidati non riconosciuti idonei possono presentarsi all'esame di diploma soltanto una seconda volta dopo un anno di frequenza alla scuola. A coloro che superano l'esame di diploma viene rilasciato il diploma di specialista in medicina interna.
+"L'iscrizione e l'esame relativi all'insegnamento di chimica organica sono propedeutici rispettivamente per l'iscrizione e l'esame relativi al corso di esercitazioni di chimica organica e di analisi organica".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 30 ottobre 1976
+Dato a Roma, addi' 2 aprile 1957
 
-LEONE
+GRONCHI
 
-MALFATTI
+ROSSI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: MORO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 30 dicembre 1976 Registro n. 105 Istruzione, foglio n. 313
+alla Corte dei conti, addi' 17 maggio 1957 Atti del Governo, registro n. 105, foglio n. 118. - CARLOMAGNO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;   
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con i [regi decreti 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-16;1527); [15 aprile 1942, n. 424](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;424); [5 settembre 1942, n. 1235](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1235); [24 ottobre 1942, n. 1596; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1596) [22 ottobre 1946, n. 423 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1946-10-22;423) [20 luglio 1948, n. 1160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-07-20;1160); [30 ottobre 1949, n. 994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;994); [30 ottobre 1949, n. 1167](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1167); [30 ottobre 1950, n. 1305](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1305); [11 aprile 1951, n. 564](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;564); [27 ottobre 1951, n. 1793](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1793); [11 febbraio 1952, n. 366](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-02-11;366); [26 ottobre 1952, n. 4507](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4507); [10 febbraio 1953, n. 544](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;544); [25 giugno 1953, n. 709](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-06-25;709); [23 marzo 1954, n. 751](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-23;751); [26 ottobre 1954, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-26;1207); [11 aprile 1955 n. 622](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-04-11;622); [20 settembre 1955, n. 937](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-20;937); [25 settembre 1955, n. 959](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-25;959); [16 marzo 1956, n. 529](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-03-16;529) e [3 settembre 1956, n. 1133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-09-03;1133);   
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Catania e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
 Sulla proposta del Ministro per la pubblica istruzione;   
   
 Decreta:   
   
 Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 176 - all'elenco delle scuole di specializzazione in medicina e chirurgia e' aggiunta la scuola di specializzazione in medicina interna.   
-Dopo l'art. 271, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in medicina interna annessa alla facolta' di medicina e chirurgia.   
-Scuola di specializzazione in medicina interna   
-Art. 272. - La scuola di specializzazione in medicina interna avra' la durata di cinque anni.   
-Art. 273. - La direzione della scuola viene affidata al professore ordinario di clinica medica che tiene, a titolo ufficiale, l'insegnamento di clinica medica generale e terapia medica.   
-Art. 274.- Il corso delle lezioni sara' impartito, oltre che dal direttore, da un corpo insegnanti che verra' scelto ogni anno dalla facolta' su proposta del direttore della scuola tra i professori titolari, incaricati, liberi docenti, assistenti di ruolo, tutti cultori particolari delle discipline oggetto d'insegnamento della scuola.   
-Art. 275. - La sede della scuola e della rispettiva direzione e' la clinica medica generale e terapia medica, mentre alcuni insegnamenti potranno essere impartiti in altri istituti universitari dello stesso ateneo.   
-Art. 276. - Le materie d'insegnamento, in conformita' alla scuola di specializzazione in altre sedi universitarie, vengono fissate ed articolate nella seguente maniera:   
-1° Anno:   
-malattie infettive, disreattive e del sangue;   
-istituzioni di terapia;   
-anatomia ed istologia patologica (biennale);   
-clinica medica generale e terapia medica (quinquennale).   
-2° Anno:   
-malattie dell'apparato cardiovascolare;   
-microbiologia e sierologia;   
-chimica clinica;   
-anatomia ed istologia patologica (biennale);   
-clinica medica generale e terapia medica (quinquennale).   
-3° Anno:   
-malattie dell'apparato digerente;   
-malattie renali;   
-clinica medica generale e terapia medica (quinquennale).   
-4° Anno:   
-malattie dell'apparato respiratorio;   
-malattie del sistema nervoso;   
-clinica medica generale e terapia medica (quinquennale).   
-5° Anno:   
-malattie del ricambio;   
-malattie delle ghiandole endocrine;   
-clinica medica generale e terapia medica (quinquennale).   
-Insegnamenti complementari:   
-parassitologia medica;   
-genetica medica;   
-semeiotica dermatologica;   
-radiologia;   
-semeiotica oculistica;   
-semeiotica ginecologica.   
-Art. 277. - Gli insegnamenti fondamentali e le esercitazioni vanno tenuti distinti da quelli degli studenti del corso di laurea. Gli insegnamenti possono avere carattere di lezioni cattedratica o pratica, secondo l'indole delle discipline.   
-Art. 278. - E' obbligatorio per gli allievi un periodo di frequenza o internato nell'istituto di clinica medica generale in cui ha sede la scuola, non inferiore alla meta' della durata di ciascun corso.   
-Art. 279. - Il programma del corso ed il numero delle lezioni saranno coordinati dalla facolta' su proposta del direttore della scuola.   
-Art. 280. - Il numero degli allievi che possono essere accolti e' di 4 per ogni anno di corso, mentre con parere della facolta' possono far parte di un corso, in soprannumero, allievi ripetenti e provenienti da altre scuole o istituti universitari.   
-Art. 281. - La domanda di ammissione alla scuola va indirizzata al magnifico rettore, corredata dal diploma di studi medi di ammissione alla facolta', dal diploma originale di laurea in medicina e chirurgia, dal diploma di abilitazione all'esercizio professionale, dalla carriera scolastica e da altri titoli che l'aspirante ritenga di dover presentare.   
-Art. 282. - Il direttore della scuola valuta i titoli dei candidati e sottopone gli stessi ad una prova di esame scritta per stabilire una motivata graduatoria per l'iscrizione che sara' proposta al consiglio di facolta'.   
-Art. 283. - La mancata frequenza esclude gli allievi dagli esami e, sempre su parere del direttore della scuola, se recidiva nell'anno successivo, su parere della facolta', l'allievo viene escluso dal proseguimento del corso.   
-Art. 284. - Per ottenere il diploma di specialista in medicina interna e' necessario avere eseguito un periodo di internato o di frequenza per il tempo stabilito, avere seguito le lezioni e le esercitazioni, avere superato gli esami previsti dalla scuola e presentare una tesi corredata da contributi personali e discuterla oralmente nell'esame di diploma.   
-Art. 285. - Gli specializzandi dovranno ottenere la firma di presenza relativa ai singoli corsi di lezioni, alla fine dei quali dovranno sostenere i rispettivi esami. I respinti in non piu' di due materie, potranno essere ammessi nell'anno successivo, mantenendo l'obbligo di superare tali esami alla prima sessione.   
-Art. 286. - Le commissioni per gli esami di profitto composte da non piu' di tre membri, compreso un libero docente, sono nominate dal consiglio di facolta' su proposta del direttore della scuola. La commissione per gli esami di diploma e' costituita da cinque membri nominati dal consiglio di facolta', udito il parere del direttore della scuola e composta a norma dell'art. 86 del regolamento generale universitario. I candidati non riconosciuti idonei possono presentarsi all'esame di diploma soltanto una seconda volta dopo un anno di frequenza alla scuola. A coloro che superano l'esame di diploma viene rilasciato il diploma di specialista in medicina interna.   
+Art. 9. - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti quelli di:   
+13) Istituzioni di diritto pubblico;   
+14) Storia delle dottrine politiche;   
+15) Politica economica e finanziaria;   
+16) Diritto fallimentare;   
+17) Contabilita' di Stato;   
+18) Storia dei trattati e politica internazionale.   
+Art. 11. - Agli insegnamenti del corso di laurea in giurisprudenza, dichiarati propedeutici, vanno aggiunti i seguenti:   
+h) istituzioni di diritto privato e diritto costituzionale per il diritto internazionale.   
+Art. 26. - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di:   
+28) Dialettologia siciliana.   
+Art. 47. - Agli insegnamenti complementari del corso di laurea in chimica (indirizzo organico biologico e indirizzo inorganico-chimico-fisico) sono aggiunti quelli di:   
+Tecnologia e chimica del petrolio;   
+Impianti chimici industriali;   
+Chimica applicata.   
+Art. 48. - E' aggiunto il seguente comma:   
+"L'iscrizione e l'esame relativi all'insegnamento di chimica organica sono propedeutici rispettivamente per l'iscrizione e l'esame relativi al corso di esercitazioni di chimica organica e di analisi organica".   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1976
+### Dato a Roma, addi' 2 aprile 1957
 
-LEONE MALFATTI
+GRONCHI ROSSI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: MORO
 
-Registrato alla Corte dei conti, addi' 30 dicembre 1976
+Registrato alla Corte dei conti, addi' 17 maggio 1957
 
-Registro n. 105 Istruzione, foglio n. 313
+Atti del Governo, registro n. 105, foglio n. 118. - CARLOMAGNO

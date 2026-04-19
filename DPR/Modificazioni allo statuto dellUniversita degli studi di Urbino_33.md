@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 aprile 1950 n. 853
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 dicembre 1963 n. 2198
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 aprile 1950 n. 853
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 dicembre 1963 n. 2198
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Urbino.
 ------------------------------------------------------------------
@@ -10,15 +10,19 @@ Modificazioni allo statuto dell'Universita' degli studi di Urbino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Urbino, approvato con [regio decreto 8 febbraio 1925, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-02-08;230), e modificato con [regi decreti 31 ottobre 1929, n. 2475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1929-10-31;2475), [27 ottobre 1932, n. 2084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2084), [13 dicembre 1934, n. 2403](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-13;2403), [1 ottobre 1936, n. 2019](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2019), [20 dicembre 1937, n. 2684](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1937-12-20;2684), [5 maggio 1939, n. 1145, e con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1939-05-05;1145) [29 novembre 1946, n. 643](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-11-29;643);
+Veduto lo statuto dell'Universita' degli studi di Urbino, approvato con [regio decreto 8 febbraio 1925, numero 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-02-08;230) e modificato con [regio decreto 31 ottobre 1929, n. 2475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2475), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduto il [regio decreto-legge 27 gennaio 1944, n. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-27;58);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 26 luglio 1957, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-07-26;741);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -30,131 +34,167 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Urbino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 14. - Viene sostituito dal seguente:
+Art. 12. - Il secondo comma e' cosi' modificato:
 
-La Facolta' di giurisprudenza conferisce la laurea in giurisprudenza.
+"La Facolta' di lettere e filosofia conferisce la laurea in lettere, la laurea in Filosofia e la laurea in Lingue e letterature straniere moderne (indirizzo europeo)".
 
-La Facolta' di magistero conferisce la laurea in materie letterarie, la laurea in pedagogia, la laurea in lingue e letterature straniere, il diploma di abilitazione alla vigilanza nelle scuole elementari.
+Art. 18. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti quelli di:
 
-La Facolta' di farmacia conferisce la laurea in farmacia.
+16) Antropologia criminale;
 
-Art. 15. - Va cosi' sostituito:
+17) Contabilita' dello Stato;
 
-Gli insegnamenti di ciascuna Facolta' si distinguono in fondamentali e complementari a norma dell'[art. 2 del regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071~art2), e dei [regi decreti 28 novembre 1935, n. 2044](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-11-28;2044), [7 maggio 1936, n. 882](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-05-07;882), [30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652).
+18) Diritto fallimentare;
 
-Per i corsi liberi, il Consiglio delle rispettive Facolta', deve, caso per caso, dichiarare se il programma presentato dal libero docente o cultore della materia, per estensione e per numero di ore di insegnamento cattedratico e di esercitazioni, corrisponda al corso fondamentale o corso complementare.
+19) Filologia giuridica;
 
-Art. 18. - Nell'elenco degli insegnamenti complementari vanno aggiunti i seguenti:
+20) Diritto industriale.
 
-"5. Diritto canonico.
+Dopo l'art. 22 e' aggiunto il seguente nuovo articolo con il conseguente spostamento della numerazione degli articoli successivi relativi alla istituzione del corso di laurea in Lingue e letterature straniere moderne (indirizzo europeo).
 
-6. Diritto privato comparato.
+Laurea in Lingue e letterature straniere moderne
 
-7. Diritto della navigazione.
+Art. 23. - La durata del corso degli studi per la laurea in Lingue e letterature straniere moderne (indirizzo europeo) e' di quattro anni.
 
-8. Diritto comune.
+E' titolo di ammissione il diploma di maturita' classica.
 
-9. Esegesi delle fonti del diritto romano.
+A) Insegnamenti fondamentali:
 
-10. Esegesi delle fonti del diritto italiano.
+1) Letteratura italiana;
 
-11. Storia dei trattati e politica internazionale".
+2) Letteratura latina;
 
-Va aggiunto il seguente comma:
+3) Glottologia;
 
-All'inizio di ogni anno accademico il Consiglio di facolta' propone e il Consiglio di amministrazione approva l'elenco delle quattro materie complementari il cui insegnamento verra' impartito per l'anno medesimo mediante incarichi retribuiti.
+4) Una lingua e Letteratura straniera moderna;
 
-Art. 19. - Va cosi' sostituito:
+5) Una seconda lingua e Letteratura straniera moderna;
 
-Lo studente non puo' sostenere gli esami di diritto civile, di diritto commerciale, di diritto privato comparato, di diritto agrario, di diritto della navigazione, prima di aver superato l'esame di istituzioni di diritto privato; ne' quelli di diritto romano e storia del diritto italiano, prima di avere superato gli esami di istituzioni di diritto romano e di storia del diritto romano; ne' quelli di diritto ecclesiastico, di diritto internazionale, di diritto amministrativo, di diritto del lavoro, prima di aver superato l'esame di diritto costituzionale; ne' quello di medicina legale e delle assicurazioni, prima di aver superato gli esami di diritto penale e di procedura penale; ne' quello di scienza delle finanze e di diritto finanziario, prima di aver superato l'esame di economia politica; ne' quello di diritto comune prima di aver superato l'esame di storia del diritto italiano.
+6) Filologia romanza (o germanica, o slava o ugro-finnica);
 
-Art. 21. - Nell'elenco degli insegnamenti complementari viene soppresso: "Biologia delle razze umane" ed aggiunto quello di "Storia della grammatica e della lingua italiana".
+7) Storia medioevale;
 
-Art. 22. - Nell'elenco degli insegnamenti complementari viene soppresso quello di "Biologia delle razze umane".
+8) Storia moderna;
 
-Dopo l'art. 23 viene aggiunto il seguente nuovo articolo col conseguente spostamento della numerazione degli articoli successivi.
+9) Storia dell'arte moderna (o storia dell'arte medioevale e moderna);
 
-Art. 24. - "I corsi di lingue straniere sono integrati da esercitazioni".
+10) Geografia;
 
-Art. 26 (gia' 24). - Il penultimo capoverso va cosi' sostituito:
+B) Insegnamenti complementari (quando non siano scelti come fondamentali ai suindicati numeri 4, 5 e 6):
 
-"L'ammissione al primo esame orale di una materia che abbia anche la prova scritta si ottiene quando si sia precedentemente superata la prova scritta".
+1) Lingua, e letteratura francese;
 
-Art. 27 (gia' 25). - Va cosi' sostituito:
+2) Lingua e letteratura spagnola;
 
-La Facolta' di farmacia rilascia la laurea in farmacia.
+3) Lingua e letteratura portoghese;
 
-Durata del corso degli studi: quattro anni.
+4) Lingua e letteratura rumena;
 
-E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.
+5) Lingua e letteratura inglese;
 
-Insegnamenti fondamentali:
+6) Lingua e letteratura tedesca;
 
-1. Chimica generale ed inorganica.
+7) Lingua e letterature scandinave;
 
-2. Chimica organica.
+8) Lingue e letteratura russa;
 
-3. Chimica farmaceutica e tossicologica (biennale).
+9) Lingua e letteratura polacca;
 
-4. Esercitazioni di chimica farmaceutica e tossicologica (triennale).
+10) Lingua e letteratura neo-greca.;
 
-5. Chimica biologica.
+11) Una lingua e letteratura moderna dell'Asia o dell'Africa 12) Filologia romanza;
 
-6. Fisica.
+13) Filologia germanica;
 
-7. Farmacologia e farmacognosia.
+14) Filologia slava;
 
-8. Anatomia umana.
+15) Letteratura anglo-americana;
 
-9. Fisiologia generale (biennale).
+16) Letteratura brasiliana;
 
-10. Botanica farmaceutica.
+17) Storia della lingua italiana;
 
-11. Tecnica e legislazione farmaceutica.
+18) Storia della letteratura italiana moderna e contemporanea;
 
-Insegnamenti complementari:
+19) Storia delle tradizioni popolari;
 
-1. Chimica bromatologica.
+20) Storia dell'arte medioevale;
 
-2. Fisiologia vegetale.
+21) Storia della musica;
 
-3. Igiene.
+22) Storia del teatro e dello spettacolo;
 
-4. Mineralogia.
+23) Letteratura greca;
 
-5. Idrologia.
+24) Lingua e letteratura latina medioevale;
 
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed in quattro almeno da lui scelti fra i complementari ed inoltre deve aver compiuto un periodo semestrale di pratica presso una farmacia autorizzata.
+25) Storia e filologia bizantina (o filologia bizantina);
 
-Art. 28 (gia' 26). - Dopo le parole "ne' l'esame di farmacologia e farmacognosia, prima di aver superato l'esame di chimica farmaceutica e tossicologica" vanno aggiunte le seguenti "e di fisiologia generale".
+26) Storia romana;
 
-Alla fine dell'articolo dopo le parole botanica farmaceutica vanno aggiunte le seguenti: "ne' l'esame di tecnica e legislazione farmaceutica, prima di aver superato quelli di chimica farmaceutica e tossicologica e di chimica biologica; ne' l'esame di idrologia, prima di aver superato quello di farmacologia".
+27) Storia greca;
+
+28) Storia dell'Europa orientale;
+
+29) Storia della, filosofia;
+
+30) Storia della filosofia moderna e contemporanea;
+
+31) Filosofia del linguaggio;
+
+32) Letteratura ispano-americana.
+
+Lo studente dovra' seguire i corsi e sostenere gli esami in tutti gli insegnamenti fondamentali e in tre altra insegnamenti da lui scelti fra i complementari. Uno degli insegnamenti complementari potra' essere sostituito dallo studente con una disciplina di altri corsi di studi della stessa o di diversa Facolta'.
+
+L'insegnamento della Lingua e letteratura straniera moderna, alla quale lo studente intende principalmente dedicarsi, dovra' essere seguito per tutti i quattro anni, alla fine di ciascuno dei quali egli sara' sottoposto a prove scritte, di anno in anno gradualmente progressive.
+
+Dovranno poi essere seguiti per due anni l'insegnamento della Filologia a cui quella stessa prima lingua si ricollega, e l'insegnamento della seconda lingua e letteratura straniera moderna prescelta. Due altri insegnamenti fondamentali dovranno pure essere seguiti per un biennio.
+
+Lo studente potra' poi seguire per un biennio anche un altro insegnamento; ed in tal caso potra' ridurre da tre a due gli insegnamenti complementari a sua scelta.
+
+Gli esami di Letteratura italiana e di Letteratura latina comprendono una prova scritta preliminare.
+
+Ove gli insegnamenti di storia medioevale e di storia moderna siano riuniti in una unica cattedra, i corsi rispettivi debbono essere tenuti alternativamente.
+
+Il preside, sentita, ove ritenga, la Facolta', deve controllare i piani di studio presentati dagli studenti ed approvarli prima che siano resi definitivi.
+
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed in tutti gli altri insegnamenti compresi nel piano degli studi approvato dal preside.
+
+Dopo l'art. 49 riguardante le modalita' dell'esame di laurea in Filosofia e' aggiunto il seguente nuovo articolo con il conseguente spostamento della numerazione degli articoli successivi.
+
+Art. 50. - L'esame di laurea in Lingue e letterature straniere moderne consiste:
+
+a) nello svolgimento della dissertazione scritta su tema scelto dallo studente nella lingua nella quale ha approfondito gli studi
+
+b) nella discussione della dissertazione ed eventualmente di una tesina liberamente scelta dal candidato nelle materie professate dalla Facolta', su cui abbia dato saggio negli esami di profitto, esclusa quella cui si riferisce la dissertazione.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 5 aprile 1950
+Dato a Roma, addi' 26 dicembre 1963
 
-EINAUDI
+SEGNI
 
-GONELLA
+GUI
 
-Visto, il Guardasigilli: PICCIONI
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 24 ottobre 1950 Atti del Governo, registro n. 36, foglio n. 24. - CONSOLI
+alla Corte dei conti, addi' 21 febbraio 1964 Atti del Governo, registro n. 181, foglio n. 102. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Urbino, approvato con [regio decreto 8 febbraio 1925, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-02-08;230), e modificato con [regi decreti 31 ottobre 1929, n. 2475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1929-10-31;2475), [27 ottobre 1932, n. 2084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2084), [13 dicembre 1934, n. 2403](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-13;2403), [1 ottobre 1936, n. 2019](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2019), [20 dicembre 1937, n. 2684](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1937-12-20;2684), [5 maggio 1939, n. 1145, e con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1939-05-05;1145) [29 novembre 1946, n. 643](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-11-29;643);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Urbino, approvato con [regio decreto 8 febbraio 1925, numero 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-02-08;230) e modificato con [regio decreto 31 ottobre 1929, n. 2475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2475), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduto il [regio decreto-legge 27 gennaio 1944, n. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-27;58);  
-Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Veduta la [legge 26 luglio 1957, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-07-26;741);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -163,76 +203,86 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Urbino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 14. - Viene sostituito dal seguente:  
-La Facolta' di giurisprudenza conferisce la laurea in giurisprudenza.  
-La Facolta' di magistero conferisce la laurea in materie letterarie, la laurea in pedagogia, la laurea in lingue e letterature straniere, il diploma di abilitazione alla vigilanza nelle scuole elementari.  
-La Facolta' di farmacia conferisce la laurea in farmacia.  
+Art. 12. - Il secondo comma e' cosi' modificato:  
+"La Facolta' di lettere e filosofia conferisce la laurea in lettere, la laurea in Filosofia e la laurea in Lingue e letterature straniere moderne (indirizzo europeo)".  
+Art. 18. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti quelli di:  
+16) Antropologia criminale;  
+17) Contabilita' dello Stato;  
+18) Diritto fallimentare;  
+19) Filologia giuridica;  
+20) Diritto industriale.  
+Dopo l'art. 22 e' aggiunto il seguente nuovo articolo con il conseguente spostamento della numerazione degli articoli successivi relativi alla istituzione del corso di laurea in Lingue e letterature straniere moderne (indirizzo europeo).  
   
-Art. 15. - Va cosi' sostituito:  
-Gli insegnamenti di ciascuna Facolta' si distinguono in fondamentali e complementari a norma dell'[art. 2 del regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071~art2), e dei [regi decreti 28 novembre 1935, n. 2044](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-11-28;2044), [7 maggio 1936, n. 882](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-05-07;882), [30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652).  
-Per i corsi liberi, il Consiglio delle rispettive Facolta', deve, caso per caso, dichiarare se il programma presentato dal libero docente o cultore della materia, per estensione e per numero di ore di insegnamento cattedratico e di esercitazioni, corrisponda al corso fondamentale o corso complementare.  
+Laurea in Lingue e letterature straniere moderne  
   
-Art. 18. - Nell'elenco degli insegnamenti complementari vanno aggiunti i seguenti:  
-"5. Diritto canonico.  
-6. Diritto privato comparato.  
-7. Diritto della navigazione.  
-8. Diritto comune.  
-9. Esegesi delle fonti del diritto romano.  
-10. Esegesi delle fonti del diritto italiano.  
-11. Storia dei trattati e politica internazionale".  
-Va aggiunto il seguente comma:  
-All'inizio di ogni anno accademico il Consiglio di facolta' propone e il Consiglio di amministrazione approva l'elenco delle quattro materie complementari il cui insegnamento verra' impartito per l'anno medesimo mediante incarichi retribuiti.  
-  
-Art. 19. - Va cosi' sostituito:  
-Lo studente non puo' sostenere gli esami di diritto civile, di diritto commerciale, di diritto privato comparato, di diritto agrario, di diritto della navigazione, prima di aver superato l'esame di istituzioni di diritto privato; ne' quelli di diritto romano e storia del diritto italiano, prima di avere superato gli esami di istituzioni di diritto romano e di storia del diritto romano; ne' quelli di diritto ecclesiastico, di diritto internazionale, di diritto amministrativo, di diritto del lavoro, prima di aver superato l'esame di diritto costituzionale; ne' quello di medicina legale e delle assicurazioni, prima di aver superato gli esami di diritto penale e di procedura penale; ne' quello di scienza delle finanze e di diritto finanziario, prima di aver superato l'esame di economia politica; ne' quello di diritto comune prima di aver superato l'esame di storia del diritto italiano.  
-  
-Art. 21. - Nell'elenco degli insegnamenti complementari viene soppresso: "Biologia delle razze umane" ed aggiunto quello di "Storia della grammatica e della lingua italiana".  
-  
-Art. 22. - Nell'elenco degli insegnamenti complementari viene soppresso quello di "Biologia delle razze umane".  
-Dopo l'art. 23 viene aggiunto il seguente nuovo articolo col conseguente spostamento della numerazione degli articoli successivi.  
-  
-Art. 24. - "I corsi di lingue straniere sono integrati da esercitazioni".  
-  
-Art. 26 (gia' 24). - Il penultimo capoverso va cosi' sostituito:  
-"L'ammissione al primo esame orale di una materia che abbia anche la prova scritta si ottiene quando si sia precedentemente superata la prova scritta".  
-  
-Art. 27 (gia' 25). - Va cosi' sostituito:  
-La Facolta' di farmacia rilascia la laurea in farmacia.  
-Durata del corso degli studi: quattro anni.  
-E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.  
-Insegnamenti fondamentali:  
-1. Chimica generale ed inorganica.  
-2. Chimica organica.  
-3. Chimica farmaceutica e tossicologica (biennale).  
-4. Esercitazioni di chimica farmaceutica e tossicologica (triennale).  
-5. Chimica biologica.  
-6. Fisica.  
-7. Farmacologia e farmacognosia.  
-8. Anatomia umana.  
-9. Fisiologia generale (biennale).  
-10. Botanica farmaceutica.  
-11. Tecnica e legislazione farmaceutica.  
-Insegnamenti complementari:  
-1. Chimica bromatologica.  
-2. Fisiologia vegetale.  
-3. Igiene.  
-4. Mineralogia.  
-5. Idrologia.  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed in quattro almeno da lui scelti fra i complementari ed inoltre deve aver compiuto un periodo semestrale di pratica presso una farmacia autorizzata.  
-  
-Art. 28 (gia' 26). - Dopo le parole "ne' l'esame di farmacologia e farmacognosia, prima di aver superato l'esame di chimica farmaceutica e tossicologica" vanno aggiunte le seguenti "e di fisiologia generale".  
-Alla fine dell'articolo dopo le parole botanica farmaceutica vanno aggiunte le seguenti: "ne' l'esame di tecnica e legislazione farmaceutica, prima di aver superato quelli di chimica farmaceutica e tossicologica e di chimica biologica; ne' l'esame di idrologia, prima di aver superato quello di farmacologia".  
+Art. 23. - La durata del corso degli studi per la laurea in Lingue e letterature straniere moderne (indirizzo europeo) e' di quattro anni.  
+E' titolo di ammissione il diploma di maturita' classica.  
+A) Insegnamenti fondamentali:  
+1) Letteratura italiana;  
+2) Letteratura latina;  
+3) Glottologia;  
+4) Una lingua e Letteratura straniera moderna;  
+5) Una seconda lingua e Letteratura straniera moderna;  
+6) Filologia romanza (o germanica, o slava o ugro-finnica);  
+7) Storia medioevale;  
+8) Storia moderna;  
+9) Storia dell'arte moderna (o storia dell'arte medioevale e moderna);  
+10) Geografia;  
+B) Insegnamenti complementari (quando non siano scelti come fondamentali ai suindicati numeri 4, 5 e 6):  
+1) Lingua, e letteratura francese;  
+2) Lingua e letteratura spagnola;  
+3) Lingua e letteratura portoghese;  
+4) Lingua e letteratura rumena;  
+5) Lingua e letteratura inglese;  
+6) Lingua e letteratura tedesca;  
+7) Lingua e letterature scandinave;  
+8) Lingue e letteratura russa;  
+9) Lingua e letteratura polacca;  
+10) Lingua e letteratura neo-greca.;  
+11) Una lingua e letteratura moderna dell'Asia o dell'Africa 12) Filologia romanza;  
+13) Filologia germanica;  
+14) Filologia slava;  
+15) Letteratura anglo-americana;  
+16) Letteratura brasiliana;  
+17) Storia della lingua italiana;  
+18) Storia della letteratura italiana moderna e contemporanea;  
+19) Storia delle tradizioni popolari;  
+20) Storia dell'arte medioevale;  
+21) Storia della musica;  
+22) Storia del teatro e dello spettacolo;  
+23) Letteratura greca;  
+24) Lingua e letteratura latina medioevale;  
+25) Storia e filologia bizantina (o filologia bizantina);  
+26) Storia romana;  
+27) Storia greca;  
+28) Storia dell'Europa orientale;  
+29) Storia della, filosofia;  
+30) Storia della filosofia moderna e contemporanea;  
+31) Filosofia del linguaggio;  
+32) Letteratura ispano-americana.  
+Lo studente dovra' seguire i corsi e sostenere gli esami in tutti gli insegnamenti fondamentali e in tre altra insegnamenti da lui scelti fra i complementari. Uno degli insegnamenti complementari potra' essere sostituito dallo studente con una disciplina di altri corsi di studi della stessa o di diversa Facolta'.  
+L'insegnamento della Lingua e letteratura straniera moderna, alla quale lo studente intende principalmente dedicarsi, dovra' essere seguito per tutti i quattro anni, alla fine di ciascuno dei quali egli sara' sottoposto a prove scritte, di anno in anno gradualmente progressive.  
+Dovranno poi essere seguiti per due anni l'insegnamento della Filologia a cui quella stessa prima lingua si ricollega, e l'insegnamento della seconda lingua e letteratura straniera moderna prescelta. Due altri insegnamenti fondamentali dovranno pure essere seguiti per un biennio.  
+Lo studente potra' poi seguire per un biennio anche un altro insegnamento; ed in tal caso potra' ridurre da tre a due gli insegnamenti complementari a sua scelta.  
+Gli esami di Letteratura italiana e di Letteratura latina comprendono una prova scritta preliminare.  
+Ove gli insegnamenti di storia medioevale e di storia moderna siano riuniti in una unica cattedra, i corsi rispettivi debbono essere tenuti alternativamente.  
+Il preside, sentita, ove ritenga, la Facolta', deve controllare i piani di studio presentati dagli studenti ed approvarli prima che siano resi definitivi.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed in tutti gli altri insegnamenti compresi nel piano degli studi approvato dal preside.  
+Dopo l'art. 49 riguardante le modalita' dell'esame di laurea in Filosofia e' aggiunto il seguente nuovo articolo con il conseguente spostamento della numerazione degli articoli successivi.  
+Art. 50. - L'esame di laurea in Lingue e letterature straniere moderne consiste:  
+a) nello svolgimento della dissertazione scritta su tema scelto dallo studente nella lingua nella quale ha approfondito gli studi  
+b) nella discussione della dissertazione ed eventualmente di una tesina liberamente scelta dal candidato nelle materie professate dalla Facolta', su cui abbia dato saggio negli esami di profitto, esclusa quella cui si riferisce la dissertazione.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 aprile 1950
+### Dato a Roma, addi' 26 dicembre 1963
 
-EINAUDI GONELLA
+SEGNI GUI
 
-Visto, il Guardasigilli: PICCIONI
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 24 ottobre 1950
+Registrato alla Corte dei conti, addi' 21 febbraio 1964
 
-Atti del Governo, registro n. 36, foglio n. 24. - CONSOLI
+Atti del Governo, registro n. 181, foglio n. 102. - VILLA

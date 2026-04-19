@@ -1,110 +1,130 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1969 n. 398
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1949 n. 1027
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1969 n. 398
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1949 n. 1027
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regi decreti 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1743) e [26 marzo 1942, n. 328, e con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-03-26;328) [22 ottobre 1946, n. 398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-10-22;398);
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Vedute le proposte di modificazione allo statuto formulate dalle autorita' accademiche della predetta Universita';
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla
+-----
+
+proposta del Ministro per la pubblica istruzione; Decreta:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:   
+Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato.  
+Dopo l'art. 85 vengono aggiunti i seguenti articoli:  
   
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 55. - L'elenco degli insegnamenti complementari del corso di laurea in chimica (indirizzo organico-biologico ed inorganico-chimico-fisico) e' soppresso e sostituito dal seguente.   
-Indirizzo organico-biologico:   
-1) Analisi matematica (bienn.);   
-2) Geometria 1ª parte;   
-3) Meccanica razionale;   
-(\*) 4) Chimica organica industriale;   
-(\*) 5) Chimica biologica;   
-(\*) 6) Chimica farmaceutica;   
-7) Chimica bromatologica;   
-(\*) 8) Farmacologia;   
-(\*) 9) Chimica delle fermentazioni e batteriologia industriale; (\*) 10) Chimica agraria;   
-12) Radiochimica e chimica nucleare;   
-13) Chimica delle sostanze coloranti;   
-14) Chimica macromolecolare;   
-15) Chimica organica superiore;   
-16) Chimica degli intermedi;   
-17) Strutturistica chimica;   
-18) Chimica teorica;   
-19) Industrie chimiche per l'agricoltura;   
-20) Tecnologie elettrochimiche;   
-21) Cinetica chimica;   
-22) Biochimica fisica;   
-23) Idrologia;   
-24) Chimica analitica strumentale;   
-25) Analisi chimica spettroscopica;   
-26) Chimica degli idrocarburi;   
-27) Chimica fisica organica;   
-28) Chimica fisica industriale;   
-29) Impianti industriali chimici;   
-30) Teoria degli elettroliti;   
-31) Chimica delle sostanze naturali;   
-32) Spettroscopia molecolare.   
-Indirizzo inorganico-chimico-fisico:   
-1) Analisi matematica (bienn.);   
-2) Geometria 1ª parte;   
-3) Meccanica razionale;   
-(\*) 4) Fisica superiore;   
-(\*) 5) Fisica tecnica (corso speciale per chimici e chimici industriali);   
-(\*) 6) Elettrochimica;   
-7) Geochimica;   
-(\*) 8) Chimica applicata (ai materiali da costruzione);   
-(\*) 9) Spettroscopia;   
-(\*) 10) Misure elettriche (corso speciale per chimici e chimici industriali);   
-(\*) 11) Chimica industriale;   
-12) Radiochimica e chimica nucleare;   
-13) Chimica delle sostanze coloranti;   
-14) Chimica macromolecolare;   
-15) Chimica organica superiore;   
-16) Chimica degli intermedi;   
-17) Strutturistica chimica;   
-18) Chimica teorica;   
-19) Chimica fisica delle interfasi;   
-20) Calcolo numerico e tecnica delle applicazioni meccaniche ed elettroniche;   
-21) Statistica industriale;   
-22) Metodi di elaborazione elettronica in chimica;   
-23) Chimica quantistica;   
-24) Chimica statistica;   
-25) Spettroscopia molecolare;   
-26) Spettroscopia a radiofrequenza;   
-27) Tecnologie elettrochimiche;   
-28) Analisi chimica spettroscopica;   
-29) Chimica analitica industriale;   
-30) Termodinamica chimica;   
-31) Chimica fisica industriale;   
-32) Impianti industriali chimici;   
-33) Chimica dei composti di coordinazione;   
-34) Chimica inorganica superiore;   
-35) Magnetochimica;   
-36) Teoria degli elettroliti.   
+Scuola di specializzazione in medicina del lavoro.  
+  
+Art. 86. - Alla Facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in clinica delle malattie del lavoro, con sede presso la clinica medica generale, e con un numero massimo di dodici iscritti fra i tre corsi.  
+Il direttore della clinica medica e' direttore della scuola di specializzazione.  
+Art. 87. - La durata dei suoi corsi e' di anni tre.  
+Art. 88. - Le materie di insegnamento e la loro ripartizione nei singoli anni sono le seguenti:  
+Anno 1°:  
+1) fisiologia del lavoro (annuale);  
+2) fisiopsicotecnica del lavoro (annuale);  
+3) patologia e clinica delle malattie del lavoro (triennale);  
+4) igiene del lavoro (annuale);  
+5) semeiologia e ricerche di laboratorio delle malattie del lavoro (annuale).  
+Anno 2°:  
+1) patologia e clinica delle malattie del lavoro (triennale);  
+2) semeiologia e ricerche di laboratorio delle malattie del lavoro (biennale);  
+3) radiodiagnostica delle malattie del lavoro (biennela);  
+4) infortunistica medico-legale e legislazione del lavoro (annuale);  
+5) infortunistica chirurgica (biennale).  
+Anno 3°:  
+1) patologia e clinica delle malattie del lavoro;  
+2) radiodiagnostica delle malattie del lavoro;  
+3) infortunistica chirurgica.  
+  
+Scuola di specializzazione in urologia.  
+  
+Art. 89. - Alla Facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in urologia con sede presso la clinica; chirurgica e con un numero massimo di dodici inscritti nei tre corsi.  
+Art. 90. - La durata dei suoi corsi e' stabilita in anni tre.  
+Art. 91. - Le materie di insegnamento sono le seguenti:  
+Anno 1°:  
+1) anatomia del sistema urinario;  
+2) fisiologia del sistema urinario;  
+3) patologia chirurgica e semeiologia del sistema urinario (biennale);  
+4) anatomia patologica del sistema urinario (biennale).  
+Anno 2°:  
+1) anatomia patologica del sistema urinario;  
+2) patologia chirurgica e semeiologia del sistema urinario;  
+3) tecnica diagnostica, uroscopia e di laboratorio;  
+4) clinica chirurgica urologica e tecnica operativa.  
+Anno 3°:  
+1) clinica chirurgica urologica e tecnica operativa;  
+2) tecnica diagnostica uroscopica e di laboratorio;  
+3) radiologia delle vie urinarie.  
+  
+Scuola di specializzazione in dermosifilopatica.  
+  
+Art. 92. - Alla Facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in dermosifilopatica con sede presso la clinica dermosifilopatica e con un numero massimo di otto inseriti nei due corsi.  
+Art. 93. - La durata dei corsi e' stabilita in due anni.  
+Art. 94. - Le materie di insegnamento sono le seguenti:  
+Anno 1°:  
+1) anatomia ed istologia normale della cute e degli organi genitali;  
+2) fisiologia della cute e degli organi genitali;  
+3) farmacologia e tecnica terapeutica dermatovenerologica;  
+4) anatomia patologica della cute e degli organi genitali;  
+5) clinica delle malattie cutanee e veneree (biennale).  
+Anno 2°:  
+1) terapia fisica delle malattie cutanee e veneree;  
+2) tecnica diagnostica e di laboratorio;  
+3) legislazione sanitaria e medicina legale dermatovenerologica;  
+4) malattie cutanee tropicali e subtropicali;  
+5) clinica delle malattie cutanee e venerologiche (biennale).  
+  
+Scuola di specializzazione clinica oculistica.  
+  
+Art. 95. - Alla Facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in oculistica, con sede presso la clinica oculistica.  
+Art. 96. - La durata dei suoi corsi e' di tre anni.  
+Art. 97. - Le materie di insegnamento sono le seguenti:  
+Anno 1°:  
+1) anatomia e fisiologia dell'apparato visivo;  
+2) semeiotica oculare;  
+3) igiene e profilassi;  
+4) patologia oculare (biennale).  
+Anno 2°:  
+1) patologia oculare (biennale);  
+2) anatomia patologica (annuale);  
+3) ottica fisiologica;  
+4) oftalmoscopia;  
+5) clinica oculare (biennale).  
+Anno 3°:  
+1) clinica oculare (biennale);  
+2) tecnica operativa;  
+3) organo visivo e malattie generali e nervose;  
+4) infortunistica e medicina legale.  
+Le spese relative al funzionamento delle predette scuole saranno a carico del bilancio ordinario dell'Universita' di Cagliari.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 maggio 1969
+### Dato a Dogliani, addi' 30 ottobre 1949
 
-SARAGAT FERRARI AGGRADI
+EINAUDI GONELLA
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: GRASSI
 
-Registrato alla Corte dei conti, addi' 16 luglio 1969
+Registrato alla Corte dei conti, addi' 17 gennaio 1950
 
-Atti del Governo, registro n. 228, foglio n. 8. - CARUSO
+Atti del Governo, registro n. 31, foglio n. 42. - FRASCA

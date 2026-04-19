@@ -1,304 +1,82 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1979 n. 377
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1077
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1979 n. 377
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1077
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Firenze e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-All'art. 150 e' aggiunto il seguente comma:
-
-La facolta' di agraria rilascia anche la laurea in agricoltura tropicale e subtropicale.
-
-Dopo l'art. 152, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione del corso di laurea in agricoltura tropicale e subtropicale:
-
-Art. 153. - La durata del corso degli studi per la laurea in agricoltura tropicale e subtropicale e' di quattro anni.
-
-I titoli di ammissione sono quelli previsti dalle vigenti disposizioni di legge.
-
-Sono insegnamenti fondamentali:
-
-(\*) anatomia e fisiologia degli animali domestici;
-
-(\*) botanica generale;
-
-(\*) chimica generale ed inorganica con applicazioni di analitica; (\*) chimica organica;
-
-(\*) matematica;
-
-(\*) fisica;
-
-(\*) principi di economia politica e di statistica;
-
-(\*) economia e politica agraria (biennale);
-
-(\*) microbiologia agraria e tecnica;
-
-(\*) topografia, costruzioni rurali con applicazioni di disegno;
-
-(\*) zootecnica generale;
-
-(\*) agronomia generale e coltivazioni erbacee (biennale);
-
-(\*) estimo rurale e contabilita';
-
-(\*) meccanica agraria con applicazioni di disegno;
-
-(\*\*) meccanizzazione delle colture tropicali e subtropicali;
-
-(\*\*) coltivazioni erbacee delle regioni tropicali e subtropicali (semestrale);
-
-(\*\*) industrie agrarie tropicali e subtropicali;
-
-biogeografia ed ecologia;
-
-botanica sistematica ad indirizzo tropicale;
-
-pedologia tropicale e subtropicale;
-
-coltivazioni arboree tropicali e subtropicali;
-
-patologia vegetale tropicale e subtropicale;
-
-zootecnica speciale tropicale subtropicale;
-
-chimica del suolo tropicale e subtropicale;
-
-entomologia agraria tropicale e subtropicale;
-
-nutrizione e alimentazione animale;
-
-tecniche irrigue dei Paesi aridi.
-
-Sono insegnamenti complementari:
-
-biochimica vegetale;
-
-costruzioni stradali forestali e agrarie;
-
-difesa e conservazione del suolo;
-
-fitogeografia tropicale e subtropicale;
-
-lingua inglese;
-
-lingua francese;
-
-partecipazione, sviluppo, divulgazione;
-
-pianificazione, sviluppo e gestione delle risorse idriche;
-
-trattrici agricole e macchine per la lavorazione del terreno;
-
-elementi di meccanica e motori;
-
-litologia e geomorfologia tropicale e subtropicale;
-
-gestione dei pascoli tropicali e subtropicali;
-
-assestamento e dendrometria forestale tropicale e subtropicale;
-
-economia e politica forestale;
-
-tecnologia del legno e utilizzazioni forestali tropicali e subtropicali;
-
-entomologia forestale tropicale e subtropicale;
-
-manutenzioni e riparazioni (semestrale);
-
-aridocoltura e coltivazioni delle terre salse (semestrale);
-
-conservazione dei prodotti agricoli (semestrale);
-
-cooperazione agricola (semestrale);
-
-economia e pianificazione dei Paesi tropicali e subtropicali (semestrale);
-
-impianti elettrici e fonti alternative di energia (semestrale);
-
-tecnica di lotta alle malerbe (semestrale);
-
-inventari forestali (semestrale);
-
-tecnica della progettazione (semestrale);
-
-selvicoltura tropicale e subtropicale;
-
-geografia economica dei Paesi tropicali e subtropicali;
-
-metodologia statistica e sperimentale;
-
-orticoltura e floricoltura tropicale e subtropicale;
-
-principi di diritto dei Paesi tropicali e subtropicali;
-
-cartografia e fotointerpretazione (semestrale);
-
-fisiopatologia degli allevamenti (semestrale);
-
-gestione dei parchi e delle riserve (semestrale);
-
-morfologia degli animali domestici dei Paesi tropicali e subtropicali (semestrale);
-
-piante arboree ed arbustive ornamentali tropicali e subtropicali (semestrale);
-
-produzione delle sementi (semestrale).
-
-Gli insegnamenti contrassegnati con un asterisco sono in comune con il corso di laurea in scienze agrarie.
-
-Gli insegnamenti indicati con due asterischi sono comuni con il corso di laurea in scienze agrarie solo se attivati per detto corso.
-
-Art. 154. - Sono anche complementari tutte le altre discipline fondamentali e complementari dei corsi di scienze agrarie e di scienze forestali.
-
-Art. 155. - Per essere ammesso all'esame di laurea lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed in quattro almeno da lui scelti fra i complementari se a corso annuale, in cinque almeno se due di essi sono a corso semestrale.
-
-Art. 156. - Sono valide, per quanto pertinenti, le disposizioni contenute negli articoli 157 (ex art. 153), 158, 159, 160 e 161 dello statuto approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e successivi aggiornamenti.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 14 marzo 1979
-
-PERTINI
-
-PEDINI
-
-Visto, il Guardasigilli: MORLINO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 28 luglio 1979 Registro n. 60 Istruzione, foglio n. 184
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Firenze e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Veduto lo statuto dell'Universita' di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Firenze e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-All'art. 150 e' aggiunto il seguente comma:  
-  
-La facolta' di agraria rilascia anche la laurea in agricoltura tropicale e subtropicale.  
-Dopo l'art. 152, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione del corso di laurea in agricoltura tropicale e subtropicale:  
-Art. 153. - La durata del corso degli studi per la laurea in agricoltura tropicale e subtropicale e' di quattro anni.  
-I titoli di ammissione sono quelli previsti dalle vigenti disposizioni di legge.  
-Sono insegnamenti fondamentali:  
-(\*) anatomia e fisiologia degli animali domestici;  
-(\*) botanica generale;  
-(\*) chimica generale ed inorganica con applicazioni di analitica; (\*) chimica organica;  
-(\*) matematica;  
-(\*) fisica;  
-(\*) principi di economia politica e di statistica;  
-(\*) economia e politica agraria (biennale);  
-(\*) microbiologia agraria e tecnica;  
-(\*) topografia, costruzioni rurali con applicazioni di disegno;  
-(\*) zootecnica generale;  
-(\*) agronomia generale e coltivazioni erbacee (biennale);  
-(\*) estimo rurale e contabilita';  
-(\*) meccanica agraria con applicazioni di disegno;  
-(\*\*) meccanizzazione delle colture tropicali e subtropicali;  
-(\*\*) coltivazioni erbacee delle regioni tropicali e subtropicali (semestrale);  
-(\*\*) industrie agrarie tropicali e subtropicali;  
-biogeografia ed ecologia;  
-botanica sistematica ad indirizzo tropicale;  
-pedologia tropicale e subtropicale;  
-coltivazioni arboree tropicali e subtropicali;  
-patologia vegetale tropicale e subtropicale;  
-zootecnica speciale tropicale subtropicale;  
-chimica del suolo tropicale e subtropicale;  
-entomologia agraria tropicale e subtropicale;  
-nutrizione e alimentazione animale;  
-tecniche irrigue dei Paesi aridi.  
-Sono insegnamenti complementari:  
-biochimica vegetale;  
-costruzioni stradali forestali e agrarie;  
-difesa e conservazione del suolo;  
-fitogeografia tropicale e subtropicale;  
-lingua inglese;  
-lingua francese;  
-partecipazione, sviluppo, divulgazione;  
-pianificazione, sviluppo e gestione delle risorse idriche;  
-trattrici agricole e macchine per la lavorazione del terreno;  
-elementi di meccanica e motori;  
-litologia e geomorfologia tropicale e subtropicale;  
-gestione dei pascoli tropicali e subtropicali;  
-assestamento e dendrometria forestale tropicale e subtropicale;  
-economia e politica forestale;  
-tecnologia del legno e utilizzazioni forestali tropicali e subtropicali;  
-entomologia forestale tropicale e subtropicale;  
-manutenzioni e riparazioni (semestrale);  
-aridocoltura e coltivazioni delle terre salse (semestrale);  
-conservazione dei prodotti agricoli (semestrale);  
-cooperazione agricola (semestrale);  
-economia e pianificazione dei Paesi tropicali e subtropicali (semestrale);  
-impianti elettrici e fonti alternative di energia (semestrale);  
-tecnica di lotta alle malerbe (semestrale);  
-inventari forestali (semestrale);  
-tecnica della progettazione (semestrale);  
-selvicoltura tropicale e subtropicale;  
-geografia economica dei Paesi tropicali e subtropicali;  
-metodologia statistica e sperimentale;  
-orticoltura e floricoltura tropicale e subtropicale;  
-principi di diritto dei Paesi tropicali e subtropicali;  
-cartografia e fotointerpretazione (semestrale);  
-fisiopatologia degli allevamenti (semestrale);  
-gestione dei parchi e delle riserve (semestrale);  
-morfologia degli animali domestici dei Paesi tropicali e subtropicali (semestrale);  
-piante arboree ed arbustive ornamentali tropicali e subtropicali (semestrale);  
-produzione delle sementi (semestrale).  
-Gli insegnamenti contrassegnati con un asterisco sono in comune con il corso di laurea in scienze agrarie.  
-Gli insegnamenti indicati con due asterischi sono comuni con il corso di laurea in scienze agrarie solo se attivati per detto corso.  
-Art. 154. - Sono anche complementari tutte le altre discipline fondamentali e complementari dei corsi di scienze agrarie e di scienze forestali.  
-Art. 155. - Per essere ammesso all'esame di laurea lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed in quattro almeno da lui scelti fra i complementari se a corso annuale, in cinque almeno se due di essi sono a corso semestrale.  
-Art. 156. - Sono valide, per quanto pertinenti, le disposizioni contenute negli articoli 157 (ex art. 153), 158, 159, 160 e 161 dello statuto approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e successivi aggiornamenti.  
+Lo statuto dell'Universita' di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 9 - all'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti i seguenti:   
+storia e sistemi dei rapporti fra Stato e Chiesa;   
+diritto tributario;   
+diritto anglo-americano;   
+diritto dei paesi socialisti.   
+Nello stesso elenco sono soppressi i seguenti insegnamenti complementari:   
+demografia;   
+economia regionale;   
+legislazione della circolazione e dei trasporti;   
+diritto dei popoli germanici.   
+Gli articoli 259, 260 e 262, relativi alla scuola di specializzazione in agricoltura tropicale e sub-tropicale annessa alla facolta' di agraria, sono abrogati e sostituiti dai seguenti:   
+Art. 259. - Con le modalita' previste dall'[art. 6 della legge 6 ottobre 1962, n. 1612](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-10-06;1612~art6), potranno essere stabiliti accordi di collaborazione tra Universita' e Istituto agronomico per l'oltremare di Firenze per il migliore funzionamento della scuola.   
+La direzione della scuola e' affidata ogni anno dal consiglio della facolta' di agraria ad un professore di ruolo, fuori ruolo o incaricato della facolta' stessa, competente nel campo della specializzazione.   
+Gli insegnamenti nella scuola sono affidati anno per anno dalla facolta' di agraria su proposta del direttore della scuola, avvalendosi anche dei docenti di altre facolta' e dell'Istituto agronomico per l'oltremare nonche' di esperti particolarmente qualificati.   
+Art. 260. - Gli insegnamenti impartiti ogni anno saranno scelti dal consiglio dei professori della scuola nel seguente elenco in numero non inferiore a quattordici:   
+biogeografia delle regioni tropicali e sub-tropicali;   
+agronomia dei paesi tropicali e sub-tropicali;   
+coltivazioni erbacee tropicali e sub-tropicali;   
+coltivazioni arboree tropicali e sub-tropicali;   
+zootecnica dei paesi tropicali e sub-tropicali;   
+tecniche di trasformazione dei prodotti agrari tropicali e sub-tropicali;   
+entomologia agraria tropicale e sub-tropicale;   
+patologia delle piante tropicali e sub-tropicali;   
+economia e politica agraria dei paesi tropicali e sub-tropicali; selvicoltura tropicale e sub-tropicale;   
+macchine e meccanizzazione delle colture tropicali e sub-tropicali;   
+tecnologia dei legnami tropicali e sub-tropicali;   
+metodologia e tecnica sperimentale;   
+progetti di sviluppo economico;   
+botanica tropicale;   
+pedologia tropicale;   
+idrologia applicata;   
+uso e governo delle acque;   
+alimentaristica applicata alle zone tropicali e sub-tropicali;   
+aereofotointerpretazione;   
+orticoltura e floricoltura nelle regioni tropicali;   
+climatologia delle regioni tropicali sub-tropicali;   
+pianificazione e sviluppo economico.   
+Possono, inoltre, essere istituiti corsi speciali da designare, in numero non superiore a due, che saranno stabiliti all'inizio di ciascun anno dal consiglio dei docenti della scuola.   
+I suddetti insegnamenti saranno integrati da seminari, colloqui ed esercitazioni su speciali argomenti, nonche' da viaggi di istruzione in zone tropicali e sub-tropicali.   
+Il consiglio della scuola puo' istituire piu' indirizzi di studio e consigliarli agli allievi.   
+Art. 262. - Per essere ammesso all'esame di diploma lo studente deve aver seguito i corsi e superato gli esami di profitto in almeno otto degli insegnamenti di cui al precedente elenco.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 marzo 1979
+### Dato a Roma, addi' 31 ottobre 1977
 
-PERTINI PEDINI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 28 luglio 1979
+Registrato alla Corte dei conti, addi' 10 febbraio 1978
 
-Registro n. 60 Istruzione, foglio n. 184
+Registro n. 14 Istruzione, foglio n. 102

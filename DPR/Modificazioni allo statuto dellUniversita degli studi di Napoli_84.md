@@ -1,233 +1,331 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1980 n. 1232
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 giugno 1977 n. 784
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1980 n. 1232
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 giugno 1977 n. 784
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio universitario nazionale nei suoi pareri;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Lo statuto dell'Universita' di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938; n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Dopo l'art. 560, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione, presso la prima facolta' di medicina e chirurgia, della scuola di specializzazione in oncologia.  
+Decreta:   
   
-Scuola di specializzazione in oncologia  
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Gli articoli 446 e 447, relativi alla scuola di specializzazione in radiologia della 1ª facolta' di medicina e chirurgia, sono abrogati e sostituiti dai seguenti:   
   
-Art. 561. - La scuola di specializzazione in oncologia ha sede presso l'istituto di patologia generale e conferisce il diploma di specialista in oncologia.  
-Art. 562. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.  
-Art. 563. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto all'inizio del corso il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalla autorita' competente.  
-Art. 564. - La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazione.  
-Art. 565. - Il numero massimo degli allievi e' di venti per anno di corso e complessivamente di sessanta iscritti per l'intero corso di studi.  
-Art. 566. - L'ammissione al corso avviene per titoli ed esami.  
-Art. 567. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-patologia generale dei tumori I;  
-oncologia sperimentale I;  
-anatomia ed istologia patologica dei tumori I;  
-epidemiologia dei tumori;  
-cancerogenesi ambientale e professionale e prevenzione primaria;  
-immunologia dei tumori.  
-2° Anno:  
-patologia generale dei tumori II;  
-oncologia sperimentale II;  
-anatomia ed istologia patologica dei tumori II;  
-citodiagnostica dei tumori;  
-prevenzione clinica e tecniche diagnostiche e di laboratorio;  
-radiodiagnostica dei tumori;  
-oncologia medica I;  
-oncologia chirurgica I.  
-3° Anno:  
-oncologia medica II;  
-oncologia chirurgica II;  
-radioterapia dei tumori;  
-oncologia dell'apparato genitale femminile;  
-oncologia pediatrica;  
-principi di riabilitazione oncologica;  
-organizzazione della lotta contro i tumori.  
-La scuola provvede ad organizzare seminari e conferenze su specifici argomenti ad integrazione di quelli elencati nello statuto.  
-Art. 568. - La frequenza alle lezioni, alle esercitazioni pratiche, seminari e conferenze organizzate dalla scuola e' obbligatoria per l'ammissione agli esami. Il superamento degli esami di ciascuno anno e' condizione indispensabile per l'iscrizione all'anno successivo.  
-Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.  
-Art. 569. - Al termine del triennio per ottenere il diploma i candidati devono presentare una dissertazione scritta su un argomento attinente alla specializzazione.  
-
-Art. 2
-------
-
+Scuola di specializzazione in radiologia   
   
-Gli articoli 618, 619, 620, 621, relativi alla scuola di specializzazione in ortopedia e traumatologia della seconda facolta' di medicina e chirurgia, che muta la denominazione in ortopedia, sono soppressi e sostituiti dai seguenti;  
+Art. 46. - La scuola rilascia i seguenti diplomi di specializzazione:   
+1) radiologia;   
+2) radiologia diagnostica.   
+La scuola ha sede presso l'istituto di radiologia ed e' diretta dal professore titolare dell'insegnamento. La scuola e' riservata ai laureati in medicina e chirurgia che possono essere accolti in numero massimo di 10 per ciascun anno di corso per radiologia e 40 per radiologia diagnostica.   
+Art. 447. - La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia e' di quattro anni.   
+Gli insegnamenti sono i seguenti:   
   
-Scuola di specializzazione in ortopedia  
+a) Matematica, fisica, nozioni di statistica ed informatica (annuale) comprendente:   
+1) richiami di matematica e fisica generale;   
+2) costituzione della materia;   
+3) produzione, assorbimento e misura delle radiazioni;   
+4) statistica applicata alla medicina;   
+5) informatica e cibernetica applicate alla radiologia.   
   
-Art. 618. - La scuola di specializzazione in ortopedia ha sede presso la clinica ortopedica della seconda facolta' di medicina e chirurgia e conferisce il diploma di specialista in ortopedia. La scuola comprende un insegnamento teorico e pratico.  
-Art. 619. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.  
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.  
-La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazioni.  
-Il numero massimo degli allievi e' di sei per anno di corso e complessivamente di trenta iscritti per l'intero corso di studi.  
-L'ammissione al corso avviene per titoli ed esami.  
-Art. 620. - Le materie d'insegnamento sono le seguenti:  
-1° Anno:  
-Insegnamento pratico:  
-chirurgia generale;  
-pronto soccorso generale;  
-fisioterapia.  
-Insegnamento teorico:  
-anatomia dell'apparato locomotore;  
-fisiologia dell'apparato locomotore;  
-semeiotica ortopedica;  
-nozioni di chirurgia generale;  
-bioingegneria dell'apparato locomotore I.  
-2° Anno:  
-Insegnamento pratico:  
-chirurgia generale (con frequenza eventuale in reparti specialistici interessanti per l'apparato locomotore);  
-reparti di pronto soccorso traumatologico;  
-reparti di ortopedia e traumatologia.  
-Insegnamento teorico:  
-anatomia ed istologia patologica dell'apparato locomotore I; patologia dell'apparato locomotore I;  
-clinica ortopedica I;  
-traumatologia dell'apparato locomotore I;  
-radiologia I;  
-nozioni di chirurgia d'urgenza e pronto soccorso;  
-bioingegneria dell'apparato locomotore II.  
-3° Anno:  
-Insegnamento pratico:  
-reparti di ortopedia e traumatologia (in particolare sale di degenza e sale gessi).  
-Insegnamento teorico:  
-anatomia ed istologia patologica dell'apparato locomotore II; patologia dell'apparato locomotore II;  
-clinica ortopedica II;  
-traumatologia dell'apparato locomotore II;  
-radiologia II;  
-tecnica operatoria I;  
-apparatoterapia e tecnica degli apparecchi gessati;  
-elementi di reumatologia.  
-4° Anno:  
-Insegnamento pratico:  
-reparti di ortopedia e traumatologia (frequenza nei reparti operatori).  
-Insegnamento teorico:  
-patologia dell'apparato locomotore III;  
-clinica ortopedica III;  
-traumatologia dell'apparato locomotore III;  
-tecnica operatoria II;  
-fisiokinesiterapia I;  
-neuropatologia dell'apparato locomotore ed elettrodiagnostica;  
-nozioni di medicina legale.  
-5° Anno:  
-Insegnamento pratico:  
-reparti di ortopedia e traumatologia (frequenza nei reparti operatori);  
-officine ortopediche.  
-Insegnamento teorico:  
-patologia dell'apparato locomotore IV;  
-clinica ortopedica IV;  
-traumatologia dell'apparato locomotore IV;  
-tecnica operatoria III;  
-fisiokinesiterapia II.  
-Art. 621. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.  
-Alla fine di ogni corso gli iscritti per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.  
-Al termine del corso di studi per il conseguimento del diploma di specialista in ortopedia gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
-
-Art. 3
-------
-
+b) Radiodiagnostica (triennale) comprendente:   
+1) principi generali di radiodiagnostica;   
+2) apparecchi, strumenti e tecnica radiodiagnostica;   
+3) tecnica e fisiologia applicate alla radiodiagnostica;   
+4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;   
+5) semeiotica radiologica;   
+6) diagnostica differenziale radiologica;   
+7) dimostrazioni autopiche di pazienti sottoposti ad esami radiologici;   
+8) dimostrazioni di casistica clinica.   
   
-Dopo l'art. 652, e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi alla istituzione, presso la seconda facolta' di medicina e chirurgia, della scuola di specializzazione in patologia generale.  
+c) Radiobiologia (annuale) comprendente:   
+1) radiobiologia generale;   
+2) danni da radiazioni e radiopatie.   
   
-Scuola di specializzazione in patologia generale  
+d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:   
+1) legislazione sanitaria applicata alla radiologia;   
+2) compiti e responsabilita' medico-legali del radiologo;   
+3) radioprotezione fisica e dosimetria ad essa connessa;   
+4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;   
+5) radioprotezione chimica;   
+6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.   
   
-Art. 653. - La scuola di specializzazione in patologia generale ha sede presso l'istituto di patologia generale della seconda facolta' di medicina e chirurgia dell'Universita' di Napoli. Il corso degli studi ha la durata di quattro anni, suddiviso in due bienni.  
-La durata complessiva del corso di studi non e' suscettibile di abbreviazioni.  
-La frequenza alla scuola e' obbligatoria.  
-Gli allievi che non conseguono le attestazioni di frequenza non possono essere ammessi a sostenere le singole prove di esame.  
-Art. 654. - Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia, ai quali, dopo aver superato l'esame finale sara' rilasciato il diploma di specialista in patologia generale. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalle autorita' competenti.  
-Art. 655. - Alla scuola stessa vengono ammessi i laureati in medicina veterinaria, in scienze biologiche, in scienze naturali, in farmacia, in chimica e tecnologia farmaceutiche, ai quali, dopo aver superato l'esame finale, sara' rilasciato il diploma di specialista in patologia generale con indirizzo tecnico.  
-Art. 656. - L'ammissione al corso di specializzazione avviene per titoli ed esami.  
-Il numero massimo degli allievi e' di dieci per anno di corso e complessivamente di quaranta iscritti per l'intero corso di studi.  
-Art. 657. - Le materie di insegnamento sono le seguenti:  
+e) Radioterapia e terapia fisica (triennale) comprendente:   
+1) radiobiologia applicata;   
+2) fondamenti generali di radioterapia e terapia fisica;   
+3) istopatologia speciale dei tumori;   
+4) nozioni sugli apparecchi e strumenti per la radioterapia;   
+5) tecnica e metodica radioterapica;   
+6) dosimetria;   
+7) clinica radioterapica;   
+8) fondamenti generali di chemioterapia oncologica;   
+9) chemioterapia clinica dei tumori e sua associazione alla radioterapia;   
+10) dimostrazione di casistica clinica.   
   
-I BIENNIO  
-(Propedeutico)  
+f) Medicina nucleare (biennale) comprendente:   
+1) elementi di medicina nucleare;   
+2) istrumentario, tecnica e metodica dell'impiego dei radioisotopi in medicina nucleare;   
+3) dosimetria dei radioisotopi somministrati per via interna;   
+4) diagnostica con radioisotopi somministrati per via interna;   
+5) radioterapia metabolica;   
+6) dimostrazioni di casistica clinica.   
   
-1° Anno:  
-1) istituzioni di patologia generale;  
-2) patologia delle infezioni;  
-3) epidemiologia e patologia ambientale;  
-4) immunologia;  
-5) parassitologia e diagnostica parassitologica.  
-2° Anno:  
-6) radiobiologia e patologia da radiazioni;  
-7) oncologia generale;  
-8) immunopatologia e analisi immunologiche;  
-9) analisi chimicocliniche;  
-10) fisiopatologia generale I corso (metabolismo e sistema endocrino).  
+I singoli insegnamenti, tenuti da uno o piu' docenti, a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze, dimostrazioni pratiche, e ove opportuno e possibile, da visite ad istituzioni di particolare interesse sono cosi' distribuiti nei quattro anni di corso:   
   
-II BIENNIO  
-(conseguimento per il diploma di specialista in patologia generale)   
-3° Anno:  
-11) diagnostica di laboratorio di citopatologia e citogenetica;  
-12) diagnostica di laboratorio di batteriologia e virologia;  
-13) fisiopatologia generale II corso (termoregolazione, sistema cardiocircolatorio, sangue ed organi emopoietici).  
-4° Anno:  
-14) diagnostica oncologica;  
-15) diagnostica istopatologica;  
-16) diagnostica ultrastrutturale;  
-17) fisiopatologia generale III corso (fegato, sistema digerente, renale, respiratorio).  
+1° Anno (tronco comune):   
+matematica, fisica, nozioni di statistica ed informatica;   
+radiobiologia, protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;   
+radiodiagnostica (I).   
   
-II BIENNIO  
-(conseguimento per il diploma di specialista in patologia generale con indirizzo tecnico)  
+2° Anno:   
+radiodiagnostica (II);   
+radioterapia e terapia fisica (I).   
   
-3° Anno:  
-11) tecniche di batteriologia;  
-12) tecniche di virologia;  
-13) tecniche di citologia e citogenetica.  
-4° Anno:  
-14) statistica e biometria;  
-15) colture in vitro: aspetti biologici e applicativi;  
-16) tecniche ematologiche;  
-17) tecniche istologiche ed ultrastrutturali.  
-Art. 658. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.  
-Art. 659. - Il direttore, puo' stabilire, per un piu' proficuo conseguimento dei fini della scuola che siano tenuti corsi complementari e conferenze su materie ed argomenti che abbiano attinenza o affinita' con gli insegnamenti impartiti nella scuola stessa.  
-Art. 660. - Per conseguire il relativo diploma di specializzazione, al termine del corso quadriennale, oltre ad aver superato tutti gli esami delle singole materie, e' obbligatorio sostenere l'esame finale su una dissertazione scritta, preferibilmente di carattere sperimentale.  
+3° Anno:   
+radiodiagnostica (III);   
+radioterapia e terapia fisica (II);   
+medicina nucleare (I).   
+  
+4° Anno:   
+radioterapia e terapia fisica (III);   
+medicina nucleare (II).   
+  
+La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia diagnostica e' di tre anni. Gli insegnamenti sono i seguenti:   
+  
+a) Matematica, fisica, nozioni di statistica e informatica (annuale) comprendente:   
+1) richiami di matematica e fisica generale;   
+2) costituzione della materia;   
+3) produzione, assorbimento e misura delle radiazioni;   
+4) statistica applicata alla medicina;   
+5) informatica e cibernetica applicata alla radiologia.   
+  
+b) Radiodiagnostica (triennale) comprendente:   
+1) principi generali di radiodiagnostica;   
+2) apparecchi, strumenti e tecnica radiodiagnostica;   
+3) tecnica e fisiologia applicate alla radiodiagnostica;   
+4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;   
+5) semeiotica radiologica;   
+6) diagnostica differenziale radiologica;   
+7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;   
+8) dimostrazioni di casistica clinica.   
+  
+c) Radiobiologia (annuale) comprendente:   
+1) radiobiologia generale;   
+2) danni da radiazioni e radiopatie.   
+  
+d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:   
+1) legislazione sanitaria applicata alla radiologia;   
+2) compiti e responsabilita' medico-legali del radiologo;   
+3) radioprotezione fisica e dosimetria ad essa connessa;   
+4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;   
+5) radioprotezione chimica;   
+6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.   
+  
+I singoli insegnamenti, tenuti da uno o piu' docenti a secondo di quanto opportuno al loro migliore svolgimento e completati da conferenze e dimostrazioni pratiche, sono cosi' distribuiti nei tre anni di corso:   
+  
+1° Anno (tronco comune):   
+matematica, fisica, nozioni di statistica ed informatica;   
+radiobiologia;   
+protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;   
+radiodiagnostica (I).   
+  
+2° Anno:   
+radiodiagnostica (II).   
+  
+3° Anno:   
+radiodiagnostica (III).   
+  
+Per essere ammessi agli esami di diploma in radiologia e radiologia diagnostica gli iscritti, oltre ad aver compiuto un congruo periodo di internato, devono aver superato un esame su ciascuna materia di insegnamento ed elaborata una tesi scritta su di un argomento radiologico concordato con il direttore della scuola.   
+Gli articoli 515, 516, 517, 518, relativi alla scuola di specializzazione in medicina dello sport della prima facolta' di medicina e chirurgia, sono abrogati e sostituiti dai seguenti:   
+  
+Scuola di specializzazione in medicina dello sport   
+  
+Art. 515. - La scuola di specializzazione in medicina dello sport dell'Universita' degli studi di Napoli si propone:   
+a) di valorizzare e approfondire gli studi biologici e di medicina applicata nel campo delle attivita' sportive, formative e di competizione, e dell'educazione fisica;   
+b) di preparare adeguatamente sotto l'aspetto teorico e dell'applicazione pratica, i medici che intendono dedicarsi alle attivita' attinenti a questa particolare branca della medicina applicata, conferendo ad essi il diploma di specialista in medicina dello sport.   
+Art. 516. - Il titolo richiesto per l'ammissione alla scuola e' la laurea in medicina e chirurgia.   
+Il corso di studi ha la durata di 3 anni, con frequenza obbligatoria; esso ha sede presso l'istituto di anatomia umana normale della la facolta' di medicina e chirurgia. Gli insegnamenti clinici e specialistici si svolgeranno presso i relativi istituti clinici e specialistici.   
+Il numero massimo degli allievi sara' di 40 per anno e complessivamente di 120 per l'intero corso.   
+L'ammissione ai corsi avviene per titoli. Nel caso di domande eccedenti il numero dei posti disponibili la selezione dei candidati avverra' in base ai risultati di un esame di ammissione.   
+Non sono previste abbreviazioni di corso.   
+Il direttore della scuola di specializzazione sara' uno dei professori universitari di ruolo delle materie di insegnamento incluse nello statuto della scuola e designato dalla facolta'.   
+Art. 517. - L'ordine degli studi e' il seguente:   
+  
+1° Anno:   
+1) anatomia dell'apparato locomotore;   
+2) fisiologia dell'apparato locomotore;   
+3) biochimica ed energetica muscolare;   
+4) antropometria e auxologia;   
+5) psicologia applicata allo sport;   
+6) storia dell'educazione fisica e dello sport;   
+7) sistematica delle attivita' sportivo-agonistiche e regolamenti sportivi.   
+  
+2° Anno:   
+1) fisiologia dell'esercizio fisico;   
+2) biomeccanica dell'esercizio fisico;   
+3) metodologia dell'allenamento sportivo;   
+4) scienza della nutrizione applicata all'attivita' sportiva;   
+5) fisiopatologia degli sports e semeiotica medicosportiva I;   
+6) farmacologia e tossicologia del doping;   
+7) igiene e medicina preventiva applicata all'attivita' sportiva;   
+8) traumatologia degli sports.   
+  
+3° Anno:   
+1) fisiologia applicata agli sport;   
+2) valutazione funzionale dello sportivo;   
+3) fisiopatologia degli sport e semeiotica medicosportiva II;   
+4) fisioterapia e rieducazione funzionale;   
+5) rianimazione e pronto soccorso;   
+6) medicina legale ed infortunistica legati agli sport;   
+7) fisiologia degli adattamenti agli ambienti straordinari.   
+  
+La scuola svolgera' brevi corsi integrativi di conferenze o seminari sopra argomenti e discipline che saranno stabiliti, secondo le possibilita' contingenti, dal consiglio dei docenti della scuola.  
+Saranno inoltre svolte esercitazioni pratiche in sede e sul campo.   
+Art. 518. - Alla fine di ogni anno di corso gli allievi dovranno sostenere un esame di profitto nelle materie d'insegnamento (art.  
+517) previste per ogni anno di corso ed articolate in un unico gruppo.   
+L'iscrizione agli anni successivi e' subordinata al superamento di tutti gli esami annuali.   
+Il diploma si consegue dopo aver superato tutte le prove di esame del triennio; la prova di diploma si svolge con la discussione su una dissertazione scritta concernente un tema assegnato o in ogni altro caso approvato dal direttore della scuola.   
+L'art. 558, relativo alla scuola di specializzazione in psichiatria della prima facolta' di medicina e chirurgia, e' modificato nel senso che il quarto e quinto comma sono abrogati e sostituiti dal seguente:   
+"Il numero degli iscritti non potra' superare quello massimo di dodici per i complessivi quattro anni di corso. Non sono previste abbreviazioni di corso".   
+L'art. 600, relativo alla scuola di specializzazione in chirurgia della seconda facolta' di medicina e chirurgia che muta la denominazione in scuola di specializzazione in chirurgia generale, e' modificato nel senso che il primo e il secondo comma sono abrogati e sostituiti dai seguenti:   
+Art. 600. - Alla seconda facolta' di medicina e chirurgia dell'Universita' degli studi di Napoli e' annessa la scuola di specializzazione in chirurgia generale, con sede presso la cattedra di clinica chirurgica generale e terapia chirurgica ed e' diretta dal titolare della cattedra medesima.   
+La scuola conferisce il diploma di specialista in chirurgia generale. La durata della scuola e' di cinque anni.   
+L'art. 653, relativo alla scuola di specializzazione in psichiatria della seconda facolta' di medicina e chirurgia, e' abrogato e sostituito dal seguente:   
+Art. 653. - Alla seconda facolta' di medicina e chirurgia dell'Universita' degli studi di Napoli e' annessa la scuola di specializzazione in psichiatria, con sede presso la cattedra di clinica psichiatrica, ed e' diretta da un professore ufficiale designato dal consiglio di facolta'. La durata della scuola e' di 4 anni. Il numero degli allievi da ammettere non puo' essere superiore a sei per ogni anno (totale ventiquattro iscritti). L'ammissione alla scuola avviene per concorso per titoli ed esami. Non sono previste abbreviazioni di corso.   
+Gli articoli 664, 665, 666, 667, relativi alla scuola di specializzazione in medicina dello sport della seconda facolta' di medicina e chirurgia, sono abrogati e sostituiti dai seguenti:   
+  
+Scuola di specializzazione in medicina dello sport   
+  
+Art. 664. - La scuola di specializzazione in medicina dello sport dell'Universita' degli studi di Napoli, seconda facolta' di medicina e chirurgia, si propone:   
+a) di valorizzare e approfondire gli studi biologici e di medicina applicata nel campo delle attivita' sportive, formative e di competizione, e della educazione fisica;   
+b) di preparare adeguatamente sotto l'aspetto teorico e della applicazione pratica i medici che intendono dedicarsi alle attivita' attinenti a questa particolare branca della medicina applicata, conferendo ad essi il diploma di specialista in medicina dello sport.   
+Art. 665. - Il titolo richiesto per l'ammissione alla scuola e' la laurea in medicina e chirurgia.   
+Il corso di studi ha la durata di 3 anni, con frequenza obbligatoria; esso ha la sua sede ufficiale presso l'istituto di anatomia umana normale. Gli insegnamenti clinici e specialistici si svolgeranno presso i relativi istituti clinici specialistici.   
+Il numero massimo degli allievi sara' di 15 per anno, complessivamente di 45 per l'intero corso.   
+L'ammissione ai corsi avviene per titoli. Nel caso di domande eccedenti il numero dei posti disponibili la selezione dei candidati avverra' in base ai risultati di un esame di ammissione.   
+Non sono previste abbreviazioni di corso.   
+La direzione della scuola e' affidata ad uno dei professori universitari di ruolo designato dalla facolta' nelle materie di insegnamento inclusa nello statuto della scuola stessa. E' obbligatoria la frequenza.   
+Art. 666. - L'ordine degli studi e' il seguente:   
+  
+1° Anno:   
+1) anatomia dell'apparato locomotore;   
+2) fisiologia dell'apparato locomotore;   
+3) biochimica ed energetica muscolare;   
+4) antropometria e auxologia;   
+5) psicologia applicata allo sport;   
+6) storia dell'educazione fisica e dello sport;   
+7) sistematica delle attivita' sportivo-agonistiche e regolamenti sportivi.   
+  
+2° Anno:   
+1) fisiologia dell'esercizio fisico;   
+2) biomeccanica dell'esercizio fisico;   
+3) metodologia dell'allenamento sportivo;   
+4) scienza della nutrizione applicata all'attivita' sportiva;   
+5) fisiopatologia degli sport e semeiotica medico sportiva I;   
+6) farmacologia e tossicologia del doping;   
+7) igiene e medicina preventiva applicata all'attivita' sportiva;   
+8) traumatologia degli sport.   
+  
+3° Anno:   
+1) fisiologia applicata agli sport;   
+2) valutazione funzionale dello sportivo;   
+3) fisiopatologia degli sport e semeiotica medico sportiva II;   
+4) fisioterapia e rieducazione funzionale;   
+5) rianimazione e pronto soccorso;   
+6) medicina legale ed infortunistica legata agli sport;   
+7) fisiologia dell'adattamento agli ambienti straordinari.   
+  
+La scuola svolgera' corsi integrativi di conferenze o seminari sopra argomenti e discipline che saranno stabiliti, secondo le possibilita' contingenti, dal consiglio dei docenti della scuola.  
+Saranno inoltre svolte esercitazioni pratiche in sede e sul campo.   
+Art. 667. - Alla fine di ogni anno gli allievi dovranno sostenere l'esame di profitto nelle materie di insegnamento (art. 666) previste per ogni anno di corso e articolate in un unico gruppo.   
+L'iscrizione agli anni successivi e' subordinata al superamento di tutti gli esami annuali. Il diploma si consegue dopo aver superato tutte le prove di esame del triennio; la prova di diploma si svolge con la discussione su una dissertazione scritta concernente un tema assegnato o in ogni altro caso approvato dal direttore della scuola.   
+La scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale della seconda facolta' di medicina e chirurgia di cui agli articoli 683, 684, 685 muta la denominazione in quella di scuola di specializzazione in otorinolaringoiatria.   
+Dopo l'art. 766, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in odontostomatologia.   
+  
+Scuola di specializzazione in odontostomatologia   
+  
+Art. 767. - Alla seconda facolta' di medicina e chirurgia dell'Universita' degli studi di Napoli e' annessa la scuola di specializzazione in odontostomatologia con sede presso la cattedra di clinica odontoiatrica e stomatologica.   
+La scuola della durata di tre anni conferisce il diploma di specialista in odontostomatologia.   
+Il numero degli allievi da ammettere a) 1° anno non puo' essere superiore a 10 (totale di 30 iscritti). La selezione dei candidati aspiranti alla ammissione alla scuola avverra' in base dei titoli e dei risultati di una prova scritta di esame.   
+Art. 768. - Le materie di insegnamento, tutte obbligatorie, sono le seguenti:   
+  
+embriologia ed anatomia dentaria e maxillo facciale;   
+microbiologia e igiene orale;   
+farmacologia odontostomatologica;   
+patologia odontostomatologica;   
+odontotecnica;   
+anestesia e chirurgia stomatologica;   
+odontoiatria conservativa (biennale);   
+clinica protesica dentaria e maxillo facciale (biennale);   
+parodontologia (biennale);   
+anatomia ed istologia odontostomatologica;   
+odontoiatria infantile;   
+radiobiologia odontostomatologica;   
+ortopedia dento-maxillo-facciale (biennale);   
+chirurgia maxillo-facciale (biennale);   
+clinica odontostomatologica;   
+medicina legale odontostomatologica e delle assicurazioni.   
+  
+Le materie di insegnamento sopra elencate sono cosi' distribuite:   
+1° Anno:   
+embriologia ed anatomia dentaria e maxillo-facciale;   
+microbiologia e igiene orale;   
+farmacologia odontostomatologica;   
+patologia odontostomatologica;   
+odontotecnica;   
+anestesia e chirurgia stomatologica;   
+odontoiatria conservativa I.   
+  
+2° Anno:   
+odontoiatria conservativa II;   
+clinica protesica dentaria e maxillo-facciale I;   
+parodontologia I;   
+anatomia e istopatologia odontostomatologica;   
+odontoiatria infantile;   
+radiologia odontostomatologica;   
+ortopedia dento-maxillo-facciale I;   
+chirurgia maxillo-facciale I.   
+  
+3° Anno:   
+clinica odontostomatologica;   
+chirurgia maxillo-facciale II;   
+medicina legale odontostomatologica e delle assicurazioni;   
+ortopedia dento-maxillo-facciale II;   
+clinica protesica dentaria e maxillo-facciale II;   
+parodontologia II.   
+  
+Gli insegnamenti devono essere integrati da esercitazioni pratiche.  
+Art. 769. - La frequenza alle lezioni ed alle esercitazioni e' obbligatoria per tutti gli iscritti.   
+L'internato e' obbligatorio durante tutti i tre anni del corso e si svolgera' presso la clinica odontoiatrica e stomatologica sotto forma di permanenza costante durante le ore di attivita' con frequenza giornaliera negli ambulatori e nei reparti di degenza. Dall'obbligo di tale internato sono esentati quegli allievi che, in qualita' di aiuti o assistenti, prestino documentato servizio presso reparti di odontostomatologia, delle universita' o di ospedali di 1ª e 2ª categoria.   
+Gli allievi hanno attribuzioni e doveri analoghi a quelli degli assistenti.   
+Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico della operosita' scolastica degli allievi con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno.   
+L'allievo che non abbia ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali. Questi ultimi saranno sostenuti alla fine di ogni anno di corso in una sessione unica (ottobre).   
+Alla fine del terzo anno, dopo aver superato gli esami di profitto, gli allievi saranno ammessi a sostenere l'esame di diploma che consiste nella discussione orale di una dissertazione scritta su un tema proposto in precedenza dall'insegnante della materia sulla quale verte l'argomento ed approvato preventivamente dal direttore della scuola.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 dicembre 1980
+### Dato a Roma, addi' 10 giugno 1977
 
-PERTINI - BODRATO
+LEONE MALFATTI
 
-Visto, il Guardasigilli: SARTI
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 17 ottobre 1981
+Registrato alla Corte dei conti, addi' 25 ottobre 1977
 
-Registro n. 96 Istruzione, foglio n. 355
+Registro n. 120 Istruzione, foglio n. 378

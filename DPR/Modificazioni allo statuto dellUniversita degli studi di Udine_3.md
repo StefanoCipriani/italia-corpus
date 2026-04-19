@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 814
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1985 n. 830
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 814
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1985 n. 830
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Udine.
@@ -12,21 +12,23 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto dell'Universita' di Udine, approvato con [decreto del Presidente della Repubblica 11 giugno 1979, n. 298](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1979-06-11;298), e successive modificazioni;
 
+Veduto l'[art. 11 della legge 11 novembre 1982, n. 828](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-11-11;828~art11);
+
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Vista la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
 Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Udine e convalidati dal Consiglio universitario nazionale nel suo parere;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta, intese ad istituire la facolta' di scienze economiche e bancarie, con l'omonimo corso di laurea, come previsto dalla citata [legge 11 novembre 1982, n. 828](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-11-11;828);
 
 Sentito il parere del Consiglio universitario nazionale;
+
+Considerato che lo statuto non puo' derogare al vigente ordinamento didattico universitario, e considerato l'obbligo, quindi, di adeguarlo all'ordinamento stesso;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
@@ -39,78 +41,95 @@ Art. 1
 ------
 
   
-L'art. 6 e' soppresso e sostituito come segue:  
-Art. 6. - I singoli istituti o seminari sono diretti da un professore ordinario o straordinario nominato dal rettore su designazione del consiglio di istituto.  
-Il direttore rimane in carica un triennio e puo' essere riconfermato.  
-In mancanza di professori ordinari o straordinari afferenti all'istituto o seminario ovvero in caso di impedimento ritenuto motivato dal senato accademico, la direzione e' affidata con le modalita' sopra indicate e per la durata di un anno, ad un professore associato o in mancanza di questi, ovvero in caso di motivato impedimento, riconosciuto con le modalita' di cui sopra, ad altro docente afferente ad istituto o seminario stesso.  
-Le norme comuni di gestione e di funzionamento degli istituti o seminari saranno determinate da un regolamento emanato dal rettore sentito il senato accademico e il consiglio di amministrazione.  
-Art. 8 - il primo comma e' soppresso e sostituito come segue:  
-Art. 8, primo comma. - Gli istituti policattedra previsti dallo statuto saranno attivati quando le esigenze didattiche e scientifiche lo richiedano.  
-Inoltre gli istituti di:  
-matematica, informatica e sistematica;  
-pedagogia e didattica delle lingue moderne, cambiano la denominazione rispettivamente in:  
-matematica, informatica e sistemistica;  
-filosofia, pedagogia, didattica delle lingue moderne.  
-Art. 9 - l'art. 9 e' soppresso e sostituito come segue:  
-Art. 9. - Le scuole dirette a fini speciali, le scuole di specializzazione e i corsi di perfezionamento sono organizzati con le modalita' e i fini previsti nel [decreto del Presidente della Repubblica 10 marzo 1982, n. 172](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;172).  
-Art. 12 - dopo il primo comma inserire:  
-Il centro linguistico audiovisivi potra' svolgere anche attivita' di ricerca scientifica.  
-Gli articoli 13 e 14 sono soppressi e sostituiti come segue:  
-Art. 13. - Allo svolgimento di ciascun insegnamento di durata annuale o pluriennale devono essere dedicate le ore previste dalla normativa vigente. Gli insegnamenti possono essere integrati da esercitazioni.  
-Art. 14. - Agli insegnamenti di durata semestrale devono essere dedicate le ore previste dalla normativa vigente, comunque non meno della meta' di quelle richieste per i corsi annuali.  
-Gli insegnamenti possono essere integrati da esercitazioni.  
+Nell'art. 1, nell'elenco delle facolta' e dei corsi di laurea in cui si articola l'Universita', dopo il punto 5) e' inserito il seguente nuovo comma:  
+"6) Facolta' di scienze economiche e bancarie:  
+a) corso di laurea in scienze economiche e bancarie".  
 
 Art. 2
 ------
 
   
   
-Art. 15 - all'elenco degli insegnamenti complementari vengono inserite le seguenti discipline:   
-etnolinguistica   
-filosofia della politica   
-filosofia della religione   
-filosofia della storia   
-filosofia dell'educazione   
-geografia delle lingue   
-geografia sociale   
-letterature moderne comparate   
-lingua e letteratura basca   
-lingua e letteratura bretone   
-lingua e letteratura catalana   
-lingua e letteratura galiega   
-lingua e letteratura occitana   
-linguistica friulana   
-metodologia dei sussidi audiovisivi   
-metodologia didattica   
-pedagogia sperimentale   
-psicopedagogia   
-storia del cristianesimo   
-storia del Friuli   
-storia della Chiesa nell'eta' moderna e contemporanea   
-storia della critica letteraria   
-storia della filosofia contemporanea   
-storia della filosofia medioevale   
-storia delle dottrine morali   
-storia dell'ebraismo   
-storia dell'eta' della riforma e della controriforma   
-storia dell'Illuminismo   
-storia del Rinascimento   
-storia economica   
-storia sociale   
-teoria e tecnica della traduzione   
-toponomastica   
-Art. 24 - nel quartultimo comma e' soppressa la espressione: "nonche' di un'altra lingua moderna straniera a scelta dello studente".   
+Dopo l'art. 43 e' aggiunto il titolo VII con gli articoli relativi all'ordinamento della facolta' di scienze economiche e bancarie e all'omonimo corso di laurea come segue:   
+  
+Titolo VII   
+FACOLTA' DI SCIENZE ECONOMICHE E BANCARIE   
+  
+Art. 44. - La facolta' di scienze economiche e bancarie conferisce la laurea in scienze economiche e bancarie.   
+La durata del corso di studi e' di quattro anni.   
+Titolo di ammissione: quello previsto dalle vigenti leggi.   
+Art. 45. - Sono insegnamenti fondamentali:   
+1) istituzioni di diritto privato;   
+2) istituzioni di diritto pubblico;   
+3) istituzioni di statistica;   
+4) istituzioni di economia politica (biennale);   
+5) diritto commerciale;   
+6) matematica generale;   
+7) scienza delle finanze;   
+8) ragioneria generale e applicata (biennale);   
+9) matematica finanziaria;   
+10) tecnica bancaria (biennale);   
+11) tecnica industriale e commerciale.   
+Art. 46. - Sono insegnamenti complementari:   
+1) diritto pubblico dell'economia;   
+2) diritto finanziario;   
+3) diritto amministrativo;   
+4) diritto del lavoro;   
+5) diritto fallimentare;   
+6) legislazione sulle banche, sulle borse e sul risparmio;   
+7) economia e tecnica delle imprese di assicurazione;   
+8) economia e politica agraria;   
+9) economia internazionale;   
+10) storia delle dottrine economiche;   
+11) storia delle dottrine politiche;   
+12) econometria;   
+13) economia applicata;   
+14) economia matematica;   
+15) tecnica di borsa;   
+16) tecnica del commercio interno e internazionale;   
+17) contabilita' economica nazionale;   
+18) statistica;   
+19) sociologia;   
+20) demografia;   
+21) geografia economica;   
+22) contabilita' di Stato e degli enti pubblici;   
+23) storia economica italiana dall'unita' nazionale;   
+24) prima lingua straniera (inglese);   
+25) seconda lingua straniera (a scelta fra le seguenti:   
+francese - tedesca - spagnola).   
+Per essere ammesso a sostenere l'esame di laurea lo studente deve aver superato gli esami corrispondenti a tutti gli insegnamenti fondamentali ed inoltre nove annualita' di esami relativi a discipline scelte fra gli insegnamenti complementari del corso di laurea.   
+Gli studenti possono, previa approvazione da parte della facolta' stessa, sostituire, nel proprio piano di studi, alcuni insegnamenti complementari del proprio corso di laurea con altri impartiti da altre facolta' dell'Ateneo, nel rispetto delle annualita' previste.   
+Per il conseguimento della laurea e' necessario aver superato un esame di lingua straniera.   
+Lo studente, dovra', prima di chiedere la tesi di laurea, dar prova di corretta comprensione di testi scientifici in lingua inglese e in un'altra lingua straniera scelta fra le seguenti: francese, tedesco e spagnolo.   
+Lo studente sara' dispensato da tali prove di conoscenza per la lingua o per le lingue di cui abbia gia' superato, come insegnamento complementare, l'esame corrispondente.   
+L'accertamento della conoscenza delle lingue straniere sara' effettuato con una commissione composta di docenti di discipline attinenti alla materia della tesi di laurea, integrata da un lettore che nel corso dell'anno avra' svolto esercitazioni agli studenti presso il centro linguistico audiovisivi.   
+Art. 47. - Gli esami di istituzioni di economia politica e di matematica generale devono essere superati prima degli esami di economia e politica agraria, economia applicata, economia internazionale, economia matematica, econometria.   
+L'esame di ragioneria generale e applicata va sostenuto prima di quelli di tecnica bancaria e di tecnica industriale e commerciale.   
+Gli esami di tecnica di borsa e di tecnica del commercio interno e internazionale devono essere sostenuti prima di tecnica bancaria e tecnica industriale e commerciale.   
+L'esame di matematica generale deve essere superato prima dell'esame di statistica, demografia e matematica finanziaria.   
+L'esame di istituzioni di statistica deve essere superato prima degli esami di statistica e di econometria.   
+L'esame di istituzioni di diritto privato deve essere superato prima degli esami di diritto commerciale, diritto del lavoro, diritto fallimentare e legislazione sulle banche, sulle borse e sul risparmio.   
+L'esame di istituzioni di diritto pubblico deve essere superato prima dell'esame di diritto finanziario, diritto amministrativo, diritto pubblico dell'economia.   
+Art. 48. - L'esame di laurea in scienze economiche e bancarie consiste:   
+1) nella discussione di una dissertazione scritta su una delle materie proprie del piano di studi scelto dallo studente;   
+2) nella discussione di una breve dissertazione orale su argomento tratto da materie di libera scelta dello studente.   
+Il tema per la dissertazione scritta deve essere scelto in una delle materie comprese nel piano di studi dello studente e deve essere richiesto al docente che ne impartisce l'insegnamento almeno un anno prima della sessione di esami di laurea, salvo particolari disposizioni della facolta'.   
+Il tema prescelto deve essere depositato, a cura dello studente, nella segreteria studenti che ne prende nota.   
+La dissertazione scritta dovra' essere presentata alla predetta segreteria, in triplice copia, entro i termini fissati dal consiglio di facolta'.   
+La discussione della dissertazione orale, il cui argomento dovra' essere depositato presso la segreteria contestualmente alle copie della tesi di laurea, avra' luogo dopo quella della dissertazione scritta. Il giudizio dell'idoneita' del candidato viene dato complessivamente, tenuto conto, oltre che del giudizio sulle dissertazioni scritta e orale, anche del risultato dei precedenti esami di profitto.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1983
+### Dato a Roma, addi' 19 ottobre 1985
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 16 gennaio 1984
+Registrato alla Corte dei conti, addi' 14 gennaio 1986
 
-Registro n. 1 Istruzione, foglio n. 22
+Registro n. 2 Istruzione, foglio n. 86

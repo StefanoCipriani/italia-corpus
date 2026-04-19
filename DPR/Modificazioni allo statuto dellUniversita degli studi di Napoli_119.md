@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 settembre 1979 n. 519
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1980 n. 1143
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 settembre 1979 n. 519
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1980 n. 1143
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,518 +18,77 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni dagli organi accademici dell'Universita' degli studi di Napoli e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla
------
+Sulla proposta del Ministro della pubblica istruzione;
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Art. 1
 ------
 
   
+L'art. 9 e' modificato nel senso che e' aggiunta la seguente frase:  
+13. L'Universita' degli studi di Napoli comprende, altresi', un centro di calcolo elettronico interfacolta'.  
+Dopo l'art. 883 sono aggiunti i seguenti nuovi articoli relativi alla istituzione del centro di calcolo elettronico interfacolta'.  
   
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Gli articoli 446 e 447, relativi alla scuola di specializzazione in radiologia della prima facolta' di medicina e chirurgia, sono soppressi e sostituiti dai seguenti:   
+Sezione XVII Centro di calcolo elettronico  
   
-Scuola di specializzazione in radiologia   
-Art. 446. - La scuola di specializzazione in radiologia ha sede presso l'istituto di radiologia della prima facolta' di medicina e chirurgia dell'Universita' di Napoli ed e' diretta da un professore di ruolo o fuori ruolo della stessa materia o, in carenza, di materia affine.   
-Alla scuola possono essere ammessi solo i laureati in medicina e chirurgia in possesso di diploma di abilitazione professionale e la loro immatricolazione e' subordinata all'esito di un esame di ammissione per titoli ed esami.   
-Non sono ammesse abbreviazioni di corso.   
-La scuola conferisce i seguenti diplomi:   
-a) diploma di specialista in radiodiagnostica. Gli anni di studio necessari per conseguire questo titolo sono quattro;   
-b) diploma di specialista in radioterapia oncologica. Gli anni di studio necessari per conseguire questo titolo sono quattro.   
-La scuola ha un tronco comune di due anni identico per i diplomi in radiodiagnostica e radioterapia oncologica.   
-Art. 447. - Gli insegnamenti per il diploma di specialista in radiodiagnostica sono cosi' distribuiti nei quattro anni di corso:   
-1° Anno (comune alla specializzazione in radioterapia oncologica):   
-a) fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);   
-b) radiobiologia, legislazione e norme generali di radioprotezione;   
-c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;   
-d) nozioni di anatomia e fisiologia generale.   
-2° Anno (comune alla radioterapia oncologica):   
-a) anatomia patologica;   
-b) apparecchiature e tecniche radiologiche;   
-c) semeiotica radiologia (integrata con le semeiotiche clinica, isotopica e di laboratorio);   
-d) radiopatologia;   
-e) dosimetria applicata.   
-3° Anno:   
-a) tecniche speciali e relativa semeiotica (I);   
-b) radiodiagnostica speciale dei vari organi ed apparati (I). 4° Anno:   
-a) tecniche speciali e relativa semeiotica (termografia, ecografia, xerografia, TAC) (II);   
-b) radiodiagnostica speciale dei vari organi ed apparati (II).   
-Gli insegnamenti per il diploma di specialista in radioterapia oncologica sono cosi' distribuiti nei quattro anni di corso:   
-1° Anno (comune alla specializzazione in radiodiagnostica):   
-a) fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);   
-b) radiobiologia, legislazione e norme generali di radioprotezione;   
-c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;   
-d) nozioni di anatomia e fisiologia generale.   
-2° Anno (comune a radiodiagnostica):   
-a) anatomia patologica;   
-b) apparecchiature e tecniche radiologiche;   
-c) semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);   
-d) radiopatologia;   
-e) dosimetria applicata.   
-3° Anno:   
-a) oncologia generale;   
-b) oncologia clinica (I);   
-e) tecniche radioterapiche.   
-4° Anno:   
-a) oncologia clinica (II);   
-b) fondamenti di terapia chirurgica dei tumori;   
-c) radioterapia clinica;   
-d) trattamento del canceroso in fase avanzata.   
-I singoli insegnamenti sono tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento.   
-Il numero massimo di iscritti in corso alla scuola e' di 24 (ventiquattro) da ripartirsi annualmente fra i vari corsi di diploma previsti dall'art. 446, quarto comma.   
-La frequenza pratica e' obbligatoria (dieci mesi all'anno) e deve avvenire in reparti riconosciuti idonei. L'insegnamento e' svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento aperti a specialisti, ecc. Gli allievi, per essere ammessi a sostenere gli esami delle singole materie, devono avere la firma di frequenza da parte del direttore della scuola stessa. Gli allievi al termine di ogni anno devono superare gli esami di profitto delle materie prescritte per poter ottenere l'iscrizione all'anno successivo.   
-Gli allievi per conseguire il diploma di specializzazione, oltre ad essere stati approvati in tutti gli esami, devono elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola.   
-
-Art. 2
-------
-
-  
-  
-Gli articoli 558, 559 e 560, relativi alla scuola di specializzazione in psichiatria, della prima facolta' di medicina e chirurgia, sono soppressi e sostituiti dai seguenti:   
-  
-Scuola di specializzazione in psichiatria   
-Art. 558. - La scuola di specializzazione in psichiatria ha sede presso la clinica psichiatrica della prima facolta' di medicina e chirurgia dell'Universita' di Napoli e conferisce il diploma di specialista in psichiatria.   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.   
-Il numero massimo degli allievi e' di tre per anno di corso e complessivamente di dodici iscritti per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-Art. 559. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-1) metodologia del rapporto medico-paziente (annuale);   
-2) psicologia (annuale);   
-3) elementi di genetica e biochimica (annuale);   
-4) struttura e funzioni integrative del SNC (annuale);   
-5) neurologia clinica (annuale);   
-6) clinica psichiatrica I (quadriennale).   
-2° Anno:   
-1) psicopatologia e psicodinamica (annuale);   
-2) psicoterapia I (triennale);   
-3) psicofarmacologia (annuale);   
-4) psicofarmacoterapia (annuale);   
-5) clinica psichiatrica II (quadriennale).   
-3° Anno:   
-1) psicodiagnostica ed informatica psichiatrica (annuale);   
-2) psichiatria sociale I (biennale);   
-3) psichiatria infantile (annuale);   
-4) psicoterapia II (triennale);   
-5) clinica psichiatrica III (quadriennale).   
-4° Anno:   
-1) psicosomatica (annuale);   
-2) psichiatria sociale II (biennale);   
-3) psichiatria forense (annuale);   
-4) psicoterapia III (triennale);   
-5) clinica psichiatrica IV (quadriennale).   
-Note esplicative.   
-1) Strutture e funzioni integrative del SNC: tale materia, annuale, e' comprensiva della anatomofisiologia del SNC e della psicofisiologia.   
-2) Neurologia clinica: tale insegnamento, annuale, deve essere comprensivo, eventualmente con sottodivisioni, di cenni di anatomia patologica del SN, di semeiologia neurologica, clinica e strumentale, di neuroradiologia.   
-3) Clinica psichiatrica: tale materia, quadriennale, e' comprensiva anche degli elementi di semeiotica psichiatrica, delle tecniche laboratoristiche, delle terapie biologiche.   
-4) Psicoterapia: tale materia, triennale, comprende e considera nel corso dei tre anni, le tecniche e i principi fondamentali delle principali psicoterapie individuali, direttive e non direttive, i principi fondamentali e le dinamiche delle piu' importanti psicoterapie di gruppo, delle prassi psicoterapiche, socioterapiche e delle sociodinamiche delle istituzioni psichiatriche.   
-5)Psicodiagnostica ed informatica psichiatrica: tale materia, annuale, e' comprensiva di cenni di statistica, dei reattivi mentali e psicodiagnostica strumentale e di metodologia della ricerca psichiatrica.   
-6) Psichiatria sociale: tale materia, biennale, con molte possibilita' di suddivisioni, e' comprensiva di elementi di sociologia, di antropologia culturale, di etologia, di ecologia psichiatrica, di epidemiologia psichiatrica, di psichiatria transculturale, di psichiatria preventiva e di igiene mentale, prassi ed organizzazione, di assistenza psichiatrica sul territorio extra istituzionale.   
-7) Psicosomatica: tale materia, annuale, e' comprensiva degli aspetti psichici delle malattie somatiche della cosiddetta medicina integrata, della endocrinologia in riferimento alla psichiatria, delle cosiddette specifiche malattie psicosomatiche.   
-Art. 560. - E' obbligatoria la frequenza per undici mesi all'anno; tale periodo comprende sia la frequenza alle lezioni, sia la frequenza alle esercitazioni pratiche nei reparti di degenza e nelle strutture ambulatoriali a disposizione della scuola. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.   
-La scuola programma lo svolgimento dei corpi di insegnamento. Per il passaggio agli anni successivi e' obbligatorio il superamento degli esami per ogni singolo anno. Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.   
-Le lezioni teoriche sono integrate da seminari anche interdisciplinari, da documentazioni cliniche e da esperienze effettuate nei vari settori della disciplina.   
-Alla fine dei quattro anni gli allievi che hanno frequentato i corsi sono ammessi all'esame di diploma consistente nella presentazione e discussione di una tesi scritta di argomento pertinente alla psichiatria, in una prova orale e in una prova pratica.   
-Agli allievi che hanno ottenuto l'approvazione nell'esame di diploma e' rilasciato il diploma di specializzazione in psichiatria valido a tutti gli effetti di legge.   
-
-Art. 3
-------
-
-  
-  
-Dopo l'art. 560, e con il conseguente spostamento della numerazione degli articoli successivi, sono inserti i seguenti nuovi articoli relativi alla istituzione, presso la prima facolta' di medicina e chirurgia, della scuola di specializzazione in fisioterapia:   
-  
-Scuola di specializzazione in fisioterapia   
-Art. 561. - La scuola di specializzazione in fisioterapia ha sede presso la seconda cattedra di clinica ortopedica e traumatologica della prima facolta' di medicina e chirurgia.   
-La direzione della scuola sara' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Art. 562. - La scuola ha la durata di tre anni.   
-Art. 563. - Gli iscritti hanno l'obbligo di frequentare le esercitazioni pratiche di corsia ed ambulatorio, l'istituto di clinica ortopedica e traumatologica e, per tutta la durata dell'anno accademico, tutte le lezioni ed i seminari. Sono esonerati dalla frequenza alle esercitazioni pratiche di corsia ed ambulatorio, che e' ridotta ad un solo mese per anno, gli assistenti di ruolo dei reparti ortopedici e fisiochinesiterapici di ospedali regionali.   
-Art. 564. - Il numero massimo degli allievi da ammettere ogni anno accademico non puo' essere superiore a dodici per ogni anno di corso.   
-Art. 565. - La scelta dei candidati ammessi al primo anno di corso e' fatta all'inizio dell'anno accademico in base ai titoli di studio ed al risultato di una prova scritta di esame che e' tenuta nell'istituto di clinica ortopedica e traumatologica.   
-In nessun caso puo' esservi abbreviazione di corso.   
-Art. 566. - Le materie d'insegnamento sono le seguenti:   
-1° Anno:   
-principi di anatomia funzionale (propedeutico per tutte le materie d'insegnamento di base degli anni successivi e per quelle facoltative);   
-fisiopatologia dell'apparato neuro-motore (come sopra).   
-2° Anno:   
-semeiotica e clinica delle motulesioni neurologiche (propedeutico per le materie d'insegnamento di base del terzo anno); semeiotica e clinica delle deformita' e motulesioni ortopediche (propedeutico per le materie d'insegnamento di base del terzo anno); semeiotica e clinica delle deformita' e motulesioni ortopediche (come sopra);   
-massoterapia e terapia manuale;   
-cinesiologia e cinesiterapia e ginnastica medica;   
-idroterapia e balneoterapia.   
-3° Anno:   
-elettroterapia ed elettrologia;   
-terapia con onde corte ed altri mezzi fisici;   
-rieducazione motoria e riabilitazione in campo ortopedico e traumatologico;   
-rieducazione motoria e riabilitazione in campo neurologico.   
-Le materie facoltative elencate qui di seguito possono essere distribuite nel secondo e terzo anno a seconda della caratterizzazione della scuola ed a giudizio del consiglio di facolta':   
-elettromiografia;   
-cinesiterapia e riabilitazione nelle malattie internistiche;   
-rieducazione respiratoria;   
-riabilitazione nei disturbi del linguaggio;   
-problemi psicologici e psicopatologici della riabilitazione;   
-medicina assicurativa;   
-rieducazione nei disturbi della visione;   
-climatoterapia;   
-problemi di riabilitazione geriatrica;   
-riqualificazione professionale.   
-
-Art. 4
-------
-
-  
-  
-L'ordinamento della scuola di specializzazione in chirurgia generale d'urgenza e pronto soccorso della prima facolta' di medicina e chirurgia, di cui al [decreto del Presidente della Repubblica 27 ottobre 1976, n. 869](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-27;869), che muta la denominazione in quella di scuola di specializzazione in chirurgia d'urgenza e pronto soccorso, e' soppresso e sostituito dal seguente:   
-  
-Scuola di specializzazione in chirurgia d'urgenza e pronto soccorso Art. 589. - La scuola di specializzazione in chirurgia d'urgenza e pronto soccorso ha sede presso l'istituto di chirurgia d'urgenza della prima facolta' di medicina e chirurgia.   
-Art. 590. - Il corso di studi per il conseguimento del diploma di specializzazione in chirurgia generale d'urgenza e pronto soccorso ha la durata di cinque anni accademici.   
-Alla scuola possono iscriversi i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-Il numero massimo degli iscritti e' di dodici per anno di corso e complessivamente di sessanta iscritti per l'intero corso di studi.   
-Non sono ammesse abbreviazioni di corso.   
-L'ammissione al corso avviene per titoli ed esami.   
-La frequenza alle lezioni, esercitazioni e seminari obbligatoria per tutti gli iscritti. L'esercitazione pratica nei reparti e' obbligatoria durante tutti i cinque anni di corso sotto forma di permanenza costante in istituto durante le ore della sua attivita'.   
-Art. 591. - Le materie di insegnamento sono le seguenti:   
-clinica chirurgica generale d'urgenza e di pronto, soccorso;   
-patologia chirurgica;   
-anatomia chirurgica;   
-semeiotica;   
-anestesiologia;   
-ricerche di laboratorio;   
-anatomia patologica;   
-endoscopia;   
-fisiopatologia chirurgica;   
-chirurgia sperimentale;   
-trattamento pre e post-operatorio in chirurgia d'urgenza;   
-rianimazione;   
-chirurgia vascolare d'urgenza;   
-traumatologia dell'apparato locomotore;   
-neurotraumatologia;   
-terapia intensiva;   
-radiologia;   
-chirurgia ginecologica d'urgenza;   
-chirurgia pediatrica d'urgenza;   
-chirurgia plastica e riparatrice;   
-chirurgia toracica d'urgenza;   
-cardiochirurgia d'urgenza;   
-angioradiologia;   
-chirurgia urologica d'urgenza;   
-traumatologia maxillo-facciale;   
-trattamento del politraumatizzato;   
-medicina legale.   
-Le materie di insegnamento sono cosi' distribuite:   
-1° Anno:   
-clinica chirurgica generale d'urgenza e di pronto soccorso I; patologia chirurgica I;   
-anatomie chirurgica;   
-semeiotica I;   
-anestesiologia;   
-ricerche di laboratorio;   
-chirurgia sperimentale.   
-2° Anno:   
-clinica chirurgica generale d'urgenza e di pronto soccorso II; patologia chirurgica II;   
-anatomia patologica;   
-endoscopia;   
-fisiopatologia chirurgica I;   
-semeiotica II;   
-trattamento pre e post-operatorio in chirurgia d'urgenza;   
-rianimazione.   
-3° Anno:   
-clinica chirurgica generale d'urgenza e di pronto soccorso III; patologia chirurgica III;   
-chirurgia vascolare d'urgenza;   
-traumatologia dell'apparato locomotore I;   
-neurotraumatologia I;   
-fisiopatologia chirurgica II;   
-terapia intensiva I;   
-radiologia.   
-4° Anno:   
-clinica chirurgica generale d'urgenza e di pronto soccorso IV; chirurgia ginecologica d'urgenza;   
-chirurgia pediatrica d'urgenza;   
-chirurgia plastica e riparatrice I;   
-traumatologia dell'apparato locomotore II;   
-neurotraumatologia II;   
-chirurgia toracica d'urgenza I;   
-terapia intensiva II.   
-5° Anno:   
-clinica chirurgica generale d'urgenza e di pronto soccorso V; chirurgia plastica e riparatrice II;   
-chirurgia toracica d'urgenza II;   
-cardiochirurgia d'urgenza;   
-chirurgia urologica d'urgenza;   
-angioradiologia;   
-traumatologia maxillo-facciale;   
-trattamento del politraumatizzato;   
-medicina legale.   
-Art. 592. - Alla fine di ogni anno gli specializzandi per poter ottenere l'ammissione all'anno successivo devono superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno in corso;   
-per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.   
-L'esame di diploma consiste nella discussione di una tesi su un tema preventivamente approvato dal direttore della scuola. Il direttore della scuola e' il professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, il professore di ruolo o fuori ruolo di materia affine. Le norme per l'iscrizione, gli esami, le tasse, ecc., sono quelle generali per le scuole di specializzazione dell'Universita' di Napoli.   
-
-Art. 5
-------
-
-  
-  
-L'[art. 595 del decreto del Presidente della Repubblica 27 ottobre 1976, n. 869](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-10-27;869~art595), concernente il numero degli iscritti alla scuola di specializzazione in neuropsichiatria infantile della prima facolta' di medicina e chirurgia, e' modificato nel senso che il numero degli specializzandi e' fissato in otto per anno di corso e complessivamente in trentadue per l'intero corso di studi.   
-
-Art. 6
-------
-
-  
-  
-Gli articoli 642, 643, 644 e 645, relativi alla scuola di specializzazione in psichiatria della seconda facolta' di medicina e chirurgia, sono soppressi e sostituiti dai seguenti:   
-  
-Scuola di specializzazione in psichiatria   
-Art. 642. - La scuola di specializzazione in psichiatria ha sede presso la clinica psichiatrica e conferisce il diploma di specialista in psichiatria.   
-Art. 643. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno, all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.   
-Il numero massimo degli allievi e' di sei per anno di corso e complessivamente di ventiquattro iscritti per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-Art. 644. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-1) metodologia del rapporto medico-paziente (annuale);   
-2) psicologia (annuale);   
-3) elementi di genetica e biochimica (annuale);   
-4) struttura e funzioni integrative del SNC (annuale);   
-5) neurologia clinica (annuale);   
-6) clinica psichiatrica I (quadriennale).   
-2° Anno:   
-1) psicopatologia e psicodinamica (annuale);   
-2) psicoterapia I (triennale);   
-3) psicofarmacologia (annuale);   
-4) psicofarmacoterapia (annuale);   
-5) clinica psichiatrica II (quadriennale).   
-3° Anno:   
-1) psicodiagnostica ed informatica psichiatrica (annuale);   
-2) psichiatria sociale I (biennale);   
-3) psichiatria infantile (annuale);   
-4) psicoterapia II (triennale);   
-5) clinica psichiatrica III (quadriennale).   
-4° Anno:   
-1) psicosomatica (annuale);   
-2) psichiatria sociale II (biennale);   
-3) psichiatria forense (annuale);   
-4) psicoterapia III (triennale);   
-5) clinica psichiatrica IV (quadriennale).   
-Note esplicative.   
-1) Strutture e funzioni integrative del SNC: tale materia, annuale, e' comprensiva della anatomofisiologia del SNC e della psicofisiologia.   
-2) Neurologia clinica: tale insegnamento, annuale, deve essere comprensivo, eventualmente con sottodivisioni; di cenni di anatomia patologica del SN, di semeiologia neurologica, clinica e strumentale, di neuroradiologia.   
-3) Clinica psichiatrica: tale materia, quadriennale, e' comprensiva anche degli elementi di semeiotica psichiatrica, delle tecniche laboratoristiche, delle terapie biologiche.   
-4) Psicoterapia: tale materia, triennale, comprende e considera nel corso dei tre anni, le tecniche e i principi fondamentali delle principali psicoterapie individuali, direttive e non direttive, i principi fondamentali e le dinamiche delle piu' importanti psicoterapie di gruppo, delle prassi psicoterapiche, socioterapiche e delle sociodinamiche delle istituzioni psichiatriche.   
-5) Psicodiagnostica ed informatica psichiatrica: tale materia, annuale, e' comprensiva di cenni di statistica, dei reattivi mentali e psicodiagnostica strumentale e di metodologia della ricerca psichiatrica.   
-6) Psichiatria sociale: tale materia, biennale, con molte possibilita' di suddivisioni, e' comprensiva di elementi di sociologia, di antropologia culturale, di etologia, di ecologia psichiatrica, di epidemiologia psichiatrica, di psichiatria transculturale, di psichiatria preventiva e di igiene mentale, prassi ed organizzazione, di assistenza psichiatrica sul territorio extra istituzionale.   
-7) Psicosomatica: tale materia, annuale, e' comprensiva degli aspetti psichici delle malattie somatiche della cosiddetta medicina integrata, della endocrinologia in riferimento alla psichiatria, delle cosiddette specifiche malattie psicosomatiche.   
-Art. 645. - E' obbligatoria la frequenza per undici mesi all'anno; tale periodo comprende sia la frequenza alle lezioni, sia l'esercitazione pratica nei reparti di degenza e nelle strutture ambulatoriali a disposizione della scuola. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.   
-La scuola programma lo svolgimento dei corsi di insegnamento. Per il passaggio agli anni successivi e' obbligatorio il superamento degli esami per ogni singolo anno. Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.   
-Le lezioni teoriche sono integrate da seminari anche interdisciplinari, da documentazioni cliniche e da esperienze effettuate nei vari settori della disciplina.   
-Alla fine dei quattro anni gli allievi che hanno frequentato i corsi sono ammessi all'esame di diploma, consistente nella presentazione e discussione di una tesi scritta di argomento pertinente alla psichiatria, in una prova orale e in una prova pratica.   
-Agli allievi che hanno ottenuto l'approvazione nell'esame di diploma e' rilasciato il diploma di specializzazione in psichiatria valido a tutti gli effetti di legge.   
-
-Art. 7
-------
-
-  
-  
-Dopo l'art. 652, e con il conseguente spostamento della numerazione degli articoli successivi, sono inserti i seguenti nuovi articoli relativi alla istituzione presso la seconda facolta' di medicina e chirurgia delle scuole di specializzazione in chirurgia d'urgenza e pronto soccorso, in dermatologia e venereologia, in tecniche semeiologiche speciali chirurgiche:   
-  
-Scuola di specializzazione in chirurgia d'urgenza   
-e pronto soccorso   
-Art. 653. - La scuola di specializzazione in chirurgia d'urgenza e pronto soccorso ha sede presso la cattedra di chirurgia d'urgenza.   
-Art. 654. - Il corso di studi per il conseguimento del diploma di specialista in chirurgia d'urgenza e pronto soccorso ha la durata di cinque anni accademici.   
-Art. 655.- Alla scuola possono iscriversi i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio, professionale rilasciato dall'autorita' competente.   
-Il numero massimo degli iscritti e' di tre per anno di corso.   
-Non sono ammesse abbreviazioni di corso.   
-L'ammissione al corso avviene per titoli ed esami.   
-Art. 656. - La frequenza alle lezioni, esercitazioni e seminari e' obbligatoria per tutti gli iscritti. L'esercitazione pratica nei reparti e' obbligatoria durante tutti i cinque anni di corso sotto forma di permanenza costante in istituto durante le ore della sua attivita'.   
-Art. 657. - Le materie di insegnamento sono le seguenti:   
-clinica chirurgica generale d'urgenza e di pronto soccorso;   
-patologia chirurgica;   
-anatomia chirurgica;   
-semeiotica;   
-anestesiologia;   
-ricerche di laboratorio;   
-anatomia patologica;   
-endoscopia;   
-fisiopatologia chirurgica;   
-chirurgia sperimentale;   
-trattamento pre e post-operatorio in chirurgia d'urgenza;   
-rianimazione;   
-chirurgia vascolare d'urgenza;   
-traumatologia dell'apparato locomotore;   
-neurotraumatologia;   
-terapia intensiva;   
-radiologia;   
-chirurgia ginecologica d'urgenza;   
-chirurgia pediatrica d'urgenza;   
-chirurgia plastica e riparatrice;   
-chirurgia toracica d'urgenza;   
-cardiochirurgia d'urgenza;   
-angioradiologia;   
-chirurgia urologica d'urgenza;   
-traumatologia maxillo-facciale;   
-trattamento del politraumatizzato;   
-medicina legale.   
-Art. 658. - Le materie di insegnamento sono cosi' distribuite:   
-1° Anno:   
-1) clinica chirurgica generale d'urgenza e di pronto soccorso I;   
-2) patologia chirurgica I;   
-3) anatomia chirurgica;   
-4) semeiotica I;   
-5) anestesiologia;   
-6) ricerche di laboratorio;   
-7) chirurgia sperimentale.   
-2° Anno:   
-8) clinica chirurgica generale d'urgenza e di pronto soccorso II;   
-9) patologia chirurgica II;   
-10) anatomia patologica;   
-11) endoscopia;   
-12) fisiopatologia chirurgica I;   
-13) semeiotica II;   
-14) trattamento pre e post-operatorio in chirurgia d'urgenza;   
-15) rianimazione.   
-3° Anno:   
-16) clinica chirurgica generale d'urgenza e di pronto soccorso III;   
-17) patologia chirurgica III;   
-18) chirurgia vascolare d'urgenza;   
-19) traumatologia dell'apparato locomotore I;   
-20) neurotraumatologia I;   
-21) fisiopatologia chirurgica II;   
-22) terapia intensiva I;   
-23) radiologia.   
-4° Anno:   
-24) clinica chirurgica generale d'urgenza e di pronto soccorso IV;   
-25) chirurgia ginecologica d'urgenza;   
-26) chirurgia pediatrica d'urgenza;   
-27) chirurgia plastica e riparatrice I;   
-28) traumatologia dell'apparato locomotore II;   
-29) neurotraumatologia II;   
-30) chirurgia toracica d'urgenza I;   
-31) terapia intensiva II.   
-5° Anno:   
-32) clinica chirurgica generale d'urgenza e di pronto soccorso V;   
-33) chirurgia plastica e riparatrice II;   
-34) chirurgia toracica d'urgenza II;   
-35) cardiochirurgia d'urgenza;   
-36) chirurgia urologica d'urgenza;   
-37) angioradiologia;   
-38) traumatologia maxillo-facciale;   
-39) trattamento del politraumatizzato;   
-40) medicina legale.   
-Art. 659. - Alla fine di ogni anno gli specializzandi per poter ottenere l'ammissione all'anno successivo devono superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno di corso; per le materie a corso pluriennale, l'esame e' sostenuto alla fine dei corsi medesimi.   
-Art. 660. - L'esame di diploma consiste nella discussione di una tesi su un tema preventivamente approvato dal direttore della scuola.   
-Il direttore della scuola e' il professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, il professore di ruolo o fuori ruolo di materia affine. Le norme per l'iscrizione, gli esami, le tasse, ecc. sono quelle generali per le scuole di specializzazione dell'Universita' di Napoli.   
-Scuola di specializzazione in dermatologia e venereologia   
-Art. 661. - La scuola di specializzazione in dermatologia e venereologia ha sede presso la cattedra di clinica dermosifilopatica della II facolta' di medicina e chirurgia e conferisce il diploma di specialista in dermatologia e venereologia.   
-Art. 662. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Art. 663. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-Art. 664. - La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazioni.   
-Art. 665. - Il numero massimo degli allievi e' di sette per anno di corso e complessivamente di ventuno iscritti per l'intero corso di studi.   
-Art. 666. - L'ammissione al corso avviene per titoli ed esami.   
-Art. 667. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-1) anatomia ed istologia normale della cute;   
-2) fisiologia della cute e degli annessi;   
-3) anatomia e fisiologia dell'apparato genitale;   
-4) microbiologia e parassitologia applicate;   
-5) tecniche di laboratorio applicate alla disciplina;   
-6) semeiotica dermatologica e venereologica.   
-2° Anno:   
-1) patologia delle malattie cutanee;   
-2) patologia delle infezioni veneree;   
-3) istopatologia e citologia dermatologica e venereologica;   
-4) immunopatologia cutanea;   
-5) dermatologia allergologica e professionale;   
-6) angiologia;   
-7) sessuologia.   
-3° Anno:   
-1) clinica delle malattie cutanee;   
-2) clinica delle infezioni veneree;   
-3) dermatologia pediatrica;   
-4) farmacologia e terapia;   
-5) fisioterapia dermatologica;   
-6) cosmetologia;   
-7) chirurgia plastica riparatrice;   
-8) igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.   
-Art. 668. - Il corso di lezioni deve essere impartito mediante almeno cinquanta lezioni annuali, comprensive delle varie materie e la frequenza giornaliera degli iscritti non deve essere inferiore alle quattro ore effettive per tutta la durata dell'anno accademico.   
-Gli specializzandi hanno percio' obblighi di seguire i corsi di lezioni ed effettuare contemporaneamente esperienze nei reparti di degenza, nelle corsie, negli ambulatori e nei laboratori. Gli esami di profitto sono sostenuti in due sessioni.   
-L'esame di diploma consiste nella esposizione e discussione di un argomento della disciplina su un tema dato al candidato ventiquattro ore prima della prova.   
-Scuola di specializzazione in tecniche   
-semeiologiche speciali chirurgiche   
-Art. 669. - La scuola di specializzazione in tecniche semeiologiche speciali chirurgiche ha sede presso la cattedra di semiotica chirurgica della seconda facolta' di medicina e chirurgia dell'Universita' di Napoli e conferisce il diploma di specialista in tecniche semeiologiche speciali chirurgiche.   
-Art. 670. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo in materia affine.   
-Art. 671. - Possono iscriversi alla scuola i laureati in medicina e chirurgia in possesso all'inizio del corso dell'abilitazione all'esercizio professionale rilasciata dall'autorita' competente previo concorso di ammissione per titoli e prova scritta, inerente un argomento di cultura medico-chirurgica generale con particolare riguardo agli aspetti diagnostici nelle malattie dell'apparato digerente.   
-Art. 672. - La durata del corso e' di tre anni e non e' suscettibile di abbreviazioni di corso per alcun motivo.   
-Art. 673. - Il numero massimo degli allievi e' di nove per anno di corso e complessivamente di ventisette iscritti per l'intero corso di studi.   
-Art. 674. - Gli insegnamenti impartiti sono i seguenti:   
-1° Anno:   
-anatomia umana normale;   
-anatomia patologica (I anno);   
-fisiopatologia (I anno);   
-semeiotica (I anno);   
-chimica clinica;   
-tecniche e diagnostica endoscopica dell'apparato digerente (I); tecniche e diagnostica endoscopica dell'apparato bronchiale;   
-radiologia (I anno);   
-mediastinoscopia (conferenze);   
-elementi di fisica applicata all'endoscopia;   
-manometria esofago-gastro-enterica (conferenze);   
-nozioni di diagnostica strumentale cardiaca;   
-nozioni di diagnostica strumentale vascolare;   
-tecniche di diagnostica endoscopica urologica.   
-2° Anno:   
-anatomia patologica (II anno);   
-fisiopatologia (II anno);   
-semeiotica (II anno);   
-tecniche e diagnostica endoscopiche dell'apparato digerente (II anno);   
-radiologia (II anno);   
-malattie del tubo digerente;   
-angiografia-flebografia-linfoangiografia;   
-nozioni di endocrinologia speciale;   
-endocrinologia digestiva di interesse chirurgico;   
-clinica medica (I anno);   
-clinica chirurgica (I anno);   
-manometria delle vie biliari e indagini colangiografiche intra operatorie (conferenze);   
-l'endoscopia nelle sindromi chirurgiche d'urgenza.   
-3° Anno:   
-tecniche diagnostiche endoscopiche;   
-clinica medica (II anno);   
-clinica chirurgica (II anno);   
-diagnostica radiologica speciale (conferenze);   
-chirurgia operativa endoscopica (conferenze);   
-malattie del fegato e del pancreas;   
-l'endoscopia nell'eta' pediatrica;   
-aspetti medico-legali delle indagini strumentali;   
-la semeiotica strumentale nell'eta' pediatrica (indicazioni e limiti);   
-le indagini funzionali respiratorie (conferenze);   
-valutazione pre-operatoria del paziente sul piano cardio-vascolare (conferenze);   
-valutazione pre-operatoria del paziente sul piano delle malattie dismetaboliche (conferenze);   
-nozioni di terapia intensiva e parenterale totale del paziente chirurgico (conferenze);   
-nozioni di monitoraggio continuo del paziente chirurgico (conferenze).   
-Art. 675. - I docenti della scuola sono proposti dal direttore della scuola di specializzazione e sono nominati dal consiglio della seconda facolta' di medicina e chirurgia dell'Universita' di Napoli.   
-Art. 676. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria per l'ammissione agli esami. Il superamento degli esami dell'anno precedente e' condizione indispensabile per la iscrizione all'anno successivo.   
-Art. 677. - Al termine del triennio per ottenere il diploma di specializzazione, i candidati devono presentare una dissertazione scritta su di un argomento di tecniche semeiologiche chirurgiche da discutere davanti ad una commissione appositamente istituita.   
-Art. 678. - Durante il triennio di insegnamento sono invitati cultori italiani e stranieri della materia, sono programmati films scientifici e sono organizzati seminari.   
+Art. 884. - Il centro di calcolo elettronico dell'Universita' di Napoli e' destinato al servizio relativo alle attivita' didattiche e scientifiche dell'Universita' di Napoli, nonche' di altre universita' o istituti universitari che stipulano apposite convenzioni con l'Universita' di Napoli.  
+Art. 885. - Il centro ha le seguenti finalita':  
+a) sopperire alle esigenze di calcolo connesse con la ricerca scientifica delle istituzioni di cui all'art. 884 mettendo a disposizione di coloro che operano in tali istituzioni le attrezzature per il calcolo e le elaborazioni che possono essere necessarie per lo svolgimento delle loro attivita' di ricerca;  
+b) sopperire alle esigenze didattiche delle istituzioni di cui all'art. 884 fornendo le attrezzature necessarie per la preparazione degli studenti;  
+c) promuovere attivita' di documentazione e di studio e qualsiasi altra attivita' connessa con lo sviluppo di mezzi di elaborazione del centro ed il loro impiego;  
+d) favorire il collegamento e la collaborazione con centri di calcolo o centri di studio e di ricerca appartenenti ad altre universita' o enti analoghi.  
+Il centro potra' altresi' soddisfare esigenze di calcolo di altri enti, ma soltanto in quanto cio' non ostacoli il buon perseguimento delle finalita' di cui sopra.  
+Art. 886. - Il centro per sua natura sostiene le attivita' di quelle componenti delle istituzioni di cui all'art. 884 che sono particolarmente volte alle ricerche di informatica.  
+Art. 887. - Sono organi del centro:  
+a) il consiglio direttivo e il suo presidente;  
+b) il comitato tecnico;  
+c) il direttore del centro.  
+Art. 888. - Il consiglio direttivo e' costituito da professori ufficiali rappresentanti dell'Universita' di Napoli e da un massimo di dodici professori ufficiali rappresentanti delle istituzioni di cui all'art. 884 nel numero fissato dalle relative convenzioni.  
+I rappresentanti dell'Universita' di Napoli sono distribuiti come segue:  
+a) tre professori ufficiali della facolta' di scienze;  
+b) tre professori ufficiali della facolta' di ingegneria;  
+c) due professori ufficiali della facolta' di economia e commercio;  
+d) due professori ufficiali della facolta' di agraria;  
+e) due professori ufficiali della facolta' di architettura;  
+f) un professore ufficiale di ciascuna delle altre facolta'.  
+Fa parte inoltre del consiglio direttivo il direttore amministrativo dell'Universita' di Napoli o un funzionario da lui delegato.  
+Il consiglio direttivo elegge il presidente ed il segretario fra i rappresentanti dell'Universita' di Napoli e degli enti di cui all'art. 884.  
+I membri del consiglio direttivo di cui alle voci a), b), c), d), e), f), sono nominati dal rettore su proposta delle rispettive facolta'.  
+I rappresentanti dell'Universita' di Napoli e quelli degli enti di cui all'art. 884 durano in carica tre anni purche' conservino la qualifica di professori ufficiali e sono nominabili al massimo per due volte consecutive.  
+Art. 889. - Il comitato tecnico e' costituito da esperti del settore degli elaboratori elettronici e dell'elaborazione automatica dei dati.  
+Il comitato tecnico e' costituito da:  
+a) il direttore del centro;  
+b) il segretario amministrativo del centro;  
+c) un rappresentante eletto dal personale tecnico del centro nel proprio ambito;  
+d) non piu' di sei membri scelti fra il personale docente delle istituzioni di cui all'art. 884 che abbiano comprovata esperienza nel settore degli elaboratori elettronici e dell'elaborazione automatica dei dati.  
+I membri del comitato tecnico di cui alle voci c) e d) durano in carica due anni.  
+I membri di cui alla voce d) non possono contemporaneamente far parte anche del consiglio direttivo.  
+Art. 890. - Il direttore del centro nominato dal rettore e' scelto tra i professori ufficiali dell'Universita'.  
+Art. 891. - Le norme relative al funzionamento del centro formano oggetto di apposito regolamento approvato dal consiglio di amministrazione dell'Universita' su proposta del consiglio direttivo e previo parere del senato accademico.  
+Il regolamento viene reso esecutivo con decreto del rettore, previa approvazione ministeriale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 15 settembre 1979
+### Dato a Roma, addi' 16 ottobre 1980
 
-PERTINI VALITUTTI
+PERTINI SARTI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: SARTI
 
-Registrato alla Corte dei conti, addi' 20 ottobre 1979
+Registrato alla Corte dei conti, addi' 19 maggio 1981
 
-Registro n. 76 Istruzione, foglio n. 30
+Registro n. 44 istruzione, foglio n. 150

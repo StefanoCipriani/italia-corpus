@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 152
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1977 n. 330
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 152
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1977 n. 330
+=============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare un legato.
 -------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-152. Decreto del Presidente della Repubblica 26 febbraio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il legato disposto dal sig. Mensa Euclide con testamento olografo 10 gennaio 1969 pubblicato a rogito dott. Carlo Vicario, notaio in Torino, in data 31 luglio 1975, n. 111500 di repertorio e n. 18540 di raccolta, registrato a Torino il 20 agosto 1975 al n. 22473, vol. 1302, consistente in 700 azioni FIAT ordinarie del valore nominale complessivo di L. 350.000.  
+330. Decreto del Presidente della Repubblica 25 maggio 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Maria Clara Emma detta Maria Folli, in favore dell'Unione italiana dei ciechi per la Scuola nazionale cani guida, con testamento olografo 12 dicembre 1971, integrato il 4 maggio 1974, pubblicato a rogito del notaio dott. Paolo Consolandi in data 25 settembre 1974, n. 33130/9813 di repertorio, registrato a Milano il 7 ottobre 1974 al n. A/115221, consistente nella somma di L. 5.000.000.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 31 marzo 1982  
-Registro n. 3 Presidenza, foglio n. 112
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 15 giugno 1977  
+Registro n. 5 Presidenza, foglio n. 211

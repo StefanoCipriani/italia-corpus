@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1986 n. 1086
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1986 n. 806
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1986 n. 1086
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1986 n. 806
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
 ------------------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' "La Sapienza" di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi "La Sapienza" di Roma, approvato con [regio decreto 14 ottobre 1926, n. 2319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2319), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -33,19 +33,19 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' "La Sapienza" di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi "La Sapienza" di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Nell'art. 119, relativo al corso di laurea in "scienze geologiche", nell'elenco degli insegnamenti complementari e' inserito l'insegnamento di "rappresentazione dei fenomeni territoriali".  
+Nell'art. 61, relativo al corso di laurea in lingue e letterature straniere moderne della facolta' di lettere e filosofia, all'elenco degli insegnamenti complementari dell'indirizzo europeo e' aggiunto l'insegnamento di "linguistica tedesca".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 dicembre 1987
+### Dato a Roma, addi' 4 agosto 1986
 
 COSSIGA
 
@@ -53,6 +53,6 @@ FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: ROGNONI
 
-Registrato alla Corte dei conti, addi' 28 marzo 1987
+Registrato alla Corte dei conti, addi' 17 novembre 1986
 
-Registro n. 19 Istruzione, foglio n. 34
+Registro n. 84 Istruzione, foglio n. 112

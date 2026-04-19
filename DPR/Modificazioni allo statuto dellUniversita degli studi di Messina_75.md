@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1979 n. 717
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 marzo 1978 n. 637
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1979 n. 717
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 marzo 1978 n. 637
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
@@ -10,110 +10,103 @@ Modificazioni allo statuto dell'Universita' degli studi di Messina.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923) e modificato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1392](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1392);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73).;   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923) e modificato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 89 - l'articolo e' modificato nel senso che la facolta' di farmacia conferisce anche la laurea in chimica e tecnologia farmaceutiche.   
-Dopo l'art. 91, con il conseguente spostamento della numerazione degli articoli successivi, e' inserito il nuovo seguente articolo relativo all'istituzione del corso di laurea in chimica e tecnologia farmaceutiche:   
+Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 76 - nel comma A, relativo al seminario chimico della facolta' di scienze matematiche, fisiche e naturali, il quarto comma e' abrogato e sostituito dal seguente:  
+"L'iscrizione al seminario e' consigliata per gli studenti del triennio di applicazione dei corsi di laurea in chimica (possono iscriversi anche gli studenti di altre facolta) nonche' i laureati e diplomati ed i laureandi fuori corso".  
+Nello stesso articolo relativo al seminario fisico il comma B e' abrogato e sostituito dal seguente:  
+"Il seminario fisico della facolta' di scienze ha lo scopo di diffondere la conoscenza della fisica pura ed applicata e di impartire ad allievi particolarmente distintisi nello studio e nella ricerca una preparazione supplementare atta alla completa valorizzazione delle loro capacita'. L'attivita' del seminario consiste in corsi di perfezionamento e di aggiornamento, esercitazioni, conferenze, discussioni, viaggi di istruzione e in quanto altro possa servire allo scopo indicato. Il seminario si avvale delle attrezzature didattiche e della biblioteca dell'istituto di fisica. Al seminario fisico appartengono i professori ufficiali di fisica della facolta' di scienze, i quali annualmente propongono al rettore la nomina di un consiglio di quattro membri e un direttore.  
+Il consiglio cura la pubblicazione dei testi di corsi di lezioni e di conferenze di particolare interesse, e presenta al rettore una relazione annua sull'attivita' svolta. L'iscrizione al seminario e' consigliata per gli studenti laureandi, in corso e fuori corso, e per i laureati. Agli iscritti al seminario viene rilasciato un attestato degli studi compiuti e del profitto dimostrato".  
+Dopo il seminario fisico e' istituito il seminario matematico:  
   
-CORSO DI LAUREA IN CHIMICA E TECNOLOGIA FARMACEUTICHE   
-  
-Art. 92. - La durata del corso degli studi per la laurea in "chimica e tecnologia farmaceutiche" e' di cinque anni, divisi in un biennio ed in un triennio.   
-Sono insegnamenti fondamentali:   
-Biennio:   
-1) analisi chimico-farmaceutica I (analisi qualitativa);   
-(\*) 2) anatomia umana;   
-(\*) 3) botanica farmaceutica;   
-(\*) 4) chimica fisica;   
-5) chimica generale ed inorganica;   
-6) chimica organica; (1)   
-7) fisica;   
-8) fisiologia generale;   
-(\*) 9) istituzioni di matematiche;   
-10) microbiologia ed igiene.   
-Triennio:   
-11) analisi chimico-farmaceutica II (analisi quantitativa);   
-12) analisi chimico-farmaceutica III (analisi dei medicamenti); (\*) 13) biochimica applicata;   
-(\*) 14) chimica biologica;   
-(\*) 15) chimica degli alimenti;   
-(\*) 16) chimica farmaceutica applicata;   
-(\*) 17) chimica farmaceutica e tossicologica I;   
-(\*) 18) chimica farmaceutica e tossicologica II;   
-(\*\*)19) chimica organica II;   
-(\*) 20) farmacologia e farmacognosia;   
-21) impianti dell'industria farmaceutica;   
-22) laboratorio di preparazione estrattiva e sintetica dei farmaci;   
-23) metodi fisici in chimica organica;   
-24) saggi e dosaggi farmacologici;   
-(\*) 25) tecnica e legislazione farmaceutica.   
-Sono insegnamenti complementari:   
-analisi chimico-cliniche;   
-chimica delle sostanze organiche naturali;   
-(\*) complementi di chimica tossicologica;   
-(\*) farmacognosia;   
-(\*) farmacologia molecolare;   
-fitofarmaci;   
-(\*) idrologia;   
-impianti per laboratori galenici;   
-(\*) mineralogia;   
-prodotti cosmetici;   
-prodotti dietetici;   
-tossicologia;   
-zoologia e parassitologia.   
-Le materie segnate con un asterisco sono comuni alla laurea in farmacia, quella con due asterischi e' comune al corso di laurea in chimica.   
-Per ottenere l'iscrizione al terzo anno di corso, lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fissati per i due anni precedenti. Inoltre lo studente non puo' iscriversi al laboratorio del primo corso di analisi chimico-farmaceutica se non ha superato l'esame di chimica generale ed inorganica; pertanto non puo' ottenere la frequenza al suddetto corso.   
-Lo studente non puo' iscriversi al laboratorio del terzo corso di analisi chimico-farmaceutica se non ha superato l'esame di chimica organica I; pertanto, non puo' ottenere la frequenza al suddetto corso.   
-Dovranno inoltre essere osservate le seguenti precedenze:   
-  
-
-|  |  |
-| --- | --- |
-| Lo studente non puo' essere ammesso a sostenere l'esame di | Se non ha superato l'esame di |
-| Chimica organica I | Chimica generale ed inorganica |
-| Chimica fisica | Chimica generale ed inorganica + Fisica + Istituzioni di matematiche |
-| Chimica farmaceutica e tossicologica I | Chimica organica I |
-| Fisiologia generale | Anatomia umana |
-| Farmacologia e farmacognosia | Fisiologia generale + Chimica biologica |
-| Chimica biologica | Chimica organica I |
-| Impianti dell'industria farmaceutica | Chimica farmaceutica e tossicologica I e II |
-| Metodi fisici in chimica organica | Fisica + Chimica organica I |
-| Biochimica applicata | Chimica biologica |
-| Chimica farmaceutica applicata | Chimica farmaceutica e tossicologica I e II |
-| Analisi chimico-farmaceutica II | Analisi chimico-farmaceutica I |
-
-  
-  
-  
-  
-Per essere ammesso all'esame di laurea, lo studente deve avere seguito i corsi e superato tutti gli esami dei corsi fondamentali ed almeno due esami a scelta fra i corsi complementari.   
-La prova di laurea comporta la discussione di una tesi sperimentale.   
-Per essere ammesso a sostenere l'esame di Stato per l'esercizio della professione di farmacista, il laureato in chimica e tecnologia farmaceutiche deve aver compiuto un semestre di pratica professionale presso una farmacia, oppure un trimestre presso una farmacia ed un trimestre presso una industria farmaceutica.   
-Il periodo di pratica professionale dovra' avere inizio dopo il conseguimento del titolo accademico.   
+Comma C  
+"Il seminario matematico della facolta' di scienze ha lo scopo di diffondere la cultura matematica, di promuovere studi e ricerche nel campo della matematica pura ed applicata e di impartire ad allievi particolarmente distintisi nello studio e nella ricerca una preparazione supplementare atta alla completa valorizzazione delle loro capacita'.  
+L'attivita' del seminario consiste in esercitazioni, ricerche, conferenze, discussioni, comunicazioni scientifiche, viaggi di istruzione, corsi di preparazione e di aggiornamento e di quanto altro possa servire allo scopo indicato.  
+Al seminario matematico appartengono i professori ufficiali del corso di laurea in matematica della facolta' di scienze ed i professori di discipline matematiche degli altri corsi di laurea, i quali annualmente propongono al rettore la nomina di un consiglio di quattro membri e di un direttore, scelto fra i professori appartenenti al seminario.  
+L'iscrizione al seminario e' consigliata per gli studenti del secondo biennio dei corsi di laurea in matematica; possono altresi' iscriversi studenti di altri corsi di laurea o facolta' nonche' gia' laureati.  
+Il seminario matematico ha una propria raccolta di materiale didattico e scientifico affidata ad un responsabile nominato dal consiglio. Tale responsabile rimane in carica un anno.  
+Il seminario matematico pubblica, quando i fondi lo consentono, i corsi in esso tenuti, sotto la direzione di un comitato di redazione.  
+Agli iscritti al seminario puo' venire rilasciato un attestato degli studi compiuti e del profitto dimostrato.  
+Ai docenti che tengono i corsi puo' essere attribuito, sui fondi del seminario, un compenso forfettario.  
+La tassa di iscrizione e' fissata, per ciascun seminario, in L. 5.000 annue".  
+Art. 77 - all'elenco degli insegnamenti complementari del corso di laurea in matematica - ad indirizzo fisico - comune ai tre indirizzi sono aggiunti i seguenti:  
+elettrodinamica cosmica;  
+magnetofluidodinamica;  
+meccanica non lineare;  
+meccanica analitica;  
+teoria delle onde;  
+calcolo sensoriale ed applicazioni;  
+cosmologia.  
+Nello stesso articolo all'elenco degli insegnamenti complementari del corso di laurea in matematica - ad indirizzo matematico - sono aggiunti i seguenti:  
+teoria ed applicazioni delle macchine calcolatrici;  
+linguaggi formali e compilatori;  
+programmazione matematica;  
+metodi per il trattamento dell'informazione;  
+calcolo automatico e programmazione con applicazioni;  
+calcolatori elettronici e programmazione;  
+teoria dei gruppi.  
+Art. 78 - all'elenco degli insegnamenti complementari del corso di laurea in fisica sono aggiunti i seguenti:  
+Indirizzo generale:  
+biofisica, cibernetica e teoria delle informazioni;  
+fisica delle basse temperature;  
+fisica molecolare;  
+meccanica quantistica;  
+spettroscopia;  
+storia della fisica;  
+cristallografia.  
+Indirizzo didattico:  
+biofisica;  
+fisica delle basse temperature;  
+fisica molecolare;  
+meccanica quantistica;  
+spettroscopia;  
+storia della fisica;  
+cristallografia.  
+Indirizzo applicativo:  
+biofisica;  
+cibernetica e teoria delle informazioni;  
+fisica delle basse temperature;  
+fisica molecolare;  
+meccanica quantistica;  
+spettroscopia;  
+storia della fisica;  
+cristallografia;  
+geofisica applicata.  
+Art. 79 - all'elenco degli insegnamenti complementari del corso di laurea in chimica sono aggiunti i seguenti:  
+Indirizzo organico-biologico:  
+chimica degli eterociclici;  
+metodi fisici in chimica organica;  
+sperimentazione di didattica chimica.  
+Indirizzo inorganico-chimico fisico:  
+sperimentazione di didattica chimica;  
+stereochimica inorganica;  
+chimica nucleare;  
+termodinamica chimica;  
+chimica quantistica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 giugno 1979
+### Dato a Roma, addi' 15 marzo 1978
 
-PERTINI SPADOLINI
+LEONE PEDINI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 16 gennaio 1980
+Registrato alla Corte dei conti, addi' 13 ottobre 1978
 
-Registro n. 2 Istruzione, foglio n. 97
-
-(1) L'insegnamento non e' asteriscato per effetto del [decreto del Presidente della Repubblica 31 ottobre 1977, n. 1244](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-10-31;1244).
+Registro n. 109 Istruzione, foglio n. 221

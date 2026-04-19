@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1984 n. 515
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1985 n. 995
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1984 n. 515
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1985 n. 995
+================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
@@ -39,20 +39,27 @@ Articolo unico
 --------------
 
   
-Nell'art. 57, relativo al corso di laurea in chimica, all'elenco degli insegnamenti complementari, per l'indirizzo organico biologico e inorganico-chimico-fisico, vengono aggiunti rispettivamente i seguenti nuovi insegnamenti:  
-chimica fisica delle interfasi;  
-termodinamica statistica.  
+  
+Nell'art. 50, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari, sono aggiunti i seguenti nuovi insegnamenti:   
+andrologia;   
+virologia oncologica;   
+virologia applicata all'epidemiologia;   
+fisiopatologia del ricambio;   
+terapia medica sistematica;   
+tecnica e diagnostica citopatologica.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 maggio 1984
+### Dato a Roma, addi' 27 settembre 1985
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 8 agosto 1984
+Registrato alla Corte dei conti, addi' 3 aprile 1986
 
-Registro n. 49 Istruzione, foglio n. 199
+Registro n. 23 Istruzione, foglio n. 70

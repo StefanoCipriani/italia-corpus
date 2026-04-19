@@ -1,243 +1,65 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 febbraio 1977 n. 820
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1383
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 febbraio 1977 n. 820
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1383
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio superiore della pubblica istruzione nei suoi pareri;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuito dall'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-L'art. 189, relativo all'elenco degli insegnamenti complementari del corso di laurea in farmacia, e' abrogato e sostituito dal seguente:
-
-Insegnamenti complementari:
-
-Alla destra di ogni insegnamento e' indicato tra parentesi l'anno di corso a partire dal quale puo' essere sostenuto il relativo esame:
-
-1) chimica fisica (II);
-
-2) chimica bromatologica (III);
-
-3) biochimica applicata (III);
-
-4) fisiologia vegetale (I);
-
-5) biologia e zoologia generale (I);
-
-6) igiene (I);
-
-7) mineralogia (I);
-
-8) scienza dell'alimentazione (III);
-
-9) chimica farmaceutica applicata (III);
-
-10) istituzioni di matematica (I);
-
-11) idrologia chimica (II);
-
-12) analisi chimica-tossicologica (III);
-
-13) farmacotecnica galenica (IV);
-
-14) microbiologia farmaceutica (III);
-
-15) saggi e dosaggi farmacologici (III);
-
-16) fitofarmacia (III);
-
-17) metodi fisici in chimica organica (III);
-
-18) laboratorio di preparazione estrattiva e sintetica dei farmaci (IV);
-
-19) impianti dell'industria farmaceutica (IV);
-
-20) chimica e tecnologia dei prodotti dietetici (IV);
-
-21) chimica e tecnologia dei prodotti cosmetici (IV);
-
-22) tossicologia (III);
-
-23) farmacognosia (II);
-
-24) patologia generale (III);
-
-25) chemioterapia (III);
-
-26) farmacologia applicata (IV);
-
-27) statistica e biometria (II);
-
-28) chimica delle fermentazioni (III);
-
-29) chimica dei composti eterociclici (III);
-
-30) biologia molecolare (II);
-
-31) enzimologia (III).
-
-Gli articoli 190, 191, 192, 193 e 194 sono abrogati e sostituiti dai seguenti:
-
-Art. 190. - Agli insegnamenti di analisi chimica-tossicologica, chimica biologica, chimica bromatologica, chimica farmaceutica applicata, farmacologia e farmacognosiafisiologia generale, igiene, laboratorio di preparazione estrattiva e sintetica dei farmaci, metodi fisici in chimica organica, saggi e dosaggi farmacologici, tecnica e legislazione farmaceutica sono annessi corsi di esercitazioni sperimentali.
-
-Art. 191. - L'insegnamento biennale di chimica farmaceutica e tossicologica importa un esame al termine di ogni anno e quello triennale di esercitazioni di chimica farmaceutica e tossicologica importa ugualmente un esame al termine di ciascun anno di corso.
-
-Gli studenti non possono essere iscritti al terzo corso di esercitazioni di chimica farmaceutica e tossicologica se non hanno superato l'esame di chimica organica.
-
-Gli studenti non possono sostenere:
-
-a) l'esame del primo corso di esercitazioni di chimica farmaceutica e tossicologica se non hanno superato l'esame di chimica generale ed inorganica;
-
-b) gli esami del secondo e terzo corso di esercitazioni di chimica farmaceutica e tossicologica se non hanno superato l'esame di chimica organica e, rispettivamente, gli esami del primo corso e del secondo corso di esercitazioni di chimica farmaceutica e tossicologica;
-
-c) l'esame di chimica organica se non hanno superato gli esami di chimica generale e inorganica e di fisica;
-
-d) gli esami di chimica farmaceutica e tossicologica se non hanno superato l'esame di chimica organica;
-
-e) l'esame di fisiologia generale se non hanno superato gli esami di anatomia umana e di chimica biologica;
-
-f) l'esame di farmacologia e farmacognosia se non hanno superato l'esame di fisiologia generale;
-
-g) l'esame di tecnica e legislazione farmaceutica se non hanno superato gli esami di chimica farmaceutica e tossicologica I e II.
-
-Art. 192. - Per essere ammesso all'esame di laurea in farmacia lo studente, durante il quadriennio, deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e almeno in quattro complementari da lui scelti. Deve aver compiuto nel terzo o quarto anno un periodo semestrale di pratica presso una farmacia autorizzata il cui nominativo notifichera' all'inizio alla segreteria della facolta'. L'inizio ed il termine della pratica devono risultare da attestazioni rilasciate dal direttore della farmacia presso la quale lo studente l'ha esercitata. Tali dichiarazioni devono essere redatte in carta bollata e debitamente legalizzate.
-
-Art. 193. - L'esame di laurea in farmacia consta di due parti:
-
-a) l'esposizione e la discussione orale di un argomento sorteggiato dal candidato in precedenza avente per oggetto temi interdisciplinari di interesse generale, cosi' da poter valutare la cultura generale del candidato nonche' la sua capacita' di sintesi;
-
-b) la discussione di una dissertazione scritta, preferibilmente di carattere sperimentale, svolta personalmente dal candidato nell'ambito degli insegnamenti seguiti su argomento concordato dal candidato stesso con il professore della disciplina cui si riferisce.
-
-La dissertazione deve presentarsi in segreteria almeno quindici giorni prima dell'inizio degli esami di laurea, insieme al titolo dell'argomento della discussione orale.
-
-Art. 194. - I laureati in chimica sono ammessi al terzo anno.
-
-I laureati in scienze biologiche, scienze naturali, in scienze agrarie, in medicina e chirurgia, in medicina veterinaria ed i diplomati in farmacia sono ammessi al secondo anno a meno che abbiano frequentato in tutto o in parte i corsi pluriennali ottenendo la relativa attestazione di frequenza.
-
-Tanto i laureati che i diplomati di cui al comma precedente hanno l'obbligo di uniformarsi ai dettami contenuti nel presente statuto circa la frequenza e gli esami di profitto inerenti agli insegnamenti fondamentali e complementari prescritti per l'ammissione all'esame di laurea.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 24 febbraio 1977
-
-LEONE
-
-MALFATTI
-
-Visto, il Guardasigilli: BONIFACIO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 8 novembre 1977 Registro n. 125 Istruzione, foglio n. 31
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Napoli approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successivi;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto-legge 20 giugno 1936, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio superiore della pubblica istruzione nei suoi pareri;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuito dall'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-L'art. 189, relativo all'elenco degli insegnamenti complementari del corso di laurea in farmacia, e' abrogato e sostituito dal seguente:  
-Insegnamenti complementari:  
-Alla destra di ogni insegnamento e' indicato tra parentesi l'anno di corso a partire dal quale puo' essere sostenuto il relativo esame:  
-1) chimica fisica (II);  
-2) chimica bromatologica (III);  
-3) biochimica applicata (III);  
-4) fisiologia vegetale (I);  
-5) biologia e zoologia generale (I);  
-6) igiene (I);  
-7) mineralogia (I);  
-8) scienza dell'alimentazione (III);  
-9) chimica farmaceutica applicata (III);  
-10) istituzioni di matematica (I);  
-11) idrologia chimica (II);  
-12) analisi chimica-tossicologica (III);  
-13) farmacotecnica galenica (IV);  
-14) microbiologia farmaceutica (III);  
-15) saggi e dosaggi farmacologici (III);  
-16) fitofarmacia (III);  
-17) metodi fisici in chimica organica (III);  
-18) laboratorio di preparazione estrattiva e sintetica dei farmaci (IV);  
-19) impianti dell'industria farmaceutica (IV);  
-20) chimica e tecnologia dei prodotti dietetici (IV);  
-21) chimica e tecnologia dei prodotti cosmetici (IV);  
-22) tossicologia (III);  
-23) farmacognosia (II);  
-24) patologia generale (III);  
-25) chemioterapia (III);  
-26) farmacologia applicata (IV);  
-27) statistica e biometria (II);  
-28) chimica delle fermentazioni (III);  
-29) chimica dei composti eterociclici (III);  
-30) biologia molecolare (II);  
-31) enzimologia (III).  
-Gli articoli 190, 191, 192, 193 e 194 sono abrogati e sostituiti dai seguenti:  
-Art. 190. - Agli insegnamenti di analisi chimica-tossicologica, chimica biologica, chimica bromatologica, chimica farmaceutica applicata, farmacologia e farmacognosiafisiologia generale, igiene, laboratorio di preparazione estrattiva e sintetica dei farmaci, metodi fisici in chimica organica, saggi e dosaggi farmacologici, tecnica e legislazione farmaceutica sono annessi corsi di esercitazioni sperimentali.  
-Art. 191. - L'insegnamento biennale di chimica farmaceutica e tossicologica importa un esame al termine di ogni anno e quello triennale di esercitazioni di chimica farmaceutica e tossicologica importa ugualmente un esame al termine di ciascun anno di corso.  
-Gli studenti non possono essere iscritti al terzo corso di esercitazioni di chimica farmaceutica e tossicologica se non hanno superato l'esame di chimica organica.  
-Gli studenti non possono sostenere:  
-a) l'esame del primo corso di esercitazioni di chimica farmaceutica e tossicologica se non hanno superato l'esame di chimica generale ed inorganica;  
-b) gli esami del secondo e terzo corso di esercitazioni di chimica farmaceutica e tossicologica se non hanno superato l'esame di chimica organica e, rispettivamente, gli esami del primo corso e del secondo corso di esercitazioni di chimica farmaceutica e tossicologica;  
-c) l'esame di chimica organica se non hanno superato gli esami di chimica generale e inorganica e di fisica;  
-d) gli esami di chimica farmaceutica e tossicologica se non hanno superato l'esame di chimica organica;  
-e) l'esame di fisiologia generale se non hanno superato gli esami di anatomia umana e di chimica biologica;  
-f) l'esame di farmacologia e farmacognosia se non hanno superato l'esame di fisiologia generale;  
-g) l'esame di tecnica e legislazione farmaceutica se non hanno superato gli esami di chimica farmaceutica e tossicologica I e II.  
-Art. 192. - Per essere ammesso all'esame di laurea in farmacia lo studente, durante il quadriennio, deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e almeno in quattro complementari da lui scelti. Deve aver compiuto nel terzo o quarto anno un periodo semestrale di pratica presso una farmacia autorizzata il cui nominativo notifichera' all'inizio alla segreteria della facolta'. L'inizio ed il termine della pratica devono risultare da attestazioni rilasciate dal direttore della farmacia presso la quale lo studente l'ha esercitata. Tali dichiarazioni devono essere redatte in carta bollata e debitamente legalizzate.  
-Art. 193. - L'esame di laurea in farmacia consta di due parti:  
-a) l'esposizione e la discussione orale di un argomento sorteggiato dal candidato in precedenza avente per oggetto temi interdisciplinari di interesse generale, cosi' da poter valutare la cultura generale del candidato nonche' la sua capacita' di sintesi;  
-b) la discussione di una dissertazione scritta, preferibilmente di carattere sperimentale, svolta personalmente dal candidato nell'ambito degli insegnamenti seguiti su argomento concordato dal candidato stesso con il professore della disciplina cui si riferisce.  
-La dissertazione deve presentarsi in segreteria almeno quindici giorni prima dell'inizio degli esami di laurea, insieme al titolo dell'argomento della discussione orale.  
-Art. 194. - I laureati in chimica sono ammessi al terzo anno.  
-I laureati in scienze biologiche, scienze naturali, in scienze agrarie, in medicina e chirurgia, in medicina veterinaria ed i diplomati in farmacia sono ammessi al secondo anno a meno che abbiano frequentato in tutto o in parte i corsi pluriennali ottenendo la relativa attestazione di frequenza.  
-Tanto i laureati che i diplomati di cui al comma precedente hanno l'obbligo di uniformarsi ai dettami contenuti nel presente statuto circa la frequenza e gli esami di profitto inerenti agli insegnamenti fondamentali e complementari prescritti per l'ammissione all'esame di laurea.  
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+Dopo l'art. 376, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in medicina dello sport, con il conseguente spostamento della numerazione degli articoli successivi.  
+Scuola di specializzazione in medicina dello sport  
+Art. 377. - La durata del corso e' di due anni ed il numero degli iscritti e' limitato a quaranta allievi.  
+Art. 378. - La direzione della scuola e' affidata al titolare della cattedra di Anatomia umana.  
+Art. 379. - Le materie di insegnamento sono:  
+1° anno:  
+1) Anatomia normale dei sistemi locomotore, cardiorespiratorio e nervoso;  
+2) Biofisica;  
+3) Fisiologia generale (con particolare riferimento agli apparati respiratorio e circolatorio nonche' del locomotore);  
+4) Fisio-patologia generale (con particolare riguardo agli apparati di cui sopra);  
+5) Patologia chirurgica, (con particolare riguardo alle lesioni traumatiche del torace, addome, cranio);  
+6) Biochimica.  
+Durante il corso saranno svolte conferenze straordinarie su argomenti di cardiologia, reumatologia, elementi di statistica, antropometria.  
+2° anno:  
+1) Fisiologia applicata allo sport (metodi di ricerca e di misurazione con particolare riguardo alle applicazioni sui campi agonistici);  
+2) Chirurgia d'urgenza - pronto soccorso;  
+3) Traumatologia e ortopedia - tecnica, degli apparecchi gessati;  
+4) Clinica medica - soccorso medico d'urgenza;  
+5) Neurologia;  
+6) Medicina legale e infortunistica.  
+Durante il corso saranno svolte conferenze straordinarie su argomenti di: oculistica e traumatologia oculare, patologia vascolare, fisiologica, della alimentazione, psicologia dello sport, tecnica del massaggio.  
+Art. 380. - Le tasse di iscrizione e di frequenza saranno eguali a quelle delle altre scuole di specializzazione presso la Facolta' di medicina di Napoli.  
+La tassa di diploma e' fissata nella misura di L. 6000 a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).  
+L'importo del contributo annuale per esercitazioni materiale didattico sara' determinato dal Consiglio di amministrazione su proposta della Facolta'.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 febbraio 1977
+### Dato a Roma, addi' 19 ottobre 1960
 
-LEONE MALFATTI
+GRONCHI BOSCO
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 8 novembre 1977
+Registrato alla Corte dei conti, addi' 24 novembre 1960
 
-Registro n. 125 Istruzione, foglio n. 31
+Atti del Governo, registro n. 131, foglio n. 93. - VILLA

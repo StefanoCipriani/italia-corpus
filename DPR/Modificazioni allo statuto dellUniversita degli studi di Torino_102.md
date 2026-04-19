@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1960 n. 1530
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 maggio 1978 n. 344
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1960 n. 1530
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 maggio 1978 n. 344
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
@@ -10,199 +10,159 @@ Modificazioni allo statuto dell'Universita' degli studi di Torino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788) e successivi;
+Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con, [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello, statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Torino e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Dopo l'art. 185, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi alla Scuola di specializzazione di neurochirurgia, annessa alla Facolta' di medicina e chirurgia.
+Art. 158 - all'elenco delle scuole di specializzazione in medicina e chirurgia e' aggiunta la scuola di specializzazione in audiologia.
 
-Scuola di specializzazione in neurochirurgia
+Dopo l'art. 305, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in audiologia.
 
-Art. 186. - Per il conseguimento del diploma di specialista in neochirurgia, si richiedono cinque anni di corso.
+Scuola di specializzazione in audiologia
 
-Art. 187. - La Scuola e' istituita presso l'istituto di clinica chirurgica generale e della Clinica delle malattie nervose e mentali, ed e posta sotto la direzione e la diretta sorveglianza del titolare della cattedra di clinica chirurgica generale, o di chi avra' l'incarico dell'insegnamento della neurochirurgia, coadiuvato da professori e docenti proposti e particolarmente preparati in tale materia.
+Art. 306. - E' istituita presso la facolta' di medicina e chirurgia la scuola di specializzazione in audiologia cui sono ammessi esclusivamente i laureati in medicina e chirurgia.
 
-Art. 188. - Il materiale didattico e' anche costituito dalla biblioteca e dalla documentazione raccolta nell'archivio delle due Cliniche.
+Art. 307. - La scuola ha sede presso l'istituto di audiologia ed ha la durata di tre anni. Non sono ammesse abbreviazioni di corso, ne' e' consentita l'iscrizione contemporanea ad altra scuola di specializzazione.
 
-Art. 189. - Il corso si compone di insegnamenti fondamentali e di conferenze su argomenti speciali.
+Art. 308. - Il numero complessivo degli iscritti alla scuola per i tre anni e' fissato ad un massimo di nove (tre per anno).
 
-Art. 190. - Gli insegnamenti fondamentali impartiti dalla Scuola sono i seguenti:
+L'ammissione alla scuola avviene mediante concorso per titoli ed esami orali.
 
-1° anno:
+Art. 309. - Le materie di insegnamento sono:
 
-Clinica chirurgica generale;
+1° Anno:
 
-Anestesiologia;
+nozioni di fisica acustica;
 
-Fisiopatologia generale chirurgica;
+anatomia dell'orecchio, delle vie e dei centri acustici e vestibolari;
 
-Anatomia del sistema nervoso;
+fisiologia dell'orecchio, delle vie e dei centri acustici e vestibolari;
 
-Fisiologia del sistema nervoso;
+nozioni di psichiatria.
 
-2° anno:
+2° Anno:
 
-Clinica chirurgica generale;
+tecniche audiometriche;
 
-Patologia chirurgica del sistema nervoso;
+nozioni di neurologia;
 
-Otoneurologia e neuro oftalmologia;
+nozioni di vestibologia.
 
-Semeiotica e clinica neuropatologica;
+3° Anno:
 
-3° anno:
+patologia dell'udito;
 
-Anatomia topografica neurochirurgica;
+terapia medica, chirurgica e protesica della sordita';
 
-Anatomia patologica di interesse neurochirurgico;
+la sordita' sotto il profilo sociale;
 
-Neurofisiopatologia di interesse neurochirurgico;
+la rieducazione dell'ipoacustico.
 
-Semeiotica e clinica neuropatologica;
+Art. 310. - Per accedere al secondo ed al terzo anno e' obbligatorio il superamento di tutti gli esami rispettivamente del primo e del secondo anno. Gli esami possono essere sostenuti solamente in due sessioni annuali, una estiva ed una autunnale.
 
-4° anno:
+Art. 311. - Gli iscritti hanno l'obbligo di frequentare le lezioni e le esercitazioni e di svolgere un internato, di almeno dieci mesi per ogni anno accademico, presso l'istituto di audiologia, sede della scuola.
 
-Clinica neurochirurgica;
+Art. 312. - La misura delle tasse per gli iscritti e' fissata per ogni anno di corso come segue:
 
-Neuroradiologia;
+tassa di iscrizione . . . . . . . . . . . . . . . . . . L. 18.000 soprattassa esami profitto . . . . . . . . . . . . . . . L. 7.000 contributo riscaldamento. . . . . . . . . . . . . . . . L. 10.000 contributo attivita' assistenziali . . . . . . . . . . . L. 1.000 contributo assistenza e infortuni. . . . . . . . . . . . . L. 300
 
-Anestesia neurochirurgica;
+Art. 313. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione, o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
 
-Tecnica operatoria neurochirurgica;
+Gli insegnanti sono proposti dal direttore della scuola e scelti tra i titolari di altre cattedre della facolta' di medicina e chirurgia dell'Universita' di Torino, tra i liberi docenti in audiologia ed in altre materie.
 
-5° anno:
-
-Clinica neurochirurgica;
-
-Neuroradiologia;
-
-Tecnica operatoria neurochirurgica;
-
-Traumatologia; crano-cerebrale e vertebro-midollare;
-
-Neurochirurgia ad indirizzo fisiopatologico.
-
-Art. 191. - Alla fine di ciascun anno accademico, gli specializzandi che abbiano ottenuto le firme di frequenza, dovranno sostenere un esame di profitto nelle materie fondamentali.
-
-Art. 192. - Alla fine del 5° anno di corso, ha luogo l'esame di diploma, che consiste nella discussione di una dissertazione scritta su argomento di neurochirurgia, proposto o approvato dal direttore della scuola e presentato in segreteria, almeno trenta giorni prima dell'esame.
-
-Art. 193. - La Commissione per gli esami di profitto, e' costituita dal direttore della Scuola, dal docente della materia e da un altro docente del corso.
-
-Art. 194. - La Commissione per l'esame di diploma e' formata da sette membri, presieduta dal preside della Facolta', o da un professore da lui delegato.
-
-Art. 195. - Per gli iscritti alla Scuola di specializzazione in chirurgia generale, potra' essere ammesso il passaggio, dopo i primi due anni di specializzazione in chirurgia generale, al 3° corso della Scuola di neurochirurgia, ma con l'obbligo degli esami speciali di indole neurologica dei precedenti due corsi.
-
-Art. 196. - Per gli specializzati in chirurgia generale, o liberi docenti in patologia chirurgica o di clinica chirurgica, potra' essere ammessa l'iscrizione al quarto anno, della scuola di neurochirurgia, ma con l'obbligo di tutti gli esami speciali di indole neurologica, dei corsi precedenti al quarto.
-
-Art. 197. - Il numero delle ammissioni al 1° corso e' limitato al massimo a dieci.
-
-Il numero delle ammissioni di cui all'art. 195 a cinque.
-
-Il numero delle ammissioni di cui all'art. 196 a cinque.
+Art. 314. - Il diploma di specialista in audiologia viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinico o sperimentale.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 30 ottobre 1960
+Dato a Roma, addi' 30 maggio 1978
 
-GRONCHI
+LEONE
 
-BOSCO
+PEDINI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BONIFACIO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 17 dicembre 1960 Atti del Governo, registro n. 132, foglio n. 99. - VILLA
+alla Corte dei conti, addi' 27 giugno 1978 Registro n. 67 Istruzione, foglio n. 369
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con, [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello, statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Torino e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 158 - all'elenco delle scuole di specializzazione in medicina e chirurgia e' aggiunta la scuola di specializzazione in audiologia.  
+Dopo l'art. 305, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in audiologia.  
   
-Dopo l'art. 185, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi alla Scuola di specializzazione di neurochirurgia, annessa alla Facolta' di medicina e chirurgia.  
-Scuola di specializzazione in neurochirurgia  
-Art. 186. - Per il conseguimento del diploma di specialista in neochirurgia, si richiedono cinque anni di corso.  
-Art. 187. - La Scuola e' istituita presso l'istituto di clinica chirurgica generale e della Clinica delle malattie nervose e mentali, ed e posta sotto la direzione e la diretta sorveglianza del titolare della cattedra di clinica chirurgica generale, o di chi avra' l'incarico dell'insegnamento della neurochirurgia, coadiuvato da professori e docenti proposti e particolarmente preparati in tale materia.  
-Art. 188. - Il materiale didattico e' anche costituito dalla biblioteca e dalla documentazione raccolta nell'archivio delle due Cliniche.  
-Art. 189. - Il corso si compone di insegnamenti fondamentali e di conferenze su argomenti speciali.  
-Art. 190. - Gli insegnamenti fondamentali impartiti dalla Scuola sono i seguenti:  
-1° anno:  
-Clinica chirurgica generale;  
-Anestesiologia;  
-Fisiopatologia generale chirurgica;  
-Anatomia del sistema nervoso;  
-Fisiologia del sistema nervoso;  
-2° anno:  
-Clinica chirurgica generale;  
-Patologia chirurgica del sistema nervoso;  
-Otoneurologia e neuro oftalmologia;  
-Semeiotica e clinica neuropatologica;  
-3° anno:  
-Anatomia topografica neurochirurgica;  
-Anatomia patologica di interesse neurochirurgico;  
-Neurofisiopatologia di interesse neurochirurgico;  
-Semeiotica e clinica neuropatologica;  
-4° anno:  
-Clinica neurochirurgica;  
-Neuroradiologia;  
-Anestesia neurochirurgica;  
-Tecnica operatoria neurochirurgica;  
-5° anno:  
-Clinica neurochirurgica;  
-Neuroradiologia;  
-Tecnica operatoria neurochirurgica;  
-Traumatologia; crano-cerebrale e vertebro-midollare;  
-Neurochirurgia ad indirizzo fisiopatologico.  
-Art. 191. - Alla fine di ciascun anno accademico, gli specializzandi che abbiano ottenuto le firme di frequenza, dovranno sostenere un esame di profitto nelle materie fondamentali.  
-Art. 192. - Alla fine del 5° anno di corso, ha luogo l'esame di diploma, che consiste nella discussione di una dissertazione scritta su argomento di neurochirurgia, proposto o approvato dal direttore della scuola e presentato in segreteria, almeno trenta giorni prima dell'esame.  
-Art. 193. - La Commissione per gli esami di profitto, e' costituita dal direttore della Scuola, dal docente della materia e da un altro docente del corso.  
-Art. 194. - La Commissione per l'esame di diploma e' formata da sette membri, presieduta dal preside della Facolta', o da un professore da lui delegato.  
-Art. 195. - Per gli iscritti alla Scuola di specializzazione in chirurgia generale, potra' essere ammesso il passaggio, dopo i primi due anni di specializzazione in chirurgia generale, al 3° corso della Scuola di neurochirurgia, ma con l'obbligo degli esami speciali di indole neurologica dei precedenti due corsi.  
-Art. 196. - Per gli specializzati in chirurgia generale, o liberi docenti in patologia chirurgica o di clinica chirurgica, potra' essere ammessa l'iscrizione al quarto anno, della scuola di neurochirurgia, ma con l'obbligo di tutti gli esami speciali di indole neurologica, dei corsi precedenti al quarto.  
-Art. 197. - Il numero delle ammissioni al 1° corso e' limitato al massimo a dieci.  
-Il numero delle ammissioni di cui all'art. 195 a cinque.  
-Il numero delle ammissioni di cui all'art. 196 a cinque.  
+Scuola di specializzazione in audiologia  
+  
+Art. 306. - E' istituita presso la facolta' di medicina e chirurgia la scuola di specializzazione in audiologia cui sono ammessi esclusivamente i laureati in medicina e chirurgia.  
+Art. 307. - La scuola ha sede presso l'istituto di audiologia ed ha la durata di tre anni. Non sono ammesse abbreviazioni di corso, ne' e' consentita l'iscrizione contemporanea ad altra scuola di specializzazione.  
+Art. 308. - Il numero complessivo degli iscritti alla scuola per i tre anni e' fissato ad un massimo di nove (tre per anno).  
+L'ammissione alla scuola avviene mediante concorso per titoli ed esami orali.  
+Art. 309. - Le materie di insegnamento sono:  
+1° Anno:  
+nozioni di fisica acustica;  
+anatomia dell'orecchio, delle vie e dei centri acustici e vestibolari;  
+fisiologia dell'orecchio, delle vie e dei centri acustici e vestibolari;  
+nozioni di psichiatria.  
+2° Anno:  
+tecniche audiometriche;  
+nozioni di neurologia;  
+nozioni di vestibologia.  
+3° Anno:  
+patologia dell'udito;  
+terapia medica, chirurgica e protesica della sordita';  
+la sordita' sotto il profilo sociale;  
+la rieducazione dell'ipoacustico.  
+Art. 310. - Per accedere al secondo ed al terzo anno e' obbligatorio il superamento di tutti gli esami rispettivamente del primo e del secondo anno. Gli esami possono essere sostenuti solamente in due sessioni annuali, una estiva ed una autunnale.  
+Art. 311. - Gli iscritti hanno l'obbligo di frequentare le lezioni e le esercitazioni e di svolgere un internato, di almeno dieci mesi per ogni anno accademico, presso l'istituto di audiologia, sede della scuola.  
+Art. 312. - La misura delle tasse per gli iscritti e' fissata per ogni anno di corso come segue:  
+  
+tassa di iscrizione . . . . . . . . . . . . . . . . . . L. 18.000 soprattassa esami profitto . . . . . . . . . . . . . . . L. 7.000 contributo riscaldamento. . . . . . . . . . . . . . . . L. 10.000 contributo attivita' assistenziali . . . . . . . . . . . L. 1.000 contributo assistenza e infortuni. . . . . . . . . . . . . L. 300   
+Art. 313. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione, o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Gli insegnanti sono proposti dal direttore della scuola e scelti tra i titolari di altre cattedre della facolta' di medicina e chirurgia dell'Universita' di Torino, tra i liberi docenti in audiologia ed in altre materie.  
+Art. 314. - Il diploma di specialista in audiologia viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinico o sperimentale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1960
+### Dato a Roma, addi' 30 maggio 1978
 
-GRONCHI BOSCO
+LEONE PEDINI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 17 dicembre 1960
+Registrato alla Corte dei conti, addi' 27 giugno 1978
 
-Atti del Governo, registro n. 132, foglio n. 99. - VILLA
+Registro n. 67 Istruzione, foglio n. 369

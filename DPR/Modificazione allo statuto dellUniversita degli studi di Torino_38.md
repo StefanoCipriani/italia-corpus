@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1983 n. 1097
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1983 n. 964
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1983 n. 1097
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1983 n. 964
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
@@ -39,19 +39,24 @@ Articolo unico
 --------------
 
   
-Nell'art. 55, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-chirurgia sperimentale.  
+Nell'art. 55, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+fisiopatologia chirurgica;  
+patologia speciale neurologica;  
+angiologia;  
+fisiopatologia digestiva;  
+fisiopatologia endocrina;  
+semeiotica cardiovascolare.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 dicembre 1983
+### Dato a Roma, addi' 17 maggio 1983
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 15 marzo 1984
+Registrato alla Corte dei conti, addi' 15 febbraio 1984
 
-Registro n. 16 Istruzione, foglio n. 166
+Registro n. 8 Istruzione, foglio n. 72

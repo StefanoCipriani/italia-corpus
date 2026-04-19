@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 531
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 501
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 531
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 501
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Padova.
@@ -39,19 +39,23 @@ Articolo unico
 --------------
 
   
-Nell'art. 41, relativo al corso di laurea in economia e commercio, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-diritto regionale.  
+Nell'art. 86, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+radiobiologia nucleare;  
+fisiologia ed igiene del lavoro industriale;  
+oncologia ginecologica;  
+biochimica clinica;  
+patologia cellulare.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 maggio 1983
+### Dato a Roma, addi' 15 luglio 1983
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 28 settembre 1983
+Registrato alla Corte dei conti, addi' 22 settembre 1983
 
-Registro n. 63 Istruzione, foglio n. 129
+Registro n. 62 Istruzione, foglio n. 298

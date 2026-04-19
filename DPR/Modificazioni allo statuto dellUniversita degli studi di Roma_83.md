@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1957 n. 994
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 giugno 1971 n. 658
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1957 n. 994
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 giugno 1971 n. 658
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
@@ -10,75 +10,77 @@ Modificazioni allo statuto dell'Universita' degli studi di Roma.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734) e successivi;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;.   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734) e modificato con [regio decreto 26 ottobre 1940, n. 2069](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2069), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il regio decreto 30 Settembre 1938; n: 1652, e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta.  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 52. - All'elenco degli Istituti annessi alla Facolta' di economia e commercio e' aggiunto quello di:   
-12) Economia politica.   
-La denominazione dell'Istituto di scienze economiche e' cambiata in quella di:   
-"Istituto di politica economica".   
-Art. 89. - Agli insegnamenti complementari del corso di laurea in fisica e' aggiunto quello di:   
-"Fisica dei solidi".   
-Art. 93. - Agli insegnamenti complementari del corso di laurea in matematica e fisica e' aggiunto quello di:   
-"Fisica dei solidi".   
-Dopo l'art. 394 sono aggiunti i seguenti nuovi articoli relativi alla istituzione del corso di perfezionamento in ingegneria nucleare con il conseguente spostamento della numerazione degli articoli successivi.   
+Gli articoli 247, 248, 249, 250, 251 e 252, relativi alla scuola di perfezionamento in statistica sanitaria, sono abrogati e sostituiti dai seguenti:  
   
-Corso di perfezionamento in ingegneria nucleare   
-  
-Art. 395. - Presso la Facolta' di ingegneria e' istituito un corso di perfezionamento in "ingegneria nucleare", al fine di preparare tecnici specializzati alla risoluzione dei problemi inerenti alla produzione della energia mediante impianti nucleari e tecniche connesse.   
-Art. 396. - Il corso ha la durata, di un anno; e' diretto da un professore ordinario della Facolta' nominato dal rettore su designazione del Consiglio di facolta'. Il Consiglio del corso e' composto dal direttore e dai docenti degli insegnamenti costitutivi di cui all'articolo 399.   
-Art. 397. - Al corso possono essere ammessi esclusivamente laureati in ingegneria.   
-Il Consiglio del corso delibera ogni anno tempestivamente in ordine all'inizio e lo svolgimento delle lezioni, il numero massimo degli iscritti e le norme per l'ammissione nonche' il numero minimo di iscritti affinche' il corso stesso abbia luogo.   
-Il Consiglio di facolta' potra' sospendere lo svolgimento del corso a partire dall'anno accademico successivo alla deliberazione.   
-Art. 398. - La frequenza ai singoli insegnamenti deve essere attestata dai rispettivi docenti, secondo le modalita' stabilite del Consiglio del corso.   
-Art. 399. - Gli insegnamenti impartiti nel corso sono i seguenti:   
-1) Fisica nucleare;   
-2) Tecnica e misure di fisica nucleare;   
-3) Fisica del reattore;   
-4) Problemi di sicurezza e dosimetria;   
-5) Complementi di analisi e teoria dei servomeccanismi;   
-6) Metallurgia dell'uranio e del torio, dei metalli strutturali e dei metalli di controllo;   
-7) Mutamenti nella struttura dei materiali per effetto delle radiazioni;   
-8) Tecnologia dei materiali;   
-9) Ingegneria dei reattori nucleari;   
-10) Chimica del reattore nucleare;   
-11) Separazione degli isotopi;   
-12) Reattori di ricerca strutturali e prototipi;   
-13) Problemi termici dei reattori di potenza e schermatura.   
-Gli insegnamenti sopra indicati saranno completati da esercitazioni.   
-Il Consiglio del corso stabilisce la durata degli insegnamenti.   
-Gli insegnamenti potranno venire integrati da conferenze e visite ad impianti.   
-Art. 400. - E' data facolta' al direttore, all'inizio di ogni anno accademico, di rivedere il programma del corso e, sentito il parere del Consiglio, di sottoporre al Consiglio della facolta' proposte di variazioni del medesimo che saranno rese pubbliche soltanto dopo l'approvazione degli organi competenti, ai sensi delle vigenti disposizioni di cui al [testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592).   
-Art. 401. - Gli insegnanti del corso sono proposti dal direttore, che puo' sceglierli fra i professori di ruolo e fuori ruolo, fra i liberi docenti, fra gli aiuti e gli assistenti o anche fra persone di riconosciuta competenza delle rispettive specialita', ovvero giovarsi per talune materie di insegnamenti svolti presso altre Facolta'. Tali proposte sono subordinate alla approvazione del Consiglio di facolta' ed alle nomine provvede il rettore.   
-Art. 402. - Per la validita' del corso, cioe' per il conseguimento dell'attestato di cui all'art. 403, gli iscritti dovranno superare gli esami degli insegnamenti costitutivi e redigere un progetto o uno studio sulle materie di insegnamento.   
-Tale ultimo elaborato verra' discusso alla presenza di una Commissione di cinque membri scelti tra i docenti del corso e presieduta dal direttore del corso.   
-Ogni esame fallito potra' essere ripetuto una sola volta.   
-Art. 403. - Agli iscritti che abbiano superato tutti gli esami ed ottenuta l'idoneita' nel progetto o studio finale viene rilasciato un attestato comprovante la carriera scolastica compiuta.   
-Art. 404. - Gli iscritti al corso sono tenuti a pagare le tasse, soprattasse, contributi generali e per esercitazioni nella misura che verra' stabilita dal Consiglio di amministrazione della Universita', su proposta del Consiglio della facolta', udito il direttore del corso.   
+Art. 247. - Alla scuola sono ammessi:  
+a) i laureati in scienze statistiche, in medicina e chirurgia, in scienze naturali, in scienze biologiche, in farmacia, in chimica e tecnologia farmaceutica, in chimica, in ingegneria, in architettura e in giurisprudenza;  
+b) i diplomati in statistica, i funzionari ed operatori di enti pubblici e privati interessati a problemi di sanita' pubblica.  
+Art. 248. - La scuola di perfezionamento in statistica sanitaria ha la durata di due anni.  
+Per coloro che richiedono l'iscrizione in base al comma b) dell'art. 247 la durata del corso e' di un anno.  
+Art. 249. - L'ordine degli studi comprende insegnamenti fondamentali ed altri complementari per una piu' approfondita informazione e preparazione di studio.  
+Gli iscritti alla scuola di perfezionamento hanno l'obbligo di frequentare le lezioni e le esercitazioni al fine di ottenere l'attestato di frequenza per l'ammissione agli esami.  
+I corsi sono integrati da conferenze, da esercitazioni pratiche e da visite presso istituti e centri specializzati nella ricerca statistica.  
+Art. 250. - Le materie di insegnamento fondamentali sono:  
+1° Anno:  
+1) Statistica sanitaria;  
+2) Elementi di metodologia statistica;  
+3) Demografia;  
+4) Nozioni di calcolo delle probabilita';  
+5) Elementi di biologia;  
+6) Elementi di fisiologia;  
+7) Elementi di patologia;  
+8) Elementi di genetica;  
+9) Elementi di architettura sanitaria.  
+2° Anno:  
+1) Metodi statistici applicati alla biologia ed alla medicina;  
+2) Elementi di farmacologia sperimentale;  
+3) Calcolo meccanografico ed elettronico;  
+4) Statistica demografica e patologica;  
+5) Statistica dell'organizzazione igienico-sanitaria;  
+6) Statistica medica;  
+7) Le rilevazioni statistiche nella sicurezza sociale;  
+8) Epidemiologia della patologia umana;  
+9) Sociologia sanitaria e sanita', pubblica.  
+Le materie d'insegnamento complementari sono:  
+1) Elementi di matematica;  
+2) Applicazione operativa degli elaborati elettronici in bio-medicina;  
+3) Antropometria;  
+4) Psicometria;  
+5) Ecologia;  
+6) Programmazione sanitaria;  
+7) Biocibernetica;  
+8) Ricerca operativa in campo sanitario.  
+In riferimento alle predette materie, ciascun iscritto e' tenuto alla presentazione di un piano di studio al consiglio della scuola.  
+Il consiglio dovra' fornire preventivamente tutte le indicazioni utili alla stesura dei piani riservandosi di disporre eventuali modifiche ai fini dell'accoglimento definitivo.  
+Art. 251. - Gli iscritti che rientrano nel comma b) dell'art. 247 dovranno presentare un piano di studio comprendente l'elenco di almeno 11 insegnamenti scelti fra la rosa dei fondamentali e complementari.  
+A coloro che avranno superato gli esami relativi al piano di studio approvato dal consiglio dei docenti della scuola verra' rilasciato un attestato di frequenza e di profitto.  
+Art. 252. - Gli iscritti che rientrano nel comma a) dell'art. 247 sono tenuti alla presentazione di un piano di studio comprendente gli esami fondamentali previsti, ed almeno tre esami complementari a scelta del candidato. Nella valutazione dei piani di studio, il consiglio della scuola, in rapporto alla laurea ed al curriculum universitario, si riserva la facolta' di esonerare, dalla frequenza e dal relativo esame di alcuni insegnamenti.  
+Per il conseguimento del diploma si dovra' altresi' presentare e discutere una dissertazione su di un argomento originale, concernente uno degli insegnamenti indicati nel programma di studio, dinanzi ad una commissione costituita da sette docenti della scuola.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 settembre 1957
+### Dato a Roma, addi' 8 giugno 1971
 
-GRONCHI MORO
+SARAGAT MISASI Visto il Guardasigilli: COLOMBO
 
-Visto, il Guardasigilli: GONELLA
+Registrato alla Corte dei conti, addi' 21 agosto 1971
 
-Registrato alla Corte dei conti, addi' 28 ottobre 1957
-
-Atti del Governo, registro n. 108, foglio n. 114. - RELLEVA
+Atti del Governo, registro n. 243, foglio n. 159. - PASQUALUCCI

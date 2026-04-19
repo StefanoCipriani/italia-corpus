@@ -1,93 +1,107 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 febbraio 1981 n. 269
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 luglio 1970 n. 611
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 febbraio 1981 n. 269
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 luglio 1970 n. 611
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Gli articoli da 701 a 705, relativi alla scuola diretta a fini speciali per ortottisti, che muta la denominazione in scuola diretta a fini speciali per ortottisti-assistenti di oftalmologia, sono sostituiti dai seguenti:  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Scuola diretta a fini speciali per ortottisti, assistenti di oftalmologia  
-Art. 701. - E' istituita presso la facolta' di medicina e chirurgia della Universita' di Bologna, una scuola speciale di preparazione per ortottisti-assistenti di oftalmologia che ha sede presso la clinica oculistica di questa Universita'.  
-La scuola ha lo scopo di dare una preparazione completa, teorico pratica, istruendo gli allievi sui problemi della motilita' oculare, della ambliopia, delle tecniche diagnostiche della visione binoculare, del trattamento pre e post-operatorio dei pazienti strabici, dei problemi sui vizi di rifrazione e della loro correzione e sulle tecniche diagnostiche in oftalmologia.  
-La durata del corso per conseguire il diploma di ortottista-assistente di oftalmologia e' di tre anni.  
-Art. 702. - Ne sono titoli di ammissione il possesso di un diploma legalmente valido ai fini della iscrizione alla Universita' ai sensi dell'[art. 1 della legge n. 910 dell'11 dicembre 1969](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1) e la conoscenza di una lingua straniera (inglese, francese, tedesco, spagnolo).  
-Gli aspiranti all'iscrizione al primo corso sono tenuti a sostenere un esame di ammissione consistente in una prova di cultura generale ed in una prova per la conoscenza della lingua straniera. E' richiesto un certificato di sana e robusta costituzione, con particolare riguardo alla funzione visiva.  
-Il numero complessivo degli iscritti alla scuola e' da sei a quindici in totale (da due a cinque per anno di corso). Qualora le domande di iscrizione fossero in numero superiore al numero massimo previsto, il consiglio della scuola si riserva di provvedere ad una scelta tra gli idonei in base ai risultati delle prove di ammissione; gli idonei possono essere ammessi anche in soprannumero in rapporto a posti che fossero disponibili al secondo e terzo anno. I ripetenti ed i fuori corso, qualora riprendano gli studi, sono riammessi in soprannumero.  
-L'anno accademico ha inizio e termine nelle date stabilite dalle leggi in vigore per l'istruzione universitaria. La frequenza e' obbligatoria.  
+Decreta:   
   
-Art. 703  
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Gli articoli da 462 a 466 relativi alla scuola di perfezionamento in medicina del lavoro che assume la denominazione di scuola di specializzazione in medicina del lavoro e gli articoli da 512 a 517 relativi alla scuola di specializzazione in angiologia che assume la denominazione di scuola di specializzazione in chirurgia vascolare, sono abrogati e sostituiti dai seguenti:   
   
-1° Anno:  
-1) elementi di anatomia dell'apparato visivo e del S.N.C.;  
-2) fisiologia dell'occhio, della motilita' oculare, della visione binoculare;  
-3) ottica fisica e fisiopatologica;  
-4) ortottica I;  
-5) psicologia infantile.  
-2° Anno:  
-1) elementi di patologia oculare;  
-2) elementi di farmacologia oculare;  
-3) elementi di neurooftalmologia;  
-4) nozioni di chirurgia ed assistenza oftalmica;  
-5) ortottica II.  
-3° Anno:  
-1) tecniche semeiologiche dell'apparato visivo I (es. refrazione, contattologia, adattometria, campo visivo, senso cromatico);  
-2) tecniche semeiologiche ed elettrofisiologiche (tonometria e tonografia, ERG, EOG, EMG, ecografia, retinografia e fluoroangiografia);  
-3) ortottica III;  
-4) nozioni di riabilitazione senso motorio nell'eta' infantile;  
-5) legislazione sanitaria.  
-Art. 704. - L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni e dall'obbligo, per gli allievi, dell'internato per l'intero periodo di corso di studi nella clinica oculistica.  
-La frequenza viene comprovata dalla attestazione rilasciata sul libretto di iscrizione dagli insegnanti e per l'attivita' pratica dal direttore della scuola. L'attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.  
-Alla fine di ogni anno gli allievi devono sostenere un esame sulle materie di insegnamento. Nel caso in cui i candidati non abbiano superato gli esami prescritti, non potranno essere ammessi all'anno successivo e resteranno in soprannumero in qualita' di fuori corso.  
-Gli esami di profitto consistono in prove teoriche e pratiche.  
-Art. 705. - Alla fine del corso gli allievi debbono sostenere un esame di diploma che consiste nella discussione di una tesi scritta su un argomento riguardante le materie di insegnamento, assegnata dal direttore della scuola ed in una prova pratica stabilita da una commissione esaminatrice. I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di iscrizione alla scuola, ma se alla seconda prova non sia loro riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove.  
-Gli esami di profitto e di diploma si danno in due sessioni, la prima estiva che ha inizio subito dopo la chiusura annuale dei corsi e la seconda autunnale, nel mese che precede l'inizio del nuovo anno accademico.  
-Per quanto concerne le tasse, soprattasse e contributi, vige quanto disposto dall'art. 193 dello statuto dell'Universita' di Bologna.  
-Al funzionamento della suddetta scuola si provvedera' con il provento delle tasse, soprattasse e contributi dovuti dagli iscritti e con eventuali elargizioni di enti pubblici e privati.  
-Sono ammesse al 3° anno della scuola, con l'obbligo di tutti gli esami del terzo anno e della tesi, le diplomate delle scuole speciali per ortottiste ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20), purche' abbiano esercitato con continuita' una attivita' professionale adeguata e documentata.  
+Scuola di specializzazione in medicina del lavoro   
+  
+Art. 462. - La scuola di specializzazione in medicina del lavoro conferisce il diploma di specialista in medicina del lavoro.   
+Art. 463. - Gli anni di studio occorrenti al conseguimento del titolo sono tre.   
+Sono impartiti i seguenti insegnamenti, cosi' distribuiti per ciascun anno di corso.   
+1° Anno:   
+Fisiologia del lavoro ed ergonomia;   
+Tecnologia ed igiene del lavoro;   
+Patologia e clinica del lavoro;   
+Psicologia del lavoro.   
+2° Anno:   
+Fisiologia del lavoro ed ergonomia;   
+Tecnologia ed igiene del lavoro;   
+Patologia e clinica del lavoro;   
+Psicologia del lavoro;   
+Tossicologia industriale e diagnostica di laboratorio;   
+Infortunistica e pronto soccorso;   
+Biometria e statistica sanitaria;   
+Medicina preventiva dei lavoratori.   
+3° Anno:   
+Patologia e clinica del lavoro;   
+Tecnologia ed igiene del lavoro;   
+Infortunistica e pronto soccorso;   
+Medicina legale delle assicurazioni;   
+Medicina preventiva dei lavoratori;   
+Radiologia e medicina nucleare;   
+Tossicologia industriale e diagnostica di laboratorio;   
+Dermatologia professionale.   
+Art. 464. - L'iscrizione alla scuola avviene per titoli.   
+Nel caso che le domande di iscrizione superino il numero dei posti, l'ammissione avverra' per titoli e per esami.   
+Art. 465. - Sono disponibili otto posti per ciascun anno di corso.  
+Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni e i laboratori, nonche' di svolgere turni di internato e prendere parte a visite ad istituti, opifici, fabbriche, miniere, ecc. che i vari insegnanti riterranno necessario far eseguire agli allievi.   
+Art. 466. - Alla fine di ogni anno, gli iscritti, che abbiano conseguito le attestazioni di frequenza sul relativo libretto, sono tenuti a superare tutti gli esami relativi ai singoli insegnamenti di ciascun anno di corso per il passaggio all'anno di corso successivo.  
+L'esame di diploma consiste in una dissertazione scritta su un argomento di medicina del lavoro.   
+  
+Scuola di specializzazione in chirurgia vascolare   
+  
+Art. 512. - Presso la facolta' di medicina e chirurgia della Universita' di Bologna e' istituita la scuola di specializzazione in chirurgia vascolare, che ha indirizzo teorico-pratico con lo scopo di conferire il diploma di specialista in chirurgia vascolare.   
+Art. 513. - Alla scuola sono ammessi i laureati in medicina e chirurgia previo concorso interno per titoli.   
+La durata del corso e' di tre anni.   
+Il numero massimo complessivo degli iscritti e' fissato in dodici.   
+Art. 514. - La direzione della scuola e' affidata ad un professore di ruolo di materia chirurgica della facolta' di medicina e chirurgia.   
+I docenti dei corsi saranno scelti fra quelli della facolta' di medicina e chirurgia, su designazione della facolta' stessa.   
+Art. 515. - Le materie d'insegnamento sono:   
+1° Anno:   
+1) Embriologia, anatomia macro e microscopica dell'apparato vascolare;   
+2) Fisiopatologia dell'apparato vascolare e della coagulazione sanguigna;   
+3) Anatomia patologica dell'apparato vascolare;   
+4) Semeiologia fisica e strumentale delle malattie vascolari;   
+5) Semeiologia radiologica delle malattie vascolari;   
+6) Vasculopatie di interesse medico e specialistico;   
+2° Anno:   
+7) Patologia e clinica delle malattie del sistema arterioso;   
+8) Patologia e clinica delle malattie del sistema venoso;   
+9) Patologia e clinica delle malattie del sistema linfatico;   
+10) Patologia e clinica delle malattie dei piccoli vasi;   
+3° Anno:   
+11) Nozioni di terapia medica delle malattie vascolari;   
+12) Terapia chirurgica delle malattie vascolari;   
+13) Chirurgia vascolare applicata a malattie dei vari organi.   
+Art. 516. - L'insegnamento sara' dottrinario e pratico.   
+Gli iscritti hanno l'obbligo di frequenza sia alle lezioni che al tirocinio pratico.   
+Art. 517. - Alla fine di ciascun anno di corso, e per essere ammessi al corso successivo od all'esame del diploma, gli allievi dovranno superare un esame di profitto nel gruppo di materie di ciascun anno.   
+L'esame di diploma consiste in una prova teorico-pratica e nella discussione di una tesi scritta, su argomenti di chirurgia vascolare.   
+Agli allievi che avranno ottenuto l'approvazione nello esame finale verra' rilasciato il diploma di specializzazione in chirurgia vascolare, valido a tutti gli effetti di legge.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 febbraio 1981
+### Dato a Roma, addi' 3 luglio 1970
 
-PERTINI BODRATO
+SARAGAT MISASI
 
-Visto, il Guardasigilli: SARTI
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 25 maggio 1981
+Registrato alla Corte dei conti, addi' 11 agosto 1970
 
-Registro n. 48 Istruzione, foglio n. 298
+Atti del Governo, registro n. 237, foglio n. 31. - CARUSO

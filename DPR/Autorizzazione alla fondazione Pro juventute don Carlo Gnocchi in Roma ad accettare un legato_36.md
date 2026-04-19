@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 164
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1982 n. 415
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 164
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1982 n. 415
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -10,10 +10,10 @@ Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad ac
 Art. 1
 ------
 
-n.
+N.
 
-164. Decreto del Presidente della Repubblica 10 febbraio 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 20.000.000, disposto dalla sig.ra Carugati Margherita con testamento olografo 6 luglio 1971, pubblicato in data 13 gennaio 1984, n. 8303/700 di repertorio, a rogito dott. Antonio Tremolada, notaio in Milano, registrato a Milano in data 19 gennaio 1984 al n. 00808.  
+415. Decreto del Presidente della Repubblica 5 giugno 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 500.000, disposto dalla sig.ra Baroni Regina Mercede, a favore dei mutilatini di don Gnocchi che si identificano con la fondazione predetta come si rileva dal verbale del consiglio di amministrazione nella riunione del 28 novembre 1980, con testamento olografo 1 marzo 1980, pubblicato in data 20 giugno 1980, n. 153 di repertorio e n. 63 di raccolta, a rogito dottore Giro De Vincenzo, notaio in Milano, registrato a Milano il 10 luglio 1980 al n. 16505.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 22 aprile 1986  
-Registro n. 4 Presidenza, foglio n. 49
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 30 giugno 1982  
+Registro n. 6 Presidenza, foglio n. 71

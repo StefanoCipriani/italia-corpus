@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1975 n. 329
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1977 n. 415
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1975 n. 329
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1977 n. 415
 =============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un'eredita'.
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-329. Decreto del Presidente della Repubblica 20 giugno 1975, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla sig.ra Ida Di Gennaro ved. Tarantini con testamento pubblico del 27 dicembre 1967, reso nota a rogito del notaio dott.  
-Alessandro Chieffi in data 16 marzo 1971, n. 76449 di repertorio, registrato a Napoli il 23 marzo 1971 con il n. 7102, mod. 71/4, consistente nella quota parte dell'asse ereditario del valore presunto di L. 19.000.000, dedotte le passivita'.  
+415. Decreto del Presidente della Repubblica 2 maggio 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dal sig. Cesare Bellini, con testamento pubblico 5 dicembre 1969, reso noto a rogito notaio dott. Rodolfo Parigi in data 29 ottobre 1973, n. 159960 di repertorio e n. 15066 di raccolta, registrato a Milano il 9 novembre 1973, con il n. 1384/71 M, serie E, consistente in beni mobili e titoli azionari per un valore di L. 67.961.364.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 30 luglio 1975  
-Atti di Governo, registro n. 11, foglio n. 42
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 15 luglio 1977  
+Registro n. 6 Presidenza, foglio n. 249

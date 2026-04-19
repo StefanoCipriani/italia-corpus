@@ -1,160 +1,76 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1972 n. 1173
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 luglio 1985 n. 691
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1972 n. 1173
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 luglio 1985 n. 691
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 14 ottobre 1926, n. 2133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2133), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Nell'art. 167, relativo alle discipline obbligatorie sul piano della facolta' del corso di laurea in ingegneria elettronica, sono inseriti i seguenti insegnamenti:  
+teoria dei segnali;  
+teoria dei sistemi,  
+in sostituzione degli insegnamenti di:  
+metodi matematici per l'ingegneria;  
+statistica e calcolo delle probabilita'.  
   
-Decreta:  
+Per il corso di laurea in ingegneria chimica fra gli insegnamenti obbligatori sul piano della facolta' vengono inseriti gli insegnamenti di:  
+scienza dei materiali;  
+sistemi organizzativi aziendali,  
+in sostituzione dell'insegnamento di:  
+economia ed organizzazione aziendale.  
   
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-L'art. 380 relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che il n. 17 e' abrogato e sostituito dal seguente:  
-n. 17) Scuola di odontoiatria e protesi dentaria che conferisce il diploma di specialista in odontoiatria e protesi dentaria.  
-Nello stesso elenco il n. 24 relativo alla scuola in puericultura e' soppresso, ed e' aggiunto il n. 29 relativo all'istituzione della scuola in "Malattie dell'apparato digerente";  
-n. 29) Scuola di specializzazione in malattie dello apparato digerente che conferisce il diploma di specialista in malattie dell'apparato digerente.  
-Art. 381. - L'ordinamento della scuola di specializzazione in "Chirurgia dell'infanzia" e' abrogato e sostituito dal seguente:  
-  
-Scuola di specializzazione in chirurgia dell'infanzia  
-(durata del corso: anni 2)  
-  
-La scuola di specializzazione in chirurgia dell'infanzia conferisce il diploma di specialista in "Chirurgia della infanzia".  
-La durata del corso degli studi per il conseguimento della specialita' in chirurgia dell'infanzia e' fissata in due anni.  
-Possono ottenere l'iscrizione alla scuola i laureati in medicina e chirurgia che siano in possesso del diploma di specialista in chirurgia generale o abbiano conseguito la libera docenza in clinica chirurgica, o patologia chirurgica, o semeiotica chirurgica, o anatomia chirurgica, o in chirurgia pediatrica.  
-Non e' ammessa abbreviazione di corso.  
-Il numero degli iscritti alla scuola per anno di corso e' di dieci.  
-Qualora il numero degli aspiranti superi quello stabilito l'ammissione sara' subordinata ad una prova di esame.  
-La direzione della scuola e' affidata al titolare dell'insegnamento della clinica chirurgica generale o della chirurgia pediatrica.  
-Il corso si compone di insegnamenti fondamentali e di conferenze su argomenti speciali, oltre ad un periodo di internato obbligatorio di almeno sei mesi per ogni anno di corso.  
-Il periodo di internato potra' essere abbreviato per coloro che documentino di svolgere effettivo servizio presso reparti di chirurgia pediatrica.  
-Il corso si compone di insegnamenti fondamentali e di conferenze su argomenti speciali, oltre ad un periodo di internato obbligatorio di almeno sei mesi per ogni anno di corso.  
-Il periodo di internato potra' essere abbreviato per coloro che documentino di svolgere effettivo servizio presso reparti di chirurgia pediatrica universitari od ospedalieri.  
-Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-a) Anatomia patologica e teratologia (lezioni);  
-b) Endocrinologia infantile (conferenze);  
-c) Clinica pediatrica (lezioni);  
-d) Clinica chirurgica pediatrica (lezioni);  
-e) Patologia chirurgica e semeiotica chirurgica (lezioni);  
-f) Diagnostica radiologica e nucleare delle malattie chirurgiche dell'infanzia (lezioni);  
-g) Anestesiologia e rianimazione (conferenze).  
-2° Anno:  
-a) Clinica pediatrica (lezioni);  
-b) Clinica chirurgica pediatrica (lezioni);  
-c) Chirurgia d'urgenza nell'infanzia (lezioni);  
-d) Otorinolaringoiatria nell'infanzia (conferenze);  
-e) Ortopedia nell'infanzia (conferenze);  
-f) Urologia nell'infanzia (conferenze);  
-g) Neurochirurgia infantile (conferenze);  
-h) Chirurgia del cuore e dei grossi vasi (conferenze).  
-La frequenza alle lezioni e alle conferenze e' obbligatoria.  
-Al termine di ciascun anno accademico gli specializzandi, che abbiano ottenuto le firme di frequenza, dovranno sostenere gli esami di profitto nelle materie oggetto di insegnamento.  
-Al termine del corso di specializzazione gli specializzandi dovranno presentare una dissertazione scritta su argomento di chirurgia infantile e sostenere l'esame di diploma.  
-L'ammissione alla scuola avviene per titoli ed esami.  
-Le tasse che gli iscritti devono versare per il conseguimento del diploma di specialista, sono fissate come segue:  
-  
-tassa di immatricolazione. . . . . . . . . . . . . . . . L. 5.000 tassa di iscrizione. . . . . . . . . . . . . . . . . . L. 100.000 soprattassa esami. . . . . . . . . . . . . . . . . . . . L. 7.000 tassa quali fuori corso. . . . . . . . . . . . . . . . . L. 5.000   
-I contributi sono determinati di anno in anno dal consiglio di amministrazione, su proposta del senato accademico, sentito il consiglio della facolta' di medicina e chirurgia.  
-Nello stesso articolo l'ordinamento della "Scuola di specializzazione in neurochirurgia" e' modificato nel senso che tra le materie di insegnamento del IV anno della scuola stessa, sono inserite le seguenti:  
-Neurotraumatologia;  
-Neurochirurgia stereotassica;  
-Neurochirurgia infantile;  
-Neurochirurgia spinale.  
-Nello stesso articolo l'ordinamento della "Scuola di specializzazione in odontoiatria e protesi dentaria" e' abrogato e sostituito dal seguente:  
-  
-Scuola di specializzazione in odontoiatria e protesi dentaria  
-(durata del corso: anni 3)  
-  
-1° Anno:  
-Embriologia e anatomia dentaria e maxillo facciale;  
-Microbiologia e igiene orale;  
-Farmacologia;  
-Patologia odontostomatologica;  
-Odontotecnica;  
-Anestesia e chirurgia stomatologica;  
-Odontoiatria e conservatica - 1° anno;  
-Esercitazioni pratiche.  
-2° Anno:  
-Odontoiatria e conservatica - 2° anno;  
-Clinica protesica dentaria e maxillo-facciale - 1° anno;  
-Paradontologia - 1° anno;  
-Anatomia e istopatologia odontostomatologica;  
-Odontoiatria infantile;  
-Radiologia odontostomatologica;  
-Ortopedia dento-maxillo-facciale - 1° anno;  
-Chirurgia maxillo-facciale - 1° anno;  
-Esercitazioni pratiche.  
-3° Anno:  
-Clinica odontostomatologica;  
-Chirurgia maxillo-facciale - 2° anno;  
-Medicina legale odontostomatologica e delle assicurazioni;  
-Ortopedia dento-maxillo-facciale - 2° anno;  
-Clinica protesica dentaria e maxillo-facciale - 2° anno;  
-Paradontologia - 2° anno;  
-Esercitazioni pratiche.  
-Internato obbligatorio nell'istituto di clinica odontoiatrica per tutta la durata degli studi.  
-Il numero complessivo degli iscritti ai tre anni di corso e' di settantacinque.  
-L'ammissione alla scuola avviene per titoli ed esami.  
-Le tasse che gli iscritti devono versare per il conseguimento del diploma di specialista, sono fissate come segue:  
-  
-tassa di immatricolazione. . . . . . . . . . . . . . . . L. 5.000 tassa di iscrizione. . . . . . . . . . . . . . . . . . L. 100.000 soprattassa esami. . . . . . . . . . . . . . . . . . . . L. 7.000 tassa quali fuori corso. . . . . . . . . . . . . . . . . L. 5.000   
-I contributi sono determinati di anno in anno dal consiglio di amministrazione, su proposta del senato accademico, sentito il consiglio della facolta' di medicina e chirurgia.  
-Nello stesso articolo l'ordinamento della "Scuola di specializzazione in puericultura" e' soppresso. Nello stesso articolo e' aggiunto il seguente comma relativo alla scuola di specializzazione in malattie dell'apparato digerente:  
-  
-Scuola di specializzazione in malattie dell'apparato digerente  
-(durata del corso: anni 4)  
-  
-1° Anno:  
-Anatomia patologica;  
-Fisiopatologia;  
-Chimica clinica;  
-Semeiotica fisica e strumentale (biennale);  
-Clinica medica (triennio).  
-2° Anno:  
-Semeiotica fisica e strumentale (biennale);  
-Semeiotica radiologica;  
-Malattie del tubo digerente;  
-Clinica medica (triennale).  
-3° Anno:  
-Malattie del fegato e del pancreas;  
-Clinica medica (triennale).  
-4° Anno:  
-Tirocinio pratico da svolgersi in una clinica o patologia medica o in reparti ospedalieri.  
-Per le materie biennali e triennali sara' sostenuto un esame alla fine del biennio o triennio.  
-Alle materie fondamentali potranno essere aggiunte, a richiesta della direzione della scuola, materie complementari in numero non superiore a sei per la totalita' del corso.  
-Il numero massimo complessivo degli iscritti e' quaranta, distribuiti nei quattro anni di corso.  
-L'ammissione alla scuola avviene per titoli ed esami.  
-Le tasse che gli iscritti devono versare per il conseguimento del diploma di specialista, sono fissate come segue:  
-  
-tassa di immatricolazione. . . . . . . . . . . . . . . . L. 5.000 tassa di iscrizione. . . . . . . . . . . . . . . . . . L. 100.000 soprattassa esami. . . . . . . . . . . . . . . . . . . . L. 7.000 tassa quali fuori corso. . . . . . . . . . . . . . . . . L. 5.000   
-I contributi sono determinati di anno in anno dal consiglio di amministrazione, su proposta del senato accademico, sentito il consiglio della facolta' di medicina e chirurgia.  
+Per il corso di laurea in ingegneria meccanica, fra gli insegnamenti obbligatori sul piano della facolta' e' inserito l'insegnamento:  
+sistemi organizzativi aziendali,  
+in sostituzione dell'insegnamento di:  
+economia ed organizzazione aziendale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 ottobre 1972
+### Dato a Roma, addi' 24 settembre 1985
 
-LEONE SCALFARO
+COSSIGA
 
-Visto, il Guardasigilli: GONELLA
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 25 giugno 1973
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Atti di Governo, registro n. 258, foglio n. 130 - VALENTINI
+Registrato alla Corte dei conti, addi' 16 novembre 1985
+
+Registro n. 77 Istruzione, foglio n. 389

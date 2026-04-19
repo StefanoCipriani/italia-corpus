@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 488
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1982 n. 1007
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 488
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1982 n. 1007
+===============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Firenze.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Firenze, approvato con [regio decreto del 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -39,26 +39,21 @@ Articolo unico
 --------------
 
   
-Nell'art. 50, relativo al corso di laurea in filosofia della facolta' di lettere e filosofia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-storia della logica;  
-storia della filosofia italiana;  
-storia della biologia;  
-storia della psicologia;  
-storia della matematica;  
-storia delle dottrine morali;  
-storia della filosofia medioevale araba;  
-storia della filosofia medioevale ebraica storia del pensiero sociologico.  
+Dopo l'art. 413, e' inserito un nuovo articolo concernente l'istituzione del centro di calcolo elettronico presso l'Universita' di Firenze.  
+Il predetto articolo assume la sottoindicata dizione e numerazione:  
+Art. 414. - Presso l'Universita' degli studi di Firenze e' istituito il centro di calcolo elettronico avente per scopo l'elaborazione elettronica dei dati per le esigenze dei servizi amministrativi e della ricerca scientifica.  
+Il centro viene gestito nel rispetto delle norme di contabilita' e secondo un regolamento approvato dal consiglio di amministrazione e dal senato accademico.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 aprile 1984
+### Dato a Roma, addi' 11 ottobre 1982
 
-PERTINI FALCUCCI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 4 agosto 1984
+Registrato alla Corte dei conti, addi' 10 gennaio 1983
 
-Registro n. 48 Istruzione, foglio n. 231
+Registro n. 1 Istruzione, foglio n. 10

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 gennaio 1986 n. 159
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1984 n. 1045
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 gennaio 1986 n. 159
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1984 n. 1045
+===============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Padova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Padova approvato con [regio decreto 14 ottobre 1926, n. 2133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2133), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 14 ottobre 1926, n. 2133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2133), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -39,21 +39,21 @@ Articolo unico
 --------------
 
   
-Nell'art. 86, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
-medicina preventiva dei lavoratori e psicotecnica.  
+Nell'art. 60, relativo al corso di laurea in lingue e letterature straniere moderne della facolta' di lettere e filosofia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+lingua neo-greca.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 gennaio 1986
+### Dato a Roma, addi' 30 ottobre 1984
 
-COSSIGA
+PERTINI
 
 FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 16 aprile 1986
+Registrato alla Corte dei conti, addi' 31 gennaio 1985
 
-Registro n. 28 Istruzione, foglio n. 239
+Registro n. 7 Istruzione, foglio n. 32

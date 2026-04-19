@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1973 n. 102
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 dicembre 1970 n. 1322
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1973 n. 102
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 dicembre 1970 n. 1322
+================================================================
 
 Autorizzazione all'Unione italiana dei ciechi, con sede in Roma, ad acquistare un immobile.
 -------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-102. Decreto del Presidente della Repubblica 5 febbraio 1973, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, con sede in Roma, viene autorizzata ad acquistare, al complessivo convenuto prezzo di L. 11.500.000, dai signori Pennavaria Maria Concetta e Roniolo Giovanni, un appartamento sito in Ragusa, via Felicia Schinina' n. 168, al piano terra rialzato di vani cinque piu' accessori, della superficie di mq. 159 circa prospiciente ad est verso via Enna e a sud verso via Giuseppe Verdi, da destinare a sede della locale sezione provinciale dell'U.I.C.   
+1322. Decreto del Presidente della Repubblica 28 dicembre 1970, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, con sede centrale in Roma, viene autorizzata ad acquistare dal sig. Adelmo Ciatti per il complessivo convenuto prezzo di L. 7.500.000, l'immobile urbano posto in Prato in via Garibaldi, 47, composto di quartiere per civile abitazione al primo piano condominiale, di vani cinque, servizi compresi, da destinare a sede della locale rappresentanza Unione italiana dei ciechi.  
   
-Visto, il Guardasigilli: GONELLA   
-Registrato alla Corte dei conti, addi' 4 aprile 1973   
-Atti di Governo, registro n. 257, foglio n. 42, - VALENTINI
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 15 febbraio 1971  
+Atti del Governo, registro n. 240, foglio n. 178. - CARUSO

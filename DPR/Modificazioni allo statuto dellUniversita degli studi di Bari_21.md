@@ -1,91 +1,521 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1094
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 779
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1094
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 779
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 174. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono aggiunte le scuole in "Ematologia clinica e di laboratorio" e in "Malattie infettive".
+
+L'art. 198 relativo alla "Scuola di specializzazione in urologia" e' abrogato e sostituito dal seguente:
+
+Scuola di specializzazione in urologia
+
+Art. 198. - La scuola di specializzazione in urologia conferisce il diploma di specialista in urologia.
+
+Gli anni necessari per il conseguimento del diploma sono tre.
+
+Le materie del corso sono le seguenti:
+
+1° Anno:
+
+1) Anatomia descrittiva e topografica dell'apparato urogenitale;
+
+2) Fisiologia dell'apparato urogenitale;
+
+3) Patologia dell'apparato urinario e genitale maschile;
+
+4) Le nefropatie mediche;
+
+5) Semeiotica dell'apparato urogenitale (funzionale e di laboratorio);
+
+6) Tecniche strumentali e semeiologia endoscopica;
+
+7) Batteriologia in urologia;
+
+8) Farmacoterapia delle affezioni urogenitali.
+
+2° Anno:
+
+1) Patologia dell'apparato urinario e genitale maschile;
+
+2) Clinica urologica;
+
+3) Patologia genitale femminile di interesse urologico;
+
+4) Nefrologia chirurgica;
+
+5) Anatomia ed istologia patologica dell'apparato urogenitale;
+
+6) Semeiotica dell'apparato urogenitale (funzionale e di laboratorio);
+
+7) Tecniche strumentali e semeiologia endoscopica;
+
+8) Anatomia chirurgica dell'apparato urogenitale;
+
+9) Radiologia dell'apparato urinario e genitale;
+
+10) Le affezioni cutanee e veneree nei riguardi dell'urologia;
+
+11) L'anestesia ed il trattamento pre e post-operatorio del malato urologico.
+
+3° Anno:
+
+1) Clinica urologica;
+
+2) Patologia e clinica urologica infantile;
+
+3) Radiologia dell'apparato urinario e genitale;
+
+4) Tecniche operatorie sull'apparato urinario e genitale;
+
+5) Urologia ginecologica.
+
+ESAMI:
+
+1° Anno:
+
+1) Anatomia e fisiologia dell'apparato urogenitale;
+
+2) Le nefropatie mediche;
+
+3) Batteriologia in urologia e farmacoterapia delle affezioni urogenitali.
+
+2° Anno:
+
+1) Patologia dell'apparato urinario e genitale maschile (anatomia ed istologia patologica);
+
+2) Semeiotica urologica (funzionale e di laboratorio) e tecnica strumentale e semeiologia endoscopica;
+
+3) Patologia genitale femminile di interesse urologico;
+
+le affezioni cutanee e veneree nei riguardi dell'urologia;
+
+4) Anatomia chirurgica dell'apparato urogenitale; anestesia e trattamento pre e post-operatorio del malato urologico;
+
+5) Nefrologia chirurgica.
+
+3° Anno:
+
+1) Clinica urologica;
+
+2) Radiologia dell'apparato urinario e genitale;
+
+3) Interventi e procedimenti operatori sull'apparato urogenitale;
+
+4) Patologia e clinica urologica infantile;
+
+5) Urologia ginecologica.
+
+La scuola puo' accogliere complessivamente dieci allievi.
+
+La selezione dei candidati aspiranti all'ammissione alla scuola avverra' sulla base di titoli ed esami.
+
+Non sono consentite iscrizioni con abbreviazioni di corso.
+
+La frequenza alle lezioni ed alle esercitazioni e' obbligatoria per tutti gli iscritti.
+
+L'internato e' obbligatorio durante tutti i tre anni del corso e si svolgera' presso la clinica chirurgica generale sotto forma di permanenza costante nella detta clinica durante le ore della sua attivita', con presenza giornaliera agli ambulatori ed ai reparti di degenza.
+
+Dall'obbligo di tale internato saranno esentati quegli allievi che, in qualita' di assistenti e di aiuti prestino effettivamente servizio presso reparti di chirurgia generale delle universita' e di ospedali di prima e di seconda categoria.
+
+Gli allievi hanno doveri ed attribuzioni analoghi a quelli degli assistenti.
+
+La frequenza nelle sale operatorie iniziera' fin dal primo anno di corso e dopo un periodo di tirocinio, dovra' trasformarsi in compartecipazione attiva agli interventi operatori.
+
+Per i corsi che non siano della clinica chirurgica generale possono essere stabiliti, su parere del direttore della scuola, periodi di continuativa frequenza presso i relativi reparti specialistici, qualora esistano quali reparti indipendenti.
+
+Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico della operosita' scolastica degli allievi con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno.
+
+L'allievo che non abbia ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali.
+
+Alla fine del corso l'allievo, inoltre, dovra' sostenere un esame generale di profitto, che consistera' nella discussione di una dissertazione scritta su un tema assegnato dal direttore della scuola.
+
+Il sesto comma dell'art. 224 relativo alla "Scuola di specializzazione in malattie dell'apparato digerente" e' abrogato e sostituito dal seguente:
+
+"La scuola ha sede presso l'istituto di clinica medica I".
+
+Dopo l'art. 233 sono inseriti i seguenti nuovi articoli relativi alla istituzione delle "Scuole di specializzazione in ematologia clinica e di laboratorio" e in "Malattie infettive".
+
+Scuola di specializzazione in ematologia clinica e di laboratorio
+
+Art. 224. - La scuola ha sede presso l'istituto di clinica medica II.
+
+La durata del corso di specializzazione e' di tre anni.
+
+La frequenza e' obbligatoria.
+
+Il numero degli iscritti resta fissato in venticinque posti in totale per tutti i tre anni.
+
+Art. 225. - Il piano di studio della scuola di specializzazione in ematologia comprende i seguenti insegnamenti:
+
+Morfologia e morfogenesi normale e patologica del sangue (biennale);
+
+Genetica ematologica (annuale);
+
+Fisiopatologia ematologica (biennale);
+
+Fisiopatologia della coagulazione e dell'emostasi (annuale);
+
+Biochimica ematologica (annuale);
+
+Fisiopatologia del plasma (annuale);
+
+Immunoematologia (annuale);
+
+Tecniche di laboratorio inerenti all'ematologia (triennale);
+
+Nozioni di radiobiologia e di medicina nucleare applicata alla ematologia (annuale);
+
+Radiodiagnostica e' radioterapia ematologica (annuale);
+
+Patologia speciale ematologica (biennale);
+
+Clinica delle emopatie (biennale);
+
+Anatomia ed istologia patologica delle emopatie e fondamenti di oncologia (annuale);
+
+Terapia sistematica ematologica (annuale);
+
+Terapia trasfusionale (annuale).
+
+Art. 226. - La ripartizione degli insegnamenti nei tre anni di corso e' la seguente:
+
+1° Anno:
+
+Morfologia e morfogenesi normale e patologica del sangue (1° corso);
+
+Genetica ematologica;
+
+Fisiopatologia della coagulazione e dell'emostasi;
+
+Fisiopatologia ematologica (1° corso);
+
+Biochimica ematologica;
+
+Fisiopatologia del plasma;
+
+Tecniche di laboratorio inerenti all'ematologia (1° corso).
+
+2° Anno:
+
+Morfologia e morfogenesi normale e patologica del sangue (2° corso);
+
+Fisiopatologia ematologica (2° corso);
+
+Immunoematologia;
+
+Tecniche di laboratorio inerenti all'ematologia (2° corso);
+
+Patologia speciale ematologica (1° corso);
+
+Clinica delle emopatie (1° corso);
+
+Anatomia ed istologia patologica delle emopatie e fondamenti di oncologia.
+
+3° Anno:
+
+Tecniche di laboratorio inerenti all'ematologia (3° corso);
+
+Nozioni di radiobiologia e di medicina nucleare applicate alla ematologia;
+
+Radiodiagnostica e radioterapia ematologica;
+
+Patologia speciale ematologica (2° corso);
+
+Clinica delle emopatie (2° corso);
+
+Terapia sistematica ematologica;
+
+Terapia trasfusionale.
+
+Art. 227. - L'ammissione alla scuola avverra' per titoli ed esami.
+
+Il direttore della scuola, al di fuori dei docenti incaricati ufficialmente, puo' invitare studiosi competenti ad impartire lezioni o conferenze su argomenti di speciale interesse ematologico.
+
+Per ottenere l'iscrizione alla scuola di specializzazione occorre presentare all'ufficio di segreteria della scuola entro il 30 novembre:
+
+a) domanda in carta legale indirizzata al rettore;
+
+b) certificato di laurea riportante i voti conseguiti in ogni singolo esame.
+
+Gli iscritti alla scuola di specializzazione dovranno pagare le tasse, soprattasse e contributi nella misura stabilita per gli studenti della facolta' di medicina e chirurgia.
+
+Scuola di specializzazione in malattie infettive
+
+Art. 228. - La scuola ha sede presso l'istituto di malattie infettive.
+
+La durata del corso e' di tre anni.
+
+Il numero complessivo degli iscritti alla scuola non puo' essere superiore a quindici, per i tre anni di corso.
+
+Nei casi in cui i candidati siano in numero maggiore, essi dovranno sostenere un concorso costituito da una prova scritta e l'ammissione sara' determinata in base alla graduatoria.
+
+Art. 229. - Gli aspiranti che per titoli gia' acquisiti ritengano di poter ottenere un'abbreviazione di corso, dovranno presentare documentata richiesta.
+
+Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni, le esercitazioni pratiche ed i vari reparti dell'istituto.
+
+Alla fine del corso gli iscritti dovranno presentare e discutere una dissertazione scritta, elaborata nell'istituto su di un argomento in malattie infettive approvato dal direttore.
+
+Art. 230. - Gli insegnamenti impartiti nella scuola sono i seguenti:
+
+1° Anno:
+
+1) Epidemiologia generale delle malattie infettive;
+
+2) Nozioni generali di batteriologia, di virologia, di parassitologia, di immunologia;
+
+3) Tecnica batteriologica, virologica, parassitologica, immunologica applicata alle malattie infettive (1° anno).
+
+2° Anno:
+
+1) Patologia e clinica delle malattie infettive (1° anno);
+
+2) Semeiotica e diagnostica delle malattie infettive;
+
+3) Anatomia patologica delle malattie infettive;
+
+4) Tecnica batteriologica, virologica, parassitologica, immunologica applicata alle malattie infettive (2° anno).
+
+3° Anno:
+
+1) Patologia e clinica delle malattie infettive (2° anno);
+
+2) Malattie infettive dei paesi caldi;
+
+3) Farmacologia e terapia generale delle malattie infettive;
+
+4) Legislazione sanitaria e malattie infettive.
+
+Gli esami verranno sostenuti con il seguente criterio:
+
+1° Anno: un esame unico sulle discipline 1) e 2);
+
+2° Anno: un esame unico sulle discipline 2), 3) e 4);
+
+3° Anno: un esame unico relativo alle discipline 1) e 2); un esame unico relativo alle discipline 3) e 4).
+
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 22 settembre 1972
+
+LEONE
+
+SCALFARO
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 5 dicembre 1972 Atti del Governo, registro n. 253, foglio n. 109. - CARUSO
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Dopo l'art. 267 sono istituiti i seguenti nuovi articoli relativi all'istituzione della scuola diretta a fini speciali per tecnici di audiometria.   
+Art. 174. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono aggiunte le scuole in "Ematologia clinica e di laboratorio" e in "Malattie infettive".  
+L'art. 198 relativo alla "Scuola di specializzazione in urologia" e' abrogato e sostituito dal seguente:  
   
-Scuola di preparazione per tecnici di audiometria (Scuola diretta a fini speciali)   
-Art. 268. - E' istituita ai sensi dell'art. 20 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), una scuola speciale di preparazione per tecnici di audiometria che ha sede presso la cattedra di bioacustica dell'Universita'.   
-Art. 269. - La durata del corso degli studi della scuola di preparazione per tecnici di audiometria e' di tre anni.   
-L'indirizzo e' teorico-pratico.   
-Il numero massimo complessivo degli iscritti alla scuola e' di quindici (cinque per anno di corso).   
-Art. 270. - Possono essere ammessi alla scuola coloro che siano in possesso del titolo di studio prescritto per l'ammissione all'Universita' o ad istituto di istruzione universitaria.   
-Gli aspiranti debbono nei termini regolamentari, presentare apposita domanda diretta al rettore e corredata dai prescritti documenti e sostenere un esame di ammissione che avra' luogo nei giorni stabiliti dal rettore con apposito manifesto.   
-Le domande di iscrizione ad anni successivi al primo vanno presentate nei termini regolamentari.   
-Art. 271. - Alla scuola si accede previo esame di cultura generale su argomenti facenti parte dei normali programmi dei licei e degli istituti di istruzione secondaria, con particolare riguardo alla parte dell'insegnamento di fisica acustica.   
-La commissione giudicatrice viene nominata dalla facolta' di medicina e chirurgia ed e' composta dal direttore della scuola, presidente, e da due membri scelti fra i professori di ruolo, incaricati, liberi docenti e cultori della materia.   
-Art. 272. - Il direttore della scuola e' un professore di bioacustica dell'Universita' di Bari.   
-Gli incarichi di insegnamento sono conferiti dal rettore su proposta del consiglio di facolta' di medicina e chirurgia, udito il direttore della scuola.   
-Art. 273. - L'anno accademico ha inizio e termine nelle date stabilite dalle leggi in vigore per l'istruzione universitaria. La data di inizio e termine delle lezioni sono di regola eguali a quelle fissate per l'anno accademico. Tali date, tuttavia, possono essere spostate per ragioni speciali, inerenti la natura dei corsi.   
-Art. 274. - Le materie d'insegnamento sono:   
-1° Anno:   
-anatomia degli organi e dei sistemi audio-fono-articolatori;   
-fisiologia degli organi e dei sistemi audio-fono-articolatori; elementi di fisica acustica e tecnica di fonometria;   
-psicologia generale;   
-elementi di audiologia;   
-elementi di fonetica e di linguistica.   
-2° Anno:   
-tecniche audiometriche I;   
-audiometria infantile;   
-neuropsichiatria infantile;   
-tecniche di esplorazione vestibolare;   
-audiometria di massa e prevenzione delle sordita'.   
-3° Anno:   
-tecniche audiometriche II;   
-patologia dell'udito, del linguaggio e dell'organo dell'equilibrio;   
-tecniche di protesizzazione acustica;   
-tecniche di audiometria obbiettiva;   
-elementi di logopedia.   
-L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni, e dall'obbligo per gli allievi dell'internato per un periodo di due anni nel reparto di bioacustica.   
-La frequenza viene comprovata dall'attestazione rilasciata dagli insegnanti sul libretto di iscrizione. L'attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.   
-Art. 275. - Le commissioni per gli esami di profitto e di diploma sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola.   
-Le commissioni per gli esami di profitto sono composte di tre membri: il direttore della scuola, presidente, e da due insegnanti della scuola stessa. La commissione per gli esami di diploma e' costituita dal direttore della scuola stessa, e da altri docenti.  
-Ogni commissario ha a sua disposizione 10 punti. L'esame di diploma consiste, a scelta del candidato, o nella discussione di una tesi scritta su argomento riguardante le materie di insegnamento, eventualmente integrata da una prova pratica stabilita dalla commissione esaminatrice, o in un esame generale teorico-pratico.   
-I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola ma, se al secondo anno non sia loro riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove. Agli allievi che avranno superato l'esame finale, verra' rilasciato il diploma di tecnico di audiometria.   
-Art. 276. - Per essere ammessi a frequentare gli anni di corso successivi al primo, gli iscritti debbono aver superato gli esami dell'anno precedente.   
-Alla fine del terzo anno di corso, per essere ammessi all'esame di diploma, gli iscritti debbono aver superato tutti gli esami prescritti.   
-Art. 277. - Gli esami di profitto e di diploma si danno in due sessioni; la prima, estiva, ha inizio subito dopo la chiusura annuale dei corsi e la seconda, autunnale, un mese innanzi il principio del nuovo anno accademico.   
-Art. 278. - Il consiglio di amministrazione dell'Universita', su proposta della direzione della scuola, approvata dal consiglio di facolta', stabilira' di anno in anno l'ammontare dei contributi.   
-Le tasse e soprattasse annuali a carico degli iscritti restano cosi' destinate:   
+Scuola di specializzazione in urologia  
   
-tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 15.000 soprattassa annuale di esami . . . . . . . . . . . . . . . . L. 7.000 tassa erariale di diploma. . . . . . . . . . . . . . . . . . L. 6.000 tassa annuale di iscrizione per studenti fuori corso . . . . L. 8.000   
+Art. 198. - La scuola di specializzazione in urologia conferisce il diploma di specialista in urologia.  
+Gli anni necessari per il conseguimento del diploma sono tre.  
+Le materie del corso sono le seguenti:  
+1° Anno:  
+1) Anatomia descrittiva e topografica dell'apparato urogenitale;  
+2) Fisiologia dell'apparato urogenitale;  
+3) Patologia dell'apparato urinario e genitale maschile;  
+4) Le nefropatie mediche;  
+5) Semeiotica dell'apparato urogenitale (funzionale e di laboratorio);  
+6) Tecniche strumentali e semeiologia endoscopica;  
+7) Batteriologia in urologia;  
+8) Farmacoterapia delle affezioni urogenitali.  
+2° Anno:  
+1) Patologia dell'apparato urinario e genitale maschile;  
+2) Clinica urologica;  
+3) Patologia genitale femminile di interesse urologico;  
+4) Nefrologia chirurgica;  
+5) Anatomia ed istologia patologica dell'apparato urogenitale;  
+6) Semeiotica dell'apparato urogenitale (funzionale e di laboratorio);  
+7) Tecniche strumentali e semeiologia endoscopica;  
+8) Anatomia chirurgica dell'apparato urogenitale;  
+9) Radiologia dell'apparato urinario e genitale;  
+10) Le affezioni cutanee e veneree nei riguardi dell'urologia;  
+11) L'anestesia ed il trattamento pre e post-operatorio del malato urologico.  
+3° Anno:  
+1) Clinica urologica;  
+2) Patologia e clinica urologica infantile;  
+3) Radiologia dell'apparato urinario e genitale;  
+4) Tecniche operatorie sull'apparato urinario e genitale;  
+5) Urologia ginecologica.  
   
-Al funzionamento della suddetta scuola si provvedera' con il provento delle tasse, soprattasse e contributi dovuti dagli iscritti e con eventuali elargizioni o contributi di enti pubblici o privati.   
+ESAMI:  
+1° Anno:  
+1) Anatomia e fisiologia dell'apparato urogenitale;  
+2) Le nefropatie mediche;  
+3) Batteriologia in urologia e farmacoterapia delle affezioni urogenitali.  
+2° Anno:  
+1) Patologia dell'apparato urinario e genitale maschile (anatomia ed istologia patologica);  
+2) Semeiotica urologica (funzionale e di laboratorio) e tecnica strumentale e semeiologia endoscopica;  
+3) Patologia genitale femminile di interesse urologico;  
+le affezioni cutanee e veneree nei riguardi dell'urologia;  
+4) Anatomia chirurgica dell'apparato urogenitale; anestesia e trattamento pre e post-operatorio del malato urologico;  
+5) Nefrologia chirurgica.  
+3° Anno:  
+1) Clinica urologica;  
+2) Radiologia dell'apparato urinario e genitale;  
+3) Interventi e procedimenti operatori sull'apparato urogenitale;  
+4) Patologia e clinica urologica infantile;  
+5) Urologia ginecologica.  
+La scuola puo' accogliere complessivamente dieci allievi.  
+La selezione dei candidati aspiranti all'ammissione alla scuola avverra' sulla base di titoli ed esami.  
+Non sono consentite iscrizioni con abbreviazioni di corso.  
+La frequenza alle lezioni ed alle esercitazioni e' obbligatoria per tutti gli iscritti.  
+L'internato e' obbligatorio durante tutti i tre anni del corso e si svolgera' presso la clinica chirurgica generale sotto forma di permanenza costante nella detta clinica durante le ore della sua attivita', con presenza giornaliera agli ambulatori ed ai reparti di degenza.  
+Dall'obbligo di tale internato saranno esentati quegli allievi che, in qualita' di assistenti e di aiuti prestino effettivamente servizio presso reparti di chirurgia generale delle universita' e di ospedali di prima e di seconda categoria.  
+Gli allievi hanno doveri ed attribuzioni analoghi a quelli degli assistenti.  
+La frequenza nelle sale operatorie iniziera' fin dal primo anno di corso e dopo un periodo di tirocinio, dovra' trasformarsi in compartecipazione attiva agli interventi operatori.  
+Per i corsi che non siano della clinica chirurgica generale possono essere stabiliti, su parere del direttore della scuola, periodi di continuativa frequenza presso i relativi reparti specialistici, qualora esistano quali reparti indipendenti.  
+Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico della operosita' scolastica degli allievi con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno.  
+L'allievo che non abbia ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali.  
+Alla fine del corso l'allievo, inoltre, dovra' sostenere un esame generale di profitto, che consistera' nella discussione di una dissertazione scritta su un tema assegnato dal direttore della scuola.  
+Il sesto comma dell'art. 224 relativo alla "Scuola di specializzazione in malattie dell'apparato digerente" e' abrogato e sostituito dal seguente:  
+"La scuola ha sede presso l'istituto di clinica medica I".  
+Dopo l'art. 233 sono inseriti i seguenti nuovi articoli relativi alla istituzione delle "Scuole di specializzazione in ematologia clinica e di laboratorio" e in "Malattie infettive".  
+  
+Scuola di specializzazione in ematologia clinica e di laboratorio  
+  
+Art. 224. - La scuola ha sede presso l'istituto di clinica medica II.  
+La durata del corso di specializzazione e' di tre anni.  
+La frequenza e' obbligatoria.  
+Il numero degli iscritti resta fissato in venticinque posti in totale per tutti i tre anni.  
+Art. 225. - Il piano di studio della scuola di specializzazione in ematologia comprende i seguenti insegnamenti:  
+Morfologia e morfogenesi normale e patologica del sangue (biennale);  
+Genetica ematologica (annuale);  
+Fisiopatologia ematologica (biennale);  
+Fisiopatologia della coagulazione e dell'emostasi (annuale);  
+Biochimica ematologica (annuale);  
+Fisiopatologia del plasma (annuale);  
+Immunoematologia (annuale);  
+Tecniche di laboratorio inerenti all'ematologia (triennale);  
+Nozioni di radiobiologia e di medicina nucleare applicata alla ematologia (annuale);  
+Radiodiagnostica e' radioterapia ematologica (annuale);  
+Patologia speciale ematologica (biennale);  
+Clinica delle emopatie (biennale);  
+Anatomia ed istologia patologica delle emopatie e fondamenti di oncologia (annuale);  
+Terapia sistematica ematologica (annuale);  
+Terapia trasfusionale (annuale).  
+Art. 226. - La ripartizione degli insegnamenti nei tre anni di corso e' la seguente:  
+1° Anno:  
+Morfologia e morfogenesi normale e patologica del sangue (1° corso);  
+Genetica ematologica;  
+Fisiopatologia della coagulazione e dell'emostasi;  
+Fisiopatologia ematologica (1° corso);  
+Biochimica ematologica;  
+Fisiopatologia del plasma;  
+Tecniche di laboratorio inerenti all'ematologia (1° corso).  
+2° Anno:  
+Morfologia e morfogenesi normale e patologica del sangue (2° corso);  
+Fisiopatologia ematologica (2° corso);  
+Immunoematologia;  
+Tecniche di laboratorio inerenti all'ematologia (2° corso);  
+Patologia speciale ematologica (1° corso);  
+Clinica delle emopatie (1° corso);  
+Anatomia ed istologia patologica delle emopatie e fondamenti di oncologia.  
+3° Anno:  
+Tecniche di laboratorio inerenti all'ematologia (3° corso);  
+Nozioni di radiobiologia e di medicina nucleare applicate alla ematologia;  
+Radiodiagnostica e radioterapia ematologica;  
+Patologia speciale ematologica (2° corso);  
+Clinica delle emopatie (2° corso);  
+Terapia sistematica ematologica;  
+Terapia trasfusionale.  
+Art. 227. - L'ammissione alla scuola avverra' per titoli ed esami.  
+Il direttore della scuola, al di fuori dei docenti incaricati ufficialmente, puo' invitare studiosi competenti ad impartire lezioni o conferenze su argomenti di speciale interesse ematologico.  
+Per ottenere l'iscrizione alla scuola di specializzazione occorre presentare all'ufficio di segreteria della scuola entro il 30 novembre:  
+a) domanda in carta legale indirizzata al rettore;  
+b) certificato di laurea riportante i voti conseguiti in ogni singolo esame.  
+Gli iscritti alla scuola di specializzazione dovranno pagare le tasse, soprattasse e contributi nella misura stabilita per gli studenti della facolta' di medicina e chirurgia.  
+  
+Scuola di specializzazione in malattie infettive  
+  
+Art. 228. - La scuola ha sede presso l'istituto di malattie infettive.  
+La durata del corso e' di tre anni.  
+Il numero complessivo degli iscritti alla scuola non puo' essere superiore a quindici, per i tre anni di corso.  
+Nei casi in cui i candidati siano in numero maggiore, essi dovranno sostenere un concorso costituito da una prova scritta e l'ammissione sara' determinata in base alla graduatoria.  
+Art. 229. - Gli aspiranti che per titoli gia' acquisiti ritengano di poter ottenere un'abbreviazione di corso, dovranno presentare documentata richiesta.  
+Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni, le esercitazioni pratiche ed i vari reparti dell'istituto.  
+Alla fine del corso gli iscritti dovranno presentare e discutere una dissertazione scritta, elaborata nell'istituto su di un argomento in malattie infettive approvato dal direttore.  
+Art. 230. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
+1° Anno:  
+1) Epidemiologia generale delle malattie infettive;  
+2) Nozioni generali di batteriologia, di virologia, di parassitologia, di immunologia;  
+3) Tecnica batteriologica, virologica, parassitologica, immunologica applicata alle malattie infettive (1° anno).  
+2° Anno:  
+1) Patologia e clinica delle malattie infettive (1° anno);  
+2) Semeiotica e diagnostica delle malattie infettive;  
+3) Anatomia patologica delle malattie infettive;  
+4) Tecnica batteriologica, virologica, parassitologica, immunologica applicata alle malattie infettive (2° anno).  
+3° Anno:  
+1) Patologia e clinica delle malattie infettive (2° anno);  
+2) Malattie infettive dei paesi caldi;  
+3) Farmacologia e terapia generale delle malattie infettive;  
+4) Legislazione sanitaria e malattie infettive.  
+Gli esami verranno sostenuti con il seguente criterio:  
+1° Anno: un esame unico sulle discipline 1) e 2);  
+2° Anno: un esame unico sulle discipline 2), 3) e 4);  
+3° Anno: un esame unico relativo alle discipline 1) e 2); un esame unico relativo alle discipline 3) e 4).  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1978
+### Dato a Roma, addi' 22 settembre 1972
 
-PERTINI PEDINI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 28 agosto 1979
+Registrato alla Corte dei conti, addi' 5 dicembre 1972
 
-Registro n. 66 Istruzione, foglio n. 90
+Atti del Governo, registro n. 253, foglio n. 109. - CARUSO

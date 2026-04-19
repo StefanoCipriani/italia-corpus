@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 850
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 966
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 850
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 966
 ==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Pavia.
@@ -20,42 +20,61 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sulla
------
+Sentito il parere del Consiglio universitario nazionale;
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-All'art. 59 dello statuto dell'Universita' di Pavia, relativo all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia, sono aggiunti i seguenti:  
-otorinolaringoiatria pediatrica;  
-oftalmologia pediatrica;  
-immunologia clinica;  
-neurochirurgia funzionale;  
-biochimica sistematica umana;  
-lesioni traumatiche nell'attivita' sportiva;  
-otoneurologia;  
-virologia clinica.  
-Lo stesso elenco e' modificato nel senso che l'insegnamento di "chirurgia del cuore e dei grossi vasi" muta la denominazione in quella di "cardiochirurgia".  
+  
+Nell'art. 58, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:   
+applicazioni tecnologiche in chirurgia;   
+chirurgia dei grossi vasi e del cuore;   
+igiene applicata;   
+biologia cellulare;   
+farmacologia cellulare;   
+farmacologia molecolare   
+citologia normale ed ultrastrutturale;   
+auxologia normale e patologica;   
+ematologia pediatrica;   
+semeiotica cardiovascolare;   
+endocrinologia ginecologica ed ostetrica;   
+neurofisiopatologia;   
+patologia ultrastrutturale;   
+genetica umana;   
+psicopatologia forense;   
+tecniche fisiologiche;   
+fisiopatologia dell'emostasi;   
+criminologia;   
+criminologia minorile;   
+igiene scolastica;   
+istochimica normale e patologica;   
+semeiotica ostetrica;   
+neuroftalmologia.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1979
+### Dato a Roma, addi' 31 ottobre 1981
 
-PERTINI VALITUTTI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 20 marzo 1980
+Registrato alla Corte dei conti, addi' 9 febbraio 1982
 
-Registro n. 24 Istruzione, foglio n. 152
+Registro n. 20 Istruzione, foglio n. 190

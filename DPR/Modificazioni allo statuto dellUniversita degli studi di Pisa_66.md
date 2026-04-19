@@ -1,45 +1,149 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1953 n. 756
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 967
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1953 n. 756
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 967
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pisa e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali, a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e modificato con i [regi decreti 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-13;2225); [20 settembre 1928, n. 2251](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1928-09-20;2251); [31 ottobre 1929, n. 2473](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1929-10-31;2473); [30 ottobre 1930, n. 1916](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1916); [22 ottobre 1931, n. 1339](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-22;1339); [27 ottobre 1932, n. 2098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2098); [13 dicembre 1934, n. 2408](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-13;2408); [1 ottobre 1936, n. 2462](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2462); [27 ottobre 1937, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1937-10-27;2170); [5 ottobre 1939, n. 1744](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1744); [26 ottobre 1940, n. 2071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2071); [27 aprile 1942, n. 469](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;469) e [24 ottobre 1942, n. 1652, con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1652) [30 dicembre 1947, n. 1689 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-30;1689) [17 febbraio 1949, n. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-17;97); [30 ottobre 1949, n. 1169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1169); [31 ottobre 1950, n. 1309](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1309); [11 aprile 1951, n. 566](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;566); [27 ottobre 1951, n. 1801](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1801); [25 marzo 1952, n. 872](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-03-25;872); [25 luglio 1952, n. 1351](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1351) e [12 settembre 1952, n. 3861](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-09-12;3861);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare Le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:  
+Gli articoli 302, 303 e 304, relativi alla scuola di specializzazione in ematologia, che muta la denominazione in quella di "ematologia generale" (clinica e laboratorio), sono sostituiti dai seguenti con lo spostamento della numerazione degli articoli successivi.   
   
-Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati e' cosi' ulteriormente modificato:  
-All'art. 46. - Il terzo comma e' sostituito dal seguente:  
-"I laureati in filosofia che aspirino alla laurea in lettere vengono ammessi al quarto anno; essi dovranno sostenere la prova scritta di latino (prescritta per gli studenti di lettere) che sara' classificata con apposito voto. Devono inoltre frequentare i corsi e superare gli esami delle seguenti discipline:  
-a) per l'indirizzo classico: letteratura latina, letteratura greca, archeologia, glottologia, geografia, storia greca (o, se tace in quell'anno il corso, altra disciplina classica indicata dal Consiglio della Facolta). Un insegnamento complementare;  
-b) per l'indirizzo moderno: filologia romanza, storia dell'arte mediovale e moderna, geografia, quattro insegnamenti, che non siano stati seguiti per la laurea in filosofia (si consigliano tra questi due lingue e letterature straniere)".  
-All'art. 53 relativo al corso di laurea in medicina e chirurgia, la denominazione dell'Istituto di "educazione fisica" e' sostituita con quella di "Istituto di fisiologia del lavoro e dello sport".  
+Scuola di specializzazione in ematologia generale (Clinica e laboratorio)   
+  
+Art. 302. - La scuola di specializzazione in ematologia generale (clinica e laboratorio) conferisce il diploma di specialista in ematologia generale (clinica e laboratorio).   
+Art. 303. - La scuola ha sede presso l'istituto designato dal consiglio di facolta' di medicina e chirurgia.   
+Art. 304. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.   
+Art. 305. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalle autorita' competenti.   
+Art. 306. - La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazioni.   
+Art. 307. - Il numero massimo degli allievi e' di cinque per anno di corso e complessivamente di quindici iscritti per l'intero corso di studi.   
+Art. 308. - L'ammissione al corso avviene per titoli ed esami.   
+Art. 309. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+morfologia e morfogenesi normale e patologica del sangue (1° anno);   
+genetica ematologica;   
+fisiopatologia ematologica (1° anno);   
+biochimica ematologica;   
+fisiopatologia del plasma;   
+tecniche di laboratorio inerenti all'ematologia (1° anno);   
+fisiopatologia della coagulazione e dell'emostasi.   
+2° Anno:   
+morfologia e morfogenesi normale e patologica del sangue (2° anno);   
+fisiopatologia ematologica (2° anno);   
+immunoematologia;   
+tecniche di laboratorio inerenti all'ematologia (2° anno);   
+patologia speciale ematologica (1° anno);   
+clinica delle emopatie (1° anno);   
+anatomia e istologia patologica delle emopatie e fondamenti di oncologia.   
+3° Anno:   
+tecniche di laboratorio inerenti all'ematologia (3° anno);   
+nozioni di radiobiologia e di medicina nucleare applicata all'ematologia;   
+radiodiagnostica e radioterapia ematologica;   
+patologia speciale ematologica (2° anno);   
+clinica delle emopatie (2° anno);   
+terapia sistematica ematologica;   
+terapia trasfusionale.   
+Art. 310. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esami.   
+Art. 311. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.   
+Al termine del corso di studi per il conseguimento del diploma di specialista in ematologia generale (clinica e laboratorio) gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta su un argomento attinente alla specializzazione.   
+Art. 312. - Le tasse e soprattasse sono le seguenti:   
+tassa di immatricolazione. . . . . . . . . . . . . . . . . . L. 5.000 tassa di iscrizione . . . . . . . . . . . . . . . . . . . . L. 18.000 soprattassa esami profitto . . . . . . . . . . . . . . . . . L. 7.000 soprattassa esame di diploma . . . . . . . . . . . . . . . . L. 6.000   
+
+Art. 2
+------
+
+  
+  
+Dopo l'art. 411, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi alla istituzione della scuola di specializzazione in medicina dello sport.   
+  
+Scuola di specializzazione in medicina dello sport   
+  
+Art. 412. - La scuola di specializzazione in medicina dello sport dell'Universita' degli studi di Pisa si propone di:   
+a) valorizzare e approfondire gli studi biologici e di medicina applicata nel campo delle attivita' sportive, formative e di competizione, e della educazione fisica;   
+b) preparare adeguatamente sotto l'aspetto teorico e della applicazione pratica, i medici che intendono dedicarsi alle attivita' attinenti a questa particolare branca della medicina applicata, conferendo ad essi il diploma di "specialista in medicina dello sport".   
+Art. 413. - Il titolo richiesto per l'ammissione alla scuola e' la laurea in medicina e chirurgia. E' richiesto almeno all'inizio del corso il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+Il corso di studi ha la durata di 3 anni, con frequenza obbligatoria; esso ha la sua sede presso l'istituto di fisiologia del lavoro e dello sport. Gli insegnamenti clinici e specialistici si svolgeranno presso i rispettivi istituti clinici e specialistici.   
+Il numero massimo degli allievi sara' di quindici per anno e complessivamente di quarantacinque per l'intero corso.   
+L'ammissione ai corsi avviene per titoli. Nel caso di domande eccedenti il numero di posti disponibili la selezione dei candidati avverra' in base ai risultati di un esame di ammissione.   
+Non sono previste abbreviazioni di corso.   
+La scuola e' retta da un consiglio direttivo composto dal direttore dell'istituto di fisiologia del lavoro e dello sport, da un professore di ruolo di clinica ortopedica e da un professore di ruolo di medicina interna.   
+La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.   
+Art. 414. - L'ordine degli studi e' il seguente:   
+1° Anno:   
+anatomia dell'apparato locomotore;   
+fisiologia dell'apparato locomotore;   
+biochimica ed energetica muscolare;   
+antropometria e auxologia;   
+psicologia applicata allo sport;   
+storia dell'educazione fisica e dello sport;   
+sistematica delle attivita' sportivo-agonistiche e regolamenti sportivi.   
+2° Anno:   
+fisiologia dell'esercizio fisico;   
+biomeccanica dell'esercizio fisico;   
+metodologia dell'allenamento sportivo;   
+scienza della nutrizione applicata alla attivita' sportiva;   
+fisiopatologia degli sports e semeiotica medico-sportiva I;   
+farmacologia e tossicologia del doping;   
+igiene e medicina preventiva applicata all'attivita' sportiva; traumatologia degli sports.   
+3° Anno:   
+fisiologia applicata agli sports;   
+valutazione funzionale dello sportivo;   
+fisiopatologia degli sports e semeiotica medico-sportiva II;   
+fisioterapia e rieducazione funzionale;   
+rianimazione e pronto soccorso;   
+medicina legale ed infortunistica legata agli sports;   
+fisiologia dell'adattamento agli ambienti straordinari.   
+La scuola svolgera' brevi corsi integrativi di conferenze e seminari sopra argomenti e discipline che saranno stabiliti secondo le possibilita' contingenti, dal consiglio dei docenti della scuola.  
+Saranno inoltre svolte esercitazioni pratiche in sede e sul campo.   
+Art. 415. - Alla fine di ogni anno di corso gli allievi dovranno sostenere l'esame di profitto nelle materie di insegnamento previste per ogni anno di corso e articolate in un unico gruppo.   
+L'iscrizione agli anni successivi e' subordinata al superamento di tutti gli esami annuali.   
+Art. 416. - Il diploma si consegue dopo aver superato tutte le prove di esame del triennio; la prova di diploma si svolge con la discussione su una dissertazione scritta concernente un tema assegnato o in ogni altro caso approvato dal direttore della scuola.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 marzo 1953
+### Dato a Roma, addi' 31 ottobre 1981
 
-EINAUDI SEGNI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 12 ottobre 1953
+Registrato alla Corte dei conti, addi' 9 febbraio 1982
 
-Atti del Governo, registro n. 79, foglio n. 110. - PALLA
+Registro n. 20 Istruzione, foglio n. 200

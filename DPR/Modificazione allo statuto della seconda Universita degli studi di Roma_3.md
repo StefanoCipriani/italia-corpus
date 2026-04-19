@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1986 n. 803
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1986 n. 988
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1986 n. 803
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1986 n. 988
+==============================================================
 
 Modificazione allo statuto della seconda Universita' degli studi di Roma.
 -------------------------------------------------------------------------
@@ -31,6 +31,7 @@ Veduto il parere del Consiglio universitario nazionale;
 Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
 Lo statuto della seconda Universita' di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
@@ -38,13 +39,13 @@ Articolo unico
 --------------
 
   
-Nell'art. 51, all'elenco degli insegnamenti del corso di laurea in medicina e chirurgia e' aggiunto l'insegnamento complementare di "fisiopatologia della riproduzione umana".  
+Nell'art. 51, all'elenco degli insegnamenti del corso di laurea in medicina e chirurgia e' aggiunto l'insegnamento complementare di "dietoterapia".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 luglio 1986
+### Dato a Roma, addi' 4 ottobre 1986
 
 COSSIGA
 
@@ -52,6 +53,6 @@ FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: ROGNONI
 
-Registrato alla Corte dei conti, addi' 17 novembre 1986
+Registrato alla Corte dei conti, addi' 20 gennaio 1987
 
-Registro n. 84 Istruzione, foglio n. 101
+Registro n. 2 Istruzione, foglio n. 68

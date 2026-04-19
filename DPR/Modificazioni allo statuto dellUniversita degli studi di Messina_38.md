@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 marzo 1978 n. 637
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1084
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 marzo 1978 n. 637
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1084
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
@@ -16,7 +16,6 @@ Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 1 ot
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -25,88 +24,53 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 76 - nel comma A, relativo al seminario chimico della facolta' di scienze matematiche, fisiche e naturali, il quarto comma e' abrogato e sostituito dal seguente:  
-"L'iscrizione al seminario e' consigliata per gli studenti del triennio di applicazione dei corsi di laurea in chimica (possono iscriversi anche gli studenti di altre facolta) nonche' i laureati e diplomati ed i laureandi fuori corso".  
-Nello stesso articolo relativo al seminario fisico il comma B e' abrogato e sostituito dal seguente:  
-"Il seminario fisico della facolta' di scienze ha lo scopo di diffondere la conoscenza della fisica pura ed applicata e di impartire ad allievi particolarmente distintisi nello studio e nella ricerca una preparazione supplementare atta alla completa valorizzazione delle loro capacita'. L'attivita' del seminario consiste in corsi di perfezionamento e di aggiornamento, esercitazioni, conferenze, discussioni, viaggi di istruzione e in quanto altro possa servire allo scopo indicato. Il seminario si avvale delle attrezzature didattiche e della biblioteca dell'istituto di fisica. Al seminario fisico appartengono i professori ufficiali di fisica della facolta' di scienze, i quali annualmente propongono al rettore la nomina di un consiglio di quattro membri e un direttore.  
-Il consiglio cura la pubblicazione dei testi di corsi di lezioni e di conferenze di particolare interesse, e presenta al rettore una relazione annua sull'attivita' svolta. L'iscrizione al seminario e' consigliata per gli studenti laureandi, in corso e fuori corso, e per i laureati. Agli iscritti al seminario viene rilasciato un attestato degli studi compiuti e del profitto dimostrato".  
-Dopo il seminario fisico e' istituito il seminario matematico:  
   
-Comma C  
-"Il seminario matematico della facolta' di scienze ha lo scopo di diffondere la cultura matematica, di promuovere studi e ricerche nel campo della matematica pura ed applicata e di impartire ad allievi particolarmente distintisi nello studio e nella ricerca una preparazione supplementare atta alla completa valorizzazione delle loro capacita'.  
-L'attivita' del seminario consiste in esercitazioni, ricerche, conferenze, discussioni, comunicazioni scientifiche, viaggi di istruzione, corsi di preparazione e di aggiornamento e di quanto altro possa servire allo scopo indicato.  
-Al seminario matematico appartengono i professori ufficiali del corso di laurea in matematica della facolta' di scienze ed i professori di discipline matematiche degli altri corsi di laurea, i quali annualmente propongono al rettore la nomina di un consiglio di quattro membri e di un direttore, scelto fra i professori appartenenti al seminario.  
-L'iscrizione al seminario e' consigliata per gli studenti del secondo biennio dei corsi di laurea in matematica; possono altresi' iscriversi studenti di altri corsi di laurea o facolta' nonche' gia' laureati.  
-Il seminario matematico ha una propria raccolta di materiale didattico e scientifico affidata ad un responsabile nominato dal consiglio. Tale responsabile rimane in carica un anno.  
-Il seminario matematico pubblica, quando i fondi lo consentono, i corsi in esso tenuti, sotto la direzione di un comitato di redazione.  
-Agli iscritti al seminario puo' venire rilasciato un attestato degli studi compiuti e del profitto dimostrato.  
-Ai docenti che tengono i corsi puo' essere attribuito, sui fondi del seminario, un compenso forfettario.  
-La tassa di iscrizione e' fissata, per ciascun seminario, in L. 5.000 annue".  
-Art. 77 - all'elenco degli insegnamenti complementari del corso di laurea in matematica - ad indirizzo fisico - comune ai tre indirizzi sono aggiunti i seguenti:  
-elettrodinamica cosmica;  
-magnetofluidodinamica;  
-meccanica non lineare;  
-meccanica analitica;  
-teoria delle onde;  
-calcolo sensoriale ed applicazioni;  
-cosmologia.  
-Nello stesso articolo all'elenco degli insegnamenti complementari del corso di laurea in matematica - ad indirizzo matematico - sono aggiunti i seguenti:  
-teoria ed applicazioni delle macchine calcolatrici;  
-linguaggi formali e compilatori;  
-programmazione matematica;  
-metodi per il trattamento dell'informazione;  
-calcolo automatico e programmazione con applicazioni;  
-calcolatori elettronici e programmazione;  
-teoria dei gruppi.  
-Art. 78 - all'elenco degli insegnamenti complementari del corso di laurea in fisica sono aggiunti i seguenti:  
-Indirizzo generale:  
-biofisica, cibernetica e teoria delle informazioni;  
-fisica delle basse temperature;  
-fisica molecolare;  
-meccanica quantistica;  
-spettroscopia;  
-storia della fisica;  
-cristallografia.  
-Indirizzo didattico:  
-biofisica;  
-fisica delle basse temperature;  
-fisica molecolare;  
-meccanica quantistica;  
-spettroscopia;  
-storia della fisica;  
-cristallografia.  
-Indirizzo applicativo:  
-biofisica;  
-cibernetica e teoria delle informazioni;  
-fisica delle basse temperature;  
-fisica molecolare;  
-meccanica quantistica;  
-spettroscopia;  
-storia della fisica;  
-cristallografia;  
-geofisica applicata.  
-Art. 79 - all'elenco degli insegnamenti complementari del corso di laurea in chimica sono aggiunti i seguenti:  
-Indirizzo organico-biologico:  
-chimica degli eterociclici;  
-metodi fisici in chimica organica;  
-sperimentazione di didattica chimica.  
-Indirizzo inorganico-chimico fisico:  
-sperimentazione di didattica chimica;  
-stereochimica inorganica;  
-chimica nucleare;  
-termodinamica chimica;  
-chimica quantistica.  
+Dopo l'art. 88, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chimica e tecnologia della catalisi, presso la facolta' di scienze matematiche, fisiche e naturali.  
+  
+Scuola di specializzazione in chimica e tecnologia della catalisi  
+Art. 89. - Presso la facolta' di scienze matematiche, fisiche e naturali, e' istituita una scuola biennale di specializzazione in chimica e tecnologia della catalisi.  
+La scuola ha sede presso l'istituto di chimica industriale ed e' retta secondo le norme generali dello statuto relative alle scuole di specializzazione dell'Universita' di Messina e secondo le norme del seguente ordinamento.  
+Art. 90. - Scopo della scuola e' quello di fornire agli iscritti le cognizioni scientifiche e tecniche necessarie per svolgere l'attivita' di chimico nel campo della catalisi, delle sue applicazioni industriali e di una razionale utilizzazione delle risorse.  
+Art. 91. - Alla scuola possono iscriversi laureati in chimica, in chimica industriale, in ingegneria chimica e in fisica.  
+Il numero massimo degli iscritti alla scuola viene stabilito di anno in anno dal consiglio della stessa ed approvato dal consiglio di facolta'.  
+Art. 92. - Il direttore della scuola e' nominato dal consiglio della facolta' di scienze per un anno ed e' riconfermabile. Egli presiede il consiglio della scuola, costituito da tutti i docenti, vigila sul buon funzionamento di essa ed e' tenuto a dare comunicazione al preside della facolta' di scienze di tutti gli atti e le deliberazioni del consiglio da lui presieduto.  
+Art. 93. - Gli insegnamenti impartiti nella scuola ed integrati da esercitazioni pratiche sono i seguenti:  
+1° Anno:  
+1) principi di catalisi eterogenea I (teoria generale);  
+2) principi di catalisi omogenea;  
+3) cinetica chimica applicata;  
+4) processi catalitici industriali I;  
+5) chimica e chimica fisica dello stato solido;  
+6) metodi sperimentali in catalisi.  
+2° Anno:  
+1) principi di catalisi eterogenea II (meccanismi di reazione);  
+2) teoria e tecnica del reattore catalitico;  
+3) processi catalitici industriali II;  
+4) catalisi enzimatica;  
+5) elettrocatalisi;  
+6) catalisi e chimica dell'ambiente;  
+7) catalisi applicata ai problemi energetici.  
+Art. 94. - I docenti dei singoli insegnamenti sono proposti, anno per anno, dal consiglio di facolta' su proposta del consiglio della scuola.  
+Art. 95. - Per il conseguimento del titolo di specialista e' obbligatoria la frequenza alle lezioni, esercitazioni, conferenze e colloqui tenuti espressamente per il corso in oggetto. E' altresi' obbligatorio un periodo di internato, della durata di otto mesi, che potra' essere svolto presso gli istituti nei quali si tengono gli insegnamenti di cui all'art. 93 o, previa approvazione del consiglio della scuola, presso altri istituti o laboratori o centri di ricerca.  
+Art. 96. - Gli esami di profitto sul programma di ciascun insegnamento vengono sostenuti al termine dell'anno di frequenza. Al termine del secondo anno viene sostenuto l'esame di diploma, che consiste nella discussione di una dissertazione scritta, svolta dal candidato su un argomento da lui scelto ed approvato dal direttore della scuola, di fronte alla commissione di diploma costituita a norma dello statuto dell'Universita'.  
+Art. 97. - Le tasse e soprattasse da pagarsi da parte degli iscritti alla scuola sono le seguenti:  
+  
+tassa di ammissione (all'atto della domanda). . . . . . . . L. 10.000 tassa di immatricolazione . . . . . . . . . . . . . . . . . L. 10.000 tassa di iscrizione (in 4 rate) . . . . . . . . . . . . . . L. 45.000 soprattassa di esame (in 2 rate) . . . . . . . . . . . . . . L. 5.000 contributo di laboratorio (in 3 rate) . . . . . . . . . . . L. 90.000 libretto . . . . . . . . . . . . . . . . . . . . . . . . . . L. 1.000 soprattassa esame di diploma . . . . . . . . . . . . . . . . L. 5.000 tassa di ripetizione esami . . . . . . . . . . . . . . . . . L. 2.000 tassa ripetizione esami diploma. . . . . . . . . . . . . . . L. 1.000 tassa fuori corso . . . . . . . . . . . . . . . . . . . . . L. 20.000 contributo pergamena . . . . . . . . . . . . . . . . . . . . L. 2.000 tassa diploma (all'erario) . . . . . . . . . . . . . . . . . L. 6.000   
+Il consiglio di amministrazione, uditi il consiglio della facolta' di scienze ed il senato accademico, fissera' d'anno in anno:  
+a) quale quota delle tasse, sopratasse e dei contributi deve essere versata alla scuola per il suo funzionamento;  
+b) quali emolumenti debbono essere corrisposti ai singoli insegnanti per i corsi di lezione, per le esercitazioni e per gli esami.  
+Art. 98. - Al finanziamento della scuola viene provveduto oltre che con gli introiti di cui all'articolo precedente, con eventuali contributi dei Ministeri ed assessorati regionali interessati o di altri enti o istituzioni, pubblici o privati, che intendano cooperare al raggiungimento dei fini che la scuola si propone.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 15 marzo 1978
+### Dato a Roma, addi' 31 ottobre 1978
 
-LEONE PEDINI
+PERTINI PEDINI
 
 Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 13 ottobre 1978
+Registrato alla Corte dei conti, addi' 15 giugno 1979
 
-Registro n. 109 Istruzione, foglio n. 221
+Registro n. 48 Istruzione, foglio n. 328

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 275
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1978 n. 653
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 275
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1978 n. 653
+================================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -10,10 +10,10 @@ Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad ac
 Art. 1
 ------
 
-n.
+N.
 
-275. Decreto del Presidente della Repubblica 10 marzo 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 75.000.000, disposto dal sig. Tumminello Biagio a favore della fondazione "Pro juventute istituto don Gnocchi", che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale 16 gennaio 1984 del consiglio di amministrazione della fondazione stessa, con testamento olografo 18 maggio 1982, pubblicato in data 30 settembre 1983, n. 214859 di repertorio, a rogito dott. Olivares Giovanni, notaio in Milano, registrato a Milano in data 7 ottobre 1983 al n. 15784.  
+653. Decreto del Presidente della Repubblica 12 settembre 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Sforza Teresa ved. Bellingeri con testamento olografo del 1 luglio 1966, pubblicato a rogito notaio dott. Rinaldo Chiaffredo di Torino in data 18 dicembre 1975, n. 27397-13889 di repertorio, registrato a Torino il 19 dicembre 1975 al n. 35299 vol. 1309 a.p. a favore dei minorati dell'istituto don Gnocchi S. Vito, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come ha fatto presente la fondazione medesima, consistente nella somma di L. 3.000.000.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 6 giugno 1986  
-Registro n. 5 Presidenza, foglio n. 87
+Visto, 17 Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 19 ottobre 1978  
+Registro n. 7 Presidenza, foglio n. 66

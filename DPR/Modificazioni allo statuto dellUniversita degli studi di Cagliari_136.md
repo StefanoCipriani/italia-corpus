@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1970 n. 449
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1954 n. 752
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1970 n. 449
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1954 n. 752
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificati con regio decreto 56 ottobre 1939 n. 1743, e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regi decreti 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1743); [26 marzo 1942, n. 328, con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-03-26;328) [22 ottobre 1946, n. 398: e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1946-10-22;398) [30 ottobre 1949, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1027); [11 aprile 1951, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;565); [23 gennaio 1952, n. 365](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-01-23;365); [26 ottobre 1952, n. 4542](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4542); [10 febbraio 1953, n. 550](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;550) e [30 luglio 1953, n. 716](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-07-30;716);
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,13 +18,13 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
+Veduta la [legge 2 gennaio 1952, n. 22](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-01-02;22);
+
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare lo nuove modifiche proposte, Sentito il parere del Consiglio superiore della pubblica istruzione;
 
 Sulla proposta del Ministro per la pubblica istruzione;
 
@@ -32,358 +32,343 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 13. - Nell'elenco degli insegnamenti complementari del corso di laurea in scienze politiche l'insegnamento complementare di "lingua araba" e' soppresso.
+Art. 12. - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti i seguenti:
 
-Nello stesso articolo dopo il sesto comma e' inserito il seguente nuovo comma:
+12) "Storia dei trattati e politica internazionale;
 
-"I corsi di lingua sono triennali. Al termine di ciascun anno lo studente dovra' sostenere un esame scritto ed orale".
+13) Esegesi delle fonti del diritto romano;
 
-Gli articoli 14, 15, 16, 17, 19 e 20 relativi ai corsi di laurea in giurisprudenza ed in scienze politiche sono abrogati e sostituiti dai seguenti:
+14) Diritto comune;
 
-Art. 14. - I laureati in giurisprudenza che intendono conseguire la laurea in scienze politiche sono iscritti al terzo anno di corso previo esame dal quale risulti una elementare conoscenza delle due lingue moderne straniere da essi prescelte. Essi dovranno sostenere gli esami dei seguenti insegnamenti fondamentali:
+15) Storia delle dottrine politiche".
 
-1) Storia moderna (biennale);
+L'art. 19 relativo al corso di laurea in scienze politiche e' sostituito dal seguente:
 
-2) Storia delle dottrine politiche;
+"Lo studente non e' ammesso a sostenere:
 
-3) Geografia politica ed economica;
-
-4) Statistica;
-
-5) Politica economica e finanziaria;
-
-6) Storia ed istituzione dei paesi afro-asiatici;
-
-7) Storia dei trattati e politica internazionale;
-
-8) Diritto costituzionale italiano e comparato;
-
-9) Dottrina dello Stato.
-
-Inoltre dovranno seguire i corsi e sostenere le prove di esame in due lingue moderne straniere, almeno una delle quali deve essere la francese, l'inglese o la tedesca; per l'altra e' consentita la scelta fra quelle effettivamente insegnate nelle facolta' dell'ateneo.
-
-Art. 15. - I laureati in scienze politiche che intendono conseguire la laurea in giurisprudenza sono iscritti al terzo anno di corso con l'obbligo di sostenere gli esami nei seguenti insegnamenti fondamentali:
-
-1) Istituzioni di diritto romano;
-
-2) Storia del diritto romano;
-
-3) Filosofia del diritto;
-
-4) Scienza delle finanze e diritto finanziario;
-
-5) Diritto commerciale;
-
-6) Diritto ecclesiastico;
-
-7) Storia del diritto italiano (biennale);
-
-8) Diritto romano (biennale);
-
-9) Diritto civile (biennale);
-
-10) Diritto penale (biennale);
-
-11) Procedura penale;
-
-12) Diritto processuale civile.
-
-Art. 16. I laureati in economia e commercio, forniti di diploma di maturita' classica o scientifica che intendono conseguire la laurea in giurisprudenza sono iscritti al terzo anno di corso con l'obbligo di sostenere gli esami nei seguenti insegnamenti fondamentali:
-
-1) Istituzioni di diritto romano;
-
-2) Storia del diritto romano;
-
-3) Filosofia del diritto;
-
-4) Diritto ecclesiastico;
-
-5) Storia del diritto italiano (biennale);
-
-6) Diritto amministrativo (biennale);
-
-7) Diritto romano (biennale);
-
-8) Diritto penale (biennale);
-
-9) Diritto civile (biennale);
-
-10) Diritto internazionale;
-
-11) Diritto processuale civile;
-
-12) Procedura penale.
-
-Art. 17. - I laureati in economia e commercio, forniti di diploma di maturita' classica o scientifica, che intendono conseguire la laurea in scienze politiche sono iscritti al terzo anno di corso con l'obbligo di sostenere gli esami nei seguenti insegnamenti fondamentali:
-
-1) Storia delle dottrine politiche;
-
-2) Diritto costituzionale italiano e comparato;
-
-3) Storia ed istituzioni dei paesi afro-asiatici;
-
-4) Istituzioni di diritto e procedura penale;
-
-5) Storia moderna (biennale);
-
-6) Diritto internazionale;
-
-7) Dottrina dello Stato;
-
-8) Storia dei trattati e politica internazionale;
-
-9) Diritto amministrativo (biennale).
-
-Art. 19. - Lo studente di giurisprudenza non puo' sostenere gli esami:
-
-a) di diritto romano se non abbia superato l'esame di istituzioni di diritto romano;
-
-b) di diritto civile, di diritto commerciale, se non abbia superato quello di diritto privato.
-
-L'esame di diritto penale deve precedere quello di antropologia criminale.
-
-L'esame di statistica deve precedere quello di demografia.
-
-L'esame di istituzioni di diritto privato deve precedere quello di diritto agrario.
-
-Gli esami di diritto costituzionale, di istituzioni di diritto privato, di diritto processuale civile devono precedere quello di diritto amministrativo.
-
-Gli esami di istituzioni di diritto privato e istituzioni di diritto romano devono precedere quello di diritto civile.
-
-Gli esami di economia politica, di istituzioni di diritto privato e di istituzioni di diritto romano devono precedere quello di diritto commerciale.
-
-L'esame di storia del diritto italiano deve precedere quello di diritto comune.
-
-L'esame di diritto commerciale e quello di diritto costituzionale devono precedere quello di diritto del lavoro.
-
-L'esame di diritto internazionale deve precedere quello di diritto diplomatico e consolare.
-
-L'esame di diritto commerciale deve precedere quello di diritto della navigazione.
-
-L'esame di diritto commerciale deve precedere quello di diritto fallimentare.
-
-L'esame di diritto costituzionale deve precedere quello di diritto penale.
-
-Gli esami di istituzioni di diritto privato e istituzioni di diritto romano devono precedere quello di diritto privato comparato.
-
-Gli esami di diritto costituzionale e di istituzioni di diritto privato devono precedere quello di diritto ecclesiastico.
-
-L'esame di diritto commerciale deve precedere quello di diritto industriale.
-
-Gli esami di diritto costituzionale, istituzioni di diritto privato e di diritto processuale civile devono precedere quello di diritto internazionale.
-
-Gli esami di diritto costituzionale, istituzioni di diritto privato devono precedere quello di diritto processuale civile.
-
-Gli esami di istituzioni di diritto privato, istituzioni di diritto romano e storia del diritto romano devono precedere quello di diritto romano.
-
-Gli esami di istituzioni di diritto privato, istituzioni di diritto romano e storia del diritto romano devono precedere quello di esegesi delle fonti del diritto romano.
-
-L'esame di storia del diritto italiano deve precedere quello di esegesi delle fonti del diritto italiano.
-
-L'esame di diritto del lavoro deve precedere quello di legislazione del lavoro.
-
-Gli esami di diritto penale e istituzioni di diritto privato devono precedere quello di medicina legale.
-
-L'esame di diritto internazionale deve precedere quello di organizzazione internazionale.
-
-L'esame di diritto costituzionale deve precedere quello di procedura penale.
-
-L'esame di economia politica deve precedere quello di scienza delle finanze e diritto finanziario.
-
-Gli esami di istituzioni di diritto privato, istituzioni di diritto romano e storia del diritto romano devono precedere quello di storia del diritto italiano.
-
-Art. 20. - Lo studente di scienze politiche non e' ammesso a sostenere:
-
-a) nessun esame di diritto privato o pubblico senza aver rispettivamente superato gli esami di istituzioni di diritto privato o di diritto pubblico;
+a) nessun esame di diritto privato o pubblico senza, aver rispettivamente superato gli esami di istituzioni di diritto privato o di diritto pubblico
 
 b) l'esame di politica economica e finanziaria se non ha superato l'esame di economia politica;
 
-c) gli esami di storia e politica coloniale e di storia dei trattati e politica internazionale se non ha superate l'esame di storia moderna.
+c) gli esami di storia e politica coloniale e di storia dei trattati e politica internazionale se non ha superato l'esame di storia moderna".
 
-Gli esami di istituzioni di diritto pubblico e scienza delle finanze devono precedere quello di contabilita' dello Stato.
+Art. 22. - Agli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:
 
-L'esame di statistica deve precedere quello di demografia.
+11) "Lingue e letterature slave;
 
-Gli esami di istituzioni di diritto privato e istituzioni di diritto pubblico devono precedere quello di diritte amministrativo.
+12) Antichita' sarde;
 
-L'esame di istituzioni di diritto pubblico deve precedere quello di diritto costituzionale italiano e comparato.
+13) Storia della Sardegna;
 
-Gli esami di istituzioni di diritto privato e istituzioni di diritto pubblico devono precedere quello di diritte del lavoro.
+14) Linguistica sarda".
 
-Gli esami di istituzioni di diritto privato e di istituzioni di diritto pubblico devono precedere quello di diritto internazionale.
+TITOLO VIII. - Facolta' di ingegneria
 
-L'esame di economia politica deve precedere quelle di economia e politica agraria.
+Art. 54. - La Facolta' di ingegneria comprende il triennio di studi di applicazione per il conseguimento della laurea in ingegneria mineraria ed in ingegneria civile - Sottosezione edile.
 
-L'esame di istituzioni di diritto pubblico deve precedere quello di istituzioni di diritto e procedura penale.
+Per ottenere l'iscrizione al triennio di applicazione lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fissati per il biennio di studi propedeutici compresa la prova attestante la conoscenza di due lingue straniere moderne a sua scelta.
 
-L'esame di diritto del lavoro deve precedere quelle di legislazione del lavoro.
+Art. 55. - Sono insegnamenti fondamentali per la laurea in ingegneria mineraria:
 
-L'esame di diritto internazionale deve precedere quello di organizzazione internazionale.
+1) Scienza delle costruzioni;
 
-L'esame di economia politica deve precedere quello di politica economica e finanziaria.
+2) Meccanica applicata alle macchine;
 
-L'esame di economia politica deve precedere quello di scienza delle finanze.
+3) Fisica tecnica;
 
-L'esame di statistica deve precedere quello di statistica economica.
+4) Chimica applicata;
 
-L'esame di storia moderna deve precedere quello di storia dei partiti politici.
+5) Topografia con elementi di geodesia;
 
-L'esame di diritto internazionale deve precedere quello di storia dei trattati e politica internazionale.
+6) Architettura tecnica;
 
-L'esame di storia moderna deve precedere quello di storia dei trattati e politica internazionale.
+7) Idraulica;
 
-Gli esami di storia moderna e diritto internazionale devono precedere quello di storia ed istituzioni dei paesi afro-asiatici.
+8) Elettrotecnica;
 
-L'esame di storia moderna deve precedere quello di storia politica ed economica della Sardegna.
+9) Macchine;
+
+10) Tecnologie generali;
+
+11) Materie giuridiche ed economiche;
+
+12) Petrografia;
+
+13) Geologia;
+
+14) Paleontologia;
+
+15) Arte mineraria;
+
+16) Giacimenti minerari;
+
+17) Metallurgia e metallografia.
+
+Sono insegnamenti complementari:
+
+1) Tecnica ed economia dei trasporti;
+
+2) Costruzione di ponti;
+
+3) Costruzioni idrauliche;
+
+4) Igiene applicata all'ingegneria;
+
+5) Costruzione di macchine;
+
+6) Disegno di macchine e progetti;
+
+7) Tecnologie speciali minerarie;
+
+8) Impianti industriali elettrici;
+
+9) Chimica fisica;
+
+10) Chimica industriale;
+
+11) Elettrochimica;
+
+12) Geofisica mineraria;
+
+13) Geologia applicata;
+
+14) Costruzioni in legno, ferro e cemento armato;
+
+15) Impianti industriali minerari;
+
+16) Analisi chimiche.
+
+Art. 56. - Le precedenze per le iscrizioni e gli esami sono le seguenti:
+
+fisica tecnica e meccanica applicata alle macchine prima di macchine; petrografia e paleontologia prima di geologia; geologia prima di geologia applicata e giacimenti minerari; chimica applicata prima di metallurgia e metallografia e di chimica industriale; idraulica prima di costruzioni idrauliche; scienza delle costruzioni prima di costruzione di ponti e di costruzioni di legno, ferro e cemento armato; scienza delle costruzioni, macchine e tecnologie generali prima di costruzione di macchine; topografia prima di costruzioni stradali e ferroviarie; scienza delle costruzioni prima di idraulica; macchine ed elettrotecnica prima di tecnica ed economia dei trasporti; costruzioni in legno ferro e cemento armato prima di costruzione di ponti; arte mineraria prima di impianti industriali minerari.
+
+Sono accompagnati da esercitazioni i seguenti insegnamenti:
+
+scienza delle costruzioni; costruzioni in legno, ferro e cemento armato; costruzione di ponti; chimica applicata; meccanica applicata alle macchine; fisica tecnica; tecnologie generali; idraulica; elettrotecnica; macchine; topografia con elementi di geodesia; arte mineraria; metallurgia e metallografia; paleontologia; geologia; geologia applicata; costruzioni idrauliche; petrografia; giacimenti minerari; tecnica ed economia dei trasporti; architettura tecnica; costruzione di macchine; disegno di macchine e progetti e geofisica mineraria.
+
+Art. 57. - Per essere ammesso all'esame di laurea in ingegneria mineraria lo studente, oltre ad avere seguito i corsi e superati gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro complementari da lui scelti, dovra' avere effettuato almeno tre mesi di tirocinio pratico presso aziende minerarie e metallurgiche.
+
+Art. 58. - Sono insegnamenti fondamentali per la laurea in ingegneria, civile (sottosezione edile):
+
+1) Scienza delle costruzioni;
+
+2) Meccanica applicata alle macchine;
+
+3) Fisica tecnica.;
+
+4) Chimica applicata;
+
+5) Topografia con elementi di geodesia;
+
+6) Architettura tecnica (biennale);
+
+7) Idraulica;
+
+8) Elettrotecnica;
+
+9) Macchine;
+
+10) Tecnologie generali;
+
+11) Materie giuridiche ed economiche;
+
+12) Costrizioni in legno, ferro e cemento armato;
+
+13) Estimo civile e rurale;
+
+14) Costruzioni stradali e ferroviarie;
+
+15) Architettura e composizione architettonica;
+
+16) Tecnica urbanistica.
+
+Sono insegnamenti complementari:
+
+1) Tecnica ed economia dei trasporti;
+
+2) Costruzione di ponti;
+
+3) Costruzioni idrauliche;
+
+4) Costruzioni marittime
+
+5) Impianti speciali idraulici;
+
+6) Igiene applicata all'ingegneria;
+
+7) Agraria ed economia rurale;
+
+8) Tecnologie speciali;
+
+9) Comunicazioni elettriche;
+
+10) Geologia applicata;
+
+11) Geofisica applicata.
+
+Art. 59. I corsi su elencati hanno la durata di un anno accademico, ad eccezione di quello di architettura tecnica che e' biennale per la Sottosezione edile e comporta un esame distinto alla fine di ciascun anno di corso.
+
+Art. 60. - Le precedenze per le iscrizioni e gli esami sono le seguenti:
+
+fisica tecnica e meccanica applicata alle macchine prima di macchine; scienza delle costruzioni prima di architettura tecnica, di costruzione di ponti e di costruzioni in legno, ferro e cemento armato; architettura tecnica prima di architettura e composizione architettonica; costruzioni in legno, ferro e cemento armato prima di costruzione di ponti e di costruzioni stradali e ferroviarie; scienza delle costruzioni prima di idraulica;topografia prima di costruzioni stradali e ferroviarie;macchine ed elettrotecnica prima: di tecnica ed economia dei trasporti; elettrotecnica prima di impianti elettrici industriali.
+
+Art. 61. - Sono accompagnati da esercitazioni i seguenti insegnamenti:
+
+scienza delle costruzioni; meccanica applicata alle macchine; fisica tecnica; chimica applicata; topografia con elementi di geodesia; architettura tecnica I e II; idraulica; elettrotecnica; macchine; tecnologie generali; architettura e composizione architettonica; tecnica urbanistica; costruzione di ponti; costruzioni idrauliche; costruzioni marittime; tecnica ed economia dei trasporti; costruzioni in legno, ferro e cemento armato; impianti speciali idraulici; estimo civile e rurale; costruzioni stradali e ferroviarie; comunicazioni elettriche; geologia applicata; geofisica applicata,
+
+Art. 62. - Per essere ammesso all'esame di laurea in ingegneria civile, Sottosezione edile, lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali sopraindicati ed almeno in due complementari da lui scelti.
+
+Art. 63. - Sia per la Sezione mineraria che per la civile, gli esami di profitto consistono in prove orali ed eventualmente anche scritte e pratiche, secondo quanto viene stabilito, per ciascuno di essi, dal Consiglio di facolta'.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 12 maggio 1970
+Dato a Roma, addi' 29 maggio 1954
 
-SARAGAT
+EINAUDI
 
-MISASI
+MARTINO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DE PIETRO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 2 luglio 1970 Atti del Governo, registro n. 236, foglio n. 103. - CARUSO
+alla Corte dei conti, addi' 28 agosto 1954 Atti del Governo, registro n. 85, foglio n. 109. - CARLOMAGNO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificati con regio decreto 56 ottobre 1939 n. 1743, e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regi decreti 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1743); [26 marzo 1942, n. 328, con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-03-26;328) [22 ottobre 1946, n. 398: e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1946-10-22;398) [30 ottobre 1949, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1027); [11 aprile 1951, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;565); [23 gennaio 1952, n. 365](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-01-23;365); [26 ottobre 1952, n. 4542](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4542); [10 febbraio 1953, n. 550](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;550) e [30 luglio 1953, n. 716](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-07-30;716);  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 2 gennaio 1952, n. 22](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-01-02;22);  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare lo nuove modifiche proposte, Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 13. - Nell'elenco degli insegnamenti complementari del corso di laurea in scienze politiche l'insegnamento complementare di "lingua araba" e' soppresso.  
-Nello stesso articolo dopo il sesto comma e' inserito il seguente nuovo comma:  
-"I corsi di lingua sono triennali. Al termine di ciascun anno lo studente dovra' sostenere un esame scritto ed orale".  
-Gli articoli 14, 15, 16, 17, 19 e 20 relativi ai corsi di laurea in giurisprudenza ed in scienze politiche sono abrogati e sostituiti dai seguenti:  
-  
-Art. 14. - I laureati in giurisprudenza che intendono conseguire la laurea in scienze politiche sono iscritti al terzo anno di corso previo esame dal quale risulti una elementare conoscenza delle due lingue moderne straniere da essi prescelte. Essi dovranno sostenere gli esami dei seguenti insegnamenti fondamentali:  
-1) Storia moderna (biennale);  
-2) Storia delle dottrine politiche;  
-3) Geografia politica ed economica;  
-4) Statistica;  
-5) Politica economica e finanziaria;  
-6) Storia ed istituzione dei paesi afro-asiatici;  
-7) Storia dei trattati e politica internazionale;  
-8) Diritto costituzionale italiano e comparato;  
-9) Dottrina dello Stato.  
-Inoltre dovranno seguire i corsi e sostenere le prove di esame in due lingue moderne straniere, almeno una delle quali deve essere la francese, l'inglese o la tedesca; per l'altra e' consentita la scelta fra quelle effettivamente insegnate nelle facolta' dell'ateneo.  
-Art. 15. - I laureati in scienze politiche che intendono conseguire la laurea in giurisprudenza sono iscritti al terzo anno di corso con l'obbligo di sostenere gli esami nei seguenti insegnamenti fondamentali:  
-1) Istituzioni di diritto romano;  
-2) Storia del diritto romano;  
-3) Filosofia del diritto;  
-4) Scienza delle finanze e diritto finanziario;  
-5) Diritto commerciale;  
-6) Diritto ecclesiastico;  
-7) Storia del diritto italiano (biennale);  
-8) Diritto romano (biennale);  
-9) Diritto civile (biennale);  
-10) Diritto penale (biennale);  
-11) Procedura penale;  
-12) Diritto processuale civile.  
-Art. 16. I laureati in economia e commercio, forniti di diploma di maturita' classica o scientifica che intendono conseguire la laurea in giurisprudenza sono iscritti al terzo anno di corso con l'obbligo di sostenere gli esami nei seguenti insegnamenti fondamentali:  
-1) Istituzioni di diritto romano;  
-2) Storia del diritto romano;  
-3) Filosofia del diritto;  
-4) Diritto ecclesiastico;  
-5) Storia del diritto italiano (biennale);  
-6) Diritto amministrativo (biennale);  
-7) Diritto romano (biennale);  
-8) Diritto penale (biennale);  
-9) Diritto civile (biennale);  
-10) Diritto internazionale;  
-11) Diritto processuale civile;  
-12) Procedura penale.  
-Art. 17. - I laureati in economia e commercio, forniti di diploma di maturita' classica o scientifica, che intendono conseguire la laurea in scienze politiche sono iscritti al terzo anno di corso con l'obbligo di sostenere gli esami nei seguenti insegnamenti fondamentali:  
-1) Storia delle dottrine politiche;  
-2) Diritto costituzionale italiano e comparato;  
-3) Storia ed istituzioni dei paesi afro-asiatici;  
-4) Istituzioni di diritto e procedura penale;  
-5) Storia moderna (biennale);  
-6) Diritto internazionale;  
-7) Dottrina dello Stato;  
-8) Storia dei trattati e politica internazionale;  
-9) Diritto amministrativo (biennale).  
-Art. 19. - Lo studente di giurisprudenza non puo' sostenere gli esami:  
-a) di diritto romano se non abbia superato l'esame di istituzioni di diritto romano;  
-b) di diritto civile, di diritto commerciale, se non abbia superato quello di diritto privato.  
-L'esame di diritto penale deve precedere quello di antropologia criminale.  
-L'esame di statistica deve precedere quello di demografia.  
-L'esame di istituzioni di diritto privato deve precedere quello di diritto agrario.  
-Gli esami di diritto costituzionale, di istituzioni di diritto privato, di diritto processuale civile devono precedere quello di diritto amministrativo.  
-Gli esami di istituzioni di diritto privato e istituzioni di diritto romano devono precedere quello di diritto civile.  
-Gli esami di economia politica, di istituzioni di diritto privato e di istituzioni di diritto romano devono precedere quello di diritto commerciale.  
-L'esame di storia del diritto italiano deve precedere quello di diritto comune.  
-L'esame di diritto commerciale e quello di diritto costituzionale devono precedere quello di diritto del lavoro.  
-L'esame di diritto internazionale deve precedere quello di diritto diplomatico e consolare.  
-L'esame di diritto commerciale deve precedere quello di diritto della navigazione.  
-L'esame di diritto commerciale deve precedere quello di diritto fallimentare.  
-L'esame di diritto costituzionale deve precedere quello di diritto penale.  
-Gli esami di istituzioni di diritto privato e istituzioni di diritto romano devono precedere quello di diritto privato comparato.  
-Gli esami di diritto costituzionale e di istituzioni di diritto privato devono precedere quello di diritto ecclesiastico.  
-L'esame di diritto commerciale deve precedere quello di diritto industriale.  
-Gli esami di diritto costituzionale, istituzioni di diritto privato e di diritto processuale civile devono precedere quello di diritto internazionale.  
-Gli esami di diritto costituzionale, istituzioni di diritto privato devono precedere quello di diritto processuale civile.  
-Gli esami di istituzioni di diritto privato, istituzioni di diritto romano e storia del diritto romano devono precedere quello di diritto romano.  
-Gli esami di istituzioni di diritto privato, istituzioni di diritto romano e storia del diritto romano devono precedere quello di esegesi delle fonti del diritto romano.  
-L'esame di storia del diritto italiano deve precedere quello di esegesi delle fonti del diritto italiano.  
-L'esame di diritto del lavoro deve precedere quello di legislazione del lavoro.  
-Gli esami di diritto penale e istituzioni di diritto privato devono precedere quello di medicina legale.  
-L'esame di diritto internazionale deve precedere quello di organizzazione internazionale.  
-L'esame di diritto costituzionale deve precedere quello di procedura penale.  
-L'esame di economia politica deve precedere quello di scienza delle finanze e diritto finanziario.  
-Gli esami di istituzioni di diritto privato, istituzioni di diritto romano e storia del diritto romano devono precedere quello di storia del diritto italiano.  
-Art. 20. - Lo studente di scienze politiche non e' ammesso a sostenere:  
-a) nessun esame di diritto privato o pubblico senza aver rispettivamente superato gli esami di istituzioni di diritto privato o di diritto pubblico;  
+Art. 12. - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti i seguenti:  
+12) "Storia dei trattati e politica internazionale;  
+13) Esegesi delle fonti del diritto romano;  
+14) Diritto comune;  
+15) Storia delle dottrine politiche".  
+L'art. 19 relativo al corso di laurea in scienze politiche e' sostituito dal seguente:  
+"Lo studente non e' ammesso a sostenere:  
+a) nessun esame di diritto privato o pubblico senza, aver rispettivamente superato gli esami di istituzioni di diritto privato o di diritto pubblico  
 b) l'esame di politica economica e finanziaria se non ha superato l'esame di economia politica;  
-c) gli esami di storia e politica coloniale e di storia dei trattati e politica internazionale se non ha superate l'esame di storia moderna.  
-Gli esami di istituzioni di diritto pubblico e scienza delle finanze devono precedere quello di contabilita' dello Stato.  
-L'esame di statistica deve precedere quello di demografia.  
-Gli esami di istituzioni di diritto privato e istituzioni di diritto pubblico devono precedere quello di diritte amministrativo.  
-L'esame di istituzioni di diritto pubblico deve precedere quello di diritto costituzionale italiano e comparato.  
-Gli esami di istituzioni di diritto privato e istituzioni di diritto pubblico devono precedere quello di diritte del lavoro.  
-Gli esami di istituzioni di diritto privato e di istituzioni di diritto pubblico devono precedere quello di diritto internazionale.  
-L'esame di economia politica deve precedere quelle di economia e politica agraria.  
-L'esame di istituzioni di diritto pubblico deve precedere quello di istituzioni di diritto e procedura penale.  
-L'esame di diritto del lavoro deve precedere quelle di legislazione del lavoro.  
-L'esame di diritto internazionale deve precedere quello di organizzazione internazionale.  
-L'esame di economia politica deve precedere quello di politica economica e finanziaria.  
-L'esame di economia politica deve precedere quello di scienza delle finanze.  
-L'esame di statistica deve precedere quello di statistica economica.  
-L'esame di storia moderna deve precedere quello di storia dei partiti politici.  
-L'esame di diritto internazionale deve precedere quello di storia dei trattati e politica internazionale.  
-L'esame di storia moderna deve precedere quello di storia dei trattati e politica internazionale.  
-Gli esami di storia moderna e diritto internazionale devono precedere quello di storia ed istituzioni dei paesi afro-asiatici.  
-L'esame di storia moderna deve precedere quello di storia politica ed economica della Sardegna.  
+c) gli esami di storia e politica coloniale e di storia dei trattati e politica internazionale se non ha superato l'esame di storia moderna".  
+Art. 22. - Agli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:  
+11) "Lingue e letterature slave;  
+12) Antichita' sarde;  
+13) Storia della Sardegna;  
+14) Linguistica sarda".  
+  
+TITOLO VIII. - Facolta' di ingegneria  
+  
+Art. 54. - La Facolta' di ingegneria comprende il triennio di studi di applicazione per il conseguimento della laurea in ingegneria mineraria ed in ingegneria civile - Sottosezione edile.  
+Per ottenere l'iscrizione al triennio di applicazione lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fissati per il biennio di studi propedeutici compresa la prova attestante la conoscenza di due lingue straniere moderne a sua scelta.  
+  
+Art. 55. - Sono insegnamenti fondamentali per la laurea in ingegneria mineraria:  
+1) Scienza delle costruzioni;  
+2) Meccanica applicata alle macchine;  
+3) Fisica tecnica;  
+4) Chimica applicata;  
+5) Topografia con elementi di geodesia;  
+6) Architettura tecnica;  
+7) Idraulica;  
+8) Elettrotecnica;  
+9) Macchine;  
+10) Tecnologie generali;  
+11) Materie giuridiche ed economiche;  
+12) Petrografia;  
+13) Geologia;  
+14) Paleontologia;  
+15) Arte mineraria;  
+16) Giacimenti minerari;  
+17) Metallurgia e metallografia.  
+Sono insegnamenti complementari:  
+1) Tecnica ed economia dei trasporti;  
+2) Costruzione di ponti;  
+3) Costruzioni idrauliche;  
+4) Igiene applicata all'ingegneria;  
+5) Costruzione di macchine;  
+6) Disegno di macchine e progetti;  
+7) Tecnologie speciali minerarie;  
+8) Impianti industriali elettrici;  
+9) Chimica fisica;  
+10) Chimica industriale;  
+11) Elettrochimica;  
+12) Geofisica mineraria;  
+13) Geologia applicata;  
+14) Costruzioni in legno, ferro e cemento armato;  
+15) Impianti industriali minerari;  
+16) Analisi chimiche.  
+  
+Art. 56. - Le precedenze per le iscrizioni e gli esami sono le seguenti:  
+fisica tecnica e meccanica applicata alle macchine prima di macchine; petrografia e paleontologia prima di geologia; geologia prima di geologia applicata e giacimenti minerari; chimica applicata prima di metallurgia e metallografia e di chimica industriale; idraulica prima di costruzioni idrauliche; scienza delle costruzioni prima di costruzione di ponti e di costruzioni di legno, ferro e cemento armato; scienza delle costruzioni, macchine e tecnologie generali prima di costruzione di macchine; topografia prima di costruzioni stradali e ferroviarie; scienza delle costruzioni prima di idraulica; macchine ed elettrotecnica prima di tecnica ed economia dei trasporti; costruzioni in legno ferro e cemento armato prima di costruzione di ponti; arte mineraria prima di impianti industriali minerari.  
+Sono accompagnati da esercitazioni i seguenti insegnamenti:  
+scienza delle costruzioni; costruzioni in legno, ferro e cemento armato; costruzione di ponti; chimica applicata; meccanica applicata alle macchine; fisica tecnica; tecnologie generali; idraulica; elettrotecnica; macchine; topografia con elementi di geodesia; arte mineraria; metallurgia e metallografia; paleontologia; geologia; geologia applicata; costruzioni idrauliche; petrografia; giacimenti minerari; tecnica ed economia dei trasporti; architettura tecnica; costruzione di macchine; disegno di macchine e progetti e geofisica mineraria.  
+  
+Art. 57. - Per essere ammesso all'esame di laurea in ingegneria mineraria lo studente, oltre ad avere seguito i corsi e superati gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro complementari da lui scelti, dovra' avere effettuato almeno tre mesi di tirocinio pratico presso aziende minerarie e metallurgiche.  
+  
+Art. 58. - Sono insegnamenti fondamentali per la laurea in ingegneria, civile (sottosezione edile):  
+1) Scienza delle costruzioni;  
+2) Meccanica applicata alle macchine;  
+3) Fisica tecnica.;  
+4) Chimica applicata;  
+5) Topografia con elementi di geodesia;  
+6) Architettura tecnica (biennale);  
+7) Idraulica;  
+8) Elettrotecnica;  
+9) Macchine;  
+10) Tecnologie generali;  
+11) Materie giuridiche ed economiche;  
+12) Costrizioni in legno, ferro e cemento armato;  
+13) Estimo civile e rurale;  
+14) Costruzioni stradali e ferroviarie;  
+15) Architettura e composizione architettonica;  
+16) Tecnica urbanistica.  
+Sono insegnamenti complementari:  
+1) Tecnica ed economia dei trasporti;  
+2) Costruzione di ponti;  
+3) Costruzioni idrauliche;  
+4) Costruzioni marittime  
+5) Impianti speciali idraulici;  
+6) Igiene applicata all'ingegneria;  
+7) Agraria ed economia rurale;  
+8) Tecnologie speciali;  
+9) Comunicazioni elettriche;  
+10) Geologia applicata;  
+11) Geofisica applicata.  
+  
+Art. 59. I corsi su elencati hanno la durata di un anno accademico, ad eccezione di quello di architettura tecnica che e' biennale per la Sottosezione edile e comporta un esame distinto alla fine di ciascun anno di corso.  
+  
+Art. 60. - Le precedenze per le iscrizioni e gli esami sono le seguenti:  
+fisica tecnica e meccanica applicata alle macchine prima di macchine; scienza delle costruzioni prima di architettura tecnica, di costruzione di ponti e di costruzioni in legno, ferro e cemento armato; architettura tecnica prima di architettura e composizione architettonica; costruzioni in legno, ferro e cemento armato prima di costruzione di ponti e di costruzioni stradali e ferroviarie; scienza delle costruzioni prima di idraulica;topografia prima di costruzioni stradali e ferroviarie;macchine ed elettrotecnica prima: di tecnica ed economia dei trasporti; elettrotecnica prima di impianti elettrici industriali.  
+  
+Art. 61. - Sono accompagnati da esercitazioni i seguenti insegnamenti:  
+scienza delle costruzioni; meccanica applicata alle macchine; fisica tecnica; chimica applicata; topografia con elementi di geodesia; architettura tecnica I e II; idraulica; elettrotecnica; macchine; tecnologie generali; architettura e composizione architettonica; tecnica urbanistica; costruzione di ponti; costruzioni idrauliche; costruzioni marittime; tecnica ed economia dei trasporti; costruzioni in legno, ferro e cemento armato; impianti speciali idraulici; estimo civile e rurale; costruzioni stradali e ferroviarie; comunicazioni elettriche; geologia applicata; geofisica applicata,  
+  
+Art. 62. - Per essere ammesso all'esame di laurea in ingegneria civile, Sottosezione edile, lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali sopraindicati ed almeno in due complementari da lui scelti.  
+  
+Art. 63. - Sia per la Sezione mineraria che per la civile, gli esami di profitto consistono in prove orali ed eventualmente anche scritte e pratiche, secondo quanto viene stabilito, per ciascuno di essi, dal Consiglio di facolta'.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 maggio 1970
+### Dato a Roma, addi' 29 maggio 1954
 
-SARAGAT MISASI
+EINAUDI MARTINO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DE PIETRO
 
-Registrato alla Corte dei conti, addi' 2 luglio 1970
+Registrato alla Corte dei conti, addi' 28 agosto 1954
 
-Atti del Governo, registro n. 236, foglio n. 103. - CARUSO
+Atti del Governo, registro n. 85, foglio n. 109. - CARLOMAGNO

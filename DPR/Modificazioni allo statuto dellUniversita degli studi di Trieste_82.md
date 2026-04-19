@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 settembre 1966 n. 812
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1982 n. 1131
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 settembre 1966 n. 812
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1982 n. 1131
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 -------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, numero 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,349 +20,334 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 25. - All'elenco degli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di: "Diritto tributario".
+Articolo unico
+--------------
 
-Art. 32. - All'elenco degli istituti annessi alla Facolta' di giurisprudenza e' aggiunto il seguente: "Istituto di diritto del lavoro".
-
-Art. 74. - All'elenco delle lauree in Ingegneria conferite dalla Facolta' e' aggiunta la seguente: Laurea in ingegneria mineraria.
-
-Art. 75, relativo agli insegnamenti del biennio propedeutico dei corsi di laurea in Ingegneria e' modificato nel senso che viene aggiunto il seguente ultimo comma:
-
-"Nel secondo anno per la laurea in Ingegneria mineraria sono obbligatori i seguenti insegnamenti:
-
-1) Analisi matematica II;
-
-2) Disegno II (industriale);
-
-3) Fisica II;
-
-4) Meccanica razionale;
-
-5) Mineralogia;
-
-6) Geologia.
-
-Art. 76, relativo al triennio di applicazione dei corsi di laurea in Ingegneria e' modificato nel senso che viene aggiunto il seguente ultimo comma: Per la laurea in Ingegneria mineraria i seguenti insegnamenti sono obbligatori:
-
-1) Arte mineraria;
-
-2) Chimica applicata;
-
-3) Chimica fisica;
-
-4) Elettrotecnica;
-
-5) Fisica tecnica;
-
-6) Geofisica applicata;
-
-7) Giacimenti minerari;
-
-8) Idraulica;
-
-9) Macchine;
-
-10) Meccanica applicata alle macchine;
-
-11) Metallurgia e metallografia;
-
-12) Scienza delle costruzioni;
-
-13) Tecnica delle costruzioni;
-
-14) Topografia;
-
-15) Geologia applicata;
-
-e costituiranno gruppi di indirizzo i seguenti insegnamenti:
-
-per l'indirizzo miniere (a)
-
-16) Impianti minerari;
-
-17) Tecnica ed economia dei trasporti;
-
-18) Tecnologie minerarie;
-
-per l'indirizzo prospezione (b)
-
-16) Geofisica mineraria;
-
-17) Geotecnica;
-
-18) Idrogeologia.
-
-Gli articoli da 92 a 100 del Capo II relativi alla scuola di perfezionamento e di specializzazione in Diritto del lavoro e della sicurezza sociale sono abrogati e sostituiti dai seguenti:
-
-CAPO II
-
-Scuola di perfezionamento e di specializzazione
-
-in Diritto del lavoro ed in organizzazione aziendale
-
-Art. 92. - La scuola di perfezionamento e di specializzazione in Diritto del lavoro e della organizzazione aziendale, annessa alla Facolta' di giurisprudenza, nei suoi distinti rami ha lo scopo:
-
-a) d'integrare la preparazione scientifica dei giovani e di perfezionarli nella disciplina del lavoro e della sicurezza sociale.
-
-b) d'integrare la preparazione professionale dei giovani e di specializzarli nella direzione aziendale.
-
-Art. 93. - La scuola e' retta da un direttore e da un Consiglio composto dai professori titolari di cattedra che impartiscono insegnamenti costitutivi della scuola.
-
-Partecipano alle riunioni del Consiglio per l'esame dei problemi concernenti il coordinamento dei programmi tutti i docenti della scuola.
-
-Direttore ne e' il professore titolare della cattedra di Diritto del lavoro della Facolta' di giurisprudenza, o, nel caso che manchi il titolare della cattedra medesima, un professore di ruolo nominato dal rettore su proposta della Facolta' di giurisprudenza, scelto tra i componenti del Consiglio della scuola.
-
-Il direttore puo' designare tra i componenti del Consiglio un vice direttore che lo coadiuva e lo sostituisce in caso di impedimento.
-
-La nomina dei professori incaricati dell'insegnamento e' fatta dal rettore su designazione del Consiglio della Facolta' di giurisprudenza.
-
-Art. 94. - Alla scuola possono essere iscritti soltanto i laureati in Giurisprudenza, Scienze politiche, Economia e commercio, Scienze statistiche ed attuariali, Scienze statistiche e demografiche.
-
-Art. 95. - La scuola si distingue in due corsi separati, della durata di due anni ciascuno in ordine agli scopi per i quali e' istituita: corso di perfezionamento e di specializzazione in Diritto del lavoro e della sicurezza sociale; corso di perfezionamento e di specializzazione in organizzazione aziendale.
-
-Al termine di essi la scuola rilascia, dopo che i candidati abbiano superato le prove nelle materie fondamentali rispettivamente indicate nell'art. 96 e l'esame di diploma, un diploma di perfezionamento.
-
-Art. 96. - Gli insegnamenti fondamentali della scuola sono:
-
-a) per il corso di perfezionamento e di specializzazione in Diritto del lavoro e della sicurezza sociale:
-
-1) Storia del lavoro;
-
-2) Storia del sindacalismo;
-
-3) Diritto del lavoro (biennale);
-
-4) Diritto sindacale (biennale);
-
-5) Diritto della sicurezza sociale (biennale);
-
-6) Diritto del lavoro comparato;
-
-7) Diritto sindacale comparato;
-
-8) Diritto della sicurezza sociale comparato;
-
-9) Diritto processuale del lavoro e della sicurezza sociale;
-
-10) Diritto penale del lavoro;
-
-11) Diritto internazionale e diritto comunitario del lavoro e della sicurezza sociale;
-
-12) Il pubblico impiego.
-
-Insegnamenti monografici: due da scegliere nel seguente elenco:
-
-1) Statistica del lavoro;
-
-2) Tecnica dell'organizzazione sindacale;
-
-3) Economia del lavoro;
-
-4) Storia della cooperazione;
-
-5) Medicina legale e delle assicurazioni;
-
-b) per il corso di perfezionamento e di specializzazione in organizzazione aziendale:
-
-1) Ragioneria generale applicata;
-
-2) Tecnica e legislazione bancaria;
-
-3) Tecnica industriale e commerciale;
-
-4) Organizzazione e direzione aziendale;
-
-5) Diritto del lavoro;
-
-6) Diritto sindacale;
-
-7) Diritto della sicurezza sociale;
-
-8) Diritto privato dell'economia;
-
-9) Diritto pubblico dell'economia;
-
-10) Diritto tributario;
-
-11) Diritto degli enti economici internazionali.
-
-Insegnamenti monografici: due da scegliere nel seguente elenco:
-
-1) Tecnica amministrativa e ragioneria delle aziende pubbliche;
-
-2) Gli enti pubblici economici;
-
-3) Tecnica e legislazione delle assicurazioni sociali;
-
-4) Tecnica e legislazione delle assicurazioni private;
-
-5) Tecnica del commercio internazionale;
-
-6) Tecnica della rilevazione aziendale.
-
-Art. 97. - L'esame di diploma consiste nella discussione di una memoria originale, su argomento scelto fra le materie fondamentali, preventivamente approvate dal Consiglio della scuola, e nella discussione di altri due argomenti anch'essi approvati dal Consiglio.
-
-Art. 98. - La scuola curera' la stampa di quei lavori degli iscritti che, per deliberazione del Consiglio, su relazione del professore della materia saranno giudicati degni, per valore scientifico, di pubblicazione. Curera' inoltre la pubblicazione dei risultati delle ricerche strettamente scientifiche compiute collettivamente sotto la guida dei docenti e in collaborazione con essi.
-
-Art. 99. - La scuola potra' stabilire, su deliberazione del Consiglio, rapporti continuativi con enti sindacali ed istituti attinenti alle materie relative ai due corsi, al fine di raccogliere gli elementi utili agli insegnamenti per il migliore raggiungimento dei fini di ricerca e di diffusione scientifica ed ai fini della specializzazione professionale degli studenti.
-
-La scuola potra', inoltre, su deliberazione del Consiglio, promuovere corsi intensivi di aggiornamento secondo le modalita' stabilite di volta in volta.
-
-Art. 100. - Possono nella scuola aprirsi concorsi a premio fra gli iscritti i cui lavori, compiuti in sede di ricerca e di esercitazione oppure presentati come dissertazione di diploma, siano dichiarati degni di stampa.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 9 settembre 1966
-
-SARAGAT
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 10 ottobre 1966 Atti del Governo, registro n. 206, foglio n. 55. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, numero 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:   
-  
-Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 25. - All'elenco degli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di: "Diritto tributario".   
-Art. 32. - All'elenco degli istituti annessi alla Facolta' di giurisprudenza e' aggiunto il seguente: "Istituto di diritto del lavoro".   
-Art. 74. - All'elenco delle lauree in Ingegneria conferite dalla Facolta' e' aggiunta la seguente: Laurea in ingegneria mineraria.   
-Art. 75, relativo agli insegnamenti del biennio propedeutico dei corsi di laurea in Ingegneria e' modificato nel senso che viene aggiunto il seguente ultimo comma:   
-"Nel secondo anno per la laurea in Ingegneria mineraria sono obbligatori i seguenti insegnamenti:   
-1) Analisi matematica II;   
-2) Disegno II (industriale);   
-3) Fisica II;   
-4) Meccanica razionale;   
-5) Mineralogia;   
-6) Geologia.   
-Art. 76, relativo al triennio di applicazione dei corsi di laurea in Ingegneria e' modificato nel senso che viene aggiunto il seguente ultimo comma: Per la laurea in Ingegneria mineraria i seguenti insegnamenti sono obbligatori:   
-1) Arte mineraria;   
-2) Chimica applicata;   
-3) Chimica fisica;   
-4) Elettrotecnica;   
-5) Fisica tecnica;   
-6) Geofisica applicata;   
-7) Giacimenti minerari;   
-8) Idraulica;   
-9) Macchine;   
-10) Meccanica applicata alle macchine;   
-11) Metallurgia e metallografia;   
-12) Scienza delle costruzioni;   
-13) Tecnica delle costruzioni;   
-14) Topografia;   
-15) Geologia applicata;   
-e costituiranno gruppi di indirizzo i seguenti insegnamenti:   
-per l'indirizzo miniere (a)   
-16) Impianti minerari;   
-17) Tecnica ed economia dei trasporti;   
-18) Tecnologie minerarie;   
-per l'indirizzo prospezione (b)   
-16) Geofisica mineraria;   
-17) Geotecnica;   
-18) Idrogeologia.   
-Gli articoli da 92 a 100 del Capo II relativi alla scuola di perfezionamento e di specializzazione in Diritto del lavoro e della sicurezza sociale sono abrogati e sostituiti dai seguenti:   
-  
-CAPO II   
-Scuola di perfezionamento e di specializzazione   
-in Diritto del lavoro ed in organizzazione aziendale   
-  
-Art. 92. - La scuola di perfezionamento e di specializzazione in Diritto del lavoro e della organizzazione aziendale, annessa alla Facolta' di giurisprudenza, nei suoi distinti rami ha lo scopo:   
-a) d'integrare la preparazione scientifica dei giovani e di perfezionarli nella disciplina del lavoro e della sicurezza sociale.   
-b) d'integrare la preparazione professionale dei giovani e di specializzarli nella direzione aziendale.   
-Art. 93. - La scuola e' retta da un direttore e da un Consiglio composto dai professori titolari di cattedra che impartiscono insegnamenti costitutivi della scuola.   
-Partecipano alle riunioni del Consiglio per l'esame dei problemi concernenti il coordinamento dei programmi tutti i docenti della scuola.   
-Direttore ne e' il professore titolare della cattedra di Diritto del lavoro della Facolta' di giurisprudenza, o, nel caso che manchi il titolare della cattedra medesima, un professore di ruolo nominato dal rettore su proposta della Facolta' di giurisprudenza, scelto tra i componenti del Consiglio della scuola.   
-Il direttore puo' designare tra i componenti del Consiglio un vice direttore che lo coadiuva e lo sostituisce in caso di impedimento.   
-La nomina dei professori incaricati dell'insegnamento e' fatta dal rettore su designazione del Consiglio della Facolta' di giurisprudenza.   
-Art. 94. - Alla scuola possono essere iscritti soltanto i laureati in Giurisprudenza, Scienze politiche, Economia e commercio, Scienze statistiche ed attuariali, Scienze statistiche e demografiche.   
-Art. 95. - La scuola si distingue in due corsi separati, della durata di due anni ciascuno in ordine agli scopi per i quali e' istituita: corso di perfezionamento e di specializzazione in Diritto del lavoro e della sicurezza sociale; corso di perfezionamento e di specializzazione in organizzazione aziendale.   
-Al termine di essi la scuola rilascia, dopo che i candidati abbiano superato le prove nelle materie fondamentali rispettivamente indicate nell'art. 96 e l'esame di diploma, un diploma di perfezionamento.   
-Art. 96. - Gli insegnamenti fondamentali della scuola sono:   
-a) per il corso di perfezionamento e di specializzazione in Diritto del lavoro e della sicurezza sociale:   
-1) Storia del lavoro;   
-2) Storia del sindacalismo;   
-3) Diritto del lavoro (biennale);   
-4) Diritto sindacale (biennale);   
-5) Diritto della sicurezza sociale (biennale);   
-6) Diritto del lavoro comparato;   
-7) Diritto sindacale comparato;   
-8) Diritto della sicurezza sociale comparato;   
-9) Diritto processuale del lavoro e della sicurezza sociale;   
-10) Diritto penale del lavoro;   
-11) Diritto internazionale e diritto comunitario del lavoro e della sicurezza sociale;   
-12) Il pubblico impiego.   
-Insegnamenti monografici: due da scegliere nel seguente elenco:   
-1) Statistica del lavoro;   
-2) Tecnica dell'organizzazione sindacale;   
-3) Economia del lavoro;   
-4) Storia della cooperazione;   
-5) Medicina legale e delle assicurazioni;   
-b) per il corso di perfezionamento e di specializzazione in organizzazione aziendale:   
-1) Ragioneria generale applicata;   
-2) Tecnica e legislazione bancaria;   
-3) Tecnica industriale e commerciale;   
-4) Organizzazione e direzione aziendale;   
-5) Diritto del lavoro;   
-6) Diritto sindacale;   
-7) Diritto della sicurezza sociale;   
-8) Diritto privato dell'economia;   
-9) Diritto pubblico dell'economia;   
-10) Diritto tributario;   
-11) Diritto degli enti economici internazionali.   
-Insegnamenti monografici: due da scegliere nel seguente elenco:   
-1) Tecnica amministrativa e ragioneria delle aziende pubbliche;  
-2) Gli enti pubblici economici;   
-3) Tecnica e legislazione delle assicurazioni sociali;   
-4) Tecnica e legislazione delle assicurazioni private;   
-5) Tecnica del commercio internazionale;   
-6) Tecnica della rilevazione aziendale.   
-Art. 97. - L'esame di diploma consiste nella discussione di una memoria originale, su argomento scelto fra le materie fondamentali, preventivamente approvate dal Consiglio della scuola, e nella discussione di altri due argomenti anch'essi approvati dal Consiglio.   
-Art. 98. - La scuola curera' la stampa di quei lavori degli iscritti che, per deliberazione del Consiglio, su relazione del professore della materia saranno giudicati degni, per valore scientifico, di pubblicazione. Curera' inoltre la pubblicazione dei risultati delle ricerche strettamente scientifiche compiute collettivamente sotto la guida dei docenti e in collaborazione con essi.   
-Art. 99. - La scuola potra' stabilire, su deliberazione del Consiglio, rapporti continuativi con enti sindacali ed istituti attinenti alle materie relative ai due corsi, al fine di raccogliere gli elementi utili agli insegnamenti per il migliore raggiungimento dei fini di ricerca e di diffusione scientifica ed ai fini della specializzazione professionale degli studenti.   
-La scuola potra', inoltre, su deliberazione del Consiglio, promuovere corsi intensivi di aggiornamento secondo le modalita' stabilite di volta in volta.   
-Art. 100. - Possono nella scuola aprirsi concorsi a premio fra gli iscritti i cui lavori, compiuti in sede di ricerca e di esercitazione oppure presentati come dissertazione di diploma, siano dichiarati degni di stampa.   
+L'art. 57, relativo al corso di laurea in storia, e' soppresso e sostituito dal seguente:   
+Art. 57 - Corso di laurea in storia. - Durata del corso di studio: quattro anni.   
+Il corso di studi si distingue in cinque indirizzi:   
+A) antico;   
+B) medioevale;   
+C) moderno;   
+D) contemporaneo;   
+E) storico-religioso.   
+Sono titoli di ammissione: a) il diploma di scuola media superiore di durata quinquennale; b) il diploma rilasciato al termine dell'anno integrativo frequentato dopo il conseguimento del diploma di scuola media superiore di durata quadriennale.   
+A) Indirizzo antico:   
+Sono insegnamenti fondamentali:   
+\* storia romana;   
+\* storia greca;   
+storia orientale antica;   
+\* storia medioevale;   
+archeologia e storia dell'arte greca e romana;   
+storia del Mediterraneo antico orientale;   
+\* papirologia;   
+geografia storica del mondo antico;   
+epigrafia e antichita' greche;   
+epigrafia e antichita' romane;   
+\* letteratura italiana.   
+Sono insegnamenti complementari:   
+antichita' greche e romane;   
+\* archeologia cristiana;   
+archeologia fenicio-punica;   
+archeologia greca e romana;   
+archeologia orientale;   
+archeologia delle province romane;   
+assirologia;   
+\* ebraico e lingue semitiche comparate;   
+egittologia;   
+epigrafia greca;   
+epigrafia latina;   
+epigrafia semitica;   
+esegesi delle fonti della storia greca e romana;   
+\* etnologia;   
+etruscologia e archeologia italica;   
+filologia semitica;   
+filologia greca e latina;   
+ittitologia;   
+\* letteratura cristiana antica;   
+\* letteratura greca;   
+\* letteratura latina;   
+numismatica antica;   
+paleografia greca;   
+paleografia latina;   
+paletnologia;   
+storia del cristianesimo antico;   
+storia del diritto greco;   
+\* storia del diritto romano;   
+storia economica del mondo antico;   
+storia della filosofia antica;   
+storia delle religioni del mondo classico;   
+una storia regionale del mondo antico (da specificare allo statuto);   
+storia sociale del mondo antico;   
+topografia dell'Italia antica;   
+storia delle origini cristiane;   
+storia delle civilta' preclassiche;   
+antichita' celtiche;   
+storia della storiografia antica;   
+\* storia delle dottrine economiche;   
+\* storia della scienza e della tecnica;   
+\* teoria e storia della storiografia;   
+\* storia delle istituzioni giuridiche.   
+B) Indirizzo medioevale:   
+Sono insegnamenti fondamentali:   
+\* storia medioevale;   
+\* storia romana;   
+\* storia moderna;   
+storia dell'arte medioevale;   
+\* letteratura italiana;   
+\* paleografia e diplomatica;   
+lingua e letteratura latina medioevale;   
+storia economica medioevale;   
+\* geografia storica dell'Europa;   
+storia della filosofia medioevale;   
+istituzioni medioevali.   
+Sono insegnamenti complementari:   
+\* archivistica;   
+storia bizantina;   
+filologia romanza;   
+storia medioevale dell'Oriente europeo;   
+storia dei Paesi islamici;   
+archeologia medioevale;   
+bibliografia e biblioteconomia;   
+cronologia e cronografia;   
+numismatica, sfragistica e araldica;   
+epigrafia medioevale;   
+storia del diritto italiano;   
+museologia;   
+didattica della storia;   
+\*antropologia culturale;   
+teoria e storia della storiografia;   
+storia del commercio e della navigazione;   
+codicologia;   
+storia delle esplorazioni geografiche;   
+storia e civilta' precolombiane dell'America;   
+\* politica economica europea;   
+paleografia bizantina;   
+esegesi delle fonti della storia medievale;   
+storia dell'Europa medioevale;   
+letteratura umanistica;   
+storia agraria medioevale;   
+storia del Friuli e della Venezia Giulia nell'eta' medioevale; storia del Cristianesimo medioevale;   
+pubblicistica e cronachistica medioevale;   
+storia degli insediamenti tardo-antichi e medioevali;   
+linguistica, onomastica e toponomastica medioevale;   
+storia della Chiesa medioevale e dei movimenti ereticali;   
+\* storia dei popoli slavi;   
+\* agiografia;   
+\* storia della Chiesa;   
+\* storia delle dottrine economiche;   
+\* storia della scienza e della tecnica;   
+\* teoria e storia della storiografia;   
+\* storia delle istituzioni giuridiche.   
+C) Indirizzo moderno:   
+Sono insegnamenti fondamentali:   
+\* storia moderna;   
+storia dell'arte moderna;   
+\* storia delle istituzioni e delle dottrine politiche;   
+teoria e storia della storiografia nell'eta' moderna;   
+\* letteratura italiana;   
+storia economica dell'eta' moderna;   
+\* geografia storica dell'Europa;   
+\* storia della filosofia moderna e contemporanea;   
+metodi quantitativi applicati alla storia;   
+storia della scienza e della tecnica nell'eta' moderna;   
+storia degli antichi stati italiani.   
+Sono insegnamenti complementari:   
+storia dell'Africa;   
+storia dell'Asia;   
+storia dell'America latina;   
+storia dell'Europa orientale;   
+storia del Rinascimento;   
+storia dell'America settentrionale;   
+letteratura italiana moderna;   
+storia dell'eta' della Riforma e Controriforma;   
+storia dell'eta' dell'Illuminismo;   
+\* storia del Risorgimento;   
+\* storia e tecnica militare;   
+storia del Friuli e della Venezia Giulia nell'eta' moderna e contemporanea;   
+storia della sanita';   
+storia della chimica;   
+storia urbana;   
+\* storia delle tecnologie;   
+storia agraria moderna;   
+storia delle esplorazioni e scoperte geografiche;   
+storia del commercio e dell'industria;   
+storia della moneta e della borsa;   
+\* politica economica europea;   
+etnologia storica;   
+cronologia e tecniche della misura del tempo;   
+\* istituzioni di educazione civica;   
+storia della fisica;   
+storia delle matematiche;   
+storia della navigazione;   
+storia dell'Europa occidentale nell'eta' moderna;   
+\* storia delle istituzioni sociali e politiche;   
+\* storia medioevale;   
+\* storia contemporanea;   
+\* demografia storica;   
+\* antropologia sociale;   
+\* storia della Chiesa;   
+\* storia dei popoli slavi;   
+\* storia sociale;   
+\* storia americana;   
+\* storia dell'agricoltura;   
+\* storia dell'Europa danubiano-balcanica;   
+\* storia del popolo sloveno;   
+\* storia delle dottrine economiche;   
+\* storia della scienza e della tecnica;   
+\* teoria e storia della storiografia;   
+\* storia delle istituzioni giuridiche.   
+D) Indirizzo contemporaneo:   
+Sono insegnamenti fondamentali:   
+\* storia contemporanea;   
+\* storia del Risorgimento;   
+\* storia delle istituzioni e delle dottrine politiche;   
+storia dell'arte contemporanea;   
+\* letteratura italiana;   
+storia economica dell'eta' Industriale;   
+\* geografia storica dell'Europa;   
+\* storia della filosofia moderna e contemporanea;   
+metodologie sociologiche;   
+storia della scienza e della tecnica nell'eta' contemporanea. teoria e storia della storiografia nell'eta' contemporanea;   
+Sono insegnamenti complementari:   
+\* geografia politica ed economica;   
+metodi quantitativi applicati alle scienze storiche e tecniche delle previsioni;   
+letteratura italiana contemporanea;   
+storia della colonizzazione e della decolonizzazione;   
+storia dei Paesi africani nell'eta' contemporanea;   
+storia dei Paesi del vicino e medio Oriente nell'eta' contemporanea;   
+storia degli Stati Uniti d'America;   
+\* storia della Cina contemporanea;   
+\* storia del Giappone contemporaneo;   
+storia dell'America latina contemporanea;   
+storia dell'Europa contemporanea;   
+\* storia della Russia e dell'Unione sovietica;   
+storia della Gran Bretagna e del Commonwealth;   
+storia della Francia contemporanea;   
+storia della Spagna contemporanea;   
+storia della Germania contemporanea;   
+storia contemporanea dei Paesi scandinavi;   
+storia del giornalismo;   
+demografia storica;   
+storia della moneta e della banca;   
+storia del Friuli e della Venezia Giulia nell'eta' moderna e contemporanea;   
+\* storia e tecnica militare;   
+storia dell'aviazione;   
+storia dei trasporti;   
+storia degli sport;   
+\* politica economica europea;   
+\* storia delle tecnologie;   
+\* istituzioni di educazione civica;   
+storia delle dottrine economiche;   
+storia delle tradizioni popolari;   
+storia dell'industria;   
+storia agraria contemporanea;   
+storia del movimento operaio e sindacale;   
+\* storia sociale;   
+\* storia delle istituzioni sociali e politiche;   
+\* storia medioevale;   
+\* storia moderna;   
+storia dell'Italia contemporanea;   
+\* antropologia sociale;   
+\* storia della Chiesa;   
+\* storia dell'Europa orientale;   
+\* storia dei popoli slavi;   
+\* storia del popolo sloveno;   
+storia dei partiti e dei movimenti politici;   
+\* storia americana;   
+\* storia dell'agricoltura;   
+\* storia dell'Europa danubiano-balcanica;   
+metodologia didattica della storia;   
+storia del lavoro e delle forme organizzative del lavoro;   
+\* storia delle dottrine economiche;   
+\* storia della scienza e della tecnica;   
+\* teoria e storia della storiografia;   
+\* storia delle istituzioni giuridiche.   
+E) Indirizzo storico-religioso:   
+Sono insegnamenti fondamentali:   
+\* storia greca;   
+\* storia romana;   
+\* storia medioevale;   
+\* storia moderna;   
+\* storia contemporanea;   
+storia della Chiesa;   
+storia del Cristianesimo;   
+storia delle religioni;   
+\* letteratura italiana;   
+\* letteratura cristiana antica;   
+\* archeologia cristiana.   
+Sono insegnamenti complementari:   
+filologia veterotestamentaria;   
+filologia neotestamentaria;   
+\* ebraico e lingue semitiche comparate;   
+storia della letteratura latina medioevale;   
+\* letteratura latina;   
+\* paleografia e diplomatica;   
+\* archivistica;   
+\* papirologia;   
+storia della teologia;   
+\* letteratura greca;   
+filologia bizantina;   
+filologia medioevale e umanistica;   
+storia e sistemi delle relazioni tra Stato e Chiesa nell'eta' moderna;   
+filosofia della storia;   
+filosofia della religione;   
+filosofia morale;   
+storia della filosofia;   
+filosofia teoretica;   
+sanscrito;   
+\* etnologia;   
+sociologia;   
+storia religiosa dell'Oriente cristiano;   
+agiografia;   
+storia dell'arte medioevale e moderna;   
+\* storia del diritto romano;   
+storia della pedagogia;   
+storia dell'espansione coloniale e della decolonizzazione;   
+metodologia didattica della storia;   
+islamistica;   
+religioni dell'India e dell'estremo Oriente;   
+storia della liturgia;   
+ideologie sociali cristiane;   
+storia delle Chiese e dei movimenti religiosi cristiani;   
+storia religiosa dell'Europa;   
+storia del movimento cattolico;   
+\* storia delle dottrine economiche;   
+\* storia della scienza e della tecnica;   
+\* teoria e storia della storiografia;   
+\* storia delle istituzioni giuridiche.   
+Le materie fondamentali e complementari segnate con asterisco sono comuni ai diversi indirizzi del corso di laurea.   
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed in almeno otto insegnamenti complementari di cui sei dell'indirizzo prescelto.   
+Lo studente dovra', inoltre, aver superato gli esami in due insegnamenti di lingua straniera da maturarsi presso la stessa o altre facolta' della medesima Universita': una delle due lingue dovra' essere scelta fra quelle del gruppo anglosassone ed una fra quelle del gruppo neolatino.   
+L'esame di laurea in storia consiste nella discussione di una dissertazione scritta svolta dal candidato in uno degli insegnamenti relativi al corso di laurea ed in rapporto al carattere della laurea stessa e dell'indirizzo prescelto.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 settembre 1966
+### Dato a Roma, addi' 28 ottobre 1982
 
-SARAGAT GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 10 ottobre 1966
+Registrato alla Corte dei conti, addi' 7 marzo 1983
 
-Atti del Governo, registro n. 206, foglio n. 55. - VILLA
+Registro n. 17 Istruzione, foglio n. 54.

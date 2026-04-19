@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1978 n. 623
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 dicembre 1982 n. 1120
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1978 n. 623
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 dicembre 1982 n. 1120
+================================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,12 +12,8 @@ Art. 1
 
 N.
 
-623. Decreto del Presidente della Repubblica 1 agosto 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.na Miotti Maria con testamento olografo 3 marzo 1973, pubblicato a rogito notaio dott. Carlo D'Este in data 4 febbraio 1975, n. 7308 di repertorio e n. 3126 di raccolta, registrato a Rapallo il 17 febbraio 1975 al n. 261, vol. 180 mod. 1, consistente in beni immobili siti in Rapallo:
-
-a) appartamento sito in via Vespucci 22/9, riportato al nuovo catasto edilizio urbano alla partita 4485, foglio 35, mappale 429 sub 18 di vani 8;
-
-b) magazzino sito in via Vespucci 22/9, riportato nel nuovo catasto edilizio urbano alla partita 4485, foglio 35, mappale 429 sub 6, di mq. 14, il tutto per un valore complessivo di L. 17.000.000.  
+1120. Decreto del Presidente della Repubblica 16 dicembre 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in titoli e saldo di libretti di conto corrente al portatore per un valore, al netto delle passivita', di L. 97.014.900, quota 1/4 - L. 24.253.725, disposto dalla sig.na De Martini Giovanna Maria a favore dei mutilatini di don Gnocchi con testamento olografo del 10 aprile 1980, pubblicato in data 19 gennaio 1981, n. 10221 di repertorio e n. 3365 di raccolta, a rogito dott. Morandi Vittorio, notaio in Alessandria, registrato ad Alessandria in data 6 febbraio 1981, al n. 549.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 11 ottobre 1978  
-Registro n. 7 Presidenza, foglio n. 13
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 18 febbraio 1983  
+Registro n. 2 Presidenza, foglio n. 65

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 aprile 1974 n. 219
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1980 n. 166
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 aprile 1974 n. 219
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1980 n. 166
+============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
 -----------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-219. Decreto del Presidente della Repubblica 4 aprile 1974, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in titoli al portatore del valore presunto di L. 6.696.833 e in beni immobili del valore presunto di L. 13.500.000, disposta dalla sig.ra Vignati Adriana con testamento olografo in data 8 ottobre 1967, pubblicato in data 8 settembre 1971 per atto dott. Alessandro Giuliani notaio in Milano, n. 21436 di repertorio e n. 5051 di raccolta, registrato a Milano il 13 settembre 1971, n. 15441/71/M, serie G.  
+166. Decreto del Presidente della Repubblica 13 marzo 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, con beneficio d'inventario, l'eredita', consistente in beni mobili e capitalizzazione usufrutto di immobile, del valore di L. 239.108.398, disposta dalla sig.ra Giuseppina. Ferri ved. Caprara con testamento olografo 9 maggio 1974, pubblicato in data 10 settembre 1976, n. 19416 di repertorio, a rogito dottor Enrico Candi, notaio in Bologna, registrato a Bologna in data 24 settembre 1976, n. 11967.  
   
-Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 1 giugno 1974  
-Atti di Governo, registro n. 4, foglio n. 5. - SCIARRETTA
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti, addi' 6 maggio 1980  
+Registro n. 3 Presidenza, foglio n. 317

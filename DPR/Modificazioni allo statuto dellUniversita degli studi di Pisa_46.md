@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1972 n. 58
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1967 n. 1434
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1972 n. 58
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1967 n. 1434
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
@@ -18,7 +18,7 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -30,442 +30,177 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Gli articoli 136, 137, 138, 139, 140, 141, relativi alla facolta' di medicina veterinaria sono abrogati e sostituiti dai seguenti:
+Dopo l'art. 153 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli, relativi alla istituzione della scuola speciale per archeologi preistorici, classici e medioevalisti annessa alla facolta' di lettere e filosofia.
 
-FACOLTA' DI MEDICINA VETERINARIA
+Scuola speciale per archeologi preistorici, classici e medioevalisti
 
-Art. 136. - La facolta' di medicina veterinaria conferisce:
+Art. 154. - E' istituita una scuola speciale per archeologi preistorici, classici e medioevalisti annessa alla facolta' di lettere e filosofia dell'Universita' di Pisa, ai sensi dell'art. 20, comma terzo, lettera A, del testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592).
 
-a) la laurea in medicina, veterinaria;
+Essa e' destinata a promuovere l'incremento, scientifico delle discipline archeologiche curando in particolare la preparazione tecnica e professionale necessaria allo svolgimento delle funzioni del ruolo direttivo nell'amministrazione delle antichita' e belle arti.
 
-b) la laurea in scienze della produzione animale.
+Art. 155. - La scuola consta dei seguenti indirizzi di studio:
 
-Art. 137. - Il corso di laurea in medicina veterinaria si effettua mediante un ciclo di studi della durata di cinque anni, diviso in un periodo propedeutico durante il quale viene impartito l'insegnamento di base teorico e pratico, ed in un periodo dedicato all'insegnamento veterinario specifico.
+a) preistorico;
 
-E' titolo di ammissione al corso di laurea in medicina veterinaria quello previsto dalle vigenti disposizioni di legge.
+b) classico;
 
-I cinque anni di studio comportano l'insegnamento teorico e pratico, con esercitazioni e seminari, in non meno di quattromilacinquecento ore relative alle materie di base ed alle materie veterinarie specifiche, appresso indicate, e a non meno di tre insegnamenti complementari integrativi scelti dallo studente fra quelli elencati in un successivo paragrafo.
+c) medioevale.
 
-Numero minimo di ore
+Art. 156. - I corsi, della durata di un biennio, comprendono insegnamenti teorici e sperimentali ed esercitazioni comuni e sono distinti secondo gli indirizzi di studio di cui all'art. 155.
 
-Insegnamenti fondamentali:
+I corsi danno adito al conferimento, relativamente agli indirizzi sopra enunciati, al diploma in:
 
-Fisica............................................... 120
+a) archeologia preistorica;
 
-Chimica I............................................ 100
+b) archeologia classica;
 
-Chimica II........................................... 100
+c) archeologia medioevale.
 
-Zoologia............................................. 120
+Art. 157. - Possono iscriversi alla scuola speciale: i laureati in lettere e filosofia, gli studenti della stessa facolta' che abbiano compiuto il secondo anno del corso di laurea in lettere o del corso di laurea in filosofia, e ne abbiano superato tutti gli esami consigliati, nonche', limitatamente all'indirizzo preistorico, i laureati in scienze naturali e in scienze geologiche.
 
-Botanica............................................. 90
+L'iscrizione alla scuola da parte degli studenti si puo' conseguire mediante una prova di esame di ammissione sostenuta davanti al consiglio della scuola e vertente su almeno cinque delle discipline oggetto degli insegnamenti impartiti nella scuola.
 
-Metodi matematici applicati alle scienze biologiche
+Art. 158. - Gli iscritti alla scuola sono tenuti a versare le tasse, sopratasse e contributi secondo le disposizioni vigenti della facolta' di lettere e filosofia.
 
-(bio-matematica)........................................ 30
+Art. 159. - Il direttore della scuola speciale e' il professore di ruolo titolare docente di archeologia e storia dell'arte greca e romana presso la facolta' di lettere e filosofia dell'Universita' di Pisa, e direttore del relativo istituto.
 
-Anatomia veterinaria sistematica e comparata I....... 100
+Quando la cattedra non sia coperta da un professore di ruolo, il direttore e' nominato per un anno accademico dal rettore fra i professori di ruolo della facolta' di lettere e filosofia, su designazione della facolta' stessa.
 
-Anatomia veterinaria sistematica e comparata II...... 100
+Il direttore della scuola speciale puo' proporre al rettore la nomina di un insegnante della scuola a vice direttore, con incarico di coadiuvarlo.
 
-Anatomia topografica veterinaria..................... 60
+Art. 160. - Gli insegnanti della scuola speciale sono proposti annualmente dal direttore all'approvazione del consiglio della facolta' di lettere e filosofia. Il direttore puo' scegliere gli insegnanti tra i professori di ruolo e fuori ruolo, aggregati, liberi docenti, gli aiuti ed assistenti, i soprintendenti, direttori ed ispettori delle soprintendenze alle antichita', nonche' tra persone di riconosciuta competenza nelle rispettive specialita'. Alle nomine provvede il rettore.
 
-Teratologia.......................................... 60
+Il consiglio della scuola e' composto da tutti i docenti che vi insegnano.
 
-Istologia generale e speciale (anatomia microscopica) 70
+Art. 161. - L'ordine degli studi della scuola e' il seguente:
 
-Embriologia.......................................... 50
+a) indirizzo preistorico Paletnologia (biennale); Geologia del quaternario;
 
-Fisiologia generale e speciale veterinaria I e fisica
+Storia dei climi del Pleistocene e dell'Olocene; Paleontologia dei vertebrati; Tecnica del restauro; Tecnica di scavo con esercitazioni sperimentali; Tecniche sussidiarie dell'archeologia (biennale); Legislazione ed amministrazione archeologica;
 
-biologica............................................... 100
+Paleoantropologia; Protostoria; Archeologia classica;
 
-Fisiologia generale e speciale veterinaria II e fisi-
+Fotointerpretazione aerea; Esercitazioni di tipologia paletnologica.
 
-ca biologica............................................ 100
+b) indirizzo classico Archeologia e storia dell'arte greca e romana (biennale); Etruscologia e antichita' italiche (biennale);
 
-Biochimica........................................... 100
+Storia greca; Antichita' orientali; Topografia dell'Italia antica;
 
-Zootecnia I: igiene, aspetti esteriori degli animali,
+Paletnologia; Tecnica di scavo archeologico con esercitazioni sperimentali; Tecnica del restauro; Legislazione di amministrazione archeologica; Storia romana; Epigrafia greca; Numismatica classica;
 
-etnologia............................................... 70
+Fotointerpretazione aerea; Tecniche sussidiarie dell'archeologia.
 
-Zootecnia II: genetica e allevamento................. 100
+c) indirizzo medioevale Archeologia medioevale (biennale); Storia medioevale (biennale); Storia romana; Topografia dell'Italia antica;
 
-Alimentazione e nutrizione animale................... 130
+Epigrafia medioevale; Tecnica di scavo archeologico con esercitazioni sperimentali; Legislazione ed amministrazione archeologica;
 
-Economia rurale e agronomia.......................... 30
+Archeologia romana; Antichita' medioevali; Numismatica medioevale;
 
-Farmacologia e farmacodinamia veterinaria............ 50
+Fotointerpretazioni aeree; Tecniche sussidiarie dell'archeologia.
 
-Farmacia e terapeutica generale veterinaria.......... 50
+Tutti gli insegnamenti, dove non sia altrimenti indicato, sono annuali.
 
-Tossicologia veterinaria............................. 50
+La scuola oltre ai precedenti puo' istituire corsi di lezioni, conferenze ed esercitazioni affidati a competenti per settori particolari e per ogni altra specializzazione attinente alla preparazione professionale.
 
-Anatomia patologica veterinaria generale e speciale I 75
+Di ognuno degli insegnamenti sono integrative le attivita' sperimentali tra le quali vanno particolarmente considerati la catalogazione, il disegno, la fotografia.
 
-Anatomia patologica veterinaria generale e speciale
+Gli insegnamenti, le esercitazioni e la partecipazione alle attivita' sperimentali si svolgono presso l'istituto di archeologia e storia dell'arte greca romana dell'Universita' di Pisa, presso il centro di geologia nucleare della facolta' di scienze dell'Universita' di Pisa, nonche' presso la soprintendenza alle antichita' dell'Etruria di Firenze (museo archeologico dell'Etruria).
 
-II...................................................... 75
+Nel biennio di studi e' previsto un periodo minimo di tre mesi riservato a un servizio volontario prestato dagli iscritti presso la detta soprintendenza.
 
-Autopsie............................................. 50
+Art. 162. - Al termine di ogni anno di corso verra' rilasciato un certificato di frequenza; la preparazione degli iscritti alla scuola verra' accertata con un colloquio relativo ad ogni singolo insegnamento seguito nell'anno.
 
-Propedeutica I: semeiologia medica veterinaria e me
+Il diploma e' conferito agli iscritti sulla base dei colloqui anzidetti e dopo un esame generale sostenuto davanti al consiglio della scuola.
 
-todologia clinica....................................... 60
-
-Propedeutica II: semeiologia chirurgica veterinaria e
-
-metodologia clinica..................................... 60
-
-Patologia generale veterinaria....................... 50
-
-Microbiologia generale veterinaria (batteriologia,
-
-virologia, immunologia)................................. 60
-
-Patologia e profilassi delle malattie infettive degli
-
-animali domestici I..................................... 70
-
-Patologia e profilassi delle malattie infettive degli
-
-animali domestici II.................................... 70
-
-Parassitologia (compresa micologia, protozoologia,
-
-entomologia, elmintologia).............................. 60
-
-Malattie parassitarie degli animali domestici........ 40
-
-Polizia sanitaria.................................... 30
-
-Medicina legale veterinaria, legislazione veterinaria
-
-e deontologia........................................... 30
-
-Patologia medica degli animali domestici (ruminanti
-
-equidi, carnivori, suini, pollame, conigli, ecc.)....... 150
-
-Ostetricia veterinaria............................... 80
-
-Patologia chirurgica veterinaria e podologia......... 80
-
-Patologia della riproduzione e fecondazione artifi
-
-ciale................................................... 70
-
-Medicina operatoria veterinaria...................... 70
-
-Ispezione e controllo delle derrate alimentari di
-
-origine animale (carni, latte, pesci, uova, ecc.) I..... 80
-
-Ispezione e controllo delle derrate alimentari di
-
-origine animale (carni, latte, pesci, uova, ecc.) II.... 70
-
-Lavori pratici nei macelli........................... 50
-
-Clinica medica veterinaria........................... 375
-
-Clinica chirurgica veterinaria....................... 375
-
-Clinica ostetrica e ginecologica veterinaria......... 250
-
-Patologia aviare..................................... 100
-
-Radiologia veterinaria............................... 50
-
-Le 190 ore che restano per raggiungere il numero previsto di 4500 dovranno essere ripartite fra tre insegnamenti complementari scelti dallo studente nel seguente elenco:
-
-Insegnamenti complementari:
-
-Anestesiologia;
-
-Approvvigionamenti annonari, mercati ed industrie degli alimenti di origine animale;
-
-Diagnostica di laboratorio;
-
-Ecologia;
-
-Ematologia clinica comparata;
-
-Endocrinologia degli animali domestici;
-
-Etnografia;
-
-Fisioclimatologia;
-
-Idrobiologia e pescicoltura;
-
-Igiene del latte;
-
-Igiene e controllo dei prodotti della pesca;
-
-Istituzioni di matematica;
-
-Istologia patologica;
-
-Ittiopatologia;
-
-Lingua straniera;
-
-Oftalmologia comparata;
-
-Patologia bovina;
-
-Patologia tropicale veterinaria;
-
-Storia della medicina veterinaria;
-
-Tecnica conserviera;
-
-Tecnica mangimistica;
-
-Tecnologia avicola;
-
-Virologia;
-
-Zooculture;
-
-Profilassi delle malattie parassitarie e degli animali domestici.
-
-Art. 138. - Gli istituti didattici e sperimentali appartenenti alla facolta' di medicina veterinaria sono i seguenti:
-
-Istituto di anatomia ed istologia degli animali domestici;
-
-Istituto di patologia generale, anatomia patologica ed ispezione degli alimenti;
-
-Istituto di zootecnica e zoognostica;
-
-Istituto di patologia speciale, clinica medica e polizia sanitaria;
-
-Istituto di patologia speciale e clinica chirurgica;
-
-Istituto di parassitologia;
-
-Istituto di fisiologia generale e speciale degli animali domestici e chimica biologica.
-
-Art. 139. - Gli insegnamenti di anatomia sistematica e comparata I e teratologia, di fisiologia generale e speciale I, di anatomia patologica generale e speciale I e autopsie, di patologia e profilassi delle malattie infettive I, di ispezione e controllo delle derrate alimentari di origine animale I, comportano alla fine dell'anno un esame sul programma svolto.
-
-Gli insegnamenti di clinica medica, di clinica chirurgica, del gruppo zootecnica I e II e di ispezione e controllo delle derrate alimentari di origine animale debbono essere completati da un tirocinio pratico complessivo e continuativo di almeno sei mesi, presso gli istituti delle facolta' di medicina veterinaria, presso le stazioni sperimentali zooprofilattiche, presso gli istituti zootecnici del Ministero dell'agricoltura e delle foreste e delle amministrazioni provinciali, o presso macelli riconosciuti dalle facolta' di medicina veterinaria. Il tirocinio deve essere iniziato dopo la chiusura dei corsi di insegnamento del V anno e compiuto prima che i giovani si presentino a sostenere l'esame di abilitazione all'esercizio professionale.
-
-Il periodo semestrale di tirocinio pratico e' utilizzabile ai fini del raggiungimento del numero delle ore richieste per gli insegnamenti clinici.
-
-L'insegnamento di zootecnia I: igiene, aspetti esteriori degli animali, etnologia, corrisponde a quelli di zootecnia speciale e di zoognostica del precedente regolamento; l'insegnamento di zootecnia II: genetica ed allevamento, corrisponde a quello di zootecnia generale del precedente regolamento.
-
-Il consiglio di facolta', in ragione delle esigenze didattiche relative alla propedeuticita' di alcune materie dello stesso anno di corso, puo' autorizzare lo svolgimento di corsi intensivi con esami finali durante l'anno accademico.
-
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami negli insegnamenti fondamentali ed in tre altri insegnamenti da lui scelti fra i complementari.
-
-Art. 140. - Agli effetti della iscrizione, e rispettivamente anche degli esami, sono da considerarsi materie propedeutiche:
-
-a) la fisica, la chimica, la zoologia, la botanica, la istologia generale e speciale, l'embriologia rispetto alla anatomia sistematica e comparata;
-
-b) la fisica, la chimica, la biochimica, l'anatomia sistematica e comparata, rispetto alla fisiologia generale e speciale;
-
-c) la patologia generale rispetto all'anatomia patologica generale e speciale;
-
-d) la propedeutica: 1) semeiologia medica e metodologia clinica, e la patologia medica degli animali domestici rispetto alla clinica medica;
-
-e) la propedeutica: 2) semeiologia chirurgica e metodologia clinica, la patologia chirurgica e podologia, e la medicina operatoria rispetto alla clinica chirurgica;
-
-f) l'ostetricia, la patologia della riproduzione e fecondazione artificiale rispetto alla clinica ostetrica e ginecologica;
-
-g) la microbiologia generale rispetto alla patologia e profilassi delle malattie infettive.
-
-Lo studente puo' richiedere ed essere ammesso a sostenere un esame di gruppo per materie affini in numero non superiore a tre.
-
-I laureati e gli studenti iscritti di altri corsi di laurea possono essere ammessi, previa valutazione della carriera universitaria seguita, ad un anno successivo al primo; il consiglio di facolta' decide, caso per caso, la convalida degli insegnamenti e degli esami sostenuti.
-
-Art. 141. - L'esame di laurea consiste nella discussione di una dissertazione scritta sopra un argomento inerente gli insegnamenti del corso di laurea. L'argomento della dissertazione deve avere l'approvazione del docente della materia.
-
-Norma transitoria
-
-Gli studenti del corso di laurea in medicina veterinaria, all'atto dell'entrata in vigore delle suddette modifiche di statuto, possono optare per il corso di laurea in quattro o cinque anni. All'uopo debbono presentare regolare domanda per integrare gli esami secondo quanto stabilira' caso per caso il consiglio di facolta'.
+Art. 163. - Agli iscritti possono essere conferiti dal consiglio della scuola borse ed assegni di studio. Il consiglio determina il numero e la misura delle borse e degli assegni di studio in relazione alle disponibilita' finanziarie nonche' la modalita' di conferimento.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 28 gennaio 1972
+Dato a Roma, addi' 31 ottobre 1967
 
-LEONE
+SARAGAT
 
-MISASI
+GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 14 marzo 1972 Atti del Governo, registro n. 247, foglio n. 127. - VALENTINI
+alla Corte dei conti, addi' 22 febbraio 1968 Atti del Governo, registro n. 217, foglio n. 98. - GRECO
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Gli articoli 136, 137, 138, 139, 140, 141, relativi alla facolta' di medicina veterinaria sono abrogati e sostituiti dai seguenti:   
+Dopo l'art. 153 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli, relativi alla istituzione della scuola speciale per archeologi preistorici, classici e medioevalisti annessa alla facolta' di lettere e filosofia.  
   
-FACOLTA' DI MEDICINA VETERINARIA   
-  
-Art. 136. - La facolta' di medicina veterinaria conferisce:   
-a) la laurea in medicina, veterinaria;   
-b) la laurea in scienze della produzione animale.   
-Art. 137. - Il corso di laurea in medicina veterinaria si effettua mediante un ciclo di studi della durata di cinque anni, diviso in un periodo propedeutico durante il quale viene impartito l'insegnamento di base teorico e pratico, ed in un periodo dedicato all'insegnamento veterinario specifico.   
-E' titolo di ammissione al corso di laurea in medicina veterinaria quello previsto dalle vigenti disposizioni di legge.   
-I cinque anni di studio comportano l'insegnamento teorico e pratico, con esercitazioni e seminari, in non meno di quattromilacinquecento ore relative alle materie di base ed alle materie veterinarie specifiche, appresso indicate, e a non meno di tre insegnamenti complementari integrativi scelti dallo studente fra quelli elencati in un successivo paragrafo.   
-  
-  
-Numero minimo di ore  
-Insegnamenti fondamentali:  
-Fisica............................................... 120  
-Chimica I............................................ 100  
-Chimica II........................................... 100  
-Zoologia............................................. 120  
-Botanica............................................. 90  
-Metodi matematici applicati alle scienze biologiche  
-(bio-matematica)........................................ 30  
-Anatomia veterinaria sistematica e comparata I....... 100  
-Anatomia veterinaria sistematica e comparata II...... 100  
-Anatomia topografica veterinaria..................... 60  
-Teratologia.......................................... 60  
-Istologia generale e speciale (anatomia microscopica) 70  
-Embriologia.......................................... 50  
-Fisiologia generale e speciale veterinaria I e fisica  
-biologica............................................... 100  
-Fisiologia generale e speciale veterinaria II e fisi-  
-ca biologica............................................ 100  
-Biochimica........................................... 100  
-Zootecnia I: igiene, aspetti esteriori degli animali,  
-etnologia............................................... 70  
-Zootecnia II: genetica e allevamento................. 100  
-Alimentazione e nutrizione animale................... 130  
-Economia rurale e agronomia.......................... 30  
-Farmacologia e farmacodinamia veterinaria............ 50  
-Farmacia e terapeutica generale veterinaria.......... 50  
-Tossicologia veterinaria............................. 50  
-Anatomia patologica veterinaria generale e speciale I 75  
-Anatomia patologica veterinaria generale e speciale  
-II...................................................... 75  
-Autopsie............................................. 50  
-Propedeutica I: semeiologia medica veterinaria e me  
-todologia clinica....................................... 60  
-Propedeutica II: semeiologia chirurgica veterinaria e  
-metodologia clinica..................................... 60  
-Patologia generale veterinaria....................... 50  
-Microbiologia generale veterinaria (batteriologia,  
-virologia, immunologia)................................. 60  
-Patologia e profilassi delle malattie infettive degli  
-animali domestici I..................................... 70  
-Patologia e profilassi delle malattie infettive degli  
-animali domestici II.................................... 70  
-Parassitologia (compresa micologia, protozoologia,  
-entomologia, elmintologia).............................. 60  
-Malattie parassitarie degli animali domestici........ 40  
-Polizia sanitaria.................................... 30  
-Medicina legale veterinaria, legislazione veterinaria  
-e deontologia........................................... 30  
-Patologia medica degli animali domestici (ruminanti  
-equidi, carnivori, suini, pollame, conigli, ecc.)....... 150  
-Ostetricia veterinaria............................... 80  
-Patologia chirurgica veterinaria e podologia......... 80  
-Patologia della riproduzione e fecondazione artifi  
-ciale................................................... 70  
-Medicina operatoria veterinaria...................... 70  
-Ispezione e controllo delle derrate alimentari di  
-origine animale (carni, latte, pesci, uova, ecc.) I..... 80  
-Ispezione e controllo delle derrate alimentari di  
-origine animale (carni, latte, pesci, uova, ecc.) II.... 70  
-Lavori pratici nei macelli........................... 50  
-Clinica medica veterinaria........................... 375  
-Clinica chirurgica veterinaria....................... 375  
-Clinica ostetrica e ginecologica veterinaria......... 250  
-Patologia aviare..................................... 100  
-Radiologia veterinaria............................... 50  
-  
-  
-Le 190 ore che restano per raggiungere il numero previsto di 4500 dovranno essere ripartite fra tre insegnamenti complementari scelti dallo studente nel seguente elenco:   
-Insegnamenti complementari:   
-Anestesiologia;   
-Approvvigionamenti annonari, mercati ed industrie degli alimenti di origine animale;   
-Diagnostica di laboratorio;   
-Ecologia;   
-Ematologia clinica comparata;   
-Endocrinologia degli animali domestici;   
-Etnografia;   
-Fisioclimatologia;   
-Idrobiologia e pescicoltura;   
-Igiene del latte;   
-Igiene e controllo dei prodotti della pesca;   
-Istituzioni di matematica;   
-Istologia patologica;   
-Ittiopatologia;   
-Lingua straniera;   
-Oftalmologia comparata;   
-Patologia bovina;   
-Patologia tropicale veterinaria;   
-Storia della medicina veterinaria;   
-Tecnica conserviera;   
-Tecnica mangimistica;   
-Tecnologia avicola;   
-Virologia;   
-Zooculture;   
-Profilassi delle malattie parassitarie e degli animali domestici.   
-Art. 138. - Gli istituti didattici e sperimentali appartenenti alla facolta' di medicina veterinaria sono i seguenti:   
-Istituto di anatomia ed istologia degli animali domestici;   
-Istituto di patologia generale, anatomia patologica ed ispezione degli alimenti;   
-Istituto di zootecnica e zoognostica;   
-Istituto di patologia speciale, clinica medica e polizia sanitaria;   
-Istituto di patologia speciale e clinica chirurgica;   
-Istituto di parassitologia;   
-Istituto di fisiologia generale e speciale degli animali domestici e chimica biologica.   
-Art. 139. - Gli insegnamenti di anatomia sistematica e comparata I e teratologia, di fisiologia generale e speciale I, di anatomia patologica generale e speciale I e autopsie, di patologia e profilassi delle malattie infettive I, di ispezione e controllo delle derrate alimentari di origine animale I, comportano alla fine dell'anno un esame sul programma svolto.   
-Gli insegnamenti di clinica medica, di clinica chirurgica, del gruppo zootecnica I e II e di ispezione e controllo delle derrate alimentari di origine animale debbono essere completati da un tirocinio pratico complessivo e continuativo di almeno sei mesi, presso gli istituti delle facolta' di medicina veterinaria, presso le stazioni sperimentali zooprofilattiche, presso gli istituti zootecnici del Ministero dell'agricoltura e delle foreste e delle amministrazioni provinciali, o presso macelli riconosciuti dalle facolta' di medicina veterinaria. Il tirocinio deve essere iniziato dopo la chiusura dei corsi di insegnamento del V anno e compiuto prima che i giovani si presentino a sostenere l'esame di abilitazione all'esercizio professionale.   
-Il periodo semestrale di tirocinio pratico e' utilizzabile ai fini del raggiungimento del numero delle ore richieste per gli insegnamenti clinici.   
-L'insegnamento di zootecnia I: igiene, aspetti esteriori degli animali, etnologia, corrisponde a quelli di zootecnia speciale e di zoognostica del precedente regolamento; l'insegnamento di zootecnia II: genetica ed allevamento, corrisponde a quello di zootecnia generale del precedente regolamento.   
-Il consiglio di facolta', in ragione delle esigenze didattiche relative alla propedeuticita' di alcune materie dello stesso anno di corso, puo' autorizzare lo svolgimento di corsi intensivi con esami finali durante l'anno accademico.   
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami negli insegnamenti fondamentali ed in tre altri insegnamenti da lui scelti fra i complementari.   
-Art. 140. - Agli effetti della iscrizione, e rispettivamente anche degli esami, sono da considerarsi materie propedeutiche:   
-a) la fisica, la chimica, la zoologia, la botanica, la istologia generale e speciale, l'embriologia rispetto alla anatomia sistematica e comparata;   
-b) la fisica, la chimica, la biochimica, l'anatomia sistematica e comparata, rispetto alla fisiologia generale e speciale;   
-c) la patologia generale rispetto all'anatomia patologica generale e speciale;   
-d) la propedeutica: 1) semeiologia medica e metodologia clinica, e la patologia medica degli animali domestici rispetto alla clinica medica;   
-e) la propedeutica: 2) semeiologia chirurgica e metodologia clinica, la patologia chirurgica e podologia, e la medicina operatoria rispetto alla clinica chirurgica;   
-f) l'ostetricia, la patologia della riproduzione e fecondazione artificiale rispetto alla clinica ostetrica e ginecologica;   
-g) la microbiologia generale rispetto alla patologia e profilassi delle malattie infettive.   
-Lo studente puo' richiedere ed essere ammesso a sostenere un esame di gruppo per materie affini in numero non superiore a tre.   
-I laureati e gli studenti iscritti di altri corsi di laurea possono essere ammessi, previa valutazione della carriera universitaria seguita, ad un anno successivo al primo; il consiglio di facolta' decide, caso per caso, la convalida degli insegnamenti e degli esami sostenuti.   
-Art. 141. - L'esame di laurea consiste nella discussione di una dissertazione scritta sopra un argomento inerente gli insegnamenti del corso di laurea. L'argomento della dissertazione deve avere l'approvazione del docente della materia.   
-  
-Norma transitoria   
-  
-Gli studenti del corso di laurea in medicina veterinaria, all'atto dell'entrata in vigore delle suddette modifiche di statuto, possono optare per il corso di laurea in quattro o cinque anni. All'uopo debbono presentare regolare domanda per integrare gli esami secondo quanto stabilira' caso per caso il consiglio di facolta'.   
+Scuola speciale per archeologi preistorici, classici e medioevalisti  
+Art. 154. - E' istituita una scuola speciale per archeologi preistorici, classici e medioevalisti annessa alla facolta' di lettere e filosofia dell'Universita' di Pisa, ai sensi dell'art. 20, comma terzo, lettera A, del testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592).  
+Essa e' destinata a promuovere l'incremento, scientifico delle discipline archeologiche curando in particolare la preparazione tecnica e professionale necessaria allo svolgimento delle funzioni del ruolo direttivo nell'amministrazione delle antichita' e belle arti.  
+Art. 155. - La scuola consta dei seguenti indirizzi di studio:  
+a) preistorico;  
+b) classico;  
+c) medioevale.  
+Art. 156. - I corsi, della durata di un biennio, comprendono insegnamenti teorici e sperimentali ed esercitazioni comuni e sono distinti secondo gli indirizzi di studio di cui all'art. 155.  
+I corsi danno adito al conferimento, relativamente agli indirizzi sopra enunciati, al diploma in:  
+a) archeologia preistorica;  
+b) archeologia classica;  
+c) archeologia medioevale.  
+Art. 157. - Possono iscriversi alla scuola speciale: i laureati in lettere e filosofia, gli studenti della stessa facolta' che abbiano compiuto il secondo anno del corso di laurea in lettere o del corso di laurea in filosofia, e ne abbiano superato tutti gli esami consigliati, nonche', limitatamente all'indirizzo preistorico, i laureati in scienze naturali e in scienze geologiche.  
+L'iscrizione alla scuola da parte degli studenti si puo' conseguire mediante una prova di esame di ammissione sostenuta davanti al consiglio della scuola e vertente su almeno cinque delle discipline oggetto degli insegnamenti impartiti nella scuola.  
+Art. 158. - Gli iscritti alla scuola sono tenuti a versare le tasse, sopratasse e contributi secondo le disposizioni vigenti della facolta' di lettere e filosofia.  
+Art. 159. - Il direttore della scuola speciale e' il professore di ruolo titolare docente di archeologia e storia dell'arte greca e romana presso la facolta' di lettere e filosofia dell'Universita' di Pisa, e direttore del relativo istituto.  
+Quando la cattedra non sia coperta da un professore di ruolo, il direttore e' nominato per un anno accademico dal rettore fra i professori di ruolo della facolta' di lettere e filosofia, su designazione della facolta' stessa.  
+Il direttore della scuola speciale puo' proporre al rettore la nomina di un insegnante della scuola a vice direttore, con incarico di coadiuvarlo.  
+Art. 160. - Gli insegnanti della scuola speciale sono proposti annualmente dal direttore all'approvazione del consiglio della facolta' di lettere e filosofia. Il direttore puo' scegliere gli insegnanti tra i professori di ruolo e fuori ruolo, aggregati, liberi docenti, gli aiuti ed assistenti, i soprintendenti, direttori ed ispettori delle soprintendenze alle antichita', nonche' tra persone di riconosciuta competenza nelle rispettive specialita'. Alle nomine provvede il rettore.  
+Il consiglio della scuola e' composto da tutti i docenti che vi insegnano.  
+Art. 161. - L'ordine degli studi della scuola e' il seguente:  
+a) indirizzo preistorico Paletnologia (biennale); Geologia del quaternario;  
+Storia dei climi del Pleistocene e dell'Olocene; Paleontologia dei vertebrati; Tecnica del restauro; Tecnica di scavo con esercitazioni sperimentali; Tecniche sussidiarie dell'archeologia (biennale); Legislazione ed amministrazione archeologica;  
+Paleoantropologia; Protostoria; Archeologia classica;  
+Fotointerpretazione aerea; Esercitazioni di tipologia paletnologica.  
+b) indirizzo classico Archeologia e storia dell'arte greca e romana (biennale); Etruscologia e antichita' italiche (biennale);  
+Storia greca; Antichita' orientali; Topografia dell'Italia antica;  
+Paletnologia; Tecnica di scavo archeologico con esercitazioni sperimentali; Tecnica del restauro; Legislazione di amministrazione archeologica; Storia romana; Epigrafia greca; Numismatica classica;  
+Fotointerpretazione aerea; Tecniche sussidiarie dell'archeologia.  
+c) indirizzo medioevale Archeologia medioevale (biennale); Storia medioevale (biennale); Storia romana; Topografia dell'Italia antica;  
+Epigrafia medioevale; Tecnica di scavo archeologico con esercitazioni sperimentali; Legislazione ed amministrazione archeologica;  
+Archeologia romana; Antichita' medioevali; Numismatica medioevale;  
+Fotointerpretazioni aeree; Tecniche sussidiarie dell'archeologia.  
+Tutti gli insegnamenti, dove non sia altrimenti indicato, sono annuali.  
+La scuola oltre ai precedenti puo' istituire corsi di lezioni, conferenze ed esercitazioni affidati a competenti per settori particolari e per ogni altra specializzazione attinente alla preparazione professionale.  
+Di ognuno degli insegnamenti sono integrative le attivita' sperimentali tra le quali vanno particolarmente considerati la catalogazione, il disegno, la fotografia.  
+Gli insegnamenti, le esercitazioni e la partecipazione alle attivita' sperimentali si svolgono presso l'istituto di archeologia e storia dell'arte greca romana dell'Universita' di Pisa, presso il centro di geologia nucleare della facolta' di scienze dell'Universita' di Pisa, nonche' presso la soprintendenza alle antichita' dell'Etruria di Firenze (museo archeologico dell'Etruria).  
+Nel biennio di studi e' previsto un periodo minimo di tre mesi riservato a un servizio volontario prestato dagli iscritti presso la detta soprintendenza.  
+Art. 162. - Al termine di ogni anno di corso verra' rilasciato un certificato di frequenza; la preparazione degli iscritti alla scuola verra' accertata con un colloquio relativo ad ogni singolo insegnamento seguito nell'anno.  
+Il diploma e' conferito agli iscritti sulla base dei colloqui anzidetti e dopo un esame generale sostenuto davanti al consiglio della scuola.  
+Art. 163. - Agli iscritti possono essere conferiti dal consiglio della scuola borse ed assegni di studio. Il consiglio determina il numero e la misura delle borse e degli assegni di studio in relazione alle disponibilita' finanziarie nonche' la modalita' di conferimento.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 gennaio 1972
+### Dato a Roma, addi' 31 ottobre 1967
 
-LEONE MISASI
+SARAGAT GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 14 marzo 1972
+Registrato alla Corte dei conti, addi' 22 febbraio 1968
 
-Atti del Governo, registro n. 247, foglio n. 127. - VALENTINI
+Atti del Governo, registro n. 217, foglio n. 98. - GRECO

@@ -1,87 +1,19 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1966 n. 1098
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1952 n. 4542
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1966 n. 1098
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1952 n. 4542
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Dopo l'art. 168 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione del corso teorico-pratico per il personale ausiliario dei servizi pubblici di igiene e profilassi.
-
-Corso teorico-pratico per il personale ausiliario dei servizi pubblici di igiene e profilassi (Scuola diretta a fini speciali)
-
-Art. 169. - Nella Facolta' di medicina e chirurgia, con sede presso l'istituto di igiene, e' istituito un corso teorico-pratico di preparazione e addestramento per il personale tecnico ausiliario addetto ai servizi pubblici di igiene e profilassi.
-
-Art. 170. - Detto corso ha la durata di un anno e la frequenza e' obbligatoria.
-
-Art. 171. - Sono ammessi alla frequenza i giovani in eta' tra i 18 ed i 28 anni compiuti, in numero non superiore a 25, che risultino in possesso di regolare diploma di scuola media di secondo grado. Si prescinde dai limiti di eta' per tutti coloro che prestino servizio di ruolo presso pubbliche Amministrazioni.
-
-Art. 172. - Le materie di insegnamento sono le seguenti:
-
-1) Nozioni fondamentali di fisiologia umana, di microbiologia generale, di immunologia, di parassitologia e di statistica sanitaria;
-
-2) Igiene generale;
-
-3) Epidemiologia e profilassi generale delle malattie infettive e di quelle non infettive di interesse sociale;
-
-4) Igiene dell'alimentazione e degli alimenti;
-
-5) Nozioni fondamentali di diritto amministrativo, civile, penale e sanitario.
-
-Le lezioni teoriche sono integrate da esercitazioni pratiche sia a carattere dimostrativo, comprese le campionature, sia a carattere di visite ad impianti sanitari ed igienici cittadini ed extraurbani e ad uffici e laboratori di igiene comunali, provinciali, regionali e statali.
-
-Art. 173. - Alla fine del corso gli allievi dovranno sostenere una prova scritta, una prova orale ed una prova pratica sulle materie del programma.
-
-Agli allievi che avranno ottenuto l'approvazione da parte della Commissione giudicatrice, verra' rilasciato un attestato finale di frequenza e profitto.
-
-Art. 174. - Al presente corso, in quanto compatibili, si applicheranno le disposizioni generali vigenti per le scuole di specializzazione della Facolta' di medicina e chirurgia, con particolare riferimento agli articoli 77, 87, 89 e 90 dello statuto.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 24 ottobre 1966
-
-SARAGAT
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 14 dicembre 1966 Atti del Governo, registro n. 208, foglio n. 10. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regi decreti 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1743) e [26 marzo 1942, n. 328, con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-03-26;328) [22 ottobre 1946, n. 398 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1946-10-22;398) [30 ottobre 1949, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1027); [11 aprile 1951, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;565) e [23 gennaio 1952, n. 365](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-01-23;365);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
@@ -93,32 +25,22 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Dopo l'art. 168 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione del corso teorico-pratico per il personale ausiliario dei servizi pubblici di igiene e profilassi.  
-Corso teorico-pratico per il personale ausiliario dei servizi pubblici di igiene e profilassi (Scuola diretta a fini speciali)  
-Art. 169. - Nella Facolta' di medicina e chirurgia, con sede presso l'istituto di igiene, e' istituito un corso teorico-pratico di preparazione e addestramento per il personale tecnico ausiliario addetto ai servizi pubblici di igiene e profilassi.  
-Art. 170. - Detto corso ha la durata di un anno e la frequenza e' obbligatoria.  
-Art. 171. - Sono ammessi alla frequenza i giovani in eta' tra i 18 ed i 28 anni compiuti, in numero non superiore a 25, che risultino in possesso di regolare diploma di scuola media di secondo grado. Si prescinde dai limiti di eta' per tutti coloro che prestino servizio di ruolo presso pubbliche Amministrazioni.  
-Art. 172. - Le materie di insegnamento sono le seguenti:  
-1) Nozioni fondamentali di fisiologia umana, di microbiologia generale, di immunologia, di parassitologia e di statistica sanitaria;  
-2) Igiene generale;  
-3) Epidemiologia e profilassi generale delle malattie infettive e di quelle non infettive di interesse sociale;  
-4) Igiene dell'alimentazione e degli alimenti;  
-5) Nozioni fondamentali di diritto amministrativo, civile, penale e sanitario.  
-Le lezioni teoriche sono integrate da esercitazioni pratiche sia a carattere dimostrativo, comprese le campionature, sia a carattere di visite ad impianti sanitari ed igienici cittadini ed extraurbani e ad uffici e laboratori di igiene comunali, provinciali, regionali e statali.  
-Art. 173. - Alla fine del corso gli allievi dovranno sostenere una prova scritta, una prova orale ed una prova pratica sulle materie del programma.  
-Agli allievi che avranno ottenuto l'approvazione da parte della Commissione giudicatrice, verra' rilasciato un attestato finale di frequenza e profitto.  
-Art. 174. - Al presente corso, in quanto compatibili, si applicheranno le disposizioni generali vigenti per le scuole di specializzazione della Facolta' di medicina e chirurgia, con particolare riferimento agli articoli 77, 87, 89 e 90 dello statuto.  
+L'art. 20 e' sostituito dal seguente:  
+Alla Facolta' di giurisprudenza sono annessi i seguenti Istituti:  
+Istituto di diritto pubblico, Istituto di diritto privato e procedura civile, Istituto di diritto romano e storia del diritto, Istituto di filosofia del diritto, Istituto di scienze economiche e finanziarie. Tali Istituti funzioneranno come seminari agli effetti delle vigenti disposizioni.  
+I lavori degli Istituti consistono in discussioni su singoli temi, in ricerche bibliografiche e di giurisprudenza, in rilievi ed elaborazioni di dati economici e statistici, in esercitazioni e in quanto altro possa concorrere alla migliore preparazione dottrinale e professionale di coloro che li frequentano.  
+Gli Istituti sono diretti ciascuno da un professore di ruolo nominato dal Consiglio della facolta' e funzionano in conformita' di un regolamento da esso stabilito.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 ottobre 1966
+### Dato a Roma, addi' 26 ottobre 1952
 
-SARAGAT GUI
+EINAUDI SEGNI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: ZOLI
 
-Registrato alla Corte dei conti, addi' 14 dicembre 1966
+Registrato alla Corte dei conti, addi' 22 aprile 1953
 
-Atti del Governo, registro n. 208, foglio n. 10. - VILLA
+Atti del Governo, registro n. 76, foglio n. 33. - PALLA

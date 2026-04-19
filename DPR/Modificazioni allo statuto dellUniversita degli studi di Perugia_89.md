@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 settembre 1968 n. 1081
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1963 n. 610
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 settembre 1968 n. 1081
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1963 n. 610
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 -------------------------------------------------------------------
@@ -12,85 +12,131 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Perugia approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471) e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, numero 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sentito il parere del Consiglio superiore della pubblica; istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 28. - Nel corso di laurea in lettere l'insegnamento complementare di "Letteratura italiana moderna e contemporanea" muta denominazione in quella di "Storia della letteratura italiana moderna e contemporanea".  
-Art. 29. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia e' aggiunto il seguente:  
   
-Storia della scienza.  
+Art. 36. - Agli insegnamenti complementari del corso di laurea in Farmacia sono aggiunti quelli di:  
+10) Chimica farmaceutica applicata;  
+11) Microbiologia industriale farmaceutica.  
   
-Art. 31. - All'elenco degli insegnamenti fondamentali del corso di laurea in lingue e letterature straniere moderne (indirizzo europeo) la denominazione dell'insegnamento di "Filologia romanza (o germanica, o ugro-finnica)" e' rettificata in quella di "Filologia romanza, (o germanica, o slava, o ugro-finnica)".  
-Nel predetto corso di laurea l'insegnamento complementare di "Lingua e letteratura latina medioevale" muta denominazione in quella di "Storia della letteratura latina medioevale".  
-Art. 59, relativo alla facolta' di scienze matematiche, fisiche e naturali e' abrogato e sostituito dal seguente:  
-"La facolta' di scienze matematiche, fisiche e naturali conferisce le lauree in scienze naturali, in scienze biologiche, in chimica, in matematica.  
-Alla facolta' e' annesso il biennio propedeutico agli studi di ingegneria. La durata del corso degli studi e' di anni quattro per le lauree in scienze naturali, in scienze biologiche ed in matematica e di cinque anni per la laurea in chimica.  
-Sono titoli di ammissione per i corsi di laurea in scienze naturali, in scienze biologiche, in chimica e in matematica il diploma di maturita' classica o scientifica, o il diploma di abilitazione per i provenienti dagli istituti tecnici industriali, nautici, agrari, per geometri e, limitatamente ai corsi di laurea in scienze naturali, in scienze biologiche e in chimica, dagli istituti tecnici femminili.  
-Sono titoli di ammissione al biennio propedeutico agli studi di ingegneria, il diploma di maturita' classica, o scientifica, o il diploma di abilitazione per i provenienti dagli istituti tecnici industriali, nautici e per geometri.  
-Art. 70, relativo al corso di laurea in matematica, il primo comma e' abrogato e sostituito dal seguente:  
-"Il corso degli studi per la laurea in matematica si distingue in tre indirizzi: didattico, generale ed applicativo".  
-Nel predetto corso di laurea al secondo ed al sesto comma le parole "... comuni ai due indirizzi" sono soppresse e sostituite dalle seguenti "... comuni ai tre indirizzi".  
-Agli insegnamenti, fondamentali del terzo anno, nel predetto corso di laurea, e' aggiunto quello di "Topologia (per l'indirizzo generale)"; ed inoltre, al quarto anno sono aggiunti quelli di:  
-"Matematiche superiori per l'indirizzo generale";  
-"Matematiche elementari da un punto di vista superiore - per l'indirizzo didattico" (in sostituzione di matematica finanziaria ed attuariale - per l'indirizzo didattico).  
-Nel predetto corso di laurea all'elenco degli insegnamenti complementari sono aggiunti i seguenti:  
-20) Algebra superiore  
-21) Analisi superiore  
-22) Geometria superiore  
-23) Cibernetica e teoria delle informazioni (\*).  
-L'ultimo comma del predetto corso di laurea e' abrogato e sostituito dal seguente:  
-"L'attribuzione degli insegnamenti complementari ai singoli indirizzi verra' stabilita dalla facolta' nei piani di studi".  
-Dopo l'art. 72 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi all'istituzione del biennio propedeutico d'ingegneria.  
+L'art. 59 e' abrogato e sostituito dal seguente:  
   
-Biennio di studi propedeutici per la laurea in ingegneria  
+La Facolta' di Scienze matematiche, fisiche e naturali conferisce le lauree in Scienze naturali, in Scienze biologiche ed in Chimica.  
+La durata del corso degli studi e' di quattro anni per le lauree in Scienze naturali e in Scienze biologiche e di cinque per la laurea in Chimica.  
+Sono titoli di ammissione il diploma di maturita' classica o scientifica.  
+Possono essere ammessi, inoltre, i diplomati dagli Istituti tecnici industriali, agrari, nautici e per geometri ai sensi delle vigenti disposizioni.  
+Gli articoli 68, 69 relativi al biennio di studi propedeutici del corso di laurea in Chimica sono abrogati e sostituiti con il seguente nuovo ordinamento.  
   
-Art. 73. - Sono insegnamenti fondamentali del biennio propedeutico agli studi di ingegneria:  
-per il primo anno:  
-1) Analisi matematica 1°  
-2) Geometria 1°  
-3) Fisica 1°  
-4) Chimica  
-5) Disegno  
-per il secondo anno:  
-6) Analisi matematica II  
-7) Geometria II  
-8) Meccanica razionale  
-9) Fisica II  
-L'insegnamento di geometria II potra' essere sostituito:  
-A) con litologia e geologia, quando lo studente dichiari di voler proseguire gli studi per la laurea in ingegneria civile e in una sede ove l'insegnamento della geometria II non sia previsto per tale corso di studi;  
-B) con metodi di osservazione e misura; quando lo studente dichiari di voler proseguire gli studi per la laurea in ingegneria meccanica, elettrotecnica, elettronica, aeronautica, nucleare, e in una sede ove l'insegnamento della geometria II non e' previsto per uno di tali corsi di laurea;  
-C) con mineralogia, quando lo studente dichiari di voler proseguire gli studi per la laurea in ingegneria mineraria e in una sede ove l'insegnamento della geometria II non e previsto per tale corso di laurea.  
-Sono insegnamenti fondamentali aggiunti, quando non siano sostitutivi della geometria II, litologia e' geologia, e mineralogia per gli studenti che intendono proseguire i loro studi per la laurea in ingegneria civile o mineraria.  
-Metodi di osservazione e misura, e litologia e geologia, per gli studenti che intendono proseguire i loro studi in un qualsiasi altro corso di laurea.  
-Lo studente, all'atto della iscrizione al secondo anno, chiedera' alla facolta' la convalida del piano di studi che desidera seguire.  
-La scelta e' impegnativa e non puo' subire variazioni durante l'anno di corso.  
-Gli studenti del primo anno di corso potranno ottenere l'iscrizione al secondo anno di corso qualora abbiano superato almeno due dei quattro esami:  
-analisi matematica I, geometria I, fisica I, chimica.  
-Per avere titolo di ammissione al terzo anno di corso, presso una qualsiasi facolta' di ingegneria, lo studente dovra' aver superato tutti gli esami fondamentali del biennio propedeutico - ivi compreso quello dell'insegnamento che sostituisce la geometria II - fatta eccezione degli insegnamenti aggiunti.  
-I due esami di fisica comprendono la parte riguardante le esercitazioni.  
-Art. 74. - L'esame di chimica deve precedere quelli di mineralogia e di litologia e geologia.  
-Gli esami di analisi matematica I, geometria I, fisica I, devono precedere rispettivamente gli esami di analisi matematica II, geometria II, fisica II. Gli esami di analisi matematica I e di geometria I devono precedere quello di meccanica razionale.  
+Art. 68. - Il corso degli studi per la laurea in Chimica e' diviso in un biennio di studi propedeutici ed in un triennio di studi di applicazione.  
+  
+Biennio di studi propedeutici  
+  
+Sono insegnamenti fondamentali:  
+1) Istituzioni di matematiche (biennale);  
+2) Chimica generale ed inorganica (biennale);  
+3) Chimica organica (biennale);  
+4) Fisica sperimentale (biennale);  
+5) Esercitazioni di matematiche (biennale);  
+6) Esercitazioni di preparazioni chimiche;  
+7) Esercitazioni di disegno di elementi di macchine;  
+8) Esercitazioni di analisi chimica qualitativa;  
+9) Esercitazioni di fisica sperimentale;  
+10) Chimica analitica;  
+11) Mineralogia con esercitazioni pratiche (corso speciale per chimici).  
+  
+Triennio di studi di applicazione  
+  
+Il triennio ha due diversi indirizzi: organico-biologico ed inorganico chimico-fisico.  
+  
+Sono insegnamenti fondamentali comuni ai due indirizzi:  
+1) Chimica-fisica (biennale);  
+2) Esercitazioni di chimica-fisica (biennale);  
+3) Esercitazioni di analisi chimica quantitativa;  
+4) Esercitazioni di chimica organica e di analisi organica;  
+5) Esercitazioni di preparazioni chimiche ovvero di analisi chimica applicata (a scelta dello studente).  
+  
+Sono insegnamenti complementari per l'indirizzo organico-biologico:  
+1) Analisi matematica (algebrica ed infinitesimale) (biennale);  
+2) Geometria analitica con elementi di proiettiva;  
+3) Meccanica razionale con elementi di statica grafica;  
+(\*) 4) Chimica organica industriale;  
+(\*) 5) Chimica biologica;  
+(\*) 6) Chimica farmaceutica;  
+(\*) 7) Farmacologia;  
+(\*) 8) Chimica delle fermentazioni e batteriologia industriale;  
+(\*) 9) Chimica agraria;  
+(\*) 10) Elettrochimica;  
+11) Storia della chimica;  
+12) Scienza dell'alimentazione;  
+13) Fisiologia generale (corso speciale per chimici);  
+14) Merceologia (chimica merceologica);  
+15) Chimica teorica;  
+16) Strutturistica chimica;  
+17) Analisi chimica strumentale;  
+18) Chimica macromolecolare;  
+19) Radiochimica;  
+20) Chimica organica superiore;  
+21) Esercitazioni di tecniche e sintesi speciali organiche;  
+22) Spettroscopia molecolare.  
+  
+Sono insegnamenti complementari per l'indirizzo inorganico-chimico-fisico:  
+1) Analisi matematica (algebrica ed infinitesimale biennale);  
+2) Geometria analitica con elementi di proiettiva;  
+3) Meccanica razionale con elementi di staticagrafica;  
+(\*) 4) Fisica superiore;  
+(\*) 5) Fisica tecnica (corso speciale per chimici e chimici industriali);  
+(\*) 6) Elettrochimica;  
+7) Scienza dei metalli;  
+8) Geochimica;  
+(\*) 9) Chimica applicata (ai materiali da costruzione);  
+(\*) 10) Spettroscopia;  
+(\*) 11) Misure elettriche (corso speciale per chimici e chimici industriali);  
+(\*) 12) Chimica industriale;  
+13) Storia della chimica;  
+14) Chimica teorica;  
+15) Strutturistica chimica;  
+16) Analisi chimica strumentale;  
+17) Chimica macromolecolare;  
+18) Radiochimica;  
+19) Chimica statistica;  
+20) Chimica quantistica;  
+21) Chimica inorganica superiore;  
+22) Esercitazioni di tecniche e sintesi speciali inorganiche;  
+23) Complementi di matematiche (corso speciale per chimici).  
+  
+I tre insegnamenti complementari di "Analisi matematica", di "Geometria analitica con elementi di proiettiva" e di "Meccanica razionale con elementi di statica grafica" possono sostituire l'unico insegnamento fondamentale di "Istituzioni di matematiche" (biennale).  
+Tutti gli insegnamenti biennali comportano due esami distinti alla fine di ciascun anno di corso.  
+Per ottenere l'iscrizione al triennio di applicazione lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti fissati per il biennio di studi propedeutici.  
+Per essere ammesso all'esame di laurea, lo studente deve aver seguito i corsi e superato gli emami in tutti gli sinsegnamenti fondamentali prescritti per il triennio di applicazione e almeno in sette da lui scelti tra i complementari dell'indirizzo seguito.  
+I sette insegnamenti complementari, che per ciascuno dei due indirizzi del triennio di applicazione, sono segnati con asterisco, s'intendono consigliati in via preferenziale. Tuttavia, ove lo studente intenda scegliere per l'indirizzo prescelto uno o piu' insegnamenti complementari diversi dai predetti, deve, all'atto dell'iscrizione al primo anno degli studi di applicazione, chiederne convalida alla Facolta'.  
+La scelta fatta in tal modo e' impegnativa e non puo' subire comunque variazioni durante il corso degli studi.  
+  
+Art. 69. - Per l'iscrizione di coloro che siano gia' forniti di una laurea, il Consiglio di Facolta' decidera' caso per caso sull'anno di iscrizione.  
+Il Consiglio di Facolta' decidera' altresi' sugli esami e le frequenze che possono essere convalidate.  
+  
+L'art. 70 e' soppresso.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 7 settembre 1968
+### Dato a Roma, addi' 14 marzo 1963
 
-SARAGAT SCAGLIA
+SEGNI GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 18 ottobre 1968
+Registrato alla Corte dei conti, addi' 29 aprile 1963
 
-Atti del Governo, registro n. 223, foglio n. 39. - GRECO
+Atti del Governo, registro n. 168, foglio n. 100. - VILLA

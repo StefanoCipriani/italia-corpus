@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 gennaio 1972 n. 157
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 maggio 1968 n. 804
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 gennaio 1972 n. 157
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 maggio 1968 n. 804
+=============================================================
 
 Autorizzazione all'Associazione italiana della croce rossa ad accettare un legato.
 ----------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-157. Decreto del Presidente della Repubblica 31 gennaio 1972, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana della croce rossa viene autorizzata ad accettare il legato di L. 1.000.000 disposto in favore del dipendente sottocomitato di Codogno (Milano) dalla signora Irma Cassoni vedova Folli con testamento olografo pubblicato per atto del notaio Bignani di Codogno il 9 marzo 1970, repertorio n. 8501/4546.  
+804. Decreto del Presidente della Repubblica 8 maggio 1968, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana della croce rossa viene autorizzata ad accettare il legato di L. 1.411.000 disposto dalla signorina Maria de Sanna con testamento olografo del 16 maggio 1943 pubblicato dal notaio Lanciotti di Roma con atto del 17 aprile 1964, repertorio 8321.  
   
 Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 20 aprile 1972  
-Atti del Governo, registro n. 248, foglio n. 59. - VALENTINI
+Registrato alla Corte dei conti, addi' 12 luglio 1968  
+Atti del Governo, registro n. 221, foglio n. 16. - GRECO

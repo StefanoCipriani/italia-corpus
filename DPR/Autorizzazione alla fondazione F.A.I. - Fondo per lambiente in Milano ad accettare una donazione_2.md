@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 marzo 1986 n. 375
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 marzo 1986 n. 368
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 marzo 1986 n. 375
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 marzo 1986 n. 368
 ============================================================
 
 Autorizzazione alla fondazione "F.A.I. - Fondo per l'ambiente", in Milano, ad accettare una donazione.
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-375. Decreto del Presidente della Repubblica 19 marzo 1986, col quale, sulla proposta del Ministro per i beni culturali e ambientali, la fondazione "F.A.I. - Fondo per l'ambiente", in Milano, viene autorizzata ad accettare, la donazione, consistente in un terreno in comune di Isola di Capraia (Livorno), localita' Bellavista, del valore di lire 10.000.000, disposta dal signor Vigoni Medici di Marignano Ignazio, con atto 15 marzo 1978, n. 8324 di repertorio, a rogito dott. Paolo Sala, notaio in Giussano (Milano) e registrato a Giussano in data 21 marzo 1978 al n. 1945.   
+368. Decreto del Presidente della Repubblica 19 marzo 1986, col quale, sulla proposta del Ministro per i beni culturali e ambientali, la fondazione "F.A.I. - Fondo per l'ambiente", in Milano, viene autorizzata ad accettare la donazione, consistente in un appezzamento di terreno di mq 2783, sito in comune di Camogli, localita' S.  
+Nicolo' - S. Caio, del valore di L. 840.000, disposta dalla sig.ra Maria Luisa Colli, con atto 9 giugno 1977, n. 6068 di repertorio, a rogito dott. Paolo Sala, notaio in Giussano (Milano) e registrato a Giussano in data 21 giugno 1977 al n. 3397.   
   
 Visto, il Guardasigilli: MARTINAZZOLI   
 Registrato alla Corte dei conti, addi' 8 luglio 1986   
-Registro n. 17 Beni culturali, foglio n. 5
+Registro n. 17 Beni culturali, foglio n. 8

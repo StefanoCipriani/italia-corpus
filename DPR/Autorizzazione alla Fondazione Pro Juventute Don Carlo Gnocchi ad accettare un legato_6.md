@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1966 n. 1041
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1962 n. 1318
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1966 n. 1041
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1962 n. 1318
+==============================================================
 
 Autorizzazione alla "Fondazione Pro Juventute Don Carlo Gnocchi" ad accettare un legato.
 ----------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1041. Decreto del Presidente della Repubblica 31 ottobre 1966, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi" viene autorizzata ad accettare un legato, consistente nella somma di lire cinquecentomila, disposto dal defunto sig. Arturo De Gobbi, con testamento olografo del 2 novembre 1960, pubblicato (assieme al, codicillo testamentario del 6 novembre 1960) per atto a rogito dott. Angela Japoce, notaio residente a Gorgonzola, in data 14 marzo 1964, n. 14143 di rep., n. 3112 d'archivio.  
+1318. Decreto del Presidente della Repubblica 1 agosto 1962, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi" viene autorizzata ad accettare la quota parte di un legato disposto dalla defunta signora Anna Maria Ida Biancardi vedova Mauri a termini del testamento olografo 24 novembre 1938, depositato e pubblicato per atto a rogito notaio dott. Giovanni Scamarone di Milano in data 8 ottobre 1960, n. 30312 di repertorio, a favore dell'"Opera Don Carlo Gnocchi" di Milano.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 28 novembre 1966  
-Atti del Governo, registro n. 207, luglio n. 79. VILLA
+Visto, il Guardasigilli: BOSCO  
+Registrato alla Corte dei conti, addi' 31 agosto 1962  
+Atti del Governo, registro n. 158, foglio n. 82. - VILLA

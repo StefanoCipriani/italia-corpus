@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 luglio 1969 n. 607
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 aprile 1968 n. 694
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 luglio 1969 n. 607
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 aprile 1968 n. 694
 =============================================================
 
 Autorizzazione alla "Fondazione pro juventute don Carlo Gnocchi", con sede in Roma, ad accettare un legato.
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-607. Decreto del Presidente della Repubblica 28 luglio 1969, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione pro juventute don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 2.500.000 in obbligazioni, disposto dalla defunta signora Amedea Genazzano in Genazzani, con testamento olografo del 14 luglio 1966, depositato e pubblicato con atto a rogito dott.  
-Giuseppe Gennella, notaio in Cerreto Guidi, in data 14 settembre 1967, n. 30.730 di repertorio, n. 3663 di raccolta.  
+694. Decreto del Presidente della Repubblica 19 aprile 1968, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione pro juventute don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare il legato consistente nella somma di L. 5.000.000, disposto dal defunto signor Luigi Ripamonti con testamento olografo del 4 marzo 1960, pubblicato con atto a rogito dott. Gaetano Salemi Ragusa, notaio residente a Como, in data 24 febbraio 1965, n. 1905/203 repertorio.  
   
-Visto, il Guardasigilli: GAVA  
-Registrato alla Corte dei conti, addi' 8 settembre 1969  
-Atti del Governo, registro n. 229, foglio n. 4. - CARUSO
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 30 maggio 1968  
+Atti del Governo, registro n. 220, foglio n. 7. - GRECO

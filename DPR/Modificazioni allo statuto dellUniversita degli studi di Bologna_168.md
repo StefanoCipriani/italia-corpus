@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1969 n. 842
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 febbraio 1962 n. 242
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1969 n. 842
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 febbraio 1962 n. 242
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successivi;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,11 +18,7 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduta la [legge 25 luglio 1966, n. 602](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-07-25;602);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -34,291 +30,205 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 92. - E' integrato nel senso che l'elenco delle lauree rilasciate dalla facolta' di scienze matematiche, fisiche e naturali comprende anche la laurea in astronomia.
+Art. 61. - Agli Istituti annessi alla Facolta' di lettere e filosofia e aggiunto quello di: "Antichita' ravennati e paleobizantine".
 
-Dopo l'art. 95 e con il conseguente spostamento della numerazione degli articoli successivi sono aggiunti i seguenti nuovi articoli, relativi all'istituzione del corso di laurea in astronomia.
+Dopo l'art. 175, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione del corso di perfezionamento in Diritto sanitario.
 
-Laurea in astronomia
+Art. 158. - Alla, Facolta' di giurisprudenza e' annesso un corso di perfezionamento in diritto sanitario.
 
-Art. 96. - La durata del corso degli studi per la laurea in astronomia e' di quattro anni.
+Art. 159. - Il corso ha lo scopo di conferire una specifica preparazione agli aspiranti alle carriere nelle amministrazioni di enti ed organi preposti alla tutela della salute ed igiene dei cittadini.
 
-Art. 97. - Titolo di ammissione: diploma di maturita' classica, scientifica, di abilitazione per i provenienti dagli istituti tecnici, industriali, nautici, agrari e per geometri.
+Art. 160. - Al corso possono accedere laureati in giurisprudenza, in scienze politiche, in economia e commercio, in medicina e chirurgia, in medicina veterinaria, in farmacia, in ingegneria, in chimica,.
 
-Art. 98. - Sono insegnamenti fondamentali, obbligatori per il primo biennio:
+Art. 161. - Il corso ha, la durata di un anno.
 
-1) Astronomia;
+Art. 162. - Il corso ha un direttore, due vicedirettori, un Consiglio dei docenti.
 
-2) Fisica generale I;
+Art. 163. - Il direttore e i vice direttori sono nominati dal rettore dell'Universita' di Bologna per un biennio ed alla scadenza possono essere confermati nell'ufficio rispettivo.
 
-3) Fisica generale II;
+La nomina del direttore e' fatta su proposta del Consiglio della Facolta' di giurisprudenza fra i professori anche fuori ruolo della Facolta' e quella dei vice direttori, su proposta del direttore, sentita la Facolta'.
 
-4) Analisi matematica I;
+Il Consiglio dei docenti e' costituito dagli incaricati di materie di insegnamento.
 
-5) Analisi matematica II;
+Art. 164. - Gli incarichi di insegnamento anche per parti di materie e gruppi di materie sono conferiti dal rettore dell'Universita' di Bologna, su proposta della Facolta', di giurisprudenza per un numero determinato di ore.
 
-6) Geometria I;
+Il pagamento degli incarichi sara' effettuato in relazione al numero di lezioni svolte.
 
-7) Chimica;
+Art. 165. - I singoli docenti di materie di insegnamento, potranno, proporre la nomina di assistenti volontari.
 
-8) Meccanica razionale;
+Art. 166. - Le materie di insegnamento presso il Corso, sono le seguenti:
 
-9) Esercitazioni di fisica.
+Insegnamenti fondamentali:
 
-Alla fine del primo biennio e' richiesta la prova di conoscenza di due lingue straniere di importanza scientifica.
+1) Elementi di diritto costituzionale con particolare riferimento alla tutela dell'igiene e sanita' pubblica;
 
-Gli esami di fisica generale I, analisi matematica I, geometria, chimica, sono propedeutici a quelli di astronomia, fisica generale II, analisi matematica II, meccanica razionale.
+2) Principi di diritto amministrativo con particolare riferimento alla tutela dell'igiene e sanita' pubblica;
 
-I corsi di fisica generale I e II, analisi matematica I e II, non devono essere considerati come corsi biennali: essi constano di due corsi distinti, l'uno propedeutico all'altro e con esami distinti.
+3) L'esplicazione della funzione sanitaria; fini e mezzi; soggetti che svolgono azione sanitaria;
 
-I corsi numero 1, 2, 3, 4, 5, 6, 7, 8 sono accompagnati da esercitazioni che ne fanno parte integrante. Per ciascuno dei corsi elencati vi e' un esame finale.
+4) La polizia sanitaria.
 
-Art. 99. - Gli insegnamenti obbligatori per il secondo biennio sono i seguenti:
+Gruppo A - Organizzazione sanitaria:
 
-1) Complementi di astronomia;
+1) L'organizzazione sanitaria centrale periferica dello Stato: compiti e limiti della rispettiva azione
 
-2) Astrofisica;
+2) L'organizzazione sanitaria degli enti locali territoriali; limiti della rispettiva azione; consorzi sanitari;
 
-3) Struttura della materia;
+3) La legislazione ed il servizio farmaceutico;
 
-4), 5) Esercitazioni di astronomia (biennale).
+4) L'organizzazione sanitaria internazionale e principali ordinamenti sanitari stranieri.
 
-A giudizio della facolta', le esercitazioni di astronomia potranno essere sostituite con il laboratorio di fisica biennale del corso della laurea in fisica.
+Gruppo B - Istituti ospedalieri:
 
-Art. 100. - Nel secondo biennio, oltre agli insegnamenti di cui al precedente paragrafo, dovranno essere impartite altre quattro discipline, di cui una dovra' essere ad indirizzo fisico e una ad indirizzo matematico:
+5)Ordinamento generale ospedaliero e amministrazione ospedaliera;
 
-per l'indirizzo fisico: istituzioni di fisica teorica;
+6) Personale ospedaliero;
 
-per l'indirizzo matematico: meccanica celeste.
+7) rapporto di assistenza ospedaliera;
 
-I rimanenti due saranno insegnamenti complementari che lo studente potra' scegliere dall'elenco che segue nell'articolo successivo.
+8) Ordinamenti speciali degli Istituti ospedalieri dipendenti dallo Stato, dalle Province e dai Comuni e, comunque, non aventi natura di opera pia, rispettivo personale.
 
-Art. 101. - Elenco a carattere orientativo di insegnamenti entro cui potranno essere scelti i quattro insegnamenti di cui all'articolo precedente:
+Gruppo C - Legislazione assitenziale e previdenziale:
 
-Astrofisica teorica;
+9) Principi generali in materia assistenziale e previdenziale
 
-Astrometria;
+10) Le assicurazioni sociali ordinamento dei vari enti assistenziali ed assicurativi;
 
-Astronautica;
+11) Erogazione delle provvidenze dagli enti previdenziali ed assicurativi; contenzioso;
 
-Calcolo delle probabilita';
+12) Assistenza sociale e previdenza nell'ambito delle assicurazioni private;
 
-Calcoli numerici e grafici;
+13) Politica economica della sicurezza sociale.
 
-Chimica fisica;
+Gruppo D - Professioni sanitarie:
 
-Chimica organica;
+14) Le professioni sanitarie, le professioni sanitarie e ausiliarie, le arti ausiliarie delle professioni sanitarie. Ordini, associazioni, collegi;
 
-Conduzione elettrica nei gas;
+15) Responsabilita' civile, disciplinare e penale degli esercenti le professioni sanitarie; organi competenti al relativo accertamento, procedimento.
 
-Cosmologia;
+Art. 167, - Durante l'anno accademico saranno tenute esercitazioni pratiche di attivita' amministrativa nel campo sanitario.
 
-Elettrodinamica;
+Art. 168. - La Direzione del corso potra' promuovere cicli di conferenze su argomenti di particolare interesse.
 
-Elettronica;
+Art. 169. - Le date di inizio ed il termine delle lezioni sono stabilite dal Consiglio dei docenti, il quale predispone anche l'ordinamento e la successione dei corsi di lezioni graduandoli nel modo piu' confacente ai fini didattici.
 
-Elettronica applicata;
+Art. 170. - Gli allievi, al termine del corso, dovranno sostenere un colloquio sulle materie fondamentali e su quelle di almeno due gruppi di materie complementari.
 
-Fisica del sistema solare;
+Art. 171. - Gli iscritti che al termine del corso abbiano superato il colloquio conseguiranno un certificato di frequenza e profitto.
 
-Fisica del plasma;
+Art. 172. - Il Consiglio dei docenti compilera' il regolamento di esecuzione delle presenti norme statutarie.
 
-Fisica solare;
+Art. 173. - I proventi del corso sono costituiti dalle tasse di iscrizione e frequenza e sopratassa esami e da eventuali contributi e sovvenzioni varie.
 
-Fisica dello spazio;
+Dopo l'art. 197 e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi all'istituzione del corso di perfezionamento sulle proprieta' fisiche della, materia vivente.
 
-Fisica matematica;
+Art. 198. - Alla Facolta' di scienze matematiche, fisiche e naturali e' annesso il corso di perfezionamento sulle proprieta' fisiche della, materia vivente, che ha lo scopo di orientare verso questi moderni indirizzi di ricerca un ristretto numero di giovani laureati.
 
-Fisica nucleare;
+Art. 199. - Al corso possono iscriversi i laureati in Scienze biologiche, Scienze naturali o in Medicina e chirurgia che abbiano superato un apposito esame diretto a stabilirne il grado di preparazione e la idoneita'.
 
-Fisica superiore;
+La durata del corso e' di due anni Accademici e gli iscritti a ciascun corso non possono superare il numero di sei; essi godono durante questo periodo di una borsa di studio e pertanto hanno l'obbligo di frequentare regolarmente per il biennio uno degli Istituti della Facolta' di scienze o della Facolta' di medicina e chirurgia, nei quali si tengono le lezioni, elaborandovi la tesi di perfezionamento.
 
-Fisica teorica;
+Art. 200. Le materie obbligatorie sono seguenti: per il primo anno di corso Fisico-Chimica, Statistica-Genetica Proprieta' fisiche della cellula; per il secondo anno di corso Fisiopatologia cellulare, Citofarmacologia, Biofisica, Strutturistica biologica, I corsi vengono affidati a cultori delle singole materie, scelti fra professori della, Universita' di Bologna, sia fra cultori specialisti di altre sedi italiane e straniere secondo le vigenti norme di legge.
 
-Geofisica;
+E' previsto un insegnante straniero per ogni anno di corso.
 
-Geodesia;
-
-Istituzioni di analisi superiore;
-
-Istituzioni di fisica teorica;
-
-Istituzioni di fisica nucleare;
-
-Istituzioni di fisica matematica;
-
-Matematiche complementari;
-
-Matematiche superiori;
-
-Meccanica analitica;
-
-Meccanica celeste;
-
-Meccanica quantistica;
-
-Meccanica statistica;
-
-Meccanica superiore;
-
-Metodi matematici per la fisica;
-
-Metodi matematici per l'astronomia;
-
-Ottica;
-
-Ottica elettronica;
-
-Radioastronomia;
-
-Relativita';
-
-Spettroscopia;
-
-Statistica stellare;
-
-Storia dell'astronomia;
-
-Storia delle matematiche;
-
-Teoria delle funzioni;
-
-Teoria delle orbite;
-
-Teoria e applicazione delle macchine calcolatrici.
-
-Art. 102. - Potranno iscriversi ai corsi del secondo biennio soltanto quegli studenti che abbiano superato gli esami di analisi matematica I e II, fisica I, meccanica razionale, astronomia generale, geometria I.
-
-Art. 103. - L'esame di laurea dovra' comprendere un lavoro scritto e la discussione di tesine orali.
-
-Superato l'esame di laurea lo studente consegue il titolo di dottore in astronomia.
+Art. 201. - Alla fine di ciascun anno gli allievi sono tenuti a superare gli esami delle rispettive materie; alla fine del biennio ottengono un diploma dopo discussione della tesi.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 23 ottobre 1969
+Dato a Roma, addi' 13 febbraio 1962
 
-SARAGAT
+GRONCHI
 
-FERRARI AGGRADI
+BOSCO
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: BOSCO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 27 novembre 1969 Atti del Governo, registro n. 230, foglio n. 72. - CARUSO
+alla Corte dei conti, addi' 11 maggio 1962 Atti del Governo, registro n. 146, foglio n. 71. - VILLA
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Veduta la [legge 25 luglio 1966, n. 602](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-07-25;602);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 92. - E' integrato nel senso che l'elenco delle lauree rilasciate dalla facolta' di scienze matematiche, fisiche e naturali comprende anche la laurea in astronomia.   
-Dopo l'art. 95 e con il conseguente spostamento della numerazione degli articoli successivi sono aggiunti i seguenti nuovi articoli, relativi all'istituzione del corso di laurea in astronomia.   
-  
-Laurea in astronomia   
-  
-Art. 96. - La durata del corso degli studi per la laurea in astronomia e' di quattro anni.   
-Art. 97. - Titolo di ammissione: diploma di maturita' classica, scientifica, di abilitazione per i provenienti dagli istituti tecnici, industriali, nautici, agrari e per geometri.   
-Art. 98. - Sono insegnamenti fondamentali, obbligatori per il primo biennio:   
-1) Astronomia;   
-2) Fisica generale I;   
-3) Fisica generale II;   
-4) Analisi matematica I;   
-5) Analisi matematica II;   
-6) Geometria I;   
-7) Chimica;   
-8) Meccanica razionale;   
-9) Esercitazioni di fisica.   
-Alla fine del primo biennio e' richiesta la prova di conoscenza di due lingue straniere di importanza scientifica.   
-Gli esami di fisica generale I, analisi matematica I, geometria, chimica, sono propedeutici a quelli di astronomia, fisica generale II, analisi matematica II, meccanica razionale.   
-I corsi di fisica generale I e II, analisi matematica I e II, non devono essere considerati come corsi biennali: essi constano di due corsi distinti, l'uno propedeutico all'altro e con esami distinti.   
-I corsi numero 1, 2, 3, 4, 5, 6, 7, 8 sono accompagnati da esercitazioni che ne fanno parte integrante. Per ciascuno dei corsi elencati vi e' un esame finale.   
-Art. 99. - Gli insegnamenti obbligatori per il secondo biennio sono i seguenti:   
-1) Complementi di astronomia;   
-2) Astrofisica;   
-3) Struttura della materia;   
-4), 5) Esercitazioni di astronomia (biennale).   
-A giudizio della facolta', le esercitazioni di astronomia potranno essere sostituite con il laboratorio di fisica biennale del corso della laurea in fisica.   
-Art. 100. - Nel secondo biennio, oltre agli insegnamenti di cui al precedente paragrafo, dovranno essere impartite altre quattro discipline, di cui una dovra' essere ad indirizzo fisico e una ad indirizzo matematico:   
-per l'indirizzo fisico: istituzioni di fisica teorica;   
-per l'indirizzo matematico: meccanica celeste.   
-I rimanenti due saranno insegnamenti complementari che lo studente potra' scegliere dall'elenco che segue nell'articolo successivo.   
-Art. 101. - Elenco a carattere orientativo di insegnamenti entro cui potranno essere scelti i quattro insegnamenti di cui all'articolo precedente:   
-  
-Astrofisica teorica;   
-Astrometria;   
-Astronautica;   
-Calcolo delle probabilita';   
-Calcoli numerici e grafici;   
-Chimica fisica;   
-Chimica organica;   
-Conduzione elettrica nei gas;   
-Cosmologia;   
-Elettrodinamica;   
-Elettronica;   
-Elettronica applicata;   
-Fisica del sistema solare;   
-Fisica del plasma;   
-Fisica solare;   
-Fisica dello spazio;   
-Fisica matematica;   
-Fisica nucleare;   
-Fisica superiore;   
-Fisica teorica;   
-Geofisica;   
-Geodesia;   
-Istituzioni di analisi superiore;   
-Istituzioni di fisica teorica;   
-Istituzioni di fisica nucleare;   
-Istituzioni di fisica matematica;   
-Matematiche complementari;   
-Matematiche superiori;   
-Meccanica analitica;   
-Meccanica celeste;   
-Meccanica quantistica;   
-Meccanica statistica;   
-Meccanica superiore;   
-Metodi matematici per la fisica;   
-Metodi matematici per l'astronomia;   
-Ottica;   
-Ottica elettronica;   
-Radioastronomia;   
-Relativita';   
-Spettroscopia;   
-Statistica stellare;   
-Storia dell'astronomia;   
-Storia delle matematiche;   
-Teoria delle funzioni;   
-Teoria delle orbite;   
-Teoria e applicazione delle macchine calcolatrici.   
-Art. 102. - Potranno iscriversi ai corsi del secondo biennio soltanto quegli studenti che abbiano superato gli esami di analisi matematica I e II, fisica I, meccanica razionale, astronomia generale, geometria I.   
-Art. 103. - L'esame di laurea dovra' comprendere un lavoro scritto e la discussione di tesine orali.   
-Superato l'esame di laurea lo studente consegue il titolo di dottore in astronomia.   
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 61. - Agli Istituti annessi alla Facolta' di lettere e filosofia e aggiunto quello di: "Antichita' ravennati e paleobizantine".  
+Dopo l'art. 175, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione del corso di perfezionamento in Diritto sanitario.  
+Art. 158. - Alla, Facolta' di giurisprudenza e' annesso un corso di perfezionamento in diritto sanitario.  
+Art. 159. - Il corso ha lo scopo di conferire una specifica preparazione agli aspiranti alle carriere nelle amministrazioni di enti ed organi preposti alla tutela della salute ed igiene dei cittadini.  
+Art. 160. - Al corso possono accedere laureati in giurisprudenza, in scienze politiche, in economia e commercio, in medicina e chirurgia, in medicina veterinaria, in farmacia, in ingegneria, in chimica,.  
+Art. 161. - Il corso ha, la durata di un anno.  
+Art. 162. - Il corso ha un direttore, due vicedirettori, un Consiglio dei docenti.  
+Art. 163. - Il direttore e i vice direttori sono nominati dal rettore dell'Universita' di Bologna per un biennio ed alla scadenza possono essere confermati nell'ufficio rispettivo.  
+La nomina del direttore e' fatta su proposta del Consiglio della Facolta' di giurisprudenza fra i professori anche fuori ruolo della Facolta' e quella dei vice direttori, su proposta del direttore, sentita la Facolta'.  
+Il Consiglio dei docenti e' costituito dagli incaricati di materie di insegnamento.  
+Art. 164. - Gli incarichi di insegnamento anche per parti di materie e gruppi di materie sono conferiti dal rettore dell'Universita' di Bologna, su proposta della Facolta', di giurisprudenza per un numero determinato di ore.  
+Il pagamento degli incarichi sara' effettuato in relazione al numero di lezioni svolte.  
+Art. 165. - I singoli docenti di materie di insegnamento, potranno, proporre la nomina di assistenti volontari.  
+Art. 166. - Le materie di insegnamento presso il Corso, sono le seguenti:  
+Insegnamenti fondamentali:  
+1) Elementi di diritto costituzionale con particolare riferimento alla tutela dell'igiene e sanita' pubblica;  
+2) Principi di diritto amministrativo con particolare riferimento alla tutela dell'igiene e sanita' pubblica;  
+3) L'esplicazione della funzione sanitaria; fini e mezzi; soggetti che svolgono azione sanitaria;  
+4) La polizia sanitaria.  
+Gruppo A - Organizzazione sanitaria:  
+1) L'organizzazione sanitaria centrale periferica dello Stato: compiti e limiti della rispettiva azione  
+2) L'organizzazione sanitaria degli enti locali territoriali; limiti della rispettiva azione; consorzi sanitari;  
+3) La legislazione ed il servizio farmaceutico;  
+4) L'organizzazione sanitaria internazionale e principali ordinamenti sanitari stranieri.  
+Gruppo B - Istituti ospedalieri:  
+5)Ordinamento generale ospedaliero e amministrazione ospedaliera;  
+6) Personale ospedaliero;  
+7) rapporto di assistenza ospedaliera;  
+8) Ordinamenti speciali degli Istituti ospedalieri dipendenti dallo Stato, dalle Province e dai Comuni e, comunque, non aventi natura di opera pia, rispettivo personale.  
+Gruppo C - Legislazione assitenziale e previdenziale:  
+9) Principi generali in materia assistenziale e previdenziale  
+10) Le assicurazioni sociali ordinamento dei vari enti assistenziali ed assicurativi;  
+11) Erogazione delle provvidenze dagli enti previdenziali ed assicurativi; contenzioso;  
+12) Assistenza sociale e previdenza nell'ambito delle assicurazioni private;  
+13) Politica economica della sicurezza sociale.  
+Gruppo D - Professioni sanitarie:  
+14) Le professioni sanitarie, le professioni sanitarie e ausiliarie, le arti ausiliarie delle professioni sanitarie. Ordini, associazioni, collegi;  
+15) Responsabilita' civile, disciplinare e penale degli esercenti le professioni sanitarie; organi competenti al relativo accertamento, procedimento.  
+Art. 167, - Durante l'anno accademico saranno tenute esercitazioni pratiche di attivita' amministrativa nel campo sanitario.  
+Art. 168. - La Direzione del corso potra' promuovere cicli di conferenze su argomenti di particolare interesse.  
+Art. 169. - Le date di inizio ed il termine delle lezioni sono stabilite dal Consiglio dei docenti, il quale predispone anche l'ordinamento e la successione dei corsi di lezioni graduandoli nel modo piu' confacente ai fini didattici.  
+Art. 170. - Gli allievi, al termine del corso, dovranno sostenere un colloquio sulle materie fondamentali e su quelle di almeno due gruppi di materie complementari.  
+Art. 171. - Gli iscritti che al termine del corso abbiano superato il colloquio conseguiranno un certificato di frequenza e profitto.  
+Art. 172. - Il Consiglio dei docenti compilera' il regolamento di esecuzione delle presenti norme statutarie.  
+Art. 173. - I proventi del corso sono costituiti dalle tasse di iscrizione e frequenza e sopratassa esami e da eventuali contributi e sovvenzioni varie.  
+Dopo l'art. 197 e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi all'istituzione del corso di perfezionamento sulle proprieta' fisiche della, materia vivente.  
+Art. 198. - Alla Facolta' di scienze matematiche, fisiche e naturali e' annesso il corso di perfezionamento sulle proprieta' fisiche della, materia vivente, che ha lo scopo di orientare verso questi moderni indirizzi di ricerca un ristretto numero di giovani laureati.  
+Art. 199. - Al corso possono iscriversi i laureati in Scienze biologiche, Scienze naturali o in Medicina e chirurgia che abbiano superato un apposito esame diretto a stabilirne il grado di preparazione e la idoneita'.  
+La durata del corso e' di due anni Accademici e gli iscritti a ciascun corso non possono superare il numero di sei; essi godono durante questo periodo di una borsa di studio e pertanto hanno l'obbligo di frequentare regolarmente per il biennio uno degli Istituti della Facolta' di scienze o della Facolta' di medicina e chirurgia, nei quali si tengono le lezioni, elaborandovi la tesi di perfezionamento.  
+Art. 200. Le materie obbligatorie sono seguenti: per il primo anno di corso Fisico-Chimica, Statistica-Genetica Proprieta' fisiche della cellula; per il secondo anno di corso Fisiopatologia cellulare, Citofarmacologia, Biofisica, Strutturistica biologica, I corsi vengono affidati a cultori delle singole materie, scelti fra professori della, Universita' di Bologna, sia fra cultori specialisti di altre sedi italiane e straniere secondo le vigenti norme di legge.  
+E' previsto un insegnante straniero per ogni anno di corso.  
+Art. 201. - Alla fine di ciascun anno gli allievi sono tenuti a superare gli esami delle rispettive materie; alla fine del biennio ottengono un diploma dopo discussione della tesi.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 ottobre 1969
+### Dato a Roma, addi' 13 febbraio 1962
 
-SARAGAT FERRARI AGGRADI
+GRONCHI BOSCO
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 27 novembre 1969
+Registrato alla Corte dei conti, addi' 11 maggio 1962
 
-Atti del Governo, registro n. 230, foglio n. 72. - CARUSO
+Atti del Governo, registro n. 146, foglio n. 71. - VILLA

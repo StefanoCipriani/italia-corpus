@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 marzo 1983 n. 226
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 dicembre 1983 n. 1053
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 marzo 1983 n. 226
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 dicembre 1983 n. 1053
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
 ------------------------------------------------------------------------------
@@ -40,25 +40,21 @@ Articolo unico
 
   
   
-Art. 115 - nell'elenco degli insegnamenti complementari del corso di laurea in scienze naturali e' inserito il seguente insegnamento: biochimica vegetale.   
-Art. 117 - nell'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono inseriti i seguenti insegnamenti:   
-laboratorio di tecniche microscopiche istologiche e istochimiche;   
-embriologia e morfologia sperimentale;   
-genetica molecolare;   
-biochimica vegetale.   
-Art. 119 - nell'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche e' inserito il seguente insegnamento:   
-geotermia.   
+Art. 104 - nell'elenco degli insegnamenti complementari dell'indirizzo organico-biologico e dell'indirizzo inorganico-chimico-fisico del corso di laurea in chimica e' inserito l'insegnamento di "lingua inglese".   
+Art. 105 - nell'elenco degli insegnamenti complementari del corso di laurea in chimica industriale e' inserito l'insegnamento di "lingua inglese".   
+Art. 108 - nell'elenco degli insegnamenti complementari del corso di laurea in fisica e' inserito l'insegnamento di "lingua inglese" per i tre indirizzi: generale, didattico e applicativo.   
+Art. 117 - nell'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche e' inserito l'insegnamento di "lingua inglese".   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 marzo 1983
+### Dato a Roma, addi' 19 dicembre 1983
 
 PERTINI FALCUCCI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 19 maggio 1983
+Registrato alla Corte dei conti, addi' 29 febbraio 1984
 
-Registro n. 36 Istruzione, foglio n. 63
+Registro n. 13 Istruzione, foglio n. 47

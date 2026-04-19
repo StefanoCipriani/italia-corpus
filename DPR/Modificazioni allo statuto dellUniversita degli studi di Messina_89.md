@@ -1,52 +1,155 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1957 n. 263
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1980 n. 676
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1957 n. 263
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 settembre 1980 n. 676
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923) e modificato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, numero 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090) e modificato con i [regi decreti 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;1905); [28 maggio 1942, n. 643 e con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-05-28;643) [22 giugno 1947, n. 774 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-06-22;774) [5 agosto 1951, n. 1335](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-05;1335); [27 ottobre 1951, n. 1827](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1827); [30 luglio 1953, n. 999](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-07-30;999); [8 febbraio 1954, n. 403](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-02-08;403); [27 marzo 1954, n. 735](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-27;735); [24 luglio 1955, n. 779](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-24;779); [28 giugno 1956, n. 764](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-06-28;764) e [5 settembre 1956, n. 1137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-09-05;1137);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la legge 11 aprile n. 312;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:  
+L'art. 70, concernente la facolta' di medicina e chirurgia, e' cosi' modificato:   
+Art. 70. - La facolta' di medicina e chirurgia conferisce:   
+a) la laurea in medicina e chirurgia;   
+b) la laurea in odontoiatria e protesi dentaria.   
+
+Art. 2
+------
+
   
-Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 24, primo comma, relativo alle modalita' dell'esame di laurea in economia e commercio, e' abrogato e sostituito dal seguente:  
-a) "Nella discussione orale di una dissertazione scritta su un tema che rientri in uno degli insegnamenti fondamentali o complementari impartiti nella Facolta', escluse le lingue straniere".  
-Art. 52. - Agli insegnamenti complementari del corso di laurea in scienze naturali e' aggiunto quello di:  
-"scienza dell'alimentazione".  
-Art. 54. - Agli insegnamenti complementari del corso di laurea in scienze biologiche e' aggiunto quello di:  
-"scienza dell'alimentazione".  
-Art. 64. - Agli insegnamenti complementari del corso di laurea in farmacia sono aggiunti quelli di:  
-7) Chimica tossicologica;  
-8) Fisiologia vegetale.  
-Art. 65. - E' aggiunto il seguente comma:  
-"I tre corsi annuali di esercitazioni di chimica farmaceutica e tossicologica sono propedeutici il primo rispetto al secondo e il secondo rispetto al terzo. Lo studente non puo' essere ammesso alla frequenza del primo corso di esercitazioni di chimica farmaceutica e tossicologica se non ha prima superato gli esami di chimica generale ed inorganica".  
+  
+Dopo l'art. 73, con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli:   
+  
+Corso di laurea in odontoiatria e protesi dentaria   
+Art. 74. - La durata del corso degli studi per la laurea in odontoiatria e protesi dentaria e' di cinque anni suddivisi in un biennio ed un triennio.   
+Titoli di ammissione: quelli consentiti dalle vigenti disposizioni di legge.   
+Art. 75. - Il numero degli iscritti e' di trentadue per ciascun anno di corso e complessivamente di centosessanta per l'intero corso di studi.   
+L'accesso avviene secondo un ordine di graduatoria stabilito in base ad un punteggio riportato in centesimi, cosi' ripartito:   
+70 cent. riservati all'esito di un test a scelta multipla da completare in un unico giorno vertente su nozioni generali relativi ai seguenti argomenti: chimica, fisica, matematica, biologia generale;   
+30 cent. riservati al punteggio riportato nell'esame finale per il conseguimento del diploma di scuola secondaria superiore.   
+E' prevista la pubblicizzazione dei risultati delle prove che a richiesta debbono essere forniti.   
+Art. 76. - Per il trasferimento degli studenti iscritti al corso di laurea in medicina e chirurgia le abbreviazioni di corso non possono superare l'ammissione oltre il secondo anno subordinatamente al numero dei posti resisi disponibili all'inizio del secondo anno sempre che gli aspiranti abbiano superato gli esami di biologia generale applicata agli studi medici, chimica, fisica medica, istologia ed embriologia generale (compresa la citologia).   
+Per i laureati in medicina e chirurgia le abbreviazioni di corso potranno essere concesse, sempre con iscrizione al secondo anno, subordinatamente al numero dei posti disponibili all'inizio del secondo anno e dopo che sia trascorso un anno accademico dal conseguimento della laurea precedente.   
+Art. 77. - Sono insegnamenti fondamentali:   
+Biennio:   
+1) anestesia generale e speciale odontostomatologica (semestrale);   
+\* 2) biologia generale applicata agli studi medici;   
+\* 3) chimica;   
+\* 4) chimica biologica;   
+5) farmacologia (semestrale);   
+\* 6) fisica medica;   
+7) fisiologia umana e dell'apparato stomatognatico;   
+8) igiene e odontoiatria preventiva e speciale con epidemiologia (semestrale);   
+9) istituzioni di anatomia umana normale e dell'apparato stomatognatico;   
+10) istituzioni di anatomia ed istologia patologica;   
+\* 11) istologia ed embriologia generale (compresa la citologia);   
+12) materiali dentari;   
+13) microbiologia (semestrale);   
+14) odontoiatria conservatrice (triennale: 2°, 3° e 4° anno);   
+15) patologia generale.   
+Triennio:   
+16) chirurgia speciale odontostomatologica (biennale: 3° e 4° anno);   
+17) chimica odontostomatologica (biennale: 4° e 5° anno);   
+18) medicina legale e delle assicurazioni e deontologia in odontostomatologia (semestrale);   
+19) neuropatologia e psicopatologia (semestrale);   
+20) ortognatodonzia e gnatologia (funzione masticatoria) (biennale: 4° e 5° anno);   
+21) parodontologia (biennale: 4° e 5° anno);   
+22) patologia speciale medica e metodologia clinica (compresa la pediatria);   
+23) patologia speciale chirurgica e propedeutica clinica;   
+24) patologia speciale odontostomatologica;   
+25) pedodonzia (semestrale);   
+26) protesi dentaria (triennale: 3°, 4° e 5° anno);   
+27) radiologia generale e speciale odontostomatologica (semestrale).   
+Sono insegnamenti complementari:   
+\* 1) chirurgia maxillo-facciale;   
+\* 2) dermatologia e venerologia (semestrale);   
+\* 3) otorinolaringoiatria (semestrale);   
+\* 4) statistica sanitaria;   
+altri insegnamenti complementari nel piano della facolta' sempre mutuati dal corso di laurea in medicina e chirurgia.   
+Gli insegnamenti segnati con asterisco sono mutuati dal corso di laurea in medicina e chirurgia.   
+Gli insegnamenti fondamentali sono teorici e pratiche e la loro frequenza e' obbligatoria.   
+Gli insegnamenti specificamente odontostomatologica di ordine clinico comportano un tirocinio pratico continuativo da espletare prima di sostenere i relativi esami.   
+Gli studenti che non conseguono le attestazioni di frequenza non possono essere ammessi a sostenere le relative prove di esame.   
+Il tirocinio pratico, relativo ad ogni insegnamento clinico, deve provvedere, da parte dei componenti dell'organico, una assistenza didattica adeguata al numero degli studenti.   
+Art. 78. - Ai fini della propedeuticita' degli esami dei diversi insegnamenti vale la seguente tabella:   
+  
+  
+  
+  
+Non si puo' essere ammessi a Se non si e' superato  
+sostenere l'esame di: l'esame di:  
+  
+Fisiologia umana e dell'apparato Istituzioni di anatomia  
+stomatologico umana normale e del-  
+Patologia generale l'apparato stomatognatico  
+Biologia generale applicata  
+agli studi medici  
+Chimica  
+Fisica medica  
+  
+Patologia speciale medica Fisiologia umana e dell'appa-  
+e metodologia clinica rato stomatognatico  
+(compresa la pediatria)  
+Patologia speciale chirurgica Patologia generale  
+e propedeutica clinica  
+  
+Clinica odontostomatologica Patologia speciale medica e  
+metodologia clinica  
+(compresa la pediatria)  
+Chirurgia speciale odonto-  
+stomatologica  
+Istituzioni di anatomia e  
+istologia patologica  
+Patologia speciale chirurgica  
+e propedeutica clinica  
+Patologia speciale odonto-  
+stomatologica  
+  
+  
+Art. 79. - Per essere ammessi a sostenere l'esame di laurea in odontoiatria e protesi dentaria lo studente deve avere seguito i corsi ed aver superato gli esami in tutti gli insegnamenti fondamentali ed almeno in due insegnamenti scelti fra i complementari ed avere, inoltre, seguito le prescritte esercitazioni cliniche, i tirocini pratici ed averne conseguito le relative attestazioni.   
+L'esame di laurea consiste nella discussione di una tesi scritta su argomenti di odontostomatologia da richiedere almeno all'inizio dell'ultimo anno di corso.   
+L'esercizio della professione consegue all'esame di Stato.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 febbraio 1957
+### Dato a Roma, addi' 25 settembre 1980
 
-GRONCHI ROSSI
+p. Il Presidente della Repubblica Il Presidente del Senato FANFANI SARTI
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 30 aprile 1957
+Registrato alla Corte dei conti, addi' 21 ottobre 1980
 
-Atti del Governo, registro n. 105, foglio n. 64. - RELLEVA
+Registro n. 96 Istruzione, foglio n. 258

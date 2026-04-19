@@ -1,554 +1,110 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1966 n. 428
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1082
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1966 n. 428
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1082
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904) e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Relativo all'ordinamento del biennio di studi propedeutici della Facolta' di ingegneria, l'art. 185 e' abrogato e sostituito dal seguente:
-
-Biennio di studi propedeutici
-
-Art. 185. - Gli insegnamenti fondamentali comuni a tutti i corsi di laurea sono i seguenti:
-
-1) Analisi matematica I;
-
-2) Geometria I;
-
-3) Fisica I;
-
-4) Chimica;
-
-5) Disegno;
-
-6) Analisi matematica II;
-
-7) Meccanica razionale;
-
-8) Fisica II;
-
-9) Geometria II (solo per i corsi di laurea in ingegneria civile).
-
-Per i corsi di laurea in ingegneria meccanica, elettrotecnica, elettronica, aeronautica e navale e meccanica, l'insegnamento di Geometria II e' sostituito con quello di:
-
-9) Disegno meccanico.
-
-Per il corso di laurea in ingegneria chimica l'insegnamento di Geometria II e' sostituito con quello di:
-
-9) Chimica organica.
-
-A questi insegnamenti vanno aggiunti:
-
-per i corsi di laurea in Ingegneria civile:
-
-10) Disegno civile;
-
-per i corsi di laurea in Ingegneria meccanica ed aeronautica;
-
-10) Chimica applicata (obbligatorio sul piano nazionale);
-
-per i corsi di laurea in Ingegneria elettrotecnica ed elettronica;
-
-10) Tecnologie generali dei materiali (obbligatorio sul piano della Facolta);
-
-per il corso di laurea in Ingegneria navale e meccanica:
-
-10) Chimica applicata (obbligatorio sul piano nazionale);
-
-11) Tecnologie generali dei materiali (obbligatorio sul piano della Facolta).
-
-Art. 187, relativo agli insegnamenti obbligatori sul piano della Facolta' del corso di laurea in Ingegneria civile (Sezione edile) e' abrogato e sostituito dal seguente:
-
-b) obbligatori sul piano della Facolta':
-
-1) Costruzioni di strade, ferrovie ed aeroporti;
-
-2) Costruzioni edili;
-
-3) Costruzioni idrauliche;
-
-4) Complementi di tecnica delle costruzioni;
-
-5) Tecnica delle fondazioni per edili;
-
-6) Materie giuridiche ed amministrative;
-
-7) Principi di economia ed estimo;
-
-8) Tecnica urbanistica.
-
-Nello stesso corso di laurea i tre gruppi di materie in scelta dello studente sono soppressi e sostituiti dai seguenti:
-
-c) gruppi di materie a scelta:
-
-I) Indirizzo strutturale:
-
-1) Complementi di scienza delle costruzioni;
-
-2) Costruzioni di ponti;
-
-II) Indirizzo urbanistico:
-
-1) Tecnica ed economia dei trasporti;
-
-2) Complementi di tecnica urbanistica.
-
-Art. 188, relativo agli insegnamenti obbligatori sul piano della Facolta' del corso di laurea in Ingegneria civile (Sezione idraulica) e' abrogato e sostituito dal seguente:
-
-b) obbligatori sul piano della Facolta':
-
-1) Acquedotti e fognature;
-
-2) Costruzioni di strade, ferrovie ed aeroporti;
-
-3) Complementi di idraulica;
-
-4) Geologia applicata;
-
-5) Ingegneria sanitaria;
-
-6) Materie giuridiche ed amministrative;
-
-7) Principi di economia ed estimo;
-
-8) Tecnica delle fondazioni e costruzioni in terra
-
-Art. 189. - Nel corso di laurea in Ingegneria civile (sezione trasporti) il 2° gruppo di materie a scelta e' soppresso e sostituito dal seguente:
-
-2) Esercizio:
-
-1) Complementi di tecnica ed economia dei trasporti;
-
-2) Tecnica urbanistica;
-
-3) Tecnica della circolazione.
-
-Art. 193, relativo agli insegnamenti obbligatori su piano della Facolta' del corso di laurea in Ingegneria navale e meccanica e' abrogato e sostituito dal seguente
-
-b) obbligatori sul piano della Facolta':
-
-1) Impianti elettrici ed elettronici di bordo;
-
-2) Complementi di matematica;
-
-3) Costruzioni di macchine;
-
-4) Materie giuridiche ed amministrative;
-
-5) Macchine marine;
-
-6) Progetto delle navi;
-
-7) Statica della nave;
-
-8) Tecnologia della nave.
-
-Nello stesso corso di laurea i cinque gruppi di materie a scelta dello studente sono soppressi e sostituiti dai seguenti:
-
-c) gruppi di materie a scelta:
-
-I) Indirizzo navale:
-
-1) Navi speciali;
-
-2) Apparecchiature e strumenti di bordo;
-
-II) Indirizzo meccanico:
-
-1) Progetti di macchine;
-
-2) Automazione delle navi;
-
-III) Indirizzo nucleare navale:
-
-1) Reattori nucleari;
-
-2) Sicurezza delle navi nucleari;
-
-IV) Indirizzo missilistico:
-
-1) Elementi costruttivi di missili;
-
-2) Razzi a propulsione spaziale;
-
-V) Indirizzo tecnologico:
-
-1) Scienza dei metalli;
-
-2) Metallurgia e metallografia.
-
-Art. 196, relativo alle propedeuticita' di esami del corso di laurea in Ingegneria e' abrogato e sostituito dal seguente:
-
-"Agli effetti della successione degli insegnamenti e dei relativi esami sono da considerarsi come propedeutiche:
-
-1) la Geometria I e l'Analisi matematica I rispetto alla Geometria II, all'Analisi II, alla Meccanica razionale;
-
-2) la Fisica I rispetto alla Fisica II;
-
-3) il Disegno I rispetto al Disegno civile e meccanico;
-
-4) il Disegno civile rispetto a tutte le materie del triennio;
-
-5) l'Aerodinamica rispetto alla Aeronautica generale, alla Aerodinamica II;
-
-6) l'Aeronautica generale rispetto alla Manovra, prova in volo e strumenti ed ai Progetti di velivoli;
-
-7) l'Architettura tecnica rispetto all'Architettura e composizione architettonica, alle Costruzioni edili;
-
-8) i Complementi di idraulica rispetto agli Acquedotti e fognature, alle Bonifiche ed irrigazioni, agli impianti idroelettrici, alle Costruzioni marittime;
-
-9) le Costruzioni idrauliche rispetto agli Acquedotti e fognature, alle Bonifiche ed irrigazioni, agli impianti idroelettrici, alle Costruzioni marittime;
-
-10) le Costruzioni navali mercantili rispetto alle Costruzioni navali militari;
-
-11) le Costruzioni di strade, ferrovie ed aeroporti rispetto ai Complementi di costruzioni di strade, ferrovie ed aeroporti, alla Tecnica delle fondazioni e costruzioni in terra, alle Macchine ed organizzazione di cantiere, alla Tecnica della circolazione;
-
-12) l'Elettronica applicata rispetto ai Controlli automatici, alla Elettronica nucleare, alla Radiotecnica e televisione, alla Telefonia e telegrafia, ai Calcolatori elettronici, Misure II (elettroniche);
-
-13) l'Elettrotecnica rispetto alle Macchine elettriche, alla Elettronica applicata, alle Misure elettriche, agli Impianti idroelettrici, ai Campi elettromagnetici e circuiti, alle Misure e norme di collaudo, ai Servomeccanismi e automazione;
-
-14) la Fisica tecnica rispetto alle Macchine e alla Meccanica applicata alle macchine e macchine;
-
-15) la Geologia applicata rispetto alle Costruzioni di strade e ferrovie ed aeroporti, alle Costruzioni idrauliche, alle Costruzioni di ponti, alla Tecnica delle fondazioni e costruzioni in terra;
-
-16) l'idraulica rispetto alle Costruzioni idrauliche, alla Architettura navale, ai Complementi di idraulica, alla Ingegneria sanitaria, alla Tecnica delle fondazioni e costruzioni in terra, alle Costruzioni di strade, ferrovie ed aeroporti;
-
-17) le Macchine e le Costruzioni di macchine rispetto ai Motori per aeromobili, alle Macchine marine, ai progetti di macchine;
-
-18) le Macchine elettriche rispetto alle Costruzioni elettromeccaniche, agli Impianti elettrici, ai Controlli automatici, ai Reattori nucleari, alle Misure II (collaudi), alla Trazione elettrica;
-
-19) la Meccanica applicata alle macchine rispetto alle Costruzioni di macchine, alle Macchine, alle Costruzioni aeronautiche, alle Misure e norme di collaudo, ai Servomeccanismi e automazione;
-
-20) la Meccanica applicata alle Macchine e Macchine rispetto agli Acquedotti e fognature, alle Bonifiche ed irrigazioni, agli Impianti idroelettrici, ai Complementi di strade ferrovie e aeroporti, alle Macchine di organizzazione di cantiere, ai Complementi di tecnica ed economia dei trasporti, alla Trazione elettrica;
-
-21) la Scienza delle costruzioni rispetto alla Tecnica delle costruzioni, alle Costruzioni di strade ferrovie ed aeroporti, alle Costruzioni di ponti, alle Costruzioni di macchine, alle Costruzioni idrauliche, alle Costruzioni elettromeccaniche, alle Costruzioni aeronautiche, alle ostruzioni navali militari, alle Costruzioni di macchine elettriche, alle Costruzioni navali mercantili, alle Costruzioni edili, alle Costruzioni marittime, alle Costruzioni metalliche, ai Complementi di scienza delle costruzioni, alle Strutture speciali, alla Tecnica delle fondazioni e costruzioni in terra, alla Statica della nave, alla Tecnica delle fondazioni per civili edili;
-
-22) la Tecnica delle costruzioni rispetto ai Complementi di tecnica delle costruzioni e alle Strutture speciali;
-
-23) la Tecnica ed economia dei trasporti rispetto ai Complementi di tecnica ed economia dei trasporti, alla Trazione elettrica, alla Tecnica della circolazione;
-
-24) la Tecnica urbanistica rispetto ai Complementi di tecnica urbanistica;
-
-25) le Tecnologie generali rispetto agli Impianti meccanici, agli Impianti tecnologici;
-
-26) la Topografia rispetto alle Costruzioni di strade ferrovie ed aeroporti;
-
-27) le Macchine rispetto ai Servomeccanismi ed automazione;
-
-Gli esami delle materie propedeutiche sopra indicate devono essere sostenuti prima degli esami delle materie cui servono di preparazione".
-
-Art. 197. - E' abrogato e sostituito dal seguente:
-
-"Per essere ammesso all'esame di laurea, lo studente deve aver seguito i corsi e superati gli esami:
-
-a) nelle materie obbligatorie sul piano nazionale;
-
-b) nelle materie obbligatorie sul piano della Facolta';
-
-c) in un sol gruppo di materie a scelta fra quelle indicate per il conseguimento della laurea.
-
-Non potra' sostituire qualche materia dal gruppo prescelto con altra presa da gruppo diverso.
-
-Art. 204, relativo agli Istituti della Facolta' di ingegneria e' abrogato e sostituito dal seguente:
-
-"Gli Istituti costituiti presso la Facolta' sono i seguenti:
-
-Acquedotti e fognature;
-
-Aerodinamica;
-
-Architettura e composizione architettonica e urbanistica;
-
-Architettura navale;
-
-Architettura tecnica;
-
-Chimica industriale;
-
-Costruzioni idrauliche;
-
-Costruzioni di macchine;
-
-Costruzioni di ponti;
-
-Costruzioni di strade, ferrovie ed aeroporti;
-
-Costruzioni navali mercantili;
-
-Disegno;
-
-Elettrochimica;
-
-Elettrotecnica;
-
-Fisica tecnica;
-
-Geologia applicata;
-
-Idraulica;
-
-Impianti chimici;
-
-Impianti meccanici;
-
-Macchine;
-
-Meccanica applicata alle macchine;
-
-Progetto di velivoli;
-
-Scienza delle costruzioni;
-
-Tecnica delle costruzioni;
-
-Tecnica delle fondazioni e costruzioni in terra;
-
-Tecnica ed economia dei trasporti;
-
-Tecnologie meccaniche;
-
-Tecnologia della nave.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 26 aprile 1966
-
-SARAGAT
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 18 giugno 1966 Atti del Governo, registro n. 203, foglio n. 146. - VILLA
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904) e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Relativo all'ordinamento del biennio di studi propedeutici della Facolta' di ingegneria, l'art. 185 e' abrogato e sostituito dal seguente:  
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Biennio di studi propedeutici  
-Art. 185. - Gli insegnamenti fondamentali comuni a tutti i corsi di laurea sono i seguenti:  
-1) Analisi matematica I;  
-2) Geometria I;  
-3) Fisica I;  
-4) Chimica;  
-5) Disegno;  
-6) Analisi matematica II;  
-7) Meccanica razionale;  
-8) Fisica II;  
-9) Geometria II (solo per i corsi di laurea in ingegneria civile).  
-Per i corsi di laurea in ingegneria meccanica, elettrotecnica, elettronica, aeronautica e navale e meccanica, l'insegnamento di Geometria II e' sostituito con quello di:  
-9) Disegno meccanico.  
-Per il corso di laurea in ingegneria chimica l'insegnamento di Geometria II e' sostituito con quello di:  
-9) Chimica organica.  
-A questi insegnamenti vanno aggiunti:  
-per i corsi di laurea in Ingegneria civile:  
-10) Disegno civile;  
-per i corsi di laurea in Ingegneria meccanica ed aeronautica;  
-10) Chimica applicata (obbligatorio sul piano nazionale);  
-per i corsi di laurea in Ingegneria elettrotecnica ed elettronica;  
-10) Tecnologie generali dei materiali (obbligatorio sul piano della Facolta);  
-per il corso di laurea in Ingegneria navale e meccanica:  
-10) Chimica applicata (obbligatorio sul piano nazionale);  
-11) Tecnologie generali dei materiali (obbligatorio sul piano della Facolta).  
+Dopo l'art. 330 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di perfezionamento nelle ricerche storico-giuridiche presso la facolta' di giurisprudenza.   
   
-Art. 187, relativo agli insegnamenti obbligatori sul piano della Facolta' del corso di laurea in Ingegneria civile (Sezione edile) e' abrogato e sostituito dal seguente:  
+Scuola di perfezionamento nelle ricerche storico-giuridiche   
   
-b) obbligatori sul piano della Facolta':  
-1) Costruzioni di strade, ferrovie ed aeroporti;  
-2) Costruzioni edili;  
-3) Costruzioni idrauliche;  
-4) Complementi di tecnica delle costruzioni;  
-5) Tecnica delle fondazioni per edili;  
-6) Materie giuridiche ed amministrative;  
-7) Principi di economia ed estimo;  
-8) Tecnica urbanistica.  
-  
-Nello stesso corso di laurea i tre gruppi di materie in scelta dello studente sono soppressi e sostituiti dai seguenti:  
-  
-c) gruppi di materie a scelta:  
-I) Indirizzo strutturale:  
-1) Complementi di scienza delle costruzioni;  
-2) Costruzioni di ponti;  
-II) Indirizzo urbanistico:  
-1) Tecnica ed economia dei trasporti;  
-2) Complementi di tecnica urbanistica.  
-  
-Art. 188, relativo agli insegnamenti obbligatori sul piano della Facolta' del corso di laurea in Ingegneria civile (Sezione idraulica) e' abrogato e sostituito dal seguente:  
-  
-b) obbligatori sul piano della Facolta':  
-1) Acquedotti e fognature;  
-2) Costruzioni di strade, ferrovie ed aeroporti;  
-3) Complementi di idraulica;  
-4) Geologia applicata;  
-5) Ingegneria sanitaria;  
-6) Materie giuridiche ed amministrative;  
-7) Principi di economia ed estimo;  
-8) Tecnica delle fondazioni e costruzioni in terra  
-  
-Art. 189. - Nel corso di laurea in Ingegneria civile (sezione trasporti) il 2° gruppo di materie a scelta e' soppresso e sostituito dal seguente:  
-  
-2) Esercizio:  
-1) Complementi di tecnica ed economia dei trasporti;  
-2) Tecnica urbanistica;  
-3) Tecnica della circolazione.  
-  
-Art. 193, relativo agli insegnamenti obbligatori su piano della Facolta' del corso di laurea in Ingegneria navale e meccanica e' abrogato e sostituito dal seguente  
-  
-b) obbligatori sul piano della Facolta':  
-1) Impianti elettrici ed elettronici di bordo;  
-2) Complementi di matematica;  
-3) Costruzioni di macchine;  
-4) Materie giuridiche ed amministrative;  
-5) Macchine marine;  
-6) Progetto delle navi;  
-7) Statica della nave;  
-8) Tecnologia della nave.  
-  
-Nello stesso corso di laurea i cinque gruppi di materie a scelta dello studente sono soppressi e sostituiti dai seguenti:  
-  
-c) gruppi di materie a scelta:  
-I) Indirizzo navale:  
-1) Navi speciali;  
-2) Apparecchiature e strumenti di bordo;  
-II) Indirizzo meccanico:  
-1) Progetti di macchine;  
-2) Automazione delle navi;  
-III) Indirizzo nucleare navale:  
-1) Reattori nucleari;  
-2) Sicurezza delle navi nucleari;  
-IV) Indirizzo missilistico:  
-1) Elementi costruttivi di missili;  
-2) Razzi a propulsione spaziale;  
-V) Indirizzo tecnologico:  
-1) Scienza dei metalli;  
-2) Metallurgia e metallografia.  
-  
-Art. 196, relativo alle propedeuticita' di esami del corso di laurea in Ingegneria e' abrogato e sostituito dal seguente:  
-"Agli effetti della successione degli insegnamenti e dei relativi esami sono da considerarsi come propedeutiche:  
-  
-1) la Geometria I e l'Analisi matematica I rispetto alla Geometria II, all'Analisi II, alla Meccanica razionale;  
-2) la Fisica I rispetto alla Fisica II;  
-3) il Disegno I rispetto al Disegno civile e meccanico;  
-4) il Disegno civile rispetto a tutte le materie del triennio;  
-5) l'Aerodinamica rispetto alla Aeronautica generale, alla Aerodinamica II;  
-6) l'Aeronautica generale rispetto alla Manovra, prova in volo e strumenti ed ai Progetti di velivoli;  
-7) l'Architettura tecnica rispetto all'Architettura e composizione architettonica, alle Costruzioni edili;  
-8) i Complementi di idraulica rispetto agli Acquedotti e fognature, alle Bonifiche ed irrigazioni, agli impianti idroelettrici, alle Costruzioni marittime;  
-9) le Costruzioni idrauliche rispetto agli Acquedotti e fognature, alle Bonifiche ed irrigazioni, agli impianti idroelettrici, alle Costruzioni marittime;  
-10) le Costruzioni navali mercantili rispetto alle Costruzioni navali militari;  
-11) le Costruzioni di strade, ferrovie ed aeroporti rispetto ai Complementi di costruzioni di strade, ferrovie ed aeroporti, alla Tecnica delle fondazioni e costruzioni in terra, alle Macchine ed organizzazione di cantiere, alla Tecnica della circolazione;  
-12) l'Elettronica applicata rispetto ai Controlli automatici, alla Elettronica nucleare, alla Radiotecnica e televisione, alla Telefonia e telegrafia, ai Calcolatori elettronici, Misure II (elettroniche);  
-13) l'Elettrotecnica rispetto alle Macchine elettriche, alla Elettronica applicata, alle Misure elettriche, agli Impianti idroelettrici, ai Campi elettromagnetici e circuiti, alle Misure e norme di collaudo, ai Servomeccanismi e automazione;  
-14) la Fisica tecnica rispetto alle Macchine e alla Meccanica applicata alle macchine e macchine;  
-15) la Geologia applicata rispetto alle Costruzioni di strade e ferrovie ed aeroporti, alle Costruzioni idrauliche, alle Costruzioni di ponti, alla Tecnica delle fondazioni e costruzioni in terra;  
-16) l'idraulica rispetto alle Costruzioni idrauliche, alla Architettura navale, ai Complementi di idraulica, alla Ingegneria sanitaria, alla Tecnica delle fondazioni e costruzioni in terra, alle Costruzioni di strade, ferrovie ed aeroporti;  
-17) le Macchine e le Costruzioni di macchine rispetto ai Motori per aeromobili, alle Macchine marine, ai progetti di macchine;  
-18) le Macchine elettriche rispetto alle Costruzioni elettromeccaniche, agli Impianti elettrici, ai Controlli automatici, ai Reattori nucleari, alle Misure II (collaudi), alla Trazione elettrica;  
-19) la Meccanica applicata alle macchine rispetto alle Costruzioni di macchine, alle Macchine, alle Costruzioni aeronautiche, alle Misure e norme di collaudo, ai Servomeccanismi e automazione;  
-20) la Meccanica applicata alle Macchine e Macchine rispetto agli Acquedotti e fognature, alle Bonifiche ed irrigazioni, agli Impianti idroelettrici, ai Complementi di strade ferrovie e aeroporti, alle Macchine di organizzazione di cantiere, ai Complementi di tecnica ed economia dei trasporti, alla Trazione elettrica;  
-21) la Scienza delle costruzioni rispetto alla Tecnica delle costruzioni, alle Costruzioni di strade ferrovie ed aeroporti, alle Costruzioni di ponti, alle Costruzioni di macchine, alle Costruzioni idrauliche, alle Costruzioni elettromeccaniche, alle Costruzioni aeronautiche, alle ostruzioni navali militari, alle Costruzioni di macchine elettriche, alle Costruzioni navali mercantili, alle Costruzioni edili, alle Costruzioni marittime, alle Costruzioni metalliche, ai Complementi di scienza delle costruzioni, alle Strutture speciali, alla Tecnica delle fondazioni e costruzioni in terra, alla Statica della nave, alla Tecnica delle fondazioni per civili edili;  
-22) la Tecnica delle costruzioni rispetto ai Complementi di tecnica delle costruzioni e alle Strutture speciali;  
-23) la Tecnica ed economia dei trasporti rispetto ai Complementi di tecnica ed economia dei trasporti, alla Trazione elettrica, alla Tecnica della circolazione;  
-24) la Tecnica urbanistica rispetto ai Complementi di tecnica urbanistica;  
-25) le Tecnologie generali rispetto agli Impianti meccanici, agli Impianti tecnologici;  
-26) la Topografia rispetto alle Costruzioni di strade ferrovie ed aeroporti;  
-27) le Macchine rispetto ai Servomeccanismi ed automazione;  
-Gli esami delle materie propedeutiche sopra indicate devono essere sostenuti prima degli esami delle materie cui servono di preparazione".  
-  
-Art. 197. - E' abrogato e sostituito dal seguente:  
-"Per essere ammesso all'esame di laurea, lo studente deve aver seguito i corsi e superati gli esami:  
-a) nelle materie obbligatorie sul piano nazionale;  
-b) nelle materie obbligatorie sul piano della Facolta';  
-c) in un sol gruppo di materie a scelta fra quelle indicate per il conseguimento della laurea.  
-Non potra' sostituire qualche materia dal gruppo prescelto con altra presa da gruppo diverso.  
-  
-Art. 204, relativo agli Istituti della Facolta' di ingegneria e' abrogato e sostituito dal seguente:  
-"Gli Istituti costituiti presso la Facolta' sono i seguenti:  
-Acquedotti e fognature;  
-Aerodinamica;  
-Architettura e composizione architettonica e urbanistica;  
-Architettura navale;  
-Architettura tecnica;  
-Chimica industriale;  
-Costruzioni idrauliche;  
-Costruzioni di macchine;  
-Costruzioni di ponti;  
-Costruzioni di strade, ferrovie ed aeroporti;  
-Costruzioni navali mercantili;  
-Disegno;  
-Elettrochimica;  
-Elettrotecnica;  
-Fisica tecnica;  
-Geologia applicata;  
-Idraulica;  
-Impianti chimici;  
-Impianti meccanici;  
-Macchine;  
-Meccanica applicata alle macchine;  
-Progetto di velivoli;  
-Scienza delle costruzioni;  
-Tecnica delle costruzioni;  
-Tecnica delle fondazioni e costruzioni in terra;  
-Tecnica ed economia dei trasporti;  
-Tecnologie meccaniche;  
-Tecnologia della nave.  
+Art. 331. - La scuola di perfezionamento nelle ricerche storico-giuridiche ha lo scopo di promuovere l'approfondimento dello studio del metodo storico, quale mezzo di valutazione esegetica degli ordinamenti e delle norme loro congruenti, per la migliore formazione dello spirito critico del giurista; di giovare efficacemente alla inclinazione storica dei giovani, che mirano ad una positiva ricerca del diritto nelle realta' sociali del tempo in cui si e' svolto, ed offrire un valido strumento di scienza a chi voglia avviarsi alla carriera archivistica.   
+Art. 332. - La scuola e' diretta e rappresentata da un docente ordinario o fuori ruolo di storia del diritto italiano della facolta' di giurisprudenza eletto per un triennio a maggioranza assoluta di voti da parte del consiglio della scuola, che provvede anche alla elezione di un vice direttore scelto tra i suoi membri. Entrambi sono rieleggibili.   
+Art. 333. - La scuola conferisce il diploma di specializzazione in ricerche storico-giuridiche.   
+Art. 334. - Sono ammessi alla scuola i laureati in giurisprudenza, in lettere, in filosofia, in scienze politiche, in economia e commercio che all'atto della iscrizione abbiano previamente superato i tre seguenti esami della facolta' di giurisprudenza:   
+1) Storia del diritto romano;   
+2) Istituzioni di diritto romano;   
+3) Storia del diritto italiano.   
+Nella eventualita' che gli iscritti non abbiano sostenuto i tre predetti esami, od alcuno di essi, la loro iscrizione e' condizionata al superamento di prove integranti, con puro valore interno relativo alle suddette discipline in tempi e modi fissati dal consiglio della scuola d'accordo con gli interessati.   
+Art. 335. - Gli iscritti alla scuola sono tenuti a pagare le tasse, soprattasse e contributi secondo quanto stabilito per gli studenti della facolta' di giurisprudenza e la tassa di diploma nella misura di lire seimila ai sensi dell'[art. 7 della legge 18 dicembre 1951, n.   
+1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).   
+Sono tenuti, altresi', a pagare un contributo speciale nella misura che sara' determinata annualmente dal consiglio d'amministrazione, su proposta del direttore della scuola.   
+Art. 336. - Il corso della scuola ha la durata di due anni. Il numero, degli iscritti e' di cinquanta per ogni anno.   
+Art. 337. - Sono insegnamenti fondamentali della scuola:   
+1) Archivistica;   
+2) Paleografia giuridica e diplomatica;   
+3) Euristica delle fonti giuridiche e critica del testo;   
+4) Latino medioevale;   
+5) Storia degli ordinamenti medioevali e moderni;   
+6) Storia del diritto penale medioevale e moderno;   
+7) Storia del diritto canonico;   
+8) Storia del diritto privato medioevale e moderno;   
+9) Storia del diritto marittimo medioevale e moderno;   
+10) Storia dell'economia medioevale e moderna;   
+11) Esegesi delle fonti del diritto italiano medioevale e moderno (biennale).   
+Sono insegnamenti facoltativi della scuola:   
+1) Greco bizantino;   
+2) Storia medioevale;   
+3) Storia moderna;   
+4) Storia del diritto bizantino con particolare riguardo all'Italia;   
+5) Storia del diritto mussulmano con particolare riguardo all'Italia.   
+Art. 338. - Per conseguire il diploma gli iscritti debbono:   
+A) aver seguito i corsi la cui frequenza e' obbligatoria e superato gli esami assegnati a ciascun anno secondo il seguente piano di studi:   
+1° Anno:   
+1) Archivistica;   
+2) Paleografia giuridica e diplomatica;   
+3) Euristica delle fonti giuridiche e critica del testo;   
+4) Latino medioevale;   
+5) Storia degli ordinamenti italiani medioevali e moderni;   
+6) Storia del diritto privato medioevale e moderno;   
+7) Esegesi delle fonti del diritto italiano medioevale e moderno (I).   
+2° Anno:   
+1) Storia del diritto canonico;   
+2) Storia del diritto penale medioevale e moderno;   
+3) Storia dell'economia medioevale e moderna;   
+4) Storia del diritto marittimo medioevale e moderno;   
+5) Esegesi delle fonti del diritto italiano medioevale e moderno (II).   
+Gli iscritti, inoltre, debbono aver frequentato i corsi e superato gli esami di due materie facoltative a loro scelta, sostenendone le prove in anno e sessione a loro gradimento.   
+B) aver apprestato l'edizione critica di un testo giuridico o economico, medioevale o moderno, oppure di una serie di documenti della medesima natura su descritta, corredandola di una introduzione scientifica metodologicamente valida a darne il dovuto risalto storico.   
+La discussione del lavoro scritto e' sottoposta alla previa autorizzazione del direttore della scuola; assunta relazione scritta di due relatori che hanno seguito lo sviluppo del lavoro stesso e ne accertano responsabilmente il valore scientifico. La definitiva pubblicazione del lavoro sara' effettuata nell'apposita collana della scuola.   
+Art. 339. - Gli iscritti alla scuola, che abbiano superato da non oltre un quadriennio nella facolta' di loro provenienza esami di materie del corso della scuola, possono rivolgere domanda al direttore della scuola per conseguire l'esonero completo o parziale degli esami sulle materie stesse, purche' ne diano documentata prova ed abbiano conseguito una votazione superiore ai 24/30.   
+Gli iscritti alla scuola, che abbiano conseguito tale esonero potranno, su loro domanda, che verra' esaminata dal consiglio della scuola, essere ammessi a frequentare taluni corsi di lezioni del secondo anno.   
+Art. 340. - Particolari corsi di lezioni o singole lezioni su specifiche materie del tutto attinenti al tipo della scuola e al concreto indirizzo degli studi potranno essere affidati a studiosi specialisti.   
+Tali corsi di lezione non costituiscono materia di esame, ma potranno avviare veri e propri seminari con discussione degli argomenti trattati da parte degli iscritti alla scuola, che avranno l'obbligo di intervenirvi.   
+La formazione di tali speciali corsi potra' essere organizzata anche su richiesta degli iscritti alla scuola al direttore, che ne fara' oggetto di deliberazione al consiglio della scuola.   
+Art. 341. - Il consiglio della scuola si compone dei professori incaricati degli insegnamenti fondamentali ed e' presieduto dal direttore, che lo convoca.   
+La convocazione del consiglio della scuola puo' essere richiesta dalla meta' piu' uno dei professori che ne fanno parte.   
+Gli incarichi d'insegnamento vengono conferiti dal rettore su designazione del direttore della scuola, sentito il parere del consiglio della scuola.   
+Art. 342. - Il direttore della scuola ha compiti di indirizzo, di coordinamento ed organizzazione dei programmi riflettenti le attivita' didattica e scientifica della scuola, sentito il parere del consiglio della scuola.   
+Art. 343. - Le commissioni per gli esami di profitto vengono nominate dal direttore della scuola con un numero minimo di tre membri di materie fra loro affini. Le commissioni per gli esami di diploma, nominate dal direttore della scuola, sono composte di sei membri oltre il direttore della scuola.   
+Art. 344. - Le pubblicazioni che saranno giudicate dalla commissione di diploma degne della speciale valutazione della "menzione onorevole" potranno, essere premiate, ove sia possibile disporne, di un particolare premio. Le modalita' per il conferimento di tale premio saranno fissate e rese note prima dell'inizio di ciascun anno accademico dal direttore della scuola, dopo averne trattato con il consiglio della scuola.   
+Art. 345. - Al termine di ogni biennio il direttore della scuola, raccolti i ragguagli dei singoli professori sull'attivita' didattica e sulla partecipazione degli iscritti alla vita della scuola, trasmettera' al rettore e al preside della facolta' di giurisprudenza una relazione che assommera' i risultati raggiunti e le nuove iniziative programmate.   
+Disposizione transitoria   
+Nella fase istitutiva, organizzativa e consolidatrice della scuola, la direzione della medesima, per mandato della facolta' di giurisprudenza, e' affidata per il primo triennio al docente ordinario della I cattedra di storia del diritto italiano della facolta' stessa, che ne ha assunto l'iniziativa.   
+Il direttore, in tale triennio, procedera' direttamente a designare al rettore i nomi dei professori incaricati dell'insegnamento delle discipline in corso per il loro legale conferimento.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 aprile 1966
+### Dato a Roma, addi' 31 ottobre 1972
 
-SARAGAT GUI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 18 giugno 1966
+Registrato alla Corte dei conti, addi' 9 marzo 1973
 
-Atti del Governo, registro n. 203, foglio n. 146. - VILLA
+Atti di Governo, registro n. 256, foglio n. 58. - VALENTINI

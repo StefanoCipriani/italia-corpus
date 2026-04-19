@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 gennaio 1964 n. 84
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 gennaio 1962 n. 70
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 gennaio 1964 n. 84
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 gennaio 1962 n. 70
 =============================================================
 
 Autorizzazione alla "Fondazione Pro Juventute Don Carlo Gnocchi" ad accettare un legato.
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-84. Decreto del Presidente della Repubblica 12 gennaio 1964, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi" viene autorizzata ad accettare un legato di L. 2.000.000 (duemilioni), disposto dalla defunta signorina Delfina Maggi, con testamento olografo del 22 novembre 1961, depositato e pubblicato per atto a rogito dott.  
-Settimio Lulli, notaio in Seregno, in data 27 novembre 1962, repertorio n. 3574, racc. n. 1979, a favore dei "Mutilatini Don Gnocchi", che si identificano nella Fondazione sopra indicata.  
+70. Decreto del Presidente della Repubblica 26 gennaio 1962, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi", viene autorizzata ad accettare il legato di L. 600.000 (seicentomila), disposto dalla defunta signorina Gelsomina Della Monica, con testamento pubblico a rogito dott. Alberto Ricci, notaio in Savignano sul Rubicone, in data 5 luglio 1960, n. 30 di repertorio.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 4 marzo 1964  
-Atti del governo, registro n. 181, foglio n. 155. - VILLA
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 24 febbraio 1962  
+Atti del Governo, registro n. 144, foglio n. 2. - VILLA

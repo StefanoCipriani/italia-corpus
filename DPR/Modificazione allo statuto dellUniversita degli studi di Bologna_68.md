@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1985 n. 797
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 621
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1985 n. 797
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 621
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -39,22 +39,25 @@ Articolo unico
 --------------
 
   
-  
-Nell'art. 107, relativo al corso di laurea in fisica della facolta' di scienze matematiche, fisiche e naturali, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:   
-metodi nucleari di analisi tecnologiche.   
+Nell'art. 154, relativo al corso di laurea in scienze agrarie, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+patologia delle sementi;  
+fisiologia e genetica dei batteri;  
+olivicoltura;  
+agrometeorologia;  
+commercio internazionale dei prodotti agricoli;  
+coltivazione e patologia dei funghi commestibili;  
+patologia dei prodotti e delle derrate agrarie.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 settembre 1985
+### Dato a Roma, addi' 15 luglio 1983
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 19 dicembre 1985
+Registrato alla Corte dei conti, addi' 15 ottobre 1983
 
-Registro n. 86 Istruzione, foglio n. 147
+Registro n. 66 Istruzione, foglio n. 143

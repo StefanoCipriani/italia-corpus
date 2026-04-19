@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1978 n. 774
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1963 n. 1534
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1978 n. 774
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1963 n. 1534
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 -------------------------------------------------------------------
@@ -10,104 +10,117 @@ Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 ottobre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-10-07;1540), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, numero 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-L'art. 39 e' modificato nel senso che la facolta' di economia e commercio conferisce anche la laurea in scienze statistiche ed attuariali.   
-Dopo l'art. 43, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione del corso di laurea in scienze statistiche ed attuariali.   
-Art. 44. - La durata del corso degli studi per la laurea in scienze statistiche ed attuariali e' di quattro anni.   
-I titoli di ammissione sono quelli previsti dalle vigenti disposizioni di legge.   
-I diplomati in statistica sono ammessi al terzo anno, ma il consiglio di facolta' provvedera' a prescrivere di volta in volta il piano di studi per adire la laurea.   
-Sono insegnamenti fondamentali:   
-istituzioni di analisi matematica;   
-analisi matematica;   
-geometria analitica;   
-calcolo delle probabilita';   
-istituzioni di statistica;   
-statistica;   
-statistica metodologica;   
-demografia;   
-istituzioni di economia politica;   
-statistica economica;   
-istituzioni di diritto privato;   
-istituzioni di diritto pubblico;   
-sociologia;   
-statistica assicurativa;   
-matematica finanziaria e istituzioni di matematica attuariale;   
-tecnica attuariale delle assicurazioni libere sulla vita;   
-tecnica attuariale delle assicurazioni sociali;   
-istituzioni di statistica economica;   
-tecnica attuariale delle assicurazioni contro i danni;   
-diritto delle assicurazioni private e sociali;   
-economia e finanza delle imprese di assicurazioni.   
-Sono insegnamenti complementari:   
-analisi numerica;   
-econometria;   
-economia matematica;   
-economia politica;   
-estimo ed esercizio professionale;   
-istituzioni di analisi superiore;   
-merceologia;   
-organizzazione e direzione aziendale;   
-politica economica;   
-principi e tecniche delle applicazioni meccanografiche ed elettroniche;   
-programmazione per calcolatori elettronici;   
-ragioneria generale ed applicata;   
-ricerca operativa;   
-scienza delle finanze;   
-tecnica bancaria e professionale;   
-tecnica industriale e commerciale;   
-tecnica delle ricerche di mercato;   
-tecnologia dei cicli produttivi;   
-teoria dei giochi e delle decisioni;   
-fonti di energia;   
-risorse naturali;   
-economia monetaria e creditizia;   
-storia economica;   
-teoria della localizzazione;   
-diritto privato comparato;   
-programmazione aziendale;   
-tecnica dell'organizzazione dei servizi amministrativi;   
-metodologie e determinazioni quantitative di azienda.   
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti fondamentali e di almeno due complementari. Dovra' anche aver superato gli esami di due lingue straniere da scegliere tra quelle il cui insegnamento (triennale) e' impartito nella facolta'.   
-Lo studente inoltre deve aver ottenuto la firma di frequenza di tre istituti della facolta'.   
-Per essere iscritto al secondo anno lo studente deve aver superato almeno due esami fondamentali del primo anno.   
-Art. 45. - Le precedenze per l'iscrizione e per l'esame fra gli insegnamenti del corso di laurea in scienze statistiche ed attuariali sono stabilite come segue:   
-Sono seguenti:   
-analisi matematica rispetto a istituzioni di analisi matematica e geometria analitica;   
-statistica rispetto a istituzioni di analisi matematica, geometria analitica, istituzioni di statistica;   
-demografia rispetto a istituzioni di statistica;   
-statistica economica rispetto a istituzioni di economia politica, istituzioni di statistica economica;   
-calcolo delle probabilita' rispetto ad analisi matematica;   
-tecniche attuariali, economia e finanza delle imprese di assicurazione rispetto a matematica finanziaria ed istituzioni di matematica attuariale;   
-statistica assicurativa, matematica finanziaria ed istituzioni di matematica attuariale, diritto delle assicurazioni private e sociali, statistica metodologica, economia e finanza delle imprese di assicurazione rispetto a istituzioni di analisi matematiche, geometria analitica, istituzioni di statistica, istituzioni di economia politica, istituzioni di statistica economica, istituzioni di diritto privato, analisi matematica, calcolo delle probabilita', statistica, demografia, statistica economica, istituzioni di diritto pubblico.   
-Art. 46. - La dissertazione scritta per l'esame di laurea in scienze statistiche ed attuariali puo' concernere qualunque materia elencata nell'art. 44 ad eccezione delle lingue e delle istituzioni di diritto pubblico.   
-Essa dovra' essere depositata in segreteria, in quattro copie a stampa o dattilografate, venti giorni prima dei relativi esami.   
-L'esame dev'essere integrato dalla discussione di un argomento scelto, con la approvazione del professore della disciplina, in una materia tra quelle elencate nello art. 44 con l'eccezione di quella della dissertazione di laurea.   
+Art. 25. - All'elenco degli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti quelli di:  
+Diritto internazionale privato;  
+Filologia giuridica.  
+Art. 28. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze politiche sono aggiunti quelli di:  
+Organizzazione internazionale;  
+Scienza della amministrazione.  
+Art. 32. - Dall'elenco degli Istituti delle Facolta' di Giurisprudenza sono soppressi quelli di:  
+Istituto di Diritto penale;  
+Istituto di Diritto ecclesiastico e canonico.  
+Art. 34 - L'elenco degli esami complementari del corso di laurea in Economia e commercio e' abrogato e sostituito dal seguente:  
+Sono insegnamenti complementari:  
+1) Demografia;  
+2) Diritto amministrativo;  
+3) Diritto internazionale;  
+4) Diritto processuale civile;  
+5) Diritto tributario;  
+6) Econometria;  
+7) Economia dei trasporti;  
+8) Economia agraria comparata;  
+9) Economia internazionale;  
+10) Economia matematica;  
+11) Economia monetaria e creditizia;  
+12) Lingua serbocroata;  
+13) Organizzazione e direzione aziendale;  
+14) Principi e tecnica delle applicazioni meccanografiche ed elettroniche;  
+15) Ricerca operativa;  
+16) Sociologia;  
+17) Statistica assicurativa;  
+18) Statistica economica;  
+19) Storia del pensiero economico;  
+20) Tecnica amministrativa e ragioneria delle aziende pubbliche;  
+21) Tecnica del commercio internazionale;  
+22) Tecnica delle ricerche di mercato;  
+23) Tecnologie dei cicli produttivi.  
+Art. 35, relativo alle propedeuticita' del corso di laurea in Economia e commercio e' modificato nel senso che e' abolita la propedeuticita' per l'iscrizione e l'esame delle Istituzioni di Diritto privato rispetto al Diritto della navigazione e al Diritto industriale e del Diritto commerciale rispetto al Diritto industriale.  
+Art. 39. - All'elenco degli insegnamenti complementari del corso di laurea in Lettere sono aggiunti quelli di:  
+Psicologia sociale;  
+Filologia micenea;  
+Storia della filosofia antica;  
+Storia della letteratura italiana moderna e contemporanea;  
+Sociologia.  
+Art. 40. - All'elenco degli insegnamenti complementari del corso di laurea in Filosofia sono aggiunti quelli di:  
+Psicologia sociale;  
+Filosofia della scienza;  
+Filosofia del linguaggio;  
+Glottologia;  
+Storia della critica d'arte;  
+Storia dell'arte medioevale o Storia dell'arte moderna;  
+Storia della filosofia moderna e contemporanea;  
+Storia contemporanea;  
+Storia della critica letteraria;  
+Sociologia.  
+Art. 48. - All'elenco degli insegnamenti complementari del corso di laurea in Materie letterarie e' aggiunto quello di: "Storia della geografia e delle esplorazioni geografiche".  
+Art. 58. - All'elenco degli insegnamenti complementari del corso di laurea in Chimica sono aggiunti i seguenti:  
+a) per l'indirizzo organico biologico;  
+Spettroscopia;  
+Geochimica;  
+b) per l'indirizzo inorganico-chimico-fisico;  
+Chimica teorica;  
+Strutturistica chimica;  
+Chimica organica superiore;  
+Complementi di matematiche.  
+Art. 60. - All'elenco degli insegnamenti complementari del corso di laurea in Matematica sono aggiunti i seguenti:  
+Matematiche superiori;  
+Matematiche complementari;  
+Matematiche elementari dal punto di vista superiore;  
+Calcolo delle probabilita';  
+Applicazione della matematica all'economia;  
+Statistica matematica.  
+Art. 61. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze naturali e' aggiunto quello di "Biologia marina".  
+Art. 62, relativa alle esercitazioni del corso di laurea in Scienze naturali e' modificato nel senso che il secondo comma e' abrogato.  
+Art. 67. - All'elenco degli Istituti della Facolta' di Scienze matematiche, fisiche e naturali sono aggiunti i seguenti:  
+Istituto di Geodesia, e geofisica;  
+Istituto di Fisica teorica.  
+Cambiano, invece, denominazione i seguenti:  
+Istituto di Zoologia in Zoologia e anatomia comparata;  
+Istituto di Geologia in Geologia e paleontologia;  
+Istituto di Mineralogia in Mineralogia e petrografia;  
+Istituto di Botanica in Istituto e orto botanico.  
+Art. 69. - All'elenco degli insegnamenti complementari del corso di laurea in Farmacia e' aggiunto quello di:  
+"Chimica farmaceutica applicata".  
+Art. 73. - All'elenco degli Istituti della Facolta' di Farmacia sono aggiunti i seguenti:  
+Istituto di Chimica biologica;  
+Istituto di Fisiologia.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo, a chiunque spetti, di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti osservarlo e di farlo osservare.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 settembre 1978
+### Dato a Roma, addi' 14 ottobre 1963
 
-PERTINI PEDINI
+SEGNI GUI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 30 novembre 1978
+Registrato alla Corte dei conti, addi' 22 novembre 1963
 
-Registro n. 127 Istruzione, foglio n. 249
+Atti del Governo, registro n. 176, foglio n. 83. - VILLA

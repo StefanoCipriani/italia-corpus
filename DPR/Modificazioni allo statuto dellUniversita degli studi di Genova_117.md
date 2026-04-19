@@ -1,81 +1,123 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1977 n. 1033
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 agosto 1982 n. 837
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1977 n. 1033
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 agosto 1982 n. 837
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
-  
-Decreta:   
-  
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 71 - il testo del primo comma e' abrogato e sostituito con il seguente:   
-"L'esame di laurea consiste nella discussione di una dissertazione scritta su argomento precedentemente assegnato".   
-Gli articoli da 416 a 426, relativi all'ordinamento della scuola per ortottiste, sono abrogati e sostituiti, con il seguente spostamento della numerazione degli articoli successivi, con i seguenti:   
-Art. 416. - E' istituita presso la facolta' di medicina e chirurgia una scuola speciale di preparazione per ortottisti - assistenti di oftalmologia che ha sede presso la clinica oculistica.   
-Art. 417. - La scuola ha lo scopo di dare una preparazione completa, teorico-pratica, istruendo gli allievi sui problemi della motilita' oculare, della ambliopia, delle tecniche diagnostiche della visione binoculare, del trattamento pre e post-operatorio dei pazienti strabici; dei problemi sui vizi di refrazione, della loro correzione e sulle tecniche diagnostiche in oftalmologia.   
-La durata del corso per conseguire il diploma di ortottista - assistente di oftalmologia e' di tre anni.   
-Ne sono titoli di ammissione il possesso di un diploma legalmente valido ai fini della iscrizione all'Universita' ai sensi dell'[art. 1 della legge n. 910 dell'11 dicembre 1969](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1) e la conoscenza di una lingua straniera (inglese, francese, tedesco, spagnolo).   
-Art. 418. - Gli aspiranti all'iscrizione al primo anno di corso sono tenuti a sostenere un esame di ammissione consistente in una prova di cultura generale e in una prova per la conoscenza della lingua straniera. E' richiesto un certificato di sana e robusta costituzione, con particolare riguardo alla funzione visiva.   
-Art. 419. - Il numero complessivo degli iscritti alla scuola e' di dodici (quattro per anno di corso). Qualora le domande di iscrizione fossero in numero superiore al numero massimo previsto, il consiglio della scuola si riserva di provvedere ad una scelta tra gli idonei in base ai risultati delle prove di ammissione: gli idonei possono essere ammessi anche in soprannumero in rapporto ai posti che si rendessero vacanti nel corso del secondo o terzo anno. I ripetenti e i fuori corso, qualora riprendano gli studi, sono riammessi in soprannumero.   
-Art. 420. - Il direttore della scuola e il titolare della cattedra di clinica oculistica o altro docente di disciplina affine, proposto dal titolare della cattedra di clinica oculistica, sentito il consiglio della scuola.   
-Art. 421. - L'anno accademico ha inizio e termine nelle date stabilite dalla legge in vigore per l'istruzione universitaria. La frequenza e' obbligatoria.   
-Art. 422. - Il corso comprende lezioni teoriche ed esercitazioni pratiche. Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-1) elementi di anatomia dell'apparato visivo e del sistema nervoso centrale;   
-2) fisiologia dell'occhio, della motilita' oculare, della visione binoculare;   
-3) ottica fisica e fisiopatologica;   
-4) ortottica 1;   
-5) psicologia infantile.   
-2° Anno:   
-1) elementi di patologia oculare;   
-2) elementi di farmacologia oculare;   
-3) elementi di neurooftalmologia;   
-4) nozioni di chirurgia ed assistenza oftalmica;   
-5) ortottica II.   
-3° Anno:   
-1) tecniche semeiologiche dell'apparato visivo (esame della refrazione, contattologia, adattometria, campo visivo, senso cromatico);   
-2) tecniche semeiologiche ed elettrofisiologiche (tonometria, e tonografia, elettroretinografia, elettrooculografia, elettromiografia, ecografia, retinografia e fluoroangiografia);   
-3) ortottica III;   
-4) nozioni di riabilitazione senso motoria nell'eta' infantile;  
-5) legislazione sanitaria.   
-Art. 423. - L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni e dall'obbligo, per gli allievi, dell'internato per l'intero periodo di corso di studi nella clinica oculistica. La frequenza viene comprovata dalla attestazione rilasciata sul libretto di iscrizione dagli insegnanti e per l'attivita' pratica dal direttore della scuola. L'attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.   
-Art. 424.- Alla fine di ogni anno gli allievi devono sostenere un esame sulle materie di insegnamento. Nel caso in cui i candidati non abbiano superato gli esami prescritti, essi rimarranno nella posizione di ripetenti.   
-Art. 425. - Gli esami di profitto consistono in prove teoriche e pratiche.   
-Art. 426. - Alla fine del corso gli allievi debbono sostenere un esame di diploma che consiste nella discussione di una tesi scritta su un argomento riguardante le materie di insegnamento, assegnata dal direttore della scuola e in una prova pratica stabilita da una commissione esaminatrice. I candidati non riconosciuti idonei dovranno ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola ma, se al secondo anno non sia loro riconosciuta la idoneita', saranno senz'altro esclusi da ulteriori prove.   
-Art. 427. - Gli esami di profitto e di diploma si danno in due sessioni, la prima estiva che ha inizio subito dopo la chiusura annuale dei corsi e la seconda autunnale, nel mese che precede l'inizio del nuovo anno accademico.   
-Art. 428. - Le commissioni per gli esami di ammissione, di profitto e di diploma sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola.   
-Le commissioni per gli esami di ammissione e di profitto sono composte da tre membri: direttore della scuola, presidente, e da due insegnanti della scuola stessa. La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente, e da quattro membri scelti fra gli insegnanti della scuola stessa o altri docenti.   
-Art. 429. - Le tasse e soprattasse annuali da pagarsi dagli iscritti sono quelle previste dalle vigenti disposizioni. L'ammontare dei contributi viene stabilito dal consiglio di amministrazione, su proposta del senato accademico, udite la facolta' e la scuola.   
-La tassa di diploma e' fissata in L. 6.000, a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).   
-Art. 430. - Al funzionamento della suddetta scuola si provvedera' con il provento delle tasse, soprattasse e contributi dovuti dagli iscritti e con eventuali elargizioni o contributi di enti pubblici o privati.   
+Nell'art. 73, concernente il corso di laurea in chimica, all'elenco degli insegnamenti complementari sono aggiunte le seguenti discipline:  
+Per l'indirizzo organico-biologico:  
+chimica fisica dei polimeri.  
+Per l'indirizzo inorganico chimico-fisico:  
+complementi di chimica organica.  
+Nell'art. 74, concernente il corso di laurea in chimica industriale, all'elenco degli insegnamenti complementari sono aggiunte le seguenti discipline:  
+chimica dei combustibili;  
+chimica e tecnologia degli intermedi;  
+chimica e tecnologia della catalisi;  
+chimica fisica dei polimeri;  
+petrolchimica e tecnologia dei prodotti petroliferi.  
+Nell'art. 75, concernente il corso di laurea in fisica, all'elenco degli insegnamenti complementari per il I gruppo sono aggiunte le seguenti discipline:  
+fisica sperimentale delle particelle elementari;  
+teorie quantistiche.  
+Nell'art. 76, concernente il corso di laurea in matematica, all'elenco degli insegnamenti complementari sono aggiunte le seguenti discipline:  
+Per l'indirizzo generale:  
+primo gruppo:  
+strutture algebriche;  
+teoria dei gruppi;  
+topologia algebrica;  
+algebra commutativa;  
+secondo gruppo:  
+meccanica dei continui;  
+meccanica superiore.  
+Per l'indirizzo applicativo:  
+primo gruppo:  
+meccanica superiore;  
+programmazione matematica;  
+secondo gruppo:  
+meccanica dei continui;  
+metodi per il trattamento dell'informazione;  
+teoria degli algoritmi e della calcolabilita';  
+linguaggi formali e compilatori;  
+ricerca operativa.  
+Inoltre, nello stesso art. 76, nell'elenco degli insegnamenti complementari del primo e secondo gruppo dei tre indirizzi: generale, didattico e applicativo sono soppressi, ove presenti, i seguenti insegnamenti:  
+calcolo delle probabilita';  
+istituzioni di fisica nucleare;  
+struttura della materia;  
+matematica finanziaria ed attuariale;  
+chimica generale ed inorganica con elementi di organica;  
+fisica terrestre;  
+meccanica statistica;  
+teoria delle vibrazioni;  
+astronomia;  
+geodesia.  
+Nell'art. 77, concernente il corso di laurea in scienze naturali, all'elenco degli insegnamenti complementari sono aggiunte le seguenti discipline:  
+esercitazioni di laboratorio di mineralogia;  
+fitosociologia;  
+geologia ambientale;  
+rilevamento geologico;  
+zoologia dei vertebrati.  
+Nell'art. 78, concernente il corso di laurea in scienze biologiche, all'elenco degli Insegnamenti complementari sono aggiunte le seguenti discipline:  
+paleoantropologia;  
+statistica e biometria.  
+Nel medesimo elenco e' soppresso l'insegnamento complementare di statistica.  
+Nell'art. 79, concernente il corso di laurea in scienze geologiche, all'elenco degli insegnamenti complementari sono aggiunte le seguenti discipline:  
+cristallochimica;  
+didattica delle scienze geologiche;  
+esercizi di laboratorio di mineralogia;  
+geofisica applicata;  
+geofisica marina;  
+geologia ambientale;  
+geomagnetismo;  
+geomorfologia applicata;  
+geopedologia;  
+meteorologia e oceanografia;  
+paleontologia dei vertebrati;  
+petrografia regionale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 7 ottobre 1977
+### Dato a Selva di Val Gardena, addi' 2 agosto 1982
 
-LEONE MALFATTI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 21 gennaio 1978
+Registrato alla Corte dei conti, addi' 8 novembre 1982
 
-Registro n. 6 Istruzione, foglio n. 196
+Registro n. 123 Istruzione, foglio n. 231

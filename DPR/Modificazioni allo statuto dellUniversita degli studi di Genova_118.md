@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1253
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 agosto 1982 n. 827
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1253
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 agosto 1982 n. 827
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Genova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,179 +20,211 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate delle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Dopo l'art. 154 del titolo XII, e con il conseguente spostamento della numerazione dei titoli e degli articoli successivi, sono inseriti il seguente nuovo titolo e relativi articoli concernenti l'istituzione della scuola di perfezionamento in lingue e letterature straniere moderne presso la facolta' di magistero.
-
-Titolo XIII
-
-FACOLTA' DI MAGISTERO
-
-Scuola di perfezionamento in lingue e letterature straniere moderne
-
-Art. 155. - La durata del corso e' di due anni.
-
-Alla scuola sono ammessi i laureati in materie letterarie, in pedagogia, in lingue e letterature straniere, in lettere, in lingue e letterature straniere moderne, nel cui curriculum risulti superato un esame di profitto su corsi di insegnamento della corrispondente lingua straniera di durata pluriennale.
-
-Art. 156. - La scuola si articola in corsi di lezioni, in seminari ed in cicli di esercitazioni.
-
-E' obbligatoria la frequenza alle lezioni, alle esercitazioni ed ai seminari.
-
-Per l'iscrizione al secondo anno e' necessario aver superato almeno due esami.
-
-La scuola ha quattro sezioni:
-
-a) lingua e letteratura francese;
-
-b) lingua e letteratura inglese;
-
-c) lingua e letteratura spagnola;
-
-d) lingua e letteratura tedesca.
-
-Art. 157. - Gli insegnamenti obbligatori per le quattro sezioni sono:
-
-1) lingua e letteratura straniera I;
-
-2) lingua e letteratura straniera II;
-
-3) filologia romanza (per le sezioni di lingua e letteratura francese e di lingua e letteratura spagnola);
-
-3) filologia germanica (per le sezioni di lingua e letteratura inglese e di lingua e letteratura tedesca);
-
-4) pedagogia.
-
-Gli insegnamenti complementari delle quattro sezioni sono:
-
-1) glottologia;
-
-2) letteratura anglo-americana (per la sezione di lingua e letteratura inglese);
-
-3) lingua e letteratura italiana;
-
-4) linguistica generale;
-
-5) storia della critica letteraria;
-
-6) storia della lingua italiana;
-
-7) storia della lingua francese (solo per la sezione omonima);
-
-8) storia della lingua inglese (solo per la sezione omonima);
-
-9) storia della lingua tedesca (solo per la sezione omonima).
-
-Art. 158. - Il diploma menzionera' la lingua e letteratura della sezione prescelta.
-
-Per tutte e quattro le sezioni sono richiesti, oltre agli esami negli insegnamenti obbligatori, esami in due discipline a scelta.
-
-I perfezionandi dovranno superare una prova pratica sull'uso dei mezzi di sussidio audiovisivi.
-
-L'esame di diploma consiste nella presentazione e nella discussione in lingua di una dissertazione scritta nella lingua prescelta.
-
-Art. 159. - Il direttore della scuola e' nominato per un biennio dal rettore, su proposta del consiglio di facolta', fra i professori della scuola.
-
-La scuola ha un proprio consiglio, costituito da tutti i docenti, da un rappresentante per ciascuna delle categorie indicate nei [commi primo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973-10-01;580~art9-com1) e [secondo dell'art. 9 del decreto-legge del 1 ottobre 1973, n. 580](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973-10-01;580~art9-com2) (convertito nella [legge 30 novembre 1973, n. 766](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-30;766)), nonche' da due rappresentanti degli studenti iscritti.
-
-Spetta al consiglio della scuola formulare al consiglio di facolta' di magistero le proposte per l'attivazione degli insegnamenti, mediante conferimento di incarichi annuali o mutuazione di insegnamenti gia' esistenti presso l'Universita'.
-
-Art. 160. - Le tasse, soprattasse e contributi sono gli stessi della facolta' di magistero. Il contributo di esercitazioni viene fissato con la procedura prevista dalla [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551).
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 31 ottobre 1977
-
-LEONE
-
-MALFATTI
-
-Visto, il Guardasigilli: BONIFACIO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 25 luglio 1978 Registro n. 83 Istruzione, foglio n. 135
+Lo statuto dell'Universita' di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate delle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Art. 87 - nell'elenco degli insegnamenti complementari del corso di laurea in farmacia sono inseriti i seguenti insegnamenti:  
+chimica dei prodotti cosmetici;  
+chimica dei prodotti dietetici;  
+chimica analitica clinica;  
+farmacognosia;  
+patologia generale.  
+L'art. 89 e' soppresso.  
+L'art. 90 cambia, pertanto, la numerazione e diventa art. 89.  
+Dopo l'art. 89 e' inserito il seguente nuovo articolo:  
+Art. 90. - La frequenza e gli esami delle varie parti degli insegnamenti biennali di fisiologia generale e di chimica farmaceutica e tossicologica e triennali di esercitazioni di chimica farmaceutica e tossicologica, devono rispettivamente avvenire secondo l'ordine di successione.  
+Inoltre gli studenti non possono sostenere gli esami delle discipline sottoelencate (colonna A) se non hanno precedentemente superato quelli delle discipline indicate accanto (colonna B):  
   
-Decreta:  
   
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+A B  
+Chimica organica Chimica generale ed inorganica  
+---------------------------------------------------------------------  
+Esercitazioni di chimica Chimica generale ed inorganica  
+farmaceutica e tossicologica I  
+---------------------------------------------------------------------  
+Esercitazioni di chimica Chimica organica  
+farmaceutica e tossicologica III  
+---------------------------------------------------------------------  
+Chimica farmaceutica e Chimica organica  
+tossicologica I  
+---------------------------------------------------------------------  
+Tecnica e legislazione farmaceutica Chimica organica  
+---------------------------------------------------------------------  
+Chimica biologica Chimica organica  
+---------------------------------------------------------------------  
+Fisiologia generale I Anatomia umana  
+---------------------------------------------------------------------  
+Farmacologia e farmacognosia Botanica farmaceutica  
+Chimica biologica  
+Fisiologia generale II  
+---------------------------------------------------------------------  
+Biochimica applicata Chimica organica  
+---------------------------------------------------------------------  
+Chemioterapia Farmacologia e farmacognosia  
+---------------------------------------------------------------------  
+Chimica analitica Chimica generale ed inorganica  
+---------------------------------------------------------------------  
+Chimica degli alimenti Chimica organica  
+Eserc. di chimica farm. e  
+toss. II  
+---------------------------------------------------------------------  
+Chimica degli oli essenziali Chimica organica  
+---------------------------------------------------------------------  
+Chimica dei composti eterociclici Chimica organica  
+---------------------------------------------------------------------  
+Chimica delle fermentazioni e Microbiologia  
+microbiologia industriale Chimica biologica  
+---------------------------------------------------------------------  
+Chimica delle sostanze Chimica organica  
+organiche naturali  
+---------------------------------------------------------------------  
+Chimica farmaceutica applicata Chimica organica  
+---------------------------------------------------------------------  
+Chimica fisica Istituzioni di matematiche  
+Fisica  
+Chimica generale ed inorganica  
+---------------------------------------------------------------------  
+Chimica tossicologica Chimica organica  
+---------------------------------------------------------------------  
+Farmacologia molecolare Farmacologia e farmacognosia  
+---------------------------------------------------------------------  
+Fitochimica Botanica farmaceutica  
+Chimica organica  
+---------------------------------------------------------------------  
+Impianti dell'industria farmaceutica Fisica  
+Chimica generale ed inorganica  
+---------------------------------------------------------------------  
+Microchimica Chimica generale ed inorganica  
+---------------------------------------------------------------------  
+Scienza dell'alimentazione Anatomia umana  
+---------------------------------------------------------------------  
+Chimica dei prodotti cosmetici Chimica organica  
+---------------------------------------------------------------------  
+Chimica dei prodotti dietetici Chimica organica  
   
-Dopo l'art. 154 del titolo XII, e con il conseguente spostamento della numerazione dei titoli e degli articoli successivi, sono inseriti il seguente nuovo titolo e relativi articoli concernenti l'istituzione della scuola di perfezionamento in lingue e letterature straniere moderne presso la facolta' di magistero.  
+Gli studenti non possono frequentare il corso e le esercitazioni di tecnica e legislazione farmaceutica se non hanno ottenuto l'attestazione di frequenza della I e della II parte delle esercitazioni di chimica farmaceutica e tossicologica.  
+Gli studenti non possono frequentare la III parte delle esercitazioni di chimica farmaceutica e tossicologica se non hanno superato l'esame di chimica organica.  
+
+Art. 2
+------
+
   
-Titolo XIII  
-FACOLTA' DI MAGISTERO  
   
-Scuola di perfezionamento in lingue e letterature straniere moderne   
-Art. 155. - La durata del corso e' di due anni.  
-Alla scuola sono ammessi i laureati in materie letterarie, in pedagogia, in lingue e letterature straniere, in lettere, in lingue e letterature straniere moderne, nel cui curriculum risulti superato un esame di profitto su corsi di insegnamento della corrispondente lingua straniera di durata pluriennale.  
-Art. 156. - La scuola si articola in corsi di lezioni, in seminari ed in cicli di esercitazioni.  
-E' obbligatoria la frequenza alle lezioni, alle esercitazioni ed ai seminari.  
-Per l'iscrizione al secondo anno e' necessario aver superato almeno due esami.  
-La scuola ha quattro sezioni:  
-a) lingua e letteratura francese;  
-b) lingua e letteratura inglese;  
-c) lingua e letteratura spagnola;  
-d) lingua e letteratura tedesca.  
-Art. 157. - Gli insegnamenti obbligatori per le quattro sezioni sono:  
-1) lingua e letteratura straniera I;  
-2) lingua e letteratura straniera II;  
-3) filologia romanza (per le sezioni di lingua e letteratura francese e di lingua e letteratura spagnola);  
-3) filologia germanica (per le sezioni di lingua e letteratura inglese e di lingua e letteratura tedesca);  
-4) pedagogia.  
-Gli insegnamenti complementari delle quattro sezioni sono:  
-1) glottologia;  
-2) letteratura anglo-americana (per la sezione di lingua e letteratura inglese);  
-3) lingua e letteratura italiana;  
-4) linguistica generale;  
-5) storia della critica letteraria;  
-6) storia della lingua italiana;  
-7) storia della lingua francese (solo per la sezione omonima);  
-8) storia della lingua inglese (solo per la sezione omonima);  
-9) storia della lingua tedesca (solo per la sezione omonima).  
-Art. 158. - Il diploma menzionera' la lingua e letteratura della sezione prescelta.  
-Per tutte e quattro le sezioni sono richiesti, oltre agli esami negli insegnamenti obbligatori, esami in due discipline a scelta.  
-I perfezionandi dovranno superare una prova pratica sull'uso dei mezzi di sussidio audiovisivi.  
-L'esame di diploma consiste nella presentazione e nella discussione in lingua di una dissertazione scritta nella lingua prescelta.  
-Art. 159. - Il direttore della scuola e' nominato per un biennio dal rettore, su proposta del consiglio di facolta', fra i professori della scuola.  
-La scuola ha un proprio consiglio, costituito da tutti i docenti, da un rappresentante per ciascuna delle categorie indicate nei [commi primo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973-10-01;580~art9-com1) e [secondo dell'art. 9 del decreto-legge del 1 ottobre 1973, n. 580](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973-10-01;580~art9-com2) (convertito nella [legge 30 novembre 1973, n. 766](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-30;766)), nonche' da due rappresentanti degli studenti iscritti.  
-Spetta al consiglio della scuola formulare al consiglio di facolta' di magistero le proposte per l'attivazione degli insegnamenti, mediante conferimento di incarichi annuali o mutuazione di insegnamenti gia' esistenti presso l'Universita'.  
-Art. 160. - Le tasse, soprattasse e contributi sono gli stessi della facolta' di magistero. Il contributo di esercitazioni viene fissato con la procedura prevista dalla [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551).  
+Art. 94 - nell'elenco degli insegnamenti fondamentali del corso di laurea in chimica e tecnologia farmaceutiche, l'insegnamento di chimica generale ed inorganica perde l'asterisco.   
+Nel medesimo art. 94, nell'elenco degli insegnamenti complementari sono inserite le seguenti discipline:   
+chimica analitica clinica;   
+farmacognosia;   
+patologia generale;   
+scienza dell'alimentazione.   
+Dopo l'art. 94, con il conseguente scorrimento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo.   
+Art. 95. - La frequenza e gli esami delle varie parti di chimica organica, chimica farmaceutica e tossicologica e di analisi chimico-farmaceutica, devono rispettivamente avvenire secondo l'ordine di successione.   
+Inoltre gli studenti non possono sostenere gli esami delle discipline sottoelencate (colonna A) se non hanno precedentemente superato quelli delle discipline indicate accanto (colonna B):   
+  
+  
+  
+  
+A B  
+Chimica fisica Istituzioni di matematiche  
+Fisica  
+Chimica generale ed inorganica  
+---------------------------------------------------------------------  
+Chimica organica I Chimica generale ed inorganica  
+---------------------------------------------------------------------  
+Analisi chimico-farmaceutica I Chimica generale ed inorganica  
+---------------------------------------------------------------------  
+Analisi chimico-farmaceutica III Chimica organica II  
+---------------------------------------------------------------------  
+Chimica farmaceutica e Chimica organica II  
+tossicologica I  
+---------------------------------------------------------------------  
+Metodi fisici in chimica organica Fisica  
+Chimica organica I  
+---------------------------------------------------------------------  
+Fisiologia generale Anatomia umana  
+---------------------------------------------------------------------  
+Chimica biologica Chimica organica I  
+---------------------------------------------------------------------  
+Biochimica applicata Chimica organica I  
+---------------------------------------------------------------------  
+Laboratorio di preparazione Chimica organica II  
+estrattiva e sintetica dei farmaci  
+---------------------------------------------------------------------  
+Tecnica e legislazione farmaceutica Chimica organica II  
+---------------------------------------------------------------------  
+Farmacologia e farmacognosia Botanica farmaceutica  
+Chimica biologica  
+Fisiologia generale  
+---------------------------------------------------------------------  
+Saggi e dosaggi farmacologici Farmacologia e farmacognosia  
+---------------------------------------------------------------------  
+Chimica degli alimenti Chimica organica II  
+Analisi chimico farmaceutica II  
+---------------------------------------------------------------------  
+Impianti dell'industria farmaceutica Fisica  
+Chimica generale ed inorganica  
+---------------------------------------------------------------------  
+Chimica farmaceutica applicata Chimica organica II  
+---------------------------------------------------------------------  
+Chemioterapia Farmacologia e farmacognosia  
+---------------------------------------------------------------------  
+Chimica analitica Chimica generale ed inorganica  
+---------------------------------------------------------------------  
+Chimica degli oli essenziali Chimica organica II  
+---------------------------------------------------------------------  
+Chimica dei composti eterociclici Chimica organica II  
+---------------------------------------------------------------------  
+Chimica dei prodotti cosmetici Chimica organica II  
+---------------------------------------------------------------------  
+Chimica dei prodotti dietetici Chimica organica II  
+---------------------------------------------------------------------  
+Chimica delle fermentazioni e Microbiologia e igiene (o  
+microbiologia industriale microbiologia)  
+Chimica biologica  
+---------------------------------------------------------------------  
+Chimica delle sostanze Chimica organica II  
+organiche naturali  
+---------------------------------------------------------------------  
+Chimica tossicologica Chimica organica I  
+---------------------------------------------------------------------  
+Farmacologia molecolare Farmacologia e farmacognosia  
+---------------------------------------------------------------------  
+Fitochimica Botanica farmaceutica  
+Chimica organica II  
+---------------------------------------------------------------------  
+Microchimica Chimica generale ed inorganica  
+---------------------------------------------------------------------  
+Scienza dell'alimentazione Anatomia umana  
+  
+  
+Gli studenti non possono frequentare il corso e le esercitazioni di tecnica e legislazione farmaceutica se non hanno ottenuto l'attestazione di frequenza di analisi chimica farmaceutica I e II.   
+Gli studenti non possono frequentare il corso di analisi chimico farmaceutica III se non hanno superato l'esame di chimica organica I.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1977
+### Dato a Selva di Val Gardena, addi' 2 agosto 1982
 
-LEONE MALFATTI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 25 luglio 1978
+Registrato alla Corte dei conti, addi' 29 ottobre 1982
 
-Registro n. 83 Istruzione, foglio n. 135
+Registro n. 121 Istruzione, foglio n. 58

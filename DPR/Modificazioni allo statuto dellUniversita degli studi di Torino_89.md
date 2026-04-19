@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1218
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 luglio 1981 n. 851
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1218
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 luglio 1981 n. 851
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Torino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -19,8 +19,6 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
@@ -39,29 +37,23 @@ Articolo unico
 --------------
 
   
-Art. 75 - all'elenco degli insegnamenti complementari per il corso di laurea in chimica per l'indirizzo organico-biologico e' inserito l'insegnamento di "chimica dei composti eterociclici".  
-Art. 76 - all'elenco degli insegnamenti complementari del corso di laurea in chimica industriale sono inseriti i seguenti insegnamenti: chimica dei composti eterociclici;  
-analisi chimica cromatografica.  
-Art. 79 - all'elenco degli insegnamenti complementari del corso di laurea in fisica e' inserito l'insegnamento di "fisica degli stati condensati".  
-Art. 90 - all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono inseriti i seguenti insegnamenti:  
-biologia marina;  
-didattica naturalista e biologica.  
-Art. 91 - all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche e' inserito l'insegnamento di "ecologia ed etologia animale".  
-Art. 92 - all'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono inseriti i seguenti insegnamenti:  
-geopedologia;  
-paleontologia stratigrafica;  
-petrografia del sedimentario.  
+  
+All'art. 97, relativo al corso di laurea in farmacia, sono aggiunti i seguenti insegnamenti complementari:   
+farmacognosia;   
+fitochimica.   
+All'art. 103, relativo al corso di laurea in chimica e tecnologia farmaceutiche, sono aggiunti i seguenti insegnamenti complementari: farmacognosia;   
+fitochimica.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1983
+### Dato a Roma, addi' 1 luglio 1981
 
-PERTINI FALCUCCI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 28 aprile 1984
+Registrato alla Corte dai conti, addi' 7 gennaio 1982
 
-Registro n. 25 Istruzione, foglio n. 225
+Registro n. 1 Istruzione, foglio n. 129

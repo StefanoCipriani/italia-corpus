@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 luglio 1986 n. 954
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 luglio 1986 n. 838
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 luglio 1986 n. 954
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 luglio 1986 n. 838
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi della Calabria.
@@ -40,7 +40,7 @@ Articolo unico
 
   
 Nell'art. 39, concernente gli insegnamenti relativi al dipartimento di storia, e' aggiunto il seguente nuovo insegnamento:  
-geografia storica del mondo antico.  
+geografia regionale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
@@ -54,6 +54,6 @@ FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: ROGNONI
 
-Registrato alla Corte dei conti, addi' 30 dicembre 1986
+Registrato alla Corte dei conti, addi' 27 novembre 1986
 
-Registro n. 90 Istruzione, foglio n. 219
+Registro n. 86 Istruzione, foglio n. 133

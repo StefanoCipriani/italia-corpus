@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 febbraio 1978 n. 368
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 giugno 1982 n. 743
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 febbraio 1978 n. 368
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 giugno 1982 n. 743
+=============================================================
 
 Autorizzazione all'Associazione italiana della Croce rossa, in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-368. Decreto del Presidente della Repubblica 9 febbraio 1978, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare il legato di L. 100.000, disposto dalla sig.ra Serantoni Anita con testamento olografo pubblicato per atto notaio Appio Alvisi di Bologna in data 11 luglio 1968, n. 52225/ 6419 di repertorio.  
+743. Decreto del Presidente della Repubblica 29 giugno 1982, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare il legato, consistente in titoli depositati presso la sede di Genova dell'Istituto bancario italiano per un importo di lire 46.784.872, disposto dal sig. Achille Ponzini con testamento olografo 18 aprile 1973, pubblicato in data 17 aprile 1975, n. 27301 di repertorio, a rogito dottor Gaetano Gessaga, notaio in Genova, registrato a Genova in data 23 aprile 1975, n. 5284.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 4 luglio 1978  
-Registro n. 5 Sanita', foglio n. 28
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 2 ottobre 1982  
+Registrato n. 6 Sanita', foglio n. 233

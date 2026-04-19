@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1974 n. 844
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1954 n. 1206
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1974 n. 844
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1954 n. 1206
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
@@ -10,322 +10,207 @@ Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098); modificato con [regi decreti 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1743); [26 marzo 1942, n. 328; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-03-26;328) [22 ottobre 1946, n. 398 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1946-10-22;398) [30 ottobre 1949, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1027); [11 aprile 1951, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;565); [23 gennaio 1952, n. 365](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-01-23;365); [26 ottobre 1952, n. 4542](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4542); [10 febbraio 1953, n. 550](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;550); [30 luglio 1953, n. 716](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-07-30;716); [6 ottobre 1953, n. 1097](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-10-06;1097) e [29 maggio 1954, n. 752](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-05-29;752);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Gli articoli da 63 a 72, relativi alla facolta' di ingegneria, sono abrogati e sostituiti dai seguenti con lo spostamento della numerazione degli articoli successivi:   
+Gli articoli da 43 a 50 sono abrogati e sostituiti dai seguenti:  
   
-Art. 63. - Il corso di laurea in ingegneria mineraria comprende i seguenti insegnamenti:   
+Facolta' di scienze matematiche, fisiche e naturali  
   
-Biennio propedeutico:   
-1° Anno:   
-1) Analisi matematica I;   
-2) Chimica;   
-3) Geometria;   
-4) Disegno (meccanico);   
-5) Fisica I.   
-2° Anno:   
-6) Analisi matematica II;   
-7) Fisica II;   
-8) Meccanica razionale;   
-9) Chimica applicata;   
-  
-Triennio di applicazione:   
-10) Arte mineraria;   
-11) Elettrotecnica;   
-12) Fisica tecnica;   
-13) Geologia;   
-14) Giacimenti minerari;   
-15) Macchine;   
-16) Meccanica applicata alle macchine;   
-17) Mineralogia e petrografia;   
-18) Scienza delle costruzioni;   
-19) Topografia;   
-20) Elementi di arte mineraria;   
-21) Geofisica mineraria;   
-22) Meccanica dei fluidi;   
-23) Preparazione dei minerali;   
-24) Tecnica delle costruzioni;   
-25) - 30) Un gruppo di materie a scelta fra quelle indicate nell'art. 68.   
-  
-Art. 64. - Il corso di laurea in ingegneria civile e' distinto nelle seguenti tre sezioni: edile, idraulico, trasporti; esso comprende i seguenti insegnamenti:   
-  
-Insegnamenti comuni alle tre sezioni:   
-  
-Biennio propedeutico:   
-1° Anno:   
-1) Analisi matematica I;   
-2) Chimica;   
-3) Disegno I;   
-4) Fisica I;   
-5) Geometria.   
-2° Anno:   
-6) Analisi matematica II;   
-7) Disegno II (architettonico);   
-8) Fisica II;   
-9) Meccanica razionale.   
-  
-Triennio di applicazione:   
-10) Scienza delle costruzioni;   
-11) Meccanica applicata alle macchine e macchine;   
-12) Fisica tecnica;   
-13) Elettrotecnica;   
-14) Idraulica;   
-15) Tecnologia dei materiali e chimica applicata;   
-16) Tecnica delle costruzioni;   
-17) Architettura tecnica;   
-18) Topografia.   
-  
-Insegnamenti specifici per ciascuna sezione:   
-  
-SEZIONE EDILE   
-  
-Triennio di applicazione:   
-19) Sistemi di informazione;   
-20) Architettura e composizione architettonica;   
-21) Economia e diritto;   
-22) Estimo e contabilita' dei lavori;   
-23) Scienza delle costruzioni II;   
-24) Tecnica urbanistica;   
-25)-30) Un gruppo di materie a scelta fra quelle indicate nell'art. 68.   
-  
-SEZIONE IDRAULICA   
-  
-Triennio di applicazione:   
-19) Metodi probabilistici, statistici e processi stocastici;   
-20) Costruzioni idrauliche;   
-21) Economia e diritto;   
-22) Estimo e contabilita' dei lavori;   
-23) Scienza delle costruzioni II;   
-24) Geologia applicata;   
-25) Complementi di idraulica;   
-26)-30) Un gruppo di materie a scelta fra quelle elencate nell'art. 68.   
-  
-SEZIONE TRASPORTI   
-  
-Triennio di applicazione:   
-19) Economia;   
-26) Costruzione di strade, ferrovie ed aeroporti;   
-21) Tecnica ed economia dei trasporti;   
-22) Tecnica della circolazione stradale;   
-23) Metodi probabilistici, statistici e processi stocastici;   
-24) Tecnica urbanistica;   
-25)-30) Un gruppo di materie a scelta fra quelle elencate nell'art. 68.   
-  
-Art. 65. - Il corso di laurea in ingegneria meccanica comprende i seguenti insegnamenti:   
-  
-Biennio propedeutico:   
-1° Anno:   
-1) Analisi matematica I;   
-2) Chimica;   
-3) Disegno I;   
-4) Fisica I;   
-5) Geometria.   
-2° Anno:   
-6) Analisi matematica II;   
-7) Disegno II (meccanica);   
-8) Fisica II;   
-9) Meccanica razionale.   
-  
-Triennio di applicazione:   
-10) Chimica applicata;   
-11) Costruzioni di macchine;   
-12) Elettrotecnica;   
-13) Fisica tecnica;   
-14) Idraulica (meccanica dei fluidi);   
-15) Impianti meccanici;   
-16) Macchine;   
-17) Meccanica applicata alle macchine;   
-18) Scienza delle costruzioni;   
-19) Tecnologie meccaniche;   
-20) Complementi di matematica;   
-21) Controlli automatici;   
-22) Economia ed organizzazione aziendale;   
-23) Misure meccaniche, termiche e collaudi;   
-24) Progetti di macchine;   
-25) Tecnica delle costruzioni;   
-26)-30) Un gruppo di materie a scelta fra quelle elencate nell'art. 68.   
-  
-Art. 66. - Il corso di laurea in ingegneria chimica comprende i seguenti insegnamenti:   
-  
-Biennio propedeutico:   
-1° Anno:   
-1) Analisi matematica I;   
-2) Chimica;   
-3) Disegno I;   
-4) Fisica I;   
-5) Geometria.   
-2° Anno:   
-6) Analisi matematica II;   
-7) Chimica organica;   
-8) Fisica II;   
-9) Meccanica razionale.   
-  
-Triennio di applicazione:   
-10) Complementi di chimica;   
-11) Chimica applicata;   
-12) Chimica fisica;   
-13) Chimica industriale;   
-14) Elettrochimica;   
-15) Elettrotecnica;   
-16) Fisica tecnica;   
-17) Impianti chimici;   
-18) Macchine;   
-19) Meccanica applicata alle macchine;   
-20) Meccanica dei fluidi;   
-21) Metallurgia;   
-22) Principi di ingegneria chimica;   
-23) Scienza delle costruzioni;   
-24) Strumentazione, misure e collaudi;   
-25-30) Un gruppo di materie a scelta fra quelle elencate nell'art. 68.   
-  
-Art. 67. - I corsi necessari per raggiungere, per ogni singolo corso di laurea, il numero totale degli insegnamenti previsto nei piani stessi, ai sensi dell'ultimo comma dell'[art. 8 del decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53~art8), verranno, per ciascun indirizzo, precisati anno per anno dalla facolta', traendoli o fra le materie obbligatorie per altri corsi di laurea e indirizzi o fra quelle complementari di cui al successivo art. 68. La facolta' potra' inoltre proporre con la stessa modalita', ulteriori indirizzi di specializzazione ai sensi dell'[art. 7 del decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53~art7); e predisporre, anno per anno, piani alternativi nel rispetto delle leggi vigenti.   
-  
-Art. 68. - Insegnamenti complementari:   
-Acquedotti, bonifiche e fognature;   
-Analisi dei sistemi;   
-Analisi e riconoscimento dei minerali;   
-Analisi delle strutture territoriali;   
-Analisi sperimentale delle tensioni;   
-Applicazione di geometria descrittiva;   
-Architettura e composizione architettonica II;   
-Architetture degli interni;   
-Calcolo automatico delle strutture;   
-Calcolo numerico;   
-Campinatura e valutazione dei giacimenti;   
-Chimica analitica;   
-Chimica macromolecolare;   
-Coltivazione dei giacimenti di idrocarburi;   
-Combustibili e lubrificanti;   
-Complementi di elettrotecnica;   
-Complementi di idraulica;   
-Complementi di mineralogia e petrografia;   
-Complementi di geofisica mineraria;   
-Complementi di chimica fisica;   
-Corrosione e protezione;   
-Costruzioni automobilistiche e ferroviarie;   
-Costruzioni di macchine II;   
-Costruzioni di strade, ferrovie e aeroporti II;   
-Costruzioni elettromeccaniche;   
-Costruzioni marittime;   
-Costruzioni metalliche;   
-Difesa del suolo;   
-Dinamica delle strutture e ingegneria sismica;   
-Economia;   
-Economia industriale;   
-Elaboratore elettronico nella progettazione, costruzione e conduzione degli impianti chimici;   
-Elementi delle macchine;   
-Elettronica applicata;   
-Estimo, economia e legislazione mineraria;   
-Fotogrammetria;   
-Generatori di vapore, e tecnica della combustione;   
-Geochimica;   
-Geofisica applicata;   
-Geologia applicata;   
-Geologia applicata per minerari;   
-Geologia degli idrocarburi;   
-Idrologia tecnica;   
-Impianti di sollevamento e trasporto;   
-Impianti elettrici;   
-Impianti minerallurgici;   
-Impianti minerari;   
-Impianti meccanici II;   
-Impianti petrolchimici;   
-Impianti speciali idraulici;   
-Impianti tecnici edili;   
-Industrializzazione ed unificazione dell'edilizia;   
-Industrie agrarie ed alimentari;   
-Ingegneria delle reazioni chimiche;   
-Ingegneria sanitaria;   
-Inquinamento e tecniche di prevenzione;   
-Macchine di sollevamento e trasporto;   
-Macchine II;   
-Macchine e centrali elettriche;   
-Macchine elettriche;   
-Meccanica applicata II;   
-Meccanica delle terre e fondazioni;   
-Meccanica delle rocce;   
-Metodi matematici per l'ingegneria;   
-Metodi probabilistici, statistici e processi stocastici;   
-Misure elettriche;   
-Organizzazione dei cantieri;   
-Ottimazione economica degli impianti chimici;   
-Paleontologia;   
-Ponti e strutture speciali;   
-Procedimenti analitici nei processi ed operazioni unitarie;   
-Programmazione degli impianti meccanici e manutenzione programmata;   
-Prospezione geomineraria;   
-Resistenza e sicurezza delle costruzioni;   
-Ricerca operativa;   
-Rilievo e restauro dei monumenti;   
-Scienza dei metalli;   
-Sistemazione dei bacini idrografici;   
-Sistemi di informazione;   
-Sperimentazione dei materiali e delle strutture;   
-Stabilita' e dinamica dei sistemi;   
-Stechiometria industriale;   
-Storia dell'architettura;   
-Strumentazione e misure elettroniche;   
-Tecnica del freddo;   
-Tecnica degli scavi e delle gallerie;   
-Tecnica dei sondaggi;   
-Tecnica delle miniere;   
-Tecnica ed economia dei trasporti II;   
-Tecnologia di lavorazione degli alti polimeri;   
-Tecnologie generali;   
-Tecnologie speciali metallurgiche;   
-Teoria e sviluppo dei processi chimici;   
-Teoria dei modelli;   
-Termocinetica e termodinamica applicata;   
-Termofluidodinamica delle macchine;   
-Teoria e tecnica della pianificazione;   
-Trattamento dei solidi;   
-Trazione elettrica;   
-Urbanistica II;   
-Utilizzazione delle risorse idriche;   
-Vibrotecnica.   
-  
-Art. 69. - I corsi elencati negli articoli precedenti hanno la durata di un anno accademico.   
-Gli insegnamenti predetti sono di regola integrati da esercitazioni secondo quanto stabilita' di volta in volta il consiglio di facolta' e verra' comunicato dal manifesto degli studi.   
-All'inizio di ogni anno accademico la facolta' delibera l'orario delle lezioni e il numero di ore di lezione e di esercitazione per ogni insegnamento.   
-  
-Art. 70. - Gli esami consistono in prove orali, che possono essere integrate da prove scritte, grafiche e pratiche secondo modalita' che, per ciascuna prova, vengono stabilite dal consiglio di facolta' ai fini della ammissione agli esami predetti; le firme di frequenza ottenute hanno validita' di 6 anni.   
-  
-Art. 71. - Gli studenti del primo anno di corso potranno ottenere la iscrizione al secondo anno di corso qualora abbiano superato almeno due fra i quattro seguenti esami: Analisi matematica I, Geometria I, Fisica I, Chimica.   
-Al termine del secondo anno di corso lo studente, per essere iscritto al terzo anno, oltre che essere in possesso delle attestazioni di frequenza di tutte le discipline previste per il primo e secondo anno, dovra' aver superato i relativi esami, fatta eccezione degli insegnamenti aggiunti ai sensi del [comma terzo dell'art. 2, del decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53~art2-com3). Lo studente tuttavia che sia in debito, oltreche' degli esami per i detti insegnamenti aggiunti, anche di un solo esame, a sua scelta, del secondo anno di corso, potra' ugualmente essere iscritto al terzo anno, con l'obbligo di superare tale esame prima di sostenere qualsiasi esame del triennio di applicazione.   
-I due esami di fisica comprendono la parte riguardante le relative esercitazioni.   
-Il numero di esami per ciascuno corso di laurea, e' fissato in 30 annuali od equivalenti.   
-Per essere ammessi all'esame di laurea gli studenti debbono aver superato, nel numero stabilito, gli esami relativi agli insegnamenti elencati negli articoli 63, 64, 65, 66, integrati con quelli riportati nell'art. 68, ovvero tutti gli esami dei piani individuali, approvati dalla facolta' ai sensi di legge.   
-  
-Art. 72. - L'esame di laurea consiste:   
-a) nella redazione di un progetto di un'opera di ingegneria, nell'esecuzione di uno studio di carattere monografico anche teorico o di una ricerca sperimentale, il cui argomento dovra' inquadrarsi nel corso di laurea e nell'orientamento scelto dallo studente (tesi di laurea);   
-b) in urna prova orale comprendente la discussione sulla tesi di laurea con eventuali richiami ai vari insegnamenti della facolta'.   
-  
-Art. 73. - Il programma degli studi che debbono essere compiuti e degli esami che debbono essere sostenuti presso la facolta' dagli ingegneri del Corpo statale delle miniere viene, per ciascuno di essi, deliberato dal consiglio di facolta' con l'intervento del capo del Corpo delle miniere o di un suo rappresentante.   
+Art. 43. - La Facolta' di scienze matematiche, fisiche e naturali conferisce le seguenti lauree:  
+in scienze matematiche;  
+in fisica;  
+in chimica;  
+in scienze naturali.  
+Impartisce inoltre gli insegnamenti per il biennio di studi propedeutici per le lauree in ingegneria.  
+Art. 44. - Il professore di ruolo della Facolta' di farmacia, il quale sia titolare di chimica farmaceutica e tossicologica, e' aggregato alla Facolta'.  
+Art. 45. - La durata del corso degli studi per la laurea in scienze matematiche e' di quattro anni. E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.  
+Sono insegnamenti fondamentali:  
+1) Analisi matematica (algebrica ed infinitesimale) (biennale);  
+2) Geometria analitica con elementi di proiettiva e geometria descrittiva con disegno (biennale);  
+3) Analisi superiore;  
+4) Geometria superiore;  
+5) Meccanica razionale con elementi di statica grafica e disegno;  
+6) Fisica sperimentale con esercitazioni (biennale);  
+7) Fisica matematica;  
+8) Chimica generale ed inorganica con elementi di organica.  
+Sono insegnamenti complementari:  
+1) Matematiche superiori;  
+2) Matematiche complementari;  
+3) Calcolo delle probabilita';  
+4) Calcoli numerici e grafici;  
+5) Teoria delle funzioni;  
+6) Teoria dei numeri;  
+7) Geometria differenziale;  
+8) Geometria algebrica;  
+9) Fisica teorica;  
+10) Fisica superiore;  
+11) Meccanica superiore;  
+12) Astronomia;  
+13) Topologia;  
+14) Storia delle matematiche.  
+L'insegnamento di "analisi matematica" importa due esami distinti.  
+L'insegnamento biennale di geometria analitica con elementi di proiettiva e geometria descrittiva con disegno importa due esami distinti. L'insegnamento biennale di fisica sperimentale importa un unico esame alla fine del biennio, mentre le relative esercitazioni importano un esame alla fine di ogni anno.  
+Per essere ammesso all'esame di laurea che e' preceduto da un esame di cultura generale, lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in tre da lui scelti tra i complementari.  
+Art. 46. - La durata del corso degli studi per la laurea in fisica e' di quattro anni. E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.  
+Sono insegnamenti fondamentali:  
+1) Analisi matematica (algebrica ed infinitesimale) (biennale);  
+2) Geometria analitica con elementi di proiettiva;  
+3) Analisi superiore;  
+4) Meccanica razionale con elementi di statica grafica;  
+5) Fisica sperimentale (biennale);  
+6) Esercitazioni di fisica sperimentale (triennale);  
+7) Fisica matematica;  
+8) Fisica teorica;  
+9) Fisica superiore;  
+10) Chimica fisica;  
+11) Chimica generale ed inorganica con elementi di organica;  
+12) Preparazioni chimiche.  
+Sono insegnamenti complementari:  
+1) Chimica organica;  
+2) Spettroscopia;  
+3) Elettrotecnica;  
+4) Radioattivita';  
+5) Astronomia;  
+6) Mineralogia;  
+7) Fisica terrestre;  
+8) Calcolo delle probabilita';  
+9) Meccanica superiore;  
+10) Meccanica statistica;  
+11) Geometria differenziale.  
+L'insegnamento biennale di fisica sperimentale importa un unico esame alla fine del biennio; le esercitazioni di fisica sperimentale (triennali) importano un esame alla fine di ogni anno.  
+Per l'insegnamento di analisi matematica vale la norma stabilita per la laurea in scienze matematiche.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e almeno in due da lui scelti fra i complementari.  
+Art. 47. - La durata del corso degli studi per la laurea in chimica e' di cinque anni, divisi in un biennio di studi propedeutici e in un triennio di studi di applicazione. E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.  
+Biennio di studi propedeutici:  
+Sono insegnamenti fondamentali:  
+1) Istituzioni di matematiche (biennale);  
+2) Chimica generale ed inorganica (biennale);  
+3) Chimica organica (biennale);  
+4) Chimica analitica;  
+5) Fisica sperimentale (biennale);  
+6) Mineralogia con esercitazioni pratiche (corso speciale per chimici);  
+7) Esercitazioni di matematiche (biennale);  
+8) Esercitazioni di preparazioni chimiche;  
+9) Esercitazioni di disegno di elementi di macchine;  
+10) Esercitazioni di analisi chimica qualitativa;  
+11) Esercitazioni di fisica sperimentale.  
+Triennio di studi di applicazione:  
+Il triennio ha due diversi indirizzi: organico biologico e inorganico-chimico-fisico.  
+Sono insegnamenti fondamentali comuni ai due indirizzi:  
+1) Chimica fisica (biennale);  
+2) Esercitazioni di analisi chimica quantitativa;  
+3) Esercitazioni di chimica fisica (biennale);  
+4) Esercitazioni di chimica organica e di analisi organica;  
+5) Esercitazioni di preparazioni chimiche ovvero di analisi chimica applicata (a scelta dello studente).  
+Sono insegnamenti complementari per l'indirizzo organico biologico:  
+1) Analisi matematica (algebrica ed infinitesimale) (biennale);  
+2) Geometria analitica con elementi di proiettiva;  
+3) Meccanica razionale con elementi di statica grafica;  
+(\*) 4) Chimica organica industriale;  
+(\*) 5) Chimica biologica;  
+(\*) 6) Chimica farmaceutica;  
+7) Chimica bromatologica;  
+(\*) 8) Farmacologia;  
+(\*) 9) Chimica delle fermentazioni e batteriologia industriale;  
+(\*) 10) Chimica agraria;  
+11) Chimica di guerra;  
+(\*) 12) Elettrochimica.  
+Sono insegnamenti complementari per l'indirizzo inorganico-chimico-fisico:  
+1) Analisi matematica (algebrica ed infinitesimale) (biennale);  
+2) Geometria analitica con elementi di proiettiva;  
+3) Meccanica razionale con elementi di statica grafica;  
+(\*) 4) Fisica superiore;  
+(\*) 5) Fisica tecnica (corso speciale per chimici e chimici industriali);  
+(\*) 6) Elettrochimica.;  
+7) Geochimica;  
+(\*) 8) Chimica applicata (ai materiali da, costruzione);  
+(\*) 9) Spettroscopia;  
+(\*) 10) Misure elettriche (corso speciale per chimici e chimici industriali);  
+(\*) 11) Chimica industriale.  
+I tre insegnamenti complementari di analisi matematica, di geometria con elementi di proiettiva e di meccanica razionale con elementi di statica grafica possono sostituire l'unico insegnamento fondamentale di istituzioni di matematica (biennale).  
+Per l'insegnamento di analisi matematica vale la norma stabilita per la laurea in scienze matematiche.  
+Tutti gli insegnamenti biennali importano un esame alla fine di ogni anno.  
+Per ottenere l'iscrizione al triennio di applicazione lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fissati per il biennio di studi propedeutici.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali prescritti per il triennio di applicazione e almeno in sette da lui Scelti tra i complementari del gruppo seguito.  
+L'esame di laurea comprende una prova di analisi qualitativa e quantitativa.  
+I sette insegnamenti complementari, che per ciascuno dei due indirizzi del triennio di applicazione sono segnati con asterisco, si intendono consigliati in via preferenziale.  
+Tuttavia, ove lo studente intenda scegliere per l'indirizzo prescelto uno o piu' insegnamenti complementari diversi dai predetti, deve, all'atto della iscrizione al primo anno degli studi di applicazione, chiederne convalida alla Facolta'. La scelta fatta in tal modo e' impegnativa e non puo' subire comunque variazioni durante il corso degli studi.  
+Art. 48. - La durata del corso degli studi per la laurea in scienze naturali e' di quattro anni. E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.  
+Sono insegnamenti fondamentali:  
+1) Istituzioni di matematiche;  
+2) Fisica;  
+3) Chimica generale ed inorganica;  
+4) Chimica organica;  
+5) Mineralogia;  
+6) Geologia;  
+7) Geografia;  
+8) Botanica (biennale);  
+9) Zoologia (biennale);  
+10) Anatomia comparata;  
+11) Anatomia umana;  
+12) Fisiologia generale (biennale).  
+Sono insegnamenti complementari:  
+1) Chimica fisica;  
+2) Biologia generale;  
+3) istologia ed embriologia;  
+4) Chimica biologica;  
+5) Antropologia;  
+6) Biologia delle razze umane;  
+7) Paleontologia;  
+8) Fisiologia vegetale;  
+9) Patologia vegetale;  
+10) Genetica;  
+11) Geografia fisica;  
+12) Geochimica;  
+13) Petrografia;  
+14) Fisica terrestre e climatologia;  
+15) Oceanografia;  
+16) Igiene.  
+Gli insegnamenti biennali di botanica e di zoologia comprendono tanto la parte generale quanto quella sistematica ed importano un esame ciascuno a fine di ogni anno.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti fra i complementari.  
+L'esame di laurea comprende una prova di cultura generale.  
+Art. 49. - Per il biennio propedeutico per la laurea in ingegneria e' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.  
+Sono insegnamenti fondamentali:  
+1) Analisi matematica (algebrica ed infinitesimale) (biennale);  
+2) Geometria analitica con elementi di proiettiva e descrittiva con disegno (biennale);  
+3) Meccanica razionale con elementi di statica grafica e disegno;  
+4) Fisica sperimentale con esercitazioni (biennale);  
+5) Chimica generale ed inorganica con elementi di organica;  
+6) Disegno (biennale);  
+7) Mineralogia e geologia.  
+Lo studente e' tenuto inoltre a prendere parte alle esercitazioni di:  
+Analisi matematica;  
+Geometria;  
+Meccanica applicata;  
+Mineralogia e geologia.  
+Per l'insegnamento di analisi matematica, per quello di geometria e per quello di fisica sperimentale e le relative esercitazioni, valgono le norme stabilite per la laurea in scienze matematiche.  
+Alla fine del corso biennale di studi propedeutici lo studente deve aver superato una prova attestante la conoscenza di due lingue straniere moderne a sua scelta.  
+Art. 50. - Per la laurea in scienze matematiche e per quella in fisica, non si ammetteranno agli esami del terzo anno quegli studenti che non abbiano superato tutti gli esami dei primi due anni.  
+Per la laurea in scienze naturali non saranno ammessi agli esami del terzo anno quegli studenti che non abbiano superati gli esami di fisica, chimica generale ed inorganica, chimica organica, zoologia, botanica, mineralogia e istituzioni di matematiche.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1974
+### Dato a Dogliani, addi' 24 settembre 1954
 
-LEONE MALFATTI
+EINAUDI ERMINI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DE PIETRO
 
-Registrato alla Corte dei conti, addi' 10 febbraio 1975
+Registrato alla Corte dei conti, addi' 30 dicembre 1954
 
-Atti di Governo, registro n. 8, foglio n. 101
+Atti del Governo, registro n. 87, foglio n. 111. - CARLOMAGNO

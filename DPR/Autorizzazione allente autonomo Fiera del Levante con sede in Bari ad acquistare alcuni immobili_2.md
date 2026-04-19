@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 aprile 1970 n. 287
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1973 n. 759
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 aprile 1970 n. 287
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1973 n. 759
+==============================================================
 
 Autorizzazione all'ente autonomo "Fiera del Levante", con sede in Bari, ad acquistare alcuni immobili.
 ------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-287. Decreto del Presidente della Repubblica 4 aprile 1970, col quale, sulla proposta del Ministro per l'industria, il commercio e l'artigianato, l'ente autonomo "Fiera del Levante", con sede in Bari, viene autorizzato ad acquistare gli appezzamenti di terreno e gli edifici di cui alle deliberazioni consiliari del 5 marzo 1968 e del 25 giugno 1968, alle condizioni previste nelle deliberazioni stesse.  
+759. Decreto del Presidente della Repubblica 8 ottobre 1973, col quale, sulla proposta del Ministro per l'industria, il commercio e l'artigianato, l'ente autonomo "Fiera del Levante", con sede in Bari, viene autorizzato ad acquistare gli edifici di cui alle deliberazioni consiliari del 19 maggio 1970, alle condizioni previste nelle deliberazioni stesse.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 15 maggio 1970  
-Atti del Governo, registro n. 235, foglio n. 93. - CARUSO
+Visto, il Guardasigilli: ZAGARI  
+Registrato alla Corte dei conti, addi' 22 novembre 1973  
+Atti di Governo, registro n. 262, foglio n. 48. - VALENTINI

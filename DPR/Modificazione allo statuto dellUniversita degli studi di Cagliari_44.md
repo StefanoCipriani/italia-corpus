@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 1122
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 706
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 1122
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 706
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
@@ -28,7 +28,7 @@ Vedute le proposte di modifica dello statuto formulate dalle autorita' accademic
 
 Veduto il parere del Consiglio universitario nazionale;
 
-Sulla proposta del ministro della pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 --------
@@ -39,22 +39,28 @@ Articolo unico
 --------------
 
   
-Nell'art. 42, relativo al corso di laurea in pedagogia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-storia della Sardegna moderna;  
-sociologia della letteratura.  
+Nell'art. 56, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+semeiotica cardiovascolare;  
+fisiopatologia chirurgica;  
+igiene dell'ambiente e del territorio;  
+oncologia ginecologica;  
+epidemiologia;  
+terapia pediatrica sistematica;  
+gastroenterologia pediatrica;  
+scienza dell'ortogenesi;  
+auxologia;  
+malattie infettive dell'infanzia.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana, E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1985
+### Dato a Roma, addi' 27 giugno 1983
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 8 luglio 1986
+Registrato alla Corte dei conti, addi' 14 dicembre 1983
 
-Registro n. 54 Istruzione, foglio n. 321
+Registro n. 76 Istruzione, foglio n. 296

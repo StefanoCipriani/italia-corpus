@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1950 n. 1308
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1952 n. 4529
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1950 n. 1308
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 ottobre 1952 n. 4529
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
@@ -10,916 +10,166 @@ Modificazioni allo statuto dell'Universita' degli studi di Padova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), modificato con [regi decreti 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), [1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1) luglio 3940, n. 992, 26 ottobre 1940, n. 2058, 16 marzo 1942, n. 328 e con [decreto del Presidente della Repubblica 23 settembre 1949, n. 932](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;932);
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), modificato con [regi decreti 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-10-05;1847); [26 ottobre 1940, n. 2058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2058); [16 marzo 1942, n. 323, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-03-16;323) [23 settembre 1949, n. 932](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;932); [31 ottobre 1950, n. 1308](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1308) e [11 aprile 1951, n. 953](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;953);
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [regio decreto 30 settembre 1938 n. 1632](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1632), e successive modificazioni;
 
-Riconosciuta la particolare necessita', di approvare le nuove modifiche proposte;
+Visto il decreto del Presidente della Repubblica 25 luglio 1952 in corso di registrazione, con il quale e' stata approvata la convenzione per il finanziamento della Facolta' di magistero presso l'Universita' di Padova ed e' stata costituita la Facolta' medesima;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
 Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 60. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:
-
-11) semejotica medica;
-
-12) storia della medicina;
-
-13) idrologia medica;
-
-14) scienza dell'alimentazione.
-
-Art. 168. - Il secondo capoverso e' modificato come segue:
-
-Per ognuna di esse puo' essere fissato annualmente dal direttore il numero massimo degli iscritti.
-
-La scelta degli ammessi fino a coprire detto numero massimo, qualora le domande di iscrizione lo superino, sara' fatto in base al criterio del merito nel curriculum scolastico ed eventualmente mediante prova preliminare di esame dinnanzi al direttore e due docenti della scuola.
-
-Art. 169. - E' aggiunto il seguente comma:
-
-Non e' ammessa l'iscrizione all'anno successivo se non sono stati superati gli esami dell'anno precedente.
-
-Art. 172. - E' modificato come segue:
-
-Le tasse e sopratasse che gli iscritti sono tenuti a pagare e la misura dei contributi per le esercitazioni pratiche e per le altre prestazioni di cui gli iscritti usufruiscono durante il corso di studi, sono fissate anno per anno dal Consiglio di amministrazione, su proposta del Consiglio della Facolta' udito il Senato accademico.
-
-La retribuzione dovuta ai direttori delle scuole non sara' inferiore a quella dei professori incaricati di un insegnamento universitario.
-
-Art. 174. - E' abrogato.
-
-Art. 178. - All'elenco delle scuole di specializzazione sono aggiunte le seguenti nuove scuole: scuola di specializzazione in medicina interna, che conferisce il diploma di "specialista in medicina interna", scuola di specializzazione in puericultura che conferisce il diploma di "specialista in puericoltura", scuola di specializzazione in anestesia che conferisce il diploma di "specialista in anestesia".
-
-Art. 179. - E' modificato l'ordinamento delle seguenti scuole di specializzazione in medicina e chirurgia.
-
-Scuola di specializzazione in igiene scolastica.
-
-(Durata del corso un anno).
-
-1. Igiene scolastica e legislazione;
-
-2. Pedagogia e ortofrenia;
-
-3. Psicofisiologia del lavoro mentale;
-
-4. Epidemiologia e profilassi delle malattie infettive e parassitarie in rapporto alla scuola;
-
-5. Diagnosi batteriologica delle malattie infettive e parassitarie dell'eta' scolastica;
-
-6. Medicina legale, protezione della madre e del bambino.
-
-Internati presso l'Istituto di igiene e nell'Ufficio municipale d'igiene.
-
-Scuola di specializzazione in clinica dermosifilopatica.
-
-(Durata del corso due anni).
-
-1° Anno:
-
-Anatomia cute e organi genitali;
-
-Fisiologia cute e organi genitali;
-
-Batteriologia applicata;
-
-Semeiotica generale dermatologica;
-
-Patologia e clinica delle malattie cutanee e sifilitiche;
-
-Urologia.
-
-2° Anno:
-
-Malattie esantematiche;
-
-Anatomia e istologia patologica delle malattie cutanee e veneree;
-
-Igiene e profilassi delle malattie veneree;
-
-Sifilide del sistema nervoso;
-
-Medicina legale specialistica;
-
-Terapia generale specialistica;
-
-Terapia fisica specialistica;
-
-Clinica delle malattie cutanee e veneree.
-
-Internato in clinica di assistenza agli ambulatori con servizio di fatto di assistente volontario.
-
-Scuola di specializzazione in ostetricia e ginecologia.
-
-(Durata del corso quattro anni).
-
-1° Anno:
-
-Anatomia ed embriologia speciale dei genitali femminili;
-
-Fisiologia dei genitali femminili;
-
-Batteriologia del canale genitale femminile;
-
-Fisiologia della gravidanza, parto, puerperio e allattamento;
-
-Semeiotica ostetrico ginecologica.
-
-2° Anno:
-
-Puericoltura pre e post concezionale;
-
-Nozioni di eugenetica;
-
-Anatomia patologica dei genitali femminili;
-
-Patologia generale ostetrico-ginecologica;
-
-Operazioni ostetriche (indicazioni e tecnica);
-
-Clinica ostetrica pratica.
-
-3° Anno:
-
-Ostetricia forense;
-
-Igiene e legislazione sanitaria in rapporto alla gravidanza;
-
-Tecnica di laboratorio (diagnostica e prognostica ostetrico-ginecologica);
-
-Diagnostica radiologica e terapia fisica ginecologica;
-
-Clinica ostetrico-ginecologica (patologia speciale).
-
-4° Anno:
-
-Elementi di statistica applicata all'ostetricia e ginecologia;
-
-Urologia e tecnica cistoscopica;
-
-Tecnica operatoria ginecologica;
-
-Nozioni di chirurgia generale;
-
-Clinica ostetrico-ginecologica.
-
-Internato ed esercitazioni obbligatorie indispensabili, in clinica ostetrica-ginecologica con servizio effettivo e continuativo per quattro anni, quale assistente volontario.
-
-Scuola di specializzazione in neurologia.
-
-(Durata del corso tre anni).
-
-1° Anno:
-
-Anatomia e istologia normale del sistema nervoso;
-
-Fisiologia del sistema nervoso;
-
-Semeiotica e diagnostica neurologica;
-
-Elementi di genetica.
-
-2° Anno:
-
-Anatomia e istologia patologica del sistema nervoso;
-
-Endocrinologia e neurologia vegetativa;
-
-Oftalmologia in rapporto alle malattie del sistema nervoso;
-
-Clinica neurologica.
-
-3° Anno:
-
-Diagnostica radiologica delle malattie nervose;
-
-Elementi di Roentgenterapia delle malattie nervose;
-
-Otorinolaringoiatrica in rapporto alle malattie nervose;
-
-Clinica e terapia delle malattie nervose;
-
-Neurochirurgia.
-
-Internato per tre anni nella clinica delle malattie nervose e mentali, con servizio effettivo di assistente volontario.
-
-Scuola di specializzazione in igiene pubblica.
-
-(Durata del corso due anni).
-
-1° Anno:
-
-Igiene generale e speciale;
-
-Batteriologia, immunologia e microscopia applicata all'igiene;
-
-Parassitologia;
-
-Legislazione sanitaria-statistica e demografia;
-
-Zoonosi, ispezione delle carni;
-
-Nozioni di anatomia e istologia patologica.
-
-2° Anno:
-
-Igiene generale e speciale;
-
-Patologia e clinica delle malattie da infezione, da intossicazione, da carenza, da eredita' morbosa, ecc.;
-
-ingegneria sanitaria;
-
-Chimica applicata all'igiene;
-
-Fisica applicata all'igiene;
-
-Geologia applicata all'igiene.
-
-Internato presso l'Istituto di igiene, l'Ufficio municipale di igiene, il Laboratorio provinciale di igiene e profilassi e l'istituto di anatomia patologica.
-
-Scuola di specializzazione in oculistica.
-
-(Durata del corso tre anni).
-
-1° Anno:
-
-Anatomia, istologia ed embriologia dell'occhio;
-
-Anatomia, patologia speciale oculare;
-
-Ottica fisiologica e fisiologia dell'apparato visivo;
-
-Nozioni di patologia generale in rapporto all'oculistica;
-
-Clinica oculistica;
-
-Semeiotica oculistica.
-
-2° Anno:
-
-Clinica medica generale;
-
-Clinica oculistica;
-
-Clinica chirurgica generale;
-
-Semeiotica oculistica;
-
-Batteriologia, igiene e profilassi;
-
-Interventi chirurgici e tecnica operativa oculare;
-
-Nozioni di patologia generale in rapporto all'oculista;
-
-Oftalmoscopia.
-
-3° Anno:
-
-Radiologia e malattie oculari;
-
-Infortunistica e medicina legale in rapporto alla oculistica;
-
-Interventi chirurgici e tecnica operativa oculare;
-
-Clinica oculistica;
-
-Neurologia in rapporto all'oculistica;
-
-Otorinolaringoiatria in rapporto all'oculistica.
-
-Internato in clinica oculistica durante tre anni con servizio effettivo di assistente volontario.
-
-Scuola di chirurgia.
-
-(Durata del corso cinque anni).
-
-1° Anno:
-
-Embriologia e teratologia;
-
-Anatomia chirurgica;
-
-Patologia generale e fisiopatologia;
-
-Fisiologia chirurgica;
-
-Clinica chirurgica;
-
-Semeiotica e diagnostica chirurgica.
-
-2° Anno:
-
-Anatomia e istologia patologica;
-
-Batteriologia, sierologia, immunologia;
-
-Radiologia chirurgica;
-
-Semeiotica e diagnostica chirurgica;
-
-Patologia chirurgica generale e speciale;
-
-Tecnica operativa;
-
-Clinica chirurgica.
-
-3° Anno:
-
-Radiologia Roentgenterapia;
-
-Anatomia e istologia patologica;
-
-Patologia chirurgica speciale;
-
-Tecnica operativa;
-
-Microscopia e chimica clinica Clinica chirurgica.
-
-4. Anno:
-
-Odontoiatria e stomatologia;
-
-Tecnica e diagnostica endoscopica;
-
-Medicina legale delle lesioni chirurgiche;
-
-Otorinolaringoiatria;
-
-Tecnica operativa Clinica chirurgica.
-
-5° Anno:
-
-Traumatologia;
-
-Ortopedia chirurgica e tecnica degli apparecchi;
-
-Chirurgia infantile;
-
-Chirurgia d'urgenza;
-
-Ginecologia e tecnica-operativa;
-
-Clinica chirurgica.
-
-Internato in clinica chirurgica durante i cinque anni con servizio effettivo di assistente volontario.
-
-Scuola di urologia.
-
-(Durata del corso tre anni).
-
-1° Anno:
-
-Anatomia dell'apparato urinario;
-
-Fisiologia dell'apparato urinario;
-
-Farmacologia;
-
-Batteriologia e immunologia;
-
-Metodi di accertamento diagnostico.
-
-2° Anno:
-
-Anatomia patologica dell'apparato urinario;
-
-Patologia speciale dell'apparato urinario;
-
-Clinica medica dell'apparato urinario;
-
-Clinica chirurgica dell'apparato urinario.
-
-3° Anno:
-
-Ginecologia speciale;
-
-Tecnica operativa Sifilografia;
-
-Clinica chirurgica dell'apparato urinario.
-
-Internato per tre anni in clinica chirurgica con servizio effettivo di assistente volontario.
-
-Scuola malattie dell'apparato respiratorio.
-
-L'ultimo comma e' cosi' modificato:
-
-Internato in clinica medica, oppure servizio come assistente effettivo per due anni in un sanatorio della Previdenza sociale o in un grande ospedale sanatoriale.
-
-Scuola di perfezionamento in cardiologia.
-
-(Durata del corso due anni.
-
-1° Anno:
-
-Clinica dell'apparato cardiovascolare (lezioni);
-
-Morfologia normale dell'apparato cardiovascolare (conferenze);
-
-Anatomia patologica dell'apparato cardiovascolare (conferenze)
-
-Fisiologia dell'apparato cardiovascolare (conferenze);
-
-Farmacologia cardiovascolare (conferenze);
-
-Patologia dell'apparato cardiovascolare (lezioni);
-
-Radiologia dell'apparato cardiovascolare (dimostrazioni);
-
-Elettrocardiografia (esercitazioni);
-
-Semiologia dell'apparato cardiovascolare (esercitazioni).
-
-2° Anno:
-
-Clinica dell'apparato cardiovascolare (lezioni);
-
-Terapia chirurgica dell'apparato cardiovascolare (lezioni);
-
-Patologia dell'apparato cardiovascolare (lezioni);
-
-Terapia medica dell'apparato cardiovascolare (lezioni);
-
-Radiologia dell'apparato cardiovascolare (dimostrazioni);
-
-Elettrocardiografia (esercitazioni);
-
-Semeiologia dell'apparato cardiovascolare (esercitazioni).
-
-Dopo la scuola di specializzazione in cardiologia sono aggiunte le seguenti scuole:
-
-Scuola di specializzazione in medicina interna.
-
-(Durata del corso cinque anni).
-
-a) La scuola fa parte integrante dell'Istituto di clinica medica generale e dispone quindi delle sezioni malati nonche' dei laboratori dell'Istituto.
-
-b) Il materiale didattico e' anche costituito dalla biblioteca e dagli archivi della clinica medica.
-
-c) La scuola e' posta sotto la direzione e la diretta sorveglianza del clinico medico generale: si vale inoltre di docenti all'uopo designati dalla direzione della scuola.
-
-d) Durante il corso, che ha la durata di cinque anni, oltre alle lezioni relative alle materie indicate nel programma, verranno tenute esercitazioni di semeiologia clinica, di diagnostica differenziale e di terapia al letto dei malati mentre nei laboratori si svolgeranno le esercitazioni teorico pratiche.
-
-e) La frequenza delle lezioni e delle esercitazioni e' obbligatoria e per assicurare tale frequenza e' obbligatorio l'internato nell'Istituto di clinica medica.
-
-f) Alla scuola non sono ammessi piu' di dodici medici per ogni anno. Qualora le domande di iscrizione fossero in numero superiore la direzione della scuola si riserva di provvedere ad una scelta in base ai titoli di studi ed eventualmente a mezzo di esami. Non sono ammesse abbreviazioni della durata del corso.
-
-g) Il termine della presentazione delle domande di iscrizione scade il 30 ottobre di ogni anno.
-
-h) Alla, fine del secondo anno scolastico i perfezionandi che abbiano ottenuto la firma di frequenza dovranno sostenere un esame di profitto il cui superamento e' condizione necessaria per l'iscrizione al triennio successivo: alla fine del 5° anno avra', luogo un secondo esame di profitto, il cui superamento e' richiesto per accedere all'esame di diploma.
-
-i) Alla fine del 5° anno del corso ha luogo l'esame di diploma consistente nella presentazione e discussione di una dissertazione scritta su argomento di medicina interna, concordato il precedenza fra il diplomando e il clinico medico generale. La dissertazione deve essere approvata dalla direzione e depositata presso di questa almeno due mesi prima dell'esame.
-
-l) Le Commissioni di esami per gli esami di profitto sono costituite dal clinico medico generale e da due membri scelti fra i docenti del corso.
-
-m) La Commissione dell'esame di diploma e' costituita da sette membri presieduta dal preside della Facolta' o da un professore da lui delegato. Di essa fanno parte il clinico medico generale, i docenti del corso ed eventualmente altri membri scelti dal preside fra i professori e liberi docenti dell'Universita' di Padova.
-
-PROGRAMMA DEL CORSO.
-
-Materie del primo biennio:
-
-Anatomia patologica;
-
-Chimica biologica;
-
-Fisiopatologia, generale;
-
-Microbiologia e sierologia;
-
-Patologia medica.
-
-Materie del triennio successivo:
-
-Clinica, medica generale;
-
-Semiotica clinica;
-
-Semeiotica strumentale e di laboratorio;
-
-Terapia medica;
-
-Radiologia.
-
-Internato per cinque anni in clinica medica con servizio effettivo di assistente volontario.
-
-Scuola di specializzazione in anestesia.
-
-(Durata del corso due anni).
-
-Gli iscritti sono tenuti alla frequenza effettiva in clinica chirurgica per la durata di due anni accademici.
-
-Alla fine dei corsi gli specializzandi sosterranno esami di profitto, in seguito all'esito favorevole dei quali verra', rilasciato diploma di specialista in anestesia.
-
-1° Anno:
-
-Anatomia del sistema nervoso centrale e periferico;
-
-Biochimica e farmacologia dei narcotici;
-
-Fisica dei gas, dei vapori e delle soluzioni Fisiologia della respirazione;
-
-Storia, dell'anestesia;
-
-Compiti pre e post-operatori dell'anestesista;
-
-Strumentario ed apparecchi per la narcosi;
-
-Tecnica anestetica;
-
-Chirurgia generale e speciale ed anestesia.
-
-2° Anno:
-
-Fisiopatologia della narcosi;
-
-Anatomia e istopatologia degli organi in narcosi;
-
-Rianimazione e trattamento anti-schock;
-
-Anestesie speciali (intubazioni, curaro, refrigerazioni, ecc.);
-
-Anestesia in ostetricia;
-
-Scelta della anestesia;
-
-Chirurgia generale e speciale ed anestesia.
-
-Personale insegnante: il direttore della clinica, gli assistenti della clinica specialisti in anestesia ed il personale insegnante degli istituti universitari di Padova per le materie di loro particolare pertinenza.
-
-Scuola di puericultura.
-
-(Durata del corso un anno).
-
-Anatomia e fisiologia del bambino;
-
-Alimentazione del bambino lattante e della seconda e terza infanzia;
-
-Igiene del neonato lattante e del bambino;
-
-Igiene scolastica;
-
-Norme di profilassi delle malattie infettive e contagiose;
-
-Psicologia del bambino;
-
-Legislazione sulla protezione dell'infanzia.
-
-Gli iscritti hanno l'obbligo di frequentare assiduamente le lezioni e le dimostrazioni, il reparto lattanti della clinica e degli istituti annessi.
-
-L'esame si sostiene alla fine dell'anno di corso e tutte le materie d'insegnamento costituiscono un unico gruppo. L'esame di diploma si svolge in conformita' alle norme generali.
-
-Le spese relative al funzionamento delle scuole di specializzazione in medicina e chirurgia sono a carico del bilancio ordinario dell'Universita' di Padova.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della. Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 31 ottobre 1950
-
-EINAUDI
-
-GONELLA
-
-Visto, il Guardasigilli: PICCIONI
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 12 novembre 1951 Atti del Governo; registro n. 45, foglio n. 80. - FRASCA
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato come appresso.
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), modificato con [regi decreti 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), [1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1) luglio 3940, n. 992, 26 ottobre 1940, n. 2058, 16 marzo 1942, n. 328 e con [decreto del Presidente della Repubblica 23 settembre 1949, n. 932](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;932);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita', di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Dopo l'attuale art. 58, sono aggiunti i seguenti nuovi articoli, con il conseguente spostamento della numerazione dei titoli e degli articoli successivi.  
   
-Decreta:  
+TITOLO V  
+Facolta' di Magistero.  
   
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 60. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:  
-11) semejotica medica;  
-12) storia della medicina;  
-13) idrologia medica;  
-14) scienza dell'alimentazione.  
-Art. 168. - Il secondo capoverso e' modificato come segue:  
-Per ognuna di esse puo' essere fissato annualmente dal direttore il numero massimo degli iscritti.  
-La scelta degli ammessi fino a coprire detto numero massimo, qualora le domande di iscrizione lo superino, sara' fatto in base al criterio del merito nel curriculum scolastico ed eventualmente mediante prova preliminare di esame dinnanzi al direttore e due docenti della scuola.  
-Art. 169. - E' aggiunto il seguente comma:  
-Non e' ammessa l'iscrizione all'anno successivo se non sono stati superati gli esami dell'anno precedente.  
-Art. 172. - E' modificato come segue:  
-Le tasse e sopratasse che gli iscritti sono tenuti a pagare e la misura dei contributi per le esercitazioni pratiche e per le altre prestazioni di cui gli iscritti usufruiscono durante il corso di studi, sono fissate anno per anno dal Consiglio di amministrazione, su proposta del Consiglio della Facolta' udito il Senato accademico.  
-La retribuzione dovuta ai direttori delle scuole non sara' inferiore a quella dei professori incaricati di un insegnamento universitario.  
-Art. 174. - E' abrogato.  
-Art. 178. - All'elenco delle scuole di specializzazione sono aggiunte le seguenti nuove scuole: scuola di specializzazione in medicina interna, che conferisce il diploma di "specialista in medicina interna", scuola di specializzazione in puericultura che conferisce il diploma di "specialista in puericoltura", scuola di specializzazione in anestesia che conferisce il diploma di "specialista in anestesia".  
-Art. 179. - E' modificato l'ordinamento delle seguenti scuole di specializzazione in medicina e chirurgia.  
+Art. 59.  
   
-Scuola di specializzazione in igiene scolastica.  
-(Durata del corso un anno).  
+La Facolta' di magistero conferisce esclusivamente:  
+la laurea in materie letterarie;  
+la laurea in pedagogia;  
+il diploma di abilitazione alla vigilanza nelle scuole elementari.  
   
-1. Igiene scolastica e legislazione;  
-2. Pedagogia e ortofrenia;  
-3. Psicofisiologia del lavoro mentale;  
-4. Epidemiologia e profilassi delle malattie infettive e parassitarie in rapporto alla scuola;  
-5. Diagnosi batteriologica delle malattie infettive e parassitarie dell'eta' scolastica;  
-6. Medicina legale, protezione della madre e del bambino.  
-Internati presso l'Istituto di igiene e nell'Ufficio municipale d'igiene.  
+Art. 60.  
   
-Scuola di specializzazione in clinica dermosifilopatica.  
-(Durata del corso due anni).  
+La durata del corso degli studi per la laurea in materie letterarie e' di quattro anni.  
+Sono titoli di ammissione: diploma di abilitazione magistrale e concorso.  
+Sono insegnamenti fondamentali:  
+1) Lingua e letteratura italiana (triennale);  
+2) Lingua e letteratura latina (triennale);  
+3) Storia (triennale);  
+4) Geografia (triennale);  
+5) Pedagogia;  
+6) Storia della filosofia;  
+7) Lingua e letteratura moderna straniera a scelta (biennale).  
+Sono insegnamenti complementari:  
+1) Grammatica latina;  
+2) Filologia romanza;  
+3) Filologia germanica;  
+4) Istituzioni di diritto pubblico e legislazione scolastica;  
+5) Storia dell'arte medioevale e moderna;  
+6) Storia della grammatica e della lingua italiana.  
+Il concorso di ammissione consiste:  
+a) nella valutazione dei voti riportati agli esami per il conseguimento del diploma di abilitazione magistrale nel gruppo delle materie letterarie;  
+b) in una prova scritta di cultura generale, per cui sono concesse sei ore di tempo.  
+Il terzo anno di corso di "geografia" deve essere differenziato come corso di applicazione.  
+Nel corso di "storia" (triennale), un anno deve essere dedicato alla storia romana, un anno alla storia medioevale ed un anno alla storia moderna, alternativamente.  
+Lo studente deve sostenere una prova scritta di traduzione latina, una della lingua straniera scelta ed una di cultura generale.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti fra i complementari.  
   
-1° Anno:  
-Anatomia cute e organi genitali;  
-Fisiologia cute e organi genitali;  
-Batteriologia applicata;  
-Semeiotica generale dermatologica;  
-Patologia e clinica delle malattie cutanee e sifilitiche;  
-Urologia.  
-2° Anno:  
-Malattie esantematiche;  
-Anatomia e istologia patologica delle malattie cutanee e veneree;  
-Igiene e profilassi delle malattie veneree;  
-Sifilide del sistema nervoso;  
-Medicina legale specialistica;  
-Terapia generale specialistica;  
-Terapia fisica specialistica;  
-Clinica delle malattie cutanee e veneree.  
-Internato in clinica di assistenza agli ambulatori con servizio di fatto di assistente volontario.  
+Art. 61.  
   
-Scuola di specializzazione in ostetricia e ginecologia.  
-(Durata del corso quattro anni).  
+Lo durata del corso degli studi per la laurea in pedagogia e' di quattro anni.  
+Sono titoli di ammissione diploma di abilitazione magistrale e concorso.  
+Sono insegnamenti fondamentali:  
+1) Lingua e letteratura italiana (biennale);  
+2) Lingua e letteratura latina (biennale);  
+3) Storia della filosofia (biennale);  
+4) Filosofia (biennale);  
+5) Pedagogia (triennale);  
+6) Storia (biennale);  
+7) Lingua e letteratura moderna straniera a scelta (biennale).  
+Sono insegnamenti complementari:  
+1) Filologia romanza;  
+2) Filologia germanica;  
+3) Istituzioni di diritto pubblico e legislazione scolastica;  
+4) Psicologia;  
+5) Storia dell'arte medioevale e moderna.  
+Il concorso di ammissione consiste:  
+a) nella valutazione dei voti riportati, agli esami per il conseguimento del diploma di abilitazione magistrale, nella filosofia e nella pedagogia;  
+b) in una prova scritta di cultura generale, per cui sono concesse sei ore di tempo.  
+Nel corso di "storia" (biennale), un anno deve essere dedicato alla storia medioevale ed un anno alla storia moderna, alternativamente.  
+Lo studente deve sostenere una prova scritta, di italiano, una di traduzione latina, una della lingua straniera scelta ed una di cultura generale sulle discipline filosofiche.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti fra i complementari.  
   
-1° Anno:  
-Anatomia ed embriologia speciale dei genitali femminili;  
-Fisiologia dei genitali femminili;  
-Batteriologia del canale genitale femminile;  
-Fisiologia della gravidanza, parto, puerperio e allattamento;  
-Semeiotica ostetrico ginecologica.  
-2° Anno:  
-Puericoltura pre e post concezionale;  
-Nozioni di eugenetica;  
-Anatomia patologica dei genitali femminili;  
-Patologia generale ostetrico-ginecologica;  
-Operazioni ostetriche (indicazioni e tecnica);  
-Clinica ostetrica pratica.  
-3° Anno:  
-Ostetricia forense;  
-Igiene e legislazione sanitaria in rapporto alla gravidanza;  
-Tecnica di laboratorio (diagnostica e prognostica ostetrico-ginecologica);  
-Diagnostica radiologica e terapia fisica ginecologica;  
-Clinica ostetrico-ginecologica (patologia speciale).  
-4° Anno:  
-Elementi di statistica applicata all'ostetricia e ginecologia;  
-Urologia e tecnica cistoscopica;  
-Tecnica operatoria ginecologica;  
-Nozioni di chirurgia generale;  
-Clinica ostetrico-ginecologica.  
-Internato ed esercitazioni obbligatorie indispensabili, in clinica ostetrica-ginecologica con servizio effettivo e continuativo per quattro anni, quale assistente volontario.  
+Art. 62.  
   
-Scuola di specializzazione in neurologia.  
-(Durata del corso tre anni).  
+La durata del corso degli studi per il diploma di abilitazione alla vigilanza nelle scuole elementari e' di tre anni.  
+Sono titoli di ammissione: diploma di abilitazione magistrale e concorso.  
+Sono insegnamenti fondamentali:  
+1) Pedagogia (triennale);  
+2) Lingua e letteratura italiana (biennale);  
+3) Lingua e letteratura latina (biennale);  
+4) Storia (biennale);  
+5) Geografia (biennale);  
+6) Storia della filosofia (biennale);  
+7) Istituzioni di diritto pubblico e legislazione scolastica;  
+8) Igiene.  
+Insegnamento complementare:  
+1) Lingua moderna straniera a scelta (biennale).  
+Il concorso di ammissione consiste:  
+a) nella valutazione dei voti riportati, agli esami per il conseguimento del diploma di abilitazione magistrale, nel gruppo delle materie letterarie e nella filosofia e pedagogia;  
+b) in una prova scritta di cultura generale, per cui sono concesse sei ore di tempo.  
+Lo studente deve sostenere una prova scritta di pedagogia, una di italiano ed una della lingua straniera prescelta.  
+Per conseguire il diploma lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed in quello complementare.  
+Per partecipare all'esame di concorso l'aspirante non deve aver superato il 40° anno di eta'.  
   
-1° Anno:  
-Anatomia e istologia normale del sistema nervoso;  
-Fisiologia del sistema nervoso;  
-Semeiotica e diagnostica neurologica;  
-Elementi di genetica.  
-2° Anno:  
-Anatomia e istologia patologica del sistema nervoso;  
-Endocrinologia e neurologia vegetativa;  
-Oftalmologia in rapporto alle malattie del sistema nervoso;  
-Clinica neurologica.  
-3° Anno:  
-Diagnostica radiologica delle malattie nervose;  
-Elementi di Roentgenterapia delle malattie nervose;  
-Otorinolaringoiatrica in rapporto alle malattie nervose;  
-Clinica e terapia delle malattie nervose;  
-Neurochirurgia.  
-Internato per tre anni nella clinica delle malattie nervose e mentali, con servizio effettivo di assistente volontario.  
+Art. 63.  
   
-Scuola di specializzazione in igiene pubblica.  
-(Durata del corso due anni).  
+Gli esami di profitto devono essere tali da accertare la maturita' intellettuale del candidato e la sua preparazione nella materia sulla quale verte l'esame, senza limitarsi alle nozioni impartite dai professori nei corsi ai quali lo studente e' stato iscritto.  
   
-1° Anno:  
-Igiene generale e speciale;  
-Batteriologia, immunologia e microscopia applicata all'igiene;  
-Parassitologia;  
-Legislazione sanitaria-statistica e demografia;  
-Zoonosi, ispezione delle carni;  
-Nozioni di anatomia e istologia patologica.  
-2° Anno:  
-Igiene generale e speciale;  
-Patologia e clinica delle malattie da infezione, da intossicazione, da carenza, da eredita' morbosa, ecc.;  
-ingegneria sanitaria;  
-Chimica applicata all'igiene;  
-Fisica applicata all'igiene;  
-Geologia applicata all'igiene.  
-Internato presso l'Istituto di igiene, l'Ufficio municipale di igiene, il Laboratorio provinciale di igiene e profilassi e l'istituto di anatomia patologica.  
+Art. 64.  
   
-Scuola di specializzazione in oculistica.  
-(Durata del corso tre anni).  
+Per gli insegnamenti pluriennali sono prescritti distinti esami annuali.  
+La prova scritta, per le materie in cui e' contemplata, si sostiene quando l'insegnamento ad essa relativo sia frequentato per il prescritto numero di anni; la prova deve precedere l'ultimo esame orale della relativa materia ed esclude da questo se non viene sostenuta con esito positivo.  
   
-1° Anno:  
-Anatomia, istologia ed embriologia dell'occhio;  
-Anatomia, patologia speciale oculare;  
-Ottica fisiologica e fisiologia dell'apparato visivo;  
-Nozioni di patologia generale in rapporto all'oculistica;  
-Clinica oculistica;  
-Semeiotica oculistica.  
-2° Anno:  
-Clinica medica generale;  
-Clinica oculistica;  
-Clinica chirurgica generale;  
-Semeiotica oculistica;  
-Batteriologia, igiene e profilassi;  
-Interventi chirurgici e tecnica operativa oculare;  
-Nozioni di patologia generale in rapporto all'oculista;  
-Oftalmoscopia.  
-3° Anno:  
-Radiologia e malattie oculari;  
-Infortunistica e medicina legale in rapporto alla oculistica;  
-Interventi chirurgici e tecnica operativa oculare;  
-Clinica oculistica;  
-Neurologia in rapporto all'oculistica;  
-Otorinolaringoiatria in rapporto all'oculistica.  
-Internato in clinica oculistica durante tre anni con servizio effettivo di assistente volontario.  
+Art. 65.  
   
-Scuola di chirurgia.  
-(Durata del corso cinque anni).  
+Con pubblico manifesto sono comunicati annualmente i piani di studio consigliati per i singoli corsi di laurea o di diploma e sono prescritte le esercitazioni e le eventuali prove per gli insegnamenti per i quali siano ritenute opportune dal Consiglio della Facolta'.  
+Gli studenti che aspirano all'esenzione dalle tasse scolastiche, sono tenuti a seguire i piani di studi consigliati, con le norme stabilite dalle vigenti disposizioni di legge.  
   
-1° Anno:  
-Embriologia e teratologia;  
-Anatomia chirurgica;  
-Patologia generale e fisiopatologia;  
-Fisiologia chirurgica;  
-Clinica chirurgica;  
-Semeiotica e diagnostica chirurgica.  
-2° Anno:  
-Anatomia e istologia patologica;  
-Batteriologia, sierologia, immunologia;  
-Radiologia chirurgica;  
-Semeiotica e diagnostica chirurgica;  
-Patologia chirurgica generale e speciale;  
-Tecnica operativa;  
-Clinica chirurgica.  
-3° Anno:  
-Radiologia Roentgenterapia;  
-Anatomia e istologia patologica;  
-Patologia chirurgica speciale;  
-Tecnica operativa;  
-Microscopia e chimica clinica Clinica chirurgica.  
-4. Anno:  
-Odontoiatria e stomatologia;  
-Tecnica e diagnostica endoscopica;  
-Medicina legale delle lesioni chirurgiche;  
-Otorinolaringoiatria;  
-Tecnica operativa Clinica chirurgica.  
-5° Anno:  
-Traumatologia;  
-Ortopedia chirurgica e tecnica degli apparecchi;  
-Chirurgia infantile;  
-Chirurgia d'urgenza;  
-Ginecologia e tecnica-operativa;  
-Clinica chirurgica.  
-Internato in clinica chirurgica durante i cinque anni con servizio effettivo di assistente volontario.  
+Art. 66.  
   
-Scuola di urologia.  
-(Durata del corso tre anni).  
+La prova scritta di cultura generale, nei corsi di laurea, deve essere preceduta da tutti gli altri esami di profitto.  
+La prova scritta di pedagogia, nel corso di diploma, e' preceduta da tutti gli altri esami di profitto, salvo che dal terzo ed ultimo esame orale di pedagogia, ed esclude da questo se non viene sostenuta con esito positivo.  
   
-1° Anno:  
-Anatomia dell'apparato urinario;  
-Fisiologia dell'apparato urinario;  
-Farmacologia;  
-Batteriologia e immunologia;  
-Metodi di accertamento diagnostico.  
-2° Anno:  
-Anatomia patologica dell'apparato urinario;  
-Patologia speciale dell'apparato urinario;  
-Clinica medica dell'apparato urinario;  
-Clinica chirurgica dell'apparato urinario.  
-3° Anno:  
-Ginecologia speciale;  
-Tecnica operativa Sifilografia;  
-Clinica chirurgica dell'apparato urinario.  
-Internato per tre anni in clinica chirurgica con servizio effettivo di assistente volontario.  
+Art. 67.  
   
-Scuola malattie dell'apparato respiratorio.  
+L'esame di laurea consiste nella discussione di una dissertazione scritta, svolta su un tema consigliato dal professore della materia scelta dal candidato.  
+L'argomento della dissertazione deve essere letterario, storico o geografico per gli aspiranti alla laurea, in materie letterarie, di carattere filosofico per gli aspiranti alla laurea in pedagogia.  
   
-L'ultimo comma e' cosi' modificato:  
-Internato in clinica medica, oppure servizio come assistente effettivo per due anni in un sanatorio della Previdenza sociale o in un grande ospedale sanatoriale.  
+Art. 68.  
   
-Scuola di perfezionamento in cardiologia.  
-(Durata del corso due anni.  
+L'insegnamento delle materie comuni ai corsi di laurea e di diploma della Facolta' puo' essere impartito a classi riunite.  
+Taluni corsi possono essere mutuati dalla Facolta' di lettere e filosofia e dalle altre Facolta'.  
   
-1° Anno:  
-Clinica dell'apparato cardiovascolare (lezioni);  
-Morfologia normale dell'apparato cardiovascolare (conferenze);  
-Anatomia patologica dell'apparato cardiovascolare (conferenze)  
-Fisiologia dell'apparato cardiovascolare (conferenze);  
-Farmacologia cardiovascolare (conferenze);  
-Patologia dell'apparato cardiovascolare (lezioni);  
-Radiologia dell'apparato cardiovascolare (dimostrazioni);  
-Elettrocardiografia (esercitazioni);  
-Semiologia dell'apparato cardiovascolare (esercitazioni).  
-2° Anno:  
-Clinica dell'apparato cardiovascolare (lezioni);  
-Terapia chirurgica dell'apparato cardiovascolare (lezioni);  
-Patologia dell'apparato cardiovascolare (lezioni);  
-Terapia medica dell'apparato cardiovascolare (lezioni);  
-Radiologia dell'apparato cardiovascolare (dimostrazioni);  
-Elettrocardiografia (esercitazioni);  
-Semeiologia dell'apparato cardiovascolare (esercitazioni).  
-Dopo la scuola di specializzazione in cardiologia sono aggiunte le seguenti scuole:  
+Art. 69.  
   
-Scuola di specializzazione in medicina interna.  
-(Durata del corso cinque anni).  
+Il Consiglio di facolta' esprime il parere sulla domanda di passaggio da uno ad altro corso di laurea o diploma e sull'eventuale iscrizione ad anno successivo al primo, nonche' sull'ulteriore carriera scolastica degli studenti che si trasferiscano da altre Facolta' o Istituti superiori di magistero.  
   
-a) La scuola fa parte integrante dell'Istituto di clinica medica generale e dispone quindi delle sezioni malati nonche' dei laboratori dell'Istituto.  
-b) Il materiale didattico e' anche costituito dalla biblioteca e dagli archivi della clinica medica.  
-c) La scuola e' posta sotto la direzione e la diretta sorveglianza del clinico medico generale: si vale inoltre di docenti all'uopo designati dalla direzione della scuola.  
-d) Durante il corso, che ha la durata di cinque anni, oltre alle lezioni relative alle materie indicate nel programma, verranno tenute esercitazioni di semeiologia clinica, di diagnostica differenziale e di terapia al letto dei malati mentre nei laboratori si svolgeranno le esercitazioni teorico pratiche.  
-e) La frequenza delle lezioni e delle esercitazioni e' obbligatoria e per assicurare tale frequenza e' obbligatorio l'internato nell'Istituto di clinica medica.  
-f) Alla scuola non sono ammessi piu' di dodici medici per ogni anno. Qualora le domande di iscrizione fossero in numero superiore la direzione della scuola si riserva di provvedere ad una scelta in base ai titoli di studi ed eventualmente a mezzo di esami. Non sono ammesse abbreviazioni della durata del corso.  
-g) Il termine della presentazione delle domande di iscrizione scade il 30 ottobre di ogni anno.  
-h) Alla, fine del secondo anno scolastico i perfezionandi che abbiano ottenuto la firma di frequenza dovranno sostenere un esame di profitto il cui superamento e' condizione necessaria per l'iscrizione al triennio successivo: alla fine del 5° anno avra', luogo un secondo esame di profitto, il cui superamento e' richiesto per accedere all'esame di diploma.  
-i) Alla fine del 5° anno del corso ha luogo l'esame di diploma consistente nella presentazione e discussione di una dissertazione scritta su argomento di medicina interna, concordato il precedenza fra il diplomando e il clinico medico generale. La dissertazione deve essere approvata dalla direzione e depositata presso di questa almeno due mesi prima dell'esame.  
-l) Le Commissioni di esami per gli esami di profitto sono costituite dal clinico medico generale e da due membri scelti fra i docenti del corso.  
-m) La Commissione dell'esame di diploma e' costituita da sette membri presieduta dal preside della Facolta' o da un professore da lui delegato. Di essa fanno parte il clinico medico generale, i docenti del corso ed eventualmente altri membri scelti dal preside fra i professori e liberi docenti dell'Universita' di Padova.  
+Art. 70.  
   
-PROGRAMMA DEL CORSO.  
-  
-Materie del primo biennio:  
-Anatomia patologica;  
-Chimica biologica;  
-Fisiopatologia, generale;  
-Microbiologia e sierologia;  
-Patologia medica.  
-Materie del triennio successivo:  
-Clinica, medica generale;  
-Semiotica clinica;  
-Semeiotica strumentale e di laboratorio;  
-Terapia medica;  
-Radiologia.  
-Internato per cinque anni in clinica medica con servizio effettivo di assistente volontario.  
-  
-Scuola di specializzazione in anestesia.  
-(Durata del corso due anni).  
-  
-Gli iscritti sono tenuti alla frequenza effettiva in clinica chirurgica per la durata di due anni accademici.  
-Alla fine dei corsi gli specializzandi sosterranno esami di profitto, in seguito all'esito favorevole dei quali verra', rilasciato diploma di specialista in anestesia.  
-1° Anno:  
-Anatomia del sistema nervoso centrale e periferico;  
-Biochimica e farmacologia dei narcotici;  
-Fisica dei gas, dei vapori e delle soluzioni Fisiologia della respirazione;  
-Storia, dell'anestesia;  
-Compiti pre e post-operatori dell'anestesista;  
-Strumentario ed apparecchi per la narcosi;  
-Tecnica anestetica;  
-Chirurgia generale e speciale ed anestesia.  
-2° Anno:  
-Fisiopatologia della narcosi;  
-Anatomia e istopatologia degli organi in narcosi;  
-Rianimazione e trattamento anti-schock;  
-Anestesie speciali (intubazioni, curaro, refrigerazioni, ecc.);  
-Anestesia in ostetricia;  
-Scelta della anestesia;  
-Chirurgia generale e speciale ed anestesia.  
-Personale insegnante: il direttore della clinica, gli assistenti della clinica specialisti in anestesia ed il personale insegnante degli istituti universitari di Padova per le materie di loro particolare pertinenza.  
-  
-Scuola di puericultura.  
-(Durata del corso un anno).  
-  
-Anatomia e fisiologia del bambino;  
-Alimentazione del bambino lattante e della seconda e terza infanzia;  
-Igiene del neonato lattante e del bambino;  
-Igiene scolastica;  
-Norme di profilassi delle malattie infettive e contagiose;  
-Psicologia del bambino;  
-Legislazione sulla protezione dell'infanzia.  
-Gli iscritti hanno l'obbligo di frequentare assiduamente le lezioni e le dimostrazioni, il reparto lattanti della clinica e degli istituti annessi.  
-L'esame si sostiene alla fine dell'anno di corso e tutte le materie d'insegnamento costituiscono un unico gruppo. L'esame di diploma si svolge in conformita' alle norme generali.  
-Le spese relative al funzionamento delle scuole di specializzazione in medicina e chirurgia sono a carico del bilancio ordinario dell'Universita' di Padova.  
+Nella Facolta' possono essere istituiti Seminari ed Istituti con particolare riguardo alle discipline pedagogiche e psicologiche ed alla didattica delle singole discipline d'insegnamento.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della. Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1950
+### Dato a Roma, addi' 26 ottobre 1952
 
-EINAUDI GONELLA
+EINAUDI SEGNI
 
-Visto, il Guardasigilli: PICCIONI
+Visto, il Guardasigilli: ZOLI
 
-Registrato alla Corte dei conti, addi' 12 novembre 1951
+Registrato alla Corte dei conti, addi' 10 aprile 1953
 
-Atti del Governo; registro n. 45, foglio n. 80. - FRASCA
+Atti del Governo, registro n. 76, foglio n. 11. - PALLA

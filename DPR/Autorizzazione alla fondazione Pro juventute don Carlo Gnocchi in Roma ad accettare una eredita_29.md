@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1980 n. 715
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1982 n. 227
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1980 n. 715
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1982 n. 227
+============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
 -----------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-715. Decreto del Presidente della Repubblica 22 luglio 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' consistente nella quota del 15% di un complesso di beni mobili, pari a L. 81.180.634, disposta dal sig. Anselmo Mario con testamento olografo 8 febbraio 1976, pubblicato il 2 febbraio 1978, n. 733 di repertorio e n. 175 di raccolta, a rogito dott. Giorgio Pozzi, notaio in Milano, registrato a Milano il 17 febbraio 1978 al n. 2903-7/ M, serie E.  
+227. Decreto del Presidente della Repubblica 6 marzo 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in beni immobili, siti in Milano, per un valore, al netto delle passivita', di L. 45.969.409, disposta dalla sig.ra Cussotti Gabriella con testamento olografo 28 novembre 1972, pubblicato a rogito dott. Brambilla Ferruccio, notaio in Milano, il 19 aprile 1977, n. 28744/ 3296 di repertorio, registrato a Busto Arsizio (Varese) il 5 maggio 1977 al n. 1265.  
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 27 ottobre 1980  
-Registro n. 8 Presidenza, foglio n. 200
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 23 aprile 1982  
+Registro n. 3 Presidenza, foglio n. 325

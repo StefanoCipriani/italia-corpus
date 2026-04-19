@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1977 n. 481
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1968 n. 1131
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1977 n. 481
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1968 n. 1131
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -10,17 +10,17 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169) e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -30,181 +30,220 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 191 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in medicina preventiva dei lavoratori e psicotecnica.
+L'art. 197, relativo alla scuola di specializzazione in medicina interna e' abrogato e sostituito dal seguente:
 
-L'art. 246, secondo comma, relativo alla scuola di specializzazione in oculistica, e' modificato nel senso che il numero degli iscritti e' stabilito in trentadue per i quattro anni di corso (otto per ogni anno di corso).
+Scuola di specializzazione in medicina interna
 
-Dopo l'art. 264, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in medicina preventiva dei lavoratori e psicotecnica.
+Art. 197. - Per essere ammessi alla scuola occorre sostenere un esame di ammissione.
 
-Scuola di specializzazione in medicina preventiva dei lavoratori e psicotecnica.
+Il numero complessivo degli specializzandi non puo' superare quello di venticinque (cinque per ciascun anno di corso).
 
-La scuola di specializzazione in medicina preventiva dei lavoratori e psicotecnica che conferisce il titolo di specialista in medicina preventiva dei lavoratori e psicotecnica a laureati in medicina e chirurgia, e' istituita presso l'istituto di medicina del lavoro dell'Universita' di Bari. La direzione della scuola e' affidata al titolare di medicina del lavoro di detta Universita'. La scuola dispone delle attrezzature e delle opportunita' didattiche dell'istituto di medicina del lavoro.
+La durata del corso e' di cinque anni.
 
-Inoltre potra' disporre delle attrezzature di istituti i cui docenti collaboreranno allo svolgimento dei nuovi insegnamenti.
+Non sono acconsentite abbreviazioni di corso.
 
-Art. 266. - Durante il corso, che ha la durata di tre anni, le lezioni relative alle materie indicate nel piano verranno integrate da esercitazioni di ricerca diagnostica differenziale, di ricerca ecologica, di valutazione medico-biologica e di controllo tecnico dei limiti di sicurezza del lavoro. Tali esercitazioni saranno collegate a visite didattiche negli ambienti di lavoro.
+E' obbligatorio l'internato in clinica medica per lo intero anno solare e tenuto conto delle ferie stabilite per legge.
 
-La frequenza alle lezioni, alle esercitazioni ed alle visite negli ambienti di lavoro e' obbligatoria secondo le modalita' che saranno enunciate dalla direzione del corso e avranno per fine la programmazione e la organizzazione pratica della medicina preventiva dei lavoratori e psicotecnica nel lavoro agricolo, artigianale e industriale. Al terzo anno di corso le esercitazioni si svolgeranno sotto forma di ricerca di gruppo interdisciplinare per la costruzione e la validazione di modelli operativi.
-
-Art. 267. - Il numero massimo degli iscritti e' di venti per anno di corso. La selezione dei candidati aspiranti all'ammissione avverra' per titoli ed esami.
-
-Art. 268. - Alla fine di ogni anno i medici chirurghi specializzandi che abbiano ottenuto la firma di frequenza, dovranno sostenere un esame di profitto nelle materie di insegnamento annuale.
-
-Art. 269. - L'esame di diploma consiste nella discussione di una dissertazione scritta su un argomento di medicina preventiva dei lavoratori e psicotecnica che deve essere approvato dalla direzione della scuola; la dissertazione deve essere presentata per l'approvazione almeno un mese prima delle prove di esame. Le commissioni per gli esami di profitto e gli esami di diploma saranno nominate secondo le norme generali.
-
-Il piano di studi e' il seguente:
+Gli insegnamenti della scuola sono i seguenti:
 
 1° Anno:
 
-dottrina generale della medicina preventiva;
+Malattie infettive, disreattive e del sangue;
 
-dottrina generale della medicina preventiva dei lavoratori e psicotecnica.
+Istituzioni di terapia;
+
+Anatomia ed istologia patologica (1° corso);
+
+Clinica medica generale e terapia medica (1° corso).
 
 2° Anno:
 
-ecologia umana ed ecologia medica dei lavoratori;
+Malattie dell'apparato cardiovascolare;
 
-tossicologia dei lavoratori;
+Microbiologia e sierologia;
 
-basi biologiche, cliniche, medico-legali per l'abilitazione e la riabilitazione al lavoro specifico;
+Chimica clinica;
 
-definizione biologica, medica, psicofisiologica dei limiti di sicurezza consentiti nel lavoro.
+Anatomia ed istologia patologica (2° corso);
+
+Clinica medica generale e terapia medica (2° corso).
 
 3° Anno:
 
-organizzazione e metodologia della medicina preventiva dei lavoratori e psicotecnica in funzione dei rischi connessi al lavoro nell'uomo e nella donna nell'eta' evolutiva, nell'eta' adulta e nella senescenza.
+Malattie dell'apparato digerente;
 
-Il piano di studio sara' svolto mediante le seguenti materie di insegnamento:
+Malattie renali;
+
+Clinica medica generale e terapia medica (3° anno).
+
+4° Anno:
+
+Malattie dell'apparato respiratorio;
+
+Malattie del sistema nervoso;
+
+Clinica medica generale e terapia medica (4° corso).
+
+5° Anno:
+
+Malattie del ricambio;
+
+Malattie delle ghiandole endocrine;
+
+Clinica medica generale e terapia medica (5° corso).
+
+Due insegnamenti complementari a scelta fra i seguenti:
+
+Parassitologia medica (da frequentarsi al 1° anno);
+
+Semeiotica dermatologica (da frequentarsi al 3° anno);
+
+Radiologia (da frequentarsi al 5° anno).
+
+L'esame di diploma di specializzazione consiste nella discussione di una dissertazione scritta su argomento preventivamente concordato con il direttore della scuola.
+
+Gli articoli 219, 220, 221, 222, 223 concernenti la scuola di specializzazione in anestesiologia, che viene trasformata con il presente decreto in scuola di specializzazione in anestesiologia e rianimazione, sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in anestesiologia e rianimazione
+
+Art. 219. - La scuola si propone di far perfezionare gli aspiranti allo studio ed alla pratica dell'anestesiologia e della rianimazione.
+
+La scuola e' sotto la direzione del direttore dell'Istituto di clinica chirurgica ed e' affidata per l'insegnamento delle materie specifiche e per la parte tecnica ad un docente di anestesiologia, con funzioni di vicedirettore. Disporra' del reparto di anestesiologia, del reparto di rianimazione, dei reparti clinici, dei laboratori e delle attrezzature dell'istituto stesso, ed eventualmente potra' utilizzare i reparti e le attrezzature di altri istituti.
+
+Art. 220. - La selezione degli aspiranti ai fini della ammissione sara' fatta in base alla valutazione dei titoli ed, eventualmente, a mezzo di esami.
+
+Non saranno concesse abbreviazioni di corso, fatta eccezione per i candidati i quali, gia' in possesso del diploma di specializzazione in anestesiologia, possono essere ammessi al terzo anno per ottenere il completamento.
+
+Art. 221. - La durata della scuola e' di tre anni.
+
+Il numero massimo complessivo di iscritti per tutti e tre gli anni di corso sara' di 45.
+
+L'obbligo della frequenza ai corsi e' categorico, e gli iscritti sono tenuti non soltanto a presenziare a lezioni ed a prendere parte ad esercitazioni, ma anche a svolgere un internato.
+
+Art. 222. - Le materie d'insegnamento sono le seguenti:
 
 1° Anno:
 
-1) basi biologiche cliniche della medicina preventiva (evoluzione del processo scientifico e costituzione di modelli operativi in medicina preventiva);
+Anatomia, biochimica, farmacologia, fisica, fisiologia applicata alla anestesiologia e rianimazione;
 
-2) elementi di organizzazione artigianale, agricola, industriale, (aggiornamento sul valore e sul significato culturale e socio-economico della organizzazione del lavoro agli effetti della salute dei lavoratori);
+Anestesiologia (1° corso);
 
-3) fisiologia della capacita' del lavoro e della fatica (teoria della fatica, fatica ischemica; fattori condizionati di origine endogena ed esogena);
+Tecniche chirurgiche di interesse anestesiologico;
 
-4) psicologia e psicofisiologia della capacita' del lavoro e della fatica (teorie sulla motivazione; fatica sensoriale, fatica mentale; vigilanza);
-
-5) capacita' di lavorare e fatica nella malattia (malattie metaboliche, endocrine, neurologiche, sensoriali, ecc.);
-
-6) basi biologiche cliniche nella medicina preventiva dei lavoratori e psicotecnica (evoluzione del processo scientifico e costituzione dei modelli operativi in medicina preventiva dei lavoratori e psicotecnica).
+Aspetti medico-legali dell'anestesia e della rianimazione.
 
 2° Anno:
 
-1) effetti dei fattori ambientali sui sistemi biologici (mutageni);
+Anestesiologia (2° corso);
 
-2) analisi dei sistemi in ecologia umana;
+Terapia antalgica;
 
-3) ecologia medica dei lavoratori (distribuzione delle malattie dei lavoratori in rapporto alla natura del loro lavoro);
+Rianimazione (1° corso).
 
-4) tossicologia dei lavoratori morfologica, metabolica e comportamentale;
-
-5) basi biologiche e cliniche per l'abilitazione e la riabilitazione dal lavoro;
-
-6) basi medico-legali per l'abilitazione e la riabilitazione al lavoro;
-
-7) definizione biologica, medica psicofisiologica dei limiti di sicurezza consentiti nel lavoro.
-
-3° Anno:
-
-1) controllo tecnico e medico dei limiti di sicurezza consentiti nei posti di lavoro e prevenzione della tossicologia dei lavoratori;
-
-2) controllo tecnico e medico degli scambi di energia e prevenzione della fatica dei lavoratori;
-
-3) controllo psicofisiologico per la prevenzione della patologia sensoriale e della psicopatologia dei lavoratori;
-
-4) controllo medico della sicurezza del lavoro e prevenzione degli infortuni dei lavoratori;
-
-5) organizzazione e metodologia della prevenzione medica in funzione dei rischi connessi al lavoro nell'uomo e nella donna in eta' evolutiva, in eta' adulta e nella senescenza.
+L'esame di diploma di specializzazione consiste nella discussione di una dissertazione scritta su argomento precedentemente concordato con il direttore della scuola.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 25 maggio 1977
+Dato a Roma, addi' 24 settembre 1968
 
-LEONE
+SARAGAT
 
-MALFATTI
+SCAGLIA
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 28 luglio 1977 Registro n. 88 Istruzione, foglio n. 395
+alla Corte dei conti addi' 2 novembre 1968 Atti del Governo, registro n. 223, foglio n. 80. - GRECO
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169) e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 191 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in medicina preventiva dei lavoratori e psicotecnica.   
-L'art. 246, secondo comma, relativo alla scuola di specializzazione in oculistica, e' modificato nel senso che il numero degli iscritti e' stabilito in trentadue per i quattro anni di corso (otto per ogni anno di corso).   
-Dopo l'art. 264, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in medicina preventiva dei lavoratori e psicotecnica.   
-Scuola di specializzazione in medicina preventiva dei lavoratori e psicotecnica.   
-La scuola di specializzazione in medicina preventiva dei lavoratori e psicotecnica che conferisce il titolo di specialista in medicina preventiva dei lavoratori e psicotecnica a laureati in medicina e chirurgia, e' istituita presso l'istituto di medicina del lavoro dell'Universita' di Bari. La direzione della scuola e' affidata al titolare di medicina del lavoro di detta Universita'. La scuola dispone delle attrezzature e delle opportunita' didattiche dell'istituto di medicina del lavoro.   
-Inoltre potra' disporre delle attrezzature di istituti i cui docenti collaboreranno allo svolgimento dei nuovi insegnamenti.   
-Art. 266. - Durante il corso, che ha la durata di tre anni, le lezioni relative alle materie indicate nel piano verranno integrate da esercitazioni di ricerca diagnostica differenziale, di ricerca ecologica, di valutazione medico-biologica e di controllo tecnico dei limiti di sicurezza del lavoro. Tali esercitazioni saranno collegate a visite didattiche negli ambienti di lavoro.   
-La frequenza alle lezioni, alle esercitazioni ed alle visite negli ambienti di lavoro e' obbligatoria secondo le modalita' che saranno enunciate dalla direzione del corso e avranno per fine la programmazione e la organizzazione pratica della medicina preventiva dei lavoratori e psicotecnica nel lavoro agricolo, artigianale e industriale. Al terzo anno di corso le esercitazioni si svolgeranno sotto forma di ricerca di gruppo interdisciplinare per la costruzione e la validazione di modelli operativi.   
-Art. 267. - Il numero massimo degli iscritti e' di venti per anno di corso. La selezione dei candidati aspiranti all'ammissione avverra' per titoli ed esami.   
-Art. 268. - Alla fine di ogni anno i medici chirurghi specializzandi che abbiano ottenuto la firma di frequenza, dovranno sostenere un esame di profitto nelle materie di insegnamento annuale.   
-Art. 269. - L'esame di diploma consiste nella discussione di una dissertazione scritta su un argomento di medicina preventiva dei lavoratori e psicotecnica che deve essere approvato dalla direzione della scuola; la dissertazione deve essere presentata per l'approvazione almeno un mese prima delle prove di esame. Le commissioni per gli esami di profitto e gli esami di diploma saranno nominate secondo le norme generali.   
-Il piano di studi e' il seguente:   
-1° Anno:   
-dottrina generale della medicina preventiva;   
-dottrina generale della medicina preventiva dei lavoratori e psicotecnica.   
-2° Anno:   
-ecologia umana ed ecologia medica dei lavoratori;   
-tossicologia dei lavoratori;   
-basi biologiche, cliniche, medico-legali per l'abilitazione e la riabilitazione al lavoro specifico;   
-definizione biologica, medica, psicofisiologica dei limiti di sicurezza consentiti nel lavoro.   
-3° Anno:   
-organizzazione e metodologia della medicina preventiva dei lavoratori e psicotecnica in funzione dei rischi connessi al lavoro nell'uomo e nella donna nell'eta' evolutiva, nell'eta' adulta e nella senescenza.   
-Il piano di studio sara' svolto mediante le seguenti materie di insegnamento:   
-1° Anno:   
-1) basi biologiche cliniche della medicina preventiva (evoluzione del processo scientifico e costituzione di modelli operativi in medicina preventiva);   
-2) elementi di organizzazione artigianale, agricola, industriale, (aggiornamento sul valore e sul significato culturale e socio-economico della organizzazione del lavoro agli effetti della salute dei lavoratori);   
-3) fisiologia della capacita' del lavoro e della fatica (teoria della fatica, fatica ischemica; fattori condizionati di origine endogena ed esogena);   
-4) psicologia e psicofisiologia della capacita' del lavoro e della fatica (teorie sulla motivazione; fatica sensoriale, fatica mentale; vigilanza);   
-5) capacita' di lavorare e fatica nella malattia (malattie metaboliche, endocrine, neurologiche, sensoriali, ecc.);   
-6) basi biologiche cliniche nella medicina preventiva dei lavoratori e psicotecnica (evoluzione del processo scientifico e costituzione dei modelli operativi in medicina preventiva dei lavoratori e psicotecnica).   
-2° Anno:   
-1) effetti dei fattori ambientali sui sistemi biologici (mutageni);   
-2) analisi dei sistemi in ecologia umana;   
-3) ecologia medica dei lavoratori (distribuzione delle malattie dei lavoratori in rapporto alla natura del loro lavoro);   
-4) tossicologia dei lavoratori morfologica, metabolica e comportamentale;   
-5) basi biologiche e cliniche per l'abilitazione e la riabilitazione dal lavoro;   
-6) basi medico-legali per l'abilitazione e la riabilitazione al lavoro;   
-7) definizione biologica, medica psicofisiologica dei limiti di sicurezza consentiti nel lavoro.   
-3° Anno:   
-1) controllo tecnico e medico dei limiti di sicurezza consentiti nei posti di lavoro e prevenzione della tossicologia dei lavoratori;   
-2) controllo tecnico e medico degli scambi di energia e prevenzione della fatica dei lavoratori;   
-3) controllo psicofisiologico per la prevenzione della patologia sensoriale e della psicopatologia dei lavoratori;   
-4) controllo medico della sicurezza del lavoro e prevenzione degli infortuni dei lavoratori;   
-5) organizzazione e metodologia della prevenzione medica in funzione dei rischi connessi al lavoro nell'uomo e nella donna in eta' evolutiva, in eta' adulta e nella senescenza.   
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+L'art. 197, relativo alla scuola di specializzazione in medicina interna e' abrogato e sostituito dal seguente:  
+  
+Scuola di specializzazione in medicina interna  
+  
+Art. 197. - Per essere ammessi alla scuola occorre sostenere un esame di ammissione.  
+Il numero complessivo degli specializzandi non puo' superare quello di venticinque (cinque per ciascun anno di corso).  
+La durata del corso e' di cinque anni.  
+Non sono acconsentite abbreviazioni di corso.  
+E' obbligatorio l'internato in clinica medica per lo intero anno solare e tenuto conto delle ferie stabilite per legge.  
+Gli insegnamenti della scuola sono i seguenti:  
+1° Anno:  
+Malattie infettive, disreattive e del sangue;  
+Istituzioni di terapia;  
+Anatomia ed istologia patologica (1° corso);  
+Clinica medica generale e terapia medica (1° corso).  
+2° Anno:  
+Malattie dell'apparato cardiovascolare;  
+Microbiologia e sierologia;  
+Chimica clinica;  
+Anatomia ed istologia patologica (2° corso);  
+Clinica medica generale e terapia medica (2° corso).  
+3° Anno:  
+Malattie dell'apparato digerente;  
+Malattie renali;  
+Clinica medica generale e terapia medica (3° anno).  
+4° Anno:  
+Malattie dell'apparato respiratorio;  
+Malattie del sistema nervoso;  
+Clinica medica generale e terapia medica (4° corso).  
+5° Anno:  
+Malattie del ricambio;  
+Malattie delle ghiandole endocrine;  
+Clinica medica generale e terapia medica (5° corso).  
+Due insegnamenti complementari a scelta fra i seguenti:  
+Parassitologia medica (da frequentarsi al 1° anno);  
+Semeiotica dermatologica (da frequentarsi al 3° anno);  
+Radiologia (da frequentarsi al 5° anno).  
+L'esame di diploma di specializzazione consiste nella discussione di una dissertazione scritta su argomento preventivamente concordato con il direttore della scuola.  
+Gli articoli 219, 220, 221, 222, 223 concernenti la scuola di specializzazione in anestesiologia, che viene trasformata con il presente decreto in scuola di specializzazione in anestesiologia e rianimazione, sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in anestesiologia e rianimazione  
+  
+Art. 219. - La scuola si propone di far perfezionare gli aspiranti allo studio ed alla pratica dell'anestesiologia e della rianimazione.  
+La scuola e' sotto la direzione del direttore dell'Istituto di clinica chirurgica ed e' affidata per l'insegnamento delle materie specifiche e per la parte tecnica ad un docente di anestesiologia, con funzioni di vicedirettore. Disporra' del reparto di anestesiologia, del reparto di rianimazione, dei reparti clinici, dei laboratori e delle attrezzature dell'istituto stesso, ed eventualmente potra' utilizzare i reparti e le attrezzature di altri istituti.  
+Art. 220. - La selezione degli aspiranti ai fini della ammissione sara' fatta in base alla valutazione dei titoli ed, eventualmente, a mezzo di esami.  
+Non saranno concesse abbreviazioni di corso, fatta eccezione per i candidati i quali, gia' in possesso del diploma di specializzazione in anestesiologia, possono essere ammessi al terzo anno per ottenere il completamento.  
+Art. 221. - La durata della scuola e' di tre anni.  
+Il numero massimo complessivo di iscritti per tutti e tre gli anni di corso sara' di 45.  
+L'obbligo della frequenza ai corsi e' categorico, e gli iscritti sono tenuti non soltanto a presenziare a lezioni ed a prendere parte ad esercitazioni, ma anche a svolgere un internato.  
+Art. 222. - Le materie d'insegnamento sono le seguenti:  
+1° Anno:  
+Anatomia, biochimica, farmacologia, fisica, fisiologia applicata alla anestesiologia e rianimazione;  
+Anestesiologia (1° corso);  
+Tecniche chirurgiche di interesse anestesiologico;  
+Aspetti medico-legali dell'anestesia e della rianimazione.  
+2° Anno:  
+Anestesiologia (2° corso);  
+Terapia antalgica;  
+Rianimazione (1° corso).  
+L'esame di diploma di specializzazione consiste nella discussione di una dissertazione scritta su argomento precedentemente concordato con il direttore della scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 maggio 1977
+### Dato a Roma, addi' 24 settembre 1968
 
-LEONE MALFATTI
+SARAGAT SCAGLIA
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti addi' 2 novembre 1968
 
-Registrato alla Corte dei conti, addi' 28 luglio 1977
-
-Registro n. 88 Istruzione, foglio n. 395
+Atti del Governo, registro n. 223, foglio n. 80. - GRECO

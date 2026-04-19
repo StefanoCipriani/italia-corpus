@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 gennaio 1969 n. 23
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1974 n. 587
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 gennaio 1969 n. 23
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1974 n. 587
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
@@ -10,65 +10,57 @@ Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926 n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927 n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 57. - All'elenco degli insegnamenti obbligatori sul piano della facolta' nel corso di laurea in ingegneria elettrotecnica sono aggiunti gli insegnamenti di "Tecnologie speciali per elettrotecnici ed elettronici" "Complementi di matematica" ed "Elettrotecnica II" mentre gli insegnamenti di "Tecnologia meccanica" e "Componenti elettronici" sono soppressi.  
-Nello stesso corso di laurea i due gruppi di materie a scelta dello studente sono soppressi e sostituiti dai seguenti:  
-Indirizzo costruzioni elettromeccaniche:  
-20) Tecnologie meccaniche;  
-21) Organizzazione industriale;  
-Indirizzo impianti elettrici:  
-20) Costruzioni idrauliche;  
-21) Impianti nucleari.  
-All'elenco degli insegnamenti obbligatori sul piano della facolta' nel corso di laurea in ingegneria elettronica sono aggiunti gli insegnamenti di "Complementi di matematica", "Misure elettroniche", "Tecnologie speciali per elettrotecnici ed elettronici", "Elettronica applicata II" ed "Organizzazione industriale" mentre gli insegnamenti di "Tecnologia meccanica", "Misure elettriche ad alta frequenza", "Metallurgia e metallografia", e "Complementi di comunicazioni elettriche" sono soppressi.  
-Nello stesso corso di laurea i tre gruppi di materie a scelta dello studente sono soppressi e sostituiti dai seguenti:  
-Indirizzo calcolatori elettronici:  
-20) Sintesi circuitale attiva e passiva;  
-21) Circuiti logici e calcolatrici elettroniche.  
-Indirizzo nucleare:  
-20) Strumenti e misure nucleari;  
-21) Fisica nucleare.  
-Indirizzo comunicazioni elettriche:  
-20) Tecnica telegrafica e telefonica;  
-21) Tecnica delle vibrazioni ed acustica.  
-Art. 62, relativo alle norme sulle propedeuticita' ed esami nei corsi di laurea in ingegneria elettrotecnica ed in ingegneria elettronica sono abrogati e sostituiti dai seguenti:  
+Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 35 - all'elenco degli insegnamenti complementari del corso di laurea in lettore sono aggiunti i seguenti:   
   
-Laurea in ingegneria elettrotecnica  
+Storia dell'arte bizantina;   
+Storia della lingua greca;   
+Antropologia culturale;   
+Archeologia e topografia medioevale;   
+Dialettologia italiana;   
+Letteratura comparata;   
+Linguistica generale;   
+Storia della civilta' arabo-islamica.   
+Nello stesso elenco gli insegnamenti di "Filologia umanistica" e "Storia della letteratura latina medioevale mutano la denominazione rispettivamente in quella di "Filologia e letteratura umanistica" e in "Lingua e letteratura latina medioevale".   
+Art. 35 - all'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:   
   
-Gli esami di complementi di matematica, tecnologie speciali per elettrotecnici ed elettronici ed elettrotecnica I debbono precedere quelli di elettrotecnica II, macchine elettriche, misure elettriche, impianti elettrici a media e bassa tensione, elettronica applicata I, tecnologia meccanica. L'esame di scienza delle costruzioni deve precedere quello di impianti elettrici a media e bassa tensione.  
-Gli esami di elettrotecnica II; macchine elettriche, misure elettriche, impianti elettrici a media e bassa tensione debbono precedere quello di impianti elettrici e tecnica ed economia dei trasporti. Gli esami di macchine elettriche e di elettronica applicata I debbono precedere quello di controlli automatici. L'esame di macchine elettriche deve precedere quello di costruzione di macchine elettriche. L'esame di elettronica applicata I deve precedere quello di comunicazioni elettriche.  
+Filosofia della religione;   
+Psicologia applicata.   
+Art. 43 - all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti i seguenti:   
   
-Laurea in ingegneria elettronica  
+Lingue e letterature latino americane;   
+Letteratura comparata;   
+Linguistica generale;   
+Storia della civilta' arabo islamica.   
+Art. 48 (ex 35) - all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:   
   
-Gli esami di complementi di matematica, tecnologie speciali per elettrotecnici ed elettronici e di elettrotecnica I debbono precedere quelli di elettronica applicata I, campi elettromagnetici e comunicazioni elettriche, di macchine elettriche, misure elettriche ed impianti a media e bassa tensione.  
-L'esame di componenti elettronici deve precedere quello di elettronica applicata I.  
-L'esame di elettronica applicata I deve precedere gli esami di elettronica applicata II radiotecnica, controlli automatici, misure elettriche, tecnica telegrafica e telefonica, sintesi circuitale attiva e passiva, circuiti logici e calcolatori elettronici.  
-L'esame di misure elettriche deve precedere quello di misure elettroniche.  
-Gli esami di campi elettromagnetici e circuiti e di comunicazioni elettriche debbono precedere quelli di radiotecnica, tecnica delle iperfrequenze, tecnica telegrafica e telefonica.  
+Malattie dell'apparato digerente;   
+Fisioterapia.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana, fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 gennaio 1969
+### Dato a Roma, addi' 6 marzo 1974
 
-SARAGAT SULLO
+LEONE MALFATTI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 28 febbraio 1969
+Registrato alla Corte dei conti, addi' 21 novembre 1974
 
-Atti del Governo, registro n. 225, foglio n. 99. - GRECO
+Atti del Governo, registro n. 7, foglio n. 1. - SCIARRETTA

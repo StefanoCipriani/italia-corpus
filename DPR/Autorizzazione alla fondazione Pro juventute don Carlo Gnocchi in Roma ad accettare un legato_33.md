@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1981 n. 437
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1980 n. 163
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1981 n. 437
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1980 n. 163
+============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-437. Decreto del Presidente della Repubblica 29 maggio 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi" in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Bianchedi Italina ved. Grisi a favore dell'Opera pia don Gnocchi, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi" come ha fatto presente la fondazione medesima, con testamento olografo 13 settembre 1976, pubblicato a rogito dott. Ferruccio Micheli, notaio in Parma, in data 19 aprile 1977, n. 26137 di repertorio e n. 10241 di raccolta, registrato a Firenze il 26 aprile 1977 al n. 1204 A.P., consistente nella somma di L. 500.000.  
+163. Decreto del Presidente della Repubblica 11 marzo 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in porzioni di immobili siti in comune di Milano, del valore di L. 13 milioni 500.000, disposto dalla sig.ra Maria Tartarini ved. Riva con testamenti olografi 12 dicembre 1970 e 2 febbraio 1973, pubblicati in data 12 novembre 1976, n. 12232/1218 di repertorio, a rogito dott. Artidoro Solaro, notaio in Nerviano (Milano), registrati a Rho (Milano) in data 24 novembre 1976, n. 682, vol. 82.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 1 agosto 1981  
-Registro n. 7 Presidenza, foglio n. 45
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti, addi' 6 maggio 1980  
+Registro n. 3 Presidenza, foglio n. 318

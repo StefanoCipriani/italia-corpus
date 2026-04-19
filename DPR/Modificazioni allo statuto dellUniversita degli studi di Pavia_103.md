@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1978 n. 948
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 818
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1978 n. 948
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 818
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
@@ -10,222 +10,131 @@ Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Visto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio universitario nazionale nei suoi pareri;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Veduto il [parere della sezione prima del Consiglio di Stato n. 1902/74 del 14 febbraio 1975](https://e-justice.europa.eu/ecli/ECLI::::);
 
-Decreta:
+Considerato che non appare opportuno, al momento, procedere ad una generale revisione delle norme statutarie di tutti gli atenei relative alla direzione delle scuole di specializzazione e perfezionamento e degli istituti nonche' delle scuole dirette a fini speciali, attualmente affidata esclusivamente ai professori di ruolo o fuori ruolo, in attesa del provvedimento relativo allo stato giuridico del personale docente;
 
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Sulla
+-----
 
-Dopo l'art. 96, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi alla istituzione della scuola di perfezionamento in governo dell'ambiente e del territorio, annessa alla facolta' di giurisprudenza.
-
-FACOLTA' DI GIURISPRUDENZA
-
-Scuola di perfezionamento in governo dell'ambiente e del territorio
-
-Art. 97. - E' istituita presso la facolta' di giurisprudenza la scuola di ricerca e di perfezionamento in governo dell'ambiente e del territorio aperta ai laureati di qualsiasi facolta'. La scuola rilascia al termine degli studi il diploma di perfezionamento in governo dell'ambiente e del territorio.
-
-Art. 98. - La scuola si propone:
-
-a) di promuovere ricerche, nell'ambito delle discipline costituenti la scuola, anche in collaborazione con enti pubblici e privati interessati ai relativi problemi;
-
-b) di indirizzare, guidare ed aiutare i laureati che intendono dedicarsi alla ricerca scientifica nell'ambito delle discipline costituenti la scuola;
-
-c) di promuovere il perfezionamento della cultura specifica richiesta per la preparazione professionale di coloro che gia' operano o intendono inserirsi in amministrazioni pubbliche o private nei settori di competenza della scuola.
-
-Art. 99. - Il funzionamento della scuola e' affidata al consiglio di facolta' di giurisprudenza, cui spetta di stabilire gli insegnamenti da impartire, proporre il conferimento degli incarichi di insegnamento, approvare i piani di studio e approvare i programmi di ricerca della scuola medesima.
-
-La facolta' nomina, con durata triennale, un direttore della scuola, al quale sono affidate l'organizzazione e la sorveglianza del regolare funzionamento degli insegnamenti e degli esami. Il direttore e' scelto tra i professori della facolta'. E' costituito altresi' un consiglio di direzione della scuola, formato oltre che, dal direttore, che lo presiede, da due professori della scuola, eletti dai professori medesimi. Possono essere inoltre chiamati a farne parte, calla facolta', altri componenti designati da enti od organizzazioni che stipulino convenzioni con l'Universita' in rapporto all'attivita' della scuola. Il consiglio dura in carica tre anni. Esso coadiuva il direttore nell'organizzazione della scuola.
-
-Spetta al consiglio adottare il programma di ricerca della scuola da sottoporre all'approvazione della facolta' e proporre l'eventuale stipulazione di convenzioni con enti pubblici o privati per ricerche specifiche da svolgere nell'ambito della scuola.
-
-Art. 100. - Il corso di studi ha durata biennale. Per adire al secondo anno gli iscritti alla scuola dovranno avere superato almeno tre esami di profitto previsti dall'ordine di studi.
-
-L'insegnamento ha luogo in forma di lezioni, esercitazioni, seminari, ricerche di gruppo e in ogni altra forma ritenuta opportuna.
-
-Art. 101. - Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-ecologia generale ed applicata;
-
-urbanistica e diritto urbanistico;
-
-legislazione dell'ambiente e delle risorse naturali;
-
-economia ambientale, nonche' due altri insegnamenti da scegliersi tra i seguenti opzionali;
-
-economia urbana;
-
-pianificazione territoriali;
-
-politica economica;
-
-legislazione comparata sulla tutela dell'ambiente;
-
-tutela delle acque interne e marine;
-
-sociologia urbana;
-
-storia dell'ambiente urbano e rurale;
-
-azioni a tutela dei beni collettivi;
-
-diritto internazionale delle risorse naturali.
-
-2° Anno:
-
-tutela del paesaggio e dell'ambiente naturale;
-
-programmazione economico-sociale;
-
-controllo degli inquinamenti;
-
-diritto penale dell'ambiente e degli inquinamenti, nonche' altri due insegnamenti da scegliersi tra i seguenti opzionali;
-
-scienza dell'amministrazione;
-
-storia dell'amministrazione pubblica;
-
-ordinamento regionale;
-
-ordinamento degli enti locali;
-
-ordinamento dei servizi sociali;
-
-politica e trasporti;
-
-sistemi di informazione e organizzazione sociale;
-
-programmazione finanziaria nella regione e negli enti locali.
-
-Art. 102. - Gli insegnamenti sono annuali o semestrali. Sono annuali gli insegnamenti fondamentali sono semestrali gli insegnamenti opzionali. Due insegnamenti semestrali sono in tutto equipollenti ad un insegnamento annuale.
-
-Art. 103. - Le commissioni per gli esami sono nominate dal direttore della scuola e sono formate dal professore della materia e da altri due insegnanti della scuola o cultori della materia. La valutazione ai fini dell'esame puo' avvalersi di ogni forma ritenuta opportuna, e in particolare dei risultati dei seminari e delle ricerche di gruppo.
-
-La commissione per l'esame di diploma e' nominata dal preside della facolta' ed e' formata da cinque membri scelti tra gli insegnanti della scuola, fra cui il direttore, che la presiede.
-
-L'esame consistera' nella discussione di una dissertazione originale scritta.
-
-Art. 104. - Gli iscritti alla scuola sono tenuti a pagare le medesime tasse, soprattasse e contributi stabiliti dalle vigenti disposizioni per gli studenti della facolta' di giurisprudenza.
-
-Art. 105. - La scuola utilizza le attrezzature didattiche e scientifiche della facolta' di giurisprudenza, in particolare quelle degli istituti di diritto pubblico, di economia politica, di finanza e di diritto e procedura penale.
-
-La scuola fara' fronte alle spese relative alla sua attivita' con i proventi delle tasse e contributi pagati dagli iscritti.
-
-Ulteriori attivita' scientifiche e di ricerca saranno subordinate all'acquisizione di contributi da parte di enti convenzionati con l'Universita'.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 18 ottobre 1978
-
-PERTINI
-
-PEDINI
-
-Visto, il Guardasigilli: BONIFACIO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 30 gennaio 1979 Registro n. 4 Istruzione, foglio n. 4
+proposta del Ministro della pubblica istruzione; Decreta:
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Visto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Lo statuto dell'Universita' di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come l'art. 153, secondo comma, relativo alla scuola di specializzazione in odontostomatologia e' modificato nel senso che l'espressione "discussione scritta" e' sostituita da "dissertazione scritta".  
+
+Art. 2
+------
+
   
-Decreta:  
+Gli articoli 172, 173, 174, 175 e 176, relativi alla scuola di specializzazione in oncologia, sono soppressi e sostituiti dai seguenti:  
   
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Dopo l'art. 96, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi alla istituzione della scuola di perfezionamento in governo dell'ambiente e del territorio, annessa alla facolta' di giurisprudenza.  
-  
-FACOLTA' DI GIURISPRUDENZA  
-  
-Scuola di perfezionamento in governo dell'ambiente e del territorio   
-Art. 97. - E' istituita presso la facolta' di giurisprudenza la scuola di ricerca e di perfezionamento in governo dell'ambiente e del territorio aperta ai laureati di qualsiasi facolta'. La scuola rilascia al termine degli studi il diploma di perfezionamento in governo dell'ambiente e del territorio.  
-Art. 98. - La scuola si propone:  
-a) di promuovere ricerche, nell'ambito delle discipline costituenti la scuola, anche in collaborazione con enti pubblici e privati interessati ai relativi problemi;  
-b) di indirizzare, guidare ed aiutare i laureati che intendono dedicarsi alla ricerca scientifica nell'ambito delle discipline costituenti la scuola;  
-c) di promuovere il perfezionamento della cultura specifica richiesta per la preparazione professionale di coloro che gia' operano o intendono inserirsi in amministrazioni pubbliche o private nei settori di competenza della scuola.  
-Art. 99. - Il funzionamento della scuola e' affidata al consiglio di facolta' di giurisprudenza, cui spetta di stabilire gli insegnamenti da impartire, proporre il conferimento degli incarichi di insegnamento, approvare i piani di studio e approvare i programmi di ricerca della scuola medesima.  
-La facolta' nomina, con durata triennale, un direttore della scuola, al quale sono affidate l'organizzazione e la sorveglianza del regolare funzionamento degli insegnamenti e degli esami. Il direttore e' scelto tra i professori della facolta'. E' costituito altresi' un consiglio di direzione della scuola, formato oltre che, dal direttore, che lo presiede, da due professori della scuola, eletti dai professori medesimi. Possono essere inoltre chiamati a farne parte, calla facolta', altri componenti designati da enti od organizzazioni che stipulino convenzioni con l'Universita' in rapporto all'attivita' della scuola. Il consiglio dura in carica tre anni. Esso coadiuva il direttore nell'organizzazione della scuola.  
-Spetta al consiglio adottare il programma di ricerca della scuola da sottoporre all'approvazione della facolta' e proporre l'eventuale stipulazione di convenzioni con enti pubblici o privati per ricerche specifiche da svolgere nell'ambito della scuola.  
-Art. 100. - Il corso di studi ha durata biennale. Per adire al secondo anno gli iscritti alla scuola dovranno avere superato almeno tre esami di profitto previsti dall'ordine di studi.  
-L'insegnamento ha luogo in forma di lezioni, esercitazioni, seminari, ricerche di gruppo e in ogni altra forma ritenuta opportuna.  
-Art. 101. - Le materie di insegnamento sono le seguenti:  
+Scuola di specializzazione in oncologia  
+Art. 172. - La scuola di specializzazione in oncologia ha sede presso l'istituto di patologia generale e conferisce il diploma di specialista in oncologia.  
+Art. 173. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.  
+Art. 174. - La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazione. Il numero massimo degli allievi e' di venti per anno di corso e complessivamente di sessanta iscritti per l'intero corso di studi.  
+L'ammissione al corso avviene per titoli ed esami.  
+Art. 175. - Le materie di insegnamento sono le seguenti:  
 1° Anno:  
-ecologia generale ed applicata;  
-urbanistica e diritto urbanistico;  
-legislazione dell'ambiente e delle risorse naturali;  
-economia ambientale, nonche' due altri insegnamenti da scegliersi tra i seguenti opzionali;  
-economia urbana;  
-pianificazione territoriali;  
-politica economica;  
-legislazione comparata sulla tutela dell'ambiente;  
-tutela delle acque interne e marine;  
-sociologia urbana;  
-storia dell'ambiente urbano e rurale;  
-azioni a tutela dei beni collettivi;  
-diritto internazionale delle risorse naturali.  
+patologia generale dei tumori (I);  
+oncologia sperimentale (I);  
+anatomia ed istologia patologica dei tumori. (I);  
+epidemiologia dei tumori;  
+cancerogenesi ambientale e professionale e prevenzione primaria;  
+immunologia dei tumori.  
 2° Anno:  
-tutela del paesaggio e dell'ambiente naturale;  
-programmazione economico-sociale;  
-controllo degli inquinamenti;  
-diritto penale dell'ambiente e degli inquinamenti, nonche' altri due insegnamenti da scegliersi tra i seguenti opzionali;  
-scienza dell'amministrazione;  
-storia dell'amministrazione pubblica;  
-ordinamento regionale;  
-ordinamento degli enti locali;  
-ordinamento dei servizi sociali;  
-politica e trasporti;  
-sistemi di informazione e organizzazione sociale;  
-programmazione finanziaria nella regione e negli enti locali.  
-Art. 102. - Gli insegnamenti sono annuali o semestrali. Sono annuali gli insegnamenti fondamentali sono semestrali gli insegnamenti opzionali. Due insegnamenti semestrali sono in tutto equipollenti ad un insegnamento annuale.  
-Art. 103. - Le commissioni per gli esami sono nominate dal direttore della scuola e sono formate dal professore della materia e da altri due insegnanti della scuola o cultori della materia. La valutazione ai fini dell'esame puo' avvalersi di ogni forma ritenuta opportuna, e in particolare dei risultati dei seminari e delle ricerche di gruppo.  
-La commissione per l'esame di diploma e' nominata dal preside della facolta' ed e' formata da cinque membri scelti tra gli insegnanti della scuola, fra cui il direttore, che la presiede.  
-L'esame consistera' nella discussione di una dissertazione originale scritta.  
-Art. 104. - Gli iscritti alla scuola sono tenuti a pagare le medesime tasse, soprattasse e contributi stabiliti dalle vigenti disposizioni per gli studenti della facolta' di giurisprudenza.  
-Art. 105. - La scuola utilizza le attrezzature didattiche e scientifiche della facolta' di giurisprudenza, in particolare quelle degli istituti di diritto pubblico, di economia politica, di finanza e di diritto e procedura penale.  
-La scuola fara' fronte alle spese relative alla sua attivita' con i proventi delle tasse e contributi pagati dagli iscritti.  
-Ulteriori attivita' scientifiche e di ricerca saranno subordinate all'acquisizione di contributi da parte di enti convenzionati con l'Universita'.  
+patologia generale dei tumori (II);  
+oncologia sperimentale (II);  
+anatomia ed istologia patologica dei tumori (II);  
+citodiagnostica dei tumori;  
+prevenzione clinica e tecniche diagnostiche e di laboratorio;  
+radiodiagnostica dei tumori;  
+oncologia medica (I);  
+oncologia chirurgica (I).  
+3° Anno:  
+oncologia medica (II);  
+oncologia chirurgica (II);  
+radioterapia dei tumori;  
+oncologia dell'apparato genitale femminile;  
+oncologia pediatrica;  
+principi di riabilitazione oncologica;  
+organizzazione della lotta contro i tumori.  
+Ogni scuola dovra' provvedere ad organizzare seminari e conferenze su specifici argomenti con l'integrazione di quelli elencati nello statuto.  
+Art. 176. - La frequenza alle lezioni, alle esercitazioni pratiche, ai seminari ed altre manifestazioni culturali riguardanti la materia e' obbligatoria per l'ammissione agli esami; il superamento degli esami di ciascun anno e' condizione indispensabile per l'iscrizione all'anno successivo. Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.  
+Al termine del triennio per ottenere il diploma i candidati devono presentare una dissertazione scritta su un argomento attinente alla specializzazione.  
+
+Art. 3
+------
+
+  
+Gli articoli 259 e 260, relativi alla scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio, sono soppressi e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio  
+Art. 259. - La scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio ha sede presso l'istituto di clinica tisiologica e delle malattie dell'apparato respiratorio e conferisce il diploma di specialista in tisiologia e malattie dell'apparato respiratorio.  
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente. La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione. Il numero massimo degli allievi e' di venticinque per anno di corso e complessivamente di cento iscritti per l'intero corso di studi. L'ammissione al corso avviene per titoli ed esami.  
+Art. 260. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale) (I);  
+patologia della tubercolosi polmonare ed extra polmonare;  
+fisiologia e fisiopatologia generale dell'apparato respiratorio;  
+patologia delle malattie dell'apparato respiratorio;  
+semeiotica fisica e funzionale dell'apparato respiratorio;  
+microbiologia;  
+epidemiologia e statistica sanitaria della tubercolosi e delle malattie dell'apparato respiratorio.  
+2° Anno:  
+anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale) (II);  
+clinica della tubercolosi (triennale) (I);  
+clinica delle malattie dell'apparato respiratorio (triennale) (I);  
+fisiopatologia speciale della tubercolosi e delle malattie dell'apparato respiratorio;  
+broncologia;  
+radiologia dell'apparato respiratorio;  
+profilassi della tubercolosi;  
+igiene e legislazione sociale.  
+3° Anno:  
+clinica delle malattie dell'apparato respiratorio (triennale) (II);  
+clinica della tubercolosi (triennale) (II);  
+chemioterapia della tubercolosi e delle malattie dell'apparato respiratorio;  
+terapia fisiomeccanica nella tubercolosi e nelle malattie dell'apparato respiratorio;  
+terapia chirurgica nella tubercolosi e nelle malattie dell'apparato respiratorio.  
+4° Anno:  
+clinica delle malattie dell'apparato respiratorio (triennale) (III);  
+clinica della tubercolosi (triennale) (III).  
+Gli insegnamenti complementari che possono essere inseriti negli statuti sono i seguenti: immunologia clinica, cardiologia, medicina nucleare, malattie professionali dell'apparato respiratorio, terapia intensiva pneumologica.  
+I corsi di insegnamento sono integrati da conferenze, da esercitazioni pratiche, da seminari interdisciplinari (questi ultimi prevalentemente destinati al quarto anno) per i quali gli allievi hanno l'obbligo di frequenza al pari delle lezioni.  
+Alla fine di ogni anno di corso gli allievi devono superare una prova di esame sulle materie del rispettivo anno.  
+Alla fine del quarto anno gli allievi devono sostenere l'esame di diploma consistente nella dissertazione scritta su un argomento attinente alla specializzazione assegnato dal direttore della scuola o da uno degli insegnanti della scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 ottobre 1978
+### Dato a Roma, addi' 5 settembre 1980
 
-PERTINI PEDINI
+PERTINI SARTI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 30 gennaio 1979
+Registrato alla Corte dei conti, addi' 24 novembre 1980
 
-Registro n. 4 Istruzione, foglio n. 4
+Registro n. 109 Istruzione, foglio n. 82

@@ -1,141 +1,24 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1977 n. 482
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 924
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1977 n. 482
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 924
+==============================================================
 
 Modificazioni allo statuto della libera Universita' "G. D'Annunzio" di Chieti.
 ------------------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto della libera Universita' "G. D'Annunzio" di Chieti approvato con [decreto del Presidente della Repubblica 8 maggio 1965, n. 1007](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-05-08;1007) e modificato con [decreto del Presidente della Repubblica 20 settembre 1966, n. 1291](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-09-20;1291), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' libera "G. D'Annunzio" di Chieti e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto della libera Universita' "G. D'Annunzio" di Chieti, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Dopo l'art. 107, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in cardiologia.
-
-Scuola di specializzazione in cardiologia
-
-Art. 108. - La scuola di specializzazione in cardiologia a sede presso la cattedra di cardiologia della facolta' medica di Chieti e conferisce il diploma di specializzazione in cardiologia.
-
-Art. 109. - La direzione della scuola e' affidata al professore fuori ruolo di cardiologia.
-
-Art. 110. - Possono iscriversi alla scuola i laureati in medicina e chirurgia in possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
-
-Art. 111. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.
-
-Art. 112. - Il numero degli allievi e' di 7 posti per ciascun anno di corso e complessivamente di 28 iscritti per l'intero corso di studi.
-
-Art. 113. - L'ammissione alla scuola avviene per titoli ed esami.
-
-Art. 114. - Le materie di insegnamento sono:
-
-1° Anno:
-
-1) anatomia umana normale ed embriologia dell'apparato cardiovascolare;
-
-2) fisiologia dell'apparato cardiovascolare (I);
-
-3) biochimica e biofisica;
-
-4) semeiotica fisica e strumentale dell'apparato cardiovascolare (I);
-
-5) informatica medica e strumentazione biomedica (I).
-
-2° Anno:
-
-1) anatomia patologica (I);
-
-2) fisiologia dell'apparato cardiovascolare (II);
-
-3) patologia e clinica cardiovascolare (I);
-
-4) semeiotica fisica e strumentale dell'apparato cardiovascolare (II);
-
-5) informatica medica e strumentazione biomedica (II);
-
-6) radiologia (I);
-
-7) aspetti sociali ed epidemiologici delle malattie cardiovascolari.
-
-3° Anno:
-
-1) anatomia patologica (II);
-
-2) semeiotica fisica e strumentale dell'apparato cardiovascolare (III);
-
-3) patologia e clinica cardiovascolare (II);
-
-4) radiologia (II);
-
-5) terapia medica e farmacologia clinica (I).
-
-4° Anno:
-
-1) semeiotica fisica e strumentale dell'apparato cardiovascolare (IV);
-
-2) patologia e clinica cardiovascolare (III);
-
-3) terapia medica e farmacologia clinica (II);
-
-4) terapia chirurgica;
-
-5) terapie intensive cardiologiche.
-
-Art. 115. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
-
-Art. 116. - Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno.
-
-Al termine del corso di studi per il conseguimento del diploma di specialista in cardiologia l'interessato dovra' superare l'esame di diploma consistente nella dissertazione scritta di un argomento di carattere cardiologico.
-
-Art. 117. - Gli importi delle tasse, soprattasse e contributi sono cosi' stabiliti:
-
-Tassa di immatricolazione ................................ L. 5.000 Tassa annuale di iscrizione .............................. L. 18.000 Soprattassa annuale per esami di profitto ................ L. 7.000 Contributi generali ...................................... L. 1.950 Contributi di riscaldamento .............................. L. 7.000 Contributi di laboratorio per esercitazioni .............. L. 140.000 Libretto di riconoscimento ............................... L. 1.300 Indennita di schedatura .................................. L. 500
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 1 giugno 1977
-
-LEONE
-
-MALFATTI
-
-Visto, il Guardasigilli: BONIFACIO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 26 luglio 1977 Registro n. 86 Istruzione, foglio n. 157
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto della libera Universita' "G. D'Annunzio" di Chieti approvato con [decreto del Presidente della Repubblica 8 maggio 1965, n. 1007](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-05-08;1007) e modificato con [decreto del Presidente della Repubblica 20 settembre 1966, n. 1291](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-09-20;1291), e successive modificazioni;  
+Veduto lo statuto della libera Universita' degli studi "G.  
+D'Annunzio" di Chieti approvato con [decreto del Presidente della Repubblica 8 maggio 1965, n. 1007](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-05-08;1007) e modificato con [decreto del Presidente della Repubblica 20 settembre 1966, n. 1291](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-09-20;1291), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' libera "G. D'Annunzio" di Chieti e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
@@ -143,56 +26,68 @@ Decreta:
   
 Lo statuto della libera Universita' "G. D'Annunzio" di Chieti, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Dopo l'art. 107, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in cardiologia.  
-Scuola di specializzazione in cardiologia  
-Art. 108. - La scuola di specializzazione in cardiologia a sede presso la cattedra di cardiologia della facolta' medica di Chieti e conferisce il diploma di specializzazione in cardiologia.  
-Art. 109. - La direzione della scuola e' affidata al professore fuori ruolo di cardiologia.  
-Art. 110. - Possono iscriversi alla scuola i laureati in medicina e chirurgia in possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-Art. 111. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.  
-Art. 112. - Il numero degli allievi e' di 7 posti per ciascun anno di corso e complessivamente di 28 iscritti per l'intero corso di studi.  
-Art. 113. - L'ammissione alla scuola avviene per titoli ed esami.  
-Art. 114. - Le materie di insegnamento sono:  
+Dopo l'art. 48 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in pronto soccorso e terapia d'urgenza.  
+  
+Scuola di specializzazione in pronto soccorso e terapia d'urgenza  
+  
+Art. 49. - La scuola di specializzazione in pronto soccorso e terapia d'urgenza ha lo scopo di offrire la possibilita' ai laureati in medicina e chirurgia della migliore conoscenza di tutti i problemi tecnici e scientifici inerenti al pronto soccorso e alla terapia d'urgenza;  
+in modo che, attraverso seri e concreti insegnamenti, si giunga a una piena qualificazione e responsabilizzazione di coloro che saranno impiegati nei reparti di pronto soccorso.  
+La scuola conferisce un diploma di specializzazione in pronto soccorso e terapia d'urgenza.  
+Art. 50. - Alla scuola di specializzazione in pronto soccorso e terapia d'urgenza vengono ammessi i laureati in medicina e chirurgia.  
+Il numero totale degli iscritti e' di sessanta (20 per anno di corso).  
+Art. 51. La scuola ha la durata di un triennio.  
+Art. 52.- Gli insegnamenti impartiti dalla scuola sono i seguenti ripartiti nei suoi tre anni di corso:  
 1° Anno:  
-1) anatomia umana normale ed embriologia dell'apparato cardiovascolare;  
-2) fisiologia dell'apparato cardiovascolare (I);  
-3) biochimica e biofisica;  
-4) semeiotica fisica e strumentale dell'apparato cardiovascolare (I);  
-5) informatica medica e strumentazione biomedica (I).  
+1) Patologia medica e terapia (I corso);  
+2) Semeiotica speciale di pronto soccorso (radiologia, elettrocardiografia, ecografia, laboratorio d'urgenza) I corso;  
+3) Rianimazione (I corso);  
+4) Traumatologia (I corso);  
+5) Tossicologia;  
+6) Chirurgia plastica corrente;  
+7) Otorinolaringoiatria;  
+8) Tecnica trasfusionale ed emoimmunologia;  
+9) Anatomia chirurgica e operativa.  
 2° Anno:  
-1) anatomia patologica (I);  
-2) fisiologia dell'apparato cardiovascolare (II);  
-3) patologia e clinica cardiovascolare (I);  
-4) semeiotica fisica e strumentale dell'apparato cardiovascolare (II);  
-5) informatica medica e strumentazione biomedica (II);  
-6) radiologia (I);  
-7) aspetti sociali ed epidemiologici delle malattie cardiovascolari.  
+1) Patologia medica e terapia (II corso);  
+2) Semeiotica speciale di pronto soccorso (II corso);  
+3) Rianimazione (II corso);  
+4) Traumatologia (II corso);  
+5) Clinica chirurgica e tecnica operatoria (I corso);  
+6) Malattie infettive;  
+7) Neurologia e psichiatria;  
+8) Pediatria.  
 3° Anno:  
-1) anatomia patologica (II);  
-2) semeiotica fisica e strumentale dell'apparato cardiovascolare (III);  
-3) patologia e clinica cardiovascolare (II);  
-4) radiologia (II);  
-5) terapia medica e farmacologia clinica (I).  
-4° Anno:  
-1) semeiotica fisica e strumentale dell'apparato cardiovascolare (IV);  
-2) patologia e clinica cardiovascolare (III);  
-3) terapia medica e farmacologia clinica (II);  
-4) terapia chirurgica;  
-5) terapie intensive cardiologiche.  
-Art. 115. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
-Art. 116. - Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno.  
-Al termine del corso di studi per il conseguimento del diploma di specialista in cardiologia l'interessato dovra' superare l'esame di diploma consistente nella dissertazione scritta di un argomento di carattere cardiologico.  
-Art. 117. - Gli importi delle tasse, soprattasse e contributi sono cosi' stabiliti:  
-Tassa di immatricolazione ................................ L. 5.000 Tassa annuale di iscrizione .............................. L. 18.000 Soprattassa annuale per esami di profitto ................ L. 7.000 Contributi generali ...................................... L. 1.950 Contributi di riscaldamento .............................. L. 7.000 Contributi di laboratorio per esercitazioni .............. L. 140.000 Libretto di riconoscimento ............................... L. 1.300 Indennita di schedatura .................................. L. 500   
+1) Clinica chirurgia e tecnica operatoria (II corso);  
+2) Cardiologia;  
+3) Ostetricia e ginecologia;  
+4) Anestesia;  
+5) Chirurgia della mano;  
+6) Medicina legale;  
+7) Oculistica;  
+8) Psicologia.  
+Gli insegnamenti suddetti sono conferiti di anno in anno per incarico del rettore su proposta del consiglio della scuola, previa approvazione da parte del comitato tecnico della facolta' di medicina e chirurgia (o del consiglio della facolta).  
+Data la varieta' delle specialita' che concorrono a formare il medico di pronto soccorso e terapia d'urgenza, l'insegnamento propedeutico della anatomia, patologia e fisiologia, relativo ad ogni specialita', sara' oggetto di trattazione da parte dei docenti dei singoli insegnamenti sopra elencati.  
+Art. 53 - Per ogni anno di corso e' obbligatoria la frequenza alle lezioni secondo le modalita' stabilite dal consiglio della scuola.  
+Art. 54. - Il consiglio della scuola ha facolta' di proporre abbreviazioni di corso per quegli iscritti che presentino titoli di riconosciuto valore nel campo del pronto soccorso e della terapia d'urgenza.  
+Coloro che usufruiscono della suddetta agevolazione devono comunque sostenere tutti gli esami di profitto e quello di diploma.  
+Art. 55. - Gli esami di profitto si svolgono per gruppi di materie alla fine di ogni anno.  
+L'esame di diploma consta di una discussione sopra una dissertazione originale scritta stabilita dalla commissione esaminatrice che potra' richiedere eventualmente lo svolgimento di prove pratiche.  
+Art. 56. - Gli organi della scuola sono:  
+1) il direttore;  
+2) il consiglio.  
+Il direttore della scuola viene nominato di anno in anno dal rettore su designazione del comitato tecnico della facolta' di medicina e chirurgia (o dal consiglio della facolta) e puo' essere confermato.  
+Il consiglio della scuola e' composto dal direttore che lo presiede e dai docenti incaricati degli insegnamenti previsti all'art. 52.  
+  
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 1 giugno 1977
+### Dato a Roma, addi' 31 ottobre 1972
 
-LEONE MALFATTI
+LEONE
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONNELLA
 
-Registrato alla Corte dei conti, addi' 26 luglio 1977
+Registrato alla Corte dei conti, addi' 15 gennaio 1973
 
-Registro n. 86 Istruzione, foglio n. 157
+Atti di Governo, registro n. 255, foglio n. 30. - VALENTINI

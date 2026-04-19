@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 febbraio 1974 n. 585
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1977 n. 918
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 febbraio 1974 n. 585
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1977 n. 918
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -12,12 +12,13 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
+Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
@@ -25,73 +26,58 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Presso la facolta' di medicina veterinaria sono aggiunti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in biochimica marina, con il conseguente spostamento della numerazione degli articoli successivi.  
+L'art. 288, relativo ai titoli di ammissione alla scuola di perfezionamento in storia dell'arte medioevale e moderna, e' modificato nel senso che possono iscriversi anche i laureati in discipline delle arti, della musica e dello spettacolo.  
+Gli articoli 346, 347, 349 e 350, relativi al corso di specializzazione in radioprotezione e tecniche radioisotopiche che muta la denominazione in quella di fisica sanitaria, sono abrogati e sostituiti dai seguenti:  
   
-Scuola di specializzazione in biochimica marina  
+Corso di specializzazione in fisica sanitaria  
   
-Art. 422. - Presso la facolta' di medicina veterinaria e' istituita una scuola biennale di specializzazione in biochimica marina.  
-Art. 423. - Scopo della scuola e' quello di fornire agli iscritti le cognizioni scientifiche e tecniche necessarie per svolgere l'attivita' di biochimico nel campo dell'ecologia marina, della produttivita', del controllo igienico-sanitario, di qualita' e delle utilizzazioni industriali delle risorse biologiche marine.  
-La scuola conferira' a tal fine il diploma di specialista in biochimica marina ai sensi dell'art. 196 del presente statuto.  
-Art. 424. - Direttore della scuola e' il titolare della cattedra di biochimica della facolta' di medicina veterinaria dell'Universita' di Bologna, o in mancanza, un professore di ruolo nominato dalla facolta' di medicina veterinaria per un anno e sempre riconfermabile.  
-A norma dell'art. 186 egli presiede il consiglio della scuola, vigila sul buon funzionamento di essa ed e' tenuto a dare comunicazione al preside della facolta' di medicina veterinaria di tutti gli atti e di tutte le deliberazioni del consiglio da lui presieduto.  
-Art. 425. - Alla scuola possono iscriversi i laureati in medicina veterinaria, chimica, chimica industriale, scienze biologiche, scienze naturali, farmacia, scienze agrarie, scienza delle produzioni animali, chimica e tecnologie farmaceutiche, scienze geologiche, medicina e chirurgia.  
-Il numero massimo degli iscritti viene stabilito dal consiglio della scuola ed approvato dal consiglio di facolta'.  
-Art. 426. - Per il conseguimento del titolo di specialista e' obbligatoria la frequenza alle lezioni, alle esercitazioni, alle conferenze, ai colloqui tenuti espressamente per il corso in oggetto.  
-E' altresi' obbligatorio l'internato della durata di sei mesi.  
-L'internato potra' essere svolto presso l'istituto di biochimica o il laboratorio di biochimica marina del centro studi di Cesenatico o in altro istituto o laboratorio previa approvazione del consiglio.  
-Art. 427. - Gli insegnamenti avranno carattere cattedratico e potranno essere svolti in quella diversa forma ed in quella sede che le esigenze di ciascuna disciplina consigliano.  
-Art. 428. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
-  
-1° Anno:  
-Oceanografia fisica e chimica;  
-Biochimica dei vegetali acquatici;  
-Biochimica degli animali acquatici;  
-Biochimica analitica;  
-Istochimica;  
-Biochimica ecologica;  
-  
-2° Anno:  
-Chimica fisiologica degli animali acquatici;  
-Biochimica dei prodotti della pesca;  
-Biochimica microbiologica;  
-Patologia biochimica degli animali acquatici;  
-Biochimica farmacologica e tossicologica;  
-Biochimica applicata alle zone di pesca.  
-  
-Art. 429. - I docenti dei singoli insegnamenti sono nominati per incarico, anno per anno, dal consiglio di facolta' su proposta del direttore della scuola.  
-Art. 430. - Alla fine del 1° anno si sostengono i seguenti esami di profitto:  
-  
-Oceanografia fisica e chimica;  
-Biochimica dei vegetali acquatici;  
-Biochimica degli animali acquatici;  
-Biochimica analitica;  
-Istochimica;  
-Biochimica ecologica.  
-  
-Alla fine del 2° anno si sostengono i seguenti esami di profitto:  
-  
-Chimica fisiologica degli animali acquatici;  
-Biochimica dei prodotti della pesca;  
-Biochimica microbiologica;  
-Patologia biochimica degli animali acquatici;  
-Biochimica farmacologica e tossicologica;  
-Biochimica applicata alle zone di pesca.  
-  
-Art. 431. - L'esame di diploma consiste nella discussione di una dissertazione scritta svolta dal candidato si argomento da lui scelto con approvazione del direttore della scuola, di fronte alla commissione di diploma costituita a norma dell'art. 191, primo comma, dello statuto dell'Universita' di Bologna.  
-Art. 432. - Le tasse e sopratasse da pagarsi dagli iscritti alla scuola sono le stesse stabilite dalla legge per gli iscritti alla facolta' di medicina veterinaria.  
-Il contributo annuo che gli iscritti debbono corrispondere per le esercitazioni pratiche e per le prestazioni di qualunque natura di cui usufruiscono durante l'anno di studio, e' stabilito anno per anno dal consiglio di amministrazione dell'Universita', uditi il consiglio di facolta' e il senato accademico.  
-Art. 433. - Al finanziamento della scuola viene provveduto oltre che con introiti di cui all'articolo precedente, con eventuali contributi dei Ministeri interessati e del consorzio per il centro universitario di studi e ricerche sulle risorse biologiche marine di Cesenatico che intendono cooperare all'attuazione dei fini che la scuola si propone di conseguire.  
+Art. 346. - Il corso di specializzazione in fisica sanitaria e' organizzato dall'Istituto di fisica dell'Universita' di Bologna ed e' distinto in due indirizzi:  
+1) protezione contro le radiazioni;  
+2) metodiche della fisica applicate al campo medico.  
+Art. 347. - Saranno ammessi i laureati in medicina e chirurgia, medicina veterinaria, delle facolta' di scienze matematiche, fisiche e naturali, chimica industriale, farmacia, ingegneria ed agraria. Una commissione composta da quattro docenti del corso e presieduta dal direttore del corso decidera' per l'ammissione sulla base dei titoli presentati dai candidati.  
+Art. 349. - La durata del corso e' annuale. Gli insegnamenti sono riportati nell'elenco 1 e 2, rispettivamente per il primo e secondo indirizzo. Gli insegnamenti effettivamente impartiti e il numero dei posti disponibili vengono resi noti anno per anno con pubblico bando: su proposta del c.c.d.l. in fisica e con l'approvazione del c.d.f. di scienze.  
+Tutti i corsi sono accompagnati da esercitazioni.  
+Vengono inoltre tenuti corsi monografici, conferenze e seminari.  
+Lo studente deve seguire non meno di otto corsi di cui almeno quattro sono obbligatori gli altri sono scelti dall'allievo, la scelta deve essere motivata sulla base degli interessi culturali e degli studi precedentemente effettuati, e approvata dal collegio dei docenti.  
+Elenco 1 (protezione contro le radiazioni):  
+1) elementi di matematica o statistica;  
+2) fisica nucleare e tecniche di misura delle radiazioni;  
+3) effetti chimici delle radiazioni e chimica dei radioisotopi;  
+4) effetti biologici delle radiazioni ionizzanti e non ionizzanti;  
+5) dosimetria delle radiazioni;  
+6) principi della radioprotezione;  
+7) radioprotezione operativa in campo nucleare;  
+8) radioprotezione operativa in campo ospedaliero;  
+9) legislazione di radioprotezione;  
+10) protezione dalle radiazioni non ionizzanti.  
+Elenco 2 (metodiche della fisica applicata al campo medico):  
+1) elementi di matematica e statistica;  
+2) fisica nucleare e tecniche di misura delle radiazioni;  
+3) effetti chimici delle radiazioni e chimica dei radioisotopi;  
+4) effetti biologici delle radiazioni ionizzanti e non ionizzanti;  
+5) dosimetria delle radiazioni;  
+6) principi della radioprotezione;  
+7) radioprotezione operativa in campo ospedaliero;  
+8) aspetti fisici della radiodiagnostica e radioterapia;  
+9) aspetti fisici della medicina nucleare;  
+10) elettronica applicata al campo biomedico;  
+11) metodiche fisiche impiegate in medicina;  
+12) impiego dei calcolatori in campo biomedico;  
+13) cinetica dei tracciati radioattivi nell'organismo.  
+Art. 350. - Alla fine del corso a coloro che avranno frequentato le lezioni e le esercitazioni pratiche verra' rilasciato un certificato di frequenza.  
+A coloro che avranno superato tutti gli otto esami relativi ai corsi segnati verra' rilasciato un certificato di frequenza e profitto.  
+Il voto finale e' espresso sulla base della media dei voti riportati nei singoli esami.  
   
 
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 febbraio 1974
+### Dato a Roma, addi' 7 ottobre 1977
 
 LEONE MALFATTI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 21 novembre 1974
+Registrato alla Corte dei conti, addi' 14 dicembre 1977
 
-Atti di Governo, registro n. 7, foglio n. 2. - SCIARRETTA
+Registro n. 140, Istruzione, foglio n. 306

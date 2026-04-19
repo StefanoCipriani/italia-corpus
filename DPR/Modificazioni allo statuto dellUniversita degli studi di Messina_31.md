@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1221
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1971 n. 1124
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1221
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1971 n. 1124
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
@@ -12,48 +12,31 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923) e modificato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090) e modificato con [regio decreto 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-All'art. 10, relativo alle modalita' della tesi di laurea, l'ultimo comma e' abrogato e sostituito dal seguente:  
-"Per la facolta' di scienze l'esame di laurea consiste come al punto 1)".  
-Art. 29 - nell'elenco degli insegnamenti complementari del corso di laurea in scienze politiche l'insegnamento di storia ed istituzioni dei Paesi afro-asiatici e' soppresso e sono inclusi i seguenti:  
-storia dell'Africa e dell'Asia mediterranea;  
-storia dell'Asia orientale.  
-All'art. 77, relativo al corso di laurea in matematica, il diciannovesimo comma e' abrogato.  
-All'art. 81, relativo al corso di laurea in scienze naturali, il nono comma e' abrogato.  
-All'art. 83, relativo al corso di laurea in scienze biologiche, il terzo comma e' abrogato.  
-All'art. 84, relativo al biennio di studi propedeutici per la laurea in ingegneria, al secondo anno l'insegnamento di disegno II e' differenziato come segue:  
-5) a) disegno II - indirizzo civile;  
-b) disegno II - indirizzo meccanico.  
-Dopo gli insegnamenti del secondo anno e' aggiunto il seguente comma:  
-"Lo studente sceglie uno dei due esami di disegno II".  
-L'art. 92, relativo alla propedeuticita' degli esami del corso di laurea in farmacia, e' modificato nel senso che l'ultimo comma e' abrogato e sostituito dal seguente:  
-"I tre corsi annuali di esercitazioni di chimica farmaceutica e tossicologica sono propedeutici il primo rispetto al secondo ed il secondo rispetto al terzo.  
-Lo studente non puo' iscriversi al laboratorio del primo corso di esercitazioni di chimica farmaceutica e tossicologica se non ha superato l'esame di chimica generale ed inorganica e pertanto non puo' ottenere la firma di frequenza del suddetto corso.  
-Lo studente non puo' iscriversi al laboratorio del terzo corso di esercitazioni di chimica farmaceutica e tossicologica se non ha superato l'esame di chimica organica e pertanto non puo' ottenere la firma di frequenza del suddetto corso".  
+Art. 64, relativo agli istituti della facolta' di farmacia e' modificato nel senso che viene soppresso il seguente ultimo comma: "il professore di chimica farmaceutica e tossicologia" fa parte del consiglio della facolta' di scienze fisiche matematiche e naturali.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1977
+### Dato a Roma, addi' 18 ottobre 1971
 
-LEONE MALFATTI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 27 giugno 1978
+Registrato alla Corte dei conti, addi' 22 dicembre 1971
 
-Registro n. 67 Istruzione, foglio n. 351
+Atti del Governo, registro n. 245, foglio n. 133. - VALENTINI

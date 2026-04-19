@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1950 n. 1102
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1949 n. 202
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1950 n. 1102
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1949 n. 202
+============================================================
 
 Autorizzazione al Politecnico di Milano ad accettare una donazione.
 -------------------------------------------------------------------
@@ -12,8 +12,7 @@ Art. 1
 
 N.
 
-1102. Decreto del Presidente della Repubblica 25 ottobre 1950, col quale, sulla proposta del Ministro per la pubblica istruzione, il Politecnico di Milano viene autorizzato ad accettare la donazione della, somma di L. 405.000 nominali, in buoni del Tesoro novennali 4%, disposta in suo favore dalla Societa' anonima elettrificazione S. p. A. di Milano e da alcuni suoi dipendenti, nonche' da amici ed estimatori del defunto prof. ing. Gaetano Gabardini, con atto pubblico amministrativo in data 13 ottobre 1949, per l'istituzione di una borsa di studio da intitolarsi al nome del predetto prof.  
-ing. Gaetano Gabardini e da conferirsi, ogni due anni, ad uno studente della Facolta' di ingegneria e iscritto al 4° o 5° anno del corso per la laurea in ingegneria industriale chimica.  
+202. Decreto del Presidente della Repubblica 28 marzo 1949, col quale, sulla proposta del Ministro per la pubblica, istruzione, il Politecnico di Milano viene autorizzato ad accettare la donazione della somma di L. 450.000 nominali, in buoni del Tesoro 5% a premio, disposta in suo favore con atto pubblico in data 1 giugno 1948 dall'avv. Corrado Franzi, in proprio, e dal dott. "Guido Celli, quale rappresentante del Comitato costituitosi presso la Banca commerciale di Milano per le onoranze al compianto studente Luigi Franzi, del quarto corso della Facolta' di ingegneria del Politecnico medesimo, allo scopo di istituire, con la somma donata, aumentata della relativa rendita di un quinquennio per cinque anni, una borsa di studio di L. 100.000 intitolata al nome di "Luigi Franzi".  
   
-Visto, il Guardasigilli: PICCIONI  
-Registrato alla Corte dei conti, addi' 13 gennaio 1951
+Visto, il Guardasigilli: GRASSI  
+Registrato alla Corte dei conti, addi' 2 maggio 1949

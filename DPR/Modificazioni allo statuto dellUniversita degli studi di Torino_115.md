@@ -1,259 +1,99 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1973 n. 1117
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 924
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1973 n. 1117
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 924
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Torino e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla
+-----
+
+proposta del Ministro della pubblica istruzione; Decreta:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Dopo l'art. 403 dello statuto dell'Universita' di Torino sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola diretta a fini speciali per ortottisti-assistenti di oftalmologia.  
   
-Decreta:   
+TITOLO IV. - SCUOLE DIRETTE A FINI SPECIALI  
   
-Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Sezione I. - FACOLTA' DI MEDICINA E CHIRURGIA  
+Scuola speciale per ortottisti-assistenti di oftalmologia  
   
-Art. 7 - il primo comma e' modificato nel senso che dopo le parole "e per la facolta' di giurisprudenza" devono essere aggiunte le seguenti: "e di scienze politiche".   
-Il secondo comma e' abrogato e sostituito dal seguente:   
-"Per le facolta' di giurisprudenza e di scienze politiche, la comunicazione del tema della dissertazione dovra' avvenire, con le modalita' di cui al comma precedente, rispettivamente non meno di otto mesi e non meno di sei mesi prima della sessione in cui lo studente sosterra' l'esame di laurea. Le eventuali specificazioni nell'ambito del tema dovranno essere autorizzate dal professore sotto la cui guida il lavoro verra' condotto".   
-Dopo l'art. 55, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola, diretta a fini speciali, per tecnici audiometristi e logopedisti, della durata di anni tre.   
+Art. 404. - E' istituita presso la facolta' di medicina e chirurgia dell'Universita' di Torino una scuola speciale di preparazione per ortottisti-assistenti di oftalmologia che ha sede presso la clinica oculistica di questa Universita'.  
+Art. 405. - La scuola ha lo scopo di dare una preparazione completa, teorico-pratica, istruendo gli allievi sui problemi della motilita' oculare, della ambliopia, delle tecniche diagnostiche della visione binoculare, del trattamento pre e post operatorio dei pazienti strabici, dei problemi sui vizi di refrazione e della loro correzione e sulle tecniche diagnostiche in oftalmologia.  
+La durata del corso di studi per conseguire il diploma di ortottista-assistente di oftalmologia e' di tre anni.  
+Ne sono titoli di ammissione il possesso di un diploma legalmente valido ai fini della iscrizione alla Universita' ai sensi dell'[art. 1 della legge n. 910 dell'11 dicembre 1969](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1) e la conoscenza di una lingua straniera (inglese, francese, tedesco, spagnolo).  
+Art. 406. - Gli aspiranti all'iscrizione al primo anno di corso sono tenuti a sostenere un esame di ammissione consistente in una prova di cultura generale ed in una prova per la conoscenza della lingua straniera.  
+E' richiesto un certificato di sana e robusta costituzione, con particolare riguardo alla funzione visiva.  
+Art. 407. - Il numero complessivo degli iscritti alla scuola e' di nove (tre per anno di corso). Qualora le domande di iscrizione fossero in numero superiore al numero massimo previsto, il consiglio della scuola si riserva di provvedere ad una scelta tra gli idonei in base ai risultati delle prove di ammissione; gli idonei possono essere ammessi anche in soprannumero in rapporto a posti che si rendessero vacanti nel corso del secondo e terzo anno. I ripetenti ed i fuori corso, qualora riprendano gli studi, sono riammessi in soprannumero.  
+Art. 408. - Il direttore della scuola e' il titolare della cattedra di clinica oculistica o altro docente di disciplina affine, proposto dal titolare della cattedra di clinica oculistica sentito il consiglio della scuola.  
+Art. 409. - L'anno accademico ha inizio e termine nelle date stabilite dalle leggi in vigore per l'istruzione universitaria. La frequenza e' obbligatoria.  
+Art. 410. - Il corso comprende lezioni teoriche ed esercitazioni pratiche.  
+Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1) elementi di anatomia dell'apparato visivo e del S.N.C.;  
+2) fisiologia dell'occhio, della motilita' oculare, della visione binoculare;  
+3) ottica fisica e fisiopatologica;  
+4) ortottica I;  
+5) psicologia infantile.  
+2° Anno:  
+1) elementi di patologia oculare;  
+2) elementi di farmacologia oculare;  
+3) elementi di neurooftalmologia;  
+4) nozioni di chirurgia ed assistenza oftalmica;  
+5) ortottica II.  
+3° Anno:  
+1) tecniche semeiologiche dell'apparato visivo I  
+(es. refrazione, contattologia, adattometria, campo visivo, senso cromatico);  
+2) tecniche semeiologiche ed elettrofisiologiche (tonometria e tonografia); ERG, EOG, EMG; ecografia; retinografia e fluoroangiografia);  
+3) ortottica III;  
+4) nozioni di riabilitazione senso motorio nell'eta' infantile;  
+5) legislazione sanitaria.  
+Art. 411. - L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni e dall'obbligo, per gli allievi, dell'internato per l'intero periodo di corso di studi nella clinica oculistica. La frequenza viene comprovata dalla attestazione rilasciata sul libretto di iscrizione dagli insegnanti e per l'attivita' pratica dal direttore della scuola. L'attestazione di frequenza e' indispensabile ai fini dell'ammissione degli esami.  
+Art. 412. - Alla fine di ogni anno gli allievi devono sostenere un esame sulle materie di insegnamento. Nel caso in cui i candidati non abbiano superato gli esami prescritti, essi rimarranno nella posizione di "ripetenti".  
+Art. 413. - Gli esami di profitto consistono in prove teoriche e pratiche.  
+Art. 414. - Alla fine del corso gli allievi debbono sostenere un esame di diploma che consiste nella discussione di una tesi scritta su un argomento riguardante le materie di insegnamento, assegnata dal direttore della scuola e in una prova pratica stabilita da una commissione esaminatrice. I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola ma se al secondo anno non sia loro riconosciuta la idoneita' saranno senz'altro esclusi da ulteriori prove.  
+Art. 415. - Gli esami di profitto e di diploma si danno in due sessioni, la prima estiva che ha inizio dopo la chiusura annuale dei corsi e la seconda autunnale, nel mese che precede l'inizio del nuovo anno accademico.  
+Art. 416. - Le commissioni per gli esami di ammissione, di profitto e di diploma sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della clinica. Le commissioni per gli esami di ammissione e di profitto sono composte da tre membri: direttore della scuola, presidente, e da due insegnanti della scuola stessa. La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente, e da quattro membri scelti fra gli insegnanti della scuola stessa o altri docenti.  
+Art. 417. - Le tasse e soprattasse annuali a carico degli iscritti restano cosi' destinate:  
   
-Scuola diretta a fini speciali per tecnici audiometristi e logopedisti   
-  
-Art. 56. - E' istituita ai sensi dell'art. 20 del testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), una scuola di preparazione per tecnici di audiometria e fono-logopedia, che ha sede presso l'istituto di audiologia della Universita' di Torino.   
-  
-Art. 57. - La durata del corso degli studi della scuola di preparazione per tecnici di audiometria e fono-logopedia e' di tre anni. L'indirizzo e' teorico-pratico.   
-  
-Art. 58. - Per l'ammissione alla scuola si richiede il diploma di abilitazione magistrale o di maestra giardiniera o il possesso del titolo di studio prescritto per la ammissione all'universita' o istituto di istruzione universitaria. Il numero massimo di iscritti e' fissato in 15 per ogni anno di corso.   
-Gli aspiranti debbono, nei termini regolamentari, presentare apposita domanda su carta legale diretta al rettore e corredata dai prescritti documenti e sostenere un esame di ammissione. Le domande di iscrizione ad anni successivi al primo dovranno essere presentate nei termini regolamentari.   
-  
-Art. 59. - Alla scuola si accede previo esame di cultura generale su argomenti facenti parte dei normali programmi dei licei o degli istituti di istruzione secondaria e previo esame di corretta dizione di un testo di lingua italiana. La commissione giudicatrice viene nominata dal preside della facolta' di medicina e chirurgia ed e' composta dal direttore della scuola, presidente, da un professore ordinario, straordinario, aggregato od incaricato, di clinica delle malattie nervose e mentali, o di pediatria, o di psichiatria, o di clinica otorinolaringoiatrica e da un libero docente nelle predette materie o in psicologia. Solo in casi particolari, con motivata relazione, la predetta commissione potra' concedere ai candidati in possesso di particolari requisiti culturali e tecnici, l'iscrizione diretta ad un anno di corso successivo al primo, fermo restando l'obbligo per questi allievi di sostenere tutti gli esami previsti dal piano di studio per i tre anni della scuola.   
-  
-Art. 60. - La scuola e' posta sotto la vigilanza della facolta' di medicina e chirurgia dell'Universita' di Torino. Il direttore della scuola e' il professore ufficiale di audiologia nell'Universita' di Torino. Il direttore della scuola sara' coadiuvato da un vice-direttore, nominato dal consiglio di facolta', su proposta del direttore stesso. Gli insegnanti sono proposti dal direttore della scuola al consiglio di facolta' e sono scelti tra i titolari di altre cattedre della facolta' di medicina e chirurgia dell'Universita' di Torino, tra i liberi docenti in audiologia o in altre materie o tra persone, anche al di fuori dell'ambito universitario, aventi pero' particolare competenza nella materia del corso.   
-  
-Art. 61. - L'anno accademico ha inizio e termine nelle date stabilite dalle leggi in vigore per l'istruzione universitaria. Le date di inizio e termine delle lezioni sono di regola quelle fissate per l'anno accademico.   
-Tali date, tuttavia, possono essere spostate per ragioni speciali inerenti la natura dei corsi.   
-  
-Art. 62. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-Elementi di fisica acustica;   
-Elementi di anatomia degli organi e del sistema audio-fonatorio;   
-Elementi di fisiologia degli organi e del sistema audio-fonatorio;   
-Tecniche audiometriche;   
-Elementi di linguistica, fonetica sperimentale ed ortoepia.   
-  
-2° Anno:   
-Patologia dell'udito, della voce, del linguaggio e del canto;   
-Audiologia infantile;   
-Elementi di neuropsichiatria infantile;   
-Elementi di psicologia;   
-Legislazione sanitaria.   
-  
-3° Anno:   
-Trattamento rieducativo dei disturbi dell'udito, della voce, del linguaggio e del canto;   
-Etica della professione;   
-Audiologia clinica;   
-Audiologia industriale;   
-Pedagogia e sociologia.   
-  
-Art. 63. - L'intero corso di studi e' costituito da lezioni teoriche e da esercitazioni pratiche. Gli allievi sono obbligati all'internato per un periodo di almeno otto mesi per ogni anno di corso. L'internato dovra' essere svolto presso l'istituto di audiologia dell'Universita' di Torino o presso istituti o centri qualificati, anche non universitari, approvati dal direttore della scuola.   
-  
-Art. 64. - Gli esami di profitto vengono sostenuti davanti ad una commissione composta di tre membri, scelti tra i docenti della scuola. Le commissioni, una per ogni materia del corso, vengono nominate, su proposta del direttore della scuola, dal preside della facolta' di medicina e chirurgia. Ogni commissario dispone di dieci punti. La votazione sara' espressa in trentesimi.   
-  
-Art. 65. - Per essere ammessi a frequentare il secondo anno di corso gli iscritti debbono aver superato almeno 4 esami del 1° anno; per essere ammessi al 3° anno di corso debbono aver superato tutti gli esami del 1° anno e almeno 3 di quelli del 2° anno. Alla fine del 3° anno di corso, per essere ammessi all'esame di diploma, gli iscritti debbono aver superato tutti gli esami del piano di studio della scuola. Gli allievi che non avranno ottemperato alle disposizioni del presente articolo, saranno considerati fuori corso.   
-  
-Art. 66. - L'esame di diploma consiste nella discussione di una tesi scritta su un argomento riguardante le materie di insegnamento, approvato dal direttore della scuola, ed in una prova pratica stabilita dalla commissione esaminatrice.   
-L'esame di diploma viene sostenuto davanti ad una commissione di cinque membri scelti tra i docenti della scuola, nominata, su proposta del direttore della scuola, dal preside della facolta' di medicina e chirurgia.   
-Ogni commissario ha a disposizione dieci punti e la votazione sara' espressa in cinquantesimi.   
-I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza della scuola.   
-Gli esami di profitto e l'esame di diploma possono essere sostenuti soltanto in due sessioni annuali, una estiva ed una autunnale.   
-  
-Art. 67. - Agli allievi che avranno superato l'esame verra' rilasciato il "Diploma di tecnico di audiometria e fono-logopedia".   
-  
-Art. 68. - Il consiglio di amministrazione dell'Universita', su proposta del direttore della scuola, approvata dal consiglio di facolta', stabilira' di anno in anno l'ammontare dei contributi. Le tasse e soprattasse annuali a carico degli iscritti restano cosi' suddivise:   
-  
-tassa annuale di iscrizione . . . . . . . . . . . . . . . L. 15.000 soprattassa annuale di esami . . . . . . . . . . . . . . . L. 7.000 tassa di diploma. . . . . . . . . . . . . . . . . . . . . L. 10.000 tassa annuale di iscrizione per studenti fuori corso . . . L. 8.000   
-  
-Art. 69. - Al funzionamento della suddetta scuola si provvedera' con il provento delle tasse, soprattasse e contributi dovuti dagli iscritti e con eventuali elargizioni o contributi di enti pubblici o di privati.   
-  
-Art. 70. - Il direttore della scuola puo' proporre al consiglio di amministrazione, al consiglio di facolta' ed al senato accademico, nell'ambito delle rispettive competenze, la stipulazione di particolari accordi con enti pubblici o privati od istituzioni extra-universitarie per problemi organizzativi che sotto qualsiasi forma possano tornare a vantaggio della scuola e delle finalita' che essa si propone.   
-  
-Art. 72. - All'elenco degli insegnamenti complementari del corso di laurea in chimica sono aggiunti i seguenti:   
-Analisi chimico-cliniche;   
-Analisi degli inquinanti;   
-Chimica ecologica;   
-Chimica fisica dello stato solido;   
-Chimica inorganica superiore;   
-Chimica organica superiore;   
-Cinetica chimica;   
-Chimica dei composti metallorganici;   
-Complementi di matematica per chimici;   
-Didattica della sperimentazione chimica;   
-Esercitazioni organiche speciali;   
-Fotochimica;   
-Chimica quantistica.   
-  
-Art. 73. - All'elenco degli insegnamenti complementari del corso di laurea in chimica industriale sono aggiunti i seguenti:   
-Analisi degli inquinanti;   
-Applicazioni tecniche organiche;   
-Chimica ecologica;   
-Chimica fisica degli alti polimeri;   
-Chimica tessile;   
-Complementi di matematica per chimici;   
-Elettrochimica applicata;   
-Chimica e tecnologia degli alti polimeri;   
-Strumentazioni analitiche per impianti industriali.   
-  
-Art. 76. - all'elenco degli insegnamenti complementari del corso di laurea in fisica sono aggiunti i seguenti:   
-Fisica molecolare;   
-Fisica del plasma;   
-Ottica quantistica;   
-Fisica dei fluidi;   
-Tecnologia dello stato solido e dei cristalli liquidi;   
-Fisica dei semiconduttori;   
-Fisica delle basse temperature;   
-Metodi assiomatici della fisica;   
-Fisica dei sistemi a molti corpi;   
-Metodi gruppali nella fisica;   
-Fisica fondamentale dell'ambiente;   
-Fisica dell'atmosfera;   
-Micrometeorologia e metereologia;   
-Didassi della fisica;   
-Tecniche sperimentali della relativita' e della gravitazione.   
-  
-L'art. 82, relativo all'esame di laurea in matematica, e' modificato nel senso che sono aggiunti i seguenti commi:   
-"L'esame di laurea in matematica e' costituito:   
-a) dallo svolgimento di una breve tesi scritta che, per la laurea con indirizzo generale, dovra' avere carattere originale;   
-b) dallo svolgimento di una tesina orale su due proposte.   
-La tesi di cui al punto a) deve essere presentata in segreteria almeno un mese prima della data stabilita per la prova finale b)".   
-  
-Art. 83 - all'elenco degli insegnamenti complementari del corso di laurea in matematica sono aggiunti i seguenti:   
-Teoria assiomatica degli insiemi (sem.);   
-Algebra universale (sem.);   
-Teoria dei gruppi;   
-Teoria di Galvis (sem.);   
-Teoria dei grafi;   
-Algebra omologica;   
-Topologia algebrica;   
-Algebra commutativa;   
-Funzioni di piu' variabili complesse;   
-Varieta' analitiche;   
-Algebra multilineare;   
-Forme differenziali;   
-Varieta' differenziali;   
-Gruppi e algebre di Lie;   
-Topologia differenziale;   
-Geometrie non euclidee;   
-Analisi funzionale;   
-Spazi funzionali;   
-Spazi vettoriali topologici (sem.);   
-Equazioni funzionali;   
-Teoria delle distribuzioni;   
-Calcolo simbolico;   
-Equazioni differenziali ordinarie;   
-Equazioni differenziali a derivate parziali;   
-Equazioni integrali;   
-Didattica della matematica;   
-Fondamenti di geometria (sem.);   
-Fondamenti di algebra ed aritmetica (sem.);   
-Analisi numerica;   
-Complementi di analisi numerica;   
-Funzioni speciali (sem.);   
-Metodi asintotici (sem.);   
-Matematica finanziaria;   
-Matematica attuariale;   
-Meccanica analitica;   
-Teorie quantistiche;   
-Meccanica celeste;   
-Meccanica dei continui;   
-Meccanica dei fluidi;   
-Magnetofluidodinamica;   
-Teoria della gravitazione;   
-Cosmologia;   
-Teorie globali della geometria differenziale applicate alla fisica matematica;   
-Teorie non lineari della fisica matematica;   
-Equazioni differenziali della fisica matematica.   
-L'art. 85 (gia' art. 70), relativo alle norme sull'esame di laurea, e' modificato nel senso che e' aggiunto il seguente comma:   
-"In deroga all'art. 7 dello statuto, l'esame di laurea in scienze biologiche consiste nella discussione di una tesi scritta".   
-  
-Art. 87. - all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:   
-Laboratorio di tecniche fisiologiche;   
-Laboratorio di tecniche microscopiche, istologiche e istochimiche;   
-Laboratorio di patologia vegetale;   
-Ultrastrutture vegetali;   
-Ecologia;   
-Biologia dei cordati;   
-Etologia;   
-Paleontologia umana;   
-Etnologia;   
-Geochimica isotopica;   
-Petrologia;   
-Oceanografia;   
-Geologia del quaternario;   
-Rilevamento geologico tecnico;   
-Geologia stratigrafica.   
-  
-Art. 88. - all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:   
-Laboratorio di tecniche fisiologiche;   
-Laboratorio di tecniche microscopiche, istologiche e istochimiche;   
-Laboratorio di patologia vegetale;   
-Laboratorio di patologia generale;   
-Laboratorio di analisi cliniche;   
-Nutrizione delle piante superiori;   
-Ultrastrutture vegetali;   
-Ecologia;   
-Elettrofisiologia generale e cellulare;   
-Biologia dei cordati;   
-Neuroendocrinologia comparata;   
-Etologia;   
-Biochimica applicata;   
-Citogenetica;   
-Genetica umana;   
-Paleontologia umana;   
-Etnologia.   
-  
-Art. 89. - All'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti i seguenti:   
-Elementi di scienza e tecnica delle costruzioni;   
-Geochimica isotopica;   
-Geodinamica;   
-Geologia del quaternario;   
-Petrologia;   
-Prospezioni geofisiche;   
-Oceanografia;   
-Rilevamento geologico tecnico;   
-Paleontologia umana.   
-Nello stesso articolo, il testo successivo all'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche e' abrogato e sostituito dal seguente:   
-"Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti fra i complementari se segue il piano di studi ufficiali. In caso diverso lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti previsti per gli indirizzi proposti dalla facolta'.   
-Ove lo studente abbia presentato un proprio piano di studi, questo deve essere stato approvato dalla facolta'.   
-Lo studente deve anche aver frequentato un corso pratico di rilevamento geologico sul terreno, superandone le relative prove di esame tra cui e' compreso un rilevamento geologico da lui personalmente eseguito.   
-Prima dell'esame di laurea lo studente presentera' inoltre un secondo rilevamento geologico individuale su area diversa da quella che ha fatto oggetto del primo rilevamento, in modo da dimostrare di essere in grado di condurre a buon fine tanto in terreni sedimentari che in terreni cristallini. La convalida di questo secondo adempimento spetta alla commissione d'esame del corso pratico di rilevamento geologico, ma non da' luogo ad esame.   
-Lo studente deve inoltre frequentare i corsi di tre laboratori annuali di scienze geologiche, superandone alla fine l'esame relativo.   
-Per essere ammesso all'esame di laurea lo studente deve aver seguito una tesi di laurea scritta su argomento relativo alle scienze geologiche".   
-L'art. 98, relativo al corso di laurea in chimica e tecnologia farmaceutiche, e' modificato nel senso che e' abolito l'asterisco per l'insegnamento di fisica.   
+tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 15.000 soprattassa annuale di esame . . . . . . . . . . . . . . . . L. 7.000 contributo biblioteche e laboratorio. . . . . . . . . . . . L. 10.000 contributo esercitazioni. . . . . . . . . . . . . . . . . . L. 40.000 contr. A.S.L. - O.R.L. . . . . . . . . . . . . . . . . . . . L. 1.000 contr. assic. e infor. . . . . . . . . . . . . . . . . . . . . L. 300   
+Art. 418. - Al funzionamento della suddetta scuola si provvedera' con il provento delle tasse, soprattasse e contributi dovuti dagli iscritti e con eventuali elargizioni o contributi di enti pubblici o privati.  
+Art. 419. - Sono ammessi al terzo anno della scuola, con l'obbligo di tutti gli esami del terzo anno e della tesi, le diplomate delle scuole speciali per ortottiste ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20), purche' abbiano esercitato con continuita' una attivita' professionale adeguata e documentata.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Lussemburgo, ambasciata d'Italia, addi' 27 ottobre 1973
+### Dato a Roma, addi' 31 ottobre 1979
 
-LEONE MALFATTI
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 31 maggio 1974
+Registrato alla Corte dei conti, addi' 16 giugno 1980
 
-Atti di Governo, registro n. 3, foglio n. 54. - SCIARRETTA
+Registro n. 56 Istruzione, foglio n. 151

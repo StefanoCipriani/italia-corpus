@@ -1,209 +1,748 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1971 n. 1351
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1964 n. 1134
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1971 n. 1351
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1964 n. 1134
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Visto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 3 febbraio 1963, n. 102](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-03;102);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita', degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Gli articoli da 144 a 154 - relativi alla Scuola di ingegneria aeronautica - sono abrogati e sostituiti dai seguenti con il conseguente spostamento della successiva numerazione:
+
+Scuola di ingegneria aerospaziale (gia' Aeronautica)
+
+Art. 144. - La Scuola di ingegneria aerospaziale ha per fine di promuovere il progresso della scienza e dell'arte aeronautica e spaziale, e di addestrare in questo ramo di studi coloro che siano gia' forniti di una laurea, in ingegneria.
+
+Art. 145. - Gli studi della Scuola di ingegneria aerospaziale hanno la durata di due anni. Essi si distinguono nelle due Sezioni:
+
+Aeromissilistica ed Astronautica.
+
+La Sezione aeromissilistica ha tre indirizzi: Progetto, Propulsione, Applicazioni elettriche.
+
+Art. 146. - Al termine degli studi la Scuola di ingegneria aerospaziale conferisce la laurea in Ingegneria aerospaziale, con indicazione della sezione e, per la Sezione aeromissilistica, degli indirizzi prescelti.
+
+Art. 147. - Alla Scuola di ingegneria aerospaziale possono essere iscritti, quali studenti, coloro che siano gia' forniti di una laurea in Ingegneria. Coloro che siano gia' forniti di laurea in Ingegneria aeronautica possono essere iscritti al secondo anno della Scuola con l'obbligo di superare gli esami (scelti eventualmente anche tra quelli del primo anno) che saranno indicati dal Consiglio dei professori, secondo quanto disposto dall'art. 149. Ad essi si applicano per quanto concerne le tasse e sopratasse, le disposizioni stabilite per gli studenti della Facolta' di ingegneria.
+
+Gli ufficiali delle forze armate in attivita' di servizio forniti di laurea in Ingegneria, a richiesta del Ministero della difesa, possono essere iscritti alla Scuola di ingegneria aerospaziale. A richiesta dello stesso Ministero, attraverso i suoi organi tecnico scientifici qualificati, possono essere ammessi a frequentare uno o piu' corsi della Scuola ufficiali delle forze armate non forniti del titolo di studio di cui sopra.
+
+Alla fine del corso, essi possono ottenere soltanto un certificato degli studi compiuti e del profitto riportato.
+
+Tutti gli ufficiali delle forze armate ammessi alla Scuola su richiesta del Ministero della difesa sono esenti dal pagamento delle tasse e sopratasse scolastiche.
+
+Art. 148. - La frequenza alle lezioni ed alle esercitazioni e l'esame finale sono obbligatori per tutte le materie d'insegnamento assegnate a ciascuna Sezione e Indirizzo. Lo studente deve inoltre:
+
+a) attendere alla compilazione di un progetto di veicolo aerospaziale, o di parte di esso;
+
+b) oppure effettuare una ricerca tecnica o sperimentale su un problema tecnico-scientifico che interessi la progettazione di un veicolo aerospaziale.
+
+Secondo le norme precisate dal seguente art. 150, l'esame di laurea consiste in una dissertazione sul progetto svolto o sulla ricerca effettuata e sulle materie di insegnamento.
+
+Art. 149. - Il Consiglio dei professori coordinera' per ogni anno scolastico e per ciascuna sezione e indirizzo i singoli programmi di insegnamento e le singole esercitazioni e stabilira' il numero delle ore settimanali assegnate a ciascuna materia e a ciascuna esercitazione. Esso precisera' caso per caso:
+
+a) quali esami debba sostenere un ingegnere che abbia gia' la laurea in una sezione per ottenere la laurea nell'altra sezione;
+
+b) quali esami debba sostenere un ingegnere fornito di laurea in Ingegneria aeronautica per ottenere la laurea in Ingegneria aerospaziale, nella sezione prescelta.
+
+Art. 150. - I temi di laurea sono assegnati dal Consiglio dei professori per ciascuno allievo che ne faccia richiesta almeno sei mesi prima di ciascuna sessione ordinaria di esami di laurea.
+
+Qualora l'ampiezza del tema lo richieda, il Consiglio puo' affidare il tema collegialmente a un gruppo di studenti, con l'obbligo - per ciascuno di essi - di sviluppare la parte del progetto loro assegnato.
+
+Art. 151. - Agli effetti dello svolgimento dei temi di laurea, le materie d'insegnamento sono suddivise per ciascuna sezione ed indirizzo in un gruppo "A" e in un gruppo "B". I temi di laurea possono essere assegnati solo in materie del gruppo "A". Alla preparazione del progetto di laurea sara' dedicata una parte delle esercitazioni riservate a dette materie e che potranno, per speciali esigenze, essere prolungate oltre il limite stabilito.
+
+Art. 152. - La Commissione esaminatrice di laurea e' composta di undici membri, tra cui un membro esterno, scelto fra i cultori di discipline aeronautiche e spaziali.
+
+Art. 153. - La destinazione dei contributi concessi dal Ministero della difesa e amministrati dalla Universita' di Roma e' stabilita annualmente dal Consiglio dei professori della Scuola, come per i contributi concessi dal Ministero della pubblica istruzione.
+
+Art. 154. - Le materie d'insegnamento della Scuola di ingegneria aerospaziale sono le seguenti:
+
+1) Meccanica del volo spaziale;
+
+2) Costruzioni aeronautiche;
+
+3) Aerodinamica I;
+
+4) Fondamenti di calcolo elettronico;
+
+5) Radiocomunicazioni aerospaziali I;
+
+6) Termodinamica della propulsione;
+
+7) Fisica dello spazio;
+
+8) Aerologia;
+
+9) Diritto aerospaziale;
+
+10) Politica ed economia dei trasporti aerei;
+
+11) Biologia aerospaziale;
+
+12) Strutture aerospaziali;
+
+13) Aerodinamica II;
+
+14) Elementi costruttivi dei velivoli;
+
+15) Dinamica e stabilita' dei veicoli aerospaziali;
+
+16) Tecnologie aerospaziali;
+
+17) Propulsori chimici;
+
+18) Servomeccanismi aerospaziali;
+
+19) Installazioni e tecnica operativa;
+
+20) Strumentazione aerospaziale;
+
+21) Balistica e armi aeronautiche;
+
+22) Prove e collaudi strutturali;
+
+23) Infrastrutture aerospaziali;
+
+24) Applicazioni di analisi operativa;
+
+25) Complementi di tecnica missilistica;
+
+26) Prove e collaudo dei propulsori;
+
+27) Elementi costruttivi dei propulsori;
+
+28) Propulsori speciali aerospaziali;
+
+29) Radiocomunicazioni aerospaziali II;
+
+30) Guida dei veicoli aerospaziali;
+
+31) Telemisure e prove di volo;
+
+32) Complementi di elettronica spaziale;
+
+33) Astrodinamica;
+
+34) Dinamica dei fluidi ionizzati e rarefatti.
+
+Art. 155. - L'ordine degli studi della Scuola e' il seguente:
+
+A) Sezione aeromissilistica
+
+1° Anno:
+
+Materie fondamentali:
+
+1) Meccanica del volo spaziale;
+
+2) Costruzioni aeronautiche;
+
+3) Aerodinamica I;
+
+4) Fondamenti di calcolo elettronico;
+
+5) Radiocomunicazioni aerospaziali I;
+
+6) Termodinamica della propulsione.
+
+Materie complementari una a scelta fra le seguenti:
+
+1) Fisica dello spazio;
+
+2) Aerologia;
+
+3) Diritto aerospaziale;
+
+4) Politica ed economia dei trasporti aerei;
+
+5) Biologia aerospaziale.
+
+2° Anno:
+
+Indirizzo progetto:
+
+Materie fondamentali:
+
+Gruppo "A"
+
+1) Strutture aerospaziali;
+
+2) Aerodinamica II;
+
+3) Elementi costruttivi dei velivoli;
+
+4) Dinamica e stabilita' veicoli aerospaziali.
+
+Gruppo "B"
+
+5) Tecnologie aerospaziali;
+
+6) Propulsori chimici;
+
+7) Servomeccanismi aerospaziali.
+
+Materie complementari, una a scelta fra le seguenti:
+
+1) Installazioni e tecnica operativa;
+
+2) Strumentazione aerospaziale;
+
+3) Balistica ed armi aeronautiche;
+
+4) Prove e collaudi strutturali;
+
+5) Infrastrutture aerospaziali;
+
+6) Applicazioni di analisi operativa;
+
+7) Complementi di tecnica missilistica.
+
+Indirizzo propulsione:
+
+Materie fondamentali:
+
+Gruppo "A":
+
+1) Tecnologie aerospaziali;
+
+2) Propulsori chimici;
+
+3) Elementi costruttivi dei propulsori;
+
+4) Propulsori speciali aerospaziali.
+
+Gruppo "B":
+
+5) Aerodinamica II;
+
+6) Elementi costruttivi dei velivoli;
+
+7) Dinamica e stabilita' dei veicoli aerospaziali;
+
+Materie complementari, una a scelta fra le seguenti:
+
+1) Installazioni e tecnica operativa;
+
+2) Strumentazione aerospaziale;
+
+3) Applicazioni di analisi operativa;
+
+4) Complementi di tecnica missilistica;
+
+5) Prova e collaudo dei propulsori.
+
+Indirizzo applicazioni elettroniche:
+
+Materie fondamentali:
+
+Gruppo "A":
+
+1) Radiocomunicazioni aerospaziali II;
+
+2) Guida dei veicoli aerospaziali;
+
+3) Servomeccanismi aerospaziali;
+
+4) Telemisure e prove di volo.
+
+Gruppo "B":
+
+5) Dinamica e stabilita' dei veicoli aerospaziali;
+
+6) Strutture aerospaziali;
+
+7) Strumentazione aerospaziale.
+
+Materie complementari, una a scelta fra le seguenti:
+
+1) Aerodinamica II;
+
+2) Installazioni e tecnica operativa.
+
+B) Sezione astronautica
+
+1° Anno:
+
+Materie fondamentali:
+
+1) Meccanica del volo spaziale;
+
+2) Costruzioni aeronautiche;
+
+3) Aerodinamica I;
+
+4) Fondamenti di calcolo elettronico;
+
+5) Radiocomunicazioni aerospaziali I;
+
+6) Termodinamica della promulzione;
+
+7) Fisica dello spazio.
+
+Materie complementari, una a scelta fra le seguenti:
+
+1) Diritto aerospaziale;
+
+2) Politica ed economia dei trasporti aerei;
+
+3) Biologia aerospaziale.
+
+2° Anno:
+
+Materie fondamentali, tutte del Gruppo "A":
+
+1) Propulsori chimici;
+
+2) Propulsori speciali aerospaziali;
+
+3) Tecnologie aerospaziali;
+
+4) Complementi di elettronica spaziale;
+
+5) Astrodinamica;
+
+6) Strutture aerospaziali;
+
+7) Elementi costruttivi dei velivoli;
+
+8) Dinamica dei fluidi ionizzati e rarefatti.
+
+Art. 156. - Sono istituiti i seguenti criteri di propedeuticita':
+
+a) L'esame di Meccanica del volo spaziale e' propedeutico agli esami di:
+
+Dinamica e stabilita' dei veicoli aerospaziali;
+
+Servomeccanismi aerospaziali;
+
+Astrodinamica.
+
+b) L'esame di Costruzioni aeronautiche e' propedeutico agli esami di:
+
+Strutture aerospaziali;
+
+Elementi costruttivi dei velivoli;
+
+Prove e collaudi strutturali.
+
+c) L'esame di Aerodinamica e' propedeutico agli esami di:
+
+Dinamica e stabilita' dei veicoli aerospaziali;
+
+Aerodinamica II;
+
+Dinamica dei fluidi ionizzati e rarefatti.
+
+d) L'esame di Fondamenti di calcolo elettronico e' propedeutico agli esami di:
+
+Servomeccanismi aerospaziali;
+
+Applicazioni di analisi operativa;
+
+Astrodinamica.
+
+e) L'esame di Radiocomunicazioni aerospaziali I e' propedeutico agli esami di:
+
+Servomeccanismi aerospaziali;
+
+Radiocomunicazioni aerospaziali II;
+
+Guida dei veicoli aerospaziali;
+
+Telemisure e prove di volo;
+
+Complementi di elettronica spaziale.
+
+f) L'esame di Termodinamica della propulsione e' propedeutico agli esami di:
+
+Propulsori chimici;
+
+Prove e collaudo dei propulsori;
+
+Elementi costruttivi dei propulsori;
+
+Propulsori speciali aerospaziali.
+
+Art. 157. - Sono annessi alla Scuola di ingegneria aerospaziale i seguenti Istituti:
+
+1. Istituto di Aerodinamica, comprendente le cattedre di:
+
+Aerodinamica I;
+
+Aerologia;
+
+Aerodinamica II;
+
+Dinamica e stabilita' dei veicoli aerospaziali;
+
+Balistica ed armi aeronautiche;
+
+Dinamica dei fluidi ionizzati e rarefatti.
+
+2. Istituto di Costruzioni aeronautiche, comprendente le cattedre di:
+
+Meccanica del volo spaziale;
+
+Costruzioni aeronautiche;
+
+Strutture aerospaziali;
+
+Elementi costruttivi di velivoli;
+
+Servomeccanismi aerospaziali;
+
+Installazioni e tecnica operativa;
+
+Strumentazione aerospaziale;
+
+Prove e collaudi strutturali;
+
+Applicazioni di analisi operativa;
+
+Propulsori speciali aerospaziali;
+
+Telemisure e prove di volo;
+
+Complementi di elettronica spaziale;
+
+Astrodinamica.
+
+3. Istituto di Diritto aerospaziale, comprendente la cattedra di:
+
+Diritto aerospaziale.
+
+4. Istituto di Propulsione aerospaziale, comprendente le cattedre di:
+
+Termodinamica della propulsione;
+
+Propulsori chimici;
+
+Complementi di tecnica missilistica;
+
+Prove e collaudi dei propulsori;
+
+Elementi costruttivi dei propulsori.
+
+5. Istituto di Tecnologie aerospaziali, comprendente la cattedra di:
+
+Tecnologie aerospaziali.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 14 agosto 1964
+
+Per il Presidente della Repubblica
+
+Il Presidente del Senato
+
+MERZAGORA
+
+GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 7 novembre 1964 Atti del Governo, registro n. 188, foglio n. 44. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Visto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduta la [legge 3 febbraio 1963, n. 102](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-03;102);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli da 367 a 380, relativi alla scuola speciale di assistenza sociale e di ricerca per le scienze morali e sociali sono abrogati e sostituiti dai seguenti:  
-Art. 367. - Presso l'istituto di filosofia della facolta' di lettere e filosofia dell'Universita' degli studi di Roma e' istituita una scuola speciale denominata Centro di educazione professionale per assistenti sociali (Cepas), ai sensi dell'[art. 20, terzo comma, lettera a) del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20-com3-leta).  
-La scuola conferisce il diploma di assistente sociale ed educatore degli adulti al termine di un corso di studi triennali.  
-Per l'ammissione al corso e' richiesto un titolo di scuola media secondaria superiore.  
-Art. 368. - I proventi della scuola sono costituiti dalle tasse scolastiche, dagli eventuali contributi dello Stato, dell'universita', di enti pubblici e di privati, lasciti, donazioni e relativi redditi.  
-Tali proventi sono destinati a coprire:  
+Lo statuto dell'Universita', degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli da 144 a 154 - relativi alla Scuola di ingegneria aeronautica - sono abrogati e sostituiti dai seguenti con il conseguente spostamento della successiva numerazione:  
   
-a) la spesa per gli stipendi ed assegni al personale insegnante, assistente, tecnico e di segreteria della scuola;  
-b) la quota spese per l'uso dei locali e per le spese generali;  
-c) la concessione agli studenti meritevoli e di condizioni economiche non agiate, regolarmente iscritti alla scuola, di borse, premi ed assegni di studio;  
-d) le altre spese competenti direttamente alla scuola (biblioteca, pubblicazioni scientifiche, ricerche, ecc.);  
-e) le spese per soggiorni di studio all'estero di propri studenti o derivanti da scambi di docenti o studenti con analoghe istituzioni straniere.  
+Scuola di ingegneria aerospaziale (gia' Aeronautica)  
   
-Art. 369. - Gli organi della scuola sono:  
-il comitato direttivo; il consiglio della scuola; il direttore e il vicedirettore.  
-Art. 370. - La scuola e' gestita dal comitato direttivo che e' cosi' costituito:  
+Art. 144. - La Scuola di ingegneria aerospaziale ha per fine di promuovere il progresso della scienza e dell'arte aeronautica e spaziale, e di addestrare in questo ramo di studi coloro che siano gia' forniti di una laurea, in ingegneria.  
   
-a) dai professori di ruolo e fuori ruolo dell'istituto di filosofia;  
-b) da due rappresentanti di ciascuno degli enti e dei privati, finanziatori della scuola, da questi designati;  
-c) da altri docenti o esperti del servizio sociale, designati dai professori di cui alla lettera a), in numero pari a quello dei componenti di cui alla lettera b);  
-d) dal direttore e dal vicedirettore.  
+Art. 145. - Gli studi della Scuola di ingegneria aerospaziale hanno la durata di due anni. Essi si distinguono nelle due Sezioni:  
+Aeromissilistica ed Astronautica.  
+La Sezione aeromissilistica ha tre indirizzi: Progetto, Propulsione, Applicazioni elettriche.  
   
-Il comitato direttivo della scuola:  
+Art. 146. - Al termine degli studi la Scuola di ingegneria aerospaziale conferisce la laurea in Ingegneria aerospaziale, con indicazione della sezione e, per la Sezione aeromissilistica, degli indirizzi prescelti.  
   
-a) designa il direttore, la cui nomina avviene per decreto rettorale, sentito il consiglio di facolta';  
-b) nomina, su designazione del direttore, il vicedirettore;  
-c) delibera il bilancio interno della scuola;  
-d) approva, sentito il consiglio della scuola, il regolamento della scuola e le sue modificazioni.  
+Art. 147. - Alla Scuola di ingegneria aerospaziale possono essere iscritti, quali studenti, coloro che siano gia' forniti di una laurea in Ingegneria. Coloro che siano gia' forniti di laurea in Ingegneria aeronautica possono essere iscritti al secondo anno della Scuola con l'obbligo di superare gli esami (scelti eventualmente anche tra quelli del primo anno) che saranno indicati dal Consiglio dei professori, secondo quanto disposto dall'art. 149. Ad essi si applicano per quanto concerne le tasse e sopratasse, le disposizioni stabilite per gli studenti della Facolta' di ingegneria.  
+Gli ufficiali delle forze armate in attivita' di servizio forniti di laurea in Ingegneria, a richiesta del Ministero della difesa, possono essere iscritti alla Scuola di ingegneria aerospaziale. A richiesta dello stesso Ministero, attraverso i suoi organi tecnico scientifici qualificati, possono essere ammessi a frequentare uno o piu' corsi della Scuola ufficiali delle forze armate non forniti del titolo di studio di cui sopra.  
+Alla fine del corso, essi possono ottenere soltanto un certificato degli studi compiuti e del profitto riportato.  
+Tutti gli ufficiali delle forze armate ammessi alla Scuola su richiesta del Ministero della difesa sono esenti dal pagamento delle tasse e sopratasse scolastiche.  
   
-Art. 371. - Il consiglio della scuola e' composto dal direttore, che lo presiede, dal vicedirettore e dai docenti.  
-Il consiglio delibera sui piani di studio e su ogni questione di carattere disciplinare e su questioni didattiche. Viene convocato dal direttore e si riunisce di diritto all'inizio e al termine di ciascun anno di corso e ogni qualvolta il direttore lo ritenga necessario ovvero almeno un quinto del consiglio ne faccia richiesta scritta al direttore.  
-Gli incarichi di insegnamento sono conferiti dal rettore su proposta del direttore della scuola, sentito il vicedirettore.  
-Art. 372. - Il corso di diploma ha la durata di tre anni. La scuola conferisce inoltre un diploma di 2° grado a coloro che avendo conseguito il diploma triennale si iscrivono ad un quarto anno che comporta l'approfondimento di tre delle materie di insegnamento di cui al successivo art. 373 idonee a specificare un indirizzo professionale e di ricerca sulla base di un piano di studi concordato con la scuola.  
-I singoli insegnamenti possono svolgersi durante l'intero anno scolastico o in un solo semestre.  
-E' ammesso il prolungamento del periodo di iscrizione, con collocazione dell'allievo fuori corso, purche' il prolungamento non superi la durata del corso stesso.  
-Gli esami sostenuti presso la scuola, nelle materie previste dallo statuto per la facolta', sono automaticamente convalidati qualora, al termine di qualsiasi anno di corso, o conseguito il diploma, lo studente chieda l'iscrizione alla facolta' stessa. Gli altri esami possono essere riconosciuti, secondo gli stessi criteri adottati per il passaggio da una ad altra facolta' universitaria, in quanto riconosciuti affini a quelli finali delle materie effettivamente impartite in altre facolta', che lo studente puo' proporre di inserire nel proprio piano di studi. In sede di riconoscimento, due corsi semestrali su materie affini possono essere giudicati equivalenti ad uno normale delle facolta'.  
-Art. 373. - L'insegnamento ha insieme carattere teorico e pratico.  
-Le materie d'insegnamento e i corsi sono i seguenti:  
+Art. 148. - La frequenza alle lezioni ed alle esercitazioni e l'esame finale sono obbligatori per tutte le materie d'insegnamento assegnate a ciascuna Sezione e Indirizzo. Lo studente deve inoltre:  
+a) attendere alla compilazione di un progetto di veicolo aerospaziale, o di parte di esso;  
+b) oppure effettuare una ricerca tecnica o sperimentale su un problema tecnico-scientifico che interessi la progettazione di un veicolo aerospaziale.  
+Secondo le norme precisate dal seguente art. 150, l'esame di laurea consiste in una dissertazione sul progetto svolto o sulla ricerca effettuata e sulle materie di insegnamento.  
+  
+Art. 149. - Il Consiglio dei professori coordinera' per ogni anno scolastico e per ciascuna sezione e indirizzo i singoli programmi di insegnamento e le singole esercitazioni e stabilira' il numero delle ore settimanali assegnate a ciascuna materia e a ciascuna esercitazione. Esso precisera' caso per caso:  
+a) quali esami debba sostenere un ingegnere che abbia gia' la laurea in una sezione per ottenere la laurea nell'altra sezione;  
+b) quali esami debba sostenere un ingegnere fornito di laurea in Ingegneria aeronautica per ottenere la laurea in Ingegneria aerospaziale, nella sezione prescelta.  
+  
+Art. 150. - I temi di laurea sono assegnati dal Consiglio dei professori per ciascuno allievo che ne faccia richiesta almeno sei mesi prima di ciascuna sessione ordinaria di esami di laurea.  
+Qualora l'ampiezza del tema lo richieda, il Consiglio puo' affidare il tema collegialmente a un gruppo di studenti, con l'obbligo - per ciascuno di essi - di sviluppare la parte del progetto loro assegnato.  
+  
+Art. 151. - Agli effetti dello svolgimento dei temi di laurea, le materie d'insegnamento sono suddivise per ciascuna sezione ed indirizzo in un gruppo "A" e in un gruppo "B". I temi di laurea possono essere assegnati solo in materie del gruppo "A". Alla preparazione del progetto di laurea sara' dedicata una parte delle esercitazioni riservate a dette materie e che potranno, per speciali esigenze, essere prolungate oltre il limite stabilito.  
+  
+Art. 152. - La Commissione esaminatrice di laurea e' composta di undici membri, tra cui un membro esterno, scelto fra i cultori di discipline aeronautiche e spaziali.  
+  
+Art. 153. - La destinazione dei contributi concessi dal Ministero della difesa e amministrati dalla Universita' di Roma e' stabilita annualmente dal Consiglio dei professori della Scuola, come per i contributi concessi dal Ministero della pubblica istruzione.  
+  
+Art. 154. - Le materie d'insegnamento della Scuola di ingegneria aerospaziale sono le seguenti:  
+1) Meccanica del volo spaziale;  
+2) Costruzioni aeronautiche;  
+3) Aerodinamica I;  
+4) Fondamenti di calcolo elettronico;  
+5) Radiocomunicazioni aerospaziali I;  
+6) Termodinamica della propulsione;  
+7) Fisica dello spazio;  
+8) Aerologia;  
+9) Diritto aerospaziale;  
+10) Politica ed economia dei trasporti aerei;  
+11) Biologia aerospaziale;  
+12) Strutture aerospaziali;  
+13) Aerodinamica II;  
+14) Elementi costruttivi dei velivoli;  
+15) Dinamica e stabilita' dei veicoli aerospaziali;  
+16) Tecnologie aerospaziali;  
+17) Propulsori chimici;  
+18) Servomeccanismi aerospaziali;  
+19) Installazioni e tecnica operativa;  
+20) Strumentazione aerospaziale;  
+21) Balistica e armi aeronautiche;  
+22) Prove e collaudi strutturali;  
+23) Infrastrutture aerospaziali;  
+24) Applicazioni di analisi operativa;  
+25) Complementi di tecnica missilistica;  
+26) Prove e collaudo dei propulsori;  
+27) Elementi costruttivi dei propulsori;  
+28) Propulsori speciali aerospaziali;  
+29) Radiocomunicazioni aerospaziali II;  
+30) Guida dei veicoli aerospaziali;  
+31) Telemisure e prove di volo;  
+32) Complementi di elettronica spaziale;  
+33) Astrodinamica;  
+34) Dinamica dei fluidi ionizzati e rarefatti.  
+  
+Art. 155. - L'ordine degli studi della Scuola e' il seguente:  
+  
+A) Sezione aeromissilistica  
   
 1° Anno:  
-Metodologia del servizio sociale (semestrale);  
-Servizio sociale: lavoro sociale individuale I (semestrale);  
-Servizio sociale: lavoro sociale di gruppo I (annuale);  
-Ricerca sociale I (semestrale);  
-Storia delle dottrine politiche e sociali (semestrale);  
-Sociologia (annuale);  
-Antropologia culturale (semestrale);  
-Psicologia sociale (semestrale);  
-Sviluppo psicofisico dell'individuo, corso interdisciplinare (annuale);  
-Diritto pubblico (semestrale);  
-Diritto familiare e legislazione minorile (semestrale);  
-Legislazione sociale e assistenziale (annuale);  
-Politica economica e sociale (semestrale);  
-Tirocinio pre-professionale.  
+  
+Materie fondamentali:  
+1) Meccanica del volo spaziale;  
+2) Costruzioni aeronautiche;  
+3) Aerodinamica I;  
+4) Fondamenti di calcolo elettronico;  
+5) Radiocomunicazioni aerospaziali I;  
+6) Termodinamica della propulsione.  
+Materie complementari una a scelta fra le seguenti:  
+1) Fisica dello spazio;  
+2) Aerologia;  
+3) Diritto aerospaziale;  
+4) Politica ed economia dei trasporti aerei;  
+5) Biologia aerospaziale.  
   
 2° Anno:  
-Servizio sociale: lavoro sociale individuale II (annuale);  
-Servizio sociale: lavoro sociale di gruppo II (annuale);  
-Servizio sociale: lavoro sociale di comunita' (semestrale);  
-Ricerca sociale (semestrale);  
-Pedagogia dell'educazione degli adulti (semestrale);  
-Amministrazione ed organizzazione dei servizi sociali (semestrale);  
-Psicopatologia e igiene mentale (annuale);  
-Igiene e medicina sociale (semestrale);  
-Tirocinio professionale.  
   
-3° Anno:  
-Servizio sociale: seminari interdisciplinari sui campi di applicazione del servizio sociale (annuale);  
-Storia comparata dell'educazione degli adulti e del servizio sociale (annuale);  
-Ricerca applicata al lavoro sociale (annuale);  
-Amministrazione ed organizzazione dei servizi sociali (annuale);  
-Pianificazione sociale e sviluppo di comunita' (annuale);  
-Tirocinio professionale.  
-Tutti gli insegnamenti possono essere svolti in forma di seminario.  
+Indirizzo progetto:  
   
-Gli studenti di 3° anno debbono frequentare almeno uno dei seminari interdisciplinari sui campi di applicazione del servizio sociale fra quelli che, in quell'anno, il consiglio della scuola decidera' di effettuare.  
-Le esercitazioni pratiche si svolgono nell'ambito dei singoli insegnamenti a scopo di illustrazione, applicazione e integrazione della parte teorica. I tirocini professionali si svolgono presso enti pubblici e privati sotto la supervisione di assistenti sociali qualificati.  
-Art. 374. - Gli esami si svolgono di norma in due sessioni, la prima dopo la chiusura annuale dei corsi e la seconda prima dell'inizio del nuovo anno. Puo' essere predisposto lo svolgimento congiunto per gruppi di materie.  
-Per il passaggio da un anno all'altro gli studenti dovranno avere seguito i corsi indicati nel piano di studi stabilito dal consiglio della scuola, superati gli esami relativi e compiuto con esito favorevole i tirocini prescritti.  
-L'esame finale per il conseguimento del "Diploma di assistente sociale ed educatore degli adulti", consiste nella preparazione e discussione di un elaborato scritto in cui il candidato dimostri la sua capacita' di applicare le conoscenze acquisite.  
-La discussione ha luogo davanti ad una commissione nominata dal direttore, che la presiede, e formata da almeno nove membri del consiglio della scuola e da un rappresentante del comitato direttivo della scuola.  
-Potranno far parte della commissione relatori e correlatori esterni al corpo docente, nominati di volta in volta dal direttore della scuola.  
-Al termine del IV anno gli studenti discutono, dinanzi ad una commissione analoga a quella del comma precedente, una dissertazione scritta attinente all'indirizzo professionale e di ricerca prescelto.  
+Materie fondamentali:  
   
-Norma transitoria.  
+Gruppo "A"  
+1) Strutture aerospaziali;  
+2) Aerodinamica II;  
+3) Elementi costruttivi dei velivoli;  
+4) Dinamica e stabilita' veicoli aerospaziali.  
   
-I diplomandi del preesistente Cepas di Roma potranno essere ammessi a giudizio del consiglio della scuola alla discussione della tesi di diploma entro e non oltre l'anno accademico 1973/1974.  
-Gli ex iscritti dello stesso Cepas, che abbiano sostenuto l'esame finale di diploma presso di esso, potranno ottenere il corrispondente diploma della scuola previo aggiornamento scritto, presentazione e discussione dell'elaborato gia' discusso, davanti alla commissione di diploma di cui all'art. 374.  
+Gruppo "B"  
+5) Tecnologie aerospaziali;  
+6) Propulsori chimici;  
+7) Servomeccanismi aerospaziali.  
+Materie complementari, una a scelta fra le seguenti:  
+1) Installazioni e tecnica operativa;  
+2) Strumentazione aerospaziale;  
+3) Balistica ed armi aeronautiche;  
+4) Prove e collaudi strutturali;  
+5) Infrastrutture aerospaziali;  
+6) Applicazioni di analisi operativa;  
+7) Complementi di tecnica missilistica.  
   
-Scuola di perfezionamento nelle scienze morali e sociali  
+Indirizzo propulsione:  
   
-Art. 375. - E' istituita una scuola di perfezionamento nelle scienze morali e sociali con lo scopo - oltre ai fini di cui all'art. 367 - di promuovere in tale ambito inchieste e studi su base interdisciplinare, sia mediante indagini nel campo sia mediante ricerche e discussioni di natura metodologiche e indagini puramente dottrinali.  
-A tal fine e' costituito nell'ambito della scuola un Centro di ricerca per le scienze morali e sociali, che puo' articolarsi in sezioni per promuovere gli studi e le ricerche predette, con particolare riguardo ai problemi che sorgono dall'incontro delle singole culture e strutture nazionali sul piano della comunita' europea.  
-In stretta correlazione con tale attivita', la scuola organizza corsi di formazione per ricercatori scientifici.  
-Essi hanno, di norma, la durata di tre anni e comprendono insegnamenti metodologici, seminari e tirocini per l'addestramento alla ricerca. Al loro termine e' previsto il conseguimento del diploma di ricercatore nelle scienze storico-morali e, rispettivamente, nelle scienze sociali.  
-Art. 376. - Il consiglio della scuola, costituito ai sensi dell'art. 369:  
+Materie fondamentali:  
   
-a) ne designa il direttore, la cui nomina avviene per decreto rettorale, su proposta del consiglio della facolta' di lettere e filosofia;  
-b) propone, su indicazione del direttore, il vicedirettore;  
-c) nomina su proposta del direttore, il presidente del centro scegliendolo fra studiosi italiani e stranieri;  
-d) nomina, su proposta del presidente del centro, i direttori delle eventuali sezioni in cui esso si articoli e del suo organo scientifico, la rivista "De Homine";  
-e) approva i regolamenti della scuola e del centro, sentito il suo presidente.  
+Gruppo "A":  
+1) Tecnologie aerospaziali;  
+2) Propulsori chimici;  
+3) Elementi costruttivi dei propulsori;  
+4) Propulsori speciali aerospaziali.  
   
-Art. 377. - La scuola ha un consiglio dei docenti, composto dal direttore che lo presiede, dal vicedirettore e dai professori ed esperti che in essa insegnano. Il consiglio delibera sui piani di studio e su ogni altra questione didattica e disciplinare, su convocazione del direttore. E' riunito di diritto all'inizio e al termine di ciascun anno di corso.  
-Gli incarichi di insegnamento annuale sono conferiti dal consiglio della facolta' di lettere, su proposta del direttore della scuola, a docenti universitari anche di altre facolta' e specialisti di alto e riconosciuto valore delle singole materie.  
-Art. 378. - Il comitato direttivo del centro e' costituito:  
+Gruppo "B":  
+5) Aerodinamica II;  
+6) Elementi costruttivi dei velivoli;  
+7) Dinamica e stabilita' dei veicoli aerospaziali;  
+Materie complementari, una a scelta fra le seguenti:  
+1) Installazioni e tecnica operativa;  
+2) Strumentazione aerospaziale;  
+3) Applicazioni di analisi operativa;  
+4) Complementi di tecnica missilistica;  
+5) Prova e collaudo dei propulsori.  
   
-a) dal presidente;  
-b) dagli eventuali direttori di ricerca;  
-c) da due rappresentanti di ciascuno degli enti, o privati finanziatori del centro, da questi designati;  
-d) da altri studiosi, anche stranieri, designati dal consiglio della scuola in numero pari a quello dei componenti di cui alla lettera c);  
-e) dal direttore e dal vicedirettore della scuola.  
+Indirizzo applicazioni elettroniche:  
   
-Art. 379. - Sono ammessi alla scuola i laureati della facolta' di lettere e filosofia di Roma nonche' i diplomati della scuola speciale (Cepas), e, previo esame-colloquio di accertamento dell'idoneita', di laureati di qualsiasi facolta' italiana e, in quanto le vigenti disposizioni lo consentano, di universita' di altri paesi.  
-Il perfezionando e' tenuto a includere nel proprio piano di studio, formato per libera elezione, previa discussione orientativa con la commissione di ammissione, e modificabile nella stessa forma anche in corso di studi:  
+Materie fondamentali:  
   
-a) almeno cinque insegnamenti annuali del corso del primo anno di studi, anche diversi da quelli previsti nel successivo art. 365 come comuni, a condizione che nel corso di precedenti specializzazioni scientifiche ne abbia seguiti altri riconosciuti equivalenti dal consiglio dei docenti;  
-b) almeno quattro insegnamenti annuali e due seminari semestrali, sostituibili da un quinto insegnamento annuale, nel corso del secondo anno di studi: non piu' di un insegnamento puo' essere attinto al gruppo diverso da quello prescelto;  
-c) almeno due seminari nel corso del terzo anno di studi.  
+Gruppo "A":  
+1) Radiocomunicazioni aerospaziali II;  
+2) Guida dei veicoli aerospaziali;  
+3) Servomeccanismi aerospaziali;  
+4) Telemisure e prove di volo.  
   
-Nei primi due anni, il perfezionando dovra' partecipare ad una ricerca di gruppo tra quelle promosse dal centro. Nel terzo, la frequenza della scuola puo' essere in tutto o in parte sostituita da un soggiorno di studio all'estero, nel quadro degli scambi culturali da questa promossi e in relazione allo scientifico soggetto di ricerca o di dissertazione finale.  
-Art. 380. - L'attivita' didattica della scuola si articola in corsi annuali e seminari semestrali. I seminari, svolti se del caso su base interdisciplinare da piu' docenti, anche esterni alla scuola, sono determinati anno per anno anche in rapporto ai programmi di ricerca del centro. Gli incarichi per i corsi e i seminari sono conferiti dal direttore, sentiti il vicedirettore e il presidente del centro. I corsi annuali sono i seguenti:  
+Gruppo "B":  
+5) Dinamica e stabilita' dei veicoli aerospaziali;  
+6) Strutture aerospaziali;  
+7) Strumentazione aerospaziale.  
+Materie complementari, una a scelta fra le seguenti:  
+1) Aerodinamica II;  
+2) Installazioni e tecnica operativa.  
   
-1° Anno (comune):  
-1) Teorie critiche della societa' contemporanea (o altro equivalente di filosofia morale);  
-2) Metodologia delle scienze sociali;  
-3) Sociologia e storia delle istituzioni;  
-4) Psicologia sociale;  
-5) Statistica e demografia.  
+B) Sezione astronautica  
   
-2° Anno (gruppo di scienze storico-morali):  
-6) Tecniche della ricerca storica;  
-7) Teoria e critica dei valori;  
-8) Etica applicata;  
-9) Antropologia culturale moderna;  
-10) Sociologia della conoscenza;  
-11) Teoria e critica dell'ideologia;  
-12) Teorie del diritto e dello Stato;  
-13) Sociologia della letteratura e dell'arte;  
-14) Sociologia e storia della religione;  
-15) Storia del folklore;  
-16) Geografia storica;  
-17) Storia costituzionale;  
-17-bis) Storia dell'economia moderna e contemporanea.  
+1° Anno:  
   
-2° Anno (gruppo di scienze sociali):  
-18) Storia del pensiero sociologico;  
-19) Storia sociale moderna;  
-20) Geografia sociale;  
-21) Antropologia culturale;  
-22) Matematica per le scienze sociali;  
-23) Sociologia comparata europea;  
-24) Istituzioni politiche europee comparate;  
-25) Modellistica dello sviluppo economico;  
-26) Sociologia economica;  
-27) Comunicazioni di massa;  
-28) Tecniche della ricerca sociale.  
-Gli insegnamenti di cui ai numeri 1)-5), 6)-7), 18)-19) hanno carattere costitutivo.  
+Materie fondamentali:  
+1) Meccanica del volo spaziale;  
+2) Costruzioni aeronautiche;  
+3) Aerodinamica I;  
+4) Fondamenti di calcolo elettronico;  
+5) Radiocomunicazioni aerospaziali I;  
+6) Termodinamica della promulzione;  
+7) Fisica dello spazio.  
+Materie complementari, una a scelta fra le seguenti:  
+1) Diritto aerospaziale;  
+2) Politica ed economia dei trasporti aerei;  
+3) Biologia aerospaziale.  
   
-Art. 381. - Le prove di esame consistono in un colloquio al termine di ciascuno dei primi due anni, attinente sia ai corsi e ai seminari seguiti, sia alle ricerche cui ha collaborato lo specializzando. La commissione esaminatrice e' composta dai docenti dei corsi e dei seminari interessati.  
-La prova finale per il conseguimento del diploma di ricercatore consiste nella discussione dei risultati di una ricerca individuale o di gruppo intrapresa dallo specializzando nel corso del terzo anno su uno schema concordato con il direttore della scuola e con un docente, a coronamento del piano individuale di studi.  
-La commissione e' formata dal direttore, che la presiede, da quattro docenti della scuola da lui designati, tra i quali quello che ha seguito la ricerca in veste di relatore; dal presidente del centro, che puo' farsi sostituire dal direttore di una sezione; dal vicedirettore con funzioni anche di segretario. I risultati devono avere piena dignita' scientifica ed essere degni di stampa; e' riservato al centro entro un anno dalla discussione, il diritto di inserirli nelle sue pubblicazioni.  
-Art. 382. - La scuola, anche di concerto con enti pubblici e privati, puo' istituire nell'ambito del centro corsi biennali per il conseguimento di diplomi di pianificatore sociale, di amministratore sociale, di tecnico laureato nell'universita', o nell'ambito dell'insegnamento secondario. Il regolamento di tali corsi e' approvato dal consiglio della scuola su proposta del comitato direttivo del centro.  
-Esso deve in ogni caso prevedere:  
+2° Anno:  
   
-a) che non meno della meta' degli insegnamenti obbligatori annuali, in numero comunque non inferiore a cinque, sia scelto fra quelli indicati nell'art. 380;  
-b) che, in ogni caso i corsi e i seminari scelti fra quelli della scuola siano riconosciuti come validi in caso di ulteriore proseguimento degli studi per il conseguimento del diploma di ricercatore;  
-c) che la commissione di ammissione di cui all'articolo 379 determini in tal caso l'anno al quale iscrivere lo specializzando, ferma restando la libera elezione da parte di quest'ultimo del piano di studi e di ricerche da seguire.  
+Materie fondamentali, tutte del Gruppo "A":  
+1) Propulsori chimici;  
+2) Propulsori speciali aerospaziali;  
+3) Tecnologie aerospaziali;  
+4) Complementi di elettronica spaziale;  
+5) Astrodinamica;  
+6) Strutture aerospaziali;  
+7) Elementi costruttivi dei velivoli;  
+8) Dinamica dei fluidi ionizzati e rarefatti.  
+  
+Art. 156. - Sono istituiti i seguenti criteri di propedeuticita':  
+a) L'esame di Meccanica del volo spaziale e' propedeutico agli esami di:  
+Dinamica e stabilita' dei veicoli aerospaziali;  
+Servomeccanismi aerospaziali;  
+Astrodinamica.  
+b) L'esame di Costruzioni aeronautiche e' propedeutico agli esami di:  
+Strutture aerospaziali;  
+Elementi costruttivi dei velivoli;  
+Prove e collaudi strutturali.  
+c) L'esame di Aerodinamica e' propedeutico agli esami di:  
+Dinamica e stabilita' dei veicoli aerospaziali;  
+Aerodinamica II;  
+Dinamica dei fluidi ionizzati e rarefatti.  
+d) L'esame di Fondamenti di calcolo elettronico e' propedeutico agli esami di:  
+Servomeccanismi aerospaziali;  
+Applicazioni di analisi operativa;  
+Astrodinamica.  
+e) L'esame di Radiocomunicazioni aerospaziali I e' propedeutico agli esami di:  
+Servomeccanismi aerospaziali;  
+Radiocomunicazioni aerospaziali II;  
+Guida dei veicoli aerospaziali;  
+Telemisure e prove di volo;  
+Complementi di elettronica spaziale.  
+f) L'esame di Termodinamica della propulsione e' propedeutico agli esami di:  
+Propulsori chimici;  
+Prove e collaudo dei propulsori;  
+Elementi costruttivi dei propulsori;  
+Propulsori speciali aerospaziali.  
+  
+Art. 157. - Sono annessi alla Scuola di ingegneria aerospaziale i seguenti Istituti:  
+1. Istituto di Aerodinamica, comprendente le cattedre di:  
+Aerodinamica I;  
+Aerologia;  
+Aerodinamica II;  
+Dinamica e stabilita' dei veicoli aerospaziali;  
+Balistica ed armi aeronautiche;  
+Dinamica dei fluidi ionizzati e rarefatti.  
+2. Istituto di Costruzioni aeronautiche, comprendente le cattedre di:  
+Meccanica del volo spaziale;  
+Costruzioni aeronautiche;  
+Strutture aerospaziali;  
+Elementi costruttivi di velivoli;  
+Servomeccanismi aerospaziali;  
+Installazioni e tecnica operativa;  
+Strumentazione aerospaziale;  
+Prove e collaudi strutturali;  
+Applicazioni di analisi operativa;  
+Propulsori speciali aerospaziali;  
+Telemisure e prove di volo;  
+Complementi di elettronica spaziale;  
+Astrodinamica.  
+3. Istituto di Diritto aerospaziale, comprendente la cattedra di:  
+Diritto aerospaziale.  
+4. Istituto di Propulsione aerospaziale, comprendente le cattedre di:  
+Termodinamica della propulsione;  
+Propulsori chimici;  
+Complementi di tecnica missilistica;  
+Prove e collaudi dei propulsori;  
+Elementi costruttivi dei propulsori.  
+5. Istituto di Tecnologie aerospaziali, comprendente la cattedra di:  
+Tecnologie aerospaziali.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1971
+### Dato a Roma, addi' 14 agosto 1964
 
-SARAGAT MISASI
+Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA GUI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 23 febbraio 1972
+Registrato alla Corte dei conti, addi' 7 novembre 1964
 
-Atti del Governo, registro n. 247, foglio n. 44. - VALENTINI
+Atti del Governo, registro n. 188, foglio n. 44. - VILLA

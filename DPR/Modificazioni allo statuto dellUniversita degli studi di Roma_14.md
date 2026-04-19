@@ -1,293 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1960 n. 1566
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 764
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1960 n. 1566
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 764
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successivi;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 99. - Agli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti quelli di:
-
-21) Geologia degli idrocarburi;
-
-22) Geologia regionale;
-
-23) Metodologia statistica;
-
-24) Micropaleontologia;
-
-25) Mineralogia applicata;
-
-26) Petrotettonica;
-
-27) Sedimentologia.
-
-Art. 108. - Agli insegnamenti complementari del corso di laurea in farmacia sono aggiunti quelli di:
-
-13) Chimica macromolecolare;
-
-14) Microbiologia.
-
-Art. 146. - All'elenco degli Istituti costituiti presso la Scuola di ingegneria aeronautica e' aggiunto quello di:
-
-5) Istituto di tecnologia dei materiali aeronautici, comprendente la cattedra di "Tecnologia dei materiali dei veicoli" e quella di "Tecnologia dei materiali dei motori e chimica della combustione".
-
-Art. 496, relativo al corso di perfezionamento in reumatologia, e' abrogato e sostituito dal seguente:
-
-"Il numero degli iscritti non potra' superare i quaranta e verra' precisato anno per anno nel manifesto annuale. In caso di eccedenza di domande, la selezione verra' effettuata mediante concorso per esame".
-
-Dopo l'art. 497, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione delle Scuole di specializzazione in "Chirurgia toracica", "Farmacoterapia e tossicologia medica", "Igiene", con il conseguente spostamento della numerazione degli articoli successivi.
-
-Scuola di specializzazione in farmacoterapia e tossicologia medica Art. 498. - La Scuola di specializzazione in farmacoterapia e tossicologia medica ha la durata di due anni.
-
-Essa ha sede presso l'Istituto di farmacologia dell'Universita' di Roma.
-
-Art. 499. - Alla Scuola vengono ammessi i laureati in medicina e chirurgia.
-
-Art. 500. - Il numero degli iscritti alla Scuola e' fissato ad un massimo di venticinque in ogni anno di corso. I candidati saranno ammessi dopo il superamento di un concorso interno.
-
-Art. 501 - Qualora il numero delle domande sia eccedente, la scelta dei richiedenti potra' essere fatta in base a concorso interno per esame e stabilita in base a giudizio insindacabile della Commissione.
-
-Art. 502. - Gli iscritti alla Scuola sono obbligati a frequentare le lezioni, a seguire i turni di esercitazioni pratiche e ad effettuare, un determinato numero di applicazioni.
-
-Art. 503. - Gli insegnamenti impartiti nella Scuola sono i seguenti:
-
-1° anno:
-
-1) I problemi teorici e pratici della farmacologia Azione dei farmaci sull'organismo sano e malato;
-
-2) Il meccanismo dell'azione dei farmaci studio delle loro indicazioni, delle loro controindicazioni;
-
-3) Evoluzione e tendenze della terapia.
-
-4) Natura e origine dei farmaci.
-
-5) Tecniche e metodologie nell'indagine farmacologica (biennale):
-
-a) la ricerca bibliografica nel campo farmacologico;
-
-b) gli animali di laboratorio (vita, nutrizione, abitudini, malattie, reazioni);
-
-c) metodiche fisio-farmacologiche - Saggi biologici dei farmaci;
-
-d) tecniche biochimiche nelle applicazioni farmacologicbe.
-
-6) La valutazione funzionale, biochimica e anatomo-patologica degli effetti farmacologici;
-
-7) La statistica applicata alla ricerca farmacologica;
-
-8) Tossicologia sperimentale ed applicata;
-
-9) Farmacologia dei diversi apparati (biennale).
-
-2° anno:
-
-1) La biochimica nelle applicazioni farmaco-terapeutiche.
-
-2) La anatomia patologica nelle applicazioni farmacologiche e tossicologiche;
-
-3) Patologia sperimentale da farmaci e malattie medicamentose;
-
-4) Intossicazioni acute e croniche, individuali e collettive - Le tossicomanie - Trattamento;
-
-5) I fattori esogeni e quelli endogeni nella variabilita' degli effetti farmacologici;
-
-6) La valutazione farmacologica degli effetti terapeutici dei farmaci nell'uomo;
-
-7) Chemioterapici e antibiotici;
-
-8) Ormonoterapia;
-
-9) Gli isotopi radioattivi e le radiazioni ionizzanti: aspetti farmacologici, tossicologici e terapeutici;
-
-10) Elementi e tecniche di farmacognosia;
-
-11) Il pronto soccorso farmacologico;
-
-12) I farmaci in semeiotica;
-
-13) Tecniche e metodologie nell'indagine farmacologica (biennale):
-
-a) la ricerca bibliografica nel campo farmacologico;
-
-b) gli animali di laboratorio (vita, nutrizione, abitudini, malattie, reazioni);
-
-c) metodiche fisio-farmacologiche - Saggi biologici dei farmaci;
-
-d) tecniche biochimiche nelle applicazioni farmacologiche.
-
-14) Farmacologia dei diversi apparati (biennale).
-
-15) I farmaci nella genetica.
-
-I suddetti insegnamenti verranno integrati da conferenze riguardanti specifici argomenti (Farmacologia aeronautica, Farmacologia dell'ambiente Farmacologia e Tossicologia nel settore dell'industria e dell'agricoltura, ecc.) e problemi farmacoterapici di attualita'; da lezioni di inglese e tedesco scientifico, ecc.
-
-Art. 504. - I candidati dovranno sostenere un esame sul programma di ciascun insegnamento.
-
-Art. 505. - Per conseguire il diploma di specializzazione in farmacoterapia e tossicologia medica, al termine dei corsi, oltre ad aver superato gli esami prescritti, e' obbligo di presentare una dissertazione scritta, preferibilmente di carattere sperimentale, elaborata presso l'Istituto ove ha sede la Scuola.
-
-Art. 506. - A coloro che abbiano superato l'esame di diploma verra' rilasciato un diploma di specialista.
-
-Scuola di specializzazione in chirurgia toracica
-
-Art. 507. - Il corso degli studi della Scuola di specializzazione in chirurgia toracica ha la durata di due anni.
-
-Art. 508. - Alla Scuola possono iscriversi medici che abbiano almeno tre anni di frequenza in una scuola di specializzazione in chirurgia generale, e medici che, a giudizio del Consiglio della Scuola stessa, abbiano acquisito sufficiente pratica in chirurgia, generale attraverso servizi prestati in reparti chirurgici.
-
-Art. 509. - Le materie di insegnamento sono:
-
-1) Anatomia chirurgica del torace (annuale);
-
-2) Anatomia patologica delle malattie del torace (annuale);
-
-3) Fisiopatologia degli organi endotoracici e valutazione funzionale (biennale);
-
-4) Diagnostica clinica e strumentale dell'apparato respiratorio (annuale);
-
-5) Diagnostica clinica e strumentale dell'apparato circolatorio (annuale);
-
-6) Diagnostica radiologica del torace (annuale);
-
-7) Medicina operatoria del torace (annuale);
-
-8) Patologia e clinica chirurgica delle affezioni dell'apparato respiratorio (biennale);
-
-9) Chirurgia della tubercolosi polmonare (annuale);
-
-10) Patologia e clinica chirurgica delle affezioni dei cuori e dei grossi vasi endotoracici (biennale);
-
-11) Patologia e clinica chirurgica delle affezioni della parete toracica, del diaframma, del mediastino, dell'esofago (annuale).
-
-Art. 510 - Gli iscritti ai corso debbono frequentare nel:
-
-1° anno:
-
-Anatomia chirurgica del torace;
-
-Anatomia patologica delle malattie del torace
-
-Fisiopatologia degli organi endotoracici e valutazione funzionale I;
-
-Diagnostica clinica e strumentale dell'apparato respiratorio;
-
-Patologia e clinica chirurgica delle affezioni dello apparato respiratorio I;
-
-Chirurgia della tubercolosi polmonare - Patologia e clinica chirurgica delle affezioni del cuore e dei grossi vasi endotoracici I.
-
-2° anno:
-
-Fisiopatologia degli organi endotoracici e valutazione funzionale II;
-
-Diagnostica clinica e strumentale dell'apparato circolatorio;
-
-Diagnostica radiologica del torace;
-
-Medicina operatoria del torace;
-
-Patologia e clinica chirurgica delle affezioni dell'apparato respiratorio II;
-
-Patologia e clinica chirurgica delle affezioni del cuore e dei grossi vasi endotoracici II;
-
-Patologia e clinica chirurgica delle affezioni della parete toracica, del diaframma, del mediastino, dello esofago.
-
-Art. 512. - La frequenza ai corsi, alle esercitazioni, agli internati e' obbligatoria.
-
-Art. 512. - Sono ammessi al secondo anno del corso gli iscritti che abbiano superato gli esami di anatomia chirurgica del torace.
-
-Anatomia patologica delle malattie del torace, diagnostica clinica e strumentale dell'apparato respiratorio, chirurgia della tubercolosi polmonare ed un colloquio di Fisiopatologia degli organi endotoracici e valutazione funzionale.
-
-Art. 513. - Il diploma di specialista in chirurgia toracica viene conferito alla fine del secondo anno di corso agli iscritti che abbiano superato tutti gli esami e presentato e discusso una dissertazione scritta su un argomento di chirurgia toracica.
-
-Art. 514. - Le iscrizioni al primo anno della Scuola di specializzazione e in chirurgia toracica non possono superare il numero di dieci.
-
-Scuola di specializzazione in Igiene
-
-Art. 515. - Finalita' della Scuola, oltre quelle elencate all'art. 342 dello statuto di questa Universita', e' la preparazione del personale che intende dedicarsi alla carriera della sanita' pubblica.
-
-Possono esservi ammessi i laureati in medicina, in veterinaria, in architettura, in ingegneria, in farmacia, in chimica ed in scienze naturali o biologiche, con la condizione che abbiano superato in ogni caso, il corso di Igiene durante il corso universitario.
-
-Art. 516. - La durata dell'intero corso di studi e' di due anni.
-
-Art. 517. - Gli insegnamenti impartiti dalla Scuola sono i seguenti:
-
-1) Ordinamenti sanitari nazionali e internazionali;
-
-2) Demografia e statistica sanitaria;
-
-3) Chimica e fisica applicata all'igiene;
-
-4) Microbiologia, sierologia e parassitologia applicata all'igiene;
-
-5) Igiene dell'alimentazione;
-
-6) Igiene dell'ambiente, del suolo e dell'abitato;
-
-7) L'igiene delle varie fasi della vita e dell'attivita' umana;
-
-S) Epidemiologia e profilassi generale;
-
-9) Epidemiologia e profilassi speciale.
-
-Art. 518. - Il numero massimo degli iscritti e' stabilito in 50.
-
-Nel caso di domande eccedenti la selezione verra' effettuata mediante concorso per titolo ed esami, con norme che verranno precisate nel manifesto annuale.
-
-Art. 519. - L'ordine degli studi (suddivisione degli insegnamenti nei due anni di corso) e l'ordine e modalita' degli esami verranno stabiliti nel manifesto annuale.
-
-Art. 520. - A coloro che avranno superato l'esame di diploma verra' rilasciato il diploma, di specialista in Igiene.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 30 ottobre 1960
-
-GRONCHI
-
-BOSCO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 22 dicembre 1960 Atti del Governo, registro n. 132, foglio n. 126. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successivi;  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -295,132 +24,298 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 99. - Agli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti quelli di:  
-21) Geologia degli idrocarburi;  
-22) Geologia regionale;  
-23) Metodologia statistica;  
-24) Micropaleontologia;  
-25) Mineralogia applicata;  
-26) Petrotettonica;  
-27) Sedimentologia.  
-Art. 108. - Agli insegnamenti complementari del corso di laurea in farmacia sono aggiunti quelli di:  
-13) Chimica macromolecolare;  
-14) Microbiologia.  
-Art. 146. - All'elenco degli Istituti costituiti presso la Scuola di ingegneria aeronautica e' aggiunto quello di:  
-5) Istituto di tecnologia dei materiali aeronautici, comprendente la cattedra di "Tecnologia dei materiali dei veicoli" e quella di "Tecnologia dei materiali dei motori e chimica della combustione".  
-Art. 496, relativo al corso di perfezionamento in reumatologia, e' abrogato e sostituito dal seguente:  
-"Il numero degli iscritti non potra' superare i quaranta e verra' precisato anno per anno nel manifesto annuale. In caso di eccedenza di domande, la selezione verra' effettuata mediante concorso per esame".  
-Dopo l'art. 497, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione delle Scuole di specializzazione in "Chirurgia toracica", "Farmacoterapia e tossicologia medica", "Igiene", con il conseguente spostamento della numerazione degli articoli successivi.  
-Scuola di specializzazione in farmacoterapia e tossicologia medica Art. 498. - La Scuola di specializzazione in farmacoterapia e tossicologia medica ha la durata di due anni.  
-Essa ha sede presso l'Istituto di farmacologia dell'Universita' di Roma.  
-Art. 499. - Alla Scuola vengono ammessi i laureati in medicina e chirurgia.  
-Art. 500. - Il numero degli iscritti alla Scuola e' fissato ad un massimo di venticinque in ogni anno di corso. I candidati saranno ammessi dopo il superamento di un concorso interno.  
-Art. 501 - Qualora il numero delle domande sia eccedente, la scelta dei richiedenti potra' essere fatta in base a concorso interno per esame e stabilita in base a giudizio insindacabile della Commissione.  
-Art. 502. - Gli iscritti alla Scuola sono obbligati a frequentare le lezioni, a seguire i turni di esercitazioni pratiche e ad effettuare, un determinato numero di applicazioni.  
-Art. 503. - Gli insegnamenti impartiti nella Scuola sono i seguenti:  
-1° anno:  
-1) I problemi teorici e pratici della farmacologia Azione dei farmaci sull'organismo sano e malato;  
-2) Il meccanismo dell'azione dei farmaci studio delle loro indicazioni, delle loro controindicazioni;  
-3) Evoluzione e tendenze della terapia.  
-4) Natura e origine dei farmaci.  
-5) Tecniche e metodologie nell'indagine farmacologica (biennale):  
-a) la ricerca bibliografica nel campo farmacologico;  
-b) gli animali di laboratorio (vita, nutrizione, abitudini, malattie, reazioni);  
-c) metodiche fisio-farmacologiche - Saggi biologici dei farmaci;  
-d) tecniche biochimiche nelle applicazioni farmacologicbe.  
-6) La valutazione funzionale, biochimica e anatomo-patologica degli effetti farmacologici;  
-7) La statistica applicata alla ricerca farmacologica;  
-8) Tossicologia sperimentale ed applicata;  
-9) Farmacologia dei diversi apparati (biennale).  
-2° anno:  
-1) La biochimica nelle applicazioni farmaco-terapeutiche.  
-2) La anatomia patologica nelle applicazioni farmacologiche e tossicologiche;  
-3) Patologia sperimentale da farmaci e malattie medicamentose;  
-4) Intossicazioni acute e croniche, individuali e collettive - Le tossicomanie - Trattamento;  
-5) I fattori esogeni e quelli endogeni nella variabilita' degli effetti farmacologici;  
-6) La valutazione farmacologica degli effetti terapeutici dei farmaci nell'uomo;  
-7) Chemioterapici e antibiotici;  
-8) Ormonoterapia;  
-9) Gli isotopi radioattivi e le radiazioni ionizzanti: aspetti farmacologici, tossicologici e terapeutici;  
-10) Elementi e tecniche di farmacognosia;  
-11) Il pronto soccorso farmacologico;  
-12) I farmaci in semeiotica;  
-13) Tecniche e metodologie nell'indagine farmacologica (biennale):  
-a) la ricerca bibliografica nel campo farmacologico;  
-b) gli animali di laboratorio (vita, nutrizione, abitudini, malattie, reazioni);  
-c) metodiche fisio-farmacologiche - Saggi biologici dei farmaci;  
-d) tecniche biochimiche nelle applicazioni farmacologiche.  
-14) Farmacologia dei diversi apparati (biennale).  
-15) I farmaci nella genetica.  
-I suddetti insegnamenti verranno integrati da conferenze riguardanti specifici argomenti (Farmacologia aeronautica, Farmacologia dell'ambiente Farmacologia e Tossicologia nel settore dell'industria e dell'agricoltura, ecc.) e problemi farmacoterapici di attualita'; da lezioni di inglese e tedesco scientifico, ecc.  
-Art. 504. - I candidati dovranno sostenere un esame sul programma di ciascun insegnamento.  
-Art. 505. - Per conseguire il diploma di specializzazione in farmacoterapia e tossicologia medica, al termine dei corsi, oltre ad aver superato gli esami prescritti, e' obbligo di presentare una dissertazione scritta, preferibilmente di carattere sperimentale, elaborata presso l'Istituto ove ha sede la Scuola.  
-Art. 506. - A coloro che abbiano superato l'esame di diploma verra' rilasciato un diploma di specialista.  
-Scuola di specializzazione in chirurgia toracica  
-Art. 507. - Il corso degli studi della Scuola di specializzazione in chirurgia toracica ha la durata di due anni.  
-Art. 508. - Alla Scuola possono iscriversi medici che abbiano almeno tre anni di frequenza in una scuola di specializzazione in chirurgia generale, e medici che, a giudizio del Consiglio della Scuola stessa, abbiano acquisito sufficiente pratica in chirurgia, generale attraverso servizi prestati in reparti chirurgici.  
-Art. 509. - Le materie di insegnamento sono:  
-1) Anatomia chirurgica del torace (annuale);  
-2) Anatomia patologica delle malattie del torace (annuale);  
-3) Fisiopatologia degli organi endotoracici e valutazione funzionale (biennale);  
-4) Diagnostica clinica e strumentale dell'apparato respiratorio (annuale);  
-5) Diagnostica clinica e strumentale dell'apparato circolatorio (annuale);  
-6) Diagnostica radiologica del torace (annuale);  
-7) Medicina operatoria del torace (annuale);  
-8) Patologia e clinica chirurgica delle affezioni dell'apparato respiratorio (biennale);  
-9) Chirurgia della tubercolosi polmonare (annuale);  
-10) Patologia e clinica chirurgica delle affezioni dei cuori e dei grossi vasi endotoracici (biennale);  
-11) Patologia e clinica chirurgica delle affezioni della parete toracica, del diaframma, del mediastino, dell'esofago (annuale).  
-Art. 510 - Gli iscritti ai corso debbono frequentare nel:  
-1° anno:  
-Anatomia chirurgica del torace;  
-Anatomia patologica delle malattie del torace  
-Fisiopatologia degli organi endotoracici e valutazione funzionale I;  
-Diagnostica clinica e strumentale dell'apparato respiratorio;  
-Patologia e clinica chirurgica delle affezioni dello apparato respiratorio I;  
-Chirurgia della tubercolosi polmonare - Patologia e clinica chirurgica delle affezioni del cuore e dei grossi vasi endotoracici I.  
-2° anno:  
-Fisiopatologia degli organi endotoracici e valutazione funzionale II;  
-Diagnostica clinica e strumentale dell'apparato circolatorio;  
-Diagnostica radiologica del torace;  
-Medicina operatoria del torace;  
-Patologia e clinica chirurgica delle affezioni dell'apparato respiratorio II;  
-Patologia e clinica chirurgica delle affezioni del cuore e dei grossi vasi endotoracici II;  
-Patologia e clinica chirurgica delle affezioni della parete toracica, del diaframma, del mediastino, dello esofago.  
-Art. 512. - La frequenza ai corsi, alle esercitazioni, agli internati e' obbligatoria.  
-Art. 512. - Sono ammessi al secondo anno del corso gli iscritti che abbiano superato gli esami di anatomia chirurgica del torace.  
-Anatomia patologica delle malattie del torace, diagnostica clinica e strumentale dell'apparato respiratorio, chirurgia della tubercolosi polmonare ed un colloquio di Fisiopatologia degli organi endotoracici e valutazione funzionale.  
-Art. 513. - Il diploma di specialista in chirurgia toracica viene conferito alla fine del secondo anno di corso agli iscritti che abbiano superato tutti gli esami e presentato e discusso una dissertazione scritta su un argomento di chirurgia toracica.  
-Art. 514. - Le iscrizioni al primo anno della Scuola di specializzazione e in chirurgia toracica non possono superare il numero di dieci.  
-Scuola di specializzazione in Igiene  
-Art. 515. - Finalita' della Scuola, oltre quelle elencate all'art. 342 dello statuto di questa Universita', e' la preparazione del personale che intende dedicarsi alla carriera della sanita' pubblica.  
-Possono esservi ammessi i laureati in medicina, in veterinaria, in architettura, in ingegneria, in farmacia, in chimica ed in scienze naturali o biologiche, con la condizione che abbiano superato in ogni caso, il corso di Igiene durante il corso universitario.  
-Art. 516. - La durata dell'intero corso di studi e' di due anni.  
-Art. 517. - Gli insegnamenti impartiti dalla Scuola sono i seguenti:  
-1) Ordinamenti sanitari nazionali e internazionali;  
-2) Demografia e statistica sanitaria;  
-3) Chimica e fisica applicata all'igiene;  
-4) Microbiologia, sierologia e parassitologia applicata all'igiene;  
+Gli articoli 535, 536, 537, 538 relativi alla "Scuola di perfezionamento in medicina del lavoro" che muta la denominazione in quella di "Scuola di specializzazione in medicina del lavoro" sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in medicina del lavoro  
+  
+Art. 535. - Il corso degli studi della scuola di specializzazione in medicina del lavoro ha la durata di tre anni.  
+Art. 536. - Il numero massimo degli iscritti e' stabilito in quarantacinque (15 per ogni anno di corso).  
+Art. 537. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
+1° Anno:  
+1) Fisiologia del lavoro ed ergonomia;  
+2) Tecnologia ed igiene del lavoro;  
+3) Patologia e clinica del lavoro;  
+4) Psicologia del lavoro.  
+2° Anno:  
+1) Fisiologia del lavoro ed ergonomia;  
+2) Tecnologia ed igiene del lavoro;  
+3) Patologia e clinica del lavoro;  
+4) Psicologia del lavoro;  
+5) Tossicologia industriale e diagnostica di laboratorio;  
+6) Infortunistica e pronto soccorso;  
+7) Biometria e statistica sanitaria;  
+8) Medicina preventiva dei lavoratori.  
+3° Anno:  
+1) Patologia e clinica del lavoro;  
+2) Tecnologia ed igiene del lavoro;  
+3) Infortunistica e pronto soccorso;  
+4) Medicina legale e delle assicurazioni;  
+5) Medicina preventiva dei lavoratori;  
+6) Radiologia e medicina nucleare;  
+7) Tossicologia industriale e diagnostica di laboratorio;  
+8) Dermatologia professionale.  
+Art. 538. - Gli esami di profitto vengono sostenuti alla fine di ogni anno, secondo quanto verra' stabilito, in accordo con la facolta', dal consiglio della scuola.  
+Gli articoli 553, 554, 555, 556 relativi alla "Scuola di perfezionamento in idroclimatologia clinica" che muta la denominazione in quella di "Scuola di specializzazione in idroclimatologia medica e clinica termale" sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in idroclimatologia medica e clinica termale  
+  
+Art. 553. - La scuola mira a creare una categoria di medici altamente qualificati e competenti nel campo della idrologia e climatologia medica, compresa la talassologia, i quali possano esercitare un'attivita' specifica in particolare nelle stazioni termali e climatiche.  
+Art. 554. - Alla scuola sono ammessi i laureati in medicina e chirurgia.  
+Il numero massimo degli iscritti e' stabilito complessivamente in dodici specializzandi (quattro per ogni anno di corso). I corsi hanno la durata di tre anni.  
+Art. 555. - Gli insegnamenti sono:  
+1° Anno:  
+1) Geologia idrologica, geofisica, meteorologica e climatologica generale;  
+2) Chimica chimico-fisica idroclimatologica;  
+3) Effetti biologici e meccanismo d'azione dei fattori idroclimatologici;  
+4) Ecologia medica. Geografia idroclimatologica;  
+5) Cure idroclimatologiche e terapie fisiche nelle malattie reumatiche.  
+2° Anno:  
+1) Cure idroclimatologiche nelle malattie dell'apparato respiratorio;  
+2) Cure idroclimatologiche nelle malattie dell'apparato cardiovascolare;  
+3) Cure idroclimatologiche nelle malattie del fegato e del tubo digerente;  
+4) Cure idroclimatologiche in otorinolaringoiatria (complementare);  
+5) Cure idroclimatologiche in dermatologia (complementare).  
+3° Anno:  
+1) Cure idroclimatologiche nelle malattie delle vie urinarie;  
+2) Cure idroclimatologiche nelle malattie del ricambio e malattie endocrine;  
+3) Cure idroclimatologiche in ginecologia (complementare);  
+4) Organizzazione termale e legislazione in campo idroclimatologico;  
+5) Tecniche per l'applicazione delle cure idroclimatologiche.  
+Art. 556. - Le lezioni del 1° e 2° anno sono corredate da esercitazioni di carattere sperimentale e clinico, potranno essere effettuate visite di istruzione alle stazioni termali.  
+Gli specializzandi hanno l'obbligo di frequentare come interni durante il triennio gli istituti ove ha sede la scuola di idroclimatologia.  
+La frequenza alle lezioni ed alle esercitazioni nonche' l'internato sono obbligatori.  
+Al termine di ogni anno verra' sostenuto un esame teorico-pratico sugli insegnamenti impartiti.  
+La commissione, costituita da tre membri, esprime il giudizio con una votazione in trentesimi.  
+Al termine dei tre anni verra' presentata una tesi di specializzazione compilativa o sperimentale che verra' giudicata da una commissione di 5 membri.  
+La votazione e' espressa in cinquantesimi.  
+L'esito favorevole degli esami e' provato da un diploma che da' diritto al titolo professionale di "specialista in idroclimatologia medica e clinica termale".  
+Gli articoli 582, 583, 584, 585, 586 relativi alla "Scuola di specializzazione in igiene e tecnica ospedaliera" sono soppressi con il relativo spostamento della numerazione degli articoli successivi.  
+Gli articoli da 625 a 632 relativi alla "Scuola di specializzazione in farmacoterapia e tossicologia medica" che muta la denominazione in quella di "Scuola di specializzazione in tossicologia medica", sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in tossicologia medica  
+  
+Art. 625. - La scuola di specializzazione in tossicologia medica ha sede presso la seconda cattedra di farmacologia della facolta' di medicina e chirurgia.  
+Art. 626. - La durata del corso degli studi per il conseguimento del diploma di specialista in tossicologia medica e' di tre anni.  
+Art. 627. - Le iscrizioni alla scuola sono limitate ai laureati in medicina e chirurgia ed avvengono per titoli ed esami. Nell'esame di ammissione i candidati dovranno dar prova di avere nozioni di cultura tossicologica.  
+Art. 628. - Il numero massimo complessivo degli iscritti e' di venticinque per ogni anno di corso, per un totale di settantacinque iscritti.  
+Art. 629. - Le materie di insegnamento sono cosi' suddivise nei tre anni di corso:  
+1° Anno:  
+1) Chimica tossicologica con esercizi;  
+2) Tossicologia generale;  
+3) Tossicologia sperimentale con esercizi I.  
+2° Anno:  
+1) Tossicologia sistematica;  
+2) Cancerogenesi da agenti chimici;  
+3) Teratogenesi da agenti chimici;  
+4) Tossicologia sperimentale con esercizi II;  
+5) Clinica e terapia delle malattie da agenti chimici I.  
+3° Anno:  
+1) Diagnostica chimica delle malattie da agenti chimici;  
+2) Clinica e terapia delle malattie da agenti chimici II;  
+3) Tecniche di rianimazione in tossicologia;  
+4) Legislazione in campo tossicologico.  
+Art. 630. - Durante i tre anni di frequenza alla scuola, tutti gli ammalati che vengono ricoverati saranno seguiti e studiati dai laureati in medicina che sono iscritti al corso: casi interessanti di intossicazioni singole o collettive potranno essere oggetto di ricerche speciali o di pubblicazioni da parte di uno o piu' degli iscritti al corso, a seconda del giudizio del direttore.  
+Art. 631. - Alla fine del 1°, 2° e 3° anno avranno luogo esami speciali, sugli insegnamenti impartiti e per ottenere il diploma i candidati dovranno superare un esame finale riassuntivo e discutere una tesi sperimentale (o clinica) su argomenti di tossicologia.  
+Art. 632. - L'allievo e' tenuto alla frequenza obbligatoria delle lezioni e delle esercitazioni relative, oltre a partecipare a ricerche concernenti problemi di tossicologia.  
+Gli articoli 641, 642, 643, 644, 645, 646 relativi alla "Scuola di specializzazione in igiene" che muta la denominazione in quella di "Scuola di specializzazione in igiene e medicina preventiva" sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in igiene e medicina preventiva  
+  
+Art. 641. - Presso l'istituto di igiene della facolta' di medicina e chirurgia di Roma e' costituita la scuola di specializzazione in igiene e medicina preventiva, la quale ha lo scopo di conferire adeguata competenza teorica e pratica ai laureati in medicina e chirurgia, i quali intendano conseguire il diploma di specializzazione in igiene e medicina preventiva.  
+Art. 642. - Il corso si distingue in un biennio propedeutico seguito da un terzo anno con quattro orientamenti differenziati:  
+1) Sanita' pubblica;  
+2) Laboratorio;  
+3) Igiene e direzione ospedaliera;  
+4) Igiene e medicina scolastica.  
+Sono ammessi i laureati in medicina e chirurgia. La ammissione avviene per titoli ed esami, solo nel caso di eccedenza delle domande. Sono disponibili numero quaranta posti per ciascun anno di corso.  
+Art. 643. - Coloro che hanno conseguito il diploma di specializzazione per uno dei quattro orientamenti, potranno essere iscritti al 3° anno di un altro orientamento nell'ambito della disponibilita' dei posti.  
+Analogamente, i laureati in medicina e chirurgia che hanno conseguito a suo tempo, a norma dei precedenti statuti delle rispettive scuole biennali di specializzazione, il diploma di specializzazione in "Igiene", o in "Igiene e sanita' pubblica", o in "Igiene e tecnica ospedaliera", o in "Igiene e medicina scolastica", potranno essere iscritti al 3° anno di uno dei quattro orientamenti previsti, sempre nell'ambito della disponibilita' dei posti.  
+Art. 644. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1) Metodologia statistica e biometria;  
+2) Educazione sanitaria;  
+3) Psicologia;  
+4) Microbiologia;  
+5) Parassitologia;  
+6) Epidemiologia e profilassi generale.  
+2° Anno:  
+1) Patologia e clinica delle malattie infettive;  
+2) Epidemiologia e profilassi delle malattie infettive;  
+3) Patologia e clinica delle malattie non infettive di importanza sociale;  
+4) Epidemiologia e profilassi delle malattie non infettive di importanza sociale;  
+5) Demografia e statistica sanitaria;  
+6) Legislazione e organizzazione sanitaria.  
+3° Anno (con orientamento di sanita' pubblica):  
+1) Approvvigionamento idrico; raccolta e smaltimento dei rifiuti liquidi e solidi; inquinamenti atmosferici;  
+2) Igiene edilizia e urbanistica;  
+3) Igiene dell'alimentazione;  
+4) Igiene e medicina scolastica;  
+5) Igiene ospitaliera;  
+6) Servizi di sanita' pubblica.  
+3° Anno (con orientamento di laboratorio):  
+1) Microscopia applicata all'igiene;  
+2) Microbiologia applicata all'igiene;  
+3) Chimica clinica;  
+4) Accertamento diagnostico delle malattie batteriche e parassitarie;  
+5) Accertamento diagnostico delle infezioni virali;  
+6) Nozioni di anatomia e istologia patologica.  
+3° Anno (con orientamento di igiene e direzione ospitaliera):  
+1) Storia degli ospedali e principio metodologico della assistenza ospitaliera;  
+2) Igiene e tecnica delle costruzioni ospitaliere, arredamento ed impianti sanitari;  
+3) Organizzazione e funzione degli ospedali generali e speciali;  
+4) Diritto amministrativo e legislazione ospitaliera;  
+5) Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospitaliera;  
+6) Selezione e istruzione professionale del personale ospitaliero;  
+7) Organizzazione e funzione dei laboratori di analisi e di accertamento necroscopico.  
+3° Anno (con orientamento di igiene e medicina scolastica):  
+1) Auxologia normale e patologica;  
+2) Epidemiologia e profilassi delle malattie dell'eta' scolare;  
+3) Servizi di medicina scolastica;  
+4) Elementi di psicologia e pedagogia per l'eta' scolare;  
 5) Igiene dell'alimentazione;  
-6) Igiene dell'ambiente, del suolo e dell'abitato;  
-7) L'igiene delle varie fasi della vita e dell'attivita' umana;  
-S) Epidemiologia e profilassi generale;  
-9) Epidemiologia e profilassi speciale.  
-Art. 518. - Il numero massimo degli iscritti e' stabilito in 50.  
-Nel caso di domande eccedenti la selezione verra' effettuata mediante concorso per titolo ed esami, con norme che verranno precisate nel manifesto annuale.  
-Art. 519. - L'ordine degli studi (suddivisione degli insegnamenti nei due anni di corso) e l'ordine e modalita' degli esami verranno stabiliti nel manifesto annuale.  
-Art. 520. - A coloro che avranno superato l'esame di diploma verra' rilasciato il diploma, di specialista in Igiene.  
+6) Assistenza parascolastica;  
+7) Edilizia scolastica.  
+  
+Materie complementari:  
+  
+Una per il 1° anno ed una per il 2° anno, a scelta dell'iscritto.   
+1° Anno:  
+1) Chimica applicata all'igiene;  
+2) Igiene mentale;  
+3) Igiene del lavoro.  
+2° Anno:  
+1) Fisica applicata all'igiene;  
+2) Igiene militare;  
+3) Medicina sociale;  
+4) Idrologia.  
+Art. 645. - Gli insegnamenti sono svolti sotto forma di lezioni integrate da dimostrazioni pratiche, da esercitazioni e da visite ad impianti ed a strutture interessanti la specialita'.  
+Al termine di ciascun anno di corso gli allievi vengono ammessi alle prove, dietro dichiarazione scritta del direttore della scuola, sostenendo un esame per ogni singola prova prevista.  
+Alla fine del triennio dovranno sostenere l'esame di diploma consistente nella presentazione e discussione di una tesi scritta riguardante la specialita'.  
+Art. 646. Agli allievi che hanno ottenuto l'approvazione all'esame di diploma verra' rilasciato il diploma di specializzazione in igiene e medicina preventiva, con la indicazione del relativo orientamento prescelto, valido a tutti gli effetti.  
+Gli articoli da 647 a 653 relativi alla "Scuola di specializzazione in malattie infettive" sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in malattie infettive  
+  
+Art. 647. - La scuola di specializzazione in malattie infettive ha lo scopo di promuovere una approfondita conoscenza delle malattie umane da infezione e dei metodi di diagnosi, di profilassi e di cura delle stesse.  
+Essa conferisce il diploma di specialista in malattie infettive.  
+Art. 648. - Alla scuola sono ammessi i laureati in medicina e chirurgia in numero non superiore a venti per ciascun anno. Qualora gli aspiranti siano in numero maggiore, i candidati dovranno sostenere una prova scritta e l'ammissione sara' determinata in base alla graduatoria. Gli aspiranti che per titoli gia' acquisiti ritengano di poter essere ammessi al 2° anno di corso, dovranno presentare documentata richiesta.  
+Art. 649. - Il corso di studi ha la durata di 3 anni, durante i quali gli iscritti hanno l'obbligo di frequentare le lezioni, le esercitazioni pratiche ed i vari reparti degli istituti clinici.  
+Art. 650. - La firma di frequenza e' necessaria per l'ammissione agli esami di profitto che saranno sostenuti alla fine di ogni anno accademico per le discipline d'insegnamento annuale ed alla fine del triennio per la patologia e clinica delle malattie infettive.  
+Art. 651. - Alla fine del corso gli iscritti dovranno presentare e discutere una dissertazione scritta su di un argomento di malattie infettive. Per essere ammesso a questo esame di diploma, il candidato deve aver superato tutti gli esami di profitto.  
+Art. 652. - La scuola di specializzazione in malattie infettive comprende i seguenti insegnamenti:  
+1° Anno:  
+1) Epidemiologia generale delle malattie infettive;  
+2) Nozioni generali di batteriologia, di virologia, di parassitologia, di immunologia;  
+3) Tecnica batteriologica, virologica, parassitologica, immunologica applicata alle malattie infettive (1° anno).  
+2° Anno:  
+1) Patologia e clinica delle malattie infettive (1° anno);  
+2) Semeiotica e diagnostica delle malattie infettive;  
+3) Anatomia patologica delle malattie infettive;  
+4) Tecnica batteriologica, virologica, parassitologica, immunologica (2° anno).  
+3° Anno:  
+1) Patologia e clinica delle malattie infettive (2° anno);  
+2) Malattie infettive dei Paesi caldi;  
+3) Farmacologia e terapia generale delle malattie infettive;  
+4) Legislazione sanitaria e malattie infettive.  
+Art. 653. - L'ordine degli esami e' il seguente:  
+1° anno: un esame sulle discipline numeri 1) e 2);  
+2° anno: un esame sulle discipline numeri 2), 3), 4);  
+3° anno: un esame sulle discipline numeri 1), 2), 3), 4), ed un esame di diploma.  
+Gli articoli da 676 a 684 relativi alla "Scuola di specializzazione in criminologia clinica" che muta la denominazione in quella di "Scuola di specializzazione in criminologia clinica e psichiatria forense" sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in criminologia clinica e psichiatria forense  
+  
+Art. 676. - La scuola di specializzazione in criminologia clinica e psichiatria forense ha sede presso gli istituti di antropologia criminale e di medicina legale.  
+Art. 677. - Le iscrizioni al primo anno della scuola non possono superare il numero di trenta. Qualora il numero delle domande di iscrizione al 1° corso sia superiore al numero di trenta, la scelta degli iscritti sara' fatta in seguito a concorso interno per esami.  
+Gli aspiranti hanno l'obbligo di accertarsi presso l'istituto della eventuale data del concorso.  
+Art. 678. - Alla scuola sono ammessi oltre ai laureati in medicina e chirurgia i laureati in scienze biologiche, filosofia, giurisprudenza, scienze politiche e pedagogia.  
+La frequenza ai corsi e' obbligatoria.  
+La durata del corso e' di tre anni accademici.  
+Art. 679. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
+a) Criminologia generale, criminologia clinica e psichiatria forense (triennale);  
+b) Psicologia applicata alla criminologia (biennale);  
+c) Antropofenomenologia applicata alla criminologia (biennale);  
+d) Psicopatologia generale ed applicata (biennale);  
+e) Psichiatria generale ed applicata (biennale);  
+f) Biologia criminologica;  
+g) Nozioni di diritto penale di maggior rilievo psichiatrico forense;  
+h) Tipologie criminali: atto, comportamento e condotta antisociale;  
+i) Tecnica dell'interrogatorio ed elementi di tecnica della investigazione giudiziaria;  
+l) Profilassi criminale e trattamento del reo;  
+m) Perizia psichiatrica - Valutazione della pericolosita' sociale;  
+n) Diritto penitenziario e reinserimento sociale del reo.  
+Art. 680. - Il piano di studi della scuola e' il seguente:  
+1° Anno:  
+1) Criminologia generale, criminologia clinica e psichiatria forense;  
+2) Psicologia applicata alla criminologia;  
+3) Antropofenomenologia applicata alla criminologia;  
+4) Psicopatologia generale ed applicata;  
+5) Psichiatria generale ed applicata.  
+2° Anno:  
+6) Criminologia generale, criminologia clinica e psichiatria forense;  
+7) Psicologia applicata alla criminologia;  
+8) Antropofenomenologia applicata alla criminologia;  
+9) Psicopatologia generale ed applicata;  
+10) Psichiatria generale ed applicata;  
+11) Biologia criminologica;  
+12) Nozioni di diritto penale di maggior rilievo psichiatrico forense.  
+3° Anno:  
+13) Criminologia generale, criminologia clinica e psichiatria forense;  
+14) Tipologie criminali: atto, comportamento e condotta antisociale;  
+15) Tecnica dell'interrogatorio ed elementi di tecnica della investigazione giudiziaria;  
+16) Profilassi criminale e trattamento del reo;  
+17) Perizia psichiatrica - Valutazione della pericolosita' sociale;  
+18) Diritto penitenziario e reinserimento sociale del reo.  
+Art. 681. - Gli esami di cui alle lettere a), b), c) e d) debbono essere sostenuti alla fine di ogni rispettivo anno di corso.  
+Art. 682. - Per gli insegnamenti delle discipline specializzate sono previste esercitazioni pratiche presso istituti universitari e presso la scuola superiore di polizia.  
+I corsi saranno integrati da conferenze affidate a cultori italiani e stranieri delle singole discipline.  
+Art. 683. - Per conseguire il diploma di specialista in criminologia clinica e psichiatria forense, gli iscritti, al termine degli studi, dovranno presentare e discutere una dissertazione originale scritta e sostenere una prova pratica dinanzi ad una commissione formata da insegnanti della scuola.  
+Art. 684. - I candidati non riconosciuti idonei allo esame di diploma potranno ripresentarsi dopo un altro anno di frequenza alla scuola; se al secondo esame non sara' loro riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove.  
+Dopo l'art. 711 e con il relativo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della "Scuola di specializzazione in cardioangiochirurgia".  
+  
+Scuola di specializzazione in cardioangiochirurgia  
+  
+Art. 712. - Possono aspirare all'iscrizione alla scuola di specializzazione, in cardioangiochirurgia i laureati in medicina e chirurgia che siano in possesso del diploma di specializzazione in chirurgia generale o che dimostrino di aver frequentato a titolo ufficiale ed in modo continuativo un istituto universitario di chirurgia generale o una divisione ospedaliera di chirurgia generale per almeno due anni.  
+Il numero complessivo degli specializzandi non puo' essere superiore a ventiquattro.  
+L'ammissione alla scuola avverra' in seguito a concorso per titoli ed esami.  
+La data del concorso verra' notificata nell'albo della scuola in tempo utile.  
+La durata del corso e' di tre anni.  
+Non saranno consentite abbreviazioni di corso.  
+Art. 713. - La scuola ha sede presso l'istituto di chirurgia del cuore e dei grossi vasi.  
+Gli iscritti alla scuola hanno l'obbligo di internato presso il reparto cardiochirurgico (corsie, diagnostica, sala operatoria, trattamento intensivo) per tutta la durata dei corsi e di frequenza alle lezioni, conferenze speciali ed esercitazioni.  
+Alla fine di ciascun anno accademico gli iscritti devono sostenere gli esami di profitto nelle materie fondamentali il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo e, per gli iscritti all'ultimo anno, per l'ammissione all'esame di diploma.  
+Art. 714. - Gli insegnamenti fondamentali (annuali o biennali) sono i seguenti:  
+1° Anno:  
+Embriologia, anatomia descrittiva e topografica dello apparato cardiovascolare;  
+Fisiologia dell'apparato cardiovascolare;  
+Anatomia patologica dell'apparato cardiovascolare;  
+Semeiotica e diagnostica delle cardiopatie chirurgiche (clinica, strumentale, radiologica e di laboratorio) 1° anno;  
+Semeiotica e diagnostica angiologica;  
+Patologia e clinica cardiologica, 1° anno;  
+Principi e tecnica della circolazione extracorporea;  
+Nozioni di ingegneria medica.  
+2° Anno:  
+Semeiotica e diagnostica delle cardiopatie chirurgiche (clinica, strumentale, radiologica e di laboratorio), 2° anno;  
+Patologia e clinica cardiologica, 2° anno;  
+Patologia e clinica angiologica;  
+Terapia chirurgica e tecnica operatoria, 1° anno;  
+Anestesia e rianimazione.  
+3° Anno:  
+Patologia e clinica cardiologica pediatrica;  
+Terapia chirurgica e tecnica operatoria, 2° anno;  
+Trattamento intensivo.  
+L'esame di diploma consiste in una dissertazione scritta su argomento concordato con il direttore della scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1960
+### Dato a Roma, addi' 22 settembre 1972
 
-GRONCHI BOSCO
+LEONE SCALFARO
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 22 dicembre 1960
+Registrato alla Corte dei conti, addi' 5 dicembre 1972
 
-Atti del Governo, registro n. 132, foglio n. 126. - VILLA
+Atti del Governo, registro n. 253, foglio n. 99. - CARUSO

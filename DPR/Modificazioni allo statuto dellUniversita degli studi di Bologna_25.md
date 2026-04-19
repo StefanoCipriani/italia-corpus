@@ -1,83 +1,245 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1981 n. 853
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1972 n. 475
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1981 n. 853
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1972 n. 475
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+IL PRESIDENTE DELLA. REPUBBLICA
+-------------------------------
 
-Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla
------
+Sulla proposta del Ministro per la pubblica istruzione;
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 152. - All'elenco degli istituti annessi alla facolta' di agraria sono aggiunti quelli di:
+
+Zooeconomia;
+
+Produzioni foraggere;
+
+Edilizia zootecnica;
+
+Microbiologia e industrie agrarie.
+
+Art. 153. - All'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti quelli di:
+
+Pomologia (semestrale);
+
+Tecnica vivaistica (semestrale);
+
+Colture protette (semestrale);
+
+Tecnica di lotta alle malerbe (semestrale);
+
+Fisica del terreno agrario;
+
+Metodologia sperimentale di campo (semestrale);
+
+Patologia delle colture protette (semestrale);
+
+Batteriologia fitopatologica (semestrale);
+
+Fitofarmacia (semestrale);
+
+Nematologia agraria (semestrale);
+
+Entomologia forestale (semestrale);
+
+Acarologia agraria (semestrale);
+
+Microbiologia enologica (semestrale);
+
+Microbiologia industriale;
+
+Microbiologia degli alimenti (semestrale);
+
+Chimica analitica strumentale;
+
+Enologia (semestrale);
+
+Elettrificazione rurale (semestrale);
+
+Tecnica degli impianti di irrigazione (semestrale);
+
+Irrigazione e drenaggio (semestrale);
+
+Difesa del suolo (semestrale);
+
+Elementi di disegno tecnico (semestrale);
+
+Analisi contabile in agricoltura (semestrale);
+
+Ricerca operativa nell'azienda agraria (semestrale);
+
+Cooperazione ed associazione in agricoltura (semestrale);
+
+Programmazione agricola e riordinamento fondiario (semestrale);
+
+Politica agraria comunitaria (semestrale).
+
+Nel predetto corso di laurea l'insegnamento di "Zooculture" e' soppresso e sostituito da quello di "Coniglicoltura", animali da pelliccia e da laboratorio (semestrale).
+
+Nello stesso elenco del predetto corso di laurea gli insegnamenti complementari di "Ecologia" (semestrale); "Tecnica della meccanizzazione agricola" (semestrale); "Assistenza e divulgazione in agricoltura" sono abrogati e sostituiti rispettivamente dai seguenti:
+
+Ecologia vegetale agraria (semestrale);
+
+Tecnica della meccanizzazione agricola;
+
+Assistenza e divulgazione in agricoltura (semestrale).
+
+Nel predetto corso di laurea gli insegnamenti complementari di "Agricoltura tropicale e subtropicale" e di "Genetica" (semestrale) sono soppressi.
+
+Art. 161. - All'elenco degli insegnamenti complementari del corso di laurea in scienze della produzione animale sono aggiunti quelli di:
+
+21) Controllo ambientale e tecnica della climatizzazione degli allevamenti (semestrale);
+
+22) Organizzazione e gestione delle industrie zootecniche;
+
+23) Economia della commercializzazione dei prodotti zootecnici (semestrale);
+
+24) Chimica analitica strumentale (semestrale);
+
+25) Elementi di chimica fisica (semestrale);
+
+26) Enzimologia (semestrale);
+
+27) Principi di fisica tecnica (semestrale);
+
+28) Patologia generale comparata;
+
+29) Immunogenetica (semestrale);
+
+30) Igiene zootecnica.
+
+Nel predetto corso di laurea gli insegnamenti complementari di "Microbiologia dei prodotti zootecnici" e di "Edilizia zootecnica" da semestrali passano ad annuali.
+
+Art. 162, relativa alla facolta' di agraria e di medicina veterinaria, l'insegnamento di "Microbiologia dei prodotti zootecnici" (semestrale) e' soppresso.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 20 giugno 1972.
+
+LEONE
+
+MISASI
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 10 agosto 1972 Atti del Governo, registro n. 250, foglio n. 142. - VALENTINI
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA. REPUBBLICA   
   
-Lo statuto dell'Universita' di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-All'art. 457 sono aggiunti i seguenti commi:  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-La frequenza alle esercitazioni pratiche e' obbligatoria.  
-La frequenza e' regolamentata secondo modalita' stabilite dal consiglio della scuola e ratificate dal consiglio di facolta'.  
-L'art. 489, relativo alla scuola di specializzazione in odontostomatologia, e' sostituito dal seguente:  
+Decreta:   
   
-La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.  
-Gli esami di profitto teorici e pratici saranno sostenuti alla fine di ogni anno in un'unica sessione (ottobre).  
-Alla fine del terzo anno, dopo aver superato gli esami di profitto, gli allievi saranno ammessi a sostenere l'esame di diploma che consiste nella discussione orale di una dissertazione scritta, su un tema proposto in precedenza dall'insegnante della materia sulla quale verte l'argomento, e' approvato dal direttore della scuola.  
-Ogni iscritto deve provvedere al proprio corredo di strumenti.  
-L'art. 500, relativo alla scuola di specializzazione in chirurgia generale, e' sostituito dal seguente:  
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 152. - All'elenco degli istituti annessi alla facolta' di agraria sono aggiunti quelli di:   
   
-La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.  
-L'art. 501 e' sostituito dal seguente:  
+Zooeconomia;   
+Produzioni foraggere;   
+Edilizia zootecnica;   
+Microbiologia e industrie agrarie.   
   
-La frequenza e' regolamentata con modalita' stabilite dal consiglio della scuola e ratificate dal consiglio di facolta'.  
-L'art. 510, relativo alla scuola di specializzazione in medicina legale e delle assicurazioni, e' sostituito dal seguente:  
+Art. 153. - All'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti quelli di:   
   
-Sono disponibili dieci posti per ciascun anno di corso.  
-La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.  
-L'art. 519, relativo alla scuola di specializzazione in neurologia, viene sostituito dal seguente:  
+Pomologia (semestrale);   
+Tecnica vivaistica (semestrale);   
+Colture protette (semestrale);   
+Tecnica di lotta alle malerbe (semestrale);   
+Fisica del terreno agrario;   
+Metodologia sperimentale di campo (semestrale);   
+Patologia delle colture protette (semestrale);   
+Batteriologia fitopatologica (semestrale);   
+Fitofarmacia (semestrale);   
+Nematologia agraria (semestrale);   
+Entomologia forestale (semestrale);   
+Acarologia agraria (semestrale);   
+Microbiologia enologica (semestrale);   
+Microbiologia industriale;   
+Microbiologia degli alimenti (semestrale);   
+Chimica analitica strumentale;   
+Enologia (semestrale);   
+Elettrificazione rurale (semestrale);   
+Tecnica degli impianti di irrigazione (semestrale);   
+Irrigazione e drenaggio (semestrale);   
+Difesa del suolo (semestrale);   
+Elementi di disegno tecnico (semestrale);   
+Analisi contabile in agricoltura (semestrale);   
+Ricerca operativa nell'azienda agraria (semestrale);   
+Cooperazione ed associazione in agricoltura (semestrale);   
+Programmazione agricola e riordinamento fondiario (semestrale);   
+Politica agraria comunitaria (semestrale).   
   
-La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.  
-L'insegnamento avra' carattere eminentemente pratico-dimostrativo-sperimentale a mezzo di lezioni, colloqui, esercitazioni, sopra casi clinici e ricerche di laboratorio. Le ricerche cliniche ed individuali sia a scopo pratico, sia a scopo scientifico, dovranno essere approvate dal direttore dell'istituto.  
-Il superamento degli esami e' obbligatorio alla fine di ogni anno di corso per il passaggio all'anno successivo. Gli esami riguardano le singole materie di ciascun anno di corso. Gli allievi, oltre a dover superare gli esami speciali del predetto quarto anno, sono tenuti, per conseguire il diploma, a discutere una dissertazione scritta.  
-L'art. 545, relativo alla scuola di specializzazione in medicina interna, viene sostituito dal seguente:  
+Nel predetto corso di laurea l'insegnamento di "Zooculture" e' soppresso e sostituito da quello di "Coniglicoltura", animali da pelliccia e da laboratorio (semestrale).   
+Nello stesso elenco del predetto corso di laurea gli insegnamenti complementari di "Ecologia" (semestrale); "Tecnica della meccanizzazione agricola" (semestrale); "Assistenza e divulgazione in agricoltura" sono abrogati e sostituiti rispettivamente dai seguenti:   
   
-Sono disponibili dieci posti per ciascun anno di corso.  
-Il numero complessivo dei posti nei cinque anni di corso non dovra' superare i cinquanta iscritti.  
-La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.  
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
+Ecologia vegetale agraria (semestrale);   
+Tecnica della meccanizzazione agricola;   
+Assistenza e divulgazione in agricoltura (semestrale).   
+  
+Nel predetto corso di laurea gli insegnamenti complementari di "Agricoltura tropicale e subtropicale" e di "Genetica" (semestrale) sono soppressi.   
+Art. 161. - All'elenco degli insegnamenti complementari del corso di laurea in scienze della produzione animale sono aggiunti quelli di:   
+  
+21) Controllo ambientale e tecnica della climatizzazione degli allevamenti (semestrale);   
+22) Organizzazione e gestione delle industrie zootecniche;   
+23) Economia della commercializzazione dei prodotti zootecnici (semestrale);   
+24) Chimica analitica strumentale (semestrale);   
+25) Elementi di chimica fisica (semestrale);   
+26) Enzimologia (semestrale);   
+27) Principi di fisica tecnica (semestrale);   
+28) Patologia generale comparata;   
+29) Immunogenetica (semestrale);   
+30) Igiene zootecnica.   
+  
+Nel predetto corso di laurea gli insegnamenti complementari di "Microbiologia dei prodotti zootecnici" e di "Edilizia zootecnica" da semestrali passano ad annuali.   
+Art. 162, relativa alla facolta' di agraria e di medicina veterinaria, l'insegnamento di "Microbiologia dei prodotti zootecnici" (semestrale) e' soppresso.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 luglio 1981
+### Dato a Roma, addi' 20 giugno 1972.
 
-PERTINI BODRATO
+LEONE MISASI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 7 gennaio 1982
+Registrato alla Corte dei conti, addi' 10 agosto 1972
 
-Registro n. 1 Istruzione, foglio n. 126
+Atti del Governo, registro n. 250, foglio n. 142. - VALENTINI

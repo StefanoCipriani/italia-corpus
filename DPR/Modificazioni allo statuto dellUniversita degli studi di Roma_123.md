@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1955 n. 962
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 dicembre 1980 n. 1185
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1955 n. 962
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 dicembre 1980 n. 1185
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Roma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con regio decreto 20 aprile 3939, n. 1350, e modificato con i [regi decreti 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-26;1734); [26 ottobre 1940, n 2069](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2069); [4 maggio 1942, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-05-04;565); [24 luglio 1942, n. 949](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-24;949); [24 agosto 1942, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-08-24;1098); [24 ottobre 1942, n. 1672; con decreto luogotenenziale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo.luogotenenziale:1942-10-24;1672) [8 febbraio 1946, n. 242; con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-02-08;242) [12 aprile 1947, n. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-04-12;461) e [31 dicembre 1947, n. 1758 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-31;1758) [24 dicembre 1948, n. 1619](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-12-24;1619); [18 luglio 1949, n. 882](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-07-18;882); [20 ottobre 1949, n. 989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;989); [20 ottobre 1949, n. 991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;991); [20 ottobre 1949, n. 1178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;1178); [30 ottobre 1949, n. 1152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1152); [11 giugno 1950, n. 622](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-06-11;622); [16 novembre 1950, n. 1313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-11-16;1313); [11 maggio 1951, n. 653](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-05-11;653); [27 ottobre 1951, n. 1813](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1813); [14 aprile 1952, n. 888](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-04-14;888); [16 agosto 1952, n. 2589](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-08-16;2589); [19 settembre 1952, n. 1697](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-09-19;1697); [11 marzo 1953, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;565); [12 maggio 1953, n. 570](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-05-12;570); [25 agosto 1953, n. 834](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;834); [26 ottobre 1954, n. 1232](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-26;1232); [12 febbraio 1955, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-12;34); [30 giugno 1955, n. 694](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-06-30;694); [19 luglio 1955, n. 760](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-19;760) e [27 luglio 1955, n. 784](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-27;784);
+Veduto lo statuto dell'Universita' di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,2800 +20,351 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Roma e convalidati dal Consiglio universitario nazionale;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
 Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Facolta' di giurisprudenza.
-
-L'art. 17, relativo agli Istituti annessi alla Facolta' di giurisprudenza, e' abrogato e sostituito dal seguente.
-
-Sono annessi alla Facolta' di giurisprudenza i seguenti Istituti:
-
-1) Istituto di filosofia del diritto, per l'insegnamento di;
-
-Filosofia del diritto.
-
-2) Istituto di diritto penale, per i seguenti insegnamenti:
-
-Diritto penale;
-
-Procedura penale;
-
-Antropologia criminale.
-
-3) Istituto di diritto romano e di diritti dell'Oriente mediterraneo, per i seguenti insegnamenti:
-
-Diritto romano;
-
-Istituzioni di diritto romano;
-
-Storia del diritto romano;
-
-Diritto bizantino;
-
-Diritti greci;
-
-Esegesi delle fonti del diritto romano;
-
-Diritto musulmano;
-
-Diritti dell'Oriente mediterraneo;
-
-Papirologia giuridica.
-
-4) Istituto di storia del diritto italiano, per i seguenti insegnamenti:
-
-Storia del diritto italiano;
-
-Esegesi delle fonti del diritto italiano;
-
-Diritto comune.
-
-5) Istituto di diritto pubblico, per i seguenti insegnamenti:
-
-Diritto costituzionale;
-
-Diritto amministrativo;
-
-Diritto internazionale;
-
-Diritto ecclesiastico;
-
-Diritto canonico;
-
-Diritto dei territori non autonomi;
-
-Storia dei trattati e politica internazionale.
-
-6) Istituto di diritto privato e diritto processuale civile, per i seguenti insegnamenti:
-
-Istituzioni di diritto privato;
-
-Diritto civile;
-
-Diritto commerciale;
-
-Diritto del lavoro;
-
-Diritto processuale civile;
-
-Diritto agrario;
-
-Diritto minerario;
-
-Diritto industriale;
-
-Diritto privato comparato;
-
-Terminologia giuridica inglese;
-
-Terminologia giuridica francese;
-
-Terminologia giuridica tedesca;
-
-Terminologia giuridica russa.
-
-7) Istituto di diritto della navigazione, per l'insegnamento di diritto della navigazione.
-
-8) Istituto di economia e finanza, per i seguenti insegnamenti:
-
-Economia politica;
-
-Scienza delle finanze e diritto finanziario;
-
-Statistica;
-
-Demografia.
-
-9) Istituto di teoria dell'interpretazione, per i seguenti corsi:
-
-Trattazione di teoria ermeneutica, nell'ambito dei rispettivi corsi;
-
-Esegesi storiche e comparative di fonti di diritto;
-
-Esercitazioni su questioni d'interpretazione nascenti dalla successione di leggi nel tempo o dal concorso, nello spazio, di ordinamenti rilevanti l'uno per l'altro (internazionale e interno, nazionale e straniero), con particolare riguardo alla problematica del diritto Internazionale privato;
-
-Corsi di terminologia tecnico-giuridica di diritti stranieri (tedesco, anglo-americano, russo-sovietico, olandese, svedese, eventualmente anche francese, spagnolo, portoghese).
-
-Art. 18. - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti quelli di:
-
-Diritto dei territori non autonomi;
-
-Diritti greci;
-
-Terminologia giuridica inglese;
-
-Terminologia giuridica francese;
-
-Terminologia giuridica tedesca;
-
-Terminologia giuridica russa.
-
-Sono soppressi i seguenti insegnamenti complementari del corso di laurea medesimo:
-
-Diritto svizzero;
-
-Legislazione del lavoro;
-
-Diritto coloniale;
-
-Diritto greco.
-
-Art. 19. - E' abrogato e sostituito dal seguente:
-
-Ai fini della propedeuticita' degli esami dei diversi insegnamenti, vale la seguente tabella:
-
-Non si puo' essere am- se non si e' superato l'esame
-
-messi a sostenere di:
-
-l'esame di:
-
-Demografia Statistica
-
-Diritti dell'Oriente Istituzioni di diritto privato
-
-mediterraneo Istituzioni di diritto romano
-
-Storia del diritto romano
-
-Diritto agrario Istituzioni di diritto privato
-
-Istituzioni di diritto romano
-
-Diritto amministra- Diritto costituzionale
-
-tivo Istituzioni di diritto privato
-
-Diritto bizantino Istituzioni di diritto privato
-
-Istituzioni di diritto romano
-
-Storia del diritto romano
-
-Diritto civile Economia politica
-
-Istituzioni di diritto privato
-
-Istituzioni di diritto romano
-
-Diritto commerciale Economia politica
-
-Istituzioni di diritto privato
-
-Istituzioni di diritto romano
-
-Diritto comune Istituzioni di diritto privato
-
-Istituzioni di diritto romano
-
-Storia del diritto romano
-
-Diritto del lavoro Diritto commerciale
-
-Diritto costituzionale
-
-Economia politica
-
-Istituzioni di diritto privato
-
-Istituzioni di diritto romano
-
-Diritto della naviga- Economia politica
-
-zione Istituzioni di diritto privato
-
-Istituzioni di diritto romano
-
-Diritto ecclesiastico Diritto costituzionale
-
-Istituzioni di diritto privato
-
-Diritto industriale Economia politica
-
-Istituzioni di diritto privato
-
-Istituzioni di diritto romano
-
-Diritto internazionale Diritto costituzionale
-
-Istituzioni di diritto privato
-
-Diritto musulmano Istituzioni di diritto privato
-
-Istituzioni di diritto romano
-
-Diritto processuale Diritto commerciale
-
-civile Diritto costituzionale
-
-Istituzioni di diritto privato
-
-Diritto romano Istituzioni di diritto privato
-
-Istituzioni di diritto romano
-
-Storia del diritto romano
-
-Esegesi delle fonti Istituzioni di diritto privato
-
-del diritto romano Istituzioni di diritto romano
-
-Papirologia giuridica Istituzioni di diritto privato
-
-Istituzioni di diritto romano
-
-Storia del diritto romano
-
-Scienza delle finanze Economia politica
-
-e diritto finanzia-
-
-rio
-
-Storia del diritto i-
-
-taliano. Storia del diritto romano
-
-Art. 20. - E' abrogato e sostituito dal seguente:
-
-L'esame di laurea consiste nella discussione di una dissertazione scritta svolta su un tema scelto dal candidato in una delle materie di cui all'art. 18 e nella eventuale prova della preparazione giuridica generale del candidato.
-
-Facolta' di scienze politiche.
-
-L'art. 24, relativo agli Istituti annessi alla Facolta' di scienze politiche, e' abrogato e sostituito dal seguente:
-
-Sono annessi alla Facolta' di scienze politiche i seguenti Istituti:
-
-1) Istituto di studi economici finanziari e statistici, al quale sono attribuiti i seguenti insegnamenti:
-
-Contabilita' di Stato;.
-
-Demografia;
-
-Economia coloniale;
-
-Economia politica;
-
-Geografia, e politica economica;
-
-Politica economica e finanziaria;
-
-Scienza delle finanze;
-
-Statistica economica;
-
-Storia delle dottrine economiche;
-
-Storia e politica monetaria.
-
-2) Istituto di diritto pubblico e di dottrina, dello Stato, al quale sono attribuiti i seguenti insegnamenti:
-
-Diritto amministrativou';
-
-Diritto costituzionale italiano e comparato;
-
-Diritto del lavoro;
-
-Diritto internazionale;
-
-Dottrina dello Stato;
-
-Diritto pubblico romano;
-
-Filosofia del diritto;
-
-Istituzioni di diritto privato;
-
-Istituzioni di diritto pubblico;
-
-Sociologia;
-
-Istituzioni di diritto e politica penale;
-
-Organizzazione internazionale;
-
-Legislazione sociale.
-
-3) Istituto di studi storici, al quale sono attribuiti i seguenti insegnamenti:
-
-Storia antica;
-
-Storia medioevale;
-
-Storia delle dottrine politiche;
-
-Storia dei trattati e politica internazionale;
-
-Storia delle istituzioni politiche;
-
-Storia e politica coloniale;
-
-Storia del giornalismo;
-
-Storia e politica navale;
-
-Storia moderna;
-
-Geografia ed etnografia coloniale;
-
-Storia militare;
-
-Storia dei partiti e movimenti politici.
-
-Art. 25. - E' aggiunto il seguente comma:
-
-Occorre inoltre aver frequentato due corsi di esercitazioni, scelti fra i tre Istituti della Facolta' e l'Istituto di statistica della Facolta' di scienze statistiche demografiche ed attuariali.
-
-Art. 30. - E' abitato e sostituito dal seguente:
-
-I laureati in giurisprudenza, economia e commercio ed in scienze statistiche e demografiche o statistiche e attuariali - sempre che siano in possesso del diploma di maturita' classica, o scientifica - sono ammessi al terzo anno, con l'obbligo di seguire i corsi e superare gli esami negli insegnamenti fondamentali e nelle lingue moderne, con esclusione degli esami gia' superati per la precedente laurea. Resta, inoltre, fermo l'obbligo della frequenza a due Istituti.
-
-Per l'abbreviazione dei corsi ed il riconoscimento di esami in base ad altre lauree od a studi compiuti presso altri Istituti italiani o stranieri, decide la Facolta' caso per caso.
-
-Facolta' di economia e commercio.
-
-Art. 36. - E' abrogato e sostituito dal seguente:
-
-Presso la Facolta' sono costituiti i seguenti Istituti scientifici:
-
-1) Istituto di scienze economiche;
-
-2) Istituto di discipline giuridiche;
-
-3) Istituto di ragioneria e storia della ragioneria;
-
-4) Istituto di tecnica bancaria e professionale;
-
-5) Istituto di tecnica industriale e commerciale;
-
-6) Istituto di merceologia;
-
-7) Istituto di matematica finanziaria;
-
-8) Istituto di statistica;
-
-9) Istituto di geografia economica;
-
-10) Istituto di storia economica;
-
-11) Istituto di scienza delle finanze e diritto finanziario.
-
-Art. 38. - Agli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti quelli di:
-
-Economia e tecnica dell'assicurazione;
-
-Diritto civile;
-
-Contabilita' di Stato;
-
-Storia e critica delle dottrine economiche.
-
-Sono soppressi i seguenti insegnamenti complementari del corso di laurea medesimo:
-
-Legislazione bancaria;
-
-Economia e finanza delle imprese di assicurazione;
-
-Economia e tecnica dell'armamento e della navigazione;
-
-Tecnica del commercio internazionale;
-
-Tecnica commerciale dei prodotti agricoli;
-
-Storia delle esplorazioni geografiche;
-
-Economia montana e forestale.
-
-Art. 39. - E' abrogato e sostituito dal seguente:
-
-Ai fini della propedeuticita' degli esami dei diversi insegnamenti vale la seguente tabella:
-
-Non si puo' essere am- se non si e' superato l'esame
-
-messi a sostenere di:
-
-l'esame di:
-
-Diritto amministrati- Istituzioni di diritto privato
-
-vo Istituzioni di diritto pubblico
-
-Diritto commerciale Istituzioni di diritto privato
-
-Diritto del lavoro Istituzioni di diritto privato
-
-Istituzioni di diritto pubblico
-
-Diritto della naviga- Istituzioni di diritto privato
-
-zione
-
-Diritto industriale Istituzioni di diritto privato
-
-Diritto internaziona-
-
-le Istituzioni di diritto privato
-
-Istituzioni di diritto pubblico
-
-Economia e politica Economia politica I
-
-agraria Statistica I
-
-Economia politica II Economia politica I
-
-Matematica finanzia- Matematica finanziaria I
-
-ria II
-
-Politica economica e Economia politica I
-
-finanziaria Statistica I
-
-Ragioneria generale Ragioneria generale ed appli-
-
-ed applicata II cata I
-
-Scienza delle finanze Economia politica I
-
-e diritto finanzia- Statistica I
-
-rio
-
-Statistica II Statistica I
-
-Storia economica Economia politica I
-
-Statistica I
-
-Tecnica bancaria e Ragioneria generale ed appli-
-
-professionale cata I e II
-
-Tecnica industriale e Istituzioni di diritto privato
-
-commerciale Merceologia
-
-Art. 40. - E' abrogato e sostituito dal seguente:
-
-Gli esami di profitto sono ordinati in modo da accertare la maturita' intellettuale del candidato e la sua preparazione organica nella, materia sulla quale verte l'esame, e non si limitano alle nozioni impartite dal professore nel corso in cui lo studente e stato iscritto.
-
-L'esame di laurea consiste nella discussione di una dissertazione scritta svolta dal candidato sopra un temavertente su una delle materie fondamentali ad eccezione delle Istituzioni di diritto privato e di diritto pubblico e da lui scelta con l'approvazione del professore della materia, e nella discussione di una tesi orale scelta dalla Commissione esaminatrice tra due argomenti indicati dallo studente al momento della consegna della dissertazione scritta e approvati dal professore della - materia. Tali argomenti non debbono appartenere ad uno stesso gruppo di materie (economiche, giuridiche, tecniche).
-
-Qualora il candidato intenda scegliere per la dissertazione scritta, un tema vertente su una delle materie complementari, deve averne autorizzazione dal preside della Facolta', salvo che l'insegnamento sia tenuto da un professore di ruolo, e averne superato il relativo esame.
-
-Dopo l'art. 40 e' aggiunto il seguente nuovo articolo, con il conseguente spostamento della numerazione degli articoli successivi:
-
-Art. 41. - I laureati in giurisprudenza, scienze politiche, scienze statistiche, demografiche ed attuariali, sono ammessi al terzo anno di corso con l'esonero dalla frequenza del primo anno di lingue straniere. La Facolta' delibera caso per caso circa la convalida e l'esenzione degli esami comuni.
-
-Per le abbreviazioni di corso e il riconoscimento di esami in base ad altre lauree conseguite presso Universita' o Istituti superiori italiani e per i provenienti da altri corsi di laurea, decide la Facolta' caso per caso.
-
-Facolta' di scienze statistiche, demografiche ed attuariali.
-
-Art. 42. - Alla Facolta' di scienze statistiche, demografiche ed attuariali sono annessi l'Istituto di statistica, l'Istituto di statistica economica e l'Istituto di diritto delle assicurazioni.
-
-Facolta' di lettere e filosofia.
-
-Art. 52. - La denominazione della sezione "Topografia dell'Italia antica" presso l'Istituto di topografia antica e' mutata in quella di "Topografia antica".
-
-Art. 53. - Agli insegnamenti complementari del corso di laurea in lettere sono aggiunti quelli di:
-
-Filologia classica;
-
-Filosofia del linguaggio;
-
-Storia dell'arte contemporanea;
-
-Storia della critica d'arte.
-
-L'insegnamento complementare di "Filologia grecolatina" e' soppresso.
-
-Facolta' di Magistero.
-
-L'art. 59, relativo agli Istituti annessi alla Facolta', e' abrogato e sostituito dal seguente:
-
-Sono annessi alla Facolta' di Magistero i seguenti Istituti:
-
-Per il gruppo A (materie letterarie):
-
-Istituto di letteratura italiana - che e' anche ordinato a seminario ed ha lo scopo di addestrare i giovani negli studi filologici e critici relativi alla disciplina;
-
-Istituto di lingua e letteratura latina - che e' anche ordinato a seminario ed ha lo scopo di addestrare i giovani negli studi filologici e critici relativi alla disciplina;
-
-Istituto di scienze storiche che e' anche ordinato a seminario ed ha lo scopo di addestrare i giovani nelle ricerche storiche;
-
-Istituto di scienze geografiche e cartografiche - che e' anche ordinato a seminario ed ha lo scopo di addestrare i giovani nelle ricerche geografiche e cartografiche;
-
-Per il gruppo A (lingue e letterature straniere):
-
-Istituto di lingue e letterature straniere - che e' anche ordinato a seminario ed ha lo scopo di addestrare i giovani negli studi filologici e critici relativi alle lingue e letterature straniere (francese, inglese, tedesca, spagnola e russa) Per i gruppi B (pedagogia) e C (vigilanza scolastica):
-
-Istituto di filosofia e di storia della filosofia - che e' anche ordinato a seminario ed ha lo scopo di addestrare i giovani negli studi filosofici;
-
-Istituto di pedagogia - che e' anche ordinato a seminario ed ha lo scopo di addestrare i giovani negli studi pedagogici.
-
-Gli Istituiti suddetti utilizzano per il conseguimento dei loro fini l'opera dei professori titolari, dei liberi docenti, degli assistenti ordinari, straordinari e volontari, promovono ricerche e studi individuali e collettivi e ne curano eventualmente la pubblicazione.
-
-I requisiti per l'ammissione degli studenti agli Istituti sono stabiliti dal Direttore.
-
-Corso di laurea in materie letterarie.
-
-Art. 60. - Agli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti quelli di:
-
-Filosofia;
-
-Igiene;
-
-Psicologia;
-
-Lingua e letteratura moderna straniera non scelta come fondamentale (biennale);
-
-Letteratura latina medioevale;
-
-Storia della scuola;
-
-Lingua e letteratura greca;
-
-Psicologia dell'eta' evolutiva;
-
-Sociologia;
-
-Filosofia morale;
-
-Lingua e letteratura russa (biennale);
-
-Filologia slava per chi sceglie come materia complementare la lingua e letteratura russa;
-
-Filologia germanica per chi sceglie come materia complementare la lingua e letteratura tedesca.
-
-L'insegnamento complementare di "Biologia delle razze umane" e' soppresso.
-
-Corso di laurea in pedagogia.
-
-Art. 61. - Agli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti quelli di:
-
-Lingua e letteratura moderna straniera non scelta come fondamentale (biennale);
-
-Storia della grammatica e della lingua italiana;
-
-Letteratura latina medioevale;
-
-Storia della scuola;
-
-Lingua e letteratura greca;
-
-Psicologia dell'eta' evolutiva;
-
-Sociologia;
-
-Filosofia morale;
-
-Lingua e letteratura russa (biennale);
-
-Filologia slava per chi sceglie come materia complementare la lingua e letteratura russa;
-
-Filologia germanica per chi sceglie come materia complementare la lingua e letteratura tedesca.
-
-L'insegnamento complementare di "Biologia delle razze umane" e' soppresso.
-
-Corso di laurea in lingue e letterature straniere.
-
-Art. 62. - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di:
-
-Storia della grammatica e della lingua italiana;
-
-Psicologia;
-
-Igiene;
-
-Istituzioni di diritto pubblico e legislazione scolastica;
-
-Letteratura latina medioevale;
-
-Storia della scuola;
-
-Lingua e letteratura greca;
-
-Psicologia dell'eta' evolutiva;
-
-Filosofia morale;
-
-Filologia slava per chi sceglie come materia complementare la lingua e letteratura russa;
-
-Lingua e letteratura americana.
-
-Diploma di abilitazione alla vigilanza nelle scuole elementari.
-
-Art. 67. - E' abrogato e sostituito dal seguente:
-
-L'esame di laurea consiste nella presentazione di una dissertazione scritta e nella discussione orale di essa, la quale attesti anche una soddisfacente cultura generale.
-
-L'esame scritto di pedagogia per gli iscritti al corso per il conseguimento del diploma di abilitazione alla vigilanza nelle scuole elementari ha carattere di saggio finale ed il candidato non vi sara' ammesso se non avra' superato tutti gli esami del corso.
-
-Art. 69. - E' abrogato e sostituito dal seguente:
-
-Per il conseguimento della laurea in materie letterarie:
-
-1) i diplomati in pedagogia e filosofia secondo l'ordinamento stabilito con [regio decreto 20 marzo 1923, n. 736](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-20;736), i laureati in pedagogia, i diplomati per l'abilitazione alla vigilanza nelle scuole elementari a corso triennale, devono regolare le loro iscrizioni in modo che complessivamente fra il corso del primo titolo accademico e quello per il secondo essi seguano tre anni di italiano, latino, storia e geografia; inoltre i diplomati in filosofia e pedagogia sono tenuti a seguire un anno di tre corsi complementari a scelta tra quelli prescritti per la laurea in materie letterarie; i diplomati per la abilitazione alla vigilanza nelle scuole elementari devono sostenere inoltre una prova scritta di traduzione latina;
-
-2) i laureati in lingue e letterature straniere devono iscriversi al corso biennale di geografia, a corsi annuali di italiano, latino, storia, e ai corsi di pedagogia e storia della filosofia se non li abbiano gia' frequentati per il conseguimento del primo titolo.
-
-In ogni altro caso, per il conseguimento della laurea suddetta si segue un corso che sara' assegnato dalla Facolta' caso per caso.
-
-Coloro che abbiano ottenuto l'iscrizione al corso di laurea in materie letterarie in base alle disposizioni di cui al presente articolo, devono superare gli esami negli insegnamenti che sono tenuti a frequentare.
-
-Comunque prima dell'esame di laurea, occorre sempre sostenere e superare la prova scritta di cultura generale.
-
-Art. 70. - E' abrogato e sostituito dal seguente:
-
-Per il conseguimento della laurea in pedagogia:
-
-1) i diplomati per l'abilitazione alla vigilanza nelle scuole elementari a corso triennale devono seguire un corso annuale di storia della filosofia, uno biennale di filosofia e tre corsi annuali a scelta tra le materie complementari prescritte per la laurea in pedagogia (escluso Istituzioni di diritto pubblico); possono seguire un anno soltanto di filosofia coloro che durante il corso di vigilanza si siano iscritti ed abbiano frequentato detta materia per un anno; tutti devono, inoltre, sostenere una prova scritta di traduzione latina;
-
-2) i diplomati in materie letterarie, secondo l'ordinamento stabilito dal [regio decreto 13 marzo 1923, numero 736](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-13;736), devono seguire i corsi annuali di filosofia, pedagogia e di tre materie complementari a scelta tra quelle prescritte per la laurea in pedagogia (escluso Istituzioni di diritto pubblico);
-
-3) i laureati in materie letterarie sono tenuti a seguire un corso biennale di pedagogia e di filosofia e un corso annuale di storia della filosofia; qualora pero' essi, durante il corso per la laurea in materie letterarie, abbiano seguito l'insegnamento di pedagogia per due anni, possono nel nuovo corso per la laurea in pedagogia, limitare ad un solo anno l'iscrizione a tale materia; del pari non sono tenuti al corso annuale di storia della filosofia se, per la laurea in materie letterarie, abbiano per due anni seguito tale insegnamento.
-
-In ogni altro caso va seguito un corso da giudicarsi caso per caso dalla Facolta'.
-
-Coloro che abbiano ottenuto l'iscrizione al corso di laurea in pedagogia in base alle disposizioni di cui al presente articolo, devono superare gli esami negli insegnamenti che sono tenuti a frequentare.
-
-Comunque prima dell'esame di laurea in pedagogia occorre sempre sostenere e superare la prova scritta di cultura generale sulle discipline filosofiche.
-
-Art. 71. - E' abrogato e sostituito dal seguente:
-
-Per il conseguimento della laurea in lingue e letterature straniere:
-
-1) i diplomati per l'abilitazione alla vigilanza nelle scuole elementari a corso biennale e i diplomati in filosofia e pedagogia o in materie letterarie, secondo l'ordinamento anteriore a quello stabilito dal [regio decreto 13 marzo 1923, n. 736](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-13;736), devono seguire un corso che sara' assegnato dalla Facolta' caso per caso;
-
-2) tutti gli altri laureati e diplomati delle Facolta' o Istituti superiori di magistero possono conseguire la laurea, approfondendo lo studio della lingua gia' studiata durante il corso per il conseguimento del primo titolo, frequentando per due anni i corsi relativi alla lingua medesima, per due anni quelli relativi a un'altra lingua straniera, per un anno i corsi delle due altre lingue straniere, previste come materie fondamentali del corso di lingue e letterature straniere, filologia romanza, filologia germanica e geografia, se non li abbiano gia' frequentati durante il corso per il conseguimento del primo titolo.
-
-I diplomati per l'abilitazione alla vigilanza nelle scuole elementari devono inoltre sostenere una prova scritta di traduzione latina.
-
-Coloro che abbiano ottenuto l'iscrizione al corso di laurea in lingue e letterature straniere, in base alle disposizioni di cui al presente articolo, devono superare gli esami negli insegnamenti che sono tenuti a frequentare.
-
-Tutti sono tenuti, prima dell'esame di laurea, a sostenere una prova scritta di cultura generale nella lingua in cui intendono approfondire gli studi per il conseguimento della laurea.
-
-Facolta' di medicina e chirurgia.
-
-Art. 73. - Sono creati i seguenti altri Istituti:
-
-Istituto di anatomia chirurgica;
-
-Istituto di urologia;
-
-Istituto di medicina costituzionale ed endocrinologia;
-
-Istituto di antropologia criminale.
-
-Art. 77. - Dopo il comma secondo e' aggiunto il seguente:
-
-Nel caso di passaggio di studenti da altro corso di laurea a quello di medicina e chirurgia, si applicano i criteri indicati nel comma precedente.
-
-Facolta' di scienze matematiche, fisiche e naturali.
-
-Art. 80. - E' abrogato e sostituito dal seguente:
-
-La Facolta' comprende i seguenti Istituti:
-
-1) Istituto di chimica - suddiviso nei laboratori di:
-
-a) chimica analitica;
-
-b) chimica fisica ed elettrochimica;
-
-c) chimica generale inorganica;
-
-d) chimica organica.
-
-2) Istituto fisico - suddiviso dei laboratori di:
-
-a) fisica sperimentale;
-
-b) fisica teorica;
-
-c) spettroscopia;
-
-d) onde elettromagnetiche.
-
-3) Istituto di fisica superiore;
-
-4) Istituto di antropologia:
-
-5) Istituto di mineralogia e petrografia - suddiviso nei laboratori di: mineralogia e petrografia;
-
-6) Istituto di geologia e paleontologia - suddiviso nei laboratori di: geologia e paleontologia;
-
-7) Istituto di anatomia comparata;
-
-8) Istituto di zoologia;
-
-9) Istituto di fisiologia generale;
-
-10) Istituto di botanica con annesso orto;
-
-11) Osservatorio astronomico;
-
-12) Istituto di disegno;
-
-13) Istituto di matematica con annesso laboratorio di analisi superiore col compito di sottoporre ad analisi matematica quantitativa i problemi della scienza e delle tecniche, indirizzando anche ricerche proprie al perfezionamento ed alla creazione di metodi di analisi matematica rispondenti allo adempimento del detto compito;
-
-14) Istituto di geochimica;
-
-15) Istituto di scienza dell'alimentazione.
-
-Corso di laurea in chimica
-
-Art. 81. - Agli insegnamenti complementari del corso di laurea in chimica (indirizzo organico-biologico) sono aggiunti quelli di:
-
-Merceologia (chimica merceologica);
-
-Misure elettriche.
-
-Corso di laurea in fisica.
-
-Art. 83. - Agli insegnamenti complementari del corso di laurea in fisica sono aggiunti quelli di:
-
-Astronomia stellare;
-
-Istituzioni di fisica atomica;
-
-Sismologia;
-
-Calcolo numerico e grafico;
-
-Teoria delle funzioni;
-
-Elettronica.
-
-Art. 84. - E' abrogato e sostituito dal seguente:
-
-Ai fini della propedeuticita' degli esami dei diversi insegnamenti vale la seguente tabella:
-
-Non si puo' essere am- se non si e' superato l'esame
-
-messi a sostenere di:
-
-l'esame di:
-
-Analisi superiore Analisi matematica (algebrica
-
-Astronomia ed infinitesimale (biennale);
-
-Esercizi di fisica sperimen-
-
-tale I; Fisica sperimentale
-
-(biennale); Geometria anali-
-
-tica con elementi di proiet-
-
-tiva; Meccanica razionale con
-
-elementi di statica grafica
-
-Chimica fisica Analisi matematica (algebrica
-
-ed infinitesimale) (biennale)
-
-Chimica generale ed inorgani-
-
-con elementi di organica;
-
-Esercizi di fisica sperimen-
-
-tale I; Fisica sperimentale
-
-(biennale); Geometria anali-
-
-tica con elementi di proiet-
-
-tiva; Meccanica razionale con
-
-elementi di statica grafica
-
-Chimica organica Analisi matematica (algebrica
-
-Calcolo delle proba-- ed infinitesimale) (biennale)
-
-bilita' Esercizi di fisica sperimenta-
-
-Calcolo numerico e le I; Fisica sperimentale
-
-grafico (biennale); Geometria anali-
-
-Elettronica tica con elementi di proiet-
-
-Elettrotecnica tiva; Meccanica razionale con
-
-Esercizi di fisica elementi di statica grafica
-
-sperimentale II
-
-Esercizi di fisica
-
-sperimentale III
-
-Fisica matematica
-
-Fisica superiore
-
-Fisica tecnica
-
-Fisica teorica
-
-Fisica terrestre
-
-Geodesia
-
-Geometria differen
-
-ziale
-
-Meccanica statistica
-
-Meccanica superiore
-
-Mineralogia
-
-Onde elettromagneti-
-
-che
-
-Radioattivita'
-
-Spettroscopia
-
-Teoria delle funzioni
-
-Corso di laurea in scienze matematiche.
-
-Art. 85. - Agli insegnamenti complementari del corso di laurea in scienze matematiche sono aggiunti quelli di:
-
-Economia matematica;
-
-Astronomia stellare.
-
-Art. 86. - E' abrogato e sostituito dal seguente:
-
-Ai fini della propedeuticita' degli esami dei diversi insegnamenti vale la seguente tabella:
-
-Non si puo' essere am- se non si e' superato l'esame
-
-messi a sostenere di:
-
-l'esame di:
-
-Analisi superiore Analisi matematica (algebrica
-
-Astronomia ed infinitesimale) (biennale)
-
-Calcolo delle proba- Esercizi di fisica I; Fisica
-
-bilita' sperimentale (biennale); Geo-
-
-Calcoli numerici e metria analitica con elementi
-
-grafici di proiettiva e geometria de-
-
-Esercizi di fisica II scrittiva con disegno (bien-
-
-Fisica matematica nale); Meccanica razionale
-
-Fisica superiore con elementi di statica gra-
-
-Fisica teorica fica e disegno
-
-Geodesia
-
-Geometria algebrica
-
-Geometria differen- Analisi matematica (algebrica
-
-ziale ed infinitesimale) (biennale)
-
-Geometria superiore Esercizi di fisica I; Fisica
-
-Matematica attuariale sperimentale (biennale); Geo-
-
-e tecnica delle as- metria analitica con elementi
-
-sicurazioni libere di proiettiva e geometria de-
-
-sulla vita umana scrittiva con disegno (bien-
-
-Matematiche comple- nale); Meccanica razionale
-
-mentari con elemen-di statica grafica
-
-Matematiche superiori e disegno
-
-Meccanica superiore
-
-Storia delle matema-
-
-tiche
-
-Teoria dei numeri
-
-Teoria delle funzioni
-
-Topologia
-
-Corso di laurea in matematica e fisica.
-
-Art. 87. - Agli insegnamenti complementari del corso di laurea in matematica e fisica sono aggiunti quelli di:
-
-Geometria algebrica;
-
-Teoria dei numeri;
-
-Economia matematica;
-
-Astronomia stellare;
-
-Istituzioni di fisica atomica.
-
-Art. 88. - E' abrogato e sostituito dal seguente:
-
-Ai fini della propedeuticita' degli esami dei diversi insegnamenti vale la seguente tabella:
-
-Non si puo' essere am- se non si e' superato l'esame
-
-messi a sostenere di:
-
-l'esame di:
-
-Analisi superiore Analisi matematica (algebrica
-
-Astronomia ed infinitesimale) (biennale)
-
-Calcolo delle proba- Esercizi di fisica I; Fisica
-
-bilita' sperimentale (biennale); Geo-
-
-Calcoli numerici e gra- metria analitica con elementi
-
-fici di proiettiva e geometria de-
-
-Elettrotecnica scrittiva con disegno (bien-
-
-Esercizi di fisica II nale); Meccanica razionale
-
-Fisica matematica con elementi di statica gra-
-
-Fisica superiore fica e disegno
-
-Fisica tecnica
-
-Fisica teorica
-
-Fisica terrestre
-
-Geometria differen-
-
-ziale
-
-Geometria superiore
-
-Geodesia
-
-Istituzioni di fisica
-
-atomica
-
-Matematica attuaria-
-
-le e tecnica delle
-
-assicurazioni libe-
-
-re sulla vita umana
-
-Matematiche comple- Analisi matematica (algebrica
-
-mentari ed infinitesimale) (biennale)
-
-Matematiche superiori Esercizi di fisica I; Fisica
-
-sperimentale (biennale); Geo-
-
-Meccanica statistica metria analitica con elementi
-
-Meccanica superiore di proiettiva e geometria de-
-
-Mineralogia scrittiva con disegno (bien-
-
-Onde elettromagneti- nale); Meccanica razionale
-
-che con elementi di statica gra-
-
-Spettroscopia fica e disegno
-
-Storia delle matema-
-
-tiche
-
-Teoria dei numeri
-
-Teoria delle funzioni
-
-Topologia
-
-Corso di laurea in scienze naturali.
-
-Art. 89. - Agli insegnamenti complementari del corso di laurea in scienze naturali e' aggiunto quello di "Disegno a mano libera".
-
-Art. 90. - E' abrogato e sostituito dal seguente:
-
-Ai fini della propedeuticita' degli esami dei diversi insegnamenti vale la seguente tabella:
-
-Non si puo' essere am- se non si e' superato l'esame
-
-messi a sostenere di:
-
-l'esame di:
-
-Chimica biologica Chimica organica
-
-Chimica fisica Istituzioni di matematiche;
-
-Chimica generale ed inorgani-
-
-ca
-
-Entomologia agraria Zoologia
-
-Fisiologia generale I Anatomia umana; Chimica genera-
-
-le ed inorganica; Chimica or-
-
-ganica; Fisica; Zoologia; Bo-
-
-tanica
-
-Fisiologia genera- Fisiologia generale I
-
-le II
-
-Fisiologia vegetale Botanica
-
-Mineralogia Chimica generale ed inorganica;
-
-Chimica organica; Fisica; I-
-
-stituzioni di matematiche
-
-Paleontologia Zoologia; Botanica
-
-Patologia vegetale Botanica.
-
-Corso di laurea in scienze biologiche.
-
-Art. 91. - Agli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti: "paleontologia umana" e "disegno a mano libera".
-
-Art. 92. - E' abrogato e sostituito dal seguente:
-
-Ai fini della propedeuticita' degli esami dei diversi insegnamenti vale la seguente tabella:
-
-Non si puo' essere am- se non si e' superato l'esame
-
-messi a sostenere di:
-
-l'esame di:
-
-Anatomia comparata Istologia ed embriologia
-
-Chimica biologica Chimica organica
-
-Chimica fisica Istituzioni di matematiche;
-
-Chimica generale ed inorgani-
-
-ca
-
-Entomologia agraria Zoologia
-
-Fisiologia generale I Anatomia umana; Chimica genera-
-
-le ed inorganica; Chimica or-
-
-ganica; Fisica
-
-Fisiologia genera- Fisiologia generale I
-
-le II
-
-Fisiologia vegetale Botanica
-
-Paleontologia Zoologia e botanica
-
-Patologia generale Anatomia umana; Fisiologia ge-
-
-nerale I e II; Istologia ed
-
-embriologia
-
-Patologia vegetale Botanica
-
-Corso di laurea in scienze geologie.
-
-Art. 93. - Agli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti quelli di:
-
-Disegno a mano libera;
-
-Sismologia.
-
-Facolta' di farmacia.
-
-Art. 100. - E' abrogato e sostituito dal seguente:
-
-Alla Facolta' di farmacia e' annesso l'Istituto di chimica farmaceutica e tossicologica.
-
-Art. 101. - Agli insegnamenti complementari del corso di laurea in farmacia e aggiunto quello di "chimica tossicologica".
-
-Art. 102. - Il comma secondo e' abrogato e sostituito dal seguente:
-
-Ai fini della propedeuticita' degli esami dei diversi insegnamenti vale la seguente tabella:
-
-Non si puo' essere am- se non si e' superato l'esame
-
-messi a sostenere di:
-
-l'esame di:
-
-Biochimica applicata Chimica biologica; Chimica ge-
-
-nerale ed inorganica; Chimi-
-
-ca organica
-
-Chimica biologica Chimica generale ed inorganica;
-
-Chimica organica
-
-Chimica bromatologica Chimica organica
-
-Chimica di guerra Chimica organica
-
-Chimica farmaceutica Chimica organica
-
-e tossicologica
-
-Chimica organica con Chimica generale ed inorganica
-
-esercitazioni
-
-Esercizi di chimica Chimica generale ed inorganica
-
-farmaceutica e tos-
-
-sicologica I
-
-Esercizi di chimica Chimica organica; Esercizi di
-
-farmaceutica e tos- Chimica farmaceutica e tossi-
-
-sicologica II cologica I
-
-Esercizi di chimica Chimica farmaceutica e tossico-
-
-farmaceutica e tos- logica I e II; Esercizi di
-
-sicologica III Chimica farmaceutica e tossi-
-
-cologica II
-
-Farmacologia e farma- Anatomia umana; Chimica biolo-
-
-cognosia gica; Chimica farmaceutica e
-
-tossicologica I e II; Fisio-
-
-logia generale
-
-Fisiologia generale Anatomia umana
-
-Idrologia Chimica generale ed inorganica
-
-Tecnica e legislazione Chimica farmaceutica e tossico-
-
-farmaceutica logica I e II
-
-Igiene Fisiologia generale; Chimica
-
-generale ed inorganica; Chi-
-
-mica organica
-
-Chimica fisica Chimica generale ed inorganica
-
-Art. 104. - Il comma terzo e' abrogato e sostituito dal seguente:
-
-L'esame orale comprende la discussione di una dissertazione scritta, presentata almeno un mese prima degli esami, la discussione di due argomenti scelti dalla Commissione fra, i tre presentati dal candidato medesimo almeno tre mesi prima dell'esame, e una prova di cultura generale.
-
-Art. 105. - I commi primo e secondo sono abrogati e sostituiti dai seguenti:
-
-I laureati in chimica, in chimica industriale possono essere iscritti al terzo anno.
-
-I laureati in scienze naturali e scienze biologiche possono essere parimenti iscritti al terzo anno, purche' durante i predetti corsi di laurea abbiano frequentato le esercitazioni di chimica farmaceutica (analisi qualitativa).
-
-I laureati in medicina e chirurgia, in fisica, in matematica e fisica o in scienze matematiche possono essere iscritti al secondo anno.
-
-Facolta' di ingegneria.
-
-Art. 107. - La denominazione dell'Istituto di miniere e' mutata in quella di "Istituto di arte mineraria".
-
-Sono creati i seguenti Istituti:
-
-Istituto di costruzioni idrauliche, presso il quale si svolgono gl'insegnamenti di:
-
-a) costruzioni idrauliche;
-
-b) igiene applicata;
-
-c) impianti speciali idraulici.
-
-Istituto di geofisica mineraria, presso il quale si svolge l'insegnamento di geofisica mineraria.
-
-Art. 108. - L'insegnamento di "architettura tecnica" e' annuale anche per la sottosezione edile della sezione di ingegneria civile.
-
-Art. 111. - Alla dizione e sono insegnamenti complementari" va aggiunto "per tutte le sezioni".
-
-Agli insegnamenti complementari e' aggiunto quello di "Elettronica".
-
-Art. 114. - E' abrogato e sostituito dal seguente:
-
-Ai fini della propedeuticita' degli esami dei diversi insegnamenti, vale la seguente tabella:
-
-Non si puo' essere am- se non si e' superato l'esame
-
-messi a sostenere di:
-
-l'esame di:
-
-Architettura e compo- Architettura tecnica; Scienza
-
-sizione architetto- delle costruzioni
-
-nica I
-
-Architettura e compo- Architettura e composizione ar-
-
-sizione architetto- chitettonica I; Architettura
-
-nica II tecnica; Costruzioni di legno
-
-ferro, cemento armato; Scien
-
-za delle costruzioni
-
-Arte mineraria Elettrotecnica; Fisica tecnica;
-
-Idraulica; Macchine; Meccani-
-
-ca applicata alle macchine;
-
-Scienza delle costruzioni;
-
-Tecnologie generali
-
-Chimica applicata Fisica tecnica; Tecnologie ge-
-
-nerali
-
-Chimica industriale Chimica applicata; Chimica fi-
-
-sica (per la sola sottose-
-
-zione chimica); Fisica tec-
-
-nica; Tecnologie generali
-
-Comunicazioni elet- Elettrotecnica; Fisica tecnica
-
-triche
-
-Costruzione di mac- Fisica tecnica; Idraulica; Mac-
-
-chine chine; Meccanica applicata
-
-alle macchine; Scienza delle
-
-costruzioni; Tecnologie gene-
-
-rali
-
-Costruzione di mac- Elettrotecnica; Fisica tecnica;
-
-chine elettriche Idraulica; Macchine; Meccani-
-
-ca applicata alle macchine;
-
-Scienza delle costruzioni;
-
-Tecnologie generali
-
-Costruzioni di legno, Scienza delle costruzioni
-
-ferro, cemento ar-
-
-mato
-
-Costruzione di ponti Costruzioni di legno, ferro e
-
-cemento armato; Scienza delle
-
-costruzioni
-
-Costruzioni idrauli-
-
-che Costruzioni di legno, ferro e
-
-cemento armato; Idraulica;
-
-Scienza delle costruzioni
-
-Costruzioni marittime Costruzioni di legno, ferro e
-
-cemento armato; Idraulica;
-
-Scienza delle costruzioni
-
-Costruzioni stradali Costruzioni di legno, ferro e
-
-e ferroviarie cemento armato; Scienza del-
-
-le costruzioni; Topografia
-
-con elementi di geodesia
-
-Disegno di macchine e Meccanica applicata alle mac-
-
-progetti chine; Scienza delle costru-
-
-zioni
-
-Elettrochimica Chimica fisica
-
-Elettrotecnica Fisica tecnica
-
-Geofisica mineraria Fisica tecnica
-
-Geologia Petrografia
-
-Giacimenti minerari Petrografia
-
-Impianti industriali Chimica applicata; Chimica fi-
-
-chimici sica; Chimica industriale,
-
-elettrotecnica; Fisica tecni-
-
-ca; Idraulica; Macchine; mec-
-
-Meccanica applicata alle mac-
-
-chine; Scienza delle costru-
-
-zioni; Tecnologie generali
-
-Impianti industriali Elettrotecnica; Fisica tecnica;
-
-elettrici Idraulica, Macchine; Meccani-
-
-ca applicata alle macchine;
-
-Scienza delle costruzioni;
-
-Tecnologie generali
-
-Impianti industriali Elettrotecnica; Fisica tecnica;
-
-meccanici Idraulica; Macchine; Meccani-
-
-ca applicata alle macchine;
-
-Scienza delle costruzioni;
-
-Tecnologie generali
-
-Impianti speciali Fisica tecnica; Idraulica; Mac-
-
-idraulici chine; Meccanica applicata
-
-alle macchine; Scienza delle
-
-costruzioni; Tecnologie gene-
-
-rali
-
-Macchine Fisica tecnica; Idraulica; Mec-
-
-canica applicata alle macchi-
-
-chine; Scienza delle costru-
-
-zioni; Tecnologie generali
-
-Metallurgia e metal- Chimica applicata; Chimica fi-
-
-lografia sica (per le sottosezioni
-
-chimica e meccanica); Fisica
-
-tecnica; Tecnologie generali
-
-Misure elettriche Elettrotecnica; Fisica tecnica
-
-Paleontologia Petrografia
-
-Radiotecnica Elettrotecnica; Fisica tecnica
-
-Tecnica ed economia Elettrotecnica; Fisica tecnica;
-
-dei trasporti Idraulica; Macchine; Mecca-
-
-nica applicata alle macchine;
-
-Scienza delle costruzioni;
-
-Tecnologie generali
-
-Tecnologie speciali Chimica applicata; Chimica fi-
-
-chimiche sica; Fisica tecnica; Tecno-
-
-logie generali
-
-Tecnologie speciali Chimica fisica (per la sola
-
-(meccaniche) sottosezione meccanica); Fi-
-
-sica tecnica; Meccanica ap-
-
-plicata alle macchine; Scien-
-
-za delle costruzioni; Tecno-
-
-logie generali
-
-Trazione elettrica Elettrotecnica; Fisica tecnica;
-
-Idraulica; Macchine; Meccani-
-
-ca applicata alle macchine;
-
-Scienza delle costruzioni;
-
-Tecnica ed economia dei tra-
-
-sporti; Tecnologie generali
-
-Facolta' di architettura.
-
-Art. 126. - All'elenco degli Istituti della Facolta' di architettura e' aggiunto quello di:
-
-"Istituto di disegno e rilievo dei monumenti".
-
-Art. 127. - Agli insegnamenti complementari del biennio di studi propedeutici del corso di laurea in architettura e' aggiunto quello di "Plastica".
-
-E' soppresso dall'elenco degli insegnamenti medesimi quello di "Plastica ornamentale".
-
-Art. 128. - E' abrogato e sostituito dal seguente:
-
-Ai fini della propedeuticita' delle iscrizioni ai corsi e degli esami dei diversi insegnamenti, valgono le seguenti tabelle:
-
-Non si puo' essere ot- se non si e' superato l'esame
-
-tenere l'iscri- di:
-
-zione ai corsi di:
-
-Architettura degli Elementi di composizione
-
-interni arredamento
-
-e decorazione II
-
-Composizione archi- Elementi di composizione
-
-tettonica I
-
-Scienza delle costru- Scienza delle costruzioni I
-
-zioni II
-
-Tecnologia dei mate- Scienza delle costruzioni I
-
-riali e tecnica
-
-delle costruzioni
-
-Urbanistica II Elementi di composizione
-
-Non si puo' essere am- se non si e' superato l'esame
-
-messi a sostenere di:
-
-l'esame di:
-
-Analisi matematica e Analisi matematica e geometria
-
-geometria analitica analitica I
-
-II
-
-Applicazioni di geo- Geometria descrittiva ed ele-
-
-metria descrittiva menti di proiettiva
-
-Architettura degli Architettura degli interni, ar-
-
-interni, arredamen- redamento e decorazione I;
-
-to e decorazione II Elementi di composizione
-
-Composizione archi- Elementi di composizione; Ca-
-
-tettonica I ratteri distributivi degli e-
-
-difici
-
-Composizione archi- Composizione architettonica I
-
-tettonica II
-
-Disegno dal vero II Disegno dal vero I
-
-Elementi di architet- Elementi di architettura e ri-
-
-tura e rilievo dei lievo dei monumenti I
-
-monumenti II
-
-Estimo ed esercizio Caratteri distributivi degli
-
-professionale edifici
-
-Impianti tecnici Meccanica razionale e statica
-
-grafica; Fisica tecnica
-
-Mineralogia e geolo- Chimica generale ed applicata
-
-gia
-
-Restauro dei monumen- Caratteri stilistici e co-
-
-struttivi dei monumenti
-
-Scienza delle costru- Meccanica razionale e statica
-
-zioni I grafica
-
-Scienza delle costru- Scienza delle costruzioni I
-
-zioni II
-
-Storia dell'arte e Storia dell'arte e storia e
-
-storia e stili del- stili dell'architettura I
-
-l'architettura II
-
-Tecnologia dei mate- Scienza delle costruzioni I;
-
-riali e tecnica Impianti tecnici
-
-delle costruzioni
-
-Urbanistica II Urbanistica I; Caratteri di-
-
-stributivi degli edifici
-
-Art. 129. - Il comma secondo e' abrogato e sostituito dal seguente:
-
-Gli insegnamenti di materie compositive comprendono lezioni teorico-pratiche ed esercitazioni di prove estemporanee e si concludono coll'elaborazione di progetti aventi per oggetto temi peculiari di ciascuna materia.
-
-L'art. 131 e' abrogato.
-
-Art. 133. - E' abrogato e sostituito dal seguente:
-
-L'esame di laurea consiste:
-
-a) nella esecuzione di una prova estemporanea attinente alla scienza delle costruzioni, con durata di otto ore;
-
-b) nella esecuzione di due prove estemporanee di otto ore ciascuna su temi di composizione architettonica ed urbanistica scelti dal candidato su due temi che gli vengono proposte. Nei successivi cinque giorni il candidato sviluppa uno dei temi prescelti;
-
-c) in una discussione sui criteri artistici, scientifici e tecnici che hanno guidato il candidato nello svolgimento dei vari progetti eseguiti nel corso degli studi e segnatamente nel secondo anno di composizione architettonica.
-
-Scuola di ingegneria aeronautica.
-
-L'art. 135 e' abrogato e sostituito dai seguenti, con il conseguente spostamento della numerazione degli articoli successivi:
-
-Art. 135. - La scuola di ingegneria aeronautica ha per fine di promuovere il progresso della scienza e dell'arte aeronautica e di addestrare in questo ramo di studio coloro che siano gia' forniti di una laurea in ingegneria.
-
-Art. 136. - Gli studi della scuola di ingegneria aeronautica hanno la durata di un anno e si distinguono secondo la specializzazione "velivoli" o "motori". La specializzazione "velivoli" ha due indirizzi: "aerodinamica" e "struttura", la specializzazione "motori" ha pure due indirizzi: "missili" e "propulsori",
-
-Art. 137. - Al termine degli studi la scuola di ingegneria aeronautica conferisce la laurea in ingegneria aeronautica, con distinzione della specializzazione seguita: "velivoli" o "motori", prescelta dall'allievo.
-
-Art. 139 (gia' 137). - E' abrogato e sostituito dal seguente:
-
-Le materie d'insegnamento della scuola di ingegneria aeronautica sono le seguenti:
-
-1) meccanica del volo (con esercitazioni di laboratorio);
-
-2) aerodinamica (con esercitazioni di laboratorio);
-
-3) costruzioni aeronautiche (con esercitazioni di laboratorio);
-
-4) motori d'aviazione (con esercitazioni di laboratorio e sala montaggio);
-
-5) aerologia;
-
-6) dinamica dei motori;
-
-7) diritto aeronautico;
-
-8) elementi costruttivi dei velivoli;
-
-9) elementi costruttivi dei motori;
-
-10) tecnologia dei materiali dei velivoli (con esercitazioni di laboratorio);
-
-11) tecnologia dei materiali dei motori e chimica della combustione (con esercitazioni di laboratorio);
-
-12) complementi di termodinamica tecnica;
-
-13) accessori e istallazione dei motori;
-
-14) collaudo e strumenti di bordo;
-
-15) prove e collaudo dei motori;
-
-16) economia dei trasporti aerei;
-
-17) balistica ed armi aeronautiche;
-
-18) radiotecnica aeronautica.
-
-Tali insegnamenti sono divisi come appresso tra il ramo velivoli e il ramo motori:
-
-Ramo velivoli Ramo motori
-
-1. Meccanica del volo 1. Meccanica del volo (con
-
-(con esercitazioni esercitazioni e labora-
-
-e laboratorio) torio)
-
-2. Aerodinamica (con 2. Aerodinamica (con eser-
-
-(con esercitazioni citazioni e laborato-
-
-e laboratorio) rio)
-
-3. Costruzioni aero- 3. Costruzioni aeronauti-
-
-nautiche (con e- che (con esercitazioni
-
-sercitazioni e la- e laboratorio)
-
-boratorio)
-
-4. Motori d'aviazio- 4. Motori d'aviazione (con
-
-ne (con esercita- esercitazioni, labora-
-
-zioni, laboratorio torio e sala montaggio)
-
-e sala montaggio)
-
-5. Aerologia 5. Dinamica dei motori
-
-6. Diritto aeronauti- 6. Diritto aeronautico
-
-co
-
-7. Elementi costrut- 7. Elementi costruttivi
-
-tivi dei velivoli dei motori
-
-8. Tecnologia dei ma- 8. Tecnologia dei materia-
-
-teriali dei veli- li dei motori e chimica
-
-voli (con eserci- della combustione (con
-
-tazioni e labora- esercitazioni e labora-
-
-torio) torio)
-
-9. Economia dei tra- 9. Complementi di termodi-
-
-sporti aerei namica tecnica
-
-10. Accessori e in- 10. Accessori e installa-
-
-stallazioni dei zioni dei motori
-
-motori
-
-11. Balistica ed armi 11. Balistica ed armi aero-
-
-aeronautiche nautiche I
-
-12. Collaudo e stru- 12. Prova e collaudo dei
-
-menti di bordo motori
-
-13. Radiotecnica aero- 13. Radiotecnica aeronauti-
-
-nautica ca
-
-Dopo l'art. 144 (gia' 142), e' aggiunto il seguente nuovo articolo con il conseguente spostamento della numerazione degli articoli successivi:
-
-Art. 145. - Sono annessi alla scuola d'ingegneria aeronautica i seguenti Istituti:
-
-1) Istituto di aerodinamica, comprendente le cattedre di aerodinamica, meccanica del volo, aerologia;
-
-2) Istituto di costruzioni aeronautiche, comprendente le cattedre di costruzioni aeronautiche, elementi costruttivi dei velivoli, collaudo e strumenti di bordo;
-
-3) Istituto motori d'aviazione, comprendente le cattedre di motori di aviazione, elementi costruttivi del motori, accessori e istallazione dei motori, complementi di termodinamica tecnica, dinamica dei motori, prove e collaudo dei motori;
-
-4) Istituto di diritto aeronautico.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 4 ottobre 1955
-
-GRONCHI
-
-ROSSI
-
-Visto, il Guardasigilli: MORO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 29 ottobre 1955 Atti del Governo, registro n. 93, foglio n. 109. - CARLOMAGNO
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con regio decreto 20 aprile 3939, n. 1350, e modificato con i [regi decreti 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-26;1734); [26 ottobre 1940, n 2069](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2069); [4 maggio 1942, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-05-04;565); [24 luglio 1942, n. 949](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-24;949); [24 agosto 1942, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-08-24;1098); [24 ottobre 1942, n. 1672; con decreto luogotenenziale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo.luogotenenziale:1942-10-24;1672) [8 febbraio 1946, n. 242; con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-02-08;242) [12 aprile 1947, n. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-04-12;461) e [31 dicembre 1947, n. 1758 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-31;1758) [24 dicembre 1948, n. 1619](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-12-24;1619); [18 luglio 1949, n. 882](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-07-18;882); [20 ottobre 1949, n. 989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;989); [20 ottobre 1949, n. 991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;991); [20 ottobre 1949, n. 1178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;1178); [30 ottobre 1949, n. 1152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1152); [11 giugno 1950, n. 622](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-06-11;622); [16 novembre 1950, n. 1313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-11-16;1313); [11 maggio 1951, n. 653](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-05-11;653); [27 ottobre 1951, n. 1813](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1813); [14 aprile 1952, n. 888](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-04-14;888); [16 agosto 1952, n. 2589](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-08-16;2589); [19 settembre 1952, n. 1697](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-09-19;1697); [11 marzo 1953, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;565); [12 maggio 1953, n. 570](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-05-12;570); [25 agosto 1953, n. 834](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;834); [26 ottobre 1954, n. 1232](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-26;1232); [12 febbraio 1955, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-12;34); [30 giugno 1955, n. 694](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-06-30;694); [19 luglio 1955, n. 760](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-19;760) e [27 luglio 1955, n. 784](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-27;784);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Facolta' di giurisprudenza.  
-  
-L'art. 17, relativo agli Istituti annessi alla Facolta' di giurisprudenza, e' abrogato e sostituito dal seguente.  
-Sono annessi alla Facolta' di giurisprudenza i seguenti Istituti:  
-1) Istituto di filosofia del diritto, per l'insegnamento di;  
-Filosofia del diritto.  
-2) Istituto di diritto penale, per i seguenti insegnamenti:  
-Diritto penale;  
-Procedura penale;  
-Antropologia criminale.  
-3) Istituto di diritto romano e di diritti dell'Oriente mediterraneo, per i seguenti insegnamenti:  
-Diritto romano;  
-Istituzioni di diritto romano;  
-Storia del diritto romano;  
-Diritto bizantino;  
-Diritti greci;  
-Esegesi delle fonti del diritto romano;  
-Diritto musulmano;  
-Diritti dell'Oriente mediterraneo;  
-Papirologia giuridica.  
-4) Istituto di storia del diritto italiano, per i seguenti insegnamenti:  
-Storia del diritto italiano;  
-Esegesi delle fonti del diritto italiano;  
-Diritto comune.  
-5) Istituto di diritto pubblico, per i seguenti insegnamenti:  
-Diritto costituzionale;  
-Diritto amministrativo;  
-Diritto internazionale;  
-Diritto ecclesiastico;  
-Diritto canonico;  
-Diritto dei territori non autonomi;  
-Storia dei trattati e politica internazionale.  
-6) Istituto di diritto privato e diritto processuale civile, per i seguenti insegnamenti:  
-Istituzioni di diritto privato;  
-Diritto civile;  
-Diritto commerciale;  
-Diritto del lavoro;  
-Diritto processuale civile;  
-Diritto agrario;  
-Diritto minerario;  
-Diritto industriale;  
-Diritto privato comparato;  
-Terminologia giuridica inglese;  
-Terminologia giuridica francese;  
-Terminologia giuridica tedesca;  
-Terminologia giuridica russa.  
-7) Istituto di diritto della navigazione, per l'insegnamento di diritto della navigazione.  
-8) Istituto di economia e finanza, per i seguenti insegnamenti:  
-Economia politica;  
-Scienza delle finanze e diritto finanziario;  
-Statistica;  
-Demografia.  
-9) Istituto di teoria dell'interpretazione, per i seguenti corsi:  
-Trattazione di teoria ermeneutica, nell'ambito dei rispettivi corsi;  
-Esegesi storiche e comparative di fonti di diritto;  
-Esercitazioni su questioni d'interpretazione nascenti dalla successione di leggi nel tempo o dal concorso, nello spazio, di ordinamenti rilevanti l'uno per l'altro (internazionale e interno, nazionale e straniero), con particolare riguardo alla problematica del diritto Internazionale privato;  
-Corsi di terminologia tecnico-giuridica di diritti stranieri (tedesco, anglo-americano, russo-sovietico, olandese, svedese, eventualmente anche francese, spagnolo, portoghese).  
-  
-Art. 18. - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti quelli di:  
-Diritto dei territori non autonomi;  
-Diritti greci;  
-Terminologia giuridica inglese;  
-Terminologia giuridica francese;  
-Terminologia giuridica tedesca;  
-Terminologia giuridica russa.  
-Sono soppressi i seguenti insegnamenti complementari del corso di laurea medesimo:  
-Diritto svizzero;  
-Legislazione del lavoro;  
-Diritto coloniale;  
-Diritto greco.  
-  
-Art. 19. - E' abrogato e sostituito dal seguente:  
-Ai fini della propedeuticita' degli esami dei diversi insegnamenti, vale la seguente tabella:  
-Non si puo' essere am- se non si e' superato l'esame  
-messi a sostenere di:  
-l'esame di:  
-  
-Demografia Statistica  
-Diritti dell'Oriente Istituzioni di diritto privato  
-mediterraneo Istituzioni di diritto romano  
-Storia del diritto romano  
-Diritto agrario Istituzioni di diritto privato  
-Istituzioni di diritto romano  
-Diritto amministra- Diritto costituzionale  
-tivo Istituzioni di diritto privato  
-Diritto bizantino Istituzioni di diritto privato  
-Istituzioni di diritto romano  
-Storia del diritto romano  
-Diritto civile Economia politica  
-Istituzioni di diritto privato  
-Istituzioni di diritto romano  
-Diritto commerciale Economia politica  
-Istituzioni di diritto privato  
-Istituzioni di diritto romano  
-Diritto comune Istituzioni di diritto privato  
-Istituzioni di diritto romano  
-Storia del diritto romano  
-Diritto del lavoro Diritto commerciale  
-Diritto costituzionale  
-Economia politica  
-Istituzioni di diritto privato  
-Istituzioni di diritto romano  
-Diritto della naviga- Economia politica  
-zione Istituzioni di diritto privato  
-Istituzioni di diritto romano  
-Diritto ecclesiastico Diritto costituzionale  
-Istituzioni di diritto privato  
-Diritto industriale Economia politica  
-Istituzioni di diritto privato  
-Istituzioni di diritto romano  
-Diritto internazionale Diritto costituzionale  
-Istituzioni di diritto privato  
-Diritto musulmano Istituzioni di diritto privato  
-Istituzioni di diritto romano  
-Diritto processuale Diritto commerciale  
-civile Diritto costituzionale  
-Istituzioni di diritto privato  
-Diritto romano Istituzioni di diritto privato  
-Istituzioni di diritto romano  
-Storia del diritto romano  
-Esegesi delle fonti Istituzioni di diritto privato  
-del diritto romano Istituzioni di diritto romano  
-Papirologia giuridica Istituzioni di diritto privato  
-Istituzioni di diritto romano  
-Storia del diritto romano  
-Scienza delle finanze Economia politica  
-e diritto finanzia-  
-rio  
-Storia del diritto i-  
-taliano. Storia del diritto romano  
-  
-Art. 20. - E' abrogato e sostituito dal seguente:  
-L'esame di laurea consiste nella discussione di una dissertazione scritta svolta su un tema scelto dal candidato in una delle materie di cui all'art. 18 e nella eventuale prova della preparazione giuridica generale del candidato.  
-  
-Facolta' di scienze politiche.  
-  
-L'art. 24, relativo agli Istituti annessi alla Facolta' di scienze politiche, e' abrogato e sostituito dal seguente:  
-Sono annessi alla Facolta' di scienze politiche i seguenti Istituti:  
-1) Istituto di studi economici finanziari e statistici, al quale sono attribuiti i seguenti insegnamenti:  
-Contabilita' di Stato;.  
-Demografia;  
-Economia coloniale;  
-Economia politica;  
-Geografia, e politica economica;  
-Politica economica e finanziaria;  
-Scienza delle finanze;  
-Statistica economica;  
-Storia delle dottrine economiche;  
-Storia e politica monetaria.  
-2) Istituto di diritto pubblico e di dottrina, dello Stato, al quale sono attribuiti i seguenti insegnamenti:  
-Diritto amministrativou';  
-Diritto costituzionale italiano e comparato;  
-Diritto del lavoro;  
-Diritto internazionale;  
-Dottrina dello Stato;  
-Diritto pubblico romano;  
-Filosofia del diritto;  
-Istituzioni di diritto privato;  
-Istituzioni di diritto pubblico;  
-Sociologia;  
-Istituzioni di diritto e politica penale;  
-Organizzazione internazionale;  
-Legislazione sociale.  
-3) Istituto di studi storici, al quale sono attribuiti i seguenti insegnamenti:  
-Storia antica;  
-Storia medioevale;  
-Storia delle dottrine politiche;  
-Storia dei trattati e politica internazionale;  
-Storia delle istituzioni politiche;  
-Storia e politica coloniale;  
-Storia del giornalismo;  
-Storia e politica navale;  
-Storia moderna;  
-Geografia ed etnografia coloniale;  
-Storia militare;  
-Storia dei partiti e movimenti politici.  
-  
-Art. 25. - E' aggiunto il seguente comma:  
-Occorre inoltre aver frequentato due corsi di esercitazioni, scelti fra i tre Istituti della Facolta' e l'Istituto di statistica della Facolta' di scienze statistiche demografiche ed attuariali.  
-  
-Art. 30. - E' abitato e sostituito dal seguente:  
-I laureati in giurisprudenza, economia e commercio ed in scienze statistiche e demografiche o statistiche e attuariali - sempre che siano in possesso del diploma di maturita' classica, o scientifica - sono ammessi al terzo anno, con l'obbligo di seguire i corsi e superare gli esami negli insegnamenti fondamentali e nelle lingue moderne, con esclusione degli esami gia' superati per la precedente laurea. Resta, inoltre, fermo l'obbligo della frequenza a due Istituti.  
-Per l'abbreviazione dei corsi ed il riconoscimento di esami in base ad altre lauree od a studi compiuti presso altri Istituti italiani o stranieri, decide la Facolta' caso per caso.  
-  
-Facolta' di economia e commercio.  
-  
-Art. 36. - E' abrogato e sostituito dal seguente:  
-Presso la Facolta' sono costituiti i seguenti Istituti scientifici:  
-1) Istituto di scienze economiche;  
-2) Istituto di discipline giuridiche;  
-3) Istituto di ragioneria e storia della ragioneria;  
-4) Istituto di tecnica bancaria e professionale;  
-5) Istituto di tecnica industriale e commerciale;  
-6) Istituto di merceologia;  
-7) Istituto di matematica finanziaria;  
-8) Istituto di statistica;  
-9) Istituto di geografia economica;  
-10) Istituto di storia economica;  
-11) Istituto di scienza delle finanze e diritto finanziario.  
-  
-Art. 38. - Agli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti quelli di:  
-Economia e tecnica dell'assicurazione;  
-Diritto civile;  
-Contabilita' di Stato;  
-Storia e critica delle dottrine economiche.  
-Sono soppressi i seguenti insegnamenti complementari del corso di laurea medesimo:  
-Legislazione bancaria;  
-Economia e finanza delle imprese di assicurazione;  
-Economia e tecnica dell'armamento e della navigazione;  
-Tecnica del commercio internazionale;  
-Tecnica commerciale dei prodotti agricoli;  
-Storia delle esplorazioni geografiche;  
-Economia montana e forestale.  
-  
-Art. 39. - E' abrogato e sostituito dal seguente:  
-Ai fini della propedeuticita' degli esami dei diversi insegnamenti vale la seguente tabella:  
-Non si puo' essere am- se non si e' superato l'esame  
-messi a sostenere di:  
-l'esame di:  
-  
-Diritto amministrati- Istituzioni di diritto privato  
-vo Istituzioni di diritto pubblico  
-Diritto commerciale Istituzioni di diritto privato  
-Diritto del lavoro Istituzioni di diritto privato  
-Istituzioni di diritto pubblico  
-Diritto della naviga- Istituzioni di diritto privato  
-zione  
-Diritto industriale Istituzioni di diritto privato  
-Diritto internaziona-  
-le Istituzioni di diritto privato  
-Istituzioni di diritto pubblico  
-Economia e politica Economia politica I  
-agraria Statistica I  
-Economia politica II Economia politica I  
-Matematica finanzia- Matematica finanziaria I  
-ria II  
-Politica economica e Economia politica I  
-finanziaria Statistica I  
-Ragioneria generale Ragioneria generale ed appli-  
-ed applicata II cata I  
-Scienza delle finanze Economia politica I  
-e diritto finanzia- Statistica I  
-rio  
-Statistica II Statistica I  
-Storia economica Economia politica I  
-Statistica I  
-Tecnica bancaria e Ragioneria generale ed appli-  
-professionale cata I e II  
-Tecnica industriale e Istituzioni di diritto privato  
-commerciale Merceologia  
-  
-Art. 40. - E' abrogato e sostituito dal seguente:  
-Gli esami di profitto sono ordinati in modo da accertare la maturita' intellettuale del candidato e la sua preparazione organica nella, materia sulla quale verte l'esame, e non si limitano alle nozioni impartite dal professore nel corso in cui lo studente e stato iscritto.  
-L'esame di laurea consiste nella discussione di una dissertazione scritta svolta dal candidato sopra un temavertente su una delle materie fondamentali ad eccezione delle Istituzioni di diritto privato e di diritto pubblico e da lui scelta con l'approvazione del professore della materia, e nella discussione di una tesi orale scelta dalla Commissione esaminatrice tra due argomenti indicati dallo studente al momento della consegna della dissertazione scritta e approvati dal professore della - materia. Tali argomenti non debbono appartenere ad uno stesso gruppo di materie (economiche, giuridiche, tecniche).  
-Qualora il candidato intenda scegliere per la dissertazione scritta, un tema vertente su una delle materie complementari, deve averne autorizzazione dal preside della Facolta', salvo che l'insegnamento sia tenuto da un professore di ruolo, e averne superato il relativo esame.  
-Dopo l'art. 40 e' aggiunto il seguente nuovo articolo, con il conseguente spostamento della numerazione degli articoli successivi:  
-  
-Art. 41. - I laureati in giurisprudenza, scienze politiche, scienze statistiche, demografiche ed attuariali, sono ammessi al terzo anno di corso con l'esonero dalla frequenza del primo anno di lingue straniere. La Facolta' delibera caso per caso circa la convalida e l'esenzione degli esami comuni.  
-Per le abbreviazioni di corso e il riconoscimento di esami in base ad altre lauree conseguite presso Universita' o Istituti superiori italiani e per i provenienti da altri corsi di laurea, decide la Facolta' caso per caso.  
-  
-Facolta' di scienze statistiche, demografiche ed attuariali.  
-  
-Art. 42. - Alla Facolta' di scienze statistiche, demografiche ed attuariali sono annessi l'Istituto di statistica, l'Istituto di statistica economica e l'Istituto di diritto delle assicurazioni.  
-  
-Facolta' di lettere e filosofia.  
-  
-Art. 52. - La denominazione della sezione "Topografia dell'Italia antica" presso l'Istituto di topografia antica e' mutata in quella di "Topografia antica".  
-  
-Art. 53. - Agli insegnamenti complementari del corso di laurea in lettere sono aggiunti quelli di:  
-Filologia classica;  
-Filosofia del linguaggio;  
-Storia dell'arte contemporanea;  
-Storia della critica d'arte.  
-L'insegnamento complementare di "Filologia grecolatina" e' soppresso.  
-  
-Facolta' di Magistero.  
-  
-L'art. 59, relativo agli Istituti annessi alla Facolta', e' abrogato e sostituito dal seguente:  
-Sono annessi alla Facolta' di Magistero i seguenti Istituti:  
-Per il gruppo A (materie letterarie):  
-Istituto di letteratura italiana - che e' anche ordinato a seminario ed ha lo scopo di addestrare i giovani negli studi filologici e critici relativi alla disciplina;  
-Istituto di lingua e letteratura latina - che e' anche ordinato a seminario ed ha lo scopo di addestrare i giovani negli studi filologici e critici relativi alla disciplina;  
-Istituto di scienze storiche che e' anche ordinato a seminario ed ha lo scopo di addestrare i giovani nelle ricerche storiche;  
-Istituto di scienze geografiche e cartografiche - che e' anche ordinato a seminario ed ha lo scopo di addestrare i giovani nelle ricerche geografiche e cartografiche;  
-Per il gruppo A (lingue e letterature straniere):  
-Istituto di lingue e letterature straniere - che e' anche ordinato a seminario ed ha lo scopo di addestrare i giovani negli studi filologici e critici relativi alle lingue e letterature straniere (francese, inglese, tedesca, spagnola e russa) Per i gruppi B (pedagogia) e C (vigilanza scolastica):  
-Istituto di filosofia e di storia della filosofia - che e' anche ordinato a seminario ed ha lo scopo di addestrare i giovani negli studi filosofici;  
-Istituto di pedagogia - che e' anche ordinato a seminario ed ha lo scopo di addestrare i giovani negli studi pedagogici.  
-Gli Istituiti suddetti utilizzano per il conseguimento dei loro fini l'opera dei professori titolari, dei liberi docenti, degli assistenti ordinari, straordinari e volontari, promovono ricerche e studi individuali e collettivi e ne curano eventualmente la pubblicazione.  
-I requisiti per l'ammissione degli studenti agli Istituti sono stabiliti dal Direttore.  
-  
-Corso di laurea in materie letterarie.  
-  
-Art. 60. - Agli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti quelli di:  
-Filosofia;  
-Igiene;  
-Psicologia;  
-Lingua e letteratura moderna straniera non scelta come fondamentale (biennale);  
-Letteratura latina medioevale;  
-Storia della scuola;  
-Lingua e letteratura greca;  
-Psicologia dell'eta' evolutiva;  
-Sociologia;  
-Filosofia morale;  
-Lingua e letteratura russa (biennale);  
-Filologia slava per chi sceglie come materia complementare la lingua e letteratura russa;  
-Filologia germanica per chi sceglie come materia complementare la lingua e letteratura tedesca.  
-L'insegnamento complementare di "Biologia delle razze umane" e' soppresso.  
-  
-Corso di laurea in pedagogia.  
-  
-Art. 61. - Agli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti quelli di:  
-Lingua e letteratura moderna straniera non scelta come fondamentale (biennale);  
-Storia della grammatica e della lingua italiana;  
-Letteratura latina medioevale;  
-Storia della scuola;  
-Lingua e letteratura greca;  
-Psicologia dell'eta' evolutiva;  
-Sociologia;  
-Filosofia morale;  
-Lingua e letteratura russa (biennale);  
-Filologia slava per chi sceglie come materia complementare la lingua e letteratura russa;  
-Filologia germanica per chi sceglie come materia complementare la lingua e letteratura tedesca.  
-L'insegnamento complementare di "Biologia delle razze umane" e' soppresso.  
-  
-Corso di laurea in lingue e letterature straniere.  
-  
-Art. 62. - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di:  
-Storia della grammatica e della lingua italiana;  
-Psicologia;  
-Igiene;  
-Istituzioni di diritto pubblico e legislazione scolastica;  
-Letteratura latina medioevale;  
-Storia della scuola;  
-Lingua e letteratura greca;  
-Psicologia dell'eta' evolutiva;  
-Filosofia morale;  
-Filologia slava per chi sceglie come materia complementare la lingua e letteratura russa;  
-Lingua e letteratura americana.  
-Diploma di abilitazione alla vigilanza nelle scuole elementari.  
-  
-Art. 67. - E' abrogato e sostituito dal seguente:  
-L'esame di laurea consiste nella presentazione di una dissertazione scritta e nella discussione orale di essa, la quale attesti anche una soddisfacente cultura generale.  
-L'esame scritto di pedagogia per gli iscritti al corso per il conseguimento del diploma di abilitazione alla vigilanza nelle scuole elementari ha carattere di saggio finale ed il candidato non vi sara' ammesso se non avra' superato tutti gli esami del corso.  
-  
-Art. 69. - E' abrogato e sostituito dal seguente:  
-Per il conseguimento della laurea in materie letterarie:  
-1) i diplomati in pedagogia e filosofia secondo l'ordinamento stabilito con [regio decreto 20 marzo 1923, n. 736](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-20;736), i laureati in pedagogia, i diplomati per l'abilitazione alla vigilanza nelle scuole elementari a corso triennale, devono regolare le loro iscrizioni in modo che complessivamente fra il corso del primo titolo accademico e quello per il secondo essi seguano tre anni di italiano, latino, storia e geografia; inoltre i diplomati in filosofia e pedagogia sono tenuti a seguire un anno di tre corsi complementari a scelta tra quelli prescritti per la laurea in materie letterarie; i diplomati per la abilitazione alla vigilanza nelle scuole elementari devono sostenere inoltre una prova scritta di traduzione latina;  
-2) i laureati in lingue e letterature straniere devono iscriversi al corso biennale di geografia, a corsi annuali di italiano, latino, storia, e ai corsi di pedagogia e storia della filosofia se non li abbiano gia' frequentati per il conseguimento del primo titolo.  
-In ogni altro caso, per il conseguimento della laurea suddetta si segue un corso che sara' assegnato dalla Facolta' caso per caso.  
-Coloro che abbiano ottenuto l'iscrizione al corso di laurea in materie letterarie in base alle disposizioni di cui al presente articolo, devono superare gli esami negli insegnamenti che sono tenuti a frequentare.  
-Comunque prima dell'esame di laurea, occorre sempre sostenere e superare la prova scritta di cultura generale.  
-  
-Art. 70. - E' abrogato e sostituito dal seguente:  
-Per il conseguimento della laurea in pedagogia:  
-1) i diplomati per l'abilitazione alla vigilanza nelle scuole elementari a corso triennale devono seguire un corso annuale di storia della filosofia, uno biennale di filosofia e tre corsi annuali a scelta tra le materie complementari prescritte per la laurea in pedagogia (escluso Istituzioni di diritto pubblico); possono seguire un anno soltanto di filosofia coloro che durante il corso di vigilanza si siano iscritti ed abbiano frequentato detta materia per un anno; tutti devono, inoltre, sostenere una prova scritta di traduzione latina;  
-2) i diplomati in materie letterarie, secondo l'ordinamento stabilito dal [regio decreto 13 marzo 1923, numero 736](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-13;736), devono seguire i corsi annuali di filosofia, pedagogia e di tre materie complementari a scelta tra quelle prescritte per la laurea in pedagogia (escluso Istituzioni di diritto pubblico);  
-3) i laureati in materie letterarie sono tenuti a seguire un corso biennale di pedagogia e di filosofia e un corso annuale di storia della filosofia; qualora pero' essi, durante il corso per la laurea in materie letterarie, abbiano seguito l'insegnamento di pedagogia per due anni, possono nel nuovo corso per la laurea in pedagogia, limitare ad un solo anno l'iscrizione a tale materia; del pari non sono tenuti al corso annuale di storia della filosofia se, per la laurea in materie letterarie, abbiano per due anni seguito tale insegnamento.  
-In ogni altro caso va seguito un corso da giudicarsi caso per caso dalla Facolta'.  
-Coloro che abbiano ottenuto l'iscrizione al corso di laurea in pedagogia in base alle disposizioni di cui al presente articolo, devono superare gli esami negli insegnamenti che sono tenuti a frequentare.  
-Comunque prima dell'esame di laurea in pedagogia occorre sempre sostenere e superare la prova scritta di cultura generale sulle discipline filosofiche.  
-  
-Art. 71. - E' abrogato e sostituito dal seguente:  
-Per il conseguimento della laurea in lingue e letterature straniere:  
-1) i diplomati per l'abilitazione alla vigilanza nelle scuole elementari a corso biennale e i diplomati in filosofia e pedagogia o in materie letterarie, secondo l'ordinamento anteriore a quello stabilito dal [regio decreto 13 marzo 1923, n. 736](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-13;736), devono seguire un corso che sara' assegnato dalla Facolta' caso per caso;  
-2) tutti gli altri laureati e diplomati delle Facolta' o Istituti superiori di magistero possono conseguire la laurea, approfondendo lo studio della lingua gia' studiata durante il corso per il conseguimento del primo titolo, frequentando per due anni i corsi relativi alla lingua medesima, per due anni quelli relativi a un'altra lingua straniera, per un anno i corsi delle due altre lingue straniere, previste come materie fondamentali del corso di lingue e letterature straniere, filologia romanza, filologia germanica e geografia, se non li abbiano gia' frequentati durante il corso per il conseguimento del primo titolo.  
-I diplomati per l'abilitazione alla vigilanza nelle scuole elementari devono inoltre sostenere una prova scritta di traduzione latina.  
-Coloro che abbiano ottenuto l'iscrizione al corso di laurea in lingue e letterature straniere, in base alle disposizioni di cui al presente articolo, devono superare gli esami negli insegnamenti che sono tenuti a frequentare.  
-Tutti sono tenuti, prima dell'esame di laurea, a sostenere una prova scritta di cultura generale nella lingua in cui intendono approfondire gli studi per il conseguimento della laurea.  
-Facolta' di medicina e chirurgia.  
-  
-Art. 73. - Sono creati i seguenti altri Istituti:  
-Istituto di anatomia chirurgica;  
-Istituto di urologia;  
-Istituto di medicina costituzionale ed endocrinologia;  
-Istituto di antropologia criminale.  
-  
-Art. 77. - Dopo il comma secondo e' aggiunto il seguente:  
-Nel caso di passaggio di studenti da altro corso di laurea a quello di medicina e chirurgia, si applicano i criteri indicati nel comma precedente.  
-  
-Facolta' di scienze matematiche, fisiche e naturali.  
-  
-Art. 80. - E' abrogato e sostituito dal seguente:  
-La Facolta' comprende i seguenti Istituti:  
-1) Istituto di chimica - suddiviso nei laboratori di:  
-a) chimica analitica;  
-b) chimica fisica ed elettrochimica;  
-c) chimica generale inorganica;  
-d) chimica organica.  
-2) Istituto fisico - suddiviso dei laboratori di:  
-a) fisica sperimentale;  
-b) fisica teorica;  
-c) spettroscopia;  
-d) onde elettromagnetiche.  
-3) Istituto di fisica superiore;  
-4) Istituto di antropologia:  
-5) Istituto di mineralogia e petrografia - suddiviso nei laboratori di: mineralogia e petrografia;  
-6) Istituto di geologia e paleontologia - suddiviso nei laboratori di: geologia e paleontologia;  
-7) Istituto di anatomia comparata;  
-8) Istituto di zoologia;  
-9) Istituto di fisiologia generale;  
-10) Istituto di botanica con annesso orto;  
-11) Osservatorio astronomico;  
-12) Istituto di disegno;  
-13) Istituto di matematica con annesso laboratorio di analisi superiore col compito di sottoporre ad analisi matematica quantitativa i problemi della scienza e delle tecniche, indirizzando anche ricerche proprie al perfezionamento ed alla creazione di metodi di analisi matematica rispondenti allo adempimento del detto compito;  
-14) Istituto di geochimica;  
-15) Istituto di scienza dell'alimentazione.  
-  
-Corso di laurea in chimica  
-  
-Art. 81. - Agli insegnamenti complementari del corso di laurea in chimica (indirizzo organico-biologico) sono aggiunti quelli di:  
-Merceologia (chimica merceologica);  
-Misure elettriche.  
-  
-Corso di laurea in fisica.  
-  
-Art. 83. - Agli insegnamenti complementari del corso di laurea in fisica sono aggiunti quelli di:  
-Astronomia stellare;  
-Istituzioni di fisica atomica;  
-Sismologia;  
-Calcolo numerico e grafico;  
-Teoria delle funzioni;  
-Elettronica.  
-  
-Art. 84. - E' abrogato e sostituito dal seguente:  
-Ai fini della propedeuticita' degli esami dei diversi insegnamenti vale la seguente tabella:  
-Non si puo' essere am- se non si e' superato l'esame  
-messi a sostenere di:  
-l'esame di:  
-  
-Analisi superiore Analisi matematica (algebrica  
-Astronomia ed infinitesimale (biennale);  
-Esercizi di fisica sperimen-  
-tale I; Fisica sperimentale  
-(biennale); Geometria anali-  
-tica con elementi di proiet-  
-tiva; Meccanica razionale con  
-elementi di statica grafica  
-Chimica fisica Analisi matematica (algebrica  
-ed infinitesimale) (biennale)  
-Chimica generale ed inorgani-  
-con elementi di organica;  
-Esercizi di fisica sperimen-  
-tale I; Fisica sperimentale  
-(biennale); Geometria anali-  
-tica con elementi di proiet-  
-tiva; Meccanica razionale con  
-elementi di statica grafica  
-Chimica organica Analisi matematica (algebrica  
-Calcolo delle proba-- ed infinitesimale) (biennale)  
-bilita' Esercizi di fisica sperimenta-  
-Calcolo numerico e le I; Fisica sperimentale  
-grafico (biennale); Geometria anali-  
-Elettronica tica con elementi di proiet-  
-Elettrotecnica tiva; Meccanica razionale con  
-Esercizi di fisica elementi di statica grafica  
-sperimentale II  
-Esercizi di fisica  
-sperimentale III  
-Fisica matematica  
-Fisica superiore  
-Fisica tecnica  
-Fisica teorica  
-Fisica terrestre  
-Geodesia  
-Geometria differen  
-ziale  
-Meccanica statistica  
-Meccanica superiore  
-Mineralogia  
-Onde elettromagneti-  
-che  
-Radioattivita'  
-Spettroscopia  
-Teoria delle funzioni  
-  
-Corso di laurea in scienze matematiche.  
-  
-Art. 85. - Agli insegnamenti complementari del corso di laurea in scienze matematiche sono aggiunti quelli di:  
-Economia matematica;  
-Astronomia stellare.  
-  
-Art. 86. - E' abrogato e sostituito dal seguente:  
-Ai fini della propedeuticita' degli esami dei diversi insegnamenti vale la seguente tabella:  
-Non si puo' essere am- se non si e' superato l'esame  
-messi a sostenere di:  
-l'esame di:  
-  
-Analisi superiore Analisi matematica (algebrica  
-Astronomia ed infinitesimale) (biennale)  
-Calcolo delle proba- Esercizi di fisica I; Fisica  
-bilita' sperimentale (biennale); Geo-  
-Calcoli numerici e metria analitica con elementi  
-grafici di proiettiva e geometria de-  
-Esercizi di fisica II scrittiva con disegno (bien-  
-Fisica matematica nale); Meccanica razionale  
-Fisica superiore con elementi di statica gra-  
-Fisica teorica fica e disegno  
-Geodesia  
-Geometria algebrica  
-Geometria differen- Analisi matematica (algebrica  
-ziale ed infinitesimale) (biennale)  
-Geometria superiore Esercizi di fisica I; Fisica  
-Matematica attuariale sperimentale (biennale); Geo-  
-e tecnica delle as- metria analitica con elementi  
-sicurazioni libere di proiettiva e geometria de-  
-sulla vita umana scrittiva con disegno (bien-  
-Matematiche comple- nale); Meccanica razionale  
-mentari con elemen-di statica grafica  
-Matematiche superiori e disegno  
-Meccanica superiore  
-Storia delle matema-  
-tiche  
-Teoria dei numeri  
-Teoria delle funzioni  
-Topologia  
-  
-Corso di laurea in matematica e fisica.  
-  
-Art. 87. - Agli insegnamenti complementari del corso di laurea in matematica e fisica sono aggiunti quelli di:  
-Geometria algebrica;  
-Teoria dei numeri;  
-Economia matematica;  
-Astronomia stellare;  
-Istituzioni di fisica atomica.  
-  
-Art. 88. - E' abrogato e sostituito dal seguente:  
-Ai fini della propedeuticita' degli esami dei diversi insegnamenti vale la seguente tabella:  
-Non si puo' essere am- se non si e' superato l'esame  
-messi a sostenere di:  
-l'esame di:  
-  
-Analisi superiore Analisi matematica (algebrica  
-Astronomia ed infinitesimale) (biennale)  
-Calcolo delle proba- Esercizi di fisica I; Fisica  
-bilita' sperimentale (biennale); Geo-  
-Calcoli numerici e gra- metria analitica con elementi  
-fici di proiettiva e geometria de-  
-Elettrotecnica scrittiva con disegno (bien-  
-Esercizi di fisica II nale); Meccanica razionale  
-Fisica matematica con elementi di statica gra-  
-Fisica superiore fica e disegno  
-Fisica tecnica  
-Fisica teorica  
-Fisica terrestre  
-Geometria differen-  
-ziale  
-Geometria superiore  
-Geodesia  
-Istituzioni di fisica  
-atomica  
-Matematica attuaria-  
-le e tecnica delle  
-assicurazioni libe-  
-re sulla vita umana  
-Matematiche comple- Analisi matematica (algebrica  
-mentari ed infinitesimale) (biennale)  
-Matematiche superiori Esercizi di fisica I; Fisica  
-sperimentale (biennale); Geo-  
-Meccanica statistica metria analitica con elementi  
-Meccanica superiore di proiettiva e geometria de-  
-Mineralogia scrittiva con disegno (bien-  
-Onde elettromagneti- nale); Meccanica razionale  
-che con elementi di statica gra-  
-Spettroscopia fica e disegno  
-Storia delle matema-  
-tiche  
-Teoria dei numeri  
-Teoria delle funzioni  
-Topologia  
-  
-Corso di laurea in scienze naturali.  
-  
-Art. 89. - Agli insegnamenti complementari del corso di laurea in scienze naturali e' aggiunto quello di "Disegno a mano libera".  
-  
-Art. 90. - E' abrogato e sostituito dal seguente:  
-Ai fini della propedeuticita' degli esami dei diversi insegnamenti vale la seguente tabella:  
-Non si puo' essere am- se non si e' superato l'esame  
-messi a sostenere di:  
-l'esame di:  
-  
-Chimica biologica Chimica organica  
-Chimica fisica Istituzioni di matematiche;  
-Chimica generale ed inorgani-  
-ca  
-Entomologia agraria Zoologia  
-Fisiologia generale I Anatomia umana; Chimica genera-  
-le ed inorganica; Chimica or-  
-ganica; Fisica; Zoologia; Bo-  
-tanica  
-Fisiologia genera- Fisiologia generale I  
-le II  
-Fisiologia vegetale Botanica  
-Mineralogia Chimica generale ed inorganica;  
-Chimica organica; Fisica; I-  
-stituzioni di matematiche  
-Paleontologia Zoologia; Botanica  
-Patologia vegetale Botanica.  
-  
-Corso di laurea in scienze biologiche.  
-  
-Art. 91. - Agli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti: "paleontologia umana" e "disegno a mano libera".  
-  
-Art. 92. - E' abrogato e sostituito dal seguente:  
-Ai fini della propedeuticita' degli esami dei diversi insegnamenti vale la seguente tabella:  
-Non si puo' essere am- se non si e' superato l'esame  
-messi a sostenere di:  
-l'esame di:  
-  
-Anatomia comparata Istologia ed embriologia  
-Chimica biologica Chimica organica  
-Chimica fisica Istituzioni di matematiche;  
-Chimica generale ed inorgani-  
-ca  
-Entomologia agraria Zoologia  
-Fisiologia generale I Anatomia umana; Chimica genera-  
-le ed inorganica; Chimica or-  
-ganica; Fisica  
-Fisiologia genera- Fisiologia generale I  
-le II  
-Fisiologia vegetale Botanica  
-Paleontologia Zoologia e botanica  
-Patologia generale Anatomia umana; Fisiologia ge-  
-nerale I e II; Istologia ed  
-embriologia  
-Patologia vegetale Botanica  
-  
-Corso di laurea in scienze geologie.  
-  
-Art. 93. - Agli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti quelli di:  
-Disegno a mano libera;  
-Sismologia.  
-  
-Facolta' di farmacia.  
-  
-Art. 100. - E' abrogato e sostituito dal seguente:  
-Alla Facolta' di farmacia e' annesso l'Istituto di chimica farmaceutica e tossicologica.  
-  
-Art. 101. - Agli insegnamenti complementari del corso di laurea in farmacia e aggiunto quello di "chimica tossicologica".  
-  
-Art. 102. - Il comma secondo e' abrogato e sostituito dal seguente:  
-Ai fini della propedeuticita' degli esami dei diversi insegnamenti vale la seguente tabella:  
-Non si puo' essere am- se non si e' superato l'esame  
-messi a sostenere di:  
-l'esame di:  
-  
-Biochimica applicata Chimica biologica; Chimica ge-  
-nerale ed inorganica; Chimi-  
-ca organica  
-Chimica biologica Chimica generale ed inorganica;  
-Chimica organica  
-Chimica bromatologica Chimica organica  
-Chimica di guerra Chimica organica  
-Chimica farmaceutica Chimica organica  
-e tossicologica  
-Chimica organica con Chimica generale ed inorganica  
-esercitazioni  
-Esercizi di chimica Chimica generale ed inorganica  
-farmaceutica e tos-  
-sicologica I  
-Esercizi di chimica Chimica organica; Esercizi di  
-farmaceutica e tos- Chimica farmaceutica e tossi-  
-sicologica II cologica I  
-Esercizi di chimica Chimica farmaceutica e tossico-  
-farmaceutica e tos- logica I e II; Esercizi di  
-sicologica III Chimica farmaceutica e tossi-  
-cologica II  
-Farmacologia e farma- Anatomia umana; Chimica biolo-  
-cognosia gica; Chimica farmaceutica e  
-tossicologica I e II; Fisio-  
-logia generale  
-Fisiologia generale Anatomia umana  
-Idrologia Chimica generale ed inorganica  
-Tecnica e legislazione Chimica farmaceutica e tossico-  
-farmaceutica logica I e II  
-Igiene Fisiologia generale; Chimica  
-generale ed inorganica; Chi-  
-mica organica  
-Chimica fisica Chimica generale ed inorganica  
-  
-Art. 104. - Il comma terzo e' abrogato e sostituito dal seguente:  
-  
-L'esame orale comprende la discussione di una dissertazione scritta, presentata almeno un mese prima degli esami, la discussione di due argomenti scelti dalla Commissione fra, i tre presentati dal candidato medesimo almeno tre mesi prima dell'esame, e una prova di cultura generale.  
-  
-Art. 105. - I commi primo e secondo sono abrogati e sostituiti dai seguenti:  
-I laureati in chimica, in chimica industriale possono essere iscritti al terzo anno.  
-I laureati in scienze naturali e scienze biologiche possono essere parimenti iscritti al terzo anno, purche' durante i predetti corsi di laurea abbiano frequentato le esercitazioni di chimica farmaceutica (analisi qualitativa).  
-I laureati in medicina e chirurgia, in fisica, in matematica e fisica o in scienze matematiche possono essere iscritti al secondo anno.  
-  
-Facolta' di ingegneria.  
-  
-Art. 107. - La denominazione dell'Istituto di miniere e' mutata in quella di "Istituto di arte mineraria".  
-Sono creati i seguenti Istituti:  
-Istituto di costruzioni idrauliche, presso il quale si svolgono gl'insegnamenti di:  
-a) costruzioni idrauliche;  
-b) igiene applicata;  
-c) impianti speciali idraulici.  
-Istituto di geofisica mineraria, presso il quale si svolge l'insegnamento di geofisica mineraria.  
-  
-Art. 108. - L'insegnamento di "architettura tecnica" e' annuale anche per la sottosezione edile della sezione di ingegneria civile.  
-  
-Art. 111. - Alla dizione e sono insegnamenti complementari" va aggiunto "per tutte le sezioni".  
-Agli insegnamenti complementari e' aggiunto quello di "Elettronica".  
-  
-Art. 114. - E' abrogato e sostituito dal seguente:  
-Ai fini della propedeuticita' degli esami dei diversi insegnamenti, vale la seguente tabella:  
-Non si puo' essere am- se non si e' superato l'esame  
-messi a sostenere di:  
-l'esame di:  
-  
-Architettura e compo- Architettura tecnica; Scienza  
-sizione architetto- delle costruzioni  
-nica I  
-Architettura e compo- Architettura e composizione ar-  
-sizione architetto- chitettonica I; Architettura  
-nica II tecnica; Costruzioni di legno  
-ferro, cemento armato; Scien  
-za delle costruzioni  
-Arte mineraria Elettrotecnica; Fisica tecnica;  
-Idraulica; Macchine; Meccani-  
-ca applicata alle macchine;  
-Scienza delle costruzioni;  
-Tecnologie generali  
-Chimica applicata Fisica tecnica; Tecnologie ge-  
-nerali  
-Chimica industriale Chimica applicata; Chimica fi-  
-sica (per la sola sottose-  
-zione chimica); Fisica tec-  
-nica; Tecnologie generali  
-Comunicazioni elet- Elettrotecnica; Fisica tecnica  
-triche  
-Costruzione di mac- Fisica tecnica; Idraulica; Mac-  
-chine chine; Meccanica applicata  
-alle macchine; Scienza delle  
-costruzioni; Tecnologie gene-  
-rali  
-Costruzione di mac- Elettrotecnica; Fisica tecnica;  
-chine elettriche Idraulica; Macchine; Meccani-  
-ca applicata alle macchine;  
-Scienza delle costruzioni;  
-Tecnologie generali  
-Costruzioni di legno, Scienza delle costruzioni  
-ferro, cemento ar-  
-mato  
-Costruzione di ponti Costruzioni di legno, ferro e  
-cemento armato; Scienza delle  
-costruzioni  
-Costruzioni idrauli-  
-che Costruzioni di legno, ferro e  
-cemento armato; Idraulica;  
-Scienza delle costruzioni  
-Costruzioni marittime Costruzioni di legno, ferro e  
-cemento armato; Idraulica;  
-Scienza delle costruzioni  
-Costruzioni stradali Costruzioni di legno, ferro e  
-e ferroviarie cemento armato; Scienza del-  
-le costruzioni; Topografia  
-con elementi di geodesia  
-Disegno di macchine e Meccanica applicata alle mac-  
-progetti chine; Scienza delle costru-  
-zioni  
-Elettrochimica Chimica fisica  
-Elettrotecnica Fisica tecnica  
-Geofisica mineraria Fisica tecnica  
-Geologia Petrografia  
-Giacimenti minerari Petrografia  
-Impianti industriali Chimica applicata; Chimica fi-  
-chimici sica; Chimica industriale,  
-elettrotecnica; Fisica tecni-  
-ca; Idraulica; Macchine; mec-  
-Meccanica applicata alle mac-  
-chine; Scienza delle costru-  
-zioni; Tecnologie generali  
-Impianti industriali Elettrotecnica; Fisica tecnica;  
-elettrici Idraulica, Macchine; Meccani-  
-ca applicata alle macchine;  
-Scienza delle costruzioni;  
-Tecnologie generali  
-Impianti industriali Elettrotecnica; Fisica tecnica;  
-meccanici Idraulica; Macchine; Meccani-  
-ca applicata alle macchine;  
-Scienza delle costruzioni;  
-Tecnologie generali  
-Impianti speciali Fisica tecnica; Idraulica; Mac-  
-idraulici chine; Meccanica applicata  
-alle macchine; Scienza delle  
-costruzioni; Tecnologie gene-  
-rali  
-Macchine Fisica tecnica; Idraulica; Mec-  
-canica applicata alle macchi-  
-chine; Scienza delle costru-  
-zioni; Tecnologie generali  
-Metallurgia e metal- Chimica applicata; Chimica fi-  
-lografia sica (per le sottosezioni  
-chimica e meccanica); Fisica  
-tecnica; Tecnologie generali  
-Misure elettriche Elettrotecnica; Fisica tecnica  
-Paleontologia Petrografia  
-Radiotecnica Elettrotecnica; Fisica tecnica  
-Tecnica ed economia Elettrotecnica; Fisica tecnica;  
-dei trasporti Idraulica; Macchine; Mecca-  
-nica applicata alle macchine;  
-Scienza delle costruzioni;  
-Tecnologie generali  
-Tecnologie speciali Chimica applicata; Chimica fi-  
-chimiche sica; Fisica tecnica; Tecno-  
-logie generali  
-Tecnologie speciali Chimica fisica (per la sola  
-(meccaniche) sottosezione meccanica); Fi-  
-sica tecnica; Meccanica ap-  
-plicata alle macchine; Scien-  
-za delle costruzioni; Tecno-  
-logie generali  
-Trazione elettrica Elettrotecnica; Fisica tecnica;  
-Idraulica; Macchine; Meccani-  
-ca applicata alle macchine;  
-Scienza delle costruzioni;  
-Tecnica ed economia dei tra-  
-sporti; Tecnologie generali  
-  
-Facolta' di architettura.  
-  
-Art. 126. - All'elenco degli Istituti della Facolta' di architettura e' aggiunto quello di:  
-"Istituto di disegno e rilievo dei monumenti".  
-  
-Art. 127. - Agli insegnamenti complementari del biennio di studi propedeutici del corso di laurea in architettura e' aggiunto quello di "Plastica".  
-E' soppresso dall'elenco degli insegnamenti medesimi quello di "Plastica ornamentale".  
-  
-Art. 128. - E' abrogato e sostituito dal seguente:  
-Ai fini della propedeuticita' delle iscrizioni ai corsi e degli esami dei diversi insegnamenti, valgono le seguenti tabelle:  
-Non si puo' essere ot- se non si e' superato l'esame  
-tenere l'iscri- di:  
-zione ai corsi di:  
-  
-Architettura degli Elementi di composizione  
-interni arredamento  
-e decorazione II  
-Composizione archi- Elementi di composizione  
-tettonica I  
-Scienza delle costru- Scienza delle costruzioni I  
-zioni II  
-Tecnologia dei mate- Scienza delle costruzioni I  
-riali e tecnica  
-delle costruzioni  
-Urbanistica II Elementi di composizione  
-  
-Non si puo' essere am- se non si e' superato l'esame  
-messi a sostenere di:  
-l'esame di:  
-  
-Analisi matematica e Analisi matematica e geometria  
-geometria analitica analitica I  
-II  
-Applicazioni di geo- Geometria descrittiva ed ele-  
-metria descrittiva menti di proiettiva  
-Architettura degli Architettura degli interni, ar-  
-interni, arredamen- redamento e decorazione I;  
-to e decorazione II Elementi di composizione  
-Composizione archi- Elementi di composizione; Ca-  
-tettonica I ratteri distributivi degli e-  
-difici  
-Composizione archi- Composizione architettonica I  
-tettonica II  
-Disegno dal vero II Disegno dal vero I  
-Elementi di architet- Elementi di architettura e ri-  
-tura e rilievo dei lievo dei monumenti I  
-monumenti II  
-Estimo ed esercizio Caratteri distributivi degli  
-professionale edifici  
-Impianti tecnici Meccanica razionale e statica  
-grafica; Fisica tecnica  
-Mineralogia e geolo- Chimica generale ed applicata  
-gia  
-Restauro dei monumen- Caratteri stilistici e co-  
-struttivi dei monumenti  
-Scienza delle costru- Meccanica razionale e statica  
-zioni I grafica  
-Scienza delle costru- Scienza delle costruzioni I  
-zioni II  
-Storia dell'arte e Storia dell'arte e storia e  
-storia e stili del- stili dell'architettura I  
-l'architettura II  
-Tecnologia dei mate- Scienza delle costruzioni I;  
-riali e tecnica Impianti tecnici  
-delle costruzioni  
-Urbanistica II Urbanistica I; Caratteri di-  
-stributivi degli edifici  
-  
-Art. 129. - Il comma secondo e' abrogato e sostituito dal seguente:  
-Gli insegnamenti di materie compositive comprendono lezioni teorico-pratiche ed esercitazioni di prove estemporanee e si concludono coll'elaborazione di progetti aventi per oggetto temi peculiari di ciascuna materia.  
-L'art. 131 e' abrogato.  
-  
-Art. 133. - E' abrogato e sostituito dal seguente:  
-L'esame di laurea consiste:  
-a) nella esecuzione di una prova estemporanea attinente alla scienza delle costruzioni, con durata di otto ore;  
-b) nella esecuzione di due prove estemporanee di otto ore ciascuna su temi di composizione architettonica ed urbanistica scelti dal candidato su due temi che gli vengono proposte. Nei successivi cinque giorni il candidato sviluppa uno dei temi prescelti;  
-c) in una discussione sui criteri artistici, scientifici e tecnici che hanno guidato il candidato nello svolgimento dei vari progetti eseguiti nel corso degli studi e segnatamente nel secondo anno di composizione architettonica.  
-  
-Scuola di ingegneria aeronautica.  
-  
-L'art. 135 e' abrogato e sostituito dai seguenti, con il conseguente spostamento della numerazione degli articoli successivi:  
-  
-Art. 135. - La scuola di ingegneria aeronautica ha per fine di promuovere il progresso della scienza e dell'arte aeronautica e di addestrare in questo ramo di studio coloro che siano gia' forniti di una laurea in ingegneria.  
-  
-Art. 136. - Gli studi della scuola di ingegneria aeronautica hanno la durata di un anno e si distinguono secondo la specializzazione "velivoli" o "motori". La specializzazione "velivoli" ha due indirizzi: "aerodinamica" e "struttura", la specializzazione "motori" ha pure due indirizzi: "missili" e "propulsori",  
-  
-Art. 137. - Al termine degli studi la scuola di ingegneria aeronautica conferisce la laurea in ingegneria aeronautica, con distinzione della specializzazione seguita: "velivoli" o "motori", prescelta dall'allievo.  
-  
-Art. 139 (gia' 137). - E' abrogato e sostituito dal seguente:  
-Le materie d'insegnamento della scuola di ingegneria aeronautica sono le seguenti:  
-1) meccanica del volo (con esercitazioni di laboratorio);  
-2) aerodinamica (con esercitazioni di laboratorio);  
-3) costruzioni aeronautiche (con esercitazioni di laboratorio);  
-4) motori d'aviazione (con esercitazioni di laboratorio e sala montaggio);  
-5) aerologia;  
-6) dinamica dei motori;  
-7) diritto aeronautico;  
-8) elementi costruttivi dei velivoli;  
-9) elementi costruttivi dei motori;  
-10) tecnologia dei materiali dei velivoli (con esercitazioni di laboratorio);  
-11) tecnologia dei materiali dei motori e chimica della combustione (con esercitazioni di laboratorio);  
-12) complementi di termodinamica tecnica;  
-13) accessori e istallazione dei motori;  
-14) collaudo e strumenti di bordo;  
-15) prove e collaudo dei motori;  
-16) economia dei trasporti aerei;  
-17) balistica ed armi aeronautiche;  
-18) radiotecnica aeronautica.  
-  
-Tali insegnamenti sono divisi come appresso tra il ramo velivoli e il ramo motori:  
-Ramo velivoli Ramo motori  
-  
-1. Meccanica del volo 1. Meccanica del volo (con  
-(con esercitazioni esercitazioni e labora-  
-e laboratorio) torio)  
-2. Aerodinamica (con 2. Aerodinamica (con eser-  
-(con esercitazioni citazioni e laborato-  
-e laboratorio) rio)  
-3. Costruzioni aero- 3. Costruzioni aeronauti-  
-nautiche (con e- che (con esercitazioni  
-sercitazioni e la- e laboratorio)  
-boratorio)  
-4. Motori d'aviazio- 4. Motori d'aviazione (con  
-ne (con esercita- esercitazioni, labora-  
-zioni, laboratorio torio e sala montaggio)  
-e sala montaggio)  
-5. Aerologia 5. Dinamica dei motori  
-6. Diritto aeronauti- 6. Diritto aeronautico  
-co  
-7. Elementi costrut- 7. Elementi costruttivi  
-tivi dei velivoli dei motori  
-8. Tecnologia dei ma- 8. Tecnologia dei materia-  
-teriali dei veli- li dei motori e chimica  
-voli (con eserci- della combustione (con  
-tazioni e labora- esercitazioni e labora-  
-torio) torio)  
-9. Economia dei tra- 9. Complementi di termodi-  
-sporti aerei namica tecnica  
-10. Accessori e in- 10. Accessori e installa-  
-stallazioni dei zioni dei motori  
-motori  
-11. Balistica ed armi 11. Balistica ed armi aero-  
-aeronautiche nautiche I  
-12. Collaudo e stru- 12. Prova e collaudo dei  
-menti di bordo motori  
-13. Radiotecnica aero- 13. Radiotecnica aeronauti-  
-nautica ca  
-  
-Dopo l'art. 144 (gia' 142), e' aggiunto il seguente nuovo articolo con il conseguente spostamento della numerazione degli articoli successivi:  
-  
-Art. 145. - Sono annessi alla scuola d'ingegneria aeronautica i seguenti Istituti:  
-1) Istituto di aerodinamica, comprendente le cattedre di aerodinamica, meccanica del volo, aerologia;  
-2) Istituto di costruzioni aeronautiche, comprendente le cattedre di costruzioni aeronautiche, elementi costruttivi dei velivoli, collaudo e strumenti di bordo;  
-3) Istituto motori d'aviazione, comprendente le cattedre di motori di aviazione, elementi costruttivi del motori, accessori e istallazione dei motori, complementi di termodinamica tecnica, dinamica dei motori, prove e collaudo dei motori;  
-4) Istituto di diritto aeronautico.  
+Articolo unico
+--------------
+
+  
+  
+Gli articoli da 918 a 998, relativi ai corsi di perfezionamento e di specializzazione della facolta' di ingegneria, sono sostituiti dai seguenti:   
+  
+CORSI DI SPECIALIZZAZIONE DELLA FACOLTA' DI INGEGNERIA   
+  
+Corso di specializzazione in ingegneria del traffico   
+  
+Art. 918. - Presso la facolta' di ingegneria dell'Universita' degli studi di Roma e' istituito un corso di specializzazione in "ingegneria del traffico", al fine di preparare tecnici specializzati alla risoluzione di problemi inerenti alla circolazione dei mezzi di trasporto su strada.   
+Art. 919. - Il corso ha la durata di un anno; e' diretto da un professore della facolta' nominato dal rettore su designazione del consiglio di facolta'.   
+Il consiglio del corso e' composto dal direttore e dai docenti degli insegnamenti costitutivi di cui all'articolo 922.   
+Gli insegnanti del corso sono proposti dal consiglio del corso ovvero, in caso di avviamento del medesimo, da una commissione all'uopo nominata dal consiglio di facolta' e possono essere scelti fra i professori di ruolo, fra i libri docenti, fra gli aiuti e gli assistenti o anche fra persone di riconosciuta competenza nelle rispettive specialita'. Il corso inoltre potra' giovarsi, per talune materie, di insegnamenti svolti presso una delle facolta'.   
+Le proposte di cui sopra sono subordinate all'approvazione del consiglio di facolta'. Alla nomina provvede il rettore.   
+Art. 920. - Al corso possono essere ammessi i laureati in ingegneria e in architettura.   
+Il consiglio del corso delibera ogni anno tempestivamente l'inizio delle lezioni e lo svolgimento delle lezioni, il numero massimo degli iscritti e le norme per l'ammissione, nonche' il numero minimo di iscritti affinche' il corso stesso abbia luogo.   
+Il consiglio di facolta' potra' sospendere lo svolgimento del corso a partire dall'anno accademico successivo alla deliberazione.   
+Art. 921. - La frequenza ai singoli insegnamenti deve essere attestata dai rispettivi docenti, secondo le modalita' stabilite dal consiglio del corso.   
+Art. 922. - Gli insegnamenti impartiti nel corso si distinguono in costitutivi e monografici.   
+Gli insegnamenti costitutivi sono:   
+1) elementi di trasporti:   
+a) meccanica della locomozione e sistemi di trasporto;   
+b) caratteristiche della circolazione;   
+2) regolazione della circolazione;   
+3) attrezzature viarie:   
+a) caratteristiche del nastro stradale;   
+b) svincoli e intersezioni;   
+4) pianificazione dei trasporti;   
+5) dinamica urbanistica:   
+a) elementi di tecnica urbanistica;   
+b) organizzazione dinamica del territorio;   
+6) applicazione e progetti.   
+Gli insegnamenti monografici sono:   
+1) complementi di matematica;   
+2) tecnica della sicurezza stradale;   
+3) problemi economici.   
+Gli esami degli insegnamenti costitutivi possono comprendere una prova pratica.   
+Il consiglio del corso stabilisce la durata degli insegnamenti.   
+Gli insegnamenti monografici formano oggetto di esame di gruppo con voti separati.   
+Gli insegnamenti possono venire integrati da conferenze e visite ad impianti, stabilimenti e situazioni stradali di particolare interesse.   
+Il consiglio del corso puo' esonerare dall'obbligo di frequenza di una o piu' delle parti indicate don a) dei corsi di elementi di trasporti e di dinamica urbanistica quegli iscritti che nei corsi normali di laurea avessero gia' frequentato con profitto materie comprendenti detti argomenti.   
+Art. 923. - E' data facolta' al direttore, all'inizio di ogni anno accademico, di rivedere il programma del corso e, sentito il parere del consiglio, di sottoporre al consiglio delle facolta' proposte di variazioni del medesimo che saranno rese pubbliche soltanto dopo l'approvazione degli organi competenti, ai sensi delle vigenti disposizioni di legge.   
+Il direttore del corso presenta annualmente alla facolta', unitamente alle eventuali proposte di nuovi incarichi, una dettagliata relazione sullo svolgimento del corso nel precedente anno accademico.   
+Art. 924. - Per la validita' del corso gli iscritti debbono superare tutti gli esami degli insegnamenti costitutivi e quelli di gruppo relativi agli insegnamenti monografici nonche' redigere un progetto od uno studio su argomenti attinenti alle materie di insegnamento da presentare e discutere dinanzi ad una commissione composta dai docenti degli insegnamenti costitutivi e presieduta dal direttore del corso.   
+In caso di necessita' il direttore del corso puo' chiamare a far parte della commissione docenti dei corsi monografici in sostituzione di docenti dei corsi costitutivi. L'ammissione alla discussione del lavoro finale e' subordinata all'aver superato tutti gli esami speciali.   
+Il giudizio sugli esami speciali deve essere espresso in trentesimi, quello sull'esame finale in centesimi.   
+Ogni esame fallito puo' essere ripetuto una sola volta.   
+Art. 925. - Agli iscritti che abbiano superato tutti gli esami ed ottenuta l'idoneita' nel progetto o studio finale viene rilasciato un attestato comprovante la carriera scolastica compiuta.   
+Art. 926. - Gli iscritti al corso sono tenuti a pagare le tasse, soprattasse, contributi generali e per esercitazioni nella misura che verra' stabilita dal consiglio di amministrazione dell'Universita' su proposta del consiglio della facolta' udito il direttore del corso.   
+Corso di perfezionamento in ingegneria nucleare   
+Art. 927. - Presso la facolta' di ingegneria e' istituito un corso di perfezionamento in "ingegneria nucleare".   
+Il corso consiste in insegnamenti avanzati sui reattori nucleari e si prefigge lo scopo di approfondire la conoscenza dei sistemi nucleari, anche di nuova concezione, per la produzione di energia.   
+Art. 928. - Il corso ha la durata di un anno. Il corso e' diretto da un professore ordinario della facolta' nominato dal rettore su designazione del consiglio di facolta'.   
+Il consiglio del corso e' composto dal direttore e dai docenti degli insegnamenti di cui all'art. 931.   
+Art. 929. - Al corso di perfezionamento sono ammessi i laureati, presso le universita' italiane o straniere, in ingegneria nucleare.   
+Sono altresi' ammessi al corso ingegneri non nucleari laureati in universita' italiane o straniere previo esame di ammissione, secondo modalita' stabilite annualmente dal consiglio del corso, allo scopo di accertare la preparazione dei candidati sui fondamenti dell'ingegneria nucleare. Il consiglio del corso delibera tempestivamente l'inizio delle lezioni, il numero massimo degli iscritti, nonche' il numero minimo degli iscritti affinche' esse abbiano luogo.   
+Il consiglio di facolta' potra' sospendere lo svolgimento del corso a partire dall'anno accademico successivo alla deliberazione.   
+Art. 930. - La frequenza ai singoli insegnamenti deve essere attestata dai rispettivi docenti secondo le modalita' stabilite dal consiglio del corso.   
+Art. 931. - Gli insegnamenti impartiti nel corso di perfezionamento di ingegneria nucleare sono i seguenti:   
+1) complementi di neutronica;   
+2) complementi di teoria del reattore;   
+3) complementi di termotecnica del reattore;   
+4) ingegneria del reattore;   
+5) complementi del ciclo del combustibile nucleare;   
+6) tecnologie avanzate dei materiali;   
+7) complementi di strumentazione e controllo;   
+8) complementi di radioprotezione;   
+9) complementi di sicurezza nucleare;   
+10) complementi di energetica;   
+11) fisica dei plasmi;   
+12) teoria dei reattori a fusione;   
+13) elementi di economia degli impianti nucleari.   
+Il consiglio del corso stabilisce la durata di ciascuno degli insegnamenti sopraelencati; stabilisce altresi' quali di essi dovranno essere completati con esercitazioni.   
+Gli insegnamenti potranno venire integrati da conferenze e da visite ad impianti.   
+Art. 932. - E' data facolta' al direttore, all'inizio di ogni anno accademico, di rivedere il programma del corso e, sentito il parere del consiglio, di sottoporre al consiglio della facolta' proposte di variazioni che saranno rese pubbliche soltanto dopo l'approvazione degli organi competenti, ai sensi delle vigenti disposizioni di cui al [testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592).   
+Art. 933. - Gli insegnanti del corso sono proposti dal direttore che puo' scegliere tra i professori di ruolo, fra i liberi docenti e fra gli assistenti o anche fra persone di riconosciuta competenza nelle rispettive specialita', ovvero giovarsi, per talune materie, di insegnamenti svolti presso altra facolta'. Tali proposte sono subordinate all'approvazione del consiglio di facolta' ed alle nomine provvede il rettore.   
+Art. 934. - Per la validita' del corso di perfezionamento e cioe' per il conseguimento dell'attestato di cui all'art. 935, gli iscritti dovranno superare gli esami in almeno sette dei tredici insegnamenti elencati nell'art. 931 e redigere un progetto o uno studio sulle materie di insegnamento prescelte.   
+Il progetto o studio finale verra' discusso alla presenza di una commissione di cinque membri scelti fra i docenti del corso e presieduta dal direttore del corso stesso.   
+Art. 935. - Agli iscritti al corso di perfezionamento che abbiano superato il numero di esami di cui all'art. 934 ed ottenuta l'idoneita' nel progetto o studio finale viene rilasciato un attestato comprovante la carriera scolastica compiuta.   
+Art. 936. - Gli iscritti al corso sono tenuti a pagare le tasse, sopratasse e contributi generali e per esercitazioni nella misura che verra' stabilita dal consiglio di amministrazione dell'Universita' su proposta del consiglio della facolta', udito il direttore del corso.   
+Corso di specializzazione in ingegneria dei sistemi di controllo e calcolo automatici   
+Art. 937. - Presso la facolta' di ingegneria e' istituito un corso di specializzazione in ingegneria dei sistemi di controllo e calcolo automatici, per la formazione di esperti nei diversi settori riguardanti la teoria e l'applicazione dell'automatica e dell'informatica.   
+Art. 938. - Il corso ha la durata di un anno. E' direttore del corso un professore della facolta' nominato dal rettore su designazione del consiglio di facolta'. Il consiglio direttivo del corso e' costituito dal direttore e dai docenti dei singoli insegnamenti.   
+Art. 939. - Per l'ammissione al corso e' richiesta la laurea in una universita' italiana o straniera. L'ammissione e' comunque effettuata per titoli e/o per esami secondo modalita' stabilite annualmente dal consiglio del corso, in modo da accertare la preparazione dei candidati nei fondamenti dell'automatica o dell'informatica.   
+Il consiglio direttivo delibera tempestivamente di anno in anno l'inizio e lo svolgimento delle lezioni, il numero degli iscritti e le norme per l'ammissione, nonche' il numero minimo di iscritti affinche' il corso stesso abbia luogo.   
+Il consiglio di facolta' potra' sospendere lo svolgimento del corso a partire dall'anno accademico successivo alla deliberazione.   
+Art. 940. - La frequenza ai singoli insegnamenti deve essere attestata dai rispettivi docenti secondo le modalita' stabilite dal consiglio del corso.   
+Art. 941.- Ciascun allievo puo' predisporre un piano di studi nell'ambito delle discipline elencate nel successivo articolo o insegnate presso l'Universita' di Roma. Il numero degli insegnamenti deve essere almeno equivalente a sei insegnamenti annuali.   
+I piani di studio sono sottoposti all'approvazione del consiglio del corso; verra' attribuita anche in base ai titoli e/o agli esami che hanno consentito l'ammissione al corso.   
+Art. 942. - Gli insegnamenti impartiti sono annuali; alcuni di essi potranno essere suddivisi in due insegnamenti semestrali da svolgersi nell'arco dell'anno accademico. Di anno in anno il consiglio del corso potra' deliberare l'attivazione di uno solo dei semestri in cui questi ultimi sono suddivisi.   
+Gli insegnamenti sono:   
+1) analisi funzionale;   
+2) analisi e progettazione dei sistemi informativi;   
+3) automazione degli impianti industriali;   
+4) azionamenti industriali;   
+5) complementi di impianti di elaborazione dei dati;   
+6) complementi di ricerca operativa;   
+7) complementi di sistemi formali;   
+8) controlli industriali;   
+9) ingegneria del software;   
+10) metodi numerici di ottimizzazione;   
+11) modellistica e controllo di sistemi socio-economici;   
+12) progettazione assistita dal calcolatore;   
+13) seminari di controlli e di calcolatori;   
+14) sintesi dei sistemi di controllo;   
+15) sistemi operativi;   
+16) sistemi organizzativi e gestionali;   
+17) sistemi di elaborazione distribuita;   
+18) strumentazione industriale;   
+19) tecniche digitali di interfaccia;   
+20) tecniche di simulazione e modelli di processi industriali;   
+21) teoria dei sistemi non lineari;   
+22) teoria dei sistemi stocastici;   
+23) teoria della stima e dell'identificazione;   
+24) teoria della misura e processi stocastici;   
+25) teoria dell'ottimizzazione.   
+Il consiglio del corso, ove lo ritenga opportuno, potra' organizzare anno per anno seminari propedeutici allo svolgimento degli insegnamenti suddetti.   
+Art. 943. - Gli insegnanti del corso sono proposti dal consiglio del corso ovvero, in caso di avviamento del medesimo, da una commissione all'uopo nominata dal consiglio di facolta' e possono essere scelti fra i professori di ruolo, fra i liberi docenti, fra gli aiuti e gli assistenti o anche fra persone di riconosciuta competenza nelle rispettive specialita'. Il corso inoltre potra' giovarsi, per alcune materie, di insegnamenti svolti presso una delle facolta'.   
+Le proposte di cui sopra sono subordinate all'approvazione del consiglio di facolta'. Alle nomine provvede il rettore.   
+Il direttore del corso presenta annualmente alla facolta', unitamente alle eventuali proposte di nuovi incarichi, una dettagliata relazione sullo svolgimento del corso nel precedente anno accademico.   
+Art. 944. - Per la validita' del corso e cioe' per il conseguimento dell'attestato di cui all'art. 945 ciascun iscritto dovra' superare gli esami in tutti gli insegnamenti previsti nel suo piano di studi e dovra' svolgere un lavoro personale di carattere teorico o sperimentale.   
+Art. 945. - Agli iscritti che abbiano superato gli esami e abbiano ottenuto l'idoneita' per il lavoro personale eseguito viene rilasciato un attestato comprovante la carriera scolastica compiuta.   
+Corso di specializzazione in pianificazione urbanistica applicata alle aree metropolitane   
+Art. 946. - Presso la facolta' di ingegneria di Roma e' istituito un corso di specializzazione in "pianificazione urbanistica applicata alle aree metropolitane".   
+Il corso ha il fine di integrare e specializzare la preparazione universitaria soprattutto attraverso l'esame di situazioni concrete e lo studio degli strumenti applicativi, mettendo in particolare evidenza le possibilita' offerte dalle piu' recenti tecniche quali la sistemistica.   
+Art. 947. - Direttore del corso e' un professore della facolta' nominato dal rettore su designazione del consiglio di facolta', per un triennio.   
+Il consiglio del corso e' costituito dal direttore e da tutti i docenti degli insegnamenti.   
+Gli insegnanti del corso sono proposti dal consiglio del corso ovvero, in caso di avviamento del medesimo, da una commissione all'uopo costituita dal consiglio di facolta' e possono essere scelti fra i professori di ruolo, fra i liberi docenti, fra gli aiuti o gli assistenti o anche fra persone di riconosciuta competenza nelle rispettive specialita'. Il corso, inoltre, potra' giovarsi, per alcune materie, di insegnamenti svolti presso una delle facolta'.   
+Tali proposte sono subordinate all'approvazione del consiglio di facolta'; le nomine degli insegnanti vengono effettuate dal rettore.   
+Il direttore del corso presenta annualmente alla facolta', unitamente alle eventuali proposte di nuovi incarichi, una dettagliata relazione sullo svolgimento del corso nel precedente anno accademico.   
+Art. 948. - Al corso sono ammessi i laureati in ingegneria edile ed in architettura; il consiglio del corso potra' ammettere laureati in altre discipline e laureati in Paesi stranieri.   
+Il consiglio direttivo delibera tempestivamente di anno in anno le date di inizio e di svolgimento delle lezioni, il numero degli iscritti e le norme per l'ammissione, nonche' il numero di iscritti affinche' il corso stesso abbia luogo.   
+L'ammissione al corso e' subordinata all'esito di un colloquio per quei laureati che non abbiano sostenuto almeno un esame di urbanistica.   
+Il consiglio di facolta' potra' sospendere lo svolgimento del corso a partire dall'anno accademico successivo alla deliberazione.   
+Art. 949. - Il corso ha la durata di un anno. Gli insegnamenti impartiti sono suddivisi, con riferimento al contenuto, in insegnamenti generali e in insegnamenti speciali.   
+Ai fini della formazione del piano di studi di cui al successivo art. 951 gli insegnamenti sono suddivisi in obbligatori e facoltativi, come precisato nell'elenco seguente. Tutti gli insegnamenti generali sono obbligatori. La durata dei corsi viene fissata anno per anno dal consiglio direttivo in relazione alle esigenze del corso.   
+E' inoltre facolta' del consiglio del corso, per motivate esigenze organizzative, di stabilire prima dell'inizio di ogni singolo corso la eventuale sospensione di uno o piu' insegnamenti facoltativi.   
+Gli insegnamenti del corso sono:   
+Insegnamenti generali:   
+a-1) fenomenologia delle grandi concentrazioni urbane (obbligatorio);   
+a-2) urbanesimo e pianificazione (obbligatorio);   
+a-3) fondamenti di pianificazione urbanistica (obbligatorio);   
+a-4) fondamenti di teoria dei sistemi (obbligatorio).   
+Insegnamenti speciali:   
+b-1) analisi funzionale e distributiva degli insediamenti (facoltativo);   
+b-2) mobilita' urbana e trasporti (obbligatorio);   
+b-3) morfologia del territorio e forma urbana (facoltativo);   
+b-4) difesa dell'ambiente (facoltativo);   
+b-5) dinamica del tempo libero e del turismo (facoltativo);   
+b-6) elementi di economia del territorio (obbligatorio);   
+b-7) gestione dei complessi urbani (facoltativo);   
+b-8) igiene applicata alle aree urbane (facoltativo);   
+b-9) elementi di psicologia e di sociologia urbana (facoltativo);   
+b-10) ingegneria dei sistemi urbani (facoltativo).   
+Art. 950. - La frequenza ai singoli insegnamenti deve essere attestata dai rispettivi docenti secondo le modalita' stabilite dal consiglio del corso.   
+Art. 951. - Ciascun allievo puo' predisporre un piano di studi nell'ambito delle discipline elencate nel precedente articolo o, eventualmente, di materie insegnate presso l'Universita' di Roma. Il numero degli insegnamenti deve essere almeno equivalente a sei insegnamenti annuali. Il piano di studi e' sottoposto all'approvazione del consiglio del corso.   
+Art. 952. - Per la validita' del corso, cioe' per il conseguimento dell'attestato di cui all'art. 953, ciascun iscritto dovra' superare gli esami in tutti gli insegnamenti previsti nel suo piano di studi e dovra' svolgere un lavoro personale di carattere teorico o sperimentale.   
+Art. 953. - Agli iscritti che abbiano superato gli esami e abbiano ottenuto l'idoneita' per il lavoro personale eseguito verra' rilasciato un attestato comprovante la carriera scolastica compiuta.   
+Art. 954. - Il consiglio del corso potra' ammettere al corso stesso, in qualita' di uditori, allievi non in possesso dei titoli di cui al precedente art. 348.   
+Tali allievi saranno esonerati dal sostenere gli esami. Ad essi il direttore del corso rilascera' un attestato di frequenza.   
+Corso di specializzazione in conduzione industriale   
+Art. 955. - Presso la facolta' di ingegneria e' istituito un corso di specializzazione in conduzione industriale per la formazione di esperti in impianti industriali e direzione di imprese.   
+Art. 956. - Il corso ha la durata di un anno; e' direttore del corso un professore della facolta' nominato dal rettore, su designazione del consiglio di facolta'.   
+Il consiglio del corso e' costituito dal direttore e dai docenti dei singoli insegnamenti.   
+Art: 957. - Al corso sono ammessi i laureati in ingegneria; il consiglio del corso potra' ammettere laureati in altre discipline e laureati in Paesi stranieri.   
+Il consiglio del corso delibera tempestivamente di anno in anno l'inizio e lo svolgimento delle lezioni, il numero degli iscritti e le norme per le ammissioni, nonche' il numero minimo di iscritti affinche' il corso stesso abbia luogo.   
+Il consiglio di facolta' potra' sospendere lo svolgimento del corso a partire dall'anno accademico successivo alla deliberazione.   
+Art. 958. - La frequenza ai singoli insegnamenti deve essere attestata dai rispettivi docenti secondo le modalita' stabilite dal consiglio di corso.   
+Art. 959. - Il consiglio del corso stabilisce di anno in anno la durata di ciascuno degli insegnamenti.   
+Art. 960. - Sono insegnamenti del corso di specializzazione:   
+1) tecnica ed economia degli impianti industriali;   
+2) principi di ingegneria del lavoro e della sicurezza;   
+3) insediamento industriale e impostazione strutturale dei processi produttivi;   
+4) affidabilita' e manutenzione degli impianti;   
+5) tecnica ed economia delle fonti energetiche;   
+6) ecologia per gli impianti industriali;   
+7) impianti ausiliari;   
+8) programmazione ed organizzazione della produzione;   
+9) struttura degli impianti industriali ed elementi di progettazione;   
+altri insegnamenti monografici secondo deliberazioni del consiglio del corso.   
+Gli insegnamenti comprendono attivita' integrative quali conferenze, visite ad impianti, seminari.   
+Art. 961. - Gli insegnanti del corso sono proposti dal consiglio del corso ovvero, in caso di avviamento del medesimo, da una commissione all'uopo nominata dal consiglio di facolta' e possono essere scelti fra i professori di ruolo, fra i liberi docenti, fra gli aiuti e gli assistenti o anche fra persone di riconosciuta competenza nelle rispettive specialita'. Il corso inoltre potra' giovarsi, per talune materie, di insegnamenti svolti presso una delle facolta'.   
+Le proposte di cui sopra sono subordinate all'approvazione del consiglio di facolta'. Alle nomine provvede il rettore.   
+Il direttore del corso presenta annualmente alla facolta', unitamente alle eventuali proposte di nuovi incarichi, una dettagliata relazione sullo svolgimento del corso nel precedente anno accademico.   
+Art. 962. - Per la validita' del corso, e cioe' per il conseguimento dell'attestato di cui all'articolo seguente, ciascun iscritto dovra' superare gli esami in tutti gli insegnamenti e dovra' svolgere un lavoro personale di carattere teorico o sperimentale. Il lavoro svolto verra' discusso alla presenza di una commissione costituita da tre docenti del corso prescelti dal direttore del corso, da lui presieduta.   
+Art. 963. - Agli iscritti che abbiano superato gli esami ed abbiano ottenuto l'idoneita' per il lavoro personale eseguito viene rilasciato un attestato comprovante la carriera scolastica compiuta.   
+Corso di specializzazione in bioingegneria   
+Art. 964. - Presso la facolta' di ingegneria e' istituito un corso di specializzazione di bioingegneria al fine di preparare tecnici specializzati per lo studio e la soluzione dei problemi interdisciplinari inerenti l'intervento dell'ingegneria nella medicina.   
+Art. 965. - Il corso ha la durata di un anno ed e' suddiviso in due semestri; e' direttore del corso un professore della facolta', nominato dal rettore su designazione del consiglio di facolta'.   
+Il consiglio del corso e' costituito dal direttore e dai docenti dei singoli insegnamenti.   
+Art. 966. - Al corso sono ammessi i laureati in ingegneria aeronautica, ingegneria elettronica, ingegneria elettrotecnica, ingegneria meccanica, ingegneria nucleare; il consiglio del corso potra' ammettere laureati in altre discipline e laureati in Paesi stranieri.   
+Il consiglio del corso delibera tempestivamente di anno in anno l'inizio dello svolgimento delle lezioni, il numero degli iscritti e le norme per l'ammissione, nonche' il numero minimo di iscritti affinche' il corso stesso abbia luogo. L'ammissione al corso e' subordinata all'esito di un colloquio sui fondamenti di controlli automatici e di calcolatori per quei laureati che non abbiano sostenuto un esame su tali materie o su materie equivalenti.   
+Il consiglio di facolta' potra' sospendere lo svolgimento del corso a partire dall'anno accademico successivo alla deliberazione.   
+Art. 967. - La frequenza ai singoli insegnamenti deve essere attestata dai rispettivi docenti secondo le modalita' stabilite dal consiglio del corso.   
+Art. 968. - Gli insegnamenti del corso vengono impartiti per la durata di un semestre ed avranno durata variabile da 45 a 60 ore di lezione.   
+Art. 969. - Sono insegnamenti del primo semestre:   
+1) principi di biologia e anatomia;   
+2) fisio-patologia;   
+3) biomeccanica;   
+4) fluidodinamica fisiologica;   
+5) strumentazione e misure biomediche.   
+Art. 970. - Sono insegnamenti del secondo semestre:   
+1) modellistica dei sistemi fisiologici;   
+2) organi artificiali;   
+3) sistemi uomo-macchina;   
+4) automazione del sistema ospedale;   
+5) principi di gestione del sistema sanitario.   
+Art. 971. - Gli insegnanti del corso sono proposti dal consiglio del corso ovvero, in caso di avviamento del medesimo, da una commissione all'uopo nominata dal consiglio di facolta' e possono essere scelti fra i professori di ruolo, fra i liberi docenti, fra gli aiuti e gli assistenti o anche fra persone di riconosciuta competenza nelle rispettive specialita'. Il corso inoltre potra' giovarsi, per talune materie, di insegnamenti svolti presso una delle facolta'. Le proposte di cui sopra sono subordinate all'approvazione del consiglio di facolta'. Alle nomine provvede il rettore.   
+Il direttore del corso presenta annualmente alla facolta', unitamente alle eventuali proposte di nuovi incarichi, una dettagliata relazione sullo svolgimento del corso nel precedente anno accademico.   
+Art. 972. - Per la validita' del corso e cioe' per il conseguimento dell'attestato di cui all'articolo seguente ciascun iscritto dovra' superare gli esami di tutti gli insegnamenti e dovra' svolgere un lavoro personale di carattere teorico o sperimentale. Il lavoro svolto verra' discusso alla presenza di una commissione costituita da tre docenti del corso prescelto dal direttore del corso e da lui presieduta.   
+Art. 973. - Agli iscritti che abbiano superato gli esami ed abbiano ottenuto l'idoneita' per il lavoro personale eseguito viene rilasciato un attestato comprovante la carriera scolastica compiuta.   
+Corso di specializzazione in elettromagnetismo applicato   
+Art. 974. - Presso la facolta' di ingegneria e' istituito un corso di specializzazione in elettromagnetismo applicato al fine di preparare tecnici specializzati per lo studio e la risoluzione dei problemi inerenti la teoria e le applicazioni dell'elettromagnetismo.   
+Art. 975. - Il corso ha la durata di un anno, e' direttore del corso un professore della facolta' nominato dal rettore su designazione del consiglio di facolta'.   
+Il consiglio del corso e' costituito dal direttore e dai docenti dei singoli insegnamenti.   
+Art. 976. - Al corso sono ammessi i laureati in ingegneria; il consiglio del corso potra' ammettere laureati in altre discipline e laureati in Paesi stranieri.   
+Il consiglio del corso delibera tempestivamente di anno in anno l'inizio e lo svolgimento delle lezioni, il numero degli iscritti e le norme per l'ammissione, nonche' il numero minimo di iscritti affinche' il corso stesso abbia luogo.   
+Il consiglio di facolta' potra' sospendere lo svolgimento del corso a partire dall'anno accademico successivo alla deliberazione.   
+Art. 977. - La frequenza ai singoli insegnamenti deve essere attestata dai rispettivi docenti secondo le modalita' stabilite dal consiglio del corso.   
+Art. 978. - Gli insegnamenti del corso vengono impartiti per la durata di un anno accademico ed avranno durata variabile da 30 a 50 ore di lezione, indicata di anno in anno dal consiglio del corso.   
+Art. 979. - Sono insegnamenti del corso di specializzazione:   
+1) circuiti a microonde;   
+2) diffrazione elettromagnetica;   
+3) elettrodinamica dei mezzi in movimento;   
+4) fenomeni di interazione del campo e.m. ed applicazioni;   
+5) metodi numerici per la risoluzione dei problemi e.m.;   
+6) radiometereologia;   
+7) radiopropagazione;   
+8) tecniche delle misure elettromagnetiche;   
+9) tecnica di progettazione delle antenne;   
+10) tecniche elettromagnetiche di diagnostica ambientale;   
+11) tecniche elettromagnetiche applicate alla bioingegneria;   
+12) tecniche ottiche nell'elettromagnetismo;   
+13) teoria delle antenne;   
+14) teoria ed applicazioni della propagazione in mezzi anisotropi.   
+Art. 980. - Ogni allievo propone un proprio piano di studi, contenente almeno sei degli insegnamenti di cui all'articolo precedente.   
+Il piano di studi deve essere approvato dal consiglio del corso.   
+Inoltre, il consiglio del corso, esaminato il curriculum di ciascun allievo ed il suo piano di studi, potra' consigliare la frequenza di uno o piu' dei seguenti corsi ufficiali della facolta':   
+1) antenne e propagazione;   
+2) campi elettromagnetici e circuiti;   
+3) microonde.   
+Art. 981. Gli insegnanti del corso sono proposti dal consiglio del corso ovvero, in caso di avviamento del medesimo, da una commissione all'uopo nominata dal consiglio di facolta' e possono essere scelti fra i professori di ruolo, fra i liberi docenti, fra gli aiuti e gli assistenti o anche fra persone di riconosciuta competenza nelle rispettive specialita'. Il corso inoltre potra' giovarsi, per talune materie, di insegnamenti svolti presso una delle facolta'.   
+Le proposte di cui sopra sono subordinate all'approvazione del consiglio di facolta'. Alle nomine provvede il rettore.   
+Il direttore del corso presenta annualmente alla facolta', unitamente alle eventuali proposte di nuovi incarichi, una dettagliata relazione sullo svolgimento del corso nel precedente anno accademico.   
+Art. 982. - Per la validita' del corso, e cioe' per il conseguimento dell'attestato di cui all'articolo seguente, ciascun iscritto dovra' superare gli esami in tutti gli insegnamenti del suo piano di studi e dovra' svolgere un lavoro personale di carattere teorico o sperimentale.   
+Il lavoro svolto verra' discusso alla presenza di una commissione costituita da tre docenti del corso prescelti dal direttore del corso e da lui presieduta.   
+Art. 983. - Agli iscritti che abbiano superato gli esami ed abbiano ottenuto l'idoneita' per il lavoro personale eseguito viene rilasciato un attestato comprovante la carriera scolastica compiuta.   
+Corso di specializzazione in metodi avanzati di analisi e   
+progettazione delle strutture   
+Art. 984. - Presso la facolta' di ingegneria dell'Universita' degli studi di Roma e' istituito un corso di specializzazione in metodi avanzati di analisi e progettazione delle strutture al fine di preparare tecnici specializzati nella risoluzione di problemi inerenti alla ricerca e alla progettazione strutturale.   
+Art. 985. - Il corso ha la durata di un anno, esso e' diretto da un professore della facolta' nominato dal rettore, su designazione del consiglio di facolta', per la durata di tre anni.   
+Il consiglio del corso e' composto dal direttore e dai docenti degli insegnamenti di cui all'art. 987.   
+Art. 986. - Al corso possono essere ammessi esclusivamente laureati in ingegneria ed in architettura.   
+Il consiglio del corso delibera ogni anno tempestivamente l'inizio delle lezioni e le norme per l'ammissione nonche' il numero minimo di iscritti affinche' il corso stesso abbia luogo.   
+Art. 987. - Gli insegnamenti previsti nel corso sono i seguenti:   
+Gruppo I: Matematica e fisica matematica:   
+1) I.1: complementi di analisi numerica e programmazione;   
+2) I.2: complementi di meccanica dei solidi;   
+3) I.3: elementi di aerodinamica applicata;   
+4) I.4: elementi di analisi funzionale.   
+Gruppo II: Problemi teorici generali:   
+5) II.1: complementi di teoria delle strutture;   
+6) II.2: dinamica delle strutture;   
+7) II.3: geotecnica teorica;   
+8) II.4: problemi speciali di scienza delle costruzioni;   
+9) II.5: sicurezza delle strutture;   
+10) II.6: stabilita' delle strutture.   
+Gruppo III: Problemi teorici applicati ai materiali strutturali:   
+11) III.1: analisi sperimentale su modelli, strutture e materiali;   
+12) III.2: complementi di teoria delle strutture di cemento armato e cemento armato precompresso;   
+13) III.3: complementi di teoria delle strutture metalliche;   
+14) III.4: proprieta' meccaniche delle terre e sperimentazione geotecnica;   
+15) III.5: tecnologia dei materiali strutturali.   
+Gruppo IV: Problemi applicativi:   
+16) IV.1: materiali e strutture speciali;   
+17) IV.2: metodi di ottimizzazione nei problemi strutturali;   
+18) IV.3: strutture in zona sismica;   
+19) IV.4: tecnica delle fondazioni;   
+20) IV.5: tecnica delle strutture di cemento armato e cemento armato precompresso;   
+21) IV.6: tecnica delle strutture metalliche.   
+Art. 988. - Il consiglio del corso delibera ogni anno tempestivamente quali insegnamenti saranno effettivamente attivati, tenendo conto di eventuali preferenze espresse dai futuri allievi e curando la rotazione dei vari insegnamenti nei successivi anni di attivita' del corso.   
+E' data inoltre facolta' al consiglio del corso, all'inizio di ogni anno accademico, di rivedere il programma del corso e di variarne l'elenco degli insegnamenti. Tali variazioni saranno proposte al consiglio di facolta' e saranno rese pubbliche soltanto dopo l'approvazione del consiglio stesso e degli altri organi competenti.   
+Art. 989. - Gli insegnanti del corso sono proposti dal consiglio del corso ovvero, in caso di avviamento del medesimo, da una commissione all'uopo nominata dal consiglio di facolta' e possono essere scelti fra i professori di ruolo, fra i liberi docenti, fra gli aiuti e gli assistenti o anche fra persone di riconosciuta competenza nelle rispettive specialita'. Il corso inoltre potra' giovarsi, per alcune materie, di insegnamenti svolti presso una delle facolta'.   
+Le proposte di cui sopra sono subordinate all'approvazione del consiglio di facolta'. Alle nomine provvede il rettore.   
+Il direttore del corso presenta annualmente alla facolta', unitamente alle eventuali proposte di nuovi incarichi, una dettagliata relazione sullo svolgimento del corso nel precedente anno accademico.   
+Art. 990. - Gli allievi del corso dovranno seguire almeno sei insegnamenti fra quelli attivati per l'anno in corso, inseriti in un organico piano di studio individuale preventivamente approvato dal consiglio del corso.   
+Durante l'anno gli allievi svolgeranno ricerche su argomenti concordati con il consiglio del corso.   
+Per la validita' del corso, cioe' per il conseguimento del diploma di cui all'art. 991, gli iscritti dovranno superare gli esami degli insegnamenti prescelti e inoltre discutere i risultati delle suddette ricerche davanti ad una commissione di cinque membri, formata dal direttore e da altri quattro docenti del corso, prescelti dal direttore.   
+Art. 991. - Agli iscritti che abbiano superato il corso viene rilasciato un diploma di specializzazione in "metodi avanzati di analisi e progettazione delle strutture".   
+Corso di specializzazione in scienza e tecnologia grafica   
+Art. 992. - Presso la facolta' di ingegneria e' istituito un corso di specializzazione in scienza e tecnologia grafica allo scopo di preparare personale specializzato nelle tecniche, nei procedimenti, nei materiali che interessano l'industria grafica (processi di stampa, di riproduzione, prodotti e macchinario relativo).   
+Il corso si articola in due diversi indirizzi dedicati prevalentemente l'uno (A) agli impianti ed alle macchine grafiche, alle applicazioni dell'elettronica, alla tecnica grafica, etc., l'altro (B) ai materiali e ai processi chimici e chimico-fisici dell'industria grafica.   
+Art. 993. - Il corso ha la durata di un anno.   
+Il direttore del corso e' un professore della facolta', nominato, per un triennio accademico, dal rettore su designazione del consiglio di facolta'.   
+Il consiglio del corso e' formato dal direttore e dai docenti delle varie materie.   
+Art. 994. - Al corso sono ammessi, per l'indirizzo (A), i laureati in ingegneria aeronautica, ingegneria chimica, ingegneria elettronica, ingegneria elettrotecnica, ingegneria meccanica, ingegneria navale e meccanica, ingegneria nucleare, e, per l'indirizzo (B), i laureati in chimica e in chimica industriale.   
+Il consiglio del corso potra' ammettere, come uditori, tecnici di industrie grafiche in possesso dei necessari requisiti per poter trarre profitto dalla frequenza.   
+Il consiglio del corso delibera tempestivamente di anno in anno l'inizio e lo svolgimento delle lezioni, il numero degli iscritti, le norme per l'ammissione.   
+Il consiglio di facolta' potra' sospendere lo svolgimento del corso a partire dall'anno accademico successivo alla deliberazione.   
+Art. 995. - Il corso prevede oltre agli insegnamenti teorici sotto riportati, conferenze ed esercitazioni pratiche.   
+Insegnamenti comuni ai due indirizzi:   
+1) tipologia e tecnologia grafica;   
+2) impianti e macchine grafiche I;   
+3) materiali per l'industria grafica I;   
+4) sicurezza del lavoro e igiene nell'industria grafica;   
+5) legislazione riguardante l'industria grafica;   
+6) organizzazione industriale.   
+Insegnamenti complementari per l'indirizzo A:   
+7) impianti e macchine grafiche II;   
+8) problemi di esercizio delle macchine grafiche;   
+9) elementi di automazione applicata alla tecnografia.   
+Insegnamenti complementari per l'indirizzo B:   
+10) materiali per l'industria grafica II;   
+11) analisi e controlli su materiali per l'industria grafica.   
+Art. 996. - Gli insegnanti del corso sono proposti dal consiglio del corso che puo' sceglierli tra professori, assistenti, tecnici dell'industria, professionisti di riconosciuta competenza nelle rispettive specialita'. In caso di avviamento del corso tali proposte saranno preparate da una commissione all'uopo nominata dal consiglio di facolta'.   
+Le proposte sono subordinate all'approvazione del consiglio di facolta' ed alle nomine provvede il rettore.   
+Il direttore del corso presenta annualmente alla facolta', unitamente alle eventuali proposte di nuovi incarichi, una dettagliata relazione sullo svolgimento del corso nel precedente anno accademico.   
+Art. 997. - Per la validita' del corso e cioe' per il conseguimento dell'attestato di cui all'art. 998 ciascun iscritto dovra' frequentare le lezioni e le esercitazioni e superare gli esami negli insegnamenti seguiti e dovra' inoltre svolgere uno studio di carattere teorico o sperimentale su materia degli insegnamenti. Tale elaborato sara' discusso davanti ad una commissione dei docenti del corso presieduta dal direttore del corso medesimo.   
+Art. 998. - Agli iscritti che abbiano superato gli esami ed abbiano ottenuto l'idoneita' per lo studio personale eseguito viene rilasciato un attestato comprovante la carriera scolastica compiuta.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 ottobre 1955
+### Dato a Roma, addi' 20 dicembre 1980
 
-GRONCHI ROSSI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: SARTI
 
-Registrato alla Corte dei conti, addi' 29 ottobre 1955
+Registrato alla Corte dei conti, addi' 30 luglio 1981
 
-Atti del Governo, registro n. 93, foglio n. 109. - CARLOMAGNO
+Registro n. 73 Istruzione, foglio n. 253

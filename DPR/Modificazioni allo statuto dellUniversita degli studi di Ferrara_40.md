@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 946
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 maggio 1977 n. 458
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 946
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 maggio 1977 n. 458
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 -------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -30,71 +30,77 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Gli articoli da 124 a 129, relativi alla "Scuola di perfezionamento in diagnostica di laboratorio" che muta denominazione in quella di "Scuola di specializzazione per medici laboratoristi", sono abrogati e sostituiti dai seguenti:
+L'art. 111, relativo alla scuola di specializzazione in chirurgia, e' modificato nel senso che la scuola muta la denominazione in quella di scuola di specializzazione in chirurgia generale.
 
-Scuola di specializzazione per medici laboratoristi
+L'art. 120, relativo alla scuola di specializzazione in neurologia, e' modificato nel senso che il quarto e il quinto comma sono soppressi.
 
-Art. 124. - La scuola di specializzazione per medici laboratoristi ha lo scopo di preparare sul piano scientifico e tecnico i medici che intendono dedicarsi particolarmente alle analisi di laboratorio applicate alla clinica e rilascia il diploma di "specialista in analisi cliniche di laboratorio".
+L'art. 123, relativo alla scuola di specializzazione in psichiatria, e' modificato nel senso che il quarto e il quinto comma sono soppressi.
 
-Possono essere ammessi i laureati in medicina e chirurgia.
+L'art. 139, relativo alla scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale, e' modificato nel senso che la scuola muta la denominazione in quella di scuola di specializzazione in otorinolaringoiatria.
 
-Art. 125. - Il corso ha la durata di tre anni ed ha luogo negli istituti di chimica biologica e di microbiologia, ovvero in loro mancanza presso gli istituti ove le suddette cattedre hanno sede.
+Dopo l'art. 173, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in foniatria.
 
-Art. 126. - Gli iscritti al primo anno non potranno superare il numero di 15 con un numero complessivo nei tre anni di 45. Nel caso di domande eccedenti, la selezione verra' effettuata mediante concorso con norme che verranno precisate nel manifesto annuale.
+Scuola di specializzazione in foniatria
 
-Art. 127. - La direzione della scuola viene assunta dai professori di ruolo di chimica biologica e di microbiologia.
+Art. 174. - La scuola di specializzazione in foniatria ha sede presso l'istituto di clinica otorinolaringoiatrica dell'Universita' di Ferrara. Essa e' diretta dal titolare di una delle cattedre afferenti all'istituto policattedra di clinica otorinolaringoiatrica dell'Universita' di Ferrara, con designazione da parte del consiglio di facolta'. La scuola e' retta secondo le norme del regolamento generale delle scuole di specializzazione dell'Universita' di Ferrara.
 
-Art. 128. - Gli insegnamenti impartiti dalla scuola sono distribuiti nei tre anni come segue:
+((Art. 175. - La durata del corso e' di tre anni. L'indirizzo e' teorico-pratico. Il numero massimo complessivo e' di dodici. La durata del corso non e' suscettibile di abbreviazione.))
+
+Art. 176. - L'ammissione al corso e' per titoli ed esami; titolo necessario per l'ammissione al corso e' la laurea in medicina e chirurgia.
+
+Art. 177. - Alla fine di ciascun anno scolastico gli specializzandi dovranno sostenere un esame di profitto il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo e, per quelli che sono iscritti all'ultimo anno, per poter accedere all'esame di diploma.
+
+Alla fine del terzo anno del corso ha luogo l'esame di diploma, consistente nella preparazione e discussione di una dissertazione scritta su di un argomento di foniatria previamente concordato tra il diplomando e il direttore della scuola.
+
+Art. 178. - Gli insegnamenti impartiti nella scuola sono i seguenti:
 
 1° Anno:
 
-1) fisiologia;
+anatomia dei sistemi uditivo e fonatorio;
 
-2) patologia generale;
+fisiologia dei sistemi uditivo e fonatorio;
 
-3) chimica biologica generale;
+fonetica ed elementi di linguistica;
 
-4) batteriologia generale;
+clinica otorinolaringoiatrica;
 
-5) nozioni di igiene applicate al laboratorio di analisi cliniche;
+elementi di fisica acustica;
 
-6) tecnica dei prelevamenti;
-
-7) tecnica di laboratorio.
+audiologia.
 
 2° Anno:
 
-8) batteriologia speciale;
+foniatria I;
 
-9) chimica biologica applicata;
+semeiotica foniatrica;
 
-10) fisico-chimica biologica;
+elementi di psicologia generale;
 
-11) parassitologia e tecniche relative;
+psicologia del linguaggio;
 
-12) micologia.
+fonetica sperimentale;
+
+tecnica di riabilitazione fonetica I.
 
 3° Anno:
 
-13) nozioni di statistica biologica;
+foniatria II;
 
-14) nozioni di immunochimica applicata;
+tecnica di riabilitazione fonetica II;
 
-15) virologia e tecniche relative;
+informatica del linguaggio;
 
-16) microscopia clinica;
+disturbi del linguaggio in rapporto alle sindromi neurologiche; neuropsichiatria infantile;
 
-17) immunologia e tecniche relative;
+psicometria in rapporto alla foniatria;
 
-18) identificazione di tracce biologiche;
+fono-chirurgia.
 
-19) tecniche ematologiche di laboratorio.
-
-Art. 129. - Alla fine di ciascun anno scolastico gli specializzandi dovranno sostenere un esame di profitto, il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo e, per quelli che sono iscritti all'ultimo anno, per poter accedere all'esame di diploma. Alla fine del terzo anno del corso ha luogo l'esame di diploma consistente nella preparazione e discussione di una dissertazione scritta su un argomento previamente concordato tra il diplomando e il direttore della scuola.
+Per tasse, soprattasse e contributi si fa riferimento alle norme statutarie in vigore.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 31 ottobre 1975
+Dato a Roma, addi' 23 maggio 1977
 
 LEONE
 
@@ -105,67 +111,74 @@ Visto, il Guardasigilli: BONIFACIO
 Registrato
 ----------
 
-alla Corte dei conti, addi' 30 marzo 1976 Atti di Governo, registro n. 4, foglio n. 48
+alla Corte dei conti, addi' 28 luglio 1977 Registro n. 88 Istruzione, foglio n. 396
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
 Sulla proposta del Ministro per la pubblica istruzione;   
+  
 Decreta:   
+  
 Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Gli articoli da 124 a 129, relativi alla "Scuola di perfezionamento in diagnostica di laboratorio" che muta denominazione in quella di "Scuola di specializzazione per medici laboratoristi", sono abrogati e sostituiti dai seguenti:   
   
-Scuola di specializzazione per medici laboratoristi   
+L'art. 111, relativo alla scuola di specializzazione in chirurgia, e' modificato nel senso che la scuola muta la denominazione in quella di scuola di specializzazione in chirurgia generale.   
+L'art. 120, relativo alla scuola di specializzazione in neurologia, e' modificato nel senso che il quarto e il quinto comma sono soppressi.   
+L'art. 123, relativo alla scuola di specializzazione in psichiatria, e' modificato nel senso che il quarto e il quinto comma sono soppressi.   
+L'art. 139, relativo alla scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale, e' modificato nel senso che la scuola muta la denominazione in quella di scuola di specializzazione in otorinolaringoiatria.   
+Dopo l'art. 173, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in foniatria.   
+Scuola di specializzazione in foniatria   
+Art. 174. - La scuola di specializzazione in foniatria ha sede presso l'istituto di clinica otorinolaringoiatrica dell'Universita' di Ferrara. Essa e' diretta dal titolare di una delle cattedre afferenti all'istituto policattedra di clinica otorinolaringoiatrica dell'Universita' di Ferrara, con designazione da parte del consiglio di facolta'. La scuola e' retta secondo le norme del regolamento generale delle scuole di specializzazione dell'Universita' di Ferrara.   
+
+((Art. 175. - La durata del corso e' di tre anni. L'indirizzo e' teorico-pratico. Il numero massimo complessivo e' di dodici. La durata del corso non e' suscettibile di abbreviazione.))
+
   
-Art. 124. - La scuola di specializzazione per medici laboratoristi ha lo scopo di preparare sul piano scientifico e tecnico i medici che intendono dedicarsi particolarmente alle analisi di laboratorio applicate alla clinica e rilascia il diploma di "specialista in analisi cliniche di laboratorio".   
-Possono essere ammessi i laureati in medicina e chirurgia.   
-Art. 125. - Il corso ha la durata di tre anni ed ha luogo negli istituti di chimica biologica e di microbiologia, ovvero in loro mancanza presso gli istituti ove le suddette cattedre hanno sede.   
-Art. 126. - Gli iscritti al primo anno non potranno superare il numero di 15 con un numero complessivo nei tre anni di 45. Nel caso di domande eccedenti, la selezione verra' effettuata mediante concorso con norme che verranno precisate nel manifesto annuale.   
-Art. 127. - La direzione della scuola viene assunta dai professori di ruolo di chimica biologica e di microbiologia.   
-Art. 128. - Gli insegnamenti impartiti dalla scuola sono distribuiti nei tre anni come segue:   
+Art. 176. - L'ammissione al corso e' per titoli ed esami; titolo necessario per l'ammissione al corso e' la laurea in medicina e chirurgia.   
+Art. 177. - Alla fine di ciascun anno scolastico gli specializzandi dovranno sostenere un esame di profitto il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo e, per quelli che sono iscritti all'ultimo anno, per poter accedere all'esame di diploma.   
+Alla fine del terzo anno del corso ha luogo l'esame di diploma, consistente nella preparazione e discussione di una dissertazione scritta su di un argomento di foniatria previamente concordato tra il diplomando e il direttore della scuola.   
+Art. 178. - Gli insegnamenti impartiti nella scuola sono i seguenti:   
 1° Anno:   
-1) fisiologia;   
-2) patologia generale;   
-3) chimica biologica generale;   
-4) batteriologia generale;   
-5) nozioni di igiene applicate al laboratorio di analisi cliniche;   
-6) tecnica dei prelevamenti;   
-7) tecnica di laboratorio.   
+anatomia dei sistemi uditivo e fonatorio;   
+fisiologia dei sistemi uditivo e fonatorio;   
+fonetica ed elementi di linguistica;   
+clinica otorinolaringoiatrica;   
+elementi di fisica acustica;   
+audiologia.   
 2° Anno:   
-8) batteriologia speciale;   
-9) chimica biologica applicata;   
-10) fisico-chimica biologica;   
-11) parassitologia e tecniche relative;   
-12) micologia.   
+foniatria I;   
+semeiotica foniatrica;   
+elementi di psicologia generale;   
+psicologia del linguaggio;   
+fonetica sperimentale;   
+tecnica di riabilitazione fonetica I.   
 3° Anno:   
-13) nozioni di statistica biologica;   
-14) nozioni di immunochimica applicata;   
-15) virologia e tecniche relative;   
-16) microscopia clinica;   
-17) immunologia e tecniche relative;   
-18) identificazione di tracce biologiche;   
-19) tecniche ematologiche di laboratorio.   
-Art. 129. - Alla fine di ciascun anno scolastico gli specializzandi dovranno sostenere un esame di profitto, il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo e, per quelli che sono iscritti all'ultimo anno, per poter accedere all'esame di diploma. Alla fine del terzo anno del corso ha luogo l'esame di diploma consistente nella preparazione e discussione di una dissertazione scritta su un argomento previamente concordato tra il diplomando e il direttore della scuola.   
+foniatria II;   
+tecnica di riabilitazione fonetica II;   
+informatica del linguaggio;   
+disturbi del linguaggio in rapporto alle sindromi neurologiche; neuropsichiatria infantile;   
+psicometria in rapporto alla foniatria;   
+fono-chirurgia.   
+Per tasse, soprattasse e contributi si fa riferimento alle norme statutarie in vigore.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1975
+### Dato a Roma, addi' 23 maggio 1977
 
 LEONE MALFATTI
 
 Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 30 marzo 1976
+Registrato alla Corte dei conti, addi' 28 luglio 1977
 
-Atti di Governo, registro n. 4, foglio n. 48
+Registro n. 88 Istruzione, foglio n. 396

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1980 n. 360
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1981 n. 879
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1980 n. 360
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1981 n. 879
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 -------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -26,40 +26,93 @@ Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte,
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Veduto il [parere della sezione prima del Consiglio di Stato n. 1902/74 del 14 febbraio 1975](https://e-justice.europa.eu/ecli/ECLI::::);
+Sulla proposta del Ministro della pubblica istruzione;
 
-Considerato che non appare opportuno, al momento, procedere ad una generale revisione delle norme statutarie di tutti gli Atenei relative alla direzione delle scuole di specializzazione e perfezionamento e degli istituti nonche' delle scuole dirette a fini speciali, attualmente affidata esclusivamente ai professori di ruolo o fuori ruolo, in attesa del provvedimento relativo allo stato giuridico del personale docente;
+Decreta:
+--------
 
-Sulla
------
+Lo statuto dell'Universita' di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-proposta del Ministro della pubblica istruzione; Decreta:
-
-Articolo unico
---------------
+Art. 1
+------
 
   
-Lo statuto dell'Universita' di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli 101, 102, 104 e 105, relativi alle norme generali per le scuole di specializzazione annesse alla facolta' di medicina e chirurgia, sono soppressi e sostituiti dai seguenti:  
-Art. 101. - Alle scuole di specializzazione possono iscriversi solo i laureati in medicina e chirurgia, salvo diversi indirizzi.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio della professione rilasciato dall'autorita' competente.  
-Non e' ammessa l'iscrizione contemporanea a piu' di una scuola di specializzazione.  
-Art. 102. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione, e, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Il consiglio di ciascuna scuola e' formato dai professori che tengono gli insegnamenti ed e' presieduto dal direttore della scuola stessa.  
-Art. 104. - L'ammissione alla scuola e' subordinata ad un concorso per titoli ed esami.  
-La durata dei corsi e' fissata nello statuto delle singole scuole.  
-Art. 105. - Non sono consentite abbreviazioni di corso.  
+Il primo comma dell'art. 110, relativo alla scuola di specializzazione in endocrinologia, e' sostituito dal seguente:  
+"La scuola ha la durata di anni tre; il numero degli iscritti e' limitato a dodici per ogni anno di corso".  
+
+Art. 2
+------
+
+  
+Il primo comma dell'art. 113, relativo alla scuola di specializzazione in oftalmologia, e' sostituito dal seguente:  
+"La scuola ha la durata di quattro anni. Il numero degli studenti che possono essere iscritti e' limitato a cinque per ogni anno di corso".  
+
+Art. 3
+------
+
+  
+Il primo comma dell'art. 114, relativo alla scuola di specializzazione in chirurgia, e' sostituito dal seguente:  
+"La scuola ha la durata di cinque anni; il numero degli iscritti e' limitato a nove per ogni anno di corso".  
+
+Art. 4
+------
+
+  
+Il primo comma dell'art. 115, relativo alla scuola di specializzazione in medicina interna, e' sostituito dal seguente:  
+"La scuola ha la durata di cinque anni; il numero degli iscritti e' limitato a dieci per ogni anno di corso".  
+
+Art. 5
+------
+
+  
+Il primo comma dell'art. 116, relativo alla scuola di specializzazione in igiene e medicina preventiva, e' sostituito dal seguente:  
+"La scuola ha la durata di tre anni; il numero degli studenti che possono essere iscritti e' limitato a venti per ogni anno di corso".
+
+Art. 6
+------
+
+  
+Il quinto comma dell'art. 118, relativo alla scuola di specializzazione in anestesia e rianimazione, e' sostituito dal seguente:  
+"Il numero massimo degli allievi e' di dieci per anno di corso e complessivamente di trenta iscritti per l'intero corso di studi".  
+
+Art. 7
+------
+
+  
+Il quinto comma dell'art. 121, relativo alla scuola di specializzazione in cardiologia, e' sostituito dal seguente:  
+"Il numero massimo degli allievi e' di dodici per anno di corso e complessivamente di quarantotto iscritti per l'intero corso di studi".  
+
+Art. 8
+------
+
+  
+Il secondo comma dell'art. 122, relativo alla scuola di specializzazione in odontostomatologia, e' sostituito dal seguente:  
+"Il numero dei posti disponibili per ogni anno accademico e' limitato a sei (totale diciotto iscritti)".  
+
+Art. 9
+------
+
+  
+Il primo comma dell'art. 125, relativo alla scuola di specializzazione in neurologia e' sostituito dal seguente:  
+"La scuola ha la durata di quattro anni; il numero degli iscritti e' limitato a sei per ogni anno di corso".  
+
+Art. 10
+-------
+
+  
+Il primo comma dell'art. 127, relativo alla scuola di specializzazione in psichiatria, e' sostituito dal seguente:  
+"La scuola ha la durata di quattro anni; il numero degli iscritti e' limitato ad otto per ogni anno di corso".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 marzo 1980
+### Dato a Roma, addi' 21 ottobre 1981
 
-PERTINI VALITUTTI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 26 giugno 1980
+Registrato alla Corte dei conti, addi' 20 gennaio 1982
 
-Registro n. 61 Istruzione, foglio n. 315
+Registro n. 6 Istruzione, foglio n. 93

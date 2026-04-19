@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 997
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 aprile 1958 n. 662
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 997
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 aprile 1958 n. 662
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Genova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2848](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2848), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846) e successivi;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,221 +18,504 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio superiore della pubblica istruzione; nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 155 - all'elenco delle scuole di specializzazione in medicina e chirurgia e' aggiunta la scuola di specializzazione in patologia della riproduzione umana.
+Art. 10, concernente norme sulla propedeuticita' di alcuni insegnamenti del corso di laurea in giurisprudenza, e' cosi' modificato:
 
-Dopo l'art. 415, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla scuola di specializzazione in patologia della riproduzione umana.
+"Lo studente che non abbia previamente superato l'esame di istituzioni di diritto privato non puo' sostenere gli esami di diritto ecclesiastico, diritto civile, diritto commerciale, diritto del lavoro, diritto processuale civile, diritto internazionale, diritto amministrativo, diritto penale, procedura penale, diritto canonico, diritto privato comparato, diritto industriale, diritto della navigazione e diritto agrario.
 
-Scuola di specializzazione in patologia della riproduzione umana
+Lo studente che non abbia previamente superato gli esami di istituzioni di diritto romano e storia del diritto romano non e' ammesso a sostenere gli esami di storia del diritto italiano e diritto romano.
 
-Art. 416. - Presso l'istituto di clinica ostetrica e ginecologica e' istituita la scuola di specializzazione in patologia della riproduzione umana, la quale ha lo scopo di conferire una qualificata preparazione nel campo della patologia della riproduzione e dei problemi ad essa collegati, oltre a curare lo studio degli aspetti sociologici, demografici e di pianificazione familiare inerenti alla disciplina.
+Lo studente che non abbia previamente superato lo esame di istituzioni di diritto romano, non e' ammesso a sostenere l'esame di diritto civile.
 
-Direttore della scuola e' il professore di ruolo i fuori ruolo della stessa materia della specializzazione o, in carenza, il professore di ruolo o fuori ruolo di materia affine.
+Lo studente che non abbia previamente superato l'esame di diritto costituzionale, non e' ammesso a sostenere gli esami di: diritto ecclesiastico, diritto processuale civile, diritto internazionale, diritto amministrativo, diritto penale, procedura penale, diritto coloniale.
 
-Art. 417. - La durata del corso e' di tre anni.
+Lo studente che non abbia previamente superato l'esame di economia politica non e' ammesso a sostenere l'esame di scienza delle finanze e diritto finanziario".
 
-Non saranno concesse abbreviazioni di corso.
+Art. 12, concernente norme sulla propedeuticita' di alcuni insegnamenti del corso di laurea in scienze politiche, e' cosi' modificato:
 
-Il numero massimo degli allievi iscrivibili e' di undici complessivamente per l'intero corso degli studi.
+"Lo studente che non abbia superato l'esame di istituzioni di diritto privato, non e' ammesso a sostenere gli esami di diritto amministrativo, diritto internazionale, diritto del lavoro.
 
-L'ammissione alla scuola avverra' per titoli ed esami;
+Lo studente che non abbia previamente superato l'esame di istituzioni di diritto pubblico, non e' ammesso a sostenere gli esami di diritto amministrativo, diritto internazionale, diritto costituzionale italiano e comparato.
 
-l'esame consistera' in una prova scritta e in una orale su temi di medicina generale e di anatomia patologica.
+Lo studente che non abbia previamente superato l'esame di economia politica, non e' ammesso a sostenere gli esami di politica economica e di storia delle dottrine economiche.
 
-Sono da considerare titoli preferenziali, a parita' di risultato dell'esame di ammissione:
+Lo studente che non abbia previamente superato lo esame di statistica non e' ammesso all'esame di politica economica".
 
-a) il voto di laurea in medicina e chirurgia;
+Art. 23. - Agli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti i seguenti "Lingua romena";
 
-b) il voto riportato nelle materie ostetriche e ginecologiche;
+"Ragioneria delle imprese marittime";
 
-c) l'aver compilato la tesi di laurea in clinica ostetrica;
+"Tecnica amministrativa delle imprese marittime";
 
-d) l'aver avuto la qualifica di studente interno;
+"Tecnica delle assicurazioni marittime";
 
-e) la documentazione di servizi prestati in divisioni ostetriche e ginecologiche di ospedali regionali, anche come tirocinante;
+"Storia delle dottrine economiche";
 
-f) eventuali pubblicazioni inerenti alle materie di insegnamento.
+"Econometrica".
 
-Per quanto non contemplato, valgono le norme generali delle scuole di specializzazione in medicina e chirurgia previste dal presente statuto.
+Art. 24, concernente norme sulla propedeuticita' di alcuni insegnamenti del corso di laurea in economia e commercio, e' modificato nel senso che il quarto comma e' cosi' trasformato: "La matematica generale e' considerata propedeutica alla matematica finanziaria, alla statistica, all'economia politica del secondo anno, alla scienza delle finanze e diritto finanziario e alla politica economica e finanziaria".
 
-Art. 418. - Le materie di insegnamento sono:
+Art. 29. - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di: "storia della musica".
 
-1° Anno:
+Art. 30. - Agli insegnamenti complementari del corso di laurea in filosofia e' aggiunto quello di "filosofia della scienza".
 
-biologia generale della riproduzione;
+Dagli insegnamenti complementari dello stesso corso di laurea e' tolto quello di "storia della musica".
 
-embriologia ed anatomia dell'apparato riproduttivo umano;
+Art. 33, relativo all'alternativita' degli insegnamenti di "storia medioevale" e di "storia moderna" nel corso di laurea in lettere e filosofia e' soppresso.
 
-fisiologia della riproduzione umana;
+Art. 48. - Agli insegnamenti complementari del corso di laurea in chimica sono aggiunti i seguenti:
 
-genetica umana;
+Per l'indirizzo organico-biologico:
 
-immunologia normale e patologia della riproduzione umana;
+"Chimica nucleare";
 
-psicodinamica della riproduzione umana I;
+"Chimica macromolecolare";
 
-lingua inglese I.
+"Chimica delle sostanze coloranti";
 
-2° Anno:
+"Chimica teorica";
 
-fisiopatologia della riproduzione umana;
+"Radiochimica";
 
-anatomia e istologia patologica dell'apparato riproduttivo;
+"Fotochimica".
 
-endocrinologia della riproduzione umana;
+Per l'indirizzo inorganico chimico-fisico:
 
-andrologia;
+"Chimica nucleare";
 
-teratologia;
+"Strutturistica chimica";
 
-patologia e clinica della gravidanza;
+"Chimica teorica";
 
-urologia e patologia della riproduzione umana;
+"Radiochimica";
 
-psicodinamica della riproduzione umana II;
+"Chimica dei solidi";
 
-sessuologia medica I;
+"Fotochimica".
 
-lingua inglese II.
+Art. 49. - Agli insegnamenti complementari del corso di laurea in chimica industriale sono aggiunti i seguenti:
 
-3° Anno:
+"Chimica nucleare";
 
-nosografia della riproduzione umana;
+"Strutturistica chimica";
 
-diagnostica della patologia della riproduzione umana;
+"Chimica macromolecolare";
 
-terapia medica della patologia della riproduzione umana;
+"Chimica delle sostanze coloranti";
 
-terapia chirurgica della patologia, della riproduzione umana;
+"Chimica teorica";
 
-sessuologia medica II;
+"Radiochimica";
 
-patologia psicosomatica in ostetricia e ginecologia;
+"Chimica dei solidi".
 
-sociologia della riproduzione umana;
+Art. 50. - Agli insegnamenti complementari del corso di laurea in fisica sono aggiunti i seguenti:
 
-antropologia ed etnologia della riproduzione umana;
+"Teoria delle funzioni";
 
-demografia;
+"Analisi funzionale";
 
-lingua inglese III.
+"Fisica atomica";
 
-Art. 419. - Sono previste per gli allievi attivita' interne ed esterne con obbligo di periodi di tirocinio presso strutture periferiche, nelle quali verranno affrontati, sotto vari aspetti, problemi di fisiopatologia della riproduzione.
+"Meccanica statistica";
 
-Oltre ai corsi di lezioni, sono istituzionalmente previsti seminari e gruppi di studio anche con docenti esterni o realizzati mediante incontri organizzati al di fuori dell'ambiente universitario, nelle comunita' di lavoro, nei quartieri od in ogni ambiente periferico dove possono essere vivi i problemi connessi con gli argomenti affrontati nell'ambito della scuola.
+"Fisica nucleare";
 
-Art. 420. - La dissertazione per l'esame di diploma dovra' comprendere anche la documentazione delle esperienze maturate negli anni di corso, attraverso il confronto con gli ambienti esterni frequentati.
+"Fisica delle particelle elementari";
 
-Agli allievi che supereranno l'esame di diploma verra' rilasciato il diploma di specializzazione in patologia della riproduzione umana.
+"Elettronica";
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+"Fisica dello stato solido";
 
-Dato a Roma, addi' 31 ottobre 1978
+"Astrofisica".
 
-PERTINI
+Art. 51. - Agli insegnamenti complementari del corso di laurea in scienze matematiche sono aggiunti i seguenti:
 
-PEDINI
+"Analisi funzionale";
 
-Visto, il Guardasigilli: BONIFACIO
+"Algebra superiore";
+
+"Teoria generale delle vibrazioni".
+
+Art. 52. - Agli insegnamenti complementari del corso di laurea in matematica e fisica sono aggiunti i seguenti:
+
+"Analisi funzionale";
+
+"Algebra superiore";
+
+"Teoria generale delle vibrazioni";
+
+"Meccanica statistica";
+
+"Fisica atomica";
+
+"Astrofisica".
+
+Art. 55. - Agli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti i seguenti:
+
+"Giacimenti minerari";
+
+"Geofisica mineraria";
+
+"Sismologia";
+
+"Oceanografia".
+
+Art. 59, relativo alle precedenze da osservarsi per gli esami nei vari corsi di laurea nella Facolta' di scienze matematiche, fisiche e naturali, e' cosi' modificato:
+
+"Per le iscrizioni e per gli esami debbono osservarsi le seguenti precedenze:
+
+Per le lauree in chimica ed in chimica industriale l'iscrizione all'insegnamento di esercitazioni di preparazioni chimiche ed il relativo esame devono precedere la iscrizione alle esercitazioni di analisi chimica qualitativa; l'esame di mineralogia deve essere preceduto dagli esami di istituzioni di matematiche 1°, chimica generale ed inorganica 1° e fisica sperimentale 1°. Per essere ammessi ai corsi di: preparazioni chimiche 4°, esercitazioni di analisi chimica organica e esercitazioni di chimica industriale, e' necessaria la firma di frequenza del corso di analisi chimica quantitativa
+
+Per la laurea in fisica gli insegnamenti di analisi matematica (algebrica ed infinitesimale), di geometria analitica con elementi di proiettiva, di meccanica razionale con elementi di statica grafica, di fisica sperimentale, di preparazioni chimiche, di esercitazioni di fisica sperimentale 1° e 2°, di chimica generale ed inorganica con elementi di organica, ed i relativi esami, devono precedere quelli di analisi superiore, di fisica matematica, di fisica teorica, di fisica superiore, di chimica fisica e di esercitazioni di fisica sperimentale 3°.
+
+Per la laurea in scienze matematiche gli insegnamenti di analisi matematica (algebrica ed infinitesimale), di geometria analitica con elementi di proiettiva e geometria descrittiva con disegno, di meccanica razionale con elementi di statica grafica e disegno, di fisica sperimentale con esercitazioni biennali, di chimica generale ed inorganica con elementi di organica, ed i relativi esami, devono precedere quelli di analisi superiore, di geometria superiore e di fisica matematica.
+
+Per la laurea in matematica e fisica, gli insegnamenti di analisi matematica (algebrica ed infinitesimale), di geometria analitica con elementi di proiettiva e geometria descrittiva con disegno, di meccanica razionale con elementi di statica grafica e disegno, di fisica sperimentale con esercitazioni biennali, di chimica generale ed inorganica con elementi di organica ed i relativi esami, devono precedere quelli di analisi superiore, di geometria superiore, di matematiche complementari, di fisica teorica, di fisica superiore e di astronomia.
+
+Per la laurea in scienze naturali gli insegnamenti di istituzioni di matematiche, di fisica, di chimica generale ed inorganica, di chimica organica, di mineralogia, di botanica 1° e di zoologia, devono precedere quelli di botanica 2°, geologia, geografia, anatomia comparata, anatomia umana e fisiologia generale. Gli esami di: mineralogia, botanica e zoologia devono essere preceduti dagli esami di: istituzioni di matematiche, chimica generale ed inorganica, fisica.
+
+Per il biennio propedeutico agli studi di ingegneria l'esame di mineralogia e geologia deve essere preceduto dagli esami di: geometria analitica con elementi di proiettiva, chimica generale ed inorganica con elementi di organica e fisica sperimentale 1°.
+
+Per il corso di laurea in scienze geologiche gli insegnamenti di: istituzioni di matematiche, fisica sperimentale (biennale), chimica generale ed inorganica con elementi di organica, geografia, geografia fisica, mineralogia, topografia e cartografia ed i relativi esami devono precedere quelli di geologia, fisica terrestre, petrografia, paleontologia, geologia applicata; lo studente non puo' sostenere l'esame di topografia e cartografia se non ha superato quello di istituzioni di matematiche; l'esame di mineralogia se non ha superato quelli di: istituzioni di matematiche, chimica generale ed inorganica con elementi di organica e fisica sperimentale 1°; l'esame di geologia se non ha superato quelli di: petrografia, paleontologia; l'esame di geologia applicata se non ha superato quello di geologia.
+
+Per il corso di laurea in scienze biologiche gli insegnamenti di: istituzioni di matematiche, fisica, chimica generale ed inorganica, chimica organica, zoologia, botanica 1° ed i relativi esami devono precedere quelli di: botanica 2°, anatomia umana, anatomia comparata, fisiologia generale. Gli esami di: istituzioni di matematiche, fisica, chimica generale ed inorganica devono precedere quelli di botanica e zoologia.
+
+Art. 64. - Agli insegnamenti complementari del corso di laurea in farmacia e' aggiunto quello di: "chimica farmaceutica applicata".
+
+Art. 74. - Agli insegnamenti complementari del corso di laurea in ingegneria e' aggiunto quello di: "tecnica della regolazione e servomeccanismi".
+
+Dopo l'art. 80 e con il conseguente spostamento di quelli successivi sono inseriti i seguenti nuovi articoli, relativi alla scuola di perfezionamento in filologia classica.
+
+Scuola di perfezionamento in filologia classica
+
+Art. 81. - Presso la Facolta' di lettere e filosofia e' istituita, una scuola di perfezionamento in filologia classica che ha lo scopo di conferire la necessaria cultura e competenza sia a coloro che vogliano intraprendere ricerche scientifiche, sia a coloro che intendano dedicarsi all'insegnamento delle discipline classiche.
+
+Alla scuola di perfezionamento possono essere iscritti i laureati in lettere e filosofia.
+
+Possono essere ammessi i laureati stranieri forniti di lauree equipollenti alle sopraindicate.
+
+Art. 82. - La scuola di perfezionamento rilascia un diploma.
+
+Gli studi per il conseguimento del diploma di perfezionamento durano due anni.
+
+Art. 83. - L'esame di diploma di perfezionamento consiste nella presentazione di un lavoro scritto avente carattere di originalita', seguita dalla discussione orale intorno a detto lavoro.
+
+Per la composizione della commissione di esame si osservano le norme stabilite con il regolamento approvato con [regio decreto 4 giugno 1938, n. 1269](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-04;1269).
+
+Art. 84. - Le materie costitutive per conseguire il diploma di perfezionamento in filologia classica sono sei, due biennali, quattro annuali.
+
+Sono obbligatori, con la facolta' di scegliere se annuale o biennale, gli esami di:
+
+Letteratura greca;
+
+Letteratura latina.
+
+Degli annuali sono obbligatori:
+
+Filologia greco-latina;
+
+Glottologia.
+
+Gli altri esami possono essere scelti fra le seguenti discipline:
+
+Grammatica greca e latina;
+
+Storia comparata delle lingue classiche;
+
+Papirologia;
+
+Storia romana con esercitazioni di epigrafia;
+
+Storia greca;
+
+Archeologia e storia dell'arte greca e romana;
+
+Storia della filosofia antica Antichita' greche e romane;
+
+Letteratura cristiana antica;
+
+Filologia e letteratura bizantina.
+
+Art. 85. - Le tasse da pagarsi sono le medesime prescritte per la Facolta' di lettere e filosofia, per il primo anno e per il quarto.
+
+Coloro che sostengono l'esame per il conseguimento del diploma devono pagare la tassa relativa nella misura fissata per l'esame di laurea nella predetta Facolta'.
+
+Art. 86. - La spesa relativa al funzionamento della predetta scuola di perfezionamento sara' a carico del bilancio ordinario dell'Universita'.
+
+Art. 87. - All'elenco delle scuole di specializzazione annesse alla Facolta' di medicina e chirurgia e' aggiunta quella di "medicina del lavoro".
+
+Dopo l'art. 199, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della scuola di specializzazione in medicina del lavoro.
+
+Scuola di specializzazione in medicina del lavoro
+
+Art. 200. - Presso l'Istituto di medicina del lavoro e' istituita la scuola di specializzazione in medicina del lavoro, che ha lo scopo di conferire la necessaria competenza teorica e pratica ai laureati in medicina e chirurgia, i quali intendono conseguire il diploma di specializzazione in medicina del lavoro. La scuola ha la durata di due anni. Ad essa possono iscriversi soltanto i laureati in medicina e chirurgia.
+
+Le norme per l'iscrizione, per gli esami, le tasse, ecc. sono quelle generali per le scuole di specializzazione e di perfezionamento riferite negli articoli da 87 a 103 di questo statuto.
+
+Art. 201. - Gli insegnamenti impartiti nella suddetta scuola sono i seguenti:
+
+1° anno:
+
+1) Biotipologia e medicina preventiva dei lavoratori;
+
+2) Fisiopatologia del lavoro;
+
+3) Igiene generale e igiene speciale;
+
+4) Tecnologia e prevenzione;
+
+5) Tecnica e diagnostica di laboratorio;
+
+6) Traumatologia e pronto soccorso.
+
+2° anno;
+
+1) Clinica e patologia medica del lavoro;
+
+2) Medicina dello sport;
+
+3) Medicina legale del lavoro e medicina delle assicurazioni;
+
+4) Psicologia applicata al lavoro;
+
+5) Tecnologia e prevenzione;
+
+6) Radiodiagnostica e terapia fisica.
+
+Il numero e la distribuzione delle ore di lezione saranno fissate dal direttore della scuola al principio di ogni anno accademico.
+
+Avranno inoltre luogo esercitazioni pratiche di diagnostica e di laboratorio, nonche' visite di istruzione ad istituzioni, enti, aziende industriali.
+
+Gli iscritti hanno l'obbligo di prestare un periodo di internato nell'Istituto di medicina del lavoro.
+
+Il numero dei posti letto istituito per la predetta scuola e' fissato in numero di quindici per ciascun anno.
+
+Art. 202. - Al termine del secondo anno gli allievi che hanno frequentato il corso saranno ammessi allo esame di diploma secondo le norme generali delle scuole di specializzazione di questa Facolta' di medicina e chirurgia, riportate nello statuto universitario.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo di farlo osservare.
+
+Dato a Roma, addi' 15 aprile 1958
+
+GRONCHI
+
+MORO
+
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 21 febbraio 1979 Registro n. 9 Istruzione, foglio n. 16
+alla Corte dei conti, addi' 30 giugno 1958 Atti del Governo, registro n. 112, foglio n. 288. - RELLEVA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2848](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2848), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846) e successivi;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio superiore della pubblica istruzione; nel suo parere;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 155 - all'elenco delle scuole di specializzazione in medicina e chirurgia e' aggiunta la scuola di specializzazione in patologia della riproduzione umana.  
-Dopo l'art. 415, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla scuola di specializzazione in patologia della riproduzione umana.  
   
-Scuola di specializzazione in patologia della riproduzione umana  
-Art. 416. - Presso l'istituto di clinica ostetrica e ginecologica e' istituita la scuola di specializzazione in patologia della riproduzione umana, la quale ha lo scopo di conferire una qualificata preparazione nel campo della patologia della riproduzione e dei problemi ad essa collegati, oltre a curare lo studio degli aspetti sociologici, demografici e di pianificazione familiare inerenti alla disciplina.  
-Direttore della scuola e' il professore di ruolo i fuori ruolo della stessa materia della specializzazione o, in carenza, il professore di ruolo o fuori ruolo di materia affine.  
-Art. 417. - La durata del corso e' di tre anni.  
-Non saranno concesse abbreviazioni di corso.  
-Il numero massimo degli allievi iscrivibili e' di undici complessivamente per l'intero corso degli studi.  
-L'ammissione alla scuola avverra' per titoli ed esami;  
-l'esame consistera' in una prova scritta e in una orale su temi di medicina generale e di anatomia patologica.  
-Sono da considerare titoli preferenziali, a parita' di risultato dell'esame di ammissione:  
-a) il voto di laurea in medicina e chirurgia;  
-b) il voto riportato nelle materie ostetriche e ginecologiche;  
-c) l'aver compilato la tesi di laurea in clinica ostetrica;  
-d) l'aver avuto la qualifica di studente interno;  
-e) la documentazione di servizi prestati in divisioni ostetriche e ginecologiche di ospedali regionali, anche come tirocinante;  
-f) eventuali pubblicazioni inerenti alle materie di insegnamento.  
-Per quanto non contemplato, valgono le norme generali delle scuole di specializzazione in medicina e chirurgia previste dal presente statuto.  
-Art. 418. - Le materie di insegnamento sono:  
-1° Anno:  
-biologia generale della riproduzione;  
-embriologia ed anatomia dell'apparato riproduttivo umano;  
-fisiologia della riproduzione umana;  
-genetica umana;  
-immunologia normale e patologia della riproduzione umana;  
-psicodinamica della riproduzione umana I;  
-lingua inglese I.  
-2° Anno:  
-fisiopatologia della riproduzione umana;  
-anatomia e istologia patologica dell'apparato riproduttivo;  
-endocrinologia della riproduzione umana;  
-andrologia;  
-teratologia;  
-patologia e clinica della gravidanza;  
-urologia e patologia della riproduzione umana;  
-psicodinamica della riproduzione umana II;  
-sessuologia medica I;  
-lingua inglese II.  
-3° Anno:  
-nosografia della riproduzione umana;  
-diagnostica della patologia della riproduzione umana;  
-terapia medica della patologia della riproduzione umana;  
-terapia chirurgica della patologia, della riproduzione umana;  
-sessuologia medica II;  
-patologia psicosomatica in ostetricia e ginecologia;  
-sociologia della riproduzione umana;  
-antropologia ed etnologia della riproduzione umana;  
-demografia;  
-lingua inglese III.  
-Art. 419. - Sono previste per gli allievi attivita' interne ed esterne con obbligo di periodi di tirocinio presso strutture periferiche, nelle quali verranno affrontati, sotto vari aspetti, problemi di fisiopatologia della riproduzione.  
-Oltre ai corsi di lezioni, sono istituzionalmente previsti seminari e gruppi di studio anche con docenti esterni o realizzati mediante incontri organizzati al di fuori dell'ambiente universitario, nelle comunita' di lavoro, nei quartieri od in ogni ambiente periferico dove possono essere vivi i problemi connessi con gli argomenti affrontati nell'ambito della scuola.  
-Art. 420. - La dissertazione per l'esame di diploma dovra' comprendere anche la documentazione delle esperienze maturate negli anni di corso, attraverso il confronto con gli ambienti esterni frequentati.  
-Agli allievi che supereranno l'esame di diploma verra' rilasciato il diploma di specializzazione in patologia della riproduzione umana.  
+Art. 10, concernente norme sulla propedeuticita' di alcuni insegnamenti del corso di laurea in giurisprudenza, e' cosi' modificato:  
+"Lo studente che non abbia previamente superato l'esame di istituzioni di diritto privato non puo' sostenere gli esami di diritto ecclesiastico, diritto civile, diritto commerciale, diritto del lavoro, diritto processuale civile, diritto internazionale, diritto amministrativo, diritto penale, procedura penale, diritto canonico, diritto privato comparato, diritto industriale, diritto della navigazione e diritto agrario.  
+Lo studente che non abbia previamente superato gli esami di istituzioni di diritto romano e storia del diritto romano non e' ammesso a sostenere gli esami di storia del diritto italiano e diritto romano.  
+Lo studente che non abbia previamente superato lo esame di istituzioni di diritto romano, non e' ammesso a sostenere l'esame di diritto civile.  
+Lo studente che non abbia previamente superato l'esame di diritto costituzionale, non e' ammesso a sostenere gli esami di: diritto ecclesiastico, diritto processuale civile, diritto internazionale, diritto amministrativo, diritto penale, procedura penale, diritto coloniale.  
+Lo studente che non abbia previamente superato l'esame di economia politica non e' ammesso a sostenere l'esame di scienza delle finanze e diritto finanziario".  
+  
+Art. 12, concernente norme sulla propedeuticita' di alcuni insegnamenti del corso di laurea in scienze politiche, e' cosi' modificato:  
+"Lo studente che non abbia superato l'esame di istituzioni di diritto privato, non e' ammesso a sostenere gli esami di diritto amministrativo, diritto internazionale, diritto del lavoro.  
+Lo studente che non abbia previamente superato l'esame di istituzioni di diritto pubblico, non e' ammesso a sostenere gli esami di diritto amministrativo, diritto internazionale, diritto costituzionale italiano e comparato.  
+Lo studente che non abbia previamente superato l'esame di economia politica, non e' ammesso a sostenere gli esami di politica economica e di storia delle dottrine economiche.  
+Lo studente che non abbia previamente superato lo esame di statistica non e' ammesso all'esame di politica economica".  
+  
+Art. 23. - Agli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti i seguenti "Lingua romena";  
+"Ragioneria delle imprese marittime";  
+"Tecnica amministrativa delle imprese marittime";  
+"Tecnica delle assicurazioni marittime";  
+"Storia delle dottrine economiche";  
+"Econometrica".  
+  
+Art. 24, concernente norme sulla propedeuticita' di alcuni insegnamenti del corso di laurea in economia e commercio, e' modificato nel senso che il quarto comma e' cosi' trasformato: "La matematica generale e' considerata propedeutica alla matematica finanziaria, alla statistica, all'economia politica del secondo anno, alla scienza delle finanze e diritto finanziario e alla politica economica e finanziaria".  
+  
+Art. 29. - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di: "storia della musica".  
+  
+Art. 30. - Agli insegnamenti complementari del corso di laurea in filosofia e' aggiunto quello di "filosofia della scienza".  
+Dagli insegnamenti complementari dello stesso corso di laurea e' tolto quello di "storia della musica".  
+  
+Art. 33, relativo all'alternativita' degli insegnamenti di "storia medioevale" e di "storia moderna" nel corso di laurea in lettere e filosofia e' soppresso.  
+  
+Art. 48. - Agli insegnamenti complementari del corso di laurea in chimica sono aggiunti i seguenti:  
+Per l'indirizzo organico-biologico:  
+"Chimica nucleare";  
+"Chimica macromolecolare";  
+"Chimica delle sostanze coloranti";  
+"Chimica teorica";  
+"Radiochimica";  
+"Fotochimica".  
+  
+Per l'indirizzo inorganico chimico-fisico:  
+"Chimica nucleare";  
+"Strutturistica chimica";  
+"Chimica teorica";  
+"Radiochimica";  
+"Chimica dei solidi";  
+"Fotochimica".  
+  
+Art. 49. - Agli insegnamenti complementari del corso di laurea in chimica industriale sono aggiunti i seguenti:  
+"Chimica nucleare";  
+"Strutturistica chimica";  
+"Chimica macromolecolare";  
+"Chimica delle sostanze coloranti";  
+"Chimica teorica";  
+"Radiochimica";  
+"Chimica dei solidi".  
+  
+Art. 50. - Agli insegnamenti complementari del corso di laurea in fisica sono aggiunti i seguenti:  
+"Teoria delle funzioni";  
+"Analisi funzionale";  
+"Fisica atomica";  
+"Meccanica statistica";  
+"Fisica nucleare";  
+"Fisica delle particelle elementari";  
+"Elettronica";  
+"Fisica dello stato solido";  
+"Astrofisica".  
+  
+Art. 51. - Agli insegnamenti complementari del corso di laurea in scienze matematiche sono aggiunti i seguenti:  
+"Analisi funzionale";  
+"Algebra superiore";  
+"Teoria generale delle vibrazioni".  
+  
+Art. 52. - Agli insegnamenti complementari del corso di laurea in matematica e fisica sono aggiunti i seguenti:  
+"Analisi funzionale";  
+"Algebra superiore";  
+"Teoria generale delle vibrazioni";  
+"Meccanica statistica";  
+"Fisica atomica";  
+"Astrofisica".  
+  
+Art. 55. - Agli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti i seguenti:  
+"Giacimenti minerari";  
+"Geofisica mineraria";  
+"Sismologia";  
+"Oceanografia".  
+  
+Art. 59, relativo alle precedenze da osservarsi per gli esami nei vari corsi di laurea nella Facolta' di scienze matematiche, fisiche e naturali, e' cosi' modificato:  
+"Per le iscrizioni e per gli esami debbono osservarsi le seguenti precedenze:  
+Per le lauree in chimica ed in chimica industriale l'iscrizione all'insegnamento di esercitazioni di preparazioni chimiche ed il relativo esame devono precedere la iscrizione alle esercitazioni di analisi chimica qualitativa; l'esame di mineralogia deve essere preceduto dagli esami di istituzioni di matematiche 1°, chimica generale ed inorganica 1° e fisica sperimentale 1°. Per essere ammessi ai corsi di: preparazioni chimiche 4°, esercitazioni di analisi chimica organica e esercitazioni di chimica industriale, e' necessaria la firma di frequenza del corso di analisi chimica quantitativa  
+Per la laurea in fisica gli insegnamenti di analisi matematica (algebrica ed infinitesimale), di geometria analitica con elementi di proiettiva, di meccanica razionale con elementi di statica grafica, di fisica sperimentale, di preparazioni chimiche, di esercitazioni di fisica sperimentale 1° e 2°, di chimica generale ed inorganica con elementi di organica, ed i relativi esami, devono precedere quelli di analisi superiore, di fisica matematica, di fisica teorica, di fisica superiore, di chimica fisica e di esercitazioni di fisica sperimentale 3°.  
+Per la laurea in scienze matematiche gli insegnamenti di analisi matematica (algebrica ed infinitesimale), di geometria analitica con elementi di proiettiva e geometria descrittiva con disegno, di meccanica razionale con elementi di statica grafica e disegno, di fisica sperimentale con esercitazioni biennali, di chimica generale ed inorganica con elementi di organica, ed i relativi esami, devono precedere quelli di analisi superiore, di geometria superiore e di fisica matematica.  
+Per la laurea in matematica e fisica, gli insegnamenti di analisi matematica (algebrica ed infinitesimale), di geometria analitica con elementi di proiettiva e geometria descrittiva con disegno, di meccanica razionale con elementi di statica grafica e disegno, di fisica sperimentale con esercitazioni biennali, di chimica generale ed inorganica con elementi di organica ed i relativi esami, devono precedere quelli di analisi superiore, di geometria superiore, di matematiche complementari, di fisica teorica, di fisica superiore e di astronomia.  
+Per la laurea in scienze naturali gli insegnamenti di istituzioni di matematiche, di fisica, di chimica generale ed inorganica, di chimica organica, di mineralogia, di botanica 1° e di zoologia, devono precedere quelli di botanica 2°, geologia, geografia, anatomia comparata, anatomia umana e fisiologia generale. Gli esami di: mineralogia, botanica e zoologia devono essere preceduti dagli esami di: istituzioni di matematiche, chimica generale ed inorganica, fisica.  
+Per il biennio propedeutico agli studi di ingegneria l'esame di mineralogia e geologia deve essere preceduto dagli esami di: geometria analitica con elementi di proiettiva, chimica generale ed inorganica con elementi di organica e fisica sperimentale 1°.  
+Per il corso di laurea in scienze geologiche gli insegnamenti di: istituzioni di matematiche, fisica sperimentale (biennale), chimica generale ed inorganica con elementi di organica, geografia, geografia fisica, mineralogia, topografia e cartografia ed i relativi esami devono precedere quelli di geologia, fisica terrestre, petrografia, paleontologia, geologia applicata; lo studente non puo' sostenere l'esame di topografia e cartografia se non ha superato quello di istituzioni di matematiche; l'esame di mineralogia se non ha superato quelli di: istituzioni di matematiche, chimica generale ed inorganica con elementi di organica e fisica sperimentale 1°; l'esame di geologia se non ha superato quelli di: petrografia, paleontologia; l'esame di geologia applicata se non ha superato quello di geologia.  
+Per il corso di laurea in scienze biologiche gli insegnamenti di: istituzioni di matematiche, fisica, chimica generale ed inorganica, chimica organica, zoologia, botanica 1° ed i relativi esami devono precedere quelli di: botanica 2°, anatomia umana, anatomia comparata, fisiologia generale. Gli esami di: istituzioni di matematiche, fisica, chimica generale ed inorganica devono precedere quelli di botanica e zoologia.  
+  
+Art. 64. - Agli insegnamenti complementari del corso di laurea in farmacia e' aggiunto quello di: "chimica farmaceutica applicata".  
+  
+Art. 74. - Agli insegnamenti complementari del corso di laurea in ingegneria e' aggiunto quello di: "tecnica della regolazione e servomeccanismi".  
+Dopo l'art. 80 e con il conseguente spostamento di quelli successivi sono inseriti i seguenti nuovi articoli, relativi alla scuola di perfezionamento in filologia classica.  
+  
+Scuola di perfezionamento in filologia classica  
+  
+Art. 81. - Presso la Facolta' di lettere e filosofia e' istituita, una scuola di perfezionamento in filologia classica che ha lo scopo di conferire la necessaria cultura e competenza sia a coloro che vogliano intraprendere ricerche scientifiche, sia a coloro che intendano dedicarsi all'insegnamento delle discipline classiche.  
+Alla scuola di perfezionamento possono essere iscritti i laureati in lettere e filosofia.  
+Possono essere ammessi i laureati stranieri forniti di lauree equipollenti alle sopraindicate.  
+  
+Art. 82. - La scuola di perfezionamento rilascia un diploma.  
+Gli studi per il conseguimento del diploma di perfezionamento durano due anni.  
+  
+Art. 83. - L'esame di diploma di perfezionamento consiste nella presentazione di un lavoro scritto avente carattere di originalita', seguita dalla discussione orale intorno a detto lavoro.  
+Per la composizione della commissione di esame si osservano le norme stabilite con il regolamento approvato con [regio decreto 4 giugno 1938, n. 1269](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-04;1269).  
+  
+Art. 84. - Le materie costitutive per conseguire il diploma di perfezionamento in filologia classica sono sei, due biennali, quattro annuali.  
+Sono obbligatori, con la facolta' di scegliere se annuale o biennale, gli esami di:  
+Letteratura greca;  
+Letteratura latina.  
+Degli annuali sono obbligatori:  
+Filologia greco-latina;  
+Glottologia.  
+Gli altri esami possono essere scelti fra le seguenti discipline:  
+Grammatica greca e latina;  
+Storia comparata delle lingue classiche;  
+Papirologia;  
+Storia romana con esercitazioni di epigrafia;  
+Storia greca;  
+Archeologia e storia dell'arte greca e romana;  
+Storia della filosofia antica Antichita' greche e romane;  
+Letteratura cristiana antica;  
+Filologia e letteratura bizantina.  
+  
+Art. 85. - Le tasse da pagarsi sono le medesime prescritte per la Facolta' di lettere e filosofia, per il primo anno e per il quarto.  
+Coloro che sostengono l'esame per il conseguimento del diploma devono pagare la tassa relativa nella misura fissata per l'esame di laurea nella predetta Facolta'.  
+  
+Art. 86. - La spesa relativa al funzionamento della predetta scuola di perfezionamento sara' a carico del bilancio ordinario dell'Universita'.  
+  
+Art. 87. - All'elenco delle scuole di specializzazione annesse alla Facolta' di medicina e chirurgia e' aggiunta quella di "medicina del lavoro".  
+Dopo l'art. 199, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della scuola di specializzazione in medicina del lavoro.  
+  
+Scuola di specializzazione in medicina del lavoro  
+  
+Art. 200. - Presso l'Istituto di medicina del lavoro e' istituita la scuola di specializzazione in medicina del lavoro, che ha lo scopo di conferire la necessaria competenza teorica e pratica ai laureati in medicina e chirurgia, i quali intendono conseguire il diploma di specializzazione in medicina del lavoro. La scuola ha la durata di due anni. Ad essa possono iscriversi soltanto i laureati in medicina e chirurgia.  
+Le norme per l'iscrizione, per gli esami, le tasse, ecc. sono quelle generali per le scuole di specializzazione e di perfezionamento riferite negli articoli da 87 a 103 di questo statuto.  
+  
+Art. 201. - Gli insegnamenti impartiti nella suddetta scuola sono i seguenti:  
+1° anno:  
+1) Biotipologia e medicina preventiva dei lavoratori;  
+2) Fisiopatologia del lavoro;  
+3) Igiene generale e igiene speciale;  
+4) Tecnologia e prevenzione;  
+5) Tecnica e diagnostica di laboratorio;  
+6) Traumatologia e pronto soccorso.  
+2° anno;  
+1) Clinica e patologia medica del lavoro;  
+2) Medicina dello sport;  
+3) Medicina legale del lavoro e medicina delle assicurazioni;  
+4) Psicologia applicata al lavoro;  
+5) Tecnologia e prevenzione;  
+6) Radiodiagnostica e terapia fisica.  
+Il numero e la distribuzione delle ore di lezione saranno fissate dal direttore della scuola al principio di ogni anno accademico.  
+Avranno inoltre luogo esercitazioni pratiche di diagnostica e di laboratorio, nonche' visite di istruzione ad istituzioni, enti, aziende industriali.  
+Gli iscritti hanno l'obbligo di prestare un periodo di internato nell'Istituto di medicina del lavoro.  
+Il numero dei posti letto istituito per la predetta scuola e' fissato in numero di quindici per ciascun anno.  
+  
+Art. 202. - Al termine del secondo anno gli allievi che hanno frequentato il corso saranno ammessi allo esame di diploma secondo le norme generali delle scuole di specializzazione di questa Facolta' di medicina e chirurgia, riportate nello statuto universitario.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo di farlo osservare.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1978
+### Dato a Roma, addi' 15 aprile 1958
 
-PERTINI PEDINI
+GRONCHI MORO
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 21 febbraio 1979
+Registrato alla Corte dei conti, addi' 30 giugno 1958
 
-Registro n. 9 Istruzione, foglio n. 16
+Atti del Governo, registro n. 112, foglio n. 288. - RELLEVA

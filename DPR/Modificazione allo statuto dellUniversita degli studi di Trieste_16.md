@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 464
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 1171
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 464
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 1171
+=================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Trieste.
 -------------------------------------------------------------------
@@ -39,19 +39,19 @@ Articolo unico
 --------------
 
   
-Nell'art. 52, relativo al corso di laurea in filosofia, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
-ermeneutica filosofica.  
+Nell'art. 77, relativo al corso di laurea in chimica, all'elenco degli insegnamenti complementari per gli indirizzi organico-biologico e inorganico-chimico-fisico e' aggiunto il seguente nuovo insegnamento:  
+metodi fisici in chimica organica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 giugno 1983
+### Dato a Selva di Val Gardena, addi' 2 settembre 1983
 
 PERTINI FALCUCCI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 17 agosto 1983
+Registrato alla Corte dei conti, addi' 4 aprile 1984
 
-Registro n. 59 Istruzione, foglio n. 114
+Registro n. 21 Istruzione, foglio n. 197

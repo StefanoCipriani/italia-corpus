@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1977 n. 558
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1978 n. 510
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1977 n. 558
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 febbraio 1978 n. 510
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Sassari.
 -------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Sassari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084) e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1004](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1004) e' modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -24,223 +24,455 @@ Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte 
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 80. - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in neurologia. Gli articoli 134, 135, 136, 137, relativi alla scuola di specializzazione in neuropsichiatria infantile, sono abrogati e sostituiti dai seguenti:
+Art. 77 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in anestesia e rianimazione.
 
-Scuola di specializzazione in neuropsichiatria infantile
+Gli articoli 120, 121, 122, 123, 124, 125, relativi alla scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio, sono abrogati e sostituiti dai seguenti:
 
-Art. 134. - Titolo necessario per l'ammissione alla scuola di specializzazione in neuropsichiatria infantile e' la laurea in medicina e chirurgia. L'ammissione e' per titoli ed esami.
+Scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio
 
-Art. 135. - Il corso di studio ha la durata di 4 (quattro) anni. La frequenza alle lezioni e' obbligatoria. L'internato e' obbligatorio per sei mesi in clinica pediatrica per gli studenti del primo anno, per tre mesi in neurologia e per tre mesi in psichiatria per gli studenti del secondo anno; in neuropsichiatria infantile, per la durata di sei mesi per gli studenti del terzo anno e per la durata di sei mesi per quelli del quarto anno.
+Art. 120. - La scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio ha sede presso l'istituto di tisiologia e malattie dell'apparato respiratorio e conferisce il diploma di specialista in tisiologia e malattie dell'apparato respiratorio.
 
-Il numero degli iscritti per ogni anno del corso non potra' essere superiore a 8.
+Art. 121. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della scuola di specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
 
-Art. 136. - Le materie di insegnamento sono le seguenti:
+Art. 122. - Possono iscriversi alla scuola i laureati in medicina e chirurgia.
 
-1° Anno:
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
 
-a) anatomia ed embriologia del sistema nervoso;
+Art. 123. - La durata del corso di studi e' di 4 anni e non e' suscettibile di abbreviazione.
 
-b) fisiologia del sistema nervoso con particolare riguardo all'eta' evolutiva;
+Art. 124. - Il numero massimo degli allievi e' di 4 per anno di corso e complessivamente di 16 iscritti per l'intero corso di studi.
 
-c) genetica;
+L'ammissione al corso avviene per titoli ed esami.
 
-d) endocrinologia nell'eta' evolutiva e auxologia;
-
-e) patologia e clinica pediatrica;
-
-f) tecniche di laboratorio.
-
-2° Anno:
-
-a) anatomia patologica del sistema nervoso;
-
-b) biochimica patologica del sistema nervoso;
-
-c) psicologia dell'eta' evolutiva;
-
-d) semeiotica e clinica neurologica;
-
-e) semeiotica e clinica psichiatrica.
-
-3° Anno:
-
-a) psicopatologia dell'eta' evolutiva;
-
-b) semeiotica e clinica neurologica infantile;
-
-c) psicodiagnostica dell'eta' evolutiva;
-
-d) elettrofisiologia;
-
-e) neuroradiologia;
-
-f) neurochirurgia dell'eta' evolutiva;
-
-g) semeiotica e clinica psichiatrica infantile (1).
-
-4° Anno:
-
-a) clinica psichiatrica infantile (2);
-
-b) terapia generale delle malattie mentali, infantili;
-
-c) psicoterapia dell'eta' evolutiva;
-
-d) foniatria;
-
-e) psicopedagogia;
-
-f) sociologia applicata alla popolazione infantile;
-
-g) organizzazione diagnostico-assistenziale e legislazione.
-
-Gli esami da sostenere sono:
+Art. 125. - Le materie di insegnamento sono le seguenti:
 
 1° Anno:
 
-1) embriologia e anatomia del sistema nervoso;
+anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale) I;
 
-2) fisiologia del sistema nervoso;
+patologia della tubercolosi polmonare ed extrapolmonare;
 
-3) genetica, endocrinologia e auxologia;
+patologia dell'apparato respiratorio;
 
-4) patologia e clinica pediatrica.
+fisiologia e fisiopatologia generale dell'apparato respiratorio;
+
+semeiotica fisica e funzionale dell'apparato respiratorio;
+
+microbiologia;
+
+epidemiologia e statistica sanitaria della tubercolosi e delle malattie dell'apparato respiratorio.
 
 2° Anno:
 
-1) anatomia e biochimica, patologica del sistema nervoso;
+anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale) II,
 
-2) psicologia dell'eta' evolutiva;
+clinica della tubercolosi (triennale) I;
 
-3) semeiologia e clinica neurologica;
+clinica delle malattie dell'apparato respiratorie (triennale) I;
 
-4) semeiotica e clinica psichiatrica.
+fisiopatologia speciale della tubercolosi e delle malattie dell'apparato respiratorio;
+
+broncologia;
+
+radiologia dell'apparato respiratorio;
+
+profilassi della tubercolosi;
+
+igiene e legislazione sociale.
 
 3° Anno:
 
-1) semeiotica e clinica neurologica infantile;
+clinica delle malattie dell'appaiato respiratorie (triennale) II;
 
-2) psicopatologia dell'eta' evolutiva;
+clinica della tubercolosi (triennale) II;
 
-3) psicodiagnostica dell'eta' evolutiva.
+chemioterapia della tubercolosi e delle malattie dell'apparato respiratorio;
+
+terapia fisiomeccanica nella tubercolosi e nelle malattie dell'apparato respiratorio;
+
+terapia chirurgica nella tubercolosi e nelle malattie dell'apparato respiratorio.
 
 4° Anno:
 
-1) semeiotica e clinica psichiatrica infantile;
+clinica delle malattie dell'apparato respiratorie (triennale) III;
 
-2) psicopedagogia;
+clinica della tubercolosi (triennale) III.
 
-3) organizzazione diagnostico-assistenziale e legislazione.
+Gli insegnamenti complementari che possono essere inseriti negli statuti sono i seguenti:
 
-Art. 137. - Per ottenere l'iscrizione al 2°, 3° e 4° anno di specializzazione gli iscritti dovranno avere sostenuto gli esami delle materie prescritte per l'anno precedente, tranne che per la clinica pediatrica infantile il cui esame va sostenuto al 4° anno.
+immunologia clinica;
 
-Per conseguire il diploma di specialista in neuropsichiatria infantile, gli iscritti, al termine degli esami, dovranno presentare e discutere una dissertazione scritta su un argomento di neuropsichiatria infantile. Gli esami si svolgeranno per singole materie.
+cardiologia;
 
-Dopo l'art. 153, e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in neurologia.
+medicina nucleare;
 
-Art. 154. - Il corso per il conseguimento del diploma di specializzazione in neurologia ha la durata di 4 (quattro) anni. Il numero dei medici da ammettere alla scuola e' stabilito in 20 per i quattro anni di corso.
+malattie professionali dell'apparato respiratorio;
 
-Le materie di insegnamento sono le seguenti:
+terapia intensiva pneumologica.
+
+I corsi di insegnamento sono integrati da conferenze, da esercitazioni pratiche, da seminari interdisciplinari (questi ultimi prevalentemente destinati al 4° anno) e da turni di internato, per i quali gli allievi hanno l'obbligo di frequenza al pari delle lezioni.
+
+Alla fine di ogni anno di corso gli allievi dovranno superare una prova di esame sulle materie del rispettivo anno.
+
+Alla fine del 4° anno gli allievi dovranno sostenere l'esame di diploma consistente nella dissertazione scritta su un argomento attinente alla specializzazione assegnato dal direttore della scuola o da uno degli insegnanti della scuola.
+
+Gli articoli 126, 127, relativi alla scuola di specializzazione in igiene e medicina preventiva, sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in igiene e medicina preventiva
+
+Art. 126. - La scuola di specializzazione in igiene e medicina preventiva ha sede presso l'istituto di igiene e conferisce il diploma di specialista in igiene e medicina preventiva.
+
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.
+
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.
+
+Il numero massimo degli allievi e' di 5 per anno di corso e complessivamente di 20 iscritti per l'intero corso di studi.
+
+L'ammissione al corso avviene per titoli ed esami.
+
+Il corso si articola in un biennio propedeutico seguito da un biennio differenziato con cinque orientamenti e precisamente:
+
+a) sanita' pubblica;
+
+b) igiene e tecnica ospedaliera;
+
+c) igiene del lavoro;
+
+d) igiene e medicina scolastica;
+
+e) laboratorio.
+
+Art. 127. - Il piano di studi e' il seguente:
+
+I BIENNIO
 
 1° Anno:
 
-1) anatomia e istologia del sistema nervoso;
+metodologia statistica e biometria;
 
-2) fisiologia del sistema nervoso;
+educazione sanitaria;
 
-3) biochimica del sistema nervoso;
+psicologia;
 
-4) psicologia generale;
+microbiologia ed immunologia I;
 
-5) genetica (elementi);
+parassitologia;
 
-6) psicopatologia;
+epidemiologia generale e metodologia;
 
-7) semeiotica psichiatrica.
+profilassi generale;
+
+sociologia medica e antropologia culturale.
 
 2° Anno:
 
-1) anatomia e istologia patologica del sistema nervoso;
+microbiologia ed immunologia II;
 
-2) semeiotica neurologica;
+patologia e clinica delle malattie infettive;
 
-3) patologia speciale e diagnostica neurologica (1);
+epidemiologia e profilassi delle malattie infettive I;
 
-4) neuropatologia;
+patologia e clinica delle malattie non infettive di importanza sociale;
 
-5) endocrinologia e neurologia vegetativa.
+epidemiologia e profilassi delle malattie non infettive di importanza sociale I;
+
+demografia e statistica sanitaria;
+
+legislazione e programmazione sanitarie.
+
+II BIENNIO
+
+a) ORIENTAMENTO DI SANITA' PUBBLICA.
 
 3° Anno:
 
-1) patologia speciale e diagnostica neurologica (2);
+epidemiologia e profilassi delle malattie infettive II;
 
-2) clinica neurologica e terapia (1);
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;
 
-3) elettroencefalografia;
+igiene dell'ambiente fisico e difesa ecologica;
 
-4) elettromiografia;
+igiene degli alimenti e della nutrizione;
 
-5) elettrodiagnostica ed elettroterapia;
+igiene dell'eta' evolutiva;
 
-6) neurooftalmologia;
+igiene del lavoro;
 
-7) neurootologia;
-
-8) esami di laboratorio.
+igiene ed assistenza dell'anziano.
 
 4° Anno:
 
-1) clinica neurologica e terapia (2);
+igiene edilizia e dell'aggregato urbano;
 
-2) neurochirurgia;
+igiene ospedaliera;
 
-3) teoria e clinica della riabilitazione;
+organizzazione del territorio e programmazione sanitaria;
 
-4) neurotraumatologia, anche sotto l'aspetto della medicina legale;
+medicina di comunita';
 
-5) neurologia in rapporto alla patologia internista.
+economia sanitaria;
 
-Art. 155. - Internato obbligatorio per l'intero anno scolastico nel 2°, 3° e 4° anno in clinica neurologica, sede della scuola.
+elementi di diritto amministrativo.
 
-Tale internato potra' essere ridotto a non meno di mesi 4 per anno per i medici che prestino regolare servizio in reparto neurologico, internato obbligatorio per l'intero anno scolastico in psichiatria per il 1° anno. Tale internato potra' essere ridotto a non meno di mesi 6 per i medici che prestino regolare servizio in reparto neurologico e non meno di mesi 4 per coloro che prestino servizio in ospedale psichiatrico.
+b) ORIENTAMENTO DI IGIENE E TECNICA OSPEDALIERA.
 
-Ammissione per titoli ed esami.
+3° Anno:
 
-Agli anni successivi al primo sono ammessi gli allievi che abbiano regolarmente frequentato il corso precedente e superato i relativi esami.
+epidemiologia e profilassi delle malattie infettive II;
 
-Art. 156. - L'importo delle tasse e soprattasse per l'iscrizione alla scuola in parola sono cosi' stabilite:
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;
 
-immatricolazione . . . . . . . . . . . . . . . . . . L. 6.000
+igiene dell'ambiente fisico e difesa ecologica;
 
-iscrizione annuale . . . . . . . . . . . . . . . . . " 192.320
+igiene e tecnica delle costruzioni ospedaliere; arredamenti ed impianti tecnologici;
 
-annuale esami di profitto. . . . . . . . . . . . . . " 7.000
+igiene dell'alimentazione e dietetica ospedaliera;
 
-contributo di laboratorio. . . . . . . . . . . . . . " 60.000
+organizzazione e funzionamento degli ospedali I;
 
-contributo opere assistenziali e sportive. . . . . . " 1.000
+elementi di diritto e legislazione ospedaliera.
 
-contributi stampati. . . . . . . . . . . . . . . . . " 2.000
+4° Anno:
 
-riscaldamento. . . . . . . . . . . . . . . . . . . . " 5.000
+organizzazione e funzionamento degli ospedali II;
 
-assicurazione. . . . . . . . . . . . . . . . . . . . " 580
+compiti ed attribuzione della direzione sanitaria;
 
-soprattassa esame diploma. . . . . . . . . . . . . . " 3.000
+formazione professionale e compiti del personale ospedaliero; programmazione ospedaliera e medicina di comunita';
 
-tassa diploma. . . . . . . . . . . . . . . . . . . . " 6.000
+assistenza psichiatrica;
 
-costo libretto . . . . . . . . . . . . . . . . . . . " 1.000
+aspetti socio-sanitari dell'ospitalismo;
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+aspetti economici della gestione ospedaliera.
 
-Dato a Roma, addi' 25 maggio 1977
+c) ORIENTAMENTO DI IGIENE DEL LAVORO.
+
+3° Anno:
+
+epidemiologia e profilassi delle malattie infettive II;
+
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;
+
+igiene dell'ambiente fisico e difesa ecologica;
+
+epidemiologia e profilassi delle malattie del lavoro;
+
+tecnica ed economia degli impianti industriali;
+
+tossicologia industriale e diagnostica di laboratorio;
+
+elementi di fisica tecnica applicata all'igiene;
+
+igiene dell'ambiente di lavoro I.
+
+4° Anno:
+
+igiene dell'ambiente di lavoro II;
+
+elementi di diritto e legislazione del lavoro;
+
+psicologia del lavoro;
+
+prevenzione degli infortuni;
+
+politica del territorio ed insediamenti industriali;
+
+igiene del lavoro e medicina di comunita'.
+
+d)ORIENTAMENTO DI IGIENE E MEDICINA SCOLASTICA.
+
+3° Anno:
+
+epidemiologia e profilassi delle malattie infettive II;
+
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;
+
+igiene dell'ambiente fisico e difesa ecologica;
+
+clinica delle malattie dell'eta' evolutiva;
+
+epidemiologia e profilassi delle malattie dell'eta' evolutiva; igiene degli alimenti e della nutrizione;
+
+auxologia normale e patologica;
+
+psicologia dell'eta' evolutiva.
+
+4° Anno:
+
+servizi di medicina scolastica;
+
+edilizia ed arredamento scolastico;
+
+elementi di pedagogia;
+
+assistenza parascolastica;
+
+educazione sanitaria nella scuola;
+
+legislazione scolastica;
+
+igiene mentale.
+
+e) ORIENTAMENTO DI LABORATORIO.
+
+3° Anno:
+
+epidemiologia e profilassi delle malattie infettive II;
+
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;
+
+igiene dell'ambiente fisico e difesa ecologica;
+
+metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale I;
+
+metodi e dosaggi biologici per il controllo dell'inquinamento ambientale;
+
+strumentazione e metodologie chimico-cliniche ed ematologiche I;
+
+microscopia applicata all'igiene;
+
+elementi di fisica tecnica applicata all'igiene;
+
+accertamento diagnostico delle malattie infettive e parassitarie I.
+
+4° Anno:
+
+metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale II;
+
+accertamento diagnostico delle malattie infettive e parassitarie II;
+
+strumentazione e metodologie chimico-cliniche ed ematologiche II;
+
+ispezione e controllo degli alimenti;
+
+elementi di informatica.
+
+Gli esami relativi alle discipline svolte con insegnamento biennale verranno sostenuti alla fine di detti insegnamenti.
+
+I corsi saranno completati da insegnamenti complementari scelti dalla scuola tra i seguenti:
+
+Materie complementari:
+
+automazione del sistema ospedaliero;
+
+biochimica applicata;
+
+climatologia;
+
+diritto sanitario internazionale;
+
+elementi di medicina legale;
+
+genetica umana;
+
+geologia applicata all'igiene;
+
+idrologia;
+
+igiene del clima tropicali;
+
+igiene dei trasporti;
+
+igiene militare;
+
+igiene rurale;
+
+istituzioni di matematiche;
+
+micologia;
+
+radioprotezionistica.
+
+A giudizio della scuola possono essere indicati come complementari anche altri insegnamenti regolarmente attivati nei corsi di laurea di ciascuna Universita'.
+
+I corsi saranno integrati da un tirocinio pratico di durata comunque non inferiore a 3 mesi, da svolgersi durante il secondo biennio.
+
+La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Alla fine di ogni anno di corso gli iscritti per essere ammessi agli esami di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno; per le materie a corso pluriennale l'esamne sara' sostenuto alla fine dei corsi medesimi.
+
+Al termine del corso di studi per il conseguimento del diploma di specializzazione in igiene e medicina preventiva, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+
+Dopo l'art. 137, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in anestesia e rianimazione.
+
+Scuola di specializzazione in anestesia e rianimazione
+
+Art. 138. - La scuola di specializzazione in anestesia e rianimazione ha sede presso la cattedra di anestesia e rianimazione, e conferisce il diploma di specialista in anestesia e rianimazione.
+
+Art. 139. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Art. 140. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto almeno all'inizio del corso il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+
+Art. 141. - La durata del corso di studi e' di 3 anni e non e' suscettibile di abbreviazione.
+
+Art. 142. - Il numero massimo degli allievi e' di 10 per anno di corso e complessivamente di 30 iscritti per l'intero corso di studi.
+
+Art. 143. - L'ammissione al corso avviene per titoli ad esami.
+
+Art. 144. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+1) anatomia applicata alla anestesia ed alla rianimazione;
+
+2) biochimica applicata all'enestesia ed alla rianimazione;
+
+3) farmacologia applicata all'anestesia e alla rianimazione;
+
+4) fisica applicata all'anestesia ed alla rianimazione;
+
+5) fisiologia applicata all'anestesia ed alla rianimazione;
+
+6) anestesiologia (I);
+
+7) tecniche chirurgiche di interesse anestesiologiro;
+
+8) aspetti medico-legali dell'anestesia e della rianimazione;
+
+9) esercitazioni pratiche.
+
+2° Anno:
+
+1) anestesiologia (II);
+
+2) terapia antalgica;
+
+3) rianimazione (I);
+
+4) esercitazioni pratiche.
+
+3° Anno:
+
+1) rianimazione (II);
+
+2) tecniche speciali di anestesia;
+
+3) tecniche speciali di rianimazione;
+
+4) indagini diagnostiche attinenti alla specialita';
+
+5) esercitazioni pratiche.
+
+Art. 145. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Art. 146. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi.
+
+Al termine del corso di studi per il conseguimento del diploma di specialista in anestesia e rianimazione gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+
+Il presente decreto, munito di sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 18 febbraio 1978
 
 LEONE
 
@@ -251,164 +483,266 @@ Visto, il Guardasigilli: BONIFACIO
 Registrato
 ----------
 
-alla Corte dei conti, addi' 30 luglio 1977 Registro n. 92 Istruzione, foglio n. 28
+alla Corte dei conti, addi' 24 agosto 1978 Registro n. 95 Istruzione, foglio n. 12
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084) e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto lo statuto dell'Universita' di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1004](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1004) e' modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Sassari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
 Decreta:   
   
 Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 77 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in anestesia e rianimazione.   
+Gli articoli 120, 121, 122, 123, 124, 125, relativi alla scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio, sono abrogati e sostituiti dai seguenti:   
   
-Art. 80. - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in neurologia. Gli articoli 134, 135, 136, 137, relativi alla scuola di specializzazione in neuropsichiatria infantile, sono abrogati e sostituiti dai seguenti:   
+Scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio   
   
-Scuola di specializzazione in neuropsichiatria infantile   
+Art. 120. - La scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio ha sede presso l'istituto di tisiologia e malattie dell'apparato respiratorio e conferisce il diploma di specialista in tisiologia e malattie dell'apparato respiratorio.   
+Art. 121. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della scuola di specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Art. 122. - Possono iscriversi alla scuola i laureati in medicina e chirurgia.   
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+Art. 123. - La durata del corso di studi e' di 4 anni e non e' suscettibile di abbreviazione.   
+Art. 124. - Il numero massimo degli allievi e' di 4 per anno di corso e complessivamente di 16 iscritti per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli ed esami.   
+Art. 125. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale) I;   
+patologia della tubercolosi polmonare ed extrapolmonare;   
+patologia dell'apparato respiratorio;   
+fisiologia e fisiopatologia generale dell'apparato respiratorio;   
+semeiotica fisica e funzionale dell'apparato respiratorio;   
+microbiologia;   
+epidemiologia e statistica sanitaria della tubercolosi e delle malattie dell'apparato respiratorio.   
+2° Anno:   
+anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale) II,   
+clinica della tubercolosi (triennale) I;   
+clinica delle malattie dell'apparato respiratorie (triennale) I;   
+fisiopatologia speciale della tubercolosi e delle malattie dell'apparato respiratorio;   
+broncologia;   
+radiologia dell'apparato respiratorio;   
+profilassi della tubercolosi;   
+igiene e legislazione sociale.   
+3° Anno:   
+clinica delle malattie dell'appaiato respiratorie (triennale) II;   
+clinica della tubercolosi (triennale) II;   
+chemioterapia della tubercolosi e delle malattie dell'apparato respiratorio;   
+terapia fisiomeccanica nella tubercolosi e nelle malattie dell'apparato respiratorio;   
+terapia chirurgica nella tubercolosi e nelle malattie dell'apparato respiratorio.   
+4° Anno:   
+clinica delle malattie dell'apparato respiratorie (triennale) III;   
+clinica della tubercolosi (triennale) III.   
+Gli insegnamenti complementari che possono essere inseriti negli statuti sono i seguenti:   
+immunologia clinica;   
+cardiologia;   
+medicina nucleare;   
+malattie professionali dell'apparato respiratorio;   
+terapia intensiva pneumologica.   
+I corsi di insegnamento sono integrati da conferenze, da esercitazioni pratiche, da seminari interdisciplinari (questi ultimi prevalentemente destinati al 4° anno) e da turni di internato, per i quali gli allievi hanno l'obbligo di frequenza al pari delle lezioni.   
+Alla fine di ogni anno di corso gli allievi dovranno superare una prova di esame sulle materie del rispettivo anno.   
+Alla fine del 4° anno gli allievi dovranno sostenere l'esame di diploma consistente nella dissertazione scritta su un argomento attinente alla specializzazione assegnato dal direttore della scuola o da uno degli insegnanti della scuola.   
+Gli articoli 126, 127, relativi alla scuola di specializzazione in igiene e medicina preventiva, sono abrogati e sostituiti dai seguenti:   
   
-Art. 134. - Titolo necessario per l'ammissione alla scuola di specializzazione in neuropsichiatria infantile e' la laurea in medicina e chirurgia. L'ammissione e' per titoli ed esami.   
-Art. 135. - Il corso di studio ha la durata di 4 (quattro) anni. La frequenza alle lezioni e' obbligatoria. L'internato e' obbligatorio per sei mesi in clinica pediatrica per gli studenti del primo anno, per tre mesi in neurologia e per tre mesi in psichiatria per gli studenti del secondo anno; in neuropsichiatria infantile, per la durata di sei mesi per gli studenti del terzo anno e per la durata di sei mesi per quelli del quarto anno.   
-Il numero degli iscritti per ogni anno del corso non potra' essere superiore a 8.   
-Art. 136. - Le materie di insegnamento sono le seguenti:   
+Scuola di specializzazione in igiene e medicina preventiva   
+  
+Art. 126. - La scuola di specializzazione in igiene e medicina preventiva ha sede presso l'istituto di igiene e conferisce il diploma di specialista in igiene e medicina preventiva.   
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
+Il numero massimo degli allievi e' di 5 per anno di corso e complessivamente di 20 iscritti per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli ed esami.   
+Il corso si articola in un biennio propedeutico seguito da un biennio differenziato con cinque orientamenti e precisamente:   
+a) sanita' pubblica;   
+b) igiene e tecnica ospedaliera;   
+c) igiene del lavoro;   
+d) igiene e medicina scolastica;   
+e) laboratorio.   
+Art. 127. - Il piano di studi e' il seguente:   
+  
+I BIENNIO   
   
 1° Anno:   
-a) anatomia ed embriologia del sistema nervoso;   
-b) fisiologia del sistema nervoso con particolare riguardo all'eta' evolutiva;   
-c) genetica;   
-d) endocrinologia nell'eta' evolutiva e auxologia;   
-e) patologia e clinica pediatrica;   
-f) tecniche di laboratorio.   
-  
+metodologia statistica e biometria;   
+educazione sanitaria;   
+psicologia;   
+microbiologia ed immunologia I;   
+parassitologia;   
+epidemiologia generale e metodologia;   
+profilassi generale;   
+sociologia medica e antropologia culturale.   
 2° Anno:   
-a) anatomia patologica del sistema nervoso;   
-b) biochimica patologica del sistema nervoso;   
-c) psicologia dell'eta' evolutiva;   
-d) semeiotica e clinica neurologica;   
-e) semeiotica e clinica psichiatrica.   
+microbiologia ed immunologia II;   
+patologia e clinica delle malattie infettive;   
+epidemiologia e profilassi delle malattie infettive I;   
+patologia e clinica delle malattie non infettive di importanza sociale;   
+epidemiologia e profilassi delle malattie non infettive di importanza sociale I;   
+demografia e statistica sanitaria;   
+legislazione e programmazione sanitarie.   
   
+II BIENNIO   
+  
+a) ORIENTAMENTO DI SANITA' PUBBLICA.   
 3° Anno:   
-a) psicopatologia dell'eta' evolutiva;   
-b) semeiotica e clinica neurologica infantile;   
-c) psicodiagnostica dell'eta' evolutiva;   
-d) elettrofisiologia;   
-e) neuroradiologia;   
-f) neurochirurgia dell'eta' evolutiva;   
-g) semeiotica e clinica psichiatrica infantile (1).   
-  
+epidemiologia e profilassi delle malattie infettive II;   
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;   
+igiene dell'ambiente fisico e difesa ecologica;   
+igiene degli alimenti e della nutrizione;   
+igiene dell'eta' evolutiva;   
+igiene del lavoro;   
+igiene ed assistenza dell'anziano.   
 4° Anno:   
-a) clinica psichiatrica infantile (2);   
-b) terapia generale delle malattie mentali, infantili;   
-c) psicoterapia dell'eta' evolutiva;   
-d) foniatria;   
-e) psicopedagogia;   
-f) sociologia applicata alla popolazione infantile;   
-g) organizzazione diagnostico-assistenziale e legislazione.   
+igiene edilizia e dell'aggregato urbano;   
+igiene ospedaliera;   
+organizzazione del territorio e programmazione sanitaria;   
+medicina di comunita';   
+economia sanitaria;   
+elementi di diritto amministrativo.   
+b) ORIENTAMENTO DI IGIENE E TECNICA OSPEDALIERA.   
+3° Anno:   
+epidemiologia e profilassi delle malattie infettive II;   
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;   
+igiene dell'ambiente fisico e difesa ecologica;   
+igiene e tecnica delle costruzioni ospedaliere; arredamenti ed impianti tecnologici;   
+igiene dell'alimentazione e dietetica ospedaliera;   
+organizzazione e funzionamento degli ospedali I;   
+elementi di diritto e legislazione ospedaliera.   
+4° Anno:   
+organizzazione e funzionamento degli ospedali II;   
+compiti ed attribuzione della direzione sanitaria;   
+formazione professionale e compiti del personale ospedaliero; programmazione ospedaliera e medicina di comunita';   
+assistenza psichiatrica;   
+aspetti socio-sanitari dell'ospitalismo;   
+aspetti economici della gestione ospedaliera.   
+c) ORIENTAMENTO DI IGIENE DEL LAVORO.   
+3° Anno:   
+epidemiologia e profilassi delle malattie infettive II;   
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;   
+igiene dell'ambiente fisico e difesa ecologica;   
+epidemiologia e profilassi delle malattie del lavoro;   
+tecnica ed economia degli impianti industriali;   
+tossicologia industriale e diagnostica di laboratorio;   
+elementi di fisica tecnica applicata all'igiene;   
+igiene dell'ambiente di lavoro I.   
+4° Anno:   
+igiene dell'ambiente di lavoro II;   
+elementi di diritto e legislazione del lavoro;   
+psicologia del lavoro;   
+prevenzione degli infortuni;   
+politica del territorio ed insediamenti industriali;   
+igiene del lavoro e medicina di comunita'.   
+d)ORIENTAMENTO DI IGIENE E MEDICINA SCOLASTICA.   
+3° Anno:   
+epidemiologia e profilassi delle malattie infettive II;   
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;   
+igiene dell'ambiente fisico e difesa ecologica;   
+clinica delle malattie dell'eta' evolutiva;   
+epidemiologia e profilassi delle malattie dell'eta' evolutiva; igiene degli alimenti e della nutrizione;   
+auxologia normale e patologica;   
+psicologia dell'eta' evolutiva.   
+4° Anno:   
+servizi di medicina scolastica;   
+edilizia ed arredamento scolastico;   
+elementi di pedagogia;   
+assistenza parascolastica;   
+educazione sanitaria nella scuola;   
+legislazione scolastica;   
+igiene mentale.   
+e) ORIENTAMENTO DI LABORATORIO.   
+3° Anno:   
+epidemiologia e profilassi delle malattie infettive II;   
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;   
+igiene dell'ambiente fisico e difesa ecologica;   
+metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale I;   
+metodi e dosaggi biologici per il controllo dell'inquinamento ambientale;   
+strumentazione e metodologie chimico-cliniche ed ematologiche I;   
+microscopia applicata all'igiene;   
+elementi di fisica tecnica applicata all'igiene;   
+accertamento diagnostico delle malattie infettive e parassitarie I.   
+4° Anno:   
+metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale II;   
+accertamento diagnostico delle malattie infettive e parassitarie II;   
+strumentazione e metodologie chimico-cliniche ed ematologiche II;   
+ispezione e controllo degli alimenti;   
+elementi di informatica.   
+Gli esami relativi alle discipline svolte con insegnamento biennale verranno sostenuti alla fine di detti insegnamenti.   
+I corsi saranno completati da insegnamenti complementari scelti dalla scuola tra i seguenti:   
+Materie complementari:   
+automazione del sistema ospedaliero;   
+biochimica applicata;   
+climatologia;   
+diritto sanitario internazionale;   
+elementi di medicina legale;   
+genetica umana;   
+geologia applicata all'igiene;   
+idrologia;   
+igiene del clima tropicali;   
+igiene dei trasporti;   
+igiene militare;   
+igiene rurale;   
+istituzioni di matematiche;   
+micologia;   
+radioprotezionistica.   
+A giudizio della scuola possono essere indicati come complementari anche altri insegnamenti regolarmente attivati nei corsi di laurea di ciascuna Universita'.   
+I corsi saranno integrati da un tirocinio pratico di durata comunque non inferiore a 3 mesi, da svolgersi durante il secondo biennio.   
+La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
+Alla fine di ogni anno di corso gli iscritti per essere ammessi agli esami di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno; per le materie a corso pluriennale l'esamne sara' sostenuto alla fine dei corsi medesimi.   
+Al termine del corso di studi per il conseguimento del diploma di specializzazione in igiene e medicina preventiva, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
+Dopo l'art. 137, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in anestesia e rianimazione.   
   
-Gli esami da sostenere sono:   
+Scuola di specializzazione in anestesia e rianimazione   
   
+Art. 138. - La scuola di specializzazione in anestesia e rianimazione ha sede presso la cattedra di anestesia e rianimazione, e conferisce il diploma di specialista in anestesia e rianimazione.   
+Art. 139. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Art. 140. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto almeno all'inizio del corso il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+Art. 141. - La durata del corso di studi e' di 3 anni e non e' suscettibile di abbreviazione.   
+Art. 142. - Il numero massimo degli allievi e' di 10 per anno di corso e complessivamente di 30 iscritti per l'intero corso di studi.   
+Art. 143. - L'ammissione al corso avviene per titoli ad esami.   
+Art. 144. - Le materie di insegnamento sono le seguenti:   
 1° Anno:   
-1) embriologia e anatomia del sistema nervoso;   
-2) fisiologia del sistema nervoso;   
-3) genetica, endocrinologia e auxologia;   
-4) patologia e clinica pediatrica.   
-  
+1) anatomia applicata alla anestesia ed alla rianimazione;   
+2) biochimica applicata all'enestesia ed alla rianimazione;   
+3) farmacologia applicata all'anestesia e alla rianimazione;   
+4) fisica applicata all'anestesia ed alla rianimazione;   
+5) fisiologia applicata all'anestesia ed alla rianimazione;   
+6) anestesiologia (I);   
+7) tecniche chirurgiche di interesse anestesiologiro;   
+8) aspetti medico-legali dell'anestesia e della rianimazione;   
+9) esercitazioni pratiche.   
 2° Anno:   
-1) anatomia e biochimica, patologica del sistema nervoso;   
-2) psicologia dell'eta' evolutiva;   
-3) semeiologia e clinica neurologica;   
-4) semeiotica e clinica psichiatrica.   
-  
+1) anestesiologia (II);   
+2) terapia antalgica;   
+3) rianimazione (I);   
+4) esercitazioni pratiche.   
 3° Anno:   
-1) semeiotica e clinica neurologica infantile;   
-2) psicopatologia dell'eta' evolutiva;   
-3) psicodiagnostica dell'eta' evolutiva.   
-  
-4° Anno:   
-1) semeiotica e clinica psichiatrica infantile;   
-2) psicopedagogia;   
-3) organizzazione diagnostico-assistenziale e legislazione.   
-  
-Art. 137. - Per ottenere l'iscrizione al 2°, 3° e 4° anno di specializzazione gli iscritti dovranno avere sostenuto gli esami delle materie prescritte per l'anno precedente, tranne che per la clinica pediatrica infantile il cui esame va sostenuto al 4° anno.  
-Per conseguire il diploma di specialista in neuropsichiatria infantile, gli iscritti, al termine degli esami, dovranno presentare e discutere una dissertazione scritta su un argomento di neuropsichiatria infantile. Gli esami si svolgeranno per singole materie.   
-Dopo l'art. 153, e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in neurologia.   
-Art. 154. - Il corso per il conseguimento del diploma di specializzazione in neurologia ha la durata di 4 (quattro) anni. Il numero dei medici da ammettere alla scuola e' stabilito in 20 per i quattro anni di corso.   
-Le materie di insegnamento sono le seguenti:   
-  
-1° Anno:   
-1) anatomia e istologia del sistema nervoso;   
-2) fisiologia del sistema nervoso;   
-3) biochimica del sistema nervoso;   
-4) psicologia generale;   
-5) genetica (elementi);   
-6) psicopatologia;   
-7) semeiotica psichiatrica.   
-  
-2° Anno:   
-1) anatomia e istologia patologica del sistema nervoso;   
-2) semeiotica neurologica;   
-3) patologia speciale e diagnostica neurologica (1);   
-4) neuropatologia;   
-5) endocrinologia e neurologia vegetativa.   
-  
-3° Anno:   
-1) patologia speciale e diagnostica neurologica (2);   
-2) clinica neurologica e terapia (1);   
-3) elettroencefalografia;   
-4) elettromiografia;   
-5) elettrodiagnostica ed elettroterapia;   
-6) neurooftalmologia;   
-7) neurootologia;   
-8) esami di laboratorio.   
-  
-4° Anno:   
-1) clinica neurologica e terapia (2);   
-2) neurochirurgia;   
-3) teoria e clinica della riabilitazione;   
-4) neurotraumatologia, anche sotto l'aspetto della medicina legale;   
-5) neurologia in rapporto alla patologia internista.   
-  
-Art. 155. - Internato obbligatorio per l'intero anno scolastico nel 2°, 3° e 4° anno in clinica neurologica, sede della scuola.   
-Tale internato potra' essere ridotto a non meno di mesi 4 per anno per i medici che prestino regolare servizio in reparto neurologico, internato obbligatorio per l'intero anno scolastico in psichiatria per il 1° anno. Tale internato potra' essere ridotto a non meno di mesi 6 per i medici che prestino regolare servizio in reparto neurologico e non meno di mesi 4 per coloro che prestino servizio in ospedale psichiatrico.   
-Ammissione per titoli ed esami.   
-Agli anni successivi al primo sono ammessi gli allievi che abbiano regolarmente frequentato il corso precedente e superato i relativi esami.   
-Art. 156. - L'importo delle tasse e soprattasse per l'iscrizione alla scuola in parola sono cosi' stabilite:   
-  
-  
-  
-  
-immatricolazione . . . . . . . . . . . . . . . . . . L. 6.000  
-iscrizione annuale . . . . . . . . . . . . . . . . . " 192.320  
-annuale esami di profitto. . . . . . . . . . . . . . " 7.000  
-contributo di laboratorio. . . . . . . . . . . . . . " 60.000  
-contributo opere assistenziali e sportive. . . . . . " 1.000  
-contributi stampati. . . . . . . . . . . . . . . . . " 2.000  
-riscaldamento. . . . . . . . . . . . . . . . . . . . " 5.000  
-assicurazione. . . . . . . . . . . . . . . . . . . . " 580  
-soprattassa esame diploma. . . . . . . . . . . . . . " 3.000  
-tassa diploma. . . . . . . . . . . . . . . . . . . . " 6.000  
-costo libretto . . . . . . . . . . . . . . . . . . . " 1.000  
-  
-  
+1) rianimazione (II);   
+2) tecniche speciali di anestesia;   
+3) tecniche speciali di rianimazione;   
+4) indagini diagnostiche attinenti alla specialita';   
+5) esercitazioni pratiche.   
+Art. 145. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
+Art. 146. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi.   
+Al termine del corso di studi per il conseguimento del diploma di specialista in anestesia e rianimazione gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito di sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 maggio 1977
+### Dato a Roma, addi' 18 febbraio 1978
 
 LEONE MALFATTI
 
 Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 30 luglio 1977
+Registrato alla Corte dei conti, addi' 24 agosto 1978
 
-Registro n. 92 Istruzione, foglio n. 28
+Registro n. 95 Istruzione, foglio n. 12

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 giugno 1976 n. 576
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1973 n. 1156
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 giugno 1976 n. 576
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1973 n. 1156
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
@@ -10,19 +10,17 @@ Modificazioni allo statuto dell'Universita' degli studi di Parma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Parma e convalidati dal Consiglio superiore della pubblica istruzione nei suoi pareri;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -32,293 +30,395 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 92 - all'elenco degli insegnamenti complementari del corso di laurea in matematica, II gruppo, sono aggiunti i seguenti:
+L'art. 142, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che la scuola in "Igiene" muta la denominazione in quella di "Igiene e medicina preventiva".
 
-topologie differenziali;
+Nello stesso elenco la scuola in "Medicina ed igiene scolastica" e' soppressa ed e' aggiunta la scuola in "Malattie dell'apparato cardiovascolare" di nuova istituzione.
 
-topologia algebrica;
+Dopo l'art. 159, e con il conseguente spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo relativo alle disposizioni generali per le scuole di specializzazione:
 
-fondamenti di matematica;
+Art. 160. - I laureati in medicina e chirurgia, in possesso di diplomi rilasciati dalle soppresse scuole di specializzazione, possono ottenere l'iscrizione all'ultimo anno di corso delle corrispondenti scuole di specializzazione gia' riordinate, alle condizioni stabilite dai rispettivi consigli delle scuole stesse.
 
-operatori differenziali;
+L'ultimo comma dell'art. 185, relativo alla scuola di specializzazione in psichiatria istituita con [decreto del Presidente della Repubblica 28 agosto 1971, n. 906](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-08-28;906), e' modificato nel senso che il numero degli iscritti e' stabilito in sessanta per i quattro anni di corso.
 
-teoria delle equazioni integrali;
+L'ultimo comma dell'art. 187, relativo alla scuola di specializzazione in neurologia, istituita con [decreto del Presidente della Repubblica 28 agosto 1971, n. 906](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-08-28;906), e' modificato nel senso che il numero degli iscritti e' stabilito in sessanta per i quattro anni di corso.
 
-analisi non lineare;
+Gli articoli da 196 a 200, relativi alla "Scuola di specializzazione in igiene" che muta la denominazione in quella di "Scuola di specializzazione in igiene e medicina preventiva", sono abrogati e sostituiti dai seguenti:
 
-algebra commutativa;
+Scuola di specializzazione in igiene e medicina preventiva
 
-istituzioni di algebra superiore;
+Art. 196. - La scuola di specializzazione in igiene e medicina preventiva si articola in quattro orientamenti:
 
-funzioni speciali;
+a) orientamento di sanita' pubblica;
 
-programmazione matematica;
+b) orientamento di laboratorio;
 
-geometria combinatoria;
+c) orientamento di igiene e tecnica ospitaliera;
 
-strutture algebriche;
+d) orientamento di igiene e medicina scolastica.
 
-teoria dei Grafi.
+Art. 197. - La scuola ha la durata di tre anni.
 
-Art. 99 - all'elenco degli insegnamenti complementari del corso di laurea in fisica, indirizzo generale I gruppo, sono aggiunti i seguenti:
+Art. 198. - L'iscrizione alla scuola e' limitata:
 
-meccanica celeste;
+a) a non piu' di trenta iscritti per anno al corso con orientamento di sanita' pubblica;
 
-programmazione e metodi numerici nella fisica;
+b) a non piu' di quindici iscritti per anno al corso con orientamento di laboratorio;
 
-applicazioni fisiche della teoria dei gruppi.
+c) a non piu' di quindici iscritti per anno al corso con orientamento di igiene e tecnica ospitaliera;
 
-Nello stesso articolo, all'elenco degli insegnamenti complementari del corso di laurea in fisica, indirizzo generale II gruppo, sono aggiunti i seguenti:
+d) a non piu' di quindici iscritti per anno al corso con orientamento di igiene e medicina scolastica.
 
-istituzioni di fisica dello stato solido;
+Art. 199. - Non sono consentite abbreviazioni di corso.
 
-ottica quantistica;
+Art. 200. - Le materie di insegnamento sono:
 
-fisica molecolare;
+1° Anno:
 
-fisica delle alte energie;
+1) Metodologia statistica e biometria;
 
-storia del metodo scientifico;
+2) Educazione sanitaria:
 
-elettrodinamica quantistica;
+3) Psicologia;
 
-teoria delle interazioni deboli;
+4) Microbiologia;
 
-cosmologia.
+5) Parassitologia;
 
-Nello stesso articolo, all'elenco degli insegnamenti complementari del corso di laurea in fisica, indirizzo applicativo II gruppo, sono aggiunti i seguenti:
+6) Epidemiologia e profilassi generale.
 
-fisica dei dispositivi a stato solido;
+2° Anno:
 
-fisica dei fenomeni cooperativi e delle transizioni di fase;
+1) Patologia e clinica delle malattie infettive;
 
-fisica dei film sottili;
+2) Epidemiologia e profilassi delle malattie infettive;
 
-fisica delle basse temperature;
+3) Patologia e clinica delle malattie non infettive di importanza sociale;
 
-proprieta' magnetiche della materia;
+4) Epidemiologia e profilassi delle malattie non infettive di importanza sociale;
 
-spettroscopia dello stato solido;
+5) Demografia e statistica sanitaria;
 
-fisica dalle superfici;
+6) Legislazione e organizzazione sanitaria.
 
-proprieta' dielettriche dei solidi;
+3° Anno (con orientamento di sanita' pubblica):
 
-fisica dei metalli;
+1) Approvvigionamento idrico; raccolta e smaltimento dei rifiuti liquidi e solidi; inquinamenti atmosferici;
 
-biofisica teorica;
+2) Igiene edilizia e urbanistica;
 
-biofisica medica.
+3) Igiene dell'alimentazione;
 
-Art. 107 - all'elenco degli insegnamenti complementari del corso di laurea in chimica, indirizzo organico-biologico, sono aggiunti i seguenti:
+4) Igiene e medicina scolastica;
 
-stereochimica organica;
+5) igiene ospitaliera;
 
-tecniche e sintesi speciali organiche;
+6) Servizi di sanita' pubblica.
 
-chimica degli eterocicli;
+3° Anno (con orientamento di laboratorio):
 
-fotochimica;
+1) Microscopia applicata all'igiene;
 
-cristallochimica organica;
+2) Microbiologia applicata all'igiene;
 
-biochimica applicata.
+3) Chimica clinica;
 
-Nello stesso articolo, all'elenco degli insegnamenti complementari del corso di laurea in chimica, indirizzo inorganico-chimico-fisico, sono aggiunti i seguenti:
+4) Accertamento diagnostico delle malattie batteriche e parassitarie;
 
-analisi strumentale;
+5) Accertamento diagnostico delle infezioni virali;
 
-chimica fisica dello stato solido;
+6) Nozioni di anatomia e istologia patologica.
 
-chimica organica superiore;
+3° Anno (con orientamento di igiene e tecnica (o direzione) ospitaliera):
 
-fotochimica;
+1) Storia degli ospedali e principi metodologici dell'assistenza ospedaliera;
 
-stereochimica;
+2) Igiene e tecnica delle costruzioni ospedaliere, arredamento ed impianti sanitari;
 
-tecnica e sintesi speciali inorganiche;
+3) Organizzazione e funzione degli ospedali generali e speciali;
 
-spettroscopia molecolare.
+4) Diritto amministrativo e legislazione ospitaliera;
 
-L'art. 109, relativo al conseguimento dell'esame di laurea in chimica, e' abrogato e sostituito dal seguente:
+5) Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospitaliera;
 
-"Per il conseguimento della laurea in chimica lo studente deve presentare una dissertazione scritta, preferibilmente, di natura sperimentale, su argomento di carattere prevalentemente chimico, concordato con un professore ufficiale della facolta'.
+6) Selezione e istruzione professionale del personale ospedaliero;
 
-La dissertazione deve essere presentata alla segreteria dell'Universita' almeno dieci giorni (il periodo dieci giorni va inteso come provvisorio e puo' subire modificazioni per uniformita' con gli altri corsi di laurea) prima dell'esame di laurea insieme ai titoli dei tre argomenti scelti per la discussione, di cui all'art. 16.
+7) Organizzazione e funzione dei laboratori di analisi e di accertamento necroscopico.
 
-Per essere ammesso all'esame di laurea lo studente deve inoltre aver sostenuto un colloquio di cultura chimica davanti ad una commissione nominata dal preside.
+3° Anno (con orientamento di igiene e medicina scolastica):
 
-Tale colloquio non ha pero' carattere preclusivo.
+1) Auscologia normale patologica;
 
-Le modalita' dell'assegnazione e dello svolgimento delle tesi di laurea e del colloquio di culturale sono previste da apposita regolamentazione approvata dal consiglio di facolta' su proposta del consiglio di corso di laurea in chimica".
+2) Epidemiologia e profilassi delle malattie dell'eta' scolare;
 
-L'art. 110, relativo all'esame di laurea in chimica, e' abrogato e sostituito dal seguente:
+3) Servizi di medicina scolastica;
 
-"L'esame di laurea comprende la discussione della dissertazione scritta di cui all'art. 16 ed una discussione sui due dei tre argomenti scelti dal laureando, in accordo con professori ufficiali in materie di insegnamento della facolta', diverse tra loro e da quella oggetto della dissertazione di laurea".
+4) Elementi di psicologia e pedagogia dell'eta' scolare;
 
-Art. 117 - all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:
+5) Igiene dell'alimentazione;
 
-geografia fisica;
+6) Assistenza parascolastica;
 
-analisi mineralogiche;
+7) Edilizia scolastica.
 
-micropaleontologia;
+Materie complementari:
 
-vulcanologia;
+Ciascun specializzando scegliera', per ogni anno di corso, una sola delle seguenti materie complementari:
 
-analisi merceologiche;
+1) Ispezione delle carni;
 
-esercitazioni di preparazioni chimiche I;
+2) Geologia applicata all'igiene;
 
-esercitazioni di fisica sperimentale;
+4) Malattie professionali e loro prevenzione;
 
-ecologia animale;
+5) Diritto sanitario;
 
-genetica umana.
+6) Igiene navale e dell'emigrazione;
 
-L'art. 119, relativo alle norme per l'ammissione al conseguimento della laurea in scienze naturali, e' modificato nel senso che e' integrato con il seguente comma:
+7) Antropologia culturale e sociologica;
 
-"Deve inoltre aver frequentato un istituto della facolta', in qualita' di allievo interno, per almeno un anno".
+8) Malattie tropicali;
 
-L'art. 120, relativo alle norme per il conseguimento della laurea in scienze naturali, e' modificato nel senso che sono soppresse le seguenti parole: "possibilmente prima dell'assegnazione della tesi di laurea".
+9) Istituzioni di matematica;
 
-L'art. 121, relativo all'esame di laurea in scienze naturali, e' abrogato e sostituito dal seguente:
+10) Genetica;
 
-"L'esame di laurea comprende la discussione della dissertazione scritta ed una discussione su due dei tre argomenti scelti dal laureando in accordo con professori ufficiali di insegnamenti della facolta', diversi fra loro e da quello oggetto della dissertazione di laurea".
+11) Gerontologia;
 
-L'art. 304, relativo al funzionamento della scuola di perfezionamento in fisica dello stato solido, e' abrogato e sostituito dal seguente:
+12) Elementi di economia politica.
 
-"Il funzionamento della scuola e' affidato ad un consiglio direttivo nominato dalla facolta' su proposta del consiglio di corso di laurea in fisica. Alla scadenza del triennio il consiglio direttivo deve presentare una relazione sulla stia gestione al consiglio di corso di laurea in fisica, che la discute e la propone per l'approvazione al consiglio di facolta'.
+Gli articoli da 204 a 211, relativi alla "Scuola di specializzazione in medicina ed igiene scolastica", sono soppressi con il conseguente spostamento della numerazione degli articoli successivi.
 
-Il consiglio direttivo propone di anno in anno alla facolta' gli insegnamenti da impartire ed i relativi programmi, e nomina per un periodo di un anno un direttore al quale sono affidate l'organizzazione e la sorveglianza sul regolare funzionamento degli insegnamenti e degli esami. Il direttore e' coadiuvato da un segretario e fa parte di diritto del consiglio direttivo.
+Dopo l'art. 265, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della "Scuola di specializzazione in malattie dell'apparato cardiovascolare".
 
-Gli insegnamenti della scuola sono proposti, d'intesa con il consiglio direttivo, dal direttore, che puo' scegliere tra docenti universitari o tra persone di riconosciuta competenza in una delle discipline trattate nella scuola; tali proposte sono sottoposte all'approvazione della facolta'".
+Scuola di specializzazione in malattie dell'apparato cardiovascolare
+
+Art. 266. - La scuola ha la durata di tre anni.
+
+Il numero degli iscritti e stabilito in tre ogni anno di corso.
+
+Art. 267. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+1) Anatomia normale dell'apparato cardio-vascolare:
+
+2) Fisiologia dell'apparato cardio-vascolare e respiratorio;
+
+3) Fisiopatologia cardio-vascolare e respiratoria (1° corso);
+
+4) Patologia cardio-vascolare (1° corso);
+
+5) Semeiologia fisica (1° corso);
+
+6) Semeiologia strumentale (1° corso);
+
+7) Microbiologia (facoltativo);
+
+8) Metabolismo del miocardio (facoltativo).
+
+2° Anno:
+
+1) Fisiopatologia cardio-vascolare e respiratoria (2° corso);
+
+2) Patologia cardio-vascolare (2° corso);
+
+3) Semeiologia fisica (2° corso);
+
+4) Semeiologia strumentale (2° corso);
+
+5) Anatomia patologica dell'apparato cardio-vascolare (1° corso);
+
+6) Radiologia;
+
+7) Farmacologia;
+
+8) Clinica e terapia (I° corso);
+
+3° Anno:
+
+1) Anatomia patologica dell'apparato cardio-vascolare (2° corso);
+
+2) Clinica e terapia (2° corso);
+
+3) Chirurgia dell'apparato cardio-vascolare;
+
+4) Problemi assicurativi e sociali (facoltativo);
+
+5) Statistica (facoltativo).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 9 giugno 1976
+Dato a Roma, addi' 23 ottobre 1973
 
 LEONE
 
 MALFATTI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: ZAGARI
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 17 agosto 1976 Atti di Governo, registro n. 8, foglio n. 60
+alla Corte dei conti, addi' 28 ottobre 1974 Atti di Governo, registro n. 6, foglio n. 49. - SCIARRETTA
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Parma e convalidati dal Consiglio superiore della pubblica istruzione nei suoi pareri;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 92 - all'elenco degli insegnamenti complementari del corso di laurea in matematica, II gruppo, sono aggiunti i seguenti:  
-topologie differenziali;  
-topologia algebrica;  
-fondamenti di matematica;  
-operatori differenziali;  
-teoria delle equazioni integrali;  
-analisi non lineare;  
-algebra commutativa;  
-istituzioni di algebra superiore;  
-funzioni speciali;  
-programmazione matematica;  
-geometria combinatoria;  
-strutture algebriche;  
-teoria dei Grafi.  
-Art. 99 - all'elenco degli insegnamenti complementari del corso di laurea in fisica, indirizzo generale I gruppo, sono aggiunti i seguenti:  
-meccanica celeste;  
-programmazione e metodi numerici nella fisica;  
-applicazioni fisiche della teoria dei gruppi.  
-Nello stesso articolo, all'elenco degli insegnamenti complementari del corso di laurea in fisica, indirizzo generale II gruppo, sono aggiunti i seguenti:  
-istituzioni di fisica dello stato solido;  
-ottica quantistica;  
-fisica molecolare;  
-fisica delle alte energie;  
-storia del metodo scientifico;  
-elettrodinamica quantistica;  
-teoria delle interazioni deboli;  
-cosmologia.  
-Nello stesso articolo, all'elenco degli insegnamenti complementari del corso di laurea in fisica, indirizzo applicativo II gruppo, sono aggiunti i seguenti:  
-fisica dei dispositivi a stato solido;  
-fisica dei fenomeni cooperativi e delle transizioni di fase;  
-fisica dei film sottili;  
-fisica delle basse temperature;  
-proprieta' magnetiche della materia;  
-spettroscopia dello stato solido;  
-fisica dalle superfici;  
-proprieta' dielettriche dei solidi;  
-fisica dei metalli;  
-biofisica teorica;  
-biofisica medica.  
-Art. 107 - all'elenco degli insegnamenti complementari del corso di laurea in chimica, indirizzo organico-biologico, sono aggiunti i seguenti:  
-stereochimica organica;  
-tecniche e sintesi speciali organiche;  
-chimica degli eterocicli;  
-fotochimica;  
-cristallochimica organica;  
-biochimica applicata.  
-Nello stesso articolo, all'elenco degli insegnamenti complementari del corso di laurea in chimica, indirizzo inorganico-chimico-fisico, sono aggiunti i seguenti:  
-analisi strumentale;  
-chimica fisica dello stato solido;  
-chimica organica superiore;  
-fotochimica;  
-stereochimica;  
-tecnica e sintesi speciali inorganiche;  
-spettroscopia molecolare.  
-L'art. 109, relativo al conseguimento dell'esame di laurea in chimica, e' abrogato e sostituito dal seguente:  
-"Per il conseguimento della laurea in chimica lo studente deve presentare una dissertazione scritta, preferibilmente, di natura sperimentale, su argomento di carattere prevalentemente chimico, concordato con un professore ufficiale della facolta'.  
-La dissertazione deve essere presentata alla segreteria dell'Universita' almeno dieci giorni (il periodo dieci giorni va inteso come provvisorio e puo' subire modificazioni per uniformita' con gli altri corsi di laurea) prima dell'esame di laurea insieme ai titoli dei tre argomenti scelti per la discussione, di cui all'art. 16.  
-Per essere ammesso all'esame di laurea lo studente deve inoltre aver sostenuto un colloquio di cultura chimica davanti ad una commissione nominata dal preside.  
-Tale colloquio non ha pero' carattere preclusivo.  
-Le modalita' dell'assegnazione e dello svolgimento delle tesi di laurea e del colloquio di culturale sono previste da apposita regolamentazione approvata dal consiglio di facolta' su proposta del consiglio di corso di laurea in chimica".  
-L'art. 110, relativo all'esame di laurea in chimica, e' abrogato e sostituito dal seguente:  
-"L'esame di laurea comprende la discussione della dissertazione scritta di cui all'art. 16 ed una discussione sui due dei tre argomenti scelti dal laureando, in accordo con professori ufficiali in materie di insegnamento della facolta', diverse tra loro e da quella oggetto della dissertazione di laurea".  
-Art. 117 - all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti i seguenti:  
-geografia fisica;  
-analisi mineralogiche;  
-micropaleontologia;  
-vulcanologia;  
-analisi merceologiche;  
-esercitazioni di preparazioni chimiche I;  
-esercitazioni di fisica sperimentale;  
-ecologia animale;  
-genetica umana.  
-L'art. 119, relativo alle norme per l'ammissione al conseguimento della laurea in scienze naturali, e' modificato nel senso che e' integrato con il seguente comma:  
-"Deve inoltre aver frequentato un istituto della facolta', in qualita' di allievo interno, per almeno un anno".  
-L'art. 120, relativo alle norme per il conseguimento della laurea in scienze naturali, e' modificato nel senso che sono soppresse le seguenti parole: "possibilmente prima dell'assegnazione della tesi di laurea".  
-L'art. 121, relativo all'esame di laurea in scienze naturali, e' abrogato e sostituito dal seguente:  
-"L'esame di laurea comprende la discussione della dissertazione scritta ed una discussione su due dei tre argomenti scelti dal laureando in accordo con professori ufficiali di insegnamenti della facolta', diversi fra loro e da quello oggetto della dissertazione di laurea".  
-L'art. 304, relativo al funzionamento della scuola di perfezionamento in fisica dello stato solido, e' abrogato e sostituito dal seguente:  
-"Il funzionamento della scuola e' affidato ad un consiglio direttivo nominato dalla facolta' su proposta del consiglio di corso di laurea in fisica. Alla scadenza del triennio il consiglio direttivo deve presentare una relazione sulla stia gestione al consiglio di corso di laurea in fisica, che la discute e la propone per l'approvazione al consiglio di facolta'.  
-Il consiglio direttivo propone di anno in anno alla facolta' gli insegnamenti da impartire ed i relativi programmi, e nomina per un periodo di un anno un direttore al quale sono affidate l'organizzazione e la sorveglianza sul regolare funzionamento degli insegnamenti e degli esami. Il direttore e' coadiuvato da un segretario e fa parte di diritto del consiglio direttivo.  
-Gli insegnamenti della scuola sono proposti, d'intesa con il consiglio direttivo, dal direttore, che puo' scegliere tra docenti universitari o tra persone di riconosciuta competenza in una delle discipline trattate nella scuola; tali proposte sono sottoposte all'approvazione della facolta'".  
+Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+  
+L'art. 142, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che la scuola in "Igiene" muta la denominazione in quella di "Igiene e medicina preventiva".   
+Nello stesso elenco la scuola in "Medicina ed igiene scolastica" e' soppressa ed e' aggiunta la scuola in "Malattie dell'apparato cardiovascolare" di nuova istituzione.   
+Dopo l'art. 159, e con il conseguente spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo relativo alle disposizioni generali per le scuole di specializzazione:   
+  
+Art. 160. - I laureati in medicina e chirurgia, in possesso di diplomi rilasciati dalle soppresse scuole di specializzazione, possono ottenere l'iscrizione all'ultimo anno di corso delle corrispondenti scuole di specializzazione gia' riordinate, alle condizioni stabilite dai rispettivi consigli delle scuole stesse.   
+L'ultimo comma dell'art. 185, relativo alla scuola di specializzazione in psichiatria istituita con [decreto del Presidente della Repubblica 28 agosto 1971, n. 906](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-08-28;906), e' modificato nel senso che il numero degli iscritti e' stabilito in sessanta per i quattro anni di corso.   
+L'ultimo comma dell'art. 187, relativo alla scuola di specializzazione in neurologia, istituita con [decreto del Presidente della Repubblica 28 agosto 1971, n. 906](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-08-28;906), e' modificato nel senso che il numero degli iscritti e' stabilito in sessanta per i quattro anni di corso.   
+Gli articoli da 196 a 200, relativi alla "Scuola di specializzazione in igiene" che muta la denominazione in quella di "Scuola di specializzazione in igiene e medicina preventiva", sono abrogati e sostituiti dai seguenti:   
+  
+Scuola di specializzazione in igiene e medicina preventiva   
+  
+Art. 196. - La scuola di specializzazione in igiene e medicina preventiva si articola in quattro orientamenti:   
+a) orientamento di sanita' pubblica;   
+b) orientamento di laboratorio;   
+c) orientamento di igiene e tecnica ospitaliera;   
+d) orientamento di igiene e medicina scolastica.   
+  
+Art. 197. - La scuola ha la durata di tre anni.   
+  
+Art. 198. - L'iscrizione alla scuola e' limitata:   
+a) a non piu' di trenta iscritti per anno al corso con orientamento di sanita' pubblica;   
+b) a non piu' di quindici iscritti per anno al corso con orientamento di laboratorio;   
+c) a non piu' di quindici iscritti per anno al corso con orientamento di igiene e tecnica ospitaliera;   
+d) a non piu' di quindici iscritti per anno al corso con orientamento di igiene e medicina scolastica.   
+  
+Art. 199. - Non sono consentite abbreviazioni di corso.   
+  
+Art. 200. - Le materie di insegnamento sono:   
+  
+1° Anno:   
+1) Metodologia statistica e biometria;   
+2) Educazione sanitaria:   
+3) Psicologia;   
+4) Microbiologia;   
+5) Parassitologia;   
+6) Epidemiologia e profilassi generale.   
+  
+2° Anno:   
+1) Patologia e clinica delle malattie infettive;   
+2) Epidemiologia e profilassi delle malattie infettive;   
+3) Patologia e clinica delle malattie non infettive di importanza sociale;   
+4) Epidemiologia e profilassi delle malattie non infettive di importanza sociale;   
+5) Demografia e statistica sanitaria;   
+6) Legislazione e organizzazione sanitaria.   
+  
+3° Anno (con orientamento di sanita' pubblica):   
+1) Approvvigionamento idrico; raccolta e smaltimento dei rifiuti liquidi e solidi; inquinamenti atmosferici;   
+2) Igiene edilizia e urbanistica;   
+3) Igiene dell'alimentazione;   
+4) Igiene e medicina scolastica;   
+5) igiene ospitaliera;   
+6) Servizi di sanita' pubblica.   
+  
+3° Anno (con orientamento di laboratorio):   
+1) Microscopia applicata all'igiene;   
+2) Microbiologia applicata all'igiene;   
+3) Chimica clinica;   
+4) Accertamento diagnostico delle malattie batteriche e parassitarie;   
+5) Accertamento diagnostico delle infezioni virali;   
+6) Nozioni di anatomia e istologia patologica.   
+  
+3° Anno (con orientamento di igiene e tecnica (o direzione) ospitaliera):   
+1) Storia degli ospedali e principi metodologici dell'assistenza ospedaliera;   
+2) Igiene e tecnica delle costruzioni ospedaliere, arredamento ed impianti sanitari;   
+3) Organizzazione e funzione degli ospedali generali e speciali;   
+4) Diritto amministrativo e legislazione ospitaliera;   
+5) Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospitaliera;   
+6) Selezione e istruzione professionale del personale ospedaliero;   
+7) Organizzazione e funzione dei laboratori di analisi e di accertamento necroscopico.   
+  
+3° Anno (con orientamento di igiene e medicina scolastica):   
+1) Auscologia normale patologica;   
+2) Epidemiologia e profilassi delle malattie dell'eta' scolare;   
+3) Servizi di medicina scolastica;   
+4) Elementi di psicologia e pedagogia dell'eta' scolare;   
+5) Igiene dell'alimentazione;   
+6) Assistenza parascolastica;   
+7) Edilizia scolastica.   
+  
+Materie complementari:   
+  
+Ciascun specializzando scegliera', per ogni anno di corso, una sola delle seguenti materie complementari:   
+1) Ispezione delle carni;   
+2) Geologia applicata all'igiene;   
+4) Malattie professionali e loro prevenzione;   
+5) Diritto sanitario;   
+6) Igiene navale e dell'emigrazione;   
+7) Antropologia culturale e sociologica;   
+8) Malattie tropicali;   
+9) Istituzioni di matematica;   
+10) Genetica;   
+11) Gerontologia;   
+12) Elementi di economia politica.   
+  
+Gli articoli da 204 a 211, relativi alla "Scuola di specializzazione in medicina ed igiene scolastica", sono soppressi con il conseguente spostamento della numerazione degli articoli successivi.   
+Dopo l'art. 265, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della "Scuola di specializzazione in malattie dell'apparato cardiovascolare".   
+  
+Scuola di specializzazione in malattie dell'apparato cardiovascolare   
+Art. 266. - La scuola ha la durata di tre anni.   
+Il numero degli iscritti e stabilito in tre ogni anno di corso.   
+  
+Art. 267. - Le materie di insegnamento sono le seguenti:   
+  
+1° Anno:   
+1) Anatomia normale dell'apparato cardio-vascolare:   
+2) Fisiologia dell'apparato cardio-vascolare e respiratorio;   
+3) Fisiopatologia cardio-vascolare e respiratoria (1° corso);   
+4) Patologia cardio-vascolare (1° corso);   
+5) Semeiologia fisica (1° corso);   
+6) Semeiologia strumentale (1° corso);   
+7) Microbiologia (facoltativo);   
+8) Metabolismo del miocardio (facoltativo).   
+  
+2° Anno:   
+1) Fisiopatologia cardio-vascolare e respiratoria (2° corso);   
+2) Patologia cardio-vascolare (2° corso);   
+3) Semeiologia fisica (2° corso);   
+4) Semeiologia strumentale (2° corso);   
+5) Anatomia patologica dell'apparato cardio-vascolare (1° corso);  
+6) Radiologia;   
+7) Farmacologia;   
+8) Clinica e terapia (I° corso);   
+  
+3° Anno:   
+1) Anatomia patologica dell'apparato cardio-vascolare (2° corso);  
+2) Clinica e terapia (2° corso);   
+3) Chirurgia dell'apparato cardio-vascolare;   
+4) Problemi assicurativi e sociali (facoltativo);   
+5) Statistica (facoltativo).   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 giugno 1976
+### Dato a Roma, addi' 23 ottobre 1973
 
 LEONE MALFATTI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 17 agosto 1976
+Registrato alla Corte dei conti, addi' 28 ottobre 1974
 
-Atti di Governo, registro n. 8, foglio n. 60
+Atti di Governo, registro n. 6, foglio n. 49. - SCIARRETTA

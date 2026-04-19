@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1980 n. 428
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 953
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1980 n. 428
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 953
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
@@ -18,110 +18,285 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
+Vista la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla
------
+Sulla proposta del Ministro della pubblica istruzione;
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 148 - l'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola di specializzazione in clinica odontoiatrica e stomatologica muta la denominazione in quella di scuola di specializzazione in odontostomatologia.
+
+L'art. 206, relativo alla scuola di specializzazione in clinica odontoiatrica e stomatologica, che muta la propria denominazione in odontostomatologia, e' soppressa e sostituito dal seguente:
+
+Art. 206 - Scuola di specializzazione in odontostomatologia. - La durata del corso e' di tre anni.
+
+Il numero degli iscritti alla scuola e' fissato ad un massimo di venticinque allievi per ogni anno di corso.
+
+La frequenza e' obbligatoria per l'intero anno scolastico.
+
+Le materie d'insegnamento sono:
+
+1° Anno:
+
+1) embriologia ed anatomia dentaria e maxillo-facciale;
+
+2) microbiologia ed igiene orale;
+
+3) farmacologia;
+
+4) patologia odontostomatologica;
+
+5) odontotecnica;
+
+6) anestesia e chirurgia stomatologica;
+
+7) odontoiatria conservativa I (biennale);
+
+esercitazioni pratiche.
+
+2° Anno:
+
+1) odontoiatria conservativa II (biennale);
+
+2) clinica protesica dentaria e maxillo-facciale I (biennale);
+
+3) parodontologia I (biennale);
+
+4) anatomia e istologia odontostomatologica;
+
+5) odontoatria infantile;
+
+6) radiologia odontostomatologica;
+
+7) ortopedia dento-maxillo-facciale I (biennale);
+
+8) chirurgia maxillo-facciale I (biennale);
+
+esercitazioni pratiche.
+
+3° Anno:
+
+1) clinica odontostomatologica;
+
+2) chirurgia maxillo-facciale II (biennale);
+
+3) medicina legale odontostomatologica e delle assicurazioni;
+
+4) ortopedia dento-maxillo-facciale II (biennale);
+
+5) clinica protesica dentaria e maxillo-facciale II (biennale);
+
+6) parodontologia II (biennale);
+
+esercitazioni pratiche.
+
+Gli esami di profitto teorici e pratici saranno sostenuti alla fine di ogni anno in un'unica sessione (ottobre).
+
+Alla fine del terzo anno, dopo aver superato gli esami di profitto, gli allievi saranno ammessi a sostenere l'esame di diploma che consiste nella discussione orale di una dissertazione scritta, su un tema proposto in precedenza dall'insegnante della materia sulla quale verte l'argomento, e approvato dal direttore della scuola.
+
+L'art. 237, relativo alla scuola di specializzazione in neurochirurgia, e' soppresso e sostituito dal seguente:
+
+Scuola di specializzazione in neurochirurgia
+
+Art. 237. - La scuola di specializzazione in neurochirurgia ha sede presso la clinica neurochirurgica della Universita' di Milano e conferisce il diploma di specialista in neurochirurgia.
+
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.
+
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+
+La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.
+
+Il numero massimo degli iscritti e di dieci per anno di corso e complessivamente di cinquanta iscritti per l'intero corso di studi.
+
+L'ammissione al corso avviene per titoli ed esami.
+
+Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+neuroanatomia;
+
+neurofisiologia;
+
+semeiotica e clinica neurologica;
+
+elementi di psichiatria;
+
+clinica neurochirurgica I (quinquennale).
+
+2° Anno:
+
+neuro-oftalmologia;
+
+neuro-otoiatria;
+
+neurofisiologia clinica;
+
+clinica neurochirurgica II (quinquennale).
+
+3° Anno:
+
+neuroanestesiologia e rianimazione;
+
+neuroradiologia I (biennale);
+
+neuropatologia;
+
+clinica neurochirurgica III (quinquennale).
+
+4° Anno:
+
+neuroradiologia II (biennale);
+
+neurotraumatologia;
+
+tecniche operatorie I (biennale);
+
+clinica neurochirurgica IV (quinquennale).
+
+5° Anno:
+
+neurochirurgia funzionale e stereotassica;
+
+neurochirurgia infantile;
+
+tecniche operatorie II (biennale);
+
+clinica neurochirurgica V (quinquennale).
+
+La frequenza alle lezioni ed alle esercitazioni pratiche e obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
+
+Al termine del corso di studi per il conseguimento del diploma di specialista in neurochirurgia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1978
+
+PERTINI
+
+PEDINI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 30 gennaio 1979 Registro n. 4 Istruzione, foglio n. 9
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
+  
+Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Vista la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
+  
+Decreta:  
   
 Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 148 - l'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola di specializzazione in clinica odontoiatrica e stomatologica muta la denominazione in quella di scuola di specializzazione in odontostomatologia.  
+L'art. 206, relativo alla scuola di specializzazione in clinica odontoiatrica e stomatologica, che muta la propria denominazione in odontostomatologia, e' soppressa e sostituito dal seguente:  
+Art. 206 - Scuola di specializzazione in odontostomatologia. - La durata del corso e' di tre anni.  
+Il numero degli iscritti alla scuola e' fissato ad un massimo di venticinque allievi per ogni anno di corso.  
+La frequenza e' obbligatoria per l'intero anno scolastico.  
+Le materie d'insegnamento sono:  
+1° Anno:  
+1) embriologia ed anatomia dentaria e maxillo-facciale;  
+2) microbiologia ed igiene orale;  
+3) farmacologia;  
+4) patologia odontostomatologica;  
+5) odontotecnica;  
+6) anestesia e chirurgia stomatologica;  
+7) odontoiatria conservativa I (biennale);  
+esercitazioni pratiche.  
+2° Anno:  
+1) odontoiatria conservativa II (biennale);  
+2) clinica protesica dentaria e maxillo-facciale I (biennale);  
+3) parodontologia I (biennale);  
+4) anatomia e istologia odontostomatologica;  
+5) odontoatria infantile;  
+6) radiologia odontostomatologica;  
+7) ortopedia dento-maxillo-facciale I (biennale);  
+8) chirurgia maxillo-facciale I (biennale);  
+esercitazioni pratiche.  
+3° Anno:  
+1) clinica odontostomatologica;  
+2) chirurgia maxillo-facciale II (biennale);  
+3) medicina legale odontostomatologica e delle assicurazioni;  
+4) ortopedia dento-maxillo-facciale II (biennale);  
+5) clinica protesica dentaria e maxillo-facciale II (biennale);  
+6) parodontologia II (biennale);  
+esercitazioni pratiche.  
+Gli esami di profitto teorici e pratici saranno sostenuti alla fine di ogni anno in un'unica sessione (ottobre).  
+Alla fine del terzo anno, dopo aver superato gli esami di profitto, gli allievi saranno ammessi a sostenere l'esame di diploma che consiste nella discussione orale di una dissertazione scritta, su un tema proposto in precedenza dall'insegnante della materia sulla quale verte l'argomento, e approvato dal direttore della scuola.  
+L'art. 237, relativo alla scuola di specializzazione in neurochirurgia, e' soppresso e sostituito dal seguente:  
   
-L'art. 148, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che la scuola di specializzazione in chirurgia plastica ricostruttiva muta la denominazione in quella di scuola di specializzazione in chirurgia plastica.  
-
-Art. 2
-------
-
+Scuola di specializzazione in neurochirurgia  
   
-Gli articoli 198, 199, 200, 201 e 202, relativi alla scuola di specializzazione in chirurgia plastica ricostruttiva, che muta la denominazione in quella di scuola di specializzazione in chirurgia plastica, sono soppressi e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in chirurgia plastica  
-  
-Art. 198. - La scuola di specializzazione in chirurgia plastica ha sede presso l'istituto di chirurgia plastica e conferisce il diploma di specialista in chirurgia plastica.  
+Art. 237. - La scuola di specializzazione in neurochirurgia ha sede presso la clinica neurochirurgica della Universita' di Milano e conferisce il diploma di specialista in neurochirurgia.  
 La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente. La durata del corso degli studi e' di cinque anni e non e' suscettibile di abbreviazioni.  
-Il numero massimo degli allievi e' di nove per anno di corso e complessivamente di quarantacinque iscritti per l'intero corso di studi.  
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.  
+Il numero massimo degli iscritti e di dieci per anno di corso e complessivamente di cinquanta iscritti per l'intero corso di studi.  
 L'ammissione al corso avviene per titoli ed esami.  
 Le materie di insegnamento sono le seguenti:  
 1° Anno:  
-anatomia ed embriologia, con particolare riguardo al capo, collo, arti superiori ed inferiori, organi genitali;  
-patologia generale (infezioni, flogosi, immunita', etiopatogenesi delle malformazioni congenite, neoplasie maligne e benigne);  
-anatomia ed istopatologia, con particolare riferimento alla malattia ustione e alle neoplasie maligne e benigne;  
-anestesiologia e rianimazione: concetti generali;  
-patologia secondaria;  
-guarigione delle ferite;  
-principi e regole pratiche di chirurgia (strumenti, sterilita', emostasi);  
-trapianti (biennale) I;  
-autoinnesti: indicazioni per l'utilizzazione terapeutica di cute, derma, grasso, fascia, cartilagine, ossa, tendini, segmenti nervosi e tessuti composti;  
-semeiologia del sistema nervoso periferico.  
+neuroanatomia;  
+neurofisiologia;  
+semeiotica e clinica neurologica;  
+elementi di psichiatria;  
+clinica neurochirurgica I (quinquennale).  
 2° Anno:  
-anatomia chirurgica;  
-tecniche e procedure operatorie in chirurgia generale e in chirurgia plastica;  
-trapianti (biennale) II;  
-omoinnesti: concetti generali (con particolare riferimento agli aspetti genetici ed immunitari);  
-tipizzazione dei tessuti;  
-utilizzazione clinica degli omoinnesti;  
-etero-innesti: estensione e limiti della loro utilizzazione clinica;  
-inserti non biologici: estensione e limiti della loro utilizzazione clinica;  
-traumatologia dei tessuti molli;  
-traumi complessi interessanti cute, tessuti molli e ossa;  
-shock emorragico;  
-shock traumatico;  
-shock da ustione;  
-malattia-ustione: fisiopatologia e clinica (biennale) I.  
+neuro-oftalmologia;  
+neuro-otoiatria;  
+neurofisiologia clinica;  
+clinica neurochirurgica II (quinquennale).  
 3° Anno:  
-malattia-ustione: terapia medica e chirurgica (biennale) II;  
-lesioni da raggi;  
-elementi di chirurgia addominale;  
-elementi di otorinolaringoiatria;  
-elementi di stomatologia;  
-elementi di ortopedia generale;  
-dermatologia generale, con specifico riferimento alle malattie o lesioni di competenza plastica, passibili di trattamento chirurgico (biennale) I;  
-elementi di genetica.  
+neuroanestesiologia e rianimazione;  
+neuroradiologia I (biennale);  
+neuropatologia;  
+clinica neurochirurgica III (quinquennale).  
 4° Anno:  
-metodologia chirurgica differenziale;  
-malformazioni congenite del volto, delle mani e degli organi genitali;  
-agenesie;  
-chirurgia riparatrice e ricostruttiva della mano;  
-trattamento chirurgico delle lesioni del volto e delle fratture del massiccio facciale;  
-trattamento chirurgico delle deformita' congenite ed acquisite del naso, delle labbra, del mento, della mandibola, del palato, del pavimento dell'orbita, del padiglione auricolare;  
-metodologia chirurgica differenziale applicata ai danni anatomici e funzionali derivanti dalla paralisi del 7°;  
-chirurgia d'urgenza;  
-dermatologia generale, con specifico riferimento alle malattie o lesioni congenite di competenza plastica, passibili di trattamento chirurgico (biennale) II.  
+neuroradiologia II (biennale);  
+neurotraumatologia;  
+tecniche operatorie I (biennale);  
+clinica neurochirurgica IV (quinquennale).  
 5° Anno:  
-patologia traumatica delle arterie e dei nervi periferici;  
-elementi di chirurgia vascolare;  
-microchirurgia vascolare e nervosa;  
-elementi di criobiologia e crioterapia;  
-elementi di fisio-chinesiterapia;  
-problemi psichiatrici e psicologici in chirurgia plastica;  
-medicina legale e delle assicurazioni, con particolare riferimento alle deformita' anatomiche e alle menomazioni funzionali di origine traumatica.  
-Art. 199. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.  
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere la prova di esame.  
-Art. 200. - E' fatto obbligo agli allievi del I biennio a presenziare ad un minimo di trenta sedute operatorie per anno; gli allievi del 3°, 4° e 5° anno devono partecipare quali primi assistenti ad un numero di cinquanta interventi per anno.  
-Art. 201. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno; per le materie a corsi pluriennali l'esame e' sostenuto alla fine dei corsi medesimi.  
-Art. 202. - Al termine del corso di studi per il conseguimento del diploma di specializzazione in chirurgia plastica, gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
+neurochirurgia funzionale e stereotassica;  
+neurochirurgia infantile;  
+tecniche operatorie II (biennale);  
+clinica neurochirurgica V (quinquennale).  
+La frequenza alle lezioni ed alle esercitazioni pratiche e obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
+Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.  
+Al termine del corso di studi per il conseguimento del diploma di specialista in neurochirurgia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 gennaio 1980
+### Dato a Roma, addi' 31 ottobre 1978
 
-PERTINI VALITUTTI
+PERTINI PEDINI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 31 luglio 1980
+Registrato alla Corte dei conti, addi' 30 gennaio 1979
 
-Registro n. 75 Istruzione, foglio n. 104
+Registro n. 4 Istruzione, foglio n. 9

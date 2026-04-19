@@ -1,79 +1,97 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1004
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 febbraio 1971 n. 1391
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1004
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 febbraio 1971 n. 1391
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2222](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2222), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Nell'art. 65, relativo al corso di laurea in chimica, negli elenchi degli insegnamenti complementari dei due indirizzi organico-biologico ed inorganico-chimico-fisico sono aggiunti i nuovi seguenti insegnamenti:  
-lingua inglese;  
-lingua tedesca.  
-Nello stesso articolo il settimo comma e' soppresso e sostituito dal seguente:  
-"Ciascuno degli insegnamenti di istituzioni di matematiche, di esercitazioni di matematiche, di fisica sperimentale e di esercitazioni di chimica fisica importa due distinti esami annuali.  
-L'esame relativo al primo corso deve precedere quello relativo al secondo".  
-Inoltre nell'ottavo comma e' aggiunto il nuovo alinea:  
-"L'insegnamento di chimica fisica (biennale) comporta due distinti esami annuali e l'esame relativo al primo corso deve precedere quello relativo al secondo".  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione di concerto con il Ministro per la sanita';   
   
-Nell'art. 69, relativo al corso di laurea in scienze biologiche, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-biocristallografia;  
-lingua inglese;  
-lingua tedesca.  
-
-Art. 3
-------
-
+Decreta:   
   
-Nell'art. 70, relativo al corso di laurea in scienze geologiche, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-cristallografia.  
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+  
+Dopo l'art. 216 e con il conseguente spostamento della successiva numerazione sono, inseriti i seguenti nuovi articoli relativi alla istituzione della scuola per tecnici di radiologia medica (scuola diretta a fini speciali).   
+  
+Scuola per tecnici di radiologia medica   
+(Scuola diretta a fini speciali)   
+  
+Art. 217. - E' istituita presso l'Universita' di Pavia e nell'ambito dell'ospedale policlinico S. Matteo una scuola per tecnici di radiologia medica.   
+Il funzionamento della scuola e' in accordo con gli articoli della [legge n. 1103 del 4 agosto 1965](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-08-04;1103) e' del relativo [regolamento del 6 marzo 1968, n. 160](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1968-03-06;160).   
+Compito della scuola e' la preparazione dei tecnici di radiologia medica secondo l'intendimento indicato nell'art. 13 di detta legge.   
+Art. 218. - La scuola e' gestita e amministrata dalla Universita' di Pavia. I mezzi finanziari per il funzionamento della scuola gravano sui fondi dell'istituto.   
+Art. 219. - La direzione della scuola e' affidata al direttore dell'istituto di radiologia.   
+Nel caso di vacanza del posto di direttore dell'Istituto universitario di radiologia la direzione della scuola e' affidata, nei modi previsti all'[art. 9 della legge del 4 agosto 1965, n. 1103](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-08-04;1103~art9), alla persona incaricata per legge, per regolamento o per disposizione della competente autorita' di sostituire il titolare mancante.   
+Art. 220. - Il direttore della scuola ha la piena responsabilita' didattica e funzionale della scuola, nei confronti della quale esercita costante opera di vigilanza e di controllo.   
+Il personale insegnante risponde direttamente verso il direttore della scuola dell'insegnamento affidatogli.   
+Il direttore della scuola convoca, quando lo crede opportuno, e presiede il consiglio degli insegnanti, per trattare questioni generali o particolari interessanti l'insegnamento e ne sottopone poi i deliberati al consiglio di amministrazione dell'universita' per provvedimenti di competenza.   
+Art. 221. - Gli insegnanti della scuola vengono scelti fra i docenti universitari e ospedalieri dell'istituto di radiologia.   
+L'insegnamento puo' essere affidato a docenti della facolta' di medicina e chirurgia e di altre facolta' universitarie, o a medici ospedalieri non dipendenti dall'insegnamento puo' essere affidato anche ad altri esperti che siano muniti del diploma di abilitazione di cui all'[art. 1 della legge 4 agosto 1965, n. 1103](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-08-04;1103~art1) e che siano iscritti negli appositi albi previsti dalla legge.   
+Art. 222. - Possono essere ammessi alla scuola allievi di ambo i sessi.   
+Art. 223. - Gli aspiranti all'ammissione alla scuola devono essere in possesso di diploma di istruzione secondaria di 1° grado, aver compiuto il diciassettesimo anno alla data del 31 dicembre dell'anno scolastico cui si riferisce la domanda di ammissione e non aver superato il 32° anno di eta', salve le maggiorazioni di legge (vedi art. 10 del regolamento).   
+Costituisce titolo preferenziale per l'ammissione alla scuola, in aggiunta al diploma di istruzione secondaria di 1° grado predetto, il possesso di qualsiasi diploma di scuola professionale o di altro genere.   
+Art. 224. - Il corso di studi e' di tre anni.   
+Ogni anno scolastico ha la durata di nove mesi.   
+E' prevista la possibilita' che allievi iscritti ad altre scuole per tecnici di radiologia si trasferiscano presso questa scuola, purche' possano documentare di avere frequentato con profitto fino al momento del trasferimento. Questo comunque non deve avvenire oltre la meta' dell'anno scolastico.   
+Art. 225. - Il numero massimo degli allievi e' fissato in ventuno (21) e cioe' sette (7) per ogni anno.   
+Art. 226. - Non sono ammesse abbreviazioni della durata del corso di studio.   
+Art. 227. - Gli aspiranti all'ammissione devono fare domanda al direttore della scuola entro il termine di 10 giorni prima dell'inizio dell'anno scolastico. La domanda deve essere corredata dei documenti previsti all'art. 11 del regolamento del 6 marzo 1968 e che verranno indicati negli appositi bandi.   
+Come stabilito dall'art. 12 del regolamento del 6 marzo 1968 gli allievi ammessi devono preliminarmente essere sottoposti ad una visita medica generale con particolare riferimento alle condizioni ematologiche, da parte di uno o piu' sanitari designati dal consiglio di amministrazione dell'universita'.   
+Sull'ammissione degli aspiranti decide il direttore della scuola nei limiti dei posti stabiliti. Gli aspiranti sono ammessi alla scuola con provvedimento del direttore secondo l'ordine cronologico di presentazione della domanda, salvi criteri preferenziali fissati nel [terzo comma dell'art. 4 della legge n. 1103 del 4 agosto 1965](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-08-04;1103~art4-com3).   
+I minori di anni ventuno possono essere ammessi alla scuola con l'esplicito consenso scritto del padre o di chi esercita la patria potesta' o tutela.   
+I bandi per l'iscrizione verranno inviati agli istituti universitari di radiologia, di radiobiologia e di medicina nucleare, nonche' agli ospedali e ai principali enti pubblici.   
+L'iscrizione e la frequenza alla scuola sono gratuite.   
+Art. 228. - Al termine di ogni anno scolastico gli allievi devono sostenere un colloquio sulle materie di insegnamento del rispettivo anno.   
+Verra' eseguito uno scrutinio calcolando la media dei voti riportati dall'allievo, nell'anno, per il profitto di ciascuna materia. Gli allievi che non abbiano raggiunto la media di sei decimi non ottengono il passaggio all'anno successivo, se trattasi di allievi del primo e del secondo anno; mentre se trattasi di allievi del terzo anno non sono ammessi all'esame della sessione estiva per il conseguimento del titolo di abilitazione.   
+Al termine del corso di studio gli allievi sosterranno una prova di esame orale e pratica. Tale prova si svolgera' in due sessioni secondo le modalita' stabilite all'art. 17 del regolamento del 4 marzo 1968. Ogni membro della commissione esaminatrice dispone di dieci punti per la valutazione della prova di esame orale e di dieci punti per la prova pratica. Per conseguire il diploma l'allievo deve riportare in ciascuna delle due prove almeno sei decimi del punteggio totale a disposizione della commissione.   
+Art. 229. - La commissione esaminatrice e' nominata dal medico provinciale, che la presiede ed e' composta:   
+  
+a) dal direttore della scuola;   
+b) da un primario ospedaliero di ruolo della specialita', designato dall'ordine dei medici della provincia;   
+c) da un docente di materia obbligatoria del corso di studio;   
+d) da un rappresentante del Ministero della pubblica istruzione.   
+  
+Un funzionario della carriera direttiva amministrativa del Ministero della sanita' esercita le funzioni di segretario.   
+Le spese per il funzionamento della commissione di esame sono liquidate dall'Universita' di Pavia.   
+Art. 230. - Il corso di studi comprende lezioni teoriche, esercitazioni e tirocinio pratico.   
+Il programma di insegnamento e' quello indicato dal decreto ministeriale del 19 aprile 1968, pubblicato nella Gazzetta Ufficiale del 20 dicembre 1968.   
+Il primo anno di studio comprende solo lezioni teoriche ed esercitazioni pratiche, con esclusione di ogni contatto degli allievi con gli ammalati.   
+Gli allievi non possono rimanere occupati per piu' di sei ore al giorno comprendendo in questo periodo tanto il tempo delle lezioni, quanto quello assegnato alle esercitazioni di tirocinio pratico, che non possono superare le due ore giornaliere.   
+Durante le esercitazioni e il tirocinio pratico ciascun allievo deve essere munito di idonei mezzi di protezione, nonche' degli apparecchi di misurazione delle radiazioni ionizzanti.   
+Art. 231. - Il tirocinio degli allievi presso l'istituto di radiologia dell'Universita' di Pavia, non da' luogo ad alcun rapporto di lavoro con l'universita', che e' esonerata dall'obbligo di corrispondere qualsiasi emolumento a titolo di stipendio o salario e qualsiasi contributo assicurativo e previdenziale.   
+L'universita' per contro provvede con i mezzi a disposizione dell'istituto di radiologia alla assicurazione degli allievi contro gli infortuni, le malattie e le lesioni causate da raggi X e sostanze radioattive e provvede a ricoverarli gratuitamente in caso di malattia acuta contratta durante il corso.   
+Art. 232. - Le visite mediche preventive, i controlli sanitari, di laboratorio e dosimetrici, richiesti all'art. 12 del regolamento del 6 marzo 1968 e della [legge del 20 febbraio 1958, n. 93](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-20;93), vengono svolti presso il servizio di radioprotezione funzionante nell'istituto di radiologia.   
+Le documentazioni relative verranno accluse ai fascicoli dei singoli allievi.   
+Art. 233. - Le trasgressioni di cui gli allievi si siano resi colpevoli nell'adempimento dei doveri scolastici debbono essere riferiti immediatamente al direttore per i conseguenti provvedimenti disciplinari.   
+Per le infrazioni si applicano, in quanto compatibili, le norme previste dalle disposizioni vigenti per gli istituti professionali dello Stato.   
+I provvedimenti che non implicano l'allontanamento dalla scuola sono di competenza del direttore.   
+I provvedimenti espulsivi vengono adottati dal consiglio dei professori. Contro i provvedimenti di allontanamento dalla scuola e' ammesso il ricorso per motivi di legittimita' e di merito al consiglio di amministrazione dell'Universita' di Pavia.   
+Art. 234. - La scuola si avvale degli impianti e dei mezzi per l'insegnamento e per il tirocinio gia' esistenti presso l'istituto di radiologia dell'universita'.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1981
+### Dato a Roma, addi' 1 febbraio 1971
 
-PERTINI BODRATO
+SARAGAT MISASI - MARIOTTI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 18 febbraio 1982
+Registrato alla Corte dei conti, addi' 20 marzo 1972
 
-Registro n. 26 Istruzione, foglio n. 252
+Atti del Governo, registro n. 247, foglio n. 147. - VALENTINI

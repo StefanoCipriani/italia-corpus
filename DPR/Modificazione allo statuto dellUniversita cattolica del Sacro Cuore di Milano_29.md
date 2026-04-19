@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1983 n. 239
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1983 n. 431
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1983 n. 239
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1983 n. 431
+=============================================================
 
 Modificazione allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
 --------------------------------------------------------------------------------
@@ -39,23 +39,19 @@ Articolo unico
 --------------
 
   
-Art. 23 - nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono inseriti i seguenti insegnamenti: oncologia clinica;  
-anatomia umana;  
-fisiopatologia endocrina;  
-cardiologia pediatrica;  
-terapia pediatrica sistematica;  
-genetica.  
+Art. 11 - nell'elenco degli insegnamenti complementari del corso di laurea in scienze politiche e' inserito il seguente insegnamento:  
+partiti politici e gruppi di pressione.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 marzo 1983
+### Dato a Roma, addi' 21 maggio 1983
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 19 maggio 1983
+Registrato alla Corte dei conti, addi' 11 agosto 1983
 
-Registro n. 36 Istruzione, foglio n. 66
+Registro n. 58 Istruzione, foglio n. 146

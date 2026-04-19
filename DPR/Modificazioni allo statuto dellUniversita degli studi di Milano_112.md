@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 agosto 1959 n. 871
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1239
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 agosto 1959 n. 871
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1239
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successivi;
+Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,256 +20,443 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Silla proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 57. - All'elenco, delle Scuole annesse alla Facolta' di lettere e filosofia e' aggiunta quella di "perfezionamento in storia dell'arte antica, medioevale e moderna".
+L'art. 148, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel modo seguente:
 
-Dopo l'art. 82 e con il conseguente spostamento della numerazione di quelli successivi, sono inseriti i seguenti nuovi articoli relativi alla:
+la scuola di specializzazione in chirurgia dell'infanzia muta la denominazione in quella di scuola di specializzazione in chirurgia pediatrica;
 
-Scuola di perfezionamento in storia dell'arte antica, medioevale e moderna
+la scuola di specializzazione in oculistica muta la denominazione in quella di scuola di specializzazione in oftalmologia.
 
-Art. 83. - La Scuola di perfezionamento in storia dell'arte antica, medioevale e moderna ha lo scopo, nell'ambito delle discipline costitutive della Scuola di:
+Gli articoli 182, 183, 184, 185, 186, 187, 188 e 189, relativi alla scuola di specializzazione in chirurgia dell'infanzia che muta la denominazione in quella di scuola di specializzazione in chirurgia pediatrica, sono abrogati e sostituiti dai seguenti:
 
-1) guidare e promuovere la continuazione della ricerca scientifica nei giovani laureati;
+Scuola di specializzazione in chirurgia pediatrica
 
-2) promuovere, mediante il coordinamento dei singoli insegnamenti, la loro integrazione con speciali corsi ed esercitazioni e l'assistenza dei docenti, una cultura specifica piu' approfondita nei giovani laureati che a queste aspirano, anche allo scopo di preparare insegnanti di storia dell'arte per le scuole secondarie e personale dirigente nelle Sopraintendenze e musei;
+Art. 182. - La scuola di specializzazione in chirurgia pediatrica ha sede presso una cattedra di materie chirurgiche e conferisce il diploma di specialista in chirurgia pediatrica.
 
-3) promuovere gli studi ai quali si intitola la Scuola con l'insegnamento, con pubblicazioni, raccolta di materiali, collaborazione con istituti similari ed ogni altra iniziativa consentita dai mezzi finanziari disponibili (quali borse di studio, viaggi, stampa di lavori degli allievi piu' meritevoli, ecc.).
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
 
-Art. 84. - La durata del corso di studi e' di due anni.
+Art. 183. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione allo esercizio professionale rilasciato dall'autorita' competente.
 
-Per ognuno dei due anni di perfezionamento lo studente deve ottenere la firma di iscrizione e frequenza di almeno tre corsi e sostenere i relativi esami: biennali per la disciplina prescelta per la tesi, annuali per le altre.
+La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazioni.
 
-Gli insegnamenti costitutivi della Scuola si articolano in tre rami:
+Art. 184. - Il numero massimo degli allievi e' di 10 (dieci) per anno di corso e complessivamente di cinquanta iscritti per l'intero corso di studi.
 
-storia dell'arte medioevale e moderna;
+Art. 185. - L'ammissione al corso avviene per titoli ed esami.
 
-archeologia e storia dell'arte greca e romana;
+Art. 186. - Le materie di insegnamento sono le seguenti:
 
-egittologia.
+1° Anno:
 
-Sono insegnamenti obbligatori per tutti e tre i rami la storia dell'arte medioevale e moderna e l'archeologia e storia dell'arte greca e romana. Le discipline a completamento degli esami fondamentali in ciascuna branca saranno scelte fra quelle insegnante nella Facolta' di lettere e filosofia dell'Universita' di Milano, a seconda dell'indirizzo dei suoi studi, dai candidato d'accordo con il direttore della Scuola.
+embriologia e genetica delle malformazioni congenite;
 
-Art. 85. - La Scuola e' retta da un direttore e da un Consiglio della scuola.
+anatomia patologica generale (biennale) I;
 
-Il direttore e' scelto dalla Facolta' fra i titolari delle cattedre di storia dell'arte medioevale e moderna, di archeologia e storia dell'arte greca e romana e di egittologia.
+diagnostica radiologica e nucleare generale;
 
-Il Consiglio della scuola e' costituito dai professori ufficiali che vi tengono gli insegnamenti costitutivi.
+anestesiologia;
 
-Art. 86. - Alla Scuola possono iscriversi i laureati in lettere, in filosofia e in lingue e letterature straniere moderne.
+clinica pediatrica (biennale) I;
 
-I candidati dovranno indicare all'atto della iscrizione in quale delle discipline costitutive della Scuola intendono conseguire il perfezionamento.
+patologia e clinica chirurgica generale (biennale) I.
 
-Art. 87. - Per conseguire il diploma di perfezionamento della Scuola gli iscritti dovranno, oltreche' aver superato gli esami di cui all'art. 84:
+2° Anno:
 
-a) sostenere un esame di cultura generale nell'ambito delle discipline prescelte, dimostrando di conoscere, ai fini di una corrente lettura e traduzione di testi, almeno in due lingue straniere;
+patologia e clinica chirurgica generale (biennale) II;
 
-b) presentare una dissertazione scritta intorno ad un tema prescelto nell'ambito delle discipline della e) sostenere la discussione orale intorno a tale dissertazione.
+rianimazione e terapia intensiva (biennale) I;
 
-Art. 88. - Le Commissioni dei singoli esami di profitto sono nominate dal preside di Facolta' di intesa con il direttore della Scuola e sono composte di tre membri, dei quali almeno due professori del corso.
+anatomia patologica generale (biennale) II;
 
-La Commissione dell'esame di diploma e' nominata, dai rettore, sentiti il preside della Facolta' di lettere e filosofia e il direttore della Scuola, ed e' composta di sette membri fra cui il preside della Facolta' di lettere e filosofia, il direttore della Scuola e almeno tre docenti della Scuola stessa.
+diagnostica radiologica e nucleare delle malattie infantili;
 
-Dopo il corso di perfezionamento in matematica applicata, annesso alla Facolta' di scienze matematiche, fisiche e naturali, sono aggiunti, con lo spostamento della, numerazione successiva, i seguenti nuovi articoli relativi all'ordinamento delle Scuole di perfezionamento delle Facolta' di scienze matematiche, fisiche e naturali.
+clinica pediatrica (biennale) II.
 
-Art. 141. Alla Facolta' di scienze matematiche, fisiche e naturali e' annessa la Scuola di perfezionamento in fisica.
+3° Anno:
 
-La durata del corso per il conseguimento dei singoli diplomi e' di due anni. Alla Scuola di perfezionamento sono ammessi i laureati in possesso dei titoli indicati per ogni singolo diploma.
+patologia e clinica chirurgica pediatrica (triennale) I;
 
-Art. 142. - Il direttore della Scuola e' nominato dal rettore su proposta del Consiglio della Facolta'. Il Consiglio nomina, altresi', un Comitato direttivo preposto all'organizzazione e alla disciplina degli studi. Esso e' costituito da almeno tre professori di ruolo, competenti nei rami degli studi relativi.
+endocrinologia pediatrica;
 
-I docenti di ruolo di altre Facolta' dell'Universita' di Milano che abbiano incarichi di insegnamento nelle scuole stesse, possono far parte del Comitato.
+tecnica chirurgica generale;
 
-Il Comitato e' presieduto dal direttore della Scuola.
+rianimazione e terapia intensiva (biennale) II;
 
-Art. 143. - Ogni anno, entro il mese di maggio, il Consiglio della Facolta', su proposta del Comitato della Scuola, stabilisce il numero dei posti disponibili al primo anno di ogni Scuola.
+chirurgia neonatale.
 
-E' comunque vietata L'iscrizione contemporanea a due o piu' corsi di perfezionamento.
+4° Anno:
 
-Art. 144. - Gli allievi dovranno sostenere gli esami di profitto e di diploma secondo l'ordinamento della Scuola.
+patologia e clinica chirurgica pediatrica (triennale) II;
 
-L'ammissione all'esame di diploma implica, in ogni caso, un giudizio preventivo di maturita' dei candidati, da parte del Comitato preposto al corso di ogni singolo diploma.
+neurochirurgia pediatrica;
 
-Art. 145. - Le Commissioni per gli esami di profitto sono composte di non meno di tre membri, compreso un libero docente, e sono nominate dal direttore della Scuola.
+tecnica chirurgica pediatrica;
 
-Le Commissioni per gli esami di diploma sono costituite da sette membri nominati dal preside della Facolta', udito il direttore della Scuola.
+ortopedia pediatrica;
 
-I commissari debbono rivestire la qualita' di professori ufficiali, ed e' chiamato a far parte della Commissione anche un libero docente.
+chirurgia plastica e ricostruttiva pediatrica.
 
-Art. 146. - Le tasse e soprattasse per gli iscritti alla Scuola di perfezionamento sono quelle stabilite per il conseguimento delle varie lauree della Facolta' di scienze matematiche, fisiche e naturali.
+5° Anno:
 
-L'ammontare dei contributi vari e dei contributi speciali per ogni singola Scuola verra' stabilito ogni anno dal Consiglio di amministrazione, su proposta del Senato accademico, udita la Facolta' e sara' devoluto agli istituti presso i quali funzionano le Scuole di perfezionamento.
+patologia e clinica chirurgica pediatrica (triennale) III;
 
-Art. 147. - Per quanto riguarda, le modalita' di iscrizione si richiamano le norme del regolamento sugli studenti approvato con [regio decreto 4 giugno 1938, n. 1269](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-04;1269).
+otorinolaringoiatria pediatrica;
 
-Art. 148. - La Scuola di perfezionamento in fisica conferisce il diploma in:
+cardiochirurgia pediatrica;
 
-a) elettronica;
+urologia pediatrica.
 
-b) fisica atomica e nucleare.
+Art. 187. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
 
-A) Diploma in elettronica:
+Art. 188. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi, devono superare le prove d'esame sulle materie impartite durante l'anno ad eccezione delle discipline svolte in corsi pluriennali il cui esame sara' sostenuto alla fine dei corsi medesimi.
 
-Al corso sono ammessi i laureati in fisica, in ingegneria, in chimica, in chimica industriale.
+Art. 189.- Al termine del corso di studio per il conseguimento del diploma di specialista in chirurgia pediatrica gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
 
-Gli insegnamenti sono:
+L'art. 217, relativo alla scuola di specializzazione in medicina del lavoro, e' abrogato e sostituito dal seguente:
 
-1) elementi e teoria dei circuiti elettrici;
+Scuola di specializzazione in medicina del lavoro
 
-2) fisica degli elettroni;
+Art. 217. - La scuola di specializzazione in medicina del lavoro ha sede presso l'istituto di medicina del lavoro e conferisce il diploma di specializzazione in medicina del lavoro.
 
-3) tubi e circuiti elettronici;
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
 
-4) apparecchiature elettroniche;
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.
 
-5) elettronica industriale;
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
 
-6) esercitazioni di laboratorio.
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.
 
-Ciascuno insegnamento comporta un esame annuale.
+Il numero massimo degli allievi e' di quaranta per anno di corso e complessivamente di centosessanta iscritti per l'intero corso di studi.
 
-Per l'ammissione al secondo anno e' obbligatorio il superamento di almeno due esami degli insegnamenti predetti.
+L'ammissione al corso avviene per titoli ed esami.
 
-L'esame di diploma consiste nella discussione orale di una dissertazione scritta su un tema approvato in precedenza dal Consiglio direttivo, corredato da rilievi teorici e sperimentali personali.
+Le materie di insegnamento sono le seguenti:
 
-B) Diploma di fisica atomica e nucleare
+1° Anno:
 
-Al corso sono ammessi i laureati in fisica, in matematica e fisica, in scienze matematiche e in ingegneria.
+1) igiene del lavoro (I corso);
 
-Gli insegnamenti sono:
+2) fisiologia del lavoro ed ergonomia (I corso);
 
-1) fisica atomica e molecolare;
+3) tecnologia industriale;
 
-2) fisica nucleare;
+4) statistica medica e biometria;
 
-3) fisica teorica;
+5) tecniche di laboratorio.
 
-4) fisica delle particelle elementari;
+2° Anno:
 
-5) tecniche e misure di fisica nucleare.
+1) patologia e clinica delle malattie da lavoro (I corso);
 
-L'ammissione al secondo anno di corso implica il superamento di due degli esami degli insegnamenti sopra elencati.
+2) igiene del lavoro (II corso);
 
-Il conferimento del diploma implica il superamento di tutti gli esami degli insegnamenti del corso e lo svolgimento di una ricerca originale, giudicata degna di pubblicazione.
+3) fisiologia del lavoro ed ergonomia (II corso);
+
+4) psicologia del lavoro;
+
+5) tossicologia industriale.
+
+3° Anno:
+
+1) patologia e clinica delle malattie da lavoro (II corso);
+
+2) prevenzione degli infortuni e delle malattie da lavoro (I corso);
+
+3) epidemiologia delle malattie da lavoro;
+
+4) radiobiologia e radioprotezione;
+
+5) dermatologia professionale.
+
+4° Anno:
+
+1) patologia e clinica delle malattie da lavoro (III corso);
+
+2) prevenzione degli infortuni e delle malattie da lavoro (II corso);
+
+3) pronto soccorso;
+
+4) medicina legale e delle assicurazioni;
+
+5) organizzazione dei servizi di medicina e igiene del lavoro.
+
+Gli esami delle discipline svolte in corsi pluriennali verranno sostenuti alla fine dell'ultimo corso.
+
+La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.
+
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie biennali o triennali l'esame sara' sostenuto alla fine del biennio o del triennio.
+
+Al termine del corso di studi per il conseguimento del diploma di specialista in medicina del lavoro, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta su un argomento attinente alla specializzazione.
+
+L'art. 218, relativo alla scuola di specializzazione in medicina dello sport, e' abrogato e sostituito dal seguente:
+
+Scuola di specializzazione in medicina dello sport
+
+Art. 218. - La scuola di specializzazione in medicina dello sport dell'Universita' degli studi di Milano si propone:
+
+a) di valorizzare e approfondire gli studi biologici e di medicina applicata nel campo delle attivita' sportive, formative e di competizione, e della educazione fisica;
+
+b) di preparare adeguatamente sotto l'aspetto teorico e della applicazione pratica i medici che intendono dedicarsi alle attivita' attinenti a questa particolare branca della medicina applicata, conferendo ad essi il diploma di specialista in medicina dello sport.
+
+Il titolo richiesto per l'ammissione alla scuola e' la laurea in medicina e chirurgia.
+
+Il corso di studi ha durata di tre anni, con frequenza obbligatoria; esso ha la sua sede ufficiale presso l'istituto di fisiologia umana. Gli insegnamenti clinici e specialistici si svolgeranno presso i rispettivi istituti clinici e specialistici.
+
+Il numero massimo degli allievi sara' di venti per anno e complessivamente di sessanta per l'intero corso.
+
+L'ammissione ai corsi avviene per titoli. Nel caso di domande eccedenti il numero dei posti disponibili la selezione dei candidati avverra' in base ai risultati di un esame di ammissione.
+
+Non sono previste abbreviazioni di corso.
+
+La direzione del corso e' affidata al direttore dell'istituto di fisiologia umana.
+
+L'ordine degli studi e' il seguente:
+
+1° Anno:
+
+1) anatomia dell'apparato locomotore;
+
+2) fisiologia dell'apparato locomotore;
+
+3) biochimica ed energetica muscolare;
+
+4) antropometria e auxologia:
+
+5) psicologia applicata allo sport;
+
+6) storia dell'educazione fisica e dello sport;
+
+7) sistematica delle attivita' sportivo-agonistiche e regolamenti sportivi.
+
+2° Anno:
+
+1) fisiologia dell'esercizio fisico;
+
+2) biomeccanica dell'esercizio fisico;
+
+3) metodologia dell'allenamento sportivo;
+
+4) scienza della nutrizione applicata all'attivita' sportiva;
+
+5) fisiopatologia degli sport e semeiotica medicosportiva I;
+
+6) farmacologia e tossicologia del doping;
+
+7) igiene e medicina preventiva applicata all'attivita' sportiva;
+
+8) traumatologia degli sport.
+
+3° Anno:
+
+1) fisiologia applicata agli sport;
+
+2) valutazione funzionale dello sportivo;
+
+3) fisiopatologia degli sport e semeiotica medicosportiva II;
+
+4) fisioterapia e rieducazione funzionale;
+
+5) rianimazione e pronto soccorso;
+
+6) medicina legale e infortunistica legata agli sport;
+
+7) fisiologia dell'adattamento agli ambienti straordinari.
+
+La scuola svolgera' brevi corsi integrativi di conferenze o seminari sopra argomenti e discipline che saranno stabiliti secondo le possibilita' contingenti, da consiglio dei docenti della scuola.
+
+Saranno inoltre svolte esercitazioni pratiche in sede e sul campo.
+
+Alla fine di ogni anno di corso gli allievi dovranno sostenere l'esame di profitto nelle materie di insegnamento, previste per ogni anno di corso e articolato in un unico gruppo.
+
+L'iscrizione agli anni successivi e' subordinata al superamento di tutti gli esami annuali.
+
+Il diploma si consegue dopo aver superato tutte le prove di esame del triennio; la prova di diploma si svolge con la discussione su una dissertazione scritta concernente un tema assegnato o in ogni altro caso approvato dal direttore della scuola.
+
+La scuola di specializzazione in oculistica di cui all'art. 242 muta la denominazione in quella di scuola di specializzazione in oftalmologia.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 26 agosto 1959
+Dato a Roma, addi' 31 ottobre 1977
 
-GRONCHI
+LEONE
 
-MEDICI
+MALFATTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BONIFACIO
 
 Registrato
 ----------
 
-alla Corte del conti, addi' 23 ottobre 1959 Atti del Governo, registro n. 121, foglio n. 76. - VILLA
+alla Corte dei conti, addi' 15 luglio 1978 Registro n. 75 Istruzione, foglio n. 304
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Silla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 57. - All'elenco, delle Scuole annesse alla Facolta' di lettere e filosofia e' aggiunta quella di "perfezionamento in storia dell'arte antica, medioevale e moderna".  
-Dopo l'art. 82 e con il conseguente spostamento della numerazione di quelli successivi, sono inseriti i seguenti nuovi articoli relativi alla:  
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+L'art. 148, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel modo seguente:   
+la scuola di specializzazione in chirurgia dell'infanzia muta la denominazione in quella di scuola di specializzazione in chirurgia pediatrica;   
+la scuola di specializzazione in oculistica muta la denominazione in quella di scuola di specializzazione in oftalmologia.   
+Gli articoli 182, 183, 184, 185, 186, 187, 188 e 189, relativi alla scuola di specializzazione in chirurgia dell'infanzia che muta la denominazione in quella di scuola di specializzazione in chirurgia pediatrica, sono abrogati e sostituiti dai seguenti:   
   
-Scuola di perfezionamento in storia dell'arte antica, medioevale e moderna  
-Art. 83. - La Scuola di perfezionamento in storia dell'arte antica, medioevale e moderna ha lo scopo, nell'ambito delle discipline costitutive della Scuola di:  
-1) guidare e promuovere la continuazione della ricerca scientifica nei giovani laureati;  
-2) promuovere, mediante il coordinamento dei singoli insegnamenti, la loro integrazione con speciali corsi ed esercitazioni e l'assistenza dei docenti, una cultura specifica piu' approfondita nei giovani laureati che a queste aspirano, anche allo scopo di preparare insegnanti di storia dell'arte per le scuole secondarie e personale dirigente nelle Sopraintendenze e musei;  
-3) promuovere gli studi ai quali si intitola la Scuola con l'insegnamento, con pubblicazioni, raccolta di materiali, collaborazione con istituti similari ed ogni altra iniziativa consentita dai mezzi finanziari disponibili (quali borse di studio, viaggi, stampa di lavori degli allievi piu' meritevoli, ecc.).  
-Art. 84. - La durata del corso di studi e' di due anni.  
-Per ognuno dei due anni di perfezionamento lo studente deve ottenere la firma di iscrizione e frequenza di almeno tre corsi e sostenere i relativi esami: biennali per la disciplina prescelta per la tesi, annuali per le altre.  
-Gli insegnamenti costitutivi della Scuola si articolano in tre rami:  
-storia dell'arte medioevale e moderna;  
-archeologia e storia dell'arte greca e romana;  
-egittologia.  
-Sono insegnamenti obbligatori per tutti e tre i rami la storia dell'arte medioevale e moderna e l'archeologia e storia dell'arte greca e romana. Le discipline a completamento degli esami fondamentali in ciascuna branca saranno scelte fra quelle insegnante nella Facolta' di lettere e filosofia dell'Universita' di Milano, a seconda dell'indirizzo dei suoi studi, dai candidato d'accordo con il direttore della Scuola.  
-Art. 85. - La Scuola e' retta da un direttore e da un Consiglio della scuola.  
-Il direttore e' scelto dalla Facolta' fra i titolari delle cattedre di storia dell'arte medioevale e moderna, di archeologia e storia dell'arte greca e romana e di egittologia.  
-Il Consiglio della scuola e' costituito dai professori ufficiali che vi tengono gli insegnamenti costitutivi.  
-Art. 86. - Alla Scuola possono iscriversi i laureati in lettere, in filosofia e in lingue e letterature straniere moderne.  
-I candidati dovranno indicare all'atto della iscrizione in quale delle discipline costitutive della Scuola intendono conseguire il perfezionamento.  
-Art. 87. - Per conseguire il diploma di perfezionamento della Scuola gli iscritti dovranno, oltreche' aver superato gli esami di cui all'art. 84:  
-a) sostenere un esame di cultura generale nell'ambito delle discipline prescelte, dimostrando di conoscere, ai fini di una corrente lettura e traduzione di testi, almeno in due lingue straniere;  
-b) presentare una dissertazione scritta intorno ad un tema prescelto nell'ambito delle discipline della e) sostenere la discussione orale intorno a tale dissertazione.  
-Art. 88. - Le Commissioni dei singoli esami di profitto sono nominate dal preside di Facolta' di intesa con il direttore della Scuola e sono composte di tre membri, dei quali almeno due professori del corso.  
-La Commissione dell'esame di diploma e' nominata, dai rettore, sentiti il preside della Facolta' di lettere e filosofia e il direttore della Scuola, ed e' composta di sette membri fra cui il preside della Facolta' di lettere e filosofia, il direttore della Scuola e almeno tre docenti della Scuola stessa.  
-Dopo il corso di perfezionamento in matematica applicata, annesso alla Facolta' di scienze matematiche, fisiche e naturali, sono aggiunti, con lo spostamento della, numerazione successiva, i seguenti nuovi articoli relativi all'ordinamento delle Scuole di perfezionamento delle Facolta' di scienze matematiche, fisiche e naturali.  
-Art. 141. Alla Facolta' di scienze matematiche, fisiche e naturali e' annessa la Scuola di perfezionamento in fisica.  
-La durata del corso per il conseguimento dei singoli diplomi e' di due anni. Alla Scuola di perfezionamento sono ammessi i laureati in possesso dei titoli indicati per ogni singolo diploma.  
-Art. 142. - Il direttore della Scuola e' nominato dal rettore su proposta del Consiglio della Facolta'. Il Consiglio nomina, altresi', un Comitato direttivo preposto all'organizzazione e alla disciplina degli studi. Esso e' costituito da almeno tre professori di ruolo, competenti nei rami degli studi relativi.  
-I docenti di ruolo di altre Facolta' dell'Universita' di Milano che abbiano incarichi di insegnamento nelle scuole stesse, possono far parte del Comitato.  
-Il Comitato e' presieduto dal direttore della Scuola.  
-Art. 143. - Ogni anno, entro il mese di maggio, il Consiglio della Facolta', su proposta del Comitato della Scuola, stabilisce il numero dei posti disponibili al primo anno di ogni Scuola.  
-E' comunque vietata L'iscrizione contemporanea a due o piu' corsi di perfezionamento.  
-Art. 144. - Gli allievi dovranno sostenere gli esami di profitto e di diploma secondo l'ordinamento della Scuola.  
-L'ammissione all'esame di diploma implica, in ogni caso, un giudizio preventivo di maturita' dei candidati, da parte del Comitato preposto al corso di ogni singolo diploma.  
-Art. 145. - Le Commissioni per gli esami di profitto sono composte di non meno di tre membri, compreso un libero docente, e sono nominate dal direttore della Scuola.  
-Le Commissioni per gli esami di diploma sono costituite da sette membri nominati dal preside della Facolta', udito il direttore della Scuola.  
-I commissari debbono rivestire la qualita' di professori ufficiali, ed e' chiamato a far parte della Commissione anche un libero docente.  
-Art. 146. - Le tasse e soprattasse per gli iscritti alla Scuola di perfezionamento sono quelle stabilite per il conseguimento delle varie lauree della Facolta' di scienze matematiche, fisiche e naturali.  
-L'ammontare dei contributi vari e dei contributi speciali per ogni singola Scuola verra' stabilito ogni anno dal Consiglio di amministrazione, su proposta del Senato accademico, udita la Facolta' e sara' devoluto agli istituti presso i quali funzionano le Scuole di perfezionamento.  
-Art. 147. - Per quanto riguarda, le modalita' di iscrizione si richiamano le norme del regolamento sugli studenti approvato con [regio decreto 4 giugno 1938, n. 1269](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-04;1269).  
-Art. 148. - La Scuola di perfezionamento in fisica conferisce il diploma in:  
-a) elettronica;  
-b) fisica atomica e nucleare.  
-A) Diploma in elettronica:  
+Scuola di specializzazione in chirurgia pediatrica   
+Art. 182. - La scuola di specializzazione in chirurgia pediatrica ha sede presso una cattedra di materie chirurgiche e conferisce il diploma di specialista in chirurgia pediatrica.   
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Art. 183. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione allo esercizio professionale rilasciato dall'autorita' competente.   
+La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazioni.   
+Art. 184. - Il numero massimo degli allievi e' di 10 (dieci) per anno di corso e complessivamente di cinquanta iscritti per l'intero corso di studi.   
+Art. 185. - L'ammissione al corso avviene per titoli ed esami.   
+Art. 186. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+embriologia e genetica delle malformazioni congenite;   
+anatomia patologica generale (biennale) I;   
+diagnostica radiologica e nucleare generale;   
+anestesiologia;   
+clinica pediatrica (biennale) I;   
+patologia e clinica chirurgica generale (biennale) I.   
+2° Anno:   
+patologia e clinica chirurgica generale (biennale) II;   
+rianimazione e terapia intensiva (biennale) I;   
+anatomia patologica generale (biennale) II;   
+diagnostica radiologica e nucleare delle malattie infantili;   
+clinica pediatrica (biennale) II.   
+3° Anno:   
+patologia e clinica chirurgica pediatrica (triennale) I;   
+endocrinologia pediatrica;   
+tecnica chirurgica generale;   
+rianimazione e terapia intensiva (biennale) II;   
+chirurgia neonatale.   
+4° Anno:   
+patologia e clinica chirurgica pediatrica (triennale) II;   
+neurochirurgia pediatrica;   
+tecnica chirurgica pediatrica;   
+ortopedia pediatrica;   
+chirurgia plastica e ricostruttiva pediatrica.   
+5° Anno:   
+patologia e clinica chirurgica pediatrica (triennale) III;   
+otorinolaringoiatria pediatrica;   
+cardiochirurgia pediatrica;   
+urologia pediatrica.   
+Art. 187. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
+Art. 188. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi, devono superare le prove d'esame sulle materie impartite durante l'anno ad eccezione delle discipline svolte in corsi pluriennali il cui esame sara' sostenuto alla fine dei corsi medesimi.   
+Art. 189.- Al termine del corso di studio per il conseguimento del diploma di specialista in chirurgia pediatrica gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
+L'art. 217, relativo alla scuola di specializzazione in medicina del lavoro, e' abrogato e sostituito dal seguente:   
   
-Al corso sono ammessi i laureati in fisica, in ingegneria, in chimica, in chimica industriale.  
-Gli insegnamenti sono:  
-1) elementi e teoria dei circuiti elettrici;  
-2) fisica degli elettroni;  
-3) tubi e circuiti elettronici;  
-4) apparecchiature elettroniche;  
-5) elettronica industriale;  
-6) esercitazioni di laboratorio.  
-Ciascuno insegnamento comporta un esame annuale.  
-Per l'ammissione al secondo anno e' obbligatorio il superamento di almeno due esami degli insegnamenti predetti.  
-L'esame di diploma consiste nella discussione orale di una dissertazione scritta su un tema approvato in precedenza dal Consiglio direttivo, corredato da rilievi teorici e sperimentali personali.  
-B) Diploma di fisica atomica e nucleare  
-Al corso sono ammessi i laureati in fisica, in matematica e fisica, in scienze matematiche e in ingegneria.  
-Gli insegnamenti sono:  
-1) fisica atomica e molecolare;  
-2) fisica nucleare;  
-3) fisica teorica;  
-4) fisica delle particelle elementari;  
-5) tecniche e misure di fisica nucleare.  
-L'ammissione al secondo anno di corso implica il superamento di due degli esami degli insegnamenti sopra elencati.  
-Il conferimento del diploma implica il superamento di tutti gli esami degli insegnamenti del corso e lo svolgimento di una ricerca originale, giudicata degna di pubblicazione.  
+Scuola di specializzazione in medicina del lavoro   
+Art. 217. - La scuola di specializzazione in medicina del lavoro ha sede presso l'istituto di medicina del lavoro e conferisce il diploma di specializzazione in medicina del lavoro.   
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
+Il numero massimo degli allievi e' di quaranta per anno di corso e complessivamente di centosessanta iscritti per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli ed esami.   
+Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+1) igiene del lavoro (I corso);   
+2) fisiologia del lavoro ed ergonomia (I corso);   
+3) tecnologia industriale;   
+4) statistica medica e biometria;   
+5) tecniche di laboratorio.   
+2° Anno:   
+1) patologia e clinica delle malattie da lavoro (I corso);   
+2) igiene del lavoro (II corso);   
+3) fisiologia del lavoro ed ergonomia (II corso);   
+4) psicologia del lavoro;   
+5) tossicologia industriale.   
+3° Anno:   
+1) patologia e clinica delle malattie da lavoro (II corso);   
+2) prevenzione degli infortuni e delle malattie da lavoro (I corso);   
+3) epidemiologia delle malattie da lavoro;   
+4) radiobiologia e radioprotezione;   
+5) dermatologia professionale.   
+4° Anno:   
+1) patologia e clinica delle malattie da lavoro (III corso);   
+2) prevenzione degli infortuni e delle malattie da lavoro (II corso);   
+3) pronto soccorso;   
+4) medicina legale e delle assicurazioni;   
+5) organizzazione dei servizi di medicina e igiene del lavoro.   
+Gli esami delle discipline svolte in corsi pluriennali verranno sostenuti alla fine dell'ultimo corso.   
+La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.   
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
+Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie biennali o triennali l'esame sara' sostenuto alla fine del biennio o del triennio.   
+Al termine del corso di studi per il conseguimento del diploma di specialista in medicina del lavoro, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta su un argomento attinente alla specializzazione.   
+L'art. 218, relativo alla scuola di specializzazione in medicina dello sport, e' abrogato e sostituito dal seguente:   
+  
+Scuola di specializzazione in medicina dello sport   
+Art. 218. - La scuola di specializzazione in medicina dello sport dell'Universita' degli studi di Milano si propone:   
+a) di valorizzare e approfondire gli studi biologici e di medicina applicata nel campo delle attivita' sportive, formative e di competizione, e della educazione fisica;   
+b) di preparare adeguatamente sotto l'aspetto teorico e della applicazione pratica i medici che intendono dedicarsi alle attivita' attinenti a questa particolare branca della medicina applicata, conferendo ad essi il diploma di specialista in medicina dello sport.   
+Il titolo richiesto per l'ammissione alla scuola e' la laurea in medicina e chirurgia.   
+Il corso di studi ha durata di tre anni, con frequenza obbligatoria; esso ha la sua sede ufficiale presso l'istituto di fisiologia umana. Gli insegnamenti clinici e specialistici si svolgeranno presso i rispettivi istituti clinici e specialistici.   
+Il numero massimo degli allievi sara' di venti per anno e complessivamente di sessanta per l'intero corso.   
+L'ammissione ai corsi avviene per titoli. Nel caso di domande eccedenti il numero dei posti disponibili la selezione dei candidati avverra' in base ai risultati di un esame di ammissione.   
+Non sono previste abbreviazioni di corso.   
+La direzione del corso e' affidata al direttore dell'istituto di fisiologia umana.   
+L'ordine degli studi e' il seguente:   
+1° Anno:   
+1) anatomia dell'apparato locomotore;   
+2) fisiologia dell'apparato locomotore;   
+3) biochimica ed energetica muscolare;   
+4) antropometria e auxologia:   
+5) psicologia applicata allo sport;   
+6) storia dell'educazione fisica e dello sport;   
+7) sistematica delle attivita' sportivo-agonistiche e regolamenti sportivi.   
+2° Anno:   
+1) fisiologia dell'esercizio fisico;   
+2) biomeccanica dell'esercizio fisico;   
+3) metodologia dell'allenamento sportivo;   
+4) scienza della nutrizione applicata all'attivita' sportiva;   
+5) fisiopatologia degli sport e semeiotica medicosportiva I;   
+6) farmacologia e tossicologia del doping;   
+7) igiene e medicina preventiva applicata all'attivita' sportiva;   
+8) traumatologia degli sport.   
+3° Anno:   
+1) fisiologia applicata agli sport;   
+2) valutazione funzionale dello sportivo;   
+3) fisiopatologia degli sport e semeiotica medicosportiva II;   
+4) fisioterapia e rieducazione funzionale;   
+5) rianimazione e pronto soccorso;   
+6) medicina legale e infortunistica legata agli sport;   
+7) fisiologia dell'adattamento agli ambienti straordinari.   
+La scuola svolgera' brevi corsi integrativi di conferenze o seminari sopra argomenti e discipline che saranno stabiliti secondo le possibilita' contingenti, da consiglio dei docenti della scuola.  
+Saranno inoltre svolte esercitazioni pratiche in sede e sul campo.   
+Alla fine di ogni anno di corso gli allievi dovranno sostenere l'esame di profitto nelle materie di insegnamento, previste per ogni anno di corso e articolato in un unico gruppo.   
+L'iscrizione agli anni successivi e' subordinata al superamento di tutti gli esami annuali.   
+Il diploma si consegue dopo aver superato tutte le prove di esame del triennio; la prova di diploma si svolge con la discussione su una dissertazione scritta concernente un tema assegnato o in ogni altro caso approvato dal direttore della scuola.   
+La scuola di specializzazione in oculistica di cui all'art. 242 muta la denominazione in quella di scuola di specializzazione in oftalmologia.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 agosto 1959
+### Dato a Roma, addi' 31 ottobre 1977
 
-GRONCHI MEDICI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte del conti, addi' 23 ottobre 1959
+Registrato alla Corte dei conti, addi' 15 luglio 1978
 
-Atti del Governo, registro n. 121, foglio n. 76. - VILLA
+Registro n. 75 Istruzione, foglio n. 304

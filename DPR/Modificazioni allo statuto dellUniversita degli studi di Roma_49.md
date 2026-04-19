@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1965 n. 1295
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1973 n. 1158
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1965 n. 1295
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1973 n. 1158
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
@@ -10,87 +10,182 @@ Modificazioni allo statuto dell'Universita' degli studi di Roma.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, numero 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734) e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 81. - Nell'elenco degli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono soppressi quelli di "Anestesiologia" e di "Urologia".  
-Al loro posto sono istituiti i seguenti insegnamenti complementari: "Anestesiologia e rianimazione;  
-Clinica urologica".  
-Dopo l'art. 601, e con il conseguente spostamento della successiva numerazione, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola diretta a fini speciali per terapisti della riabilitazione.  
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+L'art. 503, relativo alla scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale, e' modificato nel senso che il numero degli iscritti e' aumentato da dodici a trenta per i tre anni di corso.   
+L'art. 512, relativo alla scuola di specializzazione in radiologia, e' modificato nel senso che il numero degli iscritti e' aumentato da dieci a diciotto per ogni anno di corso.   
+Gli articoli da 587 a 591, relativi alla scuola di specializzazione in patologia generale, sono abrogati e sostituiti dai seguenti:   
   
-Scuola speciale per terapisti della riabilitazione  
+Scuola di specializzazione in patologia generale.   
   
-Art. 602. - La Scuola speciale per terapisti della riabilitazione ha sede presso la Clinica delle malattie nervose e mentali. Essa ha lo scopo di dare una preparazione completa, teorica e pratica, agli allievi, istruendoli sui problemi della riabilitazione dei minorati fisici con particolare riguardo ai minorati per lesioni organiche del sistema nervoso e di quelli affetti da disturbi organici del linguaggio, suscettibili di recupero funzionale e sociale mediante terapie fisiche, chinesiterapiche, occupazionali e del linguaggio.  
-Art. 603. - La durata del corso degli studi per il conseguimento del diploma di terapista della riabilitazione e' di tre anni accademici: i primi due consistenti in lezioni teoriche e pratiche su materie propedeutiche e tecniche presso la Clinica delle malattie nervose e mentali, il terzo di tirocinio pratico presso il Centro di riabilitazione della Clinica stessa o presso Centri di riabilitazione riconosciuti idonei a tale scopo dalla Scuola.  
-Gli allievi hanno l'obbligo della frequenza.  
-Art. 604. - Possono essere ammessi alla Scuola gli allievi di ambo i sessi di eta' non inferiore ai 17 anni in possesso del titolo di studio prescritto per l'ammissione alle Universita' (preferibilmente del diploma di maturita' classica, del diploma di maturita' scientifica del diploma di abilitazione magistrale).  
-Art. 605. - Il numero massimo dei posti disponibili annualmente e' stabilito nella misura di 30. Chi aspira ad ottenere l'iscrizione al primo anno della Scuola dovra' sostenere un esame di ammissione, consistente in una prova orale di cultura generale e in una intervista attitudinale.  
-Art. 606. - Il direttore della Scuola e' di diritto il titolare della cattedra della clinica delle malattie nervose e mentali dell'Universita'.  
-Art. 607. - Per essere ammessi al secondo anno occorre aver superato almeno due terzi degli esami del primo anno.  
-Art. 608. - Le materie di insegnamento del primo anno sono:  
-1) Nozioni generali di Anatomia, Fisiologia, Patologia;  
-2) Anatomia e fisiologia del sistema nervoso;  
-3) Anatomia e fisiologia dell'apparato motore;  
-4) Servizio sociale e relazioni umane;  
-5) Tecnica infermieristica;  
-6) Nozioni fondamentali di Psichiatria;  
-7) Psicologia e psicopatologia del minorato;  
-8) Chinesiologia e diagnostica dei disturbi del movimento;  
-9) Metodologia di fisioterapia;  
-10) Metodologia di terapia occupazionale;  
-11) Clinica della riabilitazione.  
-Le materie di insegnamento del secondo anno sono:  
-1) Patologia e clinica del sistema nervoso;  
-2) Patologia e clinica dell'apparato motore;  
-3) Anatomia, Fisiologia, Patologia degli organi della parola e dell'udito;  
-4) Neuropsichiatria infantile;  
-5) Paralisi cerebrali infantili;  
-6) Riabilitazione geriatrica;  
-7) Nozioni di reumatologia;  
-8) Elettroterapia ed altre terapie fisiche;  
-9) Chinesiologia e diagnostica dei disturbi del movimento; - 10) Metodologia di fisioterapia;  
-11) Metodologia di terapia occupazionale;  
-12) Metodologia di terapia del linguaggio;  
-13) Clinica della riabilitazione.  
-Nel secondo anno viene dato particolare risalto alle dimostrazioni pratiche per tutte le materie di insegnamento.  
-I corsi regolari saranno integrati da conferenze si argomenti specifici, proiezioni, visite ad altri Istituti.  
-Art. 609. - Per essere ammessi a sostenere l'esame di diploma gli allievi dovranno aver seguito i corsi, superati gli esami in tutti gli insegnamenti prescritti ed aver compiuto con esito favorevole le esercitazioni previste e l'anno di tirocinio.  
-L'esame per il conseguimento del diploma di terapista della riabilitazione consiste nella discussione di una tesi scritta su un tema preventivamente assegnato dal direttore della Scuola.  
-Art. 610. - Per ottenere l'ammissione alla Scuola si deve presentare all'Ufficio di segreteria dell'Universita', entro il 5 novembre, la domanda redatta in carta bollata da L. 400 diretta al rettore (indicare i recapito del richiedente) e, previo pagamento di una multa per ritardata presentazione, per gravi e giustificati motivi, fino al 30 novembre.  
-Art. 611. - I candidati ammessi alla Scuola dovranno, entro il termine che verra' a suo tempo comunicato, presentare:  
-a) titolo originale di studio;  
-b) due copie (formato tessera su fondo chiaro e firmate) della fotografia del richiedente, di cui una bollata ed autenticata;  
-c) quietanze comprovanti il pagamento alla Tesoreria universitaria delle tasse, sopratasse e contributi prescritti:  
+Art. 587. - La scuola di specializzazione in patologia generale ha sede presso l'istituto di patologia generale della facolta' di medicina e chirurgia.   
+Il corso degli studi ha la durata di tre anni.   
+Le iscrizioni ai singoli anni non potranno superare il numero di 60 (totale 180 specializzandi).   
   
-Immatricolazione . . . . . . . . . . . . . . . . . . . . . . L. 5.000 Tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 18.000 Sopratassa annuale di esami. . . . . . . . . . . . . . . . . L. 7.000 Contributi generali. . . . . . . . . . . . . . . . . . . . . . L. 950 Contributo riscaldamento . . . . . . . . . . . . . . . . . . L. 2.000 Libretto di riconoscimento . . . . . . . . . . . . . . . . . . L. 300 Indennita' di schedatura . . . . . . . . . . . . . . . . . . . L. 500 Contributo di reparto . . . . . . . . . . . . . . . L. 50.000 annuali   
-Il pagamento della tassa di iscrizione e della sopratassa puo' essere ripartito in quattro rate uguali; il contributo di reparto puo' essere ripartito in due rate uguali.  
-Art. 612. - Per ottenere il rilascio del diploma gli interessati dovranno presentare:  
-1) domanda redatta su carta bollata da L. 400 diretta al rettore;  
-2) quietanza comprovante il pagamento di L. 800 per indennita' di diploma, bollo, ecc., effettuato mediante apposito bollettino di c/c postale mod. "O" in vendita presso l'economato;  
-3) quietanza comprovante il pagamento della tassa erariale di diploma da L. 6000 da effettuare mediante il c/c postale n. 1/53000 intestato al procuratore del Registro di Roma, ufficio L. I.G.E.  
+Art. 588. - Alla scuola di specializzazione vengono ammessi laureati in medicina e chirurgia, in scienze biologiche, in farmacia.   
+Per i non laureati in medicina e chirurgia l'ammissione alla scuola e' subordinata al superamento di un esame interno.   
+Nel caso di eccedenza di domande, la scelta tra i richiedenti sara' fatta in base a concorso interno, per esame; gli aspiranti hanno l'obbligo di accertarsi presso l'istituto di patologia generale della eventuale data del concorso.   
+A giudizio del direttore, entro il numero stabilito per i singoli anni di corso, possono essere ammessi al 2° o al 3° corso direttamente i richiedenti sufficientemente forniti di titoli attinenti alla patologia generale (assistenti volontari di patologia generale e materie affini; specializzati in altre discipline affini alla patologia generale; assistenti ordinari e liberi docenti in altre discipline affini alla patologia generale, ecc.).   
+  
+Art. 589. - I candidati non riconosciuti idonei allo esame di diploma, potranno ripresentarsi dopo un altro anno di frequenza alla scuola; ma se al secondo esame non sia loro riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove.   
+  
+Art. 590. - Le materie di insegnamento sono le seguenti:   
+  
+1° Anno:   
+1) Eziologia generale (cause patogene: fisiche, chimiche e biologiche);   
+2) Patologia istochimica;   
+3) Patologia delle infezioni;   
+4) Laboratorio di patologia generale (1° corso).   
+  
+2° Anno:   
+5) Patologia delle infezioni;   
+6) Immunologia;   
+7) Fisiopatologia sistematica (della termoregolazione, del cuore e dei vasi, della respirazione) (1° corso);   
+8) Patologia del metabolismo (dei protidi, dei lipidi, dell'acqua e dei minerali e dei bioregolatori);   
+9) Laboratorio di patologia generale (2° corso).   
+  
+3° Anno:   
+10) Fisiopatologia sistematica (della digestione, del rene, del sangue e del sistema neuro-endocrino) (2° corso);   
+11) Patologia oncologica;   
+12) Laboratorio di patologia generale (3° corso).   
+  
+Art. 591. - Alla fine di ogni anno saranno sostenuti gli esami di ciascuna delle materie suindicate.   
+Per conseguire il diploma di specializzazione in patologia generale, al termine del corso triennale, oltre ad aver superato tutti gli esami delle singole materie, e' di obbligo presentare una dissertazione scritta, preferibilmente di carattere sperimentale, elaborata nell'istituto.   
+Dopo l'art. 711, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della prima e seconda scuola di specializzazione in "Anatomia e istologia patologica", della seconda scuola di specializzazione in "Chirurgia vascolare", della scuola di specializzazione in "Virologia".   
+  
+Scuola di specializzazione in anatomia e istologia patologica (prima e seconda scuola)   
+  
+Art. 712. - Sono istituite due scuole di specializzazione in anatomia ed istologia patologica, annesse rispettivamente all'istituto di anatomia e istologia patologica I e all'istituto di anatomia e istologia patologica I. Le scuole conferiscono il diploma di specialista in anatomia e istologia patologica.   
+I direttori delle due scuole sono, rispettivamente, i direttori degli istituti di anatomia e istologia patologica I e II.   
+Alle scuole vengono ammessi i laureati in medicina e chirurgia.   
+  
+Art. 713. - Gli anni di studio per il conseguimento del diploma sono tre.   
+  
+Art. 714. - Il numero massimo degli iscritti e' stabilito complessivamente in dieci specializzandi per ciascuna delle due scuole.   
+L'ammissione a ciascuna scuola avviene in seguito a valutazione dei titoli e a un colloquio.   
+  
+Art. 715. - Gli iscritti, oltre all'obbligo di frequenza delle lezioni, esercitazioni, seminari, ecc., devono prestare servizio continuativo in istituto.   
+Gli iscritti debbono sostenere gli esami annuali di profitto e l'esame finale di diploma.   
+Gli esami consisteranno in prove teoriche e pratiche.   
+Non puo' essere iscritto all'anno successivo di corso chi non abbia superato l'esame sulle materie fissate per ogni anno della specialita'.   
+  
+Art. 716. - Gli insegnamenti sono distribuiti nei tre anni di corso.   
+  
+1° Anno:   
+Tecnica delle autopsie;   
+Diagnostica anatomo-patologica macroscopica;   
+Anatomia patologica sistematica I;   
+Tecnica istologica ed istochimica I.   
+  
+2° Anno:   
+Anatomia patologica sistematica II;   
+Tecnica istologica ed istochimica II;   
+Diagnostica istopatologica I;   
+Elementi di microscopia elettronica.   
+  
+3° Anno:   
+Diagnostica istopatologica II;   
+Diagnostica ematologica;   
+Tecnica e diagnostica citologica;   
+Legislazione sanitaria tanatologica.   
+  
+Tutti i corsi avranno carattere teorico-pratico dimostrativo, con esercitazioni. Saranno svolte esercitazioni anche in riferimento ad indagini complementari.   
+  
+Scuola di specializzazione in chirurgia vascolare (seconda scuola)   
+Art. 717. - E' istituita, presso l'istituto di II clinica chirurgica, la seconda scuola di specializzazione in chirurgia vascolare, diretta dal titolare della cattedra stessa.   
+  
+Art. 718. - La durata del corso degli studi per il conseguimento del diploma di "specialista in chirurgia vascolare" e' di tre anni.   
+  
+Art. 719. - Alla Scuola sono ammessi i laureati in medicina e chirurgia.   
+Il numero massimo degli iscritti e' stabilito in quarantacinque per l'intero corso.   
+  
+Art. 720. - Non saranno consentite abbreviazioni di corso ne' l'iscrizione contemporanea ad altre scuole di specializzazione.   
+Per l'ammissione agli esami sara' obbligatoria la frequenza alle lezioni ed alle esercitazioni pratiche. Il superamento degli esami di ciascun anno sara' condizione indispensabile per l'iscrizione all'anno successivo.   
+Alla fine del corso, per ottenere il diploma, i candidati dovranno presentare una dissertazione scritta su un argomento di chirurgia vascolare, da discutere in sede di diploma, e dovranno sostenere una prova clinica.   
+  
+Art. 721. - Gli insegnamenti impartiti nella scuola sono i seguenti:   
+  
+1° Anno:   
+1) Embriologia, anatomia macro e microscopica dell'apparato vascolare;   
+2) Fisiopatologia dell'apparato vascolare e della coagulazione sanguigna;   
+3) Anatomia patologica dell'apparato vascolare;   
+4) Semeiologia fisica e strumentale delle malattie vascolari;   
+5) Semeiologia radiologica delle malattie vascolari;   
+6) Vasculopatie di interesse medico e specialistico.   
+  
+2° Anno:   
+7) Patologia e clinica delle malattie del sistema arterioso;   
+8) Patologia e clinica delle malattie del sistema venoso;   
+9) Patologia e clinica delle malattie del sistema linfatico;   
+10) Patologia e clinica delle malattie dei piccoli vasi.   
+  
+3° Anno:   
+11) Nozioni di terapia medica delle malattie vascolari;   
+12) Terapia chirurgica delle malattie vascolari;   
+13) Chirurgia vascolare applicata a malattie dei vari organi.   
+  
+Scuola di specializzazione in virologia   
+  
+Art. 722. - La scuola di specializzazione in virologia ha lo scopo di fornire un completamento culturale sul piano scientifico ed una preparazione specifica sul piano tecnico e metodologico a coloro che si dedicano allo studio di questa disciplina.   
+La scuola conferisce il diploma di specialista in virologia.   
+Possono esservi ammessi i laureati in medicina e chirurgia, medicina veterinaria, scienze biologiche, farmacia, chimica e tecnologia farmaceutiche.   
+Il corso ha la durata di tre anni ed ha luogo presso l'istituto di virologia.   
+La direzione della scuola viene assunta da un professore di ruolo di virologia.   
+Gli iscritti al primo anno non potranno superare il numero di cinque; il numero massimo di iscritti complessivamente per i tre anni del corso e' fissato in quindici specializzandi (cinque per anno).   
+L'iscrizione alla scuola e' subordinata al superamento di un esame di ammissione (colloquio).   
+  
+Art. 723. - Gli insegnamenti impartiti nella scuola sono i seguenti, cosi' ripartiti nei tre anni di corso:   
+  
+1° Anno:   
+1) Virologia generale (1ª parte);   
+2) Tecnica virologica generale (1ª parte);   
+3) Biometria applicata alla virologia;   
+4) Metodi immunologici in virologia.   
+  
+2° Anno:   
+1) Virologia generale (2ª parte);   
+2) Tecnica virologica generale (2ª parte);   
+3) Metodi chimici in virologia;   
+4) Metodi fisici in virologia;   
+5) Microscopia elettronica e studio delle ultrastrutture;   
+6) Virologia speciale e diagnostica virologica (1ª parte).   
+  
+3° Anno:   
+1) Genetica del virus;   
+2) Virologia oncologica;   
+3) Studio dei farmaci antivirali;   
+4) Epidemiologia e profilassi delle malattie da virus;   
+5) Virologia speciale e diagnostica virologica (2ª parte).   
+  
+Art. 724. - Il direttore, sentito il parere del consiglio della scuola, puo' stabilire, per un piu' proficuo conseguimento dei fini della scuola, che siano tenuti corsi complementari, conferenze o seminari su materie e argomenti che abbiano affinita' o attinenza con gli insegnamenti impartiti nella scuola.   
+La frequenza ai corsi e' obbligatoria. Obbligatoria e' altresi' la frequenza ai turni annuali di internato, ciascuno della durata di sei mesi.   
+Gli esami di profitto saranno sostenuti in tre gruppi alla fine di ogni anno di corso ed il superamento dell'esame e' necessario per l'iscrizione al secondo anno. Il secondo gruppo comprende tutte le materie del secondo anno di corso ed il superamento dell'esame e' necessario per l'iscrizione al terzo anno. Il terzo gruppo comprende tutte le materie del terzo anno di corso ed il superamento dell'esame e' necessario per l'ammissione all'esame di diploma.   
+  
+Art. 725. - L'esame di diploma constera' di una discussione sopra una tesi scritta esclusivamente di carattere sperimentale.   
+I candidati non riconosciuti idonei potranno ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola. In caso di un secondo insuccesso saranno esclusi da ulteriori prove.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 ottobre 1965
+### Dato a Roma, addi' 23 ottobre 1973
 
-SARAGAT GUI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 23 novembre 1965
+Registrato alla Corte dei conti, addi' 28 ottobre 1974
 
-Atti del Governo, registro n. 198, foglio n. 60. - VILLA
+Atti di Governo, registro n. 6, foglio n. 52. - SCIARRETTA

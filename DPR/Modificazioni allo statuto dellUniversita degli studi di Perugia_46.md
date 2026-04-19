@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 settembre 1979 n. 572
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1981 n. 755
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 settembre 1979 n. 572
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1981 n. 755
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 -------------------------------------------------------------------
@@ -16,81 +16,132 @@ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regi
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
 
 Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Perugia e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Perugia e convalidati dal Consiglio universitario nazionale nei suoi pareri;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
-Sulla
------
+Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Art. 1
 ------
 
   
-Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-L'art. 95, primo comma, e' modificato nel senso che all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in dermatologia e venereologia.  
+Art. 100, primo comma - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono aggiunte le scuole in medicina nucleare ed in radiologia.  
 
 Art. 2
 ------
 
   
-Dopo l'art. 123, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in dermatologia e venereologia:  
   
-Scuola di specializzazione in dermatologia e venereologia  
-Art. 124. - La scuola di specializzazione in dermatologia e venereologia ha sede presso l'istituto di clinica dermatologica dell'Universita' di Perugia e conferisce il diploma di specialista in dermatologia e venereologia.  
-Art. 125. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Art. 126. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-Art. 127. - La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazioni.  
-Art. 128. - Il numero massimo degli allievi e' di sei per anno di corso e complessivamente di diciotto iscritti per l'intero corso di studi.  
-Art. 129. - L'ammissione al corso viene fatta per titoli ed esami.  
-Art. 130. - Le materie d'insegnamento sono le seguenti:  
-1° Anno:  
-1) anatomia ed istologia normale della cute;  
-2) fisiologia della cute e degli annessi;  
-3) anatomia e fisiologia dell'apparato genitale;  
-4) microbiologia e parassitologia applicate;  
-5) tecniche di laboratorio applicato alla disciplina;  
-6) semeiotica dermatologica e venereologica.  
-2° Anno:  
-1) patologia delle malattie cutanee;  
-2) patologia delle infezioni veneree;  
-3) istopatologia e citologia dermatologica e venereologica;  
-4) immunologia cutanea;  
-5) dermatologia allergologica e professionale;  
-6) angiologia;  
-7) sessuologia.  
-3° Anno:  
-1) clinica delle malattie cutanee;  
-2) clinica delle infezioni veneree;  
-3) dermatologia pediatrica;  
-4) farmacologia e terapia;  
-5) fisioterapia dermatologica;  
-6) cosmetologia;  
-7) chirurgia plastica riparatrice;  
-8) igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.  
-Art. 131. - I corso delle lezioni deve essere impartito mediante almeno cinquanta lezioni annuali, comprensive delle varie materie e la frequenza giornaliera degli iscritti non deve essere inferiore alle quattro ore effettive per tutta la durata dell'anno accademico.  
-Gli specializzandi hanno percio' obblighi di effettuare esercitazioni pratiche nei reparti onde seguire i corsi di lezione e svolgere contemporaneamente esercitazioni pratiche nelle corsie, negli ambulatori e nei laboratori.  
-L'esame di diploma consiste nella esposizione e discussione di un argomento della disciplina su un tema dato al candidato ventiquattro ore prima della prova.  
+Dopo l'art. 128, e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti articoli relativi alla istituzione delle scuole di specializzazione in medicina nucleare ed in radiologia.   
+  
+Scuola di specializzazione in medicina nucleare   
+  
+Art. 129. - La scuola di specializzazione in medicina nucleare ha sede presso l'istituto di radiologia dell'Universita' degli studi di Perugia. La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima. Alla scuola possono essere ammessi solo i laureati in medicina e chirurgia in possesso del diploma di abilitazione professionale e la loro immatricolazione e' subordinata all'esito di un esame di ammissione.   
+Non sono ammesse abbreviazioni di corso.   
+La scuola conferisce il diploma di specialista in medicina nucleare. Gli anni di studio necessari per conseguire questo titolo sono tre. Il primo e' identico ed incomune a quello per il conseguimento del diploma di specialista in radiodiagnostica ed in radioterapia oncologica.   
+Gli insegnamenti per il conseguimento del diploma di specialista in medicina nucleare sono cosi' distribuiti nei tre anni di corso:   
+1° Anno (comune alla specializzazione in radiodiagnostica ed in radioterapia oncologica):   
+a) fisica con richiami di matematica, nozioni di statistica informatica e dosimetria;   
+b) radiobiologia, legislazione e norme generali di radioprotezione;   
+c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;   
+d) nozioni di anatomia e fisiologia generale.   
+2° Anno:   
+a) tecnica dei traccianti;   
+b) elementi di radiochimica;   
+c) applicazioni di diagnostica I;   
+d) tecniche di misura di radioattivita'.   
+3° Anno:   
+a) applicazioni diagnostiche II;   
+b) applicazioni terapeutiche;   
+c) radioprotezione e legislazione applicata.   
+I singoli insegnamenti sono tenuti da uno o piu' docenti a seconda di quanto opportuno al loro svolgimento.   
+Il numero massimo di iscritti in corso alla scuola e' di tre per anno di corso e complessivamente di nove iscritti per l'intero corso di studi.   
+La frequenza pratica e' obbligatoria (dieci mesi all'anno) e deve avvenire in reparti riconosciuti idonei. L'insegnamento viene svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento aperti anche a specialisti ecc. Gli allievi, per essere ammessi a sostenere gli esami nelle singole materie, devono avere la firma di frequenza da parte del direttore della scuola stessa. Gli allievi al termine di ogni anno dovranno superare gli esami di profitto delle materie prescritte per ottenere l'iscrizione all'anno successivo.   
+Gli allievi per conseguire il diploma di specializzazione oltre ad essere stati approvati in tutti gli esami, dovranno elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola.   
+  
+Scuola di specializzazione in radiologia   
+  
+Art. 130. - La scuola di specializzazione in radiologia ha sede nell'istituto di radiologia dell'Universita' degli studi di Perugia.   
+La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.   
+Alla scuola possono essere ammessi solo i laureati in medicina e chirurgia in possesso di diploma di abilitazione professionale e la loro immatricolazione e' subordinata all'esito di un esame di ammissione per titoli ed esami.   
+Non sono ammesse abbreviazioni di corso.   
+La scuola conferisce i seguenti diplomi:   
+a) diploma di specialista in radiodiagnostica. Gli anni di studio necessari per conseguire questo titolo sono quattro;   
+b) diploma di specialista in radioterapia oncologica.   
+Gli anni di studio necessari per conseguire questo titolo sono quattro.   
+La scuola ha un tronco comune di due anni identico per i diplomi in radiodiagnostica ed in radioterapia oncologica.   
+Gli insegnamenti per il diploma di specialista in radiodiagnostica sono cosi' distribuiti nei quattro anni di corso:   
+1° Anno (comune alla specializzazione in radioterapia oncologica):   
+a) fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);   
+b) radiobiologia, legislazione e norme generali di radioprotezione;   
+c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;   
+d) nozioni di anatomia e fisiologia generale.   
+2° Anno (comune alla specializzazione in radioterapia oncologica):   
+a) anatomia patologica;   
+b) apparecchiature e tecniche radiologiche;   
+c) semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);   
+d) radiopatologia;   
+e) dosimetria applicata.   
+3° Anno:   
+a) tecniche speciali e relativa semeiotica I;   
+b) radiodiagnostica speciale dei vari organi ed apparati I.   
+4° Anno:   
+a) tecniche speciali e relativa semeiotica (tomografia, ecotomografia, seroradiografia, tomografia assiale computerizzata) II;   
+b) radiodiagnostica speciale dei vari organi ed apparati II.   
+Gli insegnamenti per il diploma di specialista in radioterapia oncologica sono cosi' distribuiti nei quattro anni di corso:   
+1° Anno (comune alla specializzazione in radiodiagnostica):   
+a) fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);   
+b) radiobiologia, legislazione e parte generale di radioprotezione;   
+c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;   
+d) nozioni di anatomia e fisiologia generale.   
+2° Anno (comune alla specializzazione in radiodiagnostica):   
+a) anatomia patologica;   
+b) apparecchiature e tecniche radiologiche;   
+c) semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);   
+d) radiopatologia;   
+e) dosimetria applicata.   
+3° Anno:   
+a) oncologia generale;   
+b) oncologia clinica I;   
+c) tecniche radioterapiche.   
+4° Anno:   
+a) oncologia clinica II;   
+b) fondamenti di terapia chirurgica dei tumori;   
+c) radioterapia clinica;   
+d) trattamento del canceroso in fase avanzata.   
+I singoli insegnamenti sono tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento.   
+Il numero massimo di iscritti per la scuola di radiologia e' di cinque per anno di corso per il diploma di specialista in radiodiagnostica e di tre per anno di corso per il diploma di specialista in radioterapia oncologica e, complessivamente, di venti piu' dodici iscritti per l'intero corso di studi, rispettivamente, per il diploma di radiodiagnostica e di radioterapia oncologica.   
+La frequenza pratica e' obbligatoria (dieci mesi all'anno) e deve avvenire in reparti riconosciuti idonei.   
+L'insegnamento viene svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento aperti anche a specialisti ecc. Gli allievi per essere ammessi a sostenere gli esami delle singole materie, devono avere la firma di frequenza da parte del direttore della scuola stessa.   
+Gli allievi al termine di ogni anno devono superare gli esami di profitto delle materie prescritte per poter ottenere l'iscrizione all'anno successivo.   
+Gli allievi per conseguire il diploma di specializzazione, oltre ad essere stati approvati in tutti gli esami devono elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 15 settembre 1979
+### Dato a Roma, addi' 28 ottobre 1981
 
-PERTINI VALITUTTI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 31 ottobre 1979
+Registrato alla Corte dei conti, addi' 11 dicembre 1981
 
-Registro n. 83 Istruzione, foglio n. 74
+Registro n. 123 Istruzione, foglio n. 383

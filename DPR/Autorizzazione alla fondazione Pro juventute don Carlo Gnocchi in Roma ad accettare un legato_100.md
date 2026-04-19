@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1975 n. 578
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1980 n. 380
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1975 n. 578
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1980 n. 380
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-578. Decreto del Presidente della Repubblica 24 settembre 1975, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare un legato, consistente in titoli azionari del valore presunto di L. 36.096.873, disposto dal sig.  
-Mario Bianchi con testamento pubblico 10 giugno 1972, registrato in data 28 giugno 1972, n. 55338 di repertorio, n. 5378 di raccolta, a rogito dott. Riccardo Morganti, notaio in Luino (Varese), registrato a Luino il 28 giugno 1972 al n. 404, vol. 725.  
+380. Decreto del Presidente della Repubblica 11 giugno 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dal sig. Eugenio Marcora a favore dei Mutilatini di don Gnocchi che si identificano con la fondazione "Pro juventute don Carlo Gnocchi", come ha fatto presente la fondazione medesima, con testamento olografo 24 maggio 1977, pubblicato in data 12 aprile 1978, n. 264825/6474 di repertorio, a rogito dott. Giovanni Lovisetti, notaio in Milano, e registrato a Milano il 21 aprile 1978 al n. A/4-07483 serie H, A.P., consistente nella somma di L. 5.000.000.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 26 novembre 1975  
-Atti di Governo, registro n. 14, foglio n. 60
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti, addi' 24 luglio 1980  
+Registro n. 6 Presidenza, foglio n. 246

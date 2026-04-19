@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1957 n. 1428
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1954 n. 865
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1957 n. 1428
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1954 n. 865
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -10,82 +10,57 @@ Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904) e successivi;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Veduta la [legge 26 luglio 1957, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-07-26;741);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1169), modificato con [regi decreti 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;1904); [4 maggio 1942, n. 557](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-05-04;557); [5 settembre 1942, n. 1120 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-09-05;1120) [26 febbraio 1949, n. 612](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;612); [23 settembre 1949, n. 931](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;931); [30 ottobre 1950, numero 1277](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1277); [31 ottobre 1950, n. 1311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1311); [18 aprile 1951, n. 934](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;934); [30 luglio 1951, n. 1304](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-07-30;1304); [27 ottobre 1951, n. 1680](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1680); 19 settembre 1352, n. 4551 e 25 agosto 1953, n. 1117;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita', degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Napoli approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli attuali articoli dal n. 252 al n. 254 relativi alla scuola di perfezionamento in dermatologia e stilografia sono abrogati e sostituiti dai seguenti:  
   
-Art. 64, e' cosi' modificato:   
-La Facolta' di lettere e filosofia conferisce tre lauree:   
-a) Laurea in lettere;   
-b) Laurea in filosofia;   
-c) Laurea in lingue e letterature straniere moderne: indirizzo europeo.   
-Art. 65, e' cosi' modificato:   
+Scuola di perfezionamento in dermatologia e sifilografia  
   
-Per il conseguimento di ciascuna delle lauree suindicate la durata del corso degli studi e' di quattro anni ed il titolo di ammissione e' il diploma di maturita' classica.   
-Dopo l'art. 74 sono aggiunti i seguenti nuovi articoli con il conseguente spostamento della numerazione di quelli successivi.   
-  
-Laurea in lingue e letterature straniere moderne   
-(indirizzo europeo)   
-  
-Art. 75. - Gli insegnamenti per il conseguimento della laurea in lingue e letterature straniere moderne (indirizzo europeo) sono i seguenti:   
-Fondamentali:   
-1) Letteratura italiana;   
-2) Letteratura latina;   
-3) Glottologia;   
-4) Una lingua e letteratura straniera moderna;   
-5) Una seconda lingua e letteratura straniera moderna;   
-6) Filologia romanza (o germanica o slava o ugrofinnica);   
-7) Storia medioevale;   
-8) Storia moderna;   
-9) Storia dell'arte moderna (o storia dell'arte medioevale e moderna);   
-10) Geografia.   
-Complementari (quando non siano scelti come fondamentali ai suindicati numeri 4), 5) e 6):   
-1) Una lingua e letteratura straniera;   
-2) Filologia germanica;   
-3) Filologia romanza;   
-4) Letteratura greca;   
-5) Storia romana;   
-6) Lingua e letteratura latina medioevale;   
-7) Storia della filosofia.   
-Lo studente dovra' seguire i corsi e sostenere gli esami in tutti gli insegnamenti fondamentali ed in tre altri insegnamenti da lui scelti fra i complementari.   
-Uno degli insegnamenti complementari potra' essere sostituito dallo studente con una disciplina di altri corsi di studi della stessa o di diversa Facolta'.   
-L'insegnamento della lingua e letteratura straniera moderna, alla quale lo studente intende principalmente dedicarsi, dovra' essere seguito per tutti i quattro anni, alla fine di ciascuno dei quali egli sara' sottoposto a prove scritte di anno in anno, gradualmente progressive.   
-Dovranno, poi, essere seguiti per due anni l'insegnamento della filologia a cui quella stessa prima lingua si ricollega e l'insegnamento della seconda lingua e letteratura straniera moderna prescelta.   
-Due altri insegnamenti fondamentali dovranno pure essere seguiti per un biennio. Lo studente potra', poi, seguire per un biennio anche un altro insegnamento ed in tal caso potra' ridurre da tre a due gli insegnamenti complementari di sua scelta.   
-Gli esami di letteratura italiana e di letteratura latina comprendono una prova scritta preliminare.   
-Gli insegnamenti di storia medioevale e di storia moderna sono tenuti alternativamente e nel manifesto degli studi e' indicato ogni anno il corso che sara' impartito.   
-Il preside, sentita, ove ritenga, la Facolta', deve controllare i piani di studio presentati dagli studenti ed approvarli prima che siano resi definitivi.   
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed in tutti gli altri insegnamenti compresi nel piano di studi approvato dal presido.   
-Art. 76. - I laureati in lettere ed in filosofia aspiranti alla laurea in lingue e letterature straniere moderne: indirizzo europeo, sono iscritti al secondo anno, con l'obbligo di seguire i corsi e superare gli esami che saranno stabiliti, caso per caso, dal Consiglio di facolta'.   
-Art. 77. - I laureati in economia e commercio, in giurisprudenza, in scienze politiche aspiranti alla laurea in lingue e letterature straniere moderne: indirizzi europeo, sono iscritti al secondo anno.   
-Per essi, tenuto conto degli studi compiuti e degli esami superati, il rettore, udito il Consiglio dei professori della Facolta', determina, caso per caso, il numero minimo degli insegnamenti dei quali debbono frequentare le lezioni e superare gli esami e stabilisce il piano di studi.   
-Per i laureati di altra Facolta' aspiranti alla laurea in lingue e letterature straniere moderne: indirizzo europeo, tenuto conto degli studi compiuti e degli esami superati, il rettore, udito il Consiglio dei professori della Facolta', determina, caso per caso, l'anno di corso al quale possono essere iscritti, il numero degli insegnamenti che essi debbono frequentare e sui quali debbono superare gli esami e stabilisce il piano di studi.   
-In tutti i casi previsti nel presente articolo i richiedenti debbono essere forniti del diploma di maturita' classica.   
-Art. 78. - La tesi di laurea in lingue e letterature straniere moderne dovra' essere redatta in italiano e integrata da un colloquio nella lingua prescelta come prima lingua dello studente.   
+Art. 252. - La scuola ha la durata di due anni.  
+Il numero dei posti messi a concorso e' limitato a otto per ogni anno accademico.  
+Le materie d'insegnamento sono:  
+1° anno:  
+1) Anatomia e fisiologia della pelle;  
+2) Patologia generale dermatologica e venereologica;  
+3) Sierologia, biochimica;  
+4) Batteriologia e micrologia;  
+5) Clinica delle malattie cutanee;  
+6) Clinica delle malattie veneree;  
+7) Terapia fisica.  
+2° anno:  
+1) Clinica delle malattie cutanee;  
+2) Clinica delle malattie veneree;  
+3) Terapia medicamentosa;  
+4) Terapia fisica;  
+5) Cosmetologia e chirurgia riparatrice;  
+6) Igiene della cute e profilassi delle malattie cutanee con particolare riguardo alle dermatosi professionali.  
+Art. 253. - Gli esami di profitto sono dati in due gruppi e in due sessioni distinte, uno alla fine del primo e uno alla fine del secondo anno.  
+Gli esami di profitto del primo gruppo comprendono anatomia e fisiologia della pelle; patologia generale dermatologica e venereologica, sierologia, batteriologia e micrologia; oltre ad un colloquio su argomento di clinica dermosifilopatica e un esame clinico di un dermopaziente.  
+Gli esami di profitto del secondo gruppo comprendono: clinica delle malattie cutanee; clinica delle malattie veneree; terapia fisica; terapia medicamentosa; cosmetologia e chirurgia riparatrice; igiene della cute e profilassi delle malattie cutanee con particolare riguardo alle dermatosi professionali; un esame clinico di due pazienti di spettanza dermatologica e venereologica.  
+Art. 254. - L'esame di diploma consistera' nella esposizione e discussione di un argomento della disciplina su tema dato al candidato 24 ore prima della prova.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 ottobre 1957
+### Dato a Roma, addi' 31 luglio 1954
 
-GRONCHI MORO
+EINAUDI MARTINO
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: DE PIETRO
 
-Registrato alla Corte dei conti, addi' 21 marzo 1958
+Registrato alla Corte dei conti, addi' 24 settembre 1954
 
-Atti del Governo, registro n. 111, foglio n. 164. - RELLEVA
+Atti del Governo, registro n. 86, foglio n. 39. - CARLOMAGNO

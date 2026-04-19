@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1986 n. 589
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 maggio 1985 n. 525
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1986 n. 589
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 maggio 1985 n. 525
 =============================================================
 
 Assegnazione di un posto di tecnico laureato presso l'Universita' degli studi di Bari.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-589. Decreto del Presidente della Repubblica 4 giugno 1986, col quale, sulla proposta del Ministro della pubblica istruzione, un posto disponibile nel ruolo dei tecnici laureati viene assegnato all'istituto di clinica chirurgica generale e terapia chirurgica della facolta' di medicina e chirurgia dell'Universita' di Bari.   
+525. Decreto del Presidente della Repubblica 31 maggio 1985, col quale, sulla proposta del Ministro della pubblica istruzione, un posto disponibile nel ruolo dei tecnici laureati viene assegnato all'istituto di psicologia (per le esigenze della cattedra di pedagogia) della facolta' di lettere e filosofia dell'Universita' di Bari.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei Conti, addi' 17 settembre 1986   
-Registro n. 71 Istruzione, foglio n. 185
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 30 settembre 1985  
+Registro n. 66 Istruzione, foglio n. 148

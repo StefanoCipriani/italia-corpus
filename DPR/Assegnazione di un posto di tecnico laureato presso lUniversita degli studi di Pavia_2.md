@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1984 n. 681
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 ottobre 1985 n. 709
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1984 n. 681
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 ottobre 1985 n. 709
+==============================================================
 
 Assegnazione di un posto di tecnico laureato presso l'Universita' degli studi di Pavia.
 ---------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-681. Decreto del Presidente della Repubblica 9 aprile 1984, col quale, sulla proposta del Ministro della pubblica istruzione, un posto disponibile nel ruolo dei tecnici laureati viene assegnato all'istituto di scienze. sanitarie applicate della facolta' di medicina e chirurgia dell'Universita' di Pavia.   
+709. Decreto del Presidente della Repubblica 1 ottobre 1985, col quale, sulla proposta del Ministro della pubblica istruzione, un posto disponibile nel ruolo dei tecnici laureati viene assegnato all'istituto di statistica della facolta' di scienze politiche dell'Universita' di Pavia.   
   
 Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 8 ottobre 1984   
-Registro n. 60 Istruzione, foglio n. 367
+Registrato alla Corte dei conti, addi' 26 novembre 1985   
+Registro n. 81 Istruzione, foglio n. 307

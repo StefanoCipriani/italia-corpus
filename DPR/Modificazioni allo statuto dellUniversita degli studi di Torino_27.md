@@ -1,89 +1,576 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1967 n. 987
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1172
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1967 n. 987
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1172
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 140 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono aggiunte le seguenti:
+
+Chirurgia d'urgenza e pronto soccorso;
+
+Diabetologia e malattie del ricambio.
+
+L'art. 178, relativo alla scuola di specializzazione in igiene e medicina preventiva, e' modificato nel senso che e' aggiunto il seguente comma:
+
+Alla scuola possono essere ammessi oltre ai laureati in medicina e chirurgia, anche i laureati in scienze biologiche e in farmacia (per l'orientamento di laboratorio e sanita' pubblica) in ingegneria civile (per l'orientamento di igiene e tecnica ospedaliera), e in scienze naturali e in pedagogia (per l'orientamento di igiene e medicina scolastica).
+
+Gli articoli da 218 a 226, relativi alla scuola di specializzazione in cardioangiochirurgia, sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in cardioangiochirurgia
+
+Art. 218. - La scuola di specializzazione in cardioangiochirurgia conferisce il diploma di specialista in cardioangiochirurgia.
+
+Gli anni di corso necessari per il conseguimento del diploma sono tre.
+
+Art. 219. - Possono aspirare all'iscrizione alla scuola di specializzazione in cardioangiochirurgia i laureati in medicina e chirurgia che siano in possesso del diploma di specializzazione in chirurgia generale o che dimostrino di aver frequentato a titolo ufficiale ed in modo continuativo un istituto universitario di chirurgia generale o una divisione ospedaliera di chirurgia generale per almeno due anni.
+
+Art. 220. - Il numero massimo degli iscritti e' stabilito complessivamente in trenta specializzandi.
+
+Art. 221. - La selezione dei candidati aspiranti alla ammissione alla scuola avviene in seguito a concorso per titoli ed esami.
+
+Art. 222. - Per nessun motivo saranno consentite iscrizioni con abbreviazioni di corso.
+
+Art. 223. - La scuola ha sede presso il centro di cardiochirurgia della clinica chirurgica generale ed e' posta sotto la direzione e la diretta sorveglianza del direttore della clinica stessa.
+
+Art. 224. - Gli iscritti alla scuola hanno l'obbligo di internato presso il reparto cardiochirurgico (corsie, diagnostica, sala operatoria, trattamento intensivo) per tutta la durata dei corsi e di frequenza alle lezioni, conferenze speciali ed esercitazioni.
+
+Art. 225. - Alla fine di ciascun anno accademico gli iscritti devono sostenere gli esami di profitto nelle materie fondamentali il cui superamento e' condizione necessaria per la iscrizione all'anno successivo e, per gli iscritti all'ultimo anno, per l'ammissione all'esame di diploma.
+
+Art. 226. - Gli insegnamenti fondamentali (annuali o biennali) sono i seguenti:
+
+1° Anno:
+
+Embriologia, anatomia descrittiva e topografica dell'apparato cardiovascolare;
+
+Fisiologia dell'apparato cardiovascolare;
+
+Anatomia patologica dell'apparato cardiovascolare;
+
+Semeiotica e diagnostica delle cardiopatie chirurgiche (clinica strumentale, radiologia e di laboratorio) 1° anno;
+
+Semeiotica e diagnostica angiologica;
+
+Patologia e clinica cardiologica 1° anno;
+
+Principio e tecnica della circolazione extracorporea;
+
+Nozioni di ingegneria medica.
+
+2° Anno:
+
+Semeiotica e diagnostica delle cardiopatie chirurgiche;
+
+Clinica strumentale, radiologica e di laboratorio 2° anno;
+
+Patologia e clinica cardiologica 2° anno;
+
+Patologia e clinica angiologica;
+
+Terapie chirurgiche e tecnica operatoria 1° anno;
+
+Anestesie e rianimazione.
+
+3° Anno:
+
+Patologia e clinica cardiologica pediatrica;
+
+Terapia chirurgica e tecnica operatoria 2° anno;
+
+Trattamento intensivo.
+
+Alla fine del 3° anno del corso ha luogo l'esame di diploma che consiste nella discussione di una dissertazione scritta su argomento di cardioangiochirurgia concordato con il direttore della scuola.
+
+Dopo l'art. 282, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in "Chirurgia d'urgenza e pronto soccorso" e in "Diabetologia e malattie del ricambio".
+
+Scuola di specializzazione in chirurgia e pronto soccorso
+
+Art. 283. - La scuola di specializzazione in chirurgia d'urgenza e di pronto soccorso conferisce il diploma di specialista in chirurgia d'urgenza e di pronto soccorso. Gli anni necessari per il conseguimento del diploma sono quattro.
+
+Art. 284. - Il numero massimo complessivo degli iscritti alla scuola e' di ventidue unita' ripartite nei quattro anni di corso. La selezione dei candidati aspiranti all'ammissione alla scuola avverra' sulla base di titoli ed esami.
+
+Art. 285. - Le materie del corso sono le seguenti:
+
+Anatomia chirurgica;
+
+Anestesiologia;
+
+Chirurgia cardio-vascolare d'urgenza;
+
+Chirurgia d'urgenza e di pronto soccorso (quadriennale);
+
+Chirurgia generale (quadriennale);
+
+Chirurgia ginecologica d'urgenza;
+
+Chirurgia plastica e riparatrice (biennale);
+
+Chirurgia pediatrica d'urgenza;
+
+Chirurgia toracica d'urgenza;
+
+Chirurgia urologica d'urgenza;
+
+Fisiopatologia del politraumatizzato;
+
+Neurotraumatologia (biennale);
+
+Radiologia;
+
+Rianimazione;
+
+Ricerche di laboratorio in chirurgia d'urgenza;
+
+Semeiotica chirurgica;
+
+Trattamento del politraumatizzato;
+
+Trattamento pre e post-operatorio in chirurgia;
+
+Traumatologia dell'apparato locomotore:
+
+Traumatologia maxillo-facciale;
+
+Valutazione medico-legale delle lesioni chirurgiche.
+
+Art. 286. - Le materie sopra elencate sono cosi' distribuite:
+
+1° Anno:
+
+Chirurgia d'urgenza e di pronto soccorso (quadriennale) (I);
+
+Chirurgia generale (quadriennale) (I);
+
+Traumatologia dell'apparato locomotore (biennale) (I);
+
+Anestesiologia;
+
+Ricerche di laboratorio in chirurgia d'urgenza;
+
+Semeiotica chirurgica;
+
+Radiologia;
+
+Traumatologia maxillo-facciale.
+
+2° Anno:
+
+Chirurgia d'urgenza e di pronto soccorso (quadriennale) (II);
+
+Chirurgia generale (quadriennale) (II);
+
+Traumatologia dell'apparato locomotore (biennale) (II);
+
+Chirurgia plastica e riparatrice (biennale) (I);
+
+Anatomia chirurgica;
+
+Trattamento pre e post-operatorio in chirurgia d'urgenza;
+
+Chirurgia ginecologica d'urgenza;
+
+Chirurgia urologica d'urgenza.
+
+3° Anno:
+
+Chirurgia d'urgenza e di pronto soccorso (quadriennale) (III);
+
+Chirurgia generale (quadriennale) (III);
+
+Neurotraumatologia (biennale) (I);
+
+Chirurgia plastica e riparatrice (biennale) (II);
+
+Valutazione medico-legale delle lesioni chirurgiche;
+
+Chirurgia toracica d'urgenza;
+
+Chirurgia cardio-vascolare d'urgenza;
+
+Chirurgia pediatrica d'urgenza.
+
+4° Anno:
+
+Chirurgia d'urgenza e di pronto soccorso (quadriennale) (IV);
+
+Chirurgia generale (quadriennale) (IV);
+
+Neurotraumatologia (biennale) (II);
+
+Fisiopatologia del politraumatizzato;
+
+Trattamento del politraumatizzato;
+
+Rianimazione.
+
+Art. 287. - La frequenza alle lezioni ed alle esercitazioni e' obbligatoria per tutti gli iscritti.
+
+L'internato e' obbligatorio durante tutti i quattro anni del corso, che si svolgera' presso l'istituto di chirurgia d'urgenza sotto forma di permanenza costante in tale istituto durante le ore della sua attivita', con presenza giornaliera nei vari reparti.
+
+Dall'obbligo di tale internato saranno esentati quegli allievi che, in qualita' di assistenti o di aiuti, prestino effettivamente servizio presso reparti di chirurgia d'urgenza e di pronto soccorso delle universita' e di ospedali di 1ª e 2ª categoria.
+
+Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico dell'operosita' scolastica degli allievi, con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno.
+
+L'allievo che non abbia ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali.
+
+Art. 288.- Alla fine del corso l'allievo, inoltre, dovra' sostenere un esame generale di profitto.
+
+Scuola di specializzazione in diabetologia e malattie del ricambio
+
+Art. 289. - La scuola di specializzazione in diabetologia e malattie del ricambio conferisce il diploma di specialista in diabetologia e malattie del ricambio. Gli anni necessari per il conseguimento del diploma sono tre.
+
+Art. 290. - Il numero massimo complessivo degli iscritti alla scuola e' di quindici unita' ripartite nei tre anni di corso. La selezione dei candidati aspiranti alla ammissione alla scuola avverra' sulla base di titoli ed esami.
+
+Art. 291. - Le materie del corso sono le seguenti:
+
+Anatomia e citomorfologia funzionale;
+
+Auxologia e auxopatie metaboliche (complementare);
+
+Clinica del diabete e delle malattie del ricambio (biennale);
+
+Dietologia del diabete e delle malattie del ricambio;
+
+Elementi di biometria e statistica (complementare);
+
+Elementi di genetica del diabete e delle malattie del ricambio;
+
+Elementi di psicologia nel diabete e nelle malattie del ricambio (complementare);
+
+Farmacologia e terapia medica del diabete e delle malattie del ricambio;
+
+Fisiopatologia clinica del diabete e delle malattie del ricambio;
+
+Fisiopatologia e clinica ostetrico-ginecologica del diabete e delle malattie del ricambio (complementare);
+
+Medicina sociale e preventiva del diabete e delle malattie del ricambio;
+
+Metodi di analisi chimica e quantitativa;
+
+Neuropatologia del diabete e delle malattie del ricambio;
+
+Oftalmologia nel diabete e nelle malattie del ricambio (complementare);
+
+Patologia molecolare;
+
+Patologia sperimentale metabolica;
+
+Semeiotica fisica e funzionale del diabete e delle malattie del ricambio;
+
+Terapia chirurgica nel diabete e nelle malattie del ricambio (complementare).
+
+Art. 292. - Le materie sopra elencate sono cosi' distribuite:
+
+1° Anno:
+
+Anatomia e citomorfologia funzionali;
+
+Elementi di genetica del diabete e delle malattie del ricambio;
+
+Metodi di analisi chimica e quantitativa;
+
+Patologia molecolare;
+
+Fisiopatologia clinica del diabete e delle malattie del ricambio;
+
+Elementi di biometria e di statistica (complementare);
+
+Auxologia e auxopatie metaboliche (complementare).
+
+2° Anno:
+
+Patologia sperimentale metabolica;
+
+Semeiotica fisica e funzionale del diabete e delle malattie del ricambio;
+
+Clinica del diabete e delle malattie del ricambio (I);
+
+Medicina sociale e preventiva del diabete e delle malattie del ricambio;
+
+Neuropatologia del diabete e delle malattie del ricambio (complementare);
+
+Fisiopatologia e clinica ostetrico-ginecologica del diabete e delle malattie del ricambio (complementare).
+
+3° Anno:
+
+Clinica del diabete e delle malattie del ricambio (II);
+
+Farmacologia e terapia medica del diabete e delle malattie del ricambio;
+
+Dietologia del diabete e delle malattie del ricambio;
+
+Elementi di psicologia nel diabete e nelle malattie del ricambio (complementare);
+
+Terapia chirurgica nel diabete e nelle malattie del ricambio (complementare);
+
+Oftalmologia nel diabete e nelle malattie metaboliche (complementare);
+
+Art. 293. - La frequenza alle lezioni ed alle esercitazioni e' obbligatoria per tutti gli iscritti.
+
+L'internato e' obbligatorio durante tutti e tre gli anni del corso, sotto forma di permanenza costante durante le ore di attivita' scientifica ed assistenziale, con presenza giornaliera nei vari reparti.
+
+Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico dell'operosita' scolastica degli allievi, con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno.
+
+L'allievo che non abbia ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali.
+
+Art. 294. - Alla fine del corso l'allievo, inoltre, dovra' sostenere un esame generale di profitto.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1973
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: ZAGARI
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 28 ottobre 1974 Atti di Governo, registro n. 6, foglio n. 50. - SCIARRETTA
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071).  
-convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 43. - All'elenco degli insegnamenti complementari del corso di laurea in Materie letterarie e' aggiunto quello di: "Storia economica".  
-Art. 44. - All'elenco degli insegnamenti complementari del corso di laurea in Pedagogia e' aggiunto quello di:  
-15) Didattica generale.  
-Art. 86. - All'elenco degli insegnamenti complementari del corso di laurea in Medicina veterinaria sono aggiunti quelli di:  
-14) Istologia ed embriologia generale;  
-15) Zooeconomia;  
-16) Scienza dell'alimentazione degli animali;  
-17) Patologia aviare.  
-L'insegnamento complementare di "Economia rurale (semestrale) del predetto corso di laurea e' soppresso.  
-Gli articoli dal 304 al 311 relativi al corso di specializzazione in Viticoltura ed enologia "Alberto Marone Cinzano" sono abrogati e sostituiti dai seguenti:  
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Corso di specializzazione in Viticoltura ed enologia.  
-Art. 304. - Alla Facolta' di agraria e' annesso un corso di specializzazione in Viticoltura ed enologia, avente lo scopo di dare ai laureati, mediante un corso teorico e applicato, una specifica preparazione nelle suddette specialita'.  
-Art. 305. - La durata del corso e' annuale. Esso viene distinto in due periodi:  
-1) prevalentemente teorico-didattico, nel primo semestre dell'anno solare, da trascorrersi presso la Facolta' di agraria di Torino;  
-2) prevalentemente didattico-applicativo, nel secondo semestre solare, da trascorrersi presso la Stazione enologica sperimentale di Asti, nonche' presso i vari Istituti della Facolta' e presso aziende viticole e stabilimenti enologici indicati dal Consiglio.  
-Art. 306. - Gli insegnamenti impartiti nel corso sono i seguenti:  
-1) Corso di Viticoltura;  
-2) Corso di Esercitazioni di viticoltura;  
-3) Corso di Enologia;  
-4) Corso di Esercitazioni di Chimica enologica;  
-5) Corso di Esercitazioni di Chimica tecnologica;  
-6) Corso di Microbiologia enologica;  
-7) Corso di Esercitazioni di microbiologia enologica;  
-8) Corso di Costruzioni enologiche;  
-9) Corso di Meccanica viticolo-enologica;  
-10) Corso di Patologia viticola;  
-11) Corso di Zoologia viticola;  
-12) Corso di Legislazione viticolo-enologica;  
-13) Corso di Economia viti-vinicola.  
-Potranno inoltre essere tenuti brevi cicli di lezioni e conferenze isolate in particolari argomenti interessanti le varie discipline del corso.  
-Art. 307. - Sono ammessi al corso di specializzazione i laureati in Scienze agrarie, in Chimica, in Chimica industriale, in Ingegneria chimica.  
-Il numero degli allievi ammessi annualmente al corso e', al massimo, di dieci di cittadinanza italiana e, senza limiti, di cittadinanza straniera.  
-Qualora il numero delle domande dei primi sia superiore, e l'attrezzatura didattica ne consenta in via eccezionale l'ammissione, sara' data la preferenza agli aspiranti che abbiano particolari titoli nei riguardi delle finalita' del corso. Per l'ammissione dei laureati stranieri il Consiglio del corso decidera' caso per caso la validita' dei titoli presentati.  
-Il Consiglio di facolta' si riserva di sospendere il corso qualora ne ravveda l'opportunita'.  
-Art. 308. - Al termine del corso annuale sara' rilasciato agli iscritti un certificato di frequenza e di esame in base:  
-a) alla regolare frequenza ai due periodi del corso;  
-b) all'esito degli esami sostenuti alla fine dei due semestri;  
-c) al giudizio emesso dai Direttori degli Istituti, Enti o Aziende frequentati durante il corso;  
-d) all'esame finale, che consiste nella presentazione di una dissertazione scritta di carattere sperimentale, da sostenersi davanti ad apposita Commissione di docenti del corso.  
-Art. 309. - Il direttore del corso sara' designato dal Consiglio della Facolta' di agraria dell'Universita' di Torino fra i professori di ruolo e fuori ruolo della stessa Facolta'.  
-Art. 310. - Il Consiglio direttivo del corso si compone di tutti i docenti di ruolo e fuori ruolo della Facolta', del direttore della Stazione enologica sperimentale di Asti e dei docenti degli insegnamenti propriamente detti (esercitazioni escluse) del corso stesso.  
-Esso fa le proposte relative all'ordinamento degli studi e dell'insegnamento e da' pareri su tutti i provvedimenti riguardanti il corso medesimo.  
-Art. 311. - Gli iscritti al corso saranno tenuti a pagare la tassa di iscrizione, le tasse e soprattasse di esame, compresi i contributi integrativi, secondo quanto e' stabilito per gli studenti della Facolta' di agraria.  
-Art. 320, relativo alla Scuola di specializzazione in Fisiopatologia della riproduzione degli animali domestici, il primo comma e' abrogato e sostituito dal seguente.  
-"Il numero dei partecipanti al corso sara' stabilito di anno in anno ed il corso sara' svolto purche' gli iscritti raggiungano il numero di quindici.  
-Qualora tale numero minimo non venisse raggiunto il Consiglio della scuola stabilira' di anno in anno se i corsi dovranno ugualmente effettuarsi".  
+Art. 140 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono aggiunte le seguenti:   
+Chirurgia d'urgenza e pronto soccorso;   
+Diabetologia e malattie del ricambio.   
+  
+L'art. 178, relativo alla scuola di specializzazione in igiene e medicina preventiva, e' modificato nel senso che e' aggiunto il seguente comma:   
+Alla scuola possono essere ammessi oltre ai laureati in medicina e chirurgia, anche i laureati in scienze biologiche e in farmacia (per l'orientamento di laboratorio e sanita' pubblica) in ingegneria civile (per l'orientamento di igiene e tecnica ospedaliera), e in scienze naturali e in pedagogia (per l'orientamento di igiene e medicina scolastica).   
+Gli articoli da 218 a 226, relativi alla scuola di specializzazione in cardioangiochirurgia, sono abrogati e sostituiti dai seguenti:   
+  
+Scuola di specializzazione in cardioangiochirurgia   
+  
+Art. 218. - La scuola di specializzazione in cardioangiochirurgia conferisce il diploma di specialista in cardioangiochirurgia.   
+Gli anni di corso necessari per il conseguimento del diploma sono tre.   
+  
+Art. 219. - Possono aspirare all'iscrizione alla scuola di specializzazione in cardioangiochirurgia i laureati in medicina e chirurgia che siano in possesso del diploma di specializzazione in chirurgia generale o che dimostrino di aver frequentato a titolo ufficiale ed in modo continuativo un istituto universitario di chirurgia generale o una divisione ospedaliera di chirurgia generale per almeno due anni.   
+  
+Art. 220. - Il numero massimo degli iscritti e' stabilito complessivamente in trenta specializzandi.   
+  
+Art. 221. - La selezione dei candidati aspiranti alla ammissione alla scuola avviene in seguito a concorso per titoli ed esami.   
+  
+Art. 222. - Per nessun motivo saranno consentite iscrizioni con abbreviazioni di corso.   
+  
+Art. 223. - La scuola ha sede presso il centro di cardiochirurgia della clinica chirurgica generale ed e' posta sotto la direzione e la diretta sorveglianza del direttore della clinica stessa.   
+  
+Art. 224. - Gli iscritti alla scuola hanno l'obbligo di internato presso il reparto cardiochirurgico (corsie, diagnostica, sala operatoria, trattamento intensivo) per tutta la durata dei corsi e di frequenza alle lezioni, conferenze speciali ed esercitazioni.   
+  
+Art. 225. - Alla fine di ciascun anno accademico gli iscritti devono sostenere gli esami di profitto nelle materie fondamentali il cui superamento e' condizione necessaria per la iscrizione all'anno successivo e, per gli iscritti all'ultimo anno, per l'ammissione all'esame di diploma.   
+  
+Art. 226. - Gli insegnamenti fondamentali (annuali o biennali) sono i seguenti:   
+1° Anno:   
+Embriologia, anatomia descrittiva e topografica dell'apparato cardiovascolare;   
+Fisiologia dell'apparato cardiovascolare;   
+Anatomia patologica dell'apparato cardiovascolare;   
+Semeiotica e diagnostica delle cardiopatie chirurgiche (clinica strumentale, radiologia e di laboratorio) 1° anno;   
+Semeiotica e diagnostica angiologica;   
+Patologia e clinica cardiologica 1° anno;   
+Principio e tecnica della circolazione extracorporea;   
+Nozioni di ingegneria medica.   
+  
+2° Anno:   
+Semeiotica e diagnostica delle cardiopatie chirurgiche;   
+Clinica strumentale, radiologica e di laboratorio 2° anno;   
+Patologia e clinica cardiologica 2° anno;   
+Patologia e clinica angiologica;   
+Terapie chirurgiche e tecnica operatoria 1° anno;   
+Anestesie e rianimazione.   
+  
+3° Anno:   
+Patologia e clinica cardiologica pediatrica;   
+Terapia chirurgica e tecnica operatoria 2° anno;   
+Trattamento intensivo.   
+Alla fine del 3° anno del corso ha luogo l'esame di diploma che consiste nella discussione di una dissertazione scritta su argomento di cardioangiochirurgia concordato con il direttore della scuola.   
+Dopo l'art. 282, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in "Chirurgia d'urgenza e pronto soccorso" e in "Diabetologia e malattie del ricambio".   
+  
+Scuola di specializzazione in chirurgia e pronto soccorso   
+  
+Art. 283. - La scuola di specializzazione in chirurgia d'urgenza e di pronto soccorso conferisce il diploma di specialista in chirurgia d'urgenza e di pronto soccorso. Gli anni necessari per il conseguimento del diploma sono quattro.   
+  
+Art. 284. - Il numero massimo complessivo degli iscritti alla scuola e' di ventidue unita' ripartite nei quattro anni di corso. La selezione dei candidati aspiranti all'ammissione alla scuola avverra' sulla base di titoli ed esami.   
+  
+Art. 285. - Le materie del corso sono le seguenti:   
+Anatomia chirurgica;   
+Anestesiologia;   
+Chirurgia cardio-vascolare d'urgenza;   
+Chirurgia d'urgenza e di pronto soccorso (quadriennale);   
+Chirurgia generale (quadriennale);   
+Chirurgia ginecologica d'urgenza;   
+Chirurgia plastica e riparatrice (biennale);   
+Chirurgia pediatrica d'urgenza;   
+Chirurgia toracica d'urgenza;   
+Chirurgia urologica d'urgenza;   
+Fisiopatologia del politraumatizzato;   
+Neurotraumatologia (biennale);   
+Radiologia;   
+Rianimazione;   
+Ricerche di laboratorio in chirurgia d'urgenza;   
+Semeiotica chirurgica;   
+Trattamento del politraumatizzato;   
+Trattamento pre e post-operatorio in chirurgia;   
+Traumatologia dell'apparato locomotore:   
+Traumatologia maxillo-facciale;   
+Valutazione medico-legale delle lesioni chirurgiche.   
+  
+Art. 286. - Le materie sopra elencate sono cosi' distribuite:   
+1° Anno:   
+Chirurgia d'urgenza e di pronto soccorso (quadriennale) (I);   
+Chirurgia generale (quadriennale) (I);   
+Traumatologia dell'apparato locomotore (biennale) (I);   
+Anestesiologia;   
+Ricerche di laboratorio in chirurgia d'urgenza;   
+Semeiotica chirurgica;   
+Radiologia;   
+Traumatologia maxillo-facciale.   
+  
+2° Anno:   
+Chirurgia d'urgenza e di pronto soccorso (quadriennale) (II);   
+Chirurgia generale (quadriennale) (II);   
+Traumatologia dell'apparato locomotore (biennale) (II);   
+Chirurgia plastica e riparatrice (biennale) (I);   
+Anatomia chirurgica;   
+Trattamento pre e post-operatorio in chirurgia d'urgenza;   
+Chirurgia ginecologica d'urgenza;   
+Chirurgia urologica d'urgenza.   
+  
+3° Anno:   
+Chirurgia d'urgenza e di pronto soccorso (quadriennale) (III);   
+Chirurgia generale (quadriennale) (III);   
+Neurotraumatologia (biennale) (I);   
+Chirurgia plastica e riparatrice (biennale) (II);   
+Valutazione medico-legale delle lesioni chirurgiche;   
+Chirurgia toracica d'urgenza;   
+Chirurgia cardio-vascolare d'urgenza;   
+Chirurgia pediatrica d'urgenza.   
+  
+4° Anno:   
+Chirurgia d'urgenza e di pronto soccorso (quadriennale) (IV);   
+Chirurgia generale (quadriennale) (IV);   
+Neurotraumatologia (biennale) (II);   
+Fisiopatologia del politraumatizzato;   
+Trattamento del politraumatizzato;   
+Rianimazione.   
+  
+Art. 287. - La frequenza alle lezioni ed alle esercitazioni e' obbligatoria per tutti gli iscritti.   
+L'internato e' obbligatorio durante tutti i quattro anni del corso, che si svolgera' presso l'istituto di chirurgia d'urgenza sotto forma di permanenza costante in tale istituto durante le ore della sua attivita', con presenza giornaliera nei vari reparti.   
+Dall'obbligo di tale internato saranno esentati quegli allievi che, in qualita' di assistenti o di aiuti, prestino effettivamente servizio presso reparti di chirurgia d'urgenza e di pronto soccorso delle universita' e di ospedali di 1ª e 2ª categoria.   
+Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico dell'operosita' scolastica degli allievi, con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno.   
+L'allievo che non abbia ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali.   
+  
+Art. 288.- Alla fine del corso l'allievo, inoltre, dovra' sostenere un esame generale di profitto.   
+  
+Scuola di specializzazione in diabetologia e malattie del ricambio   
+Art. 289. - La scuola di specializzazione in diabetologia e malattie del ricambio conferisce il diploma di specialista in diabetologia e malattie del ricambio. Gli anni necessari per il conseguimento del diploma sono tre.   
+  
+Art. 290. - Il numero massimo complessivo degli iscritti alla scuola e' di quindici unita' ripartite nei tre anni di corso. La selezione dei candidati aspiranti alla ammissione alla scuola avverra' sulla base di titoli ed esami.   
+  
+Art. 291. - Le materie del corso sono le seguenti:   
+Anatomia e citomorfologia funzionale;   
+Auxologia e auxopatie metaboliche (complementare);   
+Clinica del diabete e delle malattie del ricambio (biennale);   
+Dietologia del diabete e delle malattie del ricambio;   
+Elementi di biometria e statistica (complementare);   
+Elementi di genetica del diabete e delle malattie del ricambio;   
+Elementi di psicologia nel diabete e nelle malattie del ricambio (complementare);   
+Farmacologia e terapia medica del diabete e delle malattie del ricambio;   
+Fisiopatologia clinica del diabete e delle malattie del ricambio;  
+Fisiopatologia e clinica ostetrico-ginecologica del diabete e delle malattie del ricambio (complementare);   
+Medicina sociale e preventiva del diabete e delle malattie del ricambio;   
+Metodi di analisi chimica e quantitativa;   
+Neuropatologia del diabete e delle malattie del ricambio;   
+Oftalmologia nel diabete e nelle malattie del ricambio (complementare);   
+Patologia molecolare;   
+Patologia sperimentale metabolica;   
+Semeiotica fisica e funzionale del diabete e delle malattie del ricambio;   
+Terapia chirurgica nel diabete e nelle malattie del ricambio (complementare).   
+  
+Art. 292. - Le materie sopra elencate sono cosi' distribuite:   
+  
+1° Anno:   
+Anatomia e citomorfologia funzionali;   
+Elementi di genetica del diabete e delle malattie del ricambio;   
+Metodi di analisi chimica e quantitativa;   
+Patologia molecolare;   
+Fisiopatologia clinica del diabete e delle malattie del ricambio;  
+Elementi di biometria e di statistica (complementare);   
+Auxologia e auxopatie metaboliche (complementare).   
+  
+2° Anno:   
+Patologia sperimentale metabolica;   
+Semeiotica fisica e funzionale del diabete e delle malattie del ricambio;   
+Clinica del diabete e delle malattie del ricambio (I);   
+Medicina sociale e preventiva del diabete e delle malattie del ricambio;   
+Neuropatologia del diabete e delle malattie del ricambio (complementare);   
+Fisiopatologia e clinica ostetrico-ginecologica del diabete e delle malattie del ricambio (complementare).   
+  
+3° Anno:   
+Clinica del diabete e delle malattie del ricambio (II);   
+Farmacologia e terapia medica del diabete e delle malattie del ricambio;   
+Dietologia del diabete e delle malattie del ricambio;   
+Elementi di psicologia nel diabete e nelle malattie del ricambio (complementare);   
+Terapia chirurgica nel diabete e nelle malattie del ricambio (complementare);   
+Oftalmologia nel diabete e nelle malattie metaboliche (complementare);   
+  
+Art. 293. - La frequenza alle lezioni ed alle esercitazioni e' obbligatoria per tutti gli iscritti.   
+L'internato e' obbligatorio durante tutti e tre gli anni del corso, sotto forma di permanenza costante durante le ore di attivita' scientifica ed assistenziale, con presenza giornaliera nei vari reparti.   
+Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico dell'operosita' scolastica degli allievi, con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno.   
+L'allievo che non abbia ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali.   
+  
+Art. 294. - Alla fine del corso l'allievo, inoltre, dovra' sostenere un esame generale di profitto.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 agosto 1967
+### Dato a Roma, addi' 31 ottobre 1973
 
-SARAGAT GUI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 2 novembre 1967
+Registrato alla Corte dei conti, addi' 28 ottobre 1974
 
-Atti del Governo, registro n. 214, foglio n. 111. - GRECO
+Atti di Governo, registro n. 6, foglio n. 50. - SCIARRETTA

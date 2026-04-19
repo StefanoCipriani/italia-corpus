@@ -1,96 +1,266 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 giugno 1971 n. 639
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 1228
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 giugno 1971 n. 639
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 1228
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pisa e convalidati dal Consiglio universitario nazionale nei suoi pareri;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Sulla
+-----
+
+proposta del Ministro della pubblica istruzione; Decreta:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Lo statuto dell'Universita' di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+L'art. 328, relativo alla scuola di specializzazione in odontoiatria e protesi dentaria, e' soppresso e sostituito dal seguente:  
+Art. 328. - Gli iscritti hanno l'obbligo di frequentare le lezioni, le esercitazioni tecniche e gli ambulatori per l'intero anno scolastico. Il numero massimo e' di sessantasei nei tre anni.  
+
+Art. 2
+------
+
   
-Decreta:  
+Gli articoli 346, 347, 348, relativi alla scuola di specializzazione in ortopedia e traumatologia, che muta la denominazione in ortopedia, sono soppressi e sostituiti dai seguenti:  
+Art. 346. - La scuola di specializzazione in ortopedia ha sede presso la clinica ortopedica e conferisce il diploma di specialista in ortopedia.  
+La scuola comprende un insegnamento teorico e pratico.  
+La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.  
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale, rilasciato dalle autorita' competenti.  
+La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazioni.  
+Art. 347. - Il numero massimo degli allievi e' di otto per anno di corso e complessivamente di quaranta iscritti per l'intero corso di studi.  
+L'ammissione al corso avviene per titoli ed esami.  
+Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+Insegnamento pratico:  
+chirurgia generale;  
+pronto soccorso generale;  
+fisioterapia.  
+Insegnamento teorico:  
+anatomia dell'apparato locomotore I;  
+fisiologia dell'apparato locomotore;  
+semeiotica ortopedica;  
+nozioni di chirurgia generale;  
+bioingegneria dell'apparato locomotore I.  
+2° Anno:  
+Insegnamento pratico:  
+chirurgia generale (con frequenza eventuale in reparti specialistici interessati per l'apparato locomotore);  
+reparti di pronto soccorso traumatologico;  
+reparti in ortopedia e traumatologia.  
+Insegnamento teorico:  
+anatomia ed istologia patologica dell'apparato locomotore I; patologia dell'apparato locomotore I;  
+clinica ortopedica I;  
+traumatologia dell'apparato locomotore I;  
+radiologia I;  
+nozioni di chirurgia d'urgenza e di pronto soccorso;  
+bioingegneria dell'apparato locomotore II.  
+3° Anno:  
+Insegnamento pratico:  
+reparti in ortopedia e traumatologia (in particolare sale di degenza e sale gessi).  
+Insegnamento teorico:  
+anatomia ed istologia patologica dell'apparato locomotore II; patologia dell'apparato locomotore II;  
+clinica ortopedica II;  
+traumatologia dell'apparato locomotore II;  
+radiologia II;  
+tecnica operatoria I;  
+apparatoterapia e tecnica degli apparecchi gessati;  
+elementi di reumatologia.  
+4° Anno:  
+Insegnamento pratico:  
+reparti in ortopedia e traumatologia (frequenza nei reparti operatori).  
+Insegnamento teorico:  
+patologia dell'apparato locomotore III;  
+clinica ortopedica III;  
+traumatologia dell'apparato locomotore III;  
+tecnica operatoria II;  
+fisiokinesiterapia;  
+neuropatologia dell'apparato locomotore ed elettrodiagnostica;  
+nozioni di medicina legale.  
+5° Anno:  
+Insegnamento pratico:  
+reparti di ortopedia e traumatologia (frequenza nei reparti operatori);  
+officine ortopediche.  
+Insegnamento teorico:  
+patologia dell'apparato locomotore IV;  
+clinica ortopedica IV;  
+traumatologia dell'apparato locomotore IV;  
+tecnica operatoria III;  
+fisioterapia.  
+Art. 348. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove, di esame.  
+Alla fine di ogni corso gli iscritti per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi. Al termine del corso di studi per il conseguimento del diploma di specialista in ortopedia gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
+
+Art. 3
+------
+
   
-Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:  
+Dopo l'art. 411, e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva e in farmacologia.  
   
-L'art. 45 e' modificato nel senso che gli istituti di lingue e letteratura latina e geografia umana annessi alla facolta' di economia e commercio sono soppressi.  
-Art. 49: e' modificato nel senso che, all'elenco degli istituti annessi alla facolta' di lingue e letterature straniere sono aggiunti quelli di:  
-Istituto di lingua e letteratura latina;  
-Istituto di geografia umana.  
-Nello stesso elenco l'istituto di lingua e letteratura spagnola ed ispano-americana assume la denominazione di "Istituto di studi ibero-americani".  
-Art. 55: nell'elenco degli istituti annessi alla facolta' di lettere e filosofia l'istituto di geografia generale assume la nuova denominazione di "Istituto di scienze geografiche".  
-Art. 75: all'elenco degli insegnamenti complementari della laurea in chimica per gli indirizzi organico-biologico e inorganico-chimico-fisico sono aggiunti i seguenti:  
-Catalisi;  
-Metodologie elettroanalitiche.  
-Art. 78: all'elenco degli insegnamenti del corso di laurea in chimica industriale sono aggiunti i seguenti:  
-Catalisi;  
-Metodologie elettroanalitiche.  
-Art. 79: all'elenco degli insegnamenti complementari del corso di laurea in fisica e' aggiunto quello di:  
-Spettroscopia e radiofrequenze.  
-Art. 87: all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti quelli di:  
-Biologia molecolare;  
-Enzimologia;  
-Chimica analitica;  
-Virologia.  
-Art. 89: all'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti quelli di:  
-Geologia strutturale;  
-Geologia marina;  
-Petrografia applicata;  
-Analisi mineralogiche;  
-Paleontologia vegetale;  
-Prospezioni geofisiche;  
-Difesa del suolo;  
-Fotogeologia;  
-Idrogeologia;  
-Geomorfologia.  
-Dopo l'art. 362 e con il conseguente spostamento della successiva numerazione relativa alla istituzione presso la facolta' di agraria del corso di perfezionamento in "Assistenza e divulgazione agricola" sono inseriti i seguenti articoli:  
+Scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva  
   
-Corso di perfezionamento in assistenza e divulgazione agricola  
+Art. 412.- La scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva ha sede presso l'istituto di patologia speciale chirurgica e propedeutica clinica II e conferisce il diploma di specialista in chirurgia dell'apparato digerente ed endoscopia digestiva.  
+Art. 413. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.  
+Art. 414. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalle autorita' accademiche.  
+Art. 415. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.  
+Art. 416. - Il numero massimo di allievi e' di due per anno di corso e complessivamente di dieci iscritti per l'intero corso di studi.  
+Art. 417. - L'ammissione al corso avviene per titoli ed esami.  
+Art. 418. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+anatomia descrittiva e topografica specialistica (I corso);  
+fisiopatologia e semeiotica funzionale (I corso);  
+anatomia ed istologia patologica (I corso);  
+patologia chirurgica (I corso).  
+2° Anno:  
+anatomia descrittiva e topografica specialistica (II corso);  
+fisiopatologia e semeiotica funzionale (II corso);  
+anatomia ed istologia patologica (II corso);  
+patologia chirurgica (II corso);  
+semeiotica chirurgica (I corso);  
+radiologia e medicina nucleare (I corso);  
+endoscopia digestiva diagnostica e terapeutica (I corso).  
+3° Anno:  
+patologia chirurgica (III corso);  
+semeiotica chirurgica (II corso);  
+radiologia e medicina nucleare (II corso);  
+endoscopia digestiva diagnostica e terapeutica (II corso);  
+clinica e terapia chirurgica (I corso);  
+tecniche operatorie (I corso).  
+4° Anno:  
+semeiotica chirurgica (III corso);  
+radiologia e medicina nucleare (III corso);  
+endoscopia digestiva diagnostica e terapeutica (III corso);  
+clinica e terapia chirurgica (II corso);  
+tecniche operatorie (II corso);  
+anestesia e rianimazione;  
+riabilitazione in chirurgia digestiva.  
+5° Anno:  
+clinica chirurgica e terapia chirurgica (III corso);  
+tecniche operatorie (III corso);  
+chirurgia d'urgenza dell'apparato digerente;  
+chirurgia pediatrica dell'apparato digerente;  
+terapia intensiva.  
+Art. 419. - La frequenza alle lezioni, alle esercitazioni pratiche, alla esperienza dei reparti di degenza e' obbligatoria per l'ammissione agli esami; il superamento degli esami di ciascun anno e' condizione indispensabile per l'iscrizione all'anno successivo.  
+Art. 420. - Al termine del quinquennio per ottenere il diploma, i candidati devono presentare una dissertazione scritta su un argomento di chirurgia dell'apparato digerente ed endoscopia digestiva da discutere davanti ad apposita commissione e devono inoltre sostenere una prova clinica.  
   
-Art. 363. - Il corso di perfezionamento in assistenza tecnica e divulgazione agricola annesso alla facolta' di scienze agrarie, ha lo scopo di potenziare le suddette attivita' quali strumenti di una politica di sviluppo del mondo rurale.  
-Il corso ha la durata annuale.  
-Art. 364. - Il corso e' diretto da un direttore assistito da un consiglio.  
-Il direttore del corso e' nominato dal rettore su designazione del consiglio di facolta' di agraria. Egli dura in carica un biennio, ed e' confermabile.  
-Il consiglio della scuola e' costituito da tutti i professori che tengono gli insegnamenti della scuola ed e' presieduto dal direttore.  
-Gli insegnamenti del corso sono affidati a professori di ruolo, o liberi docenti o assistenti della facolta' di scienze agrarie o di altre facolta' nonche' a persone di riconosciuta competenza in uno degli insegnamenti previsti.  
-Le nomine sono approvate dal consiglio della facolta' di scienze agrarie, su proposta del direttore del corso.  
-Art. 365. - Titolo di ammissione al corso e' la laurea in scienze agrarie. Annualmente non puo' essere ammesso al corso un numero di iscritti superiore a venti, nello ambito del quale possono essere riservati posti, a seguito di particolari convenzioni per dipendenti da enti pubblici e privati, o da laureati che godono di apposite borse di studio concesse dallo Stato.  
-Art. 366. - Gli insegnamenti impartiti nel corso sono i seguenti:  
-a) Economia agraria (analisi tecnico-economica dell'azienda agraria e programmazione);  
-b) Politica agraria (quadro istituzionale, politica finanziaria, creditizia, cooperazione);  
-c) Sociologia rurale e psicologia sociologica rurale;  
-d) Principi dell'assistenza tecnica e della divulgazione;  
-e) Metodologia dell'assistenza tecnica e della divulgazione.  
-Gli insegnamenti si svolgono sotto forma di lezioni cattedratiche e di conferenze, integrate, in ogni caso, da esercitazioni ed escursioni.  
-Art. 367. - Gli iscritti al corso devono frequentare le lezioni e le esercitazioni, nonche' partecipare alle escursioni e soggiornare nei luoghi in cui vengono svolte le suddette attivita' didattiche.  
-Art. 368. - Al termine del corso gli iscritti devono sostenere gli esami di profitto nelle singole materie, oggetto d'insegnamento.  
-Le commissioni esaminatrici sono composte secondo quanto stabilito dall'[art. 42 del regio decreto 4 giugno 1931, n. 1269](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-04;1269~art42), e sono nominate dal direttore del corso.  
-Art. 369. - Le tasse e soprattasse che gli iscritti sono tenuti a pagare sono quelle stabilite per gli studenti in corso. La tassa di diploma e' fissata nella misura di lire seimila a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).  
-Art. 370. - A coloro che avranno superato gli esami, verra' rilasciato un attestato di frequenza e di profitto.  
+Scuola di specializzazione in farmacologia  
+  
+Art. 421. - La scuola di specializzazione in farmacologia rilascia i seguenti diplomi:  
+a) specialista in farmacologia; indirizzo: farmacologia di base.  
+b) specialista in farmacologia; indirizzo: farmacologia clinica.  
+c) specialista in farmacologia; indirizzo: tossicologia.  
+Art. 422. - La scuola ha la durata di quattro anni: i primi due anni sono comuni, il secondo biennio e' diverso nei tre indirizzi previsti:  
+di "farmacologia di base";  
+di "farmacologia clinica";  
+di "tossicologia".  
+Il numero massimo degli iscritti e' fissato a dieci per ciascun anno di corso, da ripartire tra i tre indirizzi previsti.  
+Al momento della iscrizione al terzo anno i candidati devono scegliere l'indirizzo che intendono seguire.  
+Non sono ammesse abbreviazioni di corso. Per la iscrizione alla scuola e' necessaria la laurea in medicina e chirurgia ed aver superato l'esame di Stato di abilitazione professionale in medicina e chirurgia. L'ammissione alla scuola e' fatta in base ai titoli ed apposito esame.  
+Art. 423. - La facolta', considerato il numero degli iscritti e le possibilita' didattiche, puo' attivare anche un solo indirizzo della scuola.  
+Art. 424. - Le materie di insegnamento sono:  
+1° Anno:  
+chimica organica;  
+statistica medica;  
+farmacologia generale;  
+biologia e farmacologia cellulare;  
+immunologia;  
+biologia molecolare dei procarioti e dei virus;  
+saggi e dosaggi farmacologici;  
+inglese scientifico.  
+2° Anno:  
+basi di farmacocinetica;  
+farmacologia speciale;  
+chemioterapia antibatterica, antivirale, antineoplastica, antifungina, antiparassitaria;  
+principi di tossicologia, con elementi di tossicologia da ambiente, da lavoro, da additivi;  
+tecniche chimico-fisiche, immunologiche, radioisotopiche;  
+inglese scientifico;  
+statistica e programmazione.  
+3° Anno:  
+A) INDIRIZZO DI "FARMACOLOGIA DI BASE":  
+farmacologia speciale;  
+farmacologia molecolare;  
+chemioterapia sperimentale;  
+immunofarmacologia;  
+tecniche ed analisi critica degli "screening" di farmaci "in vivo" e "in vitro";  
+biochimica, fisiologia e farmacologia comparata.  
+B) INDIRIZZO DI "FARMACOLOGIA CLINICA":  
+organizzazione di un laboratorio di farmacologia clinica e sua funzione;  
+farmacologia clinica e tecniche di sperimentazione clinica;  
+farmacologia speciale, in connessione con la patologia dei singoli organi ed apparati e con la pratica clinica I;  
+biodisponibilita' dei farmaci;  
+farmacocinetica e biochimica clinica;  
+C) INDIRIZZO "TOSSICOLOGIA":  
+tossicologia sperimentale;  
+cancerogenesi e teratogenesi;  
+tossicologia dell'ambiente e misure di prevenzione;  
+chimica tossicologica e tecniche di riconoscimento di sostanze tossiche;  
+anatomia ed istopatologia degli stati tossici;  
+epidemiologia;  
+terapia e prevenzione degli stati tossici I.  
+4° Anno:  
+A) INDIRIZZO "FARMACOLOGIA DI BASE"  
+farmacologia speciale;  
+modelli sperimentali di malattie umane;  
+metodi di allevamento, incrocio e stabulazione degli animali da laboratorio;  
+principi di sperimentazione sull'uomo e farmacologia preclinica;  
+legislazione in campo di farmaci.  
+B) INDIRIZZO "FARMACOLOGIA CLINICA":  
+farmacologia speciale in connessione con la patologia degli organi e con la pratica clinica II;  
+farmacologia in eta' prenatale, perinatale ed in geriatria;  
+chemioterapia clinica;  
+deontologia e legislazione in campo di farmacologia clinica.  
+C) INDIRIZZO "TOSSICOLOGIA":  
+tossicologia sistematica;  
+terapia e prevenzione degli stati tossici II;  
+tossicologia nutrizionale;  
+tossicologia da abuso di farmaci;  
+organizzazione di centri-antiveleni e antidroga;  
+legislazione concernente la tossicologia individuale e di ambiente.  
+Ciascun corso di lezioni e' accompagnato da esercitazioni pratiche.  
+Gli insegnamenti vengono integrati da conferenze riguardanti argomenti scientifici e problemi farmacoterapici e tossicologici di attualita'.  
+Art. 425. - L'insegnamento si svolge normalmente secondo il calendario universitario durante il periodo delle lezioni. La durata del corso si prolunga tuttavia per tutto l'anno solare, senza interruzioni, per la pratica di laboratorio e clinica. La frequenza ai corsi e' obbligatoria. L'indirizzo di farmacologia clinica e di tossicologia prevede esercitazioni e pratica di laboratorio di almeno un anno in una clinica specializzata.  
+Per essere ammesso all'anno successivo il candidato, al termine di ogni anno, deve superare un esame di profitto comprensivo delle materie di insegnamento dell'anno frequentato.  
+Superati gli esami di profitto prescritti per il 4° anno, il candidato viene ammesso all'esame di diploma di specializzazione che consiste nella discussione orale di una dissertazione scritta su di un tema originale approvato dal direttore della scuola.  
+Art. 426. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.  
+Il direttore puo' durare in carica quattro anni e puo' essere rieletto.  
+Il direttore nomina un vice direttore responsabile della attivita' didattica e scientifica per ogni indirizzo attivato.  
+Art. 427. - Le lezioni teoriche e le esercitazioni di laboratorio avranno luogo nei locali messi a disposizione dall'istituto di farmacologia.  
+Art. 428. - Per quanto non regolato dagli articoli di cui sopra, si fa riferimento alle norme generali dello statuto dell'Universita' di Pisa.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 giugno 1971
+### Dato a Roma, addi' 5 settembre 1980
 
-SARAGAT MISASI
+PERTINI SARTI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: SARTI
 
-Registrato alla Corte dei conti, addi' 18 agosto 1971
+Registrato alla Corte dei conti, addi' 17 ottobre 1981
 
-Atti del Governo, registro n. 243, foglio n. 140. - PASQUALUCCI
+Registro n. 96 Istruzione, foglio n. 351

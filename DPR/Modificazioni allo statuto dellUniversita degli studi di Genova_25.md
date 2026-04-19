@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1979 n. 606
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 giugno 1972 n. 437
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1979 n. 606
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 giugno 1972 n. 437
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Genova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,227 +18,687 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla
------
+Sulla proposta del Ministro per la pubblica istruzione;
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+L'art. 122, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che la "Scuola in psicologia dell'eta' evolutiva" muta la denominazione in quella di "Scuola di specializzazione in psicologia".
+
+Gli articoli 138, 139, 140, relativi alla "Scuola di specializzazione in ostetricia e ginecologia", sono abrogati e sostituiti dai seguenti con il relativo spostamento della numerazione degli articoli successivi:
+
+Scuola di specializzazione in ostetricia e ginecologia
+
+Art. 138. - Presso la clinica ostetrica e ginecologica e' istituita la scuola di specializzazione in ostetricia e ginecologia, la quale ha lo scopo di conferire adeguata competenza teorica e pratica ai laureati in medicina e chirurgia, i quali intendano conseguire il diploma di specializzazione in ostetricia e ginecologia. Direttore della scuola e' il docente designato dal consiglio di facolta'.
+
+Il corso ha la durata di quattro anni.
+
+Art. 139. - L'ammissione alla scuola avviene a seguito di concorso per titoli ed esami. Sono da considerarsi titoli preferenziali a parita' di risultato dell'esame di ammissione:
+
+a) il voto di laurea in medicina e chirurgia;
+
+b) aver frequentato come studente interno una clinica ostetrica e ginecologica dell'Universita';
+
+c) aver svolto la tesi di laurea nella clinica ostetrica e ginecologica;
+
+d) documentazione di eventuali servizi prestati in grossi reparti ospitalieri della specialita';
+
+e) eventuali pubblicazioni.
+
+L'esame di ammissione deve espletarsi entro il mese di dicembre.
+
+Il numero massimo degli iscritti e' stabilito complessivamente in trentasette specializzandi.
+
+Art. 140. - Per nessun motivo il corso di quattro anni puo' essere abbreviato. Nessun titolo puo' esonerare dalla frequenza gli iscritti nei quattro anni di corso.
+
+Gli iscritti, oltre all'obbligo di frequenza delle lezioni, esercitazioni, seminari, ecc. devono prestare analogo servizio a quello degli assistenti per non meno di nove mesi all'anno.
+
+Gli iscritti devono sostenere gli esami annuali di profitto e l'esame di diploma. La sessione di profitto e' unica ed e' espletata nel mese di ottobre.
+
+Non puo' essere iscritto all'anno successivo di corso chi non abbia superato le materie fondamentali della specialita'.
+
+Le norme di iscrizione, esami, pagamento tasse, frequenza, ecc. sono quelle generali delle scuole di specializzazione e di perfezionamento della facolta' di medicina e chirurgia.
+
+Art. 141. - Il programma di studi e' il seguente:
+
+1° Anno:
+
+1) Elementi di genetica e di eugenica;
+
+2) Anatomia normale ed embriologia dell'apparato genitale femminile;
+
+3) Fisiologia dell'apparato genitale femminile;
+
+4) Endocrinologia fisiologica;
+
+5) Fisiologia ostetrica;
+
+6) Diagnostica ostetrica;
+
+7) Clinica ostetrica e ginecologica.
+
+2° Anno:
+
+1) Tecnica operatoria ostetrica;
+
+2) Diagnostica ginecologica;
+
+3) Tecnica diagnostica di laboratorio nel campo ostetrico-ginecologico esclusa la istologia (sierologia, batteriologia, citologia, ematologia, biochimica);
+
+4) Clinica ostetrica e ginecologica.
+
+3° Anno:
+
+1) Anatomia patologica ostetrica e ginecologica;
+
+2) Istologia normale e patologica nel campo della specialita';
+
+3) Puericultura prenatale;
+
+4) Emoterapia nel campo ostetrico e ginecologico;
+
+5) Anestesia e analgesia nel campo ostetrico e ginecologico;
+
+6) Tecnica operatoria ginecologica;
+
+7) Clinica ostetrica e ginecologica;
+
+8) Terapia medica ostetrica e ginecologica.
+
+4° Anno:
+
+1) Puericultura postnatale e malattie del neonato;
+
+2) Ostetricia e ginecologia forense;
+
+3) Diagnostica roentgen, radioterapia in ostetricia e ginecologia;
+
+4) Clinica ostetrica e ginecologica (esame alla fine del IV anno);
+
+5) Urologia ginecologica;
+
+6) Chirurgia addominale extra genitale.
+
+Gli esami si fanno per gruppi di materie ed i membri delle commissioni saranno proposti dai direttori delle scuole.
+
+A giudizio del consiglio della scuola, formulato sulla base del rendimento di ogni iscritto, gli specializzandi potranno essere esonerati dal pagamento delle tasse universitarie.
+
+Per il conseguimento del diploma, l'iscritto deve presentare e discutere una dissertazione scritta con contributo-personale.
+
+Art. 142. - Gli esami si fanno per gruppi di materie ed i membri della commissione saranno proposti dal direttore della scuola.
+
+La commissione per l'esame di diploma e' nominata dal rettore ed e' composta di almeno cinque membri proposti dal direttore della scuola e scelti possibilmente tra gli insegnanti della scuola stessa.
+
+Almeno tre membri dovranno essere professori di ruolo. Ove tra gli insegnanti della scuola non vi fossero tre professori di ruolo i mancanti verranno scelti tra i professori di ruolo, insegnanti materie affini, anche di altre facolta'.
+
+Per il conseguimento del diploma l'iscritto deve presentare e discutere una dissertazione scritta con contributo personale e prove teoriche e pratiche stabilite dalla commissione giudicatrice. A coloro che abbiano superato l'esame di diploma verra' rilasciato il diploma di specializzazione in ostetricia e ginecologia a tutti gli effetti di legge.
+
+Per essere ammesso all'esame di diploma gli iscritti devono aver superato tutti gli esami di profitto.
+
+Gli articoli 231, 232, 233, relativi alla "Scuola di specializzazione in psicologia dell'eta' evolutiva" che muta la denominazione in quella di "Scuola di specializzazione in psicologia", sono abrogati e sostituiti dai seguenti, con il relativo spostamento della numerazione degli articoli successivi.
+
+Scuola di specializzazione in psicologia
+
+Art. 231. - Presso l'istituto di psicologia della facolta' di medicina e chirurgia dell'Universita' di Genova, e' istituita la "Scuola di specializzazione in psicologia" la quale e' articolata nei seguenti indirizzi:
+
+a) medico;
+
+b) differenziale e scolastico;
+
+c) industriale e del lavoro;
+
+d) sociale.
+
+La durata del corso della scuola e' di tre anni. La frequenza e' obbligatoria. Non sono consentite abbreviazioni di corso se non nei casi previsti dall'art. 245; ne' e' consentita la contemporanea iscrizione a piu' indirizzi distinti.
+
+La scuola conferisce il diploma di "Specialista in psicologia" con l'indicazione dell'indirizzo seguito.
+
+Il diploma, valido a tutti gli effetti della legge, viene rilasciato all'allievo in rapporto all'indirizzo prescelto, seguito e concluso positivamente negli esami di profitto e di diploma.
+
+Art. 232. - Titoli per l'ammissione alla scuola sono:
+
+a) per l'indirizzo "medico", la laurea in medicina e chirurgia;
+
+b) per gli altri indirizzi, il diploma di laurea rilasciato da qualsiasi facolta' di una universita' italiana di Stato o ad essa parificata, ovvero un titolo straniero equipollente.
+
+Nella domanda di ammissione alla scuola, deve essere specificato l'indirizzo che si desidera seguire.
+
+Nel caso di domande di iscrizione eccedenti il numero massimo stabilito dal consiglio della scuola e indicato nel manifesto-programma annuale di cui all'art. 243 il consiglio stesso procedera' all'accettazione delle domande attraverso un concorso di merito, le cui modalita' verranno fissate nello stesso manifesto annuale. Indipendentemente dalla limitazione delle iscrizioni, il consiglio della scuola puo' subordinare l'ammissione ad una prova di idoneita'.
+
+Art. 233. - Il corso e' costituito da lezioni teoriche, esercitazioni pratiche, tirocini, seminari conferenze; la attivita' didattica viene svolta per un numero di ore non inferiore alle venti settimanali, per tutta la durata dell'anno accademico.
+
+Gli insegnamenti statutari sono suddivisi in tre gruppi:
+
+a) insegnamenti comuni a tutti gli indirizzi sopra indicati: tali insegnamenti sono obbligatori per tutti gli allievi, qualunque sia l'indirizzo prescelto;
+
+b) insegnamenti specifici, peculiari a ciascuno dei singoli indirizzi indicati nell'art. 231 e nel, successivo art. 234; tali insegnamenti sono obbligatori nell'ambito dell'indirizzo prescelto;
+
+c) insegnamenti integrativi. Gli insegnamenti di cui ai punti a) e b) sono fissati nello statuto, il quale stabilisce altresi' la distribuzione degli insegnamenti stessi nei vari anni.
+
+Gli insegnamenti di cui al punto c) vengono stabiliti anno per anno dal consiglio della scuola e pubblicati nel manifesto-programma annuale, insieme all'elenco degli insegnamenti di cui ai punti a) e b).
+
+Art. 234. - Gli insegnamenti comuni di cui al punto a) dell'articolo precedente sono:
+
+1) Metodologia generale e speciale della ricerca psicologica (triennale: I, II, III anno);
+
+2) Metodologia statistica generale e psicometria (annuale: I anno);
+
+3) Psicologia generale (triennale: I, II e III anno);
+
+4) Teorie della personalita' (biennale: I e II anno);
+
+5) Psicologia dinamica (annuale: II anno);
+
+6) Psicologia differenziale (annuale: I anno);
+
+7) Psicologia sociale (biennale: I e II anno);
+
+8) Tecniche psicodiagnostiche (biennale: I e II anno).
+
+Gli insegnamenti specifici di cui al punto b) dell'articolo 233, sono:
+
+A) per l'indirizzo medico:
+
+1) Psicologia dello sviluppo (biennale: I e II anno);
+
+2) Psicofisiologia (annuale: I anno);
+
+3) Psicofarmacologia (annuale: II anno);
+
+4) Psicopatologia e neuropsichiatria (biennale: I e II anno);
+
+5) Medicina psicosomatica (annuale: III anno);
+
+6) Psicologia clinica (biennale: II e III anno);
+
+7) Psicoterapia (biennale: II e III anno);
+
+8) Psicologia criminologica, giudiziaria e penitenziaria (annuale: III anno);
+
+9) Igiene mentale (annuale: II anno).
+
+B) per l'indirizzo differenziale e scolastico:
+
+1) Fondamenti di biologia generale e di anatomia e fisiologia umana (biennale: I e II anno);
+
+2) Psicologia dell'eta' evolutiva (triennale: I, II e III anno);
+
+3) Pedagogia (annuale: I anno);
+
+4) Istituzioni di psicopatologia e di igiene mentale (annuale:
+
+I anno);
+
+5) Psicologia pedagogica (annuale: I anno);
+
+6) Psicologia del disadattamento scolastico e professionale nell'eta' evolutiva (annuale: II anno);
+
+7) Docimologia e tecniche della valutazione scolastica (annuale: II anno);
+
+8) Tecniche psicodiagnostiche individuali e di gruppo (biennale: II e III anno);
+
+9) Orientamento scolastico e professionale (annuale: III anno).
+
+C) per l'indirizzo industriale e del lavoro:
+
+1) Fondamenti di biologia generale e di anatomia e fisiologia umana (biennale: I e II anno);
+
+2) Istituzioni di psicopatologia e di igiene mentale (annuale:
+
+I anno);
+
+3) Psicologia del lavoro (annuale: I anno);
+
+4) Metodologia statistica e psicometria (corso avanzato, annuale: II anno);
+
+5) Ergonomia (annuale: I anno);
+
+6) Analisi e valutazione delle mansioni e profili professionali (annuale: II anno);
+
+7) Psicologia del disadattamento lavorativo (annuale: III anno).
+
+D) per l'indirizzo sociale:
+
+1) Antropologia culturale (annuale: I anno);
+
+2) Sociologia (annuale: I anno);
+
+3) Psicologia della comunicazione (biennale: I e II anno);
+
+4) Tecniche quantitative dell'indagine psicosociale (annuale:
+
+II anno);
+
+5) Ricerca motivazionale (annuale: II anno);
+
+6) Psicologia sociale, corso avanzato (annuale: III anno);
+
+7) Dinamiche di gruppo (annuale: III anno);
+
+8) Tecniche di studio dell'opinione pubblica (annuale: III anno);
+
+9) Patologia e controllo sociale (annuale: III anno).
+
+Gli insegnamenti integrativi (annuali) di cui al punto c) dell'art. 233, vanno scelti nell'ambito dell'elenco che segue:
+
+Storia della psicologia;
+
+Filosofia della scienza;
+
+Cibernetica;
+
+Psicologia zoologica;
+
+Psicolinguistica;
+
+Organizzazione sanitaria;
+
+Organizzazione scolastica;
+
+Auxologia;
+
+Neuropsichiatria infantile;
+
+Pedagogia speciale e differenziale;
+
+Igiene generale;
+
+Medicina del lavoro;
+
+Legislazione sanitaria;
+
+Legislazione scolastica;
+
+Legislazione del lavoro;
+
+Deontologia professionale;
+
+Sessuologia;
+
+Psicogerontologia;
+
+Statistica economica;
+
+Psicologia, della propaganda;
+
+Psicologia dello sport;
+
+Psicologia e pedagogia della comunicazione di massa;
+
+Filmologia;
+
+Istruzione programmata;
+
+Psicologia della didattica e dell'apprendimento scolastico;
+
+Infortunistica del lavoro;
+
+Psicologia economica.
+
+Gli insegnamenti specifici di ciascuno dei quattro indirizzi, possono valere come integrativi per gli altri indirizzi che non li comprendano; sempre naturalmente nel caso che il funzionamento degli indirizzi stessi sia previsto dal manifesto-programma annuale.
+
+Il manifesto-programma annuale, di cui all'art. 243, indichera' quali indirizzi verranno realizzati e quali insegnamenti integrativi verranno impartiti dalla scuola, durante l'anno accademico.
+
+L'eventuale scissione degli insegnamenti in piu' rami distinti, ai fini sia dell'insegnamento che degli esami di profitto, ovvero l'eventuale loro raggruppamento ai fini degli esami risulteranno dal manifesto-programma annuale di cui all'art. 243.
+
+Art. 235. - Gli esami sono di profitto e di diploma. Per essere ammesso agli esami annuali di profitto l'allievo deve aver frequentato assiduamente le lezioni, le esercitazioni, i tirocini, i seminari, ecc. svolti dalla scuola nei relativi anni di corso.
+
+Per essere ammesso all'esame di diploma, l'allievo, oltre ad aver adempiuto a tutti gli obblighi di frequenza ed esame dei vari insegnamenti comuni e specifici e di almeno due degli insegnamenti integrativi, ed aver effettuato le esercitazioni prescritte deve presentare una dissertazione scritta nonche' una relazione riassuntiva sulle esercitazioni e su eventuali tirocini effettuati nell'intero triennio.
+
+L'esame di diploma consiste nella discussione della tesi e della relazione e, eventualmente, di una o piu' prove pratiche stabilite dal consiglio della scuola.
+
+Art. 236. - Direttore della scuola e' il professore di ruolo titolare della cattedra di psicologia della facolta' di medicina e chirurgia.
+
+Il direttore della scuola, su conforme parere del consiglio della scuola stessa, puo' proporre che un docente di essa assuma le funzioni di vicedirettore, con l'incarico annuale (riconfermabile) di coadiuvarlo e di sostituirlo; alla relativa nomina provvede il rettore.
+
+Art. 237. - I docenti della scuola sono scelti fra i professori universitari di psicologia (di ruolo, fuori-ruolo, aggregati, incaricati, liberi, docenti), fra gli specializzati in psicologia e fra coloro che, per opere, uffici o insegnamenti tenuti siano di riconosciuta competenza ed esperienza nelle discipline che formano oggetto dei corsi della scuola.
+
+Alla nomina dei docenti provvede il rettore, su proposta presentata annualmente dal direttore della scuola e su parere conforme del consiglio della scuola stessa e della facolta'.
+
+Art. 238. - Per i problemi riguardanti l'organizzazione didattica, il direttore e' assistito da un consiglio della scuola, composto dal direttore stesso che lo presiede dal vice-direttore, che presiede le adunanze del consiglio in caso di assenza o di impedimento del direttore, e da tutti i docenti che abbiano avuto regolare nomina rettorale.
+
+Su proposta del direttore e sentito il parere del consiglio, uno dei docenti assolve anche le funzioni di segretario delle adunanze del consiglio stesso: alla relativa nomina provvede il rettore.
+
+Art. 239. - Spetta al consiglio della scuola:
+
+1) determinare, coordinare, approvare i programmi dei corsi teorici, delle esercitazioni, dei tirocini, dei seminari, ecc., relativi sia agli insegnamenti comuni sia a quelli specifici, sia a quelli integrativi;
+
+2) esprimere il proprio parere sulle proposte del direttore della scuola relativamente alla designazione dei docenti, da sottoporre quindi alla nomina rettorale dopo l'approvazione delle facolta';
+
+3) determinare, coordinare, approvare gli orari dei vari insegnamenti, esercitazioni, seminari, ecc. e il diario e le modalita' degli esami, sia di profitto, che di diploma e la composizione delle relative commissioni;
+
+4) stabilire le eventuali prove pratiche da far sostenere agli allievi in occasione dell'esame di diploma;
+
+5) riferire sulle domande di trasferimento di allievi di scuole di specializzazione in psicologia da una universita' o facolta' ad un'altra e deliberare circa il passaggio da un indirizzo all'altro della scuola stessa, conformemente a quanto stabilito dall'art. 245, determinandone gli eventuali ulteriori obblighi di frequenza e di esame;
+
+6) determinare il numero massimo (in ogni caso non superiore a dieci) ed eventualmente il numero minimo degli allievi che possono essere iscritti al primo anno di corso, in ogni caso, data la disponibilita' delle attrezzature dell'istituto di psicologia della facolta' di medicina, il numero massimo di iscritti complessivamente nel triennio non dovra' eccedere i trenta, sia che funzioni un solo indirizzo, sia che ne funzioni piu' di uno;
+
+7) stabilire la composizione della commissione per l'esame di concorso di merito di cui al comma, terzo dell'art. 232 della commissione per le eventuali prove di idoneita' di cui allo stesso comma dell'art. 232 nonche' le modalita' dei relativi concorsi o prova.
+
+Art. 240. - Il funzionamento amministrativo della scuola e' determinato, in armonia con le vigenti disposizioni sulle scuole di specializzazione, da un regolamento interno emanato dal rettore su proposta del direttore della scuola.
+
+Art. 241. - Le entrate della scuola sono costituite dall'apposito contributo per la scuola di specializzazione e da altre eventuali erogazioni dello Stato e di enti pubblici e privati.
+
+Art. 242. - Le norme di iscrizione, pagamento tasse, ecc. sono quelle generali delle scuole di specializzazione e di perfezionamento riferite negli articoli da 122 a 137 dello statuto dell'universita'.
+
+Art. 243. - Il direttore della scuola - di concerto col vice direttore e sulla base delle deliberazioni del consiglio della scuola - compila ogni anno il relativo manifesto-programma che, previa approvazione della facolta' di medicina e chirurgia sara' reso di pubblica ragione.
+
+Nel manifesto viene specificato:
+
+1) l'indirizzo o gli indirizzi della scuola che saranno aperti nell'imminente anno accademico;
+
+2) il numero massimo (in ogni caso non superiore a dieci) e, eventualmente, quello minimo di domande di iscrizione che verranno accettate;
+
+3) le modalita' del concorso di merito in caso di domande eccedenti il numero massimo di iscrizioni consentite;
+
+4) l'eventuale indicazione di prove di idoneita' per l'ammissione alla scuola, conformemente al comma terzo dell'art. 232.
+
+5) l'ordine degli studi, con l'indicazione;
+
+a) dell'eventuale scissione degli insegnamenti elencati nell'art. 234 in piu' rami distinti, ai fini dell'insegnamento e degli esami di profitto;
+
+b) dell'eventuale raggruppamento degli insegnamenti ai fini dell'esame di profitto;
+
+c) della distribuzione degli insegnamenti nei vari anni di corso;
+
+d) degli insegnamenti integrativi che verranno impartiti nell'anno;
+
+e) dei docenti, per ciascun insegnamento, ed anno di corso:
+
+6) le modalita' e le condizioni degli esami di profitto e di diploma;
+
+7) le tasse, le soprattasse ed i contributi generali e speciali dovuti agli allievi.
+
+Art. 244. L'inclusione della scuola nello statuto dell'universita' non costituisce impegno ad impartire i relativi corsi: l'impegno e' costituito dalla pubblicazione del manifesto-programma annuale. Cio' vale sia per la scuola nel suo insieme sia per i singoli indirizzi.
+
+Art. 245. - E' prevista, a domanda dell'interessato e non oltre il termine del II anno di corso, la possibilita' di passaggio da un indirizzo ad un altro. L'accoglimento della relativa domanda, sempre subordinato alle condizioni previste dall'art. 244, ha luogo a giudizio insindacabile del consiglio della scuola e con piano di studi da stabilire caso per caso.
+
+Coloro che hanno compiuto l'intero triennio possono essere ammessi ad altro indirizzo con possibilita' di abbreviazione dei corsi, per convalida di esami gia' sostenuti secondo quanto sara' stabilito caso per caso dal consiglio della scuola.
+
+Art. 246. - Per gli allievi iscritti negli anni anteriori rimane in vigore lo statuto precedente.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fato obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 2 giugno 1972
+
+LEONE
+
+MISASI
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 3 agosto 1972 Atti del Governo, registro n. 250, foglio n. 110. - VALENTINI
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-L'art. 155, relativo all'elenco delle scuole di specializzazione in medicina e chirurgia, e' modificato nel senso che la scuola di specializzazione in malattie dell'apparato digerente muta la denominazione in quella di scuola di specializzazione in gastroenterologia ed endoscopia digestiva.  
-
-Art. 2
-------
-
+Decreta:   
   
-Gli articoli 201, 202, 203, 204, 205, 206 e 207, relativi alla scuola di specializzazione in radiologia, sono soppressi e sostituiti dai seguenti:  
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Scuola di specializzazione in radiologia  
-Art. 201. - La scuola di specializzazione in radiologia ha sede presso l'istituto di radiologia.  
-Art. 202. - La scuola conferisce i seguenti diplomi:  
-a) diploma di specializzazione in radiodiagnostica;  
-b) diploma di specializzazione in radioterapia oncologica.  
-Gli anni di studio necessari per il conseguimento di detti titoli sono quattro.  
-Art. 203. - Gli insegnamenti dei primi due anni, comuni per i due diplomi conferiti dalla scuola, sono i seguenti:  
-1° Anno:  
-fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);  
-radiobiologia, legislazione e norme generali di radioprotezione;  
-tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;  
-nozioni di anatomia e fisiologia generale.  
-2° Anno:  
-anatomia patologica;  
-apparecchiature e tecniche radiologiche;  
-semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);  
-radiopatologia;  
-dosimetria applicata.  
-Art. 204. - Gli insegnamenti per il diploma di specializzazione in radiodiagnostica sono i seguenti:  
-3° Anno:  
-tecniche speciali e relativa semeiotica I;  
-radiodiagnostica speciale dei vari organi ed apparati I.  
-4° Anno:  
-tecniche speciali e relativa semeiotica (termografia, ecografia, xerografia, TAC) II;  
-radiodiagnostica speciale dei vari organi ed apparati II.  
-Art. 205. - Gli insegnamenti per il diploma di specializzazione in radioterapia oncologica sono i seguenti:  
-3° Anno:  
-oncologia generale;  
-oncologia clinica I;  
-tecniche radioterapiche.  
-4° Anno:  
-oncologia clinica II;  
-fondamenti di terapia chirurgica dei tumori;  
-radioterapia clinica;  
-trattamento del canceroso in fase avanzata.  
-Art. 206. - I singoli insegnamenti sono tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento.  
-Art. 207. - Il numero massimo di iscritti in corso alla scuola e' di sessantaquattro da ripartirsi annualmente fra i vari corsi di diploma previsti dall'art. 202.  
-La frequenza pratica e' obbligatoria (dieci mesi all'anno) e deve avvenire in reparti riconosciuti idonei dal consiglio della scuola.  
-L'insegnamento viene svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento aperti anche a specialisti, ecc. Gli allievi per essere ammessi a sostenere gli esami delle singole materie, devono avere la firma di frequenza da parte del direttore della scuola.  
-Gli allievi, per conseguire il diploma di specializzazione, oltre essere stati approvati in tutti gli esami, devono elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola.  
-
-Art. 3
-------
-
+L'art. 122, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che la "Scuola in psicologia dell'eta' evolutiva" muta la denominazione in quella di "Scuola di specializzazione in psicologia".   
+Gli articoli 138, 139, 140, relativi alla "Scuola di specializzazione in ostetricia e ginecologia", sono abrogati e sostituiti dai seguenti con il relativo spostamento della numerazione degli articoli successivi:   
   
-L'art. 245, secondo comma, relativo alla scuola di specializzazione in chirurgia generale (prima scuola), e' modificato nel senso che il numero degli iscritti e' stabilito in 68 (sessantotto) per tutti i cinque anni di corso.  
-
-Art. 4
-------
-
+Scuola di specializzazione in ostetricia e ginecologia   
   
-L'art. 277, secondo comma, relativo alla scuola di specializzazione in psicologia, e' soppresso e sostituito dal seguente:  
+Art. 138. - Presso la clinica ostetrica e ginecologica e' istituita la scuola di specializzazione in ostetricia e ginecologia, la quale ha lo scopo di conferire adeguata competenza teorica e pratica ai laureati in medicina e chirurgia, i quali intendano conseguire il diploma di specializzazione in ostetricia e ginecologia. Direttore della scuola e' il docente designato dal consiglio di facolta'.   
+Il corso ha la durata di quattro anni.   
+Art. 139. - L'ammissione alla scuola avviene a seguito di concorso per titoli ed esami. Sono da considerarsi titoli preferenziali a parita' di risultato dell'esame di ammissione:   
   
-La durata del corso della scuola e' di tre anni. La frequenza e' obbligatoria. Non e' consentita la contemporanea iscrizione a piu' indirizzi distinti.  
-
-Art. 5
-------
-
+a) il voto di laurea in medicina e chirurgia;   
+b) aver frequentato come studente interno una clinica ostetrica e ginecologica dell'Universita';   
+c) aver svolto la tesi di laurea nella clinica ostetrica e ginecologica;   
+d) documentazione di eventuali servizi prestati in grossi reparti ospitalieri della specialita';   
+e) eventuali pubblicazioni.   
   
+L'esame di ammissione deve espletarsi entro il mese di dicembre.   
+Il numero massimo degli iscritti e' stabilito complessivamente in trentasette specializzandi.   
+Art. 140. - Per nessun motivo il corso di quattro anni puo' essere abbreviato. Nessun titolo puo' esonerare dalla frequenza gli iscritti nei quattro anni di corso.   
+Gli iscritti, oltre all'obbligo di frequenza delle lezioni, esercitazioni, seminari, ecc. devono prestare analogo servizio a quello degli assistenti per non meno di nove mesi all'anno.   
+Gli iscritti devono sostenere gli esami annuali di profitto e l'esame di diploma. La sessione di profitto e' unica ed e' espletata nel mese di ottobre.   
+Non puo' essere iscritto all'anno successivo di corso chi non abbia superato le materie fondamentali della specialita'.   
+Le norme di iscrizione, esami, pagamento tasse, frequenza, ecc. sono quelle generali delle scuole di specializzazione e di perfezionamento della facolta' di medicina e chirurgia.   
+Art. 141. - Il programma di studi e' il seguente:   
   
-Gli articoli 341, 342, 343, 344 e 345, relativi alla scuola di specializzazione in psichiatria, sono soppressi e sostituiti dai seguenti:   
-  
-Scuola di specializzazione in psichiatria   
-Art. 341. - La scuola di specializzazione in psichiatria ha sede presso la clinica psichiatrica e conferisce il diploma di specializzazione in psichiatria.   
-Art. 342. - La durata del corso di studi e' di quattro anni.   
-Art. 343. - Il numero massimo di allievi iscrivibili e' di trentotto complessivamente per l'intero corso di studi.   
-Art. 344. - Le materie di insegnamento sono le seguenti:   
 1° Anno:   
-metodologia del rapporto medico-paziente;   
-psicologia;   
-elementi di genetica e biochimica;   
-struttura e funzioni integrative del SNC;   
-neurologia clinica;   
-clinica psichiatrica I.   
+1) Elementi di genetica e di eugenica;   
+2) Anatomia normale ed embriologia dell'apparato genitale femminile;   
+3) Fisiologia dell'apparato genitale femminile;   
+4) Endocrinologia fisiologica;   
+5) Fisiologia ostetrica;   
+6) Diagnostica ostetrica;   
+7) Clinica ostetrica e ginecologica.   
+  
 2° Anno:   
-psicopatologia e psicodinamica;   
-psicoterapia I;   
-psicofarmacologia;   
-psicofarmacoterapia;   
-clinica psichiatrica II.   
+1) Tecnica operatoria ostetrica;   
+2) Diagnostica ginecologica;   
+3) Tecnica diagnostica di laboratorio nel campo ostetrico-ginecologico esclusa la istologia (sierologia, batteriologia, citologia, ematologia, biochimica);   
+4) Clinica ostetrica e ginecologica.   
+  
 3° Anno:   
-psicodiagnostica ed informatica psichiatrica;   
-psichiatria sociale I;   
-psichiatria infantile;   
-psicoterapia II;   
-clinica psichiatrica III.   
+1) Anatomia patologica ostetrica e ginecologica;   
+2) Istologia normale e patologica nel campo della specialita';   
+3) Puericultura prenatale;   
+4) Emoterapia nel campo ostetrico e ginecologico;   
+5) Anestesia e analgesia nel campo ostetrico e ginecologico;   
+6) Tecnica operatoria ginecologica;   
+7) Clinica ostetrica e ginecologica;   
+8) Terapia medica ostetrica e ginecologica.   
+  
 4° Anno:   
-psicosomatica;   
-psichiatria sociale II;   
-psichiatria forense;   
-psicoterapia III;   
-clinica psichiatrica IV.   
-Note esplicative.   
-1) Strutture e funzioni integrative del SNC: tale materia, annuale, o comprensiva dell'anatomofisiologia del SNC e della psicofisiologia.   
-2) Neurologia clinica: tale insegnamento, annuale, deve essere comprensivo, eventualmente con sottodivisioni, di cenni di anatomia patologica del SN, di semeiologia neurologica, clinica e strumentale, di neuroradiologia.   
-3) Clinica psichiatrica: tale materia, quadriennale, e' comprensiva anche degli elementi di semeiotica psichiatrica, delle tecniche laboratoristiche, delle terapie biologiche.   
-4) Psicoterapia: tale materia, triennale, comprende e considera nel corso dei tre anni, le tecniche e i principi fondamentali delle principali psicoterapie individuali, direttive e non direttive, i principi fondamentali e le dinamiche delle piu' importanti psicoterapie di gruppo, delle prassi psicoterapiche, socioterapiche e delle sociodinamiche delle istituzioni psichiatriche.   
-5) Psicodiagnostica ed informatica psichiatrica: tale materia, annuale, e' comprensiva di cenni di statistica, dei reattivi mentali e psicodiagnostica strumentale e di metodologia della ricerca psichiatrica.   
-6) Psichiatria sociale: tale materia, biennale, con molte possibilita' di suddivisioni e' comprensiva di elementi di sociologia, di antropologia culturale, di etologia, di ecologia psichiatrica, di epidemiologia psichiatrica, di psichiatria transculturale, di psichiatria preventiva e di igiene mentale, prassi ed organizzazione di assistenza psichiatrica sul territorio extra istituzionale.   
-7) Psicosomatica: tale materia, annuale, e' comprensiva degli aspetti psichici delle malattie somatiche della cosiddetta medicina integrata, della endocrinologia in riferimento alla psichiatria delle cosiddette specifiche malattie psicosomatiche.   
-Art. 345. - E' obbligatoria la frequenza per undici mesi all'anno; tale periodo comprende sia la frequenza alle lezioni, sia l'esercitazione pratica nei reparti di degenza e nelle strutture ambulatoriali a disposizione della scuola.   
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.   
-La scuola programma lo svolgimento dei corsi di insegnamento.   
-Per le materie a corso pluriennale l'esame e' unico.   
-Le lezioni teoriche sono integrate da seminari anche interdisciplinari, da documentazioni cliniche e da esperienze effettuate nei vari settori della disciplina.   
-Alla fine dei quattro anni gli allievi che hanno frequentato i corsi sono ammessi all'esame di diploma, consistente nella presentazione e discussione di una tesi scritta di argomento pertinente alla psichiatria in una prova orale e in una prova pratica.   
-
-Art. 6
-------
-
+1) Puericultura postnatale e malattie del neonato;   
+2) Ostetricia e ginecologia forense;   
+3) Diagnostica roentgen, radioterapia in ostetricia e ginecologia;   
+4) Clinica ostetrica e ginecologica (esame alla fine del IV anno);   
+5) Urologia ginecologica;   
+6) Chirurgia addominale extra genitale.   
   
-L'art. 348, relativo alla scuola di specializzazione in puericultura, e' soppresso e sostituito dal seguente:  
+Gli esami si fanno per gruppi di materie ed i membri delle commissioni saranno proposti dai direttori delle scuole.   
+A giudizio del consiglio della scuola, formulato sulla base del rendimento di ogni iscritto, gli specializzandi potranno essere esonerati dal pagamento delle tasse universitarie.   
+Per il conseguimento del diploma, l'iscritto deve presentare e discutere una dissertazione scritta con contributo-personale.   
+Art. 142. - Gli esami si fanno per gruppi di materie ed i membri della commissione saranno proposti dal direttore della scuola.   
+La commissione per l'esame di diploma e' nominata dal rettore ed e' composta di almeno cinque membri proposti dal direttore della scuola e scelti possibilmente tra gli insegnanti della scuola stessa.   
+Almeno tre membri dovranno essere professori di ruolo. Ove tra gli insegnanti della scuola non vi fossero tre professori di ruolo i mancanti verranno scelti tra i professori di ruolo, insegnanti materie affini, anche di altre facolta'.   
+Per il conseguimento del diploma l'iscritto deve presentare e discutere una dissertazione scritta con contributo personale e prove teoriche e pratiche stabilite dalla commissione giudicatrice. A coloro che abbiano superato l'esame di diploma verra' rilasciato il diploma di specializzazione in ostetricia e ginecologia a tutti gli effetti di legge.   
+Per essere ammesso all'esame di diploma gli iscritti devono aver superato tutti gli esami di profitto.   
+Gli articoli 231, 232, 233, relativi alla "Scuola di specializzazione in psicologia dell'eta' evolutiva" che muta la denominazione in quella di "Scuola di specializzazione in psicologia", sono abrogati e sostituiti dai seguenti, con il relativo spostamento della numerazione degli articoli successivi.   
   
-Durante l'anno sono svolte esercitazioni pratiche e conferenze su argomenti di puericultura. Gli iscritti hanno l'obbligo di esercitazioni pratiche nei reparti con le modalita' e l'orario che sono stabiliti dal direttore della scuola, sentito il parere della facolta'.  
-Alla fine di ognuno dei due anni gli iscritti devono sostenere l'esame sulle materie di insegnamento. Al termine del secondo anno l'allievo sostiene un esame teorico generale, mentre al termine del terzo anno egli sostiene un esame pratico, unitamente all'esame di diploma, che e' valido a tutti gli effetti di legge.  
-
-Art. 7
-------
-
+Scuola di specializzazione in psicologia   
   
-L'art. 375, relativo alla scuola di specializzazione in nefrologia, e' modificato nel senso che il numero degli iscritti e' stabilito in sedici per l'intero corso di studi.  
-
-Art. 8
-------
-
+Art. 231. - Presso l'istituto di psicologia della facolta' di medicina e chirurgia dell'Universita' di Genova, e' istituita la "Scuola di specializzazione in psicologia" la quale e' articolata nei seguenti indirizzi:   
   
-L'art. 383, quarto comma, relativo alla scuola di specializzazione in chirurgia generale (seconda scuola), e' modificato nel senso che il numero degli iscritti e' stabilito in cinquantadue per tutti i cinque anni di corso.  
-
-Art. 9
-------
-
+a) medico;   
+b) differenziale e scolastico;   
+c) industriale e del lavoro;   
+d) sociale.   
   
+La durata del corso della scuola e' di tre anni. La frequenza e' obbligatoria. Non sono consentite abbreviazioni di corso se non nei casi previsti dall'art. 245; ne' e' consentita la contemporanea iscrizione a piu' indirizzi distinti.   
+La scuola conferisce il diploma di "Specialista in psicologia" con l'indicazione dell'indirizzo seguito.   
+Il diploma, valido a tutti gli effetti della legge, viene rilasciato all'allievo in rapporto all'indirizzo prescelto, seguito e concluso positivamente negli esami di profitto e di diploma.   
+Art. 232. - Titoli per l'ammissione alla scuola sono:   
   
-Gli articoli 389, 390, 391, 392 e 393, relativi alla scuola di specializzazione in malattie dell'apparato digerente, che muta la denominazione in quella di scuola di specializzazione in gastroenterologia ed endoscopia digestiva, sono soppressi e sostituiti dai seguenti:   
+a) per l'indirizzo "medico", la laurea in medicina e chirurgia;   
+b) per gli altri indirizzi, il diploma di laurea rilasciato da qualsiasi facolta' di una universita' italiana di Stato o ad essa parificata, ovvero un titolo straniero equipollente.   
   
-Scuola di specializzazione in gastroenterologia ed endoscopia   
-digestiva   
-Art. 389. - La scuola di specializzazione in gastroenterologia ed endoscopia digestiva ha sede presso l'istituto scientifico di medicina interna e conferisce il diploma di specializzazione in gastroenterologia ed endoscopia digestiva.   
-Art. 390. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Art. 391. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
-Il numero massimo di allievi iscrivibili e' di ventitre complessivamente per i quattro anni di corso.   
-L'ammissione al corso avviene per titoli ed esami.   
-Art. 392. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-anatomia clinica;   
-farmacologia clinica;   
-chimica clinica, coprologia, parassitologia;   
-genetica;   
-biostatistica ed epidemiologia.   
-2° Anno:   
-clinica medica generale I;   
-clinica e terapia del tubo digerente, fegato e pancreas I;   
-anatomia ed istologia patologica I;   
-fisiopatologia e semeiotica digestiva I;   
-radiologia e medicina nucleare I;   
-scienza dell'alimentazione e dietetica.   
-3° Anno:   
-clinica medica generale II;   
-clinica e terapia del tubo digerente, fegato e pancreas II;   
-anatomia ed istologia patologica II;   
-fisiopatologia e semeiotica digestiva II;   
-radiologia e medicina nucleare II;   
-endoscopia digestiva I.   
-4° Anno:   
-clinica medica generale III;   
-clinica e terapia del tubo digerente, fegato e pancreas III;   
-endoscopia digestiva II;   
-terapia intensiva;   
-gastroenterologia pediatrica;   
-elementi di chirurgia del tubo digerente, fegato e pancreas.   
-Art. 393. - E' obbligatorio il tirocinio pratico durante il quadriennio di studi da svolgere nell'istituto clinico sede della scuola o in reparti ospedalieri di gastroenterologia, conforme alle scelte approvate dal consiglio della scuola.   
-Ogni scuola puo' aggiungere a queste materie fondamentali obbligatorie delle materie complementari con corsi semestrali, in numero non superiore a sei per la totalita' del corso.   
-Per le materie biennali e triennali e' dato l'esame alla fine del biennio o triennio.   
-La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.   
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.   
-Per quanto attiene alle modalita' per il superamento degli esami annuali e di diploma, vedasi le norme generali per le scuole di specializzazione della facolta' di medicina e chirurgia contemplate dal presente statuto.   
-
-Art. 10
--------
-
+Nella domanda di ammissione alla scuola, deve essere specificato l'indirizzo che si desidera seguire.   
+Nel caso di domande di iscrizione eccedenti il numero massimo stabilito dal consiglio della scuola e indicato nel manifesto-programma annuale di cui all'art. 243 il consiglio stesso procedera' all'accettazione delle domande attraverso un concorso di merito, le cui modalita' verranno fissate nello stesso manifesto annuale. Indipendentemente dalla limitazione delle iscrizioni, il consiglio della scuola puo' subordinare l'ammissione ad una prova di idoneita'.   
+Art. 233. - Il corso e' costituito da lezioni teoriche, esercitazioni pratiche, tirocini, seminari conferenze; la attivita' didattica viene svolta per un numero di ore non inferiore alle venti settimanali, per tutta la durata dell'anno accademico.   
+Gli insegnamenti statutari sono suddivisi in tre gruppi:   
   
-L'[art. 416 del decreto del Presidente della Repubblica 31 ottobre 1978, n. 997](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-10-31;997~art416), relativo alla scuola di specializzazione in patologia della riproduzione umana, e' modificato nel senso che il secondo comma e' soppresso.  
+a) insegnamenti comuni a tutti gli indirizzi sopra indicati: tali insegnamenti sono obbligatori per tutti gli allievi, qualunque sia l'indirizzo prescelto;   
+b) insegnamenti specifici, peculiari a ciascuno dei singoli indirizzi indicati nell'art. 231 e nel, successivo art. 234; tali insegnamenti sono obbligatori nell'ambito dell'indirizzo prescelto;   
+c) insegnamenti integrativi. Gli insegnamenti di cui ai punti a) e b) sono fissati nello statuto, il quale stabilisce altresi' la distribuzione degli insegnamenti stessi nei vari anni.   
+  
+Gli insegnamenti di cui al punto c) vengono stabiliti anno per anno dal consiglio della scuola e pubblicati nel manifesto-programma annuale, insieme all'elenco degli insegnamenti di cui ai punti a) e b).   
+Art. 234. - Gli insegnamenti comuni di cui al punto a) dell'articolo precedente sono:   
+  
+1) Metodologia generale e speciale della ricerca psicologica (triennale: I, II, III anno);   
+2) Metodologia statistica generale e psicometria (annuale: I anno);   
+3) Psicologia generale (triennale: I, II e III anno);   
+4) Teorie della personalita' (biennale: I e II anno);   
+5) Psicologia dinamica (annuale: II anno);   
+6) Psicologia differenziale (annuale: I anno);   
+7) Psicologia sociale (biennale: I e II anno);   
+8) Tecniche psicodiagnostiche (biennale: I e II anno).   
+  
+Gli insegnamenti specifici di cui al punto b) dell'articolo 233, sono:   
+  
+A) per l'indirizzo medico:   
+  
+1) Psicologia dello sviluppo (biennale: I e II anno);   
+2) Psicofisiologia (annuale: I anno);   
+3) Psicofarmacologia (annuale: II anno);   
+4) Psicopatologia e neuropsichiatria (biennale: I e II anno);   
+5) Medicina psicosomatica (annuale: III anno);   
+6) Psicologia clinica (biennale: II e III anno);   
+7) Psicoterapia (biennale: II e III anno);   
+8) Psicologia criminologica, giudiziaria e penitenziaria (annuale: III anno);   
+9) Igiene mentale (annuale: II anno).   
+  
+B) per l'indirizzo differenziale e scolastico:   
+  
+1) Fondamenti di biologia generale e di anatomia e fisiologia umana (biennale: I e II anno);   
+2) Psicologia dell'eta' evolutiva (triennale: I, II e III anno);   
+3) Pedagogia (annuale: I anno);   
+4) Istituzioni di psicopatologia e di igiene mentale (annuale:  
+I anno);   
+5) Psicologia pedagogica (annuale: I anno);   
+6) Psicologia del disadattamento scolastico e professionale nell'eta' evolutiva (annuale: II anno);   
+7) Docimologia e tecniche della valutazione scolastica (annuale: II anno);   
+8) Tecniche psicodiagnostiche individuali e di gruppo (biennale: II e III anno);   
+9) Orientamento scolastico e professionale (annuale: III anno).   
+  
+C) per l'indirizzo industriale e del lavoro:   
+  
+1) Fondamenti di biologia generale e di anatomia e fisiologia umana (biennale: I e II anno);   
+2) Istituzioni di psicopatologia e di igiene mentale (annuale:  
+I anno);   
+3) Psicologia del lavoro (annuale: I anno);   
+4) Metodologia statistica e psicometria (corso avanzato, annuale: II anno);   
+5) Ergonomia (annuale: I anno);   
+6) Analisi e valutazione delle mansioni e profili professionali (annuale: II anno);   
+7) Psicologia del disadattamento lavorativo (annuale: III anno).   
+  
+D) per l'indirizzo sociale:   
+  
+1) Antropologia culturale (annuale: I anno);   
+2) Sociologia (annuale: I anno);   
+3) Psicologia della comunicazione (biennale: I e II anno);   
+4) Tecniche quantitative dell'indagine psicosociale (annuale:  
+II anno);   
+5) Ricerca motivazionale (annuale: II anno);   
+6) Psicologia sociale, corso avanzato (annuale: III anno);   
+7) Dinamiche di gruppo (annuale: III anno);   
+8) Tecniche di studio dell'opinione pubblica (annuale: III anno);   
+9) Patologia e controllo sociale (annuale: III anno).   
+  
+Gli insegnamenti integrativi (annuali) di cui al punto c) dell'art. 233, vanno scelti nell'ambito dell'elenco che segue:   
+  
+Storia della psicologia;   
+Filosofia della scienza;   
+Cibernetica;   
+Psicologia zoologica;   
+Psicolinguistica;   
+Organizzazione sanitaria;   
+Organizzazione scolastica;   
+Auxologia;   
+Neuropsichiatria infantile;   
+Pedagogia speciale e differenziale;   
+Igiene generale;   
+Medicina del lavoro;   
+Legislazione sanitaria;   
+Legislazione scolastica;   
+Legislazione del lavoro;   
+Deontologia professionale;   
+Sessuologia;   
+Psicogerontologia;   
+Statistica economica;   
+Psicologia, della propaganda;   
+Psicologia dello sport;   
+Psicologia e pedagogia della comunicazione di massa;   
+Filmologia;   
+Istruzione programmata;   
+Psicologia della didattica e dell'apprendimento scolastico;   
+Infortunistica del lavoro;   
+Psicologia economica.   
+  
+Gli insegnamenti specifici di ciascuno dei quattro indirizzi, possono valere come integrativi per gli altri indirizzi che non li comprendano; sempre naturalmente nel caso che il funzionamento degli indirizzi stessi sia previsto dal manifesto-programma annuale.   
+Il manifesto-programma annuale, di cui all'art. 243, indichera' quali indirizzi verranno realizzati e quali insegnamenti integrativi verranno impartiti dalla scuola, durante l'anno accademico.   
+L'eventuale scissione degli insegnamenti in piu' rami distinti, ai fini sia dell'insegnamento che degli esami di profitto, ovvero l'eventuale loro raggruppamento ai fini degli esami risulteranno dal manifesto-programma annuale di cui all'art. 243.   
+Art. 235. - Gli esami sono di profitto e di diploma. Per essere ammesso agli esami annuali di profitto l'allievo deve aver frequentato assiduamente le lezioni, le esercitazioni, i tirocini, i seminari, ecc. svolti dalla scuola nei relativi anni di corso.   
+Per essere ammesso all'esame di diploma, l'allievo, oltre ad aver adempiuto a tutti gli obblighi di frequenza ed esame dei vari insegnamenti comuni e specifici e di almeno due degli insegnamenti integrativi, ed aver effettuato le esercitazioni prescritte deve presentare una dissertazione scritta nonche' una relazione riassuntiva sulle esercitazioni e su eventuali tirocini effettuati nell'intero triennio.   
+L'esame di diploma consiste nella discussione della tesi e della relazione e, eventualmente, di una o piu' prove pratiche stabilite dal consiglio della scuola.   
+Art. 236. - Direttore della scuola e' il professore di ruolo titolare della cattedra di psicologia della facolta' di medicina e chirurgia.   
+Il direttore della scuola, su conforme parere del consiglio della scuola stessa, puo' proporre che un docente di essa assuma le funzioni di vicedirettore, con l'incarico annuale (riconfermabile) di coadiuvarlo e di sostituirlo; alla relativa nomina provvede il rettore.   
+Art. 237. - I docenti della scuola sono scelti fra i professori universitari di psicologia (di ruolo, fuori-ruolo, aggregati, incaricati, liberi, docenti), fra gli specializzati in psicologia e fra coloro che, per opere, uffici o insegnamenti tenuti siano di riconosciuta competenza ed esperienza nelle discipline che formano oggetto dei corsi della scuola.   
+Alla nomina dei docenti provvede il rettore, su proposta presentata annualmente dal direttore della scuola e su parere conforme del consiglio della scuola stessa e della facolta'.   
+Art. 238. - Per i problemi riguardanti l'organizzazione didattica, il direttore e' assistito da un consiglio della scuola, composto dal direttore stesso che lo presiede dal vice-direttore, che presiede le adunanze del consiglio in caso di assenza o di impedimento del direttore, e da tutti i docenti che abbiano avuto regolare nomina rettorale.   
+Su proposta del direttore e sentito il parere del consiglio, uno dei docenti assolve anche le funzioni di segretario delle adunanze del consiglio stesso: alla relativa nomina provvede il rettore.   
+Art. 239. - Spetta al consiglio della scuola:   
+  
+1) determinare, coordinare, approvare i programmi dei corsi teorici, delle esercitazioni, dei tirocini, dei seminari, ecc., relativi sia agli insegnamenti comuni sia a quelli specifici, sia a quelli integrativi;   
+2) esprimere il proprio parere sulle proposte del direttore della scuola relativamente alla designazione dei docenti, da sottoporre quindi alla nomina rettorale dopo l'approvazione delle facolta';   
+3) determinare, coordinare, approvare gli orari dei vari insegnamenti, esercitazioni, seminari, ecc. e il diario e le modalita' degli esami, sia di profitto, che di diploma e la composizione delle relative commissioni;   
+4) stabilire le eventuali prove pratiche da far sostenere agli allievi in occasione dell'esame di diploma;   
+5) riferire sulle domande di trasferimento di allievi di scuole di specializzazione in psicologia da una universita' o facolta' ad un'altra e deliberare circa il passaggio da un indirizzo all'altro della scuola stessa, conformemente a quanto stabilito dall'art. 245, determinandone gli eventuali ulteriori obblighi di frequenza e di esame;   
+6) determinare il numero massimo (in ogni caso non superiore a dieci) ed eventualmente il numero minimo degli allievi che possono essere iscritti al primo anno di corso, in ogni caso, data la disponibilita' delle attrezzature dell'istituto di psicologia della facolta' di medicina, il numero massimo di iscritti complessivamente nel triennio non dovra' eccedere i trenta, sia che funzioni un solo indirizzo, sia che ne funzioni piu' di uno;   
+7) stabilire la composizione della commissione per l'esame di concorso di merito di cui al comma, terzo dell'art. 232 della commissione per le eventuali prove di idoneita' di cui allo stesso comma dell'art. 232 nonche' le modalita' dei relativi concorsi o prova.   
+  
+Art. 240. - Il funzionamento amministrativo della scuola e' determinato, in armonia con le vigenti disposizioni sulle scuole di specializzazione, da un regolamento interno emanato dal rettore su proposta del direttore della scuola.   
+Art. 241. - Le entrate della scuola sono costituite dall'apposito contributo per la scuola di specializzazione e da altre eventuali erogazioni dello Stato e di enti pubblici e privati.   
+Art. 242. - Le norme di iscrizione, pagamento tasse, ecc. sono quelle generali delle scuole di specializzazione e di perfezionamento riferite negli articoli da 122 a 137 dello statuto dell'universita'.   
+Art. 243. - Il direttore della scuola - di concerto col vice direttore e sulla base delle deliberazioni del consiglio della scuola - compila ogni anno il relativo manifesto-programma che, previa approvazione della facolta' di medicina e chirurgia sara' reso di pubblica ragione.   
+Nel manifesto viene specificato:   
+  
+1) l'indirizzo o gli indirizzi della scuola che saranno aperti nell'imminente anno accademico;   
+2) il numero massimo (in ogni caso non superiore a dieci) e, eventualmente, quello minimo di domande di iscrizione che verranno accettate;   
+3) le modalita' del concorso di merito in caso di domande eccedenti il numero massimo di iscrizioni consentite;   
+4) l'eventuale indicazione di prove di idoneita' per l'ammissione alla scuola, conformemente al comma terzo dell'art. 232.   
+5) l'ordine degli studi, con l'indicazione;   
+a) dell'eventuale scissione degli insegnamenti elencati nell'art. 234 in piu' rami distinti, ai fini dell'insegnamento e degli esami di profitto;   
+b) dell'eventuale raggruppamento degli insegnamenti ai fini dell'esame di profitto;   
+c) della distribuzione degli insegnamenti nei vari anni di corso;  
+d) degli insegnamenti integrativi che verranno impartiti nell'anno;   
+e) dei docenti, per ciascun insegnamento, ed anno di corso:   
+6) le modalita' e le condizioni degli esami di profitto e di diploma;   
+7) le tasse, le soprattasse ed i contributi generali e speciali dovuti agli allievi.   
+  
+Art. 244. L'inclusione della scuola nello statuto dell'universita' non costituisce impegno ad impartire i relativi corsi: l'impegno e' costituito dalla pubblicazione del manifesto-programma annuale. Cio' vale sia per la scuola nel suo insieme sia per i singoli indirizzi.   
+Art. 245. - E' prevista, a domanda dell'interessato e non oltre il termine del II anno di corso, la possibilita' di passaggio da un indirizzo ad un altro. L'accoglimento della relativa domanda, sempre subordinato alle condizioni previste dall'art. 244, ha luogo a giudizio insindacabile del consiglio della scuola e con piano di studi da stabilire caso per caso.   
+Coloro che hanno compiuto l'intero triennio possono essere ammessi ad altro indirizzo con possibilita' di abbreviazione dei corsi, per convalida di esami gia' sostenuti secondo quanto sara' stabilito caso per caso dal consiglio della scuola.   
+Art. 246. - Per gli allievi iscritti negli anni anteriori rimane in vigore lo statuto precedente.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fato obbligo a chiunque spetti di osservarlo e di farlo osservare.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 ottobre 1979
+### Dato a Roma, addi' 2 giugno 1972
 
-PERTINI VALITUTTI
+LEONE MISASI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 28 novembre 1979
+Registrato alla Corte dei conti, addi' 3 agosto 1972
 
-Registro n. 92 Istruzione, foglio n. 324
+Atti del Governo, registro n. 250, foglio n. 110. - VALENTINI

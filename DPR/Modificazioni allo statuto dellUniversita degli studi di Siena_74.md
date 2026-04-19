@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1087
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1978 n. 412
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1087
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1978 n. 412
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Siena.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395) e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -22,149 +22,350 @@ Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademi
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Siena e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
+Sentito il parere del Consiglio superiore della superiore della proposta del Ministro della pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Dopo l'art. 120, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in storia dell'arte medioevale e moderna presso la facolta' di lettere e filosofia.
+Gli articoli 145, 146 e 147, relativi alla scuola di specializzazione in clinica pediatrica, che muta la denominazione in quella di scuola di specializzazione in pediatria, sono abrogati e sostituiti dai seguenti:
 
-Art. 121. - Alla facolta' di lettere e filosofia e' annessa la scuola di specializzazione in storia dell'arte medioevale e moderna, della durata di due anni.
+Scuola di specializzazione in pediatria
 
-Art. 122. - Il direttore della scuola e' nominato dal consiglio di facolta' fra i docenti ufficiali di materie storico-artistiche facenti parte dell'istituto di storia dell'arte.
+Art. 145. - La scuola di specializzazione in pediatria ha sede presso l'istituto di clinica pediatrica e conferisce il diploma di specialista in pediatria.
 
-Art. 123. - Alla scuola possono accedere i laureati in lettere, in filosofia, in storia, in materie letterarie che abbiano discusso una tesi di argomento storico - artistico. Possono inoltre essere ammessi, dopo aver sostenuto un colloquio con il direttore della scuola affiancato da due docenti della scuola stessa, anche laureati in altre discipline con tesi su argomento diverso qualora la loro preparazione risulti sufficiente.
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione, o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
 
-Art. 124. - Il numero degli iscritti alla scuola e' fissato ad un massimo di venti per ogni anno di corso.
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.
 
-Art. 125. - Alla fine del primo anno accademico gli iscritti dovranno aver sostenuto almeno tre esami per poter essere ammessi al secondo anno.
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalla autorita' competente.
 
-Art. 126. - Alla fine del secondo anno gli specializzandi dovranno sostenere la discussione di una tesi su di un argomento di storia dell'arte medioevale o moderna precedentemente concordato con il direttore della scuola ed almeno uno dei docenti. La tesi deve essere approvata dallo stesso direttore e depositata presso la direzione almeno quindici giorni prima dell'esame di diploma.
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.
 
-Art. 127. - Il corso di studi e' suddiviso in due indirizzi: medioevale e moderno. Il diploma rilasciato dopo la discussione delle tesi e' specifico.
+Il numero massimo degli allievi e' di 10 per anno di corso e complessivamente di 40 per l'intero corso di studi.
 
-Art. 128. - Le materie di insegnamento sono le seguenti:
+L'ammissione al corso avviene per titoli ed esami.
 
-INDIRIZZO MEDIOEVALE
-
-1° Anno:
-
-1) archeologia e storia dell'arte greca e romana o storia della tradizione classica nell'arte europea;
-
-2) storia dell'arte medioevale;
-
-3) storia dell'arte bizantina.
-
-2° Anno:
-
-1) storia della miniatura e delle arti minori;
-
-2) informatica applicata;
-
-3) iconografia e iconologia.
-
-INDIRIZZO MODERNO
+Art. 146. - Le materie di insegnamento sono le seguenti:
 
 1° Anno:
 
-1) storia dell'arte moderna;
+genetica;
 
-2) storia dell'arte contemporanea;
+auxologia;
 
-3) storia della critica d'arte.
+alimentazione;
+
+epidemiologia;
+
+malattie infettive;
+
+clinica pediatrica I.
 
 2° Anno:
 
-1) storia delle arti minori;
+radiologia;
 
-2) informatica applicata;
+legislazione del minore;
 
-3) iconografia e iconologia.
+organizzazione sanitaria;
 
-Art. 129. - Le tasse, soprattasse e contributi della scuola di specializzazione in storia dell'arte medioevale e moderna sono cosi' fissati:
+psicologia pediatrica;
 
-immatricolazione. . . . . . . . . . . . . . . . . . . . . . L. 15.000 tassa annuale di iscrizione. . . . . . . . . . . . . . . . . " 60.000 soprattassa annuale di esame . . . . . . . . . . . . . . . . " 20.000 tassa di diploma . . . . . . . . . . . . . . . . . . . . . . " 30.000
+oculistica e ortottica;
+
+otorino e foniatria;
+
+odonto;
+
+neonatologia I;
+
+chirurgia pediatrica I;
+
+pediatria preventiva e sociale I;
+
+clinica pediatrica II.
+
+3° Anno:
+
+neurologia;
+
+psichiatria infantile;
+
+nefrologia e urologia;
+
+ginecologia pediatrica;
+
+neonatologia II;
+
+chirurgia pediatrica II;
+
+pediatria preventiva e sociale II;
+
+cardiologia I;
+
+endocrinologia I;
+
+ematologia I;
+
+immunologia I;
+
+gastroenterologia I;
+
+clinica pediatrica III.
+
+4° Anno:
+
+oncologia;
+
+pneumologia;
+
+ortopedia e traumatologia;
+
+dermatologia;
+
+cardiologia II;
+
+endocrinologia II;
+
+ematologia II;
+
+immunologia II;
+
+gastroenterologia II;
+
+clinica pediatrica IV.
+
+Art. 147. - La frequenza alle lezioni, alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto, non potranno essere ammessi a sostenere le prove di esame.
+
+Alla fine di ciascun anno di corso gli iscritti per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
+
+Al termine del corso di studi per il conseguimento del diploma di specialista in pediatria, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+
+Le tasse, soprattasse e contributi della scuola di specializzazione in pediatria sono cosi' fissate:
+
+immatricolazione. . . . . . . . . . . . . . . . . . . . L. 12.000 tassa annuale di iscrizione. . . . . . . . . . . . . . L. 200.000 soprattassa annuale di esame. . . . . . . . . . . . . . L. 16.000 contributi annui di laboratorio . . . . . . . . . . . . L. 14.000 tassa di diploma. . . . . . . . . . . . . . . . . . . . L. 20.000
+
+L'art. 151, relativo alla scuola di specializzazione in anestesiologia e rianimazione, che muta la denominazione in quella di scuola di specializzazione in anestesia e rianimazione, e' abrogato e sostituito dal seguente:
+
+Scuola di specializzazione in anestesia e rianimazione
+
+Art. 151. - La scuola di specializzazione in anestesia e rianimazione ha sede presso l'istituto di anestesiologia e rianimazione e conferisce il diploma di specialista in anestesia e rianimazione.
+
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.
+
+E' richiesto, almeno per l'inizio del corso, il possesso di diploma di abilitazione all'esercizio professionale rilasciato dalla autorita' competente.
+
+La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazione.
+
+Il numero massimo degli allievi e' di 30 per anno di corso e complessivamente di 90 iscritti per l'intero corso di studi.
+
+L'ammissione al corso avviene per titoli ed esami.
+
+Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+anatomia applicata all'anestesia ed alla rianimazione;
+
+biochimica applicata all'anestesia ed alla rianimazione;
+
+farmacologia applicata all'anestesia ed alla rianimazione;
+
+fisica applicata all'anestesia ed alla rianimazione;
+
+fisiologia applicata all'anestesia ed alla rianimazione;
+
+anestesiologia I;
+
+tecniche chirurgiche di interesse anestesiologico;
+
+aspetti medico-legali dell'anestesia e della rianimazione;
+
+esercitazioni pratiche.
+
+2° Anno:
+
+anestesiologia II;
+
+terapia antalgica;
+
+rianimazione I;
+
+esercitazioni pratiche.
+
+3° Anno:
+
+rianimazione II;
+
+tecniche speciali di anestesia;
+
+tecniche speciali di rianimazione;
+
+indagini diagnostiche attinenti alla specialita';
+
+esercitazioni pratiche.
+
+La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.
+
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno.
+
+Per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi.
+
+Al termine del corso di studi per il conseguimento del diploma di specialista in anestesia e rianimazione gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+
+Le tasse, soprattasse e contributi della scuola di specializzazione in anestesia e rianimazione sono cosi' fissate:
+
+immatricolazione. . . . . . . . . . . . . . . . . . . . L. 12.000 tassa annuale di iscrizione. . . . . . . . . . . . . . L. 200.000 soprattassa annuale di esame. . . . . . . . . . . . . . L. 16.000 contributi annui di laboratorio . . . . . . . . . . . . L. 14.000 tassa di diploma. . . . . . . . . . . . . . . . . . . . L. 20.000
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 31 ottobre 1977
+Dato a Roma, addi' 10 aprile 1978
 
 LEONE
 
-MALFATTI
+PEDINI
 
 Visto, il Guardasigilli: BONIFACIO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 10 febbraio 1978 Registro n. 14 Istruzione, foglio n. 105
+alla Corte dei conti, addi' 15 luglio 1978 Registro n. 75 Istruzione, foglio n. 320
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Siena e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Sentito il parere del Consiglio superiore della superiore della proposta del Ministro della pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli 145, 146 e 147, relativi alla scuola di specializzazione in clinica pediatrica, che muta la denominazione in quella di scuola di specializzazione in pediatria, sono abrogati e sostituiti dai seguenti:  
   
-Dopo l'art. 120, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in storia dell'arte medioevale e moderna presso la facolta' di lettere e filosofia.  
-Art. 121. - Alla facolta' di lettere e filosofia e' annessa la scuola di specializzazione in storia dell'arte medioevale e moderna, della durata di due anni.  
-Art. 122. - Il direttore della scuola e' nominato dal consiglio di facolta' fra i docenti ufficiali di materie storico-artistiche facenti parte dell'istituto di storia dell'arte.  
-Art. 123. - Alla scuola possono accedere i laureati in lettere, in filosofia, in storia, in materie letterarie che abbiano discusso una tesi di argomento storico - artistico. Possono inoltre essere ammessi, dopo aver sostenuto un colloquio con il direttore della scuola affiancato da due docenti della scuola stessa, anche laureati in altre discipline con tesi su argomento diverso qualora la loro preparazione risulti sufficiente.  
-Art. 124. - Il numero degli iscritti alla scuola e' fissato ad un massimo di venti per ogni anno di corso.  
-Art. 125. - Alla fine del primo anno accademico gli iscritti dovranno aver sostenuto almeno tre esami per poter essere ammessi al secondo anno.  
-Art. 126. - Alla fine del secondo anno gli specializzandi dovranno sostenere la discussione di una tesi su di un argomento di storia dell'arte medioevale o moderna precedentemente concordato con il direttore della scuola ed almeno uno dei docenti. La tesi deve essere approvata dallo stesso direttore e depositata presso la direzione almeno quindici giorni prima dell'esame di diploma.  
-Art. 127. - Il corso di studi e' suddiviso in due indirizzi: medioevale e moderno. Il diploma rilasciato dopo la discussione delle tesi e' specifico.  
-Art. 128. - Le materie di insegnamento sono le seguenti:  
+Scuola di specializzazione in pediatria  
   
-INDIRIZZO MEDIOEVALE  
-  
+Art. 145. - La scuola di specializzazione in pediatria ha sede presso l'istituto di clinica pediatrica e conferisce il diploma di specialista in pediatria.  
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione, o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalla autorita' competente.  
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.  
+Il numero massimo degli allievi e' di 10 per anno di corso e complessivamente di 40 per l'intero corso di studi.  
+L'ammissione al corso avviene per titoli ed esami.  
+Art. 146. - Le materie di insegnamento sono le seguenti:  
 1° Anno:  
-1) archeologia e storia dell'arte greca e romana o storia della tradizione classica nell'arte europea;  
-2) storia dell'arte medioevale;  
-3) storia dell'arte bizantina.  
+genetica;  
+auxologia;  
+alimentazione;  
+epidemiologia;  
+malattie infettive;  
+clinica pediatrica I.  
 2° Anno:  
-1) storia della miniatura e delle arti minori;  
-2) informatica applicata;  
-3) iconografia e iconologia.  
+radiologia;  
+legislazione del minore;  
+organizzazione sanitaria;  
+psicologia pediatrica;  
+oculistica e ortottica;  
+otorino e foniatria;  
+odonto;  
+neonatologia I;  
+chirurgia pediatrica I;  
+pediatria preventiva e sociale I;  
+clinica pediatrica II.  
+3° Anno:  
+neurologia;  
+psichiatria infantile;  
+nefrologia e urologia;  
+ginecologia pediatrica;  
+neonatologia II;  
+chirurgia pediatrica II;  
+pediatria preventiva e sociale II;  
+cardiologia I;  
+endocrinologia I;  
+ematologia I;  
+immunologia I;  
+gastroenterologia I;  
+clinica pediatrica III.  
+4° Anno:  
+oncologia;  
+pneumologia;  
+ortopedia e traumatologia;  
+dermatologia;  
+cardiologia II;  
+endocrinologia II;  
+ematologia II;  
+immunologia II;  
+gastroenterologia II;  
+clinica pediatrica IV.  
+Art. 147. - La frequenza alle lezioni, alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto, non potranno essere ammessi a sostenere le prove di esame.  
+Alla fine di ciascun anno di corso gli iscritti per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.  
+Al termine del corso di studi per il conseguimento del diploma di specialista in pediatria, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
+Le tasse, soprattasse e contributi della scuola di specializzazione in pediatria sono cosi' fissate:  
   
-INDIRIZZO MODERNO  
+immatricolazione. . . . . . . . . . . . . . . . . . . . L. 12.000 tassa annuale di iscrizione. . . . . . . . . . . . . . L. 200.000 soprattassa annuale di esame. . . . . . . . . . . . . . L. 16.000 contributi annui di laboratorio . . . . . . . . . . . . L. 14.000 tassa di diploma. . . . . . . . . . . . . . . . . . . . L. 20.000   
+L'art. 151, relativo alla scuola di specializzazione in anestesiologia e rianimazione, che muta la denominazione in quella di scuola di specializzazione in anestesia e rianimazione, e' abrogato e sostituito dal seguente:  
   
+Scuola di specializzazione in anestesia e rianimazione  
+  
+Art. 151. - La scuola di specializzazione in anestesia e rianimazione ha sede presso l'istituto di anestesiologia e rianimazione e conferisce il diploma di specialista in anestesia e rianimazione.  
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno per l'inizio del corso, il possesso di diploma di abilitazione all'esercizio professionale rilasciato dalla autorita' competente.  
+La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazione.  
+Il numero massimo degli allievi e' di 30 per anno di corso e complessivamente di 90 iscritti per l'intero corso di studi.  
+L'ammissione al corso avviene per titoli ed esami.  
+Le materie di insegnamento sono le seguenti:  
 1° Anno:  
-1) storia dell'arte moderna;  
-2) storia dell'arte contemporanea;  
-3) storia della critica d'arte.  
+anatomia applicata all'anestesia ed alla rianimazione;  
+biochimica applicata all'anestesia ed alla rianimazione;  
+farmacologia applicata all'anestesia ed alla rianimazione;  
+fisica applicata all'anestesia ed alla rianimazione;  
+fisiologia applicata all'anestesia ed alla rianimazione;  
+anestesiologia I;  
+tecniche chirurgiche di interesse anestesiologico;  
+aspetti medico-legali dell'anestesia e della rianimazione;  
+esercitazioni pratiche.  
 2° Anno:  
-1) storia delle arti minori;  
-2) informatica applicata;  
-3) iconografia e iconologia.  
-Art. 129. - Le tasse, soprattasse e contributi della scuola di specializzazione in storia dell'arte medioevale e moderna sono cosi' fissati:  
+anestesiologia II;  
+terapia antalgica;  
+rianimazione I;  
+esercitazioni pratiche.  
+3° Anno:  
+rianimazione II;  
+tecniche speciali di anestesia;  
+tecniche speciali di rianimazione;  
+indagini diagnostiche attinenti alla specialita';  
+esercitazioni pratiche.  
+La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.  
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
+Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno.  
+Per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi.  
+Al termine del corso di studi per il conseguimento del diploma di specialista in anestesia e rianimazione gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
+Le tasse, soprattasse e contributi della scuola di specializzazione in anestesia e rianimazione sono cosi' fissate:  
   
-immatricolazione. . . . . . . . . . . . . . . . . . . . . . L. 15.000 tassa annuale di iscrizione. . . . . . . . . . . . . . . . . " 60.000 soprattassa annuale di esame . . . . . . . . . . . . . . . . " 20.000 tassa di diploma . . . . . . . . . . . . . . . . . . . . . . " 30.000   
+immatricolazione. . . . . . . . . . . . . . . . . . . . L. 12.000 tassa annuale di iscrizione. . . . . . . . . . . . . . L. 200.000 soprattassa annuale di esame. . . . . . . . . . . . . . L. 16.000 contributi annui di laboratorio . . . . . . . . . . . . L. 14.000 tassa di diploma. . . . . . . . . . . . . . . . . . . . L. 20.000   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1977
+### Dato a Roma, addi' 10 aprile 1978
 
-LEONE MALFATTI
+LEONE PEDINI
 
 Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 10 febbraio 1978
+Registrato alla Corte dei conti, addi' 15 luglio 1978
 
-Registro n. 14 Istruzione, foglio n. 105
+Registro n. 75 Istruzione, foglio n. 320

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 473
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 dicembre 1983 n. 1056
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 473
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 dicembre 1983 n. 1056
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
 ------------------------------------------------------------------------------
@@ -39,23 +39,19 @@ Articolo unico
 --------------
 
   
-Art. 147 - nell'elenco degli insegnamenti complementari della facolta' di ingegneria sono inseriti i seguenti insegnamenti:  
-optoelettronica;  
-apparecchiature oleodinamiche.  
-Nel medesimo elenco sono soppressi i seguenti insegnamenti:  
-optoelettronica (semestrale);  
-apparecchiature oleodinamiche (semestrale).  
+Art. 115 - nell'elenco degli insegnamenti complementari del corso di laurea in scienze naturali e' inserito l'insegnamento di "biologia marina".  
+Art. 117 - nell'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche e' inserito l'insegnamento di "biologia marina".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 giugno 1983
+### Dato a Roma, addi' 19 dicembre 1983
 
 PERTINI FALCUCCI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 17 agosto 1983
+Registrato alla Corte dei conti, addi' 29 febbraio 1984
 
-Registro n. 59 Istruzione, foglio n. 141
+Registro n. 13 Istruzione, foglio n. 69

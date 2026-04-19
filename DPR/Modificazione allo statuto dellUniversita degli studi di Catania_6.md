@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1983 n. 1103
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 396
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1983 n. 1103
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 396
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
@@ -39,25 +39,21 @@ Articolo unico
 --------------
 
   
-Nell'art. 51, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-igiene ambientale e del territorio;  
-igiene degli alimenti;  
-fisiopatologia clinica;  
-neurologia pediatrica;  
-scienza dell'ortogenesi;  
-ematologia pediatrica;  
-cardiologia pediatrica.  
+Nell'art. 50, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+terapia neurologica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 aprile 1983
+### Dato a Roma, addi' 9 aprile 1986
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 22 marzo 1984
+Registrato alla Corte dei conti, addi' 11 luglio 1986
 
-Registro n. 17 Istruzione, foglio n. 363
+Registro n. 55 Istruzione, foglio n. 399

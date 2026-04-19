@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1955 n. 694
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 1195
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 giugno 1955 n. 694
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 1195
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
@@ -12,31 +12,78 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regi decreti 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-26;1734); [26 ottobre 1940, n. 2069](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2069); [4 maggio 1942, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-05-04;565); [24 luglio 1942, n. 949](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-24;949); [24 agosto 1942, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-08-24;1098); [24 ottobre 1942, n. 1672, con decreto luogotenenziale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo.luogotenenziale:1942-10-24;1672) [8 febbraio 1946, n. 242, con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-02-08;242) [12 aprile 1947, n. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-04-12;461); [31 dicembre 1947, n. 1758, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-31;1758) [24 dicembre 1948, n. 1619](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-12-24;1619); [18 luglio 1949, n. 882](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-07-18;882); [20 ottobre 1949, n. 989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;989), [20 ottobre 1949, n. 991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;991); [20 ottobre 1949, n. 1178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;1178); [30 ottobre 1949, n. 1152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1152); [11 giugno 1950, n. 622](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-06-11;622); [16 novembre 1950, n. 1313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-11-16;1313); [11 maggio 1951, n. 653](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-05-11;653); [27 ottobre 1951, n. 1813](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1813); [14 aprile 1952, n. 888](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-04-14;888); [16 agosto 1952, n. 2589](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-08-16;2589); [19 settembre 1952, n. 1697](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-09-19;1697); [11 marzo 1953, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;565); [12 maggio 1953, n. 570](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-05-12;570); [25 agosto 1953, n. 834](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;834); [26 ottobre 1954, n. 1232](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-26;1232) e [12 febbraio 1955, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-12;34);  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto, formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita', degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 38. - Agli insegnamenti complementari del corso di laurea in economia e commercio e' aggiunto quello di: "Tecnica amministrativa delle imprese di pubblici servizi".  
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+Dopo l'art. 754, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola speciale per tecnici di cardiochirurgia.  
+  
+Scuola speciale per tecnici di cardiochirurgia  
+  
+Art. 755. - La scuola ha lo scopo di preparare gli allievi all'esercizio della professione di tecnico di cardiochirurgia, mediante l'insegnamento teorico di discipline di base e professionali, integrato da esercitazioni e tirocini professionali.  
+La scuola speciale per tecnici di cardiochirurgia ha sede presso l'istituto di chirurgia del cuore e dei grossi vasi.  
+Art. 756. - La durata del corso degli studi per il conseguimento del diploma e' di due anni accademici.  
+Le lezioni teoriche ed il tirocinio pratico saranno svolti presso l'istituto di chirurgia del cuore e dei grossi vasi e presso gli istituti e cliniche attinenti alle discipline cardiovascolari, secondo le modalita' che saranno stabilite dal consiglio della scuola.  
+Art. 757. - Sono ammessi alla scuola gli allievi di ambo i sessi in possesso del titolo di studio della scuola media superiore; sono anche ammessi gli allievi che abbiano conseguito il diploma di infermiere generico.  
+Art. 758. - Il numero massimo dei posti disponibili e' stabilito nella misura di quindici per il primo anno.  
+La graduatoria per l'ammissione entro il numero di posti stabilito avverra' in base ad un esame scritto e ad un colloquio attitudinale che si svolgeranno presso la sede della scuola all'inizio dell'anno accademico.  
+Art. 759. - Le materie di insegnamento sono:  
+1° Anno:  
+1) Nozioni di anatomia e di fisiologia;  
+2) Nozioni di ingegneria medica;  
+3) Nozioni di tecniche di laboratorio;  
+4) Nozioni di tecniche di perfusione.  
+Tirocinio pratico di sala operativa, di trattamento intensivo, di laboratorio.  
+2° Anno:  
+1) Nozioni di cardiologia;  
+2) Nozioni di cardiochirurgia.  
+Tirocinio pratico di sala operativa, di trattamento intensivo, di esami speciali.  
+Art. 760. - Per essere ammessi al 2° anno gli allievi dovranno aver superato gli esami di cui ai numeri 1), 2), 3) e 4) del primo anno.  
+Le modalita' degli esami saranno stabilite dal consiglio della scuola e comunicate nel manifesto annuale.  
+Art. 761. - L'esame finale per il conseguimento del diploma di tecnico di cardiochirurgia consiste in un esame scritto ed una prova pratica, con cui l'allievo dovra' dimostrare di aver raggiunto un livello di preparazione adeguato nelle materie che sono oggetto di insegnamento.  
+L'esame di diploma dovra' essere superato entro cinque anni dalla data di immatricolazione.  
+Art. 762. - Il direttore della scuola e' un professore di ruolo - ordinario, straordinario o aggregato - del gruppo delle discipline chirurgiche. Esso viene designato dal consiglio di facolta' e nominato con decreto del rettore. Il direttore puo' farsi coadiuvare da un vice-direttore nominato su sua proposta.  
+Art. 763. - Il consiglio della scuola e' costituito dal direttore, dal vice-direttore e dal corpo docente della scuola.  
+Spetta al consiglio della scuola:  
+1) determinare l'ordine degli studi;  
+2) esprimere il proprio parere sulle proposte del direttore della scuola relativamente alle nomine dei docenti;  
+3) coordinare ed approvare i programmi dei singoli corsi teorici, dei seminari e dei tirocinii pratici;  
+4) stabilire l'orario delle lezioni, dei tirocini pratici ed il diario e le modalita' degli esami, sia di profitto che di diploma;  
+5) determinare, ove lo ritenga necessario, il numero degli allievi che possono essere ammessi al I anno, nonche' le modalita' del colloquio attitudinale e, nei casi previsti, dell'esame di ammissione.  
+Per i problemi di carattere amministrativo il direttore della scuola e' assistito da un apposito comitato, composto:  
+a) dallo stesso direttore della scuola, che lo presiede;  
+b) dal vice-direttore della scuola che presiede il comitato in caso di assenza o impedimento del direttore;  
+c) dagli altri professori docenti della scuola;  
+d) da rappresentanti degli enti o privati che concorrono alle spese di funzionamento della scuola con contributi annui individuali; a tal uopo, ciascun ente o privato che concorra con un contributo annuo individuale non inferiore a L. 3.000.000 potra' designare un rappresentante per ogni tre milioni di lire, mentre gli enti o privati che concorrano con minor contributo annuo, purche' non inferiore a L. 500.000, hanno diritto di designare collegialmente propri rappresentanti in ragione di un membro per ogni 6 contribuenti.  
+Spetta al comitato amministrativo della scuola:  
+1) proporre al rettore l'ammontare del contributo di laboratorio dovuto agli allievi;  
+2) determinare i compensi da corrispondere ai docenti e a tutti coloro che prestano la loro opera nella scuola;  
+3) autorizzare ogni altra spesa occorrente al funzionamento della scuola;  
+4) assegnare agli allievi piu' meritevoli le borse di studio che perverranno dagli enti interessati a promuovere la formazione di tecnici di cardiochirurgia;  
+5) approvare il bilancio interno della scuola.  
+Detto comitato puo' autorizzare il proprio presidente a provvedere direttamente ed entro determinati limiti a spese non ricorrenti.  
+Il direttore della scuola da' esecuzione alle deliberazioni del comitato, conformi al bilancio interno ed alle norme amministrative contenute nella legislazione universitaria.  
+Art. 764. - Gli iscritti alla scuola sono tenuti al versamento annuo delle tasse, soprattasse e contributi nella misura prevista dalla legge vigente per gli studenti della facolta' di medicina e chirurgia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 giugno 1955
+### Dato a Roma, addi' 22 settembre 1972
 
-GRONCHI ERMINI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 11 agosto 1955
+Registrato alla Corte dei conti, addi' 13 settembre 1973
 
-Atti del Governo, registro n. 92, foglio n. 69. - E.GRECO
+Atti di Governo, registro n. 260, foglio n. 24. - VALENTINI

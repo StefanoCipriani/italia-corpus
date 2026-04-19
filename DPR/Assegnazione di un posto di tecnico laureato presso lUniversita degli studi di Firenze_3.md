@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1984 n. 669
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 maggio 1985 n. 497
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1984 n. 669
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 maggio 1985 n. 497
 =============================================================
 
 Assegnazione di un posto di tecnico laureato presso l'Universita' degli studi di Firenze.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-669. Decreto del Presidente della Repubblica 9 aprile 1984, col quale, sulla proposta del Ministro della pubblica istruzione, un posto disponibile nel ruolo dei tecnici laureati viene assegnato all'istituto di storia dell'arte della facolta' di lettere e filosofia dell'Universita' di Firenze.   
+497. Decreto del Presidente della Repubblica 31 maggio 1985, col quale, sulla proposta del Ministro della pubblica istruzione, un posto disponibile nel ruolo dei tecnici laureati viene assegnato all'istituto di clinica urologica della facolta' di medicina e chirurgia della Universita' di Firenze.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 1° ottobre 1984   
-Registro n. 58 Istruzione, foglio n. 289
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 18 settembre 1985  
+Registro n. 63 Istruzione, foglio n. 357

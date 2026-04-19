@@ -1,19 +1,19 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 giugno 1968 n. 824
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 dicembre 1970 n. 1354
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 giugno 1968 n. 824
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 dicembre 1970 n. 1354
+================================================================
 
-Riconoscimento, agli effetti civili, della erezione della parrocchia di S. Giuseppe nel comune di Rosignano Marittimo.
-----------------------------------------------------------------------------------------------------------------------
+Riconoscimento, agli effetti civili, della erezione della parrocchia di S. Giuseppe, nel comune di Rosignano Marittimo.
+-----------------------------------------------------------------------------------------------------------------------
 
 Art. 1
 ------
 
 N.
 
-824. Decreto del Presidente della Repubblica 8 giugno 1968, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Livorno in data 25 luglio 1967, integrato con dichiarazione del 13 dicembre 1967, relativo alla erezione della parrocchia di S. Giuseppe, in frazione Nibbiaia del comune di Rosignano Marittimo (Livorno).  
+1354. Decreto del Presidente della Repubblica 15 dicembre 1970, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Livorno in data 18 marzo 1967, integrato con dichiarazione 20 giugno 1967 e con altro decreto 27 ottobre 1970, relativo alla erezione della parrocchia di S. Giuseppe, in frazione Rosignano Solvay del comune di Rosignano Marittimo (Livorno).  
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 16 luglio 1968  
-Atti del Governo, registro n. 221, foglio n. 28. - GRECO
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 18 febbraio 1971  
+Atti del Governo, registro n. 240, foglio n. 199. - CARUSO

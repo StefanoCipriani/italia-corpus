@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1977 n. 85
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1975 n. 728
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1977 n. 85
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1975 n. 728
+==============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-85. Decreto del Presidente della Repubblica 21 gennaio 1977, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dal comune di Padova con atto 28 novembre 1966, n. 106119 di repertorio, a rogito notaio Giovanni Fazzutti, dell'appezzamento di terreno della superficie catastale di mq 51660 ed effettivamente di mq 51510, occorso per la realizzazione del nuovo carcere.  
+728. Decreto del Presidente della Repubblica 30 ottobre 1975, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione di una donazione, consistente in una collezione d'arte egizia composta di sessantadue pezzi, disposta a favore dello Stato dalla sig.ra Negri Maria Teodora ved. Ronco con atto in data 30 marzo 1973, n. 34295 di repertorio, a rogito dott. Guglielmo Morini notaio in Torino, da destinare al museo egizio di Torino.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 26 marzo 1977  
-Registro n. 15 Finanze, foglio n. 322
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 18 dicembre 1975  
+Atti di Governo, registro n. 15, foglio n. 49

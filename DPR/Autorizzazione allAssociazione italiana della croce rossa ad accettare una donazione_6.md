@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 ottobre 1971 n. 1278
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 settembre 1970 n. 1478
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 ottobre 1971 n. 1278
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 settembre 1970 n. 1478
+=================================================================
 
 Autorizzazione all'Associazione italiana della croce rossa ad accettare una donazione.
 --------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1278. Decreto del Presidente della Repubblica 20 ottobre 1971, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana della croce rossa viene autorizzata ad accettare la donazione disposta a favore della dipendente delegazione di Marischio in Fabriano (Ancona) dai signori Andreoli Giuseppe, Duilia e Luigia con atto pubblico del 10 luglio 1969, n. 7828 di repertorio, a rogito notar Enrico Falsini in Fabriano; detta donazione e' costituita da un appezzamento di terreno, della superficie di mq. 360, sito in Fabriano (Ancona), distinto al catasto terreni del predetto comune alla sezione U, foglio V, n. 281-b, confinante con il terreno di proprieta' dell'associazione sul quale insiste l'immobile riattivato a colonia elioterapica.  
+1478. Decreto del Presidente della Repubblica 19 settembre 1970, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana della croce rossa viene autorizzata ad accettare la donazione disposta in favore del dipendente sottocomitato di Alessano (Lecce) dalla locale amministrazione comunale di un relitto di terreno della superficie di mq. 320, del valore di L. 1.600.000, sito in Alessano e distinto al vecchio catasto fabbricati sulla partita 139 1/2 del foglio 20, da destinarsi alla costruzione della sede del locale sottocomitato dell'associazione allorche' le disponibilita' dello stesso sottocomitato lo consentiranno.  
   
-Visto, il Guardasigilli: COLOMBO  
-Registrato alla Corte dei conti, addi' 26 gennaio 1972  
-Atti del Governo, registro n. 246, foglio n. 40. - VALENTINI
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 24 giugno 1971  
+Atti del Governo, registro n. 242, foglio n. 135. - VALENTINI

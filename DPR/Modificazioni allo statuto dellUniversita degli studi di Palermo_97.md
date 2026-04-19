@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 ottobre 1986 n. 767
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1965 n. 733
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 ottobre 1986 n. 767
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1965 n. 733
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
@@ -10,190 +10,205 @@ Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1920 n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-10-14;2412), e modificato con [regio decreto 13 ottobre 1927 n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Vedute le proposte di modifiche dello statuto formulato dalle autorita' accademiche dell'Universita' anzidetta;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta, intese ad ottenere l'istituzione del corso di laurea in psicologia presso la facolta' di magistero;
+Riconosciuta la particolare necessita' di approvare la nuove modifiche proposte;
 
-Considerato che e' tuttora in atto la sperimentazione organizzativa e didattica di cui agli [articoli 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art81)-[93 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art93);
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Considerato che le tabelle dell'ordinamento didattico universitario relative ai corsi di laurea sono in fase di riordinamento per effetto di apposite commissioni di studio, e che anzi alcune tabelle sono state gia' riordinate;
-
-Rilevata la necessita' di accogliere la richiesta dell'Universita' di Palermo, di istituire il corso di laurea in psicologia presso la facolta' di magistero, allo scopo di riequilibrare le iscrizioni presso gli omonimi corsi di laurea degli Atenei di Padova e di Roma "La Sapienza", al fine di assicurare una migliore formazione degli studenti;
-
-Rilevata, quindi, la necessita' di apportare la modifica proposta in deroga al termine triennale di cui all'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Palermo approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Art. 18. - Agli insegnamenti complementari del corse di laurea in Economia e commercio sono aggiunti quelli di:
 
+14) Statistica economica;
+
+15) Sociologia.
+
+Art. 31. - All'elenco degli Istituti annessi alla Facolta' di Lettere e filosofia e' aggiunto l'istituto di Lingue e letterature straniere.
+
+Dopo l'art. 31, sono aggiunti i seguenti nuovi articoli relativi al regolamento dell'Istituto di Lingue e letterature straniere con il conseguente spostamento della successiva numerazione.
+
+Istituto di Lingue e letterature straniere
+
+Art. 32. - L'Istituto di Lingue e letterature straniere comprende le cattedre di Lingua e letteratura francese; di Lingua e letteratura inglese, di Lingua e letteratura tedesca, di Lingua e letteratura spagnola della Facolta' di Lettere e filosofia.
+
+Art. 33. - L'Istituto ha lo scopo di coordinare e di potenziare l'incremento delle lingue e letterature moderne e delle discipline ad esse complementari nonche' di fornire una adeguata cultura specifica e quegli studenti che si dedicheranno all'insegnamento delle lingue moderne.
+
+Art. 34. - L'Istituto ha sede nei locali assegnati alla cattedra di Lingua e letteratura francese.
+
+Art. 35. - La direzione dell'Istituto e' affidata, a turno annuale, ad uno dei titolari delle singole discipline.
+
+Art. 36. - Presso l'Istituto prestano servizio gli assistenti sia di ruolo sia volontari attualmente in servizio, e quelli che in seguito verranno assunti dalle predette cattedre.
+
+Art. 37. - Per il raggiungimento dei propri fini, l'Istituto dispone di materiale didattico e scientifico appropriati, di una fototeca, di una propria biblioteca, da costituirsi quest'ultima con un fondo di libri gia' esistenti presso la biblioteca universitaria, e con singoli donativi.
+
+Art. 38. - All'Istituto e' annesso un laboratorio linguistico modernamente attrezzato, al cui funzionamento saranno preposti un assistente di ruolo (coadiuvato per ciascuna lingua, da assistenti di ruolo o volontari, che abbiano una pratica dei recentissimi metodi di insegnamento) e un tecnico specializzato che abbia cura degli apparecchi.
+
+Art. 39. - L'Istituto si propone anche di pubblicare una serie di contributi di carattere scientifico preparati da professori assistenti e laureati.
+
+Art. 40. - Con la dotazione assegnata all'Istituto dal Consiglio di amministrazione dell'Universita', nonche' le eventuali elargizioni di altri Enti e Istituzioni, l'Istituto potra' provvedere alle proprie attivita' scientifiche e didattiche.
+
+L'articolo 96 e' modificato nel senso che la durata della Scuola di specializzazione in Clinica oculistica e' fissata in anni quattro.
+
+L'art. 117 e' abrogato e sostituito dal seguente:
+
+Scuola di specializzazione in Clinica oculistica
+
+Art. 117. - La Scuola ha la durata di quattro anni Il numero complessivo degli iscritti ai quattro anni del corso e' di venticinque.
+
+Gli insegnamenti impartiti dalla Scuola sono i seguenti:
+
+1° Anno:
+
+1) Anatomia e istologia dell'apparato oculare;
+
+2) Nozioni di embriologia e genetica oculare;
+
+3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;
+
+4) Nozioni di ottica fisiologica, esame della rifrazione;
+
+5) Microbiologia ed igiene oculare.
+
+2° Anno:
+
+1) Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmologia, perimetria, campimetria, adattometria, senso cromatico, tonometria, tonografia, esami elettrofunzionali, radiologia);
+
+2) Farmacologia oculare e terapia fisica;
+
+3) Anatomia patologica oculare;
+
+4) Patologia e clinica oculare (malattie delle palpebre, della congiuntiva, delle vie lacrimali, della cornea e della sclera).
+
+3° Anno:
+
+1) Patologia e clinica oculare (malattie dell'uvea, della retina, del nervo e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita, glaucoma);
+
+2) Anomalie e patologia della motilita' oculare e della visione binoculare. Ortottica e pleottica;
+
+3) Affezioni otorinolaringoiatriche e occhio;
+
+4) Tecnica operatoria - 1ª parte.
+
+4° Anno:
+
+1) Neuro-oftalmologia;
+
+2) Malattie oculari in rapporto ad affezioni generali;
+
+3) Malattie professionali. Infortunistiche e medicina legale oculare;
+
+4) Tecnica operatoria - 2ª parte;
+
+5) Tesi di specializzazione.
+
+Gli esami di profitto si danno alla fine di ciascun anno. Alla line del corso gli iscritti oltre a presentate la dissertazione scritta ed a sostenere la relativa discussione a norma dell'art. 106, devono sostenere una prova pratica sull'ammalato.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo di chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 21 maggio 1965
+
+SARAGAT
+
+GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 30 giugno 1965 Atti del Governo, registro n. 194, foglio n. 35 - VILLA
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Il primo comma dell'art. 113, relativo alle lauree che rilascia la facolta' di magistero, e' soppresso e cosi' sostituito:  
-"La facolta' di magistero rilascia le lauree in materie letterarie, in pedagogia, in lingue e letterature straniere ed in psicologia".  
-Dopo l'art. 116, con il conseguente scorrimento della numerazione degli articoli successivi, e' inserito il seguente articolo, relativo all'ordinamento degli studi del corso di laurea in psicologia:  
-Art. 117. Corso di laurea in psicologia. - Titolo di ammissione: quello previsto dal [primo comma dell'art. 1 della legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1-com1).  
-La durata del corso degli studi per la laurea in psicologia e' di cinque anni.  
-Il corso degli studi si distingue in un biennio propedeutico, inteso a fornire una preparazione di base comune, e in un successivo triennio articolato in indirizzi destinati a offrire una preparazione professionale in un settore specifico di attivita' e le relative tecniche di ricerca.  
-Gli indirizzi in cui il triennio puo' articolarsi sono i seguenti:  
-1) indirizzo di psicologia generale e sperimentale;  
-2) indirizzo di psicologia dello sviluppo e dell'educazione;  
-3) indirizzo di psicologia clinica e di comunita';  
-4) indirizzo di psicologia del lavoro e delle organizzazioni.  
-L'attivazione e l'eventuale disattivazione degli indirizzi inseriti nello statuto delle singole Universita' sono disposte dal rettore, su proposta del consiglio di corso di laurea.  
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1920 n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-10-14;2412), e modificato con [regio decreto 13 ottobre 1927 n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulato dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare la nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Biennio propedeutico:  
-Nel corso del biennio propedeutico lo studente deve seguire nove insegnamenti comuni e tre insegnamenti opzionali, scelti tra quelli attivati dal corso di laurea.  
-Gli insegnamenti del biennio vengono impartiti mediante corsi istituzionali.  
-Sono insegnamenti comuni:  
-psicologia generale;  
-psicologia dinamica;  
-psicologia della personalita' e delle differenze individuali;  
-psicologia dell'eta' evolutiva;  
-psicologia fisiologica;  
-psicologia sociale;  
-biologia generale;  
-fondamenti anatomo-fisiologici dell'attivita' psichica;  
-statistica psicometrica.  
-Sono insegnamenti complementari:  
-antropologia culturale;  
-etologia;  
-genetica umana;  
-metodologia delle scienze del comportamento;  
-pedagogia;  
-sociologia;  
-storia della filosofia contemporanea;  
-storia della psicologia.  
-Al termine del biennio lo studente deve inoltre sostenere una prova di lingua inglese consistente nella traduzione scritta in italiano di un brano tratto da una opera psicologica e in un colloquio diretto ad accertare la conoscenza del lessico psicologico.  
-Ai fini della preparazione a questa prova il corso di laurea organizza appositi corsi, tenuti da docenti ufficiali, oppure cicli di esercitazioni affidati a lettori sotto la responsabilita' di un docente di altro corso di laurea o, ove istituito, del centro linguistico interfacolta'.  
+Decreta:  
   
-Triennio di indirizzo:  
-Per iscriversi al triennio lo studente deve aver superato tutti gli esami costitutivi comuni del biennio propedeutico e la prova di lingua inglese; gli esami opzionali devono essere superati entro il terzo anno.  
-La scelta dell'indirizzo da seguire avviene all'atto dell'iscrizione al terzo anno, e puo' essere modificata al momento dell'iscrizione al quarto o al quinto anno.  
-In caso di passaggio ad altro indirizzo lo studente ha l'obbligo di iscriversi a tutti gli insegnamenti costitutivi dell'indirizzo al quale si e' trasferito e di sostenere i relativi esami.  
-Ogni indirizzo comporta la frequenza di otto insegnamenti costitutivi e di cinque insegnamenti opzionali, di cui due possono essere stabiliti dal consiglio di corso di laurea.  
-Sono insegnamenti costitutivi per l'indirizzo di psicologia generale e sperimentale:  
-psicologia fisiologica (corso progredito);  
-neuropsicologia;  
-psicologia animale e comparata;  
-psicologia dell'apprendimento e della memoria;  
-psicologia della percezione;  
-psicologia del pensiero;  
-psicometria;  
-tecniche sperimentali di ricerca.  
-Sono insegnamenti costitutivi per l'indirizzo di psicologia dello sviluppo e dell'educazione:  
-psicologia dell'eta' evolutiva (corso progredito);  
-psicologia dell'educazione;  
-psicodinamica dello sviluppo e delle relazioni familiari;  
-psicopatologia generale e dell'eta' evolutiva;  
-tecniche di osservazione del comportamento infantile;  
-tecniche di ricerca psicologica e di analisi dei dati;  
-teoria e metodi di programmazione e di valutazione scolastica;  
-teoria e tecniche dei tests.  
-Sono insegnamenti costitutivi per l'indirizzo di psicologia clinica e di comunita':  
-psicologia dinamica (corso progredito);  
-psicologia clinica con elementi di psicoterapia individuale;  
-psicologia di comunita';  
-psicofisiologia clinica;  
-tecniche di ricerca psicologica e di analisi dei dati;  
-teorie e tecniche del colloquio psicologico;  
-teorie e tecniche della dinamica di gruppo;  
-teorie e tecniche dei tests di personalita'.  
-Sono insegnamenti costitutivi per l'indirizzo di psicologia del lavoro e delle organizzazioni:  
-psicologia sociale (corso progredito);  
-psicologia degli atteggiamenti e delle opinioni;  
-psicologia del lavoro;  
-psicologia delle organizzazioni;  
-psicologia dell'orientamento e della formazione professionale;  
-sociologia del lavoro;  
-metodologia della ricerca psico-sociale;  
-tecniche dell'intervista e del questionario.  
-Sono insegnamenti opzionali comuni a tutti gli indirizzi:  
-criminologia;  
-economia del lavoro;  
-elementi di programmazione ed elaborazione automatica dei dati;  
-epidemiologia dei disturbi psichici;  
-epistemologia genetica;  
-ergonomia;  
-fisica;  
-igiene mentale;  
-informatica;  
-legislazione del lavoro;  
-legislazione scolastica;  
-legislazione socio-sanitaria;  
-linguistica teorica;  
-logica;  
-medicina del lavoro;  
-metodologia dell'insegnamento;  
-neurofisiologia;  
-neuropsichiatria infantile;  
-neuropsicofarmacologia clinica;  
-pedagogia sperimentale;  
-principi di medicina psicosomatica;  
-psichiatria;  
-psicobiologia dello sviluppo;  
-psicofisiologia del sonno e del sogno;  
-psicolinguistica;  
-psicologia ambientale;  
-psicologia dell'arte e della letteratura;  
-psicologia dell'handicap e della riabilitazione;  
-psicologia delle comunicazioni di massa;  
-psicologia dello sport;  
-psicologia dello sviluppo del linguaggio e della comunicazione;  
-psicologia ed epidemiologia delle tossico-dipendenze;  
-psicologia e psicopatologia del comportamento sessuale;  
-psicologia gerontologica;  
-psicologia giuridica;  
-psicologia industriale;  
-psicopedagogia;  
-psicopedagogia del linguaggio e della comunicazione;  
-psicopedagogia differenziale;  
-psicosociologia delle istituzioni educative;  
-psicosociologia delle istituzioni sanitarie;  
-sociologia dell'educazione;  
-sociologia della comunicazione;  
-sociologia della famiglia;  
-sociologia industriale;  
-tecniche di analisi dei dati;  
-tecniche di indagine della personalita';  
-tecniche psicologiche di ricerca di mercato;  
-teoria e sistemi di intelligenza artificiale.  
-Per gli insegnamenti relativi alle "tecniche" di ricerca e per gli altri eventuali insegnamenti il consiglio di corso di laurea stabilisce le modalita' di svolgimento, la durata e le forme di controllo delle relative esperienze pratiche guidate. La verifica dell'esito positivo di tali esperienze e' condizione preliminare per poter sostenere l'esame.  
-Lo studente puo' sostituire uno o piu' insegnamenti opzionali del triennio con altrettanti insegnamenti costitutivi di indirizzi diversi da quello prescelto, oppure - previa deliberazione del consiglio di corso di laurea - con altrettanti insegnamenti opzionali del biennio propedeutico di cui non abbia prima sostenuto l'esame, o ancora con insegnamenti, fino al massimo di due, di altri corsi di laurea dell'Ateneo.  
+Lo statuto dell'Universita' degli studi di Palermo approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 18. - Agli insegnamenti complementari del corse di laurea in Economia e commercio sono aggiunti quelli di:  
+14) Statistica economica;  
+15) Sociologia.  
+Art. 31. - All'elenco degli Istituti annessi alla Facolta' di Lettere e filosofia e' aggiunto l'istituto di Lingue e letterature straniere.  
+Dopo l'art. 31, sono aggiunti i seguenti nuovi articoli relativi al regolamento dell'Istituto di Lingue e letterature straniere con il conseguente spostamento della successiva numerazione.  
   
-Norme finali:  
-Lo studente e' tenuto a definire, all'inizio del quarto anno di corso, l'argomento della tesi di laurea in uno degli insegnamenti costitutivi dell'indirizzo o in un insegnamento opzionale coerente con tale indirizzo.  
-Per essere ammesso all'esame di laurea lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti costitutivi comuni e in tre insegnamenti opzionali del biennio propedeutico, negli insegnamenti costitutivi dell'indirizzo seguito e in cinque insegnamenti opzionali del triennio, ed avere inoltre superato la prova di lingua inglese.  
-Il diploma di laurea reca l'indicazione dell'indirizzo seguito nel triennio.  
+Istituto di Lingue e letterature straniere  
+  
+Art. 32. - L'Istituto di Lingue e letterature straniere comprende le cattedre di Lingua e letteratura francese; di Lingua e letteratura inglese, di Lingua e letteratura tedesca, di Lingua e letteratura spagnola della Facolta' di Lettere e filosofia.  
+Art. 33. - L'Istituto ha lo scopo di coordinare e di potenziare l'incremento delle lingue e letterature moderne e delle discipline ad esse complementari nonche' di fornire una adeguata cultura specifica e quegli studenti che si dedicheranno all'insegnamento delle lingue moderne.  
+Art. 34. - L'Istituto ha sede nei locali assegnati alla cattedra di Lingua e letteratura francese.  
+Art. 35. - La direzione dell'Istituto e' affidata, a turno annuale, ad uno dei titolari delle singole discipline.  
+Art. 36. - Presso l'Istituto prestano servizio gli assistenti sia di ruolo sia volontari attualmente in servizio, e quelli che in seguito verranno assunti dalle predette cattedre.  
+Art. 37. - Per il raggiungimento dei propri fini, l'Istituto dispone di materiale didattico e scientifico appropriati, di una fototeca, di una propria biblioteca, da costituirsi quest'ultima con un fondo di libri gia' esistenti presso la biblioteca universitaria, e con singoli donativi.  
+Art. 38. - All'Istituto e' annesso un laboratorio linguistico modernamente attrezzato, al cui funzionamento saranno preposti un assistente di ruolo (coadiuvato per ciascuna lingua, da assistenti di ruolo o volontari, che abbiano una pratica dei recentissimi metodi di insegnamento) e un tecnico specializzato che abbia cura degli apparecchi.  
+Art. 39. - L'Istituto si propone anche di pubblicare una serie di contributi di carattere scientifico preparati da professori assistenti e laureati.  
+Art. 40. - Con la dotazione assegnata all'Istituto dal Consiglio di amministrazione dell'Universita', nonche' le eventuali elargizioni di altri Enti e Istituzioni, l'Istituto potra' provvedere alle proprie attivita' scientifiche e didattiche.  
+L'articolo 96 e' modificato nel senso che la durata della Scuola di specializzazione in Clinica oculistica e' fissata in anni quattro.  
+L'art. 117 e' abrogato e sostituito dal seguente:  
+  
+Scuola di specializzazione in Clinica oculistica  
+  
+Art. 117. - La Scuola ha la durata di quattro anni Il numero complessivo degli iscritti ai quattro anni del corso e' di venticinque.  
+Gli insegnamenti impartiti dalla Scuola sono i seguenti:  
+1° Anno:  
+1) Anatomia e istologia dell'apparato oculare;  
+2) Nozioni di embriologia e genetica oculare;  
+3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;  
+4) Nozioni di ottica fisiologica, esame della rifrazione;  
+5) Microbiologia ed igiene oculare.  
+2° Anno:  
+1) Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmologia, perimetria, campimetria, adattometria, senso cromatico, tonometria, tonografia, esami elettrofunzionali, radiologia);  
+2) Farmacologia oculare e terapia fisica;  
+3) Anatomia patologica oculare;  
+4) Patologia e clinica oculare (malattie delle palpebre, della congiuntiva, delle vie lacrimali, della cornea e della sclera).  
+3° Anno:  
+1) Patologia e clinica oculare (malattie dell'uvea, della retina, del nervo e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita, glaucoma);  
+2) Anomalie e patologia della motilita' oculare e della visione binoculare. Ortottica e pleottica;  
+3) Affezioni otorinolaringoiatriche e occhio;  
+4) Tecnica operatoria - 1ª parte.  
+4° Anno:  
+1) Neuro-oftalmologia;  
+2) Malattie oculari in rapporto ad affezioni generali;  
+3) Malattie professionali. Infortunistiche e medicina legale oculare;  
+4) Tecnica operatoria - 2ª parte;  
+5) Tesi di specializzazione.  
+Gli esami di profitto si danno alla fine di ciascun anno. Alla line del corso gli iscritti oltre a presentate la dissertazione scritta ed a sostenere la relativa discussione a norma dell'art. 106, devono sostenere una prova pratica sull'ammalato.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo di chiunque spetti di osservarlo e di farlo osservare.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 1 ottobre 1986
+### Dato a Roma, addi' 21 maggio 1965
 
-COSSIGA
+SARAGAT GUI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: REALE
 
-Visto, il Guardasigilli: ROGNONI
+Registrato alla Corte dei conti, addi' 30 giugno 1965
 
-Registrato alla Corte dei conti, addi' 12 novembre 1986
-
-Registro n. 83 Istruzione, foglio n. 39
+Atti del Governo, registro n. 194, foglio n. 35 - VILLA

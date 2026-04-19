@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1975 n. 579
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1986 n. 980
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1975 n. 579
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1986 n. 980
+===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un'eredita'.
 ----------------------------------------------------------------------------------------------------
@@ -10,10 +10,10 @@ Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad ac
 Art. 1
 ------
 
-N.
+n.
 
-579. Decreto del Presidente della Repubblica 29 settembre 1975, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, un'eredita' consistente nella quota dell'1,5% dell'asse ereditario, per un valore di L. 1.500.000, disposta dal sig. Giovanni Chiari, con testamento olografo 1 gennaio 1970, pubblicato in data 28 luglio 1971, n. 4510 di repertorio e n. 1302 di raccolta, a rogito dott. Antonio Mosca notaio in Castelfiorentino (Firenze), e registrato a Castelfiorentino in data 30 luglio 1971, al n. 781, vol. 90.  
+980. Decreto del Presidente della Repubblica 3 dicembre 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare col beneficio d'inventario l'eredita', consistente nella quota di 1/2 di beni mobili, saldo conti correnti, depositi di titoli, per un valore complessivo di L. 77.851.131, disposta dal sig. Minghetti Giuseppe a favore della pro juventute (Mutilatini don Gnocchi), che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale del consiglio di amministrazione della fondazione stessa in data 16 febbraio 1984, con testamento olografo 14 ottobre 1982, pubblicato in data 15 aprile 1983, n. 25547/945 di repertorio, a rogito dott. Giuseppe Isotti, notaio in Bolzano, registrato a Bolzano in data 2 maggio 1983 al n. 3996.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 26 novembre 1975  
-Atti di Governo, registro n. 14, foglio n. 44
+Visto, il Guardasigilli: ROGNONI  
+Registrato alla Corte dei conti, addi' 14 gennaio 1987  
+Registro n. 1 Presidenza, foglio n. 178

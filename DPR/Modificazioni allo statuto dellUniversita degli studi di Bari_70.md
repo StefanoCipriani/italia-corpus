@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 giugno 1958 n. 1033
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 551
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 giugno 1958 n. 1033
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 551
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successivi;
+Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,130 +18,88 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Dopo l'art. 107, relativo alle scuole di perfezionamento annesse alla Facolta' di giurisprudenza, sono aggiunti, con il conseguente spostamento della numerazione di quelli successivi, i seguenti nuovi articoli, relativi ai corsi di perfezionamento annessi alla Facolta' di economia e commercio.
+Articolo unico
+--------------
 
-Corsi di perfezionamento in amministrazione aziendale ed in economia sociale.
-
-Art. 108. - Alla Facolta' di economia e commercio sono annessi due corsi di perfezionamento: uno in "Amministrazione aziendale" l'altro in "Economia sociale".
-
-La durata di detti corsi e' di un anno.
-
-Al corso di perfezionamento in Amministrazione aziendale sono ammessi solo i laureati in economia e commercio; al corso di perfezionamento in Economia sociale sono ammessi i laureati in economia e commercio e quelli in scienze politiche.
-
-Art. 109. - Il corso di perfezionamento in "Economia sociale" consta dei seguenti insegnamenti:
-
-1) Analisi economica;
-
-2) Statistica, economica e sociale;
-
-3) Politica sociale;
-
-4) Storia dei sistemi economici nell'eta' moderna.
-
-Art. 110. - Il corso di perfezionamento in Amministrazione aziendale comprende i seguenti insegnamenti:
-
-1) Organizzazione aziendale;
-
-2) Tecnica del commercio estero;
-
-3) Economia e legislazione bancaria;
-
-4) Tecnica amministrativa delle imprese industriali;
-
-5) Tecnica tributaria;
-
-6) Amministrazione e contabilita' pubblica.
-
-Art. 111. - La direzione dei corsi e' affidata al preside di Facolta'.
-
-Art. 112. - La regolare frequenza alle lezioni e alle esercitazioni e' obbligatoria per essere ammessi a sostenere gli esami nelle varie discipline che formano materia dei corsi.
-
-Art. 113. - Al termine dei corsi, superati gli esami nelle varie discipline, gli iscritti dovranno sostenere un esame generale finale.
-
-Tale esame constera': a) di una prova scritta riflettente un problema economico aziendale o di contabilita' statale, per gli iscritti al corso di perfezionamento in Amministrazione aziendale, e un problema economico sociale per gli iscritti al corso di perfezionamento in Economia sociale; b) di una discussione orale sul tema della prova scritta sostenuta dagli iscritti innanzi ad una Commissione composta da quattro professori ufficiali per ciascuno dei due corsi di specializzazione, oltre il direttore, preside della Facolta'.
-
-Art. 114. - Al termine dei corsi, superati gli esami speciali e quello generale finale, verra' rilasciato un certificato di frequenza e di esame.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 18 giugno 1958
-
-GRONCHI
-
-MORO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 27 novembre 1958 Atti del Governo, registro n. 115, foglio n. 40. - RELLEVA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successivi;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
-  
-Decreta:   
-  
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-  
-Dopo l'art. 107, relativo alle scuole di perfezionamento annesse alla Facolta' di giurisprudenza, sono aggiunti, con il conseguente spostamento della numerazione di quelli successivi, i seguenti nuovi articoli, relativi ai corsi di perfezionamento annessi alla Facolta' di economia e commercio.   
-  
-Corsi di perfezionamento in amministrazione aziendale ed in economia sociale.   
-  
-Art. 108. - Alla Facolta' di economia e commercio sono annessi due corsi di perfezionamento: uno in "Amministrazione aziendale" l'altro in "Economia sociale".   
-La durata di detti corsi e' di un anno.   
-Al corso di perfezionamento in Amministrazione aziendale sono ammessi solo i laureati in economia e commercio; al corso di perfezionamento in Economia sociale sono ammessi i laureati in economia e commercio e quelli in scienze politiche.   
-Art. 109. - Il corso di perfezionamento in "Economia sociale" consta dei seguenti insegnamenti:   
-1) Analisi economica;   
-2) Statistica, economica e sociale;   
-3) Politica sociale;   
-4) Storia dei sistemi economici nell'eta' moderna.   
-Art. 110. - Il corso di perfezionamento in Amministrazione aziendale comprende i seguenti insegnamenti:   
-1) Organizzazione aziendale;   
-2) Tecnica del commercio estero;   
-3) Economia e legislazione bancaria;   
-4) Tecnica amministrativa delle imprese industriali;   
-5) Tecnica tributaria;   
-6) Amministrazione e contabilita' pubblica.   
-Art. 111. - La direzione dei corsi e' affidata al preside di Facolta'.   
-Art. 112. - La regolare frequenza alle lezioni e alle esercitazioni e' obbligatoria per essere ammessi a sostenere gli esami nelle varie discipline che formano materia dei corsi.   
-Art. 113. - Al termine dei corsi, superati gli esami nelle varie discipline, gli iscritti dovranno sostenere un esame generale finale.   
-Tale esame constera': a) di una prova scritta riflettente un problema economico aziendale o di contabilita' statale, per gli iscritti al corso di perfezionamento in Amministrazione aziendale, e un problema economico sociale per gli iscritti al corso di perfezionamento in Economia sociale; b) di una discussione orale sul tema della prova scritta sostenuta dagli iscritti innanzi ad una Commissione composta da quattro professori ufficiali per ciascuno dei due corsi di specializzazione, oltre il direttore, preside della Facolta'.   
-Art. 114. - Al termine dei corsi, superati gli esami speciali e quello generale finale, verra' rilasciato un certificato di frequenza e di esame.   
+Art. 89 - all'elenco degli insegnamenti complementari, per tutti gli indirizzi, del corso di laurea in fisica sono aggiunti i seguenti insegnamenti:  
+cosmologia;  
+didattica della fisica;  
+elettronica nucleare;  
+fisica sanitaria;  
+microelettronica;  
+ottica;  
+reti logiche e tecniche digitali.  
+Art. 91 - all'elenco degli insegnamenti complementari del corso di laurea in scienze dell'informazione sono aggiunti i seguenti insegnamenti:  
+cibernetica;  
+teoria dell'informazione.  
+Art. 92 - all'elenco degli insegnamenti complementari del corso di laurea in chimica sono aggiunti i seguenti insegnamenti:  
+Indirizzo inorganico-chimico-fisico:  
+chimica dell'ambiente;  
+analisi degli inquinanti;  
+meccanismi di reazione in chimica inorganica;  
+termodinamica dei processi irreversibili;  
+chimica organica fisica.  
+Indirizzo organico biologico:  
+chimica analitica clinica;  
+chimica biorganica;  
+chimica delle sostanze organiche naturali;  
+chimica dei composti eterociclici;  
+meccanismi di reazione in chimica organica;  
+stereochimica organica;  
+metodi fisici in chimica organica.  
+Art. 96 - all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti insegnamenti:  
+anatomia vegetale;  
+elettrofisiologia;  
+genetica molecolare;  
+microbiologia generale.  
+Nel medesimo elenco e' soppresso l'insegnamento di "microbiologia".  
+Art. 97 - il comma di cui alla lettera f) e' soppresso e sostituito come segue: "b) Non potra' essere ammesso a sostenere l'esame di genetica senza aver prima superato gli esami di botanica I e di zoologia I".  
+Art. 98 - all'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti i seguenti insegnamenti:  
+biostratigrafia;  
+climatologia;  
+complementi di geofisica;  
+cristallografia e cristallochimica;  
+fisica del vulcanismo;  
+geochimica applicata;  
+geodinamica;  
+geologia ambientale;  
+geologia del quaternario;  
+geologia strutturale;  
+geologia tecnica;  
+geomorfologia applicata;  
+mineralogia dei sedimenti;  
+paleobiogeografia con elementi di paleoecologia;  
+petrografia regionale;  
+prospezione geofisica.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 giugno 1958
+### Dato a Roma, addi' 26 aprile 1984
 
-GRONCHI MORO
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 27 novembre 1958
+Registrato alla Corte dei conti, addi' 24 agosto 1984
 
-Atti del Governo, registro n. 115, foglio n. 40. - RELLEVA
+Registro n. 51 Istruzione, foglio n. 78

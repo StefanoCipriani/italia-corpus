@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 febbraio 1984 n. 178
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 novembre 1974 n. 799
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 febbraio 1984 n. 178
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 novembre 1974 n. 799
 ===============================================================
 
 Autorizzazione all'Automobile club di Modena ad acquistare un immobile.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-178. Decreto del Presidente della Repubblica 6 febbraio 1984, col quale, sulla proposta del Ministro del turismo e dello spettacolo, l'Automobile club di Modena viene autorizzato ad acquistare, al prezzo di L. 350.000.000, la restante quota del 50% del fabbricato sito in Modena, viale Verdi, via Emilia est, via Cantelli, composto di sette piani fuori terra oltre soffitta, censito al nuovo catasto edilizio urbano alla partita n. 11744, foglio n. 98, mappale n. 3940 sub 1, 25, 12845 sub 1, 2 e 3, 17362 sub 10, ora foglio n. 144, mappali 97 sub 1, 25, 98 sub 10 e 99 sub 1, 2 e 3, di proprieta' dell'Automobile club d'Italia, come da promessa condizionata di compravendita 11 giugno 1983, da adibire a sede di propri uffici.  
+799. Decreto del Presidente della Repubblica 7 novembre 1974, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile club di Modena viene autorizzato ad acquistare dalla Societa' azionaria immobiliare Modenese - S.A.I.M. - Societa' per azioni, in Modena, in liquidazione, per il prezzo di L. 8.000.000, un immobile sito in Modena, via Mare Adriatico n. 141-143, della superficie complessiva di mq 720 e individuato nel nuovo catasto edilizio urbano di Modena alla partita 20588, mappale n. 4737/1 (ora mappale 4737) da adibire ad archivio e magazzino.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 17 maggio 1984  
-Registro n. 4 Turismo, foglio n. 194
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 1 febbraio 1975  
+Atti di Governo, registro n. 8, foglio n. 98

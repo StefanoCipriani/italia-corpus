@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 396
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1986 n. 561
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 396
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1986 n. 561
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Catania.
@@ -39,14 +39,14 @@ Articolo unico
 --------------
 
   
-Nell'art. 50, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-terapia neurologica.  
+Nell'art. 51, relativo all'elenco degli insegnamenti complementari della facolta' di medicina e chirurgia, e' aggiunto l'insegnamento di:  
+semeiotica angiochirurgica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 aprile 1986
+### Dato a Roma, addi' 2 maggio 1986
 
 COSSIGA
 
@@ -54,6 +54,6 @@ FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 11 luglio 1986
+Registrato alla Corte dei conti, addi' 9 settembre 1986
 
-Registro n. 55 Istruzione, foglio n. 399
+Registro n. 69 Istruzione, foglio n. 390

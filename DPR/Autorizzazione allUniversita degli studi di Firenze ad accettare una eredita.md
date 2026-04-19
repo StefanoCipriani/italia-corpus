@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1976 n. 722
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 giugno 1967 n. 674
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1976 n. 722
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 giugno 1967 n. 674
+=============================================================
 
 Autorizzazione all'Universita' degli studi di Firenze ad accettare una eredita'.
 --------------------------------------------------------------------------------
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-722. Decreto del Presidente della Repubblica 22 settembre 1976, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Firenze viene autorizzata ad accettare, in difformita' del parere del Consiglio di Stato, l'eredita' disposta dal sig. Aldo Giurlani, scrittore col nome di Aldo Palazzeschi, con testamento olografo 2 febbraio 1974, pubblicato in data 27 agosto 1974, n. 267658 di repertorio, registrato il 29 agosto 1974 al n. 9936, vol. 189, a rogito dott.  
-Romualdo Manoni, notaio in Roma, costituita da beni mobili ed immobili siti in Firenze, Venezia e Mestre per un valore complessivo di circa L. 493.000.000.   
+674. Decreto del Presidente della Repubblica 10 giugno 1967, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Firenze viene autorizzata ad accettare, con beneficio d'inventario, l'eredita' disposta dalla defunta signorina Ada Boncinelli, consistente in beni mobili ed immobili, dedotti alcuni legati, del valore complessivo di L. 60.000.000 circa, come da testamento olografo datato 26 novembre 1961 a rogito dott. Antonino Piazza, notaio dei distretti notarili di Firenze e Pistoia, con il n. 23645 di repertorio e registrato a Firenze il 25 giugno 1964 al n. 15649, mod. 71-M. Con lo stesso decreto, inoltre, la Fondazione "La Gemma", con sede presso l'Universita' di Firenze, viene eretta in ente morale e ne viene approvato lo statuto.  
   
-Visto, il Guardasigilli: BONIFACIO   
-Registrato alla Corte dei conti, addi' 26 ottobre 1976   
-Atti di Governo, registro n. 10, foglio n. 179
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 29 luglio 1967  
+Atti del Governo, registro n. 212, foglio n. 91. - GRECO

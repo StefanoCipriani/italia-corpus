@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 842
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 834
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 842
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 834
 ================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Trieste.
@@ -39,9 +39,8 @@ Articolo unico
 --------------
 
   
-Nell'art. 52, relativo al corso di laurea in filosofia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti:  
-storia del pensiero scientifico;  
-teorie della personalita'.  
+Nell'art. 81, relativo al corso di laurea in scienze biologiche, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
+biologia cellulare.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
@@ -55,4 +54,4 @@ Visto, il Guardasigilli: MARTINAZZOLI
 
 Registrato alla Corte dei conti, addi' 18 gennaio 1984
 
-Registro n. 2 Istruzione, foglio n. 172
+Registro n. 2 Istruzione, foglio n. 171

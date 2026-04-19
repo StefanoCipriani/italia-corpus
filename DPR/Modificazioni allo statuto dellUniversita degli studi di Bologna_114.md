@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 settembre 1956 n. 1187
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1978 n. 624
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 settembre 1956 n. 1187
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1978 n. 624
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -12,35 +12,262 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con i [regi decreti 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-12;2227); [4 settembre 1930, n. 1312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-09-04;1312); [1 ottobre 1931, n. 1778](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1778); [27 ottobre 1932, n. 2092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2092); [6 dicembre 1934, n. 2394](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2394); [1 ottobre 1936, n. 2502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2502); [12 maggio 1939, n. 1315](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-05-12;1315); [5 ottobre 1939, n. 1644](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1644); [11 luglio 1941, n. 848](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-07-11;848); [18 luglio 1942, n. 928; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-07-18;928) [16 maggio 1947 n. 694 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-05-16;694) [22 febbraio 1948, n. 414](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-02-22;414); [30 luglio 1950, n. 1268](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-07-30;1268); [31 ottobre 1950, n. 1307](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1307); [5 agosto 1951, n. 1311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-05;1311); [27 ottobre 1951, n. 1792](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1792); [3 ottobre 1952, n. 4541](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-03;4541); [11 marzo 1953, n. 545](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;545); [12 maggio 1953, n. 547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-05-12;547); [30 giugno 1954, n. 742](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-30;742); [30 giugno 1954, n. 755](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-30;755); [14 agosto 1954, n. 862](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-08-14;862); [14 settembre 1954, n. 1231](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1231); [29 ottobre 1954, n. 1319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-29;1319); [29 ottobre 1954, n. 1457](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-29;1457); [1 marzo 1955, n. 222](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-03-01;222); [24 luglio 1955, n. 799](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-24;799); [21 settembre 1955, n. 956](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-21;956), e [4 ottobre 1955, n. 961](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-10-04;961);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 43. E' abrogata la norma di cui al decimo comma, in base alla quale gli insegnamenti fondamentali del corso di laurea in lettere: storia medioevale e storia moderna sono riuniti in un'unica cattedra.  
-Art. 55. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di "semeiotica chirurgica".  
-Art. 94. - Agli insegnamenti complementari del corso di laurea in ingegneria sono aggiunti quelli di:  
-50) "Elettronica";  
-51) "Psicotecnica".  
+L'art. 564, primo comma, relativo alla scuola di specializzazione in terapia fisica e riabilitazione, che muta la denominazione in quella di scuola di specializzazione in fisioterapia, e' abrogato e sostituito dal seguente:  
+"Presso la clinica ortopedica dell'Universita' di Bologna e' istituita la scuola di specializzazione in fisioterapia, che conferisce il diploma di specialista in fisioterapia".  
+Gli articoli 571, 572, 573, 574, 575 e 576, relativi alla scuola di specializzazione in chirurgia toracica, sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in chirurgia toracica  
+  
+Art. 571. - Presso la facolta' di medicina e chirurgia e' istituita la scuola di specializzazione in chirurgia toracica della durata di cinque anni, che conferisce il diploma di specialista in chirurgia toracica.  
+La durata del corso di studi non e' suscettibile di abbreviazione e prevede l'insegnamento di tutte le branche della chirurgia toracica (chirurgia polmonare, chirurgia cardiaca, chirurgia esofagea, chirurgia del mediastino e della parete toracica).  
+Art. 572. - Possono essere ammessi alla scuola i laureati in medicina e chirurgia in possesso, almeno all'inizio del corso, dell'abilitazione all'esercizio professionale.  
+Il numero degli iscritti e' di quattro ogni anno di corso.  
+L'ammissione al corso avviene per titoli ed esami.  
+Art. 573. - Le materie d'insegnamento sono le seguenti:  
+1° Anno:  
+1) embriologia, anatomia descrittiva e topografica del torace e degli organi endotoracici;  
+2) anatomia chirurgica del torace e degli organi endotoracici;  
+3) anatomia patologica delle malattie del torace (I);  
+4) anestesia in chirurgia toracica.  
+2° Anno:  
+1) fisiopatologia dell'apparato respiratorio;  
+2) fisiopatologia dell'apparato cardiocircolatorio;  
+3) semeiotica dell'apparato respiratorio, dell'esofago e del mediastino;  
+4) semeiotica dell'apparato cardiocircolatorio;  
+5) anatomia patologica delle malattie del torace (II).  
+3° Anno:  
+1) patologia e clinica chirurgica delle affezioni dell'apparato respiratorio, del mediastino e della parete toracica (I);  
+2) patologia e clinica chirurgica delle affezioni, del cuore e dei grossi vasi endotoracici;  
+3) patologia e clinica chirurgica delle affezioni dell'esofago e del diaframma;  
+4) elementi di terapia medica delle cardio-angiopatie;  
+5) elementi di fisioterapia respiratoria;  
+6) diagnostica radiologica nelle malattie chirurgiche del torace.  
+4° Anno:  
+1) patologia e clinica chirurgica delle affezioni dell'apparato respiratorio, del mediastino e della parete toracica (II);  
+2) tecnica operatoria per le affezioni della parete toracica, dell'apparato respiratorio, dell'esofago, del mediastino e del diaframma (I);  
+3) tecnica operatoria delle affezioni del cuore, pericardio e grossi vasi endotoracici;  
+4) principi e tecniche della circolazione extracorporea.  
+5° Anno:  
+1) terapia intensiva e rianimazione in chirurgia toracica;  
+2) tecnica operatoria per le affezioni della parete toracica, dello apparato respiratorio, dell'esofago, del mediastino e del diaframma (II);  
+3) terapia chirurgica della TBC pleuro-polmonare.  
+Il corso si compone di lezioni, di esercitazioni pratiche, di periodi di internato, di conferenze riguardanti argomenti specialistici, di turni in corsia ed in sala operatoria.  
+Art. 574. - La frequenza ai corsi, agli internati, in corsia ed in sala operatoria, alle esercitazioni e' obbligatoria. In caso contrario gli specializzandi non potranno ottenere l'attestazione di frequenza necessaria per l'ammissione agli esami.  
+Art. 575. - Alla fine di ciascun anno di corso gli specializzandi che abbiano ottenuto la firma di frequenza dovranno sostenere un esame di profitto sulle materie di insegnamento il cui superamento e' condizione necessaria ed indispensabile per ottenere la iscrizione all'anno successivo, e, per quelli che sono stati iscritti al quinto anno, per l'ammissione all'esame di diploma. Durante il corso gli specializzandi frequenteranno la sala operatoria in maniera assidua, dovranno assistere a numerosi interventi di chirurgia toracica ed essere in grado di eseguirne essi stessi.  
+Art. 576. - Per tutti gli specializzandi che hanno superato gli esami al 5° anno ha luogo l'esame di diploma consistente nella presentazione e discussione di una dissertazione scritta su un argomento di chirurgia toracica concordato con la direzione della scuola.  
+Gli articoli 617, 618, 619, 620 e 621, relativi alla scuola di specializzazione in chirurgia cardiaca, che muta la denominazione in quella di scuola di specializzazione in cardioangiochirurgia, sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in cardioangiochirurgia  
+  
+Art. 617. - Presso la facolta' di medicina e chirurgia e' istituita la scuola di specializzazione in cardioangiochirurgia della durata di cinque anni che conferisce il diploma di specialista in cardioangiochirurgia.  
+Non sono ammesse abbreviazioni di corso.  
+Possono essere ammessi alla scuola i laureati in medicina e chirurgia in possesso, almeno all'inizio del corso, del diploma di abilitazione professionale.  
+Il numero degli iscritti e' di tre per ogni anno.  
+Art. 618. Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1) embriologia e teratologia;  
+2) anatomia descrittiva e topografica generale con particolare riguardo all'apparato cardiocircolatorio (biennale) I;  
+3) patologia chirurgica generale;  
+4) fisiologia dell'apparato cardiocircolatorio;  
+5) radiologia generale;  
+6) semeiotica clinica delle cardiopatie chirurgiche;  
+7) principi di informatica medica;  
+8) elementi di ingegneria medica.  
+2° Anno:  
+1) anatomia descrittiva e topografica generale con particolare riguardo all'apparato cardiocircolatorio (biennale) II;  
+2) clinica chirurgica generale;  
+3) anatomia ed istologia patologica con particolare riguardo all'apparato cardiocircolatorio (biennale) I;  
+4) cardioangioradiologia (biennale) I;  
+5) semeiotica strumentale delle cardiopatie chirurgiche;  
+6) elementi di anestesia e rianimazione;  
+7) fisiopatologia respiratoria;  
+8) fisiopatologia cardiocircolatoria (biennale) I;  
+9) patologia e clinica delle angiopatie chirurgiche.  
+3° Anno:  
+1) anatomia e istologia patologica con particolare riguardo all'apparato cardiocircolatorio (biennale) II;  
+2) cardioangioradiologia (biennale) II;  
+3) semeiotica di laboratorio delle cardiopatie chirurgiche;  
+4) semeiotica angiologica;  
+5) cardiologia medica (biennale) I;  
+6) terapia chirurgica e tecnica operatoria delle malattie del cuore e dei grossi vasi (triennale) I;  
+7) principi e tecniche della circolazione extra-corporea;  
+8) fisiopatologia cardiocircolatoria (biennale) Il;  
+9) patologia e clinica delle cardiopatie chirurgiche (biennale) I.  
+4° Anno:  
+1) cardiologia medica (biennale) II;  
+2) angiologia medica;  
+3) terapia chirurgica e tecnica operatoria delle malattie del cuore e dei grossi vasi (triennale) II;  
+4) terapia chirurgica e tecnica operatoria delle vasculopatie periferiche;  
+5) terapia intensiva (biennale) I;  
+6) patologia e clinica cardiologica pediatrica;  
+7) cardiochirurgia pediatrica (biennale) I;  
+8) patologia e clinica delle cardiopatie chirurgiche (biennale) II.  
+5° Anno:  
+1) terapia chirurgica e tecnica operatoria delle malattie del cuore e dei grossi vasi (triennale) III;  
+2) terapia intensiva (biennale) II;  
+3) cardiochirurgia pediatrica (biennale) II;  
+4) assistenza meccanica cardiocircolatoria.  
+Art. 619. - La frequenza alle lezioni e alle esercitazioni e' obbligatoria.  
+Gli allievi che non conseguono le attestazioni di frequenza non potranno essere ammessi a sostenere le prove di esami.  
+Art. 620. - Alla fine di ciascun anno di corso gli iscritti dovranno sostenere i relativi esami il cui superamento e' condizione necessaria ed indispensabile per ottenere l'iscrizione all'anno successivo; per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.  
+Art. 621. - Per conseguire il diploma di specializzazione i candidati, dopo avere superato gli esami di profitto, alla fine del 5° anno dovranno superare l'esame di diploma consistente nella discussione di una tesi scritta su un argomento attinente alla specializzazione e la cui scelta sia stata concordata fra diplomando e direttore della scuola.  
+Gli articoli 648, 649, 650, 651, 652 e 653, relativi alla scuola di specializzazione in chirurgia dell'infanzia, che muta la denominazione in quella di scuola di specializzione in chirurgia pediatrica, sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in chirurgia pediatrica  
+  
+Art. 648. - Presso la facolta' di medicina e chirurgia dell'Universita' di Bologna e' istituita la scuola di specializzazione in chirurgia pediatrica, che conferisce il diploma di specialista in chirurgia pediatrica.  
+La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.  
+Art. 649. - La direzione della scuola e' affidata al professore di ruolo della stessa materia di specializzazione o, in carenza, al professore di ruolo di materia affine.  
+Art. 650. - Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.  
+Art. 651. - Il numero massimo degli allievi e' di quattro per anno di corso e complessivamente di venti iscritti per l'intero corso di studi.  
+L'ammissione al corso avviene per titoli ed esami.  
+Art. 652. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1) embriologia e genetica delle malformazioni congenite;  
+2) anatomia patologica generale (biennale) I;  
+3) diagnostica radiologica e nucleare generale;  
+4) anestesiologia;  
+5) clinica pediatrica (biennale) I;  
+6) patologia e clinica chirurgica generale (biennale) I.  
+2° Anno:  
+1) patologia e clinica chirurgica generale (biennale) II;  
+2) rianimazione e terapia intensiva (biennale) I;  
+3) anatomia patologica generale (biennale) II;  
+4) diagnostica radiologica e nucleare delle malattie infantili;  
+5) clinica pediatrica (biennale) II.  
+3° Anno:  
+1) patologia e clinica chirurgica pediatrica (triennale) I;  
+2) endocrinologia pediatrica;  
+3) tecnica chirurgica generale;  
+4) rianimazione e terapia intensiva (biennale) Il;  
+5) chirurgia neonatale.  
+4° Anno:  
+1) patologia e clinica chirurgica pediatrica (triennale) II;  
+2) neurochirurgia pediatrica;  
+3) tecnica chirurgica pediatrica;  
+4) ortopedia pediatrica;  
+5) chirurgia plastica e ricostruttiva pediatrica.  
+5° Anno:  
+1) patologia e clinica chirurgica pediatrica (triennale) III;  
+2) otorinolaringoiatria pediatrica;  
+3) cardiochirurgia pediatrica;  
+4) urologia pediatrica.  
+La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.  
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
+Art. 653. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove d'esame sulle materie impartite durante l'anno ad eccezione delle discipline svolte in corsi pluriennali il cui esame sara' sostenuto alla fine dei corsi medesimi.  
+Al termine del corso di studi per il conseguimento del diploma di specialista in chirurgia pediatrica gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione. Gli articoli 665, 666, 667, 668, 669, 670, 671 e 672, relativi alla scuola di specializzazione in chirurgia d'urgenza e pronto soccorso, che muta la denominazione in quella di scuola di specializzazione in chirurgia generale d'urgenza e pronto soccorso, sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in chirurgia generale d'urgenza e pronto soccorso  
+Art. 665. - La scuola di specializzazione in chirurgia generale d'urgenza e di pronto soccorso ha sede presso la facolta' di medicina e chirurgia.  
+Il corso di studi per il conseguimento del diploma di specialista in chirurgia generale d'urgenza e di pronto soccorso ha la durata di cinque (5) anni accademici.  
+Art. 666. - Alla scuola possono iscriversi i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+Il numero massimo degli iscritti e' di otto per anno di corso.  
+Non sono ammesse abbreviazioni di corso.  
+L'ammissione al corso avviene per titoli ed esami.  
+Art. 667. - La frequenza alle lezioni, esercitazioni e seminari e' obbligatoria per tutti gli iscritti. L'internato e' obbligatorio durante tutti i cinque anni di corso sotto forma di permanenza costante in istituto durante le ore dell'attivita'.  
+Art. 668. - Le materie di insegnamento sono le seguenti:  
+clinica chirurgica generale d'urgenza e di pronto soccorso;  
+patologia chirurgica;  
+anatomia chirurgica;  
+semeiotica;  
+anestesiologia;  
+ricerche di laboratorio;  
+anatomia patologica;  
+endoscopia;  
+fisiopatologia chirurgica;  
+chirurgia sperimentale;  
+trattamento pre e postoperatorio in chirurgia d'urgenza;  
+rianimazione;  
+chirurgia vascolare d'urgenza;  
+traumatologia dell'apparato locomotore;  
+neurotraumatologia;  
+terapia intensiva;  
+radiologia;  
+chirurgia ginecologica d'urgenza;  
+chirurgia pediatrica d'urgenza;  
+chirurgia plastica e riparatrice;  
+chirurgia toracica d'urgenza;  
+cardiochirurgia d'urgenza;  
+angioradiologia;  
+chirurgia urologica d'urgenza;  
+traumatologia maxillo-facciale;  
+trattamento del politraumatizzato;  
+medicina legale.  
+Art. 669. - Le materie di insegnamento sono cosi' distribuite:  
+1° Anno:  
+1) clinica chirurgica generale d'urgenza e di pronto soccorso I;  
+2) patologia chirurgica I;  
+3) anatomia chirurgica;  
+4) semeiotica I;  
+5) anestesiologia;  
+6) ricerche di laboratorio;  
+7) chirurgia sperimentale.  
+2° Anno:  
+8) clinica chirurgica generale d'urgenza e di pronto soccorso II;  
+9) patologia chirurgica II;  
+10) anatomia patologica II;  
+11) endoscopia;  
+12) fisiopatologia chirurgica I;  
+13) semeiotica II;  
+14) trattamento pre e postoperatorio in chirurgia d'urgenza;  
+15) rianimazione.  
+3° Anno:  
+16) clinica chirurgica generale d'urgenza e di pronto soccorso III;  
+17) patologia chirurgica III;  
+18) chirurgia vascolare d'urgenza;  
+19) traumatologia dell'apparato locomotore I;  
+20) neurotraumatologia I;  
+21) fisiopatologia chirurgica II;  
+22) terapia intensiva I;  
+23) radiologia.  
+4° Anno:  
+24) clinica chirurgica generale d'urgenza e di pronto soccorso IV;  
+25) chirurgia ginecologica d'urgenza;  
+26) chirurgia pediatrica d'urgenza;  
+27) chirurgia plastica e riparatrice I;  
+28) traumatologia dell'apparato locomotore II;  
+29) neurotraumatologia II;  
+30) chirurgia toracica d'urgenza;  
+31) terapia intensiva II.  
+5° Anno:  
+32) clinica chirurgica generale d'urgenza e di pronto soccorso V;  
+33) chirurgia plastica e riparatrice II;  
+34) chirurgia toracica d'urgenza;  
+35) cardiochirurgia d'urgenza;  
+36) chirurgia urologica d'urgenza;  
+37) angioradiologia;  
+38) traumatologia maxillo-facciale;  
+39) trattamento del politraumatizzato;  
+40) medicina legale.  
+Art. 670. - Alla fine di ogni anno gli specializzandi per poter ottenere l'ammissione all'anno successivo dovranno superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno di corso; per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.  
+Art. 671. - L'esame di diploma consiste nella discussione di una tesi su un tema preventivamente approvato dal direttore della scuola.  
+Il direttore della scuola e' il professore di ruolo della stessa materia della specializzazione o, in carenza, professore di ruolo di materia affine.  
+Art. 672. - Le norme per l'iscrizione, gli esami, le tasse, ecc. sono quelle generali per le scuole di specializzazione dell'Universita' di Bologna.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 settembre 1956
+### Dato a Roma, addi' 3 maggio 1978
 
-GRONCHI ROSSI
+LEONE PEDINI
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 30 ottobre 1956
+Registrato alla Corte dei conti, addi' 9 ottobre 1978
 
-Atti del Governo, registro n. 101, foglio n. 106. - CARLOMAGNO
+Registro n. 109 Istruzione, foglio n. 194

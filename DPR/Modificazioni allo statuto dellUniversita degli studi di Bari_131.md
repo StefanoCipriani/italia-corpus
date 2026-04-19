@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1097
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 settembre 1982 n. 898
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1097
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 settembre 1982 n. 898
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 1269](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;1269), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -24,7 +24,7 @@ Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http:
 
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari, e convalidati dal Consiglio universitario nazionale nel suo parere;
 
 Sentito il parere del Consiglio universitario nazionale;
 
@@ -39,45 +39,19 @@ Articolo unico
 --------------
 
   
-  
-Nell'art. 117, lettera B, relativo al corso di laurea in ingegneria civile, sezione idraulica, l'insegnamento di "idrografia e idrologia" cambia la denominazione in "idrologia con elementi di statistica".   
-Nell'art. 119, lettera B, relativo al corso di laurea in ingegneria elettrotecnica, sono soppressi gli insegnamenti di "tecnologie meccaniche" e "legislazione".   
-Nell'art. 121, relativo agli insegnamenti a scelta dello studente, gli insegnamenti di:   
-calcolo numerico e programmazione;   
-calcolo delle probabilita' e statistica (semestrale);   
-costruzioni automobilistiche;   
-macchine per l'agricoltura e i cantieri;   
-termodinamica applicata;   
-impianti tecnici per l'edilizia;   
-plasticita' e lavorazioni plastiche (semestrale);   
-tecniche fotogrammetriche applicate alla urbanistica ed alla architettura (semestrale);   
-gasdinamica e principi di aerotecnica;   
-complementi di idraulica (semestrale), mutano la denominazione rispettivamente in:   
-calcolo numerico ed elementi di statistica;   
-fluidodinamica numerica (semestrale);   
-meccanica dell'autoveicolo;   
-problemi speciali di meccanica delle macchine agricole e di cantieri;   
-generatori di potenza ed impianti termici;   
-impianti tecnici dell'edilizia;   
-lavorazioni per deformazione plastica (semestrale);   
-fotogrammetria architettonica (semestrale);   
-gasdinamica;   
-complementi di costruzioni idrauliche (semestrale).   
-Nello stesso elenco sono aggiunti i seguenti nuovi insegnamenti:   
-tecnologie meccaniche;   
-legislazione.   
-Nell'art. 125, relativo agli istituti annessi alla facolta' di ingegneria, gli istituti di "fisica tecnica" e di "costruzioni di macchine" mutano la denominazione rispettivamente in "istituto di fisica tecnica ed impianti termotecnici" e "istituto di meccanica e costruzioni delle macchine".   
+Dopo l'art. 61, con il conseguente spostamento della numerazione degli articoli successivi, e' istituito il seguente nuovo articolo:  
+Art. 62. - Alla facolta' di medicina e chirurgia e' annessa la relativa biblioteca alla quale e' addetto personale appositamente designato dai competenti organi secondo le disposizioni vigenti.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1981
+### Dato a Roma, addi' 9 settembre 1982
 
 PERTINI BODRATO
 
 Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 10 marzo 1982
+Registrato alla Corte dei conti, addi' 26 novembre 1982
 
-Registro n. 38 Istruzione, foglio n. 248
+Registro n. 128 Istruzione, foglio n. 331

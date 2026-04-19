@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1119
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1955 n. 624
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1119
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1955 n. 624
+=============================================================
 
 Modificazioni allo statuto del Politecnico di Milano.
 -----------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto del Politecnico di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto del Politecnico di Milano, approvato con [regio decreto 20 aprile 1939, n. 1028](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1028) e modificato con [regio decreto 11 luglio 1942, n. 921](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-07-11;921), e successive modificazioni;
+Veduto lo statuto del Politecnico di Milano, approvato con [regio decreto 20 aprile 1939, n. 1028](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1028), e modificato con [regio decreto 11 luglio 1942, n. 921](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-07-11;921) e con [decreti del Presidente della Repubblica 27 ottobre 1951, n. 1802](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1802) e [14 settembre 1954, n. 1201](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1201);
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,84 +20,91 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche del Politecnico anzidetto;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dei Politecnico anzidetto;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla, proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
 Lo statuto del Politecnico di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 8 - all'elenco degli insegnamenti obbligatori sul piano della facolta' del corso di laurea in ingegneria chimica sono aggiunti i seguenti:
+Dopo l'art. 13, e' aggiunto il seguente nuovo articolo, con il conseguente spostamento della numerazione degli articoli successivi.
 
-Metallurgia;
+Art. 14. - Nel triennio di studi di applicazione del corso di laurea in architettura solo istituiti, ai sensi della [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312), i seguenti nuovi insegnamenti complementari di durata annuale:
 
-Processi per la riduzione degli inquinanti nell'industria chimica (semestrale);
+1) Architettura sociale;
 
-Trattamento degli effluenti dell'industria chimica (semestrale).
+2) Allestimento e museografia;
 
-Art. 9 - all'elenco degli insegnamenti obbligatori sul piano della facolta' del corso di laurea in ingegneria civile (sezione edile) e' aggiunto quello di "Istituzioni di scienze economico-sociali II".
+3) Arte e tecnica del serramento;
 
-Art. 10 - nell'elenco degli insegnamenti obbligatori sul piano della facolta' del corso di laurea in ingegneria elettronica, l'insegnamento di "Complementi di analisi matematica" e' soppresso e sostituito da quello di "Analisi matematica III".
+4) Unificazione edilizia e prefabbricazione;
 
-Art. 12 - all'elenco degli insegnamenti obbligatori sul piano della facolta' del corso di laurea in ingegneria meccanica e' aggiunto quello di "Motori alternativi".
+5) Complementi di urbanistica.
+
+L'art. 27 e' sostituito dal seguente:
+
+Le tasse e soprattasse dei singoli corsi di perfezionamento sono determinate ogni anno accademico con deliberazione del Consiglio di amministrazione su proposta del Consiglio della facolta' di ingegneria approvata dal Senato accademico. I contributi sono stabiliti ogni anno accademico dal Consiglio di amministrazione, su proposta del Senato accademico, udita la Facolta' e scuola.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 31 ottobre 1973
+Dato a Roma, addi' 11 aprile 1955
 
-LEONE
+EINAUDI
 
-MALFATTI
+ERMINI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: DE PIETRO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 31 maggio 1974 Atti di Governo, registro n. 3, foglio n. 58. - SCIARRETTA
+alla Corte dei conti, addi' 1 agosto 1955 Atti del Governo, registro n. 92, foglio n. 2. - CARLOMAGNO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto del Politecnico di Milano, approvato con [regio decreto 20 aprile 1939, n. 1028](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1028) e modificato con [regio decreto 11 luglio 1942, n. 921](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-07-11;921), e successive modificazioni;  
+Veduto lo statuto del Politecnico di Milano, approvato con [regio decreto 20 aprile 1939, n. 1028](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1028), e modificato con [regio decreto 11 luglio 1942, n. 921](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-07-11;921) e con [decreti del Presidente della Repubblica 27 ottobre 1951, n. 1802](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1802) e [14 settembre 1954, n. 1201](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1201);  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche del Politecnico anzidetto;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dei Politecnico anzidetto;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla, proposta del Ministro per la pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto del Politecnico di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 8 - all'elenco degli insegnamenti obbligatori sul piano della facolta' del corso di laurea in ingegneria chimica sono aggiunti i seguenti:  
   
-Metallurgia;  
-Processi per la riduzione degli inquinanti nell'industria chimica (semestrale);  
-Trattamento degli effluenti dell'industria chimica (semestrale).  
-Art. 9 - all'elenco degli insegnamenti obbligatori sul piano della facolta' del corso di laurea in ingegneria civile (sezione edile) e' aggiunto quello di "Istituzioni di scienze economico-sociali II".  
-Art. 10 - nell'elenco degli insegnamenti obbligatori sul piano della facolta' del corso di laurea in ingegneria elettronica, l'insegnamento di "Complementi di analisi matematica" e' soppresso e sostituito da quello di "Analisi matematica III".  
-Art. 12 - all'elenco degli insegnamenti obbligatori sul piano della facolta' del corso di laurea in ingegneria meccanica e' aggiunto quello di "Motori alternativi".  
+Dopo l'art. 13, e' aggiunto il seguente nuovo articolo, con il conseguente spostamento della numerazione degli articoli successivi.  
+Art. 14. - Nel triennio di studi di applicazione del corso di laurea in architettura solo istituiti, ai sensi della [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312), i seguenti nuovi insegnamenti complementari di durata annuale:  
+1) Architettura sociale;  
+2) Allestimento e museografia;  
+3) Arte e tecnica del serramento;  
+4) Unificazione edilizia e prefabbricazione;  
+5) Complementi di urbanistica.  
+L'art. 27 e' sostituito dal seguente:  
+  
+Le tasse e soprattasse dei singoli corsi di perfezionamento sono determinate ogni anno accademico con deliberazione del Consiglio di amministrazione su proposta del Consiglio della facolta' di ingegneria approvata dal Senato accademico. I contributi sono stabiliti ogni anno accademico dal Consiglio di amministrazione, su proposta del Senato accademico, udita la Facolta' e scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1973
+### Dato a Roma, addi' 11 aprile 1955
 
-LEONE MALFATTI
+EINAUDI ERMINI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: DE PIETRO
 
-Registrato alla Corte dei conti, addi' 31 maggio 1974
+Registrato alla Corte dei conti, addi' 1 agosto 1955
 
-Atti di Governo, registro n. 3, foglio n. 58. - SCIARRETTA
+Atti del Governo, registro n. 92, foglio n. 2. - CARLOMAGNO

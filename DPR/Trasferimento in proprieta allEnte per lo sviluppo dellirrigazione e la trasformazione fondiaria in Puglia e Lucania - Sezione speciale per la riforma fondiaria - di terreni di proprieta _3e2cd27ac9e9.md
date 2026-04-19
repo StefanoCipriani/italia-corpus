@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 novembre 1951 n. 1263
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 novembre 1951 n. 1253
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 novembre 1951 n. 1263
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 novembre 1951 n. 1253
 ================================================================
 
 Trasferimento in proprieta' all'Ente per lo sviluppo dell'irrigazione e la trasformazione fondiaria in Puglia e Lucania - Sezione speciale per la riforma fondiaria - di terreni di proprieta' di Pavoncelli Giuseppe, Gaetano, Federico e Antonio fu Nicola, in comune di Cerignola (Foggia).
@@ -10,7 +10,7 @@ Trasferimento in proprieta' all'Ente per lo sviluppo dell'irrigazione e la trasf
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Visti gli [articoli 77, comma primo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77-com1), ed [87, comma quinto, della, Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5) della Repubblica;
+Visti gli [articoli 77, comma primo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77-com1), ed [87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5) della Repubblica;
 
 Viste le [leggi 12 maggio 1950, n. 230 e 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841);
 
@@ -18,7 +18,7 @@ In virtu' della delegazione concessa dagli [articoli 5 della legge 12 maggio 195
 
 Visto il [decreto del Presidente della Repubblica in data 7 febbraio 1951, n. 67](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-02-07;67);
 
-Udito il parere, in data 4 ottobre 1951, della Commissione parlamentare, nominata a norma degli [articoli 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5), ed 1 e 2 della [legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841), la quale ha esaminato il piano particolareggiato di espropriazione n. 82, compilato dall'Ente per lo sviluppo dell'irrigazione e la trasformazione fondiaria in Puglia e Lucania - Sezione speciale per la riforma fondiaria - per i terreni ricadenti nel comune di Cerignola (provincia di Foggia), della superficie di Ha. 397.30.02, nei confronti di Pavoncelli Giuseppe, Gaetano, Federico e Antonio fu Nicola;
+Udito il parere, in data 4 ottobre 1951, della Commissione parlamentare, nominata a norma degli [articoli 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5), ed 1 e 2 della [legge 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841), la quale, ha esaminato il piano particolareggiato di espropriazione n. 84, compilato dall'Ente per lo sviluppo dell'irrigazione e la trasformazione fondiaria in Puglia e Lucania - Sezione speciale per la riforma fondiaria - per i terreni ricadenti nel comune di Cerignola (provincia di Foggia), della superficie di Ha. 25.02.84, nei confronti di Pavoncelli Giuseppe, Gaetano, Federico e Antonio fu Nicola;
 
 Sentito il Consiglio dei Ministri;
 
@@ -31,7 +31,7 @@ Art. 1
 ------
 
   
-E' approvato il piano particolareggiato di espropriazione n. 82, compilato dall'Ente per lo sviluppo dell'irrigazione e la trasformazione fondiaria in Puglia e Lucania - Sezione speciale per la riforma fondiaria - per i terreni ricadenti nel comune di Cerignola (provincia di Foggia), della superficie di Ha. 397.30.02, nei confronti di Pavoncelli Giuseppe, Gaetano, Federico e Antonio fu Nicola.  
+E' approvato il piano particolareggiato di espropriazione n. 84, compilato dall'Ente per lo sviluppo dell'irrigazione e la trasformazione fondiaria in Puglia e Lucania - Sezione speciale per la riforma fondiaria - per i terreni ricadenti nel comune di Cerignola (provincia di Foggia), della superficie di Ha. 25.02.84, nei confronti di Pavoncelli Giuseppe, Gaetano, Federico e Antonio fu Nicola.  
 
 Art. 2
 ------
@@ -63,23 +63,14 @@ Visto, il Guardasigilli: ZOLI
 
 Registrato alla Corte dei conti, addi' 26 novembre 1951
 
-Atti del Governo, registro n. 46, foglio n. 34. - FRASCA
+Atti del Governo, registro n. 46, foglio n. 29. - FRASCA
 
 Elenco
 
  COMUNE DI CERIGNOLA (Foggia)   
   
-Elenco dei terreni espropriati nei confronti di Pavoncelli Giuseppe, Gaetano, Federico e Antonio fu Nicola, per un quarto ciascuno, a norma delle [leggi 12 maggio 1950, n. 230, 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841) e D. P. 7 febbraio 1951, n. 67.   
+Elenco dei terreni espropriati nei confronti di Pavoncelli Giuseppe, Gaetano, Federico e Antonio fu Nicola per un quarto ciascuno, a norma delle [leggi 12 maggio 1950, n. 230, 21 ottobre 1950, n. 841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-10-21;841) e D. P. 7 febbraio 1951, n. 67.   
   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v051U12630010001011000102&dgu=1951-11-30&art.dataPubblicazioneGazzetta=1951-11-30&art.codiceRedazionale=051U1263)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=051U125300100010110001&dgu=1951-11-30&art.dataPubblicazioneGazzetta=1951-11-30&art.codiceRedazionale=051U1253)
   
-
-((1))
-
---------------
-
-AGGIORNAMENTO (1)
-
-L'Errata-Corrige in G.U. 15/06/1955, n. 136, ha disposto la seguente modifica al presente Elenco:   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v051U12630010001011000202&dgu=1951-11-30&art.dataPubblicazioneGazzetta=1951-11-30&art.codiceRedazionale=051U1263)

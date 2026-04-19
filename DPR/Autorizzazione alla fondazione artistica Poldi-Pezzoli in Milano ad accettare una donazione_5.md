@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1978 n. 490
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 ottobre 1978 n. 745
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1978 n. 490
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 ottobre 1978 n. 745
+==============================================================
 
 Autorizzazione alla fondazione artistica "Poldi-Pezzoli", in Milano, ad accettare una donazione.
 ------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-490. Decreto del Presidente della Repubblica 1 giugno 1978, col quale, sulla proposta del Ministro per i beni culturali e ambientali, la fondazione artistica "Poldi-Pezzoli", in Milano, viene autorizzata ad accettare la donazione, disposta dalla sig.ra Anna Rosselli in Baslini, con atto 18 luglio 1977, n. 65385/22380 di repertorio, a rogito dott. Cesare Gallavresi, notaio in Milano, consistente in centosette pizzi antichi dal XVIII al XIX secolo, con destinazione al museo "Poldi-Pezzoli".  
+745. Decreto del Presidente della Repubblica 3 ottobre 1978, col quale, sulla proposta del Ministro per i beni culturali ed ambientali, la fondazione artistica "Poldi-Pezzoli", in Milano, viene autorizzata ad accettare la donazione disposta dalle signore Camiz Gina e Camiz Carla, consistente in una collezione di pizzi antichi del valore dichiarato di L. 1.000.000, con destinazione al museo "Poldi-Pezzoli".  
   
 Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 19 agosto 1978  
-Registro n. 11 Beni culturali, foglio n. 182
+Registrato alla Corte dei conti, addi' 13 novembre 1978  
+Registro n. 15 Beni culturali, foglio n. 246

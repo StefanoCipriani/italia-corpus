@@ -1,133 +1,68 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1981 n. 888
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 settembre 1955 n. 953
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1981 n. 888
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 settembre 1955 n. 953
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Veduto l'[art. 16 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art16);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Lo statuto dell'Universita' di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [regio decreto 12 ottobre 1927, n. 2255](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-12;2255) e modificato con i [regi decreti 15 novembre 1928, n. 2606](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1928-11-15;2606); [31 ottobre 1929, n. 2400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1929-10-31;2400); [1 ottobre 1931, n. 1372](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1931-10-01;1372); [27 ottobre 1932, n. 2062](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1932-10-27;2062); [27 dicembre 1934, n. 2448](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-27;2448); [27 ottobre 1936, n. 2457](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-27;2457); [27 marzo 1939, numero 1296](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-03-27;1296); [9 maggio 1939, n. 1469](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-05-09;1469); [26 ottobre 1940, n. 2065](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2065); [27 aprile 1942, n. 470](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-04-27;470); [5 settembre 1942, numero 1266 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-09-05;1266) [30 ottobre 1949, n. 1028](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1028); [18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964); [25 luglio 1952, n 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207); [10 febbraio 1953, n. 377](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;377); [8 febbraio 1954, n. 402](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-02-08;402) e [19 luglio 1955, n. 778](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-19;778);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 3 novembre 1952, n. 1787](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-11-03;1787);  
+Veduta, la [legge 20 ottobre 1954, n. 1034](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-10-20;1034);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Dopo l'art. 156, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in "nefrologia" e in "diabetologia e malattie del ricambio".  
+Decreta:  
   
-Scuola di specializzazione in nefrologia  
+Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 157. - La scuola di specializzazione in nefrologia ha sede presso la facolta' di medicina e chirurgia nell'istituto di semeiotica medica e conferisce il diploma di specialista in nefrologia.  
-La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.  
-Art. 158. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione allo esercizio professionale rilasciato dalla autorita' competente.  
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.  
-Il numero massimo degli allievi e' di sei per anno di corso e complessivamente di ventiquattro iscritti per l'intero corso di studi.  
-L'ammissione alla scuola avviene per titoli ed esami.  
-Art. 159. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-struttura ed ultrastruttura normale del rene;  
-aspetti biochimici della funzione renale;  
-fisiologia renale;  
-microbiologia ed immunologia applicata alla nefrologia;  
-genetica applicata alla nefrologia;  
-semeiotica renale I.  
-2° Anno:  
-struttura ed ultrastruttura patologica del rene;  
-patologia del ricambio idro-elettrolitico;  
-insufficienza renale;  
-rene ed ipertensione arteriosa;  
-semeiotica renale II;  
-nefropatie tubulari.  
-3° Anno:  
-nefropatie glomerulari;  
-nefropatie interstiziali;  
-nefropatie vascolari;  
-terapia dietetica e dialitica I;  
-farmacologia di interesse nefrologico.  
-4° Anno:  
-nefrouropatie calcolotiche, malformative e neoplastiche;  
-terapia dietetica e dialitica II;  
-fisiopatologia e clinica del trapianto renale;  
-aspetti di nefrologia nell'eta' pediatrica;  
-problemi chirurgici in nefrologia;  
-terapia medica delle nefropatie.  
-Art. 160. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove d'esame.  
-Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni di corso successivi, devono aver superato tutte le prove di esame sulle singole materie impartite durante l'anno. Al termine del corso di studi, per il conseguimento del diploma di specialista in nefrologia, gli interessati dovranno superare l'esame di diploma consistente nella discussione di una dissertazione scritta di un argomento attinente alla specializzazione.  
-  
-Scuola di specializzazione in diabetologia e malattie del ricambio  
-  
-Art. 161. - La scuola di specializzazione in diabetologia e malattie del ricambio ha sede presso la facolta' di medicina e chirurgia dell'Universita' di Ferrara e conferisce il diploma di specialista in diabetologia e malattie del ricambio.  
-La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.  
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto almeno all'inizio del corso il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalla competente autorita'.  
-La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazioni.  
-Il numero massimo degli allievi e' di otto per anno di corso e complessivamente di ventiquattro iscritti per l'intero corso di studi.  
-L'ammissione alla scuola avviene per titoli ed esami.  
-Art. 162. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-1) anatomia e citomorfologia funzionale;  
-2) elementi di genetica del diabete e delle malattie del ricambio;  
-3) metodi di analisi chimica e quantitativa;  
-4) patologia molecolare;  
-5) fisiopatologia clinica del diabete e delle malattie del ricambio;  
-6) elementi di biometria e di statistica (complementare);  
-7) auxologia e aucopatia metaboliche (complementare).  
-2° Anno:  
-1) patologia sperimentale metabolica;  
-2) semeiotica fisica e funzionale del diabete e delle malattie del ricambio;  
-3) clinica del diabete e delle malattie del ricambio I;  
-4) medicina sociale e preventiva del diabete e delle malattie del ricambio;  
-5) neuropatologia del diabete e delle malattie del ricambio (complementare);  
-6) fisiopatologia e clinica ostetrico-ginecologica del diabete e delle malattie del ricambio (complementare).  
-3° Anno:  
-1) clinica del diabete e delle malattie del ricambio II;  
-2) farmacologia e terapia del diabete e delle malattie del ricambio;  
-3) dietologia del diabete e delle malattie del ricambio;  
-4) elementi di psicologia nel diabete e nelle malattie del ricambio (complementare);  
-5) terapia chirurgica nel diabete e nelle malattie del ricambio (complementare);  
-6) oftalmologia nel diabete e nelle malattie del ricambio (complementare).  
-I corsi saranno integrati da conferenze su argomenti specialistici e da esercitazioni pratiche cliniche e di laboratorio.  
-Art. 163. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove d'esame.  
-Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni di corso successivi, devono avere superato tutte le prove di esame sulle singole materie impartite durante l'anno. Al termine del corso di studi per il conseguimento del diploma di specialista in diabetologia e malattie del ricambio, gli interessati dovranno superare l'esame di diploma consistente nella discussione di una dissertazione scritta di un argomento attinente alla specializzazione.  
+Agli articoli 25 e 26 sono aggiunte le seguenti disposizioni concernenti il terzo biennio della Facolta' di medicina e chirurgia.  
+Sono inoltre inclusi nuovi insegnamenti complementari nei corsi di laurea in medicina e chirurgia ed in farmacia.  
+Art. 25. - Dopo il terzo comma e' aggiunto:  
+Terzo biennio:  
+14) Clinica medica generale e terapia medica (biennale;  
+15) Clinica chirurgica generale e terapia chirurgica (biennale);  
+16) Clinica pediatrica;  
+17) Clinica ostetrica e ginecologica;  
+18) Igiene;  
+19) Medicina legale e delle assicurazioni;  
+20) Clinica delle malattie nervose e mentali (semestrale);  
+21) Clinica dermosifilopatica (semestrale);  
+22) Clinica oculistica (semestrale);  
+23) Clinica odontoiatrica (semestrale);  
+24) Radiologia (semestrale).  
+Agli insegnamenti complementari del corso di laurea in medicina, e chirurgia e' aggiunto quello di:  
+12) Psicologia.  
+L'art. 26 e' sostituito dal seguente:  
+Per ottenere l'iscrizione al terzo anno ed al quinto anno, lo studente deve avere seguito gli insegnamenti fondamentali prescritti rispettivamente per il primo e per il secondo biennio e superato i relativi esami.  
+Gli esami di "fisiologia umana" e di "patologia generale" debbono essere superati prima di sostenere quelli di "patologia speciale medica" e di "patologia speciale chirurgica".  
+Per l'insegnamento di "anatomia ed istologia patologica" e' prescritto alla fine del quarto anno, un colloquio sulle "istituzioni" e sulla "istologia patologica", ed un esame su tutta la materia alla fine del quinto anno; lo studente che non abbia superato questo esame non puo' essere ammesso a sostenere gli esami nelle discipline del sesto anno.  
+L'insegnamento delle cliniche medica, chirurgica ed ostetrico-ginecologica deve essere completato da un tirocinio pratico continuativo di almeno sei mesi, in istituti ospedalieri, da iniziare dopo la chiusura dei corsi di insegnamento del sesto anno e da compiere prima che i giovani si presentino a sostenere l'esamne di abilitazione all'esercizio professionale.  
+Per essere ammesso all'esame di laurea lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in tre da lui scelti fra i complementari, e deve avere inoltre seguito le prescritte esercitazioni pratiche e cliniche.  
+Art. 66. - Agli insegnamenti complementari del corso di laurea in farmacia e' aggiunto quello di:  
+8) Scienza dell'alimentazione.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1981
+### Dato a Roma, addi' 21 settembre 1955
 
-PERTINI BODRATO
+GRONCHI ROSSI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: MORO
 
-Registrato alla Corte dei conti, addi' 20 gennaio 1982
+Registrato alla Corte dei conti, addi' 25 ottobre 1955
 
-Registro n. 6 Istruzione, foglio n. 96
+Atti del Governo, registro n. 93, foglio n. 90. - CARLOMAGNO

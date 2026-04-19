@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1978 n. 554
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 ottobre 1978 n. 694
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 luglio 1978 n. 554
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 ottobre 1978 n. 694
+==============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
 -----------------------------------------------------------------------------------------------------
@@ -12,8 +12,14 @@ Art. 1
 
 N.
 
-554. Decreto del Presidente della Repubblica 25 luglio 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla sig.ra Fassi Virginia ved. Silvioni con testamento olografo 11 giugno 1973, pubblicato a rogito dott. Ferruccio Brambilla, notaio in Milano, in data 16 aprile 1975, n. 22097/2373 di repertorio, registrato a Busto Arsizio (Varese) il 2 maggio 1975 al n. 879, vol. 156, consistente in beni mobili d'arredamento, suppellettili, titoli di credito e buoni postali fruttiferi per un valore presunto di L. 4.206.710.  
+694. Decreto del Presidente della Repubblica 6 ottobre 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dal sig. Bonecchi Adelmo fu Ferdinando, con testamenti olografi in data 12 novembre 1973 e 28 maggio 1974, pubblicati a rogito notaio dott. Paolo Consolandi in data 2 dicembre 1975, n. 58416/10438 di repertorio, registrati a Milano il 15 dicembre 1975, al n. A/4-12097, consistente in: beni immobili:
+
+a) appartamento al 1° piano dello stabile sito in Milano, via Carlo d'Adda n. 3, distinto al nuovo catasto edilizio urbano alla partita 6291, foglio 518, mappale 132 sub 10, di vani 4;
+
+b) appartamento al 2° piano dello stabile sopracitato, riportato nel nuovo catasto edilizio urbano alla partita 6291, foglio 518, mappale 132 sub 15, di vani 4;
+
+c) appartamento al 2° piano dello stabile sopradescritto, riportato nel nuovo catasto edilizio urbano alla partita 6291, foglio 518, mappale 132 sub 14, di vani 1,5; beni mobili: conti correnti bancari vari, titoli, libretti a risparmio, oggetti preziosi, oro, ecc., custoditi in cassetta di sicurezza; il tutto per un valore complessivo netto di L. 301.418.417.   
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 13 settembre 1978  
-Registro n. 6 Presidenza, foglio n. 287
+Visto, il Guardasigilli: BONIFACIO   
+Registrato alla Corte dei conti, addi' 7 novembre 1978   
+Registro n. 7 Presidenza, foglio n. 200

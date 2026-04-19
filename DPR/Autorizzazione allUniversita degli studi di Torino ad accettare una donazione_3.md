@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 novembre 1954 n. 1212
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 maggio 1953 n. 679
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 novembre 1954 n. 1212
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 maggio 1953 n. 679
+=============================================================
 
 Autorizzazione all'Universita' degli studi di Torino ad accettare una donazione.
 --------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1212. Decreto del Presidente della Repubblica 16 novembre 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Torino viene autorizzata ad accettare la donazione di L. 50.000, proveniente da sottoscrizioni e destinata ad incrementare il capitale del "Premio Vicarelli" istituito presso l'Universita' medesima.  
+679. Decreto del Presidente della Repubblica 30 maggio 1953, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Torino viene autorizzata ad accettare la donazione di un complesso di attrezzature e di strumentari per un valore di L. 2.717.000 disposta in suo favore dal prof. Fausto Brunetti, a nome del Comitato promotore per le onoranze al compianto prof. Arnaldo Malan, con atto pubblico amministrativo in data 16 settembre 1952, per l'istituzione, presso l'Istituto di clinica otorinolaringoiatrica dell'Universita' medesima, di un reparto audiologico ed otoneurologico da intitolarsi in perpetuo al nome del prof. Arnaldo Malan.  
   
-Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 30 dicembre 1954  
-Atti del Governo, registro n. 87, foglio n. 115. - CARLOMAGNO
+Visto, il Guardasigilli: ZOLI  
+Registrato alla Corte dei conti, addi' 3 settembre 1953  
+Atti del Governo, registro n. 79, foglio n. 19. - PALLA

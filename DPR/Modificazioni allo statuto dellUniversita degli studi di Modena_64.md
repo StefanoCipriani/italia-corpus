@@ -1,79 +1,107 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1110
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 592
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1110
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 592
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Modena.
 ------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Modena e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, numero 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035), e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Dopo l'art. 212 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in endocrinologia.  
-  
-Scuola di specializzazione in endocrinologia  
-  
-Art. 213. - La scuola di specializzazione in endocrinologia conferisce il diploma di specialista in endocrinologia.  
-Art. 214. - Alla scuola, che ha sede presso la cattedra di semeiotica medica dell'universita', sono ammessi i laureati in medicina e chirurgia.  
-Art. 215. - La scuola ha la durata di anni tre con 6 posti disponibili per anno. Totale 18 posti.  
-Art. 216. - Gli insegnamenti impartiti nella scuola sono:  
-  
-1° Anno:  
-Insegnamenti fondamentali:  
-1) Anatomia ed embriologia degli organi endocrini;  
-2) Fisiologia endocrina;  
-3) Biochimica endocrina;  
-4) Anatomia patologica delle malattie endocrine (biennali);  
-5) Semeiotica e diagnostica endocrina (biennale);  
-Insegnamenti complementari:  
-1) Tecniche di laboratorio endocrinologiche.  
-  
-2° Anno:  
-Insegnamenti fondamentali:  
-1) Anatomia patologica delle malattie endocrine (biennale);  
-2) Semeiotica e diagnostica endocrine (biennale);  
-3) Patologia speciale medica e clinica delle malattie endocrine e delle auxopatie (biennale);  
-4) Eredopatologia endocrina;  
-Insegnamenti complementari:  
-1) Endocrinologia ostetrico-ginecologica.  
-  
-3° Anno:  
-Insegnamenti fondamentali:  
-1) Patologia speciale medica e clinica delle malattie endocrine e delle auxopatie (biennale);  
-2) Terapia delle malattie endocrine;  
-Insegnamenti complementari:  
-1) Farmacologia endocrina.  
-  
-Art. 217. - Per essere ammessi all'anno successivo gli allievi debbono ottenere tutte le attestazioni di frequenza ai corsi propri dell'anno e debbono superare tutti gli esami.  
-Per essere ammessi all'esame di diploma gli allievi dovranno aver superato tutti gli esami delle materie fondamentali piu' un esame di almeno una materia complementare a scelta.  
-I candidati, non riconosciuti idonei agli esami di ciascun corso e all'esame di diploma, potranno sostenere le prove dopo un altro anno di frequenza.  
+Nell'art. 47, all'elenco degli insegnamenti complementari, sono aggiunti i seguenti nuovi insegnamenti:  
+astrofisica;  
+statistica;  
+teoria dei giochi;  
+teoria dei grafi;  
+topologia differenziale;  
+geometria combinatoria.  
+Nell'art. 48, all'elenco degli insegnamenti complementari del corso di laurea in fisica, sono aggiunti i seguenti nuovi insegnamenti:  
+fisica dei sistemi a molticorpi;  
+ottica;  
+tecniche del vuoto;  
+proprieta' magnetiche dei solidi;  
+fisica delle superfici;  
+fisica dell'atmosfera;  
+meteorologia e climatologia;  
+fisica ambientale;  
+telediagnostica ambientale;  
+oceanografia e limnologia.  
+Nell'art. 49, all'elenco degli insegnamenti complementari del corso di laurea in chimica per l'indirizzo organico-biologico, sono aggiunti i seguenti nuovi insegnamenti complementari:  
+elettrochimica organica;  
+meccanismi di reazione in chimica inorganica;  
+chimica nucleare applicata;  
+chimica biorganica;  
+meccanismi di reazione in chimica organica;  
+storia della chimica.  
+Nello stesso articolo, all'elenco degli insegnamenti per l'indirizzo inorganico-chimico-fisico, sono aggiunti i seguenti insegnamenti:  
+teoria degli elettroliti;  
+meccanismi di reazione in chimica inorganica;  
+chimica fisica delle interfasi;  
+chimica biorganica;  
+chimica nucleare applicata;  
+meccanismi di reazione in chimica organica;  
+storia della chimica.  
+Nell'art. 50, all'elenco degli insegnamenti complementari del corso di laurea in scienze naturali, sono aggiunti i seguenti nuovi insegnamenti:  
+paleobotanica;  
+paleoecologia;  
+geologia regionale;  
+sedimentologia;  
+mineralogia applicata.  
+Nell'art. 52, all'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche, sono aggiunti i seguenti nuovi insegnamenti complementari:  
+geologia stratigrafica;  
+geologia strutturale;  
+geofisica della terra solida;  
+cristallografia;  
+petrografia del metamorfico;  
+paleontologia stratigrafica.  
+Nell'art. 53, all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche, sono aggiunti i seguenti nuovi insegnamenti:  
+citochimica e istochimica;  
+parassitologia;  
+biochimica applicata;  
+biogeografia;  
+biologia dello sviluppo.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1972
+### Dato a Roma, addi' 26 febbraio 1982
 
-LEONE SCALFARO
+PERTINI BODRATO
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte, dei conti, addi' 23 marzo 1973
+Registrato alla Corte dei conti, addi' 10 agosto 1982
 
-Atti di Governo, registro n. 257, foglio n. 7. - VALENTINI
+Registro n. 99 Istruzione, foglio n. 175

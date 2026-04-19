@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1965 n. 386
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1971 n. 1339
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1965 n. 386
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1971 n. 1339
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
@@ -10,97 +10,78 @@ Modificazioni allo statuto dell'Universita' degli studi di Roma.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734) e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Roma approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 50. - Agli isegnamenti complementari del corso di laurea in lettere sono aggiunti quelli di:  
-Storia del teatro e della drammaturgia antica;  
-Sanscrito;  
-Logica;  
-Storia delle dottrine politiche;  
-Storia delle dottrine economiche;  
-Storia della scienza.  
-Art. 58. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere moderne (indirizzo europeo) e' aggiunto quello di: "Filologia ibero-romanza".  
-Art. 61, relativo alle modalita' dell'esame di laurea in Lettere e filosofia viene abrogato e sostituito dal seguente:  
-"L'esame di laurea consiste nella discussione orale di una dissertazione scientifica".  
-La dissertazione scientifica verte sopra un argomento liberamente scelto dal candidato d'intesa con un professore o con un libero docente, nell'ambito degli insegnamenti del proprio corso di laurea.  
-Per i candidati alla laurea in Lingue e letterature straniere moderne e' ammesso nella dissertazione l'uso della lingua prescelta.  
-Art. 65. - E' modificato nel senso che agli istituti annessi alla Facolta' di magistero per il gruppo A (materie letterarie) e per il gruppo B (pedagogia) e' aggiunto l'Istituto di psicologia, che e' anche ordinato a seminario ed ha lo scopo di addestrare i giovani nello studio della psicologia e di iniziarli alla ricerca scientifica.  
-Art. 67. - Agli insegnamenti complementari del corso di laurea in pedagogia e' aggiunto quello di "Storia della musica".  
-Art. 68. - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere e' aggiunto quello di "Storia della musica".  
-Art. 87. - Agli Istituti delle Facolta' di scienze matematiche fisiche e naturali e' aggiunto l'istituto di "Istologia ed embriologia".  
-Art. 280, relativo alla Scuola di perfezionamento in filosofia e' aggiunto tra le materie costitutive della scuola l'insegnamento di "Storia delle dottrine economiche".  
-Gli articoli 382, 383 e 384, relativi alla Scuola di perfezionamento in urologia sono abrogati e sostituiti dai seguenti nuovi articoli con la nuova denominazione in "Scuola di specializzazione in urologia".  
-  
-Scuola di specializzazione in urologia  
-  
-Art. 382. - La durata del corso degli studi nella scuola di specializzazione in urologia e' di tre anni.  
-Art. 383. - Il numero degli iscritti al 1° anno non puo' essere superiore a 25.  
-Art. 381. - Gli insegnamenti prescritti per il diploma di Specializzazione in urologia sono i seguenti:  
-1° Anno:  
-1) Anatomia descrittiva e topografica dell'apparato uro-genitale.  
-2) Fisiologia dell'apparato urinario.  
-3) Semeiotica dell'apparato uro-genitale.  
-4) Indagine funzionale del rene e tecniche di laboratorio applicate all'urologia.  
-5) Tecniche endoscopiche in urologia.  
-6) Batteriologia in urologia.  
-7) La farmacologia delle affezioni uro-genitali.  
-2° Anno:  
-1) Patologia dell'apparato urinario e di quello genitale maschile.  
-2) Le nefropatie mediche di interesse urologico.  
-3) Patologia, urologica dell'infanzia.  
-4) Anatomia patologica dell'apparato uro-genitale.  
-5) Semeiotica e diagnostica endoscopica.  
-6) Anatomia chirurgica dell'apparato uro-genitale come studio delle vie chirurgiche d'accesso per le operazioni urologiche.  
-7) Radiologia urologica (indicazioni e tecniche).  
-8) L'anestesia in urologia.  
-9) Problemi gerontologici in urologia.  
-3° Anno:  
-1) Clinica chirurgica generale.  
-2) Clinica urologica.  
-3) Patologia genitale femminile di interesse urologico.  
-4) Le affezioni cutanee e veneree nei riguardi della urologia.  
-5) Tecniche operatorie ed interventi sull'apparato genito-urinario.  
-6) Chirurgia urologica dell'infanzia.  
-7) Semeiotica e diagnostica radiologica dell'apparato urinario e genitale maschile.  
-8) Il trattamento pre e post-operatorio del malato urologico.  
-Art. 385. - Gli esami di profitto si sostengono sul seguenti gruppi:  
-1° Anno:  
-1) Anatomia descrittiva, e topografica dell'apparato uro-genitale. Fisiologia dell'apparato urinario.  
-2) Semeiotica dell'apparato uro-genitale. Indagine funzionale del rene e tecniche di laboratorio applicate alla urologia. Tecniche endoscopiche in urologia.  
-3) Batteriologia in urologia. La farmacologia delle affezioni uro-genitali.  
-2° Anno:  
-1) Patologia dell'apparato urinario e di quello genitale maschile. Le nefropatie mediche di interesse urologico. Patologia urologica dell'infanzia. Anatomia patologica dell'apparato uro-genitale.  
-2) Semeiotica e diagnostica e endoscopica. Radiologia urologica (indicazioni e tecniche).  
-3) Anatomia chirurgica dell'apparato uro-genitale come studio delle vie chirurgiche d'accesso per le operazioni urologiche.  
-L'anestesia, in urologia.  
-3° Anno:  
-1) Clinica chirurgica generale. Clinica urologica. Semeiotica e diagnostica radiologica dell'apparato urinario genitale maschile.  
-2) Patologia genitale femminile di interesse urologico. Le affezioni cutanee e veneree nei riguardi dell'urologia.  
-3) Tecniche operatorie ed interventi sull'apparato genito-urinario. Chirurgia urologica, dell'infanzia. Il trattamento pre e post-operatorio del malato urologico.  
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Gli articoli 380, 383, 384 relativi alla scuola diretta a fini speciali di ricerca e di applicazione per la formazione di educatori di comunita' sono abrogati e sostituiti dai seguenti:   
+Art. 380. - La scuola ha un proprio comitato direttivo costituito:   
+a) dal direttore della scuola, che lo presiede;   
+b) da sei docenti della scuola, designati dal consiglio dei professori;   
+c) da sei membri designati dalle amministrazioni pubbliche o private interessate alla formazione degli educatori;   
+d) da un rappresentante dell'associazione professionale degli educatori;   
+e) da sei rappresentanti eletti dagli allievi, due per ciascun corso;   
+f) da un rappresentante dell'amministrazione regionale. Fa parte del comitato direttivo anche il direttore dei corsi nominato a norma dell'art. 380, quarto comma, lettera a).   
+Il comitato direttivo:   
+a) ratifica la designazione del vice-direttore; nomina il direttore dei corsi, su proposta del direttore della scuola; ratifica le proposte di conferimento degli incarichi di docenza e di monitorato effettuato dal direttore della scuola, sentito il consiglio dei professori;   
+b) delibera il bilancio della scuola;   
+c) approva il regolamento delle scuole e le sue modificazioni, sentito il consiglio dei professori.   
+Art. 383. - La scuola si articola in corsi di formazione della durata di due anni ed in successivo corso di qualificazione della durata di un anno per educatori gia' in possesso del diploma di educatore di comunita'. La distribuzione degli insegnamenti tra i due anni di ciascun corso e' stabilita dal consiglio dei professori.   
+Possono essere ammessi al corso di formazione coloro che siano in possesso di un titolo di scuola secondaria di II grado.   
+L'ammissione e' subordinata ad una valutazione della idoneita' del candidato ad esercitare la professione ed a trarre profitto dalla formazione. Il limite numerico e' fissato dal comitato direttivo.   
+Agli studenti fuori corso puo' essere consentito il prolungamento dell'iscrizione per un periodo che non superi la durata del corso stesso.   
+Gli esami sostenuti nei corsi universitari per le materie d'insegnamento della scuola, possono essere convalidati.   
+Art. 384. - Gli insegnamenti della scuola hanno carattere teorico, tecnico e pratico.   
+Sono insegnamenti teorici dei corsi di formazione:   
+1) Deontologia professionale;   
+2) Elementi di sociologia;   
+3) Psicologia sociale con elementi di psicologia generale;   
+4) Psicologia dell'eta' evolutiva con elementi di psicologia dinamica;   
+5) Pedagogia (biennale);   
+6) Pedagogia speciale;   
+7) Lineamenti anatomo-fisiologici e fisiopatologici dello sviluppo ed elementi di igiene;   
+8) Elementi di psicopatologia e neuropsichiatria dell'eta' evolutiva;   
+9) Istituzioni di diritto pubblico e di diritto amministrativo speciale;   
+10) Legislazione minorile.   
+Sono insegnamenti tecnici e pratici dei corsi di formazione:   
+1) Tecniche educative ed organizzative di comunita' (biennale);   
+2) Studio dell'ambiente;   
+3) Attivita' di gruppo e seminari (biennale);   
+4) Tirocini professionali (biennale).   
+Sono insegnamenti teorici del corso di qualificazione:   
+1) Metodologia della ricerca ed elementi di statistica;   
+2) Pedagogia sperimentale;   
+3) Pedagogia speciale;   
+4) Sociologia dell'educazione;   
+5) Psicologia clinica;   
+6) Psicopatologia e neuropsichiatria dell'eta' evolutiva.   
+Sono insegnamenti tecnici e pratici del corso di qualificazione:   
+1) Organizzazione ed amministrazione dei servizi sociali;   
+2) Tecniche educative ed organizzazione delle comunita' speciali;  
+3) Attivita' di gruppo e seminari;   
+4) Tirocini professionali.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 marzo 1965
+### Dato a Roma, addi' 30 ottobre 1971
 
-SARAGAT GUI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 28 aprile 1965
+Registrato alla Corte dei conti, addi' 22 febbraio 1972
 
-Atti del Governo, registro n. 192, foglio n. 128. - VILLA
+Atti del Governo, registro n. 247, foglio n. 29. - VALENTINI

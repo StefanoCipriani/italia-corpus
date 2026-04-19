@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 novembre 1952 n. 4509
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1950 n. 1158
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 novembre 1952 n. 4509
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1950 n. 1158
+===============================================================
 
 Autorizzazione all'Universita' di Napoli ad accettare una donazione.
 --------------------------------------------------------------------
@@ -12,8 +12,7 @@ Art. 1
 
 N.
 
-4509. Decreto del Presidente della Repubblica 2 novembre 1952, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Napoli viene autorizzata ad accettare la donazione di lire 30.000 in contanti, disposta in suo favore dal professore Luigi Auricchio, a nome e per conto del personale insegnante della Scuola di specializzazione in pediatria e del personale sanitario della clinica pediatrica, con atto pubblico amministrativo in data 8 giugno 1951, per l'istituzione di un premio di studio da intitolarsi "Premio dott. Giovanni Fiordelisi" e da conferirsi, ogni cinque anni, ad uno specializzato nel quinquennio in pediatria presso l'Universita' di Napoli, il quale abbia svolto la migliore tesi in detta specializzazione.  
+1158. Decreto del Presidente della Repubblica 25 ottobre 1950, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Napoli viene autorizzata ad accettare la donazione della somma di L. 250.000 nominali, in titoli di Stato rendita 5%, disposta in suo favore dai coniugi Nappi Della Pietra, con atto pubblico amministrativo in data 10 maggio 1949, per l'istituzione di un premio di studio da intitolarsi al nome di "Franco Nappi" e da conferirsi ogni due anni, ad un laureato della Facolta' di medicina e chirurgia dell'Universita' medesima che abbia svolto la migliore tesi di laurea in ostetricia e ginecologia.  
   
-Visto, il Guardasigilli: ZOLI  
-Registrato alla Corte dei conti, addi' 5 marzo 1953  
-Atti del Governo, registro n. 75, foglio n. 56. - PALLA
+Visto, il Guardasigilli: PICCIONI  
+Registrato alla Corte dei conti, addi' 2 febbraio 1951

@@ -1,11 +1,11 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 954
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1985 n. 470
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 954
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1985 n. 470
+============================================================
 
-Modificazioni allo statuto dell'Universita' degli studi di Sassari.
--------------------------------------------------------------------
+Modificazioni allo statuto dell'Universita' degli studi di Sassari
+------------------------------------------------------------------
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -18,169 +18,97 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Sassari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
 
-Decreta:
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
 
-Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Sentito il parere del Consiglio universitario nazionale;
 
-Art. 77 - all'elenco delle scuole di specializzazione annesse alle facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in malattie dell'apparato cardiovascolare.
+Sulla
+-----
 
-Dopo l'art. 137, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in malattie dell'apparato cardiovascolare di cui all'art. 77.
+proposta del Ministro della pubblica istruzione; Decreta:
 
-Scuola di specializzazione in malattie dell'apparato cardiovascolare
+Articolo unico
+--------------
 
-Art. 138. - Il corso della scuola di specializzazione ha la durata di tre anni.
-
-La scuola ha sede presso l'istituto di clinica medica generale.
-
-Art. 139. - Alla scuola sono ammessi sei candidati per ciascun anno accademico.
-
-L'ammissione alla scuola di specializzazione avviene in base ai titoli di studio e di carriera previo accertamento mediante colloquio o prova scritta di idonea preparazione culturale da parte del candidato.
-
-La frequenza alla scuola di specializzazione e' obbligatoria per almeno nove mesi all'anno.
-
-Essa consiste nella partecipazione alle lezioni e alle esercitazioni teorico-pratiche nel servizio, nei reparti, in particolare nell'unita' di cura intensiva coronaria e nell'ambulatorio del centro cardiologico.
-
-Art. 140. - Alla fine di ogni anno di corso gli allievi dovranno sostenere tutti gli esami speciali per poter essere ammessi all'anno successivo. Alla fine del terzo anno del corso degli studi, dopo aver superato tutti gli esami speciali, gli allievi dovranno sostenere l'esame di diploma consistente nella discussione di una dissertazione scritta su un argomento di patologia o fisiopatologia o clinica cardiologica, la cui scelta sia stata concordata fra diplomando e direttore della scuola durante il secondo anno.
-
-La dissertazione, previamente approvata dal direttore, dovra' essere depositata presso la segreteria della Universita' almeno quindici giorni prima dell'esame.
-
-I candidati non riconosciuti idonei all'esame di diploma potranno ripresentarsi dopo un altro anno di frequenza alla scuola. Ma se al secondo esame non e' loro riconosciuta l'idoneita', saranno esclusi da ulteriori prove.
-
-Art. 141. - Gli insegnamenti della scuola in malattie cardiovascolari sono i seguenti:
-
-1° Anno:
-
-anatomia normale dell'apparato cardiovascolare;
-
-fisiologia dell'apparato cardiovascolare e respiratorio;
-
-fisiopatologia cardiovascolare e respiratoria (biennale 1°);
-
-patologia cardiovascolare (biennale 1°);
-
-semeiologia fisica (biennale 1°);
-
-semeiologia strumentale (biennale 1°).
-
-2° Anno:
-
-fisiopatologia cardiovascolare e respiratoria (biennale 2°);
-
-patologia cardiovascolare (biennale 2°);
-
-semeiologia fisica (biennale 2°);
-
-semeiologia strumentale (biennale 2°);
-
-anatomia patologica dell'apparato cardiovascolare (biennale 1°);
-
-radiologia;
-
-farmacologia;
-
-clinica e terapia (biennale 1°).
-
-3° Anno:
-
-anatomia patologica dell'apparato cardiovascolare (biennale 2°);
-
-clinica e terapia (biennale 2°);
-
-chirurgia dell'apparato cardiovascolare;
-
-problemi assicurativi e sociali (facoltativo).
-
-Art. 142. - Le tasse e soprattasse per gli iscritti alla scuola di specializzazione in malattie dell'apparato cardiovascolare, sono fissate come segue:
-
-tassa di immatricolazione. . . . . . . . . . . . . . . . . . L. 6.000 tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 60.000 soprattassa annuale esami di profitto. . . . . . . . . . . . L. 7.000 soprattassa esame di diploma . . . . . . . . . . . . . . . . L. 3.000 tassa annuale per i fuori corso . . . . . . . . . . . . . . L. 50.000
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 31 ottobre 1975
-
-LEONE
-
-MALFATTI
-
-Visto, il Guardasigilli: BONIFACIO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 30 marzo 1976 Atti di Governo, registro n. 4, foglio n. 45
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084) e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Sassari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:  
   
-Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 77 - all'elenco delle scuole di specializzazione annesse alle facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in malattie dell'apparato cardiovascolare.  
-Dopo l'art. 137, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in malattie dell'apparato cardiovascolare di cui all'art. 77.  
-Scuola di specializzazione in malattie dell'apparato cardiovascolare  
-Art. 138. - Il corso della scuola di specializzazione ha la durata di tre anni.  
-La scuola ha sede presso l'istituto di clinica medica generale.  
-Art. 139. - Alla scuola sono ammessi sei candidati per ciascun anno accademico.  
-L'ammissione alla scuola di specializzazione avviene in base ai titoli di studio e di carriera previo accertamento mediante colloquio o prova scritta di idonea preparazione culturale da parte del candidato.  
-La frequenza alla scuola di specializzazione e' obbligatoria per almeno nove mesi all'anno.  
-Essa consiste nella partecipazione alle lezioni e alle esercitazioni teorico-pratiche nel servizio, nei reparti, in particolare nell'unita' di cura intensiva coronaria e nell'ambulatorio del centro cardiologico.  
-Art. 140. - Alla fine di ogni anno di corso gli allievi dovranno sostenere tutti gli esami speciali per poter essere ammessi all'anno successivo. Alla fine del terzo anno del corso degli studi, dopo aver superato tutti gli esami speciali, gli allievi dovranno sostenere l'esame di diploma consistente nella discussione di una dissertazione scritta su un argomento di patologia o fisiopatologia o clinica cardiologica, la cui scelta sia stata concordata fra diplomando e direttore della scuola durante il secondo anno.  
-La dissertazione, previamente approvata dal direttore, dovra' essere depositata presso la segreteria della Universita' almeno quindici giorni prima dell'esame.  
-I candidati non riconosciuti idonei all'esame di diploma potranno ripresentarsi dopo un altro anno di frequenza alla scuola. Ma se al secondo esame non e' loro riconosciuta l'idoneita', saranno esclusi da ulteriori prove.  
-Art. 141. - Gli insegnamenti della scuola in malattie cardiovascolari sono i seguenti:  
-1° Anno:  
-anatomia normale dell'apparato cardiovascolare;  
-fisiologia dell'apparato cardiovascolare e respiratorio;  
-fisiopatologia cardiovascolare e respiratoria (biennale 1°);  
-patologia cardiovascolare (biennale 1°);  
-semeiologia fisica (biennale 1°);  
-semeiologia strumentale (biennale 1°).  
-2° Anno:  
-fisiopatologia cardiovascolare e respiratoria (biennale 2°);  
-patologia cardiovascolare (biennale 2°);  
-semeiologia fisica (biennale 2°);  
-semeiologia strumentale (biennale 2°);  
-anatomia patologica dell'apparato cardiovascolare (biennale 1°);  
-radiologia;  
-farmacologia;  
-clinica e terapia (biennale 1°).  
-3° Anno:  
-anatomia patologica dell'apparato cardiovascolare (biennale 2°);  
-clinica e terapia (biennale 2°);  
-chirurgia dell'apparato cardiovascolare;  
-problemi assicurativi e sociali (facoltativo).  
-Art. 142. - Le tasse e soprattasse per gli iscritti alla scuola di specializzazione in malattie dell'apparato cardiovascolare, sono fissate come segue:  
+Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Dopo l'art. 153, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in fisiologia, allevamento e patologia degli ovini e caprini.   
   
-tassa di immatricolazione. . . . . . . . . . . . . . . . . . L. 6.000 tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 60.000 soprattassa annuale esami di profitto. . . . . . . . . . . . L. 7.000 soprattassa esame di diploma . . . . . . . . . . . . . . . . L. 3.000 tassa annuale per i fuori corso . . . . . . . . . . . . . . L. 50.000   
+Scuola di specializzazione in fisiologia,   
+allevamento e patologia degli ovini e caprini   
+  
+Art. 154. - E' istituita presso la facolta' di medicina veterinaria di Sassari la "Scuola di specializzazione in fisiologia, allevamento e patologia degli ovini e caprini". Questa ha lo scopo di approfondire ed aggiornare le conoscenze di fisiologia, di allevamento e di patologia degli ovini e caprini in produzione zootecnica per incentivare lo sviluppo economico e sociale delle popolazioni rurali.   
+Art. 155. - Alla scuola di specializzazione in argomento sono ammessi coloro che sono in possesso della laurea in medicina veterinaria e del diploma di abilitazione all'esercizio professionale.   
+Art. 156. - Il numero massimo degli iscrivibili e' di 20 (venti).   
+Art. 157. - I corsi hanno la durata di due anni nei quali, complessivamente, dovranno essere sostenuti due esami di profitto. Le discipline obbligatorie comprese nell'ordinamento degli studi sono le seguenti (e dovranno constare di lezioni per il numero di ore specificato a fianco di ciascuna materia):   
+1) anatomia - ore n. 10;   
+2) fisiologia (con biochimica ed endocrinologia) ore n. 10;   
+3) zoognostica ed etnologia - ore n. 10;   
+4) miglioramento genetico - ore n. 10;   
+5) alimentazione e nutrizione - ore n. 10;   
+6) tecnica di allevamento - ore n. 10;   
+7) tecnica riproduttiva, sincronizzazione calori, fecondazione artificiale - ore n. 10;   
+8) ambiente di allevamento e ricoveri - ore n. 10;   
+9) metodologia dell'assistenza tecnica ed organizzativa degli allevatori con legislazione veterinaria e zootecnica - ore 10;   
+10) economia dell'alimentazione e dell'allevamento - ore n. 10;   
+11) microbiologia ed immunologia - ore n. 10;   
+12) semeiotica e diagnostica di laboratorio - ore n. 10;   
+13) igiene del latte - ore n. 10;   
+14) clinica medica - ore n. 10;   
+15) clinica chirurgica - ore n. 10;   
+16) clinica ostetrica - ore n. 10;   
+17) malattie infettive - ore n. 10;   
+18) malattie parassitarie - ore n. 10;   
+19) anatomia patologia e diagnostica cadaverica - ore n. 10;   
+20) farmacologia, tossicologia e terapia - ore n. 10;   
+21) produzioni foraggere ed utilizzazione - ore n. 10.   
+Ciascun corso sara' corredato da esercitazioni pratiche per un numero di ore almeno pari a quelle del relativo insegnamento teorico.   
+Nel primo anno verranno impartiti i corsi di cui ai numeri 1), 2), 3), 4), 5), 6), 7), 8), 10, 11), 17) (prima parte), 18), 21).   
+Nel secondo anno verranno impartiti i corsi di cui ai numeri 9), 12), 13), 14), 15), 16), 17) (seconda parte), 18), 19), 20).   
+Art. 158. - Tutti gli insegnamenti afferiscono alla facolta' di medicina veterinaria.   
+Al termine di ciascun corso gli allievi dovranno sostenere un esame teorico-pratico. Per poter essere ammessi agli esami gli allievi devono aver frequentato almeno il 90% delle lezioni sia teoriche che pratiche.   
+Perche' gli allievi possano essere iscritti al secondo anno debbono aver superato l'esame del primo anno.   
+La commissione di esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno in corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno in corso.   
+Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.   
+Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio si concludera' con un esame finale consistente nella discussione di una dissertazione scritta sulle materie oggetto del corso.   
+A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista. La frequenza e' obbligatoria per tutti gli insegnamenti teorici e per le esercitazioni pratiche.   
+Art. 159. - Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile, sulla base della idonea documentazione, l'attivita' svolta dallo specializzando, in strutture di servizio socio-sanitario attinenti alla specializzazione o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.   
+Art. 160 - Ammissione. - Per l'ammissione alla scuola di specializzazione e' richiesto il superamento di un esame consistente in una prova scritta che si svolgera' mediante domande e risposte multiple, integrata da un colloquio e dalla valutazione in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei titoli.   
+Sono titoli valutabili la tesi nella disciplina attinente alla specializzazione, il voto di laurea, il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione e le pubblicazioni nelle predette materie.   
+La ripartizione del punteggio tra i titoli indicati nel precedente comma e' determinata dal decreto ministeriale del 16 settembre 1982.   
+Possono partecipare all'esame di ammissione coloro che siano in possesso del diploma di laurea in medicina veterinaria. Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero di posti disponibili, si siano collocati in posizione utile nella graduatoria compilata sulla base del punteggio complessivo riportato.   
+Non e' consentita la contemporanea iscrizione ai corsi delle scuole di specializzazione ed a quelli per il conseguimento al dottorato di ricerca.   
+Il consiglio della scuola di specializzazione, in relazione ad eventuali domande di ammissione di candidati che abbiano conseguito il titolo di dottorato di ricerca, delibera specificamente, considerato il processo formativo e la produzione specifica dell'aspirante, un apposito piano di studi e di attivita' professionalizzanti, rispettando le eventuali direttive CEE in materia, ma senza abbreviazione di corso.   
+Art. 161 - Consiglio della scuola. - Il Consiglio e' composto dai professori ordinari, straordinari, associati ed a contratto ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).   
+Il consiglio e' unico ed e' presieduto da un direttore.   
+Il consiglio esercita le competenze spettanti, ai sensi dell'[art. 94 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art94), al consiglio di corso di laurea, in materia di coordinamento degli insegnamenti. Si applicano le disposizioni di cui al [secondo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art16-com2) e [terzo comma dell'art. 16 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art16-com3).   
+La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola stessa.   
+Art. 162 - Borse di studio. - Fermo restando quanto previsto per il dottorato di ricerca, anche in relazione a quanto disposto nell'art. 74 nonche' nell'ultimo comma dell'[art. 75 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art75), sono attribuite agli iscritti alle scuole di specializzazione con le modalita' ed alle condizioni previste nell'art. 75 e seguenti del citato [decreto del Presidente della Repubblica n. 382/80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;382).   
+Art. 163. - Le tasse sono quelle previste dalla normativa vigente e i contributi di laboratorio quelli stabiliti dal consiglio di amministrazione. La tassa di diploma e' quella stabilita dalla legge 26 gennaio 1982 pari a L. 60.000.   
+Art. 164. - Per quanto non previsto dalle presenti norme si applicano, in quanto compatibili, le altre norme sull'istruzione universitaria.   
+  
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1975
+### Dato a Roma, addi' 18 marzo 1985
 
-LEONE MALFATTI
+PERTINI
 
-Visto, il Guardasigilli: BONIFACIO
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 30 marzo 1976
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Atti di Governo, registro n. 4, foglio n. 45
+Registrato alla Corte dei conti, addi' 9 settembre 1985
+
+Registro n. 60 Istruzione, foglio n. 174

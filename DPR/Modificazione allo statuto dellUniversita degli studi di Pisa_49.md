@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 785
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 1030
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 785
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 1030
+==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
@@ -39,11 +39,8 @@ Articolo unico
 --------------
 
   
-Nell'art. 142, relativo al corso di laurea in scienze agrarie, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-coltivazioni industriali da pieno campo (semestrale);  
-pomologia (semestrale);  
-genesi, classificazione e cartografia del terreno (semestrale);  
-produzione e controllo delle sementi.  
+Nell'art. 132, relativo al corso di laurea in ingegneria, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+costruzioni in zone sismiche.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
@@ -55,6 +52,6 @@ PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 27 dicembre 1983
+Registrato alla Corte dei conti, addi' 29 febbraio 1984
 
-Registro n. 80 Istruzione, foglio n. 16
+Registro n. 13 Istruzione, foglio n. 91

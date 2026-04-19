@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1963 n. 1475
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 661
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1963 n. 1475
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 661
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Roma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734) e successivi;
+Veduto lo statuto dell'Universita' di Roma, approvato con [regio decreto del 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto del 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -22,236 +22,120 @@ Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?u
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Roma e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
 Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 47. - Dall'elenco degli insegnamenti complementari del corso di laurea in Scienze statistiche e demografiche e' soppresso l'insegnamento di: "Statistica aziendale e analisi di mercato". Sono invece, aggiunti i seguenti insegnamenti:
-
-Statistica aziendale;
-
-Analisi di mercato;
-
-Politica economica.
-
-Art. 48. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze statistiche e attuariali sono aggiunti i seguenti:
-
-Statistica aziendale;
-
-Analisi di mercato;
-
-Politica economica.
-
-Art. 50, relativo alle modalita' degli esami di laurea della Facolta' di scienze statistiche, demografiche, ed attuariali, e' abrogato e sostituito dal seguente:
-
-"L'esame di diploma consiste nella preparazione e discussione di una dissertazione scritta e nella discussione di un tema orale. Gli argomenti della dissertazione scritta e del tema orale vengono scelti dal candidato tra le materie fondamentali del primo biennio. Uno dei due argomenti deve riguardare la metodologia statistica.
-
-L'esame di laurea consiste nella preparazione e discussione di una dissertazione scritta e nella discussione di almeno due su tre temi orali vertenti su materie fondamentali del corso di studi del candidato.
-
-Per la laurea in Scienze statistiche e demografiche, dei quattro temi uno deve riguardare la Statistica metodologica e uno la Demografia.
-
-Per la laurea in Scienze statistiche ed attuariali uno dei quattro temi deve riguardare la Metodologia statistica ed uno la Matematica finanziaria e istituzioni di Matematica attuariale o la Tecnica attuariale delle assicurazioni libere sulla vita o la Tecnica attuariale delle assicurazioni sociali o la Tecnica attuariale delle assicurazioni contro i danni o l'Economia e finanza delle imprese di assicurazione o la Statistica assicurativa.
-
-I temi della dissertazione scritta, e quelli da svolgere oralmente devono essere approvati dal preside, sentiti i professori delle materie.
-
-Il tema della dissertazione scritta deve essere presentato sei mesi prima della sessione di laurea".
-
-Art. 65. - All'elenco degli Istituti della Facolta' di magistero sono aggiunti i seguenti:
-
-Per i gruppi: A (Materie letterarie); A1 (Lingue e letterature straniere); B (Pedagogia);
-
-Istituto di storia dell'arte medioevale e moderna, che e' anche ordinato a seminario ed ha lo scopo di addestrare i giovani negli studi delle discipline storico-artistiche.
-
-Per i gruppi: A (Materie letterarie) e B (Pedagogia);
-
-Istituto di sociologia, che e' anche ordinato a seminario ed ha lo scopo di addestrare i giovani negli studi sociologici.
-
-Art. 88. - All'elenco degli insegnamenti complementari del corso di laurea in Chimica, indirizzo organico-biologico, e' aggiunto quello di: Spettrochimica, mentre cambiano denominazione i seguenti insegnamenti complementari dello stesso indirizzo:
-
-"Misure elettriche" in "Misure elettriche (corso speciale per chimici e chimici industriali)";
-
-"Spettroscopia" in "Spettroscopia (corso speciale per chimici e chimici industriali)";
-
-"Spettroscopia e radiofrequenza" in "Spettroscopia a radiofrequenza".
-
-Dopo il secondo capoverso delle norme che seguono l'elenco degli insegnamenti complementari viene inserito il seguente comma: "L'insegnamento complementare di "Spettroscopia" per l'indirizzo inorganico-chimico-fisico, si intende come corso speciale per chimici industriali".
-
-Prima dell'ultimo capoverso viene inserito il seguente comma: "In tal caso la Facolta', considerati i nuovi insegnamenti complementari introdotti e la necessita' della coordinazione dei corsi consiglia la scelta degli insegnamenti complementari tra quelli che, nell'ordine degli studi, sono sottolineati" .
-
-Art. 89. - All'elenco degli insegnamenti complementari del corso di laurea in Chimica industriale sono aggiunti i seguenti:
-
-Analisi chimica strumentale;
-
-Spettroscopia (corso speciale per chimici e chimici industriali).
-
-L'insegnamento complementare di "Chimica delle fermentazioni e batteriologia industriale" del corso di laurea in Chimica industriale muta denominazione in "Chimica delle fermentazioni".
-
-Art. 90. - Alle propedeuticita' di esami dei corsi di laurea in Chimica e in Chimica industriale sono aggiunte le seguenti:
-
-Non si puo essere am- Se non si e superato messi a sostenere l'esame di:
-
-l'esame di:
-
-Chimica analitica,
-
-analisi chimica stru- Esercizi di Analisi mentale; chimica quantitativa;
-
-Spettroscopia. Chimica analitica.
-
-Art. 97, relativo al corso di laurea in matematica per l'indirizzo applicativo e' cosi' modificato:
-
-"Sono insegnamenti fondamentali oltre quelli comuni ai tre indirizzi (generale, didattico, applicativo) per l'indirizzo applicativo uno dei seguenti, a scelta:
-
-Analisi numerica, Calcolo delle probabilita';
-
-Astronomia, Meccanica celeste" .
-
-Terzo anno.
-
-Insegnamento fondamentale per l'indirizzo applicativo (oltre quelli comuni ai tre indirizzi secondo il gruppo scelto)
-
-I) Analisi numerica;
-
-II) Astronomia.
-
-Quarto anno.
-
-Insegnamento fondamentale per l'indirizzo applicativo (secondo il gruppo scelto)
-
-I) Calcolo delle probabilita';
-
-II) Meccanica celeste.
-
-All'elenco degli insegnamenti complementari del corso di laurea in Matematica - indirizzo didattico - e' aggiunto quello di: "Calcolo delle probabilita'".
-
-Art. 109, relativo agli Istituti della Facolta' di farmacia e' abrogato e sostituito dal seguente:
-
-"Alla Facolta' di farmacia sono annessi i seguenti istituti:
-
-1) Istituto di chimica farmaceutica e tossicologia;
-
-2) Istituto di farmacologia e farmacognosia.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 14 ottobre 1963
-
-SEGNI
-
-GUI
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 9 novembre 1963 Atti del Governo, registro n. 175, foglio n. 126. - VILLA
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+L'art. 83, relativo alla facolta' di medicina e chirurgia, e' cosi' riformulato:  
+La facolta' di medicina e chirurgia conferisce:  
+a) la laurea in medicina e chirurgia;  
+b) la laurea in odontoiatria e protesi dentaria.  
+
+Art. 2
+------
+
   
-Decreta:  
   
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Dopo l'art. 94, con il conseguente spostamento della numerazione degli articoli successivi, vengono inseriti i seguenti nuovi articoli:   
+Art. 95. - La durata del corso degli studi per la laurea in odontoiatria e protesi dentaria e' di cinque anni suddivisi in un biennio ed un triennio.   
+Titoli di ammissione: quelli consentiti dalle vigenti disposizioni di legge.   
+Art. 96. - Il numero degli iscritti e' di cinquecentoottanta da distribuire nei cinque anni del corso di laurea.   
+L'accesso avviene secondo un ordine di graduatoria stabilito in base ad un punteggio, riportato in centesimi, cosi' ripartito:   
+70 centesimi riservati all'esito di un test a scelta multipla da espletare in un unico giorno vertente su nozioni generali relative ai seguenti argomenti: chimica, fisica, matematica, biologia generale; 30 centesimi riservati al punteggio riportato nell'esame finale per il conseguimento del diploma di scuola secondaria superiore.   
+E' prevista la pubblicizzazione dei risultati delle prove che su richiesta debbono essere forniti.   
+Sono previsti per la selezione i metodi piu' idonei e possibilmente il ricorso al calcolatore sia per la formazione delle schede dei quiz a scelta multipla sia per la successiva correzione delle schede.   
+Art. 97. - Per il trasferimento degli studenti iscritti al corso di laurea in medicina e chirurgia le abbreviazioni di corso non possono superare l'ammissione oltre il secondo anno subordinatamente al numero dei posti resisi disponibili all'inizio del secondo anno sempre che gli aspiranti abbiano superato gli esami di biologia generale applicata agli studi medici, chimica, fisica medica, istologia ed embriologia generale (compresa la citologia).   
+Per i laureati in medicina e chirurgia le abbreviazioni di corso potranno essere concesse, sempre con iscrizione al secondo anno, subordinatamente al numero di posti resisi disponibili all'inizio del secondo anno e dopo che sia trascorso un anno accademico dal conseguimento della laurea precedente.   
+I posti disponibili al secondo anno vanno assegnati a laureati in medicina per una frazione non superiore al 20% e per quella rimanente a studenti in trasferimento dal corso di laurea in medicina e chirurgia.   
+Le modalita' di accesso sono quelle riportate nell'articolo 96. Il 30% del punteggio va attribuito agli studenti come media degli esami di biologia generale, chimica, fisica medica, istologia ed embriologia generale ed ai laureati come media dei voti riportati negli esami fondamentali.   
+Art. 98. - Sono insegnamenti fondamentali:   
+Biennio:   
+1) anestesia generale e speciale odontostomatologica (semestrale);   
+\* 2) biologia generale applicata agli studi medici;   
+\* 3) chimica;   
+\*4) chimica biologica;   
+5) farmacologia (semestrale);   
+\* 6) fisica medica;   
+7) fisiologia umana e dell'apparato stomatognatico;   
+8) igiene e odontoiatria preventiva e sociale con epidemiologia (semestrale);   
+9) istituzioni di anatomia umana normale e dell'apparato stomatognatico;   
+10) istituzioni di anatomia ed istologia patologica;   
+\* 11) istologia ed embriologia generale (compresa la citologia);   
+12) materiali dentari;   
+13) microbiologia (semestrale);   
+14) odontoiatria conservatrice (triennale: 2°, 3° e 4° anno);   
+15) patologia generale.   
+Triennio:   
+16) chirurgia speciale odontostomatologica (biennale: 3° e 4° anno);   
+17) clinica odontostomatologica (biennale: 4° e 5° anno);   
+18) medicina legale e delle assicurazioni e deontologia in odontostomatologia (semestrale);   
+19) neuropatologia e psicopatologia (semestrale);   
+20) ortognatodonzia e gnatologia (funzione masticatoria) (biennale: 4° e 5° anno);   
+21) parodontologia (biennale: 4° e 5° anno);   
+22) patologia speciale chirurgica e propedeutica clinica;   
+23) patologia speciale medica e metodologia clinica (compresa la pediatria);   
+24) patologia speciale odontostomatologica;   
+25) pedodonzia (semestrale);   
+26) protesi dentaria (triennale: 3°, 4° e 5° anno);   
+27) radiologia generale e speciale odontostomatologica (semestrale).   
+Sono insegnamenti complementari:   
+\* 1) chirurgia maxillo-facciale;   
+\* 2) dermatologia e venereologia (semestrale);   
+\* 3) otorinolaringoiatria (semestrale);   
+\* 4) statistica sanitaria;   
+altri insegnamenti complementari nel piano della facolta' sempre mutuati del corso di laurea in medicina e chirurgia.   
+Gli insegnamenti segnati con asterisco sono mutuati dal corso di laurea in medicina e chirurgia.   
+Gli insegnamenti fondamentali sono teorici e pratici e la loro frequenza e' obbligatoria.   
+Gli insegnamenti specificamente odontostomatologici di ordine clinico, comportano un tirocinio pratico continuativo da espletare prima di sostenere i relativi esami.   
+Gli studenti che non conseguono le attestazioni di frequenza non possono essere ammessi a sostenere le relative prove di esame.   
+Il tirocinio pratico, relativo ad ogni insegnamento clinico, deve provvedere da parte dei componenti dell'organico, un'assistenza didattica adeguata al numero degli studenti.   
+Art. 99. - Ai fini della propedeuticita' degli esami dei diversi insegnamenti vale la seguente tabella:   
   
-Art. 47. - Dall'elenco degli insegnamenti complementari del corso di laurea in Scienze statistiche e demografiche e' soppresso l'insegnamento di: "Statistica aziendale e analisi di mercato". Sono invece, aggiunti i seguenti insegnamenti:  
-Statistica aziendale;  
-Analisi di mercato;  
-Politica economica.  
+
+|  |  |
+| --- | --- |
+| Non si puo' essere ammessi a sostenere l'esame di: | Se non si e' superato l'esame di: |
+| Fisiologia umana e dell'apparato stomatognatico | Istituzioni di anatomia umana normale e dell'apparato stomatognatico |
+| Patologia generale | Biologia generale applicata agli studi medici |
+|  | Chimica |
+|  | Fisica medica |
+| Patologia speciale medica e metodologia clinica (compresa la pediatria) | Fisiologia umana e dell'apparato stomatognatico |
+| Patologia speciale chirurgica e propedeutica, clinica | Patologia generale |
+| Clinica odontostomatologica | Patologia speciale medica e metodologia clinica (compresa la pediatria) |
+|  | Chirurgia speciale odontostomatologica |
+|  | Istituzioni di anatomia e istologia patologica |
+|  | Patologia speciale chirurgica e propedeutica clinica |
+
   
-Art. 48. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze statistiche e attuariali sono aggiunti i seguenti:  
-Statistica aziendale;  
-Analisi di mercato;  
-Politica economica.  
   
-Art. 50, relativo alle modalita' degli esami di laurea della Facolta' di scienze statistiche, demografiche, ed attuariali, e' abrogato e sostituito dal seguente:  
-"L'esame di diploma consiste nella preparazione e discussione di una dissertazione scritta e nella discussione di un tema orale. Gli argomenti della dissertazione scritta e del tema orale vengono scelti dal candidato tra le materie fondamentali del primo biennio. Uno dei due argomenti deve riguardare la metodologia statistica.  
-L'esame di laurea consiste nella preparazione e discussione di una dissertazione scritta e nella discussione di almeno due su tre temi orali vertenti su materie fondamentali del corso di studi del candidato.  
-Per la laurea in Scienze statistiche e demografiche, dei quattro temi uno deve riguardare la Statistica metodologica e uno la Demografia.  
-Per la laurea in Scienze statistiche ed attuariali uno dei quattro temi deve riguardare la Metodologia statistica ed uno la Matematica finanziaria e istituzioni di Matematica attuariale o la Tecnica attuariale delle assicurazioni libere sulla vita o la Tecnica attuariale delle assicurazioni sociali o la Tecnica attuariale delle assicurazioni contro i danni o l'Economia e finanza delle imprese di assicurazione o la Statistica assicurativa.  
-I temi della dissertazione scritta, e quelli da svolgere oralmente devono essere approvati dal preside, sentiti i professori delle materie.  
-Il tema della dissertazione scritta deve essere presentato sei mesi prima della sessione di laurea".  
   
-Art. 65. - All'elenco degli Istituti della Facolta' di magistero sono aggiunti i seguenti:  
-Per i gruppi: A (Materie letterarie); A1 (Lingue e letterature straniere); B (Pedagogia);  
-Istituto di storia dell'arte medioevale e moderna, che e' anche ordinato a seminario ed ha lo scopo di addestrare i giovani negli studi delle discipline storico-artistiche.  
-Per i gruppi: A (Materie letterarie) e B (Pedagogia);  
-Istituto di sociologia, che e' anche ordinato a seminario ed ha lo scopo di addestrare i giovani negli studi sociologici.  
   
-Art. 88. - All'elenco degli insegnamenti complementari del corso di laurea in Chimica, indirizzo organico-biologico, e' aggiunto quello di: Spettrochimica, mentre cambiano denominazione i seguenti insegnamenti complementari dello stesso indirizzo:  
-"Misure elettriche" in "Misure elettriche (corso speciale per chimici e chimici industriali)";  
-"Spettroscopia" in "Spettroscopia (corso speciale per chimici e chimici industriali)";  
-"Spettroscopia e radiofrequenza" in "Spettroscopia a radiofrequenza".  
-Dopo il secondo capoverso delle norme che seguono l'elenco degli insegnamenti complementari viene inserito il seguente comma: "L'insegnamento complementare di "Spettroscopia" per l'indirizzo inorganico-chimico-fisico, si intende come corso speciale per chimici industriali".  
-Prima dell'ultimo capoverso viene inserito il seguente comma: "In tal caso la Facolta', considerati i nuovi insegnamenti complementari introdotti e la necessita' della coordinazione dei corsi consiglia la scelta degli insegnamenti complementari tra quelli che, nell'ordine degli studi, sono sottolineati" .  
-  
-Art. 89. - All'elenco degli insegnamenti complementari del corso di laurea in Chimica industriale sono aggiunti i seguenti:  
-  
-Analisi chimica strumentale;  
-Spettroscopia (corso speciale per chimici e chimici industriali).  
-  
-L'insegnamento complementare di "Chimica delle fermentazioni e batteriologia industriale" del corso di laurea in Chimica industriale muta denominazione in "Chimica delle fermentazioni".  
-  
-Art. 90. - Alle propedeuticita' di esami dei corsi di laurea in Chimica e in Chimica industriale sono aggiunte le seguenti:  
-Non si puo essere am- Se non si e superato messi a sostenere l'esame di:  
-l'esame di:  
-Chimica analitica,  
-analisi chimica stru- Esercizi di Analisi mentale; chimica quantitativa;  
-Spettroscopia. Chimica analitica.  
-  
-Art. 97, relativo al corso di laurea in matematica per l'indirizzo applicativo e' cosi' modificato:  
-"Sono insegnamenti fondamentali oltre quelli comuni ai tre indirizzi (generale, didattico, applicativo) per l'indirizzo applicativo uno dei seguenti, a scelta:  
-  
-Analisi numerica, Calcolo delle probabilita';  
-Astronomia, Meccanica celeste" .  
-  
-Terzo anno.  
-Insegnamento fondamentale per l'indirizzo applicativo (oltre quelli comuni ai tre indirizzi secondo il gruppo scelto)  
-  
-I) Analisi numerica;  
-II) Astronomia.  
-  
-Quarto anno.  
-Insegnamento fondamentale per l'indirizzo applicativo (secondo il gruppo scelto)  
-  
-I) Calcolo delle probabilita';  
-II) Meccanica celeste.  
-  
-All'elenco degli insegnamenti complementari del corso di laurea in Matematica - indirizzo didattico - e' aggiunto quello di: "Calcolo delle probabilita'".  
-  
-Art. 109, relativo agli Istituti della Facolta' di farmacia e' abrogato e sostituito dal seguente:  
-"Alla Facolta' di farmacia sono annessi i seguenti istituti:  
-1) Istituto di chimica farmaceutica e tossicologia;  
-2) Istituto di farmacologia e farmacognosia.  
+Art. 100. - Per essere ammessi a sostenere l'esame di laurea in odontoiatria e protesi dentaria lo studente deve aver seguito i corsi ed aver superato gli esami in tutti gli insegnamenti fondamentali ed almeno in due insegnamenti scelti fra i complementari ed aver, inoltre, seguito le prescritte esercitazioni cliniche, i tirocini pratici ed averne conseguito le relative attestazioni.   
+L'esame di laurea consiste nella discussione di una tesi scritta su argomenti di odontostomatologia da richiedere almeno all'inizio dell'ultimo anno di corso.   
+I laureandi debbono fini dall'inizio dell'ultimo anno di corso scegliere la cattedra presso la quale intendono svolgere la loro tesi.   
+Per esercitare la professione i laureati in odontoiatria e protesi dentaria devono superare un apposito esame di Stato.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 ottobre 1963
+### Dato a Roma, addi' 5 settembre 1980
 
-SEGNI GUI
+PERTINI SARTI
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 9 novembre 1963
+Registrato alla Corte dei conti, addi' 17 ottobre 1980
 
-Atti del Governo, registro n. 175, foglio n. 126. - VILLA
+Registro n. 95 Istruzione, foglio n. 100

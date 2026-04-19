@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1957 n. 937
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1974 n. 790
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1957 n. 937
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1974 n. 790
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
@@ -10,19 +10,17 @@ Modificazioni allo statuto dell'Universita' degli studi di Siena.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831), e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successivi;
+Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831), e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte.
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -32,430 +30,482 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 9. - Agli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di: 17), "diritto greco".
+Gli articoli 157, 158, 159, 160, 161, relativi alla scuola di specializzazione in radiologia, sono abrogati e sostituiti dai seguenti:
 
-Art. 11. - Agli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto quello di: 5) "sociologia".
+Scuola di specializzazione in radiologia
 
-Art. 46. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di:
+Art. 157. - La scuola rilascia i seguenti diplomi di specializzazione: in radiologia e in radiologia diagnostica.
 
-14) "semeiotica chirurgica".
+Art. 158. - La scuola e' riservata ai laureati in medicina e chirurgia, che possono essere accolti in numero massimo di 12 per ciascun anno di corso per radiologia (6) radiologia diagnostica (6) per un totale di 42 nei sette anni di corso (4 anni radiologia e 3 anni radiologia diagnostica).
 
-Art. 52, relativo alla scuola per l'assistenza sociale, l'ultimo comma e' cosi' modificato: "L'ammissione alla scuola ha luogo in seguito a concorso per soli esami".
+Art. 159. - La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia e' di quattro anni.
 
-Art. 71, relativo alle materie di insegnamento nella scuola di specializzazione in ostetricia e ginecologia, e' modificato nel senso che agli insegnamenti del 2°, 3° e 4° anno e' aggiunto quello di: "clinica ostetrica e ginecologica".
+Gli insegnamenti sono i seguenti:
 
-Art. 74, relativo alle materie di insegnamento nella scuola di specializzazione in urologia, e' modificato nel senso che agli insegnanti del 1° e 2° anno e' aggiunto quello di: "fisiologia clinica (biennale)".
+a) Matematica, fisica, nozioni di statistica e informatica (annuale) comprendente:
 
-Art. 80, relativo alle materie di insegnamento nella Scuola di specializzazione in pediatria, e' modificato nel senso che agli insegnamenti del 1° anno e' aggiunto quello di:
+1) richiami di matematica e fisica generale;
 
-6)"anatomia patologica".
+2) costituzione della materia;
 
-Agli insegnamenti del 2° anno e' aggiunto quello di:
+3) produzione, assorbimento e misura delle radiazioni;
 
-7) "ortopedia".
+4) statistica applicata alla medicina;
 
-Dopo la scuola di specializzazione in pediatria sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della scuola di specializzazione in malattie cardiovascolari e reumatiche.
+5) informatica e cibernetica applicate alla radiologia.
 
-Scuola di specializzazione in malattie cardiovascolari e reumatiche
+b) Radiodiagnostica (triennale) comprendente:
 
-Art. 81. - Alla Facolta' di medicina e chirurgia e' annessa la scuola di specializzazione in malattie cardiovascolari e reumatiche.
+1) principi generali di radiodiagnostica;
 
-Art. 82. - La scuola ha la durata di tre anni.
+2) apparecchi, strumenti e tecnica radiodiagnostica;
 
-Art. 83. - Le materie di insegnamento vengono svolte a classi riunite per tutti gli iscritti. Ogni anno d'insegnamento della Scuola comprende un corso sulle materie cardiovascolari e un corso sulle materie reumatiche che verranno svolte parallelamente.
+3) tecnica e fisiologia applicate alla radiodiagnostica;
 
-Per ogni anno gli insegnamenti vengono impartiti per un periodo di tre mesi cosi' suddiviso: il primo mese compreso fra il 15 novembre e il 15 dicembre; il secondo mese fra il 15 febbraio e il 15 marzo; il terzo mese fra il 1° maggio e il 1° giugno.
+4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;
 
-Art. 84. - Le materie di insegnamento sono le seguenti:
+5) semeiotica radiologica;
 
-Malattie cardiovascolari
+6) diagnostica differenziale radiologica;
 
-1° anno:
+7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;
 
-1° mese:
+8) dimostrazioni di casistica clinica.
 
-Anatomia;
+c) Radiobiologia (annuale) comprendente:
 
-Fisiologia;
+1) radiobiologia generale;
 
-Anatomia patologica;
+2) danni da radiazioni e radiopatie.
 
-Semeiotica strumentale e cardiologica;
+d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:
 
-Patologia e clinica cardiologica;
+1) legislazione sanitaria applicata alla radiologia;
 
-2° mese:
+2) compiti e responsabilita' medico-legali del radiologo;
 
-Farmacologia;
+3) radioprotezione fisica e dosimetria ad essa connessa;
 
-Radiologia;
+4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;
 
-Semeiotica strumentale cardiologica;
+5) radioprotezione chimica;
 
-Patologia e clinica cardiologica;
+6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.
 
-3° mese:
+e) Radioterapia e terapia fisica (triennale) comprendente:
 
-Problemi assicurativi sociali;
+1) radiobiologia applicata;
 
-Chirurgia cardiovascolare;
+2) fondamenti generali di radioterapia e terapia fisica;
 
-Semeiotica cardiologica strumentale;
+3) istopatologia speciale dei tumori;
 
-Terapia cardiologica;
+4) nozioni sugli apparecchi e strumenti per la radioterapia;
 
-Patologia e clinica cardiologica.
+5) tecnica e metodica radioterapica;
 
-Alla fine del primo anno, gli iscritti dovranno superare gli esami di anatomia e fisiologia.
+6) dosimetria;
 
-2° anno:
+7) clinica radioterapica;
 
-1° mese:
+8) fondamenti generali di chemioterapia oncologica;
 
-Anatomia patologica;
+9) chemioterapia clinica dei tumori e sua associazione alla radioterapia;
 
-Semeiotica e clinica cardiologica;
+10) dimostrazioni di casistica clinica.
 
-Patologia clinica e cardiologica;
+f) Medicina nucleare (biennale) comprendente:
 
-2° mese:
+1) elementi di medicina nucleare;
 
-Farmacologia;
+2) istrumentario, tecnica e metodica dell'impiego dei radioisotopi in medicina nucleare;
 
-Radiologia;
+3) dosimetria dei radioisotopi somministrati per via interna;
 
-Semeiotica strumentale e cardiologica;
+4) diagnostica con radioisotopi somministrati per via interna;
 
-Patologia e clinica cardiologica;
+5) radioterapia metabolica;
 
-3° mese:
+6) dimostrazioni di casistica clinica.
 
-Problemi assicurativi sociali;
+I singoli insegnamenti, tenuti da uno o piu' docenti, a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze, dimostrazioni pratiche e, ove opportuno e possibile, da visite ad istituzioni di particolare interesse, sono cosi' distribuiti nei quattro anni di corso:
 
-Chirurgia cardiovasale;
+1° Anno (tronco comune):
 
-Semeiotica cardiologica strumentale;
+Matematica, fisica, nozioni di statistica ed informatica;
 
-Terapia cardiologica;
+Radiobiologia;
 
-Patologia e clinica cardiologica;
+Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;
 
-Alla fine del secondo anno gli iscritti dovranno superare i seguenti esami: farmacologia, radiologia, anatomia patologica e sostenere i seguenti colloqui: semeiotica strumentale e cardiologica, patologia e clinica cardiologica.
+Radiodiagnostica (I).
 
-3° anno:
+2° Anno:
 
-1° mese:
+Radiodiagnostica (II);
 
-Semeiotica strumentale cardiologica
+Radioterapia e terapia fisica (I).
 
-Patologia e clinica cardiologica;
+3° Anno:
 
-Terapia cardiologica;
+Radiodiagnostica (III);
 
-2° mese:
+Radioterapia e terapia fisica (II);
 
-Semeiotica strumentale cardiologica;
+Medicina nucleare (II).
 
-Patologia e clinica cardiologica;
+4° Anno:
 
-Terapia cardiologica;
+Radioterapia e terapia fisica (III);
 
-3° mese:
+Medicina nucleare (II).
 
-Problemi assicurativi sociali;
+Art. 160. - La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia diagnostica e' di tre anni.
 
-Chirurgia cardiovascolare;
+Gli insegnamenti sono i seguenti:
 
-Semeiotica cardiologica strumentale;
+a) Matematica, fisica, nozioni di statistica e di informatica (annuale) comprendente:
 
-Terapia cardiologica;
+1) richiami di matematica e fisica generale;
 
-Patologia e clinica cardiologica.
+2) costituzione della materia;
 
-Alla fine del terzo anno gli iscritti dovranno superare i seguenti esami:
+3) produzione, assorbimento e misura delle radiazioni;
 
-Semeiotica strumentale cardiologica;
+4) statistica applicata alla medicina;
 
-Chirurgia cardiovascolare;
+5) informatica e cibernetica applicate alla radiologia.
 
-Problemi assicurativi e sociali;
+b) Radiodiagnostica (triennale) comprendente:
 
-Patologia e clinica cardiologica;
+1) principi generali di radiodiagnostica;
 
-Terapia cardiologica.
+2) apparecchi, strumenti e tecnica radiodiagnostica;
 
-Malattie reumatiche
+3) tecnica e fisiologia applicate alla radiodiagnostica;
 
-1° anno:
+4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;
 
-1° mese:
+5) semeiotica radiologica;
 
-Anatomia;
+6) diagnostica differenziale radiologica;
 
-Anatomia patologica;
+7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;
 
-Semeiotica reumatologica;
+8) dimostrazioni di casistica clinica.
 
-Patologia e clinica reumatologica;
+c) Radiobiologia (annuale) comprendente:
 
-2° mese:
+1) radiobiologia generale;
 
-Farmacologia;
+2) danni da radiazioni e radiopatie.
 
-Radiologia;
+d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:
 
-Semeiotica reumatologica;
+1) legislazione sanitaria applicata alla radiologia;
 
-Patologia e clinica reumatologica;
+2) compiti e responsabilita' medico-legali del radiologo;
 
-3° mese:
+3) radioprotezione fisica e dosimetria ad essa connessa;
 
-Semeiotica reumatologica;
+4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;
 
-Patologia e clinica reumatologica;
+5) radioprotezione chimica;
 
-Terapia reumatologica.
+6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.
 
-Alla fine del primo anno, gli iscritti dovranno superare l'esame di anatomia.
+I singoli insegnamenti, tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze e dimostrazioni pratiche, sono cosi' distribuiti nei tre anni di corso:
 
-2° anno:
+1° Anno (tronco comune):
 
-1° mese:
+Matematica, fisica, nozioni di statistica ed informatica;
 
-Anatomia patologica;
+Radiobiologia;
 
-Semeiotica reumatologica;
+Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;
 
-Patologia e clinica reumatologica;
+Radiodiagnostica (I).
 
-2° mese:
+2° Anno:
 
-Farmacologia;
+Radiodiagnostica (II).
 
-Radiologia;
+3° Anno:
 
-Semeiotica reumatologica;
+Radiodiagnostica (III).
 
-Patologia e clinica reumatologica;
+Art. 161. - Per essere ammesso agli esami di diploma in radiologia ed in radiologia diagnostica gli iscritti, oltre ad aver compiuto un congruo periodo di internato, devono aver superato un esame su ciascuna materia di insegnamento ed elaborata una tesi scritta su di un argomento radiologico concordato con il direttore della scuola.
 
-3° mese:
+L'art. 162, secondo comma, e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in medicina legale e delle assicurazioni e' stabilito in cinque per ogni anno di corso (totale 15 iscritti).
 
-Semeiotica reumatologica;
+Dopo l'art. 167, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in psichiatria.
 
-Semeiotica ortopedica;
+Scuola di specializzazione in psichiatria
 
-Patologia e clinica reumatologica;
+Art. 168. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in psichiatria con sede presso la clinica delle malattie nervose e mentali. Il numero degli iscritti e' di 2 per ogni anno di corso per un totale complessivo di 8.
 
-Terapia reumatologica.
+Art. 169. - La durata del corso degli studi per il conseguimento del diploma di specialista in psichiatria e' di 4 anni. L'ammissione alla scuola verra' fatta per titoli ed esami.
 
-Alla fine del secondo anno gli iscritti dovranno superare gli esami di anatomia patologica, farmacologia e radiologia. (Per i colloqui vedi "cardiologia").
+Art. 170. - Le materie d'insegnamento sono le seguenti:
 
-3° anno:
+1° Anno:
 
-1° mese:
+Anatomia ed istologia del S.N.;
 
-Semeiotica reumatologica
+Fisiologia del S.N.;
 
-Patologia e clinica reumatologica;
+Biochimica del S.N.;
 
-Terapia reumatologica;
+Genetica (elementi);
 
-2° mese:
+Psicologia generale;
 
-Semeiotica reumatologica
+Psicopatologia (1°);
 
-Patologia e clinica reumatologica;
+Semeiotica psichiatrica.
 
-Terapia reumatologica;
+2° Anno:
 
-3° mese:
+Anatomia ed istologia patologica del S.N.;
 
-Semeiotica reumatologica;
+Semeiotica neurologica;
 
-Semeiotica ortopedica;
+Patologia speciale e diagnostica neurologica;
 
-Patologia e clinica reumatologica;
+Neuro-radiologia;
 
-Terapia reumatologica.
+Endocrinologia e neurologia vegetativa;
 
-Alla fine del terzo anno gli iscritti dovranno sostenere i seguenti esami: semeiotica reumatologica, semeiotica ortopedica, patologia e clinica reumatologica, terapia reumatologica.
+Elettroencefalografia;
 
-Art. 85. - Al termine dei tre anni della scuola gli iscritti dovranno sostenere, oltre gli esami speciali ricordati, un esame generale nel quale svolgeranno una dissertazione su temi di cardiologia e reumatologia.
+3° Anno:
 
-Superato tale esame verra' rilasciato un unico titolo di specializzazione in cardiologia e reumatologia.
+Patologia speciale psichiatrica;
 
-Il presente decreto, munito del sigillo dello Stato, sara', inserito nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Psicopatologia (2°);
 
-Dato a Roma, addi' 2 settembre 1957
+Clinica psichiatrica (1°);
 
-GRONCHI
+Psicologia clinica;
 
-MORO
+Psicofarmacologia;
 
-Visto, il Guardasigilli: GONELLA
+Psichiatria in rapporto con la patologia internistica;
+
+Esami di laboratorio.
+
+4° Anno:
+
+Clinica psichiatrica (2°);
+
+Terapia psichiatrica generale;
+
+Psicoterapia;
+
+Neuropsichiatria infantile;
+
+Psichiatria forense e legislazione psichiatrica;
+
+Psichiatria sociale (del lavoro, scolastica, igiene e profilassi mentale).
+
+Art. 171. - Per conseguire il diploma di specializzazione e' previsto l'internato obbligatorio per l'intero anno scolastico in clinica delle malattie nervose e mentali, sede della scuola. Tale internato potra' essere ridotto, per il 2° anno a non meno di 4 mesi per i medici che prestino servizio regolare in altro reparto neurologico. Per il 1°, 3° e 4° anno l'internato potra' essere ridotto a non meno di 4 mesi per i medici che prestino servizio regolare in un altro reparto psichiatrico e, a non meno di mesi 6 per coloro che prestino servizio in reparto neurologico.
+
+Gli esami sono obbligatori per il passaggio all'anno successivo.
+
+Art. 172. - Una abbreviazione di corso di anni 2 puo' essere concessa agli specialisti in clinica delle malattie nervose e mentali, neurologia, psicologia e neuropsichiatria infantile, neurochirurgia. Di anni 1 per gli specialisti in altre materie affini.
+
+Le abbreviazioni di cui sopra sono concesse solo superando un esame di ammissione e a giudizio del consiglio della scuola.
+
+Art. 173. - Tassa di immatricolazione (1° anno di corso) L. 12.000; tassa di iscrizione (ogni anno di corso) L. 100.000; soprattassa esami (ogni anno) L. 16.000; contributi di laboratorio (ogni anno di corso) L. 14.000; tassa di diploma (ultimo anno di corso) L. 20.000.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 29 ottobre 1974
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: ZAGARI
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 15 ottobre 1957 Atti del Governo, registro n. 108, foglio n. 79. - RELLEVA
+alla Corte dei conti, addi' 27 gennaio 1975 Atti di Governo, registro n. 8, foglio n. 33
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831), e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successivi;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte.   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831), e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 9. - Agli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di: 17), "diritto greco".   
-Art. 11. - Agli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto quello di: 5) "sociologia".   
-Art. 46. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di:   
-14) "semeiotica chirurgica".   
-Art. 52, relativo alla scuola per l'assistenza sociale, l'ultimo comma e' cosi' modificato: "L'ammissione alla scuola ha luogo in seguito a concorso per soli esami".   
-Art. 71, relativo alle materie di insegnamento nella scuola di specializzazione in ostetricia e ginecologia, e' modificato nel senso che agli insegnamenti del 2°, 3° e 4° anno e' aggiunto quello di: "clinica ostetrica e ginecologica".   
-Art. 74, relativo alle materie di insegnamento nella scuola di specializzazione in urologia, e' modificato nel senso che agli insegnanti del 1° e 2° anno e' aggiunto quello di: "fisiologia clinica (biennale)".   
-Art. 80, relativo alle materie di insegnamento nella Scuola di specializzazione in pediatria, e' modificato nel senso che agli insegnamenti del 1° anno e' aggiunto quello di:   
-6)"anatomia patologica".   
-Agli insegnamenti del 2° anno e' aggiunto quello di:   
-7) "ortopedia".   
-Dopo la scuola di specializzazione in pediatria sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della scuola di specializzazione in malattie cardiovascolari e reumatiche.   
+Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli 157, 158, 159, 160, 161, relativi alla scuola di specializzazione in radiologia, sono abrogati e sostituiti dai seguenti:  
   
-Scuola di specializzazione in malattie cardiovascolari e reumatiche   
-Art. 81. - Alla Facolta' di medicina e chirurgia e' annessa la scuola di specializzazione in malattie cardiovascolari e reumatiche.   
-Art. 82. - La scuola ha la durata di tre anni.   
-Art. 83. - Le materie di insegnamento vengono svolte a classi riunite per tutti gli iscritti. Ogni anno d'insegnamento della Scuola comprende un corso sulle materie cardiovascolari e un corso sulle materie reumatiche che verranno svolte parallelamente.   
-Per ogni anno gli insegnamenti vengono impartiti per un periodo di tre mesi cosi' suddiviso: il primo mese compreso fra il 15 novembre e il 15 dicembre; il secondo mese fra il 15 febbraio e il 15 marzo; il terzo mese fra il 1° maggio e il 1° giugno.   
-Art. 84. - Le materie di insegnamento sono le seguenti:   
-  
-Malattie cardiovascolari   
-1° anno:   
-1° mese:   
-Anatomia;   
-Fisiologia;   
-Anatomia patologica;   
-Semeiotica strumentale e cardiologica;   
-Patologia e clinica cardiologica;   
-2° mese:   
-Farmacologia;   
-Radiologia;   
-Semeiotica strumentale cardiologica;   
-Patologia e clinica cardiologica;   
-3° mese:   
-Problemi assicurativi sociali;   
-Chirurgia cardiovascolare;   
-Semeiotica cardiologica strumentale;   
-Terapia cardiologica;   
-Patologia e clinica cardiologica.   
-Alla fine del primo anno, gli iscritti dovranno superare gli esami di anatomia e fisiologia.   
-2° anno:   
-1° mese:   
-Anatomia patologica;   
-Semeiotica e clinica cardiologica;   
-Patologia clinica e cardiologica;   
-2° mese:   
-Farmacologia;   
-Radiologia;   
-Semeiotica strumentale e cardiologica;   
-Patologia e clinica cardiologica;   
-3° mese:   
-Problemi assicurativi sociali;   
-Chirurgia cardiovasale;   
-Semeiotica cardiologica strumentale;   
-Terapia cardiologica;   
-Patologia e clinica cardiologica;   
-Alla fine del secondo anno gli iscritti dovranno superare i seguenti esami: farmacologia, radiologia, anatomia patologica e sostenere i seguenti colloqui: semeiotica strumentale e cardiologica, patologia e clinica cardiologica.   
-3° anno:   
-1° mese:   
-Semeiotica strumentale cardiologica   
-Patologia e clinica cardiologica;   
-Terapia cardiologica;   
-2° mese:   
-Semeiotica strumentale cardiologica;   
-Patologia e clinica cardiologica;   
-Terapia cardiologica;   
-3° mese:   
-Problemi assicurativi sociali;   
-Chirurgia cardiovascolare;   
-Semeiotica cardiologica strumentale;   
-Terapia cardiologica;   
-Patologia e clinica cardiologica.   
-Alla fine del terzo anno gli iscritti dovranno superare i seguenti esami:   
-Semeiotica strumentale cardiologica;   
-Chirurgia cardiovascolare;   
-Problemi assicurativi e sociali;   
-Patologia e clinica cardiologica;   
-Terapia cardiologica.   
-Malattie reumatiche   
-1° anno:   
-1° mese:   
-Anatomia;   
-Anatomia patologica;   
-Semeiotica reumatologica;   
-Patologia e clinica reumatologica;   
-2° mese:   
-Farmacologia;   
-Radiologia;   
-Semeiotica reumatologica;   
-Patologia e clinica reumatologica;   
-3° mese:   
-Semeiotica reumatologica;   
-Patologia e clinica reumatologica;   
-Terapia reumatologica.   
-Alla fine del primo anno, gli iscritti dovranno superare l'esame di anatomia.   
-2° anno:   
-1° mese:   
-Anatomia patologica;   
-Semeiotica reumatologica;   
-Patologia e clinica reumatologica;   
-2° mese:   
-Farmacologia;   
-Radiologia;   
-Semeiotica reumatologica;   
-Patologia e clinica reumatologica;   
-3° mese:   
-Semeiotica reumatologica;   
-Semeiotica ortopedica;   
-Patologia e clinica reumatologica;   
-Terapia reumatologica.   
-Alla fine del secondo anno gli iscritti dovranno superare gli esami di anatomia patologica, farmacologia e radiologia. (Per i colloqui vedi "cardiologia").   
-3° anno:   
-1° mese:   
-Semeiotica reumatologica   
-Patologia e clinica reumatologica;   
-Terapia reumatologica;   
-2° mese:   
-Semeiotica reumatologica   
-Patologia e clinica reumatologica;   
-Terapia reumatologica;   
-3° mese:   
-Semeiotica reumatologica;   
-Semeiotica ortopedica;   
-Patologia e clinica reumatologica;   
-Terapia reumatologica.   
-Alla fine del terzo anno gli iscritti dovranno sostenere i seguenti esami: semeiotica reumatologica, semeiotica ortopedica, patologia e clinica reumatologica, terapia reumatologica.   
-Art. 85. - Al termine dei tre anni della scuola gli iscritti dovranno sostenere, oltre gli esami speciali ricordati, un esame generale nel quale svolgeranno una dissertazione su temi di cardiologia e reumatologia.   
-Superato tale esame verra' rilasciato un unico titolo di specializzazione in cardiologia e reumatologia.   
+Scuola di specializzazione in radiologia  
+Art. 157. - La scuola rilascia i seguenti diplomi di specializzazione: in radiologia e in radiologia diagnostica.  
+Art. 158. - La scuola e' riservata ai laureati in medicina e chirurgia, che possono essere accolti in numero massimo di 12 per ciascun anno di corso per radiologia (6) radiologia diagnostica (6) per un totale di 42 nei sette anni di corso (4 anni radiologia e 3 anni radiologia diagnostica).  
+Art. 159. - La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia e' di quattro anni.  
+Gli insegnamenti sono i seguenti:  
+a) Matematica, fisica, nozioni di statistica e informatica (annuale) comprendente:  
+1) richiami di matematica e fisica generale;  
+2) costituzione della materia;  
+3) produzione, assorbimento e misura delle radiazioni;  
+4) statistica applicata alla medicina;  
+5) informatica e cibernetica applicate alla radiologia.  
+b) Radiodiagnostica (triennale) comprendente:  
+1) principi generali di radiodiagnostica;  
+2) apparecchi, strumenti e tecnica radiodiagnostica;  
+3) tecnica e fisiologia applicate alla radiodiagnostica;  
+4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;  
+5) semeiotica radiologica;  
+6) diagnostica differenziale radiologica;  
+7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;  
+8) dimostrazioni di casistica clinica.  
+c) Radiobiologia (annuale) comprendente:  
+1) radiobiologia generale;  
+2) danni da radiazioni e radiopatie.  
+d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:  
+1) legislazione sanitaria applicata alla radiologia;  
+2) compiti e responsabilita' medico-legali del radiologo;  
+3) radioprotezione fisica e dosimetria ad essa connessa;  
+4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;  
+5) radioprotezione chimica;  
+6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.  
+e) Radioterapia e terapia fisica (triennale) comprendente:  
+1) radiobiologia applicata;  
+2) fondamenti generali di radioterapia e terapia fisica;  
+3) istopatologia speciale dei tumori;  
+4) nozioni sugli apparecchi e strumenti per la radioterapia;  
+5) tecnica e metodica radioterapica;  
+6) dosimetria;  
+7) clinica radioterapica;  
+8) fondamenti generali di chemioterapia oncologica;  
+9) chemioterapia clinica dei tumori e sua associazione alla radioterapia;  
+10) dimostrazioni di casistica clinica.  
+f) Medicina nucleare (biennale) comprendente:  
+1) elementi di medicina nucleare;  
+2) istrumentario, tecnica e metodica dell'impiego dei radioisotopi in medicina nucleare;  
+3) dosimetria dei radioisotopi somministrati per via interna;  
+4) diagnostica con radioisotopi somministrati per via interna;  
+5) radioterapia metabolica;  
+6) dimostrazioni di casistica clinica.  
+I singoli insegnamenti, tenuti da uno o piu' docenti, a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze, dimostrazioni pratiche e, ove opportuno e possibile, da visite ad istituzioni di particolare interesse, sono cosi' distribuiti nei quattro anni di corso:  
+1° Anno (tronco comune):  
+Matematica, fisica, nozioni di statistica ed informatica;  
+Radiobiologia;  
+Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;  
+Radiodiagnostica (I).  
+2° Anno:  
+Radiodiagnostica (II);  
+Radioterapia e terapia fisica (I).  
+3° Anno:  
+Radiodiagnostica (III);  
+Radioterapia e terapia fisica (II);  
+Medicina nucleare (II).  
+4° Anno:  
+Radioterapia e terapia fisica (III);  
+Medicina nucleare (II).  
+Art. 160. - La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia diagnostica e' di tre anni.  
+Gli insegnamenti sono i seguenti:  
+a) Matematica, fisica, nozioni di statistica e di informatica (annuale) comprendente:  
+1) richiami di matematica e fisica generale;  
+2) costituzione della materia;  
+3) produzione, assorbimento e misura delle radiazioni;  
+4) statistica applicata alla medicina;  
+5) informatica e cibernetica applicate alla radiologia.  
+b) Radiodiagnostica (triennale) comprendente:  
+1) principi generali di radiodiagnostica;  
+2) apparecchi, strumenti e tecnica radiodiagnostica;  
+3) tecnica e fisiologia applicate alla radiodiagnostica;  
+4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;  
+5) semeiotica radiologica;  
+6) diagnostica differenziale radiologica;  
+7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;  
+8) dimostrazioni di casistica clinica.  
+c) Radiobiologia (annuale) comprendente:  
+1) radiobiologia generale;  
+2) danni da radiazioni e radiopatie.  
+d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:  
+1) legislazione sanitaria applicata alla radiologia;  
+2) compiti e responsabilita' medico-legali del radiologo;  
+3) radioprotezione fisica e dosimetria ad essa connessa;  
+4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;  
+5) radioprotezione chimica;  
+6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.  
+I singoli insegnamenti, tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze e dimostrazioni pratiche, sono cosi' distribuiti nei tre anni di corso:  
+1° Anno (tronco comune):  
+Matematica, fisica, nozioni di statistica ed informatica;  
+Radiobiologia;  
+Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;  
+Radiodiagnostica (I).  
+2° Anno:  
+Radiodiagnostica (II).  
+3° Anno:  
+Radiodiagnostica (III).  
+Art. 161. - Per essere ammesso agli esami di diploma in radiologia ed in radiologia diagnostica gli iscritti, oltre ad aver compiuto un congruo periodo di internato, devono aver superato un esame su ciascuna materia di insegnamento ed elaborata una tesi scritta su di un argomento radiologico concordato con il direttore della scuola.  
+L'art. 162, secondo comma, e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in medicina legale e delle assicurazioni e' stabilito in cinque per ogni anno di corso (totale 15 iscritti).  
+Dopo l'art. 167, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in psichiatria.  
+Scuola di specializzazione in psichiatria  
+Art. 168. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in psichiatria con sede presso la clinica delle malattie nervose e mentali. Il numero degli iscritti e' di 2 per ogni anno di corso per un totale complessivo di 8.  
+Art. 169. - La durata del corso degli studi per il conseguimento del diploma di specialista in psichiatria e' di 4 anni. L'ammissione alla scuola verra' fatta per titoli ed esami.  
+Art. 170. - Le materie d'insegnamento sono le seguenti:  
+1° Anno:  
+Anatomia ed istologia del S.N.;  
+Fisiologia del S.N.;  
+Biochimica del S.N.;  
+Genetica (elementi);  
+Psicologia generale;  
+Psicopatologia (1°);  
+Semeiotica psichiatrica.  
+2° Anno:  
+Anatomia ed istologia patologica del S.N.;  
+Semeiotica neurologica;  
+Patologia speciale e diagnostica neurologica;  
+Neuro-radiologia;  
+Endocrinologia e neurologia vegetativa;  
+Elettroencefalografia;  
+3° Anno:  
+Patologia speciale psichiatrica;  
+Psicopatologia (2°);  
+Clinica psichiatrica (1°);  
+Psicologia clinica;  
+Psicofarmacologia;  
+Psichiatria in rapporto con la patologia internistica;  
+Esami di laboratorio.  
+4° Anno:  
+Clinica psichiatrica (2°);  
+Terapia psichiatrica generale;  
+Psicoterapia;  
+Neuropsichiatria infantile;  
+Psichiatria forense e legislazione psichiatrica;  
+Psichiatria sociale (del lavoro, scolastica, igiene e profilassi mentale).  
+Art. 171. - Per conseguire il diploma di specializzazione e' previsto l'internato obbligatorio per l'intero anno scolastico in clinica delle malattie nervose e mentali, sede della scuola. Tale internato potra' essere ridotto, per il 2° anno a non meno di 4 mesi per i medici che prestino servizio regolare in altro reparto neurologico. Per il 1°, 3° e 4° anno l'internato potra' essere ridotto a non meno di 4 mesi per i medici che prestino servizio regolare in un altro reparto psichiatrico e, a non meno di mesi 6 per coloro che prestino servizio in reparto neurologico.  
+Gli esami sono obbligatori per il passaggio all'anno successivo.  
+Art. 172. - Una abbreviazione di corso di anni 2 puo' essere concessa agli specialisti in clinica delle malattie nervose e mentali, neurologia, psicologia e neuropsichiatria infantile, neurochirurgia. Di anni 1 per gli specialisti in altre materie affini.  
+Le abbreviazioni di cui sopra sono concesse solo superando un esame di ammissione e a giudizio del consiglio della scuola.  
+Art. 173. - Tassa di immatricolazione (1° anno di corso) L. 12.000; tassa di iscrizione (ogni anno di corso) L. 100.000; soprattassa esami (ogni anno) L. 16.000; contributi di laboratorio (ogni anno di corso) L. 14.000; tassa di diploma (ultimo anno di corso) L. 20.000.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara', inserito nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 settembre 1957
+### Dato a Roma, addi' 29 ottobre 1974
 
-GRONCHI MORO
+LEONE MALFATTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 15 ottobre 1957
+Registrato alla Corte dei conti, addi' 27 gennaio 1975
 
-Atti del Governo, registro n. 108, foglio n. 79. - RELLEVA
+Atti di Governo, registro n. 8, foglio n. 33

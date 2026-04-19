@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 luglio 1975 n. 449
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1979 n. 921
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 luglio 1975 n. 449
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1979 n. 921
+================================================================
 
 Autorizzazione ad accettare un legato a favore dello Stato.
 -----------------------------------------------------------
@@ -10,10 +10,8 @@ Autorizzazione ad accettare un legato a favore dello Stato.
 Art. 1
 ------
 
-N.
-
-449. Decreto del Presidente della Repubblica 21 luglio 1975, col quale, sulla proposta del Ministro per i beni culturali ed ambientali, viene autorizzata la accettazione di un legato, consistente in due libri ebraici con legature in argento della prima meta' del secolo XVIII, disposto a favore dello Stato dalla sig.ra Carvaglio Matilde ved. Ansaldi, da destinare al museo di palazzo Venezia o ad altro museo.  
+N. 921 del Presidente della Repubblica 14 settembre 1979, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata la accettazione a favore dello Stato del legato disposto dal sig. Amedeo Bocchi con testamento olografo 30 novembre 1976, pubblicato in data 23 maggio 1977, n. 45303 di repertorio, a rogito avv. Franco Galiani, notaio in Roma, consistente in una raccolta di sei dipinti, i quali rivestono un importante interesse artistico e storico, da destinare alla Galleria nazionale in Parma.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 3 settembre 1975  
-Atti di Governo, registro n. 12, foglio n. 4
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti, addi' 30 maggio 1980  
+Registro n. 9 Beni culturali, foglio n. 122  

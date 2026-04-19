@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1982 n. 730
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1981 n. 608
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1982 n. 730
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1981 n. 608
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Palermo.
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Palermo.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), a successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -33,26 +33,27 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-Nell'art. 67, relativo al corso di laurea in farmacia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-laboratorio di preparazione estrattiva e sintetica dei farmaci;  
-istituzioni di patologia generale.  
+Nell'art. 48, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+cardiochirurgia;  
+chirurgia plastica;  
+oncologia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 luglio 1982
+### Dato a Roma, addi' 31 luglio 1981
 
 PERTINI BODRATO
 
 Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 28 settembre 1982
+Registrato alla Corte dei conti, addi' 21 ottobre 1981
 
-Registro n. 112 Istruzione, foglio n. 367
+Registro n. 96 Istruzione, foglio n. 365

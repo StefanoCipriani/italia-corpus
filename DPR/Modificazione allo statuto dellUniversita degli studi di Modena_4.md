@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1078
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 409
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1078
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 409
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Modena.
 ------------------------------------------------------------------
@@ -18,7 +18,7 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;319);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
 Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
@@ -39,14 +39,18 @@ Articolo unico
 --------------
 
   
-Nell'art. 71, relativo al corso di laurea in economia e commercio, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
-organizzazione del lavoro.  
+  
+Nell'art. 41, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:   
+foniatria;   
+otorinolaringoiatria pediatrica;   
+neuropsicofarmacologia;   
+clinica delle malattie tropicali e subtropicali.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 dicembre 1985
+### Dato a Roma, addi' 9 aprile 1986
 
 COSSIGA
 
@@ -54,6 +58,6 @@ FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 29 aprile 1986
+Registrato alla Corte dei conti, addi' 11 luglio 1986
 
-Registro n. 34 Istruzione, foglio n. 107
+Registro n. 56 Istruzione, foglio n. 7

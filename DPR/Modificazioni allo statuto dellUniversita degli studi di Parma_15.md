@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 1212
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 maggio 1967 n. 515
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 1212
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 maggio 1967 n. 515
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
@@ -10,17 +10,17 @@ Modificazioni allo statuto dell'Universita' degli studi di Parma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772) e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Parma, e convalidati dal Consiglio superiore nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -30,163 +30,202 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 164 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta quella di ematologia clinica e di laboratorio.
+Dopo l'art. 102, e con il conseguente spostamento della successiva numerazione, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in Diritto ed economia delle organizzazioni internazionali annessa alla Facolta' di giurisprudenza.
 
-Il primo comma dell'art. 281, relativo alla scuola di specializzazione in chirurgia plastica, e' modificato nel senso che il numero degli iscritti e' stabilito in sette per anno di corso, per un totale di ventuno specializzandi.
+Scuola di specializzazione in Diritto ed economia delle organizzazioni internazionali
 
-Il secondo comma dell'art. 288, relativo alla scuola di specializzazione in malattie dell'apparato cardiovascolare, e' modificato nel senso che il numero degli iscritti e' stabilito in sei per ogni anno di corso, per un totale di diciotto specializzandi.
+Art. 103. - E' istituita, presso la Facolta' di giurisprudenza, la Scuola di specializzazione in diritto ed economia delle organizzazioni internazionali. Essa ha lo scopo di condurre gli allievi ad una approfondita conoscenza della materia e ad una completa capacita' tecnica nel campo delle attivita' giuridiche ed economiche internazionali.
 
-Dopo l'art. 291, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in ematologia clinica e di laboratorio di cui all'art. 164.
+Art. 104. - La Scuola ha la durata di due anni.
 
-Scuola di specializzazione in ematologia clinica e di laboratorio
-
-Art. 292. - La scuola ha la durata di tre anni.
-
-Art. 293. - Sono ammessi i laureati in medicina e chirurgia.
-
-Art. 294. - Il numero complessivo degli specializzandi da ammettere nella scuola nei tre anni di corso e' di 15 allievi.
-
-Art. 295. - Le materie di insegnamento sono le seguenti:
+Art. 105. - Le materie di insegnamento, che comprendono corsi teorici e seminari, sono le seguenti:
 
 1° Anno:
 
-morfologia e morfogenesi normale e patologica del sangue;
+Corsi:
 
-genetica ematologica;
+1) Storia dell'organizzazione internazionale;
 
-fisiopatologia ematologica;
+2) Diritto delle organizzazioni internazionali;
 
-biochimica ematologica;
+3) L'O.N.U. e le organizzazioni internazionali specializzate;
 
-fisiopatologia del plasma;
+4) Economia internazionale e sviluppo economico;
 
-tecniche di laboratorio inerenti all'ematologia;
+5) Teoria del commercio internazionale e tecnica degli scambi;
 
-fisiopatologia della coagulazione e dell'emostasi.
+6) Problemi di politica monetaria e di tecnica bancaria internazionale.
+
+Seminari:
+
+1) Terminologia economico-giuridica delle organizzazioni internazionali;
+
+2) Lineamenti di storia civile ed economica d'Europa; - 3) Problemi dello sviluppo regionale;
+
+4) La cooperazione economica dell'Europa orientale;
+
+5) Le organizzazioni latino-americane di cooperazione economica;
+
+6) L'assistenza tecnica ai Paesi in via di sviluppo;
+
+7) Le organizzazioni africane di cooperazione economica.
 
 2° Anno:
 
-morfologia e morfogenesi normale e patologica del sangue;
+Corsi:
 
-fisiopatologia ematologica;
+1) Sistema e funzionamento delle organizzazioni europee di integrazione economica;
 
-immunoematologia;
+2) Politica economica europea (commerciale, monetaria e finanziaria);
 
-tecniche di laboratorio inerenti all'ematologia;
+3) Economia e politica industriale europea;
 
-patologia speciale ematologica;
+4) La disciplina della concorrenza nel Mercato Comune Europeo;
 
-clinica delle emopatie;
+5) L'integrazione europea nel campo agricolo;
 
-anatomia e istologia patologica delle emopatie e fondamenti di oncologia.
+6) L'integrazione europea nel campo sociale e del lavoro.
 
-3° Anno:
+Seminari:
 
-tecniche di laboratorio inerenti all'ematologia;
+1) Lineamenti di diritto costituzionale degli Stati membri delle Comunita' europee;
 
-nozioni di radiobiologia e di medicina nucleare applicata all'ematologia;
+2) Elementi di diritto privato comparato europeo;
 
-radiodiagnostica e radioterapia ematologica;
+3) La tutela dei diritti dell'uomo nell'ambito del Consiglio d'Europa;
 
-patologia speciale ematologica;
+4) Problemi di diritto tributario europeo;
 
-clinica speciale ematologica;
+5) Politica ed economia dei trasporti europei;
 
-clinica delle emopatie;
+6) Politica e diritto dell'energia in Europa.
 
-terapia sistematica ematologica;
+Per ciascun anno gli allievi sono tenuti a seguire tutti i corsi previsti ed almeno tre seminari a scelta.
 
-terapia trasfusionale.
+Art. 106. - Gli insegnamenti vengono conferiti per incarico dal rettore dell'Universita', sentito il direttore della Scuola.
 
-Art. 296. - Alla fine di ogni anno gli allievi dovranno sostenere un esame di profitto sul gruppo delle materie che sono state oggetto di insegnamento.
+Art. 107. - Il Consiglio della Scuola e' costituito dai professori che vi tengono i corsi di insegnamento prescritti ed e' presieduto dal direttore.
 
-Art. 297. - Alla fine del triennio gli allievi dovranno presentare una dissertazione scritta e sostenere un esame di diploma.
+Art. 108. - Il direttore della Scuola e' nominato dal rettore, su proposta della Facolta' di giurisprudenza, fra i professori di ruolo dell'Universita'.
 
-Art. 298. - Il direttore della scuola, al di fuori dei docenti incaricati ufficialmente, puo' invitare studiosi competenti ad impartire lezioni o conferenze su argomenti di speciale interesse ematologico.
+Art. 109. - Alla Scuola sono ammessi coloro che hanno conseguito la laurea in Giurisprudenza, in Economia e commercio o in Scienze politiche. Sono ammessi altresi' gli studenti stranieri in possesso di titolo equipollente.
 
-Art. 299. - Gli iscritti alla scuola di specializzazione sono tenuti a pagare le tasse e soprattasse, secondo quanto stabilito per gli studenti della facolta' di medicina e chirurgia, nonche' la tassa di diploma nella misura di L. 6.000, ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7). Sono tenuti, altresi', al pagamento di speciali contributi nella misura che sara' determinata dal consiglio di amministrazione, previo parere della facolta', su proposta del direttore della scuola.
+Art. 110. - Il numero massimo degli allievi che possono essere annualmente accolti nella Scuola e' fissato anno per anno dal Consiglio della Scuola, in rapporto alle possibilita' didattiche dei vari istituti presso i quali gli allievi debbono seguire i seminari.
+
+Del pari puo' essere stabilito un numero minimo di iscrizioni e qualora questo numero non venga raggiunto il direttore ha la facolta' di non iniziare i corsi. Ma se questi verranno iniziati, dovranno essere portati a termine qualunque sia il numero degli iscritti.
+
+Art. 111. - La domanda di ammissione alla Scuola e' diretta al rettore dell'Universita' e deve essere corredata di un certificato di laurea con l'indicazione dei voti conseguiti in tutti gli esami speciali ed in quello di laurea.
+
+Art. 112. - Gli iscritti alla Scuola sono tenuti a pagare le tasse, soprattasse e contributi, secondo quanto stabilito per gli studenti della Facolta' di giurisprudenza, nonche' la tassa di diploma nella misura di L. 6000, ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).
+
+Sono tenuti, altresi', a pagare un contributo speciale nella misura che sara' determinata dal Consiglio di amministrazione, previo parere della Facolta', su proposta del direttore della Scuola.
+
+Art. 113. - Per essere ammessi all'esame di diploma gli allievi devono avere superato tutti gli esami di profitto sulle materie della Scuola. Dovranno inoltre avere pagato tutte le tasse, soprattasse e contributi.
+
+Art. 114. - Le Commissioni per gli esami speciali sono composte di tre membri e quelle di diploma di cinque membri scelti fra gli insegnanti della Scuola e nominati dal direttore.
+
+Art. 115. - L'esame di diploma consiste nella discussione di una dissertazione originale scritta su un argomento scelto dal candidato ed approvato dal Consiglio della Scuola.
+
+Art. 116. - A coloro che hanno superato l'esame di diploma viene rilasciato un diploma di specializzazione in diritto ed economia delle organizzazioni internazionali.
+
+Art. 117. - Indipendentemente dall'esame di diploma puo' essere rilasciato un attestato di frequenza a quanti avranno effettivamente partecipato alle lezioni e ai seminari della Scuola.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 31 ottobre 1975
+Dato a Roma, addi' 24 maggio 1967
 
-LEONE
+SARAGAT
 
-MALFATTI
+GUI
 
 Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 20 dicembre 1976 Atti di Governo, registro n. 101, foglio n. 57
+alla Corte dei conti, addi' 3 luglio 1967 Atti del Governo, registro n. 212, foglio n. 7. - GRECO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Parma, e convalidati dal Consiglio superiore nel suo parere;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 164 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta quella di ematologia clinica e di laboratorio.  
-Il primo comma dell'art. 281, relativo alla scuola di specializzazione in chirurgia plastica, e' modificato nel senso che il numero degli iscritti e' stabilito in sette per anno di corso, per un totale di ventuno specializzandi.  
-Il secondo comma dell'art. 288, relativo alla scuola di specializzazione in malattie dell'apparato cardiovascolare, e' modificato nel senso che il numero degli iscritti e' stabilito in sei per ogni anno di corso, per un totale di diciotto specializzandi.  
-Dopo l'art. 291, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in ematologia clinica e di laboratorio di cui all'art. 164.  
-Scuola di specializzazione in ematologia clinica e di laboratorio  
-Art. 292. - La scuola ha la durata di tre anni.  
-Art. 293. - Sono ammessi i laureati in medicina e chirurgia.  
-Art. 294. - Il numero complessivo degli specializzandi da ammettere nella scuola nei tre anni di corso e' di 15 allievi.  
-Art. 295. - Le materie di insegnamento sono le seguenti:  
+  
+Dopo l'art. 102, e con il conseguente spostamento della successiva numerazione, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in Diritto ed economia delle organizzazioni internazionali annessa alla Facolta' di giurisprudenza.  
+  
+Scuola di specializzazione in Diritto ed economia delle organizzazioni internazionali  
+  
+Art. 103. - E' istituita, presso la Facolta' di giurisprudenza, la Scuola di specializzazione in diritto ed economia delle organizzazioni internazionali. Essa ha lo scopo di condurre gli allievi ad una approfondita conoscenza della materia e ad una completa capacita' tecnica nel campo delle attivita' giuridiche ed economiche internazionali.  
+Art. 104. - La Scuola ha la durata di due anni.  
+Art. 105. - Le materie di insegnamento, che comprendono corsi teorici e seminari, sono le seguenti:  
 1° Anno:  
-morfologia e morfogenesi normale e patologica del sangue;  
-genetica ematologica;  
-fisiopatologia ematologica;  
-biochimica ematologica;  
-fisiopatologia del plasma;  
-tecniche di laboratorio inerenti all'ematologia;  
-fisiopatologia della coagulazione e dell'emostasi.  
+Corsi:  
+1) Storia dell'organizzazione internazionale;  
+2) Diritto delle organizzazioni internazionali;  
+3) L'O.N.U. e le organizzazioni internazionali specializzate;  
+4) Economia internazionale e sviluppo economico;  
+5) Teoria del commercio internazionale e tecnica degli scambi;  
+6) Problemi di politica monetaria e di tecnica bancaria internazionale.  
+Seminari:  
+1) Terminologia economico-giuridica delle organizzazioni internazionali;  
+2) Lineamenti di storia civile ed economica d'Europa; - 3) Problemi dello sviluppo regionale;  
+4) La cooperazione economica dell'Europa orientale;  
+5) Le organizzazioni latino-americane di cooperazione economica;  
+6) L'assistenza tecnica ai Paesi in via di sviluppo;  
+7) Le organizzazioni africane di cooperazione economica.  
 2° Anno:  
-morfologia e morfogenesi normale e patologica del sangue;  
-fisiopatologia ematologica;  
-immunoematologia;  
-tecniche di laboratorio inerenti all'ematologia;  
-patologia speciale ematologica;  
-clinica delle emopatie;  
-anatomia e istologia patologica delle emopatie e fondamenti di oncologia.  
-3° Anno:  
-tecniche di laboratorio inerenti all'ematologia;  
-nozioni di radiobiologia e di medicina nucleare applicata all'ematologia;  
-radiodiagnostica e radioterapia ematologica;  
-patologia speciale ematologica;  
-clinica speciale ematologica;  
-clinica delle emopatie;  
-terapia sistematica ematologica;  
-terapia trasfusionale.  
-Art. 296. - Alla fine di ogni anno gli allievi dovranno sostenere un esame di profitto sul gruppo delle materie che sono state oggetto di insegnamento.  
-Art. 297. - Alla fine del triennio gli allievi dovranno presentare una dissertazione scritta e sostenere un esame di diploma.  
-Art. 298. - Il direttore della scuola, al di fuori dei docenti incaricati ufficialmente, puo' invitare studiosi competenti ad impartire lezioni o conferenze su argomenti di speciale interesse ematologico.  
-Art. 299. - Gli iscritti alla scuola di specializzazione sono tenuti a pagare le tasse e soprattasse, secondo quanto stabilito per gli studenti della facolta' di medicina e chirurgia, nonche' la tassa di diploma nella misura di L. 6.000, ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7). Sono tenuti, altresi', al pagamento di speciali contributi nella misura che sara' determinata dal consiglio di amministrazione, previo parere della facolta', su proposta del direttore della scuola.  
+Corsi:  
+1) Sistema e funzionamento delle organizzazioni europee di integrazione economica;  
+2) Politica economica europea (commerciale, monetaria e finanziaria);  
+3) Economia e politica industriale europea;  
+4) La disciplina della concorrenza nel Mercato Comune Europeo;  
+5) L'integrazione europea nel campo agricolo;  
+6) L'integrazione europea nel campo sociale e del lavoro.  
+Seminari:  
+1) Lineamenti di diritto costituzionale degli Stati membri delle Comunita' europee;  
+2) Elementi di diritto privato comparato europeo;  
+3) La tutela dei diritti dell'uomo nell'ambito del Consiglio d'Europa;  
+4) Problemi di diritto tributario europeo;  
+5) Politica ed economia dei trasporti europei;  
+6) Politica e diritto dell'energia in Europa.  
+Per ciascun anno gli allievi sono tenuti a seguire tutti i corsi previsti ed almeno tre seminari a scelta.  
+Art. 106. - Gli insegnamenti vengono conferiti per incarico dal rettore dell'Universita', sentito il direttore della Scuola.  
+Art. 107. - Il Consiglio della Scuola e' costituito dai professori che vi tengono i corsi di insegnamento prescritti ed e' presieduto dal direttore.  
+Art. 108. - Il direttore della Scuola e' nominato dal rettore, su proposta della Facolta' di giurisprudenza, fra i professori di ruolo dell'Universita'.  
+Art. 109. - Alla Scuola sono ammessi coloro che hanno conseguito la laurea in Giurisprudenza, in Economia e commercio o in Scienze politiche. Sono ammessi altresi' gli studenti stranieri in possesso di titolo equipollente.  
+Art. 110. - Il numero massimo degli allievi che possono essere annualmente accolti nella Scuola e' fissato anno per anno dal Consiglio della Scuola, in rapporto alle possibilita' didattiche dei vari istituti presso i quali gli allievi debbono seguire i seminari.  
+Del pari puo' essere stabilito un numero minimo di iscrizioni e qualora questo numero non venga raggiunto il direttore ha la facolta' di non iniziare i corsi. Ma se questi verranno iniziati, dovranno essere portati a termine qualunque sia il numero degli iscritti.  
+Art. 111. - La domanda di ammissione alla Scuola e' diretta al rettore dell'Universita' e deve essere corredata di un certificato di laurea con l'indicazione dei voti conseguiti in tutti gli esami speciali ed in quello di laurea.  
+Art. 112. - Gli iscritti alla Scuola sono tenuti a pagare le tasse, soprattasse e contributi, secondo quanto stabilito per gli studenti della Facolta' di giurisprudenza, nonche' la tassa di diploma nella misura di L. 6000, ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).  
+Sono tenuti, altresi', a pagare un contributo speciale nella misura che sara' determinata dal Consiglio di amministrazione, previo parere della Facolta', su proposta del direttore della Scuola.  
+Art. 113. - Per essere ammessi all'esame di diploma gli allievi devono avere superato tutti gli esami di profitto sulle materie della Scuola. Dovranno inoltre avere pagato tutte le tasse, soprattasse e contributi.  
+Art. 114. - Le Commissioni per gli esami speciali sono composte di tre membri e quelle di diploma di cinque membri scelti fra gli insegnanti della Scuola e nominati dal direttore.  
+Art. 115. - L'esame di diploma consiste nella discussione di una dissertazione originale scritta su un argomento scelto dal candidato ed approvato dal Consiglio della Scuola.  
+Art. 116. - A coloro che hanno superato l'esame di diploma viene rilasciato un diploma di specializzazione in diritto ed economia delle organizzazioni internazionali.  
+Art. 117. - Indipendentemente dall'esame di diploma puo' essere rilasciato un attestato di frequenza a quanti avranno effettivamente partecipato alle lezioni e ai seminari della Scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1975
+### Dato a Roma, addi' 24 maggio 1967
 
-LEONE MALFATTI
+SARAGAT GUI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 20 dicembre 1976
+Registrato alla Corte dei conti, addi' 3 luglio 1967
 
-Atti di Governo, registro n. 101, foglio n. 57
+Atti del Governo, registro n. 212, foglio n. 7. - GRECO

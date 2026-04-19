@@ -1,65 +1,72 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 658
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 1974 n. 731
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 658
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 1974 n. 731
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
-
-Veduto il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro nella pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Nell'art. 65, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-fisiopatologia dell'emostasi;  
-patologia dell'apparato locomotore.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione:  
   
-Nell'art. 151, relativo al corso di laurea in scienze agrarie, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-chimica della fertilizzazione.  
+Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 257 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' aggiunta la scuola in malattie infettive.  
+Dopo l'art. 300, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in malattie infettive.  
+Scuola di specializzazione in malattie infettive  
+Art. 301. - La durata del corso di studi per il conseguimento del diploma di specialista in malattie infettive e' di tre anni.  
+Il numero dei posti disponibili per gli allievi specialisti e' di quattro per ogni anno di corso.  
+Possono ottenere la iscrizione alla scuola i laureati in medicina e chirurgia che abbiano superato l'esame di ammissione, consistente in una prova scritta ed in una prova orale.  
+Art. 302. - Gli insegnamenti della scuola sono cosi' ripartiti nei tre anni di corso:  
+1° Anno:  
+1) Epidemiologia generale delle malattie infettive;  
+2) Nozioni generali di batteriologia, di virologia, di parassitologia, di immunologia;  
+3) Tecnica batteriologica, virologica, parassitologica, immunologica applicata alle malattie infettive (1° anno).  
+2° Anno:  
+1) Patologia e clinica delle malattie infettive (1° anno);  
+2) Semeiotica e diagnostica delle malattie infettive;  
+3) Anatomia patologica delle malattie infettive;  
+4) Tecnica batteriologica, virologica, parassitologica, immunologica (2° anno).  
+3° Anno:  
+1) Patologia e clinica delle malattie infettive (2° anno);  
+2) Malattie infettive dei Paesi caldi;  
+3) Farmacologia e terapia generale delle malattie infettive;  
+4) Legislazione sanitaria e malattie infettive.  
+Art. 303. - Le lezioni saranno integrate da esercitazioni e dimostrazioni pratiche da eseguirsi nei reparti della divisione specialita' pediatriche, sezione malattie infettive, e nei laboratori della clinica pediatrica.  
+Gli allievi dovranno frequentare i reparti di degenza ed i laboratori clinici per un periodo non inferiore agli otto mesi per ogni anno di corso.  
+Art. 304. - Durante l'intero corso gli allievi dovranno superare i seguenti esami, per essere ammessi allo anno di corso successivo ed all'esame di diploma:  
+1° Anno: un esame sulle seguenti discipline: epidemiologia generale delle malattie infettive e nozioni generali di batteriologia, di virologia, di parassitologia, di immunologia.  
+2° Anno: un esame relativo alle discipline: a) semeiotica e diagnostica delle malattie infettive; b) anatomia patologica delle malattie infettive; c) tecnica batteriologica, virologica, parassitologica, immunologica (1° e 2° anno).  
+3° Anno: un esame relativo alle discipline: a) patologia e clinica delle malattie infettive (1° e 2° anno);  
+b) malattie infettive dei Paesi caldi.  
+Un esame relativo alle discipline: a) farmacologia e terapia generale delle malattie infettive; b) legislazione sanitaria e malattie infettive.  
+Art. 305. - Per il conseguimento del diploma di specializzazione gli allievi dovranno discutere, di fronte ad apposita commissione, una tesi scritta su un argomento riguardante le malattie infettive.  
+La direzione della scuola e' affidata al professore ufficiale dell'insegnamento di malattie infettive della facolta' di medicina e chirurgia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 maggio 1983
+### Dato a Roma, addi' 6 giugno 1974
 
-PERTINI FALCUCCI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 23 novembre 1983
+Registrato alla Corte dei conti, addi' 27 gennaio 1975
 
-Registro n. 71 Istruzione, foglio n. 272
+Atti di Governo, registro n. 8, foglio n. 26

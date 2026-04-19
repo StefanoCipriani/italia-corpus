@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1976 n. 444
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1972 n. 496
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1976 n. 444
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1972 n. 496
 =============================================================
 
 Trasferimento di un posto di professore di ruolo presso la facolta' di medicina e chirurgia dell'Universita' di Roma.
@@ -10,27 +10,26 @@ Trasferimento di un posto di professore di ruolo presso la facolta' di medicina 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Visto il [decreto del Presidente della Repubblica 22 ottobre 1965, n. 1251](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-10-22;1251), con il quale, tra altri, venne assegnato un nuovo posto di professore di ruolo alla facolta' di medicina e chirurgia dell'Universita' di Roma per il raddoppiamento della cattedra di medicina legale e delle assicurazioni, ai sensi della [legge 13 luglio 1965, n. 874](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-07-13;874);  
-Visto il verbale dell'adunanza del 17 marzo 1976, nella quale la predetta facolta' ha chiesto che il posto assegnatole con il citato decreto del Presidente della Repubblica n. 1251 per il raddoppiamento della cattedra di medicina legale e delle assicurazioni venga trasferito al raddoppiamento della cattedra di anatomia ed istologia patologica, in considerazione dell'elevato numero di studenti;  
-Vista la deliberazione del senato accademico in data 22 aprile 1976;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Visto il [decreto del Presidente della Repubblica 23 settembre 1970, n. 967](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-09-23;967), con il quale sono stati assegnati alle varie facolta' universitarie, con effetto dallo anno accademico 1970-71, centodue nuovi posti di professore di ruolo per il raddoppiamento di cattedre sovraffollate, ai sensi dell'[art. 1 della legge 24 febbraio 1967, n. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-02-24;62~art1);   
+Rilevata l'opportunita' di procedere, nel superiore interesse degli studi, al trasferimento, per il raddoppiamento della cattedra di clinica medica generale e terapia medica, del posto gia' assegnato, con il predetto [decreto del Presidente della Repubblica 23 settembre 1970, numero 967](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-09-23;967), alla facolta' di medicina e chirurgia dell'Universita' di Roma per il raddoppiamento della cattedra di clinica delle malattie tropicali e infettive;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Il [decreto del Presidente della Repubblica 22 ottobre 1965, n. 1251](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-10-22;1251), citato nelle premesse, e' parzialmente rettificato nel senso che il posto di professore di ruolo gia' assegnato alla facolta' di medicina e chirurgia dell'Universita' di Roma per il raddoppiamento della cattedra di medicina legale e delle assicurazioni e' trasferito al raddoppiamento della cattedra di anatomia e istologia patologica della stessa facolta'.  
+Il [decreto del Presidente della Repubblica 23 settembre 1970, n. 967](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-09-23;967), citato nelle premesse, e' parzialmente rettificato nel senso che il posto di professore di ruolo gia' assegnato alla facolta' di medicina e chirurgia della Universita' di Roma per il raddoppiamento della cattedra di clinica delle malattie tropicali e infettive e' destinato alla facolta' stessa per il raddoppiamento della cattedra di clinica medica generale e terapia medica.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 maggio 1976
+### Dato a Roma, addi' 16 giugno 1972
 
-LEONE MALFATTI
+LEONE MISASI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 21 giugno 1976
+Registrato alla Corte dei conti, addi' 23 agosto 1972
 
-Atti di Governo, registro n. 7, foglio n. 13
+Atti del Governo, registro n. 250, foglio n. 164. - VALENTINI

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1976 n. 963
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1981 n. 403
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1976 n. 963
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1981 n. 403
+=============================================================
 
 Autorizzazione ad accettare un legato a favore dello Stato.
 -----------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-963. Decreto del Presidente della Repubblica 26 febbraio 1976, col quale, sulla proposta del Ministro per i beni culturali ed ambientali, viene autorizzata l'accettazione a favore dello Stato del legato disposto dal prof. Biagio Doria con testamento olografo 11 gennaio 1975, pubblicato con atto pubblico 15 gennaio 1975, n. 116203 di repertorio, a rogito dott. Gaetano Catalano, notaio in Napoli, consistente in una raccolta di disegni, stampe colorate e in bianco e nero, fotografie ed alcuni dipinti di soggetto popolare napoletano da destinare al museo nazionale di S. Martino in Napoli.  
+403. Decreto del Presidente della Repubblica 29 maggio 1981, col quale, sulla proposta del Ministro della difesa, il medesimo viene autorizzato ad accettare il legato disposto a favore dello Stato, e per esso al Ministero della difesa - Comando truppe alpine, dall'ing. Filippo Borrello con testamento olografo pubblicato con atto 27 novembre 1975 n. 478260/10754 di repertorio, a rogito dott.  
+Salvatore Albano, notaio in Valmontone (Roma), registrato a Velletri (Roma) il 9 dicembre 1975 al n. 2850, vol. 186, destinato all'istituzione di gare alpine cosi' specificate: 1) gare di gran fondo - Premio magg. Borrello; 2) scuola militare di alpinismo - Premio magg. Borrello per scalate di 5° grado e di 6° grado I superiore.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 18 gennaio 1977  
-Registro n. 1 Beni culturali, foglio n. 236
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 16 luglio 1981  
+Registro n. 24 Difesa, foglio n. 231

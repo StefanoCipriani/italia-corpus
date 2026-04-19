@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 novembre 1948 n. 1528
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1948 n. 646
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 novembre 1948 n. 1528
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1948 n. 646
+============================================================
 
 Autorizzazione al Politecnico di Milano ad accettare una donazione.
 -------------------------------------------------------------------
@@ -12,7 +12,8 @@ Art. 1
 
 N.
 
-1528. Decreto del Presidente della Repubblica 2 novembre 1948, col quale, sulla proposta del Ministro per la pubblica istruzione, il Politecnico di Milano viene autorizzato ad accettare la donazione della somma di L. 300.000, disposta in suo favore dai coniugi Cesare e Teresita Cerini, con atto pubblico in data 18 dicembre 1947, per l'istituzione di una borsa di studio di L. 30.000 annue, per la durata di dieci anni, da intitolarsi al nome del figlio "Sottotenente Carlo Cerini" e da conferirsi ad uno studente del Politecnico medesimo, iscritto alla Facolta' di ingegneria o di architettura, di condizioni economiche disagiate, figlio di ufficiale caduto per la Patria, con preferenza per i nati nelle province di Milano e Varese.  
+646. Decreto del Presidente della Repubblica 10 marzo 1948, col quale, sulla proposta del Ministro per la pubblica istruzione, il Politecnico di Milano viene autorizzato ad accettare la donazione della somma di L. 50.000 nominali, in buoni del Tesoro quinquennali a premio 5%, disposta in suo favore dalla signora Maria Ricciardi ved. Moschettini, con atto pubblico in data 9 luglio 1947, per l'istituzione di un premio di studio da intitolarsi "Premio ing.  
+Francesco Moschettini" e da conferirsi, ogni due anni, allo studente del terzo corso di ingegneria industriale, che nel biennio abbia superato col miglior profitto l'esame di elettrotecnica.  
   
 Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 27 dicembre 1948
+Registrato alla Corte dei conti, addi' 3 maggio 1948

@@ -1,21 +1,76 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1956 n. 1027
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 settembre 1966 n. 900
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1956 n. 1027
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 settembre 1966 n. 900
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 82. - All'elenco degli insegnamenti del biennio di Ingegneria - corso ingegneria meccanica - e' aggiunto quello di "Teoria e pratica delle misure".
+
+Art. 149, relativo alla scuola di specializzazione in Clinica delle malattie nervose e mentali e' modificato nel senso che il primo comma e' abrogato e sostituito dal seguente: "La scuola ha la durata di tre anni. La iscrizione per ogni anno accademico e' limitata a n. 20 allievi".
+
+Art. 158, relativo alla scuola di specializzazione in Igiene; e' abrogato e sostituito dal seguente: "L'iscrizione alla scuola e' limitata, per ogni anno accademico, a trenta allievi".
+
+Art. 166, relativo alla scuola di specializzazione in Medicina ed igiene scolastica, e' abrogato e sostituito dal seguente: "L'iscrizione alla scuola e' limitata, per ogni anno accademico, a trenta allievi".
+
+Art. 174, relativo alla scuola di specializzazione in Endocrinologia e malattie del ricambio, e' abrogato e sostituito dal seguente: "L'iscrizione alla scuola e' limitata, per ogni anno accademico, a quindici allievi".
+
+Art. 212, relativo alla scuola di specializzazione in Odontoiatria e stomatologia e' modificato nel senso che il secondo comma e' abrogato e sostituito dal seguente:
+
+"Sono ammessi alla scuola i laureati in Medicina e chirurgia e l'iscrizione, per ogni anno accademico, e' limitata a venti allievi".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque, spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 20 settembre 1966
+
+SARAGAT
+
+GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 27 ottobre 1966 Atti del Governo, registro n. 206, foglio n. 121. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con i [regi decreti 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1772); [1 ottobre 1931, n. 1380](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1380); [26 ottobre 1933, n. 2401](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1933-10-26;2401); [13 dicembre 1934, n. 2423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-13;2423); [1 ottobre 1931, n. 2076](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;2076); [20 aprile 1939, n. 1067](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-04-20;1067); [1 agosto 1941, n. 893](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-08-01;893); [26 marzo 1942, n. 330](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-03-26;330); [5 settembre 1942, n. 1178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1178); [21 gennaio 1943, n. 21; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1943-01-21;21) [30 dicembre 1947, n. 1735; e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-30;1735) [27 marzo 1948, n. 458](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-03-27;458); [30 ottobre 1949, n. 1002](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1002); [30 maggio 1950, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-05-30;615); [11 aprile 1951, n. 471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;471); [27 ottobre 1951, n. 1701](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1701); [31 agosto 1951, n. 1824](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-31;1824); [25 luglio 1952, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1350); [16 ottobre 1952, n. 4013](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-16;4013); [27 marzo 1954, n. 734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-27;734); [24 settembre 1954, n. 1135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-24;1135); [4 febbraio 1955, n. 116](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-04;116); [24 luglio 1955, n. 801](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-24;801);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -23,65 +78,25 @@ Sulla proposta del Ministro per la pubblica istruzione;
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato come appresso:  
-Art. 30, dopo la lettera f), e' aggiunto:  
-g) la laurea in scienze geologiche.  
-Dopo l'art. 68 sono aggiunti i seguenti nuovi articoli relativi alla creazione dei corso di laurea in scienze geologiche con il conseguente spostamento della numerazione degli articoli successivi.  
-Art. 69. - Laurea in scienze geologiche.  
-La durata del corso di studi per la laurea in scienze geologiche e' di quattro anni.  
-E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.  
-Sono insegnamenti fondamentali:  
-1) Istituzioni di matematiche;  
-2) Fisica sperimentale (biennale);  
-3) Chimica generale ed inorganica con elementi di organica;  
-4) Mineralogia;  
-5) Geologia;  
-6) Paleontologia;  
-7) Geologia applicata;  
-8) Geografia;  
-9) Geografia fisica;  
-10) Topografia e cartografia;  
-11) Fisica terrestre;  
-12) Petrografia.  
-Sono insegnamenti complementari:  
-1) Chimica organica;  
-2) Chimica fisica;  
-3) Geochimica;  
-4) Astronomia;  
-5) Geodesia;  
-6) Zoologia;  
-7) Botanica;  
-8) Antropologia;  
-9) Etnologia;  
-10) Analisi matematica (algebrica, ed infinitesimale (biennale);  
-11) Meccanica razionale con elementi di statica grafica e disegno;  
-12) Statistica.  
-Gli insegnamenti di botanica e di zoologia debbono avere indirizzo biogeografico.  
-Gli insegnamenti, sia fondamentali, sia complementari, sono di regola integrati da esercitazioni pratiche sul cui profitto ciascun insegnante stabilisce opportuni criteri di accertamento.  
-Per l'insegnamento di analisi matematica vale la norma stabilita per il corso di laurea in scienze matematiche.  
-Art. 70. - L'esame di istituzioni di matematiche deve precedere l'esame di topografia e cartografia.  
-Gli esami di istituzioni di matematiche, di chimica generale ed inorganica e di fisica, debbono precedere l'esame di mineralogia.  
-L'esame di mineralogia deve precedere l'esame di petrografia.  
-Gli esami di mineralogia, petrografia e paleontologia devono precedere l'esame di geologia.  
-L'esame di geologia deve precedere quello di geologia applicata.  
-Art. 71. - Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti fra i complementari.  
-Art. 72. - Per il conseguimento della laurea in scienze geologiche lo studente deve presentare una dissertazione scritta sopra un argomento di scienze geografiche concordato con un professore ufficiale della Facolta'. La dissertazione deve essere presentata alla segreteria dell'Universita' almeno dieci giorni prima del giorno della laurea insieme ai titoli dei tre argomenti scelti per la discussione di cui all'art. 10.  
-Art. 73. - L'esame di laurea comprende:  
-1) una prova pratica nella materia scelta per la tesi di laurea;  
-2) la discussione orale della prova pratica e della tesi di laurea;  
-3) la discussione orale di due su tre argomenti scelti dal candidato in materie di insegnamento della Facolta', diverse fra loro e da quella formante oggetto della tesi di laurea.  
-Fa parte, inoltre, dell'esame di laurea un colloquio di cultura generale nelle scienze geologiche, da sostenere dinanzi ad una Commissione di cinque professori ufficiali della Facolta', fra cui il preside.  
+Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 82. - All'elenco degli insegnamenti del biennio di Ingegneria - corso ingegneria meccanica - e' aggiunto quello di "Teoria e pratica delle misure".  
+Art. 149, relativo alla scuola di specializzazione in Clinica delle malattie nervose e mentali e' modificato nel senso che il primo comma e' abrogato e sostituito dal seguente: "La scuola ha la durata di tre anni. La iscrizione per ogni anno accademico e' limitata a n. 20 allievi".  
+Art. 158, relativo alla scuola di specializzazione in Igiene; e' abrogato e sostituito dal seguente: "L'iscrizione alla scuola e' limitata, per ogni anno accademico, a trenta allievi".  
+Art. 166, relativo alla scuola di specializzazione in Medicina ed igiene scolastica, e' abrogato e sostituito dal seguente: "L'iscrizione alla scuola e' limitata, per ogni anno accademico, a trenta allievi".  
+Art. 174, relativo alla scuola di specializzazione in Endocrinologia e malattie del ricambio, e' abrogato e sostituito dal seguente: "L'iscrizione alla scuola e' limitata, per ogni anno accademico, a quindici allievi".  
+Art. 212, relativo alla scuola di specializzazione in Odontoiatria e stomatologia e' modificato nel senso che il secondo comma e' abrogato e sostituito dal seguente:  
+"Sono ammessi alla scuola i laureati in Medicina e chirurgia e l'iscrizione, per ogni anno accademico, e' limitata a venti allievi".  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque, spetti di osservarlo e di farlo osservare.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 luglio 1956
+### Dato a Roma, addi' 20 settembre 1966
 
-GRONCHI ROSSI
+SARAGAT GUI
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 10 settembre 1256
+Registrato alla Corte dei conti, addi' 27 ottobre 1966
 
-Atti del Governo, registro n. 100, foglio n. 161. - RELLEVA
+Atti del Governo, registro n. 206, foglio n. 121. - VILLA

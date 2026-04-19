@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1984 n. 705
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 704
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1984 n. 705
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 704
+================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
@@ -39,19 +39,19 @@ Articolo unico
 --------------
 
   
-  
-Art. 68 - all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto l'insegnamento di "biomatematica".   
+Art. 68 - nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono inseriti i seguenti insegnamenti: chirurgia della mano;  
+traumatologia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 luglio 1984
+### Dato a Selva di Val Gardena, addi' 2 settembre 1983
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 1° ottobre 1984
+Registrato alla Corte dei conti, addi' 14 dicembre 1983
 
-Registro n. 58 Istruzione, foglio n. 303
+Registro n. 76 Istruzione, foglio n. 298

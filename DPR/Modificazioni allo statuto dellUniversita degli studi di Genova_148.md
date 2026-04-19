@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1047
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1950 n. 1312
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1047
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1950 n. 1312
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
@@ -10,384 +10,330 @@ Modificazioni allo statuto dell'Universita' degli studi di Genova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regi decreti 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1927-10-13;2846), [25 ottobre 1928, n. 3510](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1928-10-25;3510), [31 ottobre 1929, n. 2396](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1929-10-31;2396), [30 ottobre 1930, n. 1859](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1930-10-30;1859), [1 ottobre 1931, n. 1371](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1931-10-01;1371), [27 ottobre 1932, n. 2086](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1932-10-27;2086), [6 dicembre 1934, n. 2281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-06;2281), [1 ottobre 1936, n. 2474](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-01;2474), [20 aprile 1939, n. 1086](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-04-20;1086), [16 marzo 1942, n. 324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-03-16;324), [5 settembre 1942, n. 1236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-09-05;1236), [24 ottobre 1942, n. 1671, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1671) [2 novembre 1948, n. 1505](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-11-02;1505), [30 ottobre 1949, n. 1059](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1059);
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifica allo statuto formulate dalla autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministero per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+La statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' cosi' ulteriormente modificato:
 
-Art. 155 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono aggiunte le scuole di specializzazione in patologia generale e in neurofisiopatologia.
+Dopo l'art. 167 sono aggiunti i seguenti nuovi articoli:
 
-Il secondo comma dell'art. 297, relativo alla scuola di specializzazione in igiene e medicina preventiva, di cui al [decreto del Presidente della Repubblica 31 ottobre 1977, n. 1140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-10-31;1140), e' soppresso e sostituito dal seguente:
+"Scuola di specializzazione in chirurgia generale e terapia chirurgica".
 
-Il numero massimo di allievi iscrivibili e' di trenta per ogni anno di corso.
+Art. 168. - La scuola di specializzazione in chirurgia generale ha sede presso la clinica chirurgica generale.
 
-Gli articoli 394, 395, 396, 397, 398, 399, 400, 401 e 402, relativi alla scuola di specializzazione in medicina nucleare, sono soppressi e sostituiti dai seguenti, con il conseguente spostamento della numerazione degli articoli successivi:
+Il corso degli studi della predetta scuola ha la durata di cinque anni. Potra' esservi ammesso un numero massimo di venti allievi.
 
-Scuola di specializzazione in medicina nucleare
+Art. 169. - Gli insegnamenti che vengono impartiti nella scuola sono i seguenti:
 
-Art. 394. - La scuola di specializzazione in medicina nucleare ha sede presso l'istituto scientifico di medicina interna della facolta' di medicina e chirurgia.
+1) patologia chirurgica e semeiologica;
 
-Art. 395. - La scuola conferisce il diploma di specializzazione in medicina nucleare.
+2) clinica chirurgica (traumatologia chirurgica di urgenza, chirurgia infantile, neuropatologia chirurgica e chirurgia del sistema nervoso, ginecologia, urologia, otorinolaringoiatria);
 
-Gli anni di studio necessari per conseguire detto diploma sono tre.
+3) anatomia chirurgica;
 
-Art. 396. - Gli insegnamenti per il conseguimento del diploma di specializzazione in medicina nucleare sono cosi' distribuiti nei tre anni di corso:
+4) anatomia patologica;
 
-1° Anno:
+5) tecnica chirurgica;
 
-fisica: con richiami di matematica, nozioni di statistica, informatica e dosimetria;
+6) ortopedia;
 
-radiobiologia, legislazione e norme generali di radioprotezione;
+7) medicina legale in rapporto alla chirurgia (assicurazioni, infortunistica);
 
-tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;
+8) radiologia applicata alla chirurgia;
 
-nozioni di anatomia e fisiologia generale.
+9) chirurgia di guerra;
 
-2° Anno:
+10) anestesiologia.
 
-teoria dei traccianti;
+I detti insegnamenti saranno integrati, oltre che da esercitazioni cliniche, da esami di laboratorio vertenti specialmente sulle materie seguenti:
 
-elementi di radiochimica;
+1) istologia patologica;
 
-applicazioni diagnostiche I;
+2) batteriologia;
 
-tecniche di misure di radioattivita'.
+3) sierologia;
 
-3° Anno:
+4) clinica biologica.
 
-applicazioni diagnostiche II;
+Art. 170. -- Gli insegnamenti della scuola si svolgono secondo l'ordine seguente:
 
-applicazioni terapeutiche;
+1° anno:
 
-radioprotezione e legislazione applicate.
+1) anatomia chirurgica;
 
-Art. 397. - I singoli insegnamenti saranno tenuti da uno o piu' docenti a seconda di quanto opportuno al loro miglior svolgimento.
+2) patologia chirurgica;
 
-Art. 398. - Il numero massimo di allievi iscrivibili in corso e' di quindici complessivamente.
+3) semeiotica chirurgica;
 
-Art. 399. - La frequenza pratica e' obbligatoria (dieci mesi all'anno) e deve avvenire in reparti riconosciuti idonei dal consiglio della scuola.
+4) radiologia.
 
-L'insegnamento verra' svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento aperti anche a specialisti, ecc. Gli allievi, per essere ammessi a sostenere gli esami di profitto annuali dovranno avere la firma di frequenza da parte del direttore della scuola.
+Esercitazioni cliniche, ricerche ed esami di laboratorio:
 
-Art. 400. - Gli allievi per conseguire il diploma di specializzazione, oltre ad essere stati approvati in tutti gli esami, dovranno elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola.
+1) istologia patologica;
 
-Dopo l'art. 415, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in patologia generale e in neurofisiopatologia.
+2) batteriologia;
 
-Scuola di specializzazione in patologia generale
+3) sierologia.
 
-Art. 416. - La scuola di specializzazione in patologia generale ha sede presso l'istituto di patologia generale della facolta' di medicina e chirurgia.
+2° anno:
 
-Il corso degli studi ha la durata di quattro anni, suddiviso in due bienni.
+1) semeiotica chirurgica;
 
-Gli allievi che non conseguono le attestazioni di frequenza non potranno essere ammessi a sostenere le singole prove di esame.
+2) patologia chirurgica;
 
-Art. 417. - Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia, ai quali, dopo il superamento dell'esame finale, sara' rilasciato il diploma di specializzazione in patologia generale.
+3) anatomia chirurgica;
 
-Art. 418. - Alla scuola stessa vengono inoltre ammessi i laureati in medicina veterinaria, in scienze biologiche, in scienze naturali, in farmacia, in chimica e tecnologie farmaceutiche, ai quali, dopo il superamento dell'esame finale, sara' rilasciato il diploma di specializzazione in patologia generale con indirizzo tecnico.
+4) anatomia patologica.
 
-Art. 419. - Il numero complessivo degli iscritti non potra' essere superiore ad ottanta per i quattro anni di corso.
+Esercitazioni cliniche, ricerche ed esami di laboratorio:
 
-Art. 420. - Le materie di insegnamento sono le seguenti:
+1) esercitazioni di semeiotica chirurgica;
 
-PRIMO BIENNIO
+2) esercitazioni di chimica biologica;
 
-(propedeutico)
+3) esercitazioni di istologia patologica.
 
-1° Anno:
+3° anno:
 
-istituzioni di patologia generale;
+1) clinica chirurgica (diagnostica e terapia);
 
-patologia delle infezioni;
+2) clinica chirurgica (ginecologia);
 
-epidemiologia e patologia ambientale;
+3) clinica chirurgica (neurologia);
 
-immunologia;
+4) clinica chirurgica (otorinolaringoiatria);
 
-parassitologia e diagnostica parassitologica.
+5) clinica chirurgica (ortopedia).
 
-2° Anno:
+Esercitazioni cliniche, ricerche ed esami di laboratorio:
 
-radiobiologia e patologia da radiazioni;
+1) esercitazioni di diagnostica e terapia;
 
-oncologia generale;
+2) esercitazioni di ginecologia;
 
-immunopatologia e analisi immunologiche;
+3) esercitazioni di urologia.
 
-analisi chimico-cliniche;
+4° anno:
 
-fisiopatologia generale I (metabolismo e sistema endocrino).
+1) clinica chirurgica (traumatologia);
 
-SECONDO BIENNIO
+2) clinica chirurgica (chirurgia d'urgenza);
 
-(conseguimento del diploma di specializzazione in patologia generale)
+3) clinica chirurgica (chirurgia infantile);
 
-3° Anno:
+4) clinica chirurgica (anestesiologia).
 
-diagnostica di laboratorio di citopatologia e citogenetica;
+Esercitazioni cliniche, ricerche ed esami di laboratorio:
 
-diagnostica di laboratorio di batteriologia e virologia;
+1) esercitazioni di traumatologia;
 
-fisiopatologia generale II (termoregolazione, sistema cardiocircolatorio, sangue ed organi emopoietici).
+2) esercitazioni di chirurgia d'urgenza;
 
-4° Anno:
+3) esercitazioni di anestesia e reanimazione.
 
-diagnostica oncologica;
+5° anno:
 
-diagnostica istopatologica;
+1) clinica chirurgica, (chirurgia del sistema nervoso);
 
-diagnostica ultrastrutturale;
+2) clinica chirurgica (chirurgia di guerra);
 
-fisiopatologia generale III (fegato, sistema digerente, renale, respiratorio).
+3) medicina legale in rapporto alla chirurgia;
 
-SECONDO BIENNIO
+4) tecnica operatoria.
 
-(conseguimento del diploma di specializzazione in patologia generale con indirizzo tecnico)
+Esercitazioni cliniche, ricerche ed esami di laboratorio:
 
-3° Anno:
+1) esercitazioni sul sistema nervoso in rapporto alla chirurgia;
 
-tecniche di batteriologia;
+2) esercitazioni (tecnica degli apparecchi);
 
-tecniche di virologia;
+3) esercitazioni (di infortunistica).
 
-tecniche di citologia e citogenetica.
+Art. 171. - Gli allievi sono tenuti a frequentare assiduamente le lezioni ed i laboratori della clinica chirurgica secondo l'orario stabilito dal Consiglio di facolta' al principio dell'anno accademico, ed a partecipare attivamente alle esercitazioni cliniche e di laboratorio.
 
-4° Anno:
+Il direttore della scuola potra' prescrivere che gli allievi frequentino per determinati periodi le lezioni e le esercitazioni di laboratorio in altri istituti della Universita' od in reparti ospedalieri, secondo gli accordi che saranno stati stabiliti a tale scopo con l'amministrazione ospedaliera.
 
-statistica e biometria;
+Gli allievi sono pure tenuti a compiere, a turno, il servizio d'internato nella clinica, della durata complessiva di mesi sei per ogni anno della scuola.
 
-colture in vitro: aspetti biologici ed applicativi;
+A controllo della presenza degli allievi sara' tenuto dalla scuola un registro sul quale essi apporranno giornalmente la loro firma.
 
-tecniche ematologiche;
+L'allievo che non abbia soddisfatto gli obblighi imposti da questo articolo non sara', ammesso a sostenere gli esami.
 
-tecniche istologiche ed ultrastrutturali.
+Art. 172. - Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico dell'operosita' scolastica degli allievi con interrogazioni e vigilando sulle loro esercitazioni pratiche e sui loro turni di servizio interno.
 
-Art. 421. - Il direttore puo' stabilire, per un piu' proficuo conseguimento dei fini della scuola, che siano tenuti corsi complementari e conferenze su materie ed argomenti che abbiano attinenza o affinita' con gli insegnamenti impartiti nella scuola stessa.
+Art. 173. - Al termine di ogni anno della scuola sara' accertato il profitto di ciascun allievo con esami speciali. Questi vengono sostenuti per gruppi di disciplina strettamente affini tra loro.
 
-Art. 422. - Per conseguire il diploma di specializzazione, al termine del corso quadriennale, oltre ad aver superato tutti gli esami delle singole materie, e' obbligatorio sostenere l'esame finale su una dissertazione scritta, preferibilmente di carattere sperimentale.
+1° Anno: radiologia;
 
-Scuola di specializzazione in neurofisiopatologia
+2° Anno: semeiotica chirurgica, patologia chirurgica, anatomia chirurgica, anatomia patologica;
 
-Art. 423. - La scuola di specializzazione in neurofisiopatologia ha sede presso la facolta' di medicina e chirurgia e conferisce il diploma di specializzazione in neurofisiopatologia.
+3° Anno: ortopedia;
 
-Art. 424. - La durata del corso e' di tre anni accademici.
+4° Anno: traumatologia, chirurgia d'urgenza, anestesiologia;
 
-Art. 425. - Il numero massimo degli allievi iscrivibili e' di trenta complessivamente per l'intero corso di studi.
+5° Anno: clinica chirurgica, tecnica operatoria, medicina legale in rapporto alla chirurgica.
 
-Art. 426. - Gli insegnamenti impartiti nella scuola sono:
+Art. 174. - L'esame speciale per ciascun gruppo consiste in:
 
-1° Anno:
+a) una prova orale sugli argomenti attinenti alle materie svolte durante l'anno;
 
-neuroanatomia;
+b) una prova pratica (esami, analisi o ricerche di laboratorio).
 
-neurofisiologia;
+Art. 175. - L'esame speciale viene sostenuto dallo allievo davanti ad una Commissione composta dal direttore della scuola e dagli insegnanti delle singole discipline. La Commissione e' nominata dal rettore su proposta del Consiglio della facolta'.
 
-elementi di fisica ed elettronica biomedica;
+Art. 176. - Dell'esito dell'esame speciale sara' redatto verbale, contenente anche il giudizio della Commissione sulla preparazione culturale specifica dello allievo e sul suo addestramento tecnico e pratico nello esercizio della specialita'.
 
-informatica e statistica biomedica;
+Art. 177. - Gli allievi che abbiano superato l'esame speciale del quinto anno saranno ammessi a sostenere l'esame finale di diploma.
 
-neurochimica;
+Questo consistera' nella presentazione e discussione di una tesi scritta svolta su un tema di chirurgia preventivamente approvato dal direttore della, scuola.
 
-neurofarmacologia.
+Art. 178. - L'esame finale viene sostenuto davanti ad una Commissione, nominata dal preside della Facolta' e composta di sette membri: il direttore della scuola, presidente, tre professori di ruolo di materie affini alla specialita' e tre liberi docenti in materia chirurgica.
 
-2° Anno:
-
-neurofisiopatologia I;
-
-neurologia clinica;
-
-psichiatria clinica;
-
-neurochirurgia;
-
-neuroradiologia;
-
-elettroencefalografia I.
-
-3° Anno:
-
-neurofisiopatologia II;
-
-elettroencefalografia II;
-
-elettromiografia;
-
-tecniche speciali di diagnostica strumentale del sistema nervoso;
-
-elettrodiagnostica ed elettroterapia.
-
-Art. 427. - Per le discipline svolte in corsi pluriennali l'esame deve essere sostenuto anno per anno.
+Art. 179. - Agli allievi che abbiano ottenuta l'approvazione nell'esame finale verra' rilasciato il diploma di specialista in chirurgia.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 31 ottobre 1978
+Dato a Roma, addi' 31 ottobre 1950
 
-PERTINI
+EINAUDI
 
-PEDINI
+GONELLA
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: PICCIONI
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 23 aprile 1979 Registro n. 27 Istruzione, foglio n. 36
+alla Corte dei conti, addi' 30 ottobre 1951 Atti del Governo, registro n. 45, foglio n. 48. - FRASCA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regi decreti 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1927-10-13;2846), [25 ottobre 1928, n. 3510](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1928-10-25;3510), [31 ottobre 1929, n. 2396](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1929-10-31;2396), [30 ottobre 1930, n. 1859](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1930-10-30;1859), [1 ottobre 1931, n. 1371](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1931-10-01;1371), [27 ottobre 1932, n. 2086](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1932-10-27;2086), [6 dicembre 1934, n. 2281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-06;2281), [1 ottobre 1936, n. 2474](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-01;2474), [20 aprile 1939, n. 1086](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-04-20;1086), [16 marzo 1942, n. 324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-03-16;324), [5 settembre 1942, n. 1236](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-09-05;1236), [24 ottobre 1942, n. 1671, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1671) [2 novembre 1948, n. 1505](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-11-02;1505), [30 ottobre 1949, n. 1059](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1059);  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Vedute le proposte di modifica allo statuto formulate dalla autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Sulla proposta del Ministero per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 155 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono aggiunte le scuole di specializzazione in patologia generale e in neurofisiopatologia.  
-Il secondo comma dell'art. 297, relativo alla scuola di specializzazione in igiene e medicina preventiva, di cui al [decreto del Presidente della Repubblica 31 ottobre 1977, n. 1140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-10-31;1140), e' soppresso e sostituito dal seguente:  
-  
-Il numero massimo di allievi iscrivibili e' di trenta per ogni anno di corso.  
-Gli articoli 394, 395, 396, 397, 398, 399, 400, 401 e 402, relativi alla scuola di specializzazione in medicina nucleare, sono soppressi e sostituiti dai seguenti, con il conseguente spostamento della numerazione degli articoli successivi:  
-  
-Scuola di specializzazione in medicina nucleare  
-  
-Art. 394. - La scuola di specializzazione in medicina nucleare ha sede presso l'istituto scientifico di medicina interna della facolta' di medicina e chirurgia.  
-Art. 395. - La scuola conferisce il diploma di specializzazione in medicina nucleare.  
-Gli anni di studio necessari per conseguire detto diploma sono tre.  
-Art. 396. - Gli insegnamenti per il conseguimento del diploma di specializzazione in medicina nucleare sono cosi' distribuiti nei tre anni di corso:  
-1° Anno:  
-fisica: con richiami di matematica, nozioni di statistica, informatica e dosimetria;  
-radiobiologia, legislazione e norme generali di radioprotezione;  
-tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;  
-nozioni di anatomia e fisiologia generale.  
-2° Anno:  
-teoria dei traccianti;  
-elementi di radiochimica;  
-applicazioni diagnostiche I;  
-tecniche di misure di radioattivita'.  
-3° Anno:  
-applicazioni diagnostiche II;  
-applicazioni terapeutiche;  
-radioprotezione e legislazione applicate.  
-Art. 397. - I singoli insegnamenti saranno tenuti da uno o piu' docenti a seconda di quanto opportuno al loro miglior svolgimento.  
-Art. 398. - Il numero massimo di allievi iscrivibili in corso e' di quindici complessivamente.  
-Art. 399. - La frequenza pratica e' obbligatoria (dieci mesi all'anno) e deve avvenire in reparti riconosciuti idonei dal consiglio della scuola.  
-L'insegnamento verra' svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento aperti anche a specialisti, ecc. Gli allievi, per essere ammessi a sostenere gli esami di profitto annuali dovranno avere la firma di frequenza da parte del direttore della scuola.  
-Art. 400. - Gli allievi per conseguire il diploma di specializzazione, oltre ad essere stati approvati in tutti gli esami, dovranno elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola.  
-Dopo l'art. 415, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in patologia generale e in neurofisiopatologia.  
-  
-Scuola di specializzazione in patologia generale  
-  
-Art. 416. - La scuola di specializzazione in patologia generale ha sede presso l'istituto di patologia generale della facolta' di medicina e chirurgia.  
-Il corso degli studi ha la durata di quattro anni, suddiviso in due bienni.  
-Gli allievi che non conseguono le attestazioni di frequenza non potranno essere ammessi a sostenere le singole prove di esame.  
-Art. 417. - Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia, ai quali, dopo il superamento dell'esame finale, sara' rilasciato il diploma di specializzazione in patologia generale.  
-Art. 418. - Alla scuola stessa vengono inoltre ammessi i laureati in medicina veterinaria, in scienze biologiche, in scienze naturali, in farmacia, in chimica e tecnologie farmaceutiche, ai quali, dopo il superamento dell'esame finale, sara' rilasciato il diploma di specializzazione in patologia generale con indirizzo tecnico.  
-Art. 419. - Il numero complessivo degli iscritti non potra' essere superiore ad ottanta per i quattro anni di corso.  
-Art. 420. - Le materie di insegnamento sono le seguenti:  
-  
-PRIMO BIENNIO  
-(propedeutico)  
-  
-1° Anno:  
-istituzioni di patologia generale;  
-patologia delle infezioni;  
-epidemiologia e patologia ambientale;  
-immunologia;  
-parassitologia e diagnostica parassitologica.  
-2° Anno:  
-radiobiologia e patologia da radiazioni;  
-oncologia generale;  
-immunopatologia e analisi immunologiche;  
-analisi chimico-cliniche;  
-fisiopatologia generale I (metabolismo e sistema endocrino).  
-  
-SECONDO BIENNIO  
-(conseguimento del diploma di specializzazione in patologia generale)   
-3° Anno:  
-diagnostica di laboratorio di citopatologia e citogenetica;  
-diagnostica di laboratorio di batteriologia e virologia;  
-fisiopatologia generale II (termoregolazione, sistema cardiocircolatorio, sangue ed organi emopoietici).  
-4° Anno:  
-diagnostica oncologica;  
-diagnostica istopatologica;  
-diagnostica ultrastrutturale;  
-fisiopatologia generale III (fegato, sistema digerente, renale, respiratorio).  
-  
-SECONDO BIENNIO  
-(conseguimento del diploma di specializzazione in patologia generale con indirizzo tecnico)  
-  
-3° Anno:  
-tecniche di batteriologia;  
-tecniche di virologia;  
-tecniche di citologia e citogenetica.  
-4° Anno:  
-statistica e biometria;  
-colture in vitro: aspetti biologici ed applicativi;  
-tecniche ematologiche;  
-tecniche istologiche ed ultrastrutturali.  
-Art. 421. - Il direttore puo' stabilire, per un piu' proficuo conseguimento dei fini della scuola, che siano tenuti corsi complementari e conferenze su materie ed argomenti che abbiano attinenza o affinita' con gli insegnamenti impartiti nella scuola stessa.  
-Art. 422. - Per conseguire il diploma di specializzazione, al termine del corso quadriennale, oltre ad aver superato tutti gli esami delle singole materie, e' obbligatorio sostenere l'esame finale su una dissertazione scritta, preferibilmente di carattere sperimentale.  
-  
-Scuola di specializzazione in neurofisiopatologia  
-  
-Art. 423. - La scuola di specializzazione in neurofisiopatologia ha sede presso la facolta' di medicina e chirurgia e conferisce il diploma di specializzazione in neurofisiopatologia.  
-Art. 424. - La durata del corso e' di tre anni accademici.  
-Art. 425. - Il numero massimo degli allievi iscrivibili e' di trenta complessivamente per l'intero corso di studi.  
-Art. 426. - Gli insegnamenti impartiti nella scuola sono:  
-1° Anno:  
-neuroanatomia;  
-neurofisiologia;  
-elementi di fisica ed elettronica biomedica;  
-informatica e statistica biomedica;  
-neurochimica;  
-neurofarmacologia.  
-2° Anno:  
-neurofisiopatologia I;  
-neurologia clinica;  
-psichiatria clinica;  
-neurochirurgia;  
-neuroradiologia;  
-elettroencefalografia I.  
-3° Anno:  
-neurofisiopatologia II;  
-elettroencefalografia II;  
-elettromiografia;  
-tecniche speciali di diagnostica strumentale del sistema nervoso;  
-elettrodiagnostica ed elettroterapia.  
-Art. 427. - Per le discipline svolte in corsi pluriennali l'esame deve essere sostenuto anno per anno.  
+La statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' cosi' ulteriormente modificato:  
+Dopo l'art. 167 sono aggiunti i seguenti nuovi articoli:  
+"Scuola di specializzazione in chirurgia generale e terapia chirurgica".  
+Art. 168. - La scuola di specializzazione in chirurgia generale ha sede presso la clinica chirurgica generale.  
+Il corso degli studi della predetta scuola ha la durata di cinque anni. Potra' esservi ammesso un numero massimo di venti allievi.  
+Art. 169. - Gli insegnamenti che vengono impartiti nella scuola sono i seguenti:  
+1) patologia chirurgica e semeiologica;  
+2) clinica chirurgica (traumatologia chirurgica di urgenza, chirurgia infantile, neuropatologia chirurgica e chirurgia del sistema nervoso, ginecologia, urologia, otorinolaringoiatria);  
+3) anatomia chirurgica;  
+4) anatomia patologica;  
+5) tecnica chirurgica;  
+6) ortopedia;  
+7) medicina legale in rapporto alla chirurgia (assicurazioni, infortunistica);  
+8) radiologia applicata alla chirurgia;  
+9) chirurgia di guerra;  
+10) anestesiologia.  
+I detti insegnamenti saranno integrati, oltre che da esercitazioni cliniche, da esami di laboratorio vertenti specialmente sulle materie seguenti:  
+1) istologia patologica;  
+2) batteriologia;  
+3) sierologia;  
+4) clinica biologica.  
+Art. 170. -- Gli insegnamenti della scuola si svolgono secondo l'ordine seguente:  
+1° anno:  
+1) anatomia chirurgica;  
+2) patologia chirurgica;  
+3) semeiotica chirurgica;  
+4) radiologia.  
+Esercitazioni cliniche, ricerche ed esami di laboratorio:  
+1) istologia patologica;  
+2) batteriologia;  
+3) sierologia.  
+2° anno:  
+1) semeiotica chirurgica;  
+2) patologia chirurgica;  
+3) anatomia chirurgica;  
+4) anatomia patologica.  
+Esercitazioni cliniche, ricerche ed esami di laboratorio:  
+1) esercitazioni di semeiotica chirurgica;  
+2) esercitazioni di chimica biologica;  
+3) esercitazioni di istologia patologica.  
+3° anno:  
+1) clinica chirurgica (diagnostica e terapia);  
+2) clinica chirurgica (ginecologia);  
+3) clinica chirurgica (neurologia);  
+4) clinica chirurgica (otorinolaringoiatria);  
+5) clinica chirurgica (ortopedia).  
+Esercitazioni cliniche, ricerche ed esami di laboratorio:  
+1) esercitazioni di diagnostica e terapia;  
+2) esercitazioni di ginecologia;  
+3) esercitazioni di urologia.  
+4° anno:  
+1) clinica chirurgica (traumatologia);  
+2) clinica chirurgica (chirurgia d'urgenza);  
+3) clinica chirurgica (chirurgia infantile);  
+4) clinica chirurgica (anestesiologia).  
+Esercitazioni cliniche, ricerche ed esami di laboratorio:  
+1) esercitazioni di traumatologia;  
+2) esercitazioni di chirurgia d'urgenza;  
+3) esercitazioni di anestesia e reanimazione.  
+5° anno:  
+1) clinica chirurgica, (chirurgia del sistema nervoso);  
+2) clinica chirurgica (chirurgia di guerra);  
+3) medicina legale in rapporto alla chirurgia;  
+4) tecnica operatoria.  
+Esercitazioni cliniche, ricerche ed esami di laboratorio:  
+1) esercitazioni sul sistema nervoso in rapporto alla chirurgia;  
+2) esercitazioni (tecnica degli apparecchi);  
+3) esercitazioni (di infortunistica).  
+Art. 171. - Gli allievi sono tenuti a frequentare assiduamente le lezioni ed i laboratori della clinica chirurgica secondo l'orario stabilito dal Consiglio di facolta' al principio dell'anno accademico, ed a partecipare attivamente alle esercitazioni cliniche e di laboratorio.  
+Il direttore della scuola potra' prescrivere che gli allievi frequentino per determinati periodi le lezioni e le esercitazioni di laboratorio in altri istituti della Universita' od in reparti ospedalieri, secondo gli accordi che saranno stati stabiliti a tale scopo con l'amministrazione ospedaliera.  
+Gli allievi sono pure tenuti a compiere, a turno, il servizio d'internato nella clinica, della durata complessiva di mesi sei per ogni anno della scuola.  
+A controllo della presenza degli allievi sara' tenuto dalla scuola un registro sul quale essi apporranno giornalmente la loro firma.  
+L'allievo che non abbia soddisfatto gli obblighi imposti da questo articolo non sara', ammesso a sostenere gli esami.  
+Art. 172. - Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico dell'operosita' scolastica degli allievi con interrogazioni e vigilando sulle loro esercitazioni pratiche e sui loro turni di servizio interno.  
+Art. 173. - Al termine di ogni anno della scuola sara' accertato il profitto di ciascun allievo con esami speciali. Questi vengono sostenuti per gruppi di disciplina strettamente affini tra loro.  
+1° Anno: radiologia;  
+2° Anno: semeiotica chirurgica, patologia chirurgica, anatomia chirurgica, anatomia patologica;  
+3° Anno: ortopedia;  
+4° Anno: traumatologia, chirurgia d'urgenza, anestesiologia;  
+5° Anno: clinica chirurgica, tecnica operatoria, medicina legale in rapporto alla chirurgica.  
+Art. 174. - L'esame speciale per ciascun gruppo consiste in:  
+a) una prova orale sugli argomenti attinenti alle materie svolte durante l'anno;  
+b) una prova pratica (esami, analisi o ricerche di laboratorio).  
+Art. 175. - L'esame speciale viene sostenuto dallo allievo davanti ad una Commissione composta dal direttore della scuola e dagli insegnanti delle singole discipline. La Commissione e' nominata dal rettore su proposta del Consiglio della facolta'.  
+Art. 176. - Dell'esito dell'esame speciale sara' redatto verbale, contenente anche il giudizio della Commissione sulla preparazione culturale specifica dello allievo e sul suo addestramento tecnico e pratico nello esercizio della specialita'.  
+Art. 177. - Gli allievi che abbiano superato l'esame speciale del quinto anno saranno ammessi a sostenere l'esame finale di diploma.  
+Questo consistera' nella presentazione e discussione di una tesi scritta svolta su un tema di chirurgia preventivamente approvato dal direttore della, scuola.  
+Art. 178. - L'esame finale viene sostenuto davanti ad una Commissione, nominata dal preside della Facolta' e composta di sette membri: il direttore della scuola, presidente, tre professori di ruolo di materie affini alla specialita' e tre liberi docenti in materia chirurgica.  
+Art. 179. - Agli allievi che abbiano ottenuta l'approvazione nell'esame finale verra' rilasciato il diploma di specialista in chirurgia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1978
+### Dato a Roma, addi' 31 ottobre 1950
 
-PERTINI PEDINI
+EINAUDI GONELLA
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: PICCIONI
 
-Registrato alla Corte dei conti, addi' 23 aprile 1979
+Registrato alla Corte dei conti, addi' 30 ottobre 1951
 
-Registro n. 27 Istruzione, foglio n. 36
+Atti del Governo, registro n. 45, foglio n. 48. - FRASCA

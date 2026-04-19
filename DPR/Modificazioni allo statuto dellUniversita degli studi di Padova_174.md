@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1962 n. 268
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1950 n. 1308
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1962 n. 268
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1950 n. 1308
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
@@ -10,870 +10,916 @@ Modificazioni allo statuto dell'Universita' degli studi di Padova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847) e successivi;
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), modificato con [regi decreti 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), [1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1) luglio 3940, n. 992, 26 ottobre 1940, n. 2058, 16 marzo 1942, n. 328 e con [decreto del Presidente della Repubblica 23 settembre 1949, n. 932](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;932);
 
-Veduto il testo unico delle leggi sull'Istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Veduto il [decreto del Presidente della Repubblica 26 luglio 1960, n. 1692](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-07-26;1692);
+Riconosciuta la particolare necessita', di approvare le nuove modifiche proposte;
 
-Veduta la [legge 21 luglio 1961, n. 685](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-21;685);
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione Sulla proposta del Ministro per la pubblica istruzione:
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Gli articoli 89, 90, 91, relativi al corso di studi per la laurea in Fisica sono abrogati e sostituiti dai seguenti:
+Art. 60. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:
 
-Art. 89. - La durata del corso degli studi per la laurea in Fisica e' di quattro anni.
+11) semejotica medica;
 
-Titolo di ammissione e' il diploma di maturita' classica o di maturita' scientifica. Possono inoltre essere ammessi i diplomati degli Istituti tecnici industriali, agrari, nautici e per geometri, ai sensi delle vigenti disposizioni di legge.
+12) storia della medicina;
 
-Il corso degli studi si distingue in tre indirizzi: didattico, applicativo, generale.
+13) idrologia medica;
 
-Sono insegnamenti fondamentali obbligatori comuni a tutti gli indirizzi per il primo biennio:
+14) scienza dell'alimentazione.
 
-1) Fisica generale I;
+Art. 168. - Il secondo capoverso e' modificato come segue:
 
-2) Fisica generale II;
+Per ognuna di esse puo' essere fissato annualmente dal direttore il numero massimo degli iscritti.
 
-3) Analisi matematica I;
+La scelta degli ammessi fino a coprire detto numero massimo, qualora le domande di iscrizione lo superino, sara' fatto in base al criterio del merito nel curriculum scolastico ed eventualmente mediante prova preliminare di esame dinnanzi al direttore e due docenti della scuola.
 
-4) Analisi matematica II;
+Art. 169. - E' aggiunto il seguente comma:
 
-5) Geometria I;
+Non e' ammessa l'iscrizione all'anno successivo se non sono stati superati gli esami dell'anno precedente.
 
-6) Meccanica razionale;
+Art. 172. - E' modificato come segue:
 
-7) Chimica con esercitazioni di laboratorio (per fisici);
+Le tasse e sopratasse che gli iscritti sono tenuti a pagare e la misura dei contributi per le esercitazioni pratiche e per le altre prestazioni di cui gli iscritti usufruiscono durante il corso di studi, sono fissate anno per anno dal Consiglio di amministrazione, su proposta del Consiglio della Facolta' udito il Senato accademico.
 
-8) Sperimentazione fisica (biennale).
+La retribuzione dovuta ai direttori delle scuole non sara' inferiore a quella dei professori incaricati di un insegnamento universitario.
 
-Si richiedera' inoltre, alla fine del primo biennio, la prova di conoscenza di due lingue straniere di importanza scientifica.
+Art. 174. - E' abrogato.
 
-I corsi di Fisica generale I e II e Analisi matematica I e II devono essere considerati due corsi distinti di cui il primo propedeutico al secondo. Lo stesso dicasi per Sperimentazione fisica per il quale il primo anno e' propedeutico al secondo.
+Art. 178. - All'elenco delle scuole di specializzazione sono aggiunte le seguenti nuove scuole: scuola di specializzazione in medicina interna, che conferisce il diploma di "specialista in medicina interna", scuola di specializzazione in puericultura che conferisce il diploma di "specialista in puericoltura", scuola di specializzazione in anestesia che conferisce il diploma di "specialista in anestesia".
 
-I corsi di Fisica generale I e II, di Analisi matematica I e II, di Geometria I e di Meccanica razionale sono accompagnati da esercitazioni che ne fanno parte integrante.
+Art. 179. - E' modificato l'ordinamento delle seguenti scuole di specializzazione in medicina e chirurgia.
 
-I corsi di Sperimentazione fisica I e II comportano un unico esame alla fine del biennio.
+Scuola di specializzazione in igiene scolastica.
 
-Gli insegnamenti fondamentali obbligatori del secondo biennio sono i seguenti:
+(Durata del corso un anno).
 
-a) Corisi comuni ai tre indirizzi:
+1. Igiene scolastica e legislazione;
 
-1) Struttura della materia;
+2. Pedagogia e ortofrenia;
 
-2) Istituzioni di fisica teorica;
+3. Psicofisiologia del lavoro mentale;
 
-3) Metodi matematici della fisica.
+4. Epidemiologia e profilassi delle malattie infettive e parassitarie in rapporto alla scuola;
 
-b) Per l'indirizzo didattico sono insegnamenti fondamentali obbligatori:
+5. Diagnosi batteriologica delle malattie infettive e parassitarie dell'eta' scolastica;
 
-4) Complementi di fisica generale I;
+6. Medicina legale, protezione della madre e del bambino.
 
-5) Complementi di fisica generale II;
+Internati presso l'Istituto di igiene e nell'Ufficio municipale d'igiene.
 
-6) Preparazione di esperienze didattiche I;
+Scuola di specializzazione in clinica dermosifilopatica.
 
-7) Preparazione di esperienze didattiche II;
-
-8) Storia della fisica;
-
-9) Corso a scelta.
-
-La storia della fisica potra' venire sostituito da un complementare finche' non verra' istituito tale insegnamento.
-
-Sono insegnamenti complementari:
-
-Elettrologia;
-
-Termologia;
-
-Ottica
-
-Fisica superiore;
-
-Mineralogia.
-
-c) Per l'indirizzo applicativo sono insegnamenti fondamentali obbligatori:
-
-4) Laboratorio di fisica I;
-
-5) Laboratorio di fisica II;
-
-6), 7), 8), 9) Corsi a scelta.
-
-Sono insegnamenti complementari:
-
-Astrofisica;
-
-Astrofisica teorica;
-
-Astronomia;
-
-Chimica fisica;
-
-Chimica teorica;
-
-Cibernetica e Teoria delle informazioni;
-
-Cosmologia;
-
-Elettrodinamica;
-
-Elettronica;
-
-Elettronica applicata;
-
-Elettronica quantistica;
-
-Fisica dei fluidi;
-
-Fisica dei neutroni;
-
-Fisica dei reattori;
-
-Fisica del plasma;
-
-Fisica dello stato solido;
-
-Fisica macromolecolare;
-
-Fisica nucleare;
-
-Fisica superiore;
-
-Fisica teorica;
-
-Fotografia scientifica;
-
-Istituzioni di fisica nucleare;
-
-Meccanica statistica;
-
-Ottica elettronica;
-
-Radioastronomia;
-
-Radioattivita';
-
-Spettroscopia;
-
-Statistica stellare;
-
-Termodinamica.
-
-d) Per l'indirizzo generale sono insegnamenti fondamentali obbligatori:
-
-4) Fisica superiore;
-
-5) Fisica teorica;
-
-6) Laboratorio di fisica I;
-
-7) Laboratorio di fisica II;
-
-8) Corso a scelta di matematiche superiori;
-
-9) Corso a scelta.
-
-Sono insegnamenti complementari:
-
-Istituzioni di analisi superiore;
-
-Analisi superiore;
-
-Algebra superiore;
-
-Teoria delle funzioni;
-
-Istituzioni di fisica matematica;
-
-Fisica matematica;
-
-Matematica superiore;
-
-Relativita';
-
-Calcolo delle probabilita';
-
-Calcoli numerici
-
-Cibernetica
-
-Meccanica quantistica;
-
-Metodi gruppali nella meccanica quantistica;
-
-Fisica delle particelle elementari;
-
-Geodesia;
-
-Fisica terrestre;
-
-ed inoltre tutti gli insegnamenti fondamentali e complementari degli altri indirizzi.
-
-Potranno iscriversi ai corsi del secondo biennio soltanto quegli studenti che abbiano superato gli esami di Fisica generale I e II e di Analisi matematica I e II.
-
-Gli insegnamenti di Fisica teorica, Istituzioni di fisica teorica, di Struttura della materia, di Fisica superiore e Metodi matematici della fisica, comportano esercitazioni che ne fanno parte integrante.
-
-Art. 90. - Per essere ammesso all'esame di laurea, lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti obbligatori dell'indirizzo e orientamento da lui prescelto.
-
-Deve infine aver compiuto un anno di internato presso un istituto di Scienze fisiche dell'Universita', per la preparazione della tesi di laurea. L'ammissione allo internato puo' essere subordinata all'esito di un colloquio di cultura generale a giudizio di una Commissione composta dai professori dei corsi fondamentali di Fisica.
-
-L'esame di laurea consiste nella discussione di una tesi scritta alla quale non si richiede necessariamente il carattere di ricerca originale.
-
-Superato l'esame di laurea lo studente consegue il titolo di dottore in Fisica, indipendentemente dall'indirizzo prescelto del quale verra' fatta menzione soltanto nella carriera scolastica.
-
-Sugli articoli 92, 93 e 94 relativo al corso di studi per la laurea in Scienze matematiche sono abrogati e sostituiti dai seguenti:
-
-Art. 91. - La durata del corso degli studi per la laurea in Matematica e' di quattro anni.
-
-E' titolo di ammissione il diploma di maturita' classica, o di maturita' scientifica. Possono inoltre essere ammessi i diplomati degli Istituti tecnici industriali, agrari, nautici e per geometri, ai sensi delle vigenti disposizioni di legge.
-
-Il corso degli studi si distingue in tre indirizzi: generale, didattico, applicativo.
-
-Sono insegnamenti fondamentali obbligatori comuni a tutti gli indirizzi per il primo biennio:
+(Durata del corso due anni).
 
 1° Anno:
 
-1) Algebra;
+Anatomia cute e organi genitali;
 
-2) Analisi matematica I;
+Fisiologia cute e organi genitali;
 
-3) Geometria I;
+Batteriologia applicata;
 
-4) Fisica generale I.
+Semeiotica generale dermatologica;
+
+Patologia e clinica delle malattie cutanee e sifilitiche;
+
+Urologia.
 
 2° Anno:
 
-1) Analisi matematica II;
+Malattie esantematiche;
 
-2) Geometria II;
+Anatomia e istologia patologica delle malattie cutanee e veneree;
 
-3) Meccanica razionale;
+Igiene e profilassi delle malattie veneree;
 
-4) Fisica generale II.
+Sifilide del sistema nervoso;
 
-Sono insegnamenti fondamentali obbligatori comuni a tutti gli indirizzi per il terzo anno:
+Medicina legale specialistica;
 
-1) Istituzioni di analisi superiore;
+Terapia generale specialistica;
 
-2) Istituzioni di geometria superiore;
+Terapia fisica specialistica;
 
-3) Istituzioni di fisica matematica.
+Clinica delle malattie cutanee e veneree.
 
-Oltre ai predetti insegnamenti sono prescritti i seguenti altri, a seconda dell'indirizzo prescelto:
+Internato in clinica di assistenza agli ambulatori con servizio di fatto di assistente volontario.
 
-Indirizzo generale:
+Scuola di specializzazione in ostetricia e ginecologia.
 
-Sono insegnamenti fondamentali obbligatori.
+(Durata del corso quattro anni).
 
-3° Anno:
+1° Anno:
 
-Istituzioni di algebra superiore.
+Anatomia ed embriologia speciale dei genitali femminili;
 
-4° Anno:
+Fisiologia dei genitali femminili;
 
-Matematiche superiori.
+Batteriologia del canale genitale femminile;
 
-Al quarto anno sono inoltre prescritti due insegnamenti complementari da scegliersi nel seguente elenco:
+Fisiologia della gravidanza, parto, puerperio e allattamento;
 
-Aerodinamica;
+Semeiotica ostetrico ginecologica.
 
-Algebra commutativa;
+2° Anno:
 
-Algebra omologica;
+Puericoltura pre e post concezionale;
 
-Algebra superiore;
+Nozioni di eugenetica;
 
-Analisi funzionale;
+Anatomia patologica dei genitali femminili;
 
-Analisi superiore;
+Patologia generale ostetrico-ginecologica;
 
-Astrofisica;
+Operazioni ostetriche (indicazioni e tecnica);
 
-Astronomia;
-
-Calcolo delle probabilita';
-
-Calcolo delle variazioni;
-
-Calcolo tensoriale;
-
-Fisica matematica;
-
-Fisica superiore;
-
-Fisica teorica;
-
-Geometria algebrica;
-
-Geometria differenziale;
-
-Geometria superiore;
-
-Istituzioni di fisica teorica;
-
-Meccanica celeste;
-
-Meccanica quantistica
-
-Meccanica statistica;
-
-Meccanica superiore
-
-Metodi gruppali della meccanica quantistica;
-
-Relativita';
-
-Struttura della materia
-
-Strutture algebriche;
-
-Teoria dei gruppi;
-
-Teoria dei numeri;
-
-Teoria delle equazioni differenziali
-
-Teoria delle equazioni integrali;
-
-Teoria delle funzioni;
-
-Teoria delle onde;
-
-Topologia;
-
-Uno degli insegnamenti complementari dovra' essere a indirizzo fisico.
-
-Indirizzo didattico:
-
-Sono insegnamenti fondamentali obbligatori:
+Clinica ostetrica pratica.
 
 3° Anno:
 
-Matematiche elementari da un punto di vista superiore.
+Ostetricia forense;
+
+Igiene e legislazione sanitaria in rapporto alla gravidanza;
+
+Tecnica di laboratorio (diagnostica e prognostica ostetrico-ginecologica);
+
+Diagnostica radiologica e terapia fisica ginecologica;
+
+Clinica ostetrico-ginecologica (patologia speciale).
 
 4° Anno:
 
-Matematiche complementari.
+Elementi di statistica applicata all'ostetricia e ginecologia;
 
-Al quarto anno sono inoltre prescritti due insegnamenti complementari da scegliersi nel seguente elenco:
+Urologia e tecnica cistoscopica;
 
-Astronomia;
+Tecnica operatoria ginecologica;
 
-Chimica generale (annuale)
+Nozioni di chirurgia generale;
 
-Complementi di fisica generale (annuale);
+Clinica ostetrico-ginecologica.
 
-Istituzioni di algebra superiore;
+Internato ed esercitazioni obbligatorie indispensabili, in clinica ostetrica-ginecologica con servizio effettivo e continuativo per quattro anni, quale assistente volontario.
 
-Logica matematica;
+Scuola di specializzazione in neurologia.
 
-Pedagogia matematica;
+(Durata del corso tre anni).
 
-Storia delle matematiche.
+1° Anno:
 
-Uno degli insegnamenti complementari dovra' essere ad indirizzo fisico.
+Anatomia e istologia normale del sistema nervoso;
 
-Indirizzo applicativo:
+Fisiologia del sistema nervoso;
 
-Sono insegnamenti fondamentali obbligatori:
+Semeiotica e diagnostica neurologica;
+
+Elementi di genetica.
+
+2° Anno:
+
+Anatomia e istologia patologica del sistema nervoso;
+
+Endocrinologia e neurologia vegetativa;
+
+Oftalmologia in rapporto alle malattie del sistema nervoso;
+
+Clinica neurologica.
 
 3° Anno:
 
-Calcoli numerici e grafici.
+Diagnostica radiologica delle malattie nervose;
 
-4° Anno:
+Elementi di Roentgenterapia delle malattie nervose;
 
-Calcolo delle probabilita'.
+Otorinolaringoiatrica in rapporto alle malattie nervose;
 
-Al quarto anno sono inoltre prescritti due insegnamenti complementari da scegliersi nel seguente elenco:
+Clinica e terapia delle malattie nervose;
 
-Calcolo operazionale;
+Neurochirurgia.
 
-Cibernetica;
+Internato per tre anni nella clinica delle malattie nervose e mentali, con servizio effettivo di assistente volontario.
 
-Economia matematica;
+Scuola di specializzazione in igiene pubblica.
 
-Elettronica;
+(Durata del corso due anni).
 
-Elettronica applicata;
+1° Anno:
 
-Matematica finanziaria e attuariale;
+Igiene generale e speciale;
 
-Programmazione lineare e non lineare;
+Batteriologia, immunologia e microscopia applicata all'igiene;
 
-Ricerca operativa;
+Parassitologia;
 
-Statistica matematica;
+Legislazione sanitaria-statistica e demografia;
 
-Teoria dei giochi;
+Zoonosi, ispezione delle carni;
 
-Teoria della programmazione per le macchine calcolatrici;
+Nozioni di anatomia e istologia patologica.
 
-Teoria delle decisioni;
+2° Anno:
 
-Teoria delle informazioni;
+Igiene generale e speciale;
 
-Teoria ed applicazione delle macchine calcolatrici;
+Patologia e clinica delle malattie da infezione, da intossicazione, da carenza, da eredita' morbosa, ecc.;
 
-Termodinamica statistica.
+ingegneria sanitaria;
 
-Uno degli insegnamenti complementari dovra' essere ad indirizzo fisico.
+Chimica applicata all'igiene;
 
-Su parere della Facolta', lo studente puo' effettuare una delle seguenti sostituzioni: il corso di "Calcoli numerici e grafici a con "Economia matematica", ovvero il corso di "Calcolo delle probabilita'" con "Teoria della programmazione per le macchine calcolatrici".
+Fisica applicata all'igiene;
 
-Art. 92. - Ogni insegnamento comporta un esame. In particolare gli esami di Analisi matematica I, Geometria I, Fisica generale I sono distinti da quelli di Analisi matematica II, Geometria II, Fisica generale II.
+Geologia applicata all'igiene.
 
-Potranno essere iscritti al secondo anno soltanto quegli studenti che abbiano superato almeno due degli esami di Analisi matematica I, Geometria I, Algebra.
+Internato presso l'Istituto di igiene, l'Ufficio municipale di igiene, il Laboratorio provinciale di igiene e profilassi e l'istituto di anatomia patologica.
 
-I corsi e gli esami di Analisi matematica I, Geometria I e Fisica generale I sono rispettivamente propedeutici a quelli di Analisi matematica II, Geometria II e Fisica generale II.
+Scuola di specializzazione in oculistica.
 
-Gli esami di Analisi matematica I, Geometria I, Algebra, Analisi matematica II, Geometria II, Meccanica razionale sono propedeutici agli esami del terzo anno.
+(Durata del corso tre anni).
 
-Gli esami del primo biennio e del terzo anno sono propedeutici agli esami del quarto anno.
+1° Anno:
 
-Per essere ammesso all'esame di laurea lo studente dovra' aver superato tutti gli esami richiesti dall'indirizzo seguito.
+Anatomia, istologia ed embriologia dell'occhio;
 
-Art. 93. - Ogni corso del primo biennio comporta un corso di esercitazioni che ne e' parte integrante.
+Anatomia, patologia speciale oculare;
 
-La Facolta' potra', qualora lo ritenga opportuno, stabilire un corso di esercitazioni per certi insegnamenti del terzo e quarto anno.
+Ottica fisiologica e fisiologia dell'apparato visivo;
 
-Art. 94. - Per ogni indirizzo l'esame di laurea deve comprendere una esercitazione scritta e la discussione orale di due tesine.
+Nozioni di patologia generale in rapporto all'oculistica;
 
-Per l'indirizzo generale sara' inoltre richiesto lo svolgimento di una ricerca (tesi) che dovra' presentare dei caratteri originali.
+Clinica oculistica;
 
-E' in facolta' degli studenti dell'indirizzo applicativo ovvero didattico richiedere di svolgere, oltre alle prove precedenti, una tesi scritta su argomento da concordarsi con una Commissione nominata dalla Facolta'.
+Semeiotica oculistica.
 
-Superato l'esame di laurea lo studente consegue il titolo di dottore in Matematica, indipendentemente dallo indirizzo prescelto del quale verra', fatta menzione soltanto nella carriera scolastica.
+2° Anno:
 
-Gli articoli 95, 96 e 97 relativi al corso di laurea in Matematica e Fisica sono soppressi.
+Clinica medica generale;
 
-Gli articoli da 181 a 186, relativi al corso di perfezionamento in Matematica annesso alla Facolta' di Scienze matematiche fisiche e naturali sono abrogati e sostituiti dai seguenti con il relativo spostamento della numerazione degli articoli successivi:
+Clinica oculistica;
 
-Corsi annuali di perfezionamento in Matematica a indirizzo applicativo, in Matematica ad indirizzo didattico, e in Matematica ad indirizzo scientifico.
+Clinica chirurgica generale;
 
-Art. 181. - Presso la Facolta' di scienze matematiche, fisiche e naturali vengono tenuti i seguenti corsi di perfezionamento:
+Semeiotica oculistica;
 
-a) in Matematica ad indirizzo applicativo;
+Batteriologia, igiene e profilassi;
 
-b) in Matematica ad indirizzo didattico;
+Interventi chirurgici e tecnica operativa oculare;
 
-c) in Matematica ad indirizzo scientifico;
+Nozioni di patologia generale in rapporto all'oculista;
 
-i quali conducono al conseguimento di appositi certificati di frequenza ed esami rispettivamente nelle tre specializzazioni a), b) e c).
+Oftalmoscopia.
 
-La Facolta' si riserva di decidere di anno in anno l'opportunita' o meno di tenere i corsi, sia per a) che per b) che per c).
+3° Anno:
 
-Corso di perfezionamento in Matematica ad indirizzo applicativo
+Radiologia e malattie oculari;
 
-Art. 182. - Al corso annuale di perfezionamento in Matematica ad indirizzo applicativo e' titolo di ammissione qualunque laurea della Facolta' di scienze matematiche, fisiche e naturali, la laurea in Ingegneria, la laurea in Scienze statistiche, economiche e politiche, la laurea in Giurisprudenza seguita dalla iscrizione ad una Scuola di statistica.
+Infortunistica e medicina legale in rapporto alla oculistica;
 
-Dell'accettazione delle domande di iscrizione al corso giudica il Consiglio della Facolta', su proposta del direttore del corso.
+Interventi chirurgici e tecnica operativa oculare;
 
-Art. 183. - Il corso si svolge presso l'Istituto di matematica ed ha la durata di un anno accademico.
+Clinica oculistica;
 
-Il direttore del corso e' nominato di anno in anno dal Consiglio dell'Istituto matematico e puo' essere confermato.
+Neurologia in rapporto all'oculistica;
 
-Art. 184. - Le tasse di iscrizione e le soprattasse vengono fissate annualmente dal Consiglio di amministrazione, su proposta del Consiglio di facolta'.
+Otorinolaringoiatria in rapporto all'oculistica.
 
-Art. 185. - Il corso riguarda l'insegnamento di complementi di matematiche generali e dei metodi matematici impiegati nella fisica, nelle scienze naturali, nella statistica nella economia ed inoltre l'analisi numerica e la programmazione per le calcolatrici automatiche.
+Internato in clinica oculistica durante tre anni con servizio effettivo di assistente volontario.
 
-L'insegnamento si svolge con lezioni teoriche e con esercitazioni pratiche e puo' mutuare alcuni incarichi dell'Universita' di Padova su proposta del direttore del corso e sentito il parere della Facolta' di scienze, secondo il piano di studi che verra' fissato di anno in anno.
+Scuola di chirurgia.
 
-Art. 186. - Il profitto degli allievi e' riconosciuto dagli insegnanti durante il corso stesso o mediante prove speciali al termine di esso.
+(Durata del corso cinque anni).
 
-Corso di perfezionamento in Matematica ad indirizzo didattico
+1° Anno:
 
-Art. 187. - Al corso annuale di perfezionamento in Matematica ad indirizzo didattico e' titolo di ammissione qualunque laurea che secondo le leggi vigenti sugli esami di abilitazione consentano l'insegnamento della matematica in qualche tipo di scuola media.
+Embriologia e teratologia;
 
-Dell'accettazione delle domande di iscrizione al corso giudica il Consiglio della facolta', su proposta del direttore del corso.
+Anatomia chirurgica;
 
-Art. 188. - Il corso si svolge presso l'Istituto di matematica ed ha la durata di un anno accademico.
+Patologia generale e fisiopatologia;
 
-Il direttore del corso e' nominato di anno in anno dal Consiglio dell'Istituto matematico e puo' essere confermato.
+Fisiologia chirurgica;
 
-Art. 189. - Le tasse di iscrizione e le soprattasse vengono fissate annualmente dal Consiglio di amministrazione, su proposta del Consiglio di facolta'.
+Clinica chirurgica;
 
-Art. 190. - Il corso comprende l'insegnamento delle matematiche elementari da un punto di vista superiore, complementi di matematiche generali, didattica matematica e consiste di lezioni teoriche e di esercitazioni e puo' mutuare alcuni incarichi della Facolta' di scienze fisiche matematiche e naturali, su parere del Consiglio di facolta'.
+Semeiotica e diagnostica chirurgica.
 
-Art. 191. - Il profitto degli allievi e' riconosciuto dagli insegnanti durante il corso stesso o mediante prove speciali al termine di esso.
+2° Anno:
 
-Corso di perfezionamento in Matematica ad indirizzo scientifico
+Anatomia e istologia patologica;
 
-Art. 192. - Il corso ha lo scopo di formare laureati di preparazione superiore e specializzata in vista soprattutto della ricerca scientifica. Ad esso sono ammessi i laureati in matematica, in fisica, in chimica ed in ingegneria. Della accettazione delle domande di iscrizione giudica il Consiglio della facolta', su proposta del direttore del corso.
+Batteriologia, sierologia, immunologia;
 
-Art. 193. - Il corso si svolge presso l'Istituto di matematica: ha la durata di un anno accademico e puo' essere frequentato per piu' anni da uno stesso studente.
+Radiologia chirurgica;
 
-Il direttore del corso e' nominato di anno in anno dal Consiglio dell'istituto matematico e puo' essere confermato.
+Semeiotica e diagnostica chirurgica;
 
-Art. 194. - Le tasse di iscrizione e le soprattasse vengono fissate annualmente dal Consiglio di amministrazione, su proposta del Consiglio di facolta'.
+Patologia chirurgica generale e speciale;
 
-Art. 195. - Il programma del corso viene fissato di anno in anno previo parere favorevole della Facolta'.
+Tecnica operativa;
 
-Alla fine del corso viene rilasciato un certificato di iscrizione e frequenza.
+Clinica chirurgica.
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+3° Anno:
 
-Dato a Roma, addi' 14 marzo 1962
+Radiologia Roentgenterapia;
 
-GRONCHI
+Anatomia e istologia patologica;
 
-GUI
+Patologia chirurgica speciale;
 
-Visto, il Guardasigilli: BOSCO
+Tecnica operativa;
+
+Microscopia e chimica clinica Clinica chirurgica.
+
+4. Anno:
+
+Odontoiatria e stomatologia;
+
+Tecnica e diagnostica endoscopica;
+
+Medicina legale delle lesioni chirurgiche;
+
+Otorinolaringoiatria;
+
+Tecnica operativa Clinica chirurgica.
+
+5° Anno:
+
+Traumatologia;
+
+Ortopedia chirurgica e tecnica degli apparecchi;
+
+Chirurgia infantile;
+
+Chirurgia d'urgenza;
+
+Ginecologia e tecnica-operativa;
+
+Clinica chirurgica.
+
+Internato in clinica chirurgica durante i cinque anni con servizio effettivo di assistente volontario.
+
+Scuola di urologia.
+
+(Durata del corso tre anni).
+
+1° Anno:
+
+Anatomia dell'apparato urinario;
+
+Fisiologia dell'apparato urinario;
+
+Farmacologia;
+
+Batteriologia e immunologia;
+
+Metodi di accertamento diagnostico.
+
+2° Anno:
+
+Anatomia patologica dell'apparato urinario;
+
+Patologia speciale dell'apparato urinario;
+
+Clinica medica dell'apparato urinario;
+
+Clinica chirurgica dell'apparato urinario.
+
+3° Anno:
+
+Ginecologia speciale;
+
+Tecnica operativa Sifilografia;
+
+Clinica chirurgica dell'apparato urinario.
+
+Internato per tre anni in clinica chirurgica con servizio effettivo di assistente volontario.
+
+Scuola malattie dell'apparato respiratorio.
+
+L'ultimo comma e' cosi' modificato:
+
+Internato in clinica medica, oppure servizio come assistente effettivo per due anni in un sanatorio della Previdenza sociale o in un grande ospedale sanatoriale.
+
+Scuola di perfezionamento in cardiologia.
+
+(Durata del corso due anni.
+
+1° Anno:
+
+Clinica dell'apparato cardiovascolare (lezioni);
+
+Morfologia normale dell'apparato cardiovascolare (conferenze);
+
+Anatomia patologica dell'apparato cardiovascolare (conferenze)
+
+Fisiologia dell'apparato cardiovascolare (conferenze);
+
+Farmacologia cardiovascolare (conferenze);
+
+Patologia dell'apparato cardiovascolare (lezioni);
+
+Radiologia dell'apparato cardiovascolare (dimostrazioni);
+
+Elettrocardiografia (esercitazioni);
+
+Semiologia dell'apparato cardiovascolare (esercitazioni).
+
+2° Anno:
+
+Clinica dell'apparato cardiovascolare (lezioni);
+
+Terapia chirurgica dell'apparato cardiovascolare (lezioni);
+
+Patologia dell'apparato cardiovascolare (lezioni);
+
+Terapia medica dell'apparato cardiovascolare (lezioni);
+
+Radiologia dell'apparato cardiovascolare (dimostrazioni);
+
+Elettrocardiografia (esercitazioni);
+
+Semeiologia dell'apparato cardiovascolare (esercitazioni).
+
+Dopo la scuola di specializzazione in cardiologia sono aggiunte le seguenti scuole:
+
+Scuola di specializzazione in medicina interna.
+
+(Durata del corso cinque anni).
+
+a) La scuola fa parte integrante dell'Istituto di clinica medica generale e dispone quindi delle sezioni malati nonche' dei laboratori dell'Istituto.
+
+b) Il materiale didattico e' anche costituito dalla biblioteca e dagli archivi della clinica medica.
+
+c) La scuola e' posta sotto la direzione e la diretta sorveglianza del clinico medico generale: si vale inoltre di docenti all'uopo designati dalla direzione della scuola.
+
+d) Durante il corso, che ha la durata di cinque anni, oltre alle lezioni relative alle materie indicate nel programma, verranno tenute esercitazioni di semeiologia clinica, di diagnostica differenziale e di terapia al letto dei malati mentre nei laboratori si svolgeranno le esercitazioni teorico pratiche.
+
+e) La frequenza delle lezioni e delle esercitazioni e' obbligatoria e per assicurare tale frequenza e' obbligatorio l'internato nell'Istituto di clinica medica.
+
+f) Alla scuola non sono ammessi piu' di dodici medici per ogni anno. Qualora le domande di iscrizione fossero in numero superiore la direzione della scuola si riserva di provvedere ad una scelta in base ai titoli di studi ed eventualmente a mezzo di esami. Non sono ammesse abbreviazioni della durata del corso.
+
+g) Il termine della presentazione delle domande di iscrizione scade il 30 ottobre di ogni anno.
+
+h) Alla, fine del secondo anno scolastico i perfezionandi che abbiano ottenuto la firma di frequenza dovranno sostenere un esame di profitto il cui superamento e' condizione necessaria per l'iscrizione al triennio successivo: alla fine del 5° anno avra', luogo un secondo esame di profitto, il cui superamento e' richiesto per accedere all'esame di diploma.
+
+i) Alla fine del 5° anno del corso ha luogo l'esame di diploma consistente nella presentazione e discussione di una dissertazione scritta su argomento di medicina interna, concordato il precedenza fra il diplomando e il clinico medico generale. La dissertazione deve essere approvata dalla direzione e depositata presso di questa almeno due mesi prima dell'esame.
+
+l) Le Commissioni di esami per gli esami di profitto sono costituite dal clinico medico generale e da due membri scelti fra i docenti del corso.
+
+m) La Commissione dell'esame di diploma e' costituita da sette membri presieduta dal preside della Facolta' o da un professore da lui delegato. Di essa fanno parte il clinico medico generale, i docenti del corso ed eventualmente altri membri scelti dal preside fra i professori e liberi docenti dell'Universita' di Padova.
+
+PROGRAMMA DEL CORSO.
+
+Materie del primo biennio:
+
+Anatomia patologica;
+
+Chimica biologica;
+
+Fisiopatologia, generale;
+
+Microbiologia e sierologia;
+
+Patologia medica.
+
+Materie del triennio successivo:
+
+Clinica, medica generale;
+
+Semiotica clinica;
+
+Semeiotica strumentale e di laboratorio;
+
+Terapia medica;
+
+Radiologia.
+
+Internato per cinque anni in clinica medica con servizio effettivo di assistente volontario.
+
+Scuola di specializzazione in anestesia.
+
+(Durata del corso due anni).
+
+Gli iscritti sono tenuti alla frequenza effettiva in clinica chirurgica per la durata di due anni accademici.
+
+Alla fine dei corsi gli specializzandi sosterranno esami di profitto, in seguito all'esito favorevole dei quali verra', rilasciato diploma di specialista in anestesia.
+
+1° Anno:
+
+Anatomia del sistema nervoso centrale e periferico;
+
+Biochimica e farmacologia dei narcotici;
+
+Fisica dei gas, dei vapori e delle soluzioni Fisiologia della respirazione;
+
+Storia, dell'anestesia;
+
+Compiti pre e post-operatori dell'anestesista;
+
+Strumentario ed apparecchi per la narcosi;
+
+Tecnica anestetica;
+
+Chirurgia generale e speciale ed anestesia.
+
+2° Anno:
+
+Fisiopatologia della narcosi;
+
+Anatomia e istopatologia degli organi in narcosi;
+
+Rianimazione e trattamento anti-schock;
+
+Anestesie speciali (intubazioni, curaro, refrigerazioni, ecc.);
+
+Anestesia in ostetricia;
+
+Scelta della anestesia;
+
+Chirurgia generale e speciale ed anestesia.
+
+Personale insegnante: il direttore della clinica, gli assistenti della clinica specialisti in anestesia ed il personale insegnante degli istituti universitari di Padova per le materie di loro particolare pertinenza.
+
+Scuola di puericultura.
+
+(Durata del corso un anno).
+
+Anatomia e fisiologia del bambino;
+
+Alimentazione del bambino lattante e della seconda e terza infanzia;
+
+Igiene del neonato lattante e del bambino;
+
+Igiene scolastica;
+
+Norme di profilassi delle malattie infettive e contagiose;
+
+Psicologia del bambino;
+
+Legislazione sulla protezione dell'infanzia.
+
+Gli iscritti hanno l'obbligo di frequentare assiduamente le lezioni e le dimostrazioni, il reparto lattanti della clinica e degli istituti annessi.
+
+L'esame si sostiene alla fine dell'anno di corso e tutte le materie d'insegnamento costituiscono un unico gruppo. L'esame di diploma si svolge in conformita' alle norme generali.
+
+Le spese relative al funzionamento delle scuole di specializzazione in medicina e chirurgia sono a carico del bilancio ordinario dell'Universita' di Padova.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della. Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1950
+
+EINAUDI
+
+GONELLA
+
+Visto, il Guardasigilli: PICCIONI
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 19 maggio 1962 Atti del Governo, registro n. 147, foglio, n. 54. - VILLA
+alla Corte dei conti, addi' 12 novembre 1951 Atti del Governo; registro n. 45, foglio n. 80. - FRASCA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847) e successivi;  
-Veduto il testo unico delle leggi sull'Istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), modificato con [regi decreti 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), [1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1) luglio 3940, n. 992, 26 ottobre 1940, n. 2058, 16 marzo 1942, n. 328 e con [decreto del Presidente della Repubblica 23 settembre 1949, n. 932](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;932);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Veduto il [decreto del Presidente della Repubblica 26 luglio 1960, n. 1692](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-07-26;1692);  
-Veduta la [legge 21 luglio 1961, n. 685](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-21;685);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione Sulla proposta del Ministro per la pubblica istruzione:  
+Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita', di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli 89, 90, 91, relativi al corso di studi per la laurea in Fisica sono abrogati e sostituiti dai seguenti:  
+Art. 60. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:  
+11) semejotica medica;  
+12) storia della medicina;  
+13) idrologia medica;  
+14) scienza dell'alimentazione.  
+Art. 168. - Il secondo capoverso e' modificato come segue:  
+Per ognuna di esse puo' essere fissato annualmente dal direttore il numero massimo degli iscritti.  
+La scelta degli ammessi fino a coprire detto numero massimo, qualora le domande di iscrizione lo superino, sara' fatto in base al criterio del merito nel curriculum scolastico ed eventualmente mediante prova preliminare di esame dinnanzi al direttore e due docenti della scuola.  
+Art. 169. - E' aggiunto il seguente comma:  
+Non e' ammessa l'iscrizione all'anno successivo se non sono stati superati gli esami dell'anno precedente.  
+Art. 172. - E' modificato come segue:  
+Le tasse e sopratasse che gli iscritti sono tenuti a pagare e la misura dei contributi per le esercitazioni pratiche e per le altre prestazioni di cui gli iscritti usufruiscono durante il corso di studi, sono fissate anno per anno dal Consiglio di amministrazione, su proposta del Consiglio della Facolta' udito il Senato accademico.  
+La retribuzione dovuta ai direttori delle scuole non sara' inferiore a quella dei professori incaricati di un insegnamento universitario.  
+Art. 174. - E' abrogato.  
+Art. 178. - All'elenco delle scuole di specializzazione sono aggiunte le seguenti nuove scuole: scuola di specializzazione in medicina interna, che conferisce il diploma di "specialista in medicina interna", scuola di specializzazione in puericultura che conferisce il diploma di "specialista in puericoltura", scuola di specializzazione in anestesia che conferisce il diploma di "specialista in anestesia".  
+Art. 179. - E' modificato l'ordinamento delle seguenti scuole di specializzazione in medicina e chirurgia.  
   
-Art. 89. - La durata del corso degli studi per la laurea in Fisica e' di quattro anni.  
-Titolo di ammissione e' il diploma di maturita' classica o di maturita' scientifica. Possono inoltre essere ammessi i diplomati degli Istituti tecnici industriali, agrari, nautici e per geometri, ai sensi delle vigenti disposizioni di legge.  
-Il corso degli studi si distingue in tre indirizzi: didattico, applicativo, generale.  
+Scuola di specializzazione in igiene scolastica.  
+(Durata del corso un anno).  
   
-Sono insegnamenti fondamentali obbligatori comuni a tutti gli indirizzi per il primo biennio:  
-1) Fisica generale I;  
-2) Fisica generale II;  
-3) Analisi matematica I;  
-4) Analisi matematica II;  
-5) Geometria I;  
-6) Meccanica razionale;  
-7) Chimica con esercitazioni di laboratorio (per fisici);  
-8) Sperimentazione fisica (biennale).  
-Si richiedera' inoltre, alla fine del primo biennio, la prova di conoscenza di due lingue straniere di importanza scientifica.  
-I corsi di Fisica generale I e II e Analisi matematica I e II devono essere considerati due corsi distinti di cui il primo propedeutico al secondo. Lo stesso dicasi per Sperimentazione fisica per il quale il primo anno e' propedeutico al secondo.  
-I corsi di Fisica generale I e II, di Analisi matematica I e II, di Geometria I e di Meccanica razionale sono accompagnati da esercitazioni che ne fanno parte integrante.  
-I corsi di Sperimentazione fisica I e II comportano un unico esame alla fine del biennio.  
+1. Igiene scolastica e legislazione;  
+2. Pedagogia e ortofrenia;  
+3. Psicofisiologia del lavoro mentale;  
+4. Epidemiologia e profilassi delle malattie infettive e parassitarie in rapporto alla scuola;  
+5. Diagnosi batteriologica delle malattie infettive e parassitarie dell'eta' scolastica;  
+6. Medicina legale, protezione della madre e del bambino.  
+Internati presso l'Istituto di igiene e nell'Ufficio municipale d'igiene.  
   
-Gli insegnamenti fondamentali obbligatori del secondo biennio sono i seguenti:  
-a) Corisi comuni ai tre indirizzi:  
-1) Struttura della materia;  
-2) Istituzioni di fisica teorica;  
-3) Metodi matematici della fisica.  
-  
-b) Per l'indirizzo didattico sono insegnamenti fondamentali obbligatori:  
-4) Complementi di fisica generale I;  
-5) Complementi di fisica generale II;  
-6) Preparazione di esperienze didattiche I;  
-7) Preparazione di esperienze didattiche II;  
-8) Storia della fisica;  
-9) Corso a scelta.  
-  
-La storia della fisica potra' venire sostituito da un complementare finche' non verra' istituito tale insegnamento.  
-  
-Sono insegnamenti complementari:  
-Elettrologia;  
-Termologia;  
-Ottica  
-Fisica superiore;  
-Mineralogia.  
-  
-c) Per l'indirizzo applicativo sono insegnamenti fondamentali obbligatori:  
-4) Laboratorio di fisica I;  
-5) Laboratorio di fisica II;  
-6), 7), 8), 9) Corsi a scelta.  
-  
-Sono insegnamenti complementari:  
-Astrofisica;  
-Astrofisica teorica;  
-Astronomia;  
-Chimica fisica;  
-Chimica teorica;  
-Cibernetica e Teoria delle informazioni;  
-Cosmologia;  
-Elettrodinamica;  
-Elettronica;  
-Elettronica applicata;  
-Elettronica quantistica;  
-Fisica dei fluidi;  
-Fisica dei neutroni;  
-Fisica dei reattori;  
-Fisica del plasma;  
-Fisica dello stato solido;  
-Fisica macromolecolare;  
-Fisica nucleare;  
-Fisica superiore;  
-Fisica teorica;  
-Fotografia scientifica;  
-Istituzioni di fisica nucleare;  
-Meccanica statistica;  
-Ottica elettronica;  
-Radioastronomia;  
-Radioattivita';  
-Spettroscopia;  
-Statistica stellare;  
-Termodinamica.  
-  
-d) Per l'indirizzo generale sono insegnamenti fondamentali obbligatori:  
-4) Fisica superiore;  
-5) Fisica teorica;  
-6) Laboratorio di fisica I;  
-7) Laboratorio di fisica II;  
-8) Corso a scelta di matematiche superiori;  
-9) Corso a scelta.  
-  
-Sono insegnamenti complementari:  
-Istituzioni di analisi superiore;  
-Analisi superiore;  
-Algebra superiore;  
-Teoria delle funzioni;  
-Istituzioni di fisica matematica;  
-Fisica matematica;  
-Matematica superiore;  
-Relativita';  
-Calcolo delle probabilita';  
-Calcoli numerici  
-Cibernetica  
-Meccanica quantistica;  
-Metodi gruppali nella meccanica quantistica;  
-Fisica delle particelle elementari;  
-Geodesia;  
-Fisica terrestre;  
-ed inoltre tutti gli insegnamenti fondamentali e complementari degli altri indirizzi.  
-  
-Potranno iscriversi ai corsi del secondo biennio soltanto quegli studenti che abbiano superato gli esami di Fisica generale I e II e di Analisi matematica I e II.  
-Gli insegnamenti di Fisica teorica, Istituzioni di fisica teorica, di Struttura della materia, di Fisica superiore e Metodi matematici della fisica, comportano esercitazioni che ne fanno parte integrante.  
-  
-Art. 90. - Per essere ammesso all'esame di laurea, lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti obbligatori dell'indirizzo e orientamento da lui prescelto.  
-Deve infine aver compiuto un anno di internato presso un istituto di Scienze fisiche dell'Universita', per la preparazione della tesi di laurea. L'ammissione allo internato puo' essere subordinata all'esito di un colloquio di cultura generale a giudizio di una Commissione composta dai professori dei corsi fondamentali di Fisica.  
-L'esame di laurea consiste nella discussione di una tesi scritta alla quale non si richiede necessariamente il carattere di ricerca originale.  
-Superato l'esame di laurea lo studente consegue il titolo di dottore in Fisica, indipendentemente dall'indirizzo prescelto del quale verra' fatta menzione soltanto nella carriera scolastica.  
-Sugli articoli 92, 93 e 94 relativo al corso di studi per la laurea in Scienze matematiche sono abrogati e sostituiti dai seguenti:  
-  
-Art. 91. - La durata del corso degli studi per la laurea in Matematica e' di quattro anni.  
-E' titolo di ammissione il diploma di maturita' classica, o di maturita' scientifica. Possono inoltre essere ammessi i diplomati degli Istituti tecnici industriali, agrari, nautici e per geometri, ai sensi delle vigenti disposizioni di legge.  
-Il corso degli studi si distingue in tre indirizzi: generale, didattico, applicativo.  
-  
-Sono insegnamenti fondamentali obbligatori comuni a tutti gli indirizzi per il primo biennio:  
+Scuola di specializzazione in clinica dermosifilopatica.  
+(Durata del corso due anni).  
   
 1° Anno:  
-1) Algebra;  
-2) Analisi matematica I;  
-3) Geometria I;  
-4) Fisica generale I.  
-  
+Anatomia cute e organi genitali;  
+Fisiologia cute e organi genitali;  
+Batteriologia applicata;  
+Semeiotica generale dermatologica;  
+Patologia e clinica delle malattie cutanee e sifilitiche;  
+Urologia.  
 2° Anno:  
-1) Analisi matematica II;  
-2) Geometria II;  
-3) Meccanica razionale;  
-4) Fisica generale II.  
+Malattie esantematiche;  
+Anatomia e istologia patologica delle malattie cutanee e veneree;  
+Igiene e profilassi delle malattie veneree;  
+Sifilide del sistema nervoso;  
+Medicina legale specialistica;  
+Terapia generale specialistica;  
+Terapia fisica specialistica;  
+Clinica delle malattie cutanee e veneree.  
+Internato in clinica di assistenza agli ambulatori con servizio di fatto di assistente volontario.  
   
-Sono insegnamenti fondamentali obbligatori comuni a tutti gli indirizzi per il terzo anno:  
-1) Istituzioni di analisi superiore;  
-2) Istituzioni di geometria superiore;  
-3) Istituzioni di fisica matematica.  
+Scuola di specializzazione in ostetricia e ginecologia.  
+(Durata del corso quattro anni).  
   
-Oltre ai predetti insegnamenti sono prescritti i seguenti altri, a seconda dell'indirizzo prescelto:  
-Indirizzo generale:  
-  
-Sono insegnamenti fondamentali obbligatori.  
-  
+1° Anno:  
+Anatomia ed embriologia speciale dei genitali femminili;  
+Fisiologia dei genitali femminili;  
+Batteriologia del canale genitale femminile;  
+Fisiologia della gravidanza, parto, puerperio e allattamento;  
+Semeiotica ostetrico ginecologica.  
+2° Anno:  
+Puericoltura pre e post concezionale;  
+Nozioni di eugenetica;  
+Anatomia patologica dei genitali femminili;  
+Patologia generale ostetrico-ginecologica;  
+Operazioni ostetriche (indicazioni e tecnica);  
+Clinica ostetrica pratica.  
 3° Anno:  
-Istituzioni di algebra superiore.  
-  
+Ostetricia forense;  
+Igiene e legislazione sanitaria in rapporto alla gravidanza;  
+Tecnica di laboratorio (diagnostica e prognostica ostetrico-ginecologica);  
+Diagnostica radiologica e terapia fisica ginecologica;  
+Clinica ostetrico-ginecologica (patologia speciale).  
 4° Anno:  
-Matematiche superiori.  
+Elementi di statistica applicata all'ostetricia e ginecologia;  
+Urologia e tecnica cistoscopica;  
+Tecnica operatoria ginecologica;  
+Nozioni di chirurgia generale;  
+Clinica ostetrico-ginecologica.  
+Internato ed esercitazioni obbligatorie indispensabili, in clinica ostetrica-ginecologica con servizio effettivo e continuativo per quattro anni, quale assistente volontario.  
   
-Al quarto anno sono inoltre prescritti due insegnamenti complementari da scegliersi nel seguente elenco:  
-Aerodinamica;  
-Algebra commutativa;  
-Algebra omologica;  
-Algebra superiore;  
-Analisi funzionale;  
-Analisi superiore;  
-Astrofisica;  
-Astronomia;  
-Calcolo delle probabilita';  
-Calcolo delle variazioni;  
-Calcolo tensoriale;  
-Fisica matematica;  
-Fisica superiore;  
-Fisica teorica;  
-Geometria algebrica;  
-Geometria differenziale;  
-Geometria superiore;  
-Istituzioni di fisica teorica;  
-Meccanica celeste;  
-Meccanica quantistica  
-Meccanica statistica;  
-Meccanica superiore  
-Metodi gruppali della meccanica quantistica;  
-Relativita';  
-Struttura della materia  
-Strutture algebriche;  
-Teoria dei gruppi;  
-Teoria dei numeri;  
-Teoria delle equazioni differenziali  
-Teoria delle equazioni integrali;  
-Teoria delle funzioni;  
-Teoria delle onde;  
-Topologia;  
+Scuola di specializzazione in neurologia.  
+(Durata del corso tre anni).  
   
-Uno degli insegnamenti complementari dovra' essere a indirizzo fisico.  
-  
-Indirizzo didattico:  
-  
-Sono insegnamenti fondamentali obbligatori:  
-  
+1° Anno:  
+Anatomia e istologia normale del sistema nervoso;  
+Fisiologia del sistema nervoso;  
+Semeiotica e diagnostica neurologica;  
+Elementi di genetica.  
+2° Anno:  
+Anatomia e istologia patologica del sistema nervoso;  
+Endocrinologia e neurologia vegetativa;  
+Oftalmologia in rapporto alle malattie del sistema nervoso;  
+Clinica neurologica.  
 3° Anno:  
-Matematiche elementari da un punto di vista superiore.  
+Diagnostica radiologica delle malattie nervose;  
+Elementi di Roentgenterapia delle malattie nervose;  
+Otorinolaringoiatrica in rapporto alle malattie nervose;  
+Clinica e terapia delle malattie nervose;  
+Neurochirurgia.  
+Internato per tre anni nella clinica delle malattie nervose e mentali, con servizio effettivo di assistente volontario.  
   
-4° Anno:  
-Matematiche complementari.  
+Scuola di specializzazione in igiene pubblica.  
+(Durata del corso due anni).  
   
-Al quarto anno sono inoltre prescritti due insegnamenti complementari da scegliersi nel seguente elenco:  
-Astronomia;  
-Chimica generale (annuale)  
-Complementi di fisica generale (annuale);  
-Istituzioni di algebra superiore;  
-Logica matematica;  
-Pedagogia matematica;  
-Storia delle matematiche.  
+1° Anno:  
+Igiene generale e speciale;  
+Batteriologia, immunologia e microscopia applicata all'igiene;  
+Parassitologia;  
+Legislazione sanitaria-statistica e demografia;  
+Zoonosi, ispezione delle carni;  
+Nozioni di anatomia e istologia patologica.  
+2° Anno:  
+Igiene generale e speciale;  
+Patologia e clinica delle malattie da infezione, da intossicazione, da carenza, da eredita' morbosa, ecc.;  
+ingegneria sanitaria;  
+Chimica applicata all'igiene;  
+Fisica applicata all'igiene;  
+Geologia applicata all'igiene.  
+Internato presso l'Istituto di igiene, l'Ufficio municipale di igiene, il Laboratorio provinciale di igiene e profilassi e l'istituto di anatomia patologica.  
   
-Uno degli insegnamenti complementari dovra' essere ad indirizzo fisico.  
+Scuola di specializzazione in oculistica.  
+(Durata del corso tre anni).  
   
-Indirizzo applicativo:  
-  
-Sono insegnamenti fondamentali obbligatori:  
-  
+1° Anno:  
+Anatomia, istologia ed embriologia dell'occhio;  
+Anatomia, patologia speciale oculare;  
+Ottica fisiologica e fisiologia dell'apparato visivo;  
+Nozioni di patologia generale in rapporto all'oculistica;  
+Clinica oculistica;  
+Semeiotica oculistica.  
+2° Anno:  
+Clinica medica generale;  
+Clinica oculistica;  
+Clinica chirurgica generale;  
+Semeiotica oculistica;  
+Batteriologia, igiene e profilassi;  
+Interventi chirurgici e tecnica operativa oculare;  
+Nozioni di patologia generale in rapporto all'oculista;  
+Oftalmoscopia.  
 3° Anno:  
-Calcoli numerici e grafici.  
+Radiologia e malattie oculari;  
+Infortunistica e medicina legale in rapporto alla oculistica;  
+Interventi chirurgici e tecnica operativa oculare;  
+Clinica oculistica;  
+Neurologia in rapporto all'oculistica;  
+Otorinolaringoiatria in rapporto all'oculistica.  
+Internato in clinica oculistica durante tre anni con servizio effettivo di assistente volontario.  
   
-4° Anno:  
-Calcolo delle probabilita'.  
+Scuola di chirurgia.  
+(Durata del corso cinque anni).  
   
-Al quarto anno sono inoltre prescritti due insegnamenti complementari da scegliersi nel seguente elenco:  
-Calcolo operazionale;  
-Cibernetica;  
-Economia matematica;  
-Elettronica;  
-Elettronica applicata;  
-Matematica finanziaria e attuariale;  
-Programmazione lineare e non lineare;  
-Ricerca operativa;  
-Statistica matematica;  
-Teoria dei giochi;  
-Teoria della programmazione per le macchine calcolatrici;  
-Teoria delle decisioni;  
-Teoria delle informazioni;  
-Teoria ed applicazione delle macchine calcolatrici;  
-Termodinamica statistica.  
+1° Anno:  
+Embriologia e teratologia;  
+Anatomia chirurgica;  
+Patologia generale e fisiopatologia;  
+Fisiologia chirurgica;  
+Clinica chirurgica;  
+Semeiotica e diagnostica chirurgica.  
+2° Anno:  
+Anatomia e istologia patologica;  
+Batteriologia, sierologia, immunologia;  
+Radiologia chirurgica;  
+Semeiotica e diagnostica chirurgica;  
+Patologia chirurgica generale e speciale;  
+Tecnica operativa;  
+Clinica chirurgica.  
+3° Anno:  
+Radiologia Roentgenterapia;  
+Anatomia e istologia patologica;  
+Patologia chirurgica speciale;  
+Tecnica operativa;  
+Microscopia e chimica clinica Clinica chirurgica.  
+4. Anno:  
+Odontoiatria e stomatologia;  
+Tecnica e diagnostica endoscopica;  
+Medicina legale delle lesioni chirurgiche;  
+Otorinolaringoiatria;  
+Tecnica operativa Clinica chirurgica.  
+5° Anno:  
+Traumatologia;  
+Ortopedia chirurgica e tecnica degli apparecchi;  
+Chirurgia infantile;  
+Chirurgia d'urgenza;  
+Ginecologia e tecnica-operativa;  
+Clinica chirurgica.  
+Internato in clinica chirurgica durante i cinque anni con servizio effettivo di assistente volontario.  
   
-Uno degli insegnamenti complementari dovra' essere ad indirizzo fisico.  
-Su parere della Facolta', lo studente puo' effettuare una delle seguenti sostituzioni: il corso di "Calcoli numerici e grafici a con "Economia matematica", ovvero il corso di "Calcolo delle probabilita'" con "Teoria della programmazione per le macchine calcolatrici".  
+Scuola di urologia.  
+(Durata del corso tre anni).  
   
-Art. 92. - Ogni insegnamento comporta un esame. In particolare gli esami di Analisi matematica I, Geometria I, Fisica generale I sono distinti da quelli di Analisi matematica II, Geometria II, Fisica generale II.  
-Potranno essere iscritti al secondo anno soltanto quegli studenti che abbiano superato almeno due degli esami di Analisi matematica I, Geometria I, Algebra.  
-I corsi e gli esami di Analisi matematica I, Geometria I e Fisica generale I sono rispettivamente propedeutici a quelli di Analisi matematica II, Geometria II e Fisica generale II.  
-Gli esami di Analisi matematica I, Geometria I, Algebra, Analisi matematica II, Geometria II, Meccanica razionale sono propedeutici agli esami del terzo anno.  
-Gli esami del primo biennio e del terzo anno sono propedeutici agli esami del quarto anno.  
-Per essere ammesso all'esame di laurea lo studente dovra' aver superato tutti gli esami richiesti dall'indirizzo seguito.  
+1° Anno:  
+Anatomia dell'apparato urinario;  
+Fisiologia dell'apparato urinario;  
+Farmacologia;  
+Batteriologia e immunologia;  
+Metodi di accertamento diagnostico.  
+2° Anno:  
+Anatomia patologica dell'apparato urinario;  
+Patologia speciale dell'apparato urinario;  
+Clinica medica dell'apparato urinario;  
+Clinica chirurgica dell'apparato urinario.  
+3° Anno:  
+Ginecologia speciale;  
+Tecnica operativa Sifilografia;  
+Clinica chirurgica dell'apparato urinario.  
+Internato per tre anni in clinica chirurgica con servizio effettivo di assistente volontario.  
   
-Art. 93. - Ogni corso del primo biennio comporta un corso di esercitazioni che ne e' parte integrante.  
-La Facolta' potra', qualora lo ritenga opportuno, stabilire un corso di esercitazioni per certi insegnamenti del terzo e quarto anno.  
+Scuola malattie dell'apparato respiratorio.  
   
-Art. 94. - Per ogni indirizzo l'esame di laurea deve comprendere una esercitazione scritta e la discussione orale di due tesine.  
-Per l'indirizzo generale sara' inoltre richiesto lo svolgimento di una ricerca (tesi) che dovra' presentare dei caratteri originali.  
-E' in facolta' degli studenti dell'indirizzo applicativo ovvero didattico richiedere di svolgere, oltre alle prove precedenti, una tesi scritta su argomento da concordarsi con una Commissione nominata dalla Facolta'.  
-Superato l'esame di laurea lo studente consegue il titolo di dottore in Matematica, indipendentemente dallo indirizzo prescelto del quale verra', fatta menzione soltanto nella carriera scolastica.  
-Gli articoli 95, 96 e 97 relativi al corso di laurea in Matematica e Fisica sono soppressi.  
-Gli articoli da 181 a 186, relativi al corso di perfezionamento in Matematica annesso alla Facolta' di Scienze matematiche fisiche e naturali sono abrogati e sostituiti dai seguenti con il relativo spostamento della numerazione degli articoli successivi:  
+L'ultimo comma e' cosi' modificato:  
+Internato in clinica medica, oppure servizio come assistente effettivo per due anni in un sanatorio della Previdenza sociale o in un grande ospedale sanatoriale.  
   
-Corsi annuali di perfezionamento in Matematica a indirizzo applicativo, in Matematica ad indirizzo didattico, e in Matematica ad indirizzo scientifico.  
+Scuola di perfezionamento in cardiologia.  
+(Durata del corso due anni.  
   
-Art. 181. - Presso la Facolta' di scienze matematiche, fisiche e naturali vengono tenuti i seguenti corsi di perfezionamento:  
-a) in Matematica ad indirizzo applicativo;  
-b) in Matematica ad indirizzo didattico;  
-c) in Matematica ad indirizzo scientifico;  
-i quali conducono al conseguimento di appositi certificati di frequenza ed esami rispettivamente nelle tre specializzazioni a), b) e c).  
-La Facolta' si riserva di decidere di anno in anno l'opportunita' o meno di tenere i corsi, sia per a) che per b) che per c).  
+1° Anno:  
+Clinica dell'apparato cardiovascolare (lezioni);  
+Morfologia normale dell'apparato cardiovascolare (conferenze);  
+Anatomia patologica dell'apparato cardiovascolare (conferenze)  
+Fisiologia dell'apparato cardiovascolare (conferenze);  
+Farmacologia cardiovascolare (conferenze);  
+Patologia dell'apparato cardiovascolare (lezioni);  
+Radiologia dell'apparato cardiovascolare (dimostrazioni);  
+Elettrocardiografia (esercitazioni);  
+Semiologia dell'apparato cardiovascolare (esercitazioni).  
+2° Anno:  
+Clinica dell'apparato cardiovascolare (lezioni);  
+Terapia chirurgica dell'apparato cardiovascolare (lezioni);  
+Patologia dell'apparato cardiovascolare (lezioni);  
+Terapia medica dell'apparato cardiovascolare (lezioni);  
+Radiologia dell'apparato cardiovascolare (dimostrazioni);  
+Elettrocardiografia (esercitazioni);  
+Semeiologia dell'apparato cardiovascolare (esercitazioni).  
+Dopo la scuola di specializzazione in cardiologia sono aggiunte le seguenti scuole:  
   
-Corso di perfezionamento in Matematica ad indirizzo applicativo  
+Scuola di specializzazione in medicina interna.  
+(Durata del corso cinque anni).  
   
-Art. 182. - Al corso annuale di perfezionamento in Matematica ad indirizzo applicativo e' titolo di ammissione qualunque laurea della Facolta' di scienze matematiche, fisiche e naturali, la laurea in Ingegneria, la laurea in Scienze statistiche, economiche e politiche, la laurea in Giurisprudenza seguita dalla iscrizione ad una Scuola di statistica.  
-Dell'accettazione delle domande di iscrizione al corso giudica il Consiglio della Facolta', su proposta del direttore del corso.  
+a) La scuola fa parte integrante dell'Istituto di clinica medica generale e dispone quindi delle sezioni malati nonche' dei laboratori dell'Istituto.  
+b) Il materiale didattico e' anche costituito dalla biblioteca e dagli archivi della clinica medica.  
+c) La scuola e' posta sotto la direzione e la diretta sorveglianza del clinico medico generale: si vale inoltre di docenti all'uopo designati dalla direzione della scuola.  
+d) Durante il corso, che ha la durata di cinque anni, oltre alle lezioni relative alle materie indicate nel programma, verranno tenute esercitazioni di semeiologia clinica, di diagnostica differenziale e di terapia al letto dei malati mentre nei laboratori si svolgeranno le esercitazioni teorico pratiche.  
+e) La frequenza delle lezioni e delle esercitazioni e' obbligatoria e per assicurare tale frequenza e' obbligatorio l'internato nell'Istituto di clinica medica.  
+f) Alla scuola non sono ammessi piu' di dodici medici per ogni anno. Qualora le domande di iscrizione fossero in numero superiore la direzione della scuola si riserva di provvedere ad una scelta in base ai titoli di studi ed eventualmente a mezzo di esami. Non sono ammesse abbreviazioni della durata del corso.  
+g) Il termine della presentazione delle domande di iscrizione scade il 30 ottobre di ogni anno.  
+h) Alla, fine del secondo anno scolastico i perfezionandi che abbiano ottenuto la firma di frequenza dovranno sostenere un esame di profitto il cui superamento e' condizione necessaria per l'iscrizione al triennio successivo: alla fine del 5° anno avra', luogo un secondo esame di profitto, il cui superamento e' richiesto per accedere all'esame di diploma.  
+i) Alla fine del 5° anno del corso ha luogo l'esame di diploma consistente nella presentazione e discussione di una dissertazione scritta su argomento di medicina interna, concordato il precedenza fra il diplomando e il clinico medico generale. La dissertazione deve essere approvata dalla direzione e depositata presso di questa almeno due mesi prima dell'esame.  
+l) Le Commissioni di esami per gli esami di profitto sono costituite dal clinico medico generale e da due membri scelti fra i docenti del corso.  
+m) La Commissione dell'esame di diploma e' costituita da sette membri presieduta dal preside della Facolta' o da un professore da lui delegato. Di essa fanno parte il clinico medico generale, i docenti del corso ed eventualmente altri membri scelti dal preside fra i professori e liberi docenti dell'Universita' di Padova.  
   
-Art. 183. - Il corso si svolge presso l'Istituto di matematica ed ha la durata di un anno accademico.  
-Il direttore del corso e' nominato di anno in anno dal Consiglio dell'Istituto matematico e puo' essere confermato.  
+PROGRAMMA DEL CORSO.  
   
-Art. 184. - Le tasse di iscrizione e le soprattasse vengono fissate annualmente dal Consiglio di amministrazione, su proposta del Consiglio di facolta'.  
+Materie del primo biennio:  
+Anatomia patologica;  
+Chimica biologica;  
+Fisiopatologia, generale;  
+Microbiologia e sierologia;  
+Patologia medica.  
+Materie del triennio successivo:  
+Clinica, medica generale;  
+Semiotica clinica;  
+Semeiotica strumentale e di laboratorio;  
+Terapia medica;  
+Radiologia.  
+Internato per cinque anni in clinica medica con servizio effettivo di assistente volontario.  
   
-Art. 185. - Il corso riguarda l'insegnamento di complementi di matematiche generali e dei metodi matematici impiegati nella fisica, nelle scienze naturali, nella statistica nella economia ed inoltre l'analisi numerica e la programmazione per le calcolatrici automatiche.  
-L'insegnamento si svolge con lezioni teoriche e con esercitazioni pratiche e puo' mutuare alcuni incarichi dell'Universita' di Padova su proposta del direttore del corso e sentito il parere della Facolta' di scienze, secondo il piano di studi che verra' fissato di anno in anno.  
+Scuola di specializzazione in anestesia.  
+(Durata del corso due anni).  
   
-Art. 186. - Il profitto degli allievi e' riconosciuto dagli insegnanti durante il corso stesso o mediante prove speciali al termine di esso.  
+Gli iscritti sono tenuti alla frequenza effettiva in clinica chirurgica per la durata di due anni accademici.  
+Alla fine dei corsi gli specializzandi sosterranno esami di profitto, in seguito all'esito favorevole dei quali verra', rilasciato diploma di specialista in anestesia.  
+1° Anno:  
+Anatomia del sistema nervoso centrale e periferico;  
+Biochimica e farmacologia dei narcotici;  
+Fisica dei gas, dei vapori e delle soluzioni Fisiologia della respirazione;  
+Storia, dell'anestesia;  
+Compiti pre e post-operatori dell'anestesista;  
+Strumentario ed apparecchi per la narcosi;  
+Tecnica anestetica;  
+Chirurgia generale e speciale ed anestesia.  
+2° Anno:  
+Fisiopatologia della narcosi;  
+Anatomia e istopatologia degli organi in narcosi;  
+Rianimazione e trattamento anti-schock;  
+Anestesie speciali (intubazioni, curaro, refrigerazioni, ecc.);  
+Anestesia in ostetricia;  
+Scelta della anestesia;  
+Chirurgia generale e speciale ed anestesia.  
+Personale insegnante: il direttore della clinica, gli assistenti della clinica specialisti in anestesia ed il personale insegnante degli istituti universitari di Padova per le materie di loro particolare pertinenza.  
   
-Corso di perfezionamento in Matematica ad indirizzo didattico  
+Scuola di puericultura.  
+(Durata del corso un anno).  
   
-Art. 187. - Al corso annuale di perfezionamento in Matematica ad indirizzo didattico e' titolo di ammissione qualunque laurea che secondo le leggi vigenti sugli esami di abilitazione consentano l'insegnamento della matematica in qualche tipo di scuola media.  
-Dell'accettazione delle domande di iscrizione al corso giudica il Consiglio della facolta', su proposta del direttore del corso.  
-  
-Art. 188. - Il corso si svolge presso l'Istituto di matematica ed ha la durata di un anno accademico.  
-Il direttore del corso e' nominato di anno in anno dal Consiglio dell'Istituto matematico e puo' essere confermato.  
-  
-Art. 189. - Le tasse di iscrizione e le soprattasse vengono fissate annualmente dal Consiglio di amministrazione, su proposta del Consiglio di facolta'.  
-  
-Art. 190. - Il corso comprende l'insegnamento delle matematiche elementari da un punto di vista superiore, complementi di matematiche generali, didattica matematica e consiste di lezioni teoriche e di esercitazioni e puo' mutuare alcuni incarichi della Facolta' di scienze fisiche matematiche e naturali, su parere del Consiglio di facolta'.  
-  
-Art. 191. - Il profitto degli allievi e' riconosciuto dagli insegnanti durante il corso stesso o mediante prove speciali al termine di esso.  
-  
-Corso di perfezionamento in Matematica ad indirizzo scientifico  
-  
-Art. 192. - Il corso ha lo scopo di formare laureati di preparazione superiore e specializzata in vista soprattutto della ricerca scientifica. Ad esso sono ammessi i laureati in matematica, in fisica, in chimica ed in ingegneria. Della accettazione delle domande di iscrizione giudica il Consiglio della facolta', su proposta del direttore del corso.  
-  
-Art. 193. - Il corso si svolge presso l'Istituto di matematica: ha la durata di un anno accademico e puo' essere frequentato per piu' anni da uno stesso studente.  
-Il direttore del corso e' nominato di anno in anno dal Consiglio dell'istituto matematico e puo' essere confermato.  
-  
-Art. 194. - Le tasse di iscrizione e le soprattasse vengono fissate annualmente dal Consiglio di amministrazione, su proposta del Consiglio di facolta'.  
-  
-Art. 195. - Il programma del corso viene fissato di anno in anno previo parere favorevole della Facolta'.  
-Alla fine del corso viene rilasciato un certificato di iscrizione e frequenza.  
+Anatomia e fisiologia del bambino;  
+Alimentazione del bambino lattante e della seconda e terza infanzia;  
+Igiene del neonato lattante e del bambino;  
+Igiene scolastica;  
+Norme di profilassi delle malattie infettive e contagiose;  
+Psicologia del bambino;  
+Legislazione sulla protezione dell'infanzia.  
+Gli iscritti hanno l'obbligo di frequentare assiduamente le lezioni e le dimostrazioni, il reparto lattanti della clinica e degli istituti annessi.  
+L'esame si sostiene alla fine dell'anno di corso e tutte le materie d'insegnamento costituiscono un unico gruppo. L'esame di diploma si svolge in conformita' alle norme generali.  
+Le spese relative al funzionamento delle scuole di specializzazione in medicina e chirurgia sono a carico del bilancio ordinario dell'Universita' di Padova.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della. Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 marzo 1962
+### Dato a Roma, addi' 31 ottobre 1950
 
-GRONCHI GUI
+EINAUDI GONELLA
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: PICCIONI
 
-Registrato alla Corte dei conti, addi' 19 maggio 1962
+Registrato alla Corte dei conti, addi' 12 novembre 1951
 
-Atti del Governo, registro n. 147, foglio, n. 54. - VILLA
+Atti del Governo; registro n. 45, foglio n. 80. - FRASCA

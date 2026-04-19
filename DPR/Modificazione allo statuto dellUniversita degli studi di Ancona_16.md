@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1986 n. 629
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 agosto 1983 n. 1018
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1986 n. 629
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 agosto 1983 n. 1018
+==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Ancona.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Ancona.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Ancona, approvato con [decreto del Presidente della Repubblica del 4 ottobre 1971, n. 1330](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-10-04;1330), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Ancona, approvato con [decreto del Presidente della Repubblica 4 ottobre 1971, n. 1330](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-10-04;1330), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -33,28 +33,26 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:
 --------
 
-Lo statuto dell'Universita' degli studi di Ancona, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Ancona, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-  
-Nell'art. 23, relativo all'elenco degli insegnamenti complementari per i tre corsi di laurea della facolta' di ingegneria, e' aggiunto il seguente nuovo insegnamento:   
-diritto e legislazione urbanistica ed edilizia.   
+Nell'art. 23, relativo al corso di laurea in ingegneria, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+termodinamica applicata;  
+trasmissione del calore.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 giugno 1986
+### Dato a Roma, addi' 5 agosto 1983
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 17 settembre 1986
+Registrato alla Corte dei conti, addi' 29 febbraio 1984
 
-Registro n. 71 Istruzione, foglio n. 195
+Registro n. 13 Istruzione, foglio n. 72

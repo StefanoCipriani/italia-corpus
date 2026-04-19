@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 maggio 1976 n. 547
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 settembre 1977 n. 917
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 maggio 1976 n. 547
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 settembre 1977 n. 917
+================================================================
 
 Recupero e nuova assegnazione di un posto di assistente ordinario.
 ------------------------------------------------------------------
@@ -10,41 +10,44 @@ Recupero e nuova assegnazione di un posto di assistente ordinario.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Visto il [decreto del Presidente della Repubblica 12 febbraio 1968, n. 146](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-02-12;146), con il quale, tra gli altri, e' stato assegnato un posto di assistente ordinario alla cattedra di esercitazioni di disegno di macchine della facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Messina;
+Visto il [decreto del Presidente della Repubblica 11 dicembre 1965, n. 1504](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-12-11;1504), registrato alla Cortei dei conti, addi' 13 gennaio 1966, registro n. 199, foglio n. 61, con il quale fu assegnato, fra gli altri, un posto di assistente ordinario alla cattedra di chimica farmaceutica e tossicologica della facolta' di farmacia dell'Universita' di Catania;
 
-Visto il telegramma n. 98701 del 24 aprile 1976, con cui il rettore dell'Universita' di Messina comunica che detto posto e' vacante dalla sua assegnazione;
+Visto il decreto del rettore dell'Universita' degli studi di Catania in data 2 agosto 1977, registrato alla Corte dei conti regionale di Palermo, addi' 17 agosto 1977, registro n. 14, foglio n.
 
-Considerato pertanto che non si e' provveduto alla copertura del posto nel termine fissato dall'ultimo comma dell'[art. 13 della legge 18 marzo 1958, n. 349](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-18;349~art13);
+82, per effetto del quale il dott. Pasquale Condorelli, gia' titolare del suddetto posto, e' dichiarato cessato per volontarie dimissioni a decorrere dal 1 luglio 1977;
 
-Ritenuto che per tale ragione sono venuti meno i motivi che a suo tempo determinarono l'assegnazione del posto alla cattedra sopracitata;
+Ritenuta la necessita' ed opportunita' di provvedere alla utilizzazione del posto prima del termine previsto dall'[art. 3 della legge 30 novembre 1973, n. 766](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-30;766~art3);
+
+Considerata l'esigenza rappresentata dal titolare della cattedra di filosofia del diritto della facolta' di scienze politiche dell'Universita' degli studi di Roma di acquisire un posto di assistente ordinario al fine di consentire un'attivita' didattica e scientifica funzionale alla presenza dell'elevato numero degli studenti che attualmente frequentano l'insegnamento;
 
 Sulla
 -----
 
-proposta del Ministro segretario di Stato per la pubblica istruzione; Decreta:
+proposta del Ministro Segretario di Stato per la pubblica istruzione; Decreta:
 
 Art. 1
 ------
 
   
-Il posto di assistente ordinario gia' assegnato con [decreto del Presidente della Repubblica 12 febbraio 1968, n. 146](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-02-12;146), alla cattedra di esercitazioni di disegno di macchine della facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Messina e' recuperato.  
+  
+Il posto di assistente ordinario gia' assegnato con [decreto del Presidente della Repubblica 11 dicembre 1965, n. 1504](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-12-11;1504), registrato alla Corte dei conti, addi' 13 gennaio 1966, registro n. 199, foglio n. 61, reso disponibile a seguito delle volontarie dimissioni del dott. Pasquale Condorelli, a decorrere dal 1° luglio 1977, e' recuperato dalla cattedra di chimica farmaceutica e tossicologica della facolta' di farmacia dell'Universita' degli studi di Catania. 
 
 Art. 2
 ------
 
   
-Il posto di cui si tratta e' assegnato alla cattedra di diritto internazionale della navigazione della facolta' di scienze politiche dell'Universita' di Napoli.  
+Il posto di assistente sopra Specificato e' contestualmente assegnato alla cattedra di filosofia del diritto della facolta' di scienze politiche dell'Universita' degli studi di Roma.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 maggio 1976
+### Dato a Roma, addi' 6 settembre 1977
 
 LEONE MALFATTI
 
 Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 4 agosto 1976
+Registrato alla Corte dei conti, addi' 20 dicembre 1977
 
-Atti di Governo, registro n. 8, foglio n. 47
+Registro n. 144 Istruzione, foglio n. 157

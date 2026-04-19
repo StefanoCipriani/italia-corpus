@@ -1,64 +1,95 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1965 n. 862
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1084
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1965 n. 862
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1084
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 -------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), e modificato con [decreto del Presidente della Repubblica 12 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-12;1207).  
-e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Dopo l'art. 308, sono aggiunti i seguenti articoli relativi all'istituzione del centro di studi biomedici applicati allo sport:  
   
-Decreta:  
+Centro di studi biomedici applicati allo sport.  
   
-Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Dopo l'art. 28, sono aggiunti i seguenti nuovi articoli relativi alla creazione dell'Istituto di applicazione forense, annesso alla Facolta' di giurisprudenza con il conseguente spostamento della numerazione degli articoli successivi.  
-Istituto di applicazione forense  
-Art. 29. - Alla Facolta' di giurisprudenza e' annesso un Istituto di applicazione forense, il quale si propone di corrispondere alle esigenze tecniche e pratiche della preparazione all'esercizio della professione forense.  
-L'Istituto funziona anche ai fini dell'[art. 18 del regio decreto-legge 27 novembre 1933, n. 1578](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-27;1578~art18).  
-Art. 30. - I mezzi per il funzionamento dell'Istituto sono tratti dai contributi dell'Universita', da eventuali elargizioni di enti pubblici o di privati, e dalle tasse e contributi degli iscritti.  
-Art. 31. - L'Istituto e' retto da un Consiglio direttivo, composto da un direttore, dal preside della Facolta' e dal direttore dell'Istituto giuridico. Il direttore e' eletto per un triennio dal Consiglio della Facolta' di giurisprudenza fra i professori ordinari e straordinari della Facolta' medesima anche fuori ruolo.  
-Art. 32. - Le esercitazioni si svolgono nelle seguenti materie:  
-  
-Diritto civile;  
-Diritto commerciale;  
-Diritto processuale civile;  
-Diritto amministrativo;  
-Diritto penale;  
-Diritto processuale penale;  
-Diritto tributario;  
-Diritto internazionale (pubblico e privato);  
-Diritto del lavoro;  
-Diritto costituzionale.  
-Art. 33. - Presso l'Istituto possono tenersi anche, conferenze ed esercitazioni in altre discipline giuridiche.  
-Art. 34. - Possono iscriversi al corso dell'Istituto, i laureati in giurisprudenza.  
-Art. 35. - Agli iscritti che abbiano frequentato lo Istituto per un anno con diligenza e profitto viene, a loro richiesta, rilasciato un certificato finale agli effetti dell'[art. 6 del regio decreto 22 gennaio 1934, n. 37](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-01-22;37~art6), in relazione all'[art. 18 del regio decreto-legge 27 novembre 1933, n. 1578](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-11-27;1578~art18).  
-Art. 36. - Il funzionamento dell'Istituto e' regolato da apposite norme deliberate dalla Facolta' giuridica su proposta del Consiglio direttivo ed approvate con decreto del rettore dell'Universita'.  
+Art. 309. - Presso l'Universita' di Ferrara e' istituito il centro di studi biomedici applicati allo sport.  
+Art. 310. - Gli scopi del centro sono:  
+a) lo studio dei meccanismi biologici che intervengono nell'attivita' motoria, dell'uomo;  
+b) lo studio dei meccanismi biologici impiegati nelle varie discipline sportive;  
+c) lo studio dei tipi di allenamento in grado di potenziare i meccanismi biologici delle varie discipline sportive;  
+d) l'identificazione di carenze di fattori nutrizionali in corso di attivita' fisica;  
+e) lo studio della prevenzione delle patologie osteomuscolo-tendinee dello sportivo;  
+f) il trasferimento alla educazione, rieducazione e riabilitazione fisica delle informazioni ottenute sui praticanti lo sport agonistico;  
+g) l'organizzazione di corsi teorico-pratici per la diffusione delle informazioni biomediche ottenute sia presso il centro che presso analoghi centri di ricerca italiani e stranieri.  
+Art. 311. - Organi di governo del centro sono:  
+a) il consiglio direttivo;  
+b) il direttore del centro.  
+Art. 312. - Il consiglio direttivo e' costituito da almeno tre professori di ruolo della facolta' di medicina e chirurgia dell'Universita' di Ferrara.  
+I membri del consiglio direttivo sono nominati dal rettore su proposta della facolta' di medicina e chirurgia, durano in carica un triennio e possono essere rinominati.  
+Il consiglio direttivo e' presieduto dal direttore del centro.  
+Art. 313. - Compiti del consiglio direttivo sono:  
+a) proporre al rettore la nomina del direttore del centro scelto tra i membri del consiglio stesso;  
+b) coordinare i programmi e l'attivita' del centro;  
+c) deliberare sulla relazione annuale del direttore del centro.  
+Il consiglio direttivo si riunisce in seduta ordinaria almeno una volta all'anno e ogni qualvolta il direttore lo ritenga opportuno o uno dei suoi membri ne faccia richiesta motivata al direttore.  
+Art. 314. - Il direttore del centro e' nominato dal rettore su proposta del consiglio direttivo, che lo sceglie tra i suoi membri.  
+Il direttore dura in carica tre anni e puo' essere rinominato.  
+Compiti del direttore sono:  
+a) curare l'attivita' del centro sulla base dei programmi elaborati dal consiglio direttivo;  
+b) dare esecuzione alle delibere del consiglio direttivo;  
+c) predisporre, quanto necessario per il buon funzionamento del centro stesso;  
+d) preparare alla fine di ogni anno una relazione sull'attivita' del centro che viene esaminata ed approvata dal consiglio direttivo ed inoltrata al rettore e al preside della facolta' di medicina e chirurgia.  
+Art. 315. - Il direttore del centro e' responsabile della gestione amministrativa e contabile del centro stesso, in conformita' alle norme del regolamento per l'amministrazione e la contabilita' generale dell'Universita' di Ferrara.  
+(Tit. IV).  
+Art. 316. - Il centro dispone per il suo funzionamento di contributi concessi dall'Universita' sul proprio bilancio.  
+Il centro potra' altresi' usufruire, per il tramite dell'amministrazione universitaria, di finanziamenti provenienti da erogazioni di enti pubblici e privati interessati alle finalita' istituzionali e scientifiche sia di base che applicate.  
+Art. 317. - Nell'ambito di rapporti convenzionali che l'Universita' potra' stipulare, ai sensi della normativa vigente, per il funzionamento del centro con enti pubblici e privati, potranno essere previste anche attivita' di ricerca di operatori sportivi e di studiosi italiani e stranieri di discipline biomediche applicate allo sport.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 maggio 1965
+### Dato a Roma, addi' 31 dicembre 1985
 
-SARAGAT GUI
+COSSIGA
 
-Visto, il Guardasigilli: REALE
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 14 luglio 1965
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Atti del Governo, registro n. 195, foglio n. 91. - VILLA
+Registrato alla Corte dei conti, addi' 10 maggio 1986
+
+Registro n. 36 Istruzione, foglio n. 200

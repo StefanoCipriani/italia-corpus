@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 ottobre 1969 n. 766
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1981 n. 858
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 ottobre 1969 n. 766
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1981 n. 858
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
@@ -10,461 +10,77 @@ Modificazioni allo statuto dell'Universita' degli studi di Siena.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto-legge 30 settembre 1938, numero 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-09-30;1652), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte,
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Siena e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
 Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Gli articoli 11 e 12 relativi all'ordinamento degli studi del corso di laurea in scienze politiche sono abrogati e sostituiti dai seguenti:
+Articolo unico
+--------------
 
-Art. 11. - La durata del corso degli studi per la laurea in scienze politiche e' di quattro anni.
-
-E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.
-
-Il corso di studi comprende un biennio propedeutico ed un biennio di specializzazione ordinato secondo due indirizzi: quello storico-politico e quello politico-amministrativo.
-
-Il biennio propedeutico comprende i seguenti insegnamenti obbligatori:
-
-1) Istituzioni di diritto pubblico;
-
-2) Diritto costituzionale italiano e comparato;
-
-3) Economia politica;
-
-4) Statistica;
-
-5) Sociologia;
-
-6) Storia moderna;
-
-7) Storia delle dottrine politiche;
-
-8) Storia contemporanea;
-
-9) Organizzazione internazionale.
-
-Lo studente, qualora durante il biennio propedeutico abbia gia' stabilito quale indirizzo intenda seguire nel biennio successivo, potra' aggiungere ai nove insegnamenti suindicati non piu' di tre insegnamenti obbligatori del biennio di specializzazione che intende seguire.
-
-Non e' consentito anticipare al biennio propedeutico insegnamenti a scelta dello studente. Gli insegnamenti anticipati al biennio propedeutico vanno in detrazione dal numero degli insegnamenti del biennio di specializzazione.
-
-Il biennio di specializzazione per l'indirizzo storico-politico si svolge in base al piano di studio qui di seguito indicato.
-
-Materie di insegnamento obbligatorio:
-
-1) Storia economica moderna;
-
-2) Storia dei trattati e politica internazionale;
-
-3) Storia delle istituzioni politiche;
-
-4) Scienza della politica;
-
-5) Geografia politica ed economica.
-
-Materie fra le quali la facolta' determina annualmente quelle da impartire come insegnamenti di libera scelta per lo studente:
-
-1) Storia dei partiti e movimenti politici;
-
-2) Storia americana;
-
-3) Storia dell'Europa orientale;
-
-4) Storia del Risorgimento;
-
-5) Storia dei rapporti fra Stato e Chiesa;
-
-6) Storia del movimento sindacale;
-
-7) Storia del diritto italiano;
-
-8) Storia delle dottrine economiche;
-
-9) Storia della pubblica amministrazione;
-
-10) Storia ed istituzioni dei Paesi afro-asiatici;
-
-11) Scienza delle finanze;
-
-12) Diritto internazionale;
-
-13) Diritto pubblico regionale;
-
-14) Filosofia della politica;
-
-15) Dottrina dello Stato;
-
-16) Politica economica e finanziaria.
-
-Il biennio di specializzazione per l'indirizzo politico-amministrativo si svolge in base al piano di studi qui di seguito indicato.
-
-Materie di insegnamento obbligatorio:
-
-1) Diritto amministrativo;
-
-2) Istituzioni di diritto privato;
-
-3) Diritto pubblico regionale;
-
-4) Diritto pubblico dell'economia;
-
-5) Istituzioni di diritto e procedura penale;
-
-6) Scienza delle finanze;
-
-7) Dottrina dello Stato.
-
-Materie fra le quali la facolta' determina annualmente quelle da impartirsi come insegnamenti di libera scelta per lo studente:
-
-1) Diritto internazionale privato;
-
-2) Diritto delle comunita' europee;
-
-3) Diritto tributario;
-
-4) Diritto del lavoro;
-
-5) Diritto ecclesiastico;
-
-6) Diritto internazionale;
-
-7) Diritto commerciale;
-
-8) Diritto processuale amministrativo;
-
-9) Legislazione del lavoro;
-
-10) Diritto privato comparato;
-
-11) Teoria dell'organizzazione e dei servizi amministrativi;
-
-12) Contabilita' dello Stato;
-
-13) Storia dei partiti e movimenti politici;
-
-14) Storia del Risorgimento;
-
-15) Storia del movimento sindacale;
-
-16) Storia del diritto italiano;
-
-17) Storia della pubblica amministrazione;
-
-18) Storia dei trattati e politica internazionale;
-
-19) Storia delle istituzioni politiche;
-
-20) Scienza della politica;
-
-21) Politica economica e finanziaria;
-
-22) Criminologia.
-
-Inoltre lo studente, per ambedue gli indirizzi, dovra' seguire i corsi e sostenere le prove di esame in due lingue straniere moderne scelte tra quelle che saranno determinate anno per anno dalla facolta'.
-
-Per essere ammesso all'esame di laurea lo studente deve avere seguito i corsi e superati gli esami relativi ad almeno diciannove corsi oltre a quelli relativi a due lingue straniere.
-
-Art. 12. - Sono considerati come insegnamenti propedeutici agli effetti dell'iscrizione e dell'esame le istituzioni di diritto pubblico per il diritto costituzionale italiano e comparato e per l'organizzazione internazionale; la storia moderna per la storia contemporanea, il diritto amministrativo per il diritto pubblico della economia.
-
-Inoltre gli insegnamenti del primo biennio comune ai due indirizzi sono propedeutici ai soli effetti dell'esame rispetto a tutti quelli del biennio di specializzazione. Per gli insegnamenti di libera scelta le eventuali propedeuticita' sono determinate dalla facolta' nell'approvare il relativo elenco.
-
-Art. 17. - E' modificato nel senso che la seconda parte concernente i gruppi di materie per quanto riguarda il corso di laurea in scienze politiche e' abrogata e sostituita dalla seguente:
-
-Materie giuridiche:
-
-Diritto costituzionale italiano e comparato;
-
-Istituzioni di diritto pubblico;
-
-Organizzazione internazionale;
-
-Diritto amministrativo;
-
-Istituzioni di diritto privato;
-
-Diritto pubblico regionale;
-
-Diritto pubblico dell'economia;
-
-Istituzioni di diritto e procedura penale;
-
-Diritto internazionale;
-
-Diritto internazionale privato;
-
-Diritto delle comunita' europee;
-
-Diritto tributario;
-
-Diritto del lavoro;
-
-Diritto ecclesiastico;
-
-Diritto commerciale;
-
-Diritto processuale amministrativo;
-
-Teoria dell'organizzazione e dei servizi amministrativi;
-
-Legislazione del lavoro;
-
-Diritto privato comparato;
-
-Materie storiche:
-
-Storia moderna;
-
-Storia delle dottrine politiche;
-
-Storia contemporanea;
-
-Storia economica moderna;
-
-Storia dei trattati e politica internazionale;
-
-Storia delle istituzioni politiche;
-
-Storia dei partiti e movimenti politici;
-
-Storia americana;
-
-Storia ed istituzioni dei Paesi afro-asiatici;
-
-Storia del Risorgimento;
-
-Storia del diritto italiano;
-
-Storia dei rapporti fra Stato e Chiesa;
-
-Storia delle dottrine economiche;
-
-Storia della pubblica amministrazione;
-
-Storia del movimento sindacale;
-
-Storia dell'Europa orientale;
-
-Materie economiche e statistiche:
-
-Economia politica;
-
-Statistica;
-
-Geografia politica ed economica;
-
-Scienza delle finanze;
-
-Politica economica e finanziaria;
-
-Contabilita' di Stato.
-
-Materie filosofiche e sociologico-politiche:
-
-Sociologia;
-
-Scienza della politica;
-
-Dottrina dello Stato;
-
-Filosofia della politica;
-
-Criminologia.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 1 ottobre 1969
-
-SARAGAT
-
-FERRARI AGGRADI
-
-Visto, il Guardasigilli: GAVA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 31 ottobre 1969 Atti del Governo, registro n. 229, foglio n. 161. - CARUSO
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte,   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Gli articoli 121, 122, 123, 124, 126, 127 e 128, relativi alla scuola di specializzazione in storia dell'arte medioevale e moderna che muta denominazione in scuola di specializzazione in archeologia e storia dell'arte, sono modificati nel modo seguente:  
+Art. 121 - alla facolta' di lettere e filosofia e' annessa la scuola di specializzazione in archeologia e storia dell'arte, della durata di tre anni.  
+All'art.- 122 le parole "materie storico-artistiche sono sostituite dalle seguenti: "materie archeologiche o storico-artistiche", le parole "istituto di storia dell'arte" sono sostituite dalle seguenti: "istituto di archeologia e storia dell'arte della musica e dello spettacolo".  
+All'art. 123 le parole "argomento storico-artistico" sono sostituite dalle seguenti: "argomento archeologico o storico-artistico".  
+L'art. 124 e' sostituito dal seguente:  
+"Il numero degli iscritti alla scuola e' fissato ad un massimo di quaranta per ogni anno di corso".  
+All'art. 126 le parole "secondo anno" e "storia dell'arte medioevale e moderna" sono sostituite rispettivamente dalle seguenti: "terzo anno" e "archeologia e storia dell'arte".  
+L'art. 127 e' sostituito dal seguente:  
+"Il corso di studi e' suddiviso in quattro indirizzi:  
+a) archeologia greca e dell'Italia pre-romana;  
+b) archeologia romana e medioevale;  
+c) storia dell'arte medioevale;  
+d) storia dell'arte moderna.  
+Il diploma rilasciato dopo la discussione della tesi e' specifico".  
+All'art. 128 sono aggiunte le seguenti materie:  
   
-Decreta:   
+ARCHEOLOGIA GRECA E DELL'ITALIA PRE-ROMANA.  
+1° Anno:  
+paletnologia e protostoria;  
+archeologia e storia dell'arte greca;  
+tecnica dello scavo e della prospezione o tecnica della classificazione e della documentazione archeologica o analisi dei materiali.  
+2° Anno:  
+etruscologia e archeologia italica;  
+archeologia fenicio-punica o archeologia e storia dell'arte del vicino oriente antico;  
+epigrafia e antichita' greche o numismatica.  
   
-Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Gli articoli 11 e 12 relativi all'ordinamento degli studi del corso di laurea in scienze politiche sono abrogati e sostituiti dai seguenti:   
-Art. 11. - La durata del corso degli studi per la laurea in scienze politiche e' di quattro anni.   
-E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.   
-Il corso di studi comprende un biennio propedeutico ed un biennio di specializzazione ordinato secondo due indirizzi: quello storico-politico e quello politico-amministrativo.   
-Il biennio propedeutico comprende i seguenti insegnamenti obbligatori:   
-1) Istituzioni di diritto pubblico;   
-2) Diritto costituzionale italiano e comparato;   
-3) Economia politica;   
-4) Statistica;   
-5) Sociologia;   
-6) Storia moderna;   
-7) Storia delle dottrine politiche;   
-8) Storia contemporanea;   
-9) Organizzazione internazionale.   
-Lo studente, qualora durante il biennio propedeutico abbia gia' stabilito quale indirizzo intenda seguire nel biennio successivo, potra' aggiungere ai nove insegnamenti suindicati non piu' di tre insegnamenti obbligatori del biennio di specializzazione che intende seguire.   
-Non e' consentito anticipare al biennio propedeutico insegnamenti a scelta dello studente. Gli insegnamenti anticipati al biennio propedeutico vanno in detrazione dal numero degli insegnamenti del biennio di specializzazione.   
-Il biennio di specializzazione per l'indirizzo storico-politico si svolge in base al piano di studio qui di seguito indicato.   
-  
-Materie di insegnamento obbligatorio:   
-1) Storia economica moderna;   
-2) Storia dei trattati e politica internazionale;   
-3) Storia delle istituzioni politiche;   
-4) Scienza della politica;   
-5) Geografia politica ed economica.   
-  
-Materie fra le quali la facolta' determina annualmente quelle da impartire come insegnamenti di libera scelta per lo studente:   
-1) Storia dei partiti e movimenti politici;   
-2) Storia americana;   
-3) Storia dell'Europa orientale;   
-4) Storia del Risorgimento;   
-5) Storia dei rapporti fra Stato e Chiesa;   
-6) Storia del movimento sindacale;   
-7) Storia del diritto italiano;   
-8) Storia delle dottrine economiche;   
-9) Storia della pubblica amministrazione;   
-10) Storia ed istituzioni dei Paesi afro-asiatici;   
-11) Scienza delle finanze;   
-12) Diritto internazionale;   
-13) Diritto pubblico regionale;   
-14) Filosofia della politica;   
-15) Dottrina dello Stato;   
-16) Politica economica e finanziaria.   
-Il biennio di specializzazione per l'indirizzo politico-amministrativo si svolge in base al piano di studi qui di seguito indicato.   
-  
-Materie di insegnamento obbligatorio:   
-1) Diritto amministrativo;   
-2) Istituzioni di diritto privato;   
-3) Diritto pubblico regionale;   
-4) Diritto pubblico dell'economia;   
-5) Istituzioni di diritto e procedura penale;   
-6) Scienza delle finanze;   
-7) Dottrina dello Stato.   
-  
-Materie fra le quali la facolta' determina annualmente quelle da impartirsi come insegnamenti di libera scelta per lo studente:   
-1) Diritto internazionale privato;   
-2) Diritto delle comunita' europee;   
-3) Diritto tributario;   
-4) Diritto del lavoro;   
-5) Diritto ecclesiastico;   
-6) Diritto internazionale;   
-7) Diritto commerciale;   
-8) Diritto processuale amministrativo;   
-9) Legislazione del lavoro;   
-10) Diritto privato comparato;   
-11) Teoria dell'organizzazione e dei servizi amministrativi;   
-12) Contabilita' dello Stato;   
-13) Storia dei partiti e movimenti politici;   
-14) Storia del Risorgimento;   
-15) Storia del movimento sindacale;   
-16) Storia del diritto italiano;   
-17) Storia della pubblica amministrazione;   
-18) Storia dei trattati e politica internazionale;   
-19) Storia delle istituzioni politiche;   
-20) Scienza della politica;   
-21) Politica economica e finanziaria;   
-22) Criminologia.   
-Inoltre lo studente, per ambedue gli indirizzi, dovra' seguire i corsi e sostenere le prove di esame in due lingue straniere moderne scelte tra quelle che saranno determinate anno per anno dalla facolta'.   
-Per essere ammesso all'esame di laurea lo studente deve avere seguito i corsi e superati gli esami relativi ad almeno diciannove corsi oltre a quelli relativi a due lingue straniere.   
-Art. 12. - Sono considerati come insegnamenti propedeutici agli effetti dell'iscrizione e dell'esame le istituzioni di diritto pubblico per il diritto costituzionale italiano e comparato e per l'organizzazione internazionale; la storia moderna per la storia contemporanea, il diritto amministrativo per il diritto pubblico della economia.   
-Inoltre gli insegnamenti del primo biennio comune ai due indirizzi sono propedeutici ai soli effetti dell'esame rispetto a tutti quelli del biennio di specializzazione. Per gli insegnamenti di libera scelta le eventuali propedeuticita' sono determinate dalla facolta' nell'approvare il relativo elenco.   
-Art. 17. - E' modificato nel senso che la seconda parte concernente i gruppi di materie per quanto riguarda il corso di laurea in scienze politiche e' abrogata e sostituita dalla seguente:   
-  
-Materie giuridiche:   
-Diritto costituzionale italiano e comparato;   
-Istituzioni di diritto pubblico;   
-Organizzazione internazionale;   
-Diritto amministrativo;   
-Istituzioni di diritto privato;   
-Diritto pubblico regionale;   
-Diritto pubblico dell'economia;   
-Istituzioni di diritto e procedura penale;   
-Diritto internazionale;   
-Diritto internazionale privato;   
-Diritto delle comunita' europee;   
-Diritto tributario;   
-Diritto del lavoro;   
-Diritto ecclesiastico;   
-Diritto commerciale;   
-Diritto processuale amministrativo;   
-Teoria dell'organizzazione e dei servizi amministrativi;   
-Legislazione del lavoro;   
-Diritto privato comparato;   
-  
-Materie storiche:   
-Storia moderna;   
-Storia delle dottrine politiche;   
-Storia contemporanea;   
-Storia economica moderna;   
-Storia dei trattati e politica internazionale;   
-Storia delle istituzioni politiche;   
-Storia dei partiti e movimenti politici;   
-Storia americana;   
-Storia ed istituzioni dei Paesi afro-asiatici;   
-Storia del Risorgimento;   
-Storia del diritto italiano;   
-Storia dei rapporti fra Stato e Chiesa;   
-Storia delle dottrine economiche;   
-Storia della pubblica amministrazione;   
-Storia del movimento sindacale;   
-Storia dell'Europa orientale;   
-  
-Materie economiche e statistiche:   
-Economia politica;   
-Statistica;   
-Geografia politica ed economica;   
-Scienza delle finanze;   
-Politica economica e finanziaria;   
-Contabilita' di Stato.   
-  
-Materie filosofiche e sociologico-politiche:   
-Sociologia;   
-Scienza della politica;   
-Dottrina dello Stato;   
-Filosofia della politica;   
-Criminologia.   
+ARCHEOLOGIA ROMANA E MEDIOEVALE.  
+1° Anno:  
+archeologia e storia dell'arte romana;  
+epigrafia e antichita' romane o archeologia tardoantica o archeologia delle province romane;  
+geografia storica o topografia antica o rilievo e analisi tecnica dei monumenti antichi.  
+2° Anno:  
+archeologia medioevale;  
+epigrafia e antichita' medioevali o storia degli insediamenti medioevali;  
+restauro e tecnologie applicate ai beni archeologici o storia dell'archeologia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 1 ottobre 1969
+### Dato a Roma, addi' 31 luglio 1981
 
-SARAGAT FERRARI AGGRADI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 31 ottobre 1969
+Registrato alla Corte dei conti, addi' 7 gennaio 1982
 
-Atti del Governo, registro n. 229, foglio n. 161. - CARUSO
+Registro n. 1 Istruzione, foglio n. 132

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 marzo 1949 n. 348
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 novembre 1951 n. 1721
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 marzo 1949 n. 348
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 novembre 1951 n. 1721
+================================================================
 
 Autorizzazione all'Istituto dei ciechi "Francesco Cavazza" di Bologna ad accettare un legato.
 ---------------------------------------------------------------------------------------------
@@ -12,7 +12,8 @@ Art. 1
 
 N.
 
-348. Decreto del Presidente della Repubblica 30 marzo 1949, col quale, sulla. proposta del Ministro per la pubblica istruzione, l'Istituto dei ciechi "Francesco Cavazza" di Bologna, viene autorizzato ad accettare il legato costituito dalla somma, di L. 500.000 (lire cinquecentomila) disposta in suo favore dalla, defunta signora Bussolari Rosa ved. Branchini con testamento olografo in data 14 settembre 1948.  
+1721. Decreto del Presidente della Repubblica 4 novembre 1951, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Istituto dei ciechi "Francesco Cavazza" di Bologna, viene autorizzato ad accettare il legato disposto in suo favore dalla defunta signora Adalgisa Fusaroli fu Stanislao vedova Camona con pubblici testamenti.  
   
-Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 21 giugno 1949
+Visto, il Guardasigilli: ZOLI  
+Registrato alla Corte dei conti, addi' 14 febbraio 1952  
+Atti dei Governo, registro n. 50, foglio n. 32. - FRASCA

@@ -1,92 +1,126 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1967 n. 300
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1986 n. 1005
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1967 n. 300
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1986 n. 1005
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
+
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 22 maggio 1939, numero 1166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-22;1166) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056) e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);.  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pub.  
-pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:  
+Dopo l'art. 430, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in geriatria.   
   
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:  
+Scuola di specializzazione in geriatria   
+Art. 431. - E' istituita la scuola di specializzazione in geriatria presso l'Universita' degli studi di Milano.   
+La scuola ha lo scopo di conferire la necessaria preparazione per la conoscenza approfondita dei problemi gerontologici e per la prevenzione, diagnosi, cura e riabilitazione in campo geriatrico. La scuola rilascia il titolo di specialista in geriatria.   
+Art. 432. - La scuola ha la durata di quattro anni.   
+Ciascun anno di corso prevede ottocento ore di insegnamento e di attivita' pratiche guidate.   
+In base alle strutture ed attrezzature disponibili, la scuola e' in grado di accettare il numero massimo di iscritti determinato in sei per ciascun anno di corso, per un totale di ventiquattro specializzandi.   
+Art. 433. - Per l'attuazione delle attivita' didattiche programmate dal consiglio della scuola provvede la facolta' di medicina e chirurgia.   
+Art. 434. - Sono ammessi alle prove per ottenere l'iscrizione i laureati in medicina e chirurgia.   
+Per l'iscrizione alla scuola e' richiesto il possesso del diploma di abilitazione all'esercizio della professione.   
+Art. 435. - La scuola comprende quattro aree di insegnamento e tirocinio professionale:   
+a) area di gerontologia;   
+b) area di medicina geriatrica;   
+c) area di gerontologia sociale;   
+d) area della riattivazione e riabilitazione.   
+Tali aree comprendono le seguenti materie:   
+a) Area di gerontologia:   
+biologia dell'invecchiamento;   
+farmacologia;   
+fisiologia dell'invecchiamento;   
+patologia geriatrica (I, II);   
+anatomia patologica.   
+b) Area di medicina geriatrica:   
+semeiotica generale geriatrica (I, II);   
+diagnostica per immagini e medicina nucleare;   
+tecniche e metodologie specifiche relative all'apparato cardiovascolare;   
+tecniche e metodologie specifiche relative all'apparato respiratorio;   
+tecniche e metodologie specifiche relative all'apparato gastroenterico;   
+ortopedia geriatrica;   
+oftalmologia geriatrica;   
+otorinolaringoiatria ed audiologia geriatrica;   
+parodontologia e odontoiatria geriatrica;   
+clinica geriatrica e terapia (I, II);   
+chirurgia geriatrica;   
+ginecologia geriatrica;   
+urologia geriatrica e tecniche di riabilitazione della vescica; dermatologia geriatrica;   
+neurologia geriatrica;   
+psicogeriatria;   
+pratica geriatrica extraospedaliera ed organizzazione sanitaria.   
+c) Area di gerontologia sociale:   
+geriatria sociale (I, II);   
+psicologia dell'anziano;   
+formazione del personale di assistenza geriatrica.   
+d) Area della riattivazione e riabilitazione:   
+riabilitazione motoria e neurologica;   
+riabilitazione respiratoria e cardiovascolare;   
+riabilitazione delle funzioni cerebrali superiori;   
+terapia occupazionale e geragogia.   
+Art. 436. - L'attivita' didattica comprende ogni anno ottocento ore di didattica formale e di tirocinio professionale guidato. Essa e' organizzata in una attivita' didattica teorico-pratica comune per tutti gli studenti (quattrocento ore come di seguito ripartite) ed in una attivita' didattica elettiva prevalentemente di carattere tecnico-applicativo di ulteriori quattrocento ore, rivolta all'approfondimento del curriculum corrispondente ad uno dei settori formativo-professionali (monte ore elettivo).   
+Art. 437. - La frequenza nelle diverse aree avviene pertanto come di seguito specificato:   
   
-Dopo l'art. 60, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in Diritto e procedura penale.  
-Scuola di specializzazione in Diritto e procedura penale  
-Art. 61. - Presso la Facolta' di giurisprudenza e' istituita la Scuola di specializzazione in Diritto e procedura penale.  
-Art. 62. - La Scuola di specializzazione ha lo scopo di promuovere le ricerche scientifiche nel campo del Diritto e della procedura penale, e nel campo delle scienze ausiliarie; e inoltre di promuovere lo studio teorico e pratico delle materie penalistiche al fine di creare un nucleo di persone altamente specializzate.  
-In questo quadro potra' eseguire ricerche particolari, in settori determinati delle discipline penalistiche.  
-Art. 63. - Alla Scuola di specializzazione possono iscriversi i laureati in Giurisprudenza, in Scienze politiche o in qualsiasi Universita' italiana o estera, qualunque sia la professione o carriera prescelta. Previa deliberazione del Consiglio direttivo della Scuola, possono iscriversi i laureati in Medicina e chirurgia in una Universita' italiana o estera, i quali per essere ammessi alla Scuola dovranno aver superato un esame integrativo interno di Diritto e procedura penale.  
-Alla Scuola di specializzazione possono inoltre iscriversi gli stranieri, i quali presentino titoli che, a giudizio delle autorita' accademiche, siano considerati equipollenti.  
-Art. 64. - La Scuola di specializzazione comprende tre gruppi di insegnamenti:  
+1° Anno:   
+biologia dell'invecchiamento . . . . . . . . . . . . . . . . . ore 80 fisiologia dell'invecchiamento . . . . . . . . . . . . . . . . ore 70 psicologia dell'anziano. . . . . . . . . . . . . . . . . . . . ore 60 semeiotica generale geriatrica I . . . . . . . . . . . . . . . ore 70 patologia geriatrica . . . . . . . . . . . . . . . . . . . . . ore 70 geriatrica sociale I . . . . . . . . . . . . . . . . . . . . . ore 50 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 2° Anno:   
+anatomia patologica. . . . . . . . . . . . . . . . . . . . . . ore 80 diagnostica per immagini e medicina nucleare . . . . . . . . . ore 70 farmacologia . . . . . . . . . . . . . . . . . . . . . . . . . ore 70 semeiotica generale geriatrica II . . . . . . . . . . . . . . . ore 50 patologia geriatrica II. . . . . . . . . . . . . . . . . . . . ore 70 tecniche e metodologie specifiche relative all'apparato cardiovascolare. . . . . . . . . . . . . . . . . . . . . . . . ore 20 tecniche e metodologie specifiche relative all'apparato respiratorio . . . . . . . . . . . . . . . . . . . . . . . . . ore 20 tecniche e metodologie specifiche relative all'apparato gastroenterico . . . . .  
+. . . . . . . . . . . . . . . . . . . ore 20 Monte ore elettivo. . .  
+. . . . . . . . . . . . . . . . . . . ore 400 3° Anno:   
+clinica geriatrica e terapia I . . . . . . . . . . . . . . . . ore 70 parodontologia e odontoiatria geriatrica . . . . . . . . . . . ore 10 otorinolaringoiatria e audiologia geriatrica . . . . . . . . . ore 20 oftalmologia geriatrica. . . . . . . . . . . . . . . . . . . . ore 20 dermatologia geriatrica. . . . . . . . . . . . . . . . . . . . ore 10 ginecologia geriatrica . . . . . . . . . . . . . . . . . . . . ore 20 ortopedia geriatrica . . . . . . . . . . . . . . . . . . . . . ore 20 urologia geriatrica e tecniche di riabilitazione della vescica. ore 20   
+neurologia geriatrica. . . . . . . . . . . . . . . . . . . . . ore 50 psicogeriatria . . . . . . . . . . . . . . . . . . . . . . . . ore 40 riabilitazione motoria e neurologica . . . . . . . . . . . . . ore 60 riabilitazione respiratoria e cardiovascolare. . . . . . . . . ore 60 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 4° Anno:   
+clinica geriatrica e terapia II . . . . . . . . . . . . . . . ore 120 chirurgia geriatrica . . . . . . . . . . . . . . . . . . . . . ore 50 riabilitazione delle funzioni cerebrali superiori. . . . . . . ore 60 geriatria sociale II . . . . . . . . . . . . . . . . . . . . . ore 60 terapia occupazionale e geragogia. . . . . . . . . . . . . . . ore 40 pratica geriatrica extraospedaliera e organizzazione sanitaria. ore 40   
+formazione del personale di assistenza geriatrica. . . . . . . ore 30 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
   
-Storico-comparativistico, Diritto positivo italiano, politico e criminologico.  
-Art. 65. - Gli insegnamenti sono i seguenti:  
-A) Gruppo storico-comparativistico:  
-Storia del diritto penale;  
-Storia del diritto processuale penale;  
-Diritto penale comparato;  
-Procedura penale comparata;  
-Storia delle dottrine penalistiche.  
-B) Gruppo di diritto positivo italiano:  
-Diritto penale - parte generale - (a carattere monografico);  
-Diritto penale - parte speciale - (a carattere monografico);  
-Procedura penale (a carattere monografico);  
-Diritto penale commerciale e industriale;  
-Diritto penale dell'economia;  
-Diritto penale del lavoro;  
-Diritto penale tributario;  
-Diritto penale militare e della navigazione;  
-Diritto dell'esecuzione penale;  
-Diritto di polizia;  
-Diritto internazionale penale;  
-Diritto della stampa e dello spettacolo;  
-Diritto minorile.  
-C) Gruppo politico-criminologico:  
-Scienza della legislazione penale;  
-Antropologia criminale;  
-Sociologia criminale;  
-Psicologia criminale;  
-Medicina legale;  
-Psichiatria e psicologia forense.  
-Art. 66. - Il corso della Scuola e' biennale e conduce al conseguimento di un diploma di "specializzazione in Diritto e procedura penale".  
-Il numero di posti per il primo anno e' limitato ad un massimo di 50 iscritti; l'ammissione avverra' in base ad una graduatoria determinata dal Consiglio direttivo.  
-Art. 67. - Gli iscritti alla Scuola dovranno scegliere, ai fini della frequenza e degli esami, almeno una materia del gruppo storico-comparativistico, sei materie del gruppo di diritto positivo (tra cui obbligatoriamente, uno dei corsi di Diritto penale, la Procedura penale, il Diritto penale commerciale e industriale) e tre materie del gruppo politico e criminologico.  
-Art. 68. - I corsi di lezione avranno la durata che il Consiglio direttivo della Scuola stabilira' nell'esercizio dei suoi poteri.  
-Art. 69. - Il Consiglio direttivo stabilira' di anno in anno quali saranno i corsi di esercitazioni, e fra questi lo studente dovra' sceglierne almeno due (di gruppi differenti).  
-Art. 70. - Gli esami di profitto saranno tenuti ogni anno. Saranno ammessi soltanto gli iscritti che dimostrino, mediante certificato degli insegnanti, di aver frequentato assiduamente le lezioni della materia del cui esame trattasi.  
-Art. 71. - Per il conseguimento del diploma, il candidato dovra' discutere una dissertazione scritta in una delle materie oggetto di insegnamento. La dissertazione dovra' avere carattere di originalita'. Potra' essere segnalata la dignita' di stampa.  
-Art. 72. - La Scuola e' collegata all'Istituto di diritto e procedura penale dell'Universita' che funziona da biblioteca e seminario di esercitazioni.  
-Art. 73. - Il Consiglio direttivo e' formato dal preside della Facolta' di giurisprudenza, dal professore o dai professori di Diritto e procedura penale e da un professore della Facolta' di medicina.  
-Art. 74. - La Scuola, oltre che coi mezzi derivanti le dalle tasse pagate dagli iscritti, potra' disporre di altri contributi pubblici o privati che le venissero destinati.  
-Art. 75. - La Scuola, mediante opportune convenzioni, potra' anche essere collegata ad altre Universita' e avvalersi degli apporti scientifici e finanziari delle medesime.  
-Art. 76. - La Scuola potra' istituire posti gratuiti o semigratuiti per giovani laureati, anche stranieri, particolarmente meritevoli e nei confronti dei quali appaia opportuno un aiuto economico.  
+Art. 438. - Durante i quattro anni di corso e' richiesta la frequenza nei reparti di degenza, ambulatori e laboratori dell'istituto di medicina interna nonche' degli enti ospedalieri appositamente convenzionati.   
+La frequenza nelle varie aree per complessive ottocento ore annue, compreso il monte ore elettivo di quattrocento ore annue, avverra' secondo delibera del consiglio della scuola, tale da assicurare ad ogni specializzando un adeguato periodo di esperienza e di formazione professionale.   
+Il consiglio della scuola ripartira' annualmente il monte ore elettivo.   
+Il consiglio della scuola predispone apposito libretto di formazione, che consenta allo specializzando ed al consiglio stesso il controllo dell'attivita' svolta e dell'acquisizione dei progressi compiuti, per sostenere gli esami annuali e finali.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 aprile 1967
+### Dato a Roma, addi' 31 ottobre 1986
 
-SARAGAT GUI
+COSSIGA
 
-Visto, il Guardasigilli: REALE
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 17 maggio 1967
+Visto, il Guardasigilli: ROGNONI
 
-Atti del Governo, registro n. 211, foglio n. 37. - GRECO
+Registrato alla Corte dei conti, addi' 3 febbraio 1987
+
+Registro n. 6 Istruzione, foglio n. 142

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 luglio 1951 n. 1718
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 febbraio 1952 n. 538
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 luglio 1951 n. 1718
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 febbraio 1952 n. 538
+===============================================================
 
 Autorizzazione all'Istituto dei ciechi di Milano ad accettare una eredita'.
 ---------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1718. Decreto del Presidente dalla Repubblica 17 luglio 1951, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Istituto dei ciechi di Milano viene autorizzato ad accettare, con il beneficio di inventario, l'eredita' disposta in suo favore dalla defunta prof.ssa Colombo Antonia, detta Antonietta, fu Gerolamo, con testamento olografo in data 20 dicembre 1945.  
+538. Decreto del Presidente della Repubblica 11 febbraio 1952, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Istituto dei ciechi di Milano viene autorizzato ad accettare l'eredita' disposta in suo favore dalla defunta signorina Gattorni Teresa fu Francesco.  
   
 Visto, il Guardasigilli: ZOLI  
-Registrato alla Corte dei conti, addi' 14 febbraio 1952  
-Atti del Governo, registro n. 50, foglio n. 31. - FRASCA
+Registrato alla Corte dei conti, addi' 19 maggio 1952  
+Atti del Governo, registro n. 53, foglio n. 61. - CARLOMAGNO

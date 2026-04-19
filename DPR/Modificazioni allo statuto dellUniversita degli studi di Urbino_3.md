@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 dicembre 1982 n. 1191
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1985 n. 859
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 dicembre 1982 n. 1191
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1985 n. 859
 ================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Urbino.
@@ -24,7 +24,7 @@ Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http:
 
 Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Vedute le proposte di modifica dello statuto formulata dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata [legge n. 615/1981](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;615);
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
 
 Veduto il parere del Consiglio universitario nazionale;
 
@@ -39,23 +39,27 @@ Articolo unico
 --------------
 
   
-Nell'art. 62, relativo al corso di laurea in materie letterarie, all'elenco degli insegnamenti complementari del corso di laurea in materie letterarie e' aggiunto il seguente nuovo insegnamento:  
-didattica del latino.  
-Nell'art. 63, relativo al corso di laurea in pedagogia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-didattica del latino.  
-Nell'art. 64, relativo al corso di laurea in lingue e letterature straniere, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-didattica del latino.  
+Art. 62 - nell'elenco degli insegnamenti complementari del corso di laurea in materie letterarie e' inserito il seguente insegnamento:  
+storia di una regione italiana (Marche).  
+Art. 63 - nell'elenco degli insegnamenti complementari del corso di laurea in pedagogia e' inserito il seguente insegnamento:  
+storia di una regione italiana (Marche).  
+Art. 64 - nell'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere, della facolta' di magistero, e' inserito il seguente insegnamento:  
+storia di una regione italiana (Marche).  
+Art. 68 - nell'elenco degli insegnamenti complementari del corso di laurea in sociologia, della facolta' di magistero, e' inserito il seguente insegnamento:  
+storia di una regione italiana (Marche).  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 dicembre 1982
+### Dato a Roma, addi' 27 settembre 1985
 
-PERTINI FALCUCCI
+COSSIGA
 
-Visto, il Guardasigilli: DARIDA
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 21 maggio 1983
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registro n. 37 Istruzione, foglio n. 220
+Registrato alla Corte dei conti, addi' 21 gennaio 1986
+
+Registro n. 2 Istruzione, foglio n. 98

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 marzo 1955 n. 221
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 aprile 1958 n. 877
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 marzo 1955 n. 221
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 aprile 1958 n. 877
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
@@ -10,17 +10,15 @@ Modificazioni allo statuto dell'Universita' degli studi di Torino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 20 aprile 1939, n. 1118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1118) e modificato con i [regi decreti 12 gennaio 1941, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-01-12;34); [27 aprile 1942, n. 571](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;571); [5 settembre 1942, n. 1237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1237); [24 ottobre 1942, n. 1438; con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1438) [4 febbraio 1947, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-02-04;196) e [7 marzo 1947, n. 1727 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-03-07;1727) [26 febbraio 1949, n. 430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;430); [21 aprile 1949, n. 613](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-21;613); [1 settembre 1949, n. 816](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-01;816); [13 marzo 1950, n. 599](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-03-13;599); [30 ottobre 1950, n. 1125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1125) [31 ottobre 1950, n. 1310](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1310); [30 giugno 1951, n. 1148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-30;1148); [27 ottobre 1951, n. 1794](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1794); [25 luglio 1952, n. 1352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1352); [16 ottobre 1952, n. 4554](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-16;4554); [26 ottobre 1952, n. 4506](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4506); [30 ottobre 1952, n. 4483](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-30;4483); [11 marzo 1953, n. 573](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;573); [11 marzo 1953, n. 576](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;576); [12 ottobre 1953, n. 1046](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-10-12;1046); [2 marzo 1954, n. 181](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-02;181) e [26 aprile 1954, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-04-26;741);
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788) e successivi;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello Statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -32,216 +30,141 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 9. Agli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di:
+Art. 80, relativo ai titoli di ammissione alla Scuola di perfezionamento in psicologia, in pedagogia e in psico-pedagogia, annessa alla Facolta' di magistero, e' cosi' integrato: "Titolo di ammissione e' la laurea in qualsiasi disciplina, compresi i diplomi conseguiti al termine dei corsi quadriennali degli ex Istituti superiori di magistero".
 
-16) "Storia delle dottrine politiche".
+Dopo l'art. 185, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione del Corso di perfezionamento in medicina scolastica, con il conseguente spostamento della numerazione degli articoli successivi.
 
-Art. 10. - Il secondo comma e' cosi' modificato:
+Corso di perfezionamento in medicina scolastica
 
-"Gli esami di istituzioni di diritto romano e di storia del diritto romano precedono quelli di diritto romano, di esegesi delle fonti del diritto romano, di diritto bizantino, di storia del diritto italiano e del diritto comune".
+Art. 186. - E' istituito presso la Facolta' di medicina e chirurgia un Corso di perfezionamento in medicina scolastica.
 
-Dopo il secondo comma dell'art. 10 sono aggiunti i seguenti:
+Il Corso ha sede nella Clinica pediatrica universitaria e la direzione e' affidata al suo direttore.
 
-"L'esame di diritto penale precede quello di procedura penale.
+Il materiale didattico ed i locali adibiti all'insegnamento sono anche quelli della Clinica pediatrica.
 
-L'esame di diritto costituzionale precede quelli di diritto amministrativo e di diritto internazionale.
+Art. 187. - Il Corso ha la durata di un anno accademico e di questo ne segue il calendario.
 
-L'esame di economia politica precede quello di scienza delle finanze.
+Art. 188. - Possono iscriversi al Corso i laureati in medicina e chirurgia.
 
-L'esame di storia del diritto italiano precede quello di diritto comune".
+Gli iscritti sono tenuti alla frequenza dei singoli insegnamenti, internati, esercitazioni, tirocini pratici e conferenze integrative.
 
-Art. 12. - Agli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto quello di:
+Art. 189. - Per ogni materia di insegnamento, o per gruppi di esse, dovra' essere sostenuto l'esame di profitto alla fine del corso. Per l'ammissione agli esami e' necessario aver conseguita l'attestazione di frequenza, sia agli insegnamenti fondamentali che alle conferenze.
 
-9) "Diritto ecclesiastico".
+Art. 190. - Per il conseguimento del certificato di frequenza e profitto occorre aver superato l'esame finale, che consiste nella presentazione e discussione di una dissertazione scritta, con contributo personale, su un tema attinente a materia di insegnamento del Corso, assegnato dal direttore.
 
-Art. 25. - Agli insegnamenti complementari del corso di laurea in materie letterarie e' aggiunto quello di:
+Art. 191. - Gli insegnamenti impartiti nel Corso sono i seguenti:
 
-7) "Storia della geografia (storia della scienza e delle esplorazioni)".
+Fondamentali: (con esame alla fine del corso):
 
-Art. 27. - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere e' aggiunto quello di:
+a) Auxologia e fisiopatologia dell'accrescimento.
 
-5) "Storia della geografia (storia della scienza e delle esplorazioni)".
+Esercitazioni;
 
-Art. 28. - Agli insegnamenti complementari del diploma di abilitazione alla vigilanza nelle scuole elementari e' aggiunto quello di:
+b) Igiene scolastica;
 
-2) "Storia della geografia (storia della scienza e delle esplorazioni)".
+c) Legislazione sanitaria scolastica;
 
-Art. 37. - Agli insegnamenti complementari del corso di laurea in chimica (indirizzo organico-biologico) e aggiunto quello di: 16) "Misure elettriche (corso speciale per chimici)".
+d) Diagnostica delle malattie infettive contagiose dell'infanzia. Internato presso la Clinica pediatrica;
 
-Art. 39. - Agli insegnamenti complementari del corso di laurea in fisica e' aggiunto quello di: 12) "Onde elettromagnetiche".
+e) Profilassi antitubercolare e delle malattie infettive.
 
-Art. 76. - Il secondo comma e' abrogato e sostituito dai seguenti:
+Tirocinio pratico;
 
-"L'ammontare delle tasse e soprattasse sara' deliberato anno per anno dal Consiglio di amministrazione su proposta del Senato accademico, udito il parere del Consiglio della Facolta' di lettere e filosofia.
+f) Psicopedagogia ed orientamento professionale. Esercitazioni;
 
-L'ammontare dei contributi sara' ugualmente stabilito anno per anno dal Consiglio di amministrazione, su proposta del Senato accademico, udite la Facolta' e scuole.
+g) Neuropsichiatria infantile.
 
-La tassa di diploma e' fissata nella misura di L. 6000, a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7)".
+Conferenze: (senza esame: obbligo di frequenza):
 
-L'art. 82 e' modificato nel senso che la materia "Geografia e topografia storica del mondo antico" e' considerata quale insegnamento aggiuntivo della scuola di discipline storiche e geografiche.
+Neuropsichiatria dell'eta' evolutiva;
 
-Art. 86. - Il secondo comma e' sostituito dal seguente:
+Oftalmologia scolastica;
 
-"Durante gli anni di iscrizione lo studente deve ottenere la firma di iscrizione e di frequenza per almeno tre corsi, scelti fra quelli costitutivi della scuola, e sostenere i relativi esami".
+Nozioni sugli ordinamenti scolastici;
 
-Art. 108. - Dopo il n. 23 e' aggiunto quanto appresso:
+Reumatologia infantile;
 
-24) Cardioangiochirurgia.
+Medicina sportiva dell'eta' evolutiva;
 
-All'art. 110, relativo ai titoli di ammissione alle scuole di perfezionamento e di specializzazione in medicina e chirurgia e' aggiunto il seguente nuovo comma:
+Dietetica nelle comunita' infantile;
 
-"Al diploma di specialista in cardioangiochirurgia possono aspirare i laureati in medicina e chirurgia che siano in possesso della libera docenza in patologia speciale chirurgica o in clinica chirurgica o del diploma di specialista in chirurgia generale".
+Dermatologia.
 
-Dopo l'art. 183, sono aggiunti i seguenti nuovi articoli, relativi all'istituzione della "Scuola di specializzazione in cardioangiochirurgia".
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Scuola di specializzazione in cardioangiochirurgia
+Dato a Roma, addi' 2 aprile 1958
 
-Art. 184. - Per il conseguimento del diploma di specialista in cardioangiochirurgia, si richiedono due anni di corso.
+GRONCHI
 
-Art. 185. - La scuola e' costituita presso l'Istituto di clinica chirurgica generale ed e' posta sotto la direzione e la diretta sorveglianza del titolare della cattedra di clinica chirurgica generale, coadiuvato da professori e docenti proposti e particolarmente preparati in tale materia.
+MORO
 
-Art. 186. - Il materiale didattico e' costituito dai degenti presso il centro di cardiochirurgia e presso il reparto di angiologia della clinica chirurgica, dal materiale anatomo-patologico e dalla documentazione raccolta nel museo, nell'archivio e nella biblioteca dell'Istituto.
-
-Art. 187. - Il corso si compone di insegnamenti fondamentali e di conferenze su argomenti speciali.
-
-Art. 188. - Gli insegnamenti fondamentali impartiti dalla scuola sono i seguenti:
-
-Embriologia, anatomia descrittiva e topografica dell'apparato circolatorio (1° anno);
-
-Fisiologia dell'apparato circolatorio (1° anno);
-
-Anatomia patologica (1° anno)
-
-Semeiotica e diagnostica delle cardiopatie chirurgiche (clinica strumentale, radiologica e di laboratorio) (1° anno);
-
-Semeiotica e diagnostica angiologica (clinica strumentale, radiologica e di laboratorio) (1° anno);
-
-Fisiopatologia del sistema neuro-vegetativo (1° anno);
-
-Patologia e terapia medica cardiologica (2° anno);
-
-Fisiopatologia e terapia medica angiologica (2° anno);
-
-Anestesia e rianimazione (2° anno);
-
-Terapia chirurgica e tecnica operativa (biennale).
-
-Durante i due anni di corso verranno tenute esercitazioni di diagnostica, di laboratorio, di tecnica operativa e dimostrazioni pratiche.
-
-Art. 189. - La frequenza alle lezioni, alle conferenze ed alle esercitazioni teoriche e pratiche e' obbligatoria.
-
-Art. 190. - Alla fine di ciascun anno accademico i perfezionandi che abbiano ottenuto le firme di frequenza dovranno sostenere un esame di profitto nelle materie fondamentali, il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo e per quelli che sono stati iscritti a quest'ultimo, all'esame di diploma.
-
-Art. 191. - Alla fine del secondo anno del corso ha luogo l'esame di diploma, che consiste nella discussione di una dissertazione scritta su argomento di cardiochirurgia e di angiologia, proposto o approvato dal direttore della scuola non oltre l'inizio del secondo anno di corso.
-
-La dissertazione, approvata dal direttore, dovra' essere depositata presso la Direzione della scuola almeno trenta giorni prima dell'esame.
-
-Art. 192. - La Commissione per gli esami di profitto e' costituita dal direttore della scuola, dal docente della materia e da un altro docente del corso.
-
-La Commissione per l'esame di diploma e' formata da sette membri presieduta dal preside della Facolta' o da un professore da lui delegato.
-
-Di essa faranno parte altri membri scelti dal preside fra i professori ed i liberi docenti dell'Universita' di Torino.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 1 marzo 1955
-
-EINAUDI
-
-ERMINI
-
-Visto, il Guardasigilli: DE PIETRO
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 2 aprile 1955 Atti del Governo, registro n. 90, foglio n. 22. - CARLOMAGNO
+alla Corte dei conti, addi' 12 settembre 1958 Atti del Governo, registro n. 114, foglio n. 15. - RELLEVA
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 20 aprile 1939, n. 1118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1118) e modificato con i [regi decreti 12 gennaio 1941, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-01-12;34); [27 aprile 1942, n. 571](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;571); [5 settembre 1942, n. 1237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1237); [24 ottobre 1942, n. 1438; con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1438) [4 febbraio 1947, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-02-04;196) e [7 marzo 1947, n. 1727 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-03-07;1727) [26 febbraio 1949, n. 430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;430); [21 aprile 1949, n. 613](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-21;613); [1 settembre 1949, n. 816](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-01;816); [13 marzo 1950, n. 599](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-03-13;599); [30 ottobre 1950, n. 1125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1125) [31 ottobre 1950, n. 1310](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1310); [30 giugno 1951, n. 1148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-30;1148); [27 ottobre 1951, n. 1794](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1794); [25 luglio 1952, n. 1352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1352); [16 ottobre 1952, n. 4554](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-16;4554); [26 ottobre 1952, n. 4506](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4506); [30 ottobre 1952, n. 4483](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-30;4483); [11 marzo 1953, n. 573](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;573); [11 marzo 1953, n. 576](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;576); [12 ottobre 1953, n. 1046](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-10-12;1046); [2 marzo 1954, n. 181](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-02;181) e [26 aprile 1954, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-04-26;741);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788) e successivi;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello Statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 9. Agli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di:  
-16) "Storia delle dottrine politiche".  
-Art. 10. - Il secondo comma e' cosi' modificato:  
-"Gli esami di istituzioni di diritto romano e di storia del diritto romano precedono quelli di diritto romano, di esegesi delle fonti del diritto romano, di diritto bizantino, di storia del diritto italiano e del diritto comune".  
-Dopo il secondo comma dell'art. 10 sono aggiunti i seguenti:  
-"L'esame di diritto penale precede quello di procedura penale.  
-L'esame di diritto costituzionale precede quelli di diritto amministrativo e di diritto internazionale.  
-L'esame di economia politica precede quello di scienza delle finanze.  
-L'esame di storia del diritto italiano precede quello di diritto comune".  
-Art. 12. - Agli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto quello di:  
-9) "Diritto ecclesiastico".  
-Art. 25. - Agli insegnamenti complementari del corso di laurea in materie letterarie e' aggiunto quello di:  
-7) "Storia della geografia (storia della scienza e delle esplorazioni)".  
-Art. 27. - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere e' aggiunto quello di:  
-5) "Storia della geografia (storia della scienza e delle esplorazioni)".  
-Art. 28. - Agli insegnamenti complementari del diploma di abilitazione alla vigilanza nelle scuole elementari e' aggiunto quello di:  
-2) "Storia della geografia (storia della scienza e delle esplorazioni)".  
-Art. 37. - Agli insegnamenti complementari del corso di laurea in chimica (indirizzo organico-biologico) e aggiunto quello di: 16) "Misure elettriche (corso speciale per chimici)".  
-Art. 39. - Agli insegnamenti complementari del corso di laurea in fisica e' aggiunto quello di: 12) "Onde elettromagnetiche".  
-Art. 76. - Il secondo comma e' abrogato e sostituito dai seguenti:  
-"L'ammontare delle tasse e soprattasse sara' deliberato anno per anno dal Consiglio di amministrazione su proposta del Senato accademico, udito il parere del Consiglio della Facolta' di lettere e filosofia.  
-L'ammontare dei contributi sara' ugualmente stabilito anno per anno dal Consiglio di amministrazione, su proposta del Senato accademico, udite la Facolta' e scuole.  
-La tassa di diploma e' fissata nella misura di L. 6000, a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7)".  
-L'art. 82 e' modificato nel senso che la materia "Geografia e topografia storica del mondo antico" e' considerata quale insegnamento aggiuntivo della scuola di discipline storiche e geografiche.  
-Art. 86. - Il secondo comma e' sostituito dal seguente:  
-"Durante gli anni di iscrizione lo studente deve ottenere la firma di iscrizione e di frequenza per almeno tre corsi, scelti fra quelli costitutivi della scuola, e sostenere i relativi esami".  
-Art. 108. - Dopo il n. 23 e' aggiunto quanto appresso:  
-24) Cardioangiochirurgia.  
-All'art. 110, relativo ai titoli di ammissione alle scuole di perfezionamento e di specializzazione in medicina e chirurgia e' aggiunto il seguente nuovo comma:  
-"Al diploma di specialista in cardioangiochirurgia possono aspirare i laureati in medicina e chirurgia che siano in possesso della libera docenza in patologia speciale chirurgica o in clinica chirurgica o del diploma di specialista in chirurgia generale".  
-Dopo l'art. 183, sono aggiunti i seguenti nuovi articoli, relativi all'istituzione della "Scuola di specializzazione in cardioangiochirurgia".  
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 80, relativo ai titoli di ammissione alla Scuola di perfezionamento in psicologia, in pedagogia e in psico-pedagogia, annessa alla Facolta' di magistero, e' cosi' integrato: "Titolo di ammissione e' la laurea in qualsiasi disciplina, compresi i diplomi conseguiti al termine dei corsi quadriennali degli ex Istituti superiori di magistero".   
+Dopo l'art. 185, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione del Corso di perfezionamento in medicina scolastica, con il conseguente spostamento della numerazione degli articoli successivi.   
   
-Scuola di specializzazione in cardioangiochirurgia  
-Art. 184. - Per il conseguimento del diploma di specialista in cardioangiochirurgia, si richiedono due anni di corso.  
-Art. 185. - La scuola e' costituita presso l'Istituto di clinica chirurgica generale ed e' posta sotto la direzione e la diretta sorveglianza del titolare della cattedra di clinica chirurgica generale, coadiuvato da professori e docenti proposti e particolarmente preparati in tale materia.  
-Art. 186. - Il materiale didattico e' costituito dai degenti presso il centro di cardiochirurgia e presso il reparto di angiologia della clinica chirurgica, dal materiale anatomo-patologico e dalla documentazione raccolta nel museo, nell'archivio e nella biblioteca dell'Istituto.  
-Art. 187. - Il corso si compone di insegnamenti fondamentali e di conferenze su argomenti speciali.  
-Art. 188. - Gli insegnamenti fondamentali impartiti dalla scuola sono i seguenti:  
-Embriologia, anatomia descrittiva e topografica dell'apparato circolatorio (1° anno);  
-Fisiologia dell'apparato circolatorio (1° anno);  
-Anatomia patologica (1° anno)  
-Semeiotica e diagnostica delle cardiopatie chirurgiche (clinica strumentale, radiologica e di laboratorio) (1° anno);  
-Semeiotica e diagnostica angiologica (clinica strumentale, radiologica e di laboratorio) (1° anno);  
-Fisiopatologia del sistema neuro-vegetativo (1° anno);  
-Patologia e terapia medica cardiologica (2° anno);  
-Fisiopatologia e terapia medica angiologica (2° anno);  
-Anestesia e rianimazione (2° anno);  
-Terapia chirurgica e tecnica operativa (biennale).  
-Durante i due anni di corso verranno tenute esercitazioni di diagnostica, di laboratorio, di tecnica operativa e dimostrazioni pratiche.  
-Art. 189. - La frequenza alle lezioni, alle conferenze ed alle esercitazioni teoriche e pratiche e' obbligatoria.  
-Art. 190. - Alla fine di ciascun anno accademico i perfezionandi che abbiano ottenuto le firme di frequenza dovranno sostenere un esame di profitto nelle materie fondamentali, il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo e per quelli che sono stati iscritti a quest'ultimo, all'esame di diploma.  
-Art. 191. - Alla fine del secondo anno del corso ha luogo l'esame di diploma, che consiste nella discussione di una dissertazione scritta su argomento di cardiochirurgia e di angiologia, proposto o approvato dal direttore della scuola non oltre l'inizio del secondo anno di corso.  
-La dissertazione, approvata dal direttore, dovra' essere depositata presso la Direzione della scuola almeno trenta giorni prima dell'esame.  
-Art. 192. - La Commissione per gli esami di profitto e' costituita dal direttore della scuola, dal docente della materia e da un altro docente del corso.  
-La Commissione per l'esame di diploma e' formata da sette membri presieduta dal preside della Facolta' o da un professore da lui delegato.  
-Di essa faranno parte altri membri scelti dal preside fra i professori ed i liberi docenti dell'Universita' di Torino.  
+Corso di perfezionamento in medicina scolastica   
+  
+Art. 186. - E' istituito presso la Facolta' di medicina e chirurgia un Corso di perfezionamento in medicina scolastica.   
+Il Corso ha sede nella Clinica pediatrica universitaria e la direzione e' affidata al suo direttore.   
+Il materiale didattico ed i locali adibiti all'insegnamento sono anche quelli della Clinica pediatrica.   
+Art. 187. - Il Corso ha la durata di un anno accademico e di questo ne segue il calendario.   
+Art. 188. - Possono iscriversi al Corso i laureati in medicina e chirurgia.   
+Gli iscritti sono tenuti alla frequenza dei singoli insegnamenti, internati, esercitazioni, tirocini pratici e conferenze integrative.   
+Art. 189. - Per ogni materia di insegnamento, o per gruppi di esse, dovra' essere sostenuto l'esame di profitto alla fine del corso. Per l'ammissione agli esami e' necessario aver conseguita l'attestazione di frequenza, sia agli insegnamenti fondamentali che alle conferenze.   
+Art. 190. - Per il conseguimento del certificato di frequenza e profitto occorre aver superato l'esame finale, che consiste nella presentazione e discussione di una dissertazione scritta, con contributo personale, su un tema attinente a materia di insegnamento del Corso, assegnato dal direttore.   
+Art. 191. - Gli insegnamenti impartiti nel Corso sono i seguenti:   
+Fondamentali: (con esame alla fine del corso):   
+a) Auxologia e fisiopatologia dell'accrescimento.  
+Esercitazioni;   
+b) Igiene scolastica;   
+c) Legislazione sanitaria scolastica;   
+d) Diagnostica delle malattie infettive contagiose dell'infanzia. Internato presso la Clinica pediatrica;   
+e) Profilassi antitubercolare e delle malattie infettive.  
+Tirocinio pratico;   
+f) Psicopedagogia ed orientamento professionale. Esercitazioni;  
+g) Neuropsichiatria infantile.   
+Conferenze: (senza esame: obbligo di frequenza):   
+Neuropsichiatria dell'eta' evolutiva;   
+Oftalmologia scolastica;   
+Nozioni sugli ordinamenti scolastici;   
+Reumatologia infantile;   
+Medicina sportiva dell'eta' evolutiva;   
+Dietetica nelle comunita' infantile;   
+Dermatologia.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 1 marzo 1955
+### Dato a Roma, addi' 2 aprile 1958
 
-EINAUDI ERMINI
+GRONCHI MORO
 
-Visto, il Guardasigilli: DE PIETRO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 2 aprile 1955
+Registrato alla Corte dei conti, addi' 12 settembre 1958
 
-Atti del Governo, registro n. 90, foglio n. 22. - CARLOMAGNO
+Atti del Governo, registro n. 114, foglio n. 15. - RELLEVA

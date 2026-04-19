@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 940
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1964 n. 696
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 940
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1964 n. 696
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -12,12 +12,12 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169) e modificato con [regio decreto 13 ottobre 1929, n. 2481](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-13;2481), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -26,42 +26,37 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 7. - All'elenco degli insegnamenti complementari nel corso di laurea in giurisprudenza sono aggiunti seguenti:  
-Storia dei trattati e politica internazionale;  
-Diritto bancario;  
-Diritto delle assicurazioni;  
-Diritto e procedura penale militare;  
-Diritto penale commerciale.  
-  
-Art. 30. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:  
-Storia delle civilta' preclassiche;  
-Ecologia antica;  
-Prospezioni archeologiche;  
-Paleoantropologia;  
-Storia dell'Asia anteriore antica;  
-Civilta' preclassiche del vicino oriente;  
-Antichita' cipriote;  
-Egittologia;  
-Archeologia dei paesi del mondo arabo;  
-Archeologia medioevale;  
-Letteratura popolare;  
-Filologia medioevale e umanistica;  
-Storia della scienza;  
-Lingua e letteratura serbo-croata.  
-  
-Art. 34. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia e' aggiunto il seguente:  
-Storia della scienza;  
+Art. 28. - Dall'elenco degli istituti della Facolta' di economia e commercio e' soppresso il n. 10) "Istituto di studi giuridici", mentre vengono istituiti i seguenti istituti, con il conseguente spostamento della successiva numerazione:  
+10) Istituto di diritto pubblico;  
+11) Istituto di diritto privato.  
+Art. 83. - Agli insegnamenti complementari del corso di laurea in Chimica (indirizzo inorganico-chimico-fisico) sono aggiunti i seguenti:  
+Spettroscopia analitica;  
+(\*) Chimica inorganica superiore;  
+Chimica delo stato solido;  
+(\*) Chimica fisica organica.  
+(\*) Chimica analitica strumentale.  
+Agli insegnamenti complementari per l'indirizzo organico-biologico sono aggiunti i seguenti:  
+(\*) Chimica organica superiore;  
+Chimica delle sostanze coloranti;  
+Petrolchimica;  
+Chimica degli intermedi;  
+Chimica applicata organica;  
+(\*) Chimica fisica organica;  
+(\*) Chimica analitica strumentale.  
+Art. 90, relativo alle propedeuticita' degli esami nel corso di laurea in Scienze biologiche, e' aggiunta la seguente disposizione:  
+g) non potra' essere ammesso a sostenere l'esame di Botanica senza aver prima superato l'esame di Chimica generale ed inorganica.  
+Art. 94. - All'elenco degli istituti annessi alla Facolta' di scienze matematiche fisiche e naturali sono aggiunti quelli di "Istituto botanico" e "Ortobotanico" in sostituzione dell'istituto di botanica ed orto botanico.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1972
+### Dato a Roma, addi' 12 luglio 1964
 
-LEONE SCALFARO
+SEGNI GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 17 gennaio 1973
+Registrato alla Corte dei conti, addi' 17 agosto 1964
 
-Atti di Governo, registro n. 255, foglio n. 42. - VALENTINI
+Atti del Governo, registro n. 185, foglio n. 41. - VILLA

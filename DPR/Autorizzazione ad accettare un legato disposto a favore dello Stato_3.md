@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1971 n. 1224
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1980 n. 976
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1971 n. 1224
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1980 n. 976
+==============================================================
 
 Autorizzazione ad accettare un legato disposto a favore dello Stato.
 --------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1224. Decreto del Presidente della Repubblica 18 ottobre 1971, col quale, sulla proposta del Ministro per la pubblica istruzione, viene autorizzata l'accettazione del legato disposto a favore dello Stato dall'avv. Ottavio Simoneschi con testamento olografo del 12 gennaio 1957, integrato da tre codicilli del 12 febbraio 1957, 21 gennaio 1958 e 1 novembre 1959 come da atto notarile dell'11 ottobre 1960, rep. n. 21876, a rogito dott. Valente Vincenti, notaio in Montepulciano, consistente in raccolte d'interesse artistico, letterario e scientifico da custodire in Pisa a cura della locale soprintendenza ai monumenti e gallerie ed esposte al pubblico.  
+976. Decreto del Presidente della Repubblica 24 ottobre 1980, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato del legato disposto dalla sig.ra Olga Ferroni ved. Chiarini con testamento olografo 14 dicembre 1972, pubblicato con atto 4 marzo 1977, n. 44077 di repertorio, a rogito dott. Alessandro Gallerani, notaio in Bologna, consistente in una raccolta di quindici quadri di autori celebri delle scuole italiane, i quali rivestono un importante interesse artistico e storico, da destinare alla Pinacoteca nazionale di Bologna.  
   
-Visto, il Guardasigilli: COLOMBO  
-Registrato alla Corte dei conti, addi' 7 gennaio 1972  
-Atti del Governo, registro n. 245, foglio n. 226. - VALENTINI
+Visto, il Guardasigilli: SARTI  
+Registrato alla Corte dei conti, addi' 27 dicembre 1980  
+Registro n. 23 Beni culturali, foglio n. 206

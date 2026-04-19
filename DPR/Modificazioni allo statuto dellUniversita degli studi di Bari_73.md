@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 537
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1977 n. 481
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 537
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1977 n. 481
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169) e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,117 +20,191 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla
------
+Sulla proposta del Ministro per la pubblica istruzione;
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 191 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in medicina preventiva dei lavoratori e psicotecnica.
+
+L'art. 246, secondo comma, relativo alla scuola di specializzazione in oculistica, e' modificato nel senso che il numero degli iscritti e' stabilito in trentadue per i quattro anni di corso (otto per ogni anno di corso).
+
+Dopo l'art. 264, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in medicina preventiva dei lavoratori e psicotecnica.
+
+Scuola di specializzazione in medicina preventiva dei lavoratori e psicotecnica.
+
+La scuola di specializzazione in medicina preventiva dei lavoratori e psicotecnica che conferisce il titolo di specialista in medicina preventiva dei lavoratori e psicotecnica a laureati in medicina e chirurgia, e' istituita presso l'istituto di medicina del lavoro dell'Universita' di Bari. La direzione della scuola e' affidata al titolare di medicina del lavoro di detta Universita'. La scuola dispone delle attrezzature e delle opportunita' didattiche dell'istituto di medicina del lavoro.
+
+Inoltre potra' disporre delle attrezzature di istituti i cui docenti collaboreranno allo svolgimento dei nuovi insegnamenti.
+
+Art. 266. - Durante il corso, che ha la durata di tre anni, le lezioni relative alle materie indicate nel piano verranno integrate da esercitazioni di ricerca diagnostica differenziale, di ricerca ecologica, di valutazione medico-biologica e di controllo tecnico dei limiti di sicurezza del lavoro. Tali esercitazioni saranno collegate a visite didattiche negli ambienti di lavoro.
+
+La frequenza alle lezioni, alle esercitazioni ed alle visite negli ambienti di lavoro e' obbligatoria secondo le modalita' che saranno enunciate dalla direzione del corso e avranno per fine la programmazione e la organizzazione pratica della medicina preventiva dei lavoratori e psicotecnica nel lavoro agricolo, artigianale e industriale. Al terzo anno di corso le esercitazioni si svolgeranno sotto forma di ricerca di gruppo interdisciplinare per la costruzione e la validazione di modelli operativi.
+
+Art. 267. - Il numero massimo degli iscritti e' di venti per anno di corso. La selezione dei candidati aspiranti all'ammissione avverra' per titoli ed esami.
+
+Art. 268. - Alla fine di ogni anno i medici chirurghi specializzandi che abbiano ottenuto la firma di frequenza, dovranno sostenere un esame di profitto nelle materie di insegnamento annuale.
+
+Art. 269. - L'esame di diploma consiste nella discussione di una dissertazione scritta su un argomento di medicina preventiva dei lavoratori e psicotecnica che deve essere approvato dalla direzione della scuola; la dissertazione deve essere presentata per l'approvazione almeno un mese prima delle prove di esame. Le commissioni per gli esami di profitto e gli esami di diploma saranno nominate secondo le norme generali.
+
+Il piano di studi e' il seguente:
+
+1° Anno:
+
+dottrina generale della medicina preventiva;
+
+dottrina generale della medicina preventiva dei lavoratori e psicotecnica.
+
+2° Anno:
+
+ecologia umana ed ecologia medica dei lavoratori;
+
+tossicologia dei lavoratori;
+
+basi biologiche, cliniche, medico-legali per l'abilitazione e la riabilitazione al lavoro specifico;
+
+definizione biologica, medica, psicofisiologica dei limiti di sicurezza consentiti nel lavoro.
+
+3° Anno:
+
+organizzazione e metodologia della medicina preventiva dei lavoratori e psicotecnica in funzione dei rischi connessi al lavoro nell'uomo e nella donna nell'eta' evolutiva, nell'eta' adulta e nella senescenza.
+
+Il piano di studio sara' svolto mediante le seguenti materie di insegnamento:
+
+1° Anno:
+
+1) basi biologiche cliniche della medicina preventiva (evoluzione del processo scientifico e costituzione di modelli operativi in medicina preventiva);
+
+2) elementi di organizzazione artigianale, agricola, industriale, (aggiornamento sul valore e sul significato culturale e socio-economico della organizzazione del lavoro agli effetti della salute dei lavoratori);
+
+3) fisiologia della capacita' del lavoro e della fatica (teoria della fatica, fatica ischemica; fattori condizionati di origine endogena ed esogena);
+
+4) psicologia e psicofisiologia della capacita' del lavoro e della fatica (teorie sulla motivazione; fatica sensoriale, fatica mentale; vigilanza);
+
+5) capacita' di lavorare e fatica nella malattia (malattie metaboliche, endocrine, neurologiche, sensoriali, ecc.);
+
+6) basi biologiche cliniche nella medicina preventiva dei lavoratori e psicotecnica (evoluzione del processo scientifico e costituzione dei modelli operativi in medicina preventiva dei lavoratori e psicotecnica).
+
+2° Anno:
+
+1) effetti dei fattori ambientali sui sistemi biologici (mutageni);
+
+2) analisi dei sistemi in ecologia umana;
+
+3) ecologia medica dei lavoratori (distribuzione delle malattie dei lavoratori in rapporto alla natura del loro lavoro);
+
+4) tossicologia dei lavoratori morfologica, metabolica e comportamentale;
+
+5) basi biologiche e cliniche per l'abilitazione e la riabilitazione dal lavoro;
+
+6) basi medico-legali per l'abilitazione e la riabilitazione al lavoro;
+
+7) definizione biologica, medica psicofisiologica dei limiti di sicurezza consentiti nel lavoro.
+
+3° Anno:
+
+1) controllo tecnico e medico dei limiti di sicurezza consentiti nei posti di lavoro e prevenzione della tossicologia dei lavoratori;
+
+2) controllo tecnico e medico degli scambi di energia e prevenzione della fatica dei lavoratori;
+
+3) controllo psicofisiologico per la prevenzione della patologia sensoriale e della psicopatologia dei lavoratori;
+
+4) controllo medico della sicurezza del lavoro e prevenzione degli infortuni dei lavoratori;
+
+5) organizzazione e metodologia della prevenzione medica in funzione dei rischi connessi al lavoro nell'uomo e nella donna in eta' evolutiva, in eta' adulta e nella senescenza.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 25 maggio 1977
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 28 luglio 1977 Registro n. 88 Istruzione, foglio n. 395
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 192 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' aggiunta la scuola di specializzazione in audiologia.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169) e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
+Decreta:   
   
-Gli articoli 260 e 261, relativi alla scuola di specializzazione in reumatologia, sono soppressi e sostituiti dai seguenti:   
-  
-Scuola di specializzazione in reumatologia   
-Art. 260. - La scuola di specializzazione in reumatologia ha sede presso la cattedra di reumatologia e conferisce il diploma di specialista in reumatologia.   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.   
-Il numero massimo degli allievi e' di tre per anno di corso e complessivamente di dodici iscritti per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-Le materie di insegnamento sono le seguenti:   
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 191 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in medicina preventiva dei lavoratori e psicotecnica.   
+L'art. 246, secondo comma, relativo alla scuola di specializzazione in oculistica, e' modificato nel senso che il numero degli iscritti e' stabilito in trentadue per i quattro anni di corso (otto per ogni anno di corso).   
+Dopo l'art. 264, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in medicina preventiva dei lavoratori e psicotecnica.   
+Scuola di specializzazione in medicina preventiva dei lavoratori e psicotecnica.   
+La scuola di specializzazione in medicina preventiva dei lavoratori e psicotecnica che conferisce il titolo di specialista in medicina preventiva dei lavoratori e psicotecnica a laureati in medicina e chirurgia, e' istituita presso l'istituto di medicina del lavoro dell'Universita' di Bari. La direzione della scuola e' affidata al titolare di medicina del lavoro di detta Universita'. La scuola dispone delle attrezzature e delle opportunita' didattiche dell'istituto di medicina del lavoro.   
+Inoltre potra' disporre delle attrezzature di istituti i cui docenti collaboreranno allo svolgimento dei nuovi insegnamenti.   
+Art. 266. - Durante il corso, che ha la durata di tre anni, le lezioni relative alle materie indicate nel piano verranno integrate da esercitazioni di ricerca diagnostica differenziale, di ricerca ecologica, di valutazione medico-biologica e di controllo tecnico dei limiti di sicurezza del lavoro. Tali esercitazioni saranno collegate a visite didattiche negli ambienti di lavoro.   
+La frequenza alle lezioni, alle esercitazioni ed alle visite negli ambienti di lavoro e' obbligatoria secondo le modalita' che saranno enunciate dalla direzione del corso e avranno per fine la programmazione e la organizzazione pratica della medicina preventiva dei lavoratori e psicotecnica nel lavoro agricolo, artigianale e industriale. Al terzo anno di corso le esercitazioni si svolgeranno sotto forma di ricerca di gruppo interdisciplinare per la costruzione e la validazione di modelli operativi.   
+Art. 267. - Il numero massimo degli iscritti e' di venti per anno di corso. La selezione dei candidati aspiranti all'ammissione avverra' per titoli ed esami.   
+Art. 268. - Alla fine di ogni anno i medici chirurghi specializzandi che abbiano ottenuto la firma di frequenza, dovranno sostenere un esame di profitto nelle materie di insegnamento annuale.   
+Art. 269. - L'esame di diploma consiste nella discussione di una dissertazione scritta su un argomento di medicina preventiva dei lavoratori e psicotecnica che deve essere approvato dalla direzione della scuola; la dissertazione deve essere presentata per l'approvazione almeno un mese prima delle prove di esame. Le commissioni per gli esami di profitto e gli esami di diploma saranno nominate secondo le norme generali.   
+Il piano di studi e' il seguente:   
 1° Anno:   
-1) anatomia, istologia e morfogenesi dell'apparato locomotore;   
-2) fisiologia e fisiopatologia dell'apparato locomotore;   
-3) biochimica di interesse reumatologico;   
-4) microbiologia in relazione alle malattie reumatiche;   
-5) immunologia reumatologica;   
-6) semeiotica fisica e strumentale in reumatologia (biennale) I.   
+dottrina generale della medicina preventiva;   
+dottrina generale della medicina preventiva dei lavoratori e psicotecnica.   
 2° Anno:   
-1) semeiotica fisica e strumentale in reumatologia (biennale) II;   
-2) esami di laboratorio in reumatologia;   
-3) diagnostica radiologica delle reumo-artropatie;   
-4) farmacologia reumatologica;   
-5) anatomia ed istologia patologica delle malattie reumatiche;   
-6) clinica e terapia delle malattie reumatiche (triennale) I. 3° Anno:   
-1) clinica e terapia ortopedica (biennale) I;   
-2) fisiochinesiterapia reumatologica;   
-3) idro-climatologia di interesse reumatologico;   
-4) reumo-artropatie professionali;   
-5) clinica e terapia delle malattie reumatiche (triennale) II. 4° Anno:   
-1) epidemiologia e aspetti sociali dei reumatismi;   
-2) riabilitazione del malato reumatico;   
-3) clinica e terapia ortopedica (biennale) II;   
-4) clinica e terapia delle malattie reumatiche (triennale) III.   
-La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.   
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.   
-Alla fine di ogni corso gli iscritti, per essere ammessi agli anni successivi, debbono superare le prove di esame sulle materie impartite durante l'anno. Per le materie biennali o triennali l'esame e' sostenuto alla del biennio o del triennio.   
-Al termine del corso di studi per il conseguimento del diploma di specialista in reumatologia gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
-
-Art. 3
-------
-
-  
-  
-Dopo l'art. 265, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in audiologia.   
-Scuola di specializzazione in audiologia   
-Art. 266. - La scuola ha sede presso l'istituto di clinica otorinolaringoiatrica dell'Universita' di Bari.   
-La durata del corso e' fissata in tre anni.   
-Il numero degli iscritti alla scuola, complessivo per i tre anni, e' fissato ad un massimo di nove (tre per anno).   
-L'esercitazione pratica nei reparti e' obbligatoria per tutti i tre anni di corso e si svolge presso l'istituto di clinica otorinolaringoiatrica.   
-Art. 267. - L'ammissione alla scuola avviene previo superamento di un esame con prova scritta e orale, inteso a chiarire il grado di preparazione generale del candidato ed i suoi specifici interessi ed attitudini verso l'audiologia. Sono da considerarsi titoli preferenziali, a parita' di risultato dell'esame di ammissione:   
-voto di laurea in medicina e chirurgia;   
-aver conseguito la laurea presso l'Universita' di Bari;   
-aver frequentato come studente interno un istituto di audiologia o di clinica otorinolaringoiatrica;   
-aver svolto la tesi di laurea su argomenti di audiologia o di otorinolaringoiatria;   
-eventuali pubblicazioni.   
-Non sono ammesse abbreviazioni di corso.   
-Art. 268. - Le materie di insegnamento sono:   
-1° Anno:   
-nozioni di fisica acustica;   
-anatomia dell'orecchio, delle voci e dei centri acustici e vestibolari;   
-fisiologia dell'orecchio, delle vie e dei centri acustici e vestibolari;   
-nozioni di psichiatria.   
-2° Anno:   
-tecniche audiometriche;   
-nozioni di neurologia;   
-nozioni di vestibologia.   
+ecologia umana ed ecologia medica dei lavoratori;   
+tossicologia dei lavoratori;   
+basi biologiche, cliniche, medico-legali per l'abilitazione e la riabilitazione al lavoro specifico;   
+definizione biologica, medica, psicofisiologica dei limiti di sicurezza consentiti nel lavoro.   
 3° Anno:   
-patologia dell'udito;   
-terapia medica, chirurgica e protesica della sordita';   
-la sordita' sotto il profilo sociale;   
-la rieducazione dell'ipoacusico.   
-Per accedere al secondo ed al terzo anno e' obbligatorio il superamento di tutti gli esami, rispettivamente del primo e del secondo anno.   
-Gli esami possono essere sostenuti solamente in due sessioni, una estiva ed una autunnale.   
-Art. 269. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine. Gli insegnanti sono proposti dal direttore della scuola e scelti tra i titolari di altre cattedre della facolta' di medicina e chirurgia dell'Universita' di Bari, tra i liberi docenti in audiologia ed in altre materie.   
-Il diploma di specialista in audiologia viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinico o sperimentale.   
-Art. 270. - Gli iscritti alla scuola di specializzazione sono tenuti a pagare le tasse e soprattasse secondo quanto stabilito per gli studenti della facolta' di medicina e chirurgia nonche' la tassa di diploma nella misura di L. 6.000 ai sensi dell'art. 7 della legge 18 dicembre 1951. Sono tenuti altresi' al pagamento di speciali contributi nella misura che e' determinata dal consiglio di amministrazione previo parere della facolta' su proposta del direttore della scuola.   
+organizzazione e metodologia della medicina preventiva dei lavoratori e psicotecnica in funzione dei rischi connessi al lavoro nell'uomo e nella donna nell'eta' evolutiva, nell'eta' adulta e nella senescenza.   
+Il piano di studio sara' svolto mediante le seguenti materie di insegnamento:   
+1° Anno:   
+1) basi biologiche cliniche della medicina preventiva (evoluzione del processo scientifico e costituzione di modelli operativi in medicina preventiva);   
+2) elementi di organizzazione artigianale, agricola, industriale, (aggiornamento sul valore e sul significato culturale e socio-economico della organizzazione del lavoro agli effetti della salute dei lavoratori);   
+3) fisiologia della capacita' del lavoro e della fatica (teoria della fatica, fatica ischemica; fattori condizionati di origine endogena ed esogena);   
+4) psicologia e psicofisiologia della capacita' del lavoro e della fatica (teorie sulla motivazione; fatica sensoriale, fatica mentale; vigilanza);   
+5) capacita' di lavorare e fatica nella malattia (malattie metaboliche, endocrine, neurologiche, sensoriali, ecc.);   
+6) basi biologiche cliniche nella medicina preventiva dei lavoratori e psicotecnica (evoluzione del processo scientifico e costituzione dei modelli operativi in medicina preventiva dei lavoratori e psicotecnica).   
+2° Anno:   
+1) effetti dei fattori ambientali sui sistemi biologici (mutageni);   
+2) analisi dei sistemi in ecologia umana;   
+3) ecologia medica dei lavoratori (distribuzione delle malattie dei lavoratori in rapporto alla natura del loro lavoro);   
+4) tossicologia dei lavoratori morfologica, metabolica e comportamentale;   
+5) basi biologiche e cliniche per l'abilitazione e la riabilitazione dal lavoro;   
+6) basi medico-legali per l'abilitazione e la riabilitazione al lavoro;   
+7) definizione biologica, medica psicofisiologica dei limiti di sicurezza consentiti nel lavoro.   
+3° Anno:   
+1) controllo tecnico e medico dei limiti di sicurezza consentiti nei posti di lavoro e prevenzione della tossicologia dei lavoratori;   
+2) controllo tecnico e medico degli scambi di energia e prevenzione della fatica dei lavoratori;   
+3) controllo psicofisiologico per la prevenzione della patologia sensoriale e della psicopatologia dei lavoratori;   
+4) controllo medico della sicurezza del lavoro e prevenzione degli infortuni dei lavoratori;   
+5) organizzazione e metodologia della prevenzione medica in funzione dei rischi connessi al lavoro nell'uomo e nella donna in eta' evolutiva, in eta' adulta e nella senescenza.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 maggio 1979
+### Dato a Roma, addi' 25 maggio 1977
 
-PERTINI SPADOLINI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 23 ottobre 1979
+Registrato alla Corte dei conti, addi' 28 luglio 1977
 
-Registro n. 77 Istruzione, foglio n. 43
+Registro n. 88 Istruzione, foglio n. 395

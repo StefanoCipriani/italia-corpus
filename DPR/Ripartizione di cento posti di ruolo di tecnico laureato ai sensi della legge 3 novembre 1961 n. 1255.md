@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 settembre 1965 n. 1164
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 settembre 1963 n. 1372
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 settembre 1965 n. 1164
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 settembre 1963 n. 1372
 =================================================================
 
 Ripartizione di cento posti di ruolo di tecnico laureato ai sensi della legge 3 novembre 1961, n. 1255.
@@ -12,314 +12,232 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Vista la [legge 3 novembre 1961, n. 1255](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-11-03;1255), con la quale e' stato, fra l'altro, istituito il ruolo dei tecnici laureati per gli istituti universitari;  
+Vista la [legge 3 novembre 1961, n. 1255](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-11-03;1255), con la quale e' stato fra l'altro istituito il ruolo dei tecnici laureati per gli Istituti universitari;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-I cento posti di ruolo di tecnico laureato istituiti, con effetto dal 1 luglio 1965, con la [legge 3 novembre 1961, n. 1255](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-11-03;1255), sono ripartiti come appresso:  
+I cento posti di ruolo di tecnico laureato istituiti, con effetto dal 1 luglio 1963, con la [legge 3 novembre 1961, n. 1255](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-11-03;1255), sono ripartiti come appresso:  
 Numero  
-UNIVERSITA DI BARI  
-dei posti  
-Facolta di Medicina e chirurgia:  
-Istituto di Patologia speciale chirurgica e  
-propedeutica clinica........... 1  
-Facolta di Scienze matematiche, fisiche e  
-naturali:  
-Istituto di Chimica analitica.............. 1  
-Facolta di ingegneria:  
-Istituto di Chimica applicata.............. 1  
-Facolta di Agraria:  
-Istituto di Costruzioni rurali............. 1  
-Centro di Microscopia elettronica.......... 1  
-  
-UNIVERSITA DI BOLOGNA  
-  
-Facolta di Economia e commercio:  
-Centro meccanografico Istituto d statistica 1  
-Facolta di Medicina e chirurgia:  
-Istituto di Anatomia topografica........... 1  
-Istologia ed embriologia generale.......... 1  
-Facolta di Scienze matematiche, fisiche e  
-naturali:  
-Istituto di Matematica (calcolatore  
-elettronico)............................... 1  
-Istituto Zoologia.......................... 1  
-Facolta di Agraria:  
-Istituto di Economia e politica agraria.... 1  
-  
-UNIVERSITA DI CAGLIARI  
-  
-Facolta', di Scienze matematiche, fisiche e  
-naturali:  
-Istituto di Chimica (analisi chimica  
-quantitativa).............................. 1  
-Facolta di ingegneria:  
-Istituto di Chimica applicata e etallurgica 1  
-Istituto Architettura...................... 1  
-  
-UNIVERSITA DI CATANIA  
+dei posti Universita di Bari  
   
 Facolta di Giurisprudenza:  
-Istituto di Sociologia..................... 1  
+Seminario giuridico.................................. 1  
+Facolta di Economia e commercio:  
+Istituito di Merceologia............................. 1  
 Facolta di Medicina e chirurgia:  
-Istituto di Medicina legale................ 1  
-Istituto Malattie infettive................ 1  
-UNIVERSITA DI FERRARA  
-Facolta di Medicina e chirurgia:  
-Istituto di Microbiologia.................. 1  
-UNIVERSITA DI FIRENZE  
-Facolta di Medicina e chirurgia:  
-Istituto di Clinica ostetrica eginecologica 1  
-Facolta di Scienze matematiche, fisiche e  
-naturali:  
-Istituto di Fisica generale................ 1  
-Istituto Fisica teorica.................... 1  
-Facolta di Farmacia:  
-Istituto di Chimica organica............... 1  
-Facolta di Agraria:  
-Istituto di Botanica....................... 1  
+Istituto di Medicina legale.......................... 1  
+Facolta di Scienze matematiche fisiche e naturali:  
+Istituto di Chimica fisica........................... 1  
+Facolta di Ingegneria:  
+Istituto di Elettrotecnica........................... 1  
+Centro di Microscopia elettronica.................... 1  
   
-UNIVERSITA DI GENOVA  
-  
-Facolta di Medicina e chirurgia:  
-Istituto di Medicina legale e delle  
-assicurazioni.............................. 1  
-Facolta di Scienze matematiche, fisiche e  
-naturali:  
-Istituto di Chimica organica............... 1  
-Facolta di ingegneria:  
-Istituto di Meccanica applicata alle  
-macchine................................... 1  
-Istituto Macchine.......................... 1  
-  
-UNIVERSITA DI MACERATA  
-  
-Facolta di Giurisprudenza:  
-Istituto di Storia del diritto............. 1  
-  
-UNIVERSITA DI MESSINA  
-  
-Facolta di Scienze matematiche, fisiche e  
-naturali:  
-Istituto di Zoologia....................... 1  
-Istituto Fisica............................ 1  
-  
-UNIVERSITA DI MILANO  
-  
-Facolta di Medicina e chirurgia:  
-Istituto di Clinica dermosifilopatica...... 1  
-Facolta di Scienze matematiche, fisiche e  
-naturali:  
-Istituto di Chimica........................ 1  
-Facolta di Agraria:  
-Istituto di Chimica analitica I............ 1  
-  
-UNIVERSITA DI MODENA  
-  
-Facolta di Medicina e chirurgia:  
-Istituto di Anatomia edistologia patologica 1  
-Facolta di Scienze matematiche, fisiche e  
-naturali:  
-Istituto di Mineralogia.................... 1  
-  
-UNIVERSITA DI NAPOLI  
+Universita di Bologna  
   
 Facolta di Economia e commercio:  
-Istituto di Tecnica aziendale.............. 1  
-Facolta di Scienze matematiche, fisiche e  
-naturali:  
-Istituto di Fisica superiore............... 1  
-Istituto Matematica........................ 1  
-Facolta di ingegneria:  
-Istituto di Costruzioni di macchine........ 1  
-Istituto Scienza delle costruzioni......... 1  
-Facolta di Agraria:  
-Istituto di industrie agrarie.............. 1  
-Facolta di Medicina veterinaria  
-Istituto di Malattie infettive,profilassi e  
-polizia veterinaria........................ 1  
-  
-UNIVERSITA DI PADOVA  
-  
+Istituto di Merceologia.............................. 1  
 Facolta di Medicina e chirurgia:  
-Istituto di Clinica ortopedica............. 1  
-Clinica otorinolaringoiatrica.............. 1  
-Facolta di Scienze matematiche, fisiche e  
-naturali:  
-Istituto policattedra di Mineralogia e  
-petrografia................................ 1  
-Istituto policattedra Orto botanico........ 1  
-Istituto di Fisica (Laboratorio nucleare di  
-Legnaro)................................... 1  
-Facolta di Farmacia:  
-Istituto policattedra di Chimica  
-farmaceutica e tossicologica............... 1  
-Facolta di ingegneria:  
-Istituto di Elettrotecnica e elettronica... 1  
-Istituto di Scienza delle costruzioni e  
-annesso laboratorio per le prove di  
-manutenzione materiale da costruzione...... 1  
-Facolta di Agraria:  
-Istituto di Meccanica agraria.............. 1  
-  
-UNIVERSITA DI PALERMO  
-  
-Facolta di Lettere e filosofia:  
-Istituto di Archeologia e storia antica.... 1  
-Facolta di Medicina e chirurgia:  
-Istituto di Microbiologia.................. 1  
-Istituto di Clinica pediatrica............. 1  
-Facolta di Scienze matematiche, fisiche e  
-naturali:  
-Istituto di Antropologia................... 1  
-Facolta di ingegneria:  
-Istituto di Tecnologie meccaniche.......... 1  
-Facolta di Architettura:  
-Istituto di Unificazione edilizia e  
-prefabbricazione........................... 1  
-  
-UNIVERSITA DI PARMA  
-  
-Facolta di Scienze matematiche, fisiche e  
-naturali:  
-Istituto di Strutturistica chimica......... 1  
-Istituto di Fisica......................... 1  
-  
-UNIVERSITA DI PAVIA  
-  
-Facolta di Medicina e chirurgia:  
-Istituto di Farmacologia................... 1  
-Facolta di Scienze matematiche, fisiche e  
-naturali:  
-Laboratorio di energia nucleare applicata.. 1  
-Centro calcoli numerici.................... 1  
-  
-UNIVERSITA DI PERUGIA  
-  
-Facolta di Scienze matematiche, fisiche e  
-naturali:  
-Istituto di Anatomia comparata............. 1  
-Facolta di Agraria:  
-Istituto di Allevamento vegetale........... 1  
+Istituto di Clinica delle malattie nervose e mentali. 1  
+Istituto di Istologia ed embriologia................. 1  
+Facolta di Ingegneria:  
+Istituto di Fisica tecnica........................... 1  
 Facolta di Medicina veterinaria:  
-Istituto di Patologia generale ed anatomia  
-patologica................................. 1  
+Istituto di Patologia generale ed anatomia patologica  
+veterinaria.............................................. 1  
+Centro interfacolta di Microscopia elettronica....... 1  
   
-UNIVERSITA DI PISA  
-  
-Centro nazionale di calcolo elettronico.... 2  
-Facolta di Scienze matematiche, fisiche e  
-naturali:  
-Istituto di Geologia e paleontologia....... 1  
-Facolta di ingegneria:  
-Istituto di Elettrotecnica................. 1  
-Facolta di Agraria:  
-Istituto di Entomologia agraria............ 1  
-  
-UNIVERSITA DI ROMA  
-  
-Facolta di Scienze politiche:  
-Istituto di studi economici finanziari e  
-statistici................................. 1  
-Facolta di Scienze statistiche, demografiche  
-ed attuariali:  
-Istituto di Calcolo delle probabilita'...... 1  
-Facolta di Medicina e chirurgia:  
-Istituto di Chimica biologica.............. 1  
-Istituto di Anatomia umana normale......... 1  
-Istituto di Urologia....................... 1  
-Facolta di Scienze matematiche, fisiche e  
-naturali:  
-Istituto di Anatomia comparata............. 1  
-Istituto di Astronomia..................... 1  
-Istituto di Botanica....................... 1  
-Facolta di Farmacia:  
-Istituto di Chimica biologica.............. 1  
-Facolta di ingegneria:  
-Istituto di Fisica, tecnica................ 1  
-Istituto di Geofisica mineraria............ 1  
-Scuola di ingegneria aerospaziale:  
-Cattedra di Fondamenti calcolo elettronico 1  
-  
-UNIVERSITA DI SASSARI  
-  
-Facolta di Auraria:  
-Istituto di Zootecnia generale............. 1  
-  
-UNIVERSITA DI SIENA  
-  
-Facolta di Medicina e chirurgia:  
-Centro di microscopia elettronica.......... 1  
-Facolta di Scienze matematiche, fisiche e  
-naturali:  
-Istituto di Fisica......................... 1  
-  
-UNIVERSITA DI TORINO  
-  
-Facolta di Medicina e chirurgia:  
-Istituto di Radiologia..................... 1  
-Facolta di Scienze matematiche, fisiche e  
-naturali:  
-Istituto di Fisiologia generale............ 1  
-Facolta di Agraria:  
-Istituto di Entomologia agraria............ 1  
-  
-UNIVERSITA DI TRIESTE  
-  
-Facolta di Scienze matematiche, fisiche e  
-naturali  
-Istituto di Fisica......................... 1  
-Facolta di ingegneria:  
-Istituto di Macchine....................... 1  
-Istituto di Elettrotecnica ed elettronica.. 1  
-Istituto di Architettura ed urbanistica.... 1  
-  
-POLITECNICO DI MILANO  
-  
-Facolta di ingegneria:  
-Istituto di macchine e costruzioni delle  
-macchine (per la cattedra di costruzione  
-macchine).................................. 1  
-Facolta di Architettura:  
-Istituto di Architettura degli interni  
-arredamento e decorazione.................. 1  
-  
-POLITECNICO DI TORINO  
-  
-Facolta di ingegneria:  
-Istituto di Macchine elettriche............ 1  
-Facolta di Architettura:  
-Istituto di Elementi di composizione....... 1  
-Istituto di Elementi di architettura e  
-rilievo dei monumenti...................... 1  
-  
-ISTITUTO UNIVERSITARIO DI ECONOMIA E COMMERCIO  
-E DI LINGUE E LETTERATURE STRANIERE DI VENEZIA  
+Universita di Cagliari  
   
 Facolta di Economia e commercio:  
-Geografia economica........................ 1  
+Istituto Economico-statistico........................ 1  
+Facolta di Medicina e chirurgia:  
+Istituto di Clinica ortopedica....................... 1  
   
-ISTITUTO UNIVERSITARIO ORIENTALE DI NAPOLI  
+Universita di Camerino  
   
-Istituto di Geografia (Laboratorio di  
+Facolta di Farmacia:  
+Istituto di Farmacologia e tecnica farmaceutica...... 1  
   
-Geografia economica, demografica e urbana). 1  
+Universita di Catania  
   
-ISTITUTO UNIVERSITARIO NAVALE DI NAPOLI  
+Facolta di Economia e commercio:  
+Centro meccanografico................................ 1  
+Facolta di Medicina e chirurgia:  
+Istituto di Semeiotica medica........................ 1  
+Facolta di Agraria:  
+Istituto di Zootecnica............................... 1  
   
-Istituto di Fisica sperimentale............ 1  
+Universita di Ferrara  
+  
+Facolta di Medicina e chirurgia:  
+Istituto di Chimica biologica........................ 1  
+  
+Universita di Firenze  
+  
+Facolta di Scienze matematiche fisiche e naturali:  
+Istituto di Chimica fisica........................... 1  
+Facolta di Farmacia:  
+Istituto di Chimica farmaceutica..................... 1  
+Facolta di Architettura:  
+Istituto di Architettura degli interni, arredamento e  
+decorazione.............................................. 1  
+Centro di Microscopia elettronica.................... 1  
+Centro del Fitotrone................................. 1  
+  
+Universita di Genova  
+  
+Facolta di Medicina e chirurgia:  
+Istituto di Patologia speciale medica................ 1  
+Istituto di Farmacologia............................. 1  
+Facolta di Scienze matematiche, fisiche e nat urali:  
+Istituto di Botanica................................. 1  
+Istituto di Geologia................................. 1  
+Facolta di Farmacia  
+Istituto di Farmacologia e farmacognosia............. 1  
+  
+Universita di Messina  
+  
+Facolta di Medicina e chirurgia:  
+Istituto di Igiene per il centro di microscopia elet-  
+tronica.................................................. 1  
+Facolta di Scienze matematiche, fisiche e naturali:  
+Istituto di Chimica organica......................... 1  
+Facolta di Medicina veterinaria:  
+Istituto di Ostetricia e ginecologia veterinaria..... 1  
+  
+Universita di Milano  
+  
+Facolta di Medicina e chirurgia:  
+Istituto di Clinica medica generale.................. 1  
+Istituto di Clinica chirurgica generale.............. 1  
+Facolta di Scienze matematiche, fisiche e naturali:  
+Istituto di Scienze fisiche.......................... 1  
+Istituto di Mineralogia, petrografia e geochimica.... 1  
+Facolta di Medicina veterinaria:  
+Istituto di Malattie infettive....................... 1  
+  
+Universita di Modena  
+  
+Facolta di Medicina e chirurgia:  
+Istituto di Clinica medica generale.................. 1  
+Facolta di Scienze matematiche, fisiche e naturali:  
+Istituto di Chimica generale......................... 1  
+Centro di Calcolo elettronico........................ 1  
+  
+Universita di Napoli  
+  
+Facolta di Economia e commercio:  
+Centro meccanografico, presso l'Istituto di statisti-  
+ca e demografia.......................................... 1  
+  
+Universita di Perugia  
+  
+Facolta di Medicina e chirurgia:  
+Istituto di Anatomia ed istologia patologica......... 1  
+Facolta di Scienze matematiche, fisiche e naturali:  
+Istituto di Chimica fisica........................... 1  
+  
+Universita di Pisa  
+  
+Facolta di Medicina e chirurgia:  
+Istituto di Clinica medica generale.................. 1  
+Facolta di Ingegneria:  
+Istituto di Impianti nucleari........................ 1  
+Facolta di Agraria:  
+Centro di Studi e di sperimentazione agraria ed a-  
+ziendale (tenuta di Tombolo)............................. 1  
+Facolta di Medicina veterinaria:  
+Istituto di Anatomia degli animali domestici......... 1  
+  
+Universita di Roma  
+  
+Facolta di Medicina e chirurgia:  
+Istituto di Patologia speciale medica................ 1  
+Istituto di Medicina legale e delle assicurazioni.... 1  
+Istituto di Patologia speciale chirurgica............ 1  
+Istituto di Clinica ostetrica e ginecologica......... 1  
+Facolta di Scienze matematiche, fisiche e naturali:  
+Istituto di Fisiologia generale...................... 1  
+Istituto di Geologia................................. 1  
+Istituto di Chimica analitica (seconda cattedra)..... 1  
+Istituto di Zoologia................................. 1  
+Facolta di Ingegneria:  
+Istituto di Fisica tecnica........................... 1  
+Istituto di Meccanica applicata alle macchine........ 1  
+Istituto di Architettura ed urbanistica.............. 1  
+Facolta di Architettura:  
+Istituto di Urbanistica.............................. 1  
+  
+Universita di Sassari  
+  
+Facolta di Medicina e chirurgia:  
+Istituto di Fisiologia umana......................... 1  
+Facolta di Farmacia:  
+Istituto di Chimica biologica........................ 1  
+  
+Universita di Siena  
+  
+Facolta di Medicina e chirurgia:  
+Istituto di Radiologia............................... 1  
+Facolta di Farmacia:  
+Istituto di Chimica farmaceutica..................... 1  
+  
+Universita di Torino  
+  
+Facolta di Medicina e chirurgia:  
+Istituto di Clinica otorinolaringoiatrica............ 1  
+Facolta di Scienze matematiche, fisiche e naturali:  
+Istituto di Fisica teorica........................... 1  
+Facolta di Farmacia:  
+Istituto di Chimica farmaceutica..................... 1  
+Facolta di Agraria:  
+Istituto di Orticoltura e floricoltura............... 1  
+  
+Universita di Trieste  
+  
+Facolta di Ingegneria:  
+Istituto di Scienza e tecnica delle costruzioni...... 1  
+Istituto di Architettura navale...................... 1  
+  
+Politecnico di Milano  
+  
+Facolta di Ingegneria:  
+Istituto di Fisica tecnica e macchine - Sezione pro-  
+pulsione................................................. 1  
+Istituto di Chimica industriale...................... 1  
+Istituto di Scienza delle costruzioni................ 1  
+  
+Politecnico di Torino  
+  
+Facolta di Architettura:  
+Istituto di Storia dell'arte e storia e stili del-  
+l'architettura........................................... 1  
+Scuola di Ingegneria aerospaziale:  
+Istituto di Aerodinamica............................. 1  
+Istituto di Motori per aeromobili.................... 1  
+  
+Istituto universitario di Economia e commercio  
+e di Lingue e letterature straniere di Venezia  
+  
+Laboratorio di Matematica generale e finanziaria....... 1  
+  
+Istituto universitario di Architettura  
+di Venezia  
+  
+Istituto di Urbanistica................................. 1  
+  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 settembre 1965
+### Dato a Roma, addi' 4 settembre 1963
 
-SARAGAT GUI
+SEGNI GUI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 21 ottobre 1965
+Registrato alla Corte dei conti, addi' 18 ottobre 1963
 
-Atti del Governo, registro n. 197, foglio n. 107. - VILLA
+Atti del Governo, registro n. 175, foglio n. 35. - VILLA

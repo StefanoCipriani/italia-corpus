@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 maggio 1970 n. 541
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1963 n. 848
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 maggio 1970 n. 541
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1963 n. 848
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
@@ -10,200 +10,163 @@ Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successivi;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 29 giugno 1935 n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-29;1071), convertito nella legge 2 gennaio 136, n. 73;
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Sentito il parere del consiglio superiore della pubblica Istruzione;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
 Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Palermo e' approvato e modificato con i decreti sopraindicati. E' ulteriormente modificato come appresso:
 
-Gli articoli 122, 123, 124, 125, 126, 127, 128, 130, 132, 135, relativi alle norme generali per le scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono abrogati e sostituiti dai seguenti:
+Dopo l'art. 144 sono aggiunti i seguenti nuovi articoli relativi alla istituzione di un corso di specializzazione in Viticoltura, ed Enologia annesso alla Facolta' di Scienze agrarie.
 
-Art. 122. - Presso la facolta' di medicina e chirurgia sono istituite le seguenti scuole di specializzazione che conferiscono diplomi di "specialisti nelle discipline professionali medico-chirurgiche" ai sensi dell'[art. 4 del regio decreto 31 dicembre 1923, n. 2909](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;2909~art4):
+Art. 14. - Presso la Facolta' di Scienze agrarie e' istituito un corso di specializzazione in Viticoltura ed Enologia, intitolato al nome di "Federico Paulsen".
 
-Scuola di medicina interna;
+Il corso e' biennale e distinto in tre periodi:
 
-Scuola di chirurgia generale;
+1) prevalentemente teorico didattico dal 10 gennaio al luglio da, trascorrersi presso la Facolta' di agraria di Palermo;
 
-Scuola di ostetricia e ginecologia;
+2) di applicazione in Chimica enologica e microbiologica, dal 25 agosto al 15 febbraio, da trascorrersi presso il Centro sperimentale per l'industria enologica della Regione siciliana a Marsala;
 
-Scuola di ortopedia e traumatologia;
+3) di applicazione viticolo-enologica, dal 16 febbraio al 15 novembre, da trascorrersi presso l'Istituto regionale delle vite e del vino di Palermo.
 
-Scuola di otorinolaringoiatria e patologia cervicofacciale;
+Art. 146. - Le materie di insegnamento del corso di specializzazione sono distinte in due gruppi: fondamentali e complementari:
 
-Scuola di malattie nervose e mentali;
+Sono fondamentali:
 
-Scuola di clinica oculistica;
+1) Viticoltura;
 
-Scuola di clinica pediatrica;
+2) Industria, enologica;
 
-Scuola di clinica dermosifilopatica;
+3) Microbiologia enologica;
 
-Scuola di igiene e medicina preventiva;
+4) Meccanica applicata a una viticoltura ed alla enologia;
 
-Scuola di medicina legale e delle assicurazioni;
+5) Costruzioni ed impianti enologici.
 
-Scuola di radiologia medica e radioterapia;
+Sono complementari:
 
-Scuola di tisiologia e malattie polmonari;
+1) Malattie della vite;
 
-Scuola di anestesiologia e rianimazione;
+2) Economia e contabilita' applicata alla viticoltura ed all'enologia;
 
-Scuola di medicina del lavoro;
+3) Legislazione viticola enologica;
 
-Scuola di urologia;
+4) Economia del mercato.
 
-Scuola di malattie dell'apparato digerente;
+Art. 147. - Il corso di specializzazione e' distinto dai normali corsi di laurea che si svolgono presso la Facolta'. Gli esami speciali per ciascuna materia si svolgono a norma degli ordinamenti vigenti.
 
-Scuola di chirurgia vascolare;
+Tutti gli insegnamenti sono conferiti per incarico della Facolta' secondo il vigente ordinamento universitario.
 
-Scuola di odontoiatria e protesi dentaria.
+Art. 148. - Sono ammessi al corso di specializzazione i laureati in Scienze agrarie.
 
-Art. 123. - La durata dei corsi e' indicata nei piani di studio delle singole scuole.
+Il numero massimo degli allievi annualmente ammessi al corso e' di otto. Qualora il numero delle domande sia superiore al numero massimo ammesso, sara' data la preferenza agli aspiranti che abbiano riportato agli esami di laurea votazioni migliori o che abbiano particolari titoli nei riguardi delle finalita' del corso.
 
-Art. 124. - Il direttore di ciascuna scuola e' il professore che tiene a titolo ufficiale l'insegnamento che forma oggetto della specializzazione. Ove il suddetto professore non sia nel contempo direttore dell'istituto o clinica presso cui la scuola ha sede, la facolta' puo' affidare la direzione della scuola al direttore dell'istituto.
+Gli stranieri possono essere ammessi in soprannumero sempre che abbiano titoli equipollenti.
 
-Art. 125. - I corsi delle lezioni saranno tenuti dal direttore della scuola e da un corpo di insegnanti che verra' designato ogni anno dalla facolta' stessa, su proposta del direttore della scuola, tra i professori di ruolo, fuori ruolo, aggregati, incaricati, liberi docenti e tra gli assistenti di ruolo e cultori della materia.
+Art. 149. - Il diploma di specialista e rilasciato agli iscritti in base:
 
-Art. 126. - La sede della scuola e' la rispettiva clinica o istituto specializzato.
+1) alla regolare frequenza dei tre periodi del corso;
 
-Art. 127. - I piani di studio sono indicati nell'ordinamento di ciascuna scuola.
+2) all'esito degli esami sostenuti alla fine del primo periodo per le materie fondamentali e del colloquio per quelle complementari;
 
-Gli insegnamenti fondamentali e le esercitazioni vanno tenuti distinti da quelli per gli studenti del corso di laurea.
+3) ai giudizi emessi dal direttore del Centro per la industria enologica di Marsala e dal direttore dello Istituto regionale della vite e del vino, rispettivamente, dopo il secondo ed il terzo periodo;
 
-Gli insegnamenti possono avere, anziche' carattere di lezioni cattedratiche, quella diversa forma che e' suggerita dall'indole di ciascuna disciplina.
+4) all'esame di diploma che consiste nella presentazione di una dissertazione scritta di carattere sperimentale, da sostenersi secondo le norme stabilite dai vigenti ordinamenti per il conferimento dei diplomi di specializzazione.
 
-L'internato e' obbligatorio per gli allievi.
+La Commissione esaminatrice e' composta da tutti i professori incaricati degli insegnamenti e presieduta dal direttore del corso che sara' designato dal Consiglio della Facolta' di Agraria dell'Universita' di Palermo.
 
-Art. 128. - Lo svolgimento dei corsi e il diario degli esami saranno predisposti dalla facolta' su proposta dei direttori delle scuole.
+Art. 150. - Il Consiglio direttivo del corso e' composto da tutti gli insegnanti del medesimo e dai direttori del Centro sperimentale per l'industria enologica di Marsala e dell'Istituto della vite e del vino di Palermo, presso i quali sara' tenuta la parte pratica del corso ed e' presieduto dal direttore del corso.
 
-Art. 130. - Gli iscritti ad ogni scuola non potranno superare un massimo che viene indicato nell'ordinamento di ciascuna scuola. In linea eccezionale, con parere della facolta', possono essere iscritti in soprannumero allievi stranieri, allievi ripetenti o provenienti da altre scuole.
+Esso fa le proposte relative all'ordinamento degli studi e dell'insegnamento e da' pareri su tutti i provvedimenti riguardanti il corso stesso.
 
-Il direttore di ciascuna scuola puo' stabilire un numero minimo di iscritti. Qualora questo numero non venga raggiunto, il direttore della scuola, sentito il parere della facolta', puo' non iniziare i corsi; ma gli allievi in corso di studio hanno diritto a proseguire la scuola.
-
-Art. 132. - Non sono consentite abbreviazioni di corso. Solo agli assistenti ordinari, straordinari e incaricati puo' essere concesso, a giudizio della facolta' una abbreviazione di corso pari agli anni di servizio prestati nella predetta qualita' in cliniche e istituti universitari, nei quali vengono impartite discipline strettamente affini alla specialita'.
-
-Se gli anni di servizio sono pari a quelli del corso di specializzazione e' consentita su proposta della facolta' e con l'approvazione del senato accademico, l'ammissione diretta all'esame di specializzazione.
-
-Art. 135. - Gli specializzandi dovranno ottenere la firma di frequenza relativa ai singoli corsi di lezioni.
-
-Gli esami di profitto vengono sostenuti alla fine dell'anno accademico, per singole materie o per gruppi di materie stabiliti dalla facolta'.
-
-I riprovati in non piu' di due materie potranno essere ammessi all'anno successivo, mantenendo l'obbligo di superare tali esami alla prima sessione.
-
-Le commissioni per gli esami di profitto, composte di due professori ufficiali e di un libero docente o cultore della materia, sono nominati dal preside su proposta del direttore della scuola.
-
-Le commissioni per l'esame di diploma sono costituite da cinque membri nominati dal preside della facolta' udito il direttore della scuola.
-
-Tali commissioni sono costituite da professori ufficiali in maggioranza e da liberi docenti o cultori delle discipline impartite nella scuola.
-
-I candidati non riconosciuti idonei possono presentarsi all'esame di diploma soltanto una seconda volta dopo un altro anno di frequenza alla scuola. A coloro che superano l'esame di diploma viene rilasciato il "diploma di specialista".
-
-Dopo l'art. 135, e con il conseguente spostamento della successiva numerazione, e' inserito il seguente nuovo articolo relativo alle norme per le scuole di specializzazione in medicina e chirurgia.
-
-Art. 136. - Le norme particolari delle singole scuole possono derogare dalle norme contenute nei precedenti articoli.
+Per quanto riguarda le tasse a carico degli iscritti, il servizio di segreteria e quanto altro occorre al funzionamento del corso, sara' fatto riferimento a quanto previsto dagli ordinamenti in vigore nell'Universita'.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 18 maggio 1970
+Dato a Roma, addi' 21 maggio 1963
 
-SARAGAT
+SEGNI
 
-MISASI
+GUI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BOSCO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 24 luglio 1970 Atti del Governo, registro n. 236, foglio n. 182. - IZZI
+alla Corte dei conti, addi' 22 giugno 1963 Atti del Governo, registro n. 171, foglio n. 7. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 29 giugno 1935 n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-29;1071), convertito nella legge 2 gennaio 136, n. 73;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del consiglio superiore della pubblica Istruzione;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Palermo e' approvato e modificato con i decreti sopraindicati. E' ulteriormente modificato come appresso:  
   
-Gli articoli 122, 123, 124, 125, 126, 127, 128, 130, 132, 135, relativi alle norme generali per le scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono abrogati e sostituiti dai seguenti:  
-  
-Art. 122. - Presso la facolta' di medicina e chirurgia sono istituite le seguenti scuole di specializzazione che conferiscono diplomi di "specialisti nelle discipline professionali medico-chirurgiche" ai sensi dell'[art. 4 del regio decreto 31 dicembre 1923, n. 2909](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;2909~art4):  
-Scuola di medicina interna;  
-Scuola di chirurgia generale;  
-Scuola di ostetricia e ginecologia;  
-Scuola di ortopedia e traumatologia;  
-Scuola di otorinolaringoiatria e patologia cervicofacciale;  
-Scuola di malattie nervose e mentali;  
-Scuola di clinica oculistica;  
-Scuola di clinica pediatrica;  
-Scuola di clinica dermosifilopatica;  
-Scuola di igiene e medicina preventiva;  
-Scuola di medicina legale e delle assicurazioni;  
-Scuola di radiologia medica e radioterapia;  
-Scuola di tisiologia e malattie polmonari;  
-Scuola di anestesiologia e rianimazione;  
-Scuola di medicina del lavoro;  
-Scuola di urologia;  
-Scuola di malattie dell'apparato digerente;  
-Scuola di chirurgia vascolare;  
-Scuola di odontoiatria e protesi dentaria.  
-Art. 123. - La durata dei corsi e' indicata nei piani di studio delle singole scuole.  
-Art. 124. - Il direttore di ciascuna scuola e' il professore che tiene a titolo ufficiale l'insegnamento che forma oggetto della specializzazione. Ove il suddetto professore non sia nel contempo direttore dell'istituto o clinica presso cui la scuola ha sede, la facolta' puo' affidare la direzione della scuola al direttore dell'istituto.  
-Art. 125. - I corsi delle lezioni saranno tenuti dal direttore della scuola e da un corpo di insegnanti che verra' designato ogni anno dalla facolta' stessa, su proposta del direttore della scuola, tra i professori di ruolo, fuori ruolo, aggregati, incaricati, liberi docenti e tra gli assistenti di ruolo e cultori della materia.  
-Art. 126. - La sede della scuola e' la rispettiva clinica o istituto specializzato.  
-Art. 127. - I piani di studio sono indicati nell'ordinamento di ciascuna scuola.  
-Gli insegnamenti fondamentali e le esercitazioni vanno tenuti distinti da quelli per gli studenti del corso di laurea.  
-Gli insegnamenti possono avere, anziche' carattere di lezioni cattedratiche, quella diversa forma che e' suggerita dall'indole di ciascuna disciplina.  
-L'internato e' obbligatorio per gli allievi.  
-Art. 128. - Lo svolgimento dei corsi e il diario degli esami saranno predisposti dalla facolta' su proposta dei direttori delle scuole.  
-Art. 130. - Gli iscritti ad ogni scuola non potranno superare un massimo che viene indicato nell'ordinamento di ciascuna scuola. In linea eccezionale, con parere della facolta', possono essere iscritti in soprannumero allievi stranieri, allievi ripetenti o provenienti da altre scuole.  
-Il direttore di ciascuna scuola puo' stabilire un numero minimo di iscritti. Qualora questo numero non venga raggiunto, il direttore della scuola, sentito il parere della facolta', puo' non iniziare i corsi; ma gli allievi in corso di studio hanno diritto a proseguire la scuola.  
-Art. 132. - Non sono consentite abbreviazioni di corso. Solo agli assistenti ordinari, straordinari e incaricati puo' essere concesso, a giudizio della facolta' una abbreviazione di corso pari agli anni di servizio prestati nella predetta qualita' in cliniche e istituti universitari, nei quali vengono impartite discipline strettamente affini alla specialita'.  
-Se gli anni di servizio sono pari a quelli del corso di specializzazione e' consentita su proposta della facolta' e con l'approvazione del senato accademico, l'ammissione diretta all'esame di specializzazione.  
-Art. 135. - Gli specializzandi dovranno ottenere la firma di frequenza relativa ai singoli corsi di lezioni.  
-Gli esami di profitto vengono sostenuti alla fine dell'anno accademico, per singole materie o per gruppi di materie stabiliti dalla facolta'.  
-I riprovati in non piu' di due materie potranno essere ammessi all'anno successivo, mantenendo l'obbligo di superare tali esami alla prima sessione.  
-Le commissioni per gli esami di profitto, composte di due professori ufficiali e di un libero docente o cultore della materia, sono nominati dal preside su proposta del direttore della scuola.  
-Le commissioni per l'esame di diploma sono costituite da cinque membri nominati dal preside della facolta' udito il direttore della scuola.  
-Tali commissioni sono costituite da professori ufficiali in maggioranza e da liberi docenti o cultori delle discipline impartite nella scuola.  
-I candidati non riconosciuti idonei possono presentarsi all'esame di diploma soltanto una seconda volta dopo un altro anno di frequenza alla scuola. A coloro che superano l'esame di diploma viene rilasciato il "diploma di specialista".  
-Dopo l'art. 135, e con il conseguente spostamento della successiva numerazione, e' inserito il seguente nuovo articolo relativo alle norme per le scuole di specializzazione in medicina e chirurgia.  
-Art. 136. - Le norme particolari delle singole scuole possono derogare dalle norme contenute nei precedenti articoli.  
+Dopo l'art. 144 sono aggiunti i seguenti nuovi articoli relativi alla istituzione di un corso di specializzazione in Viticoltura, ed Enologia annesso alla Facolta' di Scienze agrarie.  
+Art. 14. - Presso la Facolta' di Scienze agrarie e' istituito un corso di specializzazione in Viticoltura ed Enologia, intitolato al nome di "Federico Paulsen".  
+Il corso e' biennale e distinto in tre periodi:  
+1) prevalentemente teorico didattico dal 10 gennaio al luglio da, trascorrersi presso la Facolta' di agraria di Palermo;  
+2) di applicazione in Chimica enologica e microbiologica, dal 25 agosto al 15 febbraio, da trascorrersi presso il Centro sperimentale per l'industria enologica della Regione siciliana a Marsala;  
+3) di applicazione viticolo-enologica, dal 16 febbraio al 15 novembre, da trascorrersi presso l'Istituto regionale delle vite e del vino di Palermo.  
+Art. 146. - Le materie di insegnamento del corso di specializzazione sono distinte in due gruppi: fondamentali e complementari:  
+Sono fondamentali:  
+1) Viticoltura;  
+2) Industria, enologica;  
+3) Microbiologia enologica;  
+4) Meccanica applicata a una viticoltura ed alla enologia;  
+5) Costruzioni ed impianti enologici.  
+Sono complementari:  
+1) Malattie della vite;  
+2) Economia e contabilita' applicata alla viticoltura ed all'enologia;  
+3) Legislazione viticola enologica;  
+4) Economia del mercato.  
+Art. 147. - Il corso di specializzazione e' distinto dai normali corsi di laurea che si svolgono presso la Facolta'. Gli esami speciali per ciascuna materia si svolgono a norma degli ordinamenti vigenti.  
+Tutti gli insegnamenti sono conferiti per incarico della Facolta' secondo il vigente ordinamento universitario.  
+Art. 148. - Sono ammessi al corso di specializzazione i laureati in Scienze agrarie.  
+Il numero massimo degli allievi annualmente ammessi al corso e' di otto. Qualora il numero delle domande sia superiore al numero massimo ammesso, sara' data la preferenza agli aspiranti che abbiano riportato agli esami di laurea votazioni migliori o che abbiano particolari titoli nei riguardi delle finalita' del corso.  
+Gli stranieri possono essere ammessi in soprannumero sempre che abbiano titoli equipollenti.  
+Art. 149. - Il diploma di specialista e rilasciato agli iscritti in base:  
+1) alla regolare frequenza dei tre periodi del corso;  
+2) all'esito degli esami sostenuti alla fine del primo periodo per le materie fondamentali e del colloquio per quelle complementari;  
+3) ai giudizi emessi dal direttore del Centro per la industria enologica di Marsala e dal direttore dello Istituto regionale della vite e del vino, rispettivamente, dopo il secondo ed il terzo periodo;  
+4) all'esame di diploma che consiste nella presentazione di una dissertazione scritta di carattere sperimentale, da sostenersi secondo le norme stabilite dai vigenti ordinamenti per il conferimento dei diplomi di specializzazione.  
+La Commissione esaminatrice e' composta da tutti i professori incaricati degli insegnamenti e presieduta dal direttore del corso che sara' designato dal Consiglio della Facolta' di Agraria dell'Universita' di Palermo.  
+Art. 150. - Il Consiglio direttivo del corso e' composto da tutti gli insegnanti del medesimo e dai direttori del Centro sperimentale per l'industria enologica di Marsala e dell'Istituto della vite e del vino di Palermo, presso i quali sara' tenuta la parte pratica del corso ed e' presieduto dal direttore del corso.  
+Esso fa le proposte relative all'ordinamento degli studi e dell'insegnamento e da' pareri su tutti i provvedimenti riguardanti il corso stesso.  
+Per quanto riguarda le tasse a carico degli iscritti, il servizio di segreteria e quanto altro occorre al funzionamento del corso, sara' fatto riferimento a quanto previsto dagli ordinamenti in vigore nell'Universita'.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 maggio 1970
+### Dato a Roma, addi' 21 maggio 1963
 
-SARAGAT MISASI
+SEGNI GUI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 24 luglio 1970
+Registrato alla Corte dei conti, addi' 22 giugno 1963
 
-Atti del Governo, registro n. 236, foglio n. 182. - IZZI
+Atti del Governo, registro n. 171, foglio n. 7. - VILLA

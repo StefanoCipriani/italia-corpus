@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 640
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 settembre 1970 n. 754
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 640
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 settembre 1970 n. 754
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -10,51 +10,123 @@ Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 14 ottobre 1926, n. 2090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2090), e modificato con [regio decreto 13 ottobre 1927, n. 2281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2281), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
 Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Art. 23, relativo alle propedeuticita' di iscrizione e di esami del corso di laurea in giurisprudenza e' modificato nel senso che viene aggiunta la seguente nuova propedeuticita': "f) le istituzioni di diritto privato rispetto al diritto di autore".
 
+Art. 116. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:
+
+Biologia molecolare;
+
+Endocrinologia;
+
+Enzimologia;
+
+Immunologia;
+
+Neuroradiologia;
+
+Puericultura pre-natale;
+
+Virologia;
+
+Virologia clinica;
+
+Lingua inglese (insegnamento aggiuntivo ma non sostitutivo di uno qualsiasi degli insegnamenti complementari).
+
+Art. 198. - E' modificato nel senso che il secondo comma, relativo alle modalita' degli esami di laurea della facolta' di ingegneria e' abrogato e sostituito dal seguente:
+
+"L'esame di laurea consistera' in un colloquio basato su elaborati svolti dall'allievo durante l'ultimo anno del normale corso di studi, elaborati che l'allievo stesso presentera' a sua scelta. La commissione, nell'attribuire il voto di laurea non potra' aggiungere alla media degli esami dell'ultimo triennio (espressa in frazione di 110) un numero di punti superiore a undici".
+
+Art. 258, relativo alla scuola di perfezionamento in diritto civile e' modificato nel senso che il numero massimo degli iscritti e' fissato in centoventi.
+
+Art. 299, relativo alla scuola di perfezionamento in diritto e procedura penale, e' modificato nel senso che il numero massimo degli iscritti e' fissato in centoventi.
+
+Presso la facolta' di giurisprudenza il corso di perfezionamento in diritto ecclesiastico e canonico muta denominazione in "Scuola di perfezionamento in diritto ecclesiastico e canonico".
+
+Art. 328, relativo agli insegnamenti che vengono impartiti nella suddetta scuola di perfezionamento in diritto ecclesiastico e canonico, e' modificato nel senso che l'insegnamento di diritto penale e canonico assume la denominazione seguente: "Diritto penale canonico".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 19 settembre 1970
+
+SARAGAT
+
+MISASI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 26 ottobre 1970 Atti del Governo, registro n. 238, foglio n. 14. - CARUSO
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Gli articoli da 947 a 968, relativi alle scuole di perfezionamento "in fisica teorica e nucleare" e in "strutturistica molecolare", afferenti alla facolta' di scienze matematiche, fisiche e naturali, sono soppressi con il conseguente spostamento della numerazione degli articoli successivi.  
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 23, relativo alle propedeuticita' di iscrizione e di esami del corso di laurea in giurisprudenza e' modificato nel senso che viene aggiunta la seguente nuova propedeuticita': "f) le istituzioni di diritto privato rispetto al diritto di autore".  
+Art. 116. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:  
+Biologia molecolare;  
+Endocrinologia;  
+Enzimologia;  
+Immunologia;  
+Neuroradiologia;  
+Puericultura pre-natale;  
+Virologia;  
+Virologia clinica;  
+Lingua inglese (insegnamento aggiuntivo ma non sostitutivo di uno qualsiasi degli insegnamenti complementari).  
+Art. 198. - E' modificato nel senso che il secondo comma, relativo alle modalita' degli esami di laurea della facolta' di ingegneria e' abrogato e sostituito dal seguente:  
+"L'esame di laurea consistera' in un colloquio basato su elaborati svolti dall'allievo durante l'ultimo anno del normale corso di studi, elaborati che l'allievo stesso presentera' a sua scelta. La commissione, nell'attribuire il voto di laurea non potra' aggiungere alla media degli esami dell'ultimo triennio (espressa in frazione di 110) un numero di punti superiore a undici".  
+Art. 258, relativo alla scuola di perfezionamento in diritto civile e' modificato nel senso che il numero massimo degli iscritti e' fissato in centoventi.  
+Art. 299, relativo alla scuola di perfezionamento in diritto e procedura penale, e' modificato nel senso che il numero massimo degli iscritti e' fissato in centoventi.  
+Presso la facolta' di giurisprudenza il corso di perfezionamento in diritto ecclesiastico e canonico muta denominazione in "Scuola di perfezionamento in diritto ecclesiastico e canonico".  
+Art. 328, relativo agli insegnamenti che vengono impartiti nella suddetta scuola di perfezionamento in diritto ecclesiastico e canonico, e' modificato nel senso che l'insegnamento di diritto penale e canonico assume la denominazione seguente: "Diritto penale canonico".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 17 maggio 1986
+### Dato a Roma, addi' 19 settembre 1970
 
-COSSIGA
+SARAGAT MISASI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: REALE
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 26 ottobre 1970
 
-Registrato alla Corte dei conti, addi' 23 settembre 1986
-
-Registro n. 71 Istruzione, foglio n. 311
+Atti del Governo, registro n. 238, foglio n. 14. - CARUSO

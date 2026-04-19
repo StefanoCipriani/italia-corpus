@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1985 n. 572
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 dicembre 1978 n. 990
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1985 n. 572
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 dicembre 1978 n. 990
+===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-572. Decreto del Presidente della Repubblica 16 luglio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di lire 20.000.000, disposto dalla sig.ra Ponta Giustina Rosita a favore dell'opera "Don Gnocchi" che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale 16 gennaio 1984 del consiglio di amministrazione della fondazione stessa, con testamento pubblico 9 novembre 1982, redatto a rogito dott. Massimo Di Paolo, notaio in Genova, e dallo stesso pubblicato in data 2 marzo 1983 n. 1449 d'ordine e n. 9750 di repertorio, registrato a Genova il 14 marzo 1983 al n. 5223.   
+990. Decreto del Presidente della Repubblica 21 dicembre 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Zaffonato Maddalena, con testamento olografo 17 aprile 1963, pubblicato a rogito del dott. Giovanni Carraro, notaio in Schio in data 29 ottobre 1974, n. 4315 di repertorio e n. 12669 di raccolta, registrato a Schio l'11 novembre 1974 al n. 1702, volume 208/1, consistente nella somma di L. 2.000.000.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 11 ottobre 1985   
-Registro n. 9 Presidenza, foglio n. 77
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 15 febbraio 1979  
+Registro n. 2 Presidenza, foglio n. 28

@@ -1,102 +1,46 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 febbraio 1966 n. 174
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 luglio 1978 n. 647
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 febbraio 1966 n. 174
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 luglio 1978 n. 647
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 -------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1957, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-04-18;964), e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207) e successive modificazioni;
-
-Veduto il testo unico delle leggi, sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 86, relativo alla Scuola di specializzazione in Chirurgia generale e' modificato nel senso che il primo comma e' abrogato e sostituito dal seguente:
-
-"Alla Scuola non potranno essere iscritti piu' di dieci medici per ciascun anno di corso".
-
-Art. 89, relativo alla Scuola di perfezionamento in Anestesiologia e' modificato nel senso che l'ultimo comma e' abrogato e sostituito dal seguente:
-
-"Alla Scuola non potranno essere iscritti piu' di dieci medici per ciascun anno di corso".
-
-Art. 98, relativo alla Scuola di perfezionamento in Diagnostica di laboratorio e' modificato nel senso che il primo comma e' abrogato e sostituito dal seguente:
-
-"Il corso avra' la durata di due anni. L'iscrizione e' limitata per ogni anno accademico a venti allievi".
-
-Art. 104, relativo alla Scuola di specializzazione in Chirurgia pediatrica e' modificato nel senso che l'ultimo comma e' abrogato e sostituito dal seguente:
-
-"Alla Scuola non potranno essere iscritti, piu' di dieci allievi per ciascun anno di corso".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 23 febbraio 1966
-
-SARAGAT
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 31 marzo 1966 Atti del Governo, registro n. 202, foglio n. 96. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1957, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-04-18;964), e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207) e successive modificazioni;  
-Veduto il testo unico delle leggi, sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 86, relativo alla Scuola di specializzazione in Chirurgia generale e' modificato nel senso che il primo comma e' abrogato e sostituito dal seguente:  
-"Alla Scuola non potranno essere iscritti piu' di dieci medici per ciascun anno di corso".  
-Art. 89, relativo alla Scuola di perfezionamento in Anestesiologia e' modificato nel senso che l'ultimo comma e' abrogato e sostituito dal seguente:  
-"Alla Scuola non potranno essere iscritti piu' di dieci medici per ciascun anno di corso".  
-Art. 98, relativo alla Scuola di perfezionamento in Diagnostica di laboratorio e' modificato nel senso che il primo comma e' abrogato e sostituito dal seguente:  
-"Il corso avra' la durata di due anni. L'iscrizione e' limitata per ogni anno accademico a venti allievi".  
-Art. 104, relativo alla Scuola di specializzazione in Chirurgia pediatrica e' modificato nel senso che l'ultimo comma e' abrogato e sostituito dal seguente:  
-"Alla Scuola non potranno essere iscritti, piu' di dieci allievi per ciascun anno di corso".  
+Art. 47 - all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:  
+neurofisiologia;  
+genetica umana.  
+L'art. 179, relativo alla scuola diretta a fini speciali per tecnici di istopatologia, e' modificato nel senso che l'ultimo comma e' soppresso e sostituito dal seguente:  
+"Il numero massimo dei partecipanti e' di otto per ogni anno di corso".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 febbraio 1966
+### Dato a Roma, addi' 6 luglio 1978
 
-SARAGAT GUI
+p. Il Presidente della Repubblica Il Presidente del Senato FANFANI PEDINI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 31 marzo 1966
+Registrato alla Corte dei conti, addi' 13 ottobre 1978
 
-Atti del Governo, registro n. 202, foglio n. 96. - VILLA
+Registro n. 109 Istruzione, foglio n. 227

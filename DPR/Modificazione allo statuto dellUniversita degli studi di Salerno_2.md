@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 944
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 marzo 1986 n. 327
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 944
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 marzo 1986 n. 327
+============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Salerno.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Salerno.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Salerno, approvato con [decreto del Presidente della Repubblica 18 dicembre 1968, n. 1436](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-12-18;1436). e successive modificazioni;
+Veduto lo statuto dell'Universita' di Salerno, approvato con [decreto del Presidente della Repubblica in data 18 dicembre 1968, n. 1436](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-12-18;1436), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -39,16 +39,14 @@ Articolo unico
 --------------
 
   
-Nell'art. 39, relativo al corso di laurea in pedagogia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
-  
-storia delle dottrine estetiche;  
-pedagogia speciale.  
+Nell'art. 9, relativo al corso di laurea in giurisprudenza, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+diritto penitenziario.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1985
+### Dato a Roma, addi' 3 marzo 1986
 
 COSSIGA
 
@@ -56,6 +54,6 @@ FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 25 febbraio 1986
+Registrato alla Corte dei conti, addi' 20 giugno 1986
 
-Registro n. 12 Istruzione, foglio i. 270
+Registro n. 49 Istruzione, foglio n. 231

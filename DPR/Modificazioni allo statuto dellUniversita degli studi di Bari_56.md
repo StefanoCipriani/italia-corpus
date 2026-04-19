@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1972 n. 845
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 settembre 1971 n. 897
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1972 n. 845
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 settembre 1971 n. 897
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -12,250 +12,174 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduta la [legge 3 novembre 1954, n. 85](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-11-03;85);
+
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Sentito: il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
 Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto, dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 174. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, sono aggiunte le scuole in "Gerontologia e geriatria", in "Medicina nucleare", in "Cardioangiochirurgia" di nuova istituzione.
+Dopo l'art. 123 sono aggiunti i seguenti nuovi articoli, relativi al corso di laurea in medicina veterinaria, con il conseguente spostamento della numerazione degli articoli successivi.
 
-Il secondo comma dell'art. 190 relativo alla scuola di specializzazione in oculistica e' modificato nel senso che il numero complessivo degli iscritti e' stabilito in ventotto (28) per i quattro anni di corso.
+TITOLO XI
 
-Dopo l'art. 223 sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in "Gerontologia e geriatria" in "Medicina nucleare", in "Cardioangiochirurgia".
+Facolta' di medicina veterinaria
 
-Scuola di specializzazione in gerontologia e geriatria
+Art. 124. - La facolta' di medicina veterinaria conferisce la laurea in medicina veterinaria.
 
-Art. 224. - La scuola di specializzazione ha sede presso l'istituto di clinica medica II.
+Art. 125. - La durata del corso degli studi e' di cinque anni e comprende l'insegnamento teorico e pratico di almeno 4.500 ore alle condizioni fissate qui di seguito.
 
-La durata del corso di specializzazione e' di tre anni.
+Sono titoli di ammissione quelli previsti dalle vigenti disposizioni di legge.
 
-La frequenza e' obbligatoria.
+Insegnamenti fondamentali: Ore ---
 
-Il numero degli iscritti viene fissato in nove posti per tutti i tre anni.
+Fisica........................................................ 120 Chimica I..................................................... 100 Chimica II.................................................... 100 Zoologia...................................................... 120 Botanica...................................................... 90 Metodi matematici applicati alle scienze biologiche (biomate-
 
-Art. 225. - Il piano di studio della scuola comprende i seguenti insegnamenti:
+matica)......................................................... 30 Anatomia veterinaria sistematica e comparata I................ 110 Anatomia veterinaria sistematica e comparata II............... 110 Anatomia topografica veterinaria.............................. 60 Teratologia................................................... 40 Istologia generale e speciale (anatomia microscopica)......... 80 Embriologia................................................... 40 Fisiologia generale e speciale veterinaria I e fisica biolo-
 
-Biologia della senescenza (annuale);
+gica............................................................ 100 Fisiologia generale e speciale veterinaria II e fisica biolo-
 
-Fisiopatologia della senescenza (biennale);
+gica............................................................ 100 Biochimica.................................................... 100 Zootecnia: 1) igiene, aspetti esteriori degli animali, etnolo-
 
-Semeiologia della senescenza (biennale);
+gia............................................................. 100 Zootecnia: 2) genetica e allevamenti.......................... 70 Alimentazione e nutrizione animale............................ 130 Economia rurale e agronomia................................... 30 Farmacologia e farmacodinamia veterinaria..................... 50 Farmacia e terapeutica generale veterinaria................... 50 Tossicologia veterinaria...................................... 50 Anatomia patologica veterinaria generale e speciale I......... 80 Anatomia patologica veterinaria generale e speciale II........ 80 Autopsie...................................................... 40 Propedeutica: 1) semeiologia medica veterinaria e metodologia
 
-Anatomia patologica (biennale);
+clinica......................................................... 60 Propedeutica: 2) semeiologia chirurgica veterinaria e metodo-
 
-Farmacologia e farmacoterapia (annuale);
+logia clinica................................................... 60 Patologia generale veterinaria................................ 50 Microbiologia generale veterinaria (batteriologia, virologia,
 
-Clinica geriatrica e terapia (biennale);
+immunologia).................................................... 70 Patologia e profilassi delle malattie infettive degli animali
 
-Chirurgia geriatrica (annuale);
+domestici I..................................................... 65 Patologia e profilassi delle malattie infettive degli animali
 
-Radiologia e radioterapia (annuale);
+domestici II.................................................... 65 Parassitologia veterinaria (compresa micologia, protozoologia,
 
-Neurologia (annuale);
+entomologia, elmintologia)...................................... 50 Malattie parassitarie degli animali domestici................. 40 Polizia sanitaria veterinaria................................. 30 Medicina legale veterinaria, legislazione veterinaria e deon-
 
-Tecniche di riabilitazione (annuale);
+tologia......................................................... 30 Patologia medica degli animali domestici (ruminanti, equidi,
 
-Psichiatria (annuale);
+carnivori, suini, pollame, conigli, ecc.)....................... 150 Ostetricia veterinaria........................................ 80 Patologia della riproduzione e fecondazione artificiale....... 70 Patologia chirurgica veterinaria e podologia.................. 90 Medicina operatoria veterinaria............................... 60 Ispezione e controllo delle derrate alimentari di origine ani-
 
-Medicina sociale (annuale).
+male (carne, latte, pesci, uova, ecc.) I........................ 100 Ispezione e controllo delle derrate alimentari di origine ani-
 
-La ripartizione dei dodici insegnamenti nei tre anni di corso avverra' secondo il seguente schema:
+male (carne, latte, pesci, uova, ecc.) II....................... 80 Lavori pratici nei macelli.................................... 40 Clinica medica veterinaria.................................... 300 Clinica chirurgica veterinaria................................ 300 Clinica ostetrica e ginecologica veterinaria.................. 300 Patologia aviare.............................................. 200 Radiologia veterinaria........................................ 30
 
-1° Anno:
+Le 200 ore che restano per raggiungere il numero di 4500 dovranno essere ripartite fra tre insegnamenti complementari da scegliersi
 
-1) Biologia della senescenza;
+dallo studente tra i seguenti:
 
-2) Fisiopatologia della senescenza 1° corso);
+Allevamento e patologia degli animali da laboratorio;
 
-3) Semeiologia della senescenza (1° corso);
+Alpicoltura;
 
-4) Anatomia patologica (1° corso);
+Anatomia comparata;
 
-5) Farmacologia e farmacoterapia.
+Anestesiologia;
 
-2° Anno:
+Antropozoonosi;
 
-1) Fisiopatologia della senescenza (2° corso);
+Api-bachicoltura;
 
-2) Semeiologia della senescenza (2° corso);
+Avicoltura;
 
-3) Anatomia patologica (2° corso);
+Approvvigionamenti annonari, mercati ed industrie degli alimenti di origine animale;
 
-4) Clinica geriatrica e terapia (1° corso);
+Coniglicoltura;
 
-5) Chirurgia geriatrica;
+Diagnostica di laboratorio;
 
-6) Radiologia e radioterapia;
+Ecologia zootecnica;
 
-7) Neurologia.
+Ematologia clinica comparata;
 
-3° Anno:
+Embriologia sperimentale;
 
-1) Clinica geriatrica e terapia (2° corso);
+Endocrinologia degli animali domestici;
 
-2) Tecniche di riabilitazione;
+Etnografia zootecnica;
 
-3) Psichiatria;
+Economia montana (prati e pascoli);
 
-4) Medicina sociale.
+Fisioclimatologia zootecnica;
 
-Art. 226. - Durante i tre anni di corso sono previste inoltre conferenze di aggiornamento su problemi speciali.
+Idrobiologia e pescicoltura;
 
-L'ammissione alla scuola avverra' per titoli ed esami.
+Igiene del latte;
 
-Il direttore della scuola, al di fuori dei docenti incaricati ufficialmente, puo' invitare studiosi competenti ad impartire lezioni e conferenze, su argomenti di speciale interesse gerontologico-geriatrico.
+Igiene e controllo dei prodotti della pesca;
 
-Per ottenere l'iscrizione alla scuola di specializzazione occorre presentare all'ufficio di segreteria della scuola entro il 30 novembre:
+Istituzioni di matematica;
 
-a) domanda redatta in carta legale indirizzata al rettore;
+Istologia patologica;
 
-b) certificato di laurea riportante i voti conseguiti in ogni singolo esame.
+Ittiopatologia;
 
-Scuola di specializzazione in medicina nucleare
+Lingua straniera;
 
-Art. 227. - La scuola di specializzazione in medicina nucleare ha la finalita' di fornire una preparazione specifica, teorica e pratica, per l'impiego diagnostico e per quello terapeutico dei radionuclidi.
+Oftalmologia comparata;
 
-La sede della scuola e' presso la II clinica medica, il corso degli studi nella scuola ha la durata di 3 anni accademici.
+Patologia bovina;
 
-Durante i tre anni di corso sono previste conferenze di aggiornamento su problemi speciali.
+Patologia tropicale veterinaria;
 
-Gli insegnamenti sono impartiti in collaborazione dalla II clinica medica e dall'istituto di radiologia medica dell'Universita' di Bari.
+Storia della medicina veterinaria;
 
-Alla scuola possono iscriversi i laureati in medicina e chirurgia.
+Tecnica conserviera;
 
-L'ammissione alla scuola avverra' per titoli ed esami.
+Tecnica mangimistica;
 
-Il numero degli iscritti nei tre anni di corso non potra' essere superiore a nove, tre per ogni anno. Alla fine di ogni anno di corso saranno tenuti gli esami relativi agli insegnamenti impartiti.
+Tecnologia avicola;
 
-Per il conseguimento del diploma ogni allievo dovra' sostenere, davanti all'apposita commissione, la discussione di una tesi scritta su di un argomento di medicina nucleare.
+Virologia veterinaria.
 
-La direzione della scuola viene assunta, ad anni alterni, dal direttore della II clinica medica e dal direttore dell'istituto di radiologia dell'Universita' di Bari, i quali concordano preventivamente ogni anno il programma.
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami nelle singole materie fondamentali o comprese nei gruppi di materie fondamentali dell'insegnamento di base, dello insegnamento veterinario specifico e di tre altre materie da lui scelte tra gli insegnamenti complementari.
 
-I direttori della scuola, al di fuori dei docenti incaricati ufficialmente, possono invitare studiosi competenti ad impartire lezioni e conferenze su argomenti di speciale interesse specialistico.
+Art. 126. - Agli effetti degli esami sono considerate propedeutiche le seguenti materie:
 
-Per ottenere l'iscrizione alla scuola di specializzazione occorre presentare all'ufficio di segreteria della scuola entro il 30 novembre:
+a) patologia generale veterinaria rispetto all'anatomia patologica veterinaria generale speciale I e II;
 
-a) domanda redatta in carta legale indirizzata al rettore;
+b) propedeutica: 1) semeiologia medica veterinaria e metodologia clinica, e patologia medica degli animali domestici rispetto alla clinica medica veterinaria;
 
-b) certificato di laurea riportante i voti conseguiti in ogni singolo esame.
+c) propedeutica: 2) semeiologia chirurgica veterinaria e metodologia clinica, patologia chirurgica veterinaria e podologia, e medicina operatoria veterinaria rispetto a clinica chirurgica veterinaria;
 
-Art. 228. - Le materie di insegnamento, riportato secondo i diversi anni di corso, sono le seguenti:
+d) ostetricia veterinaria, e patologia della riproduzione e fecondazione artificiale rispetto a clinica ostetrica e ginecologia, veterinaria;
 
-1° Anno:
+e) microbiologia generale veterinaria rispetto a patologia e profilassi delle malattie infettive degli animali domestici I e II.
 
-Fondamenti di matematica e di statistica;
+Art. 127. - Il funzionamento del corso di laurea in medicina veterinaria e' limitato ai primi due anni.
 
-Fisica nucleare e delle radiazioni;
+Il primo anno di corso comincera' a funzionare a partire dall'anno accademico 1971-72.
 
-Tecniche per le misure di radioattivita';
+Con l'anno accademico successivo funzionera' anche il secondo anno.
 
-Dosimetria.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-2° Anno:
+Dato a Roma, addi' 18 settembre 1971
 
-Teoria dei traccianti;
+SARAGAT
 
-Elementi di radiochimica;
+MISASI
 
-Applicazione diagnostica I;
-
-Elementi di radiobiologia.
-
-3° Anno:
-
-Applicazione diagnostica II;
-
-Applicazioni terapeutiche;
-
-Radioprotezione e legislazione.
-
-Scuola di specializzazione in cardioangiochirurgia
-
-Art. 229. - Possono aspirare all'iscrizione alla scuola di specializzazione in cardioangiochirurgia i laureati in medicina e chirurgia che siano in possesso del diploma di specializzazione in chirurgia generale o che dimostrino di aver frequentato a titolo ufficiale ed in modo continuativo un istituto universitario di chirurgia generale o una divisione ospedaliera di chirurgia generale per almeno due anni.
-
-Il numero complessivo degli specializzandi non puo' essere superiore a quindici.
-
-L'ammissione alla scuola avverra' in seguito a concorso per titoli ed esami.
-
-La data del concorso verra' notificata nell'albo della scuola in tempo utile.
-
-La durata del corso e' di tre anni.
-
-Non saranno consentite abbreviazioni di corso.
-
-La scuola ha sede presso la clinica chirurgica. Reparto di cardioangiochirurgia (Centro di cardiochirurgia).
-
-Gli iscritti alla scuola hanno l'obbligo di internato presso il reparto cardiochirurgico (corsie, diagnostica, sala operatoria; trattamento intensivo) per tutta la durata dei corsi e di frequenza alle lezioni, conferenze speciali ed esercitazioni.
-
-Art. 230. - Gli insegnamenti fondamentali sono i seguenti:
-
-1° Anno:
-
-Embriologia, anatomia descrittiva e topografica dell'apparato cardiovascolare;
-
-Fisiologia dell'apparato cardiovascolare;
-
-Anatomia patologica dell'apparato cardiovascolare;
-
-Semeiotica e diagnostica delle cardiopatie chirurgiche (clinica strumentale, radiologica e di laboratorio) 1° anno;
-
-Semeiotica e diagnostica angiologica;
-
-Patologia e clinica cardiologica, 1° anno;
-
-Principi e tecnica della circolazione extra-corporea;
-
-Nozioni di ingegneria medica.
-
-2° Anno:
-
-Semeiotica e diagnostica delle cardiopatie chirurgiche (clinica, strumentale, radiologica e di laboratorio), 2° anno;
-
-Patologia e clinica cardiologica, 2° anno;
-
-Patologia e clinica angiologica;
-
-Terapia chirurgica e tecnica operatoria, 1° anno;
-
-Anestesia e rianimazione.
-
-3° Anno:
-
-Patologia e clinica cardiologica pediatrica;
-
-Terapia chirurgica e tecnica operatoria, 2° anno;
-
-Trattamento intensivo.
-
-L'esame di diploma consiste nella discussione di una dissertazione scritta su argomento concordato con il direttore della scuola.
-
-Il presente decreto, munita del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farlo osservare.
-
-Dato a Roma, addi' 28 ottobre 1972
-
-LEONE
-
-SCALFARO
-
-Vista, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: COLOMBO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 21 dicembre 1972 Atti di Governo, registro n. 254, foglio n. 43. - CARUSO
+alla Corte dei conti, addi' 3 novembre 1971 Atti del Governo, registro n. 245, foglio n. 1. - CARUSO
 
 Art. 1
 ------
@@ -263,144 +187,102 @@ Art. 1
  IL PRESIDENTE DELLA REPUBBLICA   
   
 Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Veduta la [legge 3 novembre 1954, n. 85](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-11-03;85);   
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito: il parere del Consiglio superiore della pubblica istruzione;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
 Sulla proposta del Ministro per la pubblica istruzione;   
   
 Decreta:   
   
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 174. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, sono aggiunte le scuole in "Gerontologia e geriatria", in "Medicina nucleare", in "Cardioangiochirurgia" di nuova istituzione.   
-Il secondo comma dell'art. 190 relativo alla scuola di specializzazione in oculistica e' modificato nel senso che il numero complessivo degli iscritti e' stabilito in ventotto (28) per i quattro anni di corso.   
-Dopo l'art. 223 sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in "Gerontologia e geriatria" in "Medicina nucleare", in "Cardioangiochirurgia".   
+Lo statuto, dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Scuola di specializzazione in gerontologia e geriatria   
+Dopo l'art. 123 sono aggiunti i seguenti nuovi articoli, relativi al corso di laurea in medicina veterinaria, con il conseguente spostamento della numerazione degli articoli successivi.   
   
-Art. 224. - La scuola di specializzazione ha sede presso l'istituto di clinica medica II.   
-La durata del corso di specializzazione e' di tre anni.   
-La frequenza e' obbligatoria.   
-Il numero degli iscritti viene fissato in nove posti per tutti i tre anni.   
-Art. 225. - Il piano di studio della scuola comprende i seguenti insegnamenti:   
+TITOLO XI   
+Facolta' di medicina veterinaria   
   
-Biologia della senescenza (annuale);   
-Fisiopatologia della senescenza (biennale);   
-Semeiologia della senescenza (biennale);   
-Anatomia patologica (biennale);   
-Farmacologia e farmacoterapia (annuale);   
-Clinica geriatrica e terapia (biennale);   
-Chirurgia geriatrica (annuale);   
-Radiologia e radioterapia (annuale);   
-Neurologia (annuale);   
-Tecniche di riabilitazione (annuale);   
-Psichiatria (annuale);   
-Medicina sociale (annuale).   
-La ripartizione dei dodici insegnamenti nei tre anni di corso avverra' secondo il seguente schema:   
-1° Anno:   
-1) Biologia della senescenza;   
-2) Fisiopatologia della senescenza 1° corso);   
-3) Semeiologia della senescenza (1° corso);   
-4) Anatomia patologica (1° corso);   
-5) Farmacologia e farmacoterapia.   
-2° Anno:   
-1) Fisiopatologia della senescenza (2° corso);   
-2) Semeiologia della senescenza (2° corso);   
-3) Anatomia patologica (2° corso);   
-4) Clinica geriatrica e terapia (1° corso);   
-5) Chirurgia geriatrica;   
-6) Radiologia e radioterapia;   
-7) Neurologia.   
-3° Anno:   
-1) Clinica geriatrica e terapia (2° corso);   
-2) Tecniche di riabilitazione;   
-3) Psichiatria;   
-4) Medicina sociale.   
-Art. 226. - Durante i tre anni di corso sono previste inoltre conferenze di aggiornamento su problemi speciali.   
-L'ammissione alla scuola avverra' per titoli ed esami.   
-Il direttore della scuola, al di fuori dei docenti incaricati ufficialmente, puo' invitare studiosi competenti ad impartire lezioni e conferenze, su argomenti di speciale interesse gerontologico-geriatrico.   
-Per ottenere l'iscrizione alla scuola di specializzazione occorre presentare all'ufficio di segreteria della scuola entro il 30 novembre:   
-a) domanda redatta in carta legale indirizzata al rettore;   
-b) certificato di laurea riportante i voti conseguiti in ogni singolo esame.   
+Art. 124. - La facolta' di medicina veterinaria conferisce la laurea in medicina veterinaria.   
+Art. 125. - La durata del corso degli studi e' di cinque anni e comprende l'insegnamento teorico e pratico di almeno 4.500 ore alle condizioni fissate qui di seguito.   
+Sono titoli di ammissione quelli previsti dalle vigenti disposizioni di legge.   
   
-Scuola di specializzazione in medicina nucleare   
   
-Art. 227. - La scuola di specializzazione in medicina nucleare ha la finalita' di fornire una preparazione specifica, teorica e pratica, per l'impiego diagnostico e per quello terapeutico dei radionuclidi.   
-La sede della scuola e' presso la II clinica medica, il corso degli studi nella scuola ha la durata di 3 anni accademici.   
-Durante i tre anni di corso sono previste conferenze di aggiornamento su problemi speciali.   
-Gli insegnamenti sono impartiti in collaborazione dalla II clinica medica e dall'istituto di radiologia medica dell'Universita' di Bari.   
-Alla scuola possono iscriversi i laureati in medicina e chirurgia.   
-L'ammissione alla scuola avverra' per titoli ed esami.   
-Il numero degli iscritti nei tre anni di corso non potra' essere superiore a nove, tre per ogni anno. Alla fine di ogni anno di corso saranno tenuti gli esami relativi agli insegnamenti impartiti.   
-Per il conseguimento del diploma ogni allievo dovra' sostenere, davanti all'apposita commissione, la discussione di una tesi scritta su di un argomento di medicina nucleare.   
-La direzione della scuola viene assunta, ad anni alterni, dal direttore della II clinica medica e dal direttore dell'istituto di radiologia dell'Universita' di Bari, i quali concordano preventivamente ogni anno il programma.   
-I direttori della scuola, al di fuori dei docenti incaricati ufficialmente, possono invitare studiosi competenti ad impartire lezioni e conferenze su argomenti di speciale interesse specialistico.   
-Per ottenere l'iscrizione alla scuola di specializzazione occorre presentare all'ufficio di segreteria della scuola entro il 30 novembre:   
-a) domanda redatta in carta legale indirizzata al rettore;   
-b) certificato di laurea riportante i voti conseguiti in ogni singolo esame.   
-Art. 228. - Le materie di insegnamento, riportato secondo i diversi anni di corso, sono le seguenti:   
-1° Anno:   
-Fondamenti di matematica e di statistica;   
-Fisica nucleare e delle radiazioni;   
-Tecniche per le misure di radioattivita';   
-Dosimetria.   
-2° Anno:   
+Insegnamenti fondamentali: Ore ---   
+Fisica........................................................ 120 Chimica I..................................................... 100 Chimica II.................................................... 100 Zoologia...................................................... 120 Botanica...................................................... 90 Metodi matematici applicati alle scienze biologiche (biomate-  
+matica)......................................................... 30 Anatomia veterinaria sistematica e comparata I................ 110 Anatomia veterinaria sistematica e comparata II............... 110 Anatomia topografica veterinaria.............................. 60 Teratologia................................................... 40 Istologia generale e speciale (anatomia microscopica)......... 80 Embriologia................................................... 40 Fisiologia generale e speciale veterinaria I e fisica biolo-  
+gica............................................................ 100 Fisiologia generale e speciale veterinaria II e fisica biolo-  
+gica............................................................ 100 Biochimica.................................................... 100 Zootecnia: 1) igiene, aspetti esteriori degli animali, etnolo-  
+gia............................................................. 100 Zootecnia: 2) genetica e allevamenti.......................... 70 Alimentazione e nutrizione animale............................ 130 Economia rurale e agronomia................................... 30 Farmacologia e farmacodinamia veterinaria..................... 50 Farmacia e terapeutica generale veterinaria................... 50 Tossicologia veterinaria...................................... 50 Anatomia patologica veterinaria generale e speciale I......... 80 Anatomia patologica veterinaria generale e speciale II........ 80 Autopsie...................................................... 40 Propedeutica: 1) semeiologia medica veterinaria e metodologia  
+clinica......................................................... 60 Propedeutica: 2) semeiologia chirurgica veterinaria e metodo-  
+logia clinica................................................... 60 Patologia generale veterinaria................................ 50 Microbiologia generale veterinaria (batteriologia, virologia,  
+immunologia).................................................... 70 Patologia e profilassi delle malattie infettive degli animali  
+domestici I..................................................... 65 Patologia e profilassi delle malattie infettive degli animali  
+domestici II.................................................... 65 Parassitologia veterinaria (compresa micologia, protozoologia,  
+entomologia, elmintologia)...................................... 50 Malattie parassitarie degli animali domestici................. 40 Polizia sanitaria veterinaria................................. 30 Medicina legale veterinaria, legislazione veterinaria e deon-  
+tologia......................................................... 30 Patologia medica degli animali domestici (ruminanti, equidi,  
+carnivori, suini, pollame, conigli, ecc.)....................... 150 Ostetricia veterinaria........................................ 80 Patologia della riproduzione e fecondazione artificiale....... 70 Patologia chirurgica veterinaria e podologia.................. 90 Medicina operatoria veterinaria............................... 60 Ispezione e controllo delle derrate alimentari di origine ani-  
+male (carne, latte, pesci, uova, ecc.) I........................ 100 Ispezione e controllo delle derrate alimentari di origine ani-  
+male (carne, latte, pesci, uova, ecc.) II....................... 80 Lavori pratici nei macelli.................................... 40 Clinica medica veterinaria.................................... 300 Clinica chirurgica veterinaria................................ 300 Clinica ostetrica e ginecologica veterinaria.................. 300 Patologia aviare.............................................. 200 Radiologia veterinaria........................................ 30   
+Le 200 ore che restano per raggiungere il numero di 4500 dovranno essere ripartite fra tre insegnamenti complementari da scegliersi  
+dallo studente tra i seguenti:  
+Allevamento e patologia degli animali da laboratorio;  
+Alpicoltura;  
+Anatomia comparata;  
+Anestesiologia;  
+Antropozoonosi;  
+Api-bachicoltura;  
+Avicoltura;  
+Approvvigionamenti annonari, mercati ed industrie degli alimenti di origine animale;  
+Coniglicoltura;  
+Diagnostica di laboratorio;  
+Ecologia zootecnica;  
+Ematologia clinica comparata;  
+Embriologia sperimentale;  
+Endocrinologia degli animali domestici;  
+Etnografia zootecnica;  
+Economia montana (prati e pascoli);  
+Fisioclimatologia zootecnica;  
+Idrobiologia e pescicoltura;  
+Igiene del latte;  
+Igiene e controllo dei prodotti della pesca;  
+Istituzioni di matematica;  
+Istologia patologica;  
+Ittiopatologia;  
+Lingua straniera;  
+Oftalmologia comparata;  
+Patologia bovina;  
+Patologia tropicale veterinaria;  
+Storia della medicina veterinaria;  
+Tecnica conserviera;  
+Tecnica mangimistica;  
+Tecnologia avicola;  
+Virologia veterinaria.  
   
-Teoria dei traccianti;   
-Elementi di radiochimica;   
-Applicazione diagnostica I;   
-Elementi di radiobiologia.   
-3° Anno:   
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami nelle singole materie fondamentali o comprese nei gruppi di materie fondamentali dell'insegnamento di base, dello insegnamento veterinario specifico e di tre altre materie da lui scelte tra gli insegnamenti complementari.   
+Art. 126. - Agli effetti degli esami sono considerate propedeutiche le seguenti materie:   
+a) patologia generale veterinaria rispetto all'anatomia patologica veterinaria generale speciale I e II;   
+b) propedeutica: 1) semeiologia medica veterinaria e metodologia clinica, e patologia medica degli animali domestici rispetto alla clinica medica veterinaria;   
+c) propedeutica: 2) semeiologia chirurgica veterinaria e metodologia clinica, patologia chirurgica veterinaria e podologia, e medicina operatoria veterinaria rispetto a clinica chirurgica veterinaria;   
+d) ostetricia veterinaria, e patologia della riproduzione e fecondazione artificiale rispetto a clinica ostetrica e ginecologia, veterinaria;   
+e) microbiologia generale veterinaria rispetto a patologia e profilassi delle malattie infettive degli animali domestici I e II.   
+Art. 127. - Il funzionamento del corso di laurea in medicina veterinaria e' limitato ai primi due anni.   
+Il primo anno di corso comincera' a funzionare a partire dall'anno accademico 1971-72.   
+Con l'anno accademico successivo funzionera' anche il secondo anno.   
   
-Applicazione diagnostica II;   
-Applicazioni terapeutiche;   
-Radioprotezione e legislazione.   
-  
-Scuola di specializzazione in cardioangiochirurgia   
-  
-Art. 229. - Possono aspirare all'iscrizione alla scuola di specializzazione in cardioangiochirurgia i laureati in medicina e chirurgia che siano in possesso del diploma di specializzazione in chirurgia generale o che dimostrino di aver frequentato a titolo ufficiale ed in modo continuativo un istituto universitario di chirurgia generale o una divisione ospedaliera di chirurgia generale per almeno due anni.   
-Il numero complessivo degli specializzandi non puo' essere superiore a quindici.   
-L'ammissione alla scuola avverra' in seguito a concorso per titoli ed esami.   
-La data del concorso verra' notificata nell'albo della scuola in tempo utile.   
-La durata del corso e' di tre anni.   
-Non saranno consentite abbreviazioni di corso.   
-La scuola ha sede presso la clinica chirurgica. Reparto di cardioangiochirurgia (Centro di cardiochirurgia).   
-Gli iscritti alla scuola hanno l'obbligo di internato presso il reparto cardiochirurgico (corsie, diagnostica, sala operatoria; trattamento intensivo) per tutta la durata dei corsi e di frequenza alle lezioni, conferenze speciali ed esercitazioni.   
-Art. 230. - Gli insegnamenti fondamentali sono i seguenti:   
-1° Anno:   
-  
-Embriologia, anatomia descrittiva e topografica dell'apparato cardiovascolare;   
-Fisiologia dell'apparato cardiovascolare;   
-Anatomia patologica dell'apparato cardiovascolare;   
-Semeiotica e diagnostica delle cardiopatie chirurgiche (clinica strumentale, radiologica e di laboratorio) 1° anno;   
-Semeiotica e diagnostica angiologica;   
-Patologia e clinica cardiologica, 1° anno;   
-Principi e tecnica della circolazione extra-corporea;   
-Nozioni di ingegneria medica.   
-2° Anno:   
-  
-Semeiotica e diagnostica delle cardiopatie chirurgiche (clinica, strumentale, radiologica e di laboratorio), 2° anno;   
-Patologia e clinica cardiologica, 2° anno;   
-Patologia e clinica angiologica;   
-Terapia chirurgica e tecnica operatoria, 1° anno;   
-Anestesia e rianimazione.   
-3° Anno:   
-  
-Patologia e clinica cardiologica pediatrica;   
-Terapia chirurgica e tecnica operatoria, 2° anno;   
-Trattamento intensivo.   
-L'esame di diploma consiste nella discussione di una dissertazione scritta su argomento concordato con il direttore della scuola.   
-  
-Il presente decreto, munita del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farlo osservare.   
-  
-Dato a Roma, addi' 28 ottobre 1972   
-  
-LEONE   
-  
-SCALFARO   
-  
-Vista, il Guardasigilli: GONELLA   
-Registrato alla Corte dei conti, addi' 21 dicembre 1972   
-Atti di Governo, registro n. 254, foglio n. 43. - CARUSO   
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Dato a Roma, addi' 18 settembre 1971
+
+SARAGAT MISASI
+
+Visto, il Guardasigilli: COLOMBO
+
+Registrato alla Corte dei conti, addi' 3 novembre 1971
+
+Atti del Governo, registro n. 245, foglio n. 1. - CARUSO

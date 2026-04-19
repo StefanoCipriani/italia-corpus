@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 1956 n. 828
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1965 n. 1662
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 1956 n. 828
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1965 n. 1662
+===============================================================
 
 Erezione in ente morale della Cassa scolastica della Scuola media statale di Gattinara (Vercelli).
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-828. Decreto del Presidente della Repubblica 6 giugno 1956, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale di Gattinara (Vercelli) viene eretta in ente morale e ne viene approvato lo statuto.  
+1662. Decreto del Presidente della Repubblica 30 ottobre 1965, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale di Gattinara (derivante dalle Casse scolastiche dell'ex Scuola di avviamento professionale a tipo agrario e della Scuola media statale del preesistente ordinamento, site nella stessa localita' che sono soppresse) viene eretta in ente morale e ne viene approvato lo statuto.  
   
-Visto, il Guardasigilli: MORO  
-Registrato alla corte dei conti, addi' 17 luglio 1956  
-Atti del Governo, registro n. 99, foglio n. 106. - CARLOMAGNO
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 2 marzo 1966  
+Atti del Governo, registro n. 201, foglio n. 92. - VILLA

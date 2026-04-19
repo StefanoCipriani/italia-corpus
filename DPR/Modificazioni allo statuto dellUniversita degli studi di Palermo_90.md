@@ -1,190 +1,23 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1970 n. 545
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1957 n. 965
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1970 n. 545
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1957 n. 965
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-L'art. 122, relativo all'elenco delle scuole di specializzazione della facolta' di medicina e chirurgia, e' modificato nel senso che le scuole di "Ortopedia", "Pediatria e puericultura", "Igiene" mutano rispettivamente le denominazioni in quelle di "Ortopedia e traumatologia", "Clinica pediatrica", "Igiene e medicina preventiva".
-
-L'articolo 138, relativo alla scuola di specializzazione in ostetricia e ginecologia; l'articolo 139 relativo alla scuola di specializzazione in ortopedia che muta la denominazione in quella di ortopedia e traumatologia;l'art. 145 relativo alla scuola di specializzazione in pediatria e puericultura che muta la denominazione in quella di clinica pediatrica; l'articolo 147 relativo alla scuola di specializzazione in igiene che muta la denominazione in quella di igiene e medicina preventiva; l'articolo 156 relativo alla scuola di specializzazione in chirurgia vascolare, sono abrogati e sostituiti dai seguenti:
-
-Scuola di specializzazione in ostetricia e ginecologia
-
-Art. 138. - Durata: Quattro anni - Numero massimo di iscritti: otto per ogni anno di corso.
-
-Insegnamenti impartiti nella scuola:
-
-1° Anno:
-
-Elementi di genetica e di eugenica - Anatomia normale ed embriologia dell'apparato genitale femminile - Fisiologia dell'apparato genitale femminile - Endocrinologia fisiologica - Fisiologia ostetrica - Diagnostica ostetrica - Clinica ostetrica e ginecologica.
-
-2° Anno:
-
-Tecnica operatoria ostetrica - Diagnostica ginecologica - Tecnica diagnostica di laboratorio nel campo ostetrico-ginecologico, esclusa l'istologia (sierologia, batteriologia, citologia, ematologia, biochimica) - Clinica ostetrica e ginecologica.
-
-3° Anno:
-
-Anatomia patologica ostetrica e ginecologica - Istologia normale e patologica nel campo della specialita' - Puericultura prenatale - Emoterapia nel campo ostetrico e ginecologico - Anestesia e analgesia nel campo ostetrico e ginecologico - Tecnica operatoria ginecologica - Clinica ostetrica e ginecologica - Terapia medica ostetrica e ginecologica.
-
-4° Anno:
-
-Puericultura postnatale e malattie del neonato - Ostetricia e ginecologica forense - Diagnostica roentgen, radioterapia in ostetricia e ginecologia - Clinica ostetrica e ginecologica (esame alla fine del quarto anno) - Urologia ginecologica - Chirurgia addominale extra genitale.
-
-Scuola di specializzazione in ortopedia e traumatologia
-
-Art. 139. - Durata: tre anni - Numero massimo di iscritti: cinque per ogni anno di corso.
-
-Insegnamenti impartiti nella scuola:
-
-1° Anno:
-
-Clinica ortopedica e traumatologica (triennale) - Patologia delle lesioni e deformita' e malattie degli organi di movimento (triennale) - Anatomia - Chirurgica e tecnica operatoria ortopedica e traumatologica (triennale) - Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale) - Terapia ortopedica e traumatologica incruenta (biennale) - Anatomia ed istologia dell'apparato locomotore - Fisiologia dell'apparato locomotore - Pediatria ortopedica - Nozioni di chirurgia generale.
-
-2° Anno:
-
-Clinica ortopedica e traumatologica (triennale) - Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale) - Anatomia chirurgica e tecnica operatoria ortopedica e traumatologica (triennale) - Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale) - Terapia e traumatologia incruenta (biennale) - Neuropatologia dell'apparato locomotore ed elettrodiagnostica - Anatomia ed Istologia patologica dell'apparato locomotore - Anestesia e rianimazione in ortopedia e traumatologia.
-
-3° Anno:
-
-Clinica ortopedica e traumatologica (triennale) - Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale) - Anatomia chirurgica e tecnica operatoria ortopedica e traumatologica (triennale) - Protesi ed apparecchi ortopedici - Fisiochinesiterapia - Infortunistica.
-
-Scuola di specializzazione in clinica pediatrica
-
-Art. 145. - Durata: tre anni - Numero massimo di iscritti: dieci per ogni anno di corso.
-
-Insegnamenti impartiti nella scuola:
-
-1° Anno:
-
-Clinica pediatrica (triennale) - Patologia pediatrica (biennale) - Puericultura (biennale) - Semeiotica pediatrica e tecnica diagnostica (biennale) - Auxologia normale e patologica - Psicologia dell'eta' evolutiva.
-
-2° Anno:
-
-Clinica pediatrica - Patologia pediatrica - Puericultura - Semeiotica pediatrica e tecnica diagnostica - Terapia pediatrica - Radiologia pediatrica - Malattie infettive dell'infanzia.
-
-3° Anno:
-
-Clinica pediatrica - Neuropsichiatria e igiene mentale dell'infanzia.
-
-Materie complementari (una per ogni anno a scelta dell'iscritto):
-
-Chirurgia pediatrica - Ortopedia e traumatologia infantile - Odontoiatria - Clinica dermosifilopatica - Clinica oculistica - Clinica otorinolaringoiatria - Cardiologia - Genetica.
-
-Scuola di specializzazione in igiene e medicina preventiva
-
-Art. 147. - Durata: tre anni. Il corso si distingue in un biennio propedeutico seguito da un anno con tre orientamenti differenziati:
-
-Sanita' pubblica, laboratorio, igiene e direzione ospitaliera. Numero massimo di iscritti: venti per ogni anno di corso.
-
-Coloro che hanno conseguito il diploma di specializzazione per uno dei tre orientamenti possono essere iscritti al terzo anno di un altro orientamento nell'ambito della disponibilita' dei posti.
-
-Analogamente coloro che hanno conseguito il diploma di specializzazione in igiene a norma dei precedenti statuti delle scuole di specializzazione possono essere iscritti al terzo anno in uno dei tre orientamenti previsti sempre nell'ambito della disponibilita' dei posti.
-
-Insegnamenti impartiti nella scuola:
-
-1° Anno:
-
-Metodologia statistica e biometria - Educazione sanitaria - Psicologia - Microbiologia - Parassitologia - Epidemiologia e profilassi generale.
-
-2° Anno:
-
-Patologia e clinica delle malattie infettive - Epidemiologia e profilassi delle malattie infettive - Patologia e clinica delle malattie non infettive di importanza sociale - Epidemiologia e profilassi delle malattie non infettive di importanza sociale - Demografia e statistica sanitaria - Legislazione e organizzazione sanitaria.
-
-3° Anno (con orientamento di sanita' pubblica):
-
-Approvvigionamento idrico-raccolta e smaltimento dei rifiuti liquidi e solidi; inquinamenti atmosferici - Igiene edilizia e urbanistica - Igiene della alimentazione - Igiene e medicina scolastica - Igiene ospitaliera - Servizi di sanita' pubblica.
-
-3° Anno (con orientamento di laboratorio):
-
-Microscopia applicata all'igiene - Microbiologia applicata all'igiene - Chimica clinica - Accertamento diagnostico delle malattie batteriche e parassitarie - Accertamento diagnostico delle infezioni virali - Nozioni di anatomia e istologia patologica.
-
-3° Anno (con orientamento di igiene e direzione ospitaliera):
-
-Storia degli ospedali e principi metodologici dell'assistenza ospitaliera - Igiene e tecnica delle costruzioni ospitaliere, arredamento ed impianti sanitari - Organizzazione e funzione degli ospedali generali e speciali" Diritto amministrativo e legislazione ospitaliera - Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospitaliera - Selezione e istruzione professionale del personale ospitaliero - Organizzazione e funzione dei laboratori di analisi e di accertamento necroscopico.
-
-Materie complementari (una materia per ogni anno a scelta dell'iscritto).
-
-1° Anno: Istituzioni di matematica - Genetica umana.
-
-2° Anno: Geologia applicata all'igiene - Igiene mentale.
-
-3° Anno (orientamento di sanita' pubblica): Diritto sanitario - Malattie professionali e loro prevenzione.
-
-3° Anno (orientamento di laboratorio): Ispezione delle carni - Diritto sanitario.
-
-3° Anno (orientamento di igiene e direzione ospitaliera):
-
-Gerontologia e geriatria - Malattie professionali e loro prevenzione.
-
-Scuola di specializzazione in chirurgia vascolare
-
-Art. 156. - Durata tre anni - Numero massimo di Iscritti: cinque per ogni anno di corso.
-
-Insegnamenti impartiti nella scuola:
-
-1° Anno:
-
-Embriologia, anatomia macro e microscopica dell'apparato vascolare - Fisiopatologia dell'apparato vascolare e della coagulazione sanguigna - Anatomia patologica dell'apparato vascolare - Semeiologia fisica e strumentale delle malattie vascolari - Semeiologia radiologica delle malattie vascolari - Vasculopatie di interesse medico e specialistico.
-
-2° Anno:
-
-Patologia e clinica delle malattie del sistema arterioso - Patologia e clinica delle malattie del sistema venoso - Patologia e clinica delle malattie del sistema linfatico - Patologia e clinica dei piccoli vasi.
-
-3° Anno:
-
-Nozioni di terapia medica delle malattie vascolari - Terapia chirurgica delle malattie vascolari - Chirurgia vascolare applicata a malattie dei vari organi.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 1° giugno 1970
-
-SARAGAT
-
-MISASI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 24 luglio 1970 Atti del Governo, registro n. 236, foglio n. 183. - IZZI
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240) e successivi;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
 Sulla proposta del Ministro per la pubblica istruzione;   
@@ -192,93 +25,97 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:   
   
 Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-  
-L'art. 122, relativo all'elenco delle scuole di specializzazione della facolta' di medicina e chirurgia, e' modificato nel senso che le scuole di "Ortopedia", "Pediatria e puericultura", "Igiene" mutano rispettivamente le denominazioni in quelle di "Ortopedia e traumatologia", "Clinica pediatrica", "Igiene e medicina preventiva".   
-L'articolo 138, relativo alla scuola di specializzazione in ostetricia e ginecologia; l'articolo 139 relativo alla scuola di specializzazione in ortopedia che muta la denominazione in quella di ortopedia e traumatologia;l'art. 145 relativo alla scuola di specializzazione in pediatria e puericultura che muta la denominazione in quella di clinica pediatrica; l'articolo 147 relativo alla scuola di specializzazione in igiene che muta la denominazione in quella di igiene e medicina preventiva; l'articolo 156 relativo alla scuola di specializzazione in chirurgia vascolare, sono abrogati e sostituiti dai seguenti:   
-  
-Scuola di specializzazione in ostetricia e ginecologia   
-  
-Art. 138. - Durata: Quattro anni - Numero massimo di iscritti: otto per ogni anno di corso.   
-Insegnamenti impartiti nella scuola:   
-1° Anno:   
-Elementi di genetica e di eugenica - Anatomia normale ed embriologia dell'apparato genitale femminile - Fisiologia dell'apparato genitale femminile - Endocrinologia fisiologica - Fisiologia ostetrica - Diagnostica ostetrica - Clinica ostetrica e ginecologica.   
-2° Anno:   
-Tecnica operatoria ostetrica - Diagnostica ginecologica - Tecnica diagnostica di laboratorio nel campo ostetrico-ginecologico, esclusa l'istologia (sierologia, batteriologia, citologia, ematologia, biochimica) - Clinica ostetrica e ginecologica.   
-3° Anno:   
-Anatomia patologica ostetrica e ginecologica - Istologia normale e patologica nel campo della specialita' - Puericultura prenatale - Emoterapia nel campo ostetrico e ginecologico - Anestesia e analgesia nel campo ostetrico e ginecologico - Tecnica operatoria ginecologica - Clinica ostetrica e ginecologica - Terapia medica ostetrica e ginecologica.   
-4° Anno:   
-Puericultura postnatale e malattie del neonato - Ostetricia e ginecologica forense - Diagnostica roentgen, radioterapia in ostetricia e ginecologia - Clinica ostetrica e ginecologica (esame alla fine del quarto anno) - Urologia ginecologica - Chirurgia addominale extra genitale.   
-  
-Scuola di specializzazione in ortopedia e traumatologia   
-  
-Art. 139. - Durata: tre anni - Numero massimo di iscritti: cinque per ogni anno di corso.   
-Insegnamenti impartiti nella scuola:   
-1° Anno:   
-Clinica ortopedica e traumatologica (triennale) - Patologia delle lesioni e deformita' e malattie degli organi di movimento (triennale) - Anatomia - Chirurgica e tecnica operatoria ortopedica e traumatologica (triennale) - Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale) - Terapia ortopedica e traumatologica incruenta (biennale) - Anatomia ed istologia dell'apparato locomotore - Fisiologia dell'apparato locomotore - Pediatria ortopedica - Nozioni di chirurgia generale.   
-2° Anno:   
-Clinica ortopedica e traumatologica (triennale) - Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale) - Anatomia chirurgica e tecnica operatoria ortopedica e traumatologica (triennale) - Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale) - Terapia e traumatologia incruenta (biennale) - Neuropatologia dell'apparato locomotore ed elettrodiagnostica - Anatomia ed Istologia patologica dell'apparato locomotore - Anestesia e rianimazione in ortopedia e traumatologia.   
-3° Anno:   
-Clinica ortopedica e traumatologica (triennale) - Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale) - Anatomia chirurgica e tecnica operatoria ortopedica e traumatologica (triennale) - Protesi ed apparecchi ortopedici - Fisiochinesiterapia - Infortunistica.   
-  
-Scuola di specializzazione in clinica pediatrica   
-  
-Art. 145. - Durata: tre anni - Numero massimo di iscritti: dieci per ogni anno di corso.   
-Insegnamenti impartiti nella scuola:   
-1° Anno:   
-Clinica pediatrica (triennale) - Patologia pediatrica (biennale) - Puericultura (biennale) - Semeiotica pediatrica e tecnica diagnostica (biennale) - Auxologia normale e patologica - Psicologia dell'eta' evolutiva.   
-2° Anno:   
-Clinica pediatrica - Patologia pediatrica - Puericultura - Semeiotica pediatrica e tecnica diagnostica - Terapia pediatrica - Radiologia pediatrica - Malattie infettive dell'infanzia.   
-3° Anno:   
-Clinica pediatrica - Neuropsichiatria e igiene mentale dell'infanzia.   
-Materie complementari (una per ogni anno a scelta dell'iscritto):   
-Chirurgia pediatrica - Ortopedia e traumatologia infantile - Odontoiatria - Clinica dermosifilopatica - Clinica oculistica - Clinica otorinolaringoiatria - Cardiologia - Genetica.   
-  
-Scuola di specializzazione in igiene e medicina preventiva   
-  
-Art. 147. - Durata: tre anni. Il corso si distingue in un biennio propedeutico seguito da un anno con tre orientamenti differenziati:  
-Sanita' pubblica, laboratorio, igiene e direzione ospitaliera. Numero massimo di iscritti: venti per ogni anno di corso.   
-Coloro che hanno conseguito il diploma di specializzazione per uno dei tre orientamenti possono essere iscritti al terzo anno di un altro orientamento nell'ambito della disponibilita' dei posti.  
-Analogamente coloro che hanno conseguito il diploma di specializzazione in igiene a norma dei precedenti statuti delle scuole di specializzazione possono essere iscritti al terzo anno in uno dei tre orientamenti previsti sempre nell'ambito della disponibilita' dei posti.   
-Insegnamenti impartiti nella scuola:   
-1° Anno:   
-Metodologia statistica e biometria - Educazione sanitaria - Psicologia - Microbiologia - Parassitologia - Epidemiologia e profilassi generale.   
-2° Anno:   
-Patologia e clinica delle malattie infettive - Epidemiologia e profilassi delle malattie infettive - Patologia e clinica delle malattie non infettive di importanza sociale - Epidemiologia e profilassi delle malattie non infettive di importanza sociale - Demografia e statistica sanitaria - Legislazione e organizzazione sanitaria.   
-3° Anno (con orientamento di sanita' pubblica):   
-Approvvigionamento idrico-raccolta e smaltimento dei rifiuti liquidi e solidi; inquinamenti atmosferici - Igiene edilizia e urbanistica - Igiene della alimentazione - Igiene e medicina scolastica - Igiene ospitaliera - Servizi di sanita' pubblica.   
-3° Anno (con orientamento di laboratorio):   
-Microscopia applicata all'igiene - Microbiologia applicata all'igiene - Chimica clinica - Accertamento diagnostico delle malattie batteriche e parassitarie - Accertamento diagnostico delle infezioni virali - Nozioni di anatomia e istologia patologica.   
-3° Anno (con orientamento di igiene e direzione ospitaliera):   
-Storia degli ospedali e principi metodologici dell'assistenza ospitaliera - Igiene e tecnica delle costruzioni ospitaliere, arredamento ed impianti sanitari - Organizzazione e funzione degli ospedali generali e speciali" Diritto amministrativo e legislazione ospitaliera - Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospitaliera - Selezione e istruzione professionale del personale ospitaliero - Organizzazione e funzione dei laboratori di analisi e di accertamento necroscopico.   
-Materie complementari (una materia per ogni anno a scelta dell'iscritto).   
-1° Anno: Istituzioni di matematica - Genetica umana.   
-2° Anno: Geologia applicata all'igiene - Igiene mentale.   
-3° Anno (orientamento di sanita' pubblica): Diritto sanitario - Malattie professionali e loro prevenzione.   
-3° Anno (orientamento di laboratorio): Ispezione delle carni - Diritto sanitario.   
-3° Anno (orientamento di igiene e direzione ospitaliera):  
-Gerontologia e geriatria - Malattie professionali e loro prevenzione.   
-  
-Scuola di specializzazione in chirurgia vascolare   
-  
-Art. 156. - Durata tre anni - Numero massimo di Iscritti: cinque per ogni anno di corso.   
-Insegnamenti impartiti nella scuola:   
-1° Anno:   
-Embriologia, anatomia macro e microscopica dell'apparato vascolare - Fisiopatologia dell'apparato vascolare e della coagulazione sanguigna - Anatomia patologica dell'apparato vascolare - Semeiologia fisica e strumentale delle malattie vascolari - Semeiologia radiologica delle malattie vascolari - Vasculopatie di interesse medico e specialistico.   
-2° Anno:   
-Patologia e clinica delle malattie del sistema arterioso - Patologia e clinica delle malattie del sistema venoso - Patologia e clinica delle malattie del sistema linfatico - Patologia e clinica dei piccoli vasi.   
-3° Anno:   
-Nozioni di terapia medica delle malattie vascolari - Terapia chirurgica delle malattie vascolari - Chirurgia vascolare applicata a malattie dei vari organi.   
+L'art. 37 e' sostituito dal seguente:   
+"La Facolta' di scienze matematiche, fisiche e naturali conferisce le seguenti lauree:   
+1) Laurea in chimica;   
+2) Laurea in fisica;   
+3) Laurea in scienze matematiche;   
+4) Laurea in matematica e fisica;   
+5) Laurea in scienze naturali;   
+6) Laurea in scienze biologiche;   
+7) Laurea in scienze geologiche.   
+E' ammesso alla Facolta' di scienze matematiche, fisiche e naturali il biennio propedeutico agli studi per la laurea in ingegneria.   
+Il professore titolare di chimica farmaceutica e' aggregato alla Facolta' di scienze matematiche, fisiche e naturali".   
+Dopo l'art. 42 vengono aggiunti i seguenti nuovi articoli relativi alla istituzione del corso di laurea in scienze biologiche e del corso di laurea in scienze geologiche, con il conseguente spostamento della numerazione degli articoli successivi.   
+Art. 43. - La durata del corso degli studi per la laurea in scienze biologiche e' di quattro anni.   
+E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.   
+Sono insegnamenti fondamentali:   
+1) Istituzioni di matematiche;   
+2) Fisica;   
+3) Chimica generale ed inorganica;   
+4) Chimica organica;   
+5) Botanica (biennale);   
+6) Zoologia (biennale);   
+7) Anatomia comparata;   
+8) Anatomia umana;   
+9) Istologia ed embriologia;   
+10) Fisiologia generale (biennale);   
+11) Chimica biologica;   
+12) Igiene.   
+Sono insegnamenti complementari:   
+1) Chimica fisica;   
+2) Biologia generale;   
+3) Antropologia;   
+4) Biologia delle razze umane;   
+5) Etnologia;   
+6) Genetica;   
+7) Zoocultura (bachi, api, avicultura);   
+8) Idrobiologia e piscicoltura;   
+9) Patologia generale;   
+10) Microbiologia;   
+11) Parassitologia;   
+12) Entomologia agraria;   
+13) Fisiologia vegetale;   
+14) Patologia vegetale;   
+15) Geologia;   
+16) Paleontologia;   
+17) Statistica;   
+18) Scienza dell'alimentazione;   
+19) Cristallo-chimica;   
+20) Embriologia e morfologia sperimentale.   
+Gli insegnamenti biennali di botanica e di zoologia comprendono tanto la parte generale quanto la parte sistematica. Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed in quattro almeno da lui scelti fra i complementari.   
+Art. 44. - La durata del corso degli studi per la laurea in scienze geologiche e' di quattro anni.   
+E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.   
+Sono insegnamenti fondamentali:   
+1) Istituzioni di matematiche;   
+2) Fisica sperimentale (biennale);   
+3) Chimica generale ed inorganica con elementi di organica;   
+4) Mineralogia;   
+5) Geologia;   
+6) Geologia applicata;   
+7) Paleontologia;   
+8) Geografia;   
+9) Geografia fisica;   
+10) Topografia e cartografia;   
+11) Fisica terrestre;   
+12) Petrografia.   
+Sono insegnamenti complementari:   
+1) Chimica organica;   
+2) Chimica fisica;   
+3) Geochimica;   
+4) Astronomia;   
+5) Geodesia;   
+6) Zoologia;   
+7) Botanica;   
+8) Antropologia;   
+9) Giacimenti minerari;   
+10) Vulcanologia;   
+11) Analisi matematica (algebrica ed infinitesimale) biennale;   
+12) Meccanica razionale con elementi di statica grafica e disegno;   
+13) Geofisica mineraria;   
+14) Mineralogia applicata.   
+Gli insegnamenti di botanica e di zoologia debbono avere indirizzo biografico. Per l'insegnamento di analisi matematica vale la norma stabilita per la laurea in scienze matematiche. Per essere ammesso all'esame di laurea lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti fra gli insegnamenti complementari.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 1° giugno 1970
+### Dato a Roma, addi' 5 settembre 1957
 
-SARAGAT MISASI
+GRONCHI MORO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 24 luglio 1970
+Registrato alla Corte dei conti, addi' 24 ottobre 1957
 
-Atti del Governo, registro n. 236, foglio n. 183. - IZZI
+Atti del Governo, registro n. 108, foglio n. 99. - RELLEVA

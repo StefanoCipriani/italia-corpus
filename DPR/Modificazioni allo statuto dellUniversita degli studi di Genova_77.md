@@ -1,85 +1,115 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1968 n. 808
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 986
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1968 n. 808
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 986
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Veduto l'[art. 16 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art16);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Veduta la necessita' di adeguare le norme sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Sulla
+-----
+
+proposta del Ministro della pubblica istruzione; Decreta:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846) e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Lo statuto dell'Universita' di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Articolo unico  
   
-Decreta:  
+Dopo l'art. 443, e con il conseguente spostamento della numerazione, sono inseriti i seguenti nuovi articoli relativi all'istituzione della seconda scuola di specializzazione in pediatria.  
   
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 63. - E' abrogato e sostituito dal seguente: "La facolta' di farmacia conferisce la laurea in farmacia e la laurea in chimica e tecnologia farmaceutiche".  
-Dopo l'art. 71 e con il conseguente spostamento della successiva numerazione e' aggiunto il seguente nuovo articolo relativo all'istituzione del corso di laurea in chimica e tecnologia farmaceutiche annesso alla facolta' di farmacia.  
+Scuola di specializzazione in pediatria (seconda scuola)  
   
-Laurea in chimica e tecnologia farmaceutiche  
-  
-Art. 72. - Durata del corso degli studi: cinque anni, divisi in un biennio ed un triennio.  
-Titolo di ammissione: diploma di maturita' classica o scientifica.  
-Insegnamenti fondamentali:  
-Biennio:  
-1) analisi chimico farmaceutica I (analisi qualitativa;  
-(\*) 2) anatomia umana;  
-(\*) 3) botanica farmaceutica;  
-(\*) 4) chimica fisica;  
-(\*) 5) chimica generale ed inorganica;  
-(\*\*) 6) chimica organica I;  
-(\*) 7) fisica;  
-(8) fisiologia generale;  
-(\*) 9) istituzioni di matematiche;  
-Triennio:  
-11) analisi chimico farmaceutica II (analisi quantitativa);  
-12) analisi chimico farmaceutica III (analisi dei medicamenti); (\*) 13) biochimica applicata;  
-(\*) 14) chimica biologica;  
-(\*) 15) chimica degli alimenti;  
-(\*) 16) chimica farmaceutica applicata;  
-(\*) 17) chimica farmaceutica e tossicologica I;  
-(\*) 18) chimica farmaceutica e tossicologica II;  
-(\*\*) 19) chimica organica II;  
-(\*) 20) farmacologia e farmacognosia;  
-21) impianti dell'industria farmaceutica;  
-22) laboratorio di preparazione estrattiva e sintetica dei farmaci;  
-23) metodi fisici in chimica organica;  
-24) saggi e dosaggi farmacologici;  
-(\*) 25) tecnica e legislazione farmaceutica;  
-Insegnamenti complementari:  
-(\*) chimica delle fermentazioni e microbiologia industriale;  
-chimica delle sostanze organiche naturali, chimica dei prodotti dietetici;  
-chimica dei prodotti cosmetici;  
-(\*) complementi di chimica tossicologica;  
-(\*) microchimica;  
-(\*) mineralogia.  
-Le materie segnate con un asterisco sono comuni alla laurea in farmacia; quelle segnate con due asterischi sono comuni alla laurea in chimica.  
-Per ottenere l'iscrizione al 3° anno lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fissati per i due anni precedenti.  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato tutti gli esami dei corsi fondamentali e almeno due esami a scelta fra i corsi complementari.  
-La prova di laurea comporta la discussione di una tesi sperimentale.  
+Art. 444. - Presso l'istituto di puericultura e medicina neonatale e' istituita la scuola di specializzazione in pediatria (seconda scuola). Essa conferisce il diploma di specializzazione in pediatria.  
+La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
+Art. 445. - La durata del corso di studi e' di quattro anni.  
+Art. 446. - Il numero massimo degli allievi e' di quarantotto complessivamente per l'intero corso di studi.  
+Art. 447. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1) genetica;  
+2) auxologia;  
+3) alimentazione;  
+4) epidemiologia;  
+5) malattie infettive;  
+6) clinica pediatrica I.  
+2° Anno:  
+1) radiologia;  
+2) legislazione del minore;  
+3) organizzazione sanitaria;  
+4) psicologia pediatrica;  
+5) oculistica ed ortottica;  
+6) otorino e foniatria;  
+7) odonto;  
+8) neonatologia I;  
+9) chirurgia pediatrica I;  
+10) pediatria preventiva e sociale I;  
+11) clinica pediatrica II.  
+3° Anno:  
+1) neurologia;  
+2) psichiatria infantile;  
+3) nefrologia e urologia;  
+4) ginecologia pediatrica;  
+5) neonatologia II;  
+6) chirurgia pediatrica II;  
+7) pediatria preventiva e sociale II;  
+8) cardiologia I;  
+9) endocrinologia;  
+10) ematologia I;  
+11) immunologia I;  
+12) gastroenterologia I;  
+13) clinica pediatrica III.  
+4° Anno:  
+1) oncologia;  
+2) pneumologia;  
+3) ortopedia e traumatologia;  
+4) dermatologia;  
+5) cardiologia II;  
+6) endocrinologia II;  
+7) ematologia II;  
+8) immunologia II;  
+9) gastroenterologia II;  
+10) clinica pediatrica IV.  
+Art. 448. - La frequenza alle lezioni, alle esercitazioni pratiche e' obbligatoria.  
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto, non potranno essere ammessi a sostenere le prove d'esame.  
+Art. 449. - Alla fine di ciascun anno di corso gli iscritti, per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame sara' sostenuto anno per anno.  
+Al termine del corso di studi, per il conseguimento del diploma di specializzazione in pediatria, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione, un esame teorico di clinica pediatrica e nell'esame clinico di un malato.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti e di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 giugno 1968
+### Dato a Roma, addi' 31 ottobre 1981
 
-SARAGAT GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 17 luglio 1968
+Registrato alla Corte dei conti, addi' 9 febbraio 1982
 
-Atti del Governo, registro n. 221, foglio n. 35. - GRECO
+Registro n. 20 Istruzione, foglio n. 171

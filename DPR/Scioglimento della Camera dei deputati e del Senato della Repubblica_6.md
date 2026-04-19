@@ -1,13 +1,13 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 aprile 1979 n. 96
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 maggio 1976 n. 163
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 aprile 1979 n. 96
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 maggio 1976 n. 163
+=============================================================
 
 Scioglimento della Camera dei deputati e del Senato della Repubblica.
 ---------------------------------------------------------------------
 
-Entrata in vigore del provvedimento: 4/4/1979.
+Entrata in vigore del provvedimento: 4/5/1976.
 
 Art. 1
 ------
@@ -25,8 +25,8 @@ La Camera dei deputati e il Senato della Repubblica sono sciolti.
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 aprile 1979
+### Dato a Roma, addi' 1 maggio 1976
 
-PERTINI ANDREOTTI
+LEONE MORO
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: BONIFACIO

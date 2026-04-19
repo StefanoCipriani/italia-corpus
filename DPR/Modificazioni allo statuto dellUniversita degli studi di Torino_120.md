@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1968 n. 796
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1961 n. 178
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1968 n. 796
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1961 n. 178
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
@@ -12,75 +12,136 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1074](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1074), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta, la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 75. - E' abrogato e sostituito dal seguente: "La facolta' di farmacia conferisce la laurea in farmacia e la laurea in chimica e tecnologia farmaceutiche".  
-Dopo l'art. 81 e con il conseguente spostamento della successiva numerazione e' aggiunto il seguente nuovo articolo relativo all'istituzione del corso di laurea in chimica e tecnologia farmaceutiche annesso alla facolta' di farmacia.  
+Art. 24. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere moderne (indirizzo europeo) sono aggiunti quelli di "Storia romana a e "Lingua e letteratura polacca".  
+L'ordinamento della. Scuola di perfezionamento in Archeologia e Storia dell'arte annessa alla Facolta' di lettere e filosofia, e' modificato con la seguente nuova denominazione: Scuola di perfezionamento in Storia dell'arte medioevale e moderna.  
+L'art. 74 e' sostituito dal seguente:  
   
-Laurea in chimica e tecnologia farmaceutiche  
+Sono insegnamenti costitutivi della Scuola della Storia dell'arte medioevale e moderna:  
+1) Archeologia e storia dell'arte greca;  
+2) Archeologia, e storia dell'arte romana;  
+3) Storia dell'arte medioevale e moderna;  
+4) Storia della musica;  
+5) Estetica.  
+Gli iscritti sono tenuti a sostenere, prima dell'esame di diploma:  
+a) un esame biennale di Storia dell'arte medioevale e moderna;  
+b) un esame annuale di Archeologia e storia dell'arte greca;  
+c) un esame annuale di Archeologia e storia dell'arte romana;  
+d) un esame annuale di Estetica Ognuno degli esami indicati alle lettere b), c), d) puo' essere sostituito con un esame di atti disciplina (previa approvazione del direttore della Scuola) qualora esso sia gia' stato superato dall'iscritto prima del conseguimento della, laurea.  
+Dopo l'art. 74 e' aggiunto il seguente nuovo articolo relativo alla istituzione della Scuola di perfezionamento in Archeologia con il conseguente spostamento della, numerazione degli articoli successivi.  
   
-Art. 82. - Durata del corso degli studi: cinque anni, divisi in un biennio ed un triennio.  
-Titolo di ammissione: diploma di maturita' classica o scientifica.  
+SCUOLA DI PERFEZIONAMENTO IN ARCHEOLOGIA  
+  
+Art. 75. - Sono insegnamenti costitutivi della Scuola di perfezionamento in Archeologia:  
+1) Archeologia, e storia dell'arte greca;  
+2) Archeologia e storia dell'arte romana;  
+3) Storia dell'arte medioevale e moderna;  
+4) Estetica;  
+5) Antichita) greche e romane;  
+6) Topografia dell'Italia antica;  
+7) Archeologia delle province romane;  
+8) Etruscologia ed archeologia italica;  
+9) Archeologia, cristiana;  
+10) Paletnologia;  
+11) Numismatica;  
+12) Epigrafia greca;  
+13) Epigrafia latina;  
+14) Egittologia;  
+15) Archeologia orientale;  
+16) Storia orientale antica;  
+17) Indologia;  
+18) Filologia iranica;  
+19) Storia dell'arte islamica;  
+20) Storia e stili dell'architettura.  
+Insegnamenti aggiuntivi:  
+1) Tecnica dello scavo;  
+2) Restauro delle opere d'arte e Museografia;  
+3) Elementi di disegno e di rilievo;  
+4) Restauro dei monumenti;  
+5) Storia greca;  
+6) Storia romana.  
+Di tali insegnamenti quelli ai numeri 3 e 4 solo per gli iscritti provenienti dalla Facolta' di lettere, quelli ai numeri 5 e 6 solo per i provenienti dalla Facolta' di architettura.  
+La Scuola di perfezionamento comprende tre indirizzi:  
+1) Archeologia e storia dell'arte greca e romana;  
+2) Archeologia italica;  
+3) Archeologia orientale.  
+Indirizzo di Archeologia e storia dell'arte greca e romana:  
 Insegnamenti fondamentali:  
-Biennio:  
-1) analisi chimico farmaceutica I (analisi qualitativa);  
-(\*) 2) anatomia umana;  
-(\*) 3) botanica farmaceutica;  
-(\*) 4) chimica fisica;  
-(\*) 5) chimica generale ed inorganica;  
-(\*\*) 6) chimica organica I;  
-(\*) 7) fisica;  
-8) fisiologia generale;  
-(\*) 9) istituzioni di matematiche;  
-10) microbiologia e igiene.  
-Triennio:  
-11) analisi chimico farmaceutica II (analisi quantitativa);  
-12) analisi chimico farmaceutica 111 (analisi dei medicamenti); (\*) 13) biochimica applicata;  
-(\*) 14) chimica biologica;  
-(\*) 15) chimica degli alimenti;  
-(\*) 16) chimica farmaceutica applicata;  
-(\*) 17) chimica farmaceutica e tossicologia I;  
-(\*) 18) chimica farmaceutica e tossicologica II;  
-(\*\*) 19) chimica organica II;  
-(\*) 20) farmacologia e farmacognosia;  
-21) impianti dell'industria farmaceutica;  
-22) laboratorio di preparazione estrattiva e sintetica dei farmaci;  
-23) metodi fisici in chimica organica;  
-24) saggi e dosaggi farmacologici;  
-(\*) 25) tecnica e legislazione farmaceutica.  
+i) Archeologia e storia dell'arte greca;  
+2) Archeologia e storia dell'arte romana;  
+3) Storia e stile dell'architettura;  
+4) Storia dell'arte medioevale e moderna;  
+5) Estetica.  
 Insegnamenti complementari:  
-(\*) chimica delle fermentazioni e microbiologia industriale;  
-chimica delle sostanze organiche naturali;  
-(\*\*) complementi di chimica tossicologica;  
-(\*) microchimica;  
-chimica dei prodotti dietetici;  
-chimica dei prodotti cosmetici.  
-Le materie segnate con un asterisco sono comuni alla laurea in farmacia; quelle segnate con due asterischi sono comuni alla laurea in chimica.  
-Per ottenere l'iscrizione al terzo anno di corso, lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fissati per i due precedenti.  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato tutti gli esami dei corsi fondamentali e almeno due esami a scelta fra i corsi complementari.  
-La prova di laurea comporta la discussione di una tesi sperimentale.  
+1) Antichita', greche e romane;  
+2) Etruscologia e archeologia italica;  
+3) Topografia dell'Italia antica;  
+4) Archeologia delle province romane;  
+5) Numismatica;  
+6) Egittologia;  
+7) Archeologia orientale;  
+5) Epigrafia greca;  
+9) Epigrafia latina.  
+Indirizzo di Archeologia italica:  
+Insegnamenti fondamentali:  
+1) Archeologia e storia dell'arte greca;  
+2) Archeologia e storia dell'arte romana;  
+3) Paletnologia;  
+4) Topografia dell'Italia antica;  
+5) Etruscologia ed archeologia italica.  
+Insegnamenti complementari:  
+1) Archeologia cristiana;  
+2) Storia e stili dell'architettura;  
+3) Antichita' greche e romane;  
+4) Numismatica;  
+5) Epigrafia greca;  
+6) Epigrafia latina;  
+7) Archeologia delle province romane;  
+8) Storia dell'arte medioevale e moderna.  
+Indirizzo di Archeologia orientale:  
+Insegnamenti fondamentali:  
+1) Archeologia orientale;  
+2) Archeologia e storia dell'arte greca;  
+3) Storia, orientale antica;  
+4) Indologia;  
+5) Storia dell'arte islamica.  
+Insegnamenti complementari:  
+1) Filologia iranica;  
+2) Archeologia e storia dell'arte romana;  
+3) Archeologia delle province romane;  
+4) Numismatica;  
+5) Egittologia;  
+6) Storia dell'arte medioevale e moderna;  
+7) Epigrafia greca.  
+Gli iscritti alla Scuola di perfezionamento in Archeologia, possono scegliere uno dei tre indirizzi previsti. Debbono sostenere sette esami per ciascun indirizzo, di cui cinque fondamentali e due complementari a scelta. Debbono altresi' seguire i corsi degli insegnamenti aggiuntivi, sui quali sosterranno un colloquio prima dell'esame fondamentale di archeologia dell'indirizzo prescelto.  
+Gli iscritti dovranno sottoporre entro il 31 gennaio del primo anno di corso, all'approvazione del direttore della Scuola, il programma, degli esami che intendono superare, con la facolta' di scegliere due insegnamenti complementari da quelli dell'indirizzo prescelto.  
+Art. 77 (gia' 76) e' sostituito dal seguente:  
+  
+Ai diplomi di perfezionamento in Filologia classica; in Filologia moderna, in Discipline storiche e geografiche e in Storia dell'arte possono aspirare i laureati in Lettere o in Filosofia della Facolta' di lettere e filosofia; al diploma di perfezionamento in Archeologia i laureati in Lettere o in Filosofia della Facolta' di lettere e filosofia e i laureati della Facolta' di architettura provvisti di diploma di maturita' classica; al diploma di perfezionamento in Filosofia e Pedagogia i laureati in Filosofia o in Lettere della Facolta' di lettere e filosofia e i laureati della Facolta' di giurisprudenza.  
+Art. 78 (gia' 77). - Al secondo comma sono aggiunte le seguenti parole:  
+"salvo quanto diversamente disposto per le Scuole di perfezionamento in Storia dell'arte medioevale e moderna e in archeologia".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 giugno 1968
+### Dato a Roma, addi' 16 febbraio 1961
 
-SARAGAT GUI
+GRONCHI BOSCO
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 17 luglio 1968
+Registrato alla Corte dei conti, addi' 27 marzo 1961
 
-Atti del Governo, registro n. 221, foglio n. 36. - GRECO
+Atti del Governo, registro n. 135, foglio n. 95. - VILLA

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1971 n. 871
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 marzo 1955 n. 221
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1971 n. 871
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 marzo 1955 n. 221
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
@@ -10,15 +10,17 @@ Modificazioni allo statuto dell'Universita' degli studi di Torino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 20 aprile 1939, n. 1118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1118) e modificato con i [regi decreti 12 gennaio 1941, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-01-12;34); [27 aprile 1942, n. 571](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;571); [5 settembre 1942, n. 1237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1237); [24 ottobre 1942, n. 1438; con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1438) [4 febbraio 1947, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-02-04;196) e [7 marzo 1947, n. 1727 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-03-07;1727) [26 febbraio 1949, n. 430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;430); [21 aprile 1949, n. 613](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-21;613); [1 settembre 1949, n. 816](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-01;816); [13 marzo 1950, n. 599](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-03-13;599); [30 ottobre 1950, n. 1125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1125) [31 ottobre 1950, n. 1310](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1310); [30 giugno 1951, n. 1148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-30;1148); [27 ottobre 1951, n. 1794](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1794); [25 luglio 1952, n. 1352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1352); [16 ottobre 1952, n. 4554](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-16;4554); [26 ottobre 1952, n. 4506](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4506); [30 ottobre 1952, n. 4483](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-30;4483); [11 marzo 1953, n. 573](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;573); [11 marzo 1953, n. 576](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;576); [12 ottobre 1953, n. 1046](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-10-12;1046); [2 marzo 1954, n. 181](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-02;181) e [26 aprile 1954, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-04-26;741);
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -30,455 +32,216 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-L'art. 10, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola in "Neuropatologia e psichiatria" muta la denominazione in quella di scuola in "Neurologia".
+Art. 9. Agli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di:
 
-Allo stesso elenco e' aggiunta la scuola in "Medicina dello sport".
+16) "Storia delle dottrine politiche".
 
-Gli articoli 144 e 145 relativi alla scuola di specializzazione in "Neuropatologia e psichiatria" che assume la denominazione di scuola di specializzazione in "Neurologia", sono abrogati e sostituiti dai seguenti:
+Art. 10. - Il secondo comma e' cosi' modificato:
 
-Scuola di specializzazione in neurologia
+"Gli esami di istituzioni di diritto romano e di storia del diritto romano precedono quelli di diritto romano, di esegesi delle fonti del diritto romano, di diritto bizantino, di storia del diritto italiano e del diritto comune".
 
-Art. 144. - Il corso per il conseguimento del diploma di specialista in neurologia ha la durata di quattro anni.
+Dopo il secondo comma dell'art. 10 sono aggiunti i seguenti:
 
-Il numero degli iscritti da ammettere alla scuola e' stabilito in trentotto per i quattro anni di corso.
+"L'esame di diritto penale precede quello di procedura penale.
 
-Le materie di insegnamento sono le seguenti:
+L'esame di diritto costituzionale precede quelli di diritto amministrativo e di diritto internazionale.
 
-1° Anno (internato in psichiatria):
+L'esame di economia politica precede quello di scienza delle finanze.
 
-Anatomia ed istologia del S.N.;
+L'esame di storia del diritto italiano precede quello di diritto comune".
 
-Fisiologia del S.N.;
+Art. 12. - Agli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto quello di:
 
-Biochimica del S.N.;
+9) "Diritto ecclesiastico".
 
-Genetica (elementi);
+Art. 25. - Agli insegnamenti complementari del corso di laurea in materie letterarie e' aggiunto quello di:
 
-Psicologia generale;
+7) "Storia della geografia (storia della scienza e delle esplorazioni)".
 
-Psicopatologia;
+Art. 27. - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere e' aggiunto quello di:
 
-Semeiotica psichiatrica.
+5) "Storia della geografia (storia della scienza e delle esplorazioni)".
 
-2° Anno:
+Art. 28. - Agli insegnamenti complementari del diploma di abilitazione alla vigilanza nelle scuole elementari e' aggiunto quello di:
 
-Anatomia ed istologia patologica del S.N.;
+2) "Storia della geografia (storia della scienza e delle esplorazioni)".
 
-Semeiotica neurologica;
+Art. 37. - Agli insegnamenti complementari del corso di laurea in chimica (indirizzo organico-biologico) e aggiunto quello di: 16) "Misure elettriche (corso speciale per chimici)".
 
-Patologia speciale e diagnostica neurologica (1°);
+Art. 39. - Agli insegnamenti complementari del corso di laurea in fisica e' aggiunto quello di: 12) "Onde elettromagnetiche".
 
-Neuro-radiologia;
+Art. 76. - Il secondo comma e' abrogato e sostituito dai seguenti:
 
-Endocrinologia e neurologia vegetativa.
+"L'ammontare delle tasse e soprattasse sara' deliberato anno per anno dal Consiglio di amministrazione su proposta del Senato accademico, udito il parere del Consiglio della Facolta' di lettere e filosofia.
 
-3° Anno:
+L'ammontare dei contributi sara' ugualmente stabilito anno per anno dal Consiglio di amministrazione, su proposta del Senato accademico, udite la Facolta' e scuole.
 
-Patologia speciale e diagnostica neurologica (2°);
+La tassa di diploma e' fissata nella misura di L. 6000, a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7)".
 
-Clinica neurologica (1°);
+L'art. 82 e' modificato nel senso che la materia "Geografia e topografia storica del mondo antico" e' considerata quale insegnamento aggiuntivo della scuola di discipline storiche e geografiche.
 
-Elettroencefalografia;
+Art. 86. - Il secondo comma e' sostituito dal seguente:
 
-Elettromiografia, elettrodiagnostica ed elettroterapia;
+"Durante gli anni di iscrizione lo studente deve ottenere la firma di iscrizione e di frequenza per almeno tre corsi, scelti fra quelli costitutivi della scuola, e sostenere i relativi esami".
 
-Neuro-oftalmologia;
+Art. 108. - Dopo il n. 23 e' aggiunto quanto appresso:
 
-Neuro-otologia;
+24) Cardioangiochirurgia.
 
-Esami di laboratorio.
+All'art. 110, relativo ai titoli di ammissione alle scuole di perfezionamento e di specializzazione in medicina e chirurgia e' aggiunto il seguente nuovo comma:
 
-4° Anno:
+"Al diploma di specialista in cardioangiochirurgia possono aspirare i laureati in medicina e chirurgia che siano in possesso della libera docenza in patologia speciale chirurgica o in clinica chirurgica o del diploma di specialista in chirurgia generale".
 
-Clinica neurologica (2°);
+Dopo l'art. 183, sono aggiunti i seguenti nuovi articoli, relativi all'istituzione della "Scuola di specializzazione in cardioangiochirurgia".
 
-Neurochirurgia;
+Scuola di specializzazione in cardioangiochirurgia
 
-Teoria e clinica della riabilitazione;
+Art. 184. - Per il conseguimento del diploma di specialista in cardioangiochirurgia, si richiedono due anni di corso.
 
-Neuro-traumatologia anche sotto l'aspetto della medicina legale;
+Art. 185. - La scuola e' costituita presso l'Istituto di clinica chirurgica generale ed e' posta sotto la direzione e la diretta sorveglianza del titolare della cattedra di clinica chirurgica generale, coadiuvato da professori e docenti proposti e particolarmente preparati in tale materia.
 
-Neurologia in rapporto alla patologia internistica.
+Art. 186. - Il materiale didattico e' costituito dai degenti presso il centro di cardiochirurgia e presso il reparto di angiologia della clinica chirurgica, dal materiale anatomo-patologico e dalla documentazione raccolta nel museo, nell'archivio e nella biblioteca dell'Istituto.
 
-Art. 145. - Internato obbligatorio per l'intero anno scolastico nel 2°, 3° e 4° anno in clinica neurologica, sede della scuola. Tale internato potra' essere ridotto a non meno di mesi 4 per anno per i medici che prestino regolare servizio in reparto neurologico.
+Art. 187. - Il corso si compone di insegnamenti fondamentali e di conferenze su argomenti speciali.
 
-Internato obbligatorio per l'intero anno scolastico in psichiatria nel primo anno.
+Art. 188. - Gli insegnamenti fondamentali impartiti dalla scuola sono i seguenti:
 
-Tale internato potra' essere ridotto a non meno di mesi 6 per i medici che prestino servizio in reparto neurologico e a non meno di mesi 4 per coloro che prestino servizio in ospedale psichiatrico.
+Embriologia, anatomia descrittiva e topografica dell'apparato circolatorio (1° anno);
 
-Esami obbligatori per il passaggio all'anno successivo. Ammissione per titoli ed esami.
+Fisiologia dell'apparato circolatorio (1° anno);
 
-Un abbuono di anni 2 puo' essere concesso agli specialisti in psichiatria, neuropsichiatria infantile e neurochirurgia.
+Anatomia patologica (1° anno)
 
-Un anno di abbuono per gli specialisti in altre materie affini (medicina interna, otorinolaringoiatria, oculistica, radiologia).
+Semeiotica e diagnostica delle cardiopatie chirurgiche (clinica strumentale, radiologica e di laboratorio) (1° anno);
 
-Gli abbuoni possono essere concessi solo superando un esame di ammissione.
+Semeiotica e diagnostica angiologica (clinica strumentale, radiologica e di laboratorio) (1° anno);
 
-Tutti gli abbuoni di cui sopra sono concessi a giudizio del direttore della scuola.
+Fisiopatologia del sistema neuro-vegetativo (1° anno);
 
-Gli articoli 148 e 149, relativi alla scuola di specializzazione in "Ostetricia e ginecologia" sono abrogati e sostituiti dai seguenti:
+Patologia e terapia medica cardiologica (2° anno);
 
-Scuola di specializzazione in ostetricia e ginecologia
+Fisiopatologia e terapia medica angiologica (2° anno);
 
-Art. 148. - La durata del corso di specializzazione in ostetricia e ginecologia e' della durata di 4 anni.
+Anestesia e rianimazione (2° anno);
 
-L'ammissione alla scuola avviene a seguito di concorso per titoli ed esami. Sono da considerarsi titoli preferenziali a parita' di risultato dell'esame di ammissione:
+Terapia chirurgica e tecnica operativa (biennale).
 
-a) il voto di laurea in medicina e chirurgia;
+Durante i due anni di corso verranno tenute esercitazioni di diagnostica, di laboratorio, di tecnica operativa e dimostrazioni pratiche.
 
-b) aver frequentato come studente interno una clinica ostetrica e ginecologica;
+Art. 189. - La frequenza alle lezioni, alle conferenze ed alle esercitazioni teoriche e pratiche e' obbligatoria.
 
-c) aver svolto la tesi di laurea in una clinica ostetrica e ginecologica;
+Art. 190. - Alla fine di ciascun anno accademico i perfezionandi che abbiano ottenuto le firme di frequenza dovranno sostenere un esame di profitto nelle materie fondamentali, il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo e per quelli che sono stati iscritti a quest'ultimo, all'esame di diploma.
 
-d) documentazione di eventuali servizi prestati in reparti qualificati ospedalieri della specialita';
+Art. 191. - Alla fine del secondo anno del corso ha luogo l'esame di diploma, che consiste nella discussione di una dissertazione scritta su argomento di cardiochirurgia e di angiologia, proposto o approvato dal direttore della scuola non oltre l'inizio del secondo anno di corso.
 
-e) eventuali pubblicazioni.
+La dissertazione, approvata dal direttore, dovra' essere depositata presso la Direzione della scuola almeno trenta giorni prima dell'esame.
 
-L'esame di ammissione deve espletarsi entro il mese di dicembre.
+Art. 192. - La Commissione per gli esami di profitto e' costituita dal direttore della scuola, dal docente della materia e da un altro docente del corso.
 
-Il numero massimo degli iscritti e' stabilito complessivamente in cinquanta specializzandi.
+La Commissione per l'esame di diploma e' formata da sette membri presieduta dal preside della Facolta' o da un professore da lui delegato.
 
-Per nessun motivo il corso di quattro anni puo' essere abbreviato.
-
-Nessun titolo puo' esonerare dalla frequenza gli iscritti ai quattro anni di corso.
-
-Gli iscritti oltre all'obbligo di frequenza delle lezioni, esercitazioni, seminari, ecc., devono prestare analoghi servizi a quelli degli assistenti per non meno di 9 mesi all'anno.
-
-Gli iscritti devono sostenere gli esami annuali di profitto e l'esame finale di diploma. La sessione di esami di profitto e' unica ed espletata nel mese di ottobre.
-
-Non puo' essere iscritto all'anno successivo di corso chi non abbia superato gli esami relativi alle materie fissate per l'anno in corso;
-
-Art. 149. - Gli insegnamenti sono cosi' distribuiti nei 4 anni di corso:
-
-1° Anno:
-
-Elementi di genetica e di eugenica;
-
-Anatomia normale ed embriologia dell'apparato genitale femminile;
-
-Fisiologia dell'apparato genitale femminile;
-
-Endocrinologia ginecologica;
-
-Fisiologia ostetrica;
-
-Clinica ostetrica e ginecologica;
-
-Diagnostica ostetrica.
-
-2° Anno:
-
-Tecnica operatoria ostetrica;
-
-Diagnostica ginecologica;
-
-Tecnica diagnostica di laboratorio nel campo ostetrico e ginecologico; esclusa la istologia (sierologia, batteriologia, citologia, ematologia, biochimica);
-
-Clinica ostetrica e ginecologica.
-
-3° Anno:
-
-Anatomia patologia ostetrica e ginecologica;
-
-Istologia normale e patologia nel campo della specialita';
-
-Puericultura prenatale;
-
-Emoterapia nel campo ostetrico e ginecologico;
-
-Anestesia e analgesia nel campo ostetrico e ginecologico;
-
-Tecnica operatoria ginecologica;
-
-Clinica ostetrica e ginecologica;
-
-Terapia medica ostetrica e ginecologica.
-
-4° Anno:
-
-Puericultura postnatale e malattie del neonato;
-
-Ostetricia e ginecologia forense;
-
-Diagnostica roentgen e radioterapia in ostetricia e ginecologia;
-
-Clinica ostetrica e ginecologica (esame alla fine del 4° anno);
-
-Urologia ginecologica;
-
-Chirurgia addominale extra genitale.
-
-Gli esami si fanno per gruppi di materia ed i membri della commissione saranno proposti dal direttore della scuola.
-
-Per il conseguimento del diploma, l'iscritto deve presentare e discutere una dissertazione scritta con un contributo personale.
-
-Dopo l'art. 242 e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in medicina dello sport.
-
-Scuola di specializzazione in medicina dello sport
-
-Art. 243. - La scuola di specializzazione in medicina dello sport dell'Universita' degli studi di Torino si propone:
-
-a) di valorizzare e approfondire gli studi biologici e di medicina applicata nel campo delle attivita' sportive, formative e di competizione, e della educazione fisica;
-
-b) di preparare adeguatamente sotto l'aspetto teorico e della pratica applicazione, i medici che intendono dedicarsi alle attivita' attinenti a questa particolare branca della medicina applicata, conferendo ad essi il diploma di "Specialisti in medicina dello sport".
-
-Il titolo richiesto per l'ammissione alla scuola e' la laurea in medicina e chirurgia.
-
-Art. 244. - Il corso di studi ha la durata di tre anni, con frequenza obbligatoria; esso ha la sua sede ufficiale presso l'istituto di fisiologia umana e presso il centro di medicina dello sport della citta' di Torino. Gli insegnamenti clinici e specialistici si svolgeranno presso i rispettivi istituti clinici e specialistici.
-
-La concessione di eventuali abbreviazioni del corso avverra' a insindacabile giudizio del consiglio dei docenti della scuola.
-
-Il numero massimo degli allievi sara' di quindici per anno e complessivamente di quarantacinque per intero corso.
-
-L'ammissione ai corsi avviene per titoli. Nel caso di domande eccedenti il numero di posti disponibili, l'ammissione dei candidati aventi pari titoli e uguale data di presentazione della domanda, sara' regolata da prove di esami davanti a una commissione nominata dal consiglio dei docenti della scuola.
-
-La direzione del corso e' affidata al direttore dello istituto di fisiologia umana.
-
-Art. 245. - L'ordine degli studi e' il seguente:
-
-1° Anno:
-
-Anatomia dell'apparato locomotore;
-
-Biomeccanica applicata all'esercizio fisico;
-
-Biochimica generale e applicata;
-
-Antropometria e auxologia;
-
-Storia, sistematica e tecnologia degli sport;
-
-Istituzioni di psicologia generale e psicologia applicata agli sport;
-
-Istituzioni di scienza della nutrizione e dietetica applicata all'attivita' sportiva.
-
-2° Anno:
-
-Anatomia degli apparati circolatorio, respiratorio e nervoso;
-
-Fisiologia delle ossa, delle articolazioni e dei muscoli;
-
-Biochimica ed energetica muscolare;
-
-Valutazione funzionale dello sportivo e tecnica fisiologica;
-
-Biofisica del muscolo (facoltativo);
-
-Fisioterapia e rieducazione funzionale (facoltativo);
-
-Farmacologia applicata all'attivita' sportiva (doping) (facoltativo);
-
-Igiene e medicina preventiva applicata all'attivita' sportiva (facoltativo).
-
-3° Anno:
-
-Fisiologia del sistema nervoso motorio, della respirazione e della circolazione;
-
-Educazione fisica e tecnica dell'allenamento sportivo;
-
-Chirurgia d'urgenza, rianimazione e pronto soccorso;
-
-Medicina legale ed infortunistica;
-
-Traumatologia ed ortopedia dello sport;
-
-Fisiopatologia degli sport (facoltativo);
-
-Assistenza medico-sportiva nei grandi agglomerati urbani (facoltativo).
-
-La scuola inoltre svolgera' brevi corsi integrativi di conferenze o seminari sopra argomenti e discipline che saranno stabiliti, secondo le possibilita' contingenti, dal consiglio dei docenti della scuola.
-
-Saranno inoltre svolte esercitazioni pratiche in sede e sul campo.
-
-Gli esami annuali si svolgeranno per gruppo di materie, comprendenti discipline incluse nel piano di studio. Il gruppo di materie comprende tutte le materie d'insegnamento fondamentali e quelle facoltative scelte dal candidato, previste per ogni anno di corso.
-
-L'iscrizione agli anni successivi e' subordinata al superamento di tutti gli esami annuali.
-
-Il diploma si consegue dopo aver superato tutte le prove di esami del triennio; la prova di diploma si svolge con la discussione su una dissertazione scritta concernente un tema assegnato o in ogni altro caso approvato dal direttore della scuola.
+Di essa faranno parte altri membri scelti dal preside fra i professori ed i liberi docenti dell'Universita' di Torino.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 4 agosto 1971
+Dato a Roma, addi' 1 marzo 1955
 
-SARAGAT
+EINAUDI
 
-MISASI
+ERMINI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: DE PIETRO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 26 ottobre 1971 Atti del Governo, registro n. 244, foglio n. 183. - CARUSO
+alla Corte dei conti, addi' 2 aprile 1955 Atti del Governo, registro n. 90, foglio n. 22. - CARLOMAGNO
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 20 aprile 1939, n. 1118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1118) e modificato con i [regi decreti 12 gennaio 1941, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-01-12;34); [27 aprile 1942, n. 571](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;571); [5 settembre 1942, n. 1237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1237); [24 ottobre 1942, n. 1438; con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1438) [4 febbraio 1947, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-02-04;196) e [7 marzo 1947, n. 1727 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-03-07;1727) [26 febbraio 1949, n. 430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;430); [21 aprile 1949, n. 613](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-21;613); [1 settembre 1949, n. 816](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-01;816); [13 marzo 1950, n. 599](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-03-13;599); [30 ottobre 1950, n. 1125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1125) [31 ottobre 1950, n. 1310](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1310); [30 giugno 1951, n. 1148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-30;1148); [27 ottobre 1951, n. 1794](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1794); [25 luglio 1952, n. 1352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1352); [16 ottobre 1952, n. 4554](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-16;4554); [26 ottobre 1952, n. 4506](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4506); [30 ottobre 1952, n. 4483](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-30;4483); [11 marzo 1953, n. 573](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;573); [11 marzo 1953, n. 576](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;576); [12 ottobre 1953, n. 1046](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-10-12;1046); [2 marzo 1954, n. 181](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-02;181) e [26 aprile 1954, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-04-26;741);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 9. Agli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di:  
+16) "Storia delle dottrine politiche".  
+Art. 10. - Il secondo comma e' cosi' modificato:  
+"Gli esami di istituzioni di diritto romano e di storia del diritto romano precedono quelli di diritto romano, di esegesi delle fonti del diritto romano, di diritto bizantino, di storia del diritto italiano e del diritto comune".  
+Dopo il secondo comma dell'art. 10 sono aggiunti i seguenti:  
+"L'esame di diritto penale precede quello di procedura penale.  
+L'esame di diritto costituzionale precede quelli di diritto amministrativo e di diritto internazionale.  
+L'esame di economia politica precede quello di scienza delle finanze.  
+L'esame di storia del diritto italiano precede quello di diritto comune".  
+Art. 12. - Agli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto quello di:  
+9) "Diritto ecclesiastico".  
+Art. 25. - Agli insegnamenti complementari del corso di laurea in materie letterarie e' aggiunto quello di:  
+7) "Storia della geografia (storia della scienza e delle esplorazioni)".  
+Art. 27. - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere e' aggiunto quello di:  
+5) "Storia della geografia (storia della scienza e delle esplorazioni)".  
+Art. 28. - Agli insegnamenti complementari del diploma di abilitazione alla vigilanza nelle scuole elementari e' aggiunto quello di:  
+2) "Storia della geografia (storia della scienza e delle esplorazioni)".  
+Art. 37. - Agli insegnamenti complementari del corso di laurea in chimica (indirizzo organico-biologico) e aggiunto quello di: 16) "Misure elettriche (corso speciale per chimici)".  
+Art. 39. - Agli insegnamenti complementari del corso di laurea in fisica e' aggiunto quello di: 12) "Onde elettromagnetiche".  
+Art. 76. - Il secondo comma e' abrogato e sostituito dai seguenti:  
+"L'ammontare delle tasse e soprattasse sara' deliberato anno per anno dal Consiglio di amministrazione su proposta del Senato accademico, udito il parere del Consiglio della Facolta' di lettere e filosofia.  
+L'ammontare dei contributi sara' ugualmente stabilito anno per anno dal Consiglio di amministrazione, su proposta del Senato accademico, udite la Facolta' e scuole.  
+La tassa di diploma e' fissata nella misura di L. 6000, a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7)".  
+L'art. 82 e' modificato nel senso che la materia "Geografia e topografia storica del mondo antico" e' considerata quale insegnamento aggiuntivo della scuola di discipline storiche e geografiche.  
+Art. 86. - Il secondo comma e' sostituito dal seguente:  
+"Durante gli anni di iscrizione lo studente deve ottenere la firma di iscrizione e di frequenza per almeno tre corsi, scelti fra quelli costitutivi della scuola, e sostenere i relativi esami".  
+Art. 108. - Dopo il n. 23 e' aggiunto quanto appresso:  
+24) Cardioangiochirurgia.  
+All'art. 110, relativo ai titoli di ammissione alle scuole di perfezionamento e di specializzazione in medicina e chirurgia e' aggiunto il seguente nuovo comma:  
+"Al diploma di specialista in cardioangiochirurgia possono aspirare i laureati in medicina e chirurgia che siano in possesso della libera docenza in patologia speciale chirurgica o in clinica chirurgica o del diploma di specialista in chirurgia generale".  
+Dopo l'art. 183, sono aggiunti i seguenti nuovi articoli, relativi all'istituzione della "Scuola di specializzazione in cardioangiochirurgia".  
   
-L'art. 10, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola in "Neuropatologia e psichiatria" muta la denominazione in quella di scuola in "Neurologia".   
-Allo stesso elenco e' aggiunta la scuola in "Medicina dello sport".  
-Gli articoli 144 e 145 relativi alla scuola di specializzazione in "Neuropatologia e psichiatria" che assume la denominazione di scuola di specializzazione in "Neurologia", sono abrogati e sostituiti dai seguenti:   
-  
-Scuola di specializzazione in neurologia   
-  
-Art. 144. - Il corso per il conseguimento del diploma di specialista in neurologia ha la durata di quattro anni.   
-Il numero degli iscritti da ammettere alla scuola e' stabilito in trentotto per i quattro anni di corso.   
-Le materie di insegnamento sono le seguenti:   
-1° Anno (internato in psichiatria):   
-Anatomia ed istologia del S.N.;   
-Fisiologia del S.N.;   
-Biochimica del S.N.;   
-Genetica (elementi);   
-Psicologia generale;   
-Psicopatologia;   
-Semeiotica psichiatrica.   
-2° Anno:   
-Anatomia ed istologia patologica del S.N.;   
-Semeiotica neurologica;   
-Patologia speciale e diagnostica neurologica (1°);   
-Neuro-radiologia;   
-Endocrinologia e neurologia vegetativa.   
-3° Anno:   
-Patologia speciale e diagnostica neurologica (2°);   
-Clinica neurologica (1°);   
-Elettroencefalografia;   
-Elettromiografia, elettrodiagnostica ed elettroterapia;   
-Neuro-oftalmologia;   
-Neuro-otologia;   
-Esami di laboratorio.   
-4° Anno:   
-Clinica neurologica (2°);   
-Neurochirurgia;   
-Teoria e clinica della riabilitazione;   
-Neuro-traumatologia anche sotto l'aspetto della medicina legale;   
-Neurologia in rapporto alla patologia internistica.   
-Art. 145. - Internato obbligatorio per l'intero anno scolastico nel 2°, 3° e 4° anno in clinica neurologica, sede della scuola. Tale internato potra' essere ridotto a non meno di mesi 4 per anno per i medici che prestino regolare servizio in reparto neurologico.   
-Internato obbligatorio per l'intero anno scolastico in psichiatria nel primo anno.   
-Tale internato potra' essere ridotto a non meno di mesi 6 per i medici che prestino servizio in reparto neurologico e a non meno di mesi 4 per coloro che prestino servizio in ospedale psichiatrico.   
-Esami obbligatori per il passaggio all'anno successivo. Ammissione per titoli ed esami.   
-Un abbuono di anni 2 puo' essere concesso agli specialisti in psichiatria, neuropsichiatria infantile e neurochirurgia.   
-Un anno di abbuono per gli specialisti in altre materie affini (medicina interna, otorinolaringoiatria, oculistica, radiologia).   
-Gli abbuoni possono essere concessi solo superando un esame di ammissione.   
-Tutti gli abbuoni di cui sopra sono concessi a giudizio del direttore della scuola.   
-Gli articoli 148 e 149, relativi alla scuola di specializzazione in "Ostetricia e ginecologia" sono abrogati e sostituiti dai seguenti:   
-  
-Scuola di specializzazione in ostetricia e ginecologia   
-  
-Art. 148. - La durata del corso di specializzazione in ostetricia e ginecologia e' della durata di 4 anni.   
-L'ammissione alla scuola avviene a seguito di concorso per titoli ed esami. Sono da considerarsi titoli preferenziali a parita' di risultato dell'esame di ammissione:   
-a) il voto di laurea in medicina e chirurgia;   
-b) aver frequentato come studente interno una clinica ostetrica e ginecologica;   
-c) aver svolto la tesi di laurea in una clinica ostetrica e ginecologica;   
-d) documentazione di eventuali servizi prestati in reparti qualificati ospedalieri della specialita';   
-e) eventuali pubblicazioni.   
-L'esame di ammissione deve espletarsi entro il mese di dicembre.   
-Il numero massimo degli iscritti e' stabilito complessivamente in cinquanta specializzandi.   
-Per nessun motivo il corso di quattro anni puo' essere abbreviato.   
-Nessun titolo puo' esonerare dalla frequenza gli iscritti ai quattro anni di corso.   
-Gli iscritti oltre all'obbligo di frequenza delle lezioni, esercitazioni, seminari, ecc., devono prestare analoghi servizi a quelli degli assistenti per non meno di 9 mesi all'anno.   
-Gli iscritti devono sostenere gli esami annuali di profitto e l'esame finale di diploma. La sessione di esami di profitto e' unica ed espletata nel mese di ottobre.   
-Non puo' essere iscritto all'anno successivo di corso chi non abbia superato gli esami relativi alle materie fissate per l'anno in corso;   
-Art. 149. - Gli insegnamenti sono cosi' distribuiti nei 4 anni di corso:   
-1° Anno:   
-Elementi di genetica e di eugenica;   
-Anatomia normale ed embriologia dell'apparato genitale femminile;   
-Fisiologia dell'apparato genitale femminile;   
-Endocrinologia ginecologica;   
-Fisiologia ostetrica;   
-Clinica ostetrica e ginecologica;   
-Diagnostica ostetrica.   
-2° Anno:   
-Tecnica operatoria ostetrica;   
-Diagnostica ginecologica;   
-Tecnica diagnostica di laboratorio nel campo ostetrico e ginecologico; esclusa la istologia (sierologia, batteriologia, citologia, ematologia, biochimica);   
-Clinica ostetrica e ginecologica.   
-3° Anno:   
-Anatomia patologia ostetrica e ginecologica;   
-Istologia normale e patologia nel campo della specialita';   
-Puericultura prenatale;   
-Emoterapia nel campo ostetrico e ginecologico;   
-Anestesia e analgesia nel campo ostetrico e ginecologico;   
-Tecnica operatoria ginecologica;   
-Clinica ostetrica e ginecologica;   
-Terapia medica ostetrica e ginecologica.   
-4° Anno:   
-Puericultura postnatale e malattie del neonato;   
-Ostetricia e ginecologia forense;   
-Diagnostica roentgen e radioterapia in ostetricia e ginecologia;   
-Clinica ostetrica e ginecologica (esame alla fine del 4° anno);  
-Urologia ginecologica;   
-Chirurgia addominale extra genitale.   
-Gli esami si fanno per gruppi di materia ed i membri della commissione saranno proposti dal direttore della scuola.   
-Per il conseguimento del diploma, l'iscritto deve presentare e discutere una dissertazione scritta con un contributo personale.   
-Dopo l'art. 242 e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in medicina dello sport.   
-  
-Scuola di specializzazione in medicina dello sport   
-  
-Art. 243. - La scuola di specializzazione in medicina dello sport dell'Universita' degli studi di Torino si propone:   
-a) di valorizzare e approfondire gli studi biologici e di medicina applicata nel campo delle attivita' sportive, formative e di competizione, e della educazione fisica;   
-b) di preparare adeguatamente sotto l'aspetto teorico e della pratica applicazione, i medici che intendono dedicarsi alle attivita' attinenti a questa particolare branca della medicina applicata, conferendo ad essi il diploma di "Specialisti in medicina dello sport".   
-Il titolo richiesto per l'ammissione alla scuola e' la laurea in medicina e chirurgia.   
-Art. 244. - Il corso di studi ha la durata di tre anni, con frequenza obbligatoria; esso ha la sua sede ufficiale presso l'istituto di fisiologia umana e presso il centro di medicina dello sport della citta' di Torino. Gli insegnamenti clinici e specialistici si svolgeranno presso i rispettivi istituti clinici e specialistici.   
-La concessione di eventuali abbreviazioni del corso avverra' a insindacabile giudizio del consiglio dei docenti della scuola.   
-Il numero massimo degli allievi sara' di quindici per anno e complessivamente di quarantacinque per intero corso.   
-L'ammissione ai corsi avviene per titoli. Nel caso di domande eccedenti il numero di posti disponibili, l'ammissione dei candidati aventi pari titoli e uguale data di presentazione della domanda, sara' regolata da prove di esami davanti a una commissione nominata dal consiglio dei docenti della scuola.   
-La direzione del corso e' affidata al direttore dello istituto di fisiologia umana.   
-Art. 245. - L'ordine degli studi e' il seguente:   
-1° Anno:   
-Anatomia dell'apparato locomotore;   
-Biomeccanica applicata all'esercizio fisico;   
-Biochimica generale e applicata;   
-Antropometria e auxologia;   
-Storia, sistematica e tecnologia degli sport;   
-Istituzioni di psicologia generale e psicologia applicata agli sport;   
-Istituzioni di scienza della nutrizione e dietetica applicata all'attivita' sportiva.   
-2° Anno:   
-Anatomia degli apparati circolatorio, respiratorio e nervoso;   
-Fisiologia delle ossa, delle articolazioni e dei muscoli;   
-Biochimica ed energetica muscolare;   
-Valutazione funzionale dello sportivo e tecnica fisiologica;   
-Biofisica del muscolo (facoltativo);   
-Fisioterapia e rieducazione funzionale (facoltativo);   
-Farmacologia applicata all'attivita' sportiva (doping) (facoltativo);   
-Igiene e medicina preventiva applicata all'attivita' sportiva (facoltativo).   
-3° Anno:   
-Fisiologia del sistema nervoso motorio, della respirazione e della circolazione;   
-Educazione fisica e tecnica dell'allenamento sportivo;   
-Chirurgia d'urgenza, rianimazione e pronto soccorso;   
-Medicina legale ed infortunistica;   
-Traumatologia ed ortopedia dello sport;   
-Fisiopatologia degli sport (facoltativo);   
-Assistenza medico-sportiva nei grandi agglomerati urbani (facoltativo).   
-La scuola inoltre svolgera' brevi corsi integrativi di conferenze o seminari sopra argomenti e discipline che saranno stabiliti, secondo le possibilita' contingenti, dal consiglio dei docenti della scuola.   
-Saranno inoltre svolte esercitazioni pratiche in sede e sul campo.   
-Gli esami annuali si svolgeranno per gruppo di materie, comprendenti discipline incluse nel piano di studio. Il gruppo di materie comprende tutte le materie d'insegnamento fondamentali e quelle facoltative scelte dal candidato, previste per ogni anno di corso.   
-L'iscrizione agli anni successivi e' subordinata al superamento di tutti gli esami annuali.   
-Il diploma si consegue dopo aver superato tutte le prove di esami del triennio; la prova di diploma si svolge con la discussione su una dissertazione scritta concernente un tema assegnato o in ogni altro caso approvato dal direttore della scuola.   
+Scuola di specializzazione in cardioangiochirurgia  
+Art. 184. - Per il conseguimento del diploma di specialista in cardioangiochirurgia, si richiedono due anni di corso.  
+Art. 185. - La scuola e' costituita presso l'Istituto di clinica chirurgica generale ed e' posta sotto la direzione e la diretta sorveglianza del titolare della cattedra di clinica chirurgica generale, coadiuvato da professori e docenti proposti e particolarmente preparati in tale materia.  
+Art. 186. - Il materiale didattico e' costituito dai degenti presso il centro di cardiochirurgia e presso il reparto di angiologia della clinica chirurgica, dal materiale anatomo-patologico e dalla documentazione raccolta nel museo, nell'archivio e nella biblioteca dell'Istituto.  
+Art. 187. - Il corso si compone di insegnamenti fondamentali e di conferenze su argomenti speciali.  
+Art. 188. - Gli insegnamenti fondamentali impartiti dalla scuola sono i seguenti:  
+Embriologia, anatomia descrittiva e topografica dell'apparato circolatorio (1° anno);  
+Fisiologia dell'apparato circolatorio (1° anno);  
+Anatomia patologica (1° anno)  
+Semeiotica e diagnostica delle cardiopatie chirurgiche (clinica strumentale, radiologica e di laboratorio) (1° anno);  
+Semeiotica e diagnostica angiologica (clinica strumentale, radiologica e di laboratorio) (1° anno);  
+Fisiopatologia del sistema neuro-vegetativo (1° anno);  
+Patologia e terapia medica cardiologica (2° anno);  
+Fisiopatologia e terapia medica angiologica (2° anno);  
+Anestesia e rianimazione (2° anno);  
+Terapia chirurgica e tecnica operativa (biennale).  
+Durante i due anni di corso verranno tenute esercitazioni di diagnostica, di laboratorio, di tecnica operativa e dimostrazioni pratiche.  
+Art. 189. - La frequenza alle lezioni, alle conferenze ed alle esercitazioni teoriche e pratiche e' obbligatoria.  
+Art. 190. - Alla fine di ciascun anno accademico i perfezionandi che abbiano ottenuto le firme di frequenza dovranno sostenere un esame di profitto nelle materie fondamentali, il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo e per quelli che sono stati iscritti a quest'ultimo, all'esame di diploma.  
+Art. 191. - Alla fine del secondo anno del corso ha luogo l'esame di diploma, che consiste nella discussione di una dissertazione scritta su argomento di cardiochirurgia e di angiologia, proposto o approvato dal direttore della scuola non oltre l'inizio del secondo anno di corso.  
+La dissertazione, approvata dal direttore, dovra' essere depositata presso la Direzione della scuola almeno trenta giorni prima dell'esame.  
+Art. 192. - La Commissione per gli esami di profitto e' costituita dal direttore della scuola, dal docente della materia e da un altro docente del corso.  
+La Commissione per l'esame di diploma e' formata da sette membri presieduta dal preside della Facolta' o da un professore da lui delegato.  
+Di essa faranno parte altri membri scelti dal preside fra i professori ed i liberi docenti dell'Universita' di Torino.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 agosto 1971
+### Dato a Roma, addi' 1 marzo 1955
 
-SARAGAT MISASI
+EINAUDI ERMINI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: DE PIETRO
 
-Registrato alla Corte dei conti, addi' 26 ottobre 1971
+Registrato alla Corte dei conti, addi' 2 aprile 1955
 
-Atti del Governo, registro n. 244, foglio n. 183. - CARUSO
+Atti del Governo, registro n. 90, foglio n. 22. - CARLOMAGNO

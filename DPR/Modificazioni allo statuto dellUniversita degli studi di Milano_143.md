@@ -1,296 +1,92 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 novembre 1949 n. 1194
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1967 n. 300
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 novembre 1949 n. 1194
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1967 n. 300
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' degli studi di Milano approvato con [regio decreto 22 maggio 1939, numero 1166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-22;1166), e modificato con [legge 1 giugno 1939, n. 872](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-01;872), con [regi decreti 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2056), [26 aprile 1942, n. 423 e con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-04-26;423) [27 luglio 1947, n. 1138](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-07-27;1138);
-
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652);
-
-Visto il [regio decreto-legge 27 gennaio 1944, n. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1944-01-27;58);
-
-Vedute le proposte di modifica allo Statuto formulate dalle autorita' accademiche della Universita' predetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla
------
-
-proposta del Ministro per la pubblica istruzione; Decreta:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 22 maggio 1939, numero 1166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-22;1166) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);.  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pub.  
+pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti succitati, e' cosi' ulteriormente modificato:  
-Art. 9. - L'insegnamento fondamentale di cui al n. 6 assume la denominazione di "Economia politica". Il diritto corporativo viene sostituito dal "Diritto del lavoro".  
-All'elenco degli insegnamenti complementari vanno aggiunti i seguenti: "Esegesi delle fonti del diritto romano" e "Diritto svizzero" quest'ultimo in sostituzione della "Legislazione del lavoro".  
-Art. 14. - Gli insegnamenti fondamentali di cui ai numeri 6, 7 e 9 assumono la seguente denominazione:  
-n. 6 Antropometria (semestrale);  
-n. 7 Statistica sanitaria (semestrale);  
-n. 9 Demografia.  
-L'insegnamento complementare di "Economia politica corporativa" assume la denominazione di "Economia politica".  
-Il quinto comma dell'art. 14 viene sostituito dal seguente:  
-"Gli insegnamenti semestrali di "Statistica giudiziaria", di "Statistica sociale", di "Antropometria" e "Statistica sanitaria" comportano rispettivamente esami unici".  
-Art. 17. - Viene soppresso l'insegnamento complementare di "Lingue e letterature semitiche della A.O.I.", mentre vengono aggiunti nuovi insegnamenti complementari:  
-"Filologia slava".  
-"Lingua e letteratura neo-greca".  
-"Etruscologia e archeologia italica".  
-"Filologia bizantina".  
-"Egittologia".  
-"Storia orientale antica".  
-"Filologia iranica".  
-"Numismatica".  
-"Ebraico e lingue semitiche comparate".  
+Decreta:  
   
-Art. 18. - All'elenco degli insegnamenti complementari vanno aggiunti i seguenti: "Storia della filosofia medioevale", "Religioni e filosofie dell'Estremo Oriente", mentre viene soppresso l'insegnamento di "Biologia delle razze umane".  
-Dopo l'art. 18. - Va aggiunto un nuovo articolo, con conseguente spostamento della successiva numerazione degli articoli:  
-Art. 19. - Gli esami degli insegnamenti pluriennali possono essere sostenuti al termine del corso o alla fine di ciascun anno. Nel quale caso deve essere rispettata dallo studente la successione cronologica.  
-Art. 20. - Nel primo comma la parola "linguistica" va sostituita con "glottologia".  
-Art. 22. - Vengono soppressi i seguenti insegnamenti complementari: "Scienza dell'ortogenesi", "Puericoltura", "Medicina preventiva dei laboratori e psicotecnica" e "Tecnica delle operazioni chirurgiche".  
-Viene aggiunto il nuovo insegnamento complementare di "Idrologia medica".  
-Il decimo comma: "Lo studente deve includere l'insegnamento di "Clinica ortopedica" fra i complementari che occorrano a completare il numero di quelli richiesti per conseguire la laurea" viene soppresso.  
-Dopo l'art. 22. - Viene aggiunto un nuovo articolo, con conseguente spostamento della successiva numerazione degli articoli:  
-Art. 23. - L'esame di "Clinica ortopedica" non e' obbligatorio fra i complementari che occorrono a completare il numero di quelli richiesti per conseguire la laurea.  
-Art. 25. - Vengono soppressi i seguenti insegnamenti complementari: "Elettrotecnica" e "Scienza dei metalli".  
-Art. 27. - Viene soppresso l'ultimo comma.  
-Art. 29. - Vengono aggiunti i seguenti insegnamenti complementari: "Radioattivita'".  
-"Fisica terrestre".  
-"Termologia".  
-"Onde elettromagnetiche".  
-"Meccanica statistica".  
-Dopo il penultimo comma viene aggiunto il seguente:  
-"Non potranno sostenere l'esame di Fisica teorica e di Fisica superiore gli studenti che non abbiano superato l'esame di Fisica sperimentale".  
-Art. 34. - Dopo il penultimo comma viene aggiunto il seguente:  
-"Non potranno sostenere l'esame di Fisica teorica e di Fisica superiore gli studenti che non hanno sostenuto l'esame di Fisica sperimentale".  
-Art. 47. - Il quinto comma "L'insegnamento di "Zoologia generale" puo' essere comune con quello di "Biologia e zoologia generale" della laurea in medicina e chirurgia" viene soppresso.  
-Dopo l'art. 47. - Viene aggiunto il seguente articolo col conseguente spostamento della numerazione degli articoli successivi:  
-Art. 48. - Non saranno ammessi all'esame di mineralogia e geologia gli studenti che non abbiano superato quello di chimica generale ed inorganica; all'esame di anatomia e fisiologia, degli animali domestici coloro che non abbiano superato quello di Zoologia generale e di Chimica generale e inorganica; all'esame di Entomologia agraria coloro che non, abbiano superato quello di Zoologia generale. Gli esami delle materie biennali del secondo biennio possono venire sostituiti da due esami parziali, uno alla fine di ciascun anno.  
-Art. 51. - Vengono soppressi i comma corrispondenti alle lettere h), i), l), m), n).  
-Art. 54. - Il testo va cosi' modificato: "Gli insegnamenti biennali di Patologia e Clinica medica, di Patologia e Clinica chirurgica, di Patologia generale e Anatomia patologica comportano ciascuno due esami distinti e due distinte votazioni. Lo studente deve seguire nelle prove di esame la propedeuticita' delle materie secondo quanto e' stabilito dalla Facolta'".  
-Art. 87. - Viene modificato lo statuto delle seguenti Scuole di perfezionamento nelle specialita' medico-chirurgiche:  
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:  
   
-SCUOLA DI PERFEZIONAMENTO IN MEDICINA INTERNA  
+Dopo l'art. 60, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in Diritto e procedura penale.  
+Scuola di specializzazione in Diritto e procedura penale  
+Art. 61. - Presso la Facolta' di giurisprudenza e' istituita la Scuola di specializzazione in Diritto e procedura penale.  
+Art. 62. - La Scuola di specializzazione ha lo scopo di promuovere le ricerche scientifiche nel campo del Diritto e della procedura penale, e nel campo delle scienze ausiliarie; e inoltre di promuovere lo studio teorico e pratico delle materie penalistiche al fine di creare un nucleo di persone altamente specializzate.  
+In questo quadro potra' eseguire ricerche particolari, in settori determinati delle discipline penalistiche.  
+Art. 63. - Alla Scuola di specializzazione possono iscriversi i laureati in Giurisprudenza, in Scienze politiche o in qualsiasi Universita' italiana o estera, qualunque sia la professione o carriera prescelta. Previa deliberazione del Consiglio direttivo della Scuola, possono iscriversi i laureati in Medicina e chirurgia in una Universita' italiana o estera, i quali per essere ammessi alla Scuola dovranno aver superato un esame integrativo interno di Diritto e procedura penale.  
+Alla Scuola di specializzazione possono inoltre iscriversi gli stranieri, i quali presentino titoli che, a giudizio delle autorita' accademiche, siano considerati equipollenti.  
+Art. 64. - La Scuola di specializzazione comprende tre gruppi di insegnamenti:  
   
-Durata del Corso anni cinque.  
-Lezioni di patologia e di clinica medica.  
-Esercitazioni di semeiotica, chimica e microspia clinica.  
-Radiologia. Elettrocardiografia. Anatomia ed istologia (autopsie), dimostrazioni di preparati.  
-Lezioni e conferenze su argomenti interessanti le singole discipline con riflessi sulla patologia e clinica medica.  
-  
-SCUOLA DI PERFEZIONAMENTO IN CHIRURGIA  
-  
-Durata del Corso anni cinque.  
-Primo Corso: clinica chirurgica e terapia chirurgica, patologia chirurgica, anatomia chirurgica, semeiologia, chirurgia d'urgenza.  
-Secondo Corso: clinica chirurgica e terapia chirurgica, patologia chirurgica, diagnostica chirurgica, anestesia.  
-Terzo Corso: clinica chirurgica e terapia chirurgica, medicina operatoria; traumatologia e ortopedia, urologia, chirurgia infantile.  
-Quarto Corso: clinica chirurgica e terapia chirurgica, medicina operatoria, chirurgia plastica, chirurgia vascolare.  
-Quinto Corso: clinica chirurgica e terapia chirurgica, neurochirurgia, chirurgia toracica.  
-Conferenze: anatomia, patologia generale, anatomia patologica, infortunistica.  
-Internato nella clinica chirurgica per 5 anni.  
-  
-SCUOLA DI PERFEZIONAMENTO IN DERMATOLOGIA  
-  
-E VENEREOLOGIA  
-  
-Durata del Corso anni due.  
-Anatomia della pelle e degli organi genitali.  
-Fisiopatologia generale della pelle e degli organi genitali.  
-Semeiotica cutanea.  
-Patologia, clinica e terapia delle infezioni intersessuali.  
-Lezioni sulla sifilide viscerale nervosa.  
-Epidemiologia e profilassi delle malattie veneree, legislazione sanitaria; previdenze sociali.  
-Patologia, clinica, terapia delle malattie cutanee.  
-Istopatologia cutanea.  
-Batteriologia, microbiologia e sierologia, esami di laboratorio.  
-Autopsie e anatomia patologica inerenti alla specialita'.  
-Legioni di urologia, ginecologica inerenti alla specialita'.  
-Dermatosi professionali.  
-Medicina legale e infortunistica inerente alla specialita'.  
-Lezioni di farmacologia.  
-Lezioni di patologia generale.  
-Terapia dermatologia e fotoradioterapia.  
-  
-SCUOLA DI PERFEZIONAMENTO IN MEDICINA DEL LAVORO  
-  
-Durata del Corso anni due.  
-a) patologia e clinica del lavoro (principi e pratica della medicina industriale; patologia e clinica delle malattie professionali, medicina preventiva dei lavoratori; b) igiene del lavoro; c) fisiologia e psicologia del lavoro; d) legislazione del lavoro e assicurazioni sociali; e) malattie professionali di natura effettiva e parassitaria. Malattie professionali della pelle; f) elementi di infortunistica; g) esercitazioni di tossicologia industriale, d'igiene industriale e di analisi cliniche di laboratorio; h) esercitazioni di infortunistica presso ambulatori od infermerie di fabbrica od ospedali traumatologici; i) visite a stabilimenti industriali.  
-Alla fine del biennio lo specializzando dovra' sostenere un esame su ciascuna delle materie insegnate.  
-  
-SCUOLA DI PERFEZIONAMENTO IN MEDICINA LEGALE  
-  
-Durata del Corso anni due.  
-Il Corso consiste in un internato con partecipazione effettiva degli inscritti, sotto la guida del direttore o del personale assistente, nel lavoro di indagine, di studi, e di pratica applicativa medico-legale (autopsie giudiziarie, visite idem, visite fiscali, perizie, consulenze tecniche, ecc.).  
-Alla fine del Corso e' prescritto un esame di profitto.  
-  
-SCUOLA DI PERFEZIONAMENTO IN OCULISTICA  
-  
-Durata del Corso anni tre.  
-Clinica e terapia delle malattie oculari:  
-oftalmoscopia;  
-refrattametria clinica;  
-operazioni sul globo oculare e sugli annessi dell'occhio (Corso triennale);  
-anatomia dell'occhio e degli annessi oculari (Corso annuale nel triennio);  
-fisiologia dell'occhio (funzioni elementari di nutrizione, specifiche e di relazione (Corso annuale nel triennio);  
-patologia generale. Conferenze su argomenti di importanza generale (Corso annuale nel triennio);  
-farmacologia, conferenze sulla azione dei farmaci piu' comuni adoperati in terapia oculare (Corso annuale nel triennio);  
-neuropatologia oculare. Conferenze sulle piu' comuni alterazioni dell'occhio e degli annessi in relazione ad alterazioni del sistema nervoso (corso annuale nel triennio);  
-infortunistica. Conferenze sui concetti attinenti valutazione del danno (Corso annuale nel triennio);  
-igiene oculare. Conferenze intorno all'igiene degli occhi ed alla profilassi visiva, con particolare riguardo alla profilassi delle malattie contagiose degli occhi, alla oftalmia nei neonati ed alla profilassi visiva scolare (Corso annuale nel triennio);  
-traumatologia oculare (Corso annuale nel triennio);  
-ottica fisiologica. Conferenze intorno alla catottrica e diottrica oculare, alla luce, ai colori (Corso annuale nel triennio).  
-  
-SCUOLA DI PERFEZIONAMENTO IN MALATTIE NERVOSE  
-  
-Durata del Corso anni tre.  
-Anno primo: anatomia clinica e fisiologia del sistema nervoso; patologia generale, anatomia e istologia patologica del sistema nervoso;  
-Anno secondo: semeiotica e diagnostica neuropatologica;  
-Anno terzo: clinica neuropatologica;  
-Conferenze di cultura.  
-Durante il secondo anno: l'oculistica nei rapporti con la neuropatologia. L'otorinolaringoiatrica nei rapporti con la neuropatologia.  
-Durante il terzo anno: medicina legale e delle lesioni traumatiche del sistema nervoso;  
-l'indagine radiologica e la roentgenterapia delle malattie del sistema nervoso.  
-Obbligo di esame di profitto per le materie di insegnamento.  
-  
-SCUOLA DI PERFEZIONAMENTO IN ODONTOIATRIA  
-E PROTESI DENTARIA  
-  
-Durata del Corso anni due.  
-Primo anno: a) prodedeutica conservativa al manichino; b) chirurgia dentaria; e) propedeutica odontotecnica e protetica; d) semeiotica e terapia delle malattie della bocca, dei denti e dei mascellari; e) ortodonzia propedeutica; f) terapia conservativa; g) paradenziologia propedeutica.  
-Secondo anno: a) esercitazioni cliniche di terapia conservativa; b) esercitazioni di clinica protetica; c) radiologia e propedeutica ed esercitazioni di radiologia; d) chirurgia peridentaria e mascellare;  
-e) clinica ortodontica ed esercitazioni; f) plastica stomatologica;  
-g) ceramica; f) clinica paradenziologica;  
-lezioni di integrazione;  
-rapporti delle affezioni orali con l'organismo;  
-profilassi ed igiene orale;  
-dermosifilopatia in relazione alle malattie della bocca;  
-otorinolaringoiatrica;  
-medicina legale.  
-  
-SCUOLA DI PERFEZIONAMENTO IN ORTOPEDIA  
-  
-Durata del Corso anni tre.  
-Primo anno: a) anatomia normale e topografia dell'apparato locomotore; b) fisiologia generale dell'apparato locomotore; c) patologia generale ed anatomia patologica dell'apparato locomotore;  
-d) fisiopatologia generale dell'apparato locomotore.  
-Secondo anno: a) semeiotica ortopedica generale; b) neurologia ortopedica; c) radiologia ortopedica; d) patologia speciale ortopedica; e) clinica ortopedica.  
-Terzo anno: a) clinica ortopedica; b) tecnica operatoria incruenta e cruenta; c) terapia fisica; d) apparecchi gessati ed ortopedici, calzature ortopediche, protesi;  
-esercitazioni pratiche cliniche ed operative. Internato di due anni in Clinica ortopedica.  
-  
-SCUOLA DI PERFEZIONAMENTO IN OTORINOLARINGOIATRIA  
-  
-Durata del Corso anni tre.  
-Corsi obbligatori con esami: clinica otorinolaringoiatrica, esercitazioni cliniche (triennale) anatomia normale (biennale) fisiologia (biennale) anatomia patologica (biennale) radiologia (biennale). -  
-Corsi obbligatori senza obbligo d'esame:  
-neuropatologia - malattie professionali - oculistica - medicina legale - patologia generale (conferenze) farmacologia (conferenze) odontoiatria - pediatria.  
-Corsi integrativi:  
-allergia - chirurgia plastica - bronco esofagoscopia, elettrocaustica - tisiologia - semeiotica - medicina operativa - traumatologia.  
-  
-SCUOLA DI PERFEZIONAMENTO IN OSTETRICIA E GINECOLOGIA  
-  
-Durata del Corso anni quattro.  
-Corso del primo biennio: a) anatomia, istologia ed embriologia dell'apparato uro-genitale femminile; b) fisiologia dell'apparato riproduttore femminile e dell'embrione; c) patologia generale; d) fisiologia ostetrica; e) operazioni ostetriche.  
-Corso del secondo biennio: a) propedeutica e diagnostica ostetrico-ginecologica; b) urologia in rapporto con l'ostetricia e la ginecologia; c) radiodiagnostica e radioterapia ginecologiche; d) ostetricia forense.  
-Corsi dell'intero quadriennio: a) clinica ostetrica e ginecologica;  
-b) anatomia patologica in rapporto della ostetricia e ginecologia.  
-Internato di almeno sei mesi per gli inscritti all'ultimo anno.  
-  
-SCUOLA DI PERFEZIONAMENTO IN PEDIATRIA  
-  
-Durata del Corso anni due.  
-a) clinica pediatrica; b) anatomia e fisiologia del lattante; c) semeiotica dell'apparato digerente; d) semeiotica dell'apparato respiratorio; e) semeiotica del sistema nervoso; f) semeiotica del sistema cardiovascolare; g) alimentazione del lattante e del bambino nella seconda infanzia; h) radiologia e terapia fisica; i) anatomia patologica su sezioni di infanti; 5) nozioni di neuropsichiatria infantile; k) nozioni di oculistica; l) nozioni di otorinolaringoiatria; m) nozioni di ortopedia; n) nozioni di dermopatia.  
-Esercitazioni di laboratorio con esperienze riguardo alle ricerche piu' in uso in clinica pediatrica.  
-Conferenze di patologia generale e di farmacologia.  
-Internato di un anno nella Clinica pediatrica.  
-  
-SCUOLA DI PERFEZIONAMENTO IN RADIOLOGIA MEDICA  
-  
-Durata del Corso anni due.  
-Corsi obbligatori:  
-corso teorico e pratico di diagnostica e terapia radiologiche;  
-semeiotica radiologica;  
-anatomia radiografica normale;  
-tecnica radiografica;  
-radiobiologia;  
-roentgenterapia;  
-Curieterapia.;  
-elettrotecnica e fisica delle radiazioni;  
-apparecchiature radiologiche e fisioterapiche;  
-conferenze di cultura nei campi della fisica, della biologia e della clinica.  
-Internato di un anno nell'Istituto di radiologia.  
-Esami biennali di fisica e tecnica, Roengendiagnostica, radioterapia.  
-  
-SCUOLA DI PERFEZIONAMENTO IN TISIOLOGIA  
-  
-Durata del Corso anni due.  
-Primo anno: fisiologia dell'apparato respiratorio;  
-patologia generale della tubercolosi (batteriologia, immunologia, costituzione, ereditarieta', ecc.);  
-anatomia patologica della tbc;  
-patologia e clinica della tbc polmonare e delle affezioni non tubercolari dell'apparato respiratorio;  
-radiologia dell'apparato respiratorio;  
-semeiotica dell'apparato respiratorio;  
-terapia (medicamentosa, climatica, alimentare, immunitaria, chemioterapia, pneumotoracica, chirurgica, ecc.);  
-tecnica sanatoriale e dispensariale;  
-igiene e assistenza sociale;  
-la tbc dal punto di vista assistenziale e medico legale;  
-la tbc delle prime vie respiratorie - tbc e gravidanza.  
-Secondo anno: esercitazioni di anatomia, patologica;  
-esercitazioni pratiche di semeiotica e di diagnosi clinica;  
-esercitazioni di tecnica collassoterapica;  
-esercitazioni pratiche di laboratorio.  
-  
-SCUOLA DI PERFEZIONAMENTO IN UROLOGIA  
-  
-Durata del Corso anni tre.  
-Corsi obbligatori:  
-anatomia e fisiologia del sistema genito-urinario;  
-semeiologia clinica e di laboratorio;  
-chimica, microscopia e batteriologia in relazione con l'urologia; patologia del cuore del ricambio dei reni (urologia medica);  
-patologia e clinica chirurgica del sistema genito-urinario (urologia chirurgica);  
-semeiotica chirurgica urologica;  
-endoscopia urologica;  
-anatomia patologica delle forme urologiche;  
-asepsi ed antisepsi urologica, medicina operatoria della grande e piccola urologia.  
-Internato di due anni nella Clinica urologica.  
-  
-SCUOLA DI PERFEZIONAMENTO IN CARDIOLOGIA  
-  
-Durata del Corso anni due.  
-Lezioni:  
-1° patologia clinica cardiologica, due ore settimanali;  
-2° semeiologia, clinica cardiologica, un'ora settimanale;  
-3° semeiologia strumentale cardiologica, un'ora settimanale;  
-4° terapia medica cardiologica, un'ora settimanale;  
-5° dimostrazioni di anatomia patologica, un'ora settimanale;  
-6° dimostrazione di radiologia cardiologica, un'ora settimanale; 7° dimostrazione di fisiopatologia cardiologica, un'ora settimanale.  
-Conferenze su argomenti di:  
-1° fisica n. 3;  
-2° fisiologia n. 3;  
-3° farmacologia n. 2;  
-4° medicina legale n. 2.  
-Viene abrogato l'attuale articolo 100.  
+Storico-comparativistico, Diritto positivo italiano, politico e criminologico.  
+Art. 65. - Gli insegnamenti sono i seguenti:  
+A) Gruppo storico-comparativistico:  
+Storia del diritto penale;  
+Storia del diritto processuale penale;  
+Diritto penale comparato;  
+Procedura penale comparata;  
+Storia delle dottrine penalistiche.  
+B) Gruppo di diritto positivo italiano:  
+Diritto penale - parte generale - (a carattere monografico);  
+Diritto penale - parte speciale - (a carattere monografico);  
+Procedura penale (a carattere monografico);  
+Diritto penale commerciale e industriale;  
+Diritto penale dell'economia;  
+Diritto penale del lavoro;  
+Diritto penale tributario;  
+Diritto penale militare e della navigazione;  
+Diritto dell'esecuzione penale;  
+Diritto di polizia;  
+Diritto internazionale penale;  
+Diritto della stampa e dello spettacolo;  
+Diritto minorile.  
+C) Gruppo politico-criminologico:  
+Scienza della legislazione penale;  
+Antropologia criminale;  
+Sociologia criminale;  
+Psicologia criminale;  
+Medicina legale;  
+Psichiatria e psicologia forense.  
+Art. 66. - Il corso della Scuola e' biennale e conduce al conseguimento di un diploma di "specializzazione in Diritto e procedura penale".  
+Il numero di posti per il primo anno e' limitato ad un massimo di 50 iscritti; l'ammissione avverra' in base ad una graduatoria determinata dal Consiglio direttivo.  
+Art. 67. - Gli iscritti alla Scuola dovranno scegliere, ai fini della frequenza e degli esami, almeno una materia del gruppo storico-comparativistico, sei materie del gruppo di diritto positivo (tra cui obbligatoriamente, uno dei corsi di Diritto penale, la Procedura penale, il Diritto penale commerciale e industriale) e tre materie del gruppo politico e criminologico.  
+Art. 68. - I corsi di lezione avranno la durata che il Consiglio direttivo della Scuola stabilira' nell'esercizio dei suoi poteri.  
+Art. 69. - Il Consiglio direttivo stabilira' di anno in anno quali saranno i corsi di esercitazioni, e fra questi lo studente dovra' sceglierne almeno due (di gruppi differenti).  
+Art. 70. - Gli esami di profitto saranno tenuti ogni anno. Saranno ammessi soltanto gli iscritti che dimostrino, mediante certificato degli insegnanti, di aver frequentato assiduamente le lezioni della materia del cui esame trattasi.  
+Art. 71. - Per il conseguimento del diploma, il candidato dovra' discutere una dissertazione scritta in una delle materie oggetto di insegnamento. La dissertazione dovra' avere carattere di originalita'. Potra' essere segnalata la dignita' di stampa.  
+Art. 72. - La Scuola e' collegata all'Istituto di diritto e procedura penale dell'Universita' che funziona da biblioteca e seminario di esercitazioni.  
+Art. 73. - Il Consiglio direttivo e' formato dal preside della Facolta' di giurisprudenza, dal professore o dai professori di Diritto e procedura penale e da un professore della Facolta' di medicina.  
+Art. 74. - La Scuola, oltre che coi mezzi derivanti le dalle tasse pagate dagli iscritti, potra' disporre di altri contributi pubblici o privati che le venissero destinati.  
+Art. 75. - La Scuola, mediante opportune convenzioni, potra' anche essere collegata ad altre Universita' e avvalersi degli apporti scientifici e finanziari delle medesime.  
+Art. 76. - La Scuola potra' istituire posti gratuiti o semigratuiti per giovani laureati, anche stranieri, particolarmente meritevoli e nei confronti dei quali appaia opportuno un aiuto economico.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 novembre 1949
+### Dato a Roma, addi' 11 aprile 1967
 
-EINAUDI GONELLA
+SARAGAT GUI
 
-Visto, il Guardasigilli: PICCIONI
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 4 agosto 1950
+Registrato alla Corte dei conti, addi' 17 maggio 1967
 
-Atti del Governo, registro n. 35, foglio n. 9. - CONSOLI
+Atti del Governo, registro n. 211, foglio n. 37. - GRECO

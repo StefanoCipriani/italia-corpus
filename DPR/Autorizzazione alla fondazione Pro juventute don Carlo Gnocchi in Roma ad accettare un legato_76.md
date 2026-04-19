@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 febbraio 1977 n. 98
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1976 n. 172
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 febbraio 1977 n. 98
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1976 n. 172
+============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-98. Decreto del Presidente della Repubblica 22 febbraio 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Maria Reverberi con testamento olografo 18 maggio 1970 pubblicato a rogito notaio dott. Angelo Gallizia in data 22 gennaio 1973, n. 7790/1024 di repertorio, registrato a Lodi il 9 febbraio 1973 con il n. 823, vol. 194, consistente nella nuda proprieta' di un immobile sito in Milano, via Goldoni n. 77 distinto nel nuovo catasto edilizio urbano alla partita 40537, mapp. 337/31 del valore presunto di L. 7.000.000.  
+172. Decreto del Presidente della Repubblica 2 marzo 1976, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.na Anna Consonni in favore dell'Istituto mutilatini don Gnocchi di Pessano (Milano), dipendente dalla fondazione "Pro juventute don Carlo Gnocchi" come ha fatto presente la fondazione medesima, con testamento olografo 22 febbraio 1969, pubblicato a rogito dott.  
+Domenico Moretti, notaio in Milano, in data 8 ottobre 1971, n. 100725/20815 di repertorio, ed ivi registrato il 16 ottobre 1971 con il n. 17734, vol. G, consistente in un appartamento sito in Gorgonzola (Milano), via Argenzia n. 8, identificato all'ufficio tecnico erariale di Milano con scheda n. 0724779, mapp. 216 - 216-A, e foglio 9, mappali 12 e 74.  
   
 Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 29 marzo 1977  
-Registro n. 3 Presidenza, foglio n. 260
+Registrato alla Corte dei conti, addi' 24 aprile 1976  
+Atti di Governo, registro n. 5, foglio n. 38

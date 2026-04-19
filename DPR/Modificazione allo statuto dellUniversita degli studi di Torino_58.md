@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1984 n. 1024
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 agosto 1982 n. 749
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1984 n. 1024
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 agosto 1982 n. 749
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
@@ -39,25 +39,23 @@ Articolo unico
 --------------
 
   
-Nell'art. 55, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
-chimica clinica;  
-chirurgia vascolare;  
-storia della medicina;  
-patologia urologica;  
-farmacologia cellulare.  
+Nell'art. 55, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari vengono inseriti i seguenti nuovi insegnamenti:  
+andrologia;  
+endocrinologia sperimentale;  
+gastroenterologia;  
+terapia medica sistematica;  
+psicologia medica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 dicembre 1984
+### Dato a Selva di Val Gardena, addi' 2 agosto 1982
 
-PERTINI
+PERTINI BODRATO
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: DARIDA
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 8 ottobre 1982
 
-Registrato alla Corte dei conti, addi' 30 gennaio 1985
-
-Registro n. 4 Istruzione, foglio n. 330
+Registro n. 113 Istruzione, foglio n. 337

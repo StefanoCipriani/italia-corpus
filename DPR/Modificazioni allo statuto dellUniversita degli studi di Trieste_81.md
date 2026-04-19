@@ -1,96 +1,255 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1978 n. 676
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 946
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1978 n. 676
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 946
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 -------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio universitario nazionale nei suoi pareri;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Veduto il [parere della sezione prima del Consiglio di Stato, n. 1902/74 del 14 febbraio 1975](https://e-justice.europa.eu/ecli/ECLI::::);
+
+Considerato che non appare opportuno, al momento, procedere ad una generale revisione delle norme statutarie di tutti gli atenei relative alla direzione delle scuole di specializzazione e perfezionamento e degli istituti nonche' delle scuole dirette a fini speciali, attualmente affidata esclusivamente ai professori di ruolo o fuori ruolo, in attesa del provvedimento relativo allo stato giuridico del personale docente;
+
+Sulla
+-----
+
+proposta del Ministro della pubblica istruzione; Decreta:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Lo statuto dell'Universita' di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli 140 e 141, relativi alla scuola di specializzazione in igiene e medicina preventiva, sono soppressi e sostituiti dai seguenti:  
+Art. 140. - La scuola di specializzazione in igiene e medicina preventiva ha sede presso l'istituto di igiene di questa Universita' e conferisce il diploma di specialista in igiene e medicina preventiva.  
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.  
+Viene ammessa soltanto l'iscrizione al terzo corso di altro orientamento dopo aver conseguito il diploma di uno degli orientamenti previsti.  
+Il numero massimo degli allievi e' di venti per anno di corso e complessivamente di ottanta iscritti per l'intero corso di studi.  
+L'ammissione al corso avviene per titoli ed esami.  
+Art. 141. - Il corso si articola in un biennio propedeutico seguito da un biennio differenziato con cinque orientamenti e precisamente:  
+a) sanita' pubblica;  
+b) igiene e tecnica ospedaliera;  
+c) igiene del lavoro;  
+d) igiene e medicina scolastica;  
+e) laboratorio.  
+Il piano di studi e' il seguente:  
   
-Decreta:  
+I BIENNIO  
   
-L'art. 212, relativo alla scuola diretta a fini speciali per ortottiste, che muta la denominazione in quella di "ortottisti-assistenti di oftalmologia", e' soppresso e sostituito dai seguenti, con conseguente spostamento dei successivi articoli.  
-Scuola speciale per ortottisti-assistenti di oftalmologia  
-Art. 212. - E' istituita presso la facolta' di medicina e chirurgia dell'Universita' degli studi di Trieste una scuola speciale di preparazione per ortottisti-assistenti di oftalmologia che ha sede presso la clinica oculistica di questa Universita'.  
-Art. 213. - La scuola ha lo scopo di dare una preparazione completa, teorico-pratica, istruendo gli allievi sui problemi della motilita' oculare, della ambliopia, delle tecniche diagnostiche della visione binoculare, del trattamento pre e post-operatorio dei pazienti strabici, dei problemi sui vizi di refrazione e della loro correzione e sulle tecniche diagnostiche in oftalmologia.  
-La durata del corso per conseguire il diploma di ortottista-assistente di oftalmologia e' di tre anni.  
-Ne sono titoli di ammissione il possesso di un diploma legalmente valido ai fini dell'iscrizione all'Universita' ai sensi dell'[art. 1 della legge n. 910, dell'11 dicembre 1969](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1) e la conoscenza di una lingua straniera (inglese, francese, tedesco, spagnolo).  
-Art. 214. - Gli aspiranti all'iscrizione al primo anno di corso sono tenuti a sostenere un esame di ammissione consistente in una prova di cultura generale e in una prova per la conoscenza della lingua straniera. E' richiesto un certificato di sana e robusta costituzione, con particolare riguardo alla funzione visiva.  
-Art. 215. - Il numero complessivo degli iscritti alla scuola e' di quattro per anno di corso. Qualora le domande di iscrizione fossero in numero superiore al numero massimo previsto, il consiglio della scuola si riserva di provvedere ad una scelta tra gli idonei in base ai risultati delle prove di ammissione; gli idonei possono essere ammessi anche in soprannumero in rapporto ai posti che si rendessero vacanti nel corso del 2° e 3° anno. I ripetenti ed i fuori corso, qualora riprendano gli studi, sono riammessi in soprannumero.  
-Art. 216. - Il direttore della scuola e' il titolare della cattedra di clinica oculistica o altro docente di disciplina affine, proposto dal titolare della cattedra di clinica oculistica, sentito il consiglio della scuola.  
-Art. 217. - L'anno accademico ha inizio e termine nelle date stabilite dalle leggi in vigore per l'istruzione universitaria. La frequenza e' obbligatoria.  
-Art. 218. - Il corso comprende lezioni teoriche ed esercitazioni pratiche.  
-Le materie di insegnamento sono le seguenti:  
 1° Anno:  
-elementi di anatomia dell'apparato visivo e del S.N.C.;  
-fisiologia dell'occhio, della motilita' oculare, della visione binoculare;  
-ottica fisica e fisiopatologica;  
-ortottica I;  
-psicologia infantile.  
+metodologia statistica e biometria;  
+educazione sanitaria;  
+psicologia;  
+microbiologia e immunologia I;  
+parassitologia;  
+epidemiologia generale e metodologia;  
+profilassi generale;  
+sociologia medica ed antropologia culturale.  
 2° Anno:  
-elementi di patologia oculare;  
-elementi di farmacologia oculare;  
-elementi di neuroftalmologia;  
-nozioni di chirurgia ed assistenza oftalmica;  
-ortottica II.  
+microbiologia ed immunologia II;  
+patologia e clinica delle malattie infettive;  
+epidemiologia e profilassi delle malattie infettive I;  
+patologia e clinica delle malattie non infettive di importanza sociale;  
+epidemiologia e profilassi delle malattie non infettive di importanza sociale I;  
+demografia e statistica sanitaria;  
+legislazione e programmazione sanitaria.  
+  
+II BIENNIO  
+  
+a) Orientamento di sanita' pubblica.  
 3° Anno:  
-tecniche semeiologiche dell'apparato visivo I (es. refrazione, contrattologia, adattometria, perimetria, senso cromatico);  
-tecniche semeiologiche ed elettrofisiologiche (tonometria e tonografia; EGR, EOG, EMG, ecografia, retinografia e fluorangiografia);  
-ortottica III;  
-nozioni di riabilitazione, senso motorio nell'eta' infantile;  
-legislazione sanitaria.  
-Art. 219. - L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni e dall'obbligo, per gli allievi, dell'internato per l'intero periodo di corso di studi nella clinica oculistica. La frequenza viene comprovata dall'attestazione rilasciata sul libretto di iscrizione dagli insegnanti e per l'attivita' pratica dal direttore della scuola. L'attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.  
-Art. 220. - Alla fine di ogni anno gli allievi devono sostenere un esame sulle materie di insegnamento. Nel caso in cui i candidati non abbiano superato gli esami prescritti, essi rimarranno nella posizione di "ripetenti".  
-Art. 221. - Gli esami di profitto consistono in prove teoriche e pratiche.  
-Art. 222. - Alla fine del corso gli allievi debbono sostenere un esame di diploma che consiste nella discussione di una tesi scritta su un argomento riguardante le materie di insegnamento, assegnata dal direttore della scuola e in una prova pratica, stabilita da una commissione esaminatrice. I candidati non riconosciuti idonei possono presentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola ma se al secondo anno non sia loro riconosciuta la idoneita', saranno senz'altro esclusi da ulteriori prove.  
-Art. 223. - Gli esami di profitto e di diploma si danno in due sessioni, la prima estiva che ha inizio subito dopo la chiusura annuale dei corsi, e la seconda autunnale nel mese che precede l'inizio del nuovo anno accademico.  
-Art. 224. - Le commissioni per gli esami di ammissione, di profitto e di diploma sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Le commissioni per gli esami di ammissione e di profitto sono composte da tre membri: direttore della scuola, presidente e da due insegnanti della scuola stessa. La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente, e da quattro scelti fra gli insegnanti della scuola stessa o altri docenti.  
-Art. 225. - Le tasse e soprattasse annuali a carico degli iscritti restano cosi' destinate:  
-Anni  
-1° Anno successivi  
+epidemiologia e profilassi delle malattie infettive II;  
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;  
+igiene dell'ambiente fisico e difesa ecologica;  
+igiene degli alimenti e della nutrizione;  
+igiene dell'eta' evolutiva;  
+igiene del lavoro;  
+igiene dell'assistenza dell'anziano.  
+4° Anno:  
+igiene dell'edilizia e dell'aggregato urbano;  
+igiene ospedaliera;  
+organizzazione del territorio e programmazione sanitaria;  
+medicina di comunita';  
+economia sanitaria;  
+elementi di diritto amministrativo.  
+b) Orientamento di igiene e tecnica ospedaliera.  
+3° Anno:  
+epidemiologia e profilassi delle malattie infettive II;  
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;  
+igiene dell'ambiente fisico e difesa ecologica;  
+igiene e tecnica delle costruzioni ospedaliere;  
+arredamenti ed impianti tecnologici;  
+igiene dell'alimentazione e dietetica ospedaliera;  
+organizzazione e funzionamento degli ospedali I;  
+elementi di diritto e legislazione ospedaliera.  
+4° Anno:  
+organizzazione e funzionamento degli ospedali II;  
+compiti ed attribuzioni della direzione sanitaria;  
+formazione professionale e compiti del personale ospedaliero;  
+programmazione ospedaliera e medicina di comunita';  
+assistenza psichiatrica;  
+aspetti sociosanitari dell'ospitalismo;  
+aspetti economici della gestione ospedaliera.  
+c) Orientamento di igiene del lavoro.  
+3° Anno:  
+epidemiologia e profilassi delle malattie infettive II;  
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;  
+igiene dell'ambiente fisico e difesa ecologica;  
+epidemiologia e profilassi delle malattie del lavoro;  
+tecnica ed economia degli impianti industriali;  
+tossicologia industriale e diagnostica di laboratorio;  
+elementi di fisica applicata all'igiene;  
+igiene dell'ambiente di lavoro I.  
+4° Anno:  
+igiene dell'ambiente di lavoro II;  
+elementi di diritto e legislazione del lavoro;  
+psicologia del lavoro;  
+prevenzione degli infortuni;  
+politica del territorio e insediamenti industriali;  
+igiene del lavoro e medicina di comunita'.  
+d) Orientamento di igiene e medicina scolastica.  
+3° Anno:  
+epidemiologia e profilassi delle malattie infettive II;  
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;  
+igiene dell'ambiente fisico e difesa ecologica;  
+clinica delle malattie dell'eta' evolutiva;  
+epidemiologia e profilassi delle malattie dell'eta' evolutiva;  
+igiene degli alimenti e della nutrizione;  
+auxologia normale e patologica;  
+psicologia dell'eta' evolutiva.  
+4° Anno:  
+servizi di medicina scolastica;  
+edilizia e arredamento scolastico;  
+elementi di pedagogia;  
+assistenza parascolastica;  
+educazione sanitaria nella scuola;  
+legislazione scolastica;  
+igiene meritale.  
+c) Orientamento di laboratorio.  
+3° Anno:  
+epidemiologia e profilassi delle malattie infettive II;  
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;  
+igiene dell'ambiente fisico e difesa ecologica;  
+metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale;  
+metodi e dosaggi biologici per il controllo dell'inquinamento ambientale;  
+strumentazione e metodologie chimico-cliniche ed ematologiche I; microscopia applicata all'igiene;  
+elementi di fisica tecnica applicata all'igiene;  
+accertamento diagnostico delle malattie infettive e parassitarie I.  
+4° Anno:  
+metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale II;  
+accertamento diagnostico delle malattie infettive e parassitarie II;  
+strumentazione e metodologie chimico-cliniche ed ematologiche II; ispezione e controllo degli alimenti;  
+elementi di informatica.  
+Gli esami relativi alle discipline svolte con insegnamento biennale verranno sostenuti alla fine di detti insegnamenti.  
+I corsi saranno completati da insegnamenti complementari scelti dalla scuola tra i seguenti:  
+Materie complementari:  
+automazione del sistema ospedaliero;  
+biochimica applicata;  
+climatologia;  
+diritto sanitario internazionale;  
+elementi di medicina legale;  
+genetica umana;  
+geologia applicata all'igiene;  
+idrologia;  
+igiene dei climi tropicali;  
+igiene dei trasporti;  
+igiene militare;  
+igiene rurale;  
+istituzione di matematica;  
+micologia;  
+radioprotezionistica;  
+ispezione delle carni.  
+A giudizio della scuola possono essere indicati come complementari anche altri insegnamenti regolarmente attivati nei corsi di laurea dell'Universita' degli studi di Trieste.  
+I corsi sono integrati da un tirocinio pratico di durata comunque non inferiore a tre mesi, da svolgersi durante il secondo biennio.  
+La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
+Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno: per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.  
+Al termine del corso di studi, per il conseguimento del diploma di specialista in igiene e medicina preventiva, gli allievi devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
+
+Art. 2
+------
+
   
-tassa di immatricolazione .................. 1.500 -  
-tassa annuale di iscrizione ................ 18.000 18.000  
-costo libretto d'iscrizione ................ 1.500 -  
-soprattassa annuale per esami di profitto .. 7.000 7.000  
-contributo opere sportive ed assistenziali . 1.000 1.000  
-prestazioni di segreteria .................. 4.000 4.000  
-contributo di riscaldamento ................ 3.000 3.000  
-soprattassa esame di diploma ............... - 3.000  
------- ------  
-36.000 36.000  
+Dopo l'art. 171, e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in oncologia.  
+Scuola di specializzazione in oncologia  
+Art. 172. - La scuola di specializzazione in oncologia ha sede presso l'istituto di anatomia ed istologia patologica dell'Universita' di Trieste e conferisce il diploma di specializzazione in oncologia.  
+Art. 173. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Art. 174. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.  
+Art. 175. - La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazioni.  
+Art. 176. - Il numero massimo degli allievi e' di otto per anno di corso e complessivamente di ventiquattro iscritti per l'intero corso di studi.  
+Art. 177. - L'ammissione al corso avviene per titoli ed esami.  
+Art. 178. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+patologia generale dei tumori (I);  
+oncologia sperimentale (I);  
+anatomia ed istologia patologica dei tumori (I);  
+epidemiologia dei tumori;  
+cancerogenesi ambientale e professionale e prevenzione primaria;  
+immunologia dei tumori.  
+2° Anno:  
+patologia dei tumori (II);  
+oncologia sperimentale (II);  
+anatomia ed istologia patologica dei tumori (II);  
+citodiagnostica dei tumori;  
+prevenzione clinica e tecniche diagnostiche e di laboratorio;  
+radiodiagnostica dei tumori;  
+oncologia medica (I);  
+oncologia chirurgica (I).  
+3° Anno:  
+oncologia medica (II);  
+oncologia chirurgica (II);  
+radioterapia dei tumori;  
+oncologia dell'apparato genitale femminile;  
+oncologia pediatrica;  
+principi di riabilitazione oncologica;  
+organizzazione della lotta contro i tumori.  
+La scuola provvedera' inoltre ad organizzare seminari e conferenze su specifici argomenti di:  
+oncologia otoiatrica e laringologica;  
+oncologia stomatologica;  
+oncologia del sistema nervoso centrale;  
+patologia dei tumori dell'apparato respiratorio;  
+terapia del dolore;  
+oncologia dermatologica;  
+oncologia dello scheletro e apparato locomotore;  
+oncologia urologica.  
+Art. 179. - Il corso di lezioni deve essere impartito mediante almeno centoventi lezioni annuali, comprensive delle varie materie.  
+Gli specializzandi hanno percio' obbligo di fare esercitazione pratica nei reparti, negli ambulatori e nei laboratori, oltre a seguire i corsi di lezioni ad essi impartiti. Il superamento degli esami di ciascun anno e' condizione indispensabile per l'iscrizione all'anno successivo. Per le materie a corso pluriennale l'esame deve essere sostenuto alla fine dei corsi medesimi.  
+Art. 180. - Al termine del triennio per ottenere il diploma i candidati devono presentare una dissertazione scritta su un argomento attinente alla specializzazione.  
+Le tasse, soprattasse e contributi della scuola di specializzazione in oncologia sono cosi' fissati:  
   
-Art. 226. - Al funzionamento della suddetta scuola si provvedera' con il provento delle tasse, soprattasse e contributi dovuti dagli iscritti e con eventuali elargizioni e contributi di enti pubblici o privati.  
-  
-Scuola a fini speciali (norma transitoria)  
-Scuola per ortottisti-assistenti in oftalmologia  
-  
-Sono ammessi al 3° anno della scuola, con l'obbligo di tutti gli esami del terzo anno e della tesi, le diplomate delle scuole speciali per ortottisti ai sensi dello [art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20), purche' abbiano esercitato con continuita' una attivita' professionale adeguata e documentata.  
-  
+tassa di immatricolazione. . . . . . . . . . . . . . . . . . L. 5.000 costo di libretto d'iscrizione o tesserino . . . . . . . . . L. 1.500 tassa annuale di iscrizione. . . . . . . . . . . . . . . . L. 150.000 soprattassa esami di profitto. . . . . . . . . . . . . . . . L. 7.000 contributo opere sportive ed assistenziali . . . . . . . . . L. 1.000 contributo biblioteca . . . . . . . . . . . . . . . . . . . L. 10.000 contributo clinica e laboratorio. . . . . . . . . . . . . . L. 48.000 prestazioni di segreteria. . . . . . . . . . . . . . . . . . L. 4.000 contributo di riscaldamento. . . . . . . . . . . . . . . . . L. 3.000 tassa di diploma . . . . . . . . . . . . . . . . . . . . . . L. 6.000   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 giugno 1978
+### Dato a Roma, addi' 5 settembre 1980
 
-p. Il Presidente della Repubblica Il Presidente del Senato FANFANI PEDINI
+PERTINI SARTI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 27 ottobre 1978
+Registrato alla Corte dei conti, addi' 30 dicembre 1980
 
-Registro n. 115 Istruzione, foglio n. 369
+Registro n. 122 Istruzione, foglio n. 16

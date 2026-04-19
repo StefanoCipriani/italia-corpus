@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 luglio 1963 n. 1364
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1973 n. 623
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 luglio 1963 n. 1364
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1973 n. 623
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
@@ -12,11 +12,11 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734) e successive;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -25,54 +25,77 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Gli articoli dal n. 439 al n. 448, relativi alla Scuola di perfezionamento in Cardiologia sono abrogati e sostituiti dai seguenti:  
+Dopo l'art. 711 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in "Chirurgia dell'apparato digerente ed endoscopia digestiva" e della seconda scuola in "Chirurgia dell'apparato digerente".  
   
-Scuola di specializzazione in Cardiologia  
+Scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva  
+Art. 712. - E' istituita la scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva che conferisce il titolo di specialista in "Chirurgia dell'apparato digerente ed endoscopia digestiva".  
+Alla scuola possono iscriversi solo i laureati in medicina e chirurgia.  
+La durata del corso di studi per il conseguimento del diploma e' di tre anni.  
+Art. 713. - Il numero massimo degli specializzandi ammessi potra' essere di quarantacinque complessivi nei tre anni, in accordo con il numero dei posti letto, la recettivita' degli ambienti, l'attrezzatura scientifica e clinica.  
+Qualora il numero delle domande di iscrizione al primo anno di corso sia superiore a quindici, la scelta degli iscritti sara' fatta in seguito a concorso interno per esami.  
+Gli aspiranti debbono accertarsi presso la segreteria dell'istituto di terza clinica chirurgica della eventuale data del concorso.  
+Art. 714. - Non saranno consentite abbreviazioni di corso ne' l'iscrizione contemporanea ad altre scuole di specializzazione.  
+La frequenza alle lezioni, alle esercitazioni pratiche, ai periodi di internato e' obbligatoria per l'ammissione agli esami; il superamento degli esami di ciascun anno sara' condizione indispensabile per l'iscrizione all'anno successivo.  
+Art. 715. - Al termine del triennio, per ottenere il diploma, i candidati dovranno presentare una dissertazione scritta su un argomento di chirurgia dell'apparato digerente ed endoscopia digestiva, da discutere davanti all'apposita commissione e dovranno inoltre sostenere una prova clinica.  
+Art. 716. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
+1° Anno:  
+1) Anatomia chirurgica dell'apparato digerente;  
+2) Anatomia, istologia patologica e ricerche speciali;  
+3) Radiologia dell'apparato digerente (I);  
+4) Semeiotica chirurgica (I);  
+5) Patologia chirurgica (I);  
+6) Tecnica e diagnostica endoscopica (I).  
+2° Anno:  
+7) Semeiotica chirurgica (II);  
+8) Patologia chirurgica (II);  
+9) Radiologia dell'apparato digerente (II);  
+10) Biochimica dell'apparato digerente;  
+11) Terapia chirurgica dell'apparato digerente (I);  
+12) Tecnica e diagnostica endoscopica (II).  
+3° Anno:  
+13) Anestesiologia;  
+14) Diagnostica delle malattie dell'apparato digerente;  
+15) Traumatologia dell'apparato digerente;  
+16) Terapia chirurgica dell'apparato digerente (II);  
+17) Tecniche chirurgiche particolari delle malattie dell'apparato digerente;  
+18) Tecnica e diagnostica endoscopica (III).  
   
-Art. 439. - La Scuola di specializzazione in Cardiologia ha lo scopo di promuovere l'incremento scientifico e pratico di tale branca della medicina e di conferire diplomi che abilitino al particolare esercizio della branca stessa con la qualifica di "specialista" a norma dell'[art. 178 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art178).  
-Art. 440. - Alla Scuola vengono ammessi i laureati in medicina e chirurgia. Il numero massimo degli ammessi al primo anno della Scuola e' di trenta.  
-Art. 441. - La durata dell'intero corso di studi e' di tre anni.  
-Art. 442. - Gli insegnamenti della Scuola sono:  
-Primo anno:  
-1) Anatomia normale dell'apparato cardiovascolare;  
-2) Fisiologia dell'apparato cardiovascolare e respiratorio;  
-3) Microbiologia;  
-4) Fisiopatologia cardiovascolare e respiratoria (1° corso);  
-5) Patologia cardiovascolare (1° corso);  
-6) Semeiologia fisica (1° corso);  
-7) Semeiologia strumentale (1° corso).  
-Per essere ammessi al secondo anno occorrera' aver superato gli esami di: Anatomia, Fisiologia, Microbiologia.  
-Secondo anno:  
-1) Fisiopatologia cardiovascolare e respiratoria (2° corso);  
-2) Patologia cardiovascolare (2° corso);  
-3) Semeiologia fisica (2° corso);  
-4) Semeiologia strumentale (2° corso);  
-5) Anatomia patologica dell'apparato cardiovascolare (1° corso);  
-6) Radiologia;  
-7) Farmacologia;  
-8) Clinica e terapia (1° corso).  
-Per essere ammessi al terzo anno occorrera' aver superato gli esami di: Fisiopatologia, Patologia, Semeiologia fisica, Semeiologia strumentale, Radiologia, Farmacologia.  
-Terzo anno:  
-1) Anatomia patologica dell'apparato cardiovascolare (2° corso);  
-2) Clinica e terapia (2° corso);  
-3) Chirurgia dell'apparato cardiovascolare;  
-4) Medicina legale con elementi di statistica e organizzazione sociale per la lotta contro il reumatismo e le cardiopatie.  
-I detti insegnamenti saranno integrati da corsi complementari e da corsi di esercitazioni pratiche.  
-Alla fine del terzo anno, dopo aver superato i singoli esami speciali, gli specializzandi dovranno sostenere un esame di diploma, vertente sulla discussione di una dissertazione scritta elaborata su un argomento di cardiologia concordato con il direttore della Scuola durante il secondo anno di corso.  
-Art. 443. - Gli specializzandi presteranno servizio in qualita' di assistente nel reparto clinico annesso alla Scuola, per l'intero anno solare e per tutta la durata della loro iscrizione alla Scuola. La frequenza nel reparto ed ai corsi e' obbligatoria e condizione indispensabile per l'ammissione agli esami.  
-Art. 444. - Il direttore della Scuola potra' concedere l'abbreviazione di corso, per titoli, con iscrizione al secondo anno (potra' essere richiesto un esame di idoneita); gli aspiranti che ne usufruiranno dovranno sostenere ugualmente gli esami del primo anno prima di quelli del secondo.  
-Art. 446. - A coloro che avranno superato l'esame di diploma, verra' rilasciato il diploma di specialista in Cardiologia.  
+Scuola di specializzazione in chirurgia dell'apparato digerente (II scuola)  
+Art. 717. - E' istituita la scuola di specializzazione in chirurgia dell'apparato digerente, cui sono ammessi i laureati in medicina e chirurgia.  
+La durata del corso di studi per il conseguimento del diploma in chirurgia dell'apparato digerente, e' di tre anni.  
+Art. 718. - Gli insegnamenti impartiti nella scuola sono cosi' suddivisi in tre anni di corso:  
+1° Anno:  
+1) Anatomia chirurgica dell'apparato digerente;  
+2) Anatomia ed istologia patologica dell'apparato digerente;  
+3) Semeiotica chirurgica;  
+4) Patologia chirurgica.  
+2° Anno:  
+1) Patologia chirurgica;  
+2) Semeiotica chirurgica;  
+3) Radiologia dell'apparato digerente;  
+4) Biochimica dell'apparato digerente;  
+5) Terapia chirurgica dell'apparato digerente.  
+3° Anno:  
+1) Clinica e diagnostica differenziale delle malattie dell'apparato digerente;  
+2) Anestesiologia;  
+3) Terapia chirurgica;  
+4) Traumatologia dell'apparato digerente.  
+Art. 719. - Il numero massimo complessivo degli iscritti alla scuola e' di dieci per ogni anno di corso, per un totale di trenta iscritti.  
+Al termine del corso gli allievi dovranno sostenere un esame sulle materie che nel corso dell'anno sono state oggetto di insegnamento.  
+Al termine del triennio l'allievo dovra' sostenere davanti all'apposita commissione una discussione sopra un caso clinico, oltre alla discussione di una tesi su di un argomento attinente alle materie insegnante.  
+Durante i tre anni del corso gli allievi sono tenuti a frequentare, come interni, la seconda clinica di patologia chirurgica dell'universita' od anche altri reparti universitari od ospedalieri che dovranno con essa essere convenzionati.  
+Alla fine del corso, gli allievi dovranno dimostrare di aver personalmente eseguito un certo numero di interventi di chirurgia digestiva, il cui numero e tipo sara' precisato nel regolamento della scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 luglio 1963
+### Dato a Roma, addi' 16 ottobre 1973
 
-SEGNI GUI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 16 ottobre 1963
+Registrato alla Corte dei conti, addi' 26 ottobre 1973
 
-Atti del Governo, registro n. 175, foglio n. 22. - VILLA
+Atti di Governo, registro n. 261, foglio n. 61. - VALENTINI

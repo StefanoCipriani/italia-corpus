@@ -1,19 +1,19 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 febbraio 1966 n. 121
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 dicembre 1957 n. 1327
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 febbraio 1966 n. 121
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 dicembre 1957 n. 1327
+================================================================
 
-Autorizzazione all'Ente Nazionale Assistenza Lavoratori (E.N.A.L.), ad accettare una donazione.
------------------------------------------------------------------------------------------------
+Autorizzazione all'Ente Nazionale Assistenza Lavoratori (E.N.A.L.) ad accettare una donazione.
+----------------------------------------------------------------------------------------------
 
 Art. 1
 ------
 
 N.
 
-121. Decreto del Presidente della Repubblica 14 febbraio 1966, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Ente Nazionale Assistenza Lavoratori (E.N.A.L.), viene autorizzato ad accettare dal comune di Colli del Tronto (Ascoli Piceno) la donazione - disposta con atto a rogito signor Monti Guido, notaio in Spinetoli, in data 12 agosto 1939, rep. gen. 4183 - di un appezzamento di terreno della superficie di "tavole una, pari ad are dieci" sito nel Comune anzidetto.  
+1327. Decreto del Presidente della Repubblica 2 dicembre 1957, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Ente Nazionale Assistenza Lavoratori (E.N.A.L.) viene autorizzato ad accettare una donazione.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 18 marzo 1966  
-Atti del Governo, registro n. 202, foglio n. 51. - VILLA
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 14 gennaio 1958  
+Atti del Governo, registro n. 110, foglio n. 5. - RELLEVA

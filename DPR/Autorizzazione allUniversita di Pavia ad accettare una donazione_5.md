@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 novembre 1948 n. 1512
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 luglio 1950 n. 645
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 novembre 1948 n. 1512
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 luglio 1950 n. 645
+=============================================================
 
 Autorizzazione all'Universita' di Pavia ad accettare una donazione.
 -------------------------------------------------------------------
@@ -12,8 +12,7 @@ Art. 1
 
 N.
 
-1512. Decreto del Presidente della Repubblica 2 novembre 1948, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Pavia viene autorizzata ad accettare la donazione della somma di L. 50.000, disposta in suo favore dal prof.  
-Prassitele Piccinini, con atto pubblico in data 31 maggio 1948, allo scopo di aumentare il capitale del "Premio prof. Massimo Piccinini per la farmacoterapia sperimentale" istituito con [regio decreto 3 dicembre 1940, n. 1989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-12-03;1989), e di rendere maggiormente adeguato l'ammontare del suddetto premio all'importanza del concorso.  
+645. Decreto del Presidente della Repubblica 4 luglio 1950, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Pavia viene autorizzata ad accettare la donazione della somma di L. 170.000, in titoli di Rendita 5%, e di L. 8500, in contanti, disposta in suo favore dal prof. Pietro Vaccari, anche a nome dei familiari, colleghi ed amici, con atto pubblico amministrativo in data 11 gennaio 1950, per l'istituzione di un premio di studio da intitolarsi al nome del "dott. Enrico Vaccari" e da conferirsi, ogni triennio, ad uno studioso italiano per un lavoro pubblicato nel campo della fitogeografia, che riguardi l'Italia.  
   
-Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 27 dicembre 1948
+Visto, il Guardasigilli: PICCIONI  
+Registrato alla Corte dei conti, addi' 8 agosto 1950

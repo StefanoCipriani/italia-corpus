@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1985 n. 920
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 816
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1985 n. 920
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 816
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
@@ -39,21 +39,21 @@ Articolo unico
 --------------
 
   
-Nell'art. 65, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
-rieducazione funzionale e riabilitazione.  
+Nell'art. 59, relativo al corso di laurea in lingue e letterature straniere, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
+storia della cultura tedesca.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 ottobre 1985
+### Dato a Roma, addi' 28 giugno 1986
 
 COSSIGA
 
 FALCUCCI, Ministro della pubblica istruzione
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: ROGNONI
 
-Registrato alla Corte dei conti, addi' 14 febbraio 1986
+Registrato alla Corte dei conti, addi' 18 novembre 1986
 
-Registro n. 9 Istruzione, foglio n. 116
+Registro n. 85 Istruzione, foglio n. 85

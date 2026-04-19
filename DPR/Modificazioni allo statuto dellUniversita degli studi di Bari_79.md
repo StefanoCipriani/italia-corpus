@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1960 n. 1746
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1982 n. 233
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1960 n. 1746
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1982 n. 233
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
@@ -10,383 +10,87 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169) e successivi;
+Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
 
-Veduto il testo unico dello leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Veduto il [decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53);
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sulla proposta del Ministro per la pubblica Istruzione;
+Sentito il parere del Consiglio universitario nazionale:
+
+Veduta la necessita' di adeguare le norme sulla direzione delle scuole di perfezionamento di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 92, relativo alle propedeuticita' degli insegnamenti ed esami del corso di laurea in Scienze geologiche, e' modificato nel senso che e' soppressa la propedeuticita' di Fisica I su Mineralogia.
+Articolo unico
+--------------
 
-Gli articoli 95 e 96 relativi al biennio propedeutico per la laurea in Ingegneria presso la Facolta' di scienze matematiche, fisiche e naturali sono soppressi.
-
-Gli articoli da 98 a 103 del titolo X: Facolta' di ingegneria, sono abrogati e sostituiti dai seguenti:
-
-Art. 98. - La Facolta' di ingegneria e' costituita su cinque anni e comprende il corso di laurea in Ingegneria civile nelle sue tre sezioni: edile, idraulica, trasporti.
-
-Art. 99. - Titolo di ammissione al corso di laurea in Ingegneria e' il diploma di maturita' classica o di maturita' scientifica.
-
-Art. 100. - I primi due anni del corso quinquennale di studio hanno funzione preminentemente propedeutica a scopo largamente formativo e comprendono i seguenti insegnamenti fondamentali:
-
-1° anno:
-
-1) Analisi matematica I;
-
-2) Geometria I;
-
-3) Fisica I;
-
-4) Chimica;
-
-5) Disegno;
-
-2° anno:
-
-6) Analisi matematica II;
-
-7) Meccanica razionale;
-
-8) Fisica II;
-
-9) Disegno II (differenziato secondo i corsi di laurea); quest'ultimo in sostituzione della Geometria II.
-
-Art. 101. - Gli studenti del primo anno di corso potranno ottenere l'iscrizione al secondo anno di corso qualora abbiano superato almeno due fra i quattro seguenti esami: Analisi matematica I, Geometria I, Fisica I, Chimica.
-
-Al termine del secondo anno di corso lo studente per essere ammesso al terzo anno di corso dovra' aver superato gli esami di tutte le discipline del biennio propedeutico.
-
-I due esami di Fisica comprendono la parte riguardante le relative esercitazioni.
-
-Art. 102. - Gli insegnamenti del triennio 3°, 4° e 3° anno hanno carattere applicativo e si distinguono in:
-
-A) Obbligatori comuni sul piano nazionale;
-
-B) Obbligatori sul piano della Facolta';
-
-C) Gruppi di materia a scelta dello studente.
-
-Il terzo anno, comune alle tre sezioni, comprende i seguenti insegnamenti:
-
-10) Scienza delle costruzioni;
-
-11) Meccanica applicata alle macchine e macchine;
-
-12) Fisica tecnica;
-
-13) Idraulica;
-
-14) Tecnologie dei materiali e chimica applicata;
-
-15) Architettura tecnica;
-
-16) Topografia.
-
-Gli insegnamenti del 4° e 5° anno della sezione edile sono i seguenti:
-
-4° anno:
-
-17) Elettrotecnica;
-
-18) Tecnica delle costruzioni;
-
-19) Architettura tecnica II;
-
-20) Geologia applicata;
-
-21) Costruzioni idrauliche;
-
-22) Tecnica urbanistica;
-
-23) Costruzioni di strade, ferrovie ed aeroporti.
-
-5° anno:
-
-24) Architettura e composizione architettonica;
-
-25) Materie giuridiche e legislazione dei lavori pubblici;
-
-26) Estimo e principi di tecnica economica;
-
-27) Scienza delle costruzioni II;
-
-28) Impianti tecnici edili;
-
-A scelta uno dei seguenti gruppi:
-
-| 29) Igiene applicata;
-
-I <
-
-| 30) Tecnologie del materiali edili;
-
-| 29) Cantieri edili;
-
-II <
-
-| 30) Tecnologie della produzione.
-
-Gli insegnamenti del 4° e 5° anno della sezione idraulica sono i seguenti:
-
-4° anno:
-
-17) Elettrotecnica;
-
-18) Tecnica delle costruzioni;
-
-19) Architettura tecnica II;
-
-20) Costruzioni idrauliche;
-
-21) Geologia applicata;
-
-22) Complementi di costruzioni idrauliche;
-
-23) Costruzione di strade, ferrovie ed aeroporti;
-
-5° anno:
-
-24) Materie giuridiche e legislazione dei lavori pubblici;
-
-25) Estimo e principi di tecnica economica;
-
-26) Impianti speciali idraulici;
-
-27) Costruzioni di ponti;
-
-28) Costruzioni marittime.
-
-A scelta uno dei seguenti gruppi:
-
-| 29) Idraulica agraria;
-
-I <
-
-| 30) Tecnica della bonifica;
-
-| 29) Igiene applicata;
-
-II <
-
-| 30) Idrologia.
-
-Gli insegnamenti del 4° e 5° anno della sezione trasporti sono i seguenti:
-
-4° anno:
-
-17) Elettrotecnica;
-
-18) Tecnica delle costruzioni;
-
-19) Architettura tecnica II;
-
-20) Costruzione di strade, ferrovie ed aeroporti;
-
-21) Geologia applicata;
-
-22) Costruzioni Idrauliche;
-
-23) Tecnica urbanistica;
-
-5° anno:
-
-24) Materie giuridiche e legislazione dei lavori pubblici;
-
-25) Estimo e principi di tecnica economica;
-
-26) Tecnica ed economia dei trasporti;
-
-27) Costruzione di ponti;
-
-28) Macchine ed organizzazione dei cantieri.
-
-A scelta uno del seguenti gruppi di materie:
-
-| 29) Complementi di costruzioni stradali;
-
-I <
-
-| 30) Tecnica della circolazione;
-
-| 29) Trazione elettrica;
-
-II <
-
-| 30) Complementi di tecnica ed economia dei trasporti.
-
-Art. 103. - Per essere ammesso all'esame di laurea lo studente dovra' aver superato tutti gli insegnamenti obbligatori del triennio di applicazione compresi quelli a scelta dello studente.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 30 ottobre 1960
-
-GRONCHI
-
-BOSCO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte del conti, addi' 26 gennaio 1961 Atti del Governo, registro n. 133, foglio n. 97. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169) e successivi;  
-Veduto il testo unico dello leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Veduto il [decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica Istruzione;  
+L'art. 257, relativo alla scuola di specializzazione in psichiatria, e' sostituito dai seguenti:  
   
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 92, relativo alle propedeuticita' degli insegnamenti ed esami del corso di laurea in Scienze geologiche, e' modificato nel senso che e' soppressa la propedeuticita' di Fisica I su Mineralogia.  
-  
-Gli articoli 95 e 96 relativi al biennio propedeutico per la laurea in Ingegneria presso la Facolta' di scienze matematiche, fisiche e naturali sono soppressi.  
-  
-Gli articoli da 98 a 103 del titolo X: Facolta' di ingegneria, sono abrogati e sostituiti dai seguenti:  
-  
-Art. 98. - La Facolta' di ingegneria e' costituita su cinque anni e comprende il corso di laurea in Ingegneria civile nelle sue tre sezioni: edile, idraulica, trasporti.  
-  
-Art. 99. - Titolo di ammissione al corso di laurea in Ingegneria e' il diploma di maturita' classica o di maturita' scientifica.  
-  
-Art. 100. - I primi due anni del corso quinquennale di studio hanno funzione preminentemente propedeutica a scopo largamente formativo e comprendono i seguenti insegnamenti fondamentali:  
-1° anno:  
-1) Analisi matematica I;  
-2) Geometria I;  
-3) Fisica I;  
-4) Chimica;  
-5) Disegno;  
-2° anno:  
-6) Analisi matematica II;  
-7) Meccanica razionale;  
-8) Fisica II;  
-9) Disegno II (differenziato secondo i corsi di laurea); quest'ultimo in sostituzione della Geometria II.  
-  
-Art. 101. - Gli studenti del primo anno di corso potranno ottenere l'iscrizione al secondo anno di corso qualora abbiano superato almeno due fra i quattro seguenti esami: Analisi matematica I, Geometria I, Fisica I, Chimica.  
-Al termine del secondo anno di corso lo studente per essere ammesso al terzo anno di corso dovra' aver superato gli esami di tutte le discipline del biennio propedeutico.  
-I due esami di Fisica comprendono la parte riguardante le relative esercitazioni.  
-  
-Art. 102. - Gli insegnamenti del triennio 3°, 4° e 3° anno hanno carattere applicativo e si distinguono in:  
-A) Obbligatori comuni sul piano nazionale;  
-B) Obbligatori sul piano della Facolta';  
-C) Gruppi di materia a scelta dello studente.  
-Il terzo anno, comune alle tre sezioni, comprende i seguenti insegnamenti:  
-10) Scienza delle costruzioni;  
-11) Meccanica applicata alle macchine e macchine;  
-12) Fisica tecnica;  
-13) Idraulica;  
-14) Tecnologie dei materiali e chimica applicata;  
-15) Architettura tecnica;  
-16) Topografia.  
-Gli insegnamenti del 4° e 5° anno della sezione edile sono i seguenti:  
-4° anno:  
-17) Elettrotecnica;  
-18) Tecnica delle costruzioni;  
-19) Architettura tecnica II;  
-20) Geologia applicata;  
-21) Costruzioni idrauliche;  
-22) Tecnica urbanistica;  
-23) Costruzioni di strade, ferrovie ed aeroporti.  
-5° anno:  
-24) Architettura e composizione architettonica;  
-25) Materie giuridiche e legislazione dei lavori pubblici;  
-26) Estimo e principi di tecnica economica;  
-27) Scienza delle costruzioni II;  
-28) Impianti tecnici edili;  
-  
-A scelta uno dei seguenti gruppi:  
-| 29) Igiene applicata;  
-I <  
-| 30) Tecnologie del materiali edili;  
-| 29) Cantieri edili;  
-II <  
-| 30) Tecnologie della produzione.  
-  
-Gli insegnamenti del 4° e 5° anno della sezione idraulica sono i seguenti:  
-4° anno:  
-17) Elettrotecnica;  
-18) Tecnica delle costruzioni;  
-19) Architettura tecnica II;  
-20) Costruzioni idrauliche;  
-21) Geologia applicata;  
-22) Complementi di costruzioni idrauliche;  
-23) Costruzione di strade, ferrovie ed aeroporti;  
-5° anno:  
-24) Materie giuridiche e legislazione dei lavori pubblici;  
-25) Estimo e principi di tecnica economica;  
-26) Impianti speciali idraulici;  
-27) Costruzioni di ponti;  
-28) Costruzioni marittime.  
-  
-A scelta uno dei seguenti gruppi:  
-| 29) Idraulica agraria;  
-I <  
-| 30) Tecnica della bonifica;  
-| 29) Igiene applicata;  
-II <  
-| 30) Idrologia.  
-  
-Gli insegnamenti del 4° e 5° anno della sezione trasporti sono i seguenti:  
-4° anno:  
-17) Elettrotecnica;  
-18) Tecnica delle costruzioni;  
-19) Architettura tecnica II;  
-20) Costruzione di strade, ferrovie ed aeroporti;  
-21) Geologia applicata;  
-22) Costruzioni Idrauliche;  
-23) Tecnica urbanistica;  
-5° anno:  
-24) Materie giuridiche e legislazione dei lavori pubblici;  
-25) Estimo e principi di tecnica economica;  
-26) Tecnica ed economia dei trasporti;  
-27) Costruzione di ponti;  
-28) Macchine ed organizzazione dei cantieri.  
-  
-A scelta uno del seguenti gruppi di materie:  
-| 29) Complementi di costruzioni stradali;  
-I <  
-| 30) Tecnica della circolazione;  
-| 29) Trazione elettrica;  
-II <  
-| 30) Complementi di tecnica ed economia dei trasporti.  
-  
-Art. 103. - Per essere ammesso all'esame di laurea lo studente dovra' aver superato tutti gli insegnamenti obbligatori del triennio di applicazione compresi quelli a scelta dello studente.  
+Scuola di specializzazione in psichiatria  
+Art. 257. - La scuola di specializzazione in psichiatria ha sede presso l'istituto di clinica psichiatrica dell'Universita' di Bari e conferisce il diploma di specialista in psichiatria.  
+Art. 258. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
+Art. 259. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+Art. 260. - La durata del corso di studi e' di quattro anni. Non sono consentite abbreviazioni di corso.  
+Art. 261. - Il numero di allievi e' di otto per anno e complessivamente di trentadue iscritti per l'intero corso di studi.  
+Art. 262. - L'ammissione al corso avviene per titoli ed esami.  
+Art. 263. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1) metodologia del rapporto medico-paziente (annuale);  
+2) psicologia (annuale);  
+3) elementi di genetica e biochimica (annuale);  
+4) struttura e funzioni integrative del SNC (annuale);  
+5) neurologia clinica (annuale);  
+6) clinica psichiatrica I (quadriennale).  
+2° Anno:  
+1) psicopatologia e psicodinamica (annuale);  
+2) psicoterapia I (triennale);  
+3) psicofarmacologia (annuale);  
+4) psicofarmacoterapia (annuale);  
+5) clinica psichiatrica II (quadriennale).  
+3° Anno:  
+1) psicodiagnostica ed informatica psichiatrica (annuale);  
+2) psichiatria sociale I (biennale);  
+3) psichiatria infantile (annuale);  
+4) psicoterapia II (triennale);  
+5) clinica psichiatrica III (quadriennale).  
+4° Anno:  
+1) psicosomatica (annuale);  
+2) psichiatria sociale II (biennale);  
+3) psichiatria forense (annuale);  
+4) psicoterapia III (triennale);  
+5) clinica psichiatrica IV (quadriennale).  
+Art. 264. - E' obbligatoria la frequenza per undici mesi all'anno; tale periodo comprende sia la frequenza alle lezioni, sia esercitazioni pratiche nei reparti di degenza e nelle strutture ambulatoriali a disposizione della scuola. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
+Art. 265. - La scuola programma lo svolgimento dei corsi di insegnamento. Per il passaggio agli anni successivi e' obbligatorio il superamento degli esami per ogni singolo anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.  
+Le lezioni teoriche saranno integrate anche da seminari, anche interdisciplinari, da documentazioni cliniche e da esperienze effettuate nei vari settori della disciplina.  
+Alla fine dei quattro anni gli allievi che hanno frequentato i corsi saranno ammessi all'esame di diploma, consistente nella presentazione e discussione di una tesi scritta di argomento pertinente alla psichiatria valida a tutti gli effetti di legge.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1960
+### Dato a Roma, addi' 5 febbraio 1982
 
-GRONCHI BOSCO
+PERTINI BODRATO
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte del conti, addi' 26 gennaio 1961
+Registrato alla Corte dei conti, addi' 24 aprile 1982
 
-Atti del Governo, registro n. 133, foglio n. 97. - VILLA
+Registro n. 58 Istruzione, foglio n. 152

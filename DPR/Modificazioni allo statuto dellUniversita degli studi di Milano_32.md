@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1957 n. 1004
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1972 n. 383
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1957 n. 1004
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1972 n. 383
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successivi;
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056) e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,9 +18,7 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalla autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -32,62 +30,295 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 17. - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di: "Storia del cristianesimo".
+L'art. 199, relativo alla "Scuola di specializzazione in medicina interna", e' abrogato e sostituito dal seguente:
 
-Art. 29. - Agli insegnamenti complementari del corso di laurea in fisica e' aggiunto quello di: "Elettronica".
+Scuola di specializzazione in medicina interna
 
-Art. 32. - Agli insegnamenti complementari del corso di laurea in matematica e fisica e' aggiunto quello di: "Teoria dei numeri".
+Art. 199. - La durata del corso e' di cinque anni.
 
-Art. 37. - Agli insegnamenti complementari del corso di laurea in scienze biologiche e' aggiunto quello di: "Farmacologia".
+Le materie di insegnamento sono:
 
-Art. 40. - Agli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti quelli di: "Geologia degli idrocarburi", "Esplorazione geologica del sottosuolo", "Sedimentologia", "Paleontologia umana e paletnologia".
+1° Anno:
 
-Art. 51. - Agli insegnamenti complementari del corso di laurea in medicina veterinaria e' aggiunto quello di: "Biochimica applicata".
+Malattie infettive disreattive e del sangue;
 
-Gli articoli da 73 a 80, concernenti l'ordinamento della scuola di perfezionamento in filosofia, sono abrogati e sostituiti dai seguenti:
+Istituzioni di terapia;
 
-Art. 73. - E' istituita presso la Facolta' di lettere e filosofia la scuola di perfezionamento in filosofia. La durata del corso degli studi e' di due anni.
+Anatomia ed istologia patologica (biennale);
 
-Art. 74. - Il direttore della scuola e' designato ogni triennio dal Consiglio di Facolta' nella persona di uno dei professori ordinari di discipline filosofiche.
+Clinica medica generale e terapia medica (quinquennale);
 
-Art. 75. - Per l'iscrizione alla scuola e' richiesta la laurea in filosofia.
+2° Anno:
 
-Art. 76. - Per essere ammesso all'esame di diploma l'iscritto alla scuola deve aver seguito i corsi e superato gli esami in almeno cinque insegnamenti, da lui scelti fra quelli impartiti ufficialmente nella Facolta' di lettere e filosofia o in altre Facolta' dell'Ateneo; almeno due di questi insegnamenti debbono essere filosofici; lo iscritto alla scuola puo' seguire per un biennio uno o due di detti insegnamenti ed in tal caso puo' ridurre di uno o due il numero degli insegnamenti che deve scegliere. La scelta degli insegnamenti ed il relativo piano di studio debbono essere sottoposti, all'inizio del corso degli studi, all'approvazione del direttore della scuola e del professore della materia in cui l'iscritto intende sostenere l'esame di diploma.
+Malattie dell'apparato cardiovascolare;
 
-Art. 77. - L'esame di diploma consiste nella discussione di una dissertazione scritta, di carattere scientifico e di argomento filosofico, svolta su un tema fissato all'inizio del corso degli studi, d'intesa col professore della materia e con l'approvazione del direttore della scuola.
+Microbiologia e sierologia;
 
-Art. 78. - La Commissione degli esami di profitto e' quella prevista per i vari insegnamenti, secondo le disposizioni delle singole Facolta'. La Commissione degli esami di diploma, composta di sette membri, e' presieduta dal preside della Facolta' e ne fanno parte il direttore della scuola e cinque professori ufficiali da lui designati.
+Chimica clinica;
 
-Art. 79 - Per l'iscrizione alla scuola debbono essere versati le tasse e sopratasse e gli eventuali contributi speciali stabiliti anno per anno dal Consiglio di amministrazione dell'Universita', su proposta del senato accademico, uditi il Consiglio di Facolta' e la scuola.
+Anatomia ed istologia patologica (biennale);
 
-La tassa di diploma, da devolversi all'Erario, e' fissata nella misura di L. 6000, ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).
+Clinica medica generale e terapia medica (quinquennale);
+
+3° Anno:
+
+Malattie dell'apparato digerente;
+
+Malattie renali;
+
+Clinica medica generale e terapia medica (quinquennale);
+
+4° Anno:
+
+Malattie dell'apparato respiratorio;
+
+Malattie del sistema nervoso;
+
+Clinica medica generale e terapia medica (quinquennale);
+
+5° Anno:
+
+Malattie del ricambio;
+
+Malattie delle ghiandole endocrine;
+
+Clinica medica generale e terapia medica (quinquennale).
+
+Insegnamenti complementari:
+
+Parassitologia medica;
+
+Genetica medica;
+
+Semeiotica dermatologica;
+
+Radiologia;
+
+Semeiotica oculistica;
+
+Semeiotica ginecologica.
+
+Il numero dei posti disponibili e' fissato in sei per ogni anno di corso.
+
+L'art. 201, relativo alla "Scuola di specializzazione in medicina nucleare", e' abrogato e sostituito dal seguente:
+
+Art. 201. - La durata del corso e' di tre anni.
+
+Il numero degli iscritti alla scuola e' fissato ad un massimo di otto per il primo anno di corso (totale ventiquattro iscritti).
+
+Le materie di insegnamento sono:
+
+1° Anno:
+
+Fondamenti di matematica e di statistica;
+
+Fisica nucleare e delle radiazioni;
+
+Tecniche per le misure di radioattivita';
+
+Dosimetria.
+
+2° Anno:
+
+Teoria dei traccianti;
+
+Elementi di radiochimica;
+
+Applicazioni diagnostiche I;
+
+Elementi di radiobiologia.
+
+3° Anno:
+
+Applicazioni diagnostiche II;
+
+Applicazioni terapeutiche;
+
+Radioprotezione e legislazione.
+
+Per essere ammessi all'esame di diploma, gli allievi dovranno aver superato i seguenti esami di profitto i cui sono raggruppate le materie di insegnamento:
+
+1° Anno:
+
+Fondamenti fisici e tecnici.
+
+2° Anno:
+
+Fondamenti biologici;
+
+Fondamenti metodologici.
+
+3° Anno:
+
+Applicazioni diagnostiche;
+
+Applicazioni terapeutiche;
+
+Radioprotezione.
+
+L'art. 206, relativo alla "Scuola di specializzazione in oculistica", e' abrogato e sostituito dal seguente:
+
+Scuola di specializzazione in oculistica
+
+Art. 206. - La scuola ha la durata di quattro anni.
+
+Il numero dei posti disponibili e' fissato in sette per ogni anno di corso.
+
+Le materie di insegnamento sono:
+
+1° Anno:
+
+Anatomia ed istologia dell'apparato oculare;
+
+Nozioni di embriologia e genetica oculare;
+
+Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;
+
+Nozioni di ottica fisiologica, esame della refrazione;
+
+Microbiologia ed igiene oculare.
+
+2° Anno:
+
+Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmoscopia, perimetria, campimetria, adattometria, senso cromatico, tonometria, esami elettrofunzionali, radiologia);
+
+Farmacologia oculare e terapia fisica;
+
+Anatomia patologica oculare;
+
+Patologia e clinica oculare (malattie delle palpebre, della congiuntiva, delle vie lacrimali, della cornea e della sclera).
+
+3° Anno:
+
+Patologia e clinica oculare (malattie dell'uvea della retina, del nervo ottico e delle vie ottiche, dell'occhio nella sua totalita', dell'orbita, glaucoma);
+
+Anomalie e patologia della motilita' oculare; e della visione binoculare, ortottica e pleottica;
+
+Affezioni otorinolaringoiatriche e occhio;
+
+Tecnica operatoria (biennale).
+
+4° Anno:
+
+Neuroftalmologia;
+
+Malattie oculari in rapporto alle affezioni generali;
+
+Malattie professionali, infortunistica e medicina legale oculare;
+
+Tecnica operatoria (biennale).
+
+E' obbligatorio l'internato per quattro anni nella clinica oculistica. Gli esami di profitto verranno sostenuti per gruppo di materie alla fine di ogni anno.
+
+Al termine del corso, prima di presentare la dissertazione scritta o sostenere la relativa discussione, i diplomati debbono sostenere una prova pratica sull'ammalato.
+
+L'art. 208, relativo alla "Scuola di specializzazione in ostetricia e ginecologia", e' abrogato e sostituito dal seguente:
+
+Scuola di specializzazione in ostetricia e ginecologia
+
+Art. 208. - La durata del corso e' di quattro anni.
+
+L'ammissione alla scuola avviene previo esame di concorso per titoli ed esami.
+
+Il numero dei posti disponibili e' fissato in quindici per il primo anno di corso (totale sessanta iscritti).
+
+Non e' ammessa l'abbreviazione della durata del corso.
+
+Gli iscritti hanno l'obbligo della frequenza alle lezioni, esercitazioni, seminari e simili; devono inoltre prestare servizio analogo a quello degli assistenti per un periodo non inferiore ai nove mesi per ciascun anno.
+
+Le materie di insegnamento sono:
+
+1° Anno:
+
+Elementi di genetica e di eugenica;
+
+Anatomia normale ed embriologia dell'apparato genitale femminile;
+
+Fisiologia dell'apparato genitale femminile;
+
+Endocrinologia fisiologica;
+
+Fisiologia ostetrica;
+
+Diagnostica ostetrica;
+
+Clinica ostetrica.
+
+2° Anno:
+
+Tecnica operatoria ostetrica;
+
+Diagnostica ginecologica;
+
+Tecnica diagnostica di laboratorio nel campo ostetrico-ginecologico; esclusa la istologia (sierologia, batteriologia, citologia, ematologia, biochimica);
+
+Clinica ostetrica e ginecologica;
+
+3° Anno:
+
+Anatomia patologica ostetrica e ginecologica;
+
+Istologia normale e patologica nel campo delle specialita';
+
+Puericoltura pre-natale;
+
+Emoterapia nel campo ostetrico e ginecologico;
+
+Anestesia e analgesia nel campo ostetrico e ginecologico;
+
+Tecnica operatoria ginecologica;
+
+Clinica ostetrica e ginecologica;
+
+Terapia medica ostetrica e ginecologica;
+
+4° Anno:
+
+Puericoltura post-natale e malattie del neonato;
+
+Ostetricia e ginecologia forense;
+
+Diagnostica roentgen, radioterapia in ostetricia e ginecologia;
+
+Clinica ostetrica e ginecologica (esame alla fine del quarto anno);
+
+Urologia ginecologica;
+
+Chirurgia addominale extra-genitale.
+
+Gli iscritti alla scuola debbono sostenere esami annuali di profitto e l'esame finale di diploma.
+
+La sessione degli esami di profitto e' unica ed e' espletata nel mese di ottobre.
+
+Gli esami si svolgono per gruppi di materie.
+
+Per il conseguimento del diploma, il candidato deve presentare e discutere una dissertazione scritta con contributo personale.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 16 ottobre 1957
+Dato a Roma, addi' 7 giugno 1972
 
-GRONCHI
+LEONE
 
-MORO
+MISASI
 
 Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 30 ottobre 1957 Atti del Governo, registro n. 108, foglio n. 124. - RELLEVA
+alla Corte dei conti, addi' 25 luglio 1972 Atti del Governo, registro n. 250, foglio n. 70. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successivi;  
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056) e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalla autorita' accademiche dell'Universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -95,32 +326,178 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 17. - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di: "Storia del cristianesimo".  
-Art. 29. - Agli insegnamenti complementari del corso di laurea in fisica e' aggiunto quello di: "Elettronica".  
-Art. 32. - Agli insegnamenti complementari del corso di laurea in matematica e fisica e' aggiunto quello di: "Teoria dei numeri".  
-Art. 37. - Agli insegnamenti complementari del corso di laurea in scienze biologiche e' aggiunto quello di: "Farmacologia".  
-Art. 40. - Agli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti quelli di: "Geologia degli idrocarburi", "Esplorazione geologica del sottosuolo", "Sedimentologia", "Paleontologia umana e paletnologia".  
-Art. 51. - Agli insegnamenti complementari del corso di laurea in medicina veterinaria e' aggiunto quello di: "Biochimica applicata".  
-Gli articoli da 73 a 80, concernenti l'ordinamento della scuola di perfezionamento in filosofia, sono abrogati e sostituiti dai seguenti:  
-Art. 73. - E' istituita presso la Facolta' di lettere e filosofia la scuola di perfezionamento in filosofia. La durata del corso degli studi e' di due anni.  
-Art. 74. - Il direttore della scuola e' designato ogni triennio dal Consiglio di Facolta' nella persona di uno dei professori ordinari di discipline filosofiche.  
-Art. 75. - Per l'iscrizione alla scuola e' richiesta la laurea in filosofia.  
-Art. 76. - Per essere ammesso all'esame di diploma l'iscritto alla scuola deve aver seguito i corsi e superato gli esami in almeno cinque insegnamenti, da lui scelti fra quelli impartiti ufficialmente nella Facolta' di lettere e filosofia o in altre Facolta' dell'Ateneo; almeno due di questi insegnamenti debbono essere filosofici; lo iscritto alla scuola puo' seguire per un biennio uno o due di detti insegnamenti ed in tal caso puo' ridurre di uno o due il numero degli insegnamenti che deve scegliere. La scelta degli insegnamenti ed il relativo piano di studio debbono essere sottoposti, all'inizio del corso degli studi, all'approvazione del direttore della scuola e del professore della materia in cui l'iscritto intende sostenere l'esame di diploma.  
-Art. 77. - L'esame di diploma consiste nella discussione di una dissertazione scritta, di carattere scientifico e di argomento filosofico, svolta su un tema fissato all'inizio del corso degli studi, d'intesa col professore della materia e con l'approvazione del direttore della scuola.  
-Art. 78. - La Commissione degli esami di profitto e' quella prevista per i vari insegnamenti, secondo le disposizioni delle singole Facolta'. La Commissione degli esami di diploma, composta di sette membri, e' presieduta dal preside della Facolta' e ne fanno parte il direttore della scuola e cinque professori ufficiali da lui designati.  
-Art. 79 - Per l'iscrizione alla scuola debbono essere versati le tasse e sopratasse e gli eventuali contributi speciali stabiliti anno per anno dal Consiglio di amministrazione dell'Universita', su proposta del senato accademico, uditi il Consiglio di Facolta' e la scuola.  
-La tassa di diploma, da devolversi all'Erario, e' fissata nella misura di L. 6000, ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).  
+L'art. 199, relativo alla "Scuola di specializzazione in medicina interna", e' abrogato e sostituito dal seguente:  
+  
+Scuola di specializzazione in medicina interna  
+  
+Art. 199. - La durata del corso e' di cinque anni.  
+Le materie di insegnamento sono:  
+  
+1° Anno:  
+Malattie infettive disreattive e del sangue;  
+Istituzioni di terapia;  
+Anatomia ed istologia patologica (biennale);  
+Clinica medica generale e terapia medica (quinquennale);  
+  
+2° Anno:  
+Malattie dell'apparato cardiovascolare;  
+Microbiologia e sierologia;  
+Chimica clinica;  
+Anatomia ed istologia patologica (biennale);  
+Clinica medica generale e terapia medica (quinquennale);  
+  
+3° Anno:  
+Malattie dell'apparato digerente;  
+Malattie renali;  
+Clinica medica generale e terapia medica (quinquennale);  
+  
+4° Anno:  
+Malattie dell'apparato respiratorio;  
+Malattie del sistema nervoso;  
+Clinica medica generale e terapia medica (quinquennale);  
+  
+5° Anno:  
+Malattie del ricambio;  
+Malattie delle ghiandole endocrine;  
+Clinica medica generale e terapia medica (quinquennale).  
+  
+Insegnamenti complementari:  
+Parassitologia medica;  
+Genetica medica;  
+Semeiotica dermatologica;  
+Radiologia;  
+Semeiotica oculistica;  
+Semeiotica ginecologica.  
+  
+Il numero dei posti disponibili e' fissato in sei per ogni anno di corso.  
+L'art. 201, relativo alla "Scuola di specializzazione in medicina nucleare", e' abrogato e sostituito dal seguente:  
+Art. 201. - La durata del corso e' di tre anni.  
+Il numero degli iscritti alla scuola e' fissato ad un massimo di otto per il primo anno di corso (totale ventiquattro iscritti).  
+Le materie di insegnamento sono:  
+  
+1° Anno:  
+Fondamenti di matematica e di statistica;  
+Fisica nucleare e delle radiazioni;  
+Tecniche per le misure di radioattivita';  
+Dosimetria.  
+  
+2° Anno:  
+Teoria dei traccianti;  
+Elementi di radiochimica;  
+Applicazioni diagnostiche I;  
+Elementi di radiobiologia.  
+  
+3° Anno:  
+Applicazioni diagnostiche II;  
+Applicazioni terapeutiche;  
+Radioprotezione e legislazione.  
+  
+Per essere ammessi all'esame di diploma, gli allievi dovranno aver superato i seguenti esami di profitto i cui sono raggruppate le materie di insegnamento:  
+  
+1° Anno:  
+Fondamenti fisici e tecnici.  
+  
+2° Anno:  
+Fondamenti biologici;  
+Fondamenti metodologici.  
+  
+3° Anno:  
+Applicazioni diagnostiche;  
+Applicazioni terapeutiche;  
+Radioprotezione.  
+  
+L'art. 206, relativo alla "Scuola di specializzazione in oculistica", e' abrogato e sostituito dal seguente:  
+  
+Scuola di specializzazione in oculistica  
+Art. 206. - La scuola ha la durata di quattro anni.  
+Il numero dei posti disponibili e' fissato in sette per ogni anno di corso.  
+Le materie di insegnamento sono:  
+  
+1° Anno:  
+Anatomia ed istologia dell'apparato oculare;  
+Nozioni di embriologia e genetica oculare;  
+Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;  
+Nozioni di ottica fisiologica, esame della refrazione;  
+Microbiologia ed igiene oculare.  
+  
+2° Anno:  
+Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmoscopia, perimetria, campimetria, adattometria, senso cromatico, tonometria, esami elettrofunzionali, radiologia);  
+Farmacologia oculare e terapia fisica;  
+Anatomia patologica oculare;  
+Patologia e clinica oculare (malattie delle palpebre, della congiuntiva, delle vie lacrimali, della cornea e della sclera).  
+  
+3° Anno:  
+Patologia e clinica oculare (malattie dell'uvea della retina, del nervo ottico e delle vie ottiche, dell'occhio nella sua totalita', dell'orbita, glaucoma);  
+Anomalie e patologia della motilita' oculare; e della visione binoculare, ortottica e pleottica;  
+Affezioni otorinolaringoiatriche e occhio;  
+Tecnica operatoria (biennale).  
+  
+4° Anno:  
+Neuroftalmologia;  
+Malattie oculari in rapporto alle affezioni generali;  
+Malattie professionali, infortunistica e medicina legale oculare;  
+Tecnica operatoria (biennale).  
+  
+E' obbligatorio l'internato per quattro anni nella clinica oculistica. Gli esami di profitto verranno sostenuti per gruppo di materie alla fine di ogni anno.  
+Al termine del corso, prima di presentare la dissertazione scritta o sostenere la relativa discussione, i diplomati debbono sostenere una prova pratica sull'ammalato.  
+L'art. 208, relativo alla "Scuola di specializzazione in ostetricia e ginecologia", e' abrogato e sostituito dal seguente:  
+  
+Scuola di specializzazione in ostetricia e ginecologia  
+Art. 208. - La durata del corso e' di quattro anni.  
+L'ammissione alla scuola avviene previo esame di concorso per titoli ed esami.  
+Il numero dei posti disponibili e' fissato in quindici per il primo anno di corso (totale sessanta iscritti).  
+Non e' ammessa l'abbreviazione della durata del corso.  
+Gli iscritti hanno l'obbligo della frequenza alle lezioni, esercitazioni, seminari e simili; devono inoltre prestare servizio analogo a quello degli assistenti per un periodo non inferiore ai nove mesi per ciascun anno.  
+Le materie di insegnamento sono:  
+  
+1° Anno:  
+Elementi di genetica e di eugenica;  
+Anatomia normale ed embriologia dell'apparato genitale femminile;  
+Fisiologia dell'apparato genitale femminile;  
+Endocrinologia fisiologica;  
+Fisiologia ostetrica;  
+Diagnostica ostetrica;  
+Clinica ostetrica.  
+  
+2° Anno:  
+Tecnica operatoria ostetrica;  
+Diagnostica ginecologica;  
+Tecnica diagnostica di laboratorio nel campo ostetrico-ginecologico; esclusa la istologia (sierologia, batteriologia, citologia, ematologia, biochimica);  
+Clinica ostetrica e ginecologica;  
+  
+3° Anno:  
+Anatomia patologica ostetrica e ginecologica;  
+Istologia normale e patologica nel campo delle specialita';  
+Puericoltura pre-natale;  
+Emoterapia nel campo ostetrico e ginecologico;  
+Anestesia e analgesia nel campo ostetrico e ginecologico;  
+Tecnica operatoria ginecologica;  
+Clinica ostetrica e ginecologica;  
+Terapia medica ostetrica e ginecologica;  
+  
+4° Anno:  
+Puericoltura post-natale e malattie del neonato;  
+Ostetricia e ginecologia forense;  
+Diagnostica roentgen, radioterapia in ostetricia e ginecologia;  
+Clinica ostetrica e ginecologica (esame alla fine del quarto anno);  
+Urologia ginecologica;  
+Chirurgia addominale extra-genitale.  
+  
+Gli iscritti alla scuola debbono sostenere esami annuali di profitto e l'esame finale di diploma.  
+La sessione degli esami di profitto e' unica ed e' espletata nel mese di ottobre.  
+Gli esami si svolgono per gruppi di materie.  
+Per il conseguimento del diploma, il candidato deve presentare e discutere una dissertazione scritta con contributo personale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 ottobre 1957
+### Dato a Roma, addi' 7 giugno 1972
 
-GRONCHI MORO
+LEONE MISASI
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 30 ottobre 1957
+Registrato alla Corte dei conti, addi' 25 luglio 1972
 
-Atti del Governo, registro n. 108, foglio n. 124. - RELLEVA
+Atti del Governo, registro n. 250, foglio n. 70. - CARUSO

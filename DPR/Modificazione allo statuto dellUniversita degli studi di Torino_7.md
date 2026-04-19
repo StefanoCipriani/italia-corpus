@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 414
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1986 n. 237
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 414
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1986 n. 237
+==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
@@ -39,14 +39,14 @@ Articolo unico
 --------------
 
   
-Nell'art. 15, relativo al corso di laurea in scienze politiche, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
-microeconomia.  
+Nell'art. 55, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
+endocrinologia ostetrica e ginecologica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 aprile 1986
+### Dato a Roma, addi' 28 gennaio 1986
 
 COSSIGA
 
@@ -54,6 +54,6 @@ FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 11 luglio 1986
+Registrato alla Corte dei conti, addi' 19 maggio 1986
 
-Registro n. 56 Istruzione, foglio n. 3
+Registro n. 39 Istruzione, foglio n. 143

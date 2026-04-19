@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1983 n. 585
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 908
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1983 n. 585
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 908
+==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -39,19 +39,19 @@ Articolo unico
 --------------
 
   
-Nell'art. 148, relativo all'elenco degli insegnamenti complementari della facolta' di ingegneria, e' aggiunto il seguente nuovo insegnamento:  
-complementi di impianti meccanici.  
+Nell'art. 51, relativo al corso di laurea in scienze politiche, all'elenco degli insegnamenti dell'indirizzo storico-politico e' aggiunto il seguente nuovo insegnamento:  
+storia economica e sociale dell'eta' moderna e contemporanea.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 marzo 1983
+### Dato a Roma, addi' 28 ottobre 1983
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 15 ottobre 1983
+Registrato alla Corte dei conti, addi' 30 gennaio 1984
 
-Registro n. 66 Istruzione, foglio n. 129
+Registro n. 5 Istruzione, foglio n. 17

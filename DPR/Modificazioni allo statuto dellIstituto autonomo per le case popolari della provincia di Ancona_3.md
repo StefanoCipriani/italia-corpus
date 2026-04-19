@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1968 n. 911
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1973 n. 451
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1968 n. 911
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1973 n. 451
 =============================================================
 
 Modificazioni allo statuto dell'Istituto autonomo per le case popolari della provincia di Ancona.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-911. Decreto del Presidente della Repubblica 1 giugno 1968, col quale, sulla proposta del Ministro per i lavori pubblici, viene approvata la modifica dello art. 9 dello statuto dell'Istituto autonomo per le case popolari della provincia di Ancona.  
+451. Decreto del Presidente della Repubblica 2 maggio 1973, col quale, sulla proposta del Ministro per i lavori pubblici, vengono approvate le modifiche apportate agli articoli 4, 6 e 16 dello statuto dell'Istituto autonomo per le case popolari della provincia di Ancona.  
   
 Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 21 agosto 1968  
-Atti del Governo, registro n. 222, foglio n. 88 - Di PRETORO
+Registrato alla Corte dei conti, addi' 23 luglio 1973  
+Atti di Governo, registro n. 259, foglio n. 34. - VALENTINI

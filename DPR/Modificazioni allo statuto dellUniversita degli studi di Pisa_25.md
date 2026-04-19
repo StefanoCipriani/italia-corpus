@@ -1,213 +1,96 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1972 n. 478
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1973 n. 1152
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1972 n. 478
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1973 n. 1152
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936; n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 55, relativo agli istituti scientifici della facolta' di lettere e filosofia e' modificato nel senso che l'istituto di filologia classica viene scisso nei due seguenti istituti:
-
-Istituto di filologia greca;
-
-Istituto di filologia latina.
-
-Art. 74. - All'elenco degli istituti scientifici della facolta' di scienze matematiche, fisiche e naturali e' aggiunto quello di:
-
-Istituto di scienze dell'informazione.
-
-Art. 129. - All'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie e' aggiunto quello di:
-
-Ordinamento e gestione dell'azienda agricola.
-
-Art. 138. - All'elenco degli istituti didattici e sperimentali appartenenti alla facolta' di medicina veterinaria sono aggiunti i seguenti:
-
-Istituto di anatomia e istologia degli animali domestici;
-
-Istituto di malattie infettive, profilassi e polizia veterinaria.
-
-Nello stesso articolo l'istituto di patologia speciale clinica medica e polizia sanitaria muta denominazione in quella di istituto di patologia speciale e clinica medica veterinaria.
-
-Gli articoli 201, 202 e 205 relativi al corso di perfezionamento in ingegneria nucleare, annesso alla facolta' di ingegneria sono abrogati e sostituiti dai seguenti:
-
-Art. 201. - Il corso ha la durata di un anno. Il corso di perfezionamento ha diverso contenuto per:
-
-A) i laureati in ingegneria nucleare;
-
-B) i non laureati in ingegneria nucleare.
-
-Per coloro che appartengono alla categoria A), gli insegnamenti sono i seguenti:
-
-A-1) Misure di fisica nucleare;
-
-A-2) Complementi di costruzioni nucleari;
-
-A-3) Metodi avanzati per l'analisi di sicurezza degli impianti nucleari;
-
-A-4) Esercizio degli impianti nucleari.
-
-Per coloro che appartengono alla categoria B), gli insegnamenti sono i seguenti:
-
-B-1) Fisica nucleare;
-
-B-2) Fisica dei reattori nucleari e reattori nucleari;
-
-B-3) Misure di fisica nucleare;
-
-B-4) Impianti nucleari terrestri e navali;
-
-B-5) Costruzioni nucleari;
-
-B-6) Sicurezza e dosimetria;
-
-B-7) Teoria dei servomeccanismi applicata al controllo ed alla regolazione dei reattori;
-
-B-8) Elettronica applicata agli impianti nucleari;
-
-B-9) Chimica dei reattori;
-
-B-10) Tecnologia dei materiali dei reattori. Trattamenti e separazione degli isotopi.
-
-Detti insegnamenti saranno integrati da esercitazioni pratiche ed eventualmente da conferenze.
-
-Art. 202. - Al termine, del corso la facolta' rilascia un certificato di studi per il conseguimento del quale e' necessario:
-
-per gli appartenenti alla categoria A):
-
-aver superato gli esami delle materie A-1), A-2), A-3), A-4) ed aver discusso davanti ad apposita commissione, nominata dal consiglio di facolta', una relazione relativa ad una ricerca applicata all'ingegneria nucleare, cui il candidato abbia apportato contributi originali;
-
-per gli appartenenti alla categoria B):
-
-aver superato gli esami delle materie B-1), B-2), B-3), B-4), B-5), B-6) e alternativamente B-7) e 5-8) oppure B-9) e B-10).
-
-Art. 205. - La tassa e la soprattassa che gli iscritti sono tenuti a pagare sono quelle stabilite per gli studenti in corso.
-
-La tassa di diploma e' fissata in L. 6000 a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7). Gli eventuali contributi potranno essere fissati di anno in anno dal consiglio di amministrazione su proposta del senato accademico, udito il consiglio di facolta'.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 20 giugno 1972
-
-LEONE
-
-MISASI
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 12 agosto 1972 Atti del Governo, registro n. 250, foglio n. 158. - VALENTINI
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936; n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 55, relativo agli istituti scientifici della facolta' di lettere e filosofia e' modificato nel senso che l'istituto di filologia classica viene scisso nei due seguenti istituti:   
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+L'art. 245, relativo alle norme generali per le scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' abrogato e sostituito dal seguente:  
+Art. 245. - L'insegnamento e' impartito mediante corsi e gruppi di lezione. Il corso comprende non meno di 25 o di 50 lezioni. Esso puo' essere istituito nelle scuole in cui se ne ravvisi l'opportunita' in rapporto ad esigenze didattiche.  
+Puo' comprendere una materia solo o un gruppo di materie affini comprese nello statuto di scuole anche diverse.  
+Viene proposto dalla facolta' su indicazione dei direttori delle scuole interessate e approvato dal rettore, entro il mese di giugno.  
+Il conferimento dell'incarico del gruppo di lezioni viene proposto dal consiglio di facolta' su indicazione del direttore della scuola e approvato dal rettore entro il mese di giugno.  
+E' consentito il cumulo degli incarichi di gruppi di lezioni.  
+L'art. 302, relativo alla "Scuola di specializzazione in cardiologia e reumatologia", che muta la denominazione in quella di "Scuola di specializzazione in malattie dell'apparato cardiovascolare", e' abrogato e sostituito dai seguenti:  
   
-Istituto di filologia greca;   
-Istituto di filologia latina.   
+Scuola di specializzazione in malattie dell'apparato cardiovascolare   
+Art. 302. - Il numero degli iscritti e' di dieci per ogni anno di corso.  
+Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+Anatomia normale dell'apparato cardio-vascolare;  
+Fisiologia dell'apparato cardio-vascolare e respiratorio;  
+Fisiopatologia cardio-vascolare e respiratoria (1° corso);  
+Patologia cardio-vascolare (1° corso);  
+Semeiologia fisica (1° corso);  
+Semeiologia strumentale (1° corso).  
+2° Anno:  
+Fisiopatologia cardio-vascolare e respiratoria (2° corso);  
+Patologia cardio-vascolare (2° corso);  
+Semeiologia fisica (2° corso);  
+Semeiologia strumentale (2° corso);  
+Anatomia patologica dell'apparato cardio vascolare (1° corso);  
+Radiologia;  
+Farmacologia;  
+Clinica e terapia (1° corso).  
+3° Anno:  
+Anatomia patologica dell'apparato cardio-vascolare (2° corso);  
+Clinica e terapia (2° corso);  
+Chirurgia dell'apparato cardiovascolare;  
+Statistica ed epidemiologia.  
   
-Art. 74. - All'elenco degli istituti scientifici della facolta' di scienze matematiche, fisiche e naturali e' aggiunto quello di:   
+Dopo l'art. 362, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della "Scuola di specializzazione in anatomia e istologia patologica".  
   
-Istituto di scienze dell'informazione.   
+Scuola di specializzazione in anatomia e istologia patologica  
   
-Art. 129. - All'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie e' aggiunto quello di:   
+Art. 363. - La scuola ha la durata di tre anni e ha sede presso l'istituto di anatomia e istologia patologica. Il direttore della scuola e' il professore di ruolo della materia. Il numero degli iscritti e' limitato a cinque per ciascun anno di corso.  
+Art. 364. - Le materie di insegnamento sono:  
+1° Anno:  
+Tecnica delle autopsie;  
+Diagnostica anatomo-patologica macroscopica;  
+Anatomia patologica sistematica 1°;  
+Tecnica istologica ed istochimica 1°.  
+2° Anno:  
+Anatomia patologica sistematica 2°;  
+Tecnica istologica ed istochimica 2°;  
+Diagnostica istopatologica 1°;  
+Elementi di macroscopica elettronica.  
+3° Anno:  
+Diagnostica istopatologica 2°:  
+Diagnostica ematologica;  
+Tecnica e diagnostica citologica;  
+Legislazione sanitaria tanatologica.  
   
-Ordinamento e gestione dell'azienda agricola.   
-  
-Art. 138. - All'elenco degli istituti didattici e sperimentali appartenenti alla facolta' di medicina veterinaria sono aggiunti i seguenti:   
-  
-Istituto di anatomia e istologia degli animali domestici;   
-Istituto di malattie infettive, profilassi e polizia veterinaria.   
-  
-Nello stesso articolo l'istituto di patologia speciale clinica medica e polizia sanitaria muta denominazione in quella di istituto di patologia speciale e clinica medica veterinaria.   
-Gli articoli 201, 202 e 205 relativi al corso di perfezionamento in ingegneria nucleare, annesso alla facolta' di ingegneria sono abrogati e sostituiti dai seguenti:   
-Art. 201. - Il corso ha la durata di un anno. Il corso di perfezionamento ha diverso contenuto per:   
-  
-A) i laureati in ingegneria nucleare;   
-B) i non laureati in ingegneria nucleare.   
-  
-Per coloro che appartengono alla categoria A), gli insegnamenti sono i seguenti:   
-  
-A-1) Misure di fisica nucleare;   
-A-2) Complementi di costruzioni nucleari;   
-A-3) Metodi avanzati per l'analisi di sicurezza degli impianti nucleari;   
-A-4) Esercizio degli impianti nucleari.   
-  
-Per coloro che appartengono alla categoria B), gli insegnamenti sono i seguenti:   
-  
-B-1) Fisica nucleare;   
-B-2) Fisica dei reattori nucleari e reattori nucleari;   
-B-3) Misure di fisica nucleare;   
-B-4) Impianti nucleari terrestri e navali;   
-B-5) Costruzioni nucleari;   
-B-6) Sicurezza e dosimetria;   
-B-7) Teoria dei servomeccanismi applicata al controllo ed alla regolazione dei reattori;   
-B-8) Elettronica applicata agli impianti nucleari;   
-B-9) Chimica dei reattori;   
-B-10) Tecnologia dei materiali dei reattori. Trattamenti e separazione degli isotopi.   
-  
-Detti insegnamenti saranno integrati da esercitazioni pratiche ed eventualmente da conferenze.   
-Art. 202. - Al termine, del corso la facolta' rilascia un certificato di studi per il conseguimento del quale e' necessario:   
-per gli appartenenti alla categoria A):   
-aver superato gli esami delle materie A-1), A-2), A-3), A-4) ed aver discusso davanti ad apposita commissione, nominata dal consiglio di facolta', una relazione relativa ad una ricerca applicata all'ingegneria nucleare, cui il candidato abbia apportato contributi originali;   
-per gli appartenenti alla categoria B):   
-aver superato gli esami delle materie B-1), B-2), B-3), B-4), B-5), B-6) e alternativamente B-7) e 5-8) oppure B-9) e B-10).   
-  
-Art. 205. - La tassa e la soprattassa che gli iscritti sono tenuti a pagare sono quelle stabilite per gli studenti in corso.   
-La tassa di diploma e' fissata in L. 6000 a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7). Gli eventuali contributi potranno essere fissati di anno in anno dal consiglio di amministrazione su proposta del senato accademico, udito il consiglio di facolta'.   
+Art. 365. - I corsi teorici e pratici sono integrati da internati ed esercitazioni. L'internato si intende continuativo per la durata dei corsi presso l'istituto di anatomia e istologia patologica.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle legge dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 giugno 1972
+### Dato a Roma, addi' 23 ottobre 1973
 
-LEONE MISASI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 12 agosto 1972
+Registrato alla Corte dei conti, addi' 26 ottobre 1974
 
-Atti del Governo, registro n. 250, foglio n. 158. - VALENTINI
+Atti di Governo, registro n. 6, foglio n. 30. - SCIARRETTA

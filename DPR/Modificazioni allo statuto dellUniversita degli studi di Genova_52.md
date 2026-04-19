@@ -1,68 +1,47 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1986 n. 229
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 luglio 1971 n. 709
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1986 n. 229
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 luglio 1971 n. 709
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
-
-Veduto il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Nell'art. 46, all'elenco degli insegnamenti complementari del corso di laurea in lettere e' aggiunto l'insegnamento di "letterature comparate".  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Nell'art. 70, all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti insegnamenti:  
-fisiopatologia dell'emostasi;  
-diabetologia;  
-radiologia sperimentale;  
-ginecologia dell'infanzia e dell'adolescenza.  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+L'ordinamento della scuola diretta a fini speciali di a Assistenza sociale psichiatrica" e' modificato nel senso che dopo l'art. 299 e con il conseguente spostamento della numerazione degli articoli successivi e' aggiunto un nuovo articolo riguardante la seguente norma transitoria.  
+Art. 300. - Alla data di entrata in vigore delle presenti disposizioni, gli allievi dei precedenti corsi tenuti presso gli istituti di clinica delle malattie nervose e mentali e di psichiatria dell'Universita' di Genova, che abbiano sostenuto tutti gli esami e la tesi finale e che siano in possesso del regolare attestato, potranno ottenere il corrispondente diploma di assistente sociale psichiatrico, previo colloquio integrativo.  
+L'art. 304, relativo alle norme di iscrizione e di esame inerenti alla scuola di perfezionamento in matematica e' abrogato e sostituito dal seguente:  
+"Per essere iscritto al primo anno occorre il diploma di laurea in matematica od altra laurea giudicata sufficiente dal consiglio direttivo della scuola. Di anno in anno, il consiglio puo' stabilire un numero massimo di iscrizioni al primo anno; qualora il numero di domande superi tale limite, il consiglio formula una graduatoria di merito.  
+Per essere iscritti al secondo anno occorre aver frequentato i corsi e superato tutti gli esami previsti per il primo anno.  
+All'esame di diploma si accede dopo aver superato tutti gli esami speciali del biennio; le modalita' di esso saranno fissate dal consiglio direttivo della scuola in relazione all'indirizzo prescelto".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 gennaio 1986
+### Dato a Roma, addi' 6 luglio 1971
 
-COSSIGA
+SARAGAT MISASI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: COLOMBO
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 30 agosto 1971
 
-Registrato alla Corte dei conti, addi' 19 maggio 1986
-
-Registro n. 39 Istruzione, foglio n. 153
+Atti del Governo, registro n. 244, foglio n. 45. - PASQUALUCCI

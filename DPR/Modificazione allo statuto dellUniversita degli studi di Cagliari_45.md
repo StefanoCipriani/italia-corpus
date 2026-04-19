@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 1986 n. 811
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 689
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 1986 n. 811
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 689
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Cagliari.
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Cagliari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1039](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1039), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -39,21 +39,19 @@ Articolo unico
 --------------
 
   
-Nell'art. 42, relativo al corso di laurea in pedagogia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-storia della cultura materiale.  
+Nell'art. 35, relativo al corso di laurea in lettere, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+filologia greca.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 6 giugno 1986
+### Dato a Roma, addi' 27 giugno 1983
 
-COSSIGA
+PERTINI FALCUCCI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Visto, il Guardasigilli: ROGNONI
+Registrato alla Corte dei conti, addi' 7 dicembre 1983
 
-Registrato alla Corte dei conti, addi' 18 novembre 1986
-
-Registro n. 85 Istruzione, foglio n. 88
+Registro n. 75 Istruzione, foglio n. 288

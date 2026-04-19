@@ -1,288 +1,86 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1963 n. 1797
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1978 n. 949
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1963 n. 1797
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1978 n. 949
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con il [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministero per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 9. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze politiche e' aggiunto quello di "Diritto pubblico dell'economia" mentre viene soppresso quello di "Istituzioni di diritto penale" .
-
-Art. 11, concernente le norme di propedeuticita' per il corso di laurea in Scienze politiche modificato nel senso che il n. 1) e' aggiunta la propedeuticita' dell'esame di "Economia politica" verso quello di "Scienza delle finanze" .
-
-Art. 20. - All'elenco degli insegnamenti complementari del corso di laurea in Economia e commercio sono aggiunti quelli di:
-
-Diritto industriale;
-
-Diritto tributario.
-
-Art. 24. - All'elenco degli insegnamenti complementari del corso di laurea in Lingue e letterature straniere e' aggiunto quello di "Glottologia" .
-
-Art. 28, concernente l'elenco degli Istituti annessi alla Facolta' di Economia e commercio e' modificato nel senso che il n. 1) prende la seguente denominazione:
-
-1) Istituto di Merceologia (comprendente il laboratorio di merceologia, il museo merceologico ed il laboratorio per lo studio delle fonti di energia).
-
-Art. 33. - All'elenco degli Istituti della Facolta' di Medicina e chirurgia e' aggiunto il seguente:
-
-Istituto di Semeiotica medica.
-
-Art. 42. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze agrarie sono aggiunti quelli di:
-
-Chimica biologica;
-
-Nematologia (semestrale);
-
-Virologia vegetale (semestrale).
-
-Art. 41, concernente le norme di propedeuticita' per il corso di laurea in Scienze agrarie e' modificato nel senso che il capoverso "Agli effetti della iscrizione e degli esami sono da considerarsi materie propedeutiche" e' abrogato e sostituito dal seguente: "Agli effetti degli esami sono da considerare materie propedeutiche" .
-
-Art. 80. - All'elenco degli insegnamenti complementari del corso di laurea in Matematica - indirizzo didattico - e' aggiunto quello di "Astronomia" .
-
-Art. 86, relativo agli esami di laurea in Scienze naturali, l'ultimo comma, e' sostituito dal seguente:
-
-"Dell'esame di laurea fa parte una prova orale di cultura, integrata da prove pratiche. Tale esame di cultura vertera' su argomenti a carattere generale nelle seguenti discipline:
-
-1) Botanica;
-
-2) Zoologia ed anatomia comparata;
-
-3) Mineralogia;
-
-4) Geologia".
-
-Art. 90, relativo agli esami di laurea in Scienze geologiche, l'ultimo comma e' sostituito dal seguente:
-
-"Dell'esame di laurea fa parte la prova di cultura, generale di cui al successivo art. 92 nelle seguenti discipline:
-
-1) Mineralogia;
-
-2) Petrografia;
-
-3) Geologia;
-
-4) Paleontologia".
-
-Art. 92, relativo alle norme comuni, il primo capoverso e' modificato nel modo seguente:
-
-"L'esame di laurea in Chimica, in Scienze naturali, in Scienze biologiche, in Scienze geologiche, consiste oltre che nell'esame di cultura generale ed oltre che nelle prove pratiche di cui agli articoli 84, 86, 90".
-
-Art. 94. - Dall'elenco degli Istituti della Facolta' di Scienze matematiche, fisiche e naturali e' soppresso lo Istituto di Fisiologia generale e chimica biologica, mentre vengono istituiti i seguenti:
-
-Istituto di Fisiologia generale;
-
-Istituto di Chimica biologica;
-
-Seminario di Studi biologici.
-
-Dopo l'art. 97 e con il conseguente spostamento della successiva numerazione vengono inseriti i seguenti nuovi articoli, relativi alla regolamentazione del Seminario di studi biologici.
-
-Seminario di studi biologici
-
-Art. 98. - Al Seminario di studi biologici partecipano i diversi Istituti del gruppo biologico della Facolta' di Scienze. Il titolare della cattedra di Chimica biologica e' responsabile dell'organizzazione e dell'attivita' di tale Seminario.
-
-Art. 99. - Il Seminario si propone di realizzare dei corsi utili e per un completamento di preparazione biologica per studenti e per laureati e per un'ampia discussione sui piu' recenti progressi delle Scienze biologiche. Il Seminario si propone inoltre di incrementare in una visione unitaria, la ricerca scientifica dei vari Istituti che ad esso partecipano attraverso conferenze, simposi, dimostrazioni pratiche, pubblicazioni ed ogni altra forma utile al raggiungimento di tali finalita' scientifiche. Esso utilizzera' le biblioteche degli istituti del gruppo biologico della Facolta' di Scienze.
-
-Dopo l'art. 105 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione del Centro di Microscopia elettronica e del Centro di calcolo.
-
-Centro di Microscopia elettronica
-
-Art. 106. - E' istituito presso l'Universita' di Bari un Centro di Microscopia elettronica; esso e' a disposizione delle varie Facolta' per ogni loro esigenza di ricerca e di insegnamento.
-
-Il Centro e' diretto da un Comitato esecutivo, composto da sei membri, designati dal Senato accademico su indicazione delle varie Facolta', e dal direttore tecnico del Centro.
-
-Il Comitato esecutivo e' nominato per due anni ed i suoi membri possono essere confermati. Ad esso spetta, il coordinamento delle esigenze di ricerca con le disponibilita' e le possibilita' di lavoro del Centro: esso e' inoltre responsabile della sua gestione tecnica ed amministrativa.
-
-Il Centro di Microscopia elettronica ha sede nei locali dell'Istituto di Anatomia ed Istologia patologica il cui direttore ha qualifica di direttore tecnico del Centro.
-
-Il Centro disporra' di un fondo destinato al mantenimento e miglioramento delle sue attrezzature e di un fondo per le spese di gestione. Detti fondi saranno costituiti:
-
-a) da una dotazione annuale stabilita, su proposta del rettore, dal Consiglio di amministrazione della Universita' di Bari;
-
-b) da fondi provenienti da Enti privati sia sotto forma di donazioni, sia in seguito a richieste del Comitato esecutivo del Centro;
-
-c) dal contributo dei vari ricercatori a titolo di rimborso totale o parziale delle spese sostenute dal Centro per le rispettive ricerche.
-
-Il funzionamento del Centro sara' disciplinato da un apposito regolamento.
-
-Centro di calcolo
-
-Art. 107. - E' istituito presso l'Universita' di Bari un Centro di calcolo.
-
-Scopo del Centro e' quello di istituire e fornire mezzi moderni di calcolo per l'attivita' scientifica e didattica degli Istituti dell'Universita'.
-
-Organo direttivo del Centro e' un Comitato, costituito da:
-
-1) un professore di ruolo del gruppo fisico-matematico della Facolta' di Scienze;
-
-2) un professore di ruolo del gruppo chimico-geomineralogico della Facolta' di Scienze;
-
-3) un professore di ruolo delle discipline generali della Facolta' di ingegneria;
-
-4) un professore di ruolo delle discipline applicative della Facolta' di ingegneria;
-
-5) un professore di ruolo del gruppo economicostatistico matematico della Facolta' di Economia e commercio;
-
-6) un professore di ruolo dei gruppi economico, di statistica metodologica o ingegneristico della Facolta' di Agraria.
-
-Il Comitato e' nominato dal rettore su proposta della Facolta' di appartenenza dei professori di cui sopra.
-
-Il Comitato elegge nel suo seno un presidente. E' eletto presidente colui che in prima votazione riporta un numero di voti pari almeno alla meta' piu' uno del numero dei componenti il Comitato. Nel caso si dovesse ripetere la votazione per la non conseguita maggioranza ed anche nella seconda si avesse un risultato di parita', verra' eletto come presidente il professore piu' anziano di ruolo tra i candidati.
-
-I membri del Comitato ed il presidente durano in carica due anni accademici.
-
-I membri del Comitato possono essere riproposti dalle rispettive Facolta'. In caso di sostituzione di un componente il Comitato, la Facolta' competente provvede alla designazione del suo successore a norma del precedente comma 3).
-
-Per la validita' delle riunioni del Comitato occorre la presenza di almeno quattro componenti.
-
-Per la validita' delle deliberazioni occorre la maggioranza dei voti dei presenti. A parita' di voti prevale il voto del presidente.
-
-Il presidente e' sostituito, in caso di assenza o impedimento, da un vice presidente. Questi e' nominato dal rettore su designazione fatta dallo stesso presidente, all'inizio del suo mandato, tra i membri del Comitato.
-
-Il funzionamento del Centro sara' disciplinato da apposito regolamento, da emanarsi dal rettore su proposta del Comitato. Il regolamento verra' approvato dal Senato accademico, sentito il parere delle Facolta' menzionate nel precedente comma 3).
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 31 ottobre 1963
-
-SEGNI
-
-GUI
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 11 dicembre 1963 Atti del Governo, registro n. 178, foglio n. 61. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con il [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
+Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto-legge 20 maggio 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-05-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministero per la pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 9. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze politiche e' aggiunto quello di "Diritto pubblico dell'economia" mentre viene soppresso quello di "Istituzioni di diritto penale" .  
-Art. 11, concernente le norme di propedeuticita' per il corso di laurea in Scienze politiche modificato nel senso che il n. 1) e' aggiunta la propedeuticita' dell'esame di "Economia politica" verso quello di "Scienza delle finanze" .  
-Art. 20. - All'elenco degli insegnamenti complementari del corso di laurea in Economia e commercio sono aggiunti quelli di:  
-Diritto industriale;  
-Diritto tributario.  
-Art. 24. - All'elenco degli insegnamenti complementari del corso di laurea in Lingue e letterature straniere e' aggiunto quello di "Glottologia" .  
-Art. 28, concernente l'elenco degli Istituti annessi alla Facolta' di Economia e commercio e' modificato nel senso che il n. 1) prende la seguente denominazione:  
-1) Istituto di Merceologia (comprendente il laboratorio di merceologia, il museo merceologico ed il laboratorio per lo studio delle fonti di energia).  
-Art. 33. - All'elenco degli Istituti della Facolta' di Medicina e chirurgia e' aggiunto il seguente:  
-Istituto di Semeiotica medica.  
-Art. 42. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze agrarie sono aggiunti quelli di:  
-Chimica biologica;  
-Nematologia (semestrale);  
-Virologia vegetale (semestrale).  
-Art. 41, concernente le norme di propedeuticita' per il corso di laurea in Scienze agrarie e' modificato nel senso che il capoverso "Agli effetti della iscrizione e degli esami sono da considerarsi materie propedeutiche" e' abrogato e sostituito dal seguente: "Agli effetti degli esami sono da considerare materie propedeutiche" .  
-Art. 80. - All'elenco degli insegnamenti complementari del corso di laurea in Matematica - indirizzo didattico - e' aggiunto quello di "Astronomia" .  
-Art. 86, relativo agli esami di laurea in Scienze naturali, l'ultimo comma, e' sostituito dal seguente:  
-"Dell'esame di laurea fa parte una prova orale di cultura, integrata da prove pratiche. Tale esame di cultura vertera' su argomenti a carattere generale nelle seguenti discipline:  
-1) Botanica;  
-2) Zoologia ed anatomia comparata;  
-3) Mineralogia;  
-4) Geologia".  
-Art. 90, relativo agli esami di laurea in Scienze geologiche, l'ultimo comma e' sostituito dal seguente:  
-"Dell'esame di laurea fa parte la prova di cultura, generale di cui al successivo art. 92 nelle seguenti discipline:  
-1) Mineralogia;  
-2) Petrografia;  
-3) Geologia;  
-4) Paleontologia".  
-Art. 92, relativo alle norme comuni, il primo capoverso e' modificato nel modo seguente:  
-"L'esame di laurea in Chimica, in Scienze naturali, in Scienze biologiche, in Scienze geologiche, consiste oltre che nell'esame di cultura generale ed oltre che nelle prove pratiche di cui agli articoli 84, 86, 90".  
-Art. 94. - Dall'elenco degli Istituti della Facolta' di Scienze matematiche, fisiche e naturali e' soppresso lo Istituto di Fisiologia generale e chimica biologica, mentre vengono istituiti i seguenti:  
-Istituto di Fisiologia generale;  
-Istituto di Chimica biologica;  
-Seminario di Studi biologici.  
-Dopo l'art. 97 e con il conseguente spostamento della successiva numerazione vengono inseriti i seguenti nuovi articoli, relativi alla regolamentazione del Seminario di studi biologici.  
   
-Seminario di studi biologici  
+Dopo l'art. 267 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di perfezionamento in pianificazione urbana e territoriale presso la facolta' di ingegneria.  
   
-Art. 98. - Al Seminario di studi biologici partecipano i diversi Istituti del gruppo biologico della Facolta' di Scienze. Il titolare della cattedra di Chimica biologica e' responsabile dell'organizzazione e dell'attivita' di tale Seminario.  
-Art. 99. - Il Seminario si propone di realizzare dei corsi utili e per un completamento di preparazione biologica per studenti e per laureati e per un'ampia discussione sui piu' recenti progressi delle Scienze biologiche. Il Seminario si propone inoltre di incrementare in una visione unitaria, la ricerca scientifica dei vari Istituti che ad esso partecipano attraverso conferenze, simposi, dimostrazioni pratiche, pubblicazioni ed ogni altra forma utile al raggiungimento di tali finalita' scientifiche. Esso utilizzera' le biblioteche degli istituti del gruppo biologico della Facolta' di Scienze.  
-Dopo l'art. 105 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione del Centro di Microscopia elettronica e del Centro di calcolo.  
+Scuola di perfezionamento in pianificazione urbana e territoriale  
   
-Centro di Microscopia elettronica  
-  
-Art. 106. - E' istituito presso l'Universita' di Bari un Centro di Microscopia elettronica; esso e' a disposizione delle varie Facolta' per ogni loro esigenza di ricerca e di insegnamento.  
-Il Centro e' diretto da un Comitato esecutivo, composto da sei membri, designati dal Senato accademico su indicazione delle varie Facolta', e dal direttore tecnico del Centro.  
-Il Comitato esecutivo e' nominato per due anni ed i suoi membri possono essere confermati. Ad esso spetta, il coordinamento delle esigenze di ricerca con le disponibilita' e le possibilita' di lavoro del Centro: esso e' inoltre responsabile della sua gestione tecnica ed amministrativa.  
-Il Centro di Microscopia elettronica ha sede nei locali dell'Istituto di Anatomia ed Istologia patologica il cui direttore ha qualifica di direttore tecnico del Centro.  
-Il Centro disporra' di un fondo destinato al mantenimento e miglioramento delle sue attrezzature e di un fondo per le spese di gestione. Detti fondi saranno costituiti:  
-a) da una dotazione annuale stabilita, su proposta del rettore, dal Consiglio di amministrazione della Universita' di Bari;  
-b) da fondi provenienti da Enti privati sia sotto forma di donazioni, sia in seguito a richieste del Comitato esecutivo del Centro;  
-c) dal contributo dei vari ricercatori a titolo di rimborso totale o parziale delle spese sostenute dal Centro per le rispettive ricerche.  
-Il funzionamento del Centro sara' disciplinato da un apposito regolamento.  
-  
-Centro di calcolo  
-  
-Art. 107. - E' istituito presso l'Universita' di Bari un Centro di calcolo.  
-Scopo del Centro e' quello di istituire e fornire mezzi moderni di calcolo per l'attivita' scientifica e didattica degli Istituti dell'Universita'.  
-Organo direttivo del Centro e' un Comitato, costituito da:  
-1) un professore di ruolo del gruppo fisico-matematico della Facolta' di Scienze;  
-2) un professore di ruolo del gruppo chimico-geomineralogico della Facolta' di Scienze;  
-3) un professore di ruolo delle discipline generali della Facolta' di ingegneria;  
-4) un professore di ruolo delle discipline applicative della Facolta' di ingegneria;  
-5) un professore di ruolo del gruppo economicostatistico matematico della Facolta' di Economia e commercio;  
-6) un professore di ruolo dei gruppi economico, di statistica metodologica o ingegneristico della Facolta' di Agraria.  
-Il Comitato e' nominato dal rettore su proposta della Facolta' di appartenenza dei professori di cui sopra.  
-Il Comitato elegge nel suo seno un presidente. E' eletto presidente colui che in prima votazione riporta un numero di voti pari almeno alla meta' piu' uno del numero dei componenti il Comitato. Nel caso si dovesse ripetere la votazione per la non conseguita maggioranza ed anche nella seconda si avesse un risultato di parita', verra' eletto come presidente il professore piu' anziano di ruolo tra i candidati.  
-I membri del Comitato ed il presidente durano in carica due anni accademici.  
-I membri del Comitato possono essere riproposti dalle rispettive Facolta'. In caso di sostituzione di un componente il Comitato, la Facolta' competente provvede alla designazione del suo successore a norma del precedente comma 3).  
-Per la validita' delle riunioni del Comitato occorre la presenza di almeno quattro componenti.  
-Per la validita' delle deliberazioni occorre la maggioranza dei voti dei presenti. A parita' di voti prevale il voto del presidente.  
-Il presidente e' sostituito, in caso di assenza o impedimento, da un vice presidente. Questi e' nominato dal rettore su designazione fatta dallo stesso presidente, all'inizio del suo mandato, tra i membri del Comitato.  
-Il funzionamento del Centro sara' disciplinato da apposito regolamento, da emanarsi dal rettore su proposta del Comitato. Il regolamento verra' approvato dal Senato accademico, sentito il parere delle Facolta' menzionate nel precedente comma 3).  
+Art. 268. - Presso la facolta' di ingegneria di Bari viene istituita una scuola di perfezionamento in pianificazione urbana e territoriale con il fine di formare sia una piu' specializzata e approfondita preparazione integrativa di quella universitaria, sia una piu' vasta e diffusa conoscenza nonche' di promuovere studi e ricerche inerenti all'insediamento umano e all'ordinato assetto del territorio.  
+Art. 269. - I docenti di ciascun corso saranno scelti tra i professori di ruolo o incaricati, nonche' tra esperti cultori di riconosciuta competenza nelle rispettive specialita' e verranno nominati dal rettore su proposta del direttore della scuola sentito il consiglio della facolta' e su parere conforme dei consigli di facolta' per le rispettive competenze indicate al successivo art.  
+271. La durata dell'incarico di insegnamento avra' di regola validita' biennale oppure inferiore in relazione a particolari esigenze scientifiche.  
+Il consiglio della scuola sara' costituito dai docenti della scuola, da un rappresentante del mondo del lavoro, da un rappresentante dell'imprenditoria e da un rappresentante della cultura proposti dalla regione Puglia e nominati con decreto rettorale.  
+Il rettore nominera' il direttore della scuola su proposta del consiglio della stessa che lo scegliera' tra i suoi docenti. La nomina valida per un triennio non sara' rinnovabile.  
+Art. 270. - L'iscrizione ai corsi e' riservata a laureati italiani in ingegneria civile o in architettura e stranieri in titoli equivalenti nonche' ai laureati funzionari dipendenti di amministrazioni pubbliche o cultori, italiani e stranieri, operanti in settori disciplinari afferenti allo studio e all'organizzazione della citta' e del territorio.  
+Art. 271. - La scuola attuera' corsi della durata complessiva di due anni secondo proprio calendario.  
+Ogni corso comprendera' gli insegnamenti di cui al seguente elenco nei due anni di frequenza:  
+storia della citta' e del territorio (annuale) I;  
+economia urbana e territoriale (2 semestri) I e II;  
+progettazione urbanistica e disegno urbano (biennale) I e II;  
+comunicazioni e trasporti (2 semestri) I e II;  
+pianificazione territoriale (annuale) II;  
+risanamento e recupero urbano (annuale) II;  
+impianti tecnici ed igiene territoriale (semestrale) II;  
+geotecnica e idrogeologia (annuale) I;  
+modelli matematici per la pianificazione del territorio (semestrale) I;  
+diritto urbanistico (2 semestri) I e II;  
+statistica ed econometria (2 semestri) I e II;  
+economia politica e programmazione (annuale) II;  
+geografia urbana e territoriale (semestrale) I;  
+ecologia e difesa dell'ambiente (annuale) I;  
+sociologia urbana e rurale (2 semestri) I e II;  
+valorizzazione e conservazione del patrimonio culturale (semestrale) II.  
+Ai fini di quanto disposto all'art. 2 i pareri di competenza sono demandati ai sottonotati consigli di facolta' dell'Universita' di Bari:  
+facolta' di ingegneria: insegnamenti 1 - 10;  
+facolta' di economia e commercio: insegnamenti 11 -14;  
+facolta' di lettere e filosofia: insegnamenti 15 - 16.  
+Art. 272. - Ogni insegnamento, sia annuale sia semestrale, comportera' un esame finale, ovvero un colloquio annuale ed un esame finale, se biennale.  
+Alla fine del corso gli insegnanti dovranno attestare, secondo le modalita' stabilite dal consiglio della scuola, la frequenza degli iscritti ai corsi.  
+Alla fine del corso gli allievi dovranno sostenere una prova finale costituita dalla presentazione e discussione di un lavoro individuale ed originale a carattere progettuale, critico, teorico in relazione al titolo da conseguire.  
+Art. 273. - Ai partecipanti ai corsi, i quali abbiano regolarmente frequentato gli insegnamenti e superato i relativi esami, verranno rilasciati i seguenti titoli: a) diploma di qualificazione di ingegnere o architetto urbanista ai partecipanti i quali, essendo forniti della corrispondente laurea, ovvero del titolo straniero equivalente, abbiano sostenuto con esito positivo tutti gli esami e la prova finale; b) attestato di esperto in urbanistica, corredato dal curriculum scolastico completo e dallo elenco degli esami superati, ai partecipanti i quali abbiano sostenuto con esito favorevole un numero di esami non inferiore ai 2/3 delle materie istituite presso la scuola, nonche' la prova finale.  
+Art. 274. - Le commissioni per gli esami di profitto e per i colloqui saranno nominate dal direttore della scuola e saranno costituite da tre membri scelti tra i docenti della scuola; peraltro un membro di ciascuna commissione potra' essere scelto al di fuori dei docenti della scuola.  
+La prova finale verra' sostenuta davanti ad una commissione di sette membri, nominata dal rettore, su proposta del direttore della scuola, e composta, in maggioranza, da insegnanti della scuola stessa.  
+Art. 275. - Il numero massimo degli iscritti, le norme di ammissione e di frequenza, il programma ed il contenuto dei corsi e delle ricerche da svolgere saranno stabiliti annualmente dal consiglio.  
+L'ammissione dei partecipanti ai corsi avverra' mediante pubblico concorso bandito annualmente dalla scuola entro il 31 luglio. La valutazione sara' fatta in base a titoli relativi all'attivita' svolta dai candidati presso gli istituti universitari (tesi di laurea; studi; ricerche; progetti; programmi e pubblicazioni relativi ad argomenti di pianificazione territoriale ed urbanistica, nonche' all'assetto della societa' e dell'ambiente) ovvero nell'espletamento di funzioni tecnico-amministrative pubbliche.  
+Art. 276. - Le modalita' di iscrizione, il pagamento delle tasse e soprattasse saranno conformi alle disposizioni di legge vigenti per gli studenti universitari; eventuali contributi verranno stabiliti annualmente dal consiglio di amministrazione dell'Universita' di Bari, su proposta del consiglio della scuola.  
+I partecipanti potranno usufruire di eventuali borse di studio, di premi conferiti dal consiglio della scuola dietro proposta del direttore, in misura e numero relativi alle possibilita' finanziarie della scuola.  
+Art. 277. - Sono utilizzabili le attrezzature didattiche scientifiche gia' a disposizione dell'istituto di architettura e urbanistica della facolta' di ingegneria e negli altri: istituti interessati nella stessa facolta'.  
+Le attrezzature didattiche e scientifiche utilizzabili per i corsi di statistica ed econometria, economia politica e programmazione, geografia urbana e territoriale, ecologia e difesa dell'ambiente saranno messi a disposizione dalla facolta' di economia e commercio dell'Universita' di Bari, e quelle per il corso di sociologia urbana e rurale e valorizzazione e conservazione del patrimonio culturale dalla facolta' di lettere e filosofia della stessa Universita'.  
+I mezzi con cui viene fatto fronte alla spesa di gestione possono comprendere i contributi della facolta' e del Consiglio nazionale delle ricerche nonche' delle regioni, di enti pubblici statali, parastatali e locali, enti morali, enti e societa' pubbliche e private interessati ai problemi della pianificazione.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1963
+### Dato a Roma, addi' 27 ottobre 1978
 
-SEGNI GUI
+PERTINI PEDINI
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 11 dicembre 1963
+Registrato alla Corte dei conti, addi' 30 gennaio 1979
 
-Atti del Governo, registro n. 178, foglio n. 61. - VILLA
+Registro n. 4 Istruzione, foglio n. 5

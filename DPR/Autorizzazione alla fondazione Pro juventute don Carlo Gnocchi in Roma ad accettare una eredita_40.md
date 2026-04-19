@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 aprile 1980 n. 278
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1980 n. 727
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 aprile 1980 n. 278
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1980 n. 727
 =============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-278. Decreto del Presidente della Repubblica 14 aprile 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla sig.na Jole Pavan, con testamento olografo 28 maggio 1976, pubblicato il 1 giugno 1977, n. 45/13 di repertorio, a rogito dott. Ulderico Brambilla, notaio in Milano, registrato a Milano il 16 giugno 1977 al n. 5330, serie H, consistente in due appartamenti siti in Milano, via Lunigiana n. 4, distinti al nuovo catasto edilizio urbano alla partita 36245, foglio 227, mappale 132 sub 32 e 33, nonche' in mobili vari, libretti al portatore, biglietti di banca, ecc., per un valore complessivo netto di L. 35.589.940.  
+727. Decreto del Presidente della Repubblica 22 luglio 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in beni mobili e deposito c/c obbligazioni per un valore al netto delle passivita' di L. 930.000, disposta dal sig.  
+Bellingeri Angelo con testamento olografo 7 gennaio 1974, pubblicato il 27 febbraio 1975, n. 21447/2321 di repertorio, a rogito dott. Ferruccio Brambilla, notaio in Milano, registrato a Busto Arsizio (Varese) il 17 marzo 1975 al n. 603, vol. 156.  
   
 Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 18 giugno 1980  
-Registro n. 5 Presidenza, foglio n. 105
+Registrato alla Corte dei conti addi' 27 ottobre 1980  
+Registro n. 8 Presidenza, foglio n. 201

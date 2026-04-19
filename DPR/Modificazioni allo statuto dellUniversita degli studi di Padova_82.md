@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1982 n. 720
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1115
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1982 n. 720
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1115
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Padova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Padova approvato con [regio decreto 14 ottobre 1926, n. 2133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2133), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 14 ottobre 1926, n. 2133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2133) e modificato con [regio decreto 13 ottobre 1927, n. 2226](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2226) e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -39,31 +39,44 @@ Articolo unico
 --------------
 
   
-Nell'art. 58, relativo al corso di laurea in lettere, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-didattica del latino;  
-filologia micenea;  
-linguistica storica;  
-rilievo e analisi tecnica dei monumenti antichi;  
-storia della Chiesa medioevale;  
-storia della Chiesa in eta' moderna e contemporanea;  
-filologia musicale;  
-storia della musica medioevale e rinascimentale.  
-Nell'art. 60, relativo al corso di laurea in lingue e letterature straniere moderne, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-lingua e letteratura tedesca medioevale;  
-lingua e letteratura inglese medioevale;  
-storia della lingua portoghese;  
-storia della critica letteraria francese.  
+Dopo l'art. 430 sono aggiunti i seguenti nuovi articoli:  
+  
+Titolo XXIV  
+CENTRO PER LA STORIA DELL'UNIVERSITA' DI PADOVA  
+  
+Art. 431. - Il centro per la storia dell'Universita' di Padova, con sede presso l'archivio antico dell'Universita' stessa, ha il fine di promuovere con rigore scientifico la conoscenza della storia dell'Universita' di Padova dalle origini ai nostri giorni e dei suoi rapporti con la cultura italiana ed europea.  
+Art. 432. - Per raggiungere questo fine il centro cura:  
+a) la conservazione, l'ordinamento, l'incremento e la consultazione degli archivi dell'Universita' nell'ambito delle vigenti disposizioni, nonche' la riproduzione in microfilms o con altri sistemi fotomeccanici, delle varie fonti manoscritte disperse in Italia e all'estero;  
+b) la conservazione, la riproduzione fotografica e la schedatura di epigrafi e qualsiasi cimelio, esistenti in sede e fuori sede;  
+c) la conservazione, l'incremento e la schedatura di una raccolta bibliografica specializzata e di una raccolta iconografica;  
+d) la conservazione, l'incremento e la schedatura del medagliere;  
+e) la promozione tra gli studenti universitari ed i giovani laureati di ricerche originali sulla storia dell'Universita', procurando e destinando i mezzi occorrenti allo scopo (quali i premi per le migliori tesi di laurea, borse di studio, i contributi di ricerca);  
+f) la pubblicazione di monografie e di quanto altro possa contribuire alla conoscenza della storia dell'Universita'.  
+Art. 433. - Al raggiungimento del suo fine istituzionale, mediante le attivita' di cui al precedente articolo, il centro provvede con lo stanziamento annualmente assegnatogli dal consiglio di amministrazione dell'Universita', oltre che con eventuali sovvenzioni di enti e di singoli, da iscrivere nel bilancio dell'Universita'.  
+Art. 434. - Sono organi del centro;  
+a) l'assemblea generale, presieduta dal rettore o da un suo delegato, inizialmente composta dai membri gia' facenti parte del comitato per la storia dell'Universita' di Padova, e successivamente integrata da docenti universitari e studiosi eletti dall'assemblea stessa fra coloro che abbiano contribuito o contribuiscano al progresso della conoscenza della storia dell'Universita' di Padova;  
+b) il direttore del centro, nominato dal rettore su designazione, a maggioranza assoluta, dall'assemblea generale, scelto tra i docenti dell'assemblea stessa;  
+c) il consiglio direttivo, presieduto dal direttore del centro, e composto oltre che dal direttore, da quattro consiglieri eletti a maggioranza assoluta dall'assemblea generale;  
+Il direttore e i consiglieri durano in carica tre anni e sono rieleggibili.  
+Sono competenze dell'assemblea:  
+a) l'approvazione della relazione scientifico-organizzativa per l'anno trascorso e dei programmi annuali o pluriennali di attivita' del centro, nonche' del rendiconto delle spese e del bilancio preventivo, presentati dal consiglio direttivo;  
+b) l'elezione dei nuovi membri dell'assemblea generale e dei membri elettivi del consiglio direttivo;  
+c) la proposta al consiglio direttivo di iniziative, attivita', collaborazioni, che piu' efficacemente contribuiscano al raggiungimento del fine proprio del centro.  
+Sono competenze del consiglio direttivo:  
+a) la predisposizione dei conti consuntivi e dei bilanci preventivi;  
+b) la redazione della relazione scientifico-organizzativa dell'anno trascorso e la formulazione dei programmi annuali o pluriennali di attivita' del centro.  
+Art. 435. - I programmi annuali e pluriennali di attivita' del centro sono approvati dall'assemblea generale su proposta del consiglio direttivo.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 luglio 1982
+### Dato a Roma, addi' 31 ottobre 1981
 
 PERTINI BODRATO
 
 Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 28 settembre 1982
+Registrato alla Corte dei conti, addi' 17 marzo 1982
 
-Registro n. 112 Istruzione, foglio n. 366
+Registro n. 42 Istruzione, foglio n. 187

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 febbraio 1983 n. 144
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1980 n. 1047
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 febbraio 1983 n. 144
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1980 n. 1047
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Torino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,50 +18,44 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Torino e convalidati dal Consiglio universitario nazionale nei suoi pareri;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata [legge n. 615/1981](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;615);
+Sentito il parere del Consiglio universitario nazionale;
 
-Veduti i pareri espressi al riguardo dal Consiglio universitario nazionale;
+Sulla
+-----
 
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+proposta del Ministro della pubblica istruzione; Decreta:
 
 Art. 1
 ------
 
   
-Art. 43 - nell'elenco degli insegnamenti complementari, relativi al corso di laurea in lettere, sono inclusi i seguenti nuovi insegnamenti:  
-letteratura cristiana antica greca;  
-storia dell'eta' della Riforma e Controriforma;  
-storia delle origini cristiane;  
-storia del movimento operaio e sindacale.  
+Lo statuto dell'Universita' di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+L'art. 204, relativo alla scuola di specializzazione in odontostomatologia, e' integrato con il seguente nuovo comma:  
+  
+Ogni iscritto deve provvedere al corredo personale di strumenti per le esercitazioni.  
 
 Art. 2
 ------
 
   
-Art. 44 - nell'elenco degli insegnamenti complementari, relativi al corso di laurea in filosofia, e' incluso il seguente nuovo insegnamento:  
-ermeneutica filosofica.  
+L'art. 288, settimo comma, dello statuto dell'Universita' di Torino di cui al [decreto del Presidente della Repubblica 10 ottobre 1977, n. 1129](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-10-10;1129), relativo alla scuola di specializzazione in neuropsichiatria infantile, e' modificato nel senso che la parola "internato" e' sostituita con "frequenza".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 febbraio 1983
+### Dato a Roma, addi' 31 ottobre 1980
 
-PERTINI FALCUCCI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: SARTI
 
-Registrato alla Corte dei conti, addi' 20 aprile 1983
+Registrato alla Corte dei conti, addi' 7 febbraio 1981
 
-Registro n. 28 Istruzione, foglio n. 112
+Registro n. 12 Istruzione, foglio n. 279

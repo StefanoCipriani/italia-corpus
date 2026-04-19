@@ -1,101 +1,194 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 luglio 1971 n. 763
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1962 n. 1365
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 luglio 1971 n. 763
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1962 n. 1365
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 -------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), e modificato con [decreto del Presidente della Repubblica 12 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-12;1207) e successivi;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica Istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+L'art. 85, relativo alla Scuola di perfezionamento in ematologia e' soppresso e sostituito con il seguente nuovo ordinamento.
+
+Scuola di perfezionamento in ematologia
+
+Art. 85. - La Scuola ha la durata di due anni ed ha sede presso l'Istituto di patologia medica. Il professore di ruolo di patologia medica e' il direttore della Scuola. Potranno essere iscritti alla Scuola i medici in possesso della laurea in medicina e chirurgia, nel numero massimo di 12 (dodici) per anno.
+
+Le materie sono le seguenti:
+
+1° anno:
+
+1) Ematologia morfologica e clinica;
+
+2) Fisiopatologia dell'emopoiesi;
+
+3) Fisiopatologia della coagulazione;
+
+4) Immunoematologia;
+
+5) Anatomia normale e patologica degli organi emopoietici;
+
+6) Farmacologia e terapia generale delle emopatie.
+
+2° anno:
+
+1) Patologia speciale delle malattie del sangue e degli organi emopoietici;
+
+2) Clinica delle malattie del sangue e degli organi emopoietici;
+
+3) Tecnica e diagnostica ematologica con esercitazioni istologiche, sierologiche e biochimiche;
+
+4) Terapia speciale delle emopatie;
+
+5) Chemioterapia delle emoblastosi;
+
+6) Trasfusione sanguigna e terapia trasfusionale.
+
+Gli iscritti alla Scuola hanno l'obbligo di compiere periodi di internato nell'Istituto sede della Scuola, secondo i turni stabiliti dal direttore della Scuola.
+
+L'insegnamento oltre che a mezzo di lezioni cattedratiche e' impartito in forma di esercitazioni, di colloqui su casi clinici che si presentino di volta in volta allo esame. A iniziativa del direttore della Scuola potranno essere svolte conferenze sopra argomenti speciali affini.
+
+Gli iscritti alla fine del 1° anno di corso dovranno superare una prova di esame su nozioni generali di ematologia. Alla fine del 2° anno di corso i candidati dovranno sostenere un esame di cultura generale sulla specialita', comprendente tutte le materie di insegnamento e una prova clinica sul malato, per poter essere ammessi all'esame di diploma.
+
+Dopo l'art. 99, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di perfezionamento in diagnostica di laboratorio.
+
+Scuola di perfezionamento in diagnostica di laboratorio
+
+Art. 100. - E' istituita la Scuola di perfezionamento in "diagnostica di laboratorio" con sede nell'Istituto di patologia, generale; il direttore dell'istituto e' anche direttore della Scuola.
+
+Art. 101. - Il corso avra' la durata di 2 anni. L'iscrizione e' limitata per ogni anno accademico a 10 allievi.
+
+Le materie di insegnamento sono: u'
+
+1° anno
+
+Microbiologia - Tecnica e diagnostica microbiologica. - Patologia delle infezioni ed infestazioni - Biochimica del sangue degli umori - Ematologia clinica, - Tecnica ematologica.
+
+2° anno:
+
+Immunologia - Tecnica e diagnostica immunologica - Biochimica e microscopia degli escreti - Elettrocardiografia - Tecnica fisiopatologica.
+
+Art. 102. - Gli allievi frequenteranno in qualita' di interni l'Istituto di patologia generale e faranno turni presso gli Istituti delle altre discipline secondo quanto sara' stabilito dalla Direzione della Scuola.
+
+Art. 103. - Gli esami verranno sostenuti alla fine del 2° anno e consisteranno in prove teoriche e pratiche per i seguenti gruppi:
+
+A) microbiologia, diagnostica microbiologica, immunologia, diagnostica immunologica, patologia delle infezioni ed infestazioni;
+
+B) biochimica e microscopia del sangue, degli umori e degli escreti;
+
+C) ematologia, elettrocardiografia e tecnica fisiopatologica.
+
+Art. 104. - E' obbligatoria la frequenza. L'allievo che frequenta l'Istituto deve non solo esercitarsi nella esecuzione degli esami di laboratorio, ma deve seguire le ricerche della Scuola nel campo scientifico con lo svolgimento di un tema proposto dal direttore.
+
+Art. 105. - All'esame di diploma vengono ammessi i candidati che abbiano superato gli esami di profitto e che presentino una tesi a carattere sperimentale.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 1 agosto 1962
+
+SEGNI
+
+GUI
+
+Visto, il Guardasigilli: BOSCO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 10 settembre 1962 Atti del Governo, registro n. 158, foglio n. 100. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), e modificato con [decreto del Presidente della Repubblica 12 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-12;1207) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica Istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 74: e' abrogato e sostituito dal seguente:  
-"La facolta' di farmacia conferisce le seguenti lauree: in farmacia e in chimica e tecnologia farmaceutiche.  
-La durata dei relativi corsi e' rispettivamente di 4 anni per la laurea in farmacia e di 5 anni per quella di chimica e tecnologia farmaceutiche.  
-Titolo di ammissione e' quello previsto dalle vigenti disposizioni di legge".  
-Art. 76: il primo comma e' abrogato e sostituito dal seguente:  
-"Agli effetti dell'iscrizione e degli esami per la laurea in farmacia sono da considerarsi materie propedeutiche: ".  
-Dopo l'art. 79 e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione del corso di laurea in chimica e tecnologia farmaceutiche annesso alla facolta' di farmacia.  
+L'art. 85, relativo alla Scuola di perfezionamento in ematologia e' soppresso e sostituito con il seguente nuovo ordinamento.  
   
-Laurea in chimica e tecnologia farmaceutiche  
+Scuola di perfezionamento in ematologia  
   
-Art. 80. - La durata del corso e' di cinque anni, divisi in un biennio ed in un triennio.  
-Gli insegnamenti per la laurea in chimica e tecnologia farmaceutiche sono i seguenti:  
-Fondamentali:  
-Biennio:  
-1) Analisi chimico farmaceutica I (analisi qualitativa);  
-2) Anatomia umana;  
-\* 3) Botanica farmaceutica;  
-\* 4) Chimica fisica;  
-\* 5) Chimica generale ed inorganica;  
-\*\* 6) Chimica organica I;  
-7) Fisica;  
-8) Fisiologia generale;  
-\* 9) Istituzioni di matematiche;  
-10) Microbiologia e igiene;  
-Triennio:  
-11) Analisi chimico farmaceutica II (analisi quantitativa);  
-12) Analisi chimico farmaceutica III (analisi dei medicamenti);  
-\* 13) Biochimica applicata;  
-\* 14) Chimica biologica;  
-\* 15) Chimica degli alimenti;  
-\* 16) Chimica farmaceutica applicata;  
-\* 17) Chimica farmaceutica e tossicologica I;  
-\* 18) Chimica farmaceutica e tossicologica II;  
-\* 19) Chimica organica II;  
-\* 20) Farmacologia e farmacognosia;  
-21) Impianti dell'industria farmaceutica;  
-22) Laboratorio di preparazione estrattiva e sintetica dei farmaci;  
-23) Metodi fisici in chimica organica;  
-24) Saggi e dosaggi farmacologici;  
-\* 25) Tecnica e legislazione farmaceutica.  
-Insegnamenti complementari:  
-1) Chimica delle fermentazioni e microbiologia industriale;  
-2) Chimica delle sostanze organiche naturali;  
-3) Chimica dei prodotti dietetici;  
-4) Chimica dei prodotti cosmetici;  
-\* 5) Complementi di chimica tossicologica;  
-\* 6) Farmacologia molecolare;  
-7) Impianti per laboratori galenici;  
-\* 8) Microchimica;  
-\* 9) Mineralogia;  
-10) Prodotti dietetici;  
-11) Prodotti cosmetici;  
-12) Zoologia e parassitologia;  
-13) Statistica e biometria;  
-14) Istituzioni di patologia generale.  
-Le materie segnate con un asterisco sono comuni alla laurea in farmacia, quelle segnate con due asterischi sono comuni alla laurea in chimica.  
-Art. 81. - Per ottenere l'iscrizione al triennio lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fissati per i due anni precedenti.  
-Art. 82. - Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato tutti gli esami degli insegnamenti fondamentali ed almeno due esami a scelta fra gli insegnamenti complementari.  
-Art. 83. - La prova di laurea comporta la discussione di una tesi sperimentale.  
+Art. 85. - La Scuola ha la durata di due anni ed ha sede presso l'Istituto di patologia medica. Il professore di ruolo di patologia medica e' il direttore della Scuola. Potranno essere iscritti alla Scuola i medici in possesso della laurea in medicina e chirurgia, nel numero massimo di 12 (dodici) per anno.  
+Le materie sono le seguenti:  
+1° anno:  
+1) Ematologia morfologica e clinica;  
+2) Fisiopatologia dell'emopoiesi;  
+3) Fisiopatologia della coagulazione;  
+4) Immunoematologia;  
+5) Anatomia normale e patologica degli organi emopoietici;  
+6) Farmacologia e terapia generale delle emopatie.  
+2° anno:  
+1) Patologia speciale delle malattie del sangue e degli organi emopoietici;  
+2) Clinica delle malattie del sangue e degli organi emopoietici;  
+3) Tecnica e diagnostica ematologica con esercitazioni istologiche, sierologiche e biochimiche;  
+4) Terapia speciale delle emopatie;  
+5) Chemioterapia delle emoblastosi;  
+6) Trasfusione sanguigna e terapia trasfusionale.  
+Gli iscritti alla Scuola hanno l'obbligo di compiere periodi di internato nell'Istituto sede della Scuola, secondo i turni stabiliti dal direttore della Scuola.  
+L'insegnamento oltre che a mezzo di lezioni cattedratiche e' impartito in forma di esercitazioni, di colloqui su casi clinici che si presentino di volta in volta allo esame. A iniziativa del direttore della Scuola potranno essere svolte conferenze sopra argomenti speciali affini.  
+Gli iscritti alla fine del 1° anno di corso dovranno superare una prova di esame su nozioni generali di ematologia. Alla fine del 2° anno di corso i candidati dovranno sostenere un esame di cultura generale sulla specialita', comprendente tutte le materie di insegnamento e una prova clinica sul malato, per poter essere ammessi all'esame di diploma.  
+Dopo l'art. 99, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di perfezionamento in diagnostica di laboratorio.  
+  
+Scuola di perfezionamento in diagnostica di laboratorio  
+  
+Art. 100. - E' istituita la Scuola di perfezionamento in "diagnostica di laboratorio" con sede nell'Istituto di patologia, generale; il direttore dell'istituto e' anche direttore della Scuola.  
+Art. 101. - Il corso avra' la durata di 2 anni. L'iscrizione e' limitata per ogni anno accademico a 10 allievi.  
+Le materie di insegnamento sono: u'  
+1° anno  
+Microbiologia - Tecnica e diagnostica microbiologica. - Patologia delle infezioni ed infestazioni - Biochimica del sangue degli umori - Ematologia clinica, - Tecnica ematologica.  
+2° anno:  
+Immunologia - Tecnica e diagnostica immunologica - Biochimica e microscopia degli escreti - Elettrocardiografia - Tecnica fisiopatologica.  
+Art. 102. - Gli allievi frequenteranno in qualita' di interni l'Istituto di patologia generale e faranno turni presso gli Istituti delle altre discipline secondo quanto sara' stabilito dalla Direzione della Scuola.  
+Art. 103. - Gli esami verranno sostenuti alla fine del 2° anno e consisteranno in prove teoriche e pratiche per i seguenti gruppi:  
+A) microbiologia, diagnostica microbiologica, immunologia, diagnostica immunologica, patologia delle infezioni ed infestazioni;  
+B) biochimica e microscopia del sangue, degli umori e degli escreti;  
+C) ematologia, elettrocardiografia e tecnica fisiopatologica.  
+Art. 104. - E' obbligatoria la frequenza. L'allievo che frequenta l'Istituto deve non solo esercitarsi nella esecuzione degli esami di laboratorio, ma deve seguire le ricerche della Scuola nel campo scientifico con lo svolgimento di un tema proposto dal direttore.  
+Art. 105. - All'esame di diploma vengono ammessi i candidati che abbiano superato gli esami di profitto e che presentino una tesi a carattere sperimentale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 luglio 1971
+### Dato a Roma, addi' 1 agosto 1962
 
-SARAGAT MISASI
+SEGNI GUI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 8 settembre 1971
+Registrato alla Corte dei conti, addi' 10 settembre 1962
 
-Atti del Governo, registro n. 244, foglio n. 102. - PASQUALUCCI
+Atti del Governo, registro n. 158, foglio n. 100. - VILLA

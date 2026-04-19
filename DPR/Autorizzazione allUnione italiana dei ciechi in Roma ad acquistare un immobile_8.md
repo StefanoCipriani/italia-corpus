@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 novembre 1983 n. 802
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 giugno 1977 n. 579
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 novembre 1983 n. 802
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 giugno 1977 n. 579
+=============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad acquistare un immobile.
 ----------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-802. Decreto del Presidente della Repubblica 21 novembre 1983, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad acquistare, al convenuto prezzo di L. 50.000.000, un immobile sito in Brindisi, via Santa Margherita n. 21, censito al nuovo catasto edilizio urbano alla partita 510, foglio 190, mappale 1890/2, di proprieta' dei signori Maria Elisabetta Errico quale usufruttuaria per un terzo e Giovanni, Carlo, Cecilia e Anna Maria Caputo quali proprietari.   
+579. Decreto del Presidente della Repubblica 22 giugno 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad acquistare dalla sig.ra Mattia Luisa ved. Epifano, al convenuto prezzo di L. 14.000.000, un appartamento sito in Potenza, corso Garibaldi, 42, composto di 4 vani ed accessori per una superficie di mq 120, indicato in catasto alla partita 2970, foglio 48, particella 360/9, da adibire a sede della locale sezione provinciale. L'ufficio tecnico erariale di Potenza ha fatto presente che il valore di L. 16.000.000 attribuito all'immobile dal perito di parte geom. Canio Cillo puo' ritenersi congruo.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 11 gennaio 1984   
-Registro n. 1 Presidenza, foglio n. 85
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 17 agosto 1977  
+Registro n. 7 Presidenza, foglio n. 89

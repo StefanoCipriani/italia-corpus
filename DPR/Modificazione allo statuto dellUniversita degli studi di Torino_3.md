@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 985
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 799
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 985
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 799
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Torino.
@@ -39,22 +39,21 @@ Articolo unico
 --------------
 
   
-Nell'art. 55, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-neurochirurgia funzionale;  
-tecnica e diagnostica citopatologica;  
-terapia neurologica;  
-semeiotica neurologica.  
+Nell'art. 118, relativo al corso di laurea in scienze biologiche, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+metodi e apparati di misura per la biologia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 15 luglio 1983
+### Dato a Roma, addi' 28 giugno 1986
 
-PERTINI FALCUCCI
+COSSIGA
 
-Visto, il Guardasigilli: MARTINAZZOLI
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 15 febbraio 1984
+Visto, il Guardasigilli: ROGNONI
 
-Registro n. 8 Istruzione, foglio n. 73
+Registrato alla Corte dei conti, addi' 17 novembre 1986
+
+Registro n. 84 Istruzione, foglio n. 109

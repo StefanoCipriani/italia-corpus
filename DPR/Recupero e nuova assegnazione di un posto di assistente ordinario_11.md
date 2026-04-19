@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1974 n. 250
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1978 n. 343
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1974 n. 250
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1978 n. 343
+=============================================================
 
 Recupero e nuova assegnazione di un posto di assistente ordinario.
 ------------------------------------------------------------------
@@ -10,47 +10,47 @@ Recupero e nuova assegnazione di un posto di assistente ordinario.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Visto l'[art. 14 della legge 24 febbraio 1967, n. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-02-24;62~art14), con il quale sono stati complessivamente istituiti per gli anni accademici dal 1966-67 al 1970-71, settemila posti di assistente ordinario;
+Visto il [decreto del Presidente della Repubblica 1 aprile 1967, n. 343](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-04-01;343), con cui e' stato assegnato un posto di assistente ordinario alla cattedra di patologia generale della facolta' di medicina e chirurgia dell'Universita' di Roma;
 
-Visto l'art. 15, comma primo, della stessa legge n. 62, concernente la riserva di assegnazione alle cattedre cui prestino servizio assistenti straordinari con almeno cinque anni di servizio retribuito, di un numero di posti corrispondente a quello degli assistenti straordinari forniti del prescritto requisito di anzianita';
+Visto il decreto rettorale 11 maggio 1971, registrato alla Corte dei conti, addi' 1 luglio 1971, registro n. 10, foglio n. 107, con cui cessa dall'ufficio di assistente ordinario, con decorrenza dal 1 ottobre 1970, il dottor Aldo Cherubini, ultimo titolare del posto;
 
-Visto il [decreto del Presidente della Repubblica 8 gennaio 1970, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-01-08;28), con il quale, per l'anno accademico 1969-70, in applicazione della riserva stessa, sono stati ripartiti fra le cattedre dei diversi atenei quattordici posti di assistente riservati per concorso agli assistenti straordinari forniti della prescritta anzianita' di servizio, uno dei quali assegnato alla cattedra di diritto ecclesiastico della facolta' di giurisprudenza dell'Universita' di Napoli;
+Accertata l'attuale mancanza alla cattedra succitata di aventi diritto all'inquadramento in soprannumero ai sensi dell'[art. 3 del decreto-legge 1 ottobre 1973, n. 580](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973-10-01;580~art3), convertito, con modificazione, in [legge 30 novembre 1973, n. 766](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-30;766);
 
-Considerato che ai sensi del terzo e quarto comma del citato art. 15 della legge n. 62 i posti riservati, comunque non messi a concorso, debbono essere recuperati e fatti oggetto di una nuova ripartizione;
+Considerato che non si e' provveduto alla copertura del posto nel termine fissato dall'ultimo comma dell'[art. 13 della legge 18 marzo 1958, n. 349](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-18;349~art13);
 
-Visti i [decreti presidenziali 24 luglio 1971, n. 826](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-07-24;826); [4 agosto 1971, n. 993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-08-04;993); [30 ottobre 1971, n. 1297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-10-30;1297), con i quali, in applicazione del disposto di cui ai citati terzo e quarto comma dell'art. 15, sono stati recuperati e nuovamente ripartiti posti di assistente ordinario gia' riservati per concorso agli assistenti straordinari, di cui al [decreto del Presidente della Repubblica 8 gennaio 1970, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-01-08;28);
+Ritenuto che per tale ragione sono venuti meno i motivi che a suo tempo determinarono l'assegnazione del posto stesso alla cattedra sopracitata;
 
-Considerato che il concorso riservato non e' stato bandito dall'Universita' di Napoli per il posto di assistente alla cattedra di diritto ecclesiastico della facolta' di giurisprudenza, e che pertanto il posto stesso non e' stato coperto con la nomina in ruolo di un assistente straordinario;
+Vista la nota del 20 marzo 1978 del direttore della clinica neurologica II dell'Universita' di Pisa, con la quale chiede che alla cattedra venga assegnato un posto di assistente ordinario per espletare le attivita' istituzionali di didattica e di ricerca carenti, a causa della scarsita' di personale docente e tenuto conto del numero degli studenti frequentanti;
 
-Considerato che detto posto e' tuttora vacante;
+Ravvisata, pertanto, la necessita' e l'opportunita' di assegnare il posto in questione alla cattedra di clinica neurologica II della facolta' di medicina e chirurgia dell'Universita' di Pisa;
 
 Sulla
 -----
 
-proposta del Ministro per la pubblica istruzione; Decreta:
+proposta del Ministro della pubblica istruzione; Decreta:
 
 Art. 1
 ------
 
   
-Il posto di assistente ordinario assegnato alla cattedra di diritto ecclesiastico della facolta' di giurisprudenza dell'Universita' di Napoli con il [decreto del Presidente della Repubblica 8 gennaio 1970, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-01-08;28), e' recuperato dal contingente riservato.  
+Il posto di assistente ordinario gia' assegnato con [decreto del Presidente della Repubblica 1 aprile 1967, n. 343](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-04-01;343), alla cattedra di patologia generale della facolta' di medicina e chirurgia dell'Universita' di Roma e' recuperato.  
 
 Art. 2
 ------
 
   
-Il posto di assistente ordinario, come sopra recuperato, viene assegnato alla cattedra di patologia speciale medica e metodologica clinica II della facolta' di medicina e chirurgia dell'Universita' di Torino.  
+Il posto di cui si tratta e' assegnato alla cattedra di clinica neurologica II della facolta' di medicina e chirurgia dell'Universita' di Pisa.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 6 marzo 1974
+### Dato a Roma, addi' 11 aprile 1978
 
-LEONE MALFATTI
+LEONE PEDINI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 28 giugno 1974
+Registrato alla Corte dei conti, addi' 27 giugno 1978
 
-Atti di Governo, registro n. 4, foglio n. 36. - SCIARRETTA
+Registro n. 67 Istruzione, foglio n. 370

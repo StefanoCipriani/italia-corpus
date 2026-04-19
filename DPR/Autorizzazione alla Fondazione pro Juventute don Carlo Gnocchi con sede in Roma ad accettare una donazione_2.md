@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 giugno 1968 n. 831
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 settembre 1969 n. 716
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 giugno 1968 n. 831
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 settembre 1969 n. 716
+================================================================
 
 Autorizzazione alla "Fondazione pro Juventute don Carlo Gnocchi", con sede in Roma, ad accettare una donazione.
 ---------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-831. Decreto del Presidente della Repubblica 17 giugno 1968, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione pro juventute don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare la donazione disposta dal signor Paolo Vignarca con atto a rogito dott. Scipione Barbiano di Belgiojoso, notaio residente a Milano, in data 22 aprile 1966, n. 21.483 di repertorio, n. 4458 di raccolta.  
+716. Decreto del Presidente della Repubblica 16 settembre 1969, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione pro juventute don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare la donazione consistente in: quota di nominali L. 50.000 dell'Immobiliare Mirandola; quota di nominali L. 50.000 della Immobiliare Spessa"; quota di nominali L. 25.000 della "Immobiliare Valbronta", tutte societa' in nome collettivo di Bernasconi e Borloni, aventi sede in Milano, corso di Porta Ticinese n. 6, disposta con atto a rogito dott. Giovanni Lovisetti, notaio in Milano, in data 14 settembre 1967, repertorio n. 121499/3542, dalla signora Carlotta Borloni ved. Bernasconi.  
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 16 luglio 1968  
-Atti del Governo, registra n. 221, foglio n. 20. - GRECO
+Visto, il Guardasigilli: GAVA  
+Registrato alla Corte dei conti, addi' 21 ottobre 1969  
+Atti del Governo, registro n. 229, foglio n. 128. - GRECO

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1966 n. 339
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1969 n. 475
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1966 n. 339
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1969 n. 475
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
@@ -12,11 +12,11 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, numero 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734) e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -25,199 +25,138 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Dopo l'art. 353 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli, relativi alla istituzione della Scuola speciale di assistenza sociale e di ricerca per le scienze morali e sociali annessa alla Facolta' di lettere e filosofia.  
+Dopo l'art. 377 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in psicologia.  
+Scuola di specializzazione in psicologia  
+Art. 378. - Presso l'istituto di psicologia della facolta' di magistero e' istituita la "Scuola di specializzazione in psicologia" la quale e' articolata nei seguenti indirizzi:  
+a) differenziale e scolastico;  
+b) sociale.  
+Art. 379. - La durata del corso della scuola e' di tre anni.  
+La frequenza e' obbligatoria. Non sono consentite abbreviazioni di corso se non nei casi previsti dall'art. 395; ne' e' consentita la contemporanea iscrizione a piu' indirizzi distinti.  
+Art. 380. - La scuola conferisce il diploma di "Specialista in psicologia" con l'indicazione dell'indirizzo seguito.  
+Il diploma, valido a tutti gli effetti di legge, viene rilasciato all'allievo in rapporto all'indirizzo prescelto, seguito e concluso positivamente negli esami di profitto e di diploma.  
+Art. 381. - Titolo per l'ammissione alla scuola e':  
   
-Scuola speciale di assistenza sociale e di ricerca per le scienze morali e sociali  
+Il diploma di laurea rilasciato da qualsiasi facolta' di una universita' italiana di Stato o ad essa parificata, ovvero un titolo straniero equipollente.  
+Art. 382. - Nella domanda di ammissione alla scuola, deve essere specificato l'indirizzo che si desidera seguire.  
+Nel caso di domande di iscrizione eccedenti il numero massimo stabilito dal consiglio della scuola e' indicato nel manifesto programma annuale di cui all'art. 393, il consiglio stesso procedera' all'accettazione delle domande attraverso un concorso di merito, le cui modalita' verranno fissate nello stesso manifesto annuale.  
+Indipendentemente dalla limitazione delle iscrizioni, il consiglio della scuola puo' subordinare l'ammissione ad una prova di idoneita'.  
+Il numero massimo complessivo degli iscritti per il triennio di corso non puo' eccedere il numero di settantacinque, sia che funzioni un solo indirizzo sia che ne funzioni piu' d'uno.  
+Art. 383 - Il corso costituito da lezioni teoriche, esercitazioni pratiche, tirocini, seminari, conferenze. La attivita' didattica viene svolta per un numero di ore non inferiore a 20 settimanali, per tutta la durata dell'anno accademico.  
+Gli insegnamenti statutari sono suddivisi in tre gruppi:  
+a) insegnamenti comuni a tutti gli indirizzi sopra indicati; tali insegnamenti sono obbligatori per tutti gli allievi, qualunque sia l'indirizzo prescelto;  
+b) insegnamenti specifici, peculiari a ciascuno dei singoli indirizzi indicati nell'art. 378 e nel successivo art. 384; tali insegnamenti sono obbligatori nell'ambito dell'indirizzo prescelto;  
+c) insegnamenti integrativi.  
+Art. 384. - Gli insegnamenti comuni di cui al punto a) dell'articolo precedente sono:  
+1) metodologia generale e speciale della ricerca psicologica (triennale: I, II e III anno);  
+2) metodologia statistica generale e psicometrica (annuale: I anno);  
+3) psicologia generale (triennale: I, II e III anno);  
+4) teorie della personalita' (biennale: I e II anno);  
+5) psicologia dinamica (annuale: II anno);  
+6) psicologia differenziale (annuale: II anno);  
+7) psicologia sociale (biennale: I e II anno);  
+8) tecniche psico-diagnostiche (biennale: I e II anno).  
+Gli insegnamenti specifici di cui al punto b) dell'articolo 383 sono:  
+A. - Per l'indirizzo differenziale e scolastico:  
+1) fondamenti di biologia generale e di anatomia e fisiologia umana (biennale: I e II anno);  
+2) psicologia dell'eta' evolutiva (triennale: I, II e III anno);.  
+3) pedagogia (annuale: I anno);  
+4) istituzioni di psicopatologia e di igiene mentale (annuale: I anno);  
+5) psicologia pedagogica (annuale: I anno);  
+6) psicologia del disadattamento scolastico e professionale nell'eta' evolutiva (annuale: II anno);  
+7) docimologia e tecniche della valutazione scolastica (annuale:  
+II anno);  
+8) tecniche psico-diagnostiche individuali e di gruppo (biennale:  
+II e III anno);  
+9) orientamento scolastico e professionale (annuale:  
   
-Art. 354. - Presso l'Istituto di filosofia della Facolta' di lettere e filosofia dell'Universita' di Roma e' istituita una "Scuola speciale di assistenza sociale e di ricerca per le scienze morali e sociali" ai sensi dell'[art. 20, terzo comma, lettera a), del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20-com3-leta).  
-La Scuola si propone:  
-a) di formare giovani professionalmente preparati per il servizio sociale e per l'educazione degli adulti;  
-b) di promuovere studi e indagini nel campo delle scienze morali e sociali.  
-Per la realizzazione di tali due scopi, la Scuola e' rispettivamente articolata in un "Centro di educazione professionale per assistenti sociali" (C.E.P.A.S.) e in un "Centro di ricerca per le scienze morali e sociali".  
-La Scuola conferisce il diploma di assistente sociale ed educatore degli adulti dopo un corso di studi triennale presso il C.E.P.A.S., o un attestato di idoneita' ai compiti di ricercatore sociale dopo un periodo di studi, della durata specificata al successivo art. 364, nel quale l'allievo abbia lavorato presso il Centro ricerca, partecipando a studi e ricerche promossi dal Centro stesso.  
-Per l'ammissione al C.E.P.A.S. e' richiesto un titolo di scuola media superiore, l'ammissione al Centro di ricerca e' consentito ai laureati delle Facolta' di lettere e filosofia, giurisprudenza, economia e commercio e scienze politiche.  
-Art. 355. - I proventi della Scuola sono costituiti dalle tasse scolastiche, dagli eventuali contributi dello Stato, della Universita', di Enti pubblici e di privati, dai lasciti, dalle donazioni e dai relativi redditi.  
-Tali proventi sono destinati a coprire:  
-a) la spesa per gli stipendi ed assegni al personale insegnante, assistente e di segreteria della scuola;  
-b) la quota spese per l'uso dei locali;  
-c) la concessione agli studenti meritevoli e di condizioni economiche non agiate, regolarmente iscritti alla Scuola, di borse, premi ed assegni di studio;  
-d) le altre spese competenti direttamente alla Scuola (biblioteca, pubblicazioni scientifiche, ecc.).  
-Art. 356. - La Scuola ha un proprio Comitato direttivo, costituito:  
-a) dai professori di ruolo dell'Istituto di filosofia;  
-b) da due rappresentanti di ciascuno degli enti, o privati, finanziatori della Scuola, da questi designati;  
-c) da altri professori o esperti del servizio e della ricerca sociale, designati dai professori di cui alla lettera a), in numero pari a quello dei componenti di cui alla lettera b);  
-d) dai direttori della Scuola, del C.E.P.A.S. e dal Centro di ricerca, nominati secondo l'art. 357, lettera a) e b).  
-Art. 357. - Il Comitato direttivo della Scuola:  
-a) designa il direttore della Scuola, la cui nomina avviene per decreto rettorale, sentito il Consiglio della Facolta';  
-b) nomina, su designazione del direttore della Scuola, il direttore del C.E.P.A.S. e il direttore del Centro di ricerca;  
-c) delibera il bilancio interno della Scuola;  
-d) approva il regolamento della Scuola e le sue modificazioni, sentiti i Consigli dei professori del C.E.P.A.S. e del Centro di ricerca.  
-Art. 358. - Il C.E.P.A.S. e il Centro di ricerca hanno ciascuno un proprio Consiglio dei professori, composto dal rispettivo direttore, che lo presiede, e dai professori che vi insegnano. I Consigli deliberano sui piani di studio e su ogni altra questione di natura didattica e disciplinare, su convocazione del direttore.  
-Art. 359. - Gli incarichi di insegnamento sono conferiti dal direttore della Scuola a docenti anche di altre Facolta' e ad esperti della materia.  
-Art. 360. - Il corso di diploma del C.E.P.A.S. ha la durata di tre anni.  
-I singoli insegnamenti possono svolgersi lungo l'intero anno scolastico o in un solo semestre.  
-Il regolamento della Scuola fissa le date di inizio e di chiusura dei corsi annuali e semestrali.  
-E' ammesso II prolungamento del periodo di iscrizione, con collocazione dell'allievo fuori corso, purche' Il prolungamento non superi la durata del corso stesso.  
-Art. 361. - In ciascuno dei tre anni accademici del corso di diploma del C.E.P.A.S., l'insegnamento ha Insieme carattere teorico e pratico.  
-Le materie d'insegnamento e i corsi sono i seguenti:  
-  
-1° Anno:  
-Metodologia del servizio sociale (semestrale);  
-Lavoro sociale individuale I (semestrale);  
-Lavoro sociale di gruppo I (annuale);  
-Ricerca sociale I: nozioni di statistica (semestrale);  
-Antropologia culturale (semestrale);  
-Corso interdisciplinare sullo sviluppo psicofisico dell'individuo (annuale);  
-Elementi di diritto privato (semestrale);  
-Elementi di diritto pubblico (semestrale);  
-Legislazione assistenziale (semestrale);  
-Legislazione sociale (semestrale);  
-Elementi di sociologia (semestrale);  
-Storia politico-sociale dell'Italia contemporanea (semestrale).  
-  
-2° Anno:  
-Lavoro sociale di comunita' I: pedagogia dell'educazione degli adulti (semestrale);  
-Lavoro sociale individuale II (annuale);  
-Lavoro sociale di gruppo II (annuale);  
-Ricerca sociale II (semestrale);  
-Diritto penale e legislaz. minorile (semestrale);  
-Igiene e medicina sociale (semestrale);  
-Politica economica I (semestrale);  
-Politica economica II: economia e politica agraria (semestrale);  
-Psicopatologia (annuale);  
-Elementi di neuropsichiatria (semestrale).  
-  
-3° Anno:  
-Amministrazione dei servizi sociali (semestrale);  
-Lavoro sociale di comunita' II (annuale);  
-Lavoro sociale individuale III (annuale);  
-Lavoro sociale di gruppo III (annuale);  
-Ricerca sociale III (annuale);  
-Problemi pedagogici del servizio sociale scolastico (semestrale);  
-Seminario sui problemi del lavoro (annuale);  
-Seminario di storia comparata dell'educazione degli adulti (annuale);  
-Seminario di metodologia e didattica dell'educazione degli adulti (annuale);  
-L'attivita' pratica consiste in:  
-a) esercitazioni pratiche che si svolgono nell'ambito dei singoli insegnamenti a scopo di illustrazione, applicazione ed integrazione della parte teorica;  
-b) visite ad uffici pubblici, aziende, istituti assistenziali e tirocini preprofessionali (1° anno);  
-c) tirocini professionali sotto la supervisione di assistenti sociali qualificati, presso enti di servizio sociale (2° e 3° anno).  
-Art. 362. - Gli esami si svolgono di norma in due sessioni, la prima dopo la chiusura annuale dei corsi e la seconda prima dell'inizio del nuovo anno; e possono essere predisposti per gruppi di materie.  
-Per il passaggio da un'anno all'altro gli allievi dovranno aver seguito i corsi indicati nel piano di studi stabilito dal Consiglio dei professori, superati gli esami relativi e compiuto con esito favorevole i tirocini prescritti.  
-Art. 363. - L'esame finale per il conseguimento del "Diploma di assistente sociale ed educatore degli adulti" consiste nella preparazione e nella discussione di una dissertazione scritta in cui il candidato dimostri la sua capacita' di applicare le conoscenze acquisite alla soluzione di problemi concreti.  
-La discussione ha luogo davanti ad una Commissione nominata dal direttore, che la presiede, e formata da almeno cinque membri del Consiglio dei professori del C.E.P.A.S. e da un rappresentante del Comitato direttivo della Scuola.  
-Art. 364. - Il Centro di ricerca ha lo scopo di promuovere inchieste e studi nel dominio delle scienze morali e sociali su base interdisciplinare, sia mediante indagini nel campo operativo, sia mediante indagini puramente dottrinali.  
-Il Centro ha altresi' lo scopo di promuovere gli studi e le ricerche predette con riguardo ai problemi che sorgono dall'incontro delle singole culture e strutture nazionali sul piano della Comunita' europea.  
-Nell'ambito piu' strettamente didattico il corso di formazione dei ricercatori sociali del Centro di ricerca ha, di norma, la durata di due anni e comprende insegnamenti teorici, seminari e tirocini per l'addestramento alla ricerca. La sua durata puo' essere ridotta, a giudizio del Consiglio dei professori, a un anno, per quei laureati delle Facolta' previste dall'art. 354 ultimo comma, i quali, prima della laurea, abbiano partecipato all'attivita' del Centro a partire almeno dal 3° anno del loro corso di studi.  
-Art. 365. - Lo studente e' tenuto a predisporre un piano di studi, che deve essere approvato dal Consiglio dei professori del centro di Ricerca, comprendente almeno due insegnamenti teorici e due seminari per ciascun anno.  
-  
-Gli insegnamenti teorici, con relativi seminari, sono i seguenti:  
-Metodologia delle scienze morali e sociali;  
-Filosofia morale;  
-Storia contemporanea;  
-Elementi di sociologia;  
-Sociologia istituzionale;  
-Storia delle dottrine sociologiche;  
-Tecniche della ricerca sociale;  
-Istituzioni di scienza politica;  
-Scienza politica;  
-Storia delle dottrine politiche;  
-Elementi di economia;  
-Psicologia sociale;  
-Antropologia culturale;  
-Statistica e demografia.  
-Inoltre lo studente deve partecipare, durante ogni anno di corso, ad almeno una ricerca fra quelle condotte dal Centro.  
-Art. 366. - Le prove d'esame consistono in un colloquio, al termine di ciascun anno di corso, attinente sia agli insegnamenti teorici e ai seminari, sia alle ricerche compiute dall'allievo.  
-La Commissione esaminatrice e' composta dai docenti dei corsi e dei seminari seguiti dal candidato.  
-Art. 367. - L'esame finale per il conseguimento dell'attestato di idoneita' ai compiti di ricercatore sociale consiste nella discussione dei risultati di una ricerca individuale o di gruppo condotta dal candidato su tema previamente concordato col direttore del Centro ricerca a coronamento del piano individuale di studi.  
-La discussione ha luogo davanti ad una Commissione nominata dal direttore, che la presiede, e formata da almeno tre membri del Consiglio dei professori del Centro di ricerca e da un rappresentante del Comitato direttivo della Scuola.  
-  
-Norma transitoria  
-  
-Alla data dell'entrata in vigore dalle presenti disposizioni, gli studenti del preesistente C.E.P.A.S. di Roma possono richiedere l'abbreviazione degli studi, in base agli esami sostenuti ed essere ammessi, a giudizio del Consiglio dei professori, al secondo o al terzo anno del corso o alla discussione della tesi di diploma.  
-Gli ex-iscritti dello stesso C.E.P.A.S., che abbiano sostenuto l'esame finale di diploma presso di esso, potranno ottenere il corrispondente diploma della Scuola previa presentazione e discussione della dissertazione gia' elaborata, davanti alla Commissione di diploma di cui all'art. 363.  
-Dopo l'art. 601 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli, relativi alla istituzione della Scuola speciale di servizio sociale, ad indirizzo sanitario psicologico annessa alla Facolta' di medicina e chirurgia.  
-  
-Scuola speciale di servizio sociale  
-ad indirizzo sanitario psicologico  
-Art. 602. - Presso l'Istituto di psicologia della Facolta' di medicina e chirurgia e' istituita la "Scuola speciale di servizio sociale, ad indirizzo sanitario psicologico", ai sensi dell'art. 20 terzo comma, lettera a) del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592).  
-La Scuola si propone di preparare all'esercizio professionale del servizio sociale, mediante l'insegnamento teorico delle discipline di base e professionali, integrato da esercitazioni e tirocini professionali, come stabilito dall'art. 612. Come risulta dal medesimo art. 612 nella formazione teorica di base impartita dalla Scuola e' dato particolare rilievo al campo delle discipline psicologico-psichiatriche e dell'igiene mentale, orientando, in tal modo, la preparazione degli allievi prevalentemente al trattamento dei casi individuali.  
-La Scuola conferisce il diploma di "Assistente sociale".  
-Art. 603. - I docenti della Scuola sono scelti fra i professori universitari - di ruolo, fuori ruolo, incaricati e liberi docenti - e fra coloro che, per opere, uffici o insegnamenti tenuti, siano di riconosciuta competenza ed esperienza nelle materie che formano oggetto dell'insegnamento.  
-L'assistenza alle esercitazioni e ai tirocini professionali e' affidata ad esperti di Servizio sociale - i "monitori" - la cui attivita' e' coordinata da un direttore delle esercitazioni e dei tirocini professionali.  
-I docenti, il direttore delle esercitazioni e dei tirocini professionali ed i monitori sono nominati dal rettore dell'Universita' su proposta del Consiglio della Scuola.  
-Per la nomina dei docenti di quegli insegnamenti che rientrano nelle competenze della Facolta' di medicina e chirurgia, il Consiglio della Scuola chiedera' preventivamente il parere di quest'ultima.  
-I docenti degli insegnamenti di cui al gruppo B dello art. 612, il direttore delle esercitazioni e dei tirocini professionali, ed i monitori debbono di norma possedere il titolo di "Assistente sociale".  
-Art. 604. - Possono essere ammessi alla Scuola coloro che siano in possesso di un titolo di studi medi superiori valido per l'immatricolazione ai corsi universitari.  
-L'ammissione, per la quale potra' essere stabilito un numero limitato a giudizio del Consiglio della Scuola, e' subordinata in ogni caso al superamento di prove di valutazione personale.  
-Art. 605. - La Scuola e' diretta dal direttore dello Istituto di psicologia della Facolta' di medicina e chirurgia. Vice-direttore della Scuola e' un professore di ruolo della Facolta' di scienze statistiche, demografiche l'ordinamento degli studi della Scuola, e che su proposta del direttore di quest'ultima, sia designato dalla Facolta' medesima.  
-Art. 606. - Per i problemi riguardanti l'ordinamento degli studi, il direttore e' assistito dal Consiglio della Scuola, composto: dal direttore stesso, che lo presiede, dal vice-direttore e da lutti i docenti, nonche' dal direttore delle esercitazioni e dei tirocini professionali, il quale svolge anche funzioni di segretario del Consiglio medesimo.  
-Per determinati problemi di carattere tecnico riguardanti la formazione professionale degli assistenti sociali, possono essere chiamati a partecipare alle adunanze del Consiglio della Scuola anche i monitori.  
-Art. 607. - Spetta al Consiglio della Scuola:  
-1) determinare l'ordine degli studi;  
-2) proporre al rettore la nomina dei docenti, del direttore delle esercitazioni pratiche e dei tirocini professionali, e dei monitori;  
-3) coordinare ed approvare i programmi dei singoli corsi teorici delle esercitazioni pratiche e dei tirocini professionali;  
-4) stabilire l'orario delle lezioni e delle esercitazioni pratiche e il diario e le modalita' degli esami, sia di profitto che di diploma;  
-5) deliberare sulle domande di abbreviazione di corso, presentate dai diplomati e studenti che provengano da altre Scuole di Servizio sociale, e determinare gli ulteriori obblighi di frequenza e di esami;  
-6) determinare, ove lo ritenga necessario, il numero degli allievi che possono essere ammessi al primo anno, nonche' le modalita' di ammissione;  
-7) proporre al rettore la nomina dei professori di ruolo della Universita' di Roma di cui al punto c) e dell'ultimo comma dell'art. 608;  
-Art. 608. - Per i problemi di carattere amministrativo, il direttore della Scuola e' assistito da un apposito Comitato, composto:  
-a) dallo stesso direttore della Scuola, che lo presiede;  
-b) dal vice-direttore della Scuola, che presiede il Comitato in caso di assenza o impedimento del direttore;  
-c) da un altro professore di ruolo dell'Universita' di Roma, titolare di una disciplina che rientri nell'ordinamento degli studi della Scuola, ed eventualmente docente della Scuola stessa;  
-d) dal direttore delle esercitazioni e dei tirocini professionali, che assolve anche funzioni di segretario del Comitato;  
-e) da tre rappresentanti di ciascuno degli Enti o privati che concorrono alle spese di funzionamento della Scuola con contributi annui individuali non inferiori a quanto determinato a norma dell'art. 609.  
-Il numero dei professori di ruolo di cui al punto c) del presente articolo, e' aumentato di tante unita' quanti sono i membri, di cui al punto e) del medesimo articolo, eccedenti il numero di tre.  
-Art. 609. - Spetta al Comitato di cui all'articolo precedente:  
-1) proporre al rettore l'ammontare delle tasse, soprattasse e contributi generali e speciali dovuti dagli allievi;  
-2) determinare i compensi da corrispondere ai docenti, al direttore delle esercitazioni e dei tiroci professionali, ai monitori e a tutti coloro che prestano la loro, opera nella Scuola, salvo che i compensi stessi non siano fissati da disposizioni legislative;  
-3) autorizzare ogni altra spesa occorrente al funzionamento della Scuola;  
-4) determinare l'ammontare del contributo che, a norma dell'art. 608, da' diritto alla partecipazione, nel Comitato, di tre rappresentanti per ciascun Ente o privato che concorra alle spese di funzionamento della Scuola;  
-5) approvare il bilancio interno della Scuola.  
-Detto Comitato puo' autorizzare il proprio presidente a provvedere direttamente, in casi determinati ed entro determinati limiti, a spese non ricorrenti.  
-Il direttore della Scuola da' esecuzione alle deliberazioni del Comitato, conformi al bilancio interno ed alle norme amministrative contenute nella legislazione universitaria.  
-Art. 610. - Le entrate della Scuola sono costituite dalle tasse, soprattasse e contributi scolastici e dai contributi erogati eventualmente dallo Stato, dall'Universita', da Enti e da privati.  
-Art. 611. - Il corso degli studi per il conseguimento del diploma di assistente sociale ha la durata di tre anni.  
-Art. 612. - Gli insegnamenti teorici (eventualmente integrati da esercitazioni) sono i seguenti:  
-  
-GRUPPO A: Insegnamenti di base:  
-Biologia e fisiologia umana, biennale;  
-Psicologia (ps. generale, differenziale, clinica; ps. della eta' evolutiva; ps. sociale; ps. applicata), triennale;  
-Psicopatologia e igiene mentale, triennale;  
-Patologia, igiene e medicina preventiva in campo somatico, triennale;  
-Elementi di sociologia e antropologia culturale, biennale;  
-Elementi di diritto pubblico e privato, biennale;  
-Elementi di economia politica e di storia politica-economico-sociale, triennale.  
-  
-GRUPPO B: Insegnamenti professionali:  
-Introduzione al servizio sociale, annuale;  
-Servizio sociale individuale, triennale;  
-Servizio sociale di gruppo e di comunita', biennale;  
-Amministrazione dei "Servizi sociali", annuale;  
-Metodologia della ricerca applicata al servizio sociale, triennale;  
-Etica generale e professionale, biennale.  
-I tirocini professionali, consistenti in esperienze concrete di servizio sociale, vengono effettuati, nei singoli anni di corso, presso Enti ed Istituzioni adatti, sotto la guida di "Supervisori".  
-Art. 613. - Gli esami sono di profitto e di diploma.  
-Gli esami di profitto hanno luogo in due sessioni: la prima dopo la chiusura annuale dei corsi, la seconda prima dell'inizio del nuovo anno.  
-Per essere ammesso agli esami annuali di profitto, lo studente deve aver frequentato assiduamente le lezioni ed avere effettuato le esercitazioni ed i tirocini professionali prescritti, ottenendone una valutazione positiva.  
-Per essere ammesso all'esame di diploma, lo studente, oltre ad avere adempiuto a tutti gli obblighi di frequenza ed esami dei vari anni e ad avere effettuato le esercitazioni e i tirocini professionali prescritti, deve presentare una dissertazione scritta in materia di servizio sociale, nonche' una relazione riassuntiva sui tirocini professionali di Servizio sociale effettuati nell'intero triennio.  
-L'esame di diploma consiste nella discussione della tesi o della relazione.  
-Art. 614. - Il direttore della Scuola, in conformita' alle deliberazioni del Consiglio della Scuola, provvede alla tempestiva pubblicazione di un manifesto-programma annuale in cui sono specificati:  
-a) la distribuzione degli insegnamenti teorici nei vari anni di corso, con l'indicazione dei relativi docenti e monitori;  
-b) i tirocini professionali che verranno svolti nel corso dell'anno accademico con l'indicazione degli Enti di tirocinio;  
-c) le sessioni, le modalita' e le condizioni degli esami di profitto e di diploma;  
-d) le tasse, le soprattasse e i contributi generali e speciali dovuti dagli allievi;  
-e) il numero minimo e massimo delle iscrizioni e le modalita' di ammissione.  
+III anno).  
+B. - Per l'indirizzo sociale:  
+1) antropologia culturale (annuale: I anno);  
+2) sociologia (annuale: I anno);  
+3) psicologia della comunicazione (biennale: I e II anno);  
+4) tecniche quantitative dell'indagine psicosociale (annuale: II anno);  
+5) ricerca motivazionale (annuale: II anno);  
+6) psicologia sociale (corso avanzato, annuale: III anno);  
+7) dinamiche di gruppo (annuale: III anno);  
+8) tecniche di studio dell'opinione pubblica (annuale: III anno);  
+9) patologia e controllo sociale (annuale: III anno).  
+Gli insegnamenti "integrativi" (annuali) di cui al punto c) dell'art. 383 vanno scelti nell'ambito dello elenco che segue:  
+storia della psicologia;  
+filosofia della scienza;  
+cibernetica;  
+psicologia zoologica;  
+psicolinguistica;  
+organizzazione scolastica auxologia;  
+neuropsichiatria infantile;  
+pedagogia speciale e differenziale;  
+igiene generale;  
+legislazione scolastica;  
+legislazione del lavoro;  
+deontologia professionale;  
+sessuologia;  
+psicogerontologia;  
+statistica economica;  
+psicologia della propaganda;  
+psicologia dello sport;  
+psicologia e pedagogia della comunicazione di massa;  
+istruzione programmata;  
+psicologia della didattica e dell'apprendimento scolastico;  
+infortunistica del lavoro;  
+psicologia economica.  
+Gli insegnamenti specifici di ciascuno dei due indirizzi, possono valere come integrativi per gli altri indirizzi che non li comprendano, sempre naturalmente nel caso che il funzionamento degli indirizzi stessi sia previsto dal manifesto-programma annuale.  
+Il manifesto-programma annuale, di cui all'art. 393, indichera' quali indirizzi verranno realizzati e quali insegnamenti verranno impartiti dalla scuola durante l'anno accademico.  
+L'eventuale scissione degli insegnamenti in piu' rami distinti, ai fini sia dell'insegnamento che degli esami di profitto, ovvero l'eventuale loro raggruppamento ai fini degli esami, risulteranno dal manifesto-programma annuale di cui all'art. 393.  
+Art. 385. - Gli esami sono di profitto e di diploma ed hanno luogo in tre sessioni: estiva, autunnale, invernale.  
+Per essere ammessi agli esami annuali di profitto l'allievo deve aver frequentato assiduamente le lezioni, le esercitazioni, i tirocini, i seminari, etc., svolti dalla scuola nel relativo anno di corso.  
+Per essere ammesso all'esame di diploma, l'allievo, oltre ad aver adempiuto a tutti gli obblighi di frequenza ed esame dei vari insegnamenti comuni e specifici e di almeno due degli insegnamenti integrativi, ed aver effettuato le esercitazioni prescritte, deve presentare una dissertazione scritta nonche' una relazione riassuntiva sulle esercitazioni e su eventuali tirocini effettuati nell'intero triennio.  
+L'esame di diploma consiste nella discussione della tesi e della relazione e, eventualmente, di una o piu' prove pratiche stabilite dal consiglio della scuola.  
+Art. 386. - Direttore della scuola e' il professore di ruolo titolare della cattedra di psicologia della facolta' di magistero.  
+Il direttore della scuola, su conforme parere del consiglio della scuola stessa, puo' proporre che un docente di essa assuma le funzioni di vice-direttore, con l'incarico annuale (riconfermabile) di coadiuvarlo e di sostituirlo: alla relativa nomina provvede il rettore.  
+Art. 387. - I docenti della scuola sono scelti tra i professori universitari di psicologia (di ruolo, fuori ruolo, aggregati, incaricati, liberi docenti), fra gli specializzati in psicologia e fra coloro che, per opere, uffici o insegnamenti tenuti siano di riconosciuta competenza ed esperienza nelle discipline che formano oggetto dei corsi della scuola.  
+Alla nomina dei docenti provvede il rettore, su proposta presentata annualmente dal direttore della scuola e su parere conforme del consiglio della scuola stessa e della facolta'.  
+Art. 388. - Per i problemi riguardanti l'organizzazione didattica, il direttore e' assistito da un consiglio della scuola, composto: dal direttore stesso che lo presiede, dal vice-direttore (se designato), che presiede le adunanze del consiglio in caso di assenza o impedimento del direttore, da tutti i docenti che abbiano avuto regolare nomina rettorale, da due assistenti e da due studenti cooptati dal consiglio stesso.  
+Su proposta del direttore e sentito il parere del consiglio, uno dei docenti assolve anche le funzioni di segretario delle adunanze del consiglio stesso: alla relativa nomina provvede il rettore.  
+Art. 389. - Spetta al consiglio della scuola:  
+1) determinare, coordinare, approvare i programmi dei corsi teorici, delle esercitazioni, dei tirocini, dei seminari, etc., relativi sia agli insegnamenti comuni, sia a quelli specifici sia a quelli integrativi;  
+2) esprimere il proprio parere sulle proposte del direttore della scuola relativamente alla designazione dei docenti, da sottoporre quindi alla nomina rettorale, dopo l'approvazione della facolta';  
+3) determinare, coordinare, approvare gli orari dei vari insegnamenti, esercitazioni, seminari, etc., e il diario e le modalita' degli esami, sia di profitto che di diploma e la composizione delle relative commissioni;  
+4) stabilire le eventuali prove pratiche da far sostenere agli allievi in occasione dell'esame di diploma;  
+5) riferire sulle domande di trasferimento di allievi di scuole di specializzazione in psicologia da una universita' o facolta' ad un'altra e deliberare circa il passaggio da un indirizzo all'altro della stessa scuola (conformemente a quanto stabilito dall'art. 395), determinandone gli eventuali ulteriori obblighi di frequenza e di esame;  
+6) determinare il numero massimo (in ogni caso non superiore a 25) ed eventualmente il numero minimo degli allievi che possono essere iscritti al primo anno di corso;  
+7) stabilire la composizione della commissione per l'esame di concorso di merito di cui al comma 2) dell'art. 382 e della commissione per le eventuali prove di idoneita' di cui al comma 3) del medesimo art. 382 nonche' le modalita' dei rispettivi concorsi o prove.  
+Art. 390. - Il funzionamento amministrativo della scuola e' determinato, in armonia con le vigenti disposizioni sulle scuole di specializzazione, da un regolamento interno emanato dal rettore su proposta del direttore della scuola.  
+Art. 391. - Le entrate della scuola sono costituito dalle tasse, soprattasse e contributi scolastici e dai contributi erogati eventualmente dallo Stato, dall'universita', da enti e da privati.  
+Art. 392. - Gli iscritti alla scuola sono tenuti al pagamento delle tasse, soprattasse e contributi generali nella misura stabilita dall'art. 175 dello statuto.  
+La misura dei contributi per le esercitazioni pratiche e per le altre prestazioni, di cui gli iscritti fruiscono durante il corso degli studi, e' fissata dal consiglio di amministrazione dell'universita' su proposta del senato accademico, sentito il parere del consiglio della facolta' di magistero e del consiglio della scuola.  
+Art. 393. - Il direttore della scuola - sulla base delle deliberazioni del consiglio della scuola - compila ogni anno il relativo manifesto-programma che, previa approvazione della facolta' di magistero sara' reso di pubblica ragione.  
+Nel manifesto viene specificato:  
+1) l'indirizzo o gli indirizzi della scuola che saranno aperti nell'imminente anno accademico;  
+2) il numero massimo (in ogni caso non superiore a 25); e, eventualmente, quello minimo di domande di iscrizione che verranno accettate;  
+3) le modalita' del concorso di merito in caso di domande eccedenti il numero massimo di iscrizioni consentite;  
+4) l'eventuale indicazione di prove di idoneita' per l'ammissione alla scuola, conformemente al comma 3) dell'art. 382;  
+5) l'ordine degli studi, con l'indicazione:  
+a) dell'eventuale scissione degli insegnamenti elencati nell'art. 384 in piu' rami distinti, ai fini dell'insegnamento e degli esami di profitto;  
+b) dell'eventuale raggruppamento degli insegnamenti ai fini dell'esame di profitto;  
+c) della distribuzione degli insegnamenti nei vari anni di corso;  
+d) degli insegnamenti integrativi che verranno impartiti nell'anno;  
+e) dei docenti, per ciascun insegnamento ed anno di corso;  
+6) le modalita' e le condizioni degli esami di profitto e di diploma;  
+7) le tasse, le soprattasse e i contributi generali e speciali dovuti dagli allievi, indicate nell'art. 392.  
+Art. 394. - L'inclusione della scuola nello statuto dell'universita' non costituisce impegno ad impartire i relativi corsi: l'impegno e' costituito dalla pubblicazione del manifesto-programma annuale. Cio' vale sia per la scuola nel suo insieme sia per i singoli indirizzi.  
+Art. 395. - E' prevista, a domanda dell'interessato e non oltre il termine del 2° anno di corso, la possibilita' di passaggio da un indirizzo ad un altro. L'accoglimento della relativa domanda, sempre subordinato alle condizioni previste dall'art. 394, ha luogo a giudizio insindacabile del consiglio della scuola e con piano di studi da stabilire caso per caso.  
+Coloro che hanno compiuto l'intero triennio possono essere ammessi ad altro indirizzo con possibilita' di abbreviazione dei corsi, per convalida di esami gia' sostenuti, secondo quanto sara' stabilito caso per caso dal consiglio della scuola.  
+Art. 396. - Norme transitorie: all'inizio del funzionamento della scuola, il direttore e' autorizzato a prendere tutte quelle decisioni e deliberazioni che, di norma, sono demandate al consiglio della scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 maggio 1966
+### Dato a Roma, addi' 19 giugno 1969
 
-SARAGAT GUI
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 28 maggio 1966
+Registrato alla Corte dei conti, addi' 25 luglio 1969
 
-Atti del Governo, registro n. 203, foglio n. 94. - VILLA
+Atti del Governo, registro n. 228, foglio n. 89. - GRECO

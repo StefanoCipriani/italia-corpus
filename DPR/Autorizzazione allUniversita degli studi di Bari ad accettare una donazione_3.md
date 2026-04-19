@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1950 n. 1175
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 gennaio 1955 n. 144
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1950 n. 1175
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 gennaio 1955 n. 144
+==============================================================
 
 Autorizzazione all'Universita' degli studi di Bari ad accettare una donazione.
 ------------------------------------------------------------------------------
@@ -12,7 +12,8 @@ Art. 1
 
 N.
 
-1175. Decreto del Presidente della Repubblica 25 ottobre 1950, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Bari viene autorizzata ad accettare la donazione della somma di L. 130.000 nominali, in titoli del Debito pubblico italiano, disposta in suo, favore dal prof. Giuseppe Sangiorgi, con atto pubblico amministrativo in data 28 ottobre 1949, per l'istituzione di un premio di studio annuo da intitolarsi al nome di "Giuseppe Sangiorgi" e da conferirsi per concorso fra laureati in medicina e chirurgia dell'Universita' medesima.  
+144. Decreto del Presidente della Repubblica 22 gennaio 1955, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Bari viene autorizzata ad accettare la donazione di L. 231.000 (duecentotrentunomila) contanti, disposta in suo favore dai professori Raffaele Resta, Riccardo Ciusa, Giuseppe Bertaccini, Giuseppe Solarino, Vincenzo Bonomo, Mario Covello e dall'avv. Franco Nitti Valentini, per l'istituzione, con la rendita del capitale donato, di un premio di studio triennale intitolato "Premio prof. Luigi Ferrannini".  
   
-Visto, il Guardasigilli: SEGNI  
-Registrato alla Corte dei conti, addi' 31 gennaio 1951
+Visto, il Guardasigilli: DE PIETRO  
+Registrato alla Corte dei conti, addi' 15 marzo 1955  
+Atti del Governo, registro n. 89, foglio n. 114 - CARLOMAGNO

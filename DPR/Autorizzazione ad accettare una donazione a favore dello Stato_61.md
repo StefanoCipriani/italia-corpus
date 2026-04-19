@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 gennaio 1975 n. 41
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1983 n. 272
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 gennaio 1975 n. 41
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1983 n. 272
 =============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-41. Decreto del Presidente della Repubblica 24 gennaio 1975, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dal comune di Piazza Armerina (Enna) con atto 8 aprile 1952, numero 11975 di repertorio, a rogito notaio Cesare Cigna, consistente in un appezzamento di terreno, esteso mq 600, sito nel quartiere "Cannizzaro" alla via Santa Maria di Gesu', catastalmente indicato nell'atto suddetto, per la costruzione della caserma della guardia di finanza.  
+272. Decreto del Presidente della Repubblica 26 aprile 1983, col quale, sulla proposta del Ministro della difesa, il Ministero della difesa viene autorizzato ad accettare la donazione a favore dello Stato, consistente nel panfilo "Caroly" GE-70, disposta dai fratelli Mario, Alberto e Cesare Preve con atto 25 novembre 1982, n. 77055 di repertorio, a rogito dott. Ottavio Ferrando, notaio in Sestri Levante (Genova), registrato a Chiavari (Genova) in data 29 novembre 1982, al n. 3194, da destinare all'addestramento degli allievi dell'Accademia navale di Livorno.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 3 marzo 1975  
-Atti di Governo, registro n. 8, foglio n. 156
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 27 maggio 1983  
+Registro n. 19 Difesa, foglio n. 155

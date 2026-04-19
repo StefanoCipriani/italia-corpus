@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 680
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1976 n. 963
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 680
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1976 n. 963
+===============================================================
 
 Autorizzazione ad accettare un legato a favore dello Stato.
 -----------------------------------------------------------
@@ -10,11 +10,10 @@ Autorizzazione ad accettare un legato a favore dello Stato.
 Art. 1
 ------
 
-n.
+N.
 
-680. Decreto del Presidente della Repubblica 17 maggio 1986, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato del legato, consistente in una raccolta di settantadue rami incisi, i quali rivestono un importante interesse artistico, da destinare all'Istituto nazionale per la grafica - calcografia di Roma, disposto dall'avv. Ettore De Fornaris con testamento olografo 20 gennaio 1973, pubblicato in data 9 ottobre 1978 e 22 novembre 1978, numeri 42583/8395 e 42944/8395 di repertorio, a rogito dott.  
-Federico Bottino, notaio in Torino.  
+963. Decreto del Presidente della Repubblica 26 febbraio 1976, col quale, sulla proposta del Ministro per i beni culturali ed ambientali, viene autorizzata l'accettazione a favore dello Stato del legato disposto dal prof. Biagio Doria con testamento olografo 11 gennaio 1975, pubblicato con atto pubblico 15 gennaio 1975, n. 116203 di repertorio, a rogito dott. Gaetano Catalano, notaio in Napoli, consistente in una raccolta di disegni, stampe colorate e in bianco e nero, fotografie ed alcuni dipinti di soggetto popolare napoletano da destinare al museo nazionale di S. Martino in Napoli.  
   
-Visto, il Guardasigilli: ROGNONI  
-Registrato alla Corte dei conti, addi' 10 ottobre 1986  
-Registro n. 26 Beni culturali, foglio n. 122
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 18 gennaio 1977  
+Registro n. 1 Beni culturali, foglio n. 236

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1977 n. 916
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 maggio 1976 n. 706
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1977 n. 916
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 maggio 1976 n. 706
+=============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-916. Decreto del Presidente della Repubblica 19 ottobre 1977, col quale, sulla proposta del Ministro per i beni culturali ed ambientali, viene autorizzata l'accettazione di un legato a favore dello Stato e, per esso, della biblioteca Angelica di Roma, disposta dallo scrittore Arnaldo Bocelli con testamento olografo pubblicato in data 7 dicembre 1974, n. 22280/10173 di repertorio a rogito dott. Vincenzo Papi, notaio in Roma, consistente nella sua raccolta bibliografica.  
+706. Decreto del Presidente della Repubblica 18 maggio 1976, col quale, sulla proposta del Ministro per le finanze, di concerto con il Ministro per il lavoro e la previdenza sociale, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dal sig. Menegon Floriano con atto 2 dicembre 1955, n. 10253 di repertorio, a rogito dott. Paolo De Lorenzi, notaio in Ravenna, dell'appezzamento di terreno, catastalmente indicato in atto, sito in comune di Brisighella (Ravenna), parrocchia Zattaglia, strada consorziale torrente Sintria, da stralciarsi dal podere prebendale denominato "Il Casetto", della superficie catastale di mq 3.410 e sul quale il Ministero del lavoro e della previdenza sociale, con le esercitazioni pratiche di corsi di addestramento professionale per lavoratori edili, ha gia' realizzato delle casette minime.  
   
 Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 14 dicembre 1977  
-Registro n. 17 Beni culturali, foglio n. 309
+Registrato alla Corte dei conti, addi' 2 ottobre 1976  
+Atti di Governo, registro n. 9, foglio n. 55

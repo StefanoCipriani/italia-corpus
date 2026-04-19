@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 gennaio 1976 n. 34
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 dicembre 1981 n. 1007
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 gennaio 1976 n. 34
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 dicembre 1981 n. 1007
+================================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-34. Decreto del Presidente della Repubblica 23 gennaio 1976, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Angela Ripamonti con testamento olografo 8 luglio 1969, pubblicato a rogito dott. Pietro Gaetani, notaio in Lecco (Como), in data 11 ottobre 1973, n. 40734 di repertorio, n. 17996 di raccolta, registrato a Lecco il 15 ottobre 1973 col n. 1836, vol. 211, consistente nella somma di L. 5.000.000.  
+1007. Decreto del Presidente della Repubblica 15 dicembre 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in buoni del Tesoro del valore nominale di L. 5.000.000, disposto dal signor Cairoli Franco con testamento olografo e codicillo del 5 aprile 1968, pubblicato a rogito dott. Enrico Bevilacqua, notaio in Milano, il 3 ottobre 1977, n. 15065/2.811 di repertorio, registrato a Milano il 12 ottobre 1977, al n. A/4-93799 71/ M serie F.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 3 marzo 1976  
-Atti di Governo, registro n. 3, foglio n. 57
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 24 febbraio 1982  
+Registro n. 2 Presidenza, foglio n. 176

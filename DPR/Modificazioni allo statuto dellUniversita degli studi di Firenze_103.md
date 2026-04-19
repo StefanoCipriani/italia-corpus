@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 marzo 1961 n. 334
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 giugno 1957 n. 599
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 marzo 1961 n. 334
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 giugno 1957 n. 599
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
@@ -10,62 +10,101 @@ Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Veduto il [decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato, con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successivi;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1955, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1955-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 228. - All'elenco delle scuole di specializzazione annesse alla Facolta' di medicina e chirurgia sono aggiunte la "Scuola di specializzazione in clinica del lavoro" e la "Scuola di specializzazione in urologia".   
+Dopo l'art. 246 sono aggiunti i seguenti nuovi articoli:   
   
-Art. 75. - Agli insegnamenti complementari del corso di laurea in Chimica (indirizzo organico-biologico ed inorganico-chimico-fisico) sono aggiunti quelli di:  
-Chimica analitica strumentale;  
-Chimica nucleare;  
-Chimica delle sostanze coloranti;  
-Chimica statistica;  
-Chimica inorganica superiore;  
-Chimica fisica tecnica;  
-Fotochimica;  
-Radiochimica;  
-Chimica teorica;  
-Strutturistica chimica.  
-Gli articoli 90 e 91, relativi al corso biennale di studi propedeutici per la laurea in ingegneria sono abrogati e sostituiti dai seguenti:  
-Art. 90. - Titolo di ammissione al biennio propedeutico agli studi di Ingegneria e' il diploma di maturita' classica o scientifica.  
-Sono insegnamenti fondamentali:  
-Per il I anno Analisi matematica I Geometria I Fisica I chimica Disegno Per il I anno Analisi matematica II Geometria II Meccanica razionale Fisica II L'insegnamento di Geometria II potra' essere sostituito:  
-A) con Litologia e geologia, quando lo studente dichiari di voler proseguire i suoi studi per la laurea in Ingegneria civile e in una sede ove l'insegnamento della Geometria II non sia previsto per tale corso di studi;  
-B) con Metodi di osservazione e misura, quando lo studente dichiari di voler proseguire i suoi studi per la laurea in Ingegneria meccanica, Elettrotecnica, Elettronica, Aeronautica, Nucleare, e in una sede ove l'insegnamento della Geometria II non e' previsto per uno di tali corsi di laurea;  
-C) con Mineralogia, quando lo studente dichiari di voler proseguire i suoi studi per la laurea in Ingegneria mineraria e in una sede ove l'insegnamento della Geometria II non e' previsto per tale corso di laurea.  
-Sono insegnamenti fondamentali aggiunti, quando non siano sostitutivi della Geometria II:  
-Litologia e geologia e Mineralogia, per gli studenti che intendono proseguire i loro studi per la laurea in Ingegneria civile o mineraria;  
-Metodi di osservazione e misura e Litologia e geologia per gli studenti che intendono proseguire i loro studi in un qualsiasi altro corso di laurea.  
-Lo studente, all'atto della iscrizione al II anno, chiedera' alla Facolta' la convalida del piano di studi che desidera seguire. La scelta e' impegnativa e non puo' subire variazioni durante l'anno di corso.  
-Gli studenti del I anno di corso potranno ottenere la iscrizione al II anno di corso qualora abbiano superato almeno due dei quattro esami: Analisi matematica I, Geometria I, Fisica I, Chimica.  
-Per aver titolo di ammissione al III anno di corso presso una qualsiasi Facolta' di ingegneria, lo studente dovra' aver superato tutti gli esami fondamentali del biennio propedeutico - ivi compreso quello dell'insegnamento che sostituisce la Geometria II - fatta eccezione degli insegnamenti aggiunti.  
-I due esami di Fisica comprendono la parte riguardante le esercitazioni.  
-Art. 91. - L'esame di Chimica deve precedere quelli di Mineralogia e di Litologia e geologia.  
-Gli esami di Analisi matematica I, Geometria I, Fisica. I, devono precedere rispettivamente gli esami di Analisi matematica II, Geometria II, Fisica II.  
-Gli esami di Analisi matematica e di Geometria I devono precedere quello di Meccanica razionale.  
+Scuola di specializzazione in clinica del lavoro   
+  
+Art. 247. - a) La Scuola di specializzazione in clinica del lavoro ha la durata di due anni;   
+b) I posti disponibili al primo anno sono quindici. Gli aspiranti verranno scelti in base a concorso per titoli e per esami, i quali avranno luogo di norma nella prima decade di dicembre;   
+c) Sono materie di insegnamento:   
+  
+primo anno:   
+  
+Clinica del lavoro (1° corso: esame alla fine del 2° corso);   
+Patologia medica del lavoro;   
+Fisiologia del lavoro;   
+Tossicologia;   
+Igiene del lavoro;   
+Anatomia patologica delle malattie professionali.   
+  
+secondo anno:   
+  
+Clinica del lavoro (2° corso);   
+Radiologia delle malattie professionali;   
+Dermatologia professionale;   
+Psicotecnica;   
+Infortunistica traumatologica;   
+Medicina legale del lavoro.   
+  
+d) I corsi saranno integrati da esercitazioni cliniche e di laboratorio e da visite a stabilimenti industriali ed agricoli;   
+e) La frequenza alle lezioni ed alle esercitazioni e' condizione necessaria per l'ammissione agli esami;   
+f) Alla fine di ogni anno accademico e' obbligatorio sostenere gli esami sulle materie di insegnamento annuali. In caso di mancato superamento di tali esami non puo' aversi l'iscrizione all'anno successivo;   
+g) Alla fine dei due anni lo specializzando dovra' sostenere un esame di diploma secondo le norme generali dello statuto.   
+  
+Scuola di specializzazione in urologia   
+  
+Art. 248. - a) La durata del corso degli studi per il conseguimento del diploma di specialista in urologia e' di tre anni.   
+Il numero dei posti disponibili per gli allievi e' di dieci per ciascun anno di corso;   
+b) Le materie di insegnante sono cosi' suddivise:   
+  
+primo anno:   
+  
+1) Anatomia descrittiva, e topografica dell'apparato uro-genitale;   
+2) Fisiologia renale. Fisiologia escretoria reno-uretero-vescico-uretrale;   
+3) Semeiotica dell'apparato urinario e di quello genitale maschile e femminile:   
+4) L'indagine funzionale del rene ai fini della diagnostica urologica;   
+5) Tecniche endoscopiche in urologia;   
+6) Batteriologia e chemioterapia in urologia;   
+7) Tecniche di laboratorio applicate all'urologia.   
+  
+secondo anno:   
+  
+1) Patologia dell'apparato urinario e di quello genitale maschile, compresa la patologia degli spazi perirenali, periureterali, perivescicali, periprostatici e periuretrali;   
+2) Patologia funzionale della via escretrice;   
+3) Anatomia patologica dell'apparato uro-genitale;   
+4) Interpretazione dei quadri e dei reperti endoscopici nella diagnosi delle affezioni urologiche;   
+5) L'anatomia chirurgica dell'apparato uro-genitale come studio delle vie chirurgiche di accesso all'apparato stesso;   
+6) Indicazioni, tecniche e quadri anatomo-funzionali dell'indagine radiologica in urologia;   
+7) L'anestesia in urologia.   
+  
+terzo anno:   
+  
+1) Clinica urologica;   
+2) Sindromi ostetrico-ginecologiche di importanza urologica;   
+3) Le affezioni cutanee e veneree dei genitali esterni e dell'uretra nei riguardi dell'urologia;   
+4) Tecniche operatorie ed interventi sull'apparato genito-urinario;   
+5) Interpretazione e diagnosi differenziale dei quadri radiologici delle affezioni delle vie urinarie;   
+6) trattamento pre e post-operatorio del malato urologico.   
+  
+c) Alla fine di ciascun anno del corso l'allievo dovra' sostenere un esame teorico-pratico sulle materie di insegnamento dell'anno;   
+d) Al termine del corso di specializzazione l'allievo dovra' sostenere un esame riassuntivo teorico-pratico e la discussione di una tesi scritta sopra un argomento di urologia;   
+e) Durante gli anni del corso l'allievo oltre a seguire le lezioni teoriche e pratiche dovra' frequentare i reparti clinici e gli ambulatori dell'Istituto; nell'ultimo anno prestare servizio come interno, a meno che non comprovi di essere assistente di reparti universitari od ospedalieri della specialita'.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e di decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 marzo 1961
+### Dato a Roma, addi' 14 giugno 1957
 
-GRONCHI BOSCO
+GRONCHI MORO
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 9 maggio 1961
+Registrato alla Corte dei conti, addi' 25 luglio 1957
 
-Atti del Governo, registro n. 136, foglio n. 95. - VILLA
+Atti del Governo registro n. 106, foglio n. 229. - CARLOMAGNO

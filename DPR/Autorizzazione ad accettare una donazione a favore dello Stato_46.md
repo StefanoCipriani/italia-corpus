@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1983 n. 319
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1978 n. 1020
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1983 n. 319
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1978 n. 1020
+=================================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-319. Decreto del Presidente della Repubblica 17 maggio 1983, col quale, sulla proposta del Ministro della difesa, il Ministero della difesa viene autorizzato ad accettare la donazione, consistente in quattro complessi radiotrasmittenti da 10 kW mod. S.T. 10.000, in un'antenna a nassa da 5 a 10 Mhz, in un'antenna a nassa con relativo cavo coassiale, in un commutatore inversore di antenna e in due antenne rombiche direzionali, consegnati dall'ex societa' "Radiostampa", in Roma, con verbale 31 maggio 1982 e destinati al centro telecomunicazioni della stazione radio della Marina militare di S. Rosa.  
+1020. Decreto del Presidente della Repubblica 14 settembre 1978, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato della donazione disposta dal prof. Afro Basaldella, con atto di donazione 15 novembre 1975, n. 327346 di repertorio, a rogito dott.  
+Giorgio Santini, notaio in Roma, consistente in una raccolta di tre dipinti raffiguranti "Viale delle Acacie", "Senza titolo" e "Grande Ocra", i quali rivestono un interesse artistico, da destinare alla galleria nazionale d'arte moderna in Roma.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 5 luglio 1983  
-Registro n. 21 Difesa, foglio n. 383
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 21 febbraio 1979  
+Registro n. 2 Beni culturali, foglio n. 287

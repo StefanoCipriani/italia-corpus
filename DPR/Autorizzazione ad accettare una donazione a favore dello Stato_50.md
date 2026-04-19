@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1974 n. 894
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1980 n. 1162
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1974 n. 894
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1980 n. 1162
+================================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-894. Decreto del Presidente della Repubblica 27 marzo 1974, col quale, sulla proposta del Ministro per la pubblica istruzione, viene autorizzata l'accettazione della donazione del dipinto su tavola di Dosso Dossi, raffigurante "Adorazione dei pastori" (cm 47,6 x 65), disposta dalla signora Siller Giulia ved. Tinozzi a favore dello Stato con atto notarile 3 luglio 1972, n. 25619 di repertorio a rogito del notaio dott. Giulio Filiberti, rettificato con atto del 12 aprile 1972, n. 36382 di repertorio a rogito medesimo notaio. L'opera suddetta viene, altresi', destinata alla pinacoteca nazionale di Bologna.  
+1162. Decreto del Presidente della Repubblica 3 dicembre 1980, col quale, sulla proposta del Ministro delle finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dal comune di Ronago (Como) con atto 24 settembre 1976, n. 42777/15090 di repertorio, a rogito dott. Achille Pedraglio, notaio in Como, consistente in un terreno della superficie di mq 3850, per il nuovo valico di frontiera italo-svizzero, denominato "Crociale dei Mulini".  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 15 aprile 1975  
-Atti di Governo, registro n. 9, foglio n. 50
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 6 agosto 1981  
+Registro n. 25 Finanze, foglio n. 64

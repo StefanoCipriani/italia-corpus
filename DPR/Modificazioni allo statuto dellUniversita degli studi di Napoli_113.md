@@ -1,100 +1,77 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1979 n. 959
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1979 n. 147
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1979 n. 959
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1979 n. 147
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Dopo l'art. 680 dello statuto dell'Universita' di Napoli, con il conseguente spostamento della numerazione degli articoli sono inseriti i seguenti nuovi articoli:  
+Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
-FACOLTA' DI FARMACIA  
+Decreta:   
   
-Scuola di specializzazione in farmacologia  
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Art. 681. - Alla facolta' di farmacia e' annessa la scuola di specializzazione in farmacologia.  
-Art. 682. - La scuola rilascia il diploma di specializzazione in farmacologia al termine del corso di studi che ha durata biennale.  
-Nel secondo anno di corso la scuola si articola in due indirizzi: sperimentale e terapeutico.  
-Art. 683. - Alla scuola di specializzazione sono ammessi i laureati in farmacia, chimica e tecnologia farmaceutiche, scienza delle preparazioni alimentari, scienze biologiche, medicina e chirurgia, medicina veterinaria.  
-L'ammissione alla scuola e' condizionata al superamento degli esami di fisiologia generale o umana e di farmacologia o farmacologia e farmacognosia, ove questi non siano stati superati nel corso degli studi universitari.  
-Art. 684. - Gli insegnamenti della scuola sono i seguenti:  
-1° Anno:  
-1) biometria e statistica;  
-2) patologia generale;  
-3) endocrinologia;  
-4) farmacologia generale;  
-5) farmacologia cellulare;  
-6) farmacologia biochimica;  
-7) tossicologia sperimentale;  
-8) microbiologia e igiene.  
-2° Anno:  
-a) indirizzo sperimentale:  
-1) radiochimica e radiobiologia;  
-2) disegno degli esperimenti;  
-3) studio delle attivita' farmacologiche;  
-4) immunochimica;  
-5) neuropsicofarmacologia;  
-6) chemioterapia;  
-7) interazione fra farmaci.  
-b) indirizzo terapeutico:  
-1) disegno degli esperimenti;  
-2) farmacologia nello sviluppo e dell'eta' avanzata;  
-3) farmacologia cardiovascolare;  
-4) farmaci degli stati dismetabolici;  
-5) neuropsicofarmacologia;  
-6) chemioterapia antimicrobica, antivirale, antiumorale;  
-7) interazioni fra farmaci;  
-8) scienza dell'alimentazione.  
-Art. 685. - La scuola e' organizzata dalla facolta' di farmacia dell'Universita' di Napoli presso i propri laboratori. I corsi teorici e pratici possono essere integrati da conferenze, seminari e dimostrazioni svolti con la collaborazione di studiosi ed esperti.  
-La direzione della scuola e' affidata ad un docente di ruolo eletto dal consiglio direttivo costituito da cinque docenti nominati dal consiglio di facolta', per la durata di tre anni, scelti tra i docenti di discipline chimico farmaceutiche (due) e farmacologiche (tre).  
-Il direttore ed i membri del consiglio sono rieleggibili.  
-In caso di decadenza, il nuovo membro resta in carica fino alla scadenza del mandato triennale.  
-Art. 686. - Gli incarichi di insegnamento, anche per un limitato numero di lezioni o esercitazioni, sono conferiti dal rettore su proposta del consiglio direttivo della scuola con l'approvazione del senato accademico e del consiglio di amministrazione.  
-Art. 687. - Le tasse e soprattasse per l'iscrizione alla scuola sono quelle stabilite per la facolta' di farmacia. I contributi a carico degli iscritti dovranno essere fissati annualmente dal consiglio di amministrazione su proposta del consiglio della scuola e verranno resi noti ogni anno con apposito manifesto.  
-Art. 688. - Il numero massimo di iscritti alla scuola e' di quindici per ogni anno di corso.  
-L'ammissione alla scuola e' decisa dal consiglio direttivo sulla base di una valutazione dei titoli e per esami.  
-La frequenza e' obbligatoria sia per i corsi sia per i laboratori.  
-Art. 689. - La scuola e' finanziata con le quote di iscrizione ed attraverso contributi, lasciti e donazioni di enti o di privati.  
+Dopo l'art. 652, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chirurgia della mano presso la seconda facolta' di medicina e chirurgia.   
+Scuola di specializzazione in chirurgia della mano   
+Art. 653. - La scuola di specializzazione in chirurgia della mano ha sede presso l'istituto di clinica ortopedica e conferisce il diploma di specialista in chirurgia della mano.   
+Art. 654. - Il corso ha la durata di tre anni. Possono essere ammessi alla scuola i laureati in medicina e chirurgia.   
+Art. 655. - Il numero dei posti disponibili e' di tre per ogni anno.   
+Art. 656. - La frequenza e' obbligatoria nell'istituto sede della scuola per un periodo di nove mesi per ogni anno accademico.   
+Per nessun motivo sono ammesse abbreviazioni della durata degli studi.   
+Art. 657. - Gli insegnamenti impartiti dalla scuola sono:   
+1° Anno:   
+clinica ortopedica dell'arto superiore (biennale I anno);   
+traumatologia dell'arto superiore (biennale I anno);   
+chirurgia plastica ricostruttiva (biennale I anno);   
+anatomia funzionale della mano;   
+anatomia-chirurgia dell'arto superiore;   
+anatomia e istologia patologica;   
+radiodiagnostica dell'arto superiore e nozioni di radioterapia; anestesia e rianimazione.   
+2° Anno:   
+clinica ortopedica dell'arto superiore (biennale II anno);   
+traumatologia dell'arto superiore (biennale II anno);   
+chirurgia plastica ricostruttiva (biennale II anno);   
+tecniche di chirurgia tendinea;   
+tecniche di chirurgia osteo-articolare;   
+chirurgia vascolare dell'arto superiore.   
+3° Anno:   
+semeiotica e clinica neurologica dell'arto superiore;   
+elettrodiagnostica ed elettromiografia;   
+microchirurgia dei nervi periferici;   
+fisiochinesiterapia;   
+clinica dermatologica;   
+nozioni di medicina legale;   
+nozioni di psicologia;   
+protesi sostitutive nelle amputazioni dell'arto superiore.   
+Art. 658. - L'allievo del primo anno, per essere ammesso al secondo, deve aver superato tutti gli esami del primo anno. L'allievo del secondo anno, per essere ammesso al terzo, deve aver superato i tre esami biennali e tutti gli altri esami del secondo anno.   
+Per l'ammissione all'esame di diploma il candidato deve presentare una dissertazione scritta su un argomento della specialita'.   
+Art. 659. - I fondi a disposizione della scuola sono rappresentati dagli introiti delle tasse di iscrizione e di laboratorio, dalle sovvenzioni di enti o di privati, di cui principalmente la clinica ortopedica e traumatologica.   
+Art. 660. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1979
+### Dato a Roma, addi' 14 marzo 1979
 
-PERTINI VALITUTTI
+PERTINI PEDINI
 
 Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 20 agosto 1980
+Registrato alla Corte dei conti, addi' 14 maggio 1979
 
-Registro n. 78 Istruzione, foglio n. 39
+Registro n. 33 Istruzione, foglio n. 285

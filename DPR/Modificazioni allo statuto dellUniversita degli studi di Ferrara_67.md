@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1978 n. 586
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1977 n. 1021
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1978 n. 586
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1977 n. 1021
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 -------------------------------------------------------------------
@@ -18,129 +18,181 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933; n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Dopo l'art. 93, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in diritto ed economia della banca presso la facolta' di giurisprudenza.
+Art. 47 - all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:
 
-Titolo III
+anatomia topografica;
 
-SCUOLE DI SPECIALIZZAZIONE
+immunologia;
 
-ANNESSE ALLA FACOLTA' DI GIURISPRUDENZA
+chirurgia d'urgenza;
 
-Capo I
+medicina nucleare;
 
-Scuola di specializzazione
+neuropsichiatria infantile;
 
-in diritto ed economia della banca
+reumatologia.
 
-Art. 94. - Alla facolta' di giurisprudenza e' annessa una scuola di specializzazione in diritto ed economia della banca, la quale si propone di promuovere la formazione scientifica e professionale nelle discipline bancarie.
+Art. 76 - all'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti i seguenti:
 
-Art. 95. - La durata del corso di specializzazione e' biennale. Gli insegnamenti, che sono di ampiezza non inferiore a un normale corso universitario e si svolgono secondo le modalita' e i tempi fissati annualmente dal consiglio direttivo della scuola, sono i seguenti:
+anatomia comparata;
+
+cristallografia;
+
+geochimica applicata;
+
+geologia strutturale;
+
+geomofologia;
+
+pedologia;
+
+petrografia delle rocce sedimentarie;
+
+petrologia.
+
+Nello stesso elenco sono soppressi i seguenti insegnamenti:
+
+geodesia;
+
+antropologia;
+
+etnologia;
+
+paleoclimatologia;
+
+paleontologia umana e paletnologia;
+
+paletnologia;
+
+prospezioni geofisiche.
+
+Art. 77 - e' modificato nel modo seguente:
+
+Il primo comma e' soppresso e sostituito dal seguente:
+
+"Gli insegnamenti di botanica e di zoologia sono annuali e debbono avere indirizzo biogeografico".
+
+Il quarto comma e' soppresso e sostituito dal seguente:
+
+"Gli insegnamenti fondamentali di chimica generale ed inorganica, di mineralogia, di geologia, di geologia applicata, di geografia fisica, di petrografia, di paleontologia, di fisica terrestre, di geografia e quelli complementari di sedimentologia, giacimenti minerari, rilevamento geologico, paleontologia umana, anatomia comparata, botanica e zoologia comportano un corso annuale di esercitazioni pratiche, alcune delle quali potranno essere svolte come escursioni di campagna".
+
+L'ultimo comma viene soppresso e sostituito dal seguente:
+
+"Non potra' essere ammesso all'internato lo studente che non abbia superato almeno cinque fra gli insegnamenti previsti dal piano di studi per i primi due anni del corso di laurea".
+
+E' aggiunto il seguente nuovo comma:
+
+"Il consiglio di facolta' determina caso per caso a quale anno possono essere ammessi coloro che siano forniti di altra laurea e stabilisce altresi' quali tra gli esami gia' superati e quali attestazioni di frequenza possono essere convalidati ai fini del conseguimento della laurea in scienze geologiche".
+
+L'art. 79 e' modificato nel senso che il primo comma, lettera b), e' soppresso e sostituito con il seguente:
+
+"b) nell'esposizione e discussione di due temi, di cui almeno uno sperimentale, scelti dal candidato fra materie differenti da quelle su cui verte la dissertazione di cui al comma a). Uno dei due temi dovra' riguardare un lavoro di rilevamento geologico, ove questo non faccia gia' parte integrante della dissertazione di cui al comma a)".
+
+L'ultimo comma viene soppresso.
+
+Gli articoli da 157 a 164, relativi alla scuola diretta a fini speciali per ortottiste, che muta la denominazione in scuola diretta fini speciali per ortottisti-assistenti di oftalmologia, sono abrogati e sostituiti dai seguenti:
+
+Scuola speciale per ortottisti-assistenti di oftalmologia
+
+Art. 157. - E' istituita ai sensi dell'art. 20 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), una scuola speciale di preparazione per ortottisti-assistenti di oftalmologia, che ha sede presso la clinica oculistica della facolta' di medicina e chirurgia dell'Universita' di Ferrara.
+
+Art. 158. - La scuola ha lo scopo di dare una preparazione completa, teorico-pratica, istruendo gli allievi sui problemi della motilita' oculare, dell'ambliopia, delle tecniche diagnostiche della visione binoculare, del trattamento pre e postoperatorio dei pazienti strabici; dei problemi sui vizi di refrazione e della loro correzione e sulle tecniche diagnostiche in oftalmologia.
+
+La durata del corso per conseguire il diploma di ortottista-assistente di oftalmologia e' di tre anni.
+
+Sono titoli di ammissione i diplomi di istruzione secondaria di secondo grado di durata quinquennale ivi compresi i licei linguistici riconosciuti per legge, il diploma di maturita' professionale ai sensi della [legge 27 ottobre 1969, n. 754](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-10-27;754) e i diplomi di istituti magistrali e dei licei artistici integrati dai corsi annuali previsti dalla [legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910).
+
+Art. 159. - Gli aspiranti all'iscrizione al primo anno di corso sono tenuti a sostenere un esame di ammissione consistente in una prova di cultura generale e in una prova per la conoscenza della lingua straniera. E' richiesto un certificato di sana e robusta costituzione, con particolare riguardo alla funzione visiva.
+
+Art. 160. - Il numero complessivo degli iscritti alla scuola e' di quattro per ogni anno di corso. Qualora le domande di iscrizione fossero in numero superiore al numero massimo previsto, il consiglio della scuola si riserva di provvedere ad una scelta tra gli idonei in base ai risultati delle prove di ammissione. Gli idonei possono essere ammessi anche in soprannumero in rapporto a posti che si rendessero vacanti nel corso del secondo o terzo anno. I ripetenti e i fuori corso, qualora riprendano gli studi, sono riammessi in soprannumero.
+
+La facolta', su parere del consiglio della scuola, puo' ammettere al terzo anno della scuola, con l'obbligo di tutti gli esami del terzo anno, della discussione della tesi e della prova pratica, le diplomate delle scuole speciali per ortottiste, ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20), purche' abbiano esercitato con continuita' una attivita' professionale adeguata e documentata.
+
+Art. 161. - Il direttore della scuola e' il titolare della cattedra di clinica oculistica o altro docente di disciplina affine, proposto dal titolare della cattedra di clinica oculistica, sentito il consiglio della scuola.
+
+Gli incarichi di insegnamento sono conferiti dal rettore, su proposta del consiglio di facolta' di medicina e chirurgia, udito il direttore della scuola.
+
+Art. 162. - L'anno accademico ha inizio e termine nelle date stabilite dalle leggi in vigore per l'istruzione universitaria. La frequenza e' obbligatoria.
+
+Art. 163. - Il corso comprende lezioni teoriche ed esercitazioni pratiche. Le materie di insegnamento sono le seguenti:
 
 1° Anno:
 
-organizzazione e legislazione bancaria;
+1) elementi di anatomia dell'apparato visivo e del sistema nervoso centrale;
 
-diritto privato bancario I (contratti tipici);
+2) fisiologia dell'occhio, della motilita' oculare, della visione binoculare;
 
-economia monetaria e creditizia;
+3) ottica fisica e fisiopatologica;
 
-tecnica bancaria;
+4) ortottica I;
 
-tutela giuridica del credito ed esecuzione esattoriale;
-
-titoli di credito;
-
-diritto penale commerciale.
+5) psicologia infantile.
 
 2° Anno:
 
-diritto degli scambi internazionali;
+1) elementi di patologia oculare;
 
-diritto privato bancario II (contratti atipici e della legislazione speciale);
+2) elementi di farmacologia oculare;
 
-politica monetaria e finanziaria;
+3) elementi di neuroftalmologia;
 
-diritto delle procedure concorsuali;
+4) nozioni di chirurgia ed assistenza oftalmica;
 
-legislazione e contratti di borsa;
+5) ortottica II.
 
-economia e tecnica della borsa;
+3° Anno:
 
-tecnica e diritto del bilancio.
+1) tecniche semeiologiche dell'apparato visivo (refrazione, contattologia, adattometria, campo visivo, senso cromatico);
 
-Ogni corso di insegnamento si conclude con una prova di esame individuale, sostenuta davanti a una commissione formata da tre docenti e presieduta dal titolare dell'insegnamento, mentre gli altri membri della commissione sono nominati dal direttore della scuola.
+2) tecniche semeiologiche ed elettrofisiologiche (tonometria e tonografia), elettroretinografia, elettro-oculografia, elettromiografia, ecografia, retinografia e fluorangiografia);
 
-L'insegnamento biennale ha due prove di esame.
+3) ortottica III;
 
-La votazione e' in cinquantesimi.
+4) nozioni di riabilitazione senso-motoria nell'eta' infantile;
 
-La frequenza ai corsi e' obbligatoria.
+5) legislazione sanitaria.
 
-Alla fine del biennio l'esame generale per il conseguimento del diploma di specializzazione consiste nella discussione su tre argomenti, di cui uno necessariamente giuridico ed un altro economico, assegnati con sorteggio al candidato alcuni giorni prima della prova di esame e sviluppati davanti alla commissione formata dai docenti di tutti i corsi.
+Art. 164. - L'intero corso di studi e' costituito da lezioni pratiche e teoriche ed esercitazioni e dall'obbligo per gli allievi, dell'internato per l'intero periodo di corso di studi nella clinica oculistica. La frequenza viene comprovata dall'attestazione rilasciata sul libretto d'iscrizione dagli insegnanti e per l'attivita' pratica dal direttore della scuola.
 
-La votazione e' in settantesimi.
+L'attestazione di frequenza e di attivita' pratica e' indispensabile ai fini dell'ammissione agli esami.
 
-Annualmente il consiglio direttivo della scuola potra' deliberare lo svolgimento di attivita' didattiche complementari su materie particolari anche non rientranti negli insegnamenti previsti nel presente statuto. La partecipazione alle stesse non e' obbligatoria, ma potra' costituire titolo liberamente valutabile dalla commissione in sede di esame finale di diploma.
+Art. 165. - Alla fine di ogni anno gli allievi devono sostenere un esame sulle materie di insegnamento. Nel caso in cui i candidati non abbiano superato gli esami prescritti, essi rimarranno nella posizione di "fuori corso".
 
-Art. 96. - Possono accedere alla scuola i laureati in giurisprudenza o in economia e commercio o in scienze politiche o in scienze economiche e bancarie o in scienze bancarie e assicurative ovvero coloro che risultino in possesso di laurea riconosciuta equipollente dal consiglio direttivo della scuola.
+Art. 166. - Gli esami di profitto consistono in prove teoriche e pratiche.
 
-Art. 97. - Il consiglio direttivo potra' annualmente stabilire un limite numerico massimo per le iscrizioni al primo anno, tenuto conto delle attrezzature didattiche e scientifiche della scuola e del numero di borse di studio disponibili per gli iscritti.
+Art. 167. - Alla fine del corso gli allievi devono sostenere un esame di diploma che consiste nella discussione di una tesi scritta su un argomento riguardante le materie di insegnamento, assegnata dal direttore della scuola, e in una prova pratica stabilita da una commissione esaminatrice. I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola, ma se al secondo anno non sia loro riconosciuta la idoneita', saranno senz'altro esclusi da ulteriori prove.
 
-Art. 98. - I titolari degli insegnamenti e gli incaricati di attivita' didattiche complementari sono designati annualmente dal consiglio direttivo e nominati con decreto rettorale.
+Agli allievi che avranno superato l'esame finale verra' rilasciato un diploma di ortottista-assistente di oftalmologia.
 
-Il consiglio fissa i relativi compensi in rapporto alle disponibilita' del bilancio.
+Art. 168. - Gli esami di profitto e di diploma si danno in due sessioni, la prima, estiva, che ha inizio subito dopo la chiusura annuale dei corsi e la seconda, autunnale, nel mese che precede l'inizio del nuovo anno accademico.
 
-Art. 99. - La scuola e' retta da un consiglio presieduto dal direttore della scuola.
+Art. 169. - Le commissioni per gli esami di ammissione e di diploma sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della clinica. Le commissioni per gli esami (i ammissione e di profitto sono composte da tre membri direttore della scuola, presidente, e da due insegnanti della scuola stessa. La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente e da quattro insegnanti della scuola stessa o da altri docenti.
 
-Il consiglio e' formato da otto membri, nominati dal consiglio di facolta' secondo i seguenti criteri:
+Art. 170. - Il consiglio di amministrazione dell'Universita', su proposta della direzione della scuola, approvata dal consiglio di facolta', stabilira' di anno in anno l'ammontare dei contributi.
 
-un professore ufficiale di materie commercialistiche o privatistiche;
+Le tasse sopratasse annuali a carico degli iscritti restano cosi' stabilite:
 
-un professore ufficiale di materie economiche;
+tassa di immatricolazione. . . . . . . . . . . . . . . . . . L. 5.000 tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 18.000 sopratassa annuale di esame. . . . . . . . . . . . . . . . . L. 7.000 sopratassa per esame di diploma. . . . . . . . . . . . . . . L. 3.000 tassa erariale di diploma. . . . . . . . . . . . . . . . . . L. 6.000 tassa annuale per iscrizione studenti fuori corso. . . . . . L. 5.000
 
-un terzo professore ufficiale;
-
-due assistenti o contrattisti, proposti dai rappresentanti delle categorie interessate.
-
-Un quinto membro e' eletto fra gli iscritti alla scuola attraverso apposita votazione degli stessi indetta dal consiglio direttivo.
-
-Un altro membro, non appartenente alle categorie dei docenti della facolta' o degli iscritti alla scuola, e' nominato dagli enti pubblici o privati finanziatori.
-
-E' infine membro di diritto il preside della facolta', che non potra' tuttavia essere nominato direttore della scuola.
-
-Nelle votazioni, in caso di parita' di voti, prevale il voto del direttore della scuola.
-
-I membri del consiglio durano in carica due anni e sono rieleggibili.
-
-La mancata nomina di alcuni componenti il consiglio non inficia la validita' e il funzionamento dello stesso, purche' sia in carica la maggioranza dei suoi membri.
-
-Spetta al consiglio direttivo decidere sulle questioni attinenti al funzionamento della scuola ed approva il bilancio annuale.
-
-L'ammontare delle tasse, soprattasse e contributi della scuola di specializzazione in diritto ed economia della banca e' fissato negli importi pari a quelli stabiliti per il corso di laurea in giurisprudenza.
-
-Il consiglio di facolta' nomina il direttore della scuola scegliendolo fra i professori membri del consiglio direttivo.
-
-Il direttore ha la rappresentanza della scuola, convoca il consiglio direttivo per gli adempimenti statutari, formula gli ordini del giorno delle sue sedute, predispone per l'approvazione il bilancio annuale.
-
-Art. 100. - I mezzi per il funzionamento della scuola sono tratti da contributi dell'Universita' e dello Stato, dalle sovvenzioni di enti pubblici e privati interessati, nonche' dalle tasse e contributi degli iscritti.
-
-Sara' curata, per quanto possibile, l'istituzione di un adeguato numero di borse di studio per gli iscritti.
+Art. 171. - Al funzionamento della suddetta scuola si provvedera' con il provento delle tasse, sopratasse e contributi dovuti dagli iscritti e con eventuali elargizioni o contributi di enti pubblici o privati.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 6 marzo 1978
+Dato a Roma, addi' 7 ottobre 1977
 
 LEONE
 
@@ -151,97 +203,120 @@ Visto, il Guardasigilli: BONIFACIO
 Registrato
 ----------
 
-alla Corte dei conti, addi' 23 settembre 1978 Registro n. 104 Istruzione, foglio n. 280
+alla Corte dei conti, addi' 21 gennaio 1978 Registro n. 6 Istruzione, foglio n. 200
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933; n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Dopo l'art. 93, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in diritto ed economia della banca presso la facolta' di giurisprudenza.   
+Art. 47 - all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:  
+anatomia topografica;  
+immunologia;  
+chirurgia d'urgenza;  
+medicina nucleare;  
+neuropsichiatria infantile;  
+reumatologia.  
+Art. 76 - all'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti i seguenti:  
+anatomia comparata;  
+cristallografia;  
+geochimica applicata;  
+geologia strutturale;  
+geomofologia;  
+pedologia;  
+petrografia delle rocce sedimentarie;  
+petrologia.  
+Nello stesso elenco sono soppressi i seguenti insegnamenti:  
+geodesia;  
+antropologia;  
+etnologia;  
+paleoclimatologia;  
+paleontologia umana e paletnologia;  
+paletnologia;  
+prospezioni geofisiche.  
+Art. 77 - e' modificato nel modo seguente:  
+Il primo comma e' soppresso e sostituito dal seguente:  
+"Gli insegnamenti di botanica e di zoologia sono annuali e debbono avere indirizzo biogeografico".  
+Il quarto comma e' soppresso e sostituito dal seguente:  
+"Gli insegnamenti fondamentali di chimica generale ed inorganica, di mineralogia, di geologia, di geologia applicata, di geografia fisica, di petrografia, di paleontologia, di fisica terrestre, di geografia e quelli complementari di sedimentologia, giacimenti minerari, rilevamento geologico, paleontologia umana, anatomia comparata, botanica e zoologia comportano un corso annuale di esercitazioni pratiche, alcune delle quali potranno essere svolte come escursioni di campagna".  
+L'ultimo comma viene soppresso e sostituito dal seguente:  
+"Non potra' essere ammesso all'internato lo studente che non abbia superato almeno cinque fra gli insegnamenti previsti dal piano di studi per i primi due anni del corso di laurea".  
+E' aggiunto il seguente nuovo comma:  
+"Il consiglio di facolta' determina caso per caso a quale anno possono essere ammessi coloro che siano forniti di altra laurea e stabilisce altresi' quali tra gli esami gia' superati e quali attestazioni di frequenza possono essere convalidati ai fini del conseguimento della laurea in scienze geologiche".  
+L'art. 79 e' modificato nel senso che il primo comma, lettera b), e' soppresso e sostituito con il seguente:  
+"b) nell'esposizione e discussione di due temi, di cui almeno uno sperimentale, scelti dal candidato fra materie differenti da quelle su cui verte la dissertazione di cui al comma a). Uno dei due temi dovra' riguardare un lavoro di rilevamento geologico, ove questo non faccia gia' parte integrante della dissertazione di cui al comma a)".  
+L'ultimo comma viene soppresso.  
+Gli articoli da 157 a 164, relativi alla scuola diretta a fini speciali per ortottiste, che muta la denominazione in scuola diretta fini speciali per ortottisti-assistenti di oftalmologia, sono abrogati e sostituiti dai seguenti:  
   
-Titolo III   
+Scuola speciale per ortottisti-assistenti di oftalmologia  
   
-SCUOLE DI SPECIALIZZAZIONE   
-ANNESSE ALLA FACOLTA' DI GIURISPRUDENZA   
+Art. 157. - E' istituita ai sensi dell'art. 20 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), una scuola speciale di preparazione per ortottisti-assistenti di oftalmologia, che ha sede presso la clinica oculistica della facolta' di medicina e chirurgia dell'Universita' di Ferrara.  
+Art. 158. - La scuola ha lo scopo di dare una preparazione completa, teorico-pratica, istruendo gli allievi sui problemi della motilita' oculare, dell'ambliopia, delle tecniche diagnostiche della visione binoculare, del trattamento pre e postoperatorio dei pazienti strabici; dei problemi sui vizi di refrazione e della loro correzione e sulle tecniche diagnostiche in oftalmologia.  
+La durata del corso per conseguire il diploma di ortottista-assistente di oftalmologia e' di tre anni.  
+Sono titoli di ammissione i diplomi di istruzione secondaria di secondo grado di durata quinquennale ivi compresi i licei linguistici riconosciuti per legge, il diploma di maturita' professionale ai sensi della [legge 27 ottobre 1969, n. 754](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-10-27;754) e i diplomi di istituti magistrali e dei licei artistici integrati dai corsi annuali previsti dalla [legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910).  
+Art. 159. - Gli aspiranti all'iscrizione al primo anno di corso sono tenuti a sostenere un esame di ammissione consistente in una prova di cultura generale e in una prova per la conoscenza della lingua straniera. E' richiesto un certificato di sana e robusta costituzione, con particolare riguardo alla funzione visiva.  
+Art. 160. - Il numero complessivo degli iscritti alla scuola e' di quattro per ogni anno di corso. Qualora le domande di iscrizione fossero in numero superiore al numero massimo previsto, il consiglio della scuola si riserva di provvedere ad una scelta tra gli idonei in base ai risultati delle prove di ammissione. Gli idonei possono essere ammessi anche in soprannumero in rapporto a posti che si rendessero vacanti nel corso del secondo o terzo anno. I ripetenti e i fuori corso, qualora riprendano gli studi, sono riammessi in soprannumero.  
+La facolta', su parere del consiglio della scuola, puo' ammettere al terzo anno della scuola, con l'obbligo di tutti gli esami del terzo anno, della discussione della tesi e della prova pratica, le diplomate delle scuole speciali per ortottiste, ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20), purche' abbiano esercitato con continuita' una attivita' professionale adeguata e documentata.  
+Art. 161. - Il direttore della scuola e' il titolare della cattedra di clinica oculistica o altro docente di disciplina affine, proposto dal titolare della cattedra di clinica oculistica, sentito il consiglio della scuola.  
+Gli incarichi di insegnamento sono conferiti dal rettore, su proposta del consiglio di facolta' di medicina e chirurgia, udito il direttore della scuola.  
+Art. 162. - L'anno accademico ha inizio e termine nelle date stabilite dalle leggi in vigore per l'istruzione universitaria. La frequenza e' obbligatoria.  
+Art. 163. - Il corso comprende lezioni teoriche ed esercitazioni pratiche. Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1) elementi di anatomia dell'apparato visivo e del sistema nervoso centrale;  
+2) fisiologia dell'occhio, della motilita' oculare, della visione binoculare;  
+3) ottica fisica e fisiopatologica;  
+4) ortottica I;  
+5) psicologia infantile.  
+2° Anno:  
+1) elementi di patologia oculare;  
+2) elementi di farmacologia oculare;  
+3) elementi di neuroftalmologia;  
+4) nozioni di chirurgia ed assistenza oftalmica;  
+5) ortottica II.  
+3° Anno:  
+1) tecniche semeiologiche dell'apparato visivo (refrazione, contattologia, adattometria, campo visivo, senso cromatico);  
+2) tecniche semeiologiche ed elettrofisiologiche (tonometria e tonografia), elettroretinografia, elettro-oculografia, elettromiografia, ecografia, retinografia e fluorangiografia);  
+3) ortottica III;  
+4) nozioni di riabilitazione senso-motoria nell'eta' infantile;  
+5) legislazione sanitaria.  
+Art. 164. - L'intero corso di studi e' costituito da lezioni pratiche e teoriche ed esercitazioni e dall'obbligo per gli allievi, dell'internato per l'intero periodo di corso di studi nella clinica oculistica. La frequenza viene comprovata dall'attestazione rilasciata sul libretto d'iscrizione dagli insegnanti e per l'attivita' pratica dal direttore della scuola.  
+L'attestazione di frequenza e di attivita' pratica e' indispensabile ai fini dell'ammissione agli esami.  
+Art. 165. - Alla fine di ogni anno gli allievi devono sostenere un esame sulle materie di insegnamento. Nel caso in cui i candidati non abbiano superato gli esami prescritti, essi rimarranno nella posizione di "fuori corso".  
+Art. 166. - Gli esami di profitto consistono in prove teoriche e pratiche.  
+Art. 167. - Alla fine del corso gli allievi devono sostenere un esame di diploma che consiste nella discussione di una tesi scritta su un argomento riguardante le materie di insegnamento, assegnata dal direttore della scuola, e in una prova pratica stabilita da una commissione esaminatrice. I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola, ma se al secondo anno non sia loro riconosciuta la idoneita', saranno senz'altro esclusi da ulteriori prove.  
+Agli allievi che avranno superato l'esame finale verra' rilasciato un diploma di ortottista-assistente di oftalmologia.  
+Art. 168. - Gli esami di profitto e di diploma si danno in due sessioni, la prima, estiva, che ha inizio subito dopo la chiusura annuale dei corsi e la seconda, autunnale, nel mese che precede l'inizio del nuovo anno accademico.  
+Art. 169. - Le commissioni per gli esami di ammissione e di diploma sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della clinica. Le commissioni per gli esami (i ammissione e di profitto sono composte da tre membri direttore della scuola, presidente, e da due insegnanti della scuola stessa. La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente e da quattro insegnanti della scuola stessa o da altri docenti.  
+Art. 170. - Il consiglio di amministrazione dell'Universita', su proposta della direzione della scuola, approvata dal consiglio di facolta', stabilira' di anno in anno l'ammontare dei contributi.  
+Le tasse sopratasse annuali a carico degli iscritti restano cosi' stabilite:  
   
-Capo I   
-  
-Scuola di specializzazione   
-in diritto ed economia della banca   
-  
-  
-Art. 94. - Alla facolta' di giurisprudenza e' annessa una scuola di specializzazione in diritto ed economia della banca, la quale si propone di promuovere la formazione scientifica e professionale nelle discipline bancarie.   
-Art. 95. - La durata del corso di specializzazione e' biennale. Gli insegnamenti, che sono di ampiezza non inferiore a un normale corso universitario e si svolgono secondo le modalita' e i tempi fissati annualmente dal consiglio direttivo della scuola, sono i seguenti:   
-1° Anno:   
-organizzazione e legislazione bancaria;   
-diritto privato bancario I (contratti tipici);   
-economia monetaria e creditizia;   
-tecnica bancaria;   
-tutela giuridica del credito ed esecuzione esattoriale;   
-titoli di credito;   
-diritto penale commerciale.   
-2° Anno:   
-diritto degli scambi internazionali;   
-diritto privato bancario II (contratti atipici e della legislazione speciale);   
-politica monetaria e finanziaria;   
-diritto delle procedure concorsuali;   
-legislazione e contratti di borsa;   
-economia e tecnica della borsa;   
-tecnica e diritto del bilancio.   
-Ogni corso di insegnamento si conclude con una prova di esame individuale, sostenuta davanti a una commissione formata da tre docenti e presieduta dal titolare dell'insegnamento, mentre gli altri membri della commissione sono nominati dal direttore della scuola.   
-L'insegnamento biennale ha due prove di esame.   
-La votazione e' in cinquantesimi.   
-La frequenza ai corsi e' obbligatoria.   
-Alla fine del biennio l'esame generale per il conseguimento del diploma di specializzazione consiste nella discussione su tre argomenti, di cui uno necessariamente giuridico ed un altro economico, assegnati con sorteggio al candidato alcuni giorni prima della prova di esame e sviluppati davanti alla commissione formata dai docenti di tutti i corsi.   
-La votazione e' in settantesimi.   
-Annualmente il consiglio direttivo della scuola potra' deliberare lo svolgimento di attivita' didattiche complementari su materie particolari anche non rientranti negli insegnamenti previsti nel presente statuto. La partecipazione alle stesse non e' obbligatoria, ma potra' costituire titolo liberamente valutabile dalla commissione in sede di esame finale di diploma.   
-Art. 96. - Possono accedere alla scuola i laureati in giurisprudenza o in economia e commercio o in scienze politiche o in scienze economiche e bancarie o in scienze bancarie e assicurative ovvero coloro che risultino in possesso di laurea riconosciuta equipollente dal consiglio direttivo della scuola.   
-Art. 97. - Il consiglio direttivo potra' annualmente stabilire un limite numerico massimo per le iscrizioni al primo anno, tenuto conto delle attrezzature didattiche e scientifiche della scuola e del numero di borse di studio disponibili per gli iscritti.   
-Art. 98. - I titolari degli insegnamenti e gli incaricati di attivita' didattiche complementari sono designati annualmente dal consiglio direttivo e nominati con decreto rettorale.   
-Il consiglio fissa i relativi compensi in rapporto alle disponibilita' del bilancio.   
-Art. 99. - La scuola e' retta da un consiglio presieduto dal direttore della scuola.   
-Il consiglio e' formato da otto membri, nominati dal consiglio di facolta' secondo i seguenti criteri:   
-un professore ufficiale di materie commercialistiche o privatistiche;   
-un professore ufficiale di materie economiche;   
-un terzo professore ufficiale;   
-due assistenti o contrattisti, proposti dai rappresentanti delle categorie interessate.   
-Un quinto membro e' eletto fra gli iscritti alla scuola attraverso apposita votazione degli stessi indetta dal consiglio direttivo.   
-Un altro membro, non appartenente alle categorie dei docenti della facolta' o degli iscritti alla scuola, e' nominato dagli enti pubblici o privati finanziatori.   
-E' infine membro di diritto il preside della facolta', che non potra' tuttavia essere nominato direttore della scuola.   
-Nelle votazioni, in caso di parita' di voti, prevale il voto del direttore della scuola.   
-I membri del consiglio durano in carica due anni e sono rieleggibili.   
-La mancata nomina di alcuni componenti il consiglio non inficia la validita' e il funzionamento dello stesso, purche' sia in carica la maggioranza dei suoi membri.   
-Spetta al consiglio direttivo decidere sulle questioni attinenti al funzionamento della scuola ed approva il bilancio annuale.   
-L'ammontare delle tasse, soprattasse e contributi della scuola di specializzazione in diritto ed economia della banca e' fissato negli importi pari a quelli stabiliti per il corso di laurea in giurisprudenza.   
-Il consiglio di facolta' nomina il direttore della scuola scegliendolo fra i professori membri del consiglio direttivo.   
-Il direttore ha la rappresentanza della scuola, convoca il consiglio direttivo per gli adempimenti statutari, formula gli ordini del giorno delle sue sedute, predispone per l'approvazione il bilancio annuale.   
-Art. 100. - I mezzi per il funzionamento della scuola sono tratti da contributi dell'Universita' e dello Stato, dalle sovvenzioni di enti pubblici e privati interessati, nonche' dalle tasse e contributi degli iscritti.   
-Sara' curata, per quanto possibile, l'istituzione di un adeguato numero di borse di studio per gli iscritti.   
+tassa di immatricolazione. . . . . . . . . . . . . . . . . . L. 5.000 tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 18.000 sopratassa annuale di esame. . . . . . . . . . . . . . . . . L. 7.000 sopratassa per esame di diploma. . . . . . . . . . . . . . . L. 3.000 tassa erariale di diploma. . . . . . . . . . . . . . . . . . L. 6.000 tassa annuale per iscrizione studenti fuori corso. . . . . . L. 5.000   
+Art. 171. - Al funzionamento della suddetta scuola si provvedera' con il provento delle tasse, sopratasse e contributi dovuti dagli iscritti e con eventuali elargizioni o contributi di enti pubblici o privati.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 6 marzo 1978
+### Dato a Roma, addi' 7 ottobre 1977
 
 LEONE MALFATTI
 
 Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 23 settembre 1978
+Registrato alla Corte dei conti, addi' 21 gennaio 1978
 
-Registro n. 104 Istruzione, foglio n. 280
+Registro n. 6 Istruzione, foglio n. 200

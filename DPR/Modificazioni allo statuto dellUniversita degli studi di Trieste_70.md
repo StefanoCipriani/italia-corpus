@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1972 n. 891
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 975
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1972 n. 891
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 975
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
@@ -10,193 +10,202 @@ Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, numero 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1988, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1988-09-30;1652) e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Dopo l'art. 124 seno inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in "Clinica pediatrica".
+Gli articoli 166, 167, 168, 169, 170 e 171, riguardanti la scuola di specializzazione in chirurgia vascolare, sono soppressi e sostituiti dai seguenti:
 
-Scuola di specializzazione in clinica pediatrica
+Scuola di specializzazione in chirurgia vascolare
 
-Art. 125. - Alla facolta' di medicina e chirurgia dell'Universita' di Trieste e' annessa una scuola di specializzazione in clinica pediatrica.
+Art. 166. - La scuola di specializzazione in chirurgia vascolare ha sede presso l'istituto di semeiotica chirurgica dell'Universita' di Trieste e conferisce il diploma di specialista in chirurgia vascolare.
 
-La durata della scuola e' di tre anni.
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
 
-L'ammissione alla scuola sara' fatta per esami e titoli.
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.
 
-Il numero massimo degli iscritti, in rapporto alle possibilita' didattiche ricettive della clinica e' di sei per anno per un totale di diciotto iscritti per i tre anni di corso.
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
 
-L'internato e' obbligatorio con non piu' di due mesi di ferie all'anno.
+Art. 167. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.
 
-L'iscrizione direttamente al secondo anno della scuola puo' essere consentita, a giudizio del consiglio della scuola, per i candidati che abbiano conseguito il diploma di specializzazione in puericultura e che abbiano titoli pediatrici.
+Art. 168. - Il numero massimo degli allievi e' di sei per anno di corso e complessivamente di trenta iscritti per l'intero corso di studi.
 
-La scuola ha sede presso l'istituto di clinica pediatrica dell'universita' che e' per statuto un istituto bi-cattedra (Cattedra di clinica pediatrica e cattedra di puericultura) ed e' situato nell'ambito dell'Istituto per l'infanzia Burlo Garofalo, istituto a carattere scientifico, ospedale specializzato pediatrico regionale.
+L'ammissione al corso avviene per titoli ed esami.
 
-Art. 126. - Le materie di insegnamento sono le seguenti:
+Art. 169. - Le materie di insegnamento sono le seguenti:
 
 1° Anno:
 
-1) Clinica pediatrica (triennale);
+embriologia, anatomia macro e microscopica dell'apparato vascolare;
 
-2) Patologia pediatrica (biennale);
+fisiopatologia dell'apparato vascolare e della coagulazione sanguigna;
 
-3) Puericultura (biennale);
+anatomia patologica dell'apparato vascolare;
 
-4) Semeiotica pediatrica e tecnica diagnostica (biennale);
+semeiologia fisica e strumentale delle malattie vascolari;
 
-5) Auxologia normale e patologica (annuale);
+semeiologia radiologica delle malattie vascolari;
 
-6) Psicologia dell'eta' evolutiva (annuale).
+vasculopatie di interesse medico e specialistico.
 
 2° Anno:
 
-1) Clinica pediatrica;
+patologia e clinica delle malattie del sistema arterioso;
 
-2) Patologia pediatrica;
+patologia e clinica delle malattie del sistema venoso;
 
-3) Puericultura;
+patologia e clinica delle malattie del sistema linfatico;
 
-4) Semeiotica pediatrica e tecnica diagnostica;
-
-5) Terapia pediatrica (annuale);
-
-6) Radiologia pediatrica (annuale);
-
-7) Malattie infettive dell'infanzia (annuale).
+patologia e clinica delle malattie dei piccoli vasi.
 
 3° Anno:
 
-1) Clinica
+nozioni di terapia medica delle malattie vascolari;
 
-2) Neuropsichiatria ed igiene mentale dell'infanzia.
+terapia chirurgica delle malattie vascolari;
 
-Le materie fondamentali sopraelencate saranno integrate a giudizio del consiglio di ciascuna scuola da almeno tre insegnamenti scelti tra i seguenti:
+chirurgia vascolare applicata a malattie dei vari organi I.
 
-Chirurgia pediatrica;
+4° Anno:
 
-Ortopedia e traumatologia infantile;
+informatica medica;
 
-Odontoiatria;
+rianimazione e terapia intensiva;
 
-Clinica dermosifilopatica;
+patologia e clinica vascolare pediatrica I;
 
-Clinica oculistica;
+epidemiologia delle malattie vascolari;
 
-Clinica otorinolaringoiatrica;
+elementi di legislazione sanitaria comunitaria;
 
-Cardiologia;
+chirurgia vascolare applicata a malattie dei vari organi II.
 
-Genetica,
+5° Anno:
 
-ed altre eventuali che il consiglio della scuola puo' stabilire di anno in anno.
+elementi di bioingegneria applicati al circolo;
 
-Il direttore della scuola, inoltre, puo' disporre che si tengano un certo numero di conferenze su argomenti di interesse pediatrico.
+principi e tecnica di circolazione extracorporea;
 
-Per conseguire il diploma di specializzazione in clinica pediatrica gli iscritti alla scuola, dopo aver superato tutti gli esami e completata la frequenza obbligatoria, dovranno presentare e discutere una dissertazione scritta su un argomento di pediatria.
+terapia intensiva;
+
+patologia e clinica vascolare pediatrica II;
+
+tecniche chirurgiche applicate alla patologia vascolare;
+
+chirurgia vascolare applicata a malattie dei vari organi III.
+
+Art. 170. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.
+
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+Art. 171. - Alla fine di ogni corso gli iscritti per essere ammessi gli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
+
+Al termine del corso di studi per il conseguimento del diploma di specialista in chirurgia vascolare gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione e dovranno sostenere una prova clinica.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 28 ottobre 1972
+Dato a Roma, addi' 31 ottobre 1978
 
-LEONE
+PERTINI
 
-SCALFARO
+PEDINI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BONIFACIO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 9 gennaio 1973 Atti di Governo, registro n. 255, foglio n. 8. - VALENTINI
+alla Corte dei conti, addi' 10 febbraio 1979 Registro n. 5 Istruzione, foglio n. 361
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, numero 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;   
+Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;   
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1988, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1988-09-30;1652) e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
 Decreta:   
   
 Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Gli articoli 166, 167, 168, 169, 170 e 171, riguardanti la scuola di specializzazione in chirurgia vascolare, sono soppressi e sostituiti dai seguenti:   
   
-Dopo l'art. 124 seno inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in "Clinica pediatrica".   
-  
-Scuola di specializzazione in clinica pediatrica   
-  
-Art. 125. - Alla facolta' di medicina e chirurgia dell'Universita' di Trieste e' annessa una scuola di specializzazione in clinica pediatrica.   
-La durata della scuola e' di tre anni.   
-L'ammissione alla scuola sara' fatta per esami e titoli.   
-Il numero massimo degli iscritti, in rapporto alle possibilita' didattiche ricettive della clinica e' di sei per anno per un totale di diciotto iscritti per i tre anni di corso.   
-L'internato e' obbligatorio con non piu' di due mesi di ferie all'anno.   
-L'iscrizione direttamente al secondo anno della scuola puo' essere consentita, a giudizio del consiglio della scuola, per i candidati che abbiano conseguito il diploma di specializzazione in puericultura e che abbiano titoli pediatrici.   
-La scuola ha sede presso l'istituto di clinica pediatrica dell'universita' che e' per statuto un istituto bi-cattedra (Cattedra di clinica pediatrica e cattedra di puericultura) ed e' situato nell'ambito dell'Istituto per l'infanzia Burlo Garofalo, istituto a carattere scientifico, ospedale specializzato pediatrico regionale.   
-Art. 126. - Le materie di insegnamento sono le seguenti:   
+Scuola di specializzazione in chirurgia vascolare   
+Art. 166. - La scuola di specializzazione in chirurgia vascolare ha sede presso l'istituto di semeiotica chirurgica dell'Universita' di Trieste e conferisce il diploma di specialista in chirurgia vascolare.   
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+Art. 167. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.   
+Art. 168. - Il numero massimo degli allievi e' di sei per anno di corso e complessivamente di trenta iscritti per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli ed esami.   
+Art. 169. - Le materie di insegnamento sono le seguenti:   
 1° Anno:   
-1) Clinica pediatrica (triennale);   
-2) Patologia pediatrica (biennale);   
-3) Puericultura (biennale);   
-4) Semeiotica pediatrica e tecnica diagnostica (biennale);   
-5) Auxologia normale e patologica (annuale);   
-6) Psicologia dell'eta' evolutiva (annuale).   
+embriologia, anatomia macro e microscopica dell'apparato vascolare;   
+fisiopatologia dell'apparato vascolare e della coagulazione sanguigna;   
+anatomia patologica dell'apparato vascolare;   
+semeiologia fisica e strumentale delle malattie vascolari;   
+semeiologia radiologica delle malattie vascolari;   
+vasculopatie di interesse medico e specialistico.   
 2° Anno:   
-1) Clinica pediatrica;   
-2) Patologia pediatrica;   
-3) Puericultura;   
-4) Semeiotica pediatrica e tecnica diagnostica;   
-5) Terapia pediatrica (annuale);   
-6) Radiologia pediatrica (annuale);   
-7) Malattie infettive dell'infanzia (annuale).   
+patologia e clinica delle malattie del sistema arterioso;   
+patologia e clinica delle malattie del sistema venoso;   
+patologia e clinica delle malattie del sistema linfatico;   
+patologia e clinica delle malattie dei piccoli vasi.   
 3° Anno:   
-1) Clinica   
-2) Neuropsichiatria ed igiene mentale dell'infanzia.   
-Le materie fondamentali sopraelencate saranno integrate a giudizio del consiglio di ciascuna scuola da almeno tre insegnamenti scelti tra i seguenti:   
-  
-Chirurgia pediatrica;   
-Ortopedia e traumatologia infantile;   
-Odontoiatria;   
-Clinica dermosifilopatica;   
-Clinica oculistica;   
-Clinica otorinolaringoiatrica;   
-Cardiologia;   
-Genetica,   
-ed altre eventuali che il consiglio della scuola puo' stabilire di anno in anno.   
-Il direttore della scuola, inoltre, puo' disporre che si tengano un certo numero di conferenze su argomenti di interesse pediatrico.   
-Per conseguire il diploma di specializzazione in clinica pediatrica gli iscritti alla scuola, dopo aver superato tutti gli esami e completata la frequenza obbligatoria, dovranno presentare e discutere una dissertazione scritta su un argomento di pediatria.   
+nozioni di terapia medica delle malattie vascolari;   
+terapia chirurgica delle malattie vascolari;   
+chirurgia vascolare applicata a malattie dei vari organi I.   
+4° Anno:   
+informatica medica;   
+rianimazione e terapia intensiva;   
+patologia e clinica vascolare pediatrica I;   
+epidemiologia delle malattie vascolari;   
+elementi di legislazione sanitaria comunitaria;   
+chirurgia vascolare applicata a malattie dei vari organi II.   
+5° Anno:   
+elementi di bioingegneria applicati al circolo;   
+principi e tecnica di circolazione extracorporea;   
+terapia intensiva;   
+patologia e clinica vascolare pediatrica II;   
+tecniche chirurgiche applicate alla patologia vascolare;   
+chirurgia vascolare applicata a malattie dei vari organi III.   
+Art. 170. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.   
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
+Art. 171. - Alla fine di ogni corso gli iscritti per essere ammessi gli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.   
+Al termine del corso di studi per il conseguimento del diploma di specialista in chirurgia vascolare gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione e dovranno sostenere una prova clinica.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1972
+### Dato a Roma, addi' 31 ottobre 1978
 
-LEONE SCALFARO
+PERTINI PEDINI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 9 gennaio 1973
+Registrato alla Corte dei conti, addi' 10 febbraio 1979
 
-Atti di Governo, registro n. 255, foglio n. 8. - VALENTINI
+Registro n. 5 Istruzione, foglio n. 361

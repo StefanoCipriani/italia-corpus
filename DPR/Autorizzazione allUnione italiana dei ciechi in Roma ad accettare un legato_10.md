@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 139
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 152
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 139
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1982 n. 152
 ===============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare un legato.
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-139. Decreto del Presidente della Repubblica 26 febbraio 1932, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il legato disposto dalla sig.na Elvira Castagnola con testamento olografo 30 gennaio 1972, pubblicato a rogito dott.  
-Marco Cagnole, notaio in Genova, in data 31 gennaio 1978, n. 10959 di repertorio e registrato a Chiavari (Genova) il 14 febbraio 1978, vol. 238, n. 1209, consistente in beni immobili siti in Chiavari per un valore complessivo dichiarato di L. 71.140.000, elevato dall'ufficio tecnico erariale di Genova a L. 113.000.000.  
+152. Decreto del Presidente della Repubblica 26 febbraio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il legato disposto dal sig. Mensa Euclide con testamento olografo 10 gennaio 1969 pubblicato a rogito dott. Carlo Vicario, notaio in Torino, in data 31 luglio 1975, n. 111500 di repertorio e n. 18540 di raccolta, registrato a Torino il 20 agosto 1975 al n. 22473, vol. 1302, consistente in 700 azioni FIAT ordinarie del valore nominale complessivo di L. 350.000.  
   
 Visto, il Guardasigilli: DARIDA  
 Registrato alla Corte dei conti, addi' 31 marzo 1982  
-Registro n. 3 Presidenza, foglio n. 123
+Registro n. 3 Presidenza, foglio n. 112

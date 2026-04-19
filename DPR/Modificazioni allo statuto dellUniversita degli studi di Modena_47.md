@@ -1,77 +1,53 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1977 n. 576
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1979 n. 736
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1977 n. 576
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1979 n. 736
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Modena.
 ------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Modena e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+A proposta del Ministro della pubblica istruzione; Decreta:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Modena, e convalidati dal Consiglio superiore della pubblica istruzione;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Dopo l'art. 258, e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in cardiologia:  
-Art. 259. - La scuola di specializzazione in cardiologia ha sede presso la cattedra di malattie dell'apparato cardiovascolare dell'Universita' di Modena e conferisce il diploma di specialista in cardiologia.  
-Art. 260. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo di malattie dell'apparato cardiovascolare.  
-Art. 261. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia in possesso del diploma di abilitazione all'esercizio professionale rilasciato dalla autorita' competente.  
-Art. 262. - La durata del corso di studi e' di 4 anni e non e' suscettibile di abbreviazioni.  
-Art. 263. - Il numero massimo degli allievi e' di dieci per anno di corso, e complessivamente di quaranta iscritti per l'intero corso di studi.  
-Art. 264. - L'ammissione al corso avviene per titoli ed esami.  
-Art. 265. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-1) anatomia umana normale ed embriologia dell'apparato cardiovascolare;  
-2) fisiologia dell'apparato cardiovascolare (I);  
-3) biochimica e biofisica;  
-4) semeiotica fisica e strumentale dell'apparato cardiovascolare (I);  
-5) informatica medica e strumentazione biomedica (I).  
-2° Anno:  
-1) anatomia patologica (I);  
-2) fisiologia dell'apparato cardiovascolare (II);  
-3) patologia e clinica cardiovascolare (I);  
-4) semeiotica fisica e strumentale dell'apparato cardiovascolare (II);  
-5) informatica medica e strumentazione biomedica (II);  
-6) radiologia (I);  
-7) aspetti sociali ed epidemiologici delle malattie cardiovascolari.  
-3° Anno:  
-1) anatomia patologica (II);  
-2) semeiotica fisica e strumentale dell'apparato cardiovascolare (III);  
-3) patologia e clinica cardiovascolare (II);  
-4) radiologia (II);  
-5) terapia medica e farmacologia clinica (I).  
-4° Anno:  
-1) semeiotica fisica e strumentale dell'apparato cardiovascolare (IV);  
-2) patologia e clinica cardiovascolare (III);  
-3) terapia medica e farmacologia clinica (II);  
-4) terapia chirurgica;  
-5) terapie intensive cardiologiche.  
-Art. 266. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
-Art. 267. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno.  
-Al termine del corso di studi per il conseguimento del diploma di specialista in cardiologia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento di carattere cardiologico.  
+L'art. 254 dello statuto dell'Universita' di Modena, relativo al corso di perfezionamento in fisica, e' sostituito dal seguente:  
+"Presso la facolta' di scienze matematiche, fisiche e naturali, e' istituito un corso di perfezionamento in fisica ad indirizzo didattico il quale conduce al conseguimento ·di un attestato di perfezionamento in fisica ad indirizzo didattico.  
+Il corso ha lo scopo di approfondire la conoscenza dei problemi della didattica della fisica e di fornire esperienze nell'insegnamento della fisica.  
+Esso ha anche lo scopo di organizzare corsi di aggiornamento per docenti e di sviluppare gli studi sui problemi della didattica della fisica".  
+L'art. 258 e' sostituito dal seguente:  
+"Il corso comprende i seguenti insegnamenti: critica dei fondamenti della fisica generale; complementi di fisica generale; didattica della fisica; storia della fisica; aggiornamento sugli sviluppi della fisica; esperienze didattiche con laboratorio.  
+Esso consiste in lezioni teoriche ed esercitazioni, da tenere queste ultime anche presso scuole, previo accordo con le autorita' competenti, puo' mutuare insegnamenti della facolta' di scienze matematiche, fisiche e naturali ed eventualmente anche di altre facolta', su parere del consiglio di facolta'".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 maggio 1977
+### Dato a Roma, addi' 30 ottobre 1979
 
-LEONE MALFATTI
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 30 luglio 1977
+Registrato alla Corte dei conti, addi' 22 gennaio 1980
 
-Registro n. 92 Istruzione, foglio n. 25
+Registro n. 3 Istruzione, foglio n. 323

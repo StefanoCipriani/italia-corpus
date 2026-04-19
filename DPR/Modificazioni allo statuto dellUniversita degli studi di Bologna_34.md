@@ -1,84 +1,18 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1954 n. 1457
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 febbraio 1974 n. 585
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1954 n. 1457
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 febbraio 1974 n. 585
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), modificato con [regi decreti 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-12;2227); [4 settembre 1930, n. 1312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-09-04;1312); [1 ottobre 1931, n. 1778](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1778); [27 ottobre 1932, n. 2092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2092); [6 dicembre 1934, n. 2394](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2394); [1 ottobre 1936, n. 2502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2502); [12 maggio 1939, n. 1315](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-05-12;1315); [5 ottobre 1939, n. 1644](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1644); [11 luglio 1941, n. 848](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-07-11;848); [18 luglio 1942, n. 928](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-18;928); [24 novembre 1942, n. 1595; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-11-24;1595) [16 maggio 1947, n. 694; e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-05-16;694) [22 febbraio 1948, n. 414](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-02-22;414); [30 luglio 1950, n. 1268](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-07-30;1268); [31 ottobre 1950, n. 1307](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1307); [5 agosto 1951, n. 1311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-05;1311); [27 ottobre 1951, n. 1792](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1792); [3 ottobre 1952, n. 4541](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-03;4541); 11 marzo 1953, n: 545; 12 maggio 1953, n. 547; 30 giugno 1954, n. 742; 30 giugno 1954, n. 755 e 14 agosto 1954, n. 862;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Dopo l'art. 179 sono aggiunti i seguenti nuovi articoli con il conseguente spostamento della numerazione degli articoli successivi:
-
-Art. 180. - Alla Facolta' di medicina veterinaria e' annesso l'istituto di fecondazione artificiale degli animali domestici.
-
-Art. 181. - L'Istituto ha sede nei locali ad esso destinati dal Consiglio di amministrazione dell'Universita' su proposta della Facolta' di medicina veterinaria.
-
-Art. 182. - Compiti dell'Istituto sono:
-
-a) la ricerca scientifica circa i problemi connessi con la fecondazione artificiale;
-
-b) la tecnica della raccolta, valutazione, conservazione e trasporto a distanza del liquido seminale.
-
-Art. 183. - L'Istituto fara' funzionare un centro per la fecondazione artificiale degli animali domestici con sede nei locali destinati all'Istituto medesimo.
-
-Il centro sara' in collegamento didattico con gli istituti della Facolta' di medicina veterinaria ed in particolar modo con l'Istituto di ostetricia e ginecologia veterinaria per la preparazione dei veterinari alla tecnica ostetrica ginecologica e all'applicazione pratica della fecondazione artificiale.
-
-Il centro potra' avere sezioni staccate ovunque il Consiglio di amministrazione dell'Universita', su proposta della Facolta' di medicina veterinaria, ne autorizzi l'istituzione.
-
-Art. 184. - Il direttore dell'Istituto e' nominato dal rettore su proposta del Consiglio della Facolta' di medicina veterinaria, udito il Consiglio di amministrazione.
-
-Il direttore rimarra' in carica tre anni e potra' essere riconfermato.
-
-Il direttore dell'Istituto sara' pure direttore dello annesso centro per la fecondazione artificiale degli animali domestici.
-
-Art. 185. - Per l'esercizio della propria attivita' o di quella dell'annesso centro, l'Istituto potra' valersi dell'opera di assistenti universitari straordinari e di personale salariato. La relativa spesa gravera' sui fondi a disposizione dell'Istituto.
-
-Art. 186. - La destinazione dei proventi derivanti dalle attivita' dell'Istituto detratte le spese di qualsiasi natura e specie, sara' determinata dal Consiglio di amministrazione dell'Universita' su proposta della Facolta' di medicina veterinaria.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Dogliani, addi' 29 ottobre 1954
-
-EINAUDI
-
-ERMINI
-
-Visto, il Guardasigilli: DE PIETRO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 14 marzo 1955 Atti dei Governo, registro n. 89, foglio n. 97. - CARLOMAGNO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), modificato con [regi decreti 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-12;2227); [4 settembre 1930, n. 1312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-09-04;1312); [1 ottobre 1931, n. 1778](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1778); [27 ottobre 1932, n. 2092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2092); [6 dicembre 1934, n. 2394](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2394); [1 ottobre 1936, n. 2502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2502); [12 maggio 1939, n. 1315](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-05-12;1315); [5 ottobre 1939, n. 1644](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1644); [11 luglio 1941, n. 848](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-07-11;848); [18 luglio 1942, n. 928](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-18;928); [24 novembre 1942, n. 1595; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-11-24;1595) [16 maggio 1947, n. 694; e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-05-16;694) [22 febbraio 1948, n. 414](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-02-22;414); [30 luglio 1950, n. 1268](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-07-30;1268); [31 ottobre 1950, n. 1307](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1307); [5 agosto 1951, n. 1311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-05;1311); [27 ottobre 1951, n. 1792](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1792); [3 ottobre 1952, n. 4541](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-03;4541); 11 marzo 1953, n: 545; 12 maggio 1953, n. 547; 30 giugno 1954, n. 742; 30 giugno 1954, n. 755 e 14 agosto 1954, n. 862;  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
@@ -90,31 +24,74 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Dopo l'art. 179 sono aggiunti i seguenti nuovi articoli con il conseguente spostamento della numerazione degli articoli successivi:  
-Art. 180. - Alla Facolta' di medicina veterinaria e' annesso l'istituto di fecondazione artificiale degli animali domestici.  
-Art. 181. - L'Istituto ha sede nei locali ad esso destinati dal Consiglio di amministrazione dell'Universita' su proposta della Facolta' di medicina veterinaria.  
-Art. 182. - Compiti dell'Istituto sono:  
-a) la ricerca scientifica circa i problemi connessi con la fecondazione artificiale;  
-b) la tecnica della raccolta, valutazione, conservazione e trasporto a distanza del liquido seminale.  
-Art. 183. - L'Istituto fara' funzionare un centro per la fecondazione artificiale degli animali domestici con sede nei locali destinati all'Istituto medesimo.  
-Il centro sara' in collegamento didattico con gli istituti della Facolta' di medicina veterinaria ed in particolar modo con l'Istituto di ostetricia e ginecologia veterinaria per la preparazione dei veterinari alla tecnica ostetrica ginecologica e all'applicazione pratica della fecondazione artificiale.  
-Il centro potra' avere sezioni staccate ovunque il Consiglio di amministrazione dell'Universita', su proposta della Facolta' di medicina veterinaria, ne autorizzi l'istituzione.  
-Art. 184. - Il direttore dell'Istituto e' nominato dal rettore su proposta del Consiglio della Facolta' di medicina veterinaria, udito il Consiglio di amministrazione.  
-Il direttore rimarra' in carica tre anni e potra' essere riconfermato.  
-Il direttore dell'Istituto sara' pure direttore dello annesso centro per la fecondazione artificiale degli animali domestici.  
-Art. 185. - Per l'esercizio della propria attivita' o di quella dell'annesso centro, l'Istituto potra' valersi dell'opera di assistenti universitari straordinari e di personale salariato. La relativa spesa gravera' sui fondi a disposizione dell'Istituto.  
-Art. 186. - La destinazione dei proventi derivanti dalle attivita' dell'Istituto detratte le spese di qualsiasi natura e specie, sara' determinata dal Consiglio di amministrazione dell'Universita' su proposta della Facolta' di medicina veterinaria.  
+  
+Presso la facolta' di medicina veterinaria sono aggiunti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in biochimica marina, con il conseguente spostamento della numerazione degli articoli successivi.  
+  
+Scuola di specializzazione in biochimica marina  
+  
+Art. 422. - Presso la facolta' di medicina veterinaria e' istituita una scuola biennale di specializzazione in biochimica marina.  
+Art. 423. - Scopo della scuola e' quello di fornire agli iscritti le cognizioni scientifiche e tecniche necessarie per svolgere l'attivita' di biochimico nel campo dell'ecologia marina, della produttivita', del controllo igienico-sanitario, di qualita' e delle utilizzazioni industriali delle risorse biologiche marine.  
+La scuola conferira' a tal fine il diploma di specialista in biochimica marina ai sensi dell'art. 196 del presente statuto.  
+Art. 424. - Direttore della scuola e' il titolare della cattedra di biochimica della facolta' di medicina veterinaria dell'Universita' di Bologna, o in mancanza, un professore di ruolo nominato dalla facolta' di medicina veterinaria per un anno e sempre riconfermabile.  
+A norma dell'art. 186 egli presiede il consiglio della scuola, vigila sul buon funzionamento di essa ed e' tenuto a dare comunicazione al preside della facolta' di medicina veterinaria di tutti gli atti e di tutte le deliberazioni del consiglio da lui presieduto.  
+Art. 425. - Alla scuola possono iscriversi i laureati in medicina veterinaria, chimica, chimica industriale, scienze biologiche, scienze naturali, farmacia, scienze agrarie, scienza delle produzioni animali, chimica e tecnologie farmaceutiche, scienze geologiche, medicina e chirurgia.  
+Il numero massimo degli iscritti viene stabilito dal consiglio della scuola ed approvato dal consiglio di facolta'.  
+Art. 426. - Per il conseguimento del titolo di specialista e' obbligatoria la frequenza alle lezioni, alle esercitazioni, alle conferenze, ai colloqui tenuti espressamente per il corso in oggetto.  
+E' altresi' obbligatorio l'internato della durata di sei mesi.  
+L'internato potra' essere svolto presso l'istituto di biochimica o il laboratorio di biochimica marina del centro studi di Cesenatico o in altro istituto o laboratorio previa approvazione del consiglio.  
+Art. 427. - Gli insegnamenti avranno carattere cattedratico e potranno essere svolti in quella diversa forma ed in quella sede che le esigenze di ciascuna disciplina consigliano.  
+Art. 428. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
+  
+1° Anno:  
+Oceanografia fisica e chimica;  
+Biochimica dei vegetali acquatici;  
+Biochimica degli animali acquatici;  
+Biochimica analitica;  
+Istochimica;  
+Biochimica ecologica;  
+  
+2° Anno:  
+Chimica fisiologica degli animali acquatici;  
+Biochimica dei prodotti della pesca;  
+Biochimica microbiologica;  
+Patologia biochimica degli animali acquatici;  
+Biochimica farmacologica e tossicologica;  
+Biochimica applicata alle zone di pesca.  
+  
+Art. 429. - I docenti dei singoli insegnamenti sono nominati per incarico, anno per anno, dal consiglio di facolta' su proposta del direttore della scuola.  
+Art. 430. - Alla fine del 1° anno si sostengono i seguenti esami di profitto:  
+  
+Oceanografia fisica e chimica;  
+Biochimica dei vegetali acquatici;  
+Biochimica degli animali acquatici;  
+Biochimica analitica;  
+Istochimica;  
+Biochimica ecologica.  
+  
+Alla fine del 2° anno si sostengono i seguenti esami di profitto:  
+  
+Chimica fisiologica degli animali acquatici;  
+Biochimica dei prodotti della pesca;  
+Biochimica microbiologica;  
+Patologia biochimica degli animali acquatici;  
+Biochimica farmacologica e tossicologica;  
+Biochimica applicata alle zone di pesca.  
+  
+Art. 431. - L'esame di diploma consiste nella discussione di una dissertazione scritta svolta dal candidato si argomento da lui scelto con approvazione del direttore della scuola, di fronte alla commissione di diploma costituita a norma dell'art. 191, primo comma, dello statuto dell'Universita' di Bologna.  
+Art. 432. - Le tasse e sopratasse da pagarsi dagli iscritti alla scuola sono le stesse stabilite dalla legge per gli iscritti alla facolta' di medicina veterinaria.  
+Il contributo annuo che gli iscritti debbono corrispondere per le esercitazioni pratiche e per le prestazioni di qualunque natura di cui usufruiscono durante l'anno di studio, e' stabilito anno per anno dal consiglio di amministrazione dell'Universita', uditi il consiglio di facolta' e il senato accademico.  
+Art. 433. - Al finanziamento della scuola viene provveduto oltre che con introiti di cui all'articolo precedente, con eventuali contributi dei Ministeri interessati e del consorzio per il centro universitario di studi e ricerche sulle risorse biologiche marine di Cesenatico che intendono cooperare all'attuazione dei fini che la scuola si propone di conseguire.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Dogliani, addi' 29 ottobre 1954
+### Dato a Roma, addi' 22 febbraio 1974
 
-EINAUDI ERMINI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: DE PIETRO
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 14 marzo 1955
+Registrato alla Corte dei conti, addi' 21 novembre 1974
 
-Atti dei Governo, registro n. 89, foglio n. 97. - CARLOMAGNO
+Atti di Governo, registro n. 7, foglio n. 2. - SCIARRETTA

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1980 n. 124
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 febbraio 1979 n. 119
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1980 n. 124
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 febbraio 1979 n. 119
 ===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-124. Decreto del Presidente della Repubblica 7 febbraio 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 3.000.000, disposto dalla sig.ra Lodovina Pirro ved. Casaro con testamento pubblico 30 gennaio 1975, pubblicato in data 8 luglio 1975, n. 10457 di repertorio a rogito dott. Enrico Storto, notaio in Moncalieri (Torino), registrato a Moncalieri in data 11 luglio 1975, n. 2390, vol. 87.  
+119. Decreto del Presidente della Repubblica 19 febbraio 1979, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Zelmira Bianchi ved. Bottarelli a favore dell'istituto don Gnocchi per i mutilatini, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", con testamento pubblico del 18 giugno 1968 del notaio dott. Antonio Viglino e pubblicato dallo stesso notaio con verbale di registrazione di testamento pubblico del 31 ottobre 1968, n. 11476 di repertorio e n. 2383 di raccolta, registrato ad Arona il 18 novembre 1968, al n. 985, vol. 139, mod. 1, consistente nella somma di L. 500.000.  
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 31 marzo 1980  
-Registro n. 3 Presidenza, foglio n. 2
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 6 aprile 1979  
+Registro n. 3 Presidenza, foglio n. 60

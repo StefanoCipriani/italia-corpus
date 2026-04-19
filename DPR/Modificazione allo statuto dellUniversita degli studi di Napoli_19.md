@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1071
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1075
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1071
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1075
 ================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Napoli.
@@ -39,9 +39,8 @@ Articolo unico
 --------------
 
   
-All'art. 129, relativo al corso di laurea in medicina e chirurgia della prima facolta' di medicina e chirurgia, nell'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-indagini diagnostiche in anestesiologia;  
-tecnica e diagnostica delle autopsie.  
+Nell'art. 111, relativo al corso di laurea in sociologia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento complementare:  
+sociologia del mutamento.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
@@ -57,4 +56,4 @@ Visto, il Guardasigilli: MARTINAZZOLI
 
 Registrato alla Corte dei conti, addi' 28 aprile 1986
 
-Registro n. 33 Istruzione, foglio n. 68
+Registro n. 33 Istruzione, foglio n. 65

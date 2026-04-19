@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1964 n. 519
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 marzo 1966 n. 401
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1964 n. 519
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 marzo 1966 n. 401
+============================================================
 
 Autorizzazione all'Unione italiana dei ciechi ad accettare un legato.
 ---------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-519. Decreto del Presidente della Repubblica 4 maggio 1964, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, viene autorizzata ad accettare il legato disposto dal defunto sig. Tremolada Marco Beniamino, con testamento olografo del 30 ottobre 1961, pubblicato e depositato per atto a rogito notaio dott. Giuseppe Gallizia di Milano in data 20 aprile 1962, n. 62199/ 22544 di repertorio e n. 16994 di archivio.  
+401. Decreto del Presidente della Repubblica 3 marzo 1966, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi viene autorizzata ad accettare un legato disposto dal defunto rag. Guido Torre, con testamento pubblico a rogito dott. Giovanni Ghione, notaio in Torino, dell'11 ottobre 1962, n. 452 di repertorio, consistente in buoni del Tesoro novennali 5% del valore di L. 10.000.000 (diecimilioni) in favore della sezione piemontese dell'Unione stessa.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 27 giugno 1964  
-Atti del Governo, registro n. 184, foglio n. 65. - VILLA
+Registrato alla Corte dei conti, addi' 4 giugno 1966  
+Atti del Governo, registro n. 203, foglio n. 113. - VILLA

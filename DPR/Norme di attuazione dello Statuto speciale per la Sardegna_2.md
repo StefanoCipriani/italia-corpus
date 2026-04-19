@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1949 n. 250
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1950 n. 327
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1949 n. 250
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1950 n. 327
 =============================================================
 
 Norme di attuazione dello Statuto speciale per la Sardegna.
@@ -12,11 +12,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
 
-Visto lo Statuto speciale per la Sardegna, approvato con [legge costituzionale 26 febbraio 1948, n. 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;3);
+Visto lo Statuto speciale per la Sardegna, approvato con legge costituzione 26 febbraio 1948, n. 3;
 
-Visto le proposte presentate dalla Commissione paritetica di cui all'art. 56 dello Statuto predetto;
+Visto il [decreto Presidenziale 19 maggio 1949, n. 250](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-05-19;250);
 
-Udito il parere della Consulta regionale sarda;
+Viste le proposte presentate dalla Commissione paritetica di cui all'art. 56 dello Statuto predetto;
+
+Udito il parere del Consiglio regionale sardo;
 
 Udito il parere della Corte dei conti a sezioni riunite;
 
@@ -25,488 +27,282 @@ Sentito il Consiglio dei Ministri;
 Sulla
 -----
 
-proposta del Presidente del Consiglio dei Ministri, di concerto con i Ministri per l'interno, per le finanze, per il tesoro, per i lavori pubblici e per i trasporti; Decreta:
+proposta del Presidente del Consiglio dei Ministri, di concerto con i Ministri per l'interno, per la grazia e giustizia, per le finanze, per il tesoro, per i lavori pubblici, per l'agricoltura e foreste, per l'industria e il commercio e per i trasporti; Decreta:
 
-CAPO I CAPO I Consiglio regionale
----------------------------------
-
-### Art. 1
+Art. 1
+------
 
   
-Il Consiglio regionale sardo si raduna in Cagliari in sessione ordinaria, nei mesi di febbraio, giugno e ottobre.
+Il rinvio di leggi approvate dal Consiglio regionale, nei casi previsti dall'art. 33, comma primo, dello Statuto speciale per la Sardegna, e' fatto dal Presidente del Consiglio dei Ministri per il tramite del Rappresentante del Governo.  
+La comunicazione del Rappresentante del Governo, contenente l'indicazione dei motivi per i quali si fa luogo al rinvio, e' diretta al Presidente del Consiglio regionale, che ne accusa ricevuta.  
 
-((2))
-
-  
-La convocazione in sessione straordinaria e' disposta dal Presidente del Consiglio e deve aver luogo in ogni caso entro dieci giorni dalla data in cui sia pervenuta alla Presidenza la richiesta di cui all'art. 20, secondo comma, dello Statuto speciale per la Sardegna.  
-
----------------
-
-AGGIORNAMENTO(2)
-
-La Corte Costituzionale, con sentenza 29 giugno-16 luglio 1956 n. 20 (in G.U. 1a s.s. 21/07/1956, n. 181) ha dichiarato "la illegittimita' costituzionale della norma contenuta nel [primo comma dell'art. 1 del decreto del Presidente della Repubblica 19 maggio 1949, n. 250](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-05-19;250~art1-com1) (Norme di attuazione dello Statuto speciale per la Sardegna)".
-
-### Art. 2
+Art. 2
+------
 
   
-Le norme relative alla diramazione degli avvisi di convocazione, all'ordine delle discussioni e delle rotazioni e alla polizia delle adunanze sono stabilite dal regolamento interno, da approvarsi dal Consiglio regionale a termini dell'art. 19 dello Statuto speciale per la Sardegna.  
+Qualora prima dell'entrata in funzione della Corte Costituzionale, si debba promuovere la questione di legittimita' di una legge per la seconda volta approvata dal Consiglio regionale, il Presidente del Consiglio dei Ministri, nel termine stabilito dall'art. 33, comma secondo dello Statuto speciale, ne da' comunicazione al Presidente della Giunta regionale, per il tramite del Rappresentante del Governo, con l'indicazione sommaria dei motivi. Il Presidente della Giunta regionale accusa ricevuta della comunicazione.  
+Se entro quindici giorni dall'entrata in funzione della Corte Costituzionale, o nel diverso termine che sia stabilito dalle norme per il funzionamento della Corte stessa, non venga proposto ricorso per la questione di legittimita', cessa l'efficacia della predetta comunicazione e il Presidente della Giunta regionale puo' provvedere alla promulgazione della legge.  
 
-### Art. 3
-
-  
-Alla prima adunanza del Consiglio regionale e' invitato il Rappresentante del Governo.  
-Il presidente dell'adunanza presta giuramento pronunciando le parole: "Giuro di essere fedele alla Repubblica e di esercitare il mio ufficio al solo scopo del bene inseparabile dello Stato e della Regione". Egli invita quindi i presenti a prestare il medesimo giuramento e a tale scopo fa, in ordine alfabetico, l'appello dei consiglieri, i quali ad uno ad uno rispondono:  
-"Giuro".  
-Se per giustificato impedimento un consigliere non ha giurato, il giuramento puo' da lui prestarsi in seguito. L'esercizio delle funzioni di consigliere e' condizionato alla prestazione del giuramento.  
-Dell'avvenuto giuramento deve esser fatta espressa menzione nel verbale della seduta. Una, copia del verbale e' rimasta al Rappresentante del Governo.  
-
-### Art. 4
+Art. 3
+------
 
   
-Oltre le funzioni legislative e regolamentari di cui all'art. 27 dello Statuto speciale per la Sardegna, sono di competenza del Consiglio regionale:  
-a) la formulazione di voti e proposte di leggi al Parlamento;  
-b) l'approvazione del bilancio preventivo e degli storni da un capitolo all'altro del bilancio stesso, nonche' del conto consuntivo;  
-c) l'istituzione di tributi regionali di cui all'art. 8 dello Statuto speciale per la Sardegna;  
-d) l'approvazione di piani di opere pubbliche di competenza della Regione e dei finanziamenti relativi;  
-e) la nomina di commissioni o di membri di commissioni, devoluta da leggi speciali alla Regione;  
-f) ogni altra deliberazione per la quale la legge richieda l'approvazione del Consiglio.  
+Quando su una legge per la seconda volta approvata dal Consiglio regionale si debba promuovere la questione di merito per contrasto d'interessi davanti alle Camere, il Presidente del Consiglio dei Ministri, nel termine stabilito dall'art. 33, comma secondo, dello Statuto speciale, ne da' comunicazione al Presidente della Giunta regionale, per il tramite del Rappresentante del Governo, con l'indicazione specifica dei motivi.  
+Il Presidente della Giunta regionale accusa ricevuta della comunicazione e puo', entro quindici giorni dalla comunicazione stessa, presentare per il tramite del Rappresentante del Governo le sue deduzioni.  
+Decorso il termine di cui al precedente comma, la questione di merito s'intende abbandonata e la legge puo' essere promulgata, se nei successivi quindici giorni le Camere non siano investite della questione.  
 
-CAPO II CAPO II Giunta regionale
---------------------------------
-
-### Art. 5
-
-((La giunta regionale e' composta del presidente e di dodici assessori.))
+Art. 4
+------
 
   
-Gli Assessori che non siano consiglieri regionali prestano giuramento ai sensi dell'art. 9 del presente decreto.  
-
-### Art. 6
-
-  
-Decadono dalla carica i membri della Giunta regionale che vengano a trovarsi in una delle condizioni di incompatibilita' previste dallo statuto speciale per la Sardegna relativamente alla funzione di Consigliere regionale.  
-La decadenza e' pronunziata dal Consiglio.  
-
-### Art. 7
-
-  
-La Giunta delibera con l'intervento del Presidente o di chi ne fa le veci e di almeno la meta' dei suoi componenti e a maggioranza assoluta di voti.  
-Le riunioni della Giunta non sono pubbliche.  
-
-### Art. 8
-
-  
-La Giunta regionale:  
-a) provvede all'esecuzione delle deliberazioni del Consiglio;  
-b) predispone il bilancio preventivo;  
-c) delibera gli storni di fondi da un articolo all'altro dello stesso capitolo del bilancio;  
-d) cura l'accertamento delle entrate e ne vigila la riscossione;  
-e) approva i progetti di lavori nei limiti dei piani di cui all'art. 4, lettera d);  
-f) approva i contratti della Regione;  
-g) delibera in materia di liti attive e passive;  
-h) nomina, colloca al riposo e revoca gli impiegati e salariati regionali;  
-i) esercita tutte le altre attribuzioni che non rientrino nella competenza del Consiglio e del Presidente della Giunta.  
-
-CAPO III CAPO III Presidente della Giunta regionale
----------------------------------------------------
-
-### Art. 9
-
-  
-Il Presidente della Giunta regionale e' eletto dal Consiglio in prima convocazione con l'intervento di almeno due terzi dei Consiglieri assegnati alla Regione.  
-In seconda convocazione, da indirsi entro il termine di otto giorni dalla mancata nomina in prima, convocazione, e' sufficiente l'intervento di meta' dei componenti del Consiglio.  
-
-### Art. 10
-
-  
-In caso di morte, dimissioni o decadenza del Presidente, l'adunanza in prima convocazione per la nomina del successore deve essere tenuta, entro quindici giorni dalla data in cui si e' prodotta la vacanza.  
-
-### Art. 11
-
-  
-Il Presidente della Giunta regionale:  
-a) rappresenta la Regione e ne firma gli atti;
-
-((2))
-
-  
-b) convoca e presiede la Giunta;  
-c) sovraintende a tutti gli uffici e servizi regionali;
-
-((2))
-
-  
-d) firma i titoli di spesa;
-
-((2))
-
-  
-e) promuove gli atti conservativi dei diritti della Regione e le azioni possessorie.  
-
----------------
-
-AGGIORNAMENTO(2)
-
-La Corte Costituzionale, con sentenza 29 giugno-16 luglio 1956 n. 20 (in G.U. 1a s.s. 21/07/1956, n. 181) ha dichiarato "la illegittimita' costituzionale delle norme contenute nell'[art. 11, lettere a](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-05-19;250~art11-leta), [c](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-05-19;250~art11-letc) [e](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-05-19;250~art11-lete) [d del D.P.R. 19 maggio 1949, n. 250](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-05-19;250~art11-letd)".
-
-### Art. 12
-
-  
-Gli Assessori preposti ai singoli rami dell'Amministrazione regionale ne dirigono l'attivita' e rispondono dei loro atti alla Giunta.  
-Il Presidente, con decreto da pubblicarsi sul Bollettino Ufficiale della Regione, potra' delegare in tutto o in parte ai singoli Assessori le proprie attribuzioni relativamente ai servizi cui essi sono preposti.  
-
-### Art. 13
-
-  
-Il Presidente designa un Assessore facente parte del Consiglio regionale quale incaricato di sostituirlo in caso di impedimento o di assenza, dandone notizia al Presidente del Consiglio regionale e al Rappresentante del Governo.  
-
-CAPO IV CAPO IV Leggi e regolamenti regionali
----------------------------------------------
-
-### Art. 14
-
-  
-Le comunicazioni al Governo, ai sensi e per i fini di cui all'art. 33 dello Statuto speciale per la Sardegna s'intendono avvenute col recapito al Rappresentante del Governo nella Regione dell'atto, in esemplare certificato conforme dal Presidente del Consiglio regionale, l'avvenuto recapito risultera' da avviso di ricevimento.  
-
-### Art. 15
-
-  
-La promulgazione delle leggi regionali ha luogo facendo precedere il testo delle leggi dalla formula:  
-Il Consiglio regionale ha approvato il Presidente della Giunta regionale promulga:  
-Al testo deve seguire la formula:  
-  
-La presente legge sara' pubblicata nel Bollettino Ufficiale della Regione.  
-E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione.  
-
-### Art. 16
-
-  
-((ARTICOLO ABROGATO DAL [D.P.R. 19 MAGGIO 1950, N. 327](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-05-19;327))  
-
-### Art. 17
-
-  
-La pubblicazione del Bollettino Ufficiale della Regione e' curata dalla Presidenza della Giunta regionale ed ha luogo normalmente all'inizio di ogni decade.  
-Il Bollettino Ufficiale e' diviso in tre parti:  
-nella prima sono pubblicati tutte le leggi e i regolamenti della Regione ed i decreti del Presidente della Giunta;  
-nella seconda sono pubblicati gli annunzi e gli altri avvisi prescritti dalle leggi e dai regolamenti vigenti nella Regione;  
-nella terza sono pubblicati gli annunzi e gli avvisi di cui, a norma delle disposizioni anteriori al presente decreto, e' obbligatoria la pubblicazione nei Fogli degli annunzi legali delle Province e quelli liberamente richiesti dagli interessati.  
-I Fogli degli annunzi legali delle Province sono, pertanto, sostituiti, a tutti gli effetti, dal Bollettino Ufficiale della Regione.  
-
-### Art. 18
-
-  
-Le leggi ed i regolamenti regionali debbono anche essere pubblicati per notizia nella Gazzetta Ufficiale della Repubblica italiana.  
-La pubblicazione e' gratuita.  
-
-CAPO V CAPO V Uffici regionali
-------------------------------
-
-### Art. 19
-
-  
-La Regione ha un Segretario generale, il quale sovraintende al funzionamento di tutti gli uffici regionali.
-
-((2))
-
----------------
-
-AGGIORNAMENTO(2)
-
-La Corte Costituzionale, con sentenza 29 giugno-16 luglio 1956 n. 20 (in G.U. 1a s.s. 21/07/1956, n. 181) ha dichiarato "la illegittimita' costituzionale delle norme contenute negli [articoli 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-05-19;250~art19) e [20 del D.P.R. 19 maggio 1949, n. 250](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-05-19;250~art20)".
-
-### Art. 20
-
-  
-Alla nomina del Segretario generale della Regione si provvede mediante concorso pubblico.  
-E' altresi' obbligatorio il pubblico concorso per l'assunzione in carriera degli impiegati amministrativi e tecnici della Regione quando la Giunta regionale non ravvisi la possibilita', di provvedere con personale comandato appartenente a uffici statali o ad enti locali.
-
-((2))
-
----------------
-
-AGGIORNAMENTO(2)
-
-La Corte Costituzionale, con sentenza 29 giugno-16 luglio 1956 n. 20 (in G.U. 1a s.s. 21/07/1956, n. 181) ha dichiarato "la illegittimita' costituzionale delle norme contenute negli [articoli 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-05-19;250~art19) e [20 del D.P.R. 19 maggio 1949, n. 250](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-05-19;250~art20)".
-
-### Art. 21
-
-  
-Il personale assunto dalla Regione e' iscritto agli istituti di previdenza amministrati dalla Direzione generale della Cassa depositi e prestiti.  
-
-CAPO VI CAPO VI Controllo di legittimita' sugli atti della Regione
-------------------------------------------------------------------
-
-### Art. 22
-
-((ARTICOLO ABROGATO DAL [D.P.R. 16 GENNAIO 1978, N. 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-01-16;21)))
-
-### Art. 23
-
-((ARTICOLO ABROGATO DAL [D.P.R. 16 GENNAIO 1978, N. 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-01-16;21)))
-
-### Art. 24
-
-((ARTICOLO ABROGATO DAL [D.P.R. 16 GENNAIO 1978, N. 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-01-16;21)))
-
-### Art. 25
-
-((ARTICOLO ABROGATO DAL [D.P.R. 16 GENNAIO 1978, N. 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-01-16;21)))
-
-### Art. 26
-
-((ARTICOLO ABROGATO DAL [D.P.R. 16 GENNAIO 1978, N. 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-01-16;21)))
-
-CAPO VII CAPO VII Rappresentante del Governo
---------------------------------------------
-
-### Art. 27
-
-  
-Il Rappresentante del Governo, previsto dall'[art. 48 della legge costituzionale 26 febbraio 1948, n. 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;3~art48), risiede in Cagliari.  
-Esso e' scelto tra i funzionari dello Stato di grado non inferiore al 4° ed e' nominato con decreto del Presidente della Repubblica, su proposta del Presidente del Consiglio dei Ministri di concerto col Ministro per l'interno, sentito il Consiglio dei Ministri.  
-
-### Art. 28
-
-  
-Al Rappresentante del Governo spetta il trattamento economico del grado 3°, 'alloggio di servizio, nonche' un'indennita' di carica e una indennita' di rappresentanza, la cui misura e' determinata con decreto del Presidente del Consiglio dei Ministri di concerto col Ministro per l'interno e col Ministro per il tesoro.  
-La spesa per gli assegni spettanti al Rappresentante del Governo e per il funzionamento del relativo ufficio e' a carico del bilancio dello Stato.  
-
-### Art. 29
-
-  
-Per il funzionamento del proprio ufficio il Rappresentante del Governo si avvale di personale comandato dipendente dalle Amministrazioni dello Stato o di enti locali.  
-La composizione dell'ufficio ed il contingente del personale saranno stabiliti con decreto del Presidente del Consiglio dei Ministri di concerto col Ministro per l'interno e col Ministro per il tesoro.  
-Con decreto del Ministro competente possono essere temporaneamente distaccati presso l'ufficio del Rappresentante del Governo uno o piu' funzionari dipendenti dalle amministrazioni centrali, incaricati di collaborare con esso nello svolgimento di speciali compiti.  
-
-### Art. 30
-
-  
-Ferma restando la competenza del Consiglio dei Ministri, con decreto del Ministro competente puo' essere delegato al Rappresentante del Governo l'esercizio di determinate attribuzioni delle amministrazioni centrali che non siano state delegate alla Regione, escluso tutto quanto attiene all'Amministrazione della giustizia e dell'istruzione superiore, alle amministrazioni militari, all'applicazione delle leggi fiscali e degli ordinamenti contabili dello Stato, nonche' alla gestione del bilancio, alla vigilanza e alla disciplina del credito e alla tutela del risparmio.  
-Resta in ogni caso riservata alle rispettive amministrazioni, ai sensi delle disposizioni vigenti, la competenza circa le nomine, i licenziamenti, le promozioni, i trasferimenti e ogni altro provvedimento concernenti lo stato economico e giuridico del personale dello Stato e degli enti di diritto pubblico.  
-
-### Art. 31
-
-  
-Il Presidente della Giunta regionale ed i Presidenti delle deputazioni provinciali forniscono le notizie e i chiarimenti relativi alle attivita' degli organi regionali e provinciali, nonche' copia delle deliberazioni adottate, che siano, richiesti dal Rappresentante del Governo.  
-Nell'esercizio delle funzioni delegate dallo Stato devono trasmettere periodicamente al Rappresentante del Governo un elenco delle deliberazioni adottate, salve le disposizioni contenute nei provvedimenti con cui le funzioni sono delegate.  
-
-CAPO VIII CAPO VIII Finanze, demanio a patrimonio regionale
------------------------------------------------------------
-
-### Art. 32
-
-((ARTICOLO ABROGATO DAL [D.LGS. 9 GIUGNO 2016, N. 114](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-06-09;114)))
-
-### Art. 33
-
-((ARTICOLO ABROGATO DAL [D.LGS. 9 GIUGNO 2016, N. 114](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-06-09;114)))
-
-### Art. 34
-
-((ARTICOLO ABROGATO DAL [D.LGS. 9 GIUGNO 2016, N. 114](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-06-09;114)))
-
-### Art. 35
-
-((ARTICOLO ABROGATO DAL [D.LGS. 9 GIUGNO 2016, N. 114](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-06-09;114)))
-
-### Art. 36
-
-((ARTICOLO ABROGATO DAL [D.LGS. 9 GIUGNO 2016, N. 114](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-06-09;114)))
-
-### Art. 37
-
-((ARTICOLO ABROGATO DAL [D.LGS. 9 GIUGNO 2016, N. 114](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-06-09;114)))
-
-### Art. 38
-
-((ARTICOLO ABROGATO DAL [D.LGS. 9 GIUGNO 2016, N. 114](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-06-09;114)))
-
-### Art. 39
-
-  
-Per la consegna dei beni dello Stato che passano alla Regione, da effettuarsi con decorrenza dal 1 gennaio 1950, compresi i redditi che matureranno da tale data, le Intendenze di finanza di Cagliari, Nuoro e Sassari, ciascuna per il territorio di sua competenza, entro tre mesi dalla costituzione della Giunta regionale compileranno:  
-a) un elenco dei beni immobili di demanio pubblico;  
-b) un elenco dei beni immobili patrimoniali dello Stato.  
-Dagli elenchi saranno esclusi i beni del demanio marittimo nonche' le strade statali e relative pertinenze e i beni demaniali e patrimoniali connessi a servizi di competenza statale e a monopoli fiscali o in uso all'Amministrazione militare.  
-Gli elenchi stessi, convalidati dal Ministro per le finanze, saranno sottoposti, a cura, delle Intendenze, alla formalita' della trascrizione ipotecaria e costituiranno titolo per la voltura catastale, da effettuarsi dopo l'immissione in possesso degli immobili.  
-Pure in pendenza della formale esecuzione della voltura catastale, passeranno alla Regione con decorrenza dal 1 gennaio 1950 tutti gli oneri gravanti sui beni trasferiti alla Regione stessa, comprese le imposte e i tributi fondiari di qualsiasi natura.  
-
-((COMMA ABROGATO DAL [D.P.R. 18 SETTEMBRE 2006, N. 267](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2006-09-18;267)))
-
-### Art. 40
-
-  
-L'Amministrazione regionale deve tenere l'inventario di tutti i beni demaniali e patrimoniali, mobili ed immobili, nonche' un elenco di tutti i titoli, atti, carte e scritture relative al patrimonio ed alla sua amministrazione.  
-
-### Art. 41
-
-  
-Per la compilazione, le variazioni e la gestione del bilancio di previsione e per il rendiconto generale della Regione valgono, in quanto applicabili, le disposizioni vigenti sulla contabilita' generale dello Stato.  
-
-### Art. 42
-
-  
-Il Consiglio regionale approva il bilancio preventivo della legione entro il 15 ottobre dell'anno precedente a quello cui il bilancio si riferisce.  
-L'esercizio provvisorio del bilancio non puo' essere disposto se non con legge regionale e per periodi non superiori complessivamente a tre mesi.  
-
-### Art. 43
-
-  
-Al pagamento delle spese per gli uffici e servizi, salve le spese su ruoli fissi, si provvede con mandati diretti o inediante ordine di accreditamento a favore di funzionari delegati, conformemente alle vigenti disposizioni dello Stato.  
-
-### Art. 44
-
-  
-La Ragioneria regionale esercita le funzioni delle Ragionerie centrali per la gestione dei fondi comunque scritti nel bilancio della Regione.  
-Il direttore della Ragioneria regionale e' nominato con decreto del Ministro per il tesoro, su proposta del Ragioniere generale dello Stato, di concerto con il Presidente regionale.
-
-((2))
-
----------------
-
-AGGIORNAMENTO(2)
-
-La Corte Costituzionale, con sentenza 29 giugno-16 luglio 1956 n. 20 (in G.U. 1a s.s. 21/07/1956, n. 181) ha dichiarato "la illegittimita' costituzionale delle norme contenute nell'[art. 44 del D.P.R. 19 maggio 1949, n. 250](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-05-19;250~art44)".
-
-### Art. 45
-
-  
-La Regione ha un proprio servizio di tesoreria.  
-Il tesoriere regionale e' tenuto a rendere il proprio conto nel termine di tre mesi dalla chiusura dell'esercizio.  
-
-### Art. 46
-
-  
-Il rendiconto generale della Regione e' diviso in due parti.  
-La prima parte riguarda il conto consuntivo del bilancio in relazione alla classificazione del preventivo.  
-La seconda parte riguarda il conto generale a valore del patrimonio della Regione con le variazioni subite.  
-Il conto generale del patrimonio deve inoltre contenere la dimostrazione dei punti di concordanza tra la contabilita', del bilancio e quella patrimoniale.  
-
-### Art. 47
-
-  
-Ai contratti della Regione riguardanti alienazioni, locazioni, acquisti, somministrazioni e appalti di opere si applicano le norme relative ai contratti dello Stato.  
-
-CAPO IX CAPO IX Disposizioni transitorie e finali
--------------------------------------------------
-
-### Art. 48
-
-  
-Fino all'approvazione del regolamento previsto dall'art. 19 dello Statuto speciale per la Sardegna, saranno applicate per la diramazione degli avvisi di convocazione del Consiglio regionale, per l'ordine delle discussioni e delle votazioni e per la polizia delle adunanze le norme contenute negli articoli 235, 237, 290, 292, 293, 294, 297, 298, 299, 300, 301, 302, 303 e 304 del testo unico della legge comunale e provinciale 4 febbraio 1915, n. 148, in quanto risultino applicabili e non contrastino con le norme sancite dallo Statuto predetto.  
-
-### Art. 49
-
-  
-Fino all'approvazione del regolamento interno previsto dall'art. 19 dello Statuto speciale, l'elezione del Presidente del Consiglio regionale sara' disciplinata dalle seguenti norme:  
-  
-Il Presidente e' eletto con votazione a scrutinio segreto e a maggioranza assoluta, computando tra i votanti anche le schede bianche.  
-Se dopo due votazioni nessun candidato ha ottenuto la maggioranza assoluta si procede a votazione di ballottaggio fra i due candidati che nella seconda votazione hanno ottenuto il maggior numero di voti e riesce eletto quello che ha conseguito la maggioranza di voti:  
-a parita' di voti ha la preferenza il piu' anziano di eta'.  
-Nello stesso modo si procede alla elezione del Vice presidente e successivamente, a maggioranza semplice, all'elezione di due segretari.  
-
-### Art. 50
-
-  
-Per la destinazione alla Delegazione regionale della Corte dei conti e' collocate fuori ruolo un consigliere, ai sensi delle vigenti disposizioni di legge e in eccedenza ai posti fuori ruolo previsti per i magistrati della corte dei conti.  
-Ai servizi della Delegazione puo' essere assegnato anche personale dei gruppi B e C e subalterno dipendente dall'Amministrazione regionale.  
-
-### Art. 51
-
-  
-Per quanto non previsto dal presente decreto si applicano alla Delegazione della Corte dei conti in Sardegna le norme del testo unico delle leggi sull'ordinamento della corte dei conti, approvato con [regio decreto 12 luglio 1934, n. 1214](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-12;1214), e le altre disposizioni relative alla Corte medesima.  
-
-### Art. 52
-
-  
-Le spese per il funzionamento della Delegazione della Corte dei conti in Sardegna sono a carico dello Stato.  
-
-### Art. 53
-
-  
-Le entrate erariali di cui all'art. 8 dello Statuto saranno devolute alla Regione a decorrere dal 1 gennaio 1950.  
-Dalla stessa data dovra' effettuarsi il trasferimento alla Regione dei servizi ad essa spettanti e degli oneri connessi.  
-Fino al 31 dicembre 1949 il totale gettito delle entrate indicate nel primo comma sara' devoluto allo Stato, il quale provvedera' al finanziamento dei servizi da trasferire alla Regione e mettera' a disposizione della medesima le somme occorrenti per le spese di funzionamento degli organi regionali e di primo impianto degli uffici, salvo conguaglio.  
-Entro il 31 dicembre 1949 la Regione dovra' predisporre ed approvare il proprio bilancio in modo da poterne iniziare la gestione il 1 gennaio 1950.  
-
-### Art. 54
-
-  
-Le attivita' svolte dalla Regione con speciali contributi dello Stato saranno soggette alla vigilanza delle Amministrazioni statali, tecniche e finanziarie, secondo norme da determinarsi con provvedimenti del Ministro competente, udita la Giunta regionale, sempre che leggi dello Stato non dispongano diversamente.  
-
-### Art. 55
-
-  
-Le funzioni dell'Avvocatura dello Stato nei riguardi delle Amministrazioni statali sono estese all'Amministrazione regionale sarda.  
-Nei confronti della suddetta Amministrazione si applicano le disposizioni del testo unico e del regolamento approvate rispettivamente con [regi decreti 30 ottobre 1933, nn. 1611](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1611) e [1612](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1612), e successive modificazioni, nonche' gli [articoli 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443~art25) e [144 del Codice di procedura civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443~art144).  
-Le disposizioni dei commi precedenti non si applicano nei giudizi in cui sono parte l'Amministrazione dello Stato e le Amministrazioni regionali, eccettuato il caso di litisconsorzio attivo.  
-Nel caso di litisconsorzio passivo, qualora non vi sia conflitto d'interessi tra lo Stato e la Regione, questa puo' avvalersi del patrocinio dell'Avvocatura dello Stato.  
-
-### Art. 56
-
-  
-I piani territoriali di coordinamento sono compilati a cura dell'Ente regione in base ai criteri indicati nell'art. 6 della legge urbanistica 17 agosto 1942, n. 1150 e sono approvati con decreto del Presidente della Repubblica, su proposta del Ministro per i lavori pubblici, sentito il Consiglio superiore dei lavori pubblici.  
-I piani regolatori comunali, compilati e pubblicati a tenore delle disposizioni contenute nella suindicata legge urbanistica, sono approvati con decreto del Presidente della Giunta regionale, previo esame e parere del Consiglio superiore dei lavori pubblici.  
-
-### Art. 57
-
-  
-Del Comitato regionale di coordinamento trasporti per la Sardegna, previsto dall'[art. 2 del decreto legislativo del Capo provvisorio dello Stato 19 luglio 1946, n. 39](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-07-19;39~art2), sono chiamati a far parte il componente della Giunta regionale incaricato di sostituire il Presidente della Giunta medesima e l'altro componente incaricato di sovrintendere ai servizi automobilistici e tramviari.  
-Il primo di essi assume le funzioni di presidente del Comitato.  
-
-### Art. 58
-
-  
-Il Comitato regionale di coordinamento trasporti deve essere sempre sentito per la concessione di nuovi autoservizi di linea per viaggiatori e merci, nonche' per la modifica delle clausole vigenti di concessioni riguardanti le modalita' di esercizio dei servizi medesimi.  
-Ove s'intenda adottare un provvedimento disforme dal parere del Comitato regionale, dovra' farsi constare il motivo della diversa determinazione.
+Le norme per l'integrazione e l'attuazione di leggi della Repubblica, in applicazione dell'art. 5 dello Statuto speciale per la Sardegna, sono emanate con legge regionale.  
+I regolamenti di esecuzione delle leggi regionali sono approvati con deliberazione della Giunta regionale e pubblicati nel Bollettino Ufficiale della Regione, previa registrazione alla Corte dei conti.
 
 ((5))
 
---------------
+  
+L'[art. 16 del decreto del Presidente della Repubblica 19 maggio 1949, n. 250](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-05-19;250~art16), e' abrogato.  
+
+---------------
 
 AGGIORNAMENTO (5)
 
-Il [D.P.R. 19 giugno 1979, n. 348](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1979-06-19;348) ha disposto (con l'art. 64, comma 3) l'abrogazione dell'[art. 58 del decreto del Presidente della Repubblica 19 maggio 1949, n. 250](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-05-19;250~art58). Lo stesso decreto ha disposto (con l'art. 83, comma 3) che "le norme del presente decreto avranno effetto dalla data dell'entrata in vigore della legge di cui al primo comma, ad eccezione di quella contenuta nel precedente art. 24".
+La Corte Costituzionale, con sentenza 19 - 30 dicembre 1985, n. 371 (in G.U. 1a s.s. 08/01/1986, n. 1), ha dichiarato "l'illegittimita' costituzionale dell'[art. 4, secondo comma, del d.P.R. 19 maggio 1950, n. 327](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-05-19;327~art4-com2), nella parte in cui si prevede che i regolamenti di esecuzione delle leggi regionali siano approvati con deliberazione della Giunta regionale, e dell'art. 2 n. 3 della legge regionale della Sardegna 7 marzo 1956, n. 37".
 
-### Art. 59
-
-null
-
-  
-L'annullamento puo' essere disposto non oltre trenta giorni dalla data del ricevimento della comunicazione dei provvedimenti da parte dell'Amministrazione regionale.  
-
-### Art. 60
+Art. 5
+------
 
   
-L'Alto Commissario per la Sardegna esercitera' le attribuzioni demandategli dalle leggi in vigore lino all'insediamento della Giunta regionale.  
+La Regione esercitera' le funzioni delegate nelle materie di competenza statale secondo le direttive impartite dai competenti organi del Governo della Repubblica.  
 
-### Art. 61
+Art. 6
+------
 
   
-Dalla data di cessazione dell'Alto Commissariato per la Sardegna e fino al 31 dicembre 1949, il Rappresentante del Governo esercita, anche per gli affari in corso, le attribuzioni amministrative gia' spettanti all'Alto Commissario e alla Consulta regionale ai sensi del [regio decreto 16 marzo 1944, n. 90](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1944-03-16;90), e successive modificazioni.  
-Nei riguardi delle funzioni di cui sopra la Ragioneria regionale e la Corte dei conti conserveranno le attribuzioni gia' esercitate presso l'Alto Commissariato, a norma dell'[art. 5 del decreto legislativo luogotenenziale 28 dicembre 1944, n. 417](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-12-28;417~art5) e dei [decreti legislativi luogotenenziali 14 giugno 1945, nn. 414](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-14;414) e [428](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-14;428) e restera' ferma la competenza del Comitato tecnico amministrativo presso il Provveditorato alle opere pubbliche della Sardegna, prevista dalle disposizioni legislative vigenti.  
+Le attribuzioni del Ministero dell'agricoltura e delle foreste nel territorio della Regione sono esercitate dall'Amministrazione regionale ai sensi e nei limiti dell'art. 6 dello Statuto speciale per la Sardegna.  
 
-### Art. 62
+Art. 7
+------
+
+  
+Tutti gli uffici e servizi del Ministero dell'agricoltura e delle foreste, esistenti in Sardegna, passano alle dipendenze della Regione, eccettuati l'Ispettorato compartimentale dell'agricoltura e l'Osservatorio fitopatologico della Sardegna, i quali, pur adempiendo, in base a direttive dell'Amministrazione regionale, i compiti a questa devoluti, restano alle dipendenze del Ministero per l'esercizio delle funzioni riservate allo Stato.  
+
+Art. 8
+------
+
+  
+Nulla e' innovato per quanto riguarda la vigilanza e la tutela sugli enti ed organismi a carattere nazionale od interregionale, quali l'Opera nazionale combattenti, l'Ufficio interregionale della Federazione italiana dei consorzi agrari, gli Uffici provinciali e comunali dell'Ufficio nazionale statistico economico dell'agricoltura e degli Uffici periferici degli enti economici dell'agricoltura in liquidazione.  
+
+Art. 9
+------
+
+((Sono da considerare di preminente interesse statale in relazione all'art. 3, lettera e), dello statuto speciale per la Sardegna le seguenti opere pubbliche:  
+a) costruzione, riparazione e manutenzione delle autostrade e delle strade statali classificate ai sensi delle [lettere a)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-12;126~art2-leta) e [b) dell'art. 2 della legge 12 febbraio 1958, n. 126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-12;126~art2-letb), e di quelle classificate ai sensi delle lettere c), d), e) ed f) dell'articolo stesso, salvo che non vengano declassificate ai sensi dell'art. 12, della legge medesima;  
+b) costruzioni ferroviarie, ad eccezione delle linee metropolitane;  
+c) aerodromi, ad eccezione di quelli aventi carattere esclusivamente turistico;  
+d) costruzione e manutenzione di porti di prima e seconda categoria, prima classe;  
+e) opere dipendenti da calamita' naturali di estensione ed entita' particolarmente gravi;  
+f) edifici ed opere destinate all'espletamento di servizi statali;  
+g) opere di riparazione di danni bellici.  
+La regione autonoma della Sardegna deve essere sentita nella classificazione e declassificazione delle strade statali interessanti il proprio territorio))
+
+.  
+
+((Sono trasferiti alla regione autonoma della Sardegna: il provveditorato regionale alle opere pubbliche per la Sardegna e gli uffici del genio civile con esclusione delle sezioni o servizi cui sono affidate le funzioni rimaste di competenza statale))
+
+.  
+Il Comitato tecnico amministrativo del Provveditorato alle opere pubbliche per la Sardegna e' integrato con tre membri, aventi voto deliberativo, designati dal Presidente della Giunta regionale.  
+
+Art. 10
+-------
+
+  
+Nulla e' innovato per quanto riguarda la disciplina della edilizia economica e popolare e le agevolazioni disposte dallo Stato per favorirne lo sviluppo.  
+Dei Consigli di amministrazione degli Istituti provinciali per le case popolari dell'Isola fara' parte un rappresentante della Regione.
+
+Art. 11
+-------
+
+((ARTICOLO ABROGATO DAL [D.P.R. 22 MAGGIO 1975, N. 480](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1975-05-22;480)))
+
+Art. 12
+-------
+
+  
+I regolamenti edilizi comunali sono approvati con decreto del Presidente della Giunta regionale su conforme deliberazione della Giunta, udito il parere del Provveditorato alle opere pubbliche per la Sardegna.  
+
+Art. 13
+-------
+
+  
+Nell'esercizio delle funzioni amministrative spettanti alla Regione in materia di acque pubbliche ed energia elettrica a norma dello Statuto speciale, la Regione provvede d'intesa, col Ministero dei lavori pubblici.
+
+((1))
+
+---------------
+
+AGGIORNAMENTO (1)
+
+La Corte Costituzionale, con sentenza 5 - 19 luglio 1956, n. 22 (in G.U. 1a s.s. 21/07/1956, n. 181), ha dichiarato "l'illegittimita' costituzionale dell'[art. 13 del decreto del Presidente della Repubblica 19 maggio 1950, n. 327](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-05-19;327~art13), contenente norme d'attuazione dello Statuto speciale per la Sardegna".
+
+Art. 14
+-------
+
+  
+Gli uffici del Ministero dell'industria e del commercio esistenti in Sardegna, pur provvedendo, in base a direttive dell'Amministrazione regionale, all'adempimento delle funzioni a questa devolute, a termini dell'art. 6 dello Statuto speciale, nelle materie indicate negli articoli 3, lettere h) e m), e 4, lettera a) dello Statuto medesimo, restano alle dipendenze del Ministro per l'esercizio delle funzioni riservate allo Stato.  
+
+Art. 15
+-------
+
+  
+L'attivita' amministrativa concernente i giacimenti di interesse nazionale e' svolta dall'Amministrazione regionale secondo le direttive che all'uopo saranno impartite dal Ministero dell'industria e del commercio.
+
+((2))
+
+---------------
+
+AGGIORNAMENTO (2)
+
+La Corte Costituzionale, con sentenza 19 - 26 gennaio 1957, n. 15 (in G.U. 1a s.s. 30/01/1957, n. 27), ha dichiarato "l'illegittimita' costituzionale delle norme contenute nell'[art. 15 del D.P.R. 19 maggio 1950, n. 327](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-05-19;327~art15), nei sensi e nei limiti indicati nella motivazione".
+
+Art. 16
+-------
+
+  
+La vigilanza e la tutela spettanti al Ministero dell'industria e del commercio sugli enti e istituti regionali, compresi quelli consorziali, sono esercitate dall'Amministrazione regionale.  
+La stessa Amministrazione svolge, su direttive del Ministero dell'industria e del commercio, le funzioni amministrative devolute al predetto Ministero nei confronti degli enti interregionali che abbiano la loro sede nell'Isola.  
+Il Ministero dell'industria e del commercio predisporra', udita l'Amministrazione regionale, le modificazioni agli statuti degli enti ed organismi a carattere nazionale che esercitino attivita' economiche di prevalente interesse sardo, allo scopo di assicurare all'Amministrazione regionale un'adeguata rappresentanza negli organi amministrativi degli enti ed organismi suddetti.  
+
+Art. 17
+-------
+
+  
+Le funzioni ispettive sulle Camere di commercio, industria ed agricoltura della Sardegna sono esercitate, secondo le direttive del Ministero dell'industria e del commercio, dall'Amministrazione regionale, salvo quelle riguardanti servizi di interesse nazionale, per le quali il Ministero ritenga di dover compiere indagini dirette.
+
+((2))
+
+  
+Sono altresi' svolte dall'Amministrazione regionale le funzioni di spettanza del Ministero dell'industria e del commercio circa la nomina degli organi camerali e l'istituzione e la gestione di aziende speciali. Alla nomina dei presidenti delle Camere di commercio provvede il Ministero dell'industria e del commercio di concerto con quello dell'agricoltura e delle foreste, su proposta del Presidente della Giunta regionale.  
+Le Camere di commercio, industria e agricoltura della Sardegna sottoporranno all'approvazione dell'Amministrazione regionale le deliberazioni che, in base alle disposizioni vigenti, sono soggette al visto di esecutorieta'.  
+A decorrere dall'esercizio 1950 i bilanci di previsione e i conti consuntivi delle Camere predette saranno approvati dall'Amministrazione regionale, d'intesa con il Ministero dell'industria e del commercio.
+
+((2))
+
+  
+L'aliquota di imposta camerale da applicare nella circoscrizione di ciascuna Camera sarda, nei limiti massimi stabiliti dalla legge dello Stato, sara' fissata con decreto del Presidente della Giunta regionale d'intesa col Ministero dell'industria e del commercio.  
+
+---------------
+
+AGGIORNAMENTO (2)
+
+La Corte Costituzionale, con sentenza 19 - 26 gennaio 1957, n. 15 (in G.U. 1a s.s. 30/01/1957, n. 27), ha dichiarato "l'illegittimita' costituzionale della prima parte del primo comma dell'art. 17 ("Le funzioni ispettive sulle Camere di commercio industria ed agricoltura della Sardegna sono esercitate, secondo le direttive del Ministero dell'industria e del commercio, dall'Amministrazione regionale") e del quarto comma dello stesso [art. 17 del D.P.R. 19 maggio 1950, n. 327](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-05-19;327~art17)".
+
+Art. 18
+-------
+
+  
+Le attribuzioni in materia di fiere, mostre ed esposizioni, spettanti al Ministero dell'industria e del commercio, sono trasferite all'Amministrazione regionale per quanto concerne le fiere, mostre ed esposizioni a carattere regionale.  
+Per le altre fiere, mostre ed esposizioni sarde, che abbiano carattere interregionale, nazionale od internazionale, il Ministero dell'industria e del commercio adottera' i provvedimenti di sua competenza d'intesa con l'Amministrazione regionale. Le date di tali manifestazioni verranno stabilite sentita l'Amministrazione predetta.  
+Negli organi di amministrazione degli enti fieristici a carattere interregionale, nazionale od internazionale di cui al precedente comma, la Regione sara' rappresentata da un proprio delegato.
+
+((4))
+
+---------------
+
+AGGIORNAMENTO (4)
+
+Il [D.P.R. 22 maggio 1975, n. 480](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1975-05-22;480) ha disposto (con l'art. 13, comma 1) che "L'[art. 18 del decreto del Presidente della Repubblica 19 maggio 1950, n. 327](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-05-19;327~art18), e' sostituito dalle disposizioni contenute nel [decreto del Presidente della Repubblica 15 gennaio 1972, n. 7](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-01-15;7), concernente il trasferimento alle regioni a statuto ordinario delle funzioni amministrative statali in materia di ferie e mercati ad eccezione degli articoli 12 e 13 dello stesso decreto".
+
+Art. 19
+-------
+
+  
+Le funzioni previste dalle vigenti leggi in materia di igiene e sanita' sono esercitate nel territorio della Sardegna dagli uffici ed organi provinciali dello Stato, e sono coordinate e integrate dall'Amministrazione regionale, che informera' la sua azione alle direttive dell'Alto Commissariato per l'igiene e la sanita' pubblica.  
+Resta ferma la dipendenza degli uffici ed organi predetti dall'Alto Commissariato per l'igiene e la sanita' pubblica, per l'esercizio delle funzioni di esclusiva competenza dello Stato.  
+I servizi di sanita' marittima ed aerea, esclusa la profilassi antianofelica, rimangono alle dirette dipendenze dell'Amministrazione sanitaria statale.
+
+((2))
+
+---------------
+
+AGGIORNAMENTO (2)
+
+La Corte Costituzionale, con sentenza 19 - 26 gennaio 1957, n. 15 (in G.U. 1a s.s. 30/01/1957, n. 27), ha dichiarato "l'illegittimita' costituzionale dell'[art. 19 del D.P.R. 19 maggio 1950, n. 327](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-05-19;327~art19), nei sensi e nei limiti indicati nella motivazione".
+
+Art. 20
+-------
+
+((La direzione compartimentale della motorizzazione civile e dei trasporti in concessione per la Sardegna e' trasferita alla regione, con esclusione dei centri prove autoveicoli e dispositivi))
+
+.  
+
+Art. 21
+-------
+
+  
+Per la formazione dei propri uffici e per il funzionamento di quelli che vengono trasferiti dallo Stato alla Regione, quest'ultima si avvarra', tranne che nei casi di necessita', del personale di ruolo e non di ruolo dell'Amministrazione dello Stato e degli Enti locali.  
+Il personale di ruolo di cui al precedente comma sara' considerato in posizione di comando, continuando a far parte dei ruoli organici dell'Amministrazione di provenienza, alla quale restera' riservata la competenza circa le promozioni, i trasferimenti ad uffici di altre Regioni, il collocamento a riposo e ogni altro provvedimento concernente lo stato giuridico ed economico del personale medesimo.  
+L'Amministrazione regionale potra' in qualunque momento fare motivata richiesta di richiamo del personale comandato.
+
+((3))
+
+---------------
+
+AGGIORNAMENTO (3)
+
+Il [D.P.R. 22 agosto 1972, n. 669](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-08-22;669) ha disposto (con l'art. 3, comma 1) che "Fino a quando la regione non abbia provveduto a termini del terzo comma del precedente art. 2, hanno efficacia le norme di cui agli [articoli 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-05-19;327~art21) e [22 del decreto del Presidente della Repubblica 19 maggio 1950, n. 327](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-05-19;327~art22)".
+
+Art. 22
+-------
+
+  
+Le spese per gli stipendi e le altre competenze al personale comandato ai sensi dell'articolo precedente sono nel loro importo lordo a carico della Regione, la quale rimborsera' altresi' allo Stato le spese per il trattamento di quiescenza del personale medesimo nella proporzione che sara' determinata con decreto del Ministro per il tesoro, d'intesa con l'Amministrazione regionale.
+
+((3))
+
+---------------
+
+AGGIORNAMENTO (3)
+
+Il [D.P.R. 22 agosto 1972, n. 669](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-08-22;669) ha disposto (con l'art. 3, comma 1) che "Fino a quando la regione non abbia provveduto a termini del terzo comma del precedente art. 2, hanno efficacia le norme di cui agli [articoli 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-05-19;327~art21) e [22 del decreto del Presidente della Repubblica 19 maggio 1950, n. 327](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-05-19;327~art22)".
+
+Art. 23
+-------
+
+  
+La Regione sara' rimborsata delle spese incontrate per lo svolgimento di funzioni per conto dello Stato.  
+Analogamente lo Stato sara' rimborsato delle spese sostenute per il funzionamento degli uffici e servizi statali che disimpegnano anche attribuzioni di competenza della Regione.  
+La misura e le modalita' dei rimborsi saranno determinate con decreto del Ministro per il tesoro, d'intesa con l'Amministrazione regionale.  
+
+Art. 24
+-------
+
+  
+Il Rappresentante del Governo nella Regione Sarda continua ad esercitare fino al 31 ottobre 1950 le attribuzioni amministrative previste dall'[art. 61, primo comma, del decreto del Presidente della Repubblica 19 maggio 1949, n. 250](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-05-19;250~art61-com1), eccettuate quelle di competenza dell'Amministrazione regionale o ad essa delegate.  
+La Ragioneria presso il cessato Alto Commissariato, la Delegazione della Corte dei conti avente sede in. Cagliari e il Comitato tecnico-amministrativo del Provveditorato alle opere pubbliche per la Sardegna continuano, fino alla suddetta data, ad esplicare, nella rispettiva competenza, le funzioni ad essi attribuite dal secondo comma del predetto art. 61 relativamente agli atti del Rappresentante del Governo.  
+
+Art. 25
+-------
 
   
 Con successivi decreti saranno emanate le altre norme di attuazione dello Statuto speciale per la Sardegna, a termini dell'[art. 56 della legge costituzionale 26 febbraio 1948, n. 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1948-02-26;3~art56).  
 
-### Art. 63
+Art. 26
+-------
 
   
-Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.  
+Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 maggio 1949
+### Dato a Dogliani, addi' 19 maggio 1950
 
-EINAUDI DE GASPERI - SCELBA - VANONI - PELLA - TUPINI - CORBELLINI
+EINAUDI DE GASPERI - SCELBA - PICCIONI - VANONI - PELLA - ALDISIO - SEGNI - TOGNI - D'ARAGONA
 
-Visto, il Guardasigilli: GRASSI
+Visto, il Guardasigilli: PICCIONI
 
-Registrato alla Corte dei conti, addi' 25 maggio 1949
+Registrato alla Corte dei conti, addi' 12 giugno 1950
 
-Atti del Governo, registro n. 28, foglio n. 76. - FRASCA
+Atti del Governo, registro n. 33, foglio n. 88. - CARLOMAGNO

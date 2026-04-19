@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 dicembre 1979 n. 952
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 maggio 1981 n. 373
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 dicembre 1979 n. 952
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 maggio 1981 n. 373
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -20,34 +20,37 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio universitario nazionale nel suo parere;
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Sulla
------
+Sulla proposta del Ministro della pubblica istruzione;
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-All'art. 68 dello statuto dell'Universita' di Bari, relativo al corso di laurea in scienze agrarie, il penultimo comma e' sostituito dal seguente:  
-"Le discipline biennali di agronomia generale e coltivazioni erbacee, di chimica agraria e di economia e politica agraria, comportano un esame alla fine di ciascuno degli anni di corso".  
+Nell'art. 7, relativo al corso di laurea in giurisprudenza, l'insegnamento di papirologia ed epigrafia giuridica, incluso nell'elenco degli insegnamenti complementari, e' scisso nei due insegnamenti di: papirologia giuridica ed epigrafia giuridica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 dicembre 1979
+### Dato a Roma, addi' 25 maggio 1981
 
-PERTINI VALITUTTI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 31 luglio 1980
+Registrato alla Corte dei conti, addi' 9 luglio 1981
 
-Registro n. 75 Istruzione, foglio n. 102
+Registro n. 65 Istruzione, foglio n. 16

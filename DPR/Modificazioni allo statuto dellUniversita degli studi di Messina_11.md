@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 agosto 1968 n. 1691
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1972 n. 784
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 agosto 1968 n. 1691
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1972 n. 784
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
@@ -10,54 +10,96 @@ Modificazioni allo statuto dell'Universita' degli studi di Messina.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Messina approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e modificato con [regio decreto 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090) e modificato con [regio decreto 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 50. - E' modificato nel senso che la facolta' di scienze matematiche, fisiche e naturali rilascia anche la laurea in chimica industriale.  
+Dopo l'art. 54, e con il conseguente spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo, concernente l'istituzione del corso di laurea in chimica industriale.  
   
-Dopo l'art. 25 e con il conseguente spostamento della numerazione degli articoli successivi sono aggiunti i seguenti nuovi articoli relativi alla istituzione del Centro di studi superiori economici e sociali, con annesso collegio, presso la facolta' di economia e commercio.   
+Corso di laurea in chimica industriale  
   
-Centro di studi superiori economici e sociali, con annesso collegio   
-Art. 26. - E' istituito presso la facolta' di economia e commercio, il Centro di studi superiori economici e sociali, con annesso collegio.   
-Art. 27. - Il centro ha lo scopo di potenziare l'organizzazione e migliorare il funzionamento degli istituti di istruzione superiore operanti nel settore degli studi economici e sociali, per il progresso della scienza anche a mezzo di ricerche autonome e per l'elevazione degli studi superiori.   
-Il collegio, annesso al centro, ha lo scopo di consentire ai giovani piu' meritevoli e meno abbienti, scelti a mezzo di concorso nazionale, l'esercizio del diritto di raggiungere i gradi piu' alti degli studi.   
-Art. 28. - Il centro persegue le sue finalita' attraverso l'attivita' della facolta' di economia e commercio, della annessa scuola di statistica, di scuole dirette a fini speciali e di scuole di perfezionamento, nonche' a mezzo di corsi di perfezionamento e di cultura, di seminari, di conferenze, di visite aziendali, di viaggi d'istruzione in Italia e all'estero. Al migliore conseguimento delle dette finalita' concorrono l'attivita' didattica che viene svolta nel collegio e l'assistenza fornita dallo stesso.   
-Il centro curera' la pubblicazione di una rivista di studi economici e sociali, nonche' degli annuali relativi alla vita del centro e alle ricerche scientifiche da esso promosse.   
-Art. 29. - Sono organi del centro: A) Il presidente; B) il consiglio direttivo. E' presidente del centro, il rettore dell'Universita' di Messina. Fanno parte del consiglio direttivo, oltre il rettore, i professori di ruolo della facolta' di economia e commercio della stessa universita'.   
-Art. 30. - Entro il mese di marzo di ciascun anno, il consiglio direttivo delibera in ordine al programma per il triennio successivo.   
-Art. 31. - Il centro ha la propria sede provvisoriamente in locali messi a disposizione della facolta' di economia e commercio.   
-Il centro e il collegio avranno la loro sede definitiva negli stabili che verranno costruiti ed attrezzati con i fondi a cio' destinati dalla Regione siciliana.   
-Art. 32. - Per le spese inerenti al funzionamento del collegio, provvede, con fondi che verranno all'uopo reperiti, l'Universita' di Messina, che ne ha l'amministrazione.   
-Art. 33. - Il governo didattico e disciplinare del collegio spetta ad una commissione, composta dal rettore, quale presidente del centro e da quattro professori titolari della facolta' di economia e commercio scelti dal consiglio di facolta'.   
-La commissione e' costituita con decreto del rettore e dura in carica due anni; ad essa si applicano le norme proprie degli organi collegiali universitari.   
-La commissione ha facolta' di affidare incarichi permanenti a propri componenti e puo' altresi' istituire commissioni speciali per lo studio di problemi particolari o per la condotta di determinata attivita'.   
-Art. 34. - Il rettore dell'universita' e' il direttore del collegio. Sovrintende al buon andamento didattico e disciplinare e coordina l'attivita' della commissione che e' da lui convocata.  
-Sorveglia su tutto il funzionamento del collegio e prende i provvedimenti di urgenza nel campo didattico e disciplinare.   
-Tutte le attribuzioni del direttore del collegio, nei casi di delega, di assenza e di impedimento, sono svolte dal piu' anziano dei componenti della commissione didattica e disciplinare.   
-Art. 35. - L'anno accademico del collegio ha inizio il 1 novembre e termina il 31 ottobre dell'anno successivo.   
-Art. 36. - Con apposito regolamento, saranno dettate le norme relative all'ammissione dei giovani al collegio, al trattamento per gli ammessi, all'organico e al trattamento giuridico ed economico del personale insegnante ed assistente, ed a tutti gli atti di attivita' del collegio.   
-Art. 37. - Spetta al rettore dell'universita', quale presidente del centro e della commissione didattica e disciplinare del collegio, di promuovere l'emanazione degli atti e provvedimenti di riconoscimento governativo o regionale, che dovessero essere ritenuti necessari per il conseguimento degli scopi istituzionali del centro e del collegio.   
+Art. 55. - La durata del corso degli studi per la laurea in chimica industriale e' di cinque anni, divisi in un biennio di studi propedeutici ed in un triennio di studi di applicazione.  
+Titoli di ammissione sono quelli previsti dalle vigenti disposizioni di legge.  
+Il biennio di studi propedeutici e' comune a quello degli altri due indirizzi di laurea in chimica.  
+Triennio di applicazione.  
+Sono insegnamenti fondamentali:  
+1) Chimica fisica (biennale);  
+2) Fisica tecnica;  
+3) Chimica industriale (biennale);  
+4) Esercitazioni di analisi chimica quantitativa;  
+5) Esercitazioni di chimica fisica (biennale);  
+6) Esercitazioni di chimica industriale (biennale);  
+7) Impianti industriali chimici con elementi di disegno (biennale);  
+8) Elementi di diritto, di economia e di legislazione sociale.  
+Sono insegnamenti complementari:  
+1) Chimica inorganica superiore;  
+2) Chimica organica superiore;  
+3) Chimica organica applicata;  
+4) Petrolchimica e tecnologia dei prodotti petroliferi;  
+5) Tecnologie elettrochimiche;  
+6) Siderurgia e metallurgia;  
+7) Chimica delle materie plastiche;  
+8) Chimica applicata ai materiali da costruzione;  
+9) Chimica degli idrocarburi naturali e derivati;  
+10) Tecnologia delle sostanze coloranti e tecnica tintoria;  
+11) Chimica degli intermedi;  
+12) Chimica delle sostanze coloranti;  
+13) Chimica dei composti metallo-organici;  
+14) Tecnologie chimiche speciali;  
+15) Elettrotecnica (corso speciale per chimici industriali);  
+16) Chimica e tecnologia degli alimenti;  
+17) Chimica e tecnologia del vetro e dei prodotti ceramici;  
+18) Chimica teorica;  
+19) Chimica fisica tecnica;  
+20) Disegno (corso speciale per chimici industriali);  
+21) Chimica fisica organica;  
+22) Scienza dei metalli;  
+23) Elettrochimica industriale;  
+24) Chimica delle radiazioni;  
+25) Chimica merceologica;  
+26) Fisiologia ed igiene del lavoro industriale;  
+27) Biochimica applicata.  
+28) Esercitazioni di chimica organica ed analisi organica;  
+29) Chimica analitica strumentale con esercitazioni;  
+30) Misure elettriche (corso speciale per chimici industriali);  
+31) Lingua straniera tecnica;  
+32) Chimica delle fermentazioni e batteriologia industriale;  
+33) Analisi matematica I;  
+34) Tecnologie microbiologiche;  
+35) Analisi matematica II;  
+36) Geometria I;  
+37) Meccanica razionale.  
+Per l'insegnamento di "Analisi matematiche" vale la norma stabilita per il biennio propedeutico per la laurea in ingegneria. I corsi biennali constano di una prima parte e di una seconda parte, dettate annualmente e con esame distinto; ogni prima parte e' propedeutica alla seconda parte. Per ottenere l'iscrizione al triennio di applicazione lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti del biennio propedeutico. Per essere ammesso all'esame di laurea lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali del triennio di applicazione ed almeno in quattro da lui scelti fra i complementari. La scelta degli insegnamenti complementari e' regolata dalle norme dell'art. 54 del presente statuto.  
+Alla fine di ogni corso di esercitazioni che costituisce di per se' insegnamento fondamentale lo studente deve sostenere una prova pratica con relazione scritta e discussione orale. La prova di "Preparazioni chimiche" deve precedere quella di analisi chimica qualitativa e questa quella di analisi chimica quantitativa. L'esame di laurea in chimica industriale consta della discussione di una dissertazione scritta e della discussione di due argomenti orali scelti dal candidato in materie diverse da quelle in cui verte la dissertazione scritta.  
+I laureati in chimica potranno essere ammessi al quarto anno di corso per la laurea in chimica industriale e dovranno seguire i corsi e sostenere gli esami delle seguenti materie fondamentali:  
+1) Chimica industriale (biennale);  
+2) Impianti industriali chimici con elementi di disegno (biennale);  
+3) Elementi di diritto, di economia e legislazione sociale;  
+4) Fisica tecnica;  
+5) Esercitazioni di chimica industriale (biennale).  
   
 
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato ad Antagnod, addi' 7 agosto 1968
+### Dato a Roma, addi' 2 ottobre 1972
 
-SARAGAT SCAGLIA
+LEONE SCALFARO
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 21 ottobre 1969
+Registrato alla Corte dei conti, addi' 11 dicembre 1972
 
-Atti del Governo, registro n. 229, foglio n. 109. - CARUSO
+Atti del Governo, registro n. 254, foglio n. 6. - CARUSO

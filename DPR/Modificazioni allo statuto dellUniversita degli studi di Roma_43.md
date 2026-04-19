@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1970 n. 515
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1972 n. 352
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1970 n. 515
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1972 n. 352
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
@@ -12,7 +12,7 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, numero 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
@@ -25,43 +25,101 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 28. - Nell'elenco degli istituti annessi alla facolta' di scienze politiche, l'istituto di studi economici, finanziari e statistici e' intitolato al nome del professore Alberto De Stefani.  
-Art. 66. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti quelli di:  
-Estetica;  
-Linguistica generale;  
-Bibliografia e biblioteconomia;  
-Storia dell'arte contemporanea;  
-Storia della critica d'arte;  
-Storia e critica del film;  
-Antichita' romane;  
-Paleografia e diplomatica.  
-Art. 67. All'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti quelli di:  
-Storia della letteratura italiana moderna e contemporanea;  
-Estetica;  
-Storia e critica del film;  
-Storia della pedagogia;  
-Filosofia della religione;  
-Metodologia generale delle scienze biologiche.  
-Art. 68. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di:  
-Linguistica generale;  
-Lingua e letteratura rumena;  
-Lingua e letteratura scandinava;  
-Storia della letteratura italiana moderna e contemporanea.  
-Art. 81. - L'insegnamento complementare di: "Terapia medica sistematica e idrologia medica" annesso alla facolta' di medicina e chirurgia viene scisso in due insegnamenti con la seguente denominazione:  
-Terapia medica sistematica;  
-Idrologia medica.  
-Di conseguenza il prof. Messini Mariano ordinario di "Terapia medica sistematica e idrologia medica" presso la facolta' di medicina e chirurgia, e' da intendersi assegnato, nella sua qualita' di professore ordinario alla cattedra di nuova denominazione di "Terapia medica sistematica" della stessa facolta'.  
+Art. 63: all'elenco degli istituti annessi alla facolta' di lettere e filosofia l'istituto del teatro muta denominazione in quella di "Istituto del teatro e dello spettacolo".  
+Art. 66: all'elenco degli insegnamenti complementari al corso di laurea in materie letterarie sono aggiunti i seguenti:  
+  
+Sociologia dell'arte;  
+Sociologia della letteratura;  
+Storia inglese;  
+Storia della filosofia antica;  
+Storia della filosofia contemporanea;  
+Storia della scienza;  
+Islamistica;  
+Semitistica;  
+Storia americana;  
+Storia delle religioni;  
+Storia dei trattati e politica internazionale;  
+Storia della Chiesa;  
+Storia dell'Oriente europeo;  
+Storia dei partiti politici;  
+Storia della storiografia;  
+Topografia antica;  
+Storia bizantina;  
+Storia greca;  
+Storia contemporanea;  
+Storia delle dottrine economiche.  
+Art. 67: all'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti:  
+  
+Storia della filosofia antica;  
+Storia della filosofia contemporanea;  
+Storia della scienza;  
+jalamistica;  
+Semitistica;  
+Storia americana;  
+Storia delle religioni;  
+Storia dei trattati e politica internazionale;  
+Storia della Chiesa;  
+Storia dell'Oriente europeo;  
+Storia dei partiti politici;  
+Storia della storiografia;  
+Topografia antica;  
+Teoria e storia della didattica;  
+Pedagogia sociale;  
+Storia contemporanea;  
+Storia delle dottrine economiche.  
+Art. 68: all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti i seguenti:  
+  
+Storia della letteratura austriaca;  
+Storia della lingua tedesca;  
+Storia inglese;  
+Storia della filosofia antica;  
+Storia della filosofia contemporanea;  
+Storia della scienza;  
+Storia della lingua spagnola;  
+Lingua e letteratura catalana;  
+Islamistica;  
+Semitistica;  
+Storia americana;  
+Storia delle religioni;  
+Storia dei trattati e politica internazionale;  
+Storia della Chiesa;  
+Storia dell'Oriente europeo;  
+Storia dei partiti politici;  
+Storia della storiografia;  
+Topografia antica;  
+Storia contemporanea;  
+Storia delle dottrine economiche.  
+Art. 79: all'elenco degli insegnamenti complementari del corso di laurea in sociologia sono aggiunti i seguenti:  
+  
+Sociologia dell'arte;  
+Sociologia della letteratura;  
+Storia della filosofia antica;  
+Storia della filosofia contemporanea;  
+Storia della scienza;  
+Islamistica;  
+Semitistica;  
+Storia americana;  
+Storia delle religioni;  
+Storia dei trattati e politica internazionale;  
+Storia della Chiesa;  
+Storia dell'Oriente europeo;  
+Storia dei partiti politici;  
+Storia della storiografia;  
+Topografia antica;  
+Storia contemporanea;  
+Storia delle dottrine economiche.  
+Nello stesso elenco l'insegnamento di sociologia dell'arte e della letteratura e' soppresso.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 maggio 1970
+### Dato a Roma, addi' 11 maggio 1972
 
-SARAGAT MISASI
+LEONE MISASI
 
-Visto, il Guardasigilli REALE
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 10 luglio 1970
+Registrato alla Corte dei conti, addi' 25 luglio 1972
 
-Atti del Governo, registro n. 236, foglio n. 149. - CARUSO
+Atti del Governo, registro n. 250, foglio n. 53. - CARUSO

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 gennaio 1968 n. 213
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 ottobre 1967 n. 1373
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 gennaio 1968 n. 213
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 ottobre 1967 n. 1373
+===============================================================
 
 Autorizzazione all'Amministrazione delle poste e delle telecomunicazioni ad accettare una donazione.
 ----------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-213. Decreto del Presidente della Repubblica 18 gennaio 1968, col quale, sulla proposta del relativo Ministro, l'Amministrazione delle poste e delle telecomunicazioni viene autorizzata ad accettare dal comune di Ovindoli (L'Aquila) la donazione di un'area di mq. 225 sita in Ovindoli, via Luigi di Savoia, da destinare alla costruzione di un ufficio postale, giusta atto a rogito notaio Giovanni, Stornelli in data 3 luglio 1964, rep. n. 54512, racc. 8822, registrato in Avezzano il 23 luglio 1964.  
+1373. Decreto del Presidente della Repubblica 12 dicembre 1967, col quale, sulla proposta del relativo Ministro, l'Amministrazione delle poste e delle telecomunicazioni viene autorizzata ad accettare la donazione di un'area di mq. 368,64, sita in Susa, piazza Europa, confinante con la societa' I.C.E.I.A. a nord cooperativa "Casa Nostra" ad est, piazza Europa a sud e via Mazzini ad ovest, da destinare alla costruzione dell'edificio delle poste e telecomunicazioni.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 14 marzo 1968  
-Atti del Governo, registro n. 218, foglio n. 16. - GRECO
+Registrato alla Corte dei conti, addi' 23 gennaio 1968  
+Atti del Governo, registro n. 217, foglio n. 3. - GRECO

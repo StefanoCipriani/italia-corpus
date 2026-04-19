@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1980 n. 941
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 397
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1980 n. 941
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 397
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Messina.
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Messina.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 10 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-10;1923) e modificato con [regio decreto 24 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-24;1090), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 10 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-10;1923), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,48 +18,42 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1935, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1935-04-11;312);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1930, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1930-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'art. 17 del testo unico 31 agosto 1933, per i motivi esposti nelle deliberazioni degli organi accademici della Universita' di Messina e convalidati dal Consiglio universitario nazionale nel suo parere;
+Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Sentito il parere del Consiglio universitario nazionale;
+Vedute le proposte di modifica dello statuto formulate calle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
+
+Veduto il parere del Consiglio universitario nazionale;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 --------
 
-Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Articolo unico
 --------------
 
   
-All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia indicati nell'art. 72 sono aggiunti i seguenti insegnamenti complementari semestrali:  
-immunologia clinica;  
-neurofisiologia;  
-fisiologia applicata;  
-fisiologia dello sport;  
-fisiologia della nutrizione;  
-igiene scolastica;  
-patologia molecolare;  
-virologia oncologica;  
-immunopatologia;  
-neurotraumatologia;  
-traumatologia della strada.  
+Nell'art. 40, relativo al corso di laurea in scienze politiche, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+storia dello sviluppo economico e sociale italiano dall'unita' nazionale ad oggi.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 giugno 1980
+### Dato a Roma, addi' 9 aprile 1986
 
-PERTINI SARTI
+COSSIGA
 
-Visto, il Guardasigilli: SARTI
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 30 dicembre 1980
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registro n. 122 Istruzione, foglio n. 41
+Registrato alla Corte dei conti, addi' 11 luglio 1986
+
+Registro n. 55 Istruzione, foglio n. 398

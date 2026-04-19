@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 febbraio 1980 n. 346
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1963 n. 2158
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 febbraio 1980 n. 346
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1963 n. 2158
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
@@ -10,74 +10,90 @@ Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, numero 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), modificato con [regio decreto 13 ottobre 1927 n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successivi;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 18 dicembre 1962, n. 1741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-18;1741);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Palermo e convalidati dal Consiglio universitario nazionale nel suo parere;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere del Consiglio universitario nazionale;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Palermo approvato e modificato con i decreti sopraindicati, i ulteriormente modificato come appresso:
+
+Art. 11. - All'elenco degli insegnamenti fondamentali del corso di laurea in Scienze politiche sono aggiunti i seguenti:
+
+Istituzioni di Diritto e procedura penale;
+
+Scienza delle finanze.
+
+Art. 13, relativo alle propedeuticita' del corso di laurea in Scienze politiche e' modificato nel senso che a secondo comma e' aggiunta la propedeuticita' dell'esami di Economia politica nei riguardi di quello di Scienza delle finanze.
+
+Art. 83. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze agrarie e' aggiunto quello di "Avicoltura e cognicoltura (semestrale)" .
+
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 23 dicembre 1903
+
+SEGNI
+
+GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 8 febbraio 1964 Atti del Governo, registro n. 180, foglio n. 103. - VILLA
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Nell'art. 35 dello statuto dell'Universita' di Palermo relativo al corso di laurea in lettere, all'elenco degli insegnamenti complementari sono aggiunti i seguenti:  
-storia economica;  
-epigrafia romana;  
-archeologia del medio e vicino Oriente;  
-storia dell'arte moderna;  
-storia della letteratura italiana moderna e contemporanea;  
-storia dell'arte islamica;  
-filologia greca medioevale e moderna;  
-teatro e drammaturgia dell'antichita'.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, numero 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), modificato con [regio decreto 13 ottobre 1927 n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successivi;   
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Veduta la [legge 18 dicembre 1962, n. 1741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-12-18;1741);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Nell'art. 36, relativo al corso di laurea in filosofia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti:  
-storia contemporanea;  
-filosofia della politica;  
-storia del teatro e dello spettacolo;  
-storia della filosofia moderna e contemporanea;  
-sociologia dell'educazione;  
-storia del pensiero sociologico;  
-etnologia.  
-Nello stesso elenco e' soppresso l'insegnamento complementare di biologia delle razze umane.  
-
-Art. 3
-------
-
+Decreta:   
   
-Nell'art. 43, relativo al corso di laurea in lingue e letterature straniere moderne (indirizzo europeo), all'elenco degli insegnamenti complementari e' aggiunto il seguente:  
-didattica delle lingue moderne.  
+Lo statuto dell'Universita' degli studi di Palermo approvato e modificato con i decreti sopraindicati, i ulteriormente modificato come appresso:   
+Art. 11. - All'elenco degli insegnamenti fondamentali del corso di laurea in Scienze politiche sono aggiunti i seguenti:   
+Istituzioni di Diritto e procedura penale;   
+Scienza delle finanze.   
+Art. 13, relativo alle propedeuticita' del corso di laurea in Scienze politiche e' modificato nel senso che a secondo comma e' aggiunta la propedeuticita' dell'esami di Economia politica nei riguardi di quello di Scienza delle finanze.   
+Art. 83. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze agrarie e' aggiunto quello di "Avicoltura e cognicoltura (semestrale)" .   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 febbraio 1980
+### Dato a Roma, addi' 23 dicembre 1903
 
-PERTINI VALITUTTI
+SEGNI GUI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 26 giugno 1980
+Registrato alla Corte dei conti, addi' 8 febbraio 1964
 
-Registro n. 61 Istruzione, foglio n. 311
+Atti del Governo, registro n. 180, foglio n. 103. - VILLA

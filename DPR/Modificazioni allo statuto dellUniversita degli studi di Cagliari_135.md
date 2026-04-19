@@ -1,195 +1,41 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 settembre 1966 n. 994
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1951 n. 565
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 settembre 1966 n. 994
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1951 n. 565
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1632](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1632), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 13. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze politiche e' aggiunto quello di: "Storia politica ed economica della Sardegna".
-
-Art. 35. - All'elenco degli insegnamenti complementari del corso di laurea in Materie letterarie e' aggiunto quello di: "Linguistica".
-
-Art. 36. - All'elenco degli insegnamenti complementari del corso di laurea in Pedagogia sono aggiunti quelli di: "Linguistica" e "Igiene".
-
-Art. 37. - All'elenco degli insegnamenti complementari del corso di laurea in Lingue e letterature straniere e' aggiunto quello di: "Linguistica".
-
-Art. 50. - L'elenco degli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' abrogato e sostituito dal seguente:
-
-1) Istologia ed embriologia generale (\*);
-
-2) Parassitologia (\*\*);
-
-3) Biologia delle razze umane (\*);
-
-4) Puericultura (\*\*\*);
-
-5) Semeiotica medica (\*);
-
-6) Tisiologia (\*\*);
-
-7) Clinica delle malattie tropicali e subtropicali (\*\*);
-
-8) Psicologia (\*\*\*);
-
-9) Urologia (\*\*);
-
-10) Anatomia chirurgica e corso di operazioni (\*\*);
-
-11) Medicina preventiva dei lavoratori e psicotecnica (\*\*);
-
-12) Clinica ortopedica (\*\*\*);
-
-13) Neurochirurgia (\*\*\*);
-
-14) Medicina del lavoro (\*\*);
-
-15) Antropologia criminale (\*\*);
-
-16) Psichiatria (\*\*);
-
-17) Genetica medica (\*)
-
-18) Clinica delle malattie infettive (\*);
-
-19) Medicina nucleare (\*);
-
-20) Anatomia topografica (\*), 21) Semeiotica chirurgica (");
-
-22) Fisiologia della nutrizione (\*);
-
-23) Clinica chirurgica pediatrica (\*\*\*);
-
-24) Anestesiologia e rianimazione (\*\*»;
-
-25) Chemioterapia (\*);
-
-26) Virologia (\*\*\*);
-
-27) Tecnica e diagnostica istopatologica (\*).
-
-L'ottavo comma dello stesso articolo e' abrogato e sostituito dal seguente:
-
-"Gli esami di "fisiologia umana", e di "patologia generale, debbono essere superati prima di sostenere quelli di "patologia speciale medica, di "patologia speciale chirurgica, e di "clinica otorinolaringoiatrica"".
-
-Il decimo comma dello stesso articolo e' abrogato e sostituito dal seguente:
-
-"Per gli insegnamenti complementari e' prescritto un corso semestrale; gli studenti hanno l'obbligo di sostenere un insegnamento complementare per ciascun biennio; detto insegnamento dovra' essere scelto tra quelli contrassegnati con un asterisco per il primo biennio, con due asterischi per il secondo biennio e con tre asterischi per il terzo biennio. Per gli insegnamenti non contrassegnati da asterisco gli studenti dovranno attenersi alle disposizioni annualmente impartite dalla Facolta'".
-
-Art. 58, relativo a modalita' di esami dei corsi di laurea in Scienze matematiche, in Fisica e in Scienze naturali - e' soppresso con il conseguente spostamento della numerazione degli articoli successivi.
-
-Art. 69. - Nell'orientamento C dei gruppi di materie a scelta dello studente del corso di laurea in Ingegneria chimica, l'insegnamento di Chimica organica assume la denominazione di "Chimica agraria".
-
-Art. 70, relativo alle precedenze degli insegnamenti del corso di laurea in Ingegneria chimica la materia "Chimica degli altri polimeri" assume la denominazione di "Chimica degli alti polimeri".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 9 settembre 1966
-
-SARAGAT
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 22 novembre 1966 Atti del Governo, registro n. 207, foglio n. 55. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1632](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1632), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), modificato con [regi decreti 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1743), e [26 marzo 1942, n. 328, con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-03-26;328) [22 ottobre 1946, n. 398, e con decreto del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1946-10-22;398) [30 ottobre 1949, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1027);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 13. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze politiche e' aggiunto quello di: "Storia politica ed economica della Sardegna".  
-Art. 35. - All'elenco degli insegnamenti complementari del corso di laurea in Materie letterarie e' aggiunto quello di: "Linguistica".  
-Art. 36. - All'elenco degli insegnamenti complementari del corso di laurea in Pedagogia sono aggiunti quelli di: "Linguistica" e "Igiene".  
-Art. 37. - All'elenco degli insegnamenti complementari del corso di laurea in Lingue e letterature straniere e' aggiunto quello di: "Linguistica".  
-Art. 50. - L'elenco degli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' abrogato e sostituito dal seguente:  
-1) Istologia ed embriologia generale (\*);  
-2) Parassitologia (\*\*);  
-3) Biologia delle razze umane (\*);  
-4) Puericultura (\*\*\*);  
-5) Semeiotica medica (\*);  
-6) Tisiologia (\*\*);  
-7) Clinica delle malattie tropicali e subtropicali (\*\*);  
-8) Psicologia (\*\*\*);  
-9) Urologia (\*\*);  
-10) Anatomia chirurgica e corso di operazioni (\*\*);  
-11) Medicina preventiva dei lavoratori e psicotecnica (\*\*);  
-12) Clinica ortopedica (\*\*\*);  
-13) Neurochirurgia (\*\*\*);  
-14) Medicina del lavoro (\*\*);  
-15) Antropologia criminale (\*\*);  
-16) Psichiatria (\*\*);  
-17) Genetica medica (\*)  
-18) Clinica delle malattie infettive (\*);  
-19) Medicina nucleare (\*);  
-20) Anatomia topografica (\*), 21) Semeiotica chirurgica (");  
-22) Fisiologia della nutrizione (\*);  
-23) Clinica chirurgica pediatrica (\*\*\*);  
-24) Anestesiologia e rianimazione (\*\*»;  
-25) Chemioterapia (\*);  
-26) Virologia (\*\*\*);  
-27) Tecnica e diagnostica istopatologica (\*).  
-L'ottavo comma dello stesso articolo e' abrogato e sostituito dal seguente:  
-"Gli esami di "fisiologia umana", e di "patologia generale, debbono essere superati prima di sostenere quelli di "patologia speciale medica, di "patologia speciale chirurgica, e di "clinica otorinolaringoiatrica"".  
-Il decimo comma dello stesso articolo e' abrogato e sostituito dal seguente:  
-"Per gli insegnamenti complementari e' prescritto un corso semestrale; gli studenti hanno l'obbligo di sostenere un insegnamento complementare per ciascun biennio; detto insegnamento dovra' essere scelto tra quelli contrassegnati con un asterisco per il primo biennio, con due asterischi per il secondo biennio e con tre asterischi per il terzo biennio. Per gli insegnamenti non contrassegnati da asterisco gli studenti dovranno attenersi alle disposizioni annualmente impartite dalla Facolta'".  
-Art. 58, relativo a modalita' di esami dei corsi di laurea in Scienze matematiche, in Fisica e in Scienze naturali - e' soppresso con il conseguente spostamento della numerazione degli articoli successivi.  
-Art. 69. - Nell'orientamento C dei gruppi di materie a scelta dello studente del corso di laurea in Ingegneria chimica, l'insegnamento di Chimica organica assume la denominazione di "Chimica agraria".  
-Art. 70, relativo alle precedenze degli insegnamenti del corso di laurea in Ingegneria chimica la materia "Chimica degli altri polimeri" assume la denominazione di "Chimica degli alti polimeri".  
+Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' cosi' ulteriormente modificato:  
+Attuale art. 48. - Agli insegnamenti complementari del corso di laurea in scienze naturali e' aggiunto quello di:  
+14) "antropologia".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 settembre 1966
+### Dato a Roma, addi' 11 aprile 1951
 
-SARAGAT GUI
+EINAUDI GONELLA
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: PICCIONI
 
-Registrato alla Corte dei conti, addi' 22 novembre 1966
+Registrato alla Corte dei conti, addi' 20 luglio 1951
 
-Atti del Governo, registro n. 207, foglio n. 55. - VILLA
+Atti del Governo, registro n. 40, foglio n. 38. - FRASCA

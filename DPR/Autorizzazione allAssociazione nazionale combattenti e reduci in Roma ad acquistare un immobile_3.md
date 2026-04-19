@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1986 n. 420
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 166
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1986 n. 420
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 166
+===============================================================
 
 Autorizzazione all'Associazione nazionale combattenti e reduci, in Roma, ad acquistare un immobile.
 ---------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 n.
 
-420. Decreto del Presidente della Repubblica 11 aprile 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale combattenti e reduci, in Roma, viene autorizzata ad acquistare, al convenuto prezzo di L. 108.000.000, valutato con perizia di parte L. 125.000.000 e ridotto dall'ufficio tecnico erariale di Parma a L. 110.000.000, dai signori Spotti Bruno e Ruggeri Emilia, un appartamento sito in Parma, via XXII Maggio n. 37, distinto al nuovo catasto edilizio urbano alla partita 5528, foglio 34, mappale 322, sub 2.  
+166. Decreto del Presidente della Repubblica 10 febbraio 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale combattenti e reduci, in Roma, viene autorizzata ad acquistare, al prezzo di L. 17.000.000 elevato dall'ufficio tecnico erariale di Udine a L. 27.000.000, un appartamento con garage, sito in Pavia di Udine, frazione Percoto, censito al nuovo catasto edilizio urbano alla partita n. 713, foglio n. 37, particella n. 640 sub 8, foglio n. 37, particella n. 640 sub 35, di proprieta' del sig. Damiano Pierino, come da promessa di vendita condizionata in data 25 maggio 1977, da adibire a sede sociale.  
   
 Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 12 luglio 1986  
-Registro n. 7 Presidenza, foglio n. 13
+Registrato alla Corte dei conti, addi' 22 aprile 1986  
+Registro n. 4 Presidenza, foglio n. 50

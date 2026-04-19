@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 luglio 1985 n. 1104
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1976 n. 468
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 luglio 1985 n. 1104
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1976 n. 468
+=============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1104. Decreto del Presidente della Repubblica 17 luglio 1985, col quale, sulla proposta del Ministro delle finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dal comune di Romagnano Sesia (Novara) con atto 21 settembre 1981, n. 8700 di repertorio, a rogito dott.ssa Rossana Lenzi, notaio in Romagnano Sesia, registrato a Borgomanero (Novara) il 12 ottobre 1981 al n. 1480, un appezzamento di terreno di circa mq 1.700 sito in detto comune, catastalmente indicato in atto, per la costruzione della caserma dei carabinieri.   
+468. Decreto del Presidente della Repubblica 12 maggio 1976, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato della donazione disposta dagli eredi del pittore tedesco Karl Guglielmo Diefenbach con atto notarile 11 giugno 1971, n. 7087 di repertorio, a rogito dott. Guido Rega, notaio in Napoli, consistente in trentuno dipinti di cui trenta sono del pittore Karl Guglielmo Diefenbach ed uno, che riproduce il ritratto del pittore stesso, eseguito da E. Ximenes e in cinque gessi dello stesso artista, opere destinate alla Certosa di Capri.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 13 giugno 1986   
-Registro n. 34 Finanze, foglio n. 96
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 30 giugno 1976  
+Atti di Governo, registro n. 7, foglio n. 37

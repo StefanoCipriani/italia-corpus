@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1963 n. 2378
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 maggio 1972 n. 357
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1963 n. 2378
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 maggio 1972 n. 357
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -10,64 +10,77 @@ Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 38. - Agli insegnamenti complementari del corso di laurea in Economia e commercio e' aggiunto quello di "Ricerca operativa".  
-Art. 46, relativo all'Istituto di statistica e' abrogato e sostituito dal seguente:  
-"L'Istituto di statistica, per le materie di Statistica, Statistica economica, Statistica giudiziaria, Statistica sociale, Statistica sanitaria, Demografia e sociologia, funziona come seminario ai sensi dell'art. 23 del regolamento generale universitario".  
-L'art. 48, relativo agli istituti della Facolta' di economia e commercio, e' abrogato e sostituito dal seguente:  
+Lo statuto dell'Universita' di Bologna, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:   
+L'art. 343, relativo alla scuola di specializzazione in ingegneria mineraria, e' abrogato e sostituito dal seguente:   
+Art. 343. - Il piano degli studi della scuola e' il seguente:   
   
-Art. 48. - Alla Facolta', di economia e commercio sono annessi i seguenti istituti:  
-1) Istituto di diritto - per tutti gli insegnamenti giuridici della Facolta' per il corso di laurea di diploma in Statistica.  
-2) Istituto di Economia - per gli insegnamenti di Economia politica e di Scienze delle finanze e diritto finanziario.  
-3) Istituto di Geografia economica - per gli insegnamenti di Geografia, economica, di Geografia politica ed economia dei trasporti.  
-4) Istituto di Lingue - per tutti gli insegnamenti di Lingue impartiti nella Facolta'.  
-5) Istituto di Matematica finanziaria - per gli insegnamenti di Matematica generale, di Matematica finanziaria, di Elementi di matematica.  
-6) Istituto di Merceologia per gli insegnamenti di Merceologia e delle ulteriori discipline che possono essere istituite a carattere tecnico-chimico.  
-7) Istituto di Politica economica - per gli insegnamenti di Economia e politica agraria, di Politica economica e finanziaria, Economia e finanza delle imprese di assicurazione.  
-8) Istituto di Ragioneria pubblica e privata - per gli insegnamenti di Ragioneria generale e applicata, Contabilita' nazionale, Ragioneria pubblica.  
-9) Istituto di Statistica - per gli insegnamenti di Statistica, Statistica economica, Statistica sociale, Statistica giudiziaria, Statistica sanitaria, Demografia, Sociologia.  
-10) Istituto di Storia economica e sociale - per gli insegnamenti di Storia economica di storia delle dottrine economiche, Storia delle esplorazioni geografiche.  
-11) Istituto di Tecnica economica - per gli insegnamenti di Tecnica industriale e commerciale, Tecnica bancaria e professionale, Organizzazione aziendale, Ricerca operativa.  
-Dopo l'articolo 48, e con il conseguente spostamento della successiva numerazione, e' aggiunto il seguente nuovo articolo, relativo alla regolamentazione degli istituti annessi alla Facolta' di economia e commercio.  
-Art. 49. - La direzione degli istituti di cui all'articolo precedente spetta:  
-al professore di ruolo che impartisce l'insegnamento del Diritto commerciale per l'Istituto di Diritto;  
-al professore di ruolo che impartisce l'insegnamento dell'Economia politica per l'Istituto di Economia;  
-al professore di ruolo che impartisce l'insegnamento di Geografia economica per l'Istituto di Geografia economica;  
-al professore di ruolo di Lingue che sara' designato dal Consiglio di Facolta' per l'Istituto di Lingue;  
-al professore di ruolo che impartisce l'insegnamento di Matematica finanziaria per l'Istituto di Matematica finanziaria;  
-al professore di ruolo che impartisce l'insegnamento di Merceologia per l'Istituto di Merceologia;  
-al professore di ruolo che impartisce l'insegnamento della Politica economica e finanziaria per l'Istituto di Politica economica;  
-al professore di ruolo che impartisce l'insegnamento di Ragioneria generale e applicata per l'Istituto di Ragioneria pubblica e privata;  
-al professore di ruolo che impartisce l'insegnamento di Statistica per l'Istituto di Statistica;  
-al professore di ruolo che impartisce l'insegnamento di Storia economica per l'Istituto di Storia economica e sociale;  
-al professore di ruolo che impartisce l'insegnamento della Tecnica commerciale e industriale per l'Istituto di Tecnica economica.  
-I professori di ruolo s'intendono riferiti ai corsi per laurea. Nel caso di sdoppiamento di corsi, la direzione spetta al professore che 6 piu' anziano per appartenenza al Consiglio di Facolta'.  
-In mancanza di professore di ruolo la direzione sara' tenuta dal professore che sara' designato dal Consiglio di Facolta'.  
+1° Anno:   
+Mineralogia;   
+Geologia;   
+Giacimenti minerari;   
+Geofisica mineraria;   
+Arte mineraria;   
+Petrografia (sem.)   
+2° Anno:   
+Meccanica dei giacimenti di idrocarburi;   
+Tecnica dei sondaggi;   
+Legislazione mineraria (sem.);   
+e due corsi a scelta fra i seguenti:   
+Impianti minerari;   
+Preparazione dei minerali;   
+Meccanica delle rocce;   
+Produzione e trasporto degli idrocarburi;   
+Misure e controlli nei giacimenti di idrocarburi.   
+  
+Gli articoli 375 e 376 (gia' 227 e 228), relativi alla scuola di specializzazione in ingegneria e tecnica nucleare, sono abrogati e sostituiti dai seguenti:   
+Art. 375. - Le materie di insegnamento della scuola sono:   
+  
+1° Anno:   
+Metodi matematici dell'ingegneria nucleare;   
+Metodi quantistici della fisica nucleare;   
+Principi fisici di conversione diretta della energia;   
+Scienza dei materiali;   
+Teoria dei reattori nucleari;   
+Teoria molecolare dei gas e dei liquidi.   
+  
+2° Anno:   
+Dinamica e controllo dei reattori nucleari;   
+Effetti delle radiazioni sui materiali;   
+Fisica dei plasmi e fusione termonucleare;   
+Ingegneria dei sistemi nucleari;   
+Ingegneria del reattore nucleare;   
+Metodi avanzati di progettazione neutronica dei reattori nucleari;   
+Metodi sperimentali di fisica del reattore nucleare.   
+  
+Durante l'anno accademico verranno tenuti, secondo un piano fissato dal direttore della scuola, udito il consiglio della medesima, colloqui e seminari inerenti alle materie di insegnamento previsti.   
+Art. 376. - Per il conseguimento del diploma di specializzazione di cui al comma a) e b) dell'art. 372, gli iscritti dovranno seguire, superando i relativi esami, almeno quattro delle materie previste per il primo anno e quattro di quelle previste per il secondo anno (come sara' indicato, sentito l'iscritto, dal consiglio della scuola). Gli iscritti dovranno inoltre svolgere, durante il secondo anno di corso, un lavoro di ricerca o progetto nell'ambito e per conto della scuola e scrivere sotto forma di tesi, una relazione riguardante tale lavoro.   
+Per l'iscrizione al secondo anno di corso gli iscritti dovranno avere superato gli esami relativi ad almeno tre delle materie previste per il primo anno.   
+Per il conseguimento dell'attestato di frequenza e profitto di perfezionamento di cui al comma c) dell'art. 372 gli iscritti dovranno seguire, superando i relativi esami, almeno quattro delle sette materie previste nel precedente articolo per il 2° anno (come sara' indicato, sentito l'iscritto, dal consiglio della scuola).   
+Gli iscritti inoltre dovranno svolgere un lavoro di ricerca o progetto nell'ambito e per conto della scuola e scrivere, sotto forma di tesi, una relazione riguardante tale lavoro.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Sassari, addi' 31 dicembre 1963
+### Dato a Roma, addi' 10 maggio 1972
 
-SEGNI GUI
+LEONE MISASI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 18 marzo 1964
+Registrato alla Corte dei conti, addi' 25 luglio 1972
 
-Atti del Governo, registro n. 182, foglio n. 50. - VILLA
+Atti del Governo, registro n. 250, foglio n. 76. - CARUSO

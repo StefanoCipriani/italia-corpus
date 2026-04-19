@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 marzo 1960 n. 346
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 882
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 marzo 1960 n. 346
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 882
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
@@ -10,240 +10,340 @@ Modificazioni allo statuto dell'Universita' degli studi di Catania.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, numero 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), modificato con, regio decreto 16 ottobre 1940 e successivi;
+Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Catania e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 41. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' aggiunto quello di "Ottica fisiologica".
+Art. 176 - all'elenco delle scuole di specializzazione in medicina e chirurgia e' aggiunta la scuola di specializzazione in chirurgia d'urgenza e pronto soccorso.
 
-Art. 130. - All'elenco delle Scuole di specializzazione annesse alla Facolta' di medicina e chirurgia sono aggiunte quelle di "Medicina legale e delle assicurazioni" e di "Malattie del sangue e del ricambio".
+Dopo l'art. 264, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in chirurgia d'urgenza e pronto soccorso:
 
-Art. 155. - Il primo comma, riguardante le tasse dovute per l'iscrizione e frequenza alle Scuole di specializzazione in Medicina e chirurgia, e' modificato nel senso che esse vengono fissate nella misura del 50% in piu' di quelle stabilite per il corso di laurea in Medicina e chirurgia.
+Scuola di specializzazione in chirurgia d'urgenza e pronto soccorso Art. 265. - La scuola di specializzazione in chirurgia d'urgenza e pronto soccorso ha sede presso l'istituto di anatomia chirurgica e corso di operazioni dell'Universita' di Catania.
 
-Dopo l'art. 174, sono aggiunti i seguenti nuovi articoli concernenti le Scuole di specializzazione in "Medicina legale e delle assicurazioni" ed in "Malattie del sangue e del ricambio".
+Art. 266. - Il corso di studi per il conseguimento del diploma di specialista in chirurgia d'urgenza e' pronto soccorso ha la durata di cinque (5) anni accademici.
 
-Scuola di specializzazione in Medicina legale e delle assicurazioni
+Art. 267. - Alla scuola possono iscriversi i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
 
-Art. 175. - Il corso degli studi della Scuola di specializzazione in Medicina legale e delle assicurazioni ha la durata di tre anni.
+Il numero massimo degli iscritti e' di quattro per anno di corso e complessivamente di venti iscritti per l'intero corso di studi. Non sono ammesse abbreviazioni di corso. L'ammissione al corso avviene per titoli ed esami.
 
-La Scuola non puo' accogliere piu' di dieci iscritti per ciascun anno di corso.
+Art. 268. - La frequenza alle lezioni, esercitazioni e seminari e' obbligatoria per tutti gli iscritti. L'internato e' obbligatorio durante tutti i cinque anni di corso sotto forma di permanenza costante in istituto durante le ore della sua attivita'.
 
-Art. 176. - Gli insegnamenti impartiti nella Scuola sono i seguenti:
+Art. 269. - Le materie di insegnamento sono le seguenti:
 
-1° anno:
+clinica chirurgica generale d'urgenza e di pronto soccorso;
 
-1) Medicina legale, penale e civile (1° corso);
+patologia chirurgica;
 
-2) Medicina legale assicurativa (1° corso);
+anatomia chirurgica;
 
-3) Elementi di diritto pubblico e privato;
+semeiotica;
 
-4) Elementi di diritto penale e processuale penale;
+anestesiologia;
 
-5) Traumatologia forense (semeiotica) (1° corso);
+ricerche di laboratorio;
 
-6) Tossicologia forense;
+anatomia patologica;
 
-7) Esami di laboratorio; microscopia clinica (1° corso).
+endoscopia;
 
-2° anno:
+fisiopatologia chirurgica;
 
-1) Medicina legale, penale e civile (2° corso);
+chirurgia sperimentale;
 
-2) Medicina legale assicurativa (2° corso);
+trattamento pre e post operatorio in chirurgia d'urgenza;
 
-3) Legislazione del lavoro e delle assicurazioni;
+rianimazione;
 
-4) Elementi di matematica attuariale e tecnica delle assicurazioni;
+chirurgia vascolare d'urgenza;
 
-5) Traumatologia forense (semeiotica) (2° corso);
+traumatologia dell'apparato locomotore;
 
-6) Infortunistica (tecnica degli accertamenti e valutazioni medico-legali);
+neurotraumatologia;
 
-7) Malattie del lavoro;
+terapia intensiva;
 
-8) Esami di laboratorio: microscopia clinica (2° corso).
+radiologia;
 
-3° anno:
+chirurgia ginecologica d'urgenza;
 
-1) Infortunistica (tecnica degli accertamenti e valutazioni medico-legali) (2° corso);
+chirurgia pediatrica d'urgenza;
 
-2) Tecnica delle autopsie e diagnostica anatomopatologia;
+chirurgia plastica e riparatrice;
 
-3) Polizia scientifica medico-giudiziaria;
+chirurgia toracica d'urgenza;
 
-4) Psicopatologia forense e antropologia criminale;
+cardiochirurgia d'urgenza;
 
-5) Esami di laboratorio: microscopia clinica (3° corso).
+angioradiologia;
 
-Scuola di specializzazione in malattie del sangue e del ricambio
+chirurgia urologica d'urgenza;
 
-Art. 177. - E' istituita presso l'Istituto di patologia speciale medica e metodologia clinica dell'Universita' di Catania una Scuola di specializzazione in malattie del sangue e del ricambio.
+traumatologia maxillo-facciale;
 
-Art. 178. - Direttore della Scuola sara' il direttore dell'Istituto di patologia medica dell'Universita' di Catania.
+trattamento del politraumatizzato;
 
-Art. 179. - La Scuola svolge un corso triennale alla fine del quale i candidati che avranno superato gli esami di profitto discuteranno una tesi scritta per il conseguimento del titolo di specialista in malattie del sangue e del ricambio.
+medicina legale.
 
-Art. 180. - Sono ammessi alla Scuola non piu' di dieci laureati per ogni anno di corso.
+Art. 270. - Le materie di insegnamento sono cosi' distribuite:
 
-L'ammissione al primo corso sara' fatta tutti gli anni su proposta del direttore della Scuola in base ai titoli o previo esame qualora i richiedenti meritevoli superassero il numero di dieci.
+1° Anno:
 
-Art. 181. - Possono essere ammessi direttamente al 2° anno, sempre che la disponibilita' dei posti lo consenta, i laureati in Medicina e chirurgia che abbiano prestato almeno tre anni di servizio in qualita' di assistente effettivo od incaricato in un istituto universitario di Clinica medica o di Patologia medica o Semeiotica medica od almeno cinque anni di aiuto effettivo in un reparto di Medicina interna di un ospedale di prima categoria. In via transitoria per il primo anno di funzionamento della Scuola, potranno essere ammessi direttamente al secondo anno i medici che abbiano prestato servizio di assistente volontario e di medico interno per almeno cinque anni negli istituti di Clinica medica e di Patologia medica o di Semeiotica medica della Universita' di Catania.
+clinica chirurgica generale d'urgenza e di pronto
 
-Art. 182. - Gli insegnamenti impartiti nella Scuola sono:
+soccorso I;
 
-1° anno:
+patologia chirurgica I;
 
-1) Morfologia e morfogenesi normale e patologia del sangue;
+anatomia chirurgica;
 
-2) Biochimica ematologica;
+semeiotica I;
 
-3) Metodologia ematologica;
+anestesiologia;
 
-4) Anatomia e fisiologia generale dell'apparato digerente;
+ricerche di laboratorio;
 
-5) Fisiologia generale del ricambio (1° corso).
+chirurgia sperimentale.
 
-2° anno:
+2° Anno:
 
-1) Fisiopatologia generale del ricambio (2° corso);
+clinica chirurgica generale d'urgenza e di pronto
 
-2) Immunoematologia;
+soccorso II;
 
-3) Anatomia e istologia patologica delle malattie del sangue e del ricambio;
+patologia chirurgica II;
 
-4) Patologia speciale e clinica delle malattie del sangue;
+anatomia patologica;
 
-5) Patologia speciale e clinica delle malattie del ricambio.
+endoscopia;
 
-3° anno:
+fisiopatologia chirurgica I;
 
-1) Diagnostica e terapia ematologica;
+semeiotica II;
 
-2) Diagnostica e terapia delle malattie del ricambio;
+trattamento pre e post operatorio in chirurgia d'urgenza;
 
-3) Radiodiagnostica e radioterapica delle malattie del sangue e del ricambio.
+rianimazione.
+
+3° Anno:
+
+clinica chirurgica generale d'urgenza e di pronto
+
+soccorso III;
+
+patologia chirurgica III;
+
+chirurgia vascolare d'urgenza;
+
+traumatologia dell'apparato locomotore I;
+
+neurotraumatologia I;
+
+fisiopatologia chirurgica II;
+
+terapia intensiva I;
+
+radiologia.
+
+4° Anno:
+
+clinica chirurgica generale d'urgenza e di pronto
+
+soccorso IV;
+
+chirurgia ginecologica d'urgenza;
+
+chirurgia pediatrica d'urgenza;
+
+chirurgia plastica e riparatrice I;
+
+traumatologia dell'apparato locomotore II;
+
+neurotraumatologia II;
+
+chirurgia toracica d'urgenza I;
+
+terapia intensiva II.
+
+5° Anno:
+
+clinica chirurgica generale d'urgenza e di pronto
+
+soccorso V;
+
+chirurgia plastica e riparatrice II;
+
+chirurgia toracica d'urgenza II;
+
+cardiochirurgia d'urgenza;
+
+chirurgia urologica d'urgenza;
+
+angioradiologia;
+
+traumatologia maxillo-facciale;
+
+trattamento del politraumatizzato;
+
+medicina legale.
+
+Art. 271. - Alla fine di ogni anno gli specializzandi per poter ottenere l'ammissione all'anno successivo dovranno superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno di corso; per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
+
+Art. 272. - L'esame di diploma consiste nella discussione di una tesi su un tema preventivamente approvato dal direttore della scuola.
+
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Le norme per l'iscrizione, gli esami, le tasse, ecc., sono quelle generali per le scuole di specializzazione dell'Universita' di Catania.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 9 marzo 1960
+Dato a Roma, addi' 31 ottobre 1978
 
-GRONCHI
+PERTINI
 
-MEDICI
+PEDINI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BONIFACIO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 30 aprile 1960 Atti del Governo, registro n. 125, foglio n. 250. - VILLA
+alla Corte dei conti, addi' 28 dicembre 1978 Registro n. 135 Istruzione, foglio n. 304
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, numero 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), modificato con, regio decreto 16 ottobre 1940 e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Catania e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 41. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' aggiunto quello di "Ottica fisiologica".  
-Art. 130. - All'elenco delle Scuole di specializzazione annesse alla Facolta' di medicina e chirurgia sono aggiunte quelle di "Medicina legale e delle assicurazioni" e di "Malattie del sangue e del ricambio".  
-Art. 155. - Il primo comma, riguardante le tasse dovute per l'iscrizione e frequenza alle Scuole di specializzazione in Medicina e chirurgia, e' modificato nel senso che esse vengono fissate nella misura del 50% in piu' di quelle stabilite per il corso di laurea in Medicina e chirurgia.  
-Dopo l'art. 174, sono aggiunti i seguenti nuovi articoli concernenti le Scuole di specializzazione in "Medicina legale e delle assicurazioni" ed in "Malattie del sangue e del ricambio".  
+Lo statuto dell'Universita' di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 176 - all'elenco delle scuole di specializzazione in medicina e chirurgia e' aggiunta la scuola di specializzazione in chirurgia d'urgenza e pronto soccorso.  
+Dopo l'art. 264, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in chirurgia d'urgenza e pronto soccorso:  
   
-Scuola di specializzazione in Medicina legale e delle assicurazioni   
-Art. 175. - Il corso degli studi della Scuola di specializzazione in Medicina legale e delle assicurazioni ha la durata di tre anni.  
-La Scuola non puo' accogliere piu' di dieci iscritti per ciascun anno di corso.  
-Art. 176. - Gli insegnamenti impartiti nella Scuola sono i seguenti:  
-1° anno:  
-1) Medicina legale, penale e civile (1° corso);  
-2) Medicina legale assicurativa (1° corso);  
-3) Elementi di diritto pubblico e privato;  
-4) Elementi di diritto penale e processuale penale;  
-5) Traumatologia forense (semeiotica) (1° corso);  
-6) Tossicologia forense;  
-7) Esami di laboratorio; microscopia clinica (1° corso).  
-2° anno:  
-1) Medicina legale, penale e civile (2° corso);  
-2) Medicina legale assicurativa (2° corso);  
-3) Legislazione del lavoro e delle assicurazioni;  
-4) Elementi di matematica attuariale e tecnica delle assicurazioni;  
-5) Traumatologia forense (semeiotica) (2° corso);  
-6) Infortunistica (tecnica degli accertamenti e valutazioni medico-legali);  
-7) Malattie del lavoro;  
-8) Esami di laboratorio: microscopia clinica (2° corso).  
-3° anno:  
-1) Infortunistica (tecnica degli accertamenti e valutazioni medico-legali) (2° corso);  
-2) Tecnica delle autopsie e diagnostica anatomopatologia;  
-3) Polizia scientifica medico-giudiziaria;  
-4) Psicopatologia forense e antropologia criminale;  
-5) Esami di laboratorio: microscopia clinica (3° corso).  
-  
-Scuola di specializzazione in malattie del sangue e del ricambio  
-  
-Art. 177. - E' istituita presso l'Istituto di patologia speciale medica e metodologia clinica dell'Universita' di Catania una Scuola di specializzazione in malattie del sangue e del ricambio.  
-Art. 178. - Direttore della Scuola sara' il direttore dell'Istituto di patologia medica dell'Universita' di Catania.  
-Art. 179. - La Scuola svolge un corso triennale alla fine del quale i candidati che avranno superato gli esami di profitto discuteranno una tesi scritta per il conseguimento del titolo di specialista in malattie del sangue e del ricambio.  
-Art. 180. - Sono ammessi alla Scuola non piu' di dieci laureati per ogni anno di corso.  
-L'ammissione al primo corso sara' fatta tutti gli anni su proposta del direttore della Scuola in base ai titoli o previo esame qualora i richiedenti meritevoli superassero il numero di dieci.  
-Art. 181. - Possono essere ammessi direttamente al 2° anno, sempre che la disponibilita' dei posti lo consenta, i laureati in Medicina e chirurgia che abbiano prestato almeno tre anni di servizio in qualita' di assistente effettivo od incaricato in un istituto universitario di Clinica medica o di Patologia medica o Semeiotica medica od almeno cinque anni di aiuto effettivo in un reparto di Medicina interna di un ospedale di prima categoria. In via transitoria per il primo anno di funzionamento della Scuola, potranno essere ammessi direttamente al secondo anno i medici che abbiano prestato servizio di assistente volontario e di medico interno per almeno cinque anni negli istituti di Clinica medica e di Patologia medica o di Semeiotica medica della Universita' di Catania.  
-Art. 182. - Gli insegnamenti impartiti nella Scuola sono:  
-1° anno:  
-1) Morfologia e morfogenesi normale e patologia del sangue;  
-2) Biochimica ematologica;  
-3) Metodologia ematologica;  
-4) Anatomia e fisiologia generale dell'apparato digerente;  
-5) Fisiologia generale del ricambio (1° corso).  
-2° anno:  
-1) Fisiopatologia generale del ricambio (2° corso);  
-2) Immunoematologia;  
-3) Anatomia e istologia patologica delle malattie del sangue e del ricambio;  
-4) Patologia speciale e clinica delle malattie del sangue;  
-5) Patologia speciale e clinica delle malattie del ricambio.  
-3° anno:  
-1) Diagnostica e terapia ematologica;  
-2) Diagnostica e terapia delle malattie del ricambio;  
-3) Radiodiagnostica e radioterapica delle malattie del sangue e del ricambio.  
+Scuola di specializzazione in chirurgia d'urgenza e pronto soccorso Art. 265. - La scuola di specializzazione in chirurgia d'urgenza e pronto soccorso ha sede presso l'istituto di anatomia chirurgica e corso di operazioni dell'Universita' di Catania.  
+Art. 266. - Il corso di studi per il conseguimento del diploma di specialista in chirurgia d'urgenza e' pronto soccorso ha la durata di cinque (5) anni accademici.  
+Art. 267. - Alla scuola possono iscriversi i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+Il numero massimo degli iscritti e' di quattro per anno di corso e complessivamente di venti iscritti per l'intero corso di studi. Non sono ammesse abbreviazioni di corso. L'ammissione al corso avviene per titoli ed esami.  
+Art. 268. - La frequenza alle lezioni, esercitazioni e seminari e' obbligatoria per tutti gli iscritti. L'internato e' obbligatorio durante tutti i cinque anni di corso sotto forma di permanenza costante in istituto durante le ore della sua attivita'.  
+Art. 269. - Le materie di insegnamento sono le seguenti:  
+clinica chirurgica generale d'urgenza e di pronto soccorso;  
+patologia chirurgica;  
+anatomia chirurgica;  
+semeiotica;  
+anestesiologia;  
+ricerche di laboratorio;  
+anatomia patologica;  
+endoscopia;  
+fisiopatologia chirurgica;  
+chirurgia sperimentale;  
+trattamento pre e post operatorio in chirurgia d'urgenza;  
+rianimazione;  
+chirurgia vascolare d'urgenza;  
+traumatologia dell'apparato locomotore;  
+neurotraumatologia;  
+terapia intensiva;  
+radiologia;  
+chirurgia ginecologica d'urgenza;  
+chirurgia pediatrica d'urgenza;  
+chirurgia plastica e riparatrice;  
+chirurgia toracica d'urgenza;  
+cardiochirurgia d'urgenza;  
+angioradiologia;  
+chirurgia urologica d'urgenza;  
+traumatologia maxillo-facciale;  
+trattamento del politraumatizzato;  
+medicina legale.  
+Art. 270. - Le materie di insegnamento sono cosi' distribuite:  
+1° Anno:  
+clinica chirurgica generale d'urgenza e di pronto  
+soccorso I;  
+patologia chirurgica I;  
+anatomia chirurgica;  
+semeiotica I;  
+anestesiologia;  
+ricerche di laboratorio;  
+chirurgia sperimentale.  
+2° Anno:  
+clinica chirurgica generale d'urgenza e di pronto  
+soccorso II;  
+patologia chirurgica II;  
+anatomia patologica;  
+endoscopia;  
+fisiopatologia chirurgica I;  
+semeiotica II;  
+trattamento pre e post operatorio in chirurgia d'urgenza;  
+rianimazione.  
+3° Anno:  
+clinica chirurgica generale d'urgenza e di pronto  
+soccorso III;  
+patologia chirurgica III;  
+chirurgia vascolare d'urgenza;  
+traumatologia dell'apparato locomotore I;  
+neurotraumatologia I;  
+fisiopatologia chirurgica II;  
+terapia intensiva I;  
+radiologia.  
+4° Anno:  
+clinica chirurgica generale d'urgenza e di pronto  
+soccorso IV;  
+chirurgia ginecologica d'urgenza;  
+chirurgia pediatrica d'urgenza;  
+chirurgia plastica e riparatrice I;  
+traumatologia dell'apparato locomotore II;  
+neurotraumatologia II;  
+chirurgia toracica d'urgenza I;  
+terapia intensiva II.  
+5° Anno:  
+clinica chirurgica generale d'urgenza e di pronto  
+soccorso V;  
+chirurgia plastica e riparatrice II;  
+chirurgia toracica d'urgenza II;  
+cardiochirurgia d'urgenza;  
+chirurgia urologica d'urgenza;  
+angioradiologia;  
+traumatologia maxillo-facciale;  
+trattamento del politraumatizzato;  
+medicina legale.  
+Art. 271. - Alla fine di ogni anno gli specializzandi per poter ottenere l'ammissione all'anno successivo dovranno superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno di corso; per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.  
+Art. 272. - L'esame di diploma consiste nella discussione di una tesi su un tema preventivamente approvato dal direttore della scuola.  
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Le norme per l'iscrizione, gli esami, le tasse, ecc., sono quelle generali per le scuole di specializzazione dell'Universita' di Catania.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 marzo 1960
+### Dato a Roma, addi' 31 ottobre 1978
 
-GRONCHI MEDICI
+PERTINI PEDINI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 30 aprile 1960
+Registrato alla Corte dei conti, addi' 28 dicembre 1978
 
-Atti del Governo, registro n. 125, foglio n. 250. - VILLA
+Registro n. 135 Istruzione, foglio n. 304

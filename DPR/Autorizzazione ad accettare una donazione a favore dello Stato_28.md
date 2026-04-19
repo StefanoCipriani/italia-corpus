@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 marzo 1983 n. 299
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 1143
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 marzo 1983 n. 299
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 1143
+=================================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-299. Decreto del Presidente della Repubblica 21 marzo 1983, col quale, sulla proposta del Ministro delle" finanze, viene autorizzata l'accettazione a favore dello Stato della donazione, consistente nel complesso archeologico sito in Chieti denominato "Tempietti romani di S. Paolo", disposta dal comune di Chieti con atto 15 maggio 1979, n. 64136 di repertorio, a rogito dott. Ubaldo Rulli, notaio in Chieti.  
+1143. Decreto del Presidente della Repubblica 22 settembre 1981, col quale, sulla proposta del Ministro delle finanze, viene autorizzata la accettazione della donazione a favore dello Stato, consistente in un appezzamento di terreno di mq. 645, sito in Acireale (Catania), localita' Capomulini, sul quale insistono i ruderi di un tempietto romano, disposta dal sig. Lo Giudice Roberto con atto pubblico 4 luglio 1964, n. 69232 di repertorio, a rogito dott. Cosimo Pulvirenti, notaio in Catania, e successivo atto di rettifica 9 luglio 1964, n. 69482 di repertorio, a rogito del medesimo notaio.  
   
 Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 15 giugno 1983  
-Registro n. 32 Finanze, foglio n. 87
+Registrato alla Corte dei conti, addi' 5 febbraio 1982  
+Registro n. 6 Finanze, foglio n. 69

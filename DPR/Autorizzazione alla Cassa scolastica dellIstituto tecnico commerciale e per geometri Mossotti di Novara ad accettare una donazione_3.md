@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 febbraio 1951 n. 764
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 febbraio 1951 n. 751
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 febbraio 1951 n. 764
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 febbraio 1951 n. 751
 ===============================================================
 
 Autorizzazione alla Cassa scolastica dell'Istituto tecnico commerciale e per geometri "Mossotti" di Novara ad accettare una donazione.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-764. Decreto del Presidente della Repubblica 22 febbraio 1951, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica dell'Istituto tecnico commerciale e per geometri "Mossotti" di Novara viene autorizzata ad accettare la donazione di L. 212.000 in titoli di Stato, da parte della Banca popolare di Novara, per l'istituzione di una borsa di studio intitolata al comm. avv. Cornelio Bardeaux, a favore di un giovane, o una giovane dell'Istituto, Sezione ragioneria, che abbia riportato le migliori votazioni.  
+751. Decreto del Presidente della Repubblica 22 febbraio 1951, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica dell'Istituto tecnico commerciale e per geometri "Mossotti" di Novara viene autorizzata ad accettare la donazione di L. 300.000 in titoli di Stato e L. 1045,50 in contante, da parte di parenti ed ammiratori di Alberto Saini, per l'istituzione di una borsa di studio intitolata "Alberto Saini", a favore di due alunni, o alunne, dell'Istituto superiore, Sezione ragioneria.  
   
 Visto, il Guardasigilli: PICCIONI  
 Registrato alla Corte dei conti, addi' 1 settembre 1951  
-Atti del Governo, registro n. 42, foglio n. 1. - CARLOMAGNO
+Atti del Governo, registro n. 42, foglio n. 4. - CARLOMAGNO

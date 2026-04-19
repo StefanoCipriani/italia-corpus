@@ -1,134 +1,245 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1963 n. 638
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1969 n. 847
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1963 n. 638
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1969 n. 847
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla
+-----
+
+proposta del Ministro per la pubblica istruzione; Decreta:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, numero 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831), modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Presso l'Universita' degli studi di Siena e' istituita la facolta' di magistero con i seguenti corsi di laurea:  
+1) corso di laurea in materie letterarie;  
+2) corso di laurea in pedagogia;  
+3) corso di laurea in lingue e letterature straniere;  
+4) diploma di abilitazione alla vigilanza nelle scuole elementari.  
+I suddetti corsi funzioneranno nella sede di Arezzo.  
+
+Art. 2
+------
+
   
-Decreta:  
+Per tale facolta' sono assegnati i seguenti posti di ruolo:  
+a) cinque posti di professore, prelevati sul contingente di cui all'[art. 1 della legge 24 febbraio 1967, n. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-02-24;62~art1) (aliquota 1967-68);  
+b) sei posti di assistente, prelevati sul contingente di cui all'art. 18, secondo comma, della suddetta legge n. 62 (aliquota 1967-68).  
+
+Art. 3
+------
+
   
-Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 21. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti quelli di:  
-Psichiatria;  
-Endocrinologia.  
-Art. 26. - Agli insegnamenti complementari del corso di laurea in Farmacia sono aggiunti i seguenti:  
-Fisiologia vegetale;  
-Scienza dell'alimentazione;  
-Microchimica mentre e' soppresso l'insegnamento complementare di:  
-Chimica di guerra.  
-Le norme riguardanti le precedenze sono abrogate e sostituite dalle seguenti:  
-Durante il corso degli studi sono stabilite le seguenti precedenze:  
-1) Lo studente non e' ammesso a sostenere l'esame di Fisiologia generale se prima non abbia superato lo esame di Anatomia umana.  
-2) L'esame di Chimica farmaceutica e tossicologica, come pure quello di Chimica biologica, nomi possono sostenersi se lo studente non ha superato gli esami di Chimica generale ed inorganica e di Chimica organica.  
-3) L'esame di Farmacologia e Farmacognosia puo' essere sostenuto solo dopo aver superato gli esami di Fisiologia generale, di Botanica e di Chimica farmaceutica.  
-Lo studente per essere ammesso all'esame di laurea dovra' inoltre aver compiuto durante il 3° e 4° anno dei suoi studi un periodo semestrale di pratica presso una farmacia autorizzata.  
-Art. 27, relativo alle norme per gli esami di laurea e' abrogato e sostituito dal seguente.  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed in quattro almeno da lui scelti fra i complementari ed inoltre deve presentare il certificato del direttore della farmacia presso la quale ha compiuto la pratica.  
-L'esame di laurea in Farmacia consiste in una prova pratica ed in una prova orale.  
-La prova pratica comprende:  
-a) analisi chimica qualitativa con miscuglio di non piu' di tre anioni e tre cationi;  
-b) analisi chimica quantitativa ponderale e volumetrica;  
-c) riconoscimento e saggi di purezza di un prodotto farmaceutico secondo la F.U.;  
-d) riconoscimento di droghe e piante medicinali;  
-e) dimostrazione dell'arte di ricettare, della Farmacopea e della legislazione sanitaria in quanto ha attinenza con la farmacia.  
-La prova orale consiste nella discussione di una dissertazione scritta presentata alla segreteria almeno quindici giorni prima dell'esame di laurea.  
-Art. 46. - Il primo comma e' abrogato e sostituito dal seguente:  
-"Il corso degli studi per il conseguimento del diploma di assistente sociale ha la durata di tre anni".  
-Art. 47. - E' abrogato e sostituito dal seguente.  
-Gli insegnamenti che si dividono in annuali e semestrali sono i seguenti:  
-I anno:  
-1) Istituzione di diritto pubblico, con particolare riguardo all'ordinamento costituzionale e amministrativo dello Stato (semestrale);  
-2) Istituzioni di diritto privato, con particolare riguardo al diritto delle persone e della famiglia (semestrale);  
-3) Diritto all'assistenza sociale. Legislazione sanitaria e scolastica;  
-4) Legislazione del lavoro. Diritto sindacale del lavoro e dell'emigrazione;  
-5) Biologia. Anatomia umana e Antropologia;  
-6) Fisiologia con nozioni di fisiopatologia;  
-7) Igiene e profilassi (semestrale);  
-8) Psicologia generale;  
-9) Storia sociale d'Italia (semestrale);  
-10) Sociologia generale e Antropologia culturale;  
-11) Elementi di Economia politica e di politica economica;  
-12) Statistica metodologica e Statistica dei fenomeni sociali;  
-13) Servizio sociale. Storia e sviluppo;  
-14) Introduzione alla teoria e ai metodi del servizio sociale.  
-Insegnamenti pratici. - Vengono impartiti tramite tirocini professionali ed esercitazioni pratiche che sono collegate alle lezioni teoriche durante tutto l'anno scolastico.  
-I tirocini professionali sono sempre svolti presso Enti di servizio sociale per alcune giornate settimanali durante tutto l'anno sotto la guida di assistenti sociali supervisori che guidano e valutano il graduale sviluppo professionale dell'allievo in collaborazione con la Scuola.  
-II anno  
-1) Elementi di Diritto penale, penitenziario e di procedura penale con particolare riguardo ai minorenni (semestrale);  
-2) Medicina delle assicurazioni e del lavoro (semestrale);  
-3) Medicina sociale (semestrale);  
-4) Psichiatria (semestrale);  
-5) Psicologia differenziale con particolare riguardo alla eta' evolutiva (semestrale);  
-6) Psicologia applicata (semestrale);  
-7) Psicologia sociale con particolare riguardo allo ambiente rurale (semestrale);  
-8) Urbanistica sociale e edilizia popolare (semestrale);  
-9) Servizio sociale. Campi di attivita'. Etica professionale;  
-10) Servizio sociale individuale;  
-11) Servizio sociale di gruppo;  
-12) Servizio sociale di comunita' (semestrale);  
-13) Ricerca sociale (semestrale);  
-14) Organizzazione ed amministrazione dei servizi sociali (semestrale).  
-Insegnamenti pratici. - Vengono impartiti tramite tirocini professionali ed esercitazioni pratiche che sono collegate alle lezioni teoriche durante tutto l'anno scolastico.  
-I tirocini professionali sono sempre svolti presso Enti di servizio sociale per alcune giornate settimanali durante tutto l'anno sotto la guida di assistenti sociali supervisori che guidano e valutano il graduale sviluppo professionale dell'allievo in collaborazione con la Scuola.  
-III anno:  
-1) Diritto agrario (con particolare riguardo alla riforma fondiaria e alla politica agraria) (semestrale);  
-2) Elementi di Economia e politica agraria (con particolare riguardo alla bonifica e riforma agraria) (semestrale);  
-3) Servizio sociale. Sistemi di sicurezza sociale;  
-4) Servizio sociale individuale;  
-5) Servizio sociale di gruppo;  
-6) Servizio sociale di comunita';  
-7) Ricerca sociale;  
-8) Organizzazione e amministrazione dei servizi sociali (semestrale);  
-Insegnamenti pratici. - Vengono impartiti tramite tirocini professionali ed esercitazioni pratiche che sono collegate alle lezioni teoriche durante tutto l'anno scolastico. I tirocini professionali sono sempre svolti presso Enti di servizio sociale per alcune giornate settimanali durante tutto l'anno sotto la guida di assistenti sociali supervisori che guidano e valutano il graduale sviluppo professionale dell'allievo in collaborazione con la Scuola.  
-Il numero delle lezioni per ogni singolo insegnamento sara' determinato dal Consiglio dei professori della Scuola, secondo le esigenze dello svolgimento delle diverse materie.  
-Dopo l'art. 86 e' aggiunto il seguente nuovo articolo relativo all'istituzione della Scuola di specializzazione in Anestesiologia.  
-Art. 87. - Alla Facolta' di medicina e chirurgia di questa Universita' e' annessa la Scuola di specializzazione in Anestesiologia, cui potranno essere ammessi non piu' di venti allievi per ogni anno di corso.  
-La Scuola ha la durata di due anni.  
-Le materie di insegnamento sono le seguenti:  
-I anno:  
-1) Anatomia umana normale;  
-2) Fisiopatologia anestesiologica;  
-3) Biochimica;  
-4) Farmacologia;  
-5) Anestesiologia (1° corso);  
-6) Anestesia clinica (1° corso);  
-7) Tecnica anestesiologica (1° corso);  
-8) Rianimazione (1° corso);  
-II anno:  
-1) Anestesiologia (II corso);  
-2) Anestesia clinica (II corso);  
-3) Tecnica anestesiologica (II corso);  
-4) Rianimazione (II corso).  
-Gli esami nelle materie con svolgimento biennale saranno sostenuti alla fine del secondo anno.  
-Per quanto altro si riferisce alla Scuola di specializzazione in Anestesiologia si fa riferimento alle norme generali che regolano altre scuole di specializzazione medico-chirurgiche esistenti presso la Facolta' di medicina e chirurgia.  
+Le attribuzioni demandate dalle vigenti disposizioni di legge e di regolamento al consiglio di facolta', vengono esercitate da un apposito comitato composto di tre professori di ruolo e fuori ruolo, nominati dal Ministro per la pubblica istruzione.  
+I professori di ruolo che in base alle vigenti disposizioni verranno a far parte della predetta facolta', saranno aggregati al comitato anzidetto. Tale comitato cessera' dalle sue funzioni allorche' alla facolta' stessa risulteranno assegnati tre professori di ruolo.  
+In ogni caso detto comitato non potra' rimanere in carica oltre un triennio e, qualora allo scadere del triennio medesimo, non risultino assegnati alla facolta' tre professori di ruolo, il Ministro per la pubblica istruzione provvedera' alla nomina di un nuovo comitato con le stesse modalita' indicate nel primo comma del presente articolo.  
+
+Art. 4
+------
+
+  
+Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti su indicati e' ulteriormente modificato come dal testo annesso al presente decreto, vistato dal Ministro per la pubblica istruzione, contenente le norme relative all'ordinamento della facolta' di magistero.  
+Tali nuovi corsi di laurea cominceranno a funzionare a decorrere dall'anno accademico 1969-70, con il primo anno di corso. Negli anni accademici successivi funzioneranno progressivamente gli anni di corso susseguenti al primo.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 marzo 1963
+### Dato a Roma, addi' 31 ottobre 1969
 
-SEGNI GUI
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 8 maggio 1963
+Registrato alla Corte dei conti, addi' 2 dicembre 1969
 
-Atti del Governo, registro n. 169, foglio n. 10. - VILLA
+Atti del Governo, registro n. 230, foglio n. 125. - CARUSO
+
+Allegato
+
+Testo delle modifiche allo statuto dell'Universita' degli studi di Siena relativo all'istituzione della facolta' di magistero   
+  
+Art. 1. - All'elenco delle facolta' che comprende la Universita' di Siena e' aggiunta la seguente:   
+Facolta' di magistero.   
+Dopo l'art. 43 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli, relativi all'istituzione della facolta' di magistero.   
+  
+TITOLO IX   
+Facolta' di magistero   
+  
+Art. 44. - La facolta' di magistero conferisce le lauree ed i diplomi seguenti:   
+a) laurea in materie letterarie;   
+b) laurea in pedagogia;   
+c) laurea in lingue e letterature straniere;   
+d) diploma di abilitazione alla vigilanza nelle scuole elementari.   
+  
+Art. 45. - La durata del corso degli studi per la laurea in materie letterarie e' di quattro anni.   
+Sono titoli di ammissione il diploma di abilitazione magistrale; diploma di maturita' scientifica.   
+  
+Insegnamenti fondamentali:   
+  
+1. Lingua e letteratura italiana (triennale);   
+2. Lingua e letteratura latina (triennale);   
+3. Storia (triennale);   
+4. Geografia (triennale);   
+5. Pedagogia;   
+6. Storia della filosofia;   
+7. Lingua e letteratura moderna e straniera a scelta (biennale).   
+  
+Insegnamenti complementari:   
+  
+1. Grammatica latina;   
+2. Filologia romanza;   
+3. Istituzioni di diritto pubblico e legislazione scolastica;   
+4. Storia dell'arte medioevale e moderna;   
+5. Sociologia;   
+6. Psicologia;   
+7. Storia delle dottrine politiche;   
+8. Una seconda lingua e letteratura moderna straniera;   
+9. Storia della musica;   
+10. Storia della grammatica della lingua italiana;   
+11. Storia del Risorgimento;   
+12. Storia delle religioni.   
+  
+Nel corso di "Storia" (triennale) un anno deve essere dedicato alla storia romana, un anno alla storia medioevale, ed un anno alla storia moderna, alternativamente.   
+Nel corso di "Storia" (triennale) un anno deve essere dedicato alla storia romana, un anno alla storia medioevale, ed un anno alla storia moderna, alternativamente.   
+Lo studente deve sostenere una prova scritta di traduzione latina, una della lingua straniera scelta ed una di cultura generale.   
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti fra i complementari.   
+  
+Art. 46. - La durata del corso degli studi per la laurea in pedagogia e' di quattro anni.   
+Sono titoli di ammissione: il diploma di abilitazione magistrale; il diploma di maturita' scientifica.   
+  
+Insegnamenti fondamentali:   
+  
+1. Lingua e letteratura italiana (biennale);   
+2. Lingua e letteratura latina (biennale);   
+3. Storia della filosofia (biennale);   
+4. Filosofia (biennale);   
+5. Pedagogia (triennale);   
+6. Storia (biennale);   
+7. Lingua e letteratura moderna straniera a scelta (biennale).   
+  
+Insegnamenti complementari:   
+  
+1. Filologia romanza;   
+2. Istituzioni di diritto pubblico e legislazione scolastica;   
+3. Psicologia;   
+4. Storia dell'arte medioevale e moderna;   
+5. Sociologia;   
+6. Storia delle dottrine politiche;   
+7. Storia della grammatica;   
+8. Storia del Risorgimento;   
+9. Storia delle religioni;   
+10. Psicologia dell'eta' evolutiva;   
+11. Storia della filosofia contemporanea.   
+  
+Nel corso di "Storia" (biennale) un anno deve essere dedicato alla storia medioevale ed uno alla storia moderna, alternativamente.   
+Lo studente deve sostenere una prova scritta di italiano, una traduzione latina, una delle lingue straniere a scelta ed una di cultura generale sulle discipline filosofiche.   
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti fra i complementari.   
+  
+Art. 47. - La durata del corso di studi per la laurea in lingue e letterature straniere e' di quattro anni.   
+Sono titoli di ammissione: il diploma di abilitazione magistrale; il diploma di maturita' scientifica, nonche' gli altri titoli, di cui alla tab. XVI, annessa al [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni.   
+  
+Insegnamenti fondamentali:   
+  
+1. Lingua e letteratura italiana (biennale);   
+2. Lingua e letteratura latina (biennale);   
+3. Lingua e letteratura francese;   
+4. Lingua e letteratura tedesca;   
+5. Lingua e letteratura inglese;   
+6. Lingua e letteratura spagnola;   
+7. Filologia romanza;   
+8. Filologia germanica;   
+9. Storia (biennale);   
+10. Geografia.   
+  
+Insegnamenti complementari:   
+  
+1. Storia della filosofia;   
+2. Filosofia;   
+3. Pedagogia;   
+4. Storia dell'arte medioevale e moderna;   
+5. Istituzioni di diritto pubblico e legislazione scolastica;   
+6. Psicologia;   
+7. Letteratura anglo-americana;   
+8. Letteratura ibero-americana;   
+9. Lingua e letteratura portoghese;   
+10. Lingua e letteratura russa;   
+11. Filologia slava;   
+12. Storia delle dottrine politiche.   
+  
+Lo studente deve seguire per tutti i quattro anni l'insegnamento della lingua straniera alla quale intende dedicare i suoi studi, e per due anni quello di un'altra delle lingue straniere; egli puo' inoltre seguire, pure per due anni, l'insegnamento di una terza lingua straniera, nel qual caso puo' diminuire di uno gli insegnamenti complementari.   
+Nel corso di storia (biennale) un anno deve essere dedicato alla storia medioevale ed un anno alla storia moderna alternativamente.   
+Lo studente deve sostenere una prova scritta di italiano, una di traduzione latina ed una di cultura generale nella lingua straniera nella quale ha approfondito i suoi studi per il conseguimento della laurea.   
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e almeno in tre da lui scelti fra i complementari.   
+  
+Art. 48. - La durata del corso degli studi per il diploma di abilitazione alla vigilanza nelle scuole secondarie e' di tre anni.   
+Sono titoli di ammissione: il diploma di abilitazione magistrale; il diploma di maturita' scientifica.   
+  
+Insegnamenti fondamentali:   
+  
+1. Pedagogia (triennale);   
+2. Lingua e letteratura italiana (biennale);   
+3. Lingua e letteratura latina (biennale);   
+4. Storia (biennale);   
+5. Geografia (biennale):   
+6. Storia della filosofia (biennale);   
+7. Istituzioni di diritto pubblico e legislazione scolastica;   
+8. Igiene.   
+  
+Insegnamenti complementari:   
+  
+1. Lingua moderna straniera a scelta (biennale).   
+  
+Lo studente deve sostenere una prova scritta di pedagogia, una di italiano ed una della lingua straniera a scelta.   
+Per conseguire il diploma lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed in quello complementare.   
+  
+Art. 49. - Gli esami di profitto devono essere tali da accertare la maturita' intellettuale del candidato e la sua preparazione nella materia sulla quale verte l'esame, senza limitarsi alle nozioni impartite dai professori nei corsi ai quali lo studente e' stato iscritto.   
+  
+Art. 50. - Per gli insegnamenti pluriennali sono prescritti distinti esami annuali.   
+  
+Art. 51. - La prova scritta, per le materie in cui e' contemplata, si sostiene quando l'insegnamento ad esso relativo sia frequentato per il prescritto numero di anni; la prova deve precedere l'ultimo esame orale della relativa materia ed esclude da questo se non viene sostenuta con esito positivo.   
+  
+Art. 52. - Con pubblico manifesto sono comunicati annualmente i piani di studio consigliati per i singoli corsi di laurea e di diploma e sono prescritte le esercitazioni e le eventuali prove per gli insegnamenti per i quali siano ritenute opportune dal consiglio di facolta'.   
+Gli studenti che aspirano alla esenzione delle tasse scolastiche, sono tenuti a seguire i piani di studio consigliati, con le norme stabilite dalle vigenti disposizioni di legge.   
+  
+Art. 53. - La prova scritta di cultura generale, nei corsi di laurea deve essere preceduta da tutti gli altri esami di profitto.   
+La prova scritta di pedagogia, nel corso del diploma, e' preceduta da tutti gli altri esami di profitto, salvo che dal terzo ed ultimo esame orale di pedagogia, ed esclude da queste se non viene sostenuto con esito positivo.   
+  
+Art. 54. - L'esame di laurea consiste nella discussione di una dissertazione scritta, svolta su un tema consigliato dal professore della materia scelta dal candidato.   
+L'argomento della dissertazione deve essere letterario, storico o geografico per gli aspiranti alla laurea in materie letterarie, di carattere filosofico per gli aspiranti alla laurea in pedagogia, per gli aspiranti alla laurea in lingue e letterature straniere l'argomento deve concernere la letteratura della lingua seguita nel corso di studi.   
+  
+Art. 55. - L'insegnamento delle materie comuni ai corsi di laurea e di diploma della facolta' puo' essere impartito a classi riunite.   
+  
+Art. 56. - Nella facolta' possono essere istituiti seminari ed istituti con particolare riguardo alle discipline pedagogiche e psicologiche ed alla didattica delle singole discipline di insegnamento.   
+  
+Art. 57. - Per quanto non previsto nel presente statuto valgono le norme vigenti in materia.   
+  
+  
+Visto, d'ordine del Presidente della Repubblica   
+  
+Il Ministro per la pubblica istruzione   
+FERRARI AGGRADI   

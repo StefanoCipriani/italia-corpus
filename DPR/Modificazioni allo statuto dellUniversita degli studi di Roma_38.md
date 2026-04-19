@@ -1,146 +1,92 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1979 n. 896
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1974 n. 678
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1979 n. 896
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 ottobre 1974 n. 678
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Roma e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-L'art. 97, relativo al corso di laurea in chimica, e' modificato nel senso che all'elenco degli insegnamenti complementari per l'indirizzo organico-biologico sono aggiunti i seguenti:  
-42) cristallografia;  
-43) chimica tossicologica;  
-44) spettroscopia elettronica ad alta energia;  
-45) fotochimica.  
-Nello stesso articolo, all'elenco degli insegnamenti complementari del corso di laurea in chimica, indirizzo inorganico-chimico-fisico, sono aggiunti i seguenti:  
-39) cristallografia;  
-40) chimica tossicologica;  
-41) spettroscopia elettronica ad alta energia;  
-42) fotochimica.  
-Dai suddetti elenchi l'insegnamento complementare di spettro-chimica e' soppresso.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-L'art. 98, relativo al corso di laurea in chimica industriale e' modificato nel senso che all'elenco degli insegnamenti complementari sono aggiunti i seguenti:  
-29) spettroscopia elettronica ad alta energia;  
-30) chimica delle fermentazioni e batteriologia industriale;  
-31) esercitazioni di analisi chimica applicata;  
-32) chimica macromolecolare;  
-33) biochimica industriale.  
-Dallo stesso elenco l'insegnamento di "chimica delle fermentazioni" e' soppresso.  
-
-Art. 3
-------
-
+Decreta:  
   
-L'art. 103, relativo al corso di laurea in fisica, e' modificato nel senso che all'elenco degli insegnamenti complementari sono aggiunti i seguenti:  
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli 515, 516, 517, 518, relativi alla scuola di specializzazione in neurologia e psichiatria, che muta la denominazione in quella di la scuola di specializzazione in neurologia, sono abrogati e sostituiti dai seguenti:  
   
-G.D.A. - complementi di fisica;  
-G.D.A. - meccanica dei fluidi;  
-G.D.A. - cristallografia;  
-G.D.A. - geologia;  
-G.D.A. - teoria ed applicazione delle macchine calcolatrici I;  
-G.D.A. - teoria ed applicazione delle macchine calcolatrici II;  
-G.D.A. - logica matematica II;  
-G.D.A. - matematica applicata I;  
-G.D.A. - matematica applicata II;  
-G.D.A. - calcolo delle probabilita' II;  
-G.D.A. - matematica combinatoria;  
-G.D.A. - analisi numerica III;  
-G.D.A. - teoria e metodi dell'ottimizzazione;  
-G.D.A. - fisica sanitaria;  
-G.D.A. - cosmologia.  
-
-Art. 4
-------
-
+Scuola di specializzazione in neurologia (1ª Scuola)  
   
-L'art. 108, relativo al corso di laurea in scienze naturali, e' modificato nel senso che all'elenco degli insegnamenti complementari sono aggiunti i seguenti:  
-50) biologia delle popolazioni umane;  
-51) idrobiologia;  
-52) sedimentologia;  
-53) fitogeografia;  
-54) paleobotanica;  
-55) biologia del suolo;  
-56) ecologia vegetale.  
-Nello stesso elenco l'insegnamento di elettrofisiologia passa da semestrale ad annuale.  
-
-Art. 5
-------
-
+Art. 515. - La scuola di specializzazione in neurologia ha sede presso l'istituto di I clinica delle malattie nervose e mentali e ha lo scopo di conferire adeguata competenza teorica e pratica ai laureati in medicina e chirurgia che intendono conseguire il diploma di specializzazione in neurologia.  
+Il corso degli studi ha la durata di quattro anni.  
+Il numero massimo di iscritti e' fissato a 48 per i complessivi quattro anni di corso. Sono esclusi da detto computo gli specializzandi "fuori corso".  
+L'ammissione al corso avviene per titoli ed esami; per i gia' specialisti in psichiatria e neuropsichiatria infantile e neurochirurgia potra' esservi abbuono di due anni e per gli specialisti in altre materie affini (medicina interna, otorinolaringoiatria, oculistica, radiologia) di un anno.  
+Tutti gli abbuoni di cui sopra sono concessi a giudizio del direttore della scuola e dopo il superamento di un esame di ammissione da parte del candidato.  
   
-L'art. 110, relativo al corso di laurea in scienze biologiche, e' modificato nel senso che all'elenco degli insegnamenti complementari sono aggiunti i seguenti:  
-54) biologia delle popolazioni umane;  
-55) embriologia molecolare;  
-56) strutturistica chimica;  
-57) fisiologia ed igiene del lavoro industriale;  
-58) virologia;  
-59) farmacologia;  
-60) storia della biologia;  
-61) ecologia vegetale.  
-Nello stesso elenco l'insegnamento di elettrofisiologia passa da semestrale ad annuale ed e' soppresso quelle di "embriologia chimica".  
-
-Art. 6
-------
-
+Art. 516. - Le materie di insegnamento sono:  
   
-L'art. 112, relativo al corso di laurea in scienze geologiche, e' modificato nel senso che all'elenco degli insegna menti complementari sono aggiunti i seguenti:  
-49) sismologia (semestrale);  
-50) geomagnetismo (semestrale).  
-
-Art. 7
-------
-
+1° Anno:  
+1) Anatomia e istologia del sistema nervoso;  
+2) Fisiologia del sistema nervoso;  
+3) Biochimica del sistema nervoso;  
+4) Elementi di genetica;  
+5) Psicopatologia;  
+6) Semeiotica psichiatrica;  
+7) Psicologia generale.  
   
-Il secondo comma dell'art. 116, relativo alle norme per il conseguimento di una nuova laurea, e' sostituite dal seguente:  
-"La facolta' non e' tenuta a convalidare le materie superate per la laurea precedente; quindi essa al riguardo si regolera' caso per caso, in base ai punti con i quali le materie stesse sono state superate ed al loro programma ed al curriculum degli studi presentato da richiedente".  
-
-Art. 8
-------
-
+2° Anno:  
+1) Anatomia e istologia patologica del sistema nervoso;  
+2) Semeiotica neurologica;  
+3) Patologia speciale e diagnostica neurologica (I);  
+4) Neuroradiologia;  
+5) Endocrinologia e neurologia vegetativa.  
   
-L'art. 431, relativo all'elenco degli insegnamenti della scuola di perfezionamento in scienze biologiche, e' modificato nel senso che l'insegnamento di "biologia delle razze umane" e' sostituito da quello di "biologia delle popolazioni umane".  
+3° Anno:  
+1) Patologia speciale e diagnostica neurologica (II);  
+2) Clinica neurologica (I);  
+3) Elettroencefalografia;  
+4) Elettromiografia, elettrodiagnostica ed elettroterapia;  
+5) Neuro-oftalmologia;  
+6) Neuro-otologia;  
+7) Esami di laboratorio.  
+  
+4° Anno:  
+1) Clinica neurologica e terapia (II);  
+2) Neurochirurgia;  
+3) Teoria e clinica della riabilitazione;  
+4) Neuro-traumatologia anche sotto l'aspetto della medicina legale;  
+5) Neurologia in rapporto alla patologia internistica.  
+  
+Tutte le discipline vengono svolte sotto forma di lezioni, dimostrazioni pratiche, illustrazione di casi chimici, a seconda delle esigenze didattiche delle discipline stesse.  
+  
+Art. 517. - Gli iscritti hanno l'obbligo di frequentare assiduamente per tutti e quattro gli anni i corsi e prestare quotidianamente servizio nei reparti psichiatrici dell'istituto di 1a clinica delle malattie nervose e mentali per il 1° anno, nei reparti neurologici dello stesso istituto per il 2°, 3° e 4° anno, con diritto ad un mese di vacanza all'anno.  
+Per i medici che prestano servizio regolare in reparti neurologici di altri ospedali la frequenza nei reparti neurologici della la clinica delle malattie nervose e mentali potra' essere ridotta di non piu' di sei mesi all'anno, per quelli che prestano servizio in ospedali psichiatrici potra' essere di non piu' di quattro mesi.  
+Per il passaggio agli anni successivi e' obbligatorio il superamento di un esame finale per ogni singolo anno.  
+  
+Art. 518. - Alla fine dei quattro anni gli allievi che hanno frequentato i corsi saranno ammessi all'esame di diploma consistente nella presentazione e discussione di una tesi scritta di argomento pertinente alla neurologia.  
+Agli allievi che avranno ottenuto l'approvazione nell'esame di diploma verra' rilasciato il diploma di specializzazione in neurologia valido a tutti gli effetti di legge.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e del decreto della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1979
+### Dato a Roma, addi' 29 ottobre 1974
 
-PERTINI VALITUTTI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 26 aprile 1980
+Registrato alla Corte dei conti, addi' 7 dicembre 1974
 
-Registro n. 38 Istruzione, foglio n. 24
+Atti di Governo, registro n. 7, foglio n. 78. - SCIARRETTA

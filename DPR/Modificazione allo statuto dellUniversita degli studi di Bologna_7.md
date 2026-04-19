@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 356
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1986 n. 808
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 356
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1986 n. 808
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -39,21 +39,21 @@ Articolo unico
 --------------
 
   
-Nell'art. 175, relativo al corso di laurea in medicina veterinaria, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
-suinicoltura.  
+Nell'art. 116, relativo al corso di laurea in chimica - indirizzo organico biologico, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
+biopolimeri.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 marzo 1986
+### Dato a Roma, addi' 4 giugno 1986
 
 COSSIGA
 
 FALCUCCI, Ministro della pubblica istruzione
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: ROGNONI
 
-Registrato alla Corte dei conti, addi' 8 luglio 1986
+Registrato alla Corte dei conti, addi' 18 novembre 1986
 
-Registro n. 54 Istruzione, foglio n. 335
+Registro n. 85 istruzione, foglio n. 83

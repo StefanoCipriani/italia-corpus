@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 aprile 1950 n. 937
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 agosto 1953 n. 1140
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 aprile 1950 n. 937
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 agosto 1953 n. 1140
+==============================================================
 
 Autorizzazione alla Cassa scolastica della Scuola tecnica commerciale "T. Catullo" di Belluno ad accettare una donazione.
 -------------------------------------------------------------------------------------------------------------------------
@@ -12,7 +12,8 @@ Art. 1
 
 N.
 
-937. Decreto del Presidente della Repubblica 5 aprile 1950, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola tecnica commerciale "T. Catullo" di Belluno viene autorizzata ad accettare la donazione di nominali L. 20.000 in titoli di Stato 5%, disposta da un Comitato di cittadini, al fine dell'istituzione di un premio di studio, da conferire ogni tre anni, intitolato al nome di "Elisa Poloniato e Aurelia Bertoldi".  
+1140. Decreto del Presidente della Repubblica 25 agosto 1953, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola tecnica commerciale con annessa scuola di avviamento professionale a tipo commerciale "T. Catullo" di Belluno, viene autorizzata ad accettare la donazione di nominali L. 25.000 in titoli di Stato, per istituire, col relativo reddito, un annuo premio di studio intitolato al nome di "Frescura Renato".  
   
-Visto, il Guardasigilli: PICCIONI  
-Registrato alla Corte dei conti, addi' 28 novembre 1950
+Visto, il Guardasigilli: AZARA  
+Registrato alla Carte dei conti, addi' 26 marzo 1954  
+Atti del Governo, registro n. 82, foglio n. 68. - CARLOMAGNO

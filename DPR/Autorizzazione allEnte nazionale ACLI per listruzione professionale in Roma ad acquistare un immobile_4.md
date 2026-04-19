@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 aprile 1980 n. 220
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 aprile 1977 n. 362
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 aprile 1980 n. 220
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 aprile 1977 n. 362
 =============================================================
 
 Autorizzazione all'Ente nazionale ACLI per l'istruzione professionale, in Roma, ad acquistare un immobile.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-220. Decreto del Presidente della Repubblica 14 aprile 1980, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Ente nazionale ACLI per l'istruzione professionale (ENAIP), in Roma, viene autorizzato ad acquistare, al prezzo di L. 50.000.000, un immobile sito in Enna, tra via A. Diaz e via delle Scienze, esteso mq 1600, comprendente un sovrastante fabbricato terraneo a copertura, iscritto al nuovo catasto edilizio urbano alla partita 7872, con provenienza dal nuovo catasto terreni, al foglio 37, particella 531, di proprieta' delle Associazioni cristiane dei lavoratori italiani (ACLI), come da contratto condizionato di compravendita redatto in scrittura privata in data 14 dicembre 1973, autenticato a rogito dott. Giuseppe Intersimone, notaio in Roma, n. 106844 di repertorio, registrato a Roma in data 4 gennaio 1974, n. 250, da adibire a sede stabile della propria attivita' di formazione professionale.  
+362. Decreto del Presidente della Repubblica 1 aprile 1977, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Ente nazionale ACLI per l'istruzione professionale (E.N.A.I.P.), in Roma, viene autorizzato ad acquistare, al prezzo di L. 9.870.000, dalla S.p.a. Giovanni Lanzillotto e C. nelle persone dei liquidatori signori Giovanni Lanzillotto, Carmelo Lanzillotto e Antonietta Ramundo ved. Lanzillotto, l'appezzamento di suolo nudo a forma quadrangolare, esteso 987 mq situato nel comune di Galatone (Lecce), localita' Vasce, e i cui lati misurano, in senso orario, mt 31,25 per mt 27,50, per mt 31,20, e riportato nel nuovo catasto terreni alle partite 1580 e 4335, pt. 302, 342, 343, foglio mappale 24, allo scopo di destinare il suolo all'espansione delle attivita' di formazione professionale dell'Ente medesimo che risulta proprietario di limitrofo appezzamento terriero con annesso fabbricato.  
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 3 giugno 1980  
-Registro n. 1 Lavoro, foglio n. 106
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 2 luglio 1977  
+Registro n. 1 Lavoro, foglio n. 24

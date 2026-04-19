@@ -1,107 +1,70 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1984 n. 1050
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 settembre 1964 n. 1091
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1984 n. 1050
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 settembre 1964 n. 1091
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 14 ottobre 1926, n. 2090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2090), e modificato con [regio decreto 13 ottobre 1927, n. 2281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2281), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
-
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
+  
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592) Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare la nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
   
 Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Dopo l'art. 1071 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in malattie infettive, profilassi e polizia veterinaria.  
+Dopo l'art. 393 e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in "Endocrinologia e malattie del ricambio" annessa alla Facolta' di medicina e chirurgia.  
   
-Scuola di specializzazione in malattie infettive, profilassi e polizia veterinaria  
-Art. 1072. - E' istituita presso l'Universita' di Napoli la scuola di specializzazione in malattie infettive, profilassi e polizia veterinaria.  
-Art. 1073. - La direzione della scuola ha sede presso l'istituto di patologia e profilassi delle malattie infettive degli animali domestici della facolta' di medicina veterinaria, in via F. Delpino, 1, Napoli.  
-Art. 1074. - La scuola ha lo scopo di approfondire e aggiornare la preparazione dei laureati in medicina veterinaria creando tecnici altamente qualificati.  
-Questi, avendo raggiunto una specifica competenza e un'adeguata preparazione in un settore nevralgico della medicina veterinaria saranno in grado di identificare con maggiore facilita' e probabilita' le malattie infettive e le pericolose antropoctenosi, di provvedere a una idonea profilassi e di applicare drasticamente le norme di polizia veterinaria, in modo da salvaguardare non solo la vita degli animali ma, indirettamente, anche quella dell'uomo svolgendo, in tal modo, importanti funzioni non solo di ordine zootecnico, ma anche di ordine sociale. Cio' anche in base alla "Riforma sanitaria" che prevede per l'infettivista un ruolo determinante e preponderante (compiti di istituto), per il quale e' richiesta una vasta e particolare cultura.  
-Art. 1075. - La durata del corso e' di anni due e non e' suscettibile di abbreviazione, per uniformita' con le altre scuole di specializzazione che si svolgono nella facolta' di medicina veterinaria dell'Universita' di Napoli.  
-Art. 1076. - Il numero degli iscritti e' di cinquanta per ogni anno e complessivamente di cento per l'intero corso di studio.  
-Art. 1077. - Alla scuola di specializzazione sono ammessi solo i laureati in medicina veterinaria che abbiano conseguito l'abilitazione all'esercizio professionale.  
-Art. 1078. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:  
-a) la tesi nella disciplina attinente alla specializzazione;  
-b) il voto di laurea;  
-c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;  
-d) le pubblicazioni nelle predette materie.  
-Il punteggio dei predetti e' quello stabilito dal decreto ministeriale 16 settembre 1982 (Gazzetta. Ufficiale n. 275 del 6 ottobre 1982).  
-Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo riportato.  
-Art. 1079. - Le materie d'insegnamento sono le seguenti:  
+Scuola di specializzazione in Endocrinologia  
+e malattie del ricambio  
+  
+Art. 394. - La Scuola di specializzazione in Endocrinologia e malattie del ricambio ha la durata di anni tre. Essa ha sede per i primi due anni di corso presso l'Istituto di patologia speciale medica e metodologia clinica e per il terzo anno di corso presso l'Istituto di Clinica medica generale e terapia medica dell'Universita', ed e' diretta dai direttori di questi due Istituti.  
+La direzione della Scuola e' affidata alternativamente ad uno dei due titolari delle cattedre predette che si alterneranno di anno in anno nelle mansioni direttive, mentre l'altro titolare funzionera' di anno in anno come vice-direttore della Scuola stessa.  
+Art. 395. - Gli iscritti hanno l'obbligo di prestare servizio continuativo per i primi due anni di corso presso l'Istituto di Patologia speciale medica e per il terzo anno di corso presso l'Istituto di Clinica medica generale e terapia medica in qualita' di medici interni.  
+Art. 396. - Possono essere iscritti i laureati in Medicina e chirurgia nel numero massimo di dieci iscritti per ogni anno di corso. Gli iscritti saranno scelti in base al risultato di una prova scritta di esame ed in base ai titoli da essi eventualmente presentati insieme con la domanda di ammissione.  
+Art. 397. - Le materie d'insegnamento, tutte obbligatorie, sono le seguenti:  
 1° Anno:  
-1) virologia veterinaria;  
-2) microbiologia generale veterinaria;  
-3) immunologia;  
-4) parassitologia veterinaria;  
-5) igiene generale.  
+1) Anatomia ed istologia patologica in rapporto alle malattie endocrine e del ricambio;  
+2) Fisiologia degli organi endocrini e del ricambio;  
+3) Biochimica delle endocrinopatie e delle malattie del ricambio;  
+4) Semeiotica delle malattie endocrine e del ricambio;  
+5) Nozioni di genetica applicata alle malattie endocrine e del ricambio.  
 2° Anno:  
-1) malattie infettive e profilassi (malattie da batteri, da micoplasmi e da rickettsie);  
-2) malattie infettive e profilassi (malattie da protozoi);  
-3) malattie infettive e profilassi (malattie da virus);  
-4) anatomia patologica delle malattie infettive;  
-5) polizia veterinaria;  
-6) chemioterapia.  
-Tutti gli insegnamenti afferiscono alla facolta' di medicina veterinaria dell'Universita' di Napoli.  
-Art. 1080. - La frequenza ai corsi e' obbligatoria.  
-Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione d'esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso. Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.  
-Art. 1081. - Le attivita' pratiche riguarderanno esercitazioni di:  
-1) batteriologia;  
-2) virologia;  
-3) parassitologia;  
-4) immunuologia;  
-5) diagnostica di laboratorio.  
-La frequenza alle attivita' didattiche e pratiche e' obbligatoria, tuttavia lo specializzando per sostenere gli esami dovra' aver frequentato almeno i 3/4 delle lezioni teoriche e pratiche effettuate.  
-Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile sulla base di idonea documentazione l'attivita' svolta dallo specializzando presso gli istituti zooprofilattici, l'Istituto superiore di sanita', i laboratori veterinari militari e le strutture di servizio sociosanitario attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.  
-Art. 1082. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio della scuola di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso.  
-A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.  
-Art. 1083. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.  
-Art. 1084. - Il consiglio, composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99), e' presieduto dal direttore.  
-Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento di insegnamenti.  
-La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
+1) Patologia delle ghiandole endocrine;  
+2) Patologia del ricambio;  
+3) Tecniche biologiche, biochimiche e radioisotopiche applicate alla endocrinologia;  
+4) Biotipologia ed auxologia;  
+5) Endocrinologia ginecologica.  
+3° Anno:  
+1) Clinica delle malattie endocrine;  
+2) Clinica delle malattie del ricambio;  
+3) Terapia medica delle malattie endocrine e del ricambio;  
+4) Terapia chirurgica delle malattie endocrine;  
+5) Radiodiagnostica e radioterapia delle malattie endocrine e del ricambio.  
+Art. 398. - La frequenza di corsi d'insegnamento e' obbligatoria per l'ammissione ai singoli esami. I risultati favorevoli degli esami di ogni corso sono necessari per l'iscrizione all'anno di corso successivo.  
+Al termine degli anni di corso lo specializzando per conseguire il diploma di specializzazione dovra' presentare una dissertazione scritta elaborata negli Istituti di Clinica medica o di patologia speciale medica su argomento di Endocrinologia e di malattie del ricambio e dovra' sostenere un esame orale e pratico dinanzi ad una Commissione formata da cinque insegnanti della Scuola.  
+Abbreviazione di un solo anno di corso, con obbligo di sostenere i relativi esami, potra' essere concessa soltanto agli iscritti che sono gia' in possesso di specializzazione in discipline affini o fondamentali oppure che siano in possesso di titoli scientifici e di carriera che saranno vagliati dal Consiglio di facolta' su proposta dei direttori della Scuola.  
+Art. 399. - Le tasse, soprattasse ed i contributi per la Scuola di specializzazione in Endocrinologia e malattie del ricambio sono stabilite in misura eguale a quelle gia' in vigore per la Scuola di specializzazione in Cardiologia e malattie dei vasi di questa stessa Universita'.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1984
+### Dato a Roma, addi' 26 settembre 1964
 
-PERTINI
+Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA GUI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: REALE
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 2 novembre 1964
 
-Registrato alla Corte dei conti, addi' 31 gennaio 1985
-
-Registro n. 7 Istruzione, foglio n. 30
+Atti del Governo, registro n. 188, foglio n. 28. - VILLA

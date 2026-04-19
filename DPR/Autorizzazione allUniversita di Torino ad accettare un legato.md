@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 agosto 1953 n. 913
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1949 n. 203
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 agosto 1953 n. 913
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1949 n. 203
+============================================================
 
 Autorizzazione all'Universita' di Torino ad accettare un legato.
 ----------------------------------------------------------------
@@ -12,8 +12,7 @@ Art. 1
 
 N.
 
-913. Decreto del Presidente della Repubblica 25 agosto 1953, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Torino viene autorizzata ad accettare il legato di L. 300.000 nominali, in cartelle di Rendita italiana 5%, disposto in suo favore dalla signora Paola Bultri vedova del prof. Ettore Gruner, con testamento olografo 2 dicembre 1948, per l'istituzione, con la rendita del capitale donato, di due premi di studio, di cui uno da intitolarsi "Premio di studio dott. prof. Ettore Gruner" e da conferirsi ogni tre anni ed in perpetuo, ad uno studente dell'Universita' medesima che abbia conseguito nel triennio la migliore laurea in medicina, e l'altro da intitolarsi "Premio di studio Giovanni Francesco Gruner" e da assegnarsi ogni tre anni ed in perpetuo, ad uno studente dell'Universita' stessa che abbia conseguito nel triennio la migliore laurea in farmacia.  
+203. Decreto del Presidente della Repubblica 28 marzo 1949, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Torino viene autorizzata ad accettare il legato della somma di L. 50.000 disposto in suo favore dalla defunta damigella Elena Andreis, con testamento olografo depositato negli atti del notaio Giuseppe Gili di Torino, con verbale in data 18 gennaio 1947 e registrato a Torino il giorno 23 stesso mese al n. 9538, per l'istituzione di un premio annuo da intitolarsi al nome del fratello "dott. Alberto Andreis" e da conferirsi allo studente in medicina piu' distinto e meno abbiente, che consegua la laurea.  
   
-Visto, il Guardasigilli: AZARA  
-Registrato alla Corte dei conti, addi' 7 dicembre 1953  
-Atti del Governo, registro n. 80, foglio n. 67. - PALLA
+Visto, il Guardasigilli: GRASSI  
+Registrato alla Corte dei conti, addi' 2 maggio 1949

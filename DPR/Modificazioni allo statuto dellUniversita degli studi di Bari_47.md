@@ -1,23 +1,277 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 settembre 1956 n. 1381
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1971 n. 1326
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 settembre 1956 n. 1381
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1971 n. 1326
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+L'art. 174, relativo all'elenco delle scuole annesse alla facolta' di medicina e chirurgia e' modificato nel senso che le scuole in "Dermosifilopatia" e in "Clinica otorinolaringoiatrica" mutano rispettivamente la denominazione in quella di "Scuola di specializzazione in clinica dermosifilopatica" e di "Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale".
+
+L'art. 191, relativo alla "Scuola di specializzazione in dermosifilopatia" che muta la denominazione in quello di "Scuola di specializzazione in clinica dermosifilopatica" e' abrogato e sostituito dal seguente:
+
+Scuola di specializzazione in clinica dermosifilopatica
+
+Art. 191. - La scuola ha sede presso l'istituto di clinica dermosifilopatica.
+
+La durata del corso e' di tre anni.
+
+Non saranno concesse abbreviazioni di corso.
+
+Il numero complessivo degli iscritti alla scuola non puo' essere superiore a trenta per i tre anni di corso.
+
+L'ammissione alla scuola, qualora il numero delle domande fosse superiore a quello dei posti disponibili, avverra' in seguito a concorso per soli titoli.
+
+Gli iscritti alla scuola hanno l'obbligo dell'internato presso l'istituto di clinica dermosifilopatica per tutta la durata del corso.
+
+Gli insegnamenti impartiti nella scuola sono i seguenti:
+
+1° Anno:
+
+Anatomia e istologia normale della cute;
+
+Fisiologia della cute e degli annessi cutanei;
+
+Anatomia e fisiologia dell'apparato genitale;
+
+Microbiologia e parassitologia applicata;
+
+Tecnica di laboratorio con particolare riferimento alla sierologia applicata;
+
+Semeiotica dermatologica e venereologica.
+
+2° Anno:
+
+Patologia delle malattie cutanee;
+
+Patologia delle infezioni sessuali;
+
+Anatomia e istologia patologica della cute;
+
+Anatomia patologica delle malattie veneree e sessuali;
+
+Angiologia;
+
+Sessuologia.
+
+3° Anno:
+
+Clinica delle malattie cutanee;
+
+Clinica delle infezioni sessuali;
+
+Farmacologia e terapia medicamentosa;
+
+Fisioterapia dermatologica;
+
+Cosmetologia;
+
+Chirurgia plastica riparatrice;
+
+Igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.
+
+Gli esami di profitto degli specializzandi verranno dati in tre gruppi ed in tre sessioni distinte, ogni gruppo comprendente le materie proprie di ciascun anno di studio.
+
+L'esame di diploma consistera' nella esposizione e discussione di un argomento della disciplina su un tema dato al candidato ventiquattro ore prima della prova.
+
+L'art. 194, relativo alla "Scuola di specializzazione in odontoiatria e protesi dentaria" e' abrogato e sostituito dal seguente:
+
+Scuola di specializzazione in odontoiatria e protesi dentaria
+
+Art. 194. - La scuola ha sede presso l'istituto di clinica odontoiatrica.
+
+La durata del corso e' di tre anni.
+
+Non saranno concesse abbreviazioni di corso.
+
+Il numero complessivo degli iscritti alla scuola non puo' essere superiore a novanta, per i tre anni di corso.
+
+L'ammissione alla scuola avverra' in seguito a concorso per soli titoli.
+
+Gli iscritti alla scuola hanno l'obbligo dell'internato nell'istituto per tutta la durata del corso.
+
+Gli esami di profitto teorici e pratici saranno sostenuti in unica sessione nel mese di novembre.
+
+Alla fine del terzo annuo, dopo aver superato i relativi esami di profitto, gli allievi saranno ammessi a sostenere l'esame di diploma, consistente nella descrizione orale di una dissertazione scritta su un tema assegnato dal direttore della scuola.
+
+Gli insegnamenti sono ripartiti per i tre anni di corso nel seguente modo:
+
+1° Anno:
+
+Embriologia ed anatomia dentaria e maxillo-facciale;
+
+Microbiologia e igiene orale;
+
+Farmacologia odontostomatologica;
+
+Patologia odontostomatologica;
+
+Odontotecnica (1° anno);
+
+Anestesia e chirurgia stomatologica;
+
+Odontoiatria conservativa (1° anno);
+
+Clinica protesica dentaria e maxillo-facciale (1° anno);
+
+Esercitazioni pratiche affiancheranno gli insegnamenti.
+
+2° Anno:
+
+Odontoiatria conservativa (2° anno);
+
+Odontotecnica (2° anno);
+
+Clinica odontostomatologica (1° anno);
+
+Clinica protesica dentaria e maxillo-facciale (2° anno);
+
+Paradontologia (1° anno);
+
+Anatomia e istopatologia odontostomatologica;
+
+Odontoiatria infantile;
+
+Radiologia odontostomatologica;
+
+Ortopedia dento-maxillo-facciale (1° anno);
+
+Chirurgia maxillo-facciale (1° anno);
+
+Esercitazioni pratiche affiancheranno gli insegnamenti.
+
+3° Anno:
+
+Clinica odontostomatologica (2° anno);
+
+Chirurgia maxillo-facciale (2° anno);
+
+Medicina legale odontostomatologica;
+
+Ortopedia dento-maxillo-facciale (2° anno);
+
+Clinica protesica dentaria e maxillo-facciale (3° anno);
+
+Paradontologia (2° anno);
+
+Esercitazioni pratiche affiancheranno gli insegnamenti.
+
+L'art. 196, relativo alla "Scuola di specializzazione in clinica otorinolaringoiatrica" che muta la denominazione in "Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale" e' abrogato e sostituito dal seguente:
+
+Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale
+
+Art. 196. - La scuola ha sede presso l'istituto di clinica otorinolaringoiatrica.
+
+La durata del corso e' di tre anni.
+
+Non saranno concesse abbreviazioni di corso.
+
+Il numero complessivo degli iscritti alla scuola non puo' essere superiore a dodici, per i tre anni di corso.
+
+L'ammissione alla scuola avverra' in seguito a concorso per titoli ed esami.
+
+Gli insegnamenti impartiti nella scuola sono i seguenti:
+
+1° Anno:
+
+Anatomia Fisiologia;
+
+Audiologia (1° anno);
+
+Semeiologia otorinolaringoiatrica;
+
+Tecnica di laboratorio;
+
+Patologia e clinica otorinolaringoiatrica e cervicofacciale (1°);
+
+Anatomia e istologia patologica otorinolaringoiatrica.
+
+2° Anno:
+
+Tecniche operatorie in otorinolaringoiatria;
+
+Anestesiologia in otorinolaringoiatria;
+
+Patologia e clinica otorinolaringoiatrica e cervicofacciale (2°);
+
+Radiologia in rapporto con l'otorinolaringoiatria;
+
+Pediatria in rapporto con l'otorinolaringoiatria;
+
+Audiologia (2° anno);
+
+Otoneurologia;
+
+Foniatria.
+
+3° Anno:
+
+Patologia e clinica otorinolaringoiatrica e cervicofacciale (3°);
+
+Terapia medica e fisica in otorinolaringoiatria;
+
+Neuropatologia in rapporto con l'otorinolaringoiatria;
+
+Oculistica in rapporto con l'otorinolaringoiatria;
+
+Chirurgia plastica;
+
+Tracheo-broncoscopia;
+
+Medicina legale ed infortunistica in otorinolaringoiatria.
+
+Gli iscritti alla scuola hanno l'obbligo dell'internato presso l'istituto di clinica otorinolaringoiatrica per tutta la durata del corso.
+
+L'esame di diploma di specializzazione consiste nella discussione di una dissertazione scritta su argomento precedentemente concordato con il direttore della scuola.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 30 ottobre 1971
+
+SARAGAT
+
+MISASI
+
+Visto, il Guardasigilli: COLOMBO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 17 febbraio 1972 Atti del Governo, registro n. 247, foglio n. 16. - VALENTINI
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con i [regi decreti 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1927-10-13;2169); [31 ottobre 1929, n. 2481](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1929-10-31;2481); [30 ottobre 1930, n. 1858](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1930-10-30;1858); [22 ottobre 1931, n. 1422](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1931-10-22;1422); [27 ottobre 1932, n. 2082](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1932-10-27;2082); [13 dicembre 1934, n. 2404](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-13;2404); [1 ottobre 1936, n. 2020](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-01;2020); [13 luglio 1939, n. 1168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-07-13;1168); [26 ottobre 1940, n. 2029](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2029); [24 ottobre 1942, n. 1785, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1785) [21 aprile 1949, n. 451](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-21;451); [31 ottobre 1950, n. 1293](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1293); [11 maggio 1951, n. 633](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-05-11;633); [23 gennaio 1952, n. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-01-23;66); [25 giugno 1953, n. 753](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-06-25;753); [30 luglio 1953, n. 758](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-07-30;758); [25 agosto 1953, n. 857](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;857); [25 agosto 1953, n. 992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-08-25;992); [14 settembre 1954, n. 1198](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1198); [11 aprile 1955, n. 621](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-04-11;621); [31 agosto 1955, n. 896](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-08-31;896); [25 settembre 1955, n. 958](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-25;958) e [25 febbraio 1956, n. 298](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-02-25;298);  
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Veduta la [legge 3 novembre 1954, n. 1085](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-11-03;1085);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -27,53 +281,133 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Al cap. III - Facolta' di economia e commercio - dopo l'ordinamento del corso di laurea in economia e commercio, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione del corso di laurea in lingue e letterature straniere, con il conseguente spostamento della numerazione degli articoli successivi.  
+L'art. 174, relativo all'elenco delle scuole annesse alla facolta' di medicina e chirurgia e' modificato nel senso che le scuole in "Dermosifilopatia" e in "Clinica otorinolaringoiatrica" mutano rispettivamente la denominazione in quella di "Scuola di specializzazione in clinica dermosifilopatica" e di "Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale".  
+L'art. 191, relativo alla "Scuola di specializzazione in dermosifilopatia" che muta la denominazione in quello di "Scuola di specializzazione in clinica dermosifilopatica" e' abrogato e sostituito dal seguente:  
   
-Laurea in lingue e letterature straniere  
-Art. 20. - La durata del corso degli studi per la laurea in lingue e letterature straniere e' di quattro anni.  
-Titolo di ammissione: diploma di maturita' classica, di maturita' scientifica, di abilitazione magistrale o licenza, a norma dell'[art. 2 della legge 9 ottobre 1951, n. 1130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-10-09;1130~art2), dalla Scuola civica "Regina Margherita" di Genova, ora "Grazia Deledda", o dalla Scuola civica "Alessandro Manzoni" di Milano o dall'Istituto di cultura e lingue "Marcelline" di Milano.  
-Sono insegnamenti fondamentali:  
-1) lingua e letteratura italiana (biennale);  
-2) lingua e letteratura latina (biennale);  
-3) lingua e letteratura francese;  
-4) lingua e letteratura inglese;  
-5) lingua e letteratura tedesca;  
-6) lingua e letteratura spagnola;  
-7) filologia romanza;  
-8) filologia germanica;  
-9) storia (biennale);  
-10) geografia.  
-Sono insegnamenti complementari:  
-1) storia della filosofia;  
-2) filosofia;  
-3) pedagogia;  
-4) lingua e letteratura russa;  
-5) lingua serbo-croata;  
-6) lingua e letteratura araba;  
-7) lingua albanese;  
-8) istituzioni economiche e commerciali;  
-9) lingua e letteratura polacca;  
-10) storia del commercio con l'Oriente;  
-11) lingua e letteratura neo-greca;  
-12) lingua e letteratura portoghese.  
-Lo studente deve seguire per tutti i quattro anni l'insegnamento della lingua straniera alla quale intende dedicare i suoi studi e per due anni quello di un'altra delle lingue straniere; egli puo' inoltre seguire, pure per due anni, l'insegnamento di una terza lingua straniera, nel qual caso puo' diminuire di uno gli insegnamenti complementari.  
-Nel corso di "storia" (biennale) un anno deve essere dedicato alla storia medioevale ed un anno alla storia moderna, alternativamente.  
-Tutti gl'insegnamenti, sia annuali che pluriennali, comportano un esame alla fine di ciascun anno di corso.  
-E' obbligatoria una prova scritta di italiano, nonche' una di traduzione latina al secondo anno, indipendentemente dagli esami orali delle rispettive materie.  
-L'esame della lingua e letteratura straniera scelta come materia quadriennale consta, ogni anno, di una prova scritta e di una prova orale. La prova scritta per il quarto anno sara' di cultura generale.  
-Per essere ammesso all'esame di laurea, lo studente deve aver seguito i corsi e superato gli esami in tutti gl'insegnamenti fondamentali ed almeno in tre da lui scelti fra i complementari.  
-Art. 21. - L'esame di laurea consiste nella discussione di una tesi scritta su argomento concordato almeno un anno prima con il professore della lingua scelta dallo studente come quadriennale. La tesi deve essere redatta nella lingua straniera; e' tuttavia concesso allo studente, secondo le indicazioni del professore della materia, di potere svolgere tutta la tesi o parte di essa in italiano. La discussione orale sulla tesi si svolgera' preferibilmente in lingua straniera.  
+Scuola di specializzazione in clinica dermosifilopatica  
+  
+Art. 191. - La scuola ha sede presso l'istituto di clinica dermosifilopatica.  
+La durata del corso e' di tre anni.  
+Non saranno concesse abbreviazioni di corso.  
+Il numero complessivo degli iscritti alla scuola non puo' essere superiore a trenta per i tre anni di corso.  
+L'ammissione alla scuola, qualora il numero delle domande fosse superiore a quello dei posti disponibili, avverra' in seguito a concorso per soli titoli.  
+Gli iscritti alla scuola hanno l'obbligo dell'internato presso l'istituto di clinica dermosifilopatica per tutta la durata del corso.  
+Gli insegnamenti impartiti nella scuola sono i seguenti:  
+1° Anno:  
+Anatomia e istologia normale della cute;  
+Fisiologia della cute e degli annessi cutanei;  
+Anatomia e fisiologia dell'apparato genitale;  
+Microbiologia e parassitologia applicata;  
+Tecnica di laboratorio con particolare riferimento alla sierologia applicata;  
+Semeiotica dermatologica e venereologica.  
+2° Anno:  
+Patologia delle malattie cutanee;  
+Patologia delle infezioni sessuali;  
+Anatomia e istologia patologica della cute;  
+Anatomia patologica delle malattie veneree e sessuali;  
+Angiologia;  
+Sessuologia.  
+3° Anno:  
+Clinica delle malattie cutanee;  
+Clinica delle infezioni sessuali;  
+Farmacologia e terapia medicamentosa;  
+Fisioterapia dermatologica;  
+Cosmetologia;  
+Chirurgia plastica riparatrice;  
+Igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.  
+Gli esami di profitto degli specializzandi verranno dati in tre gruppi ed in tre sessioni distinte, ogni gruppo comprendente le materie proprie di ciascun anno di studio.  
+L'esame di diploma consistera' nella esposizione e discussione di un argomento della disciplina su un tema dato al candidato ventiquattro ore prima della prova.  
+  
+L'art. 194, relativo alla "Scuola di specializzazione in odontoiatria e protesi dentaria" e' abrogato e sostituito dal seguente:  
+  
+Scuola di specializzazione in odontoiatria e protesi dentaria  
+  
+Art. 194. - La scuola ha sede presso l'istituto di clinica odontoiatrica.  
+La durata del corso e' di tre anni.  
+Non saranno concesse abbreviazioni di corso.  
+Il numero complessivo degli iscritti alla scuola non puo' essere superiore a novanta, per i tre anni di corso.  
+L'ammissione alla scuola avverra' in seguito a concorso per soli titoli.  
+Gli iscritti alla scuola hanno l'obbligo dell'internato nell'istituto per tutta la durata del corso.  
+Gli esami di profitto teorici e pratici saranno sostenuti in unica sessione nel mese di novembre.  
+Alla fine del terzo annuo, dopo aver superato i relativi esami di profitto, gli allievi saranno ammessi a sostenere l'esame di diploma, consistente nella descrizione orale di una dissertazione scritta su un tema assegnato dal direttore della scuola.  
+Gli insegnamenti sono ripartiti per i tre anni di corso nel seguente modo:  
+1° Anno:  
+Embriologia ed anatomia dentaria e maxillo-facciale;  
+Microbiologia e igiene orale;  
+Farmacologia odontostomatologica;  
+Patologia odontostomatologica;  
+Odontotecnica (1° anno);  
+Anestesia e chirurgia stomatologica;  
+Odontoiatria conservativa (1° anno);  
+Clinica protesica dentaria e maxillo-facciale (1° anno);  
+Esercitazioni pratiche affiancheranno gli insegnamenti.  
+2° Anno:  
+Odontoiatria conservativa (2° anno);  
+Odontotecnica (2° anno);  
+Clinica odontostomatologica (1° anno);  
+Clinica protesica dentaria e maxillo-facciale (2° anno);  
+Paradontologia (1° anno);  
+Anatomia e istopatologia odontostomatologica;  
+Odontoiatria infantile;  
+Radiologia odontostomatologica;  
+Ortopedia dento-maxillo-facciale (1° anno);  
+Chirurgia maxillo-facciale (1° anno);  
+Esercitazioni pratiche affiancheranno gli insegnamenti.  
+3° Anno:  
+Clinica odontostomatologica (2° anno);  
+Chirurgia maxillo-facciale (2° anno);  
+Medicina legale odontostomatologica;  
+Ortopedia dento-maxillo-facciale (2° anno);  
+Clinica protesica dentaria e maxillo-facciale (3° anno);  
+Paradontologia (2° anno);  
+Esercitazioni pratiche affiancheranno gli insegnamenti.  
+L'art. 196, relativo alla "Scuola di specializzazione in clinica otorinolaringoiatrica" che muta la denominazione in "Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale" e' abrogato e sostituito dal seguente:  
+  
+Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale  
+  
+Art. 196. - La scuola ha sede presso l'istituto di clinica otorinolaringoiatrica.  
+La durata del corso e' di tre anni.  
+Non saranno concesse abbreviazioni di corso.  
+Il numero complessivo degli iscritti alla scuola non puo' essere superiore a dodici, per i tre anni di corso.  
+L'ammissione alla scuola avverra' in seguito a concorso per titoli ed esami.  
+Gli insegnamenti impartiti nella scuola sono i seguenti:  
+1° Anno:  
+Anatomia Fisiologia;  
+Audiologia (1° anno);  
+Semeiologia otorinolaringoiatrica;  
+Tecnica di laboratorio;  
+Patologia e clinica otorinolaringoiatrica e cervicofacciale (1°);  
+Anatomia e istologia patologica otorinolaringoiatrica.  
+2° Anno:  
+Tecniche operatorie in otorinolaringoiatria;  
+Anestesiologia in otorinolaringoiatria;  
+Patologia e clinica otorinolaringoiatrica e cervicofacciale (2°);  
+Radiologia in rapporto con l'otorinolaringoiatria;  
+Pediatria in rapporto con l'otorinolaringoiatria;  
+Audiologia (2° anno);  
+Otoneurologia;  
+Foniatria.  
+3° Anno:  
+Patologia e clinica otorinolaringoiatrica e cervicofacciale (3°);  
+Terapia medica e fisica in otorinolaringoiatria;  
+Neuropatologia in rapporto con l'otorinolaringoiatria;  
+Oculistica in rapporto con l'otorinolaringoiatria;  
+Chirurgia plastica;  
+Tracheo-broncoscopia;  
+Medicina legale ed infortunistica in otorinolaringoiatria.  
+Gli iscritti alla scuola hanno l'obbligo dell'internato presso l'istituto di clinica otorinolaringoiatrica per tutta la durata del corso.  
+L'esame di diploma di specializzazione consiste nella discussione di una dissertazione scritta su argomento precedentemente concordato con il direttore della scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 settembre 1956
+### Dato a Roma, addi' 30 ottobre 1971
 
-GRONCHI ROSSI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 17 dicembre 1956
+Registrato alla Corte dei conti, addi' 17 febbraio 1972
 
-Atti del Governo, registro n. 102, foglio n. 106. - CARLOMAGNO
+Atti del Governo, registro n. 247, foglio n. 16. - VALENTINI

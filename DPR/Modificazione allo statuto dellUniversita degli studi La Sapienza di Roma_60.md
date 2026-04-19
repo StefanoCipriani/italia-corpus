@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 642
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1983 n. 229
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 642
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1983 n. 229
+============================================================
 
 Modificazione allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
 ------------------------------------------------------------------------------
@@ -39,20 +39,19 @@ Articolo unico
 --------------
 
   
-Nell'art. 71, relativo al corso di laurea in lingue e letterature straniere della facolta' di magistero, nell'elenco degli insegnamenti complementari e' inserito l'insegnamento di "storia della cultura tedesca".  
+Art. 56 - nell'elenco degli insegnamenti complementari del corso di laurea in economia e commercio sono inseriti i seguenti insegnamenti: diritto regionale;  
+diritto bancario.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 giugno 1986
+### Dato a Roma, addi' 28 marzo 1983
 
-COSSIGA
+PERTINI FALCUCCI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: DARIDA
 
-Visto, il Guardasigilli: ROGNONI
+Registrato alla Corte dei conti, addi' 19 maggio 1983
 
-Registrato alla Corte dei conti, addi' 23 settembre 1986
-
-Registro n. 71 Istruzione, foglio n. 319
+Registro n. 36 Istruzione, foglio n. 68

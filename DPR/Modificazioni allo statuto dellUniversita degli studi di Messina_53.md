@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 1028
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1098
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 1028
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1098
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
@@ -18,159 +18,151 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382), in particolare l'art. 16;
 
-Vedute le proposte di modifiche dello statuto formulato dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina, e convalidati dal Consiglio universitario nazionale nei suoi pareri;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio universitario nazionale nel suo parere;
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Sulla
------
+Considerata la necessita' di adeguare la norma sulla direzione delle scuole dirette a fini speciali al disposto dell'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Sulla proposta del Ministro della pubblica istruzione;
 
-Art. 1
-------
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
 
   
   
-Lo statuto dell'Universita' di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Dopo l'art. 186, e con il conseguente spostamento della numerazione dei successivi articoli, sono aggiunti i seguenti nuovi articoli:   
   
-Dopo l'art. 186, e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in chirurgia generale (seconda scuola) ed in parassitologia medica.   
-  
-Seconda scuola di specializzazione in chirurgia generale   
-Art. 187. - La scuola di specializzazione in chirurgia generale ha sede presso la seconda clinica chirurgica generale e terapia chirurgica; la direzione della scuola e' affidata al professore ordinario, straordinario o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore ordinario, straordinario o fuori ruolo di materia affine.   
-In caso di motivato impedimento degli stessi, la direzione e' affidata al professore associato ed e' retta secondo le norme del regolamento generale per le scuole di specializzazione della facolta' di medicina e chirurgia dell'Universita' di Messina.   
-Art. 188. - La scuola di specializzazione in chirurgia generale conferisce il titolo di specialista in chirurgia generale.   
-Art. 189. - La durata del corso di studi per il conseguimento del diploma e' di cinque anni.   
-Art. 190. - Alla scuola possono iscriversi solo i laureati in medicina e chirurgia.   
-Art. 191. - Il numero massimo degli specializzandi ammessi e' di cinquantacinque complessivi nei cinque anni. L'ammissione e' per titoli ed esami.   
-Gli aspiranti debbono accertarsi presso la segreteria della seconda clinica chirurgica generale della data del concorso.   
-Art. 192. - Non sono consentite abbreviazioni del corso ne' l'iscrizione contemporanea ad altre scuole di specializzazione.   
-La frequenza alle lezioni, alle esercitazioni pratiche, la frequenza ai fini di apprendimento e' obbligatoria per l'ammissione agli esami; il superamento degli esami di ciascun anno e' condizione indispensabile per l'iscrizione all'anno successivo.   
-Gli esami possono essere sostenuti solamente in due sessioni annuali, una estiva ed una autunnale, e comunque non oltre il 30 novembre dell'anno in corso.   
-Art. 193. - Al termine dei cinque anni di corso, per ottenere il diploma, i candidati devono effettuare una dissertazione scritta su un argomento di chirurgia generale, da discutere davanti alla commissione per sostenere l'esame di diploma.   
-Art. 194. - Gli insegnamenti impartiti nella scuola sono i seguenti:   
-1) anatomia chirurgica e corso di operazioni (triennale);   
-2) anatomia ed istologia patologica (biennale);   
-3) anestesia e rianimazione;   
-4) chirurgia cardiovascolare;   
-5) chirurgia d'urgenza;   
-6) chirurgia ginecologica;   
-7) chirurgia pediatrica;   
-8) chirurgia riparativa e plastica;   
-9) chirurgia sperimentale;   
-10) chirurgia toracica;   
-11) chirurgia urologica;   
-12) clinica chirurgica generale (quinquennale);   
-13) fisiopatologia chirurgica;   
-14) medicina legale;   
-15) neurochirurgia;   
-16) patologia speciale chirurgica (triennale);   
-17) radiologia;   
-18) ricerche di laboratorio;   
-19) semeiotica chirurgica (biennale);   
-20) semeiotica strumentale ed endoscopica;   
-21) trattamento pre e post operatorio;   
-22) traumatologia ed ortopedia, e cosi' suddivisi:   
+Scuola di preparazione per tecnici di oto-neurologia   
+(scuola diretta a fini speciali)   
+Art. 187. - E' istituita ai sensi dell'art. 20 del testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), una scuola speciale di preparazione per tecnici di oto-neurologia che ha sede presso la clinica otorinolaringoiatrica dell'Universita'.   
+Art. 188. - La durata del corso di studi della scuola di preparazione per tecnici di oto-neurologia e' di tre anni.  
+L'indirizzo e' teorico-pratico.   
+Il numero complessivo degli iscritti alla scuola e' di quindici (cinque per ogni anno di corso).   
+Art. 189. - Possono essere ammessi alla scuola coloro che siano in possesso del titolo di studio prescritto per l'ammissione all'Universita' o istituto di istruzione universitaria. Gli aspiranti debbono, nei termini regolamentari, presentare apposita domanda su carta legale diretta al rettore e corredata dei prescritti documenti e sostenere un esame di ammissione che avra' luogo nei giorni stabiliti dal rettore con apposito manifesto.   
+Le domande di iscrizione ad anni successivi al primo vanno presentate nei termini regolamentari.   
+Art. 190. - Alla scuola si accede previo esame di cultura generale su argomenti facenti parte dei normali programmi dei licei o degli istituti di istruzione secondaria, con particolare riguardo alla parte dell'insegnamento di fisica acustica. La commissione giudicatrice viene nominata dal preside della facolta' di medicina e chirurgia ed e' composta dal direttore della scuola, presidente, e da due membri scelti fra professori di ruolo, incaricati e liberi docenti.   
+Art. 191. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa.   
+In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.   
+La facolta' di medicina e chirurgia della stessa Universita' esercita la vigilanza sul regolare funzionamento della scuola. Gli incarichi di insegnamento sono conferiti dal rettore su proposta del consiglio di facolta' di medicina e chirurgia, udito il direttore della scuola.   
+Art. 192. - L'anno accademico ha inizio e termine nella data stabilita dalle leggi in vigore per l'istruzione universitaria. Le date d'inizio e termine delle lezioni sono di regola eguali a quelle fissate per l'anno accademico.   
+Tali date, tuttavia, possono essere spostate per ragioni speciali inerenti la natura del corso.   
+Art. 193. - Le materie di insegnamento sono:   
 1° Anno:   
-1) clinica chirurgica generale I;   
-2) patologia speciale chirurgica I;   
-3) semeiotica chirurgica I;   
-4) anatomia chirurgica e corso di operazioni I;   
-5) chirurgia sperimentale;   
-6) anestesia e rianimazione;   
-7) ricerche di laboratorio.   
+1) anatomia del sistema vestibolare ed acustico;   
+2) fisiologia del sistema vestibolare ed acustico;   
+3) elementi di vestibologia;   
+4) basi fondamentali di fisica-acustica-audiometria;   
+5) rapporti tra labirinto, occhio e il ristagno oculare;   
+6) semeiologia vestibolare;   
 2° Anno:   
-1) clinica chirurgica generale II;   
-2) patologia speciale chirurgica II;   
-3) anatomia chirurgica e corso di operazioni II;   
-4) semeiotica chirurgica II;   
-5) fisiopatologia chirurgica;   
-6) anatomia ed istologia patologica I;   
-7) trattamento pre e post operatorio.   
-3° Anno:   
-1) clinica chirurgica generale III;   
-2) patologia speciale chirurgica III;   
-3) anatomia chirurgica e corso di operazioni III;   
-4) semeiotica strumentale ed endoscopica;   
-5) radiologia;   
-6) anatomia ed istologia patologica II.   
-4° Anno:   
-1) clinica chirurgica generale IV;   
-2) chirurgia ginecologica;   
-3) chirurgia urologica;   
+1) prove galvaniche, termiche, toroacceleratorio, cupolometria;  
+2) elettronistagmografia e termiche di registrazione;   
+3) neurologia;   
 4) neurochirurgia;   
-5) traumatologia ed ortopedia;   
-6) chirurgia pediatrica.   
-5° Anno:   
-1) clinica chirurgica generale V;   
-2) chirurgia toracica;   
-3) chirurgia cardiovascolare;   
-4) chirurgia riparativa e plastica;   
-5) chirurgia d'urgenza;   
-6) medicina legale.   
-  
-Scuola di specializzazione in parassitologia medica   
-Art. 195. - La scuola di specializzazione in parassitologia medica dell'Universita' di Messina si propone:   
-a) di incrementare lo sviluppo degli studi medici connessi alla parassitologia;   
-b) di fornire adeguata e specifica preparazione ai medici che intendono dedicarsi a questa particolare branca della medicina, conferendo ad essi il diploma di specialista in parassitologia medica.   
-Art. 196. - La scuola di specializzazione in parassitologia medica ha sede presso l'istituto di parassitologia medica, mentre gli insegnamenti clinici e specialistici si svolgeranno presso i rispettivi istituti clinici e specialistici.   
-La direzione della scuola e' affidata al professore ordinario, straordinario o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore ordinario, straordinario o fuori ruolo di materia affine.   
-In caso di motivato impedimento degli stessi, la direzione e' affidata al professore associato.   
-La scuola viene retta secondo le norme del regolamento generale per le scuole di specializzazione della facolta' di medicina e chirurgia dell'Universita' di Messina.   
-Il corso di studi ha la durata di tre anni con frequenza obbligatoria; non sono concesse abbreviazioni di anni di corso.   
-Il numero massimo degli iscritti e' di quindici per ognuno degli anni di corso.   
-L'ammissione ai corsi avviene in ogni caso per titoli ed esami.  
-Titolo d'obbligo e' il possesso della laurea in medicina e chirurgia.   
-Art. 197. - L'ordine degli studi e' il seguente:   
-1° Anno:   
-1) metodologia statistica;   
-2) igiene ed educazione sanitaria;   
-3) parassitologia generale;   
-4) sistematica dei parassiti di importanza medica;   
-5) zoonosi;   
-6) epidemiologia e profilassi generale delle malattie parassitarie;   
-7) storia della parassitologia;   
-8) legislazione sanitaria.   
-2° Anno:   
-1) entomologia parassitologica;   
-2) ecologia;   
-3) micologia;   
-4) microbiologia ed immunologia delle malattie parassitarie;   
-5) virologia;   
-6) impiego e rischi degli antiparassitari;   
-7) protozoologia;   
-8) elmintologia;   
-9) patologia e clinica delle malattie parassitarie (biennale) I.   
+5) oto-neurologia I;   
+6) esercitazioni pratiche di vestabologia;   
 3° Anno:   
-1) patologia e clinica delle malattie parassitarie (biennale) II;   
-2) profilassi delle malattie parassitarie di origine esotica;   
-3) parassitologia degli alimenti;   
-4) patologia e clinica delle malattie parassitarie nell'infanzia;   
-5) diagnostica e tecniche di laboratorio delle malattie parassitarie;   
-6) terapia medica delle malattie protozoarie;   
-7) terapia medica delle malattie da elminti;   
-8) terapia chirurgica delle malattie parassitarie.   
-La scuola svolge brevi corsi integrativi di conferenze o seminari sopra argomenti e discipline che sono stabilite, secondo le possibilita' contingenti, dal consiglio dei docenti della scuola.  
-Sono, inoltre, svolte esercitazioni pratiche.   
-Art. 198. - L'iscrizione agli anni successivi e' subordinata al superamento di tutti gli esami annuali.   
-Art. 199. - Il diploma si consegue dopo aver superato tutte le prove di esami del triennio; la prova di diploma si svolge con la discussione su una dissertazione scritta concernente un tema assegnato ed approvato dal direttore della scuola.   
+1) patologia labirintica;   
+2) patologia del sistema vestibolare centrale;   
+3) neuropsichiatria;   
+4) otorinolaringoiatria;   
+5) oto-neurologia II;   
+6) esercitazioni pratiche di vestabologia;   
+Art. 194. - L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni e dalla frequenza obbligatoria ai fini dell'apprendimento per un periodo di due anni nel reparto di vestibologia della clinica otorinolaringoiatrica.   
+La frequenza viene comprovata dalla attestazione rilasciata dagli insegnanti sui libretti di iscrizione.   
+La attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.   
+Le commissioni per gli esami di profitto e di diploma sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Le commissioni per gli esami di profitto sono composte di tre membri: il direttore della scuola, presidente, e da due insegnanti della scuola stessa.   
+La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente, e da quattro insegnanti della scuola stessa e da altri docenti.   
+Ogni commissario ha a sua disposizione dieci punti.   
+L'esame di diploma consiste, a scelta del candidato, o nella discussione di una tesi scritta su un argomento riguardante le materie di insegnamento, eventualmente integrato da una prova pratica stabilita dalla commissione esaminatrice, o in un esame generale teorico pratico.   
+I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola, ma, se al secondo anno non sia loro riconosciuta la idoneita', saranno senz'altro esclusi da ulteriori prove. Agli allievi che avranno superato l'esame finale verra' rilasciato il diploma di tecnico di otoneurologia.   
+Art. 195. - Per essere ammessi a frequentare gli anni del corso successivo al primo, gli iscritti devono aver superato gli esami dell'anno precedente.   
+Alla fine del terzo anno di corso, per essere ammessi all'esame di diploma gli iscritti devono aver superato tutti gli esami prescritti.   
+Gli esami di profitto e di diploma si danno in due sessioni, la prima, estiva, ha inizio subito dopo la chiusura annuale dei corsi e la seconda, autunnale, un mese innanzi il principio del nuovo anno scolastico.   
+Art. 196. - Il consiglio di amministrazione dell'Universita' su proposta della direzione della scuola, approvata dal consiglio di facolta', stabilira' di anno in anno l'ammontare dei contributi. Le tasse e soprattasse annuali a carico degli iscritti restano cosi' destinate:   
+  
+tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 10.000 soprattassa annuale d'esami. . . . . . . . . . . . . . . . . L. 5.000 tassa erariale di diploma . . . . . . . . . . . . . . . . . L. 50.000   
+tassa annuale di iscrizione per studenti   
+fuori corso. . . . . . . . . . . . . . . . . . . . . . . . . L. 3.000   
+  
+Art. 197. - Al funzionamento della suddetta scuola si provvedera' con i proventi delle tasse, soprattasse e contributi dovuti dagli iscritti e con eventuali elargizioni e contributi di enti pubblici o privati.   
+Scuola di preparazione per tecnici di ortofonia   
+(logopedisti)   
+(diretta a fini speciali)   
+Art. 198. - E' istituita, ai sensi dell'art. 20 del testo unico delle leggi sulla istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), una scuola speciale di preparazione per tecnici di ortofonia (logopedisti) che ha sede presso la clinica otorinolaringoiatrica dell'Universita'.   
+Art. 199. - La durata del corso degli studi della scuola di preparazione per tecnici di ortofonia (logopedisti) e' di tre anni.  
+L'indirizzo e' teorico-pratico.   
+Il numero complessivo degli iscritti e' di quindici (cinque per ogni anno di corso).   
+Art. 200. - Possono essere ammessi alla scuola coloro che siano in possesso del titolo di studio prescritto per l'ammissione all'Universita' od Istituto di istruzione universitaria.   
+Gli aspiranti debbono, nei termini regolamentari, presentare apposita domanda su carta legale diretta al rettore e corredata dei prescritti documenti e sostenere un esame di ammissione che avra' luogo nei giorni stabiliti dal rettore con apposito manifesto.   
+Le domande di iscrizione ad anni successivi al primo vanno presentate nei termini regolamentari.   
+Art. 201. - Alla scuola si accede previo esame di cultura generale su argomenti facenti parte dei normali programmi dei licei o degli istituti di istruzione secondaria, con particolare riguardo alla parte dell'insegnamento di fisica acustica.   
+La commissione giudicatrice viene nominata dal preside della facolta' di medicina e chirurgia ed e' composta dal direttore della scuola, presidente, e da due membri scelti fra professori di ruolo, incaricati e liberi docenti.   
+Art. 202. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa.   
+In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.   
+La facolta' di medicina e chirurgia della stessa Universita' esercita la vigilanza sul regolare funzionamento della scuola. Gli incarichi di insegnamento sono conferiti dal rettore, su proposta del consiglio di facolta' di medicina e chirurgia, udito il direttore della scuola.   
+Art. 203. - L'anno accademico ha inizio e termine nella data stabilita dalle leggi in vigore per l'istruzione universitaria. Le date di inizio e termine delle lezioni sono di regola eguali a quelle fissate per l'anno accademico.   
+Tali date, tuttavia, possono essere spostate per ragioni speciali inerenti la natura del corso.   
+Art. 204. - Le materie di insegnamento sono:   
+1° Anno:   
+anatomia degli organi e dei sistemi audiofono-articolari;   
+fisiologia degli organi e dei sistemi audiofono-articolari;   
+elementi di fisica acustica e tecniche di fonometria;   
+psicologia generale;   
+elementi di audiologia;   
+elementi di fonetica e linguistica.   
+2° Anno:   
+foniatria I;   
+tecniche di riabilitazione fonetica I;   
+semeiotica foniatrica;   
+fonetica sperimentale;   
+psicologia del linguaggio;   
+tecniche audiometriche.   
+3° Anno:   
+foniatria II;   
+tecniche di riabilitazione II;   
+riabilitazione protesica;   
+neuropsichiatria infantile;   
+tecniche di psicomotricita';   
+psicopedagogia.   
+Art. 205. - L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni e dalla frequenza obbligatoria ai fini dell'apprendimento per un periodo di due anni nel reparto di foniatria della clinica otorinolaringoiatrica.   
+La frequenza viene comprovata dalla attestazione rilasciata dagli insegnanti sui libretti di iscrizione. La attestazione di frequenza e' indispensabile ai fini dell'ammissione agli esami.   
+Art. 206. - Le commissioni degli esami di profitto e di diploma sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Le commissioni per gli esami di profitto sono composte da tre membri: il direttore della scuola, presidente, e da due insegnanti della scuola stessa.   
+La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente, e da quattro insegnanti della scuola stessa e da altri docenti. Ogni commissario ha a sua disposizione dieci punti. L'esame da' diploma consiste, a scelta del candidato, o nella discussione di una tesi scritta su un argomento riguardante le materie di insegnamento, eventualmente integrate di una prova pratica stabilita dalla commissione esaminatrice, o in un esame generale teorico-pratico.   
+I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola, ma se al secondo anno non sia loro riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove.   
+Agli allievi che avranno superato l'esame finale verra' rilasciato il diploma di tecnico di ortofonia (logopedista).   
+Art. 207. - Per essere ammessi a frequentare gli anni di corso successivi al primo gli iscritti devono aver superato gli esami dell'anno precedente. Alla fine del terzo anno di corso, per essere ammessi all'esame di diploma, gli iscritti devono aver superato tutti gli esami prescritti.   
+Gli esami di profitto e di diploma si danno in due sessioni, la prima, estiva, ha inizio subito dopo la chiusura annuale dei corsi e la seconda, autunnale, un mese innanzi il principio del nuovo anno accademico.   
+Art. 208. - Il consiglio di amministrazione dell'Universita' su proposta della direzione della scuola, approvata dal consiglio di facolta', stabilira' di anno in anno l'ammontare dei contributi. Le tasse e le soprattasse annuali a carico degli iscritti restano cosi' destinate:   
+  
+tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 10.000 soprattassa annuale di esami . . . . . . . . . . . . . . . . L. 5.000 tassa erariale di diploma . . . . . . . . . . . . . . . . . L. 50.000   
+tassa annuale di iscrizione per studenti   
+fuori corso. . . . . . . . . . . . . . . . . . . . . . . . . L. 3.000   
+  
+Art. 209. - Al funzionamento della suddetta scuola si provvedera' con i proventi delle tasse, soprattasse e contributi dovuti dagli iscritti e con eventuali elargizioni e contributi di enti pubblici e privati.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 settembre 1980
+### Dato a Roma, addi' 31 ottobre 1981
 
-PERTINI SARTI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: SARTI
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 31 gennaio 1981
+Registrato alla Corte dei conti, addi' 10 marzo 1982
 
-Registro n. 9 Istruzione, foglio n. 68
+Registro n. 38 Istruzione, foglio n. 250

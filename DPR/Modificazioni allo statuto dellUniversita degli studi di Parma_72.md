@@ -1,347 +1,59 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1971 n. 855
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1978 n. 1060
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1971 n. 855
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1978 n. 1060
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-L'art. 138, relativo all'elenco delle scuole annesse alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola in "Chirurgia generale" e la scuola in "Otorinolaringoiatria" mutano rispettivamente la denominazione in quella di scuola in "Chirurgia" e in scuola in "Otorinolaringoiatria e' patologia cervico-facciale".
-
-L'art. 156, relativo alla scuola di specializzazione in "Chirurgia generale" che assume la denominazione di scuola di specializzazione in "Chirurgia", e' abrogato e sostituito dai seguenti articoli con il conseguente spostamento della numerazione degli articoli successivi:
-
-Scuola di specializzazione in chirurgia
-
-Art. 156. - La scuola di specializzazione in chirurgia conferisce il diploma di specialista in chirurgia.
-
-Gli anni necessari per il conseguimento del diploma sono cinque.
-
-Il numero massimo complessivo degli iscritti per i cinque anni di corso e' di settantacinque.
-
-Le materie di insegnamento sono:
-
-1° Anno:
-
-Clinica chirurgica generale 1°;
-
-Patologia speciale chirurgica 1°;
-
-Semeiotica chirurgica 1°;
-
-Anatomia chirurgica e corso di operazioni;
-
-Chirurgia sperimentale;
-
-Anestesia e rianimazione;
-
-Ricerche di laboratorio.
-
-2° Anno:
-
-Clinica chirurgica generale 2°;
-
-Patologia speciale chirurgica 2°;
-
-Semeiotica chirurgica 2°;
-
-Anatomia chirurgica e corso di operazioni 2°;
-
-Fisiopatologia chirurgica;
-
-Trattamento pre e postoperatorio;
-
-Anatomia e istologia patologica 1°.
-
-3° Anno:
-
-Clinica chirurgica generale 3°;
-
-Patologia speciale chirurgica 3°;
-
-Semeiotica strumentale ed endoscopica;
-
-Anatomia chirurgica e corso di operazioni 3°;
-
-Radiologia;
-
-Anatomia ed istologia patologica 2°.
-
-4° Anno:
-
-Clinica chirurgica generale 4°;
-
-Chirurgia ginecologica;
-
-Chirurgia urologica;
-
-Neurochirurgia;
-
-Traumatologia ed ortopedia;
-
-Chirurgia pediatrica.
-
-5° Anno:
-
-Clinica chirurgica generale 5°;
-
-Chirurgia toracica;
-
-Chirurgia cardiovascolare;
-
-Chirurgia riparativa e plastica;
-
-Chirurgia d'urgenza;
-
-Medicina legale.
-
-Art. 157. - La selezione dei candidati aspiranti alla ammissione alla scuola avverra' sulla base dei titoli ed esami.
-
-Non sono consentite iscrizioni con abbreviazioni di corso.
-
-La frequenza alle lezioni ed alle esercitazioni e' obbligatoria per tutti gli iscritti.
-
-L'internato e' obbligatorio durante tutti i cinque anni del corso e si svolgera' presso la clinica chirurgica sotto forma di permanenza costante nella detta clinica durante le ore della sua attivita', con presenza giornaliera agli ambulatori ed ai reparti di degenza.
-
-Dall'obbligo di tale internato saranno esentati quegli allievi che, in qualita' di assistenti e di aiuti, prestino effettivamente servizio presso reparti di chirurgia generale dell'universita' e degli ospedali di 1ª e 2ª categoria.
-
-Gli allievi hanno doveri ed attribuzioni analoghi a quelli degli assistenti.
-
-La frequenza nelle sale operatorie iniziera' fin dal primo anno di corso, e dopo un periodo di tirocinio, dovra' trasformarsi in compartecipazione attiva agli interventi operatori.
-
-Per i corsi che non siano della clinica chirurgica generale, possono essere stabiliti, su parere del direttore della scuola, periodi di continuativa frequenza presso i relativi reparti specialistici, qualora esistano come reparti indipendenti. Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico della operosita' scolastica degli allievi con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno.
-
-L'allievo che non abbia ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali.
-
-Alla fine dei cinque anni gli allievi dovranno presentare una tesi scritta e sostenere l'esame di diploma.
-
-Gli articoli 181, 182, 183 relativi alla "Scuola di specializzazione in otorinolaringoiatria" che muta la denominazione in quella di "Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale" sono abrogati e sostituiti dai seguenti:
-
-Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale
-
-Art. 181. - La scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale ha la durata di tre anni.
-
-Le materie di insegnamento sono:
-
-1° Anno:
-
-1) Anatomia;
-
-2) Fisiologia;
-
-3) Audiologia (1° anno);
-
-4) Semeiotica otorinolaringoiatrica;
-
-5) Tecnica di laboratorio;
-
-6) Patologia e clinica otorinolaringoiatrica e cervicofacciale (1° anno);
-
-7) Anatomia ed istologia patologica otorinolaringoiatrica.
-
-2° Anno:
-
-1) Tecniche operatorie in otorinolaringoiatria;
-
-2) Anestesiologia in otorinolaringoiatria;
-
-3) Patologia e clinica otorinolaringoiatrica e cervicofacciale (2° anno);
-
-4) Radiologia in rapporto con l'otorinolaringoiatria;
-
-5) Pediatria in rapporto con l'otorinolaringoiatria;
-
-6) Audiologia (2° anno);
-
-7) Otoneurologia;
-
-8) Foniatria.
-
-3° Anno:
-
-1) Patologia e clinica otorinolaringoiatrica e cervicofacciale (3° anno);
-
-2) Terapia medica e fisica in otorinolaringoiatria;
-
-3) Neuropatologia in rapporto con l'otorinolaringoiatria;
-
-4) Oculistica in rapporto con l'otorinolaringoiatria;
-
-5) Chirurgia plastica;
-
-6) Tracheo-broncoscopia;
-
-7) Medicina legale ed infortunistica in otorinolaringoiatria.
-
-Art. 182. - Il numero massimo complessivo degli allievi iscritti per tre anni di corso e' di venticinque.
-
-Gli allievi sono obbligati alla frequenza nella clinica otorinolaringoiatrica e nelle cliniche ed istituti degli altri insegnamenti secondo i turni fissati dal direttore della scuola.
-
-Art. 183. - Al termine di ciascun anno, gli allievi che abbiano regolarmente frequentato i corsi, dovranno superare i relativi esami di profitto.
-
-Non puo' essere ammesso al nuovo anno di corso chi non ha superato gli esami prescritti per il precedente.
-
-Alla fine dei tre anni gli allievi dovranno presentare una tesi scritta e sostenere un esame di diploma.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 4 agosto 1971
-
-SARAGAT
-
-MISASI
-
-Visto, il Guardasigilli: COLOMBO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 18 ottobre 1971 Atti del Governo, registro n. 244, foglio n. 163. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;  
+Veduto lo statuto dell'Universita' di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito in [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Parma e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-L'art. 138, relativo all'elenco delle scuole annesse alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola in "Chirurgia generale" e la scuola in "Otorinolaringoiatria" mutano rispettivamente la denominazione in quella di scuola in "Chirurgia" e in scuola in "Otorinolaringoiatria e' patologia cervico-facciale".  
-L'art. 156, relativo alla scuola di specializzazione in "Chirurgia generale" che assume la denominazione di scuola di specializzazione in "Chirurgia", e' abrogato e sostituito dai seguenti articoli con il conseguente spostamento della numerazione degli articoli successivi:  
-  
-Scuola di specializzazione in chirurgia  
-  
-Art. 156. - La scuola di specializzazione in chirurgia conferisce il diploma di specialista in chirurgia.  
-Gli anni necessari per il conseguimento del diploma sono cinque.  
-Il numero massimo complessivo degli iscritti per i cinque anni di corso e' di settantacinque.  
-Le materie di insegnamento sono:  
-1° Anno:  
-Clinica chirurgica generale 1°;  
-Patologia speciale chirurgica 1°;  
-Semeiotica chirurgica 1°;  
-Anatomia chirurgica e corso di operazioni;  
-Chirurgia sperimentale;  
-Anestesia e rianimazione;  
-Ricerche di laboratorio.  
-2° Anno:  
-Clinica chirurgica generale 2°;  
-Patologia speciale chirurgica 2°;  
-Semeiotica chirurgica 2°;  
-Anatomia chirurgica e corso di operazioni 2°;  
-Fisiopatologia chirurgica;  
-Trattamento pre e postoperatorio;  
-Anatomia e istologia patologica 1°.  
-3° Anno:  
-Clinica chirurgica generale 3°;  
-Patologia speciale chirurgica 3°;  
-Semeiotica strumentale ed endoscopica;  
-Anatomia chirurgica e corso di operazioni 3°;  
-Radiologia;  
-Anatomia ed istologia patologica 2°.  
-4° Anno:  
-Clinica chirurgica generale 4°;  
-Chirurgia ginecologica;  
-Chirurgia urologica;  
-Neurochirurgia;  
-Traumatologia ed ortopedia;  
-Chirurgia pediatrica.  
-5° Anno:  
-Clinica chirurgica generale 5°;  
-Chirurgia toracica;  
-Chirurgia cardiovascolare;  
-Chirurgia riparativa e plastica;  
-Chirurgia d'urgenza;  
-Medicina legale.  
-Art. 157. - La selezione dei candidati aspiranti alla ammissione alla scuola avverra' sulla base dei titoli ed esami.  
-Non sono consentite iscrizioni con abbreviazioni di corso.  
-La frequenza alle lezioni ed alle esercitazioni e' obbligatoria per tutti gli iscritti.  
-L'internato e' obbligatorio durante tutti i cinque anni del corso e si svolgera' presso la clinica chirurgica sotto forma di permanenza costante nella detta clinica durante le ore della sua attivita', con presenza giornaliera agli ambulatori ed ai reparti di degenza.  
-Dall'obbligo di tale internato saranno esentati quegli allievi che, in qualita' di assistenti e di aiuti, prestino effettivamente servizio presso reparti di chirurgia generale dell'universita' e degli ospedali di 1ª e 2ª categoria.  
-Gli allievi hanno doveri ed attribuzioni analoghi a quelli degli assistenti.  
-La frequenza nelle sale operatorie iniziera' fin dal primo anno di corso, e dopo un periodo di tirocinio, dovra' trasformarsi in compartecipazione attiva agli interventi operatori.  
-Per i corsi che non siano della clinica chirurgica generale, possono essere stabiliti, su parere del direttore della scuola, periodi di continuativa frequenza presso i relativi reparti specialistici, qualora esistano come reparti indipendenti. Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico della operosita' scolastica degli allievi con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno.  
-L'allievo che non abbia ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali.  
-Alla fine dei cinque anni gli allievi dovranno presentare una tesi scritta e sostenere l'esame di diploma.  
-Gli articoli 181, 182, 183 relativi alla "Scuola di specializzazione in otorinolaringoiatria" che muta la denominazione in quella di "Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale" sono abrogati e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale  
-  
-Art. 181. - La scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale ha la durata di tre anni.  
-Le materie di insegnamento sono:  
-1° Anno:  
-1) Anatomia;  
-2) Fisiologia;  
-3) Audiologia (1° anno);  
-4) Semeiotica otorinolaringoiatrica;  
-5) Tecnica di laboratorio;  
-6) Patologia e clinica otorinolaringoiatrica e cervicofacciale (1° anno);  
-7) Anatomia ed istologia patologica otorinolaringoiatrica.  
-2° Anno:  
-1) Tecniche operatorie in otorinolaringoiatria;  
-2) Anestesiologia in otorinolaringoiatria;  
-3) Patologia e clinica otorinolaringoiatrica e cervicofacciale (2° anno);  
-4) Radiologia in rapporto con l'otorinolaringoiatria;  
-5) Pediatria in rapporto con l'otorinolaringoiatria;  
-6) Audiologia (2° anno);  
-7) Otoneurologia;  
-8) Foniatria.  
-3° Anno:  
-1) Patologia e clinica otorinolaringoiatrica e cervicofacciale (3° anno);  
-2) Terapia medica e fisica in otorinolaringoiatria;  
-3) Neuropatologia in rapporto con l'otorinolaringoiatria;  
-4) Oculistica in rapporto con l'otorinolaringoiatria;  
-5) Chirurgia plastica;  
-6) Tracheo-broncoscopia;  
-7) Medicina legale ed infortunistica in otorinolaringoiatria.  
-Art. 182. - Il numero massimo complessivo degli allievi iscritti per tre anni di corso e' di venticinque.  
-Gli allievi sono obbligati alla frequenza nella clinica otorinolaringoiatrica e nelle cliniche ed istituti degli altri insegnamenti secondo i turni fissati dal direttore della scuola.  
-Art. 183. - Al termine di ciascun anno, gli allievi che abbiano regolarmente frequentato i corsi, dovranno superare i relativi esami di profitto.  
-Non puo' essere ammesso al nuovo anno di corso chi non ha superato gli esami prescritti per il precedente.  
-Alla fine dei tre anni gli allievi dovranno presentare una tesi scritta e sostenere un esame di diploma.  
+Gli articoli 45 e 51, relativi rispettivamente alla direzione ed all'ordinamento degli studi della scuola di specializzazione delle discipline del lavoro, annessa alla facolta' di giurisprudenza, sono abrogati e sostituiti dai seguenti:  
+Art. 45. - La scuola e' retta dal direttore. E' direttore il professore titolare della cattedra di diritto del lavoro. Ove siano istituite piu' cattedre di diritto del lavoro, la facolta' nomina il direttore fra i titolari delle cattedre stesse. Il direttore puo' nominare un vice direttore che coadiuva e lo sostituisce in caso di impedimento.  
+Art. 51. - Gli insegnamenti nella scuola sono:  
+1° Corso:  
+teoria dell'impresa;  
+rapporto di lavoro nell'impiego privato;  
+rapporto di lavoro nel pubblico impiego;  
+storia dei movimenti sindacali;  
+diritto sindacale;  
+economia del lavoro (semestrale).  
+2° Corso:  
+rapporti speciali di lavoro;  
+diritto internazionale del lavoro;  
+diritto comparato del lavoro;  
+diritto della previdenza sociale;  
+diritto processuale del lavoro;  
+diritto penale del lavoro (semestrale).  
+I corsi saranno tenuti utilizzando, ove possibile, le aule della facolta', ovvero quelle dell'istituto di diritto del lavoro.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 agosto 1971
+### Dato a Roma, addi' 18 ottobre 1978
 
-SARAGAT MISASI
+PERTINI PEDINI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 18 ottobre 1971
+Registrato alla Corte dei conti, addi' 27 aprile 1979
 
-Atti del Governo, registro n. 244, foglio n. 163. - CARUSO
+Registro n. 30 Istruzione, foglio n. 315

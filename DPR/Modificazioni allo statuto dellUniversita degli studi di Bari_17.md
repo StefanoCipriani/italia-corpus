@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 dicembre 1980 n. 1081
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 938
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 dicembre 1980 n. 1081
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 938
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,58 +18,162 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio universitario nazionale nel suo parere;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 174. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola in reumatologia.
+
+Dopo l'art. 223 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in reumatologia.
+
+Scuola di specializzazione in reumatologia
+
+Art. 224. - La scuola di specializzazione ha sede presso l'istituto di clinica medica I, direttore della scuola e' il direttore della clinica medica I; condirettore il professore ufficiale incaricato dell'insegnamento di reumatologia.
+
+Il corso degli studi per il conseguimento del diploma di specialista in reumatologia ha la durata di 3 anni accademici.
+
+Alla scuola possono iscriversi i laureati in medicina e chirurgia.
+
+Per l'ammissione e' previsto un concorso per titoli ed esami.
+
+Puo' essere concessa l'abbreviazione di corso a coloro che siano in possesso dei seguenti titoli:
+
+1) servizio di assistente ordinario e incaricato universitario ed ospedaliero in reparto di reumatologia;
+
+2) titoli scientifici e professionali in campo reumatologico;
+
+3) diplomi di specializzazioni e perfezionamento comprendenti la reumatologia.
+
+Il numero complessivo degli iscritti nel tre anni di corso non puo' essere superiore a Otto.
+
+Art. 225. - Le materie di insegnamento ed i relativi esami sono cosi' ripartiti:
+
+1° Anno:
+
+1) Anatomia, istologia e morfogenesi dell'apparato muscolo-scheletrico e articolare;
+
+2) Fisiopatologia dell'apparato muscolo-scheletrico e articolare;
+
+3) Biochimica dei tessuti connettivi;
+
+4) Microbiologia ed immunologia in relazione alle malattie reumatiche;
+
+5) Semeiotica fisica, strumentale e di laboratorio in reumatologia (I corso).
+
+2° Anno:
+
+1) Semeiotica fisica, strumentale e di laboratorio in reumatologia (II corso);
+
+2) Anatomia e istologia patologica delle malattie reumatiche;
+
+3) Farmacologia in relazione alle malattie reumatiche;
+
+4) Patologia, clinica e terapia delle malattie reumatiche (I corso);
+
+5) Terapia fisica, termale e riabilitativa, in reumatologia (I corso);
+
+6) Diagnostica radiologica.
+
+3° Anno:
+
+1) Patologia, clinica e terapia delle malattie reumatiche (II corso);
+
+2) Terapia fisica, termale e riabilitativa in reumatologia (II corso);
+
+3) Clinica e terapia ortopedica applicata alla reumatologia;
+
+4) Aspetti sociali ed epidemiologici delle malattie reumatiche.
+
+Per conseguire il diploma di specialista dovra' essere presentata e discussa una tesi scritta su un tema preventivamente approvato dal direttore della scuola.
+
+E' obbligatoria la frequenza alle lezioni, esercitazioni ed un internato annuale di almeno sei mesi.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1972
+
+LEONE
+
+SCALFARO
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 17 Gennaio 1973 Atti di Governo, registro n. 255, foglio n. 36. - VALENTINI
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Il testo dell'art. 38, relativo al corso di laurea in materie letterarie, e' modificato nel senso che all'elenco degli insegnamenti complementari e' aggiunto il seguente:  
-storia contemporanea.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Il testo dell'art. 66, relativo agli istituti annessi alla facolta' in farmacia, e' integrato dal seguente comma:  
-"Presso la facolta' e' istituita la biblioteca centrale, disciplinata da un proprio regolamento".  
-
-Art. 3
-------
-
+Decreta:  
   
-Il testo dell'art. 90, relativo alle modalita' dell'esame di laurea in scienze geologiche, e' modificato nel senso che dopo il primo comma e' aggiunto il seguente:  
-"La dissertazione scritta di tesi di laurea deve essere presentata in segreteria in triplice copia, almeno quindici giorni prima dell'inizio delle sedute di laurea".  
-
-Art. 4
-------
-
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 174. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola in reumatologia.  
+Dopo l'art. 223 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in reumatologia.  
   
-Il testo dell'art. 121, relativo all'elenco delle materie a scelta dello studente per il corso di laurea in ingegneria, e' modificato nel senso che l'insegnamento di "macchine speciali" muta la denominazione in quella di "fluidodinamica delle turbomacchine".  
+Scuola di specializzazione in reumatologia  
+  
+Art. 224. - La scuola di specializzazione ha sede presso l'istituto di clinica medica I, direttore della scuola e' il direttore della clinica medica I; condirettore il professore ufficiale incaricato dell'insegnamento di reumatologia.  
+Il corso degli studi per il conseguimento del diploma di specialista in reumatologia ha la durata di 3 anni accademici.  
+Alla scuola possono iscriversi i laureati in medicina e chirurgia.  
+Per l'ammissione e' previsto un concorso per titoli ed esami.  
+Puo' essere concessa l'abbreviazione di corso a coloro che siano in possesso dei seguenti titoli:  
+1) servizio di assistente ordinario e incaricato universitario ed ospedaliero in reparto di reumatologia;  
+2) titoli scientifici e professionali in campo reumatologico;  
+3) diplomi di specializzazioni e perfezionamento comprendenti la reumatologia.  
+Il numero complessivo degli iscritti nel tre anni di corso non puo' essere superiore a Otto.  
+Art. 225. - Le materie di insegnamento ed i relativi esami sono cosi' ripartiti:  
+1° Anno:  
+1) Anatomia, istologia e morfogenesi dell'apparato muscolo-scheletrico e articolare;  
+2) Fisiopatologia dell'apparato muscolo-scheletrico e articolare;  
+3) Biochimica dei tessuti connettivi;  
+4) Microbiologia ed immunologia in relazione alle malattie reumatiche;  
+5) Semeiotica fisica, strumentale e di laboratorio in reumatologia (I corso).  
+2° Anno:  
+1) Semeiotica fisica, strumentale e di laboratorio in reumatologia (II corso);  
+2) Anatomia e istologia patologica delle malattie reumatiche;  
+3) Farmacologia in relazione alle malattie reumatiche;  
+4) Patologia, clinica e terapia delle malattie reumatiche (I corso);  
+5) Terapia fisica, termale e riabilitativa, in reumatologia (I corso);  
+6) Diagnostica radiologica.  
+3° Anno:  
+1) Patologia, clinica e terapia delle malattie reumatiche (II corso);  
+2) Terapia fisica, termale e riabilitativa in reumatologia (II corso);  
+3) Clinica e terapia ortopedica applicata alla reumatologia;  
+4) Aspetti sociali ed epidemiologici delle malattie reumatiche.  
+Per conseguire il diploma di specialista dovra' essere presentata e discussa una tesi scritta su un tema preventivamente approvato dal direttore della scuola.  
+E' obbligatoria la frequenza alle lezioni, esercitazioni ed un internato annuale di almeno sei mesi.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 dicembre 1980
+### Dato a Roma, addi' 31 ottobre 1972
 
-PERTINI BODRATO
+LEONE SCALFARO
 
-Visto, il Guardasigilli: SARTI
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 4 marzo 1981
+Registrato alla Corte dei conti, addi' 17 Gennaio 1973
 
-Registro n. 20 Istruzione, foglio n. 18
+Atti di Governo, registro n. 255, foglio n. 36. - VALENTINI

@@ -1,93 +1,496 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 settembre 1969 n. 1338
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1965 n. 1440
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 settembre 1969 n. 1338
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1965 n. 1440
+===============================================================
 
 Modificazioni allo statuto del Politecnico di Milano.
 -----------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto del Politecnico di Milano, approvato con [regio decreto 20 aprile 1939, n. 1028](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1028) e modificato con [regio decreto 11 luglio 1942, n. 921](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-07-11;921) e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071).
+
+convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche del Politecnico anzidetto;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto del Politecnico di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 3. - Dopo le parole "il diploma di maturita' classica o scientifica", viene aggiunto "o di abilitazione tecnica industriale, nautica o per geometri".
+
+Art. 6. - E' soppresso l'ultimo capoverso.
+
+Art. 7. - Fra gli insegnamenti obbligatori viene sostituito "23.
+
+Teoria e pratica delle misure" con "23.
+
+Istituzioni di aeronautica".
+
+Agli insegnamenti a scelta dell'indirizzo fisico matematico sono aggiunti i seguenti:
+
+Magnetofluidodinamica;
+
+Aerotermochimica;
+
+Meccanica aerospaziale;
+
+Teoria e pratica delle misure.
+
+L'indirizzo tecnologico assume la denominazione "Indirizzo costruzioni aerospaziali"; e pertanto vengono sostituiti "Tecnologie dei metalli" con "Tecnologia dei materiali aerospaziali", "Impianti elettrici per aeronautici" con "Applicazioni elettriche ed elettroniche aerospaziali", "Impianti aeroportuali (semestrale)" con "Infrastrutture aeronautiche", sono aggiunti, inoltre, agli insegnamenti a scelta i seguenti:
+
+Progetto di velivoli e veicoli spaziali;
+
+Complementi di strutture aeronautiche;
+
+Velivoli a decollo verticale e abbreviato;
+
+Teoria e pratica delle misure;
+
+Calcoli numerici e grafici;
+
+Meccanica aerospaziale;
+
+Aerotermochimica.
+
+Per l'indirizzo propulsione vengono sostituiti "Propulsori e propellenti" con "Propulsori aerospaziali", "Tecnologia dei metalli" con "Tecnologia dei materiali aerospaziali", "Impianti elettrici per aeronautici" con "Applicazioni elettriche ed elettroniche aerospaziali";
+
+sono aggiunti, inoltre, agli insegnamenti a scelta i seguenti:
+
+Aerotecnica sperimentale;
+
+Progetto e costruzione di motori;
+
+Teoria e pratica delle misure;
+
+Calcoli numerici e grafici;
+
+Aerotermochimica;
+
+Teoria e tecnica della combustione;
+
+Magnetofluidodinamica;
+
+Motori per missili.
+
+Art. 8. - Per l'indirizzo sviluppo dei processi chimici, vengono sostituiti "28. Teoria e pratica delle misure" con "28. a) Teoria e pratica delle misure (semestrale), b) Programmazione della sperimentazione industriale (semestrale)"; e "30. Chimica fisica II" con "30. Uno a scelta fra:
+
+Materiali per l'industria chimica;
+
+Materiali per l'industria metallurgica;
+
+Economia dell'industria chimica;
+
+Chimica fisica II;
+
+Controlli automatici".
+
+Per l'indirizzo metallurgico ed elettrochimico vengono sostituiti "Teoria e pratica delle misure" con "a) Teoria e pratica delle misure (semestrale), b) Programmazione della sperimentazione industriale (semestrale)"; e vengono aggiunti alle materie a scelta i seguenti:
+
+Materiali per l'industria chimica;
+
+Materiali per l'industria metallurgica.
+
+Per l'indirizzo organico industriale vengono sostituiti "27.
+
+Chimica III" con "27. Chimica macromolecolare", "28. Uno a scelta tra:
+
+Chimica III;
+
+Complementi di chimica organica".
+
+In luogo di "28. 29. 30. a scelta fra:" viene sostituito "29. 30. a scelta fra:"
+
+Nell'elenco delle materie a scelta viene soppresso "Chimica macromolecolare", e vengono sostituiti "Complementi di chimica industriale" con "a) Complementi di chimica industriale I (semestrale), b) Complementi di chimica industriale II (semestrale)", "Teoria e pratica delle misure" con "a) Teoria e pratica delle misure (semestrale), b) Programmazione della sperimentazione industriale (semestrale)", "Tecnologia delle pitture e delle vernici" con "Tecnologia chimica delle materie plastiche e delle vernici"; e vengono aggiunti i seguenti:
+
+Materiali per l'industria chimica;
+
+Materiali per l'industria metallurgica;
+
+Analisi strumentale;
+
+Economia dell'industria chimica;
+
+Chimica industriale biologica.
+
+Per l'indirizzo nucleare, in luogo di "28. 29. 30. a scelta fra:" viene sostituito "28. Chimica nucleare, 29. 30. a scelta fra:" e viene soppresso la "Chimica nucleare" nell'elenco delle materie a scelta.
+
+Art. 9. - Alle parole "... idraulica e trasporti." viene sostituito "... idraulica e trasporti; la sezione edile si sviluppa in due indirizzi: generale e strutturistico".
+
+Alle parole "Sono obbligatori comuni alle 3 sezioni i seguenti 26 insegnamenti" viene sostituito "Sono obbligatori comuni alle 3 sezioni i seguenti 23 insegnamenti", e viene soppresso nell'elenco che segue "Litologia e geologia", "Tecnica urbanistica", "Estimo"; e viene sostituito inoltre "Architettura tecnica I" con "Architettura tecnica" e "Architettura tecnica II" con "Architettura e composizione architettonica".
+
+Viene sostituito l'elenco delle materie obbligatorie per la sezione edile come segue:
+
+Sezione edile (indirizzo generale):
+
+24) Litologia e geologia;
+
+25) Tecnica urbanistica;
+
+26) Estimo;
+
+27) Architettura e composizione architettonica II;
+
+28) Impianti tecnici nell'edilizia.
+
+Sezione edile (indirizzo strutturistico):
+
+24) Complementi di analisi matematica;
+
+25) Meccanica razionale II;
+
+26) Dinamica delle costruzioni;
+
+27) Progetti di strutture;
+
+28) Impianti tecnici nell'edilizia.
+
+Agli insegnamenti obbligatori della Sezione idraulica e della Sezione trasporti sono aggiunti i seguenti:
+
+24) Litologia e geologia;
+
+25) Tecnica urbanistica;
+
+26) Estimo.
+
+Agli insegnamenti a scelta della Sezione edile (indirizzo generale) sono aggiunti i seguenti:
+
+Statistica e calcolo delle probabilita';
+
+Programmazione e applicazione dei calcolatori elettronici;
+
+Metodi matematici per l'ingegneria;
+
+e viene sostituito "Complementi di fisica tecnica" con "Acustica applicata".
+
+viene inserito inoltre:
+
+Sezione edile (indirizzo strutturistico) 29. 30. a scelta fra:
+
+Litologia e geologia;
+
+Tecnica urbanistica;
+
+Estimo;
+
+Architettura e composizione architettonica II;
+
+Cantieri;
+
+Geotecnica;
+
+Igiene applicata all'ingegneria e ingegneria sanitaria;
+
+Acustica applicata;
+
+Statistica e calcolo delle probabilita';
+
+Programmazione e applicazione dei calcolatori elettronici;
+
+Metodi matematici per l'ingegneria.
+
+N.B. - Uno dei due insegnamenti a scelta deve essere Tecnica urbanistica oppure Estimo.
+
+Agli insegnamenti a scelta delle Sezioni idraulica e trasporti sono aggiunti i seguenti:
+
+Statistica e calcolo delle probabilita';
+
+Programmazione e applicazione dei calcolatori elettronici;
+
+Metodi matematici per l'ingegneria;
+
+inoltre, per la Sezione trasporti, viene sostituito "Complementi di fisica tecnica" con "Acustica applicata".
+
+Viene soppressa la frase "Gli insegnamenti di cui ai numeri 21 e 23".
+
+Art. 10. - Viene sostituito "11. Chimica applicata" con "11.
+
+Chimica applicata e materiali".
+
+Viene aggiunto alle materie a scelta:
+
+Elettronica quantistica.
+
+Art. 11. - Viene sostituito "10. Chimica applicata" con "10.
+
+Chimica applicata e materiali" e "18. Economia e organizzazione aziendale" con "18. Economia e organizzazione aziendale, oppure Economia politica industriale".
+
+Per l'indirizzo impianti viene sostituito "Elettrochimica" con "Macchine elettriche speciali", "Radiotecnica" con "Comunicazioni elettriche", "Ergotecnica" con "Teoria e pratica delle misure" e vengono aggiunti i seguenti:
+
+Fisica matematica;
+
+Complementi di geometria.
+
+Per l'indirizzo macchine viene sostituito "28. Trazione elettrica" con "28. Macchine elettriche speciali". Negli insegnamenti a scelta Viene sostituito "Macchine elettriche speciali" con "Trazione elettrica" e sono aggiunti i seguenti:
+
+Teoria e pratica delle misure;
+
+Fisica matematica;
+
+Complementi di geometria.
+
+Art. 12. - Viene sostituito "9. Disegno II (macchine)" con "9.
+
+Geometria II", "11. Tecnologia meccanica" con "11. Tecnologia meccanica (con applicazioni di disegno)", "21. Costruzione di macchine I" con "21. Costruzione di macchine", "25. Costruzione di macchine II" con "25. Calcolo e progetto di macchine".
+
+Per l'indirizzo impianti viene sostituito "Complementi di fisica tecnica" con "Acustica applicata".
+
+Art. 13. - Per l'indirizzo elettronico viene sostituito "Controlli automatici II" con "Controlli automatici", "Calcolatrici elettroniche" con "Commutazione e calcolatori elettronici" "Microonde" con "Radiotecnica" e viene aggiunto il seguente:
+
+Metodi matematici per l'ingegneria.
+
+Per l'indirizzo fisico vengono aggiunti alle materie a scelta i seguenti:
+
+Metodi matematici per l'ingegneria;
+
+Metodi e strumentazione fisica.
+
+Per l'indirizzo impiantistico viene sostituito "Controlli automatici II" con "Controlli automatici" e viene aggiunto il seguente:
+
+Metodi matematici per l'ingegneria.
+
+Per l'indirizzo chimico viene aggiunto il seguente:
+
+Metodi matematici per l'ingegneria.
+
+B) FACOLTA' DI ARCHITETTURA:
+
+Art. 14. - Nell'elenco degli insegnamenti complementari del biennio di architettura viene soppresso quello di "Complementi di scienza delle costruzioni".
+
+Art. 15. - Nell'elenco degli insegnamenti complementari del triennio di applicazione del corso di laurea in Architettura viene aggiunto quello di "Complementi di scienza delle costruzioni".
+
+Art. 22. - E' abrogato e sostituito dal seguente:
+
+"L'esame di laurea consiste in un colloquio fra la Commissione esaminatrice e il candidato inteso ad accertare la maturita' intellettuale di questi.
+
+Il candidato potra' scegliere fra le seguenti modalita' di esame:
+
+a) discussione su elaborati redatti dal medesimo durante i corsi delle varie materie (sono obbligatori gli elaborati di almeno una materia per ognuno dei diversi gruppi di discipline:
+
+Architettura degli interni; Composizione architettonica;
+
+Materie umanistiche; Scienza e tecnica delle costruzioni;
+
+Urbanistica);
+
+b) discussione su una tesi di laurea, concordata in quarto o quinto anno, e comunque almeno nove mesi prima della laurea fra lo studente ed un docente ufficiale della Facolta'; la materia oggetto della tesi verra' scelta dallo studente tra quelle del triennio fra i seguenti gruppi di discipline:
+
+Architettura degli interni; Composizione architettonica;
+
+Materie umanistiche; Scienza e tecnica delle costruzioni;
+
+Urbanistica.
+
+L'argomento, concordato col relatore, dovra' essere approvato dal Consiglio di Facolta'.
+
+Nessun allievo potra' essere ammesso a sostenere l'esame di laurea se non avra' frequentato interamente il rispettivo piano di studio e non avra' superato tutti i prescritti esami di profitto e qualsiasi prova fallita, anche se in soprannumero rispetto a quelle strettamente necessarie. Dovra' inoltre avere seguito, di regola, presso il Politecnico di Milano almeno il 5° anno di corso".
+
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 30 ottobre 1965
+
+SARAGAT
+
+GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 27 dicembre 1965 Atti del Governo, registro n. 199, foglio n. 13. - VILLA
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto del Politecnico di Milano, approvato con [regio decreto 20 aprile 1939, n. 1028](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1028), e modificato con [regio decreto 11 luglio 1942, n. 921](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-07-11;921), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche del politecnico anzidetto;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto del Politecnico di Milano, approvato con [regio decreto 20 aprile 1939, n. 1028](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1028) e modificato con [regio decreto 11 luglio 1942, n. 921](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-07-11;921) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071).  
+convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche del Politecnico anzidetto;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto del Politecnico di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto del Politecnico di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 3. - Dopo le parole "il diploma di maturita' classica o scientifica", viene aggiunto "o di abilitazione tecnica industriale, nautica o per geometri".  
+Art. 6. - E' soppresso l'ultimo capoverso.  
+Art. 7. - Fra gli insegnamenti obbligatori viene sostituito "23.  
+Teoria e pratica delle misure" con "23.  
+Istituzioni di aeronautica".  
+Agli insegnamenti a scelta dell'indirizzo fisico matematico sono aggiunti i seguenti:  
+Magnetofluidodinamica;  
+Aerotermochimica;  
+Meccanica aerospaziale;  
+Teoria e pratica delle misure.  
+L'indirizzo tecnologico assume la denominazione "Indirizzo costruzioni aerospaziali"; e pertanto vengono sostituiti "Tecnologie dei metalli" con "Tecnologia dei materiali aerospaziali", "Impianti elettrici per aeronautici" con "Applicazioni elettriche ed elettroniche aerospaziali", "Impianti aeroportuali (semestrale)" con "Infrastrutture aeronautiche", sono aggiunti, inoltre, agli insegnamenti a scelta i seguenti:  
+Progetto di velivoli e veicoli spaziali;  
+Complementi di strutture aeronautiche;  
+Velivoli a decollo verticale e abbreviato;  
+Teoria e pratica delle misure;  
+Calcoli numerici e grafici;  
+Meccanica aerospaziale;  
+Aerotermochimica.  
+Per l'indirizzo propulsione vengono sostituiti "Propulsori e propellenti" con "Propulsori aerospaziali", "Tecnologia dei metalli" con "Tecnologia dei materiali aerospaziali", "Impianti elettrici per aeronautici" con "Applicazioni elettriche ed elettroniche aerospaziali";  
   
-Dopo l'articolo 30 sono aggiunti i seguenti nuovi articoli, relativi all'istituzione dell'istituto speciale di tecnologie industriali meccaniche ISTIM.   
+sono aggiunti, inoltre, agli insegnamenti a scelta i seguenti:  
+Aerotecnica sperimentale;  
+Progetto e costruzione di motori;  
+Teoria e pratica delle misure;  
+Calcoli numerici e grafici;  
+Aerotermochimica;  
+Teoria e tecnica della combustione;  
+Magnetofluidodinamica;  
+Motori per missili.  
+Art. 8. - Per l'indirizzo sviluppo dei processi chimici, vengono sostituiti "28. Teoria e pratica delle misure" con "28. a) Teoria e pratica delle misure (semestrale), b) Programmazione della sperimentazione industriale (semestrale)"; e "30. Chimica fisica II" con "30. Uno a scelta fra:  
+Materiali per l'industria chimica;  
+Materiali per l'industria metallurgica;  
+Economia dell'industria chimica;  
+Chimica fisica II;  
+Controlli automatici".  
+Per l'indirizzo metallurgico ed elettrochimico vengono sostituiti "Teoria e pratica delle misure" con "a) Teoria e pratica delle misure (semestrale), b) Programmazione della sperimentazione industriale (semestrale)"; e vengono aggiunti alle materie a scelta i seguenti:  
+Materiali per l'industria chimica;  
+Materiali per l'industria metallurgica.  
+Per l'indirizzo organico industriale vengono sostituiti "27.  
+Chimica III" con "27. Chimica macromolecolare", "28. Uno a scelta tra:  
+Chimica III;  
+Complementi di chimica organica".  
+In luogo di "28. 29. 30. a scelta fra:" viene sostituito "29. 30. a scelta fra:"  
+Nell'elenco delle materie a scelta viene soppresso "Chimica macromolecolare", e vengono sostituiti "Complementi di chimica industriale" con "a) Complementi di chimica industriale I (semestrale), b) Complementi di chimica industriale II (semestrale)", "Teoria e pratica delle misure" con "a) Teoria e pratica delle misure (semestrale), b) Programmazione della sperimentazione industriale (semestrale)", "Tecnologia delle pitture e delle vernici" con "Tecnologia chimica delle materie plastiche e delle vernici"; e vengono aggiunti i seguenti:  
+Materiali per l'industria chimica;  
+Materiali per l'industria metallurgica;  
+Analisi strumentale;  
+Economia dell'industria chimica;  
+Chimica industriale biologica.  
+Per l'indirizzo nucleare, in luogo di "28. 29. 30. a scelta fra:" viene sostituito "28. Chimica nucleare, 29. 30. a scelta fra:" e viene soppresso la "Chimica nucleare" nell'elenco delle materie a scelta.  
+Art. 9. - Alle parole "... idraulica e trasporti." viene sostituito "... idraulica e trasporti; la sezione edile si sviluppa in due indirizzi: generale e strutturistico".  
+Alle parole "Sono obbligatori comuni alle 3 sezioni i seguenti 26 insegnamenti" viene sostituito "Sono obbligatori comuni alle 3 sezioni i seguenti 23 insegnamenti", e viene soppresso nell'elenco che segue "Litologia e geologia", "Tecnica urbanistica", "Estimo"; e viene sostituito inoltre "Architettura tecnica I" con "Architettura tecnica" e "Architettura tecnica II" con "Architettura e composizione architettonica".  
+Viene sostituito l'elenco delle materie obbligatorie per la sezione edile come segue:  
   
-TITOLO IV.   
-Scuola per istruzione superiore in tecnologie industriali meccaniche (ISTIM)   
-(Scuola diretta a fini speciali)   
+Sezione edile (indirizzo generale):  
+24) Litologia e geologia;  
+25) Tecnica urbanistica;  
+26) Estimo;  
+27) Architettura e composizione architettonica II;  
+28) Impianti tecnici nell'edilizia.  
   
-Art. 31. - Presso la facolta' di ingegneria e' istituita una "Scuola per istruzione superiore in tecnologie industriali meccaniche ISTIM" (scuola diretta a fini speciali) ai sensi dell'[art. 20, terzo comma, lettera a), del testo unico del 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20-com3-leta).   
-La scuola si propone di formare giovani preparati nel campo delle tecnologie industriali meccaniche al fine di organizzare e seguire la produzione nelle imprese industriali.   
-La scuola conferisce il diploma in tecnologie industriali meccaniche.   
-Art. 32. - La scuola ha sede propria e gode di autonomia amministrativa, finanziaria e didattica in conformita' alla convenzione stipulata fra il politecnico e l'ente morale G.  
-Feltrinelli quale ente promotore della scuola.   
-Art. 33. - La scuola ha un proprio consiglio di direzione che e' composto di tre membri:   
-il direttore della scuola che e' nominato dal rettore del politecnico su proposta dell'ente morale G. Feltrinelli approvata dalla facolta' di ingegneria del Politecnico di Milano;   
-un membro nominato dal rettore del Politecnico di Milano su proposta del direttore dell'istituto di meccanica e costruzione delle macchine del Politecnico di Milano;   
-un membro nominato dal consiglio di amministrazione dell'ente morale G. Feltrinelli.   
-Art. 34. - Il consiglio di direzione e' l'organo direttivo della scuola: il direttore ne attua le decisioni.   
-Il consiglio di direzione dura in carica tre anni e i suoi membri possono essere riconfermati.   
-Art. 35. - I mezzi finanziari per il funzionamento della scuola sono reperiti dall'ente morale G. Feltrinelli ed amministrati dalla scuola ai sensi dell'art. 32.   
-Art. 36. - Il personale insegnante della scuola e' nominato per la durata di un anno dal rettore su proposta del consiglio di direzione della scuola approvata dal consiglio di facolta' di ingegneria del politecnico.   
-Art. 37. - I professori cosi' nominati unitamente ad un rappresentante eletto dagli studenti per ogni anno di corso formano il consiglio didattico della scuola. Tale consiglio e' diretto dal direttore della scuola, e delibera in merito al coordinamento didattico e alle questioni disciplinari.   
-Art. 38. - Il corso di diploma ha la durata di tre anni e comprende anche periodi di stage in Italia e all'estero. I singoli insegnamenti possono essere a durata annuale o semestrale. Gli esami di profitto si svolgono normalmente in tre sessioni: una invernale, una estiva ed una di ricupero autunnale.   
-Gli esami degli insegnamenti svolti nel primo semestre possono essere tenuti nella sessione invernale alla fine del semestre stesso.   
-Gli allievi che alla fine della sessione autunnale non hanno in arretrato complessivamente piu' di due esami possono iscriversi al corso successivo. Se hanno in arretrato complessivamente piu' di due esami possono iscriversi come fuori corso senza obbligo di frequenza e senza borsa di studio, al massimo per un anno.   
-Gli allievi che hanno superato tutti gli esami di profitto prescritti sono ammessi all'esame di diploma.   
-Art. 39. - L'esame di diploma consiste in un colloquio finale sulle materie del corso davanti ad una commissione composta di almeno cinque professori della scuola nominati dal consiglio di direzione e da due membri esterni nominati uno dal consiglio di amministrazione dell'ente morale G. Feltrinelli ed uno dal preside della facolta' di ingegneria del Politecnico di Milano.   
-Il voto di diploma tiene conto della media degli esami di profitto, delle votazioni riportate anche nei periodi di stage e del risultato del colloquio finale. Nel diploma risulta anche se lo studente ha superato l'esame del Lower Certificate di Cambridge o titolo equivalente.   
-Il diploma e' conferito dal rettore del Politecnico di Milano.   
-Art. 40. - I titoli di ammissione alla scuola sono i diplomi di perito meccanico, metalmeccanico, termotecnico, elettrotecnico ed elettronico. Ogni anno il consiglio di facolta' di ingegneria del Politecnico di Milano su proposta dell'ente morale G. Feltrinelli delibera il numero massimo degli allievi ammissibili al primo anno.  
-L'ammissione viene decisa dal consiglio di direzione della scuola in base al curriculum scolastico per l'ottenimento del diploma di perito ed al risultato di un colloquio secondo modalita' definite anno per anno dal consiglio di direzione della scuola e pubblicate nel manifesto annuale.   
-Art. 41. - Le materie di insegnamento sono:   
-Matematica;   
-Chimica e metallurgia;   
-Meccanica;   
-Tempi e metodi e cicli di lavorazione;   
-Elettrotecnica e misure elettriche, oppure tecnologia e disegno meccanico;   
-Inglese;   
-Elettronica;   
-Fisica tecnica;   
-Trattamenti termici;   
-Lavorazioni meccaniche a caldo;   
-Lavorazioni meccaniche a freddo;   
-Misure meccaniche;   
-Calcolatori ed applicazioni;   
-Automazione;   
-Statistica e controllo statistico di qualita';   
-Organizzazione e fattore umano del lavoro;   
-Economia e ricerca operativa;   
-Tribologia e manutenzione.   
-Tali materie potranno essere anche divise in piu' corsi a durata semestrale o annuale con insegnanti diversi nello stesso od in diversi anni di corso.   
-Ogni anno il consiglio della facolta' di ingegneria del Politecnico di Milano su proposta del consiglio di direzione della scuola delibera il piano di studio, ossia le ore da assegnare alle materie di insegnamento, la loro durata semestrale o annuale, e la loro eventuale suddivisione in piu' corsi, ed i programmi di insegnamento.   
-Art. 42. - Gli studenti sono tenuti, per la frequenza dei corsi, a pagare la tassa di iscrizione e frequenza di L. 50.000 e sono tenuti a pagare la tassa erariale di diploma di L. 6.000.   
-Art. 43. - Norme transitorie. - Nel 1969-70 saranno ammessi direttamente al secondo anno ed al terzo del presente corso di diploma gli allievi che hanno superato rispettivamente il primo e il secondo anno dello attuale corso ISTIM organizzato dall'ente morale G. Feltrinelli.   
+Sezione edile (indirizzo strutturistico):  
+24) Complementi di analisi matematica;  
+25) Meccanica razionale II;  
+26) Dinamica delle costruzioni;  
+27) Progetti di strutture;  
+28) Impianti tecnici nell'edilizia.  
+  
+Agli insegnamenti obbligatori della Sezione idraulica e della Sezione trasporti sono aggiunti i seguenti:  
+24) Litologia e geologia;  
+25) Tecnica urbanistica;  
+26) Estimo.  
+  
+Agli insegnamenti a scelta della Sezione edile (indirizzo generale) sono aggiunti i seguenti:  
+Statistica e calcolo delle probabilita';  
+Programmazione e applicazione dei calcolatori elettronici;  
+Metodi matematici per l'ingegneria;  
+e viene sostituito "Complementi di fisica tecnica" con "Acustica applicata".  
+viene inserito inoltre:  
+  
+Sezione edile (indirizzo strutturistico) 29. 30. a scelta fra:  
+Litologia e geologia;  
+Tecnica urbanistica;  
+Estimo;  
+Architettura e composizione architettonica II;  
+Cantieri;  
+Geotecnica;  
+Igiene applicata all'ingegneria e ingegneria sanitaria;  
+Acustica applicata;  
+Statistica e calcolo delle probabilita';  
+Programmazione e applicazione dei calcolatori elettronici;  
+Metodi matematici per l'ingegneria.  
+  
+N.B. - Uno dei due insegnamenti a scelta deve essere Tecnica urbanistica oppure Estimo.  
+  
+Agli insegnamenti a scelta delle Sezioni idraulica e trasporti sono aggiunti i seguenti:  
+Statistica e calcolo delle probabilita';  
+Programmazione e applicazione dei calcolatori elettronici;  
+Metodi matematici per l'ingegneria;  
+inoltre, per la Sezione trasporti, viene sostituito "Complementi di fisica tecnica" con "Acustica applicata".  
+Viene soppressa la frase "Gli insegnamenti di cui ai numeri 21 e 23".  
+Art. 10. - Viene sostituito "11. Chimica applicata" con "11.  
+Chimica applicata e materiali".  
+Viene aggiunto alle materie a scelta:  
+  
+Elettronica quantistica.  
+Art. 11. - Viene sostituito "10. Chimica applicata" con "10.  
+Chimica applicata e materiali" e "18. Economia e organizzazione aziendale" con "18. Economia e organizzazione aziendale, oppure Economia politica industriale".  
+Per l'indirizzo impianti viene sostituito "Elettrochimica" con "Macchine elettriche speciali", "Radiotecnica" con "Comunicazioni elettriche", "Ergotecnica" con "Teoria e pratica delle misure" e vengono aggiunti i seguenti:  
+Fisica matematica;  
+Complementi di geometria.  
+Per l'indirizzo macchine viene sostituito "28. Trazione elettrica" con "28. Macchine elettriche speciali". Negli insegnamenti a scelta Viene sostituito "Macchine elettriche speciali" con "Trazione elettrica" e sono aggiunti i seguenti:  
+Teoria e pratica delle misure;  
+Fisica matematica;  
+Complementi di geometria.  
+Art. 12. - Viene sostituito "9. Disegno II (macchine)" con "9.  
+Geometria II", "11. Tecnologia meccanica" con "11. Tecnologia meccanica (con applicazioni di disegno)", "21. Costruzione di macchine I" con "21. Costruzione di macchine", "25. Costruzione di macchine II" con "25. Calcolo e progetto di macchine".  
+Per l'indirizzo impianti viene sostituito "Complementi di fisica tecnica" con "Acustica applicata".  
+Art. 13. - Per l'indirizzo elettronico viene sostituito "Controlli automatici II" con "Controlli automatici", "Calcolatrici elettroniche" con "Commutazione e calcolatori elettronici" "Microonde" con "Radiotecnica" e viene aggiunto il seguente:  
+Metodi matematici per l'ingegneria.  
+Per l'indirizzo fisico vengono aggiunti alle materie a scelta i seguenti:  
+Metodi matematici per l'ingegneria;  
+Metodi e strumentazione fisica.  
+Per l'indirizzo impiantistico viene sostituito "Controlli automatici II" con "Controlli automatici" e viene aggiunto il seguente:  
+Metodi matematici per l'ingegneria.  
+Per l'indirizzo chimico viene aggiunto il seguente:  
+Metodi matematici per l'ingegneria.  
+  
+B) FACOLTA' DI ARCHITETTURA:  
+Art. 14. - Nell'elenco degli insegnamenti complementari del biennio di architettura viene soppresso quello di "Complementi di scienza delle costruzioni".  
+Art. 15. - Nell'elenco degli insegnamenti complementari del triennio di applicazione del corso di laurea in Architettura viene aggiunto quello di "Complementi di scienza delle costruzioni".  
+Art. 22. - E' abrogato e sostituito dal seguente:  
+"L'esame di laurea consiste in un colloquio fra la Commissione esaminatrice e il candidato inteso ad accertare la maturita' intellettuale di questi.  
+Il candidato potra' scegliere fra le seguenti modalita' di esame:  
+a) discussione su elaborati redatti dal medesimo durante i corsi delle varie materie (sono obbligatori gli elaborati di almeno una materia per ognuno dei diversi gruppi di discipline:  
+Architettura degli interni; Composizione architettonica;  
+Materie umanistiche; Scienza e tecnica delle costruzioni;  
+Urbanistica);  
+b) discussione su una tesi di laurea, concordata in quarto o quinto anno, e comunque almeno nove mesi prima della laurea fra lo studente ed un docente ufficiale della Facolta'; la materia oggetto della tesi verra' scelta dallo studente tra quelle del triennio fra i seguenti gruppi di discipline:  
+Architettura degli interni; Composizione architettonica;  
+Materie umanistiche; Scienza e tecnica delle costruzioni;  
+Urbanistica.  
+L'argomento, concordato col relatore, dovra' essere approvato dal Consiglio di Facolta'.  
+Nessun allievo potra' essere ammesso a sostenere l'esame di laurea se non avra' frequentato interamente il rispettivo piano di studio e non avra' superato tutti i prescritti esami di profitto e qualsiasi prova fallita, anche se in soprannumero rispetto a quelle strettamente necessarie. Dovra' inoltre avere seguito, di regola, presso il Politecnico di Milano almeno il 5° anno di corso".  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 settembre 1969
+### Dato a Roma, addi' 30 ottobre 1965
 
-SARAGAT FERRARI AGGRADI
+SARAGAT GUI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 15 luglio 1970
+Registrato alla Corte dei conti, addi' 27 dicembre 1965
 
-Atti del Governo, registro n. 236, foglio n. 162. - CARUSO
+Atti del Governo, registro n. 199, foglio n. 13. - VILLA

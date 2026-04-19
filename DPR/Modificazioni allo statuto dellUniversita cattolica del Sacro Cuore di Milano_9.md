@@ -1,26 +1,28 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1974 n. 653
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 842
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1974 n. 653
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 842
 ==============================================================
 
-Modificazioni allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
---------------------------------------------------------------------------------
+Modificazioni allo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano.
+----------------------------------------------------------------------------------
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
+Veduto lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -28,205 +30,390 @@ Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-L'art. 104, relativo alla scuola di specializzazione in radiologia, e' abrogato e sostituito dal seguente:
+Art. 12 - all'elenco degli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti i seguenti:
 
-Scuola di specializzazione in radiologia
+Diritto dell'economia;
 
-Art. 104. - La scuola rilascia i seguenti diplomi di specializzazione: in radiologia e radiologia diagnostica.
+Diritto della previdenza sociale;
 
-La scuola e' riservata ai laureati in medicina e chirurgia che possono essere accolti in numero massimo di dodici per ciascun anno di corso per radiologia e radiologia diagnostica (totale 42).
+Analisi finanziaria e finanza aziendale;
 
-La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia e' di quattro anni.
+Statistica matematica;
 
-Gli insegnamenti sono i seguenti:
+Tecnica dei cambi.
 
-a) Matematica, fisica, nozioni di statistica e informatica (annuale) comprendente: richiami di matematica e fisica generale; costituzione della materia; produzione, assorbimento e misura delle radiazioni; statistica applicata alla medicina; informatica e cibernetica applicata alla radiologia;
+Art. 13 - all'elenco degli insegnamenti complementari del corso di diploma in statistica sono aggiunti i seguenti;
 
-b) Radiodiagnostica (triennale) comprendente: principi generali di radiodiagnostica; apparecchi, strumenti e tecnica radiodiagnostica; tecnica e fisiologia applicata alla radiodiagnostica; i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia; semeiotica radiologica; diagnostica differenziale radiologica; dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici; dimostrazioni di casistica clinica;
+Elementi di calcolo delle probabilita';
 
-c) Radiobiologia (annuale) comprendente: radiobiologia generale; danni da radiazioni e radiopatie;
+Elementi di teoria dei campioni;
 
-d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:
+Controllo statistico delle qualita'.
 
-legislazione sanitaria applicata alla radiologia; compiti e responsabilita' medicolegali del radiologo; radioprotezione fisica e dosimetria ad essa connessa; fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni; radioprotezione chimica; problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici;
+Art. 15 - all'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:
 
-e) Radioterapia e terapia fisica (triennale) comprendente: radiobiologia applicata; fondamenti generali di radioterapia e terapia fisica; istopatologia speciale dei tumori; nozioni sugli apparecchi e strumenti per la radioterapia; tecnica e metodica radioterapica; dosimetria; clinica radioterapica; fondamenti generali di chemioterapia oncologica; chemioterapia clinica dei tumori e sua associazione alla radioterapia; dimostrazione di casistica clinica;
+Storia del diritto canonico medioevale;
 
-f) Medicina nucleare (biennale) comprendente: elementi di medicina nucleare; istrumentario, tecnica e metodica dell'impiego dei radioisotopi in medicina nucleare; dosimetria dei radioisotopi somministrati per via interna; diagnostica con radioisotopi somministrati per via interna; radioterapia metabolica; dimostrazioni di casistica clinica.
+Lingua a letteratura ceca;
 
-I singoli insegnamenti, tenuti da uno o piu' docenti, a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze, dimostrazioni pratiche e, ove opportuno e possibile, da visite ad istituzioni di particolare interesse, sono cosi' distribuiti nei quattro anni di corso:
+Lingua e letteratura slovacca;
 
-1° Anno (tronco comune):
+Storia dell'Europa orientale;
 
-Matematica, fisica, nozioni di statistica ed informatica;
+Storia della lingua russa;
 
-Radiobiologia;
+Lingua e letteratura olandese;
 
-Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;
+Lingua ceca;
 
-Radiodiagnostica (I).
+Lingua polacca;
 
-2° Anno:
+Lingua serbo-croata;
 
-Radiodiagnostica (II);
+Lingua danese;
 
-Radioterapia e terapia fisica (I).
+Lingua svedese;
 
-3° Anno:
+Lingua neo-greca;
 
-Radiodiagnostica (III);
+Lingua francese;
 
-Radioterapia e terapia fisica (II);
+Lingua inglese;
 
-Medicina nucleare (I).
+Lingua spagnola;
 
-4° Anno:
+Lingua russa;
 
-Radioterapia e terapia fisica (III);
+Lingua tedesca;
 
-Medicina nucleare (II).
+Lingua ungherese;
 
-La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia diagnostica e' di tre anni.
+Lingua araba;
 
-Gli insegnamenti sono i seguenti:
+Lingua romena;
 
-a) Matematica, fisica, nozioni di statistica e informatica (annuale) comprendente: richiami di matematica e fisica generale; costituzione della materia; produzione, assorbimento e misura delle radiazioni; statistica applicata alla medicina; informatica e cibernetica applicate alla radiologia;
+Lingua ebraica.
 
-b) Radiodiagnostica (triennale) comprendente: principi generali di radiodiagnostica; apparecchi, strumenti e tecnica radiodiagnostica; tecnica e fisiologia applicate alla radiodiagnostica; i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia; semeiotica radiologica; diagnostica differenziale radiologica; dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici; dimostrazioni di casistica clinica;
+Art. 16 - all'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:
 
-c) Radiobiologia (annuale) comprendente: radiobiologia generale; danni da radiazioni e radiopatie;
+Storia del diritto canonico medioevale;
 
-d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:
+Lingua e letteratura ceca;
 
-legislazione sanitaria applicata alla radiologia; compiti e responsabilita' medico-legali del radiologo; radioprotezione fisica e dosimetria ad essa connessa; fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni; radioprotezione chimica; problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.
+Lingua e letteratura slovacca;
 
-I singoli insegnamenti, tenuti da uno o piu' docenti a seconda di quanto opportuno al loro svolgimento e completati da conferenze e dimostrazioni pratiche, sono cosi' distribuiti nei tre anni di corso:
+Storia dell'Europa orientale;
 
-1° Anno (tronco comune):
+Storia della lingua russa;
 
-Matematica, fisica, nozioni di statistica ed informatica;
+Lingua e letteratura olandese;
 
-Radiobiologia;
+Lingua ceca;
 
-Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;
+Lingua polacca;
 
-Radiodiagnostica (I).
+Lingua serbo-croata;
 
-2° Anno:
+Lingua danese;
 
-Radiodiagnostica (II)
+Lingua svedese;
 
-3° Anno:
+Lingua neo-greca;
 
-Radiodiagnostica (III).
+Lingua francese;
 
-Per essere ammessi agli esami di diploma in radiologia e in radiologia diagnostica gli iscritti, oltre ad aver compiuto un congruo periodo di internato, devono aver superato un esame su ciascuna materia d'insegnamento ed elaborato una tesi scritta su di un argomento radiologico concordato con il direttore della scuola.
+Lingua inglese;
+
+Lingua spagnola;
+
+Lingua russa;
+
+Lingua tedesca;
+
+Lingua ungherese;
+
+Lingua araba;
+
+Lingua romena;
+
+Lingua ebraica.
+
+Art. 17 - all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne sono aggiunti i seguenti:
+
+Lingua e letteratura ceca;
+
+Lingua e letteratura slovacca;
+
+Storia dell'Europa orientale;
+
+Storia della lingua russa;
+
+Lingua e letteratura olandese;
+
+Lingua ceca;
+
+Lingua polacca;
+
+Lingua serbo-croata;
+
+Lingua danese;
+
+Lingua svedese;
+
+Lingua neo-greca;
+
+Lingua francese;
+
+Lingua inglese;
+
+Lingua spagnola;
+
+Lingua russa
+
+Lingua tedesca;
+
+Lingua ungherese;
+
+Lingua araba;
+
+Lingua romena;
+
+Lingua ebraica.
+
+Art. 18 - all'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti:
+
+Antropologia culturale;
+
+Psicolinguistica;
+
+Teorie della personalita';
+
+Storia del Cristianesimo;
+
+Storia delle istituzioni politiche e sociali;
+
+Storia della scienza e della tecnica;
+
+Glottodidattica;
+
+Metodologia e didattica delle lingue straniere;
+
+Storia della storiografia;
+
+Metodologia della ricerca storica;
+
+Storia e tecnica dell'informazione.
+
+Art. 19 - all'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti seguenti:
+
+Storia del Cristianesimo;
+
+Storia delle istituzioni politiche e sociali;
+
+Storia della scienza e della tecnica;
+
+Storia della storiografia;
+
+Metodologia della ricerca storica;
+
+Storia e tecnica dell'informazione;
+
+Glottodidattica;
+
+Metodologia e didattica delle lingue straniere;
+
+Pedagogia comparata;
+
+Pedagogia speciale;
+
+Teorie della personalita';
+
+Psicolinguistica;
+
+Neuropsichiatria infantile.
+
+Art. 20 - all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti i seguenti:
+
+Storia della lingua francese;
+
+Storia della lingua inglese;
+
+Storia della lingua tedesca;
+
+Glottodidattica;
+
+Storia delle istituzioni politiche e sociali;
+
+Metodologia e didattica delle lingue straniere;
+
+Antropologia culturale;
+
+Psicolinguistica.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 28 ottobre 1974
+Dato a Roma, addi' 31 ottobre 1974
 
 LEONE
 
 MALFATTI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 7 dicembre 1974 Atti di Governo, registro n. 7, foglio n. 65. - SCIARRETTA
+alla Corte dei conti, addi' 13 febbraio 1975 Atti di Governo, registro n. 8, foglio n. 123
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-L'art. 104, relativo alla scuola di specializzazione in radiologia, e' abrogato e sostituito dal seguente:   
+Art. 12 - all'elenco degli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti i seguenti:  
+Diritto dell'economia;  
+Diritto della previdenza sociale;  
+Analisi finanziaria e finanza aziendale;  
+Statistica matematica;  
+Tecnica dei cambi.  
   
-Scuola di specializzazione in radiologia   
+Art. 13 - all'elenco degli insegnamenti complementari del corso di diploma in statistica sono aggiunti i seguenti;  
+Elementi di calcolo delle probabilita';  
+Elementi di teoria dei campioni;  
+Controllo statistico delle qualita'.  
   
-Art. 104. - La scuola rilascia i seguenti diplomi di specializzazione: in radiologia e radiologia diagnostica.   
-La scuola e' riservata ai laureati in medicina e chirurgia che possono essere accolti in numero massimo di dodici per ciascun anno di corso per radiologia e radiologia diagnostica (totale 42).   
-La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia e' di quattro anni.   
+Art. 15 - all'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:  
+Storia del diritto canonico medioevale;  
+Lingua a letteratura ceca;  
+Lingua e letteratura slovacca;  
+Storia dell'Europa orientale;  
+Storia della lingua russa;  
+Lingua e letteratura olandese;  
+Lingua ceca;  
+Lingua polacca;  
+Lingua serbo-croata;  
+Lingua danese;  
+Lingua svedese;  
+Lingua neo-greca;  
+Lingua francese;  
+Lingua inglese;  
+Lingua spagnola;  
+Lingua russa;  
+Lingua tedesca;  
+Lingua ungherese;  
+Lingua araba;  
+Lingua romena;  
+Lingua ebraica.  
   
-Gli insegnamenti sono i seguenti:   
-a) Matematica, fisica, nozioni di statistica e informatica (annuale) comprendente: richiami di matematica e fisica generale; costituzione della materia; produzione, assorbimento e misura delle radiazioni; statistica applicata alla medicina; informatica e cibernetica applicata alla radiologia;   
-b) Radiodiagnostica (triennale) comprendente: principi generali di radiodiagnostica; apparecchi, strumenti e tecnica radiodiagnostica; tecnica e fisiologia applicata alla radiodiagnostica; i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia; semeiotica radiologica; diagnostica differenziale radiologica; dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici; dimostrazioni di casistica clinica;   
-c) Radiobiologia (annuale) comprendente: radiobiologia generale; danni da radiazioni e radiopatie;   
-d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:   
-legislazione sanitaria applicata alla radiologia; compiti e responsabilita' medicolegali del radiologo; radioprotezione fisica e dosimetria ad essa connessa; fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni; radioprotezione chimica; problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici;   
-e) Radioterapia e terapia fisica (triennale) comprendente: radiobiologia applicata; fondamenti generali di radioterapia e terapia fisica; istopatologia speciale dei tumori; nozioni sugli apparecchi e strumenti per la radioterapia; tecnica e metodica radioterapica; dosimetria; clinica radioterapica; fondamenti generali di chemioterapia oncologica; chemioterapia clinica dei tumori e sua associazione alla radioterapia; dimostrazione di casistica clinica;   
-f) Medicina nucleare (biennale) comprendente: elementi di medicina nucleare; istrumentario, tecnica e metodica dell'impiego dei radioisotopi in medicina nucleare; dosimetria dei radioisotopi somministrati per via interna; diagnostica con radioisotopi somministrati per via interna; radioterapia metabolica; dimostrazioni di casistica clinica.   
-I singoli insegnamenti, tenuti da uno o piu' docenti, a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze, dimostrazioni pratiche e, ove opportuno e possibile, da visite ad istituzioni di particolare interesse, sono cosi' distribuiti nei quattro anni di corso:   
+Art. 16 - all'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:  
+Storia del diritto canonico medioevale;  
+Lingua e letteratura ceca;  
+Lingua e letteratura slovacca;  
+Storia dell'Europa orientale;  
+Storia della lingua russa;  
+Lingua e letteratura olandese;  
+Lingua ceca;  
+Lingua polacca;  
+Lingua serbo-croata;  
+Lingua danese;  
+Lingua svedese;  
+Lingua neo-greca;  
+Lingua francese;  
+Lingua inglese;  
+Lingua spagnola;  
+Lingua russa;  
+Lingua tedesca;  
+Lingua ungherese;  
+Lingua araba;  
+Lingua romena;  
+Lingua ebraica.  
   
-1° Anno (tronco comune):   
-Matematica, fisica, nozioni di statistica ed informatica;   
-Radiobiologia;   
-Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;   
-Radiodiagnostica (I).   
+Art. 17 - all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne sono aggiunti i seguenti:  
+Lingua e letteratura ceca;  
+Lingua e letteratura slovacca;  
+Storia dell'Europa orientale;  
+Storia della lingua russa;  
+Lingua e letteratura olandese;  
+Lingua ceca;  
+Lingua polacca;  
+Lingua serbo-croata;  
+Lingua danese;  
+Lingua svedese;  
+Lingua neo-greca;  
+Lingua francese;  
+Lingua inglese;  
+Lingua spagnola;  
+Lingua russa  
+Lingua tedesca;  
+Lingua ungherese;  
+Lingua araba;  
+Lingua romena;  
+Lingua ebraica.  
   
-2° Anno:   
-Radiodiagnostica (II);   
-Radioterapia e terapia fisica (I).   
+Art. 18 - all'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti:  
+Antropologia culturale;  
+Psicolinguistica;  
+Teorie della personalita';  
+Storia del Cristianesimo;  
+Storia delle istituzioni politiche e sociali;  
+Storia della scienza e della tecnica;  
+Glottodidattica;  
+Metodologia e didattica delle lingue straniere;  
+Storia della storiografia;  
+Metodologia della ricerca storica;  
+Storia e tecnica dell'informazione.  
   
-3° Anno:   
-Radiodiagnostica (III);   
-Radioterapia e terapia fisica (II);   
-Medicina nucleare (I).   
+Art. 19 - all'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti seguenti:  
+Storia del Cristianesimo;  
+Storia delle istituzioni politiche e sociali;  
+Storia della scienza e della tecnica;  
+Storia della storiografia;  
+Metodologia della ricerca storica;  
+Storia e tecnica dell'informazione;  
+Glottodidattica;  
+Metodologia e didattica delle lingue straniere;  
+Pedagogia comparata;  
+Pedagogia speciale;  
+Teorie della personalita';  
+Psicolinguistica;  
+Neuropsichiatria infantile.  
   
-4° Anno:   
-Radioterapia e terapia fisica (III);   
-Medicina nucleare (II).   
-La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia diagnostica e' di tre anni.   
-  
-Gli insegnamenti sono i seguenti:   
-a) Matematica, fisica, nozioni di statistica e informatica (annuale) comprendente: richiami di matematica e fisica generale; costituzione della materia; produzione, assorbimento e misura delle radiazioni; statistica applicata alla medicina; informatica e cibernetica applicate alla radiologia;   
-b) Radiodiagnostica (triennale) comprendente: principi generali di radiodiagnostica; apparecchi, strumenti e tecnica radiodiagnostica; tecnica e fisiologia applicate alla radiodiagnostica; i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia; semeiotica radiologica; diagnostica differenziale radiologica; dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici; dimostrazioni di casistica clinica;   
-c) Radiobiologia (annuale) comprendente: radiobiologia generale; danni da radiazioni e radiopatie;   
-d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:   
-legislazione sanitaria applicata alla radiologia; compiti e responsabilita' medico-legali del radiologo; radioprotezione fisica e dosimetria ad essa connessa; fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni; radioprotezione chimica; problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.   
-I singoli insegnamenti, tenuti da uno o piu' docenti a seconda di quanto opportuno al loro svolgimento e completati da conferenze e dimostrazioni pratiche, sono cosi' distribuiti nei tre anni di corso:   
-  
-1° Anno (tronco comune):   
-Matematica, fisica, nozioni di statistica ed informatica;   
-Radiobiologia;   
-Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;   
-Radiodiagnostica (I).   
-  
-2° Anno:   
-Radiodiagnostica (II)   
-  
-3° Anno:   
-Radiodiagnostica (III).   
-  
-Per essere ammessi agli esami di diploma in radiologia e in radiologia diagnostica gli iscritti, oltre ad aver compiuto un congruo periodo di internato, devono aver superato un esame su ciascuna materia d'insegnamento ed elaborato una tesi scritta su di un argomento radiologico concordato con il direttore della scuola.   
+Art. 20 - all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti i seguenti:  
+Storia della lingua francese;  
+Storia della lingua inglese;  
+Storia della lingua tedesca;  
+Glottodidattica;  
+Storia delle istituzioni politiche e sociali;  
+Metodologia e didattica delle lingue straniere;  
+Antropologia culturale;  
+Psicolinguistica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1974
+### Dato a Roma, addi' 31 ottobre 1974
 
 LEONE MALFATTI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 7 dicembre 1974
+Registrato alla Corte dei conti, addi' 13 febbraio 1975
 
-Atti di Governo, registro n. 7, foglio n. 65. - SCIARRETTA
+Atti di Governo, registro n. 8, foglio n. 123

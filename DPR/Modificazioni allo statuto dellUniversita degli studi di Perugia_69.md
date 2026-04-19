@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 luglio 1963 n. 1374
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1755
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 luglio 1963 n. 1374
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1755
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, numero 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successivi;
+Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471) e successivi;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -32,147 +32,49 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 28. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti quelli di:
+Art. 10. - Agli insegnamenti complementari del corso di laurea in Scienze politiche sono aggiunti quelli di "Ragioneria delle aziende pubbliche" e "Diritto commerciale".
 
-24) Storia delle tradizioni popolari;
+Art. 18. - E' sostituito dal seguente:
 
-25) Lingua e letteratura russa.
+L'esame di "Economia politica" deve precedere quello di "Politica economica e finanziaria". Gli esami di "Istituzioni di diritto pubblico" e di "Istituzioni di diritto privato" devono precedere quelli di "Diritto internazionale" e di "Diritto del lavoro", di "Diritto costituzionale italiano e comparato" e di e Diritto amministrativo".
 
-Art. 29. - Agli insegnamenti complementari del corso di laurea in filosofia e' aggiunto quello di:
+Art. 21. - Agli insegnamenti complementari del corso di laurea in Economia e commercio sono aggiunti quelli di:
 
-15) Una lingua e letteratura straniera moderna, scelta tra quelle elencate nell'art. 28 per il corso di laurea in lettere.
+9) Economia dei trasporti;
 
-Art. 36. - Agli insegnamenti complementari del corso di laurea in Farmacia e' aggiunto quello di:
+10) Ragioneria delle aziende pubbliche;
 
-10) Chimica, farmaceutica applicata.
+11) Diritto delle assicurazioni libere e sociali;
 
-Art. 56. - Agli insegnamenti complementari del corso di laurea in Medicina veterinaria e' aggiunto quello di:
+12) Tecnica delle ricerche di mercato e della distribuzione generale;
 
-14) Igiene del latte e derivati.
+13) Legislazione del lavoro.
 
-Dopo l'art. 70 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di perfezionamento in Scienze farmaceutiche e biochimica applicata con il conseguente spostamento della numerazione degli articoli successivi.
+Art. 22. - E' sostituito dal seguente:
 
-Scuola di perfezionamento in Scienze
-
-farmaceutiche e biochimica applicata
-
-Art. 71. - Alla Facolta' di farmacia e' annessa la "Scuola di perfezionamento in Scienze farmaceutiche e biochimica applicata".
-
-Art. 72. - Scopo della Scuola e' perfezionare e completare la preparazione dei laureati in Farmacia, in modo da renderli meglio idonei ad eseguire con sicurezza ricerche di indole chimico-biologica e farmaceutica e capaci di corrispondere alle esigenze professionali dell'industria farmaceutica e dei laboratori di analisi chimico-clinica e chimico-bromatologica.
-
-Art. 73. - Alla Scuola possono iscriversi i laureati in Farmacia ed i laureati in Chimica ed in Chimica e farmacia.
-
-Art. 74. - La Scuola ha durata biennale. Per l'ammissione alla Scuola i candidati debbono superare un esame generale di cultura farmaceutica. Il numero dei posti, per ciascun anno, e' limitato a dieci. Ove il numero dei candidati idonei superi tale numero, avranno diritto di precedenza i meglio graduati nell'esame di ammissione.
-
-Art. 75. - Ai fini del conseguimento del diploma di specializzazione gli iscritti debbono aver frequentato e superato gli esami dei corsi seguenti:
-
-1° Anno:
-
-Microbiologia, sierologia umana e veterinaria e tecnica immunologica;
-
-Microbiologia industriale farmaceutica;
-
-Biochimica applicata;
-
-Analisi chimico-fisiche;
-
-Complementi di farmacologia e farmacologia applicata;
-
-Complementi di chimica farmaceutica ed analitica;
-
-Preparazioni farmaceutiche.
-
-2° Anno:
-
-Analisi chimico-cliniche;
-
-Analisi chimico-bromatologiche;
-
-Chimica farmaceutica industriale;
-
-Lavorazione industriale di materiali biologici;
-
-Impianti e macchinario farmaceutico;
-
-Legislazione ed organizzazione industriale.
-
-Art. 76. - La direzione della Scuola sara' alternativamente affidata, un anno al titolare di Chimica farmaceutica e tossicologica e il successivo a quello di Chimica biologica.
-
-Il Consiglio della Scuola e' costituito da tutti i docenti che insegnano nella Scuola stessa. Gli incarichi di insegnamento nella Scuola sono conferiti dal rettore su proposta del direttore della Scuola.
-
-Art. 77. - Il Consiglio della Scuola disporra' circa i programmi di insegnamento i periodi di internato, le esercitazioni pratiche e quanto altro possa riuscire utile al miglior profitto della Scuola.
-
-Art. 78. - A coloro che hanno frequentato la Scuola e superato le prove di esame prescritte verra' rilasciato un diploma di specialista valido a tutti gli effetti di legge.
-
-Art. 79. - Le Commissioni per gli esami di profitto e di diploma sono costituite rispettivamente da tre e da cinque membri, nominati dal preside della Facolta'.
-
-Art. 80. - L'esame di diploma consiste in un esame di cultura generale nel campo delle Scienze farmaceutiche, completato da prove pratiche a scelta della Commissione, e dalla dissertazione su di una tesi scritta, sperimentale o compilativa, in una delle discipline che sono previste dall'ordinamento didattico della Scuola.
-
-Art. 81. - Le tasse di immatricolazione e di iscrizione alla Scuola sono le stesse dovute dagli studenti della Facolta' di farmacia; la misura dei contributi di laboratorio verra' fissata dal Consiglio di amministrazione su proposta del Consiglio della scuola, debitamente approvato dal Senato accademico.
-
-Dopo l'art. 111 sono aggiunti i seguenti nuovi articoli relativi alla istituzione dei corsi di perfezionamento in "Ispezione degli alimenti di origine animale" ed in "Ostetricia, ginecologia e fecondazione artificiale degli animali domestici annessi alla Facolta' di Medicina veterinaria".
-
-Corso di perfezionamento in ispezione
-
-degli alimenti di origine animale
-
-Art. 112. - La durata del corso e' di un anno.
-
-Le materie d'insegnamento sono:
-
-1) Anatomia ed istologia patologica;
-
-2) Microbiologia;
-
-3) Chimica degli alimenti di origine animale;
-
-4) Tecnica della ispezione sanitaria degli alimenti di origine animale e relative ricerche di laboratorio
-
-5) Legislazione.
-
-Corso di perfezionamento in Ostetricia, ginecologia
-
-e fecondazione artificiale degli animali domestici
-
-Art. 113. - La durata del corso e' di un anno.
-
-Le materie di insegnamento sono:
-
-1) Anatomia e fisiologia dell'apparato genitale maschile e femminile;
-
-2) Malattie infettive attinenti all'apparato genitale maschile e femminile;
-
-3) Anatomia patologica dell'apparato genitale maschile e femminile
-
-4) Fisiopatologia della gravidanza e del puerperio;
-
-5) Sterilita' della femmina e del maschio;
-
-6) Chirurgia ostetrica e ginecologica;
-
-7) Tecnica della fecondazione artificiale.
+Lo studente non puo' sostenere l'esame di Matematica finanziaria ove non abbia sostenuto quello di Matematica generale; gli esami di Scienza delle finanze e diritto finanziario e di politica economica e finanziaria ove non abbia sostenuto quello di Economia politica (1° anno); gli esami di Tecnica bancaria e professionale e di tecnica industriale e commerciale ove non abbia sostenuto quelli di Ragioneria generale e di Ragioneria applicata l'esame di Diritto commerciale ove non abbia sostenuto quello di istituzioni di diritto privato; l'esame di Diritto industriale ove non abbia sostenuto quello di Diritto commerciale; gli esami di Diritto del lavoro e di diritto amministrativo ove non abbia sostenuto quelli di istituzioni di diritto privato e di istituzioni di diritto pubblico.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 26 luglio 1963
+Dato a Roma, addi' 19 ottobre 1960
 
-SEGNI
+GRONCHI
 
-GUI
+BOSCO
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 16 ottobre 1963 Atti del Governo, registro n. 175, foglio n. 23. - VILLA
+alla Corte dei conti, addi' 28 gennaio 1961 Atti del Governo, registro n. 133, foglio n. 110. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, numero 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successivi;  
+Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471) e successivi;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
@@ -185,98 +87,30 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 28. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti quelli di:  
-24) Storia delle tradizioni popolari;  
-25) Lingua e letteratura russa.  
+Art. 10. - Agli insegnamenti complementari del corso di laurea in Scienze politiche sono aggiunti quelli di "Ragioneria delle aziende pubbliche" e "Diritto commerciale".  
+Art. 18. - E' sostituito dal seguente:  
   
-Art. 29. - Agli insegnamenti complementari del corso di laurea in filosofia e' aggiunto quello di:  
-15) Una lingua e letteratura straniera moderna, scelta tra quelle elencate nell'art. 28 per il corso di laurea in lettere.  
+L'esame di "Economia politica" deve precedere quello di "Politica economica e finanziaria". Gli esami di "Istituzioni di diritto pubblico" e di "Istituzioni di diritto privato" devono precedere quelli di "Diritto internazionale" e di "Diritto del lavoro", di "Diritto costituzionale italiano e comparato" e di e Diritto amministrativo".  
+Art. 21. - Agli insegnamenti complementari del corso di laurea in Economia e commercio sono aggiunti quelli di:  
+9) Economia dei trasporti;  
+10) Ragioneria delle aziende pubbliche;  
+11) Diritto delle assicurazioni libere e sociali;  
+12) Tecnica delle ricerche di mercato e della distribuzione generale;  
+13) Legislazione del lavoro.  
+Art. 22. - E' sostituito dal seguente:  
   
-Art. 36. - Agli insegnamenti complementari del corso di laurea in Farmacia e' aggiunto quello di:  
-10) Chimica, farmaceutica applicata.  
-  
-Art. 56. - Agli insegnamenti complementari del corso di laurea in Medicina veterinaria e' aggiunto quello di:  
-14) Igiene del latte e derivati.  
-Dopo l'art. 70 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di perfezionamento in Scienze farmaceutiche e biochimica applicata con il conseguente spostamento della numerazione degli articoli successivi.  
-  
-Scuola di perfezionamento in Scienze  
-farmaceutiche e biochimica applicata  
-  
-Art. 71. - Alla Facolta' di farmacia e' annessa la "Scuola di perfezionamento in Scienze farmaceutiche e biochimica applicata".  
-  
-Art. 72. - Scopo della Scuola e' perfezionare e completare la preparazione dei laureati in Farmacia, in modo da renderli meglio idonei ad eseguire con sicurezza ricerche di indole chimico-biologica e farmaceutica e capaci di corrispondere alle esigenze professionali dell'industria farmaceutica e dei laboratori di analisi chimico-clinica e chimico-bromatologica.  
-  
-Art. 73. - Alla Scuola possono iscriversi i laureati in Farmacia ed i laureati in Chimica ed in Chimica e farmacia.  
-  
-Art. 74. - La Scuola ha durata biennale. Per l'ammissione alla Scuola i candidati debbono superare un esame generale di cultura farmaceutica. Il numero dei posti, per ciascun anno, e' limitato a dieci. Ove il numero dei candidati idonei superi tale numero, avranno diritto di precedenza i meglio graduati nell'esame di ammissione.  
-  
-Art. 75. - Ai fini del conseguimento del diploma di specializzazione gli iscritti debbono aver frequentato e superato gli esami dei corsi seguenti:  
-  
-1° Anno:  
-Microbiologia, sierologia umana e veterinaria e tecnica immunologica;  
-Microbiologia industriale farmaceutica;  
-Biochimica applicata;  
-Analisi chimico-fisiche;  
-Complementi di farmacologia e farmacologia applicata;  
-Complementi di chimica farmaceutica ed analitica;  
-Preparazioni farmaceutiche.  
-  
-2° Anno:  
-Analisi chimico-cliniche;  
-Analisi chimico-bromatologiche;  
-Chimica farmaceutica industriale;  
-Lavorazione industriale di materiali biologici;  
-Impianti e macchinario farmaceutico;  
-Legislazione ed organizzazione industriale.  
-  
-Art. 76. - La direzione della Scuola sara' alternativamente affidata, un anno al titolare di Chimica farmaceutica e tossicologica e il successivo a quello di Chimica biologica.  
-Il Consiglio della Scuola e' costituito da tutti i docenti che insegnano nella Scuola stessa. Gli incarichi di insegnamento nella Scuola sono conferiti dal rettore su proposta del direttore della Scuola.  
-  
-Art. 77. - Il Consiglio della Scuola disporra' circa i programmi di insegnamento i periodi di internato, le esercitazioni pratiche e quanto altro possa riuscire utile al miglior profitto della Scuola.  
-  
-Art. 78. - A coloro che hanno frequentato la Scuola e superato le prove di esame prescritte verra' rilasciato un diploma di specialista valido a tutti gli effetti di legge.  
-  
-Art. 79. - Le Commissioni per gli esami di profitto e di diploma sono costituite rispettivamente da tre e da cinque membri, nominati dal preside della Facolta'.  
-  
-Art. 80. - L'esame di diploma consiste in un esame di cultura generale nel campo delle Scienze farmaceutiche, completato da prove pratiche a scelta della Commissione, e dalla dissertazione su di una tesi scritta, sperimentale o compilativa, in una delle discipline che sono previste dall'ordinamento didattico della Scuola.  
-  
-Art. 81. - Le tasse di immatricolazione e di iscrizione alla Scuola sono le stesse dovute dagli studenti della Facolta' di farmacia; la misura dei contributi di laboratorio verra' fissata dal Consiglio di amministrazione su proposta del Consiglio della scuola, debitamente approvato dal Senato accademico.  
-Dopo l'art. 111 sono aggiunti i seguenti nuovi articoli relativi alla istituzione dei corsi di perfezionamento in "Ispezione degli alimenti di origine animale" ed in "Ostetricia, ginecologia e fecondazione artificiale degli animali domestici annessi alla Facolta' di Medicina veterinaria".  
-  
-Corso di perfezionamento in ispezione  
-degli alimenti di origine animale  
-  
-Art. 112. - La durata del corso e' di un anno.  
-Le materie d'insegnamento sono:  
-1) Anatomia ed istologia patologica;  
-2) Microbiologia;  
-3) Chimica degli alimenti di origine animale;  
-4) Tecnica della ispezione sanitaria degli alimenti di origine animale e relative ricerche di laboratorio  
-5) Legislazione.  
-  
-Corso di perfezionamento in Ostetricia, ginecologia  
-e fecondazione artificiale degli animali domestici  
-  
-Art. 113. - La durata del corso e' di un anno.  
-Le materie di insegnamento sono:  
-1) Anatomia e fisiologia dell'apparato genitale maschile e femminile;  
-2) Malattie infettive attinenti all'apparato genitale maschile e femminile;  
-3) Anatomia patologica dell'apparato genitale maschile e femminile  
-4) Fisiopatologia della gravidanza e del puerperio;  
-5) Sterilita' della femmina e del maschio;  
-6) Chirurgia ostetrica e ginecologica;  
-7) Tecnica della fecondazione artificiale.  
+Lo studente non puo' sostenere l'esame di Matematica finanziaria ove non abbia sostenuto quello di Matematica generale; gli esami di Scienza delle finanze e diritto finanziario e di politica economica e finanziaria ove non abbia sostenuto quello di Economia politica (1° anno); gli esami di Tecnica bancaria e professionale e di tecnica industriale e commerciale ove non abbia sostenuto quelli di Ragioneria generale e di Ragioneria applicata l'esame di Diritto commerciale ove non abbia sostenuto quello di istituzioni di diritto privato; l'esame di Diritto industriale ove non abbia sostenuto quello di Diritto commerciale; gli esami di Diritto del lavoro e di diritto amministrativo ove non abbia sostenuto quelli di istituzioni di diritto privato e di istituzioni di diritto pubblico.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 luglio 1963
+### Dato a Roma, addi' 19 ottobre 1960
 
-SEGNI GUI
+GRONCHI BOSCO
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 16 ottobre 1963
+Registrato alla Corte dei conti, addi' 28 gennaio 1961
 
-Atti del Governo, registro n. 175, foglio n. 23. - VILLA
+Atti del Governo, registro n. 133, foglio n. 110. - VILLA

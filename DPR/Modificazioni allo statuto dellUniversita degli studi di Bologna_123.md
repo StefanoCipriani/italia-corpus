@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1969 n. 771
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 ottobre 1979 n. 991
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1969 n. 771
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 ottobre 1979 n. 991
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
@@ -10,213 +10,57 @@ Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla
+-----
 
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 115. - Il primo comma e' abrogato e sostituito dal seguente: "La facolta' di farmacia conferisce la laurea in farmacia e la laurea in chimica e tecnologia farmaceutiche".
-
-Dopo l'art. 125 e con il conseguente spostamento della successiva numerazione e' aggiunto il seguente nuovo articolo relativo all'istituzione del corso di laurea in chimica e tecnologia farmaceutiche annesse alla facolta' di farmacia.
-
-LAUREA IN CHIMICA E TECNOLOGIA FARMACEUTICHE
-
-Art. 126. - Durata del corso degli studi: cinque anni, divisi in un biennio ed un triennio.
-
-Titolo di ammissione: diploma di maturita' classica o scientifica.
-
-Insegnamenti fondamentali
-
-Biennio:
-
-1) Analisi chimico farmaceutica I (analisi qualitativa);
-
-\* 2) Anatomia umana;
-
-\* 3) Botanica farmaceutica;
-
-\* 4) Chimica fisica;
-
-\* 5) Chimica generale ed inorganica;
-
-\*\* 6) Chimica organica I;
-
-\* 7) Fisica;
-
-8) Fisiologia generale;
-
-\* 9) Istituzioni di matematiche;
-
-10) Microbiologia ed igiene.
-
-Triennio:
-
-11) Analisi chimico farmaceutica II (analisi quantitativa);
-
-12) Analisi chimico farmaceutica III (analisi dei medicamenti);
-
-\* 13) Biochimica applicata;
-
-\* 14) Chimica biologica;
-
-\* 15) Chimica degli alimenti;
-
-\* 16) Chimica farmaceutica applicata;
-
-\* 17) Chimica farmaceutica e tossicologica I;
-
-\* 18) Chimica farmaceutica e tossicologica II;
-
-\*\* 19) Chimica organica II;
-
-\* 20) Farmacologia e farmacognosia;
-
-21) Impianti dell'industria farmaceutica;
-
-22) Laboratorio di preparazione estrattiva e sintetica dei farmaci;
-
-23) Metodi fisici in chimica organica;
-
-24) Saggi e dosaggi farmacologici;
-
-\* 25) Tecnica e legislazione farmaceutica.
-
-Insegnamenti complementari
-
-1) Chimica delle fermentazioni e microbiologia industriale;
-
-2) Chimica delle sostanze organiche naturali;
-
-3) Scienza dell'alimentazione e prodotti dietetici;
-
-4) Prodotti cosmetici;
-
-5) Istituzioni di patologia generale;
-
-6) Istituzioni di biologia generale;
-
-7) Statistica e biometria.
-
-Gli insegnamenti contrassegnati con un asterisco sono comuni al corso di laurea in farmacia; quelli contrassegnati con due asterischi sono comuni al corso di laurea in chimica. L'insegnamento di "Chimica degli alimenti" si identifica con quello di "Chimica bromatologica" del corso di laurea in farmacia.
-
-Per ottenere l'iscrizione al 3° anno lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fissati per i due anni precedenti.
-
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato tutti gli esami dei corsi fondamentali e almeno due esami a scelta fra i corsi complementari.
-
-La prova di laurea comporta la discussione di una tesi sperimentale.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 8 ottobre 1969
-
-SARAGAT
-
-FERRARI AGGRADI
-
-Visto, il Guardasigilli: GAVA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 5 novembre 1969 Atti del Governo, registro n. 230, foglio n. 3. - CARUSO
+proposta del Ministro della pubblica istruzione; Decreta:
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+L'art. 175 dello statuto dell'Universita' di Bologna, relativo al corso di laurea in medicina veterinaria, e' sostituito dal seguente: "I corsi di chimica, anatomia veterinaria sistematica e comparata, fisiologia generale e speciale veterinaria e fisica biologica, anatomia patologica veterinaria generale e speciale, patologia e profilassi delle malattie infettive degli animali domestici, ispezione e controllo delle derrate alimentari di origine animale (carni, latte, pesci, uova), comportano due insegnamenti e due esami distinti (I e II parte); per ciascuno di tali insegnamenti l'esame relativo alla I parte deve precedere quello relativo alla II parte.  
+L'esame di zoologia deve precedere l'esame di anatomia veterinaria sistematica e comparata (I parte) il cui superamento insieme con quello di biochimica, e' condizione indispensabile per l'ammissione all'esame di fisiologia (I parte).  
+L'esame di patologia generale veterinaria deve seguire gli esami di anatomia veterinaria sistematica e comparata, gli esami di fisiologia generale e speciale veterinaria e fisica biologica e di microbiologia generale veterinaria (batteriologia, virologia, immunologia) e deve precedere quelli di anatomia patologica generale e speciale (I parte), di patologia e profilassi delle malattie infettive degli animali domestici (I parte), di patologia medica degli animali domestici (ruminanti, equini, carnivori, suini, pollame, conigli ecc.) di patologia chirurgica veterinaria e podologia e di ostetricia veterinaria.  
+Per essere ammessi agli esami di clinica medica veterinaria e di clinica chirurgica veterinaria lo studente dovra' aver superato gli esami corrispondenti alle rispettive patologia medica degli animali domestici (ruminanti, equidi, carnivori, suini, pollame, conigli ecc.) e patologia chirurgica veterinaria e podologia nonche' gli esami di patologia e profilassi delle malattie infettive degli animali domestici (II parte) e anatomia patologica veterinaria generale e speciale (II parte).  
+Gli esami di alimentazione e nutrizione animale, di farmacologia e farmacodinamica veterinaria, di anatomia patologica veterinaria generale e speciale (I parte) e di parassitologia (compresa micologia, protozoologia, entomologia, elmintologia) debbono precedere quello di patologia aviare.  
+L'esame di ostetricia veterinaria deve precedere quello di clinica ostetrica e ginecologia veterinaria.  
+Agli effetti dell'ammissione agli esami sono altresi' considerati propedeutici: "Anatomia veterinaria sistematica e comparata (I parte) per zootecnia: I igiene, aspetti esteriori degli animali, etnologia, zoologia per zootecnia II), genetica e allevamento, microbiologia generale veterinaria (batteriologia, virologia, immunologia) per patologia e profilassi delle malattie infettive degli animali domestici (I parte); propedeutica I) semeiologia medica veterinaria e metodologia clinica, per patologia medica degli animali domestici (ruminanti, equidi, carnivori, suini, pollame, conigli ecc.), propedeutica II) semeiologia chirurgica veterinaria e metodologia clinica per patologia chirurgica veterinaria e podologia, fisiologia generale e speciale veterinaria e fisica biologica (II parte) per farmacologia e farmacodinamica veterinaria, parassitologia (compresa micologia, protozoologia, entomologia, elmintologia) per malattie parassitarie degli animali domestici; anatomia patologica veterinaria generale e speciale (II parte) per ispezione e controllo delle derrate alimentari di origine animale (carni, latte, pesci, uova, ecc.) II".  
+
+Art. 2
+------
+
   
-Decreta:   
-  
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 115. - Il primo comma e' abrogato e sostituito dal seguente: "La facolta' di farmacia conferisce la laurea in farmacia e la laurea in chimica e tecnologia farmaceutiche".   
-Dopo l'art. 125 e con il conseguente spostamento della successiva numerazione e' aggiunto il seguente nuovo articolo relativo all'istituzione del corso di laurea in chimica e tecnologia farmaceutiche annesse alla facolta' di farmacia.   
-  
-LAUREA IN CHIMICA E TECNOLOGIA FARMACEUTICHE   
-  
-Art. 126. - Durata del corso degli studi: cinque anni, divisi in un biennio ed un triennio.   
-Titolo di ammissione: diploma di maturita' classica o scientifica.   
-  
-Insegnamenti fondamentali   
-  
-Biennio:   
-1) Analisi chimico farmaceutica I (analisi qualitativa);   
-\* 2) Anatomia umana;   
-\* 3) Botanica farmaceutica;   
-\* 4) Chimica fisica;   
-\* 5) Chimica generale ed inorganica;   
-\*\* 6) Chimica organica I;   
-\* 7) Fisica;   
-8) Fisiologia generale;   
-\* 9) Istituzioni di matematiche;   
-10) Microbiologia ed igiene.   
-Triennio:   
-11) Analisi chimico farmaceutica II (analisi quantitativa);   
-12) Analisi chimico farmaceutica III (analisi dei medicamenti);   
-\* 13) Biochimica applicata;   
-\* 14) Chimica biologica;   
-\* 15) Chimica degli alimenti;   
-\* 16) Chimica farmaceutica applicata;   
-\* 17) Chimica farmaceutica e tossicologica I;   
-\* 18) Chimica farmaceutica e tossicologica II;   
-\*\* 19) Chimica organica II;   
-\* 20) Farmacologia e farmacognosia;   
-21) Impianti dell'industria farmaceutica;   
-22) Laboratorio di preparazione estrattiva e sintetica dei farmaci;   
-23) Metodi fisici in chimica organica;   
-24) Saggi e dosaggi farmacologici;   
-\* 25) Tecnica e legislazione farmaceutica.   
-  
-Insegnamenti complementari   
-  
-1) Chimica delle fermentazioni e microbiologia industriale;   
-2) Chimica delle sostanze organiche naturali;   
-3) Scienza dell'alimentazione e prodotti dietetici;   
-4) Prodotti cosmetici;   
-5) Istituzioni di patologia generale;   
-6) Istituzioni di biologia generale;   
-7) Statistica e biometria.   
-Gli insegnamenti contrassegnati con un asterisco sono comuni al corso di laurea in farmacia; quelli contrassegnati con due asterischi sono comuni al corso di laurea in chimica. L'insegnamento di "Chimica degli alimenti" si identifica con quello di "Chimica bromatologica" del corso di laurea in farmacia.   
-Per ottenere l'iscrizione al 3° anno lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fissati per i due anni precedenti.   
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato tutti gli esami dei corsi fondamentali e almeno due esami a scelta fra i corsi complementari.   
-La prova di laurea comporta la discussione di una tesi sperimentale.   
+L'art. 177 e' sostituito dal seguente: "Gli insegnamenti di clinica medica veterinaria di clinica chirurgica veterinaria di clinica ostetrica e ginecologia veterinaria di ispezione e controllo delle derrate alimentari di origine animale (carni, latte, pesci, uova) e delle materie del gruppo zootecnico (zootecnia II), genetica e allevamento e alimentazione e nutrizione animale) debbono essere completati da un tirocinio pratico della durata complessiva di almeno sei mesi presso istituti della facolta' di medicina veterinaria, o presso istituti sperimentali zooprofilattici dipendenti dal Ministero della sanita', o presso istituti zootecnici dipendenti dal Ministero dell'agricoltura e delle foreste o da amministrazioni provinciali o presso macelli riconosciuti idonei dalla facolta' di medicina veterinaria.  
+Il tirocinio pratico deve essere iniziato dopo la chiusura dei corsi di insegnamento del 5° anno e deve essere completato prima che i candidati si presentino a sostenere l'esame di abilitazione all'esercizio professionale.  
+Il periodo di tirocinio pratico e' utilizzabile ai fini del raggiungimento del numero delle ore richieste per gli insegnamenti clinici (clinica medica veterinaria, clinica chirurgica veterinaria, clinica ostetrica e ginecologica veterinaria, patologia aviare)".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 8 ottobre 1969
+### Dato a Roma, addi' 9 ottobre 1979
 
-SARAGAT FERRARI AGGRADI
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 5 novembre 1969
+Registrato alla Corte dei conti, addi' 19 dicembre 1980
 
-Atti del Governo, registro n. 230, foglio n. 3. - CARUSO
+Registro n. 120 Istruzione, foglio n. 157

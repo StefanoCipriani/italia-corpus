@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 settembre 1962 n. 1472
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1985 n. 536
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 settembre 1962 n. 1472
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1985 n. 536
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -10,91 +10,112 @@ Modificazioni allo statuto dell'Universita' degli studi di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1936, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-11-04;2280), modificato con [regio decreto 26 ottobre 1940, n. 2096](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2096), e successivi;
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita', accademiche dell'Universita' anzidetta;
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
 
-Decreta:
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
 
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato nel senso che l'art. 10, relativo al corso di laurea in giurisprudenza concernente la discussione dell'esame di laurea e' abrogato e sostituito dal seguente:
+Sentito
+-------
 
-Art. 10. - "L'esame di laurea consiste:
+il parere del Consiglio universitario nazionale; Sulla proposta del Ministro della pubblica istruzione;
 
-a) nella discussione orale di una dissertazione scritta, su tema precedentemente approvato dal professore della materia;
+Articolo unico
+--------------
 
-b) nella discussione orale di una breve dissertazione scritta su altro tema parimenti approvato dal professore della materia, su argomento di diritto positivo diverso da quello della dissertazione di laurea.
-
-La dissertazione in quadruplice copia e la sottotesi in triplice copia, debbono essere depositate in segreteria almeno un mese prima della data stabilita per l'esame di laurea".
-
-Art. 32, relativo al corso di laurea in matematica, sono aggiunti i seguenti insegnamenti complementari:
-
-12) Storia delle matematiche per l'indirizzo didattico (tabella A);
-
-12) Calcolo delle probabilita' per l'indirizzo applicativo (tabella A).
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 4 settembre 1962
-
-SEGNI
-
-GUI
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 20 ottobre 1962 Atti del Governo, registro n. 159, foglio n. 64. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1936, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-11-04;2280), modificato con [regio decreto 26 ottobre 1940, n. 2096](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2096), e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita', accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Decreta:  
+L'art. 195, relativo alla scuola di specializzazione in cardiologia, e' sostituito dai seguenti con lo spostamento della numerazione degli articoli successivi.  
   
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato nel senso che l'art. 10, relativo al corso di laurea in giurisprudenza concernente la discussione dell'esame di laurea e' abrogato e sostituito dal seguente:  
-  
-Art. 10. - "L'esame di laurea consiste:  
-a) nella discussione orale di una dissertazione scritta, su tema precedentemente approvato dal professore della materia;  
-b) nella discussione orale di una breve dissertazione scritta su altro tema parimenti approvato dal professore della materia, su argomento di diritto positivo diverso da quello della dissertazione di laurea.  
-La dissertazione in quadruplice copia e la sottotesi in triplice copia, debbono essere depositate in segreteria almeno un mese prima della data stabilita per l'esame di laurea".  
-Art. 32, relativo al corso di laurea in matematica, sono aggiunti i seguenti insegnamenti complementari:  
-12) Storia delle matematiche per l'indirizzo didattico (tabella A);  
-12) Calcolo delle probabilita' per l'indirizzo applicativo (tabella A).  
+Scuola di specializzazione in cardiologia  
+Art. 195. - E' istituita presso l'Universita' degli studi di Milano la scuola di specializzazione in cardiologia che conferisce il diploma di specialista in cardiologia.  
+Art. 196. - La direzione della scuola ha sede presso la fondazione I. Monzino - centro cardiologico, sede della cattedra di cardiologia.  
+Art. 197. - La scuola ha per scopo il conseguimento, successivamente alla laurea, del diploma che legittima l'esercizio professionale con la qualifica di specialista in cardiologia.  
+Art. 198. - La durata del corso e' di quattro anni e non e' suscettibile di abbreviazioni.  
+Art. 199. Il numero degli iscritti e' di quindici per ogni anno e complessivamente di sessanta per l'intero corso di studi.  
+Art. 200. - Alla scuola sono ammessi solo i laureati in medicina e chirurgia in possesso del diploma di abilitazione all'esercizio professionale.  
+Art. 201. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:  
+a) la tesi nella disciplina attinente alla specializzazione;  
+b) il voto di laurea;  
+c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;  
+d) le pubblicazioni nelle predette materie.  
+Il punteggio dei predetti titoli e' quello stabilito dal decreto ministeriale del 16 settembre 1982. Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo riportato.  
+Art. 202. - Le materie di insegnamento, tutte afferenti alla facolta' di medicina e chirurgia, sono le seguenti:  
+1° Anno:  
+1) anatomia umana normale ed embriologia dell'apparato cardiovascolare;  
+2) fisiologia dell'apparato cardiovascolare (1° corso);  
+3) biochimica e biofisica;  
+4) semeiotica fisica e strumentale dell'apparato cardiovascolare (1° corso);  
+5) informatica medica e strumentazione biomedica (1° corso).  
+2° Anno:  
+1) anatomia patologica (1° corso);  
+2) fisiologia dell'apparato cardiovascolare (2° corso);  
+3) patologia e clinica cardiovascolare (1° corso);  
+4) semeiotica fisica e strumentale dell'apparato cardiovascolare (2° corso);  
+5) informatica medica e strumentazione biomedica (2° corso);  
+6) radiologia (1° corso);  
+7) aspetti sociali ed epidemiologici delle malattie cardiovascolari.  
+3° Anno:  
+1) anatomia patologica (2° corso);  
+2) semeiotica fisica e strumentale dell'apparato cardiovascolare (3° corso);  
+3) patologia e clinica cardiovascolare (2° corso);  
+4) radiologia (2° corso);  
+5) terapia medica e farmacologia clinica (1° corso).  
+4° Anno:  
+1) semeiotica fisica e strumentale dell'apparato cardiovascolare (4° corso);  
+2) patologia e clinica cardiovascolare (3° corso);  
+3) terapia medica e farmacologia clinica (2° corso);  
+4) terapia chirurgica;  
+5) terapie intensive cardiologiche.  
+Inoltre sono previste le seguenti materie opzionali:  
+cardiologia sportiva;  
+psicologia applicata alla cardiologia;  
+medicina legale.  
+Art. 203. - La frequenza ai corsi e' obbligatoria. Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione d'esame, di cui fanno parte il direttore della scuola e i docenti delle materie relative all'anno in corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso. Coloro che non superano detto esame, potranno ripetere l'anno di corso una sola volta.  
+Art. 204. - Durante i quattro anni di corso e' richiesta, salvo legittimi impedimenti, la frequenza continuativa per dieci mesi all'anno presso la Fondazione I. Monzino - centro cardiologico, sede della cattedra di cardiologia, secondo le modalita' seguenti:  
+1° Anno:  
+reparti clinici di degenza.  
+2° Anno:  
+reparto di cura intensiva cardiologica, laboratori di diagnostica non invasiva, ambulatori.  
+3° Anno:  
+reparto di cura intensiva cardiologica, laboratori di diagnostica non invasiva, laboratori di emodinamica, ambulatori.  
+4° Anno:  
+laboratori di diagnostica non invasiva, laboratori di emodinamica, reparto di rianimazione cardiochirurgica, reparto di cardiologia pediatrica, ambulatori, reparti clinici di degenza, cardiologia sperimentale. La frequenza nei vari settori avverra' secondo rotazioni che assicurino ad ogni specializzando un adeguato periodo di esperienza clinica e formazione scientifica.  
+A partire dal terzo anno sara' riconosciuta, ai fini della frequenza, l'attivita' svolta in strutture cardiologiche, assistenziali o di ricerca, anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), ove queste siano riconosciute idonee dal consiglio della scuola a completare o perfezionare la preparazione dello specializzando.  
+Art. 205. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio della scuola si conclude con un esame finale, consistente nella discussione di una dissertazione scritta su una o piu' materie del corso.  
+A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista in cardiologia.  
+Art. 206. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.  
+Art. 207. - Il consiglio della scuola e' presieduto da un direttore ed e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).  
+Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento degli insegnamenti.  
+La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni nella scuola stessa.  
+In caso di motivato impedimento, la direzione della scuola e' affidata a professore associato che insegni anche nella scuola medesima.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 settembre 1962
+### Dato a Roma, addi' 18 marzo 1985
 
-SEGNI GUI
+PERTINI
 
-Visto, il Guardasigilli: BOSCO
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 20 ottobre 1962
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Atti del Governo, registro n. 159, foglio n. 64. - VILLA
+Registrato alla Corte dei conti, addi' 30 settembre 1985
+
+Registro n. 66 Istruzione, foglio n. 142

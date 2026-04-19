@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1983 n. 564
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 agosto 1975 n. 615
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1983 n. 564
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 agosto 1975 n. 615
 =============================================================
 
 Autorizzazione all'Istituto di patronato per l'assistenza sociale, in Roma, ad acquistare un immobile.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-564. Decreto del Presidente della Repubblica 4 giugno 1983, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Istituto di patronato per l'assistenza sociale, in Roma, viene autorizzato ad acquistare, al prezzo di L. 106.000.000, un appartamento di sette locali al primo piano e un locale cantina dello stabile sito in Milano, piazza Tricolore n. 3, censito al nuovo catasto edilizio urbano al foglio 354, mappale 230 sub 20-21, di proprieta' delle signore Maria Grazia, Patrizia, Maria Paola Bevilacqua e Maria Maddalena Pelissa ved. Bevilacqua, come da atto di dichiarazione di terzo acquirente 10 settembre 1976, n. 433707 di repertorio, a rogito dott. Giovanni Lainati, notaio in Milano, registrato a Milano in data 20 settembre 1976 al n. 12683, da adibire ad uffici del patronato.  
+615. Decreto del Presidente della Repubblica 13 agosto 1975, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Istituto di patronato per l'assistenza sociale (I.P.A.S.), in Roma, viene autorizzato ad acquistare, al prezzo di L. 30.000.000, un appartamento sito in Cagliari, viale Regina Margherita, 16, composto di 11 vani, di proprieta' della signora Carmen Atzeri ved. Loriga, distinto nel nuovo catasto edilizio urbano alla partita 663, foglio 18, particella 3092 sub 13, categoria A/2, classe 4, r.c. L. 7601, come da atto di compravendita in data 12 ottobre 1972, n. 92988 di repertorio, a rogito avv. Marco Panvini-Rosati, notaio in Roma, riservato ad uso diretto dell'ente.   
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 12 ottobre 1983  
-Registro n. 1 Lavoro, foglio n. 206
+Visto, il Guardasigilli: REALE   
+Registrato alla Corte dei conti, addi' 26 novembre 1975   
+Atti di Governo, registro n. 14, foglio n. 42

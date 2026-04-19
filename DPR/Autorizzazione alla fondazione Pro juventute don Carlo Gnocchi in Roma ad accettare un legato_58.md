@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 novembre 1979 n. 853
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1984 n. 25
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 novembre 1979 n. 853
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1984 n. 25
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-853. Decreto del Presidente della Repubblica 28 novembre 1979, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in titoli del valore nominale di L. 3.000.000, disposto a favore dell'istituto per i mutilatini di don Gnocchi, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come ha fatto presente la fondazione medesima, dalla sig.ra Aurelia Adele Cazzaniga, con testamento olografo 15 luglio 1971, pubblicato in data 16 dicembre 1976, n. 43632/13073 di repertorio, a rogito dott.  
-Teodoro Berera, notaio in Lecco (Como), registrato a Lecco in data 29 dicembre 1976, n. 2600, vol. 219 A.P.  
+25. Decreto del Presidente della Repubblica 10 gennaio 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato consistente in beni mobili e libretto di risparmio, per un valore di L. 25.593.393, disposto dalla sig.ra Terzoli Maria Petronilla a favore dell'istituto "Don Gnocchi", che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale 20 novembre 1981 del consiglio di amministrazione della fondazione stessa, con testamento olografo 4 gennaio 1962, pubblicato in data 16 settembre 1981, n. 55778/7616 di repertorio, a rogito dott. Riccardo Ferrario, notaio in Milano, registrato a Milano il 22 settembre 1981 al n. 23394.  
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 21 marzo 1980  
-Registro n. 2 Presidenza, foglio n. 340
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 15 febbraio 1984  
+Registro n. 2 Presidenza, foglio n. 130

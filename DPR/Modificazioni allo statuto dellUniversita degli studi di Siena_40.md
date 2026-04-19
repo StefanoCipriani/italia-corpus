@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 ottobre 1966 n. 989
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 luglio 1967 n. 915
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 ottobre 1966 n. 989
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 luglio 1967 n. 915
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
@@ -12,10 +12,10 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831), e modificato con [regio decreto 31 ottobre 1929, n. 2393](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2393) e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella legge 2 gennaio 1936 n. '73;  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831), e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
@@ -25,125 +25,113 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli elenchi degli insegnamenti complementari del corsi di laurea in Scienze naturali e in Scienze biologiche e le norme relative agli esami e alle propedeuticita' sono abrogati e sostituiti nel modo seguente:  
+Il primo comma dell'art. 29 relativo alla Facolta' di Scienze matematiche, fisiche e naturali e' abrogato e sostituito dal seguente:  
+"La Facolta' conferisce:  
+1) la laurea in Scienze naturali;  
+2) la laurea in Scienze biologiche;  
+3) la laurea in Scienze geologiche.  
+La durata del corso degli studi, sia per la laurea in Scienze naturali, sia per la laurea in Scienze biologiche, sia per la laurea in Scienze geologiche e' di quattro anni".  
+Nello stesso articolo, dopo l'elenco degli insegnamenti fondamentali e complementari, relativo al corso di laurea in Scienze biologiche e' aggiunto quanto segue:  
+"Per la laurea in Scienze geologiche sono insegnamenti fondamentali:  
+1. Istituzioni di matematiche;  
+2. Fisica sperimentale (biennale);  
+3. Chimica generale ed inorganica con elementi di  
+organica;  
+4. Geografia;  
+5. Topografia e Cartografia;  
+6. Mineralogia;  
+7. Paleontologia;  
+8. Geografia fisica;  
+9. Petrografia;  
+10. Geologia;  
+11. Fisica terrestre;  
+12. Geologia applicata;  
+Sono insegnamenti complementari:  
+1. Analisi matematica (biennale);  
+2. Analisi mineralogica;  
+3. Antropologia;  
+4. Botanica;  
+5. Chimica fisica;  
+6. Chimica organica;  
+7. Cristallochimica;  
+8. Elementi di coltivazioni minerarie;  
+9. Fisica dei solidi;  
+10. Fotogeologia;  
+11. Geochimica;  
+12. Geofisica applicata;  
+13. Geofisica mineraria;  
+14. Geologia degli idrocarburi;  
+15. Geologia nucleare;  
+16. Geologia regionale;  
+17. Giacimenti minerari;  
+18. Geotecnica;  
+19. Idrogeologia;  
+20. Metodologie petrografiche;  
+21. Micropaleontologia;  
+22. Paleobotanica;  
+23. Pedologia;  
+24. Petrografia applicata;  
+25. Petrografia regionale;  
+26. Preparazione dei minerali;  
+27. Rilevamento geologico 28. Sedimentologia;  
+29. Statistica;  
+30. Tecnologie dei materiali litoidi;  
+31. Vulcanologia;  
+32. Zoologia.  
   
-Art. 29. - Sono insegnamenti complementari del corso di laurea in Scienze naturali:  
-1) Antropologia;  
-2) Biologia generale;  
-3) Chimica biologica;  
-4) Chimica fisica;  
-5) Chimica teorica;  
-6) Ecologia ed etologia;  
-7) Fisiologia vegetale;  
-8) Genetica;  
-9) Geochimica;  
-10) Geografia fisica;  
-11) Geologia applicata;  
-12) Giacimenti minerari;  
-13) Igiene;  
-14) Istologia ed embriologia;  
-15) Microbiologia;  
-16) Paleontologia;  
-17) Petrografia;  
-18) Scienza dell'alimentazione;  
-19) Zoocolture (bachi; api, avi, coniglicoltura).  
+Nello stesso articolo, dopo le norme relative alle propedeuticita' dei corsi e degli esami del corso di laurea in Scienze biologiche e' aggiunto quanto segue:  
   
-Sono insegnamenti complementari del corso di laurea in Scienze biologiche:  
-1) Biologia generale;  
-2) Biologia molecolare;  
-3) Chimica fisica;  
-4) Farmacologia;  
-5) Fisiologia vegetale;  
-6) Genetica;  
-7) Geologia;  
-8) Microbiologia;  
-9) Paleontologia;  
-10) Parassitologia;  
-11) Patologia generale;  
-12) Psicologia;  
-13) Radiobiologia;  
-14) Scienza dell'alimentazione;  
-15) Statistica.  
+Corso di laurea in Scienze geologiche  
   
-I gruppi di materie complementari istituiti dalla Facolta' sono consigliati per ciascuno dei corsi di laurea secondo il manifesto annuale degli studi.  
-Gli insegnamenti biennali di Botanica e di Zoologia comprendono tanto la parte generale quanto la parte sistematica.  
-L'insegnamento biennale di Botanica comporta due distinti esami, rispettivamente alla fine del primo e alla fine del secondo anno.  
-Tutte le materie della Facolta', per essere materie scientifiche, sono di indole dimostrativa e nel loro insegnamento l'esposizione dottrinale dovra' finche' possibile essere accompagnata da dimostrazioni sperimentali, da illustrazioni di preparati, di modelli e di tavole murali.  
-Oltre alle lezioni gli studenti dovranno anche seguire le esercitazioni pratiche nelle discipline fondamentali ed in quelle complementari, per il completamento statutario della loro preparazione.  
-Per le esercitazioni pratiche gli studenti potranno essere sottoposti al pagamento di un contributo stabilito dal Consiglio di amministrazione, su proposta del Senato accademico, udita la Facolta' a titolo di rimborso spese.  
-Gli esami di profitto si sosterranno per singole materie e debbono tendere ad accertare se lo studente possiede una buona conoscenza della materia e dei metodi di indagine inerenti.  
-Sono previste le seguenti precedenze nella iscrizione ai corsi e negli esami:  
-  
-Corso di laurea in Scienze naturali  
 Discipline Precedenze  
   
-Chimica generale ed inor- Istituzioni di matematiche,  
-ganica Fisica  
-Botanica Chimica generale  
-Zoologia Chimica generale  
-Chimica organica Chimica generale  
-Mineralogia Chimica generale  
-Anatomia comparata Zoologia, Anatomia umana  
-Geologia Mineralogia  
+Fisica sperimentale Istituzioni di matematiche Mineralogia  
+Fisica sperimentale, Chimi- ca generale ed inorganica con elementi di organica Geografia fisica Geografia, Topografia e Cartografia  
+Discipline Precedenze  
 Petrografia Mineralogia  
-Paleontologia Zoologia, Botanica, Anatom ia  
-comparata  
-Microbiologia Botanica, Chimica organica, Zo o-  
-logia  
-Chimica biologica Chimica organica  
-Fisiologia generale Chimica organica, Chimica biol o-  
-gica, Anatomia comparata  
-Geochimica Petrografia  
-Giacimenti minerari Geologia, Petrografia  
-Antropologia Anatomia umana  
-Ecologia ed Etologia Zoologia, Botanica, Geologia  
-Geologia applicata Geologia  
+Geologia Petrografia, Paleontologia, Geografia fisica  
+Fisica terrestre Fisica sperimentale  
+Geologia applicata Geologia, Fisica terrestre Geochimica Mineralogia  
+Rilevamento geologico Geologia  
+Vulcanologia Petrografia  
+Geofisica applicata Fisica terrestre  
+Sedimentologia Petrografia  
+Giacimenti minerari Petrografia  
+Geologia degli idrocar- Geologia  
+buri  
+Analisi mineralogica Mineralogia  
+Chimica fisica Fisica sperimentale, Chimi- ca generale ed inorganica con elementi di organica Chimica organica Chimica generale ed inorga- nica con elementi di or- ganica  
+Geologica regionale Geologia  
+Idrogeologia Geologia applicata  
   
-Corso di laurea in Scienze biologiche  
+Petrografia applicata Petrografia  
   
-Discipline Precedenze  
+Statistica Istituzioni di matematiche Pedologia Petrografia, Geografia fi- sica  
+Geologia nucleare Geologia  
+Geotecnica Geologia applicata  
+Petrografia regionale Petrografia  
+Tecnologie dei materiali Petrografia  
+litoidi  
+Elementi di coltivazioni Geologia applicata  
+minerarie  
+Fisica dei solidi Mineralogia  
+Cristallochimica Mineralogia  
+Preparazione dei minerali Petrografia  
   
-Chimica generale ed inor- Istituzioni di matematiche, Fi -  
-ganica sica  
-Botanica Chimica generale  
-Zoologia Chimica generale  
-Chimica organica Chimica generale  
-Anatomia umana Istologia ed embriologia  
-Anatomia comparata Zoologia, Istologia ed embriol o-  
-gia, Anatomia umana  
-Chimica biologica Chimica organica  
-Igiene Chimica biologica  
-Microbiologia Botanica, Chimica organica,  
-Zoologia  
-Fisiologia vegetale Botanica, Chimica organica  
-Biologia molecolare Chimica organica  
-Genetica Zoologia, Botanica, Biologia  
-molecolare  
-Fisiologia generale Chimica biologica, Anatomia  
-comparata  
-Patologia generale Chimica biologica, Fisiologia generale  
-Scienza dell'alimentazione Fisiologia generale  
-Paleontologia Botanica, Anatomia comparata  
-Radiobiologia Genetica  
+Nello stesso articolo, il terzo comma dopo le norme relative alle propedeuticita' dei corsi e degli esami del corso di laurea in Scienze biologiche e' abrogato e sostituito dal seguente:  
   
-Nel terzo e nel quarto anno di corso gli studenti sono tenuti a frequentare come interni uno degli istituti nel quale sono impartite regolari lezioni per i rispettivi corsi di laurea.  
-La frequenza dell'internato e' consentita anche agli studenti fuori corso. In ogni caso potranno essere accolte solo le domande dei candidati che abbiano superato tutti gli esami fondamentali del primo anno e almeno due del secondo anno di corso.  
-L'internato puo' essere svolto in uno degli istituti della Facolta', o in altri istituti ad indirizzo naturalistico o biologico, previa autorizzazione del Consiglio di Facolta'.  
-Lo studente, superati gli esami delle materie fondamentali ed almeno in quattro tra le materie complementari potra' essere ammesso a sostenere l'esame di laurea.  
-L'esame di laurea consiste nella discussione di una dissertazione scritta presentata dal candidato alla segreteria almeno dieci giorni prima della data fissata dalla Facolta' per l'inizio degli esami di laurea e contenente la esposizione di indagini scientifiche eseguite dal candidato nell'istituto ove questo ha svolto i due anni di internato, e nella presentazione di due tesine scritte, che saranno state preparate in due istituti diversi, la tesi, ma in materie delle quali il laureando abbia sostenuto positivamente l'esame. Tali tesine potranno essere compilative od anche sperimentali, e dovranno testimoniare l'aggiornamento del candidato anche in campi diversi da quello nel quale si e' specializzato quale interno.  
-Il preside ricevuta la dissertazione designa, tenuto conto della competenza almeno tre commissari per la discussione, alla quale peraltro tutti i componenti la Commissione potranno prendere parte.  
-L'esame di laurea sara' preceduto da un colloquio pre-laurea che si svolgera' nei giorni immediatamente precedenti l'esame stesso.  
+L'internato puo' essere svolto in uno degli Istituti della Facolta' o in altri Istituti ad indirizzo naturalistico, biologico o geomineralogico, previa autorizzazione del Consiglio di Facolta'.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 ottobre 1966
+### Dato a Roma, addi' 4 luglio 1967
 
 SARAGAT GUI
 
-Visto, il Guardasigilli; REALE
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 16 novembre 1966
+Registrato alla Corte dei conti, addi' 11 ottobre 1967
 
-Atti del Governo, registro n. 207, foglio n. 26. - VILLA
+Atti del Governo, registro n. 214, foglio n. 44. - GRECO

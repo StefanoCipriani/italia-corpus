@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 442
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 gennaio 1971 n. 382
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 442
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 gennaio 1971 n. 382
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
@@ -12,74 +12,110 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pisa e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Dopo l'art. 411, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in fisioterapia.  
-Scuola di specializzazione in fisioterapia  
-Art. 412. - La scuola di specializzazione in fisioterapia ha sede presso la clinica neurologica II e conferisce il diploma di specialista in fisioterapia.  
-Art. 413. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Il consiglio della scuola si compone di professori che tengono gli insegnamenti prescritti ed e' presieduto dal direttore.  
-Art. 414. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione allo esercizio professionale rilasciato dalle autorita' competenti.  
-Art. 415. - La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazione.  
-Art. 416. - il numero massimo di allievi e' di sei per ogni anno di corso e complessivamente di diciotto iscritti per l'intero corso di studi.  
-Art. 417. - L'ammissione al corso avviene per titoli ed esami.  
-Art. 418. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-1) principi di anatomia funzionale (propedeutico per tutte le materie di base degli anni successivi e per quelle facoltative);  
-2) fisiopatologia dell'apparato neuromotore (come sopra).  
+Gli articoli 46, 47, 48 relativi al corso di laurea in lingue e letterature straniere sono abrogati e sostituiti dai seguenti:  
+  
+Laurea in lingue e letterature straniere  
+  
+Art. 46. - La durata del corso degli studi per la laurea in lingue e letterature straniere e di quattro anni.  
+Possono iscriversi al corso di laurea in lingue e letterature straniere i diplomati degli istituti di istruzione secondaria di secondo grado di durata quinquennale, ivi compresi i licei linguistici riconosciuti per legge, nonche' i diplomati degli istituti magistrali e dei licei artistici. Per questi ultimi occorre aver frequentato con esito positivo, un corso annuale integrativo.  
+Nella durata quinquennale del corso degli studi secondari, vanno compresi tutti gli istituti di istruzione secondaria, i cui corsi abbiano avuto o abbiano una durata complessiva di otto anni dopo l'istruzione primaria (scuole elementari), ovvero di cinque anni dopo la scuola media inferiore.  
+Sono insegnamenti fondamentali:  
+1) Lingua e letteratura italiana (biennale);  
+2) Una lingua e letteratura straniera (quadriennale) da scegliersi tra: francese, inglese, tedesco, spagnolo, o qualsiasi altra il cui insegnamento sia impartito nel corso di laurea;  
+3) Una seconda lingua e letteratura straniera (triennale) da scegliersi tra quelle insegnate nel corso di laurea;  
+4) La filologia afferente la lingua scelta come quadriennale;  
+5) Glottologia;  
+6) Storia moderna e contemporanea;  
+7) Geografia, soprattutto antropica.  
+Sono insegnamenti complementari:  
+1) Storia della filosofia;  
+2) Filosofia;  
+3) Pedagogia;  
+4) Lingua e letteratura russa;  
+5) Linguistica;  
+6) Lingua e letteratura romena;  
+7) Lingua e letteratura portoghese;  
+8) Lingua e letteratura ispano-americana;  
+9) Letteratura nord-americana (anglo-americana);  
+10) Didattica delle lingue moderne;  
+11) Filologia ispanica;  
+12) Filologia slava;  
+13) Geografia politica ed economica;  
+14) Letterature moderne comparate;  
+15) Lingua e letteratura latina;  
+16) Sociologia;  
+17) Letteratura italiana moderna e comparata;  
+18) Storia dell'Europa orientale;  
+19) Storia della lingua francese;  
+20) Storia della lingua inglese;  
+21) Storia medioevale;  
+22) Storia dei paesi ispano-americani;  
+23) Storia del pensiero politico moderno e contemporaneo;  
+24) Storia del Risorgimento;  
+25) Storia americana;  
+26) Storia del teatro;  
+27) Storia dell'arte;  
+28) Letteratura brasiliana;  
+29) Storia contemporanea;  
+30) Storia economica;  
+31) Lingua e letteratura serbo-croata;  
+32) Lingua e letteratura polacca;  
+33) Lingua e letteratura slovena;  
+34) Lingua e letteratura ungherese;  
+35) Lingua e letteratura cecoslovacca;  
+36) Lingua e letteratura neogreca;  
+37) Lingua e letteratura bulgara;  
+38) Lingua e letteratura albanese;  
+39) Ebraico;  
+40) Storia della letteratura latina medioevale;  
+41) Filologia umanistica;  
+42) Storia della lingua italiana;  
+43) Biblioteconomia e bibliografia;  
+44) Lingue e letterature scandinave;  
+45) Storia della cultura tedesca;  
+46) Lingua e letteratura neerlandese;  
+47) Storia della cultura ispanica.  
+Lo studente, in luogo della seconda disciplina (triennale), puo' seguire gli insegnamenti di una disciplina biennale e di una annuale, scelti fra quelli effettivamente impartiti nella facolta'.  
+Gli insegnamenti di "Lingua e letteratura latina";  
+"Una materia filosofica"; "Storia dell'arte"; "Didattica delle lingue moderne" devono essere necessariamente impartiti nella facolta'.  
+Gli esami di italiano consistono in due prove orali (una per ciascun anno di corso) ed in una prova scritta, che puo' essere sostenuta in uno qualsiasi degli anni di corso.  
+L'esame di storia e quello di geografia sono afferenti alla lingua scelta come quadriennale.  
+Per essere ammessi all'esame di laurea, lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in tre da lui scelti fra i complementari. La scelta degli insegnamenti complementari puo' essere effettuata fra le discipline insegnate nella facolta' (con esclusione di quelle pluriennali) ovvero, previa approvazione del consiglio di facolta', tra le discipline di altre facolta' dell'ateneo.  
+Art. 47. - Gli esami della lingua e letteratura straniera quadriennale, consistono in quattro prove orali (una per ciascun anno di corso) ed in tre prove scritte, non vincolanti nei confronti degli orali, ed in un test al termine del primo anno di corso.  
+Le prove scritte della lingua straniera, sono articolate come segue:  
 2° Anno:  
-1) semeiotica clinica delle motolesioni neurologiche (propedeutico per le materie di insegnamento di base del terzo anno);  
-2) semeiotica clinica delle deformita' e delle motolesioni ortopediche (come sopra);  
-3) massoterapia e terapia manuale;  
-4) cinesiologia, cinesioterapia e ginnastica medica;  
-5) idroterapia e balneoterapia.  
+un dettato, una traduzione dalla lingua in italiano ed una traduzione dall'italiano in lingua;  
 3° Anno:  
-1) elettroterapia ed elettrologia;  
-2) terapia con onde corte ed altri mezzi fisici;  
-3) rieducazione motoria e riabilitazione in campo ortopedico e traumatologico;  
-4) rieducazione motoria e riabilitazione in campo neurologico.  
-Sono facoltative le seguenti materie:  
-1) elettromiografia;  
-2) cinesiterapia e riabilitazione delle malattie internistiche;  
-3) rieducazione respiratoria;  
-4) riabilitazione nei disturbi del linguaggio;  
-5) problemi psicologici e psicopatologici della riabilitazione;  
-6) medicina assicurativa;  
-7) rieducazione dei disturbi della visione;  
-8) climatoterapia;  
-9) problemi di riabilitazione geriatrica;  
-10) riqualificazione professionale.  
-Art. 419. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.  
-L'insegnamento si svolge normalmente secondo il calendario universitario.  
-La durata del corso si prolunga tuttavia per tutto l'anno solare, senza interruzioni, per la pratica clinica e di laboratorio che si esplica attraverso l'esercitazione pratica nei reparti.  
-Art. 420. - Gli iscritti sono tenuti obbligatoriamente ad effettuare l'esercitazione pratica nei reparti della clinica neurologica II per un periodo di sei mesi, e della clinica ortopedica per un secondo periodo della stessa durata.  
-Possono essere esonerati dall'esercitazione pratica nei reparti unicamente gli assistenti che prestino servizio presso cliniche neurologiche o presso cliniche ortopediche o presso istituti ospedalieri riconosciuti idonei, di volta in volta, a giudizio del direttore.  
-Art. 421. - Al termine di ogni anno gli iscritti dovranno superare gli esami di profitto in singole prove.  
-Nel secondo e terzo anno sono compresi insegnamenti facoltativi tra cui lo specializzando dovra' obbligatoriamente sceglierne cinque, due al secondo anno e tre al terzo anno, secondo l'indirizzo da lui preferito. Al termine del corso di studi per il conseguimento del diploma di specialista in fisioterapia, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente la specialita'.  
-Art. 422. - Agli allievi i quali abbiano ottenuto l'approvazione nell'esame di diploma verra' rilasciato il diploma di specializzazione in fisioterapia.  
+un dettato, una traduzione dall'italiano in lingua ed una composizione;  
+4° Anno:  
+una traduzione dall'italiano in lingua ed una composizione.  
+Lo studente ha l'obbligo di frequentare il seminario della lingua e letteratura straniera prescelta come quadriennale e compiervi i lavori che siano assegnati dal rispettivo direttore.  
+Art. 48. - L'esame di laurea consiste nella discussione di un elaborato scritto su un argomento scelto tra una delle discipline di cui il candidato abbia superato gli esami, nel quadro della civilta' della lingua quadriennale.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta Ufficiali delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 maggio 1979
+### Dato a Roma, addi' 25 gennaio 1971
 
-PERTINI SPADOLINI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 7 settembre 1979
+Registrato alla Corte dei conti, addi' 15 giugno 1971
 
-Registro n. 67 Istruzione, foglio n. 396
+Atti del Governo, registro n. 242, foglio n. 103. - VALENTINI

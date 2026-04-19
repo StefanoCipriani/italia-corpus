@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 ottobre 1985 n. 821
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 luglio 1986 n. 578
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 ottobre 1985 n. 821
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 luglio 1986 n. 578
+=============================================================
 
 Autorizzazione all'Associazione italiana della Croce rossa, in Roma, ad accettare una eredita'.
 -----------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-821. Decreto del Presidente della Repubblica 1 ottobre 1985, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare, con riserva dei diritti dei terzi, l'eredita', consistente nella quota parte di un sesto dell'asse ereditario e precisamente in beni mobili per L. 39.927.310 e in beni immobili siti in Sansepolcro (Arezzo), via Donato Sbragi, del periziato valore di L. 90.000.000 come da nota dell'ufficio tecnico erariale di Arezzo in data 22 ottobre 1979, disposta dal sig. Augusto Massa con testamento olografo 2 novembre 1954 e successivi atti aggiuntivi, pubblicato in data 10 novembre 1962, n. 3349/1478 di repertorio, a rogito dott. Fulvio Fiori, notaio in Sansepolcro, registrato a Sansepolcro in data 22 novembre 1962 al n. 418.   
+578. Decreto del Presidente della Repubblica 8 luglio 1986, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare, con beneficio d'inventario, l'eredita', consistente in un terzo dell'intero asse ereditario del valore complessivo, di lire 300.000.000, disposta dalla sig.ra Carla Durio con testamento olografo 29 giugno 1981, pubblicato in data 10 settembre 1982, n. 102171 di repertorio, a rogito dott. Giulio Cortese, notaio in Varallo (Novara).   
   
 Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 7 gennaio 1986   
-Registro n. 1 Sanita', foglio n. 3
+Registrato alla Corte dei conti, addi' 10 settembre 1986   
+Registro n. 9 Sanita', foglio n. 82

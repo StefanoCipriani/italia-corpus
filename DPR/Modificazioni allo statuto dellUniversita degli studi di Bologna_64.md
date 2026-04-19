@@ -1,218 +1,290 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 luglio 1955 n. 799
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 luglio 1969 n. 599
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 luglio 1955 n. 799
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 luglio 1969 n. 599
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regi decreti 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-12;2227); [4 settembre 1930, n. 1312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-09-04;1312); [1 ottobre 1931, n. 1778](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-01;1778); [27 ottobre 1932, n. 2092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-10-27;2092); [6 dicembre 1934, n. 2391](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-12-06;2391); [1 ottobre 1936 n. 2502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;2502); 12 ma maggio 1939 n. 1315: 5 ottobre 1939, n. 1644; 11 luglio 1941, n. 848; 18 luglio 1942, n. 928; 24 novembre 1942, n. 1595 con decreto del Capo provvisorio dello Stato 16 maggio 1947. n. 694, e con [decreti del Presidente della Repubblica 22 febbraio 1948, n. 414](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-02-22;414); [30 luglio 1950, n. 1628](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-07-30;1628); [31 ottobre 1950, n. 1307](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1307); [5 agosto 1951, n. 1311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-05;1311), [27 ottobre 1951, n. 1792](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1792); [3 ottobre 1952, n. 4511](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-03;4511); [11 marzo 1953, n. 545](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;545); [12 maggio 1953, n. 547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-05-12;547); [30 giugno 1954, n. 742](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-30;742); [30 giugno 1954, n. 755](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-30;755); [14 agosto 1954, n. 862](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-08-14;862); [14 settembre 1954, n. 1231](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1231); [29 ottobre 1954, n. 1319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-29;1319); [29 ottobre 1954, n. 1457](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-29;1457) e [1 marzo 1955, n. 222](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-03-01;222);
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito, nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-L'art. 12 e' abrogato.
-
-Art. 18. - Agli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di:
-
-12) "Storia del diritto canonico".
-
-Art. 39. - E' aggiunto il seguente comma: "l'esame di economia e politica agraria senza avere prima superato quelli di economia politica 1° e 2° corso".
-
-Art. 55. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di: "anatomia topografica".
-
-Art. 66. - Agli insegnamenti complementari del corso di laurea in chimica (indirizzo inorganico-chimico-fisico) sono aggiunti quelli di:
-
-15) "Chimica inorganica superiore;
-
-16) Analisi chimica spettroscopica;
-
-17) Chimica teorica;
-
-18) Cristallochimica;
-
-19) Siderurgia e metallurgia".
-
-Art. 68. - Agli insegnamenti complementari del corso di laurea in scienze biologiche e' aggiunto quello di:
-
-22) "Scienza dell'alimentazione".
-
-Art. 94. - Agli insegnamenti complementari del corso sono aggiunti quelli di:
-
-43) Organizzazione industriale;
-
-44) Economia e legislazione industriale;
-
-45) Fondamenti di statistica matematica per ingegneri;
-
-46) Tecnica ed economia delle trasformazioni fondiarie;
-
-47) Misure meccaniche.
-
-L'art. 95 e' sostituito dal seguente:
-
-"La Facolta' annualmente determinera' con apposito manifesto il piano di studi consigliato per le singole lauree, specificando la durata dei singoli corsi.
-
-Gli studenti che desiderano seguire un piano di studi comprendente corsi complementari diversi da quelli consigliati dalla Facolta', dovranno presentare motivata domanda entro il 31 dicembre per l'approvazione della Facolta'.
-
-In ogni caso debbono essere osservate le seguenti norme:
-
-L'iscrizione e l'esame di fisica tecnica debbono precedere l'iscrizione e l'esame di macchine, impianti industriali meccanici, arte mineraria.
-
-L'iscrizione e l'esame di meccanica applicata alle macchine debbono precedere le iscrizioni e gli esami di macchine, costruzioni di macchine, disegno di macchine e progetti, tecnologie generali, tecnologie speciali.
-
-L'iscrizione e l'esame di scienza delle costruzioni debbono precedere le iscrizioni e gli esami di costruzioni in legno, ferro e cemento armato, costruzione di ponti, costruzione di macchine, costruzioni idrauliche, impianti speciali idraulici, costruzioni stradali e ferroviarie, tecnologie generali, architettura tecnica seconda parte, costruzione di macchine elettriche e arte mineraria.
-
-L'iscrizione e l'esame di idraulica debbono precedere l'iscrizione e l'esame di costruzioni idrauliche, di impianti speciali idraulici, di tecnica urbanistica.
-
-L'iscrizione e l'esame di costruzione di macchine debbono precedere l'iscrizione e l'esame di costruzioni aeronautiche, di impianti industriali meccanici, di tecnologie speciali.
-
-L'iscrizione e l'esame di elettrotecnica debbono precedere l'iscrizione e l'esame di costruzione di macchine elettriche, comunicazioni elettriche, radiotecnica, trazione elettrica, geofisica mineraria, tecnica ed economia dei trasporti.
-
-L'iscrizione e l'esame di topografia con elementi di geodesia debbono precedere l'iscrizione e l'esame di costruzioni stradali e ferroviarie e geofisica mineraria.
-
-L'iscrizione e l'esame di chimica organica debbono precedere, per la laurea in ingegneria chimica, l'iscrizione e l'esame di chimica fisica, chimica industriale, impianti industriali chimici.
-
-L'iscrizione e l'esame di chimica applicata debbono precedere l'iscrizione e l'esame di impianti industriali chimici.
-
-Le iscrizioni e gli esami di petrografia e geologia debbono precedere l'iscrizione e l'esame di giacimenti minerari e geofisica mineraria.
-
-L'iscrizione e l'esame di architettura tecnica 1ª parte debbono precedere l'iscrizione e l'esame di architettura tecnica 2ª parte.
-
-L'iscrizione e l'esame di architettura tecnica 2ª parte debbono precedere l'iscrizione e l'esame di architettura e composizione architettonica.
-
-L'iscrizione e l'esame di tecnologie generali debbono precedere l'iscrizione e l'esame di tecnologie speciali.
-
-L'esame di macchine deve precedere l'esame di impianti industriali meccanici.
-
-L'esame di aerodinamica deve precedere l'esame di costruzioni aeronautiche.
-
-L'esame di costruzioni stradali e ferroviarie deve precedere l'esame di tecnica urbanistica.
-
-L'esame di chimica fisica deve precedere l'esame di metallurgia e metallografia.
-
-L'esame di elettrotecnica deve precedere gli esami di misure elettriche e di impianti industriali elettrici.
-
-L'esame di idraulica deve precedere l'esame di macchine".
-
-Il secondo comma dell'art. 107, che prevedeva la presentazione di due tesine orali per l'ammissione all'esame di laurea in scienze agrarie, e' abrogato.
-
-Il terzo comma dell'art. 122 e' abrogato.
-
-Art. 234. - relativo alla Scuola di perfezionamento in radiologia medica - l'insegnamento di cui al n. 9 assume la denominazione di "radiobiologia".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 24 luglio 1955
-
-GRONCHI
-
-ROSSI
-
-Visto, il Guardasigilli: MORO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 1 settembre 1955 Atti del Governo, registro n. 92, foglio n. 135. - CARLOMAGNO
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regi decreti 12 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-12;2227); [4 settembre 1930, n. 1312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-09-04;1312); [1 ottobre 1931, n. 1778](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-01;1778); [27 ottobre 1932, n. 2092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-10-27;2092); [6 dicembre 1934, n. 2391](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-12-06;2391); [1 ottobre 1936 n. 2502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;2502); 12 ma maggio 1939 n. 1315: 5 ottobre 1939, n. 1644; 11 luglio 1941, n. 848; 18 luglio 1942, n. 928; 24 novembre 1942, n. 1595 con decreto del Capo provvisorio dello Stato 16 maggio 1947. n. 694, e con [decreti del Presidente della Repubblica 22 febbraio 1948, n. 414](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-02-22;414); [30 luglio 1950, n. 1628](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-07-30;1628); [31 ottobre 1950, n. 1307](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1307); [5 agosto 1951, n. 1311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-05;1311), [27 ottobre 1951, n. 1792](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1792); [3 ottobre 1952, n. 4511](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-03;4511); [11 marzo 1953, n. 545](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;545); [12 maggio 1953, n. 547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-05-12;547); [30 giugno 1954, n. 742](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-30;742); [30 giugno 1954, n. 755](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-06-30;755); [14 agosto 1954, n. 862](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-08-14;862); [14 settembre 1954, n. 1231](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1231); [29 ottobre 1954, n. 1319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-29;1319); [29 ottobre 1954, n. 1457](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-29;1457) e [1 marzo 1955, n. 222](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-03-01;222);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito, nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulato dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+gli articoli 347, 348, 349, 350 e 352 relativi alla scuola di specializzazione in pediatria, che assume la nuova denominazione di Scuola di specializzazione in clinica pediatrica, sono abrogati e sostituiti dai seguenti:   
   
-L'art. 12 e' abrogato.  
-Art. 18. - Agli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di:  
-12) "Storia del diritto canonico".  
-Art. 39. - E' aggiunto il seguente comma: "l'esame di economia e politica agraria senza avere prima superato quelli di economia politica 1° e 2° corso".  
-Art. 55. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di: "anatomia topografica".  
-Art. 66. - Agli insegnamenti complementari del corso di laurea in chimica (indirizzo inorganico-chimico-fisico) sono aggiunti quelli di:  
-15) "Chimica inorganica superiore;  
-16) Analisi chimica spettroscopica;  
-17) Chimica teorica;  
-18) Cristallochimica;  
-19) Siderurgia e metallurgia".  
-Art. 68. - Agli insegnamenti complementari del corso di laurea in scienze biologiche e' aggiunto quello di:  
-22) "Scienza dell'alimentazione".  
-Art. 94. - Agli insegnamenti complementari del corso sono aggiunti quelli di:  
-43) Organizzazione industriale;  
-44) Economia e legislazione industriale;  
-45) Fondamenti di statistica matematica per ingegneri;  
-46) Tecnica ed economia delle trasformazioni fondiarie;  
-47) Misure meccaniche.  
-L'art. 95 e' sostituito dal seguente:  
-"La Facolta' annualmente determinera' con apposito manifesto il piano di studi consigliato per le singole lauree, specificando la durata dei singoli corsi.  
-Gli studenti che desiderano seguire un piano di studi comprendente corsi complementari diversi da quelli consigliati dalla Facolta', dovranno presentare motivata domanda entro il 31 dicembre per l'approvazione della Facolta'.  
-In ogni caso debbono essere osservate le seguenti norme:  
+Scuola di specializzazione in clinica pediatrica   
   
-L'iscrizione e l'esame di fisica tecnica debbono precedere l'iscrizione e l'esame di macchine, impianti industriali meccanici, arte mineraria.  
-L'iscrizione e l'esame di meccanica applicata alle macchine debbono precedere le iscrizioni e gli esami di macchine, costruzioni di macchine, disegno di macchine e progetti, tecnologie generali, tecnologie speciali.  
-L'iscrizione e l'esame di scienza delle costruzioni debbono precedere le iscrizioni e gli esami di costruzioni in legno, ferro e cemento armato, costruzione di ponti, costruzione di macchine, costruzioni idrauliche, impianti speciali idraulici, costruzioni stradali e ferroviarie, tecnologie generali, architettura tecnica seconda parte, costruzione di macchine elettriche e arte mineraria.  
-L'iscrizione e l'esame di idraulica debbono precedere l'iscrizione e l'esame di costruzioni idrauliche, di impianti speciali idraulici, di tecnica urbanistica.  
-L'iscrizione e l'esame di costruzione di macchine debbono precedere l'iscrizione e l'esame di costruzioni aeronautiche, di impianti industriali meccanici, di tecnologie speciali.  
-L'iscrizione e l'esame di elettrotecnica debbono precedere l'iscrizione e l'esame di costruzione di macchine elettriche, comunicazioni elettriche, radiotecnica, trazione elettrica, geofisica mineraria, tecnica ed economia dei trasporti.  
-L'iscrizione e l'esame di topografia con elementi di geodesia debbono precedere l'iscrizione e l'esame di costruzioni stradali e ferroviarie e geofisica mineraria.  
-L'iscrizione e l'esame di chimica organica debbono precedere, per la laurea in ingegneria chimica, l'iscrizione e l'esame di chimica fisica, chimica industriale, impianti industriali chimici.  
-L'iscrizione e l'esame di chimica applicata debbono precedere l'iscrizione e l'esame di impianti industriali chimici.  
-Le iscrizioni e gli esami di petrografia e geologia debbono precedere l'iscrizione e l'esame di giacimenti minerari e geofisica mineraria.  
-L'iscrizione e l'esame di architettura tecnica 1ª parte debbono precedere l'iscrizione e l'esame di architettura tecnica 2ª parte.  
-L'iscrizione e l'esame di architettura tecnica 2ª parte debbono precedere l'iscrizione e l'esame di architettura e composizione architettonica.  
-L'iscrizione e l'esame di tecnologie generali debbono precedere l'iscrizione e l'esame di tecnologie speciali.  
-L'esame di macchine deve precedere l'esame di impianti industriali meccanici.  
-L'esame di aerodinamica deve precedere l'esame di costruzioni aeronautiche.  
-L'esame di costruzioni stradali e ferroviarie deve precedere l'esame di tecnica urbanistica.  
-L'esame di chimica fisica deve precedere l'esame di metallurgia e metallografia.  
-L'esame di elettrotecnica deve precedere gli esami di misure elettriche e di impianti industriali elettrici.  
-L'esame di idraulica deve precedere l'esame di macchine".  
-Il secondo comma dell'art. 107, che prevedeva la presentazione di due tesine orali per l'ammissione all'esame di laurea in scienze agrarie, e' abrogato.  
-Il terzo comma dell'art. 122 e' abrogato.  
-Art. 234. - relativo alla Scuola di perfezionamento in radiologia medica - l'insegnamento di cui al n. 9 assume la denominazione di "radiobiologia".  
+Art. 347. - La scuola di specializzazione in clinica pediatrica conferisce il diploma di specialista in clinica pediatrica. Gli anni di studio postuniversitari necessari per conseguire il titolo sono tre.   
+Il numero complessivo degli iscritti ai tre anni di corso non potra' superare quello di 75.   
+Art. 348. - Gli insegnamenti della scuola sono i seguenti:   
+1) Clinica pediatrica (triennale);   
+2) Patologia pediatrica (biennale);   
+3) Puericultura (biennale);   
+4) Semeiotica pediatrica e tecnica diagnostica (biennale);   
+5) Auxologia normale e patologica (annuale);   
+6) Psicologia dell'eta' evolutiva (annuale);   
+7) Terapia pediatrica (annuale);   
+8) Radiologia pediatrica (annuale);   
+9) Malattie infettive dell'infanzia (annuale);   
+10) Neuropsichiatria ed igiene mentale (annuale);   
+11) Chirurgia pediatrica ( annuale);   
+12) Ortopedia e traumatologia infantile (annuale);   
+13) Odontoiatria (annuale);   
+14) Clinica otorinolaringoiatrica (annuale).   
+Art. 349. - Le materie elencate all'articolo precedente sono cosi distribuite nei tre anni di corso:   
+1° Anno:   
+1) Clinica pediatrica;   
+2) Patologia pediatrica;   
+3) Puericultura;   
+4) Semelotica pediatrica e tecnica diagnostica;   
+5) Auxologia normale e patologica;   
+6) Ortopedia e traumatologia infantile.   
+2° Anno:   
+1) Clinica pediatrica;   
+2) Patologia pediatrica;   
+3) Puericultura;   
+4) Semeiotica pediatrica e tecnica diagnostica;   
+5) Psicologia dell'era evolutiva;   
+6) Rdiologia pediatrica;   
+7) Malattie infettive dell'infanzia.   
+3° Anno:   
+1) Clinica pediatrica;   
+2) Neuropsichiatria ed igiene mentale dell'infanzia;   
+3) Chirurgia pediatrica;   
+4) Terapia pediatrica;   
+5) Odontoiatria;   
+6) Clinica otorinolaringoiatrica.   
+Art. 350. - E' obbligatorio l'internato nella clinica pediatrica per i tre anni del corso, con non piu' di due mesi di ferie ogni anno. Parte di questo internato puo' essere svolto secondo indicazioni del direttore della scuola stessa, presso istituzioni per l'assistenza alla infanzia. Riduzioni del periodo di internato saranno concesse per particolari casi dal direttore della scuola.  
+Quanto alla abbreviazione della durata del corso dovra' decidere il consiglio della scuola, per i candidati che abbiano conseguito il diploma di specializzazione in puericultura o che abbiano titoli pediatrici.   
+Art. 352. - L'insegnamento oltre che a mezzo di lezioni cattedratiche e impartito quotidianamente in forma diretta individuale sulla scorta di casi clinici che si presentino di volta in volta all'esame.   
+Gli iscritti, alla fine del primo corso, hanno l'obbligo di sostenere e superare l'esame di profitto in un gruppo unico delle seguenti materie:   
+Auxologia normale e patologica, ortopedia e traumatologia infantile, onde poter essere ammessi al 2° corso.   
+Alla fine de1 2° corso hanno l'obbligo di sostenere e superare l'esame di profitto in un gruppo unico delle seguenti materie:   
+Patologia pediatrica, puericultura, semeiotica pediatrica e tecnica diagnostica, psicologia dell'eta evolutiva, radiologia pediatrica, malattie infettive dell'infanzia, onde poter essere ammessi al 3° corso.   
+Alla fine del 3°anno di corso gli iscritti dovranno sostenere e superare l'esame di profitto in un unico gruppo delle seguenti materie: Clinica pediatrica, neuropsichiatria ed igiene mentale dell'infanzia, chirurgia pediatrica, terapia pediatrica, odontoiatria, clinica otorinolaringoiatrica, per poter essere ammessi all'esame di diploma, nel quale sara' presentata e discussa dal candidato una tesi scritta.   
+Gli articoli da 377 a 382 relativi alla scuola di specializzazione in radiologia medica che assume la nuova denominazione di scuola di specializzazione in radiologia, sono abrogati e sostituiti dai seguenti:   
+Scuola di specializzazione in radiologia   
+Art. 377. - La scuola di perfezionainento in radiologia conferisce due diplomi:   
+a) diploma di specialista in radiologia, che abilita all'esercizio specialistico della roentgen-diagnostica, della radioterapia e della medicina nucleare (diagnostica e terapia).   
+Gli anni di studio post-laurea necessari per conseguire questo titolo sono quattro;   
+b) diploma di specialista in radiologia diagnostica, che abilita all'esercizio specialistico della roentgen-diagnostica. Gli anni di studio post-laurea necessari per conseguire questo titolo sono tre.   
+Art. 378. - Le materie obbligatorie per il conseguimento del diploma di specialista in radiologia sono la seguenti, cosi distribuite negli anni del corso:   
+1° Anno:   
+1) Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;   
+2) Nozioni sugli apparecchi ed istrumenti della radiologia;   
+3) Anatomiaradiologica normale;   
+4) Fisiologia radiologica;   
+5) Tecnica radiologica generale;   
+6) Semeiotica radiOlOgica generale;   
+7) Fondamenti di radiobiologia;   
+8) Nozioni di statistica e matematica.   
+2° Anno:   
+1) Tecnica e metodica dell'esame radioiogico dei vari organi, apparati e sistemi;   
+2) Semeiotica radiologica speciale e diagnosi differenziale;   
+3) Fondamenti di radioterapia;   
+4) Danni da radiazioni e mezzi di protezione;   
+5) Dimostrazioni cliniche di diagnostica radiologica;   
+6) Dimostrazioni cliniche di radioterapia.   
+3° Anno:   
+1) Diagnostica radiologica differenziale;   
+2) Dimostrazioni di casistica di roentgen-diagnostica, con il confronto del quadro anatomo-patologico;   
+3) Dimostrazioni di casistica di radioterapia con particolare riferimento all'anatomia patologica;   
+4) Radioterapia tradizionale. Curieterapia;   
+5) Radioterapia con alte energie;   
+6) Elementi di medicina nucleare;   
+7) Istrumentario, tecnica e metodica di applicazione.   
+8) Dosimetria.   
+4° Anno:   
+1) Moderne tecniche di esplcrazione e terapia radiologica, ecc.;   
+2) Diagnostica e terapia con isotopi radioattivi sommminitrati per via interna;   
+3) Radiodiagnostica e radioterapia clinica con dimostrazioni di casistica;   
+4) Medicina legale e legislazione sanitaria in relazione alla radiologia.   
+Art. 379. - Le materie obbligatorie per il conseguimento del diploma di specializzazione in radiologia diagnostica sono le seguenti, cosi distribuite negli anni del corso:   
+1° Anno:   
+1) Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;   
+2) Nozioni sugli apparecchi ed istrumenti della radiologia;   
+3) Anatomia radiologica normale;   
+4) Fisiologia radiologica;   
+5) Tecnica radiologica generale;   
+6) Semeiotica radiologica generale;   
+7) Fondamenti di radiobiologia;   
+8) Nozioni di statistica e matematica.   
+2° Anno:   
+1) Metodica ed esplorazione dei vari organi ed apparati;   
+2) Semeiotica radiologica speciale e diagnosi differenziale;   
+3) Nozioni generali sulle lesioni da radiazione e mezzi di protezione;   
+4) Moderne tecniche di esplorazione radiologica.   
+3° Anno:   
+1) Esplorazione radiologica nella patologia dei vari organi ed apparati. Diagnostica differenziale. Rapporti con l'anatomia patologica;   
+2) Radiodiagnostica clinica;   
+3) Medicina legale e legislazione sanitaria in relazione alla radiologia.   
+Art. 380. - Il numero massino degli specializzandi non potra' superare quello di 50, comprendente gli iscritti ai 4 anni di corso per il diploma in radiologia e gli iscritti ai 3 anni di corso per il diploma in radiologia diagnostica. Gli allievi sono obbligati ad un internato della durata complessiva di almeno otto mesi per ogni anno scolastico presso l'istituto di radiologia (reparti di radiodiagnostica e di medicina nucleare) e presso l'istituto del radio. Per l'orario e le mansioni essi avranno gli stessi obblighi degli assistenti.   
+Art. 381. - Alla fine di ogni anno gli allievi dei due corsi sosterranno un esame obbligatorio, per gruppo di materie, di ammissione all'anno successivo, costituito da prove teoriche e tecniche, sulle materie di insegnamento. Alla fine dell'ultimo anno di corso gli allievi sosterranno un esame di profitto, in gruppo di materie, per essere ammessi alla discussione della tesi di diploma.   
+Art. 382. - L'insegnamento agli allievi sara' integrato ogni anno da conferenze, esercitazioni e seminari.   
+Dopo l'art. 472 e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in psicologia annessa alla facolta' di medicina e chirurgia.   
+Scuola di specializzazione in psicologia   
+Art. 473. - Presso l'istituto di psicologia della facolta' di medicina e chirurgia e' istituita la "Scuola di speciaiizzazione in psicoiogia" la quale e' articolata nei seguenti indirizzi:   
+a) Medico;   
+b) Differenziale e scolastico;   
+c) Industriale e del lavoro;   
+d) Sociale.   
+Art. 474. - La durata del corso della scuola e' di tre anni. La frequenza e'obbligatoria. Non sono consentite abbreviazioni di corso se non nei casi previsti dall'articolo 490; ne' e' consentita la contemporanea iscrizione a piu indirizzi distinti.   
+Art. 475. - La scuola conferisce il diploma di "Specialista in psicologia" con l'indicazione dell'indirizzo seguito. I1 diploma, valido a tutti gli effetti di legge, viene rilasciato all'allievo in rapporto all'indirizzo prescelto, seguito e concluso positivamente negli esami di profitto e di diploma.   
+Art. 476. - Titoli per l'ammissione alla scuola sono:   
+a) per l'indirizzo "Medico", la laurea in medicina e chirurgia;   
+b) per gli altri indirizzi, il diploma di laurea rilasciato da qualsiasi facolta' di una universita' italiana di Stato o ad essa parificata, ovvero un titolo straniero equipollente.   
+Art. 477. - Nella domanda di ammissione alla scuola, deve essere specificato l'indirizzo che si desidera seguire. Nel caso di domande di iscrizione eccedenti il numero massimo stabilito dal consiglio della scuola e indicato nel manifesto-programma annuale di cui all'art. 488, il consiglio stesso procedera' all'accettazione delle domande attraverso un concorso di merito, le cui modalita' verranno fissate nello stesso manifesto annuale. Indipendentemente dalla limitazione delle iscrizioni, il consiglio della scuola puo' subordinare l'ammissione ad una prova di idoneita.   
+Il numero massimo complessivo degli iscritti non puo' superare 60 unita'.   
+Art. 478. - Il corso e' costituito da lezioni teoriche, esercitazioni pratiche, tirocini, seminari, conferenze. La attivita'didattica viene svolta per un numero di ore non inferiore alle 20 settimanali, per tutta la durata dell'anno accademico.   
+Gli insegnamenti statutari sono suddivisi in tre gruppi:   
+a) insegnamenti comuni a tutti gli indirizzi sopra indicati; tali insegnamenti sono obbligatori per tutti gli allievi, qualunque sia l'indirizzo prescelto;   
+b) insegnamenti specifici, peculiari a ciascuno dei singoli indirizzi indicati nell'art. 473 e nel successivo art. 479; tali insegnamenti sono obbligatori nell'ambito dell'indirizzo prescelto;   
+c) insegnamenti integrativi. Gli insegnamenti di cui ai punti a) e b) sono fissati nel successivo art. 479, il quale stabilisce altresi' la distribuzione degli insegnamenti stessi nei vari anni.   
+Gli insegnamenti di cui al punto c) vengono stabiliti anno per anno dal consiglio della scuola e pubblicati nel manifesto-programma annuale, insieme all'elenco degli insegnamenti di cui ai punti a) e b).   
+Art. 479. - Gli insegnamenti comuni di cui al punto a) dell'articolo precedente, sono:   
+1) Metodologia generale e speciale della ricerca psicologica (triennale: 1°, 2° e 3° anno);   
+2) Metodologia statistica; generale e psicometria (annuale: 1° anno);   
+3) Psicologia generale (triennale: 1°, 2° e 3° anno);   
+4) Teorie della personalita' (biennale: 1° e 2° anno);   
+5) Psicologia dinamica (annuale: 2° anno);   
+6) Psicologia differenziale (annuale: 1° anno);   
+7) Psicologia sociale (biennale: 1° e 2° anno);   
+8) Tecniche psicodiagnostiche (biennale: 1° e 2° anno).   
+Gli insegnamenti specifici di cui a1 punto b) dell'articolo precedente, sono:   
+A) per l'indirizzo "medico":   
+1) Psicologia dello sviluppo (biennale: 1° e 2° anno);   
+2) Psicofisiologia (annuale: 1° anno);   
+3) Psicofarmacologia (annuale: 2° anno);   
+4) Psicopatologia e neuropsichiatria (biennale: 1° e 2° anno);   
+5) Medicina psicosomatica (annuale: 3° anno);   
+6) Psicologia clinica (biennale: 2° e 3° anno);   
+7) Psicoterapia (biennale: 2°e 3° anno);   
+8) Psicologia criminologica, giudiziaria e penitenziaria (annuale: 3° anno);   
+9) Igiene mentale (annuale: 2° anno).   
+B) Per l'indirizzo "differenziale e scolastico":   
+1) Fondamenti di biologia generale e di anatomia e fisiologia umana (biennale: 1° e 2° anno);   
+2) Psicologia dell'eta' evolutiva (triennale: 1°, 2° e 3° anno):   
+3) Pedagogia (annuale: 1° anno);   
+4) Isitituzioni di psicopatologia e di igiene mentale (annuale: 1° anno);   
+5) Psicologia pedagogica (annuale: 1° anno);   
+6) Psicologia del disadattamento scolastico e professionale nell'eta'evolutiva (annuale: 2° anno);   
+7) Docimologia e tecniche della valutazione scolastica (annuale: 2° anno);   
+8) Tecniche psicodiagnostiche individuali e di gruppo (biennale: 2° e 3° anno);   
+9) Orientamento scolastico e professionale (annuale: 3° anno).   
+C) Per l'indirizzo "Indulstriale e del lavoro":   
+1) Fondamenti di biologia generale e di anatomia e fisiologia umana (biennale: 1° e 2° anno);   
+2) Istituzioni di psicopatologia e di igiene mentale (annuale: 1° anno);   
+3) Psicologia del lavoro (annuale: 1°anno);   
+4) Metodologia statistica e psicometria (corso avanzato, annuale: 2° anno);   
+5) Ergonomia (annuale: 1° anno);   
+6) Analisi e valutazione delle mansioni e profili professionali (annuale: 2° anno);   
+7) Psicologia del disadattamento lavorativo (annuale: 3° anno).   
+D) Per l'indirizzo "sociale":   
+1) Antropologia culturale (annuale: 1° anno);   
+2) Sociologia (annuale: 1° anno);   
+3) Psicologia della comunicazione (biennale: 1° e 2° anno);   
+4) Tecniche quantitative dell'indagine psicosociale (annuale: 2° anno);   
+5) Ricerca motivazionale (annuale: 2° anno);   
+6) Psicologia sociale, corso avanzato (annuale: 3° anno);   
+7) Dinamiche di gruppo (annuale: 3° anno);   
+8) Tecniche di studio dell'opinione pubblica (annuale: 3° anno);   
+9) Patologia e controllo sociale (annuale: 3° anno).   
+Gli insegnamenti "integrativi" (annuali) di cui al punto c) dell'articolo precedente, vanno scelti nell'ambito dell'elenco che segue:   
+Storia della psicologia;   
+Filosofia della scienza;   
+Cibernetica;   
+Psicologia zoologica;   
+Psicolinguistica;   
+Organizzazione sanitaria;   
+Organizzazione scolastica;   
+Auxologia;   
+Neuropsichiatria infantile;   
+Pedagogia speciale e differenziale;   
+Igiene generale;   
+Medicina del lavoro;   
+Legislazione sanitaria;   
+Legislazione scolastica;   
+Legislazione del lavoro;   
+Deontologia professionale;   
+Sessuologia;   
+Psicogerontologia;   
+Statistica economica;   
+Psicologia della propaganda;   
+Psicologia dello sport;   
+Psicologia e pedagogia della comunicazione di massa;   
+Filmologia;   
+Istruzione programmata;   
+Psicologia della didattica e dell'apprendimento scolastico;   
+Infortunistica del lavoro;   
+Psicologia economica.   
+Gli insegnamenti specifici di ciascuno dei quattro indirizzi, possono valere come integrativi per gli altri indirizzi che non li comprendano, sempre naturalmente nel caso che il funzionamento degli indirizzi stessi sia previsto dal manifesto-programma annuale.   
+Il manifesto-programma annuale, di cui all'art. 488, indichera' quali indirizzi verranno realizzati e quali insegnamenti integrativi verranno impartiti dalla scuda, durante l'anno accademico.   
+La eventuale scissione degli insegnamenti in piu' rami distinti, ai fini sia dell'insegnamento che degli esami di profitto, ovvero l'eventuale loro raggruppamento ai fini degli esami, risulteranno dal manifesto-programma annuale di cui all'art. 488.   
+Art. 480. - Gli esami sono di profitto e di diploma.   
+Per essere ammessi agli esami annuali di profitto l'allievo deve aver frequentato assiduamente le lezioni, le esercitazioni, i tirocini, i seminari, ecc. svolti dalla scuola nel relativo anno di corso.   
+Per essere ammesso all'esame di diploma, l'allievo, oltre ad aver adempiuto a tutti gli obblighi di frequenza ed esame dei vari insegnamenti comuni e specifici e di almeno due degli insegnamenti integrativi, ed aver effettuato le esercitazioni prescritte, deve presentare una dissertazione scritta nonche' una relazione riassuntiva sulle esercitazioni e su eventuali tirocini effettuati nell'intero triennio.   
+L'esame di diploma consiste nella discussione della tesi e della relazione e, eventualmente, di una o piu prove pratiche stabilite dal consiglio della scuola.   
+Art. 481. - Direttore della scuola e' il professore di ruolo titolare della cattedra di psicologia della facolta' di medicina e chirurgia.   
+Il direttore della scuola, su conforme parere del consiglio della scuola stessa, puo' proporre che un docente di essa assuma le funzioni di vicedirettore, con l'incarico annuale (riconfermabile) di coadiuvarlo e di sostituirlo; alla relativa nomina provvede il rettore.   
+Art. 482. - I docenti della scuoaa sono scelti tra i professori universitari di psicologia (di ruolo, fuori ruolo, aggregati, incaricati, liberi docenti), fra gli specializzati in psicologia o fra coloro che, per opere, uffici e insegnamenti tenuti, siano di riconosciuta competenza ed esperienza nelle discipline che formano oggetto dei corsi della scuola.   
+Alla nomina dei docenti provvede il rettore, su proposta presentata annualmente dal direttore della scuola e su parere conforme del consiglio della scuola stessa e della facolta'.   
+Art. 483. - Per i problemi riguardanti l'organizzazione didattica, il direttore e assistito da un consiglio della scuola, composto: dal direttore stesso che lo presiede, dal vice-direttore (se designato), che presiede le adunanze del consiglio in caso di assenza o impedimento del direttore, e da tutti i docenti che abbiano avuto regolare nomina rettorale.   
+Su proposta del direttore e sentito il parere del consiglio, uno dei docenti assolve anche le funzioni di segretario delle adunanze del consiglio stesso; alla relativa nomina provvede il rettore.   
+Art. 484. - Spetta al consiglio della scuola:   
+1) determinare, coordinare, approvare i programmi dei corsi teorici, delle esercitazioni, dei tirocini, dei seminari, etc., relativi sia agli insegnamenti comuni, sia a quelli specifici, sia a quelli integrativi;   
+2) esprimere il proprio parere sulle proposte del direttore della scuola relativamente alla designazione dei docenti, da sottoporre quindi alla nomina rettorale, dopo l'approvazione della facolta';   
+3) determinare, coordinare, approvare gli orari dei vari insegnamenti, esercitazioni, seminari, etc., e il diario e le modalita' degli esami, sia di profitto che di diploma e la composizione delle relative commissioni;   
+4) stabilire le eventuali prove pratiche da far sostenere agli allievi in occasione dell'esame di diploma;   
+5) deliberare sulle domande di trasferimento di allievi di scuole di specializzazione in psicologia da una universita' o facolta' ad un'altra e deliberare circa il passaggio da un indirizzo all'altro della scuola stessa conformemente a quanto stabilito dall'art. 490, determinandone gli eventuali ulteriori obblighi di frequenza e di esame;   
+6) determinare il numero massimo (in ogni caso non superiore a 25 ed eventualmente il numero minimo degli allievi che possono essere iscritti a1 primo anno frequentanti contemporaneamente i tre corsi non superi i 60);   
+7) stabilire la composizione della commissione per l'esame di concorso di merito di cui al comma secondo dell'art. 477 e della commissione per le eventuali prove di idoneita' di cui al comma terzo del medesimo articolo 477, nonche' le modalita' dei rispettivi concorsi o prove.   
+Art. 485. - I1 funzionamento amministrativo della scuola e determinato, in armonia con le vigenti disposizioni sulle scuole di specializzazione, da un regolamento interno emanato dal rettore su proposta del direttore della scuola.   
+Art. 486. - Le entrate della scuola sono costituite dalle tasse, soprattasse e contributi scolastici e dai contributi erogati eventualmente dallo Stato, dall'universita', da enti e da privati.   
+Art. 487. - Gli iscritti alla scuola sono tenuti a1 pagamento delle tasse, soprattasse e contributi generali nella misura stabilita dall'art. 173 dello statuto.   
+La misura dei contributi per le esercitazioni pratiche e per le altre prestazioni, di cui gli iscritti fruiscono durante il corso degli studi, e fissata dal consiglio di amministrazione dell'universita' su proposta del senato accademico, sentito il parere del consiglio della facolta' di medicina e chirurgia e del consiglio della scuola.   
+Art. 488. Il direttore della scuola sulla base del deliberazioni del consiglio della scuola - compila ogni anno il relativo manifesto-programma e, previa approvazione della facolta' di medicina e chirurgia, sara' reso di pubblica ragione.   
+Nel manifesto viene specificato:   
+1) l'indirizzo o gli indirizzi della scuola che saranno aperti nell'imminente anno accademico;   
+2) il numero massimo (in ogni caso non superiore a 25) e, eventualmente quello minim0 di domande di iscrizione che verranno accettate, tenuto conto che il numero complessivo degli iscritti frequentanti contemporaneamente i tre corsi non superi le 60 unita';   
+3) le modalita' del concorso di merito in caso di domande eccedenti il numero massimo di iscrizioni consentite;   
+4) l'eventuale indicazione di prove di idoneita' per l'ammissione alla scuola, conformemente al comma terzo dell'art. 477;   
+5) l'ordine degli studi, con l'indicazione:   
+a) dell'eventuale scissione degli insegnamenti elencati.  
+nell'art. 489 in piu rami distinti, ai fini dell'insegnamento e degli esami di profitto;   
+b) dell'eventuale raggruppamento degli insegnamenti ai fini dell'esame di profitto;   
+c) della distribuzione degli insegnamenti nei vari anni di corso;   
+d) degli insegnamenti integrativi che verranno impartiti nell'anno;   
+e) dei docenti, per ciascun insegnamento ed anno di corso;   
+6) le modalita' e le condizioni degli esami di profitto e di diploma;   
+7)le tasse,le soprattasse e i contributi generali e speciali dovuti dagli allievi.   
+Art. 490. - L'inclusione della scuola nello statuto dell'universita' non costituisce impegno ad impartire i relativi corsi: l'impegno e' costituito dalla pubblicazione del manifesto-programma annuale. Cio' vale sia per la scuola nel suo insieme sia per i singoli indirizzi.   
+Art. 491. - E' prevista, a domanda dell'interessato e non oltre il termine del 2° anno di corso, la possibilita' di passaggio da un indirizzo ad un altro. L'accoglimento della relativa domanda, sempre subordinato alle condizioni previste dall'art. 490, ha luogo a giudizio insindacabile del consiglio della scuola e con piano di studi da stabilire caso per caso. Coloro che hanno compiuto l'intero triennio possono essere ammessi ad altro indirizzo con possibilita' di abbreviazione dei corsi, per convalida di esami gia' sostenuti, secondo quanto sara' stabilito caso per caso dal consiglio della scuola.   
+Art. 492. - Norme transitorie: all'inizio del funzionamento della scuola, il direttore e' autorizzato a prendere tutte quelle decisioni e deliberazioni che, di norma, sono demandate al consiglio della scuola.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 luglio 1955
+### Dato a Roma, addi' 28 luglio 1969
 
-GRONCHI ROSSI
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 1 settembre 1955
+Registrato alla Corte dei conti, addi' 9 settembre 1969
 
-Atti del Governo, registro n. 92, foglio n. 135. - CARLOMAGNO
+Atti del Governo, registro n. 229, foglio n. 16. - CARUSO

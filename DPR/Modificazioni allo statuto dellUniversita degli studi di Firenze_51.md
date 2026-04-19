@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1147
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1982 n. 407
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1147
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1982 n. 407
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Firenze approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -22,11 +22,11 @@ Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?u
 
 Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Firenze e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Veduto il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio universitario nazionale;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
@@ -39,26 +39,59 @@ Art. 1
 ------
 
   
-Nell'art. 49, relativo al corso di laurea in lettere, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-storia della letteratura russa contemporanea.  
+Art. 49 - nell'elenco degli insegnamenti complementari del corso di laurea in lettere sono inseriti i seguenti nuovi insegnamenti:  
+storia della musica moderna e contemporanea;  
+lingua e letteratura occitanica;  
+storia delle tradizioni popolari;  
+semiologia;  
+metodi matematici per le scienze filologiche, storiche e filosofiche;  
+storia della lingua dell'Italia preromana.  
+Art. 50 - nell'elenco degli insegnamenti complementari del corso di laurea in filosofia sono inseriti i seguenti nuovi insegnamenti:  
+storia delle tradizioni popolari;  
+semiologia;  
+metodi matematici per le scienze filologiche, storiche e filosofiche.  
+Art. 51. - Nell'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne (indirizzo europeo) sono inseriti i seguenti nuovi insegnamenti:  
+lingua e letteratura occitanica;  
+semiologia;  
+metodi matematici per le scienze filologiche, storiche e filosofiche;  
+linguistica balto-slava;  
+linguistica germanica;  
+linguistica matematica;  
+sociolinguistica;  
+lingua e letteratura albanese;  
+lingua e letteratura neo-greca;  
+lingua e letteratura neerlandese;  
+lingua e letteratura bulgara;  
+lingua e letteratura ceca;  
+lingua e letteratura slovacca;  
+lingua e letteratura slovena;  
+lingua e letteratura tedesca medievale.  
 
 Art. 2
 ------
 
   
-Nell'art. 51, relativo al corso di laurea in lingue e letterature straniere moderne (indirizzo europeo), all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-storia della letteratura russa contemporanea.  
+Art. 113 - nell'elenco degli insegnamenti complementari del corso di laurea in farmacia sono inseriti i seguenti nuovi insegnamenti:  
+fitochimica;  
+fitofarmacia;  
+chimica e tecnologia degli olii essenziali;  
+endocrinologia.  
+Art. 127 - nell'elenco degli insegnamenti complementari del corso di laurea in chimica e tecnologia farmaceutiche sono inseriti i seguenti nuovi insegnamenti:  
+fitochimica;  
+fitofarmacia;  
+chimica e tecnologia degli olii essenziali;  
+metodi e tecniche immunologiche.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1983
+### Dato a Roma, addi' 5 febbraio 1982
 
-PERTINI FALCUCCI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 22 marzo 1984
+Registrato alla Corte dei conti, addi' 22 giugno 1982
 
-Registro n. 17 Istruzione, foglio n. 326
+Registro n. 82 Istruzione, foglio n. 162

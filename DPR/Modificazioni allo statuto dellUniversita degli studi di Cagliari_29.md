@@ -1,43 +1,212 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1955 n. 759
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1973 n. 1157
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1955 n. 759
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1973 n. 1157
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Dopo l'art. 189, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in "Terapia fisica e riabilitazione".
+
+Scuola di specializzazione in terapia fisica e riabilitazione
+
+Art. 190. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in terapia fisica con sede presso l'istituto di clinica ortopedica. La scuola conferisce il diploma di specialista in terapia fisica e riabilitazione.
+
+Art. 191. - La durata dei corsi e' di tre anni.
+
+Art. 192. - Alla scuola vengono ammessi i laureati in medicina e chirurgia; il numero complessivo fra tutti gli iscritti ai tre anni di corso non dovra' essere superiore a quindici (cinque allievi per anno di corso).
+
+La selezione dei candidati aspiranti all'ammissione alla scuola avverra' sulla base di titoli ed esami.
+
+Art. 193. - Non sono consentite iscrizioni alla scuola con abbreviazioni di corso.
+
+Art. 194. - Gli iscritti alla scuola hanno l'obbligo di frequentare i corsi ufficiali e le esercitazioni.
+
+E' inoltre obbligatorio per gli iscritti ai corsi, l'internato presso la clinica.
+
+Gli allievi hanno doveri di permanenza presso l'istituto durante le ore della sua attivita' con presenza giornaliera in ambulatori e in reparti di terapia fisica e di degenza.
+
+Dall'obbligo dell'internato potranno essere esentati quegli allievi che in qualita' di assistenti o di aiuti prestino effettivamente servizio presso reparti della stessa specialita' in universita' ed ospedali di I e II categoria.
+
+Per i corsi che non siano strettamente dimostrati presso la clinica ortopedica possono essere stabiliti, su parere del direttore della scuola, periodi di continuativa frequenza presso i relativi reparti specialistici, qualora siano costituiti in reparti indipendenti ed abbiano adeguata attrezzatura per la fisioterapia e riabilitazione (neurologia, centri di recupero spastici, fisiopatologia respiratoria, otorinolaringologia, reumatologia, oculistica, ecc.).
+
+Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico dell'operosita' scolastica degli allievi, con frequenti interrogazioni e vigilando sulle esercitazioni e sui turni di servizio interno.
+
+L'allievo che non abbia ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali.
+
+Art. 195. - Le materie di insegnamento sono cosi' suddivise nei tre anni di corso:
+
+1° Anno:
+
+Principi di anatomia funzionale (propedeutico per tutte le materie di base degli anni successivi e per quelle facoltative);
+
+Fisiopatologia dell'apparato neuro-motore (come sopra).
+
+2° Anno:
+
+Semeiotica e clinica delle motulesioni neurologiche (propedeutico per le materie d'insegnamento di base del terzo anno);
+
+Semeiotica e clinica delle deformita' e motulesioni ortopediche (come sopra);
+
+Massoterapia e terapia manuale;
+
+Cinesiologia e cinesiterapia e ginnastica medica;
+
+Idroterapia e balneoterapia.
+
+3° Anno:
+
+Elettroterapia ed elettrologia;
+
+Terapia con onde corte ed altri mezzi fisici;
+
+Rieducazione motoria e riabilitazione in campo ortopedico e traumatologico;
+
+Rieducazione motoria e riabilitazione in campo neurologico.
+
+Art. 196. - Le materie facoltative, qui di seguito elencate, potranno essere distribuite nel 2° e nel 3° anno a seconda delle necessita' della scuola previa approvazione del consiglio di facolta':
+
+Elettromiografia;
+
+Cinesiterapia e riabilitazione nelle malattie internistiche;
+
+Rieducazione respiratoria;
+
+Riabilitazione nei disturbi del linguaggio;
+
+Psicologia e psicopatologia della riabilitazione;
+
+Medicina assicurativa;
+
+Rieducazione nei disturbi della vista;
+
+Climatoterapia;
+
+Problemi della riabilitazione geriatrica;
+
+Riqualificazione professionale.
+
+Art. 197. - Per accedere ai corsi successivi al primo e' obbligatorio il superamento di tutti gli esami del corso precedente, ivi comprese le materie biennali.
+
+Gli esami possono essere sostenuti solamente in due sessioni, una estiva ed una autunnale, e comunque non oltre il trenta novembre dell'anno in corso.
+
+Il diploma viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinico o sperimentale.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 23 ottobre 1973
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: ZAGARI
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 28 ottobre 1974 Atti di Governo, registro n. 6, foglio n. 57. - SCIARRETTA
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regi decreti 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1743); [26 marzo 1942, n. 328, con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-03-26;328) [22 ottobre 1946, n. 398 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1946-10-22;398) [30 ottobre 1949, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1027); [11 aprile 1951, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;565); [23 gennaio 1952, n. 365](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-01-23;365); [26 ottobre 1952, n. 4512](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4512); [10 febbraio 1953, n. 550](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;550); [30 luglio 1953, n. 716](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-07-30;716); [6 ottobre 1953, n. 1097](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-10-06;1097); [29 maggio 1954, n. 752](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-05-29;752); [24 settembre 1954, n. 1206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-24;1206) e [16 febbraio 1955, n. 137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-16;137);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 22. - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di:  
-15) "Filologia medioevale ed umanistica".  
+Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+  
+Dopo l'art. 189, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in "Terapia fisica e riabilitazione".   
+Scuola di specializzazione in terapia fisica e riabilitazione   
+Art. 190. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in terapia fisica con sede presso l'istituto di clinica ortopedica. La scuola conferisce il diploma di specialista in terapia fisica e riabilitazione.   
+Art. 191. - La durata dei corsi e' di tre anni.   
+Art. 192. - Alla scuola vengono ammessi i laureati in medicina e chirurgia; il numero complessivo fra tutti gli iscritti ai tre anni di corso non dovra' essere superiore a quindici (cinque allievi per anno di corso).   
+La selezione dei candidati aspiranti all'ammissione alla scuola avverra' sulla base di titoli ed esami.   
+Art. 193. - Non sono consentite iscrizioni alla scuola con abbreviazioni di corso.   
+Art. 194. - Gli iscritti alla scuola hanno l'obbligo di frequentare i corsi ufficiali e le esercitazioni.   
+E' inoltre obbligatorio per gli iscritti ai corsi, l'internato presso la clinica.   
+Gli allievi hanno doveri di permanenza presso l'istituto durante le ore della sua attivita' con presenza giornaliera in ambulatori e in reparti di terapia fisica e di degenza.   
+Dall'obbligo dell'internato potranno essere esentati quegli allievi che in qualita' di assistenti o di aiuti prestino effettivamente servizio presso reparti della stessa specialita' in universita' ed ospedali di I e II categoria.   
+Per i corsi che non siano strettamente dimostrati presso la clinica ortopedica possono essere stabiliti, su parere del direttore della scuola, periodi di continuativa frequenza presso i relativi reparti specialistici, qualora siano costituiti in reparti indipendenti ed abbiano adeguata attrezzatura per la fisioterapia e riabilitazione (neurologia, centri di recupero spastici, fisiopatologia respiratoria, otorinolaringologia, reumatologia, oculistica, ecc.).   
+Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico dell'operosita' scolastica degli allievi, con frequenti interrogazioni e vigilando sulle esercitazioni e sui turni di servizio interno.   
+L'allievo che non abbia ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali.   
+Art. 195. - Le materie di insegnamento sono cosi' suddivise nei tre anni di corso:   
+1° Anno:   
+  
+Principi di anatomia funzionale (propedeutico per tutte le materie di base degli anni successivi e per quelle facoltative);   
+Fisiopatologia dell'apparato neuro-motore (come sopra).   
+2° Anno:   
+  
+Semeiotica e clinica delle motulesioni neurologiche (propedeutico per le materie d'insegnamento di base del terzo anno);   
+Semeiotica e clinica delle deformita' e motulesioni ortopediche (come sopra);   
+Massoterapia e terapia manuale;   
+Cinesiologia e cinesiterapia e ginnastica medica;   
+Idroterapia e balneoterapia.   
+3° Anno:   
+  
+Elettroterapia ed elettrologia;   
+Terapia con onde corte ed altri mezzi fisici;   
+Rieducazione motoria e riabilitazione in campo ortopedico e traumatologico;   
+Rieducazione motoria e riabilitazione in campo neurologico.   
+Art. 196. - Le materie facoltative, qui di seguito elencate, potranno essere distribuite nel 2° e nel 3° anno a seconda delle necessita' della scuola previa approvazione del consiglio di facolta':   
+  
+Elettromiografia;   
+Cinesiterapia e riabilitazione nelle malattie internistiche;   
+Rieducazione respiratoria;   
+Riabilitazione nei disturbi del linguaggio;   
+Psicologia e psicopatologia della riabilitazione;   
+Medicina assicurativa;   
+Rieducazione nei disturbi della vista;   
+Climatoterapia;   
+Problemi della riabilitazione geriatrica;   
+Riqualificazione professionale.   
+Art. 197. - Per accedere ai corsi successivi al primo e' obbligatorio il superamento di tutti gli esami del corso precedente, ivi comprese le materie biennali.   
+Gli esami possono essere sostenuti solamente in due sessioni, una estiva ed una autunnale, e comunque non oltre il trenta novembre dell'anno in corso.   
+Il diploma viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinico o sperimentale.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 15 luglio 1955
+### Dato a Roma, addi' 23 ottobre 1973
 
-GRONCHI Rossi
+LEONE MALFATTI
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 22 agosto 1955
+Registrato alla Corte dei conti, addi' 28 ottobre 1974
 
-Atti del Governo, registro n. 92, foglio n. 93. - CARLOMAGNO
+Atti di Governo, registro n. 6, foglio n. 57. - SCIARRETTA

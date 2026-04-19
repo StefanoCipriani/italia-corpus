@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 733
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 628
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 733
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 628
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 14 ottobre 1926, n. 2090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2090) e modificato con [regio decreto 13 ottobre 1927, n. 2281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2281), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,302 +20,106 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio universitario nazionale nel suo parere;
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
 
-Veduto l'[art. 16 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art16);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Sulla proposta del Ministro della pubblica istruzione;
 
-Sulla
------
+Decreta:
+--------
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 1
-------
-
-  
-Lo statuto dell'Universita' di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-All'art. 674, relativo alla scuola di specializzazione in tecniche semeiologiche speciali chirurgiche della seconda facolta' di medicina e chirurgia, l'insegnamento di "manometria delle vie biliari e indagini colangiografiche intraoperatorie (conferenze)" muta denominazione in quella di "semeiotica strumentale delle vie biliari".  
-
-Art. 2
-------
+Articolo unico
+--------------
 
   
-Presso la seconda facolta' di medicina e chirurgia gli articoli da 745 a 751, relativi alla scuola di specializzazione in nefrologia medica che muta la denominazione in nefrologia, sono sostituiti dai seguenti:  
-  
-Scuola di specializzazione in nefrologia  
-  
-Art. 745. - La scuola di specializzazione in nefrologia ha sede presso la cattedra di nefrologia medica della seconda facolta' di medicina e chirurgia e conferisce il diploma di specialista in nefrologia.  
-Art. 746. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.  
-Art. 747. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-Art. 748. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.  
-Art. 749. - Il numero massimo degli allievi e' di dieci per anno di corso e complessivamente di quaranta iscritti per l'intero corso di studi.  
-Art. 750. - L'ammissione al corso avviene per titoli ed esami.  
-Art. 751. - Le materie di insegnamento sono le seguenti:  
+Dopo l'art. 926, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chirurgia plastica afferente alla seconda facolta' di medicina e chirurgia.  
+Scuola di specializzazione in chirurgia plastica  
+Art. 927. - E' istituita presso l'Universita' di Napoli, seconda facolta' di medicina e chirurgia, la scuola di specializzazione in chirurgia plastica che conferisce il diploma di specialista in chirurgia plastica.  
+Art. 928. - La direzione della scuola ha sede presso la cattedra di chirurgia plastica ricostruttrice.  
+Art. 929. - La scuola ha lo scopo di provvedere alla formazione teorico-pratica di medici specialisti in chirurgia plastica.  
+Art. 930. - La durata del corso e' di cinque anni e non e' suscettibile di abbreviazioni.  
+Art. 931. - Il numero degli iscritti e' di tre per ogni anno e complessivamente di quindici per l'intero corso di studi.  
+Art. 932. - Alla scuola sono ammessi solo i laureati in medicina e chirurgia ed e' richiesto il diploma di abilitazione all'esercizio professionale, rilasciato dalle autorita' competenti.  
+Art. 933. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:  
+a) la tesi nella disciplina attinente alla specializzazione;  
+b) il voto di laurea;  
+c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;  
+d) le pubblicazioni nelle predette materie.  
+Il punteggio dei predetti titoli e' quello stabilito dal [decreto ministeriale del 16 settembre 1982, pubblicato nella Gazzetta Ufficiale n. 275 del 6 ottobre 1982](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1982-10-06&numeroGazzetta=275). Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizioni utili nelle graduatorie compilate sulla base del punteggio complessivo riportato.  
+Art. 934. - Le materie di insegnamento sono le seguenti, tutte afferenti alla seconda facolta' di medicina e chirurgia:  
 1° Anno:  
-struttura ed ultrastruttura normale del rene;  
-aspetti biochimici della funzione renale;  
-fisiologia renale;  
-microbiologia ed immunologia applicata alla nefrologia;  
-genetica applicata alla nefrologia;  
-semeiotica renale (1° anno).  
+chirurgia plastica;  
+anatomia ed embriologia;  
+patologia generale;  
+genetica;  
+anatomia e istologia patologica;  
+patologia e clinica chirurgica I;  
+chirurgia d'urgenza e pronto soccorso I;  
+biologia e clinica dei trapianti.  
 2° Anno:  
-struttura ed ultrastruttura patologica del rene;  
-patologia del ricambio idro-elettrolitico;  
-insufficienza renale;  
-rene ed ipertensione arteriosa;  
-semeiotica renale (2° anno);  
-nefropatie tubulari.  
+chirurgia plastica;  
+anatomia chirurgica;  
+patologia e clinica chirurgica II;  
+chirurgia d'urgenza e pronto soccorso II;  
+anestesiologia e rianimazione;  
+biologia e clinica dei trapianti II;  
+fisiopatologia e clinica della malattia-ustione.  
 3° Anno:  
-nefropatie glomerulari;  
-nefropatie interstiziali;  
-nefropatie vascolari;  
-terapie dietetica e dialitica (1° anno);  
-farmacologia d'interesse nefrologico.  
+chirurgia plastica;  
+malattia-ustione: terapia medica e chirurgica;  
+oncologia;  
+radiodiagnostica e radioterapia;  
+otorinolaringoiatria;  
+odontostomatologia ed ortopedia maxillo-facciale;  
+dermatologia;  
+patologia secondaria.  
 4° Anno:  
-nefrouropatie calcolotiche, malformative e neoplastiche;  
-terapia dietetica e dialitica (2° anno);  
-fisiopatologia e clinica del trapianto renale;  
-aspetti di nefrologia nell'eta' pediatrica;  
-problemi chirurgici in nefrologia;  
-terapia medica delle nefropatie.  
-Art. 752. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
-Art. 753. - Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno.  
-Al termine del corso di studi per il conseguimento del diploma di specialista in nefrologia, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
-
-Art. 3
-------
-
-  
-Gli articoli 763, 764 e 765, relativi alla scuola di specializzazione in puericultura, della seconda facolta' di medicina e chirurgia, che muta denominazione in pediatria preventiva e puericultura sono sostituiti dai seguenti:  
-  
-Scuola di specializzazione in pediatria preventiva e puericultura  
-  
-Art. 763. - Presso la cattedra di puericultura della seconda facolta' di medicina e chirurgia dell'Universita' di Napoli e' istituita la scuola di specializzazione in pediatria preventiva e puericultura.  
-Alla scuola stessa possono iscriversi esclusivamente i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalla autorita' competente. La scuola si propone di conferire la preparazione teorico-pratica sia nel campo della neonatologia e patologia neonatale, sia nel campo della pratica pediatrica, preventiva e sociale, con particolare riguardo alla prevalente funzione preventiva e sociale della medicina infantile sul territorio, che il pediatra e' chiamato a svolgere.  
-Essa ha la durata di quattro anni ed e' articolata in due indirizzi:  
-a) neonatologia e patologia neonatale;  
-b) pediatria sociale.  
-Dopo un primo biennio comune ai due indirizzi e' istituito un secondo biennio differenziato per ciascuno dei due indirizzi.  
-I medici che abbiano gia' conseguito la specializzazione in pediatria preventiva e puericultura con uno dei due indirizzi, potranno iscriversi direttamente al secondo biennio della scuola con l'altro indirizzo previsto dallo statuto.  
-Il numero massimo degli allievi che possono essere iscritti e' di cinquantasei complessivamente per l'intera durata del corso di studi, bienni orientativi inclusi.  
-La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
-L'ammissione al corso avviene per titoli ed esami.  
-Art. 764. - Le materie di insegnamento sono:  
-  
-BIENNIO PROPEDEUTICO COMUNE  
-  
-1° Anno:  
-1) anatomia e fisiologia dell'eta' evolutiva I;  
-2) elementi di ostetricia e ginecologia;  
-3) semeiotica infantile;  
-4) genetica medica;  
-5) elementi di laboratorio e biochimica clinica;  
-6) fisiologia della nutrizione;  
-7) metabolismo dell'eta' evolutiva I;  
-8) embriologia e fisiologia prenatali;  
-9) patologia infantile I;  
-10) alimentazione nell'eta' evolutiva.  
-2° Anno:  
-1) anatomia e fisiologia dell'eta' evolutiva II;  
-2) metabolismo dell'eta' evolutiva II;  
-3) patologia infantile II;  
-4) auxologia normale;  
-5) malattie infettive e loro prevenzione;  
-6) patologia prenatale;  
-7) patologia perinatale;  
-8) elementi di clinica pediatrica;  
-9) dietologia infantile;  
-10) anatomia patologica infantile;  
-11) O.R.L. e audiologia infantile;  
-12) oculistica e ottica fisiopatologica infantili.  
-  
-INDIRIZZO DI NEONATOLOGIA E PATOLOGIA NEONATALE  
-  
-3° Anno:  
-1) clinica della gravidanza e del parto normale;  
-2) fisiopatologia embrio-fetale;  
-3) fisiologia neonatale;  
-4) biochimica neonatale;  
-5) immunologia neonatale;  
-6) diagnostica radiologica neonatale;  
-7) tecniche di laboratorio (con riferimento alla fisiopatologia neonatale);  
-8) patologia neonatale I;  
-9) assistenza al neonato sano ed ammalato;  
-10) semeiotica neonatale.  
-4° Anno:  
-1) patologia neonatale II;  
-2) il neonato a rischio;  
-3) farmacologia neonatale;  
-4) clinica e terapia neonatale;  
-5) rianimazione e terapia intensiva del neonato;  
-6) alimentazione del neonato sano e patologico;  
-7) anatomia patologica del feto e del neonato;  
-8) patologia chirurgica neonatale;  
-9) neurologia neonatale.  
-  
-INDIRIZZO DI PEDIATRIA SOCIALE  
-  
-3° Anno:  
-1) adolescentologia I;  
-2) auxologia patologica ed endocrinologia infantile;  
-3) neuropsichiatria infantile;  
-4) epidemiologia, statistica medica e biometria;  
-5) epidemiologia e prevenzione di malattie di importanza sociale nella eta' evolutiva;  
-6) igiene dell'alimentazione;  
-7) medicina scolastica e sua legislazione;  
-8) psicologia dell'eta' evolutiva;  
-9) fisioterapia e riabilitazione;  
-10) consulenza genetica sul territorio;  
-11) patologia e clinica delle malattie di importanza sociale nell'eta' evolutiva.  
-4° Anno:  
-1) adolescentologia II;  
-2) medicina dello sport nell'eta' evolutiva;  
-3) odontologia ed odontoiatria;  
-4) ortopedia e traumatologia nell'eta' evolutiva;  
-5) legislazione e assistenza sociale per l'infanzia e l'adolescenza;  
-6) informazione sanitaria;  
-7) servizi pubblici extraospedalieri di sanita' e assistenza per l'eta' evolutiva;  
-8) psicopedagogia;  
-9) sociologia applicata alla popolazione infantile.  
-Art. 765. - Le norme generali per l'iscrizione, gli esami, le tasse etc. sono quelle che regolano le scuole di specializzazione dell'Universita' di Napoli.  
-La frequenza alle lezioni, alle esercitazioni pratiche nei reparti e' obbligatoria: gli allievi che non conseguano le attestazioni di frequenza non possono essere ammessi a sostenere le prove di esame.  
-Il tirocinio pratico durante il quarto anno della scuola per l'indirizzo di neonatologia e patologia neonatale potra' essere svolto oltre che presso l'istituto ove la scuola ha sede, presso strutture assistenziali che abbiano, al giudizio del consiglio della scuola, caratteristiche idonee allo scopo. Tale tirocinio sara' attestato per iscritto dal responsabile di ciascuna struttura. Il tirocinio pratico durante il quarto anno per l'indirizzo di pediatria sociale, e' previsto sia svolto almeno in parte, in accordo con le amministrazioni competenti (regione, province e comuni) presso strutture assistenziali sul territorio (consultori), etc. che abbiano, a giudizio del consiglio della scuola, caratteristiche idonee allo scopo. Tale tirocinio sara' attestato dall'ente responsabile della struttura.  
-Alla fine di ciascun anno di corso gli allievi, per essere ammessi agli anni successivi, debbono superare le prove di esame teorico-pratiche sulle materie impartite durante l'anno; per le materie a corso biennale l'esame sara' sostenuto sotto forma di colloquio al termine di ciascun anno.  
-Superati gli esami finali, l'allievo sosterra' l'esame di diploma, che potra' essere costituito anche da una dissertazione orale su un argomento precedentemente concordato.  
-All'allievo risultato idoneo verra' rilasciato il diploma di specialista in pediatria preventiva e puericultura con espressa menzione dell'indirizzo seguito, valido a tutti gli effetti di legge.
-
-Art. 4
-------
-
-  
-Gli articoli 770, 771, 772, 773, 774, 775, 776, 777 e 778, relativi alla scuola di specializzazione in fisiologia e malattie dell'apparato respiratorio della seconda facolta' di medicina e chirurgia, sono sostituiti dai seguenti, con il conseguente spostamento della numerazione degli articoli successivi:  
-  
-Scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio  
-  
-Art. 770. - La scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio ha sede presso la clinica tisiologica e delle malattie dell'apparato respiratorio della seconda facolta' di medicina e chirurgia e conferisce il diploma di specialista in tisiologia e malattie dell'apparato respiratorio.  
-Art. 771. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
-Art. 772. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto almeno all'inizio del corso il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-Art. 773. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.  
-Art. 774. - Il numero massimo degli allievi e' di venti per anno di corso e complessivamente di ottanta iscritti per l'intero corso di studi.  
-Art. 775. - L'ammissione al corso avviene per titoli ed esami.  
-Art. 776. - Le materie d'insegnamento sono le seguenti:  
-1° Anno:  
-anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale) I;  
-patologia della tubercolosi polmonare ed extrapolmonare;  
-patologia delle malattie dell'apparato respiratorio;  
-fisiologia e fisiopatologia dell'apparato respiratorio;  
-semeiotica fisica e funzionale dell'apparato respiratorio;  
-microbiologia;  
-epidemiologia e statistica sanitaria della tubercolosi e delle malattie dell'apparato respiratorio.  
-2° Anno:  
-anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale) II;  
-clinica della tubercolosi (triennale) I;  
-clinica delle malattie dell'apparato respiratorio (triennale) I;  
-fisiopatologia speciale della tubercolosi e delle malattie dell'apparato respiratorio;  
-broncologia;  
-radiologia dell'apparato respiratorio;  
-profilassi della tubercolosi;  
-igiene e legislazione sociale;  
-3° Anno:  
-clinica delle malattie dell'apparato respiratorio (triennale) II;  
-clinica della tubercolosi (triennale) II;  
-chemioterapia della tubercolosi e delle malattie dell'apparato respiratorio;  
-terapia fisiomeccanica della tubercolosi e delle malattie dell'apparato respiratorio;  
-terapia chirurgica della tubercolosi e delle malattie dell'apparato respiratorio.  
-4° Anno:  
-clinica delle malattie dell'apparato respiratorio (triennale) III;  
-clinica della tubercolosi (triennale) III.  
-I corsi di insegnamento sono integrati da conferenze, da esercitazioni pratiche, da seminari interdisciplinari (questi ultimi prevalentemente destinati al quarto anno) e da esercitazioni pratiche nei reparti, per i quali gli allievi hanno l'obbligo di frequenza al pari delle lezioni.  
-Alla fine di ogni anno di corso gli allievi devono superare una prova di esame sulle materie del rispettivo anno.  
-Alla fine del quarto anno gli allievi devono sostenere l'esame di diploma consistente nella dissertazione scritta su un argomento attinente alla specializzazione, assegnato dal direttore della scuola o da uno degli insegnanti della scuola.  
-
-Art. 5
-------
-
-  
-  
-Dopo l'art. 926, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione, presso la seconda facolta' di medicina e chirurgia, delle scuole di specializzazione in audiologia ed in oncologia.   
-Scuola di specializzazione in audiologia   
-  
-Art. 927. - La scuola ha sede presso la cattedra di audiologia della seconda facolta' di medicina e chirurgia dell'Universita' di Napoli.   
-Art. 928. - Il numero degli iscritti alla scuola e' di cinque per anno.   
-Art. 929. - Si possono iscrivere alla scuola i laureati in medicina e chirurgia. L'ammissione alla scuola avviene per titoli ed esami.   
-Art. 930. - Le materie di insegnamento sono:   
-1° Anno:   
-nozioni di fisica acustica;   
-anatomia dell'orecchio, delle vie e dei centri acustici e vestibolari;   
-fisiologia dell'orecchio, delle vie e dei centri acustici e vestibolari;   
-nozioni di psichiatria.   
-2° Anno:   
-tecniche audiometriche;   
-nozioni di neurologia;   
-nozioni di vestibologia.   
-3° Anno:   
-patologia dell'udito;   
-terapia medica, chirurgica e protesica della sordita';   
-la sordita' sotto il profilo sociale;   
-la rieducazione dell'ipoacustico.   
-Art. 931. - Per accedere al secondo e terzo anno e' obbligatorio il superamento di tutti gli esami, rispettivamente del primo e del secondo anno. Gli esami possono essere sostenuti solamente in due sessioni annuali:   
-una estiva ed una autunnale.   
-Art. 932. - La frequenza alle lezioni, esercitazioni ed in reparto e' obbligatoria per tutto l'anno accademico, in mancanza non si potra' accedere agli esami.   
-Art. 933. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima. Gli insegnanti sono proposti dal direttore della scuola e scelti tra i professori ufficiali delle facolta' di medicina e chirurgia dell'Universita' di Napoli, tra i liberi docenti in audiologia ed in altre materie o tra i cultori delle materie di insegnamento.   
-Art. 934. - Il diploma di specialista in audiologia viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinico o sperimentale.   
-  
-Scuola di specializzazione in oncologia   
-  
-Art. 935. - La scuola di specializzazione in oncologia ha sede presso l'istituto di patologia generale della seconda facolta' di medicina e chirurgia dell'Universita' di Napoli e conferisce il diploma di specialista in oncologia.   
-Art. 936. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.   
-Art. 937. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto almeno all'inizio del corso il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-Art. 938. - La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazione.   
-Art. 939. - Il numero massimo degli allievi e' di dieci per anno di corso e complessivamente di trenta iscritti per l'intero corso di studi.   
-Art. 940. - L'ammissione al corso avviene per titoli ed esami.   
-Art. 941. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-patologia generale dei tumori I;   
-oncologia sperimentale I;   
-anatomia ed istologia patologica dei tumori I;   
-epidemiologia dei tumori;   
-cancerogenesi ambientale e professionale e prevenzione primaria;   
-immunologia dei tumori.   
-2° Anno:   
-patologia generale dei tumori II;   
-oncologia sperimentale II;   
-anatomia e istologia patologica dei tumori II;   
-citodiagnostica dei tumori;   
-prevenzione clinica e tecniche diagnostiche di laboratorio;   
-radiodiagnostica dei tumori;   
-oncologia medica I;   
-oncologia chirurgica I.   
-3° Anno:   
-oncologia medica II;   
-oncologia chirurgica II;   
-radioterapia dei tumori;   
-oncologia dell'apparato genitale femminile;   
-oncologia pediatrica;   
-principi di riabilitazione oncologica;   
-organizzazione della lotta contro i tumori.   
-La scuola provvedera' ad organizzare seminari e conferenze su specifici argomenti ad integrazione di quelli elencati nello statuto.   
-Art. 942. - La frequenza alle lezioni, alle esercitazioni pratiche, seminari e conferenze organizzate dalla scuola e' obbligatoria per l'ammissione agli esami. Il superamento degli esami di ciascun anno sara' condizione indispensabile per l'iscrizione all'anno successivo.   
-Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.   
-Art. 943. - Al termine del triennio per ottenere il diploma i candidati dovranno presentare una dissertazione scritta su un argomento attinente alla specializzazione.   
+chirurgia plastica;  
+malformazioni congenite;  
+chirurgia della mano I;  
+microchirurgia vascolare e nervosa;  
+chirurgia maxillo-facciale;  
+fisiochinesiterapia.  
+5° Anno:  
+chirurgia plastica;  
+chirurgia della mano II;  
+metodologia chirurgica differenziale;  
+criobiologia e crioterapia;  
+chirurgia estetica;  
+problemi psichiatrici e psicologici in chirurgia  
+plastica;  
+medicina legale.  
+Art. 935. - La frequenza ai corsi e' obbligatoria. Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno del corso successivo. La commissione d'esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso. Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.  
+Art. 936. - Le attivita' pratiche previste consistono nell'attivita' ambulatoriale, di reparto, di sala operatoria. E' fatto obbligo agli allievi del primo biennio di presenziare ad un minimo di trenta sedute operatorie per anno; gli allievi del terzo, quarto e quinto anno dovranno partecipare quali primi assistenti ad un numero di cinquanta interventi per anno.  
+Inoltre e' fatto obbligo agli allievi di frequentare il reparto clinico, gli ambulatori per almeno undici mesi l'anno per tutti i cinque anni del corso, nonche' di frequentare almeno l'80% delle lezioni teoriche previste per ogni anno di corso.  
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere la prova di esame.  
+Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.  
+Art. 937. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio delle scuole di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso.  
+A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.  
+Art. 938. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.  
+Art. 939. - Per la scuola di specializzazione in chirurgia plastica e' costituito un consiglio presieduto da un direttore e composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[articolo 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).  
+Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento di insegnamenti.  
+La direzione della scuola e' affidata a professore ordinario o straordinario che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1981
+### Dato a Selva di Valgardena, addi' 2 settembre 1983
 
-PERTINI BODRATO
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 3 dicembre 1981
+Registrato alla Corte dei conti, addi' 25 ottobre 1983
 
-Registro n. 120 Istruzione, foglio n. 301
+Registro n. 67 Istruzione, foglio n. 52

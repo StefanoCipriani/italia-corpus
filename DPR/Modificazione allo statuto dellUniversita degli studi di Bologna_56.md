@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1986 n. 207
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 912
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 gennaio 1986 n. 207
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 912
 ==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Bologna.
@@ -10,7 +10,7 @@ Modificazione allo statuto dell'Universita' degli studi di Bologna.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926 n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -39,21 +39,19 @@ Articolo unico
 --------------
 
   
-Nell'art. 117, relativo al corso di laurea in scienze naturali della facolta' di scienze matematiche, fisiche e naturali, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
-didattica delle scienze geologiche.  
+Nell'art. 73, relativo al corso di laurea in lettere, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+filologia greca.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 gennaio 1986
+### Dato a Roma, addi' 28 ottobre 1983
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 28 aprile 1986
+Registrato alla Corte dei conti, addi' 30 gennaio 1984
 
-Registro n. 33 Istruzione, foglio n. 57
+Registro n. 5 Istruzione, foglio n. 19

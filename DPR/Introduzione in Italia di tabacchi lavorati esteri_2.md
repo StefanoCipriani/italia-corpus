@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 settembre 1960 n. 1257
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 giugno 1960 n. 738
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 settembre 1960 n. 1257
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 giugno 1960 n. 738
+=============================================================
 
 Introduzione in Italia di tabacchi lavorati esteri.
 ---------------------------------------------------
@@ -33,7 +33,7 @@ Art. 1
 ------
 
   
-Sono iscritti nella tariffa generale di vendita al pubblico dei tabacchi lavorati esteri (tabella allegato L al [decreto del Presidente della Repubblica 15 dicembre 1959, n. 1114](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-12-15;1114)) i sottoindicati prodotti esteri, il cui prezzo di tariffa e di vendita al pubblico viene stabilito nella misura a fianco di ciascuno indicata:  
+E' iscritto nella tariffa generale di vendita al pubblico dei tabacchi lavorati esteri (tabella allegato L al [decreto del Presidente della Repubblica 15 dicembre 1959, n. 1114](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-12-15;1114)) il sottoindicato prodotto estero, il cui prezzo di tariffa e di vendita al pubblico viene stabilito nella misura a fianco di esso indicata:  
   
 ----> Parte di provvedimento in formato grafico <----  
 
@@ -41,24 +41,32 @@ Art. 2
 ------
 
   
-I prezzi di tariffa di cui al precedente articolo sono ripartiti nelle quote spettanti rispettivamente al fornitore, all'Amministrazione dei monopoli di Stato per spese di distribuzione, al rivenditore ed allo Stato a titolo di imposta, ai termini del [decreto del Presidente della Repubblica 18 aprile 1959, n. 167](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-04-18;167) (tabelle allegati C, E).  
+I prezzi di tariffa e di vendita al pubblico dei sottoindicati prodotti esteri, di cui alla tabella allegato L al [decreto del Presidente della Repubblica 15 dicembre 1959, n. 1114](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-12-15;1114), sono stabiliti come segue:  
+  
+----> Parte di provvedimento in formato grafico <----  
 
 Art. 3
 ------
 
   
-Il presente decreto entra in vigore il giorno della pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.  
+I prezzi di tariffa di cui agli articoli 1 e 2 sono ripartiti nelle quote spettanti rispettivamente al fornitore, all'Amministrazione dei monopoli di Stato per spese di distribuzione, al rivenditore ed allo Stato a titolo di imposta, ai termini del [decreto del Presidente della Repubblica 18 aprile 1959, n. 167](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-04-18;167) (tabelle allegati B, C, E).  
+
+Art. 4
+------
+
+  
+Il presente decreto entra in vigore il giorno della pubblicazione nella Gazzetta Ufficiale della Repubblica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 settembre 1960
+### Dato a Roma, addi' 22 giugno 1960
 
-GRONCHI FANFANI - TRABUCCHI
+GRONCHI TAMBRONI - TRABUCCHI
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 31 ottobre 1960
+Registrato alla Corte del conti, addi' 23 luglio 1960
 
-Atti del Governo, registro n. 130, foglio n. 170. - VILLA
+Atti del Governo, registro n. 128, foglio n. 84. - VILLA

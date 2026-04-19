@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 866
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 779
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 866
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 779
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743);
+Veduto lo statuto dell'Universita' di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,397 +18,123 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Cagliari e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla
+-----
 
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-L'art. 114, relativo alla scuola di specializzazione in ostetricia e ginecologia, e' modificato nel senso che il numero degli iscritti e' stabilito in trentadue (32) per l'intero corso di studi.
-
-Gli articoli 128, 129, 130, relativi alla scuola di specializzazione in radiologia, sono abrogati e sostituiti dai seguenti.
-
-Scuola di specializzazione in radiologia
-
-Art. 128. - La scuola rilascia i seguenti diplomi di specializzazioni: in radiologia e in radiologia diagnostica.
-
-La scuola e' riservata ai laureati in medicina e chirurgia, che possono essere accolti in numero massimo di trenta.
-
-Art. 129. - La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia e' di quattro anni.
-
-Gli insegnamenti sono i seguenti:
-
-a) Matematica, fisica, nozioni di statistica e informatica (annuale) comprendente:
-
-1) richiami di matematica e fisica generale;
-
-2) costituzione della materia;
-
-3) produzione, assorbimento e misura delle radiazioni;
-
-4) statistica applicata alla medicina;
-
-5) informatica e cibernetica applicate alla radiologia.
-
-b) Radiodiagnostica (triennale) comprendente:
-
-1) principi generali di radiodiagnostica;
-
-2) apparecchi, strumenti e tecnica radiodiagnostica;
-
-3) tecnica e fisiologia applicate alla radiodiagnostica;
-
-4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;
-
-5) semeiotica radiologica;
-
-6) diagnostica differenziale radiologica;
-
-7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;
-
-8) dimostrazioni di casistica clinica.
-
-c) Radiobiologia (annuale) comprendente:
-
-1) radiobiologia generale;
-
-2) danni da radiazioni e radiopatie.
-
-d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:
-
-1) legislazione sanitaria applicata alla radiologia;
-
-2) compiti e responsabilita' medico-legali del radiologo;
-
-3) radioprotezione fisica e dosimetria ad essa connessa;
-
-4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;
-
-5) radioprotezione chimica;
-
-6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.
-
-e) Radioterapia e terapia fisica (triennale) comprendente:
-
-1) radiobiologia applicata;
-
-2) fondamenti generali di radioterapia e terapia fisica;
-
-3) istopatologia speciale dei tumori;
-
-4) nozioni sugli apparecchi e strumenti per la radioterapia;
-
-5) tecnica e metodica radioterapica;
-
-6) dosimetria;
-
-7) clinica radioterapica;
-
-8) fondamenti generali di chemioterapia oncologica;
-
-9) chemioterapia clinica dei tumori e sua associazione alla radioterapia;
-
-10) dimostrazione di casistica clinica.
-
-f) Medicina nucleare (biennale) comprendente:
-
-1) elementi di medicina nucleare;
-
-2) istrumentario, tecnica e metodica dell'impiego dei radioisotopi in medicina nucleare;
-
-3) dosimetria dei radioisotopi somministrati per via interna;
-
-4) diagnostica con radioisotopi somministrati per via interna;
-
-5) radioterapia metabolica;
-
-6) dimostrazioni di casistica clinica.
-
-I singoli insegnamenti, tenuti da uno o piu' docenti, a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze, dimostrazioni pratiche e, ove opportuno e possibile, da visite ad istituzioni di particolare interesse, sono cosi' distribuiti nei quattro anni di corso:
-
-1° Anno (tronco comune):
-
-Matematica, fisica, nozioni di statistica ed informatica;
-
-Radiobiologia;
-
-Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;
-
-Radiodiagnostica (I).
-
-2° Anno:
-
-Radiodiagnostica (II);
-
-Radioterapia e terapia fisica (I).
-
-3° Anno:
-
-Radiodiagnostica (III);
-
-Radioterapia e terapia fisica (II);
-
-Medicina nucleare (I).
-
-4° Anno:
-
-Radioterapia e terapia fisica (III);
-
-Medicina nucleare (Il).
-
-Art. 130. - La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia diagnostica e' di tre anni.
-
-Gli insegnamenti sono i seguenti:
-
-a) Matematica, fisica, nozioni di statistica e di informatica (annuale) comprendente:
-
-1) richiami di matematica e fisica generale;
-
-2) costituzione della materia;
-
-3) produzione, assorbimento e misura delle radiazioni;
-
-4) statistica applicata alla medicina;
-
-5) informatica e cibernetica applicate alla radiologia.
-
-b) Radiodiagnostica (triennale) comprendente:
-
-1) principi generali di radiodiagnostica;
-
-2) apparecchi, strumenti e tecnica radiodiagnostica;
-
-3) tecnica e fisiologia applicate alla radiodiagnostica;
-
-4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;
-
-5) semeiotica radiologica;
-
-6) diagnostica differenziale radiologica;
-
-7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;
-
-8) dimostrazioni di casistica clinica.
-
-c) Radiobiologia (annuale) comprendente:
-
-1) radiobiologia generale;
-
-2) danni da radiazioni e radiopatie.
-
-d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:
-
-1) legislazione sanitaria applicata alla radiologia;
-
-2) compiti e responsabilita' medico-legali del radiologo;
-
-3) radioprotezione fisica e dosimetria ad essa connessa;
-
-4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;
-
-5) radioprotezione chimica;
-
-6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.
-
-I singoli insegnamenti, tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze e dimostrazioni pratiche, sono cosi' distribuiti nei tre anni di corso:
-
-1° Anno (tronco comune):
-
-Matematica, fisica, nozioni di statistica ed informatica;
-
-Radiobiologia;
-
-Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;
-
-Radiodiagnostica (I).
-
-2° Anno:
-
-Radiodiagnostica (II).
-
-3° Anno:
-
-Radiodiagnostica (III).
-
-Per essere ammessi agli esami di diploma in radiologia e in radiologia diagnostica, gli iscritti oltre ad aver compiuto un congruo periodo di internato, devono aver superato un esame su ciascuna materia d'insegnamento ed elaborata una tesi scritta su di un argomento radiologico concordato con il direttore della scuola.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 31 ottobre 1974
-
-LEONE
-
-MALFATTI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 3 marzo 1975 Atti di Governo, registro n. 8, foglio n. 163
+proposta del Ministro della pubblica istruzione; Decreta:
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
   
 Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+"L'art. 157, relativo alla scuola di specializzazione in odontostomatologia, e' modificato nel senso che il numero degli iscritti e' stabilito in dieci per anno per un totale complessivo di trenta iscritti per l'intero corso di studi".  
+
+Art. 2
+------
+
   
-L'art. 114, relativo alla scuola di specializzazione in ostetricia e ginecologia, e' modificato nel senso che il numero degli iscritti e' stabilito in trentadue (32) per l'intero corso di studi.  
-Gli articoli 128, 129, 130, relativi alla scuola di specializzazione in radiologia, sono abrogati e sostituiti dai seguenti.  
+Gli articoli 199, 200 e 201, relativi alla scuola di specializzazione in ortognatodonzia, sono soppressi e sostituiti dai seguenti:  
   
-Scuola di specializzazione in radiologia  
+Scuola di specializzazione in ortognatodonzia  
   
-Art. 128. - La scuola rilascia i seguenti diplomi di specializzazioni: in radiologia e in radiologia diagnostica.  
-La scuola e' riservata ai laureati in medicina e chirurgia, che possono essere accolti in numero massimo di trenta.  
-Art. 129. - La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia e' di quattro anni.  
-Gli insegnamenti sono i seguenti:  
+Art. 199. - La scuola di specializzazione in ortognatodonzia ha sede presso la cattedra di ortognatodonzia dell'Universita' di Cagliari e conferisce il diploma di specialista in ortognatodonzia.  
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazioni.  
+Il numero massimo degli allievi e' di sei per anno di corso e complessivamente di diciotto iscritti per l'intero corso di studi.  
+L'ammissione al corso avviene per titoli ed esami.  
+Art. 200. - Le materie di insegnamento sono le seguenti:  
   
-a) Matematica, fisica, nozioni di statistica e informatica (annuale) comprendente:  
-1) richiami di matematica e fisica generale;  
-2) costituzione della materia;  
-3) produzione, assorbimento e misura delle radiazioni;  
-4) statistica applicata alla medicina;  
-5) informatica e cibernetica applicate alla radiologia.  
+1) embriologia e anatomia dell'apparato stomatomatico;  
+2) fisiologia dell'apparato stomatognatico;  
+3) farmacologia clinica;  
+4) patologia odontostomatologica;  
+5) chirurgia odontostomatologica;  
+6) odontoiatria conservativa;  
+7) radiologia odontostomatologica;  
+8) stomatologia preventiva;  
+9) ortognatodonzia;  
+10) odontotecnica;  
+11) semeiotica ortognatodontica;  
+12) cefalometria clinica;  
+13) pedodonzia;  
+14) metallurgia e merceologia in ortognatodonzia;  
+15) pediatria auxologica applicata;  
+16) paradontologia;  
+17) chirurgia ortognatodontica;  
+18) genetica applicata;  
+19) statistica applicata alla ricerca scientifica;  
+20) medicina legale e delle assicurazioni in odontostomatologia; esercitazioni cliniche, di laboratorio e di cefalometria.  
   
-b) Radiodiagnostica (triennale) comprendente:  
-1) principi generali di radiodiagnostica;  
-2) apparecchi, strumenti e tecnica radiodiagnostica;  
-3) tecnica e fisiologia applicate alla radiodiagnostica;  
-4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;  
-5) semeiotica radiologica;  
-6) diagnostica differenziale radiologica;  
-7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;  
-8) dimostrazioni di casistica clinica.  
+La didattica del primo anno di corso e' particolarmente dedicata alla preparazione stomatologica di base, essenziale alla formazione dello specialista in ortognatodonzia.  
   
-c) Radiobiologia (annuale) comprendente:  
-1) radiobiologia generale;  
-2) danni da radiazioni e radiopatie.  
+Suddivisione delle materie di insegnamento nei tre anni di corso  
   
-d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:  
-1) legislazione sanitaria applicata alla radiologia;  
-2) compiti e responsabilita' medico-legali del radiologo;  
-3) radioprotezione fisica e dosimetria ad essa connessa;  
-4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;  
-5) radioprotezione chimica;  
-6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.  
-  
-e) Radioterapia e terapia fisica (triennale) comprendente:  
-1) radiobiologia applicata;  
-2) fondamenti generali di radioterapia e terapia fisica;  
-3) istopatologia speciale dei tumori;  
-4) nozioni sugli apparecchi e strumenti per la radioterapia;  
-5) tecnica e metodica radioterapica;  
-6) dosimetria;  
-7) clinica radioterapica;  
-8) fondamenti generali di chemioterapia oncologica;  
-9) chemioterapia clinica dei tumori e sua associazione alla radioterapia;  
-10) dimostrazione di casistica clinica.  
-  
-f) Medicina nucleare (biennale) comprendente:  
-1) elementi di medicina nucleare;  
-2) istrumentario, tecnica e metodica dell'impiego dei radioisotopi in medicina nucleare;  
-3) dosimetria dei radioisotopi somministrati per via interna;  
-4) diagnostica con radioisotopi somministrati per via interna;  
-5) radioterapia metabolica;  
-6) dimostrazioni di casistica clinica.  
-  
-I singoli insegnamenti, tenuti da uno o piu' docenti, a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze, dimostrazioni pratiche e, ove opportuno e possibile, da visite ad istituzioni di particolare interesse, sono cosi' distribuiti nei quattro anni di corso:  
-  
-1° Anno (tronco comune):  
-Matematica, fisica, nozioni di statistica ed informatica;  
-Radiobiologia;  
-Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;  
-Radiodiagnostica (I).  
+1° Anno:  
+1) embriologia e anatomia dell'apparato stomatognatico;  
+2) fisiologia dell'apparato stomatognatico (I anno biennale);  
+3) farmacologia clinica;  
+4) patologia odontostomatologica;  
+5) chirurgia odontostomatologica;  
+6) odontoiatria conservativa;  
+7) radiologia odontostomatologica;  
+8) stomatologia preventiva;  
+9) ortognatodonzia (I anno triennale);  
+10) odontotecnica;  
+esercitazioni cliniche;  
+esercitazioni di laboratorio.  
   
 2° Anno:  
-Radiodiagnostica (II);  
-Radioterapia e terapia fisica (I).  
+1) fisiologia dell'apparato stomatognatico (II anno biennale);  
+2) semeiotica ortognatodontica;  
+3) ortognatodonzia (II anno triennale);  
+4) cefalometria clinica (I anno biennale);  
+5) pedodonzia;  
+6) metallurgia e merceologia in ortognatodonzia;  
+7) pediatria auxologica applicata;  
+8) paradontologia;  
+esercitazioni cliniche;  
+esercitazioni di laboratorio.  
   
 3° Anno:  
-Radiodiagnostica (III);  
-Radioterapia e terapia fisica (II);  
-Medicina nucleare (I).  
+1) ortognatodonzia (III anno triennale);  
+2) cefalometria clinica (II anno biennale);  
+3) chirurgia ortognatodontica;  
+4) genetica applicata;  
+5) statistica applicata alla ricerca scientifica;  
+6) medicina legale e delle assicurazioni in odontostomatologia;  
+esercitazioni cliniche;  
+esercitazioni di laboratorio;  
+esercitazioni di cefalometria clinica.  
   
-4° Anno:  
-Radioterapia e terapia fisica (III);  
-Medicina nucleare (Il).  
-  
-Art. 130. - La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia diagnostica e' di tre anni.  
-Gli insegnamenti sono i seguenti:  
-  
-a) Matematica, fisica, nozioni di statistica e di informatica (annuale) comprendente:  
-1) richiami di matematica e fisica generale;  
-2) costituzione della materia;  
-3) produzione, assorbimento e misura delle radiazioni;  
-4) statistica applicata alla medicina;  
-5) informatica e cibernetica applicate alla radiologia.  
-  
-b) Radiodiagnostica (triennale) comprendente:  
-1) principi generali di radiodiagnostica;  
-2) apparecchi, strumenti e tecnica radiodiagnostica;  
-3) tecnica e fisiologia applicate alla radiodiagnostica;  
-4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;  
-5) semeiotica radiologica;  
-6) diagnostica differenziale radiologica;  
-7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;  
-8) dimostrazioni di casistica clinica.  
-  
-c) Radiobiologia (annuale) comprendente:  
-1) radiobiologia generale;  
-2) danni da radiazioni e radiopatie.  
-  
-d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:  
-1) legislazione sanitaria applicata alla radiologia;  
-2) compiti e responsabilita' medico-legali del radiologo;  
-3) radioprotezione fisica e dosimetria ad essa connessa;  
-4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;  
-5) radioprotezione chimica;  
-6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.  
-  
-I singoli insegnamenti, tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze e dimostrazioni pratiche, sono cosi' distribuiti nei tre anni di corso:  
-  
-1° Anno (tronco comune):  
-Matematica, fisica, nozioni di statistica ed informatica;  
-Radiobiologia;  
-Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;  
-Radiodiagnostica (I).  
-  
-2° Anno:  
-Radiodiagnostica (II).  
-  
-3° Anno:  
-Radiodiagnostica (III).  
-  
-Per essere ammessi agli esami di diploma in radiologia e in radiologia diagnostica, gli iscritti oltre ad aver compiuto un congruo periodo di internato, devono aver superato un esame su ciascuna materia d'insegnamento ed elaborata una tesi scritta su di un argomento radiologico concordato con il direttore della scuola.  
+I corsi sono integrati da seminari su argomenti di interesse interdisciplinare.  
+Art. 201.- La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria per l'intero anno scolastico. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.  
+Le vacanze sono conformi al calendario universitario con un solo mese completo estivo (agosto).  
+Gli esami di profitto teorici e pratici sono sostenuti alla fine di ogni anno in un'unica sessione.  
+L'iscrizione agli anni successivi e' subordinata al superamento degli esami. Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.  
+Alla fine del terzo anno, dopo aver superato gli esami di profitto, gli allievi sono ammessi a sostenere l'esame di diploma che consiste nella discussione di una tesi scelta su un argomento proposto dall'insegnante della materia su cui verte l'argomento e approvato dal direttore della scuola.  
+Ogni iscritto deve provvedere al corredo personale di strumenti.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1974
+### Dato a Roma, addi' 31 ottobre 1979
 
-LEONE MALFATTI
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 3 marzo 1975
+Registrato alla Corte dei conti, addi' 14 febbraio 1980
 
-Atti di Governo, registro n. 8, foglio n. 163
+Registro n. 10 Istruzione, foglio n. 393

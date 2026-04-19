@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1960 n. 959
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 settembre 1960 n. 1257
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1960 n. 959
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 settembre 1960 n. 1257
+=================================================================
 
 Introduzione in Italia di tabacchi lavorati esteri.
 ---------------------------------------------------
@@ -41,32 +41,24 @@ Art. 2
 ------
 
   
-I prezzi di tariffa e di vendita al pubblico dei sottoindicati prodotti esteri, di cui alla tabella allegato L al [decreto del Presidente della Repubblica 15 dicembre 1959, n. 1114](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-12-15;1114), sono stabiliti come segue:  
-  
-----> Parte di provvedimento in formato grafico <----  
+I prezzi di tariffa di cui al precedente articolo sono ripartiti nelle quote spettanti rispettivamente al fornitore, all'Amministrazione dei monopoli di Stato per spese di distribuzione, al rivenditore ed allo Stato a titolo di imposta, ai termini del [decreto del Presidente della Repubblica 18 aprile 1959, n. 167](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-04-18;167) (tabelle allegati C, E).  
 
 Art. 3
 ------
 
   
-I prezzi di tariffa di cui agli articoli 1 e 2 sono ripartiti nelle quote spettanti rispettivamente al fornitore, all'Amministrazione dei monopoli di Stato per spese di distribuzione, al rivenditore ed allo Stato a titolo di imposta, ai termini del [decreto del Presidente della Repubblica 18 aprile 1959, n. 167](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1959-04-18;167) (tabelle allegati B, C, E).  
-
-Art. 4
-------
-
-  
-Il presente decreto entra in vigore il giorno della pubblicazione nella Gazzetta Ufficiale della Repubblica.  
+Il presente decreto entra in vigore il giorno della pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 agosto 1960
+### Dato a Roma, addi' 26 settembre 1960
 
 GRONCHI FANFANI - TRABUCCHI
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 3 settembre 1960
+Registrato alla Corte dei conti, addi' 31 ottobre 1960
 
-Atti del Governo, registro n. 129, foglio n. 9. - VILLA
+Atti del Governo, registro n. 130, foglio n. 170. - VILLA

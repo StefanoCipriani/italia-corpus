@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 luglio 1978 n. 535
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1949 n. 994
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 luglio 1978 n. 535
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1949 n. 994
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
@@ -10,886 +10,624 @@ Modificazioni allo statuto dell'Universita' degli studi di Catania.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Catania approvato con il [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regi decreti 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527); [15 aprile 1942, n. 424](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-04-15;424); [5 settembre 1942, numero 1235](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-09-05;1235); [24 ottobre 1942, n. 1596](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-10-24;1596), e con i [decreti del Capo provvisorio dello Stato 22 ottobre 1946, numero 393](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-10-22;393); [22 ottobre 1946, n. 423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-10-22;423) e [20 luglio 1948, n. 1116](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1948-07-20;1116);
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Catania e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato come appresso:
 
-Art. 176 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, sono apportate le seguenti modifiche:
+Sono istituite presso la Facolta' di medicina e chirurgia dell'Universita' di Catania le seguenti scuole di specializzazione "malattie dell'apparato cardiovascolare", "ostetricia e ginecologia" "oculistica" "chirurgia generale".
 
-la scuola di specializzazione in malattie dell'apparato cardiovascolare muta la denominazione in quella di scuola di specializzazione in cardiologia;
+Dopo l'art. 98 vengono aggiunti i seguenti nuovi articoli:
 
-la scuola di specializzazione in malattie dell'apparato digerente muta la denominazione in quella di scuola di specializzazione in gastroenterologia ed endoscopia digestiva.
+Facolta' di medicina e chirurgia.
 
-Allo stesso elenco sono aggiunte le scuole di specializzazione in chirurgia plastica, chirurgia pediatrica, chirurgia toracica.
+Art. 99.
 
-Gli articoli 203 e 204, relativi alla scuola di specializzazione in malattie dell'apparato cardiovascolare, che muta la denominazione in quella di scuola di specializzazione in cardiologia, sono abrogati e sostituiti dai seguenti:
+Sono istituite, presso la Facolta' di medicina e chirurgia, le seguenti Scuole di specializzazione:
 
-Scuola di specializzazione in cardiologia
+1. Malattie dell'apparato cardio-vascolare;
 
-Art. 203. - La scuola di specializzazione in cardiologia ha sede presso la cattedra di cardiologia e conferisce il diploma di specialista in cardiologia.
+2. Ostetricia e ginecologia;
 
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione e, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+3. Oculistica;
 
-Possono iscriversi alla scuola di specializzazione
+4. Chirurgia generale.
 
-I laureati in medicina e chirurgia in possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+Art. 100.
 
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.
+Alle Scuole di specializzazione sono ammessi i laureati in medicina e chirurgia che abbiano conseguito l'abilitazione all'esercizio della professione di medicochirurgo.
 
-Il numero massimo degli allievi e' di 12 per anno di corso.
+La domanda di ammissione ad una scuola, diretta al rettore, dovra' essere corredata del diploma di maturita' classica, o scientifica, del diploma originale di laurea, del certificato di carriera scolastica, del certificato di abilitazione all'esercizio della professione di medico-chirurgo con le relative votazioni e di tutti quei titoli che l'aspirante ritenga di presentare.
 
-L'ammissione al corso avviene per titoli ed esami.
+Art. 101.
 
-Art. 204. - Le materie di insegnamento sono le seguenti:
+Le domande sono rimesse dal rettore al direttore della Scuola il quale, dopo aver valutato comparativamente le carriere scolastiche e gli altri eventuali titoli, procede alla graduatoria degli aspiranti che deve essere approvata e resa esecutiva dal preside della Facolta'.
 
-1° Anno:
+Art. 102.
 
-1) anatomia umana normale ed embriologia dello apparato cardiovascolare;
+Per ciascuna Scuola di specializzazione e' stabilito il numero massimo di allievi che vi possono essere accolti.
 
-2) fisiologia dell'apparato cardiovascolare (I);
+Art. 103.
 
-3) biochimica e biofisica;
+Tutte le questioni che riguardano il funzionamento delle scuole di specializzazione comprese quelle concernenti la carriera scolastica degli allievi, sono deferite all'esame della Facolta' di medicina e chirurgia ed alla decisione del rettore.
 
-4) semeiotica fisica e strumentale dell'apparato cardiovascolare (I);
+Art. 104.
 
-5) informatica medica e strumentazione biomedica.
+La vigilanza sul funzionamento della Scuola compete al preside della Facolta' di medicina e chirurgia.
 
-2° Anno:
+Il direttore di ogni Scuola dovra' vigilare sulla frequenza, l'attivita' e la disciplina degli allievi, controllando l'osservanza degli orari delle lezioni, delle esercitazioni e dei turni di servizio interno.
 
-1) anatomia patologica (I);
+Art. 105.
 
-2) fisiologia dell'apparato cardiovascolare (II);
+La direzione delle Scuole di specializzazione e' normalmente affidata al professore che tiene a titolo ufficiale l'insegnamento che forma oggetto della specializzazione. Ove cio' non sia possibile, il rettore, su proposta della Facolta', la affida ad un professore di ruolo il cui insegnamento sia compreso fra quelli impartiti nella Scuola stessa.
 
-3) patologia e clinica cardiovascolare (I);
+Art. 106.
 
-4) semeiotica fisica e strumentale dell'apparato cardiovascolare (II);
+Gli insegnamenti delle materie che sono nel programma della scuola, sono affidati, per incarico, a professori titolari, a liberi docenti o a persona di riconosciuta competenza, con deliberazione della Facolta'.
 
-5) informatica medica e strumentale biomedica (II);
+Art. 107.
 
-6) radiologia (I);
+A quegli aspiranti che, oltre alle condizioni prescritte per l'ammissione normale, documentino il possesso di titoli comprovanti speciale preparazione tecnica e culturale, possono essere consentite, con motivata deliberazione della Facolta', abbreviazioni di corso, non superiori ad un terzo degli anni prescritti per ogni ramo di specializzazione.
 
-7) aspetti sociali ed epidemiologici delle malattie cardiovascolari.
+Chi ottiene l'abbreviazione del corso e' tenuto inoltre a sostenere e superare gli esami speciali che siano eventualmente previsti per gli anni di corso dai quali e' stato dispensato e a pagare le relative tasse.
 
-3° Anno:
+Con tali ammissioni non puo' essere in ogni caso superato il numero degli allievi assegnati alla Scuola.
 
-1) anatomia patologica (II);
+Art. 108.
 
-2) semeiotica fisica e strumentale dell'apparato cardiovascolare (III);
+Gli allievi sono tenuti ad osservare scrupolosamente l'orario delle lezioni e delle esercitazioni ed a compiere i turni di internato stabiliti per ciascuna Scuola. Essi non potranno, sotto pena di esclusione dall'esame di diploma, tenere altre occupazioni, anche di carattere professionale, che li distolgano dai loro doveri verso la Scuola.
 
-3) patologia e clinica cardiovascolare (II);
+La frequenza ai corsi, alle esercitazioni cliniche e di laboratorio e' obbligatoria e deve essere attestata dai singoli insegnanti su uno speciale libretto sul quale il direttore della Scuola dovra' apporre il visto per la validita' di ciascun anno di corso. L'iscritto che non abbia soddisfatto in tutto o in parte agli obblighi suddetti non viene ammesso all'anno successivo.
 
-4) radiologia (II);
+Art. 109.
 
-5) terapia medica e farmacologia clinica (I).
+La sorveglianza sugli iscritti per tutto quanto riguarda la loro attivita' spetta al direttore della Scuola.
 
-4° Anno:
+Art. 110.
 
-1) semeiotica fisica e strumentale dell'apparato cardiovascolare (IV);
+Agli allievi piu' meritevoli il rettore puo' conferire, su proposta del direttore della Scuola, e col parere favorevole della Facolta', le funzioni e la qualifica di assistente o di aiuto volontario.
 
-2) patologia e clinica cardiovascolare (III);
+Art. 111.
 
-3) terapia medica e farmacologia clinica (II);
+Gli insegnamenti e le esercitazioni delle scuole di specializzazione sono tenuti distinti da quelli per gli studenti del corso di laurea in medicina e chirurgia.
 
-4) terapia chirurgica;
+Art. 112.
 
-5) terapie intensive cardiologiche.
+Gli insegnamenti possono avere, oltreche' carattere di lezioni cattedratiche, quella diversa forma che e' consentita dall'indole di ciascuna disciplina.
 
-La frequenza alle lezioni e alle esercitazioni pratiche e obbligatoria.
+Art. 113.
 
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esami.
+Il programma di ogni Scuola viene compilato ogni anno dal direttore della scuola e deve essere approvato dalla Facolta', cosi' pure gli orari settimanali di insegnamento e di esercitazioni dopo essere stati concordati dal direttore della scuola con gli altri insegnanti.
 
-Alla fine di ogni corso gli iscritti, per essere ammessi anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno.
+Art. 114.
 
-Al termine del corso di studi per il conseguimento del diploma di specialista in cardiologia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento di carattere cardiologico.
+I corsi di insegnamento si uniformano al calendario dell'Universita'; per quanto riguarda, invece, le esercitazioni ed i servizi interni, l'attivita' delle Scuole si estende all'intero anno solare.
 
-L'art. 244, relativo alla scuola di specializzazione in malattie dell'apparato digerente, che muta la denominazione in quella di scuola di specializzazione in gastroenterologia ed endoscopia digestiva, e' soppresso e sostituito dal seguente:
+Art. 115.
 
-Scuola di specializzazione in gastroenterologia ed endoscopia digestiva
+Gli esami di profitto vengono sostenuti dagli allievi alla fine di ogni anno di corso e si svolgono per singole discipline.
 
-Art. 244. - La scuola di specializzazione in gastroenterologia ed endoscopia digestiva ha sede presso la cattedra di gastroenterologia (presso la clinica medica II) dell'Universita' di Catania e conferisce il diploma di specialista in gastroenterologia ed endoscopia digestiva.
+Le Commissioni relative vengono nominate dal direttore della Scuola e gli esami si svolgono secondo le norme vigenti per gli esami di profitto delle Facolta' universitarie.
 
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+Art. 116.
 
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.
+Per le materie a corso pluriennale l'esame e' unico e deve essere sostenuto alla fine del corso.
 
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+Art. 117.
 
-La durata del corso e' di quattro anni e non e' suscettibile di abbreviazione.
+Gli esami di diploma consistono nelle discussione di una dissertazione originale scritta e di prove pratiche stabilite dalla Commissione, e si svolgono secondo le norme vigenti per gli esami di laurea delle Facolta' universitarie.
 
-Il numero massimo degli allievi e' di 15 per anno di corso e complessivamente di 60 iscritti per l'intero corso di studi.
+Art. 118.
 
-L'ammissione al corso avviene per titoli ed esami.
+La Commissione per l'esame di diploma e' nominata dal rettore. Essa e' composta di cinque membri di cui uno e' il direttore della scuola, due sono scelti dal rettore fra i professori titolari, emeriti e onorari della disciplina o di discipline affini alla specializzazione; uno e' scelto in una terna proposta dall'Ordine dei medici, tratta fra primari ospedalieri o sanitari di riconosciuta dottrina e capacita' nella materia; uno scelto tra i liberi docenti della disciplina o di disciplina affine alla specializzazione designata dalla Facolta'.
 
-Le materie di insegnamento sono le seguenti:
+Art. 119.
 
-1° Anno:
+Di ogni Commissione esaminatrice presidente e' il direttore della scuola.
 
-1) anatomia clinica;
+Il rettore designa chi deve sostituirlo in caso di impedimento o di assenza e nomina due supplenti, di cui uno puo' essere scelto fra i liberi docenti.
 
-2) farmacologia clinica;
+Art. 120.
 
-3) chimica clinica, coprologica, parassitologica;
+Non possono far parte della Commissione esaminatrice persone che siano fra loro o con alcuno dei candidati parenti o affini sino al quarto grado incluso.
 
-4) genetica;
+Art. 121.
 
-5) biostatistica ed epidemiologia.
+Tutti gli atti e documenti relativi agli esami di specializzazione sono conservati dalla Segreteria della Universita', che con la procedura normale rilascia i certificati che siano richiesti dagli interessati.
 
-2° Anno:
+Art. 122.
 
-1) clinica medica generale (I);
+In base ai risultati degli esami di diploma, il rettore dispone la compilazione dei diplomi di specialista, che dovranno essere muniti della sua firma, di quella del direttore della scuola e del direttore amministrativo, oltreche' del timbro a secco dell'Universita'.
 
-2) clinica e terapia del tubo digerente, fegato e pancreas (I);
+Art. 123.
 
-3) anatomia ed istologia patologica (I);
+Per la carriera scolastica, gli esami e la disciplina degli allievi delle Scuole di specializzazione valgono, in quanto applicabili, e per quanto non prescritto dai presente ordinamento le disposizioni del Regolamento approvato con [regio decreto 4 giugno 1938, n. 1269](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-04;1269).
 
-4) fisiopatologia e semeiotica digestiva (I);
+Art. 124.
 
-5) radiologia e medicina nucleare (I);
+Le tasse e sopratasse sono ragguagliate a quelle sta bilite per il corso di laurea in medicina e chirurgia, mentre i contributi clinici e di laboratorio sono stabiliti dal Consiglio di amministrazione dell'Universita', udita la Facolta' di medicina e chirurgia.
 
-6) scienza dell'alimentazione e dietetica.
+Tasse, sopratasse e contributi sono versati alla Cassa dell'Universita'.
 
-3° Anno:
+La tassa diploma in L. 800 va versata all'Erario.
 
-1) clinica medica generale (II);
+Art. 125.
 
-2) clinica e terapia del tubo digerente, fegato e pancreas (II);
+Le disposizioni vigenti relative all'esonero dalle tasse, sopratasse e contributi a qualsiasi titolo, non si applicano agli iscritti alle scuole di specializzazione.
 
-3) anatomia ed istologia patologica (II);
+Scuola di specializzazione in malattie dell'apparato cardio-vascolare.
 
-4) fisiopatologia e semeiotica digestiva (II);
+Art. 126.
 
-5) radiologia e medicina nucleare (II);
+Il corso di studi della scuola di specializzazione in malattie dell'apparato cardio-vascolare ha la durata di tre anni.
 
-6) endoscopia digestiva (I).
+La Scuola non puo' accogliere piu' di otto iscritti per ciascun anno di corso.
 
-4° Anno:
+Art. 127.
 
-1) clinica medica generale (III);
+Gli insegnamenti impartiti nella Scuola sono:
 
-2) clinica e terapia del tubo digerente, fegato e pancreas (III);
+1. Anatomia clinica dell'apparato cardio-vascolare;
 
-3) endoscopia digestiva (II);
+2. Fisiopatologia del circolo (triennale);
 
-4) terapia intensiva;
+3. Batteriologia;
 
-5) gastroenterologia pediatrica;
+4. Patologia speciale (biennale);
 
-6) elementi di chirurgia del tubo digerente, fegato e pancreas.
+5. Clinica delle malattie dell'apparato cardio-vascolare (triennale);
 
-E' obbligatorio il tirocinio pratico durante il quadriennio di studi da svolgere nell'istituto clinico sede della scuola o in reparti ospedalieri di gastroenterologia conforme alle scelte approvate dal consiglio della scuola. Ogni scuola puo' aggiungere a queste materie fondamentali obbligatorie delle materie complementari con corsi semestrali, in numero non superiore a 6 per la totalita' del corso.
+6. Anatomia patologica dell'apparato cardio-vascolare (biennale);
 
-Per le materie biennali e triennali sara' dato l'esame alla fine del biennio e del triennio..
+7. Elettro cardiografia e metodi grafici;
 
-La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.
+8. Malattie dell'apparato cardio-vascolare dal punto di vista medico-legale, infortunistico e assicurativo;
 
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+9. Radiologia speciale;
 
-Alla fine di ogni anno di corso, gli iscritti per essere ammessi agli anni successivi devono superare le prove di esame sulle materie impartite durante l'anno; per le materie biennali o triennali, invece, sara' dato l'esame alla fine del biennio o del triennio.
+10. Chirurgia dell'apparato cardio-vascolare.
 
-Al termine del corso di studi per il conseguimento del diploma di specialista in gastroenterologia ed endoscopia digestiva, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+Scuola di specializzazione in ostetricia e ginecologia.
 
-Gli articoli 251, 252, 253, relativi alla scuola di specializzazione in reumatologia, sono soppressi e sostituiti dai seguenti:
+Art. 128.
 
-Scuola di specializzazione in reumatologia
+Il corso di studi della Scuola di specializzazione in ostetricia e ginecologia ha la durata di quattro anni.
 
-Art. 251. - La scuola di specializzazione in reumatologia ha sede presso l'istituto di patologia speciale medica I e conferisce il diploma di specialista in reumatologia.
+La Scuola non puo' accogliere piu' di cinque iscritti per ciascun anno di corso.
 
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+Art. 129.
 
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.
+Gli insegnamenti impartiti nella Scuola sono:
 
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+1. Anatomia ed embriologia dell'apparato urogenitale femminile;
 
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.
+2. Fisiologia ostetrico-ginecologica;
 
-Il numero massimo degli allievi e' di 14 per anno di corso e complessivamente di 56 iscritti per l'intero corso di studi.
+3. Igiene e legislazione sanitaria in rapporto alla gravidanza;
 
-L'ammissione al corso avviene per titoli ed esami.
+4. Patologia ostetrica e ginecologia (biennale);
 
-Le materie di insegnamento sono le seguenti:
+5. Semeiotica ostetrica e ginecologica (biennale);
 
-1° Anno:
+6. Puericoltura pre e postnatale;
 
-1) anatomia, istologia e morfogenesi dell'apparato locomotore;
+7. Venereologia;
 
-2) fisiologia e fisiopatologia dell'apparato locomotore;
+8. Medicina legale in rapporto all'ostetricia;
 
-4) microbiologia in relazione alle malattie reumatiche;
+9. Clinica ostetrica e ginecologica (triennale);
 
-5) immunologia reumatologica;
+10. Terapia ostetrica e ginecologia (biennale);
 
-6) semeiotica fisica e strumentale in reumatologia (1).
+11. Chirurgia addominale;
 
-2° Anno:
+12. Urologia ostetrica e ginecologica;
 
-1) semeiotica fisica e strumentale in reumatologia (II);
+13. Radiologia e radioterapia ostetrica e ginecologica;
 
-2) esami di laboratorio in reumatologia;
+14. Anatomia ed istologia patologica (triennale);
 
-3) diagnostica radiologica delle reumo-artropatie;
+15. Esercitazioni di chimica;
 
-4) farmacologia reumatologica;
+16. Esercitazioni di microbiologia;
 
-5) anatomia e istologia patologica delle malattie reumatiche;
+17. Esercitazioni di sierologia.
 
-6) clinica e terapia delle malattie reumatiche (I).
+Scuola di specializzazione in oculistica.
 
-3° Anno:
+Art. 130.
 
-1) clinica e terapia ortopedica (I);
+Il corso di studi della Scuola di specializzazione in oculistica ha la durata di tre anni.
 
-2) fisiochinesiterapia reumatologica;
+La Scuola non puo' accogliere piu' di quattro allievi per ciascun anno di corso.
 
-3) idro-climatologia di interesse reumatologico;
+Art. 131.
 
-4) clinica e terapia delle malattie reumatiche (II);
+Gli insegnamenti impartiti nella Scuola sono:
 
-5) reumo-artropatie professionali.
+1. Embriologia ed anatomia dell'occhio ed annessi;
 
-4° Anno:
+2. Fisiologia dell'occhio ed annessi. Ottica fisiologica e vizio di rifrazione;
 
-1) epidemiologia e aspetti sociali dei reumatismi;
+3. Semeiotica oculare-tecnica oftalmosconia;
 
-2) riabilitazione del malato reumatico;
+4. Patologia e clinica oculistica (biennale);
 
-3) clinica e terapia ortopedica (II);
+5. Terapia medica e chirurgia e profilassi delle malattie oculari;
 
-4) clinica e terapia delle malattie reumatiche (III).
+6. Patologia oculare in rapporto alla patologia generale;
 
-Art. 253. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+7. Oftalmologia esotica;
 
-Alla fine di ogni corso gli iscritti, per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie pratiche durante l'anno. Per le materie biennali o triennali l'esame sara' sostenuto alla fine del biennio o triennio. Al termine del corso di studi per il conseguimento del diploma di specialista in reumatologia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+8. Medicina legale ed infortunistica oftalmica;
 
-Dopo l'art. 264, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chirurgia plastica, chirurgia pediatrica, chirurgia toracica.
+9. Neuropatologia oculare;
 
-Scuola di specializzazione in chirurgia plastica
+10. Patologia oculare in rapporto alla otorinologia;
 
-Art. 265. - La scuola di specializzazione in chirurgia plastica ha sede presso la cattedra di chirurgia plastica ospedale Ferrarotto e conferisce il diploma di specialista in chirurgia plastica.
+11. Radiologia e radioterapia nelle loro applicazioni oftalmiche;
 
-Art. 266. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+12. Tecnica operativa;
 
-Art. 267. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto almeno all'inizio del corso il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+13. Esercitazioni di istologia patologica oculare;
 
-Art. 268. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbraviazioni.
+14. Esercitazioni di microbiologia oculare;
 
-Art. 269. - Il numero massimo degli allievi e' di 3 per anno di corso e complessivamente di 15 iscritti per l'intero corso di studi.
+15. Esercitazioni di sierologia nei rapporti oculari;
 
-Art. 270. - L'ammissione al corso avviene per titoli ed esami.
+16. Esercitazioni di chimica biologica nei rapporti oculari.
 
-Art. 271. - Le materie di insegnamento sono le seguenti:
+Scuola di specializzazione in chirurgia generale.
 
-1° Anno:
+Art. 132.
 
-1) anatomia ed embriologia, con particolare riguardo al capo, collo, arti superiori e inferiori, organi genitali;
+Il corso di studi della Scuola di specializzazione in chirurgia generale e' di cinque anni.
 
-2) patologia generale (infezioni, flogosi, immunita' etiopatogenesi delle malformazioni congenite, neoplasie maligne e benigne);
+La Scuola non puo' accogliere piu' di cinque allievi per ciascun anno di corso.
 
-3) anatomia e istopatologia, con particolare riferimento alla malattiaustione e alle neoplasie maligne e benigne;
+Art. 133.
 
-4) anestesiologia e rianimazione: concetti generali;
+Gli insegnamenti impartiti nella Scuola sono:
 
-5) patologia secondaria;
+1. Clinica chirurgica (quinquennale);
 
-6) guarigione delle ferite;
+2. Patologia chirurgica (biennale);
 
-7) principi e regole pratiche di chirurgia (strumenti, sterilita', emostasi);
+3. Semeiotica chirurgica;
 
-8) trapianti (I);
+4. Anatomia chirurgica;
 
-9) autoinnesti: indicazione per l'utilizzazione terapeutica di cute, derma, grasso, fascia, cartillagine, ossa, tendini, segmenti nervosi e tessuti composti;
+5. Anestesiologia;
 
-10) semeiologia del sistema nervoso periferico.
+6. Traumatologia;
 
-2° Anno:
+7. Radiologia applicata alla chirurgia;
 
-1) anatomia chirurgica;
+8. Anatomia patologica;
 
-2) tecniche e procedure operatorie in chirurgia generale e in chirurgia plastica;
+9. Chirurgia infantile;
 
-3) trapianti (II);
+10. Urologia;
 
-4) omoinnesti: concetti generali (con particolare riferimento agli aspetti genetici e immunitari);
+11. Chirurgia d'urgenza;
 
-5) tipizzazione dei tessuti;
+12. Ginecologia;
 
-6) utilizzazione clinica degli omoinnesti;
+13. Otorinolaringoiatria;
 
-7) etero-innesti: estensione e limiti della loro utilizzazione clinica;
+14. Neurochirurgia;
 
-8) inserti non biologici: estensione e limiti della loro utilizzazione clinica;
+15. Ortopedia;
 
-9) traumatologia dei tessuti molli;
+16. Tecnica chirurgica;
 
-10) traumi complessi interessanti cute, tessuti molli e ossa;
+17. Chirurgia toracica;
 
-11) shok emorragico;
+18. Chirurgia cranica;
 
-12) shok traumatico;
+19. Medicina legale in rapporto alla chirurgia;
 
-13) shok da ustione;
+20. Esercitazioni di chimica biologica;
 
-14) malattia-ustione: fisiopatologia e clinica (I).
+21. Esercitazioni di batteriologia e sierologia.
 
-3° Anno:
+Art. 134.
 
-1) malattia-ustione: terapia medica e chirurgica (II);
-
-2) lesioni da raggi;
-
-3) elementi di chirurgia addominale;
-
-4) elementi di otorinolaringoiatria;
-
-5) elementi di stomatologia;
-
-6) elementi di ortopedia generale;
-
-7) dermatologia generale, con specifico riferimento alle malattie o lesioni congenite di competenza plastica, passibili di trattamento chirurgico (I);
-
-8) clementi di genetica.
-
-4° Anno:
-
-1) metodologia chirurgica differenziale;
-
-2) malformazioni congenite del volto, delle mani e degli organi genitali;
-
-3) agenesie;
-
-4) chirurgia riparatrice e ricostruttiva della mano;
-
-5) trattamento chirurgico delle lesioni del volto e delle fratture del massiccio facciale;
-
-6) trattamento chirurgico delle deformita' congenite e acquisite del naso, delle labbra, del mento, della mandibola, del palato, del pavimento dell'orbita, del padiglione auricolare;
-
-7) metodologia chirurgica differenziale applicata ai danni anatomici e funzionali derivanti dalla paralisi del 7 Grado,;
-
-8) chirurgia d'urgenza;
-
-9) dermatologia generale, con specifico riferimento alle malattie o lesioni congenite di competenza plastica, passibili di trattamento chirurgico (II).
-
-5° Anno:
-
-1) patologia traumatica delle arterie e dei nervi periferici;
-
-2) elementi di chirurgia vascolare;
-
-3) microchirurgia vascolare nervosa;
-
-4) elementi di criobiologia e crioterapia;
-
-5) elementi di fisiochinesiterapia;
-
-6) problemi psichiatrici e psicologici in chirurgia plastica;
-
-7) medicina legale e delle assicurazioni, con particolare riferimento alle deformita' anatomiche e alle menomazioni funzionali di origine traumatica.
-
-Art. 272. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
-
-Art. 273. - E' fatto obbligo agli allievi del primo biennio a presenziare ad un minimo di 30 sedute operatorie per anni; gli allievi del 3°, 4° e 5° anno dovranno partecipare quali primi assistenti ad un numero di 50 interventi per anno.
-
-Art. 274. - Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno; per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi. Al termine del corso di studio per il conseguimento del diploma di specialista in chirurgia plastica, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
-
-Scuola di specializzazione in chirurgia pediatrica
-
-Art. 275. - La scuola di specializzazione in chirurgia pediatrica ha sede presso la prima patologia chirurgica dell'Universita' di Catania e conferisce il diploma di specialista in chirurgia pediatrica.
-
-Art. 276. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, dal professore di ruolo o fuori ruolo di materia affine.
-
-Art. 277. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
-
-Art. 278. - La durata del corso di studi e di cinque anni e non e' suscettibile di abbreviazione.
-
-Art. 279. - Il numero massimo degli allievi e di 3 per anno di corso e complessivamente di 15 iscritti per l'intero corso di studi.
-
-Art. 280. - L'ammissione al corso avviene per titoli ed esami.
-
-Art. 231. - Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-1) embriologia e genetica delle malformazioni congenite;
-
-2) anatomia patologica generale (I);
-
-3) diagnostica radiologica e nucleare generale;
-
-4) anestesiologia;
-
-5) clinica pediatrica (I);
-
-6) patologia e clinica chirurgica generale (I).
-
-2° Anno:
-
-1) patologia e clinica chirurgica generale (II);
-
-2) rianimazione e terapia intensiva (II);
-
-3) anatomia patologica generale;
-
-4) diagnostica radiologica e nucleare delle malattie infantili;
-
-5) clinica pediatrica (II).
-
-3° Anno:
-
-1) patologia e clinica chirurgica pediatrica (I);
-
-2) endocrinologia pediatrica;
-
-3) tecnica chirurgica generale;
-
-4) rianimazione e terapia intensiva (II);
-
-5) chirurgia neonatale.
-
-4° Anno:
-
-1) patologia e clinica chirurgica pediatrica (II);
-
-2) neurochirurgia pediatrica;
-
-3) tecnica chirurgica pediatrica;
-
-4) ortopedia pediatrica;
-
-5) chirurgia plastica e ricostruttiva pediatrica.
-
-5° Anno:
-
-1) patologia e clinica chirurgica pediatrica (III);
-
-2) otorinolaringoiatria pediatrica;
-
-3) cardiochirurgia pediatrica;
-
-4) urologia pediatrica.
-
-Art. 282. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
-
-Art. 283. - Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno ad eccezione delle discipline svolte in corsi pluriennali il cui esame sara' sostenuto alla fine dei corsi medesimi.
-
-Art. 284. - Al termine del corso di studi per il conseguimento del diploma di specialista in chirurgia pediatrica gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
-
-Scuola di specializzazione in chirurgia toracica
-
-Art. 285. - La scuola di specializzazione in chirurgia toracica ha sede presso l'istituto di patologia speciale chirurgica seconda e conferisce il diploma di specialista in chirurgia toracica.
-
-Art. 286. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
-
-Art. 287. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente,
-
-Art. 288. - La durata del corso di studi e' di cinque anni, non suscettibile di abbreviazione e prevede l'insegnamento di tutte le branche della chirurgia toracica, chirurgia polmonare, chirurgia cardiaca, chirurgia esofagea, chirurgia del mediastino e della parete toracica.
-
-Art. 289. - Il numero massimo degli allievi e' di 4 per anno di corso e complessivamente di 20 iscritti per l'intero corso di studi.
-
-Art. 290. - L'ammissione al corso avviene per concorso per titoli ed esami.
-
-Art. 291. - Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-1) embriologia, anatomia descrittiva e topografia del torace e degli organi endotoracici;
-
-2) anatomia chirurgica del torace e degli organi endotoracici;
-
-3) anatomia patologica delle malattie del torace (I);
-
-4) anestesia in chirurgia toracica.
-
-2° Anno:
-
-1) fisiopatologia dell'apparato respiratorio;
-
-2) fisiopatologia dell'apparato cardiocircolatorio;
-
-3) semeiotica dell'apparato respiratorio, dell'esofago e del mediastino;
-
-4) semeiotica dell'apparato cardiocircolatorio;
-
-5) anatomia patologica delle malattie del torace (II).
-
-3° Anno:
-
-1) patologia e clinica chirurgica delle affezioni dell'apparato respiratorio, del mediastino e della parete toracica (I);
-
-2) patologia e clinica chirurgica delle affezioni del cuore e dei grossi vasi endotoracici;
-
-3) patologia e clinica chirurgica delle affezioni dell'esofago e del diaframma;
-
-4) elementi di terapia medica delle cardio-angiopatie;
-
-5) elementi di fisioterapia respiratoria;
-
-6) diagnostica radiologica nelle malattie chirurgiche del torace.
-
-4° Anno:
-
-1) patologia e clinica chirurgica delle affezioni dell'apparato respiratorio, del mediastino e della parete toracica (II);
-
-2) tecnica operatoria per le affezioni della parete toracica, dell'apparato respiratorio dell'esofago, del mediastino e del diaframma (I);
-
-3) tecnica operatoria delle affezioni del cuore, pericardio e grossi vasi endotoracici;
-
-4) principi e tecniche della circolazione extracorporea.
-
-5° Anno:
-
-1) terapia intensiva e rianimazione in chirurgia toracica;
-
-2) tecnica operatoria per le affezioni della parete toracica, dell'apparato respiratorio, dell'esofago, del mediastino e del diaframma (II);
-
-3) terapia chirurgica della tbc pleuropolmonare.
-
-Art. 292. - Il corso si compone di lezioni, di esercitazioni pratiche, di periodi di internato, di conferenze riguardanti argomenti specialistici, di turni in corsia ed in sala operatoria. La frequenza ai corsi, agli internati, in corsia ed in sala operatoria, alle esercitazioni e' obbligatorio. In caso contrario i candidati non potranno ottenere l'attestazione di frequenza necessaria per l'ammissione agli esami.
-
-Art. 293. - Alla fine di ciascun anno di corso gli specializzandi che abbiano ottenuto la firma di frequenza dovranno sostenere un esame di profitto sulle materie di insegnamento il cui superamento e' condizione necessaria ed indispensabile per ottenere l'iscrizione all'anno successivo e, per quelli che sono stati iscritti al quinto anno, per l'ammissione all'esame di diploma. Durante il corso gli specializzandi frequenteranno la sala operatoria in maniera assidua, dovranno assistere a numerosi interventi di chirurgia toracica ed essere in grado di eseguirne essi stessi.
-
-Art. 294. - Per tutti gli specializzandi che hanno superato gli esami dei cinque anni, alla fine del quinto anno di corso ha luogo l'esame di diploma, consistente nella presentazione e discussione di una dissertazione scritta su un argomento di chirurgia toracica concordata con la direzione della scuola.
+Le spese relative al funzionamento delle predette Scuole saranno a carico del bilancio ordinario della Universita' di Catania.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 13 luglio 1978
+Dato a Dogliani, addi' 30 ottobre 1949
 
-PERTINI
+EINAUDI
 
-PEDINI
+GONELLA
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GRASSI
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 9 settembre 1978 Registro n. 100 Istruzione, foglio n. 229
+alla Corte dei conti, addi' 4 gennaio 1950 Atti del Governo, registro n. 31, foglio n. 11. - FRASCA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Catania e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);  
+Veduto lo statuto dell'Universita' degli studi di Catania approvato con il [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regi decreti 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527); [15 aprile 1942, n. 424](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-04-15;424); [5 settembre 1942, numero 1235](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-09-05;1235); [24 ottobre 1942, n. 1596](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-10-24;1596), e con i [decreti del Capo provvisorio dello Stato 22 ottobre 1946, numero 393](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-10-22;393); [22 ottobre 1946, n. 423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-10-22;423) e [20 luglio 1948, n. 1116](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1948-07-20;1116);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato come appresso:  
   
-Art. 176 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, sono apportate le seguenti modifiche:  
-la scuola di specializzazione in malattie dell'apparato cardiovascolare muta la denominazione in quella di scuola di specializzazione in cardiologia;  
-la scuola di specializzazione in malattie dell'apparato digerente muta la denominazione in quella di scuola di specializzazione in gastroenterologia ed endoscopia digestiva.  
-Allo stesso elenco sono aggiunte le scuole di specializzazione in chirurgia plastica, chirurgia pediatrica, chirurgia toracica.  
-Gli articoli 203 e 204, relativi alla scuola di specializzazione in malattie dell'apparato cardiovascolare, che muta la denominazione in quella di scuola di specializzazione in cardiologia, sono abrogati e sostituiti dai seguenti:  
+Sono istituite presso la Facolta' di medicina e chirurgia dell'Universita' di Catania le seguenti scuole di specializzazione "malattie dell'apparato cardiovascolare", "ostetricia e ginecologia" "oculistica" "chirurgia generale".  
+Dopo l'art. 98 vengono aggiunti i seguenti nuovi articoli:  
   
-Scuola di specializzazione in cardiologia  
+Facolta' di medicina e chirurgia.  
   
-Art. 203. - La scuola di specializzazione in cardiologia ha sede presso la cattedra di cardiologia e conferisce il diploma di specialista in cardiologia.  
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione e, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Possono iscriversi alla scuola di specializzazione  
-I laureati in medicina e chirurgia in possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.  
-Il numero massimo degli allievi e' di 12 per anno di corso.  
-L'ammissione al corso avviene per titoli ed esami.  
-Art. 204. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-1) anatomia umana normale ed embriologia dello apparato cardiovascolare;  
-2) fisiologia dell'apparato cardiovascolare (I);  
-3) biochimica e biofisica;  
-4) semeiotica fisica e strumentale dell'apparato cardiovascolare (I);  
-5) informatica medica e strumentazione biomedica.  
-2° Anno:  
-1) anatomia patologica (I);  
-2) fisiologia dell'apparato cardiovascolare (II);  
-3) patologia e clinica cardiovascolare (I);  
-4) semeiotica fisica e strumentale dell'apparato cardiovascolare (II);  
-5) informatica medica e strumentale biomedica (II);  
-6) radiologia (I);  
-7) aspetti sociali ed epidemiologici delle malattie cardiovascolari.  
-3° Anno:  
-1) anatomia patologica (II);  
-2) semeiotica fisica e strumentale dell'apparato cardiovascolare (III);  
-3) patologia e clinica cardiovascolare (II);  
-4) radiologia (II);  
-5) terapia medica e farmacologia clinica (I).  
-4° Anno:  
-1) semeiotica fisica e strumentale dell'apparato cardiovascolare (IV);  
-2) patologia e clinica cardiovascolare (III);  
-3) terapia medica e farmacologia clinica (II);  
-4) terapia chirurgica;  
-5) terapie intensive cardiologiche.  
-La frequenza alle lezioni e alle esercitazioni pratiche e obbligatoria.  
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esami.  
-Alla fine di ogni corso gli iscritti, per essere ammessi anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno.  
-Al termine del corso di studi per il conseguimento del diploma di specialista in cardiologia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento di carattere cardiologico.  
-L'art. 244, relativo alla scuola di specializzazione in malattie dell'apparato digerente, che muta la denominazione in quella di scuola di specializzazione in gastroenterologia ed endoscopia digestiva, e' soppresso e sostituito dal seguente:  
+Art. 99.  
   
-Scuola di specializzazione in gastroenterologia ed endoscopia digestiva  
+Sono istituite, presso la Facolta' di medicina e chirurgia, le seguenti Scuole di specializzazione:  
+1. Malattie dell'apparato cardio-vascolare;  
+2. Ostetricia e ginecologia;  
+3. Oculistica;  
+4. Chirurgia generale.  
   
-Art. 244. - La scuola di specializzazione in gastroenterologia ed endoscopia digestiva ha sede presso la cattedra di gastroenterologia (presso la clinica medica II) dell'Universita' di Catania e conferisce il diploma di specialista in gastroenterologia ed endoscopia digestiva.  
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-La durata del corso e' di quattro anni e non e' suscettibile di abbreviazione.  
-Il numero massimo degli allievi e' di 15 per anno di corso e complessivamente di 60 iscritti per l'intero corso di studi.  
-L'ammissione al corso avviene per titoli ed esami.  
-Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-1) anatomia clinica;  
-2) farmacologia clinica;  
-3) chimica clinica, coprologica, parassitologica;  
-4) genetica;  
-5) biostatistica ed epidemiologia.  
-2° Anno:  
-1) clinica medica generale (I);  
-2) clinica e terapia del tubo digerente, fegato e pancreas (I);  
-3) anatomia ed istologia patologica (I);  
-4) fisiopatologia e semeiotica digestiva (I);  
-5) radiologia e medicina nucleare (I);  
-6) scienza dell'alimentazione e dietetica.  
-3° Anno:  
-1) clinica medica generale (II);  
-2) clinica e terapia del tubo digerente, fegato e pancreas (II);  
-3) anatomia ed istologia patologica (II);  
-4) fisiopatologia e semeiotica digestiva (II);  
-5) radiologia e medicina nucleare (II);  
-6) endoscopia digestiva (I).  
-4° Anno:  
-1) clinica medica generale (III);  
-2) clinica e terapia del tubo digerente, fegato e pancreas (III);  
-3) endoscopia digestiva (II);  
-4) terapia intensiva;  
-5) gastroenterologia pediatrica;  
-6) elementi di chirurgia del tubo digerente, fegato e pancreas.  
-E' obbligatorio il tirocinio pratico durante il quadriennio di studi da svolgere nell'istituto clinico sede della scuola o in reparti ospedalieri di gastroenterologia conforme alle scelte approvate dal consiglio della scuola. Ogni scuola puo' aggiungere a queste materie fondamentali obbligatorie delle materie complementari con corsi semestrali, in numero non superiore a 6 per la totalita' del corso.  
-Per le materie biennali e triennali sara' dato l'esame alla fine del biennio e del triennio..  
-La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.  
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
-Alla fine di ogni anno di corso, gli iscritti per essere ammessi agli anni successivi devono superare le prove di esame sulle materie impartite durante l'anno; per le materie biennali o triennali, invece, sara' dato l'esame alla fine del biennio o del triennio.  
-Al termine del corso di studi per il conseguimento del diploma di specialista in gastroenterologia ed endoscopia digestiva, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
-Gli articoli 251, 252, 253, relativi alla scuola di specializzazione in reumatologia, sono soppressi e sostituiti dai seguenti:  
+Art. 100.  
   
-Scuola di specializzazione in reumatologia  
+Alle Scuole di specializzazione sono ammessi i laureati in medicina e chirurgia che abbiano conseguito l'abilitazione all'esercizio della professione di medicochirurgo.  
+La domanda di ammissione ad una scuola, diretta al rettore, dovra' essere corredata del diploma di maturita' classica, o scientifica, del diploma originale di laurea, del certificato di carriera scolastica, del certificato di abilitazione all'esercizio della professione di medico-chirurgo con le relative votazioni e di tutti quei titoli che l'aspirante ritenga di presentare.  
   
-Art. 251. - La scuola di specializzazione in reumatologia ha sede presso l'istituto di patologia speciale medica I e conferisce il diploma di specialista in reumatologia.  
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.  
-Il numero massimo degli allievi e' di 14 per anno di corso e complessivamente di 56 iscritti per l'intero corso di studi.  
-L'ammissione al corso avviene per titoli ed esami.  
-Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-1) anatomia, istologia e morfogenesi dell'apparato locomotore;  
-2) fisiologia e fisiopatologia dell'apparato locomotore;  
-4) microbiologia in relazione alle malattie reumatiche;  
-5) immunologia reumatologica;  
-6) semeiotica fisica e strumentale in reumatologia (1).  
-2° Anno:  
-1) semeiotica fisica e strumentale in reumatologia (II);  
-2) esami di laboratorio in reumatologia;  
-3) diagnostica radiologica delle reumo-artropatie;  
-4) farmacologia reumatologica;  
-5) anatomia e istologia patologica delle malattie reumatiche;  
-6) clinica e terapia delle malattie reumatiche (I).  
-3° Anno:  
-1) clinica e terapia ortopedica (I);  
-2) fisiochinesiterapia reumatologica;  
-3) idro-climatologia di interesse reumatologico;  
-4) clinica e terapia delle malattie reumatiche (II);  
-5) reumo-artropatie professionali.  
-4° Anno:  
-1) epidemiologia e aspetti sociali dei reumatismi;  
-2) riabilitazione del malato reumatico;  
-3) clinica e terapia ortopedica (II);  
-4) clinica e terapia delle malattie reumatiche (III).  
-Art. 253. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
-Alla fine di ogni corso gli iscritti, per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie pratiche durante l'anno. Per le materie biennali o triennali l'esame sara' sostenuto alla fine del biennio o triennio. Al termine del corso di studi per il conseguimento del diploma di specialista in reumatologia gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
-Dopo l'art. 264, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chirurgia plastica, chirurgia pediatrica, chirurgia toracica.  
+Art. 101.  
   
-Scuola di specializzazione in chirurgia plastica  
+Le domande sono rimesse dal rettore al direttore della Scuola il quale, dopo aver valutato comparativamente le carriere scolastiche e gli altri eventuali titoli, procede alla graduatoria degli aspiranti che deve essere approvata e resa esecutiva dal preside della Facolta'.  
   
-Art. 265. - La scuola di specializzazione in chirurgia plastica ha sede presso la cattedra di chirurgia plastica ospedale Ferrarotto e conferisce il diploma di specialista in chirurgia plastica.  
-Art. 266. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Art. 267. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto almeno all'inizio del corso il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-Art. 268. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbraviazioni.  
-Art. 269. - Il numero massimo degli allievi e' di 3 per anno di corso e complessivamente di 15 iscritti per l'intero corso di studi.  
-Art. 270. - L'ammissione al corso avviene per titoli ed esami.  
-Art. 271. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-1) anatomia ed embriologia, con particolare riguardo al capo, collo, arti superiori e inferiori, organi genitali;  
-2) patologia generale (infezioni, flogosi, immunita' etiopatogenesi delle malformazioni congenite, neoplasie maligne e benigne);  
-3) anatomia e istopatologia, con particolare riferimento alla malattiaustione e alle neoplasie maligne e benigne;  
-4) anestesiologia e rianimazione: concetti generali;  
-5) patologia secondaria;  
-6) guarigione delle ferite;  
-7) principi e regole pratiche di chirurgia (strumenti, sterilita', emostasi);  
-8) trapianti (I);  
-9) autoinnesti: indicazione per l'utilizzazione terapeutica di cute, derma, grasso, fascia, cartillagine, ossa, tendini, segmenti nervosi e tessuti composti;  
-10) semeiologia del sistema nervoso periferico.  
-2° Anno:  
-1) anatomia chirurgica;  
-2) tecniche e procedure operatorie in chirurgia generale e in chirurgia plastica;  
-3) trapianti (II);  
-4) omoinnesti: concetti generali (con particolare riferimento agli aspetti genetici e immunitari);  
-5) tipizzazione dei tessuti;  
-6) utilizzazione clinica degli omoinnesti;  
-7) etero-innesti: estensione e limiti della loro utilizzazione clinica;  
-8) inserti non biologici: estensione e limiti della loro utilizzazione clinica;  
-9) traumatologia dei tessuti molli;  
-10) traumi complessi interessanti cute, tessuti molli e ossa;  
-11) shok emorragico;  
-12) shok traumatico;  
-13) shok da ustione;  
-14) malattia-ustione: fisiopatologia e clinica (I).  
-3° Anno:  
-1) malattia-ustione: terapia medica e chirurgica (II);  
-2) lesioni da raggi;  
-3) elementi di chirurgia addominale;  
-4) elementi di otorinolaringoiatria;  
-5) elementi di stomatologia;  
-6) elementi di ortopedia generale;  
-7) dermatologia generale, con specifico riferimento alle malattie o lesioni congenite di competenza plastica, passibili di trattamento chirurgico (I);  
-8) clementi di genetica.  
-4° Anno:  
-1) metodologia chirurgica differenziale;  
-2) malformazioni congenite del volto, delle mani e degli organi genitali;  
-3) agenesie;  
-4) chirurgia riparatrice e ricostruttiva della mano;  
-5) trattamento chirurgico delle lesioni del volto e delle fratture del massiccio facciale;  
-6) trattamento chirurgico delle deformita' congenite e acquisite del naso, delle labbra, del mento, della mandibola, del palato, del pavimento dell'orbita, del padiglione auricolare;  
-7) metodologia chirurgica differenziale applicata ai danni anatomici e funzionali derivanti dalla paralisi del 7 Grado,;  
-8) chirurgia d'urgenza;  
-9) dermatologia generale, con specifico riferimento alle malattie o lesioni congenite di competenza plastica, passibili di trattamento chirurgico (II).  
-5° Anno:  
-1) patologia traumatica delle arterie e dei nervi periferici;  
-2) elementi di chirurgia vascolare;  
-3) microchirurgia vascolare nervosa;  
-4) elementi di criobiologia e crioterapia;  
-5) elementi di fisiochinesiterapia;  
-6) problemi psichiatrici e psicologici in chirurgia plastica;  
-7) medicina legale e delle assicurazioni, con particolare riferimento alle deformita' anatomiche e alle menomazioni funzionali di origine traumatica.  
-Art. 272. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
-Art. 273. - E' fatto obbligo agli allievi del primo biennio a presenziare ad un minimo di 30 sedute operatorie per anni; gli allievi del 3°, 4° e 5° anno dovranno partecipare quali primi assistenti ad un numero di 50 interventi per anno.  
-Art. 274. - Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno; per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi. Al termine del corso di studio per il conseguimento del diploma di specialista in chirurgia plastica, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
+Art. 102.  
   
-Scuola di specializzazione in chirurgia pediatrica  
+Per ciascuna Scuola di specializzazione e' stabilito il numero massimo di allievi che vi possono essere accolti.  
   
-Art. 275. - La scuola di specializzazione in chirurgia pediatrica ha sede presso la prima patologia chirurgica dell'Universita' di Catania e conferisce il diploma di specialista in chirurgia pediatrica.  
-Art. 276. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, dal professore di ruolo o fuori ruolo di materia affine.  
-Art. 277. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-Art. 278. - La durata del corso di studi e di cinque anni e non e' suscettibile di abbreviazione.  
-Art. 279. - Il numero massimo degli allievi e di 3 per anno di corso e complessivamente di 15 iscritti per l'intero corso di studi.  
-Art. 280. - L'ammissione al corso avviene per titoli ed esami.  
-Art. 231. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-1) embriologia e genetica delle malformazioni congenite;  
-2) anatomia patologica generale (I);  
-3) diagnostica radiologica e nucleare generale;  
-4) anestesiologia;  
-5) clinica pediatrica (I);  
-6) patologia e clinica chirurgica generale (I).  
-2° Anno:  
-1) patologia e clinica chirurgica generale (II);  
-2) rianimazione e terapia intensiva (II);  
-3) anatomia patologica generale;  
-4) diagnostica radiologica e nucleare delle malattie infantili;  
-5) clinica pediatrica (II).  
-3° Anno:  
-1) patologia e clinica chirurgica pediatrica (I);  
-2) endocrinologia pediatrica;  
-3) tecnica chirurgica generale;  
-4) rianimazione e terapia intensiva (II);  
-5) chirurgia neonatale.  
-4° Anno:  
-1) patologia e clinica chirurgica pediatrica (II);  
-2) neurochirurgia pediatrica;  
-3) tecnica chirurgica pediatrica;  
-4) ortopedia pediatrica;  
-5) chirurgia plastica e ricostruttiva pediatrica.  
-5° Anno:  
-1) patologia e clinica chirurgica pediatrica (III);  
-2) otorinolaringoiatria pediatrica;  
-3) cardiochirurgia pediatrica;  
-4) urologia pediatrica.  
-Art. 282. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
-Art. 283. - Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno ad eccezione delle discipline svolte in corsi pluriennali il cui esame sara' sostenuto alla fine dei corsi medesimi.  
-Art. 284. - Al termine del corso di studi per il conseguimento del diploma di specialista in chirurgia pediatrica gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
+Art. 103.  
   
-Scuola di specializzazione in chirurgia toracica  
+Tutte le questioni che riguardano il funzionamento delle scuole di specializzazione comprese quelle concernenti la carriera scolastica degli allievi, sono deferite all'esame della Facolta' di medicina e chirurgia ed alla decisione del rettore.  
   
-Art. 285. - La scuola di specializzazione in chirurgia toracica ha sede presso l'istituto di patologia speciale chirurgica seconda e conferisce il diploma di specialista in chirurgia toracica.  
-Art. 286. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Art. 287. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente,  
-Art. 288. - La durata del corso di studi e' di cinque anni, non suscettibile di abbreviazione e prevede l'insegnamento di tutte le branche della chirurgia toracica, chirurgia polmonare, chirurgia cardiaca, chirurgia esofagea, chirurgia del mediastino e della parete toracica.  
-Art. 289. - Il numero massimo degli allievi e' di 4 per anno di corso e complessivamente di 20 iscritti per l'intero corso di studi.  
-Art. 290. - L'ammissione al corso avviene per concorso per titoli ed esami.  
-Art. 291. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-1) embriologia, anatomia descrittiva e topografia del torace e degli organi endotoracici;  
-2) anatomia chirurgica del torace e degli organi endotoracici;  
-3) anatomia patologica delle malattie del torace (I);  
-4) anestesia in chirurgia toracica.  
-2° Anno:  
-1) fisiopatologia dell'apparato respiratorio;  
-2) fisiopatologia dell'apparato cardiocircolatorio;  
-3) semeiotica dell'apparato respiratorio, dell'esofago e del mediastino;  
-4) semeiotica dell'apparato cardiocircolatorio;  
-5) anatomia patologica delle malattie del torace (II).  
-3° Anno:  
-1) patologia e clinica chirurgica delle affezioni dell'apparato respiratorio, del mediastino e della parete toracica (I);  
-2) patologia e clinica chirurgica delle affezioni del cuore e dei grossi vasi endotoracici;  
-3) patologia e clinica chirurgica delle affezioni dell'esofago e del diaframma;  
-4) elementi di terapia medica delle cardio-angiopatie;  
-5) elementi di fisioterapia respiratoria;  
-6) diagnostica radiologica nelle malattie chirurgiche del torace.  
-4° Anno:  
-1) patologia e clinica chirurgica delle affezioni dell'apparato respiratorio, del mediastino e della parete toracica (II);  
-2) tecnica operatoria per le affezioni della parete toracica, dell'apparato respiratorio dell'esofago, del mediastino e del diaframma (I);  
-3) tecnica operatoria delle affezioni del cuore, pericardio e grossi vasi endotoracici;  
-4) principi e tecniche della circolazione extracorporea.  
-5° Anno:  
-1) terapia intensiva e rianimazione in chirurgia toracica;  
-2) tecnica operatoria per le affezioni della parete toracica, dell'apparato respiratorio, dell'esofago, del mediastino e del diaframma (II);  
-3) terapia chirurgica della tbc pleuropolmonare.  
-Art. 292. - Il corso si compone di lezioni, di esercitazioni pratiche, di periodi di internato, di conferenze riguardanti argomenti specialistici, di turni in corsia ed in sala operatoria. La frequenza ai corsi, agli internati, in corsia ed in sala operatoria, alle esercitazioni e' obbligatorio. In caso contrario i candidati non potranno ottenere l'attestazione di frequenza necessaria per l'ammissione agli esami.  
-Art. 293. - Alla fine di ciascun anno di corso gli specializzandi che abbiano ottenuto la firma di frequenza dovranno sostenere un esame di profitto sulle materie di insegnamento il cui superamento e' condizione necessaria ed indispensabile per ottenere l'iscrizione all'anno successivo e, per quelli che sono stati iscritti al quinto anno, per l'ammissione all'esame di diploma. Durante il corso gli specializzandi frequenteranno la sala operatoria in maniera assidua, dovranno assistere a numerosi interventi di chirurgia toracica ed essere in grado di eseguirne essi stessi.  
-Art. 294. - Per tutti gli specializzandi che hanno superato gli esami dei cinque anni, alla fine del quinto anno di corso ha luogo l'esame di diploma, consistente nella presentazione e discussione di una dissertazione scritta su un argomento di chirurgia toracica concordata con la direzione della scuola.  
+Art. 104.  
+  
+La vigilanza sul funzionamento della Scuola compete al preside della Facolta' di medicina e chirurgia.  
+Il direttore di ogni Scuola dovra' vigilare sulla frequenza, l'attivita' e la disciplina degli allievi, controllando l'osservanza degli orari delle lezioni, delle esercitazioni e dei turni di servizio interno.  
+  
+Art. 105.  
+  
+La direzione delle Scuole di specializzazione e' normalmente affidata al professore che tiene a titolo ufficiale l'insegnamento che forma oggetto della specializzazione. Ove cio' non sia possibile, il rettore, su proposta della Facolta', la affida ad un professore di ruolo il cui insegnamento sia compreso fra quelli impartiti nella Scuola stessa.  
+  
+Art. 106.  
+  
+Gli insegnamenti delle materie che sono nel programma della scuola, sono affidati, per incarico, a professori titolari, a liberi docenti o a persona di riconosciuta competenza, con deliberazione della Facolta'.  
+  
+Art. 107.  
+  
+A quegli aspiranti che, oltre alle condizioni prescritte per l'ammissione normale, documentino il possesso di titoli comprovanti speciale preparazione tecnica e culturale, possono essere consentite, con motivata deliberazione della Facolta', abbreviazioni di corso, non superiori ad un terzo degli anni prescritti per ogni ramo di specializzazione.  
+Chi ottiene l'abbreviazione del corso e' tenuto inoltre a sostenere e superare gli esami speciali che siano eventualmente previsti per gli anni di corso dai quali e' stato dispensato e a pagare le relative tasse.  
+Con tali ammissioni non puo' essere in ogni caso superato il numero degli allievi assegnati alla Scuola.  
+  
+Art. 108.  
+  
+Gli allievi sono tenuti ad osservare scrupolosamente l'orario delle lezioni e delle esercitazioni ed a compiere i turni di internato stabiliti per ciascuna Scuola. Essi non potranno, sotto pena di esclusione dall'esame di diploma, tenere altre occupazioni, anche di carattere professionale, che li distolgano dai loro doveri verso la Scuola.  
+La frequenza ai corsi, alle esercitazioni cliniche e di laboratorio e' obbligatoria e deve essere attestata dai singoli insegnanti su uno speciale libretto sul quale il direttore della Scuola dovra' apporre il visto per la validita' di ciascun anno di corso. L'iscritto che non abbia soddisfatto in tutto o in parte agli obblighi suddetti non viene ammesso all'anno successivo.  
+  
+Art. 109.  
+  
+La sorveglianza sugli iscritti per tutto quanto riguarda la loro attivita' spetta al direttore della Scuola.  
+  
+Art. 110.  
+  
+Agli allievi piu' meritevoli il rettore puo' conferire, su proposta del direttore della Scuola, e col parere favorevole della Facolta', le funzioni e la qualifica di assistente o di aiuto volontario.  
+  
+Art. 111.  
+  
+Gli insegnamenti e le esercitazioni delle scuole di specializzazione sono tenuti distinti da quelli per gli studenti del corso di laurea in medicina e chirurgia.  
+  
+Art. 112.  
+  
+Gli insegnamenti possono avere, oltreche' carattere di lezioni cattedratiche, quella diversa forma che e' consentita dall'indole di ciascuna disciplina.  
+  
+Art. 113.  
+  
+Il programma di ogni Scuola viene compilato ogni anno dal direttore della scuola e deve essere approvato dalla Facolta', cosi' pure gli orari settimanali di insegnamento e di esercitazioni dopo essere stati concordati dal direttore della scuola con gli altri insegnanti.  
+  
+Art. 114.  
+  
+I corsi di insegnamento si uniformano al calendario dell'Universita'; per quanto riguarda, invece, le esercitazioni ed i servizi interni, l'attivita' delle Scuole si estende all'intero anno solare.  
+  
+Art. 115.  
+  
+Gli esami di profitto vengono sostenuti dagli allievi alla fine di ogni anno di corso e si svolgono per singole discipline.  
+Le Commissioni relative vengono nominate dal direttore della Scuola e gli esami si svolgono secondo le norme vigenti per gli esami di profitto delle Facolta' universitarie.  
+  
+Art. 116.  
+  
+Per le materie a corso pluriennale l'esame e' unico e deve essere sostenuto alla fine del corso.  
+  
+Art. 117.  
+  
+Gli esami di diploma consistono nelle discussione di una dissertazione originale scritta e di prove pratiche stabilite dalla Commissione, e si svolgono secondo le norme vigenti per gli esami di laurea delle Facolta' universitarie.  
+  
+Art. 118.  
+  
+La Commissione per l'esame di diploma e' nominata dal rettore. Essa e' composta di cinque membri di cui uno e' il direttore della scuola, due sono scelti dal rettore fra i professori titolari, emeriti e onorari della disciplina o di discipline affini alla specializzazione; uno e' scelto in una terna proposta dall'Ordine dei medici, tratta fra primari ospedalieri o sanitari di riconosciuta dottrina e capacita' nella materia; uno scelto tra i liberi docenti della disciplina o di disciplina affine alla specializzazione designata dalla Facolta'.  
+  
+Art. 119.  
+  
+Di ogni Commissione esaminatrice presidente e' il direttore della scuola.  
+Il rettore designa chi deve sostituirlo in caso di impedimento o di assenza e nomina due supplenti, di cui uno puo' essere scelto fra i liberi docenti.  
+  
+Art. 120.  
+  
+Non possono far parte della Commissione esaminatrice persone che siano fra loro o con alcuno dei candidati parenti o affini sino al quarto grado incluso.  
+  
+Art. 121.  
+  
+Tutti gli atti e documenti relativi agli esami di specializzazione sono conservati dalla Segreteria della Universita', che con la procedura normale rilascia i certificati che siano richiesti dagli interessati.  
+  
+Art. 122.  
+  
+In base ai risultati degli esami di diploma, il rettore dispone la compilazione dei diplomi di specialista, che dovranno essere muniti della sua firma, di quella del direttore della scuola e del direttore amministrativo, oltreche' del timbro a secco dell'Universita'.  
+  
+Art. 123.  
+  
+Per la carriera scolastica, gli esami e la disciplina degli allievi delle Scuole di specializzazione valgono, in quanto applicabili, e per quanto non prescritto dai presente ordinamento le disposizioni del Regolamento approvato con [regio decreto 4 giugno 1938, n. 1269](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-06-04;1269).  
+  
+Art. 124.  
+  
+Le tasse e sopratasse sono ragguagliate a quelle sta bilite per il corso di laurea in medicina e chirurgia, mentre i contributi clinici e di laboratorio sono stabiliti dal Consiglio di amministrazione dell'Universita', udita la Facolta' di medicina e chirurgia.  
+Tasse, sopratasse e contributi sono versati alla Cassa dell'Universita'.  
+La tassa diploma in L. 800 va versata all'Erario.  
+  
+Art. 125.  
+  
+Le disposizioni vigenti relative all'esonero dalle tasse, sopratasse e contributi a qualsiasi titolo, non si applicano agli iscritti alle scuole di specializzazione.  
+  
+Scuola di specializzazione in malattie dell'apparato cardio-vascolare.  
+  
+Art. 126.  
+  
+Il corso di studi della scuola di specializzazione in malattie dell'apparato cardio-vascolare ha la durata di tre anni.  
+La Scuola non puo' accogliere piu' di otto iscritti per ciascun anno di corso.  
+  
+Art. 127.  
+  
+Gli insegnamenti impartiti nella Scuola sono:  
+1. Anatomia clinica dell'apparato cardio-vascolare;  
+2. Fisiopatologia del circolo (triennale);  
+3. Batteriologia;  
+4. Patologia speciale (biennale);  
+5. Clinica delle malattie dell'apparato cardio-vascolare (triennale);  
+6. Anatomia patologica dell'apparato cardio-vascolare (biennale);  
+7. Elettro cardiografia e metodi grafici;  
+8. Malattie dell'apparato cardio-vascolare dal punto di vista medico-legale, infortunistico e assicurativo;  
+9. Radiologia speciale;  
+10. Chirurgia dell'apparato cardio-vascolare.  
+  
+Scuola di specializzazione in ostetricia e ginecologia.  
+  
+Art. 128.  
+  
+Il corso di studi della Scuola di specializzazione in ostetricia e ginecologia ha la durata di quattro anni.  
+La Scuola non puo' accogliere piu' di cinque iscritti per ciascun anno di corso.  
+  
+Art. 129.  
+  
+Gli insegnamenti impartiti nella Scuola sono:  
+1. Anatomia ed embriologia dell'apparato urogenitale femminile;  
+2. Fisiologia ostetrico-ginecologica;  
+3. Igiene e legislazione sanitaria in rapporto alla gravidanza;  
+4. Patologia ostetrica e ginecologia (biennale);  
+5. Semeiotica ostetrica e ginecologica (biennale);  
+6. Puericoltura pre e postnatale;  
+7. Venereologia;  
+8. Medicina legale in rapporto all'ostetricia;  
+9. Clinica ostetrica e ginecologica (triennale);  
+10. Terapia ostetrica e ginecologia (biennale);  
+11. Chirurgia addominale;  
+12. Urologia ostetrica e ginecologica;  
+13. Radiologia e radioterapia ostetrica e ginecologica;  
+14. Anatomia ed istologia patologica (triennale);  
+15. Esercitazioni di chimica;  
+16. Esercitazioni di microbiologia;  
+17. Esercitazioni di sierologia.  
+  
+Scuola di specializzazione in oculistica.  
+  
+Art. 130.  
+  
+Il corso di studi della Scuola di specializzazione in oculistica ha la durata di tre anni.  
+La Scuola non puo' accogliere piu' di quattro allievi per ciascun anno di corso.  
+  
+Art. 131.  
+  
+Gli insegnamenti impartiti nella Scuola sono:  
+1. Embriologia ed anatomia dell'occhio ed annessi;  
+2. Fisiologia dell'occhio ed annessi. Ottica fisiologica e vizio di rifrazione;  
+3. Semeiotica oculare-tecnica oftalmosconia;  
+4. Patologia e clinica oculistica (biennale);  
+5. Terapia medica e chirurgia e profilassi delle malattie oculari;  
+6. Patologia oculare in rapporto alla patologia generale;  
+7. Oftalmologia esotica;  
+8. Medicina legale ed infortunistica oftalmica;  
+9. Neuropatologia oculare;  
+10. Patologia oculare in rapporto alla otorinologia;  
+11. Radiologia e radioterapia nelle loro applicazioni oftalmiche;  
+12. Tecnica operativa;  
+13. Esercitazioni di istologia patologica oculare;  
+14. Esercitazioni di microbiologia oculare;  
+15. Esercitazioni di sierologia nei rapporti oculari;  
+16. Esercitazioni di chimica biologica nei rapporti oculari.  
+  
+Scuola di specializzazione in chirurgia generale.  
+  
+Art. 132.  
+  
+Il corso di studi della Scuola di specializzazione in chirurgia generale e' di cinque anni.  
+La Scuola non puo' accogliere piu' di cinque allievi per ciascun anno di corso.  
+  
+Art. 133.  
+  
+Gli insegnamenti impartiti nella Scuola sono:  
+1. Clinica chirurgica (quinquennale);  
+2. Patologia chirurgica (biennale);  
+3. Semeiotica chirurgica;  
+4. Anatomia chirurgica;  
+5. Anestesiologia;  
+6. Traumatologia;  
+7. Radiologia applicata alla chirurgia;  
+8. Anatomia patologica;  
+9. Chirurgia infantile;  
+10. Urologia;  
+11. Chirurgia d'urgenza;  
+12. Ginecologia;  
+13. Otorinolaringoiatria;  
+14. Neurochirurgia;  
+15. Ortopedia;  
+16. Tecnica chirurgica;  
+17. Chirurgia toracica;  
+18. Chirurgia cranica;  
+19. Medicina legale in rapporto alla chirurgia;  
+20. Esercitazioni di chimica biologica;  
+21. Esercitazioni di batteriologia e sierologia.  
+  
+Art. 134.  
+  
+Le spese relative al funzionamento delle predette Scuole saranno a carico del bilancio ordinario della Universita' di Catania.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 luglio 1978
+### Dato a Dogliani, addi' 30 ottobre 1949
 
-PERTINI PEDINI
+EINAUDI GONELLA
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GRASSI
 
-Registrato alla Corte dei conti, addi' 9 settembre 1978
+Registrato alla Corte dei conti, addi' 4 gennaio 1950
 
-Registro n. 100 Istruzione, foglio n. 229
+Atti del Governo, registro n. 31, foglio n. 11. - FRASCA

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1976 n. 539
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1972 n. 371
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1976 n. 539
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1972 n. 371
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
@@ -10,17 +10,17 @@ Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933 n. 592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -28,342 +28,542 @@ Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso: Dopo l'art. 156, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in radiologia.
+Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Scuola di specializzazione in radiologia
+L'art. 109, relativo alla "Scuola di specializzazione in clinica ostetrica e ginecologica" che muta la denominazione in quella di "Scuola di specializzazione in ostetricia e ginecologia", e' abrogato e sostituito dal seguente:
 
-Art. 157. - La scuola rilascia i seguenti diplomi di specializzazione: in radiologia e in radiologia diagnostica.
+Scuola di specializzazione in ostetricia e ginecologia
 
-Art. 158. - La scuola e' riservata ai laureati in medicina e chirurgia che possono essere accolti in numero massimo di sei per ciascun anno di corso per radiologia e radiologia diagnostica (totale ventiquattro).
+Art. 109. - Il corso di studi per la specializzazione in ostetricia e ginecologia ha la durata di 4 anni. La ammissione alla scuola avviene a seguito di concorso per titoli ed esami.
 
-La durata dei corsi per il conseguimento del diploma di specialista in radiologia e' di 4 anni.
+Sono da considerarsi titoli preferenziali, a parita' di risultato dell'esame di ammissione:
 
-Gli insegnamenti sono i seguenti:
+a) il voto di laurea in medicina e chirurgia;
 
-a) matematica, fisica, nozioni di statistica e informatica (annuale) comprendente:
+b) aver frequentato come studente interno una clinica ostetrica e ginecologica dell'universita';
 
-1) richiami di matematica e fisica generale;
+c) aver svolto la tesi di laurea nella clinica ostetrica e ginecologica;
 
-2) costituzione della materia;
+d) documentazione di eventuali servizi prestati in grossi reparti ospitalieri della specialita';
 
-3) produzione, assorbimento e misura delle radiazioni;
+e) eventuali pubblicazioni.
 
-4) statistica applicata alla medicina;
+L'esame di ammissione deve espletarsi entro il mese di dicembre.
 
-5) informatica e cibernetica applicate alla radiologia;
+Il numero degli iscritti e' di quattro per ogni anno di corso.
 
-b) radiodiagnostica (triennale) comprendente:
+Per nessun motivo il corso di 4 anni puo' essere abbreviato. Nessun titolo puo' esonerare dalla frequenza gli iscritti nei 4 anni di corso.
 
-1) principi generali di radiodiagnostica;
+Gli iscritti, oltre all'obbligo di frequenza delle lezioni, esercitazioni, seminari, ecc., devono prestare servizio analogo a quello degli assistenti per non meno di 9 mesi all'anno.
 
-2) apparecchi, strumenti e tecnica radiodiagnostica;
+Gli iscritti alla scuola debbono sostenere esami annuali di profitto e l'esame finale di diploma. La sessione di esami di profitto e' unica, ed e' espletata nel mese di ottobre.
 
-3) tecnica e fisiologia applicate alla radio diagnostica;
+Non puo' essere iscritto all'anno successivo di corso chi non abbia superato le materie fondamentali della specialita'.
 
-4) i mezzi di contrasto artificiali in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;
+Il programma di studi e' il seguente:
 
-5) semeiotica radiologica;
+1° Anno:
 
-6) diagnostica differenziale radiologica;
+Elementi di genetica e di eugenica;
 
-7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;
+Anatomia normale ed embriologia dell'apparato genitale femminile;
 
-8) dimostrazioni di casistica clinica;
+Fisiologia dell'apparato genitale femminile;
 
-c) radiobiologia (annuale) comprendente:
+Endocrinologia fisiologica;
 
-1) radiobiologia generale;
+Fisiologia ostetrica;
 
-2) danni di radiazioni e radiopatie;
+Diagnostica ostetrica;
 
-d) protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:
-
-1) legislazione sanitaria applicata alla radiologia;
-
-2) compiti e responsabilita' medico-legali del radiologo;
-
-3) radioprotezione fisica e dosimetria ad essa connessa:
-
-4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;
-
-5) radioprotezione chimica;
-
-6) problemi tecnici e funzionali inerenti la progettazione, organizzazione e attivazione dei reparti radiologici;
-
-e) radioterapia e terapia fisica (triennale) comprendente:
-
-1) radiobiologia applicata;
-
-2) fondamenti generali di radioterapia e terapia fisica;
-
-3) istopatologia speciale dei tumori;
-
-4) nozioni sugli apparecchi e strumenti per la radioterapia;
-
-5) tecnica e metodica radioterapica;
-
-6) dosimetria;
-
-7) clinica radioterapica;
-
-8) fondamenti generali di chemioterapia oncologica;
-
-9) chemioterapia clinica dei tumori e sua associazione alla radioterapia;
-
-10) dimostrazione di casistica clinica;
-
-f) medicina nucleare (biennale) comprendente:
-
-1) elementi di medicina nucleare;
-
-2) istrumentario, tecnica e metodica dell'impiego dei radioisotopi in medicina nucleare;
-
-3) dosimetria dei radioisotopi somministrati per via interna;
-
-4) diagnostica con radioisotopi somministrati per via interna;
-
-5) radioterapia metabolica;
-
-6) dimostrazioni di casistica clinica.
-
-I singoli insegnamenti, tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze, dimostrazioni pratiche e, ove opportuno e possibile, da visite ad istituzioni di particolare interesse, sono cosi' distribuiti nei 4 anni di corso:
-
-1° Anno (tronco comune):
-
-matematica, fisica, nozioni di statistica ed informatica; radiologia; protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;
-
-radiodiagnostica (I).
+Clinica ostetrica e ginecologica.
 
 2° Anno:
 
-radiodiagnostica (II);
+Tecnica operatoria ostetrica;
 
-radioterapia e terapia fisica (I).
+Diagnostica ginecologica;
+
+Tecnica diagnostica di laboratorio nel campo ostetrico-ginecologico, esclusa la istologia (sierologia, batteriologia, citologia, ematologia, biochimica);
+
+Clinica ostetrica e ginecologica.
 
 3° Anno:
 
-radiodiagnostica (III);
+Anatomia patologica ostetrica e ginecologica;
 
-radioterapia e terapia fisica (II);
+Istologia normale e patologica nel campo della specialita';
 
-medicina nucleare (I).
+Puericultura prenatale;
+
+Emoterapia nel campo ostetrico e ginecologico;
+
+Anestesia e analgesia nel campo ostetrico e ginecologico;
+
+Tecnica operatoria ginecologica;
+
+Clinica ostetrica e ginecologica;
+
+Terapia medica ostetrica e ginecologica.
 
 4° Anno:
 
-radioterapia e terapia fisica (III);
+Puericultura postnatale e malattie del neonato;
 
-medicina nucleare (II).
+Ostetricia e ginecologia forense;
 
-La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia diagnostica e' di tre anni.
+Diagnostica roentgen, radioterapia in ostetricia e ginecologia;
 
-Gli insegnamenti sono i seguenti:
+Clinica ostetrica e ginecologica (esame alla fine del quarto anno);
 
-a) matematica, fisica, nozioni di statistica ed informatica (annuale) comprendente:
+Urologia ginecologica;
 
-1) richiami di matematica e fisica generale;
+Chirurgia addominale extra genitale.
 
-2) costituzione della materia;
+Gli esami si fanno per gruppi di materie ed i membri delle commissioni saranno preposti dai direttori delle scuole.
 
-3) produzione, assorbimento e misura delle radiazioni;
+A giudizio del consiglio della scuola, formulato sulla base del rendimento di ogni iscritto, gli specializzandi potranno essere esonerati dal pagamento delle tasse universitarie.
 
-4) statistica applicata alla medicina;
+Per il conseguimento del diploma, l'iscritto deve presentare e discutere una dissertazione scritta con contributo personale.
 
-5) informatica e cibernetica applicate alla radiologia;
+Gli articoli 110, 111, 112 e 113, relativi alla "Scuola di specializzazione in chirurgia generale" che cambia la denominazione in quella di "Scuola di specializzazione in chirurgia", sono abrogati e sostituiti dai seguenti:
 
-b) radiodiagnostica (triennale) comprendente:
+Scuola di specializzazione in chirurgia
 
-1) principi generali di radiodiagnostica;
+Art. 110. La scuola di specializzazione in chirurgia ha la durata di cinque anni. La sua sede naturale e' la clinica chirurgica. Il direttore della scuola deve essere un ordinario di clinica chirurgica di ruolo oppure uno dei membri titolari di materie chirurgiche della facolta'.
 
-2) apparecchi, strumenti e tecnica radiodiagnostica;
+Art. 111. - Alla scuola non potranno essere iscritti piu' di cinque laureati in medicina e chirurgia per ciascun anno di corso.
 
-3) tecnica e fisiologia applicate alla radiodiagnostica;
+La selezione dei candidati aspiranti all'ammissione alla scuola avverra' sulla base di titoli ed esami.
 
-4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;
+Le materie obbligatorie per il conseguimento del diploma sono le seguenti:
 
-5) semeiotica radiologica;
+Anatomia chirurgica e corso di operazioni (triennale);
 
-6) diagnostica differenziale radiologica;
+Anatomia ed istologia patologica (biennale);
 
-7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;
+Anestesia e rianimazione;
 
-8) dimostrazioni di casistica clinica;
+Chirurgia cardiovascolare;
 
-c) radiobiologia (annuale) comprendente:
+Chirurgia d'urgenza;
 
-1) radiobiologia generale;
+Chirurgia ginecologica;
 
-2) danni da radiazioni e radiopatie;
+Chirurgia pediatrica;
 
-d) protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:
+Chirurgia riparativa e plastica;
 
-1) legislazione sanitaria applicata alla radiologia;
+Chirurgia sperimentale;
 
-2) compiti e responsabilita' medico-legali del radiologo;
+Chirurgia toracica;
 
-3) radioprotezione fisica e dosimetria ad essa concessa;
+Chirurgia urologica;
 
-4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;
+Clinica chirurgica generale (quinquennale);
 
-5) radioprotezione chimica;
+Fisiopatologia chirurgica;
 
-6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.
+Medicina legale;
 
-I singoli insegnamenti, tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze e dimostrazioni pratiche, sono cosi' distribuiti nei tre anni di corso:
+Neurochirurgia;
 
-1° Anno (tronco comune):
+Patologia speciale chirurgica (triennale);
 
-matematica, fisica, nozioni di statistica ed informatica; radiobiologia; protezioni radiologiche; legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia; radiodiagnostica (I).
+Radiologia;
+
+Ricerche di laboratorio;
+
+Semeiotica chirurgica;
+
+Semeiotica strumentale ed endoscopica;
+
+Trattamento pre e post-operatorio;
+
+Traumatologia ed ortopedia.
+
+Le suddette materie sono cosi' distribuite negli anni di corso:
+
+1° Anno:
+
+Clinica chirurgica generale;
+
+Patologia speciale chirurgica;
+
+Semeiotica chirurgica;
+
+Anatomia chirurgica e corso operazioni;
+
+Chirurgia sperimentale;
+
+Anestesia e rianimazione;
+
+Ricerche di laboratorio.
 
 2° Anno:
 
-radiodiagnostica (II).
+Clinica chirurgica generale;
+
+Patologia speciale chirurgica;
+
+Semeiotica chirurgica;
+
+Anatomia chirurgica e corso operazioni;
+
+Fisiopatologia chirurgica;
+
+Trattamento pre e post-operatorio;
+
+Anatomia e istologia patologica.
 
 3° Anno:
 
-radiodiagnostica (III).
+Clinica chirurgica generale;
 
-Per essere ammessi agli esami di diploma in radiologia e in radiologia diagnostica gli iscritti, oltre ad aver compiuto un congruo periodo di internato, devono aver superato un esame su ciascuna materia d'insegnamento ed elaborata una tesi scritta su un argomento radiologico concordato con il direttore della scuola.
+Patologia speciale chirurgica;
+
+Semeiotica strumentale ed endoscopica;
+
+Anatomia chirurgica e corso operazioni;
+
+Radiologia;
+
+Anatomia ed istologia patologica.
+
+4° Anno:
+
+Clinica chirurgica generale;
+
+Chirurgia ginecologica;
+
+Chirurgia urologica;
+
+Neurochirurgia;
+
+Traumatologia e ortopedia;
+
+Chirurgia pediatrica.
+
+5° Anno:
+
+Clinica chirurgica generale;
+
+Chirurgia toracica;
+
+Chirurgia cardiovascolare;
+
+Chirurgia riparativa e plastica;
+
+Chirurgia d'urgenza;
+
+Medicina legale.
+
+Art. 112. - Non sono consentite iscrizioni con abbreviazioni di corso.
+
+La frequenza alle lezioni ed alle esercitazioni e' obbligatoria per tutti gli iscritti.
+
+L'internato e' obbligatorio durante tutti i cinque anni di corso e si svolge nella clinica chirurgica e negli istituti chirurgici specialistici, con presenza giornaliera nelle sale operatorie, negli ambulatori, nei laboratori e nelle sale di degenza secondo i turni stabiliti dal direttore della scuola.
+
+Dall'obbligo di tale internato saranno esentati quegli allievi che, in qualita' di assistenti e di aiuti, prestino effettivamente servizio presso reparti di chirurgia generale delle universita' e di ospedali di 1ª e 2ª categoria.
+
+Gli allievi hanno doveri ed attribuzioni analoghi a quelli degli assistenti.
+
+La frequenza nelle sale operatorie iniziera' fin dal primo anno di corso, e dopo un periodo di tirocinio, dovra' trasformarsi in compartecipazione attiva agli interventi operatori.
+
+Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico dell'operosita' scolastica degli allievi, con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno.
+
+L'allievo che non abbia ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali.
+
+Art. 113. - Alla fine del corso l'allievo dovra' sostenere un esame generale di profitto.
+
+Gli articoli 138, 139, 140 e 141, relativi alla "Scuola di specializzazione in clinica otorinolaringoiatrica" che cambia la denominazione in quella di "Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale", sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale
+
+Art. 138. - La scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale, ha sede presso la clinica otorinolaringoiatrica ed ha la durata di tre anni. Direttore della scuola e' il direttore della clinica otorinolaringoiatrica.
+
+Art. 139. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+Anatomia;
+
+Fisiologia;
+
+Audiologia (1° anno);
+
+Semeiotica otorinolaringoiatrica;
+
+Tecnica di laboratorio;
+
+Patologia otorinolaringoiatrica e cervico-facciale;
+
+Anatomia ed istologia patologica otorinolaringoiatrica.
+
+2° Anno:
+
+Tecniche operatorie in otorinolaringoiatria;
+
+Anestesiologia in otorinolaringoiatria;
+
+Patologia e clinica otorinolaringoiatrica e cervico-facciale (1° anno);
+
+Radiologia in rapporto con l'otorinolaringoiatria;
+
+Pediatria in rapporto con l'otorinolaringoiatria;
+
+Audiologia (2° anno);
+
+Otoneurologia;
+
+Foniatria.
+
+3° Anno:
+
+Patologia e clinica otorinolaringoiatrica e cervico-facciale (2° anno);
+
+Terapia medica e fisica in otorinolaringoiatria;
+
+Neuropatologia in rapporto con l'otorinolaringoiatria;
+
+Oculistica in rapporto con l'otorinolaringoiatria;
+
+Chirurgia plastica;
+
+Tracheo-broncoscopia;
+
+Medicina legale e infortunistica in otorinolaringoiatria.
+
+Art. 140. - Possono iscriversi alla scuola i laureati in medicina e chirurgia nel numero massimo di sei per ogni anno di corso.
+
+Gli iscritti sono tenuti non soltanto a presenziare alle lezioni ed a prendere parte alle esercitazioni, ma anche a svolgere un internato in modo da poter ricavare una esperienza diretta sia dall'attivita' nei reparti operatori che dall'osservazione clinica continuata del paziente.
+
+Art. 141. - Per accedere ai corsi successivi e' obbligatorio il superamento di tutti gli esami del corso precedente, ivi comprese le materie biennali.
+
+Il diploma di specialista in otorinolaringoiatria e patologia cervico-facciale viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinico o sperimentale.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 25 maggio 1976
+Dato a Roma, addi' 7 giugno 1972
 
 LEONE
 
-MALFATTI
+MISASI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 27 luglio 1976 Atti di Governo, registro n. 8 foglio n. 24
+alla Corte dei conti, addi' 25 luglio 1972 Atti del Governo, registro n. 250, foglio n. 68. - CARUSO
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933 n. 592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso: Dopo l'art. 156, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in radiologia.   
-Scuola di specializzazione in radiologia   
-Art. 157. - La scuola rilascia i seguenti diplomi di specializzazione: in radiologia e in radiologia diagnostica.   
-Art. 158. - La scuola e' riservata ai laureati in medicina e chirurgia che possono essere accolti in numero massimo di sei per ciascun anno di corso per radiologia e radiologia diagnostica (totale ventiquattro).   
-La durata dei corsi per il conseguimento del diploma di specialista in radiologia e' di 4 anni.   
-Gli insegnamenti sono i seguenti:   
-a) matematica, fisica, nozioni di statistica e informatica (annuale) comprendente:   
-1) richiami di matematica e fisica generale;   
-2) costituzione della materia;   
-3) produzione, assorbimento e misura delle radiazioni;   
-4) statistica applicata alla medicina;   
-5) informatica e cibernetica applicate alla radiologia;   
-b) radiodiagnostica (triennale) comprendente:   
-1) principi generali di radiodiagnostica;   
-2) apparecchi, strumenti e tecnica radiodiagnostica;   
-3) tecnica e fisiologia applicate alla radio diagnostica;   
-4) i mezzi di contrasto artificiali in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;   
-5) semeiotica radiologica;   
-6) diagnostica differenziale radiologica;   
-7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;   
-8) dimostrazioni di casistica clinica;   
-c) radiobiologia (annuale) comprendente:   
-1) radiobiologia generale;   
-2) danni di radiazioni e radiopatie;   
-d) protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:   
-1) legislazione sanitaria applicata alla radiologia;   
-2) compiti e responsabilita' medico-legali del radiologo;   
-3) radioprotezione fisica e dosimetria ad essa connessa:   
-4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;   
-5) radioprotezione chimica;   
-6) problemi tecnici e funzionali inerenti la progettazione, organizzazione e attivazione dei reparti radiologici;   
-e) radioterapia e terapia fisica (triennale) comprendente:   
-1) radiobiologia applicata;   
-2) fondamenti generali di radioterapia e terapia fisica;   
-3) istopatologia speciale dei tumori;   
-4) nozioni sugli apparecchi e strumenti per la radioterapia;   
-5) tecnica e metodica radioterapica;   
-6) dosimetria;   
-7) clinica radioterapica;   
-8) fondamenti generali di chemioterapia oncologica;   
-9) chemioterapia clinica dei tumori e sua associazione alla radioterapia;   
-10) dimostrazione di casistica clinica;   
-f) medicina nucleare (biennale) comprendente:   
-1) elementi di medicina nucleare;   
-2) istrumentario, tecnica e metodica dell'impiego dei radioisotopi in medicina nucleare;   
-3) dosimetria dei radioisotopi somministrati per via interna;   
-4) diagnostica con radioisotopi somministrati per via interna;   
-5) radioterapia metabolica;   
-6) dimostrazioni di casistica clinica.   
-I singoli insegnamenti, tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze, dimostrazioni pratiche e, ove opportuno e possibile, da visite ad istituzioni di particolare interesse, sono cosi' distribuiti nei 4 anni di corso:   
-1° Anno (tronco comune):   
-matematica, fisica, nozioni di statistica ed informatica; radiologia; protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;   
-radiodiagnostica (I).   
-2° Anno:   
-radiodiagnostica (II);   
-radioterapia e terapia fisica (I).   
-3° Anno:   
-radiodiagnostica (III);   
-radioterapia e terapia fisica (II);   
-medicina nucleare (I).   
-4° Anno:   
-radioterapia e terapia fisica (III);   
-medicina nucleare (II).   
-La durata dei corsi per il conseguimento del diploma di specializzazione in radiologia diagnostica e' di tre anni.   
-Gli insegnamenti sono i seguenti:   
-a) matematica, fisica, nozioni di statistica ed informatica (annuale) comprendente:   
-1) richiami di matematica e fisica generale;   
-2) costituzione della materia;   
-3) produzione, assorbimento e misura delle radiazioni;   
-4) statistica applicata alla medicina;   
-5) informatica e cibernetica applicate alla radiologia;   
-b) radiodiagnostica (triennale) comprendente:   
-1) principi generali di radiodiagnostica;   
-2) apparecchi, strumenti e tecnica radiodiagnostica;   
-3) tecnica e fisiologia applicate alla radiodiagnostica;   
-4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;   
-5) semeiotica radiologica;   
-6) diagnostica differenziale radiologica;   
-7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;   
-8) dimostrazioni di casistica clinica;   
-c) radiobiologia (annuale) comprendente:   
-1) radiobiologia generale;   
-2) danni da radiazioni e radiopatie;   
-d) protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:   
-1) legislazione sanitaria applicata alla radiologia;   
-2) compiti e responsabilita' medico-legali del radiologo;   
-3) radioprotezione fisica e dosimetria ad essa concessa;   
-4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;   
-5) radioprotezione chimica;   
-6) problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.   
-I singoli insegnamenti, tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze e dimostrazioni pratiche, sono cosi' distribuiti nei tre anni di corso:   
-1° Anno (tronco comune):   
-matematica, fisica, nozioni di statistica ed informatica; radiobiologia; protezioni radiologiche; legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia; radiodiagnostica (I).   
-2° Anno:   
-radiodiagnostica (II).   
-3° Anno:   
-radiodiagnostica (III).   
-Per essere ammessi agli esami di diploma in radiologia e in radiologia diagnostica gli iscritti, oltre ad aver compiuto un congruo periodo di internato, devono aver superato un esame su ciascuna materia d'insegnamento ed elaborata una tesi scritta su un argomento radiologico concordato con il direttore della scuola.   
+Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+L'art. 109, relativo alla "Scuola di specializzazione in clinica ostetrica e ginecologica" che muta la denominazione in quella di "Scuola di specializzazione in ostetricia e ginecologia", e' abrogato e sostituito dal seguente:  
+  
+Scuola di specializzazione in ostetricia e ginecologia  
+  
+Art. 109. - Il corso di studi per la specializzazione in ostetricia e ginecologia ha la durata di 4 anni. La ammissione alla scuola avviene a seguito di concorso per titoli ed esami.  
+Sono da considerarsi titoli preferenziali, a parita' di risultato dell'esame di ammissione:  
+a) il voto di laurea in medicina e chirurgia;  
+b) aver frequentato come studente interno una clinica ostetrica e ginecologica dell'universita';  
+c) aver svolto la tesi di laurea nella clinica ostetrica e ginecologica;  
+d) documentazione di eventuali servizi prestati in grossi reparti ospitalieri della specialita';  
+e) eventuali pubblicazioni.  
+L'esame di ammissione deve espletarsi entro il mese di dicembre.  
+Il numero degli iscritti e' di quattro per ogni anno di corso.  
+Per nessun motivo il corso di 4 anni puo' essere abbreviato. Nessun titolo puo' esonerare dalla frequenza gli iscritti nei 4 anni di corso.  
+Gli iscritti, oltre all'obbligo di frequenza delle lezioni, esercitazioni, seminari, ecc., devono prestare servizio analogo a quello degli assistenti per non meno di 9 mesi all'anno.  
+Gli iscritti alla scuola debbono sostenere esami annuali di profitto e l'esame finale di diploma. La sessione di esami di profitto e' unica, ed e' espletata nel mese di ottobre.  
+Non puo' essere iscritto all'anno successivo di corso chi non abbia superato le materie fondamentali della specialita'.  
+Il programma di studi e' il seguente:  
+  
+1° Anno:  
+Elementi di genetica e di eugenica;  
+Anatomia normale ed embriologia dell'apparato genitale femminile;  
+Fisiologia dell'apparato genitale femminile;  
+Endocrinologia fisiologica;  
+Fisiologia ostetrica;  
+Diagnostica ostetrica;  
+Clinica ostetrica e ginecologica.  
+  
+2° Anno:  
+Tecnica operatoria ostetrica;  
+Diagnostica ginecologica;  
+Tecnica diagnostica di laboratorio nel campo ostetrico-ginecologico, esclusa la istologia (sierologia, batteriologia, citologia, ematologia, biochimica);  
+Clinica ostetrica e ginecologica.  
+  
+3° Anno:  
+Anatomia patologica ostetrica e ginecologica;  
+Istologia normale e patologica nel campo della specialita';  
+Puericultura prenatale;  
+Emoterapia nel campo ostetrico e ginecologico;  
+Anestesia e analgesia nel campo ostetrico e ginecologico;  
+Tecnica operatoria ginecologica;  
+Clinica ostetrica e ginecologica;  
+Terapia medica ostetrica e ginecologica.  
+  
+4° Anno:  
+Puericultura postnatale e malattie del neonato;  
+Ostetricia e ginecologia forense;  
+Diagnostica roentgen, radioterapia in ostetricia e ginecologia;  
+Clinica ostetrica e ginecologica (esame alla fine del quarto anno);  
+Urologia ginecologica;  
+Chirurgia addominale extra genitale.  
+  
+Gli esami si fanno per gruppi di materie ed i membri delle commissioni saranno preposti dai direttori delle scuole.  
+A giudizio del consiglio della scuola, formulato sulla base del rendimento di ogni iscritto, gli specializzandi potranno essere esonerati dal pagamento delle tasse universitarie.  
+Per il conseguimento del diploma, l'iscritto deve presentare e discutere una dissertazione scritta con contributo personale.  
+Gli articoli 110, 111, 112 e 113, relativi alla "Scuola di specializzazione in chirurgia generale" che cambia la denominazione in quella di "Scuola di specializzazione in chirurgia", sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in chirurgia  
+  
+Art. 110. La scuola di specializzazione in chirurgia ha la durata di cinque anni. La sua sede naturale e' la clinica chirurgica. Il direttore della scuola deve essere un ordinario di clinica chirurgica di ruolo oppure uno dei membri titolari di materie chirurgiche della facolta'.  
+Art. 111. - Alla scuola non potranno essere iscritti piu' di cinque laureati in medicina e chirurgia per ciascun anno di corso.  
+La selezione dei candidati aspiranti all'ammissione alla scuola avverra' sulla base di titoli ed esami.  
+Le materie obbligatorie per il conseguimento del diploma sono le seguenti:  
+  
+Anatomia chirurgica e corso di operazioni (triennale);  
+Anatomia ed istologia patologica (biennale);  
+Anestesia e rianimazione;  
+Chirurgia cardiovascolare;  
+Chirurgia d'urgenza;  
+Chirurgia ginecologica;  
+Chirurgia pediatrica;  
+Chirurgia riparativa e plastica;  
+Chirurgia sperimentale;  
+Chirurgia toracica;  
+Chirurgia urologica;  
+Clinica chirurgica generale (quinquennale);  
+Fisiopatologia chirurgica;  
+Medicina legale;  
+Neurochirurgia;  
+Patologia speciale chirurgica (triennale);  
+Radiologia;  
+Ricerche di laboratorio;  
+Semeiotica chirurgica;  
+Semeiotica strumentale ed endoscopica;  
+Trattamento pre e post-operatorio;  
+Traumatologia ed ortopedia.  
+  
+Le suddette materie sono cosi' distribuite negli anni di corso:  
+  
+1° Anno:  
+Clinica chirurgica generale;  
+Patologia speciale chirurgica;  
+Semeiotica chirurgica;  
+Anatomia chirurgica e corso operazioni;  
+Chirurgia sperimentale;  
+Anestesia e rianimazione;  
+Ricerche di laboratorio.  
+  
+2° Anno:  
+Clinica chirurgica generale;  
+Patologia speciale chirurgica;  
+Semeiotica chirurgica;  
+Anatomia chirurgica e corso operazioni;  
+Fisiopatologia chirurgica;  
+Trattamento pre e post-operatorio;  
+Anatomia e istologia patologica.  
+  
+3° Anno:  
+Clinica chirurgica generale;  
+Patologia speciale chirurgica;  
+Semeiotica strumentale ed endoscopica;  
+Anatomia chirurgica e corso operazioni;  
+Radiologia;  
+Anatomia ed istologia patologica.  
+  
+4° Anno:  
+Clinica chirurgica generale;  
+Chirurgia ginecologica;  
+Chirurgia urologica;  
+Neurochirurgia;  
+Traumatologia e ortopedia;  
+Chirurgia pediatrica.  
+  
+5° Anno:  
+Clinica chirurgica generale;  
+Chirurgia toracica;  
+Chirurgia cardiovascolare;  
+Chirurgia riparativa e plastica;  
+Chirurgia d'urgenza;  
+Medicina legale.  
+  
+Art. 112. - Non sono consentite iscrizioni con abbreviazioni di corso.  
+La frequenza alle lezioni ed alle esercitazioni e' obbligatoria per tutti gli iscritti.  
+L'internato e' obbligatorio durante tutti i cinque anni di corso e si svolge nella clinica chirurgica e negli istituti chirurgici specialistici, con presenza giornaliera nelle sale operatorie, negli ambulatori, nei laboratori e nelle sale di degenza secondo i turni stabiliti dal direttore della scuola.  
+Dall'obbligo di tale internato saranno esentati quegli allievi che, in qualita' di assistenti e di aiuti, prestino effettivamente servizio presso reparti di chirurgia generale delle universita' e di ospedali di 1ª e 2ª categoria.  
+Gli allievi hanno doveri ed attribuzioni analoghi a quelli degli assistenti.  
+La frequenza nelle sale operatorie iniziera' fin dal primo anno di corso, e dopo un periodo di tirocinio, dovra' trasformarsi in compartecipazione attiva agli interventi operatori.  
+Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico dell'operosita' scolastica degli allievi, con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno.  
+L'allievo che non abbia ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali.  
+Art. 113. - Alla fine del corso l'allievo dovra' sostenere un esame generale di profitto.  
+Gli articoli 138, 139, 140 e 141, relativi alla "Scuola di specializzazione in clinica otorinolaringoiatrica" che cambia la denominazione in quella di "Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale", sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale  
+  
+Art. 138. - La scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale, ha sede presso la clinica otorinolaringoiatrica ed ha la durata di tre anni. Direttore della scuola e' il direttore della clinica otorinolaringoiatrica.  
+Art. 139. - Le materie di insegnamento sono le seguenti:  
+  
+1° Anno:  
+Anatomia;  
+Fisiologia;  
+Audiologia (1° anno);  
+Semeiotica otorinolaringoiatrica;  
+Tecnica di laboratorio;  
+Patologia otorinolaringoiatrica e cervico-facciale;  
+Anatomia ed istologia patologica otorinolaringoiatrica.  
+  
+2° Anno:  
+Tecniche operatorie in otorinolaringoiatria;  
+Anestesiologia in otorinolaringoiatria;  
+Patologia e clinica otorinolaringoiatrica e cervico-facciale (1° anno);  
+Radiologia in rapporto con l'otorinolaringoiatria;  
+Pediatria in rapporto con l'otorinolaringoiatria;  
+Audiologia (2° anno);  
+Otoneurologia;  
+Foniatria.  
+  
+3° Anno:  
+Patologia e clinica otorinolaringoiatrica e cervico-facciale (2° anno);  
+Terapia medica e fisica in otorinolaringoiatria;  
+Neuropatologia in rapporto con l'otorinolaringoiatria;  
+Oculistica in rapporto con l'otorinolaringoiatria;  
+Chirurgia plastica;  
+Tracheo-broncoscopia;  
+Medicina legale e infortunistica in otorinolaringoiatria.  
+  
+Art. 140. - Possono iscriversi alla scuola i laureati in medicina e chirurgia nel numero massimo di sei per ogni anno di corso.  
+Gli iscritti sono tenuti non soltanto a presenziare alle lezioni ed a prendere parte alle esercitazioni, ma anche a svolgere un internato in modo da poter ricavare una esperienza diretta sia dall'attivita' nei reparti operatori che dall'osservazione clinica continuata del paziente.  
+Art. 141. - Per accedere ai corsi successivi e' obbligatorio il superamento di tutti gli esami del corso precedente, ivi comprese le materie biennali.  
+Il diploma di specialista in otorinolaringoiatria e patologia cervico-facciale viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinico o sperimentale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 maggio 1976
+### Dato a Roma, addi' 7 giugno 1972
 
-LEONE MALFATTI
+LEONE MISASI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 27 luglio 1976
+Registrato alla Corte dei conti, addi' 25 luglio 1972
 
-Atti di Governo, registro n. 8 foglio n. 24
+Atti del Governo, registro n. 250, foglio n. 68. - CARUSO

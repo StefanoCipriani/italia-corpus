@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 954
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 1198
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 954
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1983 n. 1198
+=================================================================
 
 Modificazione allo statuto del Politecnico di Torino.
 -----------------------------------------------------
@@ -10,7 +10,7 @@ Modificazione allo statuto del Politecnico di Torino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto del Politecnico di Torino approvato con [decreto del Presidente della Repubblica 31 ottobre 1973, n. 1145](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-10-31;1145), e successive modificazioni;
+Veduto lo statuto del Politecnico di Torino, approvato con [regio decreto 1 ottobre 1936, n. 2456](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;2456), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -39,21 +39,19 @@ Articolo unico
 --------------
 
   
-Nell'art. 21, relativo ai corsi di laurea in ingegneria, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
-pianificazione urbanistica.  
+Nell'art. 21, relativo al corso di laurea in ingegneria, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+applicazioni della matematica all'economia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1985
+### Dato a Selva di Val Gardena, addi' 2 settembre 1983
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 11 marzo 1986
+Registrato alla Corte dei conti, addi' 28 aprile 1984
 
-Registro n. 12 Istruzione, foglio n. 274
+Registro n. 25 Istruzione, foglio n. 205

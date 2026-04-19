@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1983 n. 541
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1985 n. 842
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1983 n. 541
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1985 n. 842
+================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
@@ -39,20 +39,21 @@ Articolo unico
 --------------
 
   
-Nell'art. 93, relativo al corso di laurea in astronomia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-tecniche astrofisiche;  
-astrodinamica.  
+Nell'art. 30, relativo al corso di laurea in scienze politiche, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
+storia della chiesa nell'eta' moderna e contemporanea.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 maggio 1983
+### Dato a Roma, addi' 24 settembre 1985
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 28 settembre 1983
+Registrato alla Corte dei conti, addi' 21 gennaio 1986
 
-Registro n. 63 Istruzione, foglio n. 137
+Registro n. 2 Istruzione, foglio n. 110

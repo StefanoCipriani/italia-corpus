@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1984 n. 1071
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1982 n. 638
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 dicembre 1984 n. 1071
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1982 n. 638
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
@@ -39,23 +39,40 @@ Articolo unico
 --------------
 
   
-Nell'art. 65, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
-chirurgia della mano;  
-medicina dello sport;  
-urologia andrologica.  
+Art. 65 - nell'art. 65, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari, sono inclusi le seguenti discipline:  
+anatomia radiologica;  
+andrologia;  
+chirurgia gastroenterologica;  
+epidemiologia;  
+genetica umana;  
+igiene ambientale e del territorio;  
+medicina psicosomatica;  
+micologia medica;  
+patologia urologica;  
+psicopatologia generale;  
+radioterapia;  
+terapia intensiva;  
+farmacologia cardiovascolare;  
+fisioterapia dermatologica;  
+malattie autoimmuni;  
+malattie dell'apparato respiratorio;  
+terapia intensiva e di urgenza in geriatria;  
+otoneurologia;  
+psicopatologia medica dell'eta' evolutiva;  
+bioetica;  
+deontologia medica;  
+chirurgia plastica ricostruttiva della testa e del collo.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 dicembre 1984
+### Dato a Roma, addi' 22 luglio 1982
 
-PERTINI
+PERTINI BODRATO
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: DARIDA
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 4 settembre 1982
 
-Registrato alla Corte dei conti, addi' 11 febbraio 1985
-
-Registro n. 8 Istruzione, foglio n. 85
+Registro n. 104 Istruzione, foglio n. 319

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1963 n. 1394
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1082
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1963 n. 1394
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1082
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 -------------------------------------------------------------------
@@ -10,278 +10,52 @@ Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successivi;
+Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertiti nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1352), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
+
+Veduto il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Ferrara approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 19 - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti quelli di:
+Articolo unico
+--------------
 
-"Diritto processuale amministrativo:
-
-Sociologia".
-
-Art. 24. - Presso la Facolta' di giurisprudenza e due Istituti di Scienze economiche e statistiche, comprendente i Seminari e economia politica e statistica e di finanza pubblica, comprendente i Seminari di Scienza delle finanze e diritto finanziario sono riuniti in un solo Istituto avente la denominazione di:
-
-"Istituto di economia e finanza comprendente i Seminari di Economia politica, Statistica, Scienza delle finanze e diritto finanziario".
-
-Art. 28. - E' abrogato e sostituito dal seguente:
-
-"Gli Istituti di diritto privato, di diritto pubblico e di storia della filosofia del diritto, hanno una biblioteca comune.
-
-Uno dei direttori degli Istituti giuridici sara' incaricato di anno in anno dal Consiglio di Facolta' a sovraintendere alla, biblioteca comune e a coordinare il funzionamento degli Istituti stessi".
-
-Art. 30. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' aggiunto quello di:
-
-"Semeiotica chirurgica".
-
-Art. 36. - Agli insegnamenti complementari per gli indirizzi generali e didattico tabella A, nel corso di laurea in matematica e' aggiunto quello di:
-
-"Epistemologia e metodologia"
-
-Art. 16. - Agli insegnamenti complementari del corso di laurea in fisica e' aggiunto quello di "Epistemologia e metodologia" Gli articoli 83 e 84, relativi al nuovo ordinamento delle Scuole di perfezionamento in Cardioreumatolgia ed in Malattie del fegato e del ricambio sono abrogati e sostituiti dai seguenti:
-
-Scuola di perfezionamento in Cardioreumatologia
-
-Art. 83. - La Scuola ha la durata di 3 anni. Ha sede presso la clinica medica il cui professore di ruolo e' direttore della Scuola stessa.
-
-Potranno essere iscritti alla Scuola i medici in possesso della laurea in Medicina e chirurgia, nel numero massimo di 20 (venti) per anno.
-
-Le materie di insegnamento per anno sono le seguenti:
-
-Primo anno:
-
-Anatomia normale cardiovascolare ed articolare;
-
-Fisiologia, cardiovascolare;
-
-Fisiopatologia cardiovascolare;
-
-Semeiotica fisica cardiovascolare I;
-
-Patologia speciale cardiovascolare I;
-
-Clinica e terapia cardioreumatica I;
-
-Tecniche di emodinamica circolatoria I;
-
-Tecniche radioisotopiche I;
-
-Secondo anno:
-
-Anatomia patologica cardiovascolare ed articolare;
-
-Farmacologia cardiovascolare e reumatica;
-
-Semeiotica fisica cardiovascolare II;
-
-Patologia speciale cardioreumatica II;
-
-Clinica e terapia cardioreumatica II;
-
-Tecniche di emodinamiche circolatorie II;
-
-Tecniche radioisotopiche II;
-
-Elettrocardiografia I.
-
-Terzo anno:
-
-Radiologia;
-
-Tecniche reumatologiche;
-
-Elettrocardiografia;
-
-Patologia speciale cardioreumatiche III;
-
-Clinica e terapia cardioreumatica III.
-
-Alla fine di ogni corso, gli iscritti per essere ammessi agli anni di corso successivi, devono superare due distinti esami, il primo per le materie propedeutiche ed il secondo per quelle cliniche.
-
-Oltre agli insegnamenti teorici, saranno svolte esercitazioni pratiche alle quali gli iscritti hanno l'obbligo di intervenire.
-
-L'insegnamento, avra' carattere eminentemente pratico, dimostrativo, a mezzo di lezioni, colloqui, esercitazioni sopra casi chimici e ricerche di laboratorio.
-
-L'esame di diploma si sostiene alla fine dei tre anni di corso e si estende a tutte le materie di insegnamento vertendo in particolare sull'argomento scelto come tesi.
-
-In un manifesto annuale della clinica medica vengono esposte le norme dettagliate riguardanti i vari insegnamenti.
-
-Scuola di perfezionamento in Malattie del fegato e del ricambio
-
-Art. 84. - La Scuola ha la durata di due anni ed ha sede presso la clinica medica il cui professore di ruolo e' il direttore della Scuola.
-
-Potranno essere iscritti alla Scuola i medici, in possesso della laurea in Medicina e chirurgia nel numero massimo di 10 (dieci) per anno.
-
-Le materie di insegnamento sono le seguenti:
-
-Primo anno:
-
-Anatomia normale del fegato del tubo digerente e delle ghiandole endocrine in relazione alla malattie del ricambio;
-
-Biochimica del metabolismo;
-
-Fisiopatologia del metabolismo;
-
-Semeiotica fisica e funzionale I;
-
-Patologia delle malattie del fegato e del ricambio I;
-
-Clinica e terapia malattie del fegato e del ricambio I.
-
-Secondo anno:
-
-Anatomia patologica del fegato, del tubo digerente e delle ghiandole endocrine in relazione alle malattie del ricambio Tecniche speciali microscopiche, chimiche e radioisotopiche;
-
-Semeiotica fisica e funzionale II;
-
-Patologia delle malattie del fegato e del ricambio II;
-
-Clinica e terapia malattie fegato e ricambio II.
-
-Gli iscritti hanno l'obbligo di compiere periodi di esercitazioni nell'Istituto di clinica medica, secondo i turni stabiliti dal direttore della Scuola.
-
-Alla fine di ogni anno gli iscritti per essere ammessi agli anni di corso successivi, devono superare due distinti esami il primo per le materie propedeutiche ed il secondo per quelle cliniche.
-
-L'esame di diploma si sostiene alla fine dei due anni di corso e si estende a tutte le materie di insegnamento vertendo in particolare sull'argomento scelto come tesi.
-
-In un manifesto annuale della clinica medica vengono esposte le norme dettagliate riguardanti i vari insegnamenti.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo e di farlo osservare.
-
-Dato a Roma, addi' 5 settembre 1963
-
-SEGNI
-
-GUI
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 23 ottobre 1963 Atti del Governo, registro n. 175, foglio n. 74. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertiti nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1352), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Ferrara approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:  
-Art. 19 - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti quelli di:  
-"Diritto processuale amministrativo:  
-Sociologia".  
-Art. 24. - Presso la Facolta' di giurisprudenza e due Istituti di Scienze economiche e statistiche, comprendente i Seminari e economia politica e statistica e di finanza pubblica, comprendente i Seminari di Scienza delle finanze e diritto finanziario sono riuniti in un solo Istituto avente la denominazione di:  
-"Istituto di economia e finanza comprendente i Seminari di Economia politica, Statistica, Scienza delle finanze e diritto finanziario".  
-Art. 28. - E' abrogato e sostituito dal seguente:  
-"Gli Istituti di diritto privato, di diritto pubblico e di storia della filosofia del diritto, hanno una biblioteca comune.  
-Uno dei direttori degli Istituti giuridici sara' incaricato di anno in anno dal Consiglio di Facolta' a sovraintendere alla, biblioteca comune e a coordinare il funzionamento degli Istituti stessi".  
-Art. 30. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' aggiunto quello di:  
-"Semeiotica chirurgica".  
-Art. 36. - Agli insegnamenti complementari per gli indirizzi generali e didattico tabella A, nel corso di laurea in matematica e' aggiunto quello di:  
-"Epistemologia e metodologia"  
-Art. 16. - Agli insegnamenti complementari del corso di laurea in fisica e' aggiunto quello di "Epistemologia e metodologia" Gli articoli 83 e 84, relativi al nuovo ordinamento delle Scuole di perfezionamento in Cardioreumatolgia ed in Malattie del fegato e del ricambio sono abrogati e sostituiti dai seguenti:  
-  
-Scuola di perfezionamento in Cardioreumatologia  
-  
-Art. 83. - La Scuola ha la durata di 3 anni. Ha sede presso la clinica medica il cui professore di ruolo e' direttore della Scuola stessa.  
-Potranno essere iscritti alla Scuola i medici in possesso della laurea in Medicina e chirurgia, nel numero massimo di 20 (venti) per anno.  
-Le materie di insegnamento per anno sono le seguenti:  
-  
-Primo anno:  
-Anatomia normale cardiovascolare ed articolare;  
-Fisiologia, cardiovascolare;  
-Fisiopatologia cardiovascolare;  
-Semeiotica fisica cardiovascolare I;  
-Patologia speciale cardiovascolare I;  
-Clinica e terapia cardioreumatica I;  
-Tecniche di emodinamica circolatoria I;  
-Tecniche radioisotopiche I;  
-  
-Secondo anno:  
-Anatomia patologica cardiovascolare ed articolare;  
-Farmacologia cardiovascolare e reumatica;  
-Semeiotica fisica cardiovascolare II;  
-Patologia speciale cardioreumatica II;  
-Clinica e terapia cardioreumatica II;  
-Tecniche di emodinamiche circolatorie II;  
-Tecniche radioisotopiche II;  
-Elettrocardiografia I.  
-  
-Terzo anno:  
-Radiologia;  
-Tecniche reumatologiche;  
-Elettrocardiografia;  
-Patologia speciale cardioreumatiche III;  
-Clinica e terapia cardioreumatica III.  
-  
-Alla fine di ogni corso, gli iscritti per essere ammessi agli anni di corso successivi, devono superare due distinti esami, il primo per le materie propedeutiche ed il secondo per quelle cliniche.  
-Oltre agli insegnamenti teorici, saranno svolte esercitazioni pratiche alle quali gli iscritti hanno l'obbligo di intervenire.  
-L'insegnamento, avra' carattere eminentemente pratico, dimostrativo, a mezzo di lezioni, colloqui, esercitazioni sopra casi chimici e ricerche di laboratorio.  
-L'esame di diploma si sostiene alla fine dei tre anni di corso e si estende a tutte le materie di insegnamento vertendo in particolare sull'argomento scelto come tesi.  
-In un manifesto annuale della clinica medica vengono esposte le norme dettagliate riguardanti i vari insegnamenti.  
-  
-Scuola di perfezionamento in Malattie del fegato e del ricambio  
-  
-Art. 84. - La Scuola ha la durata di due anni ed ha sede presso la clinica medica il cui professore di ruolo e' il direttore della Scuola.  
-Potranno essere iscritti alla Scuola i medici, in possesso della laurea in Medicina e chirurgia nel numero massimo di 10 (dieci) per anno.  
-Le materie di insegnamento sono le seguenti:  
-  
-Primo anno:  
-Anatomia normale del fegato del tubo digerente e delle ghiandole endocrine in relazione alla malattie del ricambio;  
-Biochimica del metabolismo;  
-Fisiopatologia del metabolismo;  
-Semeiotica fisica e funzionale I;  
-Patologia delle malattie del fegato e del ricambio I;  
-Clinica e terapia malattie del fegato e del ricambio I.  
-  
-Secondo anno:  
-Anatomia patologica del fegato, del tubo digerente e delle ghiandole endocrine in relazione alle malattie del ricambio Tecniche speciali microscopiche, chimiche e radioisotopiche;  
-Semeiotica fisica e funzionale II;  
-Patologia delle malattie del fegato e del ricambio II;  
-Clinica e terapia malattie fegato e ricambio II.  
-  
-Gli iscritti hanno l'obbligo di compiere periodi di esercitazioni nell'Istituto di clinica medica, secondo i turni stabiliti dal direttore della Scuola.  
-Alla fine di ogni anno gli iscritti per essere ammessi agli anni di corso successivi, devono superare due distinti esami il primo per le materie propedeutiche ed il secondo per quelle cliniche.  
-L'esame di diploma si sostiene alla fine dei due anni di corso e si estende a tutte le materie di insegnamento vertendo in particolare sull'argomento scelto come tesi.  
-In un manifesto annuale della clinica medica vengono esposte le norme dettagliate riguardanti i vari insegnamenti.  
+Nell'art. 38, relativo al corso di laurea in materie letterarie, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+storia della filosofia moderna e contemporanea.  
+Nell'art. 39, relativo al corso di laurea in pedagogia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+storia della filosofia moderna e contemporanea.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 settembre 1963
+### Dato a Roma, addi' 31 dicembre 1985
 
-SEGNI GUI
+COSSIGA
 
-Visto, il Guardasigilli: BOSCO
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 23 ottobre 1963
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Atti del Governo, registro n. 175, foglio n. 74. - VILLA
+Registrato alla Corte dei conti, addi' 28 aprile 1986
+
+Registro n. 33 Istruzione, foglio n. 66
